@@ -1,0 +1,4 @@
+Özel denetim uygulaması
+MADDE 44- (1) Özel denetim, Bakan veya Başkan tarafından bizzat incelenmesi istenen konuda direktif verilmesi durumunda icra edilir.
+(2) Başkanlığa bağlı merkez birimleri ve il valilikleri, belli konulardaki faaliyet ve işlemlerin özel denetime tabi tutulması konusunda talepte bulunabilirler. Bu taleplerin özel denetime tabi tutulması, Rehberlik ve Denetim Başkanının uygun görüşü ve Başkanın onayı ile yapılır.
+(3) Başkanlığın görev alanına giren belli bir konu hakkında denetçiler tarafından özel denetim raporu düzenlenmesine ilişkin önerilerde bulunulabilir. Bu öneriler Rehberlik ve Denetim Başkanı tarafından değerlendirilir. Rehberlik ve Denetim Başkanı tarafından yapılan değerlendirmenin sonucu Başkana sunulur. Başkan tarafından onay verilmesi durumunda özel denetim yapılmasına karar verilir.

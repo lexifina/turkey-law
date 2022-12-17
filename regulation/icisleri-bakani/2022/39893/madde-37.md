@@ -1,0 +1,2 @@
+Yeterlik sınavını kazanamayanlar ve sınava girmeyenler
+MADDE 37- (1) Yeterlik sınavında başarılı olamayanlara veya sınava girmeye hak kazandığı halde geçerli mazereti olmaksızın sınav hakkını kullanmayanlara, bir yıl içinde ikinci kez sınav hakkı verilir. Bu süre sonunda da yeterlik sınavında başarı göstermeyenler veya ikinci yeterlik sınav hakkını kullanmayanlar denetçi yardımcısı unvanını kaybeder ve Başkanlığın merkez teşkilatında münhal bulunan durumlarına uygun memur unvanlı kadrolara atanır.

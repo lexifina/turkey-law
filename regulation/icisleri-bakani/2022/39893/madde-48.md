@@ -1,0 +1,4 @@
+Genel ve özel denetim raporlarının teslimi, dağıtımı ve saklanması
+MADDE 48- (1) Denetçiler tarafından genel denetim sonucunda düzenlenen raporlardan; merkez teşkilatındaki birimler ile doğrudan Başkana bağlı birimlere ilişkin olanlar ilgili birime, taşra teşkilatına ilişkin olanlar ise ilgili valiliğe teslim edilir, ayrıca Rehberlik ve Denetim Başkanlığına da sunulur.
+(2) Denetçiler tarafından özel denetim sonucunda düzenlenen raporlar doğrudan Rehberlik ve Denetim Başkanlığına sunulur. Bu raporların sonucu Rehberlik ve Denetim Başkanlığının yapacağı değerlendirme sonrasında Başkan tarafından verilecek karara göre belirlenir.
+(3) İlgili birimler, raporları ve bunlarla ilgili olarak verilen emir ve yazıları özel bir dosyada saklarlar. Bunların saklanmasından, devir ve tesliminden, birimlerin amirleri ve ilgili personel birlikte sorumludurlar.

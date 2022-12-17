@@ -1,0 +1,14 @@
+BEŞİNCİ BÖLÜM
+Denetçi ve Denetçi Yardımcılarının Görev, Yetki ve Sorumlulukları
+Denetçilerin görev, yetki ve sorumlulukları
+MADDE 8- (1) Denetçiler aşağıdaki görevleri yaparlar:
+a) Başkanlık mevzuat hükümlerinin uygulanmasını; usulsüzlükleri ve hataları önleyici, eğitici ve rehberlik yaklaşımını ön plana çıkaran bir anlayışla denetlemek.
+b) Görevlerini yaparken bizzat öğrenmiş oldukları ve görev emrinin dışında kalan yolsuzluk ve usulsüzlükler için, gecikmeden hadiseye el koyabilmek üzere, durumu hemen Rehberlik ve Denetim Başkanına bildirmek, gecikmesinde sakınca bulunan ve delillerin kaybına neden olabilecek hallerde delilleri toplamak.
+c) Mevzuatın uygulanmasından doğan sonuçlar üzerinde inceleme yaparak, tespit edilen yanlış uygulama ve eksikliklerin giderilmesi ile düzeltilmesi yollarını araştırmak ve işlerin istenen seviyede yürümesini sağlamak için alınması gereken tedbirleri ve görüşlerini bir raporla Rehberlik ve Denetim Başkanlığına bildirmek.
+ç) Denetim, inceleme, ön inceleme, araştırma, disiplin soruşturması veya soruşturma esnasında; işlerinin başından ayrılmaları sakıncalı görülen personelin izinlerinin, denetim, inceleme, ön inceleme, araştırma, disiplin soruşturması veya soruşturmanın sonuna bırakılmasını ve izne ayrılanların görev başına dönmelerini istemek.
+d) Önceki denetim, inceleme, ön inceleme, araştırma, disiplin soruşturması veya soruşturma dolayısıyla gönderilmiş olan talimatların yerine getirilip getirilmediğini kontrol etmek.
+e) Refakatlerine verilecek denetçi yardımcılarının meslekte yetiştirilmesini sağlamak ve hizmet içi eğitim programlarının hazırlanmasına katılmak.
+f) Görevlendirildikleri çeşitli konularda yurt içinde ve yurt dışında inceleme yapmak; kurs, seminer gibi toplantılara katılmak ve sonuçlarını Başkanlığa bildirmek.
+g) Rehberlik ve Denetim Başkanının denetim hizmetleri ile ilgili olarak vereceği benzeri görevleri yapmak.
+(2) Denetçiler, denetim, inceleme, ön inceleme, araştırma, disiplin soruşturması ve soruşturma görevlerini yaparken, görevlilerin muhafaza ettikleri bütün belge ve defterleri, fotoğraf ve video kayıtlarını, elektronik, manyetik ve benzeri bilgi işlem ortamındaki bilgileri ve kayıtları, para ve para hükmündeki evrak ve senetler ile mal ve eşyayı gizli de olsa görmeye, incelemeye ve saymaya görevli ve yetkili olup yaptıkları çalışmalar ve hazırladıkları raporlardan yürürlükteki mevzuat çerçevesinde sorumludur.
+(3) Denetçiler, görevleri ile ilgili mevzuatta uzmanlığı, özel veya teknik bilgiyi gerektiren hallerde merkezde Başkanlıktan, taşrada mülki amirlerden konuyla ilgili birimlerde çalışan personelin görevlendirilmesini talep edebilirler. Başkanlık ve mülki amirler bu istemlerin gereğini takdir ve ifa ederler. Bu fıkra kapsamında görevlendirilen personel yalnızca kendi uzmanlık alanlarıyla ilgili konuları tetkik ederek tespit, görüş ve önerilerini denetçiye bildirir.

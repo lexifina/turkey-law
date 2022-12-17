@@ -1,0 +1,2 @@
+Giriş sınavı ilanı
+MADDE 21- (1) Sınavın şekli, yeri ve zamanı, müracaat tarihi ve yeri, sınava katılma şartları, atama yapılacak kadro ve sınava alınacak aday sayısı, öğrenim dalları ve kontenjanları ile bunların KPSS puan türleri, sınav içeriği ve değerlendirme yöntemi, istenilecek belgelere ilişkin bilgiler ile diğer hususlar giriş sınavı tarihinden en az otuz gün önce Resmî Gazete ile Cumhurbaşkanlığının belirlediği kurumun ve Başkanlığın kurumsal internet sitelerinde ilan edilir.

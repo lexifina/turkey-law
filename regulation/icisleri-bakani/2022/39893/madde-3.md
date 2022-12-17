@@ -1,0 +1,23 @@
+Tanımlar ve kısaltmalar
+MADDE 3- (1) Bu Yönetmelikte geçen;
+a) Araştırma: Bir iddia, olay veya yürütülen iş ve işlemler ile ilgili olarak personel hakkında adli, mali ve disiplin işlemleri ile diğer idari işlemlerin yapılmasına gerek olup olmadığının tespiti amacıyla yapılan işlem ve faaliyetleri,
+b) Bakan: İçişleri Bakanını,
+c) Bakanlık: İçişleri Bakanlığını,
+ç) Başkan: Afet ve Acil Durum Yönetimi Başkanını,
+d) Başkanlık: Afet ve Acil Durum Yönetimi Başkanlığını,
+e) Denetçi: Afet ve acil durum yönetimi denetçilerini,
+f) Denetçi yardımcısı: Afet ve acil durum yönetimi denetçi yardımcılarını,
+g) Disiplin soruşturması: Personelin disiplin hukukundan doğan sorumluluklarının saptanması amacıyla yapılan işlem ve faaliyetleri,
+ğ) Elektronik Belge Yönetimi Sistemi (EBYS): İdarelerin faaliyetlerini yerine getirirken hazırladıkları ve faaliyetlerinin delili olabilecek e-Yazışma Teknik Rehberine uygun belgelerin içerik, üstveri, format ve ilişkisel özelliklerini koruyan, belgelerin ait olduğu fonksiyon veya işlem için delil teşkil eden ve aidiyet zinciri içerisindeki yönetimini elektronik ortamda sağlayan sistemi,
+h) Genel denetim: Birimlerin iş ve işlemlerinin kalitesini, verimini ve etkililiğini, hukuka uygunluğunu ve hizmetlerdeki eksiklikleri tespit etmek, hizmet standartlarının iyileştirilmesini sağlamak, yürütülen faaliyetleri performans ölçütlerine ve kalite standartlarına göre analiz etmek, karşılaştırmak ve ölçmek, bu kapsamda personeli işbaşında değerlendirmek amacıyla haberli veya habersiz olarak yapılan işlem ve faaliyetleri,
+ı) Giriş sınavı: Denetçi yardımcılığına atanabilmek için KPSS sonuçlarına göre yazılı ve sözlü olarak iki aşamalı veya sadece sözlü olmak üzere tek aşamalı olarak yapılan sınavı,
+i) İnceleme: Başkanlığın organizasyon ve metot, malzeme, kadro, hizmet standartları, çalışma yerleri, bütçe, kaynak kullanımı, mevzuat ve benzeri konularda durum ve sorunların tespiti ve çözüm önerilerinin ortaya konulması ya da bu konularda geliştirilmesine yönelik yapılan çalışmalar ile belirli bir konuda uygulanması gereken idari, mali ve hukuki işlemin ortaya konulması, gerekçelendirilmesi ve önerilmesi amacıyla denetçiler ve denetçi yardımcıları tarafından yapılan çalışmaları,
+j) Kamu zararı: Kamu görevlilerinin kasıt, kusur veya ihmallerinden kaynaklanan mevzuata aykırı karar, işlem veya eylemleri sonucunda kamu kaynağında artışa engel veya eksilmeye neden olunmasından doğan zararı,
+k) KPSS: 18/3/2002 tarihli ve 2002/3975 sayılı Bakanlar Kurulu Kararı ile yürürlüğe konulan Kamu Görevlerine İlk Defa Atanacaklar İçin Yapılacak Sınavlar Hakkında Genel Yönetmelik hükümlerine göre yapılan Kamu Personel Seçme Sınavını,
+l) Ön inceleme: 2/12/1999 tarihli ve 4483 sayılı Memurlar ve Diğer Kamu Görevlilerinin Yargılanması Hakkında Kanun uyarınca, aynı Kanun kapsamındaki suçlar bakımından yetkili idari merci tarafından personel hakkında ittihaz edilecek soruşturma izni verilmesi veya verilmemesi kararına dayanak teşkil etmek amacıyla; ön inceleme ile görevlendirilenler tarafından 4483 sayılı Kanun ve 4/12/2004 tarihli ve 5271 sayılı Ceza Muhakemesi Kanununa göre yapılan işlem ve faaliyetleri,
+m) ÖSYM: Ölçme, Seçme ve Yerleştirme Merkezi Başkanlığını,
+n) Özel denetim: Başkanlığın merkez ve taşra teşkilatında görev icra eden birimlerinin belirlenmiş bir konu veya proje dâhilinde yürütmekte oldukları iş ve işlemlerin denetlenmesini,
+o) Rehberlik ve Denetim Başkanı: Afet ve Acil Durum Yönetimi Rehberlik ve Denetim Başkanını,
+ö) Rehberlik ve Denetim Başkanlığı: Afet ve Acil Durum Yönetimi Rehberlik ve Denetim Başkanlığını,
+p) Soruşturma: Başkanlık merkez ve taşra teşkilatında görevli personelin 19/4/1990 tarihli ve 3628 sayılı Mal Bildiriminde Bulunulması, Rüşvet ve Yolsuzluklarla Mücadele Kanunu kapsamındaki suçlar bakımından sorumluluklarının saptanmasına yönelik olarak denetçiler tarafından yapılan işlem ve faaliyetleri,
+ifade eder.

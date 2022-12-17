@@ -1,0 +1,4 @@
+Soruşturmada usul ve soruşturma raporu
+MADDE 67- (1) Denetçiler tarafından, 65 inci ve 66 ncı maddeler kapsamında gerçekleştirilen soruşturmanın sonuçları soruşturma raporuna bağlanır. Bununla birlikte, yürütülen soruşturma süreci sonunda suç unsuru tespit edilememesi durumunda, Rehberlik ve Denetim Başkanlığına sunulmak üzere denetçilerce araştırma raporu düzenlenir ve bu raporda varsa konu ile ilgili tedbir ve tekliflere yer verilir.
+(2) Denetçiler, soruşturma esnasında; 657 sayılı Kanun, 5271 sayılı Kanun, 3628 sayılı Kanun ve ilgili diğer mevzuata istinaden, bilirkişi görevlendirilmesi, belge toplanması, muhbir ve müştekinin ifadesinin alınması, muayene, tanık dinlenilmesi, istinabe usulünün kullanılması ve keşif gibi uygulama kabiliyeti bulunan elverişli usul işlemlerini kullanabilir.
+(3) Soruşturma konusunun birden fazla olması durumunda her bir konu müstakil başlık altında incelenir.
