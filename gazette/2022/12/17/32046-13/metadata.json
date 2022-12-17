@@ -1,0 +1,20 @@
+{
+  "record_type": "gazette-item",
+  "gazette": "Resmî Gazete",
+  "jurisdiction": "TR",
+  "date": "2022-12-17",
+  "issue": "32046",
+  "edition": "regular",
+  "item": 13,
+  "section": "YÜRÜTME VE İDARE BÖLÜMÜ",
+  "heading": "TEBLİĞLER",
+  "title": "2023 Yılı Uzlaştırmacı Asgari Ücret Tarifesi",
+  "official_link": "https://www.resmigazete.gov.tr/eskiler/2022/12/20221217-13.htm",
+  "link_format": "htm",
+  "index_url": "https://www.resmigazete.gov.tr/eskiler/2022/12/20221217.htm",
+  "index_sha256": "81d827cd8f5e2e9142258da4cd9141d357e3dafe778f718fd3a562695d98884a",
+  "index_header": "17 Aralık 2022 ... 32046 Sayılı Resmî Gazete",
+  "issue_pdf": "https://www.resmigazete.gov.tr/eskiler/2022/12/20221217.pdf",
+  "in_force_basis": "Resmî Gazete publication date; not a commencement reading.",
+  "text_status": "metadata-only; text not yet fetched (follow-up pass adds it as its own commit)"
+}
