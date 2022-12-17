@@ -1,0 +1,5 @@
+Soru formları, görüş ve bilgilerin sunulması
+MADDE 6- (1) Soruşturma ile ilgili soru formları ve başvurunun gizli olmayan özeti Bakanlığın internet sitesi (http://www.ticaret.gov.tr) “Teşkilat/İthalat Genel Müdürlüğü” başlığı altında “Ticaret Politikası Savunma Araçları” sayfasında bulunan “Korunma Önlemleri/Soruşturmalar” bağlantısında yer almakta olup bahse konu soruşturmanın sayfasından indirilir.
+(2) İlgili tarafların soru formunu, bu Tebliğin yayımı tarihinden itibaren otuz gün içinde doldurup Genel Müdürlüğe iletmeleri gerekir. İlgili taraflarca soru formlarının doldurulmasıyla ilgili olarak Genel Müdürlükten yardım alınabilir.
+(3) Soruşturmaya ilişkin yazılı ve sözlü iletişim Türkçe yapılır. İlgili tarafların soru formuna ilişkin yanıtlarını ve bu yanıtlar dışında kalan tüm bilgi, belge, görüş ve taleplerini yazılı olarak Türkçe sunmaları gerekir. Türkçe dışında bir dilde sunulan yanıt, bilgi, belge, görüş ve talepler dikkate alınmaz.
+(4) Genel Müdürlük gerekli görmesi halinde ilgililerden ek bilgi ve belge isteyebilir.

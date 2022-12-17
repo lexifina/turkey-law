@@ -1,0 +1,2 @@
+Ön inceleme
+MADDE 2- (1) Söz konusu başvuruya istinaden yapılan ön incelemede; mevcut korunma önleminin uygulanmaya başlaması sonrasında İran menşeli ithalatın son dönemde önemli artış kaydettiği, yerli üreticilerin istikrarlı devam eden ekonomik göstergelerinden, yurt içi satışlarının 2021 yılında düşüş kaydettiği, ayrıca İran’ın Türkiye’ye gerçekleştirdiği ihracatın toplam ihracatı içerisindeki payının arttığı tespit edilmiştir.

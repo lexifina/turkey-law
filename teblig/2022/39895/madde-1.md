@@ -1,0 +1,2 @@
+Amaç ve kapsam
+MADDE 1- (1) Bu Tebliğin amacı; 3920.20.21.00.19 Gümrük Tarife İstatistik Pozisyonunda (GTİP) yer alan İran menşeli BOPP Film ithalatında 5/5/2020 tarihli ve 31118 sayılı Resmî Gazete’de yayımlanan İthalatta Korunma Önlemlerine İlişkin Tebliğ (Tebliğ No:2020/2) kapsamında uygulanan korunma önleminin süresinin uzatılması için yerli üreticiler tarafından yapılan başvuru üzerine soruşturma açılması ve Ticaret Bakanlığı (Bakanlık) İthalat Genel Müdürlüğü (Genel Müdürlük) tarafından yürütülecek soruşturmanın usul ve esaslarının belirlenmesidir.
