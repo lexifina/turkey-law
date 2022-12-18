@@ -1,0 +1,5 @@
+Merkez yönetim kurulunun görevleri
+MADDE 11 – (1) Merkez Yönetim Kurulunun görevleri şunlardır;
+a) Merkezin çalışmalarını düzenlemek,
+b) Merkez Müdürü tarafından hazırlanan yıllık çalışma programı ile faaliyet raporunu, araştırma ve eğitim projelerini görüşüp karara bağlamak,
+c) Merkezin çalışmaları için gerekli görülen çalışma grupları ve komisyonları kurmak.
