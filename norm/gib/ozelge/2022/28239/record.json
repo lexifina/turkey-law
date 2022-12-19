@@ -1,0 +1,22 @@
+{
+  "kind": "norm",
+  "issuer": "Gelir İdaresi Başkanlığı",
+  "document_type": "ozelge",
+  "number": "62030549-125[10-2019/328]-1500152",
+  "source_id": 28239,
+  "date": "2022-12-19",
+  "title": "Nakit sermaye artışında faiz indirimi.",
+  "source": "https://gib.gov.tr/mevzuat/kanun/435/ozelge/28239",
+  "related_law": "5520 sayılı KURUMLAR VERGİSİ KANUNU",
+  "source_api": "https://gib.gov.tr/api/gibportal/mevzuat/ozelge/list",
+  "source_listing": "evidence/list/2026-11-16/ozelge-p003.json",
+  "source_listing_sha256": "b8eb1aba686c15efb9ca96f819c840940788d8f48769f30127e032220fbff4ab",
+  "source_sha256": "82b71b735e95af9730fb72f9351ddcc2d1058f099e75ab2f7f00fa20505dfa2a",
+  "text_status": "as-enacted",
+  "text_file": "metin.md",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  }
+}
