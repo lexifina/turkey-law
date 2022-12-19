@@ -1,0 +1,22 @@
+{
+  "kind": "norm",
+  "issuer": "Gelir İdaresi Başkanlığı",
+  "document_type": "ozelge",
+  "number": "35672403-010.01[120-01-2022]-178545",
+  "source_id": 37723,
+  "date": "2022-12-19",
+  "title": "İpotek bedelinin değer artışı kazancında gider olarak dikkate alınıp alınamayacağı.",
+  "source": "https://gib.gov.tr/mevzuat/kanun/433/ozelge/37723",
+  "related_law": "193 sayılı GELİR VERGİSİ KANUNU",
+  "source_api": "https://gib.gov.tr/api/gibportal/mevzuat/ozelge/list",
+  "source_listing": "evidence/list/2026-11-16/ozelge-p008.json",
+  "source_listing_sha256": "292c126217cc32c3ccfa57495ce433f89ef8db5e75fa1946d5819a76f81aff4d",
+  "source_sha256": "60a7e70733f9792e8b4b8e57c5e2dd90f55abdb92dc5671a140ef0f1e3ddf885",
+  "text_status": "as-enacted",
+  "text_file": "metin.md",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  }
+}
