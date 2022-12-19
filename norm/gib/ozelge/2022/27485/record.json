@@ -1,0 +1,22 @@
+{
+  "kind": "norm",
+  "issuer": "Gelir İdaresi Başkanlığı",
+  "document_type": "ozelge",
+  "number": "38418978-125[4-2021/3-İ]-589887",
+  "source_id": 27485,
+  "date": "2022-12-19",
+  "title": "Kooperatifin Ortak Dışı Satış Yapan Personelinin Ücret Giderlerinin İktisadi İşletme Bünyesinde Verilen Kurumlar Vergisi Matrahından İndirim Konusu Yapılıp Yapılamayacağı",
+  "source": "https://gib.gov.tr/mevzuat/kanun/435/ozelge/27485",
+  "related_law": "5520 sayılı KURUMLAR VERGİSİ KANUNU",
+  "source_api": "https://gib.gov.tr/api/gibportal/mevzuat/ozelge/list",
+  "source_listing": "evidence/list/2026-11-16/ozelge-p003.json",
+  "source_listing_sha256": "b8eb1aba686c15efb9ca96f819c840940788d8f48769f30127e032220fbff4ab",
+  "source_sha256": "d628231cfcc5233fcdc79b50dbba5bfcfa4b3245a44661ebf42d9644af149afb",
+  "text_status": "as-enacted",
+  "text_file": "metin.md",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  }
+}
