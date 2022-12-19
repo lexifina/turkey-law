@@ -1,0 +1,22 @@
+{
+  "kind": "norm",
+  "issuer": "Gelir İdaresi Başkanlığı",
+  "document_type": "ozelge",
+  "number": "61504625-120-83206",
+  "source_id": 21785,
+  "date": "2022-12-19",
+  "title": "Çiniden sofra takımı, ev, tuvalet ve süs eşyası imalatı faaliyeti nedeniyle basit usulde ticari kazanç mükellefi olunup olunmayacağı.",
+  "source": "https://gib.gov.tr/mevzuat/kanun/433/ozelge/21785",
+  "related_law": "193 sayılı GELİR VERGİSİ KANUNU",
+  "source_api": "https://gib.gov.tr/api/gibportal/mevzuat/ozelge/list",
+  "source_listing": "evidence/list/2026-11-16/ozelge-p000.json",
+  "source_listing_sha256": "5444faf84128246cd8dd8c6db754d41e2a11c7717342bfe0a07a35074d061761",
+  "source_sha256": "a9b26995419850360d0b17b9652bb49a3f02df69c20d189198e35a1a6483dbe3",
+  "text_status": "as-enacted",
+  "text_file": "metin.md",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  }
+}
