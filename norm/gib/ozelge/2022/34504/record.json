@@ -1,0 +1,22 @@
+{
+  "kind": "norm",
+  "issuer": "Gelir İdaresi Başkanlığı",
+  "document_type": "ozelge",
+  "number": "49327596-155-325208",
+  "source_id": 34504,
+  "date": "2022-12-20",
+  "title": "Kira ve süre artışına ilişkin ek protokolün tapuya şerhinde damga vergisi ve harç uygulaması",
+  "source": "https://gib.gov.tr/mevzuat/kanun/439/ozelge/34504",
+  "related_law": "492 sayılı HARÇLAR KANUNU",
+  "source_api": "https://gib.gov.tr/api/gibportal/mevzuat/ozelge/list",
+  "source_listing": "evidence/list/2026-11-16/ozelge-p006.json",
+  "source_listing_sha256": "b46360359770c9a5ea4fa9aa8dcd84735fb9ad66a4d8175b30588dafb983503d",
+  "source_sha256": "5fee055f8f5e3c6834aafd6b1a5bf45ef11892fa3495d58a8d21c4d237713a19",
+  "text_status": "as-enacted",
+  "text_file": "metin.md",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  }
+}
