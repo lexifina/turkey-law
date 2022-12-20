@@ -1,0 +1,22 @@
+{
+  "kind": "norm",
+  "issuer": "Gelir İdaresi Başkanlığı",
+  "document_type": "ozelge",
+  "number": "64958909-140-67792",
+  "source_id": 35490,
+  "date": "2022-12-20",
+  "title": "Organize sanayi bölgesi adına kayıtlı taşınmazlar üzerinde bulunan ipoteğin fekki (terkin edilmesi) işleminde harç alınıp alınmayacağı hususunda",
+  "source": "https://gib.gov.tr/mevzuat/kanun/439/ozelge/35490",
+  "related_law": "492 sayılı HARÇLAR KANUNU",
+  "source_api": "https://gib.gov.tr/api/gibportal/mevzuat/ozelge/list",
+  "source_listing": "evidence/list/2026-11-16/ozelge-p007.json",
+  "source_listing_sha256": "aedbdf4562ba9127c242d5a565793d0bcd4fd4854c0c6fa4dc4410a5b16508b4",
+  "source_sha256": "b09b35544e74e32309a2ef0ebf23b10177e9de7340e09d9fdf32dd533b8246af",
+  "text_status": "as-enacted",
+  "text_file": "metin.md",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  }
+}
