@@ -1,0 +1,17 @@
+{
+  "kind": "decision",
+  "issuer": "Sayıştay 7. Dairesi",
+  "number": "554",
+  "decision_date": "2022-12-20",
+  "source_id": 36452,
+  "chamber": "7",
+  "ilam_number": "23",
+  "item_number": 5,
+  "public_body_type": "Belediyeler ve Bağlı İdareler",
+  "account_year": 2021,
+  "subject": "Personel Mevzuatı ile İlgili Kararlar",
+  "source": "https://www.sayistay.gov.tr/KararlarDaire/Detay/36452/",
+  "source_sha256": "b9d060735179abbf23463c0f2e873dc98a34d6cc2c8ada4a2a5a14979d07281c",
+  "text_status": "as-enacted",
+  "text_file": "metin.md"
+}
