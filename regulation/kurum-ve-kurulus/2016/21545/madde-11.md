@@ -1,0 +1,3 @@
+Aksesuarlar, yedek parçalar ve aksam
+MADDE 11 – (1) Bir ürünle birlikte teslim edilen aksesuarlar, yedek parçalar, aksam ve talimatname veya diğer bilgilendirme materyallerinin menşei, söz konusu unsurların eşyayla birlikte sınıflandırılması ve ithalatçı taraf ülke tarafından gümrük vergilerinin tahsil edilmesi kaydıyla, eşyanın menşeinin tespit edilmesinde dikkate alınmaz.
+(2) Bir cihaz, makine, alet veya aracın beraberinde teslim edilen, normal olarak bir cihazın bölümü durumundaki ve fiyata dâhil edilmiş bulunan ve bu nedenle ayrıca fatura edilmemiş olan aksesuarlar, yedek parçalar ve aksam, söz konusu cihaz, makine, alet veya araç içinde mütalaa edilir.

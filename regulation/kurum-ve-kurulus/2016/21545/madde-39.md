@@ -1,0 +1,2 @@
+Transit haldeki veya antrepodaki eşyaya ilişkin geçici hükümler
+MADDE 39 – (1) Bu Yönetmelik hükümlerine uygun olan ve Yönetmeliğin geçerli olduğu tarihte sevk halinde olan ya da antrepolarda veya serbest bölgelerde geçici depolanan eşyaya, gümrük idaresine Yönetmeliğin geçerli olduğu tarihten itibaren dört ay içinde, eşyanın 14 üncü madde hükümleri çerçevesinde doğrudan nakledilmiş olduğunu gösteren belgelerle beraber ihracatçı ülkenin gümrük idaresince sonradan verilmiş bir Menşe İspat Belgesinin sunulması kaydıyla tercihli rejim uygulanabilir.
