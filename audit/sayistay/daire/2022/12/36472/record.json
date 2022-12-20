@@ -1,0 +1,17 @@
+{
+  "kind": "decision",
+  "issuer": "Sayıştay 7. Dairesi",
+  "number": "556",
+  "decision_date": "2022-12-20",
+  "source_id": 36472,
+  "chamber": "7",
+  "ilam_number": "22",
+  "item_number": 5,
+  "public_body_type": "Belediyeler ve Bağlı İdareler",
+  "account_year": 2021,
+  "subject": "Çeşitli Konuları İlgilendiren Kararlar",
+  "source": "https://www.sayistay.gov.tr/KararlarDaire/Detay/36472/",
+  "source_sha256": "9d7801dad3f5c025d301efb2ccbd1dfac45acf1d50f70e666c3f3ce51bb85343",
+  "text_status": "metadata-only",
+  "metadata_only_reason": "possible personal name in the official text"
+}
