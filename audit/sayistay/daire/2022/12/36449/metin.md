@@ -1,0 +1,13 @@
+KDV oranlarının yanlış uygulanması:
+
+… Yatırım AŞ yükleniminde gerçekleştirilen “... … Termal tesisleri … Evleri Tefrişat Malzemesi Alımı” işinde, KDV oranlarının yanlış uygulanması sonucu alınan eşyalar için fazla ödemede bulunulmak suretiyle kamu zararına neden olunduğu iddiası ile ilgili olarak yapılan incelemede;
+
+3065 sayılı Katma Değer Vergisi Kanunu’nun 28’inci ve 36’ıncı maddelerine göre çıkarılan 24/12/2007 tarihli ve 2007/130033 sayılı Mal ve Hizmetlere Uygulanacak Katma Değer Vergisi Oranlarının Tespitine İlişkin Karar’ın “Katma Değer Vergisi Oranları” başlıklı 1’inci maddesinde katma değer vergisi oranları; ekli listelerde yer alanlar hariç olmak üzere, vergiye tabi işlemler için %18, ekli (I) sayılı listede yer alan teslim ve hizmetler için %1, ekli (II) sayılı listede yer alan teslim ve hizmetler için %8 olarak belirlenmiştir.
+
+Mevzuat hükümlerinden açıkça anlaşılacağı üzere; Karar’a Ekli (I) sayılı listede yer alan teslim ve hizmetler için, % 1,  (II) sayılı listede yer alan teslim ve hizmetler için, % 8, ekli listelerde yer alanlar dışında kalan ve vergiye tabi tüm mal ve hizmetlerin teslimi içinse % 18 oranında KDV uygulanacaktır.
+
+Ödeme emri belgesine ekli olan ve fatura tutarına esas teşkil eden piyasa araştırma tutanağı ve teklif mektupları incelendiğinde; belediyeye teslim edilen tefrişat malzemelerinin bazılarının Karar’a ekli (II) sayılı listede yer alan mallardan oldukları anlaşılmaktadır. Bu durumda (II) sayılı listede yer alan malların teslimi için fatura bedeline %8, diğer malların teslimi için %18 oranında KDV uygulanması gerekmektedir. Oysa “... Heybeli Termal tesisleri Yakamoz Evleri Tefrişat Malzemesi Alımı” işine ait fatura incelendiğinde; yüklenici tarafından teslim edilen tüm tefrişat malzemesi bedelinin %18 oranında KDV uygulanmak suretiyle ve tek kalemde ödendiği anlaşılmaktadır. Dolayısı ile Karar’ın (II) sayılı listesinde yer alan malların teslimi için %8 yerine %18 oranında KDV uygulanmak suretiyle fazladan KDV ödenerek kamu zararına sebebiyet verilmiştir.
+
+Bu itibarla; …Yatırım AŞ yükleniminde gerçekleştirilen “... … Termal tesisleri ..Evleri Tefrişat Malzemesi Alımı” işinde, KDV oranlarının yanlış uygulanması sonucu alınan eşyalar için fazla ödemede bulunulmak suretiyle sebep olunan ve hesabı aşağıda yer verilen tabloda gösterilen toplam … TL kamu zararının 05.09.2022 tarihli ve 947682 numaralı tahsilat makbuzu ile tahsil edildiği ve 05.09.2022 tarihli 4415 numaralı muhasebe işlem fişi ile muhasebe kayıtlarına alındığı anlaşıldığından ilişilecek husus kalmadığına,
+
+6085 sayılı Sayıştay Kanunu’nun 55’inci maddesi uyarınca İşbu İlamın tebliğ tarihinden itibaren altmış gün içerisinde Sayıştay Temyiz Kurulu nezdinde temyiz yolu açık olmak üzere oy birliğiyle karar verildi.
