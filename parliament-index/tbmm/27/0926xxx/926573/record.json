@@ -1,0 +1,76 @@
+{
+  "record_type": "parliament-index-entry",
+  "index": "TBMM Tutanak Dergisi fihristi",
+  "kayit_no": 926573,
+  "assembly": "TBMM",
+  "term": 27,
+  "heading": "TEKLİFLER",
+  "heading_as_published": "Teklifler",
+  "name": "FAHRİ ÇAKIR (DÜZCE)",
+  "summary": "Ve 28 Milletvekilinin Elektrik Piyasası Kanunu ile Bazı Kanunlarda ve 375 Sayılı Kanun Hükmünde Kararnamede Değişiklik Yapılmasına Dair (2/4780) (S. Sayısı: 381)",
+  "title": "Ve 28 Milletvekilinin Elektrik Piyasası Kanunu ile Bazı Kanunlarda ve 375 Sayılı Kanun Hükmünde Kararnamede Değişiklik Yapılmasına Dair (2/4780) (S. Sayısı: 381)",
+  "first_sitting_date": "2022-12-20",
+  "documents": [],
+  "sittings": [
+    {
+      "cilt": 118,
+      "sitting": 41,
+      "sitting_date": "2022-12-20",
+      "minutes_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/TBMM/d27/c118/tbmm27118041.pdf",
+      "old_script_pdf": null,
+      "volume_index_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/TBMM/d27/c118/tbmm27118fih.pdf",
+      "pages": [
+        "84",
+        "95:107",
+        "109:124",
+        "128:133",
+        "135"
+      ],
+      "date_from": "https://www5.tbmm.gov.tr/develop/owa/tutanak_dergisi_pdfler.birlesimler?v_meclis=1&v_donem=d27&v_yasama_yili=6&v_cilt="
+    },
+    {
+      "cilt": 118,
+      "sitting": 42,
+      "sitting_date": "2022-12-21",
+      "minutes_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/TBMM/d27/c118/tbmm27118042.pdf",
+      "old_script_pdf": null,
+      "volume_index_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/TBMM/d27/c118/tbmm27118fih.pdf",
+      "pages": [
+        "212:220",
+        "223:228",
+        "230:238",
+        "239",
+        "240",
+        "241:271",
+        "275:276"
+      ],
+      "date_from": "https://www5.tbmm.gov.tr/develop/owa/tutanak_dergisi_pdfler.birlesimler?v_meclis=1&v_donem=d27&v_yasama_yili=6&v_cilt="
+    },
+    {
+      "cilt": 118,
+      "sitting": 43,
+      "sitting_date": "2022-12-22",
+      "minutes_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/TBMM/d27/c118/tbmm27118043.pdf",
+      "old_script_pdf": null,
+      "volume_index_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/TBMM/d27/c118/tbmm27118fih.pdf",
+      "pages": [
+        "352:365",
+        "366:371",
+        "372:383",
+        "384:395",
+        "396:400",
+        "402:414"
+      ],
+      "date_from": "https://www5.tbmm.gov.tr/develop/owa/tutanak_dergisi_pdfler.birlesimler?v_meclis=1&v_donem=d27&v_yasama_yili=6&v_cilt="
+    }
+  ],
+  "source": "https://www5.tbmm.gov.tr/develop/owa/td_v2.tutanak_hazirla?v_meclis=1&v_donem=27&v_yasama_yili=&v_cilt=&v_birlesim=&v_sayfa=&v_anabaslik=TEKL%DDFLER&v_altbaslik=&v_mv=&v_sb=&v_ozet=&v_kelime=&v_bastarih=&v_bittarih=",
+  "page": "https://www5.tbmm.gov.tr/develop/owa/td_v2.tutanak_sonuc?v_meclis=1&v_donem=27&v_yasama_yili=&v_cilt=&v_birlesim=&v_sayfa=&v_anabaslik=TEKL%DDFLER&v_altbaslik=&v_mv=&v_sb=&v_ozet=&v_bastarih=&v_bittarih=&v_kayit_sayisi=416&v_gelecek_sayfa=301&v_kullanici_id=27484797",
+  "source_sha256": "60c91f92790ba38792a2964c8ebd9ff6274ff2dd41cd5a6ad03543d9ecbe9aa8",
+  "in_force": "2022-12-20",
+  "in_force_basis": "Date of the earliest plenary sitting (Birleşim tarihi) the official Tutanak Dergisi index cites for this entry; sittings the index lists without a date are dated from the official Tutanak Dergisi sitting listing (Tarih Sıralı Erişim); index record of proceedings, commencement not asserted",
+  "history_type": "metadata",
+  "text_status": "metadata-only: official index entry as published; the proceedings are in the linked official minutes PDFs (scanned), not transcribed",
+  "law_text_complete": false,
+  "privacy_withheld": false
+}
