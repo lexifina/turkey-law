@@ -1,0 +1,16 @@
+{
+  "kind": "decision",
+  "issuer": "Sayıştay Temyiz Kurulu",
+  "number": "52628",
+  "decision_date": "2022-12-21",
+  "source_id": 26392,
+  "chamber": "1",
+  "file_number": "48930",
+  "public_body_type": "Yüksek Öğretim Kurumları",
+  "account_year": "2019",
+  "subject": "Personel Mevzuatı ile İlgili Kararlar",
+  "source": "https://www.sayistay.gov.tr/KararlarTemyiz/Detay/26392/",
+  "source_sha256": "28cb3b7274ebedd037bc6f5cf1136eb82ab744dede21fe60411ef8d3840358d4",
+  "text_status": "as-enacted",
+  "text_file": "metin.md"
+}
