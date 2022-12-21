@@ -1,0 +1,22 @@
+{
+  "kind": "norm",
+  "issuer": "Gelir İdaresi Başkanlığı",
+  "document_type": "ozelge",
+  "number": "38418978-120[61-2022/8]-595571",
+  "source_id": 23163,
+  "date": "2022-12-21",
+  "title": "Türk Uluslararası Gemi Siciline kayıtlı gemide çalışan personele ödenen ücretlerin istisnası",
+  "source": "https://gib.gov.tr/mevzuat/kanun/433/ozelge/23163",
+  "related_law": "193 sayılı GELİR VERGİSİ KANUNU",
+  "source_api": "https://gib.gov.tr/api/gibportal/mevzuat/ozelge/list",
+  "source_listing": "evidence/list/2026-11-16/ozelge-p001.json",
+  "source_listing_sha256": "e5c572e7d33c4a72997f66e3999bee09f80c627cabe3ea5a6521aa3f8abee01f",
+  "source_sha256": "ebfb438150503fbdb6257c33aba5d6ebdcbe749355e1f7fb51c8cebc1056dbc3",
+  "text_status": "as-enacted",
+  "text_file": "metin.md",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  }
+}
