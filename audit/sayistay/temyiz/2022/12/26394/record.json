@@ -1,0 +1,16 @@
+{
+  "kind": "decision",
+  "issuer": "Sayıştay Temyiz Kurulu",
+  "number": "52630",
+  "decision_date": "2022-12-21",
+  "source_id": 26394,
+  "chamber": "5",
+  "file_number": "50226",
+  "public_body_type": "Belediyeler ve Bağlı İdareler",
+  "account_year": "2008",
+  "subject": "Çeşitli Konuları İlgilendiren Kararlar",
+  "source": "https://www.sayistay.gov.tr/KararlarTemyiz/Detay/26394/",
+  "source_sha256": "1fa2a97243c68b8c0a9b23efe3dafc344db5d041a6bcb5b0de54ccd22a5947a5",
+  "text_status": "as-enacted",
+  "text_file": "metin.md"
+}
