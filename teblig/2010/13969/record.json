@@ -1,0 +1,41 @@
+{
+  "source_id": "9.5.13969",
+  "kind": "communique",
+  "register_kind": "Tebliğler",
+  "title": "TEHLİKELİ MADDELER İÇİN YAPTIRILACAK ZORUNLU SORUMLULUK SİGORTALARINA İLİŞKİN TARİFE VE TALİMAT",
+  "number": "13969",
+  "path": "teblig/2010/13969",
+  "source": "https://www.mevzuat.gov.tr/anasayfa/MevzuatFihristDetayIframe?MevzuatTur=9&MevzuatNo=13969&MevzuatTertip=5",
+  "source_sha256": "60dfd23c08bbe0b6d3d18675faebdc09f36250380da26a82fd062c913bd7116a",
+  "source_bytes": 21722,
+  "published": "2010-05-09",
+  "gazette": "27576",
+  "in_force": "2022-12-22",
+  "in_force_basis": "latest Resmî Gazete date printed in the source amendment notes/table (\"RG-22/12/2022\") for the current consolidated text",
+  "date_evidence": [
+    [
+      "2022-12-22",
+      "RG-22/12/2022",
+      "Resmî Gazete date printed in the source amendment note"
+    ],
+    [
+      "2013-11-27",
+      "RG-27/11/2013",
+      "Resmî Gazete date printed in the source amendment note"
+    ]
+  ],
+  "history": "current-text",
+  "label": "oldest version available",
+  "checked_on": "2026-11-15",
+  "word_count": 994,
+  "text_status": "current-consolidated",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  },
+  "source_links": [
+    "9.5.13969-Ek.docx"
+  ],
+  "completeness": "html-text-complete; linked annexes not fetched"
+}
