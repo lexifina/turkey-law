@@ -1,0 +1,17 @@
+{
+  "kind": "decision",
+  "issuer": "Sayıştay 6. Dairesi",
+  "number": "892",
+  "decision_date": "2022-12-22",
+  "source_id": 36564,
+  "chamber": "6",
+  "ilam_number": "29",
+  "item_number": 4,
+  "public_body_type": "Belediyeler ve Bağlı İdareler",
+  "account_year": 2021,
+  "subject": "Vergi Resmi Harç ve Diğer Gelirlerle İlgili Kararlar",
+  "source": "https://www.sayistay.gov.tr/KararlarDaire/Detay/36564/",
+  "source_sha256": "c3a35a9a10d728b7c7d6e7e3d98cd3f0f15dcaf6f6906075f7671fb5e9be533f",
+  "text_status": "as-enacted",
+  "text_file": "metin.md"
+}
