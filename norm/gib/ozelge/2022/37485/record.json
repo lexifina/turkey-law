@@ -1,0 +1,22 @@
+{
+  "kind": "norm",
+  "issuer": "Gelir İdaresi Başkanlığı",
+  "document_type": "ozelge",
+  "number": "62030549-125[6-2021/1]-1521009",
+  "source_id": 37485,
+  "date": "2022-12-22",
+  "title": "Teknoloji Geliştirme Bölgelerinde yürütülen projenin şirketin fabrika binasında seri üretiminin yapılması durumunda elde edilen kazanç dolayısıyla istisna hükmünden yararlanılıp yararlanılmayacağı",
+  "source": "https://gib.gov.tr/mevzuat/kanun/435/ozelge/37485",
+  "related_law": "5520 sayılı KURUMLAR VERGİSİ KANUNU",
+  "source_api": "https://gib.gov.tr/api/gibportal/mevzuat/ozelge/list",
+  "source_listing": "evidence/list/2026-11-16/ozelge-p008.json",
+  "source_listing_sha256": "292c126217cc32c3ccfa57495ce433f89ef8db5e75fa1946d5819a76f81aff4d",
+  "source_sha256": "168c62994e52535781df7ce99f3621a73ce22575cd992eb9076f70244ae03551",
+  "text_status": "as-enacted",
+  "text_file": "metin.md",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  }
+}
