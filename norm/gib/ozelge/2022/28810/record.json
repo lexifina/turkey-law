@@ -1,0 +1,22 @@
+{
+  "kind": "norm",
+  "issuer": "Gelir İdaresi Başkanlığı",
+  "document_type": "ozelge",
+  "number": "62030549-125[Geç 14-2022]-1521377",
+  "source_id": 28810,
+  "date": "2022-12-22",
+  "title": "Limited şirketin anonim şirkete dönüşmesi durumunda kurumlar vergisi kanununun geçici 14. maddesinden yararlanıp yararlanamayacağı.",
+  "source": "https://gib.gov.tr/mevzuat/kanun/435/ozelge/28810",
+  "related_law": "5520 sayılı KURUMLAR VERGİSİ KANUNU",
+  "source_api": "https://gib.gov.tr/api/gibportal/mevzuat/ozelge/list",
+  "source_listing": "evidence/list/2026-11-16/ozelge-p004.json",
+  "source_listing_sha256": "f3b82278308562f88be46cc93b2ac53a1050d59c304474af958f8b7377f5bef9",
+  "source_sha256": "8c7f80a3b556e109ab6d60c3d09612cb8d6c9243f8f1d278db63e66dc63e1c80",
+  "text_status": "as-enacted",
+  "text_file": "metin.md",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  }
+}
