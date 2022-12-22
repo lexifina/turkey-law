@@ -1,0 +1,17 @@
+{
+  "record_type": "parliament-minutes",
+  "body": "TBMM Genel Kurulu",
+  "term": 27,
+  "legislative_year": 6,
+  "sitting": 43,
+  "sitting_date": "2022-12-22",
+  "listed_date": "22 Aralık 2022 Perşembe",
+  "status": "Basılmış",
+  "source": "https://cdn.tbmm.gov.tr/TbmmWeb/Tutanak20230120/27/6/43/Tam/6da40912-f64d-459a-858d-b1112f0dcd09.html",
+  "sitting_page": "https://www.tbmm.gov.tr/Tutanaklar/Tutanak?Id=1c9544ad-1a26-4926-b337-0185ceac5d79",
+  "listing_source": "https://www.tbmm.gov.tr/Tutanaklar/DoneminTutanakMetinleri?Donem=27&YasamaYili=6",
+  "source_sha256": "0ecf3d4fc7c050d7726918a85af2f4a324c91151daa0a03c299f4b32959675ce",
+  "source_bytes": 796135,
+  "source_encoding": "windows-1252",
+  "text_status": "as-published"
+}
