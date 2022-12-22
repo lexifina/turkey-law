@@ -1,0 +1,2 @@
+Borç verme, devralma veya teminat sağlama yasağı
+MADDE 6- (1) Spor kulüpleri ve spor anonim şirketleri; yönetim kurulu üyelerine, bunların eşleri ve üçüncü dereceye kadar hısımlarına ve spor anonim şirketleri, üzerinde 6102 sayılı Kanunun 195 inci maddesi kapsamında doğrudan ya da dolaylı hâkimiyeti bulunan kişilere borç veremez veya bu kişiler lehine rehin, kefalet, ipotek veya diğer bir teminat sağlayamaz, sorumluluk yüklenemez ve bunların borçlarını devralamaz.

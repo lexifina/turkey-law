@@ -1,0 +1,5 @@
+Muafiyet
+MADDE 7- (1) Spor faaliyetlerinde kullanılmak üzere; spor kulüpleri veya spor anonim şirketleri tarafından spor tesislerinin satın alınması veya yapılması ya da spor tesisi yapmak için taşınmaz satın alınması, irtifak hakkı tesisi, kiralanması veya bu tesislerin bakım ve onarımına ilişkin borçlanmalar, 7405 sayılı Kanunun 20 nci maddesinin beşinci fıkrasında borçlanma için öngörülen sınırlamalardan muaftır.
+(2) Birinci fıkra kapsamında satın alınan taşınmazlar için yapılan borçlanmalar için Sermaye Piyasası Kurulunca oluşturulan Sermaye Piyasasında Gayrimenkul Değerlemesi Yapmaya Yetkili Kuruluşlar Listesinde yer alan gayrimenkul değerleme kuruluşları tarafından düzenlenen değerleme raporlarında belirtilen değer esas alınır.
+(3) Borçlanma sınırlamalarından muafiyet hallerinde genel kurul toplantı ve karar yeter sayılarına ilişkin olarak tüzük veya esas sözleşme hükümleri uygulanır.
+(4) Muafiyet kapsamında yapılan borçlanmaların muafiyet kapsamına girmediğinin veya bu giderlerin muafiyete konu işler için yapılmadığının tespiti halinde ilgililer hakkında 7405 sayılı Kanunda belirtilen yaptırımlar uygulanır.

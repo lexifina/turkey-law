@@ -1,0 +1,3 @@
+Kapsam
+MADDE 2- (1) Bu Yönetmelik, Gençlik ve Spor Bakanlığı ile spor federasyonlarının faaliyetlerine katılmak amacıyla Bakanlığa tescilini yaptıran spor kulüpleri ve spor anonim şirketlerini kapsar.
+(2) Payları borsada işlem gören spor anonim şirketleri de dâhil olmak üzere tüm halka açık spor anonim şirketleri sermaye piyasası mevzuatına tabidir. Bu Yönetmelikte halka açık spor anonim şirketleri için getirilen hükümler, sermaye piyasası mevzuatının halka açık şirketler için getirdiği düzenlemelerden ayrılmadığı sürece uygulanır. Aynı konuda farklı hükümler olması durumunda halka açık spor anonim şirketlerine sermaye piyasası mevzuatı hükümleri uygulanır.
