@@ -1,0 +1,31 @@
+{
+  "source_id": "7.5.39907",
+  "kind": "regulation",
+  "register_kind": "Kurum ve Kuruluş Yönetmelikleri",
+  "title": "DİYANET İŞLERİ BAŞKANLIĞI DİSİPLİN AMİRLERİ YÖNETMELİĞİ",
+  "number": "39907",
+  "issuer": "Diyanet İşleri Başkanı",
+  "issuer_slug": "diyanet-isleri-baskani",
+  "path": "regulation/diyanet-isleri-baskani/2022/39907",
+  "source": "https://www.mevzuat.gov.tr/anasayfa/MevzuatFihristDetayIframe?MevzuatTur=7&MevzuatNo=39907&MevzuatTertip=5",
+  "source_sha256": "6474d5c756cb8630d0d737afbe38994a20e931effe4f0d893963b8f73913420c",
+  "source_bytes": 97837,
+  "published": "2022-12-23",
+  "gazette": "32052",
+  "in_force": "2022-12-23",
+  "in_force_basis": "Resmî Gazete publication date in the official listing (23.12.2022); own commencement article: \"Bu Yönetmelik yayımı tarihinde yürürlüğe girer\"",
+  "commencement_clauses": [
+    "Bu Yönetmelik yayımı tarihinde yürürlüğe girer"
+  ],
+  "history": "current-text",
+  "label": "oldest version available",
+  "checked_on": "2026-11-15",
+  "word_count": 758,
+  "text_status": "current-consolidated",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  },
+  "completeness": "html-text-complete"
+}
