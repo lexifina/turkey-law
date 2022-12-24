@@ -1,0 +1,3 @@
+TÜRK SİLAHLI KUVVETLERİ PERSONELİNİN ÖĞRENİM, EĞİTİM VE YETİŞTİRME MASRAFLARININ TESPİTİNE DAİR YÖNETMELİK(1)
+Amaç
+Madde 1 — Bu Yönetmeliğin amacı, Türk Silahlı Kuvvetlerinde görev yapamaz şeklinde sağlık raporu alanlar ile vazife malulü olarak ayrılanlar hariç olmak üzere, mecburi hizmet süresini tamamlamadan her ne şekilde olursa olsun Türk Silahlı Kuvvetlerinden ayrılan veya ilişiği kesilenlerin askeri öğrenci, subay ve astsubay olarak kendilerine yapılan öğrenim, eğitim ve yetiştirme masraflarının tespitine esas unsurlar ile masrafların (Ek ibare:RG-7/4/2021-31447) takip ve tahsiline ilişkin usul ve esasları belirlemektir.

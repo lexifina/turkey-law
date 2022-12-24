@@ -1,0 +1,58 @@
+{
+  "source_id": "7.5.9702",
+  "kind": "regulation",
+  "register_kind": "Kurum ve Kuruluş Yönetmelikleri",
+  "title": "TÜRK SİLAHLI KUVVETLERİ PERSONELİNİN ÖĞRENİM, EĞİTİM VE YETİŞTİRME MASRAFLARININ TESPİTİNE DAİR YÖNETMELİK",
+  "number": "9702",
+  "issuer": "Millî Savunma Bakanı ile Hazine ve Maliye Bakanı",
+  "issuer_slug": "milli-savunma-bakani-ile-hazine-ve-maliye-bakani",
+  "path": "regulation/milli-savunma-bakani-ile-hazine-ve-maliye-bakani/2005/9702",
+  "source": "https://www.mevzuat.gov.tr/anasayfa/MevzuatFihristDetayIframe?MevzuatTur=7&MevzuatNo=9702&MevzuatTertip=5",
+  "source_sha256": "35d2ff0cbf843344edec39518715c39c1a06465a940d8cd73abc95a458bc005a",
+  "source_bytes": 36891,
+  "published": "2005-12-17",
+  "gazette": "26026",
+  "in_force": "2022-12-24",
+  "in_force_basis": "latest Resmî Gazete date printed in the source amendment notes/table (\"RG-24/12/2022\") for the current consolidated text",
+  "date_evidence": [
+    [
+      "2022-12-24",
+      "RG-24/12/2022",
+      "Resmî Gazete date printed in the source amendment note"
+    ],
+    [
+      "2022-12-24",
+      "24/12/2022",
+      "Resmî Gazete date in the source amendment table"
+    ],
+    [
+      "2021-04-07",
+      "RG-7/4/2021",
+      "Resmî Gazete date printed in the source amendment note"
+    ],
+    [
+      "2016-03-11",
+      "RG-11/3/2016",
+      "Resmî Gazete date printed in the source amendment note"
+    ],
+    [
+      "2013-11-09",
+      "RG-9/11/2013",
+      "Resmî Gazete date printed in the source amendment note"
+    ]
+  ],
+  "commencement_clauses": [
+    "bu Yönetmelik yayımı tarihinde yürürlüğe girer"
+  ],
+  "history": "current-text",
+  "label": "oldest version available",
+  "checked_on": "2026-11-15",
+  "word_count": 1153,
+  "text_status": "current-consolidated",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  },
+  "completeness": "html-text-complete"
+}
