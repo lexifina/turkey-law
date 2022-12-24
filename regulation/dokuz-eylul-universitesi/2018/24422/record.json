@@ -1,0 +1,64 @@
+{
+  "checked_on": "2026-11-14",
+  "commencement_clauses": [
+    "MADDE 17 – (1) Bu Yönetmelik yayımı tarihinde yürürlüğe girer."
+  ],
+  "date_evidence": [
+    [
+      "2018-02-28",
+      "28.02.2018",
+      "original gazette publication date in official listing"
+    ],
+    [
+      "2022-12-24",
+      "RG-24/12/2022-32053",
+      "latest source-printed gazette amendment date for current consolidated text"
+    ],
+    [
+      "2022-12-24",
+      "RG-24/12/2022-32053",
+      "latest source-printed gazette amendment date for current consolidated text"
+    ],
+    [
+      "2022-06-01",
+      "RG-1/6/2022-31853",
+      "latest source-printed gazette amendment date for current consolidated text"
+    ],
+    [
+      "2022-06-01",
+      "1/6/2022",
+      "latest gazette date in source amendment table"
+    ],
+    [
+      "2022-12-24",
+      "24/12/2022",
+      "latest gazette date in source amendment table"
+    ]
+  ],
+  "date_quote": "RG-24/12/2022-32053",
+  "first_law": null,
+  "gazette": "30346",
+  "history": "current-text",
+  "images": {
+    "deferred": 0,
+    "omitted": 0,
+    "referenced": 0,
+    "source": 0
+  },
+  "in_force": "2022-12-24",
+  "in_force_basis": "latest source-printed gazette amendment date for current consolidated text",
+  "issuer": "Dokuz Eylül Üniversitesi",
+  "issuer_slug": "dokuz-eylul-universitesi",
+  "kind": "regulation",
+  "label": "oldest version available",
+  "path": "regulation/dokuz-eylul-universitesi/2018/24422",
+  "published": "2018-02-28",
+  "source": "https://www.mevzuat.gov.tr/anasayfa/MevzuatFihristDetayIframe?MevzuatTur=8&MevzuatNo=24422&MevzuatTertip=5",
+  "source_bytes": 39683,
+  "source_id": "8.5.24422",
+  "source_sha256": "0a6a0d2cf676062550dded3a1d80e76a4945880d4c72a802ed4834b0c7cf3fde",
+  "text_status": "current-consolidated",
+  "title": "DOKUZ EYLÜL ÜNİVERSİTESİ GELENEKSEL VE TAMAMLAYICI TIP\r\nUYGULAMA VE ARAŞTIRMA MERKEZİ YÖNETMELİĞİ",
+  "university_id": 189,
+  "word_count": 1420
+}
