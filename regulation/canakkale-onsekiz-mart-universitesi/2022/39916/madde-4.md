@@ -1,0 +1,20 @@
+Tanımlar
+MADDE 4- (1) Bu Yönetmelikte geçen;
+a) Başhemşire: Çanakkale Onsekiz Mart Üniversitesi Sağlık Uygulama ve Araştırma Merkezi Başhemşiresini,
+b) Bölüm/ana bilim/bilim dalı başkanları: Çanakkale Onsekiz Mart Üniversitesi Tıp Fakültesi bölüm/ana bilim/bilim dalı başkanlarını,
+c) Danışma Kurulu: Merkezin Danışma Kurulunu,
+ç) Dekan: Çanakkale Onsekiz Mart Üniversitesi Tıp Fakültesi Dekanını,
+d) Hastane Müdürü: Üniversite Hastaneleri Başmüdürüne bağlı olarak Merkezde görevlendirilen kişiyi,
+e) Laboratuvar birimi: Merkez bünyesindeki her bir laboratuvarı,
+f) Laboratuvar merkezi: Merkez bünyesindeki birden fazla uzmanlık dalında kurulan laboratuvarı,
+g) Merkez (Hastane): Çanakkale Onsekiz Mart Üniversitesi Sağlık Uygulama ve Araştırma Merkezini,
+ğ) Müdür (Başhekim): Merkezin Müdürünü,
+h) Rektör: Çanakkale Onsekiz Mart Üniversitesi Rektörünü,
+ı) Senato: Çanakkale Onsekiz Mart Üniversitesi Senatosunu,
+i) Tıp Fakültesi: Çanakkale Onsekiz Mart Üniversitesi Tıp Fakültesini,
+j) Ünite/birim: Ana bilim dalı, klinik, yataklı servisler, laboratuvarlar, tanı teşhis ve tedavi üniteleri, yoğun bakım üniteleri, görüntüleme merkezleri ve benzeri gibi ünitelerin idari ve tıbbi bütünlüğü içerisinde yer alan birimleri,
+k) Ünite/birim sorumlusu: İdari birimler, yataklı servisler, poliklinikler, laboratuvarlar, yoğun bakım üniteleri, görüntüleme merkezleri, sterilizasyon birimi, ameliyathane birimi, eczane birimi, tanı teşhis ve tedavi üniteleri ile doğumhane birimi ve benzeri gibi ünitelerin hekimlik hizmeti dışındaki faaliyetlerinden sorumlu idari personeli,
+l) Üniversite: Çanakkale Onsekiz Mart Üniversitesini,
+m) Üniversite Hastaneleri Başmüdürü: Merkezin idari hizmetler koordinatörü olarak idari, mali ve teknik konularında planlama ve denetim gibi temel yönetim işlerini yürütmek üzere görevlendirilen kişiyi,
+n) Yönetim Kurulu: Merkezin Yönetim Kurulunu,
+ifade eder.

@@ -1,0 +1,14 @@
+Müdür ve yardımcılarının görevleri
+MADDE 9- (1) Müdürün görevleri şunlardır:
+a) Merkezin stratejik plan ve hedefleri doğrultusunda gelişmesi için gerekli tedbirleri almak, gerekli düzenleme ve çalışmaları yapmak.
+b) Merkezde ve Merkeze bağlı olarak çalışan sağlık hizmetleri, idari birimler, yataklı servisler, poliklinikler, laboratuvarlar, yoğun bakım üniteleri, görüntüleme merkezleri, sterilizasyon birimi, ameliyathane birimi, eczane birimi, doğumhane birimi ile tanı teşhis ve tedavi üniteleri ve diğer birimlerin Merkezin amaç ve hedefleri doğrultusunda düzenli, uyumlu, etkin, sürekli ve verimli biçimde çalışmalarını sağlamak ve bunun için gerekli fiziki şartların oluşturulması, personel ihtiyacının tespiti ve giderilmesi için gerekli planlama, koordinasyon ile denetimi sağlamak ve hizmet içi eğitim altyapı imkânlarını oluşturmak.
+c) Merkeze bağlı idari, sağlık ve teknik olmak üzere tüm Merkez personelinin yönetim, koordinasyon, denetim ve genel gözetimini yapmak, gerekli tedbirleri almak.
+ç) Merkezin mesai sonrası çalışma, polikliniklerin açılma ve kapanma saatleri, nöbet ve yönetim hizmetleri ile ilgili düzenlemelerini belirlemek, uygulanmasını sağlamak, denetim ile genel gözetimini yapmak ve gerekli tedbirleri almak.
+d) Merkezin gerekçeli bütçe ve ödenek ihtiyacını, personel ihtiyaçlarını ve yıllık faaliyet raporunu hazırlayarak Rektörlüğe sunmak.
+e) Merkezin hizmetlerinin yürütülmesi için gerekli her türlü cari mal ve hizmet alımını ilgili mevzuat hükümleri kapsamında yapmak, cihaz ve diğer demirbaş malzemeleri temin etmek, cihaz ve diğer demirbaşlar ile binanın bakım-onarım ihtiyacını tespit ile zamanında temin etmek ve yapılması için gerekli tedbirleri almak, koordinasyonu sağlamak ve girişimde bulunmak.
+f) Tıp Fakültesi Dekanlığının, bölüm/ana bilim/bilim dalı başkanlıklarının Merkezin hizmetlerine ilişkin faaliyetlerinde gerekli koordinasyonu sağlamak.
+g) Merkezin döner sermaye faaliyetlerinin etkin ve verimli olarak yürütülmesi, gelir kaybının azaltılması ile giderlerinin rasyonel olarak yapılması için gerekli koordinasyonu sağlamak, tedbirleri almak ve gerekli girişimlerde bulunmak.
+ğ) Bölüm/ana bilim dalı ve bilim dalı hizmetleriyle ilgili performans kriterlerini tespit etmek.
+h) Merkezde ve Merkeze bağlı olarak idari birimler, yataklı servisler, poliklinikler, laboratuvarlar, yoğun bakım üniteleri, görüntüleme merkezleri, sterilizasyon birimi, ameliyathane birimi, eczane birimi, doğumhane birimi ile tanı teşhis ve tedavi ünitelerinde hizmet veren birimlerin ve buralardaki cihazların Merkezin bütününde etkin kullanılmasını ve bu konuda ana bilim dalları arasında koordinasyonu sağlamak.
+ı) Rektör tarafından verilen Merkezin amaçları ve faaliyetlerine ilişkin diğer görevleri yapmak.
+(2) Müdür yardımcıları görevlendirildikleri konularda, Merkez hizmetlerinin yürütülmesinde Müdüre yardımcı olur.
