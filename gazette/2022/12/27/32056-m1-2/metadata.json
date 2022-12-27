@@ -1,0 +1,20 @@
+{
+  "record_type": "gazette-item",
+  "gazette": "Resmî Gazete",
+  "jurisdiction": "TR",
+  "date": "2022-12-27",
+  "issue": "32056",
+  "edition": "mükerrer 1",
+  "item": 2,
+  "section": "YÜRÜTME VE İDARE BÖLÜMÜ",
+  "heading": "YÖNETMELİKLER",
+  "title": "Tarım ve Orman Araçlarının Tip Onayı ve Piyasa Gözetimi İçin İdari Gereklilikler Hakkında Yönetmelik (AB/2015/504)’te Değişiklik Yapılmasına Dair Yönetmelik",
+  "official_link": "https://www.resmigazete.gov.tr/eskiler/2022/12/20221227M1-2.htm",
+  "link_format": "htm",
+  "index_url": "https://www.resmigazete.gov.tr/eskiler/2022/12/20221227M1.htm",
+  "index_sha256": "51243f74baaceba5c221187750a72453c3217928abef66d9ccd53d76a788f5b0",
+  "index_header": "27 Aralık 2022 ... 32056 Sayılı Resmî Gazete",
+  "issue_pdf": "https://www.resmigazete.gov.tr/eskiler/2022/12/20221227M1.pdf",
+  "in_force_basis": "Resmî Gazete publication date; not a commencement reading.",
+  "text_status": "metadata-only; text not yet fetched (follow-up pass adds it as its own commit)"
+}
