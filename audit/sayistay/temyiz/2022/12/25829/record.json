@@ -1,0 +1,16 @@
+{
+  "kind": "decision",
+  "issuer": "Sayıştay Temyiz Kurulu",
+  "number": "52786",
+  "decision_date": "2022-12-28",
+  "source_id": 25829,
+  "chamber": "5",
+  "file_number": "47196",
+  "public_body_type": "Belediyeler ve Bağlı İdareler",
+  "account_year": "2018",
+  "subject": "İhale Mevzuatı ile İlgili Kararlar",
+  "source": "https://www.sayistay.gov.tr/KararlarTemyiz/Detay/25829/",
+  "source_sha256": "c1a10234951c9dcc279d8c51372ccd921bcd08c1984f278df6a6fce3dc986b41",
+  "text_status": "as-enacted",
+  "text_file": "metin.md"
+}
