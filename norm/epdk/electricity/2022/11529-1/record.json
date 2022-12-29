@@ -1,0 +1,25 @@
+{
+  "kind": "norm",
+  "issuer": "Enerji Piyasası Düzenleme Kurumu",
+  "market": "electricity",
+  "document_type": "board-decision",
+  "number": "11529-1",
+  "decision_date": "2022-12-29",
+  "title": "1/1/2023 tarihinden itibaren uygulanan güvence bedelleri",
+  "resmi_gazete_date": "2022-12-30",
+  "resmi_gazete_number": "32059 (2. Mükerrer)",
+  "categories": [
+    "Güvence Bedelleri"
+  ],
+  "source": "https://www.epdk.gov.tr/Detay/DownloadDocument?id=fMivWUPvRaE=",
+  "documents": [
+    "https://www.epdk.gov.tr/Detay/DownloadDocument?id=fMivWUPvRaE="
+  ],
+  "source_sha256": "122d018f78c1ec46cbcdc7dbf12d7bddb5bb98fe906630a873adeffec3ecba56",
+  "official_list": "https://www.epdk.gov.tr/Detay/Icerik/3-0-39/kurul-kararlari-",
+  "official_list_leaf": 1331,
+  "text_status": "as-enacted",
+  "text_file": "metin.md",
+  "in_force": "2022-12-29",
+  "law_text_complete": true
+}
