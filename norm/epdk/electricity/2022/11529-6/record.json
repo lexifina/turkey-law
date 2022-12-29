@@ -1,0 +1,25 @@
+{
+  "kind": "norm",
+  "issuer": "Enerji Piyasası Düzenleme Kurumu",
+  "market": "electricity",
+  "document_type": "board-decision",
+  "number": "11529-6",
+  "decision_date": "2022-12-29",
+  "title": "2023 yılına ilişkin görevli tedarik şirketlerinin tahsil edeceği yıllık işletim bedeli",
+  "resmi_gazete_date": "2022-12-30",
+  "resmi_gazete_number": "32059 (2. Mükerrer)",
+  "categories": [
+    "Lisanssız Elektrik Üretim Yönetmeliği Kapsamındaki Bedeller"
+  ],
+  "source": "https://www.epdk.gov.tr/Detay/DownloadDocument?id=hSYEygbnHjo=",
+  "documents": [
+    "https://www.epdk.gov.tr/Detay/DownloadDocument?id=hSYEygbnHjo="
+  ],
+  "source_sha256": "43d79411ae4d70df1a4b2e242eb417faef4db598ff1ba95c459deaf9202f0872",
+  "official_list": "https://www.epdk.gov.tr/Detay/Icerik/3-0-39/kurul-kararlari-",
+  "official_list_leaf": 1853,
+  "text_status": "as-enacted",
+  "text_file": "metin.md",
+  "in_force": "2022-12-29",
+  "law_text_complete": true
+}
