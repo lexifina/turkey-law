@@ -1,0 +1,25 @@
+{
+  "kind": "norm",
+  "issuer": "Enerji Piyasası Düzenleme Kurumu",
+  "market": "petroleum",
+  "document_type": "board-decision",
+  "number": "11528",
+  "decision_date": "2022-12-29",
+  "title": "Akaryakıt Fiyatlarının Takibine İlişkin Kurul Kararı",
+  "resmi_gazete_date": "2022-12-30",
+  "resmi_gazete_number": "32059",
+  "categories": [
+    "Petrol Piyasası Tarife Kurul Kararları"
+  ],
+  "source": "https://www.epdk.gov.tr/Detay/DownloadDocument?id=c77ZMt4lSbU=",
+  "documents": [
+    "https://www.epdk.gov.tr/Detay/DownloadDocument?id=c77ZMt4lSbU="
+  ],
+  "source_sha256": "f243163b96db3bc0067aed2bb5e32495387ad8ee00acbd00421f4ef2ce3bcb94",
+  "official_list": "https://www.epdk.gov.tr/Detay/Icerik/3-0-100/kurul-kararlari",
+  "official_list_leaf": 14725,
+  "text_status": "as-enacted",
+  "text_file": "metin.md",
+  "in_force": "2022-12-29",
+  "law_text_complete": true
+}
