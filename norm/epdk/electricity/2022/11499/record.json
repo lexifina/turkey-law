@@ -1,0 +1,25 @@
+{
+  "kind": "norm",
+  "issuer": "Enerji Piyasası Düzenleme Kurumu",
+  "market": "electricity",
+  "document_type": "board-decision",
+  "number": "11499",
+  "decision_date": "2022-12-29",
+  "title": "Gün Öncesi Piyasasında Ve Dengeleme Güç Piyasasında Asgari Ve Azami Fiyat Limitlerinin Belirlenmesine İlişkin Usul Ve Esaslarda Değişiklik Yapılmasına İlişkin",
+  "resmi_gazete_date": "2022-12-30",
+  "resmi_gazete_number": "32059",
+  "categories": [
+    "Diğer Kurul Kararları"
+  ],
+  "source": "https://www.epdk.gov.tr/Detay/DownloadDocument?id=GY3wJlmG1As=",
+  "documents": [
+    "https://www.epdk.gov.tr/Detay/DownloadDocument?id=GY3wJlmG1As="
+  ],
+  "source_sha256": "c86e26964fcb7e9c9cdcab18b164c8f96a9f710dde9645644cdd8d859c5fbc5e",
+  "official_list": "https://www.epdk.gov.tr/Detay/Icerik/3-0-39/kurul-kararlari-",
+  "official_list_leaf": 33863,
+  "text_status": "as-enacted",
+  "text_file": "metin.md",
+  "in_force": "2022-12-29",
+  "law_text_complete": true
+}
