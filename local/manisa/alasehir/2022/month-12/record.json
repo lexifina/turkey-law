@@ -1,0 +1,29 @@
+{
+  "number": "month-12",
+  "year": 2022,
+  "month": 12,
+  "title": "2022 YILI ARALIK AYI MECLİS KARAR ÖZETİ",
+  "decision_date": null,
+  "index_date": "2022-12-31",
+  "date_precision": "month",
+  "period": "Aralık 2022",
+  "source": "https://www.alasehir.bel.tr/2022-yili-aralik-ayi-meclis-karar-ozeti.html",
+  "official_page": "https://www.alasehir.bel.tr/2022-yili-aralik-ayi-meclis-karar-ozeti.html",
+  "official_document": "https://www.alasehir.bel.tr/2022-yili-aralik-ayi-meclis-karar-ozeti.html",
+  "source_sha256": "73b2d29c4f502ae890cfe7b0c1b07ed529b595de4fba6ea1799c87f4edd7da11",
+  "issuer": "Alaşehir Belediye Meclisi",
+  "history_type": "metadata",
+  "text_status": "metadata-only: listing fields as published; the decisions are in the linked official document(s) or page, not transcribed",
+  "in_force": "2022-12-31",
+  "in_force_basis": "The official listing gives only the month of this official file (Aralık 2022); date set to the last day of that month (turkey-law date convention for month-only sources); exact adoption dates are in the linked official document; legal commencement not asserted",
+  "missing": [
+    "decision numbers, dates and subjects",
+    "complete official decision text",
+    "official annexes"
+  ],
+  "law_text_complete": false,
+  "privacy_withheld": false,
+  "listing_label": "2022 YILI ARALIK AYI MECLİS KARAR ÖZETİ",
+  "record_scope": "one official file of council decisions (meeting or month)",
+  "document_note": "the decisions are published on the official page itself as 11 scanned image(s); not transcribed here"
+}
