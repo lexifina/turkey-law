@@ -1,0 +1,31 @@
+{
+  "source_id": "7.5.39938",
+  "kind": "regulation",
+  "register_kind": "Kurum ve Kuruluş Yönetmelikleri",
+  "title": "GÖÇ İDARESİ BAŞKANLIĞI REHBERLİK VE DENETİM BAŞKANLIĞI YÖNETMELİĞİ",
+  "number": "39938",
+  "issuer": "İçişleri Bakanı",
+  "issuer_slug": "icisleri-bakani",
+  "path": "regulation/icisleri-bakani/2022/39938",
+  "source": "https://www.mevzuat.gov.tr/anasayfa/MevzuatFihristDetayIframe?MevzuatTur=7&MevzuatNo=39938&MevzuatTertip=5",
+  "source_sha256": "037279699c1d1c802f21f8108a332fdd6d6fe8b0dcb7b69edd7af50d4ba5c42c",
+  "source_bytes": 172447,
+  "published": "2022-12-31",
+  "gazette": "32060 5.Mükerrer",
+  "in_force": "2022-12-31",
+  "in_force_basis": "Resmî Gazete publication date in the official listing (31.12.2022); own commencement article: \"Bu Yönetmelik yayımı tarihinde yürürlüğe girer\"",
+  "commencement_clauses": [
+    "Bu Yönetmelik yayımı tarihinde yürürlüğe girer"
+  ],
+  "history": "current-text",
+  "label": "oldest version available",
+  "checked_on": "2026-11-15",
+  "word_count": 9663,
+  "text_status": "current-consolidated",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  },
+  "completeness": "html-text-complete"
+}
