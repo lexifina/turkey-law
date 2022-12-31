@@ -1,0 +1,29 @@
+{
+  "source_id": "9.5.39941",
+  "kind": "communique",
+  "register_kind": "Tebliğler",
+  "title": "LİSANSLI YEDİEMİN DEPOLARI YÖNETMELİĞİ ÜCRET TARİFESİ",
+  "number": "39941",
+  "path": "teblig/2022/39941",
+  "source": "https://www.mevzuat.gov.tr/anasayfa/MevzuatFihristDetayIframe?MevzuatTur=9&MevzuatNo=39941&MevzuatTertip=5",
+  "source_sha256": "1e43b22b64b9fe3a27529d647f04d381eb0400f8c2e890a33373e6d364e55dff",
+  "source_bytes": 23894,
+  "published": "2022-12-31",
+  "gazette": "32060",
+  "in_force": "2022-12-31",
+  "in_force_basis": "Resmî Gazete publication date in the official listing (31.12.2022)",
+  "history": "current-text",
+  "label": "oldest version available",
+  "checked_on": "2026-11-15",
+  "word_count": 529,
+  "text_status": "current-consolidated",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  },
+  "source_links": [
+    "9.5.39941-EK.xlsx"
+  ],
+  "completeness": "html-text-complete; linked annexes not fetched"
+}
