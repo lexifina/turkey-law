@@ -1,0 +1,27 @@
+{
+  "number": "17",
+  "year": 2022,
+  "title": "FAALIYET RAPORU",
+  "decision_date": null,
+  "index_date": "2022-12-31",
+  "date_precision": "year",
+  "period": "2022",
+  "source": "https://www.kilisozelidare.gov.tr/2022-meclis-kararlari",
+  "official_page": "https://www.kilisozelidare.gov.tr/2022-meclis-kararlari",
+  "official_document": "https://www.kilisozelidare.gov.tr/kurumlar/kilisozelidare.gov.tr/Meclis_Karları/2022_meclis_kararlari/KARAR17_FAALIYET-RAPORU.doc",
+  "source_sha256": "308f3bba6562a183268b3b24f725e52fce5404192ce48e6e7328b7ae5fb7925d",
+  "issuer": "Kilis İl Genel Meclisi",
+  "history_type": "metadata",
+  "text_status": "metadata-only: number/subject as published (official list or file name); complete decision text is in the linked official document, not transcribed",
+  "in_force": "2022-12-31",
+  "in_force_basis": "The official source prints only the year of this decision (2022); date set to 31 December of that year (turkey-law date convention for year-only sources, Alan 2026-11-16); exact adoption dates are in the linked official document; legal commencement not asserted",
+  "missing": [
+    "exact decision date",
+    "complete official decision text",
+    "official annexes"
+  ],
+  "law_text_complete": false,
+  "privacy_withheld": false,
+  "listing_label": "KARAR17_FAALIYET-RAPORU",
+  "item_title": "2022 Meclis Kararları"
+}
