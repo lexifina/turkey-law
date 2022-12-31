@@ -1,0 +1,18 @@
+{
+  "issuer": "Kamu Görevlileri Etik Kurulu",
+  "document_type": "ethics-violation-decision",
+  "number": "2022/72",
+  "decision_date": "2022-12-31",
+  "date_as_printed": "Karar Tarihi : .../…/2022",
+  "date_precision": "year",
+  "title": "Kamu Görevlileri Etik Kurulu 2022/72 sayılı kararı",
+  "keywords": "Dürüstlük ve tarafsızlık, Saygınlık ve Güven, Görev ve yetkilerin menfaat sağlamak amacıyla kullanılmaması",
+  "source": "https://www.etik.gov.tr/media/g4xbk5bb/2022_72-karar.pdf",
+  "source_sha256": "1725731979364a559a3dabdfb14116bba9cebb3c5d0184bfa2ae31d6155143cb",
+  "official_list": "https://www.etik.gov.tr/kararlar/etik-ihlal-kararlari/",
+  "official_list_sha256": "a53f6b1db3a2f8476e5690f4c2ecd6b4806b196966bf0b59005f951ee2c3bab5",
+  "text_status": "metadata-only",
+  "metadata_only_reason": "the two text extractions differ",
+  "in_force": "2022-12-31",
+  "law_text_complete": false
+}
