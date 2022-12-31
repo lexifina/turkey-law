@@ -1,0 +1,17 @@
+{
+  "issuer": "Kamu Görevlileri Etik Kurulu",
+  "document_type": "ethics-violation-decision",
+  "number": "2022/116",
+  "decision_date": "2022-12-31",
+  "date_as_printed": "Karar Tarihi : …/…/2022",
+  "date_precision": "year",
+  "title": "Kamu Görevlileri Etik Kurulu 2022/116 sayılı kararı",
+  "keywords": "Kamu Kaynakları Ve Yetkilerinin Usulsüz Kullanımı",
+  "source": "https://www.etik.gov.tr/media/ohqbsm10/2022-116.pdf",
+  "source_sha256": "7cc74ed2ccebea772ae1ec7e8805cd2d53f24e062264b5e987d7327dfba7db6a",
+  "official_list": "https://www.etik.gov.tr/kararlar/etik-ihlal-kararlari/",
+  "official_list_sha256": "a53f6b1db3a2f8476e5690f4c2ecd6b4806b196966bf0b59005f951ee2c3bab5",
+  "text_status": "as-published",
+  "in_force": "2022-12-31",
+  "law_text_complete": true
+}
