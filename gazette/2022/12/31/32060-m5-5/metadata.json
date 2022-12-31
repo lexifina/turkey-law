@@ -1,0 +1,20 @@
+{
+  "record_type": "gazette-item",
+  "gazette": "Resmî Gazete",
+  "jurisdiction": "TR",
+  "date": "2022-12-31",
+  "issue": "32060",
+  "edition": "mükerrer 5",
+  "item": 5,
+  "section": "YÜRÜTME VE İDARE BÖLÜMÜ",
+  "heading": "YÖNETMELİKLER",
+  "title": "Karayolları Motorlu Araçlar Zorunlu Mali Sorumluluk Sigortasında Tarife Uygulama Esasları Hakkında Yönetmelikte Değişiklik Yapılmasına Dair Yönetmelik",
+  "official_link": "https://www.resmigazete.gov.tr/eskiler/2022/12/20221231M5-5.htm",
+  "link_format": "htm",
+  "index_url": "https://www.resmigazete.gov.tr/eskiler/2022/12/20221231M5.htm",
+  "index_sha256": "a27c7b14f002e52e0c81b7429d6dd2636599f641926f7c420555ed11d22b786c",
+  "index_header": "31 Aralık 2022 ... 32060 Sayılı Resmî Gazete",
+  "issue_pdf": "https://www.resmigazete.gov.tr/eskiler/2022/12/20221231M5.pdf",
+  "in_force_basis": "Resmî Gazete publication date; not a commencement reading.",
+  "text_status": "metadata-only; text not yet fetched (follow-up pass adds it as its own commit)"
+}
