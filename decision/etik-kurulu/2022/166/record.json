@@ -1,0 +1,17 @@
+{
+  "issuer": "Kamu Görevlileri Etik Kurulu",
+  "document_type": "ethics-violation-decision",
+  "number": "2022/166",
+  "decision_date": "2022-12-31",
+  "date_as_printed": "Karar Tarihi : …/…/2022",
+  "date_precision": "year",
+  "title": "Kamu Görevlileri Etik Kurulu 2022/166 sayılı kararı",
+  "keywords": "Kayırmacılık-Ayrımcılık, Tarafsızlık",
+  "source": "https://www.etik.gov.tr/media/s2xlmn4a/2022-166.pdf",
+  "source_sha256": "2270f087635c655705db01c7ae1a79ad30e2479fe6f4487e14e7f18167988648",
+  "official_list": "https://www.etik.gov.tr/kararlar/etik-ihlal-kararlari/",
+  "official_list_sha256": "a53f6b1db3a2f8476e5690f4c2ecd6b4806b196966bf0b59005f951ee2c3bab5",
+  "text_status": "as-published",
+  "in_force": "2022-12-31",
+  "law_text_complete": true
+}
