@@ -1,0 +1,28 @@
+{
+  "number": "year-101",
+  "year": 2022,
+  "title": "(J) Plaka İş ve İşlemleri.",
+  "decision_date": null,
+  "index_date": "2022-12-31",
+  "date_precision": "year",
+  "period": "2022",
+  "source": "https://www.manisa.bel.tr/t23_ulasim-dairesi-baskanligi.aspx?sayfa=icerik&sid=3032",
+  "official_page": "https://www.manisa.bel.tr/t23_ulasim-dairesi-baskanligi.aspx?sayfa=icerik&sid=3032",
+  "official_document": "https://manisa.bel.tr/upload/teskilat/dosya/e55799c2207346de9e171aaa21f87a8d.pdf",
+  "source_sha256": "f1a0e346ae334e3922c974e80111bcbe775740b5b567c712aa2d8fcc262878f4",
+  "issuer": "Manisa Büyükşehir Belediyesi UKOME",
+  "history_type": "metadata",
+  "text_status": "metadata-only: listing fields as published; the decisions are in the linked official document, not transcribed",
+  "in_force": "2022-12-31",
+  "in_force_basis": "The official listing dates this official file only by its year (2022); date set to 31 December of that year (turkey-law date convention for year-only sources, approved 2026-11-16); exact adoption dates are in the linked official document; legal commencement not asserted",
+  "missing": [
+    "decision numbers, dates and subjects",
+    "complete official decision text",
+    "official annexes"
+  ],
+  "law_text_complete": false,
+  "privacy_withheld": false,
+  "decision_number": "2022-101",
+  "record_scope": "one UKOME decision (official PDF)",
+  "listing_label": "2022-101 (J) Plaka İş ve İşlemleri."
+}
