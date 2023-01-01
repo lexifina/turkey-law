@@ -1,0 +1,34 @@
+{
+  "source_id": "7.5.39920",
+  "kind": "regulation",
+  "register_kind": "Kurum ve Kuruluş Yönetmelikleri",
+  "title": "TARIM VE ORMAN ARAÇLARININ VE MOTORLARININ ÇEVRESEL VE TAHRİK ÜNİTESİ PERFORMANSINA YÖNELİK ŞARTLAR HAKKINDA TİP ONAYI YÖNETMELİĞİ (AB/2018/985)",
+  "number": "39920",
+  "issuer": "Sanayi ve Teknoloji Bakanı",
+  "issuer_slug": "sanayi-ve-teknoloji-bakani",
+  "path": "regulation/sanayi-ve-teknoloji-bakani/2022/39920",
+  "source": "https://www.mevzuat.gov.tr/anasayfa/MevzuatFihristDetayIframe?MevzuatTur=7&MevzuatNo=39920&MevzuatTertip=5",
+  "source_sha256": "12dade435dd48fc5f83a5df96b258ef845f656f25ea0be270d0a3c5ace16d2ae",
+  "source_bytes": 45346,
+  "published": "2022-12-27",
+  "gazette": "32056 Mükerrer",
+  "in_force": "2023-01-01",
+  "in_force_basis": "own commencement article: \"Bu Yönetmelik 1/1/2023 tarihinde yürürlüğe girer\"",
+  "commencement_clauses": [
+    "Bu Yönetmelik 1/1/2023 tarihinde yürürlüğe girer"
+  ],
+  "history": "current-text",
+  "label": "oldest version available",
+  "checked_on": "2026-11-15",
+  "word_count": 2622,
+  "text_status": "current-consolidated",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  },
+  "source_links": [
+    "7.5.39920%20Ek.docx"
+  ],
+  "completeness": "html-text-complete; linked annexes not fetched"
+}
