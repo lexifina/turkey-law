@@ -1,0 +1,50 @@
+{
+  "annexes": {
+    "links": [
+      {
+        "caption": "Eki için tıklayınız",
+        "official_href": "9.5.40008-ek.doc",
+        "status": "pending"
+      }
+    ],
+    "official_html": "https://www.mevzuat.gov.tr/anasayfa/MevzuatFihristDetayIframe?MevzuatTur=9&MevzuatNo=40008&MevzuatTertip=5",
+    "status": "pending"
+  },
+  "checked_on": "2026-11-15",
+  "commencement_quote": "Bu Tebliğ 1/1/2023 tarihinde yürürlüğe girer",
+  "date_gazette": "32059 (2. Mükerrer)",
+  "date_quote": "Bu Tebliğ 1/1/2023 tarihinde yürürlüğe girer",
+  "first_law": null,
+  "gazette": "32059 (2. Mükerrer)",
+  "history": "current-text",
+  "images": {
+    "deferred": 0,
+    "omitted": 0,
+    "referenced": 0,
+    "source": 0
+  },
+  "in_force": "2023-01-01",
+  "in_force_basis": "Own commencement clause: Bu Tebliğ 1/1/2023 tarihinde yürürlüğe girer",
+  "issuer": "Hazine ve Maliye Bakanlığı",
+  "issuer_catalog_evidence": [
+    {
+      "evidence": "issuer-578-100.json",
+      "id": "578",
+      "label": "Hazine ve Maliye Bakanlığı",
+      "listing_url": "https://www.mevzuat.gov.tr/Anasayfa/MevzuatDatatable?MevzuatTur=Teblig&KurumId=578&start=100&length=100"
+    }
+  ],
+  "issuer_slug": "hazine-ve-maliye-bakanligi",
+  "kind": "communique",
+  "label": "oldest version available",
+  "notes": [
+    "Linked official annexes are not included in this version; original official links and captions are recorded in annexes."
+  ],
+  "published": "2022-12-30",
+  "source": "https://www.mevzuat.gov.tr/anasayfa/MevzuatFihristDetayIframe?MevzuatTur=9&MevzuatNo=40008&MevzuatTertip=5",
+  "source_bytes": 14302,
+  "source_id": "9.5.40008",
+  "source_sha256": "351588ad8775a55aeb0d36934965a746047520f60ac47488600fc09223b0f11a",
+  "title": "VERGİ USUL KANUNU GENEL TEBLİĞİ (SIRA NO: 544)",
+  "word_count": 356
+}
