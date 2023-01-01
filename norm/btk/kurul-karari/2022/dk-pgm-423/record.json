@@ -1,0 +1,18 @@
+{
+  "kind": "norm",
+  "issuer": "Bilgi Teknolojileri ve İletişim Kurumu",
+  "document_type": "kurul-karari",
+  "number": "2022/DK-PGM/423",
+  "source_id": "2022/DK-PGM/423",
+  "date": "2022-12-27",
+  "title": "PGM 2023 Yılı Ücretleri",
+  "source": "https://www.btk.gov.tr/s3/web-btk-site/7708c26c-5161-4919-8b3d-daa31d4ac8fb/2026/03/4f39aebd-fca7-4ce3-baaa-f873529090bb.pdf",
+  "source_sha256": "9174d71765cee2e0d5784345977e99df6806ed6e1bd28da34b6d44967cc126ef",
+  "text_status": "as-enacted",
+  "text_file": "metin.md",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  }
+}
