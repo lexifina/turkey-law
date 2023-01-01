@@ -1,0 +1,31 @@
+{
+  "source_id": "7.5.39910",
+  "kind": "regulation",
+  "register_kind": "Kurum ve Kuruluş Yönetmelikleri",
+  "title": "DANIŞTAY YAZI İŞLERİ HİZMETLERİNİN YÜRÜTÜLMESİNE DAİR YÖNETMELİK",
+  "number": "39910",
+  "issuer": "Danıştay Başkanı",
+  "issuer_slug": "danistay-baskani",
+  "path": "regulation/danistay-baskani/2022/39910",
+  "source": "https://www.mevzuat.gov.tr/anasayfa/MevzuatFihristDetayIframe?MevzuatTur=7&MevzuatNo=39910&MevzuatTertip=5",
+  "source_sha256": "d6bc51b0d0dff4f850f018af32b12be725fed96e92b7431083d4ac9438a657ef",
+  "source_bytes": 215970,
+  "published": "2022-11-30",
+  "gazette": "32029",
+  "in_force": "2023-01-01",
+  "in_force_basis": "own commencement article: \"Bu Yönetmelik 1/1/2023 tarihinde yürürlüğe girer\"",
+  "commencement_clauses": [
+    "Bu Yönetmelik 1/1/2023 tarihinde yürürlüğe girer"
+  ],
+  "history": "current-text",
+  "label": "oldest version available",
+  "checked_on": "2026-11-15",
+  "word_count": 11802,
+  "text_status": "current-consolidated",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  },
+  "completeness": "html-text-complete"
+}

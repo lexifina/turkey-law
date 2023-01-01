@@ -1,0 +1,3 @@
+İşlemden kaldırma kararı verilen dosyalarda yapılacak işlemler
+MADDE 22- (1) 2577 sayılı Kanunun 6 ncı maddesinin beşinci fıkrası ile 26 ncı maddesinin üçüncü fıkrası uyarınca işlemden kaldırılan dosyaların tasnif, takip ve belirli aralıklarla kontrolü yapılır.
+(2) 2577 sayılı Kanunun 26 ncı maddesinin birinci fıkrası uyarınca işlemden kaldırılan dosyalar arşive kaldırılmaksızın yazı işleri müdürlüğünde muhafaza edilir. Bu dosyalarda yenileme dilekçesi verilmesi durumunda yeniden esas numarası verilerek tarafların kişilik veya niteliğindeki değişiklikler dosya kapağına ve UYAP’a kaydedilir. İşlemden kaldırılan dosya ile ilişkilendirilir.

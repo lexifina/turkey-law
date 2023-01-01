@@ -1,0 +1,5 @@
+İş bölümü
+MADDE 9- (1) Yazı işleri müdürü, idari görevli savcı veya kıdemli tetkik hâkiminin uygun görüşü ve Başsavcı, İdari ve Vergi Dava Daireleri Kurulları Başkanları ve daire başkanının oluru ile yazı işleri personeli arasında iş bölümü yapar.
+(2) Genel Kurul, İçtihatları Birleştirme Kurulu, Başkanlar Kurulu ve İdari İşler Kurulunda yazı işleri müdürü, kıdemli tetkik hâkiminin uygun görüşü ve Danıştay Başkanının veya görevlendirmesi halinde Danıştay Genel Sekreterinin oluru ile yazı işleri personeli arasında iş bölümü yapar.
+(3) Genel Yazı İşleri Müdürlüğünde yazı işleri müdürü, yetkili tetkik hâkiminin uygun görüşü ve Danıştay Genel Sekreterinin oluru ile yazı işleri personeli arasında iş bölümü yapar.
+(4) Yazı işleri müdürü hizmetlerin verimli ve düzenli bir şekilde yürütülmesi amacıyla yönetimindeki personele işlerin öğretilmesi de dâhil olmak üzere her türlü tedbiri alır. Bir personele çok iş gelmesi halinde diğer personel ona yardım eder. Yazı işleri müdürü ve görevli personel işin birikmesi veya gecikmesinden birlikte sorumludur.
