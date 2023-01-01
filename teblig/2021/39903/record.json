@@ -1,0 +1,33 @@
+{
+  "source_id": "9.5.39903",
+  "kind": "communique",
+  "register_kind": "Tebliğler",
+  "title": "HAVA ISITMA ÜRÜNLERİ, SOĞUTMA ÜRÜNLERİ, YÜKSEK SICAKLIK PROSES ÇİLLERLERİ VE FANKOİL ÜNİTELERİ İLE İLGİLİ ÇEVREYE DUYARLI TASARIM GEREKLİLİKLERİNE DAİR TEBLİĞ (2016/2281/AB) (SGM: 2021/20)",
+  "number": "39903",
+  "issuer": "Sanayi ve Teknoloji Bakanı",
+  "path": "teblig/2021/39903",
+  "source": "https://www.mevzuat.gov.tr/anasayfa/MevzuatFihristDetayIframe?MevzuatTur=9&MevzuatNo=39903&MevzuatTertip=5",
+  "source_sha256": "1e84a1089349b1539c5099fa6ca7fab44dcfda045d7b67da39bf1f336ed6365d",
+  "source_bytes": 57114,
+  "published": "2021-05-25",
+  "gazette": "31491",
+  "in_force": "2023-01-01",
+  "in_force_basis": "own commencement article: \"Bu Tebliğ 1/1/2023 tarihinde yürürlüğe girer\"",
+  "commencement_clauses": [
+    "Bu Tebliğ 1/1/2023 tarihinde yürürlüğe girer"
+  ],
+  "history": "current-text",
+  "label": "oldest version available",
+  "checked_on": "2026-11-15",
+  "word_count": 1700,
+  "text_status": "current-consolidated",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  },
+  "source_links": [
+    "9.5.39903-EK.docx"
+  ],
+  "completeness": "html-text-complete; linked annexes not fetched"
+}
