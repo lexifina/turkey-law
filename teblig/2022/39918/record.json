@@ -1,0 +1,37 @@
+{
+  "checked_on": "2026-11-15",
+  "commencement_quote": "Bu Tebliğ 1/1/2023 tarihinde yürürlüğe girer",
+  "date_gazette": "32056",
+  "date_quote": "Bu Tebliğ 1/1/2023 tarihinde yürürlüğe girer",
+  "first_law": null,
+  "gazette": "32056",
+  "history": "current-text",
+  "images": {
+    "deferred": 0,
+    "omitted": 0,
+    "referenced": 0,
+    "source": 0
+  },
+  "in_force": "2023-01-01",
+  "in_force_basis": "Own commencement clause: Bu Tebliğ 1/1/2023 tarihinde yürürlüğe girer",
+  "issuer": "Ticaret Bakanlığı",
+  "issuer_catalog_evidence": [
+    {
+      "evidence": "issuer-504-300.json",
+      "id": "504",
+      "label": "Ticaret Bakanlığı",
+      "listing_url": "https://www.mevzuat.gov.tr/Anasayfa/MevzuatDatatable?MevzuatTur=Teblig&KurumId=504&start=300&length=100"
+    }
+  ],
+  "issuer_slug": "ticaret-bakanligi",
+  "kind": "communique",
+  "label": "oldest version available",
+  "notes": [],
+  "published": "2022-12-27",
+  "source": "https://www.mevzuat.gov.tr/anasayfa/MevzuatFihristDetayIframe?MevzuatTur=9&MevzuatNo=39918&MevzuatTertip=5",
+  "source_bytes": 10324,
+  "source_id": "9.5.39918",
+  "source_sha256": "c7c98c2fde32aa58c36a9fcc60e5e7d9ebaebf68befa558474bb889dd769a5a0",
+  "title": "4054 SAYILI REKABETİN KORUNMASI HAKKINDA KANUNUN 16 NCI MADDESİNİN BİRİNCİ FIKRASINDA ÖNGÖRÜLEN İDARİ PARA CEZASI ALT SINIRININ 31/12/2023 TARİHİNE KADAR GEÇERLİ OLMAK ÜZERE ARTIRILMASINA İLİŞKİN TEBLİĞ\r\n(TEBLİĞ NO: 2023/1)",
+  "word_count": 120
+}
