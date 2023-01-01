@@ -1,0 +1,37 @@
+{
+  "checked_on": "2026-11-15",
+  "commencement_quote": "Bu Tebliğ 1/1/2023 tarihinde yürürlüğe girer",
+  "date_gazette": "32057",
+  "date_quote": "Bu Tebliğ 1/1/2023 tarihinde yürürlüğe girer",
+  "first_law": null,
+  "gazette": "32057",
+  "history": "current-text",
+  "images": {
+    "deferred": 0,
+    "omitted": 0,
+    "referenced": 0,
+    "source": 0
+  },
+  "in_force": "2023-01-01",
+  "in_force_basis": "Own commencement clause: Bu Tebliğ 1/1/2023 tarihinde yürürlüğe girer",
+  "issuer": "Enerji ve Tabii Kaynaklar Bakanlığı",
+  "issuer_catalog_evidence": [
+    {
+      "evidence": "issuer-122-0.json",
+      "id": "122",
+      "label": "Enerji ve Tabii Kaynaklar Bakanlığı",
+      "listing_url": "https://www.mevzuat.gov.tr/Anasayfa/MevzuatDatatable?MevzuatTur=Teblig&KurumId=122&start=0&length=100"
+    }
+  ],
+  "issuer_slug": "enerji-ve-tabii-kaynaklar-bakanligi",
+  "kind": "communique",
+  "label": "oldest version available",
+  "notes": [],
+  "published": "2022-12-28",
+  "source": "https://www.mevzuat.gov.tr/anasayfa/MevzuatFihristDetayIframe?MevzuatTur=9&MevzuatNo=39924&MevzuatTertip=5",
+  "source_bytes": 19831,
+  "source_id": "9.5.39924",
+  "source_sha256": "53742ad1428a9bff9d608eef010babe727298b062f7bd97c699b01b83afa23d3",
+  "title": "6446 SAYILI ELEKTRİK PİYASASI KANUNUNUN 16 NCI MADDESİ UYARINCA 2023 YILINDA UYGULANACAK İDARİ PARA CEZALARI HAKKINDA TEBLİĞ",
+  "word_count": 223
+}
