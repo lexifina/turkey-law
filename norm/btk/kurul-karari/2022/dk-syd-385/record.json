@@ -1,0 +1,18 @@
+{
+  "kind": "norm",
+  "issuer": "Bilgi Teknolojileri ve İletişim Kurumu",
+  "document_type": "kurul-karari",
+  "number": "2022/DK-SYD/385",
+  "source_id": "2022/DK-SYD/385",
+  "date": "2022-12-07",
+  "title": "2023 Yılı Telsiz Ücret Tarifesi",
+  "source": "https://www.btk.gov.tr/s3/web-btk-site/7708c26c-5161-4919-8b3d-daa31d4ac8fb/2026/03/09465917-1d8c-4d37-a557-cebd48ea9f8e.pdf",
+  "source_sha256": "cd1644f87b93b6c2279dfed8ee9c03364e1ffff0238fb1a9d3ae57db9c92366e",
+  "text_status": "as-enacted",
+  "text_file": "metin.md",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  }
+}
