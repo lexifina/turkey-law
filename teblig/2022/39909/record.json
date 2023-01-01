@@ -1,0 +1,37 @@
+{
+  "checked_on": "2026-11-15",
+  "commencement_quote": "Bu Tebliğ 1/1/2023 tarihinde yürürlüğe girer",
+  "date_gazette": "32053",
+  "date_quote": "Bu Tebliğ 1/1/2023 tarihinde yürürlüğe girer",
+  "first_law": null,
+  "gazette": "32053",
+  "history": "current-text",
+  "images": {
+    "deferred": 0,
+    "omitted": 0,
+    "referenced": 0,
+    "source": 0
+  },
+  "in_force": "2023-01-01",
+  "in_force_basis": "Own commencement clause: Bu Tebliğ 1/1/2023 tarihinde yürürlüğe girer",
+  "issuer": "Sanayi ve Teknoloji Bakanlığı",
+  "issuer_catalog_evidence": [
+    {
+      "evidence": "issuer-628-0.json",
+      "id": "628",
+      "label": "Sanayi ve Teknoloji Bakanlığı",
+      "listing_url": "https://www.mevzuat.gov.tr/Anasayfa/MevzuatDatatable?MevzuatTur=Teblig&KurumId=628&start=0&length=100"
+    }
+  ],
+  "issuer_slug": "sanayi-ve-teknoloji-bakanligi",
+  "kind": "communique",
+  "label": "oldest version available",
+  "notes": [],
+  "published": "2022-12-24",
+  "source": "https://www.mevzuat.gov.tr/anasayfa/MevzuatFihristDetayIframe?MevzuatTur=9&MevzuatNo=39909&MevzuatTertip=5",
+  "source_bytes": 26306,
+  "source_id": "9.5.39909",
+  "source_sha256": "bd4a2a12bf678ffb05059f7d8890c89ecdf15f6746a398835f95fc68f04dbe9e",
+  "title": "7381 SAYILI NÜKLEER DÜZENLEME KANUNUNUN 25 İNCİ MADDESİ\r\nUYARINCA 2023 YILINDA UYGULANACAK İDARİ PARA\r\nCEZALARINA İLİŞKİN TEBLİĞ",
+  "word_count": 315
+}
