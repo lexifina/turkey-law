@@ -1,0 +1,3 @@
+GÜMRÜK GENEL TEBLİĞİ
+(GÜMRÜK İŞLEMLERİ)
+(SERİ NO: 189)
