@@ -1,0 +1,3 @@
+Müdür yardımcısı (Başhekim yardımcısı)
+MADDE 10- (1) Müdür (Başhekim) ve Dekanın önerisi üzerine Fakültenin devamlı statüde çalışan öğretim üyeleri arasından en fazla iki kişi, Rektör tarafından üç yıl süre ile müdür yardımcısı (başhekim yardımcısı) olarak görevlendirilebilir. Müdür yardımcıları (Başhekim yardımcıları), Müdür (Başhekim) tarafından belirlenen Merkez hizmetlerinin yürütülmesinde Müdür (Başhekim)’e yardımcı olurlar.
+(2) Müdür (Başhekim)’ün görevi sona erdiğinde, yardımcılarının da görevi kendiliğinden sona erer. Görev süresi biten müdür yardımcıları (başhekim yardımcıları) aynı usulle yeniden görevlendirilebilir veya süresinden önce aynı usulle görevden alınabilir.
