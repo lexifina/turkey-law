@@ -1,0 +1,22 @@
+{
+  "kind": "norm",
+  "issuer": "Gelir İdaresi Başkanlığı",
+  "document_type": "ozelge",
+  "number": "84098128-120[74-2021/4]-996",
+  "source_id": 37721,
+  "date": "2023-01-02",
+  "title": "Gayrimenkul sermaye iradından ikamet edilen konuta ait depozito ve emlak komisyoncusuna ödenen komisyon tutarının gider olarak indirilip indirilemeyeceği hk.",
+  "source": "https://gib.gov.tr/mevzuat/kanun/433/ozelge/37721",
+  "related_law": "193 sayılı GELİR VERGİSİ KANUNU",
+  "source_api": "https://gib.gov.tr/api/gibportal/mevzuat/ozelge/list",
+  "source_listing": "evidence/list/2026-11-16/ozelge-p008.json",
+  "source_listing_sha256": "292c126217cc32c3ccfa57495ce433f89ef8db5e75fa1946d5819a76f81aff4d",
+  "source_sha256": "9d446d9e8601f32225b0e431ec74666ff0b0b1c512cdb1de81a2bcbcaecd0ff5",
+  "text_status": "as-enacted",
+  "text_file": "metin.md",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  }
+}
