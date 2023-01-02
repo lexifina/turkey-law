@@ -1,0 +1,27 @@
+{
+  "number": "24",
+  "number_as_published": "24",
+  "year": 2023,
+  "title": "Ülkemizdeki ekonomik şartlar ve gelen şikayetler göz önünde bulundurularak çocuk, genç ve yetişkinlerin spor tesisleri 2023 yılı alınacak ücretlerin revize edilmesine ilişkin Meclis Kararı.",
+  "decision_date": "2023-01-02",
+  "source": "https://www.mamak.bel.tr/gundem/GetKararlar",
+  "official_document": "https://www.mamak.bel.tr/gundem/DosyaDownload?guid=5a503a08-f2f0-4238-b769-02436cc5fb5b",
+  "source_sha256": "f554089df68731558a37947c976f196303cdbdc5704c52cb6912834ca94730d3",
+  "issuer": "Mamak Belediye Meclisi",
+  "history_type": "metadata",
+  "text_status": "metadata-only: listing fields as published; complete decision text is in the linked official document, not transcribed",
+  "in_force": "2023-01-02",
+  "in_force_basis": "Decision date as printed in the official council listing: 2023-01-02T00:00:00 (kararTarihi of the official register); adoption date of the council decision; legal commencement not asserted",
+  "missing": [
+    "complete official decision text",
+    "official annexes"
+  ],
+  "law_text_complete": false,
+  "privacy_withheld": false,
+  "listing_page": "https://www.mamak.bel.tr/gundem/kararlar",
+  "register_api": "https://www.mamak.bel.tr/gundem/GetKararlar",
+  "official_documents": [
+    "https://www.mamak.bel.tr/gundem/DosyaDownload?guid=5a503a08-f2f0-4238-b769-02436cc5fb5b",
+    "https://www.mamak.bel.tr/gundem/DosyaDownload?guid=5d188e73-7ea7-4ff1-8219-4f038f29b0ab"
+  ]
+}
