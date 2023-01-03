@@ -1,0 +1,24 @@
+{
+  "number": "meeting-01-03",
+  "number_as_published": "meeting-01-03",
+  "year": 2023,
+  "title": "03.01.2023 TARİH VE 1 NOLU MECLİS KARARI: Açmak için Tıklayınız",
+  "decision_date": "2023-01-03",
+  "source": "https://www.kusadasi.bel.tr/tr/meclis-kararlari-p1016",
+  "official_document": "https://kusadasi.bel.tr/userfiles/03_01_2023_TARIH_VE__1_NOLU_MECLIS_KARARI_06012023_152033.pdf",
+  "source_sha256": "eaccb57f75032b3a383053be082c6445314bf3b52f24a43f79e7888405053ef4",
+  "issuer": "Kuşadası Belediye Meclisi",
+  "history_type": "metadata",
+  "text_status": "metadata-only: listing fields as published; complete decision text is in the linked official document, not transcribed",
+  "in_force": "2023-01-03",
+  "in_force_basis": "Decision date as printed in the official council listing: 03.01.2023; adoption date of the council decision; legal commencement not asserted",
+  "missing": [
+    "complete official decision text",
+    "official annexes"
+  ],
+  "law_text_complete": false,
+  "privacy_withheld": false,
+  "listing_label": "03.01.2023 TARİH VE 1 NOLU MECLİS KARARI: Açmak için Tıklayınız",
+  "record_scope": "one official file of council decisions (meeting)",
+  "official_page": "https://www.kusadasi.bel.tr/tr/meclis-kararlari-p1016"
+}
