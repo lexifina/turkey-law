@@ -1,0 +1,17 @@
+{
+  "kind": "decision",
+  "issuer": "Sayıştay 4. Dairesi",
+  "number": "293",
+  "decision_date": "2023-01-03",
+  "source_id": 36540,
+  "chamber": "4",
+  "ilam_number": "186",
+  "item_number": 2,
+  "public_body_type": "Belediyeler ve Bağlı İdareler",
+  "account_year": 2019,
+  "subject": "İhale Mevzuatı ile İlgili Kararlar",
+  "source": "https://www.sayistay.gov.tr/KararlarDaire/Detay/36540/",
+  "source_sha256": "f93d1904cfc84d6381545b9177e39d7c96406c10859a2460f93ef4b69899348f",
+  "text_status": "as-enacted",
+  "text_file": "metin.md"
+}
