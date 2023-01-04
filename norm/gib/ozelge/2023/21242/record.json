@@ -1,0 +1,22 @@
+{
+  "kind": "norm",
+  "issuer": "Gelir İdaresi Başkanlığı",
+  "document_type": "ozelge",
+  "number": "E-62030549-120[20-2021]-21031",
+  "source_id": 21242,
+  "date": "2023-01-04",
+  "title": "Anaokulu işletmeciliği yapan mükellefin faaliyetine son vermesi ve okul açma ruhsat alınarak yeniden faaliyete başlaması dolayısıyla eğitim öğretim kazanç istisnasından faydalanıp faydalanılmayacağı.",
+  "source": "https://gib.gov.tr/mevzuat/kanun/433/ozelge/21242",
+  "related_law": "193 sayılı GELİR VERGİSİ KANUNU",
+  "source_api": "https://gib.gov.tr/api/gibportal/mevzuat/ozelge/list",
+  "source_listing": "evidence/list/2026-11-16/ozelge-p000.json",
+  "source_listing_sha256": "5444faf84128246cd8dd8c6db754d41e2a11c7717342bfe0a07a35074d061761",
+  "source_sha256": "7a8687374a9d31adb09445a11ed47b5a863dd80cf23acf24ca7440d8a5ceb849",
+  "text_status": "as-enacted",
+  "text_file": "metin.md",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  }
+}
