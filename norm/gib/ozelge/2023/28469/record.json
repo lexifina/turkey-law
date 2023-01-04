@@ -1,0 +1,22 @@
+{
+  "kind": "norm",
+  "issuer": "Gelir İdaresi Başkanlığı",
+  "document_type": "ozelge",
+  "number": "64597866-125-329",
+  "source_id": 28469,
+  "date": "2023-01-04",
+  "title": "Sat-Kirala-Geri Al sözleşmesi kapsamında mülkiyeti tekrar edinilen taşınmazın kısmi bölünme yoluyla devrinde taşınmaza ait özel fon hesabının da devredelip devredilemeyeceği hk.",
+  "source": "https://gib.gov.tr/mevzuat/kanun/435/ozelge/28469",
+  "related_law": "5520 sayılı KURUMLAR VERGİSİ KANUNU",
+  "source_api": "https://gib.gov.tr/api/gibportal/mevzuat/ozelge/list",
+  "source_listing": "evidence/list/2026-11-16/ozelge-p003.json",
+  "source_listing_sha256": "b8eb1aba686c15efb9ca96f819c840940788d8f48769f30127e032220fbff4ab",
+  "source_sha256": "cc1d733b445a0cbe09ce516ffc2bc5f3d8b685aecddc76dc057a4e91e15b1071",
+  "text_status": "as-enacted",
+  "text_file": "metin.md",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  }
+}
