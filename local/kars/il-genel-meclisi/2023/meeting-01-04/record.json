@@ -1,0 +1,25 @@
+{
+  "number": "meeting-01-04",
+  "number_as_published": "meeting-01-04",
+  "year": 2023,
+  "title": "04.01.2023 MECLİS KARARI",
+  "decision_date": "2023-01-04",
+  "source": "https://www.karsozelidare.gov.tr/04012023-meclis-karari",
+  "official_document": "https://www.karsozelidare.gov.tr/kurumlar/karsozelidare.gov.tr/MeclisKararlari/2023-Meclis-Karari-04.pdf",
+  "source_sha256": "63d5ddfdbc09ae4c547445915ab8082238ae0adfcc81ebaa2fb0af12cb6756f1",
+  "issuer": "Kars İl Genel Meclisi",
+  "history_type": "metadata",
+  "text_status": "metadata-only: listing fields as published; complete decision text is in the linked official document, not transcribed",
+  "in_force": "2023-01-04",
+  "in_force_basis": "Decision date as printed in the official council listing: 04.01.2023; adoption date of the council decision; legal commencement not asserted",
+  "missing": [
+    "complete official decision text",
+    "official annexes"
+  ],
+  "law_text_complete": false,
+  "privacy_withheld": false,
+  "listing_label": "04.01.2023 MECLİS KARARI",
+  "record_scope": "one official file of council decisions (meeting or month)",
+  "official_page": "https://www.karsozelidare.gov.tr/04012023-meclis-karari",
+  "item_title": "04.01.2023 MECLİS KARARI"
+}
