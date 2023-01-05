@@ -1,0 +1,5 @@
+Görev emirleri
+MADDE 39 – (1) Müfettişler Genel Müdürün emri ve onayı üzerine Kurul Başkanından aldıkları talimatla görev yaparlar ve bu Yönetmelikte kendilerine verilmiş yetkileri, Genel Müdür adına kullanırlar.
+(2) (Değişik:RG-5/11/2015-29523) Doğrudan Genel Müdürlüğe veya Teftiş Kuruluna intikal eden veya herhangi bir şekilde Teftiş Kuruluna intikal ettirilen ihbar ve şikayet dilekçelerinden, mahallinde incelenmesi veya soruşturulması mümkün görülenler, öncelikle ilgili merkez veya taşra birimlerine gönderilir. Bunlar anılan birimlerde incelenir veya soruşturulur.
+(3) (Değişik:RG-5/11/2015-29523) Merkez ve taşra birimlerine, doğrudan intikal eden ihbar ve şikayet dilekçeleri öncelikle merkez ve taşra birimlerince incelenir. Muhakkik tayini suretiyle incelemesi ve soruşturulması imkan dahilindeki konular merkez ve taşra birimlerince sonuçlandırılır.
+(4) (Ek:RG-5/11/2015-29523) Müfettiş bilgi ve yeteneğini gerektirecek konular ise Genel Müdürün havalesi üzerine Teftiş Kuruluna iletilir.

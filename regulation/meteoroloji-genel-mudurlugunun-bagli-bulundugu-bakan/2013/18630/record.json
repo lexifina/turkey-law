@@ -1,0 +1,58 @@
+{
+  "source_id": "7.5.18630",
+  "kind": "regulation",
+  "register_kind": "Kurum ve Kuruluş Yönetmelikleri",
+  "title": "METEOROLOJİ GENEL MÜDÜRLÜĞÜ TEFTİŞ KURULU YÖNETMELİĞİ",
+  "number": "18630",
+  "issuer": "Meteoroloji Genel Müdürlüğünün bağlı bulunduğu Bakan",
+  "issuer_slug": "meteoroloji-genel-mudurlugunun-bagli-bulundugu-bakan",
+  "path": "regulation/meteoroloji-genel-mudurlugunun-bagli-bulundugu-bakan/2013/18630",
+  "source": "https://www.mevzuat.gov.tr/anasayfa/MevzuatFihristDetayIframe?MevzuatTur=7&MevzuatNo=18630&MevzuatTertip=5",
+  "source_sha256": "2c70c0ea50375a0f3de7694181b1a0e416d320fef8754a94f060271db8baca48",
+  "source_bytes": 82181,
+  "published": "2013-07-24",
+  "gazette": "28717",
+  "in_force": "2023-01-05",
+  "in_force_basis": "latest Resmî Gazete date printed in the source amendment notes/table (\"RG-5/1/2023\") for the current consolidated text",
+  "date_evidence": [
+    [
+      "2023-01-05",
+      "RG-5/1/2023",
+      "Resmî Gazete date printed in the source amendment note"
+    ],
+    [
+      "2023-01-05",
+      "5/1/2023",
+      "Resmî Gazete date in the source amendment table"
+    ],
+    [
+      "2020-08-14",
+      "14/8/2020",
+      "Resmî Gazete date in the source amendment table"
+    ],
+    [
+      "2015-11-05",
+      "RG-5/11/2015",
+      "Resmî Gazete date printed in the source amendment note"
+    ],
+    [
+      "2015-11-05",
+      "5/11/2015",
+      "Resmî Gazete date in the source amendment table"
+    ]
+  ],
+  "commencement_clauses": [
+    "Bu Yönetmelik yayımı tarihinde yürürlüğe girer"
+  ],
+  "history": "current-text",
+  "label": "oldest version available",
+  "checked_on": "2026-11-15",
+  "word_count": 5592,
+  "text_status": "current-consolidated",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  },
+  "completeness": "html-text-complete"
+}

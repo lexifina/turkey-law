@@ -1,0 +1,5 @@
+İşlerin devamlılığı ve devri
+MADDE 43 – (Değişik:RG-5/11/2015-29523)
+(1) Müfettişler başladıkları işleri ara vermeden bizzat yapıp bitirirler. Geri bırakma ve devir zorunluluğu doğarsa ellerindeki işleri Başkandan izin alarak geri bırakabilirler veya devredebilirler.
+(2) Devredilecek işler için devri yapacak olan müfettiş tarafından bir devir notu hazırlanır ve en az üç nüsha olarak düzenlenecek devir notunda; devredilecek işin ne olduğu, devir gününe kadar işin hangi kısmının ne dereceye kadar incelendiği ve konu hakkındaki düşüncesi yer alır. İşe ait bütün belgeler bir dizi pusulasına bağlanarak bir nüsha devir notuyla birlikte işi devralan müfettişe imza karşılığı teslim edilir. Devir notunun ve dizi pusulasının ikinci nüshası bir yazı ile devreden müfettiş tarafından Başkanlığa iletilir. Üçüncü nüsha devreden müfettişte kalır.
+(3) Müfettişler, görevlendirildikleri konularda daha önce muhakkik tayini suretiyle başlatılmış olan araştırmayı, incelemeyi ve soruşturmayı koordine ederler. Gerek gördükleri takdirde yapılmış çalışmalarla ilgili evrakı devralırlar ve işi sonuçlandırırlar.

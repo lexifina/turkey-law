@@ -1,0 +1,3 @@
+Yazışma ve haberleşme yöntemi
+MADDE 45 – (1) (Değişik:RG-5/1/2023-32064) Müfettişler, yürütmekte oldukları görevlerle ilgili olarak resmî ve özel bütün makam ve kişilerle doğrudan yazışma yapabilirler. Ancak; Cumhurbaşkanlığı, TBMM, yüksek yargı organları, Bakanlıkların merkez ve yurt dışı kuruluşları ile olan yazışmalar Başkanlık aracılığıyla yapılır.
+(2) (Değişik:RG-5/11/2015-29523) Müfettişler görevli gittikleri yerlerde göreve başlayış ve ayrılışlarını aynı gün Başkanlığa bildirirler. Merkeze dönülmesi için Kurul Başkanının müsaadesini alırlar. Heyet halindeki çalışmalarda yazışma ve haberleşmeler kıdemli müfettiş tarafından yapılır.
