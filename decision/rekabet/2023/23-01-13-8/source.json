@@ -1,0 +1,13 @@
+{
+  "number": "23-01/13-8",
+  "type": "Rekabet İhlali",
+  "decision_date": "2023-01-05",
+  "publication_date": "2023-07-17",
+  "official_url": "https://www.rekabet.gov.tr/Karar?kararId=cdee40ec-80c6-46e7-b190-d0499ea6aef2",
+  "listing_source": "https://www.rekabet.gov.tr/tr/Kararlar?page=176",
+  "pdf_sha256": "f63133c608121b769dbfe248cde7f20883465ee3b2ddeca8932a5e0cf5a6fa74",
+  "pdf_bytes": "835705",
+  "pages": "32",
+  "text_status": "metadata-only",
+  "metadata_only_reason": "possible personal name in the official text"
+}
