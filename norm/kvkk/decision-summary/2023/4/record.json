@@ -1,0 +1,18 @@
+{
+  "kind": "norm",
+  "issuer": "Kişisel Verileri Koruma Kurumu",
+  "document_type": "decision-summary",
+  "number": "2023/4",
+  "source_id": 7598,
+  "date": "2023-01-05",
+  "title": "“Bir kargo firmasının çapraz barkodlama hatası nedeniyle kişisel verilerin hukuka aykırı olarak paylaşımına sebep olması” hakkında Kişisel Verileri Koruma Kurulunun 05/01/2023 tarihli ve 2023/4 sayılı Kararı",
+  "source": "https://www.kvkk.gov.tr/Icerik/7598/2023-4",
+  "source_sha256": "621b75e275be7633811bfdb5bdc4f071cb15230a9d5f02fa08687666e10af890",
+  "text_status": "summary",
+  "text_file": "metin.md",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  }
+}
