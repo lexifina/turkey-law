@@ -1,0 +1,24 @@
+{
+  "number": "47",
+  "number_as_published": "47",
+  "year": 2023,
+  "title": "2023 Yılı Çalışma ve Yatırım Programı hakkındaki Başkanlık yazısı okundu.",
+  "decision_date": "2023-01-05",
+  "source": "https://www.kecioren.bel.tr/ocak_meclis_karar_ozetleri-14-meclis-karar-ozeti.html",
+  "official_document": "https://www.kecioren.bel.tr/ocak_meclis_karar_ozetleri-14-meclis-karar-ozeti.html",
+  "source_sha256": "832753752e7dbfb66a8b24ce6e051740460c814922b74a51524eb03056d6b79d",
+  "issuer": "Keçiören Belediye Meclisi",
+  "history_type": "metadata",
+  "text_status": "official decision summary (Karar Özeti) as published in the council listing; complete decision text not transcribed",
+  "in_force": "2023-01-05",
+  "in_force_basis": "Decision date as printed in the official council listing: 05.01.2023 (decision header in the official summary page); adoption date of the council decision; legal commencement not asserted",
+  "missing": [
+    "complete official decision text",
+    "official annexes"
+  ],
+  "law_text_complete": false,
+  "privacy_withheld": false,
+  "summary_page_title": "OCAK MECLİS KARAR ÖZETLERİ",
+  "summary_page_posted": "2023-01-09",
+  "listing": "https://www.kecioren.bel.tr/meclis-karar-ozetleri.html?page=1"
+}
