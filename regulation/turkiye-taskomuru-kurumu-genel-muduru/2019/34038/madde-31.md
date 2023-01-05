@@ -1,0 +1,3 @@
+Artırım teklifleri
+MADDE 31 – (1) Teklifler verildikten sonra istekliler tarafından yapılan artırım teklifleri kabul edilmez. Ancak taşınmaz satış ve kiralama ihalelerinde en uygun teklifi veren istekliden Kurum yararına ihale komisyonunca artırım talep edilebilir. Birkaç istekli tarafından eşit fiyat teklif edildiği ve bunların da uygun bedel olduğu anlaşıldığı takdirde ihale komisyonunca bu isteklilerden ikinci bir yazılı teklif alınır ve bunlardan en uygun bedeli teklif edene ihale yapılır.
+(2) Kuruma ait çay ocakları, tabldot, misafirhane ve kantin gibi yerlerin kiraya verilmesi ihalelerinde 28 inci madde hükmü uyarınca aşırı fiyat sorgulaması yapıldığından en uygun teklifi veren istekliden tekrar artırım talep edilmez.

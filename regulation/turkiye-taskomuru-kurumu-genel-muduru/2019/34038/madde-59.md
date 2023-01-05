@@ -1,0 +1,5 @@
+Tahmin edilen bedelin tespitinde uygulanacak esaslar
+MADDE 59 – (1) Tahmin edilen bedel Taşınmaz Belirleme ve Değerleme komisyonunca tespit edilir veya bu konuda ihtisaslaşmış kamu kurum ve kuruluşlarına veya Sermaye Piyasası Kurulu Gayrimenkul Değerleme Uzmanı firmalara Genel Müdürlüğün uygun görüşü alınarak tespit ettirilir. Tespitlerde rayiç bedel esas alınır. Tespit edilen tahmini bedelin geçerlilik süresi altı aydır.
+a) Satışlarda; satışı yapılacak taşınmaz, daha önce satışı yapılan aynı veya benzer vasıftaki taşınmazlarla mukayese edilerek veya ilgisine göre belediye, ticaret ve sanayi odası ve tapu sicil müdürlüklerinden araştırılarak veya bilirkişilerden soruşturularak tespit ve hesap edilir.
+b) Kiralamalarda; kiralanacak taşınmaz, daha önce kiraya verilen aynı veya benzer vasıftaki taşınmazlarla mukayese edilerek veya ilgisine göre belediye, ticaret ve sanayi odasından araştırılarak veya bilirkişilere sorularak tespit ve hesap edilir.
+(2) Tespit edilecek bedeller 12 nci maddede belirtilen oranlardan az olamaz.

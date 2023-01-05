@@ -1,0 +1,3 @@
+Kiraya verilen taşınmazlarda sözleşme yapılması
+MADDE 61 – (1) Kiraya verilmek üzere ihaleye çıkarılan taşınmazlar ihale işlemleri sonrası sözleşmeye bağlanır. İhalenin üzerinde kaldığı kendisine tebliğ edilen istekli, tebliğ gününden itibaren on gün içinde sözleşme yapmaya mecburdur. Aksi halde protesto çekmeye ve hüküm almaya gerek kalmaksızın geçici teminat gelir kaydedilir ve isteklinin ilişiği kesilir.
+(2) Sözleşme; Kurum adına, ilgili müesseselerde kayıtlı taşınmazlar için müessese müdürü veya müessese müdür yardımcısı (idari) ile Genel Müdürlükte kayıtlı taşınmazlar için (Değişik ibare:RG-16/10/2021-31630) Destek Hizmetleri Dairesi Başkanı ve bağlı olduğu genel müdür yardımcısı tarafından imzalanır.

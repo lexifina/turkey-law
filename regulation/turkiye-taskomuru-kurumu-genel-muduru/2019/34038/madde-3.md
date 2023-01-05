@@ -1,0 +1,2 @@
+Dayanak
+MADDE 3 – (1) Bu Yönetmelik, 8/6/1984 tarihli ve 233 sayılı Kamu İktisadi Teşebbüsleri Hakkında Kanun Hükmünde Kararname, 24/11/1994 tarihli ve 4046 sayılı Özelleştirme Uygulamaları Hakkında Kanun, 29/6/2001 tarihli ve 4706 sayılı Hazineye Ait Taşınmaz Malların Değerlendirilmesi ve Katma Değer Vergisi Kanununda Değişiklik Yapılması Hakkında Kanunun 2 nci maddesinin üçüncü fıkrasına dayanılarak hazırlanmıştır.

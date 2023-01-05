@@ -1,0 +1,2 @@
+Müşterinin ölümü
+MADDE 44 – (1) Müşterinin ölümü halinde, sözleşme feshedilmek suretiyle hesabı genel hükümlere göre tasfiye edilerek kesin teminatları ve varsa diğer alacakları varislerine verilir. Ancak, aynı şartları taşıyan ve talepte bulunan varislere idarenin uygun görmesi halinde, ölüm tarihini izleyen otuz gün içinde varsa ek teminatlar dâhil taahhüdün tamamı için gerekli kesin teminatı vermeleri şartıyla sözleşme devredilebilir.

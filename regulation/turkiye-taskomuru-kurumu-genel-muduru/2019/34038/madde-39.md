@@ -1,0 +1,4 @@
+Müşterinin kesin teminatı verme ve sözleşme yapma sorumluluğu
+MADDE 39 – (1) İhalenin kesinleşmesinden sonra ihalenin üzerinde kaldığı kendisine tebliğ edilen istekli, tebliğ gününden itibaren yurt içi ihalelerinde on takvim günü, yurt dışı ihalelerinde yirmi takvim günü içinde vermesi gerekli kesin teminatı Kuruma teslim etmeye, sözleşme yapılması gerekli işlerde, sözleşmeyi imzalayıp, şartnamesinde olması durumunda notere onaylattırdıktan sonra Kuruma vermeye mecburdur.
+(2) Satış ihalelerinde alıcının aynı süre içinde ihale bedelini ve alıcıya ait bulunan vergi, resim ve harçları yatırması, diğer giderleri ödemesi gerekir.
+(3) Arazilerin, büfe, kantin, çay ocağı gibi yerlerin, geçici iş ve hizmetler için kullanılacak taşınmazların kiraya verilmesinde düzenlenecek sözleşmelerin notere tescili zorunlu değildir. Bu işlerde sözleşmeler Kurum ve istekli yetkililerince imzalanmasını müteakip yürürlüğe girer.

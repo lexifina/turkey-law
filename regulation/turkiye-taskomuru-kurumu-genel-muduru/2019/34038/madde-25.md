@@ -1,0 +1,2 @@
+Teklifin geri alınması
+MADDE 25 – (1) İhale Komisyonu Başkanlığına verilen teklifler herhangi bir sebeple geri alınamaz. İhale Komisyonu Başkanlığına verildikten sonra teklifinden geri dönecek olan isteklinin geçici teminatı, protesto çekmeye, ihtar yapmaya veya mahkemeden hüküm almaya gerek kalmaksızın Kurumca gelir kaydedilir ve 40 ıncı madde hükümleri uygulanır. Kurum, ihale gününden itibaren süresi içinde teklifi kabul veya reddettiğini istekliye tebliğ etmediği takdirde, istekli teklifinden vazgeçebilir. Bu durumda isteklinin geçici teminatı faizsiz iade edilir.

@@ -1,0 +1,3 @@
+Taahhüdün yerine getirilmemesi
+MADDE 41 – (1) Sözleşme yapıldıktan sonra müşterinin taahhüdünden vazgeçmesi veya taahhüdünü şartname veya sözleşme hükümlerine uygun olarak yerine getirmemesi durumunda, Kurumun en az yirmi gün süreli ve sebebi açıkça belirtilen ihtarına rağmen aynı durumun devam etmesi halinde, ayrıca protesto çekmeye veya hüküm almaya gerek kalmaksızın kesin teminatı gelir kaydedilir. Ayrıca sözleşme feshedilerek, hesabı genel hükümlere göre tasfiye edilir ve 53 üncü madde uygulanır.
+(2) Gelir kaydedilen geçici/kesin teminat miktarı hiç bir surette müşterinin borcuna mahsup edilemez.

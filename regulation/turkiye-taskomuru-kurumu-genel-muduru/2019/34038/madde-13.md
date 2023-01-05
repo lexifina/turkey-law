@@ -1,0 +1,2 @@
+İhale işlem dosyasının düzenlenmesi
+MADDE 13 – (1) İhale suretiyle yapılacak işler için bir ihale işlem dosyası düzenlenir. Bu dosyada varsa onay belgesi, tahmin edilen bedele ilişkin hesap tutanağı, şartname ve ekleri, gerekli projeler, sözleşme tasarısı ve dosyada bulundurulmasında yarar görülen diğer belgeler bulunur. İhale işlem dosyası, işin konusuna göre ilgili birim tarafından hazırlanır. İlandan sonra, ilana ilişkin belgeler ile gazete kupürleri de dosyaya konur. İhale öncesi ve sonrasına ait diğer belgeler bu dosyalarda muhafaza edilir.

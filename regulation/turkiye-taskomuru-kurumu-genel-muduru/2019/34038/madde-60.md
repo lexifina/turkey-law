@@ -1,0 +1,3 @@
+İhale suretiyle veya ihale usulüne tabi olmadan kiraya verilen taşınmazlardaki kira artışları ve kiranın tahsili
+MADDE 60 – (1) Kiraya verilen taşınmazlardaki her yeni döneme ait kira bedeli, Türkiye İstatistik Kurumunca (TÜİK) yayımlanan endeksler dikkate alınarak ilgili mevzuat hükümlerine göre artış yapılır. Ancak söz konusu oranın kiralamanın yenileneceği ayda negatif çıkması halinde kira bedelinde herhangi bir değişiklik yapılmaz. Kira bedelleri şartnamesi veya sözleşmesinde belirtilen sürelerde peşin olarak tahsil edilir.
+(2) Vadesinde ödenmeyen bedeller ile hâsılat payları ve diğer alacaklara gecikme faizi uygulanır.

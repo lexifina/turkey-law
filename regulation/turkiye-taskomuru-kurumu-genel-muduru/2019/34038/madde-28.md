@@ -1,0 +1,4 @@
+Uygun bedelin tespiti
+MADDE 28 – (1) Uygun bedel, tahmin edilen bedelden aşağı olmamak üzere, teklif edilen bedellerin en yükseğidir.
+(2) Uygun bedel; çay ocakları, lokal, tabldot, misafirhane gibi sosyal tesislerin işletme amaçlı kiraya verme ihalelerinde aşırı yüksek fiyat sorgulaması yapılarak tespit edilir. Aşırı yüksek teklifleri reddetmeden önce, tahmin edilen bedeli oluşturan bileşenler ile ilgili olarak teklif sahiplerinden belirtilen süre içinde ayrıntıları yazılı şekilde istenir. Aşırı fiyat sorgulaması, tahmin edilen bedeli oluşturan kalemlere göre kar hariç olarak yapılır.
+(3) İhale komisyonu yapılan yazılı açıklamaları dikkate alarak, aşırı yüksek teklifleri değerlendirir. Bu değerlendirme sonucunda, açıklamaları yeterli görülmeyen veya yazılı açıklama talep edildiği halde yazılı açıklamada bulunmayan isteklilerin teklifleri reddedilir.
