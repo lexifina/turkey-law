@@ -1,0 +1,22 @@
+{
+  "number": "13",
+  "number_as_published": "2023/13",
+  "year": 2023,
+  "title": "Araç hibe alımı",
+  "decision_date": "2023-01-05",
+  "source": "https://eyupsultan.bel.tr/tr/main/pages/2023-ocak-ayi-meclis-kararlari/2359",
+  "official_document": "https://eyupsultan.bel.tr/tr/main/pages/2023-13/2371",
+  "source_sha256": "c33154b6456d3cb0d12c1b9c3275e020dffe8c6213d8a4939687ff127035aea4",
+  "issuer": "Eyüpsultan Belediye Meclisi",
+  "history_type": "metadata",
+  "text_status": "metadata-only: listing fields as published; complete decision text is in the linked official document, not transcribed",
+  "in_force": "2023-01-05",
+  "in_force_basis": "Decision date as printed in the official council listing: 05.01.2023 (meeting date at the start of the decision page); adoption date of the council decision; legal commencement not asserted",
+  "missing": [
+    "complete official decision text",
+    "official annexes"
+  ],
+  "law_text_complete": false,
+  "privacy_withheld": false,
+  "decision_page_sha256": "04b28916167f92f5fb97c0fb413cf8118e72e3c03b37d1b7d9af49c52288ee34"
+}
