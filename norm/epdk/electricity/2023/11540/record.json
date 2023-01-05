@@ -1,0 +1,23 @@
+{
+  "kind": "norm",
+  "issuer": "Enerji Piyasası Düzenleme Kurumu",
+  "market": "electricity",
+  "document_type": "board-decision",
+  "number": "11540",
+  "decision_date": "2023-01-05",
+  "title": "29/12/2022 tarihli ve 11498 sayılı Kurul kararında yapılan değişik hakkında",
+  "categories": [
+    "Kaynak Bazında Destekleme Bedelinin Belirlenmesine ve Uygulanmasına İlişkin Usul ve Esaslar Kapsamında Alınan Kararlar"
+  ],
+  "source": "https://www.epdk.gov.tr/Detay/DownloadDocument?id=JKGZl7KjOXk=",
+  "documents": [
+    "https://www.epdk.gov.tr/Detay/DownloadDocument?id=JKGZl7KjOXk="
+  ],
+  "source_sha256": "8e6756a73a0308a8225b90a22863688a27a901afe5372074e0935ba33ea716c0",
+  "official_list": "https://www.epdk.gov.tr/Detay/Icerik/3-0-39/kurul-kararlari-",
+  "official_list_leaf": 33889,
+  "text_status": "as-enacted",
+  "text_file": "metin.md",
+  "in_force": "2023-01-05",
+  "law_text_complete": true
+}
