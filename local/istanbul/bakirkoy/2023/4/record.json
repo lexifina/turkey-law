@@ -1,0 +1,23 @@
+{
+  "number": "4",
+  "number_as_published": "4",
+  "year": 2023,
+  "title": "council decision",
+  "decision_date": "2023-01-06",
+  "source": "https://www.bakirkoy.bel.tr/meclis-kararlari/21",
+  "official_document": "https://www.bakirkoy.bel.tr/storage/app/media/meclis%20kararlar%C4%B1/04-mali-hizmetler-mudurlugu-ek-odenek-04012024.pdf",
+  "source_sha256": "03ad7de804943575054397a1c78b22adbd26b3cf3f0cadabb33b30691154fc42",
+  "issuer": "Bakırköy Belediye Meclisi",
+  "history_type": "metadata",
+  "text_status": "metadata-only: subject appears to concern individual persons; official link only",
+  "in_force": "2023-01-06",
+  "in_force_basis": "Decision date as printed in the official council listing: 06 Ocak 2023 (Tarih column of the official list); adoption date of the council decision; legal commencement not asserted",
+  "missing": [
+    "complete official decision text",
+    "official annexes"
+  ],
+  "law_text_complete": false,
+  "privacy_withheld": true,
+  "record_scope": "one council decision (number, date and summary as listed; the decision is the linked official PDF)",
+  "official_page": "https://www.bakirkoy.bel.tr/meclis-kararlari"
+}
