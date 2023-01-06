@@ -1,0 +1,23 @@
+{
+  "number": "1",
+  "number_as_published": "1",
+  "year": 2023,
+  "title": "Adalet ve Kalkınma Partisi Grubu adına teklif edilen adaylardan; Yavuz AKİ 13 oy, Mustafa BOZKURT 13 oy, Cumhuriyet Halk Partisi Grubu adına teklif edilen Serkan KAYA 21 oy, İyi Parti Grubu adına teklif edilen Ayhan ÇETİN 20 oy ve Milliyetçi Hareket Partisi Grubu adına teklif edilen Hüseyin Fırat DAĞDEVİREN 13 oy almış olup, buna göre; Denetim Komisyonuna; Yavuz AKİ, Mustafa BOZKURT, Serkan KAYA, Ayhan ÇETİN ve Hüseyin Fırat DAĞDEVİREN üye olarak 06/01/2023 tarihinde seçilmişlerdir.",
+  "decision_date": "2023-01-06",
+  "source": "https://www.merkezefendi.bel.tr/meclis-karar.aspx?karar=2023-1-12--OCAK-AYI-MECLIS-KARAR-OZETLERI",
+  "official_document": null,
+  "source_sha256": "2babef6b30c0a48f41176668862f4d5b401986828e096207a626b0a9eee8cfb6",
+  "issuer": "Merkezefendi Belediye Meclisi",
+  "history_type": "metadata",
+  "text_status": "metadata-only: listing fields as published; the listing links no decision document",
+  "in_force": "2023-01-06",
+  "in_force_basis": "Decision date as printed in the official council listing: 6.01.2023; adoption date of the council decision; legal commencement not asserted",
+  "missing": [
+    "complete official decision text",
+    "official annexes"
+  ],
+  "law_text_complete": false,
+  "privacy_withheld": false,
+  "official_page": "https://www.merkezefendi.bel.tr/meclis-karar.aspx?karar=2023-1-12--OCAK-AYI-MECLIS-KARAR-OZETLERI",
+  "record_scope": "one council decision (published decision summary)"
+}
