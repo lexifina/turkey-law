@@ -1,0 +1,1 @@
+MADDE 6 – (1) Andlaşma hükümlerine göre Ek-1’deki Listede yer alan Teknik Düzenlemeye/Teknik Düzenlemelere taraf olan ülkelerin onay kuruluşları tarafından verilen Tip Onay Belgeleri aynen kabul edilir. Uygulamada Andlaşma hükümleri geçerlidir. İhtilâf vukuunda, Birleşmiş Milletler/Avrupa Ekonomik Komisyonu tarafından yayımlanan orijinal metinler esas alınır.

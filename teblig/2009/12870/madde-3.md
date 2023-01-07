@@ -1,0 +1,1 @@
+MADDE 3 – (1) Bu Tebliğ uyarınca Ek-1’deki Listede yer alan Teknik Düzenlemeye göre “E” Tip Onayı almak için Onay Kuruluşu olan (Değişik ibare:RG-30/11/2021-31675) Sanayi ve Teknoloji Bakanlığına (Bakanlık) müracaat edecek üretici firmaların; yukarıda belirtilen Andlaşma, Yönetmelik, Teknik Düzenleme ve bu Tebliğ hükümlerine uymaları zorunludur.

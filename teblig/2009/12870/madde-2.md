@@ -1,0 +1,1 @@
+MADDE 2 – (1) Bu Tebliğ ile yürürlüğe konulan ve EK-1’deki Listede karşılarında numaraları bulunan Teknik Düzenlemeler, Birleşmiş Milletler/Avrupa Ekonomik Komisyonunda yürürlükte olan en son metni esas alınarak uygulanır.
