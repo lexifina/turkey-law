@@ -1,0 +1,24 @@
+{
+  "number": "27",
+  "number_as_published": "27",
+  "year": 2023,
+  "title": "council decision",
+  "decision_date": "2023-01-09",
+  "source": "https://www.battalgazi.bel.tr/wp-json/wp/v2/posts?categories=88&per_page=100&page=7&_fields=id,date,link,title,content",
+  "official_document": "https://www.battalgazi.bel.tr/2024/03/27/yaya-kaldirimi-kilit-tasi-ve-tas-duvar-yapimi-isi-icin-iller-bankasi-a-sden-10-000-00000-onmilyon-tl-kredi-kullanilmasi-ve-kredi-islemleri-icin-belediye-baskani-osman-guder/",
+  "source_sha256": "44a206d76bf3b4c77d6995aebebde6951c0100aede306eb30e2fd2708b816ddd",
+  "issuer": "Battalgazi Belediye Meclisi",
+  "history_type": "metadata",
+  "text_status": "metadata-only: subject appears to concern individual persons; official link only",
+  "in_force": "2023-01-09",
+  "in_force_basis": "Decision date as printed in the official council listing: 09.01.2023 (Karar Tarihi on the official decision page); adoption date of the council decision; legal commencement not asserted",
+  "missing": [
+    "complete official decision text",
+    "official annexes"
+  ],
+  "law_text_complete": false,
+  "privacy_withheld": true,
+  "official_page": "https://www.battalgazi.bel.tr/2024/03/27/yaya-kaldirimi-kilit-tasi-ve-tas-duvar-yapimi-isi-icin-iller-bankasi-a-sden-10-000-00000-onmilyon-tl-kredi-kullanilmasi-ve-kredi-islemleri-icin-belediye-baskani-osman-guder/",
+  "post_date": "2024-03-27T12:24:37",
+  "record_scope": "one council decision (official decision page)"
+}
