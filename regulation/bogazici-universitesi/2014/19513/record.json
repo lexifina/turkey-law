@@ -1,0 +1,59 @@
+{
+  "checked_on": "2026-11-14",
+  "commencement_clauses": [
+    "MADDE 16 – (1) Bu Yönetmelik yayımı tarihinde yürürlüğe girer."
+  ],
+  "date_evidence": [
+    [
+      "2014-03-27",
+      "27.03.2014",
+      "original gazette publication date in official listing"
+    ],
+    [
+      "2023-01-09",
+      "RG-9/1/2023-32068",
+      "latest source-printed gazette amendment date for current consolidated text"
+    ],
+    [
+      "2023-01-09",
+      "RG-9/1/2023-32068",
+      "latest source-printed gazette amendment date for current consolidated text"
+    ],
+    [
+      "2023-01-09",
+      "RG-9/1/2023-32068",
+      "latest source-printed gazette amendment date for current consolidated text"
+    ],
+    [
+      "2023-01-09",
+      "9/1/2023",
+      "latest gazette date in source amendment table"
+    ]
+  ],
+  "date_quote": "RG-9/1/2023-32068",
+  "first_law": null,
+  "gazette": "28954",
+  "history": "current-text",
+  "images": {
+    "deferred": 0,
+    "omitted": 0,
+    "referenced": 0,
+    "source": 0
+  },
+  "in_force": "2023-01-09",
+  "in_force_basis": "latest source-printed gazette amendment date for current consolidated text",
+  "issuer": "Boğaziçi Üniversitesi",
+  "issuer_slug": "bogazici-universitesi",
+  "kind": "regulation",
+  "label": "oldest version available",
+  "path": "regulation/bogazici-universitesi/2014/19513",
+  "published": "2014-03-27",
+  "source": "https://www.mevzuat.gov.tr/anasayfa/MevzuatFihristDetayIframe?MevzuatTur=8&MevzuatNo=19513&MevzuatTertip=5",
+  "source_bytes": 26547,
+  "source_id": "8.5.19513",
+  "source_sha256": "44135b0c8427920f02787ab3f331b47c3e8756709225792643a09de74b49d1f4",
+  "text_status": "current-consolidated",
+  "title": "BOĞAZİÇİ ÜNİVERSİTESİ FİNANS UYGULAMA VE ARAŞTIRMA MERKEZİ YÖNETMELİĞİ",
+  "university_id": 183,
+  "word_count": 1233
+}
