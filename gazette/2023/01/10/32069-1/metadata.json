@@ -1,0 +1,20 @@
+{
+  "record_type": "gazette-item",
+  "gazette": "Resmî Gazete",
+  "jurisdiction": "TR",
+  "date": "2023-01-10",
+  "issue": "32069",
+  "edition": "regular",
+  "item": 1,
+  "section": "YASAMA BÖLÜMÜ",
+  "heading": "KANUN",
+  "title": "7430 Antalya Diplomasi Forumu Vakfı Kanunu",
+  "official_link": "https://www.resmigazete.gov.tr/eskiler/2023/01/20230110-1.htm",
+  "link_format": "htm",
+  "index_url": "https://www.resmigazete.gov.tr/eskiler/2023/01/20230110.htm",
+  "index_sha256": "a26fdd048fad74d21bbba456e63a9424295424d6360c10c021b66e27a67b98ec",
+  "index_header": "10 Ocak 2023 ... 32069 Sayılı Resmî Gazete",
+  "issue_pdf": "https://www.resmigazete.gov.tr/eskiler/2023/01/20230110.pdf",
+  "in_force_basis": "Resmî Gazete publication date; not a commencement reading.",
+  "text_status": "metadata-only; text not yet fetched (follow-up pass adds it as its own commit)"
+}
