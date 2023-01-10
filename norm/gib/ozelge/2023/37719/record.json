@@ -1,0 +1,22 @@
+{
+  "kind": "norm",
+  "issuer": "Gelir İdaresi Başkanlığı",
+  "document_type": "ozelge",
+  "number": "84098128-120[74-2022/2]-19980",
+  "source_id": 37719,
+  "date": "2023-01-10",
+  "title": "Geçmiş yıllara ilişkin tahsil edilen kira gelirinin beyanı ile faiz giderlerinin indirimi hk.",
+  "source": "https://gib.gov.tr/mevzuat/kanun/433/ozelge/37719",
+  "related_law": "193 sayılı GELİR VERGİSİ KANUNU",
+  "source_api": "https://gib.gov.tr/api/gibportal/mevzuat/ozelge/list",
+  "source_listing": "evidence/list/2026-11-16/ozelge-p008.json",
+  "source_listing_sha256": "292c126217cc32c3ccfa57495ce433f89ef8db5e75fa1946d5819a76f81aff4d",
+  "source_sha256": "73c51518e90de0105c66413886aeed9d0171d496d810d8d6ab3bff9ff07cb12d",
+  "text_status": "as-enacted",
+  "text_file": "metin.md",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  }
+}
