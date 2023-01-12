@@ -1,0 +1,22 @@
+{
+  "kind": "norm",
+  "issuer": "Gelir İdaresi Başkanlığı",
+  "document_type": "ozelge",
+  "number": "11355271-120.01.01[46-2020/1]-3308",
+  "source_id": 22910,
+  "date": "2023-01-12",
+  "title": "Basit usulde ticari kazanç mükellefinin yük taşımacılığı faaliyetinde kullanılmak üzere yük asansörü almasının basit usulde vergilendirmeye engel olup olmayacağı",
+  "source": "https://gib.gov.tr/mevzuat/kanun/433/ozelge/22910",
+  "related_law": "193 sayılı GELİR VERGİSİ KANUNU",
+  "source_api": "https://gib.gov.tr/api/gibportal/mevzuat/ozelge/list",
+  "source_listing": "evidence/list/2026-11-16/ozelge-p001.json",
+  "source_listing_sha256": "e5c572e7d33c4a72997f66e3999bee09f80c627cabe3ea5a6521aa3f8abee01f",
+  "source_sha256": "26210d60915f26baed5709562b54c3cbd8661f01ea79e463b4594a9dbd99ffd4",
+  "text_status": "as-enacted",
+  "text_file": "metin.md",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  }
+}
