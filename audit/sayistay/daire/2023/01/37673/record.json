@@ -1,0 +1,17 @@
+{
+  "kind": "decision",
+  "issuer": "Sayıştay 3. Dairesi",
+  "number": "427",
+  "decision_date": "2023-01-12",
+  "source_id": 37673,
+  "chamber": "3",
+  "ilam_number": "278",
+  "item_number": 8,
+  "public_body_type": "Diğer",
+  "account_year": 2018,
+  "subject": "İhale Mevzuatı ile İlgili Kararlar",
+  "source": "https://www.sayistay.gov.tr/KararlarDaire/Detay/37673/",
+  "source_sha256": "b128dcb521a5e4e4440ced5ff4a8bb091cf5c6f2f3958b306a1e17419147f72f",
+  "text_status": "as-enacted",
+  "text_file": "metin.md"
+}
