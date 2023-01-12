@@ -1,0 +1,17 @@
+{
+  "kind": "decision",
+  "issuer": "Sayıştay 2. Dairesi",
+  "number": "35749",
+  "decision_date": "2023-01-12",
+  "source_id": 36903,
+  "chamber": "2",
+  "ilam_number": "290",
+  "item_number": 1,
+  "public_body_type": "Yüksek Öğretim Kurumları",
+  "account_year": 2016,
+  "subject": "Vergi Resmi Harç ve Diğer Gelirlerle İlgili Kararlar",
+  "source": "https://www.sayistay.gov.tr/KararlarDaire/Detay/36903/",
+  "source_sha256": "c19de232d68f65612fa59869ad1b32b0b62c42a61395aedb6f0d4fa84291de8b",
+  "text_status": "as-enacted",
+  "text_file": "metin.md"
+}
