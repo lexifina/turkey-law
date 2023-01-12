@@ -1,0 +1,17 @@
+{
+  "kind": "decision",
+  "issuer": "Sayıştay 6. Dairesi",
+  "number": "897",
+  "decision_date": "2023-01-12",
+  "source_id": 36604,
+  "chamber": "6",
+  "ilam_number": "39",
+  "item_number": 6,
+  "public_body_type": "Belediyeler ve Bağlı İdareler",
+  "account_year": 2021,
+  "subject": "İş Mevzuatı ile İlgili Kararlar",
+  "source": "https://www.sayistay.gov.tr/KararlarDaire/Detay/36604/",
+  "source_sha256": "61ed728d26f7a6d683519aa4143862c3f92e05cd76ef22039a9ba10220ec7551",
+  "text_status": "as-enacted",
+  "text_file": "metin.md"
+}
