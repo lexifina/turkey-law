@@ -1,0 +1,2 @@
+Mevcut yetkilendirilmiş kuruluş
+GEÇİCİ MADDE 3 – (1) Bu Yönetmeliğin yürürlüğe girmesinden önce Bakanlıktan yetki alan yetkilendirilmiş kuruluş, faaliyetlerini bu Yönetmelik hükümlerine uygun olarak yürütür. Söz konusu yetkilendirilmiş kuruluş, 1/1/2021 tarihine kadar 10 uncu maddede yer alan piyasa payı şartları ile bu Yönetmelikle getirilen ilave şartları sağladığına ilişkin bilgi ve belgeleri Bakanlığa sunmakla yükümlüdür.

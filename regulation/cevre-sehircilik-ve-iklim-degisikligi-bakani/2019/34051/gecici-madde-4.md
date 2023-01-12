@@ -1,0 +1,3 @@
+Atık yağların araçtan araca nakledilmesi
+GEÇİCİ MADDE 4- (Ek:RG-12/1/2023-32071)
+(1) Atık yağ rafinasyon tesisleri, tehlikeli madde taşımacılığına ilişkin ilgili mevzuatına uymak kaydıyla organize sanayi bölgeleri veya sanayi siteleri içerisinde belirlenecek, adres ve koordinat bilgileri il müdürlüğüne sunularak uygun görüş alınacak noktalarda atık yağları bu maddenin yürürlüğe girdiği tarihten itibaren bir yıl süreyle araçtan araca transfer edebilir. Araçtan araca transfer ancak aynı rafinasyon tesisinin araçları arasında yapılır. Her ilde en fazla 3 nokta belirlenir. Belirlenen noktaların zemin geçirimsizliği sağlanır ve dökülmelere karşı emici malzeme bulundurulur.
