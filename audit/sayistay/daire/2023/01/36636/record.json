@@ -1,0 +1,17 @@
+{
+  "kind": "decision",
+  "issuer": "Sayıştay 6. Dairesi",
+  "number": "896",
+  "decision_date": "2023-01-12",
+  "source_id": 36636,
+  "chamber": "6",
+  "ilam_number": "42",
+  "item_number": 6,
+  "public_body_type": "Belediyeler ve Bağlı İdareler",
+  "account_year": 2021,
+  "subject": "Çeşitli Konuları İlgilendiren Kararlar",
+  "source": "https://www.sayistay.gov.tr/KararlarDaire/Detay/36636/",
+  "source_sha256": "0d14b74e9a29d114659b95b74592408064d4cccc3c9fb27c857a54072d898327",
+  "text_status": "as-enacted",
+  "text_file": "metin.md"
+}
