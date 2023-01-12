@@ -1,0 +1,22 @@
+{
+  "kind": "norm",
+  "issuer": "Gelir İdaresi Başkanlığı",
+  "document_type": "ozelge",
+  "number": "84098128-120.01.03.02[9-2022/]-25693",
+  "source_id": 20838,
+  "date": "2023-01-12",
+  "title": "Bakırcılık faaliyeti nedeniyle esnaf muaflığından yararlanan mükellefin yanında çalışan hizmet erbabı hakkında",
+  "source": "https://gib.gov.tr/mevzuat/kanun/433/ozelge/20838",
+  "related_law": "193 sayılı GELİR VERGİSİ KANUNU",
+  "source_api": "https://gib.gov.tr/api/gibportal/mevzuat/ozelge/list",
+  "source_listing": "evidence/list/2026-11-16/ozelge-p000.json",
+  "source_listing_sha256": "5444faf84128246cd8dd8c6db754d41e2a11c7717342bfe0a07a35074d061761",
+  "source_sha256": "fcded95862cb873dfc92aa8d0474b7f36b0480e2b6122e7731305c301973bcbe",
+  "text_status": "as-enacted",
+  "text_file": "metin.md",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  }
+}
