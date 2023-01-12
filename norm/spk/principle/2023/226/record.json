@@ -1,0 +1,60 @@
+{
+  "kind": "norm",
+  "issuer": "Sermaye Piyasası Kurulu",
+  "document_type": "principle-decision",
+  "number": "226",
+  "decision_number": "2/47",
+  "date": "2023-01-12",
+  "title": "Kurul Karar Organı’nın i-SPK.35/A.2.2 (12.01.2023 Tarihli ve 2-47 S.K.) Sayılı Kararı",
+  "source": "https://mevzuat.spk.gov.tr/api/IlkeKarari/File/226",
+  "source_sha256": "d6f97ac83ca6dec42db4882077b9cf34cac70fdde5566532ba53d1dd2fcdb3de",
+  "source_listing_url": "https://mevzuat.spk.gov.tr/api/Search/All",
+  "source_record_id": 226,
+  "text_status": "as-enacted",
+  "text_file": "metin.md",
+  "date_basis": "official principle-decision date printed in the source PDF and official API: Kurul Karar Organı’ nın i-SPK.35/A.2.2 (12.01.2023 tarihli ve 2/47 s.k.) sayılı İlke",
+  "operative_date_review": {
+    "date_type": "decision-date",
+    "decision_date": "2023-01-12",
+    "source_clauses": [
+      "Kurul Karar Organı’ nın i-SPK.35/A.2.2 (12.01.2023 tarihli ve 2/47 s.k.) sayılı İlke"
+    ],
+    "deferred_start": "none stated in source text; no source date later than the decision"
+  },
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0,
+    "decorative_or_non_normative": 0
+  },
+  "official_listing_record": {
+    "id": "bf406864-698c-4311-9e02-6679c9bc169a",
+    "contentSource": "IlkeKarari",
+    "contentID": 226,
+    "tur": "İlke Kararı",
+    "title": "Kurul Karar Organı’nın i-SPK.35/A.2.2 (12.01.2023 Tarihli ve 2-47 S.K.) Sayılı Kararı",
+    "no": "",
+    "sayi": "",
+    "resmiGazeteTarihi": null,
+    "resmiGazeteTarih": null,
+    "resmiGazeteSayi": null,
+    "resmiGazeteMukerrer": null,
+    "kurulKararTarihi": "2023-01-12T00:00:00",
+    "kurulKararTarih": "12.01.2023",
+    "kurulToplantiNo": "2/47",
+    "bultenYili": 2023,
+    "bultenNo": 2,
+    "kisimID": null,
+    "bolumID": null,
+    "kisim": "VIII. KISIM - Sermaye Piyasası Kurulu İlke Kararları",
+    "bolum": "İlke Kararları",
+    "baglantiliTebliglerStr": null,
+    "baglantiliTebligler": null,
+    "ilgiliKonularStr": ";",
+    "ilgiliKonular": null,
+    "countItems": 0,
+    "intro": "",
+    "link": "IlkeKarari/Dosya/226",
+    "linkTarget": "_blank"
+  }
+}
