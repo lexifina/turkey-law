@@ -1,0 +1,17 @@
+Belediye Tarafından Derneğe Nakdi Kira Yardımı Yapılması
+
+Belediye tarafından ………. Cemiyeti ………. Şubesine nakdi kira yardımı yapılması sonucu ………. TL tutarında kamu zararı iddiasıyla ilgili olarak dosyada mevcut bilgi ve belgeler değerlendirilmiştir.
+
+10.12.2003 tarihli ve 5018 sayılı Kamu Mali Yönetimi ve Kontrol Kanununun ‘’Bütçelerden yardım yapılması’’ başlıklı 29 uncu maddesinde, gerçek veya tüzel kişilere kanunda veya Cumhurbaşkanlığı kararnamesinde dayanağı olmadan kamu kaynağı kullandırılamayacağı, yardımda bulunulamayacağı veya menfaat sağlanamayacağı, ancak genel yönetim kapsamındaki kamu idarelerinin bütçelerinde öngörülmüş olması kaydıyla; kamu yararı gözetilerek dernek, vakıf, birlik, kurum, kuruluş, sandık ve benzeri teşekküllere yardım yapılabileceği hüküm altına alınmıştır.
+
+04.11.2004 tarihli ve 5253 sayılı Dernekler Kanununun “Yardım ve işbirliği” başlıklı 10 uncu maddesinin birinci fıkrasında, derneklerin 5072 sayılı Dernek ve Vakıfların Kamu Kurum ve Kuruluşları ile İlişkilerine Dair Kanun hükümleri saklı kalmak üzere kamu kurum ve kuruluşları ile görev alanlarına giren konularda ortak projeler yürütebilecekleri düzenlenmiştir.
+
+03.07.2005 tarihli ve 5393 sayılı Belediye Kanununun “Diğer kuruluşlarla ilişkiler” başlıklı 75 inci maddesinin birinci fıkrasının (c) bendinde, belediyenin, belediye meclisi kararı üzerine yapacağı anlaşmaya uygun olarak görev ve sorumluluk alanlarına giren konularda; kamu yararına çalışan dernekler ile ortak hizmet projeleri gerçekleştirebileceği, ancak diğer dernekler ile gerçekleştirilecek ortak hizmet projeleri için mahallin en büyük mülki idare amirinin izninin alınması gerektiği, aynı maddenin üçüncü fıkrasında ise 5018 sayılı Kanunun 29 uncu maddesinin birinci fıkrasının ikinci cümlesi ile 5253 sayılı Kanunun 10 uncu maddesinin belediyeler, il özel idareleri, bağlı kuruluşları ve bunların üyesi oldukları birlikler ile ortağı oldukları Sayıştay denetimine tabi şirketler için uygulanmayacağı hükme bağlanmıştır.
+
+Yukarıda belirtilen mevzuat hükümleri uyarınca, her ne kadar 5018 sayılı Kanunun 29 uncu maddesinde kamu kurumlarınca derneklere yardım yapılabileceği düzenlenmiş olsa da 5393 sayılı Kanunun 75 inci maddesine eklenen üçüncü fıkra ile bu hükmün belediyeler tarafından uygulanma olanağı kalmamıştır. Bu durumun istisnası ise 5393 sayılı Kanunun 75 inci maddesinin birinci fıkrasının (c) bendinde düzenlendiği üzere ortak hizmet projeleridir. Başka bir ifade ile; belediyeler dernek, vakıf gibi kuruluşlarla ortak hizmet projesi gerçekleştirebilecek; ancak bu kuruluşlara ayni ya da nakdi yardım yapamayacaklardır.
+
+Yapılan incelemede kamu yararına faaliyet gösteren dernek statüsündeki ………. Cemiyetine bir yıllık kira borcu tutarında nakdi yardım yapıldığı tespit edilmiştir.
+
+Kamu yararına faaliyet gösteren dernek statüsündeki ………. Cemiyetine nakdi yardım yapılması, 5018 sayılı Kanunun 71 inci maddesinde; “mevzuata aykırı karar, işlem, eylem veya ihmal sonucunda kamu kaynağında artışa engel veya eksilmeye neden olunmasıdır” şeklinde tanımlanan kamu zararına sebebiyet vermektedir.
+
+Ancak, ………. TL tutarındaki kamu zararının; Sorumlulardan ………. tarihli ve ………. numaralı tahsilat makbuzu ile tahsil edildiği anlaşıldığından söz konusu tutar için ilişilecek husus kalmadığına, 6085 sayılı Sayıştay Kanununun 55 inci maddesi uyarınca ilamın tebliğ tarihinden itibaren altmış gün içerisinde Sayıştay Temyiz Kurulu nezdinde temyiz yolu açık olmak üzere oy birliğiyle karar verildi.
