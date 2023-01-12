@@ -1,0 +1,26 @@
+{
+  "kind": "norm",
+  "issuer": "Enerji Piyasası Düzenleme Kurumu",
+  "market": "petroleum",
+  "document_type": "board-decision",
+  "number": "11566",
+  "decision_date": "2023-01-12",
+  "title": "3242-4 Sayılı Petrol Piyasasında Lisans Süre Uzatımı Başvurularında Aranacak Bilgi Ve Belgelere İlişkin Kurul Kararı",
+  "resmi_gazete_date": "2023-01-28",
+  "resmi_gazete_number": "32087",
+  "repealed_note": "(Son Hali)",
+  "categories": [
+    "Lisans Başvuruları"
+  ],
+  "source": "https://www.epdk.gov.tr/Detay/DownloadDocument?id=GtT7I0QejqE=",
+  "documents": [
+    "https://www.epdk.gov.tr/Detay/DownloadDocument?id=GtT7I0QejqE="
+  ],
+  "source_sha256": "6257fa98a68c57e0642e3dc89337c26be0629f75d3c3dd2a8bc0bc80fa68d69a",
+  "official_list": "https://www.epdk.gov.tr/Detay/Icerik/3-0-100/kurul-kararlari",
+  "official_list_leaf": 4870,
+  "text_status": "metadata-only",
+  "metadata_only_reason": "official document is not .docx/.pdf (not transcribed)",
+  "in_force": "2023-01-12",
+  "law_text_complete": false
+}
