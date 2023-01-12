@@ -1,0 +1,17 @@
+{
+  "kind": "decision",
+  "issuer": "Sayıştay 3. Dairesi",
+  "number": "426",
+  "decision_date": "2023-01-12",
+  "source_id": 36598,
+  "chamber": "3",
+  "ilam_number": "187",
+  "item_number": 2,
+  "public_body_type": "Yüksek Öğretim Kurumları",
+  "account_year": 2019,
+  "subject": "İhale Mevzuatı ile İlgili Kararlar",
+  "source": "https://www.sayistay.gov.tr/KararlarDaire/Detay/36598/",
+  "source_sha256": "ec9eb261ab87cd1eb2011ecdc9315ffba033d7f8942920526ba19c5749e85846",
+  "text_status": "as-enacted",
+  "text_file": "metin.md"
+}
