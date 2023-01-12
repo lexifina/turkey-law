@@ -1,0 +1,26 @@
+{
+  "kind": "norm",
+  "issuer": "Enerji Piyasası Düzenleme Kurumu",
+  "market": "petroleum",
+  "document_type": "board-decision",
+  "number": "11568",
+  "decision_date": "2023-01-12",
+  "title": "AKPET Akaryakıt Dağıtım A.Ş.’nin; DEP/480-116/11083 sayılı depolama lisansı kapsamında faaliyette bulunan Mersin Terminali Depolama Tesisine ilişkin",
+  "resmi_gazete_date": "2023-01-14",
+  "resmi_gazete_number": "32073",
+  "categories": [
+    "Depolama Tarifesi"
+  ],
+  "source": "https://www.epdk.gov.tr/Detay/DownloadDocument?id=/kIdT7XQ814=",
+  "documents": [
+    "https://www.epdk.gov.tr/Detay/DownloadDocument?id=/kIdT7XQ814=",
+    "https://www.epdk.gov.tr/Detay/DownloadDocument?id=EkUOsukVa2o="
+  ],
+  "source_sha256": "5f3235b98f5c9b340a9038b442b6c8a57e09c69f063a17bc4dfb2b37b0fc1686",
+  "official_list": "https://www.epdk.gov.tr/Detay/Icerik/3-0-100/kurul-kararlari",
+  "official_list_leaf": 5140,
+  "text_status": "as-enacted",
+  "text_file": "metin.md",
+  "in_force": "2023-01-12",
+  "law_text_complete": true
+}
