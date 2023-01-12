@@ -1,0 +1,17 @@
+{
+  "kind": "decision",
+  "issuer": "Sayıştay 6. Dairesi",
+  "number": "897",
+  "decision_date": "2023-01-12",
+  "source_id": 36605,
+  "chamber": "6",
+  "ilam_number": "39",
+  "item_number": 7,
+  "public_body_type": "Belediyeler ve Bağlı İdareler",
+  "account_year": 2021,
+  "subject": "İhale Mevzuatı ile İlgili Kararlar",
+  "source": "https://www.sayistay.gov.tr/KararlarDaire/Detay/36605/",
+  "source_sha256": "3a91fef3b0eb83b2f3c166809907f6a4fa3fce0f002e6a5e8184ff43818d9e6c",
+  "text_status": "as-enacted",
+  "text_file": "metin.md"
+}
