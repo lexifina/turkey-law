@@ -1,0 +1,26 @@
+{
+  "kind": "norm",
+  "issuer": "Enerji Piyasası Düzenleme Kurumu",
+  "market": "petroleum",
+  "document_type": "board-decision",
+  "number": "11561",
+  "decision_date": "2023-01-12",
+  "title": "21/05/2015 Tarihli Ve 5605-2 Sayılı Ulusal Marker Uygulama Faaliyetleri Ve Ulusal Marker Teslimine İlişkin Usul Ve Esaslar Hakkında Kurul Kararı",
+  "resmi_gazete_date": "2023-01-28",
+  "resmi_gazete_number": "32087",
+  "repealed_note": "(Son Hali)",
+  "categories": [
+    "Ulusal Marker Uygulama Faaliyetleri ve Ulusal Marker Teslimine İlişkin Usul ve Esaslar Ulusal Marker Uygulama Faaliyetleri ve Ulusal Marker Teslimine İlişkin Usul ve Esaslar (Yürürlükte)"
+  ],
+  "source": "https://www.epdk.gov.tr/Detay/DownloadDocument?id=Tp6ctOtskfs=",
+  "documents": [
+    "https://www.epdk.gov.tr/Detay/DownloadDocument?id=Tp6ctOtskfs="
+  ],
+  "source_sha256": "ea284f46dc8464f34173cc35f64e4b6c8fc7b7dbeb98ccea0944098304036de5",
+  "official_list": "https://www.epdk.gov.tr/Detay/Icerik/3-0-100/kurul-kararlari",
+  "official_list_leaf": 5069,
+  "text_status": "metadata-only",
+  "metadata_only_reason": "the official text may name a private person",
+  "in_force": "2023-01-12",
+  "law_text_complete": false
+}
