@@ -1,0 +1,4 @@
+Yeniden değerlemeye esas değer
+MADDE 18- (1) Yeniden değerleme, taşınmazlar ile amortismana tabi diğer iktisadi kıymetlerin ve varsa bunlara ait amortismanların, 213 sayılı Kanunda yer alan değerleme hükümlerine göre tespit edilen ve bu Kanunun geçici 32 nci maddesi kapsamında yeniden değerleme yapılacak tarihten önceki hesap döneminin sonu itibarıyla yasal defter kayıtlarında yer alan değerleri üzerinden yapılabilir.
+(2) Amortismana tabi iktisadi kıymetlerin amortismanının herhangi bir yılda eksik ayrılması veya hiç ayrılmamış olması durumunda, yeniden değerlemeye esas alınacak değer, bu amortismanlar tam olarak ayrılmış varsayılarak belirlenir.
+(3) 213 sayılı Kanun ve ilgili ikincil mevzuat uyarınca maliyet bedeline intikal ettirilen kredi faizleri ve kur farkları da yeniden değerleme kapsamına girmektedir.

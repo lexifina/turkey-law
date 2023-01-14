@@ -1,0 +1,5 @@
+ÜÇÜNCÜ BÖLÜM
+213 Sayılı Kanunun Geçici 32 nci Maddesi Kapsamında Yeniden Değerleme Uygulaması
+Geçici 32 nci madde kapsamında yeniden değerleme uygulaması
+MADDE 15- (1) 7338 sayılı Kanunun 52 nci maddesiyle 213 sayılı Kanuna eklenen geçici 32 nci maddeyle; aynı Kanunun mükerrer 298 inci maddesinin (Ç) fıkrası uyarınca yeniden değerleme yapabilecek mükelleflerin, istemeleri halinde söz konusu fıkra kapsamında ilk kez yapılacak yeniden değerleme öncesinde, bilançolarına kayıtlı bulunan taşınmazlar ile amortismana tabi diğer iktisadi kıymetlerini, önceki hesap döneminin sonu itibarıyla yeniden değerleyebilmelerine imkân sağlanmıştır.
+(2) 213 sayılı Kanunun geçici 32 nci maddesi kapsamında, taşınmazlar ile amortismana tabi diğer iktisadi kıymetler (bu niteliklerini korudukları müddetçe sat-kirala-geri al işlemine veya kira sertifikası ihracına konu edilen taşınmaz ve iktisadi kıymetler hariç) Tebliğin bu bölümünün izleyen maddelerinde belirlenen usul ve esaslar dahilinde yeniden değerlemeye tabi tutulabilir.

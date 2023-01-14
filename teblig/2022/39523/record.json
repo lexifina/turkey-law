@@ -1,0 +1,37 @@
+{
+  "checked_on": "2026-11-15",
+  "commencement_quote": "Bu Tebliğ yayımı tarihinde yürürlüğe girer",
+  "date_gazette": "32073",
+  "date_quote": "RG-14/1/2023-32073",
+  "first_law": null,
+  "gazette": "31835",
+  "history": "current-text",
+  "images": {
+    "deferred": 0,
+    "omitted": 0,
+    "referenced": 0,
+    "source": 0
+  },
+  "in_force": "2023-01-14",
+  "in_force_basis": "Latest source-printed RG amendment date for current text: RG-14/1/2023-32073; own commencement clause: Bu Tebliğ yayımı tarihinde yürürlüğe girer",
+  "issuer": "Hazine ve Maliye Bakanlığı",
+  "issuer_catalog_evidence": [
+    {
+      "evidence": "issuer-578-100.json",
+      "id": "578",
+      "label": "Hazine ve Maliye Bakanlığı",
+      "listing_url": "https://www.mevzuat.gov.tr/Anasayfa/MevzuatDatatable?MevzuatTur=Teblig&KurumId=578&start=100&length=100"
+    }
+  ],
+  "issuer_slug": "hazine-ve-maliye-bakanligi",
+  "kind": "communique",
+  "label": "oldest version available",
+  "notes": [],
+  "published": "2022-05-14",
+  "source": "https://www.mevzuat.gov.tr/anasayfa/MevzuatFihristDetayIframe?MevzuatTur=9&MevzuatNo=39523&MevzuatTertip=5",
+  "source_bytes": 284500,
+  "source_id": "9.5.39523",
+  "source_sha256": "13f76ca74833d1fb20aa01a2340dc85f2408db11e6de66da5a2a2365af706da6",
+  "title": "Vergi Usul Kanunu Genel Tebliği (Sıra No: 537)",
+  "word_count": 11924
+}
