@@ -1,0 +1,1 @@
+Madde 12 – Enstitü anabilim veya enstitü anasanat dallarının, birden fazla enstitünün ilgi alanına giren, lisans üstü eğitim-öğretim, araştırma, uygulama ve yayın faaliyetlerinin gerektirdiği koordinasyon ilgili enstitü müdürleri tarafından sağlanır.

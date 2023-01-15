@@ -1,0 +1,1 @@
+Geçici Madde 1 – Bu Yönetmelik yayınlanmadan önce, o yükseköğretim kurumunda veya kuruluşta mevcut olan mevzuata uygun olarak sürdürülen işleyiş ve uygulamalar, en geç 1982-1983 ikinci yarıyılından itibaren bu Yönetmelik hükümlerine intibak ettirilir.

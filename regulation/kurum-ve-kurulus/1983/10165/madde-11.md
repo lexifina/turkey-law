@@ -1,0 +1,1 @@
+Madde 11 – Tez veya sanat yeterliği danışmanları, ilgili enstitü anabilim ve enstitü anasanat dalları başkanları ile ilgili dekanların görüşleri de alınarak, Enstitü Yönetim Kurulu tarafından atanır ve öğrencilerin tez veya uygulama konuları belirlenir.

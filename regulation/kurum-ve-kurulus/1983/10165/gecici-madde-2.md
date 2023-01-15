@@ -1,0 +1,1 @@
+Geçici Madde 2 – Bu Yönetmeliğin yürürlüğe girişinden itibaren iki ay içinde, yükseköğretim kurumları enstitü anabilim ve enstitü anasanat dalları yapıları ile lisans üstü programlarının adlarını onay için Yükseköğretim Kurulu’na gönderir. Bu programlardan hangilerinin o yükseköğretim kurumunda sürdürülmesine devam edileceğine Yükseköğretim Kurulu karar verir.

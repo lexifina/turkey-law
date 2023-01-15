@@ -1,0 +1,4 @@
+İşleyiş :
+Madde 8 – (Değişik fıkra:RG-4/7/1988-19862) Lisansüstü öğretim, 2809 sayılı kanun ile üniversitelerde rektörlüklere bağlı olarak kurulan enstitüler tarafından düzenlenir ve yürütülür. Lisansüstü öğretim ve bununla ilgili faaliyetlerin gerektirdiği harcamalar; üniversite bütçesinden, döner sermayelerden, üniversite dışı kurum ve kuruluşlardan üniversiteye yapılacak araştırma ile ilgili mali destekten, rektörlüğün onay ve iznine bağlı olarak, ilgili enstitü müdürü tarafından yapılır.
+Lisans üstü eğitim öğretim, araştırma, uygulama ve yayın faaliyetleri ile ilgili çalışmaların sürdürülmesinde, üniversite birimlerinin imkânlarından da yararlanılır.
+Sağlık Bilimlerindeki lisans üstü çalışmalar ilgili kuruluşun klinik, poliklinik, Laboratuvar ve ameliyathane gibi tesislerinde veya uygulama ve araştırma merkezlerinde yapılır.

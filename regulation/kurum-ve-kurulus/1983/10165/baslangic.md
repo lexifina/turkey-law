@@ -1,0 +1,2 @@
+LİSANS ÜSTÜ EĞİTİM ÖĞRETİM ENSTİTÜLERİNİN TEŞKİLÂT VE İŞLEYİŞ YÖNETMELİĞİ
+Amaç:
