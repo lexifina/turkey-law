@@ -1,0 +1,1 @@
+MADDE 8- Hükümetlerarası kültür anlaşmalarına göre veya üniversitelerin yurtdışı üniversitelerle yaptığı ve Yükseköğretim Kurulunca onaylanmış bulunan anlaşmalar gereğince yapılacak yurtdışı görevlendirmeler ve 2547 sayılı Kanun’un ilgili maddeleri uyarınca yapılacak yurtiçi görevlendirmeler bu Yönetmelik’te geçen sınırlamalara tâbi değildir.

@@ -1,0 +1,1 @@
+MADDE 7- Yurtdışında görevlendirilenler; kendilerine verilen onaylanmış çalışma programına göre düzenleyecekleri ayrıntılı faaliyet raporunu yurda dönmelerinden sonra bir aylık süre içinde bilimsel bir toplantıda sunmak üzere bağlı bulundukları rektörlüklere vermekle yükümlüdürler.

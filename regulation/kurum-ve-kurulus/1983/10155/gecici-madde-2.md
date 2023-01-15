@@ -1,0 +1,1 @@
+GEÇİCİ MADDE 2- 2809 sayılı Kanun ile üniversitelere bağlanan yükseköğretim kurumlarından devralınan öğretim elemanlarının önceki kurumlarında geçirdikleri süreler ile yurtiçi ve yurtdışı görevlendirme süreleri bu Yönetmeliğin uygulanmasında esas alınan sürelerden sayılır.

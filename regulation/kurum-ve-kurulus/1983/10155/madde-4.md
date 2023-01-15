@@ -1,0 +1,1 @@
+MADDE 4- Yurtiçi ve yurtdışı görevlendirmelerin yapılabilmesi için ilgili birimin eğitim ve öğretim programlarının aksatılmayacağının bölüm başkanının önerisi üzerine Fakülte Yönetim Kurullarınca belirlenmiş olması şarttır.
