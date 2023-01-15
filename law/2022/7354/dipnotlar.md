@@ -1,0 +1,2 @@
+[1] Anayasa Mahkemesinin 13/7/2023 tarihli ve E.:2022/47; K.:2023/124 sayılı Kararı ile bu fıkranın ikinci cümlesinde yer alan “…Adaylık Değerlendirme Komisyonu tarafından yapılan değerlendirme sonucunda…” ibaresi iptal edilmiştir.
+[2] Anayasa Mahkemesinin 13/7/2023 tarihli ve E.:2022/47; K.:2023/124 sayılı Kararı ile bu fıkranın birinci cümlesinde yer alan “…ve mesleki gelişim alanlarında başöğretmenlik için öngörülen çalışmaları tamamlayanlar…” ibaresi iptal edilmiştir.
