@@ -1,0 +1,2 @@
+Harcama yetkisi
+MADDE 68 – (1) Başkan, II. Başkan, Yazman ve Sayman üyelere Yönetim Kurulunca gerekli görülen miktarda sarf yetkisi verilebilir. Yapılacak her türlü ödemelerde, bu dört kişiden ikisinin birlikte imzasının bulunması şarttır. Oda Yönetim Kurulu, yukarıda belirlenmiş yetkilerin bir kısmını kendi adına kullanmak üzere, Yönetim Kurulunun diğer üyelerini, temsilcileri, Oda büro şefi veya müdürünü kontrolü altında olmak üzere yetkili kılabilir.

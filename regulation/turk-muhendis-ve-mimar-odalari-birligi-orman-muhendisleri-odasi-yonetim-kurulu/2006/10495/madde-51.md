@@ -1,0 +1,4 @@
+Üyelerin şube değişikliği
+MADDE 51 – (Başlığıyla birlikte değişik:RG-14/6/2012-28323)
+(1) (Değişik:RG-5/11/2020-31295) Üyeler, iş ve ev adreslerini Oda Genel Merkezine ve ilgili şubesine bildirmek zorundadır. Şube sınırları dışına kalıcı olarak çıkan üyeler; ilgili şubesine üyelik kaydının aktarılması için, yeni şubeye veya doğrudan Oda Genel Merkezine başvurmakla yükümlüdür. 10 uncu maddenin birinci fıkrasının (c) bendine göre bildirimde bulunmadıkları tespit edilenlerin şube kayıtları, oda yönetim kurulunca “Mernis” kayıtları esas alınarak belirlenir. Üye kaydının iş yerinin bağlı olduğu şubeye yapılmasını isteyen üyeler, müracaat dilekçesini ve iş yeri bilgilerini Oda Genel Merkezine ibraz etmek zorundadır.
+(2) Şube Genel Kurul tarihinden en az otuz gün önce şubeye kayıtlı olan üye Şube Genel Kuruluna katılabilir.

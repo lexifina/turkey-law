@@ -1,0 +1,3 @@
+Oda Danışma Kurulu
+MADDE 48 – (1) (Değişik:RG-15/1/2023-32074) Oda Danışma Kurulu; Odanın TMMOB yönetim, yüksek onur ve birlik denetleme kurullarında görev yapan asil üyeleri; Oda Yönetim, Onur ve Denetleme Kurullarının üyeleri, şube yönetim kurullarının başkan ve belirleyeceği iki üyesi, Oda Yönetim kurulunca belirlenecek sayıda Oda il ve fakülte temsilcileri; Odanın AR-GE, bilim ve teknik kurul üyeleri, varsa Oda genel sekreteri, uzmanlık kurullarının başkan ya da yazmanlarından oluşur.
+(2) Oda Danışma Kurulları Oda Yönetim Kurulunca (Değişik ibare:RG-14/6/2012-28323) çalışma döneminde en az bir kez toplantıya çağrılır ve Oda Yönetim Kurulu Başkanı, yokluğunda II. Başkan veya Oda Yönetim Kurulu Yazman Üyesi başkanlığında çalışmalarını yürütür.

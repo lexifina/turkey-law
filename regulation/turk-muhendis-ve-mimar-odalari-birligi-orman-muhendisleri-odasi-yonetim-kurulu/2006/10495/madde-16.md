@@ -1,0 +1,2 @@
+Genel Kurulun açılışı ve yönetilmesi
+MADDE 16 – (1) Genel Kurul toplantısı, Genel Kurul toplantı yeter sayısının sağlanmasıyla Yönetim Kurulu Başkanı, İkinci Başkanı ya da Yönetim Kurulunun kendi içinden belirleyeceği bir üye tarafından, Birlik Gözlemcisinin toplantıda hazır bulunmasıyla açılır ve gündemin birinci maddesi gereğince Başkanlık Divanı seçilir. Başkanlık Divanı bir başkan, bir başkan yardımcısı ve iki yazmandan oluşur. Genel Kurul oturumlarının yönetilmesinde TMMOB Genel Kurul Yönetmeliği uygulanır.

@@ -1,0 +1,3 @@
+Odaya kaydolma, kimlik alma ve unvan kullanma zorunluluğu
+MADDE 81 – (Başlığıyla birlikte değişik:RG-14/6/2012-28323)
+(1) Diploma ve ruhsatname alarak Türkiye’de mesleğini uygulayabilecek duruma gelmiş olan Orman Mühendisleri, Orman Endüstri Mühendisleri ve Ağaç İşleri Endüstri Mühendisleri derhal Odaya başvurarak kaydolmak, bu unvanları kullanmak, çalıştıkları resmi ya da özel kuruluşlardaki kadro unvanlarının yanında bu meslek unvanlarını da kullanmak ve bir kimlik kartı almak zorundadırlar. Oda kimlik kartını almayanlar veya üyelik görev ve sorumluluklarını yerine getirmediği için, ya da başka inzibati nedenlerle kimlik kartını yenilememiş, meslek mensupluğu ruhsatı almamış ve vize ettirmemiş olanların mesleklerini yapmaları yasaklanır.

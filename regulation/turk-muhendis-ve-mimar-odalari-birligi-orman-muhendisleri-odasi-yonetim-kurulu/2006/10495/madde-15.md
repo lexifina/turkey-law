@@ -1,0 +1,8 @@
+Oda Genel Kuruluna çağrı
+MADDE 15 – (1) Oda Genel Kurulu aşağıdaki esaslar çerçevesinde toplantıya çağrılır:
+a) Oda Yönetim Kurulu, Genel Kurul toplantısından en az onbeş gün önce, Genel Kurula katılacak delegelerin üçer kopya hazırlanmış listelerini, toplantının gündemini, yerini, gününü, saatini ve çoğunluk sağlanamadığı taktirde yapılacak ikinci toplantıya ilişkin hususları belirten yazıyla birlikte görevli seçim kurulu başkanlığına iletir.
+b) Genel Kurul toplantısına katılamayacağı belli olan asil ve yedek delegelerin delegelikten istifa yazıları da istenmesi durumunda görevli hakime iletilir.
+c) Gerekli incelemeden sonra hakim tarafından onaylanan listeler ile toplantıya ilişkin diğer konular Odanın ve Birliğin ilan yerlerine asılmak suretiyle ve üç gün süre ile ilan edilir.
+ç) Askı süresince asil ve yedek delegelikten istifa başvuruları, Oda merkezi aracılığı ile ya da doğrudan görevli hakime yapılır. Asil delege listesi hakim tarafından kesinleştirilir.
+d) Kanuni sürecin tamamlanması ve delege listelerinin kesinleşip, Genel Kurula ilişkin diğer konuların onaylanmasını izleyen üç gün içinde Oda Yönetim Kurulu tarafından Genel Kurulun toplanacağı delegelere duyurulur ve günlük bir gazetenin Türkiye baskısında ilan edilir.
+e) Genel Kurulun düzenli bir şekilde yapılamayacağının anlaşılması durumunda, Oda Yönetim Kurulu, toplantı başlamadan önce Genel Kurulu ancak bir kez olmak ve iki ayı geçmemek üzere erteleyebilir. Bu durumda Oda Yönetim Kurulu, Genel Kurulun yeni tarihini ve yerini, görevli hakimin onayını da alarak belirler, toplantı tarihinden en az on gün önce delegelere duyurur ve günlük bir gazetenin Türkiye baskısında ilan eder.

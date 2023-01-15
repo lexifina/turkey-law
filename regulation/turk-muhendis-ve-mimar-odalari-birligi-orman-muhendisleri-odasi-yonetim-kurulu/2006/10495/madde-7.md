@@ -1,0 +1,9 @@
+ÜÇÜNCÜ BÖLÜM
+Üyelik
+Asil üyelik
+MADDE 7 – (1) Odaya asil üyelik için aşağıdaki şartların yerine getirilmesi gerekir.
+a) (Değişik:RG-14/6/2012-28323) Türkiye Cumhuriyeti uyruğunda olup, yurtiçinde lisans düzeyinde eğitim ve öğretim veren yükseköğretim kurumlarının orman mühendisliği, orman endüstri mühendisliği ve ağaç işleri endüstri mühendisliği bölümlerinden mezun olan ya da yurt dışında yukarıda belirtilen okullardan mezun olup diplomasının denkliği Yükseköğretim Kurulunca onaylanan, orman mühendisi, orman endüstri mühendisi ve ağaç işleri endüstri mühendisleri mesleki faaliyetlerde bulunmak, mesleki hak ve yetkilerini kullanabilmek için Odaya üye olmak, ruhsat belgesine sahip olmak ve üyelik niteliğini korumak zorundadır.
+b) Askerlik yükümlülüğünü yerine getirmekte olan üyelerin üyelikleri, askerlik hizmetleri süresince askıda kalır. Bu hal, kanunlardan doğan diğer mesleki yükümlülüklerini ve haklarını ortadan kaldırmaz. Önceden haber vermek ve dönüşlerinde belgelendirmeleri kaydıyla askerlik süresince üyelik ödentilerinden muaf tutulabilirler.
+c) Mesleğin ifası dışındaki nedenlerle bir yıldan uzun süreli yurt dışına çıkan üyelerin, çıkışlarını önceden yazılı olarak bildirmeleri koşuluyla, yurt dışında kaldıkları süre için, isteğe bağlı olarak üyelikleri dondurulur. Bu üyeler, bu süre içinde, üyelik ödentisi ödemezler. Ancak, yurt dışında kaldıkları süreyi belgelemeleri gerekir.
+ç) (b) ve (c) bentlerine göre üyelikleri askıya alınanlar, Oda organlarında görev alamazlar, genel kurullarda delege olamazlar, üyelik haklarından yararlanamazlar.
+d) (Değişik:RG-5/11/2020-31295) Her üyenin ikametinin bulunduğu ilin bağlı olduğu şubeye kaydının yapılması esastır. Ancak üyenin sürekli çalıştığı yerin ikametinden farklı bir ilde bulunması halinde, iş yerine ilişkin belgeleri ibraz etmesi durumunda iş yerinin bağlı olduğu şubeye kaydı yapılır.

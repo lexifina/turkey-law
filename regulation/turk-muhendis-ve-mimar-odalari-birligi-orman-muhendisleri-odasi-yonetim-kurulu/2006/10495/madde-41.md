@@ -1,0 +1,2 @@
+Onur Kurulunun giderleri
+MADDE 41 – (1) Onur Kurulunun, kendisine verilen işleri yürütmek için gerekli gördüğü her türlü gider, Oda tarafından ödenir. Bilirkişi masrafları, Onur Kurulu tarafından bilirkişi incelemesine lüzum görülmüşse Oda bütçesinden, istek üzerine bilirkişi incelemesi yapılırsa istekte bulunanlarca peşin olarak Oda veznesine yatırılan bilirkişi ücretinden karşılanır. Karar sonucuna göre masrafların kimden tahsil edileceği kurul tarafından belirlenir.

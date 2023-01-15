@@ -1,0 +1,6 @@
+İl ve fakülte temsilciliklerinin kurulması ve kapatılması (Değişik başlık:RG-15/1/2023-32074)
+MADDE 62 – (Başlığıyla birlikte değişik:RG-14/6/2012-28323)
+(1) (Mülga:RG-15/1/2023-32074)
+(2) (Değişik:RG-15/1/2023-32074) Oda faaliyetlerinin etkin bir şekilde yürütülmesi, coğrafi yapı ve örgütsel gereksinimler göz önünde tutularak, üye sayısı toplamı yirmi kişiye kadar olan illerde, Oda Yönetim Kurulunun kararı ile görev sorumluluğu yönünden doğrudan genel merkeze ve idari açıdan ilgili şubeye bağlı il temsilcilikleri kurulabilir.
+(3) Orman Mühendisi ve Orman Endüstri Mühendisi yetiştiren orman fakülteleri ile Ağaç İşleri Endüstri Mühendisi yetiştiren lisans düzeyinde eğitim, öğretim veren yüksek öğretim kurumlarında; Oda faaliyetlerinin tanıtımı, bilimsel ilişkiler kurulması için, Oda Yönetim Kurulunun kararı ile görev sorumluluğu yönünden doğrudan Genel Merkeze bağlı fakülte temsilcilikleri kurulabilir.
+(4) (Değişik:RG-15/1/2023-32074) İl ve fakülte temsilcilikleri, ikinci ve üçüncü fıkralarda belirtilen kuruluş şartlarını kaybetmeleri veya Oda Yönetim Kurulunun gerekli gördüğü hallerde veya Oda Yönetim, Denetleme ve Onur Kurullarının ortak yapacakları toplantıda katılanların üçte ikisinin çoğunluk kararı ile kapatılabilir.
