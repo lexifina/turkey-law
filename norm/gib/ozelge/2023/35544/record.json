@@ -1,0 +1,22 @@
+{
+  "kind": "norm",
+  "issuer": "Gelir İdaresi Başkanlığı",
+  "document_type": "ozelge",
+  "number": "35831311-010.01-1037",
+  "source_id": 35544,
+  "date": "2023-01-16",
+  "title": "Riskli yapı belirtmesi bulunan ve bulunmayan parsellerin tevhid edilmesi sonrasında oluşan parselde inşa edilen yeni yapılarda bulunan bağımsız bölümlerin satışında tapu harcı uygulaması",
+  "source": "https://gib.gov.tr/mevzuat/kanun/439/ozelge/35544",
+  "related_law": "492 sayılı HARÇLAR KANUNU",
+  "source_api": "https://gib.gov.tr/api/gibportal/mevzuat/ozelge/list",
+  "source_listing": "evidence/list/2026-11-16/ozelge-p007.json",
+  "source_listing_sha256": "aedbdf4562ba9127c242d5a565793d0bcd4fd4854c0c6fa4dc4410a5b16508b4",
+  "source_sha256": "ee5f90db4fc01d0be03bfb581d9491dae023051d05e4338b45c750b0f07e24c2",
+  "text_status": "as-enacted",
+  "text_file": "metin.md",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  }
+}
