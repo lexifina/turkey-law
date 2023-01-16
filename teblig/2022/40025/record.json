@@ -1,0 +1,50 @@
+{
+  "annexes": {
+    "links": [
+      {
+        "caption": "Ekleri için tıklayınız",
+        "official_href": "9.5.40025-EK.doc",
+        "status": "pending"
+      }
+    ],
+    "official_html": "https://www.mevzuat.gov.tr/anasayfa/MevzuatFihristDetayIframe?MevzuatTur=9&MevzuatNo=40025&MevzuatTertip=5",
+    "status": "pending"
+  },
+  "checked_on": "2026-11-15",
+  "commencement_quote": "Bu Tebliğ yayımı tarihini takip eden otuzuncu gün yürürlüğe girer",
+  "date_gazette": "32046",
+  "date_quote": "Bu Tebliğ yayımı tarihini takip eden otuzuncu gün yürürlüğe girer",
+  "first_law": null,
+  "gazette": "32046",
+  "history": "current-text",
+  "images": {
+    "deferred": 0,
+    "omitted": 0,
+    "referenced": 0,
+    "source": 0
+  },
+  "in_force": "2023-01-16",
+  "in_force_basis": "Own commencement clause: Bu Tebliğ yayımı tarihini takip eden otuzuncu gün yürürlüğe girer",
+  "issuer": "Ticaret Bakanlığı",
+  "issuer_catalog_evidence": [
+    {
+      "evidence": "issuer-504-300.json",
+      "id": "504",
+      "label": "Ticaret Bakanlığı",
+      "listing_url": "https://www.mevzuat.gov.tr/Anasayfa/MevzuatDatatable?MevzuatTur=Teblig&KurumId=504&start=300&length=100"
+    }
+  ],
+  "issuer_slug": "ticaret-bakanligi",
+  "kind": "communique",
+  "label": "oldest version available",
+  "notes": [
+    "Linked official annexes are not included in this version; original official links and captions are recorded in annexes."
+  ],
+  "published": "2022-12-17",
+  "source": "https://www.mevzuat.gov.tr/anasayfa/MevzuatFihristDetayIframe?MevzuatTur=9&MevzuatNo=40025&MevzuatTertip=5",
+  "source_bytes": 22244,
+  "source_id": "9.5.40025",
+  "source_sha256": "ae35a46e1df75dc35d9f0f3178bee9cec2abd9fec8923ecbc3fb45c5c9be108e",
+  "title": "İTHALATTA GÖZETİM UYGULANMASINA İLİŞKİN TEBLİĞ\r\n(TEBLİĞ NO: 2022/4)",
+  "word_count": 645
+}
