@@ -1,0 +1,17 @@
+{
+  "kind": "decision",
+  "issuer": "Sayıştay 2. Dairesi",
+  "number": "35750",
+  "decision_date": "2023-01-17",
+  "source_id": 36940,
+  "chamber": "2",
+  "ilam_number": "90",
+  "item_number": 11,
+  "public_body_type": "Belediyeler ve Bağlı İdareler",
+  "account_year": 2021,
+  "subject": "Çeşitli Konuları İlgilendiren Kararlar",
+  "source": "https://www.sayistay.gov.tr/KararlarDaire/Detay/36940/",
+  "source_sha256": "205af9c44200632986284a77c7ae68511e99761417187b9f666a2f0e0d92cba3",
+  "text_status": "as-enacted",
+  "text_file": "metin.md"
+}
