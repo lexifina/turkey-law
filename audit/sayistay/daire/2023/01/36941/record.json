@@ -1,0 +1,17 @@
+{
+  "kind": "decision",
+  "issuer": "Sayıştay 2. Dairesi",
+  "number": "35750",
+  "decision_date": "2023-01-17",
+  "source_id": 36941,
+  "chamber": "2",
+  "ilam_number": "90",
+  "item_number": 12,
+  "public_body_type": "Belediyeler ve Bağlı İdareler",
+  "account_year": 2021,
+  "subject": "İş Mevzuatı ile İlgili Kararlar",
+  "source": "https://www.sayistay.gov.tr/KararlarDaire/Detay/36941/",
+  "source_sha256": "52bf3db3b66386f8f5b76714f0e9d93c6c0fc3a7d9f5968217aa752d20e949fd",
+  "text_status": "as-enacted",
+  "text_file": "metin.md"
+}
