@@ -1,0 +1,22 @@
+{
+  "kind": "norm",
+  "issuer": "Gelir İdaresi Başkanlığı",
+  "document_type": "ozelge",
+  "number": "E-39044742-130[Özelge]-78188",
+  "source_id": 32110,
+  "date": "2023-01-17",
+  "title": "Elektrik tüketim bedelinin yanında kanun gereği tahsilatına aracılık edilen bedellerde uygulanacak KDV oranı",
+  "source": "https://gib.gov.tr/mevzuat/kanun/436/ozelge/32110",
+  "related_law": "3065 sayılı KATMA DEĞER VERGİSİ KANUNU",
+  "source_api": "https://gib.gov.tr/api/gibportal/mevzuat/ozelge/list",
+  "source_listing": "evidence/list/2026-11-16/ozelge-p005.json",
+  "source_listing_sha256": "bc82c6c09764a8d83c3906db12d34a67d7f592d6e631568c06d506072b5840cf",
+  "source_sha256": "d57bf57b77f9e3fb6b67eb4df1e7edc037400070dd267d481c1cc844bfc8ffe7",
+  "text_status": "as-enacted",
+  "text_file": "metin.md",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  }
+}
