@@ -1,0 +1,76 @@
+{
+  "source_id": "7.5.23639",
+  "kind": "regulation",
+  "register_kind": "Kurum ve Kuruluş Yönetmelikleri",
+  "title": "MİLLÎ EĞİTİM BAKANLIĞI EĞİTİM KURUMLARI SOSYAL ETKİNLİKLER YÖNETMELİĞİ",
+  "number": "23639",
+  "issuer": "Millî Eğitim Bakanı",
+  "issuer_slug": "milli-egitim-bakani",
+  "path": "regulation/milli-egitim-bakani/2017/23639",
+  "source": "https://www.mevzuat.gov.tr/anasayfa/MevzuatFihristDetayIframe?MevzuatTur=7&MevzuatNo=23639&MevzuatTertip=5",
+  "source_sha256": "61696831c241d5fcb5696a9a08d30357d948ce057da2422bbbce15849a2d637a",
+  "source_bytes": 76164,
+  "published": "2017-06-08",
+  "gazette": "30090",
+  "in_force": "2023-01-18",
+  "in_force_basis": "latest Resmî Gazete date printed in the source amendment notes/table (\"18/1/2023\") for the current consolidated text",
+  "date_evidence": [
+    [
+      "2023-01-18",
+      "18/1/2023",
+      "Resmî Gazete date in the source amendment table"
+    ],
+    [
+      "2020-12-02",
+      "2/12/2020",
+      "Resmî Gazete date in the source amendment table"
+    ],
+    [
+      "2020-10-15",
+      "RG-15/10/2020",
+      "Resmî Gazete date printed in the source amendment note"
+    ],
+    [
+      "2020-10-15",
+      "15/10/2020",
+      "Resmî Gazete date in the source amendment table"
+    ],
+    [
+      "2019-09-12",
+      "RG-12/9/2019",
+      "Resmî Gazete date printed in the source amendment note"
+    ],
+    [
+      "2019-09-12",
+      "12/9/2019",
+      "Resmî Gazete date in the source amendment table"
+    ],
+    [
+      "2018-09-01",
+      "RG-1/9/2018",
+      "Resmî Gazete date printed in the source amendment note"
+    ],
+    [
+      "2018-09-01",
+      "1/9/2018",
+      "Resmî Gazete date in the source amendment table"
+    ]
+  ],
+  "commencement_clauses": [
+    "Bu Yönetmelik yayımı tarihinde yürürlüğe girer"
+  ],
+  "history": "current-text",
+  "label": "oldest version available",
+  "checked_on": "2026-11-15",
+  "word_count": 3702,
+  "text_status": "current-consolidated",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  },
+  "source_links": [
+    "7.5.23639-Ek.doc"
+  ],
+  "completeness": "html-text-complete; linked annexes not fetched"
+}
