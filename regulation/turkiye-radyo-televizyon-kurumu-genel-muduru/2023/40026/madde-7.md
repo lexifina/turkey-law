@@ -1,0 +1,2 @@
+Karar ve süresi
+MADDE 7- (1) Disiplin amirleri uyarma, kınama ve aylıktan kesme cezalarını soruşturmanın tamamlandığı günden itibaren 15 gün içinde vermek zorundadır. Söz konusu cezalara karşı, kararın ilgiliye tebliğ tarihinden itibaren 7 gün içinde Disiplin Kuruluna itiraz edilebilir. Disiplin Kurulunca itirazın kabulü hâlinde, disiplin amirleri kararı gözden geçirerek verilen cezayı hafifletebilir veya tamamen kaldırabilir.

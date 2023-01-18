@@ -1,0 +1,34 @@
+{
+  "source_id": "7.5.40026",
+  "kind": "regulation",
+  "register_kind": "Kurum ve Kuruluş Yönetmelikleri",
+  "title": "TÜRKİYE RADYO-TELEVİZYON KURUMU DİSİPLİN KURULLARI VE AMİRLERİ HAKKINDA YÖNETMELİK",
+  "number": "40026",
+  "issuer": "Türkiye Radyo-Televizyon Kurumu Genel Müdürü",
+  "issuer_slug": "turkiye-radyo-televizyon-kurumu-genel-muduru",
+  "path": "regulation/turkiye-radyo-televizyon-kurumu-genel-muduru/2023/40026",
+  "source": "https://www.mevzuat.gov.tr/anasayfa/MevzuatFihristDetayIframe?MevzuatTur=7&MevzuatNo=40026&MevzuatTertip=5",
+  "source_sha256": "c08e731487fd8b2118ebba11b882d3f6466938d1c6ef971cb24e9d3149f83ace",
+  "source_bytes": 42008,
+  "published": "2023-01-18",
+  "gazette": "32077",
+  "in_force": "2023-01-18",
+  "in_force_basis": "Resmî Gazete publication date in the official listing (18.01.2023); own commencement article: \"Bu Yönetmelik yayımı tarihinde yürürlüğe girer\"",
+  "commencement_clauses": [
+    "Bu Yönetmelik yayımı tarihinde yürürlüğe girer"
+  ],
+  "history": "current-text",
+  "label": "oldest version available",
+  "checked_on": "2026-11-15",
+  "word_count": 1805,
+  "text_status": "current-consolidated",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  },
+  "source_links": [
+    "7.5.40026-Ek.docx"
+  ],
+  "completeness": "html-text-complete; linked annexes not fetched"
+}

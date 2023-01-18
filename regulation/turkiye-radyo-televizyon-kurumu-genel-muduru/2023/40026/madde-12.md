@@ -1,0 +1,8 @@
+Kurullarının kararları, karar süresi ve usulü
+MADDE 12- (1) Kademe ilerlemesinin durdurulması cezasını gerektiren hallerde soruşturma dosyası, kararını bildirmek üzere Disiplin Kuruluna Genel Müdür tarafından 15 gün içinde tevdi edilir. Disiplin Kurulu, dosyayı aldığı tarihten itibaren 30 gün içinde soruşturma evrakına göre kararını bildirir.
+(2) Disiplin amirleri tarafından verilen uyarma, kınama ve aylıktan kesme cezalarına karşı yapılan itirazlarda, Disiplin Kurulu itiraz dilekçesi ile karar ve eklerinin kendilerine intikalinden itibaren 30 gün içinde kararlarını vermek zorundadır.
+(3) Yüksek Disiplin Kurulu, işten çıkarma cezasına ilişkin soruşturma dosyasının Genel Müdür tarafından kendilerine intikalinden itibaren en geç 6 ay içerisinde karar verir.
+(4) Hakkında işten çıkarma cezası istenen personel soruşturma evrakını incelemeye, tanık dinletmeye, disiplin kurulunda sözlü veya yazılı olarak kendisi veya vekili vasıtasıyla savunma yapma hakkına sahiptir.
+(5) Kademe ilerlemesinin durdurulması cezasına karşı yapılan itirazlarda, Yüksek Disiplin Kurulu, itiraz dilekçesinin kendilerine intikalinden itibaren 30 gün içerisinde karar verir.
+(6) Disiplin Kurulu ve Yüksek Disiplin Kurulunun ayrı bir ceza tayinine yetkisi yoktur, cezayı kabul eder veya reddeder. Ret halinde Genel Müdür 15 gün içinde başka bir disiplin cezası verebilir.
+(7) Disiplin cezasını gerektiren fiil ve hâllere göre ceza tayini esastır. Ancak, ceza tayinine yetkili mercilerin takdirine göre fiilde hafifletici sebepler olduğu kanısına varılırsa, bu sebep açıklanarak ceza bir derece hafifletilebilir. Personelin geçmiş hizmetleri, ödül ve başarıları da hafifletici sebep olarak göz önünde bulundurulabilir.
