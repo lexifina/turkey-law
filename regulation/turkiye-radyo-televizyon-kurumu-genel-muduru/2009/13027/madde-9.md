@@ -1,0 +1,31 @@
+Görevleri
+MADDE 9 – (Değişik:RG-18/1/2023-32077)
+(1) Yönetim Kurulunun görevleri şunlardır:
+a) Kurumun program, yayın, teknik, personel, idari, mali ve her türlü hizmetlerine dair temel ilkeleri ve hedefleri tespit etmek ve Genel Müdürlükçe hazırlanacak olan yıllık ve 5 yıllık planları ve söz konusu planlara göre hazırlanan birimlerin bütçelerini karara bağlamak.
+b) Kurumun bütçesini, bilançosunu, toplam kadro ve pozisyon sayısını karara bağlamak.
+c) Genel Müdürlükçe hazırlanacak yönetmelik tasarıları hakkında karar vermek.
+ç) Alınan kararların uygulanışını Yönetim Kurulu toplantılarında, Yönetim Kurulu Başkanının vereceği bilgilerle takip ve kontrol etmek.
+d) Kurumun hizmetlerinin geliştirilmesini sağlayacak tedbirleri almak.
+e) Genel Müdürlükçe gerekli görülecek konularda kararlar almak.
+f) Kurum ile ilgili ve başka mercie bırakılmamış konularda karar almak.
+g) Kuruma ait taşınmazların satımı ile Kurum tarafından taşınmaz edinilmesi ve taşınmazların bağışlarının kabulü hususlarını karara bağlamak.
+ğ) Üyeleri Yönetim Kurulu veya Genel Müdür tarafından belirlenen Danışma Kurulları vasıtasıyla, Kurumun görevleri çerçevesinde, radyo ve televizyon yayınları hakkında kamuoyunun düşünce ve dileklerini tespit ettirmek, bilimsel ve teknik araştırmalar yaptırmak, lüzum görülecek konularda özel uzmanlardan yararlanarak varılan sonuçları değerlendirmek ve gerekli tedbirleri almak.
+h) Hizmet gereklerine uygun olarak Kurumun merkez, taşra ve yurt dışı teşkilatının hangi birimlerden oluşacağını Genel Müdürün teklifi üzerine karara bağlamak.
+ı) Kurumun amaçlarına uygun olmak şartıyla özel hukuk hükümlerine tabi şirket kurulmasına, yerli veya yabancı gerçek veya tüzel kişilerle ortaklıklar kurulmasına, mevcut ortaklıklara veya şirketlere iştirak edilmesine, yurt içinde veya yurt dışında yerli veya yabancı ortaklıkları veya şirketleri tamamen satın almaya veya devralmaya karar vermek.
+i) Kurumun, kendisine ait şirketlerden veya ortak olduğu şirketlerden yapacağı her türlü alım, satım, hizmet, danışmanlık, yapım ve taşıma işlerine ilişkin ihale işlemlerinin usul ve esaslarına dair Genel Müdür teklifini karara bağlamak.
+j) Kuruma indirimli tarife uygulayan Devlet daire ve kuruluşları, kamu tüzel kişileri ve kamu iktisadi teşebbüslerine ilan ve reklam işlerinde indirimli tarife uygulanmasına karar vermek.
+k) 657 sayılı Kanuna tabi memurlar için tespit edilecek miktar ve şartlara uygun olmak kaydıyla, Kurumda çalışan personele ödenecek mahrumiyet zammını yönetmelikle tespit etmek.
+l) 657 sayılı Kanunun 59 uncu ve müteakip maddelerindeki istisnai memuriyete ilişkin hükümlerin uygulanacağı yabancı dil yayınları mütercim spikerlerinin sayısını tespit etmek.
+m) Kurum personeline hizmetin bütünlüğü ve ifa edilen görevin özelliği dikkate alınarak, en yüksek Devlet memuru aylığını (ek gösterge dahil) geçmemek üzere, tespit olunan oran veya miktarlarda tazminat ödenmesi hususunda Cumhurbaşkanına teklifte bulunmak.
+n) Genel İdare Hizmetleri sınıfına dahil kadrolara uygulanacak ek göstergeleri, bu memuriyetlerin niteliği ve yönetim sorumluluğu göz önünde bulundurularak ve diğer kamu kuruluşlarındaki emsallerini geçmemek şartı ile Kurum personeli hakkında uygulanmak üzere Cumhurbaşkanınca tespit olunmak üzere teklifte bulunmak.
+o) Kadro karşılığı sözleşmeli personele ilişkin sınav, işe alınma, atanma ve görevde yükselme gibi hususları düzenlemek, bu personelin unvanları, sayısı, kadro iptal ve ihdasları, ücretleri, kadrolara uygulanacak ek göstergeler, makam ve görev tazminatı, özel hizmet tazminatı, fazla çalışma ücreti gibi personele sağlanacak her türlü mali ve sosyal haklara ilişkin usul ve esaslarına dair Cumhurbaşkanınca tespit olunmak üzere teklifte bulunmak.
+ö) Özel hukuk hükümlerine tabi personelin, Kurumca yapılacak sınavla istihdamına, sözleşme imzalanmasına, sözleşmesinin feshine, feshi halinde ödenecek tazminat ile ücretlerine, her türlü mali ve sosyal haklarına ilişkin usul ve esasları belirlemek.
+p) Kurum personelinin yurt içinde geçici görevle memuriyet mahalli dışına görevlendirilmesi durumunda, bu personele 10/2/1954 tarihli ve 6245 sayılı Harcırah Kanunu gereğince her yıl Bütçe Kanununda emsali Devlet memuru için belirlenen gündeliklerin iki katını geçmemek üzere ödenecek gündelik tutarını belirlemek.
+r) Kurum personelinin yurt içi ve yurt dışında görevlendirilenlerinin konaklama yer ve ücretlerine ilişkin hususları belirlemek.
+s) Kurumda görevli kadrolu veya özel hukuk hükümlerine tabi personele, yılda dört aylık ücret tutarını aşmamak üzere ikramiye verilmesiyle ilgili Genel Müdür teklifini onaylamak.
+ş) Kurumun kadrolarında sanatçı olarak çalışanlar ile sanatçı niteliğinden ötürü Kurumun idareci, uzman şef ve benzeri diğer kadrolarında görevli bulunanlar ile spiker, sunucu ve teknisyenlerden oluşacak bu toplulukların; asli görevlerini aksatmamak şartıyla, yurt içinde ve yurt dışında, Kurumun müzik yayınları amaç ve politikasına uygun hizmet ve faaliyetlerde bulunmak, müziğin tanıtılıp yaygınlaştırılmasına katkıda bulunmak amacıyla konser, festival ve benzeri sanat faaliyetlerinde Genel Müdür tarafından görevlendirilmesine ilişkin uygulama usul ve esaslarını tespit etmek.
+t) Kurumun sürekli kadrolarında çalışanların Kurumun asli fonksiyonları ile ilgili konularda üniversite ve yüksekokullarda öğretim üyesi veya yardımcısı olarak görev almalarına, her derecedeki resmî öğretim kurumlarında öğretmenlik yapmalarına, esas görevlerini aksatmamak şartıyla Genel Müdürün teklifi üzerine izin vermek, bu görevlilerin Kurum ortaklıklarında da görevlendirilmelerine karar vermek.
+u) Kurumun kuracağı her türlü tesisler için gerekli taşınmaz malların kamulaştırılmasında, kamu yararı kararı almak.
+ü) 4/12/1984 tarihli ve 3093 sayılı Türkiye Radyo-Televizyon Kurumu Gelirleri Kanununun uygulanmasına ilişkin usul ve esaslar ile beyanname, bandrol ve etiketler ile ilgili diğer hususları tespit etmek.
+v) İlgili mevzuatla Yönetim Kuruluna verilen diğer görevleri yerine getirmek.
+(2) Yönetim Kurulu gerekli görülen hallerde görevlerinden bir kısmını, sınırlarını açıkça belirtmek ve yazılı olmak kaydıyla Genel Müdüre devredebilir. Devredilen yetki, gerek görüldüğünde Yönetim Kurulu tarafından da doğrudan kullanılabilir. Ancak, yetki devri Yönetim Kurulunun sorumluluğunu kaldırmaz.

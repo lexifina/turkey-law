@@ -1,0 +1,4 @@
+Gündem
+MADDE 11 – (1) Yönetim Kurulu toplantılarının gündemine alınacak konuları ve bunların sırasını Başkan tespit eder. (Mülga cümle:RG-7/4/2018-30384) (…) Üyelerden birisinin en az yedi gün önce yazılı olarak teklif ettiği konular da gündeme alınır.
+(2) Gündem ve (Mülga ibare:RG-7/4/2018-30384) (…) ekleri toplantı tarihinden en az beş gün önce üyelerin eline geçecek şekilde gönderilir.
+(3) Gündemin gönderilmesinden sonra, ivedilik ve öncelikle görüşülmesi Genel Müdürlük tarafından gerekli görülen konular veya Üyelerden gelen daha sonraki teklifler ek bir gündemde gösterilir ve ek gündem, üyelere toplantı başlamadan önce dağıtılır. Ek gündemdeki konuların gündeme alınıp alınmayacağına ya da hangilerinin gündeme alınacağına Yönetim Kurulu karar verir. Üyelerden birisinin toplantı başlamadan önce veya toplantı sırasında yapacağı sözlü ya da yazılı ek gündem önerisi de aynı hükme tabidir.

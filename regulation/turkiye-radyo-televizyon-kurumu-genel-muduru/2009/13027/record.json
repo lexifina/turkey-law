@@ -1,0 +1,53 @@
+{
+  "source_id": "7.5.13027",
+  "kind": "regulation",
+  "register_kind": "Kurum ve Kuruluş Yönetmelikleri",
+  "title": "TÜRKİYE RADYO-TELEVİZYON KURUMU YÖNETİM KURULUNUN ÇALIŞMA ESASLARI HAKKINDA YÖNETMELİK",
+  "number": "13027",
+  "issuer": "Türkiye Radyo-Televizyon Kurumu Genel Müdürü",
+  "issuer_slug": "turkiye-radyo-televizyon-kurumu-genel-muduru",
+  "path": "regulation/turkiye-radyo-televizyon-kurumu-genel-muduru/2009/13027",
+  "source": "https://www.mevzuat.gov.tr/anasayfa/MevzuatFihristDetayIframe?MevzuatTur=7&MevzuatNo=13027&MevzuatTertip=5",
+  "source_sha256": "6c0ce85337e939de79008d9bd7ad8c9b44ad037bc5d190ab8c6b4b54642f1e74",
+  "source_bytes": 49712,
+  "published": "2009-05-03",
+  "gazette": "27217",
+  "in_force": "2023-01-18",
+  "in_force_basis": "latest Resmî Gazete date printed in the source amendment notes/table (\"RG-18/1/2023\") for the current consolidated text",
+  "date_evidence": [
+    [
+      "2023-01-18",
+      "RG-18/1/2023",
+      "Resmî Gazete date printed in the source amendment note"
+    ],
+    [
+      "2023-01-18",
+      "18/1/2023",
+      "Resmî Gazete date in the source amendment table"
+    ],
+    [
+      "2018-04-07",
+      "RG-7/4/2018",
+      "Resmî Gazete date printed in the source amendment note"
+    ],
+    [
+      "2018-04-07",
+      "7/4/2018",
+      "Resmî Gazete date in the source amendment table"
+    ]
+  ],
+  "commencement_clauses": [
+    "Bu Yönetmelik yayımı tarihinde yürürlüğe girer"
+  ],
+  "history": "current-text",
+  "label": "oldest version available",
+  "checked_on": "2026-11-15",
+  "word_count": 2030,
+  "text_status": "current-consolidated",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  },
+  "completeness": "html-text-complete"
+}
