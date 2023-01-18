@@ -1,0 +1,16 @@
+{
+  "kind": "decision",
+  "issuer": "Sayıştay Temyiz Kurulu",
+  "number": "53172",
+  "decision_date": "2023-01-18",
+  "source_id": 27583,
+  "chamber": "8",
+  "file_number": "50856",
+  "public_body_type": "Düzenleyici ve Denetleyici Kurumlar",
+  "account_year": "2016",
+  "subject": "Personel Mevzuatı ile İlgili Kararlar",
+  "source": "https://www.sayistay.gov.tr/KararlarTemyiz/Detay/27583/",
+  "source_sha256": "64a8d38938960d33b25ed096c61b0337d9af2edd92838d67d4ad12884e85875a",
+  "text_status": "as-enacted",
+  "text_file": "metin.md"
+}
