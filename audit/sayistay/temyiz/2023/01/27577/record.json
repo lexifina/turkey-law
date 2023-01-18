@@ -1,0 +1,16 @@
+{
+  "kind": "decision",
+  "issuer": "Sayıştay Temyiz Kurulu",
+  "number": "53205",
+  "decision_date": "2023-01-18",
+  "source_id": 27577,
+  "chamber": "3",
+  "file_number": "47839",
+  "public_body_type": "Genel Bütçe Kapsamındaki İdareler",
+  "account_year": "2016",
+  "subject": "Personel Mevzuatı ile İlgili Kararlar",
+  "source": "https://www.sayistay.gov.tr/KararlarTemyiz/Detay/27577/",
+  "source_sha256": "0ef9ee20407a831425ab319118372d8a77543731809450936f53c8e6e0b8b692",
+  "text_status": "as-enacted",
+  "text_file": "metin.md"
+}
