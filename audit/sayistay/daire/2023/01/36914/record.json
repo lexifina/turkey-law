@@ -1,0 +1,17 @@
+{
+  "kind": "decision",
+  "issuer": "Sayıştay 1. Dairesi",
+  "number": "10883",
+  "decision_date": "2023-01-19",
+  "source_id": 36914,
+  "chamber": "1",
+  "ilam_number": "85",
+  "item_number": 1,
+  "public_body_type": "Belediyeler ve Bağlı İdareler",
+  "account_year": 2021,
+  "subject": "Personel Mevzuatı ile İlgili Kararlar",
+  "source": "https://www.sayistay.gov.tr/KararlarDaire/Detay/36914/",
+  "source_sha256": "9b90b4af1acfcbb87e70bff4635b8898870985d0c5024474e656d8dfbb2e6d7f",
+  "text_status": "as-enacted",
+  "text_file": "metin.md"
+}
