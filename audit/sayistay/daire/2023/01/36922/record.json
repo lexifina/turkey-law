@@ -1,0 +1,17 @@
+{
+  "kind": "decision",
+  "issuer": "Sayıştay 1. Dairesi",
+  "number": "10885",
+  "decision_date": "2023-01-19",
+  "source_id": 36922,
+  "chamber": "1",
+  "ilam_number": "86",
+  "item_number": 1,
+  "public_body_type": "Yüksek Öğretim Kurumları",
+  "account_year": 2021,
+  "subject": "Personel Mevzuatı ile İlgili Kararlar",
+  "source": "https://www.sayistay.gov.tr/KararlarDaire/Detay/36922/",
+  "source_sha256": "1a29c113850d31a4ffb53c10056404122cd0024747e8e04145eafdee235b61de",
+  "text_status": "as-enacted",
+  "text_file": "metin.md"
+}
