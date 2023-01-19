@@ -1,0 +1,20 @@
+{
+  "applicant": "A.Y.",
+  "application_date": "2019-11-21",
+  "application_number": "2019/38819",
+  "deciding_unit": "Birinci Bölüm",
+  "decision_date": "2023-01-19",
+  "id": "f355d8df-1e1e-c1a1-dd87-5c6bfd5cc2df",
+  "in_force": "2023-01-19",
+  "in_force_basis": "official decision date",
+  "kind": "constitutional-court-individual-application",
+  "omitted_images": 0,
+  "outcome": "Kabul Edilemezlik vd.",
+  "published": null,
+  "referenced_images": 0,
+  "source": "https://kararlarbilgibankasi.anayasa.gov.tr/kbb/pages/search/Tumu?id=a2JiOmYzNTVkOGRmLTFlMWUtYzFhMS1kZDg3LTVjNmJmZDVjYzJkZg&type=BireyselBasvuru",
+  "source_api": "https://kararlarbilgibankasi.anayasa.gov.tr/api/core/public/search",
+  "source_images": 0,
+  "source_sha256": "49b2e983f31e0068f327a2a54fb6301d628c6bd90d92d53a5f7ceaa9fc1467d6",
+  "version_label": "as-enacted"
+}
