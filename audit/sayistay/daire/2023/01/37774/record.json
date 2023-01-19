@@ -1,0 +1,17 @@
+{
+  "kind": "decision",
+  "issuer": "Sayıştay 5. Dairesi",
+  "number": "578",
+  "decision_date": "2023-01-19",
+  "source_id": 37774,
+  "chamber": "5",
+  "ilam_number": "132",
+  "item_number": 89,
+  "public_body_type": "Belediyeler ve Bağlı İdareler",
+  "account_year": 2021,
+  "subject": "İhale Mevzuatı ile İlgili Kararlar",
+  "source": "https://www.sayistay.gov.tr/KararlarDaire/Detay/37774/",
+  "source_sha256": "e0384e7c8e462cf48ca8d469ba3211d0c5422da5b3882bbce8d841746d7d8fe9",
+  "text_status": "as-enacted",
+  "text_file": "metin.md"
+}
