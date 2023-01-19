@@ -1,0 +1,2 @@
+Danışma Kurulu
+MADDE 12 – (1) Danışma Kurulu, Müdürün başkanlığında, her bir fakültenin dekanının, enstitü, yüksekokul ve meslek yüksekokulu müdürünün önereceği birer öğretim elemanı, müdür yardımcıları ve kentteki gönüllü özel ve kamu temsilcilerinden oluşur. Danışma Kurulu üyelerinin görev süresi üç yıldır. Görevi sona eren üye yeniden seçilebilir. Danışma Kurulu, Müdürün çağrısı üzerine yılda en az bir defa toplanır. Herhangi bir nedenle ayrılan üyenin yerine, o üyeyi öneren birimin önerisi üzerine yeni üye göreve başlar.
