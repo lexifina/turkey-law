@@ -1,0 +1,54 @@
+{
+  "source_id": "9.5.11939",
+  "kind": "communique",
+  "register_kind": "Tebliğler",
+  "title": "İTHALATTA GÖZETİM UYGULANMASINA İLİŞKİN TEBLİĞ (TEBLİĞ NO: 2008/5)",
+  "number": "11939",
+  "path": "teblig/2008/11939",
+  "source": "https://www.mevzuat.gov.tr/anasayfa/MevzuatFihristDetayIframe?MevzuatTur=9&MevzuatNo=11939&MevzuatTertip=5",
+  "source_sha256": "afb75f8e4b7598fe9634ad91c4d8b59e681cef3d4d2f60d857b513c5eb4276a0",
+  "source_bytes": 21838,
+  "published": "2008-01-30",
+  "gazette": "26772",
+  "in_force": "2023-01-20",
+  "in_force_basis": "latest Resmî Gazete date printed in the source amendment notes/table (\"RG-20/1/2023\") for the current consolidated text",
+  "date_evidence": [
+    [
+      "2023-01-20",
+      "RG-20/1/2023",
+      "Resmî Gazete date printed in the source amendment note"
+    ],
+    [
+      "2023-01-20",
+      "20/1/2023",
+      "Resmî Gazete date in the source amendment table"
+    ],
+    [
+      "2012-07-11",
+      "RG-11/7/2012",
+      "Resmî Gazete date printed in the source amendment note"
+    ],
+    [
+      "2012-07-11",
+      "11/7/2012",
+      "Resmî Gazete date in the source amendment table"
+    ]
+  ],
+  "commencement_clauses": [
+    "Bu Tebliğ yayımını takip eden 30 uncu gün yürürlüğe girer"
+  ],
+  "history": "current-text",
+  "label": "oldest version available",
+  "checked_on": "2026-11-15",
+  "word_count": 433,
+  "text_status": "current-consolidated",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  },
+  "source_links": [
+    "9.5.11939%20ek.doc"
+  ],
+  "completeness": "html-text-complete; linked annexes not fetched"
+}
