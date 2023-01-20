@@ -1,0 +1,8 @@
+Dayanak
+MADDE 2 – (1) Bu Yönetmelik; (Değişik ibare:RG-20/1/2023-32079) 1 sayılı Cumhurbaşkanlığı Teşkilatı Hakkında Cumhurbaşkanlığı Kararnamesinin 434 üncü maddesine, 11/6/2010 tarihli ve 5996 sayılı Veteriner Hizmetleri, Bitki Sağlığı, Gıda ve Yem Kanununun 4 üncü, 6 ncı ve 22 nci maddelerine dayanılarak ve aşağıdaki AB mevzuatları dikkate alınarak hazırlanmıştır:
+a) Avrupa Birliğine Üçüncü Ülkelerden Gelen Canlı Hayvanların Veteriner Kontrollerinin Organizasyonunu Düzenleyen Prensiplere İlişkin Hükümleri Ortaya Koyan ve 89/662/EEC, 90/425/EEC ve 90/675/EEC sayılı Direktifleri Değiştiren 15/7/1991 tarihli ve 91/496/EEC sayılı Konsey Direktifi,
+b) Avrupa Birliğine Üçüncü Ülkelerden Gelen Ürünlerin Veteriner Kontrollerinin Organizasyonunu Düzenleyen Prensiplere İlişkin Hükümleri Ortaya Koyan 18/12/1997 tarihli ve 97/78/EC sayılı Konsey Direktifi,
+c) İç Pazarın Tamamlanması Açısından Bazı Canlı Hayvanlar ve Ürünlerin Topluluk İçi Ticaretinde Veteriner ve Zooteknik Kontrollerini Ortaya Koyan 1990/425 sayılı Konsey Direktifi,
+ç) İnsan Tüketimi İçin Amaçlanmış Hayvansal Ürünlerin Resmi Kontrollerinin Organizasyonuna İlişkin Kuralları Ortaya Koyan 854/2004 sayılı Avrupa Birliği Parlamentosu ve Konsey Tüzüğünü,
+d) Üçüncü Ülkelerden Topluluğa Giriş Yapan Ürünlerde Yapılacak Veteriner Kontrollerinden Sorumlu Sınır Kontrol Noktalarının Onaylanmasına İlişkin Şartları Ortaya Koyan 812/2001 sayılı Komisyon Kararı,
+e) Topluluğa giriş yapan canlı hayvan ve hayvansal ürünlerin veritabanı için talep edilen minimum verilerin oluşturulmasına ilişkin 6/6/1997 sayılı ve 97/394/EC sayılı Komisyon Kararı.

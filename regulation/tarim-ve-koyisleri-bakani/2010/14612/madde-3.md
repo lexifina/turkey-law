@@ -1,0 +1,20 @@
+Tanımlar
+MADDE 3 – (1) Bu Yönetmelikte geçen;
+a) (Değişik:RG-20/1/2023-32079) Bakanlık: Tarım ve Orman Bakanlığını,
+b) Belge kontrolü: Veteriner Sağlık Sertifikası ve sevkiyata eşlik eden diğer belgelerin kontrolünü,
+c) Bitkisel ürün: Hayvan hastalığı bulaştırma riski olan sap, saman gibi bitkisel ürünleri,
+ç) Canlı hayvan: Suda yaşayan hayvanlar, sürüngenler ve amfibik hayvanlar dahil omurgalı ve omurgasız canlıları,
+d) Fiziksel kontrol: Numune alma ve laboratuvar testlerini de içeren sevkiyatın kendisi üzerinde yapılan kontrolü,
+e) Giriş: Malların Türkiye Gümrük Bölgesine ve serbest bölgelere girişi, ithalatı ve transit rejimine tabi tutulması,
+f) Hayvansal ürün: İnsan tüketimine sunulan hayvansal gıda ve insan tüketimine yönelik olmayan hayvansal yan ürün ve üreme ürünleri dahil tüm hayvansal ürünleri,
+g) Hayvansal yan ürün: Yetiştiricilikte kullanılmayacak olan sperma, ovum, embriyo dahil, insanlar tarafından tüketimi amaçlanmayan hayvan kökenli ürünler veya hayvanların bütün vücut veya parçaları ile artıkları,
+ğ) Kimlik kontrolü: Veteriner sağlık sertifikası ve mevzuatın belirlediği sevkiyata eşlik eden diğer belgelerde beyan edilen bilgilerle sevkiyatın birbirini tutup tutmadığını anlamak amacıyla görsel olarak yapılan kontrolü,
+h) (Değişik:RG-20/1/2023-32079) Merkezi Yetkili Makam: Gıda ve Kontrol Genel Müdürlüğünü,
+ı) Resmi veteriner hekim: 5996 sayılı Kanun kapsamında verilen görevleri Bakanlık adına yapan Bakanlık personeli veteriner hekimi,
+i) Sevkiyat: Aynı tipten olan, aynı veteriner sağlık sertifikası veya veteriner mevzuatının öngördüğü başka bir belgenin eşlik ettiği, aynı nakliye vasıtaları ile taşınan ve aynı yabancı ülkeden/bölgeden gelen bir miktar canlı hayvan, hayvansal ürün ve hayvan hastalığı bulaştırma riski olan sap, saman gibi bitkisel ürünleri,
+j) Tehlike: İnsan ve hayvan sağlığı açısından olumsuz etki yaratma potansiyeli bulunan canlı hayvan, hayvansal ürün ve bazı bitkisel ürünlerin biyolojik, kimyasal veya fiziksel etmenler ile bulaşık olma şüphesi ve varlığını,
+k) Veteriner kontrolü: Veteriner sınır kontrol noktası müdürlüğünde, Merkezi Yetkili Makam tarafından yetkilendirilen ilgili personelin, hayvan ve insan sağlığını doğrudan veya dolaylı olarak korumak amacıyla sınır kontrol noktalarında yürütülen belge, kimlik ve fiziksel kontrolleri kapsayan her türlü resmi kontrolü,
+l) Veteriner Sınır Kontrol Noktası Müdürlüğü: Merkezi Yetkili Makam tarafından yetkilendirilmiş olan canlı hayvan, hayvansal ürünler ve hayvan hastalığı bulaştırma riski olan sap, saman gibi bitkisel ürünlerin ülkeye girişlerinde veteriner kontrollerinin yürütüldüğü gümrüklü saha içindeki doğrudan merkeze bağlı birimi,
+m) Yardımcı sağlık hizmetleri personeli: Bu Yönetmelik uyarınca, gerekli faaliyetleri yerine getirebilecek özelliklere sahip olan, Bakanlık tarafından görevlendirilen ve resmi veteriner hekimin yetki ve sorumluluğu altında çalışan veteriner sağlık teknisyeni, veteriner sağlık teknikeri ve laborantı,
+n) Yükten sorumlu kişi: Gümrük mevzuatı uyarınca, sevkiyat ile ilgili gümrük mevzuatının kapsadığı çeşitli durumların gelişiminden sorumlu gerçek veya tüzel kişi ve ayrıca bu kişinin bu Yönetmelik ile belirlenen kontrolleri ve/veya formaliteleri izleme sorumluluğunu üstlenen temsilcisini,
+ifade eder.

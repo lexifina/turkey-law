@@ -1,0 +1,6 @@
+Veteriner sınır kontrol noktası müdürlüklerinin idari yapısı ve bölümleri
+MADDE 5 – (1) Veteriner sınır kontrol noktası müdürlükleri doğrudan merkeze bağlı taşra birimleri olarak çalışır ve Bakanlığın görevlendireceği bir müdür ve Bakanlığın görevlendireceği sayıda resmi veteriner hekim, veteriner sağlık teknisyeni, laborant, memur, veri hazırlama ve kontrol işletmeni unvanlı personelden oluşur.
+(2) Veteriner sınır kontrol noktası müdürlükleri sevkiyat türlerine göre aşağıdaki birimlerden oluşur.
+a) Veteriner sınır kontrol noktası müdürlüğü canlı hayvanlar, insan tüketimine yönelik olan hayvansal ürünler ve insan tüketimine yönelik olmayan hayvansal ürünler olmak üzere üç gruba ayrılan sevkiyat türlerinden biri ya da birden fazlası için, deniz, kara, demiryolu ve havayolu olarak bulunduğu yerdeki ticaret akışına göre yetkilendirilebilir.
+b) Veteriner sınır kontrol noktası müdürlüğü; idari bölüm, personel odaları, yetkilendirildiği her bir sevkiyat türü için; muayene odası, laboratuvar, yükleme ve boşaltma alanı, oda ısısında, soğutulmuş ve dondurulmuş olmak üzere depolar, dezenfeksiyon odası, atık odası gibi bölümlerden oluşur.
+c) Veteriner sınır kontrol noktası müdürlüğü bünyesinde ihtiyaca göre halihazırda yetkilendirilmiş olduğu sevkiyat türü için yeni çalışma bölümleri oluşturulabilir veya yetkilendirilebilir.
