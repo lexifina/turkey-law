@@ -1,0 +1,12 @@
+{
+  "kind": "decision-metadata",
+  "issuer": "Türkiye Barolar Birliği Disiplin Kurulu",
+  "identifier": "1536",
+  "date": "2023-01-20",
+  "title": "T. 20.01.2023 E. 2023/15 K. 2023/100",
+  "source": "https://www.barobirlik.org.tr/DisiplinKararlariDetay/1536",
+  "listing_source": "https://www.barobirlik.org.tr/DisiplinKararlari?page=20&yil=2023",
+  "listing_sha256": "bba8f6d87dc0d4e763793966af5a9f510ef33a92ef54c2d051475f1c56568d37",
+  "text_status": "metadata-only-personal-data",
+  "personal_data": "metadata and official link only under shard rule for person-naming disciplinary decisions"
+}
