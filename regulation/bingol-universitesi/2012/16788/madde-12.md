@@ -1,0 +1,4 @@
+Öğrenci danışmanlığı ve koordinatörlük
+MADDE 12 – (1) Bölüm/anabilim dalı başkanı ve/veya dekan/müdür tarafından, her sınıf için en az bir danışman/koordinatör görevlendirilir. Bir bölümde yeterli sayıda öğretim elemanı yoksa diğer bölümlerden de, dekanlık/müdürlük tarafından danışman görevlendirilebilir. İhtiyaç duyulması halinde danışmanlar arasında koordinasyonu sağlamak amacıyla bir başdanışman/koordinatör görevlendirilebilir.
+(2) Bölüm/anabilim dalı başkanı ve/veya dekan/müdür tarafından ders ve sınav programlarındaki koordinasyonu sağlamak üzere program koordinatörü görevlendirilir.
+(3) Danışmanlar, öğrencilerin kayıt yenileme işlemlerini ilgili mevzuat hükümlerine göre yapmalarını sağlamakla yükümlüdür. Danışmanlar/koordinatörler, görevlerini Senato tarafından belirlenen esaslar çerçevesinde yürütür. Danışman, öğrencilerine öğrenim süresi boyunca haftada en az iki ders saati zaman ayırır ve bunu ders programında gösterir.

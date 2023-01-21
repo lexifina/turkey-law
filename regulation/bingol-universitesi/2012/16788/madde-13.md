@@ -1,0 +1,3 @@
+Kayıt yenileme
+MADDE 13 – (1) Ders kayıt işlemlerinin tümünden öğrenci sorumludur.
+(2) Kayıt yenileme işlemleri akademik takvimde gösterilen süre içerisinde yapılır. Bu süre içerisinde normal öğrenim süresinde programı tamamlamayan normal öğrenim öğrencileri katkı payını, ikinci öğretim öğrencileri ise ikinci öğretim ücretini ödeyerek öğrenci otomasyon programında o yarıyılda/yılda alabileceği dersleri seçer. Öğrenci otomasyon programı üzerinden ders seçim işlemini yapan öğrenciler, akademik takvimde belirtilen süre içerisinde kayıt yenileme işlemlerinin öğrenci otomasyon programında danışmanları tarafından onaylanmasından sonra dersleri almış olurlar.

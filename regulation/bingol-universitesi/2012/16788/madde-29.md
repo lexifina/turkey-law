@@ -1,0 +1,3 @@
+Sınavlarda kopya
+MADDE 29 – (1) Sınav esnasında veya sınav evrakının incelenmesi sırasında kopya yaptığı, kopya yaptırdığı veya kopya yapılmasına yardım ettiği anlaşılan öğrenci hakkında; ilgili dekanlıkça veya müdürlükçe 18/8/2012 tarihli ve 28388 sayılı Resmî Gazete’de yayımlanan Yükseköğretim Kurumları Öğrenci Disiplin Yönetmeliğine göre işlem yapılır.
+(2) Soruşturma sonuçlanıncaya kadar, hakkında disiplin soruşturması açılan öğrencinin sınav evrakı ile ilgili herhangi bir değerlendirme yapılmaz. Yapılan soruşturma sonucuna göre söz konusu fiili işlediği kesinleşen öğrenci o dersin sınavından başarısız sayılır.

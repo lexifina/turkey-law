@@ -1,0 +1,7 @@
+Diplomalar
+MADDE 43 – (1) Üniversitenin bir fakülte veya yüksekokulunun bir eğitim-öğretim programında almak zorunda oldukları bütün dersleri, uygulamaları, staj ve benzeri çalışmaları başarıyla tamamlayan ve akademik başarı ortalaması en az 60 olan öğrencilere Yükseköğretim Kurulu ve Üniversitelerarası Kurulun tespit ettiği ilkeler doğrultusunda, fakülte, yüksekokul, bölüm, program adı yazılmak suretiyle ilgili diploma verilir.
+(2) Üniversiteyi bitirenlere; öğrenimlerindeki başarı derecesini, devam ettikleri fakülte, yüksekokul, bölüm ve programında aldıkları dersler, proje bitirme ödevi, staj ve klinik gibi çalışmaların içeriklerini gösteren diploma eki ve başarı sonuçlarını gösteren öğrenim belgesi (transkript) verilir.
+(3) Diplomalar hazırlanıncaya kadar öğrenciye diplomasını alırken iade etmek üzere, geçici mezuniyet belgesi verilir. Diplomaların şekli ve üzerinde yer alacak bilgiler Üniversitece belirlenir.
+(4) Diplomanın kaybı halinde bir defaya mahsus olmak üzere diploma, ilk diplomada yer alan bilgileri içeren yeni bir diploma düzenlenir, üzerinde ikinci nüsha olduğu belirtilir.
+(5) Bir lisans programının en az ilk dört yarıyıl veya iki yılının bütün derslerinden başarılı olan öğrencilere, istemeleri halinde ön lisans diploması verilir. Ön lisans diploması almak için yapılacak başvurular her hangi bir süre ile sınırlı değildir. Ön lisans diploması alanların Üniversiteyle ilişiği kesilmiş sayılır.
+(6) İkili anlaşmalar çerçevesinde çift diplomaya yönelik uluslararası ortak programlar Senato tarafından belirlenen esaslara göre yürütülür.

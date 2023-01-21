@@ -1,0 +1,3 @@
+Yabancı dil hazırlık sınıfı
+MADDE 22 – (1) Fakülte/yüksekokulun ilgili kurullarının önerisi, Senatonun kararı ve Yükseköğretim Kurulunun onayı ile Üniversitede yabancı dil hazırlık sınıfı açılabilir. Yabancı dil eğitimi yapan bölüm/anabilim dalı hazırlık sınıfı uygulama esasları, 4/12/2008 tarihli ve 27074 sayılı Resmî Gazete’de yayımlanan Yükseköğretim Kurumlarında Yabancı Dil Öğretimi ve Yabancı Dille Öğretim Yapılmasında Uyulacak Esaslara İlişkin Yönetmelik hükümleri ve Bingöl Üniversitesi Yabancı Diller Yüksekokulu Yabancı Dil Öğrenimi veya Yabancı Dille Öğretim Yönetmelik hükümlerine göre belirlenir.
+(2) Yabancı dil hazırlık sınıfında başarısız olan öğrenciler, Türkçe eğitim yapan aynı adlı yüksek öğretim programlarına ÖSYM tarafından yerleştirilebilir.

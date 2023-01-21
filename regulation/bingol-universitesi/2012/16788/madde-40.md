@@ -1,0 +1,2 @@
+Engelli öğrenciler
+MADDE 40 – (1) Üniversiteye kayıtlı engelli öğrenci, bu Yönetmelikte belirtilen sınavlara girmek zorundadır, ancak öğrencinin performansının en iyi şekilde değerlendirilebilmesi için, dersi veren öğretim elemanının onayı ile sınav yeri, süresi, biçimi değiştirilip öğrenciye uygun hale getirilir. Sınavda kullanılacak özel alfabe, bilgisayar, büyüteç gibi ek gereçler, okumaya ve yazmaya yardımcı kişi veya araçlar sağlanır.

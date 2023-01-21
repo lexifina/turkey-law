@@ -1,0 +1,4 @@
+Sınav programları
+MADDE 24 – (1) Sınav programları, kısa süreli sınavlar hariç, ilgili bölüm/anabilim dalı başkanlığı ve/veya dekanlık/müdürlüklerce hazırlanır ve sınavlardan bir hafta önce ilan edilir. Sınav günleri ve yerleri dekanlığın/müdürlüğün bilgisi dışında değiştirilemez.
+(2) Öğrenciler, ilan edilen gün, saat ve yerde sınava girmek, kimlik belgeleri ile istenecek diğer belgeleri yanlarında bulundurmak zorundadır. Bu şartları yerine getirmeyen öğrenci sınava giremez.
+(3) Bir dersin sınavı o dersi vermekle sorumlu öğretim elemanı tarafından düzenlenir ve yürütülür. Sorumlu öğretim elemanının sınav günü Üniversitede bulunmaması halinde sınavı kimin yapacağı ilgili bölüm/program başkanı tarafından dekanlığa/müdürlüğe bildirilir. Sınavların düzenli şekilde yürütülmesi için birimdeki bütün öğretim elemanları görevlendirilebilir.
