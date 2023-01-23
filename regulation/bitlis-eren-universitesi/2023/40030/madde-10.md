@@ -1,0 +1,3 @@
+Yönetim Kurulu
+MADDE 10- (1) Yönetim Kurulu; Müdürün önerisiyle çevre bilimleri alanında çalışmaları olan öğretim elemanları arasından Rektör tarafından görevlendirilecek dört kişi ve Müdür olmak üzere toplam beş kişiden oluşur. Müdür yardımcıları, Yönetim Kurulu üyesi olmamaları durumunda, oy hakkı olmadan toplantıya katılabilirler. Yönetim Kurulu üyeleri üç yıl için görevlendirilir. Herhangi bir nedenle görevinden ayrılan üyenin yerine kalan süreyi tamamlamak üzere Rektör tarafından yeni bir üye görevlendirilir. Yönetim Kurulu yılda en az bir kez toplanır. Yönetim Kurulu, Müdürün çağrısı ile salt çoğunlukla toplanır ve kararlarını oy çokluğu ile alır.
+(2) Yönetim Kurulu, Merkezin yönetimi ile ilgili konularda Müdüre yardımcı bir organdır.
