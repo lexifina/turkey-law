@@ -1,0 +1,22 @@
+{
+  "kind": "norm",
+  "issuer": "Gelir İdaresi Başkanlığı",
+  "document_type": "ozelge",
+  "number": "13334133-120-1691",
+  "source_id": 21781,
+  "date": "2023-01-24",
+  "title": "Kaportacılık faaliyeti yanında okul servisi taşımacılığı faaliyetine başlanması halinde basit usulde vergilendirmeye devam edip edemeyeceği",
+  "source": "https://gib.gov.tr/mevzuat/kanun/433/ozelge/21781",
+  "related_law": "193 sayılı GELİR VERGİSİ KANUNU",
+  "source_api": "https://gib.gov.tr/api/gibportal/mevzuat/ozelge/list",
+  "source_listing": "evidence/list/2026-11-16/ozelge-p000.json",
+  "source_listing_sha256": "5444faf84128246cd8dd8c6db754d41e2a11c7717342bfe0a07a35074d061761",
+  "source_sha256": "828f7975dd0664570c9fe0825ba84c1e4df456886a3e7c47e738dd423bdbd5cc",
+  "text_status": "as-enacted",
+  "text_file": "metin.md",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  }
+}
