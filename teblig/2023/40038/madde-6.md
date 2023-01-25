@@ -1,0 +1,6 @@
+ÜÇÜNCÜ BÖLÜM
+Feragat Sonucu Mahsup Suretiyle Yapılacak İade İşlemleri
+Hazine payından yapılacak iadeler
+MADDE 6- (1) 406 sayılı Kanunun ek 37 nci maddesine göre Hazine payı ödemekle mükellef işletmecilerin Kanun hükmünden yararlanarak alacaklarının takibinden vazgeçmeleri durumunda, takibinden vazgeçtikleri tutar içinde Hazine payı hesaplanmasını gerektirir alacak bulunması koşuluyla feragat edilen icra dosyasındaki takip tutarı ve/veya bakiye takip tutarının yüzde 18'lik kısmı, feragat tarihini takip eden aydan başlamak üzere ödemeleri gereken Hazine paylarından işletmeci tarafından mahsup edilir.
+(2) Bu madde kapsamındaki işletmeciler, mahsup tarihini takip eden beş iş günü içinde EK-1’de yer alan tabloyu doldurarak VDK tarafından yapılacak denetimlerde ibraz edilmek üzere muhafaza eder. İşletmecilerin kayıtları ile Adalet Bakanlığı Bilgi İşlem Genel Müdürlüğünden entegrasyon kapsamında temin edilen bilgiler arasında uyuşmazlık olması halinde işletmecilerce aksi ispat edilmediği sürece Adalet Bakanlığından temin edilen bilgiler mahsup işleminde esas alınır.
+(3) İşletmeci tarafından fazladan mahsup yapıldığı tespit edilen tutar, 21/7/1953 tarihli ve 6183 sayılı Amme Alacaklarının Tahsil Usulü Hakkında Kanun kapsamında takip ve tahsil edilir.
