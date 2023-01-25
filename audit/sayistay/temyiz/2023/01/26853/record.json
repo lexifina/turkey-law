@@ -1,0 +1,15 @@
+{
+  "kind": "decision",
+  "issuer": "Sayıştay Temyiz Kurulu",
+  "number": "53352",
+  "decision_date": "2023-01-25",
+  "source_id": 26853,
+  "chamber": "5",
+  "file_number": "45350",
+  "account_year": "2017",
+  "subject": "Çeşitli Konuları İlgilendiren Kararlar",
+  "source": "https://www.sayistay.gov.tr/KararlarTemyiz/Detay/26853/",
+  "source_sha256": "1ea5d145703d310286a93f240402b25390b079112d144b0686624b43357ee630",
+  "text_status": "as-enacted",
+  "text_file": "metin.md"
+}
