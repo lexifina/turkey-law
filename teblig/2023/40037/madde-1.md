@@ -1,0 +1,2 @@
+Amaç ve kapsam
+MADDE 1- (1) Bu Tebliğin amacı, Bulgaristan Cumhuriyeti, Fransa Cumhuriyeti ve Kuzey Makedonya Cumhuriyeti menşeli/çıkışlı 5903.20 gümrük tarife pozisyonu altında kayıtlı “mensucat, poliüretanla emdirilmiş, sıvanmış, kaplanmış veya lamine edilmiş-deri taklidi/diğerleri” ithalatında re’sen yapılan incelemeler sonucunda önlemlerin etkisiz kılınmasına karşı soruşturma açılması ve açılan soruşturmanın usul ve esaslarının belirlenmesidir.
