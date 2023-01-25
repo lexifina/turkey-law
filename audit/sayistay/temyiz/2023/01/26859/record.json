@@ -1,0 +1,16 @@
+{
+  "kind": "decision",
+  "issuer": "Sayıştay Temyiz Kurulu",
+  "number": "53358",
+  "decision_date": "2023-01-25",
+  "source_id": 26859,
+  "chamber": "8",
+  "file_number": "49510",
+  "public_body_type": "Belediyeler ve Bağlı İdareler",
+  "account_year": "2019",
+  "subject": "Sorumluluk ve Yargılama Usulleri ile İlgili Kararlar",
+  "source": "https://www.sayistay.gov.tr/KararlarTemyiz/Detay/26859/",
+  "source_sha256": "8a57e3f7136a5d760996a2f84c528098189000f9f3a44cac92ec52d41800c6c8",
+  "text_status": "as-enacted",
+  "text_file": "metin.md"
+}
