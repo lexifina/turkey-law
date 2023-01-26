@@ -1,0 +1,17 @@
+{
+  "kind": "decision",
+  "issuer": "Sayıştay 6. Dairesi",
+  "number": "900",
+  "decision_date": "2023-01-26",
+  "source_id": 36554,
+  "chamber": "6",
+  "ilam_number": "362",
+  "item_number": 1,
+  "public_body_type": "Belediyeler ve Bağlı İdareler",
+  "account_year": 2017,
+  "subject": "İş Mevzuatı ile İlgili Kararlar",
+  "source": "https://www.sayistay.gov.tr/KararlarDaire/Detay/36554/",
+  "source_sha256": "ffce4c850b88ee44ece9686010149e27ebfd436511b2eac1abd8728ce71b2bfa",
+  "text_status": "as-enacted",
+  "text_file": "metin.md"
+}
