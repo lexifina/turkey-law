@@ -1,0 +1,25 @@
+{
+  "kind": "norm",
+  "issuer": "Enerji Piyasası Düzenleme Kurumu",
+  "market": "electricity",
+  "document_type": "board-decision",
+  "number": "11589-1",
+  "decision_date": "2023-01-26",
+  "title": "02.07.2020 tarihli ve 9422 sayılı Kararın yürürlükten kaldırılması hk.",
+  "resmi_gazete_date": "2023-01-27",
+  "resmi_gazete_number": "32086",
+  "categories": [
+    "DUY’un 110 uncu Maddesi Uyarınca KÜPSM ve “n” Katsayısının Belirlenmesi Hakkında Karar"
+  ],
+  "source": "https://www.epdk.gov.tr/Detay/DownloadDocument?id=9uMDLn9sH+I=",
+  "documents": [
+    "https://www.epdk.gov.tr/Detay/DownloadDocument?id=9uMDLn9sH+I="
+  ],
+  "source_sha256": "b968d0510ac69b72c5abb2420cfb7c20b7daf4aee5ffe86f646551de0695fab2",
+  "official_list": "https://www.epdk.gov.tr/Detay/Icerik/3-0-39/kurul-kararlari-",
+  "official_list_leaf": 33865,
+  "text_status": "metadata-only",
+  "metadata_only_reason": "no text layer (image-only PDF; no OCR)",
+  "in_force": "2023-01-26",
+  "law_text_complete": false
+}
