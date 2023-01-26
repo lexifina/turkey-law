@@ -1,0 +1,25 @@
+{
+  "kind": "norm",
+  "issuer": "Enerji Piyasası Düzenleme Kurumu",
+  "market": "electricity",
+  "document_type": "board-decision",
+  "number": "11589-2",
+  "decision_date": "2023-01-26",
+  "title": "DUY’un 110 uncu Maddesi Uyarınca Küpsm Değerinin Ve Küpsm İle Küpst Hesaplamalarında Kullanılacak Katsayıların Belirlenmesi Hakkında Karar",
+  "resmi_gazete_date": "2023-01-27",
+  "resmi_gazete_number": "32086",
+  "categories": [
+    "DUY’un 110 uncu Maddesi Uyarınca KÜPSM ve “n” Katsayısının Belirlenmesi Hakkında Karar"
+  ],
+  "source": "https://www.epdk.gov.tr/Detay/DownloadDocument?id=HcmYCYZbcKU=",
+  "documents": [
+    "https://www.epdk.gov.tr/Detay/DownloadDocument?id=HcmYCYZbcKU="
+  ],
+  "source_sha256": "4324757d28a1f6dbc93bbcbddc292e08c71b1a8b5999f66107a3de4d29b6786d",
+  "official_list": "https://www.epdk.gov.tr/Detay/Icerik/3-0-39/kurul-kararlari-",
+  "official_list_leaf": 33865,
+  "text_status": "metadata-only",
+  "metadata_only_reason": "no text layer (image-only PDF; no OCR)",
+  "in_force": "2023-01-26",
+  "law_text_complete": false
+}
