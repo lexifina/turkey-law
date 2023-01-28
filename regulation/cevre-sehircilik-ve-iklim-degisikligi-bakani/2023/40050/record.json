@@ -1,0 +1,34 @@
+{
+  "source_id": "7.5.40050",
+  "kind": "regulation",
+  "register_kind": "Kurum ve Kuruluş Yönetmelikleri",
+  "title": "BAZI ZARARLI KİMYASALLARIN İHRACATI VE İTHALATI HAKKINDA YÖNETMELİK",
+  "number": "40050",
+  "issuer": "Çevre, Şehircilik ve İklim Değişikliği Bakanı",
+  "issuer_slug": "cevre-sehircilik-ve-iklim-degisikligi-bakani",
+  "path": "regulation/cevre-sehircilik-ve-iklim-degisikligi-bakani/2023/40050",
+  "source": "https://www.mevzuat.gov.tr/anasayfa/MevzuatFihristDetayIframe?MevzuatTur=7&MevzuatNo=40050&MevzuatTertip=5",
+  "source_sha256": "b999ab19b5113893d7ccf1fb289b7e09eb9b46c6d0213e66b626e7b7e398cdbc",
+  "source_bytes": 126556,
+  "published": "2023-01-28",
+  "gazette": "32087",
+  "in_force": "2023-01-28",
+  "in_force_basis": "Resmî Gazete publication date in the official listing (28.01.2023); own commencement article: \"Bu Yönetmelik yayımı tarihinden 6 ay sonra yürürlüğe girer\"",
+  "commencement_clauses": [
+    "Bu Yönetmelik yayımı tarihinden 6 ay sonra yürürlüğe girer"
+  ],
+  "history": "current-text",
+  "label": "oldest version available",
+  "checked_on": "2026-11-15",
+  "word_count": 3863,
+  "text_status": "current-consolidated",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  },
+  "source_links": [
+    "7.5.40050-ek.docx"
+  ],
+  "completeness": "html-text-complete; linked annexes not fetched"
+}

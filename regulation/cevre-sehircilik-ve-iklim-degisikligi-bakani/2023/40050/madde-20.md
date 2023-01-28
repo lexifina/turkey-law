@@ -1,0 +1,5 @@
+Yönetmelik eklerinin güncellenmesi
+MADDE 20- (1) Bakanlık ilgili kurum desteği ile Ek-1 ve Ek-2’de bulunan listeleri Sözleşme kapsamındaki gelişmeleri ve zararlı kimyasallara ilişkin ülke içi yasaklama veya büyük ölçüde kısıtlama tedbirlerini göz önünde bulundurarak gözden geçirir.
+(2) Herhangi bir kimyasalın insan sağlığı ve çevreyi korumak amacıyla bitki koruma ürünü, biyosidal ürün veya sanayi kimyasalı kategorilerden en az birinde ülke içinde yasaklanması veya büyük ölçüde kısıtlanmasına ilişkin tedbir alınması durumunda o kimyasal Ek-1’deki listeye dâhil edilir.
+(3) Herhangi bir kimyasalın insan sağlığı ve çevreyi korumak amacıyla, Sözleşmenin ÖBK usulüne tabi kimyasallar listesine eklenmesi durumunda, o kimyasal Ek-2’deki listeye dâhil edilir.
+(4) Herhangi bir kimyasalın insan sağlığı ve çevreyi korumak amacıyla Kalıcı Organik Kirleticilere İlişkin Stokholm Sözleşmesinin yasaklamaya dair ekine dâhil edilmesi durumunda o kimyasal ihracatı yasak olan kimyasalların bulunduğu Ek-6’daki listeye dâhil edilir.

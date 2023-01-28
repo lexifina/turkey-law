@@ -1,0 +1,6 @@
+İhraç edilecek kimyasallar ile birlikte verilecek bilgiler
+MADDE 16- (1) İhracatı yapılması planlanan ve Ek-1 ve Ek-2’de listelenen kimyasallar, Maddelerin ve Karışımların Sınıflandırılması, Etiketlenmesi ve Ambalajlanması Hakkında Yönetmelik gereğince etiketleme ve ambalajlama hükümlerine tabidir.
+(2) İthalatı yapan taraf veya diğer ülkenin herhangi bir özel gerekliliğinin olmaması durumunda söz konusu etiketleme ve ambalajlama hükümlerine ilişkin birinci fıkra geçerlidir.
+(3) Uygun olduğu takdirde Ek-1 ve Ek-2’de listelenen kimyasalların farklı iklim koşullarındaki de dâhil olmak üzere son kullanma ve üretim tarihleri etikette belirtilir.
+(4) Ek-1 ve Ek-2’de listelenen herhangi bir kimyasalın ihracatı sırasında 23/6/2017 tarihli ve 30105 mükerrer sayılı Resmî Gazete’de yayımlanan Kimyasalların Kaydı, Değerlendirilmesi, İzni ve Kısıtlanması Hakkında Yönetmelik kapsamında hazırlanmış olan bir güvenlik bilgi formu söz konusu kimyasalla birlikte verilir. İhracatçı, söz konusu kimyasalı taraf ülkeye veya diğer ülkeye ithal eden her gerçek veya tüzel kişiye böyle bir güvenlik bilgi formu gönderir.
+(5) Birinci fıkrada belirtilen etikette ve dördüncü fıkrada belirtilen güvenlik bilgi formunda yer alacak bilgiler uygulanabilir olduğu kadarıyla hedef ülkenin veya bölgenin resmi dil veya dillerinde hazırlanmalıdır.
