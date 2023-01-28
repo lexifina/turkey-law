@@ -1,0 +1,1 @@
+MADDE 7 – (1) Madeni yağların ambalajı üzerinde, madeni yağın satışı için sergilenmesinde ve reklamlarında kullanılan metinler, isimler, ticari marka, resimler, figüratif desenler veya diğer şekillerde, yanıltıcı ifadeler kullanılamaz.

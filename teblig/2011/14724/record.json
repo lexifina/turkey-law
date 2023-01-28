@@ -1,0 +1,82 @@
+{
+  "source_id": "9.5.14724",
+  "kind": "communique",
+  "register_kind": "Tebliğler",
+  "title": "MADENİ YAĞLARIN AMBALAJLANMASI VE PİYASAYA SUNUMU HAKKINDA TEBLİĞ",
+  "number": "14724",
+  "issuer": "Enerji Piyasası Düzenleme Kurulu Başkanı",
+  "path": "teblig/2011/14724",
+  "source": "https://www.mevzuat.gov.tr/anasayfa/MevzuatFihristDetayIframe?MevzuatTur=9&MevzuatNo=14724&MevzuatTertip=5",
+  "source_sha256": "25cf8775b61a3d77b3424d375e6594ea6024b3a122c1e19da1fd8d6cada949a2",
+  "source_bytes": 42391,
+  "published": "2011-02-12",
+  "gazette": "27844",
+  "in_force": "2023-01-28",
+  "in_force_basis": "latest Resmî Gazete date printed in the source amendment notes/table (\"RG-28/1/2023\") for the current consolidated text",
+  "date_evidence": [
+    [
+      "2023-01-28",
+      "RG-28/1/2023",
+      "Resmî Gazete date printed in the source amendment note"
+    ],
+    [
+      "2023-01-28",
+      "28/1/2023",
+      "Resmî Gazete date in the source amendment table"
+    ],
+    [
+      "2019-06-21",
+      "RG-21/6/2019",
+      "Resmî Gazete date printed in the source amendment note"
+    ],
+    [
+      "2019-06-21",
+      "21/6/2019",
+      "Resmî Gazete date in the source amendment table"
+    ],
+    [
+      "2014-01-28",
+      "RG-28/1/2014",
+      "Resmî Gazete date printed in the source amendment note"
+    ],
+    [
+      "2014-01-28",
+      "28/1/2014",
+      "Resmî Gazete date in the source amendment table"
+    ],
+    [
+      "2011-12-23",
+      "RG-23/12/2011",
+      "Resmî Gazete date printed in the source amendment note"
+    ],
+    [
+      "2011-12-23",
+      "23/12/2011",
+      "Resmî Gazete date in the source amendment table"
+    ],
+    [
+      "2011-02-24",
+      "RG-24/2/2011",
+      "Resmî Gazete date printed in the source amendment note"
+    ],
+    [
+      "2011-02-24",
+      "24/2/2011",
+      "Resmî Gazete date in the source amendment table"
+    ]
+  ],
+  "history": "current-text",
+  "label": "oldest version available",
+  "checked_on": "2026-11-15",
+  "word_count": 2505,
+  "text_status": "current-consolidated",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  },
+  "source_links": [
+    "9.5.14724%20ek.pdf"
+  ],
+  "completeness": "html-text-complete; linked annexes not fetched"
+}

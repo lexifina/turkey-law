@@ -1,0 +1,1 @@
+MADDE 14 – (1) Madeni yağlar; normal ve üretici tarafından öngörülebilen şartlar altında uygulandığında veya ürünün piyasaya sunumuna, etiketlenmesine ve kullanımına dair açıklamalar veya üretici tarafından sağlanan bilgiler dikkate alınarak önerilen kullanım şartlarına göre uygulandığında, insan ve çevre sağlığına zarar vermeyecek nitelikte olmalıdır.

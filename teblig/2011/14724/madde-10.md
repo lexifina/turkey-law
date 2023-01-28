@@ -1,0 +1,1 @@
+MADDE 10 – (1) Madeni yağ üretim ve/veya satış faaliyetinde bulunan gerçek veya tüzel kişiler, 213 sayılı Vergi Usul Kanunu hükümlerine göre tanzim edecekleri fatura, sevk irsaliyesi vb. belgelerde satışı yapılan madeni yağın adını ve 12 haneli (GTİP) Gümrük Tarife İstatistik Pozisyon numarasını belirtmek zorundadır.

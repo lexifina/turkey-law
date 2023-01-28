@@ -1,0 +1,2 @@
+MADDE 20 – (1) (Değişik:RG-21/6/2019-30808) Piyasaya arz edilen madeni yağların, piyasa gözetim ve denetimi, 5015 sayılı Petrol Piyasası Kanunu, Petrol Piyasası Lisans Yönetmeliği, Petrol Piyasasında Yapılacak Denetimler ile Ön Araştırma ve Soruşturmalarda Takip Edilecek Usul ve Esaslar Hakkındaki Yönetmelik ile bu Tebliğ hükümlerine göre yapılır.
+(2) Bu Tebliğde yer almayan hususlarda, ilgili diğer mevzuat hükümleri uygulanır.
