@@ -1,0 +1,28 @@
+Tanımlar
+MADDE 4 ‒ (1) Bu Yönetmelikte geçen;
+a) Akaryakıt: Benzin türleri, nafta (hammadde, solvent nafta hariç), gazyağı, jet yakıtı, motorin türleri, fuel-oil türleri (Değişik ibare:RG-28/1/2023-32087) , biodizel ile sürdürülebilir havacılık yakıtını,
+b) Başkan: Enerji Piyasası Düzenleme Kurulu Başkanını,
+c) Başkanlık: Enerji Piyasası Düzenleme Kurulu Başkanlığını,
+ç) Daire Başkanı: Denetim Dairesi Başkanını,
+d) Daire Başkanlığı: Denetim Dairesi Başkanlığını,
+e) (Ek:RG-21/6/2019-30808)(1) Geçici durdurma: İhtara rağmen mevzuata aykırılığın giderilmemesi veya ihtara konu fiilin 2 yıl içerisinde tekrar edilmesi veya niteliği itibarıyla faaliyetin durdurulmasını gerektiren fiillerin tespiti durumunda, yürütülen faaliyetin durdurulmasını,
+f) Gözetim Firması: Ulusal marker ekleme işlemlerine nezaret etmek üzere yetki verilen bağımsız gözetim firmasını,
+g) Ham petrol: Yerden çıkarılan sıvı haldeki doğal hidrokarbonları,
+ğ) (Ek:RG-21/6/2019-30808)(1) İhtar: Kurul tarafından belirlenen niteliği itibarıyla düzeltme imkânı olan mevzuata aykırılığın 30 gün içinde düzeltilmesinin veya tekrar edilmemesinin ilgilisine tebliğini,
+h) İlgili mevzuat: Petrol piyasasına ilişkin Kanun, yönetmelik, lisans, tebliğ, genelge ve Kurul kararlarını,
+ı) Kaçak akaryakıt: 21/3/2007 tarihli ve 5607 sayılı Kaçakçılıkla Mücadele Kanunu hükümleri uyarınca kaçak olarak kabul edilen akaryakıtı,
+i) Kanun: 5015 sayılı Petrol Piyasası Kanununu,
+j) Kullanıcı: Petrol kullanımı yapan gerçek ve tüzel kişileri,
+k) Kurum: Enerji Piyasası Düzenleme Kurumunu,
+l) Kurul: Enerji Piyasası Düzenleme Kurulunu,
+m) Madeni yağ: Baz yağına veya kimyasal sentez yöntemi ile işlenen maddelere, bazı katkıların ilavesi sonucu, hareketli ve temas halinde olan iki yüzey arasındaki sürtünme ve/veya aşınmayı azaltma veya soğutma özelliğine sahip mamul haline getirilen doğal veya yapay maddeleri,
+n) Petrol: Akaryakıt, ham petrol ve ürünleri,
+o) Piyasa: Petrolün temini ve satışı, rafinajı, işlenmesi, depolanması, iletimi, ihrakiye teslimi, taşınması, dağıtımı, bayiliği, kullanımı ve bunlarla ilişkili iş ve işlemlerden oluşan piyasayı,
+ö) Şahit numune: Test veya muayene yapılmasının gerekli olduğu hallerde; test, muayene ve/veya belgelendirme kuruluşuna gönderilen numunenin zayi olması veya test sonuçlarına yönelik herhangi bir itiraz olması durumunda başvurulmak üzere denetimle görevli kişi tarafından alınan ve muayeneyi yapan laboratuvarda uygun koşullarda saklanan numuneyi,
+p) Teknik düzenleme: Petrolün ve madeni yağın, ilgili idari hükümler de dahil olmak üzere, standartları, ölçüleri, özellikleri, işleme ve üretim yöntemleri, bunlarla ilgili terminoloji, sembol, ambalajlama, işaretleme, etiketleme ve uygunluk değerlendirmesi işlemleri hususlarından biri veya birkaçını belirten ve uyulması zorunlu olan her türlü düzenlemeyi,
+r) Ulusal marker: Akaryakıta; rafineri çıkışında, gümrük girişinde, sanayide yan ürün olarak veya diğer şekillerde üretilen veya tasfiye edilmiş kaçak akaryakıttan teknik düzenlemelere uygun olan akaryakıta veya benzin türlerine harmanlanacak etanole ticari faaliyete konu edilmeden önce eklenecek ve akaryakıtın özelliklerini bozmayacak niteliği haiz kimyasal ürünü,
+s) (Değişik:RG-4/1/2017-29938) Uzman: 14/7/1965 tarihli ve 657 sayılı Devlet Memurları Kanununun ek 41 inci maddesi, 4628 sayılı Enerji Piyasası Düzenleme Kurumunun Teşkilat ve Görevleri Hakkında Kanunun 9 uncu maddesinin yedinci fıkrası ve 3/9/2015 tarihli ve 29464 sayılı Resmî Gazete’de yayımlanan Enerji Piyasası Düzenleme Kurumu Meslek Personeli Yönetmeliği ile mesleğe girişi, yeterlik sınavı, atanması, yetiştirilmesi, görev, yetki, sorumlulukları düzenlenen ve meslek personeli olan Enerji Uzmanını,
+ş) Uzman Yardımcısı: Enerji Uzman Yardımcısını,
+t) (Ek:RG-4/1/2017-29938) Yönetim Hizmetleri Uzmanı: 28/5/2014 tarihli ve 29013 sayılı Resmî Gazete’de yayımlanan Enerji Piyasası Düzenleme Kurumu Personeli Görevde Yükselme ve Unvan Değişikliği Yönetmeliğinin 5 inci maddesinin birinci fıkrasının (b) bendinin (1) numaralı alt bendinde yer alan personeli,
+ifade eder.
+(2) Bu Yönetmelikte geçmekle birlikte tanımlanmamış diğer terim ve kavramlar ilgili mevzuattaki anlam ve kapsama sahiptir.
