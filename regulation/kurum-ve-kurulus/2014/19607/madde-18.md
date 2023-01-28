@@ -1,0 +1,9 @@
+Görevde yükselme ve unvan değişikliği suretiyle atama
+MADDE 18 – (1) (Değişik:RG-6/2/2015-29259) Görevde yükselme veya unvan değişikliği sınavları sonucunda başarılı olan ve atanmaya hak kazanan personelin, başarı sıralaması listesinin kesinleşmesini müteakip en yüksek puandan başlamak üzere belirlenen başarı sıralamasındaki başarı puanına göre, duyurulan boş kadro sayısı dikkate alınarak en geç otuz gün içinde ataması yapılır.
+(2) Duyurulan kadrolardan;
+a) Atanma şartlarını taşımadıkları için sınavların geçersiz sayılması veya bu nedenle atamaların iptal edilmesi, atanılan göreve geçerli bir mazeret olmaksızın süresi içinde başlanılmaması ya da atanma hakkından vazgeçilmesi,
+b) Emeklilik, ölüm, memurluktan çekilme veya çıkarılma, başka unvanlı kadroya ya da başka bir kuruma naklen atanma,
+nedenleriyle boş kalan veya boşalan kadrolara, başarı sıralamasının (Değişik ibare:RG-6/2/2015-29259) kesinleştiği tarihten itibaren altı aylık süreyi aşmamak üzere aynı unvanlı kadrolar için yapılacak müteakip sınava ilişkin duyuruya kadar, yedekler arasından başarı sıralamasına göre atama yapılabilir.
+(3) Sınavda başarılı olanlardan, atama şartlarını taşımadıkları sonradan anlaşılanlar ile atama yapılıncaya kadar olan dönemde atama şartlarını kaybedenlerin sınavları geçersiz sayılır. Atamaları yapılanların ise atamaları iptal edilir.
+(4) Görevde yükselme sınavına herhangi bir sebeple katılamayanlar ile başarısız olan veya yedeklerden altı ay içindeki müteakip sınava ilişkin duyuruya kadar atanmamış olanlar ya da atanma haklarından herhangi bir sebeple feragat edenler, aynı unvanlı kadrolara yapılacak atamalar için bu Yönetmelikte öngörülen bütün usul ve esaslara tabidir.
+(5) Görevde yükselme ve unvan değişikliği sınavını kazanan adaylardan, atama aşamasında görevden uzaklaştırılmış olanların göreve iade edilinceye kadar atamaları yapılmaz.
