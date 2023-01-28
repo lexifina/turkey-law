@@ -1,0 +1,90 @@
+{
+  "source_id": "7.5.10105",
+  "kind": "regulation",
+  "register_kind": "Kurum ve Kuruluş Yönetmelikleri",
+  "title": "PETROL PİYASASINDA ULUSAL MARKER UYGULAMASINA İLİŞKİN YÖNETMELİK",
+  "number": "10105",
+  "issuer": "Enerji Piyasası Düzenleme Kurulu Başkanı",
+  "issuer_slug": "enerji-piyasasi-duzenleme-kurulu-baskani",
+  "path": "regulation/enerji-piyasasi-duzenleme-kurulu-baskani/2006/10105",
+  "source": "https://www.mevzuat.gov.tr/anasayfa/MevzuatFihristDetayIframe?MevzuatTur=7&MevzuatNo=10105&MevzuatTertip=5",
+  "source_sha256": "24271cce843b8de6a41944ea02a904fe82da946a780a9f3b0a7aa86f4579063e",
+  "source_bytes": 59435,
+  "published": "2006-04-12",
+  "gazette": "26137",
+  "in_force": "2023-01-28",
+  "in_force_basis": "latest Resmî Gazete date printed in the source amendment notes/table (\"RG-28/1/2023\") for the current consolidated text",
+  "date_evidence": [
+    [
+      "2023-01-28",
+      "RG-28/1/2023",
+      "Resmî Gazete date printed in the source amendment note"
+    ],
+    [
+      "2023-01-28",
+      "28/1/2023",
+      "Resmî Gazete date in the source amendment table"
+    ],
+    [
+      "2020-10-24",
+      "RG-24/10/2020",
+      "Resmî Gazete date printed in the source amendment note"
+    ],
+    [
+      "2020-10-24",
+      "24/10/2020",
+      "Resmî Gazete date in the source amendment table"
+    ],
+    [
+      "2018-12-28",
+      "RG-28/12/2018",
+      "Resmî Gazete date printed in the source amendment note"
+    ],
+    [
+      "2018-12-28",
+      "28/12/2018",
+      "Resmî Gazete date in the source amendment table"
+    ],
+    [
+      "2018-02-17",
+      "RG-17/2/2018",
+      "Resmî Gazete date printed in the source amendment note"
+    ],
+    [
+      "2018-02-17",
+      "17/2/2018",
+      "Resmî Gazete date in the source amendment table"
+    ],
+    [
+      "2015-06-12",
+      "RG-12/6/2015",
+      "Resmî Gazete date printed in the source amendment note"
+    ],
+    [
+      "2015-06-12",
+      "12/6/2015",
+      "Resmî Gazete date in the source amendment table"
+    ],
+    [
+      "2013-07-19",
+      "RG-19/7/2013",
+      "Resmî Gazete date printed in the source amendment note"
+    ],
+    [
+      "2013-07-19",
+      "19/7/2013",
+      "Resmî Gazete date in the source amendment table"
+    ]
+  ],
+  "history": "current-text",
+  "label": "oldest version available",
+  "checked_on": "2026-11-15",
+  "word_count": 1716,
+  "text_status": "current-consolidated",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  },
+  "completeness": "html-text-complete"
+}
