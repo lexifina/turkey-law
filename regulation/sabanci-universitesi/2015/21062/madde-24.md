@@ -1,0 +1,2 @@
+Notların açıklanması ve not belgeleri
+MADDE 24 – (1) Öğretim üyeleri tarafından akademik takvimde belirtilen süre içinde verilen notlar, Öğrenci Kaynakları Biriminin sorumluluğunda olan öğrenci kayıtlarına işlendikten sonra, akademik durumu belirten dönem karnesi ile açıklanır. SÜ’de öğrenim gören tüm öğrencilerin Üniversiteye ilk kayıt yaptırdıkları tarihten başlayarak, öğrenimleri süresince aldıkları dersler, notları ve akademik durumları transkript üzerinde gösterilir ve bu belge öğrencinin talebi üzerine Öğrenci Kaynakları Birimi tarafından düzenlenir.

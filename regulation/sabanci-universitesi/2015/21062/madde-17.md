@@ -1,0 +1,2 @@
+Zorunlu, seçmeli ve ön koşul dersler
+MADDE 17 – (1) Lisans diploma programlarında verilen dersler zorunlu ve seçmeli olarak iki gruba ayrılır. Öğrenciler, kayıtlı oldukları diploma programının zorunlu derslerini almakla yükümlüdür. Seçmeli dersler, öğrencinin ilgi alanları doğrultusunda alabileceği derslerdir. Ön koşulu bulunan bir dersin alınabilmesi için ön koşul dersinin başarılmış olması ya da dersi veren öğretim üyesinin onayı gerekir. Ön koşul dersleri, ilgili fakülte kurulu tarafından belirlenir.

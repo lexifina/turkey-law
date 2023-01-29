@@ -1,0 +1,2 @@
+İngilizce dil ölçme sınavı
+MADDE 11 – (1) SÜ lisans diploma programlarına ÖSYM tarafından yapılan merkezi sınav ile kabul edilen tüm öğrenciler, SÜ İngilizce dil ölçme sınavına girerler. Bu sınavda yeterli başarıyı gösteremeyen veya bu sınava girmeyen öğrenciler ile SÜ tarafından eşdeğerliliği kabul edilen ulusal ve/veya uluslararası yabancı dil sınavlarının birinden yine SÜ tarafından belirlenen düzeyde başarılı olduğunu belgeleyemeyen öğrenciler temel geliştirme yılına kayıt yaptırır.

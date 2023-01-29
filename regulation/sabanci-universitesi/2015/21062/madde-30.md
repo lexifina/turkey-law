@@ -1,0 +1,7 @@
+Ders tekrarı
+MADDE 30 – (1) Öğrenciler daha önce geçer not almış oldukları dersi, aldıkları dönemi izleyen en çok üç dönem içerisinde tekrarlayabilirler. Dönem sayısı hesabına öğrencinin izinli olduğu dönemler ve yaz dönemleri katılmaz.
+(2) Tekrarlanan ders doğrudan daha önce alınan dersin yerine sayıldığından, bu konuda öğrencilerin ayrıca bir işlem yapması gerekmez.
+(3) Daha önce aldığı derslerden “F”, “U”, “NA” veya “W” notu alan öğrencilerin ders tekrarında aşağıdaki hususlar dikkate alınmalıdır:
+a) Birinci sınıfta verilen Üniversite derslerinin, Akademik Kurul Kararı ile aksi belirlenmedikçe, verildiği ilk dönemde alınması gerekir. Üniversite dersleri dışındaki dersler, herhangi bir dönemde tekrar alınabilir.
+b) Programın zorunlu derslerinin, Akademik Kurul Kararı ile aksi belirlenmedikçe, mezuniyete kadar tekrar edilerek başarılması gerekir. Öğrenciler, seçmeli ya da sonradan programdan çıkartılan derslerin yerine danışmanları tarafından uygun görülen başka dersleri alabilirler. Kayıtlı olduğu diploma programındaki tüm dersleri başarı ile tamamlamış ve diğer mezuniyet gereklerini yerine getirmiş öğrencilerin ders tekrarı yapmaları gerekmez.
+(4) Tekrarlanan derslerde, daha önce alınmış olan dersin toplam puanı, genel not ortalaması hesaplarından düşürülür ve en son dersin toplam puanı, genel not ortalaması hesaplamalarına katılır; ancak öğrencinin kayıt yaptırdığı tüm dersler transkriptte gösterilir.

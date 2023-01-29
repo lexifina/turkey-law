@@ -1,0 +1,3 @@
+İzin başvurusu
+MADDE 41 – (Değişik:RG-29/1/2023-32088)
+(1) İzin almak isteyen öğrenciler, izin gerekçesine ilişkin belgeleri de ekleyerek bir dilekçe ile derslerin başlamasını takip eden 4 üncü haftanın son iş gününe kadar, ilgili fakülte dekanlığına başvurur. İzin talebi, fakülte yönetim kurulu tarafından yapılan inceleme ve karar ile sonuçlandırılır. İzin talebinin uygun görülmesi halinde, fakülte yönetim kurulu tarafından kararın onaylandığı tarih, izin süresinin başlangıcı olarak kabul edilir. Derslerin başlamasını takip eden 4 üncü haftanın son iş gününden sonra gelen izin talepleri değerlendirmeye alınmaz. Mücbir bir durumun oluşması halinde talep Akademik Kurulun görüşüne sunulur.

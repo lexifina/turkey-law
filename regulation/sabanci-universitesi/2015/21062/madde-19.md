@@ -1,0 +1,4 @@
+Ders yükü
+MADDE 19 – (1) Ders yükü, bir öğrencinin herhangi bir dönemde aldığı derslerin toplam SÜ kredisi değeridir.
+(2) (Değişik:RG-13/10/2019-30917) Sonbahar ve ilkbahar dönemlerinde alınabilecek ders yükü 20 SÜ kredisi, isteğe bağlı yaz döneminde ise 8 SÜ kredisidir. Ancak öğrenciler durumlarına ve diploma programı gereklerine göre istedikleri takdirde bu ders yüklerinin altında ders alabilirler.
+(3) (Değişik:RG-13/10/2019-30917) Öğrenim süresinin altıncı dönemini tamamlamış olup, başvurduğu dönem itibarıyla isteğe bağlı yaz dönemi dâhil, toplam üç dönem içinde ders yükü arttırımı yaparak, kredi ve ders bakımından mezuniyet yükümlülüğünü tamamlayabilecek olan öğrenciler; ders kayıtları sırasında yazılı taleplerini kayıtlı oldukları fakültelere ileterek, ders yüklerini danışmanlarının görüşü ve fakülte yönetim kurulu kararı ile sonbahar ve ilkbahar dönemlerinde en fazla bir ders, isteğe bağlı yaz döneminde ise 10 SÜ kredisine kadar arttırabilirler.

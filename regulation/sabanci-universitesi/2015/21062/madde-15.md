@@ -1,0 +1,2 @@
+Danışmanlık
+MADDE 15 – (1) Her öğrenciye, Üniversiteye ilk kaydını yaptırdıktan sonra danışman atanır. Danışmanın görevi; öğrencinin ilgi ve yeteneklerini ortaya çıkartmak, öğreniminin devamında izleyeceği diploma alanını bilinçli olarak seçmesi konusunda yol göstermek, akademik durumunu izlemek, kayıt, ders ekleme-bırakma, ders saydırma ve dersten çekilme işlemlerinde mezuniyete kadar rehberlik etmektir.

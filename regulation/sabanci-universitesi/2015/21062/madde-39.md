@@ -1,0 +1,2 @@
+İzinli sayılma gerekçeleri
+MADDE 39 – (1) Öğrenciler; belgelemek koşulu ile sağlık, maddi, aile, kişisel, akademik, beklenmedik zorunlu olaylar gibi nedenlerle dönem izni için başvurabilirler. Gözaltına alınan veya tutuklanan öğrencilerden, gözaltı ve tutukluluk halinin takipsizlik ile sonuçlanması ya da üzerine atılı suç nedeniyle beraat edenler, bu durumları sona erdikten sonra; izin başvurusu yaparak, gözaltı ve tutukluluk halinde geçen süre için Üniversite Yönetim Kurulu kararı ile izinli sayılabilirler.

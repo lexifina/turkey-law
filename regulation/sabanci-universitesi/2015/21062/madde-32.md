@@ -1,0 +1,9 @@
+Azami öğrenim süresi sonunda sınav hakları ve devam koşulları
+MADDE 32 – (1) Bu Yönetmeliğin 7 nci maddesinde belirtilen azami öğrenim süresi sonunda; mezuniyet için gereken ders yükümlülüklerini tamamlamış ancak genel ve program not ortalaması nedeniyle mezun olamayan öğrencilere, aşağıdaki koşullarda sınav hakkı verilir:
+a) Diledikleri derslerden sınırsız sınav hakkı tanınır. Sınavına girilmek istenen dersler, daha önce alınmamış dersler ile uygulamalı dersler ise; ilgili derslere, dönem kayıtları kapsamında kayıt olunması gerekir.
+(2) Bu Yönetmeliğin 7 nci maddesinde belirtilen azami öğrenim süresi sonunda; mezuniyet için gereken derslerin tamamına kayıt olmasına rağmen, bu dersleri başarıyla tamamlayamaması nedeniyle mezun olamamış dördüncü sınıf öğrencilerine, aşağıdaki koşullarda sınav hakkı ve ek süre verilir:
+a) Başarısız olduğu bütün derslerden iki ek sınav hakkı tanınır.
+b) Bu Yönetmeliğin 32 nci maddesinin ikinci fıkrasının (a) bendinde belirtilen sınavlara katılım sonucunda, mezun olabilmek için başarısız ders sayısını 5’e indirenlere üç dönem ek süre verilir.
+c) Bu Yönetmeliğin 32 nci maddesinin ikinci fıkrasının (a) bendinde belirtilen sınav haklarını kullanmadan mezun olabilmek için başarısız ders sayısı en fazla 5 olan öğrencilere dört dönem ek süre verilir.
+ç) Bu Yönetmeliğin 32 nci maddesinin ikinci fıkrasının (a) bendinde belirtilen sınavlara katılarak veya katılmadan mezun olabilmek için başarısız tek dersi kalan öğrencilere ise, öğrencilik hakkından yararlanmaksızın sınırsız, başarısız oldukları dersin sınavına girme hakkı tanınır.
+(3) Bu Yönetmeliğin 7 nci maddesinde belirtilen azami öğrenim süresi sonundaki öğrenim ve sınav hakları kapsamında; derse devam edilebilecek öğrenciler; Üniversite tarafından belirlenen ödemekle yükümlü oldukları dönem öğrenim ücreti ile Üniversitenin imkanlarından yararlanmak için gerekli ücretleri ödedikten sonra dönem kayıtlarını yenilemek zorundadırlar.
