@@ -1,0 +1,3 @@
+Ücretler
+MADDE 31 – (1) Yıllık ücretler, her akademik yıl için Mütevelli Heyeti tarafından belirlenir. Öğrenim ücretini ve Üniversitenin olanaklarından yararlanmak için ödenmesi gereken ücretleri, her dönem başında belirlenen süreler içinde ödemeyen öğrencilerin dönem kayıtları yapılmaz. Disiplin suçu nedeniyle Üniversiteden uzaklaştırma cezası alan öğrencilerin de ödemekle yükümlü oldukları dönem öğrenim ücretini ödemeleri gerekir. Bu öğrencilere herhangi bir ücret iadesi yapılmaz.
+(2) (Ek:RG-25/8/2015-29456) Azami öğrenim süresi sonrasındaki süreçlerde uygulanacak ücretler Mütevelli Heyeti tarafından belirlenir.

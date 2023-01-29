@@ -1,0 +1,3 @@
+Sınav sonuçlarına itiraz
+MADDE 16 – (Değişik:RG-26/7/2020-31197)
+(1) Öğrenciler, ELAE sonuçlarının ilanından itibaren en geç üç iş günü içinde; ara sınav, dönem sonu sınavı, değerlendirmeye tabi tutulan tüm çalışmaların sonuçlarının ilanından itibaren en geç beş iş günü içinde Diller Okulu direktörlüğüne yazılı olarak başvurmak suretiyle, sınav kağıdının tekrar incelenmesini isteyebilirler. Diller Okulu direktörlüğü, dilekçenin alınmasından itibaren en geç on iş günü içerisinde sınav kağıdını inceleyerek, maddi hata tespit ettiği takdirde sonucu, Diller Okulu Kurul Kararı ile öğrenciye ve Öğrenci Kaynakları Birimine bildirir. Notlarda yapılacak düzeltme, 19 uncu madde esasları çerçevesinde gerçekleştirilir.
