@@ -1,0 +1,4 @@
+Öğretim planı
+MADDE 15- (1) Öğretim planı; açılan diploma programlarının Senato tarafından onaylı öğretim programlarında yer alan ilgili dönem/yıl esasına göre açılacak dersleri, görevlendirilen öğretim elemanlarını, dönemde/yılda alınabilecek asgari ve toplam kredi miktarlarını, derslerin ön koşul ve bağlantı koşullarını ve kontenjanları içerir.
+(2) Her birim, bünyesindeki tüm diploma programları için ilgili dönem/yıl öncesinde, öğretim planı ile ilgili öğretim elemanı görevlendirmelerini bölüm/ana bilim dalı/ana sanat dalı kurulu ve birim yönetim kurullarında kararlaştırarak onay için Rektörlüğe gönderir.
+(3) Birimlerin öğretim planlarına göre hazırlanan haftalık ders programları, akademik takvime göre eğitim-öğretim döneminin/yılının başlamasından en geç on beş gün öncesinden hazırlanarak öğrenci işleri otomasyon sistemine işlenir.

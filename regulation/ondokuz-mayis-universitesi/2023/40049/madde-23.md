@@ -1,0 +1,4 @@
+Muafiyet sınavı
+MADDE 23- (1) Öğrenciler; yabancı dil derslerinden muaf olabilmek için, akademik takvimde belirlenen tarihte, merkezi olarak yapılan muafiyet sınavına tabi tutulur. Sınavların değerlendirilmesi, 29 uncu maddeye göre yapılır. Yapılan sınavda yeterli başarıyı gösteren öğrenciler, öğretim planında öngörülen krediyi tamamlamış sayılarak bu derslerden muaf tutulur ve sınavdan aldıkları puanları başarı puanı olarak kaydedilir. Yatay ve dikey geçişle gelen öğrencilerin muafiyetleri, Senato tarafından belirlenen esaslara göre ilgili komisyonlarca yapılır.
+(2) Hazırlık sınıfında yabancı dil eğitimi alan öğrenciler, en az B2 düzeyindeki başarılarını belgelendirmeleri hâlinde; diğer öğrenciler ise B1 düzeyindeki başarılarını belgelendirmeleri hâlinde yabancı dil derslerinden muafiyet hakkı kazanır.
+(3) Öğrenciler, ana dillerinden yabancı dil muafiyet başvurusu yapamaz.

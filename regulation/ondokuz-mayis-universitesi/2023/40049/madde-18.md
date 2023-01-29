@@ -1,0 +1,2 @@
+Derslerin kredi değeri
+MADDE 18- (1) Bir dersin kredi değeri, o dersin haftalık teorik ders saatlerinin tamamı ile uygulama, laboratuvar, atölye, klinik çalışması ve diğer etkinliklerin haftalık saatlerinin yarısının toplamını ifade eder. Her dersin kredisi, öğretim programında belirtilir. Ders kredileri, ilgili birim kurulunun önerisiyle Senato tarafından belirlenir. Üniversitede kredi sistemi olarak AKTS ve ulusal kredi sistemi birlikte kullanılır.

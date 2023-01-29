@@ -1,0 +1,2 @@
+Yatay geçişler, çift ana dal, yan dal
+MADDE 11- (1) Diğer yükseköğretim kurumlarından Üniversiteye yatay geçişler ile kurum içi yatay geçiş, çift ana dal ve yan dal uygulamaları; 24/4/2010 tarihli ve 27561 sayılı Resmî Gazete’de yayımlanan Yükseköğretim Kurumlarında Önlisans ve Lisans Düzeyindeki Programlar Arasında Geçiş, Çift Anadal, Yan Dal ile Kurumlar Arası Kredi Transferi Yapılması Esaslarına İlişkin Yönetmelik, YÖK ve Senato kararlarına göre yürütülür. Bu öğrencilerin eğitim programlarına intibakları, ilgili birim yönetim kurulunca yapılır.

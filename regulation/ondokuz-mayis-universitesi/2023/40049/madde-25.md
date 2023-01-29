@@ -1,0 +1,6 @@
+Sınavların yapılış şekli
+MADDE 25- (1) Sınavların yüz yüze ve yazılı olarak yapılması esastır. Bununla birlikte dersin özelliği nedeniyle sınavın sözlü, uygulamalı ya da yazılı/sözlü/uygulamalı olarak karma biçimde yapılmasına öğretim elemanının önerisi ile birim akademik kurulu karar verir. Sözlü sınavlar, ders vermeye yetkili en az iki öğretim elemanı ile yapılır; ancak yeterli öğretim elemanının bulunmadığı durumlarda birim yönetim kurulu kararı ile kamera kaydı altına alınarak tek bir öğretim elemanı tarafından da yapılabilir. Öğrenci, bir günde o döneme/yıla ait en fazla iki dersin sınavına alınabilir. Uzaktan eğitim programlarındaki derslerle Atatürk İlkeleri ve İnkılap Tarihi, Türk dili, yabancı dil ile iş sağlığı ve güvenliği dersleri ve mazeret sınavları bu kapsamda değerlendirilmez.
+(2) Sınıf geçme sistemi uygulanan fakültelerde yapılacak sınavların sayısı, ilanı, uygulama ve değerlendirme usulleri; Senato tarafından belirlenir.
+(3) Öğrenciler, sınavlara ilan edilen gün, saat ve yerde girmek ve öğrenci kimlik belgesi ile istenen diğer belgeleri ibraz etmek zorundadır.
+(4) Sınav kâğıtları, ilgili birim arşivinde en az iki yıl süreyle saklanır.
+(5) Uzaktan eğitim ön lisans, lisans tamamlama ve lisans öğrencilerinin dönem içi sınavlarının nasıl yapılacağına Senato tarafından karar verilir.

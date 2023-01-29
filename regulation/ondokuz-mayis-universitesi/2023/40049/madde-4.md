@@ -1,0 +1,23 @@
+Tanımlar
+MADDE 4- (1) Bu Yönetmelikte geçen;
+a) Akademik kurul: İlgili bölüm/ana bilim/ana sanat dalında görevli tüm öğretim elemanlarından oluşan kurulları,
+b) Avrupa kredi transfer sistemi (AKTS): Öğrencilerin yurt içinde ve/veya yurt dışında alıp başarılı oldukları ders kredilerinin/notlarının bir yükseköğretim kurumundan diğerine transferini sağlayan iş yüküne dayalı sistemi,
+c) Bağıl değerlendirme sistemi: Öğrencilerin laboratuvar, ödev ve benzeri dönem içi çalışmaları ile ara sınav, dönem sonu sınavı ve bütünleme sınavı notlarının ağırlıklarına göre belirlenen başarı not ortalamasını, o dersi alan öğrencilerin başarı düzeyine göre belirleyen sistemi,
+ç) Birim: Ondokuz Mayıs Üniversitesine bağlı fakülte/yüksekokul/konservatuvar/meslek yüksekokulunu,
+d) Birim kurulu: İlgili fakülte/yüksekokul/konservatuvar/meslek yüksekokulu kurullarını,
+e) Birim yönetim kurulu: İlgili fakülte/yüksekokul/konservatuvar/meslek yüksekokulu yönetim kurullarını,
+f) Danışman: Öğrencilerin Ondokuz Mayıs Üniversitesindeki eğitim ve öğrenimleriyle ilgilenmek üzere görevlendirilen öğretim elemanını,
+g) Ders yeterlik ve intibak komisyonu: Ders yeterlikleri ve intibaklarıyla ilgili uygulamaları yürütmek üzere kurulan komisyonu,
+ğ) Dönem: Eğitim-öğretim yılının her bir yarı yılını, yıllık eğitim yapan birimlerde ise her bir eğitim-öğretim yılını,
+h) Genel ağırlıklı not ortalaması (GANO): Her bir dersten elde edilen başarı notu katsayısıyla o dersin ulusal kredisinin çarpılmasıyla bulunan sonuçların alınan tüm derslerin toplam ulusal kredisine bölünmesi ile bulunacak değeri,
+ı) Kanun: 4/11/1981 tarihli ve 2547 sayılı Yükseköğretim Kanununu,
+i) Öğretim elemanı: Yükseköğretim kurumlarında görevli öğretim üyeleri, öğretim görevlileri ve araştırma görevlilerini,
+j) ÖSYM: Ölçme, Seçme ve Yerleştirme Merkezi Başkanlığını,
+k) Rektör: Ondokuz Mayıs Üniversitesi Rektörünü,
+l) Senato: Ondokuz Mayıs Üniversitesi Senatosunu,
+m) Sınav inceleme komisyonu: Bölüm veya programlarda görevli ve/veya gerektiğinde bölüm veya program dışından ilgili birim amirlerince görevlendirilen öğretim elemanlarından oluşturulan komisyonu,
+n) Üniversite: Ondokuz Mayıs Üniversitesini,
+o) Üniversite Yönetim Kurulu: Ondokuz Mayıs Üniversitesi Yönetim Kurulunu,
+ö) Yaz dönemi: Ondokuz Mayıs Üniversitesinde ön lisans, lisans ve lisansüstü programların bir eğitim-öğretim yılının güz ve bahar dönemleri dışında kalan ve yaz aylarında uygulanan eğitim-öğretim dönemini,
+p) YÖK: Yükseköğretim Kurulunu,
+ifade eder.
