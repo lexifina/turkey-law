@@ -1,0 +1,31 @@
+{
+  "act_path": "regulation/university/adana-bilim-ve-teknoloji-universitesi/2013/17078",
+  "availability": "text",
+  "checked_on": "2026-11-14",
+  "commencement_clauses": [
+    "MADDE 18 – (1) Bu Yönetmelik yayımı tarihinde yürürlüğe girer."
+  ],
+  "date_quote": "RG-30/1/2023",
+  "first_law": null,
+  "gazette": "28544",
+  "history": "current-text",
+  "images": {
+    "deferred": 0,
+    "omitted": 0,
+    "referenced": 0,
+    "source": 0
+  },
+  "in_force": "2023-01-30",
+  "in_force_basis": "latest source-printed amendment Gazette date; current consolidated text",
+  "issuer": "Adana Bilim ve Teknoloji Üniversitesi",
+  "issuer_slug": "adana-bilim-ve-teknoloji-universitesi",
+  "kind": "regulation",
+  "published": "2013-01-30",
+  "source": "https://www.mevzuat.gov.tr/anasayfa/MevzuatFihristDetayIframe?MevzuatTur=8&MevzuatNo=17078&MevzuatTertip=5",
+  "source_id": "8.5.17078",
+  "source_sha256": "8a76a6b7f5570a807b1c27e253f99357d6e885173817340a2069423b040644e0",
+  "title": "ADANA ALPARSLAN TÜRKEŞ BİLİM VE TEKNOLOJİ ÜNİVERSİTESİ SÜREKLİ EĞİTİM UYGULAMA VE ARAŞTIRMA MERKEZİ YÖNETMELİĞİ",
+  "university_id": 407,
+  "version_label": "oldest version available",
+  "word_count": 1375
+}
