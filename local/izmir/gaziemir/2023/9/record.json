@@ -1,0 +1,29 @@
+{
+  "number": "9",
+  "number_as_published": "09",
+  "year": 2023,
+  "month": 1,
+  "title": "09 NOLU KARAR OCAK 2023 İmar müdürlüğü tarife cetveli",
+  "decision_date": null,
+  "index_date": "2023-01-31",
+  "date_precision": "month",
+  "period": "Ocak 2023",
+  "source": "https://www.gaziemir.bel.tr/meclis-karar-ve-ozetleri.php?sayfa=19",
+  "official_page": "https://www.gaziemir.bel.tr/meclis-karar-ve-ozetleri.php?sayfa=19",
+  "official_document": "https://api.gaziemir.bel.tr/upload_meclis/a8ee031b2dee8f839d677fd7399bba39a8ee031b2dee8f839d677fd7399bba39.doc",
+  "source_sha256": "17943d2a200ac0b2fd46ed446d3c6d129e9a54e6d63b597edb0833b9b51799fc",
+  "issuer": "Gaziemir Belediye Meclisi",
+  "history_type": "metadata",
+  "text_status": "metadata-only: number and subject as published in the official listing; complete decision text is in the linked official page/document, not transcribed",
+  "in_force": "2023-01-31",
+  "in_force_basis": "The official listing gives only the month of this decision (Ocak 2023); date set to the last day of that month (turkey-law date convention for month-only sources); exact adoption dates are in the linked official document; legal commencement not asserted",
+  "missing": [
+    "exact decision date",
+    "complete official decision text",
+    "official annexes"
+  ],
+  "law_text_complete": false,
+  "privacy_withheld": false,
+  "posting_date": "16.01.2023",
+  "record_scope": "one council decision (number and month as listed; year from the posting date)"
+}
