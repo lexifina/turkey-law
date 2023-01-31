@@ -1,0 +1,10 @@
+ÜÇÜNCÜ BÖLÜM
+Eşyaların Nakilleri ve Tutuklular Hakkında Uygulanacak Hükümler
+Eşyaların nakilleri
+Madde 17 — Hükümlüyü başka bir ceza infaz kurumuna nakleden ceza infaz kurumu, hükümlünün eşyalarını, eşya teslim tutanağına ayrıntılı bir şekilde kaydeder ve bu eşyalardan hangilerinin hükümlünün koğuş veya odasında bulundurulmasına izin verildiğini belirtir.
+Hükümlünün naklen geldiği ceza infaz kurumunun koğuş veya odasında bulundurulması mümkün olmayan eşyaları kuruma kabul edilmez ve ailesine iade edilmek üzere tutanakla muhafaza altına alınır.
+(Ek üçüncü fıkra:RG-31/1/2023-32090) Hükümlünün kendi isteğiyle nakli dışındaki diğer nakillerde, bu Yönetmelikte sayılan eşya ile 15 inci maddenin birinci fıkrasında sayılan evcil hayvanların yanında gönderilmesi sağlanır. Bunun mümkün olmaması halinde kitap, kıyafet gibi şahsi kullanıma özgülenmiş eşya ile 50 kilogramı geçmeyen diğer eşyanın gönderilme ücreti kurum bütçesinden, bu miktarı aşan kısmına ait ücret ise hükümlü tarafından karşılanır.
+(Ek dördüncü fıkra:RG-31/1/2023-32090) Hükümlünün kendi isteğiyle naklinde, nakil sırasında gönderilemeyen ve daha sonra kargo yoluyla gönderilmek zorunda kalınan eşyaya ait masraflar hükümlü tarafından karşılanır.
+(Ek beşinci fıkra:RG-31/1/2023-32090) Çocuk hükümlüler ile 28/3/2020 tarihli ve 2324 sayılı Cumhurbaşkanı Kararı ile yürürlüğe konulan Ceza İnfaz Kurumlarının Yönetimi ile Ceza ve Güvenlik Tedbirlerinin İnfazı Hakkında Yönetmeliğin 127 nci maddesinin ikinci fıkrası uyarınca maddi durumunun yetersiz olduğu tespit edilen hükümlülerin eşya gönderim giderleri kurum bütçesinden karşılanır.
+(Ek altıncı fıkra:RG-31/1/2023-32090) Sevk ve nakiller sırasında hükümlünün yazılı talebi olması durumunda kurum idaresinde kayıt altında bulunan ruhsatlı silah ve mermiler hükümlünün gittiği kuruma teslim edilmek üzere jandarma tarafından teslim alınır.
+(Ek yedinci fıkra:RG-31/1/2023-32090) Hükümlünün, hekim raporu doğrultusunda düzenli olarak kullanması gereken ilaçların kullanımının sevk ve nakil sırasında aksamaması konusunda gerekli tedbirler alınır.

@@ -1,0 +1,8 @@
+Elektrikli eşyalar
+Madde 9 — (Değişik:RG-31/1/2023-32090)
+Koğuş, oda ve eklentilerinde, kurumun elektrik tesisatı, fiziki koşulları ile odanın mevcudu dikkate alınmak suretiyle, kantinden temin edilen; HDMI/SCART/USB ve benzeri veri depolama veya aktarma girişi olmayan, dâhili uydu alıcısı ve bilgisayar sistemi ile tümleşik özelliği bulunmayan televizyon ile buzdolabı, saç kurutma makinesi, idare tarafından uygun görülecek sayıda elektrikli su ısıtıcısı ve iklim koşulları da dikkate alınarak vantilatör bulundurulmasına izin verilebilir.
+Çocuk ve kadın hükümlülerin bulunduğu odalarda çamaşır makinesi ve kurutma makinesi bulundurulmasına izin verilebilir.
+Her hükümlü, kurum kantininden satın almak kaydıyla bir adet sadece FM bantlı, USB ve benzeri veri depolama, aktarma özelliği olmayan kulaklıklı küçük el radyosu bulundurabilir.
+Oda sistemine geçmemiş kurumlarda veya kurum idaresince uygun görülen hallerde elektrik tesisatı, fiziki koşulları ile odanın mevcudu dikkate alınmak suretiyle en fazla iki adet buzdolabı bulundurulmasına izin verilebilir.
+Aydınlatma dışındaki elektrik giderleri, Enerji Piyasası Düzenleme Kurumu tarafından mesken abonelikleri için belirlenen ücret tarifesi esas alınarak ceza infaz kurumunca hesaplanan bedel üzerinden hükümlü tarafından karşılanır. Ancak; hükümlü tarafından karşılanacak elektrik gideri, bulunduğu ceza infaz kurumunca gerçekleştirilen elektrik tedarik ihalesi veya işlemi sonucunda belirlenen elektrik birim fiyatının mesken aboneliğinden daha düşük olması halinde düşük olan birim fiyat üzerinden hesaplanır.
+Çocuk ve kadın hükümlülerin tüm elektrik giderleri kurum bütçesinden ödenir.

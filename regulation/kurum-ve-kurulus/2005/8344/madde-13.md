@@ -1,0 +1,3 @@
+Temizlik
+Madde 13 — Hükümlüler, koğuş, oda veya eklentilerinde, kantinden temin edilmek koşuluyla kişisel ve çevresel temizliklerini temin için tarak, saç fırçası, sabun, kese, diş macunu, diş fırçası, tıraş sabunu, şampuan, parfüm, krem, saç boyası, çakısı bulunmayan tırnak makası, plastik saplı tıraş bıçağı, beş adet plastik elbise askısı, çamaşır mandalı ve gündelik hayatta kullanılan plastik eşyalar ile idarece uygun görülen uzunlukta çamaşır ipi bulundurabilir.
+Merkezi sıcak su sistemi kurulmamış ceza infaz kurumlarında, koğuş veya odaların mevcuduna göre, hükümlülerin banyo ve diğer temizlik ihtiyaçlarının karşılanması amacıyla, idare; koğuş veya odaların dışında yeteri kadar tüp gaz bulundurur.

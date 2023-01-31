@@ -1,0 +1,42 @@
+{
+  "source_id": "7.5.8344",
+  "kind": "regulation",
+  "register_kind": "Kurum ve Kuruluş Yönetmelikleri",
+  "title": "CEZA İNFAZ KURUMLARINDA BULUNDURULABİLECEK EŞYA VE MADDELER HAKKINDA YÖNETMELİK",
+  "number": "8344",
+  "issuer_slug": "kurum-ve-kurulus",
+  "path": "regulation/kurum-ve-kurulus/2005/8344",
+  "source": "https://www.mevzuat.gov.tr/anasayfa/MevzuatFihristDetayIframe?MevzuatTur=7&MevzuatNo=8344&MevzuatTertip=5",
+  "source_sha256": "a813d7157b46a85cc11b2b31b67da1fb5f4743b064731a207c4927dcd33561b8",
+  "source_bytes": 43043,
+  "published": "2005-06-17",
+  "gazette": "25848",
+  "in_force": "2023-01-31",
+  "in_force_basis": "latest Resmî Gazete date printed in the source amendment notes/table (\"RG-31/1/2023\") for the current consolidated text",
+  "date_evidence": [
+    [
+      "2023-01-31",
+      "RG-31/1/2023",
+      "Resmî Gazete date printed in the source amendment note"
+    ],
+    [
+      "2023-01-31",
+      "31/1/2023",
+      "Resmî Gazete date in the source amendment table"
+    ]
+  ],
+  "commencement_clauses": [
+    "Bu Yönetmelik, yayımı tarihinde yürürlüğe girer"
+  ],
+  "history": "current-text",
+  "label": "oldest version available",
+  "checked_on": "2026-11-15",
+  "word_count": 1930,
+  "text_status": "current-consolidated",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  },
+  "completeness": "html-text-complete"
+}

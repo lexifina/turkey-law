@@ -1,0 +1,11 @@
+Bulundurulabilecek hayvanlar ile diğer eşyalar
+Madde 15 — Hükümlüler, oda sistemine geçmiş ceza infaz kurumlarının koğuş, oda ve eklentilerinde, bir adet kafes ile bir çift kanarya, bülbül veya muhabbet kuşu gibi küçük kafes kuşu bulundurabilir. Henüz oda sistemine geçmemiş diğer ceza infaz kurumlarında, kafes ve kuş sayısı idare tarafından belirlenir.
+Koğuş veya odada kuş bulundurulabilmesi için, birlikte kalan hükümlülerin rızalarının alınması zorunludur.
+Hükümlülerin kendilerini geliştirmeleri için gerekli görülen eğitim ve kültürel çalışmalarında kullanabilecekleri malzemeleri, koğuş, oda ve eklentiler dışında, idare tarafından uygun görülecek yerlerde ve denetim altında bulundurmasına ve kullanmasına kurum olanakları çerçevesinde izin verilebilir.
+Hükümlüler, kendilerine idare tarafından verilen nevresim takımı ve battaniye dışında, kantinden temin edilmek şartıyla bir adet nevresim takımı ve iklim koşulları değerlendirilerek idarenin uygun göreceği sayıda battaniye bulundurabilir.
+Kantinden temin edilmek koşuluyla, her odada bir adet, on kişiden fazla mevcudu olan koğuşlarda ise iki adet, kumar niteliğinde olmayan ve idarece belirlenen, satranç takımı gibi oyunlara ait malzemeler bulundurulabilir.
+Her oda veya koğuşta, idare tarafından yaptırılan panolara asılmak ve kurum kantininden temin edilmek koşuluyla birer adet Türk bayrağı, Atatürk resmî, gazete kupürü, haber, yazı fotoğraf ve takvim bulundurulabilir.
+Her hükümlünün kendisine ayrılan yattığı yer veya dolabında, aile fertlerinin fotoğraflarına ait albüm bulundurmasına izin verilir.
+(Değişik sekizinci fıkra:RG-31/1/2023-32090) Hükümlüler nişan ve evlilik yüzüğü, küpe, kolye, toka, tespih ve ses ya da görüntü kaydedici, veri aktarıcı veya bir bilgisayar işletim sistemi ile tümleşik özelliği bulunmayan kol saati ile kantinden temin edilmek koşuluyla bir adet masa saati ve bir adet top bulundurabilir.
+Bayan hükümlüler, kantin aracılığı ile satın aldıkları makyaj malzemelerini koğuş veya odalarında bulundurabilir.
+Ceza infaz kurumu işyurdu yönetim kurulunca kantinde satışına karar verilen, bu Yönetmelikte sayılmayan ve kurum güvenliğini tehlikeye düşürmeyen eşyaların stok oluşturmayacak şekilde koğuş, oda ve eklentilerde bulundurulmasına izin verilebilir.

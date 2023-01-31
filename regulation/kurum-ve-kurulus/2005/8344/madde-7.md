@@ -1,0 +1,4 @@
+Giyim eşyaları
+Madde 7 — Hükümlülerin koğuş, oda ve eklentilerinde (Değişik ibare:RG-31/1/2023-32090) üç çift ayakkabı, bir çift terlik, bir adet kemer ve gerektiği kadar iç çamaşırı ve çorap ile aynı tür eşyadan 6 adedi geçmeyecek ve toplamda 30 parçayı aşmayacak şekilde; başörtüsü, fular, içlik, havlu, bornoz, palto, manto, mont, ceket, hırka, pantolon, etek, elbise, eşofman, gömlek, kazak, pijama, tişört, kravat, kaşkol, 25/11/1925 tarihli ve 671 sayılı Şapka İktisâsı Hakkında Kanuna aykırı olmayan bir adet şapka bulundurulmasına izin verilir.
+Hükümlüler; ceza infaz kurumu dışından getirilmesine izin verilen giyim eşyalarından eskiyenlerini, yenileriyle değiştirebilir.
+(Ek üçüncü fıkra:RG-31/1/2023-32090) Terör propagandası içeren veya kurum güvenliği açısından sakıncalı olan, suçu veya suçluyu övücü, suça teşvik, kamuoyunu rencide veya tahrik edici ya da müstehcen içerikli sembol, yazı ve benzeri işaretleri taşıyan giysiler kuruma kabul edilmez.

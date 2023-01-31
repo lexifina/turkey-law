@@ -1,0 +1,2 @@
+Açık ceza infaz kurumları ve çocuk eğitimevlerinde bulunacak eşyalar
+Madde 16 — Açık ceza infaz kurumlarında ve çocuk eğitimevlerinde bulunan hükümlüler, kapalı ceza infaz kurumlarında bulundurulabilecek eşyalara ek olarak, ceza infaz kurumunun güvenliğini tehdit etmemek ve kanunlara aykırı olmamak koşuluyla, cins ve miktarı idare ve gözlem kurulu tarafından belirlenen giyim, gıda ve diğer eşyalarını koğuş, oda ve eklentilerinde bulundurabilir.
