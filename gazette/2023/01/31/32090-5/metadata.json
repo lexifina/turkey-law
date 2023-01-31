@@ -1,0 +1,20 @@
+{
+  "record_type": "gazette-item",
+  "gazette": "Resmî Gazete",
+  "jurisdiction": "TR",
+  "date": "2023-01-31",
+  "issue": "32090",
+  "edition": "regular",
+  "item": 5,
+  "section": "YARGI BÖLÜMÜ",
+  "heading": "DANIŞTAY KARARLARI",
+  "title": "Danıştay İkinci Dairesine Ait Kararlar",
+  "official_link": "https://www.resmigazete.gov.tr/eskiler/2023/01/20230131-5.pdf",
+  "link_format": "pdf",
+  "index_url": "https://www.resmigazete.gov.tr/eskiler/2023/01/20230131.htm",
+  "index_sha256": "bfecfe377ba4aaddb37498870512dfc164e7c7c64b071731c04d3c2fc2e774a2",
+  "index_header": "31 Ocak 2023 ... 32090 Sayılı Resmî Gazete",
+  "issue_pdf": "https://www.resmigazete.gov.tr/eskiler/2023/01/20230131.pdf",
+  "in_force_basis": "Resmî Gazete publication date; not a commencement reading.",
+  "text_status": "metadata-only; personal-data rule (appointment, acting, judicial or person-named item): metadata and link only"
+}
