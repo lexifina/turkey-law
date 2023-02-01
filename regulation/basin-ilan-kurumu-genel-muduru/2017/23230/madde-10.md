@@ -1,0 +1,4 @@
+Resmî ilân ve reklâmların gönderilmesi
+MADDE 10 – (1) İLANBİS üzerinden verilecek resmî ilân ve reklâmlar hakkındaki yayın talimatı, ilân metni ve görseli ile tahmini yayın bedelinin yatırıldığını gösterir ödeme belgesi yayın tarihinden en az beş iş günü önce yetkili kullanıcı tarafından İLANBİS’e kaydedilir.
+(2) İlân verenlerin yayın tarihlerini tespit ederken, birinci fıkrada belirtilen sürenin yeterli olup olmadığını dikkate almaları gerekir.
+(3) Resmî ilân ve reklâmların İLANBİS üzerinden gönderilmesi esnasında, gerekli belgelerin süresinde sisteme yüklenmemesi, hatalı veya noksan bilgi ve belge yüklenmesi nedeniyle yayın işinin gecikmesi ve sair sebepler sonucu, herhangi bir malî külfet doğması ya da ilgili mevzuata aykırı bir durum ortaya çıkması halinde, bundan ilânı verenler sorumlu olur.

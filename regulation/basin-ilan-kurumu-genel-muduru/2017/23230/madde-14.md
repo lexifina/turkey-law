@@ -1,0 +1,4 @@
+Geri bildirim
+MADDE 14 – (1) İLANBİS’te herhangi bir sebeple onaylanmayan veya onaylanıp yayına sevk edilen resmî ilân ve reklâmlar hakkında yetkili kullanıcılara Kurum Genel Müdürlüğü tarafından belirlenen şekilde geri bildirimde bulunulur.
+(2) İlân verenler onay bekleyen resmî ilân ve reklâmlar üzerinde her türlü değişiklik yapma ve iptal etme hakkına sahiptir. Ancak, ilân verenler onaylanan resmî ilân ve reklâmlara ilişkin hiçbir değişiklik yapamaz.
+(3) Onaylanarak yayınlanmak üzere süreli yayınlara sevk edilen resmî ilân ve reklâmlara ilişkin ilân verenler tarafından değişiklik veya iptal talebi olması halinde, bu talepler ancak sevk edilen süreli yayının (Değişik ibare:RG-1/2/2023-32091)(1) baskı veya yayım öncesi ve bu işlemlere ilişkin süre ve teknik imkânlar uygun ise, ilgili Şube Müdürlüğü tarafından değerlendirilir.
