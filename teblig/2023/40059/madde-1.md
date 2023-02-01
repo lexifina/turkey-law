@@ -1,0 +1,2 @@
+Amaç ve kapsam
+MADDE 1- (1) 14/10/2021 tarihli ve 7338 sayılı Vergi Usul Kanunu ile Bazı Kanunlarda Değişiklik Yapılmasına Dair Kanunla 4/1/1961 tarihli ve 213 sayılı Vergi Usul Kanununa eklenen 170/A maddesinde yer alan yetkiye istinaden, 213 sayılı Kanuna göre mükelleflerin bildirmeye mecbur olduğu bilgilerden, Ticaret Bakanlığı tarafından elektronik ortamda Hazine ve Maliye Bakanlığına bildirilenlerin mükellefler tarafından yapılmış bildirim olarak kabul edilmesine ilişkin usul ve esasların belirlenmesi bu Tebliğin amaç ve kapsamını teşkil etmektedir.
