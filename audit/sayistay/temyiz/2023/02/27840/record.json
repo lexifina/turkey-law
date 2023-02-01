@@ -1,0 +1,16 @@
+{
+  "kind": "decision",
+  "issuer": "Sayıştay Temyiz Kurulu",
+  "number": "53594",
+  "decision_date": "2023-02-01",
+  "source_id": 27840,
+  "chamber": "1",
+  "file_number": "43484",
+  "public_body_type": "Yüksek Öğretim Kurumları",
+  "account_year": "2015",
+  "subject": "Çeşitli Konuları İlgilendiren Kararlar",
+  "source": "https://www.sayistay.gov.tr/KararlarTemyiz/Detay/27840/",
+  "source_sha256": "4452c4182a0fb51e4fc8775732929793c8f76f084abfd4454960e917f8d2235d",
+  "text_status": "as-enacted",
+  "text_file": "metin.md"
+}
