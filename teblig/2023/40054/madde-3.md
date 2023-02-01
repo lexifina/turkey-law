@@ -1,0 +1,19 @@
+Güncellenen hususlar
+MADDE 3- (1) Bu Tebliğ ile 1/2/2023 tarihinden itibaren geçerli olmak üzere 4734 sayılı Kanunun;
+a) 3 üncü maddesinin birinci fıkrasının (g) bendinde belirtilen 33.494.082,-TL (Otuzüçmilyondörtyüzdoksandörtbinsekseniki Türk Lirası) 66.224.498,-TL (Altmışaltımilyonikiyüzyirmidörtbindörtyüzdoksansekiz Türk Lirası),
+b) 8 inci maddesinin birinci fıkrasının;
+1) (a) bendinde belirtilen 4.004.034,-TL (Dörtmilyondörtbinotuzdört Türk Lirası) 7.916.776,-TL (Yedimilyondokuzyüzonaltıbinyediyüzyetmişaltı Türk Lirası),
+2) (b) bendinde belirtilen 6.673.409,-TL (Altımilyonaltıyüzyetmişüçbindörtyüzdokuz Türk Lirası) 13.194.664,-TL (Onüçmilyonyüzdoksandörtbinaltıyüzaltmışdört Türk Lirası),
+3) (c) bendinde belirtilen 146.815.969,-TL (Yüzkırkaltımilyonsekizyüzonbeşbindokuzyüzaltmışdokuz Türk Lirası) 290.284.533,-TL (İkiyüzdoksanmilyonikiyüzseksendörtbinbeşyüzotuzüç Türk Lirası),
+c) 13 üncü maddesinin birinci fıkrasının (b) bendinin;
+1) (1) numaralı alt bendinde belirtilen 436.830,-TL (Dörtyüzotuzaltıbinsekizyüzotuz Türk Lirası) 863.700,-TL (Sekizyüzaltmışüçbinyediyüz Türk Lirası), 873.705,-TL (Sekizyüzyetmişüçbinyediyüzbeş Türk Lirası) 1.727.489,-TL (Birmilyonyediyüzyirmiyedibindörtyüzseksendokuz Türk Lirası),
+2) (2) numaralı alt bendinde belirtilen 436.830,-TL (Dörtyüzotuzaltıbinsekizyüzotuz Türk Lirası) 863.700,-TL (Sekizyüzaltmışüçbinyediyüz Türk Lirası), 873.705,-TL (Sekizyüzyetmişüçbinyediyüzbeş Türk Lirası) 1.727.489,-TL (Birmilyonyediyüzyirmiyedibindörtyüzseksendokuz Türk Lirası), 7.281.278,-TL (Yedimilyonikiyüzseksenbirbinikiyüzyetmişsekiz Türk Lirası) 14.396.542,-TL (Ondörtmilyonüçyüzdoksanaltıbinbeşyüzkırkiki Türk Lirası),
+3) (3) numaralı alt bendinde belirtilen 873.705,-TL (Sekizyüzyetmişüçbinyediyüzbeş Türk Lirası) 1.727.489,-TL (Birmilyonyediyüzyirmiyedibindörtyüzseksendokuz Türk Lirası), 7.281.278,-TL (Yedimilyonikiyüzseksenbirbinikiyüzyetmişsekiz Türk Lirası) 14.396.542,-TL (Ondörtmilyonüçyüzdoksanaltıbinbeşyüzkırkiki Türk Lirası),
+ç) 21 inci maddesinin birinci fıkrasının (f) bendinde belirtilen 728.072,-TL (Yediyüzyirmisekizbinyetmişiki Türk Lirası) 1.439.543,-TL (Birmilyondörtyüzotuzdokuzbinbeşyüzkırküç Türk Lirası),
+d) 22 nci maddesinin birinci fıkrasının (d) bendinde belirtilen 218.395,-TL (İkiyüzonsekizbinüçyüzdoksanbeş Türk Lirası) 431.810,-TL (Dörtyüzotuzbirbinsekizyüzon Türk Lirası), 72.752,-TL (Yetmişikibinyediyüzelliiki Türk Lirası) 143.845,-TL (Yüzkırküçbinsekizyüzkırkbeş Türk Lirası),
+e) 53 üncü maddesinin birinci fıkrasının (j) bendinin;
+1) (1) numaralı alt bendinde belirtilen 1.456.202,-TL (Birmilyondörtyüzellialtıbinikiyüziki Türk Lirası) 2.879.202,-TL (İkimilyonsekizyüzyetmişdokuzbinikiyüziki Türk Lirası),
+2) (2) numaralı alt bendinde belirtilen 2.305.178,-TL (İkimilyonüçyüzbeşbinyüzyetmişsekiz Türk Lirası) 4.557.797,-TL (Dörtmilyonbeşyüzelliyedibinyediyüzdoksanyedi Türk Lirası), 13.819,-TL (Onüçbinsekizyüzondokuz Türk Lirası) 27.322,-TL (Yirmiyedibinüçyüzyirmiiki Türk Lirası), 9.220.744,-TL (Dokuzmilyonikiyüzyirmibinyediyüzkırkdört Türk Lirası) 18.231.255,-TL (Onsekizmilyonikiyüzotuzbirbinikiyüzellibeş Türk Lirası), 27.654,-TL (Yirmiyedibinaltıyüzellidört Türk Lirası) 54.677,-TL (Ellidörtbinaltıyüzyetmişyedi Türk Lirası), 69.155.600,-TL (Altmışdokuzmilyonyüzellibeşbinaltıyüz Türk Lirası) 136.734.452,-TL (Yüzotuzaltımilyonyediyüzotuzdörtbindörtyüzelliiki Türk Lirası), 41.482,-TL (Kırkbirbindörtyüzsekseniki Türk Lirası) 82.018,-TL (Seksenikibinonsekiz Türk Lirası), 55.316,-TL (Ellibeşbinüçyüzonaltı Türk Lirası) 109.370,-TL (Yüzdokuzbinüçyüzyetmiş Türk Lirası),
+f) 62 nci maddesinin birinci fıkrasının (h) bendinde belirtilen 808.172,-TL (Sekizyüzsekizbinyüzyetmişiki Türk Lirası) 1.597.917,-TL (Birmilyonbeşyüzdoksanyedibindokuzyüzonyedi Türk Lirası),
+olarak güncellenmiştir.
+(2) Birinci fıkrada belirtilen eşik değerler ve parasal limitlere ilişkin olarak, bir önceki dönem ile karşılaştırmalı değerler, ayrıca tablo halinde Ekte yer almaktadır.
