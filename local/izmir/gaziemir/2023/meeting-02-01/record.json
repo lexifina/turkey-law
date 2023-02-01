@@ -1,0 +1,24 @@
+{
+  "number": "meeting-02-01",
+  "number_as_published": "meeting-02-01",
+  "year": 2023,
+  "title": "01.02.2023 KARAR ÖZETİ",
+  "decision_date": "2023-02-01",
+  "source": "https://www.gaziemir.bel.tr/meclis-karar-ve-ozetleri.php?sayfa=19",
+  "official_document": "https://api.gaziemir.bel.tr/upload_meclis/0ec8b62067d73e867d923e448be0bcb70ec8b62067d73e867d923e448be0bcb7.doc",
+  "source_sha256": "17943d2a200ac0b2fd46ed446d3c6d129e9a54e6d63b597edb0833b9b51799fc",
+  "issuer": "Gaziemir Belediye Meclisi",
+  "history_type": "metadata",
+  "text_status": "metadata-only: listing fields as published; complete decision text is in the linked official document, not transcribed",
+  "in_force": "2023-02-01",
+  "in_force_basis": "Decision date as printed in the official council listing: 01.02.2023; adoption date of the council decision; legal commencement not asserted",
+  "missing": [
+    "complete official decision text",
+    "official annexes"
+  ],
+  "law_text_complete": false,
+  "privacy_withheld": false,
+  "listing_label": "01.02.2023 KARAR ÖZETİ",
+  "record_scope": "one official file of council decisions (meeting)",
+  "posting_date": "07.02.2023"
+}
