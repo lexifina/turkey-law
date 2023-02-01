@@ -1,0 +1,3 @@
+Mevcut çevre izin ve lisanslı tesisler ile çevre izin ve lisans süreci devam eden tesisler
+GEÇİCİ MADDE 3- (1) Bu Yönetmeliğin yürürlüğe girdiği tarihten önce çevre izin ve lisansı alan AEEE işleme tesisleri ile yeniden kullanıma hazırlama tesisleri mevcut lisans süreleri sona erene kadar faaliyetlerine devam edebilirler.
+(2) Bu Yönetmeliğin yürürlüğe girdiği tarihten önce Çevre İzin ve Lisans Yönetmeliği uyarınca AEEE işleme konusunda faaliyet göstermek üzere işlemlerini başlatmış olan tesislerin işlemleri, 30 uncu madde ile yürürlükten kaldırılan Atık Elektrikli ve Elektronik Eşyaların Kontrolü Yönetmeliğinde belirlenen işleme tesislerinin fiziksel ve teknik özellikleri esas alınarak değerlendirilir.

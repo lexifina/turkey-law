@@ -1,0 +1,34 @@
+{
+  "source_id": "7.5.40055",
+  "kind": "regulation",
+  "register_kind": "Kurum ve Kuruluş Yönetmelikleri",
+  "title": "ATIK ELEKTRİKLİ VE ELEKTRONİK EŞYALARIN YÖNETİMİ HAKKINDA YÖNETMELİK",
+  "number": "40055",
+  "issuer": "Çevre, Şehircilik ve İklim Değişikliği Bakanı",
+  "issuer_slug": "cevre-sehircilik-ve-iklim-degisikligi-bakani",
+  "path": "regulation/cevre-sehircilik-ve-iklim-degisikligi-bakani/2022/40055",
+  "source": "https://www.mevzuat.gov.tr/anasayfa/MevzuatFihristDetayIframe?MevzuatTur=7&MevzuatNo=40055&MevzuatTertip=5",
+  "source_sha256": "8d0cf09c556ffb7a3504ba3b29797d609ae58249a7e6c948958a9a2c6c588ba0",
+  "source_bytes": 205023,
+  "published": "2022-12-26",
+  "gazette": "32055",
+  "in_force": "2023-02-01",
+  "in_force_basis": "own commencement article: \"Bu Yönetmelik 1/2/2023 tarihinde yürürlüğe girer\"",
+  "commencement_clauses": [
+    "Bu Yönetmelik 1/2/2023 tarihinde yürürlüğe girer"
+  ],
+  "history": "current-text",
+  "label": "oldest version available",
+  "checked_on": "2026-11-15",
+  "word_count": 6645,
+  "text_status": "current-consolidated",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  },
+  "source_links": [
+    "7.5.40055-Ek.zip"
+  ],
+  "completeness": "html-text-complete; linked annexes not fetched"
+}

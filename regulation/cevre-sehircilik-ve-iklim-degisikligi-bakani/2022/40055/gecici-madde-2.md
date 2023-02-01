@@ -1,0 +1,2 @@
+Mevcut atık elektrikli ve elektronik eşyaların yönetim planlarının sürekliliği
+GEÇİCİ MADDE 2- (1) Bu Yönetmeliğin yürürlüğe girdiği tarihten önce mahalli idarelerce hazırlanıp uygun bulunan atık elektrikli ve elektronik eşyaların yönetim planları, bu Yönetmelik hükümlerine uygun olarak ve Sıfır Atık Yönetmeliği ile getirilen düzenlemeler uyarınca yürütülür. Atık elektrikli ve elektronik eşyaların yönetim planları, mahalli idarelerin Sıfır Atık Yönetmeliğinde öngörülen geçiş takvimi uyarınca sıfır atık yönetim sistemine geçişleri ile birlikte son bulur.

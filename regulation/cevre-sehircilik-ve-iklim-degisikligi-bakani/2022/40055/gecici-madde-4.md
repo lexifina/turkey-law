@@ -1,0 +1,2 @@
+Mevcut aktarma merkezleri
+GEÇİCİ MADDE 4- (1) 30 uncu madde ile yürürlükten kaldırılan Atık Elektrikli ve Elektronik Eşyaların Kontrolü Yönetmeliği kapsamında kurulan aktarma merkezleri, 1/1/2024 tarihi itibarıyla il müdürlüğünden transfer noktası olarak çevre izin ve lisans belgesi almakla yükümlüdür. Bu Yönetmelik ile belirlenen koşullara, bu maddede verilen süre içerisinde uyum sağlayamayan mevcut aktarma merkezleri faaliyetlerine devam edemezler.

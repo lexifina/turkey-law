@@ -1,0 +1,4 @@
+Evsel olmayan AEEE yönetiminin finansmanı
+MADDE 23- (1) 22/5/2012 tarihinden sonra piyasaya arz edilen EEE’lerden kaynaklanan evsel olmayan AEEE’lerin toplanması, nakliyesi, işlenmesi ve bertaraf maliyetleri EEE’nin üreticisi tarafından üstlenilir.
+(2) 22/5/2012 tarihinden önce piyasaya arz edilen EEE’lerden kaynaklanan evsel olmayan AEEE’lerin yönetim maliyeti, eşdeğer veya aynı işlevi gören yeni ürünlerle değişim yapılması durumunda yapılan anlaşmalar çerçevesinde yeni ürünleri temin eden üreticiler tarafından veya tüketiciler tarafından, diğer durumlarda ise tüketiciler tarafından karşılanır.
+(3) Üreticiler ve tüketiciler tarafından evsel olmayan AEEE’lerin yönetiminde bu Yönetmeliğe aykırılık olmayacak şekilde birinci ve ikinci fıkralarda belirtilenler dışında başka finansman anlaşmaları da yapılabilir.
