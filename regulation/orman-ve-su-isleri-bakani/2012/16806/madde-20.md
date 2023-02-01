@@ -1,0 +1,5 @@
+İstisnaî haller
+MADDE 20 – (1) (Değişik ibare:RG-15/4/2015-29327) Yerüstü su kütlelerinin kalitesinin iyileştirilmesi maksadıyla belirlenen hedeflere ulaşılmasının herhangi bir sebeple mümkün olamaması ve bu durumun bilimsel olarak ortaya konulması halinde hedefin uygulanması istenmez ve yeni çevresel hedefler Bakanlıkça belirlenir.
+(2) (Değişik ibare:RG-15/4/2015-29327) Yerüstü su kaynaklarının korunması, kirlenmesinin önlenmesi ve kirlenmiş olan su kaynaklarının su kalitesinin iyileştirilmesi maksatlarıyla bölgenin hidrolojik, ekolojik ve çevresel özellikleri ile birlikte, alanın jeolojik formasyonu ve/veya arka plan konsantrasyonları dikkate alınır.
+(3) Kaza ve doğal afetler dolayısıyla su kalitesinin bozulduğunun ve su kütlesinin doğal zenginleşmeye uğradığının tespit edilmesi halinde, belirlenen çevresel hedefler Bakanlıkça gözden geçirilir ve yeni çevresel hedefler belirlenir.
+(4) Birinci, ikinci ve üçüncü fıkralarda sayılan istisnalar, hiçbir halde su kalitesinin korunması için zorunlu şartları yok sayamaz.
