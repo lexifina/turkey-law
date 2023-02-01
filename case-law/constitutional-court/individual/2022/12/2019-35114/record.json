@@ -1,0 +1,20 @@
+{
+  "applicant": "W.J.F.N.",
+  "application_date": "2019-10-24",
+  "application_number": "2019/35114",
+  "deciding_unit": "Genel Kurul",
+  "decision_date": "2022-12-14",
+  "id": "40912790-d4e0-e4e1-becf-0a7de53541a8",
+  "in_force": "2023-02-01",
+  "in_force_basis": "official Resmî Gazete date",
+  "kind": "constitutional-court-individual-application",
+  "omitted_images": 0,
+  "outcome": "Kabul Edilemezlik vd.",
+  "published": "2023-02-01",
+  "referenced_images": 0,
+  "source": "https://kararlarbilgibankasi.anayasa.gov.tr/kbb/pages/search/Tumu?id=a2JiOjQwOTEyNzkwLWQ0ZTAtZTRlMS1iZWNmLTBhN2RlNTM1NDFhOA&type=BireyselBasvuru",
+  "source_api": "https://kararlarbilgibankasi.anayasa.gov.tr/api/core/public/search",
+  "source_images": 0,
+  "source_sha256": "8264bb7437e04de85796a519b713327c985cd6ab1bc2b3d1d05edfc5ec89f9df",
+  "version_label": "as-enacted"
+}
