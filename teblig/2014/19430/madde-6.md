@@ -1,0 +1,8 @@
+Trofik seviyenin iyileştirilmesi için tedbirler
+MADDE 6 – (1) Göl, baraj gölü ve göletlerin trofik seviyesinin kötüleşmesinin engellenmesi ve su kalitesinin iyileştirilmesi maksadıyla alınması gereken tedbirler, ilgili kurum ve kuruluşlarla birlikte Bakanlıkça belirlenir.
+(2) Göl, baraj gölü ve göletlerin trofik seviyesinin ötrofik veya hipertrofik çıkması durumunda;
+a) (Değişik:RG-1/2/2023-32091) Durgun suların havzalarında noktasal kaynaklardan, gelen kirliliğin azaltılması ve trofik seviyesinin ultraoligotrofik, oligotrofik ve mezotrofik seviyeye ulaşacak şekilde iyileştirilmesi maksadıyla Bakanlıkça tedbirler belirlenir ve uygulamaların takibi yapılır.
+b) (Değişik:RG-1/2/2023-32091) Durgun suların havzalarında yayılı kaynaklardan gelen kirliliğin azaltılması ve trofik seviyesinin ultraoligotrofik, oligotrofik ve mezotrofik seviyeye ulaşacak şekilde iyileştirilmesi maksadıyla Bakanlıkça tedbirler belirlenir ve uygulamaların takibi yapılır.
+c) (Değişik:RG-1/2/2023-32091) Balık yetiştiriciliği tesislerinin su kalitesi üzerindeki olumsuz etkilerinin ortadan kaldırılmasına yönelik Bakanlıkça gerekli tedbirler alınır ve uygulamaların takibi yapılır.
+ç) Göl, baraj gölü veya göletin dip çamurunun temizlenmesi maksadıyla yapılacak fizibilite ve tarama çalışmaları Devlet Su İşleri Genel Müdürlüğü tarafından ilgili kurumların görüşü alınarak gerçekleştirilir.
+(3) (Değişik:RG-1/2/2023-32091) Bakanlık, göl, baraj gölleri ve göletlerde alıcı su ortamının özelliklerini dikkate alarak, su kalitesinin telafisi mümkün olmayacak şekilde bozulmasını önlemek maksadıyla, ilgili kurumların görüşünü alarak ilave tedbirler getirebilir.
