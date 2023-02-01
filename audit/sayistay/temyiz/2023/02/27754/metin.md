@@ -1,0 +1,5 @@
+Üniversitede dışarıya sunulan sınav hizmetleriyle ilgili döner sermayeden mesai dışı ödeme sınırının aşılarak ek ödeme yapılması;
+
+71 sayılı İlamın 16. maddesiyle verilen … TL’nin tazminine dair hükümde Gerçekleştirme Görevlisi sıfatı ile iştiraki bulunan …’ın itiraz başvurusu üzerine düzenlenen 46952 sayılı dosya, 01.02.2023 tarihli ve 53597 tutanak sayılı Temyiz Kurulu Kararı ile; yapılan ödemede mevzuata aykırı bir husus bulunmadığı ve kamu zararı oluşmadığına ilişkin olarak belirtilen hususların tekrar değerlendirilmesini teminen 6085 sayılı Sayıştay Kanununun 55 inci maddesinin 7 nci fıkrası uyarınca tazmin hükmünün bozulması suretiyle Dairesine gönderildiğinden; bir diğer sorumluyu [(Ödeme Emri Belgesi Üzerinde İmzası Bulunan) Harcama Yetkilisi sıfatıyla temyiz talep eden Dekan Vekili …’ü] ilgilendiren ve aynı mahiyette olan 46954 sayılı işbu dosyanın da sözü edilen (46952 sayılı) dosya ile BİRLEŞTİRİLEREK gereği yapılmak üzere hükmü veren DAİREYE GÖNDERİLMESİNE,  oy birliğiyle,
+
+Karar verildiği 01.02.2023 tarih ve 53599 sayılı tutanakta yazılı olmakla işbu ilam tanzim kılındı.
