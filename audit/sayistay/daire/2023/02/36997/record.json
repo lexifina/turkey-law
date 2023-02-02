@@ -1,0 +1,17 @@
+{
+  "kind": "decision",
+  "issuer": "Sayıştay 3. Dairesi",
+  "number": "435",
+  "decision_date": "2023-02-02",
+  "source_id": 36997,
+  "chamber": "3",
+  "ilam_number": "100",
+  "item_number": 4,
+  "public_body_type": "Belediyeler ve Bağlı İdareler",
+  "account_year": 2021,
+  "subject": "İhale Mevzuatı ile İlgili Kararlar",
+  "source": "https://www.sayistay.gov.tr/KararlarDaire/Detay/36997/",
+  "source_sha256": "a8ba45b5a7e4bed587dec103b5d0ad21fd1c668752e2cc7ff284e025a370dd48",
+  "text_status": "as-enacted",
+  "text_file": "metin.md"
+}
