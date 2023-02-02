@@ -1,0 +1,1 @@
+GEÇİCİ MADDE 5— Bu Yönetmeliğin yürürlüğe girdiği tarihten itibaren, bandrol uygulamasına geçilinceye kadar ürünler, 14 üncü maddenin ikinci fıkrası ve 15 inci maddeye göre ürün satış belgesi düzenlenerek piyasaya arzedilir.(3)

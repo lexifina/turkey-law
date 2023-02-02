@@ -1,0 +1,2 @@
+GEÇİCİ MADDE 11 – (Ek:RG-31/12/2015-29579)
+Alkollü içki ithalatçısı olarak sektörde faaliyet gösteren firmaların; dağıtım yetki belgelerinin güncellenmesi talebiyle “geçerlilik tarihi” bitiminden en az 30 gün önce Kuruma başvurmaları zorunludur. 14 üncü maddenin ikinci fıkrasında belirtilen dağıtım yetki belgesi bedelinin bir kereye mahsus olmak üzere, Kurum hesabına yatırılmasını takiben dağıtım yetki belgesi güncellenir.

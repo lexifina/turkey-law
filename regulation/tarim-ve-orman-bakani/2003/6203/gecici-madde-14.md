@@ -1,0 +1,2 @@
+GEÇİCİ MADDE 14- (Ek:RG-2/2/2023-32092)
+Bira hariç olmak üzere, cam haricindeki ambalaja sahip alkollü içkiler, bu maddenin yayımı tarihini izleyen ikinci ayın sonundan itibaren üretilemez ve ithal edilemez. Bu ürünler, bu maddenin yayımı tarihini izleyen üçüncü ayın sonundan itibaren Alkollü İçki Dağıtım Yetki Belgesini haiz firmalar, dördüncü ayın sonundan itibaren toptan satıcılar, perakende satıcılar veya açık alkollü içki satıcıları tarafından iç piyasaya arz edilemez.

@@ -1,0 +1,4 @@
+Ürün Listeleri
+MADDE 16 — (Değişik: RG-06/04/2005-25778)
+(Değişik birinci fıkra: RG-22/2/2008-26795) İthalata uygunluk belgesi veya alkollü içki bildirimi kapsamında ithal edilen veya üretim iznini haiz firmalar tarafından gıda üretim izni belgesi alınarak üretilen, bandrol veya kod taşıyan veya ürün satış belgesi kapsamında yetkili dağıtım firmaları eliyle piyasaya arz edilen, satış belgesini haiz toptan ve perakende satıcılar ile açık içki satıcıları üzerinden tüketiciye ulaşan ürünler, Kurum tarafından liste halinde düzenlenerek ve her ay güncelleme yapılmak suretiyle Kurumun internet sayfasında yayınlanır.
+Dağıtım yetkisini haiz firmalar, kendi firmalarına ve piyasaya arz ettikleri ürünlere ilişkin olarak Kurum web sayfasında yayımlanan her türlü bilginin takibinden ve bu bilgilerin güncellenmesi amacıyla Kuruma yazılı bildirimleri yapmaktan sorumludur.

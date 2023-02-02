@@ -1,0 +1,2 @@
+GEÇİCİ MADDE 10 – (Ek:RG-25/10/2014-29156)
+Cam haricinde ambalaj ile üretilmiş alkollü içkilerin; Açık Alkollü İçki Satış Belgesini haiz otel, motel ve tatil köylerinin odalarındaki mini barlarda tüketime sunulacak 5 cl’likler ve bira hariç, ¼/2015 tarihinden itibaren Alkollü İçki Dağıtım Yetki Belgesini haiz firmalar tarafından teslimi, 1/5/2015 tarihinden itibaren toptan satıcılar tarafından teslimi, 1/9/2015 tarihinden itibaren ise perakende satıcıları veya açık alkollü içki satıcıları tarafından satışı yapılamaz.

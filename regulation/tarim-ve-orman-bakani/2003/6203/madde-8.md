@@ -1,0 +1,3 @@
+İhracat
+MADDE 8 — Bu Yönetmelik kapsamına giren ürünlerin ihracatı, İhracat Rejimi Kararı, İhracat Yönetmeliği ve ilgili Tebliğler hükümlerine tabidir. İhracat mevzuatındaki Dış Ticaret Sermaye Şirketi ve Sektörel Dış Ticaret şirketi statüsündeki ihracatçıların müşterek ve müteselsil sorumluluklarına ilişkin hükümler saklı kalmak kaydıyla, ihracat yapan firmalar ve üreticiler ürün kalitesinden ve ürün ambalajında bulunan her türlü bilgi ve işaretten müştereken ve müteselsilen sorumludur.
+(Ek fıkra:RG-11/8/2013-28732) İhraç edilecek alkollü içkiler için, bu Yönetmeliğin 13 üncü maddesinin yedinci fıkrası ile 19 uncu maddenin birinci fıkrası hükümleri aranmaz.

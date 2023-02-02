@@ -1,0 +1,2 @@
+Dayanak
+MADDE 3 — Bu Yönetmelik, 4619 sayılı Kanun ile değişik 4250 sayılı İspirto ve İspirtolu İçkiler İnhisarı Kanunu, 4733 sayılı Tütün, Tütün Mamulleri, Tuz ve Alkol İşletmeleri Genel Müdürlüğünün Yeniden Yapılandırılması ile Tütün ve Tütün Mamullerinin Üretimine, İç ve Dış Alım ve Satımına, 4046 sayılı Kanunda ve 233 sayılı Kanun Hükmünde Kararnamede Değişiklik Yapılmasına Dair Kanun ve 4703 sayılı Ürünlere İlişkin Teknik Mevzuatın Hazırlanması ve Uygulanmasına Dair Kanun hükümlerine dayanılarak hazırlanmıştır.
