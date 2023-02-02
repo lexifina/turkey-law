@@ -1,0 +1,17 @@
+{
+  "kind": "decision",
+  "issuer": "Sayıştay 1. Dairesi",
+  "number": "10890",
+  "decision_date": "2023-02-02",
+  "source_id": 36838,
+  "chamber": "1",
+  "ilam_number": "442",
+  "item_number": 1,
+  "public_body_type": "Özel İdareler",
+  "account_year": 2013,
+  "subject": "Personel Mevzuatı ile İlgili Kararlar",
+  "source": "https://www.sayistay.gov.tr/KararlarDaire/Detay/36838/",
+  "source_sha256": "05dc90c05cda00e55a68868793fa5d9341616a74ec0fff88d0a7855625386389",
+  "text_status": "as-enacted",
+  "text_file": "metin.md"
+}
