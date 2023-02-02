@@ -1,0 +1,2 @@
+Kurullar ve personelin görev, yetki ve sorumlulukları
+MADDE 14- (1) Laboratuvar okulları yönetim kurulunun görev ve yetkileri; diğer kurulların kurulması, teşkili, görev ve yetkileri ile laboratuvar okulları ve üniversite personellerinin görev, yetki ve sorumlulukları laboratuvar okulları yönetim kurulunun önerisi ve kurucu temsilcisinin onayı ile özel öğretim kurumları mevzuatına uygun olarak düzenlenir.

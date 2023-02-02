@@ -1,0 +1,3 @@
+Burslu okutulacak öğrenciler
+MADDE 19- (1) 2809 sayılı Kanunun ek 5 inci maddesinin altıncı fıkrası gereğince, Erzurum, Malatya, Şanlıurfa ve Van illerindeki laboratuvar okullarında öğrenim gören öğrencilerin en az yüzde yetmişinin burslu olması zorunludur.
+(2) Laboratuvar okullarına kabul edilecek öğrencilerden, burslu statüde okuyacak öğrencilerin, genel yetenek ve eğitim düzeyinin tespiti için giriş sınavındaki başarı sıralaması esas alınır. Giriş sınavı ve burslara ilişkin esaslar, laboratuvar okulları yönetim kurulunun teklifi ve kurucu temsilcisinin onayı ile yürürlüğe konulan yönerge ile düzenlenir.

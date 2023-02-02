@@ -1,0 +1,2 @@
+Dayanak
+MADDE 3- (1) Bu Yönetmelik, 8/2/2007 tarihli ve 5580 sayılı Özel Öğretim Kurumları Kanunu, 28/3/1983 tarihli ve 2809 sayılı Yükseköğretim Kurumları Teşkilatı Kanununun ek 5 inci maddesi, 14/10/1983 tarihli ve 2923 sayılı Yabancı Dil Eğitimi ve Öğretimi ile Türk Vatandaşlarının Farklı Dil ve Lehçelerinin Öğrenilmesi Hakkında Kanun ile 26/7/2014 tarihli ve 29072 sayılı Resmî Gazete’de yayımlanan Millî Eğitim Bakanlığı Okul Öncesi Eğitim ve İlköğretim Kurumları Yönetmeliği hükümlerine dayanılarak hazırlanmıştır.
