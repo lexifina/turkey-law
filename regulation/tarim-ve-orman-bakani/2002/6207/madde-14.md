@@ -1,0 +1,3 @@
+Sorumlu yönetici bulundurma
+Madde 14 - Alkol ve alkollü içki üretim tesisinde bulunması gereken “Sorumlu Yönetici”; gıda, kimya, ziraat mühendisliği ve eşdeğer fakültelerin, müfredatı fermantasyon, distilasyon gibi sektöre özel konuları içeren ilgili bölümlerinden, en az dört yıllık lisans veya yüksek lisans eğitimi alarak mezun olmalıdır. Yurtdışında alkollü içki konusunda uzmanlık eğitimi veren okul mezunları da bu amaçla istihdam edilebilir.
+(Ek fıkra:RG-31/12/2002-24980) Yıllık üretim kapasitesi 1.000.000 litrenin altında kalan şarap ve bira işletmelerinde “Sorumlu Yönetici” görevi, 5 işletmeye kadar, aynı kişi tarafından ifa edilebilir.

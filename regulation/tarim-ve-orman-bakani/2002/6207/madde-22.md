@@ -1,0 +1,2 @@
+Denetim
+Madde 22 - Alkol ve alkollü içki işletmelerinde, üretim prosesinin tüm aşamalarında, belirlenen denetim programına uygun olarak veya şüphe ve şikayet üzerine denetim yapılır. Ayrıca, bu Yönetmeliğin uygulanması için gerekli görülen gözetim görevlerini yürütmek üzere Kurumca tesisde personel görevlendirilebilir. Görevlendirilecek personelin temini konusunda Maliye Bakanlığı ve piyasada faaliyetini sürdürmekte olup yasal izinlerini tamamlamış bulunan tüzel kişiler ile gerekli koordinasyon sağlanır.

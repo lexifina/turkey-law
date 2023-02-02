@@ -1,0 +1,2 @@
+GEÇİCİ MADDE 5 – (Ek:RG-17/6/2014-29033)
+(Danıştay Onüçüncü Dairesinin 14/4/2022 tarihli ve E.:2016/504; K.:2022/1653 sayılı kararı ile iptal madde; Konutların bulunduğu binalarda veya açık alkollü içki satışı yapılan mekanlarla aynı binada bira üretimi yapan ve bu Yönetmeliğin yayım tarihinden önce Kurumdan Üretim İzin Belgesi almış bulunan firmalar bu maddenin yayımı tarihinden itibaren 2 yıl içinde tesislerini bu Yönetmeliğe uygun hale getirirler.)

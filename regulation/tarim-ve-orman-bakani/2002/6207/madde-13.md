@@ -1,0 +1,3 @@
+Ürün sınırlaması
+Madde 13 – (Değişik:RG-12/07/2007-26580)
+Alkol ve alkollü içki üretim tesisleri, birbirinden tamamen ayrılmış proses üniteleri şeklinde kurulmalıdır. Alkollü içki tesislerinin aynı kategori bazında projelendirilmesi esastır. Farklı kategorilerde alkollü içkilerin birlikte üretilebilmesi için Kurumdan olabilirlik raporu alınması gerekir ve bu rapor; bu Yönetmeliğin 15 inci maddesinde tanımlanan proses aşamalarının her biri için, aynı tesiste aynı veya farklı ekipmanlardan yararlanılabileceğine yönelik değerlendirme, üretim prosesinin gerekleri ve kategorilerin ayrı olarak izlenebilirliği ve piyasa riski yaratıp yaratmadığı göz önünde bulundurularak düzenlenir.
