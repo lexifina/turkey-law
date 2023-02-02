@@ -1,0 +1,17 @@
+{
+  "kind": "decision",
+  "issuer": "Sayıştay 1. Dairesi",
+  "number": "10888",
+  "decision_date": "2023-02-02",
+  "source_id": 36849,
+  "chamber": "1",
+  "ilam_number": "61",
+  "item_number": 4,
+  "public_body_type": "Belediyeler ve Bağlı İdareler",
+  "account_year": 2021,
+  "subject": "İhale Mevzuatı ile İlgili Kararlar",
+  "source": "https://www.sayistay.gov.tr/KararlarDaire/Detay/36849/",
+  "source_sha256": "14f51bfa8aa22b9514f14430529a46ec100642791e8eddd2f88cfa96c883382a",
+  "text_status": "as-enacted",
+  "text_file": "metin.md"
+}
