@@ -1,0 +1,81 @@
+{
+  "record_type": "law-metadata",
+  "document_type": "kanun",
+  "number": "7437",
+  "year": 2023,
+  "title": "Yükseköğretim Kanunu ile Bazı Kanunlarda Değişiklik Yapılmasına Dair",
+  "adopted": "2023-02-02",
+  "date_basis": "last-sitting",
+  "official_text_pdf": "http://www5.tbmm.gov.tr/tutanaklar/KANUNLAR_KARARLAR/kanuntbmmc106/kanuntbmmc106/kanuntbmmc10607437.pdf",
+  "kanunlar_dergisi": "Kanunlar Dergisi Cilt: 106",
+  "committee_reports": [
+    {
+      "label": "TBMM 403 no'lu Komisyon Raporu",
+      "url": "http://www5.tbmm.gov.tr/tutanaklar/TUTANAK/TBMM/d27/c121/tbmm27121057ss0403.pdf"
+    }
+  ],
+  "index_entries": [
+    {
+      "assembly": "TBMM",
+      "term": 27,
+      "kayit_no": 926521,
+      "title": "Yükseköğretim Kanunu ile Bazı Kanunlarda Değişiklik Yapılmasına Dair",
+      "adopted_as_published": null,
+      "official_text_pdf": "http://www5.tbmm.gov.tr/tutanaklar/KANUNLAR_KARARLAR/kanuntbmmc106/kanuntbmmc106/kanuntbmmc10607437.pdf",
+      "committee_reports": [
+        {
+          "label": "TBMM 403 no'lu Komisyon Raporu",
+          "url": "http://www5.tbmm.gov.tr/tutanaklar/TUTANAK/TBMM/d27/c121/tbmm27121057ss0403.pdf"
+        }
+      ],
+      "sittings": [
+        {
+          "cilt": 121,
+          "sitting": 57,
+          "sitting_date": "2023-02-01",
+          "minutes_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/TBMM/d27/c121/tbmm27121057.pdf",
+          "old_script_pdf": null,
+          "volume_index_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/TBMM/d27/c121/tbmm27121fih.pdf",
+          "pages": [
+            "151:167",
+            "172",
+            "186:197",
+            "198:214",
+            "216:222"
+          ],
+          "date_from": "https://www5.tbmm.gov.tr/develop/owa/tutanak_dergisi_pdfler.birlesimler?v_meclis=1&v_donem=d27&v_yasama_yili=6&v_cilt="
+        },
+        {
+          "cilt": 121,
+          "sitting": 58,
+          "sitting_date": "2023-02-02",
+          "minutes_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/TBMM/d27/c121/tbmm27121058.pdf",
+          "old_script_pdf": null,
+          "volume_index_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/TBMM/d27/c121/tbmm27121fih.pdf",
+          "pages": [
+            "277:279",
+            "279:309",
+            "311:313",
+            "314:323",
+            "325:338",
+            "339:340",
+            "347:359"
+          ],
+          "date_from": "https://www5.tbmm.gov.tr/develop/owa/tutanak_dergisi_pdfler.birlesimler?v_meclis=1&v_donem=d27&v_yasama_yili=6&v_cilt="
+        }
+      ],
+      "query": "https://www5.tbmm.gov.tr/develop/owa/td_v2.tutanak_hazirla?v_meclis=1&v_donem=27&v_yasama_yili=&v_cilt=&v_birlesim=&v_sayfa=&v_anabaslik=KANUNLAR&v_altbaslik=&v_mv=&v_sb=&v_ozet=&v_kelime=&v_bastarih=&v_bittarih=",
+      "page": "https://www5.tbmm.gov.tr/develop/owa/td_v2.tutanak_sonuc?v_meclis=1&v_donem=27&v_yasama_yili=&v_cilt=&v_birlesim=&v_sayfa=&v_anabaslik=KANUNLAR&v_altbaslik=&v_mv=&v_sb=&v_ozet=&v_bastarih=&v_bittarih=&v_kayit_sayisi=310&v_gelecek_sayfa=201&v_kullanici_id=27484872",
+      "page_sha256": "e9412d9ad52c9ac3906b54939710bf96c4735aa6ff61338470ace0cc18cb4b87"
+    }
+  ],
+  "source": "https://www5.tbmm.gov.tr/develop/owa/td_v2.tutanak_hazirla?v_meclis=1&v_donem=27&v_yasama_yili=&v_cilt=&v_birlesim=&v_sayfa=&v_anabaslik=KANUNLAR&v_altbaslik=&v_mv=&v_sb=&v_ozet=&v_kelime=&v_bastarih=&v_bittarih=",
+  "source_sha256": "e9412d9ad52c9ac3906b54939710bf96c4735aa6ff61338470ace0cc18cb4b87",
+  "issuer": "TBMM",
+  "in_force": "2023-02-02",
+  "in_force_basis": "The index gives no Kabul tarihi: date of the last plenary sitting it cites for this kanun (2023-02-02); commencement not asserted",
+  "history_type": "metadata",
+  "text_status": "metadata-only: official index fields; the text is in the linked official PDF (Kanunlar Dergisi), not transcribed",
+  "law_text_complete": false,
+  "privacy_withheld": false
+}
