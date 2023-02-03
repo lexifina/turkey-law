@@ -1,0 +1,22 @@
+{
+  "kind": "norm",
+  "issuer": "Gelir İdaresi Başkanlığı",
+  "document_type": "ozelge",
+  "number": "62030549-125-166948",
+  "source_id": 37441,
+  "date": "2023-02-03",
+  "title": "7326 sayılı Kanun kapsamında kayda alınan emtialar için ayrılan karşılığın ortaklara dağıtılması durumunda vergisel yükümlülükler",
+  "source": "https://gib.gov.tr/mevzuat/kanun/435/ozelge/37441",
+  "related_law": "5520 sayılı KURUMLAR VERGİSİ KANUNU",
+  "source_api": "https://gib.gov.tr/api/gibportal/mevzuat/ozelge/list",
+  "source_listing": "evidence/list/2026-11-16/ozelge-p008.json",
+  "source_listing_sha256": "292c126217cc32c3ccfa57495ce433f89ef8db5e75fa1946d5819a76f81aff4d",
+  "source_sha256": "2f56801fadc2550daf4507d6a321bcd808000cd3cb2c54e512a4cc74cbcbe2a3",
+  "text_status": "as-enacted",
+  "text_file": "metin.md",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  }
+}
