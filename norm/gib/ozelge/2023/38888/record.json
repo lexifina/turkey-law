@@ -1,0 +1,22 @@
+{
+  "kind": "norm",
+  "issuer": "Gelir İdaresi Başkanlığı",
+  "document_type": "ozelge",
+  "number": "E-62030549-120[21-2021]-166957",
+  "source_id": 38888,
+  "date": "2023-02-03",
+  "title": "Basit usul mükellefinin mesken kira geliri beyanı hk.",
+  "source": "https://gib.gov.tr/mevzuat/kanun/433/ozelge/38888",
+  "related_law": "193 sayılı GELİR VERGİSİ KANUNU",
+  "source_api": "https://gib.gov.tr/api/gibportal/mevzuat/ozelge/list",
+  "source_listing": "evidence/list/2026-11-16/ozelge-p009.json",
+  "source_listing_sha256": "9cb52b4963a9a177a23948f6e28c12936c2f43c88a0b410872bb81c01983667c",
+  "source_sha256": "48c747228df16c36b15a2c61bfe50641f39ba8358b78ad19de4aa3d97947265d",
+  "text_status": "as-enacted",
+  "text_file": "metin.md",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  }
+}
