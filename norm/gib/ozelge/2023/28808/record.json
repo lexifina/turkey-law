@@ -1,0 +1,22 @@
+{
+  "kind": "norm",
+  "issuer": "Gelir İdaresi Başkanlığı",
+  "document_type": "ozelge",
+  "number": "62030549-125-166919",
+  "source_id": 28808,
+  "date": "2023-02-03",
+  "title": "Adi ortaklığın ortaklarının kur korumalı mevduata ilişkin istisna karşısındaki durumu",
+  "source": "https://gib.gov.tr/mevzuat/kanun/435/ozelge/28808",
+  "related_law": "5520 sayılı KURUMLAR VERGİSİ KANUNU",
+  "source_api": "https://gib.gov.tr/api/gibportal/mevzuat/ozelge/list",
+  "source_listing": "evidence/list/2026-11-16/ozelge-p004.json",
+  "source_listing_sha256": "f3b82278308562f88be46cc93b2ac53a1050d59c304474af958f8b7377f5bef9",
+  "source_sha256": "f937fd0677d3f22c9893fa5cac427112a3774b7fa69dbd19058e7bd01ed65280",
+  "text_status": "as-enacted",
+  "text_file": "metin.md",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  }
+}
