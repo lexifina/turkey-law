@@ -1,0 +1,3 @@
+Komite ve komitenin görevleri
+MADDE 7 – (1) Komisyonun ihtiyaç duyduğu alanlarda çalışmalar yapmak amacıyla geçici nitelikte komiteler oluşturulabilir. Komite toplantıları, Komisyonda görüşülecek ve uluslararası platformda takip edilmesi Komisyon tarafından uygun görülen konular kapsamında yapılır. Bu komitelerin sayısına ve üzerinde çalışılacak konulara, her yılın ilk Komisyon toplantısında veya yıl içerisinde gerekli görülen durumlarda Komisyon tarafından karar verilir.
+(2) Komiteler, Komisyon tarafından görüşülecek konuya göre Komisyonu oluşturan üyeler ya da uzman kişiler arasından oluşturulur. Komisyon tarafından gerekli görülmesi halinde, Komite toplantılarına katılmak üzere, dışarıdan uzman davet edilebilir.

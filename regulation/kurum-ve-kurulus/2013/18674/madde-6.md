@@ -1,0 +1,5 @@
+Komisyon toplantıları ve karar
+MADDE 6 – (1) Komisyon olağan toplantısı, (Değişik ibare:RG-30/7/2019-30847) yılda iki defa yapılır. Komisyon, Sekretaryanın çağrısı üzerine üye tam sayısının salt çoğunluğu ile toplanır ve mutabakat ile karar verir. Belirtilen karar yeter sayısının oluşmaması halinde toplantıya katılanların salt çoğunluğu ile karar alınır.
+(2) Komisyon gündemi, kurul üyelerinin teklifleri de dikkate alınarak Bakanlıkça belirlenir ve toplantı tarihinden on beş gün önce Sekretarya tarafından 5 inci maddede belirtilen kamu ve özel hukuk tüzel kişilerine bildirilir.
+(3) Bakanlıkça gerek görülmesi halinde, Sekretaryanın toplantı tarihinden on beş gün önce gündem maddelerini ve toplantı zamanını bildirmesi koşulu ile Komisyon olağanüstü toplanabilir. Bu toplantılarda, gündemde yer almayan konular görüşülmez. Olağanüstü toplantı ve karar nisabı, birinci fıkra hükümlerine tabidir.
+(4) Toplantı sonucunda oluşturulan rapor, 5 inci maddede belirtilen kamu ve özel hukuk tüzel kişilerine Sekretarya tarafından gönderilir. Komisyon raporu, söz konusu birimler için tavsiye niteliğindedir.

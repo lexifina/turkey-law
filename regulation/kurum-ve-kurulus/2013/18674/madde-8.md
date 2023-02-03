@@ -1,0 +1,5 @@
+Komite toplantıları ve karar
+MADDE 8 – (1) Komiteler, olağan zamanda, birer haftalık dönemler içerisinde Sekretaryanın çağrısı üzerine toplanır ve toplantıya katılanların salt çoğunluğu ile karar verir.
+(2) Komite üyelerinin salt çoğunluğunun kararı ile olağan toplantı süresi kısaltılabilir. Komite üyelerinin oybirliği ile karar vermesi halinde komiteler ara vermeksizin toplanabilir.
+(3) Her toplantı sonrasında toplantı konusu, müzakere edilen başlıklar ve yapılan değerlendirmeler tutanağa kaydedilir ve hazır bulunanlar tarafından imzalanır.
+(4) Komite toplantıları en fazla bir ay sürer. Komitelere havale edilen işlerle ilgili raporlar bu sürenin sonunda ya da en geç iki ay içerisinde, üyelerinin imzasını içeren rapor düzenlenerek Sekretaryaya teslim edilir. Sekretarya, Komisyon toplantısından on beş gün önce düzenlenen raporu üyelere dağıtır. Bu rapor, Komisyon tarafından toplantıya katılanların salt çoğunluğuyla kabul edildiği takdirde, 5 inci maddede belirtilen kamu ve özel hukuk tüzel kişileri açısından tavsiye niteliği taşır.
