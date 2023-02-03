@@ -1,0 +1,22 @@
+{
+  "kind": "norm",
+  "issuer": "Gelir İdaresi Başkanlığı",
+  "document_type": "ozelge",
+  "number": "62030549-120[89/2021]-166958",
+  "source_id": 37715,
+  "date": "2023-02-03",
+  "title": "Tema Vakfına yapılan bağış ve yardımların gelir vergisi mükellefleri tarafından indirim konusu yapılıp yapılmayacağı.",
+  "source": "https://gib.gov.tr/mevzuat/kanun/433/ozelge/37715",
+  "related_law": "193 sayılı GELİR VERGİSİ KANUNU",
+  "source_api": "https://gib.gov.tr/api/gibportal/mevzuat/ozelge/list",
+  "source_listing": "evidence/list/2026-11-16/ozelge-p008.json",
+  "source_listing_sha256": "292c126217cc32c3ccfa57495ce433f89ef8db5e75fa1946d5819a76f81aff4d",
+  "source_sha256": "1fc4e23b73f8805a8213572d18893c4965be1006a9485b1a63ae17fb01c26b16",
+  "text_status": "as-enacted",
+  "text_file": "metin.md",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  }
+}
