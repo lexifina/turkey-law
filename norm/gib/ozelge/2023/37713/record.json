@@ -1,0 +1,22 @@
+{
+  "kind": "norm",
+  "issuer": "Gelir İdaresi Başkanlığı",
+  "document_type": "ozelge",
+  "number": "53849047-120-718",
+  "source_id": 37713,
+  "date": "2023-02-06",
+  "title": "Konut olarak kiraya verilen evin kiracı tarafından bir odasının home ofis olarak kullanılması durumunda elde edilen kira gelirinin ne şekilde beyan edileceği",
+  "source": "https://gib.gov.tr/mevzuat/kanun/433/ozelge/37713",
+  "related_law": "193 sayılı GELİR VERGİSİ KANUNU",
+  "source_api": "https://gib.gov.tr/api/gibportal/mevzuat/ozelge/list",
+  "source_listing": "evidence/list/2026-11-16/ozelge-p008.json",
+  "source_listing_sha256": "292c126217cc32c3ccfa57495ce433f89ef8db5e75fa1946d5819a76f81aff4d",
+  "source_sha256": "d44dd92eac91192a946f0d104168e354239e9bc497eeea72d7d1f11d00deae23",
+  "text_status": "as-enacted",
+  "text_file": "metin.md",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  }
+}
