@@ -1,0 +1,22 @@
+{
+  "kind": "norm",
+  "issuer": "Gelir İdaresi Başkanlığı",
+  "document_type": "ozelge",
+  "number": "84098128-125-71478",
+  "source_id": 28157,
+  "date": "2023-02-06",
+  "title": "Maden işletmesinin yol yapım masraflarının giderleştirilmesi.",
+  "source": "https://gib.gov.tr/mevzuat/kanun/435/ozelge/28157",
+  "related_law": "5520 sayılı KURUMLAR VERGİSİ KANUNU",
+  "source_api": "https://gib.gov.tr/api/gibportal/mevzuat/ozelge/list",
+  "source_listing": "evidence/list/2026-11-16/ozelge-p003.json",
+  "source_listing_sha256": "b8eb1aba686c15efb9ca96f819c840940788d8f48769f30127e032220fbff4ab",
+  "source_sha256": "16283ac2f95f609d19cbbf2eda4e5968b7bc3a831cd91b52056b363ac5b1455a",
+  "text_status": "as-enacted",
+  "text_file": "metin.md",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  }
+}
