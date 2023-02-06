@@ -1,0 +1,39 @@
+{
+  "checked_on": "2026-11-14",
+  "commencement_clauses": [
+    "MADDE 14- (1) Bu Yönetmelik yayımı tarihinde yürürlüğe girer."
+  ],
+  "date_evidence": [
+    [
+      "2023-02-06",
+      "06.02.2023",
+      "original gazette publication date in official listing"
+    ]
+  ],
+  "date_quote": "MADDE 14- (1) Bu Yönetmelik yayımı tarihinde yürürlüğe girer.",
+  "first_law": null,
+  "gazette": "32096",
+  "history": "current-text",
+  "images": {
+    "deferred": 0,
+    "omitted": 0,
+    "referenced": 0,
+    "source": 0
+  },
+  "in_force": "2023-02-06",
+  "in_force_basis": "source commencement clause: enters into force on gazette publication",
+  "issuer": "Karamanoğlu Mehmetbey Üniversitesi",
+  "issuer_slug": "karamanoglu-mehmetbey-universitesi",
+  "kind": "regulation",
+  "label": "oldest version available",
+  "path": "regulation/karamanoglu-mehmetbey-universitesi/2023/40064",
+  "published": "2023-02-06",
+  "source": "https://www.mevzuat.gov.tr/anasayfa/MevzuatFihristDetayIframe?MevzuatTur=8&MevzuatNo=40064&MevzuatTertip=5",
+  "source_bytes": 43647,
+  "source_id": "8.5.40064",
+  "source_sha256": "89315a202bea353e55a3c70cf0ed522c7b909d302898a2b4ca61cd22d7b48293",
+  "text_status": "as-enacted",
+  "title": "KARAMANOĞLU MEHMETBEY ÜNİVERSİTESİ DENEY HAYVANLARI UYGULAMA VE ARAŞTIRMA MERKEZİ YÖNETMELİĞİ",
+  "university_id": 311,
+  "word_count": 735
+}
