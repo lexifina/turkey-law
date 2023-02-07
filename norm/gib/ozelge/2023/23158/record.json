@@ -1,0 +1,22 @@
+{
+  "kind": "norm",
+  "issuer": "Gelir İdaresi Başkanlığı",
+  "document_type": "ozelge",
+  "number": "62030549-120[94-2020/732]-174297",
+  "source_id": 23158,
+  "date": "2023-02-07",
+  "title": "Yurtdışı mukimi Alman Büyükelçiliği Özel Okulu öğretmenine ödenen emekli maaşının vergilendirilmesi",
+  "source": "https://gib.gov.tr/mevzuat/kanun/433/ozelge/23158",
+  "related_law": "193 sayılı GELİR VERGİSİ KANUNU",
+  "source_api": "https://gib.gov.tr/api/gibportal/mevzuat/ozelge/list",
+  "source_listing": "evidence/list/2026-11-16/ozelge-p001.json",
+  "source_listing_sha256": "e5c572e7d33c4a72997f66e3999bee09f80c627cabe3ea5a6521aa3f8abee01f",
+  "source_sha256": "bfc5cf606a98956d2b1aa28e52340d50f99eef89afce8debf097bc769345d5d1",
+  "text_status": "as-enacted",
+  "text_file": "metin.md",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  }
+}
