@@ -1,0 +1,2 @@
+Mevcut üyelerin durumu
+GEÇİCİ MADDE 1 – (1) (Değişik ibare:RG-7/2/2023-32097) Kanunun 55 inci ve 65 inci maddelerinin üçüncü fıkralarının yürürlüğe girdiği tarihte görev süresi devam eden üyelerde, yapılacak ilk seçimlere kadar kooperatifçilik eğitim şartı aranmaz. Kanunun 55 inci ve 65 inci maddelerinin üçüncü fıkralarında yer alan 9 aylık süre 31/12/2022 tarihine kadar seçilecek yönetim kurulu üyeleri ve denetçiler için bu tarihten itibaren başlar.
