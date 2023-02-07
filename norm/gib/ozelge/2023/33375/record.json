@@ -1,0 +1,22 @@
+{
+  "kind": "norm",
+  "issuer": "Gelir İdaresi Başkanlığı",
+  "document_type": "ozelge",
+  "number": "25253958-130[29-2021-61]-10553",
+  "source_id": 33375,
+  "date": "2023-02-07",
+  "title": "İş ortaklığının, ortaklığı oluşturan firmalardan birine devredilmesinden sonraki tarihlerde ortaklık adına düzenlenen faturaların vergilendirilmesi ve belge düzeni",
+  "source": "https://gib.gov.tr/mevzuat/kanun/435/ozelge/33375",
+  "related_law": "5520 sayılı KURUMLAR VERGİSİ KANUNU",
+  "source_api": "https://gib.gov.tr/api/gibportal/mevzuat/ozelge/list",
+  "source_listing": "evidence/list/2026-11-16/ozelge-p006.json",
+  "source_listing_sha256": "b46360359770c9a5ea4fa9aa8dcd84735fb9ad66a4d8175b30588dafb983503d",
+  "source_sha256": "14c70103226e37c9a3bd1c67300b093fc3bd590da3f26f3ec01242165c32b7fe",
+  "text_status": "as-enacted",
+  "text_file": "metin.md",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  }
+}
