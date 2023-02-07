@@ -1,0 +1,19 @@
+{
+  "kind": "norm",
+  "issuer": "Bilgi Teknolojileri ve İletişim Kurumu",
+  "document_type": "board-decision",
+  "number": "2023/DK-ETD/61",
+  "date": "2023-02-07",
+  "title": "Genişbant Kampanyaları Revizyonu",
+  "relevant_unit": "Erişim ve Tarifeler Dairesi Başkanlığı",
+  "publication_date": "2023-02-07",
+  "source": "https://www.btk.gov.tr/kurul-kararlari?page=15",
+  "official_document": "https://www.btk.gov.tr/s3/web-btk-site/7708c26c-5161-4919-8b3d-daa31d4ac8fb/2026/03/0af7aca1-203e-43c5-ab1a-b57abffd4356.pdf",
+  "source_sha256": "9d216d6d582e63dda9dde88030258be82509a321859369a0849ad960100a0a47",
+  "history_type": "metadata",
+  "text_status": "metadata-only: official list fields; decision text is in the linked official PDF, not transcribed",
+  "in_force": "2023-02-07",
+  "in_force_basis": "Decision date as printed in the official BTK list (Karar tarihi ve no): 07.02.2023; adoption date of the board decision; commencement not asserted",
+  "law_text_complete": false,
+  "privacy_withheld": false
+}
