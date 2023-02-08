@@ -1,0 +1,22 @@
+{
+  "kind": "norm",
+  "issuer": "Gelir İdaresi Başkanlığı",
+  "document_type": "ozelge",
+  "number": "84974990-130[KDV-2/İ/01-2022/46]-72807",
+  "source_id": 27555,
+  "date": "2023-02-08",
+  "title": "İngiltere Mukimi Firmaya Yaptırılan İdrar Tahlili İşleminin Vergilendirilmesi.",
+  "source": "https://gib.gov.tr/mevzuat/kanun/435/ozelge/27555",
+  "related_law": "5520 sayılı KURUMLAR VERGİSİ KANUNU",
+  "source_api": "https://gib.gov.tr/api/gibportal/mevzuat/ozelge/list",
+  "source_listing": "evidence/list/2026-11-16/ozelge-p003.json",
+  "source_listing_sha256": "b8eb1aba686c15efb9ca96f819c840940788d8f48769f30127e032220fbff4ab",
+  "source_sha256": "eac7a12e61175677b2fa562c392134166c81deef575dadf1303fd8e3961d8964",
+  "text_status": "as-enacted",
+  "text_file": "metin.md",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  }
+}
