@@ -1,0 +1,16 @@
+{
+  "kind": "decision",
+  "issuer": "Sayıştay Temyiz Kurulu",
+  "number": "53861",
+  "decision_date": "2023-02-08",
+  "source_id": 28400,
+  "chamber": "5",
+  "file_number": "52293",
+  "public_body_type": "Belediyeler ve Bağlı İdareler",
+  "account_year": "2013",
+  "subject": "Çeşitli Konuları İlgilendiren Kararlar",
+  "source": "https://www.sayistay.gov.tr/KararlarTemyiz/Detay/28400/",
+  "source_sha256": "eda2e0339e2cf6669f1852760323040969327e350b799c8875809c2fb0d90440",
+  "text_status": "metadata-only",
+  "metadata_only_reason": "possible personal name in the official text"
+}
