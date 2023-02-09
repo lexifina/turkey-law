@@ -1,0 +1,25 @@
+{
+  "kind": "norm",
+  "issuer": "Enerji Piyasası Düzenleme Kurumu",
+  "market": "petroleum",
+  "document_type": "board-decision",
+  "number": "11632",
+  "decision_date": "2023-02-09",
+  "title": "OHAL kapsamında tüm lisans sahiplerinin 5015 sayılı Petrol Piyasası Kanunu ve ikincil mevzuatı kapsamındaki süreli yükümlülüklerinin ertelenmesine ilişkin",
+  "resmi_gazete_date": "2023-02-10",
+  "resmi_gazete_number": "32100",
+  "categories": [
+    "Petrol Piyasası Kurul Kararları"
+  ],
+  "source": "https://www.epdk.gov.tr/Detay/DownloadDocument?id=qnvhweN2rOE=",
+  "documents": [
+    "https://www.epdk.gov.tr/Detay/DownloadDocument?id=qnvhweN2rOE="
+  ],
+  "source_sha256": "21194937d29b6dd014f43bac7077a9b093cf887f260376f25abcc2d3d791aa1a",
+  "official_list": "https://www.epdk.gov.tr/Detay/Icerik/3-0-100/kurul-kararlari",
+  "official_list_leaf": 14711,
+  "text_status": "as-enacted",
+  "text_file": "metin.md",
+  "in_force": "2023-02-09",
+  "law_text_complete": true
+}
