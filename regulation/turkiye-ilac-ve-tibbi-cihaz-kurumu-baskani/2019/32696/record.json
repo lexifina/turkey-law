@@ -1,0 +1,43 @@
+{
+  "source_id": "7.5.32696",
+  "kind": "regulation",
+  "register_kind": "Kurum ve Kuruluş Yönetmelikleri",
+  "title": "TÜRKİYE İLAÇ VE TIBBİ CİHAZ KURUMU BİLİMSEL DANIŞMA KOMİSYONLARI İLE KURULLARININ TEŞKİLİ VE GÖREVLERİ HAKKINDA YÖNETMELİK",
+  "number": "32696",
+  "issuer": "Türkiye İlaç ve Tıbbi Cihaz Kurumu Başkanı",
+  "issuer_slug": "turkiye-ilac-ve-tibbi-cihaz-kurumu-baskani",
+  "path": "regulation/turkiye-ilac-ve-tibbi-cihaz-kurumu-baskani/2019/32696",
+  "source": "https://www.mevzuat.gov.tr/anasayfa/MevzuatFihristDetayIframe?MevzuatTur=7&MevzuatNo=32696&MevzuatTertip=5",
+  "source_sha256": "f51ba7a5875392f78e20dfbd0fea6163cd03b7936db538523b9270cf13c1cb00",
+  "source_bytes": 33170,
+  "published": "2019-08-01",
+  "gazette": "30849",
+  "in_force": "2023-02-09",
+  "in_force_basis": "latest Resmî Gazete date printed in the source amendment notes/table (\"RG-9/2/2023\") for the current consolidated text",
+  "date_evidence": [
+    [
+      "2023-02-09",
+      "RG-9/2/2023",
+      "Resmî Gazete date printed in the source amendment note"
+    ],
+    [
+      "2023-02-09",
+      "9/2/2023",
+      "Resmî Gazete date in the source amendment table"
+    ]
+  ],
+  "commencement_clauses": [
+    "Bu Yönetmelik yayımı tarihinde yürürlüğe girer"
+  ],
+  "history": "current-text",
+  "label": "oldest version available",
+  "checked_on": "2026-11-15",
+  "word_count": 951,
+  "text_status": "current-consolidated",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  },
+  "completeness": "html-text-complete"
+}
