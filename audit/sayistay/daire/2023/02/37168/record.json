@@ -1,0 +1,17 @@
+{
+  "kind": "decision",
+  "issuer": "Sayıştay 3. Dairesi",
+  "number": "439",
+  "decision_date": "2023-02-09",
+  "source_id": 37168,
+  "chamber": "3",
+  "ilam_number": "122",
+  "item_number": 1,
+  "public_body_type": "Belediyeler ve Bağlı İdareler",
+  "account_year": 2021,
+  "subject": "Personel Mevzuatı ile İlgili Kararlar",
+  "source": "https://www.sayistay.gov.tr/KararlarDaire/Detay/37168/",
+  "source_sha256": "292bbec29e4c076b82475086a65bd57dc3ebe938fb86ffbcb80f7c382a0748a2",
+  "text_status": "as-enacted",
+  "text_file": "metin.md"
+}
