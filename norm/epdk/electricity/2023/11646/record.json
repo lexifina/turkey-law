@@ -1,0 +1,25 @@
+{
+  "kind": "norm",
+  "issuer": "Enerji Piyasası Düzenleme Kurumu",
+  "market": "electricity",
+  "document_type": "board-decision",
+  "number": "11646",
+  "decision_date": "2023-02-09",
+  "title": "Adana, Adıyaman, Diyarbakır, Gaziantep, Hatay, Kahramanmaraş, Kilis, Malatya, Osmaniye ve Şanlıurfa illerinde 08/02/2023 tarihinden itibaren üç ay süreyle ilan edilen Olağanüstü Hal sebebiyle Kurumumuza yapılan depolamalı önlisans başvurularına ilişkin;",
+  "resmi_gazete_date": "2023-02-10",
+  "resmi_gazete_number": "32100",
+  "categories": [
+    "6 Şubat 2023 tarihinde Kahramanmaraş merkezli olarak meydana gelen depremlere İlişkin"
+  ],
+  "source": "https://www.epdk.gov.tr/Detay/DownloadDocument?id=7c40VnMtl+o=",
+  "documents": [
+    "https://www.epdk.gov.tr/Detay/DownloadDocument?id=7c40VnMtl+o="
+  ],
+  "source_sha256": "e9e5a975088feab29ab8d2e135faae37484af16ec50f634a4aed7a4634d3fcbe",
+  "official_list": "https://www.epdk.gov.tr/Detay/Icerik/3-0-39/kurul-kararlari-",
+  "official_list_leaf": 33862,
+  "text_status": "as-enacted",
+  "text_file": "metin.md",
+  "in_force": "2023-02-09",
+  "law_text_complete": true
+}
