@@ -1,0 +1,17 @@
+{
+  "kind": "decision",
+  "issuer": "Sayıştay 3. Dairesi",
+  "number": "438",
+  "decision_date": "2023-02-09",
+  "source_id": 37148,
+  "chamber": "3",
+  "ilam_number": "98",
+  "item_number": 2,
+  "public_body_type": "Yüksek Öğretim Kurumları",
+  "account_year": 2021,
+  "subject": "İhale Mevzuatı ile İlgili Kararlar",
+  "source": "https://www.sayistay.gov.tr/KararlarDaire/Detay/37148/",
+  "source_sha256": "85285dede367e5e5887fefecbfc3b15f66bc5ff16c9c99ec873b00548929dc1c",
+  "text_status": "as-enacted",
+  "text_file": "metin.md"
+}
