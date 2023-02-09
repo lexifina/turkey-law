@@ -1,0 +1,17 @@
+{
+  "kind": "decision",
+  "issuer": "Sayıştay 3. Dairesi",
+  "number": "440",
+  "decision_date": "2023-02-09",
+  "source_id": 36606,
+  "chamber": "3",
+  "ilam_number": "40",
+  "item_number": 1,
+  "public_body_type": "Düzenleyici ve Denetleyici Kurumlar",
+  "account_year": 2021,
+  "subject": "Personel Mevzuatı ile İlgili Kararlar",
+  "source": "https://www.sayistay.gov.tr/KararlarDaire/Detay/36606/",
+  "source_sha256": "8a43104c65b8538c9c8ebb24509f447691bab3c240e6c48164f9430d7fb35e7d",
+  "text_status": "as-enacted",
+  "text_file": "metin.md"
+}
