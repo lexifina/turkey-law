@@ -1,0 +1,13 @@
+Sözleşme Damga Vergisi
+
+... ihale kayıt numaralı “Beton Kilit Parke ile Yol Yapım” işinde ... tarihinde yüklenici “... Sanayi ve Ticaret Limited Şirketi” ile alt yüklenici “... Sanayi Ticaret Limited Şirketi” arasında düzenlenen alt yüklenici sözleşmesinde sözleşme damga vergisi tahsilatının yapılmadığı görülmüştür.
+
+488 sayılı Damga Vergisi Kanununun “Konu” başlıklı 1’inci maddesinin ilk fıkrasında; bu Kanun’a ekli (1) sayılı tabloda yazılı kağıtların damga vergisine tabi olduğu, “Mükellef” başlıklı 3’üncü maddesinde; damga vergisi mükellefinin kağıtları imza edenler olduğu, “Vergi ve cezada sorumluluk” başlıklı 24’üncü maddesinin ikinci fıkrasında; birden fazla kişi tarafından imza edilen kağıtlara ait vergi ve cezanın tamamından imza edenlerin müteselsilen sorumlu olduğu ve “Resmi Dairelerin Mecburiyeti” başlıklı 26’ncı maddesinde; resmi dairelerin ilgili memurları kendilerine ibraz edilen kağıtların Damga Vergisini aramaya ve vergisi hiç ödenmemiş veya noksan ödenmiş olanları bir tutanakla tespit etmeye veya bunların tutanağını düzenlemek üzere, vergi dairesine göndermeye mecbur oldukları belirtilmiştir. Ayrıca söz konusu kanuna ekli (1) sayılı tablonun “I. Akitlerle ilgili kâğıtlar” başlıklı bölümünde belli parayı ihtiva eden sözleşmelerden binde 9,48 oranında damga vergisi alınması gerekmektedir.
+
+... ihale kayıt numaralı “Beton Kilit Parke ile Yol Yapım” işine ait ihale işlem dosyasında yer alan ihale sözleşmesinin 15’inci ve idari şartnamenin 18’inci maddesinde, idarenin onayı ile alt yüklenici çalıştırılabileceği düzenlenmiştir. Yapılan incelemede; ... tarihinde yüklenici “... Sanayi ve Ticaret Limited Şirketi” ile alt yüklenici “... Sanayi Ticaret Limited Şirketi” arasında idarenin onayı ile alt yüklenici sözleşmesinin düzenlendiği ve bu sözleşemeye ait damga vergisinin ödendiğine ilişkin bir belgenin olmadığı görülmüştür.  Dolayısıyla, yüklenici ile alt yüklenici arasında imzalanan sözleşmeden damga vergisi kesilmemesi kamu zararı oluşturmaktadır.
+
+Bununla birlikte sorumluların savunmaları ile ekindeki belgelerin incelenmesi sonucunda, söz konusu toplam ... TL kamu zararının ... tarih ve ... no.lu banka dekontu ile ilgili vergi dairesinin hesabına yatırıldığı görülmüştür.
+
+Bu itibarla, yüklenici ile alt yüklenici arasında imzalanan KDV hariç ... TL tutarındaki sözleşmeden doğan binde 9,48 oranında damga vergisinin ödenmemesi sonucu oluşan toplam ... TL kamu zararının tahsil edildiği anlaşıldığından ilişilecek bir husus kalmadığına,
+
+İşbu ilamın tebliğinden itibaren altmış gün içerisinde 6085 sayılı Sayıştay Kanununun 55’inci maddesi uyarınca Sayıştay Temyiz Kurulu nezdinde temyiz yolu açık olmak üzere oy birliğiyle,
