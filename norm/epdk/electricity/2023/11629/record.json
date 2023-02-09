@@ -1,0 +1,25 @@
+{
+  "kind": "norm",
+  "issuer": "Enerji Piyasası Düzenleme Kurumu",
+  "market": "electricity",
+  "document_type": "board-decision",
+  "number": "11629",
+  "decision_date": "2023-02-09",
+  "title": "Kahramanmaraş, Gaziantep, Kilis, Hatay, Osmaniye, Adana, Adıyaman, Diyarbakır, Şanlıurfa ve Malatya illeri için olağanüstü hal süresince temerrüt faizinin uygulanmamasına ilişkin",
+  "resmi_gazete_date": "2023-02-10",
+  "resmi_gazete_number": "32100",
+  "categories": [
+    "6 Şubat 2023 tarihinde Kahramanmaraş merkezli olarak meydana gelen depremlere İlişkin"
+  ],
+  "source": "https://www.epdk.gov.tr/Detay/DownloadDocument?id=LPlxXnYRqt4=",
+  "documents": [
+    "https://www.epdk.gov.tr/Detay/DownloadDocument?id=LPlxXnYRqt4="
+  ],
+  "source_sha256": "1d27e8c7f317c31e3784de4646c0dc5ee5a8b5c302df59c9db5e995c4e360cdd",
+  "official_list": "https://www.epdk.gov.tr/Detay/Icerik/3-0-39/kurul-kararlari-",
+  "official_list_leaf": 33862,
+  "text_status": "as-enacted",
+  "text_file": "metin.md",
+  "in_force": "2023-02-09",
+  "law_text_complete": true
+}
