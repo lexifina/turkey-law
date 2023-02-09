@@ -1,0 +1,17 @@
+{
+  "kind": "decision",
+  "issuer": "Sayıştay 3. Dairesi",
+  "number": "439",
+  "decision_date": "2023-02-09",
+  "source_id": 37269,
+  "chamber": "3",
+  "ilam_number": "122",
+  "item_number": 23,
+  "public_body_type": "Belediyeler ve Bağlı İdareler",
+  "account_year": 2021,
+  "subject": "Çeşitli Konuları İlgilendiren Kararlar",
+  "source": "https://www.sayistay.gov.tr/KararlarDaire/Detay/37269/",
+  "source_sha256": "3bd28eede17d03626a0aa98c5afde03cf22490b689d5e84bfc5b6474ee749db6",
+  "text_status": "as-enacted",
+  "text_file": "metin.md"
+}

@@ -1,0 +1,27 @@
+Proje Kapsamında Hibe Şeklinde Alınan Dövizin Türk Lirasına Çevrilmek Suretiyle Cari Harcamalar İçin Kullanılması ve Projenin İptalinden Sonra Daha Yüksek Kur Üzerinden Tekrar Satın Alınmak Suretiyle İade Edilmesi
+
+Avrupa Birliği Projesi kapsamında hibe şeklinde alınan Avro cinsinden dövizin, Türk Lirasına çevrilmek suretiyle cari harcamalar için kullanılması ve Projenin iptalinden sonra, Avro cinsinden iadesi ihtiyacı hasıl olan tutarın daha yüksek kur üzerinden tekrar satın alınması suretiyle ..... TL kamu zararına sebebiyet verildiği iddiasına ilişkin dosyada mevcut bilgi ve belgeler incelenmiştir.
+
+Özel olarak Avrupa Birliği Projeleri kapsamında temin edilen hibeler ile ilgili yapılması gereken işlemleri düzenleyen tek mevzuat olan, 27/11/2007 tarihli ve 26713 sayılı Resmi Gazete’de yayımlanarak yürürlüğe giren, Avrupa Birliği ve Uluslararası Kuruluşların Kaynaklarından Kamu İdarelerine Proje Karşılığı Aktarılan Hibe Tutarlarının Harcanması ve Muhasebeleştirilmesine İlişkin Yönetmeliğin “Kapsam” başlıklı 2 nci maddesinde; bu yönetmeliğin, 5018 sayılı Kamu Mali Yönetimi ve Kontrol Kanununa ekli (I) ve (II) sayılı cetvellerde yer alan kamu idarelerini kapsadığı düzenlenmiştir. Dolayısıyla mahalli idareler söz konusu yönetmeliğin kapsamında yer almamaktadır.
+
+Belediyelerce Avrupa Birliği Projeleri kapsamında temin edilen hibeleri düzenleyen özel bir mevzuat olmadığından, sorguya konu hibe işlemlerinin hukuka uygun olup olmadığına karar verilmesi hususunda esas alınacak düzenlemeler, genel mevzuat hükümleri ve Belediyenin hibeyi verenler ile yaptığı sözleşme hükümleri olacaktır.
+
+13/7/2005 tarihli ve 25874 sayılı Resmi Gazete’de yayımlanarak yürürlüğe giren 5393 sayılı Belediye Kanununun “Belediyenin yetkileri ve imtiyazları” başlıklı 15 inci maddesinin birinci fıkrasının a bendine göre, belde sakinlerinin mahallî müşterek nitelikteki ihtiyaçlarını karşılamak amacıyla her türlü faaliyet ve girişimde bulunmak belediyelerin yetki ve imtiyazları arasındadır. Bu kapsamda İlçedeki binalarda daha az enerji harcanarak daha yüksek konfor şartlarının sağlanmasını amaçlayan bir proje için Avrupa Birliği destekli bir hibe sağlanması için gerekli girişimlerde bulunmak Belediye Kanununun yukarıda yazılı maddesi ile uyarlıdır.
+
+Temin edilen hibenin nasıl kullanılacağı veya hibeyi verene nasıl iade edileceği hususları ile ilgili olarak ise, hibeyi verenle yapılan, İngilizce olarak çok kısa bir metin şeklinde düzenlenmiş sözleşme ve ekleri incelendiğinde, İlçedeki binalarda daha az enerji harcanarak daha yüksek konfor şartlarının sağlanmasını amaçlayan bu proje için Belediyeye ..... Avro hibe verildiği, söz konusu hibenin nasıl kullanıldığına ilişkin belgelerin hibeyi verene düzenli olarak iletilmesi gerektiği, hibenin projedeki amaca uygun olarak harcanmayan kısmının yine hibe verene Avro olarak iade edileceği hususlarında tarafların anlaştığı; ancak, verilen hibenin, özel bir Avro hesabında tutulması gerektiği, Proje dışında hiçbir amaç için kullanılamayacağı,  Türk Lirasına çevrilemeyeceği, herhangi bir makamdan onay alınmadıkça harcanamayacağı yönünde Sözleşmede bir hükmün yer almadığı,
+
+Belediye tarafından açılan bir Avro hesabına gönderilen hibeye ilişkin olarak Belediye tarafından yapılan işlemler incelendiğinde ise; gelen hibenin, Türk Lirasına çevrilmek suretiyle Belediyenin cari Türk Lirası Hesabına aktarıldığı, hem Proje kapsamındaki faaliyetlerde hem de ihtiyaç oldukça Belediyenin diğer faaliyetlerinde kullanılmak suretiyle tamamının harcandığı, Proje kapsamında yapılan çalışmalar Projenin iptali sebebi ile sona erdiğinde, kullanılmamış ..... Avro’luk tutarın Sözleşme gereği yine Avro cinsinden iadesi ihtiyacının hasıl olduğu, bu amaçla Belediyenin Türk Lirası cinsinden nakit kaynağını kullanarak Avro temin ettiği, hibe geldiğinde Türk Lirasına çevrilirken esas alınan Avro kurunun iade için gerekli Avro temin edilirken esas alınan Avro kurundan düşük olduğu
+
+görülmüştür.
+
+Hibe ile ilgili olarak Belediye tarafından yapılan ve sorguya konu olan işlemlerin bahsi geçen sözleşmeye uygun olup olmadığı değerlendirildiğinde;
+
+Alınan hibenin; özel bir Avro hesabında tutulması gerektiği, Türk Lirasına çevrilemeyeceği, herhangi bir makamdan onay alınmadıkça harcanamayacağı veya Proje dışında hiçbir amaç için kullanılamayacağı yönünde Sözleşmede bir hüküm bulunmadığından;
+
+Söz konusu hibe tutarının Türk Lirasına çevrilmesi ve Proje dışındaki amaçlar için kullanılması işlemleri ile,
+
+Proje iptali sebebi ile kullanılmamış ..... Avro’luk tutarın Sözleşme gereği yine Avro cinsinden iadesi ihtiyacı hasıl olduğunda Belediyenin Türk Lirası cinsinden nakit kaynağını kullanarak Avro temin etmesi işlemlerinin
+
+Sözleşme hükümlerine uygun olduğu sonucuna varılmıştır.
+
+Sonuç itibariyle; yukarıda yapılan açıklamalar uyarınca, Avrupa Birliği Projesi kapsamında hibe şeklinde alınan Avro cinsinden dövizin, Türk Lirasına çevrilmek suretiyle cari harcamalar için kullanılması ve Projenin iptalinden sonra Avro cinsinden iadesi gereken tutarın daha yüksek kur üzerinden tekrar satın alınması işlemlerinde herhangi bir mevzuata aykırılık bulunmadığından, Rapora konu edilen ..... TL’lik kamu zararı iddiası ile ilgili olarak ilişilecek husus bulunmadığına 6085 sayılı Sayıştay Kanununun 55 inci maddesi uyarınca ilamın tebliğ tarihinden itibaren altmış gün içerisinde Sayıştay Temyiz Kurulu nezdinde temyiz yolu açık olmak üzere oy birliğiyle karar verildi.
