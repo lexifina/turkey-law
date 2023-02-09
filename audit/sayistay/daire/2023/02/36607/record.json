@@ -1,0 +1,17 @@
+{
+  "kind": "decision",
+  "issuer": "Sayıştay 3. Dairesi",
+  "number": "440",
+  "decision_date": "2023-02-09",
+  "source_id": 36607,
+  "chamber": "3",
+  "ilam_number": "40",
+  "item_number": 2,
+  "public_body_type": "Düzenleyici ve Denetleyici Kurumlar",
+  "account_year": 2021,
+  "subject": "Çeşitli Konuları İlgilendiren Kararlar",
+  "source": "https://www.sayistay.gov.tr/KararlarDaire/Detay/36607/",
+  "source_sha256": "f11519acc49e9e1018ce030f32a13e0cf444fe49ad75e9ff90c9859108c2847b",
+  "text_status": "as-enacted",
+  "text_file": "metin.md"
+}
