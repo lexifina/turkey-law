@@ -1,0 +1,25 @@
+{
+  "kind": "norm",
+  "issuer": "Enerji Piyasası Düzenleme Kurumu",
+  "market": "petroleum",
+  "document_type": "board-decision",
+  "number": "11634",
+  "decision_date": "2023-02-09",
+  "title": "Ham Petrol, Akaryakıt, İhrakiye, Madeni Yağ, Baz Yağ Ve Petrolle İlişkili Maddelere Dair Kararda Değişiklik Yapılmasına Dair Karar",
+  "resmi_gazete_date": "2023-02-14",
+  "resmi_gazete_number": "32104",
+  "categories": [
+    "Ham Petrol, Akaryakıt, İhrakiye, Madeni Yağ, Baz Yağ ve Petrolle İlişkili Maddeler"
+  ],
+  "source": "https://www.epdk.gov.tr/Detay/DownloadDocument?id=soyL0rO59E8=",
+  "documents": [
+    "https://www.epdk.gov.tr/Detay/DownloadDocument?id=soyL0rO59E8="
+  ],
+  "source_sha256": "ce1b91fd9b7441f5afd60e15db890c4396ae3d5aaf00ac476d8c6d1664e113d2",
+  "official_list": "https://www.epdk.gov.tr/Detay/Icerik/3-0-100/kurul-kararlari",
+  "official_list_leaf": 4962,
+  "text_status": "as-enacted",
+  "text_file": "metin.md",
+  "in_force": "2023-02-09",
+  "law_text_complete": true
+}
