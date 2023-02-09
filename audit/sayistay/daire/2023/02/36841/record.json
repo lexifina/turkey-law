@@ -1,0 +1,17 @@
+{
+  "kind": "decision",
+  "issuer": "Sayıştay 1. Dairesi",
+  "number": "10891",
+  "decision_date": "2023-02-09",
+  "source_id": 36841,
+  "chamber": "1",
+  "ilam_number": "76",
+  "item_number": 3,
+  "public_body_type": "Belediyeler ve Bağlı İdareler",
+  "account_year": 2021,
+  "subject": "İş Mevzuatı ile İlgili Kararlar",
+  "source": "https://www.sayistay.gov.tr/KararlarDaire/Detay/36841/",
+  "source_sha256": "61d04ba7706b49fecec1adab869c55448a862db75b6db2dcce776d576ef29b70",
+  "text_status": "as-enacted",
+  "text_file": "metin.md"
+}
