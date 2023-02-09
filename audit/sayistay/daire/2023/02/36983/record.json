@@ -1,0 +1,17 @@
+{
+  "kind": "decision",
+  "issuer": "Sayıştay 1. Dairesi",
+  "number": "10892",
+  "decision_date": "2023-02-09",
+  "source_id": 36983,
+  "chamber": "1",
+  "ilam_number": "88",
+  "item_number": 10,
+  "public_body_type": "Yüksek Öğretim Kurumları",
+  "account_year": 2021,
+  "subject": "Personel Mevzuatı ile İlgili Kararlar",
+  "source": "https://www.sayistay.gov.tr/KararlarDaire/Detay/36983/",
+  "source_sha256": "b3ba296a99938f1f159b40ea66db6209829fb02ef6f7c7ab461ae134420bfcc7",
+  "text_status": "as-enacted",
+  "text_file": "metin.md"
+}
