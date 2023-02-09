@@ -1,0 +1,23 @@
+{
+  "kind": "norm",
+  "issuer": "Enerji Piyasası Düzenleme Kurumu",
+  "market": "natural-gas",
+  "document_type": "board-decision",
+  "number": "11641",
+  "decision_date": "2023-02-09",
+  "title": "Dağıtım Şirketleri İçin Tarife Hesaplama Usul ve Esasları 7139 kurul kararının 14.02.2023 tarihli Resmi Gazete’de yayımlanan değişiklik işlenmiş son hali",
+  "categories": [
+    "Düzenleyici Kararlar"
+  ],
+  "source": "https://www.epdk.gov.tr/Detay/DownloadDocument?id=xeF1AEk7aw0=",
+  "documents": [
+    "https://www.epdk.gov.tr/Detay/DownloadDocument?id=xeF1AEk7aw0="
+  ],
+  "source_sha256": "a1b23a2b5b991d29ae10826e2256c821405dc156b355fca709b962980e0d5981",
+  "official_list": "https://www.epdk.gov.tr/Detay/Icerik/3-0-19/kurul-kararlari",
+  "official_list_leaf": 7244,
+  "text_status": "metadata-only",
+  "metadata_only_reason": "the official text may name a private person",
+  "in_force": "2023-02-09",
+  "law_text_complete": false
+}
