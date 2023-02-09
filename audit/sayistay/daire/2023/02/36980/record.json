@@ -1,0 +1,17 @@
+{
+  "kind": "decision",
+  "issuer": "Sayıştay 1. Dairesi",
+  "number": "10892",
+  "decision_date": "2023-02-09",
+  "source_id": 36980,
+  "chamber": "1",
+  "ilam_number": "88",
+  "item_number": 7,
+  "public_body_type": "Yüksek Öğretim Kurumları",
+  "account_year": 2021,
+  "subject": "Çeşitli Konuları İlgilendiren Kararlar",
+  "source": "https://www.sayistay.gov.tr/KararlarDaire/Detay/36980/",
+  "source_sha256": "06cc117985926bcb48dc231e15ba8271b39063af3c1e912c07010531bdbbf9af",
+  "text_status": "as-enacted",
+  "text_file": "metin.md"
+}
