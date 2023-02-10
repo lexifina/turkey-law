@@ -1,0 +1,18 @@
+{
+  "issuer": "Mersin Büyükşehir Belediye Meclisi",
+  "number": "90",
+  "decision_date": "2023-02-10",
+  "title": "-MEC.KAR.( Mezitli İlçesi Mezitli Mahallesi 752 Ada 4 Parsel Güneyi NİP-UİP )",
+  "listed_as": "90-MEC.KAR.( Mezitli İlçesi Mezitli Mahallesi 752 Ada 4 Parsel Güneyi NİP-UİP )",
+  "subject_note": "subject as the meeting page lists it (the register shortens some long subjects)",
+  "official_document": "https://www.mersin.bel.tr/dokumanlar/90-meckar-mezitli-ilcesi-mezitli-mahallesi-752-ada-4-parsel-guneyi-nip-uip--1152438099",
+  "source_listing": "https://www.mersin.bel.tr/dokumanlar/10-subat-2023-meclis-kararlari-67764495",
+  "listing_sha256": "707aff1f36984c4dc6ea7148b69c19b50b9e100b664cae1ea42b5013fcc77ffb",
+  "meeting_title": "10 ŞUBAT 2023 MECLİS KARARLARI",
+  "history_type": "metadata-only",
+  "capture_mode": "metadata-only",
+  "text_status": "metadata-only; official decision page linked, text not transcribed",
+  "date_basis": "meeting date in the official meeting page title (decision date of the session)",
+  "commencement_established": false,
+  "privacy_withheld": false
+}
