@@ -1,0 +1,18 @@
+{
+  "issuer": "Mersin Büyükşehir Belediye Meclisi",
+  "number": "60",
+  "decision_date": "2023-02-10",
+  "title": "-MEC.KAR.(Tarsus İlçesi, Mithatpaşa Mahallesi 4862 ada 1 parsel ve Gaziler Mahallesi 4053 ada 1 parsel )",
+  "listed_as": "60-MEC.KAR.(Tarsus İlçesi, Mithatpaşa Mahallesi 4862 ada 1 parsel ve Gaziler Mahallesi 4053 ada 1 parsel )",
+  "subject_note": "subject as the meeting page lists it (the register shortens some long subjects)",
+  "official_document": "https://www.mersin.bel.tr/dokumanlar/60-meckartarsus-ilcesi-mithatpasa-mahallesi-4862-ada-1-parsel-ve-gaziler-mahallesi-4053-ada-1-parsel--1057271437",
+  "source_listing": "https://www.mersin.bel.tr/dokumanlar/10-subat-2023-meclis-kararlari-67764495",
+  "listing_sha256": "707aff1f36984c4dc6ea7148b69c19b50b9e100b664cae1ea42b5013fcc77ffb",
+  "meeting_title": "10 ŞUBAT 2023 MECLİS KARARLARI",
+  "history_type": "metadata-only",
+  "capture_mode": "metadata-only",
+  "text_status": "metadata-only; official decision page linked, text not transcribed",
+  "date_basis": "meeting date in the official meeting page title (decision date of the session)",
+  "commencement_established": false,
+  "privacy_withheld": false
+}
