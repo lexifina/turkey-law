@@ -1,0 +1,22 @@
+{
+  "kind": "norm",
+  "issuer": "Gelir İdaresi Başkanlığı",
+  "document_type": "ozelge",
+  "number": "62030549-125-194215",
+  "source_id": 24356,
+  "date": "2023-02-10",
+  "title": "Dernekçe işletilen orta öğretim yurtları ile yüksek öğretim yurtlarına yapılan bağış ve yardımların gelir ve kurumlar vergisi matrahından indirilip indirilemeyeceği",
+  "source": "https://gib.gov.tr/mevzuat/kanun/435/ozelge/24356",
+  "related_law": "5520 sayılı KURUMLAR VERGİSİ KANUNU",
+  "source_api": "https://gib.gov.tr/api/gibportal/mevzuat/ozelge/list",
+  "source_listing": "evidence/list/2026-11-16/ozelge-p001.json",
+  "source_listing_sha256": "e5c572e7d33c4a72997f66e3999bee09f80c627cabe3ea5a6521aa3f8abee01f",
+  "source_sha256": "388f140892aea4aa7c490c5b7ae165b161fcf6dd71bd54751f7222aa1b903006",
+  "text_status": "as-enacted",
+  "text_file": "metin.md",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  }
+}
