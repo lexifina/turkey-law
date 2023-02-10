@@ -1,0 +1,18 @@
+{
+  "issuer": "Mersin Büyükşehir Belediye Meclisi",
+  "number": "81",
+  "decision_date": "2023-02-10",
+  "title": "council decision (subject withheld: may concern individual persons)",
+  "listed_as": null,
+  "subject_note": "subject as the meeting page lists it (the register shortens some long subjects)",
+  "official_document": "https://www.mersin.bel.tr/dokumanlar/81-meckarkurumlara-spor-malzemesi-yardimi-toros-devlet-hastanesi--1166086",
+  "source_listing": "https://www.mersin.bel.tr/dokumanlar/10-subat-2023-meclis-kararlari-67764495",
+  "listing_sha256": "707aff1f36984c4dc6ea7148b69c19b50b9e100b664cae1ea42b5013fcc77ffb",
+  "meeting_title": "10 ŞUBAT 2023 MECLİS KARARLARI",
+  "history_type": "metadata-only",
+  "capture_mode": "metadata-only",
+  "text_status": "metadata-only; official decision page linked, text not transcribed",
+  "date_basis": "meeting date in the official meeting page title (decision date of the session)",
+  "commencement_established": false,
+  "privacy_withheld": true
+}
