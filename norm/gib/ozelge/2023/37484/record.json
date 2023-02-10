@@ -1,0 +1,22 @@
+{
+  "kind": "norm",
+  "issuer": "Gelir İdaresi Başkanlığı",
+  "document_type": "ozelge",
+  "number": "38418978-125[4691-2022/3]-76953",
+  "source_id": 37484,
+  "date": "2023-02-10",
+  "title": "4691 sayılı Kanun kapsamında Teknoloji Geliştirme Bölgelerinde 657 sayılı Devlet Memurları Kanununa tabi çalışanın Ar-Ge personeli kapsamında değerlendirilmesi",
+  "source": "https://gib.gov.tr/mevzuat/kanun/433/ozelge/37484",
+  "related_law": "193 sayılı GELİR VERGİSİ KANUNU",
+  "source_api": "https://gib.gov.tr/api/gibportal/mevzuat/ozelge/list",
+  "source_listing": "evidence/list/2026-11-16/ozelge-p008.json",
+  "source_listing_sha256": "292c126217cc32c3ccfa57495ce433f89ef8db5e75fa1946d5819a76f81aff4d",
+  "source_sha256": "babfcd8c1c1d5041c6d1145b336ed5b958baf480cbaf48c3772dbbb26e90179f",
+  "text_status": "as-enacted",
+  "text_file": "metin.md",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  }
+}
