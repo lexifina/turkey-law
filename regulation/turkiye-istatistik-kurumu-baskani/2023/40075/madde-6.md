@@ -1,0 +1,2 @@
+Uygulama esasları
+MADDE 6- (1) Programda; üretilecek tüm resmî istatistiklerin amaç, kapsam, yöntem, sıklık, iş plânı ve dağıtım ilkeleri ile çalışmayı yürütecek ve koordine edecek kurum ve kuruluşlar açıkça belirtilir. Söz konusu kurum ve kuruluşlar, Programda kendilerine verilen görev ve sorumlulukları belirtilen zamanda yerine getirmekle yükümlüdür. Bu görev ve sorumluluklar, Programın yürürlüğe girmesiyle başlar ve beş yıllık Program dönemi boyunca devam eder.

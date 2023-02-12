@@ -1,0 +1,6 @@
+Programın izlenmesi
+MADDE 13- (1) Başkanlık, kurum ve kuruluşların Program kapsamındaki görevlerinin yerine getirilmesini izlemek ve değerlendirmek amacıyla Programın uygulanmasına ilişkin her yıl düzenli olarak yıllık izleme raporları hazırlar, Konseye sunar ve kamuoyuna duyurur.
+(2) Programın izlenmesi, Programda kurum ve kuruluşlar tarafından verilen taahhütler üzerinden UVYT’nin takibi ile yapılır. UVYT’ye uygun yöntem ve araçlar ile Başkanlık tarafından günlük olarak takip edilir.
+(3) Her yılın mart ayında bir önceki yıla ait izleme ve değerlendirmeleri içeren yıllık izleme raporu hazırlanır. Yıllık izleme raporunda, sorumlu ve ilgili kurum ve kuruluşlar tarafından Program çerçevesinde yürütülen faaliyetlerin ne ölçüde gerçekleştirildiği ve aksaklıkların giderilmesi için alınması gereken tedbirler belirtilir.
+(4) Yıllık izleme raporunda yer alan gerçekleşmeler ve Programda üretilmesi taahhüt edilen konuların üretiminde meydana gelen aksaklıklar Konseyde görüşülerek değerlendirilir.
+(5) Programda yer alan kurum ve kuruluşlar, kendi çalışmaları ile ilgili değerlendirmeleri içeren raporlarını her yıl düzenli olarak Başkanlık tarafından belirlenen uygun yöntem ve araçları kullanarak Başkanlığa iletmekle sorumludur.
