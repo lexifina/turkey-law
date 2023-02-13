@@ -1,0 +1,4 @@
+İKİNCİ BÖLÜM
+Merkezin Amacı ve Faaliyet Alanları
+Merkezin amacı
+MADDE 5- (1) Merkezin amacı; teşhis, tedavi, rehabilite edici ve koruyucu sağlık hizmetlerinin kaliteli ve verimli bir şekilde yürütülmesini, Merkeze başvuran hastaların ayaktan veya yatırılarak tedavi edilmesini ve bu amaçla gerekli insan kaynağının yönetilmesini, iş sağlığı ve güvenliği, meslek hastalıkları ile ilgili eğitim, bilimsel araştırma ve klinik uygulamaların yapılmasını, sağlık hizmetleri ile ilgili alanlarda eğitim-öğretim, araştırma ve uygulama yapma imkânının sağlanmasını, her düzeyde tıp ve sağlık personeli yetiştirmek amacıyla Tıp Fakültesi başta olmak üzere, Üniversite bünyesindeki diğer fakülte, enstitü, yüksekokullar, uygulama ve araştırma merkezleri, yurt içindeki ve yurt dışındaki diğer kurumlarla işbirliği yaparak sağlık hizmetlerinin yürütülmesini temin etmektir.
