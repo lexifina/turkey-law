@@ -1,0 +1,22 @@
+{
+  "kind": "norm",
+  "issuer": "Gelir İdaresi Başkanlığı",
+  "document_type": "ozelge",
+  "number": "E-66813766-155[3-2022/35]-83855",
+  "source_id": 34253,
+  "date": "2023-02-13",
+  "title": "Türkiye'de yerleşik firmanın yurtdışında bulunan iştiraki şirket tarafından düzenlenen sözleşmenin Türkiye'de hükmünden yararlanılması durumunda damga vergisi hk.",
+  "source": "https://gib.gov.tr/mevzuat/kanun/438/ozelge/34253",
+  "related_law": "488 sayılı DAMGA VERGİSİ KANUNU",
+  "source_api": "https://gib.gov.tr/api/gibportal/mevzuat/ozelge/list",
+  "source_listing": "evidence/list/2026-11-16/ozelge-p006.json",
+  "source_listing_sha256": "b46360359770c9a5ea4fa9aa8dcd84735fb9ad66a4d8175b30588dafb983503d",
+  "source_sha256": "eec9d38d444f59cc738d7544d8315bac6cdde82e412ab96a4353a3ac96a289f3",
+  "text_status": "as-enacted",
+  "text_file": "metin.md",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  }
+}
