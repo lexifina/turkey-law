@@ -1,0 +1,48 @@
+{
+  "source_id": "25.5.121",
+  "path": "presidential-decree/2023/121",
+  "number": "121",
+  "tertip": "5",
+  "title": "OLAĞANÜSTÜ HAL KAPSAMINDA SAĞLIK ALANINDA ALINAN TEDBİRLERE İLİŞKİN CUMHURBAŞKANLIĞI KARARNAMESİ (KARARNAME NUMARASI: 121)",
+  "status": "repealed",
+  "text_label": "last-available-consolidated",
+  "enacted": "2023-02-12",
+  "enacted_as_printed": "12.02.2023",
+  "published": "2023-02-13",
+  "gazette": "32103",
+  "in_force": "2023-02-13",
+  "in_force_basis": "Resmî Gazete publication date in the official listing (13.02.2023); own commencement article: \"Bu Cumhurbaşkanlığı Kararnamesi yayımı tarihinde yürürlüğe girer\"",
+  "commencement_clauses": [
+    "Bu Cumhurbaşkanlığı Kararnamesi yayımı tarihinde yürürlüğe girer"
+  ],
+  "repeal_notes": [
+    "Bu Kararname Anayasa’nın 119 uncu maddesi uyarınca kendiliğinden yürürlükten kalkmıştır."
+  ],
+  "source": "https://www.mevzuat.gov.tr/anasayfa/MevzuatFihristDetayIframe?MevzuatTur=25&MevzuatNo=121&MevzuatTertip=5",
+  "source_sha256": "5942b2e4d936ee3b8455915a3cd3dbd4100bdc4e00e374a6ae11bf3e4a113f88",
+  "source_bytes": 13191,
+  "words": 245,
+  "source_images": 1,
+  "images_referenced": 0,
+  "images_deferred": 0,
+  "images_omitted": 1,
+  "omitted_images": [
+    {
+      "src": "5.3.121_dosyalar/image001.jpg",
+      "url": "https://www.mevzuat.gov.tr/MevzuatMetin/5.3.121_dosyalar/image001.jpg",
+      "sha256": "dae987d5c7e9af761ccbe700d7cc3371919cd4a1eecdbba6090051555104fdd5",
+      "bytes": 3627,
+      "pixels": [
+        103,
+        103
+      ],
+      "emblem_mean_diff": 9.19,
+      "reason": "Presidential emblem (decorative seal above the title, no text); omitted as main omits it for its in-force CBKs"
+    }
+  ],
+  "has_old_texts": false,
+  "history_note": "Earlier versions are not established by this current HTML source.",
+  "listing": "https://www.mevzuat.gov.tr/Anasayfa/MevzuatDatatable (evidence/list/2026-11-17/mulga-00000.json)",
+  "listing_sha256": "2cf34025a8cb3779e733a85e74259f6abc229c240ed8b0da7218b98b01c70836",
+  "checked_on": "2026-11-17"
+}
