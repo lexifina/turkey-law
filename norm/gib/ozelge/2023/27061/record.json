@@ -1,0 +1,22 @@
+{
+  "kind": "norm",
+  "issuer": "Gelir İdaresi Başkanlığı",
+  "document_type": "ozelge",
+  "number": "E-62030549-125[6-2020/409]-199749",
+  "source_id": 27061,
+  "date": "2023-02-13",
+  "title": "GSM operatörlerince faturalı hat kullanıcılarına gönderilen ödeme emirleri ve protestoların dayanak gösterilerek şüpheli alacak karşılığı ayrılıp ayrılamayacağı",
+  "source": "https://gib.gov.tr/mevzuat/kanun/434/ozelge/27061",
+  "related_law": "213 sayılı VERGİ USUL KANUNU",
+  "source_api": "https://gib.gov.tr/api/gibportal/mevzuat/ozelge/list",
+  "source_listing": "evidence/list/2026-11-16/ozelge-p003.json",
+  "source_listing_sha256": "b8eb1aba686c15efb9ca96f819c840940788d8f48769f30127e032220fbff4ab",
+  "source_sha256": "ca9f52f822f623a45530b0ac7046d068fee59f744dfe40f8d05f32ae5b0fea50",
+  "text_status": "as-enacted",
+  "text_file": "metin.md",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  }
+}
