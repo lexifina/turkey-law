@@ -1,0 +1,22 @@
+{
+  "kind": "norm",
+  "issuer": "Gelir İdaresi Başkanlığı",
+  "document_type": "ozelge",
+  "number": "E-97677631-140.04-3455",
+  "source_id": 35543,
+  "date": "2023-02-13",
+  "title": "İntifa Hakkı Süre Uzatımında Tapu Harcı",
+  "source": "https://gib.gov.tr/mevzuat/kanun/439/ozelge/35543",
+  "related_law": "492 sayılı HARÇLAR KANUNU",
+  "source_api": "https://gib.gov.tr/api/gibportal/mevzuat/ozelge/list",
+  "source_listing": "evidence/list/2026-11-16/ozelge-p007.json",
+  "source_listing_sha256": "aedbdf4562ba9127c242d5a565793d0bcd4fd4854c0c6fa4dc4410a5b16508b4",
+  "source_sha256": "2842c8ce9a3357f5aa7a539c6022f88376047d5db63e8e03da787413f3d0a183",
+  "text_status": "as-enacted",
+  "text_file": "metin.md",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  }
+}
