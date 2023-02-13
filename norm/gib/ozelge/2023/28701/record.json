@@ -1,0 +1,22 @@
+{
+  "kind": "norm",
+  "issuer": "Gelir İdaresi Başkanlığı",
+  "document_type": "ozelge",
+  "number": "62030549-125-199740",
+  "source_id": 28701,
+  "date": "2023-02-13",
+  "title": "1 puanlık kurumlar vergisi oranı indirimi.",
+  "source": "https://gib.gov.tr/mevzuat/kanun/435/ozelge/28701",
+  "related_law": "5520 sayılı KURUMLAR VERGİSİ KANUNU",
+  "source_api": "https://gib.gov.tr/api/gibportal/mevzuat/ozelge/list",
+  "source_listing": "evidence/list/2026-11-16/ozelge-p004.json",
+  "source_listing_sha256": "f3b82278308562f88be46cc93b2ac53a1050d59c304474af958f8b7377f5bef9",
+  "source_sha256": "66ba2db4b7ce0f1fa415ad4b5b174ac703da2af272df9f8f973f70d1c047318e",
+  "text_status": "as-enacted",
+  "text_file": "metin.md",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  }
+}
