@@ -1,0 +1,2 @@
+Nükleer santral dışındaki tesisleri işleten ve radyasyon uygulamalarını yürütmek üzere yetkilendirilen kişileri temsil eden ilk Kurul üyesinin seçimi
+GEÇİCİ MADDE 5- (1) Nükleer santral dışındaki tesisleri işleten ve radyasyon uygulamalarını yürütmek üzere yetkilendirilen kişiler tarafından ayrı ayrı veya birlikte gösterilen adaylar arasından, tesis ve uygulamanın türü, üretilen radyoaktif atığın sınıfı, miktarı ve aktivitesi gibi hususlar dikkate alınarak Bakan tarafından seçilen temsilci ilk Kurul üyesi olarak görev yapar.

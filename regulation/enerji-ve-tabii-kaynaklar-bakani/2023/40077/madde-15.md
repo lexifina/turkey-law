@@ -1,0 +1,12 @@
+Yükümlülük ve süre
+MADDE 15- (1) Nükleer santral veya nükleer santral dışındaki tesisleri işletmek için yetkilendirilen kişiler RAYÖH’e ve İÇÖH’e katkı payı ödemelerini ayrı ayrı yapar. Nükleer santral veya nükleer santral dışındaki tesisleri işletmek üzere yetkilendirme başvurusu yapan kişiler, yetkilendirme yapılmadan önce teminat ödemelerini özel hesaplara ayrı ayrı yapar.
+(2) Radyasyon uygulamalarını yürütmek için yetkilendirilen kişiler RAYÖH’e katkı payı ödemesini yapar. Radyasyon uygulamalarını yürütmek üzere yetkilendirme başvurusu yapan kişiler, yetkilendirme yapılmadan önce teminat ödemelerini RAYÖH’e yapar.
+(3) Nükleer santral işletmek için yetkilendirilen kişiler özel hesaplara katkı payı ödemelerini aylık olarak ayrı ayrı yapar.
+(4) Nükleer santral işletmek için yetkilendirilen kişiler tarafından özel hesaplara katkı payı ödeme yükümlülüğü, nükleer santralin elektrik üretimine geçmesi ile başlar ve ilgili nükleer santralin elektrik üretimine son vermesiyle nihayete erer.
+(5) Nükleer santral işletmek için yetkilendirilen kişiler aylık bazda planlanan üretim miktarını, planlanan üretim tarihinden en az bir yıl önce ve müteakip yıllarda aynı dönemde Kurula sunar. Planlanan üretim miktarında değişiklik olması halinde, söz konusu değişiklik derhal Kurula bildirilir.
+(6) Kurul, nükleer santral dışındaki tesisler ve radyasyon uygulamaları için RAYÖH’e katkı payı ödemelerinin; yetkilendirme öncesinde veya radyoaktif atıkların tesliminde ya da yıllık olarak yapılmasına karar verebilir.
+(7) Nükleer santral dışındaki tesisleri işletmek için yetkilendirilen kişiler İÇÖH’e katkı payı ödemelerini yıllık olarak yapar.
+(8) İÇÖH her bir tesis için ayrı ayrı takip edilir.
+(9) Süresinde ödenmeyen katkı payları Bakanlık tarafından borçlunun bağlı olduğu vergi dairesine yapılacak bildirim üzerine, 6183 sayılı Kanuna göre takip ve tahsil edilir. Vergi dairesince tahsil edilen tutarlar tahsil edildiği tarihi izleyen ayın sonuna kadar özel hesaplara aktarılır.
+(10) Nükleer santraller, nükleer santral dışındaki tesisler ve radyasyon uygulamalarında ortaya çıkan radyoaktif atıkların bertaraf tesisine taşınmasına ilişkin giderler, ilgili tesis ve faaliyet için yetkilendirilen kişi tarafından karşılanır.
+(11) Kurul, tesisin erken işletmeden çıkarılması ihtimaline karşı radyoaktif atık yönetimi ve işletmeden çıkarma için gerekli maliyetlerin karşılanabileceğine ilişkin özel hesaplara sunulan teminatın yeterliğini onaylar ve NDK’ye bildirir.

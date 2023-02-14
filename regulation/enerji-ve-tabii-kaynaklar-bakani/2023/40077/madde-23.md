@@ -1,0 +1,2 @@
+Özel hesaplarda biriken miktarın yetersiz kalması
+MADDE 23- (1) Özel hesaplardaki miktarın, işletmeden çıkarma sırasında veya radyoaktif atık yönetimi ile ilgili öngörülenler dışında olabilecek masraflar nedeniyle ya da tesisin planlanandan erken işletmeden çıkarılması üzerine yetersiz kalması durumunda maliyetler yetkilendirilen kişi tarafından sağlanan teminattan karşılanır. Teminat yetersiz ise kalan miktar yetkilendirilen kişiden tahsil edilir.

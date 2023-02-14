@@ -1,0 +1,2 @@
+Bakanlık bütçesinden borç olarak mali kaynak aktarılması
+GEÇİCİ MADDE 2- (1) Giderlerini karşılayacak düzeyde gelir elde edinceye kadar RAYÖH’e, 7381 sayılı Kanunun yürürlüğe girdiği tarihten itibaren beş yıla kadar, Bakanlık bütçesine bu amaçla tahsis edilen ödenekten borç olarak mali kaynak aktarılabilir. Aktarılan bu kaynak, RAYÖH’ün gelirleri giderlerinin yüzde 30 fazlasına ulaştığı yılı takip eden yıldan itibaren kanuni faiz uygulanarak, genel bütçeye gelir kaydedilmek üzere Bakanlık merkez muhasebe birimi hesabına yatırılır.
