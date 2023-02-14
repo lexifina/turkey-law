@@ -1,0 +1,17 @@
+{
+  "kind": "decision",
+  "issuer": "Sayıştay 4. Dairesi",
+  "number": "298",
+  "decision_date": "2023-02-14",
+  "source_id": 37095,
+  "chamber": "4",
+  "ilam_number": "101",
+  "item_number": 1,
+  "public_body_type": "Belediyeler ve Bağlı İdareler",
+  "account_year": 2021,
+  "subject": "İhale Mevzuatı ile İlgili Kararlar",
+  "source": "https://www.sayistay.gov.tr/KararlarDaire/Detay/37095/",
+  "source_sha256": "e7d059e3a9110b2fcf7a63ded2f0b60aa64c2e35993419a24a67b87ecbc78701",
+  "text_status": "metadata-only",
+  "metadata_only_reason": "possible personal name in the official text"
+}
