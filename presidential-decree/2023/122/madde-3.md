@@ -1,0 +1,2 @@
+Kamu personelinin statü değişikliğinde süre
+MADDE 3- (1) 22/6/1965 tarihli ve 633 sayılı Diyanet İşleri Başkanlığı Kuruluş ve Görevleri Hakkında Kanunun geçici 20 nci maddesinde, 14/7/1965 tarihli ve 657 sayılı Devlet Memurları Kanununun geçici 48 inci ve geçici 50 nci maddelerinde ve 11/10/2011 tarihli ve 663 sayılı Sağlık Alanında Bazı Düzenlemeler Hakkında Kanun Hükmünde Kararnamenin geçici 17 nci maddesinde yer alan başvuru süreleri 31/3/2023 (bu tarih dâhil) tarihine kadar, atanma süreleri 28/4/2023 (bu tarih dâhil) tarihine kadar uzatılmıştır.
