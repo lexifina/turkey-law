@@ -1,0 +1,74 @@
+{
+  "checked_on": "2026-11-14",
+  "commencement_clauses": [
+    "MADDE 25 – (1) Bu Yönetmelik 2017-2018 Eğitim-Öğretim Yılı başında yürürlüğe girer."
+  ],
+  "date_evidence": [
+    [
+      "2017-06-17",
+      "17.06.2017",
+      "original gazette publication date in official listing"
+    ],
+    [
+      "2023-02-15",
+      "RG-15/2/2023-32105",
+      "latest source-printed gazette amendment date for current consolidated text"
+    ],
+    [
+      "2023-02-15",
+      "RG-15/2/2023-32105",
+      "latest source-printed gazette amendment date for current consolidated text"
+    ],
+    [
+      "2023-02-15",
+      "RG-15/2/2023-32105",
+      "latest source-printed gazette amendment date for current consolidated text"
+    ],
+    [
+      "2023-02-15",
+      "RG-15/2/2023-32105",
+      "latest source-printed gazette amendment date for current consolidated text"
+    ],
+    [
+      "2023-02-15",
+      "RG-15/2/2023-32105",
+      "latest source-printed gazette amendment date for current consolidated text"
+    ],
+    [
+      "2018-11-23",
+      "RG-23/11/2018-30604",
+      "latest source-printed gazette amendment date for current consolidated text"
+    ],
+    [
+      "2023-02-15",
+      "15/2/2023",
+      "latest gazette date in source amendment table"
+    ]
+  ],
+  "date_quote": "RG-15/2/2023-32105",
+  "first_law": null,
+  "gazette": "30099",
+  "history": "current-text",
+  "images": {
+    "deferred": 0,
+    "omitted": 0,
+    "referenced": 0,
+    "source": 0
+  },
+  "in_force": "2023-02-15",
+  "in_force_basis": "latest source-printed gazette amendment date for current consolidated text",
+  "issuer": "Gaziantep Üniversitesi",
+  "issuer_slug": "gaziantep-universitesi",
+  "kind": "regulation",
+  "label": "oldest version available",
+  "path": "regulation/gaziantep-universitesi/2017/23667",
+  "published": "2017-06-17",
+  "source": "https://www.mevzuat.gov.tr/anasayfa/MevzuatFihristDetayIframe?MevzuatTur=8&MevzuatNo=23667&MevzuatTertip=5",
+  "source_bytes": 69546,
+  "source_id": "8.5.23667",
+  "source_sha256": "28bd16d94d72e60d25c30d0e2cfe43a95556ec187b53a03bacf25f885cbd718d",
+  "text_status": "current-consolidated",
+  "title": "GAZİANTEP ÜNİVERSİTESİ HUKUK FAKÜLTESİ EĞİTİM-ÖĞRETİM VE SINAV YÖNETMELİĞİ",
+  "university_id": 196,
+  "word_count": 3118
+}
