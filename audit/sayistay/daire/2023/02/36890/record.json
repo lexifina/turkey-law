@@ -1,0 +1,17 @@
+{
+  "kind": "decision",
+  "issuer": "Sayıştay 8. Dairesi",
+  "number": "270",
+  "decision_date": "2023-02-16",
+  "source_id": 36890,
+  "chamber": "8",
+  "ilam_number": "93",
+  "item_number": 7,
+  "public_body_type": "Belediyeler ve Bağlı İdareler",
+  "account_year": 2021,
+  "subject": "İhale Mevzuatı ile İlgili Kararlar",
+  "source": "https://www.sayistay.gov.tr/KararlarDaire/Detay/36890/",
+  "source_sha256": "66e1ac9d0807a64042a1b6ed67f0973570eb06277ff9af6d2660d3c242ef13b0",
+  "text_status": "as-enacted",
+  "text_file": "metin.md"
+}
