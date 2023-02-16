@@ -1,0 +1,17 @@
+{
+  "kind": "decision",
+  "issuer": "Sayıştay 1. Dairesi",
+  "number": "10895",
+  "decision_date": "2023-02-16",
+  "source_id": 37491,
+  "chamber": "1",
+  "ilam_number": "128",
+  "item_number": 7,
+  "public_body_type": "Belediyeler ve Bağlı İdareler",
+  "account_year": 2021,
+  "subject": "Çeşitli Konuları İlgilendiren Kararlar",
+  "source": "https://www.sayistay.gov.tr/KararlarDaire/Detay/37491/",
+  "source_sha256": "9b8c2b9e3f6be4bbb421af34aa271119abffa85925aba48def6cc50e407f1991",
+  "text_status": "as-enacted",
+  "text_file": "metin.md"
+}
