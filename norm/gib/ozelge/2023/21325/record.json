@@ -1,0 +1,22 @@
+{
+  "kind": "norm",
+  "issuer": "Gelir İdaresi Başkanlığı",
+  "document_type": "ozelge",
+  "number": "E-62030549-120[Mük.20/B-2022]-216891",
+  "source_id": 21325,
+  "date": "2023-02-16",
+  "title": "Sosyal İçerik Üreticiliği ile Mobil Cihazlar Uygulama Kazanç İstisnası",
+  "source": "https://gib.gov.tr/mevzuat/kanun/433/ozelge/21325",
+  "related_law": "193 sayılı GELİR VERGİSİ KANUNU",
+  "source_api": "https://gib.gov.tr/api/gibportal/mevzuat/ozelge/list",
+  "source_listing": "evidence/list/2026-11-16/ozelge-p000.json",
+  "source_listing_sha256": "5444faf84128246cd8dd8c6db754d41e2a11c7717342bfe0a07a35074d061761",
+  "source_sha256": "0f7be21ee9f8152eaa7a69678c852916f9fa15af065b2c50bad748154e3263a7",
+  "text_status": "as-enacted",
+  "text_file": "metin.md",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  }
+}
