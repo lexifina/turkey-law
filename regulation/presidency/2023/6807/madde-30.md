@@ -1,0 +1,2 @@
+Kesin teminat
+MADDE 30- (1) Taahhüdün sözleşme ve ihale dokümanı hükümlerine uygun olarak yerine getirilmesini sağlamak amacıyla, sözleşmenin yapılmasından önce ihale üzerinde kalan istekliden, ihale bedeli üzerinden hesaplanmak suretiyle teklif fiyatının sınır değere eşit veya üzerinde olması hâlinde teklif fiyatının % 6’sı, sınır değerin altında olması hâlinde ise yaklaşık maliyetin % 9’u oranında kesin teminat alınır.

@@ -1,0 +1,5 @@
+İhalenin sözleşmeye bağlanması
+MADDE 33- (1) Bu Usul ve Esaslar kapsamında ihale edilen işler sözleşmeye bağlanır. Sözleşmeler idarece hazırlanır ve ihale yetkilisi ile yüklenici tarafından imzalanır.
+(2) Düzenlenecek sözleşmede 5/1/2002 tarihli ve 4735 sayılı Kamu İhale Sözleşmeleri Kanununun 7 nci maddesinde yer alan hususlardan idarece uygun bulunanlar belirtilir.
+(3) İhale dokümanında aksi belirtilmedikçe sözleşmelerin notere tescili ve onaylattırılması zorunlu değildir.
+(4) İhale dokümanında belirtilen şartlara aykırı sözleşme düzenlenemez.

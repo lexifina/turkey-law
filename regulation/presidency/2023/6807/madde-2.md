@@ -1,0 +1,2 @@
+Kapsam
+MADDE 2- (1) Bu Usul ve Esaslar, güvenlik ile ilişkili olduğuna veya gizlilik içinde yürütülmesi gerektiğine Cumhurbaşkanı veya Hazine ve Maliye Bakanı tarafından karar verilen veya mevzuatı gereğince sözleşmenin yürütülmesi sırasında özel güvenlik tedbirleri alınması gereken veya Devlet güvenliğine ilişkin temel menfaatlerin korunmasını gerektiren hâllerle ilgili Hazine ve Maliye Bakanlığı merkez birimlerinin mal ve hizmet alımlarını kapsar.
