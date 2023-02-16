@@ -1,0 +1,16 @@
+{
+  "kind": "decision",
+  "issuer": "Sayıştay 7. Dairesi",
+  "number": "571",
+  "decision_date": "2023-02-16",
+  "source_id": 37003,
+  "chamber": "7",
+  "item_number": 4,
+  "public_body_type": "Belediyeler ve Bağlı İdareler",
+  "account_year": 2021,
+  "subject": "Çeşitli Konuları İlgilendiren Kararlar",
+  "source": "https://www.sayistay.gov.tr/KararlarDaire/Detay/37003/",
+  "source_sha256": "497ef95b82dd2d2b38a11cf964ecb44d59e40701b6a6c08de93d94ff52b45bbf",
+  "text_status": "as-enacted",
+  "text_file": "metin.md"
+}
