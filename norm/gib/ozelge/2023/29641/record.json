@@ -1,0 +1,22 @@
+{
+  "kind": "norm",
+  "issuer": "Gelir İdaresi Başkanlığı",
+  "document_type": "ozelge",
+  "number": "62030549-125[1-2022]-216890",
+  "source_id": 29641,
+  "date": "2023-02-16",
+  "title": "Üniversite tarafından POS cihazı ile tahsil edilen bağışların vergilendirilmesi",
+  "source": "https://gib.gov.tr/mevzuat/kanun/435/ozelge/29641",
+  "related_law": "5520 sayılı KURUMLAR VERGİSİ KANUNU",
+  "source_api": "https://gib.gov.tr/api/gibportal/mevzuat/ozelge/list",
+  "source_listing": "evidence/list/2026-11-16/ozelge-p004.json",
+  "source_listing_sha256": "f3b82278308562f88be46cc93b2ac53a1050d59c304474af958f8b7377f5bef9",
+  "source_sha256": "910b01899a10fa1ac1e4043a13191a7131b878c846b635084528a610ab2da6a4",
+  "text_status": "as-enacted",
+  "text_file": "metin.md",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  }
+}
