@@ -1,0 +1,45 @@
+{
+  "source_id": "7.5.24417",
+  "kind": "regulation",
+  "register_kind": "Kurum ve Kuruluş Yönetmelikleri",
+  "title": "MALİ İSTATİSTİK YÖNETMELİĞİ",
+  "number": "24417",
+  "issuer_slug": "kurum-ve-kurulus",
+  "path": "regulation/kurum-ve-kurulus/2018/24417",
+  "source": "https://www.mevzuat.gov.tr/anasayfa/MevzuatFihristDetayIframe?MevzuatTur=7&MevzuatNo=24417&MevzuatTertip=5",
+  "source_sha256": "8d9022b31956e9c117039456c083b69c2e54138a2f100c2e7745750da7ba59a4",
+  "source_bytes": 88630,
+  "published": "2018-02-24",
+  "gazette": "30342",
+  "in_force": "2023-02-16",
+  "in_force_basis": "latest Resmî Gazete date printed in the source amendment notes/table (\"RG-16/2/2023\") for the current consolidated text",
+  "date_evidence": [
+    [
+      "2023-02-16",
+      "RG-16/2/2023",
+      "Resmî Gazete date printed in the source amendment note"
+    ],
+    [
+      "2023-02-16",
+      "16/2/2023",
+      "Resmî Gazete date in the source amendment table"
+    ]
+  ],
+  "commencement_clauses": [
+    "Bu Yönetmelik 1/1/2018 tarihinden itibaren geçerli olmak üzere yayımı tarihinde yürürlüğe girer"
+  ],
+  "history": "current-text",
+  "label": "oldest version available",
+  "checked_on": "2026-11-15",
+  "word_count": 4241,
+  "text_status": "current-consolidated",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  },
+  "source_links": [
+    "7.5.24417-Ek.docx"
+  ],
+  "completeness": "html-text-complete; linked annexes not fetched"
+}
