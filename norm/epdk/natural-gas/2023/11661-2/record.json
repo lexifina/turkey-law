@@ -1,0 +1,25 @@
+{
+  "kind": "norm",
+  "issuer": "Enerji Piyasası Düzenleme Kurumu",
+  "market": "natural-gas",
+  "document_type": "board-decision",
+  "number": "11661-2",
+  "decision_date": "2023-02-16",
+  "title": "Doğal gaz abonelik başvurularında olağanüstü hal süresince doğal gaz dağıtım şirketleri tarafından güvence bedeli alınmaması kararı hakkında",
+  "resmi_gazete_date": "2023-02-18",
+  "resmi_gazete_number": "32108",
+  "categories": [
+    "Doğal Gaz Piyasası Kurul Kararları"
+  ],
+  "source": "https://www.epdk.gov.tr/Detay/DownloadDocument?id=+7e3qQRQWFI=",
+  "documents": [
+    "https://www.epdk.gov.tr/Detay/DownloadDocument?id=+7e3qQRQWFI="
+  ],
+  "source_sha256": "761f6b612dcacb030ae60c90c5c341e03e226ce5ae2dbcc5c7a69422eac92e69",
+  "official_list": "https://www.epdk.gov.tr/Detay/Icerik/3-0-19/kurul-kararlari",
+  "official_list_leaf": 14708,
+  "text_status": "as-enacted",
+  "text_file": "metin.md",
+  "in_force": "2023-02-16",
+  "law_text_complete": true
+}
