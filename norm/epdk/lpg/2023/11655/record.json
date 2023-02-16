@@ -1,0 +1,25 @@
+{
+  "kind": "norm",
+  "issuer": "Enerji Piyasası Düzenleme Kurumu",
+  "market": "lpg",
+  "document_type": "board-decision",
+  "number": "11655",
+  "decision_date": "2023-02-16",
+  "title": "OHAL ve/veya afet bölgesi kapsamında belirtilen illerde LPG piyasasında faaliyet gösteren tüm lisans sahiplerinin yükümlülüklerinin ertelenmesine ilişkin",
+  "resmi_gazete_date": "2023-02-18",
+  "resmi_gazete_number": "32108",
+  "categories": [
+    "Lisans Başvuruları"
+  ],
+  "source": "https://www.epdk.gov.tr/Detay/DownloadDocument?id=a8zYUMsbn30=",
+  "documents": [
+    "https://www.epdk.gov.tr/Detay/DownloadDocument?id=a8zYUMsbn30="
+  ],
+  "source_sha256": "52c6da4752ea4c71c2bd84365a7823acf7bde1520b47e6f671f63fc319d780d8",
+  "official_list": "https://www.epdk.gov.tr/Detay/Icerik/3-0-101/kurul-kararlari",
+  "official_list_leaf": 5098,
+  "text_status": "as-enacted",
+  "text_file": "metin.md",
+  "in_force": "2023-02-16",
+  "law_text_complete": true
+}
