@@ -1,0 +1,17 @@
+{
+  "kind": "decision",
+  "issuer": "Sayıştay 1. Dairesi",
+  "number": "10895",
+  "decision_date": "2023-02-16",
+  "source_id": 37495,
+  "chamber": "1",
+  "ilam_number": "128",
+  "item_number": 11,
+  "public_body_type": "Belediyeler ve Bağlı İdareler",
+  "account_year": 2021,
+  "subject": "Harcırah Mevzuatı ile İlgili Kararlar",
+  "source": "https://www.sayistay.gov.tr/KararlarDaire/Detay/37495/",
+  "source_sha256": "dbe0826555502f5da95a3802e2e62a61448a333e7a59140a930cc62ac5033291",
+  "text_status": "as-enacted",
+  "text_file": "metin.md"
+}
