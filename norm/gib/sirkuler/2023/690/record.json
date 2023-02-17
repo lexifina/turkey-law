@@ -1,0 +1,22 @@
+{
+  "kind": "norm",
+  "issuer": "Gelir İdaresi Başkanlığı",
+  "document_type": "sirkuler",
+  "number": "VUK-151/2023-2",
+  "source_id": 690,
+  "date": "2023-02-17",
+  "title": "Deprem bölgelerinde bulunan mükelleflerin, 531 Sıra No.lu Vergi Usul Kanunu Genel Tebliğinin 7 nci maddesinin (1) numaralı fıkrasının (a) ve (b) bendi uyarınca belirlenen teminat verme sürelerinin uzatılması.",
+  "source": "https://gib.gov.tr/mevzuat/kanun/434/sirkuler/690",
+  "related_law": "213 sayılı VERGİ USUL KANUNU",
+  "source_api": "https://gib.gov.tr/api/gibportal/mevzuat/sirkuler/list",
+  "source_listing": "evidence/list/2026-11-16/sirkuler-p000.json",
+  "source_listing_sha256": "60c9b519ec13187d56f9a7863ce3934a7fb9c37357209b90158ca6acfcc95b41",
+  "source_sha256": "6ee91357e5d93b33c6062e18d29aea016a1fca599ca42aa6b19f46d99add6cff",
+  "text_status": "as-enacted",
+  "text_file": "metin.md",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  }
+}
