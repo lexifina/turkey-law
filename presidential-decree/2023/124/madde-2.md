@@ -1,0 +1,2 @@
+Bağış ve yardım sınırından muafiyet
+MADDE 2- (1) 6/2/2023 tarihinde merkez üssü Kahramanmaraş ili olan depremler sonrası genel hayatı olumsuz etkileyen şartların ortadan kaldırılması ve afetzedelerin ihtiyaçlarının karşılanmasını teminen, Afet ve Acil Durum Yönetimi Başkanlığına bankalar ve konsolide denetime tâbi kuruluşlar tarafından olağanüstü hal süresince yapılacak bağış ve yardımlar, 5411 sayılı Kanunun 59 uncu maddesinde yer alan sınırlamaların kapsamına dahil edilmez.
