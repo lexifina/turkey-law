@@ -1,0 +1,17 @@
+{
+  "kind": "decision",
+  "issuer": "Sayıştay 6. Dairesi",
+  "number": "903",
+  "decision_date": "2023-02-21",
+  "source_id": 37208,
+  "chamber": "6",
+  "ilam_number": "113",
+  "item_number": 27,
+  "public_body_type": "Belediyeler ve Bağlı İdareler",
+  "account_year": 2021,
+  "subject": "Personel Mevzuatı ile İlgili Kararlar",
+  "source": "https://www.sayistay.gov.tr/KararlarDaire/Detay/37208/",
+  "source_sha256": "904c7fa36d3d8e0cedb0bbd2cab326bd617962054e060c9bf6077a3851b294e9",
+  "text_status": "as-enacted",
+  "text_file": "metin.md"
+}
