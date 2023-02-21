@@ -1,0 +1,3 @@
+Müdür
+MADDE 8- (1) Müdür, Üniversite-sanayi iş birliği projelerinde yer alan, akustik alanı ile ilgili çalışmaları, proje hazırlama ve yönetme deneyimi olan Üniversite öğretim elemanları arasından Rektör tarafından üç yıl süre için görevlendirilir. Süresi biten Müdür tekrar görevlendirilebilir.
+(2) Müdüre çalışmalarında yardımcı olmak üzere, Üniversitenin aylıklı ve devamlı statüdeki öğretim elemanları arasından Müdürün önerisi üzerine Rektör tarafından bir Müdür Yardımcısı görevlendirilir. Müdür görevi başında bulunmadığı zamanlarda Müdür Yardımcısını vekil olarak bırakır. Göreve vekalet altı aydan fazla sürerse yeni Müdür görevlendirilir. Müdürün görevi sona erdiğinde Müdür Yardımcısının da görevi sona erer.
