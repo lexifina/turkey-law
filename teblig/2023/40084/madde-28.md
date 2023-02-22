@@ -1,0 +1,4 @@
+Karşılanmayacak giderler
+MADDE 28- (1) Uzman Eller Projesi kapsamında; hibe sözleşmesi imzalanmadan önce yapılmış olan hiçbir harcama karşılanmaz.
+(2) Bu Tebliğde ve güncel uygulama rehberinde belirtilen hükümlere uygun olarak gerçekleştirilmeyen, belgelendirilemeyen alım ve giderler için hibe desteği ödenmez.
+(3) Her türlü borçlanma giderleri, faizler, başka bir kaynaktan finanse edilen harcama ve giderler, kira giderleri, kur farkı giderleri, inşaat giderleri, arazi, arsa ve bina alım bedelleri, binanın yakıt, su, elektrik ve aidat giderleri, ayrı faturalandırılmış nakliye ve montaj giderleri, bankacılık giderleri, denetim giderleri, KDV ve ÖTV dahil iade alınan veya alınacak vergiler, ikinci el/kullanılmış makine ekipman alım, proje yönetim ve danışmanlık giderleri, makine tamir ve parça alım giderleri hibe desteği verilecek giderler kapsamında değerlendirilmeyecektir.

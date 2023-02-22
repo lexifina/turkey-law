@@ -1,0 +1,4 @@
+Proje süresi
+MADDE 9- (1) Uzman Eller Projesi başvuruları güncel uygulama rehberinin yayımlanması ile başlar ve yedek listede olup da hibe sözleşmesi imzalayanlar da dahil olmak üzere Projenin uygulandığı yılın Kasım ayının son günü biter.
+(2) Hak sahiplerinin hibe projesi kapsamında uygulayacakları projelerin tamamlanma süreleri hibe sözleşmesinin imzalandığı tarihten itibaren altmış gündür. Bu süre ek süreler dahil projenin uygulandığı yılın Kasım ayının son gününü geçemez.
+(3) Projenin altmış gün içerisinde tamamlanmaması halinde, hak sahibi süre bitiminden yedi gün önce gerekçeleriyle birlikte il müdürlüğüne başvurur. Proje yürütme biriminin uygun görmesi halinde projenin tamamlanma süresinin uzatılma talebi Genel Müdürlüğe bildirilir. Genel Müdürlüğün de uygun görmesi halinde projenin tamamlanması için hak sahibine en fazla altmış gün ek süre verilir.

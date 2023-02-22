@@ -1,0 +1,4 @@
+Geri ödeme ve yaptırımlar
+MADDE 24- (1) Hibe ödemesinden haksız yere yararlandığı tespit edilen, kendi isteğiyle proje uygulamaktan vazgeçen veya yapılan kontroller neticesinde bu Tebliğ ve hibe sözleşmesi hükümlerine aykırı hareket ettiği belirlenen hak sahiplerine yapılan ödeme, 21/7/1953 tarihli ve 6183 sayılı Amme Alacaklarının Tahsil Usulü Hakkında Kanunun 51 inci maddesinde belirtilen gecikme zammı oranları dikkate alınarak ödeme tarihinden itibaren hesaplanan kanunî faizi ile birlikte anılan Kanun hükümlerine göre geri alınır.
+(2) İdari hata sonucu düzenlenen belgelerle yapılan ödemeler hariç, hibe ödemesinden haksız yere yararlandığı tespit edilen hak sahipleri beş yıl süreyle 5488 sayılı Kanunun 23 üncü maddesi gereğince hiçbir destekleme programından yararlandırılmazlar.
+(3) Haksız ödemenin yapılmasında ödemeyi sağlayan belge veya belgeleri düzenleyen gerçek ve tüzel kişiler, geri alınacak tutarların tahsilinde müştereken sorumlu tutulurlar.

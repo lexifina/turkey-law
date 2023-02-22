@@ -1,0 +1,4 @@
+BİRİNCİ BÖLÜM
+Başlangıç Hükümleri
+Amaç
+MADDE 1- (1) Bu Tebliğin amacı; kırsal alanda/kırsal mahallede yaşayan/yaşamayı taahhüt eden, tarım, hayvancılık, ormancılık, gıda ve su ürünleri alanlarında eğitim veren üniversitelerin fakülte ve meslek yüksekokulları ile Milli Eğitim Bakanlığına bağlı tarım, hayvan yetiştiriciliği ve sağlığı, laboratuvar hizmetleri ve gıda teknolojisi alanlarında eğitim veren lise ve dengi okullardan mezun genç nüfusun istihdamına katkı sağlamak; bitkisel üretim, hayvancılık, gıda ve su ürünleri sektörlerinde girişimciliği destekleyerek bu faaliyetlerin eğitimli kişiler tarafından yapılmasını teşvik etmek; tarımsal üretimin miktarını, kalitesini ve verimliliğini arttırmak; kırsal alanda tarımsal üretim yapan işletmelere örnek ve önderlik oluşturacak sürdürülebilir yatırımlara hibe desteği verilmesine ilişkin usul ve esasları belirlemektir.
