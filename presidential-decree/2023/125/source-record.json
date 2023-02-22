@@ -1,0 +1,48 @@
+{
+  "source_id": "25.5.125",
+  "path": "presidential-decree/2023/125",
+  "number": "125",
+  "tertip": "5",
+  "title": "OLAĞANÜSTÜ HAL KAPSAMINDA ÇALIŞMA VE SOSYAL GÜVENLİK ALANINA İLİŞKİN ALINAN TEDBİRLERE DAİR CUMHURBAŞKANLIĞI KARARNAMESİ (KARARNAME NUMARASI:125)",
+  "status": "repealed",
+  "text_label": "last-available-consolidated",
+  "enacted": "2023-02-21",
+  "enacted_as_printed": "21.02.2023",
+  "published": "2023-02-22",
+  "gazette": "32112",
+  "in_force": "2023-02-22",
+  "in_force_basis": "Resmî Gazete publication date in the official listing (22.02.2023); own commencement article: \"Bu Cumhurbaşkanlığı Kararnamesi yayımı tarihinde yürürlüğe girer\"",
+  "commencement_clauses": [
+    "Bu Cumhurbaşkanlığı Kararnamesi yayımı tarihinde yürürlüğe girer"
+  ],
+  "repeal_notes": [
+    "Bu Kararname Anayasa’nın 119 uncu maddesi uyarınca kendiliğinden yürürlükten kalkmıştır."
+  ],
+  "source": "https://www.mevzuat.gov.tr/anasayfa/MevzuatFihristDetayIframe?MevzuatTur=25&MevzuatNo=125&MevzuatTertip=5",
+  "source_sha256": "1f267cd82a69dd24a4c0886cc0bd98897d97718510ad02d2c1e62e9354d038be",
+  "source_bytes": 21452,
+  "words": 812,
+  "source_images": 1,
+  "images_referenced": 0,
+  "images_deferred": 0,
+  "images_omitted": 1,
+  "omitted_images": [
+    {
+      "src": "25.5.125_dosyalar/image001.gif",
+      "url": "https://www.mevzuat.gov.tr/MevzuatMetin/25.5.125_dosyalar/image001.gif",
+      "sha256": "d46a5778c3af318067c09515dc36224f275b56ad1f9a2d6bb77b450f79a12399",
+      "bytes": 3981,
+      "pixels": [
+        104,
+        104
+      ],
+      "emblem_mean_diff": 3.2,
+      "reason": "Presidential emblem (decorative seal above the title, no text); omitted as main omits it for its in-force CBKs"
+    }
+  ],
+  "has_old_texts": false,
+  "history_note": "Earlier versions are not established by this current HTML source.",
+  "listing": "https://www.mevzuat.gov.tr/Anasayfa/MevzuatDatatable (evidence/list/2026-11-17/mulga-00000.json)",
+  "listing_sha256": "2cf34025a8cb3779e733a85e74259f6abc229c240ed8b0da7218b98b01c70836",
+  "checked_on": "2026-11-17"
+}
