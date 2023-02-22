@@ -1,0 +1,27 @@
+{
+  "number": "meeting-02-22",
+  "number_as_published": "meeting-02-22",
+  "year": 2023,
+  "title": "ŞUBAT AYI OLAĞANÜSTÜ MECLİS KARAR ÖZETİ (22.02.2023-şubat-ayi-karar-özetleri̇-web-düzeni̇.doc)",
+  "decision_date": "2023-02-22",
+  "source": "https://www.seydisehir.bel.tr/mecliskararlari",
+  "official_document": "https://www.seydisehir.bel.tr/upload/mecliskararlari/EIKx9yHT51xQLpi.doc",
+  "source_sha256": "2d129635eaf5825e8dc8dbca052eb748d5c9b8637c892bbf874fe8204ff26b85",
+  "issuer": "Seydişehir Belediye Meclisi",
+  "history_type": "metadata",
+  "text_status": "metadata-only: listing fields as published; complete decision text is in the linked official document, not transcribed",
+  "in_force": "2023-02-22",
+  "in_force_basis": "Decision date as printed in the official council listing: 22.02.2023; adoption date of the council decision; legal commencement not asserted",
+  "missing": [
+    "complete official decision text",
+    "official annexes"
+  ],
+  "law_text_complete": false,
+  "privacy_withheld": false,
+  "listing_label": "ŞUBAT AYI OLAĞANÜSTÜ MECLİS KARAR ÖZETİ (22.02.2023-şubat-ayi-karar-özetleri̇-web-düzeni̇.doc)",
+  "record_scope": "one official file of council decisions (meeting)",
+  "file_name": "22.02.2023-şubat-ayi-karar-özetleri̇-web-düzeni̇.doc",
+  "list_date": "2023-02-27",
+  "list_number": "001",
+  "official_page": "https://www.seydisehir.bel.tr/mecliskararlari"
+}
