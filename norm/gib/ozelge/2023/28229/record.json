@@ -1,0 +1,22 @@
+{
+  "kind": "norm",
+  "issuer": "Gelir İdaresi Başkanlığı",
+  "document_type": "ozelge",
+  "number": "49327596-125[KVK.ÖZ.2022.58]-41259",
+  "source_id": 28229,
+  "date": "2023-02-22",
+  "title": "Türkiye'de yerleşmiş olmayan kişilere verilen sağlık hizmetlerinden elde edilen kazancın hangi tarihten itibaren indirim konusu yapılacağı.",
+  "source": "https://gib.gov.tr/mevzuat/kanun/435/ozelge/28229",
+  "related_law": "5520 sayılı KURUMLAR VERGİSİ KANUNU",
+  "source_api": "https://gib.gov.tr/api/gibportal/mevzuat/ozelge/list",
+  "source_listing": "evidence/list/2026-11-16/ozelge-p003.json",
+  "source_listing_sha256": "b8eb1aba686c15efb9ca96f819c840940788d8f48769f30127e032220fbff4ab",
+  "source_sha256": "652637fc9d176193d8398394d9105941376d0d0eeae9d60bbc8a2dbbd0f6445b",
+  "text_status": "as-enacted",
+  "text_file": "metin.md",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  }
+}
