@@ -1,0 +1,16 @@
+{
+  "kind": "decision",
+  "issuer": "Sayıştay 7. Dairesi",
+  "number": "573",
+  "decision_date": "2023-02-23",
+  "source_id": 36962,
+  "chamber": "7",
+  "ilam_number": "96",
+  "item_number": 5,
+  "account_year": 2021,
+  "subject": "Personel Mevzuatı ile İlgili Kararlar",
+  "source": "https://www.sayistay.gov.tr/KararlarDaire/Detay/36962/",
+  "source_sha256": "5ba654aa376cf343f2bed8e60c2282edbeecca5af2385007d5eed75ae6aee4f9",
+  "text_status": "as-enacted",
+  "text_file": "metin.md"
+}
