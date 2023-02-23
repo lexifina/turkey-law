@@ -1,0 +1,4 @@
+Geçiş hükümleri
+GEÇİCİ MADDE 1 – (1) 3/7/2009 tarihli ve 27277 sayılı Sanayi Kaynaklı Hava Kirliliğinin Kontrolü Yönetmeliği hükümleri kapsamında emisyon izni/hava emisyonu konulu çevre izni almamış işletmelere tanınan süreler; bu Yönetmelik kapsamında yapılacak çevre izin veya çevre izin ve lisans başvurularında bu duruma ilişkin belgelerin sunulması kaydıyla geçerlidir.
+(2) Bu Yönetmeliğin 11 inci maddesinin belirtilen yenileme durumları haricinde, bu Yönetmeliğin 20 nci maddesi ile yürürlükten kaldırılan Yönetmelik hükümleri çerçevesinde düzenlenen geçici faaliyet belgeleri ile çevre izin veya çevre izin ve lisans belgeleri süreleri sonuna kadar geçerlidir.
+(3) Bu Yönetmeliğin yürürlük tarihinden önce geçici faaliyet belgesi ile çevre izin veya çevre izin ve lisans belgesi başvuruları değerlendirme süreçleri devam eden ancak sonuçlanmamış olan işletmelerin işlemleri, başvuruda bulundukları tarihte yürürlükte olan mevzuat çerçevesinde yürütülür.

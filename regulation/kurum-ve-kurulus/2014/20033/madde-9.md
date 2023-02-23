@@ -1,0 +1,5 @@
+Çevre izni veya çevre izin ve lisans belgesine ait başvurunun değerlendirilmesi ve belgenin düzenlenmesi
+MADDE 9 – (1) İşletmelerin, geçici faaliyet belgesi alınmasından itibaren yüz seksen takvim günü içerisinde EK-3C’de belirtilen bilgi, belge ve raporlar ile birlikte çevre izni veya çevre izin ve lisansına başvuru yapması zorunludur.
+(2) Başvuru, yetkili merci tarafından altmış takvim günü içerisinde değerlendirilir.
+(3) Yapılan değerlendirme sonucunda, başvuruda herhangi bir bilgi, belge, ölçüm, analiz sonuçları veya raporlarda eksiklik bulunması halinde, bu eksiklikler başvuru sahibine bildirilir. Bildirim tarihinden itibaren eksikliklerin doksan takvim günü içinde tamamlanarak yetkili merciye sunulması zorunludur.
+(4) (Değişik:RG-16/10/2021-31630) Başvuru, yetkili merci tarafından yapılan değerlendirme sonucunda bilgi ve belgelerle birlikte ölçüm, analiz sonuçları ve raporların uygun bulunması durumunda çevre izni veya çevre izin ve lisans belgesi düzenlenir. İşletme adına düzenlenen her yeni belge bir önceki belgenin devamı niteliğindedir.

@@ -1,0 +1,20 @@
+Tanımlar
+MADDE 4 – (1) Bu Yönetmelikte geçen;
+a) Alıcı Ortam: Hava, su, toprak ortamları ile bu ortamlara ilişkin ekosistemleri,
+b) Bakanlık: (Değişik ibare:RG-23/2/2023-32113) Çevre, Şehircilik ve İklim Değişikliği Bakanlığını,
+c) Çevre danışmanlık firması: Çevre yönetimi hizmeti vermesi için Bakanlık tarafından belgelendirilen tüzel kişiyi,
+ç) Çevre görevlisi: Faaliyetleri sonucu çevre kirliliğine neden olan ve/veya neden olabilecek ve Çevre Kanunu ve bu Kanuna dayanılarak yürürlüğe konulan düzenlemeler uyarınca denetime tâbi tesislerin faaliyetlerinin mevzuata uygunluğunu, alınan tedbirlerin etkili olarak uygulanıp uygulanmadığını değerlendiren, tesis içi yıllık denetim programları düzenleyen ve Bakanlık tarafından belge verilen görevliyi,
+d) Çevre İzni: Çevre Kanunu uyarınca alınması gereken; hava emisyonu, çevresel gürültü, atıksu deşarjı ve derin deniz deşarjı konularından en az birini içeren izni,
+e) Çevre İzin Belgesi: Alıcı ortamları korumak amacıyla ilgili mevzuat uyarınca işletmelere verilecek belgeyi,
+f) Çevre İzin ve Lisans Belgesi: Bu Yönetmelik kapsamında verilecek çevre izin ve çevre lisanslarını kapsayan belgeyi,
+g) Çevre Lisansı: Ek-3C’de yer alan lisans konuları ile ilgili iş ve işlemlere ilişkin teknik yeterliliği,
+ğ) Çevre Yönetim Birimi: Çevre Kanunu ve bu Kanuna dayanılarak yürürlüğe konulan düzenlemeler uyarınca denetime tâbi tesislerin faaliyetlerinin mevzuata uygunluğunu, alınan tedbirlerin etkili olarak uygulanıp uygulanmadığını değerlendiren, tesis içi yıllık denetim programları düzenleyen ve Bakanlık tarafından yeterlilik belgesi verilen birimi,
+h) Emisyon: İşletmelerden, alan ve noktasal kaynaklı katı, sıvı veya gaz haldeki atık maddelerin, titreşimin, ısının veya gürültünün havaya, suya veya toprağa doğrudan veya dolaylı olarak salımını,
+ı) Geçici Faaliyet Belgesi (GFB): İşletmelerin faaliyette bulunabilmeleri için çevre izni ve lisansı öncesi verilen belgeyi,
+i) (Değişik:RG-16/10/2021-31630) İl müdürlüğü uygunluk yazısı: İl müdürlüğünce gerçekleştirilen yerinde inceleme neticesinde, işletmelerin tabi oldukları mevzuatta yer alan fiziksel şartların sağlandığının ve 12/7/2019 tarihli ve 30829 sayılı Resmî Gazete’de yayımlanan Sıfır Atık Yönetmeliğindeki listeler dikkate alınarak, Sıfır Atık Temel Seviye Belgesinin veya muafiyetinin bulunduğunun tespit edilmesi durumunda, başvuru tarihinden itibaren en geç iki ay içerisinde e-izin sistemi üzerinden düzenlenen ve bir yıl geçerliliği bulunan belgeyi,
+j) İşletme: Tesis ve faaliyetlerin bütününü,
+k) İşletmeci: Çevre izin ve lisans sürecine tabi olan işletmeyi, işleten ve/veya mülkiyet hakkına sahip, hukuki olarak sorumlu, gerçek veya tüzel kişiyi,
+l) Tesis: Alıcı ortama emisyonu olan ve/veya atıkların toplanmasından taşıma hariç bertarafına kadar gerçekleştirilen işlemlere ait ünitelerin bütününü,
+m) Yetkili merci: Bakanlığın merkez ve taşra teşkilatını,
+n) (Ek:RG-16/10/2021-31630) E-izin sistemi: Çevre izin ve lisans sürecindeki iş ve işlemlerin elektronik ortamda gerçekleştirileceği çevrimiçi sistemi,
+ifade eder.

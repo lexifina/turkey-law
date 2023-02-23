@@ -1,0 +1,3 @@
+Faaliyetin sona ermesinin bildirilmesi
+MADDE 18 – (Değişik:RG-16/10/2021-31630)
+(1) Geçici faaliyet belgesi, çevre izin ve lisans belgesi almış işletmeler herhangi bir nedenle faaliyetini sonlandırması durumunda yetkili mercie bildirmekle yükümlüdür. Bu durumda işletme adına düzenlenmiş belgeler iptal edilir. Çevre lisans konusu bulunan işletmelerin kapatma iş ve işlemleri, 9/10/2021 tarihli ve 31623 sayılı Resmî Gazete’de yayımlanan Atık Ön İşlem ve Geri Kazanım Tesislerinin Genel Esaslarına İlişkin Yönetmeliğin ilgili hükümleri uyarınca gerçekleştirilir. Bildirimde bulunulmaması durumunda 2872 sayılı Kanunun ilgili maddeleri uyarınca idari yaptırım uygulanır.
