@@ -1,0 +1,17 @@
+{
+  "kind": "decision",
+  "issuer": "Sayıştay 7. Dairesi",
+  "number": "573",
+  "decision_date": "2023-02-23",
+  "source_id": 36989,
+  "chamber": "7",
+  "ilam_number": "96",
+  "item_number": 8,
+  "public_body_type": "Belediyeler ve Bağlı İdareler",
+  "account_year": 2021,
+  "subject": "Personel Mevzuatı ile İlgili Kararlar",
+  "source": "https://www.sayistay.gov.tr/KararlarDaire/Detay/36989/",
+  "source_sha256": "a938bb2b800d9cea5f80d5fa09d9243c5a08cac32c4a9910254d5aa30770d3bd",
+  "text_status": "metadata-only",
+  "metadata_only_reason": "possible personal name in the official text"
+}
