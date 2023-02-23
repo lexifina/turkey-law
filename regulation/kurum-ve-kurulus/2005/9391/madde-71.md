@@ -1,0 +1,3 @@
+Nakillerde ve ilişiğin kesilmesi hallerinde devir-teslim
+Madde 71 — Başka bir işe nakledilen veya ilişiği kesilen gemi adamları, kendilerine teslim edilmiş bulunan makine, alet, demirbaş eşya, para ve benzeri belgeleri usulüne uygun olarak devir almak ve yetkili görevliye teslim etmekle yükümlüdür. Devir-teslim işlemini usulünce yapmayan gemi adamının durumu, gemi jurnaline yazılarak bir tutanak ile belirlenir.
+Ancak, personelin işverenin talimatı veya mazeretli olarak devir teslim yapılmadan gemiden ayrılması halinde; İşletme Müdürünün oluşturacağı 3 kişilik bir heyetle ilgilinin teslim etmediklerinin dökümü yapılarak, tutanakla belirlenir. Tutanağın bir nüshası ilgilisine ulaştırılır.

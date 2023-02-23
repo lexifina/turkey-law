@@ -1,0 +1,2 @@
+Sicil dosyalarının saklanması
+Madde 31 — Sicil dosyaları ile özetleri, personel servisinde kilitli özel dolaplarda saklanır. Bu dosyaların personel servisleri içerisinde incelenmesi, sadece kendine bağlı personele ait ve münhasır olmak kaydıyla Başkan, Müdür, Müdür Yardımcısı veya Şefinin bilgisine ve servisten dışarı çıkarılması Genel Müdür veya Genel Müdür Yardımcıları ile Başkan veya Müdürünün onayına bağlıdır.

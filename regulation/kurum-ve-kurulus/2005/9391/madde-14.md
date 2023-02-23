@@ -1,0 +1,3 @@
+Norm-kadro dışında personel çalıştırılamayacağı
+Madde 14 — Personelin tayin ve terfii edilebilmesi için, tayin ve terfiinin norm-kadroya uygun olması; hangi sebeple olursa olsun bir işin yerine getirilmesi amacıyla norm-kadro dışında personelin çalıştırılmaması esastır.
+Ancak, şirketin faaliyet alanının daralması veya yeni tekniklerin uygulanması durumunda; yeni durumlara uygun olarak yapılan norm-kadro çalışmasında, daha önce norm-kadroya uygun olup yeni durumda norm- kadro fazlası konumuna gelenler hakkında, Genel Müdürlüğün teklifi ve Şirket Yönetim Kurulunun kararı ile personel çalıştırılabilir.

@@ -1,0 +1,2 @@
+Hizmet belgesi
+Madde 67 — Şirketten ayrılan personele yetkili makam tarafından isteği halinde bir hizmet belgesi verilir. Bu belgeye personelin adı, bulunduğu görevleri, tarihleri ile aldığı ücretler ve ayrılış sebebi yazılır. Şirkette herhangi bir sebepten borçlu olan veya üstündeki işleri veya evrakı usulüne uygun olarak devretmeden ayrılan büro personeline hizmet belgesi verilmeyeceği gibi gerekirse haklarında kanuni işlem yapılır.

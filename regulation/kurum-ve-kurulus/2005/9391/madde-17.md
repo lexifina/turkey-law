@@ -1,0 +1,3 @@
+Görev değişikliği ve ayrılışlarda ücret ödenmesi
+Madde 17 — Bir görevden diğer göreve tayin edilen personelin, eski görevinden ayrıldıkları tarihe kadar tahakkuk edecek ücretleri, eski görev ücretleri üzerinden ödenir. Hangi sebeple olursa olsun, peşin ücret almakta iken Şirketteki hizmetlerinden ayrılan personelin peşin aldıkları ücretlerden, çalışmadıkları günlere isabet eden kısmı geri alınır.
+Ancak, sosyal güvenlik yönünden 8/6/1949 tarihli ve 5434 sayılı Türkiye Cumhuriyeti Emekli Sandığı Kanununa tabi personelin, emeklilik nedeni ile görevden ayrılması halinde peşin ödenen ücret geri alınmaz.

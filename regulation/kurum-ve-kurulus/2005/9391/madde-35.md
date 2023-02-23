@@ -1,0 +1,2 @@
+Mevzuata aykırı emirler
+Madde 35 — Personel, amirlerinin emirlerini yerine getirmekle yükümlüdür. Ancak verilen emrin kanun, tüzük ve yönetmeliklerle diğer emir ve genelgelere aykırı olması halinde; personel durumu amirine bildirir. Bu durum karşısında sorumluluğu üzerine alarak emrin yapılmasında amir yazı ile ısrar ederse ceza kanunlarına göre konusu suç teşkil etmeyen fiil olmamak şartıyla personel, emri yerine getirmekle yükümlüdür.
