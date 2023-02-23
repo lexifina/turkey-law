@@ -1,0 +1,7 @@
+Yıllık finansal tabloların denetimi
+MADDE 28 – (1) Ajansın Kamu Gözetimi, Muhasebe ve Denetim Standartları Kurumu tarafından yayımlanan Türkiye Finansal Raporlama Standartlarına uygun olarak hazırlanan yıllık finansal tabloları bağımsız denetime tabidir. Bağımsız denetim, Kamu Gözetimi, Muhasebe ve Denetim Standartları Kurumu tarafından kamu yararını ilgilendiren kuruluşların denetimini yapmak üzere yetkilendirilen bağımsız denetim kuruluşlarının en az üçünden teklif alınmak suretiyle İcra Kurulu tarafından Bağımsız Denetim Standartlarına uygun olarak yaptırılır.
+(2) Bağımsız denetim kuruluşlarında aşağıdaki kriterler aranır:
+a) Denetim kadrosunda tam zamanlı olarak çalışan asgari üç sorumlu ortak başdenetçi, beş kıdemli denetçi, beş denetçi bulunması.
+b) Denetimin üstlenileceği hesap döneminden bir önceki hesap döneminde asgari üç adet kamu yararını ilgilendiren kuruluş denetimini üstlenmiş olması.
+c) Denetimin üstlenileceği hesap döneminden bir önceki hesap döneminde asgari 1.000.000,00.-TL tutarında (bu tutar her yıl Türkiye İstatistik Kurumunca yayımlanan Tüketici Fiyat Endeksi oranı (TÜFE - on iki aylık ortalamalara göre yüzde değişim oranı) kadar arttırılır) finansal tablo denetim cirosu elde etmiş olması.
+(3) Denetim sonucunda düzenlenen bağımsız denetim raporları Sayıştaya gönderilir. Sayıştay, münhasıran kendisine sunulan bağımsız denetim raporlarını esas alarak hazırlayacağı raporu Türkiye Büyük Millet Meclisine sunar.

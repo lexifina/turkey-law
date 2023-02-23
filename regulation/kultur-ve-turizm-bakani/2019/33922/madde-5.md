@@ -1,0 +1,3 @@
+Bakanlıktan belgeli yeme-içme ve eğlence tesisleri
+MADDE 5 – (1) Turizm payı; Bakanlıktan belgeli yeme-içme ve eğlence tesislerinin işletmecisi olan gerçek veya tüzel kişilerin bu ticari işletmelerdeki faaliyetleri sonucunda elde ettikleri net satış ve kira gelirlerinin toplamı üzerinden binde (Değişik ibare:RG-23/2/2023-32113)(1) beş oranında alınır.
+(2) Bu madde kapsamında, Bakanlıktan kısmi turizm işletmesi belgesi ve turizm işletmesi belgesi alan müstakil 1. ve 2. sınıf ve lüks lokantalar, özel yeme-içme tesisleri, gastronomi tesisleri, müstakil eğlence yerleri, bar, kafeterya, eğlence merkezleri ve günübirlik tesis işletmelerinden turizm payı tahsil edilir.

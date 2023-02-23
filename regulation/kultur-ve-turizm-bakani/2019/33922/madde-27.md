@@ -1,0 +1,2 @@
+Yıllık finansal tabloların hazırlanması
+MADDE 27 – (1) Bilançoda yer alan değerleri ve bu değerlerin gerçekleşmesini sağlayan faaliyetleri kapsayan dönem faaliyet sonuçlarını; işletme bütçesi, hedefler ve önceki yılların gerçekleşmeleriyle karşılaştırmalı olarak belirtilen, analizlere yer veren Ajansın yıllık finansal tabloları, Kamu Gözetimi, Muhasebe ve Denetim Standartları Kurumu tarafından yayımlanan Türkiye Finansal Raporlama Standartlarına uygun olarak İcra Kurulu tarafından hazırlanır ve ilgili olduğu mali yılın bitimini izleyen iki ay içinde Yönetim Kuruluna sunulur.

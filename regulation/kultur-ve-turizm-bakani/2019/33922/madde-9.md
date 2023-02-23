@@ -1,0 +1,5 @@
+Havalimanı ve terminal işletmeleri
+MADDE 9 – (1) Devlet Hava Meydanları İşletmesi Genel Müdürlüğü tarafından işletilenler hariç olmak üzere havalimanı ve terminal işletmelerinin işletmecisi olan gerçek veya tüzel kişilerin bu ticari işletmelerdeki faaliyetleri sonucunda elde ettikleri net satış ve kira gelirlerinin toplamı üzerinden binde iki oranında turizm payı alınır.
+(2) Havalimanı işletmeleri; havaalanı işletiminden sorumlu olan ve Ulaştırma ve Altyapı Bakanlığı Sivil Havacılık Genel Müdürlüğü tarafından ruhsatlandırılan kuruluşları kapsar.
+(3) Terminal işletmeleri; Devlet Hava Meydanları İşletmesi Genel Müdürlüğü tarafından inşa edilerek sonradan gerçek veya tüzel kişilere kiraya verilmek suretiyle işlettirilen ve Ulaştırma ve Altyapı Bakanlığı Sivil Havacılık Genel Müdürlüğü tarafından ruhsatlandırılan terminal işletmelerini kapsar.
+(4) Havalimanı veya terminal işletmelerinin kısmen veya tamamen alt kiracılar aracılığıyla faaliyet göstermesi durumunda turizm payı, havalimanı veya terminal işletmecisinin elde ettiği ciro ve/veya kira geliri üzerinden alınır.

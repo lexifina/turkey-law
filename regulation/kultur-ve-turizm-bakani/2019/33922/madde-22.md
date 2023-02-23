@@ -1,0 +1,3 @@
+Harcama yetkisi
+MADDE 22 – (1) Ajans adına harcama yapmaya, Yönetim Kurulunun verdiği yetkiler ve belirlediği harcama limitleri kapsamında Genel Müdür yetkilidir. Genel Müdürün izin, hastalık, geçici görev ve benzeri nedenlerle görevinden ayrılması hâlinde, harcama yapma yetkisi, bu görevi yürüten kişi tarafından kullanılır.
+(2) Genel Müdür; harcamaların bütçe ilke ve esaslarına, Yönetim Kurulu kararlarına, Ajans mevzuatına uygun olmasından, gelirlerin etkili, ekonomik ve verimli kullanılmasından ve ilgili mevzuat çerçevesinde yapması gereken diğer işlemlerin yürütülmesi ile Ajans mal ve haklarının gereği gibi muhafaza edilmesinin sağlanması ve yönetilmesinden sorumludur.
