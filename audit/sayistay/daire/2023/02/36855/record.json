@@ -1,0 +1,17 @@
+{
+  "kind": "decision",
+  "issuer": "Sayıştay 1. Dairesi",
+  "number": "10898",
+  "decision_date": "2023-02-23",
+  "source_id": 36855,
+  "chamber": "1",
+  "ilam_number": "77",
+  "item_number": 4,
+  "public_body_type": "Belediyeler ve Bağlı İdareler",
+  "account_year": 2021,
+  "subject": "İhale Mevzuatı ile İlgili Kararlar",
+  "source": "https://www.sayistay.gov.tr/KararlarDaire/Detay/36855/",
+  "source_sha256": "9509b8bb6e632a23a2edb5dd631635cc252d5629794826ea289076b157d9ec01",
+  "text_status": "metadata-only",
+  "metadata_only_reason": "possible personal name in the official text"
+}
