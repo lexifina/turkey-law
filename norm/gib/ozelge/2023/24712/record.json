@@ -1,0 +1,22 @@
+{
+  "kind": "norm",
+  "issuer": "Gelir İdaresi Başkanlığı",
+  "document_type": "ozelge",
+  "number": "49327596-120[KVKÖZ.2021.86]-43043",
+  "source_id": 24712,
+  "date": "2023-02-24",
+  "title": "4691 Sayılı Kanun kapsamında muhtasar beyanname üzerinden terkin edilen gelir vergisi stopaj teşvikinin çalışan ortağa ücret olarak ödenmesi hk.",
+  "source": "https://gib.gov.tr/mevzuat/kanun/433/ozelge/24712",
+  "related_law": "193 sayılı GELİR VERGİSİ KANUNU",
+  "source_api": "https://gib.gov.tr/api/gibportal/mevzuat/ozelge/list",
+  "source_listing": "evidence/list/2026-11-16/ozelge-p002.json",
+  "source_listing_sha256": "1127433fae2c3b98eacb69dfeeab0d176134351c27ed181b09d755413ef94f48",
+  "source_sha256": "8c08d61f3d3de7b65091616b2da104035c2cf7e0db566262182d4dcce856466f",
+  "text_status": "as-enacted",
+  "text_file": "metin.md",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  }
+}
