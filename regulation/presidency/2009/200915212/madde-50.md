@@ -1,0 +1,2 @@
+Teminat
+MADDE 50 – (Mülga:RG-24/2/2022-31760-CK-5212/13 md.)

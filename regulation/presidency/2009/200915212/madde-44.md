@@ -1,0 +1,3 @@
+Deniz turizmi araçları seyir bölgeleri, kontrolü ve geliştirilmesi
+MADDE 44 – (1) Türk ve yabancı bayraklı veya yabancıların kullandıkları deniz turizmi araçları; Türk karasularında Kanunun 28 inci maddesi uyarınca 2565 sayılı Askeri Yasak Bölgeler ve Güvenlik Bölgeleri Kanunu uyarınca belirlenen askeri yasak bölgeler, askeri güvenlik ve özel güvenlik bölgeleri dışında kalan Türk karasularında kıyı ve koylara başkaca bir tahdit bulunmaması kaydıyla yanaşabilir, geceleyebilir ve demirleyebilir.
+(2) Seyir bölgelerinde deniz araçlarının seyretme, demirleme, durma ve dalmalarında sakınca görülen yerler, ilgili kamu idarelerince Bakanlık koordinatörlüğünde belirlenerek duyurulur. Denetim bu konuda görevli kurumlarca yapılır.

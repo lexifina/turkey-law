@@ -1,0 +1,3 @@
+Kapsam[1]
+MADDE 2 – (1) Bu Yönetmelik; deniz turizmi tesisleri ile deniz ve iç sularda çalışacak gezi, spor ve eğlence amaçlı Türk bayraklı ticari deniz araçlarına turizm yatırımı ve turizm işletmesi belgelerinin verilmesini, bu işletmelerin yönetim, personel ve işletme özellikleri ile uymak zorunda oldukları fiziki şartları, Türk ve yabancı bayraklı deniz araçlarının karasularımızdaki seyir esasları, Türkiye’de kalış süreleri ve kabotaj hakları ile deniz turizminin geliştirilmesi amacıyla alınacak diğer tedbirleri kapsar.
+(2) Münhasıran yük ve yolcu taşımacılığı yapan deniz araçları bu Yönetmelik kapsamı dışındadır.

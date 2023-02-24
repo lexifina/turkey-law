@@ -1,0 +1,2 @@
+Deniz turizmi araçlarının belgelendirilmesinde süre
+GEÇİCİ MADDE 2 – (1) Deniz turizmi araçları, bu Yönetmeliğin yayımından itibaren bir yıl içinde deniz turizmi araçları işletmeciliği belgesi almak zorundadır. Süresinde deniz turizmi araçları işletmeciliği belgesi almayan deniz turizmi araçlarının faaliyetlerine liman başkanlıklarınca izin verilmez. Bu süreyi bir defaya mahsus olmak üzere altı ay uzatmaya Bakanlık yetkilidir.

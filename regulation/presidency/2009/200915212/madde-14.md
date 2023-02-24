@@ -1,0 +1,3 @@
+Deniz turizmi tesislerinin belge devri
+MADDE 14 – (Değişik:RG-24/2/2022-31760-CK-5212/9 md.)
+(1) Tahsisli arazide yer alan tesislerin belge devirlerinde ilgili idarenin izni alınmadan üçüncü kişilere devir yapılmaz, belge devirlerinde ayrıca tesisin özel mülkiyette bulunması halinde mal sahibinin de uygun görüşü aranır. Tahsisli yatırım ve işletmelerin tahsis koşulları saklı kalmak kaydıyla, turizm belgesinin devri, şirket türü değişikliği ve unvan tadili taleplerinde, deniz turizmi tesisinin yatırım ve işletme durumuna göre deniz turizmi tesisleri yatırım veya işletmecisi, 11 inci maddenin birinci fıkrasının (a), (b) ve (ç) bentleri ile 12 nci maddesinin ikinci fıkrasında belirtilen belgeler ile birlikte e-devlet üzerinden Bakanlığa başvurur.

@@ -1,0 +1,2 @@
+Deniz turizmi işletmelerinin yetkileri
+MADDE 55 – (1) Deniz turizmi tesisi ve araçları işletmeleri, tesislerine gelen ve tesislerinde bulunan turizm amaçlı deniz araçlarının hudut giriş ve çıkış işlemleri ile Türk karasuları ve limanları arasındaki seyirlerine ilişkin ilgili kamu kurumları nezdinde yapılması zorunlu işlemleri için aracılık yapabilir. Bu işletmelerden aracılık faaliyetleri için başka bir belge aranmaz. İşletme, bu işlemleri yürütecek personeli ilgili kamu kurumlarına bildirir.

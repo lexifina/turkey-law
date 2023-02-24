@@ -1,0 +1,4 @@
+Yabancı bayraklı yatların ticari faaliyeti
+MADDE 42/A- (Ek:RG-19/10/2022-31988-CK-6229/39 md.)
+(1) Boyları otuzdokuz metrenin üzerinde olan yabancı bayraklı ticari yatların Türk karasularında faaliyet göstermelerine ve seyrine, her yıl Bakanlıkça belirlenen sosyal ve teknik altyapı hizmetlerine katkı payı alınması suretiyle, aynı takvim yılını geçmeyecek şekilde geçici süreli olarak Bakanlıkça izin verilebilir. Yolcu gemisi olarak tescil edilmiş, yat tipinde inşa edilmiş deniz araçları da bu kapsamda değerlendirilir. İzin süresi sonunda yeniden süre verilmeyen ve Türk karasularından ayrılmayan yatlar hakkında 27/10/1999 tarihli ve 4458 sayılı Gümrük Kanunu hükümleri uygulanır.
+(2) Bakanlıktan faaliyet izni talebinde bulunan yabancı işletmelerden istenilecek bilgi ve belgeler Bakanlıkça çıkarılacak tebliğ ile belirlenir.

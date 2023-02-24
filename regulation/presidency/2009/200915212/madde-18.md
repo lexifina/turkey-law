@@ -1,0 +1,3 @@
+Bağlama sözleşmesi
+MADDE 18 – (1) Deniz turizmi tesisleri ile deniz turizmi araçlarının donatan veya kaptanları arasında; tesislerine bağlanan veya karaya çekilen deniz araçları ile ilgili olarak bağlama sözleşmesi yapılması zorunludur. Yapılan bağlama sözleşmesinin bir sureti, donatan veya kaptana verilir.
+(2) Deniz turizmi aracının bağlama sözleşmesi süresinin bitiminden itibaren iki yıl sonunda tesis işletmesine başvurmaması ve sözleşmesini yenilememesi halinde deniz turizmi aracı terk edilmiş sayılır. Bu durumda, deniz turizmi tesisi işletmesi durumu liman başkanlığına ve gümrük idaresine bildirir.[9]

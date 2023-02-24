@@ -1,0 +1,2 @@
+Personel nitelikleri
+MADDE 54 – (1) Bu Yönetmelik kapsamında faaliyette bulunan deniz turizmi işletmelerinde denizcilikle ilgili tüm hizmetler gemi adamı belgesine, diğer hizmetler ise uygun sertifikaya sahip kişilerce yürütülür. Görevli personelin hizmet standardını yükseltmek amacıyla eğitim için gerekli önlemler işverenler tarafından alınır ve uygulanır. Çalışanlar işlerine ve görev mahallerine uygun, özel ve temiz kıyafet giyer. Her işletmede ilk yardım konusunda sertifikalı personel çalıştırılır.

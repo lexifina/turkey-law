@@ -1,0 +1,26 @@
+{
+  "id": "presidency-regulation-200915212",
+  "number": "200915212",
+  "kind": "regulation",
+  "issuer": "presidency",
+  "title": "DENİZ TURİZMİ YÖNETMELİĞİ",
+  "published": "2009-07-24",
+  "enacted": "2009-06-29",
+  "gazette_number": "27298",
+  "in_force": "2023-02-24",
+  "in_force_basis": "Source commencement table, \"Yürürlüğe Giriş Tarihi\": 24/2/2023; source row: 23/2/2023 | 6860 | 5 | 24/2/2023",
+  "history": "current-only",
+  "version_label": "oldest version available",
+  "first_law": null,
+  "source": "https://www.mevzuat.gov.tr/anasayfa/MevzuatFihristDetayIframe?MevzuatNo=200915212&MevzuatTur=21&MevzuatTertip=5",
+  "source_sha256": "f6564ced3b48ef668d0b4faa8f391573d520a7590246abf094ecbb422cf0c389",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  },
+  "missing_components": [],
+  "text_layout": "article-files",
+  "source_links": [],
+  "completeness": "html-text-complete"
+}
