@@ -1,0 +1,21 @@
+{
+  "record_type": "parliament-written-question",
+  "term": 27,
+  "legislative_year": 6,
+  "esas_no": "7/78728",
+  "submitted": "2023-02-24",
+  "submitted_as": "Başkanlığa geliş tarihi",
+  "mp": "Yunus EMRE",
+  "province": "İstanbul",
+  "summary": "6 Şubat 2023 tarihinde Kahramanmaraş'ta meydana gelen depremler sonrasında valiler tarafından yürütülen çalışmalara ilişkin",
+  "status": "Cevaplanmadığı Gelen Kağıtlarda İlan Edildi",
+  "status_as_of": "2026-11-16",
+  "official_record": "https://www.tbmm.gov.tr/Denetim/Yazili-Soru-Onergesi-Detay/f72877c2-2e1c-037b-e050-007f01005610",
+  "source": "https://tbmm.gov.tr/Denetim/YaziliSoruOnergesiTable",
+  "source_form": "https://tbmm.gov.tr/Denetim/Gecmis-Donem-Yazili-Soru-Onergeleri",
+  "source_sha256": "9d86c52baec67d47a3779d7a62fe9a5c5d6327b9faa1a4eca859e006e2b310c6",
+  "in_force": "2023-02-24",
+  "in_force_basis": "Date the question reached the Speaker (Başkanlığa geliş tarihi) in the official TBMM written-question record; parliamentary oversight record, not law",
+  "history_type": "metadata",
+  "text_status": "metadata-only: question text, addressee and answers are in the linked official record (PDFs on cdn.tbmm.gov.tr); not transcribed here"
+}
