@@ -1,0 +1,48 @@
+{
+  "source_id": "25.5.126",
+  "path": "presidential-decree/2023/126",
+  "number": "126",
+  "tertip": "5",
+  "title": "OLAĞANÜSTÜ HAL KAPSAMINDA YERLEŞME VE YAPILAŞMAYA İLİŞKİN CUMHURBAŞKANLIĞI KARARNAMESİ (KARARNAME NUMARASI: 126)",
+  "status": "repealed",
+  "text_label": "last-available-consolidated",
+  "enacted": "2023-02-23",
+  "enacted_as_printed": "23.02.2023",
+  "published": "2023-02-24",
+  "gazette": "32114",
+  "in_force": "2023-02-24",
+  "in_force_basis": "Resmî Gazete publication date in the official listing (24.02.2023); own commencement article: \"Bu Cumhurbaşkanlığı Kararnamesi yayımı tarihinde yürürlüğe girer\"",
+  "commencement_clauses": [
+    "Bu Cumhurbaşkanlığı Kararnamesi yayımı tarihinde yürürlüğe girer"
+  ],
+  "repeal_notes": [
+    "Bu Kararname Anayasa’nın 119 uncu maddesi uyarınca kendiliğinden yürürlükten kalkmıştır."
+  ],
+  "source": "https://www.mevzuat.gov.tr/anasayfa/MevzuatFihristDetayIframe?MevzuatTur=25&MevzuatNo=126&MevzuatTertip=5",
+  "source_sha256": "d5137caf1842eccd8acb135f1030bc307d7d01c6ceaf7fac3847f2cc58902ba8",
+  "source_bytes": 22264,
+  "words": 1465,
+  "source_images": 1,
+  "images_referenced": 0,
+  "images_deferred": 0,
+  "images_omitted": 1,
+  "omitted_images": [
+    {
+      "src": "25.5.126_dosyalar/image001.jpg",
+      "url": "https://www.mevzuat.gov.tr/MevzuatMetin/25.5.126_dosyalar/image001.jpg",
+      "sha256": "cdca9cf88a09e1d2c76d1d4ca8ce51b11c440ba2ad0e8318c53a4d744e251ac7",
+      "bytes": 3627,
+      "pixels": [
+        103,
+        103
+      ],
+      "emblem_mean_diff": 9.18,
+      "reason": "Presidential emblem (decorative seal above the title, no text); omitted as main omits it for its in-force CBKs"
+    }
+  ],
+  "has_old_texts": false,
+  "history_note": "Earlier versions are not established by this current HTML source.",
+  "listing": "https://www.mevzuat.gov.tr/Anasayfa/MevzuatDatatable (evidence/list/2026-11-17/mulga-00000.json)",
+  "listing_sha256": "2cf34025a8cb3779e733a85e74259f6abc229c240ed8b0da7218b98b01c70836",
+  "checked_on": "2026-11-17"
+}
