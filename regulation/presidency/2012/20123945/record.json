@@ -1,0 +1,26 @@
+{
+  "id": "presidency-regulation-20123945",
+  "number": "20123945",
+  "kind": "regulation",
+  "issuer": "presidency",
+  "title": "ÇEVRE VE ŞEHİRCİLİK BAKANLIĞINDA AFET RİSKİ ALTINDAKİ ALANLARIN DÖNÜŞTÜRÜLMESİ UYGULAMALARINDA SÖZLEŞMELİ PERSONEL ÇALIŞTIRILMASINA DAİR ESASLAR",
+  "published": "2012-11-26",
+  "enacted": "2012-11-05",
+  "gazette_number": "28479",
+  "in_force": "2023-02-24",
+  "in_force_basis": "Source commencement table, \"Yürürlüğe Giriş Tarihi\": 24/2/2023; source row: 23/2/2023 | 6864 | Başlık, 4, 12, 13, 22, Geçici Madde 1 | 24/2/2023 | ",
+  "history": "current-only",
+  "version_label": "oldest version available",
+  "first_law": null,
+  "source": "https://www.mevzuat.gov.tr/anasayfa/MevzuatFihristDetayIframe?MevzuatNo=20123945&MevzuatTur=21&MevzuatTertip=5",
+  "source_sha256": "7e4ca246e5ac9ab2189897b3aa385aaecb05c5123b9bfde10a1517a3eb1e0d69",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  },
+  "missing_components": [],
+  "text_layout": "article-files",
+  "source_links": [],
+  "completeness": "html-text-complete"
+}

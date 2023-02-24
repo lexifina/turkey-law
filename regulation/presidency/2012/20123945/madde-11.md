@@ -1,0 +1,4 @@
+Göreve başlama süresi
+MADDE 11- (1) Sınav sonuçları, başarılı olan adaylara, Bakanlık resmi internet sayfasında duyurulur ve başvuru esnasında belirttikleri adreslerine, sınav sonucunun ilanından itibaren en geç 5 iş günü içerisinde posta yoluyla bildirilir ve bu kişiler göreve başlamaya çağrılır. Sınavda başarılı olanlar, duyurulduğu veya tebellüğ tarihinden itibaren 15 gün içerisinde sözleşme imzalamak ve sözleşmede belirtilen tarihte işe başlamak zorundadır.
+(2) Süresi içinde göreve başlamayanlara, mücbir sebeplerini gösteren bir belge ile başvurmaları halinde, Bakanlıkça en fazla bir aylık ek süre verilebilir.
+(3) Bakanlık resmi internet sayfasında duyurulduğu veya kendilerine tebligat yapıldığı tarihten itibaren 15 gün içerisinde müracaat etmeyen veya sözleşme imzaladığı halde sözleşmede belirtilen sürede işe başlamayan aday hakkından feragat etmiş sayılır.

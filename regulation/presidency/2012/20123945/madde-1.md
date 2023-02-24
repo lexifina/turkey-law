@@ -1,0 +1,2 @@
+Amaç
+MADDE 1- (1) Bu Esasların amacı, 16/5/2012 tarihli ve 6306 sayılı Afet Riski Altındaki Alanların Dönüştürülmesi Hakkında Kanun kapsamındaki uygulamalarda, uygulama süresini aşmamak üzere, 14/7/1965 tarihli ve 657 sayılı Devlet Memurları Kanunu ile diğer kanunların sözleşmeli personel çalıştırılmasına dair hükümlerine bağlı kalmaksızın, özel bilgi ve uzmanlık gerektiren işlerde çalıştırılacak sözleşmeli personelin unvanını, sayısını, ücretini ve diğer hususları belirlemektir.
