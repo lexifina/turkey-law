@@ -1,0 +1,4 @@
+Tarla kontrolü
+MADDE 7 – (1) Kontrolör, üretim alanlarında ilgili bitki türü için EK-3’te yer alan standartlara göre tarla kontrolü yapar. Tarla kontrolünün tamamlanmasından sonra tarla kontrol raporu düzenlenir. Standartlara uygun olmayan üretim alanları için rapor olumsuz olarak düzenlenir.
+(2) Tarla kontrolünde tohumluğun talep edilen sınıf/kademeye girmesini engelleyen sebepler varsa ve teknik olarak bu engellerin üretici tarafından giderilmesi mümkünse, üreticiye bu sebeplerin ortadan kaldırılması için en az bir hafta süre verilir. Verilen süre sonunda kontrolör tarafından yeniden tarla kontrolü yapılır.
+(3) Tarla kontrolü esnasında Bitki Pasaportu Sistemi ve Operatörlerin Kayıt Altına Alınması Yönetmeliği ekinde belirtilen etmenlerin varlığından şüphe edilmesi halinde durum kontrolör tarafından ilgili bitki sağlığı birimine iletilir.

@@ -1,0 +1,5 @@
+Laboratuvar analizleri ve belgelendirme
+MADDE 10 – (1) Tohumlukların laboratuvar analizleri Bakanlıkça görevlendirilen veya Tohumculuk Hizmetlerinde Yetki Devri Yönetmeliği hükümleri çerçevesinde laboratuvar analizi ve belgelendirme konularında yetki verilen tohumluk sertifikasyon kuruluşları tarafından ISTA metotlarına uygun olarak yapılır. Ham tohumluk partilerinde laboratuvar analizi yapılmaz.
+(2) Sertifikasyon kuruluşları, sertifika veya rapor düzenlenmesi amacıyla gönderilen tohumluk numunelerinde türlere göre belirlenen gerekli laboratuvar analizlerini yaparak, EK-6’ da yer alan laboratuvar standartlarını taşıyan numunelerin temsil ettiği partiye sertifika veya rapor düzenler.
+(3) Laboratuvar analizleri sonucunda, tohumluk sınıflarının hiçbirinin standartlarını tutmayan numunenin temsil ettiği tohumluk partileri için tohumluk olamaz raporu düzenlenir. Tohumluk olamaz raporu düzenlenen numunenin temsil ettiği partiler tohumluk olarak pazarlanamaz.
+(4) Şahit numuneler sertifikasyon kuruluşu tarafından sertifika düzenlenme tarihinden itibaren bir yıl muhafaza edilir.
