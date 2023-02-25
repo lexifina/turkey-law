@@ -1,0 +1,26 @@
+Tanımlar
+MADDE 3 – (1) Bu Yönetmelikte geçen;
+a) (Değişik:RG-18/2/2020-31043) Bakanlık: Tarım ve Orman Bakanlığını,
+b) Başvuru kuruluşu: Üretimin yapıldığı ildeki Bakanlık il müdürlüğü veya Bakanlık tarafından beyanname kabulü ve tarla kontrolleri için yetkilendirilen kuruluşları,
+c) Çeşit sahibi: Sertifikasyon için uygun olan ve kayıt altında olan çeşitlere ait tohumlukların üretiminden, çoğaltılmasından ya da çeşidin muhafazasından sorumlu kişi ya da kuruluşu,
+ç) Çeşit safiyeti: Tohumluğun sahip olduğu genotipten farklı olan çeşitlerin oranını,
+d) Elit tohumluk: Yeni ıslah edilmiş veya geçmiş yıllarda ıslah edilmiş olmakla beraber usulüne uygun olarak çeşit safiyeti muhafaza ve devam ettirilen doğrudan doğruya ıslahçı tarafından veya yetkili kuruluş tarafından kontrol edilen, orijinal tohumluğun başlangıcı ve diğer sınıftaki tohumlukların kaynağı olan tohumluğu,
+e) Ham tohumluk: Orijinal ve sertifikalı tohumluk sınıflarında üretilen, nihai sertifikalandırılmamış tohumlukları,
+f) Ham tohumluk sertifikası: Orijinal ve sertifikalı tohumluk sınıflarında üretilen, nihai olarak sertifikalandırılmamış tohumluklar için düzenlenen belgeyi,
+g) İzolasyon mesafesi: Tohumluk üretim alanlarında, birbirini tozlayıp dölleyebilecek tür, cins ve çeşitlerin üretimleri arasında bulunması gereken tozlanmayı engelleyecek minimum uzaklığı,
+ğ) (Değişik:RG-14/9/2008-26997) Genel Müdürlük: Tarımsal Üretim ve Geliştirme Genel Müdürlüğünü,
+h) Kontrolör: Tohumluk sertifikasyonuna ilişkin kontrolleri yapan, numune alan ve piyasa denetimlerini yaparak bu konularda belge düzenleyen Bakanlıkça tohumluk kontrolörü olarak yetkilendirilen kamu görevlilerini veya özel kişileri,
+ı) Orijinal tohumluk: Elit tohumluktan veya kendisinden elde edilen, çeşit safiyetini ve sağlığını devam ettiren, araştırma, ıslah ve deneme kuruluşlarında veya bu kuruluşların denetimi altında yetiştirilen tohumluğu,
+i) Saf tohumluk: Yabancı maddeleri ayrılmış, aynı bitki çeşidine ait generatif veya vegetatif üreme kısımlarını,
+j) Sertifikalı tohumluk: Orijinal tohumluk veya kendisinden elde dilen, çeşit safiyetini ve sağlığını devam ettiren tohumluğu,
+k) Sertifikasyon kuruluşu: Bakanlık tarafından sertifikasyon ile yetkilendirilen kuruluşları,
+l) Tedarikçi: Tohumluk üreticilerinden temin edilen tohumlukları yeniden işleyen veya pazarlayan kişi veya kuruluşları,
+m) Tohumluk kademesi: Herhangi bir sınıfta tohumluğun yıl olarak üretilme süresini,
+n) Tohumluk numunesi: Tohumluk partisini temsilen partinin niteliklerinin tespiti ve sonucunda tohumluğa sertifika veya rapor verilebilmesi için tohumluk cinsine has laboratuvar analiz ve testlerine tabi tutulacak birim ağırlıktaki tohumluğu,
+o) Tohumluk standardı: Tohumluğun fiziksel ve biyolojik niteliklerini belirleyen kalite ölçülerini,
+ö) Tohumluk üreticisi: Tohumlukları üreten veya sözleşmeli olarak ürettiren, işleyen ve pazarlayan kişi veya kuruluşları,
+p) Tohumluk yetiştiricisi: Sözleşmeli olarak tohumluk üreticileri adına üretim yapan kişi veya kuruluşları,
+r) Tohumluk partisi: Tohumluk kontrol ve sertifikasyon sisteminde, bir numunenin alınmasına esas olan, bir sertifika veya raporun temsil ettiği, tohumluğun cinsine göre tespit edilmiş azami tohumluk miktarı,
+s) TTSM: Tohumluk Tescil ve Sertifikasyon Merkezi Müdürlüğünü,
+ş) Üretim sezonu: 1 Temmuzdan başlayarak bir sonraki yılın 30 Haziranına kadar olan dönemi
+ifade eder.
