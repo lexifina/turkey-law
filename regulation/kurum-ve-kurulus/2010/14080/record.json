@@ -1,0 +1,72 @@
+{
+  "source_id": "7.5.14080",
+  "kind": "regulation",
+  "register_kind": "Kurum ve Kuruluş Yönetmelikleri",
+  "title": "ÇİLEK FİDESİ ÜRETİMİ, SERTİFİKASYONU VE PAZARLAMASI YÖNETMELİĞİ",
+  "number": "14080",
+  "issuer_slug": "kurum-ve-kurulus",
+  "path": "regulation/kurum-ve-kurulus/2010/14080",
+  "source": "https://www.mevzuat.gov.tr/anasayfa/MevzuatFihristDetayIframe?MevzuatTur=7&MevzuatNo=14080&MevzuatTertip=5",
+  "source_sha256": "607225d7b689936d632a01e62a013fde6157d4923c0ecb9b69400a3a0a364aa8",
+  "source_bytes": 105395,
+  "published": "2010-07-08",
+  "gazette": "27635",
+  "in_force": "2023-02-25",
+  "in_force_basis": "latest Resmî Gazete date printed in the source amendment notes/table (\"RG-25/2/2023\") for the current consolidated text",
+  "date_evidence": [
+    [
+      "2023-02-25",
+      "RG-25/2/2023",
+      "Resmî Gazete date printed in the source amendment note"
+    ],
+    [
+      "2023-02-25",
+      "25/2/2023",
+      "Resmî Gazete date in the source amendment table"
+    ],
+    [
+      "2018-11-01",
+      "RG-01/11/2018",
+      "Resmî Gazete date printed in the source amendment note"
+    ],
+    [
+      "2018-11-01",
+      "1/11/2018",
+      "Resmî Gazete date in the source amendment table"
+    ],
+    [
+      "2013-03-12",
+      "RG-12/3/2013",
+      "Resmî Gazete date printed in the source amendment note"
+    ],
+    [
+      "2013-03-12",
+      "12/3/2013",
+      "Resmî Gazete date in the source amendment table"
+    ],
+    [
+      "2012-05-25",
+      "RG-25/5/2012",
+      "Resmî Gazete date printed in the source amendment note"
+    ],
+    [
+      "2012-05-25",
+      "25/5/2012",
+      "Resmî Gazete date in the source amendment table"
+    ]
+  ],
+  "commencement_clauses": [
+    "Bu Yönetmelik yayımı tarihinde yürürlüğe girer"
+  ],
+  "history": "current-text",
+  "label": "oldest version available",
+  "checked_on": "2026-11-15",
+  "word_count": 3987,
+  "text_status": "current-consolidated",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  },
+  "completeness": "html-text-complete"
+}

@@ -1,0 +1,2 @@
+Ücretler
+MADDE 17– (1) Bu Yönetmelik kapsamındaki sertifikasyon ve kontrol hizmetleri ücrete tabidir. Ücretler, 28/12/2006 tarihli ve 26390 sayılı Resmî Gazete’de yayımlanan (Değişik ibare:RG-25/5/2012-28303) Gıda, Tarım ve Hayvancılık Bakanlığı Döner Sermaye İşletmeleri Uygulama Yönetmeliği hükümlerine göre, hizmeti veren kuruluşun döner sermaye işletmesi hesabına peşin olarak yatırılır. Bu ücretler, Bakanlık tarafından her yıl ocak ayında yeniden değerleme oranında belirlenir.
