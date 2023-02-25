@@ -1,0 +1,5 @@
+Kontrol denemeleri
+MADDE 17 – (1) Orijinal sınıftaki tohumluk partilerinde ön ve son kontrol denemeleri, Sertifikalı sınıftaki tohumluk partilerinden ise son kontrol denemeleri TTSM tarafından yapılır. Bu denemelerde, tohumluk partilerini temsil eden örneklerin çeşit safiyeti yönünden belirlenen standartlara uygunluğu test edilir.
+(2) Ön ve son kontrol denemelerinde çeşit safiyeti yönünden standartlara uygun olmayan parsellere ait tohumluk üretim alanları sertifikasyon kuruluşları tarafından denetlenir. Ön kontrol denemelerinde ardı ardına üç yıl çeşit safiyeti yönünden standartlara uygun olmadığı tespit edilen çeşitlerin kaydı, TTSM tarafından hazırlanan rapora istinaden, STK Komitesi tarafından iptal edilebilir.
+(3) Çeşit sahibi kuruluşların standart tohumluk üretimlerine ait partilerden ön kontrol testleri amacıyla başvuru kuruluşu tarafından ön kontrol numunesi alınır. TTSM tarafından, her yıl alınan numunelerden tesadüfî olarak seçilenler ön kontrol testlerine tabi tutulur.
+(4) Standart tohumluklarda, başvuru kuruluşu tarafından denetleme amacıyla alınan numunelerden son kontrol testleri yapılır.

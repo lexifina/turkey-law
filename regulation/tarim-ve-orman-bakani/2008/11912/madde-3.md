@@ -1,0 +1,26 @@
+Tanımlar
+MADDE 3 – (1) Bu Yönetmelikte geçen;
+a) (Değişik:RG-9/12/2020-31329) Bakanlık: Tarım ve Orman Bakanlığını,
+b) Başvuru kuruluşu: Üretimin yapıldığı ildeki Bakanlık il müdürlüğü veya Bakanlık tarafından beyanname kabulü ve tarla kontrolleri için yetkilendirilen kuruluşları,
+c) Çeşit safiyeti: Tohumluğun sahip olduğu genotipten farklı olan çeşitlerin oranını,
+ç) Çeşit sahibi: Sertifikasyon için uygun olan ve kayıt altında olan çeşitlere ait tohumlukların üretiminden, çoğaltılmasından ya da çeşidin muhafazasından sorumlu kişi ya da kuruluşu,
+d) Ebeveyn: Hibrit tohumlukların elde edilmesinde kullanılan ana ve baba hat olarak kullanılan kendilenmiş hatları,
+e) İzolasyon mesafesi: Tohumluk üretim alanlarında, birbirini tozlayıp dölleyebilecek tür, cins ve çeşitlerin üretimleri arasında bulunması gereken tozlanmayı engelleyecek minimum uzaklığı,
+f) (Değişik:RG-14/9/2008-26997) Genel Müdürlük: Tarımsal Üretim ve Geliştirme Genel Müdürlüğünü,
+g) Kontrolör: Tohumluk sertifikasyonuna ilişkin kontrolleri yapan, numune alan ve piyasa denetimlerini yaparak bu konularda belge düzenleyen, Bakanlıkça tohumluk kontrolörü olarak yetkilendirilen kamu görevlilerini veya özel kişileri,
+ğ) Orijinal tohumluk: Elit tohumluktan veya kendisinden elde edilen, çeşit safiyetini ve sağlığını devam ettiren, araştırma, ıslah ve deneme kuruluşlarında veya bu kuruluşların denetimi altında yetiştirilen tohumluğu,
+h) Saf tohumluk: Yabancı maddeleri ayrılmış, aynı bitki çeşidine ait generatif veya vegetatif üreme kısımlarını,
+ı) Sertifikalı tohumluk: Orijinal tohumluk veya kendisinden elde edilen, çeşit safiyetini ve sağlığını devam ettiren tohumluğu,
+i) Sertifikasyon kuruluşu: Bakanlık tarafından sertifikasyon ile yetkilendirilen kuruluşları,
+j) Standart tohumluk: Sebze türlerinde, kayıt altına alınan çeşitlere ait, sadece laboratuvar kontrolleriyle ticarete arz edilen ve çeşide ait kimliğini ve saflığını doğrulamak için kontrol denemelerine tabi tutulan tohum veya çoğaltım materyalini,
+k) STK Komitesi: Sebze çeşitlerinin kayıt altına alınması kararını veren komiteyi,
+l) Tarla kontrol raporu: Tarla kontrolleri neticesinde kontrolör tarafından düzenlenen raporu,
+m) Tedarikçi: Tohumluk üreticilerinden temin edilen tohumlukları yeniden işleyen veya pazarlayan kişi veya kuruluşları,
+n) Tohumluk numunesi: Tohumluk partisini temsilen partinin niteliklerinin tespiti ve sonucunda tohumluğa sertifika veya rapor verilebilmesi için tohumluk cinsine has laboratuvar analiz ve testlerine tabi tutulacak birim ağırlıktaki tohumluğu,
+o) Tohumluk partisi: Tohumluk kontrol ve sertifikasyon sisteminde, bir numunenin alınmasına esas olan, bir sertifika veya raporun temsil ettiği, tohumluğun cinsine göre tespit edilmiş azami tohumluk miktarı,
+ö) Tohumluk standardı: Tohumluğun fiziksel ve biyolojik niteliklerini belirleyen kalite ölçülerini,
+p) Tohumluk yetiştiricisi: Sözleşmeli olarak tohumluk üreticileri adına üretim yapan kişi veya kuruluşları,
+r) Tohumluk üreticisi: Bakanlıkça tohumluk üretimi konusunda görevlendirilen kamu kuruluşları ile tohumluk üretmek amacıyla kurulmuş olan, bu konuda gerekli alt yapısı bulunan, fiilen sertifikalı veya standart tohumluk üreten özel sektör kuruluşlarını,
+s) TTSM: Tohumluk Tescil ve Sertifikasyon Merkezi Müdürlüğünü,
+ş) Üretim sezonu: 1 Temmuzdan başlayarak bir sonraki yılın 30 Haziranına kadar olan dönemi
+ifade eder.
