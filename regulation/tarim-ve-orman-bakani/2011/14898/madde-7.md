@@ -1,0 +1,5 @@
+Zararlı organizma kontrolleri
+MADDE 7 – (1) Bütün sınıflardaki üretimlerde tarlada bulunan bitkiler kontrolör tarafından Ek-1’de belirtilen bitki standartları yönünden gözle kontrol edilir. Şüpheli durumlarda numune alınarak bitki sağlığı kontrol kuruluşuna gönderilir.
+(2) Ön temel doku kültürü sınıfındaki tohumluk partileri ile ilgili zararlı organizma analizleri üretici tarafından yapılır.
+(3) Ön temel ve temel sınıfındaki tohumluk partilerinden numuneler alınarak zararlı organizma kontrolleri amacıyla bitki sağlığı kontrol kuruluşuna gönderilir. Bitki sağlığı kontrol kuruluşu bu numunelerde Ek-1’de parti toleranslarında sıfır tolerans olarak yer alan zararlı organizmaların var olup olmadığını inceler.
+(4) Sertifikalı sınıftaki tohumlukların üretildiği alanlardan sapın yaprak dökmesinden sonra her 10 dekardan veya ürünün hasadından sonra depolanmadan önce her 25 tondan 200 yumru alınarak Ek-1’de sertifikalı sınıf için sıfır tolerans olarak belirtilen zararlı organizmaların analizlerinin yapılması amacıyla bitki sağlığı kontrol kuruluşuna gönderilir.

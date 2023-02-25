@@ -1,0 +1,5 @@
+Partilendirme
+MADDE 10 – (1) Hasat edilen yumrular partiler halinde ayrılır ve her partiye bir numara verilir. Bir partiye verilen numara yıl değişse bile tekrarlanmaz.
+(2) 25 x 25 mm’lik kare gözden geçecek kadar küçük yumrular tohumluk olarak pazarlanmaz. 35 mm üzerindeki tohumlukların sınıflanmasında, partideki yumru büyüklükleri beşin katları şeklinde ifade edilir ve partideki yumruların büyüklüğü arasındaki değişkenlik 25 mm’yi aşamaz. Bir tohumluk partisinde, belirtilen asgari büyüklükten daha küçük olan yumruların oranı ağırlık olarak % 3’ten veya belirtilen azami büyüklükten daha iri olan yumruların oranı ağırlık olarak % 3’ten fazla olamaz.
+(3) Ön temel doku kültürü ve ön temel sınıftaki tohumluklarda yumru büyüklüğü sınırlaması uygulanmaz. Bu sınıflarda her üretim parseli bir parti olarak kabul edilir.
+(4) Tohumluk patatesler homojen partiler halinde, mühürlenmiş ve bu Yönetmelikte belirtilen kurallara göre ambalajlanan ve mühürlenen paketler veya konteynerler içerisinde pazarlanır. Paketlerin yeni ve konteynerlerin temiz olması zorunludur.

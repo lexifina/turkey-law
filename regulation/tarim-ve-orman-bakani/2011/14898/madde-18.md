@@ -1,0 +1,2 @@
+Ücretler
+MADDE 18 – (1) Bu Yönetmelik kapsamında yapılan tarla kontrolü, parti kontrolü, belgelendirme, zararlı organizma kontrolüne ilişkin yapılan testler, ismine doğruluk testleri ve etiket hizmetleri ücrete tabidir. Bu ücretler, Bakanlık tarafından her yıl ocak ayında belirlenerek yayımlanır. Ücretler, 28/12/2006 tarihli ve 26390 sayılı Resmî Gazete’de yayımlanan, Tarım ve Köyişleri Bakanlığı Döner Sermaye İşletmeleri Uygulama Yönetmeliği hükümlerine göre, hizmeti veren kuruluşun döner sermaye işletmesi hesabına peşin olarak yatırılır.

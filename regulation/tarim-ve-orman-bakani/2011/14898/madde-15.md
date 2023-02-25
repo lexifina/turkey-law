@@ -1,0 +1,3 @@
+Kontrol denemeleri
+MADDE 15 – (1) Ön elit sınıftaki tohumluk partilerinde ön kontrol denemeleri TTSM tarafından yapılır. Bu denemelerde, tohumluk partilerini temsil eden örneklerin ismine doğruluğu kontrol edilir. İsmine doğruluk kontrollerinde farklılıkların belirlenmesi halinde; belirlenen çeşitlere ait partilerin sertifikaları iptal edilir ve bu partilerden çoğaltılmış olan bütün partiler tohumluk olarak pazarlanamaz.
+(2) TTSM tarafından belirlenerek ilan edilen programlar dâhilinde sertifikalı sınıftaki tohumluklardan kontrolörler tarafından alınarak TTSM’ye gönderilen numunelerde son kontrol denemeleri kurulur. Bu denemelerde ismine doğruluk ile ilgili sorun yaşanması halinde üretici uyarılır ve sorun yaşanan çeşidin üst sınıfındaki tohumluklar ön kontrole alınır.
