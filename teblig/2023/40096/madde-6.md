@@ -1,0 +1,2 @@
+Mevcut önlem
+MADDE 6- (1) 2/3/2018 tarihli ve 30348 sayılı Resmî Gazete’de yayımlanan İthalatta Haksız Rekabetin Önlenmesine İlişkin Tebliğ (Tebliğ No: 2018/7) ile Almanya menşeli 2836.99.90.10.00 GTİP altında kayıtlı “sodyum perkarbonatlar” ithalatında CIF bedelin %5 ile %12 arasında firma bazında değişen oranlarda, İsveç menşeli mezkûr ürün ithalatında CIF bedelin %12’si oranında dampinge karşı önlem yürürlüğe konulmuştur.

@@ -1,0 +1,2 @@
+Amaç ve kapsam
+MADDE 1- (1) Bu Tebliğin amacı, yerli üretici Akkim Kimya San. ve Tic. A.Ş. tarafından yapılan başvuruya istinaden Almanya Federal Cumhuriyeti ve İsveç Krallığı menşeli 2836.99.90.10.00 gümrük tarife istatistik pozisyonu altında kayıtlı “sodyum perkarbonatlar” ithalatına yönelik yürürlükte bulunan dampinge karşı kesin önleme ilişkin nihai gözden geçirme soruşturması açılması ve açılan soruşturmanın usul ve esaslarının belirlenmesidir.

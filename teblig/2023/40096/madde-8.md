@@ -1,0 +1,2 @@
+Karar ve işlemler
+MADDE 8- (1) Yapılan inceleme sonucunda, bir NGGS açılabilmesi için yeterli bilgi, belge ve delillerin bulunduğu anlaşıldığından, İthalatta Haksız Rekabeti Değerlendirme Kurulu Kararı ile Almanya ve İsveç menşeli 2836.99.90.10.00 GTİP altında kayıtlı “sodyum perkarbonatlar” ithalatına yönelik olarak Yönetmeliğin 35 inci maddesi çerçevesinde bir NGGS açılmasına karar verilmiştir.
