@@ -1,0 +1,39 @@
+{
+  "checked_on": "2026-11-14",
+  "commencement_clauses": [
+    "MADDE 17- (1) Bu Yönetmelik yayımı tarihinde yürürlüğe girer."
+  ],
+  "date_evidence": [
+    [
+      "2023-02-26",
+      "26.02.2023",
+      "original gazette publication date in official listing"
+    ]
+  ],
+  "date_quote": "MADDE 17- (1) Bu Yönetmelik yayımı tarihinde yürürlüğe girer.",
+  "first_law": null,
+  "gazette": "32116",
+  "history": "current-text",
+  "images": {
+    "deferred": 0,
+    "omitted": 0,
+    "referenced": 0,
+    "source": 0
+  },
+  "in_force": "2023-02-26",
+  "in_force_basis": "source commencement clause: enters into force on gazette publication",
+  "issuer": "Çukurova Üniversitesi",
+  "issuer_slug": "cukurova-universitesi",
+  "kind": "regulation",
+  "label": "oldest version available",
+  "path": "regulation/cukurova-universitesi/2023/40089",
+  "published": "2023-02-26",
+  "source": "https://www.mevzuat.gov.tr/anasayfa/MevzuatFihristDetayIframe?MevzuatTur=8&MevzuatNo=40089&MevzuatTertip=5",
+  "source_bytes": 62714,
+  "source_id": "8.5.40089",
+  "source_sha256": "7f54e11611e9f4a738c750eca9eb1fb927ddb9e88f18ef086d3202efc2c3b3ee",
+  "text_status": "as-enacted",
+  "title": "ÇUKUROVA ÜNİVERSİTESİ AĞIZ VE DİŞ SAĞLIĞI UYGULAMA VE ARAŞTIRMA MERKEZİ YÖNETMELİĞİ",
+  "university_id": 187,
+  "word_count": 1411
+}
