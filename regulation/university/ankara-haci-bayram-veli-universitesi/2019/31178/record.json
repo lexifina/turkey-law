@@ -1,0 +1,32 @@
+{
+  "checked_on": "2026-11-14",
+  "commencement_quotes": [
+    "Yürürlük MADDE 13 – (1) Bu Yönetmelik yayımı tarihinde yürürlüğe girer. "
+  ],
+  "completeness": "text",
+  "date_quote": "amendment Gazette table: 26/2/2023",
+  "first_law": null,
+  "gazette": "30655",
+  "images": {
+    "deferred": 0,
+    "omitted": 0,
+    "referenced": 0,
+    "source": 0
+  },
+  "in_force": "2023-02-26",
+  "in_force_basis": "latest amendment Gazette date printed by the source for its current consolidated text",
+  "issuer": "Ankara Hacı Bayram Veli Üniversitesi",
+  "kind": "regulation",
+  "notes": [],
+  "published": "2019-01-14",
+  "source": "https://www.mevzuat.gov.tr/anasayfa/MevzuatFihristDetayIframe?MevzuatTur=8&MevzuatNo=31178&MevzuatTertip=5",
+  "source_bytes": 28084,
+  "source_id": "8.5.31178",
+  "source_sha256": "4c3cef141765c60fab9426b6bc87a5d4ef77914db86eb5d215141a907d12960c",
+  "structure": "whole-act",
+  "text_status": "current-consolidated",
+  "title": "ANKARA HACI BAYRAM VELİ ÜNİVERSİTESİ SÜREKLİ EĞİTİM\r\nUYGULAMA VE ARAŞTIRMA MERKEZİ YÖNETMELİĞİ",
+  "university_id": 489,
+  "version_label": "oldest version available",
+  "word_count": 827
+}
