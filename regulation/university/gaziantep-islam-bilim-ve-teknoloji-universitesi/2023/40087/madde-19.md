@@ -1,0 +1,5 @@
+Entegre ders kurul sınavı
+MADDE 19- (1) Entegre ders kurul sınavı; her entegre ders kurulunun sonunda ilgili ders kurulunun konularını kapsayan sınavdır.
+(2) Entegre dersin ilgili dönemde hangi ölçme değerlendirme yöntemleri ile değerlendirileceği Fakülte Kurulu kararı ile belirlenir ve öğrencilere eğitim-öğretim yılı başlangıcında duyurulur.
+(3) Entegre ders kurulu sınavının kapsamı ve notları; ağırlıklı ders saati oranı göz önünde bulundurularak belirlenir. Pratik/uygulamalı sınavın şekli ilgili ders koordinatörlüğü ve/veya anabilim dalı tarafından belirlenir. Entegre kurulu sınavlarında, tıp eğitiminde geçerliliği kabul edilmiş tüm yöntemler (yazılı, sözlü, yazılı-sözlü, yazılı-uygulamalı, sözlü-uygulamalı, objektif yapılandırılmış klinik veya preklinik sınavlar, ödevler ve benzeri) kullanılabilir.
+(4) İlgili yılın sınav takviminde, (Entegre kurul sınavları, pratik/uygulamalı sınavlar, final ve bütünleme sınavı ve benzeri) sınav tarihinden en az beş iş günü önce ilgili koordinatörlüğün önerisi ve Dekan onayı ile değişiklik yapılabilir.

@@ -1,0 +1,4 @@
+Kayıt yenileme ve mazeret beyanı
+MADDE 7- (1) Öğrencilerin, öğretimlerine başlayabilmek, devam edebilmek ve öğretim sonunda diploma alabilmek için bu Yönetmelikte belirlenen şartları yerine getirmeleri gerekir. Kayıt yenileme ve mali yükümlülükleri yerine getirme tarihleri her öğretim yılının akademik takviminde belirtilir.
+(2) Belirlenen şartları yerine getirmeyen veya Fakülte Yönetim Kurulu tarafından kabul edilen bir mazereti olmadan dönem kaydını yaptırmayan öğrenciler, o eğitim-öğretim yılında öğretime devam edemez, derslere ve sınavlara giremez ve öğrencilik haklarından yararlanamazlar. Öğrencinin kayıt yenilemediği yıl öğrenim süresinden sayılır.
+(3) Kayıt yenilemeyle ilgili mazeret beyanı, eğitim-öğretim yılının ilk on iş günü içinde yapılır. Mazereti Fakülte Yönetim Kurulu tarafından kabul edilen öğrencilerin kayıt yenileme işlemleri, mazeretlerinin kabulünü takip eden ilk üç iş günü içinde tamamlanır.

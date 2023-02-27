@@ -1,0 +1,2 @@
+Mazeret sınavı
+MADDE 20- (1) Mazeret sınavı; öğrencinin haklı ve geçerli mazeretinin belgeye dayandırılarak veya 16 ncı maddenin sekizinci fıkrasında belirtilen kurumlardan sağlık raporunun bulunması ve Fakülte Yönetim Kurulunca kabulü halinde giremediği herhangi bir sınavı için yapılan sınavdır. Mazeret sınavında, girilemeyen sınavdan bağımsız olarak, tıp eğitiminde geçerliliği kabul edilmiş tüm yöntemler (yazılı, sözlü, yazılı-sözlü, yazılı-uygulamalı, sözlü-uygulamalı, objektif yapılandırılmış klinik veya preklinik sınavlar, ödevler ve benzeri) kullanılabilir.

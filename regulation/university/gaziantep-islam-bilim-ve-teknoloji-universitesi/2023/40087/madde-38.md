@@ -1,0 +1,2 @@
+Tebligat-adres bildirme
+MADDE 38- (1) Her türlü tebligat, öğrencinin Üniversiteye kayıt esnasında bildirdiği ve MERNİS’te kayıtlı bulunan adrese yazılı yapılmak veya Üniversite tarafından ilan edilmek suretiyle tamamlanmış sayılır. Adres ve telefon değişikliğinin öğrenci tarafından yedi iş günü içinde öğrenci işleri bürosuna yazılı olarak bildirilmesi şarttır. Adres ve telefon değişikliğinin bildirilmemesi veya eksik bildirilmesi halinde sorumluluk öğrenciye aittir.

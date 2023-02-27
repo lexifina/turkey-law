@@ -1,0 +1,2 @@
+Bütünleme sınavı
+MADDE 22- (1) Final sınavında başarısız olan ve final sınavına girme hakkı olduğu halde sınava girmeyen veya notunu yükseltmek isteyen öğrenciler için final sınavının bitiminden en erken on iş günü sonra yapılan bir sınavdır. Bütünleme sınavına notunu yükseltmek amacıyla da girilebilir. Notunu yükseltmek için bütünleme sınavına girmek isteyen öğrenci sınav tarihinden önceki gün mesai bitimine kadar başvurmak zorundadır. Sınav teorik ve/veya pratik şeklindedir. Bütünleme sınavının kapsamı final sınavında olduğu gibidir.

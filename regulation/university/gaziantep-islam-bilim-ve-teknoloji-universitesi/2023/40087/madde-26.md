@@ -1,0 +1,3 @@
+Staj dersi sınavı
+MADDE 26- (1) Dönem IV ve V staj dersleri sonunda staj sonu sınavı yapılır. Staj sınavlarında mutlak değerlendirme sistemi uygulanır. Staj sınavları, anabilim dalı akademik kurul kararı ve Fakülte Kurulunun onayı ile tıp eğitiminde geçerliliği kabul edilmiş tüm yöntemler (yazılı, sözlü, yazılı-sözlü, yazılı-uygulamalı, sözlü-uygulamalı, objektif yapılandırılmış klinik veya preklinik sınavlar, ödevler ve benzeri) kullanılarak yapılabilir. Bu sınavların yöntem ve değerlendirme ölçütleri anabilim dalı başkanlıkları tarafından staj dersi başlangıcında staj tanıtım rehberleri aracılığıyla açıklanır. Staj dersinden geçme notu 60 ve üzeridir.
+(2) Sınavların sonuçları 35 inci maddede belirtildiği şekil ve sürede Dekanlık tarafından ilan edilir.
