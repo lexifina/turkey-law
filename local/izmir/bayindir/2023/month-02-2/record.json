@@ -1,0 +1,28 @@
+{
+  "number": "month-02-2",
+  "year": 2023,
+  "month": 2,
+  "title": "2023 YILI ŞUBAT AYI 2.BİRLEŞİM KARARLARI",
+  "decision_date": null,
+  "index_date": "2023-02-28",
+  "date_precision": "month",
+  "period": "Şubat 2023",
+  "source": "https://www.bayindir.bel.tr/guncel/meclis-kararlari/2023-yili-subat-ayi-2birlesim-kararlari",
+  "official_page": "https://www.bayindir.bel.tr/guncel/meclis-kararlari/2023-yili-subat-ayi-2birlesim-kararlari",
+  "official_document": "https://bayindir.bel.tr//storage/photos/7/2023YILIŞUBAT AYI 2.BİRLEŞİM 37-54.pdf",
+  "source_sha256": "02da1cd87a3e485f353f6ba14984b00307634b5937f755502db623aa414387c8",
+  "issuer": "Bayındır Belediye Meclisi",
+  "history_type": "metadata",
+  "text_status": "metadata-only: listing fields as published; the decisions are in the linked official document(s) or page, not transcribed",
+  "in_force": "2023-02-28",
+  "in_force_basis": "The official listing gives only the month of this official file (Şubat 2023); date set to the last day of that month (turkey-law date convention for month-only sources); exact adoption dates are in the linked official document; legal commencement not asserted",
+  "missing": [
+    "decision numbers, dates and subjects",
+    "complete official decision text",
+    "official annexes"
+  ],
+  "law_text_complete": false,
+  "privacy_withheld": false,
+  "listing_label": "2023 YILI ŞUBAT AYI 2.BİRLEŞİM KARARLARI",
+  "record_scope": "one official file of council decisions (meeting or month)"
+}
