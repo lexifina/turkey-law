@@ -1,0 +1,37 @@
+{
+  "record_type": "parliament-index-entry",
+  "index": "TBMM Tutanak Dergisi fihristi",
+  "kayit_no": 926607,
+  "assembly": "TBMM",
+  "term": 27,
+  "heading": "TEKLİFLER",
+  "heading_as_published": "Teklifler",
+  "name": "ENGİN ALTAY (İSTANBUL)",
+  "summary": "Ve İstanbul Milletvekili Engin Altay, Manisa Milletvekili Özgür Özel, Sakarya Milletvekili Engin Özkoç (Cumhuriyet Halk Partisi Grup Başkanvekilleri) ile 19 milletvekilinin, (2/3686) esas numaralı OHAL Kanun Hükmünde Kararnameleriyle Kamu Görevinden İhraç Edilmiş Olup 19 Temmuz 2018 Tarihine Kadar veya Bu Tarihlerden Sonra Haklarında Soruşturma veya Kovuşturma Başlatılmamış Olanlar ile Haklarında Başlatılan Soruşturma ve Kovuşturma İşlemleri Lehlerine Sonuçlanan Kamu Görevlileri, Yargı Organı Çalışanı ve Diğer Kurum ve Teşkilat Görevlilerinin İadesine, Haklarında Uygulanan Tedbirlerin Kaldırılmasına ve Bazı Düzenlemelerin Yürürlükten Kaldırılmasına İlişkin Kanun Teklifi'nin doğrudan gündeme alınmasına ilişkin önergesi (4/202)",
+  "title": "Ve İstanbul Milletvekili Engin Altay, Manisa Milletvekili Özgür Özel, Sakarya Milletvekili Engin Özkoç (Cumhuriyet Halk Partisi Grup Başkanvekilleri) ile 19 milletvekilinin, (2/3686) esas numaralı OHAL Kanun Hükmünde Kararnameleriyle Kamu Görevinden İhraç Edilmiş Olup 19 Temmuz 2018 Tarihine Kadar veya Bu Tarihlerden Sonra Haklarında Soruşturma veya Kovuşturma Başlatılmamış Olanlar ile Haklarında Başlatılan Soruşturma ve Kovuşturma İşlemleri Lehlerine Sonuçlanan Kamu Görevlileri, Yargı Organı Çalışanı ve Diğer Kurum ve Teşkilat Görevlilerinin İadesine, Haklarında Uygulanan Tedbirlerin Kaldırılmasına ve Bazı Düzenlemelerin Yürürlükten Kaldırılmasına İlişkin Kanun Teklifi'nin doğrudan gündeme alınmasına ilişkin önergesi (4/202)",
+  "first_sitting_date": "2023-02-28",
+  "documents": [],
+  "sittings": [
+    {
+      "cilt": 122,
+      "sitting": 66,
+      "sitting_date": "2023-02-28",
+      "minutes_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/TBMM/d27/c122/tbmm27122066.pdf",
+      "old_script_pdf": null,
+      "volume_index_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/TBMM/d27/c122/tbmm27122fih.pdf",
+      "pages": [
+        "269:271"
+      ],
+      "date_from": "https://www5.tbmm.gov.tr/develop/owa/tutanak_dergisi_pdfler.birlesimler?v_meclis=1&v_donem=d27&v_yasama_yili=6&v_cilt="
+    }
+  ],
+  "source": "https://www5.tbmm.gov.tr/develop/owa/td_v2.tutanak_hazirla?v_meclis=1&v_donem=27&v_yasama_yili=&v_cilt=&v_birlesim=&v_sayfa=&v_anabaslik=TEKL%DDFLER&v_altbaslik=&v_mv=&v_sb=&v_ozet=&v_kelime=&v_bastarih=&v_bittarih=",
+  "page": "https://www5.tbmm.gov.tr/develop/owa/td_v2.tutanak_sonuc?v_meclis=1&v_donem=27&v_yasama_yili=&v_cilt=&v_birlesim=&v_sayfa=&v_anabaslik=TEKL%DDFLER&v_altbaslik=&v_mv=&v_sb=&v_ozet=&v_bastarih=&v_bittarih=&v_kayit_sayisi=416&v_gelecek_sayfa=301&v_kullanici_id=27484797",
+  "source_sha256": "60c91f92790ba38792a2964c8ebd9ff6274ff2dd41cd5a6ad03543d9ecbe9aa8",
+  "in_force": "2023-02-28",
+  "in_force_basis": "Date of the earliest plenary sitting (Birleşim tarihi) the official Tutanak Dergisi index cites for this entry; sittings the index lists without a date are dated from the official Tutanak Dergisi sitting listing (Tarih Sıralı Erişim); index record of proceedings, commencement not asserted",
+  "history_type": "metadata",
+  "text_status": "metadata-only: official index entry as published; the proceedings are in the linked official minutes PDFs (scanned), not transcribed",
+  "law_text_complete": false,
+  "privacy_withheld": false
+}
