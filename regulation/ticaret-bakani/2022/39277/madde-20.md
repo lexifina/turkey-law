@@ -1,0 +1,2 @@
+Toplantı sonrası kooperatif dosyasına konulacak belgeler
+MADDE 20 – (1) Toplantı sonrasında, gündem, genel kurul toplantı çağrısına ilişkin belgeler, varsa gazete ilanı, toplantı tutanağı, yönetim kurulu ve denetleme organı yıllık çalışma raporları, genel kurula katılan ortaklarca imzalanmış ortaklar listesi, bilanço, gelir-gider tablosu, genel durum bildirim formu, kooperatif dış denetime tabi ise dış denetim raporu, bağımsız denetime tabi ise bağımsız denetim raporu ve temsilci tarafından hazırlanan rapordan birer adet olmak üzere alınarak dosyasına konulur.

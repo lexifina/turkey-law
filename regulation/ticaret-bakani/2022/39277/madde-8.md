@@ -1,0 +1,3 @@
+Temsilci sayısı
+MADDE 8 – (1) Genel kurul toplantılarının yoğun olduğu dönemlerde, temsilci görevlendirilmesi başvurularının değerlendirilmesinde; başvuruda bulunan kooperatiflerin ortak sayıları, amaç ve faaliyet konuları, genel kurul gündemindeki hususların önemi, evvelce yaşanmış ihtilaflar, genel kurul toplantısının yapılacağı yer ile İl Müdürlüğünde temsilci olarak görevlendirilebilecek personel sayısı gözetilerek, öncelikle temsilci gönderilmesi zorunlu görülenlerin talepleri karşılanır.
+(2) Kooperatiflerin genel kurul toplantılarında görevlendirilecek temsilcilerin sayılarına ilişkin usul ve esaslar, ortak sayısı ve kooperatifin durumu dikkate alınarak Bakanlıkça belirlenir.

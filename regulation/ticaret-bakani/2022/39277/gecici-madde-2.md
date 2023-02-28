@@ -1,0 +1,2 @@
+Genel kurul toplantısına katılma hakkını haiz ortakları gösteren mevcut listeler
+GEÇİCİ MADDE 2 – (1) Bakanlık temsilcisine 14 üncü maddenin ikinci fıkrasının (b) bendi ile verilen görev KOOPBİS’in yayına alınmasından sonra hüküm ifade eder. KOOPBİS yayına alınıncaya kadar geçecek sürede kooperatifler ve üst kuruluşları, genel kurul toplantısına katılma hakkını haiz ortakları gösteren listeleri bu Yönetmelik yürürlüğe girmeden önceki usullere göre almaya devam ederler.

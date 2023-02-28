@@ -1,0 +1,3 @@
+Ticaret sicili müdürlüğüne bildirilecek hususlar
+MADDE 13 – (1) Bu Yönetmelik hükümlerine uygun şekilde temsilci talebinde bulunmayan fakat genel kurul toplantısını gerçekleştiren kooperatifler, İl Müdürlüğünce, ticaret sicil müdürlüğüne bildirilir.
+(2) İl Müdürlüğünce, temsilcinin katıldığı veyahut usulüne uygun olarak temsilci görevlendirilmesi talebinde bulunulmasına rağmen temsilci görevlendirilemeyen ya da temsilci görevlendirildiği halde katılımın sağlanamadığı genel kurul toplantılarına ait ortaklar listesi ile genel kurul toplantı tutanağının bir örneği, 17 nci ve 20 nci maddeler kapsamında, 13/1/2011 tarihli ve 6102 sayılı Türk Ticaret Kanununun 30 uncu maddesinde belirlenen süreler dikkate alınmak suretiyle ticaret sicili müdürlüğüne gönderilir.
