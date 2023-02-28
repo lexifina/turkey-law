@@ -1,0 +1,28 @@
+{
+  "number": "month-02",
+  "year": 2023,
+  "month": 2,
+  "title": "2023 Şubat Ayı Meclis Karar Özetleri",
+  "decision_date": null,
+  "index_date": "2023-02-28",
+  "date_precision": "month",
+  "period": "Şubat 2023",
+  "source": "https://www.tefenni.bel.tr/karar/2023-subat-ayi-meclis-kararlari/39/",
+  "official_page": "https://www.tefenni.bel.tr/karar/2023-subat-ayi-meclis-kararlari/39/",
+  "official_document": "https://www.tefenni.bel.tr/dosya/yuklenenler/2023/2023%20Y%C4%B1l%C4%B1%20Meclis%20Kararlar%C4%B1/02%20-%202023%20%C5%9Eubat%20Ay%C4%B1%20Meclis%20Kararlar%C4%B1.pdf",
+  "source_sha256": "dca4e4a0d2f906302537bb39fcc08988f10b7a6a8653cf63755214604d17f6d7",
+  "issuer": "Tefenni Belediye Meclisi",
+  "history_type": "metadata",
+  "text_status": "metadata-only: listing fields as published; the decisions are in the linked official document(s) or page, not transcribed",
+  "in_force": "2023-02-28",
+  "in_force_basis": "The official listing gives only the month of this official file (Şubat 2023); date set to the last day of that month (turkey-law date convention for month-only sources); exact adoption dates are in the linked official document; legal commencement not asserted",
+  "missing": [
+    "decision numbers, dates and subjects",
+    "complete official decision text",
+    "official annexes"
+  ],
+  "law_text_complete": false,
+  "privacy_withheld": false,
+  "listing_label": "2023 Şubat Ayı Meclis Karar Özetleri",
+  "record_scope": "one official file of council decisions (meeting or month)"
+}
