@@ -1,0 +1,28 @@
+{
+  "number": "month-02",
+  "year": 2023,
+  "month": 2,
+  "title": "2023 Yılı Şubat Ayı Karar Özetleri",
+  "decision_date": null,
+  "index_date": "2023-02-28",
+  "date_precision": "month",
+  "period": "Şubat 2023",
+  "source": "https://www.sisli.bel.tr/kurumsal/meclis-kararlari?page=3&categoryId=1",
+  "official_page": null,
+  "official_document": "https://www.sisli.bel.tr/Content/council-resolution/file-eac8f67b.pdf",
+  "source_sha256": "0f82915eb72f36cf28a95633d8071498af127f45e420ebd474b152cb6684202b",
+  "issuer": "Şişli Belediye Meclisi",
+  "history_type": "metadata",
+  "text_status": "metadata-only: listing fields as published; the decisions are in the linked official document(s) or page, not transcribed",
+  "in_force": "2023-02-28",
+  "in_force_basis": "The official listing gives only the month of this official file (Şubat 2023); date set to the last day of that month (turkey-law date convention for month-only sources); exact adoption dates are in the linked official document; legal commencement not asserted",
+  "missing": [
+    "decision numbers, dates and subjects",
+    "complete official decision text",
+    "official annexes"
+  ],
+  "law_text_complete": false,
+  "privacy_withheld": false,
+  "record_scope": "one official monthly file: Karar Özetleri",
+  "listing_category": "Karar Özetleri"
+}
