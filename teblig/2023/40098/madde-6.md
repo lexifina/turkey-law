@@ -1,0 +1,4 @@
+Mevcut önlem
+MADDE 6- (1) 26/7/2006 tarihli ve 26240 sayılı Resmî Gazete’de yayımlanan İthalatta Haksız Rekabetin Önlenmesine İlişkin Tebliğ (Tebliğ No: 2006/20) uyarınca ÇHC menşeli “yalnız duvar tipi split klimalar”, “yalnız duvar tipi split klimaların dış üniteleri (değişken soğutucu debili split klima sistemleri dış ünitesi hariç)” ve “yalnız duvar tipi split klimaların iç üniteleri” için CIF bedelin %25’i oranında dampinge karşı kesin önlem yürürlüğe konulmuştur.
+(2) Birinci fıkrada belirtilen önlemin yürürlük süresi, yürütülen NGGS neticesinde 21/3/2012 tarihli ve 28240 sayılı Resmî Gazete’de yayımlanan İthalatta Haksız Rekabetin Önlenmesine İlişkin Tebliğ (Tebliğ No: 2012/6) ile uzatılmıştır.
+(3) İkinci fıkrada belirtilen önlemin yürürlük süresi, yürütülen NGGS neticesinde 8/3/2018 tarihli ve 30354 sayılı Resmî Gazete’de yayımlanan İthalatta Haksız Rekabetin Önlenmesine İlişkin Tebliğ (Tebliğ No: 2018/5) ile uzatılmıştır.
