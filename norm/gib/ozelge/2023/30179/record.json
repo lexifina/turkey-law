@@ -1,0 +1,22 @@
+{
+  "kind": "norm",
+  "issuer": "Gelir İdaresi Başkanlığı",
+  "document_type": "ozelge",
+  "number": "E-64597866-120-4066",
+  "source_id": 30179,
+  "date": "2023-03-01",
+  "title": "Serbest meslek faaliyeti çerçevesindeki hizmetin vergi mükellefi olmayan kişilerden alınması durumunda KDV ve GV",
+  "source": "https://gib.gov.tr/mevzuat/kanun/436/ozelge/30179",
+  "related_law": "3065 sayılı KATMA DEĞER VERGİSİ KANUNU",
+  "source_api": "https://gib.gov.tr/api/gibportal/mevzuat/ozelge/list",
+  "source_listing": "evidence/list/2026-11-16/ozelge-p004.json",
+  "source_listing_sha256": "f3b82278308562f88be46cc93b2ac53a1050d59c304474af958f8b7377f5bef9",
+  "source_sha256": "652f9e84b3c58540bcbd777812f7d851fda7af32dbbc781bba6f22362ae31e03",
+  "text_status": "as-enacted",
+  "text_file": "metin.md",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  }
+}
