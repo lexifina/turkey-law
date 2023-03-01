@@ -1,0 +1,22 @@
+{
+  "kind": "norm",
+  "issuer": "Gelir İdaresi Başkanlığı",
+  "document_type": "ozelge",
+  "number": "31435689-125[E.208930]-30635",
+  "source_id": 29639,
+  "date": "2023-03-01",
+  "title": "Tarım Sulama Kooperatifinin elektrik üretiminden dolayı Kurumlar Vergisi ve Katma Değer Vergisi muafiyeti hk.",
+  "source": "https://gib.gov.tr/mevzuat/kanun/435/ozelge/29639",
+  "related_law": "5520 sayılı KURUMLAR VERGİSİ KANUNU",
+  "source_api": "https://gib.gov.tr/api/gibportal/mevzuat/ozelge/list",
+  "source_listing": "evidence/list/2026-11-16/ozelge-p004.json",
+  "source_listing_sha256": "f3b82278308562f88be46cc93b2ac53a1050d59c304474af958f8b7377f5bef9",
+  "source_sha256": "2273d915da8a84440c6cd7573c91346f040fa9a2fad8c568c99b578718b39129",
+  "text_status": "as-enacted",
+  "text_file": "metin.md",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  }
+}
