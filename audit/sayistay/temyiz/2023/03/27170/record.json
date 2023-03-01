@@ -1,0 +1,16 @@
+{
+  "kind": "decision",
+  "issuer": "Sayıştay Temyiz Kurulu",
+  "number": "54069",
+  "decision_date": "2023-03-01",
+  "source_id": 27170,
+  "chamber": "4",
+  "file_number": "51854",
+  "public_body_type": "Belediyeler ve Bağlı İdareler",
+  "account_year": "2020",
+  "subject": "Personel Mevzuatı ile İlgili Kararlar",
+  "source": "https://www.sayistay.gov.tr/KararlarTemyiz/Detay/27170/",
+  "source_sha256": "ba142ebfce4cf84893358270fe87f6636f24f9f5274eab702c691689b8dc6ca7",
+  "text_status": "metadata-only",
+  "metadata_only_reason": "possible personal name in the official text"
+}
