@@ -1,0 +1,25 @@
+{
+  "number": "meeting-03-01",
+  "number_as_published": "meeting-03-01",
+  "year": 2023,
+  "title": "01/03/2023 Tarihli Meclis Karar Özeti",
+  "decision_date": "2023-03-01",
+  "source": "https://www.yildirim.bel.tr/meclis-kararlari/2023.html",
+  "official_document": "https://www.yildirim.bel.tr/meclis-kararlari-details/01032023-tarihli-meclis-karar-ozeti-5404.html",
+  "source_sha256": "88aa44428b6c8107dda1f62bdded27dd5d7a6f5f0cfea76d68f978979f3be742",
+  "issuer": "Yıldırım Belediye Meclisi",
+  "history_type": "metadata",
+  "text_status": "metadata-only: listing fields as published; complete decision text is in the linked official document, not transcribed",
+  "in_force": "2023-03-01",
+  "in_force_basis": "Decision date as printed in the official council listing: 01/03/2023; adoption date of the council decision; legal commencement not asserted",
+  "missing": [
+    "complete official decision text",
+    "official annexes"
+  ],
+  "law_text_complete": false,
+  "privacy_withheld": false,
+  "listing_label": "01/03/2023 Tarihli Meclis Karar Özeti",
+  "record_scope": "one official file of council decisions (meeting or month)",
+  "official_page": "https://www.yildirim.bel.tr/meclis-kararlari-details/01032023-tarihli-meclis-karar-ozeti-5404.html",
+  "document_note": "the decision summaries are published as text on the official page itself (no PDF); not transcribed here"
+}
