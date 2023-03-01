@@ -1,0 +1,22 @@
+{
+  "kind": "norm",
+  "issuer": "Gelir İdaresi Başkanlığı",
+  "document_type": "ozelge",
+  "number": "62030549-120-264050",
+  "source_id": 28700,
+  "date": "2023-03-01",
+  "title": "Sanayi sicil belgesine haiz bir şirketin ürettiği yazılım programının kiralaması veya kullandırılması dolayısıyla elde edilen kazanç üzerinden kurumlar vergisi oranı",
+  "source": "https://gib.gov.tr/mevzuat/kanun/435/ozelge/28700",
+  "related_law": "5520 sayılı KURUMLAR VERGİSİ KANUNU",
+  "source_api": "https://gib.gov.tr/api/gibportal/mevzuat/ozelge/list",
+  "source_listing": "evidence/list/2026-11-16/ozelge-p004.json",
+  "source_listing_sha256": "f3b82278308562f88be46cc93b2ac53a1050d59c304474af958f8b7377f5bef9",
+  "source_sha256": "eda718d9a7e79cd691e60574d9c81accde3db14a808e5ef2db2f9d8a2c049494",
+  "text_status": "as-enacted",
+  "text_file": "metin.md",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  }
+}
