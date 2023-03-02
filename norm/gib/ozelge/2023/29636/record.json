@@ -1,0 +1,22 @@
+{
+  "kind": "norm",
+  "issuer": "Gelir İdaresi Başkanlığı",
+  "document_type": "ozelge",
+  "number": "18008620-125[2019-721-02]-28826",
+  "source_id": 29636,
+  "date": "2023-03-02",
+  "title": "Aynı Arazi Üzerinde Tek Yatırım Teşvik Belgesiyle Yapılan 5 Adet HES'ten 2 sinin Kısmi Bölünme Konusu Edilip Edilemeyeceği veya KDV 13/d ve KVK 5/1-e Maddesi Kapsamında Devri",
+  "source": "https://gib.gov.tr/mevzuat/kanun/435/ozelge/29636",
+  "related_law": "5520 sayılı KURUMLAR VERGİSİ KANUNU",
+  "source_api": "https://gib.gov.tr/api/gibportal/mevzuat/ozelge/list",
+  "source_listing": "evidence/list/2026-11-16/ozelge-p004.json",
+  "source_listing_sha256": "f3b82278308562f88be46cc93b2ac53a1050d59c304474af958f8b7377f5bef9",
+  "source_sha256": "fc69d7bdb09eb39037af7b393b703c23525781af2c9965f70cf515a02404f41c",
+  "text_status": "as-enacted",
+  "text_file": "metin.md",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  }
+}
