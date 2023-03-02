@@ -1,0 +1,25 @@
+{
+  "kind": "norm",
+  "issuer": "Enerji Piyasası Düzenleme Kurumu",
+  "market": "natural-gas",
+  "document_type": "board-decision",
+  "number": "11691",
+  "decision_date": "2023-03-02",
+  "title": "Boru Hatları ile Petrol Taşıma A.Ş.’nin ulusal iletim şebekesi yatırım programının onaylanması için alınmış olan 10/03/2022 tarihli ve 10841 sayılı Kurul Kararı hakkında değişiklik",
+  "resmi_gazete_date": "2023-03-03",
+  "resmi_gazete_number": "32121",
+  "categories": [
+    "İletim"
+  ],
+  "source": "https://www.epdk.gov.tr/Detay/DownloadDocument?id=GGSgSDkk+lA=",
+  "documents": [
+    "https://www.epdk.gov.tr/Detay/DownloadDocument?id=GGSgSDkk+lA="
+  ],
+  "source_sha256": "594223c433f9bce7d505bfd61f004e6cb7bf1e83de1b7a9d180ae99ba56d3191",
+  "official_list": "https://www.epdk.gov.tr/Detay/Icerik/3-0-19/kurul-kararlari",
+  "official_list_leaf": 7225,
+  "text_status": "as-enacted",
+  "text_file": "metin.md",
+  "in_force": "2023-03-02",
+  "law_text_complete": true
+}
