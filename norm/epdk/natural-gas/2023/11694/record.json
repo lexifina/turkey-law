@@ -1,0 +1,25 @@
+{
+  "kind": "norm",
+  "issuer": "Enerji Piyasası Düzenleme Kurumu",
+  "market": "natural-gas",
+  "document_type": "board-decision",
+  "number": "11694",
+  "decision_date": "2023-03-02",
+  "title": "06 Şubat 2023 tarihinde Kahramanmaraş merkezli meydana gelen depremler nedeniyle olağanüstü hâl kararı alınan ve/veya afet bölgesi ilan edilen şehirlerde olağanüstü hâl süresi boyunca uygulanacaklar hk.",
+  "resmi_gazete_date": "2023-03-03",
+  "resmi_gazete_number": "32121",
+  "categories": [
+    "Doğal Gaz Piyasası Kurul Kararları"
+  ],
+  "source": "https://www.epdk.gov.tr/Detay/DownloadDocument?id=a6fvJVWR3To=",
+  "documents": [
+    "https://www.epdk.gov.tr/Detay/DownloadDocument?id=a6fvJVWR3To="
+  ],
+  "source_sha256": "444b57a72af222eadef555f8f307fbb66b9f34f41a088a6fd2b9dd76567d3665",
+  "official_list": "https://www.epdk.gov.tr/Detay/Icerik/3-0-19/kurul-kararlari",
+  "official_list_leaf": 14708,
+  "text_status": "as-enacted",
+  "text_file": "metin.md",
+  "in_force": "2023-03-02",
+  "law_text_complete": true
+}
