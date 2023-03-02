@@ -1,0 +1,17 @@
+{
+  "kind": "decision",
+  "issuer": "Sayıştay 5. Dairesi",
+  "number": "589",
+  "decision_date": "2023-03-02",
+  "source_id": 36882,
+  "chamber": "5",
+  "ilam_number": "289",
+  "item_number": 1,
+  "public_body_type": "Belediyeler ve Bağlı İdareler",
+  "account_year": 2016,
+  "subject": "Çeşitli Konuları İlgilendiren Kararlar",
+  "source": "https://www.sayistay.gov.tr/KararlarDaire/Detay/36882/",
+  "source_sha256": "14f4d7adbce1eed9d5c36f691d0ebbad85cb7a6dce58ad6ec06209aa34aaf896",
+  "text_status": "as-enacted",
+  "text_file": "metin.md"
+}
