@@ -1,0 +1,17 @@
+{
+  "kind": "decision",
+  "issuer": "Sayıştay 7. Dairesi",
+  "number": "577",
+  "decision_date": "2023-03-02",
+  "source_id": 37153,
+  "chamber": "7",
+  "ilam_number": "120",
+  "item_number": 3,
+  "public_body_type": "Belediyeler ve Bağlı İdareler",
+  "account_year": 2021,
+  "subject": "Personel Mevzuatı ile İlgili Kararlar",
+  "source": "https://www.sayistay.gov.tr/KararlarDaire/Detay/37153/",
+  "source_sha256": "4db7fda069e4c9aee449b0b3f25437326eca49f1f9a39a1776ac3017c616c175",
+  "text_status": "as-enacted",
+  "text_file": "metin.md"
+}
