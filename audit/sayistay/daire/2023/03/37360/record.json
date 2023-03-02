@@ -1,0 +1,17 @@
+{
+  "kind": "decision",
+  "issuer": "Sayıştay 5. Dairesi",
+  "number": "588",
+  "decision_date": "2023-03-02",
+  "source_id": 37360,
+  "chamber": "5",
+  "ilam_number": "368",
+  "item_number": 1,
+  "public_body_type": "Belediyeler ve Bağlı İdareler",
+  "account_year": 2017,
+  "subject": "Çeşitli Konuları İlgilendiren Kararlar",
+  "source": "https://www.sayistay.gov.tr/KararlarDaire/Detay/37360/",
+  "source_sha256": "c0dccce55d26676d65b392b23d20a1537d4619bf83261eea3a2cb30cbc9a7fb8",
+  "text_status": "as-enacted",
+  "text_file": "metin.md"
+}
