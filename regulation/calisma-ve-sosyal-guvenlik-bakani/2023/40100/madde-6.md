@@ -1,0 +1,8 @@
+İstihdam hak sahiplerinin tespit süreci
+MADDE 6- (1) Başvurular, iş kazasının meydana geldiği ildeki sosyal güvenlik il müdürlüğüne yapılır. Sosyal güvenlik il müdürlüğü, başvurunun Kanun kapsamında olup olmadığını Ek-2’de yer alan durum belgesi ile tespit eder.
+(2) Belgelerin düzenlenmesi için gerekli her türlü bilgi ve evrak, sosyal güvenlik il müdürlüğü tarafından başvuru sahiplerinden veya ilgili kamu kurum ve kuruluşlarından temin edilir.
+(3) Sosyal güvenlik il müdürlüğü durum belgesi ile hak sahipliğine ilişkin diğer gerekli bilgi ve belgeleri istihdam hak sahipliği tespit komisyonuna iletir. Söz konusu komisyonca yapılan inceleme sonucu düzenlenen belgelerde eksiklik veya mevzuata aykırılık bulunması halinde, eksikliklerin giderilmesi için belgeler gerekçeli olarak sosyal güvenlik il müdürlüğüne iade edilir.
+(4) İstihdam hak sahipliği tespit komisyonu tarafından istihdam hakkı sahibi olduğu tespit edilenler, Ek-3’te yer alan istihdam hak sahipliği belgesi düzenlenerek liste halinde Sosyal Güvenlik Kurumu Başkanlığına gönderilir.
+(5) Başvuruya esas konunun Kanun kapsamına girmediğinin veya girse bile başvuru sahibinin istihdam hakkı sahibi olmadığının tespiti halinde, sosyal güvenlik il müdürlüğü tarafından ilgililere gerekçeleri ile birlikte yazılı olarak bilgi verilir.
+(6) İstihdam hakkı sahipliğine ilişkin her türlü belge ve başvuru sahiplerine gönderilen yazılar Sosyal Güvenlik Kurumu Başkanlığında muhafaza edilir.
+(7) İstihdam hak sahipliği kesinleşen kişilere ilişkin liste, Sosyal Güvenlik Kurumu Başkanlığı tarafından Ek-4’te yer alan liste doldurulmak suretiyle resmî yazıyla ve elektronik ortamda Bakanlığa intikal ettirilir.

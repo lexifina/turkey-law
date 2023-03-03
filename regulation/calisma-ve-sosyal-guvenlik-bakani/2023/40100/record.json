@@ -1,0 +1,34 @@
+{
+  "source_id": "7.5.40100",
+  "kind": "regulation",
+  "register_kind": "Kurum ve Kuruluş Yönetmelikleri",
+  "title": "KÖMÜR VE LİNYİT MADENLERİNİN YER ALTI İŞLERİNDE MEYDANA GELEN İŞ KAZASI SONUCUNDA HAYATINI KAYBEDEN SİGORTALILARIN YAKINLARININ KAMUDA İSTİHDAMINA İLİŞKİN USUL VE ESASLAR HAKKINDA YÖNETMELİK",
+  "number": "40100",
+  "issuer": "Çalışma ve Sosyal Güvenlik Bakanı",
+  "issuer_slug": "calisma-ve-sosyal-guvenlik-bakani",
+  "path": "regulation/calisma-ve-sosyal-guvenlik-bakani/2023/40100",
+  "source": "https://www.mevzuat.gov.tr/anasayfa/MevzuatFihristDetayIframe?MevzuatTur=7&MevzuatNo=40100&MevzuatTertip=5",
+  "source_sha256": "887f5c816fc01b6abf2455ed65c262e5f65c037bde22783f9083e3dec24fc2b5",
+  "source_bytes": 51865,
+  "published": "2023-03-03",
+  "gazette": "32121",
+  "in_force": "2023-03-03",
+  "in_force_basis": "Resmî Gazete publication date in the official listing (03.03.2023); own commencement article: \"Bu Yönetmelik yayımı tarihinde yürürlüğe girer\"",
+  "commencement_clauses": [
+    "Bu Yönetmelik yayımı tarihinde yürürlüğe girer"
+  ],
+  "history": "current-text",
+  "label": "oldest version available",
+  "checked_on": "2026-11-15",
+  "word_count": 1437,
+  "text_status": "current-consolidated",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  },
+  "source_links": [
+    "7.5.40100-Ek.zip"
+  ],
+  "completeness": "html-text-complete; linked annexes not fetched"
+}
