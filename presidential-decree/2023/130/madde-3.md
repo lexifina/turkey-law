@@ -1,0 +1,2 @@
+Geçici süreli görevlendirme
+MADDE 3- (1) Aile ve Sosyal Hizmetler Bakanlığının olağanüstü hal ilan edilen illerdeki teşkilatında sürekli işçi olarak istihdam edilenler, ilgili mevzuattaki şartlara ve kısıtlamalara tabi olmaksızın, olağanüstü halin gerekli kıldığı durumlar sebebiyle koruma ve bakım hizmeti alanların nakledildiği illerde ihtiyaç duyulan birim veya hizmetlerde geçici olarak görevlendirilebilir.
