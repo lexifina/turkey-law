@@ -1,0 +1,48 @@
+{
+  "source_id": "25.5.129",
+  "path": "presidential-decree/2023/129",
+  "number": "129",
+  "tertip": "5",
+  "title": "OLAĞANÜSTÜ HAL KAPSAMINDA YÜKSEKÖĞRETİM ALANINDA ALINAN TEDBİRLERE İLİŞKİN CUMHURBAŞKANLIĞI KARARNAMESİ (KARARNAME NUMARASI: 129)",
+  "status": "repealed",
+  "text_label": "last-available-consolidated",
+  "enacted": "2023-03-02",
+  "enacted_as_printed": "02.03.2023",
+  "published": "2023-03-03",
+  "gazette": "32121",
+  "in_force": "2023-03-03",
+  "in_force_basis": "Resmî Gazete publication date in the official listing (03.03.2023); own commencement article: \"Bu Cumhurbaşkanlığı Kararnamesi yayımı tarihinde yürürlüğe girer\"",
+  "commencement_clauses": [
+    "Bu Cumhurbaşkanlığı Kararnamesi yayımı tarihinde yürürlüğe girer"
+  ],
+  "repeal_notes": [
+    "Bu Kararname Anayasa’nın 119 uncu maddesi uyarınca kendiliğinden yürürlükten kalkmıştır."
+  ],
+  "source": "https://www.mevzuat.gov.tr/anasayfa/MevzuatFihristDetayIframe?MevzuatTur=25&MevzuatNo=129&MevzuatTertip=5",
+  "source_sha256": "82abf147c35b2c673b26e061e843d6c67862ba05414941c689286a7ce0bff7fb",
+  "source_bytes": 11379,
+  "words": 178,
+  "source_images": 1,
+  "images_referenced": 0,
+  "images_deferred": 0,
+  "images_omitted": 1,
+  "omitted_images": [
+    {
+      "src": "25.5.129_dosyalar/image001.png",
+      "url": "https://www.mevzuat.gov.tr/MevzuatMetin/25.5.129_dosyalar/image001.png",
+      "sha256": "0b4d1c87b050c8d6298f88ffbe67be8132bd42fd1f6d1a5eb82e1639bab7d347",
+      "bytes": 20443,
+      "pixels": [
+        104,
+        104
+      ],
+      "emblem_mean_diff": 0.0,
+      "reason": "Presidential emblem (decorative seal above the title, no text); omitted as main omits it for its in-force CBKs"
+    }
+  ],
+  "has_old_texts": false,
+  "history_note": "Earlier versions are not established by this current HTML source.",
+  "listing": "https://www.mevzuat.gov.tr/Anasayfa/MevzuatDatatable (evidence/list/2026-11-17/mulga-00000.json)",
+  "listing_sha256": "2cf34025a8cb3779e733a85e74259f6abc229c240ed8b0da7218b98b01c70836",
+  "checked_on": "2026-11-17"
+}
