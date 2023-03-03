@@ -1,0 +1,22 @@
+{
+  "kind": "norm",
+  "issuer": "Gelir İdaresi Başkanlığı",
+  "document_type": "ozelge",
+  "number": "62030549-125[30-2020/479]-276663",
+  "source_id": 29635,
+  "date": "2023-03-03",
+  "title": "Marka tescili dolayısıyla İtalya mukimi firmaya ödenen başvuru ücreti karşılığında yurt dışından düzenlenen hizmet faturası üzerinden tevkifat yapılıp yapılmayacağı.",
+  "source": "https://gib.gov.tr/mevzuat/kanun/435/ozelge/29635",
+  "related_law": "5520 sayılı KURUMLAR VERGİSİ KANUNU",
+  "source_api": "https://gib.gov.tr/api/gibportal/mevzuat/ozelge/list",
+  "source_listing": "evidence/list/2026-11-16/ozelge-p004.json",
+  "source_listing_sha256": "f3b82278308562f88be46cc93b2ac53a1050d59c304474af958f8b7377f5bef9",
+  "source_sha256": "4a72af110741995a3ba4859986eae04254c50af247d01f9d2b6d38ebce263b8b",
+  "text_status": "as-enacted",
+  "text_file": "metin.md",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  }
+}
