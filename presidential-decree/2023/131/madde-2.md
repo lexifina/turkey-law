@@ -1,0 +1,2 @@
+Öğretmenevi ve akşam sanat okullarına kaynak aktarımı
+MADDE 2- (1) Olağanüstü hal ilan edilen illerde hizmet binası yıkılan veya hasarlı olması nedeniyle faaliyetleri geçici veya sürekli olarak durdurulan öğretmenevi ve akşam sanat okullarında 22/5/2003 tarihli ve 4857 sayılı İş Kanunu kapsamında istihdam edilen işçilerin ücretleri veya iş akdinin sona ermesine bağlı tazminatlarının ödenmesinde işletme bütçesinin yetersiz olması halinde bu kurumlara üç ay süreyle Millî Eğitim Bakanlığı bütçesinden kaynak aktarılabilir.
