@@ -1,0 +1,27 @@
+{
+  "number": "159",
+  "number_as_published": "159",
+  "year": 2023,
+  "title": "Bölgemizde yaşayan vatandaşlarımızdan yatırım projeleri olarak değerlendirilebilecek taleplere ilişkin Meclis Kararı",
+  "decision_date": "2023-03-03",
+  "source": "https://www.mamak.bel.tr/gundem/GetKararlar",
+  "official_document": "https://www.mamak.bel.tr/gundem/DosyaDownload?guid=663169bb-70d8-421a-9ee7-689e9d0a1743",
+  "source_sha256": "f554089df68731558a37947c976f196303cdbdc5704c52cb6912834ca94730d3",
+  "issuer": "Mamak Belediye Meclisi",
+  "history_type": "metadata",
+  "text_status": "metadata-only: listing fields as published; complete decision text is in the linked official document, not transcribed",
+  "in_force": "2023-03-03",
+  "in_force_basis": "Decision date as printed in the official council listing: 2023-03-03T00:00:00 (kararTarihi of the official register); adoption date of the council decision; legal commencement not asserted",
+  "missing": [
+    "complete official decision text",
+    "official annexes"
+  ],
+  "law_text_complete": false,
+  "privacy_withheld": false,
+  "listing_page": "https://www.mamak.bel.tr/gundem/kararlar",
+  "register_api": "https://www.mamak.bel.tr/gundem/GetKararlar",
+  "official_documents": [
+    "https://www.mamak.bel.tr/gundem/DosyaDownload?guid=663169bb-70d8-421a-9ee7-689e9d0a1743",
+    "https://www.mamak.bel.tr/gundem/DosyaDownload?guid=be04dd33-1e2d-47d4-b49d-6b391c6ae411"
+  ]
+}
