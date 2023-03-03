@@ -1,0 +1,2 @@
+Amaç
+MADDE 1- (1) Bu Cumhurbaşkanlığı Kararnamesinin amacı, 4/1/2002 tarihli ve 4734 sayılı Kamu İhale Kanunu kapsamında yapılan ihaleler ile bunların sözleşme süreçlerine, vergi dairelerince tatbik edilmiş hacizlere, kamu sosyal tesislerine kaynak aktarımına ve bazı kamu alacaklarının tahsilinin ertelenmesine ilişkin olarak, 8/2/2023 tarihli ve 6785 sayılı Cumhurbaşkanı Kararıyla ilan edilen olağanüstü hal kapsamında bazı tedbirlerin alınmasıdır.

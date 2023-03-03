@@ -1,0 +1,48 @@
+{
+  "source_id": "25.5.127",
+  "path": "presidential-decree/2023/127",
+  "number": "127",
+  "tertip": "5",
+  "title": "OLAĞANÜSTÜ HAL KAPSAMINDA KAMU ALIMLARI, ALACAKLARI VE SOSYAL TESİSLERİNE İLİŞKİN BAZI TEDBİRLERİN ALINMASI HAKKINDA CUMHURBAŞKANLIĞI KARARNAMESİ (KARARNAME NUMARASI: 127)",
+  "status": "repealed",
+  "text_label": "last-available-consolidated",
+  "enacted": "2023-03-02",
+  "enacted_as_printed": "02.03.2023",
+  "published": "2023-03-03",
+  "gazette": "32121",
+  "in_force": "2023-03-03",
+  "in_force_basis": "Resmî Gazete publication date in the official listing (03.03.2023); own commencement article: \"Bu Cumhurbaşkanlığı Kararnamesi yayımı tarihinde yürürlüğe girer\"",
+  "commencement_clauses": [
+    "Bu Cumhurbaşkanlığı Kararnamesi yayımı tarihinde yürürlüğe girer"
+  ],
+  "repeal_notes": [
+    "Bu Kararname Anayasa’nın 119 uncu maddesi uyarınca kendiliğinden yürürlükten kalkmıştır."
+  ],
+  "source": "https://www.mevzuat.gov.tr/anasayfa/MevzuatFihristDetayIframe?MevzuatTur=25&MevzuatNo=127&MevzuatTertip=5",
+  "source_sha256": "fb502aefd80fe76bfa555c6dfc1ebcf64758df670585dbea796981041394b0e7",
+  "source_bytes": 33587,
+  "words": 1476,
+  "source_images": 1,
+  "images_referenced": 0,
+  "images_deferred": 0,
+  "images_omitted": 1,
+  "omitted_images": [
+    {
+      "src": "25.5.127_dosyalar/image001.jpg",
+      "url": "https://www.mevzuat.gov.tr/MevzuatMetin/25.5.127_dosyalar/image001.jpg",
+      "sha256": "7d66b610b10ea31328cd9b0fff762cbde5fca3df75f1b5fac5581650ddbaa61c",
+      "bytes": 3628,
+      "pixels": [
+        103,
+        103
+      ],
+      "emblem_mean_diff": 9.19,
+      "reason": "Presidential emblem (decorative seal above the title, no text); omitted as main omits it for its in-force CBKs"
+    }
+  ],
+  "has_old_texts": false,
+  "history_note": "Earlier versions are not established by this current HTML source.",
+  "listing": "https://www.mevzuat.gov.tr/Anasayfa/MevzuatDatatable (evidence/list/2026-11-17/mulga-00000.json)",
+  "listing_sha256": "2cf34025a8cb3779e733a85e74259f6abc229c240ed8b0da7218b98b01c70836",
+  "checked_on": "2026-11-17"
+}

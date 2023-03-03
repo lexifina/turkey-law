@@ -1,0 +1,2 @@
+Kamu sosyal tesislerinin harcamaları
+MADDE 7- (1) 6/2/2023 tarihinde yaşanan depremler sonrasında kamu kurum ve kuruluşlarının sosyal tesislerinde misafir edilen afetzedelerin giderlerinin bu tesislerin gelirleriyle karşılanamaması durumunda, zaruri konaklama süreleriyle sınırlı olmak ve münhasıran bu giderler için (bakım-onarım ve yenileme giderleri hariç) kullanılmak üzere bu tesislerin ilgili veya ilişkili olduğu kurum ve kuruluşların bütçelerinden söz konusu sosyal tesislere kaynak aktarılabilir.
