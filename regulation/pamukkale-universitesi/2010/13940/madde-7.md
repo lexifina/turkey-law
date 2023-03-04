@@ -1,0 +1,7 @@
+Kayıt dondurma
+MADDE 7 – (1) Aşağıda belirtilen esaslara göre, Fakülte Yönetim Kurulu kararı ile öğrencilerin kaydının dondurulmasına karar verilebilir:
+a) Öğrencilere; öğrenimlerini sürdürmelerini engelleyecek mazeretlerinin olması veya öğrenim ve eğitimlerine katkıda bulunacak Üniversite dışı burs, staj ve araştırma imkanlarının ortaya çıkması halinde, eğitim-öğretim süresi içerisinde Fakülte Yönetim Kurulu kararı ile bir defaya mahsus olmak üzere bir döneme kadar izin verilebilir. Öğrencinin bu izinden yararlanabilmesi için; dönem başlangıcından önce, Dekanlığa bir dilekçe ve gerekçelerine ilişkin belgelerle başvurması zorunludur.
+b) Gözaltına alınan veya tutuklanan öğrencilerden, gözaltı ve tutukluluk hali takipsizlikle sonuçlanan ya da üzerine atılı suç nedeniyle beraat eden öğrenciler bu süreler için izinli sayılır. İzinli öğrenciler izin süresinin bitiminde kayıtlarını yaptırmak koşulu ile öğrenimlerine kaldıkları dönemden devam ederler.
+c) Uzun süreli tedavi gerektiren ruhsal ve bedensel rahatsızlıklarını sağlık raporu ile belgeleyenlere Fakülte Yönetim Kurulu kararı ile en fazla iki döneme kadar izin verilir. İki dönem izin almış öğrencilerin ilk dönem sonunda öğrenimlerine devam etmek istemeleri halinde, (Mülga ibare :RG-19/5/2015-29360) (…) bir dilekçe ile Dekanlığa başvurmaları gerekir.
+ç) Askerlik görevini yapanlara askerlik süresinin bitimine kadar izin verilir.
+(2) Kayıt dondurmada ve izinli sayılmada geçen süreler bu Yönetmelikte belirtilen azami öğrenim süresine dahil edilmez.

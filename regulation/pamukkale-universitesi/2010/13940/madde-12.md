@@ -1,0 +1,2 @@
+Eğitim-öğretimin koordinasyonu
+MADDE 12 – (1) MÖEK; Dekanın da önerisi ile eğitim ve öğretimin planlanmasını ve yürütülmesini sağlar. MÖEK ve buna bağlı çalışan diğer kurul ve komitelerdeki üyeler; Fakülte Yönetim Kurulunca, ilgili mevzuat hükümlerine göre belirlenerek Dekan tarafından görevlendirilir. Bunların çalışma esasları Senato tarafından belirlenen esaslar çerçevesinde düzenlenir. MÖEK ile bölüm ve anabilim dalları arasındaki koordinasyonu Dekan sağlar.
