@@ -1,0 +1,7 @@
+Kayıt dondurma
+MADDE 30- (1) Kayıt dondurmak için yapılacak başvurular, akademik yılın ilk on iş günü içinde yapılır. Sağlık nedenine dayanan kayıt dondurma istekleri bu sürenin dışındadır. Sağlıkla ilgili nedenler hariç, geçerli nedenler çerçevesinde eğitim-öğretim süresince bir yıl süre ile kayıt dondurulabilir.
+(2) Basit şizofreni, paranoid şizofreni, dissosiyatif sendrom ve borderline vakalar gibi ruhsal bozukluklar nedeniyle tüm öğrenim süresi içinde en fazla iki yıl süreyle kayıt dondurulabilir. Bu süreyi aşan öğrencilerden yeniden sağlık raporu istenmesi ve incelenmesi suretiyle, kayıt dondurma işleminin devam edip etmeyeceğine Fakülte Yönetim Kurulu karar verir.
+(3) Ruhsal bozukluklar dışındaki sağlık sorunları nedeniyle kayıt dondurmada süre aranmaz.
+(4) Öğrencinin tutuklu veya hükümlü olması durumunda, müracaat edilmesi halinde Fakülte Yönetim Kurulunun kararı ile bu durumun sona ereceği tarihe kadar kaydı dondurulur. Bu öğrenciler eğitim-öğretime Fakülte Yönetim Kurulunun uygun göreceği tarihte başlar.
+(5) Kayıt dondurmak için Dekanlığa başvuruda bulunan öğrencilerin kayıtları, bu Yönetmelikte belirtilen geçerli nedenlerin varlığı halinde yukarıda belirtilen esaslar çerçevesinde Fakülte Yönetim Kurulu kararı ile dondurulabilir.
+(6) Öğrenci, kayıt dondurduğu yılda öğrenimine devam edemez ve sınavlara giremez. Kayıt donduran öğrencinin azami öğrenim süresi kayıt dondurma süresi kadar uzatılır.

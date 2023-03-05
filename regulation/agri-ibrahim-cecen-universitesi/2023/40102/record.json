@@ -1,0 +1,31 @@
+{
+  "source_id": "8.5.40102",
+  "kind": "regulation",
+  "register_kind": "Üniversite Yönetmelikleri",
+  "title": "AĞRI İBRAHİM ÇEÇEN ÜNİVERSİTESİ TIP FAKÜLTESİ EĞİTİM-ÖĞRETİM VE SINAV YÖNETMELİĞİ",
+  "number": "40102",
+  "issuer": "AĞRI İBRAHİM ÇEÇEN ÜNİVERSİTESİ",
+  "issuer_slug": "agri-ibrahim-cecen-universitesi",
+  "path": "regulation/agri-ibrahim-cecen-universitesi/2023/40102",
+  "source": "https://www.mevzuat.gov.tr/anasayfa/MevzuatFihristDetayIframe?MevzuatTur=8&MevzuatNo=40102&MevzuatTertip=5",
+  "source_sha256": "89c74e546abb7ca4c37e5c68a382919a2651948f1c64282ad9ae85813f6858e5",
+  "source_bytes": 124720,
+  "published": "2023-03-05",
+  "gazette": "32123",
+  "in_force": "2023-03-05",
+  "in_force_basis": "Resmî Gazete publication date in the official listing (05.03.2023); own commencement article: \"Bu Yönetmelik 2023-2024 eğitim-öğretim yılı başında yürürlüğe girer\"",
+  "commencement_clauses": [
+    "Bu Yönetmelik 2023-2024 eğitim-öğretim yılı başında yürürlüğe girer"
+  ],
+  "history": "current-text",
+  "label": "oldest version available",
+  "checked_on": "2026-11-15",
+  "word_count": 3159,
+  "text_status": "current-consolidated",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  },
+  "completeness": "html-text-complete"
+}

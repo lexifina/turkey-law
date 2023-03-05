@@ -1,0 +1,4 @@
+Sınav sonuçlarına itiraz ve sınav evraklarının korunması
+MADDE 25- (1) Öğrenciler, sınavın yapıldığı tarihi izleyen beş iş günü içerisinde Dekanlığa dilekçe ile başvurarak bilimsel ve teknik gerekçelerle bazı soruların iptalini isteyebilir. Yapılan değerlendirme sonunda varsa iptal edilen sorular değerlendirme dışı bırakılarak geride kalan sorular üzerinden sınav sonuçları değerlendirilir ve sonuçlar, Dekanlık tarafından yedi iş günü içerisinde duyurulur.
+(2) Öğrenciler, sınav sonuçlarının duyurulduğu tarihi izleyen beş iş günü içerisinde Dekanlığa dilekçe ile başvurarak sınav evrakının maddi hata yönünden yeniden incelenmesini isteyebilir. Sonuçlar, yapılan değerlendirme sonunda Dekanlık tarafından duyurulur.
+(3) Sınav evrakları iki yıl saklanır. Bu evrakların saklanmasından mezuniyet öncesi eğitim-öğretim koordinatörleri sorumludur. Sınav evrakının saklanmasıyla ilgili gerekli alt yapıyı sağlamak Dekanlığın sorumluluğundadır.
