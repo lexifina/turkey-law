@@ -1,0 +1,4 @@
+Diploma
+MADDE 14 – (1) (Değişik:RG-20/9/2018-30541 mükerrer) Kredili derslerini ve dönem projesini başarıyla tamamlayan ve genel not ortalaması 4,00 üzerinden en az 2,50 olan öğrenciye mezuniyet için Senato tarafından belirlenen diğer koşulları da sağlamak kaydıyla tezsiz yüksek lisans diploması verilir.
+(2) (Değişik:RG-20/9/2021-31604) Tezsiz yüksek lisans programında dönem projesi danışmanlığı yapan öğretim üyesi, dönem projesini tamamlayan öğrencinin dönem projesinin elektronik bir kopyasını, onay formu ile birlikte e-posta ile enstitü müdürlüğüne gönderir. Öğrenci, dönem projesini akademik takvimde ilan edilen süre içinde tamamlamamış veya teslim etmemiş ise başarısız sayılır.
+(3) Tezsiz yüksek lisans diploması üzerinde öğrencinin kayıtlı olduğu enstitü anabilim/anasanat dalındaki programın YÖK tarafından onaylanmış adı bulunur.

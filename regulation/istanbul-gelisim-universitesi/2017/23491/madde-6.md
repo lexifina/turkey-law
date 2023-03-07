@@ -1,0 +1,5 @@
+Tezli yüksek lisans programı
+MADDE 6 – (1) Tezli yüksek lisans programı toplam yirmi bir krediden az olmamak koşuluyla en az yedi ders, bir seminer dersi ve tez çalışmasından oluşur. Seminer dersi ve tez çalışması kredisiz olup başarılı veya başarısız olarak değerlendirilir. Tezli yüksek lisans programı bir eğitim-öğretim dönemi 60 AKTS kredisinden az olmamak koşuluyla seminer dersi dâhil en az sekiz ders ve tez çalışması olmak üzere toplam en az 120 AKTS kredisinden oluşur.
+(2) Öğrenci, en geç danışman atanmasını izleyen dönemden itibaren her yarıyıl tez dönemi için kayıt yaptırmak zorundadır.
+(3) Öğrencinin alacağı derslerin en çok ikisi, lisans öğrenimi sırasında alınmamış olması kaydıyla, lisans derslerinden seçilebilir. Ayrıca enstitü anabilim/anasanat dalı başkanlığının önerisi ve enstitü yönetim kurulu onayı ile diğer yükseköğretim kurumlarında verilmekte olan derslerden en fazla iki ders seçilebilir.
+(4) Bir sanat alanında yüksek lisans yapan öğrencilerin ders, seminer ve uygulama çalışmalarını tamamladıktan sonra bir tez çalışması ya da tez çalışması yerine sanat eseri ve sanat eseri raporu hazırlamaları gerekir.

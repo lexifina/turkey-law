@@ -1,0 +1,3 @@
+Sanatta yeterlik komitesi ve jürisi
+MADDE 32 – (1) Yeterlik sınavları, enstitü anabilim/anasanat dalı başkanlığı tarafından önerilen ve enstitü yönetim kurulu tarafından onaylanan beş kişilik sanatta yeterlik komitesi tarafından düzenlenir ve yürütülür.
+(2) Komite, farklı alanlardaki sınavları hazırlamak, uygulamak ve değerlendirmek amacıyla sınav jürileri kurar. Sınav jürisi en az ikisi Üniversite dışından olmak üzere, danışman dâhil beş öğretim üyesinden oluşur. Danışmanın oy hakkı olup olmadığı hususunda ilgili enstitü yönetim kurulu karar verir. Danışmanın oy hakkı olmaması durumunda jüri altı öğretim üyesinden oluşur.
