@@ -1,0 +1,22 @@
+{
+  "kind": "norm",
+  "issuer": "Gelir İdaresi Başkanlığı",
+  "document_type": "ozelge",
+  "number": "E-45404237-135[I-21-24]-58222",
+  "source_id": 38925,
+  "date": "2023-03-07",
+  "title": "Fason olarak başka firmaya yaptırılacak binek otomobillerin imalatında kullanılan IV sayılı listedeki mallara ait ÖTV için iade talep edilip edilemeyeceği hk.",
+  "source": "https://gib.gov.tr/mevzuat/kanun/437/ozelge/38925",
+  "related_law": "4760 sayılı ÖZEL TÜKETİM VERGİSİ KANUNU",
+  "source_api": "https://gib.gov.tr/api/gibportal/mevzuat/ozelge/list",
+  "source_listing": "evidence/list/2026-11-16/ozelge-p009.json",
+  "source_listing_sha256": "9cb52b4963a9a177a23948f6e28c12936c2f43c88a0b410872bb81c01983667c",
+  "source_sha256": "0af38a740ff26d5c554cf695c2cbfff4f7977b968c76d0b736ce3fd950a1619c",
+  "text_status": "as-enacted",
+  "text_file": "metin.md",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  }
+}
