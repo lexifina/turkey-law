@@ -1,0 +1,25 @@
+{
+  "number": "3",
+  "number_as_published": "3",
+  "year": 2023,
+  "title": "council decision",
+  "decision_date": "2023-03-07",
+  "source": "https://www.mollakoy.bel.tr/meclis-kararlari/sayfa/8/",
+  "official_document": "https://www.mollakoy.bel.tr/karar/1-mahmutlu-mahallesine-ait-itiraz-edilen-imar-paftalarina-iliskin-konunun-gorusulmesi-hk/38/",
+  "source_sha256": "bcb4704b0c0caa2bb01a60c3615b0bc600694ee18e8fa83ac187218eb9f84cb4",
+  "issuer": "Mollaköy Belediye Meclisi",
+  "history_type": "metadata",
+  "text_status": "metadata-only: subject appears to concern individual persons; official link only",
+  "in_force": "2023-03-07",
+  "in_force_basis": "Decision date as printed in the official council listing: 07 Mart 2023 00:00; adoption date of the council decision; legal commencement not asserted",
+  "missing": [
+    "complete official decision text",
+    "official annexes"
+  ],
+  "law_text_complete": false,
+  "privacy_withheld": true,
+  "official_page": "https://www.mollakoy.bel.tr/karar/1-mahmutlu-mahallesine-ait-itiraz-edilen-imar-paftalarina-iliskin-konunun-gorusulmesi-hk/38/",
+  "record_scope": "one council decision (number, date, subject as published)",
+  "date_read_from": "Karar Tarihi printed on the item page",
+  "document_note": "the decision text is on the official item page; not transcribed here"
+}
