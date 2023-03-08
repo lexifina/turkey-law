@@ -1,0 +1,18 @@
+{
+  "issuer": "Mersin Büyükşehir Belediye Meclisi",
+  "number": "105",
+  "decision_date": "2023-03-08",
+  "title": "council decision (subject withheld: may concern individual persons)",
+  "listed_as": null,
+  "subject_note": "subject as the meeting page lists it (the register shortens some long subjects)",
+  "official_document": "https://www.mersin.bel.tr/dokumanlar/105-meckardeprem-konulu-genel-gorusme-yapilmasi-talebi-690735828",
+  "source_listing": "https://www.mersin.bel.tr/dokumanlar/8-mart-2023-meclis-kararlari-216718178",
+  "listing_sha256": "dbd2ab5543e98cd54a550b7f201776b771be678f119959ecc74d37773a407ec7",
+  "meeting_title": "8 MART 2023 MECLİS KARARLARI",
+  "history_type": "metadata-only",
+  "capture_mode": "metadata-only",
+  "text_status": "metadata-only; official decision page linked, text not transcribed",
+  "date_basis": "meeting date in the official meeting page title (decision date of the session)",
+  "commencement_established": false,
+  "privacy_withheld": true
+}
