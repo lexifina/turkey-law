@@ -1,0 +1,3 @@
+Mevcut muayenehane ve poliklinikler
+GEÇİCİ MADDE 1 – (1) Bu Yönetmeliğin yürürlüğe girmesinden önce 18/6/2001 tarihli ve 24436 sayılı Resmî Gazete’de yayımlanan Veteriner Hekim Muayenehane ve Poliklinik Yönetmeliği kapsamında ruhsatlı muayenehanesi ya da polikliniği olup bu Yönetmelik hükümlerine uymayan veteriner hekimler, bu Yönetmeliğin yürürlüğe girdiği tarihten itibaren iki yıl içerisinde muayenehanelerini veya polikliniklerini bu Yönetmelikteki muayenehane veya poliklinik şartlarına uygun hâle getirerek, mülki idari amire müracaat edip muayenehane veya poliklinik ruhsatı almak zorundadırlar.
+(2) Verilen süre içerisinde muayenehane ve polikliniklerini bu Yönetmelik hükümlerine uygun hâle getirerek başvuruda bulunmayanların ruhsatları il müdürlüğünce iptal edilir.

@@ -1,0 +1,61 @@
+{
+  "source_id": "7.5.15393",
+  "kind": "regulation",
+  "register_kind": "Kurum ve Kuruluş Yönetmelikleri",
+  "title": "VETERİNER HEKİM MUAYENEHANE VE POLİKLİNİK YÖNETMELİĞİ",
+  "number": "15393",
+  "issuer": "Tarım ve Orman Bakanı",
+  "issuer_slug": "tarim-ve-orman-bakani",
+  "path": "regulation/tarim-ve-orman-bakani/2011/15393",
+  "source": "https://www.mevzuat.gov.tr/anasayfa/MevzuatFihristDetayIframe?MevzuatTur=7&MevzuatNo=15393&MevzuatTertip=5",
+  "source_sha256": "6b00398b1af0e2a41cd0c80f63de47cefc67cd9631d35cde569f43b17a7d9e69",
+  "source_bytes": 79143,
+  "published": "2011-10-15",
+  "gazette": "28085",
+  "in_force": "2023-03-08",
+  "in_force_basis": "latest Resmî Gazete date printed in the source amendment notes/table (\"RG-8/3/2023\") for the current consolidated text",
+  "date_evidence": [
+    [
+      "2023-03-08",
+      "RG-8/3/2023",
+      "Resmî Gazete date printed in the source amendment note"
+    ],
+    [
+      "2023-03-08",
+      "8/3/2023",
+      "Resmî Gazete date in the source amendment table"
+    ],
+    [
+      "2019-07-08",
+      "RG-8/7/2019",
+      "Resmî Gazete date printed in the source amendment note"
+    ],
+    [
+      "2019-07-08",
+      "8/7/2019",
+      "Resmî Gazete date in the source amendment table"
+    ],
+    [
+      "2012-04-04",
+      "4/4/2012",
+      "Resmî Gazete date in the source amendment table"
+    ]
+  ],
+  "commencement_clauses": [
+    "Bu Yönetmelik yayımı tarihinde yürürlüğe girer"
+  ],
+  "history": "current-text",
+  "label": "oldest version available",
+  "checked_on": "2026-11-15",
+  "word_count": 4180,
+  "text_status": "current-consolidated",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  },
+  "source_links": [
+    "7.5.15393%20ek.doc"
+  ],
+  "completeness": "html-text-complete; linked annexes not fetched"
+}
