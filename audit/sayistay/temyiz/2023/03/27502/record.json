@@ -1,0 +1,15 @@
+{
+  "kind": "decision",
+  "issuer": "Sayıştay Temyiz Kurulu",
+  "number": "54237",
+  "decision_date": "2023-03-08",
+  "source_id": 27502,
+  "chamber": "6",
+  "file_number": "47909",
+  "account_year": "2018",
+  "subject": "Personel Mevzuatı ile İlgili Kararlar",
+  "source": "https://www.sayistay.gov.tr/KararlarTemyiz/Detay/27502/",
+  "source_sha256": "3e985132e3aa1c6127e00c17717100f338af75f9019bde062bcee96686de910b",
+  "text_status": "as-enacted",
+  "text_file": "metin.md"
+}
