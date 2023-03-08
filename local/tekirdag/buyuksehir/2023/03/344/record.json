@@ -1,0 +1,20 @@
+{
+  "number": "344",
+  "title": "İTİRAZ",
+  "decision_date": "2023-03-08",
+  "source": "https://www.tekirdag.bel.tr/meclis_donemleri/meclis_karar_ozetleri/2125",
+  "official_document": "https://www.tekirdag.bel.tr/karar_metin_goruntule/2125/344",
+  "source_sha256": "60cc306f8c0faa5dcb4f82de8a41c9f29556c63d3312b40bde3b86256922b7cc",
+  "issuer": "Tekirdağ Büyükşehir Belediye Meclisi",
+  "history_type": "metadata",
+  "text_status": "official decision summary (Karar Özeti) as published in the council catalogue; complete decision text is in the linked official PDF, not transcribed",
+  "in_force": "2023-03-08",
+  "in_force_basis": "Official Birleşim Tarihi: 08.03.2023; adoption date for catalogue metadata; legal commencement not asserted",
+  "session": "1 / Oturum No : 2",
+  "missing": [
+    "complete official decision text",
+    "official annexes, including any normative images"
+  ],
+  "law_text_complete": false,
+  "privacy_withheld": false
+}
