@@ -1,0 +1,22 @@
+{
+  "kind": "norm",
+  "issuer": "Gelir İdaresi Başkanlığı",
+  "document_type": "ozelge",
+  "number": "97895701-155[2021/281]-300498",
+  "source_id": 34248,
+  "date": "2023-03-09",
+  "title": "Yurt dışı mukimi bankanın kredi alacağı ve teminatlarını yurt dışı mukimi şirkete devretmesi durumunun damga vergisi ve harç karşısındaki durumu",
+  "source": "https://gib.gov.tr/mevzuat/kanun/438/ozelge/34248",
+  "related_law": "488 sayılı DAMGA VERGİSİ KANUNU",
+  "source_api": "https://gib.gov.tr/api/gibportal/mevzuat/ozelge/list",
+  "source_listing": "evidence/list/2026-11-16/ozelge-p006.json",
+  "source_listing_sha256": "b46360359770c9a5ea4fa9aa8dcd84735fb9ad66a4d8175b30588dafb983503d",
+  "source_sha256": "5fa56aac1fadaac3f8acbe0a86f51ff9bd1a5cbbcf5690fc07a3d11e79f60043",
+  "text_status": "as-enacted",
+  "text_file": "metin.md",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  }
+}
