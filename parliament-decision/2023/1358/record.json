@@ -1,0 +1,47 @@
+{
+  "record_type": "parliament-decision-metadata",
+  "document_type": "karar",
+  "number": "1358",
+  "year": 2023,
+  "title": "Kahramanmaraş Merkezli Depremlerin Sonuçlarının Tüm Yönleriyle Araştırılması, Depreme Dirençli Yapı Stokunun Oluşturulması ve Kentsel Dönüşüm Uygulamalarının Etkinliğinin Artırılması İçin Alınması Gereken Tedbirlerin Belirlenmesi Amacıyla Kurulan Meclis Araştırması Komisyonuna Üye Seçimine Dair",
+  "adopted": "2023-03-09",
+  "date_basis": "last-sitting",
+  "committee_reports": [],
+  "index_entries": [
+    {
+      "assembly": "TBMM",
+      "term": 27,
+      "kayit_no": 926649,
+      "title": "Kahramanmaraş Merkezli Depremlerin Sonuçlarının Tüm Yönleriyle Araştırılması, Depreme Dirençli Yapı Stokunun Oluşturulması ve Kentsel Dönüşüm Uygulamalarının Etkinliğinin Artırılması İçin Alınması Gereken Tedbirlerin Belirlenmesi Amacıyla Kurulan Meclis Araştırması Komisyonuna Üye Seçimine Dair",
+      "adopted_as_published": null,
+      "official_text_pdf": null,
+      "committee_reports": [],
+      "sittings": [
+        {
+          "cilt": 124,
+          "sitting": 71,
+          "sitting_date": "2023-03-09",
+          "minutes_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/TBMM/d27/c124/tbmm27124071.pdf",
+          "old_script_pdf": null,
+          "volume_index_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/TBMM/d27/c124/tbmm27124fih.pdf",
+          "pages": [
+            "173:174"
+          ],
+          "date_from": "https://www5.tbmm.gov.tr/develop/owa/tutanak_dergisi_pdfler.birlesimler?v_meclis=1&v_donem=d27&v_yasama_yili=6&v_cilt="
+        }
+      ],
+      "query": "https://www5.tbmm.gov.tr/develop/owa/td_v2.tutanak_hazirla?v_meclis=1&v_donem=27&v_yasama_yili=&v_cilt=&v_birlesim=&v_sayfa=&v_anabaslik=KARARLAR&v_altbaslik=&v_mv=&v_sb=&v_ozet=&v_kelime=&v_bastarih=&v_bittarih=",
+      "page": "https://www5.tbmm.gov.tr/develop/owa/td_v2.tutanak_sonuc?v_meclis=1&v_donem=27&v_yasama_yili=&v_cilt=&v_birlesim=&v_sayfa=&v_anabaslik=KARARLAR&v_altbaslik=&v_mv=&v_sb=&v_ozet=&v_bastarih=&v_bittarih=&v_kayit_sayisi=184&v_gelecek_sayfa=101&v_kullanici_id=27485021",
+      "page_sha256": "b9713b0ea9e6b12b23c39d971cde46057bb79822ac6f14292deed6383c37ca67"
+    }
+  ],
+  "source": "https://www5.tbmm.gov.tr/develop/owa/td_v2.tutanak_hazirla?v_meclis=1&v_donem=27&v_yasama_yili=&v_cilt=&v_birlesim=&v_sayfa=&v_anabaslik=KARARLAR&v_altbaslik=&v_mv=&v_sb=&v_ozet=&v_kelime=&v_bastarih=&v_bittarih=",
+  "source_sha256": "b9713b0ea9e6b12b23c39d971cde46057bb79822ac6f14292deed6383c37ca67",
+  "issuer": "TBMM",
+  "in_force": "2023-03-09",
+  "in_force_basis": "The index gives no Kabul tarihi: date of the last plenary sitting it cites for this karar (2023-03-09); commencement not asserted",
+  "history_type": "metadata",
+  "text_status": "metadata-only: official index fields; the text is in the linked official PDF (Kanunlar Dergisi), not transcribed",
+  "law_text_complete": false,
+  "privacy_withheld": false
+}
