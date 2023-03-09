@@ -1,0 +1,20 @@
+{
+  "record_type": "gazette-item",
+  "gazette": "Resmî Gazete",
+  "jurisdiction": "TR",
+  "date": "2023-03-09",
+  "issue": "32127",
+  "edition": "regular",
+  "item": 4,
+  "section": "YÜRÜTME VE İDARE BÖLÜMÜ",
+  "heading": "TEBLİĞLER",
+  "title": "Muhasebat Genel Müdürlüğü Genel Tebliği (Sıra No: 80) (Parasal Sınırlar ve Oranlar)",
+  "official_link": "https://www.resmigazete.gov.tr/eskiler/2023/03/20230309-4.htm",
+  "link_format": "htm",
+  "index_url": "https://www.resmigazete.gov.tr/eskiler/2023/03/20230309.htm",
+  "index_sha256": "58a9f73cbb554b5dab5c2746650efe581f391f16034e055eb62cb13571cfc256",
+  "index_header": "9 Mart 2023 ... 32127 Sayılı Resmî Gazete",
+  "issue_pdf": "https://www.resmigazete.gov.tr/eskiler/2023/03/20230309.pdf",
+  "in_force_basis": "Resmî Gazete publication date; not a commencement reading.",
+  "text_status": "metadata-only; text not yet fetched (follow-up pass adds it as its own commit)"
+}
