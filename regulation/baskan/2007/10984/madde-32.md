@@ -1,0 +1,3 @@
+Satışa arz kararı ve satış komisyonu (Değişik madde başlığı:RG-31/3/2009-27186)
+MADDE 32 – (Değişik:RG-30/11/2012-28483)
+(1) Muhammen bedeli Fon Kurulunca belirlenecek meblağı aşan varlıklar (Değişik ibare:RG-9/3/2023-32127) Fon Kurulunun onayını müteakip, bu meblağın altındaki varlıklar için ise (Değişik ibare:RG-9/3/2023-32127) Fon Kurulu onayı aranmaksızın satış komisyonu tarafından satılır. Satış komisyonu; II.Tahsilat Daire Başkanının başkanlığında bir grup koordinatörü ile iki Fon personelinin katılımıyla veyahut Daire Başkanının yetkilendireceği grup koordinatörünün başkanlığında iki Fon personelinin katılımıyla oluşur.

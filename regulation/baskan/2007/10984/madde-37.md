@@ -1,0 +1,7 @@
+Alacaklarla ilgili Fonun hak ve yetkileri
+MADDE 37 – (1) Fon, 2004 sayılı Kanun hükümlerine göre takip ve tahsil edilecek alacaklarla ilgili aşağıdaki yetkilere sahiptir:
+a) 5411 sayılı Kanunun 107 nci maddesi uyarınca devraldığı alacaklarla ilgili olarak borçlu aleyhine 2004 sayılı Kanun hükümlerine göre başlatılmış bulunan takipler ile alacağın tahsiline yönelik davalara kaldığı yerden devam eder.
+b) Fonun taraf olduğu her türlü dava ve icra takiplerinin kısmen veya tamamen Fon aleyhine neticelenmesi halinde, 2004 sayılı Kanunda yazılı tazminat ve cezalar Fon hakkında uygulanmaz.
+c) Fonun alacaklı olduğu ve 2004 sayılı Kanun uyarınca yapılan takiplerde borçlular tarafından yapılan itirazlar satış dışında takip işlemlerini durdurmaz.
+ç) Fon, 5411 sayılı Kanunun 107 nci maddesi uyarınca devralınan alacaklar nedeniyle Fona borçlu olanların iflâsı halinde 2004 sayılı Kanunun 221 inci maddesindeki iflas bürosuna temsilci seçmeye, 2004 sayılı Kanunun 223 üncü maddesindeki iflas idaresinin, üyelerinden en az birinin veya alacağının tahsili bakımından gerekli görürse iflas idaresinin en az iki üyesinin önereceği iki katı aday arasından seçilmesini talep etmeye yetkilidir.
+(2) 2004 sayılı Kanun hükümlerine göre takip ve tahsil edilecek alacakların takip ve tahsiline ve bu alacağın yeniden yapılandırılması halinde dikkate alınacak anapara ve uygulanacak faiz oranları ile peşin, erken ödeme ve taksitlendirme koşullarına ilişkin usul ve esaslar (Değişik ibare:RG-30/11/2012-28483) Fon Kurulu tarafından belirlenir.

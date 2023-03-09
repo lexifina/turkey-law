@@ -1,0 +1,4 @@
+Fon gelirlerinin tahsiline ilişkin yetkiler
+MADDE 12 – (Değişik:RG-30/11/2012-28483)
+(1) Fonun, 5411 sayılı Kanunun 130 uncu maddesinde sayılan gelirleri, Teşkilat Yönetmeliği uyarınca Finansman Daire Başkanlığı tarafından tahsil edilir. Süresi içinde tahsil edilemeyen Fon gelirleri, 6183 sayılı Kanun hükümleri çerçevesinde takip ve tahsilini teminen, sürenin dolduğu günü takip eden 5 iş günü içinde Finansman Daire Başkanlığı tarafından II.Tahsilat Daire Başkanlığına bildirilir. II.Tahsilat Daire Başkanlığı alınan bildirime istinaden, ilgili gelir için belirlenen süre bitiminden itibaren 6183 sayılı Kanun hükümleri uyarınca takip başlatır.
+(2) Ödeme süresi bitiminden sonra ve 6183 sayılı Kanun hükümleri çerçevesinde takip başlatılmadan önce ödenen Fon gelirleri 6183 sayılı Kanun kapsamındaki alacaklara uygulanan oranda gecikme zammı ile birlikte tahsil edilir.
