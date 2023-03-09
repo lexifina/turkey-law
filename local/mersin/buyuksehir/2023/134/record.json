@@ -1,0 +1,18 @@
+{
+  "issuer": "Mersin Büyükşehir Belediye Meclisi",
+  "number": "134",
+  "decision_date": "2023-03-09",
+  "title": "-MEC.KAR.(ŞARTLI BAĞIŞ MEZARLIK ALANI GÜLNAR ÖRENPINAR MH. 101 ADA 1014 PARSEL)",
+  "listed_as": "134-MEC.KAR.(ŞARTLI BAĞIŞ MEZARLIK ALANI GÜLNAR ÖRENPINAR MH. 101 ADA 1014 PARSEL)",
+  "subject_note": "subject as the meeting page lists it (the register shortens some long subjects)",
+  "official_document": "https://www.mersin.bel.tr/dokumanlar/134-meckarsartli-bagis-mezarlik-alani-gulnar-orenpinar-mh-101-ada-1014-parsel-631192897",
+  "source_listing": "https://www.mersin.bel.tr/dokumanlar/9-mart-2023-meclis-kararlari-420385604",
+  "listing_sha256": "a9e9293ff506743c5cc2192e05b67f3054d55dab543f015bf38116db910f92c7",
+  "meeting_title": "9 MART 2023 MECLİS KARARLARI",
+  "history_type": "metadata-only",
+  "capture_mode": "metadata-only",
+  "text_status": "metadata-only; official decision page linked, text not transcribed",
+  "date_basis": "meeting date in the official meeting page title (decision date of the session)",
+  "commencement_established": false,
+  "privacy_withheld": false
+}
