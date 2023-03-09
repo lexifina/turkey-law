@@ -1,0 +1,26 @@
+{
+  "kind": "norm",
+  "issuer": "Enerji Piyasası Düzenleme Kurumu",
+  "market": "petroleum",
+  "document_type": "board-decision",
+  "number": "11711",
+  "decision_date": "2023-03-09",
+  "title": "Petrol Ofisi A.Ş.’nin; PİL/476-260/10969 sayılı iletim lisansı kapsamında faaliyette bulunan Petrol Ofisi A.Ş. Kırıkkale Terminali İletim Tesisine ilişkin",
+  "resmi_gazete_date": "2023-03-11",
+  "resmi_gazete_number": "32129",
+  "categories": [
+    "İletim Tarifesi"
+  ],
+  "source": "https://www.epdk.gov.tr/Detay/DownloadDocument?id=j7nP3b3l1zw=",
+  "documents": [
+    "https://www.epdk.gov.tr/Detay/DownloadDocument?id=j7nP3b3l1zw=",
+    "https://www.epdk.gov.tr/Detay/DownloadDocument?id=IvrYQDbamKo="
+  ],
+  "source_sha256": "8e5a8d2c3c635e4bb32100a360d6ccf3ff7cdaa10d4c978e2e6850ce1e187cd7",
+  "official_list": "https://www.epdk.gov.tr/Detay/Icerik/3-0-100/kurul-kararlari",
+  "official_list_leaf": 5334,
+  "text_status": "as-enacted",
+  "text_file": "metin.md",
+  "in_force": "2023-03-09",
+  "law_text_complete": true
+}
