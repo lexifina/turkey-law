@@ -1,0 +1,15 @@
+{
+  "number": "İHK-2023/13674",
+  "award_date": "2023-03-10",
+  "heading_as_published": "10.03.2023 Tarihli 2023/İHK-13674 Sayılı İtiraz Hakem Heyeti Kararı",
+  "issue": "Hakem Karar Dergisi 53 Ocak - Mart 2023",
+  "source_url": "https://www.sigortatahkim.org/content/CmsFiles/karardrgs53.pdf",
+  "source_sha256": "60d4aa553cb0151ff7d23c69b29994fb4e52537131870571a5a17fe99658813c",
+  "text_status": "metadata-only",
+  "metadata_only_reason": "the two text extractions differ in letters/digits",
+  "source_images": 1,
+  "images_status": "issue contains images; award text taken from the text layer only",
+  "missing_components": [
+    "award text (see official issue PDF)"
+  ]
+}
