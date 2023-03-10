@@ -1,0 +1,20 @@
+{
+  "record_type": "gazette-item",
+  "gazette": "Resmî Gazete",
+  "jurisdiction": "TR",
+  "date": "2023-03-10",
+  "issue": "32128",
+  "edition": "regular",
+  "item": 11,
+  "section": "YÜRÜTME VE İDARE BÖLÜMÜ",
+  "heading": "TEBLİĞLER",
+  "title": "Türk Parası Kıymetini Koruma Hakkında 32 Sayılı Karara İlişkin Tebliğ (Tebliğ No: 2008-32/34)’de Değişiklik Yapılmasına Dair Tebliğ (No: 2023-32/68)",
+  "official_link": "https://www.resmigazete.gov.tr/eskiler/2023/03/20230310-11.htm",
+  "link_format": "htm",
+  "index_url": "https://www.resmigazete.gov.tr/eskiler/2023/03/20230310.htm",
+  "index_sha256": "e881654946ff01c20405995cc92e2cee920c470adcb9e6b556d2fc11b5fb4809",
+  "index_header": "10 Mart 2023 ... 32128 Sayılı Resmî Gazete",
+  "issue_pdf": "https://www.resmigazete.gov.tr/eskiler/2023/03/20230310.pdf",
+  "in_force_basis": "Resmî Gazete publication date; not a commencement reading.",
+  "text_status": "metadata-only; text not yet fetched (follow-up pass adds it as its own commit)"
+}
