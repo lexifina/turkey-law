@@ -1,0 +1,2 @@
+Esnaf ve sanatkârlar meslek kuruluşları ile kooperatiflerin ayni ve nakdi yardımı
+MADDE 5- (1) 5362 sayılı Kanun kapsamında faaliyet gösteren esnaf ve sanatkâr odaları, birlikleri, federasyonları ve Türkiye Esnaf ve Sanatkârları Konfederasyonu ile 24/4/1969 tarihli ve 1163 sayılı Kooperatifler Kanunu kapsamında faaliyet gösteren kooperatif ve üst kuruluşları, 6/2/2023 (bu tarih dâhil) tarihinden itibaren olağanüstü hal süresince, olağanüstü hal ilan edilen illerde yönetim kurulunca alınacak kararla ayni veya nakdi yardım yapabilir.

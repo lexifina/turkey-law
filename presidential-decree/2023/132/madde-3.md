@@ -1,0 +1,2 @@
+Sanayi siciline ilişkin sürelerin durması
+MADDE 3- (1) Olağanüstü hal ilan edilen illerde, 17/4/1957 tarihli ve 6948 sayılı Sanayi Sicili Kanununun 2 nci, 4 üncü ve 5 inci maddelerinde belirtilen süreler, 6/2/2023 (bu tarih dâhil) tarihinden itibaren bu Cumhurbaşkanlığı Kararnamesinin yürürlüğe girdiği tarih itibarıyla üç ay süreyle durur. Bu süreler, durma süresinin sona erdiği günü takip eden günden itibaren işlemeye başlar.
