@@ -1,0 +1,3 @@
+Geçiş hükümleri
+GEÇİCİ MADDE 1 – (1) Fonların bildirimlerinin KAP’a gönderilmesi uygulamasına 30/4/2013 tarihinde başlanacak olup, uygulamanın başlamasına kadar fonlara ilişkin duyuruların Türkiye çapında yayın yapan en az iki günlük gazetenin Türkiye baskısında ilan edilmesine devam edilir.
+(2) Fonların toplam gider kesintisi oranlarının Sistem Yönetmeliğinin Ek-2’sinde yer alan tablodaki fon toplam gider kesintisi oranı üst sınırları dikkate alınarak belirlenmesi, belirlenecek fon toplam gider kesintisi ve fon işletim gideri kesintisi oranlarının KAP’ta ve kurucunun resmi internet sitesinde ilan edilmesi ve yapılacak ilk içtüzük/izahname değişikliği başvurularına bu kapsamda yapılacak değişikliklerin de dahil edilmesi gerekmektedir.

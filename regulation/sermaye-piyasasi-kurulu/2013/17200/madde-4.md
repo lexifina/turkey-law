@@ -1,0 +1,22 @@
+Tanımlar
+MADDE 4 – (1) Bu Yönetmelikte geçen;
+a) Banka: Mevduat bankalarını ve katılım bankalarını,
+b) Borsa: 6/12/2012 tarihli ve 6362 sayılı Sermaye Piyasası Kanununun 3 üncü maddesinin birinci fıkrasının (ç) bendinde tanımlanan sistemler ve pazar yerleri ile yurt dışı borsalar ve borsa dışı teşkilatlanmış diğer piyasaları,
+c) Emeklilik yatırım fonu/Fon: Şirket tarafından emeklilik sözleşmesi çerçevesinde alınan ve katılımcılar adına bireysel emeklilik hesaplarında izlenen katkıların, riskin dağıtılması ve inançlı mülkiyet esaslarına göre işletilmesi amacıyla oluşturulan malvarlığını,
+ç) İzahname: Payları ihraç edilecek fonun özelliklerine ve buna bağlı hak ve risklere ilişkin olarak katılımcıların bilinçli bir değerlendirme yapmasını sağlayacak nitelikteki tüm bilgileri içeren kamuyu aydınlatma belgesini,
+d) Kanun: 28/3/2001 tarihli ve 4632 sayılı Bireysel Emeklilik Tasarruf ve Yatırım Sistemi Kanununu,
+e) KAP: Kamuyu Aydınlatma Platformunu,
+f) Katılımcı: Emeklilik sözleşmesine göre ad ve hesabına şirket nezdinde bireysel emeklilik hesabı açılan fiil ehliyetine sahip gerçek kişiyi,
+g) Kurul: Sermaye Piyasası Kurulunu,
+ğ) Müsteşarlık: Hazine Müsteşarlığını,
+h) Net varlık değeri: Portföy değerine, nakit ile fon alacaklarının eklenmesi ve fon borçlarının düşülmesi suretiyle bulunan toplam değeri,
+ı) Portföy: Fonda yer alan para ve sermaye piyasası araçları, kıymetli madenler ile Kurulca belirlenen diğer yatırım araçlarından oluşan varlıkların tümünü,
+i) Portföy değeri: Fon portföyündeki varlıkların bu Yönetmelikteki esaslar çerçevesinde değerlenmesi neticesinde bulunan değeri,
+j) Portföy yöneticisi: Kuruldan portföy yöneticiliği yetki belgesi almış ve Kurulca uygun görülen portföy yönetim şirketini,
+k) Saklayıcı: Fon portföyündeki varlıkların saklandığı ve Kurulca uygun görülen saklama kuruluşunu,
+l) Sistem Yönetmeliği: 9/11/2012 tarihli ve 28462 sayılı Resmî Gazete’de yayımlanan Bireysel Emeklilik Sistemi Hakkında Yönetmeliği,
+m) Şirket: Kanuna göre kurulan emeklilik şirketini,
+n) Takasbank: İMKB Takas ve Saklama Bankası Anonim Şirketini,
+o) TCMB: Türkiye Cumhuriyet Merkez Bankası Anonim Şirketini,
+ö) TTSG: Türkiye Ticaret Sicili Gazetesini,
+ifade eder.

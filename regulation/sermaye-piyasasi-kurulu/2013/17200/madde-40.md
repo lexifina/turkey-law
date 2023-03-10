@@ -1,0 +1,4 @@
+Kayda alma ücreti
+MADDE 40 – (1) Takvim yılı esas alınarak üçer aylık dönemlerin son iş gününde fonun net varlık değeri üzerinden yüzbinde üç oranında hesaplanacak kayda alma ücreti izleyen on iş günü içerisinde Kurul özel hesabına yatırılarak ilgili dekontların ve hesaplama tablosunun bir örneği Kurula iletilir. (Ek cümle:RG-23/12/2020-31343) Borsa İstanbul A.Ş. tarafından hesaplanan BIST Sınai Endeksini takip etmek üzere kurulan endeks fonlar ile aynı endekste yer alan ihraççıların ihraç ettiği sermaye piyasası araçlarına yatırım yapan ve unvanında sanayi sektörü ibaresine yer verilen fonlar için birinci cümlede belirtilen oran yüzbinde sıfır olarak uygulanır.
+(2) Fonun ilgili hesaplama dönemi içerisinde fon paylarını halka arz etmesi durumunda, fon paylarının satışa sunulmuş olduğu günlerin ilgili üç aylık dönemdeki gün sayısına oranı dikkate alınarak kayda alma ücreti hesaplanır.
+(3) Fonların birleşmesi ve dönüşümü durumunda ayrıca bir ücret alınmaz.

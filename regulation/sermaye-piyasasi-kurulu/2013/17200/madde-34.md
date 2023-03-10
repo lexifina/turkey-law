@@ -1,0 +1,3 @@
+Fonun tanıtımına yönelik belgeler
+MADDE 34 – (1) Katılımcının emeklilik planı kapsamında yer alan fonlara katılımından önce kendisine, izahnamedeki bilgilerin özet olarak yer aldığı ve katılımcının yatırım kararı vermesine yardımcı olacak tanıtım formu verilmesi zorunludur. İzahnamenin şirketin merkezi, bölge müdürlükleri, şubeleri, temsilcilikleri ve internet sitesinde güncellenmiş olarak katılımcıların incelemesi amacıyla bulundurulması zorunludur.
+(2) (Değişik:RG-10/3/2023-32128) İzahnamenin ve tanıtım formunun katılımcıların anlayabileceği açıklıkta ve okunaklı bir şekilde yazılması zorunludur.

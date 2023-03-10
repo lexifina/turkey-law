@@ -1,0 +1,2 @@
+Fon kuruluş izni ve içtüzüğün tescili
+MADDE 9 – (1) Başvurunun Kurulca uygun görülmesi sonucunda, fon içtüzüğü Kurulca verilen kuruluş izin yazısının şirket tarafından tebellüğ edildiği tarihi izleyen altı iş günü içinde şirket merkezinin bulunduğu yerin ticaret siciline tescil ve TTSG ile KAP’ta ilan edilir. TTSG ilanı takip eden altı iş günü içerisinde Kurula gönderilir. Fon içtüzüğünün tescili ile birlikte kuruluş işlemleri tamamlanmış sayılır.

@@ -1,0 +1,2 @@
+Saklayıcı ve fon portföyündeki varlıkların saklanması
+MADDE 28 – (1) Takasbank’ın saklama hizmeti verdiği para ve sermaye piyasası araçları, kıymetli madenler ile diğer varlıklar fon adına Takasbank nezdinde saklanır. Bunun dışında kalan varlıkların saklanması konusunda, Takasbank’a dışarıda saklanan varlıklar ve bunların değerleri konusunda gerekli bilgilerin aktarılması veya erişimine olanak tanınması ve fon içtüzüğünde saklayıcı kuruluşa yer verilmesi koşulu ile bir başka saklayıcıdan saklama hizmeti alınabilir.
