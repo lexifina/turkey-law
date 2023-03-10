@@ -1,0 +1,4 @@
+BİRİNCİ BÖLÜM
+Başlangıç Hükümleri
+Amaç ve kapsam
+MADDE 1- (1) Bu Tebliğin amacı; 127 sayılı Olağanüstü Hal Kapsamında Kamu Alımları, Alacakları ve Sosyal Tesislerine İlişkin Bazı Tedbirlerin Alınması Hakkında Cumhurbaşkanlığı Kararnamesinin 8 inci maddesinin birinci fıkrasının (a) bendi kapsamında; 6/2/2023 tarihinde yaşanan depremler nedeniyle genel hayata etkili afet bölgesi olarak kabul edilen Adana, Adıyaman, Diyarbakır, Elazığ, Gaziantep, Hatay, Kahramanmaraş, Kilis, Malatya, Osmaniye ve Şanlıurfa İlleri ile Sivas İlinin Gürün İlçesindeki Hazine taşınmazlarına ilişkin olarak olağanüstü hal süresince sözleşmeye istinaden tahsil edilmesi gereken satış, ön izin, irtifak hakkı, kullanma izni, kira bedelleri, hasılat payları ve benzeri bedeller ile ecrimisillerin olağanüstü hal süresince ertelenmesine ilişkin usul ve esasları belirlemektir.
