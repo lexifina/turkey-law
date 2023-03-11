@@ -1,0 +1,17 @@
+{
+  "issuer": "Yüksek Seçim Kurulu",
+  "document_type": "decision",
+  "number": "2023/memuristifatarihi2023-91",
+  "list_number": "91",
+  "decision_date": "2023-03-11",
+  "title": "Cumhurbaşkanı Seçimi ve 28. Dönem Milletvekili Genel Seçiminde milletvekili adayı olabilmek için kanun gereği çekilmesi veya görevlerinden ayrılması gerekenlerin çekilme veya görevlerinden ayrılma isteğinde bulunma tarihlerinin belirlenmesine ilişkin Yüksek Seçim Kurulunun 2023/91 sayılı kararı",
+  "official_document": "https://www.ysk.gov.tr/doc/karar/dosya/82464/MemurIstifaTarihi2023-91.pdf",
+  "source_sha256": "8557da246e230d3bf92a7ad6e4f3e07e32a35d3dfed18292a5b5fb407e4bf6ce",
+  "official_list": "https://www.ysk.gov.tr/doc/karar/kararlar.txt",
+  "official_list_sha256": "0733001df8fd09fa2f4155954da343809b59b823ecd8d57ad2e679c4264f5a84",
+  "pdf_pages": 3,
+  "text_status": "metadata-only",
+  "metadata_only_reason": "the two text extractions (PyMuPDF / pdftotext) differ",
+  "in_force": "2023-03-11",
+  "law_text_complete": false
+}
