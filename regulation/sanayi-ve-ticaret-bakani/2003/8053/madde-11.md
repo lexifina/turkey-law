@@ -1,0 +1,1 @@
+Madde 11- Tüketicilerin yanılmalarına sebep olabilecek, bu Yönetmelik hükümlerine uymayan yakıt tüketimi ve/veya CO2 emisyonuna ait başka işaret, sembol veya tesciller yeni binek otomobillerinin etiket, kılavuz, poster veya promosyon literatürlerinde ve materyaller üzerinde yer almamalıdır.

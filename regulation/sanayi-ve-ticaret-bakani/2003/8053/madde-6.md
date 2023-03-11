@@ -1,0 +1,1 @@
+Madde 6- İmalatçı; satacağı, promosyonunu yapacağı, kiralayacağı, taksitli satışa sunacağı veya nihai kullanıcıya tedarik edeceği bu Yönetmelik kapsamı otomobillerle ilgili etiketlerde, tüketicilerin bilgilenmesini teminen, yakıt ekonomisi ve CO2 emisyon verilerini belirtir.

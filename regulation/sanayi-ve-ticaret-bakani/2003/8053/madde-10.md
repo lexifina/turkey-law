@@ -1,0 +1,1 @@
+Madde 10- Bakanlık, imalatçıların görüşlerini de alarak Ek-II’deki şartlar gereğince asgari birer yıllık dönemler halinde yakıt ekonomisi ve CO2 emisyonu ile ilgili bir kılavuz hazırlayacaktır. Tüketiciler bu kılavuzu satış noktalarından ve Bakanlıktan ücretsiz olarak temin edebileceklerdir.

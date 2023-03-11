@@ -1,0 +1,2 @@
+Madde 8- Tüm binek otomobil modelleri satışa veya kiraya sunulurken veya sergilenirken veya satış noktası üzerinde iken her bir otomobil markası için, resmi yakıt tüketim verileri ve resmi spesifik CO2 verileri Ek-III’teki format uyarınca göze çarpacak şekilde poster/gösterimle sergilenmelidir.
+Ayrıca imalatçı, Ek-IV’teki şartlar gereğince otomobil modellerinin resmi yakıt tüketim ve resmi spesifik CO2 verilerini ihtiva eden tüm promosyon literatürünü ve farklı promosyon materyallerini sağlamalıdır.
