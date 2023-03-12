@@ -1,0 +1,4 @@
+Bölgesel kalkınma alanında alınan tedbirler
+MADDE 2- (1) Olağanüstü hal ilan edilen illerde bulunan kalkınma ajanslarının yönetim kurulu toplantıları üç ay süreyle yapılmayabilir. Yönetim kurullarının toplanamadığı sürede, Sanayi ve Teknoloji Bakanlığı tarafından belirlenen yönetim kurulu yetkileri genel sekreter tarafından kullanılır.
+(2) Sanayi ve Teknoloji Bakanlığı, bölge kalkınma idareleri ve olağanüstü hal ilan edilen iller dışında bulunan kalkınma ajansları, olağanüstü hal ilan edilen illerde ekonomik ve sosyal kalkınma alanında ihya faaliyetlerine destek olmak amacıyla destek programları uygulayabilir. Bu programlara ilişkin usul ve esaslar Sanayi ve Teknoloji Bakanlığı tarafından belirlenir.
+(3) Kalkınma ajansları, olağanüstü hal ilan edilen iller yararına ve olağanüstü hal süresince taşınmazlar hariç kiralama ve satın alma yapabilir.

@@ -1,0 +1,2 @@
+Cazibe Merkezleri Programı kapsamında alınan tedbir
+MADDE 4- (1) 6/2/2023 tarihinde meydana gelen depremler dolayısıyla genel hayata etkili afet bölgesi olarak kabul edilen yerlerden Cumhurbaşkanınca belirlenecek il ve ilçelerde gerçekleştirilecek yatırımlara yönelik yatırım teşvik belgesi düzenlenebilmesi için yapılacak başvurularda, 29/1/2004 tarihli ve 5084 sayılı Yatırımların ve İstihdamın Teşviki ile Bazı Kanunlarda Değişiklik Yapılması Hakkında Kanunun ek 1 inci maddesinde belirtilen Değerlendirme Komitesinin kararı aranmaz.

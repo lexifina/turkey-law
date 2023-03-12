@@ -1,0 +1,6 @@
+Yatırım teşvik belgeli bazı yatırımların tamamlanmış sayılması
+MADDE 3- (1) 6/2/2023 tarihinde meydana gelen depremler dolayısıyla genel hayata etkili afet bölgesi olarak kabul edilen yerlerde yapılmakta olan yatırımlar için genel teşvik uygulamaları kapsamında düzenlenen ve 6/2/2023 tarihi itibarıyla;
+a) Yatırım süresi biten ve tamamlama vizesi yapılmamış yatırım teşvik belgeleri talep alınmaksızın,
+b) Yatırım süresi devam eden yatırım teşvik belgeleri ise bu Cumhurbaşkanlığı Kararnamesinin yürürlüğe girdiği tarihten itibaren üç ay içinde talep edilmesi halinde,
+yatırım teşvik belgesindeki kayıt ve şartlar aranmaksızın mevcut haliyle tamamlanmış sayılır.
+(2) 6/2/2023 tarihinde meydana gelen depremler dolayısıyla genel hayata etkili afet bölgesi olarak kabul edilen yerlerde yapılmakta olan yatırımlar için bölgesel, büyük ölçekli ve stratejik teşvik uygulamalarına istinaden düzenlenen ve 6/2/2023 tarihi itibarıyla tamamlama vizesi yapılmamış yatırım teşvik belgeleri, bu Cumhurbaşkanlığı Kararnamesinin yürürlüğe girdiği tarihten itibaren üç ay içinde talep edilmesi halinde, yatırım teşvik belgesinde kayıtlı desteklerin durdurulması ve yararlanılan desteklerin geri alınmaması suretiyle yatırım teşvik belgesindeki kayıt ve koşullar aranmaksızın mevcut haliyle tamamlanmış sayılır.
