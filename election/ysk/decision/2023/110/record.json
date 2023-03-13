@@ -1,0 +1,17 @@
+{
+  "issuer": "Yüksek Seçim Kurulu",
+  "document_type": "decision",
+  "number": "2023/110",
+  "list_number": "110",
+  "decision_date": "2023-03-13",
+  "title": "Yüksek Seçim Kurulunun 13/03/2023 Tarihli ve 2023/110 Sayılı Kararı",
+  "official_document": "https://www.ysk.gov.tr/doc/karar/dosya/82488/2023-110.pdf",
+  "source_sha256": "240abfc2f7468be0575cd439cb397106f9b45f22bb73f6dba0ed65cf364e08aa",
+  "official_list": "https://www.ysk.gov.tr/doc/karar/kararlar.txt",
+  "official_list_sha256": "0733001df8fd09fa2f4155954da343809b59b823ecd8d57ad2e679c4264f5a84",
+  "pdf_pages": 6,
+  "text_status": "metadata-only",
+  "metadata_only_reason": "the two text extractions (PyMuPDF / pdftotext) differ",
+  "in_force": "2023-03-13",
+  "law_text_complete": false
+}
