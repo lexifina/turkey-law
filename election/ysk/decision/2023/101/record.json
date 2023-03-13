@@ -1,0 +1,17 @@
+{
+  "issuer": "Yüksek Seçim Kurulu",
+  "document_type": "decision",
+  "number": "2023/101",
+  "list_number": "101",
+  "decision_date": "2023-03-13",
+  "title": "Yüksek Seçim Kurulunun 13/03/2023 Tarihli ve 2023/101 Sayılı Kararı ve Eki 140/II Sayılı Genelge Yurt Dışı Seçmen Kütüğünün Güncelleştirilmesi Usul ve Esasları",
+  "official_document": "https://www.ysk.gov.tr/doc/karar/dosya/82482/2023-101.pdf",
+  "source_sha256": "0cfc013c5f5ca2a834a3b06fa458d368ead75073c2daca5a9b6a4f9993a7e63f",
+  "official_list": "https://www.ysk.gov.tr/doc/karar/kararlar.txt",
+  "official_list_sha256": "0733001df8fd09fa2f4155954da343809b59b823ecd8d57ad2e679c4264f5a84",
+  "pdf_pages": 7,
+  "text_status": "metadata-only",
+  "metadata_only_reason": "the two text extractions (PyMuPDF / pdftotext) differ",
+  "in_force": "2023-03-13",
+  "law_text_complete": false
+}
