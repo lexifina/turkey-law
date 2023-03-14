@@ -1,0 +1,22 @@
+{
+  "kind": "norm",
+  "issuer": "Gelir İdaresi Başkanlığı",
+  "document_type": "ozelge",
+  "number": "85620172-130-8150",
+  "source_id": 25300,
+  "date": "2023-03-14",
+  "title": "Tarım Danışmanlığında KDV mükellefiyeti ve iç yüzde yöntemiyle hesaplama Hk.",
+  "source": "https://gib.gov.tr/mevzuat/kanun/436/ozelge/25300",
+  "related_law": "3065 sayılı KATMA DEĞER VERGİSİ KANUNU",
+  "source_api": "https://gib.gov.tr/api/gibportal/mevzuat/ozelge/list",
+  "source_listing": "evidence/list/2026-11-16/ozelge-p002.json",
+  "source_listing_sha256": "1127433fae2c3b98eacb69dfeeab0d176134351c27ed181b09d755413ef94f48",
+  "source_sha256": "7507f40725627843c0bb3bf386c08d6efbe324c85fa0817f3ccd31e19f1f896a",
+  "text_status": "as-enacted",
+  "text_file": "metin.md",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  }
+}
