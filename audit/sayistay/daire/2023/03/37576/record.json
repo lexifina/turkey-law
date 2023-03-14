@@ -1,0 +1,17 @@
+{
+  "kind": "decision",
+  "issuer": "Sayıştay 4. Dairesi",
+  "number": "300",
+  "decision_date": "2023-03-14",
+  "source_id": 37576,
+  "chamber": "4",
+  "ilam_number": "138",
+  "item_number": 22,
+  "public_body_type": "Yüksek Öğretim Kurumları",
+  "account_year": 2021,
+  "subject": "Vergi Resmi Harç ve Diğer Gelirlerle İlgili Kararlar",
+  "source": "https://www.sayistay.gov.tr/KararlarDaire/Detay/37576/",
+  "source_sha256": "d989a77d57dc1301310b39f80ccff653bf26ff3f625fe9f905d938e6cf21ff88",
+  "text_status": "as-enacted",
+  "text_file": "metin.md"
+}
