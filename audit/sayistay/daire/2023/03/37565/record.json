@@ -1,0 +1,17 @@
+{
+  "kind": "decision",
+  "issuer": "Sayıştay 4. Dairesi",
+  "number": "300",
+  "decision_date": "2023-03-14",
+  "source_id": 37565,
+  "chamber": "4",
+  "ilam_number": "138",
+  "item_number": 11,
+  "public_body_type": "Yüksek Öğretim Kurumları",
+  "account_year": 2021,
+  "subject": "Personel Mevzuatı ile İlgili Kararlar",
+  "source": "https://www.sayistay.gov.tr/KararlarDaire/Detay/37565/",
+  "source_sha256": "1a3abe366135e74825e3c17419e67b4e06abdb2089a7875b25e27fb7657eaa53",
+  "text_status": "as-enacted",
+  "text_file": "metin.md"
+}
