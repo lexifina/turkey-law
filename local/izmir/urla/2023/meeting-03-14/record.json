@@ -1,0 +1,24 @@
+{
+  "number": "meeting-03-14",
+  "number_as_published": "meeting-03-14",
+  "year": 2023,
+  "title": "14 Mart Olağanüstü Meclis Kararları",
+  "decision_date": "2023-03-14",
+  "source": "https://www.urla.bel.tr/ListeSayfa/4606/mart-ayi-meclis-kararlari",
+  "official_document": "https://www.urla.bel.tr/Sayfa/4609/14-mart-olaganustu-meclis-kararlari",
+  "source_sha256": "22f803025c38f9c137aca1d1d20e5150172a001cbed70f22187797833f80076f",
+  "issuer": "Urla Belediye Meclisi",
+  "history_type": "metadata",
+  "text_status": "metadata-only: listing fields as published; complete decision text is in the linked official document, not transcribed",
+  "in_force": "2023-03-14",
+  "in_force_basis": "Decision date as printed in the official council listing: 14 Mart Olağanüstü Meclis Kararları (year 2023 from the official year list '2023 Meclis Kararları'); adoption date of the council decision; legal commencement not asserted",
+  "missing": [
+    "complete official decision text",
+    "official annexes"
+  ],
+  "law_text_complete": false,
+  "privacy_withheld": false,
+  "month_list": "Mart Ayı Meclis Kararları",
+  "official_page": "https://www.urla.bel.tr/Sayfa/4609/14-mart-olaganustu-meclis-kararlari",
+  "record_scope": "one council meeting page (its decisions are on the linked official page; not transcribed)"
+}
