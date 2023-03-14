@@ -1,0 +1,17 @@
+{
+  "kind": "decision",
+  "issuer": "Sayıştay 4. Dairesi",
+  "number": "300",
+  "decision_date": "2023-03-14",
+  "source_id": 37573,
+  "chamber": "4",
+  "ilam_number": "138",
+  "item_number": 19,
+  "public_body_type": "Yüksek Öğretim Kurumları",
+  "account_year": 2021,
+  "subject": "Çeşitli Konuları İlgilendiren Kararlar",
+  "source": "https://www.sayistay.gov.tr/KararlarDaire/Detay/37573/",
+  "source_sha256": "72fddc9353fa389edc1c490729d31888148ede856293ca157209acfcb8e00a50",
+  "text_status": "metadata-only",
+  "metadata_only_reason": "possible personal name in the official text"
+}
