@@ -1,0 +1,3 @@
+Mevcut sıralamadaki kuruluşların durumu
+GEÇİCİ MADDE 4- (Ek:RG-14/3/2023-32132)
+(1) Bu fıkranın yayımı tarihinden önce sıralamaya girmek üzere başvuru yapanlardan sıralamaya girmeye engeli bulunmayan, sıralamaya girmiş ve halen sıralamada olan kuruluşlardan bu fıkranın yayımı tarihi itibarıyla 7 nci maddenin birinci fıkrasının (e) bendi kapsamında kalan kuruluşlara, bir kereye mahsus durumunu düzeltmesi için 6 ncı maddenin birinci fıkrası hükümleri kapsamında tebligat yapılır ve otuz gün süre verilir. Bu süre içerisinde uygun hale getirilen kuruluşların sıralamadaki yeri korunur, getirilmeyenler ise sıralamadan çıkarılır.

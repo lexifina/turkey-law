@@ -1,0 +1,2 @@
+Müktesep haklar
+GEÇİCİ MADDE 2 – (1) Yönetmeliğin yürürlük tarihinden önce Yönetmeliğin 6 ncı maddesinin altıncı fıkrasında belirtilen şartlarda Bakanlığımıza yazılı başvuru yapmış kuruluşların değerlendirilmesine, Yönetmeliğin 14 üncü maddesinde belirtilen teminat bedelinin yatırılması kaydı ile o il için belirlenen laboratuvar sayısına bakılmaksızın devam edilerek laboratuvar kuruluşuna izin belgesi verilir.
