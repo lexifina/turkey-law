@@ -1,0 +1,16 @@
+{
+  "kind": "decision",
+  "issuer": "Sayıştay Temyiz Kurulu",
+  "number": "54566",
+  "decision_date": "2023-03-15",
+  "source_id": 26887,
+  "chamber": "8",
+  "file_number": "49376",
+  "public_body_type": "Belediyeler ve Bağlı İdareler",
+  "account_year": "2019",
+  "subject": "İş Mevzuatı ile İlgili Kararlar",
+  "source": "https://www.sayistay.gov.tr/KararlarTemyiz/Detay/26887/",
+  "source_sha256": "3b0e85d2871869d0ae88fcdf8ad4e6431b896eb930ef2ce653fabcae7e045b30",
+  "text_status": "as-enacted",
+  "text_file": "metin.md"
+}
