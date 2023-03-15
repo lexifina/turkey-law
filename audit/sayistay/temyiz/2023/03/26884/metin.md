@@ -1,0 +1,5 @@
+Belediye başkanının tanıtım giderlerinin belediye bütçesinden karşılanması.
+
+1- 55 sayılı İlamın 6 ncı maddesiyle verilen … TL’nin tazminine dair hüküm, sorumlulukta Üst Yönetici sıfatı ile iştiraki bulunan …’ın başvurusu üzerine düzenlenen 15.03.2023 tarihli ve 54563 tutanak sayılı Temyiz Kurulu İlamının 2 nci maddesi ile; belediye tarafından tanıtıma ilişkin yapılan harcamaların bir kısmının kamu zararı olduğu, bir kısmının ise mevzuata uygun olduğu ve kamu zararı oluşmadığına ilişkin olarak belirtilen hususların tekrar değerlendirilmesini teminen 6085 sayılı Sayıştay Kanunu’nun 55 inci maddesinin yedinci fıkrası uyarınca tazmin hükmünün bozulması suretiyle Dairesine gönderildiğinden; sorumlunun işbu madde ile ilgili itirazı üzerine Kurulumuzca YAPILACAK İŞLEM OLMADIĞINA, ancak aynı mahiyette olan 49377 sayılı işbu dosyanın da sözü edilen (49393 sayılı) dosya ile BİRLEŞTİRİLEREK gereği yapılmak üzere hükmü veren DAİREYE GÖNDERİLMESİNE, oy birliğiyle,
+
+Karar verildiği 15.03.2023 tarih ve 54565 sayılı tutanakta yazılı olmakla işbu ilam tanzim kılındı.
