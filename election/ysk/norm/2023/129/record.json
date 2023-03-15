@@ -1,0 +1,18 @@
+{
+  "issuer": "Yüksek Seçim Kurulu",
+  "document_type": "genelge",
+  "number": "2023/129",
+  "list_number": "129",
+  "genelge_number": "135",
+  "decision_date": "2023-03-15",
+  "title": "Yüksek Seçim Kurulunun 15/03/2023 Tarihli ve 2023/129 Sayılı Kararı ve Eki Sandık Kurullarının Oluşumu, Görev ve Yetkilerini Gösterir 135 Sayılı Genelge",
+  "official_document": "https://www.ysk.gov.tr/doc/genelge/dosya/2309711/2023-129.pdf",
+  "source_sha256": "7632ba784aa34e248f0c8b1c8db1ba1fd47bb164f7a8e3996eddcd17d9cb2a67",
+  "official_list": "https://www.ysk.gov.tr/doc/genelge/genelgeler.txt",
+  "official_list_sha256": "e2e17901e83bc662251224ba5740d2e1142eb68c36a2e83c237cad070c4903d6",
+  "pdf_pages": 27,
+  "text_status": "metadata-only",
+  "metadata_only_reason": "the two text extractions (PyMuPDF / pdftotext) differ",
+  "in_force": "2023-03-15",
+  "law_text_complete": false
+}
