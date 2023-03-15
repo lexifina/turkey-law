@@ -1,0 +1,17 @@
+{
+  "issuer": "Yüksek Seçim Kurulu",
+  "document_type": "decision",
+  "number": "2023/131",
+  "list_number": "131",
+  "decision_date": "2023-03-15",
+  "title": "Yüksek Seçim Kurulunun 15/03/2023 Tarihli ve 2023/131 Sayılı Kararı ve Eki Seyyar Sandık Kurullarının Oluşumu ile Görev ve Yetkilerini Gösterir 135/II Sayılı Genelge",
+  "official_document": "https://www.ysk.gov.tr/doc/karar/dosya/82527/2023-131.pdf",
+  "source_sha256": "60131bc7a2fe09d402f82aebda42edf86d041aca8db61f6711c1b66f0397b5d5",
+  "official_list": "https://www.ysk.gov.tr/doc/karar/kararlar.txt",
+  "official_list_sha256": "0733001df8fd09fa2f4155954da343809b59b823ecd8d57ad2e679c4264f5a84",
+  "pdf_pages": 11,
+  "text_status": "metadata-only",
+  "metadata_only_reason": "the two text extractions (PyMuPDF / pdftotext) differ",
+  "in_force": "2023-03-15",
+  "law_text_complete": false
+}
