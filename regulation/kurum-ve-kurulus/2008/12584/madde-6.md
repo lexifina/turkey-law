@@ -1,0 +1,2 @@
+Planlara ve programlara uygunluk
+MADDE 6 – (1) Ajanslar tarafından bu Yönetmelik çerçevesinde sağlanacak desteklere ilişkin ilke ve kurallar; ulusal plan ve stratejiler, bölge plan ve programları ile ajansın yıllık çalışma programında belirtilen öncelikler doğrultusunda oluşturulur. Ajans, başvuru şartlarının tayininde ve başvuru rehberinin hazırlığında başta (Değişik ibare:RG-16/11/2011-28114) Bakanlık olmak üzere, ilgili kurum ve kuruluşlarla işbirliği içinde çalışır.

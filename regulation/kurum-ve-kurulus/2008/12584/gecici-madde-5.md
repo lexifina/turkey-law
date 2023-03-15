@@ -1,0 +1,3 @@
+Destek süreçlerinde olağanüstü hal sebebiyle yapılacak düzenlemeler
+GEÇİCİ MADDE 5- (Ek:RG-15/3/2023-32133)(6)
+(1) Olağanüstü hal ile genel hayata etkili afet bölgesi ilan edilen illerde bulunan kalkınma ajansları tarafından bu Yönetmelik çerçevesinde yürütülen destek süreçlerinde; ilan ve başvuru dönemleri ile değerlendirme süreçlerine ilişkin düzenlemelerin yapılması, sözleşme değişikliklerinin gerçekleştirilmesi, destek oranlarının artırılması, eş finansman yükümlülüklerinin değiştirilmesi, desteğin durdurulması ve iptali ile sözleşmenin feshi hususlarında olağanüstü halin gerektirdiği koşullarda uygulamaya ilişkin değişiklik yapma yetkisi bir yıl süre ile Bakanlık tarafından kullanılabilir.

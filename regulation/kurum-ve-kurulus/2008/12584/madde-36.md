@@ -1,0 +1,4 @@
+Ara ve nihai raporlar
+MADDE 36 – (1) Yararlanıcı, projede kaydedilen ilerleme ve sözleşme yükümlülüklerinin yerine getirilmesi hususlarını ajansa ara raporlar ile beyan eder. Ajans bu raporlara dayanarak ödeme talebini inceler ve yapacağı değerlendirme neticesinde ortaya çıkan proje uygun maliyetlerini esas alarak ara ödeme miktarını belirler. Yararlanıcının ara ödemelere esas olmak üzere, uygulamaya ve harcamalara ait destekleyici belgelerle birlikte, teknik ve mali bölümlerden oluşan ara dönem raporunu sunma yükümlülüğü sözleşmede açıkça belirtilir.
+(2) (Mülga:RG-14/3/2020-31068)(5)
+(3) Nihai rapor, proje uygulama süresinin bitimini müteakip en geç otuz gün içinde yararlanıcı tarafından Ajansa sunulur. Ajans nihai raporu en geç otuz gün içerisinde değerlendirerek ve gerektiğinde eksiklikleri tamamlatarak nihai ödemeyi onaylar.
