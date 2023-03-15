@@ -1,0 +1,2 @@
+Geçiş hükümleri
+GEÇİCİ MADDE 1 – (1) 16/4/2020 tarihli ve 7244 sayılı Yeni Koronavirüs (Covid-19) Salgınının Ekonomik ve Sosyal Hayata Etkilerinin Azaltılması Hakkında Kanun ile Bazı Kanunlarda Değişiklik Yapılmasına Dair Kanunun 14 üncü maddesinin yürürlüğe girdiği 17/4/2020 tarihinden önce fahiş fiyat artışı uygulamaları hakkında Bakanlığa yapılan başvurular, 7/11/2013 tarihli ve 6502 sayılı Tüketicinin Korunması Hakkında Kanun ve ikincil mevzuatı kapsamında Reklam Kurulu tarafından sonuçlandırılır.
