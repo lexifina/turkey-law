@@ -1,0 +1,17 @@
+{
+  "kind": "decision",
+  "issuer": "Sayıştay 5. Dairesi",
+  "number": "591",
+  "decision_date": "2023-03-16",
+  "source_id": 37854,
+  "chamber": "5",
+  "ilam_number": "150",
+  "item_number": 22,
+  "public_body_type": "Belediyeler ve Bağlı İdareler",
+  "account_year": 2021,
+  "subject": "Personel Mevzuatı ile İlgili Kararlar",
+  "source": "https://www.sayistay.gov.tr/KararlarDaire/Detay/37854/",
+  "source_sha256": "6cb8eeefbca5d716042c77aff328b74873847e62b8fc2cbb3a76a637c574516e",
+  "text_status": "as-enacted",
+  "text_file": "metin.md"
+}
