@@ -1,0 +1,16 @@
+{
+  "kind": "decision",
+  "issuer": "Sayıştay 5. Dairesi",
+  "number": "591",
+  "decision_date": "2023-03-16",
+  "source_id": 37850,
+  "chamber": "5",
+  "ilam_number": "150",
+  "item_number": 18,
+  "account_year": 2021,
+  "subject": "Çeşitli Konuları İlgilendiren Kararlar",
+  "source": "https://www.sayistay.gov.tr/KararlarDaire/Detay/37850/",
+  "source_sha256": "ccc4bd4dc58ff40cf2a0d0a6781b960715f849e2be63d835f8aa2cd2bef5f54c",
+  "text_status": "as-enacted",
+  "text_file": "metin.md"
+}
