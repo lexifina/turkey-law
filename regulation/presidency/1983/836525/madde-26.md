@@ -1,0 +1,2 @@
+Başvurma Şekilleri
+Madde 26 – Hizmet bölgesinde zorunlu çalışma süresini tamamlamış memurlar ile sürelerini tamamlamamış olmalarına rağmen 12 nci maddede belirtilen mazeretlerini belgeleyenler, ekli (2) sayılı "Yer Değiştirme Sureti ile Atanma İstek Formu"nu doldurarak disiplin amirleri kanalı ile atamaya yetkili amire gönderirler. Bu formda atanmak istedikleri hizmet alanlarının belirtilmesi zorunlundur. Hizmet bölgesinde zorunlu çalışma süresini tamamlayanlar için başvuru zamanı kurumlarca belirlenir.[20]

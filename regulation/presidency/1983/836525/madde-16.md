@@ -1,0 +1,3 @@
+Zorunlu Çalışma Süresinin Doldurulması
+Madde 16 – Memurun bulunduğu hizmet bölgesinde zorunlu çalışma süresini doldurmasına rağmen, atanacağı bölgede kadro bulunmaması nedeniyle atamanın yapılamaması hallerinde, bulunduğu hizmet bölgesinde zorunlu çalışma süresinden fazla geçen süreler, (1. Bölge hariç) bir üst bölgedeki zorunlu çalışma süresinden indirilir.
+Aynı bölgede zorunlu çalışma süresini doldurmaları nedeni ile yer değiştirmesi gerekli bulunanlardan, emekli aylığı bağlanma şartlarını bir sonraki yıl kazanacak olanlar, emekli olacaklarına dair en geç Nisan ayı içinde talepte bulunmaları ve idari yönden bir sakınca görülmemesi halinde emekli olacakları tarihe kadar bulundukları hizmet alanında bırakılırlar.

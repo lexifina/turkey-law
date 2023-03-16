@@ -1,0 +1,1 @@
+Geçici Madde 4 - (Ek: 17/3/2004-2004/7040 K.) Milli Eğitim Bakanlığının il ve ilçe milli eğitim müdürleri haricindeki personelinin 2004 Yılı sonuna kadar yapılacak atamalarında, bu Yönetmeliğin 15 inci maddesinin birinci fıkrasının (a) bendi ile Ek-1 inci maddesi hükümleri uygulanmaz.

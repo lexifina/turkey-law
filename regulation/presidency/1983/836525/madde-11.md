@@ -1,0 +1,5 @@
+Hizmetin Gereği Olarak Yapılabilecek Yer Değiştirmeler
+Madde 11 – (Değişik: 30/6/2014-2014/6578 K.)[6][7][8][9][10]
+Haklarında adli veya idari bir soruşturma yapılmış ve bu soruşturma sonucunda o yerde kalmasında sakınca görülmüş olan memurun hizmet bölgelerindeki ve/veya hizmet alanlarındaki zorunlu çalışma sürelerini tamamlamadan ve yer değiştirme suretiyle atanma dönemi beklenmeksizin hizmetin gereği olarak yer değiştirme suretiyle ataması yapılabilir.
+Hizmet gereği yer değişikliği yapılan memurun ayrıldığı hizmet bölgesindeki eksik hizmetleri aynı hizmet bölgesi içindeki başka bir hizmet alanında tamamlattırılır. Memurun görev yaptığı hizmet bölgesinde ihtiyaç bulunmaması halinde diğer hizmet bölgelerine de ataması yapılabilir. Bu şekilde ataması yapılan memurun ayrıldığı hizmet bölgesindeki eksik hizmetleri daha sonra tamamlattırılır.
+Hizmet gereği başka bir hizmet alanına veya bölgesine atanan memurlar, kurumların özel yönetmeliklerinde belirlenecek istisnalar dışında ayrıldığı hizmet alanına yeniden atanamaz.678910

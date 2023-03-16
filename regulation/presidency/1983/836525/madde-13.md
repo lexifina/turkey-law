@@ -1,0 +1,4 @@
+Sağlık Mazeretine Bağlı Yer Değişikliği[11][12][13][14]
+Madde 13 – (Değişik: 30/6/2014-2014/6578 K.)
+Memurun sağlık mazeretine dayanarak yer değiştirme talebinde bulunabilmesi için; kendisi, eşi, annesi, babası, bakmakla yükümlü olduğu çocukları ve yargı kararı ile vasi tayin edildiği kardeşinin hastalığının görev yaptığı yerde tedavisinin mümkün olmadığı veya mevcut görev yerinin söz konusu kişilerin sağlık durumunu tehlikeye düşüreceğini eğitim ve araştırma hastanesi veya üniversite hastanesinden alınacak sağlık kurulu raporu ile belgelendirmesi gerekir.121314
+Sağlık mazeretine dayalı olarak yapılacak yer değişikliğinde memur aynı hizmet bölgesi içinde başka bir hizmet alanına, bu şekilde mazeretin karşılanamaması halinde ise başka bir hizmet bölgesinde kurumca ihtiyaç duyulan ve mazeretinin karşılanabileceği bir hizmet alanına atanabilir.

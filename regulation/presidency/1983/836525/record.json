@@ -1,0 +1,26 @@
+{
+  "id": "presidency-regulation-836525",
+  "number": "836525",
+  "kind": "regulation",
+  "issuer": "presidency",
+  "title": "DEVLET MEMURLARININ YER DEĞİŞTİRME SURETİYLE ATANMALARINA İLİŞKİN YÖNETMELİK",
+  "published": "1983-06-25",
+  "enacted": "1983-04-19",
+  "gazette_number": "18088",
+  "in_force": "2023-03-16",
+  "in_force_basis": "Source commencement table, \"Yürürlüğe Giriş Tarihi\": 16/3/2023; source row: 15/3/2023 | 6968 | 14, 28, Ek Madde 3 | 16/3/2023",
+  "history": "current-only",
+  "version_label": "oldest version available",
+  "first_law": null,
+  "source": "https://www.mevzuat.gov.tr/anasayfa/MevzuatFihristDetayIframe?MevzuatNo=836525&MevzuatTur=21&MevzuatTertip=5",
+  "source_sha256": "535d4953f0bc16953ae81a23b34e50ccb7232c946dd8e8c801385bdebf438f83",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  },
+  "missing_components": [],
+  "text_layout": "article-files",
+  "source_links": [],
+  "completeness": "html-text-complete"
+}

@@ -1,0 +1,1 @@
+Geçici Madde 2 - (Ek: 25/7/2001-2001/2848 K.) Çevre Bakanlığının yeni teşekkül ettirilen 46 il teşkilatına ait İl Müdürü kadrolarına ilk defa yapılacak atamalarda 6 ay süreyle bu Yönetmeliğin Ek-1 inci maddesi hükümleri uygulanmaz.

@@ -1,0 +1,1 @@
+Geçici Madde 1 - Bu Yönetmeliğin yürürlüğe girdiği tarihten önce yer değiştirme sureti ile atanmaya tabi memurların bu Yönetmeliğe intikalleri, kurumların özel Yönetmeliklerinin yürürlüğe girdiği tarihten itibaren 1 yıl içinde sağlanır. Buna ilişkin düzenleyici hükümler kurumların özel yönetmeliklerinde belirlenir.

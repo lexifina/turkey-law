@@ -1,0 +1,1 @@
+Madde 1 – Bu Yönetmelik; 657 sayılı Devlet Memurları Kanununun 2 sayılı Kanun Hükmünde Kararname ile değişik 2 nci maddesi ve aynı Kanunun 2670 sayılı Kanunla değişik 72 nci maddesine dayanılarak, Devlet Memurlarının aynı kurum içinde yer değiştirme suretiyle atanmalarını sağlamak amacıyla düzenlenmiştir.

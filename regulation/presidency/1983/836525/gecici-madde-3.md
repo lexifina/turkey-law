@@ -1,0 +1,1 @@
+Geçici Madde 3 - (Ek: 21/7/2003-2003/5959 K.) Kültür ve Turizm Bakanlığınca il müdürlüğü kadrolarına yapılacak atama işlemlerinde 31/12/2003 tarihine kadar bu Yönetmeliğin Ek-1 inci maddesi hükümleri uygulanmaz.
