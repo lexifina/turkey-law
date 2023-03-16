@@ -1,0 +1,17 @@
+Fazla ödeme
+
+Belediye tarafından ………. ve ………….. ihale kayıt numaraları ile ihale edilen ve ……… İnşaat Taahhüt Temizlik-……….. ile sözleşmeleri imzalanan “İlaçlama Yöntemi İle Yabancı Ot Mücadelesi Hizmet Alım” işi ile “Motorlu Tırpan İle Yabancı Ot Temizliği Yapılması Hizmet Alım” işinde hakediş ödemelerinde dikkate alınan metrajların olması gerekenden fazla hesaplanması suretiyle ……… TL kamu zararına sebebiyet verildiği hususu ile ilgili olarak;
+
+İşlere ilişkin Sözleşmelerin “Sözleşmenin türü ve bedeli” başlıklı 6’ncı maddesinde; bu sözleşmenin birim fiyatlı sözleşme olduğu ve İdarece hazırlanmış cetvelde yer alan her bir iş kaleminin miktarı ile bu iş kalemleri için yüklenici tarafından teklif edilen birim fiyatların çarpımı sonucu bulunan tutarların toplamı üzerinden akdedildiği belirtilmiştir. Sözleşme tutarları ise İlaçlama Yöntemi İle Yabancı Ot Mücadelesi Hizmet Alım işinde (….. m2 x ….. TL) ….. TL iken Motorlu Tırpan İle Yabancı Ot Temizliği Yapılması Hizmet Alım işinde ise (….. m2 x ….. TL) ….. TL’dir.
+
+Sözleşmelerin “Kontrol Teşkilatı görev ve yetkileri” başlıklı 18’inci maddesinde; işin sözleşme ve eklerine uygun olarak yürütülüp yürütülmediğinin İdare tarafından görevlendirilen kontrol teşkilatı aracılığıyla denetleneceği belirtilmiş olup kontrol teşkilatının, Genel Şartnamenin Dördüncü Bölümünde belirtilen yetkileri kullanacağı ifade edilmiştir.
+
+Anılan Hizmet İşleri Genel Şartnamesi’nin “Kontrol teşkilatı ve yetkileri” başlıklı 26’ncı maddesinde; sözleşmeye bağlanan her türlü işin, idare tarafından görevlendirilen kontrol teşkilatının denetimi altında, yüklenici tarafından yönetilip gerçekleştirileceği belirtilmiş olup “Onay verilmesinin sorumluluğu ortadan kaldırmaması” başlıklı 27’nci maddesinde ise; herhangi bir işin, kontrol teşkilatının denetimi altında yapılmış veya işe onay verilmiş olması, yüklenicinin üstlenmiş olduğu işi bütünüyle projelerine, sözleşme ve şartnamelerine, teknik ve sanat kurallarına uygun olarak yapmak hususundaki yükümlülüklerini ve bu konudaki sorumluluğunu ortadan kaldırmayacağı hüküm altına alınmıştır.
+
+Yukarıda belirtilen mevzuat hükümleri kapsamında kontrol teşkilatına fiili inceleme yaptırıldığı, inceleme sonucunda ilaçlama ve motorlu tırpan ile yabancı ot temizliği yapılan bazı alanlara ilişkin metrajların olması gerekenden fazla hesap edildiği, bazı alanlarda ise işin hiç gerçekleştirilmediği, bu durumun kontrol teşkilatı tarafından ….. tarihinde tutanak altına alındığı anlaşılmaktadır. Bu kapsamda yükleniciye, fiili olarak gerçekleştirmiş olduğu iş tutarından fazla ödeme yapılması nedeniyle kamu zararına sebebiyet verilmiştir.
+
+Diğer taraftan sorumlu savunmalarına ekli belgelerden kamu zararına ilişkin tutarın tahsil edildiği görülmüştür.
+
+Bu itibarla; Belediye tarafından …… ve ….. ihale kayıt numaraları ile ihale edilen ve …. İnşaat Taahhüt Temizlik-….. ile sözleşmeleri imzalanan “İlaçlama Yöntemi İle Yabancı Ot Mücadelesi Hizmet Alım” işi ile “Motorlu Tırpan İle Yabancı Ot Temizliği Yapılması Hizmet Alım” işinde hakediş ödemelerinde dikkate alınan metrajların olması gerekenden fazla hesaplanması suretiyle oluşan ….. TL kamu zararı, ….. tarih ve …..-……–….. yevmiye nolu  muhasebe işlem fişleri ile ahizi …… İnşaat Taahhüt Temizlik - ……’dan tahsil edildiğinden ilişilecek husus kalmadığına,
+
+6085 sayılı Sayıştay Kanunu’nun 55 inci maddesi uyarınca işbu İlamın tebliğ tarihinden itibaren altmış gün içerisinde Sayıştay Temyiz Kurulu nezdinde temyiz yolu açık olmak üzere oybirliğiyle karar verildi.
