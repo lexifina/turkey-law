@@ -1,0 +1,21 @@
+Araç kiralama
+
+“…. Aylık Sürücüsüz Araç ve İş Makinası Kiralama Hizmeti Alım İşi”nde ekonomik açıdan en avantajlı teklifin belirlenmesinde uygulanan puan hesabının, ihale komisyonu tarafından mevzuata aykırı olarak hatalı yapılması suretiyle ….. TL kamu zararına sebebiyet verildiği hususu ile ilgili olarak;
+
+4734 sayılı Kamu İhale Kanunu’nun “Tekliflerin alınması ve açılması” başlıklı 36’ncı maddesinde; belgeleri eksik veya uygun olmayan isteklilerin ihale komisyonu tarafından bir tutanakla tespit edileceği, “Tekliflerin değerlendirilmesi” başlıklı 37’nci maddesinde ilk oturumda tespit edilen isteklilerin tekliflerinin değerlendirme dışı bırakılmasına karar verileceği, maddenin devamında belgeleri eksiksiz ve teklif mektubu ile geçici teminatı usulüne uygun olan isteklilerin tekliflerinin ayrıntılı değerlendirilmesine geçileceği, “Aşırı düşük teklifler” başlıklı 38’inci maddesinde ise ihale komisyonunun verilen teklifleri değerlendirdikten sonra teklif fiyatı aşırı düşük olanları tespit edeceği, teklif sahiplerinden yazılı açıklama isteyeceği, açıklamaları yeterli görülmeyen veya yazılı açıklamada bulunmayan isteklilerin tekliflerinin reddedileceği hüküm altına alınmıştır.
+
+Yukarıda belirtilen mevzuat hükümlerine göre, İdareler tekliflerin gerçekliğe uygunluğunu belirlemek için aşırı düşük teklifleri sorgulama yoluna gittiğinde isteklilerden açıklama istemeli, açıklamaları yeterli görülmeyen veya açıklama yapmayan isteklilerin tekliflerini reddetmelidir.
+
+İşe ilişkin İdari Şartnamesinin “Ekonomik Olarak En Avantajlı Teklifin Hazırlanması” başlıklı 35’inci maddesinde ekonomik açıdan en avantajlı teklifin, fiyatla birlikte fiyat dışı unsurlar da dikkate alınarak belirleneceği; değerlendirmenin, “Teklif Fiyatı” ile “Kalite ve Teknik Değer Nitelik” olmak üzere iki kısımda yapılacağı belirtilmiş olup yapılacak hesaplamaların ayrıntısına söz konusu maddenin “A” bölümünde yer verilmiştir. Maddenin “B” bölümünde ise ekonomik açıdan en avantajlı teklifin, toplam puanı en yüksek olan istekliye ait teklif olduğu belirtilmiştir.
+
+Dosya kapsamındaki bilgi ve belgelerden; İdare tarafından gerçekleştirilen ihaleye teklif veren altı istekliden iki tanesinin belge eksikliği nedeniyle değerlendirme dışı bırakıldığı, kalan dört isteklinin iki tanesinden ise aşırı düşük teklif açıklaması istenildiği, Komisyon tarafından yapılan değerlendirmede bir isteklinin aşırı düşük teklif açıklamasının kabul edilmediği, diğer isteklinin de açıklamada bulunmaması nedeniyle anılan tekliflerin reddedildiği ve geçerli teklif sayısının iki adet ile sınırlı kaldığı anlaşılmaktadır.
+
+Bu durumda “Teklif Fiyatı Puanlaması” kısmındaki puan hesabının geçerli iki teklif üzerinden yapılması gerekirken; aşırı düşük teklif sorgulaması sonucu teklifi reddedilen isteklilerin puan hesabına dahil edilmesi sonucunda ihale olması gereken istekli üzerinde değil de başka bir istekli üzerinde bırakılmıştır. Dolayısıyla ekonomik açıdan en avantajlı teklifin belirlenmesinde uygulanan puan hesabının, ihale komisyonu tarafından hatalı yapılması suretiyle işin yüksek fiyat teklif eden istekli üzerinde bırakılması sonucunda belediye bütçesinden fazla ödemede bulunularak kamu zararına neden olunmuştur.
+
+Diğer taraftan sorumlu savunmalarına ekli belgelerden kamu zararına ilişkin tutarın tahsil edildiği görülmüştür.
+
+…. Aylık Sürücüsüz Araç ve İş Makinası Kiralama Hizmeti Alım İşinde ekonomik açıdan en avantajlı teklifin belirlenmesinde uygulanan puan hesabının, ihale komisyonu tarafından mevzuata aykırı olarak hatalı yapılması sonucu oluşan ….. TL kamu zararı, ….. tarihli ve ….. yevmiye nolu muhasebe işlem fişi ile ahizi ………… İnş. Taah. San.ve Tic. Ltd. Şti’den tahsil edildiğinden ilişilecek husus kalmadığına,
+
+Bu itibarla; İhale kararında yer verilen puan hesabının ihale dokümanına aykırı bir şekilde hatalı yapılması suretiyle işin daha yüksek toplam bedel teklif eden istekli üzerinde bırakılmasını sağlayan kamu görevlileri hakkında gerekli soruşturmanın yapılması için konunun İçişleri Bakanlığa yazılmasına gerek olmadığına,
+
+6085 sayılı Sayıştay Kanunu’nun 55 inci maddesi uyarınca işbu İlamın tebliğ tarihinden itibaren altmış gün içerisinde Sayıştay Temyiz Kurulu nezdinde temyiz yolu açık olmak üzere oybirliğiyle karar verildi.
