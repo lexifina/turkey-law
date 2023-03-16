@@ -1,0 +1,23 @@
+Fazla ödeme
+
+…..  …’inci İş Mahkemesinin ilamında belirlenen Belediyenin sorumlu olduğu kusur oranına tekabül eden tazminat tutarından daha fazla ödeme yapılması suretiyle …. TL kamu zararına sebebiyet verildiği hususu ile ilgili olarak;
+
+6098 sayılı Borçlar Kanunu’nun Birinci Kısmının “Borç ilişkilerinde özel durumlar” başlıklı Dördüncü Bölümünün “Teselsül” başlıklı Birinci Ayrımındaki “III İç ilişki/1. Paylaşım” başlıklı 167 nci maddesinde; aksi kararlaştırılmadıkça veya borçlular arasındaki hukuki ilişkinin niteliğinden anlaşılmadıkça, borçlulardan her birinin, alacaklıya yapılan ifadan, birbirlerine karşı eşit paylarla sorumlu olduğu; kendisine düşen paydan fazla ifada bulunan borçlunun, ödediği fazla miktarı diğer borçlulardan isteme hakkı olduğu ve bu durumda borçlunun, her bir borçluya ancak payı oranında rücu edebileceği; borçluların birinden alınamayan miktarı, diğer borçluların eşit olarak üstlenmekle yükümlü oldukları, “Alacaklıya halef olma” başlıklı 168’inci maddesinde ise; diğerlerine rücu hakkına sahip olan borçlulardan her birinin, ifa ettiği miktar oranında alacaklının haklarına halef olacağı belirtilmiştir.
+
+5018 sayılı Kamu Mali Yönetimi ve Kontrol Kanunu’nun “Kamu zararı” başlıklı 71 inci maddesinde; kamu zararı, kamu görevlilerinin kasıt, kusur veya ihmallerinden kaynaklanan mevzuata aykırı karar, işlem veya eylemleri sonucunda kamu kaynağında artışa engel veya eksilmeye neden olunması şeklinde tanımlanmış olup kamu zararının belirlenmesinde mevzuatında öngörülmediği halde ödeme yapılmasının esas alınacağı hükmüne yer verilmiştir.
+
+5018 sayılı Kanun’un 71 inci maddesine dayanılarak çıkarılan Kamu Zararlarının Tahsiline İlişkin Usul ve Esaslar Hakkında Yönetmelik’in “Kamu zararının belirlenmesi” başlıklı 6 ncı maddesinde ise; kamu idaresinin yükümlülüklerinin mevzuatına uygun bir şekilde yerine getirilmemesi nedeniyle kamu idaresine faiz, tazminat, gecikme zammı, para cezası gibi ek malî külfet getirilmesinin kamu zararının belirlenmesinde esas alınacağı açıklanmıştır.
+
+Dosya kapsamındaki bilgi ve belgelerden; Belediyenin asıl işveren sıfatı ile …..İnş. Tem. Tur. Gıda Tic. ve San.  Ltd. Şti.’den hizmet satın aldığı, anılan alt işveren şirketin işçisinin hizmeti ifası esnasında iş kazası sonucu vefat ettiği, iş kazası neticesinde Sosyal Güvenlik Kurumu tarafından gerçekleştirilen giderlerin rücuen tazminat davasına konu edildiği, mahkeme ilamında Belediyenin %25, alt işveren Şirketin % 50, Şirket Müdürünün ise %25 oranında kusurunun bulunduğu, ilamda yer alan giderlerin tümünün faizleri de dahil olmak üzere ….. TL’sinin Belediye bütçesinden gerçekleştirildiği anlaşılmaktadır. Bu bağlamda belediyenin sorumlu olduğu kusur oranına tekabül eden kısımdan fazla olarak ödediği tazminat tutarı kamu idaresine ek malî külfet getirerek kamu zararına neden olunmuştur.
+
+Rücu işlemlerinde üst yöneticiye sorumluluk atfedilmesi ve 5393 sayılı Belediye Kanunu hükümleri uyarınca Belediyenin gelir ve alacaklarını takip ve tahsille görevli olması dolayısıyla Belediye Başkanının oluşan kamu zararından Harcama Yetkilisi ve Gerçekleştirme Görevlisi ile birlikte sorumluluğu bulunmaktadır.
+
+Sorumlu savunmalarında davalılar arasındaki müştereken ve müteselsilen sorumluluk gereğince icra tehdidi altında tamamı belediye tarafından ödenmek zorunda kalınan tazminat ve  fer’ilerinden kusur durumlarına göre diğer sorumlulara karşı rücu için icra takibi başlatıldığı, ayrıca Borçlar Kanunu’nun 73 üncü maddesi gereğince yasal zamanaşımı süresinin henüz geçmediği dolayısıyla ortada bir kamu zararı olmadığı iddia edilmiş ise de;
+
+Belediyenin sorumlu olduğu kusur oranına tekabül eden tazminat tutarından daha fazla bütçe gideri ödeme emri tarihi olan ….’de gerçekleşerek İdareye ek mali külfet yüklenmiştir. …. tarihinde icra takibine başlanılması hesap döneminde gerçekleştirilen yersiz bütçe giderini ortadan kaldırmamaktadır. İdare ödemenin yapıldığı tarihten icra takibini başlattığı tarih arasında herhangi bir girişimde bulunmamıştır. Dolayısıyla sorumlu savunmalarına itibar edilmemiştir.
+
+Bu itibarla; …. ….’inci İş Mahkemesinin ilamında belirlenen Belediyenin sorumlu olduğu kusur oranına tekabül eden tazminat tutarından daha fazla ödeme yapılması suretiyle oluşan …. TL kamu zararının;
+
+Üst Yönetici (Belediye Başkanı) …., Harcama Yetkilisi (Temizlik İşleri Müd. V.) ….. ve Gerçekleştirme Görevlisi (Kadrolu İşçi) ….’ya müştereken ve müteselsilen 6085 sayılı Sayıştay Kanunu’nun 53 üncü maddesi gereği işleyecek faizleriyle ödettirilmesine,
+
+İş bu ilamın tebliğ tarihinden itibaren aynı Kanunu’nun 55 inci maddesi gereğince altmış gün içerisinde Sayıştay Temyiz Kurulu nezdinde temyiz yolu açık olmak üzere oybirliğiyle karar verildi.
