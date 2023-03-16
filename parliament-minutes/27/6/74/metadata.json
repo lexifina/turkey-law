@@ -1,0 +1,17 @@
+{
+  "record_type": "parliament-minutes",
+  "body": "TBMM Genel Kurulu",
+  "term": 27,
+  "legislative_year": 6,
+  "sitting": 74,
+  "sitting_date": "2023-03-16",
+  "listed_date": "16 Mart 2023 Perşembe",
+  "status": "Basılmış",
+  "source": "https://cdn.tbmm.gov.tr/TbmmWeb/Tutanak20230120/27/6/74/Tam/246cb372-08fa-4c51-84d7-23e365766c4e.html",
+  "sitting_page": "https://www.tbmm.gov.tr/Tutanaklar/Tutanak?Id=2b9df2c3-ecf8-4a6f-baea-0186ea3f58e9",
+  "listing_source": "https://www.tbmm.gov.tr/Tutanaklar/DoneminTutanakMetinleri?Donem=27&YasamaYili=6",
+  "source_sha256": "c826f9ed0f254c4fd01b87c899f28474278a38ed7660466918c2dc4ed43373ba",
+  "source_bytes": 534721,
+  "source_encoding": "windows-1254",
+  "text_status": "as-published"
+}
