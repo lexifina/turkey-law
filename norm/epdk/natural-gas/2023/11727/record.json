@@ -1,0 +1,25 @@
+{
+  "kind": "norm",
+  "issuer": "Enerji Piyasası Düzenleme Kurumu",
+  "market": "natural-gas",
+  "document_type": "board-decision",
+  "number": "11727",
+  "decision_date": "2023-03-16",
+  "title": "Boru Hatları ile Petrol Taşıma A.Ş.’nin (BOTAŞ) transit doğal gaz iletimi dâhil, 2023 Yılı Doğal Gaz İletim Şebekesi Yatırım Programının onaylanmasına ilişkin",
+  "resmi_gazete_date": "2023-03-17",
+  "resmi_gazete_number": "32135",
+  "categories": [
+    "İletim"
+  ],
+  "source": "https://www.epdk.gov.tr/Detay/DownloadDocument?id=U9VZQwti4sM=",
+  "documents": [
+    "https://www.epdk.gov.tr/Detay/DownloadDocument?id=U9VZQwti4sM="
+  ],
+  "source_sha256": "503fdf18ddf80c7415c0b3ab604865db61fd38388becd00caf1be32cdccf60a4",
+  "official_list": "https://www.epdk.gov.tr/Detay/Icerik/3-0-19/kurul-kararlari",
+  "official_list_leaf": 7225,
+  "text_status": "as-enacted",
+  "text_file": "metin.md",
+  "in_force": "2023-03-16",
+  "law_text_complete": true
+}
