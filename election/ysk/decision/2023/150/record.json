@@ -1,0 +1,17 @@
+{
+  "issuer": "Yüksek Seçim Kurulu",
+  "document_type": "decision",
+  "number": "2023/150",
+  "list_number": "150",
+  "decision_date": "2023-03-17",
+  "title": "Yüksek Seçim Kurulunun 17/03/2023 Tarihli ve 2023/150 Sayılı Kararı ve Eki Yurt Dışı İlçe Seçim Kurulu, Yurt Dışı Sandık Kurulları, Yurt Dışı Temsilciliklerinde Oyları Saklamak Ve Yurt Dışı İlçe Seçim Kuruluna Ulaştırmakla Görevli Sandık Kurulları, Yurt Dışı Oyların Sayım Ve Dökümü İle Görevli Sandık Kurullarının Oluşumu, Görev Ve Yetkileri İle Yurt Dışı Temsilciliklerinde Oy Verme İşlemlerine Dair 202 Sayılı Genelge",
+  "official_document": "https://www.ysk.gov.tr/doc/karar/dosya/82544/2023-150.pdf",
+  "source_sha256": "e367acb2403debe12faa142d0eb5afef928b085425e3eed32f6dc4c2b367116c",
+  "official_list": "https://www.ysk.gov.tr/doc/karar/kararlar.txt",
+  "official_list_sha256": "0733001df8fd09fa2f4155954da343809b59b823ecd8d57ad2e679c4264f5a84",
+  "pdf_pages": 26,
+  "text_status": "metadata-only",
+  "metadata_only_reason": "the two text extractions (PyMuPDF / pdftotext) differ",
+  "in_force": "2023-03-17",
+  "law_text_complete": false
+}
