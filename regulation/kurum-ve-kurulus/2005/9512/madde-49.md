@@ -1,0 +1,3 @@
+Referans yetkili sınıflandırıcı ücret tarifesi
+Madde 49 — Referans yetkili sınıflandırıcılar, bu Yönetmelik doğrultusunda yaptığı iş ve hizmetler karşılığında, önceden belirlenmiş ve bilinen referans yetkili sınıflandırıcı ücret tarifesi çerçevesinde ücret talep edebilir.
+Referans yetkili sınıflandırıcı ücret tarifesi ve tarifedeki değişiklikler, Bakanlıkça onaylandıktan sonra yürürlüğe girer. Bakanlık tarifede yer alacak ücretlerin tavan tutarlarını, ilgili ürün veya ürün grubu bazında faaliyet gösteren referans yetkili sınıflandırıcının, yetkili sınıflandırıcıların ve lisanslı depo işletmelerinin görüşünü alarak belirleyebilir.

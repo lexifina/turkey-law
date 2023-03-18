@@ -1,0 +1,17 @@
+Referans yetkili sınıflandırıcı lisansı başvurusu ve aranılan belgeler
+Madde 47 — Bakanlıkça referans yetkili sınıflandırıcı lisansı verilirken aşağıdaki koşullar ve belgeler aranır:
+a) Başvuru dilekçesi,
+b) Referans yetkili sınıflandırıcılık için başvuranın unvanı veya adı ve soyadı, tesis ve laboratuvarının, varsa şubelerinin ve merkezinin açık adresi, telefon, faks numarası ve e-mail adresi,
+c) Referans yetkili sınıflandırıcının faaliyet göstereceği ve kapsayacağı ürün veya ürün grubu ve analiz listesi,
+d) Ekonomik gereklilik ile ilgili ürün veya ürün grubunda referans yetkili sınıflandırıcıya ihtiyaç duyulması,
+e) Türk Akreditasyon Kurumunca-TURKAK uygunluk değerlendirme kuruluşu olarak deney ve kalibrasyon sertifikaları düzenleme konusunda akredite edilmiş ve ilgili mevzuat doğrultusunda akredite kararı geçici veya devamlı olarak durdurulmamış, akreditasyon gözetimi ve denetimi altında bulunması,
+f) Referans yetkili sınıflandırıcı ve/veya ortağının 11 inci maddede aranılan şartı taşıdığını ispatlar adli (Değişik ibare:RG-12/11/2011-28110) sicil kaydına ilişkin yazılı beyan,
+g) Referans yetkili sınıflandırıcı yöneticisinin noter onaylı sözleşmesi, diploma sureti ve nüfus cüzdanı fotokopisi,
+h) Lisans için başvuran tüzel kişi ortaklık ise, kuruluşun yayımlandığı Türkiye Ticaret Sicili Gazetesi, ortaklığın Ticaret Sicil Memurluğunca onaylı değişiklikleri de içeren ana sözleşmesi ve (Değişik ibare:RG-12/11/2011-28110) kayıtlı vergi dairesi adı ve vergi kimlik numarası beyanı,
+i) (Değişik:RG-18/1/2013-28532) Referans yetkili sınıflandırıcının tesis ve cihazlarının hırsızlık, yangın, duman, infilak, deprem, dahili su basması, sel, grev-lokavt-kargaşalık, terör, fırtına, kar ağırlığı, yıldırım, yer kayması, kara, deniz veya hava araç çarpması ve benzeri diğer rizikolara karşı yapılmış sigorta poliçesi veya sureti,
+j) (Değişik:RG-18/1/2013-28532) Kanunda ve Kanuna istinaden çıkarılan ikincil düzenlemelerde öngörülen yükümlülüklerin yerine getirilmemesi dolayısıyla meydana gelecek zararları karşılamak üzere, Kanunda öngörülen Lisanslı Depoculuk Tazmin Fonu lehine düzenlenmiş Bakanlık tarafından belirlenen ve kabul edilen asgari 200.000 TL tutarında nakit ve nakde çevrilebilir teminat ile Fona bu teminatı alış, satış, düzenleme ve transfer gibi her türlü tasarrufta bulunma yetkisi veren bir gayri kabili rücu yetki belgesi,
+k) Bakanlıkça gerekli görülen diğer bilgi ve belgeler.
+Lisans başvurusu yukarıdaki fıkranın (a), (b) ve (c) bentlerinde gösterilen belgelerle birlikte Bakanlığa yapılır. Bakanlık bu başvuruyu (d) bendindeki koşullar bakımından en geç 20 işgünü içinde inceler ve değerlendirmeye tabi tutar. Bakanlığın başvuruyu bu süre içinde kabul edip uygun görüş vermesi durumunda, başvuru sahibince yukarıdaki fıkrada aranılan diğer belgeler de tamamlanarak Bakanlığa sunulur.
+Bakanlık öncelikle, lisans başvurusu için sunulan belgelerin tam ve yeterli olup olmadığının tespitini yapar, varsa eksikliklerin giderilmesini talep eder. İnceleme sonucunda lisans alması uygun görülenlere Bakanlıkça lisans belgesi verilir.
+Yapılan incelemeye ilişkin bir gider belgesine, bu mümkün olmazsa gideri yapanın beyanına dayalı giderler, (Mülga ibare:RG-18/1/2013-28532) (…) inceleme sırasında, lisans bedeli ise, lisans verilmeden önce başvuru sahiplerince ödenir.
+(Ek fıkra:RG-18/1/2013-28532) Referans yetkili sınıflandırıcı teminatına ilişkin bu Yönetmelikte öngörülmeyen durumlarda, Kanuna istinaden çıkarılan ilgili yönetmeliklerdeki lisanslı depo teminatına ilişkin hükümler uygulanır.

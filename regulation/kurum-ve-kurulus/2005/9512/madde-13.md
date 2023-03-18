@@ -1,0 +1,2 @@
+Lisans talebinin reddi
+Madde 13 — Bakanlık tarafından yapılacak değerlendirme sonucunda; bu Yönetmelikte öngörülen şartları taşımadığı ya da sonradan kaybettiği veya eksiklerini gidermediği anlaşılan yetkili sınıflandırıcılar ile yetkili sınıflandırıcı olmak üzere başvuranlara lisans verilmesi, varsa lisansının geçerlilik süresinin uzatılması veya lisansta değişiklik yapılması talepleri reddedilir.

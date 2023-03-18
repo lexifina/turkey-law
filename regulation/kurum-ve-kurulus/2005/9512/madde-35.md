@@ -1,0 +1,3 @@
+Numune şartlandırması
+Madde 35 — Numune, numunedeki rutubet oranı, ürün standardında veya analiz metodunda öngörülen aralığa getirilinceye kadar şartlandırma işlemine tabi tutulur. Numune şartlandırmasında pasif şartlandırma yöntemi uygulanabileceği gibi, numunenin uygun bir cihaz vasıtasıyla, normalden daha hızlı istenilen ve analize hazır hale getirilmesini sağlayan aktif şartlandırma yöntemi de kullanılabilir.
+Bakanlık tarafından, referans yetkili sınıflandırıcının görüşü alınarak, ürünün niteliğine göre yetkili sınıflandırıcıda şartlandırma cihazları bulundurulması ve kullanılması zorunlu hale getirilebilir.

@@ -1,0 +1,6 @@
+DÖRDÜNCÜ BÖLÜM
+Yetkili Sınıflandırıcının Görev, Sorumluluk ve Hakları
+Yetkili sınıflandırıcının görev ve yetkisi
+Madde 18 — (Değişik fıkra:RG-12/11/2011-28110) Kanun ve bu Yönetmelik çerçevesinde; ilgili ürün yönetmeliğinde belirtilen standarda, ilgili ürün yönetmeliğinde belirtilmemiş ise Bakanlıkça ürünün yoğun olarak işlem gördüğü borsalar ile ilgili kuruluş ve sektör temsilcileri davet edilerek oluşturulan çalışma grubunca hazırlanan ve Bakanlıkça onaylanan ürün standardına, böyle bir standart da oluşturulmamışsa ilgili ürüne ilişkin yürürlükte bulunan Türk Standardına göre tarımsal ürünlerin analiz edilmesi, sınıf ve standardının belirlenmesi ve bunun belgelendirilmesi yetkili sınıflandırıcının görev ve yetkisi içerisindedir. Bakanlık, bu maddede belirtilen hususlarda ortaya çıkabilecek tereddütleri gidermeye yetkilidir.
+Analiz, sınıflandırma veya standarda ilişkin bir itiraz olursa, itiraz sonucu yeniden belirlenen değerlere göre hareket edilir.
+Yetkili sınıflandırıcılar tarafından sınıf ve standardı belirlenen tarım ürünleri, bunların ticaret ve pazarlanması ve/veya lisanslı depolarda muhafaza edilmesinin sağlanması gibi aynı veya benzeri amaçlarla başkaca bir zorunlu kontrole tâbi tutulmaz.
