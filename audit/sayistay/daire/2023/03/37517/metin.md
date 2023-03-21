@@ -1,0 +1,9 @@
+Yeni birim fiyat
+
+“... Binası Yapım İşi”nde sözleşmede birim fiyatı bulunmayan ve Yapım İşleri Genel Şartnamesine göre ihale tarihinin içinde bulunduğu aya ait fiyatı tespit edilemeyen iş kalemi için, yeni birim fiyatın uygulama ayının rayiçlerine ve şartlarına göre tespit edilmesi gerekirken uygulama yılının ocak ayı rayiçlerine ve şartlarına göre belirlendiği görülmüştür.
+
+4734 sayılı Kamu İhale Kanununa Göre İhale Edilen Yapım İşlerinde Uygulanacak Fiyat Farkına İlişkin Esasların “Uygulama esasları” başlıklı 6'ıncı maddesi 8'inci fıkrası gereğince sözleşmede birim fiyatı bulunmayan ve Yapım İşleri Genel Şartnamesine göre ihale tarihinin içinde bulunduğu aya ait fiyatı tespit edilemeyen iş kalemi için yeni birim fiyat yapılması halinde, bu fiyat, uygulama ayının rayiçlerine ve şartlarına göre tespit edilir. Belirlenen bu yeni birim fiyat, uygulama ayı fiyat farkı katsayısına (Pn) bölünerek iş kaleminin ihale tarihinin içinde bulunduğu aya ait birim fiyatının tespit edilmesi ve fiyat farkı hesabının bu fiyat esas alınarak yapılması gerekmektedir.
+
+... Binası Yapım İşi’nde sözleşmede birim fiyatı bulunmayan ve Yapım İşleri Genel Şartnamesine göre ihale tarihinin içinde bulunduğu aya ait fiyatı tespit edilemeyen iş kalemleri için uygulama ayının rayiçlerine ve şartlarına göre yeni birim fiyatların tespit edilmesi gerekirken uygulama yılının ocak ayı rayiçlerine ve şartlarına göre belirlenmesi sonucunda … TL tutarlı kamu zararına sebebiyet verildiği görülmüşse de bu tutarın … yevmiye tarihli … yevmiye nolu … Muhasebe Birimi İşlem Nolu Muhasebe İşlem Fişi ile tahsil edilerek bütçeye gelir kaydedildiği anlaşıldığından ilişilecek bir husus kalmadığına;
+
+İşbu ilamın tebliğ tarihinden itibaren altmış gün içerisinde 6085 sayılı Sayıştay Kanunu’nun 55 inci maddesi uyarınca Sayıştay Temyiz Kurulu nezdinde temyiz yolu açık olmak üzere oybirliği ile;

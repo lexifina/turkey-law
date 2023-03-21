@@ -1,0 +1,17 @@
+{
+  "kind": "decision",
+  "issuer": "Sayıştay 2. Dairesi",
+  "number": "35759",
+  "decision_date": "2023-03-21",
+  "source_id": 37517,
+  "chamber": "2",
+  "ilam_number": "137",
+  "item_number": 9,
+  "public_body_type": "Diğer Özel Bütçeli İdareler",
+  "account_year": 2021,
+  "subject": "İhale Mevzuatı ile İlgili Kararlar",
+  "source": "https://www.sayistay.gov.tr/KararlarDaire/Detay/37517/",
+  "source_sha256": "2cbfaf257af35215bee312a91d79b9b05ac200021577d605cb043fb585c4afe5",
+  "text_status": "as-enacted",
+  "text_file": "metin.md"
+}
