@@ -1,0 +1,94 @@
+{
+  "checked_on": "2026-11-14",
+  "commencement_clauses": [
+    "MADDE 40 – (1) Bu Yönetmelik yayımı tarihinde yürürlüğe girer."
+  ],
+  "date_evidence": [
+    [
+      "2017-04-17",
+      "17.04.2017",
+      "original gazette publication date in official listing"
+    ],
+    [
+      "2023-03-21",
+      "RG-21/3/2023-32139",
+      "latest source-printed gazette amendment date for current consolidated text"
+    ],
+    [
+      "2023-03-21",
+      "RG-21/3/2023-32139",
+      "latest source-printed gazette amendment date for current consolidated text"
+    ],
+    [
+      "2023-03-21",
+      "RG-21/3/2023-32139",
+      "latest source-printed gazette amendment date for current consolidated text"
+    ],
+    [
+      "2020-02-03",
+      "RG-03/02/2020-31028",
+      "latest source-printed gazette amendment date for current consolidated text"
+    ],
+    [
+      "2023-03-21",
+      "RG-21/3/2023-32139",
+      "latest source-printed gazette amendment date for current consolidated text"
+    ],
+    [
+      "2020-02-03",
+      "RG-03/02/2020-31028",
+      "latest source-printed gazette amendment date for current consolidated text"
+    ],
+    [
+      "2023-03-21",
+      "RG-21/3/2023-32139",
+      "latest source-printed gazette amendment date for current consolidated text"
+    ],
+    [
+      "2023-03-21",
+      "RG-21/3/2023-32139",
+      "latest source-printed gazette amendment date for current consolidated text"
+    ],
+    [
+      "2023-03-21",
+      "RG-21/3/2023-32139",
+      "latest source-printed gazette amendment date for current consolidated text"
+    ],
+    [
+      "2020-02-03",
+      "03/02/2020",
+      "latest gazette date in source amendment table"
+    ],
+    [
+      "2023-03-21",
+      "21/3/2023",
+      "latest gazette date in source amendment table"
+    ]
+  ],
+  "date_quote": "RG-21/3/2023-32139",
+  "first_law": null,
+  "gazette": "30041",
+  "history": "current-text",
+  "images": {
+    "deferred": 0,
+    "omitted": 0,
+    "referenced": 0,
+    "source": 0
+  },
+  "in_force": "2023-03-21",
+  "in_force_basis": "latest source-printed gazette amendment date for current consolidated text",
+  "issuer": "Mersin Üniversitesi",
+  "issuer_slug": "mersin-universitesi",
+  "kind": "regulation",
+  "label": "oldest version available",
+  "path": "regulation/mersin-universitesi/2017/23514",
+  "published": "2017-04-17",
+  "source": "https://www.mevzuat.gov.tr/anasayfa/MevzuatFihristDetayIframe?MevzuatTur=8&MevzuatNo=23514&MevzuatTertip=5",
+  "source_bytes": 60238,
+  "source_id": "8.5.23514",
+  "source_sha256": "4c2581506bdcde99baf9d48cc05ac9820ea05f4c6378206c9814cb4814a82272",
+  "text_status": "current-consolidated",
+  "title": "MERSİN ÜNİVERSİTESİ TIP FAKÜLTESİ ÖĞRETİM VE SINAV YÖNETMELİĞİ",
+  "university_id": 211,
+  "word_count": 2636
+}
