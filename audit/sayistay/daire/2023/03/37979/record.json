@@ -1,0 +1,17 @@
+{
+  "kind": "decision",
+  "issuer": "Sayıştay 3. Dairesi",
+  "number": "444",
+  "decision_date": "2023-03-21",
+  "source_id": 37979,
+  "chamber": "3",
+  "ilam_number": "162",
+  "item_number": 3,
+  "public_body_type": "Belediyeler ve Bağlı İdareler",
+  "account_year": 2021,
+  "subject": "Vergi Resmi Harç ve Diğer Gelirlerle İlgili Kararlar",
+  "source": "https://www.sayistay.gov.tr/KararlarDaire/Detay/37979/",
+  "source_sha256": "22cfde2189c70018c7dced8529c07a66845af0f4d258b1048faae06c4165d524",
+  "text_status": "as-enacted",
+  "text_file": "metin.md"
+}
