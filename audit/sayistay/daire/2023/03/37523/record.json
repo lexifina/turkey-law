@@ -1,0 +1,17 @@
+{
+  "kind": "decision",
+  "issuer": "Sayıştay 2. Dairesi",
+  "number": "35759",
+  "decision_date": "2023-03-21",
+  "source_id": 37523,
+  "chamber": "2",
+  "ilam_number": "137",
+  "item_number": 15,
+  "public_body_type": "Diğer Özel Bütçeli İdareler",
+  "account_year": 2021,
+  "subject": "İş Mevzuatı ile İlgili Kararlar",
+  "source": "https://www.sayistay.gov.tr/KararlarDaire/Detay/37523/",
+  "source_sha256": "2399c7f3413d1867737dd406e71b2cd175a7aa604b0c4a2325fbf850fb9aa762",
+  "text_status": "as-enacted",
+  "text_file": "metin.md"
+}
