@@ -1,0 +1,78 @@
+{
+  "kind": "norm",
+  "issuer": "Sermaye Piyasası Kurulu",
+  "document_type": "principle-decision",
+  "number": "241",
+  "decision_number": "17/366",
+  "date": "2023-03-21",
+  "title": "Kurul Karar Organı’nın i-SPK 52.4.Ah (21-03-2023 Tarihli ve 17-366. S.K.) Sayılı İlke Kararı",
+  "source": "https://mevzuat.spk.gov.tr/api/IlkeKarari/File/241",
+  "source_sha256": "afa2bf1c0797b8d302285075ebd564157aafa2da5e1ea25c85ff6233a394e30a",
+  "source_listing_url": "https://mevzuat.spk.gov.tr/api/Search/All",
+  "source_record_id": 241,
+  "text_status": "as-enacted",
+  "text_file": "metin.md",
+  "date_basis": "official principle-decision date printed in the source PDF and official API: Kurul Karar Organı’ nın i-SPK 52.4.ah (21/03/2023 tarihli ve 17/366. s.k.) sayılı İlke Kararına İlişkin",
+  "operative_date_review": {
+    "date_type": "decision-date",
+    "decision_date": "2023-03-21",
+    "source_clauses": [
+      "Kurul Karar Organı’ nın i-SPK 52.4.ah (21/03/2023 tarihli ve 17/366. s.k.) sayılı İlke Kararına İlişkin"
+    ],
+    "deferred_start": "none stated in source text; no source date later than the decision"
+  },
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0,
+    "decorative_or_non_normative": 0
+  },
+  "official_listing_record": {
+    "id": "6de9ff86-9971-4bb3-9216-73df1b9abaec",
+    "contentSource": "IlkeKarari",
+    "contentID": 241,
+    "tur": "İlke Kararı",
+    "title": "Kurul Karar Organı’nın i-SPK 52.4.Ah (21-03-2023 Tarihli ve 17-366. S.K.) Sayılı İlke Kararı",
+    "no": "",
+    "sayi": "",
+    "resmiGazeteTarihi": null,
+    "resmiGazeteTarih": null,
+    "resmiGazeteSayi": null,
+    "resmiGazeteMukerrer": null,
+    "kurulKararTarihi": "2023-03-21T00:00:00",
+    "kurulKararTarih": "21.03.2023",
+    "kurulToplantiNo": "17/366",
+    "bultenYili": 2023,
+    "bultenNo": 18,
+    "kisimID": null,
+    "bolumID": null,
+    "kisim": "VIII. KISIM - Sermaye Piyasası Kurulu İlke Kararları",
+    "bolum": "İlke Kararları",
+    "baglantiliTebliglerStr": "167:Yatırım Fonlarına İlişkin Esaslar Tebliği",
+    "baglantiliTebligler": [
+      {
+        "key": 167,
+        "value": "Yatırım Fonlarına İlişkin Esaslar Tebliği"
+      }
+    ],
+    "ilgiliKonularStr": "8:Kolektif Yatırım Kuruluşları;125:Yatırım Fonlarına İlişkin Rehber;36:Yatırım Fonları",
+    "ilgiliKonular": [
+      {
+        "key": 8,
+        "value": "Kolektif Yatırım Kuruluşları"
+      },
+      {
+        "key": 125,
+        "value": "Yatırım Fonlarına İlişkin Rehber"
+      },
+      {
+        "key": 36,
+        "value": "Yatırım Fonları"
+      }
+    ],
+    "countItems": 0,
+    "intro": "",
+    "link": "IlkeKarari/Dosya/241",
+    "linkTarget": "_blank"
+  }
+}
