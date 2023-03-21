@@ -1,0 +1,17 @@
+{
+  "kind": "decision",
+  "issuer": "Sayıştay 5. Dairesi",
+  "number": "600",
+  "decision_date": "2023-03-21",
+  "source_id": 38095,
+  "chamber": "5",
+  "ilam_number": "384",
+  "item_number": 4,
+  "public_body_type": "Belediyeler ve Bağlı İdareler",
+  "account_year": 2017,
+  "subject": "Personel Mevzuatı ile İlgili Kararlar",
+  "source": "https://www.sayistay.gov.tr/KararlarDaire/Detay/38095/",
+  "source_sha256": "0b39c59a59da17f38604b592d92bf254122378453a267a0d00c01ffc14fb8bc5",
+  "text_status": "metadata-only",
+  "metadata_only_reason": "possible personal name in the official text"
+}
