@@ -1,0 +1,17 @@
+{
+  "kind": "decision",
+  "issuer": "Sayıştay 5. Dairesi",
+  "number": "599",
+  "decision_date": "2023-03-21",
+  "source_id": 38079,
+  "chamber": "5",
+  "ilam_number": "165",
+  "item_number": 1,
+  "public_body_type": "Yüksek Öğretim Kurumları",
+  "account_year": 2021,
+  "subject": "Personel Mevzuatı ile İlgili Kararlar",
+  "source": "https://www.sayistay.gov.tr/KararlarDaire/Detay/38079/",
+  "source_sha256": "cea24587e22478871542c4db17118d1bcb66d543b0882e265bc9ba8dbc29b0ab",
+  "text_status": "as-enacted",
+  "text_file": "metin.md"
+}
