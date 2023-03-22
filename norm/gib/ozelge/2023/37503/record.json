@@ -1,0 +1,22 @@
+{
+  "kind": "norm",
+  "issuer": "Gelir İdaresi Başkanlığı",
+  "document_type": "ozelge",
+  "number": "38418978-125[4691-2022/2]-132688",
+  "source_id": 37503,
+  "date": "2023-03-22",
+  "title": "Teknokentte sipariş üzerine gerçekleştirilen yazılım faaliyetleri nedeniyle elde edilen kazancın 4691 sayılı Kanun kapsamında istisna olup olmadığı",
+  "source": "https://gib.gov.tr/mevzuat/kanun/435/ozelge/37503",
+  "related_law": "5520 sayılı KURUMLAR VERGİSİ KANUNU",
+  "source_api": "https://gib.gov.tr/api/gibportal/mevzuat/ozelge/list",
+  "source_listing": "evidence/list/2026-11-16/ozelge-p008.json",
+  "source_listing_sha256": "292c126217cc32c3ccfa57495ce433f89ef8db5e75fa1946d5819a76f81aff4d",
+  "source_sha256": "9db447cb186fefc898105f1ca5b2e4d57b2251c57048a1e8e4471482a0c5117d",
+  "text_status": "as-enacted",
+  "text_file": "metin.md",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  }
+}
