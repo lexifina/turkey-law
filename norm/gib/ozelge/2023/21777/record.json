@@ -1,0 +1,22 @@
+{
+  "kind": "norm",
+  "issuer": "Gelir İdaresi Başkanlığı",
+  "document_type": "ozelge",
+  "number": "E-38418978-120[65-2021-21]-131829",
+  "source_id": 21777,
+  "date": "2023-03-22",
+  "title": "Adi ortaklık tarafından ek faaliyet olarak yürütülen tiyatro salonlarının kiralanarak gösteri sunulması ve gösteri biletlerinin satışlarından elde edilen kazancın ne şekilde vergilendirileceği hk.",
+  "source": "https://gib.gov.tr/mevzuat/kanun/433/ozelge/21777",
+  "related_law": "193 sayılı GELİR VERGİSİ KANUNU",
+  "source_api": "https://gib.gov.tr/api/gibportal/mevzuat/ozelge/list",
+  "source_listing": "evidence/list/2026-11-16/ozelge-p000.json",
+  "source_listing_sha256": "5444faf84128246cd8dd8c6db754d41e2a11c7717342bfe0a07a35074d061761",
+  "source_sha256": "e25b02c07fe1d44c7ebf74dbf60a5c8ffb6474956a9c46d648da662e37f0ec0c",
+  "text_status": "as-enacted",
+  "text_file": "metin.md",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  }
+}
