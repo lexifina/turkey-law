@@ -1,0 +1,16 @@
+{
+  "kind": "decision",
+  "issuer": "Sayıştay Temyiz Kurulu",
+  "number": "54654",
+  "decision_date": "2023-03-22",
+  "source_id": 27711,
+  "chamber": "2",
+  "file_number": "47158",
+  "public_body_type": "Yüksek Öğretim Kurumları",
+  "account_year": "2017",
+  "subject": "Sorumluluk ve Yargılama Usulleri ile İlgili Kararlar",
+  "source": "https://www.sayistay.gov.tr/KararlarTemyiz/Detay/27711/",
+  "source_sha256": "5d08796ae53be771785c0a3822629509fea3e085872093c94bca1acbc05cb079",
+  "text_status": "as-enacted",
+  "text_file": "metin.md"
+}
