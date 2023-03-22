@@ -1,0 +1,71 @@
+<div class="news__detail">
+<div class="news__detail-head">
+
+<div class="news__detail-head-meta d-none d-sm-flex">
+<div>
+<i class="fa-light fa-calendar"></i>
+<span class="title">Yayınlanma Tarihi:</span>
+<span>24 Nisan 2023, Pazartesi</span>
+</div>
+</div>
+</div>
+<div class="news__detail-article">
+<h2 class="news__detail-article-title">“Bir avukatlık ortaklığı tarafından borçlu ilgili kişiye kısa mesaj gönderilmesi suretiyle kişisel verilerinin işlenmesi” hakkında Kişisel Verileri Koruma Kurulu’nun 22/03/2023 Tarihli ve 2023/437 Sayılı Kararı</h2>
+<div style="text-align:justify;">
+<table>
+<tbody>
+<tr>
+<td style="width:120px;"><strong>Karar Tarihi</strong></td>
+<td>:</td>
+<td>22/03/2023</td>
+</tr>
+<tr>
+<td><strong>Karar No</strong></td>
+<td>:</td>
+<td>2023/437</td>
+</tr>
+<tr>
+<td style="vertical-align:top;"><strong>Konu Özeti</strong></td>
+<td style="vertical-align:top;">:</td>
+<td>Bir avukatlık ortaklığı tarafından borçlu ilgili kişiye kısa mesaj gönderilmesi suretiyle kişisel verilerinin işlenmesi</td>
+</tr>
+</tbody>
+</table>
+<p> </p>
+<p>Bir Avukatlık Ortaklığı tarafından vekili olduğu Şirket ve ilgili kişi arasındaki abonelik ilişkisi kapsamında, borcun takibi ve hatırlatılması amacıyla ilgili kişiye beş kez kısa mesaj gönderilmesi suretiyle gerçekleştirilen kişisel veri işleme faaliyeti ile ilgili olarak Kuruma intikal eden şikâyet dilekçesinde özetle; </p>
+<ul>
+<li>Veri sorumlusu olarak Avukatlık Ortaklığı tarafından Şirketten elde edilen kişisel veriler hakkında ilgili kişiyle iletişime geçildiği ilk anda aydınlatma yükümlülüğünün yerine getirilmemesi ve ayrıca çağrı merkezi vasıtasıyla yapılan görüşme bağlamında ses kaydı hakkında ses kaydı gerçekleşmeden önce aydınlatma yükümlülüğünün yerine getirilmemesi nedeniyle 6698 sayılı Kişisel Verilerin Korunması Kanunu’nun (Kanun) 18’inci maddesinin birinci fıkrasının (a) bendi uyarınca veri sorumlusu hakkında yaptırım uygulanması,</li>
+<li>Toplamda beş kez aynı konu ve içerikle ilgili kişiye kısa mesaj gönderilmesi nedeniyle Kanunun 18’inci maddesinin birinci fıkrasının (b) bendi uyarınca veri sorumlusu hakkında yaptırım uygulanması,</li>
+<li>Veri sorumlusunun “hukuka aykırı olarak elde edilen veriler üzerinden vatandaşların kimlik ve iletişim bilgileri gibi kişisel verilerin sorgulanmasına imkân tanıyan yazılım/program/uygulama” kullanıp kullanmadığı hususunda denetim yapılması</li>
+</ul>
+<p>talep edilmiştir. </p>
+<p>Konuya ilişkin başlatılan inceleme çerçevesinde veri sorumlusundan savunması istenilmiş olup verilen cevapta özetle;</p>
+<ul>
+<li>Kurulun şikâyeti değerlendirmeye alarak taraflarından savunma, bilgi ve belge ibrazı talep etmesinin usul ve yasaya aykırı olduğu, ilgili kişi tarafından Veri Sorumlusuna Başvuru Usul ve Esasları Hakkında Tebliğ’in 5’inci maddesinde öngörülen veri sorumlusuna başvuru usulüne uygun bir başvuru yapılmadığı ve Avukatlık Ortaklığının, veri işleyen olması nedeniyle ilgili kişinin Avukatlık Ortaklığına başvuru hakkı bulunmadığı,</li>
+<li>Şirket ile Avukatlık Ortaklığı arasındaki hukuki ilişkinin mahiyetine ilişkin olarak; Avukatlık Ortaklığının, Şirket ile arasında bulunan hizmet sözleşmesi ve vekalet ilişkisi kapsamında, alacakların tahsili için yasal takip hizmeti verdiği, Avukatlık Ortaklığının, Şirket tarafından abonelerin borçlarının tahsilat süreçlerinin yürütülmesi konusuyla sınırlı olarak yetkilendirildiği, Şirket tarafından yönetilmekte olan sisteme sınırlı erişim hakkına sahip olduğu, Avukatlık Ortaklığının söz konusu sistem üzerinden sınırlı şekilde görüntülenen/erişilen kişisel veriler ve bu veriler kullanılarak Şirket borçlularıyla gerçekleştirilen telefon ve kısa mesaj ile iletişim kurma faaliyetlerine ilişkin olarak Kanun’un 3’üncü maddesinin birinci fıkrasının (ğ) bendi uyarınca “veri işleyen” konumunda olduğu, Şirket ile Avukatlık Ortaklığı arasında münakid Sözleşmenin ilgili maddesi uyarınca Avukatlık Ortaklığının veri işleyen olduğu, hal böyleyken gerek taraflar arasında akdedilen Sözleşme hükümleri gerek vekalet ilişkisi gerek ise Kanun hükümleri uyarınca işlemekte oldukları kişisel verilere ilişkin olarak veri işleyen sıfatı ile sorumlu olduklarının son derece açık olduğu,</li>
+<li>Kişisel verilerin veri sorumlusu tarafından işlenmesinin hukuki dayanağına ilişkin olarak; müvekkilleri Şirketin gecikmiş alacaklarının tahsili amacı ile icra işlemlerini yürütmek üzere Avukatlık Ortaklığı ile kurulan vekalet ilişkisi ve Bilgi Teknolojileri ve İletişim Kurumu (BTK) tarafından yayımlanan Borç ve Alacak Bilgilerinin Sorgulanmasına İlişkin Usul ve Esasların yerine getirilmesi kapsamında icra takibi öncesi ve sonrasında borçlularla iletişim kurularak borç bilgisi, haciz bilgisi, faiz indirimi kampanyası ve ödeme kanalı gibi konularda bilgilendirme yapıldığı ve mümkün oldukça borçların uzlaşma ile tahsilatının sağlandığı,</li>
+<li>Diğer taraftan, borcun yasal yollara başvurulmadan ve borçlunun durumu ağırlaştırılmaksızın, mevzuata uygun ve Şirket ile Avukatlık Ortaklığı arasındaki vekalet ilişkisi ve sözleşmeler kapsamında tahsil edilebilmesi için 2004 sayılı İcra İflas Kanunu’nun temel ilkelerinden birisi olan “Alacağın tahsili için yapılacak işlemlerde borçlunun, borcunu arttıracak giderlerden kaçınılması” prensibi doğrultusunda hareket edilmesi gerektiği,</li>
+<li>Alacağın kısa sürede tahsili ile abonelerin/borçluların takip hukukundan kaynaklanan vekalet ücreti, faiz, harç ve masraf gibi borcun ferilerine ve haciz işlemlerine maruz kalmadan indirimli şekilde ödeme yapabilmesine olanak sağlanması ile dosya borcunun artmasının önüne geçilmesi, borçluların lehine olarak taksitlendirme imkanı ve banka, kredi kartı gibi ödeme kanalları hakkında açıkça bilgi verilmesi, ödemenin yapılmaması halinde alacağın tahsili amacıyla hakkında icra takibi başlatılacağının ve/veya başlatıldığının abonelere/borçlulara bildirilmesi, diğer bir deyişle borcun ödenmemesi durumunda maruz kalınabilecek hukuki riskler hakkında açıkça bilgi verilmesi, Şirketin talebi ve onayı doğrultusunda sulh görüşmelerinin gerçekleştirilmesi, ileride doğabilecek uyuşmazlıklarda bu bilgilendirmelerin delil olarak kullanılması adına aramaların gerçekleştirilebildiği ve kısa mesaj gönderilebildiği,</li>
+<li>Hukuka aykırı olarak kişisel veri elde etmek amacıyla herhangi bir yazılım/program/uygulama kullanılıp kullanılmadığına ilişkin olarak; Avukatlık Ortaklığı tarafından kişisel veri elde edilmesi amacıyla yasa dışı herhangi bir yazılım/uygulama, program yahut başka şekilde elde edilmiş veri kullanılmadığı, ilgili kişinin, “internet sitelerinin borçların ödenmesine özgülendiği” bu amaçla hukuka aykırı olarak çeşitli yazılımlarla borçlu verisi topladıkları iddialarının tamamen kötü niyetli olarak öne sürüldüğü, ilgili kişinin bu asılsız ve dayanağı olmayan iddiaları ile Avukatlık Ortaklığını zan altında bırakma çabası içinde olduğu, Avukatlık Ortaklığının web sitesinde borçluların borcunu kolayca ödemesi için ödeme kanallarının ve yöntemlerinin bulunduğu bir sekmenin mevcut olduğu ve web sitesinden borçlulara Türkiye Barolar Birliği tarafından sunulan BaroKart sistemi üzerinden taksitli borç ödeme imkanı, banka hesapları ve Şirketin ödeme kanalları, talep, itiraz, şikâyet yolları hakkında bilgi verildiği, web sitesinde yapılan bilgilendirmelerin Kanun ve buna ilişkin mevzuat ile bir ilgisi bulunmadığı, web sitesi üzerinden bir veri toplanmasının da söz konusu olmadığı, Avukatlık Ortaklığının mevcut olayda kişisel verilerin korunması hukuku çerçevesinde yasal mevzuatı ihlal edici nitelikte hiçbir icrai yahut ihmali davranışta bulunmadığı,</li>
+<li>Bu kapsamda, Avukatlık Ortaklığı olarak vekili oldukları Şirket adına, Şirketin haklarını ve menfaatlerini korumak amacıyla hareket ettikleri ve bu anlamda Avukatlık Kanunu’ndan kaynaklanan yükümlülükleri ve yürütmekte oldukları icra işlemleri bakımından İcra ve İflas Kanunu ile diğer mevzuattan kaynaklanan hukuki yükümlülüklerini yerine getirmek amacıyla ilgili kişiye ait kişisel verileri, Kanunun 5’inci maddesinin ikinci fıkrasında yer alan “bir hakkın tesisi, kullanılması veya korunması için veri işlemenin zorunlu olması” ve “ilgili kişinin temel hak ve özgürlüklerine zarar vermemek kaydıyla, veri sorumlusunun meşru menfaatleri için veri işlenmesinin zorunlu olması” hukuki sebepleri çerçevesinde işledikleri,</li>
+<li> Avukatlık Ortaklığının kişinin borç bilgilerini müvekkilleri Şirketten temin ettiği; takip öncesi bilgilendirmeden maksadın yasal takip başlatmadan evvel makul bir süre bekleyerek karşı yanı borcuna eklenecek masraflardan korumayı amaçladığı, ilgili kişinin Avukatlık Ortaklığı tarafından kendisine beş kez kısa mesaj atıldığını ve Avukatlık Ortaklığının kendisini taciz ettiğini beyan ettiği, ancak kendisine ayda yalnızca 1 kereye mahsus olmak üzere, hafta içi, mesai saatleri içerisinde bilgilendirme dışında hiçbir ibare olmayan kısa mesaj gönderildiği, Türk Borçlar Kanunu’na, BTK Usul ve Esaslarına ve Kanunun 5’inci maddesinin ikinci fıkrasının (e) bendi kapsamında açık rıza aranmaksızın bilgilendirme haklarına dayalı olarak Avukatlık Ortaklığınca bilgilendirme saikiyle hareket edildiği</li>
+</ul>
+<p>ifade edilmiştir.</p>
+<p>Konuya ilişkin yapılan inceleme neticesinde, Kişisel Verileri Koruma Kurulunun 22/03/2023 tarihli ve 2023/437 sayılı Kararı ile;</p>
+<ul>
+<li>Kanun’un 3 üncü maddesinin birinci fıkrasının (ı) bendi uyarınca veri sorumlusunun; “kişisel verilerin işleme amaçlarını ve vasıtalarını belirleyen, veri kayıt sisteminin kurulmasından ve yönetilmesinden sorumlu olan gerçek ve tüzel kişi”yi ifade ettiği, bu çerçevede, kişisel verilerin işlenmesine ilişkin kararları alma, işleme faaliyetinin amacı, bu faaliyetin ne zaman başlayacağı, kimler tarafından gerçekleştirileceği ve benzeri hususlarda karar verme yetkisinin veri sorumlusuna ait olduğu, kişisel verilerin işleme amaçlarını ve vasıtalarını belirleyen veri sorumlusunun, veri işleme faaliyetinin temel araçlarını ve amaçlarını, veri işlemenin “neden” ve “nasıl” olacağını belirlediği, diğer bir deyişle, teknik ve organizasyona ait araçların belirlenmesi, veriye kimin erişeceği, hangi verilerin işleneceği, bu verilerin ne kadar süre tutulacağı, ne şekilde saklanacağı gibi veri işlemeye ilişkin temel unsurların veri sorumlusu tarafından belirlendiği, her ne kadar Avukatlık Ortaklığı ile Şirket arasındaki Sözleşmede Avukatlık Ortaklığının “veri işleyen” statüsünü haiz olduğu öngörülmüş ve ilgili kişinin şikâyetine konu kişisel veriler Şirket tarafından Avukatlık Ortaklığına aktarılmış olsa da kişisel verilerin korunması mevzuatı ve uygulanması bağlamında Avukatlık Ortaklığının sahip olduğu sıfatın fiili durumun şartları gözetilerek belirlenmesi gerektiği, </li>
+<li>Avukatlık Ortaklığının yetkilerinin, Şirket ile arasındaki vekalet ilişkisi ve Sözleşme kapsamında Şirketin alacaklarının tahsil ve takip işlemlerinin yürütülmesi ile sınırlı olsa dahi Şirket tarafından kendisine aktarılan kişisel veriler üzerinde gerçekleştirilecek işleme faaliyetlerini yönettiğinin görüldüğü, bu itibarla, avukatlık faaliyetleri çerçevesinde Avukatlık Ortaklığının kişisel veri işleme faaliyetleri bakımından serbestçe karar verme yetkisine sahip olduğu, ilgili kişinin şikâyetine konu kişisel verilerinin işlenme amaç ve vasıtalarını belirlediği ve veri sorumlusu olarak kabul edilmesi gerektiği,</li>
+<li>Veri sorumlusu tarafından avukatlık faaliyetleri kapsamında Şirketin alacaklarının borçlu ilgili kişiden tahsil edilebilmesi ve ilgili kişiye sağlanacak kolaylıklar ile borcun ödenmemesi durumunda ilgili kişinin maruz kalabileceği hukuki risklerin bildirilmesi amacıyla Kanunun 5’inci maddesinin ikinci fıkrasının (e) bendinde öngörülen “bir hakkın tesisi, kullanılması veya korunması için veri işlemenin zorunlu olması” işleme şartına dayanılarak kısa mesaj göndermek suretiyle ilgili kişinin kişisel verilerinin işlenmesinin mümkün olduğu;</li>
+<li>Bununla birlikte, şikâyete konu somut olayda veri sorumlusu tarafından benzer içerikli 5 kısa mesajın, yaklaşık 1 aylık periyotlarla ilgili kişiye gönderildiği, veri sorumlusunun Kurumu muhatap cevabi yazısında da belirtildiği üzere söz konusu mesajların, ayda yalnızca 1 kereye mahsus olmak üzere, hafta içi, mesai saatleri içerisinde ilgili kişiye gönderildiği, bu kapsamda, söz konusu işleme faaliyetinin Kanunun 4’üncü maddesinin ikinci fıkrasının (a) bendinde yer alan “hukuka ve dürüstlük kurallarına uygun olma” ve (ç) bendinde yer alan “işlendikleri amaçla bağlantılı, sınırlı ve ölçülü olma” ilkelerine de aykırılık teşkil etmediği</li>
+</ul>
+<p>değerlendirmelerinden hareketle,</p>
+<ul>
+<li>Veri sorumlusu tarafından ilgili kişinin telefon numarasının işlenmesi suretiyle gerçekleşen kişisel veri işleme faaliyetinin Kanun’un 5’inci maddesinin ikinci fıkrasının (e) bendinde yer alan bir hakkın tesisi, korunması veya kullanılması için veri işlemenin zorunlu olması hükmü kapsamında hukuka uygun olduğu değerlendirildiğinden söz konusu şikâyet kapsamında yapılacak bir işlem bulunmadığına,</li>
+<li>İlgili kişinin, veri sorumlusunun Şirketten elde ettiği kişisel veriler hakkında ilgili kişiyle iletişime geçildiği ilk anda aydınlatma yükümlülüğünün yerine getirilmemesi ve ilgili kişinin kendisine gönderilen kısa mesajlar hakkında bilgi almak üzere veri sorumlusunun çağrı merkezini araması sırasında alınan ses kaydı hakkında ses kaydı gerçekleşmeden önce aydınlatma yükümlülüğünün yerine getirilmemesi nedeniyle Kanun’un 18’inci maddesinin birinci fıkrasının (a) bendi uyarınca cezalandırılması talebine ilişkin olarak ilgili kişinin veri sorumlusuna başvurusunda söz konusu iddialara ilişkin bir açıklama veya talebin bulunmadığı anlaşıldığından Kanun kapsamında yapılacak bir işlem bulunmadığına,</li>
+<li>İlgili kişinin, veri sorumlusu nezdinde hukuka aykırı olarak elde edilen veriler üzerinden vatandaşların kimlik ve iletişim bilgileri gibi kişisel verilerin sorgulanmasına imkân tanıyan yazılım/program/uygulama kullanıp kullanmadığı hususunda denetim yapılması talebine ilişkin olarak veri sorumlusunun cevabi yazısında ilgili kişinin bu iddiasının reddedilmiş olduğu ve ilgili kişi tarafından da iddiasını tevsik edici nitelikte herhangi bir bilgi, belge veya kaydın Kuruma iletilmemiş olduğu dikkate alındığında bahse konu talep hakkında Kanun kapsamında yapılacak bir işlem bulunmadığına</li>
+</ul>
+<p>karar verilmiştir.<br/>
+ </p>
+</div>
+</div>
+</div>
