@@ -1,0 +1,3 @@
+Yeterlik sınavı sonuçlarına itiraz
+MADDE 26 – (1) Sınav sonuçları eğitim koordinatör birimi tarafından, ilgiliye tebliğ edilmek üzere bağlı olduğu birime gönderilir.
+(2) Sınav sonuçlarına, tebliğ edildiği tarihten itibaren yazılı olarak yedi iş günü içinde itiraz edilebilir. İtirazlar bu sürenin bitiminden itibaren Kurul tarafından en fazla (Değişik ibare:RG-22/3/2023-32140) yedi iş günü içinde incelenerek karara bağlanır. İtiraz sonucu uzman yardımcısına yazılı olarak bildirilir. İtirazların değerlendirilmesi üzerine verilen kararlar kesindir. Süresi içinde yapılmayan itirazlar dikkate alınmaz.

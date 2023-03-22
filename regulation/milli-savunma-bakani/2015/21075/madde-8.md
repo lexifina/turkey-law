@@ -1,0 +1,6 @@
+Giriş sınavına hazırlık çalışmaları
+MADDE 8 – (Değişik:RG-22/3/2023-32140)
+(1) Giriş sınavı hazırlık çalışmaları Genel Müdürlükçe yürütülür. Genel Müdürlük, başvuru için öngörülen süre içesinde yapılan müracaatları inceler.
+(2) Aranılan nitelikleri taşıyan adaylar arasında, ilanda belirtilen KPSS puan türlerinden en yüksek puanı alan adaydan başlamak üzere, öğrenim dallarına göre atama yapılacak uzman yardımcısı kadro sayısının; yazılı sınav yapılması halinde yirmi katını, yalnızca sözlü sınav yapılması halinde dört katını geçmemek üzere ilanda belirlenen sayıda aday sıralamaya tabi tutulur. Atama yapılacak kadro sayısının öğrenim dalları itibarıyla ayrı ayrı belirlenmesi durumunda, giriş sınavına çağrılacak aday sayısı da ayrı ayrı hesaplanır. Bu şekilde belirlenen sayıda aday tutanakla tespit edilir ve giriş sınavına katılma hakkını elde eder. KPSS puan türü itibarıyla en son adayın aldığı puanla aynı puana sahip diğer adaylar da giriş sınavına çağrılır.
+(3) Giriş sınavına katılma hakkını elde eden adayların listesi Bakanlığın kurumsal internet sitesinde ilan edilir.
+(4) Giriş sınavına girme hakkını kazanan adaylara sınav giriş belgesi verilir. Sınav giriş belgesinde, fotoğraf, kimlik bilgileri, sınav yeri ve tarihi yer alır. Giriş belgesi olmayan adaylar sınava katılamaz.

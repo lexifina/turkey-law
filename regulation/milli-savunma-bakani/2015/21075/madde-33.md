@@ -1,0 +1,4 @@
+Yurt dışı eğitim ve yurt dışı görevlendirme (Değişik başlık:RG-22/3/2023-32140)
+MADDE 33 – (1) Uzmanlar ve uzman yardımcıları, 657 sayılı Kanun ve 21/1/1974 tarihli ve 7/7756 sayılı Bakanlar Kurulu Kararı ile yürürlüğe konulan Yetiştirilmek Amacıyla Yurt Dışına Gönderilecek Devlet Memurları Hakkında Yönetmelik hükümleri çerçevesinde, staj veya araştırma yapmak, mesleki bilgi ve görgülerini artırmak veya yurt dışındaki üniversitelerden kabul belgesi almaları şartıyla lisansüstü öğrenim görmek üzere yurt dışına gönderilebilirler.
+(2) (Ek:RG-22/3/2023-32140) Bakanlık tarafından yurt dışında icra edilen faaliyetler kapsamında ilgili mevzuat çerçevesinde uzman görevlendirilebilir.
+(3) (Ek:RG-22/3/2023-32140) Yurt dışına görevlendirilenler, inceleme ve araştırmalarına ilişkin olarak düzenleyecekleri raporu, yurda döndükleri tarihten itibaren üç ay içerisinde Kurumun yetkili amirine sunar.

@@ -1,0 +1,5 @@
+Tez değerlendirme ve yeterlik sınavı kurulu
+MADDE 21 – (1) Uzmanlık tezlerinin incelenmesi ve değerlendirilmesi, yeterlik sınavının yapılması ile sonuçlarının açıklanması ve itirazların incelenerek karara bağlanması tez değerlendirme ve yeterlik sınavı kurulu tarafından yapılır.
+(2) (Değişik:RG-22/3/2023-32140) Kurul; Bakan tarafından içlerinden birinin başkan olarak görevlendirileceği asgari daire başkanı seviyesindeki yöneticiler arasından; Bakanlıktan bir, ilgili kurumdan dört üye olmak üzere toplam beş üyeden oluşur. Aynı usulle, beş yedek üye belirlenir. Kurul üye tam sayısıyla toplanır ve oy çokluğuyla karar alır.
+(3) Kurulun sekreterlik hizmetleri eğitim koordinatör birimi tarafından yerine getirilir.
+(4) Kurul üyeleri; kendileri, aralarında evlilik bağı kalksa bile eşleri, kendileri veya eşlerinin altsoy ve üstsoyları, kendileri ile arasında evlatlık bağı bulunanlar, üçüncü derece de dâhil olmak üzere kan veya kendisini oluşturan evlilik bağı kalksa dahi kayın hısımlığı bulunanlar ile nişanlılarının katıldıkları sınavlarda ve tezlerinin değerlendirilmesinde görev alamazlar, bunların yerine yedek üyeler katılır.

@@ -1,0 +1,6 @@
+Tez danışmanı ve tezin hazırlanması
+MADDE 19 – (1) Uzmanlık tezi, tez konusunun kesinleşmesini takip eden bir yıl içinde hazırlanır.
+(2) Uzman yardımcısına tez hazırlama sürecinde yardımcı olmak ve tavsiyelerde bulunmak maksadıyla, uzman yardımcısının görevli olduğu en az daire başkanı veya muadili seviyedeki ilgili birim amiri ile koordine edilerek, eğitim koordinatör birimi tarafından bir tez danışmanı belirlenir.
+(3) Uzmanlar ile Kurum teşkilatı veya bağlı kuruluşlarında görev yapan ve daha önce lisansüstü programlarda akademik çalışma yapmış, tezin konusunda uzman kamu görevlileri tez danışmanı olarak belirlenir. Gerektiğinde üniversite öğretim üyeleri ile (Değişik ibare:RG-22/3/2023-32140) Bakanlık kadro ve kuruluşunda yer alan kurumlar veya kamu kurum ve kuruluşlarından da danışman belirlenebilir.
+(4) Uzmanlık tezleri, tez danışmanının rehberliğinde bilimsel esaslara uygun olarak hazırlanır. Türkçe olarak hazırlanacak uzmanlık tezinin, uzman yardımcısının kendi görüş ve değerlendirmelerini içermesi esastır. (Ek cümle:RG-22/3/2023-32140) Uzman yardımcısının tezini hazırlayabilmesi maksadıyla görev yaptığı birim tarafından gereken imkân ve kolaylıklar sağlanır.
+(5) Uzmanlık tezinin hazırlanması, değerlendirilmesi ve tez konusunda uygulanacak diğer usul ve esaslar Kurum tarafından belirlenir.
