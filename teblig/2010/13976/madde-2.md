@@ -1,0 +1,2 @@
+Dayanak
+MADDE 2 – (1) Bu Tebliğ, (Değişik ibare:RG-8/7/2012-28347) 12/5/2010 tarihli ve 27579 sayılı Resmî Gazete’de yayımlanan Sosyal Sigorta İşlemleri Yönetmeliğinin 110 uncu maddesinin üçüncü fıkrası ile 27/9/2008 tarihli ve 27010 sayılı Resmî Gazete’de yayımlanan Sosyal Güvenlik Kurumu Asgari İşçilik Tespit Komisyonunun Çalışma Usul ve Esasları Hakkında Yönetmeliğin 10 uncu maddesi hükümlerine dayanılarak hazırlanmıştır.

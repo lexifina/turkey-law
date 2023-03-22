@@ -1,0 +1,2 @@
+Eski tebliğ hükümleri
+MADDE 7 – (1) Bu Tebliğin 6 ncı maddesi hükümleri saklı kalmak üzere, 29/9/2005 tarihli ve 25951 sayılı Resmî Gazete’de yayımlanmış olan “Asgari İşçilik Tespit Komisyonunca Belirlenen Çeşitli İşkollarına Ait Asgari İşçilik Oranlarını Gösterir Tebliğ” ile bahse konu Tebliğde değişiklik yapılmasına dair 22/6/2006 tarihli ve 26206 sayılı Resmî Gazete’de yayımlanan Tebliğ ve eki listeler, bu Tebliğin yayımı tarihinden itibaren yürürlükten kaldırılmıştır.
