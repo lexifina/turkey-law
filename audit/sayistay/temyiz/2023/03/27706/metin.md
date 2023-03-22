@@ -1,0 +1,5 @@
+Yapım işinde; ihale dokümanında yüklenicinin taahhüdünde yer almayan imalatın iş artışı hesaplarına dahil edilmesi;
+
+2- 253 sayılı İlamın 8. maddesinin (2) bendiyle verilen …TL’nin tazminine dair hükümde Gerçekleştirme Görevlisi sıfatı ile iştiraki bulunan …’nun itiraz başvurusu üzerine düzenlenen 47149 sayılı dosya, 22.03.2023 tarihli ve 54649 tutanak sayılı Temyiz Kurulu Kararı (2. maddesi)  ile; yapılan ödemede mevzuata aykırı bir husus bulunmadığı ve kamu zararı oluşmadığına ilişkin olarak belirtilen hususların tekrar değerlendirilmesini teminen 6085 sayılı Sayıştay Kanununun 55 inci maddesinin 7 nci fıkrası uyarınca tazmin hükmünün bozulması suretiyle Dairesine gönderildiğinden; yukarıda adı geçen bir diğer sorumlu …’yu ilgilendiren ve aynı mahiyette olan 47151 sayılı işbu dosyanın da sözü edilen (47149 sayılı) dosya ile BİRLEŞTİRİLEREK gereği yapılmak üzere hükmü veren DAİREYE GÖNDERİLMESİNE,  oy birliğiyle,
+
+Karar verildiği 22.03.2023 tarih ve 54651 sayılı tutanakta yazılı olmakla işbu ilam tanzim kılındı.
