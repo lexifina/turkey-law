@@ -1,0 +1,15 @@
+Herhangi bir itirazda bulunulmadan, yapılan tahsilat nedeniyle zaten “ilişilecek husus kalmadığına” hükmedilen ilam maddesi hakkında bu defa yine aynı tahsilat belgeleriyle temyiz talebinde bulunulması;
+
+1- 253 sayılı İlamın 1. maddesiyle; … yükleniminde bulunan “…” İşinde;
+
+A) 5510 sayılı Sosyal Sigortalar ve Genel Sağlık Sigortası Kanununun “Prim oranları ve Devlet katkısı” başlıklı 81 inci maddesinde yer alan hükümlere göre çalışan personelin prim oranı % 37,5 iken, “Sosyal güvenlik destek primine ilişkin geçiş hükümleri” başlıklı geçici 14 üncü maddesinde yer alan “Bu Kanunun 4 üncü maddesinin birinci fıkrasının (a) bendi kapsamında çalışanlar için sosyal güvenlik destek primi oranı 80 inci maddeye göre tespit edilen prime esas kazançlar üzerinden 81 inci maddenin birinci fıkrasının (c) bendinde belirtilen prim oranına yüzde 30 oranının eklenmesi suretiyle bulunan toplamdır.” Hükmü uyarınca emekli olup çalışmaya devam eden ve sosyal güvenlik destek primine tabi olanlar için prim oranı % 32 olarak belirlenmiş olmasına karşın, söz konusu işe ilişkin olarak düzenlenen hakedişlerin ve eki belgelerin incelenmesi sonucunda, emekli personel için de % 32 yerine % 37,5 oranında sigorta primi ödenmesi nedeniyle oluşan … TL,
+
+B) 4734 sayılı Kamu İhale Kanununa Göre İhale Edilen Hizmet Alımlarında Uygulanacak Fiyat Farkına İlişkin Esasların “İşçilik Maliyetlerinde Değişiklik” başlıklı 6 ncı maddesi hükmü ile 01.09.2012 tarih ve 28398 sayılı Resmi Gazete’de yayımlanan İşveren Uygulama Tebliğinin 7 nci maddesinin “Yemek Paraları” başlıklı kısmında yer alan hükümler uyarınca, açık ihale tarihinden sonraki yıllarda yemek prim istisna tutarı artışından kaynaklanan prim eksilişinin yüklenicinin hakedişlerinden kesilmemesi sonucu oluşan … TL,
+
+Olmak üzere toplam … TL kamu zararının 15.04.2019 tarihli ve 8879 yevmiye nolu muhasebe işlem fişinden tahsil edildiği anlaşıldığından ilişik kalmadığına ilişkin hüküm tesis edilmiştir.
+
+İlgililer [(Ödeme Emri Belgesi Üzerinde İmzası Bulunan) Gerçekleştirme Görevlisi sıfatıyla temyiz talep eden Tahakkuk Şube Müdür Vekili …, (Ödeme Emri Belgesi Üzerinde İmzası Bulunan) Harcama Yetkilisi sıfatıyla temyiz talep eden İdari ve Mali İşler Daire Başkan Vekili … ve …Üniversitesi Rektörlüğü adına Kurumun Vekili sıfatıyla temyiz talep eden (Hukuk Müşavirliği personeli) Av. … ve Av. …], kendi gündem sıralarında görüşülen dosyalarındaki temyiz dilekçelerinde tamamen aynı mahiyette; sorgu aşamasında da zaten göndermiş oldukları tahsilat belgelerini bu defa temyiz aşamasında yeniden göndermişlerdir.
+
+Bu itibarla, temyize konu ilam maddesinde sorgu aşamasında gönderilen tahsilat belgeleri doğrultusunda halihazırda “ilişik kalmadığına” karar verildiğinden ve ilgililerce aynı madde ile ilgili bu aşamada herhangi bir itirazda bulunulmadan yine aynı tahsilat belgeleri gönderildiğinden; bu maddeye ilişkin temyiz müracaatları üzerine Kurulumuzca yapılacak işlem bulunmakta olup, usulden REDDİNE, oy birliğiyle,
+
+Karar verildiği 22.03.2023 tarih ve 54641 sayılı tutanakta yazılı olmakla işbu ilam tanzim kılındı.
