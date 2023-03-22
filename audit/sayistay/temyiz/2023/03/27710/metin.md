@@ -1,0 +1,5 @@
+Fiilen yöneticilik yapmakta olan akademik personele hastane döner sermaye gelirlerinden “Diğer Faaliyetler Puanı (E)” adı altında mesai içi performans ek ödemesi yapılması;
+
+2- 253 sayılı İlamın 10. maddesiyle verilen … TL’nin tazminine dair hükümde Harcama Yetkilisi sıfatı ile iştiraki bulunan …’nun itiraz başvurusu üzerine düzenlenen 47152 sayılı dosya, 22.03.2023 tarihli ve 54652 tutanak sayılı Temyiz Kurulu Kararı (2. maddesi) ile; yapılan ödemede mevzuata aykırı bir husus bulunmadığı ve kamu zararı oluşmadığına ilişkin olarak belirtilen hususların tekrar değerlendirilmesini teminen 6085 sayılı Sayıştay Kanununun 55 inci maddesinin 7 nci fıkrası uyarınca tazmin hükmünün bozulması suretiyle Dairesine gönderildiğinden; yukarıda adı geçen bir diğer sorumlu …’i ilgilendiren ve aynı mahiyette olan 47157 sayılı işbu dosyanın da sözü edilen (47152 sayılı) dosya ile BİRLEŞTİRİLEREK gereği yapılmak üzere hükmü veren DAİREYE GÖNDERİLMESİNE,  oy birliğiyle,
+
+Karar verildiği 22.03.2023 tarih ve 54653 sayılı tutanakta yazılı olmakla işbu ilam tanzim kılındı.
