@@ -1,0 +1,16 @@
+{
+  "kind": "decision",
+  "issuer": "Sayıştay Temyiz Kurulu",
+  "number": "54648",
+  "decision_date": "2023-03-22",
+  "source_id": 27700,
+  "chamber": "2",
+  "file_number": "47179",
+  "public_body_type": "Yüksek Öğretim Kurumları",
+  "account_year": "2017",
+  "subject": "İhale Mevzuatı ile İlgili Kararlar",
+  "source": "https://www.sayistay.gov.tr/KararlarTemyiz/Detay/27700/",
+  "source_sha256": "343b2c139d816a40d726f9b17fc4761d10b94193e6cbd6aa754cb7b8acdcfcd4",
+  "text_status": "as-enacted",
+  "text_file": "metin.md"
+}
