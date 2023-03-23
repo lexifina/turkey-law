@@ -1,0 +1,18 @@
+{
+  "issuer": "Yüksek Seçim Kurulu",
+  "document_type": "genelge",
+  "number": "2023/224",
+  "list_number": "224",
+  "genelge_number": "136",
+  "decision_date": "2023-03-23",
+  "title": "Yüksek Seçim Kurulunun 23/03/2023 Tarihli ve 2023/224 Sayılı Kararı ve Eki İlçe ve İl Seçim Kurullarının Seçim Sonuçlarına İlişkin Görevleri ile Yurt Düzeyi Seçim Sonuçlarının Belirlenmesinde Uygulanacak Usul ve Esaslara Dair 136 Sayılı Genelge",
+  "official_document": "https://www.ysk.gov.tr/doc/genelge/dosya/2309753/2023-224.pdf",
+  "source_sha256": "bd675a14b621d4b892daffe0dcdf44dafc615fc3c14293d8932263b37bc6f81a",
+  "official_list": "https://www.ysk.gov.tr/doc/genelge/genelgeler.txt",
+  "official_list_sha256": "e2e17901e83bc662251224ba5740d2e1142eb68c36a2e83c237cad070c4903d6",
+  "pdf_pages": 15,
+  "text_status": "metadata-only",
+  "metadata_only_reason": "the two text extractions (PyMuPDF / pdftotext) differ",
+  "in_force": "2023-03-23",
+  "law_text_complete": false
+}
