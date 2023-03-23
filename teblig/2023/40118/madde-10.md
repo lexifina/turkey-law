@@ -1,0 +1,9 @@
+Çeşitli hükümler
+MADDE 10- (1) 5 ila 7 nci maddelere göre ödenecek alacakların tespitinde esas alınacak olan en son karar, tahakkuka ilişkin verilen ve 12/3/2023 tarihinden (bu tarih dâhil) önce taraflardan birine tebliğ edilmiş olan karardır.
+(2) 12/3/2023 tarihi itibarıyla; uzlaşma hükümlerinden yararlanılmak üzere başvuruda bulunulmuş, uzlaşma günü verilmemiş veya uzlaşma günü gelmemiş ya da uzlaşma sağlanamamış, ancak dava açma süresi geçmemiş alacaklar da 5 ila 7 nci madde hükmünden yararlanır.
+(3) 5 ila 7 nci madde hükmünden yararlanılması için bu maddeler kapsamına giren alacaklara karşı 12/3/2023 tarihinden sonra dava açılmaması, açılmış davalardan vazgeçilmesi ve kanun yollarına başvurulmaması şarttır.
+(4) 5 ila 7 nci madde hükmünden yararlanmak için başvuruda bulunan ancak Kanunda belirtilen ödeme şartını yerine getirmeyen borçlulardan, ilk tahakkuka göre belirlenen alacaklar başka bir işleme gerek olmaksızın takip edilir. Şu kadar ki, 12/3/2023 tarihinden önce verilmiş olan en son yargı kararının, tahakkukun tasdikine ilişkin olması hâlinde bu karar üzerine tahakkuk eden alacaklar takip edilir.
+(5) 5 ila 9 uncu madde hükmünden yararlananlar, 4458 sayılı Kanunun uzlaşma ve 5326 sayılı Kanunun peşin ödeme indirimi hükümlerinden yararlanamazlar.
+(6) 8 ile 9 uncu madde hükümlerinden yararlanılabilmesi için madde kapsamında ödeme başvurusunda bulunulan alacağa ilişkin dava açılmaması şarttır.
+(7) Kanunun yayımı tarihi olan 12/3/2023 tarihinden (bu tarih dâhil) önce gümrük müdürlüklerince karar alma süreci tamamlanmış ancak henüz tebligat süreci bitmemiş alacakların Kanunun 3 üncü maddesi kapsamında kesinleşmemiş alacak olarak yapılandırılması mümkündür.
+(8) 21/3/2007 tarihli ve 5607 sayılı Kaçakçılıkla Mücadele Kanunu hükümleri uyarınca verilen idari para cezaları Kanun kapsamında bulunmamaktadır.

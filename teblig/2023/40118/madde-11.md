@@ -1,0 +1,7 @@
+Başvuru şekli ve süreler
+MADDE 11- (1) Kanunun ilgili maddelerindeki başvuru süresine ilişkin hükümler saklı kalmak kaydıyla Kanun hükümlerinden yararlanmak isteyen borçluların, 31/5/2023 günü mesai bitimine kadar ilgili gümrük idaresine EK-1’de belirtilen forma uygun olarak başvuruda bulunmaları şarttır.
+(2) Kanunun 1 inci maddesinin birinci fıkrasının (b) bendi kapsamına giren alacakların yapılandırılmasına ilişkin başvurular ilgili gümrük idaresine yapılır.
+(3) Alacağın birden fazla gümrük idaresini ilgilendirmesi durumunda, her idareye ayrı ayrı başvurulur.
+(4) Alacak aslı ve buna bağlı idari para cezaları ve fer’i alacaklara ilişkin başvurular gümrük beyannamesi, ek tahakkuk kararı ve para cezası kararı itibarıyla yapılır. Aynı idarece takip edilen birden fazla alacağın yapılandırılmasına ilişkin talepler tek başvuru ile yapılabilir. Bu durumda, yükümlülüğe ilişkin detay bilgiler başvuruda ayrı ayrı belirtilir.
+(5) Başvurunun iadeli taahhütlü posta yoluyla yapılması durumunda başvuru belgelerinin postaya verildiği tarih, normal posta ile veya şahsen yapılması hâlinde ise başvuruda bulunulan idarenin genel evrak kayıtlarına intikal ettiği tarih başvuru tarihi olarak dikkate alınır.
+(6) Gümrük vergileri aslına bağlı olmayan idari para cezalarına ilişkin başvurular her bir para cezası kararı için ayrı ayrı yapılır. Ancak, aynı idarece takip edilen birden fazla para cezasının yapılandırılmasına ilişkin talepler tek başvuru ile yapılabilir. Bu durumda, yükümlülüğe ilişkin detaylı bilgiler başvuruda ayrı ayrı belirtilir.
