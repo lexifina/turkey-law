@@ -1,0 +1,25 @@
+{
+  "kind": "norm",
+  "issuer": "Enerji Piyasası Düzenleme Kurumu",
+  "market": "natural-gas",
+  "document_type": "board-decision",
+  "number": "11746",
+  "decision_date": "2023-03-23",
+  "title": "6 Şubat 2023 tarihinde meydana gelen depremler nedeniyle olağanüstü hâl kararı alınan ve/veya afet bölgesi ilan edilen yerlerde faaliyet gösteren doğal gaz dağıtım şirketleri ve doğal gaz abonelikleri hakkında",
+  "resmi_gazete_date": "2023-03-25",
+  "resmi_gazete_number": "32143",
+  "categories": [
+    "Doğal Gaz Piyasası Kurul Kararları"
+  ],
+  "source": "https://www.epdk.gov.tr/Detay/DownloadDocument?id=ybm+7Ba1jLA=",
+  "documents": [
+    "https://www.epdk.gov.tr/Detay/DownloadDocument?id=ybm+7Ba1jLA="
+  ],
+  "source_sha256": "ade509aae6d4703de71338a3734b1f617bd943239c8fbe5f4a8a171710419937",
+  "official_list": "https://www.epdk.gov.tr/Detay/Icerik/3-0-19/kurul-kararlari",
+  "official_list_leaf": 14708,
+  "text_status": "as-enacted",
+  "text_file": "metin.md",
+  "in_force": "2023-03-23",
+  "law_text_complete": true
+}
