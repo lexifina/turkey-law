@@ -1,0 +1,25 @@
+{
+  "kind": "norm",
+  "issuer": "Enerji Piyasası Düzenleme Kurumu",
+  "market": "electricity",
+  "document_type": "board-decision",
+  "number": "11745",
+  "decision_date": "2023-03-23",
+  "title": "6 Şubat 2023 tarihinde meydana gelen depremler nedeniyle olağanüstü hâl kararı alınan ve/veya afet bölgesi ilan edilen yerlerde faaliyet gösteren dağıtım lisansı sahibi tüzel kişiler hakkında",
+  "resmi_gazete_date": "2023-03-25",
+  "resmi_gazete_number": "32143",
+  "categories": [
+    "6 Şubat 2023 tarihinde Kahramanmaraş merkezli olarak meydana gelen depremlere İlişkin"
+  ],
+  "source": "https://www.epdk.gov.tr/Detay/DownloadDocument?id=f8zPRkoFRzA=",
+  "documents": [
+    "https://www.epdk.gov.tr/Detay/DownloadDocument?id=f8zPRkoFRzA="
+  ],
+  "source_sha256": "2e382ed42fb2fa12f6788acfe786d78555b0ed10c3662a1b919c168d629e9a91",
+  "official_list": "https://www.epdk.gov.tr/Detay/Icerik/3-0-39/kurul-kararlari-",
+  "official_list_leaf": 33862,
+  "text_status": "as-enacted",
+  "text_file": "metin.md",
+  "in_force": "2023-03-23",
+  "law_text_complete": true
+}
