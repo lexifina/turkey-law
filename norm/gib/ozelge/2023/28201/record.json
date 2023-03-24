@@ -1,0 +1,22 @@
+{
+  "kind": "norm",
+  "issuer": "Gelir İdaresi Başkanlığı",
+  "document_type": "ozelge",
+  "number": "21152195-130[13-2022.5194]-149014",
+  "source_id": 28201,
+  "date": "2023-03-24",
+  "title": "Yurtdışında yaşayan T.C. vatandaşı gurbetçiler ile yurt dışında yaşayan T.C. ve yabancı vatandaşlığı aynı anda bulunan çifte vatandaşlık sahibi kişilere Türkiye'de verilen sağlık hizmetleri",
+  "source": "https://gib.gov.tr/mevzuat/kanun/436/ozelge/28201",
+  "related_law": "3065 sayılı KATMA DEĞER VERGİSİ KANUNU",
+  "source_api": "https://gib.gov.tr/api/gibportal/mevzuat/ozelge/list",
+  "source_listing": "evidence/list/2026-11-16/ozelge-p003.json",
+  "source_listing_sha256": "b8eb1aba686c15efb9ca96f819c840940788d8f48769f30127e032220fbff4ab",
+  "source_sha256": "89c8dc146341b15a5923623cd522f015ccbe85355f657d3763503278e7c3f176",
+  "text_status": "as-enacted",
+  "text_file": "metin.md",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  }
+}
