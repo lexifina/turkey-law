@@ -1,0 +1,22 @@
+{
+  "kind": "norm",
+  "issuer": "Gelir İdaresi Başkanlığı",
+  "document_type": "ozelge",
+  "number": "93767041-120-43219",
+  "source_id": 21776,
+  "date": "2023-03-24",
+  "title": "Şoför çalıştırarak ticari taksi işletmeciliği faaliyetinde bulunan mükellefin basit usulden yararlanıp yararlanamayacağı",
+  "source": "https://gib.gov.tr/mevzuat/kanun/433/ozelge/21776",
+  "related_law": "193 sayılı GELİR VERGİSİ KANUNU",
+  "source_api": "https://gib.gov.tr/api/gibportal/mevzuat/ozelge/list",
+  "source_listing": "evidence/list/2026-11-16/ozelge-p000.json",
+  "source_listing_sha256": "5444faf84128246cd8dd8c6db754d41e2a11c7717342bfe0a07a35074d061761",
+  "source_sha256": "e4ee579c48dcb1ded850e39dbaa413d7e52be28f46282985d24403b4da26cd61",
+  "text_status": "as-enacted",
+  "text_file": "metin.md",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  }
+}
