@@ -1,0 +1,1 @@
+MADDE 2- (1) Cumhurbaşkanınca vergi muafiyeti tanınan vakıfların 2023 yılı içinde mücbir sebep hali ilan edilmiş olan yerlerde yaşanılan deprem nedeniyle yaptığı harcamalar, Vakıflara Vergi Muafiyeti Tanınması Hakkında Genel Tebliği (Seri No: 1)’nin “1.5. Gelirin harcanma şekli” başlıklı bölümü kapsamında amaca yönelik harcama olarak değerlendirilebilir.
