@@ -1,0 +1,2 @@
+Eğitim
+MADDE 38 – (1) Personelin görevinde gelişimi ve Kurumun çalışma konuları ile ilgili farklı alanlarda uzmanlaşması amacıyla, hizmet içi eğitim programları ve diğer eğitim faaliyetleri düzenlenir. Eğitim faaliyetlerinin, Kurumda veya yurt içindeki ya da yurt dışındaki kuruluşlarda uygulanmasına olanak sağlanır. Personelin eğitim amacıyla yurt dışına gönderilmesinde, 21/1/1974 tarihli ve 7/7756 sayılı Bakanlar Kurulu Kararı ile yürürlüğe konulan Yetiştirilmek Amacıyla Yurt Dışına Gönderilecek Devlet Memurları Hakkında Yönetmelik hükümleri kıyasen uygulanır.

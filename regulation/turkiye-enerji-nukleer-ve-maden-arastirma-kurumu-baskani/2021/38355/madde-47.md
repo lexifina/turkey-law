@@ -1,0 +1,3 @@
+İnsan kaynakları bilgi sistemi ve bildirim
+MADDE 47 – (1) Personel, T.C. kimlik numarası esas alınarak insan kaynakları bilgi sistemine kaydedilir. Her personel için, gerçek veya elektronik ortamda bir özlük dosyası tutulur. Özlük dosyasına, personelin mesleki bilgileri, mal bildirimleri, varsa inceleme, soruşturma, denetim raporları, disiplin cezaları, ödül ve başarı belgeleri ile özlük işlemlerine ilişkin diğer belgeler konulur.
+(2) Personelin atanmasına, pozisyon değişikliklerine, görevin sona ermesine ilişkin bilgiler ile gerekli görülen diğer bilgiler (Değişik ibare:RG-25/3/2023-32143) Cumhurbaşkanlığınca belirlenen kamu personeli bilgi sisteminin ilgili alanına kaydedilir.

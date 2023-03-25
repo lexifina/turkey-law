@@ -1,0 +1,4 @@
+Mevcut personel
+GEÇİCİ MADDE 1 – (1) 49 uncu madde ile yürürlükten kaldırılan Ulusal Bor Araştırma Enstitüsü Sözleşmeli Personel Yönetmeliğine göre istihdam edilenler hakkında bu Yönetmelik hükümleri uygulanır.
+(2) Kurumda memur kadrolarında istihdam edilenler, bu Yönetmelik kapsamındaki pozisyonlara 37 nci maddenin birinci fıkrasına göre veya şartlarını taşıdıkları yönetici pozisyonlarına atanabilir. Bu personel, sözleşme imzalandıktan sonra bu Yönetmelik hükümlerine tabi olur.
+(3) Cumhurbaşkanlığı Kararnamesinin 690 ıncı maddesi uyarınca kapatılan Ulusal Bor Araştırma Enstitüsünün grup koordinatörü pozisyonunda görev yapmakta iken Cumhurbaşkanlığı Kararnamesinin Kırksekizinci Bölümünün geçici 1 inci maddesinin ikinci fıkrası uyarınca görevi sona erenlerden, kapatılan Ulusal Bor Araştırma Enstitüsünün uzman pozisyonunda görev yapmış olanlar, talepleri halinde bu Yönetmelikte aranan şartlara bakılmaksızın Ar-Ge uzmanı pozisyonunda sınavsız olarak istihdam edilir.

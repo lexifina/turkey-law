@@ -1,0 +1,3 @@
+Yeniden hizmete alınma
+MADDE 42 – (1) İki defadan fazla olmamak üzere; kendi istekleriyle sözleşmeleri usulüne uygun şekilde sona eren personelden tekrar göreve dönmek isteyenler, Kurum tarafından uygun görülmesi, ayrıldıkları hizmet biriminde boş pozisyon bulunması, genel şartlar ile atanacakları pozisyona ilişkin şartları taşımaları halinde Kurum Başkanının teklifi ve Bakanın onayı ile giriş sınavına tabi tutulmaksızın yönetici pozisyonları hariç olmak üzere ayrıldıkları veya görev yaptıkları pozisyonlarda tekrar hizmete alınabilirler.
+(2) Ayrıldıkları hizmet biriminde boş pozisyon bulunmayan personel, Kurum tarafından uygun görülen ve boş pozisyon bulunan bir hizmet biriminde hizmete alınabilir.
