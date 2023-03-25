@@ -1,0 +1,19 @@
+Depremden etkilenenlerin bedelsiz kullanımına bırakılan konutlarda emsal kira bedeli esasının uygulanmaması
+MADDE 8- (1) 7440 sayılı Kanunun 10 uncu maddesinin yirmi birinci fıkrasının (b) bendi uyarınca; Kahramanmaraş İlinde meydana gelen depremler nedeniyle Hazine ve Maliye Bakanlığınca mücbir sebep hali ilan edilen yerlerde; 6/2/2023 tarihi itibarıyla yerleşim yeri bulunan gerçek kişilerin, ikamet etmeleri amacıyla bedelsiz kullanımına bırakılan konutlara ilişkin olarak 2023 yılı için emsal kira bedeli esası uygulanmayacaktır.
+(2) Düzenlemeden yararlanılabilmesi için konutların;
+a) Hazine ve Maliye Bakanlığı tarafından mücbir sebep hali ilan edilen yerlerde 6/2/2023 tarihi itibarıyla yerleşim yeri bulunan gerçek kişilerin ikamet etmeleri amacıyla bedelsiz olarak kullanımına bırakılması,
+b) Depremden etkilenen gerçek kişilerin ikametine 6/2/2023 tarihinden itibaren tahsis edilmesi,
+gerekmektedir.
+(3) Düzenlemeden, Hazine ve Maliye Bakanlığınca mücbir sebep hali ilan edilen yerler ile diğer yerlerde bulunan konutların ikametgah amacıyla bedelsiz olarak depremden etkilenenlerin kullanımına bırakılması durumunda yararlanılabilecektir.
+(4) Kahramanmaraş İlinde meydana gelen depremler nedeniyle Devlet tarafından depremden etkilenenlere yönelik sağlanan barınma, kira, taşınma ve benzeri yardımların alınıyor olması, düzenlemeden yararlanmaya engel teşkil etmeyecektir.
+(5) Düzenleme, yalnızca 2023 takvim yılında bedelsiz kullanıma bırakılan süre için geçerlidir.
+Örnek 1: 6/2/2023 tarihi itibarıyla yerleşim yeri Hatay’da bulunan (A)’nın konutu deprem nedeniyle zarar görmüş olup gerçek kişi (B) Ankara’da bulunan ve yılın başından itibaren boş olan konutunu 1/3/2023 tarihinden itibaren bedelsiz olarak (A)’nın ikametine tahsis etmiştir.
+Bu durumda (A)’nın ikametine bedelsiz tahsis edilen konuta ilişkin olarak 2023 yılı için emsal kira bedeli esası uygulanmayacak ve (B) tarafından da bu konut için emsal kira bedeli uygulanmayacağından yıllık gelir vergisi beyannamesi verilmesi söz konusu olmayacaktır.
+Örnek 2: 6/2/2023 tarihi itibarıyla yerleşim yeri Adıyaman’da bulunan (C)’nin konutu yaşanan deprem felaketi nedeniyle ağır hasar görmüş olup gayrimenkul sermaye iradı mükellefi olan (D), Elazığ’da bulunan ve yılın başından itibaren boş olan konutunu 15/3/2023 tarihinden itibaren bedelsiz olarak (C)’nin ikametine tahsis etmiştir.
+Bu durumda (C)’nin ikametine bedelsiz tahsis edilen konuta ilişkin olarak 2023 yılı için emsal kira bedeli esası uygulanmayacak ve (D) tarafından da bu konut için emsal kira bedeli uygulanmayacağından yıllık gelir vergisi beyannamesi verilmesi söz konusu olmayacaktır.
+Örnek 3: Serbest meslek erbabı (E), Elazığ’da bulunan ve yılın başından itibaren boş olan konutunu bedelsiz olarak 6/2/2023 tarihi itibarıyla yerleşim yeri Adıyaman’da bulunan ve depremden etkilenen (F)’nin ikametine 15/4/2023 tarihi itibarıyla tahsis etmiştir.
+Bu durumda (F)’nin ikametine bedelsiz tahsis edilen konuta ilişkin olarak 2023 yılı için emsal kira bedeli esası uygulanmayacak ve (E) tarafından sadece serbest meslek kazancı nedeni ile yıllık gelir vergisi beyannamesi verilecektir.
+Örnek 4: Gayrimenkul sermaye iradı mükellefi (G), İstanbul’da bulunan ve 2023 yılında aylık 15.000 TL kira elde ettiği konutunu, 1/4/2023 tarihinde bedelsiz olarak 6/2/2023 tarihi itibarıyla yerleşim yeri Adıyaman’da bulunan ve deprem felaketi nedeniyle İstanbul’a taşınmış olan (H)’nin ikametine tahsis etmiştir.
+Bu durumda (H)’nin ikametine bedelsiz tahsis edilen konuta ilişkin olarak 1/4/2023 tarihinden itibaren 2023 yılı sonuna kadar bedelsiz olarak kullanıldığı süre için emsal kira bedeli esası uygulanmayacaktır. Ancak, (G) tarafından bu konuta ilişkin Ocak ila Mart 2023 aylarında elde edilen kira geliri için yıllık gelir vergisi beyannamesi verilecektir.
+DÖRDÜNCÜ BÖLÜM
+Depremde Vefat Edenlerin Mirasçılarına Tüzel Kişiliği Haiz Emekli Sandıkları,

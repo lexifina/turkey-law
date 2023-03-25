@@ -1,0 +1,2 @@
+Binalara ilişkin terkin edilecek vergiler ve diğer alacaklar
+MADDE 26- (1) Kanunun 10 uncu maddesinin yirmi altıncı fıkrası kapsamına, 6/2/2023 tarihinden önce tahakkuk eden ve 7440 sayılı Kanunun yayımı tarihi olan 12/3/2023 tarihi itibarıyla ödenmemiş bulunan emlâk vergisi, taşınmaz kültür varlıklarının korunmasına katkı payı ve çevre temizlik vergisi ile bu alacaklara ilişkin vergi cezası, gecikme faizi ve gecikme zammı girmektedir.

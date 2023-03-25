@@ -1,0 +1,6 @@
+YEDİNCİ BÖLÜM
+Depremler Nedeniyle Mücbir Sebep Hali İlan Edilen Yerlerde Bulunanlardan
+Olan Alacaklarda Şüpheli Alacak Uygulaması
+Yasal düzenleme
+MADDE 17- (1) 7440 sayılı Kanunun 10 uncu maddesinin yirmi beşinci fıkrasında aşağıdaki düzenleme yapılmıştır.
+“(25) 6/2/2023 tarihinde Kahramanmaraş İlinde meydana gelen depremler nedeniyle Hazine ve Maliye Bakanlığınca mücbir sebep hali ilan edilen yerlerde; gelir ve kurumlar vergisi yönünden mükellefiyet kaydı bulunan kişilerden veya gelir vergisi mükellefiyeti bulunmayan ancak yerleşim yeri bu yerlerde olan gerçek kişilerden ya da kuruluş ve faaliyet yeri bu yerlerde bulunan kurumlar vergisi mükellefiyeti olmayan teşekküllerden alacağı bulunan mükellefler, açılan tespit davası üzerine mahkeme tarafından borçlunun mal varlığının en az üçte birini kaybettiğine yönelik verilmiş bir karar bulunması şartıyla, deprem tarihinden önce doğmuş olan ve varlığı 213 sayılı Kanunda sayılan belgeler ile tevsik edilen alacaklarını aynı Kanunun 323 üncü maddesinde yer alan hükümlere göre dava veya icra safhasında bulunan alacak kabul ederek, bu alacakları için pasifte karşılık ayırabilir. İşletme hesabı esasında defter tutan mükellefler, bu fıkra kapsamında tespit edilen şüpheli alacaklarını defterlerinin gider kısmına kaydederler. Bu fıkranın uygulanmasına ilişkin usul ve esaslar Hazine ve Maliye Bakanlığınca belirlenir.”

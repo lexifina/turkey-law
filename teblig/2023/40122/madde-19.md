@@ -1,0 +1,6 @@
+SEKİZİNCİ BÖLÜM
+Binalara ve Taşıtlara İlişkin Vergiler ile Diğer Amme
+Alacaklarının Terkinine İlişkin Hususlar
+Yasal düzenleme
+MADDE 19- (1) 7440 sayılı Kanunun 10 uncu maddesinin yirmi altıncı fıkrasıyla aşağıdaki düzenleme yapılmıştır.
+“(26) 6/2/2023 tarihinde Kahramanmaraş İlinde meydana gelen depremler nedeniyle Hazine ve Maliye Bakanlığınca 213 sayılı Kanunun 15 inci maddesi kapsamında mücbir sebep hali ilan edilen yerlerde, depremlerde yıkılan veya ağır ya da orta hasarlı binalara ve ağır hasar görerek kullanılamaz duruma gelen taşıtlara ilişkin olup 6/2/2023 tarihinden önce tahakkuk eden ve bu Kanunun yayımı tarihi itibarıyla ödenmemiş bulunan emlâk vergisi, taşınmaz kültür varlıklarının korunmasına katkı payı, çevre temizlik vergisi ve motorlu taşıtlar vergisi ile bu alacaklara ilişkin vergi cezası, gecikme faizi, gecikme zammı terkin edilir ve taşıtlar üzerinde 6183 sayılı Kanun hükümlerine göre vergi dairelerince tatbik edilmiş hacizler kaldırılır. Bu hüküm, fıkra kapsamına giren taşıtlara 6/2/2023 tarihinden önce 2918 sayılı Kanunun 116 ncı maddesine göre verilen trafik idari para cezası ile 6001 sayılı Kanunun 30 uncu maddesine göre verilen idari para cezaları ve bu cezanın verilmesine ilişkin geçiş ücreti ile gecikme zammı alacakları için de uygulanır. Bu fıkranın uygulamasına ilişkin usul ve esaslar Hazine ve Maliye Bakanlığınca belirlenir.”

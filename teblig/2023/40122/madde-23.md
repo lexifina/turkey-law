@@ -1,0 +1,2 @@
+Mükellefler tarafından taşıtlara ilişkin yapılacak işlemler
+MADDE 23- (1) Söz konusu düzenlemeden yararlanabilmek amacıyla mükellefler tarafından, adlarına kayıt ve tescilli taşıtları için terkin talep formu (Ek 1) ve deprem nedeniyle ağır hasar görerek kullanılamaz duruma gelen taşıtlara dair ilgili kurum ve kuruluşlar tarafından düzenlenen belge ile mükellefiyetinin bulunduğu vergi dairesine başvuru yapılır.
