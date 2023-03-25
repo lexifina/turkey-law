@@ -1,0 +1,21 @@
+25.03.2023 Tarih ve K-2023/84373 Sayılı Hakem Kararı 1. BAŞVURU KONUSU UYUŞMAZLIK VE YARGILAMA USULÜNE İLİŞKİN
+BİLGİLER:
+1.1. Uyuşmazlık Konusu Olay ve Talep:
+Başvuru sahibi XXX ve XXX ile XX Sigorta arasındaki uyuşmazlık; sigorta şirketi nezdinde Karayolları Zorunlu Trafik Sigorta Poliçesi ile sigortalı bulunan XX plaka sayılı aracın 07.11.2014 tarihinde karışmış olduğu tek taraflı, ölümlü, yaralanmalı ve maddi hasarlı trafik kazası sonucunda başvuranların desteği olan XX’ nın vefat etmesi nedeniyle XX Sigorta tarafından başvuranlara destekten yoksun kalma tazminatı ödemesi yapılması talebinden ibarettir.
+1.2.Başvurunun Hakem Heyetine İntikaline ve İncelenmesine İlişkin Süreç:
+Dosya, görevlendirilen hakem heyeti tarafından 02.01.2023 tarihinde teslim alınmış ve yargılamaya başlanmıştır. Dosya üzerinde yapılan tetkik sonucunda, uyuşmazlığın mahiyeti ve dosya mevcudu itibariyle duruşma yapılmasına ve taraflardan ek belge istenmesine gerek olmadığı kanaatine varılmıştır. Dosyada taraflar sulhen anlaşmış ve başvuran vekilince sunulan feragat beyanı dikkate alınarak 25.03.2023 tarihinde karar verilmiştir.
+2.TARAFLARIN ORTAYA KOYDUĞU MADDİ VE HUKUKİ İDDİALAR
+2.1.Başvuru Sahibinin İddiaları ve Sunduğu Belgeler :
+Başvuran vekili başvurusunda özetle;
+Müvekkillerinin desteği olan XXX ’nın vaki kaza nedeniyle vefat ettiğini, onun desteğinden yoksun kalan müvekkillerinin destekten yoksun kalma tazminatı talep ettiklerini, müteveffanın kazanın oluşumunda etken bir kusurunun bulunmadığını, şimdilik 16.000 TL tazminat miktarının ödenmesi gerektiğini talep ve iddia etmiştir.
+Başvuru sahibi vekili tarafından dosyaya başvuru formu, sigorta kuruluşuna gönderilen ihtarname fotokopisi ve tebliği şerh belgesi, sigorta şirketi red yazısı, Kaza Tespit tutanağı fotokopisi, ceza dosyası evrakları ile diğer bazı belgeleri delil olarak sunmuştur.
+2.2 Sigorta Kuruluşunun Ortaya Koyduğu Savunmalar ve Sunduğu Belgeler
+XX Sigorta vekilinin 15.09.2022 tarihli cevap dilekçesinde ise özetle;
+Başvurunun usulsüz olduğunu, başvurunun zamanaşımına uğradığını, tazminat ödemesin eksiksiz olarak yapıldığını, kusur durumunun yeniden belirlenmesi gerektiği, başvurunun haksız olduğu gibi birtakım beyan ve iddialarda bulunulmuştur. XXX Sigorta vekili cevap dilekçesi ekinde delil sunmamıştır.
+3.UYUŞMAZLIĞA UYGULANACAK HÜKÜMLER
+
+5684 Sayılı Sigortacılık Kanunu, Türk Ticaret Kanunu, Borçlar Kanunu, Hukuk Muhakemeleri Kanunu, Karayolları Trafik Kanunu, Sigortacılıkta Tahkime İlişkin Yönetmelik, Karayolları Zorunlu Trafik Sigortası Genel Şartları ve Sigorta Poliçesi Hükümleri. 4.DEĞERLENDİRME, GEREKÇELİ KARAR VE HUKUKİ DAYANAK Başvuru sahibi ile aleyhine başvuru yapılan XX Sigorta arasındaki uyuşmazlık meydana gelen kaza nedeniyle başvuru sahiplerinin desteği olan XX ’nın vefat etmesi nedeniyle başvuranların talep edebileceği destekten yoksun kalma tazminatının bulunup bulunmadığının tespit edilmesine ilişkindir. Dosya kapsamında tahkikat aşamasına geçilmeden 06.01.2023 tarihinde başvuran vekili ile sigortacı vekili tarafından sulh protokolü gönderilmiş ve tarafların sulhen anlaşılarak tazminat ödemesi yaptıklarını ve dosyada feragat nedeniyle karar oluşturulmasını talep ettiklerini ve başvuranlardan masraf ve vekalet ücreti taleplerinin bulunmadığını belirtmiştir. Başvuran vekili de aynı doğrultuda beyanda bulunduğu için davanın feragat nedeniyle reddine ilişkin aşağıdaki şekilde hüküm kurulması gerekmiştir. 5.KARAR 1. Yukarıda açıklandığı gibi FERAGAT NEDENİYLE DAVANIN REDDİNE, 2.Başvuru sahibi tarafından yapılan masrafların kendi üzerinde bırakılmasına, 3.Aleyhine başvuru yapılan sigorta şirketi kendisini vekil ile temsil ettirmiş ise de vekâlet ücreti talebi bulunmadığından bu konuda karar verilmesine yer olmadığına,
+Dosyanın 5684 sayılı kanunun 30. maddesi ve 6100 sayılı HMK uyarınca taraflara tebliğ edilmek üzere Sigorta Tahkim Komisyonuna teslimine, 5684 sayılı Sigortacılık Kanunu’nun 30’uncu maddesinin 16. fıkrasında belirtilen süreye uygun olarak, 30/12. Md. gereğince kararın bildirim tarihinden itibaren 10 gün içinde Komisyon nezdinde itiraz yolu açık olmak üzere oybirliği ile karar verilmiştir. 25.03.2023
+***
+
+IV. SİGORTA POLİÇELERİNDEN DOĞAN UYUŞMAZLIKLAR İLE İLGİLİ VERİLEN İTİRAZ KARARLARI
