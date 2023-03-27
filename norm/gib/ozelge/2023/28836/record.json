@@ -1,0 +1,22 @@
+{
+  "kind": "norm",
+  "issuer": "Gelir İdaresi Başkanlığı",
+  "document_type": "ozelge",
+  "number": "45404237-130[I-19-263]-73186",
+  "source_id": 28836,
+  "date": "2023-03-27",
+  "title": "Yurt dışından ithal edilen malın finansmanında kullanılan krediye ilişkin ödenen faizlerin BSMV'ye ve KDV'ye tabi olup olmadığı",
+  "source": "https://gib.gov.tr/mevzuat/kanun/436/ozelge/28836",
+  "related_law": "3065 sayılı KATMA DEĞER VERGİSİ KANUNU",
+  "source_api": "https://gib.gov.tr/api/gibportal/mevzuat/ozelge/list",
+  "source_listing": "evidence/list/2026-11-16/ozelge-p004.json",
+  "source_listing_sha256": "f3b82278308562f88be46cc93b2ac53a1050d59c304474af958f8b7377f5bef9",
+  "source_sha256": "3b92a4814884b729a0ecde5b7490b97b290baa34f97ed201053aea3da424fab4",
+  "text_status": "as-enacted",
+  "text_file": "metin.md",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  }
+}
