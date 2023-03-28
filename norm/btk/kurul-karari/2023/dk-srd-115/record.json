@@ -1,0 +1,18 @@
+{
+  "kind": "norm",
+  "issuer": "Bilgi Teknolojileri ve İletişim Kurumu",
+  "document_type": "kurul-karari",
+  "number": "2023/DK-SRD/115",
+  "source_id": "2023/DK-SRD/115",
+  "date": "2023-03-28",
+  "title": "Alternatif Teslimat Modellerinin Uygulanmasına Yönelik Usul ve Esaslar",
+  "source": "https://www.btk.gov.tr/s3/web-btk-site/7708c26c-5161-4919-8b3d-daa31d4ac8fb/2026/03/8223e46f-1362-4084-abae-b27cf837e75d.pdf",
+  "source_sha256": "051f84b3ff2d5ba67f2f8f96b477ed303e69b8f9135ccf8e7b18ec623fe0f507",
+  "text_status": "as-enacted",
+  "text_file": "metin.md",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  }
+}
