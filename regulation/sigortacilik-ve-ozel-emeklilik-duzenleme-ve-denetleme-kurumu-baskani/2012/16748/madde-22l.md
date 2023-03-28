@@ -1,0 +1,2 @@
+Fon danışma kurulu
+MADDE 22/L – (1) Kanun kapsamında sunulacak fonların sayısı ve içeriği ile portföy yönetim şirketlerinin performans kriterleri hakkında istişari nitelikte değerlendirmelerde bulunmak üzere, (Değişik ibare:RG-6/5/2021-31476) Kurum, (Değişik ibare:RG-6/5/2021-31476) Sermaye Piyasası Kurulu, Bankacılık Düzenleme ve Denetleme Kurumu, Türkiye Sigorta, Reasürans ve Emeklilik Şirketleri Birliği, Türkiye Sermaye Piyasası Birliği temsilcilerini teşkil olunan danışma kurulu (Değişik ibare:RG-6/5/2021-31476) Kurumun talebi ve belirlediği gündeme göre toplanır.

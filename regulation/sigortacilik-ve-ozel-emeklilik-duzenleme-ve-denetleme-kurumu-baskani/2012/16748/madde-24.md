@@ -1,0 +1,2 @@
+Sözleşmelerin numaralandırılması
+MADDE 24 – (1) Katılımcı, bireysel emeklilik sisteminde (Değişik ibare:RG-6/5/2021-31476) Kurumca belirlenen esaslar dahilinde tanımlanır. Her bir emeklilik sözleşmesi, (Değişik ibare:RG-6/5/2021-31476) Kurumun belirlediği esaslara göre verilmiş olan numarayı alır. Bu numara sözleşme yürürlükte kaldığı sürece sabit kalır ve aktarım olması durumunda önceki sözleşme numarası olarak aktarım yapılan şirket tarafından saklanır.

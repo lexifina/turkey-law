@@ -1,0 +1,4 @@
+Yönetim gider kesintisi
+MADDE 21 – (1) (Değişik fıkra:RG-25/5/2015-29366) (1) Bireysel emeklilik hesabına ödenen katkı payları ile katılımcının birikimi üzerinden yönetim gider kesintisi alınabilir. Ayrıca 14 üncü maddeye göre ödemeye ara verilmesi halinde ara verme süresi boyunca katılımcının birikiminden ek yönetim gideri kesintisi alınabilir.
+(2) 14 üncü madde kapsamında bir yıldan fazla ödemeye ara verme durumunda, bireysel emeklilik hesabına ilişkin olarak emeklilik gözetim merkezine şirket tarafından ödenen sabit giderler, emeklilik planında belirtilmek kaydıyla katılımcının bireysel emeklilik hesabındaki birikiminden indirilebilir.
+(3) Bu maddeye göre birikimden alınacak kesintilerin hesaptaki birikimin sıfır Türk Lirasının altına düşmesine yol açacağı durumlarda, bu kesintinin, birikimin bu tutarın altına düşmesine yol açacak kısmı tahsil edilmez.

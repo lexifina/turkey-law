@@ -1,0 +1,2 @@
+Katkı payının takip ve tahsili
+MADDE 22/Ç – (1) Çalışanın ücretinden kesilmesine rağmen şirkete aktarılmayan (Değişik ibare:RG-27/12/2018-30638)(4) eksik veya geç aktarılan bu bölüm hükümlerine tabi katkı payının ve varsa getirilerinin takip ve tahsilini Emeklilik Gözetim Merkezi yapar. Bu surette yapılan tahsilatlar çalışanın hesabına aktarılır ve bu Yönetmeliğin 9 uncu maddesi hükümleri çerçevesinde şirket tarafından yatırıma yönlendirilir. (Değişik ibare:RG-6/5/2021-31476) Kurum, bu maddenin uygulanmasına ilişkin esasları belirler.

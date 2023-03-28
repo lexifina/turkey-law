@@ -1,0 +1,83 @@
+{
+  "source_id": "7.5.16748",
+  "kind": "regulation",
+  "register_kind": "Kurum ve Kuruluş Yönetmelikleri",
+  "title": "BİREYSEL EMEKLİLİK SİSTEMİ HAKKINDA YÖNETMELİK",
+  "number": "16748",
+  "issuer": "Sigortacılık ve Özel Emeklilik Düzenleme ve Denetleme Kurumu Başkanı",
+  "issuer_slug": "sigortacilik-ve-ozel-emeklilik-duzenleme-ve-denetleme-kurumu-baskani",
+  "path": "regulation/sigortacilik-ve-ozel-emeklilik-duzenleme-ve-denetleme-kurumu-baskani/2012/16748",
+  "source": "https://www.mevzuat.gov.tr/anasayfa/MevzuatFihristDetayIframe?MevzuatTur=7&MevzuatNo=16748&MevzuatTertip=5",
+  "source_sha256": "9da72e812bda65a76b5c9c09fed93e3f18d59471327cb9e8f8d8e49d96fb9c03",
+  "source_bytes": 168186,
+  "published": "2012-11-09",
+  "gazette": "28462",
+  "in_force": "2023-03-28",
+  "in_force_basis": "latest Resmî Gazete date printed in the source amendment notes/table (\"RG-28/3/2023\") for the current consolidated text",
+  "date_evidence": [
+    [
+      "2023-03-28",
+      "RG-28/3/2023",
+      "Resmî Gazete date printed in the source amendment note"
+    ],
+    [
+      "2023-03-28",
+      "28/3/2023",
+      "Resmî Gazete date in the source amendment table"
+    ],
+    [
+      "2021-05-06",
+      "RG-6/5/2021",
+      "Resmî Gazete date printed in the source amendment note"
+    ],
+    [
+      "2021-05-06",
+      "6/5/2021",
+      "Resmî Gazete date in the source amendment table"
+    ],
+    [
+      "2018-12-27",
+      "RG-27/12/2018",
+      "Resmî Gazete date printed in the source amendment note"
+    ],
+    [
+      "2018-12-27",
+      "27/12/2018",
+      "Resmî Gazete date in the source amendment table"
+    ],
+    [
+      "2016-12-17",
+      "RG-17/12/2016",
+      "Resmî Gazete date printed in the source amendment note"
+    ],
+    [
+      "2016-12-17",
+      "17/12/2016",
+      "Resmî Gazete date in the source amendment table"
+    ],
+    [
+      "2015-05-25",
+      "RG-25/5/2015",
+      "Resmî Gazete date printed in the source amendment note"
+    ],
+    [
+      "2015-05-25",
+      "25/5/2015",
+      "Resmî Gazete date in the source amendment table"
+    ]
+  ],
+  "history": "current-text",
+  "label": "oldest version available",
+  "checked_on": "2026-11-15",
+  "word_count": 10612,
+  "text_status": "current-consolidated",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  },
+  "source_links": [
+    "7.5.16748%20ek.doc"
+  ],
+  "completeness": "html-text-complete; linked annexes not fetched"
+}

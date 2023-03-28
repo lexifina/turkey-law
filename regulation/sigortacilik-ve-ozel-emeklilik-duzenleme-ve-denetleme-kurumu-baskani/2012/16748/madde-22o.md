@@ -1,0 +1,3 @@
+Veri paylaşımı
+MADDE 22/O –(Değişik:RG-27/12/2018-30638)(4)
+(1) Sosyal Güvenlik Kurumu, (Değişik ibare:RG-6/5/2021-31476) Hazine ve Maliye Bakanlığı Muhasebat Genel Müdürlüğü, 17/7/1964 tarihli ve 506 sayılı Sosyal Sigortalar Kanununun geçici 20 nci maddesi kapsamındaki sandıklar ve ilgili diğer kurum ve kuruluşlarla emeklilik gözetim merkezi arasında veri paylaşım protokolü imzalanabilir. Sistemde katkı paylarının ödenmesine ilişkin her türlü kontrol, bu protokollerden temin edilen verilerle sağlanır. Bu verilerin emeklilik gözetim merkezince şirketlerle paylaşılmasını gerektiren durumlarda bu verinin güvenliğinden ilgili şirket sorumludur.

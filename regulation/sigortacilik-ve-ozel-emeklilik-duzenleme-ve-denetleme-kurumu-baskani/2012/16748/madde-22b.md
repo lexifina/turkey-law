@@ -1,0 +1,8 @@
+ALTINCI BÖLÜM (3)
+Çalışanların İşverenleri Aracılığıyla Kanunun Ek 2 nci Maddesi Kapsamında
+Bireysel Emeklilik Sistemine Dâhil Edilmesi
+İşvereni aracılığıyla sisteme dâhil edilecek çalışanlar
+MADDE 22/B – (1) Çalışanlar, Kanunun Ek 2 nci maddesi hükmü çerçevesinde işverenin akdetmiş olduğu bir gruba bağlı bireysel emeklilik sözleşmesi kapsamında, ilgili emeklilik planına dâhil edilir. Birden fazla işveren ile iş akdi bulunan çalışanlar her bir işveren tarafından sunulan emeklilik planına ayrı ayrı dâhil edilir.
+(2) (Değişik:RG-27/12/2018-30638) 5510 sayılı Kanunun 4 üncü maddesinin birinci fıkrasının (a) veya (c) bentlerinde yer almamakla beraber, 5510 sayılı Kanun ve ilgili diğer Kanunlar uyarınca, haklarında 5510 sayılı Kanunun 4 üncü maddesinin birinci fıkrasının (a) veya (c) bentleri hükümleri uygulanan çalışanlar, bu Yönetmelik kapsamında bir emeklilik planına dâhil edilmez.
+(3) (Değişik:RG-27/12/2018-30638) İşveren, ilgili döneme ait ödeme gününe kadar bireysel emeklilik hesabı açılmasına dair yatırım tercihine ilişkin bilgiler dâhil tüm bilgileri eksiksiz iletmekle yükümlüdür. Şirket iletilen bilgilere istinaden bireysel emeklilik hesabı açar ve çalışan adına otomatik katılım sertifikası oluşturur. Otomatik katılım sertifikası, varsa blokaj süresinin tamamlanmasını müteakip, katkı payı olarak yapılan ilk ödemenin şirket hesaplarına nakden intikal ettiği tarihte yürürlüğe girer.
+(4) İşveren, çalışanlarının sisteme dâhil edilmesine, katkı payı hesaplanması ve şirkete aktarılması ile bu Yönetmelik kapsamında diğer işlemlere ilişkin yetkili birimlerini veya yöneticilerini belirler.
