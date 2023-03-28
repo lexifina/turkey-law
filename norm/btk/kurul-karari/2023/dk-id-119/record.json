@@ -1,0 +1,18 @@
+{
+  "kind": "norm",
+  "issuer": "Bilgi Teknolojileri ve İletişim Kurumu",
+  "document_type": "kurul-karari",
+  "number": "2023/DK-İD/119",
+  "source_id": "2023/DK-İD/119",
+  "date": "2023-03-28",
+  "title": "Sosyal Ağ Sağlayıcı Hakkında Usul ve Esaslar",
+  "source": "https://www.btk.gov.tr/s3/web-btk-site/7708c26c-5161-4919-8b3d-daa31d4ac8fb/2026/03/3e4c996d-93ae-458a-901d-bafa4aa4aed3.pdf",
+  "source_sha256": "92de8cbd98e734a11b6190aee808d7de1f6891941f15e71283eca1174fef6205",
+  "text_status": "as-enacted",
+  "text_file": "metin.md",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  }
+}
