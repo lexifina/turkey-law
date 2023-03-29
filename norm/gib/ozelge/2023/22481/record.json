@@ -1,0 +1,22 @@
+{
+  "kind": "norm",
+  "issuer": "Gelir İdaresi Başkanlığı",
+  "document_type": "ozelge",
+  "number": "82476449-010-4509",
+  "source_id": 22481,
+  "date": "2023-03-29",
+  "title": "Faktoring Firmasının kurucuları tarafından ödenen \"sisteme giriş payı'nın\" gider olarak indirim konusu yapılıp yapılmayacağı",
+  "source": "https://gib.gov.tr/mevzuat/kanun/435/ozelge/22481",
+  "related_law": "5520 sayılı KURUMLAR VERGİSİ KANUNU",
+  "source_api": "https://gib.gov.tr/api/gibportal/mevzuat/ozelge/list",
+  "source_listing": "evidence/list/2026-11-16/ozelge-p000.json",
+  "source_listing_sha256": "5444faf84128246cd8dd8c6db754d41e2a11c7717342bfe0a07a35074d061761",
+  "source_sha256": "6468c50050a99f84012ad88383c130e057afdb8c68692620273a9e561e82865e",
+  "text_status": "as-enacted",
+  "text_file": "metin.md",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  }
+}
