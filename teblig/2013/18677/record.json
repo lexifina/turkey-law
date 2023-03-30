@@ -1,0 +1,75 @@
+{
+  "source_id": "9.5.18677",
+  "kind": "communique",
+  "register_kind": "Tebliğler",
+  "title": "GENEL AYDINLATMA TEBLİĞİ",
+  "number": "18677",
+  "issuer": "Enerji ve Tabii Kaynaklar Bakanı",
+  "path": "teblig/2013/18677",
+  "source": "https://www.mevzuat.gov.tr/anasayfa/MevzuatFihristDetayIframe?MevzuatTur=9&MevzuatNo=18677&MevzuatTertip=5",
+  "source_sha256": "e1fa92cacf171bc12bfe2b21c34febe4fec8fc7f2a17b0dbad389798f1379c60",
+  "source_bytes": 56003,
+  "published": "2013-08-02",
+  "gazette": "28726",
+  "in_force": "2023-03-30",
+  "in_force_basis": "latest Resmî Gazete date printed in the source amendment notes/table (\"RG-30/3/2023\") for the current consolidated text",
+  "date_evidence": [
+    [
+      "2023-03-30",
+      "RG-30/3/2023",
+      "Resmî Gazete date printed in the source amendment note"
+    ],
+    [
+      "2023-03-30",
+      "30/3/2023",
+      "Resmî Gazete date in the source amendment table"
+    ],
+    [
+      "2020-02-06",
+      "RG-6/2/2020",
+      "Resmî Gazete date printed in the source amendment note"
+    ],
+    [
+      "2020-02-06",
+      "6/2/2020",
+      "Resmî Gazete date in the source amendment table"
+    ],
+    [
+      "2019-12-03",
+      "RG-3/12/2019",
+      "Resmî Gazete date printed in the source amendment note"
+    ],
+    [
+      "2019-12-03",
+      "3/12/2019",
+      "Resmî Gazete date in the source amendment table"
+    ],
+    [
+      "2018-11-16",
+      "RG-16/11/2018",
+      "Resmî Gazete date printed in the source amendment note"
+    ],
+    [
+      "2018-11-16",
+      "16/11/2018",
+      "Resmî Gazete date in the source amendment table"
+    ]
+  ],
+  "commencement_clauses": [
+    "Bu Tebliğ 1/7/2013 tarihinden geçerli olmak üzere yayımı tarihinde yürürlüğe girer"
+  ],
+  "history": "current-text",
+  "label": "oldest version available",
+  "checked_on": "2026-11-15",
+  "word_count": 3623,
+  "text_status": "current-consolidated",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  },
+  "source_links": [
+    "9.5.18677-Ek.zip"
+  ],
+  "completeness": "html-text-complete; linked annexes not fetched"
+}

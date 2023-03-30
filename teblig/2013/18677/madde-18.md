@@ -1,0 +1,15 @@
+DÖRDÜNCÜ BÖLÜM
+Çeşitli ve Son Hükümler
+Dağıtım şirketlerinin sorumluluğu
+MADDE 18 – (1) Dağıtım şirketleri tüm genel aydınlatma abonelerinin işletme kodu, abone numarası, abone adı, abone adresi, sayaç numarası, hesaplanmış (Değişik ibare:RG-16/11/2018-30597) güç değerlerini ve sayaca ilişkin ölçü devresinin çarpan bilgisini ve aboneye ilişkin ilgili belediye veya il özel idaresi ile bağlantı anlaşması yapılıp yapılmadığını şekil şartları EK-5’te belirtilen tabloya işleyerek ıslak imzalı olarak ve şirket kaşesini içerecek şekilde iki nüsha halinde, bu bilgileri içeren bir kompakt disk ile TEDAŞ’a iletirler.
+(2) (Mülga:RG-16/11/2018-30597)
+(3) (Mülga:RG-16/11/2018-30597)
+(4) (Mülga:RG-16/11/2018-30597)
+(5) Dağıtım şirketlerince sayaç değişimi yapılan genel aydınlatma abonelerine ait eski sayaçlara ilişkin sayaç değişim belgesi, sayaç arıza raporu, varsa optik okuma bilgileri; Bakanlık, EPDK veya TEDAŞ tarafından talep edildiği takdirde ibraz edilmek amacıyla ilgili dağıtım şirketince değişim tarihinden itibaren en az 5 yıl boyunca muhafaza edilir. Eski sayacın kendisi ise, TEDAŞ temsilcisi tarafından görülerek sayaç değişim belgesi imzalanana kadar muhafaza edilir.
+(6) Dağıtım şirketleri, 6446 sayılı Kanunun geçici 6 ncı maddesi uyarınca tüketim bedelleri Bakanlıkça ödenen genel aydınlatma abonelerine ilişkin, sorumluluğu kapsamındaki genel aydınlatma tesislerine ait onaylı projeleri talep edilmesi halinde TEDAŞ’a ve Bakanlığa iletmekle yükümlüdür.
+(7) Dağıtım şirketleri; kamuya ait park, bahçe, tarihî ve ören yerlerinin aydınlatılması ile trafik sinyalizasyonu hariç, genel aydınlatmaya yönelik yeni tesis ve teçhizata ilişkin projeleri onaylatıp kabulünü yaptırmadığı takdirde, bu durumdaki tesis ve teçhizata ilişkin ödeme talebinde bulunamazlar. Söz konusu işlemler tamamlanmadıkça Bakanlığın bu tesis ve teçhizata ait tüketimlere ilişkin herhangi bir ödeme yapma yükümlülüğü yoktur.
+(8) Genel aydınlatma kapsamına yeni ilave olacak tesisler, kabulden sonra (Mülga ibare:RG-16/11/2018-30597)(…) kayıtlara alınarak envanter güncellemesi yapılır.
+(9) İnceleme ve denetimi yapılan dağıtım şirketleri, genel aydınlatma tesis ve teçhizatına ilişkin işletme kodu, ölçüm cihazlarında bir değişim olması halinde değişen ölçüm cihazına ilişkin abone numarası, mühür tutanakları, seri numarası, endeks başlangıç değerleri ve akım ve/veya gerilim trafolarının markası bilgilerini TEDAŞ’a bildirirler. Ölçüm cihazı değişimi bildiriminin yapılmadığının tespit edilmesi durumunda, ilgili olduğu tesis ve teçhizatın tüketimlerine ilişkin ölçüm cihazının değişim tarihinden itibaren Bakanlığın bu tesis ve teçhizata ait tüketimlere ilişkin herhangi bir ödeme yapma yükümlülüğü yoktur.
+(10) Dağıtım şirketleri, belediyeler ve il özel idareleri bazında yapılan genel aydınlatma tüketim miktarlarını ve ödenen tutarları ödeme dönemlerine göre internet sitelerinde yayımlar.
+(11) TEDAŞ, dağıtım şirketlerinden bu madde kapsamında gerekli bilgi ve belgeleri talep etmeye yetkilidir.
+(12) (Ek:RG-16/11/2018-30597) (Mülga:RG-6/2/2020-31031)
