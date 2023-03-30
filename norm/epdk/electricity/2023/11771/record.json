@@ -1,0 +1,25 @@
+{
+  "kind": "norm",
+  "issuer": "Enerji Piyasası Düzenleme Kurumu",
+  "market": "electricity",
+  "document_type": "board-decision",
+  "number": "11771",
+  "decision_date": "2023-03-30",
+  "title": "“Kaynak Bazında Destekleme Bedelinin Belirlenmesine ve Uygulanmasına İlişkin Usul ve Esasların” 8 inci maddesi çerçevesinde; piyasa katılımcılarının fatura son ödeme tarihi geçmemiş fatura dönemleri için faturalarına yansıması öngörülen destekleme bedeli borç tutarlarına ilişkin",
+  "resmi_gazete_date": "2023-03-31",
+  "resmi_gazete_number": "32149",
+  "categories": [
+    "Kaynak Bazında Destekleme Bedelinin Belirlenmesine ve Uygulanmasına İlişkin Usul ve Esaslar Kapsamında Alınan Kararlar"
+  ],
+  "source": "https://www.epdk.gov.tr/Detay/DownloadDocument?id=+19u2UDMGsA=",
+  "documents": [
+    "https://www.epdk.gov.tr/Detay/DownloadDocument?id=+19u2UDMGsA="
+  ],
+  "source_sha256": "0343fc8332b10801a71b3a42597da664a814a8fcfe1a4183890189230f9bedd2",
+  "official_list": "https://www.epdk.gov.tr/Detay/Icerik/3-0-39/kurul-kararlari-",
+  "official_list_leaf": 33889,
+  "text_status": "as-enacted",
+  "text_file": "metin.md",
+  "in_force": "2023-03-30",
+  "law_text_complete": true
+}
