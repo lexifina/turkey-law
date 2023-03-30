@@ -1,0 +1,22 @@
+{
+  "kind": "norm",
+  "issuer": "Gelir İdaresi Başkanlığı",
+  "document_type": "sirkuler",
+  "number": "VUK-153/ 2023-4",
+  "source_id": 688,
+  "date": "2023-03-30",
+  "title": "31 Mart 2023 günü sonuna kadar verilmesi gereken 2022 takvim yılı Yıllık Gelir Vergisi beyannamelerinin verilme süreleri ve bu beyannameler üzerine tahakkuk eden vergilerin ödeme süreleri, 31 Mart 2023 günü sonuna kadar verilmesi gereken 2023/Şubat dönemi",
+  "source": "https://gib.gov.tr/mevzuat/kanun/434/sirkuler/688",
+  "related_law": "213 sayılı VERGİ USUL KANUNU",
+  "source_api": "https://gib.gov.tr/api/gibportal/mevzuat/sirkuler/list",
+  "source_listing": "evidence/list/2026-11-16/sirkuler-p000.json",
+  "source_listing_sha256": "60c9b519ec13187d56f9a7863ce3934a7fb9c37357209b90158ca6acfcc95b41",
+  "source_sha256": "f50d3fba72d6f0b6ffcaf46783a7cd1c21a191ba413a4811bdf6934102e970dc",
+  "text_status": "as-enacted",
+  "text_file": "metin.md",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  }
+}
