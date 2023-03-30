@@ -1,0 +1,26 @@
+{
+  "kind": "norm",
+  "issuer": "Enerji Piyasası Düzenleme Kurumu",
+  "market": "petroleum",
+  "document_type": "board-decision",
+  "number": "11760",
+  "decision_date": "2023-03-30",
+  "title": "Boru Hatları ile Petrol Taşıma A.Ş.’nin (BOTAŞ); PİL/480-110/11077 sayılı İletim Lisansı kapsamında faaliyette bulunan Yumurtalık (Ceyhan) – Kırıkkale Ham Petrol Boru Hattına ilişkin iletim tarifesi",
+  "resmi_gazete_date": "2023-04-01",
+  "resmi_gazete_number": "32150",
+  "categories": [
+    "İletim Tarifesi"
+  ],
+  "source": "https://www.epdk.gov.tr/Detay/DownloadDocument?id=yaV8LfhQz/k=",
+  "documents": [
+    "https://www.epdk.gov.tr/Detay/DownloadDocument?id=yaV8LfhQz/k=",
+    "https://www.epdk.gov.tr/Detay/DownloadDocument?id=NXYrjIM/N+k="
+  ],
+  "source_sha256": "19a52d22f92aeea010bf2e45bb3f65aa160c427c4e85cf2d4fb5c0e196114a4c",
+  "official_list": "https://www.epdk.gov.tr/Detay/Icerik/3-0-100/kurul-kararlari",
+  "official_list_leaf": 5334,
+  "text_status": "as-enacted",
+  "text_file": "metin.md",
+  "in_force": "2023-03-30",
+  "law_text_complete": true
+}
