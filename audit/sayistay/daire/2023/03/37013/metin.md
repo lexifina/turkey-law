@@ -1,0 +1,13 @@
+Otopark Kiralama Bedeli
+
+Dosya kapsamındaki bilgi ve belgelerin incelenmesi ve sorumlunun sözlü savunmasının dinlenmesi sonucunda,
+
+Her ne kadar Denetçi sorgusunda,  ihale ile kiraya verilen Belediye hizmet binası yanı otoparkında işletmeci tarafından fiilen kullanılan alan ile Belediye tarafından ihaleye çıkılırken hesaplanan alan arasında işletmeci lehine fark olduğu halde kira bedelinin ihaleye çıkılan alan üzerinden belirlenmesi sonucunda kamu zararına neden olunduğu iddia edilmişse de;
+
+22.02.2018 tarihli ve 30340 sayılı Resmi Gazete’de yayımlanan Otopark Yönetmeliği’nin, “Genel Esaslar” başlıklı 4’üncü maddesinin (ç) bendinde, “Binek otoları için birim park alanı, manevra alanı dâhil en az 20 m2’dir.(…)” denilmekte olup, anılan Yönetmeliğin “Bina ve parsel otoparklarının düzenlenme esasları” başlıklı 5’inci maddesinin (h) bendinin sekizinci fıkrasında ise, “Otoparkların tefrişinde manevra alanı hariç, binek otoları için en az 2,40x4,90 metre, kamyonet ve panelvan için 3,00x6,00 metre, kamyon ve otobüsler için en az 4,00x12,00 metre ölçüsü esas alınır.” hükmüne yer verilmiştir.
+
+Sorumluların savunmalarından ve savunma eki belgelerin incelenmesinden, Otopark Yönetmeliği’nin yukarıda yer verilen maddeleri çerçevesinde binek araçlar için manevra alanı hariç 2,40x4,90 = 11,76 m² alana ihtiyaç olduğu dikkate alınırsa, fiziki ölçümde tespit edilen 3.110 m2 ’lik alanın 265 araç için yeterli olduğu, Yönetmelik kapsamında, manevra dahil alanın dikkate alınması halinde ise otoparkın 156 araç kapasiteli olacağı, ancak söz konusu otopark alanının gerek Belediye personelinin araçları gerekse de Belediyeye ait resmi araçlar için kullanılıyor olduğu ve bu kapsamda İnsan Kaynakları ve Eğitim Müdürlüğünden alınan yazıda merkez hizmet binasında görev yapan 253 personel aracının, merkez binada faaliyette bulunan Müdürlüklerin ise hizmetlerde kullandığı 37 adet resmi aracın bulunduğu, ayrıca bölgeye yakın diğer kamu kurum ve kuruluşlarına ait araçların da otoparktan ücretsiz olarak yararlandırıldığı göz önüne alındığında, işletmeci tarafından fiilen otopark olarak işletilen alanın, 100 araçlık kapasitenin dahi altında olduğu anlaşılmaktadır.
+
+Dolayısı ile fiili durumda işletmeci lehine haksız bir yarar sağlanmamış olup bu noktada Belediye açısından mahrum kalınan bir gelir de söz konusu olmadığından kamu zararından bahsetmek mümkün değildir.
+
+Bu itibarla, …-TL hakkında ilişilecek husus bulunmadığına 6085 sayılı Sayıştay Kanunu’nun 55’inci maddesi uyarınca İlamın tebliğ tarihinden itibaren altmış gün içerisinde Sayıştay Temyiz Kurulu nezdinde temyiz yolu açık olmak üzere oy birliğiyle karar verildi.
