@@ -1,0 +1,26 @@
+{
+  "kind": "norm",
+  "issuer": "Enerji Piyasası Düzenleme Kurumu",
+  "market": "petroleum",
+  "document_type": "board-decision",
+  "number": "11759",
+  "decision_date": "2023-03-30",
+  "title": "ATAŞ Anadolu Tasfiyehanesi A.Ş.’nin; PİL/1347-3/23163 sayılı iletim lisansı kapsamında faaliyette bulunan ATAŞ İletim Hatlarına ilişkin iletim tarifesi",
+  "resmi_gazete_date": "2023-04-01",
+  "resmi_gazete_number": "32150",
+  "categories": [
+    "İletim Tarifesi"
+  ],
+  "source": "https://www.epdk.gov.tr/Detay/DownloadDocument?id=lcbFNC3r1Wk=",
+  "documents": [
+    "https://www.epdk.gov.tr/Detay/DownloadDocument?id=lcbFNC3r1Wk=",
+    "https://www.epdk.gov.tr/Detay/DownloadDocument?id=lsUDPWwqAJw="
+  ],
+  "source_sha256": "2d26bea01628ef29b3043595786c0bca6b55f4d334bb6036636ad9ee7e5b7400",
+  "official_list": "https://www.epdk.gov.tr/Detay/Icerik/3-0-100/kurul-kararlari",
+  "official_list_leaf": 5334,
+  "text_status": "as-enacted",
+  "text_file": "metin.md",
+  "in_force": "2023-03-30",
+  "law_text_complete": true
+}
