@@ -1,0 +1,26 @@
+{
+  "kind": "norm",
+  "issuer": "Enerji Piyasası Düzenleme Kurumu",
+  "market": "petroleum",
+  "document_type": "board-decision",
+  "number": "11764",
+  "decision_date": "2023-03-30",
+  "title": "Shell & Turcas Petrol A.Ş.’nin; DEP/2066-1/25885 sayılı depolama lisansı kapsamında faaliyette bulunan Antalya Terminaline ilişkin depolama tarifesi",
+  "resmi_gazete_date": "2023-04-01",
+  "resmi_gazete_number": "32150",
+  "categories": [
+    "Depolama Tarifesi"
+  ],
+  "source": "https://www.epdk.gov.tr/Detay/DownloadDocument?id=TEpCry+z/pg=",
+  "documents": [
+    "https://www.epdk.gov.tr/Detay/DownloadDocument?id=TEpCry+z/pg=",
+    "https://www.epdk.gov.tr/Detay/DownloadDocument?id=DA1y9nuHhKc="
+  ],
+  "source_sha256": "ba5a98e68658c6f6682f04d51e57b84ea10fb5c2a9e8d98fdf34163a360a1363",
+  "official_list": "https://www.epdk.gov.tr/Detay/Icerik/3-0-100/kurul-kararlari",
+  "official_list_leaf": 5140,
+  "text_status": "as-enacted",
+  "text_file": "metin.md",
+  "in_force": "2023-03-30",
+  "law_text_complete": true
+}
