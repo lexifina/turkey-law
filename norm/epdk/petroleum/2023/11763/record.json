@@ -1,0 +1,26 @@
+{
+  "kind": "norm",
+  "issuer": "Enerji Piyasası Düzenleme Kurumu",
+  "market": "petroleum",
+  "document_type": "board-decision",
+  "number": "11763",
+  "decision_date": "2023-03-30",
+  "title": "Shell & Turcas Petrol A.Ş.’nin; PİL/3212-6/29444 sayılı iletim lisansı kapsamında faaliyette bulunan Antalya Terminaline ilişkin iletim tarifesi",
+  "resmi_gazete_date": "2023-04-01",
+  "resmi_gazete_number": "32150",
+  "categories": [
+    "İletim Tarifesi"
+  ],
+  "source": "https://www.epdk.gov.tr/Detay/DownloadDocument?id=IlL08dv7pMI=",
+  "documents": [
+    "https://www.epdk.gov.tr/Detay/DownloadDocument?id=IlL08dv7pMI=",
+    "https://www.epdk.gov.tr/Detay/DownloadDocument?id=eN08UlyeCLw="
+  ],
+  "source_sha256": "8c513c5e9a2bec4f0af0db5dcc74d04afced795a1ea2fd865b12fa501f48ded8",
+  "official_list": "https://www.epdk.gov.tr/Detay/Icerik/3-0-100/kurul-kararlari",
+  "official_list_leaf": 5334,
+  "text_status": "as-enacted",
+  "text_file": "metin.md",
+  "in_force": "2023-03-30",
+  "law_text_complete": true
+}
