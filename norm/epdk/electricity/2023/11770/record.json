@@ -1,0 +1,25 @@
+{
+  "kind": "norm",
+  "issuer": "Enerji Piyasası Düzenleme Kurumu",
+  "market": "electricity",
+  "document_type": "board-decision",
+  "number": "11770",
+  "decision_date": "2023-03-30",
+  "title": "Kaynak Bazında Destekleme Bedelinin Belirlenmesine ve Uygulanmasına İlişkin Usul ve Esaslar’ın 4 üncü maddesinin dördüncü fıkrası kapsamında hesaplanan azami uzlaştırma fiyatının güncellenmesine ilişkin",
+  "resmi_gazete_date": "2023-03-31",
+  "resmi_gazete_number": "32149",
+  "categories": [
+    "Kaynak Bazında Destekleme Bedelinin Belirlenmesine ve Uygulanmasına İlişkin Usul ve Esaslar Kapsamında Alınan Kararlar"
+  ],
+  "source": "https://www.epdk.gov.tr/Detay/DownloadDocument?id=UWfXppeVABs=",
+  "documents": [
+    "https://www.epdk.gov.tr/Detay/DownloadDocument?id=UWfXppeVABs="
+  ],
+  "source_sha256": "c42550ccbec73cf0c024b07c885b6892724b4279247a50fa232fb8d44dce2095",
+  "official_list": "https://www.epdk.gov.tr/Detay/Icerik/3-0-39/kurul-kararlari-",
+  "official_list_leaf": 33889,
+  "text_status": "metadata-only",
+  "metadata_only_reason": "the two text extractions differ",
+  "in_force": "2023-03-30",
+  "law_text_complete": false
+}
