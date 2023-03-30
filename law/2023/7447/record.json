@@ -1,0 +1,61 @@
+{
+  "record_type": "law-metadata",
+  "document_type": "kanun",
+  "number": "7447",
+  "year": 2023,
+  "title": "İstiklal Madalyası Verilmiş Bulunanlara Vatani Hizmet Tertibinden Şeref Aylığı Bağlanması Hakkında Kanun ile Bazı Kanunlarda ve Kanun Hükmünde Kararnamelerde Değişiklik Yapılmasına Dair",
+  "adopted": "2023-03-30",
+  "date_basis": "last-sitting",
+  "official_text_pdf": "http://www5.tbmm.gov.tr/tutanaklar/KANUNLAR_KARARLAR/kanuntbmmc106/kanuntbmmc106/kanuntbmmc10607447.pdf",
+  "kanunlar_dergisi": "Kanunlar Dergisi Cilt: 106",
+  "committee_reports": [
+    {
+      "label": "TBMM 441 no'lu Komisyon Raporu",
+      "url": "http://www5.tbmm.gov.tr/tutanaklar/TUTANAK/TBMM/d27/c126/tbmm27126082ss0441.pdf"
+    }
+  ],
+  "index_entries": [
+    {
+      "assembly": "TBMM",
+      "term": 27,
+      "kayit_no": 926531,
+      "title": "İstiklal Madalyası Verilmiş Bulunanlara Vatani Hizmet Tertibinden Şeref Aylığı Bağlanması Hakkında Kanun ile Bazı Kanunlarda ve Kanun Hükmünde Kararnamelerde Değişiklik Yapılmasına Dair",
+      "adopted_as_published": null,
+      "official_text_pdf": "http://www5.tbmm.gov.tr/tutanaklar/KANUNLAR_KARARLAR/kanuntbmmc106/kanuntbmmc106/kanuntbmmc10607447.pdf",
+      "committee_reports": [
+        {
+          "label": "TBMM 441 no'lu Komisyon Raporu",
+          "url": "http://www5.tbmm.gov.tr/tutanaklar/TUTANAK/TBMM/d27/c126/tbmm27126082ss0441.pdf"
+        }
+      ],
+      "sittings": [
+        {
+          "cilt": 126,
+          "sitting": 82,
+          "sitting_date": "2023-03-30",
+          "minutes_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/TBMM/d27/c126/tbmm27126082.pdf",
+          "old_script_pdf": null,
+          "volume_index_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/TBMM/d27/c126/tbmm27126fih.pdf",
+          "pages": [
+            "770:815",
+            "816:822",
+            "839:857"
+          ],
+          "date_from": "https://www5.tbmm.gov.tr/develop/owa/tutanak_dergisi_pdfler.birlesimler?v_meclis=1&v_donem=d27&v_yasama_yili=6&v_cilt="
+        }
+      ],
+      "query": "https://www5.tbmm.gov.tr/develop/owa/td_v2.tutanak_hazirla?v_meclis=1&v_donem=27&v_yasama_yili=&v_cilt=&v_birlesim=&v_sayfa=&v_anabaslik=KANUNLAR&v_altbaslik=&v_mv=&v_sb=&v_ozet=&v_kelime=&v_bastarih=&v_bittarih=",
+      "page": "https://www5.tbmm.gov.tr/develop/owa/td_v2.tutanak_sonuc?v_meclis=1&v_donem=27&v_yasama_yili=&v_cilt=&v_birlesim=&v_sayfa=&v_anabaslik=KANUNLAR&v_altbaslik=&v_mv=&v_sb=&v_ozet=&v_bastarih=&v_bittarih=&v_kayit_sayisi=310&v_gelecek_sayfa=301&v_kullanici_id=27484872",
+      "page_sha256": "6e422a6841527f9becfbfacbd8e34a8382e98ed3ed038a1da01ccd35be39674e"
+    }
+  ],
+  "source": "https://www5.tbmm.gov.tr/develop/owa/td_v2.tutanak_hazirla?v_meclis=1&v_donem=27&v_yasama_yili=&v_cilt=&v_birlesim=&v_sayfa=&v_anabaslik=KANUNLAR&v_altbaslik=&v_mv=&v_sb=&v_ozet=&v_kelime=&v_bastarih=&v_bittarih=",
+  "source_sha256": "6e422a6841527f9becfbfacbd8e34a8382e98ed3ed038a1da01ccd35be39674e",
+  "issuer": "TBMM",
+  "in_force": "2023-03-30",
+  "in_force_basis": "The index gives no Kabul tarihi: date of the last plenary sitting it cites for this kanun (2023-03-30); commencement not asserted",
+  "history_type": "metadata",
+  "text_status": "metadata-only: official index fields; the text is in the linked official PDF (Kanunlar Dergisi), not transcribed",
+  "law_text_complete": false,
+  "privacy_withheld": false
+}
