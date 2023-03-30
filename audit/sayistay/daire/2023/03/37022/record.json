@@ -1,0 +1,17 @@
+{
+  "kind": "decision",
+  "issuer": "Sayıştay 6. Dairesi",
+  "number": "906",
+  "decision_date": "2023-03-30",
+  "source_id": 37022,
+  "chamber": "6",
+  "ilam_number": "443",
+  "item_number": 1,
+  "public_body_type": "Belediyeler ve Bağlı İdareler",
+  "account_year": 2013,
+  "subject": "Çeşitli Konuları İlgilendiren Kararlar",
+  "source": "https://www.sayistay.gov.tr/KararlarDaire/Detay/37022/",
+  "source_sha256": "877c887140583d01226b1626131d6ef7a62acd6972f808105c4ca79a801ab038",
+  "text_status": "as-enacted",
+  "text_file": "metin.md"
+}
