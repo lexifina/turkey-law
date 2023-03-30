@@ -1,0 +1,17 @@
+{
+  "kind": "decision",
+  "issuer": "Sayıştay 6. Dairesi",
+  "number": "904",
+  "decision_date": "2023-03-30",
+  "source_id": 37021,
+  "chamber": "6",
+  "ilam_number": "97",
+  "item_number": 14,
+  "public_body_type": "Belediyeler ve Bağlı İdareler",
+  "account_year": 2021,
+  "subject": "İhale Mevzuatı ile İlgili Kararlar",
+  "source": "https://www.sayistay.gov.tr/KararlarDaire/Detay/37021/",
+  "source_sha256": "dad57063f5fb57c6ddfdf3309dee35f3ddf84b7889643884fa7e21293648a835",
+  "text_status": "as-enacted",
+  "text_file": "metin.md"
+}
