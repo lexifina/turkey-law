@@ -1,0 +1,45 @@
+{
+  "source_id": "25.5.138",
+  "path": "presidential-decree/2023/138",
+  "number": "138",
+  "tertip": "5",
+  "title": "OLAĞANÜSTÜ HAL KAPSAMINDA BAZI TEDBİRLERİN ALINMASI HAKKINDA CUMHURBAŞKANLIĞI KARARNAMESİ (KARARNAME NUMARASI: 138)",
+  "status": "repealed",
+  "text_label": "last-available-consolidated",
+  "enacted": "2023-03-30",
+  "enacted_as_printed": "30.03.2023",
+  "published": "2023-03-31",
+  "gazette": "32149",
+  "in_force": "2023-03-31",
+  "in_force_basis": "Resmî Gazete publication date in the official listing (31.03.2023)",
+  "repeal_notes": [
+    "Bu Kararname Anayasa’nın 119 uncu maddesi uyarınca kendiliğinden yürürlükten kalkmıştır."
+  ],
+  "source": "https://www.mevzuat.gov.tr/anasayfa/MevzuatFihristDetayIframe?MevzuatTur=25&MevzuatNo=138&MevzuatTertip=5",
+  "source_sha256": "d1188c427fa8731d78aa3464dc5f4804674853fbdb83f3eb973e192f5e8365ca",
+  "source_bytes": 21725,
+  "words": 691,
+  "source_images": 1,
+  "images_referenced": 0,
+  "images_deferred": 0,
+  "images_omitted": 1,
+  "omitted_images": [
+    {
+      "src": "25.5.138_dosyalar/image001.png",
+      "url": "https://www.mevzuat.gov.tr/MevzuatMetin/25.5.138_dosyalar/image001.png",
+      "sha256": "0b4d1c87b050c8d6298f88ffbe67be8132bd42fd1f6d1a5eb82e1639bab7d347",
+      "bytes": 20443,
+      "pixels": [
+        104,
+        104
+      ],
+      "emblem_mean_diff": 0.0,
+      "reason": "Presidential emblem (decorative seal above the title, no text); omitted as main omits it for its in-force CBKs"
+    }
+  ],
+  "has_old_texts": false,
+  "history_note": "Earlier versions are not established by this current HTML source.",
+  "listing": "https://www.mevzuat.gov.tr/Anasayfa/MevzuatDatatable (evidence/list/2026-11-17/mulga-00000.json)",
+  "listing_sha256": "2cf34025a8cb3779e733a85e74259f6abc229c240ed8b0da7218b98b01c70836",
+  "checked_on": "2026-11-17"
+}

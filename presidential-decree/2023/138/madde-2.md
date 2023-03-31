@@ -1,0 +1,2 @@
+Sosyal hizmetler alanında alınan tedbirler
+MADDE 2- (1) 6/2/2023 tarihinde meydana gelen depremlerden etkilenen ve 24/5/1983 tarihli ve 2828 sayılı Sosyal Hizmetler Kanunu kapsamında hizmet veren Aile ve Sosyal Hizmetler Bakanlığına bağlı sosyal hizmet kuruluşlarında ve şiddet önleme ve izleme merkezlerinde kalan vatandaşlara konaklama, yemek, temizlik ve diğer hizmetler ücretsiz verilir. Bu giderler Aile ve Sosyal Hizmetler Bakanlığı bütçesinden karşılanır.

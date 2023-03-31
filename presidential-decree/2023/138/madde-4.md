@@ -1,0 +1,3 @@
+Araştırma, geliştirme ve tasarım faaliyetleri ile teknoloji geliştirme bölgelerine yönelik alınan tedbirler
+MADDE 4- (1) 28/2/2008 tarihli ve 5746 sayılı Araştırma, Geliştirme ve Tasarım Faaliyetlerinin Desteklenmesi Hakkında Kanunun 3 üncü maddesinin ikinci fıkrasında sırasıyla yüzde doksan beş, yüzde doksan ve yüzde seksen olarak belirlenmiş olan indirim oranları, olağanüstü hal ilan edilen illerde yer alan Ar-Ge merkezleri ve tasarım merkezlerinde çalışan personel için olağanüstü hal süresince yüzde yüz olarak uygulanır.
+(2) 5746 sayılı Kanunun 3 üncü maddesinin üçüncü fıkrasında düzenlenen sigorta primi işveren hisselerinin tamamı, olağanüstü hal ilan edilen illerde, olağanüstü hal süresince Hazine ve Maliye Bakanlığı bütçesine konulacak ödenekten karşılanır.

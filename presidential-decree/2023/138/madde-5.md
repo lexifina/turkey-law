@@ -1,0 +1,13 @@
+KOSGEB destek alacaklarına ilişkin tedbirler
+MADDE 5- (1) 6/2/2023 tarihinde meydana gelen depremler dolayısıyla genel hayata etkili afet bölgesi olarak kabul edilen yerlerde, KOSGEB tarafından sağlanmış desteklerden yararlanan işletmelerden,
+a) İşyeri yıkılan, acil yıkılacak, ağır veya orta hasarlı hale gelen işletmelerin 2023 yılında geri ödemesi gereken destek tutarları ile kanuni faizlerin tahsilinden,
+b) Hayatını kaybeden veya iş göremez hale gelenlere ait işletmelerin geri ödemesi gereken destek tutarları ile kanuni faizlerin tahsilinden ortaklık payları gözetilerek,
+KOSGEB tarafından belirlenen esaslara göre vazgeçilir.
+(2) 6/2/2023 tarihinde meydana gelen depremler dolayısıyla genel hayata etkili afet bölgesi olarak kabul edilen yerlerde, KOSGEB tarafından verilen desteklerden yararlanan işletmelere ilişkin;
+a) Dava ve/veya icra takibine konu yapılmış olan alacaklar,
+b) 26/9/2011 tarihli ve 659 sayılı Genel Bütçe Kapsamındaki Kamu İdareleri ve Özel Bütçeli İdarelerde Hukuk Hizmetlerinin Yürütülmesine İlişkin Kanun Hükmünde Kararname kapsamında taksitlendirilen alacaklar ile 11/11/2020 tarihli ve 7256 sayılı Bazı Alacakların Yeniden Yapılandırılması ile Bazı Kanunlarda Değişiklik Yapılması Hakkında Kanun kapsamında yapılandırılan destek tutarları,
+c) İlgili birimlerce 6/2/2023 tarihinden önce kullandırılıp işletmelerden geri tahsiline karar verilen ve hukuki işlem başlatılması talep edilen ancak henüz dava veya icra takibine konu edilmemiş destek tutarları,
+ile ferilerinin tahsilinden KOSGEB tarafından belirlenen esaslara göre vazgeçilir.
+(3) İkinci fıkra uyarınca vazgeçilen alacaklara ilişkin yargılama ve icra takip gideri ile vekâlet ücretinden de vazgeçilir. Vazgeçme, kanun yolları dâhil görülmekte olan tüm davaları kapsar. Vazgeçilen alacaklara ilişkin 2/7/1964 tarihli ve 492 sayılı Harçlar Kanununun 22 nci ve 23 üncü maddeleri uyarınca alınması gereken harçlar alınmaz. Evvelce alınan harçlar iade edilmez. Bu madde kapsamında takibinden vazgeçilen dava ve icra dosyalarıyla ilgili olarak taraflar karşılıklı olarak yargılama ve takip gideri ile vekâlet ücreti talebinde bulunamaz.
+(4) İkinci fıkra kapsamındaki işletmelerden KOSGEB aleyhine menfi tespit davası açmış olan işletmeler, açmış oldukları davalardan bir ay içinde feragat etmeleri şartıyla bu madde hükümlerinden yararlanabilirler. Bu durumda tarafların yaptığı yargılama giderleri ile vekâlet ücreti üzerlerine bırakılır.
+(5) Bu madde kapsamında alacağın tahsilinden vazgeçme işlemleri sadece alacağın kalan kısmı için hüküm ifade eder. Tahsilinden vazgeçilen alacaklara dair işletmeler tarafından yapılmış kısmi ödemeler hakkında herhangi bir talepte bulunulamaz.
