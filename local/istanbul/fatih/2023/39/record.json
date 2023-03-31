@@ -1,0 +1,29 @@
+{
+  "number": "39",
+  "number_as_published": "2023/39",
+  "year": 2023,
+  "month": 3,
+  "title": "Fatih İlçesi, Ayvansaray ve Balat Mahallesi, 2344 Ada 13 ve 14 Parsel ile 2356 Ada 2 Parsele İlişkin TEKLİF-341006847 Plan İşlem Numaralı 1/1000 ölçekli K.A.U.İ.P. Değişikliği",
+  "decision_date": null,
+  "index_date": "2023-03-31",
+  "date_precision": "month",
+  "period": "Mart 2023",
+  "source": "https://www.fatih.bel.tr/tr/main/meclis_kararlar?yil=2023&ay=3",
+  "official_page": "https://www.fatih.bel.tr/tr/main/meclis_kararlar/202339/565",
+  "official_document": null,
+  "source_sha256": "1d01fd670ebc3adcf031363fec0a60da2b1525497350c36a3c49e2381a6ae720",
+  "issuer": "Fatih Belediye Meclisi",
+  "history_type": "metadata",
+  "text_status": "metadata-only: number and subject as published in the official listing; complete decision text is in the linked official page/document, not transcribed",
+  "in_force": "2023-03-31",
+  "in_force_basis": "The official listing gives only the month of this decision (Mart 2023); date set to the last day of that month (turkey-law date convention for month-only sources); exact adoption dates are in the linked official document; legal commencement not asserted",
+  "missing": [
+    "exact decision date",
+    "complete official decision text",
+    "official annexes"
+  ],
+  "law_text_complete": false,
+  "privacy_withheld": false,
+  "record_scope": "one council decision (number and subject as listed)",
+  "listing_month": "2023-03"
+}
