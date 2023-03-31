@@ -1,0 +1,5 @@
+Çalışma heyeti raporu
+MADDE 11 – (1) (Değişik:RG-31/3/2023-32149) Tema çalışma heyeti, Genel Müdürlük tarafından oluşturulmuş veri tanımlama şablonuna uygun olarak veri tanımlama dokümanını planlanan takvime göre son toplantısının ardından en geç otuz gün içinde hazırlar. Hazırlanan tanımlama dokümanı heyet başkanı tarafından Genel Müdürlüğe sunulur.
+(2) (Değişik:RG-31/3/2023-32149) Temel çalışma heyeti; Genel Müdürlük tarafından oluşturulmuş standart şablonu kullanarak çalışma konusu ile ilgili planladığı, yürüttüğü ve gerçekleştirdiği faaliyetleri içeren çalışma heyeti raporunu planlanan takvime göre son toplantısının ardından en geç otuz gün içinde hazırlar. Hazırlanan rapor heyet başkanı tarafından Genel Müdürlüğe sunulur.
+(3) Çalışma heyetlerince (Değişik ibare:RG-31/3/2023-32149) hazırlanan veri tanımlama dokümanı veya rapor, Genel Müdürlük tarafından değerlendirilerek Yürütme Kuruluna sunulur.
+(4) Çalışma heyeti raporunun değerlendirilmesi aşamasında, Genel Müdürlük tarafından gerekli görülmesi halinde, raporun konusu hakkında gerekli mesleki niteliklere sahip uzman kişilerden oluşan rapor değerlendirme kurulu oluşturulabilir.
