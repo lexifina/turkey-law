@@ -1,0 +1,3 @@
+Tekliflerin geçerlilik süresi
+MADDE 31 – (1) Çerçeve anlaşma ihalelerinde tekliflerin geçerlilik süresi; tahmini teklif değerlendirme süresi, şikayete ilişkin süreler, ihale kararının onaylanması ile anlaşma imzalanmasına kadar geçecek süre ve benzeri hususlar dikkate alınarak belirlenir ve bu süre ihale dokümanında belirtilir. İdarece ihtiyaç duyulması halinde bu süre, teklif ve anlaşma koşulları değiştirilmemek ve isteklinin kabulü kaydıyla, en fazla ihale dokümanında belirtilen teklif geçerlilik süresi kadar uzatılabilir.
+(2) Münferit sözleşme aşamasında istekliler tarafından verilecek tekliflerin geçerlilik süresi teklif vermeye davet yazısında belirtilir.

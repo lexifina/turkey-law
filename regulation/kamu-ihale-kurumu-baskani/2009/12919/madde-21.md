@@ -1,0 +1,3 @@
+İlanın uygun olmaması
+MADDE 21 – (1) Bu Yönetmeliğin 18 ve 20 nci maddelerinde belirtilen hükümlere uygun olmayan ilanlar geçersizdir. Bu durumda, ilan bu maddelere uygun bir şekilde yenilenmedikçe ihale yapılamaz.
+(2) Ancak, bu Yönetmeliğin 18 inci maddesinde belirtilen ilanın yapılmaması veya ilan sürelerine uyulmaması halleri hariç, yapılan ilanların 20 nci madde hükümlerine uygun olmadığının anlaşılması durumunda, 18 inci maddeye göre kırk günlük ilan süresi bulunan ihalelerde ilanların yayımlanmasını takip eden onbeş gün, diğer ihalelerde ise on gün içinde hatalı hususlar için düzeltme ilanı yapılmak suretiyle ihale gerçekleştirilebilir. Bu durumda düzeltme ilanı, düzeltme ilan formu kullanılarak ilanın hatalı yayımlandığı yayın organında aynı şekilde yayımlanır.

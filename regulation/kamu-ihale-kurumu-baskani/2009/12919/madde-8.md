@@ -1,0 +1,4 @@
+Uygulanacak ihale usulünün tespiti ve ihale kaydı [1] (Değişik madde başlığı:RG-16/3/2011-27876)
+MADDE 8 – (1) Çerçeve anlaşma ihalelerinde açık ihale usulü uygulanır.
+(2) (Ek: 16/3/2011 – 27876 R.G. / 4 md.) Çerçeve anlaşma ihale dokümanının hazırlanmasından önce idare tarafından EKAP üzerinden ihale kaydı yapılır. İhale kaydı yapılan her bir ihaleye ihale kayıt numarası verilir ve bu aşamadan sonra EKAP üzerinde ihale ile ilgili yapılacak her işlemde bu numara kullanılır. Münferit sözleşme aşamasında ise EKAP üzerinde oluşturulan sözleşme tasarısı ile listeye alınan ve yasaklılık teyidi yapılan isteklilere davet gönderilmeden önce EKAP üzerinden ayrı bir ihale kayıt numarası alınır.
+(3) (Ek: 16/3/2011 – 27876 R.G. / 4 md.) Ön ilan yapılan ihalelerde ihale kaydı ön ilan hazırlanmadan önce yapılır.

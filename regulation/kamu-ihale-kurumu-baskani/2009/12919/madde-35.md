@@ -1,0 +1,8 @@
+YEDİNCİ BÖLÜM
+Listenin Oluşturulması ve Çerçeve Anlaşma İhalesinin Sonuçlandırılması
+Listenin oluşturulması
+MADDE 35 – (1) Çerçeve anlaşma ihalelerinde yeterlik kriterlerini sağlayan çerçeve anlaşmaya taraf olacak istekli sayısı üçten az olmamak üzere ihale ilanı ile ihale dokümanında belirtilir. Bu durumda idarelerce ekonomik açıdan en avantajlı tekliften başlayarak listeye alınacak istekliler belirlenir.
+(2) Listeye alınacak istekliler sadece fiyat esasına göre veya fiyat ile birlikte fiyat dışındaki unsurlar da dikkate alınarak belirlenir. İhale konusu işin özelliği göz önünde bulundurularak işletme ve bakım maliyeti, maliyet etkinliği, verimlilik, kalite ve teknik değer gibi unsurlar fiyat dışı unsur olarak belirlenebilir.
+(3) Listeye alınacak isteklilerin fiyat ile birlikte fiyat dışı unsurların da dikkate alınarak belirleneceği ihalelerde; fiyat dışı unsurların parasal değerleri veya nispi ağırlıkları ile hesaplama yöntemi ve bu unsurlara ilişkin değerlendirmenin yapılabilmesi için sunulacak belgeler idari şartnamede açıkça belirtilir. Münferit sözleşme aşamasında isteklilerin tekliflerinin değerlendirilmesinde; çerçeve anlaşma aşamasında öngörülen aynı fiyat dışı unsurlar, parasal değerleri veya nispi ağırlıkları değiştirilmeksizin, dikkate alınarak ekonomik açıdan en avantajlı teklif belirlenir.
+(4) Fiyat dışı unsurlar, bir marka veya model esas alınarak rekabeti ortadan kaldırıcı bir şekilde belirlenemez.
+(5) Fiyat dışı unsurlara, bu unsurların parasal değerlerine veya nispi ağırlıklarına ve hesaplama yöntemine yönelik düzenlemeyi yapan birim veya görevliler tarafından gerekçeli bir açıklama belgesi hazırlanır ve bu belge ihale onay belgesinin ekinde yer alır.

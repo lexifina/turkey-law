@@ -1,0 +1,2 @@
+Geçiş hükümleri
+GEÇİCİ MADDE 6 – (Ek: 07/06/2014–29023 R.G./19.md.) (1) Bu maddenin yürürlüğe girdiği tarihten önce ilanı veya yazılı olarak duyurusu yapılmış olan ihaleler, ilanın veya duyurunun yapıldığı tarihte yürürlükte olan yönetmelik hükümlerine göre sonuçlandırılır. Ancak, bu maddeyi yürürlüğe koyan Yönetmeliğin 18 inci maddesinde yer alan hüküm ilan veya duyuru tarihlerine bakılmaksızın aynı maddenin yürürlüğe girdiği tarihten itibaren uygulanır.

@@ -1,0 +1,2 @@
+Teknik şartnameler
+MADDE 12 – (1) Konusu mal veya hizmet alımı olan çerçeve anlaşma ihalelerinde ihtiyacın teknik ayrıntılarını ve şartlarını gösteren; konusu yapım işleri olan çerçeve anlaşma ihalelerinde ise yapım işinin teknik ayrıntıları ve şartları ile projesini de kapsayan teknik şartnameler hazırlanarak ihale dokümanına dahil edilir. Teknik şartnamelerin hazırlanmasında ilgili Uygulama Yönetmeliğindeki düzenlemeler esas alınır.

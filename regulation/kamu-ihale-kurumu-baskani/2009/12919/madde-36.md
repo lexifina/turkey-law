@@ -1,0 +1,3 @@
+Tekliflerin eşit olması durumu
+MADDE 36 – (1) Çerçeve anlaşma ihalelerinde tekliflerin eşit olması nedeniyle listeye alınacak istekli sayısının ihale dokümanında öngörülen sayıyı aşması halinde, aynı teklifi veren isteklilerin tamamı listeye alınır.
+(2) Münferit sözleşme aşamasında birden fazla istekli tarafından verilen tekliflerin eşit olduğu ve bunların da ekonomik açıdan en avantajlı teklif olduğunun anlaşıldığı durumlarda teklifler ilgili Uygulama Yönetmeliğinde belirtilen esaslar dikkate alınarak idari şartnamede belirtilen usule göre değerlendirilerek ekonomik açıdan en avantajlı teklif belirlenir.

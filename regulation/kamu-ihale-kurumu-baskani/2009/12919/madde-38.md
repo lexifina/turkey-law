@@ -1,0 +1,4 @@
+Yerli istekliler lehine fiyat avantajı uygulanması
+MADDE 38 - (1) (Değişik: 16/3/2011 – 27876 R.G. / 10 md.) Yerli istekli tanımı ve bu durumun belgelendirilmesi ile yerli istekliler/yerli malını teklif eden istekliler lehine fiyat avantajı uygulanmasında ilgili uygulama yönetmeliğinde belirtilen esaslar dikkate alınır.
+(2) (Değişik: 16/3/2011 – 27876 R.G. / 10 md.) Çerçeve anlaşma ihalesinde yerli istekliler/yerli malını teklif eden istekliler lehine fiyat avantajı uygulanmaması durumunda, münferit sözleşme aşamasında da fiyat avantajı uygulaması yapılmaz.
+(3) (Değişik: 16/3/2011 – 27876 R.G. / 10 md.) Çerçeve anlaşma ihalesinde yerli istekliler/yerli malını teklif eden istekliler lehine fiyat avantajı uygulanması durumunda ise münferit sözleşme aşamasında da fiyat avantajı uygulaması yapılması zorunludur.
