@@ -1,0 +1,18 @@
+{
+  "kind": "norm",
+  "issuer": "Bilgi Teknolojileri ve İletişim Kurumu",
+  "document_type": "kurul-karari",
+  "number": "2023/DK-ETD/98",
+  "source_id": "2023/DK-ETD/98",
+  "date": "2023-03-21",
+  "title": "Mobil Azami Ücret Tarifeleri",
+  "source": "https://www.btk.gov.tr/s3/web-btk-site/7708c26c-5161-4919-8b3d-daa31d4ac8fb/2026/03/99de5767-46d2-4221-a464-dd339695b3ee.pdf",
+  "source_sha256": "62afe715736fad583ea4283935242ab84184be33c3bf3002a39cdda1d9441eb7",
+  "text_status": "as-enacted",
+  "text_file": "metin.md",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  }
+}
