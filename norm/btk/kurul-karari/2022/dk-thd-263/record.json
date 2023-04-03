@@ -1,0 +1,18 @@
+{
+  "kind": "norm",
+  "issuer": "Bilgi Teknolojileri ve İletişim Kurumu",
+  "document_type": "kurul-karari",
+  "number": "2022/DK-THD/263",
+  "source_id": "2022/DK-THD/263",
+  "date": "2022-10-11",
+  "title": "E-Devlet Kapısı Üzerinden Tarife/Kampanya Tekliflerinin Karşılaştırılabilmesine ilişkin Usul ve Esaslar",
+  "source": "https://www.btk.gov.tr/s3/web-btk-site/7708c26c-5161-4919-8b3d-daa31d4ac8fb/2026/03/5ee7d5a2-d55e-4337-8ae1-960aa3a57ee1.pdf",
+  "source_sha256": "49d78953b1a3aebf69016612c4a546e73b99302a530df3c91f4bd8df8d3260d3",
+  "text_status": "as-enacted",
+  "text_file": "metin.md",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  }
+}
