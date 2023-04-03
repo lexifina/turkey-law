@@ -1,0 +1,24 @@
+{
+  "number": "meeting-04-03-6",
+  "number_as_published": "meeting-04-03-6",
+  "year": 2023,
+  "title": "Kentsel Dönüşüm Komisyonu Üyesi Seçimi",
+  "decision_date": "2023-04-03",
+  "source": "https://www.catalca.bel.tr/belgeler/meclis-kararlari",
+  "official_document": "https://www.catalca.bel.tr/uploads/pdfs/document/meclis-kararlari/6780e662245ed-1828.pdf",
+  "source_sha256": "94d6849fd69d78cb0826d3a4219ac083643d1f0ee6a159be9fb606e6a3a0d46f",
+  "issuer": "Çatalca Belediye Meclisi",
+  "history_type": "metadata",
+  "text_status": "metadata-only: listing fields as published; complete decision text is in the linked official document, not transcribed",
+  "in_force": "2023-04-03",
+  "in_force_basis": "Decision date as printed in the official council listing: 03.04.2023 (date line of the official list, 03.04.2023 - 00:00); adoption date of the council decision; legal commencement not asserted",
+  "missing": [
+    "complete official decision text",
+    "official annexes"
+  ],
+  "law_text_complete": false,
+  "privacy_withheld": false,
+  "listing_section": "2023 Nisan",
+  "listing_date_line": "03.04.2023 - 00:00",
+  "record_scope": "one official decision PDF; the official list gives no decision number"
+}
