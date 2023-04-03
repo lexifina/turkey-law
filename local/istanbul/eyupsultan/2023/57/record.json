@@ -1,0 +1,22 @@
+{
+  "number": "57",
+  "number_as_published": "2023/57",
+  "year": 2023,
+  "title": "council decision",
+  "decision_date": "2023-04-03",
+  "source": "https://eyupsultan.bel.tr/tr/main/pages/2023-nisan-ayi-meclis-kararlari/2384",
+  "official_document": "https://eyupsultan.bel.tr/tr/main/pages/2023-57/2397",
+  "source_sha256": "2d3f59ed52d5ad50445b656d8c9a90d13816a08bca29688b48d4cc281fd0c4b5",
+  "issuer": "Eyüpsultan Belediye Meclisi",
+  "history_type": "metadata",
+  "text_status": "metadata-only: subject appears to concern individual persons; official link only",
+  "in_force": "2023-04-03",
+  "in_force_basis": "Decision date as printed in the official council listing: 03.04.2023 (meeting date at the start of the decision page); adoption date of the council decision; legal commencement not asserted",
+  "missing": [
+    "complete official decision text",
+    "official annexes"
+  ],
+  "law_text_complete": false,
+  "privacy_withheld": true,
+  "decision_page_sha256": "34c88aec89ff3e68d10b53906dcf2ba1cc58891eb0043ac6e447e57adffa8141"
+}
