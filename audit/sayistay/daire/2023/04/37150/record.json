@@ -1,0 +1,17 @@
+{
+  "kind": "decision",
+  "issuer": "Sayıştay 8. Dairesi",
+  "number": "276",
+  "decision_date": "2023-04-04",
+  "source_id": 37150,
+  "chamber": "8",
+  "ilam_number": "112",
+  "item_number": 2,
+  "public_body_type": "Belediyeler ve Bağlı İdareler",
+  "account_year": 2021,
+  "subject": "İş Mevzuatı ile İlgili Kararlar",
+  "source": "https://www.sayistay.gov.tr/KararlarDaire/Detay/37150/",
+  "source_sha256": "bfc31331dd0283a71e75300dfedd76f64be2ddf17d9fc914448adacf2ce795ef",
+  "text_status": "as-enacted",
+  "text_file": "metin.md"
+}
