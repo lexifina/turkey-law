@@ -1,0 +1,26 @@
+{
+  "number": "4",
+  "number_as_published": "4",
+  "year": 2023,
+  "title": "2022 yılına ait faaliyet raporu hk.",
+  "decision_date": "2023-04-04",
+  "source": "https://www.mollakoy.bel.tr/meclis-kararlari/sayfa/8/",
+  "official_document": "https://www.mollakoy.bel.tr/karar/2022-yilina-ait-faaliyet-raporu-hk-/39/",
+  "source_sha256": "4d746665a510a2eea2d58de465d564ddb47e909faac6288f2c4decf286e1da61",
+  "issuer": "Mollaköy Belediye Meclisi",
+  "history_type": "metadata",
+  "text_status": "metadata-only: listing fields as published; complete decision text is in the linked official document, not transcribed",
+  "in_force": "2023-04-04",
+  "in_force_basis": "Decision date as printed in the official council listing: 04 Nisan 2023 00:00; adoption date of the council decision; legal commencement not asserted",
+  "missing": [
+    "complete official decision text",
+    "official annexes"
+  ],
+  "law_text_complete": false,
+  "privacy_withheld": false,
+  "official_page": "https://www.mollakoy.bel.tr/karar/2022-yilina-ait-faaliyet-raporu-hk-/39/",
+  "listing_label": "2022 yılına ait faaliyet raporu hk.",
+  "record_scope": "one council decision (number, date, subject as published)",
+  "date_read_from": "Karar Tarihi printed on the item page",
+  "document_note": "the decision text is on the official item page; not transcribed here"
+}
