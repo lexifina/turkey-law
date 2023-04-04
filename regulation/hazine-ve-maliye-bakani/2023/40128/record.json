@@ -1,0 +1,31 @@
+{
+  "source_id": "7.5.40128",
+  "kind": "regulation",
+  "register_kind": "Kurum ve Kuruluş Yönetmelikleri",
+  "title": "HAZİNE VE MALİYE BAKANLIĞI HAZİNE KONTROLÖRLERİ KURULU BAŞKANLIĞI HAKKINDA YÖNETMELİK",
+  "number": "40128",
+  "issuer": "Hazine ve Maliye Bakanı",
+  "issuer_slug": "hazine-ve-maliye-bakani",
+  "path": "regulation/hazine-ve-maliye-bakani/2023/40128",
+  "source": "https://www.mevzuat.gov.tr/anasayfa/MevzuatFihristDetayIframe?MevzuatTur=7&MevzuatNo=40128&MevzuatTertip=5",
+  "source_sha256": "bc22930e784850d436972c5adf01e136b84d0d6ea8b191d88153767eefdd1710",
+  "source_bytes": 140163,
+  "published": "2023-04-04",
+  "gazette": "32153",
+  "in_force": "2023-04-04",
+  "in_force_basis": "Resmî Gazete publication date in the official listing (04.04.2023); own commencement article: \"Bu Yönetmelik yayımı tarihinde yürürlüğe girer\"",
+  "commencement_clauses": [
+    "Bu Yönetmelik yayımı tarihinde yürürlüğe girer"
+  ],
+  "history": "current-text",
+  "label": "oldest version available",
+  "checked_on": "2026-11-15",
+  "word_count": 7714,
+  "text_status": "current-consolidated",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  },
+  "completeness": "html-text-complete"
+}
