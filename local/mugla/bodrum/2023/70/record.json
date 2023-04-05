@@ -1,0 +1,24 @@
+{
+  "number": "70",
+  "number_as_published": "2023-70",
+  "year": 2023,
+  "title": "İlçemiz Yeniköy Mahallesi, Göktepe Mevkii, 1087 ada, 129, 130, 131, 132, 133, 155, 156, 160, 170 parseller, 1116 ada, 1, 2, 17, 18, 19, 22 parseller, 1117 ada 1 parsel, 1118 ada 1, 2, 3 parseller, 1119 ada 1 parsel, 1121 ada 1 parsel, 1122 ada 1, 2, 3 parseller, 1123 ada 1 parsel, 1124 ada 1 parsel, 1197 ad ...",
+  "decision_date": "2023-04-05",
+  "source": "https://www.bodrum.bel.tr/meclis_kararlari",
+  "official_document": null,
+  "source_sha256": "36f43b06e3286682d4de72a2f9f74706691b0d695f1c5dc1c19278c417ce11e6",
+  "issuer": "Bodrum Belediye Meclisi",
+  "history_type": "metadata",
+  "text_status": "metadata-only: listing fields as published; the listing links no decision document",
+  "in_force": "2023-04-05",
+  "in_force_basis": "Decision date as printed in the official council listing: 5.4.2023; adoption date of the council decision; legal commencement not asserted",
+  "missing": [
+    "complete official decision text",
+    "official annexes"
+  ],
+  "law_text_complete": false,
+  "privacy_withheld": false,
+  "official_page": "https://www.bodrum.bel.tr/meclis_karari.php?id=2652",
+  "summary_shortened_in_listing": true,
+  "record_scope": "one council decision (summary as listed)"
+}
