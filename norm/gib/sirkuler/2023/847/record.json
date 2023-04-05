@@ -1,0 +1,22 @@
+{
+  "kind": "norm",
+  "issuer": "Gelir İdaresi Başkanlığı",
+  "document_type": "sirkuler",
+  "number": "KVK-62 / 2023-1 / Yatırım İndirimi - 48",
+  "source_id": 847,
+  "date": "2023-04-05",
+  "title": "5520 sayılı Kurumlar Vergisi Kanunu Sirküleri /62",
+  "source": "https://gib.gov.tr/mevzuat/kanun/435/sirkuler/847",
+  "related_law": "5520 sayılı KURUMLAR VERGİSİ KANUNU",
+  "source_api": "https://gib.gov.tr/api/gibportal/mevzuat/sirkuler/list",
+  "source_listing": "evidence/list/2026-11-16/sirkuler-p000.json",
+  "source_listing_sha256": "60c9b519ec13187d56f9a7863ce3934a7fb9c37357209b90158ca6acfcc95b41",
+  "source_sha256": "8735ff063fd59ac5010182dd97a18b510771c5a2a615df77d0dddbfe8d534663",
+  "text_status": "as-enacted",
+  "text_file": "metin.md",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  }
+}
