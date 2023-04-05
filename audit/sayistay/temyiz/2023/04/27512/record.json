@@ -1,0 +1,16 @@
+{
+  "kind": "decision",
+  "issuer": "Sayıştay Temyiz Kurulu",
+  "number": "54717",
+  "decision_date": "2023-04-05",
+  "source_id": 27512,
+  "chamber": "5",
+  "file_number": "49564",
+  "public_body_type": "Diğer Özel Bütçeli İdareler",
+  "account_year": "2019",
+  "subject": "İhale Mevzuatı ile İlgili Kararlar",
+  "source": "https://www.sayistay.gov.tr/KararlarTemyiz/Detay/27512/",
+  "source_sha256": "70b35d71715ad50135321a74f338bcb9afbf6338729670a9a7f9d8394e2609ee",
+  "text_status": "metadata-only",
+  "metadata_only_reason": "possible personal name in the official text"
+}
