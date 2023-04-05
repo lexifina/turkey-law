@@ -1,0 +1,23 @@
+{
+  "number": "meeting-04-05",
+  "number_as_published": "meeting-04-05",
+  "year": 2023,
+  "title": "05.04.2023 Tarihli Meclis Kararı",
+  "decision_date": "2023-04-05",
+  "source": "http://www.karaburun.bel.tr/tr/detay/meclis-kararlari/112",
+  "official_document": "https://www.karaburun.bel.tr/files/meclis-kararlari-05042023pdf_07-04-2023_10-17-01.pdf",
+  "source_sha256": "c3ffb828cfd2ee756a9de85e7c843f6c82807ed626bbe96c7ed4edb1fd718975",
+  "issuer": "Karaburun Belediye Meclisi",
+  "history_type": "metadata",
+  "text_status": "metadata-only: listing fields as published; complete decision text is in the linked official document, not transcribed",
+  "in_force": "2023-04-05",
+  "in_force_basis": "Decision date as printed in the official council listing: 05.04.2023; adoption date of the council decision; legal commencement not asserted",
+  "missing": [
+    "complete official decision text",
+    "official annexes"
+  ],
+  "law_text_complete": false,
+  "privacy_withheld": false,
+  "listing_label": "05.04.2023 Tarihli Meclis Kararı",
+  "record_scope": "one official file of council decisions (meeting)"
+}
