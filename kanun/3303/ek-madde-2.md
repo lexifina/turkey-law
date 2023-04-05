@@ -1,6 +1,6 @@
 Ek Madde 2 – (11/11/1999 - 4479/1 md.)
 Aşağıdaki belirtilen taşınmaz malların devri yapılmaz.
-Bu Kanunun yürürlüğe girdiği tarihte:
+Devir tarihi itibarıyla;[2]
 a) Kamu hizmetlerine tahsis edilmiş veya fiilen bu amaçla kullanılan taşınmaz mallar,
 b) İmar planları ile kamu hizmetine ayrılan yerler,
 c) Herhangi bir yolla Hazine mülkiyetinden çıkmış olan yerler,
@@ -14,3 +14,4 @@ k) 3402 sayılı Kadastro Kanununun 16 ncı maddesinin (B) ve (C) bentlerinde be
 l) 3621 sayılı Kıyı Kanunu kapsamında kalan yerler,
 m) 6831 sayılı Orman Kanununa göre orman sayılan alanlar ile 2924 sayılı Orman Köylülerinin Kalkınmalarının Desteklenmesi Hakkında Kanun uyarınca Orman Bakanlığı emrine geçen taşınmaz mallar,
 n) 7269 sayılı Umumi Hayata Müessir Afetler Dolayısıyla Alınacak Tedbirlerle Yapılacak Yardımlara Dair Kanun gereğince Bayındırlık ve İskan Bakanlığı emrine verilmesi veya tahsis edilmesi gereken yerler.
+(Ek fıkra:30/3/2023-7447/8 md.) Taksitli ödemelerde kalan miktarı karşılayacak tutarda kesin ve taksitlendirmeye uygun süreli banka teminat mektubu verilmesi veya devredilen taşınmazın üzerinde 22/11/2001 tarihli ve 4721 sayılı Türk Medenî Kanunu hükümleri uyarınca Hazine lehine kanuni ipotek tesis edilmesi hâlinde, taşınmaz tapuda hak sahibi adına devredilir. Düzenlenen hak sahipliği belgelerinin idarece yazılı olarak tapu idaresine bildirilmesi üzerine, devir ve kanuni ipotek tapu siciline resen tescil edilir.
