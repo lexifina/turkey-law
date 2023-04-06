@@ -1,0 +1,22 @@
+{
+  "number": "55",
+  "number_as_published": "2023/55",
+  "year": 2023,
+  "title": "Riskli yapı tespiti protokolü",
+  "decision_date": "2023-04-06",
+  "source": "https://eyupsultan.bel.tr/tr/main/pages/2023-nisan-ayi-meclis-kararlari/2384",
+  "official_document": "https://eyupsultan.bel.tr/tr/main/pages/2023-55/2395",
+  "source_sha256": "2d3f59ed52d5ad50445b656d8c9a90d13816a08bca29688b48d4cc281fd0c4b5",
+  "issuer": "Eyüpsultan Belediye Meclisi",
+  "history_type": "metadata",
+  "text_status": "metadata-only: listing fields as published; complete decision text is in the linked official document, not transcribed",
+  "in_force": "2023-04-06",
+  "in_force_basis": "Decision date as printed in the official council listing: 06.04.2023 (meeting date at the start of the decision page); adoption date of the council decision; legal commencement not asserted",
+  "missing": [
+    "complete official decision text",
+    "official annexes"
+  ],
+  "law_text_complete": false,
+  "privacy_withheld": false,
+  "decision_page_sha256": "85f53094b5f617a38c56db9f85837f7b30e50fe877f62c8e1391103191570c20"
+}
