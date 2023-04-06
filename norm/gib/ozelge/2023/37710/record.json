@@ -1,0 +1,22 @@
+{
+  "kind": "norm",
+  "issuer": "Gelir İdaresi Başkanlığı",
+  "document_type": "ozelge",
+  "number": "11355271-120[2022/35]-19241",
+  "source_id": 37710,
+  "date": "2023-04-06",
+  "title": "Gerçek usulde zirai kazanç mükellefinin tarlasını kiraya vermesi",
+  "source": "https://gib.gov.tr/mevzuat/kanun/433/ozelge/37710",
+  "related_law": "193 sayılı GELİR VERGİSİ KANUNU",
+  "source_api": "https://gib.gov.tr/api/gibportal/mevzuat/ozelge/list",
+  "source_listing": "evidence/list/2026-11-16/ozelge-p008.json",
+  "source_listing_sha256": "292c126217cc32c3ccfa57495ce433f89ef8db5e75fa1946d5819a76f81aff4d",
+  "source_sha256": "f70ad08a2c2c7034319cba6d89fd599cc53d9c7d39d964fbbef006766f5da010",
+  "text_status": "as-enacted",
+  "text_file": "metin.md",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  }
+}
