@@ -1,0 +1,17 @@
+{
+  "kind": "decision",
+  "issuer": "Sayıştay 2. Dairesi",
+  "number": "35760",
+  "decision_date": "2023-04-06",
+  "source_id": 37453,
+  "chamber": "2",
+  "ilam_number": "371",
+  "item_number": 1,
+  "public_body_type": "Yüksek Öğretim Kurumları",
+  "account_year": 2017,
+  "subject": "İhale Mevzuatı ile İlgili Kararlar",
+  "source": "https://www.sayistay.gov.tr/KararlarDaire/Detay/37453/",
+  "source_sha256": "880074a6f70e38cdcd43e043e0a1e1108a46ccc9388d6b2668ba0798d0c8edd6",
+  "text_status": "as-enacted",
+  "text_file": "metin.md"
+}
