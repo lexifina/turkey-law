@@ -1,0 +1,17 @@
+{
+  "kind": "decision",
+  "issuer": "Sayıştay 1. Dairesi",
+  "number": "10900",
+  "decision_date": "2023-04-06",
+  "source_id": 37784,
+  "chamber": "1",
+  "ilam_number": "103",
+  "item_number": 4,
+  "public_body_type": "Genel Bütçe Kapsamındaki İdareler",
+  "account_year": 2021,
+  "subject": "Personel Mevzuatı ile İlgili Kararlar",
+  "source": "https://www.sayistay.gov.tr/KararlarDaire/Detay/37784/",
+  "source_sha256": "9ceb0e6304c0b4c4d939af8cb9b981996e8ef775f81b3051ea89ce050882644b",
+  "text_status": "as-enacted",
+  "text_file": "metin.md"
+}
