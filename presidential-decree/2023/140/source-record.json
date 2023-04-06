@@ -1,0 +1,48 @@
+{
+  "source_id": "25.5.140",
+  "path": "presidential-decree/2023/140",
+  "number": "140",
+  "tertip": "5",
+  "title": "OLAĞANÜSTÜ HAL KAPSAMINDA ELEKTRONİK HABERLEŞME ALANI İLE SU YAPILARI DENETİM HİZMETLERİNE İLİŞKİN CUMHURBAŞKANLIĞI KARARNAMESİ (KARARNAME NUMARASI: 140)",
+  "status": "repealed",
+  "text_label": "last-available-consolidated",
+  "enacted": "2023-04-05",
+  "enacted_as_printed": "05.04.2023",
+  "published": "2023-04-06",
+  "gazette": "32155",
+  "in_force": "2023-04-06",
+  "in_force_basis": "Resmî Gazete publication date in the official listing (06.04.2023); own commencement article: \"Bu Cumhurbaşkanlığı Kararnamesi 6/2/2023 tarihinden itibaren geçerli olmak üzere yayımı tarihinde yürürlüğe girer\"",
+  "commencement_clauses": [
+    "Bu Cumhurbaşkanlığı Kararnamesi 6/2/2023 tarihinden itibaren geçerli olmak üzere yayımı tarihinde yürürlüğe girer"
+  ],
+  "repeal_notes": [
+    "Bu Kararname Anayasa’nın 119 uncu maddesi uyarınca kendiliğinden yürürlükten kalkmıştır."
+  ],
+  "source": "https://www.mevzuat.gov.tr/anasayfa/MevzuatFihristDetayIframe?MevzuatTur=25&MevzuatNo=140&MevzuatTertip=5",
+  "source_sha256": "86659a54badee2133753ffff39951325d0fe828efe616994085bb76a92c8a5a8",
+  "source_bytes": 16093,
+  "words": 618,
+  "source_images": 1,
+  "images_referenced": 0,
+  "images_deferred": 0,
+  "images_omitted": 1,
+  "omitted_images": [
+    {
+      "src": "25.5.140_dosyalar/image001.jpg",
+      "url": "https://www.mevzuat.gov.tr/MevzuatMetin/25.5.140_dosyalar/image001.jpg",
+      "sha256": "0ebdb28e1dbe3bf882a96d246df99407b708cb8c71360947be91eddf2a47a969",
+      "bytes": 3627,
+      "pixels": [
+        103,
+        103
+      ],
+      "emblem_mean_diff": 9.19,
+      "reason": "Presidential emblem (decorative seal above the title, no text); omitted as main omits it for its in-force CBKs"
+    }
+  ],
+  "has_old_texts": false,
+  "history_note": "Earlier versions are not established by this current HTML source.",
+  "listing": "https://www.mevzuat.gov.tr/Anasayfa/MevzuatDatatable (evidence/list/2026-11-17/mulga-00000.json)",
+  "listing_sha256": "2cf34025a8cb3779e733a85e74259f6abc229c240ed8b0da7218b98b01c70836",
+  "checked_on": "2026-11-17"
+}
