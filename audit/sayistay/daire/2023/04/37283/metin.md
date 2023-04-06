@@ -1,0 +1,15 @@
+Hasılat Payı
+
+Dosya kapsamındaki bilgi ve belgelerin incelenmesi sonucunda;
+
+… Sahil Projesi kapsamında yer alan ticari ünite ve tesislerin işletilmesi işini üstlenen … … Tur. ve Otel A.Ş. ve … Tur. Tic. Ltd. Şti İş Ortaklığı ile İdare arasında promosyon anlaşması yapan İş Ortaklığının bu promosyonlardan elde ettiği gelirlerden İdareye ait olan hasılat payını ödemediği görülmüştür.
+
+İhaleyi alan Firma (İş Ortaklığı) ile alt yükleniciler arasında yapılan tip kira sözleşmelerinde, işletmelerde satılabilecek yiyecek ve içecekler için firma ile aralarında işbirliği (sponsorluk) anlaşması yapılan ve bu anlaşmalar dahilinde bildirimde bulunulan ürünlerin satılabileceği, promosyon anlaşması yapılan firma ürünleri listesi dışında kalan ürün ve hizmetler ile ilgili olarak alt kiracıların yapacağı anlaşmalardan da pay alacağı aksine davranışın sözleşmenin feshini gerektirdiği, diğer yandan sözleşmede proje alanında yapılacak olan görsel alanlar dahil her türlü promosyon, reklam amaçlı organizasyonlar, tüm panolar, ilanlar, baz istasyonları ve benzeri reklam amaçlı anlaşmaların sadece İş Ortaklığı tarafından yapılacağı ve gelirlerinin İş Ortaklığına ait olacağı da belirtilmiştir.
+
+“… Sahil Projesi Kapsamında Yer Alan Ticari Ünite ve Tesislerin İşletilmesine Dair Kira Sözleşmesi”nin hasılat üzerinden alınacak pay başlıklı 8’inci maddesinin birinci paragrafında kiraya verilen alanın ihaleyi kazanan firma tarafından bizzat işletilmesi halinde tesislerin işletilmesinden elde edilecek toplam yıllık hasılatın %2’si oranında pay ödeyeceği, işletilmek üzere alt kiracılara kiraya verilmesi halinde ise elde edilecek yıllık toplam hasılattan (kiralama bedeli düşüldükten sonra kalan tutar üzerinden) %2 payın ayrıca ödeneceği düzenlenmiştir. Bu çerçevede, Denetçi tarafından, … tarihli ve … /… sayılı yazı ile İş Ortaklığından … Sahil Projesi kapsamında yer alan ticari ünite ve tesislerin işletilmesinden bir gelir elde edilip edilmediği sorulmuş olup, … tarihli cevabi yazı ve eklerinde 2018 yılından itibaren elde ettikleri gelirler bildirilmiştir.
+
+Bu durumda alt kiracıların elde etmesi gereken sponsorluk vs. gelirleri ile nakdi ve ayni diğer gelirlerin, alt kiracılarla yapılan kira sözleşmelerine konulan hükümlerle alt kiracılar yerine ihaleyi alan Firma tarafından elde edildiği anlaşılmaktadır.
+
+Buna göre Firma (iş ortaklığı) veya alt kiracılar tarafından hangi ad altında olursa olsun elde edilen gelirlerin kaynağı … Sahil Projesi Sözleşmesi olduğundan kaynağını Projeden alan hasılatlar üzerinden Büyükşehir Belediyesine %2 pay verilmesi gerekirken söz konusu hasılat payının Büyükşehir Belediyesine yatırılmaması sonucunda toplam … TL tutarında kamu zararına neden olunmuştur.
+
+Ancak, söz konusu kamu zararı tutarı … TL’nin, Ahizi … … Tur. ve Otel AŞ ve … Tur. Tic. Ltd. Şti. İş Ortaklığından … tarihli ve … seri numaralı tahsilat makbuzu ile hesap yılından sonra tahsil edildiği anlaşıldığından ilişilecek husus kalmadığına, 6085 sayılı Sayıştay Kanunu’nun 55’inci maddesi uyarınca işbu İlamın tebliğ tarihinden itibaren altmış gün içerisinde Sayıştay Temyiz Kurulu nezdinde temyiz yolu açık olmak üzere oy birliğiyle karar verildi.
