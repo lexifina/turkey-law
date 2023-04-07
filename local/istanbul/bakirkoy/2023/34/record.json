@@ -1,0 +1,23 @@
+{
+  "number": "34",
+  "number_as_published": "34",
+  "year": 2023,
+  "title": "Memur kadro derece değişikliği",
+  "decision_date": "2023-04-07",
+  "source": "https://www.bakirkoy.bel.tr/meclis-kararlari/19",
+  "official_document": "https://www.bakirkoy.bel.tr/storage/app/media/meclis%20kararlar%C4%B1/34-insan-kaynaklari-ve-egitim-md-memur-dolu-kadro-derece-degisikligi-07042023.pdf",
+  "source_sha256": "c3652174d1c57326236d06cb6598ac995d95b61287016b76f6f54b1098dd3676",
+  "issuer": "Bakırköy Belediye Meclisi",
+  "history_type": "metadata",
+  "text_status": "metadata-only: listing fields as published; complete decision text is in the linked official document, not transcribed",
+  "in_force": "2023-04-07",
+  "in_force_basis": "Decision date as printed in the official council listing: 07 Nisan 2023 (Tarih column of the official list); adoption date of the council decision; legal commencement not asserted",
+  "missing": [
+    "complete official decision text",
+    "official annexes"
+  ],
+  "law_text_complete": false,
+  "privacy_withheld": false,
+  "record_scope": "one council decision (number, date and summary as listed; the decision is the linked official PDF)",
+  "official_page": "https://www.bakirkoy.bel.tr/meclis-kararlari"
+}
