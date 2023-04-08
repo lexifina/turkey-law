@@ -1,0 +1,2 @@
+Amaç ve kapsam
+MADDE 1- (1) Bu Tebliğin amacı, yerli üretici Trakya Döküm San. ve Tic. A.Ş. tarafından yapılan başvuruya istinaden Brezilya Federatif Cumhuriyeti, Bulgaristan Cumhuriyeti, Çin Halk Cumhuriyeti, Endonezya Cumhuriyeti, Hindistan Cumhuriyeti ve Tayland Krallığı menşeli 7307.19 gümrük tarife pozisyonu altında kayıtlı “diğerleri” (boru bağlantı parçaları) ithalatına yönelik yürürlükte bulunan dampinge karşı kesin önleme ilişkin olarak nihai gözden geçirme soruşturması açılması ve açılan soruşturmanın usul ve esaslarının belirlenmesidir.
