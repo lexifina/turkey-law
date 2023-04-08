@@ -1,0 +1,2 @@
+Dayanak
+MADDE 3- (1) Bu Tebliğ, 10/12/2003 tarihli ve 5018 sayılı Kamu Malî Yönetimi ve Kontrol Kanununun ek 4 üncü maddesi, 26/6/2018 tarihli ve 30460 sayılı Resmî Gazete’de yayımlanan Bütünleşik Kamu Mali Yönetim Bilişim Sistemi Uygulama Usul ve Esasları Hakkında Yönetmelik ve 27/12/2014 tarihli ve 29218 mükerrer sayılı Resmî Gazete’de yayımlanan Merkezî Yönetim Muhasebe Yönetmeliğinin 557 nci maddesine dayanılarak hazırlanmıştır.
