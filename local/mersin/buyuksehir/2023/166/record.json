@@ -1,0 +1,18 @@
+{
+  "issuer": "Mersin Büyükşehir Belediye Meclisi",
+  "number": "166",
+  "decision_date": "2023-04-10",
+  "title": "-MEC.KAR.(SİLİFKE MERKEZ- TAŞUCU 33 ADA 11 PARSEL 1089 K MAHKEME KARARI)",
+  "listed_as": "166-MEC.KAR.(SİLİFKE MERKEZ- TAŞUCU 33 ADA 11 PARSEL 1089 K MAHKEME KARARI)",
+  "subject_note": "subject as the meeting page lists it (the register shortens some long subjects)",
+  "official_document": "https://www.mersin.bel.tr/dokumanlar/166-meckarsilifke-merkez-tasucu-33-ada-11-parsel-1089-k-mahkeme-karari-209900750",
+  "source_listing": "https://www.mersin.bel.tr/dokumanlar/10-nisan-2023-meclis-kararlari-430645530",
+  "listing_sha256": "45b33a5bdf91b9263b27d88a263814f78f90bd756affc95cec2964e4550d546c",
+  "meeting_title": "10 NİSAN 2023 MECLİS KARARLARI",
+  "history_type": "metadata-only",
+  "capture_mode": "metadata-only",
+  "text_status": "metadata-only; official decision page linked, text not transcribed",
+  "date_basis": "meeting date in the official meeting page title (decision date of the session)",
+  "commencement_established": false,
+  "privacy_withheld": false
+}
