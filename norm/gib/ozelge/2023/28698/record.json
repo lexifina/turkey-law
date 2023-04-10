@@ -1,0 +1,22 @@
+{
+  "kind": "norm",
+  "issuer": "Gelir İdaresi Başkanlığı",
+  "document_type": "ozelge",
+  "number": "38418978-125[32A-2023/3]-158575",
+  "source_id": 28698,
+  "date": "2023-04-10",
+  "title": "İndirimli Kurumlar Vergisi Uygulaması",
+  "source": "https://gib.gov.tr/mevzuat/kanun/435/ozelge/28698",
+  "related_law": "5520 sayılı KURUMLAR VERGİSİ KANUNU",
+  "source_api": "https://gib.gov.tr/api/gibportal/mevzuat/ozelge/list",
+  "source_listing": "evidence/list/2026-11-16/ozelge-p004.json",
+  "source_listing_sha256": "f3b82278308562f88be46cc93b2ac53a1050d59c304474af958f8b7377f5bef9",
+  "source_sha256": "6eab7f01f664e61d60592b66957fdef22352dc6fd2b78d18423ed933969077f4",
+  "text_status": "as-enacted",
+  "text_file": "metin.md",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  }
+}
