@@ -1,0 +1,3 @@
+Taşınmaz yıkımı, bakımı veya onarımı nedeniyle çıkış
+MADDE 25/A- (Ek: 25/1/2016-2016/8473 K.)
+(1) Kamu kurum ve kuruluşları, belediyeler veya yüklenici marifetiyle yapılan taşınmaz yıkımı, bakımı ya da onarımı sırasında ortaya çıkan ekonomik değere sahip her türlü taşınır malzemelerden, sözleşmesindeki veya protokolündeki hükme dayanılarak yıkım, bakım veya onarım bedelinin tamamı veya bir kısmına mahsuben yıkım, bakım veya onarım hizmeti alınan kurum veya yükleniciye bırakılanlardan; kayıtlı olanlar çıkış işlemine tabi tutulur, kayıtlı olmayanlar taşınır mal kayıtlarına alınmaz ve bu malzemeler hakkında Makina ve Kimya Endüstrisi Kurumu Ana Statüsü hükümleri uygulanmaz.

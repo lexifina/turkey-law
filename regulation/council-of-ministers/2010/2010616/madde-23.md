@@ -1,0 +1,4 @@
+Fire veya sayım noksanı nedeniyle çıkış
+MADDE 23- (1) Taşınır malların özelliğinden veya olağan kullanımından kaynaklanan yıpranmalar ile taşınır malların usulüne uygun olarak taşınması, depolanması, doldurulması, boşaltılması, aktarılması sonucunda ağırlıklarında ve miktarlarında meydana gelen fireler, sayım tutanaklarında gösterilir.
+(2) Firenin ortaya çıkmasında kasıt, ihmal veya tedbirsizlik olup olmadığı, sayım tutanağına eklenen ayrı bir tutanakta veya düzenlenen raporda belirtilir. Sayımda noksan çıkan taşınır mallar hakkında da aynı şekilde işlem yapılır.
+(3) Sayım ve denetim sonucunda tutanak veya raporda gösterilen ve hukuki işlem gerektirmeyen fire veya sayım noksanı taşınır mallar kayıtlardan çıkarılır. Ancak, fire veya noksanlığın meydana gelmesinde kasıt, ihmal veya tedbirsizlik tespit edilmiş olması halinde 34 üncü maddeye göre işlem yapılır.

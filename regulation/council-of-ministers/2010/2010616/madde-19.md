@@ -1,0 +1,3 @@
+İade edilen taşınır malların girişi
+MADDE 19- (1) Kullanıma verilen tüketim malzemelerinden herhangi bir nedenle iade edilenler, iadeye konu taşınır malı elinde bulunduran tarafından düzenlenen ve birim yetkilisinin onayını taşıyan, iade edilen malzemenin cins ve miktarını belirten belge karşılığında giriş kaydedilir.
+(2) Kullanılmak üzere zimmetle verilen dayanıklı taşınır mallardan, herhangi bir nedenle ilgililerince iade edilenler için taşınır mal işlem belgesi düzenlenmez. Bu taşınır malların kullanıma verilmelerinde düzenlenmiş olan belge, ilgili bölüm imzalanarak zimmetinden düşülen kişiye geri verilir ve kayıtlarda gerekli düzeltmeler yapılır.

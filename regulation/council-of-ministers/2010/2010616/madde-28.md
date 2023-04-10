@@ -1,0 +1,2 @@
+Dayanıklı taşınır malların kullanıma verilmesi ve kullanımdan geri alınması
+MADDE 28- (1) Dayanıklı taşınır malların kamu idarelerince belirlenen usul ve esaslara göre kullanıma verilmesinde, taşınır malın teslimi anındaki durumunu belirten bir belge düzenlenir ve belge üzerine ilgilinin imzası alınır. Taşınır malın geri alınmasında, taşınır malın verilişinde düzenlenen belge üzerine taşınır malın geri alındığı ve geri alınma anındaki durumu kaydedilir.

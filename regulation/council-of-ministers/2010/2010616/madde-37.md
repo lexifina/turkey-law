@@ -1,0 +1,11 @@
+Kamu idarelerince yapılabilecek düzenlemeler
+MADDE 37- (1) Kamu idareleri, taşınır malların giriş ve çıkış işlem ve kayıtlarında Taşınır Mal Yönetmeliğinde yer alan defter, belge ve cetvellerden uygun görüleni aynen kullanılabilir veya bu Yönetmelikte belirlenen usul ve esaslara bağlı kalmak ve Hazine ve Maliye Bakanlığının uygun görüşünü almak koşuluyla bu cetvel ve belgelerde değişiklik yapabilir ve bunların yanında başka defter, belge ve cetveller de kullanabilir. Kamu idareleri;[10]
+a) 10 uncu madde gereğince taşınır mal işlem belgesi düzenlenmeyeceği belirtilen taşınır malların ayrıca tutulan kayıtlarda izlenmesine esas olmak üzere düzenlenen belgeler ile 27 nci madde gereğince geçici olarak tahsis edilen veya alınan taşınır malların takibine ilişkin kayıt ve işlemlerde düzenlenen belgeleri ve bu taşınır malların denetimlerinin ne şekilde yapılacağını,[11]
+b) Taşınır Mal Yönetmeliğinin 14 üncü maddesi gereğince Hazine ve Maliye Bakanlığınca belirlenen tutara kadar olan değer artırıcı harcamaların nitelik ve türlerini,10
+c) 31 inci madde gereğince yapılan geçici devirlere ilişkin usul ve esasları,
+ç) Taşınır mallara kod veya stok numarası verilmesi ile taşınır mal yönetim birimlerinin ve bunlara bağlı depoların kodlanmasında ve bu kodlamalarda yapılan hataların düzeltilmesinde uyulan usul ve esasları,
+d) Kaybolma, kırılma, bozulma, evsafını kaybetme, fire veya kullanım süresinin dolması nedeniyle kullanılamaz hale gelmesi ya da canlı taşınır malın ölümü hallerinde, taşınır malın kayıtlardan çıkarılmasına esas olan belgeler ile bu belgeleri düzenleme ve onaylama yetkisine sahip mercileri,
+e) Ekonomik ömrünü tamamlamış olan veya tamamlamadığı halde teknik ve fiziki nedenlerle kullanılmasında yarar görülmeyerek hizmet dışı bırakılan taşınır malların HEK’e ayrılmasında uygulanan usul ve esaslar ile bu konuda yetki verilen makam ve komisyonları,
+f) Devir ve teslim işlemlerinde düzenlenen sayım tutanağı ile devir ve teslim tutanağının şekli, içeriklerinde yer alan diğer bilgiler ve düzenlenmesine ilişkin usul ve esasları,
+belirlemeye ve görevi gereğince özellik arz eden diğer uygulamalarını daha ayrıntılı ve açıklayıcı bir şekilde düzenlemeye yetkilidir.
+(2) Kamu idareleri, bu Yönetmelik hükümlerine göre taşınır mal kayıt ve işlemlerinde görev alanların görev, yetki ve sorumluluklarıyla ilgili eğitim kursları düzenleyebilir.
