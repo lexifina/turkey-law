@@ -1,0 +1,3 @@
+Eğitim-öğretim süreleri
+MADDE 5 – (1) Ön lisans eğitim-öğretim süresi, yılda iki yarıyıl veya üç dönem olmak üzere iki yıldır. Lisans eğitim öğretim süresi yılda iki yarıyıl ya da üç dönem olmak üzere dört yıldır. Tıp fakültesinde eğitim öğretim süresi altı yıldır.
+(2) Öğrencilerin haklı ve geçerli mazeretleri sebebiyle aldıkları yarıyıl/yıl izin süreleri ile yabancı dil hazırlık programında geçen süreler eğitim öğretim sürelerinin hesaplanmasında dikkate alınmaz. Yükseköğretim kurumundan bir veya iki yarıyıl uzaklaştırma cezası alan öğrencilerin ceza aldıkları süreler ile ders kaydı yaptırmayan öğrencilerin kayıt yaptırmadıkları süreler eğitim-öğretim süresinden sayılır.

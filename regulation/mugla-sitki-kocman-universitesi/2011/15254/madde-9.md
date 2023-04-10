@@ -1,0 +1,5 @@
+Özel öğrenci ve değişim öğrencisi
+MADDE 9 – (1) Üniversiteye özel öğrenci veya değişim öğrencisi kabulünde ya da özel öğrenci veya değişim öğrencisi olacak Üniversitemiz öğrencileri için aşağıdaki esaslar uygulanır:
+a) Diğer üniversite öğrencilerinden isteyenlere, ilgili birim yönetim kurulunun önerisi ve Üniversite Yönetim Kurulunun onayı ile açılan dersleri izleme izni verilebilir. Özel öğrencilerin, kaydoldukları dersler için belirlenen tüm şartlara uymaları gerekir. Özel öğrenciler normal statüdeki öğrencilerin öğrencilik haklarından yararlanamazlar.
+b) Diğer üniversitelerden ders almak isteyen öğrencilere, ilgili birim yönetim kurulunun önerisi ve Üniversite Yönetim Kurulunun onayı ile izin verilebilir.
+c) Yurt içinden ya da yurt dışından belli bir süre için Üniversiteye gelen veya Üniversiteden giden öğrencilerin harç, kayıt, başarılı oldukları derslerden aldıkları notların değerlendirilmesi ve tanınması gibi tüm işlemler ikili anlaşma ve ilgili mevzuat hükümlerine göre ilgili kurulların kararları ile yürütülür.

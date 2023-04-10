@@ -1,0 +1,3 @@
+Disiplin işleri
+MADDE 39 – (1) Öğrencilerin disiplin işlemleri, Yükseköğretim Kurulu tarafından çıkarılan “Yükseköğretim Kurumları Öğrenci Disiplin Yönetmeliği” hükümlerine göre yapılır.
+(2) Öğrenciler hakkında disiplin kovuşturması açılmasını gerektiren toplu olaylarda, olayın türü ve ilgili öğrencilerin sayıları göz önünde tutularak, Rektörün onayı ile Üniversite düzeyinde faaliyet göstermek üzere “Soruşturmacılar Kurulu” atanabilir. Soruşturma ve soruşturmacıların, hakkında disiplin kovuşturması açılan öğrenci ve öğrencilerle aynı Fakülte/Yüksekokul/Meslek Yüksekokulu mensubu olması şartı aranmaz.

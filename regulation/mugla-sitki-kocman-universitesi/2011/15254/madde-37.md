@@ -1,0 +1,5 @@
+SEKİZİNCİ BÖLÜM
+Çeşitli ve Son Hükümler
+Akademik Danışmanlık
+MADDE 37 – (1) (Değişik:RG-10/4/2023-32159) Her öğrenci için bir akademik danışman görevlendirilir. Öğretim üyeleri ve öğretim görevlileri, ilgili bölüm başkanının önerisi ve ilgili yönetim kurulunun kararı ile; doktor unvanını haiz araştırma görevlileri ise talepleri üzerine ilgili bölüm başkanının önerisi, ilgili Dekan/Müdürün teklifi ve Üniversite Yönetim Kurulu kararı ile akademik danışman olarak görevlendirilebilir. Uygulamalı birim öğretim görevlileri akademik danışman olarak görevlendirilemez. Zorunlu nedenler olmadığı sürece akademik danışman öğrencinin öğrenim süresi boyunca değiştirilmez.
+(2) Akademik danışmanın görevi: Öğrencinin akademik hedefleri ile bireysel yeterlilikleri arasında uyum sağlayabilmesi için bir yol gösterici olarak öğrenciye yardımcı olmaktır. (Değişik ikinci cümle:RG-10/4/2023-32159) Akademik danışman, eğitim-öğretim yılı içinde haftalık iki ders saati zaman ayırır ve bunu ders programında gösterir.

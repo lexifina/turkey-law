@@ -1,0 +1,2 @@
+Derslerin kredi değeri
+MADDE 14 – (1) Bir dersin kredi değeri; Yükseköğretim Kurulunca ilgili programın yer aldığı diploma düzeyi ve alan için yükseköğretim yeterlilikler çerçevesine göre belirlenen kredi aralığı ve öğrencinin kazanacağı bilgi, beceri ve yetkinliklere o dersin katkısını ifade eden öğrenim kazanımları ile açıkça belirlenmiş teorik veya uygulamalı ders saatleri ve öğrenciler için öngörülen diğer faaliyetler için gerekli çalışma saatleri de göz önünde bulundurularak Senato tarafından belirlenen ilkeler çerçevesinde hesaplanır.

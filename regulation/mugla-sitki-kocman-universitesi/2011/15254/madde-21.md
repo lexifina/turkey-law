@@ -1,0 +1,4 @@
+Notlarda maddi hata
+MADDE 21 – (1) Bir dersin ara sınav, yarıyıl/yıl sonu sınav ve yarıyıl/yıl sonu başarı notları, dersin sorumlusu öğretim elemanı tarafından ilan edilir. Notlar ilan edildiği tarihte kesinleşir.
+(2) Öğrenciler, maddi hata düzeltme başvurularını notların ilan edildiği tarihten itibaren yedi gün içinde ilgili Dekanlık/Müdürlüğe yaparlar. Bu süre dışında yapılan başvurular dikkate alınmaz. Başvurular Maddi Hata İnceleme Komisyonu tarafından incelenir.
+(3) Komisyon; Dekan/Müdürün görevlendireceği Dekan/Müdür Yardımcısı başkanlığında toplam üç öğretim elemanından oluşur. Komisyon görevlendirildikten sonra incelemelerini en geç üç gün içinde bir rapor halinde Dekanlık/Müdürlüğe teslim eder. Dekanlık/Müdürlük, Komisyon raporunu ilgili yönetim kuruluna sunar. Maddi hatanın düzeltilmesi için not değişikliği ancak ilgili yönetim kurulu kararı ile yapılır.

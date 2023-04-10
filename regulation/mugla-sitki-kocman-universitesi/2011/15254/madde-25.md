@@ -1,0 +1,2 @@
+Lisans öğretiminde akademik yetersizlik engeli ve süresi
+MADDE 25 – (1) Eğitim öğretimlerinin ilk dört yarıyılı sonunda genel not ortalamaları 1.80'in altında kalan lisans öğrencileri, akademik yetersizlik durumuna düşerler. Bu duruma düşen öğrenciler, beşinci ve daha (Değişik ibare:RG-07/02/2020-31032) üst yarıyıllardan ders alamazlar. (Ek cümle:RG-07/02/2020-31032) Öğrenciler, almadıkları derslerle birlikte başarısız oldukları dersleri ve/veya başardıkları dersleri tekrar alarak genel not ortalamalarını en az 1.80’e yükseltmek zorundadırlar.

@@ -1,0 +1,2 @@
+Eğitim-öğretim programı
+MADDE 12 – (1) Eğitim öğretim programları, öğrencinin yükseköğretim yeterlilikler çerçevesinde kazanacağı bilgi, beceri ve yetkinliklere, o dersin katkısını ifade eden öğrenim kazanımları ile açıkça belirlenmiş teorik veya uygulamalı ders saatleri ve öğrenciler için öngörülen diğer faaliyetler için gerekli çalışma saatleri de göz önünde bulundurularak ilgili bölüm kurulu tarafından belirlenir ve Senato onayı ile kesinleşir.

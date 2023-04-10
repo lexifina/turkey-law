@@ -1,0 +1,2 @@
+Şeref ve yüksek şeref öğrencileri
+MADDE 23 – (1) Öğrenimlerini Kanunda belirtilen süreler içerisinde tamamlayan ve disiplin cezası almayan, mezuniyet genel not ortalaması 3.00-3.49 arasında olan öğrenciler Şeref Öğrencisi, 3.50-4.00 arasında olan öğrenciler ise Yüksek Şeref Öğrencisi olurlar. Bu öğrencilerin şeref ve yüksek şeref belgeleri diploma ile birlikte bir defaya mahsus olmak üzere verilir.

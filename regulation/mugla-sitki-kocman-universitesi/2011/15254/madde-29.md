@@ -1,0 +1,8 @@
+Diplomalar
+MADDE 29 – (1) Öğrenimlerini bu Yönetmelikte belirlenen esaslara göre başarı ile tamamlayanlara ilgili mezuniyet düzeyine ilişkin diploma verilir. Diplomalar, dekan/müdür ve rektör tarafından imzalanır.
+(2) Diploması hazırlanmamış öğrencilere yazılı isteği üzerine bir defaya mahsus olmak üzere ilgili okul tarafından geçici mezuniyet belgesi verilir. Belgeler bölüm başkanı ve dekan/müdür tarafından imzalanır.
+(3) (Değişik:RG-10/4/2013-28614) Diploma, mezunun kendisine ya da noterden vekâlet verdiği vekiline verilir. Geçici mezuniyet belgesi düzenlenmiş ise geçici mezuniyet belgesinin aslı iade edilmeden diploma verilmez.
+(4) Geçici mezuniyet belgesini kaybedenlere, Türkiye baskısı olan bir gazetede ilan edilmesi ve dilekçe ile başvurulması halinde diplomaları teslim edilir.
+(5) Diplomasını kaybedenlere, Türkiye baskısı olan bir gazetede ilan edilmesi ve diploma ücretinin yeniden ödenerek Rektörlüğe başvurulması halinde bir defaya mahsus olmak üzere ikinci nüsha diploma verilir. İkinci nüsha diploma ilgili okul dekanı/müdürü ve Rektör tarafından imzalanır.
+(6) (Değişik:RG-10/4/2013-28614) Diplomasının aslını veya nüshasını kaybedenlere, Türkiye baskısı olan bir gazetede ilan vererek ilanla birlikte Rektörlüğe başvurmaları halinde kaçıncı nüsha olduğu belirtilerek yeni bir diploma verilir. Nüsha diplomalar ilgili okul dekanı/müdürü ve Rektör tarafından imzalanır.
+(7) (Değişik:RG-10/4/2013-28614) Öğrencilere diploma ile birlikte ortak yabancı dilde diploma eki verilir. Diploma eklerinde öğrencinin gördüğü öğrenimin nitelikleri, öğrencinin başarı durumu ve diploma türü belirtilir. Diploma ekinin ikinci ve daha sonraki nüshaları dilekçe ile başvurulması halinde verilebilir.

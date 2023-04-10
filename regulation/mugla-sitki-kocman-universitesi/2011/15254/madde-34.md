@@ -1,0 +1,3 @@
+İzin dönüşü
+MADDE 34 – (1) İzin almış olan öğrenciler, izinlerinin bitiminde normal yarıyıl kayıtlarını yaptırarak öğrenimlerine devam ederler. Ancak bulaşıcı bir hastalık nedeni ile izin almış olan öğrenciler, öğrenimlerine devam edecek durumda olduklarını, sağlık kurumu raporu ile kanıtlamak zorundadırlar.
+(2) Herhangi bir nedenle hastalık izni almış ve hastalık izin süresinin bitim tarihinden önce eğitim-öğretimine başlamak isteyen öğrencilerin, yeni bir sağlık kurumu raporu ile öğrenimlerine devam edecek durumda olduklarını kanıtlamaları gerekir. Aksi halde izin süresi içinde eğitim-öğretim ile ilgili yaptıkları faaliyetler geçersiz sayılır.
