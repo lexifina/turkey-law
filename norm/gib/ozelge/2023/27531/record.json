@@ -1,0 +1,22 @@
+{
+  "kind": "norm",
+  "issuer": "Gelir İdaresi Başkanlığı",
+  "document_type": "ozelge",
+  "number": "39044742-130[Özelge]-421922",
+  "source_id": 27531,
+  "date": "2023-04-10",
+  "title": "Yurt dışına ödenen royalty bedellerinin vergilendirilmesi",
+  "source": "https://gib.gov.tr/mevzuat/kanun/436/ozelge/27531",
+  "related_law": "3065 sayılı KATMA DEĞER VERGİSİ KANUNU",
+  "source_api": "https://gib.gov.tr/api/gibportal/mevzuat/ozelge/list",
+  "source_listing": "evidence/list/2026-11-16/ozelge-p003.json",
+  "source_listing_sha256": "b8eb1aba686c15efb9ca96f819c840940788d8f48769f30127e032220fbff4ab",
+  "source_sha256": "3e710e4d25f8089def333d66fede19f9485c6be6df8d07c505ade468d4629508",
+  "text_status": "as-enacted",
+  "text_file": "metin.md",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  }
+}
