@@ -1,0 +1,20 @@
+{
+  "record_type": "gazette-item",
+  "gazette": "Resmî Gazete",
+  "jurisdiction": "TR",
+  "date": "2023-04-11",
+  "issue": "32160",
+  "edition": "regular",
+  "item": 1,
+  "section": "YÜRÜTME VE İDARE BÖLÜMÜ",
+  "heading": "YÖNETMELİKLER",
+  "title": "Millî Eğitim Bakanlığı Teftiş Kurulu Yönetmeliği",
+  "official_link": "https://www.resmigazete.gov.tr/eskiler/2023/04/20230411-1.htm",
+  "link_format": "htm",
+  "index_url": "https://www.resmigazete.gov.tr/eskiler/2023/04/20230411.htm",
+  "index_sha256": "eafb99210146d5377cf5e7992381f9131439be9c6b3525d886304f0b2d3eb5cd",
+  "index_header": "11 Nisan 2023 ... 32160 Sayılı Resmî Gazete",
+  "issue_pdf": "https://www.resmigazete.gov.tr/eskiler/2023/04/20230411.pdf",
+  "in_force_basis": "Resmî Gazete publication date; not a commencement reading.",
+  "text_status": "metadata-only; text not yet fetched (follow-up pass adds it as its own commit)"
+}
