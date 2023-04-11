@@ -1,0 +1,7 @@
+Arabuluculuk, uzlaşma ve her türlü sulh anlaşmasında ücret
+MADDE 16 – (1) 1136 sayılı Kanunun 35/A maddesinde uzlaşma sağlama, arabuluculuk, uzlaştırma ve her türlü sulh anlaşmalarından doğacak avukatlık ücreti uyuşmazlıklarında bu Tarifede yer alan hükümler uyarınca hesaplanacak miktarlar, akdi avukatlık ücretinin asgari değerlerini oluşturur.
+(2) Ancak, arabuluculuğun dava şartı olması halinde, arabuluculuk aşamasında avukat aracılığı ile takip edilen işlerde aşağıdaki hükümler uygulanır:
+a) Konusu para olan veya para ile değerlendirilebilen işlerde avukatlık ücreti; arabuluculuk sonucunda arabuluculuk anlaşma belgesinin imzalanması halinde, bu Tarifenin üçüncü kısmına göre hesaplanır. Şu kadar ki miktarı 7.200,00 TL’ye kadar olan arabuluculuk faaliyetlerinde avukatlık ücreti, 1.080,00 TL. maktu ücrettir. Ancak, bu ücret asıl alacağı geçemez.
+b) Konusu para olmayan veya para ile değerlendirilemeyen işlerde avukatlık ücreti; arabuluculuk sonucunda arabuluculuk anlaşma belgesinin imzalanması halinde, bu Tarifenin ikinci kısmının ikinci bölümünde davanın görüldüğü mahkemeye göre öngörülen maktu ücrettir.
+c) Arabuluculuk faaliyetinin anlaşmazlık ile sonuçlanması halinde, avukat, 1.080,00 TL. maktu ücrete hak kazanır. Ancak, bu ücret asıl alacağı geçemez.
+ç) Arabuluculuk faaliyetinin anlaşmazlık ile sonuçlanması halinde, tarafın aynı vekille dava yoluna gitmesi durumunda müvekkilin avukatına ödeyeceği asgari ücret, (c) bendine göre ödediği maktu ücret mahsup edilerek bu Tarifeye göre belirlenir.
