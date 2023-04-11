@@ -1,0 +1,26 @@
+{
+  "number": "7",
+  "number_as_published": "2023/7",
+  "year": 2023,
+  "title": "İstanbul Büyükşehir Belediye Başkanlığından 1 adet otobüsün satın alınması hk.",
+  "decision_date": "2023-04-11",
+  "source": "https://www.mollakoy.bel.tr/meclis-kararlari/sayfa/8/",
+  "official_document": "https://www.mollakoy.bel.tr/karar/istanbul-buyuksehir-belediye-baskanligindan-1-adet-otobusun-satin-alinmasina-hk/45/",
+  "source_sha256": "8797c10a59edd893600f8a94d09ea95fb4b0a839ec141b5af8e4906a01f2cdba",
+  "issuer": "Mollaköy Belediye Meclisi",
+  "history_type": "metadata",
+  "text_status": "metadata-only: listing fields as published; complete decision text is in the linked official document, not transcribed",
+  "in_force": "2023-04-11",
+  "in_force_basis": "Decision date as printed in the official council listing: Meclisi 11.04.2023; adoption date of the council decision; legal commencement not asserted",
+  "missing": [
+    "complete official decision text",
+    "official annexes"
+  ],
+  "law_text_complete": false,
+  "privacy_withheld": false,
+  "official_page": "https://www.mollakoy.bel.tr/karar/istanbul-buyuksehir-belediye-baskanligindan-1-adet-otobusun-satin-alinmasina-hk/45/",
+  "listing_label": "İstanbul Büyükşehir Belediye Başkanlığından 1 adet otobüsün satın alınması hk.",
+  "record_scope": "one council decision (number, date, subject as published)",
+  "date_read_from": "meeting date in the decision text (the item's Karar Tarihi field carries a clock time)",
+  "document_note": "the decision text is on the official item page; not transcribed here"
+}
