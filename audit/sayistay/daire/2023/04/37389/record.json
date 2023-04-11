@@ -1,0 +1,17 @@
+{
+  "kind": "decision",
+  "issuer": "Sayıştay 4. Dairesi",
+  "number": "301",
+  "decision_date": "2023-04-11",
+  "source_id": 37389,
+  "chamber": "4",
+  "ilam_number": "130",
+  "item_number": 6,
+  "public_body_type": "Yüksek Öğretim Kurumları",
+  "account_year": 2021,
+  "subject": "Çeşitli Konuları İlgilendiren Kararlar",
+  "source": "https://www.sayistay.gov.tr/KararlarDaire/Detay/37389/",
+  "source_sha256": "347c93156ec6fd3cad448c11d086ba11a79c9cbcf1cfc204dcc49346e98ab52f",
+  "text_status": "as-enacted",
+  "text_file": "metin.md"
+}
