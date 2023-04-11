@@ -1,0 +1,17 @@
+{
+  "kind": "decision",
+  "issuer": "Sayıştay 4. Dairesi",
+  "number": "301",
+  "decision_date": "2023-04-11",
+  "source_id": 37395,
+  "chamber": "4",
+  "ilam_number": "130",
+  "item_number": 9,
+  "public_body_type": "Yüksek Öğretim Kurumları",
+  "account_year": 2021,
+  "subject": "İhale Mevzuatı ile İlgili Kararlar",
+  "source": "https://www.sayistay.gov.tr/KararlarDaire/Detay/37395/",
+  "source_sha256": "0df20d4f2eae92e5d561914cb78e5601a07f86c7572d0e19c3052e110877e473",
+  "text_status": "as-enacted",
+  "text_file": "metin.md"
+}
