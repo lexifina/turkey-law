@@ -1,0 +1,17 @@
+{
+  "kind": "decision",
+  "issuer": "Sayıştay 4. Dairesi",
+  "number": "301",
+  "decision_date": "2023-04-11",
+  "source_id": 37392,
+  "chamber": "4",
+  "ilam_number": "130",
+  "item_number": 8,
+  "public_body_type": "Yüksek Öğretim Kurumları",
+  "account_year": 2021,
+  "subject": "Harcırah Mevzuatı ile İlgili Kararlar",
+  "source": "https://www.sayistay.gov.tr/KararlarDaire/Detay/37392/",
+  "source_sha256": "7f306af23512a14d38f46b0052526ced7bb9841955a383c89649beb5b7e12859",
+  "text_status": "as-enacted",
+  "text_file": "metin.md"
+}
