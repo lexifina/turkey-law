@@ -1,0 +1,17 @@
+{
+  "kind": "decision",
+  "issuer": "Sayıştay 4. Dairesi",
+  "number": "301",
+  "decision_date": "2023-04-11",
+  "source_id": 37388,
+  "chamber": "4",
+  "ilam_number": "130",
+  "item_number": 5,
+  "public_body_type": "Yüksek Öğretim Kurumları",
+  "account_year": 2021,
+  "subject": "İş Mevzuatı ile İlgili Kararlar",
+  "source": "https://www.sayistay.gov.tr/KararlarDaire/Detay/37388/",
+  "source_sha256": "7fb8cea6d2a075ebeb01a367b6abf1b54898cd3bf67c810ba7c7c1c1ea11207b",
+  "text_status": "as-enacted",
+  "text_file": "metin.md"
+}
