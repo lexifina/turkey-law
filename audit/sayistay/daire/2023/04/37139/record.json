@@ -1,0 +1,17 @@
+{
+  "kind": "decision",
+  "issuer": "Sayıştay 8. Dairesi",
+  "number": "279",
+  "decision_date": "2023-04-11",
+  "source_id": 37139,
+  "chamber": "8",
+  "ilam_number": "195",
+  "item_number": 1,
+  "public_body_type": "Belediyeler ve Bağlı İdareler",
+  "account_year": 2019,
+  "subject": "Personel Mevzuatı ile İlgili Kararlar",
+  "source": "https://www.sayistay.gov.tr/KararlarDaire/Detay/37139/",
+  "source_sha256": "06a1a9af29a37c161ed3d5605026384dcac0d36b04ce2d2857815c8e81f6eaa4",
+  "text_status": "metadata-only",
+  "metadata_only_reason": "possible personal name in the official text"
+}
