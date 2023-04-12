@@ -1,0 +1,17 @@
+{
+  "issuer": "Yüksek Seçim Kurulu",
+  "document_type": "decision",
+  "number": "2023/500",
+  "list_number": "500",
+  "decision_date": "2023-04-12",
+  "title": "Yüksek Seçim Kurulunun 12/04/2023 Tarihli ve 2023/500 Sayılı Kararı",
+  "official_document": "https://www.ysk.gov.tr/doc/karar/dosya/1483497/2023-500.pdf",
+  "source_sha256": "2b86a63a2356e73166706e334187c5b8a60accb15eceee3e93e9d83d4d146fe4",
+  "official_list": "https://www.ysk.gov.tr/doc/karar/kararlar.txt",
+  "official_list_sha256": "0733001df8fd09fa2f4155954da343809b59b823ecd8d57ad2e679c4264f5a84",
+  "pdf_pages": 3,
+  "text_status": "metadata-only",
+  "metadata_only_reason": "the two text extractions (PyMuPDF / pdftotext) differ",
+  "in_force": "2023-04-12",
+  "law_text_complete": false
+}
