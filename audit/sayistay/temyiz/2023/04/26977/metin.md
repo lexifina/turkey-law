@@ -1,0 +1,9 @@
+Konu: Süreaşımı.
+
+Sorumlular, 84 sayılı İlamın 1’nci maddesi ile; Edebiyat Fakültesi bünyesinde gerçekleştirilen Pedagojik Formasyon Eğitimi Sertifika Programı kapsamında elde edilen döner sermaye gelirlerinden, bu gelirlerin elde edilmesinde doğrudan katkısı olmayan Üniversite Rektörü Prof. Dr. ..’ya döner sermaye ek ödemesi yapılması sonucunda oluşan … TL ve 84 sayılı İlamın 2’nci maddesi ile; 657 sayılı Devlet Memurları Kanunu’na tabi olan Döner Sermaye İşletme Müdürü …’a döner sermaye ek ödemesi yapılması sonucu oluşan … TL kamu zararına ilişkin tazmin hükmünün kaldırılmasını talep etmişlerse de;
+
+Gerçekleştirme Görevlisi sıfatıyla temyiz talep eden sorumlu …, 84 sayılı İlamın 2’nci maddesine itiraz etmekte ise de; söz konusu İlam, adı geçen sorumluya 20.07.2022 tarihinde tebliğ edilmiş olup, bu tarihe nazaran 6085 sayılı Sayıştay Kanunu’nun 55’nci maddesinin üçüncü fıkrasında yazılı 60 günlük temyiz süresi 19.09.2022 tarihinde sona ermiş bulunduğu halde, bu tarihten sonra (yetkili makama havale tarihi olan) 14.10.2022 tarihinde Sayıştay kayıtlarına intikal eden dilekçe ile başvurmuş olduğundan; sorumlunun temyiz talebinin SÜRE AŞIMI YÖNÜNDEN REDDİNE, oy birliğiyle,
+
+Diğer sorumlu sıfatıyla temyiz talep eden Üst Yönetici …, 84 sayılı İlamın 1 ve 2’nci maddesine itiraz etmekte ise de; söz konusu İlam, adı geçen sorumluya 05.09.2022 tarihinde tebliğ edilmiş olup, bu tarihe nazaran 6085 sayılı Sayıştay Kanunu’nun 55’nci maddesinin üçüncü fıkrasında yazılı 60 günlük temyiz süresi 04.10.2022 tarihinde sona ermiş bulunduğu halde, bu tarihten sonra (yetkili makama havale tarihi olan) 10.11.2022 tarihinde Sayıştay kayıtlarına intikal eden dilekçe ile başvurmuş olduğundan; sorumlunun temyiz talebinin SÜRE AŞIMI YÖNÜNDEN REDDİNE oy birliğiyle,
+
+Karar verildiği 12.04.2023 tarih ve 54745 sayılı tutanakta yazılı olmakla işbu ilam tanzim kılındı.
