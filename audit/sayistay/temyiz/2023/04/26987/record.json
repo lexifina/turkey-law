@@ -1,0 +1,16 @@
+{
+  "kind": "decision",
+  "issuer": "Sayıştay Temyiz Kurulu",
+  "number": "54888",
+  "decision_date": "2023-04-12",
+  "source_id": 26987,
+  "chamber": "7",
+  "file_number": "52957",
+  "public_body_type": "Belediyeler ve Bağlı İdareler",
+  "account_year": "2020",
+  "subject": "Personel Mevzuatı ile İlgili Kararlar",
+  "source": "https://www.sayistay.gov.tr/KararlarTemyiz/Detay/26987/",
+  "source_sha256": "3926a2f611880f57d233eea9cc35c06cdf8f3cf8cb95b82d7f9ee6d308f5489a",
+  "text_status": "as-enacted",
+  "text_file": "metin.md"
+}
