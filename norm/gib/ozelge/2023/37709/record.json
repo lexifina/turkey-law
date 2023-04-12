@@ -1,0 +1,22 @@
+{
+  "kind": "norm",
+  "issuer": "Gelir İdaresi Başkanlığı",
+  "document_type": "ozelge",
+  "number": "62030549-120[74-2020/333]-430688",
+  "source_id": 37709,
+  "date": "2023-04-12",
+  "title": "%50 hisse oranı ile sahipken daha sonra tamamına sahip olunan gayrimenkulden elde edilen kira gelirinden indirim konusu yapılcak iktisap bedelinin %5'i ve amortisman giderinin hangi tutarlar üzerinden hesaplanması gerektiği.",
+  "source": "https://gib.gov.tr/mevzuat/kanun/433/ozelge/37709",
+  "related_law": "193 sayılı GELİR VERGİSİ KANUNU",
+  "source_api": "https://gib.gov.tr/api/gibportal/mevzuat/ozelge/list",
+  "source_listing": "evidence/list/2026-11-16/ozelge-p008.json",
+  "source_listing_sha256": "292c126217cc32c3ccfa57495ce433f89ef8db5e75fa1946d5819a76f81aff4d",
+  "source_sha256": "9478e2aa63d843ac537d42c71fce76c0ed835818c9c549f21fc62082f27b7923",
+  "text_status": "as-enacted",
+  "text_file": "metin.md",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  }
+}
