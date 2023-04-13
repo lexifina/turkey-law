@@ -1,0 +1,2 @@
+Ön inceleme
+MADDE 2- (1) Söz konusu başvuruya istinaden yapılan ön incelemede; yerli üreticilerin ekonomik göstergelerinde belirli bozulmalar olduğu, birim fiyatlar bazında İran’dan yapılan ithalatın incelenmesi sonucu yerli üretici üzerinde fiyat baskısının devam ettiği, ayrıca tüm ülkelerden yapılan ithalatın 2022 yılında düşmesine rağmen İran menşeli ithalatın 2021 ve 2022 yıllarında artış gösterdiği tespit edilmiştir.
