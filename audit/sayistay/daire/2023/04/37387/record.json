@@ -1,0 +1,17 @@
+{
+  "kind": "decision",
+  "issuer": "Sayıştay 1. Dairesi",
+  "number": "10901",
+  "decision_date": "2023-04-13",
+  "source_id": 37387,
+  "chamber": "1",
+  "ilam_number": "431",
+  "item_number": 1,
+  "public_body_type": "Özel İdareler",
+  "account_year": 2015,
+  "subject": "Personel Mevzuatı ile İlgili Kararlar",
+  "source": "https://www.sayistay.gov.tr/KararlarDaire/Detay/37387/",
+  "source_sha256": "46d50950da9e723ff903de72fbe4edebc9e6f2ca47ff5c884937ed144d9fb673",
+  "text_status": "as-enacted",
+  "text_file": "metin.md"
+}
