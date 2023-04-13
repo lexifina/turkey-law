@@ -1,0 +1,17 @@
+{
+  "kind": "decision",
+  "issuer": "Sayıştay 1. Dairesi",
+  "number": "10903",
+  "decision_date": "2023-04-13",
+  "source_id": 37967,
+  "chamber": "1",
+  "ilam_number": "446",
+  "item_number": 1,
+  "public_body_type": "Özel İdareler",
+  "account_year": 2013,
+  "subject": "İş Mevzuatı ile İlgili Kararlar",
+  "source": "https://www.sayistay.gov.tr/KararlarDaire/Detay/37967/",
+  "source_sha256": "23c9408f12288fac67799aac1f03e4e0f395b4abb1d7ed6d0acd9bab650f0147",
+  "text_status": "as-enacted",
+  "text_file": "metin.md"
+}
