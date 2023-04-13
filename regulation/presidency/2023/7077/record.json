@@ -1,0 +1,26 @@
+{
+  "id": "presidency-regulation-7077",
+  "number": "7077",
+  "kind": "regulation",
+  "issuer": "presidency",
+  "title": "İYONLAŞTIRICI RADYASYON VE RADYONÜKLİT KULLANILARAK SUNULAN SAĞLIK HİZMETLERİ HAKKINDA YÖNETMELİK",
+  "published": "2023-04-13",
+  "enacted": "2023-04-12",
+  "gazette_number": "32162",
+  "in_force": "2023-04-13",
+  "in_force_basis": "Official commencement clause: \"Bu Yönetmelik yayımı tarihinde yürürlüğe girer.\"; Resmî Gazete 2023-04-13, no amendment annotation in this source text.",
+  "history": "current-only",
+  "version_label": "oldest version available",
+  "first_law": null,
+  "source": "https://www.mevzuat.gov.tr/anasayfa/MevzuatFihristDetayIframe?MevzuatNo=7077&MevzuatTur=21&MevzuatTertip=5",
+  "source_sha256": "b52ed1eeae379479261cbba22f070f601ffcd2b136cda395acad1f581c149d66",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  },
+  "missing_components": [],
+  "text_layout": "article-files",
+  "source_links": [],
+  "completeness": "html-text-complete"
+}

@@ -1,0 +1,3 @@
+Hüküm bulunmayan hâller
+MADDE 10- (1) Bu Yönetmelikte hüküm bulunmayan hâllerde, iyonlaştırıcı radyasyon kullanılarak sunulan sağlık hizmetlerinin planlanması ile bu hizmetlerin sunulduğu sağlık kurum ve kuruluşlarının faaliyetleri, standartları ve denetlenmesine ilişkin hususlarda ilgili mevzuat hükümleri uygulanır.
+(2) Mesleğini serbest olarak icra etmeye yetkili radyoloji, nükleer tıp ve ağız, diş ve çene radyolojisi uzmanları tarafından açılan merkezlerle ilgili hüküm bulunmayan hâllerde, ayakta teşhis ve tedavi yapılan özel sağlık kuruluşlarının tabi olduğu mevzuat ve ilgili diğer mevzuat hükümleri uygulanır.

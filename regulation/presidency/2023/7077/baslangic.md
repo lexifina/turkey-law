@@ -1,0 +1,3 @@
+İYONLAŞTIRICI RADYASYON VE RADYONÜKLİT KULLANILARAK SUNULAN SAĞLIK HİZMETLERİ HAKKINDA YÖNETMELİK
+Cumhurbaşkanı Kararının Tarihi : 12/4/2023 Sayısı : 7077
+Yayımlandığı Resmî Gazetenin Tarihi : 13/4/2023 Sayısı : 32162

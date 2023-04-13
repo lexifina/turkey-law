@@ -1,0 +1,6 @@
+Sağlık izni
+MADDE 8- (1) Sadece iyonlaştırıcı radyasyon kaynakları ve radyonüklitlerin kullanıldığı kontrollü alanlarda çalışanlara yıllık izinlerine ilaveten sağlık izni verilir. Radyasyonla çalışanlara verilecek sağlık izni süresi, bu çalışanların bir takvim yılı içerisinde kontrollü alanlarda fiilen çalıştığı süreler dikkate alınarak bu Yönetmeliğin eki EK-2’de yer alan “Sağlık İzni Tablosu”nda belirtilen çalışma süresine göre belirlenir.
+(2) Mobil röntgen veya skopi gibi hareketli cihazları kullanan radyasyonla çalışanlara verilecek sağlık izni süresi, bu çalışanların bir takvim yılı içerisinde kontrollü alanlarda fiilen çalıştığı süreler dikkate alınarak bu Yönetmeliğin eki EK-2’de yer alan “Sağlık İzni Tablosu”nda belirtilen çalışma süresine göre belirlenir.
+(3) Kontrollü alanlarda radyasyonla çalışanların maruz kaldıkları dozların, doz sınırlarını aşması hâlinde bu çalışanlar için sağlık kurum ve kuruluşu tarafından sağlık izni hemen kullandırılır.
+(4) Sağlık izni bölünemez, yıl geçişlerinde üst üste kullanılamaz ve diğer yıla aktarılamaz.
+(5) Kontrollü alanlarda radyasyonla çalışanlara verilecek sağlık izni süresi hesaplanırken doğum, ölüm, evlilik ve yıllık izin ile geçirilen süreler, çalışma süresine dahil edilmez.
