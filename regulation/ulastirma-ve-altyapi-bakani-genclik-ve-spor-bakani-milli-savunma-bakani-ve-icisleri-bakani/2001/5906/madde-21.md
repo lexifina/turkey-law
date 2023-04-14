@@ -1,0 +1,8 @@
+ALTINCI BÖLÜM
+Özel Hükümler
+Dalış Cihaz ve Aletleri ile İlgili Sorumluluklar ve Denetleme
+Madde 21- Dalış cihaz ve aletler, sorumluları tarafından her zaman faal, bakımlı ve her an dalışa hazır bulundurulur.
+Her tip dalış görevini anında yapabilmek amacıyla teneffüs ortamı olarak gerekli ve evsafına uygun basınçlı hava ve gaz karışımları hazır bulundurulur.
+Deniz Kuvvetleri Komutanlığı kuruluşundaki birlik ve kurum amirliklerindeki dalış teçhizatının göreve hazır durumda bulundurulmasını sağlamak amacıyla, her yıl Kasım ayında Deniz Kuvvetleri Komutanlığı emri ile Kurtarma ve Sualtı Komutanlığınca oluşturulacak bir heyet tarafından denetlemesi yapılır. Denetleme sonuç raporları, ilgili komutanlıklara gönderilmek üzere Deniz Kuvvetleri Komutanlığına iletilir.
+Kara ve Hava Kuvvet Komutanlıkları ile Jandarma Genel Komutanlığı ve Sahil Güvenlik Komutanlığı kuruluşundaki birlik ve kurum amirliklerindeki mevcut dalış teçhizatının muayene ve kontrolleri, malzemeyi demirbaşında bulunduran komutanlık veya kurum amirliklerinin talebi üzerine, her yıl Mayıs ayı içinde, Deniz Kuvvetleri Komutanlığı emri ile Kurtarma ve Sualtı Komutanlığınca oluşturulacak bir heyet tarafından yapılır ve muayene sonuç raporları, ilgili komutanlık ve kurum amirliklerine gönderilmek üzere Deniz Kuvvetleri Komutanlığına iletilir.
+Dalış teçhizatının durumu denetleme heyeti tarafından tespit edilir ve kullanılmaz durumda olanların durum raporları, ilgili onarım kademelerince hazırlanarak ilgili komutanlıklara gönderilir. Bu malzemelerin hurdaya ayırma işlemleri, malzemeyi demirbaşında bulunduran komutanlıkça yapılır. Denetleme heyetine tefrik edilen personel; kullanılmaz durumda olduğu kararını vereceği malzemeyi kullanmış ve dalış amirliği yapabilecek nitelikte olmalıdır.

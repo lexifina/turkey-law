@@ -1,0 +1,2 @@
+Dalgıçlık Kimliği
+Madde 22- Kurtarma ve Sualtı Komutanlığı veya Deniz Kuvvetleri Komutanlığınca belirlenen başka bir komutanlık emrinde açılan ve bu Yönetmelikteki özel ihtisas, kurbağa adam veya ikinci sınıf dalgıç kurslarından birini bitiren Türk Silâhlı Kuvvetleri personeline, herhangi bir rahatsızlık durumunda rahatsızlığının dalışla ilgili olabileceğinin de anlaşılabilmesi ve personelin niteliğini ibraz edebilmesi maksadıyla yanında bulundurması için Kurtarma ve Sualtı Komutanlığınca, örneğine EK-4’de yer verilen “Dalgıçlık Kimlik Belgesi” verilir.

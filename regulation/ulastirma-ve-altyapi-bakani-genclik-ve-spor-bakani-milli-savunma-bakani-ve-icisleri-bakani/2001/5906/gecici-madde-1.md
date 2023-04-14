@@ -1,0 +1,1 @@
+Geçici Madde 1 — 31 Ocak 2000 tarihinden önce özel ihtisas kurslarını bitirmiş Birinci Sınıf Dalgıç özel ihtisaslı subaylar ve harbe hazırlık eğitimlerini tamamlayan SAS ve SAT özel ihtisaslı subaylar ile 31 Ocak 1994 tarihinden önce özel ihtisas kurslarını bitirmiş olan astsubaylar, dalış amirliği kursu görmüş olmasına bakılmaksızın dalış amirliği yaparlar.

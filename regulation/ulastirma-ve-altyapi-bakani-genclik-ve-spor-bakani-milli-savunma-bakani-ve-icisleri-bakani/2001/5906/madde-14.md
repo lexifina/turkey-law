@@ -1,0 +1,4 @@
+Dalgıçlık Statüsünün Kaldırılmasına Yetkili Kurullar
+Madde 14- Dalgıç ve kurbağa adam nitelikli personelin dalgıçlık statüsünün kaldırılmasına yetkili kurullar aşağıda gösterilmiştir:
+a) (Değişik:RG-14/4/2023-32163) Sıhhî Kurul: Sıhhî yetersizlik bakımından “Dalgıç veya Kurbağa Adam” statüsünün kaldırılmasını gerektiren kararlar almaya yetkili Türk Silahlı Kuvvetleri, Jandarma Genel Komutanlığı ve Sahil Güvenlik Komutanlığı Sağlık Yeteneği Yönetmeliğinde belirtilen tam teşekküllü hastanelerin sıhhî kuruludur.
+b) Dalgıç Kurulu : Sicile, dalgıçlığa veya kurbağa adam niteliklerine yönelik meslekî disiplinsizlik ve yetersizlikleri, kazanılan yeni ihtisas veya kadro rütbesi uyumsuzluğu bakımından, “Dalgıç veya Kurbağa Adam” statüsünün kaldırılması veya devamı hakkında karar almaya yetkili kuruldur.
