@@ -1,0 +1,20 @@
+Tanımlar
+MADDE 4 – (1) Bu Yönetmelikte geçen;
+a) Alt görev: 1 sayılı Cumhurbaşkanlığı Teşkilatı Hakkında Cumhurbaşkanlığı Kararnamesinin 509 uncu maddesinde yer alan hiyerarşik kademeler çerçevesinde daha alt hiyerarşi içindeki görevleri,
+b) Aynı düzey görev: Hiyerarşi, görev, yetki ve sorumluluk açısından aynı hizmet grubunda ya da hizmet grubu içinde alt görev grupları olması halinde aynı alt görev grubunda gösterilen görevleri,
+c) Bakan: Dışişleri Bakanını,
+ç) Başkan: Avrupa Birliği Başkanını,
+d) Başkanlık: Avrupa Birliği Başkanlığını,
+e) Birim: 4 sayılı Cumhurbaşkanlığı Kararnamesinde yer alan Başkanlık hizmet birimlerini,
+f) Daire Başkanlığı: Başkanlık Yönetim Hizmetleri Dairesi Başkanlığını,
+g) Görevde yükselme: 5 inci maddede belirtilen görevlere aynı veya başka hizmet grupları arasından yapılan hiyerarşik olarak yükselme niteliğinde atamaları,
+ğ) Görevde yükselme sınavı: Bu Yönetmelik hükümlerine göre görevde yükselmeye tabi kadrolara atanacakların belirlenmesi amacıyla yapılan yazılı ve sözlü sınavı,
+h) Hizmet grubu: Hiyerarşi, görev, yetki ve sorumluluk açısından benzer veya aynı düzeyde unvanların bir araya getirilmesi ile oluşturulan grubu,
+ı) Hizmet süresi: 657 sayılı Kanunun 68 inci maddesinin (B) bendine göre hesaplanan süreleri,
+i) İş günü: Ulusal bayram ile genel ve hafta sonu tatil günleri hariç, diğer günleri,
+j) Sınav kurulu: Görevde yükselme ve unvan değişikliğine ilişkin iş ve işlemleri yürütmek üzere bu Yönetmelik hükümlerine göre oluşturulan kurulu,
+k) Unvan değişikliği: En az ortaöğretim düzeyinde mesleki veya teknik eğitim sonucu ihraz edilen unvanlara yapılacak atamaları,
+l) Unvan değişikliği sınavı: En az ortaöğretim düzeyinde mesleki veya teknik eğitim sonucu ihraz edilen unvanlara ilişkin görevlere atanacakların belirlenmesi amacıyla yapılan yazılı ve sözlü sınavı,
+m) Üst görev: 1 sayılı Cumhurbaşkanlığı Kararnamesinin 509 uncu maddesinde yer alan hiyerarşik kademeler çerçevesinde daha üst hiyerarşi içindeki görevleri,
+n) (Ek:RG-15/4/2023-32164) YDS/e-YDS: 4/1/2013 tarihli ve 28518 sayılı Resmî Gazete’de yayımlanan Yabancı Dil Bilgisi Seviye Belirleme Usul ve Esasları Hakkında Yönetmelik uyarınca yapılan Yabancı Dil Bilgisi Seviye Tespit Sınavını/Elektronik Yabancı Dil Sınavını,
+ifade eder.
