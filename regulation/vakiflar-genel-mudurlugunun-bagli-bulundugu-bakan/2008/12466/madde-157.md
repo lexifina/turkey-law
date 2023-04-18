@@ -1,0 +1,2 @@
+Yarışma sınavı
+MADDE 157 – (1) Uzman Yardımcılığı yarışma sınavları kadro ve ihtiyaç durumuna göre, Kamu Görevlerine İlk Defa Atanacaklar İçin Yapılacak Sınavlar Hakkında Genel Yönetmelik hükümleri çerçevesinde Öğrenci Seçme ve Yerleştirme Merkezi tarafından yapılan KPSS sonuçlarına göre sınav ilanında belirtilen asgari taban puan esas alınarak, atama izni alınmış kadro kontenjanının yirmi katından fazla olmamak üzere belirlenen sayıda aday arasından yazılı ve sözlü sınav yapılarak seçilir.

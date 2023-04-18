@@ -1,0 +1,96 @@
+{
+  "source_id": "7.5.12466",
+  "kind": "regulation",
+  "register_kind": "Kurum ve Kuruluş Yönetmelikleri",
+  "title": "VAKIFLAR YÖNETMELİĞİ",
+  "number": "12466",
+  "issuer": "Vakıflar Genel Müdürlüğünün bağlı bulunduğu Bakan",
+  "issuer_slug": "vakiflar-genel-mudurlugunun-bagli-bulundugu-bakan",
+  "path": "regulation/vakiflar-genel-mudurlugunun-bagli-bulundugu-bakan/2008/12466",
+  "source": "https://www.mevzuat.gov.tr/anasayfa/MevzuatFihristDetayIframe?MevzuatTur=7&MevzuatNo=12466&MevzuatTertip=5",
+  "source_sha256": "dbd9150b64dc4e87064d94d241cac5f666e23854506e05004cebcdbff18bca49",
+  "source_bytes": 351839,
+  "published": "2008-09-27",
+  "gazette": "27010",
+  "in_force": "2023-04-18",
+  "in_force_basis": "latest Resmî Gazete date printed in the source amendment notes/table (\"RG-18/4/2023\") for the current consolidated text",
+  "date_evidence": [
+    [
+      "2023-04-18",
+      "RG-18/4/2023",
+      "Resmî Gazete date printed in the source amendment note"
+    ],
+    [
+      "2023-04-18",
+      "18/4/2023",
+      "Resmî Gazete date in the source amendment table"
+    ],
+    [
+      "2021-09-30",
+      "RG-30/9/2021",
+      "Resmî Gazete date printed in the source amendment note"
+    ],
+    [
+      "2021-09-30",
+      "30/9/2021",
+      "Resmî Gazete date in the source amendment table"
+    ],
+    [
+      "2020-09-12",
+      "RG-12/9/2020",
+      "Resmî Gazete date printed in the source amendment note"
+    ],
+    [
+      "2020-09-12",
+      "12/9/2020",
+      "Resmî Gazete date in the source amendment table"
+    ],
+    [
+      "2018-05-25",
+      "RG-25/5/2018",
+      "Resmî Gazete date printed in the source amendment note"
+    ],
+    [
+      "2018-05-25",
+      "25/5/2018",
+      "Resmî Gazete date in the source amendment table"
+    ],
+    [
+      "2018-02-28",
+      "RG-28/2/2018",
+      "Resmî Gazete date printed in the source amendment note"
+    ],
+    [
+      "2018-02-28",
+      "28/2/2018",
+      "Resmî Gazete date in the source amendment table"
+    ],
+    [
+      "2016-06-30",
+      "RG-30/6/2016",
+      "Resmî Gazete date printed in the source amendment note"
+    ],
+    [
+      "2016-06-30",
+      "30/6/2016",
+      "Resmî Gazete date in the source amendment table"
+    ]
+  ],
+  "commencement_clauses": [
+    "Bu Yönetmelik yayımı tarihinde yürürlüğe girer"
+  ],
+  "history": "current-text",
+  "label": "oldest version available",
+  "checked_on": "2026-11-15",
+  "word_count": 16962,
+  "text_status": "current-consolidated",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  },
+  "source_links": [
+    "7.5.12466-EK.zip"
+  ],
+  "completeness": "html-text-complete; linked annexes not fetched"
+}

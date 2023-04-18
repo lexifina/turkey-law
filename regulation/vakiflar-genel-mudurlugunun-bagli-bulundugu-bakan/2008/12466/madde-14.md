@@ -1,0 +1,4 @@
+İdare şeklinin değiştirilmesi
+MADDE 14 – (1) Haklı sebepler varsa mahkeme, vakfın yönetim organı veya Genel Müdürlüğün istemi üzerine diğerinin yazılı görüşünü aldıktan sonra vakfın örgütünü, yönetimini ve işleyişini değiştirebilir.
+(2) İstihdam edilenlere ve işçilere yardım vakıflarında, vakıf senedinin, faydalananların vakıftan faydalanma şartlarına ve idareye iştiraklerine dair hükümlerinde yapılacak değişikliklerin vakıf senedinde bu hususta yetkili olduğu belirtilen organın kararı üzerine, Genel Müdürlüğün yazılı düşüncesi alındıktan sonra mahkeme tarafından kararlaştırılır.
+(3) Türk Ticaret Kanununun 468 inci maddesi gereğince kurulan vakıflardan 506 sayılı Sosyal Sigortalar Kanununun geçici 20 nci maddesi hükümlerine tabi olanların vakıf senetlerinde yapılacak değişiklik, Çalışma ve Sosyal Güvenlik Bakanlığının uygun görüşünden sonra, Genel Müdürlüğün yazılı görüşü alınarak yerleşim yeri mahkemesi tarafından kararlaştırılır.

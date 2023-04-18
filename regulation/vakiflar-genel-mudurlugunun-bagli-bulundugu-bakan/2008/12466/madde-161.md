@@ -1,0 +1,2 @@
+Sınav kurulu
+MADDE 161 – (1) Sınav kurulu Genel Müdür onayı ile İnsan Kaynakları Daire Başkanlığının bağlı bulunduğu Genel Müdür Yardımcısının başkanlığında, daire başkanları, birim müdürleri, vakıf uzmanları veya konusunda uzman kurum personeli arasından belirlenecek, başkan dahil beş asil ve üç yedek üyeden oluşur. İhtiyaç duyulması halinde üniversite öğretim üyeleri arasından en fazla iki kişi sınav kurulu asil üyesi olarak görevlendirilebilir.

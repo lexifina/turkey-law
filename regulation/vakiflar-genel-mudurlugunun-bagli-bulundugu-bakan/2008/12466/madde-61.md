@@ -1,0 +1,3 @@
+Tahsis talebi ve yapılacak işlemler
+MADDE 61 – (1) Tahsis talepleri taşınmazın bulunduğu bölge müdürlüğüne yapılır. Başvuru üzerine tahsisi talep edilen taşınmazın, tapu kayıtları, vakıf kütük kayıtları, halihazır durumu, onarıma ihtiyacının bulunup bulunmadığı, vakıf kültür varlığı olup olmadığı tespit edilerek, taşınmazın son durumunu gösterir içten ve dıştan çeşitli açılardan çekilmiş fotoğrafları ile birlikte krokisi ve teknik elemanlarca hazırlanacak ayrıntılı rapor Genel Müdürlüğe gönderilir.
+(2) Genel Müdürlükçe tahsis talebi, vakfiye şartları açısından değerlendirilir. Talebin uygun görülmesi halinde tahsis işlemleri başlatılır.

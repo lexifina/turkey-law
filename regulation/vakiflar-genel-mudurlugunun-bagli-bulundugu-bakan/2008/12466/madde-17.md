@@ -1,0 +1,3 @@
+Yeni vakıflarda şube, temsilcilik açma veya kapatma (Değişik başlık:RG-28/2/2018-30346)
+MADDE 17 – (1) (Değişik:RG-28/2/2018-30346) Yeni vakıflar, vakıf senedinde hüküm bulunmak kaydıyla amaçlarını gerçekleştirmek üzere şube, temsilcilik açabilir veya kapatabilirler. Vakıf yöneticileri, şube, temsilciliği açma veya kapatma tarihinden itibaren bir ay içinde Ek-1’deki formu doldurarak ilgili bölge müdürlüğüne vermek zorundadırlar.
+(2) Şube ve temsilciliklerde görev alan yöneticilerin, Kanunun 9 uncu maddesinde belirtilen suçlardan mahkûm olmaması ve çoğunluğunun Türkiye’de yerleşik bulunması zorunludur.

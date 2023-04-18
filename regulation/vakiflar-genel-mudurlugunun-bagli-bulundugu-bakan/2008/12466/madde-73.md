@@ -1,0 +1,4 @@
+Muhtaç aylığından yararlanacaklar
+MADDE 73 – (1) Annesi ya da babası olmayan muhtaç çocuklar ile % 40 ve üzeri engelli olan muhtaçlara; sosyal güvencesi olmaması, herhangi bir gelir veya aylığı bulunmaması, mahkeme kararı veya kanunla bakım altına alınmamış olması, gelir getirici taşınır ve taşınmaz malı mevcut olmaması veya olup da bunlardan elde edeceği aylık ortalama gelirinin bu Yönetmelikle belirlenen muhtaç aylığı miktarını geçmemesi halinde aylık bağlanabilir.
+(2) (Değişik:RG-30/9/2021-31614) 18 yaşından küçük özel gereksinimli çocuklara, kendilerine bakmakla yükümlü anne ve babalarının bu maddenin birinci fıkrasında belirtilen şartları taşıdığı takdirde aylık bağlanır. 18 yaşından büyük ve en az %70 ve üzeri oranda engelli muhtaçların aileleri ile birlikte ikamet etmeleri durumunda da ailelerinin bu maddenin birinci fıkrasında belirtilen şartları taşıması halinde aylık bağlanır.
+(3) Aynı aileden sadece bir kişiye aylık bağlanabilir.

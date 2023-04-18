@@ -1,0 +1,3 @@
+Toplantı gündemi ve çağrı usulü
+MADDE 113 – (1) Toplantıların gündemi başkan veya başkanın yetki verdiği bir üye tarafından tespit edilir. Toplantının günü, yeri, saati ve gündemi toplantının yapılacağı günden en az beş gün önce üyelere bildirilir. Beş günün hesabında duyuru günü ile toplantı günü hesaba katılmaz. Acil hallerde bu süre bir güne indirilebilir. Meclis üyelerine bildirim; kendilerince bildirilen elektronik posta, adrese taahhütlü posta yöntemlerinden biri veya imza karşılığı gündemin teslimi ile yapılır.
+(2) Gündemde bulunmayan konular, başkanın veya üyelerin teklifi üzerine üyelerin salt çoğunluğunun kararı ile toplantı sırasında gündeme alınabilir.

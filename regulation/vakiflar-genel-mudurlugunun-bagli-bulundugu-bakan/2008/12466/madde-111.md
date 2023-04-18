@@ -1,0 +1,22 @@
+Meclisin görevleri
+MADDE 111 – (1) Genel Müdürlükçe teklif edilen;
+a) Genel Müdürlüğe, mazbut ve mülhak vakıflara ait akar ve hayrat taşınmazların tahsis, satış ve trampasına yönelik tasarruflarla, kamulaştırmalarda kamu yararını,
+b) Genel Müdürlüğe ve mazbut vakıflara ait akar mallar ile hakların daha yararlı olanları ile değiştirilmesini, paraya çevrilmesini veya değerlendirilmesini,
+c) Genel Müdürlüğe, mazbut ve mülhak vakıflara ait olup, tahsis edildikleri amaca göre kullanılmaları kanunlara veya kamu düzenine aykırı yahut tahsis amacına uygunluğunu kaybetmiş, kısmen veya tamamen hayrat olarak kullanılması mümkün olmayan taşınmazların mazbut vakıflarda Genel Müdürlüğün, mülhak vakıflarda vakıf yöneticisinin talebi üzerine gayece aynı veya en yakın başka bir hayrata dönüştürülmesini, akara devredilmesini veya paraya çevrilmesini,
+ç) Kısmen veya tamamen hayrat olarak kullanılmayan cemaat vakıflarına ait taşınmazları, vakıf yönetiminin talebi halinde aynı cemaate ait başka bir vakfa tahsisini veya vakfın akarına dönüştürmeyi,
+d) Genel Müdürlüğe ve mazbut vakıflara ait taşınmazların onarım veya inşa karşılığı kiralamalarında yirmi yıldan kırk dokuz yıla kadar kira süresini,
+e) Yeterli geliri bulunmayan mazbut vakıflara ait vakıf kültür varlığı niteliğindeki taşınmazların, benzer amaçlı mazbut vakıfların gelirleriyle korunması ve yaşatılmasını,
+f) Mazbut vakıflara ait taşınmazların satışından elde edilecek gelirler ile taviz bedellerinin gelir getirici yatırımlarda, yurt içi ve yurt dışında bulunan ve geliri kalmayan vakıflara ait vakıf kültür varlıklarının bakım ve onarımlarında kullanılmasını,
+g) Vakıfların, vakfiyelerindeki şartların yerine getirilmesine fiilen veya hukuken imkan kalmaması halinde; vakfedenin iradesine aykırı olmamak kaydıyla mazbut vakıflarda Genel Müdürlüğün; mülhak, cemaat ve esnaf vakıflarında, vakıf yöneticilerinin teklifi üzerine bu şartların değiştirilmesi ile hayır şartlarındaki parasal değerlerin güncel vakıf gelirlerine uyarlanmasını,
+ğ) Her yıl yeni vakıfların kuruluşunda amaçlarına göre özgülenecek asgarî mal varlığı miktarını,
+h) Mülhak vakıflara Anayasaya aykırılık teşkil etmeyen vakfiye şartlarına göre yönetici atanmasını,
+ı) Kanunun 10 uncu maddesi doğrultusunda vakıf yöneticilerinin görevlerinden alınması için dava açılmasını, telafisi imkânsız sonuçlar doğurabilecek hallerde bu davalar sonuçlanıncaya kadar, vakıf yönetiminin geçici olarak görevden uzaklaştırılması ve kayyımca yönetilmesinin mahkemeden talep edilmesini,
+i) Seçilmiş Meclis üyelerinin göreve engel bir hastalık veya sakatlık nedeniyle iş görememeleri, üyelik şartlarını kaybetmeleri veya mazereti olmaksızın üst üste üç veya yılda toplam on toplantıya katılmamaları durumunda görevlerinin sona ermesini,
+j) Kanunun 78 inci maddesine göre ve Meclisçe belirlenecek esaslar dahilinde hukukî ihtilafların anlaşma veya sözleşme değişikliği ile neticelendirilmesini, dava ve icra takiplerinden vazgeçilmesini, bir hakkın tanınmasını ve menfaatin terkinini,
+k) Sözleşmeli olarak Genel Müdürlükte fiilen çalışan personele ödenecek aylık brüt sözleşme ücreti miktarlarını,
+l) Kanunun 72 nci maddesinin birinci ve ikinci fıkralarına göre yapılacak ödemelerin usul, esas ve oranlarını,
+m) Genel Müdürlük ve işletme müdürlüklerinin bütçelerini,
+n) Vakfiyelerinde; intifa hakları hayır şartlarından fazla olan mülhak vakıfların, yöneticilerinin ve ilgililerinin istekleri halinde, Türk Medeni Kanununun 372 nci maddesinde belirtilen aile vakfına dönüştürülmesi için dava açılmasını,
+o) Genel Müdürlük ve vakıflarla ilgili tüzük ve yönetmelik taslaklarını,
+ö) Genel Müdürlükçe gerek görülen hususları,
+karara bağlamak.

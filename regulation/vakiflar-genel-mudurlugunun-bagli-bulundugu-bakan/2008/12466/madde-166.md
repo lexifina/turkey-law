@@ -1,0 +1,4 @@
+Tezin hazırlanmasına ilişkin esaslar
+MADDE 166 – (1) Uzmanlık tezi, tez konusunun ilgiliye tebliğ tarihini takip eden bir yıl içinde hazırlanır. Bu sürenin son üç ayında uzman yardımcılarına başka görev verilmemesi esastır. Tezde yabancı dilde hazırlanmış özet bölümünün bulunması şarttır.
+(2) Tezin hazırlanmasında, konunun başka bir kurum ve kuruluşta uzmanlık, yüksek lisans, doktora tezi veya başka bir ad altında içerik ve sonuçları açısından aynı şekilde incelenip savunulmamış olması esastır. Uzman yardımcısının hazırlayacağı tezin kendi görüş ve değerlendirmelerini içermesi ve bilimsel çalışma etiğine uygun olması gereklidir.
+(3) Genel Müdürlük tarafından uzman yardımcılarına, vakıf uzmanı veya 158 inci maddenin birinci fıkrasının (d) bendinde belirtilen nitelikleri taşıyan bir tez danışmanı belirlenir. Tez danışmanı, uzman yardımcısına tez çalışmalarında nezaret eder.

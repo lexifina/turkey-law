@@ -1,0 +1,2 @@
+Giriş sınavının duyurulması
+MADDE 177/B – (1) Giriş sınavının şekli, katılma şartları, sınav konuları, istenecek belgeler, ilk ve son başvuru tarihi, başvuru yeri ve şekli, başvuru evrakının temin edileceği yerler, sınavın yeri ve zamanı, KPSSP3 asgari puanı, atama yapılması planlanan azami kadro sayısı, kadronun sınıfı ve derecesi ile gerekli görülen diğer hususlar son başvuru tarihinden en az bir ay önce Resmî Gazete’de, Türkiye genelinde yayımlanan tirajı en yüksek ilk beş gazetenin en az birinde ve Genel Müdürlük internet sitesinde yayımlanmak suretiyle duyurulur.

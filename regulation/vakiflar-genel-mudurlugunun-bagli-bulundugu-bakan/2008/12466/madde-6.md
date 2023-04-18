@@ -1,0 +1,4 @@
+Ölüme bağlı tasarruf ile kuruluş
+MADDE 6 – (1) Ölüme bağlı tasarruf yoluyla vakıf, vakfedenin ölümünden sonra tescil edilmek üzere kurulabilir. Bu yolla kurulan vakıflarda sulh hâkimi vakıf kurulmasına esas belgenin bir örneğini yedi gün içinde Genel Müdürlüğe gönderir.
+(2) Ölüme bağlı tasarrufla kurulan vakıflarda mahkemeye başvuru, ilgililerin veya sulh hâkiminin bildirimi üzerine ya da Genel Müdürlükçe resen yapılır. Yetkili mahkemeye başvurulması üzerine, yapılacak harcamalar ilgili vakıftan alınmak kaydıyla Genel Müdürlükçe karşılanır.
+(3) Ölüme bağlı tasarrufla kurulan vakfın miras bırakanın borçlarından sorumluluğu, özgülenen mal ve haklarla sınırlıdır. Vakfedenin mirasçıları ile alacaklılarının, bağışlamaya ve ölüme bağlı tasarruflara ilişkin hükümler uyarınca dava hakları saklıdır.

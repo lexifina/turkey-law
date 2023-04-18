@@ -1,0 +1,4 @@
+Müfettişlerin bilgi ve belge isteme yetkileri
+MADDE 127 – (1) Müfettişler görevlerini yaparken elektronik ortamdaki kayıtlar da dâhil olmak üzere gerekli gördükleri her türlü bilgileri, defter ve belgeleri, para ve para hükmündeki kıymetleri denetime tabi birimlerden istemek, görmek, bunların onaylı örneklerini, bir yolsuzluğun kanıtını oluşturanların asıllarını almak, kasa, depo ve ambarları incelemek ve saymak, bunları mühürlemek, inceleme ve sayma işlerinde yardım isteminde bulunmak, gerektiğinde diğer kamu kurum ve kuruluşları, bankalar ile gerçek ve tüzel kişilerden bilgi ve belge istemek yetkisine sahiptirler.
+(2) Asılları alınan belgelerin, müfettişlerin mühür ve imzasıyla onanmış örnekleri, dosyasında saklanmak üzere alındığı yerin yetkililerine verilir.
+(3) Bilirkişi incelemesini gerektiren hallerde müfettişler tarafından yaptırılacak çalışmaların bedeli denetim, inceleme veya soruşturma yapılan birim ya da vakıf tarafından karşılanır.

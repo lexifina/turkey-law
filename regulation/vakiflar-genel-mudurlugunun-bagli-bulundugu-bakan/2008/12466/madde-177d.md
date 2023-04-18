@@ -1,0 +1,5 @@
+Sınav Kurulu
+MADDE 177/D – (1) Sınav Kurulu, Genel Müdür onayı ile İnsan Kaynakları Daire Başkanlığının bağlı bulunduğu Genel Müdür Yardımcısının başkanlığında, 1. Hukuk Müşaviri, İnsan Kaynakları Daire Başkanı ile daire başkanları ve konusunda uzman kurum personeli arasından belirlenecek, başkan dâhil beş asıl ve üç yedek üyeden oluşur. İhtiyaç duyulması halinde üniversite öğretim üyeleri arasından en fazla iki kişi Sınav Kurulu asıl üyesi olarak görevlendirilebilir.
+(2) Sınav Kurulu üye tam sayısı ile toplanır ve oy çokluğuyla karar alır. Oylama sırasında çekimser oy kullanılamaz. Karara katılmayanlar karşı oylarını gerekçeleriyle birlikte belirtmek zorundadır.
+(3) Sınav Kurulu başkan ve üyeleri; kendilerinin, boşanmış olsalar dahi eşlerinin, ikinci dereceye kadar (bu derece dâhil) kan ve kayın hısımlarının veya evlatlıklarının katıldığı sınavlarda görev alamaz.
+(4) Sınav Kurulu, başvuruların incelenerek adayların başvuru şartlarını taşıyıp taşımadıklarının tespit edilmesi, sınavın yapılması, sonuçların ilan edilmesi, itirazların incelenerek karara bağlanması ile sınavla ilgili diğer işlemlerin yürütülmesinde görevli ve yetkilidir.

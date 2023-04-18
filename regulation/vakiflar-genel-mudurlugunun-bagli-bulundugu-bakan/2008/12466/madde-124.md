@@ -1,0 +1,3 @@
+Denetim programı ve uygulanması
+MADDE 124 – (1) Yıllık denetim programları, teftiş edilecek birimlerin adet ve iş kapasiteleri, önceki teftiş programları göz önünde bulundurulmak suretiyle Başkanlıkça düzenlenir ve her yıl ocak ayında Genel Müdürün onayına sunulur.
+(2) Müfettişlerin kıdem durumu, grup çalışmaları ile görev mahalli ve görevin özellikleri göz önünde tutularak denetime tabi birimlerin hangi müfettişlerce teftiş edileceği ve teftişe hangi tarihte başlanacağı Başkanlıkça belirlenir ve teftişin başlayacağı tarihten en az 15 gün önce müfettişlere duyurulmak suretiyle denetim programları uygulamaya konulur. Başkanlıkça program uygulanırken teftiş esasları talimatla belirtilir.

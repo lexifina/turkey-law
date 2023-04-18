@@ -1,0 +1,7 @@
+Müfettişlerin kıdemi
+MADDE 152 – (1) (Değişik:RG-30/11/2011-28128) Müfettişlik kıdemine esas süre, müfettiş yardımcılığında, müfettişlikte, müfettişlik sıfat ve kadrosu muhafaza edilmek şartıyla idari görevlerde, ücretli izinlerde ve doğum nedeniyle alınan ücretsiz izinlerde geçirilen süredir. Askerlik, hastalık, yurtiçi ve yurtdışındaki eğitim çalışmaları gibi geçici ayrılmalar bu süreye dahildir.
+(2) Müfettişlik kıdemine esas süreleri aynı olanlar için kıdem; müfettiş yardımcıları için yarışma sınavındaki, müfettişler için ise yeterlik sınavındaki başarı derecelerine göre tespit edilir.
+(3) Başmüfettişler arasındaki kıdem sırasının tespitinde başmüfettişliğe atanma tarihi, aynı tarihte atananlar için müfettişlik kıdemi, müfettişlik kıdemi de aynı olanlar için ise yeterlik sınavındaki başarı derecesi esas alınır.
+(4) Rehberlik ve Teftiş Başkanlığı yaptıktan sonra müfettişliğe dönenler dönemlerinin en kıdemlisi sayılırlar. Aynı dönemde bu durumda birden fazla müfettiş olması halinde, müfettişlik kıdemi esas alınır.
+(5) Aynı tarihte yapılan giriş sınavı ile Başkanlıkta göreve başlayan müfettiş yardımcılarından, müfettişliğe geç atananların kıdemleri, kendi dönemlerinden olan müfettişlerden sonra gelir.
+(6) Müfettiş sıfatını kazandıktan sonra görevden ayrılanlardan Müfettişliğe dönenler kıdem bakımından dönemlerinin sonuna alınırlar. Başkanlıktaki görevinden veya kamu hizmetinden ayrıldıktan sonra geri dönenlerin kıdemlerinin belirlenmesinde Başkanlıktaki fiili hizmet süreleri esas alınır.

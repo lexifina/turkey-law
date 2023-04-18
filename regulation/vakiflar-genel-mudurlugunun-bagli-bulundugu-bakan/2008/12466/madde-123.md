@@ -1,0 +1,14 @@
+Müfettişlerin görev ve yetkileri
+MADDE 123 – (1) Müfettişler doğrudan Genel Müdürlüğe bağlı olup, Genel Müdür adına;
+a) Vakıfların, şube ve temsilciliklerinin, vakfiye ve vakıf senedinde yazılı şartlara, yürürlükteki mevzuata uygun yönetilip yönetilmediği, amacı doğrultusunda faaliyette bulunup bulunmadığı, mallarının ve gelirlerinin vakfiye, 1936 Beyannamesi ve vakıf senedindeki şartlara uygun kullanılıp kullanılmadığı hususlarında rehberlik yapmak, incelemek ve denetlemek,
+b) (Değişik:RG-19/1/2013-28533)Genel Müdürlüğün merkez ve taşra teşkilatı ile işletmelerin personeli hakkında her türlü teftiş, inceleme ve soruşturma yapmak; Genel Müdürlüğün denetimine tabi vakıfların iktisadi işletmelerini denetlemek, tüm iştiraklerini mali tabloları üzerinden değerlendirmek, vakıfların yurtiçi, yurtdışı şube ve kuruluşları ile personeli hakkında teftiş ve inceleme yapmak ayrıca vakfın hissesinin %50’den fazla olanları ayrı bir Genel Müdürlük onayı ile incelemek,
+c) Teftiş sırasında bilgilendirme toplantısı yapmak,
+ç) Teftiş, araştırma ve inceleme sırasında görev emrinin dışında öğrenmiş oldukları yolsuzluklar için sorumlular hakkında tabi oldukları soruşturma usulüne uygun olarak gecikmeden olaylara el koymak ve onay alınmak üzere durumu Rehberlik ve Teftiş Başkanlığına iletmek,
+d) Teftiş, araştırma ve inceleme sonunda gördükleri yanlışlık ve eksiklikleri tespit ederek işlerin daha verimli yürütülmesi ve görevlilerin çalışmalarından daha çok yararlanılması için alınması gerekli önlemleri Başkanlığa bildirmek,
+e) 29/5/1986 tarihli ve 3294 sayılı Sosyal Yardımlaşma ve Dayanışmayı Teşvik Kanunu hükümlerine göre kurulmuş Sosyal Yardımlaşma ve Dayanışma Vakıflarının teftişi sırasında yolsuzlukları saptanan memur statüsündeki mütevelli heyet üyeleri hakkında yetkili idari yerlere, memur olsun veya olmasın diğer personel hakkında Cumhuriyet Savcılıklarına suç duyurusunda bulunulmasını sağlamak amacıyla düzenlenen raporu Başkanlığa teslim etmek,
+f) Görevlendirildikleri çeşitli konularda yurtiçi ve yurtdışında araştırmalar yapmak; komisyon, kurs, seminer ve toplantılara katılmak,
+g) Refakatlerinde çalışan müfettiş yardımcılarının meslekte yetişmelerini sağlamak, refakat döneminin bitimini takip eden bir hafta içinde Başkanlıkça belirlenen formata uygun olarak değerlendirme raporu vermek,
+ğ) Genel Müdürlüğü ilgilendiren mevzuatın hazırlanması ve uygulanması ile ilgili çalışmalara katılmak, önerilerde bulunmak,
+h) Genel Müdürlükçe yapılan tebligata rağmen, bu Kanun uyarınca istenen beyanname, bilgi ve belgeleri zamanında vermeyen, organların vakfiye veya vakıf senedine aykırı olarak toplanmasına sebebiyet veren veya gerçeğe aykırı beyanda bulunan vakıf yönetimine idari para cezası teklif etmek,
+ı) Kanun, tüzük ve yönetmeliklerde belirtilen ve Genel Müdür tarafından verilen diğer benzeri görevleri yapmak,
+ile görevli ve yetkilidirler.
