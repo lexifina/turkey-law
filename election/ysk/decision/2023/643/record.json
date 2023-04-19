@@ -1,0 +1,17 @@
+{
+  "issuer": "Yüksek Seçim Kurulu",
+  "document_type": "decision",
+  "number": "2023/643",
+  "list_number": "643",
+  "decision_date": "2023-04-19",
+  "title": "Yüksek Seçim Kurulunun 19/04/2023 Tarihli ve 2023/643 Sayılı Kararı ve Eki",
+  "official_document": "https://www.ysk.gov.tr/doc/karar/dosya/1542793/2023-643.pdf",
+  "source_sha256": "851a7b857ee1e2cf3c1eb149d08fe5ebcd992b9b104cb8d24fd5adc82de5fa70",
+  "official_list": "https://www.ysk.gov.tr/doc/karar/kararlar.txt",
+  "official_list_sha256": "0733001df8fd09fa2f4155954da343809b59b823ecd8d57ad2e679c4264f5a84",
+  "pdf_pages": 425,
+  "text_status": "metadata-only",
+  "metadata_only_reason": "the two text extractions (PyMuPDF / pdftotext) differ",
+  "in_force": "2023-04-19",
+  "law_text_complete": false
+}
