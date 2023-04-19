@@ -1,0 +1,15 @@
+{
+  "issuer": "Radyo ve Televizyon Üst Kurulu (RTÜK)",
+  "record_type": "Üst Kurul Kararı",
+  "meeting": "2023/16",
+  "meeting_date": "2023-04-19",
+  "meeting_date_as_published": "19.4.2023",
+  "decision_no": "5",
+  "source_id": 19608,
+  "title": "RTÜK kararı 2023/16-5",
+  "source": "https://www.rtuk.gov.tr/UstKurulKarar/Detay/19608",
+  "source_sha256": "4a7b88de61a530338d5960f7f9ed0ee6b7e069f262fac9a97e5f78f874a9dbe7",
+  "text_status": "metadata-only",
+  "metadata_only_reason": "possible private person name(s) in the official text (1 match(es)); full text withheld, official link only",
+  "law_text_complete": false
+}
