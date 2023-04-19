@@ -1,0 +1,9 @@
+ÜÇÜNCÜ BÖLÜM
+Zorunlu ve İsteğe Bağlı Yabancı Dil Hazırlık Eğitimine İlişkin Esaslar
+Kayıt
+MADDE 6- (1) Zorunlu hazırlık eğitimi alacak öğrencilerin ders kayıt işlemleri, akademik takvimde belirtilen tarihler arasında Öğrenci İşleri Daire Başkanlığı ve Yüksekokul Müdürlüğü tarafından koordineli şekilde yürütülür.
+(2) İsteğe bağlı yabancı dil hazırlık sınıfına kabul edilecek öğrenci sayısı Yabancı Diller Yüksekokulu Müdürlüğü tarafından belirlenerek Senatonun onayına sunulur. Belirlenen kontenjanın birimlere dağılımı Senato tarafından kararlaştırılır. Bu şekilde belirlenen ve Yabancı Diller Yüksekokulu Müdürlüğünce ilan edilen kontenjan için ilgili akademik birimlere yapılan başvurular öğrencilerin ÖSYM yerleştirme puanı sırasına göre değerlendirilir.
+(3) İsteğe bağlı yabancı dil hazırlık eğitimi alacak öğrenciler, akademik takvimde belirlenen tarihler içerisinde bu taleplerini kayıt yaptırmış oldukları programın bağlı olduğu akademik birimlere bildirirler. İsteğe bağlı yabancı dil hazırlık programına kabul edilen öğrencilerin ders kayıtları bağlı bulundukları akademik birimler tarafından yapılır.
+(4) İsteğe bağlı yabancı dil hazırlık eğitiminin süresi en fazla bir akademik yıldır.
+(5) İsteğe bağlı yabancı dil hazırlık programını başarı ile tamamlayanlar bölümlerinde almaları gereken Zorunlu Yabancı Dil I - II (İngilizce) derslerinden muaf olurlar.
+(6) Öğrenciler, İsteğe bağlı hazırlık sınıfında, ikinci yarıyıl sonunda yapılan yabancı dil sınavında başarılı olamasalar bile, önlisans, lisans veya lisansüstü programlara devam edebilirler. Ancak bu öğrencilerden 7 nci maddenin birinci fıkrası kapsamındaki sınavlardan başarılı olamayanlar 2547 sayılı Kanunun 5 inci maddesinin birinci fıkrasının (ı) bendi gereğince bölümlerinde almaları gereken Zorunlu Yabancı Dil I - II (İngilizce) derslerine devam ederler.

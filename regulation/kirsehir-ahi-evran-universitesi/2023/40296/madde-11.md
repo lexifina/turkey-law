@@ -1,0 +1,2 @@
+Sınav sonucuna itiraz
+MADDE 11- (1) Öğrenci, sınav sonuçlarının ilanından itibaren yedi iş günü içinde Yüksekokul Müdürlüğüne yazılı olarak başvurarak, sınavlarının değerlendirilmesinde hata yapılıp yapılmadığına dair inceleme isteyebilir. Başvuru üzerine, Yüksekokul Müdürlüğü tarafından yapılacak inceleme sonucunda hata tespit edilirse, gerekli düzeltme yapılır. Bu sürenin bitiminden sonra hiçbir not değişikliği talebi işleme alınmaz.
