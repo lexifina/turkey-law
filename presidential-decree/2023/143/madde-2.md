@@ -1,0 +1,2 @@
+Yenilenebilir enerji kaynak alanları yatırımlarına ilişkin alınan tedbirler
+MADDE 2- (1) 10/5/2005 tarihli ve 5346 sayılı Yenilenebilir Enerji Kaynaklarının Elektrik Enerjisi Üretimi Amaçlı Kullanımına İlişkin Kanunun 4 üncü maddesi ve ilgili mevzuatı uyarınca yarışması yapılan ve bu Cumhurbaşkanlığı Kararnamesinin yürürlüğe girdiği tarih itibarıyla devam eden sözleşmeler kapsamında üretilen elektriğin serbest piyasada değerlendirilebilmesine ilişkin öngörülen süreler üç ay süreyle uzatılır.
