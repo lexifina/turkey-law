@@ -1,0 +1,34 @@
+{
+  "source_id": "7.5.40154",
+  "kind": "regulation",
+  "register_kind": "Kurum ve Kuruluş Yönetmelikleri",
+  "title": "TÜRK GIDA KODEKSİ BESLENME BEYANLARI YÖNETMELİĞİ",
+  "number": "40154",
+  "issuer": "Tarım ve Orman Bakanı",
+  "issuer_slug": "tarim-ve-orman-bakani",
+  "path": "regulation/tarim-ve-orman-bakani/2023/40154",
+  "source": "https://www.mevzuat.gov.tr/anasayfa/MevzuatFihristDetayIframe?MevzuatTur=7&MevzuatNo=40154&MevzuatTertip=5",
+  "source_sha256": "d0fcad0f8c6cdcd28a7fd5abf6990af40c17760125b1ea88a60eae69d0cfdb09",
+  "source_bytes": 31083,
+  "published": "2023-04-20",
+  "gazette": "32169",
+  "in_force": "2023-04-20",
+  "in_force_basis": "Resmî Gazete publication date in the official listing (20.04.2023); own commencement article: \"Bu Yönetmelik yayımı tarihinde yürürlüğe girer\"",
+  "commencement_clauses": [
+    "Bu Yönetmelik yayımı tarihinde yürürlüğe girer"
+  ],
+  "history": "current-text",
+  "label": "oldest version available",
+  "checked_on": "2026-11-15",
+  "word_count": 1363,
+  "text_status": "current-consolidated",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  },
+  "source_links": [
+    "7.5.40154%20EK.docx"
+  ],
+  "completeness": "html-text-complete; linked annexes not fetched"
+}
