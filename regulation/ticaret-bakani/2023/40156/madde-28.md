@@ -1,0 +1,3 @@
+Farklılıklar ve biçimsel hatalar
+MADDE 28- (1) TUR-PAK Menşe İspat Belgesi üzerindeki ibareler ile ürünlerin ithalat işlemlerini yerine getirmek amacıyla gümrük idarelerine ibraz edilen belgeler üzerindeki ibareler arasında önemsiz farklılıklar bulunduğunun fark edilmesi, bu belgenin gümrüğe sunulan ürünlere karşılık geldiğinin kesin olarak ortaya konması kaydıyla, menşe ispat belgesini kendiliğinden hükümsüz kılmaz.
+(2) Bir TUR-PAK Menşe İspat Belgesi üzerindeki yazım hatası gibi bariz biçimsel hatalar, söz konusu belge üzerindeki ibarelerin doğruluğu hususunda şüpheye yol açmadığı müddetçe, bahse konu belgenin reddedilmesini gerektirmez.

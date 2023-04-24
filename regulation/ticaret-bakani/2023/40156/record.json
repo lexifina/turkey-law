@@ -1,0 +1,34 @@
+{
+  "source_id": "7.5.40156",
+  "kind": "regulation",
+  "register_kind": "Kurum ve Kuruluş Yönetmelikleri",
+  "title": "TÜRKİYE CUMHURİYETİ İLE PAKİSTAN İSLAM CUMHURİYETİ ARASINDA MAL TİCARETİ ANLAŞMASI ÇERÇEVESİNDEKİ TİCARETTE EŞYANIN TERCİHLİ MENŞEİNİN TESPİTİ HAKKINDA YÖNETMELİK",
+  "number": "40156",
+  "issuer": "Ticaret Bakanı",
+  "issuer_slug": "ticaret-bakani",
+  "path": "regulation/ticaret-bakani/2023/40156",
+  "source": "https://www.mevzuat.gov.tr/anasayfa/MevzuatFihristDetayIframe?MevzuatTur=7&MevzuatNo=40156&MevzuatTertip=5",
+  "source_sha256": "c43ce91f80ff0dced8a95baabd16121b47f1de5d214b5741ef6f02ca68852d9b",
+  "source_bytes": 184175,
+  "published": "2023-04-24",
+  "gazette": "32170",
+  "in_force": "2023-04-24",
+  "in_force_basis": "Resmî Gazete publication date in the official listing (24.04.2023); own commencement article: \"Bu Yönetmelik 1/5/2023 tarihinden itibaren geçerli olmak üzere yayımı tarihinde yürürlüğe girer\"",
+  "commencement_clauses": [
+    "Bu Yönetmelik 1/5/2023 tarihinden itibaren geçerli olmak üzere yayımı tarihinde yürürlüğe girer"
+  ],
+  "history": "current-text",
+  "label": "oldest version available",
+  "checked_on": "2026-11-15",
+  "word_count": 6095,
+  "text_status": "current-consolidated",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  },
+  "source_links": [
+    "7.5.40156-EK.zip"
+  ],
+  "completeness": "html-text-complete; linked annexes not fetched"
+}

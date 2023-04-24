@@ -1,0 +1,2 @@
+Parçalar halinde ithalat
+MADDE 31- (1) İthalatçının talebi üzerine ve Bakanlıkça belirlenen şartlara tâbi olarak, Armonize Sistem’in 2(a) sayılı Genel Yorum Kuralı anlamındaki birleştirilmemiş veya monte edilmemiş halde olan ve Armonize Sistem'in XVI ncı ve XVII nci Bölümlerinde veya 7308 ve 9406 tarife pozisyonlarında yer alan ürünlerin, parçalar halinde ithal edilmesi halinde, bu tür ürünler için tek bir TUR-PAK Menşe İspat Belgesi, ilk parçanın ithalatı esnasında gümrük idaresine verilir.
