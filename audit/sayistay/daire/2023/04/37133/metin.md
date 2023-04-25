@@ -1,0 +1,21 @@
+Döner sermaye yönetici payı
+
+Türkçe ve Yabancı Dil Öğretimi Uygulama ve Araştırma Merkezi müdür ve müdür yardımcılarına koordinatörlük adı altında yönetici payı ödenmesi neticesinde ……… TL kamu zararına neden olunduğu iddiası ile ilgili olarak;
+
+2547 sayılı Yükseköğretim Kanunu’nun  “Döner Sermaye” başlıklı 58’inci maddesinin;
+
+(c) fıkrasının birinci bendinde, Tıp ve diş hekimliği fakülteleri ile sağlık uygulama ve araştırma merkezlerinin hesabında toplanan döner sermaye gelirleri bakiyesinden, bu yerlerde; Gelir getiren görevlerde çalışan öğretim üyesi ve öğretim görevlilerine aylık (ek gösterge dahil), yan ödeme, ödenek (geliştirme ödeneği hariç) ve her türlü tazminat (28/3/1983 tarihli ve 2809 sayılı Kanunun geçici 3 üncü maddesinin beşinci fıkrası uyarınca ödenen tazminat dahil, makam, temsil ve görev tazminatı ile yabancı dil tazminatı hariç) toplamından oluşan ek ödeme matrahının yüzde 800’ünü, araştırma görevlilerine ise yüzde 500’ünü geçmeyecek şekilde aylık ek ödeme yapılacağı,
+
+ (d) fıkrasında, ziraat ve veteriner fakülteleri, sivil havacılık yüksekokulu ve bünyesinde atölye veya laboratuvar bulunan yükseköğretim kurumları ile sürekli eğitim merkezleri, açık öğretim hizmeti veren yükseköğretim kurumları ile düzenli döner sermaye geliri olan yükseköğretim kurumlarında üretilen mal ve hizmetlerden elde edilen döner sermaye gelirlerine katkısı bulunan öğretim elemanlarına yapılacak ek ödemeler hakkında da (c) fıkrası hükümlerinin uygulanacağı,
+
+İfade edilmiştir.
+
+Söz konusu maddenin (f) fıkrasında ise yönetici payı olarak ayrılan tutardan ek ödeme yapılmasıyla ilgili düzenlemelere yer verilmiştir.
+
+Yükseköğretim Kurumlarında Döner Sermaye Gelirlerinden Yapılacak Ek Ödemenin Dağıtılmasında Uygulanacak Usul ve Esaslara İlişkin Yönetmelik’in 4’üncü maddesinin 7’inci fıkrasında; Yapılacak ek ödemeye esas katkı oranlarının belirlenmesinde 5’inci maddede belirlenen; kurumsal katkı puanı (A puanı),  bireysel gelir getirici faaliyet puanı (B puanı), eğitim-öğretim faaliyeti puanı (C puanı), bilimsel faaliyet puanı (D puanı) ve diğer faaliyetler puanının (E puanı) esas alınacağı, Kanunun 58’inci maddesinin (c) fıkrası kapsamında bulunan birimlerde söz konusu puanların tamamının kullanılacağı, Anılan fıkra dışındaki birimlerde ise yönetim kurullarınca, yükseköğretim kurumunun yapısı ve mali durumu göz önünde bulundurularak bir veya birden fazlasının kullanılmasına karar verilmek suretiyle belirleme yapılacağı belirtilmiştir.
+
+İlişikli Ödeme Emri belgelerinin incelenmesi sonucunda ise, bu belgelere ilgili aya ait ……… Üniversitesi Döner Sermaye İşletmesi Yürütme Kurulu Kararlarının eklendiği ve bu kararlarda bulunan “Ek Ödeme Dağıtım Cetveli” nde ilgili döner sermaye birim veya alt birim ortalamasının, kadro/görev unvan katsayısının ve aktif çalışılan gün sayısının ayrı ayrı belirlendiği ve buna göre (A) ve (E) puanları esas alınarak ek ödeme hesaplamasının yapıldığı görülmüştür. (A) ve (E) puanları yukarıda yer verilen Yönetmelik hükmü gereği yapılacak ek ödemeye esas katkı oranlarının belirlenmesinde kullanılmaktadır. Dolayısıyla, Türkçe ve Yabancı Dil Öğretimi Uygulama ve Araştırma Merkezi müdür ve müdür yardımcılarına yapılan ödemelerin, 2547 sayılı Kanun’un 58’inci maddesinin (f) fıkrası kapsamında yönetici payı niteliğinde olmadığı, aynı maddenin (c) fıkrası kapsamında, gelir getirici görevlerde çalışan öğretim üyesi ve öğretim görevlilerine yapılan ek ödeme niteliğinde olduğu anlaşılmıştır.
+
+Türkçe ve Yabancı Dil Öğretimi Uygulama ve Araştırma Merkezi, düzenli döner sermaye geliri olan yükseköğretim kurumlarından olduğu için, yukarıda yer verilen, 2547 sayılı Kanun’un 58’inci maddesinin (d) fıkrası kapsamındadır ve bu merkez için (c) fıkrasının uygulanması gerekir. Dolayısıyla bu merkezde üretilen mal ve hizmetlerden elde edilen döner sermaye gelirlerine katkısı bulunan öğretim elemanlarına (c) fıkrasına göre ek ödeme yapılmasında mevzuata aykırılık bulunmamaktadır.
+
+Bu itibarla, yukarıda belirtilen mevzuat hükümleri ve yapılan açıklamalar çerçevesinde Türkçe ve Yabancı Dil Öğretimi Uygulama ve Araştırma Merkezi müdür ve müdür yardımcılarına yapılan ek ödemenin mevzuatına uygun olduğu anlaşıldığından, uyuşmazlık konusu ……… TL hakkında ilişilecek bir husus bulunmadığına oy birliğiyle karar verildi.
