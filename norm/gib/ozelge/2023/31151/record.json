@@ -1,0 +1,22 @@
+{
+  "kind": "norm",
+  "issuer": "Gelir İdaresi Başkanlığı",
+  "document_type": "ozelge",
+  "number": "76464994-130-82522",
+  "source_id": 31151,
+  "date": "2023-04-25",
+  "title": "Yabancı uyruklu kişilere konut satışında KDV Kanununun 13/i maddesine göre istisna uygulanması",
+  "source": "https://gib.gov.tr/mevzuat/kanun/436/ozelge/31151",
+  "related_law": "3065 sayılı KATMA DEĞER VERGİSİ KANUNU",
+  "source_api": "https://gib.gov.tr/api/gibportal/mevzuat/ozelge/list",
+  "source_listing": "evidence/list/2026-11-16/ozelge-p005.json",
+  "source_listing_sha256": "bc82c6c09764a8d83c3906db12d34a67d7f592d6e631568c06d506072b5840cf",
+  "source_sha256": "dd99577a0083ed961f600c998902674484752e58baa0ae0a2a13447e4be52c5e",
+  "text_status": "as-enacted",
+  "text_file": "metin.md",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  }
+}
