@@ -1,0 +1,18 @@
+{
+  "kind": "presidential-decision",
+  "document_type": "Cumhurbaşkanı Kararı",
+  "number": "7164",
+  "register_number": "7164",
+  "title": "BAZI ANLAŞMALARIN YÜRÜRLÜĞE GİRDİĞİ TARİHLERİN TESPİT EDİLMESİ HAKKINDA KARAR (KARAR SAYISI: 7164)",
+  "gazette_date": "2023-04-25",
+  "gazette_number": "32171",
+  "official_url": "https://www.mevzuat.gov.tr/anasayfa/MevzuatFihristDetayIframe?MevzuatTur=20&MevzuatNo=7164&MevzuatTertip=5",
+  "official_document": "https://www.mevzuat.gov.tr/MevzuatMetin/20.5.7164.pdf",
+  "source_listing": "https://www.mevzuat.gov.tr/Anasayfa/MevzuatDatatable (evidence/list/2026-11-16/karar-01500.json)",
+  "source_listing_sha256": "838c7d4eac67c883add7a792ca9f11ff24edbebf98f47ffe15214fb38d514542",
+  "in_force": "2023-04-25",
+  "in_force_basis": "Resmî Gazete date of the official Mevzuat Bilgi Sistemi listing (25.04.2023, issue 32171); publication date; the act's own commencement article is not read for a metadata record",
+  "history_type": "metadata",
+  "law_text_complete": false,
+  "text_status": "metadata-only: official register listing fields; the text is in the linked official document (PDF, often image-only), not transcribed"
+}
