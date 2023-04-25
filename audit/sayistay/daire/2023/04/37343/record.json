@@ -1,0 +1,17 @@
+{
+  "kind": "decision",
+  "issuer": "Sayıştay 8. Dairesi",
+  "number": "283",
+  "decision_date": "2023-04-25",
+  "source_id": 37343,
+  "chamber": "8",
+  "ilam_number": "124",
+  "item_number": 6,
+  "public_body_type": "Yüksek Öğretim Kurumları",
+  "account_year": 2021,
+  "subject": "Çeşitli Konuları İlgilendiren Kararlar",
+  "source": "https://www.sayistay.gov.tr/KararlarDaire/Detay/37343/",
+  "source_sha256": "6e9794a03d1278f0b95741661e0dce43c5359b8341d690a48b134a5f688d7687",
+  "text_status": "as-enacted",
+  "text_file": "metin.md"
+}
