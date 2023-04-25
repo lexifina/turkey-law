@@ -1,0 +1,17 @@
+{
+  "kind": "decision",
+  "issuer": "Sayıştay 8. Dairesi",
+  "number": "283",
+  "decision_date": "2023-04-25",
+  "source_id": 37344,
+  "chamber": "8",
+  "ilam_number": "124",
+  "item_number": 7,
+  "public_body_type": "Yüksek Öğretim Kurumları",
+  "account_year": 2021,
+  "subject": "Vergi Resmi Harç ve Diğer Gelirlerle İlgili Kararlar",
+  "source": "https://www.sayistay.gov.tr/KararlarDaire/Detay/37344/",
+  "source_sha256": "d51be6cf044e13baabdaa6be99f5cff87289489b06594040a95c58572779095d",
+  "text_status": "as-enacted",
+  "text_file": "metin.md"
+}
