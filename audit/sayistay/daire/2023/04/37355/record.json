@@ -1,0 +1,17 @@
+{
+  "kind": "decision",
+  "issuer": "Sayıştay 8. Dairesi",
+  "number": "283",
+  "decision_date": "2023-04-25",
+  "source_id": 37355,
+  "chamber": "8",
+  "ilam_number": "124",
+  "item_number": 18,
+  "public_body_type": "Yüksek Öğretim Kurumları",
+  "account_year": 2021,
+  "subject": "İş Mevzuatı ile İlgili Kararlar",
+  "source": "https://www.sayistay.gov.tr/KararlarDaire/Detay/37355/",
+  "source_sha256": "d250acc590a4c8b6677e134c904d0e183e9be0c4dc49b685bfde5beed63e335f",
+  "text_status": "as-enacted",
+  "text_file": "metin.md"
+}
