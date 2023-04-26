@@ -1,0 +1,16 @@
+{
+  "kind": "decision",
+  "issuer": "Sayıştay Temyiz Kurulu",
+  "number": "54924",
+  "decision_date": "2023-04-26",
+  "source_id": 27311,
+  "chamber": "5",
+  "file_number": "48498",
+  "public_body_type": "Belediyeler ve Bağlı İdareler",
+  "account_year": "2018",
+  "subject": "Çeşitli Konuları İlgilendiren Kararlar",
+  "source": "https://www.sayistay.gov.tr/KararlarTemyiz/Detay/27311/",
+  "source_sha256": "202ccd4e12dea3f834f9eb8e2c54b9bc12d2664f7abe7bcc0c14ec78d748986c",
+  "text_status": "as-enacted",
+  "text_file": "metin.md"
+}
