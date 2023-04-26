@@ -1,0 +1,16 @@
+{
+  "kind": "decision",
+  "issuer": "Sayıştay Temyiz Kurulu",
+  "number": "54894",
+  "decision_date": "2023-04-26",
+  "source_id": 28753,
+  "chamber": "6",
+  "file_number": "49568",
+  "public_body_type": "Belediyeler ve Bağlı İdareler",
+  "account_year": "2017",
+  "subject": "Personel Mevzuatı ile İlgili Kararlar",
+  "source": "https://www.sayistay.gov.tr/KararlarTemyiz/Detay/28753/",
+  "source_sha256": "7100686cd1ace93acf198ad537ee085b03db59a62aff3adc2a978e3f47d107ea",
+  "text_status": "metadata-only",
+  "metadata_only_reason": "possible personal name in the official text"
+}
