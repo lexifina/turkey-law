@@ -1,0 +1,17 @@
+{
+  "kind": "decision",
+  "issuer": "Sayıştay 3. Dairesi",
+  "number": "452",
+  "decision_date": "2023-04-27",
+  "source_id": 37680,
+  "chamber": "3",
+  "ilam_number": "146",
+  "item_number": 1,
+  "public_body_type": "Belediyeler ve Bağlı İdareler",
+  "account_year": 2020,
+  "subject": "İhale Mevzuatı ile İlgili Kararlar",
+  "source": "https://www.sayistay.gov.tr/KararlarDaire/Detay/37680/",
+  "source_sha256": "cddf80e2ba433ebaa06db0cf429089054a4f9bdcd71db883cd537abd47dd168a",
+  "text_status": "as-enacted",
+  "text_file": "metin.md"
+}
