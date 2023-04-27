@@ -1,0 +1,18 @@
+{
+  "kind": "norm",
+  "issuer": "Kişisel Verileri Koruma Kurumu",
+  "document_type": "decision-summary",
+  "number": "2023/646",
+  "source_id": 7757,
+  "date": "2023-04-27",
+  "title": "“Bir üniversite bünyesinde çalışanların özlük bilgilerinin tüm personelle paylaşılması” hakkında Kişisel Verileri Koruma Kurulunun 27/04/2023 Tarihli ve 2023/646 Sayılı Karar Özeti",
+  "source": "https://www.kvkk.gov.tr/Icerik/7757/2023-646",
+  "source_sha256": "f5a68b29f708b24b14fdefc9cbdbe603499841fd4fde8022225323ff1a62512e",
+  "text_status": "summary",
+  "text_file": "metin.md",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  }
+}
