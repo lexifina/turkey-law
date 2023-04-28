@@ -1,0 +1,30 @@
+{
+  "source_id": "9.5.40164",
+  "kind": "communique",
+  "register_kind": "Tebliğler",
+  "title": "OZON TABAKASINI İNCELTEN MADDELERİN VE FLORLU SERA GAZLARININ İHRACINA İLİŞKİN TEBLİĞ (İHRACAT: 2023/4)",
+  "number": "40164",
+  "issuer": "Ticaret Bakanı",
+  "path": "teblig/2023/40164",
+  "source": "https://www.mevzuat.gov.tr/anasayfa/MevzuatFihristDetayIframe?MevzuatTur=9&MevzuatNo=40164&MevzuatTertip=5",
+  "source_sha256": "13ffc53174d19dcc4be6399d5d6306fd425b708a787a0141a54c9c5d0bef1d18",
+  "source_bytes": 47121,
+  "published": "2023-04-28",
+  "gazette": "32174",
+  "in_force": "2023-04-28",
+  "in_force_basis": "Resmî Gazete publication date in the official listing (28.04.2023)",
+  "history": "current-text",
+  "label": "oldest version available",
+  "checked_on": "2026-11-15",
+  "word_count": 848,
+  "text_status": "current-consolidated",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  },
+  "source_links": [
+    "9.5.40164-ek.docx"
+  ],
+  "completeness": "html-text-complete; linked annexes not fetched"
+}
