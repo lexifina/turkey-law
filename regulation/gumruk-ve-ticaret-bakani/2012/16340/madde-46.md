@@ -1,0 +1,9 @@
+Yetkilendirme işlemleri
+MADDE 46 – (1) Yetkilendirme, sistemi kullanacak personele sistem üzerinden özgün kullanıcı adı ve şifresi tahsis edilme işlemidir. Yetkili personeli belirleme işlemi, bu maddede öngörülen usullere göre yapılır.
+(2) Bakanlığın ilgili birim amirinin görevlendirdiği personel, sistemin uygulama yöneticisidir. Uygulama yöneticisi; sistem üzerinden Bakanlık il müdürlerini, çağrı merkezi ve ilgili birim personelini yetkilendirir.
+(3) İl müdürü, il nezdinde sistemin il uygulama yöneticisidir. İl uygulama yöneticisi; sistem üzerinden, bu Yönetmelik ve ilgili mevzuatta belirtilen iş ve işlemleri yerine getirmek üzere, hal yöneticisini, belediye başkanlığınca görevlendirilecek personeli, hal hakem heyeti başkanı ve raportörü ile görevlendirdiği diğer il müdürlüğü personelini yetkilendirir.
+(4) Üçüncü fıkraya göre il müdürlüğünce yetkilendirilen belediye personeli, belediye nezdinde sistemin belediye uygulama yöneticisidir. Belediye uygulama yöneticisi; sistem üzerinden, bu Yönetmelik ve ilgili mevzuatta belirtilen iş ve işlemleri yerine getirmek üzere, ilgili belediye personelini ve belediye zabıtasını yetkilendirir.
+(5) Hal yöneticisi, toptancı hali nezdinde sistemin hal uygulama yöneticisidir. Hal uygulama yöneticisi; sistem üzerinden, bu Yönetmelik ve ilgili mevzuatta belirtilen iş ve işlemleri yerine getirmek üzere, ilgili hal personelini ve hal zabıtasını yetkilendirir.
+(6) Bakanlık uygulama yöneticisi, gerek duyulması halinde, üçüncü, dördüncü ve beşinci fıkralarda öngörülen yetkilendirme işlemleri ile ihtiyaç duyulan diğer yetkilendirme işlemlerini yapmaya yetkilidir.
+(7) Bu maddeye göre yapılacak yetkilendirmelerde yedek personel de belirlenir.
+(8) Yetkilendirilen personel, sisteme giriş için kendisine tahsis edilen kullanıcı adı ve şifresini mevzuata ve usulüne uygun kullanmaktan ve muhafaza etmekten sorumludur.

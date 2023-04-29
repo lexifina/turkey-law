@@ -1,0 +1,5 @@
+Kontrol ve denetim noktaları
+MADDE 59 – (1) Kontrol ve denetim noktaları, toptancı hali bulunan il merkezlerinin giriş ve çıkışlarında, trafik düzeni ve güvenliği dikkate alınarak, ilgili belediyenin talebi üzerine o ilin mülki idare amirinin onayı ile kurulur. Bakanlıkça belirlenen yerlerde kontrol ve denetim noktası kurulması zorunludur.
+(2) Kontrol ve denetim noktalarında denetimler, (Değişik ibare:RG-31/12/2012-28514 4.mükerrer)(1) hal yöneticisi ya da hal zabıtası ve/veya hal yöneticisince görevlendirilen diğer personelce yerine getirilir. İhtiyaç halinde bu noktalarda, birinci fıkradaki usule uygun olarak kolluk kuvvetlerinden de yeterli sayıda personel görevlendirilir.
+(3) Kontrol ve denetim noktalarının kurulması ve işletilmesi için gerekli her türlü teknik donanım, araç, gereç ve demirbaşlar ilgili belediye tarafından karşılanır.
+(4) Birinci fıkra hükmüne aykırı olarak, il ve ilçe merkezlerinin giriş ve çıkışları ile şehirlerarası yollarda kontrol ve denetim noktaları kurulamaz.

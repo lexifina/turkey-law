@@ -1,0 +1,2 @@
+Kapsam
+MADDE 2 – (1) Bu Yönetmelik, toptancı hallerinin kurulması, işletilmesi, taşınması ve kapatılmasını, yönetim ve denetimini, sebze ve meyve ticareti ile iştigal edenlerde aranılacak nitelikleri, bunların çalışmalarını, yapacakları satışları, haklarını ve uymakla yükümlü bulundukları kuralları, bildirim işlemleri ve bildirimcileri, hal rüsumu ve paylaşımını, hal kayıt sistemini, toptancı hal yönetim birimleri ile diğer idarelerin görev, yetki ve sorumlulukları ile toptancı hallerine ve sebze ve meyve ticaretine ilişkin diğer hususları kapsar.

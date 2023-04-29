@@ -1,0 +1,3 @@
+Hal rüsumundan ayrılacak payın kullanımı
+MADDE 57 – (1) Belediyeye gelir olarak kaydedilen hal rüsumu tutarlarının en az yüzde onu belediye toptancı halinin temizlik, güvenlik, aydınlatma, bakım ve onarım ihtiyaçlarının karşılanması ve kapasitesinin arttırılması, ihtiyaç duyulan bilgi işlem sisteminin kurulması ve lüzumlu diğer teknik donanımın sağlanması, soğuk hava deposu, laboratuvar, tasnif ve ambalajlama ile diğer tesislerin kurulması ve işletilmesi için harcanmak üzere, izleyen yıl belediye bütçesine ödenek olarak konulur.
+(2) Birinci fıkraya göre ayrılan ödenekler amacı dışında kullanılamaz.

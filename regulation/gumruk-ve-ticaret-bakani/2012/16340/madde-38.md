@@ -1,0 +1,3 @@
+Alım satım işlemlerini düzenleyen sözleşmeler
+MADDE 38 – (1) Bakanlık, gerekli görülmesi hâlinde, tarafların haklarının korunması ve yükümlülüklerinin tespit edilmesi, sözleşmelerin tarafların aleyhine dengesizliğe yol açmayacak ve iyi niyet kurallarına uygun düşecek biçimde düzenlenmesinin sağlanması amacıyla, üreticiler ile meslek mensupları arasında veya meslek mensuplarının kendi aralarında yaptığı alım satım işlemlerini düzenleyen sözleşmelerde bulunması gerekli asgarî şartları ve bilgileri belirlemeye yetkilidir.
+(2) Alım satım işlemlerini düzenleyen sözleşmelerde, Bakanlıkça belirlenen asgarî şartlara ve bilgilere yer verilir.

@@ -1,0 +1,2 @@
+Özel hal kurma izni
+MADDE 13 – (1) Yapılan inceleme sonucunda, 12 nci maddede aranılan şartları taşıdığı anlaşılanlara belediye encümenince özel hal kurma izni verilir. Toptancı hal kuruluşuna ilişkin 11 inci maddeye göre alınan belediye meclisi kararını takip eden bir yıl içinde toptancı hal projesini ilgili belediyeye sunmayan ya da yazılı olarak taahhüt edilen süre içinde toptancı hali kuruluş işlemlerini tamamlamayanların özel hal kurma izni ilgili belediyece iptal edilir.

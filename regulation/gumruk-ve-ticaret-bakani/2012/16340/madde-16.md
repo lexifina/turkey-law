@@ -1,0 +1,5 @@
+Toptancı halinin faaliyetinin durdurulması ve kapatılması
+MADDE 16 – (1) 5 inci maddenin yedinci fıkrası ile 6 ncı maddede öngörülen şartları taşımadığı Bakanlık veya belediyece tespit edilen toptancı halleri belediye meclisinin kararı ile kapatılır. İlgili meslek örgütünün görüşü alınmak kaydıyla, verimli çalışmayan belediye toptancı hallerinin belediye meclisince, özel toptancı hallerinin ise yetkili kişi veya organlarınca kapatılması hususu saklıdır.
+(2) 48 inci maddenin altıncı fıkrasına göre verilen idari para cezasına konu eylemin bir takvim yılı içinde tekrarı durumunda, toptancı halinin faaliyetleri aykırılık giderilene kadar Bakanlık tarafından durdurulur. Bakanlık bu yetkisini mahallin mülkî idare amirine devredebilir.
+(3) Faaliyeti durdurulan toptancı halleri, yeniden faaliyete başlayıncaya kadar hal statüsünü kaybeder ve bu toptancı halleri ile burada faaliyet gösterenlere ilişkin sistem üzerinden gerekli işlemler yapılır.
+(4) Halin kapatılışı, en geç bir ay içinde ilgili belediye tarafından il müdürlüğüne bildirilir. Kapatıldığı bildirilen toptancı halinin kaydı, sistemden silinir.
