@@ -1,0 +1,29 @@
+{
+  "number": "month-04-2",
+  "year": 2023,
+  "month": 4,
+  "title": "Gümüşhane İl Genel Meclisi'nin 2023 yılı Nisan ayında aldığı KARAR ÖZETLERİ",
+  "decision_date": null,
+  "index_date": "2023-04-30",
+  "date_precision": "month",
+  "period": "Nisan 2023",
+  "source": "https://www.gumushaneozelidare.gov.tr/nisan-2023-kararlari",
+  "official_page": "https://www.gumushaneozelidare.gov.tr/nisan-2023-kararlari",
+  "official_document": "https://www.gumushaneozelidare.gov.tr/kurumlar/gumushaneozelidare.gov.tr/İl Genel Meclisi/Özetler/2023/Nisan_2023_ozet.doc",
+  "source_sha256": "0f4082446df2fbf475b758464a594738d486f8baff3eecb6469862b0fb6a394e",
+  "issuer": "Gümüşhane İl Genel Meclisi",
+  "history_type": "metadata",
+  "text_status": "metadata-only: listing fields as published; the decisions are in the linked official document(s) or page, not transcribed",
+  "in_force": "2023-04-30",
+  "in_force_basis": "The official listing gives only the month of this official file (Nisan 2023); date set to the last day of that month (turkey-law date convention for month-only sources); exact adoption dates are in the linked official document; legal commencement not asserted",
+  "missing": [
+    "decision numbers, dates and subjects",
+    "complete official decision text",
+    "official annexes"
+  ],
+  "law_text_complete": false,
+  "privacy_withheld": false,
+  "listing_label": "Gümüşhane İl Genel Meclisi'nin 2023 yılı Nisan ayında aldığı KARAR ÖZETLERİ",
+  "record_scope": "one official file of council decisions (meeting or month)",
+  "item_title": "Nisan 2023 kararları"
+}
