@@ -1,0 +1,29 @@
+{
+  "number": "53",
+  "number_as_published": "2023/53",
+  "year": 2023,
+  "month": 4,
+  "title": "İstanbul İli, Fatih İlçesi, Nişanca Mahallesi, 735 Ada 10 Parsele İlişkin TEKLİF-341009673 Plan İşlem Numaralı 1/1000 ölçekli K.A.U.İ.P. Değişikliği",
+  "decision_date": null,
+  "index_date": "2023-04-30",
+  "date_precision": "month",
+  "period": "Nisan 2023",
+  "source": "https://www.fatih.bel.tr/tr/main/meclis_kararlar?yil=2023&ay=4",
+  "official_page": "https://www.fatih.bel.tr/tr/main/meclis_kararlar/202353/579",
+  "official_document": null,
+  "source_sha256": "910a2c098a1f637f0157adeb989b043dd8798a3b086e19e175fb8ae5f459eca2",
+  "issuer": "Fatih Belediye Meclisi",
+  "history_type": "metadata",
+  "text_status": "metadata-only: number and subject as published in the official listing; complete decision text is in the linked official page/document, not transcribed",
+  "in_force": "2023-04-30",
+  "in_force_basis": "The official listing gives only the month of this decision (Nisan 2023); date set to the last day of that month (turkey-law date convention for month-only sources); exact adoption dates are in the linked official document; legal commencement not asserted",
+  "missing": [
+    "exact decision date",
+    "complete official decision text",
+    "official annexes"
+  ],
+  "law_text_complete": false,
+  "privacy_withheld": false,
+  "record_scope": "one council decision (number and subject as listed)",
+  "listing_month": "2023-04"
+}
