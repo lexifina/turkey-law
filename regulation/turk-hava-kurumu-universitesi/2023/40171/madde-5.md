@@ -1,0 +1,4 @@
+Dersler
+MADDE 5- (1) Lisansüstü programlarda mezuniyet için tamamlanması öngörülen ders, laboratuvar, uygulama, proje, tez ve benzeri çalışmalar, ilgili enstitü kurulunun kararı ve Senato onayıyla belirlenir; değişiklikler yine aynı usulle yapılır. Değişiklikler en erken izleyen dönemin başından itibaren uygulamaya alınır.
+(2) Lisansüstü programlarını tamamlamak ve mezuniyet hakkını elde etmek için öngörülen müfredattaki derslerin başarıyla tamamlanmasının yanı sıra mevzuatın zorunlu tuttuğu konuları içeren derslerin de başarıyla tamamlanması zorunludur.
+(3) Bir lisansüstü program için dönemde hangi derslerin açılacağı ve bu derslerin hangi öğretim üyeleri tarafından verileceği, ilgili enstitü anabilim dalı başkanlarının önerileri üzerine ilgili enstitü yönetim kurulu kararıyla belirlenir.

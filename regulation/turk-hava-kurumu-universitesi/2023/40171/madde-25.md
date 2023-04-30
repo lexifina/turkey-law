@@ -1,0 +1,3 @@
+Dersler
+MADDE 25- (1) Tezsiz yüksek lisans programı toplam 30 krediden ve 60 AKTS’den az olmamak kaydıyla en az 10 ders ile dönem projesi dersinden oluşur. Öğrenci, dönem projesi dersinin alındığı yarıyılda dönem projesi dersine kayıt yaptırmak ve yarıyıl sonunda yazılı proje ve/veya rapor vermek zorundadır. Dönem projesi dersi kredisiz olup başarılı veya başarısız olarak değerlendirilir.
+(2) Öğrencinin alacağı derslerin en çok üçü lisans öğrenimi sırasında alınmamış olması koşuluyla, lisans derslerinden seçilebilir.

@@ -1,0 +1,8 @@
+Yüksek lisans tezinin sonuçlanması
+MADDE 32- (1) Öğrenci, yüksek lisans tez jürisi önünde sözlü olarak savunmak zorundadır.
+(2) Tez çalışmasını tamamlayan ve Senato tarafından belirlenen mezuniyet için gerekli diğer koşulları da sağlayan öğrenci, tezin istenen sayıda nüshasını tez danışmanına teslim eder. Danışman, tezin yazım kurallarına uygunluğu yönünden yazılı olarak belirttiği görüşü ve diğer gerekli belgeler ile tezin nüshalarını anabilim dalı başkanlığı aracılığıyla ilgili enstitüye gönderir.
+(3) Jüri üyeleri, söz konusu tezin kendilerine teslim edildiği tarihten itibaren en geç bir ay içinde toplanarak öğrenciyi tez sınavına alır. Tez sınavı, tez çalışmasının sunulması ve bunu izleyen soru-cevap bölümünden oluşur. Tez sınavı, öğretim elemanları, lisansüstü öğrenciler ve alanının uzmanlarından oluşan dinleyicilerin katılımına açık ortamda gerçekleştirilir.
+(4) Tez sınavının tamamlanmasından sonra jüri tez hakkında salt çoğunlukla kabul, ret veya düzeltme kararı verir. Bu karar enstitü anabilim dalı başkanlığınca tez sınavını izleyen üç gün içinde ilgili enstitüye tutanakla bildirilir.
+(5) Tezi reddedilen öğrencinin Üniversite ile ilişiği kesilir.
+(6) Tezi hakkında düzeltme kararı verilen öğrenci en geç üç ay içinde düzeltmeleri yapılan tezi aynı jüri önünde yeniden savunur. Bu savunma sonunda da başarısız bulunarak tezi kabul edilmeyen öğrencinin Üniversite ile ilişiği kesilir.
+(7) Tezi reddedilen öğrencinin talepte bulunması halinde, tezsiz yüksek lisans programının ders kredi yükü, proje yazımı ve benzeri gereklerini yerine getirmiş olmak kaydıyla kendisine tezsiz yüksek lisans diploması verilir.

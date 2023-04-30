@@ -1,0 +1,39 @@
+{
+  "checked_on": "2026-11-14",
+  "commencement_clauses": [
+    "MADDE 49- (1) Bu Yönetmelik yayımı tarihinde yürürlüğe girer."
+  ],
+  "date_evidence": [
+    [
+      "2023-04-30",
+      "30.04.2023",
+      "original gazette publication date in official listing"
+    ]
+  ],
+  "date_quote": "MADDE 49- (1) Bu Yönetmelik yayımı tarihinde yürürlüğe girer.",
+  "first_law": null,
+  "gazette": "32176",
+  "history": "current-text",
+  "images": {
+    "deferred": 0,
+    "omitted": 0,
+    "referenced": 0,
+    "source": 0
+  },
+  "in_force": "2023-04-30",
+  "in_force_basis": "source commencement clause: enters into force on gazette publication",
+  "issuer": "Türk Hava Kurumu Üniversitesi",
+  "issuer_slug": "turk-hava-kurumu-universitesi",
+  "kind": "regulation",
+  "label": "oldest version available",
+  "path": "regulation/turk-hava-kurumu-universitesi/2023/40171",
+  "published": "2023-04-30",
+  "source": "https://www.mevzuat.gov.tr/anasayfa/MevzuatFihristDetayIframe?MevzuatTur=8&MevzuatNo=40171&MevzuatTertip=5",
+  "source_bytes": 111923,
+  "source_id": "8.5.40171",
+  "source_sha256": "dd2b6843cdcabb851b38d3e9720e753c87a846f630b5f55374bdb1c9e2825624",
+  "text_status": "as-enacted",
+  "title": "TÜRK HAVA KURUMU ÜNİVERSİTESİ LİSANSÜSTÜ EĞİTİM-ÖĞRETİM VE SINAV YÖNETMELİĞİ",
+  "university_id": 366,
+  "word_count": 5499
+}

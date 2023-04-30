@@ -1,0 +1,5 @@
+Doktora yeterlik sınavı
+MADDE 37- (1) Yeterlik sınavı, derslerini ve seminerini tamamlayan öğrencinin alanındaki temel konular ve kavramlar ile doktora çalışmasıyla ilgili bilimsel araştırma derinliğine sahip olup olmadığının ölçülmesidir. Bir öğrenci bir yılda Mayıs ve Kasım aylarında yapılmak üzere en fazla iki kez yeterlik sınavına girer.
+(2) Yeterlilik sınavı Senato tarafından belirlenen şartlara göre yapılır.
+(3) Yeterlik sınavında başarısız olan öğrenci başarısız olduğu bölüm/bölümlerden bir sonraki yarıyılda tekrar sınava alınır. Bu sınavda da başarısız olan öğrencinin doktora programı ile ilişiği kesilir.
+(4) Yeterlik sınavı jürisi, yeterlik sınavını başaran bir öğrencinin, ders yükünü tamamlamış olsa bile, toplam kredi miktarının üçte birini geçmemek şartıyla fazladan ders/dersler almasını isteyebilir. Öğrenci, ilgili enstitü kararıyla belirlenecek dersleri başarmak zorundadır. Öğrencinin tez çalışmaları ile ilgili işlemlerin başlatılması için, fazladan alacağı dersleri tamamlaması beklenmez.

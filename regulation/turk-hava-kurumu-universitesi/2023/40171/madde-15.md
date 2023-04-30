@@ -1,0 +1,3 @@
+Derslere devam
+MADDE 15- (1) Öğrenciler kayıtlı oldukları ders, uygulama, laboratuvar, proje ve bunların gerektirdiği sınav ve diğer akademik çalışmalara katılmakla yükümlüdürler. Öğrencilerin devam durumlarının ders başarı değerlendirmesine etkisi, ilgili dersin öğretim elemanı tarafından dönem başında açıklanır ve öğrencilerin devam durumları, ilgili dersin öğretim elemanları tarafından izlenir.
+(2) Teorik derslerde %70, uygulamalı derslerde ise %80 devam şartı aranır. Sağlık raporu veya akademik izin kâğıdı sunulduğu takdirde kaçırdığı sınav için telafi hakkı verilir ancak derslere devamsız sayılır.
