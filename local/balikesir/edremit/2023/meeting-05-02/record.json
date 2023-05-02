@@ -1,0 +1,23 @@
+{
+  "number": "meeting-05-02",
+  "number_as_published": "meeting-05-02",
+  "year": 2023,
+  "title": "02.05.2023 Meclis Karar Meclis Kararı",
+  "decision_date": "2023-05-02",
+  "source": "https://www.edremit.bel.tr/Guncel/MeclisKarar?sayfa=6",
+  "official_document": "https://edremit.bel.tr:8081/Upload/Mevzuat/15b9eba3-fd5c-4740-ab6c-df79ee40b8b9.pdf",
+  "source_sha256": "b578effbf25290c91529a258f9503c9c8f0f3fb56b9ff1ba6c4769382d56db48",
+  "issuer": "Edremit Belediye Meclisi",
+  "history_type": "metadata",
+  "text_status": "metadata-only: listing fields as published; complete decision text is in the linked official document, not transcribed",
+  "in_force": "2023-05-02",
+  "in_force_basis": "Decision date as printed in the official council listing: 02.05.2023; adoption date of the council decision; legal commencement not asserted",
+  "missing": [
+    "complete official decision text",
+    "official annexes"
+  ],
+  "law_text_complete": false,
+  "privacy_withheld": false,
+  "listing_label": "02.05.2023 Meclis Karar Meclis Kararı",
+  "record_scope": "one official file of council decisions (meeting)"
+}
