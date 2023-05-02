@@ -1,0 +1,22 @@
+{
+  "kind": "norm",
+  "issuer": "Gelir İdaresi Başkanlığı",
+  "document_type": "ozelge",
+  "number": "E-21152195-130[2022/5627]-197120",
+  "source_id": 30168,
+  "date": "2023-05-02",
+  "title": "Vakıf için düzenlenen faturalarda tevkifat uygulaması",
+  "source": "https://gib.gov.tr/mevzuat/kanun/436/ozelge/30168",
+  "related_law": "3065 sayılı KATMA DEĞER VERGİSİ KANUNU",
+  "source_api": "https://gib.gov.tr/api/gibportal/mevzuat/ozelge/list",
+  "source_listing": "evidence/list/2026-11-16/ozelge-p004.json",
+  "source_listing_sha256": "f3b82278308562f88be46cc93b2ac53a1050d59c304474af958f8b7377f5bef9",
+  "source_sha256": "dfae60fb1fc61be8faaf1a11db62bf661c763c6966d7022ba2df93907fd2b72f",
+  "text_status": "as-enacted",
+  "text_file": "metin.md",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  }
+}
