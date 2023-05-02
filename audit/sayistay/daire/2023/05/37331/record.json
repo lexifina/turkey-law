@@ -1,0 +1,17 @@
+{
+  "kind": "decision",
+  "issuer": "Sayıştay 8. Dairesi",
+  "number": "285",
+  "decision_date": "2023-05-02",
+  "source_id": 37331,
+  "chamber": "8",
+  "ilam_number": "126",
+  "item_number": 5,
+  "public_body_type": "Yüksek Öğretim Kurumları",
+  "account_year": 2021,
+  "subject": "İhale Mevzuatı ile İlgili Kararlar",
+  "source": "https://www.sayistay.gov.tr/KararlarDaire/Detay/37331/",
+  "source_sha256": "b7717c110385d314df54f4729df103b6b53cc51930a7eb08b73f3a16f8e2d7a2",
+  "text_status": "as-enacted",
+  "text_file": "metin.md"
+}
