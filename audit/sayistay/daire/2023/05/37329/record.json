@@ -1,0 +1,17 @@
+{
+  "kind": "decision",
+  "issuer": "Sayıştay 8. Dairesi",
+  "number": "285",
+  "decision_date": "2023-05-02",
+  "source_id": 37329,
+  "chamber": "8",
+  "ilam_number": "126",
+  "item_number": 3,
+  "public_body_type": "Yüksek Öğretim Kurumları",
+  "account_year": 2021,
+  "subject": "Harcırah Mevzuatı ile İlgili Kararlar",
+  "source": "https://www.sayistay.gov.tr/KararlarDaire/Detay/37329/",
+  "source_sha256": "dc8359d52f053346073f1b1eef1d948b891f62b6eb76eeeef7521a9cafe37d19",
+  "text_status": "as-enacted",
+  "text_file": "metin.md"
+}
