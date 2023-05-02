@@ -1,0 +1,31 @@
+{
+  "act_path": "regulation/university/antalya-akev-universitesi/2020/34762",
+  "availability": "text",
+  "checked_on": "2026-11-14",
+  "commencement_clauses": [
+    "MADDE 17 – (1) Bu Yönetmelik yayımı tarihinde yürürlüğe girer."
+  ],
+  "date_quote": "RG-2/5/2023",
+  "first_law": null,
+  "gazette": "31216",
+  "history": "current-text",
+  "images": {
+    "deferred": 0,
+    "omitted": 0,
+    "referenced": 0,
+    "source": 0
+  },
+  "in_force": "2023-05-02",
+  "in_force_basis": "latest source-printed amendment Gazette date; current consolidated text",
+  "issuer": "Antalya AKEV Üniversitesi",
+  "issuer_slug": "antalya-akev-universitesi",
+  "kind": "regulation",
+  "published": "2020-08-17",
+  "source": "https://www.mevzuat.gov.tr/anasayfa/MevzuatFihristDetayIframe?MevzuatTur=8&MevzuatNo=34762&MevzuatTertip=5",
+  "source_id": "8.5.34762",
+  "source_sha256": "0fc8e88960baf00e5eac3cd44eaa6c728e42e730d92a13f88ec97ae92256e964",
+  "title": "ANTALYA BELEK ÜNİVERSİTESİ UZAKTAN EĞİTİM \r\nUYGULAMA VE ARAŞTIRMA MERKEZİ YÖNETMELİĞİ",
+  "university_id": 458,
+  "version_label": "oldest version available",
+  "word_count": 1232
+}
