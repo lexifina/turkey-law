@@ -1,0 +1,23 @@
+{
+  "applicant": null,
+  "application_date": "2019-08-16",
+  "application_number": "2019/28149",
+  "database_publication_date": "2023-07-25",
+  "deciding_unit": "Birinci Bölüm",
+  "decision_date": "2023-05-03",
+  "gazette_number": null,
+  "history_type": "metadata",
+  "id": "c6e73787-1f18-feae-8ba3-2e2c8a0cb6b3",
+  "in_force": "2023-05-03",
+  "in_force_basis": "official decision date",
+  "kind": "constitutional-court-individual-application",
+  "law_text_complete": false,
+  "outcome": "Esas (İhlal)",
+  "privacy_withheld": "applicant is named as a private person in the official listing; name withheld",
+  "published": null,
+  "source": "https://kararlarbilgibankasi.anayasa.gov.tr/kbb/pages/search/Tumu?id=a2JiOmM2ZTczNzg3LTFmMTgtZmVhZS04YmEzLTJlMmM4YTBjYjZiMw&type=BireyselBasvuru",
+  "source_api": "https://kararlarbilgibankasi.anayasa.gov.tr/api/core/public/search",
+  "source_listing": "evidence/list/BireyselBasvuru-2023-01-01-2023-12-31-p2.json (official API answer, read 2026-11-15)",
+  "source_listing_sha256": "699a69ffd5830480b63f38b3a7a270c0ae75037c69885bd0432c3e349e6aca29",
+  "text_status": "metadata-only: official database listing fields; the decision text is on the linked official page, not transcribed (decision names a private person)"
+}
