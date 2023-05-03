@@ -1,0 +1,26 @@
+{
+  "number": "55",
+  "number_as_published": "055",
+  "year": 2023,
+  "title": "Izin Mustafa CIBIK",
+  "decision_date": "2023-05-03",
+  "source": "https://www.cankiriozelidare.gov.tr/2023-meclis-kararlari",
+  "official_document": "https://www.cankiriozelidare.gov.tr/kurumlar/cankiriozelidare.gov.tr/genel meclis/meclis kara/2023/055_Izin-Mustafa-CIBIK-03052023.pdf",
+  "source_sha256": "23973c6d6aa5b6db0de9f0c600bae134aaf442dfe57ff33ac541a7a6442a26d1",
+  "issuer": "Çankırı İl Genel Meclisi",
+  "history_type": "metadata",
+  "text_status": "metadata-only: listing fields as published; complete decision text is in the linked official document, not transcribed",
+  "in_force": "2023-05-03",
+  "in_force_basis": "Decision date as printed in the official council listing: 03052023 (official file name); adoption date of the council decision; legal commencement not asserted",
+  "missing": [
+    "complete official decision text",
+    "official annexes"
+  ],
+  "law_text_complete": false,
+  "privacy_withheld": false,
+  "listing_label": "055_Izin-Mustafa-CIBIK",
+  "record_scope": "one official decision document",
+  "date_read_from": "official file name",
+  "official_page": "https://www.cankiriozelidare.gov.tr/2023-meclis-kararlari",
+  "item_title": "2023 Meclis Kararları"
+}
