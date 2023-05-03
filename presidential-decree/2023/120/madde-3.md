@@ -1,0 +1,2 @@
+Yakalama emrinin yerine getirilmesi
+MADDE 3- (1) Olağanüstü hal ilan edilen yerlerde bulunan sulh ceza hâkimlikleri veya mahkemeler tarafından düzenlenen yakalama emri üzerine yakalanan kişinin en geç yirmi dört saat içinde yetkili hâkim veya mahkeme önüne çıkarılamaması ve sesli ve görüntülü iletişim sisteminin kullanılamaması durumunda bu kişinin yakalandığı yer sulh ceza hâkimi veya mahkemesi tarafından sorgusu yapılır veya ifadesi alınır.

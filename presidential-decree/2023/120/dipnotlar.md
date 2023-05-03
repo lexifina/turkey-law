@@ -1,0 +1,1 @@
+[1] 3/3/2023 tarihli ve 32121 sayılı Resmî Gazete’de yayımlanan 128 sayılı Cumhurbaşkanlığı Kararnamesinin 6 ncı maddesiyle bu bende “ve yağma (madde 148, 149)” ibaresinden sonra gelmek üzere “ile kasten öldürmenin ihmali davranışla işlenmesi (madde 83), taksirle öldürme (madde 85) ve nitelikli dolandırıcılık (madde 158)” ibaresi eklenmiştir.

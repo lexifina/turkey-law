@@ -1,0 +1,70 @@
+{
+  "source_id": "25.5.120",
+  "path": "presidential-decree/2023/120",
+  "number": "120",
+  "tertip": "5",
+  "title": "OLAĞANÜSTÜ HAL KAPSAMINDA YARGI ALANINDA ALINAN TEDBİRLERE İLİŞKİN CUMHURBAŞKANLIĞI KARARNAMESİ (KARARNAME NUMARASI: 120)",
+  "status": "repealed",
+  "text_label": "last-available-consolidated",
+  "enacted": "2023-02-11",
+  "enacted_as_printed": "11.02.2023",
+  "published": "2023-02-11",
+  "gazette": "32101",
+  "in_force": "2023-05-03",
+  "in_force_basis": "latest date printed in an amendment note (Resmî Gazete date): \"RG-3/5/2023\"",
+  "date_evidence": [
+    [
+      "2023-05-03",
+      "RG-3/5/2023",
+      "an amendment note (Resmî Gazete date)"
+    ],
+    [
+      "2023-04-10",
+      "RG-10/4/2023",
+      "an amendment note (Resmî Gazete date)"
+    ],
+    [
+      "2023-04-05",
+      "RG-5/4/2023",
+      "an amendment note (Resmî Gazete date)"
+    ],
+    [
+      "2023-03-03",
+      "RG-3/3/2023",
+      "an amendment note (Resmî Gazete date)"
+    ]
+  ],
+  "commencement_clauses": [
+    "Bu Cumhurbaşkanlığı Kararnamesi yayımı tarihinde yürürlüğe girer"
+  ],
+  "repeal_notes": [
+    "Bu Kararname Anayasa’nın 119 uncu maddesi uyarınca kendiliğinden yürürlükten kalkmıştır."
+  ],
+  "source": "https://www.mevzuat.gov.tr/anasayfa/MevzuatFihristDetayIframe?MevzuatTur=25&MevzuatNo=120&MevzuatTertip=5",
+  "source_sha256": "e74ee6df37fe802b4cb59c42254ec27b9fe177d644be26dbb1a48fe8d79c547c",
+  "source_bytes": 43404,
+  "words": 1269,
+  "source_images": 1,
+  "images_referenced": 0,
+  "images_deferred": 0,
+  "images_omitted": 1,
+  "omitted_images": [
+    {
+      "src": "25.5.120_dosyalar/image001.jpg",
+      "url": "https://www.mevzuat.gov.tr/MevzuatMetin/25.5.120_dosyalar/image001.jpg",
+      "sha256": "c83f790dc9cfe5d71ba534512e9c66c95c60fc19a45452e53e7533682a0a671e",
+      "bytes": 3626,
+      "pixels": [
+        103,
+        103
+      ],
+      "emblem_mean_diff": 9.19,
+      "reason": "Presidential emblem (decorative seal above the title, no text); omitted as main omits it for its in-force CBKs"
+    }
+  ],
+  "has_old_texts": false,
+  "history_note": "Earlier versions are not established by this current HTML source.",
+  "listing": "https://www.mevzuat.gov.tr/Anasayfa/MevzuatDatatable (evidence/list/2026-11-17/mulga-00000.json)",
+  "listing_sha256": "2cf34025a8cb3779e733a85e74259f6abc229c240ed8b0da7218b98b01c70836",
+  "checked_on": "2026-11-17"
+}
