@@ -1,0 +1,17 @@
+{
+  "kind": "decision",
+  "issuer": "Sayıştay 1. Dairesi",
+  "number": "10907",
+  "decision_date": "2023-05-04",
+  "source_id": 37877,
+  "chamber": "1",
+  "ilam_number": "139",
+  "item_number": 2,
+  "public_body_type": "Belediyeler ve Bağlı İdareler",
+  "account_year": 2021,
+  "subject": "Çeşitli Konuları İlgilendiren Kararlar",
+  "source": "https://www.sayistay.gov.tr/KararlarDaire/Detay/37877/",
+  "source_sha256": "05690e83b6e49d61c0fdffb4c2e18763a0efed00f5b470ba8fcf5aeeb371cd10",
+  "text_status": "metadata-only",
+  "metadata_only_reason": "possible personal name in the official text"
+}
