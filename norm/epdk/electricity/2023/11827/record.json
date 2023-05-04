@@ -1,0 +1,25 @@
+{
+  "kind": "norm",
+  "issuer": "Enerji Piyasası Düzenleme Kurumu",
+  "market": "electricity",
+  "document_type": "board-decision",
+  "number": "11827",
+  "decision_date": "2023-05-04",
+  "title": "Afet bölgesinde bulunan tedarik şirketleri için ilgili fatura dönemine ilişkin fatura son ödeme tarihine kadar ertelenmesine, avans ödemelerinin ertelendiği süre boyunca piyasa işletmecisi ve piyasa katılımcısına temerrüt faizinin uygulanmamasına ilişkin",
+  "resmi_gazete_date": "2023-05-05",
+  "resmi_gazete_number": "32181",
+  "categories": [
+    "Elektrik Piyasası Tarife Kurul Kararları"
+  ],
+  "source": "https://www.epdk.gov.tr/Detay/DownloadDocument?id=CQXMw1KDfxw=",
+  "documents": [
+    "https://www.epdk.gov.tr/Detay/DownloadDocument?id=CQXMw1KDfxw="
+  ],
+  "source_sha256": "a852147f01914be3aba34bff16b721e2c3922d3963bce930536a03a89d16bd73",
+  "official_list": "https://www.epdk.gov.tr/Detay/Icerik/3-0-39/kurul-kararlari-",
+  "official_list_leaf": 14713,
+  "text_status": "as-enacted",
+  "text_file": "metin.md",
+  "in_force": "2023-05-04",
+  "law_text_complete": true
+}
