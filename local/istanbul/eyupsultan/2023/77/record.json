@@ -1,0 +1,22 @@
+{
+  "number": "77",
+  "number_as_published": "2023/77",
+  "year": 2023,
+  "title": "2022 yılı Taşınır Kesin Hesabı",
+  "decision_date": "2023-05-04",
+  "source": "https://eyupsultan.bel.tr/tr/main/pages/2023-mayis-ayi-meclis-kararlari/2414",
+  "official_document": "https://eyupsultan.bel.tr/tr/main/pages/2023-77/2419",
+  "source_sha256": "fbd00104aa798cd2a584168fefef96898474bf17d518e18f200e4643b50da66c",
+  "issuer": "Eyüpsultan Belediye Meclisi",
+  "history_type": "metadata",
+  "text_status": "metadata-only: listing fields as published; complete decision text is in the linked official document, not transcribed",
+  "in_force": "2023-05-04",
+  "in_force_basis": "Decision date as printed in the official council listing: 04.05.2023 (meeting date at the start of the decision page); adoption date of the council decision; legal commencement not asserted",
+  "missing": [
+    "complete official decision text",
+    "official annexes"
+  ],
+  "law_text_complete": false,
+  "privacy_withheld": false,
+  "decision_page_sha256": "4228e5f98808b938b9fff35228d533da7cfa3e27d9df1f0375d2021a0b534a84"
+}
