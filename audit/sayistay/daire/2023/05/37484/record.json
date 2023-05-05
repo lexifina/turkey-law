@@ -1,0 +1,17 @@
+{
+  "kind": "decision",
+  "issuer": "Sayıştay 1. Dairesi",
+  "number": "10908",
+  "decision_date": "2023-05-05",
+  "source_id": 37484,
+  "chamber": "1",
+  "ilam_number": "295",
+  "item_number": 1,
+  "public_body_type": "Özel İdareler",
+  "account_year": 2016,
+  "subject": "İş Mevzuatı ile İlgili Kararlar",
+  "source": "https://www.sayistay.gov.tr/KararlarDaire/Detay/37484/",
+  "source_sha256": "92a6006877b7847507611ba7ae99160eee61234b36d88a3f096cc7d227b9432d",
+  "text_status": "as-enacted",
+  "text_file": "metin.md"
+}
