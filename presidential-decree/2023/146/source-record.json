@@ -1,0 +1,48 @@
+{
+  "source_id": "25.5.146",
+  "path": "presidential-decree/2023/146",
+  "number": "146",
+  "tertip": "5",
+  "title": "OLAĞANÜSTÜ HAL KAPSAMINDA MÜLKİYETİ VAKIFLAR GENEL MÜDÜRLÜĞÜNE VE MAZBUT VAKIFLARA AİT TAŞINMAZLAR HAKKINDA ALINAN TEDBİRLERE DAİR CUMHURBAŞKANLIĞI KARARNAMESİ (KARARNAME NUMARASI: 146)",
+  "status": "repealed",
+  "text_label": "last-available-consolidated",
+  "enacted": "2023-05-05",
+  "enacted_as_printed": "05.05.2023",
+  "published": "2023-05-06",
+  "gazette": "32182",
+  "in_force": "2023-05-06",
+  "in_force_basis": "Resmî Gazete publication date in the official listing (06.05.2023); own commencement article: \"Bu Cumhurbaşkanlığı Kararnamesi yayımı tarihinde yürürlüğe girer\"",
+  "commencement_clauses": [
+    "Bu Cumhurbaşkanlığı Kararnamesi yayımı tarihinde yürürlüğe girer"
+  ],
+  "repeal_notes": [
+    "Bu Kararname Anayasa’nın 119 uncu maddesi uyarınca kendiliğinden yürürlükten kalkmıştır."
+  ],
+  "source": "https://www.mevzuat.gov.tr/anasayfa/MevzuatFihristDetayIframe?MevzuatTur=25&MevzuatNo=146&MevzuatTertip=5",
+  "source_sha256": "2098d89658cd479d65d6384920a9d528c0888863d4b3b2de8a6a545617b9679d",
+  "source_bytes": 15140,
+  "words": 208,
+  "source_images": 1,
+  "images_referenced": 0,
+  "images_deferred": 0,
+  "images_omitted": 1,
+  "omitted_images": [
+    {
+      "src": "25.5.146_dosyalar/image001.png",
+      "url": "https://www.mevzuat.gov.tr/MevzuatMetin/25.5.146_dosyalar/image001.png",
+      "sha256": "0b4d1c87b050c8d6298f88ffbe67be8132bd42fd1f6d1a5eb82e1639bab7d347",
+      "bytes": 20443,
+      "pixels": [
+        104,
+        104
+      ],
+      "emblem_mean_diff": 0.0,
+      "reason": "Presidential emblem (decorative seal above the title, no text); omitted as main omits it for its in-force CBKs"
+    }
+  ],
+  "has_old_texts": false,
+  "history_note": "Earlier versions are not established by this current HTML source.",
+  "listing": "https://www.mevzuat.gov.tr/Anasayfa/MevzuatDatatable (evidence/list/2026-11-17/mulga-00000.json)",
+  "listing_sha256": "2cf34025a8cb3779e733a85e74259f6abc229c240ed8b0da7218b98b01c70836",
+  "checked_on": "2026-11-17"
+}
