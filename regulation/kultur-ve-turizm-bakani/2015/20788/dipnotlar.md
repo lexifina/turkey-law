@@ -1,0 +1,1 @@
+[1] Bu maddede yer alan miktarlar 1/2/2025 tarihinde yürürlüğe girmek üzere güncellenmiştir. Güncel miktarlar için 30/1/2025 tarihli ve 32798 sayılı Resmî Gazete’de yayımlanan “Taşınmaz Kültür Varlıklarına Yardım Sağlanmasına Dair Yönetmelik Kapsamındaki Parasal Limitlerin Güncellenmesi Hakkında Tebliğ (No: 2025/2)”e bakınız.
