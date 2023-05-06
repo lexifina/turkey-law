@@ -1,0 +1,34 @@
+{
+  "source_id": "7.5.40177",
+  "kind": "regulation",
+  "register_kind": "Kurum ve Kuruluş Yönetmelikleri",
+  "title": "DEVLET TİYATROLARI GENEL MÜDÜRLÜĞÜ DİSİPLİN AMİRLERİ YÖNETMELİĞİ",
+  "number": "40177",
+  "issuer": "Devlet Tiyatroları Genel Müdürü",
+  "issuer_slug": "devlet-tiyatrolari-genel-muduru",
+  "path": "regulation/devlet-tiyatrolari-genel-muduru/2023/40177",
+  "source": "https://www.mevzuat.gov.tr/anasayfa/MevzuatFihristDetayIframe?MevzuatTur=7&MevzuatNo=40177&MevzuatTertip=5",
+  "source_sha256": "a51b515fd5849eafb1835aa5a7f6ce942405318f70ca1be11b0df75fdf4626bb",
+  "source_bytes": 15107,
+  "published": "2023-05-06",
+  "gazette": "32182",
+  "in_force": "2023-05-06",
+  "in_force_basis": "Resmî Gazete publication date in the official listing (06.05.2023); own commencement article: \"Bu Yönetmelik yayımı tarihinde yürürlüğe girer\"",
+  "commencement_clauses": [
+    "Bu Yönetmelik yayımı tarihinde yürürlüğe girer"
+  ],
+  "history": "current-text",
+  "label": "oldest version available",
+  "checked_on": "2026-11-15",
+  "word_count": 159,
+  "text_status": "current-consolidated",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  },
+  "source_links": [
+    "7.5.40177-Ek.docx"
+  ],
+  "completeness": "html-text-complete; linked annexes not fetched"
+}
