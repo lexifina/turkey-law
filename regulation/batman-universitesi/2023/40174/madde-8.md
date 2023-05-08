@@ -1,0 +1,4 @@
+Müdür (Başhekim)
+MADDE 8- (1) Müdür, Fakülte bünyesinde dekan yardımcıları veya tam zamanlı öğretim üyeleri arasından Dekanın önerisi ile Rektör tarafından üç yıl süre ile görevlendirilir.
+(2) Dekanın görevi sona erdiğinde Müdürün görevi de kendiliğinden sona erer. Görev süresi sona eren Müdür aynı usulle yeniden görevlendirilebilir veya gerekli hallerde görevinden alınabilir.
+(3) Müdürün önerisiyle ve Dekanın uygun görüşüyle Fakültede görev yapan tam zamanlı öğretim üyeleri arasından Rektör tarafından en fazla iki kişi müdür yardımcısı olarak görevlendirilir. Müdürün görevi sona erdiğinde yardımcılarının da görevi kendiliğinden sona erer. Müdür, görevi başında bulunmadığı zamanlarda yardımcılarından birini vekil olarak bırakır. Göreve vekaletin altı aydan uzun sürmesi durumunda yeni bir Müdür görevlendirilir.
