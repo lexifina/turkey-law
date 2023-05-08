@@ -1,0 +1,22 @@
+{
+  "kind": "norm",
+  "issuer": "Gelir İdaresi Başkanlığı",
+  "document_type": "ozelge",
+  "number": "E-49327596-187[DVÖZ.2023.2]-88588",
+  "source_id": 36893,
+  "date": "2023-05-08",
+  "title": "Villanın kiraya verilmesi durumunda konaklama vergisi",
+  "source": "https://gib.gov.tr/mevzuat/kanun/445/ozelge/36893",
+  "related_law": "6802 sayılı GİDER VERGİLERİ KANUNU",
+  "source_api": "https://gib.gov.tr/api/gibportal/mevzuat/ozelge/list",
+  "source_listing": "evidence/list/2026-11-16/ozelge-p008.json",
+  "source_listing_sha256": "292c126217cc32c3ccfa57495ce433f89ef8db5e75fa1946d5819a76f81aff4d",
+  "source_sha256": "ba13f2a9be1a74f07ddd69c4caf54c0e66108c6afd344fed9a44a23e9a783714",
+  "text_status": "as-enacted",
+  "text_file": "metin.md",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  }
+}
