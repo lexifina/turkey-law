@@ -1,0 +1,1 @@
+Geçici Madde 1 – Bu Yönetmelikte kurulması öngörülen esas komisyonlardan, bu Yönetmeliğin yürürlük tarihinden önce geçici komisyon olarak kurulmuş olanları esas komisyon olarak görevlerine devam ederler.

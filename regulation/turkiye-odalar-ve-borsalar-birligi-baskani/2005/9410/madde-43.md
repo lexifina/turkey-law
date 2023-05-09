@@ -1,0 +1,5 @@
+Komisyon raporları
+Madde 43 — Komisyonlar karara bağladıkları işler için bir rapor düzenlerler. Rapor, komisyon başkanı ve raportör tarafından hazırlanır.
+Raporda, komisyonun düşünceleri ile komisyonca yapılan değişikliklerin gerekçeleri yer alır.
+Komisyon raporu, komisyon üyelerinin imzalarına sunulur. Üyeler, raporun tümüne veya belli kısımlarına çekimser veya muhalif kalabilirler. Bu takdirde üyeler, raporda yer alan karar ve konulardan hangilerine aykırı görüşte olduklarını veya çekimser kaldıklarını belirtmek zorundadırlar. Üyeler, çekimserlik veya aykırılık görüşlerini ya da rapora katılmakla beraber, raporda yer almayan görüşlerini rapora ekleme hakkına sahiptirler.
+Raporlar; çekimserlik, aykırılık ve ek görüşlerle birlikte Genel Kurula sunulur. Raporda imzası bulunan komisyon üyeleri, Genel Kurulda veya başka komisyonlarda aykırı düşüncede olduklarını veya çekimser kaldıklarını belirttikleri hususlar dışında, rapora aykırı konuşma yapamaz ve soru soramazlar. Komisyon raporları beş nüsha olarak düzenlenir ve diğer ilgili bütün evrakla beraber, Başkanlık Divanına verilir.

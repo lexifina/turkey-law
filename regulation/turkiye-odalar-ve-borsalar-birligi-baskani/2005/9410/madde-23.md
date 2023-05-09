@@ -1,0 +1,2 @@
+Dış İlişkiler Komisyonu
+Madde 23 — Türkiye’nin dış politika öncelikleri çerçevesinde, Türkiye-ABD ilişkileri, genel olarak Ortadoğu, Kuzey Afrika ve özellikle Irak, İran Suriye ve İsrail- Filistin, Kafkaslar, Balkanlar ve Dünya Ticaret Örgütü, OECD gibi ülke, bölge ve örgütlerle ilişkiler hususunda çalışmalar yapmak, Birlik Başkanının havale edeceği konuları incelemek, rapor hazırlamak ve Genel Kurula sunmakla görevli ve yetkilidir.
