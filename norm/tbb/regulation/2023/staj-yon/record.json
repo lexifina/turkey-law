@@ -1,0 +1,15 @@
+{
+  "kind": "regulation",
+  "issuer": "Türkiye Barolar Birliği",
+  "title": "TÜRKİYE BAROLAR BİRLİĞİ AVUKATLIK STAJ YÖNETMELİĞİ",
+  "date": "2023-05-09",
+  "date_source": "official-amendment-annotation",
+  "in_force_basis": "Latest amendment annotation printed in the official TBB PDF: RG-9/5/2023-32185.",
+  "commit_kind": "consolidated",
+  "source": "http://d.barobirlik.org.tr/mevzuat/avukata_ozel/yonetmelikler/2011/staj_yon.pdf",
+  "source_sha256": "62ac95106124dba632b4224580054cb8f32100b494a87d1ae09eecd1c719bd2d",
+  "text_status": "current-text",
+  "version_label": "oldest version available",
+  "text_file": "text.txt",
+  "personal_data": "general professional rule; no case-party publication in this record"
+}
