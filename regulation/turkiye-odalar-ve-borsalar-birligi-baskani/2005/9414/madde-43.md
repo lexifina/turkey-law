@@ -1,0 +1,5 @@
+Belge bedeli ve ücretler
+Madde 43 — Odalar ve bunların şubelerince verilen hizmetler ile onaylanan ve düzenlenen belgeler karşılığında alınacak ücretlerin oran ve miktarı, (Mülga ibare:RG-20/1/2021-31370) (…) yönetim kurulunun teklifi ve meclisin onayıyla yürürlüğe konulacak tarifelerle tespit olunur. (Ek cümle:RG-20/1/2021-31370) Bu ücretlerin tavanı; maktu olanlarda aylık asgari ücretin brüt tutarının yarısını geçmemek, nispi olanlarda bu tutarı aşmamak ve binde beşten fazla olmamak kaydıyla her yıl için Birlikçe belirlenir. Odalarca verilen hizmetin dışarıdan satın alınması halinde, satın alınan hizmetin bedeli de bu tavanın iki katını geçmemek üzere ücrete eklenerek ilgiliden tahsil edilir.
+Verilen hizmetler ile onaylanan ve düzenlenen belgeler karşılığında alınacak ücretleri gösterir tarifeler, her yıl bütçe ile birlikte belirlenir. Bunların uygulanmasından yönetim kurulu/şube yönetim kurulu sorumludur.
+BEŞİNCİ BÖLÜM
+İstatistik Düzenlenmesi, Fire, Zayiat ve Randıman Oranları, Örf,

@@ -1,0 +1,1 @@
+Geçici Madde 2 — Bu Yönetmeliğin 80 inci maddesi uyarınca seçilmesi gerekli hesapları inceleme komisyonu, bu Yönetmeliğin yayımını takip eden ilk meclis/şube meclisi toplantısında seçilir ve yerlerine yenileri seçilinceye kadar görev yapar.

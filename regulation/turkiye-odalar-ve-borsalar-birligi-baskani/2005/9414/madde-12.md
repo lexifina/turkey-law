@@ -1,0 +1,3 @@
+Birden fazla odaya kaydolması gerekenler
+Madde 12 — Kanunun 9 uncu maddesine göre birden fazla odaya kayıt zorunluluğu bulunanlardan bu yükümlülüğünü yerine getirmeyenler, bu durumu tespit eden oda tarafından ilgili odaya bildirilir. Bu Yönetmeliğin 15 inci maddesinin 6 ncı ve 7 nci fıkraları hükmü saklıdır.
+Birden fazla odaya kaydı bulunan üyeler tarafından kayıtlı bulunduğu odalara verilen bilgilerde çelişki görülmesi halinde, çelişkinin giderilmesi bu durumu tespit eden odaca üyeden talep edilir. Bu talebi yerine getirmeyen veya doğru bilgi vermeyen üyeler hakkında Oda ve Borsa Üyelerine Verilecek Disiplin ve Para Cezaları ile Disiplin Kurulu ve Yüksek Disiplin Kurulu Hakkında Yönetmelik hükümlerine göre işlem yapılır.

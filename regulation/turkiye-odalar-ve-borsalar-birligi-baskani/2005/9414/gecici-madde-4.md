@@ -1,0 +1,2 @@
+Geçici Madde 4 – (Ek:RG-20/1/2021-31370)
+Bu maddeyi ihdas eden Yönetmelikle bu Yönetmeliğin 14 üncü maddesinin üçüncü fıkrasında yapılan değişiklik, 1/1/2021 tarihinden sonra askıya alınan üyeler hakkında uygulanır. Aidat borçlarının ödenmemesi nedeniyle bu tarihten önce üyeliği askıya alınanların, askıya alınmadan önceki aidat borçlarının tamamını ödemeleri halinde üyeliği, yönetim kurulu kararıyla askıdan indirilir ve bu üyelerin isimleri meslek grupları ve seçmen listelerine dahil edilerek aidat tahakkukları başlatılır.

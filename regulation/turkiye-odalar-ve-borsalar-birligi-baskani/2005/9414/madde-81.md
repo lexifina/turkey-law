@@ -1,0 +1,4 @@
+Oda ve borsalar arası ilişki
+Madde 81 — Aynı ilde kurulu oda ve borsa yönetim kurulları, mesleki konularda görüş oluşturmak amacıyla dört ayda bir müştereken toplanır.
+Bu toplantılar, sırasıyla dönüşümlü olarak ilde kurulu bulunan ticaret odası, sanayi odası veya ticaret ve sanayi odası, deniz ticaret odası ve ticaret borsası yönetim kurulu başkanının daveti ve başkanlığı altında yapılır. Bu toplantılarda alınacak bir kararla ilçe oda ve borsalarında da toplanılabilir. Bu toplantılarda toplantı nisabı aranmaz. Kararlar toplantıya katılanların oy çokluğuyla alınır. Alınan kararlar bir tutanağa bağlanır. Tavsiye niteliğindeki bu kararlar, oda ve borsaların ilk yönetim kurulu veya meclis toplantısında görüşülür.
+Toplantıya katılanların yol ve konaklama masrafları kendi oda veya borsası tarafından karşılanır.

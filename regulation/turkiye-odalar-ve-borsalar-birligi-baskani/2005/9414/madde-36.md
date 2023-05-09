@@ -1,0 +1,3 @@
+Rayiç fiyat tespit usulü
+Madde 36 — Rayiç fiyatlar, rayiç fiyat tespiti istenilen mal veya hizmetle iştigal eden en az üç işletmeden mümkünse belgelendirilmek suretiyle alınacak fiyatların ortalaması veya birbirine en yakın değeri dikkate alınarak tespit edilir. Bu sayıda işletmenin bulunmaması halinde, kaç işletmeden fiyat alındığı ayrıca belirtilir. Borsaya tabi maddelerin rayiç fiyatı, istenilen tarihte borsada tescil edilen fiyatlar dikkate alınarak belirlenir.
+Rayiç fiyat tespitinin istenildiği tarihte fiyat tespiti istenen mal veya hizmetin piyasada bulunmaması veya görülmemesi halinde, bu durum yazılı olarak ilgililere bildirilir.

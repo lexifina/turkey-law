@@ -1,0 +1,2 @@
+Geçmiş yıllara ait rayiç fiyat
+Madde 37 — Herhangi bir mal veya hizmetin geçmiş bir tarihe ait rayiç fiyatının talep edilmesi halinde, bu talep bahse konu mal veya hizmetin varsa o tarihe ait fiyat tespitlerinden yoksa bu konuda iştigal eden işletmelerden tahkik edilerek karşılanır. Ancak odaların veya bunların şubelerinin, resmi makamların talepleri dışında geçmiş yıllara ait rayiç fiyatları işletmeler nezdinde tahkik etme zorunluluğu bulunmamaktadır. Geçmiş yıllara ait rayiç fiyat tespitleri, odayı veya bunların şubelerini hukuken bağlamaz.

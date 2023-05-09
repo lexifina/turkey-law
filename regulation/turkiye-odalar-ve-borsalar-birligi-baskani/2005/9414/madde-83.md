@@ -1,0 +1,4 @@
+Huzur hakkı
+Madde 83 — Meslek komiteleri, meclis, yönetim kurulu, disiplin kurulu ile bu Yönetmeliğin 80 inci maddesi uyarınca ihdas edilecek komisyon üyelerine iştirak edecekleri toplantılar için huzur hakkı verilebilir.
+Meslek komiteleri, yönetim kurulu, disiplin kurulu ile bu Yönetmeliğin 80 inci maddesi uyarınca ihdas edilecek komisyon üyelerine verilecek huzur hakkını meclis, meclis üyelerine verilecek huzur hakkını Birlik Yönetim Kurulunun teklifi üzerine Birlik Genel Kurulu tespit eder.
+Meslek komiteleri, yönetim kurulu, disiplin kurulu ile bu Yönetmeliğin 80 inci maddesi uyarınca ihdas edilecek komisyon üyelerine verilecek huzur hakkı, meclis üyelerine verilecek huzur hakkının üç katını geçemez. Şube meclisi tarafından bu Yönetmeliğin 80 inci maddesi uyarınca ihdas edilecek komisyon üyelerine verilecek huzur hakkının miktarı bağlı bulunulan odada görev yapan komisyon üyelerine verilecek huzur hakkının yarısını geçemez.

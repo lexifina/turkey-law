@@ -1,0 +1,2 @@
+Birliğe bildirim
+Madde 48 — Tespit edilen fire, zayiat ve randıman oranları ile uyulması zorunlu mesleki kararlar ve Bakanlıkça onaylanan örf, adet ve teamüller ilgili oda tarafından Birliğe bildirilir. Birliğe bildirilen bu hususlar, talep halinde odaların veya ilgililerin kullanımına sunulmak üzere Birlik tarafından muhafaza edilir. Ayrıca bu hususlar, Birlik tarafından elektronik ortama aktarılmak suretiyle de kullanılabilir.
