@@ -1,0 +1,18 @@
+{
+  "issuer": "Mersin Büyükşehir Belediye Meclisi",
+  "number": "216",
+  "decision_date": "2023-05-09",
+  "title": "-MEC.KAR.(Tahsis - Bozyazı Merkez Mh. 648 Ada 1 Parsel )",
+  "listed_as": "216-MEC.KAR.(Tahsis - Bozyazı Merkez Mh. 648 Ada 1 Parsel )",
+  "subject_note": "subject as the meeting page lists it (the register shortens some long subjects)",
+  "official_document": "https://www.mersin.bel.tr/dokumanlar/216-meckartahsis-bozyazi-merkez-mh-648-ada-1-parsel--1262545297",
+  "source_listing": "https://www.mersin.bel.tr/dokumanlar/9-mayis-2023-meclis-kararlari-477217116",
+  "listing_sha256": "56e0e6acb2cbe22657ea70103d9c4ea10831f7f23ba7b025e4db1e6a432a6c79",
+  "meeting_title": "9 MAYIS 2023 MECLİS KARARLARI",
+  "history_type": "metadata-only",
+  "capture_mode": "metadata-only",
+  "text_status": "metadata-only; official decision page linked, text not transcribed",
+  "date_basis": "meeting date in the official meeting page title (decision date of the session)",
+  "commencement_established": false,
+  "privacy_withheld": false
+}
