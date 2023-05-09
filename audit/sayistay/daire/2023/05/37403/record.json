@@ -1,0 +1,17 @@
+{
+  "kind": "decision",
+  "issuer": "Sayıştay 6. Dairesi",
+  "number": "910",
+  "decision_date": "2023-05-09",
+  "source_id": 37403,
+  "chamber": "6",
+  "ilam_number": "143",
+  "item_number": 1,
+  "public_body_type": "Genel Bütçe Kapsamındaki İdareler",
+  "account_year": 2020,
+  "subject": "İhale Mevzuatı ile İlgili Kararlar",
+  "source": "https://www.sayistay.gov.tr/KararlarDaire/Detay/37403/",
+  "source_sha256": "9b60ea295cdde2bbc88afa4c75585d1b0821cc77e11c6e943c901c1f6a268f14",
+  "text_status": "as-enacted",
+  "text_file": "metin.md"
+}
