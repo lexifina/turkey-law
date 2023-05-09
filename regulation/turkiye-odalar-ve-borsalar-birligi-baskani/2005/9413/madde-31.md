@@ -1,0 +1,6 @@
+BEŞİNCİ BÖLÜM
+Yevmiye Sistemi, Defterler ve Bunların Kayıt Usulü
+Yevmiye sistemi
+Madde 31 — İşlemler, yevmiye tarih ve sıra numarasına göre ve maddeler halinde yevmiye defterine kaydedilir, buradan da usulüne göre defteri kebir hesaplarına ve yardımcı defterlere sistemli bir şekilde dağıtılır. Kayıtlar mazeretsiz ve sebepsiz olarak on günden fazla geciktirilemez.
+İşlemler muhasebeleştirme belgeleriyle kaydedilir. Belge olmadan kayıt yapılmaz. Nakden yapılan işlemlerde tahsil veya tediye fişi, mahsuben yapılan işlemlerde ise mahsup fişi kullanılır. Fişler türlerine göre ayrıma tabi tutulduktan sonra yevmiye defterine tahsil, tediye ve mahsup fişi sırasına göre kaydedilir. Bir hesabın borcuna kaydedilen tutar mutlaka başka bir hesap ya da hesapların alacağına kaydedilir. Her bir yevmiye maddesi ile yevmiye defterinin borç ve alacak toplamlarının birbirine eşit olması gerekir.
+Her mali yılın sonunda kesin mizanın çıkarılmasını müteakip kesin mizan bakiyeleri esas alınmak ve borç bakiyesi veren hesaplar alacak, alacak bakiyesi veren hesaplar borç kaydedilmek üzere bir mahsup fişi düzenlenerek yevmiye defterinin sonuna kapanış maddesi kaydedilir. Her mali yılın başında ise yevmiye defterinin ilk maddesine kesin mizan bakiyeleri açılış maddesi kaydedilir.

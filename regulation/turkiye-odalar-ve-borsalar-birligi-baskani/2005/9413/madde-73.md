@@ -1,0 +1,2 @@
+Kuruluşta bulunan değerlerin sayımı
+Madde 73 — Kuruluşun kasa, vezne ve ambarlarında bulunan hazır değerler, pul ve değerli kağıtlar, menkul kıymet ve varlıklar ile teminat mektubu gibi değerleri mali yılın son günü itibarıyla muhasebe yetkilisinin başkanlığı altında genel sekreter/şube müdürü tarafından görevlendirilecek personel tarafından sayılır. Dönem sonu işlemleri muhasebe birimi tarafından yapılır.

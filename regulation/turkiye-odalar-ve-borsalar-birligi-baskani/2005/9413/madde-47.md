@@ -1,0 +1,4 @@
+Ödeme makbuzu
+Madde 47 — Ödeme makbuzu, kasadan çıkan paralar için kullanılır. Ödemeler, müsbit evraka dayanılarak yapılır.
+Ödeme makbuzları iki nüsha olarak düzenlenir. Makbuzlar, seri itibarıyla cilt ve sıra numarası taşır. İlk nüsha müsbit evraklarla birlikte tediye fişine eklenir. Sabit nüshası dip koçan olarak saklanır. Makbuz üzerinde paranın niçin verildiği, parayı alanın adı/unvanı ve imzası, verilen paranın yazı ve rakamla miktarı, makbuzu yazanın ve ayrıca yetkililerin imzası ile tarih bulunur.
+Her ödeme karşılığında bir makbuz verilir. Makbuzsuz veya adi bir senet ya da tutanakla ödeme yapılamaz. Müsbit evraka dayanmadan veya makbuz düzenlenmeden ödeme yapılması halinde, bundan doğacak kuruluş zararını harcama belgelerini düzenleyen personel ile bunları tetkik ve imza edenler sorumludur.

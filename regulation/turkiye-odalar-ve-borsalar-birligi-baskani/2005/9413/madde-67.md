@@ -1,0 +1,8 @@
+Burslar
+Madde 67 — (Değişik fıkra: RG-20/07/2007-26588) Odalar, borsalar veya Birlik; yurt içinde orta veya yüksek örgün öğretim veren kurumlarda okuyan veya bu kurumlara girme hakkını elde ederek giriş kaydını yaptıran, maddi desteğe ihtiyacı olan, herhangi bir kurum veya kuruluşta daimî eleman olarak çalışmayan öğrencilere karşılıksız olarak doğrudan veya kurdukları vakıflar aracılığıyla burs verebilir.
+Her yıl kaç öğrenciye burs verileceği ve bursun miktarı oda ve borsalarda meclis, Birlikte ise Genel Kurul tarafından tespit edilir. Genel Kurul bu yetkisini Birlik Yönetim Kuruluna devredebilir. Burs miktarı, Yüksek Öğrenim Kredi ve Yurtlar Kurumu tarafından verilen bursun miktarlarını aşamaz.
+Burs sayısı ve miktarları uygun vasıtalarla ilan olunur. Kimlere burs verileceği yönetim kurulu/Birlik Yönetim Kurulu tarafından, bursun kurulan vakıflar aracılığıyla verilmesi durumunda ise vakıf tarafından belirlenir. Kuruluş personelinin çocuklarına verilecek bursun sayısı toplam burs sayısının yüzde kırkını geçemez.
+Burslar, öğrenciye aylık olarak ödenir. Burs ödeme süresi, yıllık öğrenim süresi olan dokuz aydır.
+Gerçeğe aykırı beyanda bulunduğu tespit edilen, devam etmekte olduğu öğretim kurumunu bitiren, sınıfta kalan, herhangi bir firma veya kuruluşta daimi olarak çalışmaya başlayan, geçici veya sürekli okuldan uzaklaştırma cezası alan öğrencilerin bursu kesilir.
+Burs verilmesine ilişkin diğer usul ve esaslar oda ve borsalarda iç yönergelerle, Birlikte ise Birlik Yönetim Kurulu tarafından çıkarılacak yönergelerle belirlenir.
+Bursun vakıflar aracılığıyla verilmesi durumunda da bu madde hükümleri uygulanır.

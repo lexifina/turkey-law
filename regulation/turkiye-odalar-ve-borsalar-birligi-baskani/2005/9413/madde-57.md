@@ -1,0 +1,2 @@
+Muhasebeyle ilgili belgelerin onaya sunulması
+Madde 57 — Mizan ve bütçe izleme raporu aylık olarak hazırlanır ve izleyen ayda oda ve borsalarda meclisin, şubelerde bağlı bulunduğu oda veya borsa meclisinin onayına sunulmak üzere şube meclisinin, Birlikte ise Birlik Yönetim Kurulunun tetkik ve tasdikine sunulur. Bu belgelerde yer alan gelir ve gider hesaplarına ilişkin ayrıntılı bilgi istenilmesi halinde bunlar da meclisin, şube meclisinin veya Birlik Yönetim Kurulunun bilgisine sunulur.

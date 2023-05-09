@@ -1,0 +1,3 @@
+Kıymetli evrak defteri
+Madde 36 — Kıymetli evrak defteri, alınan çeklerin, iştiraki bulunduğu şirketlere ait tahvil ve hisse senedinin yanı sıra kıymetli ayniyat, banka teminat ve garanti mektubu ile şahsi kefaletlerin kaydına mahsus defterdir. Bu deftere, yönetim kurulu/Birlik Yönetim Kurulu kararıyla devlet tahvili, hazine bonosu gibi menkul kıymet ve varlıklar da kaydedilebilir.
+(Ek fıkra:RG-20/1/2021-31370) Kıymetli evrakın muhasebe kayıtlarında ayrı ayrı gösterilmesi ve bu evraka ilişkin detaylı hesap dökümünün anlık olarak alınabilmesi halinde, birinci fıkrada öngörülen defterin tutulması ihtiyaridir.

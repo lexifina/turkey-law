@@ -1,0 +1,2 @@
+Gelir tahmini
+Madde 17 — Bütçenin gelir tahmini, kesin sonucu alınmış son üç yılın gelir artış oranları esas alınarak yapılır. Ayrıca, bütçenin uygulanacağı mali yıl içinde kanunlarla aidat veya ücret oranlarında değişiklik yapılmışsa veya yapılan yatırımlardan gelir elde edinmeye başlanılmışsa ya da herhangi bir nedenle gelirlerde artış meydana gelecekse bu ve benzeri hususlar ile tahakkuk ettirildiği yıl içinde tahsil edilemeyen ve sonraki yıllara devreden alacaklardan, cari yıl içinde tahsili tahmin edilenler gelir tahminlerinde dikkate alınır.

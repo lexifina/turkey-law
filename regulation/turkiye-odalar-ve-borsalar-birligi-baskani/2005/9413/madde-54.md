@@ -1,0 +1,3 @@
+Gider pusulası
+Madde 54 — Gider pusulası, kazançları götürü usulde tespit olunan tüccara, serbest meslek erbabına ve vergiden muaf esnafa yaptırılan işler veya onlardan satın alınan emtia için işi yapana veya emtiayı satana imza ettirilerek tanzim edilen belgedir.
+Gider pusulası üç nüsha olarak düzenlenir ve seri itibarıyla cilt ve sıra numarası taşır. İlk nüsha, işi yapana veya emtiayı satana verilir. İkinci nüsha ödeme makbuzuna eklenir. Sabit nüshası dip koçan olarak saklanır. Gider pusulasının üzerinde işin mahiyeti, emtianın cinsi, nevi, miktar ve bedeli, iş ücreti, işi yapan veya emtiayı satanın adı, adresi, imzası ile tarih bulunur.

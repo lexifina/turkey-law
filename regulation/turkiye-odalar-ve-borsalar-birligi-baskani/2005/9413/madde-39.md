@@ -1,0 +1,4 @@
+Defterlere kayıt usulü
+Madde 39 — Muhasebeye ilişkin defter ve kayıtların; Türkçe olarak tutulması ve mürekkeple veya elektronik cihazlarla yazılması zorunludur.
+Yevmiye defteri maddelerinde yapılan yanlışlıklar ancak muhasebe usulüne göre düzeltilir. Diğer defter ve kayıtlara rakam ve yazılar yanlış yazıldığı takdirde, düzeltmeler ancak yanlış rakam ve yazı okunacak şekilde çizilmek, üste veya yan tarafına veyahut ilgili bulunduğu hesaba doğrusu yazılmak suretiyle yapılır.
+Defterlere geçirilen bir kayıt kazınmak, çizilmek veya silinmek suretiyle okunamaz bir hale getirilemez. Defterlerde, kayıtlar arasında usulen yazılmaya mahsus olan satırlar, çizilmeksizin boş bırakılamaz ve atlanamaz. Ciltli defterlerde, defter sayfaları koparılamaz. Tasdikli müteharrik yapraklarda bu yaprakların sırası bozulamaz ve bunlar yırtılamaz.

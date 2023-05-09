@@ -1,0 +1,3 @@
+Hazırlık bütçesinin yönetim kurulunda görüşülmesi
+Madde 24 — Yönetim kurulu/Birlik Yönetim Kurulu, kendisine sunulan hazırlık bütçesini inceler ve aynen veya gerekli değişikleri yaparak kabul eder.
+Oda ve borsa bütçe tasarıları ile bunların şubelerine ait bütçe tasarıları Aralık ayı meclis toplantısında görüşülmek üzere yönetim kurulu başkanı tarafından toplantı gününden en az iki hafta önce meclise, Birlik bütçe tasarısı ise Mayıs ayı Genel Kurul toplantısında görüşülmek üzere Birlik Başkanı tarafından toplantı gününden en az iki hafta önce Genel Kurula sunulur. Sunulma işlemi, bütçenin meclis/Genel Kurul başkanlığına bir yazıyla verilmesi suretiyle yapılır.

@@ -1,0 +1,4 @@
+Sabit kıymetler defteri
+Madde 35 — Sabit kıymetler defteri, arazi ve arsalar, binalar, her türlü makine, tesis, cihaz ve aletler, taşıtlar, demirbaşlar ve diğer maddi duran varlıkların alım tarihini, cinsini, maliyet bedellerini ve adetlerini gösteren defterdir.
+Deftere kaydedilen her sabit kıymete bir numara verilir. Sabit kıymet numaraları sırayla teselsül eder. Her serviste veya odada kullanılan sabit kıymetlerin bir listesi çıkarılarak ilgili servis veya odanın görünür bir tarafına asılır ve bunlar personele zimmet karşılığında teslim edilir. (Ek cümle:RG-20/1/2021-31370) Kullanılan demirbaşların bulunduğu yerin defter kayıtlarında belirtilmesi halinde, bu demirbaşlara ilişkin liste oluşturulması ve ilgili yerlere asılması yükümlülüğü aranmaz.
+Muhasebe kayıtlarından düşürülen sabit kıymetlerin karşısına gerekli açıklamalar yapılır.

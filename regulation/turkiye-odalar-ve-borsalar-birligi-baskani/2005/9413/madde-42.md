@@ -1,0 +1,3 @@
+Mizan
+Madde 42 — Mizan; yevmiye defteri ve defteri kebir ile yardımcı defterlerden yararlanılarak ayrıntılı olarak ve ana hesap bazında her ayın ve hesap döneminin sonunda düzenlenen tablodur. Mizanda, her hesabın borç ve alacak sütunlarının toplamı, defteri kebir ve diğer yardımcı defterlerdeki borç ve alacak toplamlarına ve borç sütunu toplamı ile alacak sütunu toplamının birbirine eşit olması gerekir.
+Dönem sonu işlemleri yapılmadan önce bir geçici mizan çıkarılır ve bunu takiben dönem sonu işlemleri yapılır. Dönem sonu işlemleri yapıldıktan sonra kesin mizan düzenlenir. Kesin mizanda, gelir ve gider hesapları bakiye vermez.

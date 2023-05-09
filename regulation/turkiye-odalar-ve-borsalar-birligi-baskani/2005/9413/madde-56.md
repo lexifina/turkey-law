@@ -1,0 +1,4 @@
+Muhasebeyle ilgili belgelerin kayıt usulü ve muhafazası
+Madde 56 — Muhasebeye ilişkin mali tablo, makbuz, fiş ve belgelerin; Türkçe olarak tutulması ve mürekkeple veya elektronik cihazlarla yazılması zorunludur.
+(Değişik fıkra:RG-20/1/2021-31370) Mali tablo, makbuz, fiş ve belgeler muhasebe birimi tarafından tutulur ve muhafaza olunur. Tahsil, tediye ve mahsup fişleri ile eklerinin muhafazası, her gün için ayrı ayrı düzenlenecek dosyaya konulmak suretiyle yapılır. Alındı makbuzları, veznedara, tahsildara veya tahsilat ile görevlendirileceklere zimmet karşılığında verilir. Yeni makbuzlar verilirken kullanılmış olanlar geri alınır.
+Alındı ve ödeme makbuzu, tahsil, tediye ve mahsup fişi ile gider pusulası üzerinde kazıntı ve silinti yapılamaz. Yanlış tanzim edilenler üzerine geçerli açıklama yapılmak suretiyle iptal edilir ve dip koçanlarıyla birlikte muhafaza edilir.

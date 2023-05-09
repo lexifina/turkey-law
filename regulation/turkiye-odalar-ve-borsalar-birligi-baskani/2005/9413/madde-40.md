@@ -1,0 +1,5 @@
+Defterlerin tasdiki
+Madde 40 — Yevmiye defteri, kullanılmaya başlanmadan önce notere tasdik ettirilir. Ayrıca, ertesi yılda kullanılmak istenen yevmiye defterleri her mali yılın ilk ayı içinde notere ibraz edilerek tasdiki yeniletilir.
+Yevmiye defteri dışında kalan diğer defterler, kullanılmaya başlanmadan önce sayfa numaraları verilmek ve kaç sayfadan ibaret olduğu belirtilmek suretiyle oda ve borsalarda yönetim kurulu, şubelerde şube yönetim kurulu ve Birlikte ise Birlik Yönetim Kurulu tarafından onaylanır. Bu defterlerin her sayfası mühürlenerek genel sekreter/şube müdürü tarafından paraflanır. Bu defterlerin elektronik ortamda tutulması halinde kullanılacak müteharrik yapraklarda aynı usulle tasdik olunur.
+Yevmiye dışında kalan defterlerin de notere tasdik ettirilerek kullanılması mümkündür.
+(Ek fıkra:RG-20/1/2021-31370) Yevmiye defteri kapanış onayına tabidir. Kapanış tasdiki, izleyen yılın Haziran ayının sonuna kadar noterce veya oda ve borsalarda yönetim kurulu, şubelerde şube yönetim kurulu ve Birlikte ise Birlik Yönetim Kurulu tarafından yapılır.
