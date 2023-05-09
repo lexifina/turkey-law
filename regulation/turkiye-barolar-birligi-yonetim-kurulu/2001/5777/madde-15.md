@@ -1,0 +1,2 @@
+Engel Durumlar
+Madde 15 — Yanında staj yapılacak avukat hakkında avukatlığa engel bir suçtan dolayı son soruşturma açılmasına karar verilmemiş olması veya avukatın geçmiş beş yıl içinde Disiplin Kurulunca verilmiş kesinleşmiş bir kararla para veya işten çıkarma cezalarından biri ile cezalandırılmamış olması gerekir. Yanında staj yapılmakta olan avukatın, Avukatlık Kanununun 153 üncü maddesi gereği Disiplin Kurulu kararı ile tedbir mahiyetinde işten yasaklanması halinde, Baro Başkanı stajyerin hangi avukatın yanında staja devam edeceğine karar verir.

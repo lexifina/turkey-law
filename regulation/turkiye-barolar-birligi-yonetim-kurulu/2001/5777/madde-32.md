@@ -1,0 +1,3 @@
+Staj Listesinden Silinme
+Madde 32 — Avukatlık stajı için Avukatlık Kanununun ve Yönetmeliğin öngördüğü şart ve nitelikleri yitirenler, esasen bu şart ve niteliklere sahip olmadıkları staja başladıktan sonra anlaşılanlar, staj listesinden silinme isteminde bulunanlar, stajın kesintisiz yapılacağı kuralına uymayanlar, meslek kurallarına ve Yönetmelik ile belirlenen esaslara yazılı uyarıya rağmen uymamakta ısrar gösterenlerin adı, Baro Yönetim Kurulu kararı ile staj listesinden silinir.
+Baro Yönetim Kurulunun listeden silmeye dair kararı ile stajyerin itirazı konusunda Avukatlık Kanununun 71 inci maddesindeki usul uygulanır.

@@ -1,0 +1,4 @@
+Staj Eğitiminin Temel İlke ve Yöntemleri
+Madde 23 — Avukatlık stajının bu Yönetmeliğin amaç maddesine uygun bir şekilde yapılabilmesi, stajyerin avukatlık hukuku ve meslek kuralları bilgilerini edinebilmesi, hukuk kurallarını somut olaylara uygulayabilme yeterliliklerini arttırma avukatlık staj eğitiminin temel ilkesidir.
+Bu ilke doğrultusunda staj eğitim birimlerinde bir yıllık avukatlık stajı süresi içinde önceden hazırlanan ve duyurulan yıllık eğitim programı dahilinde en az (120) saatlik bir staj eğitimi verilir. Bu eğitim süresinin en az (60) saati düzenli olarak meslek ilke ve kuralları ile uygulamada avukat konularına ayrılır.
+Bunların dışında Barolar, staj eğitiminin nasıl yapılacağını, hangi konulardan oluşacağını yörelerinin de özelliklerini göz önüne alarak, çıkaracakları iç Yönetmelikte gösterirler. Ayrıca seminer çalışmaları yapılır. Panel, sempozyum gibi kültürel etkinlikler düzenlenir.

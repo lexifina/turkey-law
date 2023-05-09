@@ -1,0 +1,2 @@
+Stajın Nakli
+Madde 31 — Stajın nakli mümkündür. Bu konuda Avukatlık Kanununun 68, 69 ve 70 inci maddelerinin, staja aykırı düşmeyen kuralları uygulanır. Nakil ile gelinen Baroda staj eğitimini kısmen veya tamamen aldığı anlaşılan stajyerin staj eğitiminden kısmen veya tamamen muaf tutulması mümkündür. (Ek cümle:RG-9/5/2023-32185) Stajyer nakil geldiği baroda tamamlamamış ise 23 üncü maddede öngörülen zorunlu ders saatini tamamlamakla yükümlüdür.

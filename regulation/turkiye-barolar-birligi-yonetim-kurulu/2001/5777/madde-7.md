@@ -1,0 +1,2 @@
+İlan
+Madde 7 — Başvurma dilekçesinin kabulü ve işlemlerin tamamlanmasından sonra stajyer adayının isteği ilan edilir. İlanın, işlemlerin tamamlanmasından itibaren en geç on gün içinde yapılması gerekir. İlan süresi onbeş gündür. İlan, fotoğraflı bir yazının Baronun ve Adalet Komisyonunun bulunduğu adliye binasının uygun bir yerine asılmak suretiyle yapılır. İlanın asıldığı ve indirildiği günler Baro tarafından bir tutanakla tespit edilir.

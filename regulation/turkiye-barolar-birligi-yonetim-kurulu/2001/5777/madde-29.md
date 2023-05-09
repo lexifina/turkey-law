@@ -1,0 +1,3 @@
+Staj Eğitiminin Tamamlanması
+Madde 29 — (Değişik:RG-9/5/2023-32185)
+Staj eğitiminin tamamlanmasından sonra stajyere staj eğitimi bitirme belgesi verilir. Bu belgenin verilmesi için; stajyerin eğitim programına katılmış olması gerekir. Ayrıca stajyerin, katıldığı zorunlu ve seçimlik eğitim çalışmalarından yazılı sözlü anlatım, hukuksal niteleme, meslek ilke ve kurallarına uygunluk yönünden başarılı bulunmuş, bireysel çalışma raporunun kabul edilmiş, avukatlığı mesleğin saygınlığına ve bu Yönetmeliğin amaç maddesinde yer alan ilkelere uygun olarak yapacağına yönelik kanaat uyandırmış olması gerekir.
