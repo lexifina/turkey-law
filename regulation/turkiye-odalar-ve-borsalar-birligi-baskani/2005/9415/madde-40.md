@@ -1,0 +1,2 @@
+Birliğe bildirim
+Madde 40 — Borsalarca tespit edilen fire, zayiat ve randıman oranları ile uyulması zorunlu mesleki kararlar ve Bakanlıkça onaylanan örf, adet ve teamüller ilgili borsa tarafından Birliğe bildirilir. Birliğe bildirilen bu hususlar, talep halinde borsaların veya ilgililerin kullanımına sunulmak üzere Birlik tarafından muhafaza edilir. Ayrıca bu hususlar, Birlik tarafından elektronik ortama aktarılmak suretiyle de kullanılabilir.

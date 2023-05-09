@@ -1,0 +1,2 @@
+Mücbir sebep belgesi
+Madde 29 — Sorumlu veya borçlunun faaliyet ve işletmesi dışında meydana gelen, tamamen dış etkenlerin eseri olan, aşılması, kaçınılması imkansız bulunan, önceden tahmin edilemeyen ve genel bir davranış normunu veya borcun ifasını mutlak olarak imkansız hale getiren nedenlerden dolayı ilgilinin talebi üzerine yapılacak veya eksperlere yaptırılacak inceleme sonucuna göre mücbir sebep belgesi verilir.

@@ -1,0 +1,5 @@
+Hizmet standartları
+Ek Madde 1 – (Ek:RG-11/12/2010-27782) (Başlığı ile Birlikte Değişik:RG-20/1/2021-31370)
+Borsaların görevleri kapsamında yapacakları her türlü işlemde başvuru sahiplerinden talep edilen belgelerden, borsa bünyesinde bulunan belgeler ile kurum ve kuruluşların altyapıları kullanılarak elektronik ortamda erişilebilen bilgilere yönelik belgeler talep edilmez.
+29/6/2009 tarihli ve 2009/15169 sayılı Bakanlar Kurulu Kararıyla yürürlüğe konulan Kamu Hizmetlerinin Sunumunda Uyulacak Usul ve Esaslara İlişkin Yönetmelik hükümleri uyarınca oluşturulan borsa hizmet standartları, mevzuat değişiklikleri doğrultusunda güncel olarak tutulur. Bu standartlara uygun şekilde, ilgililerin başvurusunu alma ve bilgi talebini karşılama, süreçleri takip etme ve sonuçlandırma, yazılı ve sesli bilgilendirme faaliyetlerinde bulunma işlemlerinin, mevcut veri tabanlarına uyumlu bir biçimde elektronik ortamda da gerçekleştirilmesi sağlanır.
+Hizmet standartlarında yer alan görevlerin ifası ve bunların elektronik ortamda sunulması hususunda personele gerekli eğitimler verilir.

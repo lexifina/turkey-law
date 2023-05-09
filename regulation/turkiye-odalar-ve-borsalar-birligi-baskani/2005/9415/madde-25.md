@@ -1,0 +1,3 @@
+Müşterek toplantılar
+Madde 25 — Meslek komitelerinin tamamı, yönetim kurulu başkanının, yokluğunda yetkilendirdiği yardımcısının bu Yönetmeliğin 17 nci maddesine uygun olarak yapacağı çağrı üzerine yönetim kurulunun da katılımıyla her yılın Mart ve Eylül aylarında olmak üzere altı ayda bir müştereken toplanır. Bu toplantıya yönetim kurulu başkanı, yokluğunda yetkilendirdiği yardımcısı başkanlık eder.
+Müşterek toplantılarda toplantı nisabı aranmaz. Kararlar toplantıya katılanların oy çokluğuyla alınır. Alınan kararlar bir tutanağa bağlanır. Tavsiye niteliğindeki bu kararlar, ilk yönetim kurulu veya meclis toplantısında görüşülür.

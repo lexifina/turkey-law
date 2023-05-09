@@ -1,0 +1,4 @@
+Defterlere kayıt usulü
+Madde 62 — Muamelata ilişkin defter ve kayıtların; Türkçe olarak tutulması ve mürekkeple veya elektronik cihazlarla yazılması zorunludur.
+Organ karar defterlerinde yapılan yanlışlıklar bir sonraki toplantıda alınacak kararla düzeltilir. Bu defterler dışında kalan defter ve kayıtlarda yanlışlık yapılması halinde, düzeltmeler ancak yanlışlığın okunacak şekilde çizilmesi ve üstüne veya yan tarafına doğrusu yazılması suretiyle yapılabilir.
+Defterlere geçirilen bir kayıt kazınmak, çizilmek veya silinmek suretiyle okunamaz bir hale getirilemez. Defterlerde, kayıtlar arasında usulen yazılmaya mahsus olan satırlar, çizilmeksizin boş bırakılamaz ve atlanamaz. Ciltli defterlerde, defter sayfaları koparılamaz. Tasdikli müteharrik yapraklarda bu yaprakların sırası bozulamaz ve bunlar yırtılamaz.

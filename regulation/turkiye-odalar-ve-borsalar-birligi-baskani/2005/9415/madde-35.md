@@ -1,0 +1,2 @@
+Diğer belge ve hizmetler
+Madde 35 — Borsalar ve bunların şubeleri, borsaya dahil mallar ve borsa işlemleriyle ilgili olmak şartıyla, Kanunda ve ilgili yönetmeliklerde düzenlenmiş olan belgeler dışında üyelerinin talep ettiği diğer belgeleri düzenleyebilir veya onaylayabilir ve diğer hizmetleri verebilir. (Ek cümle:RG-20/1/2021-31370) Bu çerçevedeki belge onayları, yalnızca ilgilinin borsa üyesi olduğu hususundan ibaret olup, bu işlem söz konusu ibareler kullanılmak suretiyle yapılır.

@@ -1,0 +1,5 @@
+Bültenler
+Madde 72 — Günlük fiyat tespitlerini ihtiva eden istatistik cetvellerine veya elektronik çıktılara dayanılarak günlük bültenler çıkarılır. Günlük bültenlerde, gün içerisinde işlem gören muamelelerin bu Yönetmeliğin (Değişik ibare:RG-20/1/2021-31370) 71 inci maddesine göre tespit edilen günlük fiyatları ile bedel ve miktar toplamları gösterilir.
+Günlük bültendeki bilgilerin birleştirilmesi ile haftalık borsa bülteni, aylık borsa bülteni ve yıllık borsa bülteni çıkarılır.
+Günlük ve haftalık borsa bültenlerine her yıl birden başlamak üzere sayı verilir. Günlük borsa bültenine o günün tarihi, haftalık borsa bültenine haftanın başlangıç ve bitiş tarihleri, aylık borsa bültenine hangi yıl ve aya ait olduğu ve yıllık borsa bültenlerine hangi yıla ait olduğu yazılır.
+Bültenlerde satış şekilleri hazır mal peşin tediye esasına dayalı muameleler (H), vadeli muameleler (V), özel şartlı muameleler (HŞ) ve alivre alım satımlara ilişkin muameleler (A) harfleri ile simgelenir, destekleme alımı ve tanzim satışı yapan müesseselerin ise isimleri yazılır.

@@ -1,0 +1,2 @@
+İtiraz
+Madde 11 — Üyeler, talep üzerine yapılan kayıtlarda tespit olunan derecelere dair kararlara, resen yapılan kayıtlarda ise kayda ve/veya derecelere ilişkin kararlara karşı Kayıt Ücreti ile Yıllık Aidat ve Munzam Aidatın Tespiti ve Ödenmesi Hakkında Yönetmeliğin 15 inci maddesi çerçevesinde; dahil edildiği meslek grubuna ilişkin kararlara karşı da Ticaret Borsalarında Mesleklerin Gruplandırılması Hakkında Yönetmeliğin 9 uncu maddesi çerçevesinde itiraz edebilir.
