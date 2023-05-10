@@ -1,0 +1,31 @@
+{
+  "source_id": "7.5.40182",
+  "kind": "regulation",
+  "register_kind": "Kurum ve Kuruluş Yönetmelikleri",
+  "title": "ULUDAĞ ALAN BAŞKANLIĞI HİZMET BİRİMLERİ ÇALIŞMA USUL VE ESASLARI HAKKINDA YÖNETMELİK",
+  "number": "40182",
+  "issuer": "Kültür ve Turizm Bakanı",
+  "issuer_slug": "kultur-ve-turizm-bakani",
+  "path": "regulation/kultur-ve-turizm-bakani/2023/40182",
+  "source": "https://www.mevzuat.gov.tr/anasayfa/MevzuatFihristDetayIframe?MevzuatTur=7&MevzuatNo=40182&MevzuatTertip=5",
+  "source_sha256": "a7b60b2efabcc973ec6afc9cf5a58c81419ecfc26710daca716117b769f3333e",
+  "source_bytes": 28207,
+  "published": "2023-05-10",
+  "gazette": "32186",
+  "in_force": "2023-05-10",
+  "in_force_basis": "Resmî Gazete publication date in the official listing (10.05.2023); own commencement article: \"Bu Yönetmelik yayımı tarihinde yürürlüğe girer\"",
+  "commencement_clauses": [
+    "Bu Yönetmelik yayımı tarihinde yürürlüğe girer"
+  ],
+  "history": "current-text",
+  "label": "oldest version available",
+  "checked_on": "2026-11-15",
+  "word_count": 1212,
+  "text_status": "current-consolidated",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  },
+  "completeness": "html-text-complete"
+}
