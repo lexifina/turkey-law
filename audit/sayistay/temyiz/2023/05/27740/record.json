@@ -1,0 +1,16 @@
+{
+  "kind": "decision",
+  "issuer": "Sayıştay Temyiz Kurulu",
+  "number": "55147",
+  "decision_date": "2023-05-10",
+  "source_id": 27740,
+  "chamber": "7",
+  "file_number": "52909",
+  "public_body_type": "Belediyeler ve Bağlı İdareler",
+  "account_year": "2019",
+  "subject": "Personel Mevzuatı ile İlgili Kararlar",
+  "source": "https://www.sayistay.gov.tr/KararlarTemyiz/Detay/27740/",
+  "source_sha256": "b5760087dc7751db4212ceea05c7f3b03e5883fe111b3e2e61b1d89bef68df80",
+  "text_status": "as-enacted",
+  "text_file": "metin.md"
+}
