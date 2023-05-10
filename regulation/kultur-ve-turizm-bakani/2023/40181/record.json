@@ -1,0 +1,31 @@
+{
+  "source_id": "7.5.40181",
+  "kind": "regulation",
+  "register_kind": "Kurum ve Kuruluş Yönetmelikleri",
+  "title": "ULUDAĞ ALAN BAŞKANLIĞI DANIŞMA KURULU YÖNETMELİĞİ",
+  "number": "40181",
+  "issuer": "Kültür ve Turizm Bakanı",
+  "issuer_slug": "kultur-ve-turizm-bakani",
+  "path": "regulation/kultur-ve-turizm-bakani/2023/40181",
+  "source": "https://www.mevzuat.gov.tr/anasayfa/MevzuatFihristDetayIframe?MevzuatTur=7&MevzuatNo=40181&MevzuatTertip=5",
+  "source_sha256": "c37e07b064b2bf9222191e0d77c9f9429a0e4395afa890498a67949a90afa33e",
+  "source_bytes": 17014,
+  "published": "2023-05-10",
+  "gazette": "32186",
+  "in_force": "2023-05-10",
+  "in_force_basis": "Resmî Gazete publication date in the official listing (10.05.2023); own commencement article: \"Bu Yönetmelik yayımı tarihinde yürürlüğe girer\"",
+  "commencement_clauses": [
+    "Bu Yönetmelik yayımı tarihinde yürürlüğe girer"
+  ],
+  "history": "current-text",
+  "label": "oldest version available",
+  "checked_on": "2026-11-15",
+  "word_count": 496,
+  "text_status": "current-consolidated",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  },
+  "completeness": "html-text-complete"
+}
