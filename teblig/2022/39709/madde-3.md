@@ -1,0 +1,2 @@
+Dayanak
+MADDE 3- (1) Bu Tebliğ; 8/9/1983 tarihli ve 2886 sayılı Devlet İhale Kanunu, 14/3/2013 tarihli ve 6446 sayılı Elektrik Piyasası Kanununun 14 üncü maddesi, 1 sayılı Cumhurbaşkanlığı Teşkilatı Hakkında Cumhurbaşkanlığı Kararnamesinin 101 inci maddesi, 19/6/2007 tarihli ve 26557 sayılı Resmî Gazete’de yayımlanan Hazine Taşınmazlarının İdaresi Hakkında Yönetmelik ile 12/5/2019 tarihli ve 30772 sayılı Resmî Gazete’de yayımlanan Elektrik Piyasasında Lisanssız Elektrik Üretim Yönetmeliğine dayanılarak hazırlanmıştır.

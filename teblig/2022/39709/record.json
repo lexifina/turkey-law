@@ -1,0 +1,37 @@
+{
+  "checked_on": "2026-11-15",
+  "commencement_quote": "Bu Tebliğ yayımı tarihinde yürürlüğe girer",
+  "date_gazette": "32186",
+  "date_quote": "RG-10/5/2023-32186",
+  "first_law": null,
+  "gazette": "31949",
+  "history": "current-text",
+  "images": {
+    "deferred": 0,
+    "omitted": 0,
+    "referenced": 0,
+    "source": 0
+  },
+  "in_force": "2023-05-10",
+  "in_force_basis": "Latest source-printed RG amendment date for current text: RG-10/5/2023-32186; own commencement clause: Bu Tebliğ yayımı tarihinde yürürlüğe girer",
+  "issuer": "Çevre, Şehircilik ve İklim Değişikliği Bakanlığı",
+  "issuer_catalog_evidence": [
+    {
+      "evidence": "issuer-82-0.json",
+      "id": "82",
+      "label": "Çevre, Şehircilik ve İklim Değişikliği Bakanlığı",
+      "listing_url": "https://www.mevzuat.gov.tr/Anasayfa/MevzuatDatatable?MevzuatTur=Teblig&KurumId=82&start=0&length=100"
+    }
+  ],
+  "issuer_slug": "cevre-sehircilik-ve-iklim-degisikligi-bakanligi",
+  "kind": "communique",
+  "label": "oldest version available",
+  "notes": [],
+  "published": "2022-09-10",
+  "source": "https://www.mevzuat.gov.tr/anasayfa/MevzuatFihristDetayIframe?MevzuatTur=9&MevzuatNo=39709&MevzuatTertip=5",
+  "source_bytes": 65590,
+  "source_id": "9.5.39709",
+  "source_sha256": "2a4e1ed28e6ab49e9e0db202a1814a5d20847fd573c65b92674532c7393f62bb",
+  "title": "MİLLİ EMLAK GENEL TEBLİĞİ (SIRA NO: 412)",
+  "word_count": 2852
+}
