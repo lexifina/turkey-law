@@ -1,0 +1,16 @@
+{
+  "kind": "decision",
+  "issuer": "Sayıştay Temyiz Kurulu",
+  "number": "55007",
+  "decision_date": "2023-05-10",
+  "source_id": 27728,
+  "chamber": "2",
+  "file_number": "52289",
+  "public_body_type": "Yüksek Öğretim Kurumları",
+  "account_year": "2015",
+  "subject": "Personel Mevzuatı ile İlgili Kararlar",
+  "source": "https://www.sayistay.gov.tr/KararlarTemyiz/Detay/27728/",
+  "source_sha256": "c9faac0a906afacd45d45bd65c7a50401031b38ea8a48c0c644d55e836e43e79",
+  "text_status": "metadata-only",
+  "metadata_only_reason": "possible personal name in the official text"
+}
