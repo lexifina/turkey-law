@@ -1,0 +1,17 @@
+{
+  "kind": "decision",
+  "issuer": "Sayıştay 5. Dairesi",
+  "number": "605",
+  "decision_date": "2023-05-11",
+  "source_id": 37369,
+  "chamber": "5",
+  "ilam_number": "294",
+  "item_number": 1,
+  "public_body_type": "Belediyeler ve Bağlı İdareler",
+  "account_year": 2016,
+  "subject": "İhale Mevzuatı ile İlgili Kararlar",
+  "source": "https://www.sayistay.gov.tr/KararlarDaire/Detay/37369/",
+  "source_sha256": "12682791efc230d0aed141623339231d4348657574b87e81f479c803a2591ce6",
+  "text_status": "metadata-only",
+  "metadata_only_reason": "possible personal name in the official text"
+}
