@@ -1,0 +1,25 @@
+{
+  "kind": "norm",
+  "issuer": "Enerji Piyasası Düzenleme Kurumu",
+  "market": "electricity",
+  "document_type": "board-decision",
+  "number": "11846",
+  "decision_date": "2023-05-11",
+  "title": "Cumhurbaşkanı Kararı ile olağanüstü hal kararı alınan ve/veya afet bölgesi ilan edilen şehirlere ilişkin 11827 sayılı Kurul Kararı’nın yürürlükten kaldırılmasına",
+  "resmi_gazete_date": "2023-05-12",
+  "resmi_gazete_number": "32188",
+  "categories": [
+    "Elektrik Piyasası Tarife Kurul Kararları"
+  ],
+  "source": "https://www.epdk.gov.tr/Detay/DownloadDocument?id=M+OmFIS5kIM=",
+  "documents": [
+    "https://www.epdk.gov.tr/Detay/DownloadDocument?id=M+OmFIS5kIM="
+  ],
+  "source_sha256": "e41c67f8399536162b38b7dd59e1a9d780d37680e72e80ef84358757e5e5ed8f",
+  "official_list": "https://www.epdk.gov.tr/Detay/Icerik/3-0-39/kurul-kararlari-",
+  "official_list_leaf": 14713,
+  "text_status": "as-enacted",
+  "text_file": "metin.md",
+  "in_force": "2023-05-11",
+  "law_text_complete": true
+}
