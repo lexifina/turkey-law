@@ -1,0 +1,17 @@
+{
+  "kind": "decision",
+  "issuer": "Sayıştay 3. Dairesi",
+  "number": "453",
+  "decision_date": "2023-05-11",
+  "source_id": 37662,
+  "chamber": "3",
+  "ilam_number": "144",
+  "item_number": 12,
+  "public_body_type": "Belediyeler ve Bağlı İdareler",
+  "account_year": 2021,
+  "subject": "İş Mevzuatı ile İlgili Kararlar",
+  "source": "https://www.sayistay.gov.tr/KararlarDaire/Detay/37662/",
+  "source_sha256": "9132bf4f49ed29cd49b97271b10f4e6a175a8827ac434186d5d068239851e936",
+  "text_status": "metadata-only",
+  "metadata_only_reason": "possible personal name in the official text"
+}
