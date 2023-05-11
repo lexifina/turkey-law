@@ -1,0 +1,45 @@
+{
+  "source_id": "9.5.24810",
+  "kind": "communique",
+  "register_kind": "Tebliğler",
+  "title": "İTHALATTA HAKSIZ REKABETİN ÖNLENMESİNE İLİŞKİN TEBLİĞ (TEBLİĞ NO: 2018/29)",
+  "number": "24810",
+  "issuer": "Ticaret Bakanı",
+  "path": "teblig/2018/24810",
+  "source": "https://www.mevzuat.gov.tr/anasayfa/MevzuatFihristDetayIframe?MevzuatTur=9&MevzuatNo=24810&MevzuatTertip=5",
+  "source_sha256": "6a80bc0ba5f616dc2733ae4e36e43c81ac6011a454bc4eef0311457514f866ab",
+  "source_bytes": 35380,
+  "published": "2018-09-08",
+  "gazette": "30529",
+  "in_force": "2023-05-11",
+  "in_force_basis": "latest Resmî Gazete date printed in the source amendment notes/table (\"RG-11/5/2023\") for the current consolidated text",
+  "date_evidence": [
+    [
+      "2023-05-11",
+      "RG-11/5/2023",
+      "Resmî Gazete date printed in the source amendment note"
+    ],
+    [
+      "2023-05-11",
+      "11/5/2023",
+      "Resmî Gazete date in the source amendment table"
+    ]
+  ],
+  "commencement_clauses": [
+    "Bu Tebliğ yayımı tarihinde yürürlüğe girer"
+  ],
+  "history": "current-text",
+  "label": "oldest version available",
+  "checked_on": "2026-11-15",
+  "word_count": 550,
+  "text_status": "current-consolidated",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  },
+  "source_links": [
+    "9.5.24810-Ek.docx"
+  ],
+  "completeness": "html-text-complete; linked annexes not fetched"
+}
