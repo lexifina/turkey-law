@@ -1,0 +1,55 @@
+{
+  "source_id": "7.5.16038",
+  "kind": "regulation",
+  "register_kind": "Kurum ve Kuruluş Yönetmelikleri",
+  "title": "YERALTI SULARININ KİRLENMEYE VE BOZULMAYA KARŞI KORUNMASI HAKKINDA YÖNETMELİK",
+  "number": "16038",
+  "issuer_slug": "kurum-ve-kurulus",
+  "path": "regulation/kurum-ve-kurulus/2012/16038",
+  "source": "https://www.mevzuat.gov.tr/anasayfa/MevzuatFihristDetayIframe?MevzuatTur=7&MevzuatNo=16038&MevzuatTertip=5",
+  "source_sha256": "b80de065a5f31c62d274dcfc2d6637018695bc03f5ce889a82a862724a44fd81",
+  "source_bytes": 79762,
+  "published": "2012-04-07",
+  "gazette": "28257",
+  "in_force": "2023-05-12",
+  "in_force_basis": "latest Resmî Gazete date printed in the source amendment notes/table (\"RG-12/5/2023\") for the current consolidated text",
+  "date_evidence": [
+    [
+      "2023-05-12",
+      "RG-12/5/2023",
+      "Resmî Gazete date printed in the source amendment note"
+    ],
+    [
+      "2023-05-12",
+      "12/5/2023",
+      "Resmî Gazete date in the source amendment table"
+    ],
+    [
+      "2015-05-22",
+      "RG-22/5/2015",
+      "Resmî Gazete date printed in the source amendment note"
+    ],
+    [
+      "2015-05-22",
+      "22/5/2015",
+      "Resmî Gazete date in the source amendment table"
+    ]
+  ],
+  "commencement_clauses": [
+    "Bu Yönetmelik yayımı tarihinde yürürlüğe girer"
+  ],
+  "history": "current-text",
+  "label": "oldest version available",
+  "checked_on": "2026-11-15",
+  "word_count": 4370,
+  "text_status": "current-consolidated",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  },
+  "source_links": [
+    "7.5.16038%20ek.doc"
+  ],
+  "completeness": "html-text-complete; linked annexes not fetched"
+}

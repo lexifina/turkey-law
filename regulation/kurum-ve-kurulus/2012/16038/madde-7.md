@@ -1,0 +1,6 @@
+Yeraltı suyu kimyasal durumunun değerlendirilmesi ve eşik değerlerin belirlenmesi için kriterler
+MADDE 7 – (1) (Değişik:RG-22/5/2015-29363) Yeraltı sularının kimyasal durumu, Ek-1’e göre, Ek-2’de yer alan YAS kalite standartları ve Ek-3’e göre belirlenen eşik değerler esas alınarak değerlendirilir.
+(2) YAS iyi kimyasal durumunun tanımlanması maksadıyla kullanılacak olan YAS kalite standartları ve eşik değerler, SYGM tarafından belirlenir.
+(3) (Değişik:RG-22/5/2015-29363) İyi kimyasal durumu tanımlayan Ek-1’deki tabloda belirtilen değerlendirme için, Ek-2’de yer alan YAS kalite standartları ve Ek-3’e göre belirlenen eşik değerler kullanılır.
+(4) İyi kimyasal durumda olan yeraltı suyuna uygulanabilir eşik değerlerin belirlenmesinde, YAS kütlesinin korunması esas alınır. Eşik değerlerin belirlenmesinde toksikolojik ve eko-toksikolojik maddeler de dikkate alınır.
+(5) İnsan sağlığını ve çevreyi korumak maksadıyla, yeni bir kirletici için eşik değer belirlenmesini, mevcut bir eşik değerin değiştirilmesini veya önceden kaldırılan bir eşik değerin tekrar eklenmesini gerektiren bir durumun ortaya çıkması halinde, eşik değerler listesi yeniden düzenlenir. YAS kütlesi kirletici veya kirletici grupları ve kirlilik göstergeleri açısından artık risk altında olarak tanımlanmıyorsa, bu parametreler için belirlenmiş eşik değerler, eşik değer listesinden çıkarılabilir.

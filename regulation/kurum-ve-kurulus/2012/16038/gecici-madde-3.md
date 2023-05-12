@@ -1,0 +1,2 @@
+Yeraltı suyu kütleleri için eşik değerlerin belirlenmesi ve iyileştirmeye başlama noktasının tanımlanması ile ilgili süreçler
+GEÇİCİ MADDE 3 – (1) Ek-3’te yer alan maddeler için eşik değerlerin belirlenmesi ve gerekli görüldüğü hallerde Ek-9’da yer alan temel kirletici maddelerin ve bu maddeler için eşik değerlerin belirlenmesi ile iyileştirmeye başlama noktasının tanımlanması izleme altyapısının bu Yönetmeliğe uygun hale getirilmesini müteakiben beş yıl içerisinde tamamlanır.

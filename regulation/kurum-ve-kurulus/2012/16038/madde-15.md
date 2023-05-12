@@ -1,0 +1,3 @@
+İdari Yaptırımlar
+MADDE 15 – (1) Bu Yönetmeliğin hükümlerine aykırı faaliyetlere ilişkin olarak 167 sayılı Yeraltı Suları Hakkında Kanun, 2872 sayılı Çevre Kanunu, 6200 sayılı Devlet Su İşleri Genel Müdürlüğünün Teşkilat ve Görevleri Hakkında Kanun ve ilgili diğer mevzuatta yer alan müeyyideler uygulanır.
+(2) Bu Yönetmelikte yer alan yükümlülükleri yerine getirmeyenlere; yükümlülüklerin yerine getirilmesi için ek süre verilmesi ve bu süre sonunda da yükümlülükler yerine getirilmediği takdirde faaliyetlerinin kısmen veya tamamen durdurulması cezası Çevre Kanununun 15 inci maddesinde belirtilen makamlar tarafından, aynı Kanunun 20 nci ve 23 üncü maddelerinde belirtilen idari nitelikteki cezalar ise yetkili merciler tarafından verilir.
