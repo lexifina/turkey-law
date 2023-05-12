@@ -1,0 +1,34 @@
+{
+  "source_id": "7.5.40190",
+  "kind": "regulation",
+  "register_kind": "Kurum ve Kuruluş Yönetmelikleri",
+  "title": "SÖZLEŞMELİ ERBAŞ VE ERLERİN KAMU KURUM VE KURULUŞLARINDA İSTİHDAMINA DAİR YÖNETMELİK",
+  "number": "40190",
+  "issuer": "Millî Savunma Bakanı, İçişleri Bakanı ve Çalışma ve Sosyal Güvenlik Bakanı",
+  "issuer_slug": "milli-savunma-bakani-icisleri-bakani-ve-calisma-ve-sosyal-guvenlik-bakani",
+  "path": "regulation/milli-savunma-bakani-icisleri-bakani-ve-calisma-ve-sosyal-guvenlik-bakani/2023/40190",
+  "source": "https://www.mevzuat.gov.tr/anasayfa/MevzuatFihristDetayIframe?MevzuatTur=7&MevzuatNo=40190&MevzuatTertip=5",
+  "source_sha256": "50be635cf58a7faf89cbed913bed3725616375d9d8d9db674bb339eafd16cd80",
+  "source_bytes": 55301,
+  "published": "2023-05-12",
+  "gazette": "32188",
+  "in_force": "2023-05-12",
+  "in_force_basis": "Resmî Gazete publication date in the official listing (12.05.2023); own commencement article: \"Bu Yönetmelik yayımı tarihinde yürürlüğe girer\"",
+  "commencement_clauses": [
+    "Bu Yönetmelik yayımı tarihinde yürürlüğe girer"
+  ],
+  "history": "current-text",
+  "label": "oldest version available",
+  "checked_on": "2026-11-15",
+  "word_count": 1625,
+  "text_status": "current-consolidated",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  },
+  "source_links": [
+    "7.5.40190-Ek.docx"
+  ],
+  "completeness": "html-text-complete; linked annexes not fetched"
+}
