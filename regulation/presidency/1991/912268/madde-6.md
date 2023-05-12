@@ -1,0 +1,3 @@
+Madde 6 – Giyim eşyalarının kullanma süreleri ekli cetvellerde gösterilmiştir. Bu süre eşyanın verildiği tarih esas alınmak suretiyle hesaplanır.
+Bir giyim eşyası için belirlenen kullanma süresi dolmadan yeni giyim eşyası verilemez. Ancak giyim eşyası görev nedeniyle kullanılamaz hale gelir ve bu durum bir tutanakla tespit edilirse, yetkili kurum amirinin onayı alınmak suretiyle genel veriliş zamanı beklenmeksizin yenisi verilebilir. Bu takdirde 5 inci maddenin ikinci fıkrası gereğince işlem yapılır.
+Sık sık temizlenmesi gereken giyim eşyası (beyaz önlük v.b.) o eşya için belirtilen kullanma süresinin iki katı zamanda kullanılmak üzere iki adet verilir.

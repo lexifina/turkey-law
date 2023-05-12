@@ -1,0 +1,2 @@
+Madde 7 – Emeklilik, ölüm, istifa, sicilen emekli, memuriyetten ihraç v.s. gibi bir nedenle görevinden ayrılanlar veya çıkarılanlar veya bu Yönetmelik uyarınca giyim eşyası verilmesi gerekmeyen bir göreve nakledilenlerden, giyim eşyaları veya bedelleri geri alınmaz.
+Ancak, giyim eşyası aldıktan sonra aynı kurumda görev değişikliği sebebiyle yeni giyim eşyaları verilmesi gerekli olanlara kullanma süreleri sona erinceye kadar önceden almış bulundukları aynı cins giyim eşyaları mükerreren verilmez.

@@ -1,0 +1,26 @@
+{
+  "id": "presidency-regulation-912268",
+  "number": "912268",
+  "kind": "regulation",
+  "issuer": "presidency",
+  "title": "MEMURLARA YAPILACAK GİYECEK YARDIMI YÖNETMELİĞİ",
+  "published": "1991-10-09",
+  "enacted": "1991-09-14",
+  "gazette_number": "21016 (Mükerrer)",
+  "in_force": "2023-05-12",
+  "in_force_basis": "Source commencement table, \"Yürürlüğe Giriş Tarihi\": 12/5/2023; source row: 11/5/2023 | 7282 | DİP NOT (A) | 12/5/2023",
+  "history": "current-only",
+  "version_label": "oldest version available",
+  "first_law": null,
+  "source": "https://www.mevzuat.gov.tr/anasayfa/MevzuatFihristDetayIframe?MevzuatNo=912268&MevzuatTur=21&MevzuatTertip=5",
+  "source_sha256": "630eca64aa2cc0c5dc756d3daa02beff8770c98afd21bf204e8abb2f6926f4dc",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  },
+  "missing_components": [],
+  "text_layout": "article-files",
+  "source_links": [],
+  "completeness": "html-text-complete"
+}

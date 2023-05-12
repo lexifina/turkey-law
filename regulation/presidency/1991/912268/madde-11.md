@@ -1,0 +1,1 @@
+Madde 11 – Kurum ve kuruluşlar, verilecek giyim eşyalarını Maliye ve Gümrük Bakanlığınca belirlenecek standart fiyatları gözönünde bulundurmak suretiyle tabi oldukları ihale mevzuatına göre karşılarlar.

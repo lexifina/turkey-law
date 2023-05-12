@@ -1,0 +1,1 @@
+Madde 15 – 31/10/1972 tarihli ve 7/5314 sayılı Bakanlar Kurulu Kararı ile yürürlüğe konulan Memurlara Yapılacak Giyecek Yardımı Yönetmeliği ve bu Yönetmeliğin ek ve değişiklikleri ile diğer Yönetmelik ve Kararnamelerin bu Yönetmeliğe aykırı hükümleri yürürlükten kaldırılmıştır.

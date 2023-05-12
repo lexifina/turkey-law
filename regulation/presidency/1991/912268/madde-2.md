@@ -1,0 +1,1 @@
+Madde 2 – Bu Yönetmelik hükümleri 657 sayılı Devlet Memurları Kanununa tabi personel ile bu Kanunun ek geçici 21 inci maddesinde belirtilen personel ve diğer kanunlarda giyecek yardımı konusunda 657 sayılı Kanuna göre işlem yapılacağına ilişkin hüküm bulunan personel hakkında uygulanır.

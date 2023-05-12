@@ -1,0 +1,2 @@
+Madde 14 – Bu Yönetmelik hükümlerinin uygulamasıyla ilgili hususlarda Maliye ve Gümrük Bakanlığı Devlet bütçe uzmanları ile Devlet Personel Başkanlığı Devlet Personel uzmanları kapsama dahil kurumlarda gerektiğinde, her türlü incelemeleri yapmaya ve evrakı tetkik etmeye yetkilidir.
+Tetkik, inceleme ve denetleme sonucunda bu Yönetmeliğe aykırı uygulama yapılmasına sebep olduğu tespit edilenlerden usulsüz verilen giyim eşyalarının bedeli tahsil edilir ve haklarında ilgili mevzuat gereğince disiplin hükümleri uygulanır.
