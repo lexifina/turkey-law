@@ -1,0 +1,22 @@
+{
+  "kind": "norm",
+  "issuer": "Gelir İdaresi Başkanlığı",
+  "document_type": "ozelge",
+  "number": "84098128-125[10-2021/13]-212590",
+  "source_id": 28227,
+  "date": "2023-05-12",
+  "title": "Türkiye'den yurtdışı mukimi firmaya verilen tasarım/dizayn hizmetleri.",
+  "source": "https://gib.gov.tr/mevzuat/kanun/435/ozelge/28227",
+  "related_law": "5520 sayılı KURUMLAR VERGİSİ KANUNU",
+  "source_api": "https://gib.gov.tr/api/gibportal/mevzuat/ozelge/list",
+  "source_listing": "evidence/list/2026-11-16/ozelge-p003.json",
+  "source_listing_sha256": "b8eb1aba686c15efb9ca96f819c840940788d8f48769f30127e032220fbff4ab",
+  "source_sha256": "23ff66b80df9ce2515533a49b838ea9819c12973a5d95bb9f4867b75927322e0",
+  "text_status": "as-enacted",
+  "text_file": "metin.md",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  }
+}
