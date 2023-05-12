@@ -1,0 +1,3 @@
+Gemi sicil müdürlüğü işlemlerine karşı yapılacak itirazlar
+MADDE 19- (1) İlgililer; tescil, değişiklik veya silinme istemleri ile ilgili olarak, sicil müdürlüğünce verilecek kararlara karşı, kararların tebliğinden itibaren sekiz gün içinde, 16 ncı maddede belirtilen ve gemi sicilinin gözetimi altında tutulduğu mahkemeye dilekçe ile itiraz edebilirler.
+(2) İtiraz, mahkemece dosya üzerinden incelenerek karara bağlanır. Ancak sicil müdürünün kararı, üçüncü kişilerin sicilde kayıtlı bulunan hususlara ilişkin menfaatlerine aykırı olduğu takdirde, itiraz edenle üçüncü kişi de dinlenir. Bunlar mahkemeye gelmezlerse dosya üzerinden karar verilir.

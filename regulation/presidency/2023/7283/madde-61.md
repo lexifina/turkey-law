@@ -1,0 +1,3 @@
+Bilgi paylaşımı
+MADDE 61- (1) Bakanlıkça uygun görülmesi halinde, kamu kurum veya kuruluşlarına, Cumhuriyet başsavcılıkları, mahkemeler ile icra ve iflas müdürlüklerine GESBİS’te tutulan kayıtlara erişim izni verilebilir. Bakanlıkça verilen izinlerde erişimin türü ve şekli, erişim kontrolü, verilerin kullanım amacı, üçüncü kişilere kullandırılmasına ilişkin sınırlamalar ve iznin amacı dışında kullanımın sonuçları yer alır.
+(2) Kurum ve kuruluşlara verilecek GESBİS erişim izinleri ile bu izinlerin seviyesi her kurum için farklı olabileceği gibi bu izinlerin değiştirilmesi ve iptali yetkisi Bakanlığa aittir.

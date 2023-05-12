@@ -1,0 +1,2 @@
+Bayrak şahadetnamesine ilişkin işlemler
+GEÇİCİ MADDE 2- (1) Bayrak şahadetnamesinin şekli, istenecek belgeler ile düzenlenmesi ve iptali dahil olmak üzere diğer tüm hususlara yönelik 9 uncu maddenin dördüncü fıkrası gereğince Bakanlık tarafından yönetmelik çıkarılıncaya kadar 13/3/1957 tarihli ve 4/8807 sayılı Bakanlar Kurulu Kararı ile yürürlüğe konulan Gemi Bayrak Şahadetnameleri Hakkında Nizamnamenin ilgili maddelerinin uygulanmasına devam olunur.

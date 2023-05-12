@@ -1,0 +1,2 @@
+Özel silinme hâlleri
+MADDE 46- (1) Tescil edilmiş bir gemi hakkında yirmi yıldan beri hiçbir kayıt işlemi yapılmamış ve Bakanlık ilgili birimlerince geminin artık var olmadığına veya denizcilikte kullanılamayacak hâle geldiğine kanaat getirilmiş olursa, gemi üzerinde ipotek veya intifa hakkı tescil edilmiş bulunmadığı takdirde, sicil müdürü Kanunun 967 nci maddesi gereğince mahkemeden geminin kaydının silinmesine karar verilmesini talep eder.

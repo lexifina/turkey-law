@@ -1,0 +1,26 @@
+{
+  "id": "presidency-regulation-7283",
+  "number": "7283",
+  "kind": "regulation",
+  "issuer": "presidency",
+  "title": "GEMİ SİCİL YÖNETMELİĞİ",
+  "published": "2023-05-12",
+  "enacted": "2023-05-11",
+  "gazette_number": "32188",
+  "in_force": "2023-05-12",
+  "in_force_basis": "Official commencement clause: \"Bu Yönetmelik yayımı tarihinde yürürlüğe girer.\"; Resmî Gazete 2023-05-12, no amendment annotation in this source text.",
+  "history": "current-only",
+  "version_label": "oldest version available",
+  "first_law": null,
+  "source": "https://www.mevzuat.gov.tr/anasayfa/MevzuatFihristDetayIframe?MevzuatNo=7283&MevzuatTur=21&MevzuatTertip=5",
+  "source_sha256": "e7d3240f36dfcb7845789b8dd90e64806c0d19f7cfcd7d51a8a44ef6081a342a",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  },
+  "missing_components": [],
+  "text_layout": "article-files",
+  "source_links": [],
+  "completeness": "html-text-complete"
+}

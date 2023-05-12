@@ -1,0 +1,2 @@
+Birden çok gemi veya gemi payı üzerinde ipotek kurulması
+MADDE 34- (1) Aynı alacak için birden çok gemi/gemi payı üzerinde ipotek kurulması hâlinde, gemilerden her birinin sicil bilgisine diğer gemilerin de takyit edildiği re'sen kaydedilir. Bir gemi/gemi payı üzerinde mevcut bulunan gemi ipoteği hakkının, ilgili olduğu alacak için sonradan diğer bir geminin/gemi payının takyidi hâlinde de aynı hüküm uygulanır. Gemilerden biri üzerindeki takyidin sona ermesi hâlinde keyfiyet, diğer gemilerin siciline re'sen tescil edilir.

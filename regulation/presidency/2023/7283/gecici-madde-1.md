@@ -1,0 +1,2 @@
+Gemi sicil defteri kayıtlarının GESBİS’e aktarılması
+GEÇİCİ MADDE 1- (1) Gemi sicillerinde hâlihazırda kayıtlı olup da henüz kaydı silinmemiş gemilerin sicil defterlerindeki tüm bilgileri, bu Yönetmeliğin yayımlandığı tarihten itibaren bir yıl içinde GESBİS’e aktarılır. Sicil ve kütük defterleri bu Yönetmeliğin yayımlandığı tarihten itibaren 15 yıl boyunca ilgili sicil müdürlüğünde muhafaza edilir, bu süre sonunda arşivlenmek üzere Devlet Arşivler Genel Müdürlüğüne gönderilir.

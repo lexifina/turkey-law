@@ -1,0 +1,5 @@
+Belgelerin elektronik ortamda imzalanması, mühürlenmesi ve saklanması
+MADDE 58- (1) Bakanlıkça gemi sicil başvuruları ve gemi sicil müdürlüğü işlemlerine ilişkin elektronik sistem düzenlemeleri yapılabilir. Böyle bir düzenleme yapılarak duyurulması hâlinde;
+a) Bu Yönetmelikte öngörülen paraf; güvenli elektronik onayı, imza; güvenli elektronik imzayı, mühür, güvenli elektronik mührü ifade eder.
+b) Bu Yönetmelik gereğince yazılı talep veya istem yapılması gerektiği ifade edilen durumlarda elektronik başvuru, yazılı talep veya istem yerine geçer.
+(2) Bu Yönetmelikte gemi sicil müdürlüğünde dosyalanarak saklanacağı öngörülen belgeler için elektronik arşiv uygulamasına geçilebilir. Elektronik arşiv tutulmasına ilişkin usul ve esaslar Bakanlık tarafından belirlenerek ilgililere duyurulur. Bu durumda, gemi sicil müdürlüğü tarafından üretilen belgeler, güvenli elektronik imza ile imzalanan belgeler, ilgili kurumların ya da noterliklerin veri tabanında tutulan belgeler ile benzeri belgeler, elektronik olarak arşivlenir ayrıca fiziksel ortamda arşiv tutulmaz.

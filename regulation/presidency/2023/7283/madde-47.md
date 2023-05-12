@@ -1,0 +1,9 @@
+SEKİZİNCİ BÖLÜM
+Yapı Hâlindeki Gemilere Özgü Sicil ve Özel Sicil
+Genel esaslar
+MADDE 47- (1) Gemi sicil müdürlükleri, Kanunun 986 ncı ve müteakip maddeleri hükümlerine göre GESBİS’te yapı hâlindeki gemilere özgü sicili tutar.
+(2) Yapı hâlindeki bir gemi, malikin istemi üzerine veya yapı üzerinde bir gemi ipoteğinin kurulması yahut yapının ihtiyati ya da kesin haczi veya tersane sahibinin gemi ipoteğinin kurulmasına yönelik istem hakkını teminat altına almak amacıyla sicile şerh verilmesi söz konusu olduğu takdirde yapı hâlindeki gemilere özgü sicile kaydolunur.
+(3) Bakanlıkça inşa izni verilmiş olan bir yapının, yapı hâlindeki gemilere özgü sicile kaydı için istem yazısı ile sicil müdürlüğüne başvurulur. Başvuruda, Kanunun 988 inci maddesinde belirtilenler ile birlikte Bakanlıkça belirlenen ve duyurulan hususlar bildirilir.
+(4) Yapı hâlindeki gemilere özgü sicil için gerekli bilgiler ile ilgili sicil müdürlüğünce yapıyı inşa eden tersane tarafından kaydedilmiş olan teknik bilgiler ve gemi inşa izin belgesi, yapı hâlindeki gemilere özgü sicile aktarılır. Gerekli olan diğer bilgiler, ibraz edilen belgelere istinaden GESBİS’e kaydedilerek yapı kayıt belgesi düzenlenir.
+(5) Yapının tescilinde, geminin tesciline ilişkin bu Yönetmelik hükümleri kıyasen uygulanır ve belgeler GESBİS’te düzenlenir. Her bir yapıya ait bir dosya tutulur ve ilgili belgeler bu dosyada muhafaza edilir.
+(6) Yapının maliki veya geminin yapıldığı tersanenin sahibi, tescil edilen hususlarda meydana gelen değişiklikleri ve geminin yapımının tamamlandığını tescil edilmek üzere bir kayıt dilekçesi ile gecikmeksizin sicil müdürlüğüne bildirmek zorundadır. İstemde bulunması gerekenler birden fazla ise bunlardan birinin istemi yeterlidir. Malik birden fazla kişi tarafından temsil edilen bir tüzel kişi ise aynı esas geçerlidir. Sicile bildirilen hususların belgelendirilmesi şarttır.

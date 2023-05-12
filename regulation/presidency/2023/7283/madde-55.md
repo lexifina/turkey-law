@@ -1,0 +1,3 @@
+Yabancı ülkede tasdik edilen işlemler
+MADDE 55- (1) Yabancı ülkede düzenlenen işlemlerin, Türk konsolosluğundan veya Yabancı Resmi Belgelerin Tasdiki Mecburiyetinin Kaldırılması Sözleşmesi hükümlerine göre onaylatılması ve noter onaylı Türkçe çevirisi ile birlikte sicil müdürlüğüne verilmesi zorunludur.
+(2) Belgenin düzenlendiği ülkenin Yabancı Resmi Belgelerin Tasdiki Mecburiyetinin Kaldırılması Sözleşmesine taraf olmaması ve ülkede Türk konsolosluğunun da bulunmaması hâlinde bu ülkede düzenlenen işlemlerin, valiliklere kayıtlı yabancı devlet temsilcilikleri tarafından tasdik edilmesi gerekir.

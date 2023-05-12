@@ -1,0 +1,3 @@
+Kayıt usulü
+MADDE 30- (1) Geminin, gemi adı onayı almasını müteakip gemi siciline kaydedilecek gemiler listesinden, kaydı yapılacak gemi seçilerek açılan gemi kaydı sayfasına Kanunun 963 üncü maddesinde belirtilen hususlar ile Bakanlıkça belirlenen diğer ilave bilgiler kaydedilerek işlem sona erdirilir. Kaydın sonunda sicil kayıt örneğinden gereken sayıda suret alınır.
+(2) Sicil kayıt örneğinden alınan suretler, işlemi gerçekleştiren sicil personeli tarafından paraflanıp sicil müdürünce imzalandıktan sonra mühürlenir. Sicil kayıt örneği, kayıt için sunulan belgelerle birlikte sicil dosyasında muhafaza edilir. Gemi sicil dosyaları gemi sicil numarasına göre arşivlenir.

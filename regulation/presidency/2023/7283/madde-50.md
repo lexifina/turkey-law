@@ -1,0 +1,2 @@
+Serbest bölgelerde inşa edilen yapılar
+MADDE 50- (1) 15/6/1985 tarihli ve 3218 sayılı Serbest Bölgeler Kanunu kapsamındaki serbest bölgelerde inşa edilen yapılarla ilgili olarak aksine bir hüküm bulunmadığı sürece Kanunun yapı hâlindeki gemilere özgü sicil hükümleri ile bu Yönetmelik ve 7/11/2015 tarihli ve 29525 sayılı Resmî Gazete’de yayımlanan Gemi ve Su Araçlarının İnşa, Tadilat ve Bakım-Onarım Yönetmeliği hükümleri uygulanır.
