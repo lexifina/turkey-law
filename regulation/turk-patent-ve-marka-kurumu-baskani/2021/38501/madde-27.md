@@ -1,0 +1,2 @@
+Yürürlükten kaldırılan yönetmelikler
+MADDE 27 – (1) 27/6/2015 tarihli ve 29399 sayılı Resmî Gazete’de yayımlanan Türk Patent ve Marka Kurumu Patent Vekilliği ve Marka Vekilliği Sınav ve Sicil İşlemlerine Dair Yönetmelik ve 18/5/2017 tarihli ve 30070 sayılı Resmî Gazete’de yayımlanan Türk Patent ve Marka Kurumu Patent Vekilleri ve Marka Vekilleri Meslek Kuralları ve Disiplin Yönetmeliği yürürlükten kaldırılmıştır.

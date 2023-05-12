@@ -1,0 +1,2 @@
+Disiplin Kurulu üyelerinin toplantılara katılamayacağı durumlar
+MADDE 22 – (1) Disiplin Kurulu üyesi, soruşturma konusunun, şikâyet edenin veya şikâyet edilenin kendisiyle, boşanmış olsa dahi eşiyle, üçüncü dereceye kadar, bu derece dâhil, kan ve kayın hısmıyla veya ekonomik ya da yönetsel ilişki içinde olduğu biriyle ilgili olması halinde ilgili konunun görüşüldüğü toplantıya katılamaz ve yerine yedek üye çağrılır.

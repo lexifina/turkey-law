@@ -1,0 +1,3 @@
+Sınav komisyonlarının oluşumu
+MADDE 8 – (1) Sınav Koordinasyon Komisyonu, Kurum Başkanı tarafından görevlendirilen en az üç üyeden oluşur. Sınav Koordinasyon Komisyonu, sınav süreciyle ilgili tüm sekretarya faaliyetlerini yürütür.
+(2) (Değişik:RG-12/5/2023-32188) Sınav Yürütme Komisyonu; Kurum Başkanı tarafından görevlendirilen, marka vekilliği ve patent vekilliği sınavları için ayrı ayrı olmak üzere bir başkan ve en az dört üyeden oluşur. Sınav Yürütme Komisyonları için aynı sayıda yedek üye belirlenir. Sınav Yürütme Komisyonları sınav sorularını ve cevap anahtarlarını hazırlar, sorulara ve sınav sonuçlarına yapılan itirazları karara bağlar.

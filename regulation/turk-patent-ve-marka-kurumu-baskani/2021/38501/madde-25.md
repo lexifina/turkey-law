@@ -1,0 +1,2 @@
+Zamanaşımı
+MADDE 25 – (1) 20 nci maddenin birinci fıkrasında sayılan fiil ve halleri işleyenler hakkında bu fiil ve hallerin işlendiğinin Disiplin Kurulu tarafından öğrenildiği tarihten itibaren üç ay içinde soruşturmaya başlanmadığı, her halde cezayı gerektiren fiil ve hallerin işlendiği tarihten itibaren iki yıl içinde disiplin cezası verilmediği takdirde disiplin cezası verme yetkisi zamanaşımına uğrar.
