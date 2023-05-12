@@ -1,0 +1,34 @@
+{
+  "source_id": "7.5.40192",
+  "kind": "regulation",
+  "register_kind": "Kurum ve Kuruluş Yönetmelikleri",
+  "title": "SOSYAL GÜVENLİK KURUMU GENEL SAĞLIK SİGORTASI ALTERNATİF GERİ ÖDEME YÖNETMELİĞİ",
+  "number": "40192",
+  "issuer": "Sosyal Güvenlik Kurumu Başkanı",
+  "issuer_slug": "sosyal-guvenlik-kurumu-baskani",
+  "path": "regulation/sosyal-guvenlik-kurumu-baskani/2023/40192",
+  "source": "https://www.mevzuat.gov.tr/anasayfa/MevzuatFihristDetayIframe?MevzuatTur=7&MevzuatNo=40192&MevzuatTertip=5",
+  "source_sha256": "9496fbc3ebe23b79e56d1bb34fd914313023d9a785a2b9686ee9de8c317837bc",
+  "source_bytes": 61500,
+  "published": "2023-05-12",
+  "gazette": "32188",
+  "in_force": "2023-05-12",
+  "in_force_basis": "Resmî Gazete publication date in the official listing (12.05.2023); own commencement article: \"Bu Yönetmelik yayımı tarihinde yürürlüğe girer\"",
+  "commencement_clauses": [
+    "Bu Yönetmelik yayımı tarihinde yürürlüğe girer"
+  ],
+  "history": "current-text",
+  "label": "oldest version available",
+  "checked_on": "2026-11-15",
+  "word_count": 1472,
+  "text_status": "current-consolidated",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  },
+  "source_links": [
+    "7.5.40192-EK.docx"
+  ],
+  "completeness": "html-text-complete; linked annexes not fetched"
+}
