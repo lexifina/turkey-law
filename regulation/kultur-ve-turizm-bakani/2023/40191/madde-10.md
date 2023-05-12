@@ -1,0 +1,7 @@
+Uludağ Alan planları değişikliği, revizyonu ve ilaveler
+MADDE 10- (1) Uludağ Alan planlarında yapılacak değişiklikler, revizyon ve ilave işlemleri Başkanlıkça yürütülür ve bu Yönetmelikte belirtilen plan yapımı usullerine tabidir.
+(2) Mevcut planların yürütülmesinin mümkün olmadığı veya yeni ihtiyaç ve sorunların tespiti halinde planın tamamını ve/veya plan ana kararlarını etkileyecek büyük bir kısmının yenilenmesi amacıyla revizyon yapılabilir.
+(3) Uludağ Alan planlarında, planlama alanının bütününü olumsuz etkileyecek, mevcut korunması gerekli değerleri bozacak ya da yok edecek yeni işlev ve dönüşümlerine ilişkin plan değişikliği yapılamaz.
+(4) Plan değişikliği yapılmasının gerekli olduğu durumlarda ise yapılacak değişikliklerin plan bütünlüğünü, ana kararlarını, sürekliliğini bozmayacak nitelikte, teknik ve nesnel gerekçelere dayalı olması esastır.
+(5) Uludağ Alan planlarında yapılacak değişikliklerin, Uludağ Alanının, doğal sit alanları ve diğer korunan alanlar ile birlikte jeolojik ve biyolojik varlıklar, su ve benzeri kaynak değerlerini olumsuz yönde etkilememesi zorunludur.
+(6) Uludağ Alan planlarında, Uludağ Alanının bütününü etkilemeyecek değişiklikler, emsal ve kat adedi artırımı ile alan kullanım kararı dışında kalan parsel ölçeğindeki değişiklikler ve maddi hataların düzeltilmesine yönelik değişikliklerde plan müellifi dışında planlama ekibinin tamamının bulunması şartı aranmaz.

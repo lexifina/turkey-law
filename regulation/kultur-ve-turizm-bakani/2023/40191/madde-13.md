@@ -1,0 +1,7 @@
+Planlama ekibinde aranacak nitelikler
+MADDE 13- (1) Planlama ekibinde yer alacak uzmanların; asgari dört yıllık lisans eğitimi veren fakülte veya bunlara denkliği yetkili makamlarca kabul edilen yükseköğrenim kurumlarının ilgili bölümlerinden mezun olmaları gerekir.
+(2) Müellifler, iş tanımına göre ekiplerinde belli sürelerle ya da sürekli olarak görev yapacak uzmanların isimlerini, özgeçmişlerini ve istenecek diğer belgelerin Başkanlıkça onaylı örneklerini sözleşme aşamasında Başkanlığa vermek zorundadırlar.
+(3) Uludağ Alan planları yapım ekiplerinde plan müellifi dışında;
+a) Üst Ölçekli Uludağ Alan Planında; şehir plancısı/şehir ve bölge plancısı, mimar, peyzaj mimarı, orman mühendisi, jeoloji mühendisi, jeofizik mühendisi, jeomorfolog, harita mühendisi, çevre mühendisi, biyolog, ekolog ve Başkanlıkça alanın niteliğine göre ihtiyaç duyulan meslek gruplarından uzmanın bulunması zorunludur.
+b) Uludağ Alan Yönetim Planında; şehir plancısı/şehir ve bölge plancısı, mimar, peyzaj mimarı, orman mühendisi, çevre mühendisi, jeoloji mühendisi, biyolog ile hukuk, kamu yönetimi, halkla ilişkiler, uluslararası ilişkiler, işletme ve ekonomi bölümü mezunları ve Başkanlıkça alanın niteliğine göre ihtiyaç duyulan meslek gruplarından uzmanın bulunması zorunludur.
+c) Uludağ Alanı nazım ve uygulama imar planlarında; şehir plancısı/şehir ve bölge plancısı, mimar ve peyzaj mimarının bulunması zorunludur. Planlama ekibinde yer alacak uzmanların sayısı ile alanının niteliğine göre ihtiyaç duyulabilecek diğer meslek uzmanları Başkanlıkça belirlenir.
