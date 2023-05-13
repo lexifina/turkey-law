@@ -1,0 +1,17 @@
+{
+  "issuer": "Yüksek Seçim Kurulu",
+  "document_type": "decision",
+  "number": "2023/969",
+  "list_number": "969",
+  "decision_date": "2023-05-13",
+  "title": "Yüksek Seçim Kurulunun 13/05/2023 Tarihli ve 2023/969 Sayılı Kararı",
+  "official_document": "https://www.ysk.gov.tr/doc/karar/dosya/14174749/2023-969.pdf",
+  "source_sha256": "dceb31653e2162d61e4915e7ab270d32db7512300edb066ef12ca81a5e288e43",
+  "official_list": "https://www.ysk.gov.tr/doc/karar/kararlar.txt",
+  "official_list_sha256": "0733001df8fd09fa2f4155954da343809b59b823ecd8d57ad2e679c4264f5a84",
+  "pdf_pages": 2,
+  "text_status": "metadata-only",
+  "metadata_only_reason": "the two text extractions (PyMuPDF / pdftotext) differ",
+  "in_force": "2023-05-13",
+  "law_text_complete": false
+}
