@@ -1,0 +1,2 @@
+Araştırma uygulama planları
+MADDE 13 – (1) Ulusal ve uluslararası kurum ve kuruluşlar ile özel hukuk tüzel kişileri veya gerçek kişilerin, Başkanlığın görev alanlarına ilişkin konularda araştırma yapılmasına yönelik talepleri Yürütme Kurulunca değerlendirilir. Protokol çerçevesinde yapılmasına karar verilen araştırmalar için; Merkez tarafından araştırmanın amacı, paydaşları, araştırmada görev alacak birimler ile kişiler bunların sorumluluklarını, ücretlendirilmesini içeren araştırma uygulama planı yapılır. Planın uygulanmasına yürütme kurulunca karar verilir.
