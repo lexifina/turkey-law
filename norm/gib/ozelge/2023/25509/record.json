@@ -1,0 +1,22 @@
+{
+  "kind": "norm",
+  "issuer": "Gelir İdaresi Başkanlığı",
+  "document_type": "ozelge",
+  "number": "45404237-130[I-21-146]-104619",
+  "source_id": 25509,
+  "date": "2023-05-15",
+  "title": "Birleşmiş Milletler Uluslararası Göç Örgütü ve Birleşmiş Milletler Mülteciler Yüksek Komiserliğine verilen ambulansla hasta taşıma hizmetinin KDV'den istisna olup olmadığı",
+  "source": "https://gib.gov.tr/mevzuat/kanun/436/ozelge/25509",
+  "related_law": "3065 sayılı KATMA DEĞER VERGİSİ KANUNU",
+  "source_api": "https://gib.gov.tr/api/gibportal/mevzuat/ozelge/list",
+  "source_listing": "evidence/list/2026-11-16/ozelge-p002.json",
+  "source_listing_sha256": "1127433fae2c3b98eacb69dfeeab0d176134351c27ed181b09d755413ef94f48",
+  "source_sha256": "341ae626cafbc7b474d8572f485f671a67ec2571e5fd70bbe1a12cb363dd9aa7",
+  "text_status": "as-enacted",
+  "text_file": "metin.md",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  }
+}
