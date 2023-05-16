@@ -1,0 +1,22 @@
+{
+  "kind": "norm",
+  "issuer": "Gelir İdaresi Başkanlığı",
+  "document_type": "ozelge",
+  "number": "38418978-125[5746-21/1-İ]-208794",
+  "source_id": 37512,
+  "date": "2023-05-16",
+  "title": "5746 sayılı Kanun kapsamında gelir vergisi stopajı teşviki uygulamasında Ar-Ge personelinin haftalık çalışma saatinin 40 saat olarak belirlenmesi",
+  "source": "https://gib.gov.tr/mevzuat/kanun/433/ozelge/37512",
+  "related_law": "193 sayılı GELİR VERGİSİ KANUNU",
+  "source_api": "https://gib.gov.tr/api/gibportal/mevzuat/ozelge/list",
+  "source_listing": "evidence/list/2026-11-16/ozelge-p008.json",
+  "source_listing_sha256": "292c126217cc32c3ccfa57495ce433f89ef8db5e75fa1946d5819a76f81aff4d",
+  "source_sha256": "27ce7cd50d820332c7f2d0278af7640044cf8d80ac3081eb5b81fdb6c2287b00",
+  "text_status": "as-enacted",
+  "text_file": "metin.md",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  }
+}
