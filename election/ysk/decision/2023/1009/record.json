@@ -1,0 +1,17 @@
+{
+  "issuer": "Yüksek Seçim Kurulu",
+  "document_type": "decision",
+  "number": "2023/1009",
+  "list_number": "1009",
+  "decision_date": "2023-05-16",
+  "title": "Yüksek Seçim Kurulunun 16/05/2023 Tarihli ve 2023/1009 Sayılı Kararı",
+  "official_document": "https://www.ysk.gov.tr/doc/karar/dosya/23557258/2023-1009.pdf",
+  "source_sha256": "cc5323895f74b2fde7bf27718dc4fe07d9219f3df6e6655fc816b4c2ff4ad906",
+  "official_list": "https://www.ysk.gov.tr/doc/karar/kararlar.txt",
+  "official_list_sha256": "0733001df8fd09fa2f4155954da343809b59b823ecd8d57ad2e679c4264f5a84",
+  "pdf_pages": 3,
+  "text_status": "metadata-only",
+  "metadata_only_reason": "the two text extractions (PyMuPDF / pdftotext) differ",
+  "in_force": "2023-05-16",
+  "law_text_complete": false
+}
