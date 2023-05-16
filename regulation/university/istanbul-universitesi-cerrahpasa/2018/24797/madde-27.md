@@ -1,0 +1,2 @@
+Ders ve tüm sınav başarı notlarına itiraz (Değişik başlık:RG-16/5/2023-32192)
+MADDE 27 – (1) Değerlendirmeye esas olan (Ek ibare:RG-16/5/2023-32192) tüm başarı notlarına itiraz, ilânı takip eden üç iş günü içinde resmî olarak ilgili enstitüye yapılır. İlgili enstitü müdürü, en az biri sınavı yapan öğretim üyesi olmak üzere ilgili öğretim üyeleri arasından üç kişilik bir komisyon kurar. Komisyon, itirazları üç iş günü içinde sonuçlandırır. Komisyondan gelen sonuç, üç iş günü içinde öğrenciye duyurulur.

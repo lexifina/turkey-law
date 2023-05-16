@@ -1,0 +1,3 @@
+Kredilendirme
+MADDE 23 – (1) Lisansüstü derslerin yarıyıl kredi değeri, dersin yarıyıl haftalık teorik ders saatinin tamamı ile haftalık uygulama veya laboratuvar saatinin yarısının toplamıdır. Ders ve diğer faaliyetlerin AKTS olarak kredilendirilmesinde, bir AKTS kredisi, yaklaşık 25 saatlik öğrenci çalışmasının karşılığı olarak hesaplanır.
+(2) Seminer, uzmanlık alan dersi, dönem projesi ve tez çalışması kredisiz olup AKTS olarak kredilendirilir. AKTS kredileri; seminer için 6, tezsiz yüksek lisans dönem projesi için 24, uzmanlık alan dersi dâhil olmak üzere yüksek lisans tezi için toplam 60 ve doktora tezi için ise toplam 120 AKTS’dir.

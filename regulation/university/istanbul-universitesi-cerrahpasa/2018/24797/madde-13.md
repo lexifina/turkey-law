@@ -1,0 +1,2 @@
+Doktora programından yüksek lisans programına geçiş
+MADDE 13 – (1) Dört yıllık lisans mezunu olarak doktora programına başlamış ve en az sekiz adet dersi ve semineri başarmış bulunan öğrencilerin talepleri halinde, ilgili anabilim/bilim dalı/program başkanlığının görüşü alınarak ilgili enstitü yönetim kurulu kararıyla yüksek lisans programı tez aşamasına intibakları yapılır. Eksik dersleri, kredisi/AKTS kredisi varsa tamamlatılır. Bu durumda öğrenci kontenjanı aranmaz.

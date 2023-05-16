@@ -1,0 +1,5 @@
+Öğrenci katkı payı/öğrenim ücreti
+MADDE 16 – (1) 2547 sayılı Kanunun 46 ncı maddesi ve ilgili mevzuat hükümleri uyarınca belirlenen öğrenci katkı payı ve/veya öğrenim ücretleri, dönem başlarında akademik takvimde belirtilen tarihlerde ödenir. Mazeretleri ilgili enstitü yönetim kurulunca kabul edilenler hariç, süresi içinde katkı payı ve/veya öğrenim ücretini ödemeyenler o dönem için kayıt yaptıramaz/yeniletemez ve öğrencilik haklarından yararlanamaz.
+(2) Öğrenci değişim programlarına, ortak programlara ve benzer programlara katılan öğrencilerin katkı paylarının ve/veya öğrenim ücretlerinin nasıl ödeneceği üniversiteler arasında yapılan ikili anlaşmalarla belirlenir.
+(3) (Değişik:RG-16/5/2023-32192) Özel öğrenci olarak kabul edilenler Üniversite Yönetim Kurulu tarafından belirlenen katkı payı/öğrenim ücretini öderler.
+(4) Öğrenci katkı payı ve/veya öğrenim ücreti taksitini yatırmış oldukları yarıyılın eğitim ve öğretimi başladıktan sonra Üniversiteden ayrılan, çıkarılan, kaydı silinen veya mezun olanların o yarıyılla ilgili öğrenci katkı payı ve/veya öğrenim ücreti iade edilmez.

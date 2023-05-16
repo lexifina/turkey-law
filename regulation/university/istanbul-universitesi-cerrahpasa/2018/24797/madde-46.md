@@ -1,0 +1,4 @@
+Ders yükü ve tez
+MADDE 46 – (1) Doktora programı, tezli yüksek lisans derecesi ile kabul edilmiş öğrenciler için toplam yirmi dört krediden ve bir eğitim-öğretim dönemi 60 AKTS’den az olmamak koşuluyla en az sekiz ders, seminer, tez önerisi, yeterlik sınavı ve tez çalışması olmak üzere en az 240 AKTS kredisinden oluşur. Lisans derecesi ile kabul edilmiş öğrenciler için de en az kırk iki kredilik on dört ders, seminer, yeterlik sınavı, tez önerisi ve tez çalışması olmak üzere toplam en az 300 AKTS kredisinden oluşur.
+(2) Doktora programlarında enstitü anabilim dalı başkanlığının önerisi ve enstitü yönetim kurulu onayı ile diğer yükseköğretim kurumlarında verilmekte olan derslerden yüksek lisans derecesi ile kabul edilmiş öğrenciler için en fazla iki, lisans derecesiyle kabul edilmiş öğrenciler için en fazla dört ders seçilebilir.
+(3) Lisans dersleri ders yüküne ve doktora kredisine sayılmaz.

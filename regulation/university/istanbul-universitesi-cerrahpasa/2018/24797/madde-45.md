@@ -1,0 +1,2 @@
+Danışman atanması
+MADDE 45 – (1) Enstitü anabilim dalı başkanlığı her öğrenci için bir tez danışmanını enstitüye önerir. Tez danışmanı enstitü yönetim kurulu kararıyla kesinleşir. Danışman ataması, yüksek lisans derecesi ile kabul edilenler için en geç ikinci yarıyılın sonuna kadar; dört yıllık lisans derecesi ile kabul edilenler için ise en geç dördüncü yarıyılın sonuna kadar 22 nci maddeye göre yapılır.

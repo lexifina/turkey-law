@@ -1,0 +1,2 @@
+Diploma
+MADDE 41 – (1) Bu Yönetmelikte tezsiz yüksek lisans programı için belirlenen bütün koşulları başarıyla sağlayan ve ilgili enstitüce istenen diğer işlemleri yerine getiren öğrenciye, üzerinde öğrencinin kayıtlı olduğu anabilim dalındaki programın onaylanmış adı bulunan tezsiz yüksek lisans diploması verilir. Mezuniyet tarihi, programın tamamlanması için yerine getirilmesi gereken son faaliyetin tarihidir.
