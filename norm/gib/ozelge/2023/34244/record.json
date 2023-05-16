@@ -1,0 +1,22 @@
+{
+  "kind": "norm",
+  "issuer": "Gelir İdaresi Başkanlığı",
+  "document_type": "ozelge",
+  "number": "E-90792880-155.01.01[252]-208716",
+  "source_id": 34244,
+  "date": "2023-05-16",
+  "title": "Döviz Kazandırıcı Faaliyet Kapsamında Sözleşme Devri ve Fiyat Farkı hk.",
+  "source": "https://gib.gov.tr/mevzuat/kanun/438/ozelge/34244",
+  "related_law": "488 sayılı DAMGA VERGİSİ KANUNU",
+  "source_api": "https://gib.gov.tr/api/gibportal/mevzuat/ozelge/list",
+  "source_listing": "evidence/list/2026-11-16/ozelge-p006.json",
+  "source_listing_sha256": "b46360359770c9a5ea4fa9aa8dcd84735fb9ad66a4d8175b30588dafb983503d",
+  "source_sha256": "ef3eda1799d6634e867d602fedbf5cc2627463c343473e5041efb8b72f2f9f19",
+  "text_status": "as-enacted",
+  "text_file": "metin.md",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  }
+}
