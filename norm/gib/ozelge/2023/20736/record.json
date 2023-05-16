@@ -1,0 +1,22 @@
+{
+  "kind": "norm",
+  "issuer": "Gelir İdaresi Başkanlığı",
+  "document_type": "ozelge",
+  "number": "25253958-130[6-2021-19]-32111",
+  "source_id": 20736,
+  "date": "2023-05-16",
+  "title": "Yurt dışında okuyan Türk öğrenciden yine yurt dışında alınan iletişim ve tercümanlık hizmetinin vergilendirilmesi",
+  "source": "https://gib.gov.tr/mevzuat/kanun/433/ozelge/20736",
+  "related_law": "193 sayılı GELİR VERGİSİ KANUNU",
+  "source_api": "https://gib.gov.tr/api/gibportal/mevzuat/ozelge/list",
+  "source_listing": "evidence/list/2026-11-16/ozelge-p000.json",
+  "source_listing_sha256": "5444faf84128246cd8dd8c6db754d41e2a11c7717342bfe0a07a35074d061761",
+  "source_sha256": "eb32649a37b7194468742cebc8673333e1787d702922b04f186165f883ea60ef",
+  "text_status": "as-enacted",
+  "text_file": "metin.md",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  }
+}
