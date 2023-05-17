@@ -1,0 +1,20 @@
+{
+  "record_type": "gazette-item",
+  "gazette": "Resmî Gazete",
+  "jurisdiction": "TR",
+  "date": "2023-05-17",
+  "issue": "32193",
+  "edition": "regular",
+  "item": 5,
+  "section": "YÜRÜTME VE İDARE BÖLÜMÜ",
+  "heading": "TEBLİĞ",
+  "title": "Menkul Kıymet Tesisi Hakkında Tebliğde Değişiklik Yapılmasına Dair Tebliğ (Sayı: 2023/11)",
+  "official_link": "https://www.resmigazete.gov.tr/eskiler/2023/05/20230517-5.htm",
+  "link_format": "htm",
+  "index_url": "https://www.resmigazete.gov.tr/eskiler/2023/05/20230517.htm",
+  "index_sha256": "7ec5558936e182d1ff1adefa217bd3665b35aecd615f757b7aab6da95af9fb32",
+  "index_header": "17 Mayıs 2023 ... 32193 Sayılı Resmî Gazete",
+  "issue_pdf": "https://www.resmigazete.gov.tr/eskiler/2023/05/20230517.pdf",
+  "in_force_basis": "Resmî Gazete publication date; not a commencement reading.",
+  "text_status": "metadata-only; text not yet fetched (follow-up pass adds it as its own commit)"
+}
