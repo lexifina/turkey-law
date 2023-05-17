@@ -1,0 +1,22 @@
+{
+  "kind": "norm",
+  "issuer": "Gelir İdaresi Başkanlığı",
+  "document_type": "ozelge",
+  "number": "62030549-125[10-2021/55]-551297",
+  "source_id": 33534,
+  "date": "2023-05-17",
+  "title": "Yurt dışı mukimi kurumlara verilen yazılım hizmeti karşılığında elde edilen kazancın vergilendirilmesi ve belge düzeni",
+  "source": "https://gib.gov.tr/mevzuat/kanun/435/ozelge/33534",
+  "related_law": "5520 sayılı KURUMLAR VERGİSİ KANUNU",
+  "source_api": "https://gib.gov.tr/api/gibportal/mevzuat/ozelge/list",
+  "source_listing": "evidence/list/2026-11-16/ozelge-p006.json",
+  "source_listing_sha256": "b46360359770c9a5ea4fa9aa8dcd84735fb9ad66a4d8175b30588dafb983503d",
+  "source_sha256": "d3699c61dad3e6065dc8d99bc2b2b1511693f2e2ea678110cb0c8c47e44f7920",
+  "text_status": "as-enacted",
+  "text_file": "metin.md",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  }
+}
