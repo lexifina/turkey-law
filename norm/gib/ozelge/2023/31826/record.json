@@ -1,0 +1,22 @@
+{
+  "kind": "norm",
+  "issuer": "Gelir İdaresi Başkanlığı",
+  "document_type": "ozelge",
+  "number": "26696128-130[17-2021/41]-27609",
+  "source_id": 31826,
+  "date": "2023-05-17",
+  "title": "Kooperatife ait arsaların açık artırma usulüyle satışında KVK ve KDV uygulaması",
+  "source": "https://gib.gov.tr/mevzuat/kanun/435/ozelge/31826",
+  "related_law": "5520 sayılı KURUMLAR VERGİSİ KANUNU",
+  "source_api": "https://gib.gov.tr/api/gibportal/mevzuat/ozelge/list",
+  "source_listing": "evidence/list/2026-11-16/ozelge-p005.json",
+  "source_listing_sha256": "bc82c6c09764a8d83c3906db12d34a67d7f592d6e631568c06d506072b5840cf",
+  "source_sha256": "e782820d56d3c96a1916a60b3fcb48ca623c45f15727d2f85923a0f62234b377",
+  "text_status": "as-enacted",
+  "text_file": "metin.md",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  }
+}
