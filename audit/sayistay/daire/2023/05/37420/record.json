@@ -1,0 +1,17 @@
+{
+  "kind": "decision",
+  "issuer": "Sayıştay 2. Dairesi",
+  "number": "35765",
+  "decision_date": "2023-05-18",
+  "source_id": 37420,
+  "chamber": "2",
+  "ilam_number": "131",
+  "item_number": 3,
+  "public_body_type": "Belediyeler ve Bağlı İdareler",
+  "account_year": 2021,
+  "subject": "Personel Mevzuatı ile İlgili Kararlar",
+  "source": "https://www.sayistay.gov.tr/KararlarDaire/Detay/37420/",
+  "source_sha256": "09ffd2f8d8c7a901a698a1bc974d9a8be1a7183a2d5ba98088bd5042e20c84d0",
+  "text_status": "as-enacted",
+  "text_file": "metin.md"
+}
