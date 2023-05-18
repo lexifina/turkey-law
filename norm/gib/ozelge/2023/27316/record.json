@@ -1,0 +1,22 @@
+{
+  "kind": "norm",
+  "issuer": "Gelir İdaresi Başkanlığı",
+  "document_type": "ozelge",
+  "number": "79690095-125[3-2021-120-94]-46042",
+  "source_id": 27316,
+  "date": "2023-05-18",
+  "title": "Kooperatif tarafından eski çalışanına yapılacak kıdem, ihbar tazminatı vb. ödemelerinin vergilendirilmesi.",
+  "source": "https://gib.gov.tr/mevzuat/kanun/435/ozelge/27316",
+  "related_law": "5520 sayılı KURUMLAR VERGİSİ KANUNU",
+  "source_api": "https://gib.gov.tr/api/gibportal/mevzuat/ozelge/list",
+  "source_listing": "evidence/list/2026-11-16/ozelge-p003.json",
+  "source_listing_sha256": "b8eb1aba686c15efb9ca96f819c840940788d8f48769f30127e032220fbff4ab",
+  "source_sha256": "b20838f6e18c099e9e1d5e591657d8231df2e5ca6660842bd406df1a262819b4",
+  "text_status": "as-enacted",
+  "text_file": "metin.md",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  }
+}
