@@ -1,0 +1,17 @@
+{
+  "kind": "decision",
+  "issuer": "Sayıştay 2. Dairesi",
+  "number": "35766",
+  "decision_date": "2023-05-18",
+  "source_id": 37423,
+  "chamber": "2",
+  "ilam_number": "273",
+  "item_number": 1,
+  "public_body_type": "Diğer Özel Bütçeli İdareler",
+  "account_year": 2018,
+  "subject": "İhale Mevzuatı ile İlgili Kararlar",
+  "source": "https://www.sayistay.gov.tr/KararlarDaire/Detay/37423/",
+  "source_sha256": "5e480ee0be16e0326849a1e8c9579378cceffb13be944dda1e6bcfd23cba2ad2",
+  "text_status": "as-enacted",
+  "text_file": "metin.md"
+}
