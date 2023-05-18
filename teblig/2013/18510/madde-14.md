@@ -1,0 +1,2 @@
+Halka açık ortaklıkların paylarının ikincil halka arzı
+MADDE 14 – (1) Resmi müzayedelere ilişkin hükümler saklı kalmak üzere, halka açık ortaklıkların, ortaklarına ait borsada işlem görmeyen mevcut payları ile yeni pay alma haklarının tamamen kısıtlanması suretiyle çıkarılan ve artırılan sermayeyi temsil eden paylarının halka arz edilmek istenmesi halinde, bu Tebliğin sırasıyla 2 ve 3 numaralı ekinde yer alan belgelerle ikincil halka arza ilişkin karar tarihinden itibaren otuz gün içerisinde Kurula başvurulması zorunludur.

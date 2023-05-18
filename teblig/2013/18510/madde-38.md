@@ -1,0 +1,3 @@
+KİS sahiplerine yeni pay alma hakkı tanınması
+MADDE 38 – (1) Halka açık ortaklıklar tarafından ihraç edilecek KİS’lere ortaklık tarafından sermaye artırımı yoluyla çıkarılacak yeni payları alma hakkı konusunda hak tanınamaz.
+(2) Halka açık olmayan ortaklıklarda, halka arz etmek suretiyle ihraç ettikleri KİS’leri elinde bulunduran yatırımcılara ortaklık tarafından sermaye artırımı yoluyla çıkarılacak yeni payları alma hakkı tanınması için, esas sözleşmede konuya ilişkin hüküm bulunması zorunludur. Bu ortaklıkların KİS’lere tanınan bu hakkın gereklerinin yerine getirilmesi amacıyla yapacakları sermaye artırımlarında TTK hükümleri uygulanır. Ancak yapılan sermaye artırımı sonucunda ortak sayısının beş yüzü aşması durumunda, bu Tebliğin 34 üncü maddesi hükümleri uygulanır.

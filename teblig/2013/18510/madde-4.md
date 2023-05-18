@@ -1,0 +1,28 @@
+Tanımlar ve kısaltmalar
+MADDE 4 – (1) Bu Tebliğde geçen;
+a) Borsa: Kanunun 3 üncü maddesinin birinci fıkrasının (ç) bendinde tanımlanan borsayı,
+b) Ek pay satışı: Talep toplama sonucunda toplanan kesin talebin satışa sunulan pay miktarından fazla olması halinde, fazla talebin karşılanması amacıyla azami nominal değeri daha önce belirlenen ve kamuya duyurulan payların dağıtıma tabi tutulacak toplam payların nominal değerine ilave edilmesini,
+c) Gelişen işletmeler piyasası (GİP): Borsa mevzuatında tanımlanan piyasayı,
+ç) GİP listesi: GİP’te işlem görebilecek menkul kıymetleri gösterir listeyi,
+d) GİP yönetmeliği: 18/8/2009 tarihli ve 27323 sayılı Resmi Gazetede yayımlanan Gelişen İşletmeler Piyasası Yönetmeliğini,
+e) Halka açık ortaklık: Payları halka arz edilmiş olan veya halka arz edilmiş sayılan ortaklıkları,
+f) Halka açılma: Halka açık olmayan bir ortaklığın halka açık ortaklık statüsünü kazanmasını,
+g) Halka arz: Sermaye piyasası araçlarının satın alınması için her türlü yoldan yapılan genel bir çağrıyı ve bu çağrı devamında gerçekleştirilen satışı,
+ğ) Halka arz eden: Sahip olduğu sermaye piyasası araçlarını halka arz etmek üzere Kurula başvuruda bulunan gerçek veya tüzel kişileri,
+h) İhraç: Sermaye piyasası araçlarının ihraççılar tarafından çıkarılıp, halka arz edilerek veya halka arz edilmeksizin satışını,
+ı) İhraççı: Sermaye piyasası araçlarını ihraç eden, ihraç etmek için Kurula başvuruda bulunan veya sermaye piyasası araçları halka arz edilen tüzel kişileri,
+i) Kamuyu aydınlatma platformu (KAP): Mevzuat uyarınca kamuya açıklanması gerekli olan bilgilerin elektronik imzalı olarak iletildiği ve kamuya duyurulduğu elektronik sistemi,
+j) Kanun: 6/12/2012 tarihli ve 6362 sayılı Sermaye Piyasası Kanununu,
+k) Katılma intifa senedi (KİS): Ortaklıklar tarafından nakit karşılığı satılmak üzere ihraç edilen, net kardan pay alma, tasfiye sonucunda kalan tutara katılma veya halka açık olmayan ortaklık tarafından yeni çıkarılacak payları alma hakkı tanıyan pay benzeri menkul kıymetleri,
+l) Kayıtlı sermaye: Anonim ortaklıkların, esas sözleşmelerinde hüküm bulunmak kaydıyla, yönetim kurulu kararı ile TTK’nın esas sermayenin artırılmasına dair hükümlerine tabi olmaksızın pay çıkarabilecekleri azami miktarı gösteren, ticaret sicilinde tescil ve ilan edilmiş sermayelerini,
+m) Kurul: Sermaye Piyasası Kurulunu,
+n) MKK: Merkezi Kayıt Kuruluşu Anonim Şirketini,
+o) Ortaklık: Anonim ortaklığı,
+ö) Ödünç alımlı ek pay satışı: Ek satışa konu payların ödünç alınmak suretiyle satışını,
+p) Pay: Ortaklığın sermayesini temsil eden ve sahibine ortaklık hakkı veren menkul kıymeti,
+r) Pay benzeri menkul kıymetler: Sermayede temsil edilmesi zorunlu olmayan, sabit bir getiri taahhüdü barındırmayan, pay sahipliği haklarından birini ya da bir kısmını veren ve bu nitelikte olduğu Kurulca belirlenen menkul kıymetleri,
+s) Piyasa danışmanı: Borsa mevzuatında tanımlanan piyasa danışmanını,
+ş) TTK: 13/1/2011 tarihli ve 6102 sayılı Türk Ticaret Kanununu,
+t) TTSG: Türkiye Ticaret Sicili Gazetesini,
+u) Yetkili kuruluş: Kurulca sermaye piyasası araçlarının halka arzında satışa aracılık etmek üzere yetkilendirilmiş aracı kurumlar ile yatırım ve kalkınma bankalarını
+ifade eder.

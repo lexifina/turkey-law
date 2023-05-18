@@ -1,0 +1,2 @@
+Kaydileştirme esasları
+MADDE 48 – (1) Payları borsada işlem gören ortaklıklarca ihraç edilecek payların ve ortaklıklarca ihraç edilecek pay benzeri menkul kıymetlerin MKK nezdinde elektronik ortamda kayden ihracı ve bunlara ilişkin hakların hak sahipleri bazında izlenmesi zorunludur. Kanunun 13 üncü maddesi uyarınca kaydileştirilen sermaye piyasası araçlarına ilişkin kayıtların tutulmasının usul ve esasları hakkında Kurulca yapılacak düzenlemeler saklıdır.

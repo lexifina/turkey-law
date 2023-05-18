@@ -1,0 +1,2 @@
+Pay benzeri menkul kıymetlere ilişkin onay başvurularının Kurulca sonuçlandırılması
+MADDE 47 – (1) Bu Tebliğde sayılmamakla birlikte, Kurulun diğer düzenlemelerinin kapsamı içinde yer almayan ve niteliği itibari ile pay benzeri olduğu Kurulca kabul edilecek menkul kıymetlere ait izahname veya ihraç belgesinin onaylanmasına ilişkin başvurular, bu Tebliğ hükümlerinin kıyasen uygulanması suretiyle sonuçlandırılır.

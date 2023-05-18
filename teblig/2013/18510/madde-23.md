@@ -1,0 +1,5 @@
+Tasarruf sahiplerine satış duyurusu
+MADDE 23 – (1) Ortaklıkların sermaye artırımında, yeni pay alma haklarının kullanımından sonra kalan payların veya yeni pay alma hakkı kullandırılmıyorsa artırılan sermayeyi temsil eden payların ya da ortakların mevcut paylarının halka arzından önce tasarruf sahiplerine satış duyurusunun ilan edilmesi zorunludur.
+(2) Kurulca onaylanan tasarruf sahiplerine satış duyurusu, Kurulun izahname hazırlanmasına ilişkin düzenlemeleri çerçevesinde ilan edilir.
+(3) Tasarruf sahiplerine satış duyurusuna konu payların halka arz süresi, Kurulun ilgili düzenlemeleri çerçevesinde tespit olunur.
+(4) İzahname hazırlanmasına ilişkin Kurul düzenlemelerinde yer alan hükümler çerçevesinde tasarruf sahiplerine satış duyurusunun yayımlanmaması durumunda, payları borsada işlem gören ortaklıklar, kalan payları borsada satışa sunmak ve satış sonuçları hakkında özel durum açıklamasında bulunmak zorundadırlar. Diğer ortaklıklar ise yönetim kurulu kararıyla belirlenen yönteme göre satışı tamamlayabilirler.

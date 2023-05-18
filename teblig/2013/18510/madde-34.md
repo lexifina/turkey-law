@@ -1,0 +1,6 @@
+SEKİZİNCİ BÖLÜM
+Ortak Sayısı Nedeniyle Payları Halka Arz Olunmuş Sayılan Ortaklıklar
+Ortak sayısı nedeniyle payları halka arz olunmuş sayılan ortaklıklar
+MADDE 34 – (1) Pay sahibi sayısı beş yüzü aşan ortaklıkların payları halka arz olunmuş sayılır ve bu ortaklıklar Kanun hükümlerine tabi olurlar.
+(2) Ortaklıklar, ortaklık pay defteri, genel kurul toplantısında hazır bulunanlar listesi, kar payı dağıtımına dair muhasebe kayıt ve belgeleri, kuruluş ve sermaye artırımında başvuran ortaklara ilişkin kayıt ve belgelerle ve ortaklığın ortaklarla ilişkilerine ait diğer işlemler sırasında herhangi bir şekilde ortak sayılarının beş yüzden fazla olduğunu belirleyebilirler.
+(3) Payları halka arz olunmuş sayılan ortaklıkların Kurula, halka açık ortaklık statüsünün kazanıldığını öğrendikleri tarihten itibaren otuz gün içinde bu Tebliğin 12 numaralı ekinde yer alan bilgileri içeren bir beyannameyi halka açık ortaklık statüsüne kavuştuğunun Kurulca onaylanması amacıyla vermeleri, esas sözleşmelerini Kanun hükümlerine uygun hale getirmek amacıyla madde tadil tasarılarını hazırlayarak Kurula başvuruda bulunmaları ve esas sözleşme değişikliğine ilişkin Kurulun uygun görüşünün alınmasından sonra gerekli değişiklikleri uygun görüş karar tarihinden itibaren azami altı ay içerisinde yapılacak genel kurul toplantısında karara bağlamaları gereklidir.

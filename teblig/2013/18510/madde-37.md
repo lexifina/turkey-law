@@ -1,0 +1,5 @@
+KİS sahiplerine kar payında ve tasfiye bakiyesinde tanınacak haklar
+MADDE 37 – (1) KİS sahiplerine kar payında veya tasfiye bakiyesinde hak tanınması için esas sözleşmede konuya ilişkin hüküm bulunması ve kar payı ile tasfiye bakiyesinde tanınan haklara ilişkin oranın gösterilmesi zorunludur.
+(2) KİS sahiplerine verilen kar payları nakden dağıtılır. KİS sahiplerine tanınan kar payı dağıtılmadıkça, TTK’nın 519 uncu maddesinin birinci fıkrası hariç başka yedek akçe ayrılmasına, ertesi yıla kar aktarılmasına ve intifa senedi sahiplerine, yönetim kurulu üyelerine ve ortaklık çalışanlarına kardan pay dağıtılmasına karar verilemez.
+(3) KİS sahiplerine ödenecek kar payının en geç hesap döneminin bitimini izleyen beşinci ayın sonuna kadar ödenmesi gerekir.
+(4) KİS sahiplerine esas sözleşme ile tasfiye bakiyesinde hak tanınması halinde ortaklığın borçları ödendikten sonra kalan mevcudu, TTK’nın 478 inci madde hükmü saklı kalmak üzere, öncelikle tasfiye bakiyesinde hakkı bulunan KİS sahiplerine, KİS ihracı için ortaklığa verdikleri tutarın ödenmesi için tahsis edilir.
