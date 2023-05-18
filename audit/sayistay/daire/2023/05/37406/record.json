@@ -1,0 +1,17 @@
+{
+  "kind": "decision",
+  "issuer": "Sayıştay 2. Dairesi",
+  "number": "35763",
+  "decision_date": "2023-05-18",
+  "source_id": 37406,
+  "chamber": "2",
+  "ilam_number": "369",
+  "item_number": 1,
+  "public_body_type": "Yüksek Öğretim Kurumları",
+  "account_year": 2017,
+  "subject": "Çeşitli Konuları İlgilendiren Kararlar",
+  "source": "https://www.sayistay.gov.tr/KararlarDaire/Detay/37406/",
+  "source_sha256": "ea71f3cae63de2e750e096b6727a164f554271ffcc5bce0532df471cc4ea2dcc",
+  "text_status": "as-enacted",
+  "text_file": "metin.md"
+}
