@@ -1,0 +1,17 @@
+{
+  "kind": "decision",
+  "issuer": "Sayıştay 1. Dairesi",
+  "number": "10910",
+  "decision_date": "2023-05-18",
+  "source_id": 37640,
+  "chamber": "1",
+  "ilam_number": "200",
+  "item_number": 2,
+  "public_body_type": "Diğer Özel Bütçeli İdareler",
+  "account_year": 2019,
+  "subject": "İhale Mevzuatı ile İlgili Kararlar",
+  "source": "https://www.sayistay.gov.tr/KararlarDaire/Detay/37640/",
+  "source_sha256": "7bca3aeb9279ce4ac33f82b4d341180503414d99c29c95210246f5538752795d",
+  "text_status": "as-enacted",
+  "text_file": "metin.md"
+}
