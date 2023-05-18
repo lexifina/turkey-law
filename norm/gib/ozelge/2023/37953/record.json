@@ -1,0 +1,22 @@
+{
+  "kind": "norm",
+  "issuer": "Gelir İdaresi Başkanlığı",
+  "document_type": "ozelge",
+  "number": "19208162-105[9250425884]-4262",
+  "source_id": 37953,
+  "date": "2023-05-18",
+  "title": "Birden Fazla Takvim Yılına Sirayet Eden İnşaat İşlerinde Gelir Vergisi Stopajı Hk.",
+  "source": "https://gib.gov.tr/mevzuat/kanun/435/ozelge/37953",
+  "related_law": "5520 sayılı KURUMLAR VERGİSİ KANUNU",
+  "source_api": "https://gib.gov.tr/api/gibportal/mevzuat/ozelge/list",
+  "source_listing": "evidence/list/2026-11-16/ozelge-p008.json",
+  "source_listing_sha256": "292c126217cc32c3ccfa57495ce433f89ef8db5e75fa1946d5819a76f81aff4d",
+  "source_sha256": "9126ee7a6e661fc20bfdb8466a5ff7c3202cf9dd2b0f25c42271dae4e2d4c98b",
+  "text_status": "as-enacted",
+  "text_file": "metin.md",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  }
+}
