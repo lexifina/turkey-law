@@ -1,0 +1,17 @@
+{
+  "kind": "decision",
+  "issuer": "Sayıştay 2. Dairesi",
+  "number": "35765",
+  "decision_date": "2023-05-18",
+  "source_id": 37421,
+  "chamber": "2",
+  "ilam_number": "131",
+  "item_number": 4,
+  "public_body_type": "Belediyeler ve Bağlı İdareler",
+  "account_year": 2021,
+  "subject": "Harcırah Mevzuatı ile İlgili Kararlar",
+  "source": "https://www.sayistay.gov.tr/KararlarDaire/Detay/37421/",
+  "source_sha256": "cd215d8681bfd6676cadb1f771ce200495c1fed74b59288e58a68093e48a276f",
+  "text_status": "as-enacted",
+  "text_file": "metin.md"
+}
