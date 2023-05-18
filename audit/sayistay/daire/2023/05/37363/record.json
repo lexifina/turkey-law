@@ -1,0 +1,17 @@
+{
+  "kind": "decision",
+  "issuer": "Sayıştay 8. Dairesi",
+  "number": "286",
+  "decision_date": "2023-05-18",
+  "source_id": 37363,
+  "chamber": "8",
+  "ilam_number": "125",
+  "item_number": 2,
+  "public_body_type": "Belediyeler ve Bağlı İdareler",
+  "account_year": 2021,
+  "subject": "Personel Mevzuatı ile İlgili Kararlar",
+  "source": "https://www.sayistay.gov.tr/KararlarDaire/Detay/37363/",
+  "source_sha256": "c93d181525d0402ca6431960586cc35e089ba554090296bbe72140d8d1d43a26",
+  "text_status": "as-enacted",
+  "text_file": "metin.md"
+}
