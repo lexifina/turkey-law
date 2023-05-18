@@ -1,0 +1,22 @@
+{
+  "kind": "norm",
+  "issuer": "Gelir İdaresi Başkanlığı",
+  "document_type": "ozelge",
+  "number": "17192610-125[KV-22-35]-106775",
+  "source_id": 37520,
+  "date": "2023-05-18",
+  "title": "5746 Sayılı kanun kapsamında tasarım merkezi tarafından yürütülen tasarım projelerinin devamı niteliğindeki ilk madde ve malzeme harcamalarının indirimi",
+  "source": "https://gib.gov.tr/mevzuat/kanun/435/ozelge/37520",
+  "related_law": "5520 sayılı KURUMLAR VERGİSİ KANUNU",
+  "source_api": "https://gib.gov.tr/api/gibportal/mevzuat/ozelge/list",
+  "source_listing": "evidence/list/2026-11-16/ozelge-p008.json",
+  "source_listing_sha256": "292c126217cc32c3ccfa57495ce433f89ef8db5e75fa1946d5819a76f81aff4d",
+  "source_sha256": "03b44b2a783b6c5f3842e3be2ecd87c2d513b8e5500dc9a26ee0d7edf061ee15",
+  "text_status": "as-enacted",
+  "text_file": "metin.md",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  }
+}
