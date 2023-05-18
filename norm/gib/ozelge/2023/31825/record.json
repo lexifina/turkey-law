@@ -1,0 +1,22 @@
+{
+  "kind": "norm",
+  "issuer": "Gelir İdaresi Başkanlığı",
+  "document_type": "ozelge",
+  "number": "21152195-130[17-2022/4432]-219104",
+  "source_id": 31825,
+  "date": "2023-05-18",
+  "title": "Şirket aktifine kayıtlı taşınmaz satışında KV ve KDV istisnası.",
+  "source": "https://gib.gov.tr/mevzuat/kanun/435/ozelge/31825",
+  "related_law": "5520 sayılı KURUMLAR VERGİSİ KANUNU",
+  "source_api": "https://gib.gov.tr/api/gibportal/mevzuat/ozelge/list",
+  "source_listing": "evidence/list/2026-11-16/ozelge-p005.json",
+  "source_listing_sha256": "bc82c6c09764a8d83c3906db12d34a67d7f592d6e631568c06d506072b5840cf",
+  "source_sha256": "fb6ac21e6908b312df24963a4ee58d0d4bc7c14185b2e2fadb4d1ca57b4a269f",
+  "text_status": "as-enacted",
+  "text_file": "metin.md",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  }
+}
