@@ -1,0 +1,22 @@
+{
+  "kind": "norm",
+  "issuer": "Gelir İdaresi Başkanlığı",
+  "document_type": "ozelge",
+  "number": "25953680-045.02-18449",
+  "source_id": 37708,
+  "date": "2023-05-20",
+  "title": "Çiftçilerden tomruk kereste alımında belge düzeni ve tevkifat hakkında.",
+  "source": "https://gib.gov.tr/mevzuat/kanun/433/ozelge/37708",
+  "related_law": "193 sayılı GELİR VERGİSİ KANUNU",
+  "source_api": "https://gib.gov.tr/api/gibportal/mevzuat/ozelge/list",
+  "source_listing": "evidence/list/2026-11-16/ozelge-p008.json",
+  "source_listing_sha256": "292c126217cc32c3ccfa57495ce433f89ef8db5e75fa1946d5819a76f81aff4d",
+  "source_sha256": "143852193dbb07b2dbe236cf692f94f9b93103c0bb837d7b0eb1a924a53db3cd",
+  "text_status": "as-enacted",
+  "text_file": "metin.md",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  }
+}
