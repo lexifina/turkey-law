@@ -1,0 +1,4 @@
+Tek ders sınavı
+MADDE 29 – (Değişik:RG-21/5/2023-32197)
+(1) Normal öğrenim ve yaz okulu süresi içinde öğretim planlarında gösterilmiş olan derslere yazılıp, derslerin devam koşullarını yerine getirmiş ve mezuniyet aşamasına gelmiş öğrencilerden staj, proje, uygulama ve bitirme çalışması hariç olmak üzere tek dersten başarısız olanlara süre kayıplarını önlemek amacı ile her yarıyıl sonunda, dersin açıldığı döneme bakılmaksızın tek ders sınavı açılır. AGNO’su 2,00’ın altında olan öğrenciler şartlı başarılı oldukları DC, DD harf notlu derslerden de tek ders sınavlarına girebilir. Tek ders sınavlarının mazeret sınav hakkı yoktur. Başarı notu hesaplamasında o dersle ilgili yarıyıl içi sınav notu ve diğer notlar değerlendirmeye alınmaz.
+(2) Tek ders sınavı, yarıyıl sonu sınav sonuçlarının ilanından sonra takip eden dönem başlamadan önce akademik takvimde belirlenen tarihlerde yapılır.
