@@ -1,0 +1,22 @@
+{
+  "kind": "norm",
+  "issuer": "Gelir İdaresi Başkanlığı",
+  "document_type": "ozelge",
+  "number": "E-49327596-120[GVK.ÖZ.2022.13]-97599",
+  "source_id": 21261,
+  "date": "2023-05-23",
+  "title": "Genç girişimci kazanç istisnası ve kargo yoluyla yapılan (mikro ihracat) ihracat kapsamında elde edilen kazanç indiriminden birlikte yararlanılıp yararlanılamayacağı",
+  "source": "https://gib.gov.tr/mevzuat/kanun/433/ozelge/21261",
+  "related_law": "193 sayılı GELİR VERGİSİ KANUNU",
+  "source_api": "https://gib.gov.tr/api/gibportal/mevzuat/ozelge/list",
+  "source_listing": "evidence/list/2026-11-16/ozelge-p000.json",
+  "source_listing_sha256": "5444faf84128246cd8dd8c6db754d41e2a11c7717342bfe0a07a35074d061761",
+  "source_sha256": "c5fb34397c562721a5b4b35c535d6b06e7676cc8c840531fe2b656a0c10a7458",
+  "text_status": "as-enacted",
+  "text_file": "metin.md",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  }
+}
