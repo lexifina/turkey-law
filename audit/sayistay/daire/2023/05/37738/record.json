@@ -1,0 +1,17 @@
+{
+  "kind": "decision",
+  "issuer": "Sayıştay 4. Dairesi",
+  "number": "306",
+  "decision_date": "2023-05-23",
+  "source_id": 37738,
+  "chamber": "4",
+  "ilam_number": "432",
+  "item_number": 1,
+  "public_body_type": "Genel Bütçe Kapsamındaki İdareler",
+  "account_year": 2015,
+  "subject": "Vergi Resmi Harç ve Diğer Gelirlerle İlgili Kararlar",
+  "source": "https://www.sayistay.gov.tr/KararlarDaire/Detay/37738/",
+  "source_sha256": "3eb2421a0d1af97d25ec68e481b0b23f635b79dda6784fd98e0e0dde3a0f9655",
+  "text_status": "as-enacted",
+  "text_file": "metin.md"
+}
