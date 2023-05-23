@@ -1,0 +1,22 @@
+{
+  "kind": "norm",
+  "issuer": "Gelir İdaresi Başkanlığı",
+  "document_type": "ozelge",
+  "number": "84098128-120[63-2022/1]-224293",
+  "source_id": 23453,
+  "date": "2023-05-23",
+  "title": "Defaten ödenen birikimli hayat sigortası primlerinin ücret matrahından indirimi",
+  "source": "https://gib.gov.tr/mevzuat/kanun/433/ozelge/23453",
+  "related_law": "193 sayılı GELİR VERGİSİ KANUNU",
+  "source_api": "https://gib.gov.tr/api/gibportal/mevzuat/ozelge/list",
+  "source_listing": "evidence/list/2026-11-16/ozelge-p001.json",
+  "source_listing_sha256": "e5c572e7d33c4a72997f66e3999bee09f80c627cabe3ea5a6521aa3f8abee01f",
+  "source_sha256": "5a43f942d02fc5979ef2692b28bf63d516dd6cb07eb7880816ea221c54a924ba",
+  "text_status": "as-enacted",
+  "text_file": "metin.md",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  }
+}
