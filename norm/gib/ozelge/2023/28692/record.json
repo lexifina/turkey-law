@@ -1,0 +1,22 @@
+{
+  "kind": "norm",
+  "issuer": "Gelir İdaresi Başkanlığı",
+  "document_type": "ozelge",
+  "number": "49327596-125[KVKÖZ.2022.93]-97624",
+  "source_id": 28692,
+  "date": "2023-05-23",
+  "title": "Uluslararası Taşımacılık Hizmetlerine Kurumlar Vergisi Kanunu Kapsamında 1 Puan Kurumlar Vergisi Oranında İndirim Uygulanması",
+  "source": "https://gib.gov.tr/mevzuat/kanun/435/ozelge/28692",
+  "related_law": "5520 sayılı KURUMLAR VERGİSİ KANUNU",
+  "source_api": "https://gib.gov.tr/api/gibportal/mevzuat/ozelge/list",
+  "source_listing": "evidence/list/2026-11-16/ozelge-p004.json",
+  "source_listing_sha256": "f3b82278308562f88be46cc93b2ac53a1050d59c304474af958f8b7377f5bef9",
+  "source_sha256": "4084add85172a45433e391bb3463ff3a5f5ccb9016e277348d30d0f829a5796f",
+  "text_status": "as-enacted",
+  "text_file": "metin.md",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  }
+}
