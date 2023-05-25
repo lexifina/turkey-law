@@ -1,0 +1,22 @@
+{
+  "kind": "norm",
+  "issuer": "Gelir İdaresi Başkanlığı",
+  "document_type": "ozelge",
+  "number": "62030549-120[Mük.80-2022]-577449",
+  "source_id": 24185,
+  "date": "2023-05-25",
+  "title": "Nevi değişikliği dolayısıyla anonim şirkete dönüşen şirkette nevi değişikliği nedeniyle ortaklara verilen hisse senetlerinin ilk iktisap tarihi.",
+  "source": "https://gib.gov.tr/mevzuat/kanun/435/ozelge/24185",
+  "related_law": "5520 sayılı KURUMLAR VERGİSİ KANUNU",
+  "source_api": "https://gib.gov.tr/api/gibportal/mevzuat/ozelge/list",
+  "source_listing": "evidence/list/2026-11-16/ozelge-p001.json",
+  "source_listing_sha256": "e5c572e7d33c4a72997f66e3999bee09f80c627cabe3ea5a6521aa3f8abee01f",
+  "source_sha256": "47c88f216ff6ae1f1b375a69a7c3bf88c602ecca6ada37e10a115ff7fd482740",
+  "text_status": "as-enacted",
+  "text_file": "metin.md",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  }
+}
