@@ -1,0 +1,48 @@
+{
+  "source_id": "7.5.38568",
+  "kind": "regulation",
+  "register_kind": "Kurum ve Kuruluş Yönetmelikleri",
+  "title": "BANKALARCA KULLANILACAK UZAKTAN KİMLİK TESPİTİ YÖNTEMLERİNE VE ELEKTRONİK ORTAMDA SÖZLEŞME İLİŞKİSİNİN KURULMASINA İLİŞKİN YÖNETMELİK",
+  "number": "38568",
+  "issuer": "Bankacılık Düzenleme ve Denetleme Kurumu Başkanı",
+  "issuer_slug": "bankacilik-duzenleme-ve-denetleme-kurumu-baskani",
+  "path": "regulation/bankacilik-duzenleme-ve-denetleme-kurumu-baskani/2021/38568",
+  "source": "https://www.mevzuat.gov.tr/anasayfa/MevzuatFihristDetayIframe?MevzuatTur=7&MevzuatNo=38568&MevzuatTertip=5",
+  "source_sha256": "92690e69e60db90164c1ca867059a44a0d7dfe63a42a7eb037632dab3e88fc35",
+  "source_bytes": 60199,
+  "published": "2021-04-01",
+  "gazette": "31441",
+  "in_force": "2023-05-25",
+  "in_force_basis": "latest Resmî Gazete date printed in the source amendment notes/table (\"RG-25/5/2023\") for the current consolidated text",
+  "date_evidence": [
+    [
+      "2023-05-25",
+      "RG-25/5/2023",
+      "Resmî Gazete date printed in the source amendment note"
+    ],
+    [
+      "2023-05-25",
+      "25/5/2023",
+      "Resmî Gazete date in the source amendment table"
+    ],
+    [
+      "2022-04-06",
+      "6/4/2022",
+      "Resmî Gazete date in the source amendment table"
+    ]
+  ],
+  "commencement_clauses": [
+    "Bu Yönetmelik 1/5/2021 tarihinde yürürlüğe girer"
+  ],
+  "history": "current-text",
+  "label": "oldest version available",
+  "checked_on": "2026-11-15",
+  "word_count": 3194,
+  "text_status": "current-consolidated",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  },
+  "completeness": "html-text-complete"
+}

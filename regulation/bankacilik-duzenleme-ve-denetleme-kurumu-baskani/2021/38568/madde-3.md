@@ -1,0 +1,20 @@
+Tanımlar ve kısaltmalar
+MADDE 3 – (1) Bu Yönetmelikte yer alan;
+a) (Değişik:RG-25/5/2023-32201)(2) Açık rıza: Belirli bir konuya ilişkin bilgilendirmeye dayanan ve özgür iradeyle açıklanan rızayı,
+b) Banka: Bankacılık Kanununun 3 üncü maddesinde tanımlanan bankaları,
+c) Beyaz ışık: Gün ışığı gibi görünürde renksiz olan ışığı,
+ç) BSEBY: 15/3/2020 tarihli ve 31069 sayılı Resmî Gazete’de yayımlanan Bankaların Bilgi Sistemleri ve Elektronik Bankacılık Hizmetleri Hakkında Yönetmeliği,
+d) Güvenlik ögeleri: Kimlik belgesinde yer alan giyoş, gökkuşağı baskı, optik değişken mürekkep, gizli görüntü, hologram ve mikro yazıyı,
+e) Kimlik belgesi: 3/12/2019 tarihli ve 30967 sayılı Resmî Gazete’de yayımlanan Türkiye Cumhuriyeti Kimlik Kartı Yönetmeliğinde tanımlanan kimlik kartını,
+f) Kimlik Paylaşımı Sistemi: 20/8/2020 tarihli ve 2837 sayılı Cumhurbaşkanı Kararıyla yürürlüğe konulan Kimlik Paylaşımı Sistemi Yönetmeliğinde tanımlanan Kimlik Paylaşımı Sistemini,
+g) (Değişik:RG-25/5/2023-32201)(2) Kişi: Uzaktan kimlik tespiti yapılacak gerçek kişiyi, gerçek kişi taciri veya tüzel kişiyi temsile yetkili gerçek kişiyi ya da gerçek kişileri,
+ğ) Kurul: Bankacılık Düzenleme ve Denetleme Kurulunu,
+h) MRZ: Optik karakter okuma yöntemlerini kullanarak makine okuması için biçimlendirilmiş, zorunlu ve isteğe bağlı verileri kapsayan, kimlik belgesi üzerinde yer alan sabit boyutlu alanı,
+ı) Müşteri temsilcisi: (Değişik ibare:RG-25/5/2023-32201)(2) Uzaktan kimlik tespitini yapacak banka personelini,
+i) SMS OTP: BSEBY’de tanımlanan SMS OTP’yi,
+j) Yakın alan iletişimi: Elektronik cihazların güvenilir, temassız işlem yapabilmesini ve sayısal içeriğe ve/veya elektronik cihazlara erişimini mümkün kılan, veri okuma ve yazmakta kullanılan kısa menzilli kablosuz teknolojiyi,
+k) (Ek:RG-25/5/2023-32201)(2) Gerçek faydalanıcı: 9/1/2008 tarihli ve 26751 sayılı Resmî Gazete’de yayımlanan Suç Gelirlerinin Aklanmasının ve Terörün Finansmanının Önlenmesine Dair Tedbirler Hakkında Yönetmelikte tanımlanan gerçek faydalanıcıyı,
+l) (Ek:RG-25/5/2023-32201)(2) Merkezi Sicil Kayıt Sistemi (MERSİS): 19/12/2012 tarihli ve 2012/4093 sayılı Bakanlar Kurulu Kararı ile yürürlüğe konulan Ticaret Sicili Yönetmeliğinde tanımlanan Merkezi Sicil Kayıt Sistemini,
+m) (Ek:RG-25/5/2023-32201)(2) Ticaret Sicili Gazetesi: Ticaret Sicili Yönetmeliğinde tanımlanan Türkiye Ticaret Sicili Gazetesini,
+n) (Ek:RG-25/5/2023-32201)(2) Tüzel kişi: 13/1/2011 tarihli ve 6102 sayılı Türk Ticaret Kanununda düzenlenen ticaret şirketlerini,
+ifade eder.
