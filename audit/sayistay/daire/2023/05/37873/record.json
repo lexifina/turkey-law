@@ -1,0 +1,17 @@
+{
+  "kind": "decision",
+  "issuer": "Sayıştay 1. Dairesi",
+  "number": "10911",
+  "decision_date": "2023-05-25",
+  "source_id": 37873,
+  "chamber": "1",
+  "ilam_number": "151",
+  "item_number": 6,
+  "public_body_type": "Genel Bütçe Kapsamındaki İdareler",
+  "account_year": 2021,
+  "subject": "İhale Mevzuatı ile İlgili Kararlar",
+  "source": "https://www.sayistay.gov.tr/KararlarDaire/Detay/37873/",
+  "source_sha256": "96e10f362f57c6147280f0aa7fe7935f7984882ae433c930d54da25d4a24d00b",
+  "text_status": "metadata-only",
+  "metadata_only_reason": "possible personal name in the official text"
+}
