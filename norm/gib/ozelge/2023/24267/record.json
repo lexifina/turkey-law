@@ -1,0 +1,22 @@
+{
+  "kind": "norm",
+  "issuer": "Gelir İdaresi Başkanlığı",
+  "document_type": "ozelge",
+  "number": "E-84098128-120.01[37-2022/7]-228029",
+  "source_id": 24267,
+  "date": "2023-05-25",
+  "title": "Yatırım teşvik belgesine sahip adi ortaklığın ortaklarının yıllık gelir vergisi beyannamesinde indirimli gelir vergisini nasıl hesaplayacakları hk.",
+  "source": "https://gib.gov.tr/mevzuat/kanun/433/ozelge/24267",
+  "related_law": "193 sayılı GELİR VERGİSİ KANUNU",
+  "source_api": "https://gib.gov.tr/api/gibportal/mevzuat/ozelge/list",
+  "source_listing": "evidence/list/2026-11-16/ozelge-p001.json",
+  "source_listing_sha256": "e5c572e7d33c4a72997f66e3999bee09f80c627cabe3ea5a6521aa3f8abee01f",
+  "source_sha256": "845f7e2c49c55ccc48e4c2484f49f3f330dde3b0d86f73f5b338a6f62928890f",
+  "text_status": "as-enacted",
+  "text_file": "metin.md",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  }
+}
