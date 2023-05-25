@@ -1,0 +1,25 @@
+{
+  "kind": "norm",
+  "issuer": "Enerji Piyasası Düzenleme Kurumu",
+  "market": "petroleum",
+  "document_type": "board-decision",
+  "number": "11866",
+  "decision_date": "2023-05-25",
+  "title": "Bayi Denetim Sisteminin Kurulması ve Uygulanması için Tüzel Kişilerin Yetkilendirilmesi Hakkında Karar",
+  "resmi_gazete_date": "2023-05-27",
+  "resmi_gazete_number": "32203",
+  "categories": [
+    "Bayi Denetim Sisteminin Kurulması ve Uygulanması için Tüzel Kişilerin Yetkilendirilmesi Hakkında Karar"
+  ],
+  "source": "https://www.epdk.gov.tr/Detay/DownloadDocument?id=L4SM8DT5Ymw=",
+  "documents": [
+    "https://www.epdk.gov.tr/Detay/DownloadDocument?id=L4SM8DT5Ymw="
+  ],
+  "source_sha256": "9f9ce7e02260a2fcbf1c99002d09cd8096e9810238b8579bceadebb60fac1071",
+  "official_list": "https://www.epdk.gov.tr/Detay/Icerik/3-0-100/kurul-kararlari",
+  "official_list_leaf": 27578,
+  "text_status": "as-enacted",
+  "text_file": "metin.md",
+  "in_force": "2023-05-25",
+  "law_text_complete": true
+}
