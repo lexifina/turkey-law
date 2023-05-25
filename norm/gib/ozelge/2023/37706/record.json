@@ -1,0 +1,22 @@
+{
+  "kind": "norm",
+  "issuer": "Gelir İdaresi Başkanlığı",
+  "document_type": "ozelge",
+  "number": "38418978-120[70-22/121]-220876",
+  "source_id": 37706,
+  "date": "2023-05-25",
+  "title": "Tapu Tescili Gerçekleşmemiş Gayrimenkulün Varislerden Birisi Tarafından Kiraya Verilmesi Durumunda Beyannamenin Kim Tarafından Verileceği.",
+  "source": "https://gib.gov.tr/mevzuat/kanun/433/ozelge/37706",
+  "related_law": "193 sayılı GELİR VERGİSİ KANUNU",
+  "source_api": "https://gib.gov.tr/api/gibportal/mevzuat/ozelge/list",
+  "source_listing": "evidence/list/2026-11-16/ozelge-p008.json",
+  "source_listing_sha256": "292c126217cc32c3ccfa57495ce433f89ef8db5e75fa1946d5819a76f81aff4d",
+  "source_sha256": "e1766e7f135c3d8580f2ca49dae1290f3bd5e67272699eb8842069e1c0119eaf",
+  "text_status": "as-enacted",
+  "text_file": "metin.md",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  }
+}
