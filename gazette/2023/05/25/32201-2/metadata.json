@@ -1,0 +1,20 @@
+{
+  "record_type": "gazette-item",
+  "gazette": "Resmî Gazete",
+  "jurisdiction": "TR",
+  "date": "2023-05-25",
+  "issue": "32201",
+  "edition": "regular",
+  "item": 2,
+  "section": "YÜRÜTME VE İDARE BÖLÜMÜ",
+  "heading": "TEBLİĞLER",
+  "title": "Olağanüstü Hal Kapsamında Enerji Tüketim Bedellerinin Terkinine İlişkin Usul ve Esaslar Hakkında Tebliğ",
+  "official_link": "https://www.resmigazete.gov.tr/eskiler/2023/05/20230525-2.htm",
+  "link_format": "htm",
+  "index_url": "https://www.resmigazete.gov.tr/eskiler/2023/05/20230525.htm",
+  "index_sha256": "b691b1477aef59b2cea42d983680662189b057087f7f4a615b3b4de9491ba98c",
+  "index_header": "25 Mayıs 2023 ... 32201 Sayılı Resmî Gazete",
+  "issue_pdf": "https://www.resmigazete.gov.tr/eskiler/2023/05/20230525.pdf",
+  "in_force_basis": "Resmî Gazete publication date; not a commencement reading.",
+  "text_status": "metadata-only; text not yet fetched (follow-up pass adds it as its own commit)"
+}
