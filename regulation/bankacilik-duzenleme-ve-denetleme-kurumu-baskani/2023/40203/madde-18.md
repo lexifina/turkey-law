@@ -1,0 +1,2 @@
+Yüzde on dikkate alma oranına tabi tutulan varlıklar
+MADDE 18- (1) Gerekli istikrarlı fon hesaplamasında, kredi kuruluşları veya finansal kuruluşlardan kalan vadesi altı aydan kısa olan, Bankaların Likidite Karşılama Oranı Hesaplamasına İlişkin Yönetmeliğin 6 ncı maddesinde belirtilen birinci kalite likit varlıklarla teminatlandırılmış, alınan teminatın alacağın vadesi boyunca serbestçe yeniden teminata konu edilebilen, kendisi teminata konu edilmemiş alacaklar yüzde on dikkate alma oranına tabi tutulur.

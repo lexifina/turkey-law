@@ -1,0 +1,4 @@
+Yüzde beş dikkate alma oranına tabi tutulan varlıklar
+MADDE 17- (1) Gerekli istikrarlı fon hesaplamasında 16 ncı maddede belirtilen varlıklar hariç aşağıdaki varlıklar yüzde beş dikkate alma oranına tabi tutulur:
+a) Bankaların Likidite Karşılama Oranı Hesaplamasına İlişkin Yönetmeliğin 6 ncı maddesinde belirtilen birinci kalite likit varlıklardan teminata konu edilmemiş olan varlıklar.
+b) Bankaların Sermaye Yeterliliğinin Ölçülmesine ve Değerlendirilmesine İlişkin Yönetmeliğin EK-1’inde belirtilen kredi kalitesi kademesi yüzde sıfır risk ağırlığına tekabül etmeyen ülkelerin merkezi yönetimleri ya da merkez bankalarınca ulusal para birimleri dışındaki bir para birimi cinsinden ihraç edilen borçlanma araçlarının Bankaların Likidite Karşılama Oranı Hesaplamasına İlişkin Yönetmelik kapsamında hesaplanan net nakit çıkışlarını aşan kısmı.

@@ -1,0 +1,7 @@
+Yüzde elli dikkate alma oranına tabi tutulan varlıklar
+MADDE 20- (1) Gerekli istikrarlı fon hesaplamasında, aşağıdaki varlıklar yüzde elli dikkate alma oranına tabi tutulur:
+a) Bankaların Likidite Karşılama Oranı Hesaplamasına İlişkin Yönetmeliğin 8 inci maddesinde belirtilen 2B kalite likit varlıklardan 16 ncı maddede dikkate alınan varlıklar hariç teminata konu edilmemiş olanlar.
+b) Kalan vadesi altı ay veya altı aydan uzun bir yıldan kısa olan merkez bankaları, kredi kuruluşları ve finansal kuruluşlardan alacaklar.
+c) Kredi kuruluşları veya finansal kuruluşlara depo edilen, kalan vadesi bir yıldan kısa olan, Bankaların Likidite Karşılama Oranı Hesaplamasına İlişkin Yönetmeliğin 15 inci maddesinde belirtilen operasyonel mevduat/katılım fonu.
+ç) Kredi kuruluşları veya finansal kuruluşlar dışındaki kurumsal müşteriler, çok taraflı kalkınma bankaları ve ulusal kalkınma bankaları, gerçek kişiler, perakende müşteriler, merkezi yönetimler ve kamu kuruluşlarından alacaklar dahil kalan vadesi bir yıldan kısa olan, Bankaların Likidite Karşılama Oranı Hesaplamasına İlişkin Yönetmelik uyarınca yüksek kaliteli likit varlık niteliğini haiz olmayan ve yukarıdaki hükümlerde belirtilmeyen diğer varlıklar.
+d) 17 nci, 18 inci, 19 uncu maddeler ile bu maddenin birinci fıkrasının (a) bendinde belirtilen varlıklardan teminata konu edilme süresi altı ay veya altı aydan uzun bir yıldan kısa olanlar.

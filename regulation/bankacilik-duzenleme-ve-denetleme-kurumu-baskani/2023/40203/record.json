@@ -1,0 +1,28 @@
+{
+  "source_id": "7.5.40203",
+  "kind": "regulation",
+  "register_kind": "Kurum ve Kuruluş Yönetmelikleri",
+  "title": "BANKALARIN NET İSTİKRARLI FONLAMA ORANI HESAPLAMASINA İLİŞKİN YÖNETMELİK",
+  "number": "40203",
+  "issuer": "Bankacılık Düzenleme ve Denetleme Kurumu Başkanı",
+  "issuer_slug": "bankacilik-duzenleme-ve-denetleme-kurumu-baskani",
+  "path": "regulation/bankacilik-duzenleme-ve-denetleme-kurumu-baskani/2023/40203",
+  "source": "https://www.mevzuat.gov.tr/anasayfa/MevzuatFihristDetayIframe?MevzuatTur=7&MevzuatNo=40203&MevzuatTertip=5",
+  "source_sha256": "b9350f051201495f0b28a8216be63519d2d70ba06d7b607d0909fdb317ae0f7e",
+  "source_bytes": 85495,
+  "published": "2023-05-26",
+  "gazette": "32202",
+  "in_force": "2023-05-26",
+  "in_force_basis": "Resmî Gazete publication date in the official listing (26.05.2023)",
+  "history": "current-text",
+  "label": "oldest version available",
+  "checked_on": "2026-11-15",
+  "word_count": 4133,
+  "text_status": "current-consolidated",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  },
+  "completeness": "html-text-complete"
+}
