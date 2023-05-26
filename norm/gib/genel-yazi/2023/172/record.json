@@ -1,0 +1,22 @@
+{
+  "kind": "norm",
+  "issuer": "Gelir İdaresi Başkanlığı",
+  "document_type": "genel-yazi",
+  "number": "87893753-110[3637-1]-46215",
+  "source_id": 172,
+  "date": "2023-05-26",
+  "title": "7440 sayılı Kanunda Yer Alan Başvuru ve İlk Taksit Ödeme Sürelerinin Uzatılması",
+  "source": "https://gib.gov.tr/mevzuat/kanun/468/genelyazilar/172",
+  "related_law": "7440 sayılı BAZI ALACAKLARIN YENİDEN YAPILANDIRILMASI İLE BAZI KANUNLARDA DEĞİŞİKLİK YAPILMASINA DAİR KANUN",
+  "source_api": "https://gib.gov.tr/api/gibportal/mevzuat/genelYazilar/list",
+  "source_listing": "evidence/list/2026-11-16/genelYazilar-p000.json",
+  "source_listing_sha256": "7fa6cf53cc6e422afa260107b4b730e46ac896bef1c1d196cf603add29126053",
+  "source_sha256": "a2d060027dbef42261650307c05b5856e0d6be95be66f839b8ff0ed82760eded",
+  "text_status": "as-enacted",
+  "text_file": "metin.md",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  }
+}
