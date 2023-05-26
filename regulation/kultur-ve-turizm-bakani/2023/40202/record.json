@@ -1,0 +1,31 @@
+{
+  "source_id": "7.5.40202",
+  "kind": "regulation",
+  "register_kind": "Kurum ve Kuruluş Yönetmelikleri",
+  "title": "ULUDAĞ ALAN KOMİSYONUNUN KURULUŞU, GÖREVLERİ, ÇALIŞMA USUL VE ESASLARI HAKKINDA YÖNETMELİK",
+  "number": "40202",
+  "issuer": "Kültür ve Turizm Bakanı",
+  "issuer_slug": "kultur-ve-turizm-bakani",
+  "path": "regulation/kultur-ve-turizm-bakani/2023/40202",
+  "source": "https://www.mevzuat.gov.tr/anasayfa/MevzuatFihristDetayIframe?MevzuatTur=7&MevzuatNo=40202&MevzuatTertip=5",
+  "source_sha256": "2cd205c8b0ad94f2b5ce9caf44c40223d35c032c8f72536a1d67990679706b1f",
+  "source_bytes": 51966,
+  "published": "2023-05-26",
+  "gazette": "32202",
+  "in_force": "2023-05-26",
+  "in_force_basis": "Resmî Gazete publication date in the official listing (26.05.2023); own commencement article: \"Bu Yönetmelik yayımı tarihinde yürürlüğe girer\"",
+  "commencement_clauses": [
+    "Bu Yönetmelik yayımı tarihinde yürürlüğe girer"
+  ],
+  "history": "current-text",
+  "label": "oldest version available",
+  "checked_on": "2026-11-15",
+  "word_count": 1288,
+  "text_status": "current-consolidated",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  },
+  "completeness": "html-text-complete"
+}
