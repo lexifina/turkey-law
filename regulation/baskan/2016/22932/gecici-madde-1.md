@@ -1,0 +1,2 @@
+İzmit Gaz Dağıtım Sanayi ve Ticaret Anonim Şirketi tarafından uygulanacak bedeller
+GEÇİCİ MADDE 1 – (1) DAG/183-33/028 numaralı dağıtım lisansı sahibi İzmit Gaz Dağıtım Sanayi ve Ticaret Anonim Şirketi tarafından özelleştirme tarihinden başlamak ve sekiz (8) yıl boyunca geçerli olmak üzere, sistem kullanım bedelleri olarak; aboneler için 1615 sayılı Kurul Kararı ile belirlenen birim hizmet ve amortisman bedeli, serbest tüketiciler için aynı Kurul Kararı ile belirlenen taşıma bedeli uygulanır.

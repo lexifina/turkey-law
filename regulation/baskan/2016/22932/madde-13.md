@@ -1,0 +1,5 @@
+Depolama tarifesi
+MADDE 13 – (1) Depolama tarifesi, sıvılaştırılmış doğal gaz (LNG) ile yer altı doğal gaz depolama hizmeti karşılığında oluşan ve depolama şirketi tarafından depolama hizmeti verilen tüzel kişiye tahakkuk ettirilen bedeller ile bu bedellerin uygulanmasına ilişkin hüküm ve şartlardan oluşur.
+(2) Depolama bedellerinin, depolama lisansı sahibi tüzel kişiler tarafından işletilen depolama tesislerine ilişkin olarak Kurul tarafından onaylanmış KUE ile ilgili mevzuat hükümleri çerçevesinde ve eşit taraflar arasında ayrım yapılmaması ilkesi esas alınarak, depolama şirketi ile hizmet alan tüzel kişi arasında serbestçe belirlenmesi esastır.
+(3) Depolama tarifeleri, ülkedeki depolama kapasitesi yeterli seviyeye ulaşıncaya kadar Kurul tarafından belirlenebilir. Bu durumda tarifeler, Kurul tarafından belirlenen usul ve esaslar ile KUE hükümleri kapsamında tespit edilir.
+(4) Depolama bedelleri, ilgili mevzuattaki hükümlere uygun olarak sabit ve değişken maliyetlerin karşılanması ve yatırımların sürdürülmesi için makul bir getiri elde edilmesine izin verilecek şekilde belirlenir.

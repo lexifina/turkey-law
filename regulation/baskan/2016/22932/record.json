@@ -1,0 +1,58 @@
+{
+  "source_id": "7.5.22932",
+  "kind": "regulation",
+  "register_kind": "Kurum ve Kuruluş Yönetmelikleri",
+  "title": "DOĞAL GAZ PİYASASI TARİFELER YÖNETMELİĞİ",
+  "number": "22932",
+  "issuer": "Başkan",
+  "issuer_slug": "baskan",
+  "path": "regulation/baskan/2016/22932",
+  "source": "https://www.mevzuat.gov.tr/anasayfa/MevzuatFihristDetayIframe?MevzuatTur=7&MevzuatNo=22932&MevzuatTertip=5",
+  "source_sha256": "83a3da97e323801a830b5a98114e2a22275ee36b832d97b57da8a6b1cd954941",
+  "source_bytes": 57312,
+  "published": "2016-10-13",
+  "gazette": "29856",
+  "in_force": "2023-05-27",
+  "in_force_basis": "latest Resmî Gazete date printed in the source amendment notes/table (\"RG-27/5/2023\") for the current consolidated text",
+  "date_evidence": [
+    [
+      "2023-05-27",
+      "RG-27/5/2023",
+      "Resmî Gazete date printed in the source amendment note"
+    ],
+    [
+      "2023-05-27",
+      "27/5/2023",
+      "Resmî Gazete date in the source amendment table"
+    ],
+    [
+      "2018-10-13",
+      "13/10/2018",
+      "Resmî Gazete date in the source amendment table"
+    ],
+    [
+      "2018-09-27",
+      "RG-27/9/2018",
+      "Resmî Gazete date printed in the source amendment note"
+    ],
+    [
+      "2018-09-27",
+      "27/9/2018",
+      "Resmî Gazete date in the source amendment table"
+    ]
+  ],
+  "commencement_clauses": [
+    "Bu Yönetmelik 1/1/2017 tarihinde yürürlüğe girer"
+  ],
+  "history": "current-text",
+  "label": "oldest version available",
+  "checked_on": "2026-11-15",
+  "word_count": 2837,
+  "text_status": "current-consolidated",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  },
+  "completeness": "html-text-complete"
+}

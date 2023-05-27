@@ -1,0 +1,7 @@
+İletim ve sevkiyat kontrol tarifeleri
+MADDE 12 – (1) (Değişik:RG-27/5/2023-32203) İletim ve sevkiyat kontrol tarifeleri; üretilen ve ithal edilen doğal gazın nakli için iletim şebekesinden yararlanan eşit taraflar arasında ayrım gözetmeksizin uygulanacak ve ŞİD kapsamında tanımlanan iletim bedeli ile üretilen, ithal ve ihraç edilen doğal gazın sevkiyat kontrolüne ilişkin bedeller ile tarifelerin uygulanmasına ilişkin hüküm ve şartlardan oluşur.
+(2) İletim bedeli, ilgili mevzuattaki hükümlere uygun olarak sabit ve değişken maliyetlerinin karşılanması ve yatırımların sürdürülmesi için makul bir getiri elde edilmesine izin verilecek şekilde belirlenir.
+(3) İletim bedeli, iletim kapasite bedeli ve iletim hizmet bedelinden oluşur. İlgili mevzuat hükümleri dikkate alınarak belirlenen iletim bedeli, iletim şirketi tarafından tedarikçiye tahakkuk ettirilir.
+(4) İletim şirketi Kuruma sunacağı tarife önerisinde; ters yönde, kesintili, kesintisiz ve benzeri taşıma hizmetleri için farklı tarifeler önerebilir.
+(5) İletim ve sevkiyat kontrol tarifeleri kapsamındaki bedeller, Kurul tarafından belirlenen usul ve esaslar ile ŞİD hükümleri esas alınarak hesaplanır.
+(6) (Değişik:RG-27/5/2023-32203) Kurum, transit iletim tarifelerini ve ihracata ilişkin iletim tarifelerini, Enerji ve Tabii Kaynaklar Bakanlığının görüşünü alarak yurt içi iletim tarifelerinden farklı usul ve esaslara göre tespit etme yetkisine sahiptir.
