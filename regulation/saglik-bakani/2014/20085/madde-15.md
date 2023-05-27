@@ -1,0 +1,6 @@
+Acil hizmetler ve ambulans
+MADDE 15 – (1) Özel hastane ve tıp merkezi bünyesindeki merkezlerde ilgili mevzuat çerçevesinde; müstakil merkezlerde ise, acil durumlarda veya gerekli tıbbi durumlarda hasta naklinde kullanılmak üzere ambulans hizmeti verilmesi zorunludur. Ambulans hizmeti aşağıda belirtilen yollardan biriyle verilir:
+a) Uygunluk belgesi olan tam donanımlı acil yardım ambulansı bulundurarak,
+b) Gerekli olduğunda çağrıdan itibaren on dakikada merkezde olunacağı taahhüt edilmek kaydıyla, 7/12/2006 tarihli ve 26369 sayılı Resmî Gazete’de yayımlanan Ambulanslar ve Acil Sağlık Araçları ile Ambulans Hizmetleri Yönetmeliğine göre faaliyet gösteren bir özel ambulans şirketi ile ambulans hizmeti alım sözleşmesi yaparak,
+c) (a) veya (b) bentlerinde tanımlanan ambulansların yetersiz olması halinde acil sağlık hizmetleri şube müdürlüğünce ve il ambulans servisi baştabipliğince yazılı olarak uygun görülmesi kaydıyla, 112 acil sağlık komuta kontrol merkezi koordinasyonuyla on dakika içinde ulaşabilecek istasyonlar vasıtasıyla ambulans hizmeti verebileceğini belgeleyerek.
+(2) Müstakil merkezlerde gelişen acil durumlarda, uygun şekilde ilk tıbbi müdahale ve diğer işlemler yapıldıktan sonra birinci fıkra kapsamında sağlanan ambulans ile hastanın nakli sağlanır.

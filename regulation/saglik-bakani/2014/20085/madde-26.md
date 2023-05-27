@@ -1,0 +1,9 @@
+Merkezin sorumlulukları ve uyması gerekli diğer hususlar
+MADDE 26 – (1) Merkezler, ÜYTE uygulaması sonucu gebe kalan hastaların doğum eylemi gerçekleşene kadar takibinden sorumludur. Bu kapsamda merkezler;
+a) Bünyesinde bulunduğu hastanede gebenin uzman hekimler tarafından takip edilmesini, doğum yapmasını ve gerekirse erişkin ve yenidoğan bakım hizmeti verilmesini sağlar.
+b) Gebenin merkezin bulunduğu ilin dışında ikamet etmesi halinde, ikametgâhının bulunduğu ildeki bir hastanede gebenin uzman hekimler tarafından takip edilmesini, doğum yapmasını ve gerekirse erişkin ve yenidoğan bakım hizmeti verilmesini sağlar.
+c) Herhangi bir aşamada kayıt dışına çıkan hastaları derhal müdürlüğe bildirir.
+(2) Uygulamaların takibinin sağlanabilmesi için merkezler tarafından; her yıl ocak ayında, bir önceki yılın çalışma verileri ve oluşmuş gebelik bilgileri Bakanlık tarafından belirlenmiş standart formlar kullanılarak Bakanlıkça oluşturulan elektronik kayıt sistemine düzenli olarak girilir.
+(3) Merkezler, bu Yönetmeliğin öngördüğü form ve dokümanları en az otuz yıl saklar ve Bakanlıkça istenildiğinde gönderir.
+(4) Müstakil merkezlerde doğum yaptırılamaz. Ancak, merkezler ÜYTE uygulaması sonucu oluşan gebeliklerin akıbetini idari olarak takip eder ve kendi istatistiklerinde belirterek eş zamanlı olarak müdürlüğe raporlar.
+(5) Faaliyette olan merkezlerin herhangi bir nedenle kapanması halinde merkezde takip edilen hasta, dondurularak saklanan embriyo, gonad dokusu veya gonad hücrelerine ait ilgili bilgi ve belgeler bağlı bulunduğu müdürlüğe en geç üç gün içinde bildirilir. İlgili müdürlük tarafından, merkeze en yakın hastane bünyesindeki merkez belirlenerek merkezde dondurularak saklanan embriyo, gonad dokusu veya gonad hücrelerinin muhafazasının sağlanması, hastaların mağdur edilmemesi bakımından işlemlerin devamının belirlenen merkez tarafından yürütülmesi için tutanakla merkeze teslim edilir.

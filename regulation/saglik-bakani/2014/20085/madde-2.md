@@ -1,0 +1,2 @@
+Kapsam
+MADDE 2 – (1) Bu Yönetmelik, bünyesinde üremeye yardımcı tedavi merkezi bulunan üniversite ile kamu kurum ve kuruluşlarına bağlı sağlık uygulama ve araştırma merkezleri ve hastaneleri, tıp merkezleri ile özel hastaneleri ve gerçek kişi ve özel hukuk tüzel kişilerine ait müstakil üremeye yardımcı tedavi merkezlerini ve bunların üremeye yardımcı tedavi yöntemleriyle ilgili faaliyetlerini ve işletenlerini kapsar.

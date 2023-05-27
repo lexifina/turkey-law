@@ -1,0 +1,5 @@
+Müstakil merkezlerin durumu ve kadrolarının tespiti
+GEÇİCİ MADDE 1 – (1) Bu Yönetmeliğin yayımı tarihine kadar Bakanlıktan faaliyet izni /ruhsatname alan müstakil merkezlerde, bu Yönetmeliğin yayımı tarihinde tam zamanlı olmak kaydıyla çalışan kadın hastalıkları ve doğum uzmanı, histoloji ve embriyoloji uzmanı, anestezi ve reanimasyon uzmanı ve üroloji uzmanı kadroları merkez kadrosu olarak kabul edilir.
+(2) Bu Yönetmeliğin yayımı tarihine kadar Bakanlıktan faaliyet izni/ruhsatname almış olan müstakil merkezler halihazırdaki bina şartları, fiziki standartları, sağlık çalışanları bakımından mevcut durumları ile faaliyetine devam ederler. Mevcut durumlarının tespitinde bu Yönetmeliğin yürürlüğe girdiği tarihteki resmi kayıtları esas alınır ve bu merkezlere Müdürlükçe ruhsat düzenlenir.
+(3) Bu madde kapsamındaki müstakil merkezlerin denetiminde bina şartları ve fiziki standartlar bakımından bu maddenin ikinci fıkrasına göre tespit edilen durum esas alınır.
+(4) Bu madde kapsamındaki müstakil merkezlerin taşınma talepleri Müdürlükçe bu Yönetmelikte belirtilen standartlar kapsamında değerlendirilerek sonuçlandırılır.

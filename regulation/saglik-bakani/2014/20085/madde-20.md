@@ -1,0 +1,21 @@
+Üreme hücreleri ve gonad dokularının saklanma kriterleri
+MADDE 20 – (1) İkinci ve üçüncü fıkralarda belirtilen tıbbi zorunluluk halleri dışında üreme hücreleri ve gonad dokularının saklanması yasaktır.
+(2) Erkeklerde üreme hücreleri ve gonad dokularının saklanmasını gerektiren tıbbî zorunluluk halleri şunlardır;
+a) Cerrahi yöntemlerle sperm elde edilmesi halinde,
+b) Kemoterapi ve radyoterapi gibi gonad hücrelerine zarar veren tedaviler öncesinde,
+c) Üreme fonksiyonlarının kaybedilmesine yol açacak olan ameliyatlar (testislerin alınması ve benzeri) öncesinde,
+ç) Çok az sayıda sperm olması (kriptozoospermi) durumunda.
+(3) Kadınlarda üreme hücreleri ve gonad dokularının saklanmasını gerektiren tıbbî zorunluluk halleri şunlardır;
+a) Kemoterapi ve radyoterapi gibi gonad hücrelerine zarar veren tedaviler öncesinde,
+b) Üreme fonksiyonlarının kaybedilmesine yol açacak olan ameliyatlar (yumurtalıkların alınması gibi operasyonlar) öncesinde,
+c) Düşük over rezervi olup henüz doğurmamış veya aile öyküsünde erken menopoz hikâyesinin üç uzman tabipten oluşan sağlık kurulu raporu ile belgelendirilmesi durumunda.
+(4) İkinci ve üçüncü fıkrada belirtilen zorunlu hallerde, üreme hücreleri ve gonad dokuları, verici adaya ait EDTA'lı kan örneği merkezde uygun şartlarda saklanır. Uygulama güvenliği açısından saklama öncesinde alınan bu kandan DNA kimliklendirme testleri yapılır ve bu bilgiler hasta dosyasına konulur ve bir örneği aileye verilir. İkinci fıkranın (a) ve (d) bentlerinde belirtilen tıbbi zorunluluklar nedeniyle sperm veya testis dokusunun saklanması durumunda, dondurulma tarihinden itibaren doksan gün içinde kullanılması halinde DNA analizi aranmaz. DNA analizi, saklanacak dokuya ait bireyden EDTA’lı tüpe alınacak venöz kan buzdolabında +4 derecede saklanmak koşuluyla bir hafta içinde ruhsatlı genetik hastalıklar tanı merkezine gönderilir. Genetik hastalıklar tanı merkezi DNA izolasyonunu takiben DNA kimliklendirme analizi yapar. Saklama süresinin bir yılı aşması halinde kişi mutlaka başvuruda bulunarak rızasının devam ettiğini ifade eden imzalı dilekçesini vermelidir. Dondurulan üreme hücreleri ve gonad dokuları, alınan kişinin yıllık protokol yenilememesi, isteği ve ölümü durumlarında müdürlükte kurulacak komisyon tarafından tutanak altına alınarak imha edilir. Bakanlıkça elektronik kayıt sistemi oluşturulması halinde merkezde saklanan üreme hücreleri ve gonad dokularına ilişkin bilgiler bu sisteme kaydedilir.
+(5) Adaylardan fazla embriyo elde edilmesi durumunda eşlerden her ikisinin rızası alınarak embriyolar dondurulmak suretiyle saklanır. Saklama süresinin bir yılı aşması halinde her yıl embriyonun saklanması için çiftler mutlaka başvuruda bulunarak taleplerinin devam ettiğini ifade eden imzalı dilekçe vermelidir. Eşlerin birlikte talebi, eşlerden birinin ölümü veya boşanmanın hükmen sabit olması halinde ya da belirlenen süre son bulduğunda saklanan embriyolar müdürlükte kurulacak komisyon tarafından tutanak altına alınarak imha edilir. Bakanlıkça elektronik kayıt sistemi oluşturulması halinde merkezde saklanan embriyolara ilişkin bilgiler bu sisteme kaydedilir.(3)
+(6) Bu maddenin ikinci ve üçüncü fıkralarında belirtilen numuneler, merkezlerde en fazla beş yıl süreyle saklanır. Beş yıldan fazla saklanması Bakanlığın iznine tabidir. Saklanan numunelerin değerlendirmeleri, sayımları ve tekrar kullanılmasını engelleyecek şekilde imhası ilgili müdürlük bünyesinde kurulacak komisyon marifetiyle yapılır.
+(7) Merkezlerde saklanan dondurulmuş embriyo ve/veya gonad dokusu/hücresi,
+a) Embriyo için eşlerin birlikte, gonad dokusu/hücresi sahibinin ise bireysel olarak her iki merkeze yazılı başvuruda bulunması,
+b) Embriyo ve/veya gonad dokusu/hücresinin teslim edildiği ve teslim alındığına dair yazılı olarak müdürlüğe bildirimde bulunulması,
+c) Transferin tüm sorumluluğunun ve ücretinin talep edene ait olması,
+ç) Transfere ait teknik donanım ve altyapının transferin gerçekleştirileceği merkezce sağlanması,
+d) Transferin gerçekleştirileceği tankın transfer edilecek materyalin saklandığı merkez tarafından mühürlenmesi ve materyalin teslim alındığı merkez tarafından mührün kontrol edilerek kendileri tarafından açıldığının tutanak altına alınması,
+halinde yurtiçindeki başka bir merkeze transfer edilebilir.
