@@ -1,0 +1,17 @@
+{
+  "kind": "decision",
+  "issuer": "Sayıştay 8. Dairesi",
+  "number": "288",
+  "decision_date": "2023-05-30",
+  "source_id": 37550,
+  "chamber": "8",
+  "ilam_number": "201",
+  "item_number": 6,
+  "public_body_type": "Yüksek Öğretim Kurumları",
+  "account_year": 2019,
+  "subject": "Personel Mevzuatı ile İlgili Kararlar",
+  "source": "https://www.sayistay.gov.tr/KararlarDaire/Detay/37550/",
+  "source_sha256": "1d9b2b39fcd420916d4d5fb305fd1f093f20436e986e3e8ed2e32ec3c6d8f7ab",
+  "text_status": "as-enacted",
+  "text_file": "metin.md"
+}
