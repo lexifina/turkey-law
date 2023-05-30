@@ -1,0 +1,2 @@
+Öğretim dili
+MADDE 6 – (1) Türkçe eğitim veren lisansüstü programlarda ders, proje ve tezler Türkçe yürütülür ve sonuçlandırılır. Öğrencinin önerisi, danışmanın ve anabilim/anasanat dalı başkanlığının onayı, Enstitü Yönetim Kurulunun nihai kararı ile tez, ayrıca başka bir dilde de hazırlanabilir. Yabancı dilde eğitim veren lisansüstü programlarda eğitimin tüm süreçleri bir bütün olarak eğitimin verildiği dilde tamamlanır.

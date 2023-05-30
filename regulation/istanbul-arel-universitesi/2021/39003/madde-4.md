@@ -1,0 +1,21 @@
+Tanımlar
+MADDE 4 – (1) Bu Yönetmelikte geçen;
+a) AKTS: Avrupa Kredi Transfer Sistemine göre, yıllık akademik çalışma içerisinde her bir dersin öğrenci için gerektirdiği iş yükünü gösteren krediyi,
+b) ALES: Akademik Personel ve Lisansüstü Eğitimi Giriş Sınavını,
+c) Anabilim/anasanat dalı: Enstitüde programı bulunan ve programın yürütülmesinden Enstitüye karşı sorumlu olan anabilim/anasanat dalını,
+ç) Anabilim dalı/anasanat dalı başkanı: İstanbul Arel Üniversitesine bağlı enstitülerde lisansüstü eğitim-öğretim programları bulunan anabilim/anasanat dalı başkanlarını,
+d) Enstitü: İstanbul Arel Üniversitesi Lisansüstü Eğitim Enstitüsünü,
+e) Enstitü Müdürü: İstanbul Arel Üniversitesine bağlı Lisansüstü Eğitim Enstitüsü Müdürünü,
+f) Enstitü Kurulu: Enstitü Müdürünün başkanlığında, Enstitü müdür yardımcıları ile Enstitüde eğitim programları bulunan anabilim/anasanat dalı başkanlarından oluşan kurulu,
+g) Enstitü Yönetim Kurulu: Enstitü Müdürünün başkanlığında, Enstitü müdür yardımcıları ile Müdürün göstereceği altı aday arasından üç yıl için görevlendirilen üç öğretim üyesinden oluşan kurulu,
+ğ) GNO: Genel not ortalamasını,
+h) İntihal: Başkalarının fikirlerini, metotlarını, verilerini veya eserlerini bilimsel kurallara uygun biçimde atıf yapmadan kısmen veya tamamen kendi eseri gibi göstermeyi,
+ı) Kredi: Bir yarıyıllık eğitim-öğretim süresince devam eden, haftada bir saatlik teorik ders veya iki saatlik uygulama karşılığını,
+i) Mütevelli Heyeti: İstanbul Arel Üniversitesi Mütevelli Heyetini,
+j) ÖSYM: Ölçme, Seçme ve Yerleştirme Merkezi Başkanlığını,
+k) Rektör: İstanbul Arel Üniversitesi Rektörünü,
+l) Senato: İstanbul Arel Üniversitesi Senatosunu,
+m) TUS: Tıpta Uzmanlık Sınavını,
+n) Üniversite: İstanbul Arel Üniversitesini,
+o) YDS: Yabancı Dil Bilgisi Seviye Tespit Sınavını,
+ifade eder.

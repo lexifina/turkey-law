@@ -1,0 +1,3 @@
+Ders saydırma
+MADDE 23 – (1) Öğrencilerin özel öğrencilik, yatay geçiş, daha önceki lisansüstü programından ders saydırma, bir veya daha fazla dersten muaf olma ve buna bağlı olarak süre eksiltme koşulları, akademik danışmanının görüşü, anabilim/anasanat dalı başkanlığının önerisi ve Enstitü Yönetim Kurulu kararı ile belirlenir.
+(2) Özel öğrenciler kabul edildikleri lisansüstü programının müfredatında okutulan derslerin en fazla %50’sinden muaf olabilir ve öğrencinin yazılı başvurusu, anabilim/anasanat dalı başkanının önerisi ve Enstitü Yönetim Kurulu kararı ile bu dersleri saydırabilirler. Söz konusu dersler için daha önce alınan not, başarı notu olarak Enstitü Müdürlüğünce sisteme girilir.

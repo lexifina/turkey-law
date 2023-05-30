@@ -1,0 +1,5 @@
+Derslerin AKTS kredisi değeri
+MADDE 26 – (1) Lisansüstü programların kredi veya YÖK tarafından ilgili programın yer aldığı diploma düzeyi ve alan için Türkiye Yükseköğretim Yeterlilikler Çerçevesine göre belirlenen kredi aralığı ve öğrencilerin çalışma saati göz önünde tutularak Senato tarafından belirlenen AKTS kredisine göre oluşturulmasında aşağıdaki hususlar dikkate alınır:
+a) Bir lisansüstü dersin yarıyıl kredi değeri, bir yarıyıl devam eden dersin haftalık teorik ders saatinin tamamı ile haftalık uygulama veya laboratuvar saatinin yarısının toplamıdır.
+b) İlgili diploma programını bitiren öğrencinin kazanacağı bilgi, beceri ve yetkinliklere o dersin katkısını ifade eden öğrenim kazanımları ile açıkça belirlenmiş teorik veya uygulamalı ders saatleri ve öğrenciler için öngörülen diğer faaliyetler için gerekli çalışma saatleri de göz önünde bulundurularak Senato tarafından belirlenen ilkeler çerçevesinde AKTS ders kredileri hesaplanır.
+(2) Derslerinin AKTS kredi değerleri ve hangi derslerin kredisiz olacağı, anabilim/anasanat dalı başkanlığının önerisi ve Enstitü Kurulu kararı ile tespit edilir.

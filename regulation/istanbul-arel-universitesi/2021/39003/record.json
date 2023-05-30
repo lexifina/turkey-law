@@ -1,0 +1,74 @@
+{
+  "checked_on": "2026-11-14",
+  "commencement_clauses": [
+    "MADDE 68 – (1) Bu Yönetmelik 2021-2022 eğitim-öğretim yılı güz döneminden itibaren geçerli olmak üzere yayımı tarihinde yürürlüğe girer."
+  ],
+  "date_evidence": [
+    [
+      "2021-10-17",
+      "17.10.2021",
+      "original gazette publication date in official listing"
+    ],
+    [
+      "2023-05-30",
+      "RG-30/5/2023-32206",
+      "latest source-printed gazette amendment date for current consolidated text"
+    ],
+    [
+      "2023-05-30",
+      "RG-30/5/2023-32206",
+      "latest source-printed gazette amendment date for current consolidated text"
+    ],
+    [
+      "2023-05-30",
+      "RG-30/5/2023-32206",
+      "latest source-printed gazette amendment date for current consolidated text"
+    ],
+    [
+      "2023-05-30",
+      "RG-30/5/2023-32206",
+      "latest source-printed gazette amendment date for current consolidated text"
+    ],
+    [
+      "2023-05-30",
+      "RG-30/5/2023-32206",
+      "latest source-printed gazette amendment date for current consolidated text"
+    ],
+    [
+      "2023-05-30",
+      "RG-30/5/2023-32206",
+      "latest source-printed gazette amendment date for current consolidated text"
+    ],
+    [
+      "2023-05-30",
+      "30/5/2023",
+      "latest gazette date in source amendment table"
+    ]
+  ],
+  "date_quote": "RG-30/5/2023-32206",
+  "first_law": null,
+  "gazette": "31631",
+  "history": "current-text",
+  "images": {
+    "deferred": 0,
+    "omitted": 0,
+    "referenced": 0,
+    "source": 0
+  },
+  "in_force": "2023-05-30",
+  "in_force_basis": "latest source-printed gazette amendment date for current consolidated text",
+  "issuer": "İstanbul Arel Üniversitesi",
+  "issuer_slug": "istanbul-arel-universitesi",
+  "kind": "regulation",
+  "label": "oldest version available",
+  "path": "regulation/istanbul-arel-universitesi/2021/39003",
+  "published": "2021-10-17",
+  "source": "https://www.mevzuat.gov.tr/anasayfa/MevzuatFihristDetayIframe?MevzuatTur=8&MevzuatNo=39003&MevzuatTertip=5",
+  "source_bytes": 164728,
+  "source_id": "8.5.39003",
+  "source_sha256": "e46cee5502f26076be70318c200c8ec2c69368ee955770b4c5deda91c4ec7742",
+  "text_status": "current-consolidated",
+  "title": "İSTANBUL AREL ÜNİVERSİTESİ LİSANSÜSTÜ EĞİTİM-ÖĞRETİM\r\nVE SINAV YÖNETMELİĞİ",
+  "university_id": 310,
+  "word_count": 10946
+}

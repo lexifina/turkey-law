@@ -1,0 +1,5 @@
+Ders tekrarı
+MADDE 24 – (1) Bir dersten başarılı sayılabilmek için, o dersten yarıyıl sonu notu olarak; yüksek lisans öğrencisinin en az (S) veya (CC), doktora/sanatta yeterlik öğrencisinin ise (S) veya (CB) notu almış olması gerekir. Öğrenciler; başarısız oldukları zorunlu derslere verildiği ilk yarıyılda kayıt yaptırmak, dersin alındığı dönemde devam koşulunu sağlamayanlar ise devam etmek suretiyle dersi tekrarlamak ve başarmak zorundadır.
+(2) Öğrenciler, başarısız oldukları seçmeli derslerin yerine isterlerse akademik danışmanlarının ve anabilim/anasanat dalı başkanlığının önerisi ve Enstitü Yönetim Kurulunun onayı ile diğer seçmeli dersleri alabilir.
+(3) Öğrenciler, genel not ortalamalarını yükseltmek amacıyla dersleri tekrarlayabilir veya seçmeli dersler yerine akademik danışmanınca kabul edilen başka seçmeli dersleri alabilir. Ancak bu durumda yarıyıl başında akademik danışmanın, anabilim/anasanat dalı başkanlığı aracılığıyla Enstitüye bilgi vermesi zorunludur.
+(4) Tekrar edilen ve not yükseltmek için alınan derslerde önceki başarı notu ne olursa olsun en son alınan not esas alınır.

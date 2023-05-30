@@ -1,0 +1,4 @@
+Sanatta yeterlik çalışması tez/eser izleme komitesi
+MADDE 56 – (1) Kredili derslerini ve uygulamalarını başarı ile tamamlayan öğrenci için anasanat dalı başkanlığının önerisi ve Enstitü Yönetim Kurulunun onayı ile bir ay içinde sanatta yeterlik tez/eser izleme komitesi oluşturulur. Komite tez/eser hazırlama sürecinde en az üç tez/eser izleme raporu düzenler.
+(2) Sanatta yeterlik tez/eser izleme komitesi üç öğretim üyesinden oluşur. Komitede danışmandan başka enstitü anasanat dalı içinden ve dışından birer üye yer alır. İkinci tez danışmanının olması durumunda ikinci tez danışmanı dilerse komite toplantılarına katılabilir.
+(3) Sanatta yeterlik tez/eser izleme komitesinin kurulmasından sonraki dönemlerde, enstitü anasanat dalı başkanlığının önerisi ve Enstitü Yönetim Kurulu onayı ile üyelerde değişiklik yapılabilir.

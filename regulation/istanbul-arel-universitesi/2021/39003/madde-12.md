@@ -1,0 +1,11 @@
+Sanatta yeterlik programına başvuru ve öğrenci kabulü
+MADDE 12 – (1) Sanatta yeterlik programına başvuracak adaylarda aşağıdaki şartlar aranır:
+a) Sanatta yeterlik programına, güzel sanatlar fakülteleri ile konservatuvar programları ile eşdeğer bir programın yüksek lisans diplomasıyla başvuran adaylarda, YDS veya Yükseköğretim Kurulu tarafından kabul edilen merkezî yabancı dil sınavları veya eşdeğerliği kabul edilen uluslararası yabancı dil sınavlarının birinden en az 55 puan veya muadili bir puan aranır. Diğer adaylar ayrıca sözel puan türünde en az 55 ALES puanına da sahip olmalıdır.
+b) Konservatuvar programları ile güzel sanatlar fakültelerinin sadece özel yetenek sınavı ile öğrenci kabul eden programlarının enstitülerdeki anasanat ve anabilim dallarındaki öğretim dili Türkçe olan programlarına başvurularda Devlet hastanesi veya Devlet üniversitesi hastanesinden alınmış sağlık raporu ile belgelenmesi şartıyla;
+1) Düzeltilmemiş engeli en az %70 veya düzeltilmiş engeli en az %40 ve üzeri olan işitme engelli adaylarda,
+2) Engel düzeyi %50 ve üzeri olmak üzere zihin yetersizliği bulunan engelli adaylarda,
+3) Engel düzeyi %40 ve üzeri “yaygın gelişimsel bozukluk” (Otizm spektrum bozukluğu/çocukluk otizmi/atipik otizm, Rett Sendromu, Asperger Sendromu) tanısı bulunan engelli adaylarda,
+başvuru yapabilmeleri için yabancı dil puanı aranmaz. Bu adaylar yabancı dil puanı olarak Üniversite tarafından aranan yabancı dil taban puanı şartını sağlamış sayılır.
+c) Lisans derecesiyle sanatta yeterlik programına başvuranların lisans mezuniyet not ortalamalarının 4,00 üzerinden en az 3,00 veya muadili bir puan olması gerekir.
+ç) Aday öğrenci sayısının kontenjanı aşması durumunda, aday öğrencileri değerlendirmek üzere anasanat dalı başkanının önerisi ile Enstitü Yönetim Kurulu tarafından en az üç asıl, iki yedek öğretim üyesinden oluşan bir komisyon kurulur. Komisyon başvurusuna esas teşkil eden lisans diplomasına ilişkin mezuniyet notunu, mülakat/yetenek sınavı puanı, portfolyo değerleme puanı, yabancı dil sınav puanı dikkate alarak adayları değerlendirir ve mezuniyet notu %10, mülakat/yetenek değerlendirme sınavı %40, portfolyo değerleme %30, yabancı dil sınav puanı %20 ağırlıklandırılır.
+d) Daha önce disiplin cezası almış olması nedeniyle herhangi bir lisans veya yüksek lisans programından ilişiği kesilmemiş olmak.

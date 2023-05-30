@@ -1,0 +1,3 @@
+Tebligat ve adres bildirme
+MADDE 62 – (1) Öğrencileri doğrudan ilgilendiren tebligatlar, öğrencilerin kayıt sırasında bildirdikleri adrese kargoyla, tüm öğrencileri ilgilendiren genel nitelikteki duyurular ise elektronik posta, ilan panolarında veya Enstitünün internet sitesinde ilan edilerek yapılır.
+(2) Üniversiteye kayıt yaptırırken Enstitü Müdürlüğüne bildirdikleri adresi değiştirdikleri halde, bunu Enstitüye bildirmemiş olan veya yanlış ve eksik adres vermiş bulunan öğrencilerin Enstitüdeki mevcut adreslerine tebligatın gönderilmesi halinde 11/2/1959 tarihli ve 7201 sayılı Tebligat Kanununun 35 inci maddesine göre tebligat kendilerine yapılmış sayılır.

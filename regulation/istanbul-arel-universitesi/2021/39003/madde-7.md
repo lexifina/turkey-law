@@ -1,0 +1,3 @@
+Kontenjanlar ve programlara kabul koşulları
+MADDE 7 – (1) Enstitü Kurulu kararı ile belirlenen lisansüstü program kontenjanları ve aday öğrencilerde aranacak nitelikler Senatoda kabul edildikten sonra Mütevelli Heyetinin onayı ile kesinleşir. Aday öğrenciler Enstitü tarafından talep edilen belgelerin aslı veya noter/ilgili kurum onaylı nüshalarıyla başvurabilir. Sınav tarihleri ve ilgili diğer koşullar Enstitü tarafından ayrıca ilan edilir.
+(2) Herhangi bir lisansüstü programın açılabilmesi için gerekli en az öğrenci sayısı Enstitü Yönetim Kurulunun teklifi, Senatonun uygun görüşü ve Mütevelli Heyetinin onayı ile belirlenir. Sayının bunun altında kalması durumunda, Yönetim Kurulu kararı ile söz konusu lisansüstü programı o yarıyıl için açılmayabilir.

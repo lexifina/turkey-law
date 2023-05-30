@@ -1,0 +1,2 @@
+Mazeret sınavları
+MADDE 29 – (1) Ara sınavlara giremeyen öğrenciler, mazeretlerini bildiren dilekçe ve belge ile sınav tarihini izleyen en geç beş iş günü içinde Enstitü Müdürlüğüne başvurur. Mazeretleri Enstitü Yönetim Kurulu tarafından kabul edilen öğrenciler sınav haklarını Yönetim Kurulunca belirlenen tarihler arasında kullanırlar. Mazeret sınavları için ikinci bir mazeret sınav hakkı verilmez. Yarıyıl sonu sınavının mazeret sınavı bulunmayıp, yarıyıl sonu sınavına giremeyenler bütünleme sınavına girerler.
