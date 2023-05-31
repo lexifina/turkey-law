@@ -1,0 +1,4 @@
+Genel sağlık sigortası ve prim ödeme zamanı
+MADDE 6- (1) Aday din görevlileri, mesleki eğitim süresince genel sağlık sigortalısı sayılırlar. Bu kapsamda sağlık kurumlarının muayene ve tedavi hizmetlerinden faydalanırlar. Bu kişilerin genel sağlık sigortası primleri, 31/5/2006 tarihli ve 5510 sayılı Sosyal Sigortalar ve Genel Sağlık Sigortası Kanununun 82 nci maddesine göre belirlenen prime esas günlük kazanç alt sınırının otuz günlük tutarı üzerinden Başkanlık bütçesinden ödenir.
+(2) Aday din görevlilerinin, 5510 sayılı Kanunun 3 üncü maddesinin birinci fıkrasının (10) numaralı bendine göre tespit edilecek eş ve çocukları ile ana ve babaları da bakmakla yükümlü olunan kişi sıfatıyla genel sağlık sigortasından yararlandırılır.
+(3) Sosyal Güvenlik Kurumu girişi ve primleri, ilgili Akademi merkezleri tarafından çalışma takviminde yazılı olan eğitim döneminin başlangıç tarihi esas alınarak yapılır.

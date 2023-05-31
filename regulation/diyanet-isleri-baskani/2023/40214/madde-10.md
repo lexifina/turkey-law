@@ -1,0 +1,3 @@
+Ders araç ve gereçleri ile diğer verilecekler
+MADDE 10- (1) Aday din görevlilerine mesleki eğitim programında yer alan temel kaynaklar ile derslerde takip edilmesi planlanan ve yeterliklerini geliştirmeye yönelik Akademi Başkanlığı tarafından okunması uygun görülen kitap, dergi ve benzeri basılı, görsel ve dijital materyaller, bütçe imkânları dâhilinde temin edilir ve ücretsiz olarak verilir.
+(2) Aday din görevlilerine, mesleki eğitim süresinde, masrafları Başkanlık bütçesine bu amaçla tahsis edilecek ödenekten karşılanmak üzere bu Yönetmeliğin eki “EK-1 ADAY DİN GÖREVLİLERİNE VERİLECEK EŞYA LİSTESİ”nde cins ve miktarı gösterilenler verilir.
