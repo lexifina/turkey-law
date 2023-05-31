@@ -1,0 +1,4 @@
+Disiplin cezalarına karşı başvuru yolları
+MADDE 22- (1) Aday din görevlilerine verilen disiplin cezaları geri alınamaz.
+(2) Süresi içinde itiraz edilmeyen uyarma ve kınama disiplin cezaları kesinleşir. Diyanet Akademisi müdürü tarafından verilen uyarma ve kınama cezalarına karşı Akademi Disiplin Kuruluna on beş gün içinde itiraz edilebilir. İtiraz, on beş gün içinde kesin olarak karara bağlanır. İtirazı inceleyen Akademi Disiplin Kurulu, verilen cezayı kabul veya ret edebilir. Kınama cezasına itirazın kabulü durumunda ilgili Diyanet Akademisi müdürü, aday din görevlisi hakkında daha alt bir disiplin cezası verebilir. Diyanet Akademisi müdürünün bu fıkra gereğince verdiği ceza kesindir.
+(3) Bu Yönetmelik hükümleri gereğince verilen uyarma, kınama ve ilişik kesme disiplin cezalarına karşı idari yargı yoluna başvurulabilir.

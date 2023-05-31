@@ -1,0 +1,3 @@
+Soruşturma raporu
+MADDE 16- (1) Soruşturmacı, disiplin soruşturması sonuçlandığında bir rapor düzenler. Raporda soruşturma onayı, soruşturmaya başlama tarihi, soruşturulanın kimliği, isnat edilen suç konuları, soruşturmanın safhaları, deliller ve alınan ifade özetlenir. İsnat edilen suçun sabit olup olmadığı değerlendirilir ve gerekli disiplin cezası teklif edilir. Soruşturmayla ilgili belgelerin aslı veya onaylı suretleri bir dizi pusulasına bağlanarak rapora eklenir.
+(2) Diyanet Akademisi müdürü tarafından görevlendirilen soruşturmacının hazırladığı soruşturma raporu Diyanet Akademisi müdürüne; Başkanlıkça görevlendirilen soruşturmacının hazırladığı soruşturma raporu ise Akademi Başkanlığına havale edilmek üzere Başkana, dosya ile birlikte tevdi edilir.

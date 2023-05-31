@@ -1,0 +1,31 @@
+{
+  "source_id": "7.5.40213",
+  "kind": "regulation",
+  "register_kind": "Kurum ve Kuruluş Yönetmelikleri",
+  "title": "DİYANET AKADEMİSİ ADAY DİN GÖREVLİLERİ DİSİPLİN YÖNETMELİĞİ",
+  "number": "40213",
+  "issuer": "Diyanet İşleri Başkanı",
+  "issuer_slug": "diyanet-isleri-baskani",
+  "path": "regulation/diyanet-isleri-baskani/2023/40213",
+  "source": "https://www.mevzuat.gov.tr/anasayfa/MevzuatFihristDetayIframe?MevzuatTur=7&MevzuatNo=40213&MevzuatTertip=5",
+  "source_sha256": "d5fc1622edb31c2ba198ce5c1f2c6dd0f3f35a706babc9e3d20358d4f7f4342f",
+  "source_bytes": 82161,
+  "published": "2023-05-31",
+  "gazette": "32207",
+  "in_force": "2023-05-31",
+  "in_force_basis": "Resmî Gazete publication date in the official listing (31.05.2023); own commencement article: \"Bu Yönetmelik yayımı tarihinde yürürlüğe girer\"",
+  "commencement_clauses": [
+    "Bu Yönetmelik yayımı tarihinde yürürlüğe girer"
+  ],
+  "history": "current-text",
+  "label": "oldest version available",
+  "checked_on": "2026-11-15",
+  "word_count": 2620,
+  "text_status": "current-consolidated",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  },
+  "completeness": "html-text-complete"
+}
