@@ -1,0 +1,30 @@
+{
+  "number": "month-05-2",
+  "year": 2023,
+  "month": 5,
+  "title": "Mayıs 2023 - Meclis Kararı 2",
+  "decision_date": null,
+  "index_date": "2023-05-31",
+  "date_precision": "month",
+  "period": "Mayıs 2023",
+  "source": "https://www.bozuyuk.bel.tr/meclis-kararlari/6",
+  "official_page": null,
+  "official_document": "https://www.bozuyuk.bel.tr/karar/mayis-2023-meclis-karari-2",
+  "source_sha256": "33370c9a6b83ade2b9703f24b8b460808d52bd44697d9f19bf97782cebf46174",
+  "issuer": "Bozüyük Belediye Meclisi",
+  "history_type": "metadata",
+  "text_status": "metadata-only: listing fields as published; the decisions are in the linked official document(s) or page, not transcribed",
+  "in_force": "2023-05-31",
+  "in_force_basis": "The official listing gives only the month of this official file (Mayıs 2023); date set to the last day of that month (turkey-law date convention for month-only sources); exact adoption dates are in the linked official document; legal commencement not asserted",
+  "missing": [
+    "decision numbers, dates and subjects",
+    "complete official decision text",
+    "official annexes"
+  ],
+  "law_text_complete": false,
+  "privacy_withheld": false,
+  "listing_label": "Mayıs 2023 - Meclis Kararı 2",
+  "record_scope": "one official file of council decisions (meeting or month)",
+  "list_date": "08-05-2023 17:00",
+  "document_note": "the decisions are published on the linked official page; not transcribed here"
+}
