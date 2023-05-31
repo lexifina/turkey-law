@@ -1,0 +1,21 @@
+Tanımlar ve kısaltmalar
+MADDE 4- (1) Bu Yönetmeliğin uygulanmasında;
+a) ABYS: Akademi Bilgi Yönetim Sistemini,
+b) Aday din görevlisi: 22/6/1965 tarihli ve 633 sayılı Diyanet İşleri Başkanlığı Kuruluş ve Görevleri Hakkında Kanunun 10/A maddesine göre Diyanet Akademisinde müezzin-kayyım, imam-hatip, Kur’an kursu öğreticisi ve vaizlik mesleki eğitimine alınanları,
+c) Akademi: Diyanet Akademisi merkez birimi ile taşra teşkilatındaki dinî yüksek ihtisas merkezleri, dinî ihtisas merkezleri ve eğitim merkezlerinden oluşan birimleri,
+ç) Akademi Başkanı: Diyanet Akademisi Başkanını,
+d) Akademi Başkanlığı: Diyanet Akademisi merkez birimini,
+e) Akademi merkezleri: Dinî yüksek ihtisas merkezleri, dinî ihtisas merkezleri ve eğitim merkezlerini,
+f) Başkan: Diyanet İşleri Başkanını,
+g) Başkanlık: Diyanet İşleri Başkanlığını,
+ğ) Danışman: Mesleki eğitime alınanların ilmi, mesleki, kültürel, sosyal ve kişisel yönde gelişimlerine rehberlik eden eğitim görevlisini,
+h) Diyanet Akademisi müdürü: Akademi merkezleri müdürlerini,
+ı) DNO: Bir dönem içindeki derslerin, her birinin kredi değeri ile o dersten alınan başarı notunun çarpımının, o dönemde alınan tüm derslerin kredi değerleri toplamına bölünmesi ile elde edilen dönem sonu ağırlıklı dönem not ortalamasını,
+i) Dönem: Sınav süreleri dâhil on beş haftadan oluşan güz, bahar ve yaz eğitim dönemlerinden her birini,
+j) Eğitim takvimi: Akademi Başkanlığı tarafından her eğitim yılı için ağustos ayında ilan edilen mesleki eğitim takvimini,
+k) Eğitim yılı: Eğitim takvimindeki güz, bahar ve yaz dönemlerinin toplamını,
+l) GNO: Tüm dönemlerde alınan derslerin, her birinin kredi değeri ile alınan başarı notunun çarpımının, alınan tüm derslerin kredi değerleri toplamına bölünmesiyle elde edilen genel ağırlıklı not ortalamasını,
+m) Kredi: Mesleki eğitimlerde verilen her bir ders için belirlenen değeri,
+n) Kursiyer: Diyanet İşleri Başkanlığı kadro veya pozisyonlarında görev yapan personelden Diyanet Akademisinde verilen hizmet içi eğitim, kurs ve sertifika programlarına katılanlar ile memur kadrolarında bulunan personelden, din hizmetleri sınıfına atanmak için gerekli öğrenim şartını taşıyan ve Diyanet İşleri Başkanlığınca yapılacak sınavda başarılı olanlardan, özlük hakları korunarak mesleki eğitime alınanları,
+o) Mesleki eğitim: Diyanet İşleri Başkanlığının din hizmetleri sınıfına ait unvanlarla ihdas edilen pozisyonlarına atanacak aday din görevlilerine atama yapılıncaya kadarki dönemi kapsayacak şekilde verilen mesleğe yönelik eğitim ile kursiyerlere verilen mesleğe yönelik eğitimi,
+ifade eder.

@@ -1,0 +1,4 @@
+Mesleki eğitimin değerlendirilmesi
+MADDE 14- (1) Mesleki eğitimlerin değerlendirmesi Akademi Başkanlığınca yapılır. Bu kapsamda eğitimlerin etkinliği ve verimliliği araştırılır. Eğitimin beklenen sonuçlara ulaşıp ulaşmadığının tespitine yönelik etki analizleri yapılır.
+(2) Eğitim programının etkinliğinin ve verimliliğinin değerlendirilmesine yardımcı olmak ve gelecek eğitim dönemlerine katkı sağlamak üzere eğitim öncesinde, sürecinde ve sonrasında yürütülen faaliyetlerle ilgili olarak eğitimde görev alanlar ile eğitime alınanların görüş ve düşüncelerinin alınmasına yönelik anket, ders takibi, gözlem ve görüşme gibi ölçme ve değerlendirme araçları uygulanır ve sonuçlar raporlanır. Hazırlanan bu raporlar hizmete özel olup bir sonraki eğitimlere yönelik planlamalarda değerlendirmeye alınır.
+(3) Eğitimin değerlendirilmesine yönelik iş ve işlemler ilgili daire başkanlığınca yürütülür.

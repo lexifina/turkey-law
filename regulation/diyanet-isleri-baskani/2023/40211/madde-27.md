@@ -1,0 +1,3 @@
+Devam-devamsızlık
+MADDE 27- (1) Mesleki eğitime alınanların eğitime katılmaları ve derslere devam etmeleri esastır. Mesleki eğitime alınanlar, geçerli mazeretler dışında devamsızlık yapamazlar. Ders devam-devamsızlık durumları Akademi merkezleri tarafından takip edilir.
+(2) Geçerli bir mazereti olsa dahi bir dönemde toplam yedi gün derslere devam etmeyen aday din görevlileri ve kursiyerler, eğitim hakkını kaybederler. Bu durumda olanların bir sonraki eğitim programına, ayrıldığı dönemin başından itibaren devam etmesine, bir defaya mahsus olmak üzere Akademi Başkanlığı tarafından karar verilebilir. Bu kişilerin bir sonraki eğitim programına başlayana kadar aday din görevlisi sıfatları ile buna bağlı idari ve mali hakları askıya alınır.

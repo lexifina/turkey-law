@@ -1,0 +1,2 @@
+Kılık ve kıyafet
+MADDE 29- (1) Mesleki eğitime alınanların kılık ve kıyafet esasları, 16/7/1982 tarihli ve 8/5105 sayılı Bakanlar Kurulu Kararı ile yürürlüğe konulan Kamu Kurum ve Kuruluşlarında Çalışan Personelin Kılık ve Kıyafetine Dair Yönetmelik çerçevesinde yürütülür. Kılık ve kıyafetlerin kurumsal kültür, üstlenmiş oldukları görev ve misyonu temsil edecek şekilde temiz, düzgün ve sade olması esastır.

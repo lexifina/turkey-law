@@ -1,0 +1,2 @@
+Sınav sonuçlarına itiraz
+MADDE 17- (1) Sınav sonuçlarına, ilanından itibaren üç iş günü içinde Akademi merkezlerine dilekçe ile itiraz edilebilir. Bu itirazlar, merkezi sınavlarda Akademi Başkanlığı tarafından oluşturulacak komisyonca, diğer sınavlarda ise ilgili dersin eğitim görevlisi ile iki üyeden oluşacak komisyonca incelenir ve sonuç en geç beş iş günü içinde ilgiliye bildirilir. Bu incelemeden sonra verilen puanlar kesindir.
