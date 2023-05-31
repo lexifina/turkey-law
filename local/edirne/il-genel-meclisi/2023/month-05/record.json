@@ -1,0 +1,29 @@
+{
+  "number": "month-05",
+  "year": 2023,
+  "month": 5,
+  "title": "İL GENEL MECLİSİ 2023 MAYIS AYI KARAR ÖZETLERİ",
+  "decision_date": null,
+  "index_date": "2023-05-31",
+  "date_precision": "month",
+  "period": "Mayıs 2023",
+  "source": "https://www.edirneozelidare.gov.tr/il-genel-meclisi-2023-mayis-ayi-karar-ozetleri",
+  "official_page": "https://www.edirneozelidare.gov.tr/il-genel-meclisi-2023-mayis-ayi-karar-ozetleri",
+  "official_document": "https://www.edirneozelidare.gov.tr/kurumlar/edirneozelidare.gov.tr/meclis/karar/2023/Mayis-Ayi-Meclis-Karar-Ozetleri-_2023_.pdf",
+  "source_sha256": "e96ca721f8ecf1d56844c66fee382fc8ab38d86379b74ab498a1611279535fbe",
+  "issuer": "Edirne İl Genel Meclisi",
+  "history_type": "metadata",
+  "text_status": "metadata-only: listing fields as published; the decisions are in the linked official document(s) or page, not transcribed",
+  "in_force": "2023-05-31",
+  "in_force_basis": "The official listing gives only the month of this official file (Mayıs 2023); date set to the last day of that month (turkey-law date convention for month-only sources); exact adoption dates are in the linked official document; legal commencement not asserted",
+  "missing": [
+    "decision numbers, dates and subjects",
+    "complete official decision text",
+    "official annexes"
+  ],
+  "law_text_complete": false,
+  "privacy_withheld": false,
+  "listing_label": "İL GENEL MECLİSİ 2023 MAYIS AYI KARAR ÖZETLERİ",
+  "record_scope": "one official file of council decisions (meeting or month)",
+  "item_title": "İL GENEL MECLİSİ 2023 MAYIS AYI KARAR ÖZETLERİ"
+}
