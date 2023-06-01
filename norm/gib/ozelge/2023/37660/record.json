@@ -1,0 +1,22 @@
+{
+  "kind": "norm",
+  "issuer": "Gelir İdaresi Başkanlığı",
+  "document_type": "ozelge",
+  "number": "21152195-130[2020/3229]-239092",
+  "source_id": 37660,
+  "date": "2023-06-01",
+  "title": "Envantere kayıtlı yük nakli-hususi olarak belirtilmiş olan kamyonete ilişkin giderler ve amortismanının indirimi.",
+  "source": "https://gib.gov.tr/mevzuat/kanun/435/ozelge/37660",
+  "related_law": "5520 sayılı KURUMLAR VERGİSİ KANUNU",
+  "source_api": "https://gib.gov.tr/api/gibportal/mevzuat/ozelge/list",
+  "source_listing": "evidence/list/2026-11-16/ozelge-p008.json",
+  "source_listing_sha256": "292c126217cc32c3ccfa57495ce433f89ef8db5e75fa1946d5819a76f81aff4d",
+  "source_sha256": "1237f2712b261a8bfec31ba7c3ae9285e85b3f50e89f6212222d8a4208673325",
+  "text_status": "as-enacted",
+  "text_file": "metin.md",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  }
+}
