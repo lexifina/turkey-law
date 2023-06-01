@@ -1,0 +1,34 @@
+{
+  "source_id": "7.5.40217",
+  "kind": "regulation",
+  "register_kind": "Kurum ve Kuruluş Yönetmelikleri",
+  "title": "ULUSAL SERİ SERBEST BIRAKMA YÖNETMELİĞİ",
+  "number": "40217",
+  "issuer": "Türkiye İlaç ve Tıbbî Cihaz Kurumu Başkanı",
+  "issuer_slug": "turkiye-ilac-ve-tibbi-cihaz-kurumu-baskani",
+  "path": "regulation/turkiye-ilac-ve-tibbi-cihaz-kurumu-baskani/2023/40217",
+  "source": "https://www.mevzuat.gov.tr/anasayfa/MevzuatFihristDetayIframe?MevzuatTur=7&MevzuatNo=40217&MevzuatTertip=5",
+  "source_sha256": "90a3d5e6d1ddf4b89cb6bae8ed557ab77e385b65a2fe2a96ea4d79e806a97f4f",
+  "source_bytes": 113339,
+  "published": "2023-06-01",
+  "gazette": "32208",
+  "in_force": "2023-06-01",
+  "in_force_basis": "Resmî Gazete publication date in the official listing (01.06.2023); own commencement article: \"Bu Yönetmelik yayımı tarihinde yürürlüğe girer\"",
+  "commencement_clauses": [
+    "Bu Yönetmelik yayımı tarihinde yürürlüğe girer"
+  ],
+  "history": "current-text",
+  "label": "oldest version available",
+  "checked_on": "2026-11-15",
+  "word_count": 3664,
+  "text_status": "current-consolidated",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  },
+  "source_links": [
+    "7.5.40217-ek.zip"
+  ],
+  "completeness": "html-text-complete; linked annexes not fetched"
+}
