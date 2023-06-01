@@ -1,0 +1,17 @@
+{
+  "kind": "decision",
+  "issuer": "Sayıştay 3. Dairesi",
+  "number": "455",
+  "decision_date": "2023-06-01",
+  "source_id": 37813,
+  "chamber": "3",
+  "ilam_number": "148",
+  "item_number": 6,
+  "public_body_type": "Belediyeler ve Bağlı İdareler",
+  "account_year": 2021,
+  "subject": "İhale Mevzuatı ile İlgili Kararlar",
+  "source": "https://www.sayistay.gov.tr/KararlarDaire/Detay/37813/",
+  "source_sha256": "82a1be11e8575d4727179c43a26b765f8ad5017ce3dc09c7296493ef1e0a9b92",
+  "text_status": "metadata-only",
+  "metadata_only_reason": "possible personal name in the official text"
+}
