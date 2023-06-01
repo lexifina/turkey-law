@@ -1,0 +1,2 @@
+Risk Merkezinin sorumluluğu
+MADDE 24 – (1) Risk Merkezinin, üyeleri veya kaynak kuruluşlar tarafından kendisine verilen bilgilerin doğruluğunu araştırma yükümlülüğü bulunmamakta ve bu bilgilerden kaynaklanabilecek ihtilaflarda herhangi bir taraf sıfatı da bulunmamaktadır. Şu kadar ki Risk Merkezi, kendi kusuru ile sebebiyet verdiği zararlardan dolayı üyeler, kaynak kuruluşlar ve üçüncü şahıslara karşı sorumludur.

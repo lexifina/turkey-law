@@ -1,0 +1,2 @@
+Posta yoluyla teslim
+MADDE 18 – (1) (Değişik:RG-6/8/2013-28730) Başvuru sahibi, Risk Merkezi raporunun yazılı metin halinde ve başvuru formunda belirtmiş olduğu kendisinin veya muvafakat verdiği gerçek veya tüzel kişinin açık adresine posta yoluyla gönderilmesini talep etmiş ise; Risk Merkezi raporu, mücbir sebepler hariç, başvurunun Risk Merkezine ulaştığı tarihi takip eden en geç otuz gün içinde hazırlanır ve Risk Merkezince postaya verilir.

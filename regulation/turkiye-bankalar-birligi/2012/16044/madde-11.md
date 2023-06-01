@@ -1,0 +1,2 @@
+MADDE 11 – (1) (Değişik:RG-6/8/2013-28730) Gerçek veya tüzel kişi müşterinin, Risk Merkezi raporunu gerçek kişi veya özel hukuk tüzel kişisine verilmesini talep etmesi durumunda Risk Merkezinin internet sitesinde örneği verilen Risk Merkezi raporunun üçüncü kişilere verilmesine ilişkin başvurusu ve onay belgesinin düzenlenmesi gerekmektedir.
+(2) (Değişik:RG-6/8/2013-28730) Gerçek veya tüzel kişi müşterinin Risk Merkezi raporunun gerçek kişi veya özel hukuk tüzel kişisine verilmesine ilişkin başvuru, bu Yönetmeliğin başvuruya ilişkin maddeleri hükümlerine tabidir.

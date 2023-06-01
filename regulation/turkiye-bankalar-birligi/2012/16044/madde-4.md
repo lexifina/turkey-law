@@ -1,0 +1,8 @@
+İKİNCİ BÖLÜM
+Risk Merkezi Raporu Başvuru Usul ve Esasları
+Gerçek kişi müşterinin şahsen başvurusu
+MADDE 4 – (1) Gerçek kişi müşteri, Risk Merkezi raporu için Risk Merkezine veya Risk Merkezi Yönetimi tarafından belirlenmiş üyelerden birine şahsen başvurabilir. Risk Merkezine ve Risk Merkezi Yönetimi tarafından belirlenmiş üyelere hangi adreslerde ve hangi gün ve saatlerde şahsen başvuru yapılabileceği Risk Merkezi Yönetimi tarafından belirlenir ve Risk Merkezinin internet sitesi aracılığı ile duyurulur. Belirlenen adreslerin dışındaki adreslere yapılacak başvurular dikkate alınmaz.
+(2) Gerçek kişi müşterinin başvurusunda kişinin adı, soyadı, doğum yeri ve tarihi, uyruğu, kimlik belgesinin türü ve numarası, adresi ve varsa telefon numarası, elektronik posta adresi ile Türk vatandaşları için bu bilgilere ilave olarak anne, baba adı ve T.C. kimlik numarası alınır.
+(3) (Değişik:RG-1/6/2023-32208) Müşterinin beyan ettiği kimlik bilgilerinin doğruluğu; aslını ibraz ettiği; Türk uyruklular için T.C. nüfus cüzdanı, T.C. sürücü belgesi, pasaport veya üzerinde T.C. kimlik numarası bulunan ve özel kanunlarında resmi kimlik hükmünde olduğu açıkça belirtilen kimlik belgelerinden herhangi biri ile, Türk uyruklu olmayanlar için pasaport ile teyit edilir.
+(4) Gerçek kişi müşterinin başvurusu, Risk Merkezinin internet sitesinde örneği verilen başvuru formunu Risk Merkezi veya belirlenmiş üye yetkilileri nezdinde imzalaması ve Risk Merkezi raporunun ücretini ödediğine dair dekontu başvuru formuna eklemesi koşuluyla geçerli kabul edilir.
+(5) Risk Merkezi raporunun teslimi için bu Yönetmelikte belirtilen teslim yöntemlerinden hangisinin tercih edildiği başvuru formunda belirtilmek zorundadır.

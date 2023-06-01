@@ -1,0 +1,63 @@
+{
+  "source_id": "7.5.16044",
+  "kind": "regulation",
+  "register_kind": "Kurum ve Kuruluş Yönetmelikleri",
+  "title": "TÜRKİYE BANKALAR BİRLİĞİ RİSK MERKEZİ ÜYELERİNİN MÜŞTERİLERİNİN RİSK MERKEZİ NEZDİNDEKİ BİLGİLERİNİN KENDİLERİNE YA DA ONAY VERMELERİ KOŞULUYLA BELİRLEDİKLERİ GERÇEK VEYA TÜZEL KİŞİLERE VERİLMESİNE İLİŞKİN ESAS VE USULLER HAKKINDA YÖNETMELİK",
+  "number": "16044",
+  "issuer": "Türkiye Bankalar Birliği",
+  "issuer_slug": "turkiye-bankalar-birligi",
+  "path": "regulation/turkiye-bankalar-birligi/2012/16044",
+  "source": "https://www.mevzuat.gov.tr/anasayfa/MevzuatFihristDetayIframe?MevzuatTur=7&MevzuatNo=16044&MevzuatTertip=5",
+  "source_sha256": "307dfe797d8b3050ad0da1808601f37019a5f24fb4da0df621ca57094a816920",
+  "source_bytes": 58491,
+  "published": "2012-04-10",
+  "gazette": "28260",
+  "in_force": "2023-06-01",
+  "in_force_basis": "latest Resmî Gazete date printed in the source amendment notes/table (\"RG-1/6/2023\") for the current consolidated text",
+  "date_evidence": [
+    [
+      "2023-06-01",
+      "RG-1/6/2023",
+      "Resmî Gazete date printed in the source amendment note"
+    ],
+    [
+      "2023-06-01",
+      "1/6/2023",
+      "Resmî Gazete date in the source amendment table"
+    ],
+    [
+      "2013-08-06",
+      "RG-6/8/2013",
+      "Resmî Gazete date printed in the source amendment note"
+    ],
+    [
+      "2013-08-06",
+      "6/8/2013",
+      "Resmî Gazete date in the source amendment table"
+    ],
+    [
+      "2012-12-19",
+      "RG-19/12/2012",
+      "Resmî Gazete date printed in the source amendment note"
+    ],
+    [
+      "2012-12-19",
+      "19/12/2012",
+      "Resmî Gazete date in the source amendment table"
+    ]
+  ],
+  "commencement_clauses": [
+    "Bu Yönetmelik yayımı tarihinde yürürlüğe girer"
+  ],
+  "history": "current-text",
+  "label": "oldest version available",
+  "checked_on": "2026-11-15",
+  "word_count": 2608,
+  "text_status": "current-consolidated",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  },
+  "completeness": "html-text-complete"
+}

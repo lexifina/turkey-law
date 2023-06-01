@@ -1,0 +1,3 @@
+Risk Merkezi raporunun düzenlenmesi ve teslim süreci
+MADDE 16 – (1) Başvurunun geçerli kabul edilmesi durumunda Risk Merkezi raporu Risk Merkezi tarafından düzenlenir.
+(2) (Değişik:RG-6/8/2013-28730) Raporun başvuru sahibine veya muvafakat verdiği gerçek veya tüzel kişiye teslimi, bu Yönetmelikte belirtilen teslim yöntemleri ve Risk Merkezi Yönetimi tarafından belirlenen, üyeler aracılığıyla teslim yöntemi dahil diğer teslim yöntemleri kullanılmak suretiyle gerçekleştirilir. Başvuru sahibi başvurusunda Yönetmelikte belirtilen veya Risk Merkezi Yönetimi tarafından belirlenen yöntemlerden birini seçmek zorundadır. Başvuru sahibi bu yöntemler dışında bir yöntemle Risk Merkezi raporunun teslim edilmesini isteyemez.

@@ -1,0 +1,3 @@
+Bilgi alışverişine yönelik sözleşme yapılması durumunda onay verilmesi
+MADDE 12 – (1) Müşterinin Risk Merkezi raporunun, imzalanan bilgi alışverişi sözleşmeleri kapsamında özel hukuk tüzel kişileri ile kamu kurum ve kuruluşlarına, kamu kurumu niteliğinde meslek kuruluşlarına ve bunların üst kuruluşlarına verilmesi, müşterinin onayının alınması koşuluyla mümkündür.
+(2) Risk Merkezi raporunun özel hukuk tüzel kişileri ile kamu kurum ve kuruluşlarına, kamu kurumu niteliğinde meslek kuruluşlarına ve bunların üst kuruluşlarına verilmesine ilişkin Risk Merkezinin internet sitesinde örneği verilen onay belgesinin alınmasına yönelik işlemler bu Yönetmeliğin kimlik tespiti ve onay vermeye ilişkin hükümlerine tabidir.
