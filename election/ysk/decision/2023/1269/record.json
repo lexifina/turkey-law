@@ -1,0 +1,17 @@
+{
+  "issuer": "Yüksek Seçim Kurulu",
+  "document_type": "decision",
+  "number": "2023/1269",
+  "list_number": "1269",
+  "decision_date": "2023-06-01",
+  "title": "Yüksek Seçim Kurulunun 28 Mayıs 2023 Pazar günü yapılan Cumhurbaşkanı Seçimi İkinci Oylaması kesin sonuçlarının tespitine ilişkin 01/06/2023 Tarihli ve 2023/1269 Sayılı Kararı",
+  "official_document": "https://www.ysk.gov.tr/doc/karar/dosya/46610370/2023-1269.pdf",
+  "source_sha256": "5dfd76a94517856b393a911fe6df571b9411648309083981421e6a0eed6dfe54",
+  "official_list": "https://www.ysk.gov.tr/doc/karar/kararlar.txt",
+  "official_list_sha256": "0733001df8fd09fa2f4155954da343809b59b823ecd8d57ad2e679c4264f5a84",
+  "pdf_pages": 6,
+  "text_status": "metadata-only",
+  "metadata_only_reason": "the two text extractions (PyMuPDF / pdftotext) differ",
+  "in_force": "2023-06-01",
+  "law_text_complete": false
+}
