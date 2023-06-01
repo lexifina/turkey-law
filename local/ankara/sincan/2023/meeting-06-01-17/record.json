@@ -1,0 +1,23 @@
+{
+  "number": "meeting-06-01-17",
+  "number_as_published": null,
+  "year": 2023,
+  "title": "council decision",
+  "decision_date": "2023-06-01",
+  "source": "https://www.sincan.bel.tr/mecliskararlari",
+  "official_document": "https://www.sincan.bel.tr/upload/mecliskararlari/KARAR_119_-_YUSUF_EREN_ATEC59EE_SPORU_DESTEK_AMACIYLA_NAKDC4B0_YARDIM_YAPILMASI_1.docx",
+  "source_sha256": "b415f62ea17c4060f9082a51ec5aa38666e4afb816b854305461d3b951680349",
+  "issuer": "Sincan Belediye Meclisi",
+  "history_type": "metadata",
+  "text_status": "metadata-only: subject appears to concern individual persons; official link only",
+  "in_force": "2023-06-01",
+  "in_force_basis": "Decision date as printed in the official council listing: TARİH:2023-06-01; adoption date of the council decision; legal commencement not asserted",
+  "missing": [
+    "complete official decision text",
+    "official annexes"
+  ],
+  "law_text_complete": false,
+  "privacy_withheld": true,
+  "official_page": "https://www.sincan.bel.tr/mecliskararlari",
+  "number_note": "the official list prints this decision without a number; key = order among that day's unnumbered decisions"
+}
