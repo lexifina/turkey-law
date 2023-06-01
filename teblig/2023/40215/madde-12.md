@@ -1,0 +1,14 @@
+Takibe yetkili vergi dairesi ve takibe ilişkin yapılacak işlemler
+MADDE 12- (1) Genel bütçeye gelir kaydedilmesi gereken ancak süresinde ödenmemiş ve kesinleşmiş olan idari para cezaları, cezayı veren birim tarafından;
+a) Borçlunun gelir veya kurumlar vergisi yönünden bağlı olduğu vergi dairesine,
+b) Borçlunun gelir veya kurumlar vergisi yönünden bağlı olduğu vergi dairesi bulunmaması halinde ikametgahının bulunduğu yerdeki süreksiz vergileri tahsil ile görevli vergi dairesine, birden fazla süreksiz vergi dairesi bulunması halinde cezanın takibi hususunda yetkili vergi dairesine,
+c) 2918 sayılı Kanun ve 10/7/2003 tarihli ve 4925 sayılı Karayolu Taşıma Kanunu kapsamında verilen idari para cezaları ile 6001 sayılı Kanun kapsamında verilen idari para cezaları ve geçiş ücretleri borçlunun motorlu taşıtlar vergisi yönünden bağlı olduğu vergi dairesine, borçlunun motorlu taşıtlar vergisi yönünden bağlı olduğu vergi dairesi bulunmaması halinde ikametgahının bulunduğu yerdeki süreksiz vergileri tahsil ile görevli vergi dairesine, birden fazla süreksiz vergi dairesi bulunması halinde cezanın takibi hususunda yetkili vergi dairesine,
+ç) (a), (b) ve (c) bentlerine göre takibe yetkili vergi dairesinin tespit edilememesi durumunda idari para cezası cezayı veren birimin bulunduğu yerdeki süreksiz vergileri tahsil ile görevli vergi dairesine, birden fazla süreksiz vergi dairesi bulunması halinde cezanın takibi hususunda yetkili vergi dairesine,
+takip için bildirilir.
+(2) Genel bütçe geliri olduğu halde, takip edilebilmesi için kesinleşmiş olma şartı hususi kanunla yapılan düzenleme ile kaldırılan idari para cezalarının takibine, birinci fıkra kapsamında yapılacak bildirim üzerine yetkili vergi dairesince kesinleşme şartı aranılmaksızın başlanır.
+(3) Genel bütçeye gelir kaydedilmediği halde, takibi hususi kanun gereğince vergi dairelerince yapılan idari para cezalarının takibine, birinci fıkra kapsamında yapılacak bildirim üzerine başlanır.
+(4) Vergi dairesine takip edilmek için bildirilen idari para cezalarına ilişkin kararlarda yer alması gereken hususların eksik olması halinde, eksiklerin tamamlanması amacıyla bu kararlar cezayı veren birime iade edilir.
+(5) Takip için vergi dairesine bildirilmiş olan idari para cezalarından takibi kesinleşme şartına bağlı olanların kesinleşmediğinin anlaşılması halinde, bu cezalar cezayı veren birime iade edilir.
+(6) Takip için vergi dairesine bildirilmiş olan idari para cezalarının takibine, 6183 sayılı Kanunun 55 inci maddesine göre düzenlenecek ödeme emrinin tebliğiyle başlanır.
+(7) Takip için vergi dairesine bildirilmiş olan idari para cezalarına ilişkin idari yaptırım kararının kesinleşme tarihi, zamanaşımı süresinin takibi için vergi dairesi kayıtlarında izlenir.
+(8) Takip için bildirilen idari para cezasının tam olarak tahsil edilmesi üzerine, vergi dairesince durum bir ay içinde cezaya veren birime bildirilir.

@@ -1,0 +1,7 @@
+Takip usulü ve takibe yetkili merci
+MADDE 11- (1) Genel bütçeye gelir kaydedilen idari para cezalarından süresinde ödenmeyen ve kesinleşenlerin, cezayı veren birim tarafından takibe yetkili vergi dairesine tebliğ tarihi bilgisiyle birlikte bildirilmesi üzerine bu cezalar 6183 sayılı Kanuna göre takip ve tahsil edilir.
+(2) Ticaret Bakanlığınca gümrük mevzuatı kapsamında verilen idari para cezalarının süresinde ödenmemesi ve kesinleşmesi üzerine, bu cezalar Ticaret Bakanlığının ilgili tahsil daireleri tarafından 6183 sayılı Kanuna göre takip ve tahsil edilir.
+(3) Sosyal güvenlik kurumları ve mahalli idareler tarafından verilen idari para cezaları, hususi kanunlarında aksine hüküm bulunmadığı takdirde, kendileri tarafından 6183 sayılı Kanuna göre takip ve tahsil edilir.
+(4) Kamu kurumu niteliğindeki meslek kuruluşları ile diğer kamu kurum ve kuruluşları tarafından verilen ve genel bütçeye gelir kaydedilmeyen idari para cezaları, hususi kanunlarında özel hüküm bulunmadığı takdirde, genel hükümlere göre takip ve tahsil edilir.
+(5) Genel bütçe geliri olmadığı halde, hususi kanunda yer alan düzenleme nedeniyle cebri takibi vergi dairesince yapılan idari para cezalarının süresinde ödenmemesi halinde, cezayı veren birimin bildirimi üzerine, bu cezalar vergi dairesince kesinleşme şartı aranmadan 6183 sayılı Kanuna göre takip ve tahsil edilir.
+(6) 5326 sayılı Kanun hükümlerinden sonra yürürlüğe giren kanun hükümleri saklıdır.

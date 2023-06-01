@@ -1,0 +1,5 @@
+Ölüm halinde idari para cezaları hakkında yapılacak işlemler
+MADDE 16- (1) Cezaların şahsiliği ilkesi uyarınca, idari para cezasına muhatap olan gerçek kişinin ölümü halinde bu cezalar mirasçılarından takip edilmez ve cezaların tahsilinden vazgeçilir.
+(2) Gerçek kişi hakkında ölüm tarihinden önce veya sonra verilen ve takibi vergi dairesince yapılacak idari para cezalarının ölüm tarihinden sonra takip için vergi dairesine bildirilmesi halinde, bu cezalar vergi dairelerince cezayı veren birime iade edilir. Ölüm tarihinden önce takip için bildirilmiş olan idari para cezaları ise vergi dairesince mirasçılarından takip edilmez ve cezaların tahsilinden vazgeçilir.
+(3) Tüzel kişi hakkında verilen idari para cezasının tüzel kişiliğin mal varlığından tahsil edilememesi durumunda, bu borcun ödenmesinden sorumlu olan gerçek kişi hakkında yapılan takip sürecinde bu kişinin ölmesi halinde, bu borç gerçek kişinin mirası reddetmemiş mirasçıları nezdinde takibe devam olunur.
+(4) Adli para cezaları hakkında da bu madde hükümleri uygulanır.
