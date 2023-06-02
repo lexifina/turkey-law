@@ -1,0 +1,23 @@
+{
+  "number": "meeting-06-02",
+  "number_as_published": "meeting-06-02",
+  "year": 2023,
+  "title": "02.06.2023 HAZİRAN MECLİS KARARLARI",
+  "decision_date": "2023-06-02",
+  "source": "https://www.alucra.bel.tr/kasim-meclis-kararlari",
+  "official_document": "https://www.alucra.bel.tr/upload/dosya/upload/b58b19a27711584a6ed312a86510813f.pdf",
+  "source_sha256": "af93ddc6eedb41afeef6584396269b049303e7c452b2639b4c6453221d6cb6c3",
+  "issuer": "Alucra Belediye Meclisi",
+  "history_type": "metadata",
+  "text_status": "metadata-only: listing fields as published; complete decision text is in the linked official document, not transcribed",
+  "in_force": "2023-06-02",
+  "in_force_basis": "Decision date as printed in the official council listing: 02.06.2023; adoption date of the council decision; legal commencement not asserted",
+  "missing": [
+    "complete official decision text",
+    "official annexes"
+  ],
+  "law_text_complete": false,
+  "privacy_withheld": false,
+  "listing_label": "02.06.2023 HAZİRAN MECLİS KARARLARI",
+  "record_scope": "one official file of council decisions (meeting)"
+}
