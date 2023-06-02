@@ -1,0 +1,22 @@
+{
+  "kind": "norm",
+  "issuer": "Gelir İdaresi Başkanlığı",
+  "document_type": "ozelge",
+  "number": "62030549-125[5-2020/582]-608726",
+  "source_id": 29627,
+  "date": "2023-06-02",
+  "title": "Aktifte kayıtlı gayrimenkulün satışından elde edilen gelirin borçlara ödenmesi nedeniyle istisna hükmünden faydalanılıp faydalanılmayacağı",
+  "source": "https://gib.gov.tr/mevzuat/kanun/435/ozelge/29627",
+  "related_law": "5520 sayılı KURUMLAR VERGİSİ KANUNU",
+  "source_api": "https://gib.gov.tr/api/gibportal/mevzuat/ozelge/list",
+  "source_listing": "evidence/list/2026-11-16/ozelge-p004.json",
+  "source_listing_sha256": "f3b82278308562f88be46cc93b2ac53a1050d59c304474af958f8b7377f5bef9",
+  "source_sha256": "52ddde867e2ad2f6fd04f4b9eaeece97189bae3858ff0c6894160ae9fb07266b",
+  "text_status": "as-enacted",
+  "text_file": "metin.md",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  }
+}
