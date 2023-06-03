@@ -1,0 +1,27 @@
+{
+  "number": "324",
+  "number_as_published": "324",
+  "year": 2023,
+  "title": "Mamak Füzyon markasına bağlı Füzyon Community, AFAD,SAR ve Ankara Üniversitesi ortaklığında bir hackathon etkinliğinde yapılan çalışmalara ilişkin Meclis Kararı.",
+  "decision_date": "2023-06-03",
+  "source": "https://www.mamak.bel.tr/gundem/GetKararlar",
+  "official_document": "https://www.mamak.bel.tr/gundem/DosyaDownload?guid=98b03c30-40a9-4c50-bc76-9e4703242264",
+  "source_sha256": "f554089df68731558a37947c976f196303cdbdc5704c52cb6912834ca94730d3",
+  "issuer": "Mamak Belediye Meclisi",
+  "history_type": "metadata",
+  "text_status": "metadata-only: listing fields as published; complete decision text is in the linked official document, not transcribed",
+  "in_force": "2023-06-03",
+  "in_force_basis": "Decision date as printed in the official council listing: 2023-06-03T00:00:00 (kararTarihi of the official register); adoption date of the council decision; legal commencement not asserted",
+  "missing": [
+    "complete official decision text",
+    "official annexes"
+  ],
+  "law_text_complete": false,
+  "privacy_withheld": false,
+  "listing_page": "https://www.mamak.bel.tr/gundem/kararlar",
+  "register_api": "https://www.mamak.bel.tr/gundem/GetKararlar",
+  "official_documents": [
+    "https://www.mamak.bel.tr/gundem/DosyaDownload?guid=98b03c30-40a9-4c50-bc76-9e4703242264",
+    "https://www.mamak.bel.tr/gundem/DosyaDownload?guid=4592be99-d5ff-40d9-a11d-01b1c5d01801"
+  ]
+}
