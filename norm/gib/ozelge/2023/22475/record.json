@@ -1,0 +1,22 @@
+{
+  "kind": "norm",
+  "issuer": "Gelir İdaresi Başkanlığı",
+  "document_type": "ozelge",
+  "number": "62030549-120-614154",
+  "source_id": 22475,
+  "date": "2023-06-05",
+  "title": "Sosyal içerik üreticiliği ile mobil cihazlar için uygulama geliştiriciliğinde kazanç istisnası hk.",
+  "source": "https://gib.gov.tr/mevzuat/kanun/435/ozelge/22475",
+  "related_law": "5520 sayılı KURUMLAR VERGİSİ KANUNU",
+  "source_api": "https://gib.gov.tr/api/gibportal/mevzuat/ozelge/list",
+  "source_listing": "evidence/list/2026-11-16/ozelge-p000.json",
+  "source_listing_sha256": "5444faf84128246cd8dd8c6db754d41e2a11c7717342bfe0a07a35074d061761",
+  "source_sha256": "838a3fa8833cdc5758816bb7727e1b5604e589ac6fbdfd75cb70e4bec18cd43c",
+  "text_status": "as-enacted",
+  "text_file": "metin.md",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  }
+}
