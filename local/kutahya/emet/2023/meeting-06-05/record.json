@@ -1,0 +1,24 @@
+{
+  "number": "meeting-06-05",
+  "number_as_published": "meeting-06-05",
+  "year": 2023,
+  "title": "05.06.2023 Meclis Toplantısı ve Kararlar",
+  "decision_date": "2023-06-05",
+  "source": "https://www.emet.bel.tr/karar/05062023-meclis-toplantisi-ve-kararlar/63/",
+  "official_document": "https://www.emet.bel.tr/dosya/meclis/dosyalar/haziran.doc",
+  "source_sha256": "633c833c8c14386113a563538d236dc786830d9a674700681f8f5caded19a5b4",
+  "issuer": "Emet Belediye Meclisi",
+  "history_type": "metadata",
+  "text_status": "metadata-only: listing fields as published; complete decision text is in the linked official document, not transcribed",
+  "in_force": "2023-06-05",
+  "in_force_basis": "Decision date as printed in the official council listing: 05.06.2023; adoption date of the council decision; legal commencement not asserted",
+  "missing": [
+    "complete official decision text",
+    "official annexes"
+  ],
+  "law_text_complete": false,
+  "privacy_withheld": false,
+  "listing_label": "05.06.2023 Meclis Toplantısı ve Kararlar",
+  "record_scope": "one official file of council decisions (meeting)",
+  "official_page": "https://www.emet.bel.tr/karar/05062023-meclis-toplantisi-ve-kararlar/63/"
+}
