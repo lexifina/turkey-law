@@ -1,0 +1,22 @@
+{
+  "kind": "norm",
+  "issuer": "Gelir İdaresi Başkanlığı",
+  "document_type": "ozelge",
+  "number": "39044742-130[Özelge]-615041",
+  "source_id": 27980,
+  "date": "2023-06-05",
+  "title": "SGK tarafından \"Borç Bildirim Belgesi\" ile yansıtılan haksız kazanç tutarlarının KV ve KDV kanunları karşısındaki durumu",
+  "source": "https://gib.gov.tr/mevzuat/kanun/436/ozelge/27980",
+  "related_law": "3065 sayılı KATMA DEĞER VERGİSİ KANUNU",
+  "source_api": "https://gib.gov.tr/api/gibportal/mevzuat/ozelge/list",
+  "source_listing": "evidence/list/2026-11-16/ozelge-p003.json",
+  "source_listing_sha256": "b8eb1aba686c15efb9ca96f819c840940788d8f48769f30127e032220fbff4ab",
+  "source_sha256": "e4e92ddbc9d89d19a0dc51f9a86d354f7660c463beba3f763216cd5c9972a145",
+  "text_status": "as-enacted",
+  "text_file": "metin.md",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  }
+}
