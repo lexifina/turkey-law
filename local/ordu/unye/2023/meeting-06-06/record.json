@@ -1,0 +1,25 @@
+{
+  "number": "meeting-06-06",
+  "number_as_published": "meeting-06-06",
+  "year": 2023,
+  "title": "ÜNYE BELEDİYE MECLİSİ’NİN 06.06.2023 GÜNÜ YAPTIĞI OLAĞAN TOPLANTI KARARLARI",
+  "decision_date": "2023-06-06",
+  "source": "https://www.unye.bel.tr/duyuru/unye-belediye-meclisinin-06-06-2023-gunu-yaptigi-olagan-toplanti-kararlari/",
+  "official_document": "https://www.unye.bel.tr/duyuru/unye-belediye-meclisinin-06-06-2023-gunu-yaptigi-olagan-toplanti-kararlari/",
+  "source_sha256": "99605d30ca49d1051540193bcb455c429f9d03e90599e407ca61ef9cb133d914",
+  "issuer": "Ünye Belediye Meclisi",
+  "history_type": "metadata",
+  "text_status": "metadata-only: listing fields as published; complete decision text is in the linked official document, not transcribed",
+  "in_force": "2023-06-06",
+  "in_force_basis": "Decision date as printed in the official council listing: 06.06.2023; adoption date of the council decision; legal commencement not asserted",
+  "missing": [
+    "complete official decision text",
+    "official annexes"
+  ],
+  "law_text_complete": false,
+  "privacy_withheld": false,
+  "listing_label": "ÜNYE BELEDİYE MECLİSİ’NİN 06.06.2023 GÜNÜ YAPTIĞI OLAĞAN TOPLANTI KARARLARI",
+  "record_scope": "one official file of council decisions (meeting)",
+  "official_page": "https://www.unye.bel.tr/duyuru/unye-belediye-meclisinin-06-06-2023-gunu-yaptigi-olagan-toplanti-kararlari/",
+  "document_note": "the decisions are published as text on the official page itself (no separate file); not transcribed here"
+}
