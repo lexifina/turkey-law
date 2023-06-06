@@ -1,0 +1,17 @@
+{
+  "kind": "decision",
+  "issuer": "Sayıştay 2. Dairesi",
+  "number": "35768",
+  "decision_date": "2023-06-06",
+  "source_id": 37405,
+  "chamber": "2",
+  "ilam_number": "370",
+  "item_number": 1,
+  "public_body_type": "Yüksek Öğretim Kurumları",
+  "account_year": 2017,
+  "subject": "Çeşitli Konuları İlgilendiren Kararlar",
+  "source": "https://www.sayistay.gov.tr/KararlarDaire/Detay/37405/",
+  "source_sha256": "d14bbd85958099323a925b3e76c107a1beb6f5276fc93510538d34d84db24e67",
+  "text_status": "as-enacted",
+  "text_file": "metin.md"
+}
