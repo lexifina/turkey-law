@@ -1,0 +1,22 @@
+{
+  "kind": "norm",
+  "issuer": "Gelir İdaresi Başkanlığı",
+  "document_type": "ozelge",
+  "number": "E-76464994-130[KDV.2022/272]-107876",
+  "source_id": 32103,
+  "date": "2023-06-06",
+  "title": "Otel müşterilerine konaklama kapsamı dışında ve okullara taşımalı olarak verilen yemek hizmetlerinde uygulanması gereken KDV oranı hakkında",
+  "source": "https://gib.gov.tr/mevzuat/kanun/436/ozelge/32103",
+  "related_law": "3065 sayılı KATMA DEĞER VERGİSİ KANUNU",
+  "source_api": "https://gib.gov.tr/api/gibportal/mevzuat/ozelge/list",
+  "source_listing": "evidence/list/2026-11-16/ozelge-p005.json",
+  "source_listing_sha256": "bc82c6c09764a8d83c3906db12d34a67d7f592d6e631568c06d506072b5840cf",
+  "source_sha256": "2ac15e89f18aa2e8388dff0fda1d4d6895056904e8b0cb971a44f92a2aaa0e08",
+  "text_status": "as-enacted",
+  "text_file": "metin.md",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  }
+}
