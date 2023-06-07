@@ -1,0 +1,22 @@
+{
+  "kind": "norm",
+  "issuer": "Gelir İdaresi Başkanlığı",
+  "document_type": "ozelge",
+  "number": "E-49327596-187[DVÖZ.2023.40]-108342",
+  "source_id": 36889,
+  "date": "2023-06-07",
+  "title": "Kısa süreli konaklama hizmetleri için düzenlenen faturalarda konaklama vergisi ve hangi oranda KDV uygulanacağı",
+  "source": "https://gib.gov.tr/mevzuat/kanun/445/ozelge/36889",
+  "related_law": "6802 sayılı GİDER VERGİLERİ KANUNU",
+  "source_api": "https://gib.gov.tr/api/gibportal/mevzuat/ozelge/list",
+  "source_listing": "evidence/list/2026-11-16/ozelge-p008.json",
+  "source_listing_sha256": "292c126217cc32c3ccfa57495ce433f89ef8db5e75fa1946d5819a76f81aff4d",
+  "source_sha256": "a6edff29c0585574fdb54516a1d418199836c4d0740fbf8f48556f08526f57e6",
+  "text_status": "as-enacted",
+  "text_file": "metin.md",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  }
+}
