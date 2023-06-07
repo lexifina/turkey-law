@@ -1,0 +1,2 @@
+Kapsam
+MADDE 2 – (1) Sigorta Tahkim Komisyonu, Komisyon üyeleri, Komisyon müdürü ve Komisyon müdür yardımcıları, büro müdür ve müdür yardımcıları, sigorta raportörleri ve diğer personel, sigorta hakemleri, (Ek ibare:RG-24/7/2013-28717)(4) itiraz hakem heyetleri, itiraz yetkilisi Sigorta Tahkim Sistemine üye olan sigorta şirketleri ile (Değişik ibare:RG-19/1/2016-29598) 13/1/2011 tarihli ve 6102 sayılı Türk Ticaret Kanunu hükümleri ile özel kanunları uyarınca sigorta sözleşmesi yapan diğer kuruluşlar bu Yönetmelik kapsamındadır.

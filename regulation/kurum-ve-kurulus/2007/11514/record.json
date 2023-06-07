@@ -1,0 +1,92 @@
+{
+  "source_id": "7.5.11514",
+  "kind": "regulation",
+  "register_kind": "Kurum ve Kuruluş Yönetmelikleri",
+  "title": "SİGORTACILIKTA TAHKİME İLİŞKİN YÖNETMELİK",
+  "number": "11514",
+  "issuer_slug": "kurum-ve-kurulus",
+  "path": "regulation/kurum-ve-kurulus/2007/11514",
+  "source": "https://www.mevzuat.gov.tr/anasayfa/MevzuatFihristDetayIframe?MevzuatTur=7&MevzuatNo=11514&MevzuatTertip=5",
+  "source_sha256": "c298bed40cbd2b1d2bdf51f2d7cfb5afd3d82a60a71fdd6f0697d578bbab0984",
+  "source_bytes": 118425,
+  "published": "2007-08-17",
+  "gazette": "26616",
+  "in_force": "2023-06-07",
+  "in_force_basis": "latest Resmî Gazete date printed in the source amendment notes/table (\"RG-7/6/2023\") for the current consolidated text",
+  "date_evidence": [
+    [
+      "2023-06-07",
+      "RG-7/6/2023",
+      "Resmî Gazete date printed in the source amendment note"
+    ],
+    [
+      "2023-06-07",
+      "7/6/2023",
+      "Resmî Gazete date in the source amendment table"
+    ],
+    [
+      "2022-04-22",
+      "RG-22/4/2022",
+      "Resmî Gazete date printed in the source amendment note"
+    ],
+    [
+      "2022-04-22",
+      "22/4/2022",
+      "Resmî Gazete date in the source amendment table"
+    ],
+    [
+      "2021-09-25",
+      "25/9/2021",
+      "Resmî Gazete date in the source amendment table"
+    ],
+    [
+      "2021-08-10",
+      "RG-10/8/2021",
+      "Resmî Gazete date printed in the source amendment note"
+    ],
+    [
+      "2021-08-10",
+      "10/8/2021",
+      "Resmî Gazete date in the source amendment table"
+    ],
+    [
+      "2019-06-15",
+      "RG-15/6/2019",
+      "Resmî Gazete date printed in the source amendment note"
+    ],
+    [
+      "2019-06-15",
+      "15/6/2019",
+      "Resmî Gazete date in the source amendment table"
+    ],
+    [
+      "2019-04-18",
+      "RG-18/4/2019",
+      "Resmî Gazete date printed in the source amendment note"
+    ],
+    [
+      "2019-04-18",
+      "18/4/2019",
+      "Resmî Gazete date in the source amendment table"
+    ],
+    [
+      "2018-06-14",
+      "RG-14/6/2018",
+      "Resmî Gazete date printed in the source amendment note"
+    ]
+  ],
+  "commencement_clauses": [
+    "Bu Yönetmelik yayımı tarihinde yürürlüğe girer"
+  ],
+  "history": "current-text",
+  "label": "oldest version available",
+  "checked_on": "2026-11-15",
+  "word_count": 5780,
+  "text_status": "current-consolidated",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  },
+  "completeness": "html-text-complete"
+}

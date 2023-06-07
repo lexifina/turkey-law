@@ -1,0 +1,3 @@
+Geçici itiraz hakem heyetinin atanması
+GEÇİCİ MADDE 1 – (Ek:RG-24/7/2013-28717) (9)
+(1) 18/9/2013 tarihi itibarıyla sınav sürecinin sonuçlandırılamaması nedeniyle itiraz hakem heyetinin oluşturulamaması durumunda ihtiyaç hâlinde Komisyon tarafından itiraz hakem heyetinde yer alabilecek nitelikteki sigorta hakemleri arasından gönüllülük esasına göre Müsteşarlıkça yapılacak değerlendirme sonucunda yeterli sayıda atama yapılır. Bu şekilde geçici atanan hakemlerinin görev süresi bir yılı aşmamak kaydıyla asıl hakemler atanana kadar devam eder. Atanan asıl hakemler nedeniyle hangi geçici hakemlerin görev süresinin biteceği Müsteşarlıkça yapılacak kura usulüyle belirlenir.
