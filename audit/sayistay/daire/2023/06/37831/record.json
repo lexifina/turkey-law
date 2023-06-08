@@ -1,0 +1,17 @@
+{
+  "kind": "decision",
+  "issuer": "Sayıştay 5. Dairesi",
+  "number": "611",
+  "decision_date": "2023-06-08",
+  "source_id": 37831,
+  "chamber": "5",
+  "ilam_number": "147",
+  "item_number": 3,
+  "public_body_type": "Genel Bütçe Kapsamındaki İdareler",
+  "account_year": 2021,
+  "subject": "Çeşitli Konuları İlgilendiren Kararlar",
+  "source": "https://www.sayistay.gov.tr/KararlarDaire/Detay/37831/",
+  "source_sha256": "391ce337c8b9f4df3aebea11842e47fc5ede36d37950c102a27ec4e3408c0fb0",
+  "text_status": "as-enacted",
+  "text_file": "metin.md"
+}
