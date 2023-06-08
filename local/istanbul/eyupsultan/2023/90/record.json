@@ -1,0 +1,22 @@
+{
+  "number": "90",
+  "number_as_published": "2023/90",
+  "year": 2023,
+  "title": "Ordu İli Kumru İlçesi ile kardeş şehir olma",
+  "decision_date": "2023-06-08",
+  "source": "https://eyupsultan.bel.tr/tr/main/pages/2023-haziran-ayi-meclis-kararlari/2431",
+  "official_document": "https://eyupsultan.bel.tr/tr/main/pages/2023-90/2434",
+  "source_sha256": "0e76670b62dde61fa9dd69f6047d6e49de20d3ac9f1fcad76d41fd54a212ca6f",
+  "issuer": "Eyüpsultan Belediye Meclisi",
+  "history_type": "metadata",
+  "text_status": "metadata-only: listing fields as published; complete decision text is in the linked official document, not transcribed",
+  "in_force": "2023-06-08",
+  "in_force_basis": "Decision date as printed in the official council listing: 08.06.2023 (meeting date at the start of the decision page); adoption date of the council decision; legal commencement not asserted",
+  "missing": [
+    "complete official decision text",
+    "official annexes"
+  ],
+  "law_text_complete": false,
+  "privacy_withheld": false,
+  "decision_page_sha256": "c0aabf53d5c19474b9983f4345edac6a9238317a7d1b3595b95e20e3ae60e7cb"
+}
