@@ -1,0 +1,17 @@
+{
+  "kind": "decision",
+  "issuer": "Sayıştay 3. Dairesi",
+  "number": "458",
+  "decision_date": "2023-06-08",
+  "source_id": 37434,
+  "chamber": "3",
+  "ilam_number": "199",
+  "item_number": 2,
+  "public_body_type": "Belediyeler ve Bağlı İdareler",
+  "account_year": 2019,
+  "subject": "İhale Mevzuatı ile İlgili Kararlar",
+  "source": "https://www.sayistay.gov.tr/KararlarDaire/Detay/37434/",
+  "source_sha256": "65db5ec0a9405a730e131532bbeda39abe9986b0ba890c072983ae26fbd0be3a",
+  "text_status": "as-enacted",
+  "text_file": "metin.md"
+}
