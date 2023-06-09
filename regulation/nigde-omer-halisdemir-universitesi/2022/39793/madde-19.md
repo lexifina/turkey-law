@@ -1,0 +1,2 @@
+Başarı notunun belirlenmesi
+MADDE 19- (1) (Değişik:RG-9/6/2023-32216) Bir dersteki başarı durumu, ara sınav ile genel sınav veya bütünleme sınavının not ortalamasının birlikte değerlendirilmesi ile belirlenir. Başarı notunun hesaplanmasında mutlak değerlendirme sistemi kullanılır. Bu dersten başarılı sayılabilmesi için aldığı puanın en az 60 olması gerekir. Bir öğrenciye verilen harf notu, kendisinden daha düşük puana sahip öğrencilerin harf notundan düşük olamaz.

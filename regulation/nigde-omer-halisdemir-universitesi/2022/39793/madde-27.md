@@ -1,0 +1,6 @@
+Yatay geçişler, muafiyet ve intibak
+MADDE 27- (1) Fakülteye yapılacak yatay geçişler ilgili mevzuat hükümleri çerçevesinde yönerge ile düzenlenir.
+(2) Yatay geçiş başvuruları sadece güz yarıyılı başında kabul edilir.
+(3) Öğrencilerin yatay geçişlerinin kabulü ve eğitim-öğretim programına ders intibakları sürecinde, Yatay Geçiş İnceleme ve İntibak Komisyonu ve ilgili anabilim dalının görüşleri doğrultusunda ilgili derslerin denklikleri ve intibak yapılacak sınıflara Fakülte Yönetim Kurulunca karara bağlanır.
+(4) Öğrenci, intibak ettiği sınıfın programına ait kalan derslerden sorumludur. Öğrencilerin kredi hesaplamalarında intibak ettirildikleri sınıftaki eşdeğer dersin kredisi esas alınır.
+(5) Fakülteye ilk kez kayıt yaptıran öğrenci, bir defaya mahsus olmak üzere bir ay içerisinde daha önceki yükseköğretim kurumlarında alıp başarılı olduğu dersler için muaf olmak isteğiyle Dekanlığa başvurur. Öğrencinin muafiyet talebi, Yatay Geçiş ve İntibak Komisyonu ve ilgili anabilim dalının görüşleri doğrultusunda Fakülte Yönetim Kurulunca karara bağlanır. Fakülte Yönetim Kurulunca muafiyeti uygun görülen derslerden alınan notlar, 20 nci maddede belirtilen başarı notlarına dönüştürülerek transkriptte gösterilir.

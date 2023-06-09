@@ -1,0 +1,2 @@
+Preklinik, klinik ve laboratuvar uygulama düzeni
+MADDE 35- (1) Preklinik, laboratuvar ve klinik uygulama öğrencileri uygulamaları ve hasta tedavilerini bulundukları anabilim dalının göstereceği düzen ve anlayışta yapmak zorundadır. Uygulamalar, hastaların her türlü tedavi planlamaları ve gerekli malzemelerin temini ilgili anabilim dalı başkanlığı tarafından düzenlenir, öğrenciler buna uymak zorundadırlar.

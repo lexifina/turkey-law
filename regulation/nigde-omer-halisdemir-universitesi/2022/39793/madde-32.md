@@ -1,0 +1,2 @@
+Kıyafet
+MADDE 32- (1) Öğrenciler, eğitimin özelliği olarak Fakülte içerisinde, klinik ve laboratuvarlarda modeli Fakültenin öğrenci işleri bürosunda bulunan gömleklerini giymek ve üzerinde kimliklerini belirtecek tanıtma kartlarını taşımak zorundadırlar. Klinik ve laboratuvar gömlekleri ile Fakülte dışında dolaşılmaz. Bu konuda yetkili organlarca verilen kararlara uymayanlar hakkında Yükseköğretim Kurumları Öğrenci Disiplin Yönetmeliği hükümleri uygulanır.
