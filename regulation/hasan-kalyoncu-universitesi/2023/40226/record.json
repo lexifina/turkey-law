@@ -1,0 +1,39 @@
+{
+  "checked_on": "2026-11-14",
+  "commencement_clauses": [
+    "MADDE 15- (1) Bu Yönetmelik yayımı tarihinde yürürlüğe girer."
+  ],
+  "date_evidence": [
+    [
+      "2023-06-10",
+      "10.06.2023",
+      "original gazette publication date in official listing"
+    ]
+  ],
+  "date_quote": "MADDE 15- (1) Bu Yönetmelik yayımı tarihinde yürürlüğe girer.",
+  "first_law": null,
+  "gazette": "32217",
+  "history": "current-text",
+  "images": {
+    "deferred": 0,
+    "omitted": 0,
+    "referenced": 0,
+    "source": 0
+  },
+  "in_force": "2023-06-10",
+  "in_force_basis": "source commencement clause: enters into force on gazette publication",
+  "issuer": "Hasan Kalyoncu Üniversitesi",
+  "issuer_slug": "hasan-kalyoncu-universitesi",
+  "kind": "regulation",
+  "label": "oldest version available",
+  "path": "regulation/hasan-kalyoncu-universitesi/2023/40226",
+  "published": "2023-06-10",
+  "source": "https://www.mevzuat.gov.tr/anasayfa/MevzuatFihristDetayIframe?MevzuatTur=8&MevzuatNo=40226&MevzuatTertip=5",
+  "source_bytes": 49805,
+  "source_id": "8.5.40226",
+  "source_sha256": "d652df089147170b20915f67d1183cbfd17585febe4fe6d02eb001cff1af8973",
+  "text_status": "as-enacted",
+  "title": "HASAN KALYONCU ÜNİVERSİTESİ İSLAM MEDENİYETİ UYGULAMA VE ARAŞTIRMA MERKEZİ YÖNETMELİĞİ",
+  "university_id": 338,
+  "word_count": 1007
+}
