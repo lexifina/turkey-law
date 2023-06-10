@@ -1,0 +1,2 @@
+Uzantı bazlı alan adı sahipliği önceliği (Değişik başlık:RG-10/6/2023-32217)
+MADDE 29 – (1) “a.tr” yapısındaki İAA’ların ilk tahsisi ve yeni ikinci seviye İAA açılması hallerinde (Değişik ibare:RG-10/6/2023-32217) bu fıkrada belirtilen usul ve esaslarda belirlenen tarihte kayıtlı olan İAA’ların sahiplerine ilgili adı tahsis etmeleri için öncelik tanınır. Bu önceliğe ve öncelik başvurusu ücretine ilişkin usul ve esaslar Kurul tarafından belirlenir.

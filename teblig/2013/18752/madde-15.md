@@ -1,0 +1,3 @@
+TRABİS’e gönderilecek veriler
+MADDE 15 – (1) KK başvuruların mevzuata uygun olduğunu kontrol ettikten sonra TRABİS’e iletir. (Değişik cümle:RG-17/10/2020-31277) KK başvuru sırasında aldığı bilgileri ve Kurum tarafından istenebilecek diğer bilgi ve elektronik belgeleri TRABİS’e gönderir. Bu bilgi ve belgelerde değişiklik olması halinde KK bunların güncel hallerini derhal TRABİS’e iletir.
+(2) (Yeniden düzenlenen fıkra:RG-10/6/2023-32217) KK tarafından İAA tahsis işlemleri sırasında sistemsel hatadan kaynaklanan kayıtların bildirilmesi veya Kurum tarafından resen tespit edilmesi durumunda, Kurum bu kayıtların düzeltilmesine karar verebilir.

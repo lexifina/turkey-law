@@ -1,0 +1,7 @@
+Mevcut işleyişteki kayıt operatörleri ve alan adları
+GEÇİCİ MADDE 3 – (Başlığı ile Birlikte Değişik:RG-17/10/2020-31277)
+(1) Mevcut işleyişte Orta Doğu Teknik Üniversitesi bünyesinde bulunan Nic.tr (“.tr” Alan Adları Yönetimi) tarafından kayıt operatörü olarak belirlenmiş bulunan taraflardan KK olmak isteyenler için, Kuruma başvurmaları halinde, başvuru tarihinden itibaren TRABİS’in faaliyete geçmesinden sonraki altı aya kadar geçerli olacak şekilde geçici KK faaliyet belgesi düzenlenir.
+(2) Bu süre içinde mevzuat kapsamında belirlenen gerekli işlemleri tamamlayan taraflara KK olarak faaliyet göstermek üzere, bu Tebliğin 7 nci maddesinin birinci fıkrası kapsamında faaliyet belgesi düzenlenir.
+(3) Geçici KK faaliyet belgesi düzenlenen taraflar halihazırda yönetmekte olduğu İAA’lara ilişkin yenileme, sunucu değişikliği ve ilgili İAAS’nin iletişim bilgilerinin güncellenmesi işlemleri ve Kurumun uygun bulduğu diğer işlemleri yapabilir.
+(4) Orta Doğu Teknik Üniversitesi bünyesinde bulunan kayıt operatörleri tarafından yönetilen alan adları, TRABİS faaliyete geçtikten sonra geçici KK faaliyet belgesi alan ilgili kayıt operatörü tarafından yönetilmeye devam eder. TRABİS faaliyete geçtiğinde herhangi bir kayıt operatörü ile ilişkisi olmayan alan adları ise TRABİS-KK’ya aktarılır.
+(5) TRABİS’in faaliyete geçmesinden sonraki altı ay sonunda faaliyet belgesi alamayan taraflarca yönetilen alan adları TRABİS-KK’ya aktarılır.
