@@ -1,0 +1,22 @@
+{
+  "kind": "norm",
+  "issuer": "Gelir İdaresi Başkanlığı",
+  "document_type": "ozelge",
+  "number": "E-64597866-105-11913",
+  "source_id": 27260,
+  "date": "2023-06-12",
+  "title": "Özel hesap dönemine tabi şirketin 213 sayılı Vergi Usul Kanununun mükerrer 298 inci maddesinin (Ç) fıkrası ile geçici 32 inci maddesi kapsamında en erken hangi tarihlerde yeniden değerleme yapabileceği ve kayıtlara alabileceği hk.",
+  "source": "https://gib.gov.tr/mevzuat/kanun/434/ozelge/27260",
+  "related_law": "213 sayılı VERGİ USUL KANUNU",
+  "source_api": "https://gib.gov.tr/api/gibportal/mevzuat/ozelge/list",
+  "source_listing": "evidence/list/2026-11-16/ozelge-p003.json",
+  "source_listing_sha256": "b8eb1aba686c15efb9ca96f819c840940788d8f48769f30127e032220fbff4ab",
+  "source_sha256": "f7641c399b1cad28a08364013cf9b68218b61c1c668549aeb3393d4c42b1e25b",
+  "text_status": "as-enacted",
+  "text_file": "metin.md",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  }
+}
