@@ -1,0 +1,21 @@
+{
+  "record_type": "parliament-written-question",
+  "term": 28,
+  "legislative_year": 1,
+  "esas_no": "7/60",
+  "submitted": "2023-06-12",
+  "submitted_as": "Başkanlığa geliş tarihi",
+  "mp": "Ömer Fethi GÜRER",
+  "province": "Niğde",
+  "summary": "Çocuklarda görülen tip 1 diyabet hastalığının alternatif tıp yöntemleriyle tedavi edilebildiği iddiasına ilişkin",
+  "status": "Süresi Geçtikten Sonra Cevaplandı",
+  "status_as_of": "2026-11-16",
+  "official_record": "https://www.tbmm.gov.tr/Denetim/Yazili-Soru-Onergesi-Detay/58d5c982-6cd5-463a-8c35-0188b39482a4",
+  "source": "https://tbmm.gov.tr/Denetim/YaziliSoruOnergesiTable",
+  "source_form": "https://tbmm.gov.tr/Denetim/Yazili-Soru-Onergeleri",
+  "source_sha256": "e52594963a0ddc6d6e2cefb26d0c156ab9fb96633e8d08e06d1dd3a95b2722b2",
+  "in_force": "2023-06-12",
+  "in_force_basis": "Date the question reached the Speaker (Başkanlığa geliş tarihi) in the official TBMM written-question record; parliamentary oversight record, not law",
+  "history_type": "metadata",
+  "text_status": "metadata-only: question text, addressee and answers are in the linked official record (PDFs on cdn.tbmm.gov.tr); not transcribed here"
+}
