@@ -1,0 +1,5 @@
+Tanıtımcının sorumluluğu
+MADDE 7- (1) Bu Yönetmelik kapsamına giren ürünlerin piyasaya sunulması ile ilgili mevzuat hükümleri saklı kalmakla birlikte, sağlık beyanı ile ürün tanıtımının yapılması durumunda tanıtımcı, yapılan tanıtımların ilgili mevzuat hükümlerine uygun olmasından sorumludur.
+(2) Tanıtımcı, ilgili mevzuatta belirtilen esaslara uygun bilgi ve belgeleri kayıt altına alıp saklamakla ve doğruluğunun teyidi ile yükümlü olup ürün tanıtımları ile ilgili doğacak her türlü sorumluluğu kabul eder.
+(3) Ürün tanıtımının elektronik ortamda yapıldığı durumlarda aracı hizmet sağlayıcılar, Kurum tarafından talep edilmesi hâlinde ilgili mevzuata aykırı sağlık beyanı kullanılarak yapılan ürün tanıtım ve/veya satış içeriğini düzeltmek, kaldırmak veya içeriğe erişimi engellemek için gerekli iş ve işlemleri yürütmekle yükümlüdür.
+(4) Tanıtımcı, Kurumun talebi hâlinde ürün sahibine ilişkin ad, unvan, iletişim bilgileri başta olmak üzere her türlü bilgiyi belirtilen sürede Kuruma sunmakla yükümlüdür.
