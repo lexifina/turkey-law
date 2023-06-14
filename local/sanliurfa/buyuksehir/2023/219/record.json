@@ -1,0 +1,24 @@
+{
+  "number": "219",
+  "number_as_published": "219",
+  "year": 2023,
+  "title": "NAZIM İMAR PLANI",
+  "decision_date": "2023-06-14",
+  "source": "https://www.sanliurfa.bel.tr/icerik/15981/106/nazim-imar-plani",
+  "official_document": null,
+  "source_sha256": "df5baae7693bef37580d7f06b9504949326f1c933c5ef8a937613c7b0fad4f6e",
+  "issuer": "Şanlıurfa Büyükşehir Belediye Meclisi",
+  "history_type": "metadata",
+  "text_status": "metadata-only: decision number, date and subject from the official announcement; the decision text is not published on the page",
+  "in_force": "2023-06-14",
+  "in_force_basis": "Decision date as printed in the official council listing: 14.06.2023 tarih ve 219 sayılı (council decision cited in the official announcement); adoption date of the council decision; legal commencement not asserted",
+  "missing": [
+    "complete official decision text",
+    "official annexes"
+  ],
+  "law_text_complete": false,
+  "privacy_withheld": false,
+  "record_scope": "one council decision, as cited in the municipality's official plan announcement (ilan)",
+  "announcement_date": "2023-07-21",
+  "listing": "https://www.sanliurfa.bel.tr/kategori/82/0/meclis-kararlari?page=2"
+}
