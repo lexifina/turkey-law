@@ -1,0 +1,8 @@
+Çift Anadaldan Ayrılma
+Madde 8 — Çift anadal öğrencisi, öğreniminin herhangi bir yarıyılında kendi isteğiyle ikinci anadaldan kayıt sildirebilir.
+(Değişik ikinci fıkra:RG-26/3/2018-30372) İkinci anadaldan kayıt sildiren öğrenci, başka bir programda çift anadal öğrenimi yapamayacağı gibi, ayrıldığı anadalda da yeniden çift anadal öğrenimine başlayamaz.
+(Değişik üçüncü fıkra:RG-26/3/2018-30372) İkinci anadaldan kayıt sildiren veya kaydı silinen öğrencinin başvurusu üzerine, esas anadal programının zorunlu dersleri arasında yer almamış olmaları koşuluyla, ikinci anadalda tamamlamış olduğu dersleri esas anadal programının bağlı olduğu fakülte, yüksekokul veya meslek yüksekokulun yönetim kurulu kararıyla esas anadalının seçimlik ders ve kredi yüküne sayılabilir. Öğrencinin ikinci anadal programında başarılı olduğu, ancak esas anadal programının seçimlik ders yüküne sayılmayan dersler genel not ortalamasına dâhil edilmeksizin not dökümünde ve diploma ekinde gösterilir, başarısız olduğu dersler ise Üniversite kayıtlarında yer alır, ancak genel not ortalamasına dâhil edilmez ve not dökümünde ve diploma ekinde gösterilmez.
+(Ek dördüncü fıkra:RG-1/4/2010-27539) (Değişik dördüncü fıkra:RG-26/3/2018-30372) İkinci anadaldan kendi isteğiyle ayrılan veya kaydı silinen öğrenci, esas anadalının mezuniyet koşullarını yerine getirmiş ve ikinci anadalının lisans programı olması kaydıyla, aşağıdaki imkanlardan sadece birinden yararlanabilir:
+a) Ayrılma veya kayıt silme tarihi itibarıyla önlisans diploması alma hakkını kazanmışsa önlisans diploması alabilir,
+b) Esas anadaldan mezuniyet tarihinde yan dal öğreniminin tamamlanmasına ilişkin koşulları yerine getirmişse yan dal belgesi alabilir.
+(Değişik madde başlığı:RG-1/4/2010-27539) Yatay Geçiş

@@ -1,0 +1,4 @@
+Yan Daldan Ayrılma
+Madde 15 — Yan dal öğrencisi, öğreniminin herhangi bir yarıyılında kendi isteğiyle yan daldan kayıt sildirebilir.
+(Değişik ikinci fıkra:RG-17/8/2010-27675) Yandaldan ayrılan öğrenci ayrıldığı lisans programında, başarısızlık nedeniyle kaydı silinen öğrenci ise herhangi bir lisans programında yeniden yandal öğrenimine başlayamaz.
+(Değişik üçüncü fıkra:RG-26/3/2018-30372) Yan daldan kayıt sildiren veya kaydı silinen öğrencinin başvurusu üzerine, anadal programının zorunlu dersleri arasında yer almamış olmaları koşuluyla yan dalda başarıyla tamamlamış olduğu dersleri, anadal programının bağlı olduğu fakültenin yönetim kurulu kararıyla anadalının seçimlik ders ve kredi yüküne sayılabilir. Öğrencinin yan dal programında başarılı olduğu, ancak esas anadal programının seçimlik ders yüküne sayılmayan dersleri not dökümünde ve diploma ekinde gösterilir, başarısız olduğu dersleri ise gösterilmez; bu dersler genel not ortalamasına dâhil edilmez.
