@@ -1,0 +1,46 @@
+{
+  "record_type": "parliament-decision-metadata",
+  "document_type": "karar",
+  "number": "1374",
+  "year": 2023,
+  "title": "Türkiye Büyük Millet Meclisi Başkanlık Divanı Üyelikleri İçin Yapılan Seçime Dair",
+  "adopted": "2023-06-14",
+  "date_basis": "last-sitting",
+  "committee_reports": [],
+  "index_entries": [
+    {
+      "assembly": "TBMM",
+      "term": 28,
+      "kayit_no": 928903,
+      "title": "Türkiye Büyük Millet Meclisi Başkanlık Divanı Üyelikleri İçin Yapılan Seçime Dair",
+      "adopted_as_published": null,
+      "official_text_pdf": null,
+      "committee_reports": [],
+      "sittings": [
+        {
+          "cilt": 2,
+          "sitting": 5,
+          "sitting_date": "2023-06-14",
+          "minutes_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/TBMM/d28/c002/tbmm28002005.pdf",
+          "old_script_pdf": null,
+          "volume_index_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/TBMM/d28/c002/tbmm28002fih.pdf",
+          "pages": [
+            "7:8"
+          ]
+        }
+      ],
+      "query": "https://www5.tbmm.gov.tr/develop/owa/td_v2.tutanak_hazirla?v_meclis=1&v_donem=28&v_yasama_yili=&v_cilt=&v_birlesim=&v_sayfa=&v_anabaslik=KARARLAR&v_altbaslik=&v_mv=&v_sb=&v_ozet=&v_kelime=&v_bastarih=&v_bittarih=",
+      "page": "https://www5.tbmm.gov.tr/develop/owa/td_v2.tutanak_hazirla?v_meclis=1&v_donem=28&v_yasama_yili=&v_cilt=&v_birlesim=&v_sayfa=&v_anabaslik=KARARLAR&v_altbaslik=&v_mv=&v_sb=&v_ozet=&v_kelime=&v_bastarih=&v_bittarih=",
+      "page_sha256": "870a063f42823ec97e68de232ad6ea776b4fe32a28f1cd341753fb83c7775e57"
+    }
+  ],
+  "source": "https://www5.tbmm.gov.tr/develop/owa/td_v2.tutanak_hazirla?v_meclis=1&v_donem=28&v_yasama_yili=&v_cilt=&v_birlesim=&v_sayfa=&v_anabaslik=KARARLAR&v_altbaslik=&v_mv=&v_sb=&v_ozet=&v_kelime=&v_bastarih=&v_bittarih=",
+  "source_sha256": "870a063f42823ec97e68de232ad6ea776b4fe32a28f1cd341753fb83c7775e57",
+  "issuer": "TBMM",
+  "in_force": "2023-06-14",
+  "in_force_basis": "The index gives no Kabul tarihi: date of the last plenary sitting it cites for this karar (2023-06-14); commencement not asserted",
+  "history_type": "metadata",
+  "text_status": "metadata-only: official index fields; the text is in the linked official PDF (Kanunlar Dergisi), not transcribed",
+  "law_text_complete": false,
+  "privacy_withheld": false
+}
