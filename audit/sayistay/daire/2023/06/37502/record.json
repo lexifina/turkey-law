@@ -1,0 +1,17 @@
+{
+  "kind": "decision",
+  "issuer": "Sayıştay 6. Dairesi",
+  "number": "916",
+  "decision_date": "2023-06-15",
+  "source_id": 37502,
+  "chamber": "6",
+  "ilam_number": "135",
+  "item_number": 3,
+  "public_body_type": "Düzenleyici ve Denetleyici Kurumlar",
+  "account_year": 2021,
+  "subject": "Personel Mevzuatı ile İlgili Kararlar",
+  "source": "https://www.sayistay.gov.tr/KararlarDaire/Detay/37502/",
+  "source_sha256": "48584c9a785d681f1c30b43d46376461e3e2121dfd76ae27af000dff16c64e4d",
+  "text_status": "as-enacted",
+  "text_file": "metin.md"
+}
