@@ -1,0 +1,17 @@
+{
+  "kind": "decision",
+  "issuer": "Sayıştay 6. Dairesi",
+  "number": "916",
+  "decision_date": "2023-06-15",
+  "source_id": 37500,
+  "chamber": "6",
+  "ilam_number": "135",
+  "item_number": 1,
+  "public_body_type": "Düzenleyici ve Denetleyici Kurumlar",
+  "account_year": 2021,
+  "subject": "Harcırah Mevzuatı ile İlgili Kararlar",
+  "source": "https://www.sayistay.gov.tr/KararlarDaire/Detay/37500/",
+  "source_sha256": "17e108ac3aeb35f70b67d324390e298b25aefae62edebda410dd84e1876a89be",
+  "text_status": "metadata-only",
+  "metadata_only_reason": "possible personal name in the official text"
+}
