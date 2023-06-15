@@ -1,0 +1,13 @@
+{
+  "number": "23-27/520-176",
+  "type": "Diğer",
+  "decision_date": "2023-06-15",
+  "publication_date": "2023-07-05",
+  "official_url": "https://www.rekabet.gov.tr/Karar?kararId=a5583438-3407-41dc-9797-51d5ea1acc83",
+  "listing_source": "https://www.rekabet.gov.tr/tr/Kararlar?page=178",
+  "pdf_sha256": "a9eb5d3c70f3a1632535d376f19c9daddddd87e2853c1b0827e704def2aa3807",
+  "pdf_bytes": "1008963",
+  "pages": "17",
+  "text_status": "metadata-only",
+  "metadata_only_reason": "possible personal name in the official text"
+}
