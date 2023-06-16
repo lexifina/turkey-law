@@ -1,0 +1,21 @@
+{
+  "record_type": "parliament-written-question",
+  "term": 28,
+  "legislative_year": 1,
+  "esas_no": "7/918",
+  "submitted": "2023-06-16",
+  "submitted_as": "Başkanlığa geliş tarihi",
+  "mp": "Gizem ÖZCAN",
+  "province": "Muğla",
+  "summary": "Bakırköy Kadın Kapalı Cezaevinde bulunan bir mahkuma kötü muamelede bulunulduğu iddiasına ilişkin",
+  "status": "Süresi Geçtikten Sonra Cevaplandı",
+  "status_as_of": "2026-11-16",
+  "official_record": "https://www.tbmm.gov.tr/Denetim/Yazili-Soru-Onergesi-Detay/307ccc8d-4307-4de3-9954-0188d27bf4ed",
+  "source": "https://tbmm.gov.tr/Denetim/YaziliSoruOnergesiTable",
+  "source_form": "https://tbmm.gov.tr/Denetim/Yazili-Soru-Onergeleri",
+  "source_sha256": "ae791a298a2ae1a1cf0387b26ca0ab80e15c1c85c0e796241b817836fe1c909a",
+  "in_force": "2023-06-16",
+  "in_force_basis": "Date the question reached the Speaker (Başkanlığa geliş tarihi) in the official TBMM written-question record; parliamentary oversight record, not law",
+  "history_type": "metadata",
+  "text_status": "metadata-only: question text, addressee and answers are in the linked official record (PDFs on cdn.tbmm.gov.tr); not transcribed here"
+}
