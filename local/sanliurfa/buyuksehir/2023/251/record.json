@@ -1,0 +1,24 @@
+{
+  "number": "251",
+  "number_as_published": "251",
+  "year": 2023,
+  "title": "NAZIM İMAR PLANI(VİRANŞEHİR-GÖGRLİ)",
+  "decision_date": "2023-06-16",
+  "source": "https://www.sanliurfa.bel.tr/icerik/15985/106/nazim-imar-planiviransehir-gogrli",
+  "official_document": null,
+  "source_sha256": "87841f18451e8b78fdca2e4caa46a5ba926a16ec73e6515b4ae78d5b41b33322",
+  "issuer": "Şanlıurfa Büyükşehir Belediye Meclisi",
+  "history_type": "metadata",
+  "text_status": "metadata-only: decision number, date and subject from the official announcement; the decision text is not published on the page",
+  "in_force": "2023-06-16",
+  "in_force_basis": "Decision date as printed in the official council listing: 16.06.2023 tarih ve 251 sayılı (council decision cited in the official announcement); adoption date of the council decision; legal commencement not asserted",
+  "missing": [
+    "complete official decision text",
+    "official annexes"
+  ],
+  "law_text_complete": false,
+  "privacy_withheld": false,
+  "record_scope": "one council decision, as cited in the municipality's official plan announcement (ilan)",
+  "announcement_date": "2023-07-21",
+  "listing": "https://www.sanliurfa.bel.tr/kategori/82/0/meclis-kararlari?page=2"
+}
