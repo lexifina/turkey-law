@@ -1,0 +1,7 @@
+Radyasyon acil durumu sınıfları
+MADDE 8- (1) Yetkilendirilen kişi; tesislere ve radyasyon uygulamalarına ilişkin radyasyon acil durumlarını aşağıda tanımlanan radyasyon acil durumu sınıfları kapsamında sınıflandırır:
+a) Genel acil durum: Kategori I ve II’de yer alan tesislerde meydana gelen, saha içi ve saha dışında hafifletici eylemler ve koruyucu eylemler ile diğer müdahale faaliyetlerinin gerçekleştirilmesini gerektiren radyasyon acil durumlarıdır.
+b) Saha acil durumu: Kategori I ve II’de yer alan tesislerde meydana gelen, saha içinde ve gerekirse saha yakınlarında hafifletici eylemler ve koruyucu eylemler ile diğer müdahale faaliyetlerinin gerçekleştirilmesini gerektiren radyasyon acil durumlarıdır.
+c) Tesis acil durumu: Kategori I, II ve III’te yer alan tesislerde ve radyasyon uygulamalarında meydana gelen, tesis ve radyasyon uygulaması dâhilinde hafifletici eylemler ve koruyucu eylemler ile diğer müdahale faaliyetlerinin gerçekleştirilmesini gerektiren radyasyon acil durumlarıdır.
+ç) Alarm durumu: Kategori I, II ve III’te yer alan tesislerde ve radyasyon uygulamalarında meydana gelen, durumun değerlendirilmesini ve sonuçlarının hafifletilmesini gerektiren radyasyon acil durumlarıdır.
+d) Diğer acil durumlar: Kategori IV’te yer alan tesislerde ve radyasyon uygulamalarında meydana gelen, hafifletici eylemler ve koruyucu eylemler ile diğer müdahale faaliyetlerinin gerçekleştirilmesini gerektiren radyasyon acil durumlarıdır.

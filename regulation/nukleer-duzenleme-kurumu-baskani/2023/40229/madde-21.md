@@ -1,0 +1,3 @@
+Acil durum çalışanlarının radyasyondan korunması
+MADDE 21- (1) Yetkilendirilen kişi, sorumluluğu altındaki acil durum çalışanlarının radyasyondan korunması ve bu kişilerin alabilecekleri radyasyon dozlarının sınırlanması amacıyla ilgili mevzuat kapsamında yer alan hükümleri ve acil durum çalışanlarının alacakları radyasyon dozlarının kısıtlanmasına yönelik kılavuz değerleri dikkate alır.
+(2) Yetkilendirilen kişi, acil durum çalışanlarının alacakları dozların mümkün ve makul olan en düşük seviyede tutulmasını sağlayacak acil durum donanımının kullanılmasını ve ilgili talimatların uygulanmasını sağlar.

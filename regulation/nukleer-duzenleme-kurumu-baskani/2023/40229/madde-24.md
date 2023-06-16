@@ -1,0 +1,3 @@
+Müdahalenin sonlandırılması
+MADDE 24- (1) Yetkilendirilen kişi, gerek görmesi hâlinde ilgili kurum ve kuruluşların görüşlerini alarak, radyolojik ve radyolojik olmayan sonuçları göz önünde bulundurarak yapacağı değerlendirme ve hazırlayacağı rapor sonucunda, saha içinde gerçekleştirilen müdahale faaliyetlerini Kurumun uygun görüşü ile sonlandırır.
+(2) Yetkilendirilen kişi, radyasyon acil durumu sonrasında, radyoaktif maddelerden kaynaklanan radyasyona maruz kalma durumunun engellenmesi veya azaltılması amacıyla saha içinde iyileştirme faaliyetlerini yürütür ve imkânları dâhilinde saha dışındaki iyileştirme faaliyetlerine iştirak eder.

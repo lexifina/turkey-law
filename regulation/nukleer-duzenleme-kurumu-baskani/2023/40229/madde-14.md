@@ -1,0 +1,3 @@
+Acil durum donanımı ve haberleşme
+MADDE 14- (1) Yetkilendirilen kişi, tesisler ve radyasyon uygulamaları kapsamındaki öngörülebilir tüm radyasyon acil durumu koşullarında kullanıma uygun özelliklerde ve yeterli miktarda acil durum donanımını temin eder. Bunların bakım, test, kontrol, muayene ve kalibrasyon işlemlerini yaparak her an kullanılabilir durumda olmasını ve radyasyon acil durumu koşullarında ulaşılabilir olacak şekilde uygun şartlarda muhafaza edilmesini sağlar.
+(2) Yetkilendirilen kişi, radyasyon acil durumlarında saha içinde ve Kurum başta olmak üzere ilgili yerel ve ulusal kurum ve kuruluşlar ile gerçekleştireceği haberleşmenin kesintisiz, hızlı ve etkin bir şekilde sağlanması amacıyla ana ve yedek iletişim sistemlerini oluşturur.

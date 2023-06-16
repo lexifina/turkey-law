@@ -1,0 +1,3 @@
+Kapsam
+MADDE 2- (1) Bu Yönetmelik, nükleer enerji ve iyonlaştırıcı radyasyona ilişkin faaliyetlerin yürütüldüğü, düzenleyici kontrole tabi tesisler ve radyasyon uygulamaları için radyasyon acil durumlarının saha içi yönetimini kapsar.
+(2) Radyasyon acil durumlarıyla ilgili saha dışı hazırlık, planlama ve müdahale faaliyetleri Afet ve Acil Durum Yönetimi Başkanlığı koordinasyonunda ve diğer ilgili kurum ve kuruluşlarla iş birliği içerisinde, 23/2/2022 tarihli ve 5211 sayılı Cumhurbaşkanı Kararıyla yürürlüğe konulan Afet ve Acil Durum Müdahale Hizmetleri Yönetmeliği ve Ulusal Radyasyon Acil Durum Planı başta olmak üzere ilgili mevzuat ve planlar kapsamında gerçekleştirilir.

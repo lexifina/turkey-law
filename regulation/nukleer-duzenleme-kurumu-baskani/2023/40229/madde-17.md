@@ -1,0 +1,2 @@
+Karar destek sistemleri
+MADDE 17- (1) Yetkilendirilen kişi, Kategori I’de yer alan tesisler için, muhtemel radyasyon acil durumlarının radyolojik sonuçlarını tahmin eden karar destek sistemi model ve yazılımlarını tesiste bulundurur ve gerekli durumlarda kullanır. Bu model ve yazılımlardan elde edilen sonuçların kullanılabilirliği, çevreye salıma neden olabilecek muhtemel olay veya kaza senaryoları için acil durum tatbikatlarında test edilir.
