@@ -1,0 +1,3 @@
+Yurt dışındaki mal ve hizmet alımları
+MADDE 12 – (1) Hac ve umre hizmetleri ile ilgili olarak yurt dışında yapılacak mal ve hizmet alımlarında, Suudi Arabistan Hac Bakanlığınca çıkarılan talimatlarda belirlenen bina ve otel kirası, toprak bastı parası, çadır parası, iç nakliye ve benzeri giderler ile idare, hizmet binaları ve hizmet araçlarının kiralanması, ihtiyaç duyulan gıda, temizlik ve diğer malzemelerin satın alınması ve benzeri hizmetler için yapılan harcamalar, 4734 sayılı Kamu İhale Kanununa tabi olmayıp; Komisyonca yetkilendirilen en az üç kişiden oluşan Yurt Dışı Harcama Komisyonu tarafından yapılır.
+(2) Yurt Dışı Harcama Komisyonu kararları harcama yetkilisinin onayı ile yürürlüğe girer.
