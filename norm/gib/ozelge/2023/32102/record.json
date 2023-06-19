@@ -1,0 +1,22 @@
+{
+  "kind": "norm",
+  "issuer": "Gelir İdaresi Başkanlığı",
+  "document_type": "ozelge",
+  "number": "E-21152195-130[28-2023-5837]-264284",
+  "source_id": 32102,
+  "date": "2023-06-19",
+  "title": "Prefabrik yapı elemanlarının tesliminde KDV oranı ve tevkifat uygulaması",
+  "source": "https://gib.gov.tr/mevzuat/kanun/436/ozelge/32102",
+  "related_law": "3065 sayılı KATMA DEĞER VERGİSİ KANUNU",
+  "source_api": "https://gib.gov.tr/api/gibportal/mevzuat/ozelge/list",
+  "source_listing": "evidence/list/2026-11-16/ozelge-p005.json",
+  "source_listing_sha256": "bc82c6c09764a8d83c3906db12d34a67d7f592d6e631568c06d506072b5840cf",
+  "source_sha256": "f9a4bc9fb3d8aa171c38e917536c5366285fffa2ec0a7d3e854cc34037adb2a8",
+  "text_status": "as-enacted",
+  "text_file": "metin.md",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  }
+}
