@@ -1,0 +1,18 @@
+{
+  "issuer": "Mersin Büyükşehir Belediye Meclisi",
+  "number": "279",
+  "decision_date": "2023-06-19",
+  "title": "council decision (subject withheld: may concern individual persons)",
+  "listed_as": null,
+  "subject_note": "subject as the meeting page lists it (the register shortens some long subjects)",
+  "official_document": "https://www.mersin.bel.tr/dokumanlar/279-meckarborclanma-yetkisi-verilmesi-1788690524",
+  "source_listing": "https://www.mersin.bel.tr/dokumanlar/19-haziran-2023-meclis-kararlari-496467544",
+  "listing_sha256": "193bdae46b85748ac221a70fc93bdb2cc6ddd0a47774cb65382cb69a1f6bd663",
+  "meeting_title": "19 HAZİRAN 2023 MECLİS KARARLARI",
+  "history_type": "metadata-only",
+  "capture_mode": "metadata-only",
+  "text_status": "metadata-only; official decision page linked, text not transcribed",
+  "date_basis": "meeting date in the official meeting page title (decision date of the session)",
+  "commencement_established": false,
+  "privacy_withheld": true
+}
