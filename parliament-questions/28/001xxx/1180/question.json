@@ -1,0 +1,21 @@
+{
+  "record_type": "parliament-written-question",
+  "term": 28,
+  "legislative_year": 1,
+  "esas_no": "7/1180",
+  "submitted": "2023-06-19",
+  "submitted_as": "Başkanlığa geliş tarihi",
+  "mp": "Adnan Şefik ÇİRKİN",
+  "province": "Hatay",
+  "summary": "Bakanlığın Çevre, Şehircilik ve İklim Değişikliği Bakanlığı ile Hatay'da konut yapımına dair iş birliğine ve konut ihalelerine ilişkin",
+  "status": "Süresi Geçtikten Sonra Cevaplandı",
+  "status_as_of": "2026-11-16",
+  "official_record": "https://www.tbmm.gov.tr/Denetim/Yazili-Soru-Onergesi-Detay/546b4722-e574-4871-b36e-0188d7d27e3c",
+  "source": "https://tbmm.gov.tr/Denetim/YaziliSoruOnergesiTable",
+  "source_form": "https://tbmm.gov.tr/Denetim/Yazili-Soru-Onergeleri",
+  "source_sha256": "5f2cfac6e0347fb599fc2dbf33aee24937597d3ab83c995db08695e0288f2737",
+  "in_force": "2023-06-19",
+  "in_force_basis": "Date the question reached the Speaker (Başkanlığa geliş tarihi) in the official TBMM written-question record; parliamentary oversight record, not law",
+  "history_type": "metadata",
+  "text_status": "metadata-only: question text, addressee and answers are in the linked official record (PDFs on cdn.tbmm.gov.tr); not transcribed here"
+}
