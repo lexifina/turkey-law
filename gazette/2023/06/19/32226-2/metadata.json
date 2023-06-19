@@ -1,0 +1,20 @@
+{
+  "record_type": "gazette-item",
+  "gazette": "Resmî Gazete",
+  "jurisdiction": "TR",
+  "date": "2023-06-19",
+  "issue": "32226",
+  "edition": "regular",
+  "item": 2,
+  "section": "YÜRÜTME VE İDARE BÖLÜMÜ",
+  "heading": "YÖNETMELİKLER",
+  "title": "Maltepe Üniversitesi Yaz Öğretimi Yönetmeliği",
+  "official_link": "https://www.resmigazete.gov.tr/eskiler/2023/06/20230619-2.htm",
+  "link_format": "htm",
+  "index_url": "https://www.resmigazete.gov.tr/eskiler/2023/06/20230619.htm",
+  "index_sha256": "98a0a50fa90365f3c1fb97ab99da63bfbef18c6e60b35dd6ab0fb3c815caa6a6",
+  "index_header": "19 Haziran 2023 ... 32226 Sayılı Resmî Gazete",
+  "issue_pdf": "https://www.resmigazete.gov.tr/eskiler/2023/06/20230619.pdf",
+  "in_force_basis": "Resmî Gazete publication date; not a commencement reading.",
+  "text_status": "metadata-only; text not yet fetched (follow-up pass adds it as its own commit)"
+}
