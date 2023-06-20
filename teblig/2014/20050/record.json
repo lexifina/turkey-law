@@ -1,0 +1,45 @@
+{
+  "source_id": "9.5.20050",
+  "kind": "communique",
+  "register_kind": "Tebliğler",
+  "title": "ULUSAL MESLEK STANDARTLARINA DAİR TEBLİĞ (TEBLİĞ NO: 2014/5)",
+  "number": "20050",
+  "issuer": "Meslekî Yeterlilik Kurumu Başkanı",
+  "path": "teblig/2014/20050",
+  "source": "https://www.mevzuat.gov.tr/anasayfa/MevzuatFihristDetayIframe?MevzuatTur=9&MevzuatNo=20050&MevzuatTertip=5",
+  "source_sha256": "a9bbd1a50fd0141022a0b783cbd67a7a0ff49db377c873cf33f4a4ed1081293d",
+  "source_bytes": 15291,
+  "published": "2014-09-13",
+  "gazette": "29118 mükerrer",
+  "in_force": "2023-06-20",
+  "in_force_basis": "latest Resmî Gazete date printed in the source amendment notes/table (\"20/6/2023\") for the current consolidated text",
+  "date_evidence": [
+    [
+      "2023-06-20",
+      "20/6/2023",
+      "Resmî Gazete date in the source amendment table"
+    ],
+    [
+      "2022-01-24",
+      "24/1/2022",
+      "Resmî Gazete date in the source amendment table"
+    ]
+  ],
+  "commencement_clauses": [
+    "Bu Tebliğ yayımı tarihinde yürürlüğe girer"
+  ],
+  "history": "current-text",
+  "label": "oldest version available",
+  "checked_on": "2026-11-15",
+  "word_count": 199,
+  "text_status": "current-consolidated",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  },
+  "source_links": [
+    "9.5.20050-ekler.zip"
+  ],
+  "completeness": "html-text-complete; linked annexes not fetched"
+}
