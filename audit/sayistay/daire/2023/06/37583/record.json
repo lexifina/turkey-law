@@ -1,0 +1,17 @@
+{
+  "kind": "decision",
+  "issuer": "Sayıştay 8. Dairesi",
+  "number": "289",
+  "decision_date": "2023-06-20",
+  "source_id": 37583,
+  "chamber": "8",
+  "ilam_number": "277",
+  "item_number": 1,
+  "public_body_type": "Düzenleyici ve Denetleyici Kurumlar",
+  "account_year": 2018,
+  "subject": "Personel Mevzuatı ile İlgili Kararlar",
+  "source": "https://www.sayistay.gov.tr/KararlarDaire/Detay/37583/",
+  "source_sha256": "a7c218055090d883302c402877e1ed24181cfc6c71c7adcb79a44a36a0fd3609",
+  "text_status": "as-enacted",
+  "text_file": "metin.md"
+}
