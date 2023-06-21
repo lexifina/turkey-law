@@ -1,0 +1,16 @@
+{
+  "kind": "decision",
+  "issuer": "Sayıştay Temyiz Kurulu",
+  "number": "55558",
+  "decision_date": "2023-06-21",
+  "source_id": 27106,
+  "chamber": "7",
+  "file_number": "49104",
+  "public_body_type": "Belediyeler ve Bağlı İdareler",
+  "account_year": "2017",
+  "subject": "Personel Mevzuatı ile İlgili Kararlar",
+  "source": "https://www.sayistay.gov.tr/KararlarTemyiz/Detay/27106/",
+  "source_sha256": "a9b82b6c51fa3e86f57bb4ca4c7b6d5f5aa5d25ae91ef7b1fa7b794a565402cd",
+  "text_status": "as-enacted",
+  "text_file": "metin.md"
+}
