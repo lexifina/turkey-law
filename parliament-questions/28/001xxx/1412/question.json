@@ -1,0 +1,21 @@
+{
+  "record_type": "parliament-written-question",
+  "term": 28,
+  "legislative_year": 1,
+  "esas_no": "7/1412",
+  "submitted": "2023-06-21",
+  "submitted_as": "Başkanlığa geliş tarihi",
+  "mp": "Tahsin BECAN",
+  "province": "Yalova",
+  "summary": "Yalova'da uyuşturucuyla mücadeleye ilişkin",
+  "status": "Süresi Geçtikten Sonra Cevaplandı",
+  "status_as_of": "2026-11-16",
+  "official_record": "https://www.tbmm.gov.tr/Denetim/Yazili-Soru-Onergesi-Detay/9613a15c-26fa-4c94-9b10-0188e1eabad2",
+  "source": "https://tbmm.gov.tr/Denetim/YaziliSoruOnergesiTable",
+  "source_form": "https://tbmm.gov.tr/Denetim/Yazili-Soru-Onergeleri",
+  "source_sha256": "80d62495156a521fe5117933bbed6fef8a27afc59ea28f8e259331fc5723a50e",
+  "in_force": "2023-06-21",
+  "in_force_basis": "Date the question reached the Speaker (Başkanlığa geliş tarihi) in the official TBMM written-question record; parliamentary oversight record, not law",
+  "history_type": "metadata",
+  "text_status": "metadata-only: question text, addressee and answers are in the linked official record (PDFs on cdn.tbmm.gov.tr); not transcribed here"
+}
