@@ -1,0 +1,31 @@
+{
+  "act_path": "regulation/university/yuksek-ihtisas-universitesi/2015/20801",
+  "availability": "text",
+  "checked_on": "2026-11-14",
+  "commencement_clauses": [
+    "MADDE 34 – (1) Bu Yönetmelik yayımı tarihinde yürürlüğe girer."
+  ],
+  "date_quote": "RG-21/6/2023",
+  "first_law": null,
+  "gazette": "29373",
+  "history": "current-text",
+  "images": {
+    "deferred": 0,
+    "omitted": 0,
+    "referenced": 0,
+    "source": 0
+  },
+  "in_force": "2023-06-21",
+  "in_force_basis": "latest source-printed amendment Gazette date; current consolidated text",
+  "issuer": "Yüksek İhtisas Üniversitesi",
+  "issuer_slug": "yuksek-ihtisas-universitesi",
+  "kind": "regulation",
+  "published": "2015-06-01",
+  "source": "https://www.mevzuat.gov.tr/anasayfa/MevzuatFihristDetayIframe?MevzuatTur=8&MevzuatNo=20801&MevzuatTertip=5",
+  "source_id": "8.5.20801",
+  "source_sha256": "fcab76ab5c24f38e4be4dbda7b89ab6e61e09f00956e1675878f3da20b4b89fa",
+  "title": "YÜKSEK İHTİSAS ÜNİVERSİTESİ ANA YÖNETMELİĞİ",
+  "university_id": 463,
+  "version_label": "oldest version available",
+  "word_count": 3592
+}

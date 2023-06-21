@@ -1,0 +1,7 @@
+Mütevelli Heyeti toplantıları karar yeter sayıları ve oylama
+MADDE 6 – (1) Mütevelli Heyeti yılda en az altı defa olağan toplanır. Toplantıların gündemi ve zamanı toplantı gününden en az bir hafta önce üyelere duyurulur. Mütevelli Heyetini olağanüstü toplantıya çağırma yetkisi Başkana aittir. Ayrıca, üyelerin 2/3 ünün talebi halinde olağanüstü toplantı yapılır. Mütevelli Heyeti toplantı tutanak ve kararları Başkanın Mütevelli Heyeti üyeleri arasından görevlendireceği Raportör üye tarafından usulüne uygun olarak karar defterine yazılır, başkan ve üyeler tarafından imzalanır.
+(2) Mütevelli Heyeti lüzum gördüğü hallerde, yetkili uzmanları veya ilgili görevlileri, açıklamalarda bulunmak üzere toplantılara davet edebilir. Üye olmadıkları halde bu şekilde toplantıya katılanların oy hakları yoktur.
+(3) İşbu Yönetmelikte aksi yönde hüküm bulunmadıkça, Mütevelli Heyetinin toplantı nisabı, üye tam sayısının yarısından bir fazlası olup; kararlar, toplantıya katılanların salt çoğunluğu ile alınır.
+(4) Her gündem maddesi görüşüldükten sonra konu ile ilgili karar tasarısı oya sunulur. Oyların kabul veya ret şeklinde kullanılması zorunludur. Çekimser oy kullanılamaz. Toplantıda bulunduğu halde oylamaya katılmayan üyenin oyu ret sayılır. Oylama açık ve işaretle yapılır.
+(5) Üçüncü turda da salt çoğunluk sağlanamazsa dördüncü turda oy çokluğu esası uygulanır.
+(6) Eşitlik halinde Başkan’ın oyu yönünde çoğunluk sağlanmış sayılır.
