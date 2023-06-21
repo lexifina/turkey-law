@@ -1,0 +1,21 @@
+{
+  "record_type": "parliament-written-question",
+  "term": 28,
+  "legislative_year": 1,
+  "esas_no": "7/862",
+  "submitted": "2023-06-21",
+  "submitted_as": "Başkanlığa geliş tarihi",
+  "mp": "Umut AKDOĞAN",
+  "province": "Ankara",
+  "summary": "Erasmus+ kapsamında yurtdışına çıkanlara ilişkin",
+  "status": "Süresi Geçtikten Sonra Cevaplandı",
+  "status_as_of": "2026-11-16",
+  "official_record": "https://www.tbmm.gov.tr/Denetim/Yazili-Soru-Onergesi-Detay/5d1a9b9e-0b06-4895-93ad-0188de55e57e",
+  "source": "https://tbmm.gov.tr/Denetim/YaziliSoruOnergesiTable",
+  "source_form": "https://tbmm.gov.tr/Denetim/Yazili-Soru-Onergeleri",
+  "source_sha256": "64345e7cc8cd2b1a57d03568769269c9696b95217c6f55950fe0a3658fc8858f",
+  "in_force": "2023-06-21",
+  "in_force_basis": "Date the question reached the Speaker (Başkanlığa geliş tarihi) in the official TBMM written-question record; parliamentary oversight record, not law",
+  "history_type": "metadata",
+  "text_status": "metadata-only: question text, addressee and answers are in the linked official record (PDFs on cdn.tbmm.gov.tr); not transcribed here"
+}
