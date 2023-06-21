@@ -1,0 +1,5 @@
+Belediye bütçesinden kahveciler odasına eşantiyon ve hediye niteliğinde masa örtüsü alınması.
+
+1- 40 sayılı İlamın 2 nci maddesiyle verilen … TL’nin tazminine dair hüküm, sorumlulukta Üst Yönetici sıfatı ile iştiraki bulunan …’ın başvurusu üzerine düzenlenen 21.06.2023 tarihli ve 55541 tutanak sayılı Temyiz Kurulu İlamının 2 nci maddesi ile; … Kahveciler ve Benzerleri Odası üyelerine ait işyerlerine eşantiyon ve hediye niteliğinde 10.000 adet masa örtüsü alınması nedeniyle kamu zararı oluşmadığına ilişkin olarak belirtilen hususların tekrar değerlendirilmesini teminen 6085 sayılı Sayıştay Kanunu’nun 55 inci maddesinin yedinci fıkrası uyarınca tazmin hükmünün bozulması suretiyle Dairesine gönderildiğinden; sorumlunun işbu madde ile ilgili itirazı üzerine Kurulumuzca YAPILACAK İŞLEM OLMADIĞINA, ancak aynı mahiyette olan 48933 sayılı işbu dosyanın da sözü edilen (48934 sayılı) dosya ile BİRLEŞTİRİLEREK gereği yapılmak üzere hükmü veren DAİREYE GÖNDERİLMESİNE, oy birliğiyle,
+
+Karar verildiği 21.06.2023 tarih ve 55543 sayılı tutanakta yazılı olmakla işbu ilam tanzim kılındı.
