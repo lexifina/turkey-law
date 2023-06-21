@@ -1,0 +1,20 @@
+{
+  "applicant": "M.T.A.",
+  "application_date": "2019-05-13",
+  "application_number": "2019/16702",
+  "deciding_unit": "Birinci Bölüm",
+  "decision_date": "2023-06-21",
+  "id": "5c33c01d-0c75-56e5-ea71-1f455d64f54a",
+  "in_force": "2023-06-21",
+  "in_force_basis": "official decision date",
+  "kind": "constitutional-court-individual-application",
+  "omitted_images": 0,
+  "outcome": "Kabul Edilemezlik vd.",
+  "published": null,
+  "referenced_images": 0,
+  "source": "https://kararlarbilgibankasi.anayasa.gov.tr/kbb/pages/search/Tumu?id=a2JiOjVjMzNjMDFkLTBjNzUtNTZlNS1lYTcxLTFmNDU1ZDY0ZjU0YQ&type=BireyselBasvuru",
+  "source_api": "https://kararlarbilgibankasi.anayasa.gov.tr/api/core/public/search",
+  "source_images": 0,
+  "source_sha256": "6e0bfe4c8ceeb0c0e79ed3d28535fc4e1d88add3a23aad1d05f92291b09206a6",
+  "version_label": "as-enacted"
+}
