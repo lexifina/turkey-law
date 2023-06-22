@@ -1,0 +1,21 @@
+{
+  "record_type": "parliament-written-question",
+  "term": 28,
+  "legislative_year": 1,
+  "esas_no": "7/975",
+  "submitted": "2023-06-22",
+  "submitted_as": "Başkanlığa geliş tarihi",
+  "mp": "Servet MULLAOĞLU",
+  "province": "Hatay",
+  "summary": "Öğretmen atamalarına ilişkin",
+  "status": "Cevaplandı",
+  "status_as_of": "2026-11-16",
+  "official_record": "https://www.tbmm.gov.tr/Denetim/Yazili-Soru-Onergesi-Detay/54c10a17-eb24-4474-a344-0188e8b134cc",
+  "source": "https://tbmm.gov.tr/Denetim/YaziliSoruOnergesiTable",
+  "source_form": "https://tbmm.gov.tr/Denetim/Yazili-Soru-Onergeleri",
+  "source_sha256": "ae791a298a2ae1a1cf0387b26ca0ab80e15c1c85c0e796241b817836fe1c909a",
+  "in_force": "2023-06-22",
+  "in_force_basis": "Date the question reached the Speaker (Başkanlığa geliş tarihi) in the official TBMM written-question record; parliamentary oversight record, not law",
+  "history_type": "metadata",
+  "text_status": "metadata-only: question text, addressee and answers are in the linked official record (PDFs on cdn.tbmm.gov.tr); not transcribed here"
+}
