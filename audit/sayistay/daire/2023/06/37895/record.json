@@ -1,0 +1,15 @@
+{
+  "kind": "decision",
+  "issuer": "Sayıştay 3. Dairesi",
+  "number": "459",
+  "decision_date": "2023-06-22",
+  "source_id": 37895,
+  "chamber": "3",
+  "ilam_number": "158",
+  "item_number": 5,
+  "account_year": 2021,
+  "source": "https://www.sayistay.gov.tr/KararlarDaire/Detay/37895/",
+  "source_sha256": "5db4c2bf90c001d0158223713e6a7caa4f3f44a7f97986d32781dff1018d5d0a",
+  "text_status": "as-enacted",
+  "text_file": "metin.md"
+}
