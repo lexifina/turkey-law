@@ -1,0 +1,26 @@
+{
+  "kind": "norm",
+  "issuer": "Enerji Piyasası Düzenleme Kurumu",
+  "market": "electricity",
+  "document_type": "board-decision",
+  "number": "11930",
+  "decision_date": "2023-06-22",
+  "title": "1/7/2023 tarihinden itibaren geçerli olacak elektrik tarifeleri tabloları hakkında",
+  "resmi_gazete_date": "2023-06-24",
+  "resmi_gazete_number": "32231",
+  "categories": [
+    "Elektrik Faturalarına Esas Tarife Tabloları"
+  ],
+  "source": "https://www.epdk.gov.tr/Detay/DownloadDocument?id=wKJVFsPQfzk=",
+  "documents": [
+    "https://www.epdk.gov.tr/Detay/DownloadDocument?id=wKJVFsPQfzk=",
+    "https://www.epdk.gov.tr/Detay/DownloadDocument?id=IU4302KscQQ="
+  ],
+  "source_sha256": "0d3fd1b59a5aae1a46e15b6c2687a887fb634fa584a353346a882d4fd8eb8bf0",
+  "official_list": "https://www.epdk.gov.tr/Detay/Icerik/3-0-39/kurul-kararlari-",
+  "official_list_leaf": 1327,
+  "text_status": "as-enacted",
+  "text_file": "metin.md",
+  "in_force": "2023-06-22",
+  "law_text_complete": true
+}
