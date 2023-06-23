@@ -1,0 +1,45 @@
+{
+  "source_id": "9.5.16824",
+  "kind": "communique",
+  "register_kind": "Tebliğler",
+  "title": "ULUSAL MESLEK STANDARTLARINA DAİR TEBLİĞ",
+  "number": "16824",
+  "issuer": "Mesleki Yeterlilik Kurumu Başkanı",
+  "path": "teblig/2012/16824",
+  "source": "https://www.mevzuat.gov.tr/anasayfa/MevzuatFihristDetayIframe?MevzuatTur=9&MevzuatNo=16824&MevzuatTertip=5",
+  "source_sha256": "840c64e59b9635c3928ff6ca100ce88993261ad9f545628272959bd642c74830",
+  "source_bytes": 15580,
+  "published": "2012-12-05",
+  "gazette": "28488 Mükerrer",
+  "in_force": "2023-06-23",
+  "in_force_basis": "latest Resmî Gazete date printed in the source amendment notes/table (\"23/6/2023\") for the current consolidated text",
+  "date_evidence": [
+    [
+      "2023-06-23",
+      "23/6/2023",
+      "Resmî Gazete date in the source amendment table"
+    ],
+    [
+      "2020-03-15",
+      "15/3/2020",
+      "Resmî Gazete date in the source amendment table"
+    ]
+  ],
+  "commencement_clauses": [
+    "Bu Tebliğ yayımı tarihinde yürürlüğe girer"
+  ],
+  "history": "current-text",
+  "label": "oldest version available",
+  "checked_on": "2026-11-15",
+  "word_count": 164,
+  "text_status": "current-consolidated",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  },
+  "source_links": [
+    "9.5.16824-EK.zip"
+  ],
+  "completeness": "html-text-complete; linked annexes not fetched"
+}
