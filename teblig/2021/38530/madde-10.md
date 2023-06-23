@@ -1,0 +1,4 @@
+Sözleşme
+MADDE 10 – (1) Sözleşme, davet mektubunun, ihaleyi kazanana tebliğ edildiği tarihten itibaren şartnamede belirtilen belgelerin idareye sunulması ve uygun bulunması ile süresi içerisinde imzalanır.
+(2) İhaleyi kazananın iş ortaklığı olması durumunda teklifinde sunmuş olduğu iş ortaklığı sözleşmesine uygun olarak, tüm ortaklar tarafından veya tüzel kişilik kurularak idare ile sözleşme imzalanır. İş ortaklığı sözleşmesinde, iş ortaklığını oluşturan gerçek veya tüzel kişilerin taahhüdün yerine getirilmesinde müştereken ve müteselsilen sorumlu oldukları belirtilir. Sözleşmenin, süresi içerisinde imzalanmaması durumunda şartnamede belirtilen hükümler ve genel hükümler uygulanır.
+(3) Yüklenicinin teklifi, teklifi kapsamında sunmuş olduğu bilgi ve belgeler, şartname ve ekleri ve diğer ihale dokümanları sözleşmenin ayrılmaz bir eki ve parçasıdır.

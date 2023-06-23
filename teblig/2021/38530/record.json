@@ -1,0 +1,50 @@
+{
+  "source_id": "9.5.38530",
+  "kind": "communique",
+  "register_kind": "Tebliğler",
+  "title": "KAMUDA ENERJİ PERFORMANS SÖZLEŞMELERİNİN UYGULANMASINA İLİŞKİN TEBLİĞ",
+  "number": "38530",
+  "issuer": "Enerji ve Tabii Kaynaklar Bakanı",
+  "path": "teblig/2021/38530",
+  "source": "https://www.mevzuat.gov.tr/anasayfa/MevzuatFihristDetayIframe?MevzuatTur=9&MevzuatNo=38530&MevzuatTertip=5",
+  "source_sha256": "4e4bb0e1be029fd051b13ebd528ef402b7f787e80e4b6f2c6a8799bf143efe9c",
+  "source_bytes": 67332,
+  "published": "2021-04-15",
+  "gazette": "31455",
+  "in_force": "2023-06-23",
+  "in_force_basis": "latest Resmî Gazete date printed in the source amendment notes/table (\"RG-23/6/2023\") for the current consolidated text",
+  "date_evidence": [
+    [
+      "2023-06-23",
+      "RG-23/6/2023",
+      "Resmî Gazete date printed in the source amendment note"
+    ],
+    [
+      "2023-06-23",
+      "23/6/2023",
+      "Resmî Gazete date in the source amendment table"
+    ],
+    [
+      "2022-03-18",
+      "18/3/2022",
+      "Resmî Gazete date in the source amendment table"
+    ]
+  ],
+  "commencement_clauses": [
+    "Bu Tebliğ yayımı tarihinde yürürlüğe girer"
+  ],
+  "history": "current-text",
+  "label": "oldest version available",
+  "checked_on": "2026-11-15",
+  "word_count": 4672,
+  "text_status": "current-consolidated",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  },
+  "source_links": [
+    "9.5.38530-Ek.zip"
+  ],
+  "completeness": "html-text-complete; linked annexes not fetched"
+}
