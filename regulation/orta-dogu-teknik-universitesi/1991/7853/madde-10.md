@@ -1,0 +1,2 @@
+Merkez Birimleri ve Proje Grupları
+Madde 10 – ODTÜ – Kaynak Teknolojisi ve Tahribatsız Muayene Araştırma ve Uygulama Merkezi eğitim, araştırma ve uygulamalarını Merkezin Kaynak Teknolojisi Birimi, Tahribatsız Muayene Birimi ve Proje Grupları aracılığıyla yürütülür. Merkez Birimlerinin ve Proje Gruplarının kuruluş ve çalışmaları Yönetim Kurulunca hazırlanan yönergeler uyarınca yürütülür. Merkezin Başkan Yardımcıları Merkez Birimlerinin başkanıdır.

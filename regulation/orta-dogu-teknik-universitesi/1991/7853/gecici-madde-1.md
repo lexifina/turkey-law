@@ -1,0 +1,1 @@
+Geçici Madde 1 – 25 Mayıs 1988 tarihli Resmi Gazete’de yayınlanarak yürürlüğe girmiş olan “Orta Doğu Teknik Üniversitesi Metalurji Mühendisliği Bölümünde Kaynak Tekniği ve Malzeme Kontrolü Merkezi Kurulması” konulu proje anlaşması uyarınca Metalurji Mühendisliği Bölümünce uygulanmakta olan proje bu Yönetmelik çerçevesinde yürütülür.
