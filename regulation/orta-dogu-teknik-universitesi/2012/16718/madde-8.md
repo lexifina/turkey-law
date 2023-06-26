@@ -1,0 +1,3 @@
+Müdür
+MADDE 8 – (1) Müdür; Merkezin faaliyet alanı ile ilgili araştırma, geliştirme ve uygulama deneyimi bulunan öğretim üyeleri arasından Rektör tarafından üç yıllığına görevlendirilir. Süresi sona eren Müdür tekrar görevlendirilebilir.
+(2) Merkezin faaliyet alanıyla ilgili alanlarda uzman ODTÜ öğretim üyelerinden bir veya daha fazla kişi müdür yardımcısı olarak görevlendirilir. Müdür yardımcıları, Müdürün önerisi üzerine Rektör tarafından görevlendirilir. Müdür görevi başında olmadığı zaman müdür yardımcılarından birini vekil bırakır. Göreve vekâlet dört aydan fazla sürerse yeni bir Müdür görevlendirilir.
