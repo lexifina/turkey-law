@@ -1,0 +1,2 @@
+Merkez Birimleri
+Madde 10- Araştırma ve eğitim çalışmalarını iş bölümü çerçevesinde yürütmek üzere Başkanın önerisi ve Yönetim Kurulu kararıyla tasarım, imalat ve robotik alanlarında araştırma ve uygulama merkez birimleri kurulabilir. Merkez birimlerinin kuruluş ve çalışmaları Yönetim Kurulunca hazırlanan yönergeler uyarınca yürütme Merkez birimlerinde görevlendirilecek her türlü personelin görevlendirilmeleri veya atanmaları Merkez Başkanı’nın önerisi ve Rektör’ün onayı ile yapılır.

@@ -1,0 +1,2 @@
+Proje Grupları
+Madde 11- Araştırma ve eğitim çalışmalarını iş bölümü çerçevesinde yürütmek üzere Başkanının önerisi ve Yönetim Kurulu kararıyla tasarım, imalat ve robotik alanlarında proje grupları kurulabilir. Proje gruplarının kuruluş ve çalışmaları Yönetim Kurulu’nca hazırlanan yönergeler uyarınca yürütülür. Proje gruplarında görevlendirilecek her türlü personelin görevlendirilmeleri veya atanmaları Merkez Başkanı’nın önerisi ve Rektör’ün onayı ile yapılır.
