@@ -1,0 +1,7 @@
+Çalışma Alanı
+Madde 3 – Merkez amacı doğrultusunda aşağıdaki alanlarda çalışmalar yürütür:
+a) (Değişik:RG-1/5/1995-22274) ODTÜ'nün ilgili bölüm ve anabilim dallarındaki (Şehir Planlama, Restorasyon, Arkeometri, vb) araştırma potansiyelini konu ile ilgili araştırma uygulamalara yöneltmek, araştırma, uygulama çalışmaları yapmak, yaptırmak veya bu tür çalışmalara katılmak, destek olmak,
+b) (Değişik:RG-1/5/1995-22274) Çalışma alanı ile ilgili konularda nitelikli araştırma-uygulama projeleri ile ulusal ve uluslararası kuruluşlarda işbirliği yapmak,
+c) (Değişik:RG-1/5/1995-22274) Sürekli Eğitim Merkezi (SEM) ile işbirliği yaparak günümüzde tarihsel çevre sorunlarının çözümünde disiplinlerarası çalışmaların önem kazandığı bir ortamda ODTÜ'nün sahip olduğu arkeoloji-fen ve doğa bilim yöntemleri-teknikler üzerine bilgi birikiminin beraberce tanıtıldığı kurs ve seminerler düzenleyerek ilgili kamu kuruluşlarındaki kadroların hizmet içi eğitimini sağlamak.
+d) Çalışma alanı ile ilgili ulusal ve uluslararası konferans, kongre ve bilimsel toplantılar düzenlemek ve yayın yapmak,
+e) ODTÜ’deki Müze’nin TAÇDAM yapısı içinde bilimsel canlılığını sağlamak, Merkez tarafından yapılacak araştırmalarda daha da zenginleştirilerek, sadece sergilenen eserlerle değil fakat araştırmalarla ele geçen her türlü bilginin sakladığı, değerlendirdiği, zaman içinde kendini yenileyen seçilmiş malzemelerden oluşan bibliotek kurmak, böylece örnek bir bilgi bankasının da oluşturulmasına öncülük etmek,

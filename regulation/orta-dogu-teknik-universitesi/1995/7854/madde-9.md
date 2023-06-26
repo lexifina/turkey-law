@@ -1,0 +1,3 @@
+Danışma Kurulu ve Görevleri
+Madde 9 – Danışma Kurulu, ODTÜ Keban Projesi, daha sonra TEKDAM, TAÇDAM olarak sürdürülen Araştırma Merkezlerinde kurucu ve başkanlık görevi yapanlar ile Yönetim Kurulunca önerilen ve Rektör tarafından onaylanan Merkezin ilgi alanını kapsayan bilim dallarından arkeoloji, paleocoğrafya, koruma planlaması, restorasyon, arkeometri konusunda seçkin birer bilimadamından ve kültür vakıflarından iki üyeden oluşur.
+Danışma Kurulu üyelerinin süresi dört yıldır. Süresi biten üye yeniden görevlendirilebilir. Danışma Kurulu yılda en az bir defa toplanarak Merkezin çalışmalarını değerlendirir ve yeni çalışmalar konusunda görüş ve önerilerini Yönetim Kuruluna bildirir.
