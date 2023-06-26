@@ -1,0 +1,3 @@
+Merkez Müdürü
+Madde 5. (Değişik:RG-22/8/1998-23441)
+Merkez Müdürü Rektör tarafından ilgili öğretim üyeleri arasından üç yıllık bir süre için atanır. Süresi biten müdür yeniden görevlendirilebilir. Merkez Müdürü yıllık program ve bütçe çerçevesinde Merkez faaliyetlerini yürütmek ve Rektöre sunmak üzere önceki yıla ait faaliyet raporuyla bir sonraki yılın çalışma program taslağını hazırlamak ve sunmak üzere Yönetim Kuruluna karşı sorumludur. Müdür, Yönetim Kurulu üyeleri arasından iki kişiyi Müdür Yardımcısı olarak görevlendirebilir. Müdür görevi başında olmadığı zaman, yardımcılarından birini vekil bırakır. Göreve vekalet dört aydan fazla sürerse yeni bir Müdür görevlendirilir.
