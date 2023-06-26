@@ -1,0 +1,2 @@
+Merkez Birimleri ve Proje Grupları
+Madde 9 – Araştırma ve eğitim çalışmalarını iş bölümü çerçevesinde yürütmek üzere Başkanın önerisi ve Yönetim Kurulu kararıyla eğitimde yeni teknolojilerin kapsadığı alanlarda araştırma ve uygulama merkez birimleri ve proje grupları kurulabilir. Merkez birimleri ve proje gruplarının kuruluş ve çalışmaları Yönetim Kurulunca hazırlanan yönergeler uyarınca yürütülür.
