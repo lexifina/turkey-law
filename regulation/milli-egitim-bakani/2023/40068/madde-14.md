@@ -1,0 +1,3 @@
+Öğretmenlik ve yöneticilik görevinden alınma
+MADDE 14- (1) Hakkında yapılan adlî ve idarî soruşturma sonucu hazırlanan raporların yetkili amir ve kurullarca değerlendirilmesi sonucuna göre görev yeri değişikliği teklifi getirilen öğretmen ve yöneticiler durumlarına uygun ihtiyaç bulunan proje okulları dışındaki okul/kurumlara öğretmen olarak atanmak/yönetici olarak görevlendirilmek üzere il emrine atanır.
+(2) Hakkında yapılan adlî ve idarî soruşturma sonucu hazırlanan raporların yetkili amir ve kurullarca değerlendirilmesi sonucuna göre yöneticilik görevinden alınma teklifi getirilen proje okulu yöneticileri, durumlarına uygun ihtiyaç bulunan proje okulları dışındaki okul/kurumlara öğretmen olarak atanmak üzere il emrine atanır.
