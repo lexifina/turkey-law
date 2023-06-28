@@ -1,0 +1,27 @@
+İTHALATTA GÖZETİM UYGULANMASINA İLİŞKİN TEBLİĞ (TEBLİĞ NO: 2023/8) Kapsam MADDE 1- (1) Bu Tebliğ, aşağıda gümrük tarife istatistik pozisyonu (GTİP) ve tanımı belirtilen eşyanın (yalnız karşısında gösterilen gümrük kıymetinin altında birim kıymetleri haiz olanlarının) ithalatında ileriye yönelik olarak yürütülecek olan gözetim uygulamasına ilişkin usul ve esasları içerir.
+Sıra No | GTİP | Eşyanın Tanımı | Birim Gümrük Kıymeti (ABD Doları/Kg*)
+1 | 6911.10.00.00.11 | Beyaz olanlar | 4
+2 | 6911.10.00.00.12 | Tek renkli olanlar | 5,5
+3 | 6911.10.00.00.19 | Diğerleri | 6
+4 | 6911.90.00.00.11 | Beyaz olanlar | 8,5
+5 | 6911.90.00.00.12 | Tek renkli olanlar | 6,5
+6 | 6911.90.00.00.19 | Diğerleri | 6
+7 | 6912.00.21.00.00 | Adi topraktan olanlar | 6
+8 | 6912.00.23.00.00 | Greden olanlar | 4,5
+9 | 6912.00.25.00.11 | Beyaz olanlar | 3
+10 | 6912.00.25.00.12 | Tek renkli olanlar | 3,5
+11 | 6912.00.25.00.19 | Diğerleri | 4,5
+12 | 6912.00.29.00.00 | Diğerleri | 4,5
+13 | 6912.00.81.00.00 | Adi topraktan olanlar | 5,5
+14 | 6912.00.83.00.00 | Greden olanlar | 7,5
+15 | 6912.00.85.00.00 | Fayanstan veya ince çömlekçi eşyasından olanlar | 4,5
+16 | 6912.00.89.00.00 | Diğerleri | 5
+17 | 6913.10.00.00.10 | El yapımı çiniden olanlar | 9
+18 | 6913.10.00.00.90 | Diğerleri | 7
+19 | 6913.90.10.00.00 | Adi topraktan olanlar | 4,5
+20 | 6913.90.93.00.10 | El yapımı çiniden olanlar | 9
+21 | 6913.90.93.00.90 | Diğerleri | 4,5
+22 | 6913.90.98.00.00 | Diğerleri | 6
+23 | 6914.10.00.00.00 | Porselenden olanlar | 5
+24 | 6914.90.00.00.00 | Diğerleri | 8
+*Kg: Brüt ağırlık Gözetim uygulaması MADDE 2- (1) 1 inci maddede belirtilen eşya ancak Ticaret Bakanlığınca (İthalat Genel Müdürlüğü) düzenlenecek gözetim belgesi ile ithal edilir. Gözetim belgesi gümrük beyannamesinin tescilinde ilgili gümrük idaresince aranır. Başvuru MADDE 3- (1) Gözetim belgesi taleplerine ilişkin başvurular, Gümrükler Tek Pencere Sistemi (Sistem) kapsamında Ticaret Bakanlığı (Bakanlık) internet sayfasında (www.ticaret.gov.tr) yer alan “E-Hizmetler” ve “E-İşlemler” altındaki “İthalat Belge İşlemleri” bölümünde yer alan “E-İmza Uygulamalarına Giriş” kısmında elektronik imza ile yapılır. Ayrıca, e-Devlet (www.turkiye.gov.tr) üzerinden de başvurulabilir. (2) Elektronik imza sahibi kişilerin bu Tebliğ kapsamında firmalar adına başvuru yapmak üzere yetkilendirilmesi, 31/12/2022 tarihli ve 32060 üçüncü mükerrer sayılı Resmî Gazete’de yayımlanan İthalat İşlemlerinde Elektronik Başvuru İçin Yetkilendirme Tebliği (İthalat: 2023/21) çerçevesinde yapılır. (3) Bu Tebliğ kapsamında yapılan başvurularda birinci fıkrada belirtilen “İthalat Belge İşlemleri” sayfasında bulunan “Başvuru İşlemleri” ana başlığı altındaki “Yeni Başvuru Girişi” ekranında belge türü alanında “TPS-0964-Gözetim Belgesi Sanayi”, “Tebliğ/Karar” alanında ise bu Tebliğ seçilir. Başvuru formunun elektronik olarak doldurulup Ek-2’de yer alan formlar ve belgelerin eksiksiz bir şekilde sisteme yüklenmesinden sonra yetkili kullanıcı tarafından elektronik imza ile imzalanmak suretiyle başvuru tamamlanır. (4) Elektronik ortamda yaşanabilecek sıkıntılar nedeniyle başvuru yapılamaması halinde, başvurular fiziksel olarak da yapılabilir. Bu durumda Ek-1’de yer alan başvuru formu kullanılır ve başvuru sahibinin ticaret sicil tasdiknamesi başvuru formuna eklenir. İnceleme MADDE 4- (1) Bu Tebliğ kapsamında yapılan başvurulara ilişkin belgelerin asılları Bakanlık tarafından başvuru sahibinden istenebilir. Ayrıca sunulan bilgi ve belgelerde eksiklik veya tutarsızlık tespit edilmesi halinde ek bilgi ve belge istenebilir. Gözetim belgesi düzenlenmesi ve başvuru sahibine bildirimi MADDE 5- (1) Gözetim belgesi elektronik ortamda düzenlenir ve başvuru formunda yer alan e-posta adresine bildirimde bulunulur. Bildirimde, sistem tarafından verilen 23 haneli belge numarası ile belge tarihi yer alır ve bu bilgiler yükümlü tarafından beyannamenin 44 nolu kutusunda “Belge Referans No” ve “Belge Tarihi” alanlarında beyan edilir. Başvuru sahibine ayrıca yazılı bildirimde bulunulmaz. (2) Başvuru sahibinin gümrük idaresinde kaydının olmaması nedeniyle, gözetim belgesinin sistem kaydının onaylanamaması durumunda, başvuru formunda yer alan e-posta adresine İthalat Genel Müdürlüğünce bildirimde bulunulur. Yapılan bildirim üzerine ithalatçı tarafından beş iş günü içinde sisteme kayıt yaptırılarak İthalat Genel Müdürlüğüne bilgi verilir. Aksi takdirde, yapılmış olan başvuru geçersiz sayılır. Yaptırım MADDE 6- (1) Başvuru ya da inceleme aşamasında sunulan bilgi ve belgelerde başvuru sahibinin beyanının gerçeğe aykırı olduğunun veya sunduğu bilgi ve belgelerde tutarsızlık veya eksiklik bulunduğunun tespit edilmesi halinde söz konusu tutarsızlık veya eksiklik giderilinceye kadar gözetim belgesi düzenlenmez. Gözetim belgesine ve gözetim belgesinin kullanımına ait bilgiler MADDE 7- (1) Gözetim belgelerinin geçerlilik süresi altı aydır. (2) Gözetim belgesi, 27/10/1999 tarihli ve 4458 sayılı Gümrük Kanununun eşyanın gümrük kıymetine ilişkin hükümlerinin uygulanmasını engellemez. 1 inci maddede belirtilen kıymet, 4458 sayılı Kanunun eşyanın gümrük kıymetine ilişkin hükümlerinin uygulanmasına esas teşkil etmez. Yürürlükten kaldırılan tebliğ MADDE 8- (1) 16/1/2004 tarihli ve 25348 sayılı Resmî Gazete’de yayımlanan İthalatta Gözetim ve Korunma Önlemlerine İlişkin Tebliğ (Tebliğ No: 2004/2) yürürlükten kaldırılmıştır. Yürürlük MADDE 9- (1) Bu Tebliğ yayımı tarihini takip eden otuzuncu gün yürürlüğe girer. Yürütme MADDE 10- (1) Bu Tebliğ hükümlerini Ticaret Bakanı yürütür. Ekleri için tıklayınız.
