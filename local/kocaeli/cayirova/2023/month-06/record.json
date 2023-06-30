@@ -1,0 +1,28 @@
+{
+  "number": "month-06",
+  "year": 2023,
+  "month": 6,
+  "title": "2023 Haziran Ayı Meclis Toplantısı Karar Özeti",
+  "decision_date": null,
+  "index_date": "2023-06-30",
+  "date_precision": "month",
+  "period": "Haziran 2023",
+  "source": "https://www.cayirova.bel.tr/meclis-karar-ozetleri",
+  "official_page": "https://www.cayirova.bel.tr/meclis-karar-ozetleri",
+  "official_document": "https://www.cayirova.bel.tr/uploads/link-point/pdf-files/meclis/2023/Haziran%20Ay%C4%B1%20Karar%20%C3%96zeti.pdf",
+  "source_sha256": "40240dfdfb13a4d3ff9becba8ea87d084d52f4a1c1641cb967c846435435704b",
+  "issuer": "Çayırova Belediye Meclisi",
+  "history_type": "metadata",
+  "text_status": "metadata-only: listing fields as published; the decisions are in the linked official document(s) or page, not transcribed",
+  "in_force": "2023-06-30",
+  "in_force_basis": "The official listing gives only the month of this official file (Haziran 2023); date set to the last day of that month (turkey-law date convention for month-only sources); exact adoption dates are in the linked official document; legal commencement not asserted",
+  "missing": [
+    "decision numbers, dates and subjects",
+    "complete official decision text",
+    "official annexes"
+  ],
+  "law_text_complete": false,
+  "privacy_withheld": false,
+  "listing_label": "2023 Haziran Ayı Meclis Toplantısı Karar Özeti",
+  "record_scope": "one official file of council decisions (meeting or month)"
+}
