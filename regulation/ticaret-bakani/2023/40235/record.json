@@ -1,0 +1,34 @@
+{
+  "source_id": "7.5.40235",
+  "kind": "regulation",
+  "register_kind": "Kurum ve Kuruluş Yönetmelikleri",
+  "title": "TÜRKİYE CUMHURİYETİ İLE ÖZBEKİSTAN CUMHURİYETİ ARASINDAKİ TERCİHLİ TİCARET ANLAŞMASI ÇERÇEVESİNDEKİ TİCARETTE EŞYANIN TERCİHLİ MENŞEİNİN TESPİTİ HAKKINDA YÖNETMELİK",
+  "number": "40235",
+  "issuer": "Ticaret Bakanı",
+  "issuer_slug": "ticaret-bakani",
+  "path": "regulation/ticaret-bakani/2023/40235",
+  "source": "https://www.mevzuat.gov.tr/anasayfa/MevzuatFihristDetayIframe?MevzuatTur=7&MevzuatNo=40235&MevzuatTertip=5",
+  "source_sha256": "51eac978691a0f6f0afb5bcf38dc13e82b0bc1a327dd38686e85f3e74761f6ce",
+  "source_bytes": 168427,
+  "published": "2023-06-24",
+  "gazette": "322231",
+  "in_force": "2023-07-01",
+  "in_force_basis": "own commencement article: \"Bu Yönetmelik 1/7/2023 tarihinde yürürlüğe girer\"",
+  "commencement_clauses": [
+    "Bu Yönetmelik 1/7/2023 tarihinde yürürlüğe girer"
+  ],
+  "history": "current-text",
+  "label": "oldest version available",
+  "checked_on": "2026-11-15",
+  "word_count": 5412,
+  "text_status": "current-consolidated",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  },
+  "source_links": [
+    "7.5.40235-Ek.docx"
+  ],
+  "completeness": "html-text-complete; linked annexes not fetched"
+}

@@ -1,0 +1,3 @@
+Farklılıklar ve biçimsel hatalar
+MADDE 27- (1) EUR.1 Dolaşım Belgesi üzerindeki ibareler ile ürünlerin ithalat işlemlerini yerine getirmek amacıyla gümrük idarelerine ibraz edilen belgeler üzerindeki ibareler arasında önemsiz farklılıklar bulunduğunun fark edilmesi, bu belgenin gümrüğe sunulan ürünlere karşılık geldiğinin kesin olarak ortaya konması kaydıyla, menşe ispat belgesini kendiliğinden hükümsüz kılmaz.
+(2) Bir EUR.1 Dolaşım Belgesi üzerindeki yazım hatası gibi bariz biçimsel hatalar, söz konusu belge üzerindeki ibarelerin doğruluğu hususunda şüpheye yol açmadığı müddetçe, bahse konu belgenin reddedilmesini gerektirmez.

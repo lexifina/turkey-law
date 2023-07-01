@@ -1,0 +1,3 @@
+Yeterli işçilik veya işlem görmüş ürünler
+MADDE 8- (1) 5 inci maddenin birinci fıkrasının (b) bendine göre tamamen elde edilmemiş ürünlerin imalatında kullanılan menşeli olmayan girdiler, bu ürünlerin kıymetinin 841370, 850213, 940690 Armonize Sistem kodlarında sınıflandırılan eşyanın fabrika çıkış fiyatının %20’sini, Anlaşmanın Ek I-A’sı ve Ek I-B’sinde listelenen diğer tarife satırlarında yer alan eşya için %40’ını aşmaması kaydıyla, yeterli derecede işçilik veya işlem görmüş olarak kabul edilir.
+(2) Bu madde hükümleri, imalat sırasında gerçekleştirilen işçilik veya işlemin 9 uncu madde hükümlerine göre yetersiz sayılmadığı hallerde uygulanır.

@@ -1,0 +1,2 @@
+Müfrez menşe ispat belgesi
+MADDE 23- (1) Menşeli ürünler, bir taraf ülke gümrük idaresinin kontrolü altında iken, söz konusu ürünlerin tamamı veya bir bölümünü bir taraf ülke içinde başka bir yere göndermek amacıyla, asıl nüsha EUR.1 Dolaşım Belgesinin bir veya daha fazla EUR.1 Dolaşım Belgesi ile değiştirilmesi mümkündür. Müfrez EUR.1 Dolaşım Belgesi/Belgeleri, ürünleri kontrol altında bulunduran belirlenmiş/ilgili gümrük idaresi tarafından düzenlenir.
