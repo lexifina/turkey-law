@@ -1,0 +1,4 @@
+Dersten çekilme
+MADDE 23 – (1) Dersten çekilme 35 inci maddede belirtilen kurallara göre yapılır. Öğrenciler, dersten çekilmek için onay almak üzere kendi akademik biriminin bölüm veya program başkanlığına yazılı olarak başvururlar. Öğrencilerin dilekçeleri ilgili birimlerce sonuçlandırılır ve beş iş günü içerisinde ilgili dekanlık/müdürlük tarafından Öğrenci İşleri Daire Başkanlığına iletilir.
+(2) Bir dersten çekilen öğrencinin not belgesine, bu dersten çekilme anlamına gelen W harfi işlenir. Bu dersin kredisi, not ortalama hesaplamalarına katılmaz.
+(3) Bir öğrenci, takip etmekte olduğu her programdan her yarıyıl/yıl bir dersten çekilebilir. Dersten çekilme sonucunda bir yarıyıl/yılda öğrencinin kayıtlı olduğu ders sayısı ikinin altına düşemez. Öğrenci, öğrenim süresince ön lisans programlarında en çok 4, lisans programlarında en çok 8 dersten çekilebilir.

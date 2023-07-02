@@ -1,0 +1,10 @@
+Eğitim-öğretim dili ve yabancı dil yeterliği ile ilgili esaslar
+MADDE 24 – (1) Üniversitede başka bir dilde eğitim-öğretim yapılmasında zorunluluk olan programlar veya dersler, Senatonun önerisi üzerine Mütevelli Heyet tarafından belirlenir.
+(2) Öğretim dili İngilizce olan ön lisans veya lisans programlarına kabul edilen öğrencilerin İngilizce dil yeterlikleri, programın yabancı dil okutmanları tarafından yapılan İngilizce yeterlik sınavı ile tespit edilir.
+(3) Orta öğretimini, anadili veya resmî dili İngilizce olan bir ülkede İngilizce ile öğretim yapan kurumlarda tamamlamış olanlarla, uluslararası nitelikteki TOEFL veya ÖSYM tarafından eşdeğerlikleri kabul edilen ulusal ve uluslararası yabancı dil sınavlarına katılan öğrencilerin İngilizce yeterlik düzeylerinde aranan şartlar ile Yabancı Dil Düzey Belirleme ve Yeterlik Sınavına girip girmeyecekleri Senato tarafından belirlenir.
+(4) Öğretim dili Türkçe olan ön lisans veya lisans programlarına kabul edilen uluslararası öğrencilerin Türkçe dil yeterlikleri, Senato tarafından belirlenen kriterlere göre yapılan sınav ile tespit edilir.
+(5) İngilizce veya Türkçe yeterlik sınavında başarılı olamayanlar hazırlık sınıfına alınırlar. Öğrencilerin hangi düzeyde eğitim görecekleri, ilgili birim tarafından gerçekleştirilen seviye tespit sınavıyla belirlenir. Diğer üniversitelerin ilgili merkezlerinden alınan yeterlik belgeleri de kabul edilir.
+(6) İlk akademik yıl sonunda yeterlik sınavında başarısız olan öğrenciler dil eğitiminde ikinci yıl tekrar hazırlık sınıfına alınırlar.
+(7) Hazırlık sınıfında iki yılın sonunda başarısız olan öğrencilerin kayıtlı olduğu programdan ilişiği kesilir.
+(8) Üniversite hazırlık programlarından alınan yeterlik belgesinin geçerlik süresi iki yıldır. Üniversitedeki öğretimlerine devam etmeden bu süreyi aşan ve tekrar öğrenimlerine devam etmek isteyenlerden, dil yeterlik belgesi istenir.
+(9) İngilizce’den ve Türkçe’den başka bir dilde öğretim yapan programlarda dil yeterliğinin istenip istenmeyeceğine Senato tarafından karar verilir.

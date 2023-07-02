@@ -1,0 +1,3 @@
+Tebligat
+MADDE 48 – (1) Öğrenciye yapılacak her türlü yazılı tebligat, öğrencinin Üniversiteye ilk kayıt sırasında bildirdiği ya da daha sonra güncellediği posta adresine yapılmak, öğrenci adına Üniversite tarafından açılan e-posta adresine gönderilmek veya ilgili fakülte/müdürlük tarafından ilan edilmek suretiyle tamamlanmış sayılır. Öğrenciler her kayıt yenileme döneminde iletişim adreslerini de güncellemek zorundadırlar.
+(2) Öğrenci, kullanıcı adıyla tanımlı e-posta adresini aktif durumda tutmak, sürekli e-postalarını takip etmek, Üniversiteye kayıt sırasında bildirdiği adresi değiştirdiği takdirde yeni adresini 15 gün içerisinde güncellemekle yükümlüdür.

@@ -1,0 +1,5 @@
+Kayıt sildirme
+MADDE 21 – (1) Kayıt sildirmek isteyen öğrenciler veya mevzuata uygun yetki verdikleri kişiler, Üniversiteden kayıt sildirmek üzere yazılı olarak Öğrenci İşleri Daire Başkanlığına başvururlar. Öğrencinin kayıt sildirme müracaatı, danışmanının ve bölüm başkanının görüşü alındıktan sonra, ilgili birimin yönetim kurulunca karara bağlanır.
+(2) Kayıt sildirmek isteyen öğrenciler, kayıt sildirme müracaatının yapıldığı yarıyıl/yıldan önceki tüm mali sorumluluklarını yerine getirmek zorundadırlar.
+(3) Ders kaydı yaptırmış olan öğrenciler, dersten çekilme süresinden sonra yapılan kayıt sildirme müracaatlarında, devam etmekte oldukları yarıyıl/yıl ücretinin tamamını ödemek zorundadırlar. Ders kaydı yaptırmamış veya kayıt dondurmuş öğrenciler, 20 nci madde hükümlerine göre ücret öderler.
+(4) Kayıt ücretinin yatırıldığı hafta sonrasında yatay geçiş, dikey geçiş gibi her ne sebeple olursa olsun ekle/bırak haftasının sonuna kadar kayıt sildirenler dönem ücretinin yüzde yirmi beşini ödemek zorundadır. Ekle/bırak sonrası kayıt sildirmelerde dönem ücretinin tamamı ödenir.

@@ -1,0 +1,2 @@
+Kopya ve intihal
+MADDE 34 – (1) Bir öğrencinin sınavlarda kopya çektiği, kopyaya teşebbüs ettiği veya (Değişik ibare:RG-2/7/2023-32236)(1) 2547 sayılı Kanunda yer alan benzer ihlallerde bulunduğu yönünde şüphe oluşursa, hakkında disiplin soruşturması açılır. Soruşturma süresi boyunca söz konusu etkinlik değerlendirilmez. Suçlu bulunan öğrenciye, aldığı disiplin cezasının yanı sıra söz konusu etkinlik için sıfır notu verilir. Disiplin soruşturması sonucu suçsuz bulunan öğrencinin sınavı değerlendirilir.

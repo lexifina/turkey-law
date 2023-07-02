@@ -1,0 +1,5 @@
+Normal öğrenim süresi ve azami öğrenim süresi
+MADDE 26 – (1) Üniversitede normal öğrenim süresi; ön lisans programlarında iki, lisans programlarında dört akademik yıldır. Tam zamanlı öğrenci statüsünde azami öğrenim süreleri; ön lisans programlarında dört (sekiz yarıyıl), dört yıllık lisans programlarında yedi (on dört yarıyıl), akademik yıldır. Yabancı dil hazırlık programlarında geçirilen süre, bu sürelere dâhil değildir. Hazırlık eğitim süresi azami iki yıldır. Yukarıdaki öğrenim süreleri tam zamanlı öğrenciler için geçerlidir.
+(2) Üniversiteye yatay veya dikey geçiş yoluyla kayıt yaptıran öğrencilerin önceki programlarında geçirdikleri süre öğrenim sürelerine dâhil edilir.
+(3) Karşılıklı anlaşma, Erasmus, Farabi ve benzer değişim programlarıyla başka bir kuruma gönderilen öğrencilerin geçirdikleri süreler, azami öğrenim süresinden sayılır ve ders veya AKTS kredileri, bağlı bulunduğu birimin yönetim kurulu tarafından değerlendirilerek uygunsa aynen transfer edilebilir.
+(4) Kayıtlı olduğu eğitim programlarından azami süresi sonunda mezun olamayanlara 44 üncü madde hükümleri uygulanır.

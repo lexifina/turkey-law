@@ -1,0 +1,3 @@
+Çift anadal lisans veya yandal programı
+MADDE 10 – (1) Bir lisans programında başarılı olan öğrencilere ikinci bir lisans programına da devam hakkı verilebilir.
+(2) Yurt içi ve yurt dışı yükseköğretim kurumlarından Üniversitenin aynı düzeydeki eşdeğer diploma programlarına veya Üniversitenin aynı düzeydeki diploma programları arasında yapılacak yatay geçiş işlemleri ve çift anadal-yandal programları ile ilgili hususlar 24/4/2010 tarihli ve 27561 sayılı Resmî Gazete’de yayımlanan Yükseköğretim Kurumlarında Önlisans ve Lisans Düzeyindeki Programlar Arasında Geçiş, Çift Anadal, Yan Dal ile Kurumlar Arası Kredi Transferi Yapılması Esaslarına İlişkin Yönetmelik hükümleri ile Senato tarafından belirlenen usul ve esaslara göre yapılır.
