@@ -1,0 +1,2 @@
+Uygulamaya ilişkin önlemler
+MADDE 8- (1) Bu Tebliğ kapsamında yapılan beyanın doğruluğuyla ve ithal eşyayla ilgili incelemeleri yapmaya veya yaptırmaya Bakanlık yetkilidir. Başvuru ya da inceleme aşamasında sunulan bilgi ve belgelerde tutarsızlık veya eksiklik olduğu durumlarda söz konusu tutarsızlık veya eksiklik başvuru sahibi tarafından giderilinceye kadar talep karşılanmaz. Bakanlık, gerekli görmesi halinde, elektronik ortamda sunulan belgelerin asılları ile ilave bilgi ve belge isteyebilir.

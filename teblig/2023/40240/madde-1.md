@@ -1,0 +1,2 @@
+Amaç ve kapsam
+MADDE 1- (1) Bu Tebliğin amacı, 11/5/2023 tarihli ve 32187 sayılı Resmî Gazete’de yayımlanan İthalatta Korunma Önlemlerine İlişkin Tebliğ (Tebliğ No: 2023/3) çerçevesinde 3920.20.21.00.19 gümrük tarife istatistik pozisyonunda yer alan eşyanın İran İslam Cumhuriyeti (İran) menşeli olanlarının ithalatında uygulanan miktar kısıtlamasının (kota) dağıtımı, yönetimi ile başvuru ve kullanım usul ve esaslarını düzenlemektir.
