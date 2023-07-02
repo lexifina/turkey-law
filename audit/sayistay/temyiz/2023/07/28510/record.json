@@ -1,0 +1,16 @@
+{
+  "kind": "decision",
+  "issuer": "Sayıştay Temyiz Kurulu",
+  "number": "55637",
+  "decision_date": "2023-07-02",
+  "source_id": 28510,
+  "chamber": "5",
+  "file_number": "51304",
+  "public_body_type": "Diğer",
+  "account_year": "2012",
+  "subject": "Çeşitli Konuları İlgilendiren Kararlar",
+  "source": "https://www.sayistay.gov.tr/KararlarTemyiz/Detay/28510/",
+  "source_sha256": "06c5732094aa3c372c8645005e376764c6553cb3404008bbd607c3bc93c02eb0",
+  "text_status": "as-enacted",
+  "text_file": "metin.md"
+}
