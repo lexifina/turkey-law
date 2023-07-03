@@ -1,0 +1,22 @@
+{
+  "kind": "norm",
+  "issuer": "Gelir İdaresi Başkanlığı",
+  "document_type": "ozelge",
+  "number": "38418978-120[Mük.80-2023/1]-267739",
+  "source_id": 37702,
+  "date": "2023-07-03",
+  "title": "İzale-i Şuyu Davası İle Satılan Taşınmazda Değer Artış Kazancı Yönünden Hangi Tarihin Esas Alınacağı",
+  "source": "https://gib.gov.tr/mevzuat/kanun/433/ozelge/37702",
+  "related_law": "193 sayılı GELİR VERGİSİ KANUNU",
+  "source_api": "https://gib.gov.tr/api/gibportal/mevzuat/ozelge/list",
+  "source_listing": "evidence/list/2026-11-16/ozelge-p008.json",
+  "source_listing_sha256": "292c126217cc32c3ccfa57495ce433f89ef8db5e75fa1946d5819a76f81aff4d",
+  "source_sha256": "4c87f5832e3d31a391550b8874eccb7927cb0efbed88cc04564e45fd44cbedaa",
+  "text_status": "as-enacted",
+  "text_file": "metin.md",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  }
+}
