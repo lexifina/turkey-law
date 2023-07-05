@@ -1,0 +1,16 @@
+{
+  "kind": "decision",
+  "issuer": "Sayıştay Temyiz Kurulu",
+  "number": "55598",
+  "decision_date": "2023-07-05",
+  "source_id": 27625,
+  "chamber": "8",
+  "file_number": "49725",
+  "public_body_type": "Yüksek Öğretim Kurumları",
+  "account_year": "2018",
+  "subject": "Çeşitli Konuları İlgilendiren Kararlar",
+  "source": "https://www.sayistay.gov.tr/KararlarTemyiz/Detay/27625/",
+  "source_sha256": "daca01cc290528fc81b52c48d8c4d2f66eb9b968a6a61e8cdf4e3ac89371f857",
+  "text_status": "as-enacted",
+  "text_file": "metin.md"
+}
