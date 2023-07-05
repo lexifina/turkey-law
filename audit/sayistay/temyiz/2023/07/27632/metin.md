@@ -1,0 +1,5 @@
+Yükseköğretim kurumlarında özel yetenek sınavlarında görevli akademik ve idari personele spor giyim malzemesi alınması;
+
+237 sayılı Ek İlamın 2. maddesiyle verilen … TL’nin tazminine dair hükümde Gerçekleştirme Görevlisi sıfatı ile iştiraki bulunan …’ın itiraz başvurusu üzerine düzenlenen 52954 sayılı dosya, 05.07.2023 tarihli ve 55600 tutanak sayılı Temyiz Kurulu Kararı (3. maddesi) ile; yapılan ödemede mevzuata aykırı bir husus bulunmadığı ve kamu zararı oluşmadığına ilişkin olarak belirtilen hususların tekrar değerlendirilmesini teminen 6085 sayılı Sayıştay Kanununun 55 inci maddesinin 7 nci fıkrası uyarınca tazmin hükmünün bozulması suretiyle Dairesine gönderildiğinden; bir diğer sorumluyu [(Yönetim Kurulu Kararı Üzerinde İmzası Bulunan) Diğer Sorumlu sıfatıyla temyiz talep eden Yönetim Kurulu Üyesi …’yi]  ilgilendiren ve aynı mahiyette olan 52962 sayılı işbu dosyanın da sözü edilen (52954 sayılı) dosya ile BİRLEŞTİRİLEREK gereği yapılmak üzere hükmü veren DAİREYE GÖNDERİLMESİNE,  oy birliğiyle,
+
+Karar verildiği 05.07.2023 tarih ve 55604 sayılı tutanakta yazılı olmakla işbu ilam tanzim kılındı.
