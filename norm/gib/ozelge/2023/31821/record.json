@@ -1,0 +1,22 @@
+{
+  "kind": "norm",
+  "issuer": "Gelir İdaresi Başkanlığı",
+  "document_type": "ozelge",
+  "number": "11355271-125.05[KV/5-2021/12]-36305",
+  "source_id": 31821,
+  "date": "2023-07-05",
+  "title": "Şirket aktifinde kayıtlı arsanan satılması durumunda K.V., K.D.V. hükümleri uyarınca değerlendirilmesi",
+  "source": "https://gib.gov.tr/mevzuat/kanun/435/ozelge/31821",
+  "related_law": "5520 sayılı KURUMLAR VERGİSİ KANUNU",
+  "source_api": "https://gib.gov.tr/api/gibportal/mevzuat/ozelge/list",
+  "source_listing": "evidence/list/2026-11-16/ozelge-p005.json",
+  "source_listing_sha256": "bc82c6c09764a8d83c3906db12d34a67d7f592d6e631568c06d506072b5840cf",
+  "source_sha256": "98d549b9525acd2597b3d5fe0efb71014420e290cb6b3ce043cd317431032e69",
+  "text_status": "as-enacted",
+  "text_file": "metin.md",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  }
+}
