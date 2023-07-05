@@ -1,0 +1,51 @@
+{
+  "record_type": "law-metadata",
+  "document_type": "kanun",
+  "number": "7455",
+  "year": 2023,
+  "title": "Türkiye Cumhuriyeti Hükümeti ile Kuzey Kıbrıs Türk Cumhuriyeti Hükümeti Arasında Ulusal Sürücü Belgelerinin/Sürüş Ehliyetlerinin Karşılıklı Olarak Tanınması ve Değişimi Anlaşmasında Değişiklik Yapılmasına Dair Anlaşmanın Onay-lanmasının Uygun Bulunduğuna Dair",
+  "adopted": "2023-07-05",
+  "date_basis": "last-sitting",
+  "committee_reports": [],
+  "index_entries": [
+    {
+      "assembly": "TBMM",
+      "term": 28,
+      "kayit_no": 928892,
+      "title": "Türkiye Cumhuriyeti Hükümeti ile Kuzey Kıbrıs Türk Cumhuriyeti Hükümeti Arasında Ulusal Sürücü Belgelerinin/Sürüş Ehliyetlerinin Karşılıklı Olarak Tanınması ve Değişimi Anlaşmasında Değişiklik Yapılmasına Dair Anlaşmanın Onay-lanmasının Uygun Bulunduğuna Dair",
+      "adopted_as_published": null,
+      "official_text_pdf": null,
+      "committee_reports": [],
+      "sittings": [
+        {
+          "cilt": 2,
+          "sitting": 11,
+          "sitting_date": "2023-07-05",
+          "minutes_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/TBMM/d28/c002/tbmm28002011.pdf",
+          "old_script_pdf": null,
+          "volume_index_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/TBMM/d28/c002/tbmm28002fih.pdf",
+          "pages": [
+            "524:532",
+            "534:545",
+            "550",
+            "551:561",
+            "561",
+            "564:577"
+          ]
+        }
+      ],
+      "query": "https://www5.tbmm.gov.tr/develop/owa/td_v2.tutanak_hazirla?v_meclis=1&v_donem=28&v_yasama_yili=&v_cilt=&v_birlesim=&v_sayfa=&v_anabaslik=KANUNLAR&v_altbaslik=&v_mv=&v_sb=&v_ozet=&v_kelime=&v_bastarih=&v_bittarih=",
+      "page": "https://www5.tbmm.gov.tr/develop/owa/td_v2.tutanak_hazirla?v_meclis=1&v_donem=28&v_yasama_yili=&v_cilt=&v_birlesim=&v_sayfa=&v_anabaslik=KANUNLAR&v_altbaslik=&v_mv=&v_sb=&v_ozet=&v_kelime=&v_bastarih=&v_bittarih=",
+      "page_sha256": "b388f64b19bd797aba6d194c54745380b7a270884d58a898fa071fe0d5af3a11"
+    }
+  ],
+  "source": "https://www5.tbmm.gov.tr/develop/owa/td_v2.tutanak_hazirla?v_meclis=1&v_donem=28&v_yasama_yili=&v_cilt=&v_birlesim=&v_sayfa=&v_anabaslik=KANUNLAR&v_altbaslik=&v_mv=&v_sb=&v_ozet=&v_kelime=&v_bastarih=&v_bittarih=",
+  "source_sha256": "b388f64b19bd797aba6d194c54745380b7a270884d58a898fa071fe0d5af3a11",
+  "issuer": "TBMM",
+  "in_force": "2023-07-05",
+  "in_force_basis": "The index gives no Kabul tarihi: date of the last plenary sitting it cites for this kanun (2023-07-05); commencement not asserted",
+  "history_type": "metadata",
+  "text_status": "metadata-only: official index fields; the text is in the linked official PDF (Kanunlar Dergisi), not transcribed",
+  "law_text_complete": false,
+  "privacy_withheld": false
+}
