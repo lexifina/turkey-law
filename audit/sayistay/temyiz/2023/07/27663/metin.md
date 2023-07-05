@@ -1,0 +1,5 @@
+Yönetici payını zaten almış olan genel sekreter vekiline mevzuata uygun olmayan şekilde görevlendirildiği hastane üzerinden koordinatörlük ücreti adı altında döner sermaye ek ödemesi yapılması;
+
+119 sayılı İlamın 4. maddesiyle verilen … TL’nin tazminine dair hükümde Üst Yönetici sıfatı ile iştiraki bulunan …’ın itiraz başvurusu üzerine düzenlenen 53167 sayılı dosya, 05.07.2023 tarihli ve 55624 tutanak sayılı Temyiz Kurulu Kararı (2. maddesi) ile; sadece sorumluluk yönünden Performans Dağıtım Komitesi ve Üniversite Yönetim Kurulu üyelerinin de sorumluluğa dâhil edilmesini teminen 6085 sayılı Sayıştay Kanununun 55 inci maddesinin 7 nci fıkrası uyarınca tazmin hükmünün bozulması suretiyle Dairesine gönderildiğinden; bir diğer sorumluyu [(Ödeme Emri Belgesi Üzerinde İmzası Bulunan) Harcama Yetkilisi sıfatıyla temyiz talep eden Başhekim …’ı]  ilgilendiren ve aynı mahiyette olan 53176 sayılı işbu dosyanın da sözü edilen (53167 sayılı) dosya ile BİRLEŞTİRİLEREK gereği yapılmak üzere hükmü veren DAİREYE GÖNDERİLMESİNE,  oy birliğiyle,
+
+Karar verildiği 05.07.2023 tarih ve 55632 sayılı tutanakta yazılı olmakla işbu ilam tanzim kılındı.
