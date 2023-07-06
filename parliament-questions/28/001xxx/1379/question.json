@@ -1,0 +1,21 @@
+{
+  "record_type": "parliament-written-question",
+  "term": 28,
+  "legislative_year": 1,
+  "esas_no": "7/1379",
+  "submitted": "2023-07-06",
+  "submitted_as": "Başkanlığa geliş tarihi",
+  "mp": "Melih MERİÇ",
+  "province": "Gaziantep",
+  "summary": "6 Şubat 2023 tarihinde Kahramanmaraş'ta meydana gelen depremler neticesinde Gaziantep'te hasar gören yapılara ilişkin",
+  "status": "Süresi Geçtikten Sonra Cevaplandı",
+  "status_as_of": "2026-11-16",
+  "official_record": "https://www.tbmm.gov.tr/Denetim/Yazili-Soru-Onergesi-Detay/c2b7fa59-d14d-4f4b-a962-01892b8ec963",
+  "source": "https://tbmm.gov.tr/Denetim/YaziliSoruOnergesiTable",
+  "source_form": "https://tbmm.gov.tr/Denetim/Yazili-Soru-Onergeleri",
+  "source_sha256": "3a9c46c89e368977efcb8a25d18f4a5d570670fe945a0ae83e310fcce1f15306",
+  "in_force": "2023-07-06",
+  "in_force_basis": "Date the question reached the Speaker (Başkanlığa geliş tarihi) in the official TBMM written-question record; parliamentary oversight record, not law",
+  "history_type": "metadata",
+  "text_status": "metadata-only: question text, addressee and answers are in the linked official record (PDFs on cdn.tbmm.gov.tr); not transcribed here"
+}
