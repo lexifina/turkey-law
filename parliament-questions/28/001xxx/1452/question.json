@@ -1,0 +1,21 @@
+{
+  "record_type": "parliament-written-question",
+  "term": 28,
+  "legislative_year": 1,
+  "esas_no": "7/1452",
+  "submitted": "2023-07-06",
+  "submitted_as": "Başkanlığa geliş tarihi",
+  "mp": "Müzeyyen ŞEVKİN",
+  "province": "Adana",
+  "summary": "2015 yılından bu yana tüberküloz teşhisi konulan kişilere ilişkin",
+  "status": "Süresi Geçtikten Sonra Cevaplandı",
+  "status_as_of": "2026-11-16",
+  "official_record": "https://www.tbmm.gov.tr/Denetim/Yazili-Soru-Onergesi-Detay/5cf1040c-cfb1-4e66-b5c6-01892f687675",
+  "source": "https://tbmm.gov.tr/Denetim/YaziliSoruOnergesiTable",
+  "source_form": "https://tbmm.gov.tr/Denetim/Yazili-Soru-Onergeleri",
+  "source_sha256": "80d62495156a521fe5117933bbed6fef8a27afc59ea28f8e259331fc5723a50e",
+  "in_force": "2023-07-06",
+  "in_force_basis": "Date the question reached the Speaker (Başkanlığa geliş tarihi) in the official TBMM written-question record; parliamentary oversight record, not law",
+  "history_type": "metadata",
+  "text_status": "metadata-only: question text, addressee and answers are in the linked official record (PDFs on cdn.tbmm.gov.tr); not transcribed here"
+}
