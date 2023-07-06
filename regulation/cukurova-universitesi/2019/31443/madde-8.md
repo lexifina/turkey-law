@@ -1,0 +1,2 @@
+Denetim
+MADDE 8 – (1) Öğretim elemanları, görev uzatma başvurularında görevlendirme süresince yaptığı çalışmaları içerir ayrıntılı bir raporu ve görev uzatma süresince yapacağı çalışmaları içeren ayrıntılı bir çalışma planını; görev süreleri sona erdiğinde ise yürüttükleri çalışmaya ilişkin, yapılan sözleşme çerçevesinde hazırladıkları raporu Yönetici Şirkete sunar, Yönetici Şirket Yönetim Kurulu sunulan çalışma planları ve raporları, başlangıçtaki proje amaçlarını da dikkate alıp değerlendirme yapar, değerlendirme sonucu Rektörlük oluruna sunulur.

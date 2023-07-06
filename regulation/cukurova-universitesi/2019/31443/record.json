@@ -1,0 +1,54 @@
+{
+  "checked_on": "2026-11-14",
+  "commencement_clauses": [
+    "MADDE 11 – (1) Bu Yönetmelik yayımı tarihinde yürürlüğe girer."
+  ],
+  "date_evidence": [
+    [
+      "2019-04-21",
+      "21.04.2019",
+      "original gazette publication date in official listing"
+    ],
+    [
+      "2023-07-06",
+      "RG-6/7/2023-32240",
+      "latest source-printed gazette amendment date for current consolidated text"
+    ],
+    [
+      "2023-07-06",
+      "RG-6/7/2023-32240",
+      "latest source-printed gazette amendment date for current consolidated text"
+    ],
+    [
+      "2023-07-06",
+      "6/7/2023",
+      "latest gazette date in source amendment table"
+    ]
+  ],
+  "date_quote": "RG-6/7/2023-32240",
+  "first_law": null,
+  "gazette": "30752",
+  "history": "current-text",
+  "images": {
+    "deferred": 0,
+    "omitted": 0,
+    "referenced": 0,
+    "source": 0
+  },
+  "in_force": "2023-07-06",
+  "in_force_basis": "latest source-printed gazette amendment date for current consolidated text",
+  "issuer": "Çukurova Üniversitesi",
+  "issuer_slug": "cukurova-universitesi",
+  "kind": "regulation",
+  "label": "oldest version available",
+  "path": "regulation/cukurova-universitesi/2019/31443",
+  "published": "2019-04-21",
+  "source": "https://www.mevzuat.gov.tr/anasayfa/MevzuatFihristDetayIframe?MevzuatTur=8&MevzuatNo=31443&MevzuatTertip=5",
+  "source_bytes": 28904,
+  "source_id": "8.5.31443",
+  "source_sha256": "2a9b595f00633cd286c69465f77f497ae8f105f0127c7e94edf0447bca58ec6d",
+  "text_status": "current-consolidated",
+  "title": "ÇUKUROVA ÜNİVERSİTESİ ÖĞRETİM ELEMANLARININ ÇUKUROVA TEKNOLOJİ GELİŞTİRME BÖLGESİNDE GÖREVLENDİRİLME VE ŞİRKET KURABİLMELERİNE DAİR YÖNETMELİK",
+  "university_id": 187,
+  "word_count": 1277
+}
