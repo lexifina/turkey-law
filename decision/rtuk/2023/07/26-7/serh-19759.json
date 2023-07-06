@@ -1,0 +1,15 @@
+{
+  "issuer": "Radyo ve Televizyon Üst Kurulu (RTÜK)",
+  "record_type": "Şerh (karşı oy yazısı)",
+  "meeting": "2023/26",
+  "meeting_date": "2023-07-06",
+  "meeting_date_as_published": "6.7.2023",
+  "decision_no": "7",
+  "source_id": 19759,
+  "title": "RTÜK kararı 2023/26-7 karşı oy yazısı",
+  "source": "https://www.rtuk.gov.tr/UstKurulKarar/Detay/19759",
+  "source_sha256": "ca16241823432c1906090a47db5e99ea320f2e944ac03bc8b8497e0a85291850",
+  "text_status": "metadata-only",
+  "metadata_only_reason": "possible private person name(s) in the official text (99 match(es)); full text withheld, official link only",
+  "law_text_complete": false
+}
