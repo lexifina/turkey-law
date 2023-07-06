@@ -1,0 +1,22 @@
+{
+  "number": "97",
+  "number_as_published": "2023/97",
+  "year": 2023,
+  "title": "Sokak iptali ve Aks düzenlemesi",
+  "decision_date": "2023-07-06",
+  "source": "https://eyupsultan.bel.tr/tr/main/pages/2023-temmuz-ayi-meclis-kararlari/2432",
+  "official_document": "https://eyupsultan.bel.tr/tr/main/pages/2023-97/2438",
+  "source_sha256": "9ff969ec10242207a55174c3467eff6598f0b0785451c5f6944b24861ea40889",
+  "issuer": "Eyüpsultan Belediye Meclisi",
+  "history_type": "metadata",
+  "text_status": "metadata-only: listing fields as published; complete decision text is in the linked official document, not transcribed",
+  "in_force": "2023-07-06",
+  "in_force_basis": "Decision date as printed in the official council listing: 06.07.2023 (meeting date at the start of the decision page); adoption date of the council decision; legal commencement not asserted",
+  "missing": [
+    "complete official decision text",
+    "official annexes"
+  ],
+  "law_text_complete": false,
+  "privacy_withheld": false,
+  "decision_page_sha256": "37d25a94d50818e93442f3abd5306afa9fbd69fd635c74e20a8e3890c40fb845"
+}
