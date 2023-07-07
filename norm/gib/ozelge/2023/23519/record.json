@@ -1,0 +1,22 @@
+{
+  "kind": "norm",
+  "issuer": "Gelir İdaresi Başkanlığı",
+  "document_type": "ozelge",
+  "number": "62030549-120[94-2021/516]-718872",
+  "source_id": 23519,
+  "date": "2023-07-07",
+  "title": "Serbest meslek erbabı kişilere icra dairesi aracılığı ile banka üzerinden yapılan ödemeler üzerinden gelir vergisi kesintisinin nasıl yapılacağı ile belge düzeninin nasıl olacağı.",
+  "source": "https://gib.gov.tr/mevzuat/kanun/433/ozelge/23519",
+  "related_law": "193 sayılı GELİR VERGİSİ KANUNU",
+  "source_api": "https://gib.gov.tr/api/gibportal/mevzuat/ozelge/list",
+  "source_listing": "evidence/list/2026-11-16/ozelge-p001.json",
+  "source_listing_sha256": "e5c572e7d33c4a72997f66e3999bee09f80c627cabe3ea5a6521aa3f8abee01f",
+  "source_sha256": "c72b0da61705714513f78d3bda19c4b4afab1bd4930023062503577a85afcba5",
+  "text_status": "as-enacted",
+  "text_file": "metin.md",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  }
+}
