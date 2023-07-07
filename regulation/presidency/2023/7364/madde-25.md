@@ -1,0 +1,2 @@
+Yurt dışından temin edilecek belgeler
+MADDE 25- (1) Bu Yönetmelik kapsamında ihtiyaç duyulması hâlinde yurt dışından temin edilecek belgelerin ilgili ülkenin yetkili makamlarınca ve Türkiye’nin o ülkedeki büyükelçilik veya konsolosluğunca ya da Lahey Devletler Özel Hukuku Konferansı çerçevesinde hazırlanan ve 16/9/1984 tarihli ve 18517 sayılı Resmî Gazete’de yayımlanan Yabancı Resmî Belgelerin Tasdiki Mecburiyetinin Kaldırılması Sözleşmesi hükümlerine göre onaylanmış olması ve başvuruya bu belgelerin noter onaylı Türkçe tercümelerinin de eklenmesi şarttır.

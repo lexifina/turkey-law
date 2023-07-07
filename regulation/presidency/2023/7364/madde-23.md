@@ -1,0 +1,2 @@
+Bilgi gizliliği
+MADDE 23- (1) Tek durak büroda görev yapan ilgili kamu kurum ve kuruluşlarının personeli; yaptığı iş ve işlemler nedeniyle öğrendiği ya da işi sebebiyle kendisine iletilen, açıklanan ya da erişimine açık her türlü bilgiyi korumakla ve bu bilgilere yetkisiz kişilerin erişimini engellemekle yükümlüdür. Bu bilgiler kanunen yetkili olan mercilerden başkasına açıklanamaz. Bu yükümlülük görevden ayrıldıktan sonra da devam eder.

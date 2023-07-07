@@ -1,0 +1,26 @@
+{
+  "id": "presidency-regulation-7364",
+  "number": "7364",
+  "kind": "regulation",
+  "issuer": "presidency",
+  "title": "İSTANBUL FİNANS MERKEZİ YÖNETMELİĞİ",
+  "published": "2023-07-07",
+  "enacted": "2023-07-06",
+  "gazette_number": "32241",
+  "in_force": "2023-07-07",
+  "in_force_basis": "Official commencement clause: \"Bu Yönetmelik yayımı tarihinde yürürlüğe girer.\"; Resmî Gazete 2023-07-07, no amendment annotation in this source text.",
+  "history": "current-only",
+  "version_label": "oldest version available",
+  "first_law": null,
+  "source": "https://www.mevzuat.gov.tr/anasayfa/MevzuatFihristDetayIframe?MevzuatNo=7364&MevzuatTur=21&MevzuatTertip=5",
+  "source_sha256": "56e5fdce3890e001429daf4f3c5e6eea6eb11180a002782598e61eba4ace5669",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  },
+  "missing_components": [],
+  "text_layout": "article-files",
+  "source_links": [],
+  "completeness": "html-text-complete"
+}

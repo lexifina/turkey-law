@@ -1,0 +1,7 @@
+BEŞİNCİ BÖLÜM
+Tek Durak Büro
+Tek durak büronun teşekkülü ile sevk ve idaresi
+MADDE 17- (1) Tek durak büro; katılımcıların ve katılımcı adaylarının faaliyetlerine ilişkin izin, ruhsat, lisans ve benzeri onay başvuruları ile katılımcıların çalışanlarına ve bu çalışanların bakmakla yükümlü olduğu kişilere ilişkin izin ve onay gibi başvuruların yapılabilmesi ve bu başvuru süreçlerinin hızlandırılması amacıyla kamu kurum ve kuruluşlarının ilgili birimlerinin görev alacağı bürodur.
+(2) Tek durak büroda; Çalışma ve Sosyal Güvenlik Bakanlığı, Çevre, Şehircilik ve İklim Değişikliği Bakanlığı, Hazine ve Maliye Bakanlığı, İçişleri Bakanlığı, Ticaret Bakanlığı temsilcileri ile bu bakanlıklarca gerekli görülmesi hâlinde bunların bağlı, ilgili, ilişkili kuruluşları veya bu bakanlıkların denetiminde olan kamu kurum ve kuruluşlarının temsilcileri ve ilgili ilçe belediyesi temsilcileri yer alır. İhtiyaç duyulması hâlinde farklı bakanlık, kamu kurum ve kuruluşları da tek durak büroya dâhil edilebilir.
+(3) İFM’de gerçekleştirilecek iş ve işlemlerin tek elden takibini yapmak ve tek durak büroda yer alan kamu kurum ve kuruluşları arasındaki koordinasyonu sağlamak amacıyla tek durak büro, ilgili mevzuat hükümleri saklı kalmak kaydıyla, Finans Ofisi tarafından sevk ve idare edilir.
+(4) İFM’de faaliyet gösteren kamu kurum ve kuruluşları, ayrıca tek durak büro fiziki alanı içerisinde yeniden birim kurmazlar. Bu kurumlar, İFM portalı üzerinden randevu alınması, başvuru takibi ile bilgi ve destek hizmeti sunarlar.

@@ -1,0 +1,3 @@
+Ortak kullanım alanları
+MADDE 8- (1) 634 sayılı Kanun kapsamında İFM’deki ortak kullanım alanları, yönetim planında ortak kullanım alanı olarak belirtilen ve ortaklaşa kullanma veya faydalanmaya yarayan ortak peyzaj alanı, otopark, ibadet alanı, merdivenler gibi yerler ile tek durak büronun kullanımı için ayrılan alanların bakım, onarım ve işletme giderleri, 634 sayılı Kanun kapsamındaki gider payı ve avans payından karşılanır.
+(2) İFM’de katılımcılara kira sözleşmesi kapsamında kullandırılmayan yerler ile İFM imar planı hudutları içindeki yollar, kaldırımlar, otoparklar, açık alanlar ve rekreasyon alanları gibi ortak kullanım alanlarının yönetimi ve işletilmesi, yönetim planında yer alması kaydıyla yönetici şirketin yetki ve tasarrufundadır.

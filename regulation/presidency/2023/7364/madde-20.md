@@ -1,0 +1,3 @@
+İhtiyarilik ve ücretsizlik
+MADDE 20- (1) İFM’de faaliyet gösterecek katılımcı adayları ve katılımcıların, ihtiyaç duydukları hizmetler için tek durak büroya başvurmaları ve tek durak büroda sunulan hizmetlerden faydalanmaları kendi isteklerine bağlıdır.
+(2) Tek durak büroda sunulan yönlendirme ve bilgilendirme hizmetleri ücretsizdir. Ancak izin, lisans, ruhsat, onay veya diğer idari iş ve işlemler için ödenmesi gereken ve 7412 sayılı Kanunda belirtilen istisna ve indirimler hariç olmak üzere ilgili mevzuatta öngörülen harç, ücret, vergi ve diğer mali yükümlülükler, katılımcı adayına veya katılımcıya aittir.
