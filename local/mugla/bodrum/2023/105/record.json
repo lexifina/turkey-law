@@ -1,0 +1,24 @@
+{
+  "number": "105",
+  "number_as_published": "2023-105",
+  "year": 2023,
+  "title": "2023 yılı bütçesinde ödenek ihtiyacı olacağı anlaşılan ve ek bütçe cetvelinde bilgileri yer alan harcama birimlerimizin bütçesine ek ödenek konulmasına ve Bodrum Belediyesinin 2023 yılı gelir-gider bütçe teklifinde denk bütçe şeklinde 1.848.000.000,00-TL olan 2023 yılı gelir gider bütçesinin 2.168.000.000,00-TL’ye yük ...",
+  "decision_date": "2023-07-07",
+  "source": "https://www.bodrum.bel.tr/meclis_kararlari",
+  "official_document": null,
+  "source_sha256": "36f43b06e3286682d4de72a2f9f74706691b0d695f1c5dc1c19278c417ce11e6",
+  "issuer": "Bodrum Belediye Meclisi",
+  "history_type": "metadata",
+  "text_status": "metadata-only: listing fields as published; the listing links no decision document",
+  "in_force": "2023-07-07",
+  "in_force_basis": "Decision date as printed in the official council listing: 7.7.2023; adoption date of the council decision; legal commencement not asserted",
+  "missing": [
+    "complete official decision text",
+    "official annexes"
+  ],
+  "law_text_complete": false,
+  "privacy_withheld": false,
+  "official_page": "https://www.bodrum.bel.tr/meclis_karari.php?id=2690",
+  "summary_shortened_in_listing": true,
+  "record_scope": "one council decision (summary as listed)"
+}
