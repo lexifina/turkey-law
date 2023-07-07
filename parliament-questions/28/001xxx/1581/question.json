@@ -1,0 +1,21 @@
+{
+  "record_type": "parliament-written-question",
+  "term": 28,
+  "legislative_year": 1,
+  "esas_no": "7/1581",
+  "submitted": "2023-07-07",
+  "submitted_as": "Başkanlığa geliş tarihi",
+  "mp": "Metin ERGUN",
+  "province": "Muğla",
+  "summary": "1416 sayılı Kanun kapsamında yurtdışına gönderilen öğrencilerin Milli Eğitim Bakanlığına olan döviz borçlarının yapılandırılmasına ilişkin",
+  "status": "Cevaplandı",
+  "status_as_of": "2026-11-16",
+  "official_record": "https://www.tbmm.gov.tr/Denetim/Yazili-Soru-Onergesi-Detay/336485a1-26f2-4b9d-bf42-01893fdba72d",
+  "source": "https://tbmm.gov.tr/Denetim/YaziliSoruOnergesiTable",
+  "source_form": "https://tbmm.gov.tr/Denetim/Yazili-Soru-Onergeleri",
+  "source_sha256": "6bb35c6348693aa7dd17fa7476f6c1e691fa1fe23305cf15ee8f8a6c4b454c9e",
+  "in_force": "2023-07-07",
+  "in_force_basis": "Date the question reached the Speaker (Başkanlığa geliş tarihi) in the official TBMM written-question record; parliamentary oversight record, not law",
+  "history_type": "metadata",
+  "text_status": "metadata-only: question text, addressee and answers are in the linked official record (PDFs on cdn.tbmm.gov.tr); not transcribed here"
+}
