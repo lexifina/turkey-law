@@ -1,0 +1,20 @@
+{
+  "record_type": "gazette-item",
+  "gazette": "Resmî Gazete",
+  "jurisdiction": "TR",
+  "date": "2023-07-08",
+  "issue": "32242",
+  "edition": "regular",
+  "item": 3,
+  "section": "YÜRÜTME VE İDARE BÖLÜMÜ",
+  "heading": "TEBLİĞLER",
+  "title": "Gümrük Genel Tebliği (Gümrük İşlemleri) (Seri No: 94)’nde Değişiklik Yapılmasına Dair Tebliğ (Gümrük İşlemleri) (Seri No: 192)",
+  "official_link": "https://www.resmigazete.gov.tr/eskiler/2023/07/20230708-3.htm",
+  "link_format": "htm",
+  "index_url": "https://www.resmigazete.gov.tr/eskiler/2023/07/20230708.htm",
+  "index_sha256": "26b58bd1e279a82cbd48a89d2ba7a3a04d239c64507d81f11d2668cf03fc225d",
+  "index_header": "8 Temmuz 2023 ... 32242 Sayılı Resmî Gazete",
+  "issue_pdf": "https://www.resmigazete.gov.tr/eskiler/2023/07/20230708.pdf",
+  "in_force_basis": "Resmî Gazete publication date; not a commencement reading.",
+  "text_status": "metadata-only; text not yet fetched (follow-up pass adds it as its own commit)"
+}
