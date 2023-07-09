@@ -1,0 +1,80 @@
+{
+  "source_id": "9.5.13977",
+  "kind": "communique",
+  "register_kind": "Tebliğler",
+  "title": "ULUSAL MESLEK STANDARTLARINA DAİR TEBLİĞ",
+  "number": "13977",
+  "issuer": "Mesleki Yeterlilik Kurumu Başkanı",
+  "path": "teblig/2010/13977",
+  "source": "https://www.mevzuat.gov.tr/anasayfa/MevzuatFihristDetayIframe?MevzuatTur=9&MevzuatNo=13977&MevzuatTertip=5",
+  "source_sha256": "119021f1db5ef8013ecdadccff109b6b2a4805ff8021006d8340f006125e9ff5",
+  "source_bytes": 22659,
+  "published": "2010-05-12",
+  "gazette": "27579",
+  "in_force": "2023-07-09",
+  "in_force_basis": "latest Resmî Gazete date printed in the source amendment notes/table (\"RG-9/7/2023\") for the current consolidated text",
+  "date_evidence": [
+    [
+      "2023-07-09",
+      "RG-9/7/2023",
+      "Resmî Gazete date printed in the source amendment note"
+    ],
+    [
+      "2023-07-09",
+      "9/7/2023",
+      "Resmî Gazete date in the source amendment table"
+    ],
+    [
+      "2022-01-24",
+      "RG-24/1/2022",
+      "Resmî Gazete date printed in the source amendment note"
+    ],
+    [
+      "2022-01-24",
+      "24/1/2022",
+      "Resmî Gazete date in the source amendment table"
+    ],
+    [
+      "2018-06-04",
+      "4/6/2018",
+      "Resmî Gazete date in the source amendment table"
+    ],
+    [
+      "2018-04-11",
+      "11/4/2018",
+      "Resmî Gazete date in the source amendment table"
+    ],
+    [
+      "2017-11-29",
+      "29/11/2017",
+      "Resmî Gazete date in the source amendment table"
+    ],
+    [
+      "2016-04-18",
+      "18/4/2016",
+      "Resmî Gazete date in the source amendment table"
+    ],
+    [
+      "2015-09-11",
+      "11/9/2015",
+      "Resmî Gazete date in the source amendment table"
+    ]
+  ],
+  "commencement_clauses": [
+    "Bu Tebliğ yayımı tarihinde yürürlüğe girer"
+  ],
+  "history": "current-text",
+  "label": "oldest version available",
+  "checked_on": "2026-11-15",
+  "word_count": 212,
+  "text_status": "current-consolidated",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  },
+  "source_links": [
+    "9.5.13977-Ek.zip"
+  ],
+  "completeness": "html-text-complete; linked annexes not fetched"
+}
