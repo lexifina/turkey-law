@@ -1,0 +1,18 @@
+{
+  "issuer": "Mersin Büyükşehir Belediye Meclisi",
+  "number": "294",
+  "decision_date": "2023-07-10",
+  "title": "-MEC.KAR.(EKMEK SATIŞ FİYATININ BELİRLENMESİ)",
+  "listed_as": "294-MEC.KAR.(EKMEK SATIŞ FİYATININ BELİRLENMESİ)",
+  "subject_note": "subject as the meeting page lists it (the register shortens some long subjects)",
+  "official_document": "https://www.mersin.bel.tr/dokumanlar/294-meckarekmek-satis-fiyatinin-belirlenmesi-1458966884",
+  "source_listing": "https://www.mersin.bel.tr/dokumanlar/10-temmuz-2023-meclis-kararlari-1198389232",
+  "listing_sha256": "ff91d749bcdc517b49b5916090dd0bcd0f1a323818e6342bc486cb002f8a207f",
+  "meeting_title": "10 TEMMUZ 2023 MECLİS KARARLARI",
+  "history_type": "metadata-only",
+  "capture_mode": "metadata-only",
+  "text_status": "metadata-only; official decision page linked, text not transcribed",
+  "date_basis": "meeting date in the official meeting page title (decision date of the session)",
+  "commencement_established": false,
+  "privacy_withheld": false
+}
