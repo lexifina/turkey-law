@@ -1,0 +1,2 @@
+Kontenjan tespiti
+MADDE 10 – (1) Birimlerin, her yıl Şubat ayı sonuna kadar, takip eden mali yılda yetiştirilmek üzere yurt dışına gönderilecek personelin sayısı, yaptırılacak öğrenimin veya stajın konusu, gönderilecek ülkeler ve uluslararası kuruluşlar, bütçe olanakları ve konulara ilişkin görüşlerini de ekleyerek oluşturdukları teklifler, Komisyona sunulmak üzere (Değişik ibare:RG-11/7/2023-32245) Genel Müdürlüğe bildirilir.

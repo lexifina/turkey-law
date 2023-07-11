@@ -1,0 +1,5 @@
+Çalışma raporu
+MADDE 27 – (1) Yurt dışına gönderilen Devlet memurları aşağıdaki şekilde ilgili makamları bilgilendirmek ve çalışma raporu düzenlemek zorundadır.
+a) Yurt dışına gönderilen memurlar, yabancı ülkelere intikal ettikleri tarih itibariyle bir ay içinde, kimlik ve memurlukla ilgili bilgiler ile eğitim veya öğrenim görecekleri yer, konu ve çalışmaları ile ilgili bilgileri en yakın dış temsilcilik amirliğine bildirirler.
+b) (Değişik:RG-18/11/2015-29536) Memurlar, çalışmalarına ilişkin bilgileri içeren raporlarını ve tezlerini ve/veya çalışmaları süresince edindikleri diploma, sertifika ve benzeri belgelerinin birer örneğini program süresinin bitiminde (a) bendinde belirtilen makamlara ve (Değişik ibare:RG-11/7/2023-32245) Genel Müdürlüğe intikal ettirmekle yükümlüdürler.
+(2) (Ek fıkra:RG-18/11/2015-29536) Ayrıca, yurt dışına gönderilen memurun hazırlamış olduğu eğitimle ilgili raporların bir örneği, göreve başladığı tarihi takip eden üç ay içerisinde personelin görev yaptığı birimce (Değişik ibare:RG-11/7/2023-32245) ilgili kuruma gönderilir.

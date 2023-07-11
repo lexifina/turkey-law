@@ -1,0 +1,5 @@
+Yurt dışı eğitimin esasları
+MADDE 5 – (1) Yurt dışı eğitimi aşağıdaki esaslara göre düzenlenir:
+a) Yurt dışı eğitimi, Bakanlık Birimlerinin ilgili mali yıl bütçesinde yeterli ödeneğinin bulunması koşuluyla, Bakanlığın ilgili mevzuat ve benimsediği temel ilkeler çerçevesinde oluşturduğu geleceğe ilişkin misyon ve vizyonlarının, stratejik amaç ve hedeflerinin izlenmesi ve değerlendirilmesini yapmak amacıyla hazırladığı stratejik planına uygun olarak belirlenir.
+b) Bakanlığın yetiştirilmek amacıyla lisansüstü (yüksek lisans, doktora) eğitim için yurt dışına gönderilecek personeli, Yükseköğretim Kurulu tarafından tespit edilen yabancı yüksek öğretim kurumlarında eğitim görebilirler. Lisansüstü eğitime ilişkin giderler, fatura veya benzeri gider belgesinin bizzat öğrenim görülen yüksek öğretim kurumu tarafından düzenlenmesi koşuluyla ödenir. Eğitim amacıyla yurt dışına gönderilecek kamu görevlilerinin öğrenim konuları, çalışmakta oldukları birimlerin görev alanları ile doğrudan ilgili olmak zorundadır.
+c) Yabancı dil eğitimi için yurt dışına personel gönderilmez.

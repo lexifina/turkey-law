@@ -1,0 +1,5 @@
+Eğitim kurumlarının belirlenmesi
+MADDE 14 – (1) Bütçe olanakları ile yabancı ülkelere gönderilmesi kararlaştırılmış olanlardan;
+a) Yükseköğrenim veya ihtisas yapmak üzere gönderileceklerin kabul belgelerinin sağlanması işlemi Yüksek Öğretim Kurumu Başkanlığı ile ilgili kurum,
+b) Öğrenim veya ihtisas dışında yabancı ülkelerin hizmetle ilgili kurumlarına veya yetiştirme eğitim merkezleri ile uluslararası kurum veya kuruluşlara gönderileceklerin gerekli kabul işlemlerinin sağlanması, memurun bağlı olduğu kurum ve Dışişleri Bakanlığı,
+tarafından yürütülür. Ancak eğitim görecekleri kurum Yüksek Öğretim Kurumu Başkanlığı tarafından belirlenmiş olmak kaydıyla (a) bendine göre gönderileceklerin kabul belgeleri kendileri tarafından sağlanabilir. Dış burslarla gönderileceklerin bursu veren ülke veya kuruluşça kabul işlemlerinin yapılması, bu ülke veya kuruluşun Türkiyedeki temsilciliği ve memurun bağlı olduğu kurum aracılığı ile yerine getirilir. Eğitim göreceği yer kesinleşmeyen hiçbir devlet memuru yurt dışına gönderilemez.

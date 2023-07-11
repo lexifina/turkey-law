@@ -1,0 +1,2 @@
+Sağlık sigortası ve tedavi giderleri
+MADDE 24 – (1) Bu Yönetmeliğe göre Devlet memurlarına, başka memleket veya teşkilat tarafından sağlık sigortası imkanlarının sağlanmaması halinde, ilgili kurumlarca sağlık sigortası yaptırılır. Sağlık sigortası imkanlarının sağlanamaması halinde tedavi giderleri ve personelin ölümü halinde cenaze giderleri 27/7/1973 tarihli ve 7/6913 sayılı Bakanlar Kurulu Kararı ile yürürlüğe konulan Devlet Memurlarının Tedavi Yardımı ve Cenaze Giderleri Yönetmeliği hükümlerine göre ödenir.
