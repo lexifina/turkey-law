@@ -1,0 +1,31 @@
+Memur personele tavan tutarın üzerinde sosyal denge tazminatı ödenmesi.
+
+3. 114 İlam sayılı Daire Kararının 16’ncı maddesiyle, memur personele tavan tutarın üzerinde sosyal denge tazminatı [SDT] ödenmesi sonucu oluşan kamu zararının sorumlulara ödettirilmesine hükmedilmiştir.
+
+114 İlam sayılı Daire Kararının 17’nci maddesiyle, memur personele tavan tutarın üzerinde SDT ödenmesi sonucu oluşan kamu zararının sorumlulara ödettirilmesine hükmedilmiştir.
+
+Sorumlular tarafından Daire Kararının 16 ve 17’nci maddeleri hakkında temyiz talebinde bulunulmuştur.
+
+GEREĞİ GÖRÜŞÜLDÜ:
+
+26.11.2022 tarih ve 32025 sayılı Resmi Gazete’de yayımlanan 7421 sayılı Vergi Usul Kanunu ile Bazı Kanunlarda Değişiklik Yapılmasına Dair Kanunun 10’uncu maddesinde:
+
+“MADDE 10-25/6/2001 tarihli ve 4688 sayılı Kamu Görevlileri Sendikaları ve Toplu Sözleşme Kanununa aşağıdaki geçici madde eklenmiştir.
+
+“GEÇİCİ MADDE 16- Konusu suç teşkil etmemek kaydıyla; bu maddenin yürürlük tarihine kadar bu Kanun veya 375 sayılı Kanun Hükmünde Kararnamenin ek 15 inci maddesi hükümlerine aykırı olarak sosyal denge tazminatı ödediği tespit edilen il özel idareleri, belediyeler, büyükşehir belediyeleri ve bağlı kuruluşları ile bunların üyesi olduğu mahalli idare birliklerinin yetkili veya görevli olan sorumluları hakkında yapılan bu ödemeler nedeniyle idari veya mali yargılama ve takibat yapılamaz; başlamış olanlar işlemden kaldırılır.”
+
+hükmü yer almaktadır.
+
+Buna göre, ... ... Belediyesinin 2019 yılı hesabına ait 114 İlam sayılı Daire Kararının 16 ve 17’uncu maddelerine konu sosyal denge tazminatı ödemeleri 4688 sayılı Kanunun Geçici 16’ncı maddesi kapsamında bulunduğundan ve söz konusu sosyal denge tazminatı ödemeleri hakkında mali yargılama ve takibat yapılamayacağından temyiz başvurularına esas DOSYANIN İŞLEMDEN KALDIRILMASINA (Üyeler ... ve ...’in aşağıda yer alan karşı oy gerekçesine karşı), oy çokluğuyla,
+
+Karar verildiği 12.07.2023 tarih ve 55661 sayılı tutanakta yazılı olmakla işbu ilam tanzim kılındı.
+
+(Karşı oy gerekçesi
+
+Üyeler ... ve ...’in karşı oy gerekçesi
+
+Karşı oy gerekçesi Daire Kararının 1’inci maddesiyle ilgili olarak yukarıda aynı alt başlık altında yer aldığı gibidir.
+
+Temyize konu olan somut uygulamada Belediye ile yetkili sendika arasında imzalanan sosyal denge sözleşmesinde Belediye personeline giyecek yardımı ve yakacak yardımı adı altında ödemeler yapılması öngörülmüştür. Belirtilen bu ödemeler 4688 sayılı Kanunun geçici 16’ncı maddesi kapsamında değerlendirilemez.
+
+Açıklanan nedenlerle, sosyal denge sözleşmesi dayanak gösterilerek ödenen giyecek ve yakacak yardımı kamu zararı teşkil ettiğinden bu ödemeler ayrıştırılarak hüküm kurulması gerekir.)
