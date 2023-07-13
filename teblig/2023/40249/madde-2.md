@@ -1,0 +1,3 @@
+Harç miktarlarının hesaplanması
+MADDE 2- (1) Söz konusu Kararın 1 inci maddesi ile 492 sayılı Kanuna bağlı, (9) sayılı tarifenin “II- Sürücü belgesi harçları” başlıklı bölümü hariç olmak üzere, tarifelerde yer alan ve 2023 yılında uygulanan maktu harç tutarları (maktu ve nispi harçların asgari ve azami miktarlarını belirleyen hadler dâhil) %50 oranında artırılmış, anılan Kanuna bağlı (8) sayılı tarifenin “VIII-Yolcu beraberinde getirilen telefon kullanım izin harcı” başlıklı bölümünün (1) numaralı fıkrasında yer alan harç tutarı 20.000 TL olarak yeniden belirlenmiştir.
+(2) Nispi harçlar ile söz konusu Karara istinaden belirlenen maktu harç tutarları bu Tebliğ ekindeki tarifelerde gösterilmiştir.
