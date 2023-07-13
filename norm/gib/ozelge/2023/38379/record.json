@@ -1,0 +1,22 @@
+{
+  "kind": "norm",
+  "issuer": "Gelir İdaresi Başkanlığı",
+  "document_type": "ozelge",
+  "number": "E-70903105-165.01.03[517]-58139",
+  "source_id": 38379,
+  "date": "2023-07-13",
+  "title": "Peşin Gelen Konut Alım Bedelinin İadesinde KKDF hk.",
+  "source": "https://gib.gov.tr/mevzuat/kanun/502/ozelge/38379",
+  "related_law": "4684 sayılı BAZI KANUN VE KANUN HÜKMÜNDE KARARNAMELERDE DEĞİŞİKLİK YAPILMASINA DAİR KANUN",
+  "source_api": "https://gib.gov.tr/api/gibportal/mevzuat/ozelge/list",
+  "source_listing": "evidence/list/2026-11-16/ozelge-p008.json",
+  "source_listing_sha256": "292c126217cc32c3ccfa57495ce433f89ef8db5e75fa1946d5819a76f81aff4d",
+  "source_sha256": "160e51b7befd22010f4a5d8333b4460b1d7df8c8d4dc20afa06a4fa0b4f51727",
+  "text_status": "as-enacted",
+  "text_file": "metin.md",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  }
+}
