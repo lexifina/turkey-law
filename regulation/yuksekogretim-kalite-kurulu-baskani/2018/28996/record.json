@@ -1,0 +1,53 @@
+{
+  "source_id": "7.5.28996",
+  "kind": "regulation",
+  "register_kind": "Kurum ve Kuruluş Yönetmelikleri",
+  "title": "YÜKSEKÖĞRETİM KALİTE GÜVENCESİ VE YÜKSEKÖĞRETİM KALİTE KURULU YÖNETMELİĞİ",
+  "number": "28996",
+  "issuer": "Yükseköğretim Kalite Kurulu Başkanı",
+  "issuer_slug": "yuksekogretim-kalite-kurulu-baskani",
+  "path": "regulation/yuksekogretim-kalite-kurulu-baskani/2018/28996",
+  "source": "https://www.mevzuat.gov.tr/anasayfa/MevzuatFihristDetayIframe?MevzuatTur=7&MevzuatNo=28996&MevzuatTertip=5",
+  "source_sha256": "bf0aed8f6beb8b2fa8d8a00fb9fb842294990f835766570dc8622b9024c79c11",
+  "source_bytes": 94508,
+  "published": "2018-11-23",
+  "gazette": "30604",
+  "in_force": "2023-07-13",
+  "in_force_basis": "latest Resmî Gazete date printed in the source amendment notes/table (\"RG-13/7/2023\") for the current consolidated text",
+  "date_evidence": [
+    [
+      "2023-07-13",
+      "RG-13/7/2023",
+      "Resmî Gazete date printed in the source amendment note"
+    ],
+    [
+      "2023-07-13",
+      "13/7/2023",
+      "Resmî Gazete date in the source amendment table"
+    ],
+    [
+      "2021-11-11",
+      "RG-11/11/2021",
+      "Resmî Gazete date printed in the source amendment note"
+    ],
+    [
+      "2021-11-11",
+      "11/11/2021",
+      "Resmî Gazete date in the source amendment table"
+    ]
+  ],
+  "commencement_clauses": [
+    "Bu Yönetmelik yayımı tarihinde yürürlüğe girer"
+  ],
+  "history": "current-text",
+  "label": "oldest version available",
+  "checked_on": "2026-11-15",
+  "word_count": 4643,
+  "text_status": "current-consolidated",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  },
+  "completeness": "html-text-complete"
+}
