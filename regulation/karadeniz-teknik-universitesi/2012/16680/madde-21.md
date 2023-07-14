@@ -1,0 +1,4 @@
+Notlarda maddi hata
+MADDE 21 – (1) Sınav notlarında herhangi bir maddi hatanın yapılmış olması halinde, düzeltme istemi, notların ilanını takip eden üç iş günü içinde öğrenci veya öğretim elemanının başvurusu üzerine yedi gün içinde öğrenci veya dersin bağlı olduğu ilgili akademik birimce karara bağlanır. Yarıyıl sonu sınavlarından sonra verilen notlarla ilgili maddi hataların en geç ertesi yarıyılın kayıt süresi içinde düzeltilmiş olması gerekir. Bu tarihten sonraki düzeltme işlemleri ilgili yönetim kurulunun onayını gerektirir.
+(2) Sınav notlarına ve harf notlarına ilişkin düzeltme başvuruları doğrudan ilgili bölüm başkanlığına yapılır.
+(3) Harfli başarı notlarının ilanını takiben her hangi bir nedenle yapılan değişiklikler o ders ile ilgili daha önce yapılmış olan istatistiksel hesaplamalara yansıtılmaz.

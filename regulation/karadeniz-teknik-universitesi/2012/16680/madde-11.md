@@ -1,0 +1,2 @@
+Derse bağlı klinik ve saha uygulamalarının yürütülmesi
+MADDE 11 – (1) Derse bağlı uygulamalar Fakülte Yönetim Kurulunun onayı ile çalışma programının içinde, hafta sonu veya gece yapılabilir. Uygulamalı öğretim; üniversite hastanesinde ve Fakülte Yönetim Kurulunun onayı ile hasta bakımının uygulandığı diğer sağlık kurumlarında yapılır. Uygulama, belirlenen kurumların mesai saatlerine uyularak, akademik takvimde belirtilen tarihler arasında, öğretim elemanlarının denetiminde gerçekleştirilir.

@@ -1,0 +1,6 @@
+İKİNCİ BÖLÜM
+Eğitim-Öğretim Düzeyleri
+Lisans eğitiminin süresi ve derslerin kredilendirilmesi
+MADDE 5 – (1) Bir eğitim-öğretim yılı; güz yarıyılı ve bahar yarıyılı olmak üzere iki yarıyıldan oluşur. Her bir yarıyıl; on dört hafta ders, bir hafta ara sınav, iki hafta yarıyıl sonu sınav haftası ve bir hafta bütünleme sınav haftası olmak üzere on sekiz haftadan oluşur. Eğitim-öğretim yılı ve ilgili diğer faaliyetlerin başlama ve bitiş tarihleri, Senato tarafından belirlenen akademik takvim ile duyurulur. Ara sınavlar dokuzuncu haftada yapılır ve bu hafta içerisinde ders yapılmaz.
+(2) (Değişik:RG-14/7/2023-32248) Bir dersin yerel kredi değeri, o dersin haftalık teorik ders saatlerinin tamamı ile varsa bu dersin uygulama, laboratuvar, atölye, bitirme çalışması, proje, seminer, klinik saha uygulaması ve benzeri çalışmaların haftalık saatlerinin yarısının toplamından oluşur.
+(3) Öğrencinin bir yarıyılda alacağı eğitim-öğretim çalışmaları yükü, eğitim-öğretim planında belirtilen o yarıyıla ait eğitim-öğretim çalışmalarıdır. Bir yarıyıldaki azami ders yükü, azami öğrenim sürelerinin son yılında bulunanlar ile tüm dersleri aldığında o yarıyılın sonunda mezun olabilecek öğrenciler hariç, 40 saati aşamaz.

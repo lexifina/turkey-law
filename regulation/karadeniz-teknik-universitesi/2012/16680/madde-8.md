@@ -1,0 +1,3 @@
+Oryantasyon ve akademik danışmanlık
+MADDE 8 – (1) Kesin kayıtları yapılan birinci sınıf öğrencilerine Üniversiteyi tanıtmak amacıyla, derslerin başlamasından önce, ilgili birimlerce oryantasyon programları düzenlenebilir.
+(2) Her öğrenci için, kayıtlı oldukları bölüm başkanlığınca derslerin başlamasını takip eden en geç on beş gün içinde, bir akademik danışman görevlendirilir. Akademik danışman, danışmanı olduğu öğrencilerin derse yazılma işlemlerini Üniversite Yönetim Kurulunun belirleyeceği esaslar çerçevesinde denetler ve öğrencinin sosyal ve kültürel durum ve faaliyetlerinin başarısını olumsuz etkilememesi için gerekli yönlendirmeleri yapar.
