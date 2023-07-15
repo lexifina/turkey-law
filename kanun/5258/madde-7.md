@@ -1,3 +1,4 @@
-Ağız ve diş sağlığı hizmetleri
-Madde 7-— Kişilerin ağız ve diş sağlığını korumak ve bu hizmetlerin daha etkili ve verimli yürütülmesini sağlamak amacıyla, Sağlık Bakanlığınca tespit edilecek illerde pilot uygulama yapılır.
-Bu hizmetler karşılığında yapılacak ödemelerin, hizmetten yararlananların ilgisine göre bağlı bulundukları kurum bütçelerinden veya sosyal güvenlik kuruluşlarından karşılanması ile diğer hususlara ilişkin usul ve esaslar Maliye, Sağlık ve Çalışma ve Sosyal Güvenlik bakanlıkları tarafından müştereken belirlenir.
+Ağız ve diş sağlığı ile yaşlı sağlığı hizmetleri
+MADDE 7- (Başlığı ile Birlikte Değişik:14/7/2023-7456/14 md.)
+Birinci basamak sağlık hizmetlerinin etkililiğini ve kalitesini artırmak, aile hekimliği hizmetlerinin bütüncül olarak yürütülmesini sağlamak amacıyla Sağlık Bakanlığınca belirlenen nüfus, yaş grubu ve bölge gibi kriterlere göre ağız ve diş sağlığı ile yaşlı sağlığı hizmetleri planlaması yapılır.
+Birinci basamak ağız ve diş sağlığı ile yaşlı sağlığı hizmetlerini yürütmek üzere hekim ve diş hekimleri ile Bakanlıkça belirlenen diğer sağlık meslek mensuplarıyla bu Kanunda belirtilen usul ve esaslar çerçevesinde sözleşme akdedilir. Sözleşme yapılan personel hakkında statü, hak, yükümlülükler ve diğer hususlarda bu Kanunun 3 üncü maddesi uygulanır.
