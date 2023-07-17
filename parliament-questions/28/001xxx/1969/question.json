@@ -1,0 +1,21 @@
+{
+  "record_type": "parliament-written-question",
+  "term": 28,
+  "legislative_year": 1,
+  "esas_no": "7/1969",
+  "submitted": "2023-07-17",
+  "submitted_as": "Başkanlığa geliş tarihi",
+  "mp": "Mahmut TANAL",
+  "province": "Şanlıurfa",
+  "summary": "Yolcu beraberinde getirilen telefon kullanım izin harcının artırılmasına ilişkin",
+  "status": "Cevaplandı",
+  "status_as_of": "2026-11-16",
+  "official_record": "https://www.tbmm.gov.tr/Denetim/Yazili-Soru-Onergesi-Detay/36f85e96-4beb-45f2-876e-01896829cc08",
+  "source": "https://tbmm.gov.tr/Denetim/YaziliSoruOnergesiTable",
+  "source_form": "https://tbmm.gov.tr/Denetim/Yazili-Soru-Onergeleri",
+  "source_sha256": "cd047b7757b4be054916f98aca488cacf4adfc618f7d21f0c0054edb92bffc83",
+  "in_force": "2023-07-17",
+  "in_force_basis": "Date the question reached the Speaker (Başkanlığa geliş tarihi) in the official TBMM written-question record; parliamentary oversight record, not law",
+  "history_type": "metadata",
+  "text_status": "metadata-only: question text, addressee and answers are in the linked official record (PDFs on cdn.tbmm.gov.tr); not transcribed here"
+}
