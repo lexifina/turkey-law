@@ -1,0 +1,39 @@
+{
+  "checked_on": "2026-11-14",
+  "commencement_clauses": [
+    "MADDE 15- (1) Bu Yönetmelik yayımı tarihinde yürürlüğe girer."
+  ],
+  "date_evidence": [
+    [
+      "2023-07-17",
+      "17.07.2023",
+      "original gazette publication date in official listing"
+    ]
+  ],
+  "date_quote": "MADDE 15- (1) Bu Yönetmelik yayımı tarihinde yürürlüğe girer.",
+  "first_law": null,
+  "gazette": "32251",
+  "history": "current-text",
+  "images": {
+    "deferred": 0,
+    "omitted": 0,
+    "referenced": 0,
+    "source": 0
+  },
+  "in_force": "2023-07-17",
+  "in_force_basis": "source commencement clause: enters into force on gazette publication",
+  "issuer": "Gazi Üniversitesi",
+  "issuer_slug": "gazi-universitesi",
+  "kind": "regulation",
+  "label": "oldest version available",
+  "path": "regulation/gazi-universitesi/2023/40253",
+  "published": "2023-07-17",
+  "source": "https://www.mevzuat.gov.tr/anasayfa/MevzuatFihristDetayIframe?MevzuatTur=8&MevzuatNo=40253&MevzuatTertip=5",
+  "source_bytes": 26524,
+  "source_id": "8.5.40253",
+  "source_sha256": "164c9132d70a46d5fd8535a42e2340b7d551754e2bfc402063263f6a57c66871",
+  "text_status": "as-enacted",
+  "title": "GAZİ ÜNİVERSİTESİ YENİLENEBİLİR ENERJİ VE AKILLI ŞEBEKELER\r\nUYGULAMA VE ARAŞTIRMA MERKEZİ YÖNETMELİĞİ",
+  "university_id": 195,
+  "word_count": 977
+}
