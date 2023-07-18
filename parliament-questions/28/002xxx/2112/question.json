@@ -1,0 +1,21 @@
+{
+  "record_type": "parliament-written-question",
+  "term": 28,
+  "legislative_year": 1,
+  "esas_no": "7/2112",
+  "submitted": "2023-07-18",
+  "submitted_as": "Başkanlığa geliş tarihi",
+  "mp": "Semra ÇAĞLAR GÖKALP",
+  "province": "Bitlis",
+  "summary": "Bitlis'te düzenlenen operasyonların tarım arazilerinde oluşturduğu tahribata ilişkin",
+  "status": "Cevaplandı",
+  "status_as_of": "2026-11-16",
+  "official_record": "https://www.tbmm.gov.tr/Denetim/Yazili-Soru-Onergesi-Detay/7aae1fa2-3fe7-4bda-87d3-01896d50fe18",
+  "source": "https://tbmm.gov.tr/Denetim/YaziliSoruOnergesiTable",
+  "source_form": "https://tbmm.gov.tr/Denetim/Yazili-Soru-Onergeleri",
+  "source_sha256": "5c1f50271d0444a3a30f6c44ae32a33fcf3e4888ac6fd3492cd08b3a8eb7839d",
+  "in_force": "2023-07-18",
+  "in_force_basis": "Date the question reached the Speaker (Başkanlığa geliş tarihi) in the official TBMM written-question record; parliamentary oversight record, not law",
+  "history_type": "metadata",
+  "text_status": "metadata-only: question text, addressee and answers are in the linked official record (PDFs on cdn.tbmm.gov.tr); not transcribed here"
+}
