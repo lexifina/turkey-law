@@ -1,0 +1,21 @@
+{
+  "record_type": "parliament-written-question",
+  "term": 28,
+  "legislative_year": 1,
+  "esas_no": "7/2137",
+  "submitted": "2023-07-18",
+  "submitted_as": "Başkanlığa geliş tarihi",
+  "mp": "Öznur BARTİN",
+  "province": "Hakkari",
+  "summary": "18 Temmuz 2017'de Hakkari'de yaşamını yitiren bir kişiye ilişkin",
+  "status": "Süresi Geçtikten Sonra Cevaplandı",
+  "status_as_of": "2026-11-16",
+  "official_record": "https://www.tbmm.gov.tr/Denetim/Yazili-Soru-Onergesi-Detay/3810502b-a34c-4045-a620-01896d2562ad",
+  "source": "https://tbmm.gov.tr/Denetim/YaziliSoruOnergesiTable",
+  "source_form": "https://tbmm.gov.tr/Denetim/Yazili-Soru-Onergeleri",
+  "source_sha256": "5c1f50271d0444a3a30f6c44ae32a33fcf3e4888ac6fd3492cd08b3a8eb7839d",
+  "in_force": "2023-07-18",
+  "in_force_basis": "Date the question reached the Speaker (Başkanlığa geliş tarihi) in the official TBMM written-question record; parliamentary oversight record, not law",
+  "history_type": "metadata",
+  "text_status": "metadata-only: question text, addressee and answers are in the linked official record (PDFs on cdn.tbmm.gov.tr); not transcribed here"
+}
