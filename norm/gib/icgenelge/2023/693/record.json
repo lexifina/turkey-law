@@ -1,0 +1,22 @@
+{
+  "kind": "norm",
+  "issuer": "Gelir İdaresi Başkanlığı",
+  "document_type": "icgenelge",
+  "number": "E-87893753-010.06.01[36-17]-59968",
+  "source_id": 693,
+  "date": "2023-07-19",
+  "title": "BAZI ALACAKLARIN YENİDEN YAPILANDIRILMASINA DAİR 7440 SAYILI KANUN İÇ GENELGESİ (Seri No: 2023/2)",
+  "source": "https://gib.gov.tr/mevzuat/kanun/468/icgenelge/693",
+  "related_law": "7440 sayılı BAZI ALACAKLARIN YENİDEN YAPILANDIRILMASI İLE BAZI KANUNLARDA DEĞİŞİKLİK YAPILMASINA DAİR KANUN",
+  "source_api": "https://gib.gov.tr/api/gibportal/mevzuat/icGenelge/list",
+  "source_listing": "evidence/list/2026-11-16/icGenelge-p000.json",
+  "source_listing_sha256": "f67e0a2102f72bb235e1a5040899d9489b05b3d457ed0145b7ee616be10187e7",
+  "source_sha256": "bbc6e029d92e7dec1f9105132129e20583834fcf6d3e2de616fb9b3bb2747031",
+  "text_status": "as-enacted",
+  "text_file": "metin.md",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  }
+}
