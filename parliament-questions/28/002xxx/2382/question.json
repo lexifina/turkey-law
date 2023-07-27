@@ -1,0 +1,21 @@
+{
+  "record_type": "parliament-written-question",
+  "term": 28,
+  "legislative_year": 1,
+  "esas_no": "7/2382",
+  "submitted": "2023-07-27",
+  "submitted_as": "Başkanlığa geliş tarihi",
+  "mp": "Kamuran TANHAN",
+  "province": "Mardin",
+  "summary": "Mardin'in Mazıdağı ilçesinde bulunan Kocatepe Mahallesi'nin yol sorununa ilişkin",
+  "status": "Cevaplandı",
+  "status_as_of": "2026-11-16",
+  "official_record": "https://www.tbmm.gov.tr/Denetim/Yazili-Soru-Onergesi-Detay/294511b0-bc02-4ff3-b391-01899b5a3ab3",
+  "source": "https://tbmm.gov.tr/Denetim/YaziliSoruOnergesiTable",
+  "source_form": "https://tbmm.gov.tr/Denetim/Yazili-Soru-Onergeleri",
+  "source_sha256": "07c389f2b08d0fd49966b49065914a0dc60a21d27a1690038db725be05b5ddc4",
+  "in_force": "2023-07-27",
+  "in_force_basis": "Date the question reached the Speaker (Başkanlığa geliş tarihi) in the official TBMM written-question record; parliamentary oversight record, not law",
+  "history_type": "metadata",
+  "text_status": "metadata-only: question text, addressee and answers are in the linked official record (PDFs on cdn.tbmm.gov.tr); not transcribed here"
+}
