@@ -1,0 +1,7 @@
+İsteğe bağlı yabancı dil hazırlık programı
+MADDE 9 – (1) Yabancı dil hazırlık eğitim-öğretiminin zorunlu olmadığı programlara yerleşen öğrencilere talep etmeleri halinde, Yabancı Diller Yüksekokulunun olanakları dikkate alınarak Yabancı Diller Yüksekokulu Kurulu tarafından belirlenen kontenjan dâhilinde isteğe bağlı yabancı dil hazırlık eğitimi verilebilir.
+(2) İsteğe bağlı yabancı dil hazırlık eğitimi almak isteyen öğrenciler, taleplerini Üniversiteye kesin kayıt esnasında bildirirler. Hazırlık eğitimine başladıktan sonra devam etmek istemeyen öğrenciler, bu taleplerini kayıtlı oldukları fakültenin akademik takviminde gösterilen ders kayıt günlerinin sonuna kadar bildirir ve yerleştirildikleri programlara devam ederler.
+(3) İsteğe bağlı yabancı dil hazırlık programına kaydedilen öğrencilerin yabancı dil düzeyleri, Yabancı Diller Yüksekokulu tarafından yapılan düzey belirleme sınavı ile belirlenir. Öğrenciler, bu sınavın sonuçlarına göre uygun düzeye yerleştirilerek yabancı dil hazırlık eğitimine başlarlar.
+(4) İsteğe bağlı yabancı dil hazırlık eğitiminin süresi en fazla iki yarıyıldır. Bu süre, öğrencilerin kayıtlı oldukları programın öğretim süresinden sayılmaz.
+(5) İsteğe bağlı yabancı dil hazırlık programındaki öğrenciler, başarılı olamasalar dahi yerleştirildikleri programa başlarlar.
+(6) İsteğe bağlı yabancı dil hazırlık programında başarılı olamayan öğrenciler, devam ettikleri programda 2547 sayılı Kanunun 5 inci maddesinin birinci fıkrasının (ı) bendi gereğince verilmesi zorunlu olan yabancı dil derslerini alırlar.

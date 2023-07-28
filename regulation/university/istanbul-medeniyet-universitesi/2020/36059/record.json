@@ -1,0 +1,31 @@
+{
+  "act_path": "regulation/university/istanbul-medeniyet-universitesi/2020/36059",
+  "availability": "text",
+  "checked_on": "2026-11-14",
+  "commencement_clauses": [
+    "MADDE 16 – (1) Bu Yönetmelik yayımı tarihinde yürürlüğe girer."
+  ],
+  "date_quote": "RG-28/7/2023",
+  "first_law": null,
+  "gazette": "31332",
+  "history": "current-text",
+  "images": {
+    "deferred": 0,
+    "omitted": 0,
+    "referenced": 0,
+    "source": 0
+  },
+  "in_force": "2023-07-28",
+  "in_force_basis": "latest source-printed amendment Gazette date; current consolidated text",
+  "issuer": "İstanbul Medeniyet Üniversitesi",
+  "issuer_slug": "istanbul-medeniyet-universitesi",
+  "kind": "regulation",
+  "published": "2020-12-12",
+  "source": "https://www.mevzuat.gov.tr/anasayfa/MevzuatFihristDetayIframe?MevzuatTur=8&MevzuatNo=36059&MevzuatTertip=5",
+  "source_id": "8.5.36059",
+  "source_sha256": "b248e28d5805c2a3e54f5f7b1d4ec1d8f6330c58582b67c679874514b08bc0a6",
+  "title": "İSTANBUL MEDENİYET ÜNİVERSİTESİ YABANCI DİL HAZIRLIK\r\nPROGRAMI EĞİTİM-ÖĞRETİM VE SINAV YÖNETMELİĞİ",
+  "university_id": 414,
+  "version_label": "oldest version available",
+  "word_count": 1749
+}
