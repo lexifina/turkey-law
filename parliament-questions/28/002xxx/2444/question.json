@@ -1,0 +1,21 @@
+{
+  "record_type": "parliament-written-question",
+  "term": 28,
+  "legislative_year": 1,
+  "esas_no": "7/2444",
+  "submitted": "2023-07-28",
+  "submitted_as": "Başkanlığa geliş tarihi",
+  "mp": "Aliye TİMİSİ ERSEVER",
+  "province": "Ankara",
+  "summary": "2013-2023 yılları arasında Bakanlık ile Bakanlığa bağlı, ilgili ve ilişkili kurum ve kuruluşlar tarafından kiralanan ve satın alınan araç sayısına ilişkin",
+  "status": "Cevaplandı",
+  "status_as_of": "2026-11-16",
+  "official_record": "https://www.tbmm.gov.tr/Denetim/Yazili-Soru-Onergesi-Detay/ee35dd21-c1a1-4d2c-8638-0189aabbf2f5",
+  "source": "https://tbmm.gov.tr/Denetim/YaziliSoruOnergesiTable",
+  "source_form": "https://tbmm.gov.tr/Denetim/Yazili-Soru-Onergeleri",
+  "source_sha256": "286a04acc6c7e2db43f3509b663ca3633997aa825429463917c93ecf6b5444dd",
+  "in_force": "2023-07-28",
+  "in_force_basis": "Date the question reached the Speaker (Başkanlığa geliş tarihi) in the official TBMM written-question record; parliamentary oversight record, not law",
+  "history_type": "metadata",
+  "text_status": "metadata-only: question text, addressee and answers are in the linked official record (PDFs on cdn.tbmm.gov.tr); not transcribed here"
+}
