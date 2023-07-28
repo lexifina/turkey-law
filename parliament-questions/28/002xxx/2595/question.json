@@ -1,0 +1,21 @@
+{
+  "record_type": "parliament-written-question",
+  "term": 28,
+  "legislative_year": 1,
+  "esas_no": "7/2595",
+  "submitted": "2023-07-28",
+  "submitted_as": "Başkanlığa geliş tarihi",
+  "mp": "Aliye TİMİSİ ERSEVER",
+  "province": "Ankara",
+  "summary": "Kadın istihdamının artırılması ve kadın-erkek fırsat eşitliğinin sağlanması konulu 27591 sayılı Genelge uyarınca yapılan çalışmalara ilişkin",
+  "status": "Cevaplandı",
+  "status_as_of": "2026-11-16",
+  "official_record": "https://www.tbmm.gov.tr/Denetim/Yazili-Soru-Onergesi-Detay/2ae8169d-76a4-4b4f-adb6-0189b0a85f7f",
+  "source": "https://tbmm.gov.tr/Denetim/YaziliSoruOnergesiTable",
+  "source_form": "https://tbmm.gov.tr/Denetim/Yazili-Soru-Onergeleri",
+  "source_sha256": "f5ca4e869c18b0e05f5f24d19151a3de145b1753de8b071f894aad22cca28baf",
+  "in_force": "2023-07-28",
+  "in_force_basis": "Date the question reached the Speaker (Başkanlığa geliş tarihi) in the official TBMM written-question record; parliamentary oversight record, not law",
+  "history_type": "metadata",
+  "text_status": "metadata-only: question text, addressee and answers are in the linked official record (PDFs on cdn.tbmm.gov.tr); not transcribed here"
+}
