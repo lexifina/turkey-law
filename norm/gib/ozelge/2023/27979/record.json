@@ -1,0 +1,22 @@
+{
+  "kind": "norm",
+  "issuer": "Gelir İdaresi Başkanlığı",
+  "document_type": "ozelge",
+  "number": "84974990-130[KDV5/İ/27/2022/01]-309672",
+  "source_id": 27979,
+  "date": "2023-07-28",
+  "title": "Sözleşme Kapsamında Şirkete Bedelsiz Olarak Aktarılan Taşınmazların Vergi Mevzuatı Yönünden Değerlendirilmesi",
+  "source": "https://gib.gov.tr/mevzuat/kanun/436/ozelge/27979",
+  "related_law": "3065 sayılı KATMA DEĞER VERGİSİ KANUNU",
+  "source_api": "https://gib.gov.tr/api/gibportal/mevzuat/ozelge/list",
+  "source_listing": "evidence/list/2026-11-16/ozelge-p003.json",
+  "source_listing_sha256": "b8eb1aba686c15efb9ca96f819c840940788d8f48769f30127e032220fbff4ab",
+  "source_sha256": "43b56663890fe3687502f0265606b9361caa884e3127709a1eb227d7010e71e6",
+  "text_status": "as-enacted",
+  "text_file": "metin.md",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  }
+}
