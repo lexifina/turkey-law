@@ -1,0 +1,5 @@
+Öğretmenler
+MADDE 22 – (1) Müzik ve bale ilkokullarında sınıf öğretmenliği, ortaokul ve liselerinde branş öğretmenliği, alan dersleri ile yardımcı alan dersleri öğretmenliğinde ise devlet konservatuvarı veya müzik ve sahne sanatları fakültesi öğretim elemanlığı esastır.
+(2) Okulda sınıf öğretmenleriyle zorunlu veya ortak derslere giren branş öğretmenlerinin atama ve görevlendirilmesinde Bakanlık mevzuatı hükümleri uygulanır.
+(3) Zorunlu veya ortak ders öğretmenleri üniversite öğretim elemanları arasından görevlendirilebileceği gibi ilgili üniversite rektörlüğünün talep etmesi hâlinde valilikçe de görevlendirilebilir.
+(4) Okulda alan, bölüm ve dal derslerinin eğitim-öğretimi ile öğretim elemanı istihdamında 2547 sayılı Yükseköğretim Kanunu hükümleri ile 11/10/1983 tarihli ve 2914 sayılı Yükseköğretim Personel Kanunu hükümleri esas alınarak ilgili alan, bölüm ve dal eğitimini konservatuvar veya müzik ve sahne sanatları fakültesinde almış ve gerekli nitelikleri taşıyan öğretim elemanları görevlendirilir.

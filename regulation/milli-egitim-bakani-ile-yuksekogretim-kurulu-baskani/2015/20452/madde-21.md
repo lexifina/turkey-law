@@ -1,0 +1,3 @@
+Kurum müdür yardımcıları
+MADDE 21 – (1) Konservatuvar veya fakültede kadrolu veya görevli öğretim elemanları ve öğretmenler arasından, müdürün veya dekanın önerisi üzerine rektör tarafından kurum müdür yardımcısı olarak atanır veya görevlendirilir. Konservatuvar veya fakültede ilkokul, ortaokul ve liselerde, her okul türü için ayrı ayrı birer müdür yardımcısı atanır veya görevlendirilir.
+(2) Kurum müdür yardımcısı, ilgili mevzuat ve programlara uygun olarak okulun tüm işlerinin yürütülmesi, düzenlenmesi ve denetlenmesinde kurum müdürüne karşı sorumludur. Gerektiğinde kurum müdürlüğüne vekâlet eder.

@@ -1,0 +1,5 @@
+Sınavlara katılmayanlar
+MADDE 12 – (1) Alan ve yardımcı alan derslerinin sınavlarına katılmayan öğrenci mazeretini başlangıcından itibaren beş iş günü içinde bildirmek ve mazeretinin bitimini izleyen beş iş günü içinde belgelendirerek müdürlük veya dekanlığa vermek zorundadır. Ancak zorunlu hâllerde bu süre müdürlük veya dekanlıkça uzatılabilir.
+(2) Mazereti müdürlük veya dekanlıkça kabul edilen öğrenciler mazeretlerinin bitiminde belirlenen tarihte bir defaya mahsus olmak üzere mazeret sınavına alınır. Birinci dönem mazeret sınavları ikinci dönem başına kadar yapılır, ikinci dönem mazeret sınavları ile ek sınavların mazeret sınavları ise bir sonraki öğretim yılının başına kadar yapılır. Mazeret sınav hakkı bir defaya mahsus yapılır.
+(3) Geçerli mazereti olmadan sınavlara katılmayan öğrenciler ve mazeret sınavlarına katılmayan öğrencilerin durumları puanla/notla değerlendirilmez. e-okul sistemine “G” olarak işlenir ve aritmetik ortalama alınırken sayıya dahil edilir.
+(4) Diğer derslerde ise Bakanlığın ilgili mevzuatı hükümleri uygulanır.
