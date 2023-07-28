@@ -1,0 +1,22 @@
+{
+  "kind": "norm",
+  "issuer": "Gelir İdaresi Başkanlığı",
+  "document_type": "ozelge",
+  "number": "84974990-130[KDV-2/H/11/2021-118]-309358",
+  "source_id": 21739,
+  "date": "2023-07-28",
+  "title": "BM Bünyesinde Yer Alan BM Göç Kuruluşu İle Yapılan Sözleşme Gereği Yurtdışına Verilecek Olan Danışmanlık Faaliyetine İlişkin Vergileme",
+  "source": "https://gib.gov.tr/mevzuat/kanun/436/ozelge/21739",
+  "related_law": "3065 sayılı KATMA DEĞER VERGİSİ KANUNU",
+  "source_api": "https://gib.gov.tr/api/gibportal/mevzuat/ozelge/list",
+  "source_listing": "evidence/list/2026-11-16/ozelge-p000.json",
+  "source_listing_sha256": "5444faf84128246cd8dd8c6db754d41e2a11c7717342bfe0a07a35074d061761",
+  "source_sha256": "20b4927a75d1909f6865804879d77fdbb9f6181ab9ca99831399295c30692d82",
+  "text_status": "as-enacted",
+  "text_file": "metin.md",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  }
+}
