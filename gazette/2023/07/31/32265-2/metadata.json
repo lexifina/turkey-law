@@ -1,0 +1,20 @@
+{
+  "record_type": "gazette-item",
+  "gazette": "Resmî Gazete",
+  "jurisdiction": "TR",
+  "date": "2023-07-31",
+  "issue": "32265",
+  "edition": "regular",
+  "item": 2,
+  "section": "YÜRÜTME VE İDARE BÖLÜMÜ",
+  "heading": "YÖNETMELİKLER",
+  "title": "Eskişehir Teknik Üniversitesi Yabancı Dil Hazırlık Programı Eğitim-Öğretim ve Sınav Yönetmeliği",
+  "official_link": "https://www.resmigazete.gov.tr/eskiler/2023/07/20230731-2.htm",
+  "link_format": "htm",
+  "index_url": "https://www.resmigazete.gov.tr/eskiler/2023/07/20230731.htm",
+  "index_sha256": "8650b63ed7acf777829607ce0596e9778ea797479be179e9d6ba7b0b5b9c0ba7",
+  "index_header": "31 Temmuz 2023 ... 32265 Sayılı Resmî Gazete",
+  "issue_pdf": "https://www.resmigazete.gov.tr/eskiler/2023/07/20230731.pdf",
+  "in_force_basis": "Resmî Gazete publication date; not a commencement reading.",
+  "text_status": "metadata-only; text not yet fetched (follow-up pass adds it as its own commit)"
+}
