@@ -1,0 +1,22 @@
+{
+  "kind": "norm",
+  "issuer": "Gelir İdaresi Başkanlığı",
+  "document_type": "sirkuler",
+  "number": "VUK-158 / 2023-9",
+  "source_id": 683,
+  "date": "2023-07-31",
+  "title": "158 Sayılı Vergi Usul Kanunu Sirküleri",
+  "source": "https://gib.gov.tr/mevzuat/kanun/434/sirkuler/683",
+  "related_law": "213 sayılı VERGİ USUL KANUNU",
+  "source_api": "https://gib.gov.tr/api/gibportal/mevzuat/sirkuler/list",
+  "source_listing": "evidence/list/2026-11-16/sirkuler-p000.json",
+  "source_listing_sha256": "60c9b519ec13187d56f9a7863ce3934a7fb9c37357209b90158ca6acfcc95b41",
+  "source_sha256": "3e92ca8d2144fdab24f1da0ef3868b99692cb9a63f17e4105ef104921f5435d0",
+  "text_status": "as-enacted",
+  "text_file": "metin.md",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  }
+}
