@@ -1,0 +1,28 @@
+{
+  "number": "month-07-2",
+  "year": 2023,
+  "month": 7,
+  "title": "TEMMUZ 2023 AYI OLAĞANÜSTÜ MECLİS KARARLARI",
+  "decision_date": null,
+  "index_date": "2023-07-31",
+  "date_precision": "month",
+  "period": "Temmuz 2023",
+  "source": "https://www.marmaraereglisi.bel.tr/content-1221-meclis_kararlari.html",
+  "official_page": null,
+  "official_document": "https://www.marmaraereglisi.bel.tr/content-1409-temmuz_2023_ayi_olaganustu_meclis_kararlari.html",
+  "source_sha256": "4073a3d4a3e4e30871d11ffe08baea9df68d33102b2dadb6ca7f687110185ca3",
+  "issuer": "Marmaraereğlisi Belediye Meclisi",
+  "history_type": "metadata",
+  "text_status": "metadata-only: listing fields as published; the decisions are in the linked official document(s) or page, not transcribed",
+  "in_force": "2023-07-31",
+  "in_force_basis": "The official listing gives only the month of this official file (Temmuz 2023); date set to the last day of that month (turkey-law date convention for month-only sources); exact adoption dates are in the linked official document; legal commencement not asserted",
+  "missing": [
+    "decision numbers, dates and subjects",
+    "complete official decision text",
+    "official annexes"
+  ],
+  "law_text_complete": false,
+  "privacy_withheld": false,
+  "listing_label": "TEMMUZ 2023 AYI OLAĞANÜSTÜ MECLİS KARARLARI",
+  "record_scope": "one official file of council decisions (meeting or month)"
+}
