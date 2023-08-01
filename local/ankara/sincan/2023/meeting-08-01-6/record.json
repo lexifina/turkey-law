@@ -1,0 +1,23 @@
+{
+  "number": "meeting-08-01-6",
+  "number_as_published": null,
+  "year": 2023,
+  "title": "İLÇEMİZİN TURİZM VE EKONOMSİNE KATKISI OLAN HARİKALAR DİYARININ DAHA İYİ TANITILMASI",
+  "decision_date": "2023-08-01",
+  "source": "https://www.sincan.bel.tr/mecliskararlari",
+  "official_document": "https://www.sincan.bel.tr/upload/mecliskararlari/KARAR_173-_C4B0LC387EMC4B0ZC4B0N_TURC4B0ZM_VE_EKONOMSC4B0NE_KATKISI_OLAN_HARC4B0KALAR_DC4B0YARININ_DAHA_C4B0YC4B0_TANITILMASI.docx",
+  "source_sha256": "b415f62ea17c4060f9082a51ec5aa38666e4afb816b854305461d3b951680349",
+  "issuer": "Sincan Belediye Meclisi",
+  "history_type": "metadata",
+  "text_status": "metadata-only: listing fields as published; complete decision text is in the linked official document, not transcribed",
+  "in_force": "2023-08-01",
+  "in_force_basis": "Decision date as printed in the official council listing: TARİH:2023-08-01; adoption date of the council decision; legal commencement not asserted",
+  "missing": [
+    "complete official decision text",
+    "official annexes"
+  ],
+  "law_text_complete": false,
+  "privacy_withheld": false,
+  "official_page": "https://www.sincan.bel.tr/mecliskararlari",
+  "number_note": "the official list prints this decision without a number; key = order among that day's unnumbered decisions"
+}
