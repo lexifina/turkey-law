@@ -1,0 +1,4 @@
+Disiplin Kovuşturması Açılmasına Yer Olmadığı Kararı
+Madde 21 –Yönetim Kurulu, dosyayı ve raporu inceleyerek, ihbar veya şikayette bulunulan (Değişik ibare:RG-25/3/2001-24353) dişhekimi hakkında, disiplin kovuşturması açılmasını gerektirecek bir durumun mevcut olmadığını tespit ettiği takdirde, “Disiplin kovuşturması açılmasına yer olmadığına” gerekçeli olarak karar verir. Bu kararda, ihbar veya şikayette bulunanın adı ve adresi, şikayet olunan (Değişik ibare:RG-25/3/2001-24353) dişhekiminin kimliği, isnat olunan fiil, inceleme ve deliller belirtilir.
+(Değişik ikinci fıkra:RG-1/8/2023-32266) Karar, soruşturma isteğinin Cumhuriyet Savcılığından gelmesi halinde, Cumhuriyet Savcılığına resmi yazı ile bildirilir; hakkında soruşturma açılmış bulunan dişhekimine ve varsa şikayetçiye, bu Yönetmeliğin 14 üncü maddesi hükmüne uygun olarak, Yönetim Kurulu tarafından tebliğ edilir.
+(Mülga üçüncü fıkra:RG-1/8/2023-32266)

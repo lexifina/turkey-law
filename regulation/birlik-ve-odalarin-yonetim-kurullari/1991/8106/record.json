@@ -1,0 +1,58 @@
+{
+  "source_id": "7.5.8106",
+  "kind": "regulation",
+  "register_kind": "Kurum ve Kuruluş Yönetmelikleri",
+  "title": "TÜRK DİŞHEKİMLERİ BİRLİĞİ VE DİŞHEKİMLERİ ODALARININ DİSİPLİN YÖNETMELİĞİ",
+  "number": "8106",
+  "issuer": "Birlik ve Odaların Yönetim Kurulları",
+  "issuer_slug": "birlik-ve-odalarin-yonetim-kurullari",
+  "path": "regulation/birlik-ve-odalarin-yonetim-kurullari/1991/8106",
+  "source": "https://www.mevzuat.gov.tr/anasayfa/MevzuatFihristDetayIframe?MevzuatTur=7&MevzuatNo=8106&MevzuatTertip=5",
+  "source_sha256": "e5a607e08bd2a3c05775257f5fc18a217960acbe8f1b589b23907f870ac8e342",
+  "source_bytes": 80573,
+  "published": "1991-05-20",
+  "gazette": "20876",
+  "in_force": "2023-08-01",
+  "in_force_basis": "latest Resmî Gazete date printed in the source amendment notes/table (\"RG-1/8/2023\") for the current consolidated text",
+  "date_evidence": [
+    [
+      "2023-08-01",
+      "RG-1/8/2023",
+      "Resmî Gazete date printed in the source amendment note"
+    ],
+    [
+      "2021-11-26",
+      "RG-26/11/2021",
+      "Resmî Gazete date printed in the source amendment note"
+    ],
+    [
+      "2013-10-22",
+      "RG-22/10/2013",
+      "Resmî Gazete date printed in the source amendment note"
+    ],
+    [
+      "2001-03-25",
+      "RG-25/3/2001",
+      "Resmî Gazete date printed in the source amendment note"
+    ],
+    [
+      "1996-12-13",
+      "RG-13/12/1996",
+      "Resmî Gazete date printed in the source amendment note"
+    ]
+  ],
+  "commencement_clauses": [
+    "Bu yönetmelik, yayımı tarihinden itibaren yürürlüğe girer"
+  ],
+  "history": "current-text",
+  "label": "oldest version available",
+  "checked_on": "2026-11-15",
+  "word_count": 4444,
+  "text_status": "current-consolidated",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  },
+  "completeness": "html-text-complete"
+}

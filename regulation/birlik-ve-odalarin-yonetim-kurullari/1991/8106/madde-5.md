@@ -1,0 +1,13 @@
+İKİNCİ BÖLÜM
+Disiplin Suçları ve Cezaları
+Disiplin Cezaları
+Madde 5 – Dişhekimliği vakar ve onuruna veya meslek düzen ve geleneklerine uymayan fiil ve hareketlerde bulunanlar ile mesleğini gereği gibi uygulamayan veya kusurlu olarak uygulayan veyahut görevin gerektirdiği güveni sarsıcı davranışlarda bulunan meslek mensupları hakkında; fiil ve. hareketin niteliği ve ağırlık derecesine göre aşağıdaki disiplin cezaları verilir.
+a) Uyarma; dişhekimine görevinde ve davranışlarında daha dikkatli davranması gerektiğinin yazı ile bildirilmesidir.
+b) Kınama; dişhekimine görevinde ve davranışlarında kusurlu sayıldığının yazı ile bildirilmesidir.
+c) Para cezası; bölgesinde o yıl uygulanan (Mülga ibare: RG-22/10/2013-28799) (---) muayene ücretinin on katından az, elli katından fazla olmamak üzere verilecek para cezalarıdır.
+d) Geçici olarak meslekten men; oda bölgesinde bir aydan altı aya kadar serbest meslek uygulamasından alıkonulmasıdır.
+e) Meslekten alıkonma; oda bölgesinde iki kez serbest meslek uygulamasından geçici alıkonma cezası alanların, sürekli olarak serbest meslek uygulamasından alıkonmasıdır. Oda bölgesinde bir kez geçici meslekten alıkonma cezası almış olanlar, daha sonra aynı veya değişik bir suçtan ikinci kez meslekten alıkonma cezası veya değişik suçlardan aynı anda iki geçici meslekten alıkonma cezası aldıklarında, oda bölgesinde sürekli olarak serbest meslek uygulamasından alıkonma cezası almış sayılırlar.
+Geçici meslekten alıkonma cezası alanlar, ceza süresince ve sürekli meslekten alıkonma cezası alanlar sürekli olarak ceza aldıkları oda bölgesinde herhangi bir şekilde serbest dişhekimliği yapamazlar. Meslekten sürekli veya geçici alıkonma cezası alanların var ise muayenehaneleri ve dişhekimi toplu muayenehane, poliklinik ve benzeri adlar altındaki özel sağlık kuruluşlarında çalışıyor ise bu kuruluşta kendisine münhasıran tahsis edilmiş olan hizmet verdiği birim mühürlenerek kapatılır.
+Geçici meslekten alıkonma ile ilgili kararlar dişhekiminin muayenehanesinin kapısına, toplu muayenehane, poliklinik gibi birden fazla hekim veya dişhekiminin birlikte çalıştığı özel sağlık kuruluşlarında ise dişhekiminin dişsağlığı hizmeti verdiği birimde mühürlenen girişin yanına asılır ve ceza süresince asılı kalır.
+3224 sayılı Kanun'un 42'nci maddesi uyarınca özel bir kurumda ikinci görevi olan dişhekimi meslekten geçici veya sürekli alıkonma cezası aldığında, bu işyerinde de dişhekimliği yapamaz.
+Meslekten geçici veya sürekli alıkonma cezası alanların ceza süresince mesleğini herhangi bir şekilde yaptıklarının tespiti halinde, haklarında 1219 sayılı Kanun'un 42'nci maddesine göre ceza takibatına başvurulur ve ayrıca disiplin soruşturması açılır.

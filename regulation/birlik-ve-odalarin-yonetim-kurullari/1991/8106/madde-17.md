@@ -1,0 +1,4 @@
+İhbar veya Şikâyet
+Madde 17 –Sözlü ihbar veya şikâyet, herhangi bir kişinin Birlik veya odaya başvurması ve hakkında ihbarda bulunduğu dişhekimini belirtip iddialarını açıklamasıyla yapılmış olur.
+Yazılı veya sözlü ihbar veya şikâyette bulunan kişinin, açık kimliği ve adresi, ihbar veya şikâyet olunan dişhekiminin kimliği, ihbar veya şikâyetin konusu; maddi olaylar ve ihbar gününün belirtilmesi zorunludur. İhbar veya şikâyetin sözlü yapılması halinde, aynı hususlar Birlik başkanı, oda başkanı veya yönetim kurulu üyelerinden biriyle, ihbar veya şikâyette bulunan kişi ve kâtip tarafından imzalanarak bir tutanakta gösterilir.
+İhbar veya şikâyette bulunanın kimliği, adresi ve imzası bulunmayan istekler işleme konulmaz. Ancak, böyle durumlarda yönetim kurulları gerekli görürse ihbar veya şikâyetin konusu hakkında soruşturma açabilir.

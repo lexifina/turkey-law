@@ -1,0 +1,3 @@
+Resen Soruşturma
+Madde 18 – (Değişik:RG-25/3/2001-24353)
+Birlik Merkez Yönetim Kurulu ve oda yönetim kurulları ihbar veya şikayet olmasa bile, bu Yönetmelikte belirtilen fiillerin işlenip işlenmediğinin tesbiti ve bu cümleden olarak gereken işlemlerin yapılması için ilgililer hakkında resen soruşturma açabilir, adli ve resmi makamlara başvurabilir. Birlik Merkez Yönetim Kurulu’nun, dişhekimleri hakkında doğrudan soruşturma açma yetkisi bulunmayıp; yetkisi kanunlara , tüzüklere, yönetmeliklere ve Genel Kurul kararlarına uymayan yöneticiler ile yönetim, denetim ve disiplin kurulu üyeleri hakkında açılacak soruşturmalarla sınırlıdır.

@@ -1,0 +1,8 @@
+Soruşturmanın Yapılış Biçimi
+Madde 20 – (Değişik:RG-13/12/1996-22846)
+(Değişik fıkra:RG-25/3/2001-24353) Soruşturmacı; bu Yönetmelik hükümlerine uygun olarak göndereceği yazı ile suçlanan kişiden savunmasını ve delillerini ister. Suçlanan kişi, kendi delillerini toplamak için soruşturmacıdan ek süre isteyebilir. Verilecek bu süre şahsa tebliğ tarihinden itibaren 10 günü geçemez.
+(Mülga fıkra:RG-25/3/2001-24353)
+Soruşturmacı, gerekli olan her türlü delilleri toplar. İhbar veya şikayette bulunanları dinleyebilir ve soruşturma ile ilgili olarak gerekli gördüğü kişilerin ifadesini yeminli olarak da alabilir. Her soruşturma işlemi bir tutanak ile belirlenir. Tutanak, işlemin ne zaman ve nerede yapıldığını, işlemin niteliğini, kimlerin katıldığını, soruları ve alınan cevaplan belirtecek şekilde düzenlenir ve katılanlarca birlikte imzalanır.
+İfadesine başvurulacak kişi veya kişiler, soruşturma bölgesi dışında ise, kimlik, adres ve benzeri bilgiler belirtilir. Sorular belirlenerek ilgili odanın genel sekreterliğine iletilir. Söz konusu işlemler görevlendirilmiş oda sekreterliğince ivedilikle yerine getirildikten sonra, edinilen bilgiler en geç 1 hafta içinde soruşturma yapılan odaya gönderilir.
+Toplanan bütün kanıtlar incelendikten ve hakkında ihbar ve şikayette bulunulan üye gerekirse dinlendikten veya dinlenmek üzere verilen süre dolduktan sonra, düzenlenen rapor yönetim kuruluna verilir.
+Soruşturmacı atanma gününden itibaren en geç bir ay içinde soruşturmayı tamamlamak zorundadır. Ancak, soruşturmacının haklı sebepler göstererek yönetim kuruluna başvurması halinde, en çok üç kez olmak üzere bu süre birer ay uzatılabilir.
