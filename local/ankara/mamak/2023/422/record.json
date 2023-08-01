@@ -1,0 +1,29 @@
+{
+  "number": "422",
+  "number_as_published": "422",
+  "year": 2023,
+  "title": "Üreğil Mahallesi 39654 Ada 1 Parsel hakkında İmar Planı Değişikliğine Ait Yapı Yüksekliklerinin Belirlenmesine ilişkin Meclis Kararı.",
+  "decision_date": "2023-08-01",
+  "source": "https://www.mamak.bel.tr/gundem/GetKararlar",
+  "official_document": "https://www.mamak.bel.tr/gundem/DosyaDownload?guid=67080942-b152-4e3b-97c8-602df9208f4d",
+  "source_sha256": "f554089df68731558a37947c976f196303cdbdc5704c52cb6912834ca94730d3",
+  "issuer": "Mamak Belediye Meclisi",
+  "history_type": "metadata",
+  "text_status": "metadata-only: listing fields as published; complete decision text is in the linked official document, not transcribed",
+  "in_force": "2023-08-01",
+  "in_force_basis": "Decision date as printed in the official council listing: 2023-08-01T00:00:00 (kararTarihi of the official register); adoption date of the council decision; legal commencement not asserted",
+  "missing": [
+    "complete official decision text",
+    "official annexes"
+  ],
+  "law_text_complete": false,
+  "privacy_withheld": false,
+  "listing_page": "https://www.mamak.bel.tr/gundem/kararlar",
+  "register_api": "https://www.mamak.bel.tr/gundem/GetKararlar",
+  "official_documents": [
+    "https://www.mamak.bel.tr/gundem/DosyaDownload?guid=67080942-b152-4e3b-97c8-602df9208f4d",
+    "https://www.mamak.bel.tr/gundem/DosyaDownload?guid=55801969-5d0a-4c81-87d3-a24b956507f8",
+    "https://www.mamak.bel.tr/gundem/DosyaDownload?guid=3f3365db-34d8-4577-80e4-5be3645a034d",
+    "https://www.mamak.bel.tr/gundem/DosyaDownload?guid=e70623c0-ba89-43e2-8de7-2778c3f9b5ee"
+  ]
+}
