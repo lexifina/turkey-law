@@ -1,0 +1,21 @@
+{
+  "record_type": "parliament-written-question",
+  "term": 28,
+  "legislative_year": 1,
+  "esas_no": "7/2695",
+  "submitted": "2023-08-01",
+  "submitted_as": "Başkanlığa geliş tarihi",
+  "mp": "Deniz YÜCEL",
+  "province": "İzmir",
+  "summary": "Ankara-İzmir Yüksek Hızlı Tren Hattı Projesine ilişkin",
+  "status": "Süresi Geçtikten Sonra Cevaplandı",
+  "status_as_of": "2026-11-16",
+  "official_record": "https://www.tbmm.gov.tr/Denetim/Yazili-Soru-Onergesi-Detay/72685579-d6a8-40a9-b380-0189b101f3ad",
+  "source": "https://tbmm.gov.tr/Denetim/YaziliSoruOnergesiTable",
+  "source_form": "https://tbmm.gov.tr/Denetim/Yazili-Soru-Onergeleri",
+  "source_sha256": "43b957b8c4c4f314b9604972e4779de35c4b92c0b55622b3c139604aab40b161",
+  "in_force": "2023-08-01",
+  "in_force_basis": "Date the question reached the Speaker (Başkanlığa geliş tarihi) in the official TBMM written-question record; parliamentary oversight record, not law",
+  "history_type": "metadata",
+  "text_status": "metadata-only: question text, addressee and answers are in the linked official record (PDFs on cdn.tbmm.gov.tr); not transcribed here"
+}
