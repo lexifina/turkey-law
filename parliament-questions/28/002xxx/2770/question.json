@@ -1,0 +1,21 @@
+{
+  "record_type": "parliament-written-question",
+  "term": 28,
+  "legislative_year": 1,
+  "esas_no": "7/2770",
+  "submitted": "2023-08-02",
+  "submitted_as": "Başkanlığa geliş tarihi",
+  "mp": "Mustafa SARIGÜL",
+  "province": "Erzincan",
+  "summary": "Erzincan Kemah tuzunun üretimine ve ihracatının artırılması için yapılan çalışmalara ilişkin",
+  "status": "Süresi Geçtikten Sonra Cevaplandı",
+  "status_as_of": "2026-11-16",
+  "official_record": "https://www.tbmm.gov.tr/Denetim/Yazili-Soru-Onergesi-Detay/b068701c-1796-4c41-8672-0189bb53fe9a",
+  "source": "https://tbmm.gov.tr/Denetim/YaziliSoruOnergesiTable",
+  "source_form": "https://tbmm.gov.tr/Denetim/Yazili-Soru-Onergeleri",
+  "source_sha256": "9d309634c0f685138e8d241b48329cd8cddb8f2c9e9739dc41d766ce17840cee",
+  "in_force": "2023-08-02",
+  "in_force_basis": "Date the question reached the Speaker (Başkanlığa geliş tarihi) in the official TBMM written-question record; parliamentary oversight record, not law",
+  "history_type": "metadata",
+  "text_status": "metadata-only: question text, addressee and answers are in the linked official record (PDFs on cdn.tbmm.gov.tr); not transcribed here"
+}
