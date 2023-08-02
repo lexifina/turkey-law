@@ -1,0 +1,21 @@
+{
+  "record_type": "parliament-written-question",
+  "term": 28,
+  "legislative_year": 1,
+  "esas_no": "7/2697",
+  "submitted": "2023-08-02",
+  "submitted_as": "Başkanlığa geliş tarihi",
+  "mp": "Gülcan KIŞ",
+  "province": "Mersin",
+  "summary": "Son 5 yılda kamu yatırımlarında Mersin'in kaçıncı sırada yer aldığına ilişkin",
+  "status": "Cevaplandı",
+  "status_as_of": "2026-11-16",
+  "official_record": "https://www.tbmm.gov.tr/Denetim/Yazili-Soru-Onergesi-Detay/77a6b3fe-3826-4ffd-b693-0189bac82669",
+  "source": "https://tbmm.gov.tr/Denetim/YaziliSoruOnergesiTable",
+  "source_form": "https://tbmm.gov.tr/Denetim/Yazili-Soru-Onergeleri",
+  "source_sha256": "43b957b8c4c4f314b9604972e4779de35c4b92c0b55622b3c139604aab40b161",
+  "in_force": "2023-08-02",
+  "in_force_basis": "Date the question reached the Speaker (Başkanlığa geliş tarihi) in the official TBMM written-question record; parliamentary oversight record, not law",
+  "history_type": "metadata",
+  "text_status": "metadata-only: question text, addressee and answers are in the linked official record (PDFs on cdn.tbmm.gov.tr); not transcribed here"
+}
