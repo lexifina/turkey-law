@@ -1,0 +1,18 @@
+{
+  "kind": "norm",
+  "issuer": "Kişisel Verileri Koruma Kurumu",
+  "document_type": "decision-summary",
+  "number": "2023/1309",
+  "source_id": 7774,
+  "date": "2023-08-03",
+  "title": "“Bir havayolu şirketi tarafından ilgili kişiye ait kişisel verilerin hukuka aykırı olarak üçüncü kişilerle paylaşılması” hakkında Kişisel Verileri Koruma Kurulunun 03/08/2023 Tarihli ve 2023/1309 Sayılı Karar Özeti",
+  "source": "https://www.kvkk.gov.tr/Icerik/7774/2023-1309",
+  "source_sha256": "73079714bf9dfa18b71f6a49725ad6eb8d1c39dbb309df56509030a26c90d65d",
+  "text_status": "summary",
+  "text_file": "metin.md",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  }
+}
