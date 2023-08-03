@@ -1,0 +1,18 @@
+{
+  "kind": "norm",
+  "issuer": "Kişisel Verileri Koruma Kurumu",
+  "document_type": "decision-summary",
+  "number": "2023/1310",
+  "source_id": 7775,
+  "date": "2023-08-03",
+  "title": "“Banka mobil uygulamasında dijital parola belirlerken yüz verisinin işlenmesi suretiyle kişisel verilerin işlenmesi” hakkında Kişisel Verileri Koruma Kurulunun 03/08/2023 Tarihli ve 2023/1310 Sayılı Karar Özeti",
+  "source": "https://www.kvkk.gov.tr/Icerik/7775/2023-1310",
+  "source_sha256": "9e983e434479feb1bdb825ad820795865a59d4593910672ee014b1b479a1187d",
+  "text_status": "summary",
+  "text_file": "metin.md",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  }
+}
