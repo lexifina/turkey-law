@@ -1,0 +1,21 @@
+{
+  "record_type": "parliament-written-question",
+  "term": 28,
+  "legislative_year": 1,
+  "esas_no": "7/2878",
+  "submitted": "2023-08-04",
+  "submitted_as": "Başkanlığa geliş tarihi",
+  "mp": "Ali Fazıl KASAP",
+  "province": "Kütahya",
+  "summary": "Stoklarda ithal ve yerli olarak bulunan çeşitli bakliyat ürünlerinin miktarına ilişkin",
+  "status": "Süresi Geçtikten Sonra Cevaplandı",
+  "status_as_of": "2026-11-16",
+  "official_record": "https://www.tbmm.gov.tr/Denetim/Yazili-Soru-Onergesi-Detay/97229e8e-f8a4-46a7-bfe3-0189cf11b7ed",
+  "source": "https://tbmm.gov.tr/Denetim/YaziliSoruOnergesiTable",
+  "source_form": "https://tbmm.gov.tr/Denetim/Yazili-Soru-Onergeleri",
+  "source_sha256": "c8486ce3b03cb1d646af42b38ee73f7383ba422d4ae97388a49c11cd977272ae",
+  "in_force": "2023-08-04",
+  "in_force_basis": "Date the question reached the Speaker (Başkanlığa geliş tarihi) in the official TBMM written-question record; parliamentary oversight record, not law",
+  "history_type": "metadata",
+  "text_status": "metadata-only: question text, addressee and answers are in the linked official record (PDFs on cdn.tbmm.gov.tr); not transcribed here"
+}
