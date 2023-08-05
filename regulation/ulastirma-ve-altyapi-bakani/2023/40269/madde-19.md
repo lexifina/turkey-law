@@ -1,0 +1,8 @@
+Ürünün geri çağrılması
+MADDE 19- (1) Alınan diğer önlemlerin riskin ortadan kaldırılmasında yetersiz kalması durumunda iktisadi işletmeci, kendiliğinden veya İdarenin talebi üzerine ürünü geri çağırır.
+(2) İktisadi işletmeci geri çağırma önlemini, 18 inci maddenin ikinci fıkrasında belirtilen bilgilere ek olarak ürünün iade alınacağı veya onarılacağı adres ve irtibat noktaları ile sunulan teklif ve seçenekleri içerecek şekilde duyurur.
+(3) İktisadi işletmeci ürünü iade eden kullanıcılara aşağıdaki seçeneklerden en az birini sunar:
+a) Ürünün geri çağrılmasına yol açan sorunun giderilmesi.
+b) Ürünün iade tarihindeki perakende satış değerinin ödenmesi.
+c) Ürünün, teknik düzenlemesine uygun, güvenli ve eş değer bir ürünle değiştirilmesi.
+(4) Ürünün geri çağrılmasıyla ilgili tüm masraflar ürünü geri çağıran iktisadi işletmeci tarafından üstlenilir. İktisadi işletmeci, nihai kullanıcıya ek bir maliyet yüklemeden nihai kullanıcının ürünü zamanında ve kolaylıkla teslim edebilmesi için gerekli koşulları sağlamak zorundadır.

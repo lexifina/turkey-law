@@ -1,0 +1,3 @@
+İmalatçının yükümlülüklerinin diğer iktisadi işletmecilere uygulandığı durumlar
+MADDE 21- (1) İthalatçı veya dağıtıcı, ürünü kendi isim veya ticari markası altında piyasaya arz etmesi, piyasada bulundurması; ürünü teknik düzenlemesine veya Genel Ürün Güvenliği Yönetmeliğine uygunluğunu etkileyecek şekilde değiştirmesi halinde imalatçı olarak kabul edilir.
+(2) Ürünün imalatçısı, yetkili temsilcisi veya ithalatçısının tespit edilemediği durumlarda, yapılan bildirimin kendisine tebliğ edildiği tarihten itibaren on iş günü içinde imalatçı, yetkili temsilci veya ithalatçısının isim ve irtibat bilgilerini, bu bilgilere sahip değil ise tedarik zincirinde yer alan bir önceki iktisadi işletmecinin isim ve irtibat bilgilerini bildirmeyen dağıtıcı, imalatçı olarak kabul edilir.
