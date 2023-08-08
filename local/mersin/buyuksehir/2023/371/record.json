@@ -1,0 +1,18 @@
+{
+  "issuer": "Mersin Büyükşehir Belediye Meclisi",
+  "number": "371",
+  "decision_date": "2023-08-08",
+  "title": "-MEC.KAR.( Anamur İlçesi İskele Mahallesi Trafo Alanı_UİP Değişikliği )",
+  "listed_as": "371-MEC.KAR.( Anamur İlçesi İskele Mahallesi Trafo Alanı_UİP Değişikliği )",
+  "subject_note": "subject as the meeting page lists it (the register shortens some long subjects)",
+  "official_document": "https://www.mersin.bel.tr/dokumanlar/371-meckar-anamur-ilcesi-iskele-mahallesi-trafo-alaniuip-degisikligi--536148622",
+  "source_listing": "https://www.mersin.bel.tr/dokumanlar/8-agustos-2023-meclis-kararlari-330671029",
+  "listing_sha256": "2180126f1fe8d055b9f9344ab5b18867f712a8e4008f79c904dade4c1d784a4d",
+  "meeting_title": "8 AĞUSTOS 2023 MECLİS KARARLARI",
+  "history_type": "metadata-only",
+  "capture_mode": "metadata-only",
+  "text_status": "metadata-only; official decision page linked, text not transcribed",
+  "date_basis": "meeting date in the official meeting page title (decision date of the session)",
+  "commencement_established": false,
+  "privacy_withheld": false
+}
