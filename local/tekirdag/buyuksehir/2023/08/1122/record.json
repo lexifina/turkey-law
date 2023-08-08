@@ -1,0 +1,20 @@
+{
+  "number": "1122",
+  "title": "EK BÜTÇE ONAYI",
+  "decision_date": "2023-08-08",
+  "source": "https://www.tekirdag.bel.tr/meclis_donemleri/meclis_karar_ozetleri/2225",
+  "official_document": "https://www.tekirdag.bel.tr/karar_metin_goruntule/2225/1122",
+  "source_sha256": "9e507e9884120a881f147cc4e8bb04c10c2ccf80f6ec8c870db04d3c5faf97f9",
+  "issuer": "Tekirdağ Büyükşehir Belediye Meclisi",
+  "history_type": "metadata",
+  "text_status": "official decision summary (Karar Özeti) as published in the council catalogue; complete decision text is in the linked official PDF, not transcribed",
+  "in_force": "2023-08-08",
+  "in_force_basis": "Official Birleşim Tarihi: 08.08.2023; adoption date for catalogue metadata; legal commencement not asserted",
+  "session": "1 / Oturum No : 2",
+  "missing": [
+    "complete official decision text",
+    "official annexes, including any normative images"
+  ],
+  "law_text_complete": false,
+  "privacy_withheld": false
+}
