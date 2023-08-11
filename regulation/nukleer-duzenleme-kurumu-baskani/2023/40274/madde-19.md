@@ -1,0 +1,7 @@
+ALTINCI BÖLÜM
+Hizmet Alımı
+Hizmet alımı
+MADDE 19- (1) Kurum, denetim ve yerinde inceleme kapsamında, sonuçları itibarıyla Kurum açısından bağlayıcı olmayacak şekilde inceleme, araştırma, tespit ve raporlama yapmak üzere ihtisas sahibi kamu kurum ve kuruluşları, özel hukuk tüzel kişileri ve gerçek kişilerden teknik destek hizmeti alabilir.
+(2) Hizmet alınan kişi, kurum veya kuruluşlar; hizmetleri süresince, alınan hizmet kapsamında denetime tabi olanlarla doğrudan veya dolaylı olarak ticari bir faaliyette bulunamazlar.
+(3) Hizmet alınan kişi, kurum veya kuruluşlar, bu hizmetleri kapsamında Kurumdan veya denetime tabi olanlardan temin ettikleri hiçbir bilgi ve belgeyi Kurumun bilgisi ve onayı olmadan sözlü veya yazılı olarak üçüncü kişilere açıklayamaz, bu bilgi ve belgeleri başka amaçlarla kullanamaz, paylaşamaz ve çoğaltamazlar. Hizmetleri kapsamında temin ettikleri tüm bilgi ve belgeleri gizlilik derecesine uygun olarak muhafaza ederler.
+(4) Hizmet alınan kişi, kurum veya kuruluşlar bu madde uyarınca alınan hizmetler kapsamında elde ettikleri bilgi ve belgeler ile tespitlerini Kuruma sunar. Kurum, alınan hizmetler vasıtasıyla elde edilen tespit ve bu tespitlere yönelik denetime tabi olanlar tarafından gerçekleştirilen faaliyetlerle elde edilen bilgi ve belgelere dayanarak değerlendirme yapabilir veya denetim başlatabilir. Kurumun uygun bulması durumunda, hizmet alınan kuruluşlar tarafından yapılan tespitler; denetlenen tarafa bildirilerek, denetlenenden gerekli düzeltici ve önleyici faaliyetleri gerçekleştirmesi istenebilir.

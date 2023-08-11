@@ -1,0 +1,3 @@
+Diğer hususlar
+MADDE 21- (1) Bu Yönetmelik hükümleri çerçevesinde; denetime tabi olanlar tarafından sunulacak bilgi ve belgelere ilişkin hususlar, denetimin sıklığı, denetim ve yerinde incelemenin planlanması, bildirilmesi, uygulanması, raporlanması, denetim ve yerinde incelemenin sonuçlarının bildirilmesi, bulguların sınıflandırılması, bulgu ve uygunsuzlukların yönetimi, Kurum denetçisinin vasıflandırılması, yetkilendirilmesi ve yetkisinin sonlandırılması, yerleşik denetim görevlilerinin görev, yetki ve sorumluluklarına ilişkin hususlar Kurum tarafından ayrıca düzenlenir.
+(2) Bu Yönetmelik hükümleri çerçevesinde; tesis veya faaliyetin türüne göre gerçekleştirilecek denetim ve yerinde incelemelerde uygulanacak usul ve esaslar Kurum tarafından ayrıca düzenlenir.

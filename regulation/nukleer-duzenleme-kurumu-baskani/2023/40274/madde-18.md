@@ -1,0 +1,3 @@
+Müdahale gerektiren hâller
+MADDE 18- (1) Denetimlerde veya yerinde incelemelerde güvenlik veya emniyetin tehlikeye düştüğü veya düşebileceği ve müdahalenin gecikmesinde sakınca bulunduğunun tespit edildiği hâllerde durum Kurum denetçisi tarafından Kuruma ve yetkilendirilen kişiye derhâl bildirilir. Bu durumda, Kurum yetki verilen faaliyetin tamamının veya bir kısmının durdurulması veya sınırlanması da dâhil olmak üzere gerekli tedbirleri aldırabilir.
+(2) Kurum denetçisi, 7381 sayılı Kanunun 8 inci maddesinin dördüncü fıkrası uyarınca denetim sırasında gerekli hâllerde mülki idare amirlerinden kolluk kuvveti talebinde bulunabilir. Bu durumda mülki idare amirleri ve kolluk kuvvetleri Kurum denetçilerine gereken desteği gecikmeksizin sağlar.

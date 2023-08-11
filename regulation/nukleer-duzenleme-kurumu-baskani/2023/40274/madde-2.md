@@ -1,0 +1,2 @@
+Kapsam
+MADDE 2- (1) Bu Yönetmelik; nükleer enerji ve iyonlaştırıcı radyasyona ilişkin faaliyetlere, bu faaliyetlerle ilgili tesis, cihaz ve maddeler ile yetkilendirilen kişilere ve yetkilendirme kapsamında yetkilendirilen kişilerin yüklenici, alt yüklenici, tedarikçi ve alt tedarikçilerinin faaliyetlerine yönelik gerçekleştirilecek güvenlik, emniyet ve nükleer güvenceye ilişkin denetim ve yerinde incelemeleri kapsar.
