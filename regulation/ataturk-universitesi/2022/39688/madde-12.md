@@ -1,0 +1,11 @@
+Ders kaydı
+MADDE 12- (1) Fakülteye kayıtlı öğrenciler, öğrenime devam etmek durumunda oldukları dönemin başında ve kayıt yenileme tarihlerinde, kayıtlarını yeniletmek zorundadırlar. Ders kayıt işlemlerinde sorumluluk tamamen öğrenciye aittir. Belirtilen sürelerde katkı payını ve/veya açıköğretim/uzaktan öğretim materyal ücretini yatırmayan ve ders kaydını yaptırmayan öğrenciler, o yarıyılda/yılda derslere devam edemez, sınavlara giremez ve öğrencilik haklarından yararlanamazlar.
+(2) Fakülteye ilk kez kayıt yaptırmış birinci sınıf öğrencilerinin birinci ve ikinci yarıyıl derslerine kayıtları, mali yükümlülüklerini yerine getirmiş olmaları kaydıyla, doğrudan Dekanlıkça yapılır. Ders veya ders grubu seçilmesi gereken sınıflarda ilgili yarıyıla ait materyal ücretini yatırmış ara sınıf öğrencilerinin FF olan derslerinin kaydı Dekanlıkça, yeni alınacak diğer derslerin kaydı öğrencilerin kendileri tarafından yapılır. Materyal ücretini yatıran ancak ders kaydını yapmayan/yapamayan öğrencilerin ders kayıtları alabilecekleri dersler arasından öncelikle alt yarıyıl derslerinden başlamak üzere 30 krediye kadar Dekanlıkça yapılır.
+(3) Öğrenciler, bir yarıyılda 30 krediyi geçmeyecek şekilde en fazla 10 ders alırlar. Bu şekilde alınacak dersler öğrencilerin bulundukları yarıyıl ve/veya alt yarıyıllardaki derslerden olabilir, üst yarıyıllardan ders alınamaz.
+(4) Yıl esasına göre yürütülen programlarda birinci sınıfın tüm derslerinden başarılı olamayan öğrenciler üçüncü sınıftan, ikinci sınıfın tüm derslerinden başarılı olamayan öğrenciler dördüncü sınıftan ders alamazlar. Yarıyıl esasına göre yürütülen programlarda ise;
+a) Birinci yarıyılın tüm derslerinden başarılı olamayan öğrenciler beşinci ve yedinci yarıyıllardan,
+b) İkinci yarıyılın tüm derslerinden başarılı olamayan öğrenciler altıncı ve sekizinci yarıyıllardan,
+c) Üçüncü yarıyılın tüm derslerinden başarılı olamayan öğrenciler yedinci yarıyıldan,
+ç) Dördüncü yarıyılın tüm derslerinden başarılı olamayan öğrenciler sekizinci yarıyıldan,
+ders alamazlar.
+(5) Üniversitesinin örgün öğretim programlarına kayıtlı öğrenciler, uzaktan eğitim yolu ile yürütülen eşdeğer derslere Senato tarafından uygun görülen kapsam ve koşullarda kayıt yaptırabilirler. Bu öğrenciler hakkında 2547 sayılı Kanunun 44 üncü maddesinde yer alan mali hükümler uygulanır.

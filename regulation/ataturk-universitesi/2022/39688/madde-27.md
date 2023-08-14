@@ -1,0 +1,3 @@
+Tebligat ve adrese bildirme
+MADDE 27- (1) Öğrencileri doğrudan ilgilendiren tüm idari işlemlere ait tebligatlar öğrencilerin kayıt sırasında bildirdikleri ya da sonradan güncelledikleri adrese posta, elektronik posta, kargo yoluyla ya da elektronik imzalı olarak Öğrenci Bilgi Sistemi üzerinden yapılır. Tüm öğrencileri ilgilendiren genel nitelikteki duyurular ise Fakültenin internet sayfasında ilan edilmek suretiyle yapılır.
+(2) Fakülteye kayıt yaptırırken bildirdikleri adresi değiştirdikleri halde, adres ve iletişim bilgilerini güncellemeyen, Fakülteye bildirmeyen ya da yanlış veya eksik adres veren öğrencilerin Fakültedeki mevcut adreslerine tebligatın gönderilmesi halinde, tebligat kendilerine yapılmış sayılır.

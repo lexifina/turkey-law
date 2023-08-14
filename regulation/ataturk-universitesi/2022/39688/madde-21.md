@@ -1,0 +1,3 @@
+Öğrenim süresi
+MADDE 21- (1) Kayıt yaptırdıkları yarıyıldan başlamak üzere öğrenciler; ön lisans ve lisans tamamlama için dört, lisans için yedi yıl süreyle öğrencilik haklarından yararlanabilir. Kayıt yenilenmeyen yıl/yarıyıllar azami öğrenim süresine dâhil edilir.
+(2) Kapatılan programlara kayıtlı öğrencilere mezun olabilmeleri için Yönetim Kurulu tarafından uygun bir süre tanınır. Bu süre sonunda mezun olamayan öğrencilerin istekleri üzerine program ile ilişikleri kesilir veya Yönetim Kurulu tarafından belirlenen bir programa yine Yönetim Kurulunca belirlenen koşullarla intibakları yapılır.

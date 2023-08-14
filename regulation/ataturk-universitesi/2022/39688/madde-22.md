@@ -1,0 +1,7 @@
+ALTINCI BÖLÜM
+Mezuniyet ve Diploma
+Mezuniyet ve diploma
+MADDE 22- (1) Kayıtlı olduğu ön lisans programında en az 120 AKTS kredilik ders alıp, tüm dersleri başarıyla tamamlayan, FF notu olmayan, AGNO’su en az 2,00 olan ve diğer yükümlülükleri yerine getiren öğrenciye, kayıtlı olduğu programın ön lisans diploması, lisans programında ise en az 240 AKTS kredilik ders alıp, tüm dersleri başarıyla tamamlayan, FF notu olmayan, AGNO’su en az 2,00 olan ve diğer yükümlülükleri yerine getiren öğrenciye kayıtlı olduğu programın lisans diploması verilir. Öğrencinin mezuniyet tarihi, başarılı olduğu son sınavının yapıldığı gündür. Ancak, bu tarihe kadar, uygulama, staj, endüstriye dayalı öğretim, bitirme ödevi, bitirme projesi, bitirme tezi, diploma çalışması, arazi çalışması ve diğer sebeplerle mezun olamayan öğrenciler, bu çalışmaların tamamlanarak kabul edildiği tarihte mezun olur.
+(2) Öğrencilere diploma ile birlikte sahip oldukları derece ve derecenin düzeyi, içeriği ve işlevi hakkında ayrıntılı bilgi içeren diploma eki verilir.
+(3) Lisans programının ilk dört yarıyılından en az 120 AKTS kredilik ders alarak başarılı olan ve AGNO’su 2,00 olan ve diğer yükümlülükleri yerine getiren öğrenciler programdan kaydını sildirmek koşuluyla ön lisans diploması alabilirler.
+(4) AGNO’ları 3,00 ile 3,49 arasında olan öğrenciler onur öğrencisi, 3,50 ile 4,00 arasında olan öğrenciler yüksek onur öğrencisi olarak mezun olurlar. Ancak, disiplin cezası alan öğrenciler belirtilen AGNO’yu sağlasalar bile onur öğrencisi veya yüksek onur öğrencisi olarak mezun olmazlar.

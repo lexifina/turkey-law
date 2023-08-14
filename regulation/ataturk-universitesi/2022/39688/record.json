@@ -1,0 +1,59 @@
+{
+  "checked_on": "2026-11-14",
+  "commencement_clauses": [
+    "MADDE 30- (1) Bu Yönetmelik 2022-2023 eğitim-öğretim yılı güz yarıyılı başında yürürlüğe girer."
+  ],
+  "date_evidence": [
+    [
+      "2022-08-29",
+      "29.08.2022",
+      "original gazette publication date in official listing"
+    ],
+    [
+      "2023-08-14",
+      "RG-14/8/2023-32279",
+      "latest source-printed gazette amendment date for current consolidated text"
+    ],
+    [
+      "2023-08-14",
+      "RG-14/8/2023-32279",
+      "latest source-printed gazette amendment date for current consolidated text"
+    ],
+    [
+      "2023-08-14",
+      "RG-14/8/2023-32279",
+      "latest source-printed gazette amendment date for current consolidated text"
+    ],
+    [
+      "2023-08-14",
+      "14/8/2023",
+      "latest gazette date in source amendment table"
+    ]
+  ],
+  "date_quote": "RG-14/8/2023-32279",
+  "first_law": null,
+  "gazette": "31938",
+  "history": "current-text",
+  "images": {
+    "deferred": 0,
+    "omitted": 0,
+    "referenced": 0,
+    "source": 0
+  },
+  "in_force": "2023-08-14",
+  "in_force_basis": "latest source-printed gazette amendment date for current consolidated text",
+  "issuer": "Atatürk Üniversitesi",
+  "issuer_slug": "ataturk-universitesi",
+  "kind": "regulation",
+  "label": "oldest version available",
+  "path": "regulation/ataturk-universitesi/2022/39688",
+  "published": "2022-08-29",
+  "source": "https://www.mevzuat.gov.tr/anasayfa/MevzuatFihristDetayIframe?MevzuatTur=8&MevzuatNo=39688&MevzuatTertip=5",
+  "source_bytes": 109209,
+  "source_id": "8.5.39688",
+  "source_sha256": "5448963dfc868e300767d307b9976134bb614be194b17a19c6bbd5e2814f5b16",
+  "text_status": "current-consolidated",
+  "title": "ATATÜRK ÜNİVERSİTESİ AÇIK VE UZAKTAN ÖĞRETİM FAKÜLTESİ EĞİTİM-ÖĞRETİM VE SINAV YÖNETMELİĞİ",
+  "university_id": 181,
+  "word_count": 2769
+}
