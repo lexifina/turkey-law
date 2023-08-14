@@ -1,0 +1,23 @@
+{
+  "number": "meeting-08-14",
+  "number_as_published": null,
+  "year": 2023,
+  "title": "14 Ağustos 2023 Tarihli Meclis Karar Özetleri",
+  "decision_date": "2023-08-14",
+  "source": "https://www.kayseri.bel.tr/karar-ozetleri/14-agustos-2023-tarihli-meclis-karar-ozetleri",
+  "official_document": "https://www.kayseri.bel.tr/uploads//karar-ozet/14-25-09-2023-15-07.pdf",
+  "source_sha256": "d353251aae9cb85108ec3e6a922629ebd446a88e415995e7041577a0e8840d17",
+  "issuer": "Kayseri Büyükşehir Belediye Meclisi",
+  "history_type": "metadata",
+  "text_status": "metadata-only: listing fields as published; complete decision text is in the linked official document, not transcribed",
+  "in_force": "2023-08-14",
+  "in_force_basis": "Decision date as printed in the official council listing: 14 Ağustos 2023; adoption date of the council decision; legal commencement not asserted",
+  "missing": [
+    "complete official decision text",
+    "official annexes"
+  ],
+  "law_text_complete": false,
+  "privacy_withheld": false,
+  "record_scope": "one official PDF of decision summaries per council meeting",
+  "listing": "https://www.kayseri.bel.tr/karar-ozetleri?page=4"
+}
