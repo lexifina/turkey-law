@@ -1,0 +1,21 @@
+{
+  "record_type": "parliament-written-question",
+  "term": 28,
+  "legislative_year": 1,
+  "esas_no": "7/3074",
+  "submitted": "2023-08-14",
+  "submitted_as": "Başkanlığa geliş tarihi",
+  "mp": "İskender BAYHAN",
+  "province": "İstanbul",
+  "summary": "7 Ağustos 2023'te Toprak Mahsulleri Ofisi Derince Liman Silosunda meydana gelen patlamaya ve olası kazalara karşı alınacak önlemlere ilişkin",
+  "status": "Süresi Geçtikten Sonra Cevaplandı",
+  "status_as_of": "2026-11-16",
+  "official_record": "https://www.tbmm.gov.tr/Denetim/Yazili-Soru-Onergesi-Detay/d295b3b4-43f1-42f8-9f60-0189f8e3c4bb",
+  "source": "https://tbmm.gov.tr/Denetim/YaziliSoruOnergesiTable",
+  "source_form": "https://tbmm.gov.tr/Denetim/Yazili-Soru-Onergeleri",
+  "source_sha256": "78049a21b85f6166c14ec350d19c481c3b6a4c53a20a3a67206fcbc3ba451084",
+  "in_force": "2023-08-14",
+  "in_force_basis": "Date the question reached the Speaker (Başkanlığa geliş tarihi) in the official TBMM written-question record; parliamentary oversight record, not law",
+  "history_type": "metadata",
+  "text_status": "metadata-only: question text, addressee and answers are in the linked official record (PDFs on cdn.tbmm.gov.tr); not transcribed here"
+}
