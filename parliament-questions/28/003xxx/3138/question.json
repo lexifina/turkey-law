@@ -1,0 +1,21 @@
+{
+  "record_type": "parliament-written-question",
+  "term": 28,
+  "legislative_year": 1,
+  "esas_no": "7/3138",
+  "submitted": "2023-08-14",
+  "submitted_as": "Başkanlığa geliş tarihi",
+  "mp": "Tahsin BECAN",
+  "province": "Yalova",
+  "summary": "Yalova'da 2003-2023 yılları arasındaki kızamık hastalığı aşılama çalışmalarına ilişkin",
+  "status": "Süresi Geçtikten Sonra Cevaplandı",
+  "status_as_of": "2026-11-16",
+  "official_record": "https://www.tbmm.gov.tr/Denetim/Yazili-Soru-Onergesi-Detay/33ad7c36-921f-4b2d-b263-0189f86467a4",
+  "source": "https://tbmm.gov.tr/Denetim/YaziliSoruOnergesiTable",
+  "source_form": "https://tbmm.gov.tr/Denetim/Yazili-Soru-Onergeleri",
+  "source_sha256": "2aaca55af5cabfce313aa5808861ce42ee6475b96a8886d9b091fcc7113c3a59",
+  "in_force": "2023-08-14",
+  "in_force_basis": "Date the question reached the Speaker (Başkanlığa geliş tarihi) in the official TBMM written-question record; parliamentary oversight record, not law",
+  "history_type": "metadata",
+  "text_status": "metadata-only: question text, addressee and answers are in the linked official record (PDFs on cdn.tbmm.gov.tr); not transcribed here"
+}
