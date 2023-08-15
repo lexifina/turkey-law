@@ -1,0 +1,21 @@
+{
+  "record_type": "parliament-written-question",
+  "term": 28,
+  "legislative_year": 1,
+  "esas_no": "7/3065",
+  "submitted": "2023-08-15",
+  "submitted_as": "Başkanlığa geliş tarihi",
+  "mp": "Yasin ÖZTÜRK",
+  "province": "Denizli",
+  "summary": "Bakanlığa bağlı kurum ve kuruluşların kullandığı kiralık binalara ilişkin",
+  "status": "Cevaplandı",
+  "status_as_of": "2026-11-16",
+  "official_record": "https://www.tbmm.gov.tr/Denetim/Yazili-Soru-Onergesi-Detay/4b6e3ada-f121-4a7a-94df-0189fe07df82",
+  "source": "https://tbmm.gov.tr/Denetim/YaziliSoruOnergesiTable",
+  "source_form": "https://tbmm.gov.tr/Denetim/Yazili-Soru-Onergeleri",
+  "source_sha256": "78049a21b85f6166c14ec350d19c481c3b6a4c53a20a3a67206fcbc3ba451084",
+  "in_force": "2023-08-15",
+  "in_force_basis": "Date the question reached the Speaker (Başkanlığa geliş tarihi) in the official TBMM written-question record; parliamentary oversight record, not law",
+  "history_type": "metadata",
+  "text_status": "metadata-only: question text, addressee and answers are in the linked official record (PDFs on cdn.tbmm.gov.tr); not transcribed here"
+}
