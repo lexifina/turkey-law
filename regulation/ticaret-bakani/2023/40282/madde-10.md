@@ -1,0 +1,2 @@
+İhraç edilemeyecek ürünler
+MADDE 10- (1) İhracatta mevzuata uygunluk ve ticari kalite denetimine tabi ürünler, söz konusu ürünlerin mevzuatına uygunluğunu gösteren belgelerin elektronik ortamda ya da kağıt ortamında bulunmaması, ilgili belgelerin süresinin geçmiş olması, ambalajlarının üzerinde gereken parti numarası ve diğer resmî işaretleme bilgilerinin bulunmaması ile 9 uncu maddede belirtilen komisyon kararlarına riayet edilmemesi durumlarında ihraç edilemez.

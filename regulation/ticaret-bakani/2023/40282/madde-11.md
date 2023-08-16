@@ -1,0 +1,9 @@
+ÜÇÜNCÜ BÖLÜM
+İhraç Edilen Ürünler
+Avrupa Birliği üyesi ülkelere ihraç edilen ürünler
+MADDE 11- (1) Avrupa Birliği üyesi ülkelere ihraç edilen ürünler, 7223 sayılı Kanunun 2 nci maddesinin ikinci fıkrası kapsamında piyasaya arz edilmiş sayılır.
+(2) Birinci fıkrada belirtilen ürünlerin denetimi, re’sen veya ilgili yetkili kuruluşun bilgilendirilmesi üzerine, iç piyasada piyasa gözetimi ve denetimi yoluyla 7223 sayılı Kanun, 9/7/2021 tarihli ve 4269 sayılı Cumhurbaşkanı Kararı ile yürürlüğe konulan Ürünlerin Piyasa Gözetimi ve Denetimine Dair Çerçeve Yönetmelik ve ilgili teknik düzenlemeler veya genel ürün güvenliği mevzuatında belirtilen usul ve esaslar çerçevesinde yapılır.
+(3) Yetkili kuruluşlar, ikinci fıkrada belirtilen denetim sonuçları hakkında Bakanlığı acilen bilgilendirir.
+(4) Avrupa Birliği piyasasına ihraç edilen bir ürünün, bir üye ülke yetkili kuruluşu tarafından uygunsuz olduğunun tespit edilmesi halinde; ikinci fıkra kapsamında yetkili kuruluş tarafından yürütülen piyasa gözetimi ve denetimi sonuçları esas alınır. Ancak yetkili kuruluş tarafından herhangi bir sebeple bu ürünlere ilişkin bir tespit yapılamaması halinde ilgili Avrupa Birliği üyesi ülkenin yetkili kuruluşunun ürüne ilişkin tespiti esas alınır.
+(5) Bakanlık, yetkili kuruluşça 7223 sayılı Kanun çerçevesinde uygulanan idari para cezaları ve alınan önleme ilave olarak, Teknik Düzenlemeler Rejimi Kararının 13 üncü maddesinin birinci fıkrası çerçevesinde gerekli görülen müeyyideleri uygular ve uygulanan müeyyidelere yönelik yetkili kuruluşu bilgilendirir.
+(6) Avrupa Birliği piyasasına ihraç edilen bir ürünün, bir üye ülke yetkili kuruluşu tarafından ikinci fıkrada belirtilen mevzuat kapsamına girmeyen bir uygunsuzluğunun tespiti halinde, Bakanlık, yapılacak inceleme neticesinde Teknik Düzenlemeler Rejimi Kararının 13 üncü maddesinin birinci fıkrası çerçevesinde gerekli görülen müeyyideleri uygular.

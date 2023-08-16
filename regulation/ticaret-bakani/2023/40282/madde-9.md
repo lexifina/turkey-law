@@ -1,0 +1,2 @@
+Komisyon kurulması
+MADDE 9- (1) Bakanlık; ihracatta mevzuata uygunluk ve ticari kalite denetimine tabi ürünlerden ihtiyaç duyulanların yetiştirildikleri bölge ve çeşidin özelliklerine göre ulaşım durumu da göz önüne alınarak, vardığı yerdeki pazar isteklerini karşılayacak olgunlukta ihraç edilebilmelerini sağlamak için gerekli görülen yerlerde kesim, toplama ve ihraç tarihlerini belirlemek üzere Bakanlıkça tespit edilecek ilgililerden oluşan bir komisyon kurmaya yetkilidir. İhracatçı firmalar komisyon kararlarına uymakla yükümlüdür.
