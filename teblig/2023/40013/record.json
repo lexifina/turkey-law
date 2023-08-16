@@ -1,0 +1,42 @@
+{
+  "source_id": "9.5.40013",
+  "kind": "communique",
+  "register_kind": "Tebliğler",
+  "title": "2023 YILI ÖZEL EĞİTİME İHTİYAÇ DUYAN BİREYLERE VERİLECEK EĞİTİM DESTEĞİ TUTARLARINA İLİŞKİN TEBLİĞ",
+  "number": "40013",
+  "issuer": "Hazine ve Maliye Bakanı",
+  "path": "teblig/2023/40013",
+  "source": "https://www.mevzuat.gov.tr/anasayfa/MevzuatFihristDetayIframe?MevzuatTur=9&MevzuatNo=40013&MevzuatTertip=5",
+  "source_sha256": "0366cb1acca2d824bbcde0b2f9616f719bec5c14686c8397a0951878ee816503",
+  "source_bytes": 22785,
+  "published": "2023-01-07",
+  "gazette": "32066",
+  "in_force": "2023-08-16",
+  "in_force_basis": "latest Resmî Gazete date printed in the source amendment notes/table (\"RG-16/8/2023\") for the current consolidated text",
+  "date_evidence": [
+    [
+      "2023-08-16",
+      "RG-16/8/2023",
+      "Resmî Gazete date printed in the source amendment note"
+    ],
+    [
+      "2023-08-16",
+      "16/8/2023",
+      "Resmî Gazete date in the source amendment table"
+    ]
+  ],
+  "commencement_clauses": [
+    "Bu Tebliğ 1/1/2023 tarihinden itibaren geçerli olmak üzere yayımı tarihinde yürürlüğe girer"
+  ],
+  "history": "current-text",
+  "label": "oldest version available",
+  "checked_on": "2026-11-15",
+  "word_count": 413,
+  "text_status": "current-consolidated",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  },
+  "completeness": "html-text-complete"
+}
