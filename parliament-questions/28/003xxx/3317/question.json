@@ -1,0 +1,21 @@
+{
+  "record_type": "parliament-written-question",
+  "term": 28,
+  "legislative_year": 1,
+  "esas_no": "7/3317",
+  "submitted": "2023-08-16",
+  "submitted_as": "Başkanlığa geliş tarihi",
+  "mp": "Perihan KOCA DOĞAN",
+  "province": "Mersin",
+  "summary": "Adana ilindeki elektrik dağıtım altyapısının yetersizliğine ilişkin",
+  "status": "Cevaplandı",
+  "status_as_of": "2026-11-16",
+  "official_record": "https://www.tbmm.gov.tr/Denetim/Yazili-Soru-Onergesi-Detay/b633d95c-5d95-4ef1-8929-018a0295a665",
+  "source": "https://tbmm.gov.tr/Denetim/YaziliSoruOnergesiTable",
+  "source_form": "https://tbmm.gov.tr/Denetim/Yazili-Soru-Onergeleri",
+  "source_sha256": "1d228536e653a88284a602f324e29b092ba0f5e89d3903204892cb137974933d",
+  "in_force": "2023-08-16",
+  "in_force_basis": "Date the question reached the Speaker (Başkanlığa geliş tarihi) in the official TBMM written-question record; parliamentary oversight record, not law",
+  "history_type": "metadata",
+  "text_status": "metadata-only: question text, addressee and answers are in the linked official record (PDFs on cdn.tbmm.gov.tr); not transcribed here"
+}
