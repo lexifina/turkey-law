@@ -1,0 +1,5 @@
+Katılımcılara yapılacak ödeme, sosyal güvenlik ve vergi işlemleri
+MADDE 13- (1) Her bir katılımcıya yapılacak ödeme, 22/5/2003 tarihli ve 4857 sayılı İş Kanunu hükümleri çerçevesinde asgari ücret tespit komisyonu tarafından belirlenen günlük asgari ücret miktarının katılım sağlanan gün sayısı ile çarpımı sonucu bulunacak miktardan oluşur. Ödemeler, bir ay kesintisiz katılım sağlayanlar için otuz gün üzerinden yapılır. Katılım sağlanmayan gün bulunması halinde yapılacak ödeme, katılım sağlanmayan gün sayısının ilgili aydaki takvim gün sayısından düşülmesi sonucu bulunan gün sayısı üzerinden hesaplanır.
+(2) Yapılacak ödemenin hesaplanmasında, hafta tatili ve resmi tatil günleri de dikkate alınır ve bu günlere ait ücret tam ödenir.
+(3) Vergi ve sosyal güvenlik prim giderleri katılımcıya yapılacak ödemeler üzerinden hesaplanarak bu gider kalemine ilave edilir.
+(4) Vergi ve sosyal güvenlik primlerinin bildirimi ve ödenmesi süreçlerinde ortaya çıkabilecek her türlü gecikme cezası, gecikme zammı veya diğer idari para cezalarından yüklenici kurum sorumludur.

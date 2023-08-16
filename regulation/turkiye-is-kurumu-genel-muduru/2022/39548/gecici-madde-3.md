@@ -1,0 +1,2 @@
+Yürürlükten kaldırılan yönetmelik kapsamındaki iş ve işlemler
+GEÇİCİ MADDE 3- (1) Bu Yönetmeliğin yayımı tarihinden önce sözleşme ilişkisi kurulan TYP’ler ile başlatılan iş ve işlemler sonuçlanana kadar Aktif İşgücü Hizmetlerinin Yürütülmesine İlişkin Usul ve Esaslar Hakkında Yönetmeliğin 63 üncü maddesiyle yürürlükten kaldırılan Aktif İşgücü Hizmetleri Yönetmeliği ve buna dayanılarak hazırlanan ilgili mevzuat uygulanmaya devam olunur.
