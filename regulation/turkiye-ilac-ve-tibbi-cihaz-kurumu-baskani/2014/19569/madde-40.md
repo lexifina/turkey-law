@@ -1,0 +1,4 @@
+Ecza maddelerinin saklanması
+MADDE 40 – (1) Bütün kimyevi ilaç hammaddeleri, hazır ilaçlar, aşı ve serumlar, Farmakopedeki özellikleri ve ambalaj üzerindeki muhafaza şartları göz önüne alınarak gerektiği gibi saklanır. Bu sebeple eczane ortamının sıcaklık ve neminin saklama şartlarına uygun olması gerekir.
+(2) Brom, iyot, asit, alkalen gibi etiketleri bozan malzemelerin bulunduğu şişelerin etiketlerinin, çıkmayacak ve bozulmayacak şekilde olması gerekir. Bozulan ve kirlenen etiketler yenilenir. Kimyevi maddelerin ambalajları üzerinde parti numarası, imal ve son kullanma tarihi, üretim yeri ve saklama koşulları belirtilir.
+(3) İlgili bakanlıktan izin, ruhsat veya fiyat alınarak üretilen veya ithal edilen gıda takviyeleri, eczacılık ve ziraatta kullanılan ilaç, kimyevi madde ve diğer sağlık ürünleri ve veteriner biyolojik ürünler hariç veteriner tıbbi ürünlerin birbirini etkilemeyecek şekilde ayrı dolaplar içinde tutulması gerekir.

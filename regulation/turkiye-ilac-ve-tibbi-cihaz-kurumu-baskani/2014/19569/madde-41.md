@@ -1,0 +1,3 @@
+Miadlı ilaçlar ve sorumluluk
+MADDE 41 – (1) Eczane sahip ve mesul müdürü, ilaçların miadını düzenli olarak kontrol eder. Bozulan ve miadı geçen ilaçları imha edilmek üzere satıştan kaldırması, ayrı bir alanda saklaması gerekir.
+(2) (Değişik:RG-14/3/2023-32132) Miadı geçen veyahut kullanılamaz hâle gelmiş olan ilaçlar, eczane sahip veya mesul müdürü tarafından listelenir ve bu ilaçların imhası için il sağlık müdürlüğüne başvuru yapılır. İl sağlık müdürlüğü yetkilisi ve eczacı odası temsilcisi ile beraber tutanak düzenlenerek ilaçların imhası ilgili mevzuat doğrultusunda yapılır veya yaptırılır ve keyfiyet vergi dairesine bildirilir. Düzenlenen tutanak istendiğinde ibraz edilmek üzere eczanede muhafaza edilir.

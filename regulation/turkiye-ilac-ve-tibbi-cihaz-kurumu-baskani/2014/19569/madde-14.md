@@ -1,0 +1,3 @@
+Eczacının eczanede bulunma zorunluluğu
+MADDE 14 – (1) Eczanenin hizmet verdiği saatlerde mesul müdür eczacı, varsa ikinci eczacı ve yardımcı eczacıların görevi başında bilfiil bulunması gerekir.
+(2) Hastalık ve sair mazeretlerle eczanesinden 24 saatten fazla süreyle ayrılmak zorunda kalan eczacı veya mesul müdür keyfiyeti il veya ilçe sağlık müdürlüğüne bir yazıyla veya kayıtlı elektronik posta ile bildirir. Ayrılış müddeti on beş güne kadar devam edecekse eczaneye varsa ikinci eczacı ya da yardımcı eczacı, yoksa il sağlık müdürlüğüne bildirilmek koşulu ile eczanesi bulunmayan bir eczacı, yoksa muvafakatı alınarak mahallin serbest tabibi nezaret eder.

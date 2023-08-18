@@ -1,0 +1,2 @@
+Mevcut eczaneler
+GEÇİCİ MADDE 1 (1) – (1) Bu Yönetmelik yürürlüğe girmeden önce eczane ruhsatnamesi almış eczacılar ile eczane açmak, nakletmek veya devretmek üzere yapılmış başvuruları henüz sonuçlandırılmamış olan eczacılar, 20 nci maddenin birinci, ikinci ve dördüncü fıkraları hükmü hariç olmak üzere, Yönetmeliğin diğer hükümleri ile öngörülen gerekleri en geç yirmi dört ay içerisinde yerine getirmek zorundadır. Aksi takdirde, durumlarının bu Yönetmeliğe uymadığı yapılacak kontrol ve denetim neticesinde anlaşılan eczanelerin faaliyetleri durdurulur. (1)

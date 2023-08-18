@@ -1,0 +1,2 @@
+Eczanelerin çalışma düzeni
+MADDE 34 – (1) Alışveriş merkezlerindekiler de dahil olmak üzere eczaneler bağlı olduğu bölgedeki eczane çalışma gün ve açılış kapanış saatlerine uymak zorundadır. Birden fazla eczane bulunan yerlerde, belirlenen çalışma saatleri dışında ve resmî tatil günlerinde yalnız nöbetçi eczaneler açık kalır. Nöbetçi eczane dışındaki eczaneler nöbet saatlerinde faaliyet gösteremezler.

@@ -1,0 +1,4 @@
+Mesul müdür atanması
+MADDE 15 – (1) Hastalık veya sair mazeretlerle eczacının, eczanesinden ayrılış müddeti on beş günü aştığı takdirde eczaneye mesul müdür tayini gerekir. Aksi takdirde eczane kapatılır.
+(2) Eczane sahip ve mesul müdürü iken askerlik hizmetini yapmak üzere silah altına alınanlar askerlik hizmeti süresince; yüksek lisans veya doktora eğitimi alacaklar bu eğitim süresince; milletvekili, belediye başkanı, Türk Eczacıları Birliği Başkanlık Divanı üyeleri bu görevleri devam ettiği müddetçe eczaneye bir mesul müdür atar.
+(3) Yüksek lisans ve doktora eğitimini çalışma saatleri dışında yaptığına dair belgeleri il sağlık müdürlüğüne ibraz edenler bakımından mesul müdür atanması gerekmez. Bu hükmün yürürlüğe girdiği tarihte yüksek lisans ve doktora eğitimine hak kazanmış bulunanlar bakımından mesul müdür atanması zorunlu değildir.

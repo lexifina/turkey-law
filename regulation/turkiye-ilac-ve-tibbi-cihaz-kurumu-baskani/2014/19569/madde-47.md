@@ -1,0 +1,5 @@
+Denetimin şekli
+MADDE 47 – (1) Eczaneler, yılda en az iki defa zorunlu olmak üzere gerekli görülen hâllerde denetlenir. Denetime yetkili olanlar, eczanelerde yürürlükte bulunan ilgili mevzuat hükümlerine uyulup uyulmadığını Kurumca düzenlenen denetim formuna göre tespit ederler.
+(2) Yapılan denetim sonucu eksiklik tespit edilmesi hâlinde, eczacıya en fazla on iş günü süre verilerek eksikliklerin giderilmesi istenir. Bu sürenin sonunda eksikliklerin giderilip giderilmediği hususunda yerinde tekrar denetim yapılır. Eksikliklerin giderilmemiş olması hâlinde eczacıya ihtâren beş iş günü ek süre verilir. Verilen sürenin sonunda eksikliklerin giderilmemesi durumunda Kanunun 45 inci maddesine göre işlem yapılır.
+(3) Eczanede tespit edilen eksiklik ya da mevzuata aykırılıkların, ceza uygulamasına rağmen bir sonraki denetimde giderilmemesi hâlinde eksiklik tamamlanıncaya kadar ruhsat askıya alınır.
+(4) (Ek:RG-28/3/2016-29667) Yapılan denetimlerde eczacının sağlık durumunda eczacılık mesleğini yapmasına engel teşkil edecek değişiklikler olduğunun görülmesi halinde sağlık raporlarının veya gerek görülmesi durumunda adli sicil kaydının güncellenmesi istenir.
