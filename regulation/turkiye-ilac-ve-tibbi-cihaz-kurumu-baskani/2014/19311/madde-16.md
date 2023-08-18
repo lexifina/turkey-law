@@ -1,0 +1,2 @@
+Mesul müdürün değişmesi
+MADDE 16 – (1) Mesul müdürün görevine son verilmesi, istifası, mesul müdürlük şartlarını herhangi bir şekilde kaybetmesi veya vefatı gibi hallerde müessese sahibi tarafından, böyle bir durumun ortaya çıkmasından itibaren beş gün, vefatta ise on beş gün içerisinde il müdürlüğüne bildirimde bulunulması ve en geç bir ay içerisinde de yeni bir mesul müdür görevlendirilmesi gerekir.

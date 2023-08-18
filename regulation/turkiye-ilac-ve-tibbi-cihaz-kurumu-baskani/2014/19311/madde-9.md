@@ -1,0 +1,3 @@
+Müessesenin nakli ve devri
+MADDE 9 – (1) Optisyenlik müessesesinin aynı il içerisinde başka bir adrese nakli halinde, sahibi veya mesul müdürü tarafından müessese olarak kullanılmak istenilen yerin adresinin de belirtildiği bir nakil talep dilekçesi ile birlikte 7 nci maddenin ikinci fıkrasının (f) ve (ğ) bentlerinde belirtilen belgeler il müdürlüğüne sunulur.
+(2) Müessesenin devri halinde, devir alacak gerçek veya tüzel kişi; devir senedi, bir dilekçe ve 7 nci maddenin ikinci fıkrasında belirtilen belgeleri içeren bir dosya ile il müdürlüğüne başvurur. Başvurunun belirlenen şartlara uygun olması halinde ilgili adına yeni ruhsatname düzenlenir ve 8 inci maddenin yedinci fıkrasında belirtilen işlemler yapılır.

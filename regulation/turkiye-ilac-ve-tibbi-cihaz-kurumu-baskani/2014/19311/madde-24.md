@@ -1,0 +1,4 @@
+Tanıtım ve reklam
+MADDE 24 – (1) Optisyenlik müesseselerinin gerçeğe aykırı reklâmı yapılamaz.
+(2) Optisyenlik müesseseleri tabelaları, vitrinleri ile basılı ve elektronik ortam materyallerinde, ruhsatnamesinde kayıtlı optisyenlik müessesesi ismi dışında başka bir isim kullanamaz. Müessese vitrininde faaliyeti ile ilgili bilgileri, satışını yaptığı optik ürünler ile bu ürünlerin fiyatları ve anlaşma yapılan kurumların isimleri belirtilebilir.
+(3) (Ek:RG-3/6/2021-31500) Optisyenlik müesseseleri tarafından piyasaya arz edilen veya piyasada bulundurulan tıbbi cihazların uzaktan iletişim aracı vasıtasıyla ticareti, reklamı, bilgilendirme, klinik destek ve tanıtım faaliyetleri ile Kurumca belirlenen kayıt ve bilgi yönetim sistemlerine yönelik kayıt işlemleri 15/5/2014 tarihli ve 29001 sayılı Resmî Gazete’de yayımlanan Tıbbi Cihaz Satış, Reklam ve Tanıtım Yönetmeliğine uygun olarak yapılır.

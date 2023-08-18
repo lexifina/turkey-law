@@ -1,0 +1,5 @@
+Reçete kayıt defteri
+MADDE 19 – (1) Optisyenlik müessesesinde, ek-4’te gösterilen ve il müdürlüğü tarafından yaprak adedi tasdik edilmiş reçete kayıt defteri kullanılması zorunludur.
+(2) Müesseselere gelen gözlük ve kontakt lens reçeteleri, hasta onayından sonra mesul müdür tarafından tarih konulup imzalanır ve reçete kayıt defterine aynı gün kaydedilir.
+(3) Kayıtlar, elektronik ortamda da tutulabilir. Hastaların bilgilerine ait gerekli kayıtların elektronik ortamda saklanmasının, değiştirilmesinin ve silinmesinin önlenmesi ve gizliliğin ihlal edilmemesi için fiziki, manyetik veya elektronik müdahalelere ve olası suistimallere karşı gerekli idari ve teknik tedbirlerin alınması halinde, birinci fıkrada belirtilen yazılı kayıt şartı aranmaz. Bu konudaki gerekli idari ve teknik tedbirlerin alınmasından ve periyodik olarak denetlenmesinden mesul müdür sorumludur. Elektronik ortamdaki veriler, güvenli yedekleme sistemiyle düzenli olarak yedeklenir.
+(4) Elektronik ortamdaki kayıtların, denetim veya başkaca resmî amaçla istendiğinde, bilgisayar ekranında izlenen verilerle daha önceki çıktıların tutarlılık göstermesi zorunludur.
