@@ -1,0 +1,4 @@
+İstisnai hükümler (Değişik başlık:RG-18/8/2023-32283)
+MADDE 24/A – (Ek:RG-10/5/2018-30417)
+(1) Ismarlama protez ve ortez merkezleri, ısmarlama olarak üretilen protez ve ortezlere ek olarak EK-9’da belirtilen hazır tıbbi cihazları da satabilirler.
+(2) (Ek:RG-18/8/2023-32283) Dünya Sağlık Örgütü veya Avrupa Birliği tarafından tanınan veya Bakanlıkça kabul edilen pandemi, biyolojik tehdit ile deprem, sel, yangın gibi doğal afet durumlarında veya toplumun tamamının veya belli kesimlerinin normal hayat ve faaliyetlerini durduran veya kesintiye uğratan ciddi halk sağlığı sorunlarında ısmarlama protez ve ortez merkezleri ile işitme cihazı merkezlerine ve bu merkezlerin reklam veya tanıtım faaliyetlerine ilişkin olarak Türkiye İlaç ve Tıbbî Cihaz Kurumu tarafından geçici olarak istisnalar getirilebilir.

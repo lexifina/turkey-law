@@ -1,0 +1,2 @@
+Tanıtım ve reklam
+MADDE 14 – (1) Merkezin faaliyetleri ile ilgili her türlü tanıtım ve reklam, 15/2/2011 tarihli ve 6112 sayılı Radyo ve Televizyonların Kuruluş ve Yayın Hizmetleri Hakkında Kanuna, 23/2/1995 tarihli ve 4077 sayılı Tüketicinin Korunması Hakkında Kanuna, 29/6/2001 tarihli ve 4703 sayılı Ürünlere İlişkin Teknik Mevzuatın Hazırlanması ve Uygulanmasına Dair Kanuna ve ilgili diğer mevzuatlara uygun şekilde yapılır.
