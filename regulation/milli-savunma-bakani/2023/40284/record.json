@@ -1,0 +1,31 @@
+{
+  "source_id": "7.5.40284",
+  "kind": "regulation",
+  "register_kind": "Kurum ve Kuruluş Yönetmelikleri",
+  "title": "MİLLÎ SAVUNMA ÜNİVERSİTESİ ÖĞRETİM PROGRAMLARI, MATERYALLERİ, ORTAMLARI, ARAŞTIRMA VE UYGULAMA GELİŞTİRME MERKEZİ YÖNETMELİĞİ",
+  "number": "40284",
+  "issuer": "Millî Savunma Bakanı",
+  "issuer_slug": "milli-savunma-bakani",
+  "path": "regulation/milli-savunma-bakani/2023/40284",
+  "source": "https://www.mevzuat.gov.tr/anasayfa/MevzuatFihristDetayIframe?MevzuatTur=7&MevzuatNo=40284&MevzuatTertip=5",
+  "source_sha256": "00afa9e3a17bc81a42381000ddc3e448fcbf3beb6457f8e5dc7ec6e45274dce0",
+  "source_bytes": 34569,
+  "published": "2023-08-18",
+  "gazette": "32283",
+  "in_force": "2023-08-18",
+  "in_force_basis": "Resmî Gazete publication date in the official listing (18.08.2023); own commencement article: \"Bu Yönetmelik yayımı tarihinde yürürlüğe girer\"",
+  "commencement_clauses": [
+    "Bu Yönetmelik yayımı tarihinde yürürlüğe girer"
+  ],
+  "history": "current-text",
+  "label": "oldest version available",
+  "checked_on": "2026-11-15",
+  "word_count": 1603,
+  "text_status": "current-consolidated",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  },
+  "completeness": "html-text-complete"
+}
