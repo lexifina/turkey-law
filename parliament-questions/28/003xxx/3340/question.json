@@ -1,0 +1,21 @@
+{
+  "record_type": "parliament-written-question",
+  "term": 28,
+  "legislative_year": 1,
+  "esas_no": "7/3340",
+  "submitted": "2023-08-18",
+  "submitted_as": "Başkanlığa geliş tarihi",
+  "mp": "Ömer Faruk GERGERLİOĞLU",
+  "province": "Kocaeli",
+  "summary": "Genel sağlık sigortası prim borcu olan kişilere ilişkin",
+  "status": "Süresi Geçtikten Sonra Cevaplandı",
+  "status_as_of": "2026-11-16",
+  "official_record": "https://www.tbmm.gov.tr/Denetim/Yazili-Soru-Onergesi-Detay/78abbe34-def5-48ee-97f7-018a181d7989",
+  "source": "https://tbmm.gov.tr/Denetim/YaziliSoruOnergesiTable",
+  "source_form": "https://tbmm.gov.tr/Denetim/Yazili-Soru-Onergeleri",
+  "source_sha256": "1d228536e653a88284a602f324e29b092ba0f5e89d3903204892cb137974933d",
+  "in_force": "2023-08-18",
+  "in_force_basis": "Date the question reached the Speaker (Başkanlığa geliş tarihi) in the official TBMM written-question record; parliamentary oversight record, not law",
+  "history_type": "metadata",
+  "text_status": "metadata-only: question text, addressee and answers are in the linked official record (PDFs on cdn.tbmm.gov.tr); not transcribed here"
+}
