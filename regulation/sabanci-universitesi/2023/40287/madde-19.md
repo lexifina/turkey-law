@@ -1,0 +1,2 @@
+Sınav sonuçlarına itiraz
+MADDE 19- (1) Öğrenciler, sınav sonuçlarının ilanından itibaren en geç 5 iş günü içinde, yazılı olarak enstitüye başvurarak ara sınav veya dönem sonu sınavı kağıdının tekrar incelenmesini isteyebilir. Enstitüye iletildiği tarihten itibaren en geç 5 iş günü içinde, ilgili öğretim üyesi, sınav kağıdını inceleyerek sonucu enstitü müdürüne bildirir. Notlarda yapılacak düzeltme, 23 üncü madde çerçevesinde gerçekleştirilir.

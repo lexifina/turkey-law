@@ -1,0 +1,2 @@
+İzinli sayılma
+MADDE 40- (1) Öğrenciler, belgelemek koşulu ile sağlık, maddi, ailevi, kişisel, akademik, beklenmedik ani olaylar gibi nedenlerle dönem izni için başvurabilir. Ayrıca öğrencinin, askere alınması, göz altına alınması, tutuklanması veya mahkumiyeti durumunda; söz konusu durumun meydana gelmesinden veya bitiminden itibaren 2 ay içerisinde başvurması halinde; 41 inci maddede belirtilen izin süreleri ile sınırlı olmak üzere, ilgili enstitü yönetim kurulu kararıyla, öğrenci bu durumun başlangıcından itibaren izinli sayılabilir.

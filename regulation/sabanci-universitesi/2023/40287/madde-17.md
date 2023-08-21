@@ -1,0 +1,3 @@
+Derslerin kredi değerleri
+MADDE 17- (1) Derslerin kredi değerleri, AKTS ve SÜ kredisi olarak düzenlenir.
+(2) Bir lisansüstü dersin SÜ kredisi, haftalık ders saatinin tamamı ile haftalık uygulama saatinin yarısının toplamıdır. Bir dersin AKTS kredi değeri ise; Türkiye Yükseköğretim Yeterlilikler Çerçevesinde yedinci ve sekizinci düzeyler için belirlenen ve program bazında öngörülen bilgi, beceri ve yetkinliklerin kazandırılmasına dayalı haftalık öğrenci iş yükünü temsil eder. Lisansüstü derslerinin kredi değerleri, bu ilkeler çerçevesinde ilgili enstitü kurulu tarafından belirlenir. İsteğe bağlı yaz döneminde her ders için, sonbahar ve ilkbahar dönemlerinde yapılan toplam ders saati kadar ders yapılır.

@@ -1,0 +1,2 @@
+Yüksek lisans programları arasında geçiş
+MADDE 8- (1) Tezli ve tezsiz yüksek lisans programları arasındaki geçişler, enstitü yönetim kurulu onayı ile yapılır. Öğrencinin, kayıtlı olduğu programda en az bir dönemini tamamlamış olması ve geçmek istediği dönem için belirlenen programın asgari başvuru koşullarını ve kontenjan şartını sağlaması gerekir. Bu durumda, tezli ve tezsiz yüksek lisans programında alınan ve enstitü yönetim kurulu tarafından uygun bulunan dersler geçmek istediği tezli veya tezsiz yüksek lisans programındaki derslerin yerine sayılabilir.

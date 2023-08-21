@@ -1,0 +1,2 @@
+Notların açıklanması ve not belgeleri
+MADDE 22- (1) Akademik takvimde belirtilen süre içinde, öğretim üyeleri tarafından verilen notlar, Öğrenci Kaynakları Biriminin sorumluluğunda olan öğrenci kayıtlarına işlendikten sonra, akademik durumu belirten transkript ile açıklanır. Üniversitede öğrenim gören tüm öğrencilerin lisansüstü programa ilk kayıt yaptırdıkları tarihten başlayarak öğrenimleri süresince aldıkları dersler, notları ve akademik durumları transkript üzerinde gösterilir ve öğrencinin talebi üzerine Öğrenci Kaynakları Birimi tarafından düzenlenir.

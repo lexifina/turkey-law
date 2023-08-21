@@ -1,0 +1,2 @@
+Ders tekrarı
+MADDE 27- (1) Lisansüstü programlarda zorunlu bir dersten F, U, NA, D, D+, C- notu alan öğrencilerin, bu dersi tekrar almaları gerekir. Öğrenciler, seçmeli dersleri de talep etmeleri halinde tekrar alabilirler. Tekrarlanan derslerde, daha önce alınmış olan dersin toplam puanı, GNO hesaplarından düşürülür ve en son alınan dersin toplam puanı, GNO hesaplamalarına katılır. Ancak öğrencinin kayıt yaptırdığı tüm dersler transkriptte gösterilir. Notu, B veya B’den daha yüksek olan dersler tekrarlanamaz.

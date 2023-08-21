@@ -1,0 +1,5 @@
+İzinli ayrılma
+MADDE 43- (1) Öğrencilerin Üniversiteden izinli ayrılmalarına ilişkin esaslar aşağıda belirtilmiştir:
+a) Derslerin başlamasını takip eden dördüncü haftanın son iş gününe kadar izin başvurusu yapan ve başvurusu kabul edilen öğrencinin izninin işleme alınabilmesi için; bir dönem izin aldıysa o döneme ait ödemekle yükümlü olduğu dönem öğrenim ücretinin %25’ini, iki dönem izin aldıysa o iki döneme ait ödemekle yükümlü olduğu öğrenim ücretinin %25’ini ödemesi gerekir.
+b) İzin başvurusu yapan ve izni onaylanan öğrencinin, izninin işleme alınması ve ödemekle yükümlü olduğu miktardan fazla ödemiş olduğu ücretin iadesinin yapılabilmesi için; Üniversiteye herhangi bir borcunun olmaması gerekir. Öğrencilerin izin aldıkları dönemler için ödemiş oldukları ücretler, sonraki dönem ücretlerine mahsup edilmez. İzni onaylanan ve ücret ödemesine ilişkin yükümlülüğünü yerine getiren öğrencinin ilgili dönemde almış olduğu dersler dönem kaydından düşürülür.
+c) İzinli öğrencilerin, izinli oldukları süre içerisinde hangi öğrencilik haklarından ve Üniversitenin sağladığı hangi imkanlardan yararlanabileceği Üniversitece belirlenir.

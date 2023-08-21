@@ -1,0 +1,2 @@
+İzin süreleri
+MADDE 41- (1) Lisansüstü öğrencilerine bir defada en çok iki dönem olmak üzere; doktora ve tezli yüksek lisans programları için toplam dört dönem ve tezsiz yüksek lisans programları için de toplam iki dönem izin verilebilir. Bilimsel hazırlık programında kayıtlı öğrenciler için en çok iki dönem izin verilebilir. İzinli geçen süreler öğrenim sürelerine dahil edilmez. İsteğe bağlı yaz dönemi, izin süresi hesaplamalarına katılmaz.

@@ -1,0 +1,2 @@
+İzinden dönüş
+MADDE 44- (1) Öğrenciler, izinlerinin bitimini izleyen dönemde, gerekli ücretleri ödemeleri ve Üniversitece belirlenen diğer yükümlülüklerini yerine getirmeleri halinde, ders kayıtlarını yaptırarak öğrenimlerine devam ederler. İzni devam ederken Üniversiteye dönmek isteyen öğrencinin, ders kayıtları başlamadan önce ilgili enstitüye bir dilekçe ile başvurması gerekir. Enstitü yönetim kurulunun onayı ile izinden geri dönen öğrencinin, ödemekle yükümlü olduğu dönem öğrenim ücretinden, daha önce aynı dönem için ödemiş olduğu izin ücreti düşülür.
