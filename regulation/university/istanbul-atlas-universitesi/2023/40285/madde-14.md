@@ -1,0 +1,2 @@
+Yabancı dil yeterlik ve seviye tespit sınavları
+MADDE 14- (1) Yabancı dille eğitim-öğretim yapılan diploma programlarına kayıt yaptıran öğrenciler, kayıt yaptırdıkları diploma programının öğretim diline ilişkin yabancı dil seviye tespit ve yeterlik sınavına tabi tutulurlar. Yabancı dil öğretimine ilişkin diğer konular, Üniversite tarafından çıkarılan ilgili yönerge hükümlerine uygun olarak Senato tarafından belirlenir.

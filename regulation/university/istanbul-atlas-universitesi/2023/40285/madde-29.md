@@ -1,0 +1,5 @@
+Yılsonu ve bütünleme sınavları değerlendirmesi
+MADDE 29- (1) Yılsonu sınavı; yılsonu sınavlarının tarihleri akademik takvimde belirlendiği şekilde uygulanır. Sınavların yapılacağı yer ve saat en geç sınavlardan bir hafta önce ilan edilir.
+(2) Bütünleme sınavı; yılsonu sınavında başarısız olan öğrenciler için, aynı sınav döneminde yapılan sınavdır.
+(3) Yılsonu başarı notu, kurul sınavları aritmetik not ortalamasının %60'ı ve yılsonu sınavı veya bütünleme sınavı notunun %40'ının toplamı sonucu elde edilir. Yarıyıl sonu ve bütünleme sınavından 50 puan altında alınması durumunda öğrenci başarısız sayılır. Yılsonu başarı notu 100 üzerinden 60’tır.
+(4) Kurul sınavları aritmetik not ortalaması 80 ve üzeri olan öğrenciler yılsonu sınavlarına girmeksizin bir üst sınıfa geçerler. Bu ortalama notu yılsonu başarı notu olarak kabul edilir. Bu koşulu sağlayan öğrencilerden yılsonu sınavına girmek isteyenler dilekçe ile Dekanlığa başvurmaları halinde sınava girebilirler. Bu durumda öğrencilerin en son girdikleri sınav notu değerlendirmeye alınır.

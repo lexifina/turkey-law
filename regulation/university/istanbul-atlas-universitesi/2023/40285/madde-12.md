@@ -1,0 +1,4 @@
+Eğitim-öğretim dönemleri ve akademik takvim
+MADDE 12- (1) Fakültenin eğitim-öğretim süresi, her biri en az 32 haftadan oluşan bir ders yılını kapsayan toplam altı ders yılından oluşur. Her bir yıl 60 AKTS kredisi olup, tıp fakültesi eğitim-öğretimi toplamı 360 AKTS kredisidir. Fakültede entegre (tümleşik) eğitim modeli uygulanır. Fakülte Kurulu, gereken hallerde eğitim-öğretim sürelerinin uzatılması konusunda Senatoya öneri sunabilir.
+(2) Akademik takvim, akademik yıla ilişkin kayıt, ders, sınav ve benzeri faaliyetleri kapsar ve Fakülte Kurulu tarafından hazırlanır ve Senatonun onayıyla uygulamaya konur.
+(3) Mücbir sebep olarak kabul edilebilecek deprem, salgın, savaş, seferberlik, terör ve benzeri olağan dışı durumlarda ve bunların etkisinin devam ettiği süreçlerde; eğitim ve öğretimin devamının sağlanabilmesi ve öğrenci mağduriyetlerinin önlenebilmesi amacıyla, eğitim-öğretime ilişkin esas ve sürelerde değişiklik yapmaya, yeni kararlar almaya Senato yetkilidir.

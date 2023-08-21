@@ -1,0 +1,4 @@
+Devam
+MADDE 22- (1) Ders kurullarındaki pratik ders, tartışma, seminer, saha ve klinik çalışmaları gibi uygulamalı derslere ve teorik derslere devam zorunludur.
+(2) Birinci, ikinci ve üçüncü dönemlerin ilgili ders kurulunda yer alan teorik derslerin %70’ine devam sağlamadığı belirlenen öğrenci, ilgili ders kurulu kapsamında yapılan teorik sınava giremez. Ders kurulunda yer alan herhangi bir anabilim dalı pratiğinde %80 devam sağlamadığı belirlenen öğrenci, o ders kurulu sınavı kapsamında yapılan ilgili anabilim dalı pratik sınavına giremez. Anabilim dalının zorunlu gördüğü hallerde %20’den az olan pratik uygulamalarındaki devamsızlık anabilim dalı tarafından öğrenciye telafi ettirilir.
+(3) Dördüncü, beşinci ve altıncı dönemlerde stajların her birinin %20 ve fazlasına mazeretli olsa dahi katılmayan öğrenci, o stajdan başarısız kabul edilir ve stajı tekrarlar. %20’den az olan devamsızlık anabilim dalı tarafından öğrenciye telafi ettirilir.

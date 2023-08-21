@@ -1,0 +1,2 @@
+Öğretim dili
+MADDE 13- (1) Yabancı dil zorunluluğu olduğu belirtilen programların dışında, Fakültede öğretim dili Türkçedir. Senatonun önerisi üzerine Mütevelli Heyet kararı ve YÖK onayı ile Fakültenin bazı diploma programlarında kısmen veya tamamen yabancı dille eğitim-öğretim yapılmasına karar verilebilir. Hangi programlarda yabancı dil ile eğitim-öğretim yapılabileceği ÖSYM kılavuzunda belirtilir.
