@@ -1,0 +1,43 @@
+{
+  "source_id": "7.5.40155",
+  "kind": "regulation",
+  "register_kind": "Kurum ve Kuruluş Yönetmelikleri",
+  "title": "GIDA VE TAKVİYE EDİCİ GIDALARDA SAĞLIK BEYANI KULLANIMI HAKKINDA YÖNETMELİK",
+  "number": "40155",
+  "issuer": "Türkiye İlaç ve Tıbbî Cihaz Kurumu Başkanı",
+  "issuer_slug": "turkiye-ilac-ve-tibbi-cihaz-kurumu-baskani",
+  "path": "regulation/turkiye-ilac-ve-tibbi-cihaz-kurumu-baskani/2023/40155",
+  "source": "https://www.mevzuat.gov.tr/anasayfa/MevzuatFihristDetayIframe?MevzuatTur=7&MevzuatNo=40155&MevzuatTertip=5",
+  "source_sha256": "665ee81ee4ccb74617d7b772daff1587d69eb5f1046f067775aea9fa91b3e19b",
+  "source_bytes": 49285,
+  "published": "2023-04-20",
+  "gazette": "32169",
+  "in_force": "2023-08-23",
+  "in_force_basis": "latest Resmî Gazete date printed in the source amendment notes/table (\"RG-23/8/2023\") for the current consolidated text",
+  "date_evidence": [
+    [
+      "2023-08-23",
+      "RG-23/8/2023",
+      "Resmî Gazete date printed in the source amendment note"
+    ],
+    [
+      "2023-08-23",
+      "23/8/2023",
+      "Resmî Gazete date in the source amendment table"
+    ]
+  ],
+  "commencement_clauses": [
+    "Bu Yönetmelik yayımı tarihinde yürürlüğe girer"
+  ],
+  "history": "current-text",
+  "label": "oldest version available",
+  "checked_on": "2026-11-15",
+  "word_count": 2239,
+  "text_status": "current-consolidated",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  },
+  "completeness": "html-text-complete"
+}
