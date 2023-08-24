@@ -1,0 +1,76 @@
+<div class="news__detail">
+<div class="news__detail-head">
+
+<div class="news__detail-head-meta d-none d-sm-flex">
+<div>
+<i class="fa-light fa-calendar"></i>
+<span class="title">Yayınlanma Tarihi:</span>
+<span>27 Aralık 2023, Çarşamba</span>
+</div>
+</div>
+</div>
+<div class="news__detail-article">
+<h2 class="news__detail-article-title">“Bir eğitim kurumu tarafından kamera vasıtasıyla görüntü ve ses kaydı alınması” hakkında Kişisel Verileri Koruma Kurulunun 24/08/2023 Tarihli ve 2023/1461 Sayılı Karar Özeti</h2>
+<div style="text-align:justify;">
+<table>
+<tbody>
+<tr>
+<td style="width:120px;"><strong>Karar Tarihi</strong></td>
+<td>:</td>
+<td>24/08/2023</td>
+</tr>
+<tr>
+<td><strong>Karar No</strong></td>
+<td>:</td>
+<td>2023/1461</td>
+</tr>
+<tr>
+<td style="vertical-align:top;"><strong>Konu Özeti</strong></td>
+<td style="vertical-align:top;">:</td>
+<td>Bir eğitim kurumu tarafından kamera vasıtasıyla görüntü ve ses kaydı alınması</td>
+</tr>
+</tbody>
+</table>
+<p> </p>
+<p>Kuruma intikal ettirilen şikâyet dilekçelerinde özetle; veri sorumlusunun ilgili kişilerden birinin kiracısı olduğu, kira uyuşmazlığı nedeniyle aralarında bir görüşme gerçekleştiği, daha sonra veri sorumlusu tarafından gönderilen ihtarnamede, yapılan görüşme esnasında ilgili kişilere ait ses ve görüntü kayıtlarının alındığının beyan edildiği, bu doğrultuda ilgili kişiler tarafından veri sorumlusuna gönderilen cevap ihtarnamesinde ilgili kişilerin açık rızası dışında ses ve görüntü kaydının alınmasının Türk Ceza Kanunu’nun (TCK) 133’üncü maddesi vd. hükümleri gereği suç teşkil eden bir fiil olduğunun hatırlatıldığı, veri sorumlusu tarafından gönderilen ihtarnamede ise ilgili kişilerin ses ve görüntü kaydının açık rızası ve muvafakati olmadığı halde alınmasının veri sorumlusuna tanınmış yasal bir hak olduğunun belirtildiği, bununla birlikte veri sorumlusu tarafından ilgili kişilerden yalnızca birine cevap verildiği diğer ilgili kişiye ise cevap verilmediği belirtilerek gereğinin yapılması talep edilmiştir. </p>
+<p>Kurul tarafından, “…veri sorumlusunun bir iş yeri olduğu göz önüne alınarak, veri sorumlusu tarafından iş sağlığı ve güvenliği çerçevesinde kamera vasıtasıyla gerçekleştirilen kişisel veri işleme faaliyetlerinin 6698 sayılı Kişisel Verilerin Korunması Kanunu’nun (Kanun) 5’inci maddesinin (2) numaralı fıkrasının (ç) bendinde yer alan “Veri sorumlusunun hukuki yükümlülüğünü yerine getirebilmesi için veri işlemenin zorunlu olması” ve (f) bendinde yer alan “İlgili kişinin temel hak ve özgürlüklerine zarar vermemek kaydıyla, veri sorumlusunun meşru menfaatleri için veri işlenmesinin zorunlu olması” kapsamında gerçekleştirilebileceği, bu bakımdan Kanun’un 5’inci maddesindeki diğer veri işleme şartlarına dayanılması açısından ilgili kişinin görüntü kaydının açık rızası olmadan alınması hakkındaki şikayetiyle ilgili Kanun kapsamında yapılacak bir işlem olmadığı değerlendirilmekle birlikte, ilgili kişinin kendisine aydınlatma yapılmaması yönündeki soru ve taleplerinin veri sorumlusu tarafından karşılanmaması ve kamera kaydının hem görüntü hem ses kaydı içerdiğine ilişkin iddialar kapsamında ses kaydı yapılmasının “işlendikleri amaçla bağlantılı, sınırlı ve ölçülü olması” ilkesi çerçevesinde değerlendirilmesi bakımından inceleme başlatılmasına…” karar verilmiştir. </p>
+<p>Konuya ilişkin başlatılan inceleme çerçevesinde veri sorumlusundan savunması talep edilmiş olup veri sorumlusu tarafından verilen cevapta özetle;</p>
+<ul>
+<li>Kendilerinin okul öncesi, ilk ve orta öğretim kurumları işlettiği, Millî Eğitim Bakanlığı Özel Öğretim Kurumları Yönetmeliği’nin 11’inci maddesinde 2017 yılında yapılan değişiklikle, okullarda, bahçe giriş ve bina kapıları öncelikli olmak üzere, en az on beş gün süreyle görüntü kayıtlarını depolayacak güvenlik kamera sistemi kurulabilmesinin mümkün hale getirildiği, bu sebeple okullarda güvenlik amaçlı kamera ile görüntü ve ses kayıtlarının alındığı,</li>
+<li>Bu amaçla da okulun genel kullanıma açık bulunan yerlerinde kameralarla görüntü ve ses kaydı yapıldığı, bu kameralardan bir tanesinin de kurucu odasında bulunduğu, bu hususun ilgili kişiler tarafından da bilinmekte olduğu, </li>
+<li>Okul olarak kullanılan gayrimenkulün ilgili kişilerden kiralandığı ve bu sebeple ilgili kişiler ile kendileri arasında kiracılık ilişkisi bulunduğu, kiraya veren ilgili kişi ile yapılan görüşme esnasında, kira ödemesinin elden ve nakit olarak yapıldığı sırada görüntü ve ses kaydı alındığı, yapılan kira ödemesiyle ilgili kendilerine belge verilmesinin istenmesi üzerine kiraya veren ilgili kişinin böyle bir belgeye gerek olmadığını, ilişkinin güvene dayalı sürdüğünü ifade ettiği, </li>
+<li> Bu beyandan sonra kiraya veren ilgili kişinin daha fazla kira ödemesi alabilmek maksadıyla kendileri tarafından ödenen parayı almadığını beyanla, yeniden kira bedeli ödemesi talep ettiği, talebin üzerine görüntü ve ses kayıtlarının kendilerinde mevcut olduğunun ve delil niteliğinde olduğunun kendisine ifade edildiği, </li>
+<li>Kiraya veren ilgili kişi tarafından gönderilen ihtarnamede yer alan, görüntü ve ses kaydının izinsiz ve habersiz yapıldığı iddiasının doğru olmadığı ayrıca bu durumun TCK’nın 133’üncü maddesindeki suçu oluşturmayacağının kendisine izah edildiği, TCK'nın 133’üncü maddesindeki suçun oluşması için kişiler arasındaki aleni olmayan konuşmaların, konuşmanın tarafı olmayan kişi ya da kişilerce kayda alınmış olması gerektiği, somut olayda böyle bir durumun söz konusu olmadığı,  </li>
+<li> Bu itibarla, görüntü ve ses kayıtlarının kendileri tarafından kiraya veren ilgili kişiye ödenen kira bedellerinin alınmadığı iddiası ve hak edilmemiş bir paranın istenmesi sebebiyle, paranın ödenmiş olduğunun ispatlanması amacıyla ve güvenlik önlemleri gereğince alındığı; delil mahiyetinde olması nedeniyle de kiraya veren ilgili kişiye bu kayıtların verilemeyeceğinin bildirildiği, </li>
+<li>Öte yandan, diğer ilgili kişinin kendileri ile herhangi bir hukuksal ilişki içinde olmadığı, bu nedenle bir verisinin işlendiğinden de bahsedilemeyeceği, </li>
+<li>Olayın yaşandığı tarih bakımından kendilerinin 50 çalışana sahip olmaması nedeniyle, Kanun’dan doğan sorumluluğunun bulunmadığı, ayrıca 50 çalışanı bulunsa dahi gerçekleşen olay nedeniyle, Kurum tarafından tanınan süre içinde VERBİS kaydı oluşturulmasının gerekli olmadığı, bu anlamda kendilerinin, Kanun anlamında herhangi bir yükümlülüğünün bulunmadığı, alınan kayıtların da Kanun uyarınca alınmadığı, </li>
+<li>Kendilerinin kanuni bir sorumluluğu bulunmadığından istenen bilgileri şikâyet edenlere verme yükümlülüğünün de bulunmadığı, ayrıca diğer ilgili kişi ile ilgili herhangi bir kişisel veri de işlenmediği için talebi ile alakalı herhangi bir cevap verilmediği, </li>
+<li>Sonuç olarak, alınan görüntü ve ses kayıtlarının delil elde etme amaçlı olduğu, Kanun’a aykırı bir yön taşımadığı, kayıtların delil niteliğinde olması nedeniyle yargı makamları nezdinde kullanılacağı</li>
+</ul>
+<p>ifade edilmiştir. </p>
+<p>Konuya ilişkin yapılan inceleme neticesinde Kişisel Verileri Koruma Kurulunun 24/08/2023 tarihli ve 2023/1461 sayılı Kararı ile;</p>
+<ul>
+<li>Veri sorumlusunun Kurumu muhatap cevap yazısında, okulun genel kullanımına açık bulunan yerlerde Millî Eğitim Bakanlığı Özel Öğretim Kurumları Yönetmeliği hükümleri uyarınca mümkün hale getirildiğinden bahisle ve güvenlik amacıyla görüntü ve ses kaydı yapıldığı belirtilmişse de ilgili mevzuat incelendiğinde görüntü kaydı alınabilecek yerlerin sayıldığı ve belirli bazı yerlere kamera yerleştirilmesinin yasaklandığı görülmekte olup söz konusu hükümlerin yalnızca görüntü kaydına yönelik olduğu ve ses kaydı alınmasını meşru hale getiren özel bir hüküm ihdas etmediği,</li>
+<li>Kameralar vasıtasıyla alınan görüntü kaydının her durumda meşru bir gereklilik teşkil etmediği, bu yolla kişisel veri işleme faaliyetinin Kanun’a uygun olması için görüntü kaydının alınmasını gerektiren amaca makul başka türlü yöntemlerle ulaşmanın mümkün olmaması gerektiği, kaydın alınmasını gerektiren sebebin kişilerin temel hak ve özgürlükleri ile çatışması halinde üstün tutulacak bir menfaate işaret etmesi gerektiği,</li>
+<li>Görüntü kaydına ek olarak ses kaydının da alınmasının; kişisel verinin işlenmesi yönünden meşru bir menfaatin bulunup bulunmadığı, çatışan menfaatlerin söz konusu olup olmadığı ve meşru bir menfaatin bulunması halinde dahi işlemenin ölçülü olup olmadığının değerlendirilmesini gerektirdiği, veri sorumlusunun bir eğitim kurumu olarak faaliyet gösterdiği, öğrencilerinin okul öncesi, ilk ve orta öğretim öğrencileri olduğu, güvenlikleri için gerekli tüm işlemlerin hassasiyetle yürütülmesi gerektiği ve çalışanları açısından iş sağlığı ve güvenliği amaçlarını gerçekleştirme ihtiyacı bir arada düşünüldüğünde kamera vasıtasıyla görüntü kaydı alınmasının bu amaçları gerçekleştirmeye elverişli, meşru ve ölçülü bir işleme faaliyeti olduğu, böylesi bir durumda görüntü kaydına ek olarak ses kaydı alınması gerekliliği söz konusu olmadığı gibi daha fazla verinin işlenmesinin, verisi işlenen tüm ilgili kişilerin özel hayatlarının gizliliği hakkı genelinde ve kişisel verilerinin korunması hakkı özelinde bir menfaat çatışması doğurduğu, öte yandan, güvenlik gerekçeleri ile kamera kaydı alınmasının yaygın bir uygulama olduğu ancak aynı gerekçe ileri sürülerek ses kaydı alınmasının, kişisel verisi işlenen ilgili kişilerin makul beklentilerinin ötesinde olduğu, </li>
+<li>Kişisel Verileri Koruma Kurulunun 25.03.2019 tarihli ve 2019/78 sayılı Kararında da belirtildiği üzere Kanun’un 5’inci maddesinin ikinci fıkrasının (f) bendine göre “ilgili kişinin temel hak ve özgürlüklerine zarar vermemek kaydıyla, veri sorumlusunun meşru menfaatleri için veri işlenmesinin zorunlu olması” hali tespit edilirken veri sorumluları tarafından değerlendirilmesi gereken birtakım hususların bulunduğu,</li>
+<li>Bunlar içerisinde “söz konusu menfaate ulaşılabilmesi bakımından kişisel veri işlenmesinin zorunluluk arz etmesi” ve “ilgili kişinin temel hak ve hürriyetleri ile yarışabilir nitelikte olan meşru menfaatin elde edilmesi halinde bir yarar sağlanacak olması ve kişisel veri işlenmeksizin başkaca bir yol ve yöntemle bu yararın ortaya çıkmasının mümkün olmaması” kriterleri ele alındığında, halihazırda kamera ile görüntü kaydı alınması güvenliği sağlama amacı ile bağdaşmakta ve bu amacı gerçekleştirmeye yeterli olmakta iken ilaveten ses kaydı alınmasında veri sorumlusunun meşru menfaati bulunmadığı, zira zorunluluk arz etme ve kişisel veri işlenmeksizin başkaca bir yol ve yöntemle bu yararın ortaya çıkmasının mümkün olmaması şartının ortadan kalktığı, </li>
+<li>Görüntü kaydı yerine yalnızca ses kaydının alındığı varsayımında dahi bu işlemeyi mecburi kılacak bir sebebin bulunmadığı hallerde kişiler arasındaki iletişimin devamlı olarak kayıt altına alınmasının başta özel hayatın gizliliği hakkı olmak üzere kişinin maddi ve manevi varlığının korunması gibi birtakım diğer temel hak ve özgürlüklerine ağır bir müdahale teşkil edeceği, bu durumda çatışan menfaatler arasındaki denge testinin dikkatli biçimde yapılması ve işlemeyi mecburi kılacak sebeplerin genişletilmemesi gerektiği,</li>
+<li>Somut olayda, ilgili kişiler ve veri sorumlusu arasındaki bir ihtilafın çözümünde delil olarak kullanılmak üzere ve aynı zamanda güvenlik amacıyla ses verisinin işlenmesinin, ses verisini işlemeyi mecburi kılacak bir sebep olarak nazara alınamayacağı, bu nedenle görüntü kaydı alınmaksızın yalnızca ses kaydının alındığı durumda dahi kişisel verinin meşru menfaat kapsamında işlenmesinin söz konusu olmayacağı,</li>
+<li>Veri sorumlusunun ses kaydı alma yönündeki uygulaması Kanun’a uygun bulunmadığından söz konusu işleme faaliyetinin her halde hukuka aykırı olduğu ve bu sebeple aydınlatma yükümlülüğünün yerine getirilip getirilmediği hususunun ayrıca incelenmesine gerek bulunmadığı, buna karşılık görüntü kaydı alınmasında Kanun’a uygun bir işleme sebebi bulunduğundan hukuka uygun olan kişisel veri işleme faaliyeti açısından aydınlatma yükümlülüğünün yerine getirilip getirilmediğinin de ayrıca ele alınması gerektiği, </li>
+<li>Her ne kadar ilgili kişilerin görüntü kayıtlarının açık rızaları olmaksızın alınması yönünden Kanun’a aykırılık bulunmasa da “Aydınlatma Yükümlülüğünün Yerine Getirilmesi Rehberi”nde belirtildiği üzere aydınlatma yükümlülüğünün gerek açık rızadan gerekse de Kanun’daki diğer kişisel veri işleme şartlarından bağımsız olarak yerine getirilmesi gereken bir yükümlülük olduğu, Aydınlatma Yükümlülüğünün Yerine Getirilmesinde Uyulacak Usul ve Esaslar Hakkında Tebliğ’in “Usul ve Esaslar” başlıklı 5’inci maddesinin birinci fıkrasının (a) bendi uyarınca veri sorumlusunun aydınlatma yükümlülüğünün yerine getirmesi gerektiği, aynı maddenin birinci fıkrasının (e) bendi uyarınca aydınlatma yükümlülüğünün yerine getirildiğine ilişkin ispat yükünün veri sorumlusunda olduğu, veri sorumlusu tarafından ilgili kişilere aydınlatma yapıldığı hususunun ispatlanamadığı</li>
+</ul>
+<p>değerlendirmelerinden hareketle;</p>
+<ul>
+<li>Ses kaydı alınması suretiyle gerçekleştirilen kişisel veri işleme faaliyetinin Kanun’un 5’inci maddesinde yer alan veri işleme şartlarından herhangi birine dayanılmaksızın gerçekleştirildiği, bu bakımdan veri sorumlusu tarafından, kişisel verilerin hukuka aykırı olarak işlenmesini önlemek amacıyla uygun güvenlik düzeyini temin etmeye yönelik gerekli her türlü teknik ve idari tedbirleri alması zorunluluğunu getiren, Kanun’un 12’nci maddesinin birinci fıkrasına aykırı hareket edildiği değerlendirilmiş olup bu doğrultuda veri sorumlusu hakkında Kanun’un 18’inci maddesinin (1) numaralı fıkrasının (b) bendi uyarınca 200.000 TL, </li>
+<li>Kamera vasıtasıyla görüntü kaydı alınmasının Kanun’un 5’inci maddesinin ikinci fıkrasının (ç) bendinde yer alan“ veri sorumlusunun hukuki yükümlülüğünü yerine getirebilmesi için veri işlemenin zorunlu olması” ve (f) bendinde yer alan “ilgili kişinin temel hak ve özgürlüklerine zarar vermemek kaydıyla, veri sorumlusunun meşru menfaatleri için veri işlenmesinin zorunlu olması” kapsamında hukuka uygun olduğu değerlendirilse de veri sorumlusunun aydınlatma yükümlülüğünün devam ettiği; buna karşılık aydınlatma yükümlülüğünün yerine getirildiğini ispat edemediği, bu bakımdan Kanun’un 10’uncu maddesinde düzenlenen hükme aykırı davranması nedeniyle veri sorumlusu hakkında Kanun’un 18’inci maddesinin (1) numaralı fıkrasının (a) bendi uyarınca 30.000 TL</li>
+</ul>
+<p>olmak üzere toplam 230.000 TL idari para cezası uygulanmasına, </p>
+<ul>
+<li>İlgili kişilerin veri sorumlusuna başvuruları neticesinde erişemedikleri, kendileri ile ilgili kişisel verilerin ilgili kişilere sağlanması ve hukuka aykırı olarak işlenen ses verilerinin imha edilmesi ve sonucundan Kurula bilgi verilmesi hususlarında veri sorumlusunun talimatlandırılmasına,</li>
+<li>İlgili kişilerin soru ve taleplerinin veri sorumlusu tarafından karşılanmadığı iddiası yönünden ise ilgili kişiler tarafından Kanun kapsamında yapılacak başvuruların Kanun’un 13’üncü maddesi hükmü ile veri sorumlusuna Başvuru Usul ve Esasları Hakkında Tebliğ’in 6’ncı maddesi hükmü uyarınca etkin, hukuka ve dürüstlük kuralına uygun şekilde, gerekçe belirterek ve süresi içinde sonuçlandırılması gerektiği hususunun veri sorumlusuna hatırlatılmasına</li>
+</ul>
+<p>karar verilmiştir. </p>
+</div>
+</div>
+</div>

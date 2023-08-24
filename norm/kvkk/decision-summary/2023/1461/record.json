@@ -1,0 +1,18 @@
+{
+  "kind": "norm",
+  "issuer": "Kişisel Verileri Koruma Kurumu",
+  "document_type": "decision-summary",
+  "number": "2023/1461",
+  "source_id": 7783,
+  "date": "2023-08-24",
+  "title": "“Bir eğitim kurumu tarafından kamera vasıtasıyla görüntü ve ses kaydı alınması” hakkında Kişisel Verileri Koruma Kurulunun 24/08/2023 Tarihli ve 2023/1461 Sayılı Karar Özeti",
+  "source": "https://www.kvkk.gov.tr/Icerik/7783/2023-1461",
+  "source_sha256": "a60192de8b2b1a29c9dd8c6942ee3729bd606f9c4aa06303ba18a0eb1c27fb87",
+  "text_status": "summary",
+  "text_file": "metin.md",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  }
+}
