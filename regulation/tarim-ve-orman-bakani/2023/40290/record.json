@@ -1,0 +1,34 @@
+{
+  "source_id": "7.5.40290",
+  "kind": "regulation",
+  "register_kind": "Kurum ve Kuruluş Yönetmelikleri",
+  "title": "PEMBEKURT İLE MÜCADELE HAKKINDA YÖNETMELİK",
+  "number": "40290",
+  "issuer": "Tarım ve Orman Bakanı",
+  "issuer_slug": "tarim-ve-orman-bakani",
+  "path": "regulation/tarim-ve-orman-bakani/2023/40290",
+  "source": "https://www.mevzuat.gov.tr/anasayfa/MevzuatFihristDetayIframe?MevzuatTur=7&MevzuatNo=40290&MevzuatTertip=5",
+  "source_sha256": "3acc54e8804ac0ef8823f7d2ca9740084343b9cc8f7e60fb54b5767f87288338",
+  "source_bytes": 31124,
+  "published": "2023-08-24",
+  "gazette": "32289",
+  "in_force": "2023-08-24",
+  "in_force_basis": "Resmî Gazete publication date in the official listing (24.08.2023); own commencement article: \"Bu Yönetmelik yayımı tarihinde yürürlüğe girer\"",
+  "commencement_clauses": [
+    "Bu Yönetmelik yayımı tarihinde yürürlüğe girer"
+  ],
+  "history": "current-text",
+  "label": "oldest version available",
+  "checked_on": "2026-11-15",
+  "word_count": 1420,
+  "text_status": "current-consolidated",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  },
+  "source_links": [
+    "7.5.40290-Ek.doc"
+  ],
+  "completeness": "html-text-complete; linked annexes not fetched"
+}
