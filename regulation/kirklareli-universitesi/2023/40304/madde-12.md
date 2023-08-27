@@ -1,0 +1,3 @@
+Derslerin AKTS kredisi
+MADDE 12- (1) YÖK’ün ilgili programın yer aldığı diploma düzeyi ve alan için Türkiye Yükseköğretim Yeterlilikler Çerçevesine göre belirlediği AKTS aralığı dikkate alınarak; bir dersi başarıyla tamamlayabilmesi için öğrencinin yapması gereken çalışmaların tamamını (teorik ders, uygulama, seminer, bireysel çalışma, sınavlar, ödevler ve benzeri) kapsayan ve ilgili kurullarca hesaplanmış iş yükünü temel alan AKTS kredileri ilgili kurulun teklifi üzerine Senato tarafından belirlenir.
+(2) Öğrenciler mezuniyet için ortak zorunlu dersler dâhil asgari; öğrenim süresi iki yıl olan ön lisans programlarında 120, lisans programlarından öğrenim süresi dört yıl olanlarda 240, beş yıl olanlarda 300, altı yıl olanlarda ise 360 AKTS kredisini tamamlamak zorundadır.

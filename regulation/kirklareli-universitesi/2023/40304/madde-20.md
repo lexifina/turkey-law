@@ -1,0 +1,2 @@
+Ders muafiyetleri
+MADDE 20- (1) Öğrencilerin, daha önce devam ettikleri bir yükseköğretim programında başarılı oldukları derslerden muaf olmaları ve diğer yükseköğretim kurumundan alınan derslerin geçer notlarının bu Yönetmeliğe göre değerlendirilebilmesi için, ders kaydını yaptırdığı ilk yarıyılın/yılın ikinci haftasının sonuna kadar ilgili birime talep edilen belgelerle başvurmaları gerekir. Muafiyet işlemleri Senato tarafından belirlenen esaslara göre yapılır.

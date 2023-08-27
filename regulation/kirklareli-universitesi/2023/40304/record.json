@@ -1,0 +1,31 @@
+{
+  "source_id": "8.5.40304",
+  "kind": "regulation",
+  "register_kind": "Üniversite Yönetmelikleri",
+  "title": "KIRKLARELİ ÜNİVERSİTESİ ÖN LİSANS VE LİSANS EĞİTİM VE ÖĞRETİM YÖNETMELİĞİ",
+  "number": "40304",
+  "issuer": "KIRKLARELİ ÜNİVERSİTESİ",
+  "issuer_slug": "kirklareli-universitesi",
+  "path": "regulation/kirklareli-universitesi/2023/40304",
+  "source": "https://www.mevzuat.gov.tr/anasayfa/MevzuatFihristDetayIframe?MevzuatTur=8&MevzuatNo=40304&MevzuatTertip=5",
+  "source_sha256": "88c332f320b661d51f05a45ac791ab8436f782f60340b347477140e5bf00a6bf",
+  "source_bytes": 83859,
+  "published": "2023-08-27",
+  "gazette": "32292",
+  "in_force": "2023-08-27",
+  "in_force_basis": "Resmî Gazete publication date in the official listing (27.08.2023); own commencement article: \"Bu Yönetmelik 2023-2024 eğitim-öğretim yılı başında yürürlüğe girer\"",
+  "commencement_clauses": [
+    "Bu Yönetmelik 2023-2024 eğitim-öğretim yılı başında yürürlüğe girer"
+  ],
+  "history": "current-text",
+  "label": "oldest version available",
+  "checked_on": "2026-11-15",
+  "word_count": 4809,
+  "text_status": "current-consolidated",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  },
+  "completeness": "html-text-complete"
+}

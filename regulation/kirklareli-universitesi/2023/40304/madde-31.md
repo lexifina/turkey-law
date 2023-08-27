@@ -1,0 +1,4 @@
+Akademik başarı not ortalamaları
+MADDE 31- (1) Öğrencinin akademik başarı not ortalaması her yarıyıl sonunda hesaplanır. Bu hesaplamada, öğrencinin YANO ve GANO olmak üzere iki ortalaması elde edilir.
+(2) Yıllık olan derslerin notu, dersin alındığı yılın sonundaki yarıyıla katılarak akademik başarı not ortalamaları belirlenir.
+(3) Akademik başarı not ortalaması, bir öğrencinin bir yarıyılda/yılda aldığı derslerden elde ettiği notların katsayısı ile o derslerin AKTS kredi değerlerinin çarpımından oluşan toplam sayının bütün derslerin AKTS kredi değerleri toplamına bölünerek elde edilir. Bu hesaplamalar sonucu ortaya çıkan değerler, virgülden sonra iki haneye yuvarlanır. Virgülden sonraki üçüncü hane beşten küçükse ikinci hane aynı bırakılır, beş veya beşten büyükse ikinci haneyi bir artıracak şekilde yuvarlanarak hesaplanır.

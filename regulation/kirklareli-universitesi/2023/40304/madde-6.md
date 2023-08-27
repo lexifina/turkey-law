@@ -1,0 +1,4 @@
+Katkı payı ve öğrenim ücreti
+MADDE 6- (1) İlgili mevzuat hükümlerine göre öğrencilerden her bir dönem için; birinci öğretimde öğrenci katkı payı, ikinci öğretim ve uzaktan öğretimde ise öğrenim ücreti alınır. Uluslararası öğrencilerden, birinci veya ikinci öğretim ayrımı yapılmaksızın, her dönem için ilgili mevzuat hükümleri doğrultusunda Üniversite Yönetim Kurulunca belirlenen öğrenim ücreti alınır.
+(2) Katkı payı/öğrenim ücreti, ilgili dönem başlarında akademik takvimde belirtilen tarihlerde ödenir. Süresi içinde ücretini ödemeyenler ve mazereti yönetim kurulunca kabul edilmeyenler, o dönem için kayıt yaptıramaz ve öğrencilik haklarından yararlanamaz.
+(3) Belirlenen zorunlu eğitim süreleri içerisinde yan dal veya çift ana dal öğreniminin tamamlanamaması nedeniyle ilave ders alınması hâlinde, her bir ders için ödenecek katkı payı veya öğrenim ücreti ilgili mevzuat hükümlerine göre hesaplanır.
