@@ -1,0 +1,3 @@
+Başkan yardımcıları
+MADDE 13 – (1) Başkana görevlerinde yardımcı olmak üzere Başkanın teklifi üzerine Bakan tarafından dört başkan yardımcısı atanabilir. (2)
+(2) Başkan yardımcıları, üyeliğe atanacaklarda aranan niteliklere sahip olanlar arasından veya en az dört yıllık öğrenim veren hukuk, iktisat, siyasal bilgiler, işletme, iktisadi ve idari bilimler, mimarlık ve mühendislik fakülteleri ile bunlara denkliği yetkili makamlarca kabul edilen yurtdışındaki yükseköğretim kurumlarından mezun olduktan sonra aralıksız olarak en az on yıldan beri Kurumda meslek personeli olarak çalışmakta bulunanlar arasından atanabilir.

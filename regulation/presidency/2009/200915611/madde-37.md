@@ -1,0 +1,5 @@
+DÖRDÜNCÜ KISIM
+Çeşitli Hükümler
+Yasaklar
+MADDE 37 – (1) Başkan ve üyeler, asli görevlerini aksatmamak kaydıyla telif ücreti karşılığı bilimsel amaçlı yayın yapabilir, ücret karşılığı ders verebilir, bunun dışında özel bir kanuna dayanmadıkça resmi veya özel hiçbir görev alamaz, dernek, vakıf, kooperatif ve benzeri yerlerde yöneticilik yapamaz, ticaretle uğraşamaz, serbest meslek faaliyetinde bulunamaz. Üyeler ile Kurumda görev yapan uzman, uzman yardımcıları ve birim amirleri göreve başlamadan önce sahip oldukları Hazine Müsteşarlığı tarafından çıkarılan borçlanmaya ilişkin menkul kıymetler dışındaki, piyasada faaliyet gösteren tüzel kişilere veya bunların iştiraklerine ait her türlü hisselerini ya da menkul kıymetlerini üçüncü dereceye kadar kan ve ikinci dereceye kadar kayın hısımlar ve evlatlıkları dışındakilere görev sürelerinin başlamasını izleyen otuz gün içinde satmak veya devretmek suretiyle elden çıkarmak zorundadır.
+(2) Başkan ve üyeler ile personel hakemlik ve bilirkişilik yapamaz.

@@ -1,0 +1,26 @@
+{
+  "id": "presidency-regulation-200915611",
+  "number": "200915611",
+  "kind": "regulation",
+  "issuer": "presidency",
+  "title": "KAMU İHALE KURUMU TEŞKİLATI VE PERSONELİNİN ÇALIŞMA USUL VE ESASLARI HAKKINDA YÖNETMELİK",
+  "published": "2009-12-01",
+  "enacted": "2009-11-16",
+  "gazette_number": "27419",
+  "in_force": "2023-08-29",
+  "in_force_basis": "Source commencement table, \"Yürürlüğe Giriş Tarihi\": 29/8/2023; source row: 28/8/2023 | 7518 | 1, 32/A, 39 | 29/8/2023 | ",
+  "history": "current-only",
+  "version_label": "oldest version available",
+  "first_law": null,
+  "source": "https://www.mevzuat.gov.tr/anasayfa/MevzuatFihristDetayIframe?MevzuatNo=200915611&MevzuatTur=21&MevzuatTertip=5",
+  "source_sha256": "46800c46009237e8bc724d3a183625d4e24ec17646d87cb425145fac5ce68181",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  },
+  "missing_components": [],
+  "text_layout": "article-files",
+  "source_links": [],
+  "completeness": "html-text-complete"
+}

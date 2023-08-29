@@ -1,0 +1,3 @@
+Ücret ve diğer mali haklar
+MADDE 33 – (1) Kurum hizmetlerinin gerektirdiği asli ve sürekli görevler, sözleşmeli olarak istihdam edilen personel eliyle yürütülür. Kurum personeli, Kanunda ve bu Yönetmelikte belirtilen haller ile ücret, mali ve sosyal haklar dışında 14/7/1965 tarihli ve 657 sayılı Devlet Memurları Kanununa tabidir.
+(2) Kurum personelinin ücret ve diğer mali ve sosyal hakları 4/7/2001 tarihli ve 631 sayılı Kanun Hükmünde Kararname ve bu Kanun Hükmünde Kararnameye dayanılarak yürürlüğe konulan Bakanlar Kurulu kararlarında yer alan düzenlemeler çerçevesinde Kurul tarafından belirlenir.
