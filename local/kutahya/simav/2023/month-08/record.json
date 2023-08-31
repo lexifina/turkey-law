@@ -1,0 +1,28 @@
+{
+  "number": "month-08",
+  "year": 2023,
+  "month": 8,
+  "title": "2023 Yılı Ağustos Ayı 1. Birleşim Meclis Karar Özeti",
+  "decision_date": null,
+  "index_date": "2023-08-31",
+  "date_precision": "month",
+  "period": "Ağustos 2023",
+  "source": "https://www.simav.bel.tr/karar/2023-yili-agustos-ayi-1-birlesim-meclis-karar-ozeti/63/",
+  "official_page": "https://www.simav.bel.tr/karar/2023-yili-agustos-ayi-1-birlesim-meclis-karar-ozeti/63/",
+  "official_document": "https://www.simav.bel.tr/dosya/meclis/dosyalar/agustos-ayi-1-birlesim-mko2.docx",
+  "source_sha256": "d443c073f906b2b21c08b4b2693f3f7d4da1973922cf54a5120028ee6d63e05d",
+  "issuer": "Simav Belediye Meclisi",
+  "history_type": "metadata",
+  "text_status": "metadata-only: listing fields as published; the decisions are in the linked official document(s) or page, not transcribed",
+  "in_force": "2023-08-31",
+  "in_force_basis": "The official listing gives only the month of this official file (Ağustos 2023); date set to the last day of that month (turkey-law date convention for month-only sources); exact adoption dates are in the linked official document; legal commencement not asserted",
+  "missing": [
+    "decision numbers, dates and subjects",
+    "complete official decision text",
+    "official annexes"
+  ],
+  "law_text_complete": false,
+  "privacy_withheld": false,
+  "listing_label": "2023 Yılı Ağustos Ayı 1. Birleşim Meclis Karar Özeti",
+  "record_scope": "one official file of council decisions (meeting or month)"
+}
