@@ -1,0 +1,29 @@
+{
+  "number": "month-08",
+  "year": 2023,
+  "month": 8,
+  "title": "İL GENEL MECLİSİ 2023 AĞUSTOS AYI KARAR ÖZETLERİ",
+  "decision_date": null,
+  "index_date": "2023-08-31",
+  "date_precision": "month",
+  "period": "Ağustos 2023",
+  "source": "https://www.edirneozelidare.gov.tr/il-genel-meclisi-2023-agustos-ayi-karar-ozetleri",
+  "official_page": "https://www.edirneozelidare.gov.tr/il-genel-meclisi-2023-agustos-ayi-karar-ozetleri",
+  "official_document": "https://www.edirneozelidare.gov.tr/kurumlar/edirneozelidare.gov.tr/meclis/karar/2023/Agustos-Ayi-Meclis-Karar-Ozetleri-_2023_.pdf",
+  "source_sha256": "4ee0d5141e46f48dd66ecd1e8968bb03bc12473eba7e514a9c47a9db44d3541b",
+  "issuer": "Edirne İl Genel Meclisi",
+  "history_type": "metadata",
+  "text_status": "metadata-only: listing fields as published; the decisions are in the linked official document(s) or page, not transcribed",
+  "in_force": "2023-08-31",
+  "in_force_basis": "The official listing gives only the month of this official file (Ağustos 2023); date set to the last day of that month (turkey-law date convention for month-only sources); exact adoption dates are in the linked official document; legal commencement not asserted",
+  "missing": [
+    "decision numbers, dates and subjects",
+    "complete official decision text",
+    "official annexes"
+  ],
+  "law_text_complete": false,
+  "privacy_withheld": false,
+  "listing_label": "İL GENEL MECLİSİ 2023 AĞUSTOS AYI KARAR ÖZETLERİ",
+  "record_scope": "one official file of council decisions (meeting or month)",
+  "item_title": "İL GENEL MECLİSİ 2023 AĞUSTOS AYI KARAR ÖZETLERİ"
+}
