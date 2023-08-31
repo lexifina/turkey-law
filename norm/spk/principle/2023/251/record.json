@@ -1,0 +1,78 @@
+{
+  "kind": "norm",
+  "issuer": "Sermaye Piyasası Kurulu",
+  "document_type": "principle-decision",
+  "number": "251",
+  "decision_number": "51",
+  "date": "2023-08-31",
+  "title": "Kurul Karar Organı'nın 31.08.2023 Tarih ve 51.1056 Sayılı Kararı Uyarınca Yapılan Duyuru",
+  "source": "https://mevzuat.spk.gov.tr/api/IlkeKarari/File/251",
+  "source_sha256": "0708812153efac466aa0570651453b91e80fd3193df468d91b4a27dce59e7caa",
+  "source_listing_url": "https://mevzuat.spk.gov.tr/api/Search/All",
+  "source_record_id": 251,
+  "text_status": "as-enacted",
+  "text_file": "metin.md",
+  "date_basis": "official principle-decision date printed in the source PDF and official API: Kurul Karar Organı’nın 31/08/2023 tarih ve 51/1056 sayılı Kararı Uyarınca Yapılan Duyuru:",
+  "operative_date_review": {
+    "date_type": "decision-date",
+    "decision_date": "2023-08-31",
+    "source_clauses": [
+      "Kurul Karar Organı’nın 31/08/2023 tarih ve 51/1056 sayılı Kararı Uyarınca Yapılan Duyuru:"
+    ],
+    "deferred_start": "none accepted; later dates are explicit end/deadline clauses",
+    "source_deadline_dates": []
+  },
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0,
+    "decorative_or_non_normative": 0
+  },
+  "official_listing_record": {
+    "id": "270a71e8-4f46-48eb-83e7-a74f9ad5288d",
+    "contentSource": "IlkeKarari",
+    "contentID": 251,
+    "tur": "İlke Kararı",
+    "title": "Kurul Karar Organı'nın 31.08.2023 Tarih ve 51.1056 Sayılı Kararı Uyarınca Yapılan Duyuru",
+    "no": "",
+    "sayi": "",
+    "resmiGazeteTarihi": null,
+    "resmiGazeteTarih": null,
+    "resmiGazeteSayi": null,
+    "resmiGazeteMukerrer": null,
+    "kurulKararTarihi": "2023-08-31T00:00:00",
+    "kurulKararTarih": "31.08.2023",
+    "kurulToplantiNo": "51",
+    "bultenYili": 2023,
+    "bultenNo": 51,
+    "kisimID": null,
+    "bolumID": null,
+    "kisim": "VIII. KISIM - Sermaye Piyasası Kurulu İlke Kararları",
+    "bolum": "İlke Kararları",
+    "baglantiliTebliglerStr": null,
+    "baglantiliTebligler": null,
+    "ilgiliKonularStr": "13:Sermaye Piyasası Araçlarının İhracı;3:Kamunun Aydınlatılmasına İlişkin Esaslar;93:Finansal Tablo;64:İlk Halka Arz",
+    "ilgiliKonular": [
+      {
+        "key": 13,
+        "value": "Sermaye Piyasası Araçlarının İhracı"
+      },
+      {
+        "key": 3,
+        "value": "Kamunun Aydınlatılmasına İlişkin Esaslar"
+      },
+      {
+        "key": 93,
+        "value": "Finansal Tablo"
+      },
+      {
+        "key": 64,
+        "value": "İlk Halka Arz"
+      }
+    ],
+    "countItems": 0,
+    "intro": "",
+    "link": "IlkeKarari/Dosya/251",
+    "linkTarget": "_blank"
+  }
+}
