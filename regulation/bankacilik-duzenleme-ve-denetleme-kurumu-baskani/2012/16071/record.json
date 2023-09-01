@@ -1,0 +1,93 @@
+{
+  "source_id": "7.5.16071",
+  "kind": "regulation",
+  "register_kind": "Kurum ve Kuruluş Yönetmelikleri",
+  "title": "DERECELENDİRME KURULUŞLARININ YETKİLENDİRİLMESİNE VE FAALİYETLERİNE İLİŞKİN ESASLAR HAKKINDA YÖNETMELİK",
+  "number": "16071",
+  "issuer": "Bankacılık Düzenleme ve Denetleme Kurumu Başkanı",
+  "issuer_slug": "bankacilik-duzenleme-ve-denetleme-kurumu-baskani",
+  "path": "regulation/bankacilik-duzenleme-ve-denetleme-kurumu-baskani/2012/16071",
+  "source": "https://www.mevzuat.gov.tr/anasayfa/MevzuatFihristDetayIframe?MevzuatTur=7&MevzuatNo=16071&MevzuatTertip=5",
+  "source_sha256": "6a5f4295bfa9e33bb3f55d4a4d10eb766c8ebec1376b9a65c988890ede5632c4",
+  "source_bytes": 251749,
+  "published": "2012-04-17",
+  "gazette": "28267",
+  "in_force": "2023-09-01",
+  "in_force_basis": "latest Resmî Gazete date printed in the source amendment notes/table (\"RG-1/9/2023\") for the current consolidated text",
+  "date_evidence": [
+    [
+      "2023-09-01",
+      "RG-1/9/2023",
+      "Resmî Gazete date printed in the source amendment note"
+    ],
+    [
+      "2023-09-01",
+      "1/9/2023",
+      "Resmî Gazete date in the source amendment table"
+    ],
+    [
+      "2022-09-20",
+      "RG-20/9/2022",
+      "Resmî Gazete date printed in the source amendment note"
+    ],
+    [
+      "2022-09-20",
+      "20/9/2022",
+      "Resmî Gazete date in the source amendment table"
+    ],
+    [
+      "2019-12-03",
+      "RG-3/12/2019",
+      "Resmî Gazete date printed in the source amendment note"
+    ],
+    [
+      "2019-12-03",
+      "3/12/2019",
+      "Resmî Gazete date in the source amendment table"
+    ],
+    [
+      "2018-07-06",
+      "RG-6/7/2018",
+      "Resmî Gazete date printed in the source amendment note"
+    ],
+    [
+      "2018-07-06",
+      "6/7/2018",
+      "Resmî Gazete date in the source amendment table"
+    ],
+    [
+      "2016-01-20",
+      "RG-20/1/2016",
+      "Resmî Gazete date printed in the source amendment note"
+    ],
+    [
+      "2016-01-20",
+      "20/1/2016",
+      "Resmî Gazete date in the source amendment table"
+    ],
+    [
+      "2015-04-02",
+      "RG-2/4/2015",
+      "Resmî Gazete date printed in the source amendment note"
+    ],
+    [
+      "2015-04-02",
+      "2/4/2015",
+      "Resmî Gazete date in the source amendment table"
+    ]
+  ],
+  "commencement_clauses": [
+    "Bu Yönetmelik yayımı tarihinde yürürlüğe girer"
+  ],
+  "history": "current-text",
+  "label": "oldest version available",
+  "checked_on": "2026-11-15",
+  "word_count": 10793,
+  "text_status": "current-consolidated",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  },
+  "completeness": "html-text-complete"
+}

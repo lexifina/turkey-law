@@ -1,0 +1,5 @@
+Yetkilendirme ve doğrudan tanıma
+MADDE 19 – (1) Yetki için başvuruda bulunulan ana ve/veya alt varlık kategorisi itibarıyla Kurumca yapılacak değerlendirme sonucunda Kurulca uygun görülecek derecelendirme kuruluşları, bu Yönetmelik kapsamında ana ve/veya alt varlık kategorisinde yer alan müşterilerine verdikleri derecelendirme notlarının Kanun veya Kanuna istinaden çıkarılan düzenlemelerde öngörülen derecelendirmeye dayalı uygulamalarda dikkate alınabilmesi hususunda yetkilendirilir.
+(2) Yurt içinde ya da yurt dışında derecelendirme yapma yetkisinin iptal edilmesine sebep olan hususların giderilmiş ve yetkisinin iade edilmiş olması durumunda derecelendirme kuruluşunun bu Yönetmelik kapsamında yetkilendirme hususu Kurulca değerlendirilir.
+(3) (Değişik:RG-20/1/2016-29599) (1) Kurul, muadil düzenleme ve denetleme yapısına sahip yabancı ülkelerin yetkili otoritelerince yetkilendirilmiş bir derecelendirme kuruluşunu, bu Yönetmelikte yer alan kalitatif ve kantitatif değerlendirme kriterlerini dikkate alarak tanıyabilir.
+(4) (Mülga:RG-20/1/2016-29599) (1)

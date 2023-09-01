@@ -1,0 +1,8 @@
+Bağımsızlığın ortadan kalkması
+MADDE 9 – (1) Aşağıdaki hallerde bağımsızlığın ortadan kalktığı kabul edilir:
+a) 8 inci maddenin ikinci, üçüncü ve dördüncü fıkralarında belirtilen hususlara aykırılık oluşması.
+b) Yetkili derecelendirme kuruluşunun ortakları, yönetim kurulu başkan ve üyeleri, (Mülga ibare:RG-2/4/2015-29314) (…) yöneticileri, derecelendirme komitesi üyeleri veya derecelendirme uzmanları ile bunların üçüncü derece dahil kan ve ikinci derece dahil kayın hısımları ile eşlerinin derecelendirme sözleşmesinde öngörülenler dışında müşteriden doğrudan veya dolaylı olarak menfaat sağlamaları veya menfaat sağlayacakları vaadinde bulunulmasına karşın bu durumun ilgili kişilerce ivedi olarak Kuruma bildirilmesini teminen kalite güvencesi sisteminden sorumlu yönetim kurulu üyelerine bildirilmemiş olması.
+c) Geçmiş dönemlere ilişkin derecelendirme ücretinin geçerli bir nedene dayanmaksızın müşteri tarafından ödenmemiş veya alacak davası açılmamış olması ya da yetkili derecelendirme kuruluşuna sözleşmede kararlaştırılan tutarın üzerinde sonradan bir ödeme yapıldığının ortaya çıkması.
+ç) Derecelendirme ücretinin derecelendirme sonuçları ile ilgili şartlara veya önceden kararlaştırılmış bir derecelendirme tahminine bağlanmış olması ya da derecelendirme işleminin tamamlanmasından sonra belirlenmesi.
+d) Müşterinin kredi değerliliğinin belirlenmesinin, Kuruma bildirilen ve kamuya açıklanan temerrüt tanımından, hesaplama döneminden ve derecelendirme metodolojisinden farklı bir yöntemle yapıldığının belirlenmesi.
+e) Yetki alındıktan sonraki üçüncü hesap döneminden itibaren bir müşteriden elde edilen gelirin, o yıl sonu itibarıyla elde edilen dönem gelirlerinin gerekçesiz olarak yüzde onbeşini geçmesi.

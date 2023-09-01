@@ -1,0 +1,3 @@
+Finansal tablo düzenleme ve bağımsız denetim yükümlülüğü
+MADDE 33 – (1) Yetkili derecelendirme kuruluşlarının Türkiye Muhasebe Standartları Kurulunca belirlenmiş muhasebe ilkelerine uygun hazırlanmış yıllık finansal tabloları, 1/11/2006 tarihli ve 26333 sayılı Resmî Gazete’de yayımlanan Bankalarda Bağımsız Denetim Gerçekleştirecek Kuruluşların Yetkilendirilmesi ve Faaliyetleri Hakkında Yönetmelik uyarınca yetkilendirilmiş bağımsız denetim kuruluşlarınca denetlenir.
+(2) Yetkili derecelendirme kuruluşları, genel kurul toplantılarını izleyen otuz gün içerisinde bağımsız denetimden geçmiş yıllık finansal tabloları ile bağımsız denetim raporlarının birer örneğini Kuruma gönderirler ve internet sayfalarında kamuoyuna açıklarlar.
