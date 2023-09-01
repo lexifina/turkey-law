@@ -1,0 +1,6 @@
+Yürürlükten kaldırılan yönetmelik
+MADDE 24- (1) 9/3/2013 tarihli ve 28582 sayılı Resmî Gazete’de yayımlanan Nükleer Tesislerde Serbestleştirme ve Sahanın Düzenleyici Kontrolden Çıkarılmasına İlişkin Yönetmelik yürürlükten kaldırılmıştır.
+(2) Mevzuatta, birinci fıkra ile yürürlükten kaldırılan Nükleer Tesislerde Serbestleştirme ve Sahanın Düzenleyici Kontrolden Çıkarılmasına İlişkin Yönetmeliğe yapılan atıflar bu Yönetmeliğe yapılmış sayılır.
+Geçiş hükümleri
+GEÇİCİ MADDE-1 (1) Bu Yönetmeliğin yürürlüğe girdiği tarihten önce radyasyon tesislerini işletmek veya radyasyon uygulamalarını yürütmek üzere yetkilendirilen kişiler tarafından, lisansın yenilenmesine veya lisans kapsamı değişikliğine ilişkin ilk başvuruda bu Yönetmelik hükümlerine uyum sağlayacak bir plan oluşturularak Kuruma sunulur ve plan Kurum tarafından uygun görüldükten sonra uygulanır.
+(2) Bu Yönetmeliğin yürürlüğe girdiği tarihten önce nükleer tesis kurmak veya nükleer tesis veya radyoaktif atık tesisi işletmek üzere yetkilendirilen kişiler tarafından, bu Yönetmelik hükümlerine uyum sağlayacak bir plan oluşturularak bu Yönetmeliğin yayımı tarihinden itibaren bir yıl içinde Kuruma sunulur ve plan Kurum tarafından uygun görüldükten sonra uygulanır.

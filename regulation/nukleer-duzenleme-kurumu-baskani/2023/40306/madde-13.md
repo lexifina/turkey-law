@@ -1,0 +1,8 @@
+ÜÇÜNCÜ BÖLÜM
+Salım
+Salıma ilişkin genel ilkeler
+MADDE 13- (1) Tesislerin normal işletme durumlarında ve radyasyon uygulamalarının veya diğer faaliyetlerin yürütülmesi sırasında atmosfere, yüzey veya yeraltı sularına ya da kanalizasyon sistemine bırakılmak suretiyle çevreye verilecek gaz, aerosol veya sıvı salımların radyoaktivitesi veya aktivite konsantrasyonları salım sınırlarını aşamaz.
+(2) Atmosfere verilen gaz ve aerosol salımları ile sıvı salımlarından dolayı temsilî kişilerin alacağı dozlar, radyasyondan korunmaya ilişkin mevzuatta belirtilen doz kısıtlarını aşamaz.
+(3) Radyoaktif gaz, aerosol veya sıvı atıkların salıma uygun hâle getirilmesi amacıyla gerektiğinde uygun muamele metotları kullanılır. Sıvı salımların içindeki bütün radyonüklitler su içerisinde çözünebilir ve dağılabilir özellikte olmalıdır.
+(4) Nükleer tesisler ve radyoaktif atık tesislerinde salımların türü, miktarı, radyoaktivitesi, çevreye veriliş yolları, zamanlaması ve metotları, salımlardan dolayı alınan temsili kişi dozları, salımların kontrolü için alınan önlemler ve salım sınırları inşaat izni ve işletme lisansı aşamalarında yetkilendirilen kişi tarafından güvenlik analizi raporu kapsamında Kuruma sunulur. Radyasyon tesislerinin ve radyasyon uygulamalarının lisans aşamalarında yetkilendirilen kişi tarafından salımların türü, miktarı, radyoaktivitesi, çevreye veriliş yolları, zamanlaması ve metotları, radyoaktif atık yönetim sisteminin nihai tasarımı ve temsilî kişilerin salımlardan dolayı alabileceği dozlar Kuruma sunulur.
+(5) Salım sınırlarının aşılması durumunda, yetkilendirilen kişi tarafından Kuruma bildirim yapılır, durumun nedenleri araştırılır ve gerekli önlemler alınır.
