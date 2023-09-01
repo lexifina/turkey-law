@@ -1,0 +1,1 @@
+MADDE 2 – (1) Bu Tebliğ’de geçen, “Örnek” ibaresi, “Tebliğ eki listelerde yer alan canlı veya ölü hayvan veya bitki türünü, bunların kolayca tanınabilir herhangi bir parçasını ya da türevini” ifade eder.

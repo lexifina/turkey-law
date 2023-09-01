@@ -1,0 +1,1 @@
+MADDE 4 – (1) 30/1/2009 tarihli ve 27126 sayılı Resmî Gazete’de yayımlanan Nesli Tehlike Altında Olan Yabani Hayvan ve Bitki Türlerinin Dış Ticaretine İlişkin Tebliğ (Dış Ticaret: 2009/1) yürürlükten kaldırılmıştır.
