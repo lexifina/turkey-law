@@ -1,0 +1,4 @@
+Yeterli işçilik veya işlem görmüş eşya
+MADDE 8- (1) 5 inci maddenin birinci fıkrasının (b) bendine göre, tamamen elde edilmemiş ürünler, EK-II veya EK-II (a)’da yer alan listede belirtilen şartlar yerine getirildiği takdirde yeterli derecede işçilik veya işlem görmüş olarak kabul edilirler.
+(2) Anlaşmanın kapsadığı tüm ürünler için imalatlarında kullanılan menşeli olmayan girdiler üzerinde yapılması gereken işçilik veya işlemler, EK-II veya EK-II (a)’da yer alan listede belirtilir ve yalnızca bu tür girdilerle ilgili olarak uygulanır.
+(3) EK-II veya EK-II (a)’da yer alan listedeki şartları yerine getirerek menşe statüsü kazanmış bir ürün başka bir ürünün imalatında kullanılırsa, onun bileşiminde yer aldığı ürüne tatbiki mümkün şartlar, kendisine uygulanmaz ve bunların imalatında kullanılmış olabilecek menşeli olmayan girdiler dikkate alınmaz.

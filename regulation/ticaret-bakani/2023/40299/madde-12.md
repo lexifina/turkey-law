@@ -1,0 +1,3 @@
+Aksesuarlar, yedek parçalar ve aksam
+MADDE 12- (1) Bir teçhizatın, makinenin, aletin veya aracın parçası beraberinde teslim edilen, normal bir teçhizatın parçası olan ve eşyaya alışılagelmiş olan ve onun fiyatına dahil edilmiş bulunan veya ayrıca fatura edilmemiş olan aksesuarlar, yedek parçalar ve aksam, söz konusu teçhizat, makine, alet veya araç içinde mütalaa edilir ve ürünün menşeini tespitte dikkate alınmaz.
+(2) Bir ürünün EK-II veya EK-II (a) uyarınca, azami bir menşeli olmayan girdi kıymetine tabi olduğu hallerde, menşeli olmayan girdilerin kıymetinin hesaplanmasının hedeflendiği durumlar dışında, birinci fıkrada belirtilen aksesuarlar, yedek parçalar ve aksamlar ürünün menşeinin belirlenmesinde dikkate alınmaz.

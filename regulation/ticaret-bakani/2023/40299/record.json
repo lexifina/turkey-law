@@ -1,0 +1,34 @@
+{
+  "source_id": "7.5.40299",
+  "kind": "regulation",
+  "register_kind": "Kurum ve Kuruluş Yönetmelikleri",
+  "title": "TÜRKİYE CUMHURİYETİ İLE BİRLEŞİK ARAP EMİRLİKLERİ ARASINDA KAPSAMLI EKONOMİK ORTAKLIK ANLAŞMASI ÇERÇEVESİNDEKİ TİCARETTE EŞYANIN TERCİHLİ MENŞEİNİN TESPİTİ HAKKINDA YÖNETMELİK",
+  "number": "40299",
+  "issuer": "Ticaret Bakanı",
+  "issuer_slug": "ticaret-bakani",
+  "path": "regulation/ticaret-bakani/2023/40299",
+  "source": "https://www.mevzuat.gov.tr/anasayfa/MevzuatFihristDetayIframe?MevzuatTur=7&MevzuatNo=40299&MevzuatTertip=5",
+  "source_sha256": "b65b06c43ad543e76eca13958b1bf16cc93f769a2db3f767c79dd25500ec71be",
+  "source_bytes": 121492,
+  "published": "2023-07-23",
+  "gazette": "32257",
+  "in_force": "2023-09-01",
+  "in_force_basis": "own commencement article: \"Bu Yönetmelik 1/9/2023 tarihinde yürürlüğe girer\"",
+  "commencement_clauses": [
+    "Bu Yönetmelik 1/9/2023 tarihinde yürürlüğe girer"
+  ],
+  "history": "current-text",
+  "label": "oldest version available",
+  "checked_on": "2026-11-15",
+  "word_count": 8012,
+  "text_status": "current-consolidated",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  },
+  "source_links": [
+    "7.5.40299-Ek.zip"
+  ],
+  "completeness": "html-text-complete; linked annexes not fetched"
+}

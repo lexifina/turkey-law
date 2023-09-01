@@ -1,0 +1,2 @@
+Transit haldeki veya antrepodaki eşyaya ilişkin geçici hükümler
+MADDE 49- (1) Bu Yönetmelik hükümlerine uygun olan ve Anlaşmanın yürürlüğe girdiği tarihte Türkiye’de veya BAE’de transit halinde olan, antrepolarda veya serbest bölgelerde geçici depolanan eşyaya, ithalatçı Tarafın gümrük idaresine söz konusu tarihten itibaren altı ay içinde, eşyanın 19 uncu madde hükümleri çerçevesinde doğrudan nakledilmiş olduğunu gösteren belgelerle beraber sonradan düzenlenmiş bir menşe ispat belgesinin sunulması kaydıyla Anlaşmanın hükümleri tatbik edilebilir.
