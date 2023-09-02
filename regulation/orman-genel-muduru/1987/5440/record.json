@@ -1,0 +1,60 @@
+{
+  "source_id": "7.5.5440",
+  "kind": "regulation",
+  "register_kind": "Kurum ve Kuruluş Yönetmelikleri",
+  "title": "6831 SAYILI ORMAN KANUNUNUN 31, 32 VE 33’NCÜ MADDELERİNİN UYGULANMASINA DAİR YÖNETMELİK",
+  "number": "5440",
+  "issuer": "Orman Genel Müdürü",
+  "issuer_slug": "orman-genel-muduru",
+  "path": "regulation/orman-genel-muduru/1987/5440",
+  "source": "https://www.mevzuat.gov.tr/anasayfa/MevzuatFihristDetayIframe?MevzuatTur=7&MevzuatNo=5440&MevzuatTertip=5",
+  "source_sha256": "974eaa66c3c407460a6ee4725a2e6ee1ca202e1e69bec4e25c7cde4c8454722d",
+  "source_bytes": 66568,
+  "published": "1987-08-14",
+  "gazette": "19544",
+  "in_force": "2023-09-02",
+  "in_force_basis": "latest Resmî Gazete date printed in the source amendment notes/table (\"RG-2/9/2023\") for the current consolidated text",
+  "date_evidence": [
+    [
+      "2023-09-02",
+      "RG-2/9/2023",
+      "Resmî Gazete date printed in the source amendment note"
+    ],
+    [
+      "2023-09-02",
+      "2/9/2023",
+      "Resmî Gazete date in the source amendment table"
+    ],
+    [
+      "2014-06-13",
+      "RG-13/6/2014",
+      "Resmî Gazete date printed in the source amendment note"
+    ],
+    [
+      "2014-06-13",
+      "13/6/2014",
+      "Resmî Gazete date in the source amendment table"
+    ],
+    [
+      "2006-01-28",
+      "RG-28/01/2006",
+      "Resmî Gazete date printed in the source amendment note"
+    ],
+    [
+      "2006-01-28",
+      "28/01/2006",
+      "Resmî Gazete date in the source amendment table"
+    ]
+  ],
+  "history": "current-text",
+  "label": "oldest version available",
+  "checked_on": "2026-11-15",
+  "word_count": 3201,
+  "text_status": "current-consolidated",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  },
+  "completeness": "html-text-complete"
+}

@@ -1,0 +1,8 @@
+Zati yapacak emvalin bedelinin tahsili, teslimatı ile nakit ödeme süresi
+Madde 20- Orman Kanununun 31,32 ve 33’ncü maddelerine göre, haksahibi olanların tespit edilen yapacak ihtiyaçları, bedelleri orman işletme şefliğince tahsil edildikten sonra teslim edilir.
+Teslimat: Zati ve felaketzede ihtiyaçlarında haksahiplerine, köy müşterek ihtiyaçlarında köy muhtarlığına, göçmenlerle diğerlerinin ihtiyaçlarında ise kendilerine veya ilgili kuruluşun mutemetlerine yapılır.
+Ancak, haksahibinin hastalık, askerlik, eş ve çocuklarının köyde devamlı oturmaları halinde tutukluluk ve yurt dışında olmalarının köy ihtiyar heyeti veya ilgili kuruluşlarca belgelendirilmesi durumunda ihtiyaçları vekillerine teslim edilebilir.
+Haksahiplerine, tespit edilen ihtiyaçlar 3’ncü sınıf emvalden verilir. Ancak, kapı ve pencere gibi doğramaya ihtiyaç olması halinde, tespit edilen toplam ihtiyacın en çok % 15’ine kadarı 2’nci sınıf emvalden verilebilir.
+İstife alınmamış emvalden zati yapacak ihtiyaç verilmez.
+Haksahiplerine satılan emval, satış tarihinden itibaren en geç 30 gün içinde istif veya satış istif yerlerinden kaldırılır. Zorunlu hallerde bu süre orman işletme şefliğince 15 gün daha uzatılabilir. Bu süre zarfında da, yapacak emvali istif veya satış istif yerlerinden kaldırmayanların satışları iptal olunarak kendilerinden alınan emval bedelleri yılı içerisinde işletmesince iade edilir.
+31’nci madde kapsamına giren köylerdeki haksahibinin emval yerine nakit talep etmesi halinde,13 ve 14’ncü maddelerdeki esaslar dahilinde kendisine en kısa sürede nakden ödeme yapılır. Ancak, hastalık, askerlik, eş ve çocuklarının köyde devamlı oturmaları halinde tutukluluk ve yurtdışında bulunma durumunda nakit ödeme kanuni vekiline yapılır.

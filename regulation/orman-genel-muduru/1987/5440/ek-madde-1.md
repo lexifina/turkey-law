@@ -1,0 +1,2 @@
+Ek Madde 1 — (Ek:RG-28/01/2006-26063)
+21/10/2003 tarihli ve 4992 sayılı Nüfus Kanununun Bir Maddesinin Yürürlükten Kaldırılmasına Dair Kanunun yürürlüğe girdiği tarihten sonra, orman köylerinden bölünme sonucu birden fazla köy veya birden fazla köyün birleşerek yeni bir köy veya kasaba kurulması durumunda yeni oluşturulan köy ve kasabalardaki kişilerin o köy veya kasaba nüfusuna kayıtlı olduğu kabul edilir.
