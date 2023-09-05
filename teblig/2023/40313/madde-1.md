@@ -1,0 +1,2 @@
+Amaç ve kapsam
+MADDE 1- (1) Bu Tebliğin amacı, yerli üretici Elpa Elastiki İplikler Sanayi ve İhracat A.Ş. firması tarafından yapılan, Şahin Lateks Sanayi ve Ticaret A.Ş. tarafından desteklenen başvuruya istinaden Tayland Krallığı menşeli 4007.00 gümrük tarife pozisyonu altında yer alan “vulkanize edilmiş kauçuktan iplik ve ipler” (lateks iplik) ürünü ithalatına yönelik yürürlükte bulunan dampinge karşı kesin önleme ilişkin nihai gözden geçirme soruşturması açılması ve açılan soruşturmanın usul ve esaslarının belirlenmesidir.

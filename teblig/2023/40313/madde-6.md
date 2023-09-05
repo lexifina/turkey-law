@@ -1,0 +1,3 @@
+Mevcut önlem
+MADDE 6- (1) 27/11/2012 tarihli ve 28480 sayılı Resmî Gazete’de yayımlanan İthalatta Haksız Rekabetin Önlenmesine İlişkin Tebliğ (Tebliğ No: 2012/23) uyarınca Tayland menşeli 4007.00 gümrük tarife pozisyonu altında yer alan “vulkanize edilmiş kauçuktan iplik ve ipler” (lateks iplik) ürününe yönelik olarak CIF bedelin %4,37’si ve %8,75’i oranlarında firma bazında dampinge karşı kesin önlem yürürlüğe konulmuştur.
+(2) 8/9/2018 tarihli ve 30529 sayılı Resmî Gazete’de yayımlanan İthalatta Haksız Rekabetin Önlenmesine İlişkin Tebliğ (Tebliğ No: 2018/30) ile tamamlanan NGGS sonucunda yürürlükte olan dampinge karşı önlemin aynen uygulanmaya devam edilmesine karar verilmiştir.
