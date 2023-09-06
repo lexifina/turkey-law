@@ -1,0 +1,21 @@
+{
+  "record_type": "parliament-written-question",
+  "term": 28,
+  "legislative_year": 1,
+  "esas_no": "7/3963",
+  "submitted": "2023-09-06",
+  "submitted_as": "Başkanlığa geliş tarihi",
+  "mp": "Yüksel Selçuk TÜRKOĞLU",
+  "province": "Bursa",
+  "summary": "Yükseköğrenim gören gençlere bir defaya mahsus olmak üzere bilgisayar ediniminde vergi muafiyeti tanınması ve aylık internet hakkı sağlanması konusunda yürütülen çalışmalara ilişkin",
+  "status": "Cevaplanmadığı Gelen Kağıtlarda İlan Edildi",
+  "status_as_of": "2026-11-16",
+  "official_record": "https://www.tbmm.gov.tr/Denetim/Yazili-Soru-Onergesi-Detay/33d8e857-0b3e-4edd-96c0-018a6e5d84a4",
+  "source": "https://tbmm.gov.tr/Denetim/YaziliSoruOnergesiTable",
+  "source_form": "https://tbmm.gov.tr/Denetim/Yazili-Soru-Onergeleri",
+  "source_sha256": "c2657d8390c1b7d2f876bc0752b106da390aa63ce9d86070a3147212273baf8a",
+  "in_force": "2023-09-06",
+  "in_force_basis": "Date the question reached the Speaker (Başkanlığa geliş tarihi) in the official TBMM written-question record; parliamentary oversight record, not law",
+  "history_type": "metadata",
+  "text_status": "metadata-only: question text, addressee and answers are in the linked official record (PDFs on cdn.tbmm.gov.tr); not transcribed here"
+}
