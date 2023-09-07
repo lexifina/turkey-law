@@ -1,0 +1,18 @@
+{
+  "kind": "norm",
+  "issuer": "Kişisel Verileri Koruma Kurumu",
+  "document_type": "decision-summary",
+  "number": "2023/1548",
+  "source_id": 7777,
+  "date": "2023-09-07",
+  "title": "“İlgili kişinin açık rızası alınmadan ses kaydının alınması, paylaşılması ve mahkeme dosyasına sunulması” hakkında Kişisel Verileri Koruma Kurulunun 07/09/2023 Tarihli ve 2023/1548 Sayılı Karar Özeti",
+  "source": "https://www.kvkk.gov.tr/Icerik/7777/2023-1548",
+  "source_sha256": "9643541939a96d1bd793cd618303fedbe08af9cc081122471fb0981d514e8b8c",
+  "text_status": "summary",
+  "text_file": "metin.md",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  }
+}
