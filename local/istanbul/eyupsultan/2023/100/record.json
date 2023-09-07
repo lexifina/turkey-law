@@ -1,0 +1,22 @@
+{
+  "number": "100",
+  "number_as_published": "2023/100",
+  "year": 2023,
+  "title": "Eyüpsultan İlçesi, Nişancı Mahallesi 150 Ada 1,2,4 Parsellere Ait 1/1000 Ölçekli Koruma Amaçlı Uygulama İmar Planı Değişikliği Teklifi",
+  "decision_date": "2023-09-07",
+  "source": "https://eyupsultan.bel.tr/tr/main/pages/2023-eylul-ayi-meclis-kararlari/2444",
+  "official_document": "https://eyupsultan.bel.tr/tr/main/pages/2023-100/2445",
+  "source_sha256": "ef7a3c21afbe28a667a0c4b6525cbffb97cbc6d70745e511b9faec1a4dc8247d",
+  "issuer": "Eyüpsultan Belediye Meclisi",
+  "history_type": "metadata",
+  "text_status": "metadata-only: listing fields as published; complete decision text is in the linked official document, not transcribed",
+  "in_force": "2023-09-07",
+  "in_force_basis": "Decision date as printed in the official council listing: 07.09.2023 (meeting date at the start of the decision page); adoption date of the council decision; legal commencement not asserted",
+  "missing": [
+    "complete official decision text",
+    "official annexes"
+  ],
+  "law_text_complete": false,
+  "privacy_withheld": false,
+  "decision_page_sha256": "fc0b1830568c43be7573450ac42e33a25a1f2d505bc6341e49fc184317d2025f"
+}
