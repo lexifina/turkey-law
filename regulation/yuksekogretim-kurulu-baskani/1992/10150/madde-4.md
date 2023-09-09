@@ -1,0 +1,4 @@
+Müfredat Programlarının Hazırlanması ve Onaylaması
+MADDE 4. Tamamlama programlarında uygulanacak müfredat programları mühendislik fakültelerinin lisans programları esas alınmak suretiyle teknik öğretmenlik programlarının müfredatı ile mühendislik lisans programlarının müfredatı arasındaki farklılıkları giderecek şekilde hazırlanır.
+Müfredat programları bir Yükseköğretim Kurulu Üyesinin kordinatörlüğünde, teknik eğitim fakülteleri öğretim üyeleri arasından üç, mühendislik fakültesi öğretim üyeleri arasından üç üye olmak üzere Yükseköğretim Yürütme Kurulunca seçilen yedi kişilik bir komisyonca birinci fıkra hükümlerine uygun olarak hazırlanır. Komisyon, gerektiğinde ilgili alanlarda görevli öğretim üyelerinden alt komisyon oluşturabilir.
+Müfredat programları Üniversitelerarası Kurul tarafından onaylandıktan sonra uygulanmaya konulur.
