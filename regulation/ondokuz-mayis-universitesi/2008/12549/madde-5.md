@@ -1,0 +1,4 @@
+İKİNCİ BÖLÜM
+Merkezin Amaçları ve Faaliyet Alanları
+Merkezin amaçları
+MADDE 5 – (1) Merkezin amacı; kadının toplumsal ve ekonomik kalkınma içerisinde yerini alabilmesi için kadının statüsü ve sorunları ile ilgili her konuda duyarlı, bilgili ve yeterli kadroların yetiştirilmesine yönelik olarak faaliyetlerde bulunmak, yurt içinde ve yurt dışında kadın sorunları ile ilgili her alanda araştırma ve incelemeler yapmak, bu yoldaki etkinliklere katılmaktır. Merkez amaçları doğrultusunda, özel veya kamu kurum ya da kuruluşlarıyla işbirliği yaparak kongre, sempozyum, panel, atölye çalışmaları ve kurslar düzenler. Özel veya resmi kuruluşlardan gelecek istekler doğrultusunda, önerilen projeleri ve kişisel araştırma projelerini, gerektiğinde ilgili kuruluşlardan maddi destek de alarak kuracağı araştırma, uygulama birimleri bünyesinde destekler ve yürütür.

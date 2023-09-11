@@ -1,0 +1,2 @@
+Müdür yardımcısı
+MADDE 10 – (1) Müdür yardımcısı; Müdür tarafından Üniversite öğretim üyeleri arasından seçilerek görevlendirilmek üzere Rektörün onayına sunulur. Müdür yardımcılığı süresi üç yıldır. Görev süresi biten müdür yardımcısı tekrar görevlendirilebilir. Müdür yardımcısı; Müdürün yokluğunda ona vekalet eder, Müdürün verdiği işleri ve Yönetim Kurulu toplantılarında Kurulun sekreterliğini yapar.
