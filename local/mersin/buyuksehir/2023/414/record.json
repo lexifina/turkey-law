@@ -1,0 +1,18 @@
+{
+  "issuer": "Mersin Büyükşehir Belediye Meclisi",
+  "number": "414",
+  "decision_date": "2023-09-11",
+  "title": "-MEC.KAR.(Yenişehir İlçesi Çavak Mahallesi 177 Ada 47 Parsel)",
+  "listed_as": "414-MEC.KAR.(Yenişehir İlçesi Çavak Mahallesi 177 Ada 47 Parsel)",
+  "subject_note": "subject as the meeting page lists it (the register shortens some long subjects)",
+  "official_document": "https://www.mersin.bel.tr/dokumanlar/414-meckaryenisehir-ilcesi-cavak-mahallesi-177-ada-47-parsel-1932450096",
+  "source_listing": "https://www.mersin.bel.tr/dokumanlar/11-eylul-2023-meclis-kararlari-135309130",
+  "listing_sha256": "a39128b55f2a48c39e75117a582955dfa0988488ac2c2dff7b94323f7b95e9a9",
+  "meeting_title": "11 EYLÜL 2023 MECLİS KARARLARI",
+  "history_type": "metadata-only",
+  "capture_mode": "metadata-only",
+  "text_status": "metadata-only; official decision page linked, text not transcribed",
+  "date_basis": "meeting date in the official meeting page title (decision date of the session)",
+  "commencement_established": false,
+  "privacy_withheld": false
+}
