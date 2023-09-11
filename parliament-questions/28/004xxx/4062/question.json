@@ -1,0 +1,21 @@
+{
+  "record_type": "parliament-written-question",
+  "term": 28,
+  "legislative_year": 1,
+  "esas_no": "7/4062",
+  "submitted": "2023-09-11",
+  "submitted_as": "Başkanlığa geliş tarihi",
+  "mp": "Cevdet AKAY",
+  "province": "Karabük",
+  "summary": "2018-2023 yılları arasında Bakanlık tarafından hazırlatılan kamu spotlarına ilişkin",
+  "status": "Süresi Geçtikten Sonra Cevaplandı",
+  "status_as_of": "2026-11-16",
+  "official_record": "https://www.tbmm.gov.tr/Denetim/Yazili-Soru-Onergesi-Detay/86aac9a1-8a69-4fe7-aee3-018a84399364",
+  "source": "https://tbmm.gov.tr/Denetim/YaziliSoruOnergesiTable",
+  "source_form": "https://tbmm.gov.tr/Denetim/Yazili-Soru-Onergeleri",
+  "source_sha256": "5134ff062326cb75d45a45ee2f3642ae95f9b5e08933b95f0bd37563d31a2642",
+  "in_force": "2023-09-11",
+  "in_force_basis": "Date the question reached the Speaker (Başkanlığa geliş tarihi) in the official TBMM written-question record; parliamentary oversight record, not law",
+  "history_type": "metadata",
+  "text_status": "metadata-only: question text, addressee and answers are in the linked official record (PDFs on cdn.tbmm.gov.tr); not transcribed here"
+}
