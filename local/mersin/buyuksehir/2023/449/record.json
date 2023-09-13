@@ -1,0 +1,18 @@
+{
+  "issuer": "Mersin Büyükşehir Belediye Meclisi",
+  "number": "449",
+  "decision_date": "2023-09-13",
+  "title": "-MEC.KAR.(içel sanat kulübü 28.Mersin Arkeoloji Günleri )",
+  "listed_as": "449-MEC.KAR.(içel sanat kulübü 28.Mersin Arkeoloji Günleri )",
+  "subject_note": "subject as the meeting page lists it (the register shortens some long subjects)",
+  "official_document": "https://www.mersin.bel.tr/dokumanlar/449-meckaricel-sanat-kulubu-28mersin-arkeoloji-gunleri--2033493366",
+  "source_listing": "https://www.mersin.bel.tr/dokumanlar/13-eylul-2023-meclis-kararlari-734568751",
+  "listing_sha256": "fe08807e0ed69e24c78498c36d5bdb079daf4a0c1b446f71d63d610975464380",
+  "meeting_title": "13 EYLÜL 2023 MECLİS KARARLARI",
+  "history_type": "metadata-only",
+  "capture_mode": "metadata-only",
+  "text_status": "metadata-only; official decision page linked, text not transcribed",
+  "date_basis": "meeting date in the official meeting page title (decision date of the session)",
+  "commencement_established": false,
+  "privacy_withheld": false
+}
