@@ -1,0 +1,16 @@
+{
+  "kind": "decision",
+  "issuer": "Sayıştay Temyiz Kurulu",
+  "number": "55746",
+  "decision_date": "2023-09-13",
+  "source_id": 28333,
+  "chamber": "7",
+  "file_number": "50888",
+  "public_body_type": "Belediyeler ve Bağlı İdareler",
+  "account_year": "2019",
+  "subject": "Personel Mevzuatı ile İlgili Kararlar",
+  "source": "https://www.sayistay.gov.tr/KararlarTemyiz/Detay/28333/",
+  "source_sha256": "7105e9c220a76cce105a34b657194b5c42bc6c549ae1ea624b3c62e1dd67fb77",
+  "text_status": "as-enacted",
+  "text_file": "metin.md"
+}
