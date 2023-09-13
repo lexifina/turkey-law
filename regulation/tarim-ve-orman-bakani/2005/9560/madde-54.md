@@ -1,0 +1,23 @@
+Yaban hayvanlarından zararlı olanlarla mücadele
+Madde 54 — Koruma altında olan yaban hayvanlarından;
+a) (Değişik:RG-13/9/2023-32308) Popülasyon büyüklüğünün aşırı artması nedeniyle yaşama ortamlarını tahrip edenler veya evcil ile yaban hayvanlara zarar verenler,
+b) Tedavisi mümkün olmayan sakatlık ve hastalığı bulunanlar,
+c) Halk sağlığını tehdit edenler,
+d) Yaban hayvanlarına ve doğal yaşama ortamlarına zarar verenler,
+e) Genetik deformasyona uğramış, nesli bozabilecek olanlar,
+f) (Ek:RG-7/12/2021-31682) İnsan yaralama ve ölümüne neden olanlar,
+zararlı olarak kabul edilir.
+Koruma altında olmayan yaban hayvanlarından;
+a) Tarım alanlarına, tarım ürünlerine, hayvancılığa, balıkçılığa ve diğer arazi kullanım şekillerine yönelik ciddi zarar verenler,
+b) Evcil hayvanlara zarar verenler,
+c) Ormanlara zarar verenler,
+d) Sulara zarar verenler,
+e) (Değişik:RG-7/12/2021-31682) İnsan canına veya mala zarar verenler,
+f) Güvenlik, hava güvenliği ve kamu yararını tehdit eder duruma gelenler,
+ile benzeri durumlara sebebiyet verenler zararlı olarak kabul edilir.
+(Değişik üçüncü fıkra:RG-13/9/2023-32308) Yaban hayvanlarının zararlı olanları ile mücadele; ilgili kişi, kurum veya kuruluşların talebine istinaden, bu maddenin birinci fıkrasının (b) ve (c) bentleri ile ikinci fıkrasının (a) ve (b) bentlerinde belirtilenler için Tarım ve Orman Bakanlığı İl veya İlçe Tarım ve Orman Müdürlüğünden, birinci fıkrasının (f) bendi ile ikinci fıkrasının (e) bendinde belirtilenler için İçişleri Bakanlığı Mahalli teşkilatından, ikinci fıkrasının (d) ve (f) bentlerinde belirtilenler için ilgili kurum veya kuruluşun mahalli teşkilatından bir yetkili ile il müdürlüğü görevlilerince, yaban domuzu zararlarında ise sadece Tarım ve Orman Bakanlığı İl veya İlçe Tarım ve Orman Müdürlüğünce zarar sonrası ilk 72 saat içinde hazırlanacak rapor kapsamında, bu maddenin birinci fıkrasının (a), (d) ve (e) bentleri ile ikinci fıkrasının (c) bendinde belirtilenler için sadece il müdürlüğü görevlilerince, mahallinde inceleme yapılarak hazırlanacak rapor doğrultusunda, ulusal ve uluslararası mevzuat kapsamında Genel Müdürlük tarafından çıkarılacak usul ve esaslar çerçevesinde mücadele yapılır.
+(Değişik dördüncü fıkra:RG-13/9/2023-32308) Öncelikle popülasyon büyüklüğünün normal seviyeye indirilmesi amacıyla; o türün artma nedenlerinin tespit edilip, türü kontrol altında tutan türlerin arttırılması için ortama müdahale edilir. Bu müdahalenin yeterli olmaması durumunda ise Genel Müdürlüğün belirlediği usul ve esaslara göre yakalama ve avlanma yapmak suretiyle mücadele edilir. Bu kapsamda yapılacak sürek veya bek avlarında avlanacak kişilerin avcılık belgesinin olması şarttır. İhtiyaç duyulması halinde yaban domuzu ile ilgili mücadele kapsamındaki avlanmalar men edilen avlanma usulleriyle ve/veya avlanma zamanı dışında ve/veya yemleme yapılmak suretiyle yapılabilir.
+(Değişik beşinci fıkra:RG-13/9/2023-32308) Av turizmi kapsamanda avlananlar hariç, avlanan bu hayvanların etleri, derileri ve trofeleri avlayan avcılara ait değildir. Bu hayvanların etlerinin, derilerinin ve trofelerinin nasıl değerlendirileceği il müdürlüğü tarafından belirlenir.
+(Değişik altıncı fıkra:RG-13/9/2023-32308) Tabiata ve türlere zararlı olan yaban hayvanları ile bu madde kapsamında zararlı kabul edilen yaban hayvanlarının avlanması, avı yapacak kişilerin görevlendirilmesi ve bunların ücretlendirilmesi il müdürlüğünün teklifi ile Genel Müdürlük tarafından yapılır. Av turizmi kapsamında av organizasyonlarına izin verilen alanlarda zararlılar ile mücadele Av Turizmi Kapsamında Avlanmalara İlişkin Usul ve Esaslar Hakkında Yönetmelik çerçevesinde yapılır.
+Avlanmanın yasak olduğu sahalarda genetik deformasyona uğramış, sakat, hasta, yaşlı, trofe değeri bulunmayan hayvanların avlanmasına; il müdürlüğünün hazırlayıp teklif edeceği gerekçeli rapor doğrultusunda Genel Müdürlükçe izin verilir ve bu bireyler il müdürlüğü elemanlarınca avlanır. Avlanan hayvanların etleri veteriner hekim tarafından muayene edilir. Muayene sonucu veteriner hekimin vereceği rapor doğrultusunda tüketilmesinde sakınca olmayanların değerlendirme şekli il müdürlüğü tarafından belirlenir. Tüketilmesinde sakınca olanlar ise (Değişik ibare:RG-7/12/2021-31682) 5996 sayılı Kanuna göre imha edilir.
+(Ek fıkra:RG-7/12/2021-31682) İnsan yaralanması ve ölüm olaylarına sebep olan zararlı ayı ve kurt gibi yaban hayvanları, 4915 sayılı Kara Avcılığı Kanununun 4 üncü maddesinin birinci fıkrası hükmü kapsamında her türlü ateşli silah ve ihtiyaç duyulması halinde men edilen avlanma yöntemleri de kullanılarak acilen alandan çıkartılır, bunu takiben zararlı hayvan ile ilgili prosedür tamamlanır.

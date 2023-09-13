@@ -1,0 +1,2 @@
+Genel kolluk kuvvetlerine bildirim
+Madde 66 — Genel Müdürlükçe yabancılar dâhil Türkiye’de bilimsel araştırma, halkalama ve markalama çalışması ile doğadan av ve yaban hayvanı yakalama ve yumurta toplamasına izin verilen gerçek ve tüzel kişiler; söz konusu çalışmalara izin verilen alanda başlamadan en az bir gün önce bu durumu ilgili il müdürlüğüne ve sorumluluk bölgesine göre genel kolluk kuvvetlerine bildirirler. Aksine hareket edenlerin aldıkları izin iptal edilir bir daha bu kişilere bu konularda çalışma izni verilmez.

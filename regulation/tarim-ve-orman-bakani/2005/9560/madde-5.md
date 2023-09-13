@@ -1,0 +1,2 @@
+Koruma
+Madde 5 — Yaban hayvanı türleri içinde yer alan ve Bakanlıkça belirlenen av hayvanlarından, korunması gerekenler Merkez Av Komisyonunca, av hayvanlarının dışında kalan yaban hayvanları ile diğer türler gerektiğinde ilgili kuruluşların uygun görüşleri alınarak Bakanlıkça koruma altına alınır. Genel Müdürlük faaliyetleri hariç, koruma altına alınan yaban hayvanları avlanamaz, yakalanamaz, yavru ve boş dahi olsa yumurtaları toplanamaz.

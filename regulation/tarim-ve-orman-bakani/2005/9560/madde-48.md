@@ -1,0 +1,2 @@
+Etiketleme
+Madde 48 — İlgililer, bilimsel ve eğitim amaçlı olarak yapmış oldukları çalışmalarda; kullanmak üzere; alanda elde ettikleri her türlü örnek ile kan, dışkı, tüy, doku ve vücut salgılarını koydukları kapları, çalışmanın yapıldığı il müdürlüğüne Eğitim ve Bilimsel Materyal Etiketi (Ek - 6) ile etiketlettirirler. Ancak, çabuk bozulabilecek örneklerde bu etiket il müdürlüğünden imza karşılığı önceden temin edilebilir.

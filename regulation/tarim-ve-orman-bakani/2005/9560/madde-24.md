@@ -1,0 +1,1 @@
+Madde 24 — Yaban hayatı açısından öneme sahip alanlarda, bu alanlara zarar verebilecek yabancı ve istilacı bitki, mantar, böcek ve benzeri türler ile bitki hastalıklarıyla mücadele; il müdürlüğünün talebi üzerine ilgili kurum veya kuruluşlarca yapılır.

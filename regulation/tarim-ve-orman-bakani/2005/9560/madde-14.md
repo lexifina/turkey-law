@@ -1,0 +1,3 @@
+Doğadan yakalama ve toplama izni verilecek üreticiler
+Madde 14 — Üretim amacıyla doğadan yakalanan damızlık bireylerin ve toplanan yumurtaların; alımı, satımı ve ticareti yasaktır. Üretimde kullanılan bu damızlıkların, damızlık özelliklerini yitirmeleri durumunda ıskartaya çıkartılır. Üreticiler bu damızlıklardan yapmış olduğu üretim sonucunda elde ettiği bireylerin, her yıl yüzde onunu beş yıl boyunca doğaya yerleştirmekle yükümlüdürler.
+Üretim amacıyla doğadan av ve yaban hayvanı yakalama ve yumurta toplama izni verilen gerçek veya tüzel kişilere farklı amaçlarla dahi olsa aynı tür için Genel Müdürlükçe kabul edilebilecek mücbir sebepler hariç beş yıl süre ile ikinci bir izin verilmez.

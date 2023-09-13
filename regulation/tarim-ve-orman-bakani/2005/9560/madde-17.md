@@ -1,0 +1,2 @@
+Doğadan yakalanan bireylerin ölmesi
+Madde 17 — Doğadan yakalanan veya toplanan yumurtalardan çıkan bireylerin herhangi bir sebepten ölmeleri durumunda ilgililer; il müdürlüğünü haberdar eder. İl müdürlüğünün düzenleyeceği tutanak ile ölü hayvanlar ilgililerce il müdürlüğü elemanlarının nezaretinde (Değişik ibare:RG-7/12/2021-31682) 5996 sayılı Kanuna göre imha edilir. Ancak, Genel Müdürlük bu ölü bireyleri eğitim amaçlı tahnit ettirebilir.

@@ -1,0 +1,2 @@
+Risk haritaları
+Madde 29 — Av ve yaban hayvanlarının yaşama ortamlarında düzenli olarak izlenmesi için, ölçeği Genel Müdürlükçe belirlenecek av ve yaban hayvanı yaşama ortamlarını gösteren risk haritaları il müdürlüğü tarafından en geç üç yıl içinde hazırlanır veya hazırlatılır. Bu haritalarda, korunan yaban hayvanı ve/veya ekonomik açıdan av değeri yüksek hayvanların bulunduğu yaşama ortamları yer alır. Bu haritalar ve ekleri il müdürlüğü tarafından üç yılda bir revize edilir.

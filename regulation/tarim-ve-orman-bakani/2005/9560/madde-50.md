@@ -1,0 +1,2 @@
+Bilimsel araştırma, halkalama ve markalama yapılamayacak dönemler
+Madde 50 — Bilimsel araştırma, halkalama ve markalama ile film çekimi ve gözlemler için av ve yaban hayvanları; üreme, tüy değiştirme ve göç dönemlerinde rahatsız edilemez, yavru ve boş dahi olsa yumurtaları toplanamaz, yuvaları dağıtılamaz ve memeliler kış uykusunda rahatsız edilemez. Ancak, yukarıda belirtilen dönemlerde bu çalışmaların yapılmasına gerek duyulması ve Genel Müdürlük tarafından da uygun ve gerekli görülmesi halinde izin verilebilir.

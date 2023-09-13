@@ -1,0 +1,3 @@
+Genel müdürlüğe gönderilen raporların arşivlenmesi
+Madde 68 — Genel Müdürlük bu Yönetmelikte belirtilen çalışmalarla ilgili gönderilmesi mecburi olan her türlü tez, rapor, görüş ve benzerlerini arşivler ve bu arşivler Genel Müdürlüğün belirleyeceği esaslar çerçevesinde araştırmacıların kullanımına açılır.
+Geçici madde 1 – Bu Yönetmelik yürürlüğe girmeden önce verilen ve halen devam eden bilimsel araştırmalar, doğadan toplama ve yakalama izinleri, halkalama, markalama çalışmaları bu Yönetmelikte belirtilen usul ve esaslar çerçevesinde yürütür. Bu konularda yapılan protokoller bu Yönetmelik esaslarına göre yeniden değerlendirilir.

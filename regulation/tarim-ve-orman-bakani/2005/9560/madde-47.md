@@ -1,0 +1,2 @@
+Belirtilen süreler içerisinde bilimsel araştırma, halkalama ve markalama çalışmalarının tamamlanamaması
+Madde 47 — Belirtilen süreler içerisinde bilimsel araştırma, halkalama ve markalama çalışmalarını tamamlayamayanlar, verecekleri bir dilekçe ile ek süre isteyebilirler. Dilekçede belirtilen tarih ve sürenin Genel Müdürlükçe de uygun görülmesi halinde veya Genel Müdürlüğün uygun göreceği tarih ve sürede çalışmalarını tamamlayabilirler.

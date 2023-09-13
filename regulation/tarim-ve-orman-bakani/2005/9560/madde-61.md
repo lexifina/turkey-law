@@ -1,0 +1,2 @@
+Başvuru formlarında ve sonuç raporlarında kullanılacak dil
+Madde 61 — Yabancı uyruklu kişiler tarafından doldurulacak başvuru formları ve bu çalışmalar kapsamında hazırlanacak raporlarda dil olarak Türkçe kullanılır. Ancak, başvuru formları ve raporların yabancı bir dil kullanılarak düzenlenmek istenmesi durumunda; ilgililer, başvuru formlarını ve hazırlayacakları raporları yeminli tercümana tercüme ettirip, onaylatarak il müdürlüğüne verirler.

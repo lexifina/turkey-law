@@ -1,0 +1,3 @@
+Bakanlık tarafından ava kapatılacak alanlar
+Madde 21 — Av yılı içinde, avlanmanın açık olduğu avlaklarda bazı av hayvanı türlerinin nesillerini devam ettiremeyecek sayıya düşmesi veya yaban hayvanları için önem arz eden avlaklar; birey sayısını popülâsyonun devamını sağlayacak seviyeye ulaştırıncaya kadar, Bakanlık tarafından ava kapatılır ve mahalli olarak ilan edilerek Merkez Av Komisyon kararlarında yayınlanır. Ava kapatılan bu avlaklar, Bakanlığın gerekçeli iptal kararına kadar bu statülerini devam ettirir.
+Bu alanlarda türün ve alanın korunmasına yönelik, gerçek ve tüzel kişiler ile işbirliği yapılabilir.

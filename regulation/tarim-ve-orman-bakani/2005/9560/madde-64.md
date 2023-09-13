@@ -1,0 +1,2 @@
+Başvuru formlarının temini ve parafe edilmesi
+Madde 64 — Belge ve formlar başvuru yapılan makamdan temin edilir. Eğitim ve Üretim Amaçlı Doğadan Av ve Yaban Hayvanı Yakalama ve Yumurta Toplama İzni Başvuru ve İzin Formunun (Ek - 2), Bilimsel Araştırma Başvuru ve İzin Formunun (Ek - 4) ve Halkalama ve Markalama İzni Başvuru ve İzin Formunun (Ek - 5) son sayfaları hariç diğer sayfaları ilgili veya ilgililer tarafında parafe edilerek imza altına alınır.

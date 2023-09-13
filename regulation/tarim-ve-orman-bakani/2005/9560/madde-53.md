@@ -1,0 +1,5 @@
+İKİNCİ BÖLÜM
+Yaban Hayvanlarından Zararlı Olanlar ve Hayvan Zararlılarıyla Mücadele
+Yabancı ve istilacı türler ile mücadele
+Madde 53 — Herhangi bir nedenle yabancı veya istilacı bir türün kendi habitatından farklı bir doğal yaşam ortamına girmesi ve bu alanda hızlı bir şekilde üreyerek, yayılışını genişletmesinden dolayı; habitatın yerli bitki ve hayvan türlerine, tarım arazilerine, evcil hayvanlara ve insanlara olumlu ve olumsuz ekonomik ve ekolojik etkileri Genel Müdürlüğün koordinasyonunda araştırılır.
+Bu yabancı türlerden, habitatın yerli bitki ve hayvan türlerine, tarım arazilerine, evcil hayvanlara, insanlara, ekonomiye ve ekolojiye olumsuz etkileri olanlarla mücadele, bu türlerin biyolojik özellikleri dikkate alınarak Genel Müdürlüğün belirlediği usul ve esaslar çerçevesinde il müdürlüğü tarafından yapılır veya yaptırılır. Gerçek ve tüzel kişilerin sebebiyet verdiği durumlarda 4915 sayılı Kara Avcılığı Kanununun 26 ncı maddesi ile 2872 sayılı Çevre Kanununun 28 inci maddesi hükümlerine göre işlem yapılır.

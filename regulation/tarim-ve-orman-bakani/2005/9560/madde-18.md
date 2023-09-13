@@ -1,0 +1,2 @@
+Tehdit altındaki türlerin doğadan yakalanması ve toplanması
+Madde 18 — Genel Müdürlük, bu Yönetmeliğin 3 üncü maddesindeki nesli tehlikede olan tür, duyarlı tür, nesli tehdit altında olan tür ve nadir türler sınıflarına giren türlerin, bu Yönetmeliğin 10 uncu maddesinde belirtilen doğadan yakalama veya toplama amaçlarına hizmet etmesi durumunda; bu türler üzerinde bilimsel araştırma ve üretim çalışmalarını yapar, yaptırır veya bu çalışmaları koordine eder.

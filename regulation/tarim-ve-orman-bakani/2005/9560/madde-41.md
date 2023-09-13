@@ -1,0 +1,2 @@
+Eğitim
+Madde 41 — Yayınlar, seminerler ve diğer iletişim araçları yoluyla av ve yaban hayvanları, yaşama ortamları, türlerin korunması, yaşam ortamlarının yönetilmesi ve benzeri konularda halkın bilinçlendirilmesi için çeşitli eğitim programları Genel Müdürlükçe yapılır veya yaptırılır. Bu eğitim programlarına ait tanıtım setlerinin, yerel, bölgesel ve ulusal radyo ve televizyonlarda yayınlanması Genel Müdürlük tarafından sağlanır.

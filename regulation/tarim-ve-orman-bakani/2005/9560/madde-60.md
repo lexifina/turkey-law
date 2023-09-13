@@ -1,0 +1,2 @@
+Doğadan toplanan veya yakalanan bireylerin bedeli
+Madde 60 — Üretim amaçlı ve bilimsel amaçlı çalışmalar hariç diğer amaçlar için doğadan toplanan veya yakalanan her birey için, Genel Müdürlük tarafından her mali yılda belirlenen bedel; ilgililerce doğadan toplama veya yakalama işi yapılan il müdürlüğü hesabına 4915 sayılı Kara Avcılığı Kanunu gereğince yatırılır. Bedel yatırıldıktan sonra bireylerin nakline il müdürlüğü tarafından izin verilir.
