@@ -1,0 +1,3 @@
+Koordinasyon
+MADDE 10 – (1) Taşra teşkilatınca yapılacak atama ve yer değiştirme işlemleri, ek ders ücreti karşılığında görevlendirmeler ile 657 sayılı Kanunun 86 ncı maddesine göre vekaleten atama işlemleri öncesinde, merkez ve taşra faaliyetleri arasında koordinasyonu sağlamak amacıyla elektronik ortamda Başkanlık izni alınması gerekir.
+(2) Taşra teşkilatındaki şef unvanı altındaki kadrolarda görev yapan personelin bu Yönetmeliğin 38 inci maddesinde zikredilen mazeretleri sebebiyle görev veya yer değiştirmenin gerekli görülmesi halinde, il içi veya il dışı yer değiştirmeleri Başkanlıkça re’sen yapılabilir.

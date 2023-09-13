@@ -1,0 +1,3 @@
+Karşılıklı yer değiştirme
+MADDE 40 – (1) Atandığı il veya ilçede altı ayı tamamlayanların il içinde; iki yılı tamamlayanların iller arası karşılıklı yer değiştirme istekleri, aynı sınıf ve unvanda olmak kaydıyla merkezde birim amirlerinin, taşrada müftü, dini yüksek ihtisas merkezi veya eğitim merkezi müdürlerinin muvafakati ve atamaya yetkili amirin uygun görmesi üzerine Başkanlığın izni ile yerine getirilir.
+(2) Bulunduğu grup veya sınıfta bir defa olmak üzere, grup veya sınıf hizmetine tabi olanların aynı grup, sınıf ve unvanda olmak kaydıyla karşılıklı yer değiştirme talepleri yerine getirilebilir.

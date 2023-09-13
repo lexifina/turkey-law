@@ -1,0 +1,4 @@
+Yurt dışı sürekli görevden dönen personelin atanması
+MADDE 27 – (1) Yurt dışı sürekli görevden dönen grup ve sınıf hizmetine tabi personel, yurt içinde tekrar aynı unvanlı görevlere atanmak istemeleri halinde, ayrıldıkları grup veya sınıftaki hizmetlerini tamamlamamış iseler bu grup veya sınıftaki il veya ilçelere atanırlar. Ayrıldıkları grup veya sınıftaki hizmetlerini tamamlamış olanlar ise, durumlarına uygun il veya ilçelere atanabilirler.
+(2) Bakanlıklar arası Ortak Kültür Komisyonu tarafından yurt dışında görevlendirilen il müftüsü dışındaki grup ve sınıf hizmetine tabi personelden yurt içi göreve dönenler, önceki görevlerine atanmak istediklerinde, dördüncü grup illerde ve dördüncü sınıf ilçelerde asgari hizmet süresini tamamlamamış iseler bu grup/sınıf il ve ilçelere atanırlar.
+(3) Yurtdışında geçirilen hizmet süreleri, birinci grup/sınıf illerde veya ilçelerde; artan süreler ise bir alt grup/sınıf illerde veya ilçelerde geçirilmiş sayılır.

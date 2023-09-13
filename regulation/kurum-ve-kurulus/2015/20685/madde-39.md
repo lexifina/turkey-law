@@ -1,0 +1,5 @@
+Engellilik durumuna bağlı yer değişikliği
+MADDE 39 – (1) İlgili mevzuatına göre alınan sağlık kurulu raporunda en az yüzde kırk oranında engelli olduğu belirtilen memurlar ile ağır engelli raporlu eşi veya bakmakla yükümlü olduğu birinci derece kan hısımları bulunan memurlar engellilik durumundan kaynaklanan gerekçelere dayalı olarak yer değiştirme talebinde bulunabilir.
+(2) Bu kapsamdaki talepler bu Yönetmelikte yer alan kısıtlayıcı hükümlere tabi olmaksızın Başkanlığın kadro imkânları ve teşkilat yapısı dikkate alınarak karşılanır ve bu haktan bir defadan fazla yararlanılamaz.
+(3) Memurun kendisinin veya birlikte yaşadığı eşi ve bakmakla yükümlü olduğu çocuklarının engellilik durumunun tedavisi sebebiyle yer değişikliğini talep etmesi halinde, yer değiştirme suretiyle atama yapılacak yerin, memurun ve bu fıkra kapsamındaki yakınlarının engellilik durumuna uygun olması esastır.
+(4) Engellilik durumu devam ettiği sürece isteği dışında memurun yeri değiştirilmez. Engellilik durumu ortadan kalkan memurlar hakkında bu Yönetmelikte yer alan diğer hükümler uygulanır.

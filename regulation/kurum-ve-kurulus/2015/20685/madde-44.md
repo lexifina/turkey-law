@@ -1,0 +1,11 @@
+Eşdeğer kadrolar
+MADDE 44 – (1) Başkanlık personelinden il müftü yardımcısı ve dengi ile daha alt düzeyde bulunan kadroların eşdeğerleri aşağıdaki şekilde yedi kademe olarak belirlenmiştir:
+a) Birinci kademe: İl müftü yardımcısı, ilçe müftüsü, eğitim görevlisi, başvaiz, uzman vaiz.
+b) İkinci kademe: İşletme müdür yardımcısı, şube müdürü, yayınevi satış müdürü, vaiz, cezaevi vaizi, murakıp.
+c) Üçüncü kademe: Başimam-hatip, Kur’an kursu başöğreticisi.
+Ç) Dördüncü kademe: APK uzmanı, din hizmetleri uzmanı, eğitim uzmanı, vakit hesaplama uzmanı, uzman, uzman imam-hatip, uzman Kur’an kursu öğreticisi, baş müezzin-kayyım, tabip, diş tabibi.
+d) Beşinci kademe: Öğretmen, sosyolog, psikolog, çözümleyici, mütercim, kütüphaneci, istatistikçi, astronom, mühendis, mimar, imam-hatip, Kur’an kursu öğreticisi, cami rehberi, programcı, ayniyat saymanı, teberrukat saymanı, musahhih, şef, tekniker, sağlık teknikeri, biolog, yönetmen, prodüktör, film yapımcısı, ses kayıtçısı, ışıkçı, montajcı, spiker, muhabir, kameraman, müezzin-kayyım, bilgisayar işletmeni, teknik ressam, teknisyen, grafiker, hemşire, sağlık teknisyeni, laborant, veri hazırlama ve kontrol işletmeni.
+e) Altıncı kademe: Memur, mutemet, sekreter, ambar memuru, veznedar, satın alma memuru, santral memuru, daktilograf, şoför.
+f) Yedinci kademe: Yardımcı hizmetler sınıfı personeli.
+(2) Eşdeğer kadrolardan aynı kademede bulunan kadrolar arasındaki geçişler ile üst kademeden alt kademelerdeki kadrolara geçişlerde, adaylığı kalkmış olmak ve atanılacak kadronun şartlarını taşımak kaydıyla ilgili mevzuatında belirtilen diğer şartlar aranmaksızın sınavsız atama yapılabilir. Personelin talebi halinde imam-hatipler müezzin kayyım; murakıp ve Kur’an kursu öğreticileri imam-hatip veya müezzin kayyım; vaizler Kur’an kursu öğreticisi, imam-hatip veya müezzin kayyım; il müftü yardımcıları ile ilçe müftüleri ise şube müdürü, vaiz, Kur’an kursu öğreticisi, imam hatip veya müezzin kayyım kadrolarına ilgili mevzuatında belirtilen diğer şartlara tabi olmaksızın atanabilirler.
+(3) Üst veya aynı kademedeki kadrolardan eğitim görevlisi, şube müdürü, öğretmen, şef, veri hazırlama ve kontrol işletmeni ve şoför kadrolarına geçişlerde Başkanlıkça yapılacak sınavla atama yapılabilir.

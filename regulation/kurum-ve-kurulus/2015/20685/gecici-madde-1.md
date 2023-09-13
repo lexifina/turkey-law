@@ -1,0 +1,2 @@
+Aynı yerdeki cami görevlilerinin yer değiştirmesi
+GEÇİCİ MADDE 1 – (1) 37 nci maddedeki kıstaslar dikkate alınarak bu Yönetmeliğin yürürlüğe girdiği tarihte cami görevlilerinden görev yaptığı camide yirmi yılını tamamlayanların yer değişiklikleri 2015 yılı Haziran-Eylül döneminde, on beş yılını tamamlayanların yer değişiklikleri 2016 yılı Haziran-Eylül döneminde yapılır. Bu Yönetmeliğin 37 nci maddesindeki süreye göre zorunlu yer değişiklikleri ise 2017 yılından itibaren yapılmaya başlanır ve sürelerin hesaplamasında 1 Haziran tarihi esas alınır.

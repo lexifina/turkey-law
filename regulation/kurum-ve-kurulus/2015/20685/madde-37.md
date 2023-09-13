@@ -1,0 +1,5 @@
+Cami görevlilerinin mahalli hizmet gereği yer değiştirmeleri
+MADDE 37 – (1) 36 ncı maddede belirtilen sebepler dışında, cami görevlilerinin yer değiştirmelerine esas olmak üzere illerde il müftüsünün başkanlığında, durumu görüşülecek görevlinin bağlı bulunduğu müftü dâhil beş kişiden oluşan bir Değerlendirme ve Yer Değiştirme Komisyonu kurulur. Bu komisyon; görev yaptığı camide sekiz yılını tamamlayan cami görevlilerinin yer değiştirmelerini her yıl Haziran ayında toplanarak aşağıdaki kıstaslara göre gerçekleştirir:
+a) Yer değiştirmeler aynı grup camiler arasında olmak üzere öncelikle aynı ilçe içinde, yer bulunamaması halinde il içinde, il içinde de yer bulunamaması halinde iller arası yapılır.
+b) Personelin talebi halinde üst gruptaki camiden alt gruptaki camiye yer değiştirme yapılabilir.
+c) İl içi yer değiştirmeler bu Yönetmelikteki atama usulüne ilişkin hükümlerde belirtilen esaslar dikkate alınarak valiliklerce; il dışı yer değiştirmeler ise Başkanlık tarafından yapılır. İl içi yer değiştirmelerinden önce internet ortamında Başkanlıktan izin alınır.
