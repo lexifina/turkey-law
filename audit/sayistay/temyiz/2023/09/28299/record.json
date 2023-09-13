@@ -1,0 +1,16 @@
+{
+  "kind": "decision",
+  "issuer": "Sayıştay Temyiz Kurulu",
+  "number": "55725",
+  "decision_date": "2023-09-13",
+  "source_id": 28299,
+  "chamber": "2",
+  "file_number": "49286",
+  "public_body_type": "Belediyeler ve Bağlı İdareler",
+  "account_year": "2019",
+  "subject": "İhale Mevzuatı ile İlgili Kararlar",
+  "source": "https://www.sayistay.gov.tr/KararlarTemyiz/Detay/28299/",
+  "source_sha256": "4f96a811647502660254a299b2c59a35e773f5478ec51b0889582be0d35e7cba",
+  "text_status": "metadata-only",
+  "metadata_only_reason": "possible personal name in the official text"
+}
