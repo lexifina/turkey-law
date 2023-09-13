@@ -1,0 +1,21 @@
+Konu: İş Eksilişi
+
+GEREĞİ GÖRÜŞÜLDÜ:
+
+… Belediyesi 2018 yılı hesabı ile ilgili Sayıştay 4. Dairesince düzenlenen 138 sayılı İlamın 1’inci maddesinde yer alan tazmin hükmü ile ilgili olarak sorumlu Gerçekleştirme Görevlisi … (Ekonomist-Sözleşmeli Personel) daha önce temyiz talebinde bulunmuş, sorumlunun söz konusu talebi hakkında Temyiz Kurulunun verdiği 16.11.2022 tarih ve 52474 Tutanak (36578 İlam) sayılı Kararda;
+
+“138 sayılı İlamın 1’inci maddesine ilişkin olarak Gerçekleştirme Görevlisi … (Ekonomist-Sözleşmeli Personel) 48389 sayılı dosya ile Sayıştay Temyiz Kurulu’na itiraz başvurusunda bulunmuş ise de; söz konusu İlam sorumluya 08.12.2020 tarihinde tebliğ edilmiş olup, 6085 sayılı Sayıştay Kanunu’nun 55’inci maddesinde belirtilen ve İlamın tebliğ edildiği 08.12.2020 tarihi dikkate alınarak hesaplanan 60 günlük temyiz süresi, 08.02.2021 (Pazartesi günü) tarihinde sona erdiği halde, bu tarihten sonra düzenlenen 12.02.2021 evrak kayıt tarihli dilekçe ile Sayıştay kayıtlarına intikal eden talebinin SÜRE AŞIMI YÖNÜNDEN REDDİNE, oy birliğiyle,…karar verildi.” denilerek ilgili talep süre aşımı nedeniyle usul yönünden reddedilmiştir.
+
+Sorumlu … bu sefer Temyiz Kurulunun anılan kararına karşı karar düzeltilmesi kanun yoluna başvurarak gönderdiği dilekçede özetle;
+
+“… Belediyesi 2018 yılı hesabının Sayıştay 4. Dairesince yargılanması sonucunda çıkarılan 138 sayılı İlama karşı 04.02.2021 tarihinde temyiz talebinde bulunduğu, süresi içerisinde temyiz kanun yoluna başvurulduğu, buna ilişkin Sayıştay Başkanlığı Evrak Müdürlüğü tarafından verilen evrak alındısının dilekçe ekinde sunulduğu, aynı dosya kapsamında …’ın temyiz dilekçesi ile kendisinin temyiz başvuru dilekçesinin aynı gün verildiği, temyiz dilekçesinin usulüne uygun olarak ve kanuni süresi içinde verildiği, dolayısıyla temyiz başvurusunun süre aşımı yönünden reddi kararının hukuka aykırı olduğu, hükmün esasına etkili iddia ve itirazlarının Sayıştay Temyiz Kurulu Kararında karşılanmadığı, bu sebeple karar düzeltme başvurusunun kabul edilerek temyiz başvuru dilekçesinde belirtiği hususlar da dikkate alınarak kamu zararına ilişkin sorumluluğunun kaldırılması gerektiği” ni belirtmiştir.
+
+Dosya kapsamında ve Sayıştay Evrak Müdürlüğü kayıtları üzerinden yapılan incelemede;
+
+Sorumlu Gerçekleştirme Görevlisi …’a 138 sayılı İlamın 08.12.2020 tarihinde tebliğ edildiği, kişinin temyiz dilekçesini 12.02.2021 evrak tarih ve … sayısı ile elden Sayıştay Başkanlığı Evrak Müdürlüğüne teslim ettiği, İlamın kişiye tebliğ edildiği 08.12.2020 tarihi dikkate alındığında 6085 sayılı Sayıştay Kanunu’nun 55’inci maddesinde öngörülen 60 günlük temyiz süresinin 08.02.2021 (Pazartesi günü) tarihinde sona ermiş olduğu görülmüştür. Dolayısıyla sorumlu tarafından daha önce 12.02.2021 evrak kayıt tarihli dilekçe ile yapılmış temyiz talebinin süre aşımına uğradığı evrak kayıt verileri itibariyle ortadadır.
+
+Adı geçen sorumlu karar düzeltme dilekçesinde; temyiz dilekçesini usulüne uygun olarak kanuni süresi içinde 04.02.2021 tarihinde verdiğini öne sürerek, dilekçesi ekinde Sayıştay Başkanlığı Evrak Müdürlüğünün 04.02.2021 tarih ve … sayılı evrak alındısını göndermişse de; yapılan incelemede, tarih ve sayısı bildirilen evrak alındısının, 138 no.lu İlamın 1’inci maddesindeki kamu zararı sorumluluğuna iştiraki olan Harcama Yetkilisi … (Kültür ve Sosyal İşler Müdür Y.) adına düzenlendiği görülmüştür. Sorumlu … süresi içinde temyize başvurmuş olup, söz konusu kişinin başvurusu da esastan görüşülerek 16.11.2022 tarih ve 52473 Tutanak (36577 İlam) sayılı Temyiz Kurulu Kararı ile sonuca bağlanmıştır. …’ın evrak alındısı ise yukarıda bahsedildiği gibi 12.02.2021 tarih ve … sayısını haizdir ve temyiz süresi bittikten sonra düzenlenmiştir.
+
+Bu itibarla; Gerçekleştirme Görevlisi …’ın vaki başvurusu üzerine Temyiz Kurulu’nun aldığı 16.11.2022 tarih ve 52474 Tutanak (36578 İlam) sayılı “süre aşımından temyiz talebinin reddi” Kararına karşı başvuru süresi ile ilgili öne sürdüğü itirazları yukarıda yapılan açıklamalar uyarınca yerinde görülmediğinden ve Kararın hukuka uygun olarak verildiği anlaşıldığından, adı geçen sorumlunun karar düzeltme TALEBİNİN REDDİNE, oy birliğiyle,
+
+Karar verildiği 13.09.2023 tarih ve 55740 sayılı tutanakta yazılı olmakla işbu ilam tanzim kılındı.
