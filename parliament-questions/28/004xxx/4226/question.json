@@ -1,0 +1,21 @@
+{
+  "record_type": "parliament-written-question",
+  "term": 28,
+  "legislative_year": 1,
+  "esas_no": "7/4226",
+  "submitted": "2023-09-13",
+  "submitted_as": "Başkanlığa geliş tarihi",
+  "mp": "Ayşegül DOĞAN",
+  "province": "Şırnak",
+  "summary": "Bir gazetecinin sosyal medyada yaptığı bir paylaşım nedeniyle tehdit edilmesine ilişkin",
+  "status": "Süresi Geçtikten Sonra Cevaplandı",
+  "status_as_of": "2026-11-16",
+  "official_record": "https://www.tbmm.gov.tr/Denetim/Yazili-Soru-Onergesi-Detay/536bae25-2f01-4c77-9b64-018a93630988",
+  "source": "https://tbmm.gov.tr/Denetim/YaziliSoruOnergesiTable",
+  "source_form": "https://tbmm.gov.tr/Denetim/Yazili-Soru-Onergeleri",
+  "source_sha256": "a0c38ea412fd576ebb4d236d0361fc62a796c43c072f56c64c0201caae5d69e9",
+  "in_force": "2023-09-13",
+  "in_force_basis": "Date the question reached the Speaker (Başkanlığa geliş tarihi) in the official TBMM written-question record; parliamentary oversight record, not law",
+  "history_type": "metadata",
+  "text_status": "metadata-only: question text, addressee and answers are in the linked official record (PDFs on cdn.tbmm.gov.tr); not transcribed here"
+}
