@@ -1,0 +1,17 @@
+{
+  "kind": "decision",
+  "issuer": "Sayıştay 1. Dairesi",
+  "number": "10913",
+  "decision_date": "2023-09-14",
+  "source_id": 37866,
+  "chamber": "1",
+  "ilam_number": "281",
+  "item_number": 3,
+  "public_body_type": "Diğer Özel Bütçeli İdareler",
+  "account_year": 2018,
+  "subject": "İhale Mevzuatı ile İlgili Kararlar",
+  "source": "https://www.sayistay.gov.tr/KararlarDaire/Detay/37866/",
+  "source_sha256": "f77e318879ac04ce93abf734c10dcb15767561725b390a958262a4ae7dcad758",
+  "text_status": "as-enacted",
+  "text_file": "metin.md"
+}
