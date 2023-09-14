@@ -1,0 +1,25 @@
+{
+  "number": "667",
+  "number_as_published": "667",
+  "year": 2023,
+  "title": "UKOME kararı 2023/667",
+  "decision_date": "2023-09-14",
+  "source": "https://www.izmir.bel.tr/tr/UkomeKararlari/UkomeKararlariGetirJS?draw=1&start=0&length=500&baslangicTarihi=01.01.2023&bitisTarihi=31.12.2023&kararNo=&konuKodu=&ilceId=&sokakKodu=&teklif=&asilKararNo=",
+  "official_document": null,
+  "source_sha256": "0c32412939654f2835c86e2f90ae55aee65ea912b79fa95a32fe27fa0969bb6d",
+  "issuer": "İzmir Büyükşehir Belediyesi UKOME",
+  "history_type": "metadata",
+  "text_status": "metadata-only: the published decision summary appears to name private persons; official link only",
+  "in_force": "2023-09-14",
+  "in_force_basis": "Decision date as printed in the official council listing: 14/09/2023; adoption date of the council decision; legal commencement not asserted",
+  "missing": [
+    "complete official decision text",
+    "official annexes"
+  ],
+  "law_text_complete": false,
+  "privacy_withheld": true,
+  "official_page": "https://www.izmir.bel.tr/tr/UkomeKararlari/64",
+  "register_id": 13055,
+  "file_name": "2023.667.pdf",
+  "district": null
+}
