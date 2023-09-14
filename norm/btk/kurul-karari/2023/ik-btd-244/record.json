@@ -1,0 +1,18 @@
+{
+  "kind": "norm",
+  "issuer": "Bilgi Teknolojileri ve İletişim Kurumu",
+  "document_type": "kurul-karari",
+  "number": "2023/İK-BTD/244",
+  "source_id": "2023/İK-BTD/244",
+  "date": "2023-08-15",
+  "title": "a.tr Yapısındaki Alan Adlarının Tahsisine İlişkin Usul ve Esaslar ile a.tr Yapısındaki Alan Adlarının Ücretleri",
+  "source": "https://www.btk.gov.tr/s3/web-btk-site/7708c26c-5161-4919-8b3d-daa31d4ac8fb/2026/03/7d3d3c36-1ee2-4a26-8b74-6162ee9fd8f0.pdf",
+  "source_sha256": "c9b50fd7f4cb9e71042230aa9e8e85c2ca1e1a5e3232a4f3e589492ce3606d70",
+  "text_status": "as-enacted",
+  "text_file": "metin.md",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  }
+}
