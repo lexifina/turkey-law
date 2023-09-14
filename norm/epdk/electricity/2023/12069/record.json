@@ -1,0 +1,25 @@
+{
+  "kind": "norm",
+  "issuer": "Enerji Piyasası Düzenleme Kurumu",
+  "market": "electricity",
+  "document_type": "board-decision",
+  "number": "12069",
+  "decision_date": "2023-09-14",
+  "title": "2024 yılında uygulanacak iletim ek ücretine ilişkin",
+  "resmi_gazete_date": "2023-09-16",
+  "resmi_gazete_number": "32311",
+  "categories": [
+    "Elektrik Piyasası Tarife Kurul Kararları"
+  ],
+  "source": "https://www.epdk.gov.tr/Detay/DownloadDocument?id=wFVThbvCbuY=",
+  "documents": [
+    "https://www.epdk.gov.tr/Detay/DownloadDocument?id=wFVThbvCbuY="
+  ],
+  "source_sha256": "8bd7f391614fd9e2ead68fd29e6c5f4544f0b2ffa55cc52ab057ab3d288a66c5",
+  "official_list": "https://www.epdk.gov.tr/Detay/Icerik/3-0-39/kurul-kararlari-",
+  "official_list_leaf": 14713,
+  "text_status": "as-enacted",
+  "text_file": "metin.md",
+  "in_force": "2023-09-14",
+  "law_text_complete": true
+}
