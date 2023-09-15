@@ -1,0 +1,21 @@
+{
+  "record_type": "parliament-written-question",
+  "term": 28,
+  "legislative_year": 1,
+  "esas_no": "7/4465",
+  "submitted": "2023-09-15",
+  "submitted_as": "Başkanlığa geliş tarihi",
+  "mp": "Halide TÜRKOĞLU",
+  "province": "Diyarbakır",
+  "summary": "Diyarbakır Surları ve Hevsel Bahçelerinin UNESCO tarafından koruma altına alınması önerisine ilişkin",
+  "status": "Cevaplanmadığı Gelen Kağıtlarda İlan Edildi",
+  "status_as_of": "2026-11-16",
+  "official_record": "https://www.tbmm.gov.tr/Denetim/Yazili-Soru-Onergesi-Detay/229189e8-aa60-4ebf-a5f3-018aa8922d22",
+  "source": "https://tbmm.gov.tr/Denetim/YaziliSoruOnergesiTable",
+  "source_form": "https://tbmm.gov.tr/Denetim/Yazili-Soru-Onergeleri",
+  "source_sha256": "6c8ab556c6a826dba7c09f30dd4152813c3ec13c83f3ed605630206d125c8a9f",
+  "in_force": "2023-09-15",
+  "in_force_basis": "Date the question reached the Speaker (Başkanlığa geliş tarihi) in the official TBMM written-question record; parliamentary oversight record, not law",
+  "history_type": "metadata",
+  "text_status": "metadata-only: question text, addressee and answers are in the linked official record (PDFs on cdn.tbmm.gov.tr); not transcribed here"
+}
