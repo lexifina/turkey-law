@@ -1,0 +1,2 @@
+Hesap verme sorumluluğu
+MADDE 24- (1) İşletme’nin her türlü kaynağının elde edilmesi, muhafazası ve kullanılmasında görevli ve yetkili olanlar, kaynakların etkili, ekonomik, verimli ve hukuka uygun olarak elde edilmesinden, kullanılmasından, muhasebeleştirilmesinden, raporlanmasından ve kötüye kullanılmaması için gerekli önlemlerin alınmasından sorumludur ve yetkili mercilere hesap vermek zorundadır.

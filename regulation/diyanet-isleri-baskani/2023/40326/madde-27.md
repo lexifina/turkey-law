@@ -1,0 +1,4 @@
+Basım, satış, dağıtım, mal ve hizmet alımları
+MADDE 27- (1) Eserlerin basım, satış, dağıtım, mal ve hizmet alımları, 4734 sayılı Kanun ve Döner Sermayeli Kuruluşlar İhale Yönetmeliği hükümlerine göre aşağıdaki esaslara göre yapılır:
+a) Başkanlık tarafından yayınlanan veya Din İşleri Yüksek Kurulunun kararına dayalı olarak satışı yapılmak üzere piyasadan satın alınan eserlerin toptan veya perakende satış ve dağıtımı, Başkanlık merkezinden, Diyanet yayınları satış yerlerinden, müftülükler, eğitim merkezleri, müşavirlik, ataşelik ve diğer teşkilat birimleri vasıtasıyla veya piyasadaki kitapçılar, gazete bayileri ve e-satış yöntemi ile yapılabilir. Süreli yayınlar için abone usulü de uygulanır.
+b) Yurt içinde ve yurt dışında açılan kitap ve dergi fuarlarında, İşletme tarafından eserlerin tanıtım ve satışı yapılabilir. Fuarların durumuna göre her fuar için özel indirim oranları uygulanabilir.

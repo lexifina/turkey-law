@@ -1,0 +1,31 @@
+{
+  "source_id": "7.5.40326",
+  "kind": "regulation",
+  "register_kind": "Kurum ve Kuruluş Yönetmelikleri",
+  "title": "DİYANET İŞLERİ BAŞKANLIĞI DÖNER SERMAYE İŞLETMESİ YÖNETMELİĞİ",
+  "number": "40326",
+  "issuer": "Diyanet İşleri Başkanı",
+  "issuer_slug": "diyanet-isleri-baskani",
+  "path": "regulation/diyanet-isleri-baskani/2023/40326",
+  "source": "https://www.mevzuat.gov.tr/anasayfa/MevzuatFihristDetayIframe?MevzuatTur=7&MevzuatNo=40326&MevzuatTertip=5",
+  "source_sha256": "acb92941c415449e4e895fca21ab633b401c22f26c8e2e01d09893b6a2a35f8f",
+  "source_bytes": 75627,
+  "published": "2023-09-15",
+  "gazette": "32310",
+  "in_force": "2023-09-15",
+  "in_force_basis": "Resmî Gazete publication date in the official listing (15.09.2023); own commencement article: \"Bu Yönetmelik yayımı tarihinde yürürlüğe girer\"",
+  "commencement_clauses": [
+    "Bu Yönetmelik yayımı tarihinde yürürlüğe girer"
+  ],
+  "history": "current-text",
+  "label": "oldest version available",
+  "checked_on": "2026-11-15",
+  "word_count": 3073,
+  "text_status": "current-consolidated",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  },
+  "completeness": "html-text-complete"
+}

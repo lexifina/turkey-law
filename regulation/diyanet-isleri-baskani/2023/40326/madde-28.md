@@ -1,0 +1,2 @@
+Tanıtım ve reklam giderleri
+MADDE 28- (1) İşletme tarafından satışı yapılan eser ve hizmetlerin tanıtılması ve daha geniş kitlelere ulaştırılması için bir önceki yıla ait bilançodaki kârın % 80’ine kadar olan miktarı, tanıtım ve reklam işlerine harcanabilir. Başkanlık onayı ile yapılacak bu harcama, satışı yapılan eserlerin maliyet fiyatları üzerinden hesap edilmek suretiyle bu eserlerin ücretsiz dağıtılmak üzere basımı şeklinde yapılabileceği gibi basılı, sesli ve görüntülü yayın organlarında tanıtım programları ve diğer usullerle de yapılabilir.
