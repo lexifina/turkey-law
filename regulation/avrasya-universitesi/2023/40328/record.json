@@ -1,0 +1,31 @@
+{
+  "source_id": "8.5.40328",
+  "kind": "regulation",
+  "register_kind": "Üniversite Yönetmelikleri",
+  "title": "AVRASYA ÜNİVERSİTESİ ÖNLİSANS VE LİSANS EĞİTİM-ÖĞRETİM VE SINAV YÖNETMELİĞİ",
+  "number": "40328",
+  "issuer": "AVRASYA ÜNİVERSİTESİ",
+  "issuer_slug": "avrasya-universitesi",
+  "path": "regulation/avrasya-universitesi/2023/40328",
+  "source": "https://www.mevzuat.gov.tr/anasayfa/MevzuatFihristDetayIframe?MevzuatTur=8&MevzuatNo=40328&MevzuatTertip=5",
+  "source_sha256": "d715e1480b2f1c1486407e714bbbc3fdae8c4aa2bbc4903d3d6e42519eb11a5d",
+  "source_bytes": 108261,
+  "published": "2023-09-17",
+  "gazette": "32312",
+  "in_force": "2023-09-17",
+  "in_force_basis": "Resmî Gazete publication date in the official listing (17.09.2023); own commencement article: \"Bu Yönetmelik 2023-2024 eğitim-öğretim yılı başında yürürlüğe girer\"",
+  "commencement_clauses": [
+    "Bu Yönetmelik 2023-2024 eğitim-öğretim yılı başında yürürlüğe girer"
+  ],
+  "history": "current-text",
+  "label": "oldest version available",
+  "checked_on": "2026-11-15",
+  "word_count": 5487,
+  "text_status": "current-consolidated",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  },
+  "completeness": "html-text-complete"
+}

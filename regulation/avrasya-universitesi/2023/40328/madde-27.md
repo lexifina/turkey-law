@@ -1,0 +1,5 @@
+Önceden kazanılmış yeterliliklerin tanınması ve intibak
+MADDE 27- (1) Üniversiteye yeni kayıt yaptıran ve daha önce YÖK tarafından denkliği kabul edilen başka bir yükseköğretim kurumunda öğrenim görmüş öğrenciler, diğer yükseköğretim kurumunda alıp başarılı oldukları dersler için, ilgili fakülte, yüksekokul veya meslek yüksekokuluna not belgesinin aslı ve ders içerikleriyle birlikte, Üniversiteye kayıt yaptırdıkları ilk yarıyılın ikinci haftasının sonuna kadar yazılı olarak başvuruda bulunarak muafiyet talep edebilirler.
+(2) Önceden kazanılmış yeterliliklerin sayılması amacıyla, Senatoca belirlenen derslerden akademik takvimde belirlenen gün ve saatlerde yeterlilik/muafiyet sınavı açılabilir. Seminer, proje, laboratuvar, tez ve benzeri derslerden muafiyet sınavı açılmaz.
+(3) Bir öğrencinin programa başlamasından itibaren kayıt yaptırdığı yarıyıl sayısı, o öğrencinin normal yarıyılını gösterir. Yatay ve dikey geçiş yolu ile gelen bir öğrencinin intibakının yapıldığı yarıyıl, o öğrencinin normal yarıyılı sayılır.
+(4) Önceden kazanılmış yeterliliklerin tanınması ve intibak işlemlerine ilişkin esaslar Senatoca belirlenir.

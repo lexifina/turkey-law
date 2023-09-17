@@ -1,0 +1,10 @@
+Ders planları ve dersler
+MADDE 25- (1) AKTS kredisi, bir dersin hedeflenen öğrenme çıktılarını kazandırmak amacıyla planlanan ve öğrenim aktivitelerini başarıyla tamamlamak için gerekli zamanı temel alarak belirlenen iş yüküne dayanan kredi sistemidir. Ders planları; önlisans düzeyi için toplam 120 AKTS kredisi, lisans düzeyi için ise toplam 240 AKTS kredisi olacak şekilde düzenlenir ve öğrenciye normal olarak 30’ar AKTS kredilik yarıyıllar halinde sunulur. Öngörülen dönemlik normal öğrenci iş yükü 30 AKTS kredisidir.
+(2) Birimlerde eğitim-öğretim, ders geçme esasına göre yapılır.
+(3) Eğitim-öğretim çalışmaları zorunlu ve seçmeli dersler, seminerler, uygulamalar, proje ve stüdyo, laboratuvar ve atölye çalışmaları, pratik çalışmalar, stajlar, eskizler, arazi üzerinde uygulama, bitirme çalışması ve benzeri çalışmalardan oluşur.
+(4) Ders planları TYYÇ’de tanımlanmış yeterlilikleri sağlamak üzere farklı AKTS kredisi büyüklüğündeki ders kategorilerinden ilgili kredilerin toplanmasıyla tamamlanacak şekilde düzenlenir. Kategorilerdeki dersler zorunlu ve/veya seçimlik olabilir. Öğrenci, öğrenimini tamamlayabilmek için ilgili kategorilerden Senatoca tanımlanmış AKTS kredisi tutarındaki dersleri başarmakla yükümlüdür.
+(5) Öğrencilerin, ders planında yer alan ders kategorilerinde esnek ve düzenli ilerlemeleri için belli bir dersin başarılmış olması, başka bir dersin alınabilmesinin ön koşulu olabilir. Hangi ders ya da derslerin bir başka dersin önkoşulu olduğu ilgili ders planında belirtilir. Bu değişiklikler en erken izleyen akademik yılın başından itibaren uygulamaya konulur.
+(6) Bir dersin ulusal kredisi, o dersin haftalık teorik saati ile uygulama ve laboratuvar saatlerinin yarısının toplamından oluşur.
+(7) Her derste öğrencilerin sorumlu oldukları sınavların, ödev, uygulama ve diğer çalışmaların sayısı, başarı notuna katkıları ve yarıyıl sonunda verilen sınava katılmanın gerekleri, dönem başında öğretim elemanı tarafından belirlenir ve öğrencilere duyurulur.
+(8) Niteliği gereği bazı derslerde ilgili yönetim kurulunun onayı ile yarıyıl sonu sınavı yapılmayabilir.
+(9) Bir öğrencinin normal ders yükü 30 AKTS’dir.

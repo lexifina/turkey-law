@@ -1,0 +1,3 @@
+Mazeretler
+MADDE 17- (1) Haklı ve geçerli bir mazereti nedeni ile yarıyıl içi ara sınavına ve yarıyıl/dönem içi diğer ölçme faaliyetlerine girmeyen öğrencinin mazeretini belgelemesi şartıyla mazeretinin sona ermesinden itibaren beş iş günü içinde ilgili bölüm başkanlığına yazılı olarak başvurması gerekir. Yarıyıl içi ara sınavı mazeretinin kabulüne ilişkin karar Senato tarafından belirlenen esaslara göre ilgili bölüm başkanınca verilir. Yarıyıl/dönem içi diğer ölçme faaliyetleri mazeretinin kabulüne ilişkin karar dersin sorumlusu öğretim elemanınca verilir.
+(2) Yarıyıl/dönem sonu, yaz öğretimi, mezuniyet, bütünleme ve mazeret sınavları için mazeret sınav hakkı verilmez ve bu sınavlara girmeyen öğrenci sıfır (0) almış kabul edilir.

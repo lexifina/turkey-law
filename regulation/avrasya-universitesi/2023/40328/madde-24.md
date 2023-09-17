@@ -1,0 +1,2 @@
+Danışman
+MADDE 24- (1) Öğrencinin Üniversitedeki akademik programına girişinden itibaren ilişiği kesilinceye kadar geçen süre içinde kayıt, eğitim öğretim çalışmaları ve Üniversitedeki hayatı ile ilgili sorunlarına yardımcı olmak üzere, bölüm başkanlığının önerisi üzerine dekan ya da müdür tarafından bir öğretim elemanı danışman olarak görevlendirilir. Danışmanların çalışma şekline ilişkin esaslar Senato tarafından belirlenir.

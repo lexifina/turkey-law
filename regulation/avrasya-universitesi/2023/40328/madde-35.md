@@ -1,0 +1,3 @@
+Sınav notlarına itiraz
+MADDE 35- (1) Öğrenci bir dersin başarı notuna itirazını, bu notun internet üzerinden ilanından itibaren beş iş günü içinde ilgili bölüm başkanlığına yazılı veya öğrenci bilgi sistemi üzerinden elektronik olarak yapar. İlgili öğretim elemanı, dersin başarı notuna katkısı bulunan bütün çalışmaları tekrar inceleyerek, itirazı en geç bir hafta içinde değerlendirir ve sonucunu bölüm başkanlığına yazılı olarak bildirir.
+(2) İtiraz sonunda maddi hata saptanması durumunda, başarı durumu yeniden değerlendirilerek sonuç ilgili yönetim kurulu tarafından karara bağlanır. İtiraz sonuçları öğrenci bilgi sistemi üzerinden ilan edilir.
