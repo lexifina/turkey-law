@@ -1,0 +1,21 @@
+{
+  "record_type": "parliament-written-question",
+  "term": 28,
+  "legislative_year": 1,
+  "esas_no": "7/6261",
+  "submitted": "2023-09-18",
+  "submitted_as": "Başkanlığa geliş tarihi",
+  "mp": "Hüseyin OLAN",
+  "province": "Bitlis",
+  "summary": "7 Eylül 2023 tarihinde Ankara Esenboğa Havalimanında gözaltına alınan bir kişiye ilişkin",
+  "status": "Süresi Geçtikten Sonra Cevaplandı",
+  "status_as_of": "2026-11-16",
+  "official_record": "https://www.tbmm.gov.tr/Denetim/Yazili-Soru-Onergesi-Detay/753abf85-567e-4336-b4be-018aad9163f1",
+  "source": "https://tbmm.gov.tr/Denetim/YaziliSoruOnergesiTable",
+  "source_form": "https://tbmm.gov.tr/Denetim/Yazili-Soru-Onergeleri",
+  "source_sha256": "bad5ad7d1efb704605c0c69a4c05a161a578b55595b33f1bec3b2c05ccd98aa3",
+  "in_force": "2023-09-18",
+  "in_force_basis": "Date the question reached the Speaker (Başkanlığa geliş tarihi) in the official TBMM written-question record; parliamentary oversight record, not law",
+  "history_type": "metadata",
+  "text_status": "metadata-only: question text, addressee and answers are in the linked official record (PDFs on cdn.tbmm.gov.tr); not transcribed here"
+}
