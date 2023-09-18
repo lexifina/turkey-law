@@ -1,0 +1,3 @@
+Staj ve işyeri eğitimi
+MADDE 37 – (1) Staj ve işyeri eğitimi; eğitim ve öğretim programlarının niteliklerine bağlı olarak öğrencilerin edindiği bilgileri uygulama alanına aktarması ya da uygulama alanıyla pekiştirmesi amacıyla ön lisans ve lisans düzeylerinde yaptıkları uygulamalı çalışmalardır. Staj ve işyeri eğitimi AKTS iş yüküne dâhil edilir. Staj notu, ortalama ve %10’luk başarı sıralaması hesaplamalarında dikkate alınmaz.
+(2) Staj ve işyeri eğitimi çalışmalarının niteliği, süresi, zamanı, yürütülmesi, teslimi, jürinin/komisyonun oluşturulması ve çalışmanın değerlendirilmesiyle ilgili esasları kapsayan yönergeler; fakülte, yüksekokul veya meslek yüksekokulu kurulu kararı ve Senatonun onayı ile belirlenir.

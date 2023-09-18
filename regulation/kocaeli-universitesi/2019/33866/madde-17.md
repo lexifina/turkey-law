@@ -1,0 +1,7 @@
+Devam koşulu
+MADDE 17 – (1) Öğrenci, ilk kez kayıt yaptırdığı teorik derslerin en az %70’ine, diğer öğretim türlerinin de en az %80’ine devam etmek zorundadır.
+(2) Teori ile uygulama/laboratuvar çalışmaları birlikte yapılan dersler için; teorik ders saati, uygulama/laboratuvar ders saatinden fazla veya uygulama/laboratuvar ders saati, teorik ders saatinden fazla ise birinci fıkrada belirtilen devam koşulu, ders saati fazla olana göre uygulanır. Teori ile uygulama/laboratuvar ders saatlerinin eşit olması durumunda ise en az %70 devam koşulu aranır.
+(3) Teori ile uygulama/laboratuvar çalışmaları birlikte yapılan derslerden başarısız olunması ve bu dersin tekrar alınması halinde; teori ile uygulama/laboratuvar ders saatlerinin eşit olması veya uygulama/laboratuvar ders saatinin teorik ders saatinden fazla olması durumunda, devam koşulu tekrar aranır.
+(4) Dersin tamamı laboratuvar ve/veya uygulamalı olarak yapılıyorsa, bu derslerden başarısız olunması ve dersin tekrar alınması durumunda devam koşulu tekrar aranır.
+(5) Devam koşulu daha önce sağlanmış olan teorik dersin/derslerin tekrarı halinde devam koşulu ile programdaki ders çakışma durumu dikkate alınmaz.
+(6) Öğrencilerin derse devamları, sorumlu öğretim elemanı tarafından yoklamalarla imza karşılığı tespit edilir. Devam durumu yarıyıl/yıl sonu akademik takvimde belirtilen derslerin tamamlandığı haftanın son gününe kadar ilgili öğretim elemanı tarafından ÖBS’de ilan edilir.

@@ -1,0 +1,2 @@
+Kapsam
+MADDE 2 – (1) Bu Yönetmelik; Kocaeli Üniversitesinin Devlet Konservatuvarı, Tıp ve Diş Hekimliği Fakülteleri dışındaki fakülte, yüksekokul, meslek yüksekokullarında ve Rektörlüğe bağlı bölümlerde, ön lisans ve lisans eğitim-öğretim programlarının düzenlenmesine, öğrenci kabulüne, ölçme ve değerlendirmelerin yapılmasına, akademik danışmanlığa, diplomaya, devamlı ve geçici ayrılma işlemlerine, staj, mesleki uygulama, bitirme çalışması ve diğer öğretim çalışmalarına ilişkin hükümleri kapsar.

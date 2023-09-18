@@ -1,0 +1,3 @@
+Üniversite seçmeli dersleri
+MADDE 15 – (1) Üniversite seçmeli dersleri; öğrencilerin bilgi ve becerileri ile ilgi ve yeteneklerine uygun nitelik ve çeşitlilikte, toplumsal hizmet, tarih, kültür ve sanat duyarlılığı ile spor ve sağlık faaliyetleri, çevre bilinci, bilim ve teknoloji alanlarına odaklanan, bağımsız çalışabilme, sorumluluk alabilme, öğrenmeyi öğrenebilme ve yönetebilme, iletişim gibi anahtar/aktarılabilir yeterliliklerini geliştirmek amacıyla açılan derslerdir.
+(2) Üniversite seçmeli dersleri, ön lisans ve lisans programlarında açılabilir. Bu derslerin açılması, seçilmesi, kayıt işlemleri ve yürütülmesi ile ilgili esaslar Senato tarafından belirlenir.

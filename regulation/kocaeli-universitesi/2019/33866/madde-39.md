@@ -1,0 +1,11 @@
+İzinli sayılma
+MADDE 39 – (Değişik:RG-18/9/2023-32313)
+(1) Öğrencilere ilgili yönetim kurulu kararıyla ön lisans öğreniminde en az bir yarıyıl, en fazla iki yarıyıl; lisans öğreniminde en az bir yarıyıl/yıl, en fazla dört yarıyıl veya iki tam yıl izin verilebilir. Verilen izin, öğretim süresinden sayılmaz. Yedinci fıkra kapsamında mazeretleri olan öğrenciler, öğrencilik hakları saklı kalmak koşuluyla mazeretleri ortadan kalkana kadar izinli sayılır. Her eğitim-öğretim yarıyıl/yılı için ayrı ayrı yönetim kurulu kararı alınır. Bir öğrencinin izinli sayıldığı sürede katkı payı ödeyip ödemeyeceği ilgili mevzuat hükümlerine göre belirlenir.
+(2) Hastalık izninde; yarıyıl/yıl izni verilmesini gerektirecek süreyi kapsayan sağlık raporunun alınması gerekir.
+(3) Askerlik izni; öğrencinin, tecil veya sevk tehiri işleminin zorunlu nedenlerle yapılmaması sonucu askere alınması halinde verilir. Bu öğrencilerin kayıtları silinmez. Bu durumdaki öğrencilerden izinli sayıldıkları süre için öğrenim katkı payı alınmaz.
+(4) Maddi veya ailevi nedenlerle izin; öğrenci için beklenmedik anlarda ortaya çıkan ve öğrenimini engelleyecek nitelikte ölüm, doğal afet veya benzeri durumlar ile öğrencinin içinde bulunabileceği maddi güçlükler nedeniyle ilgili kurullar tarafından verilebilir.
+(5) Öğrencilere yurt dışında öğrenim görmek için veya öğrenimleri ile ilgili olarak görevlendirilmeleri halinde birinci fıkrada belirtilen sürelerle sınırlı olmak üzere izin verilebilir.
+(6) Yukarıdaki nedenlerle izinli sayılan öğrenciler, izinlerinin bitiminde normal yarıyıl/yıl kayıtlarını yaptırarak öğrenimlerine devam eder. Ancak hastalık nedeniyle izin almış olan öğrenciler, öğrenimlerine devam edecek durumda olduklarını sağlık raporu ile belgelendirmek zorundadır.
+(7) Öğrenci, öğrencilik statüsünün ortadan kaldırılması sonucunu doğurmayan bir fiil nedeniyle kesinleşmiş mahkûmiyet alması ya da tutukluluk hali olması durumunda izinli sayılır.
+(8) İzinli sayılmak için izin talebi başvuruları, ders seçme ve kayıt haftasının ilk gününden başlayarak, iki hafta içerisinde yapılır. Ani hastalıklar ve beklenmedik durumlar dışında bu süreler bittikten sonra yapılan başvurular kabul edilmez.
+(9) Öğrenci, izinli sayıldığı yarıyıl/yılda herhangi bir derse kaydolamaz ve o yarıyıl/yılın sınavlarına giremez.

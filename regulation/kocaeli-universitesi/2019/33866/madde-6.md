@@ -1,0 +1,5 @@
+ÜÇÜNCÜ BÖLÜM
+Kayıt ve Kabul Esasları
+Öğrenci kaydı
+MADDE 6 – (1) Üniversiteye kayıtla ilgili işlemler Öğrenci İşleri Daire Başkanlığı tarafından yürütülür. Özel yetenek gerektiren programların sınavları ile seçme ve yerleştirme işlemleri, Yükseköğretim Kurulu kararları çerçevesinde Üniversite tarafından ilgili birimlerce yapılır.
+(2) Kayıt tarihi, kayıt süresi ve gerekli belgeler, Öğrenci İşleri Daire Başkanlığınca duyurulur. Kayıt için adaylardan istenen belgelerin aslı veya Üniversite tarafından onaylı örneği kabul edilir. Askerlik durumu ve adli sicil kaydına ilişkin olarak ise adayın yazılı beyanına dayanılarak işlem yapılır. Kayıt için ilgili mevzuat hükümlerine uygun olarak başvuru yapmayan adaylar kayıt hakkını kaybeder. Kayıt için sunulan belgelerde eksiklik veya tahrifat olduğunun belirlenmesi veya öğrencinin başka bir yükseköğretim kurumuna kayıtlı olması veya başka bir yükseköğretim kurumundan çıkarma cezası almış olması hallerinde, kesin kayıt yapılmış olsa bile kayıt iptal edilir.
