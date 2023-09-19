@@ -1,0 +1,4 @@
+Vekâlet ve müşterek hesap ilişkisi
+MADDE 11 – (1) Haklarında işlem yapma yasağı kararı verilen kişiler vekil sıfatıyla ya da vekil aracılığıyla dahi borsalarda işlem yapamazlar.
+(2) Müşterek hesaplarda ortaklardan biri hakkında işlem yapma yasağı kararı verilmesi durumunda, diğer hesap sahipleri de söz konusu müşterek hesaplar üzerinden işlem gerçekleştiremez.
+(3) Müşterek hesaplarda, hesap sahiplerinden biri hakkında işlem yapma yasağı kararı verilmesi durumunda, müşterek hesap açılmasının Kurul düzenlemelerini dolanma amacı taşımaması şartıyla haklarında işlem yapma yasağı kararı verilmemiş olan müşterek hesap sahipleri, müşterek hesapta yer alan sermaye piyasası araçlarını payları oranında başka bir hesaba aktararak müşterek hesapta yer alan sermaye piyasası araçlarında işlem yapabilirler.

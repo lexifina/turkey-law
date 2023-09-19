@@ -1,0 +1,2 @@
+Sürekli işlem yapma yasağı
+MADDE 7 – (1) 6 ncı maddenin birinci veya ikinci fıkrası veyahut bu madde kapsamında hakkında işlem yapma yasağı uygulanan kişinin işlem yapma yasağı süresinde başka kişilerin hesaplarını kullanarak Kanunun 106 ncı ve 107 nci maddelerinde sayılan fiilleri işlemesi nedeniyle Kanunun 115 inci maddesi uyarınca Kurul tarafından Cumhuriyet başsavcılığına suç duyurusunda bulunulmasına karar verilmesi durumunda kişi hakkında Kurul tarafından 5 yıllık sürekli işlem yapma yasağı kararı verilebilir.

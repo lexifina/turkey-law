@@ -1,0 +1,4 @@
+Yasaklı sermaye piyasası araçları ile borsalarda işlem görmeyen sermaye piyasası araçlarının satışı
+MADDE 14 – (1) (Değişik:RG-19/9/2023-32314) Yasaklı statüdeki sermaye piyasası araçları, 15 inci maddede ve 16 ncı maddenin beşinci fıkrasında belirtilen istisnalar dışında işlem yapma yasağı süresince hiçbir gerekçeyle borsalarda satılamaz.
+(2) Yasaklı statüde izlenen paylar, işlem yapma yasağı süresinin dolması ile birlikte re’sen borsada işlem görmeyen paylar statüsüne dönüşür. Yasaklı statüde izlenen varantlar, sertifikalar ve borsa yatırım fonları borsada işlem gören statüye dönüşür.
+(3) Borsada işlem görmeyen paylar statüsünde izlenen payların satışı 22/6/2013 tarihli ve 28685 sayılı Resmî Gazete’de yayımlanan Pay Tebliğinin (VII-128.1) 15 inci maddesi hükümleri kapsamında gerçekleştirilir.
