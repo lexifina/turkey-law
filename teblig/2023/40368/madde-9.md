@@ -1,0 +1,2 @@
+Ücretlere dahil olmayan giderler
+MADDE 9- (1) Tarife cetvelinde belirtilen ücretler, tanımlarda belirtilen iş ve hizmetlerin karşılığıdır. Gemi ve deniz araçlarının yük, yolcu veya eşyaya ilişkin vergi, resim, harç, pul ve zorunlu giderleri ile gemi ve deniz araçlarının makine, teçhizat, malzeme ve personeline, ödenmesi gereken giderler, navlun tahsili ve havale giderleri, bu Tebliğ uyarınca alınacak ücretlere dahil değildir.
