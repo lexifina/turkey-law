@@ -1,0 +1,1 @@
+Geçici Madde 2- Bu Yönetmelik ile yürürlükten kaldırılan Yönetmeliğe göre yeterlilik belgesi almaya hak kazanamamış olanların müracaatları durumunda yeterlilik belgesi işlemleri bu Yönetmelik hükümleri çerçevesinde değerlendirmeye alınır.

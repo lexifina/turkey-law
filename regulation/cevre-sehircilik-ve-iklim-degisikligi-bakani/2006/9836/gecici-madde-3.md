@@ -1,0 +1,1 @@
+Geçici Madde 3- Bu Yönetmelik ile yürürlükten kaldırılan Yönetmelikte tanımlanmamış ancak bu Yönetmelikte tanımlanan idarelerin plânlama birimleri ile özel plânlama bürolarında, bu Yönetmeliğin yürürlüğe girdiği tarihten önce, şehir plâncısı olarak çalışmış olanların başvurmaları hâlinde durumları bu Yönetmelik kapsamında değerlendirmeye alınır.

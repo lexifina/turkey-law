@@ -1,0 +1,63 @@
+{
+  "source_id": "7.5.9836",
+  "kind": "regulation",
+  "register_kind": "Kurum ve Kuruluş Yönetmelikleri",
+  "title": "PLÂN YAPIMINI YÜKÜMLENECEK MÜELLİFLERİN YETERLİLİĞİ HAKKINDA YÖNETMELİK",
+  "number": "9836",
+  "issuer": "Çevre, Şehircilik ve İklim Değişikliği Bakanı",
+  "issuer_slug": "cevre-sehircilik-ve-iklim-degisikligi-bakani",
+  "path": "regulation/cevre-sehircilik-ve-iklim-degisikligi-bakani/2006/9836",
+  "source": "https://www.mevzuat.gov.tr/anasayfa/MevzuatFihristDetayIframe?MevzuatTur=7&MevzuatNo=9836&MevzuatTertip=5",
+  "source_sha256": "4844ef7bbd4e6453e8ed98d61f78e5d66b0e2d679f359dcf2014ae8a7fda5485",
+  "source_bytes": 65734,
+  "published": "2006-01-07",
+  "gazette": "26046",
+  "in_force": "2023-09-20",
+  "in_force_basis": "latest Resmî Gazete date printed in the source amendment notes/table (\"RG-20/9/2023\") for the current consolidated text",
+  "date_evidence": [
+    [
+      "2023-09-20",
+      "RG-20/9/2023",
+      "Resmî Gazete date printed in the source amendment note"
+    ],
+    [
+      "2023-09-20",
+      "20/9/2023",
+      "Resmî Gazete date in the source amendment table"
+    ],
+    [
+      "2019-07-08",
+      "RG-8/7/2019",
+      "Resmî Gazete date printed in the source amendment note"
+    ],
+    [
+      "2019-07-08",
+      "8/7/2019",
+      "Resmî Gazete date in the source amendment table"
+    ],
+    [
+      "2019-01-22",
+      "RG-22/1/2019",
+      "Resmî Gazete date printed in the source amendment note"
+    ],
+    [
+      "2019-01-22",
+      "22/1/2019",
+      "Resmî Gazete date in the source amendment table"
+    ]
+  ],
+  "commencement_clauses": [
+    "Bu Yönetmelik yayımı tarihinde yürürlüğe girer"
+  ],
+  "history": "current-text",
+  "label": "oldest version available",
+  "checked_on": "2026-11-15",
+  "word_count": 2980,
+  "text_status": "current-consolidated",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  },
+  "completeness": "html-text-complete"
+}

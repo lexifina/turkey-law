@@ -1,0 +1,4 @@
+Müellif yeterlilik sicillerinin tutulması
+Madde 15- Bakanlık, plân müelliflerinin yeterliliğinin belirlenmesi ve belgelenmesi için, her müellifin çalışmaları ile ilgili özel bilgi ve belgelerin toplanması, sınıflandırılması ve gizlilik derecesi verilerek saklanması ve gerektiğinde yetkililerce usûlünce kullanılmasını temin eder.
+Bakanlıkta yeterliliğin tespit edilmesi amacıyla her müellif için bir özel gizli sicil dosyası açılır ve müellifin kendi müracaatları ve buna eklenilen ve yılı belirten, kamu kurum ve kuruluşlarından alınan belge, yüksek öğrenim belgesi, özel plânlama bürolarından alınmış bonservis ve ekleri ile yarışmalar ile ilgili bilgi ve belgeler bu dosyaya konulur.
+Daha önce yapılan işler ile ilgili değerlendirme raporları ve başarı dereceleri ile, yapılan plânların o etapta uygun görülüp görülmediklerini veya ret ve iade edildiklerini belirten belgeler de, ilgili idarelerden alınarak sicil dosyasına konulur.

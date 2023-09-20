@@ -1,0 +1,8 @@
+Plân müelliflerinin görev ve sorumlulukları
+Madde 13- Plânlama işlerini üstlenecek müellif ve müellif kuruluşlarının, plânlama işi ile ilgili görev ve sorumlulukları ile uyacakları esaslar aşağıda belirtilmiştir:
+a) Plân müelliflerinin, işin yapılması ile ilgili olarak yürürlükteki kanun ve yönetmelik hükümlerine uymaları mecburîdir.
+b) Danışman, müşavir ve benzeri sıfatlar altında görev yapan kişiler, ilgili idarenin plân müellifi olarak görev yapamaz ve plân müellifi yetki ve sorumluluğunu üstlenemez.
+c) Müellifler; üstlendikleri plânlama işinin kapsadığı plânlama alanının sınırları içinde, plânlama süresince, ilgili idare dışındaki kuruluşlar ve kişiler adına her (Değişik ibare:RG-20/9/2023-32315) ölçek ve türdeki mekânsal plânları yapamazlar ve parselasyon plânları düzenleyemezler. Aynı plânlama alanı sınırları içinde, ilgili idare dışında özel kişi veya kuruluşlara müşavirlik yapamaz, proje düzenleyemez, teknik sorumluluk veya fennî mesuliyet üstlenemezler. Ancak, bitmiş olan plânlama işine ek yeni bir plânlama işi bu hükmün dışındadır.
+d) Müellifler, plânlama yapılan alanın sınırları içinde, yalnız plânlama konusu ile ilgili olarak kamu görevlilerinin tâbi tutulduğu kanunî sınırlamalara, yasaklara ve sorumluluklara tâbidir.
+e) Müellifler; plânlama çalışmalarını yürütürken objektif ve tarafsız davranmak, bilimsel ve teknik verilere göre hareket etmek zorundadırlar.
+f) Plân kararlarının verilmesinde, hiçbir kişi ve kuruluştan, sözleşme kapsamı dışında herhangi bir aynî veya nakdî menfaat temin edilemez. Menfaat temin ettiği tespit edilenler hakkında kanunî işlem yapılır.

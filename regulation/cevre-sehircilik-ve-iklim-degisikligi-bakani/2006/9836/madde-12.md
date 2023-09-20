@@ -1,0 +1,2 @@
+Müellif ekiplerinin teşkili
+Madde 12- Plânlama işlerinden özelliği ve önemi olduğu belirlenenlerin elde edilmesinde, özel uzmanlık dalında çalışma yapılmasının veya ekip çalışması yapılmasının Bakanlıkça gerekli görülmesi hâlinde, bu plânlama işleri için teklif verecek müelliflerden ekiplerinde belirli sürelerle veya sürekli olarak görev yapacak farklı uzmanlık dallarından kişilerin isimlerini ve noterlikçe tasdikli izinlerini bildirmeleri istenir.
