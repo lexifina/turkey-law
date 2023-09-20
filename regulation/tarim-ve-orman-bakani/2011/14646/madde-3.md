@@ -1,0 +1,2 @@
+Dayanak
+MADDE 3 – (1) Bu Yönetmelik, 8/6/1942 tarihli ve 4250 sayılı İspirto ve İspirtolu İçkiler İnhisarı Kanunu, 7/11/1996 tarihli ve 4207 sayılı Tütün Ürünlerinin Zararlarının Önlenmesi ve Kontrolü Hakkında Kanun, 3/1/2002 tarihli ve 4733 sayılı (Değişik ibare:RG-20/9/2023-32315) Tütün, Tütün Mamulleri ve Alkol Piyasasının Düzenlenmesine Dair Kanun ile 8/12/2004 tarihli ve 2004/8235 sayılı Bakanlar Kurulu Kararıyla yürürlüğe konulan Dünya Sağlık Örgütü Tütün Kontrolü Çerçeve Sözleşmesine dayanılarak hazırlanmıştır.

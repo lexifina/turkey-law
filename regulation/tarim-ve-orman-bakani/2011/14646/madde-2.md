@@ -1,0 +1,2 @@
+Kapsam
+MADDE 2 – (1) Bu Yönetmelik; tütün mamulleri ve alkollü içkilerin, tanıtımına, satışına ve sunumuna ilişkin faaliyetlerde, kamu ve birey sağlığının gözetilmesi, rekabetin tesisi, tüketici seçeneklerinin korunması, reklam koşullarının belirlenmesi, tüketici bilincinin geliştirilmesi ve faaliyetlerin kayıt altına alınması suretiyle piyasa takip ve kontrolünün sağlanmasına yönelik uyulması gereken usul ve esasları kapsar.

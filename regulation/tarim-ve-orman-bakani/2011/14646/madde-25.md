@@ -1,0 +1,8 @@
+DÖRDÜNCÜ KISIM
+Denetim, Yaptırımlar, Çeşitli ve Son Hükümler
+BİRİNCİ BÖLÜM
+Denetim ve Yaptırımlar
+Denetim
+MADDE 25 – (1) Tütün mamulleri ve alkollü içkiler piyasasında mal veya hizmet üreten, pazarlayan, satan gerçek ve tüzel kişiler, ürünlere ve ilgili faaliyetlerine ilişkin olarak, mevzuatla verilen yetki çerçevesinde Kurum, mülki amirlikler ile diğer kamu kurum ve kuruluşları tarafından lüzum görülen hallerde incelenebilir ve denetlenebilir. Kurum dışındaki ilgili merciler tarafından yapılan inceleme ve denetimler sırasında tespit edilen Kurum mevzuatına aykırı hususlar ve aykırılıklara ilişkin olarak yapılan işlemler Kuruma ve/veya yetkili mercilere bildirilir.
+(2) Tütün mamulleri ve alkollü içkiler piyasasında mal veya hizmet üreten, pazarlayan, satan gerçek ve tüzel kişiler, yapılacak inceleme ve denetime mani olamaz. Bu kişiler; inceleme ve denetim yapmakla görevlendirilmiş ve/veya yetkilendirilmiş kişilerce gerekli görülen ve istenilen her türlü bilgiyi ve belgeyi ibraz etmek zorundadır. Söz konusu bilgi ve belgelerin yazılı istenmesi halinde tebliğ tarihinden itibaren belirtilen süre içerisinde vermek zorundadır.
+(3) Belgesiz satışa ilişkin yapılan denetimlerde, satış belgesini haiz olduğunu beyan eden kişilerin, işyerinde mevcut olması gereken satış belgesi ile birlikte, her yıl süre uzatım işlemini yaptırmak suretiyle geçerlilik kazanan belgeyi ibraz etmeleri zorunludur. Söz konusu belgenin ibraz edilemediği hallerde Kurumun internet sitesinden sorgulaması yapılan kişinin, denetime konu işyerine dair alınmış satış belgesinin faal görünmemesi durumunda, kişinin belgesiz satış yapmakta olduğu tespit edilmiş olur.

@@ -1,0 +1,3 @@
+Tütün mamulü ve alkollü içki perakende ve toptan satış belgelerinin Yönetmeliğe uygun hale getirilmesi
+GEÇİCİ MADDE 9 – (Ek: RG-3/12/2013-28840)(2)
+(1) Tütün mamulleri ve alkollü içkilerin birlikte satışını yapan ve adlarına 1/1/2014 tarihinden önce tütün mamulü ve alkollü içki perakende satış belgesi veya tütün mamulü ve alkollü içki toptan satış belgesi düzenlenmiş olan satıcıların, 30/6/2014 tarihine kadar mevcut belgelerini yetkili mercie teslim etmeleri ve tütün mamulü ve alkollü içki satış faaliyet konuları için 5 inci maddenin birinci fıkrasına uygun olarak ayrı ayrı düzenlenecek satış belgelerini teslim almaları zorunludur. Bu zorunluluğa uymayan satıcıların satış belgeleri için 2015 yılı süre uzatım işlemleri gerçekleştirilmez.

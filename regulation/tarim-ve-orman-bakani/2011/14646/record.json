@@ -1,0 +1,90 @@
+{
+  "source_id": "7.5.14646",
+  "kind": "regulation",
+  "register_kind": "Kurum ve Kuruluş Yönetmelikleri",
+  "title": "TÜTÜN MAMULLERİ VE ALKOLLÜ İÇKİLERİN SATIŞINA VE SUNUMUNA İLİŞKİN USUL VE ESASLAR HAKKINDA YÖNETMELİK",
+  "number": "14646",
+  "issuer": "Tarım ve Orman Bakanı",
+  "issuer_slug": "tarim-ve-orman-bakani",
+  "path": "regulation/tarim-ve-orman-bakani/2011/14646",
+  "source": "https://www.mevzuat.gov.tr/anasayfa/MevzuatFihristDetayIframe?MevzuatTur=7&MevzuatNo=14646&MevzuatTertip=5",
+  "source_sha256": "f67e81f3c9fba3e612dfb2f81a0b868d8dc958ddd4053d3318087c311f07f7ed",
+  "source_bytes": 156879,
+  "published": "2011-01-07",
+  "gazette": "27808",
+  "in_force": "2023-09-20",
+  "in_force_basis": "latest Resmî Gazete date printed in the source amendment notes/table (\"RG-20/9/2023\") for the current consolidated text",
+  "date_evidence": [
+    [
+      "2023-09-20",
+      "RG-20/9/2023",
+      "Resmî Gazete date printed in the source amendment note"
+    ],
+    [
+      "2023-09-20",
+      "20/9/2023",
+      "Resmî Gazete date in the source amendment table"
+    ],
+    [
+      "2023-02-22",
+      "RG-22/2/2023",
+      "Resmî Gazete date printed in the source amendment note"
+    ],
+    [
+      "2023-02-22",
+      "22/2/2023",
+      "Resmî Gazete date in the source amendment table"
+    ],
+    [
+      "2017-08-04",
+      "RG-4/8/2017",
+      "Resmî Gazete date printed in the source amendment note"
+    ],
+    [
+      "2017-08-04",
+      "4/8/2017",
+      "Resmî Gazete date in the source amendment table"
+    ],
+    [
+      "2013-12-03",
+      "RG-3/12/2013",
+      "Resmî Gazete date printed in the source amendment note"
+    ],
+    [
+      "2013-12-03",
+      "3/12/2013",
+      "Resmî Gazete date in the source amendment table"
+    ],
+    [
+      "2013-09-18",
+      "RG-18/9/2013",
+      "Resmî Gazete date printed in the source amendment note"
+    ],
+    [
+      "2013-09-18",
+      "18/9/2013",
+      "Resmî Gazete date in the source amendment table"
+    ],
+    [
+      "2013-01-27",
+      "RG-27/1/2013",
+      "Resmî Gazete date printed in the source amendment note"
+    ],
+    [
+      "2013-01-27",
+      "27/1/2013",
+      "Resmî Gazete date in the source amendment table"
+    ]
+  ],
+  "history": "current-text",
+  "label": "oldest version available",
+  "checked_on": "2026-11-15",
+  "word_count": 8944,
+  "text_status": "current-consolidated",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  },
+  "completeness": "html-text-complete"
+}

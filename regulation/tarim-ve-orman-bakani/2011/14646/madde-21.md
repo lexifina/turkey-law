@@ -1,0 +1,5 @@
+Fiyat bildirimleri
+MADDE 21 – (Değişik:RG-18/9/2013-28769)
+(1) İşyerlerinde; alkollü içkilerin fiyatlarının bildirimi, alkollü içkilerin satışına tahsis edilmiş bölümlerde yer alması ve rakam ile yazıların elli puntoyu aşmaması şartıyla yapılabilir. Fiyat baskılı ambalajlar ile fiyat bildirimi yapılması ve satışa sunulan her bir alkollü içkinin birim fiyatının ve markasının yer aldığı, dikdörtgen beyaz zemin üzerine ve en fazla yirmi punto büyüklüğünde siyah renkli harfler ve rakamlar ile hazırlanan listelerin alkollü içkilerin satış ünitelerinde/alanlarında bulundurulması mümkündür. Herhangi bir firma veya ürünü ön plana çıkaracak şekilde fiyat bildirimi yapılamaz.
+(2) Üretici, ithalatçı ve satıcılar arasında gerçekleştirilen ve tüketiciye yansımayan tamamen ticari bilgileri içeren bildirimler hariç olmak üzere, her ne amaçla olursa olsun, alkollü içkilerin marka, amblem, logo ve işaretleri kullanılarak bildirim yapılamaz, basın-yayın organları aracılığıyla ilan edilemez, fiyat duyuruları yapılamaz.
+(3) Bu maddeye aykırı düzenlendiği tespit edilen fiyat bildirimlerinin reklam mahiyetinde olduğu kabul edilir.
