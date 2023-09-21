@@ -1,0 +1,17 @@
+{
+  "kind": "decision",
+  "issuer": "Sayıştay 1. Dairesi",
+  "number": "10916",
+  "decision_date": "2023-09-21",
+  "source_id": 38034,
+  "chamber": "1",
+  "ilam_number": "289",
+  "item_number": 1,
+  "public_body_type": "Belediyeler ve Bağlı İdareler",
+  "account_year": 2018,
+  "subject": "İhale Mevzuatı ile İlgili Kararlar",
+  "source": "https://www.sayistay.gov.tr/KararlarDaire/Detay/38034/",
+  "source_sha256": "cd731bf2a7d5cba2c5868f309dc08da68929801a6da4c4cdb78916f35aa6a7e7",
+  "text_status": "as-enacted",
+  "text_file": "metin.md"
+}
