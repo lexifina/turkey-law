@@ -1,0 +1,17 @@
+{
+  "issuer": "Yüksek Seçim Kurulu",
+  "document_type": "decision",
+  "number": "2023/1428",
+  "list_number": "1428",
+  "decision_date": "2023-09-21",
+  "title": "Yüksek Seçim Kurulunun 21/09/2023 Tarihli ve 2023/1428 Sayılı Kararı",
+  "official_document": "https://www.ysk.gov.tr/doc/karar/dosya/46619202/2023-1428.pdf",
+  "source_sha256": "9197c47e168a7b923d230af87547af83a64c8a9f4e286703c1291784690f59cf",
+  "official_list": "https://www.ysk.gov.tr/doc/karar/kararlar.txt",
+  "official_list_sha256": "0733001df8fd09fa2f4155954da343809b59b823ecd8d57ad2e679c4264f5a84",
+  "pdf_pages": 9,
+  "text_status": "metadata-only",
+  "metadata_only_reason": "the two text extractions (PyMuPDF / pdftotext) differ",
+  "in_force": "2023-09-21",
+  "law_text_complete": false
+}
