@@ -1,0 +1,26 @@
+{
+  "kind": "norm",
+  "issuer": "Enerji Piyasası Düzenleme Kurumu",
+  "market": "petroleum",
+  "document_type": "board-decision",
+  "number": "12083",
+  "decision_date": "2023-09-21",
+  "title": "Akdeniz Akaryakıt Depolama Nakliyat ve Ticaret A.Ş.’nin; DEP/2574-2/27768 sayılı depolama lisansı kapsamında faaliyette bulunan Antalya Tesisine ilişkin",
+  "resmi_gazete_date": "2023-09-23",
+  "resmi_gazete_number": "32318",
+  "categories": [
+    "Depolama Tarifesi"
+  ],
+  "source": "https://www.epdk.gov.tr/Detay/DownloadDocument?id=zwoBZTowKzA=",
+  "documents": [
+    "https://www.epdk.gov.tr/Detay/DownloadDocument?id=zwoBZTowKzA=",
+    "https://www.epdk.gov.tr/Detay/DownloadDocument?id=neozspH6e1E="
+  ],
+  "source_sha256": "352524d78a226dcfb6e26b76a98d10762dda76c84e050426c430b72239c4fff1",
+  "official_list": "https://www.epdk.gov.tr/Detay/Icerik/3-0-100/kurul-kararlari",
+  "official_list_leaf": 5140,
+  "text_status": "as-enacted",
+  "text_file": "metin.md",
+  "in_force": "2023-09-21",
+  "law_text_complete": true
+}
