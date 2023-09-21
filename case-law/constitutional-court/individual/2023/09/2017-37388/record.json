@@ -1,0 +1,20 @@
+{
+  "applicant": "V.J.G.",
+  "application_date": "2017-11-08",
+  "application_number": "2017/37388",
+  "deciding_unit": "Birinci Bölüm",
+  "decision_date": "2023-09-21",
+  "id": "32ec80b8-9764-18f8-bf2c-d253286746bb",
+  "in_force": "2023-09-21",
+  "in_force_basis": "official decision date",
+  "kind": "constitutional-court-individual-application",
+  "omitted_images": 0,
+  "outcome": "Esas (İhlal)",
+  "published": null,
+  "referenced_images": 0,
+  "source": "https://kararlarbilgibankasi.anayasa.gov.tr/kbb/pages/search/Tumu?id=a2JiOjMyZWM4MGI4LTk3NjQtMThmOC1iZjJjLWQyNTMyODY3NDZiYg&type=BireyselBasvuru",
+  "source_api": "https://kararlarbilgibankasi.anayasa.gov.tr/api/core/public/search",
+  "source_images": 0,
+  "source_sha256": "928bc25de9ec9fa012b876b607ce1dd5ec83afc6e4191076f53262f7b6bae614",
+  "version_label": "as-enacted"
+}
