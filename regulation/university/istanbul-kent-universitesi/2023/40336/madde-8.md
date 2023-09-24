@@ -1,0 +1,4 @@
+İngilizce yeterlik
+MADDE 8- (1) Üniversitenin eğitim dili İngilizce olan programlarına başlayabilmek için öğrencilerin İngilizce yeterliklerini belgelemeleri zorunludur. İngilizce sınavlarıyla belgelendirilen veya YÖK ya da Senato tarafından eşdeğerliği kabul edilen ve geçerlilik süresi belirlenen ulusal veya uluslararası sınavlarda, yine Senato tarafından belirlenen düzeyde alınmış sınav sonuç belgeleri ile başarılı olduklarını belgelendirenler doğrudan kabul edilen programlarına başlar. Adaylar geçerli İngilizce yeterlik belgesini başvuru veya kayıt sırasında sunmak zorundadır.
+(2) İngilizce yeterlik düzeyini belgelemeyen öğrenciler İngilizce hazırlık programında öğrenim görürler. İngilizce hazırlık programı öğretiminde ilgili diğer mevzuat hükümleri uygulanır.
+(3) Bu madde hükümleri yatay veya dikey geçişle kayıt yaptıran öğrenciler hakkında da uygulanır.

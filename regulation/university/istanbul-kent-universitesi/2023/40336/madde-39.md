@@ -1,0 +1,3 @@
+Sınav sonuçlarına itiraz
+MADDE 39- (1) Öğrenciler, yarıyıl içi değerlendirmelerine veya yarıyıl sonu sınavlarının ya da bütünleme sınavlarının sonuçlarına, maddi hata yönünden sonuçların ilan edildiği tarihi izleyen üç iş günü içinde kayıtlı bulunduğu programın bağlı olduğu dekanlıklara veya yüksekokul/meslek yüksekokulu müdürlüklerine yazılı olmak kaydıyla itiraz edebilir.
+(2) İtiraz dilekçelerinin, ilgili öğretim elemanına gönderilerek üç iş günü içerisinde sonuçlandırılması sağlanır. İlan edilecek notlarda yapılacak herhangi bir değişiklik ancak ilgili fakülte/yüksekokul/meslek yüksekokulu yönetim kurulunun onayı ile yapılır.

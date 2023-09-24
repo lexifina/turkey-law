@@ -1,0 +1,4 @@
+Danışmanlık
+MADDE 24- (1) Kesin kaydı yapılan yeni öğrenciye Üniversiteyi tanıtmak amacıyla derslerin başladığı hafta Rektörlük, dekanlık ve müdürlükler tarafından oryantasyon programları düzenlenir.
+(2) Öğrenim gören her öğrenciye, öğrencinin akademik durumunu izlemek ve akademik konularda rehberlik etmek amacıyla ilgili fakülte dekanlığı, yüksekokul, meslek yüksekokul müdürlüğü tarafından programına başlayacağı ilk dönem ders kayıtları öncesinde Üniversite öğretim elemanları arasından biri akademik danışman olarak atanır.
+(3) Danışman, öğrenciyi öğrenimi süresince izler, ön lisans/lisans öğretimi, ilgili mevzuat ve akademik performansı hakkında bilgilendirir ve yönlendirir. Öğrencinin derslere kaydolma, ders ekleme, bırakma ve dersten çekilme ve benzeri işlemleri danışman onayı ile yapılır. Danışmanlık süreçleri ilgili yönergeye göre yürütülür.

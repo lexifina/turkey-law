@@ -1,0 +1,7 @@
+Özel öğrenciler
+MADDE 20- (1) Özel öğrenci, yurt içinde veya yurt dışında bir yükseköğretim kurumunda kayıtlı öğrenci olup, farklı bir yükseköğretim ortamı, kültürü, kazanımı edinmek isteyen veya özel durumu, sağlık ve benzeri nedenlerle kayıtları kendi üniversitelerinde kalmak şartıyla farklı bir yükseköğretim kurumunda eğitime devam etme imkânı tanınan öğrenciyi ifade eder. Özel öğrenciler, Üniversitesinin öğrencisi sayılmazlar ve öğrencilik statüsüne ilişkin haklarından yararlanamaz.
+(2) Özel öğrencilere diploma ve unvan verilmez. Ancak kayıtlı oldukları dersleri, aldıkları notları ve AKTS kredisini gösteren bir belge verilir. Özel öğrenci statüsünde alınan dersler hakkında muafiyet hükümleri, ilgili yönetim kurullarınca karara bağlanır.
+(3) Özel öğrenci olarak ders alabilmek için; öğrencinin kendi üniversitesinden aldığı uygunluk kararını, not çizelgesini (transkript) ve dersi alacağı üniversitenin ilgili biriminin yönetim kurulu kararını dilekçesine ekleyerek başvuru yapması gereklidir.
+(4) Öğrencinin özel öğrencilikte geçirdiği süre, öğrenim süresine dahildir.
+(5) Özel öğrencilerin ilgili mevzuat hükümlerine göre Mütevelli Heyeti tarafından belirlenen AKTS kredisi başına ders ücretini ödemeleri gerekir.
+(6) Özel öğrencilere, bu Yönetmelik ve Yükseköğretim Kurumlarında Ön Lisans ve Lisans Düzeyindeki Programlar Arasında Geçiş, Çift Anadal, Yan Dal ile Kurumlar Arası Kredi Transferi Yapılması Esaslarına İlişkin Yönetmelik hükümleri uygulanır.

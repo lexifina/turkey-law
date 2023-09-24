@@ -1,0 +1,4 @@
+Öğrenim programları
+MADDE 27- (1) Bir ön lisans/lisans diploma programının öğrenim programı, ilgili fakülte/yüksekokul, meslek yüksekokul yetkili kurullarının kararı üzerine Senato onayıyla kesinleşir. Öğrenim programlarında, programdan mezuniyet için tamamlanması öngörülen ders, laboratuvar, uygulama, staj ve benzeri çalışmalar, haftalık saat ve kredileri, varsa ön koşul ve yan koşulları, derslerin dönem başına toplam otuz AKTS kredisi olmak üzere normal öğrenim süresine dağılımı belirtilir.
+(2) Öğrenim programlarında öngörülen değişiklikler yine aynı usulle belirlenir. Kararlarda, değişikliklerden etkilenecek öğrenciler için intibak işlemleri ile geçerli olacak uygulamalara da yer verilir. Değişiklikler en erken izleyen dönemin başından itibaren uygulamaya alınır.
+(3) Öğrenciler başarısız dersleri açıldığı ilk dönem alttan alabilir.

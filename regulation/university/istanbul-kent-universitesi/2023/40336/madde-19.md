@@ -1,0 +1,2 @@
+Yan dal programları
+MADDE 19- (1) Bir bölümün öğrencilerinden isteyenlere, aynı fakülte, yüksekokul, meslek yüksekokulu içinden veya dışından, başka bir bölümün ön lisans/lisans programında yer alan temel dersleri aynı zamanda izleme izni verilebilir. Bu öğrencilerin izledikleri programa yan dal programı denir. Yan dal programı, ayrı bir ön lisans/lisans programı anlamını taşımaz. Yan dal programları ile ilgili hususlar ilgili yönerge ile Senato tarafından tespit edilir.

@@ -1,0 +1,3 @@
+Eğitim-öğretim kapsamı
+MADDE 25- (1) Lisans ve ön lisans programlarında yıllara veya yarıyıllara göre yer alacak ders ve uygulamalar, bunlara ilişkin AKTS değerleri ve saat sayıları, zorunlu, seçmeli ya da ön koşullu olup olmadıkları bölüm önerileri esas alınarak ilgili akademik birimlerin yetkili kurullarınca belirlenir ve Senatonun onayıyla kesinleşir.
+(2) İşletmede mesleki eğitim, staj, uygulamalı ders, tez gibi eğitim-öğretim faaliyetlerinin esasları ve varsa AKTS değerleri 17/6/2021 tarihli ve 31514 sayılı Resmî Gazete’de yayımlanan Yükseköğretimde Uygulamalı Eğitimler Çerçeve Yönetmeliği esaslarına uygun olarak akademik programda belirlenir.
