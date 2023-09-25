@@ -1,0 +1,3 @@
+Tezsiz yüksek lisans programlarında danışman atanması ve değişikliği
+MADDE 21 – (1) Tezsiz yüksek lisans programında EABDB her öğrenci için ders seçiminde ve dönem projesinin yürütülmesinde danışmanlık yapacak, Üniversite kadrosunda görevli bir öğretim üyesini veya doktora derecesine sahip bir öğretim görevlisini en geç birinci yarıyılın sonuna kadar bildirir. Danışman, LPE Yönetim Kurulu kararı ile kesinleşir.
+(2) Öğrencinin danışman değişikliği istemi veya danışmanın bir öğrencinin danışmanlığından çekilme istemi gerekçesi ile birlikte EABDB’nin önerisi üzerine LPE Yönetim Kurulunda karara bağlanır.

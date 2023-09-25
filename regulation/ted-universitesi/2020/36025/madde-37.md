@@ -1,0 +1,14 @@
+BEŞİNCİ BÖLÜM
+Sınavlar, Değerlendirme ve Mezuniyet
+Devam ve sınavlar
+MADDE 37 – (1) Öğrenciler, kayıtlı oldukları derslere varsa bu derslerdeki laboratuvar ve uygulamalara devam etmek, yarıyıl içinde her türlü sınava ve dersi veren öğretim elemanının uygun gördüğü diğer çalışmalara katılmakla yükümlüdür.
+(2) Öğrencilerin derse devam durumlarının, varsa ara sınav ve yarıyıl sonu sınavlarına katılmaya ve yarıyıl harf notuna katkısı; sorumlu oldukları ara sınav, ödev, uygulama ve benzeri çalışmalar ile bunların yarıyıl harf notuna katkısı ve varsa yarıyıl sonu sınavına katılma koşulları dersi veren ilgili öğretim elemanı tarafından belirlenir ve yarıyıl başında verilen izlence ile öğrencilere açıklanır.
+(3) Her derste yazılı sınav, proje teslimi, ödev teslimi, sözlü sunum gibi en az iki ara değerlendirme yapılır. Ara değerlendirmelerin tarihleri ilgili öğretim elemanı tarafından yarıyıl başında düzenlenecek ders izlencesinde belirtilir. Tarihler en geç yarıyılın ikinci haftası sonuna kadar ilan edilir.
+(4) Öğrenciler, her dersteki yarıyıl içi başarı durumları hakkında ilgili öğretim elemanı tarafından bilgilendirilir. Bu bilgilendirmede öğrencilerin kimlik bilgilerinin gizliliği ilkesi gözetilir.
+(5) Her derste yazılı sınav, proje teslimi, ödev teslimi, sözlü sunum ve benzeri bir yarıyıl sonu değerlendirmesi yapılır. Yarıyıl sonu sınavlarına ilişkin düzenlemeler aşağıda belirtilmiştir:
+a) Yarıyıl sonu sınavı yapılan derslerde, yapılacak yarıyıl sonu sınavlarının tarih, gün ve saatleri, ilgili EABDB’nin görüşü alınarak sorumlu idari birim tarafından düzenlenir ve ilan edilir.
+b) İlan edilen sınav tarihleri, ilgili EABDB’nin gerekçeli önerisi üzerine Öğrenci İşleri Müdürlüğü tarafından yarıyıl sonu sınav tarihleri içinde olmak koşulu ile değiştirilebilir. Bu işlem, akademik takvimde belirtilen yarıyıl sonu sınav dönemi başlamadan önce yapılır.
+(6) Herhangi bir dersin gereği olan yazılı sınav, proje teslimi, ödev teslimi, sözlü sunum gibi değerlendirmelere hastalık veya başka nedenlerle giremeyen öğrencilerin mazeretlerinin kabul edilmesine ilişkin esaslar Senato tarafından karara bağlanarak yayımlanır. Öğrencinin mazeret talebinde bulunabilmesi için yayımlanan bu esaslara uygun bir dilekçe ve belge ile ilgili öğretim elemanına başvurması gerekir. Mazereti ilgili öğretim elemanı tarafından geçerli görülenlere telafi imkânı verilir.
+(7) Gerekli durumlarda ders ve sınavlar, hafta içi mesai saatleri bitiminden sonra ve/veya hafta sonunda da yapılabilir.
+(8) Sınavların kurallara uygun yapılmasından ilgili öğretim elemanları ve sınav gözetmenleri sorumludur.
+(9) Öğrencinin derse devamı ve dersin değerlendirilmesi ile ilgili her türlü belgeyi (izlence, sınav kağıtları, ödevler, projeler varsa sunumlara ilişkin tutanaklar ve benzeri) ilgili öğretim elemanı, harf notlarının ilanından sonra en geç iki hafta içinde LPE’ye teslim eder. Teslim edilen belgeler LPE tarafından iki yıl süre ile saklanır.

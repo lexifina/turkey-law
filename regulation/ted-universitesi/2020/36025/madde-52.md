@@ -1,0 +1,4 @@
+Kayıt sildirme
+MADDE 52 – (1) Üniversiteden ayrılmak isteyen öğrenciler Öğrenci İşleri Müdürlüğüne başvurarak kayıtlarını sildirebilir.
+(2) Üniversiteden kaydını sildiren öğrencilerin dosyalarındaki kendilerine ait belgeleri alabilmeleri için kayıt sildirme işlemlerini yapmaları ve mali yükümlülükleri (öğrenim ücreti, yurt, kütüphane borcu ve benzeri) yerine getirmeleri zorunludur.
+(3) Dersler başlamadan önce Üniversiteden ayrılma başvurusu yapan öğrenciden, ilgili yarıyıl için ödemekle yükümlü olduğu ücretler talep edilmez. Derslerin başlamasını izleyen dördüncü haftanın son iş gününe kadar, yaz okuluna kayıtlı öğrenciler için ise ikinci haftanın son iş gününe kadar yapılan başvurularda, öğrencilere ödemekle yükümlü oldukları yarıyıl öğrenim ücretinin yarısı iade edilir. Bu tarihten sonra başka bir yükseköğretim kurumuna yatay geçişi kabul edilen öğrenciler hariç olmak üzere Üniversiteden ayrılma başvurusunda bulunan öğrencilere ücret iadesi yapılmaz.

@@ -1,0 +1,4 @@
+Sınav sonuçlarına itiraz
+MADDE 41 – (1) Öğrenci, sınav sonuçlarının ilanından itibaren en geç bir hafta içinde dersin öğretim elemanına başvurarak, sınav kâğıdının tekrar incelenmesini isteyebilir. İtirazın reddi halinde öğrenci isterse, dersin bağlı olduğu dekanlığa veya enstitüye başvurabilir. İlgili yönetim kurulu bu itirazı uygun gördüğü takdirde üç kişilik bir heyet kurar, bu heyet sınav sonuçlarını değerlendirip karara bağlar.
+(2) Karar sınav sonucunun değiştirilmesine yönelikse ve bu değişiklik öğrencinin söz konusu ders için aldığı yarıyıl sonu başarı notunda değişiklik gerektiriyorsa, dersin bağlı olduğu fakülte/enstitü yönetim kurulu kararıyla yarıyıl sonu başarı notunda düzeltme yapılır. Fakültelerden biri veya enstitü tarafından verilmeyen dersler için Rektörlük ve Üniversite Yönetim Kurulu değerlendirmeleri yapar.
+(3) Değerlendirme sonucu öğrenciye ilgili Dekanlık/Enstitü Müdürlüğü tarafından yazılı olarak bildirilir.

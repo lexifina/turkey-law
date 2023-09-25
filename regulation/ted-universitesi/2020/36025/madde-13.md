@@ -1,0 +1,10 @@
+Programa ilk kayıt
+MADDE 13 – (1) Lisansüstü programlara kabul edilen öğrencilerin ilk kayıt işlemleri akademik takvimde ilan edilen tarihlerde Öğrenci İşleri Müdürlüğü tarafından yapılır. İlan edilen süre içinde kaydını yaptırmayanlar kayıt haklarını kaybeder.
+(2) Lisansüstü programlara kabul edilen öğrencilerin kayıtlarının kesinleşmesi için aşağıdaki koşullar aranır:
+a) (Değişik:RG-8/12/2022-32037) Tezli ve tezsiz yüksek lisans programlarına kabul edilenler ve doktora programlarına lisans derecesiyle kabul edilenler için lisans diploması veya resmî mezuniyet belgesine, doktora programlarına yüksek lisans derecesiyle kabul edilenler için tezli yüksek lisans diplomasına veya resmi mezuniyet belgesine sahip olmak.
+b) Öğrenim ücretine ilişkin yükümlülükleri yerine getirmek.
+c) Üniversitenin ilan ettiği diğer koşulları yerine getirmek.
+ç) Öğrenim vizesi engeli olmamak (uluslararası öğrenciler için).
+(3) (Değişik:RG-25/9/2023-32320) Kredi üzerinden ücretlendirilen tezli ve tezsiz yüksek lisans programlarında en az 9 krediye, doktora programlarında ise en az 12 krediye karşılık gelen ücretin ilk kayıt sırasında ödenmesi gerekir. Öğrencilerin tezli ve tezsiz yüksek lisans programlarında alacakları ilk 9 kredi ile doktora programlarında alacakları ilk 12 kredi için yapacakları ödeme, programa ilk kayıtta ödedikleri asgari ücretten mahsup edilir.
+(4) Kayıt için istenen belgelerin aslı veya Üniversite tarafından aslı görülerek onaylanacak örneği kabul edilir. Askerlik durumuna ilişkin olarak ise adayın beyanına dayanılarak işlem yapılır. Gerçeğe aykırı veya yanıltıcı beyan ve belgelerle kayıt hakkı kazanmış olanların tespiti halinde kayıtları yapılmaz, yapılmış ise bulundukları yarıyıla bakılmaksızın kayıtları iptal edilir ve kendilerine verilmiş olan diploma dâhil tüm belgeler geçersiz sayılır ve haklarında yasal işlem başlatılır. Bu durumda olanlar öğrencilik statüsü kazanmamış sayılır ve gelecekte öğrencilikle ilgili hiçbir haktan yararlanamazlar.
+(5) Kayıt işlemlerini tamamlayan öğrencilere öğrenci kimlik belgesi düzenlenir. Kimlik belgesinde öğrenciyi tanıtıcı bilgiler yer alır.

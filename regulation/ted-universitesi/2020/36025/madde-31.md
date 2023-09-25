@@ -1,0 +1,8 @@
+Doktora programında danışman atanması ve değişikliği
+MADDE 31 – (1) Doktora programında, EABDB her öğrenci için ders seçiminde ve tezin yürütülmesinde (Değişik ibare:RG-26/3/2023-32144) görev alacak danışmanı en geç birinci yarıyılın sonuna kadar bildirir. Danışman, LPE Yönetim Kurulu kararı ile kesinleşir.
+(2) Doktora tezi yönetebilmek için en az bir yüksek lisans tezinin yönetilmiş ve başarıyla tamamlanmış olması gerekir.
+(3) Doktora programlarına kayıtlı öğrencilerin Açık Araştırmacı ve Katkı Sağlayan Kimliği/Open Researcher and Contributor ID (Tekit/ORCID) numarası alması zorunludur. EABDB her öğrenciye ait ORCID numarasını en geç birinci yarıyılın sonuna kadar danışman önerisi ile birlikte LPE’ye yazılı olarak bildirir.
+(4) Öğrencinin danışman değişikliği istemi veya danışmanın bir öğrencinin danışmanlığından çekilme istemi, gerekçesi ile birlikte EABDB’nin önerisi ile LPE Yönetim Kurulunda karara bağlanır.
+(5) Tez konusu en geç ikinci yarıyıl sonunda öğrenci ve danışman tarafından önerilir, EABDB’nin onayı ve LPE Yönetim Kurulu kararı ile kesinleşir.
+(6) Tez çalışmasının niteliğinin birden fazla tez danışmanı gerektirdiği durumlarda ikinci bir tez danışmanı EABDB’nin önerisi ve LPE Yönetim Kurulu kararıyla atanabilir. Atanacak ikinci tez danışmanı, Üniversite kadrosu dışından ise en az doktora derecesine sahip olması gerekir.
+(7) Tez çalışması yapmak veya tez savunmasına girmek için ilgili yarıyılda teze kayıt yaptırılmış olması şarttır. Öğrenci, danışman atamasını izleyen yarıyılda ve en geç diğer derslerini başarıyla tamamlamasından itibaren her yarıyıl uygun tez dersine kayıt yaptırmak zorundadır.

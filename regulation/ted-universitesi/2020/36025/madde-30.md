@@ -1,0 +1,8 @@
+Doktora programında ders yükü ve başarı
+MADDE 30 – (Değişik:RG-8/12/2022-32037)
+(1) Doktora programı, tezli yüksek lisans derecesi ile kabul edilmiş öğrenciler için toplam 21 krediden ve bir eğitim-öğretim dönemi 60 AKTS’den az olmamak koşuluyla en az yedi ders, seminer, yeterlik sınavı, tez önerisi ve tez çalışması olmak üzere en az 240 AKTS kredisinden oluşur. Lisans derecesi ile kabul edilmiş öğrenciler için de en az 42 kredilik 14 ders, seminer, yeterlik sınavı, tez önerisi ve tez çalışması olmak üzere toplam en az 300 AKTS kredisinden oluşur.
+(2) Seminer dersi ve tez çalışması kredisiz olup başarılı veya başarısız olarak değerlendirilir.
+(3) Doktora programlarında EABD’nin önerisi ve LPE Yönetim Kurulu onayı ile diğer yükseköğretim kurumlarında verilmekte olan derslerden yüksek lisans derecesi ile kabul edilmiş öğrenciler için en fazla iki, lisans derecesiyle kabul edilmiş öğrenciler için en fazla dört ders seçilebilir. Bu derslerin öğrencinin kayıtlı olduğu programın eğitim-öğretim dilinde verilmesi esastır.
+(4) Lisans dersleri ders yüküne ve doktora kredisine sayılmaz.
+(5) Tez çalışmasına başlanabilmesi için her öğrencinin seminer dersini alması ve başarı ile tamamlamış olması gerekir.
+(6) Doktora programı için gerekli kredili dersleri başarıyla tamamlamanın azami süresi tezli yüksek lisans derecesi ile kabul edilenler için dört yarıyıl, lisans derecesi ile kabul edilenler için altı yarıyıldır. Bu süre içinde kredili derslerini en az CB notu ile başarıyla tamamlayamayan ve/veya genel not ortalaması 3,00/4,00 altında olan ve/veya seminer dersini almayan öğrenciler doktora yeterlik sınavına giremez ve kayıtlı oldukları programla ilişiği kesilir.
