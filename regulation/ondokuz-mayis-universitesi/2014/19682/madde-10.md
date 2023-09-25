@@ -1,0 +1,8 @@
+Devam ve Başarı Durumu
+Derslerin açılması
+MADDE 10 – (1) (Değişik:RG-24/5/2015-29365) Yaz döneminde açılacak dersler her yıl; fakülteler ile yüksekokullarda ilgili bölüm kurulunun, meslek yüksekokullarında bölüm başkanlıklarının, enstitülerde ise ilgili anabilim/anasanat dalı kurulunun teklifi, birim yönetim kurulunun kararı ile en geç bahar yarıyılına ait yarıyıl sonu sınav döneminden onbeş gün öncesine kadar belirlenir.
+(2) Yaz döneminde bir dersin açılabilmesi için gerekli en az öğrenci sayısı; önlisans ve lisans programlarında onbeş, lisansüstü programlarında iki kişinin altında olmamak üzere, her yıl Üniversite Yönetim Kurulunca tespit edilir. İstisnai durumlar, birim yönetim kurulunun önerisi ile Üniversite Yönetim Kurulu tarafından karara bağlanır.
+(3) (Değişik:RG-24/5/2015-29365) Yaz dönemindeki bir ders, kaydolan öğrenci sayısının yetersiz olması halinde açılmaz. Bir dersin gruplara bölünmesi, ancak öğrenci sayısının her grupta en az 40 öğrenci bulunması durumunda gerçekleştirilebilir. Senato bu sayıları artırabilir. Eğitim-öğretimin bireysel veya küçük gruplarla yapılmasının zorunlu olduğu hallerde öğrenci sayısına, ilgili birimin yönetim kurulunun önerisiyle Senato tarafından karar verilir.
+(4) Ondokuz Mayıs Üniversitesi önlisans ve lisans eğitim-öğretim programlarında yer alan zorunlu ve seçmeli derslerin açılmaları gereken yarıyıllarda açılmayarak yaz dönemine ertelenmesi mümkün değildir. Bu sınırlama lisansüstü eğitimi için uygulanmaz.
+(5) Yıllık dersler yaz döneminde açılmaz.
+(6) (Ek:RG-24/5/2015-29365) Uzaktan Eğitim Merkezi bünyesinde yaz döneminde eğitim-öğretim yapılmamaktadır. Ancak, UZEM öğrencileri ilgili bölüm/programın örgün öğretiminde varsa ve ders açılmışsa bu dersi ilgili birimden alabilir.
