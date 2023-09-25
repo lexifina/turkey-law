@@ -1,0 +1,21 @@
+{
+  "record_type": "parliament-written-question",
+  "term": 28,
+  "legislative_year": 1,
+  "esas_no": "7/4588",
+  "submitted": "2023-09-25",
+  "submitted_as": "Başkanlığa geliş tarihi",
+  "mp": "Burak DALGIN",
+  "province": "Balıkesir",
+  "summary": "Merkez Bankasının Dijital Türk Lirası çalışmalarına ilişkin",
+  "status": "Cevaplanmadığı Gelen Kağıtlarda İlan Edildi",
+  "status_as_of": "2026-11-16",
+  "official_record": "https://www.tbmm.gov.tr/Denetim/Yazili-Soru-Onergesi-Detay/744dfe72-4686-469e-9f66-018ad0667857",
+  "source": "https://tbmm.gov.tr/Denetim/YaziliSoruOnergesiTable",
+  "source_form": "https://tbmm.gov.tr/Denetim/Yazili-Soru-Onergeleri",
+  "source_sha256": "6d571c19e0b1548a0794e70a84697ff2b4b274ae1928f870805eb098c978e9d2",
+  "in_force": "2023-09-25",
+  "in_force_basis": "Date the question reached the Speaker (Başkanlığa geliş tarihi) in the official TBMM written-question record; parliamentary oversight record, not law",
+  "history_type": "metadata",
+  "text_status": "metadata-only: question text, addressee and answers are in the linked official record (PDFs on cdn.tbmm.gov.tr); not transcribed here"
+}
