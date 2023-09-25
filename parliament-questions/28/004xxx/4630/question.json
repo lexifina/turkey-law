@@ -1,0 +1,21 @@
+{
+  "record_type": "parliament-written-question",
+  "term": 28,
+  "legislative_year": 1,
+  "esas_no": "7/4630",
+  "submitted": "2023-09-25",
+  "submitted_as": "Başkanlığa geliş tarihi",
+  "mp": "Beritan GÜNEŞ ALTIN",
+  "province": "Mardin",
+  "summary": "6 Şubat 2023 tarihinde Kahramanmaraş'ta meydana gelen depremler neticesinde yaşanan okul binası eksikliğine ve öğretmenlerin barınma sorununa ilişkin",
+  "status": "Süresi Geçtikten Sonra Cevaplandı",
+  "status_as_of": "2026-11-16",
+  "official_record": "https://www.tbmm.gov.tr/Denetim/Yazili-Soru-Onergesi-Detay/c8d82d3d-8f0b-497a-bc85-018ad143c8b1",
+  "source": "https://tbmm.gov.tr/Denetim/YaziliSoruOnergesiTable",
+  "source_form": "https://tbmm.gov.tr/Denetim/Yazili-Soru-Onergeleri",
+  "source_sha256": "3221048bded203cc8099ae66ec562d39e528ca9fb40b8d41de92e0ca5e6cba22",
+  "in_force": "2023-09-25",
+  "in_force_basis": "Date the question reached the Speaker (Başkanlığa geliş tarihi) in the official TBMM written-question record; parliamentary oversight record, not law",
+  "history_type": "metadata",
+  "text_status": "metadata-only: question text, addressee and answers are in the linked official record (PDFs on cdn.tbmm.gov.tr); not transcribed here"
+}
