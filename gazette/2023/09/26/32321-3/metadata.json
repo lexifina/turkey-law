@@ -1,0 +1,20 @@
+{
+  "record_type": "gazette-item",
+  "gazette": "Resmî Gazete",
+  "jurisdiction": "TR",
+  "date": "2023-09-26",
+  "issue": "32321",
+  "edition": "regular",
+  "item": 3,
+  "section": "YÜRÜTME VE İDARE BÖLÜMÜ",
+  "heading": "YÖNETMELİKLER",
+  "title": "Yükseköğretim Kurumlarında Önlisans ve Lisans Düzeyindeki Programlar Arasında Geçiş, Çift Anadal, Yan Dal ile Kurumlar Arası Kredi Transferi Yapılması Esaslarına İlişkin Yönetmelikte Değişiklik Yapılmasına Dair Yönetmelik",
+  "official_link": "https://www.resmigazete.gov.tr/eskiler/2023/09/20230926-3.htm",
+  "link_format": "htm",
+  "index_url": "https://www.resmigazete.gov.tr/eskiler/2023/09/20230926.htm",
+  "index_sha256": "36d596bcd17e1f3539abb2ff2f73810e0b17b5ca73a7c06a27440097a2ac7906",
+  "index_header": "26 Eylül 2023 ... 32321 Sayılı Resmî Gazete",
+  "issue_pdf": "https://www.resmigazete.gov.tr/eskiler/2023/09/20230926.pdf",
+  "in_force_basis": "Resmî Gazete publication date; not a commencement reading.",
+  "text_status": "metadata-only; text not yet fetched (follow-up pass adds it as its own commit)"
+}
