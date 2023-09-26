@@ -1,0 +1,79 @@
+Banka hesapları ile muhasebe kayıtları arasındaki tutarsızlık
+
+…  … yılı hesabının 3.Dairede yargılanması sonucu düzenlenen … tarih ve … sayılı İlamın … uncu maddesiyle hüküm dışı bırakılan konunun 6085 sayılı Sayıştay Kanununun 50 nci maddesinin üçüncü fıkrası hükmü gereğince görüşülmesinin devamına karar verildi.
+
+Anılan ilam maddesinde; …  … yılı hesabında muhasebe kayıtlarında yer alan Türk Lirası nakit tutarları ile banka mevduat hesaplarında yer alan Türk Lirası tutarlarının eşit olmaması sonucu sebebiyet verildiği iddia edilen … TL kamu zararı ile ilgili olarak duruşmaya katılanlar tarafından Yargılama Heyetine yeni banka yazıları sunulduğundan söz konusu yazı/belgelerin değerlendirilmesini müteakiben düzenlenecek ek raporun yargılanmasına değin konunun 6085 sayılı Sayıştay Kanununun 50 nci maddesi uyarınca hüküm dışı bırakılmasına karar verilmesi üzerine,
+
+Denetçi tarafından, Yargılama Heyetine sunulan belgelerin değerlendirilmesi sonucu  ilama esas ek rapor düzenlenmiş olup, söz konusu ek rapor ile eki bilgi ve belgeler de Daire tarafından ilgili mevzuat çerçevesinde değerlendirilmiştir.
+
+10.12.2003 tarihli ve 5018 sayılı Kamu Mali Yönetimi ve Kontrol Kanununun  “Tanımlar” başlıklı 3 üncü maddesinde kamu kaynağı; “borçlanma suretiyle elde edilen imkânlar dâhil kamuya ait gelirler, taşınır ve taşınmazlar, hesaplarda bulunan para, alacak ve haklar ile her türlü değerler” şeklinde tanımlanmıştır.
+
+5018 sayılı Kanunun 7 nci maddesinde, kamu kaynağının kullanılmasının genel esaslarından “mali saydamlık” ilkesinin sağlanabilmesi için “kamu hesaplarının standart bir muhasebe sistemi ve genel kabul görmüş muhasebe prensiplerine uygun bir muhasebe düzenine göre oluşturulması” zorunlu tutulmuş, bunun için gerekli düzenlemelerin yapılması ve önlemlerin alınmasından kamu idarelerinin sorumlu olduğu belirtilmiştir.
+
+Her türlü kamu kaynağının elde edilmesi ve kullanılmasında görevli ve yetkili olanların hesap verme sorumluluğu 5018 sayılı Kanunun 8 inci maddesinde; üst yöneticilerin sorumlulukları altındaki kaynakların kayıp ve kötüye kullanımının önlenmesi, mali yönetim ve kontrol sisteminin işleyişinin gözetilmesi ve izlenmesinden doğan sorumluluğu ise mezkur Kanunun 11 inci maddesinde düzenlenmiştir.
+
+Kanunun 49 uncu maddesinde; kurum muhasebe sisteminde bulunan hesapların “kamu idarelerinin gelir, gider ve varlıkları ile malî sonuç doğuran ve öz kaynağın artmasına veya azalmasına neden olan her türlü işlemlerle garantilerin ve yükümlülüklerin belirlenmiş bir düzen içinde hesaplara kaydedilerek, yönetim ve denetim yetkilileriyle kamuoyuna gerekli bilgilerin sağlanması amacıyla tutulacağı”, 50 nci maddesinde de bütün mali işlemlerin muhasebeleştirilmesinin ve her muhasebe kaydının belgeye dayanmasının şart olduğu hüküm altına alınmıştır.
+
+27.05.2016 tarihli ve 29724 (Mükerrer) sayılı Resmi Gazete’de yayımlanan Mahalli İdareler Bütçe ve Muhasebe Yönetmeliğinin 102 Banka Hesabına ilişkin işlemleri düzenleyen 56 ncı maddesinde; “c) Banka hesap özet cetveli 1) Kurumun hesabının bulunduğu bankalarca, bir gün içerisinde kurum adına tahsil edilen paraların miktarları ile karşılığında onaylanan veya düzenlenen alındıların tarih ve numaralarını; kurum adına ödenen veya gönderilen paraların miktarları ile bunlara ait çek ve gönderme emirlerinin tarih ve numaralarını gösteren iki nüsha banka hesap özet cetveli düzenlenerek ertesi gün kuruma gönderilir. Banka hesap özet cetvelinin bir nüshası muhasebe işlem fişine bağlanır, diğer nüshası ise açılacak bir dosyada muhafaza edilir. Tahsilat ve ödemeleri ayrıntılı olarak gösteren cetvelin bankaca, ertesi gün doldurularak onaylandıktan sonra teslimat müzekkeresi ve gönderme emirlerinin ikinci nüshalarıyla birlikte kuruma gönderilmesi ve kurumun da bu cetveli araması gerekir. 2) Banka hesap özet cetveli gecikme ile verildiği takdirde durumun üst yöneticiye bildirilmesi zorunludur.” denilmektedir.
+
+Buna göre banka hesapları ile mali tablolarda görünen tutarlar arasında fark bulunmaması için banka hesap özet cetvellerinin zamanında temin edilerek ilgili kayıtların yine zamanında ve doğru olarak yapılması gerekmektedir.
+
+Mezkur Yönetmelik’in “Sayımı yapılacak değerler ve sayım kurulları” başlıklı 493 üncü maddesi ile “Sayımlarda kullanılacak tutanaklar” başlıklı 494 üncü maddesi gereği, dönem sonlarında idare hesaplarının bulunduğu bankalar ile mutabakat yapılarak “Banka Mevcudu Tespit Tutanağı” düzenlenmelidir.
+
+Yönetmelik’in 72 nci maddesinde ise 108 Diğer Hazır Değerler Hesabının muhasebe birimlerine ait ulusal para birimi cinsinden banka hesapları arasındaki para aktarımı için bankaya verilen talimatların bu hesaba borç, 103 Verilen Çekler ve Gönderme Emirleri Hesabına alacak kaydedileceği, bankaya verilen talimatlardan yerine getirilenlerin ise bu hesaba alacak, 102 Banka Hesabına borç kaydedileceği belirtilmiştir.
+
+Bununla birlikte, Yönetmelik’in 105 Döviz Hesabının niteliğini düzenleyen 64 üncü maddesinde, bu hesabın kurum veznelerince tahsil edilen veya her ne şekilde olursa olsun banka hesaplarına intikal eden konvertibl döviz tutarları ile bunlardan yapılan ödeme, iade ve göndermelerin izlenmesi için kullanılacağı hükme bağlanmıştır.
+
+... nün mevduat hesaplarının bulunduğu bankalardan 31.12…. tarihi itibarıyla alınan banka mutabakat yazılarının incelenmesi neticesinde,
+
+-İdarenin hesabının bulunduğu bankalardaki TL mevduatı toplamının … TL olduğu;
+
+-İdarenin hesabının bulunduğu bankalardaki döviz mevduatı toplamının … Avro olduğu, ancak bu tutarın 105 Döviz Hesabında … TL olarak izlenmesi yerine … TL olarak 102 Banka Hesabında izlendiği;
+
+-102 Banka Hesabının … TL borç kalanı verdiği;
+
+-Banka mutabakat yazılarına göre ilgili banka hesaplarında yer almasına rağmen 102 Banka Hesabına kaydedilmeyip 108 Hazır Değerler Hesabında takip edilen … TL’nin bulunduğu;
+
+-108 Hazır Değerler Hesabında takip edilmeye devam edilen … TL ile … yılı Bilançosunda 102 Banka Hesabında kayıtlı Avro hesabı hariç … TL’nin toplamının … TL olduğu ancak İdarenin hesabının bulunduğu bankalardaki TL mevduatı toplamının … TL olması sonucunda İdarenin muhasebe kayıtları ile mevcut banka mevduat hesapları arasında … TL fark olduğu sorguda iddia edilmekle birlikte sorumlular tarafından gönderilen savunmalar ve eki belgelerden; denetçi tarafından tespit edilen … TL kamu zararının yanısıra, geçmiş yıllarda muhasebe kayıtlarında 108 ile 109 kodlu hesaplar arasında farklı tarihlerde yapılan hatalı işlemler nedeniyle bu tutara … TL’nin ilave edilmesi gerektiği ve bu ekleme sonucunda, banka mutabakat yazısı ile İdare muhasebe kayıtları arasındaki farkın  … TL olduğu görülmüştür.
+
+Savunma uyarınca Toplam Fark olan … TL ile ilgili düzeltici işlemler ve bu işlemlere ilişkin ekler değerlendirildiğinde;
+
+1-31.12…. itibarıyla muhasebe kayıtlarında 102.0205 kodlu TR… IBAN numaralı hesapta görünen … TL’lik bakiyenin  aslında kullanılmayan bir banka hesabına ait olduğu; 31.12…. tarihinde merkez veznelerden toplanan … TL’lik tahsilat tutarının … A.Ş. tarafından aynı gün kendi merkez kasalarında muhafaza edilerek 03.01…. tarihinde … şubesinde bulunan TR… nolu ana hesaba yatırıldığı ve 03.01…. tarihinden itibaren … A.Ş. adına yeni 108 kodlu hesap oluşturulduğu, bu tarihten itibaren vezne tahsilatlarının bu hesapta takip edildiği, muhasebe kayıtlarında “… Şb TR… HsSu Ths Hesabı”na ait 102 Banka Hesabının 31.12…. tarihli borç bakiyesinin … TL olduğu ve yapılan düzeltme işleminin yerinde olduğu görüldüğünden, toplam fark olarak belirtilen tutarın … TL’si için ilişilecek husus kalmamıştır.
+
+2-Muhasebe kayıtlarında  “… Şb  ...  2Asliye Hukuk Mah TR… Hesabı”na ait 102 Banka Hesabının 31.12…. tarihli borç bakiyesi … TL olup giderleştirilmesi gereken kamulaştırma giderinin muhasebe kayıtlarında  ...  2.Asliye Hukuk Mahkemesi adına oluşturulan hesapta tutulduğu, söz konusu hatalı uygulamanın ... tarihli ve … yevmiyeli kayıt ile düzeltildiği ve yapılan düzeltme işleminin yerinde olduğu görüldüğünden; toplam fark olarak belirtilen tutarın … TL’si için ilişilecek husus kalmamıştır.
+
+3-2021 yılında  ...Genel Müdürlüğü adına kullanılan teminat mektubu karşılığında 102.0209 Vakıfbank Katılım  ...  Şb. Hesabından …-… tarihleri arasında teminat mektubu komisyon bedeli olarak kesilen fakat giderleştirilerek bu hesaptan düşülmeyen toplam … TL’nin … TL’si … tarih ve … nolu yevmiyede geriye kalan … TL’si ise … tarih ve … nolu yevmiye ile muhasebeleştirildiğinden ve yapılan düzeltme işlemleri yerinde görüldüğünden; toplam fark olarak belirtilen tutarın … TL’si için ilişilecek husus kalmamıştır.
+
+4-Müflis … Bankasının,  ...  … Genel Müdürlüğü adına tahsil edip göndermediği toplam … TL’nin iadesi için, Genel Müdürlük Hukuk Müşavirliği tarafından … 1. İflas Dairesinde alacak kayıt talebinin oluşturulduğu görülmüştür. Muhasebe kayıtlarında “… AŞ”ye ait 108 Diğer Hazır Değerler Hesabının 31.12…. tarihli borç bakiyesi … TL olup İdarece başlatılan işlem nedeniyle toplam fark olarak belirtilen tutarın … TL’si için ilişilecek husus kalmamıştır.
+
+5-İş Bankası tarafından daha önce Kurum hesaplarından farklı tarihlerde kesilen ancak muhasebeleştirilerek çıkış kaydı yapılmayan pos komisyon bedeli … TL’nin, iadesi esnasında giriş kaydı yapılmaması gerekirken 108.011450 kodlu hesaba mükerrer olarak … tarihinde … ve … nolu yevmiyelerde borç kaydı yapılmış ancak, … TL tutarındaki düzeltme işlemi … tarih ve … nolu yevmiyede gerçekleştirilmiş ve ilgili tutarların bu hesaptan çıkışı yapılmıştır. Yapılan düzeltme işlemi yerinde görüldüğünden; toplam fark olarak belirtilen tutarın … TL’si için ilişilecek husus kalmamıştır.
+
+6-İş Bankası tarafından Kurum hesaplarından farklı tarihlerde kesilen ancak muhasebeleştirilerek çıkış kaydı yapılmayan pos komisyon bedellerinden Kurumun talebi üzerine iadesi gerçekleştirilen fakat 109.0111 nolu pos hesaplarından çıkış kaydı yapılarak giderleştirilmesi gereken … TL, 600 Gelirler Hesabına alınmış ancak söz konusu hatalı işlem … tarihli … nolu yevmiye ile düzeltilmiştir. Yapılan düzeltme işlemi yerinde görüldüğünden; toplam fark olarak belirtilen tutarın … TL’si için ilişilecek husus kalmamıştır.
+
+7-İş Bankası tarafından Kurum hesaplarından farklı tarihlerde kesilen ancak muhasebeleştirilerek çıkış kaydı yapılmayan … TL pos komisyon bedeli daha önce ilgili hesaplardan çıkış kaydı yapılarak giderleştirilmediği için muhasebe kayıtlarındaki ilgili hesapları banka mutabakatlarından fazla göstermiş; söz konusu tutarın Kurumun talebi üzerine iadesi … tarihinde İş Bankasının TR… nolu hesaba yatırılmak suretiyle gerçekleştirilmiş ve bu tutar iadesi ile birlikte … TL, banka mutabakatlarındaki tutarsızlığı azaltmıştır. Yapılan düzeltme işlemi yerinde görüldüğünden; toplam fark olarak belirtilen tutarın … TL’si için ilişilecek husus kalmamıştır.
+
+8-… tarihinde İş Bankası tarafından Kurum hesaplarından farklı tarihlerde kesilen ancak muhasebeleştirilerek çıkış kaydı yapılmayan pos komisyon bedeli iadesi, … tarih ve … nolu yevmiyede 600 Gelirler Hesabına hatalı kaydedilmiş; muhasebeleştirilerek çıkış kaydı yapılmayan … TL komisyon bedeli … tarihli … nolu yevmiyede düzeltme kaydı yapılarak muhasebeleştirildiğinden ve yapılan düzeltme işlemi yerinde görüldüğünden; toplam fark olarak belirtilen tutarın … TL’si için ilişilecek husus kalmamıştır.
+
+9-  ...  6.İcra Müdürlüğü tarafından ... sayılı dosya kapsamında … tarihinde … TL ve … tarihinde … TL’nin Vakıfbank TR… nolu hesabından resen tahsil edildiği ve henüz evrak oluşturulamaması sebebiyle 140 Kişi Borçları hesabına kaydedildiği, … tarihinde … TL tutarındaki ödeme emrinin ilgili daire başkanlığı tarafından düzenlenip … nolu yevmiye ile muhasebeleştirildiği; düzenlenen … nolu yevmiye ile … tarihinde … TL ve … tarihinde … TL bloke yoluyla tahsil edilen tutarların ve … tarihinde İcra Dairesine ödenen … TL’nin muhasebe kayıtlarına alındığı, söz konusu yevmiyelere ilişkin kayıtların aşağıdaki şekilde olduğu,
+
+Yevmiye
+
+Tarihi	Yevmiye
+
+No	Hesap Adı	Hes
+
+Kod	E-1	E-2	E-3	E-4	Borç Tutarı	Alacak Tutarı
+
+Aynı dosya kapsamında … Kurum tahsilat hesaplarından … tarihinde … TL bloke yoluyla tahsilat yapıldığı,  ...  6.İcra Müdürlüğünün … sayılı dosyasının kalan bakiyesi olan … TL’yi …taki Kurum tahsilat hesaplarından … tarihinde bloke yoluyla aldığı … TL’den tahsil ettiği ve fazla tahsil edilen … TL’nin geri talep edildiği; … tarihinde  ...  6.İcra Müdürlüğü tarafından Kurum hesaplarından fazla tahsil edilen … TL’nin Vakıfbank TR…nolu hesaba iadesinin gerçekleştirildiği ve … tarihli … nolu yevmiyede gerekli düzeltme kayıtlarının yapıldığı, söz konusu işlemin, Kurumun Vakıfbank TR… nolu hesabına … tarihinde yatırılan … TL tutarındaki parasının … tarihli … nolu yevmiye ile kaydına ilişkin olduğu,  dolayısıyla yapılan açıklamaların ve muhasebe kayıtlarının toplam fark olarak belirtilen tutara etkisinin bulunmadığı anlaşılmıştır.
+
+10-… yılında pos hesaplarından … ile … tarihleri arasında … TL, … ile … tarihleri arasında … TL olmak üzere toplam … TL komisyon bedeli kesildiği ancak muhasebe kaydının yapılmadığı; söz konusu tutarın … tarihli … nolu yevmiye ile 109 pos hesaplarından çıkışının yapılarak 630 Giderler Hesabına kaydedildiği görülmüştür. Yapılan düzeltme işlemi  yerinde olduğundan  toplam fark olarak belirtilen tutarın … TL’si için ilişilecek husus kalmamıştır.
+
+11-İş Bankası nezdindeki Kurum hesaplarından farklı tarih ve tutarlarda kesintiler yapıldığı; yapılan incelemelerde bu kesintilerin bir kısmının muhasebeleştirilerek gider olarak kaydedildiği, bir kısmının ise herhangi bir muhasebe kaydı yapılarak 108/109 hesaplardan çıkışının yapılmadığı; kesilen tutarlar toplamı … TL’nin … tarihli … nolu yevmiye ile düzeltme kaydının yapılarak muhasebeleştirildiği görülmüştür. Yapılan düzeltme işlemi yerinde olduğundan toplam fark olarak belirtilen tutarın … TL’si için ilişilecek husus kalmamıştır.
+
+12-Yapı Kredi Bankası nezdindeki Kurum hesaplarından farklı tarih ve tutarlarda kesintiler yapıldığı, yapılan incelemelerde bu kesintilerin bir kısmının muhasebeleştirilerek gider kaydı oluşturduğu, bir kısmının ise herhangi bir muhasebe kaydı yapılarak 108/109 hesaplardan çıkışının yapılmadığı; kesilen tutarlar toplamının Raporda  … TL olarak yer aldığı ancak … tarihli … nolu yevmiye ile düzeltme kaydı yapılarak muhasebeleştirilen  tutarın  … TL olduğu görülmüştür. Yapılan düzeltme işlemi yerinde olduğundan toplam fark olarak belirtilen tutarın … TL’si için ilişilecek husus kalmamıştır.
+
+13-Akbank nezdindeki Kurum hesaplarından farklı tarih ve tutarlarda toplam … TL kesinti yapıldığı, yapılan incelemelerde bu kesintilerden … TL’sinin farklı tarih ve tutarlarda muhasebeleştirilerek gider kaydının oluşturulduğu ya da iade edildiği, … TL’sinin ise herhangi bir muhasebe kaydı yapılarak ilgili 108/109 hesaplardan çıkışının yapılmadığı; kesilen tutarlar toplamının Raporda … TL olduğunun belirtildiği ancak ve … tarihli … nolu yevmiye ile muhasebeleştirilen tutarın  … TL olduğu görülmüştür. Yapılan düzeltme işlemi yerinde görüldüğünden; toplam fark olarak belirtilen tutarın … TL’si için ilişilecek husus kalmamıştır.
+
+Bununla birlikte, sorumlular tarafından yargılama sırasında sunulan ve Türkiye İş Bankası  ...  Şubesi tarafından düzenlenmiş olan … tarihli yeni yazıdan, ...nün Türkiye İş Bankası  ...  Şubesinde yer alan TR… IBAN numaralı hesabının 31.12…. tarihli bakiyesinin … TL değil; … TL olduğu anlaşıldığından toplam fark olarak belirtilen tutarın … TL’si için ilişilecek husus kalmamıştır.
+
+Bu itibarla, 102 Banka Hesabı Borç Kalanı ve 108 Diğer Hazır Değerler Hesabı Borç Kalanı toplamı olan … TL ile Banka Hesaplarındaki Mevduat Toplamı olan … TL arasındaki … TL farka Kurumun bankalardaki POS hesapları ile muhasebe kayıtlarındaki 109- Banka Kredi Kartlarından Alacaklar Hesabı arasındaki fark olan … TL’nin eklenmesi sonucunda oluşan ve Toplam Fark olan … TL için,  … tarihli ve … sayılı ilamın …uncu maddesin yer alan hüküm dışı kararının kaldırılarak ilişilecek husus kalmadığına oy birliğiyle karar verildi.
