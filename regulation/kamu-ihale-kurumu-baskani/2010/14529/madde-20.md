@@ -1,0 +1,3 @@
+Hizmet içi eğitim
+MADDE 20 – (1) Personelin, görevi ile ilgili olarak pratik ve teorik bilgisinin artırılması, göreve ilişkin becerilerin kazandırılması, davranışlarının geliştirilmesi, hizmet içinde yetiştirilmesi ve üst görevlere hazırlanması ile Kurum hizmetlerinde verimlilik, etkinlik ve toplam kalitenin sağlanması amacıyla (Değişik ibare:RG-31/5/2013-28663) Eğitim Dairesi Başkanlığı tarafından hizmet içi eğitim faaliyetleri yürütülür.
+(2) Her düzeydeki personelin eğitimi amacıyla, hizmet içi eğitim programları düzenlenir. Bu programların personelin eğitim ihtiyaç ve türüne göre, Kurumda veya yurt içindeki ya da yurt dışındaki kuruluşlarda uygulanmasına da olanak sağlanır.

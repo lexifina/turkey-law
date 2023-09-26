@@ -1,0 +1,2 @@
+İlk defa atama
+MADDE 11 – (1) İlk defa kamu hizmetine Kurum bünyesinde başlayacakların atamaları, 18/3/2002 tarihli ve 2002/3975 sayılı Bakanlar Kurulu Kararı ile yürürlülüğe konulan Kamu Görevlerine İlk Defa Atanacaklar İçin Yapılacak Sınavlar Hakkında Genel Yönetmelik hükümleri çerçevesinde yapılan sınavlarda Kurum tarafından belirlenecek asgari puanı almış olanlar arasından, Kurumca yapılacak yazılı ve/veya sözlü giriş sınav sonucuna göre Başkan tarafından yapılır.

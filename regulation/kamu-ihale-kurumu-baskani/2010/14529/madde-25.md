@@ -1,0 +1,2 @@
+Yabancı dil bilgi seviyesinin belirlenmesi
+MADDE 25 – (1) (Değişik cümle:RG-31/5/2013-28663) Kurum çalışmaları ve özlük hakları bakımından personelin değerlendirilmesinde göz önünde bulundurulabilecek yabancı dil bilgi düzeyleri Yabancı Dil Bilgisi Seviye Tespit Sınavı esaslarına göre tespit edilir. Ancak, yabancı dil bilgi düzeyinin tespitinde resmi makamlarca kabul edilen diğer kuruluşlarca yapılan sınavların da değerlendirmeye alınmasına karar verilebilir.

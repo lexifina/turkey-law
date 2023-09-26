@@ -1,0 +1,3 @@
+Görev talep formu
+MADDE 17 – (1) İlk defa kamu hizmetine Kurum bünyesinde başlayacak olanlar ile açıktan ya da naklen Kurumda görev alma talebinde bulunanlar, (Değişik ibare:RG-31/5/2013-28663) İnsan Kaynakları Dairesi Başkanlığından sağlayacakları görev talep formunu anlaşılır bir şekilde ve doğru olarak doldurur ve imzalarlar.
+(2) İşe alınmak için gerekli koşullardan herhangi birini taşımadığı halde, görev talep formunda gerçeğe aykırı beyanda bulunanların, atamaları yapılmaz, atamaları yapılmış ise iptal edilir. Naklen atanmış olanlar ise kurumlarına iade edilir. Ayrıca, haklarında gerekli yasal işlemler başlatılır.

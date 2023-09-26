@@ -1,0 +1,2 @@
+Kuruma naklen ya da yeniden atanma
+MADDE 12 – (1) (Değişik:RG-31/5/2013-28663) Kamu kurum ve kuruluşlarında personel kanunlarına tabi görev yapmakta olanlar ile daha önce görev yapmış olanların, başkan yardımcıları ve meslek personeli dışındaki Kurum kadrolarına atanmaları, hizmet ihtiyaçları ve atama yapılacak kadronun gerektirdiği nitelikler ile diğer koşullar dikkate alınarak, Başkanın onayı ile yapılır.

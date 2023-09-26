@@ -1,0 +1,2 @@
+Eğitim planı
+MADDE 21 – (1) Hizmet içi eğitimden beklenen amaçların gerçekleştirilmesi için izlenecek yolları gösteren eğitim politikasına ilişkin düzenlemeler, (Değişik ibare:RG-31/5/2013-28663) Eğitim Dairesi Başkanlığının teklifi üzerine Başkan tarafından tespit edilir. Belirlenen politika çerçevesinde, diğer birimlerin görüşleri ile mevcut verilere göre belirlenecek ihtiyaçlar ve olanaklar göz önünde bulundurulmak suretiyle uzun vadeli eğitim planları yapılır.
