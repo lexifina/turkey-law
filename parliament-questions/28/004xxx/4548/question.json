@@ -1,0 +1,21 @@
+{
+  "record_type": "parliament-written-question",
+  "term": 28,
+  "legislative_year": 1,
+  "esas_no": "7/4548",
+  "submitted": "2023-09-26",
+  "submitted_as": "Başkanlığa geliş tarihi",
+  "mp": "Yasin ÖZTÜRK",
+  "province": "Denizli",
+  "summary": "Kamuda çalışan ve birden fazla yerden maaş alan kişilere ilişkin",
+  "status": "Süresi Geçtikten Sonra Cevaplandı",
+  "status_as_of": "2026-11-16",
+  "official_record": "https://www.tbmm.gov.tr/Denetim/Yazili-Soru-Onergesi-Detay/cdc3c9c4-8ac5-475e-9593-018ad14987b6",
+  "source": "https://tbmm.gov.tr/Denetim/YaziliSoruOnergesiTable",
+  "source_form": "https://tbmm.gov.tr/Denetim/Yazili-Soru-Onergeleri",
+  "source_sha256": "6d571c19e0b1548a0794e70a84697ff2b4b274ae1928f870805eb098c978e9d2",
+  "in_force": "2023-09-26",
+  "in_force_basis": "Date the question reached the Speaker (Başkanlığa geliş tarihi) in the official TBMM written-question record; parliamentary oversight record, not law",
+  "history_type": "metadata",
+  "text_status": "metadata-only: question text, addressee and answers are in the linked official record (PDFs on cdn.tbmm.gov.tr); not transcribed here"
+}
