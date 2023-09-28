@@ -1,0 +1,5 @@
+Uyum zorunluluğu
+GEÇİCİ MADDE 1- (1) Piyasaya arz izni bulunan ve TS 13444 Puro ve Sigarillo Standardının yürürlükteki haline uygun olmayan puro ve sigarillo çeşitleri 31/12/2023 tarihine kadar piyasaya arz edilebilir ve piyasaya arz uygunluk belgeleri güncellenebilir.
+(2) TS 13444 Puro ve Sigarillo Standardının yürürlükteki haline uygun olmayan puro ve sigarillolara ait piyasaya arz uygunluk belgeleri 31/12/2023 tarihinde iptal edilmiş sayılır.
+(3) Bu maddenin birinci fıkrası kapsamında piyasaya arz edilen mamulat çeşitleri 30/6/2024 tarihine kadar piyasada bulunabilir. Puro ve sigarillo üretici ve ithalatçıları bu tarihten sonra TS 13444 Puro ve Sigarillo Standardının yürürlükteki haline uygun olmayan puro ve sigarillo çeşitlerinin piyasada bulunmaması için gerekli tedbirleri alır.
+(4) TS 13444 Puro ve Sigarillo Standardının tadilatları ile birlikte kabul edildiği 30/9/2022 tarihinden önce Tarım ve Orman Bakanlığına yapılmış olan puro ve sigarillo piyasaya arz izni başvuruları, başvurunun yapıldığı tarihteki mevzuat hükümlerine göre sonuçlandırılır. Bu fıkraya göre verilecek izinler de bu madde hükümlerine tabidir.
