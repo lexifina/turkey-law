@@ -1,0 +1,26 @@
+{
+  "kind": "norm",
+  "issuer": "Enerji Piyasası Düzenleme Kurumu",
+  "market": "natural-gas",
+  "document_type": "board-decision",
+  "number": "12102",
+  "decision_date": "2023-09-28",
+  "title": "Akmercan Sinop Doğal Gaz Dağıtım Sanayi ve Ticaret Anonim Şirketi’nin (Şirket) üçüncü tarife uygulama dönemi perakende satış tarifelerine yönelik",
+  "resmi_gazete_date": "2023-09-30",
+  "resmi_gazete_number": "32325",
+  "categories": [
+    "Şirket Bazında Kararlar"
+  ],
+  "source": "https://www.epdk.gov.tr/Detay/DownloadDocument?id=Ptdb0QKLqRw=",
+  "documents": [
+    "https://www.epdk.gov.tr/Detay/DownloadDocument?id=Ptdb0QKLqRw=",
+    "https://www.epdk.gov.tr/Detay/DownloadDocument?id=2Mq4zqYeV4I="
+  ],
+  "source_sha256": "d287ee1c266ac76fd6a18eab5580ed1a318ff97798adda7dbcdd1530e5b938b7",
+  "official_list": "https://www.epdk.gov.tr/Detay/Icerik/3-0-19/kurul-kararlari",
+  "official_list_leaf": 7236,
+  "text_status": "as-enacted",
+  "text_file": "metin.md",
+  "in_force": "2023-09-28",
+  "law_text_complete": true
+}
