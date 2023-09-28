@@ -1,0 +1,26 @@
+{
+  "kind": "norm",
+  "issuer": "Enerji Piyasası Düzenleme Kurumu",
+  "market": "natural-gas",
+  "document_type": "board-decision",
+  "number": "12101",
+  "decision_date": "2023-09-28",
+  "title": "Akmercan Mardin Doğalgaz Dağıtım Sanayi ve Ticaret Anonim Şirketi’nin (Şirket) üçüncü tarife uygulama dönemi perakende satış tarifelerine yönelik",
+  "resmi_gazete_date": "2023-09-30",
+  "resmi_gazete_number": "32325",
+  "categories": [
+    "Şirket Bazında Kararlar"
+  ],
+  "source": "https://www.epdk.gov.tr/Detay/DownloadDocument?id=ASacFa9A1G0=",
+  "documents": [
+    "https://www.epdk.gov.tr/Detay/DownloadDocument?id=ASacFa9A1G0=",
+    "https://www.epdk.gov.tr/Detay/DownloadDocument?id=jk1TTVhrQ8M="
+  ],
+  "source_sha256": "be35b74c62bd02379f37917d447ae0b19b0580fce42a3ac2b505fbf27d4b0ca9",
+  "official_list": "https://www.epdk.gov.tr/Detay/Icerik/3-0-19/kurul-kararlari",
+  "official_list_leaf": 7236,
+  "text_status": "as-enacted",
+  "text_file": "metin.md",
+  "in_force": "2023-09-28",
+  "law_text_complete": true
+}
