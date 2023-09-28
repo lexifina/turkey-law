@@ -1,0 +1,26 @@
+{
+  "kind": "norm",
+  "issuer": "Enerji Piyasası Düzenleme Kurumu",
+  "market": "natural-gas",
+  "document_type": "board-decision",
+  "number": "12103",
+  "decision_date": "2023-09-28",
+  "title": "Serhat Doğalgaz Dağıtım Sanayi ve Ticaret Anonim Şirketi’nin (Şirket) üçüncü tarife uygulama dönemi perakende satış tarifelerine yönelik",
+  "resmi_gazete_date": "2023-09-30",
+  "resmi_gazete_number": "32325",
+  "categories": [
+    "Şirket Bazında Kararlar"
+  ],
+  "source": "https://www.epdk.gov.tr/Detay/DownloadDocument?id=ehrYJ/tL+co=",
+  "documents": [
+    "https://www.epdk.gov.tr/Detay/DownloadDocument?id=ehrYJ/tL+co=",
+    "https://www.epdk.gov.tr/Detay/DownloadDocument?id=YYnKsiQV8d8="
+  ],
+  "source_sha256": "41060df199c75b131a80d46cae11af89060ace42ae043948ffcbf3f57b620609",
+  "official_list": "https://www.epdk.gov.tr/Detay/Icerik/3-0-19/kurul-kararlari",
+  "official_list_leaf": 7236,
+  "text_status": "as-enacted",
+  "text_file": "metin.md",
+  "in_force": "2023-09-28",
+  "law_text_complete": true
+}
