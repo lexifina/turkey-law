@@ -1,0 +1,17 @@
+{
+  "kind": "decision",
+  "issuer": "Sayıştay 6. Dairesi",
+  "number": "919",
+  "decision_date": "2023-09-28",
+  "source_id": 37890,
+  "chamber": "6",
+  "ilam_number": "283",
+  "item_number": 2,
+  "public_body_type": "Yüksek Öğretim Kurumları",
+  "account_year": 2018,
+  "subject": "Personel Mevzuatı ile İlgili Kararlar",
+  "source": "https://www.sayistay.gov.tr/KararlarDaire/Detay/37890/",
+  "source_sha256": "980c040fd3584dd0cda78b9e13e37deacaf0c52109cc4dfeeb03be18836529a2",
+  "text_status": "as-enacted",
+  "text_file": "metin.md"
+}
