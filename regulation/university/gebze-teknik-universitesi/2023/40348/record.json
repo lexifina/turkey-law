@@ -1,0 +1,31 @@
+{
+  "act_path": "regulation/university/gebze-teknik-universitesi/2023/40348",
+  "availability": "text",
+  "checked_on": "2026-11-14",
+  "commencement_clauses": [
+    "MADDE 18- (1) Bu Yönetmelik yayımı tarihinde yürürlüğe girer."
+  ],
+  "date_quote": "MADDE 18- (1) Bu Yönetmelik yayımı tarihinde yürürlüğe girer.",
+  "first_law": null,
+  "gazette": "32325",
+  "history": "as-enacted",
+  "images": {
+    "deferred": 0,
+    "omitted": 0,
+    "referenced": 0,
+    "source": 0
+  },
+  "in_force": "2023-09-30",
+  "in_force_basis": "source commencement clause: effective on Gazette publication",
+  "issuer": "Gebze Teknik Üniversitesi",
+  "issuer_slug": "gebze-teknik-universitesi",
+  "kind": "regulation",
+  "published": "2023-09-30",
+  "source": "https://www.mevzuat.gov.tr/anasayfa/MevzuatFihristDetayIframe?MevzuatTur=8&MevzuatNo=40348&MevzuatTertip=5",
+  "source_id": "8.5.40348",
+  "source_sha256": "3ed0c4e116f338ca20574d21070c398923359e20376863597e10fa19886ea154",
+  "title": "GEBZE TEKNİK ÜNİVERSİTESİ ALÜMİNYUM ARAŞTIRMA\r\nVE UYGULAMA MERKEZİ YÖNETMELİĞİ",
+  "university_id": 452,
+  "version_label": "oldest version available",
+  "word_count": 1541
+}
