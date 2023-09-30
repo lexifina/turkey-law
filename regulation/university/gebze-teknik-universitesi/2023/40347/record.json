@@ -1,0 +1,31 @@
+{
+  "act_path": "regulation/university/gebze-teknik-universitesi/2023/40347",
+  "availability": "text",
+  "checked_on": "2026-11-14",
+  "commencement_clauses": [
+    "MADDE 18- (1) Bu Yönetmelik yayımı tarihinde yürürlüğe girer."
+  ],
+  "date_quote": "MADDE 18- (1) Bu Yönetmelik yayımı tarihinde yürürlüğe girer.",
+  "first_law": null,
+  "gazette": "32325",
+  "history": "as-enacted",
+  "images": {
+    "deferred": 0,
+    "omitted": 0,
+    "referenced": 0,
+    "source": 0
+  },
+  "in_force": "2023-09-30",
+  "in_force_basis": "source commencement clause: effective on Gazette publication",
+  "issuer": "Gebze Teknik Üniversitesi",
+  "issuer_slug": "gebze-teknik-universitesi",
+  "kind": "regulation",
+  "published": "2023-09-30",
+  "source": "https://www.mevzuat.gov.tr/anasayfa/MevzuatFihristDetayIframe?MevzuatTur=8&MevzuatNo=40347&MevzuatTertip=5",
+  "source_id": "8.5.40347",
+  "source_sha256": "fbc8d9020fc713e8c4c167e4df9cfe7f292d0bbfdd8ff942cd10b9ea63477738",
+  "title": "GEBZE TEKNİK ÜNİVERSİTESİ NANOTEKNOLOJİ ARAŞTIRMA VE UYGULAMA MERKEZİ YÖNETMELİĞİ",
+  "university_id": 452,
+  "version_label": "oldest version available",
+  "word_count": 1573
+}
