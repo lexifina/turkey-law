@@ -1,0 +1,29 @@
+{
+  "number": "month-09",
+  "year": 2023,
+  "month": 9,
+  "title": "2023 Yılı Eylül Ayı Meclis Kararları",
+  "decision_date": null,
+  "index_date": "2023-09-30",
+  "date_precision": "month",
+  "period": "Eylül 2023",
+  "source": "https://www.karabukozelidare.gov.tr/2023-yili-eylul-ayi-meclis-kararlari",
+  "official_page": "https://www.karabukozelidare.gov.tr/2023-yili-eylul-ayi-meclis-kararlari",
+  "official_document": "http://www.karabukozelidare.gov.tr/kurumlar/karabukozelidare.gov.tr/Meclis Kararları/2023/EYLUL/2023-Yili-Eylul-Ayi-Meclis-Kararlari.pdf",
+  "source_sha256": "3e8570e2b4c9d1c052ae445d13898b7d1d7b76e494012f297502bfae6daacb3d",
+  "issuer": "Karabük İl Genel Meclisi",
+  "history_type": "metadata",
+  "text_status": "metadata-only: listing fields as published; the decisions are in the linked official document(s) or page, not transcribed",
+  "in_force": "2023-09-30",
+  "in_force_basis": "The official listing gives only the month of this official file (Eylül 2023); date set to the last day of that month (turkey-law date convention for month-only sources); exact adoption dates are in the linked official document; legal commencement not asserted",
+  "missing": [
+    "decision numbers, dates and subjects",
+    "complete official decision text",
+    "official annexes"
+  ],
+  "law_text_complete": false,
+  "privacy_withheld": false,
+  "listing_label": "2023 Yılı Eylül Ayı Meclis Kararları",
+  "record_scope": "one official file of council decisions (meeting or month)",
+  "item_title": "2023 Yılı Eylül Ayı Meclis Kararları"
+}
