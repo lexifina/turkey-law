@@ -1,0 +1,31 @@
+{
+  "act_path": "regulation/university/gebze-teknik-universitesi/2023/40031",
+  "availability": "text",
+  "checked_on": "2026-11-14",
+  "commencement_clauses": [
+    "MADDE 19- (1) Bu Yönetmelik yayımı tarihinde yürürlüğe girer."
+  ],
+  "date_quote": "RG-30/9/2023",
+  "first_law": null,
+  "gazette": "32081",
+  "history": "current-text",
+  "images": {
+    "deferred": 0,
+    "omitted": 0,
+    "referenced": 0,
+    "source": 0
+  },
+  "in_force": "2023-09-30",
+  "in_force_basis": "latest source-printed amendment Gazette date; current consolidated text",
+  "issuer": "Gebze Teknik Üniversitesi",
+  "issuer_slug": "gebze-teknik-universitesi",
+  "kind": "regulation",
+  "published": "2023-01-22",
+  "source": "https://www.mevzuat.gov.tr/anasayfa/MevzuatFihristDetayIframe?MevzuatTur=8&MevzuatNo=40031&MevzuatTertip=5",
+  "source_id": "8.5.40031",
+  "source_sha256": "00322437ba8bb74b2b67f2aa0e9dbc30b7f28a560ba141af9aea557af14589ce",
+  "title": "GEBZE TEKNİK ÜNİVERSİTESİ MARMARA AFETLERLE BAŞ EDEBİLİR YAPILAR İÇİN UYGULAMA VE ARAŞTIRMA MERKEZİ YÖNETMELİĞİ",
+  "university_id": 452,
+  "version_label": "oldest version available",
+  "word_count": 1695
+}
