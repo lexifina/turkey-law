@@ -1,0 +1,29 @@
+{
+  "number": "month-09",
+  "year": 2023,
+  "month": 9,
+  "title": "Eylül 2023 / 1. Birleşim Meclis Karar Özetleri",
+  "decision_date": null,
+  "index_date": "2023-09-30",
+  "date_precision": "month",
+  "period": "Eylül 2023",
+  "source": "https://www.emirdag.bel.tr/karar/eylul-2023-1-birlesim-meclis-karar-ozetleri",
+  "official_page": "https://www.emirdag.bel.tr/karar/eylul-2023-1-birlesim-meclis-karar-ozetleri",
+  "official_document": "https://www.emirdag.bel.tr/karar/eylul-2023-1-birlesim-meclis-karar-ozetleri",
+  "source_sha256": "78ada0bf781f31ad6ae95b7734b969c6f5ee3c9adf1270dd79dbb1c6d9b09a58",
+  "issuer": "Emirdağ Belediye Meclisi",
+  "history_type": "metadata",
+  "text_status": "metadata-only: listing fields as published; the decisions are in the linked official document(s) or page, not transcribed",
+  "in_force": "2023-09-30",
+  "in_force_basis": "The official listing gives only the month of this official file (Eylül 2023); date set to the last day of that month (turkey-law date convention for month-only sources); exact adoption dates are in the linked official document; legal commencement not asserted",
+  "missing": [
+    "decision numbers, dates and subjects",
+    "complete official decision text",
+    "official annexes"
+  ],
+  "law_text_complete": false,
+  "privacy_withheld": false,
+  "listing_label": "Eylül 2023 / 1. Birleşim Meclis Karar Özetleri",
+  "record_scope": "one official file of council decisions (meeting or month)",
+  "document_note": "the decisions are published on the official page itself as 1 scanned image(s); not transcribed here"
+}
