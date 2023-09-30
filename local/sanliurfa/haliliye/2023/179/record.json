@@ -1,0 +1,29 @@
+{
+  "number": "179",
+  "number_as_published": "2023/179",
+  "year": 2023,
+  "month": 9,
+  "title": "11/08/2023 tarih ve 157 sayılı Belediye Meclis kararı ile İmar ve Bayındırlık Komisyonumuza havale edilen Uygulama İmar Plan Değişikliği için hazırlanan rapor komisyondan geldiği şekilde aynen oy birliği ile kabul edilip karara bağlanmıştır.",
+  "decision_date": null,
+  "index_date": "2023-09-30",
+  "date_precision": "month",
+  "period": "Eylül 2023",
+  "source": "https://www.haliliye.bel.tr/icerik/6787/39/eylul-2023",
+  "official_page": "https://www.haliliye.bel.tr/icerik/6787/39/eylul-2023",
+  "official_document": null,
+  "source_sha256": "2d8087e702abf387d91f020f42245bb8f47767f56a7655d78ca9ebee6f4027a7",
+  "issuer": "Haliliye Belediye Meclisi",
+  "history_type": "metadata",
+  "text_status": "metadata-only: number and subject as published in the official listing; complete decision text is in the linked official page/document, not transcribed",
+  "in_force": "2023-09-30",
+  "in_force_basis": "The official listing gives only the month of this decision (Eylül 2023); date set to the last day of that month (turkey-law date convention for month-only sources); exact adoption dates are in the linked official document; legal commencement not asserted",
+  "missing": [
+    "exact decision date",
+    "complete official decision text",
+    "official annexes"
+  ],
+  "law_text_complete": false,
+  "privacy_withheld": false,
+  "listing_item": "EYLÜL 2023",
+  "record_scope": "one council decision summary (Karar Özeti) as published"
+}
