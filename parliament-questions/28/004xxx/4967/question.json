@@ -1,0 +1,21 @@
+{
+  "record_type": "parliament-written-question",
+  "term": 28,
+  "legislative_year": 2,
+  "esas_no": "7/4967",
+  "submitted": "2023-10-03",
+  "submitted_as": "Başkanlığa geliş tarihi",
+  "mp": "Celal FIRAT",
+  "province": "İstanbul",
+  "summary": "TBMM'de kurulan Ön Ödemeli Gayrimenkul Satışlarında Yaşanılan Sorunların Araştırılması ve Alınabilecek Önlemlerin Belirlenmesi Alt Komisyonunca getirilen önerilerin uygulanmasına ilişkin",
+  "status": "Süresi Geçtikten Sonra Cevaplandı",
+  "status_as_of": "2026-11-16",
+  "official_record": "https://www.tbmm.gov.tr/Denetim/Yazili-Soru-Onergesi-Detay/954cba06-9eaf-40bf-8a2d-018af9d94956",
+  "source": "https://tbmm.gov.tr/Denetim/YaziliSoruOnergesiTable",
+  "source_form": "https://tbmm.gov.tr/Denetim/Yazili-Soru-Onergeleri",
+  "source_sha256": "93a5b06d0573e3030f26018f1cdf3cd81190d71a1634a062a8de7b1a1e234bd0",
+  "in_force": "2023-10-03",
+  "in_force_basis": "Date the question reached the Speaker (Başkanlığa geliş tarihi) in the official TBMM written-question record; parliamentary oversight record, not law",
+  "history_type": "metadata",
+  "text_status": "metadata-only: question text, addressee and answers are in the linked official record (PDFs on cdn.tbmm.gov.tr); not transcribed here"
+}
