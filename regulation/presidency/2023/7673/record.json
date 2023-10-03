@@ -1,0 +1,26 @@
+{
+  "id": "presidency-regulation-7673",
+  "number": "7673",
+  "kind": "regulation",
+  "issuer": "presidency",
+  "title": "GENÇLİK VE SPOR BAKANLIĞI SPOR MÜŞAVİRLERİ YÖNETMELİĞİ",
+  "published": "2023-10-03",
+  "enacted": "2023-10-02",
+  "gazette_number": "32328",
+  "in_force": "2023-10-03",
+  "in_force_basis": "Official commencement clause: \"Bu Yönetmelik yayımı tarihinde yürürlüğe girer.\"; Resmî Gazete 2023-10-03, no amendment annotation in this source text.",
+  "history": "current-only",
+  "version_label": "oldest version available",
+  "first_law": null,
+  "source": "https://www.mevzuat.gov.tr/anasayfa/MevzuatFihristDetayIframe?MevzuatNo=7673&MevzuatTur=21&MevzuatTertip=5",
+  "source_sha256": "9def655f37722a3a85251407d34c2722af2c1cb5bbb9c53c1f26a2c43247cebf",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  },
+  "missing_components": [],
+  "text_layout": "article-files",
+  "source_links": [],
+  "completeness": "html-text-complete"
+}
