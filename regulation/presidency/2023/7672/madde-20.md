@@ -1,0 +1,3 @@
+Yurt içi alımlarında geçici ve kesin teminat işlemleri
+MADDE 20- (1) İhalelerde teklif edilen bedelin % 3’ünden az olmamak üzere, istekli tarafından belirlenecek oranda geçici teminat alınır. Ancak özellikli durumlarda ve gerekçe belirtmek suretiyle, ihale dokümanında belirtilmesi şartıyla, Genel Müdür onayı ile geçici teminat alınmamasına karar verilebilir.
+(2) Taahhüdün sözleşme ve ihale dokümanı hükümlerine uygun olarak yerine getirilmesini sağlamak amacıyla, sözleşmenin yapılmasından önce ihale üzerinde kalan istekliden, ihale bedeli üzerinden hesaplanmak suretiyle teklif fiyatının % 6’sı oranında kesin teminat alınır.

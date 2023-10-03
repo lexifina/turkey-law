@@ -1,0 +1,5 @@
+İhale dokümanı ve ihale dokümanının verilmesi
+MADDE 14- (1) İdare, bu Usul ve Esaslar kapsamında yapılacak ihaleye ilişkin idari şartname, teknik şartname, sözleşme tasarısı ve standart formları hazırlamaya yetkilidir. Ancak alım işlerinin özelliği nedeniyle idare tarafından hazırlanmasının mümkün olmadığının, ihale yetkilisi tarafından onaylanması kaydıyla, teknik şartnameler hizmet alımı yapılması suretiyle de hazırlattırılabilir.
+(2) İhale dokümanında, söz konusu alım işinin 4734 sayılı Kanunun 3 üncü maddesinin birinci fıkrasının (b) bendi kapsamında yapıldığı, 4734 sayılı Kanundan istisna edildiği ve idarenin alımı gerçekleştirip gerçekleştirmemekte veya kısmen gerçekleştirmemekte serbest olduğu hususlarına yer verilir.
+(3) İhale konusu mal ve hizmet alımı işine ilişkin idari şartnameler, teknik şartnameler, sözleşme tasarıları ve gerekli diğer belge ve bilgiler idarece davet edilen isteklilere bedelli veya bedelsiz olarak verilebilir.
+(4) Doküman bedeli, basım maliyetini aşmayacak ve rekabeti engellemeyecek şekilde idarece tespit edilir.
