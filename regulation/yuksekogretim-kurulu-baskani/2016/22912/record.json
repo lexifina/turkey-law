@@ -1,0 +1,53 @@
+{
+  "source_id": "7.5.22912",
+  "kind": "regulation",
+  "register_kind": "Kurum ve Kuruluş Yönetmelikleri",
+  "title": "YÜKSEKÖĞRETİM KURUMLARININ YURT DIŞI YÜKSEKÖĞRETİM KURUMLARIYLA ORTAK EĞİTİM ÖĞRETİM PROGRAMLARINA DAİR YÖNETMELİK",
+  "number": "22912",
+  "issuer": "Yükseköğretim Kurulu Başkanı",
+  "issuer_slug": "yuksekogretim-kurulu-baskani",
+  "path": "regulation/yuksekogretim-kurulu-baskani/2016/22912",
+  "source": "https://www.mevzuat.gov.tr/anasayfa/MevzuatFihristDetayIframe?MevzuatTur=7&MevzuatNo=22912&MevzuatTertip=5",
+  "source_sha256": "717a76bec25f6d96581dd2ec92e601d63e9f43e854bed19ba3742781f63f0436",
+  "source_bytes": 49109,
+  "published": "2016-10-06",
+  "gazette": "29849",
+  "in_force": "2023-10-04",
+  "in_force_basis": "latest Resmî Gazete date printed in the source amendment notes/table (\"RG-4/10/2023\") for the current consolidated text",
+  "date_evidence": [
+    [
+      "2023-10-04",
+      "RG-4/10/2023",
+      "Resmî Gazete date printed in the source amendment note"
+    ],
+    [
+      "2023-10-04",
+      "4/10/2023",
+      "Resmî Gazete date in the source amendment table"
+    ],
+    [
+      "2021-04-16",
+      "RG-16/4/2021",
+      "Resmî Gazete date printed in the source amendment note"
+    ],
+    [
+      "2021-04-16",
+      "16/4/2021",
+      "Resmî Gazete date in the source amendment table"
+    ]
+  ],
+  "commencement_clauses": [
+    "Bu Yönetmelik yayımı tarihinde yürürlüğe girer"
+  ],
+  "history": "current-text",
+  "label": "oldest version available",
+  "checked_on": "2026-11-15",
+  "word_count": 2414,
+  "text_status": "current-consolidated",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  },
+  "completeness": "html-text-complete"
+}
