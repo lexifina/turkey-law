@@ -1,0 +1,23 @@
+{
+  "number": "meeting-10-05",
+  "number_as_published": "meeting-10-05",
+  "year": 2023,
+  "title": "05 EKİM 2023 TARİHLİ MECLİS KARARI",
+  "decision_date": "2023-10-05",
+  "source": "https://iznik.bel.tr/tr/meclis-kararlari?page=3",
+  "official_document": "https://iznik.bel.tr/tr/meclis-karari/05-ekim-2023-140",
+  "source_sha256": "4d5a0ad01ac92224faf0adf5d6728d3255136819a2e9fdadb98f0cf206735eff",
+  "issuer": "İznik Belediye Meclisi",
+  "history_type": "metadata",
+  "text_status": "metadata-only: listing fields as published; complete decision text is in the linked official document, not transcribed",
+  "in_force": "2023-10-05",
+  "in_force_basis": "Decision date as printed in the official council listing: 05 EKİM 2023; adoption date of the council decision; legal commencement not asserted",
+  "missing": [
+    "complete official decision text",
+    "official annexes"
+  ],
+  "law_text_complete": false,
+  "privacy_withheld": false,
+  "listing_label": "05 EKİM 2023 TARİHLİ MECLİS KARARI",
+  "record_scope": "one official file of council decisions (meeting)"
+}
