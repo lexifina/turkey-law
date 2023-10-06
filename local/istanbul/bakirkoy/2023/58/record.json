@@ -1,0 +1,23 @@
+{
+  "number": "58",
+  "number_as_published": "58",
+  "year": 2023,
+  "title": "Mülkiyeti Belediye Başkanlığımıza ait Bakırköy ilçesi, Osmaniye Mahallesi, 267 ada 170 parsel sayılı 18.517,17 m²’lik taşınmaz üzerinde bir bölümünün yapımı tamamlanan A+B Blok ile C Bloktan oluşan Yeni Belediye Hizmet Binasının, A+B blok harici zemin, 1,",
+  "decision_date": "2023-10-06",
+  "source": "https://www.bakirkoy.bel.tr/meclis-kararlari/18",
+  "official_document": "https://www.bakirkoy.bel.tr/storage/app/media/meclis%20kararlar%C4%B1/58-emlak-ve-istimlak-mudurlugu-yeni-belediye-hizmet-binasi-c-blok-kiralanmasi-267-ada-170-parsel06102023.pdf",
+  "source_sha256": "3c69c6feb98c272f274cec0845fc35a07d62e94cf986c996865f4998c34ef459",
+  "issuer": "Bakırköy Belediye Meclisi",
+  "history_type": "metadata",
+  "text_status": "metadata-only: listing fields as published; complete decision text is in the linked official document, not transcribed",
+  "in_force": "2023-10-06",
+  "in_force_basis": "Decision date as printed in the official council listing: 06 Ekim 2023 (Tarih column of the official list); adoption date of the council decision; legal commencement not asserted",
+  "missing": [
+    "complete official decision text",
+    "official annexes"
+  ],
+  "law_text_complete": false,
+  "privacy_withheld": false,
+  "record_scope": "one council decision (number, date and summary as listed; the decision is the linked official PDF)",
+  "official_page": "https://www.bakirkoy.bel.tr/meclis-kararlari"
+}
