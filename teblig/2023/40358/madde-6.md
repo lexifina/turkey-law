@@ -1,0 +1,4 @@
+Mevcut önlem
+MADDE 6- (1) ÇHC, Hindistan ve Vietnam menşeli soruşturma konusu ürün ithalatına yönelik olarak 31/3/2007 tarihli ve 26479 sayılı Resmî Gazete’de yayımlanan İthalatta Haksız Rekabetin Önlenmesine İlişkin Tebliğ (Tebliğ No: 2007/4) uyarınca ÇHC menşeli ithalat için 5,04 ABD doları/kg, Hindistan menşeli ithalat için 3,5 ABD doları/kg ve Vietnam menşeli ithalat için 4,55 ABD doları/kg seviyesinde dampinge karşı kesin önlem yürürlüğe konulmuştur.
+(2) 15/3/2013 tarihli ve 28588 sayılı Resmî Gazete’de yayımlanan İthalatta Haksız Rekabetin Önlenmesine İlişkin Tebliğ (Tebliğ No: 2013/3) ile tamamlanan birinci NGGS sonucunda mevcut önlemlerin aynen devamına karar verilmiştir.
+(3) 16/10/2018 tarihli ve 30567 sayılı Resmî Gazete’de yayımlanan İthalatta Haksız Rekabetin Önlenmesine İlişkin Tebliğ (Tebliğ No: 2018/35) ile tamamlanan ikinci NGGS sonucunda dampinge karşı önlem üç ülke için 3,15 ABD doları/kg olarak revize edilmiş ve ikinci kez uzatılmıştır.

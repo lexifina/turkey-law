@@ -1,0 +1,4 @@
+Soruşturma konusu ürün
+MADDE 4- (1) Soruşturma konusu ürün, 4010.32 gümrük tarife pozisyonu altında sınıflandırılan “dış çevresi 60 cm.yi geçen fakat 180 cm.yi geçmeyen, kesiti trapez şeklinde (V-kolanlar) olan (V-yivli olanlar hariç) sonsuz transmisyon kolanları”, 4010.34 gümrük tarife pozisyonu altında sınıflandırılan “dış çevresi 180 cm.yi geçen fakat 240 cm.yi geçmeyen, kesiti trapez şeklinde (V-kolanlar) olan (V-yivli olanlar hariç) sonsuz transmisyon kolanları” ve 4010.39 gümrük tarife pozisyonu altında sınıflandırılan “yalnız kesiti trapez şeklinde (V-Kolanlar) olan (V-yivli olanlar hariç) sonsuz transmisyon kolanları”dır.
+(2) Bahse konu GTP’ler yalnızca bilgi amaçlı verilmiş olup bağlayıcı mahiyette değildir.
+(3) Soruşturma konusu ürünün TGTC’de yer alan tarife pozisyonunda ve/veya eşya tanımında yapılacak değişiklikler, bu Tebliğ hükümlerinin uygulanmasına engel teşkil etmez.
