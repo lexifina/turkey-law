@@ -1,0 +1,2 @@
+Amaç ve konu
+MADDE 1- (1) Vergiye uyum düzeyi ile vergi güvenliğinin artırılması amacıyla elektrikli araçlara kablolu veya kablosuz elektrik enerjisi aktarımı yapmak üzere lisans alan şarj ağı işletmecisi tarafından uygulanan şarj hizmetine ilişkin bilgiler ile bu hizmet karşılığında düzenlenen faturada yer alan bilgilerin elektronik ortamda alınmasına ve fatura düzenleme süresine ilişkin usul ve esasların belirlenmesi bu Tebliğin amaç ve konusunu oluşturmaktadır.

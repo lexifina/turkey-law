@@ -1,0 +1,27 @@
+{
+  "source_id": "9.5.40353",
+  "kind": "communique",
+  "register_kind": "Tebliğler",
+  "title": "VERGİ USUL KANUNU GENEL TEBLİĞİ (SIRA NO: 551)",
+  "number": "40353",
+  "issuer": "Hazine ve Maliye Bakanı",
+  "path": "teblig/2023/40353",
+  "source": "https://www.mevzuat.gov.tr/anasayfa/MevzuatFihristDetayIframe?MevzuatTur=9&MevzuatNo=40353&MevzuatTertip=5",
+  "source_sha256": "2ab7cfba2ce1f3dd3902c94e3815fc5e583ca56a6bb45e290677913de922192c",
+  "source_bytes": 34237,
+  "published": "2023-10-07",
+  "gazette": "32332",
+  "in_force": "2023-10-07",
+  "in_force_basis": "Resmî Gazete publication date in the official listing (07.10.2023)",
+  "history": "current-text",
+  "label": "oldest version available",
+  "checked_on": "2026-11-15",
+  "word_count": 1013,
+  "text_status": "current-consolidated",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  },
+  "completeness": "html-text-complete"
+}

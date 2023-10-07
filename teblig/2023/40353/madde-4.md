@@ -1,0 +1,3 @@
+Fatura düzenleme süresi
+MADDE 4- (1) 213 sayılı Kanunun 231 inci ve mükerrer 257 nci maddelerinin verdiği yetkiye dayanılarak, elektrikli araçlara sunulan şarj hizmetine ilişkin faturanın teslim anında düzenlenmesi uygun bulunmuştur.
+(2) Bununla birlikte, şarj hizmeti verilecek kişilerle asgari altı aylık sözleşme düzenlenmesi, verilen her bir şarj hizmetine ilişkin bilgileri içerecek şekilde bir icmal hazırlanması ve bu icmallerin düzenlenecek faturaya eklenmesi ile bu kapsamda verilen şarj hizmetine ilişkin bilgilerin anlık olarak Başkanlık ile paylaşılması şartlarının sağlanmasına bağlı olarak, bu kapsamda verilen şarj hizmetlerine ilişkin olarak yedi günde bir fatura (katma değer vergisi açısından vergilendirme dönemi aşılmamak şartıyla) düzenlenebilecektir.

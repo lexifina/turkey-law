@@ -1,0 +1,3 @@
+Sürekli bilgi verme zorunluluğu getirilenler ile bildirilecek bilgiler
+MADDE 5- (1) Şarj ağı işletmecileri, şarj istasyonlarından gerçekleştirilen şarj hizmetlerine ilişkin bilgiler ile bu hizmet karşılığında düzenlenen faturada yer alan bilgileri anlık olarak elektronik ortamda GİB Teknoloji sistemlerine bildirmek zorundadır.
+(2) Başkanlık, birinci fıkra kapsamında sürekli bilgi verme yükümlülüğü getirilenlerin bildirmesi gereken bilgilere ilişkin veri format ve standardı ile bilgi verme zamanı ve dönemini ynokc.gib.gov.tr adresinde yayımlanacak ilgili teknik kılavuzlarla belirlemeye yetkilidir.
