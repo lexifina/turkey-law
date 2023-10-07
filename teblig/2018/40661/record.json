@@ -1,0 +1,40 @@
+{
+  "source_id": "9.5.40661",
+  "kind": "communique",
+  "register_kind": "Tebliğler",
+  "title": "VERGİ USUL KANUNU GENEL TEBLİĞİ (SIRA NO: 492)",
+  "number": "40661",
+  "issuer": "Maliye Bakanı",
+  "path": "teblig/2018/40661",
+  "source": "https://www.mevzuat.gov.tr/anasayfa/MevzuatFihristDetayIframe?MevzuatTur=9&MevzuatNo=40661&MevzuatTertip=5",
+  "source_sha256": "20106b2cabf288493e34a9548118150e6d8cd6e8dfb8193e12035392ad5fc5e6",
+  "source_bytes": 31859,
+  "published": "2018-02-28",
+  "gazette": "30346",
+  "in_force": "2023-10-07",
+  "in_force_basis": "latest Resmî Gazete date printed in the source amendment notes/table (\"RG-7/10/2023\") for the current consolidated text",
+  "date_evidence": [
+    [
+      "2023-10-07",
+      "RG-7/10/2023",
+      "Resmî Gazete date printed in the source amendment note"
+    ]
+  ],
+  "commencement_clauses": [
+    "Bu Tebliğ yayımı tarihinde yürürlüğe girer"
+  ],
+  "history": "current-text",
+  "label": "oldest version available",
+  "checked_on": "2026-11-15",
+  "word_count": 1461,
+  "text_status": "current-consolidated",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  },
+  "source_links": [
+    "9.5.40661-Ek.docx"
+  ],
+  "completeness": "html-text-complete; linked annexes not fetched"
+}
