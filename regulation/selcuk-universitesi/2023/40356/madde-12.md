@@ -1,0 +1,2 @@
+Muafiyet
+MADDE 12- (1) Daha önce başka bir yükseköğretim kurumuna kayıtlı iken Fakülteye kayıt yaptıran öğrenciler, ayrıldıkları yükseköğretim kurumunda almış ve başarmış oldukları dersler için muafiyet talebinde bulunabilirler. Bu öğrenciler muafiyete esas olacak belgeleri dilekçelerine bağlı olarak, kayıt işlemleri sırasında Fakülte Dekanlığına verirler. Muafiyet işlemleri, Fakülte Yönetim Kurulu tarafından karara bağlanır.

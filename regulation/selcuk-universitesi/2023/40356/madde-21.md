@@ -1,0 +1,3 @@
+Dönem sonu sınavları
+MADDE 21- (1) Birinci, ikinci ve üçüncü dönemlerde, her dönemin sonunda, son ders kurulu sınavı bitiminden en az on beş gün sonra bütün ders kurullarını kapsayan final sınavı yapılır. Bu sınav teorik ve/veya pratik olarak yapılır. Sınav sorularının dağılımı, ders kurulu sınavında olduğu gibidir.
+(2) Bu sınavda başarısız olanlar için dönem sonu bütünleme sınavı teorik ve/veya pratik olarak, final sınavından en az on beş gün sonra yapılır. Sınav sorularının dağılımı, ders kurulu sınavında olduğu gibidir. Bütünleme sınavında başarısız olan öğrenciler aynı dönemi tekrar ederler.

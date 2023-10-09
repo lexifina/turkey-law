@@ -1,0 +1,3 @@
+Mazeretler
+MADDE 15- (1) Haklı ve geçerli bir sebeple mazeret beyan eden öğrenciler; mazeretlerinin bitiş tarihinden itibaren en geç beş iş günü içinde, Dekanlığa mazeretini gösterir belge ile birlikte yazılı olarak başvurmak zorundadır. Bu süre içinde bildirilmeyen mazeretler kabul edilmez. Öğrencilerin sağlıkla ilgili mazeretlerinin kabul edilmesi için sağlık raporlarının Üniversitenin sağlık kuruluşlarından veya tam teşekküllü sağlık kuruluşlarından alınması ve aslının Dekanlığa sunulması zorunludur.
+(2) Öğrenciler raporlu oldukları süre içerisinde sınavlara giremezler. Raporlu olduğu süre içerisinde sınava giren öğrencilerin sınavı geçersiz sayılır.

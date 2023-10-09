@@ -1,0 +1,2 @@
+Yatay geçiş
+MADDE 11- (1) Yatay geçişler; 24/4/2010 tarihli ve 27561 sayılı Resmî Gazete’de yayımlanan Yükseköğretim Kurumlarında Ön Lisans ve Lisans Düzeyindeki Programlar Arasında Geçiş, Çift Anadal, Yan Dal ile Kurumlar Arası Kredi Transferi Yapılması Esaslarına İlişkin Yönetmelik hükümlerine ve Senato kararlarına göre yapılır. Yatay geçiş ile gelen öğrencilerin intibakları Fakülte Yönetim Kurulu kararı ile yapılır.

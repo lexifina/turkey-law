@@ -1,0 +1,3 @@
+Mazeret sınavı
+MADDE 24- (1) Haklı ve geçerli mazereti nedeni ile ara sınavlara ve ders kurulu sınavlarına giremeyen ve mazereti Fakülte Yönetim Kurulunca kabul edilenler için akademik takvimde belirtilen tarihlerde mazeret sınavı açılır. Bunun dışında başka hiçbir sınav için mazeret sınav hakkı verilmez. Mazeret sınavının hangi yöntem ile yapılacağına dönem koordinatörü karar verir.
+(2) Olağanüstü durumlarda (doğal afet, savaş ve salgın hastalıklar gibi) ilgili durum süresince, olağanüstü durum ile ilgili mazereti kabul edilenler için Fakülte Kurulu kararıyla staj sınavlarına mazeret sınavı hakkı tanınabilir.

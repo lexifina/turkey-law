@@ -1,0 +1,7 @@
+YEDİNCİ BÖLÜM
+Mezuniyet Öncesi Eğitim Komisyonu, Koordinatörler ve Görevleri
+Mezuniyet Öncesi Eğitim Komisyonu ve koordinatörler
+MADDE 33- (1) Mezuniyet Öncesi Eğitim Komisyonu; Dekan ve dekan yardımcıları, Başkoordinatör, başkoordinatör yardımcıları, dönem koordinatörleri ve TEBAD öğretim elemanlarından oluşur. Dekanlık bünyesinde faaliyet gösteren eğitimle ilgili kurul ve komisyon başkanları ile fakülte öğrenci temsilcisi de Dekanın davetiyle Mezuniyet Öncesi Eğitim Komisyonu çalışmalarına katılabilir. Dekan, Mezuniyet Öncesi Eğitim Komisyonunun başkanıdır. Dekanın katılamadığı toplantılarda Dekan vekili Komisyona başkanlık eder.
+(2) Başkoordinatör ve koordinatörler; Dekanın göstereceği öğretim üyesi üç aday arasından Fakülte Yönetim Kurulunca üç yıl için seçilirler. Başkoordinatör ve her bir koordinatör için kendisinin önerdiği en fazla iki öğretim üyesi veya öğretim görevlisi Dekan tarafından üç yıl için yardımcı olarak görevlendirilir. Koordinatörler Mezuniyet Öncesi Eğitim Komisyonunun tabii üyeleridir. Yardımcıları, Koordinatöre çalışmalarında yardım ederler ve Koordinatörün bulunamadığı durumlarda yardımcılardan birisi Eğitim Komisyonuna davet edilir.
+(3) Eğitim-öğretim faaliyetlerinin planlanması, düzenli bir şekilde yürütülmesi, koordinasyonu, akademik takvimin hazırlanması ve eğitimle ilgili diğer sorunlar Eğitim Komisyonu tarafından görüşülür ve öneriler hazırlanır.
+(4) Başkoordinatör ve koordinatörlerin görevlerinden ayrılmaları durumunda yardımcılarının da görev süresi sona erer.

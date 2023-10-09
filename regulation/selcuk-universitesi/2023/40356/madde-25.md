@@ -1,0 +1,2 @@
+Stajların tamamlanması ve staj sınavı
+MADDE 25- (1) Dördüncü ve beşinci dönemdeki dönüşümlü stajlar, sadece akademik takvimde belirtilen eğitim-öğretim dönemi içinde yapılır. Devam şartını yerine getiren öğrencilere her stajın sonunda staj sınavı yapılır. Bu sınav teorik ve pratik olarak gerçekleştirilir. Not takdirinde öğrencinin staj süresindeki çalışma ve başarısı da göz önüne alınır. Pratik sınavlar en az iki öğretim elemanından oluşan bir komisyon tarafından yapılır.
