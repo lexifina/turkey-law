@@ -1,0 +1,18 @@
+{
+  "issuer": "Mersin Büyükşehir Belediye Meclisi",
+  "number": "465",
+  "decision_date": "2023-10-09",
+  "title": "-MEC.KAR.(YENİŞEHİR BAHÇE MH. 857 ADA 376 PARSEL)",
+  "listed_as": "465-MEC.KAR.(YENİŞEHİR BAHÇE MH. 857 ADA 376 PARSEL)",
+  "subject_note": "subject as the meeting page lists it (the register shortens some long subjects)",
+  "official_document": "https://www.mersin.bel.tr/dokumanlar/465-meckaryenisehir-bahce-mh-857-ada-376-parsel-276020188",
+  "source_listing": "https://www.mersin.bel.tr/dokumanlar/09-ekim-2023-meclis-kararlari-960509399",
+  "listing_sha256": "28168b3c5f915c8a427f0d351013e61a3a1e14a7e453f925a3c607fc47db1c10",
+  "meeting_title": "09 EKİM 2023 MECLİS KARARLARI",
+  "history_type": "metadata-only",
+  "capture_mode": "metadata-only",
+  "text_status": "metadata-only; official decision page linked, text not transcribed",
+  "date_basis": "meeting date in the official meeting page title (decision date of the session)",
+  "commencement_established": false,
+  "privacy_withheld": false
+}
