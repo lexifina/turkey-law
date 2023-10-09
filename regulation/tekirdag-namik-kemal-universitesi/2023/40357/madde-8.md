@@ -1,0 +1,2 @@
+Denetim
+MADDE 8- (1) Bölgede sürekli olarak görev almak veya izin uzatmak isteyen öğretim elemanları görevlendirme ya da izin uzatma başvurularına ayrıntılı bir çalışma planı ekler. Bu öğretim elemanları görev süresinin sonunda Bölgede yürüttükleri çalışmaya ilişkin bir raporu ilgili bölüm başkanlığına sunar. Bu rapora Yönetici Şirketin, yapılan çalışmanın 4691 sayılı Kanunun 3 üncü maddesinin birinci fıkrasının (c) bendine uygunluğunu belirten değerlendirmesi de eklenir.
