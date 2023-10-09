@@ -1,0 +1,18 @@
+{
+  "issuer": "Mersin Büyükşehir Belediye Meclisi",
+  "number": "483",
+  "decision_date": "2023-10-09",
+  "title": "-MEC.KAR.( Mezitli İlçesi Muhtelif Mahalleler Trafo Alanı_UİP Değişikliği )",
+  "listed_as": "483-MEC.KAR.( Mezitli İlçesi Muhtelif Mahalleler Trafo Alanı_UİP Değişikliği )",
+  "subject_note": "subject as the meeting page lists it (the register shortens some long subjects)",
+  "official_document": "https://www.mersin.bel.tr/dokumanlar/483-meckar-mezitli-ilcesi-muhtelif-mahalleler-trafo-alaniuip-degisikligi--1275310867",
+  "source_listing": "https://www.mersin.bel.tr/dokumanlar/09-ekim-2023-meclis-kararlari-960509399",
+  "listing_sha256": "28168b3c5f915c8a427f0d351013e61a3a1e14a7e453f925a3c607fc47db1c10",
+  "meeting_title": "09 EKİM 2023 MECLİS KARARLARI",
+  "history_type": "metadata-only",
+  "capture_mode": "metadata-only",
+  "text_status": "metadata-only; official decision page linked, text not transcribed",
+  "date_basis": "meeting date in the official meeting page title (decision date of the session)",
+  "commencement_established": false,
+  "privacy_withheld": false
+}
