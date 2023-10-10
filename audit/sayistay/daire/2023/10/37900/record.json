@@ -1,0 +1,17 @@
+{
+  "kind": "decision",
+  "issuer": "Sayıştay 3. Dairesi",
+  "number": "464",
+  "decision_date": "2023-10-10",
+  "source_id": 37900,
+  "chamber": "3",
+  "ilam_number": "608",
+  "item_number": 1,
+  "public_body_type": "Genel Bütçe Kapsamındaki İdareler",
+  "account_year": 2012,
+  "subject": "İhale Mevzuatı ile İlgili Kararlar",
+  "source": "https://www.sayistay.gov.tr/KararlarDaire/Detay/37900/",
+  "source_sha256": "8b43d7f6ea318f009cb807273a7364abb2fb6e8de6d4556cc278aa4318d51ced",
+  "text_status": "as-enacted",
+  "text_file": "metin.md"
+}
