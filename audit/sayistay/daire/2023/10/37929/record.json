@@ -1,0 +1,17 @@
+{
+  "kind": "decision",
+  "issuer": "Sayıştay 8. Dairesi",
+  "number": "296",
+  "decision_date": "2023-10-10",
+  "source_id": 37929,
+  "chamber": "8",
+  "ilam_number": "210",
+  "item_number": 1,
+  "public_body_type": "Yüksek Öğretim Kurumları",
+  "account_year": 2019,
+  "subject": "Personel Mevzuatı ile İlgili Kararlar",
+  "source": "https://www.sayistay.gov.tr/KararlarDaire/Detay/37929/",
+  "source_sha256": "3c1db366fcb38c0fd9e430444aa030c7dd2789ea6f5a5f54444264eb52a7a9ae",
+  "text_status": "metadata-only",
+  "metadata_only_reason": "possible personal name in the official text"
+}
