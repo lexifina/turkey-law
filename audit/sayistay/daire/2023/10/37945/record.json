@@ -1,0 +1,17 @@
+{
+  "kind": "decision",
+  "issuer": "Sayıştay 3. Dairesi",
+  "number": "463",
+  "decision_date": "2023-10-10",
+  "source_id": 37945,
+  "chamber": "3",
+  "ilam_number": "5",
+  "item_number": 4,
+  "public_body_type": "Yüksek Öğretim Kurumları",
+  "account_year": 2022,
+  "subject": "İhale Mevzuatı ile İlgili Kararlar",
+  "source": "https://www.sayistay.gov.tr/KararlarDaire/Detay/37945/",
+  "source_sha256": "50a308ea2dd0d639eaebca626d49972314a4e8711e2609804b93a96ad90afb85",
+  "text_status": "as-enacted",
+  "text_file": "metin.md"
+}
