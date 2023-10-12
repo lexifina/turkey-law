@@ -1,0 +1,21 @@
+{
+  "record_type": "parliament-written-question",
+  "term": 28,
+  "legislative_year": 2,
+  "esas_no": "7/5309",
+  "submitted": "2023-10-12",
+  "submitted_as": "Başkanlığa geliş tarihi",
+  "mp": "Sevda ERDAN KILIÇ",
+  "province": "İzmir",
+  "summary": "EYT düzenlemesinden yararlanan vatandaşlarla ilgili çeşitli verilere ilişkin",
+  "status": "Süresi Geçtikten Sonra Cevaplandı",
+  "status_as_of": "2026-11-16",
+  "official_record": "https://www.tbmm.gov.tr/Denetim/Yazili-Soru-Onergesi-Detay/950d3406-7996-4dee-86e2-018b241a9134",
+  "source": "https://tbmm.gov.tr/Denetim/YaziliSoruOnergesiTable",
+  "source_form": "https://tbmm.gov.tr/Denetim/Yazili-Soru-Onergeleri",
+  "source_sha256": "1363ca755e846a399ef42e01ab70af0769128b7bad4b4c1a0e7827b88ee584ff",
+  "in_force": "2023-10-12",
+  "in_force_basis": "Date the question reached the Speaker (Başkanlığa geliş tarihi) in the official TBMM written-question record; parliamentary oversight record, not law",
+  "history_type": "metadata",
+  "text_status": "metadata-only: question text, addressee and answers are in the linked official record (PDFs on cdn.tbmm.gov.tr); not transcribed here"
+}
