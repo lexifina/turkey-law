@@ -1,0 +1,25 @@
+{
+  "kind": "norm",
+  "issuer": "Enerji Piyasası Düzenleme Kurumu",
+  "market": "petroleum",
+  "document_type": "board-decision",
+  "number": "12129",
+  "decision_date": "2023-10-12",
+  "title": "Harmanlama Yükümlüsü Lisans Sahiplerinin Akaryakıt Ürünlerine Harmanlanacak Ürün Alımlarına İlişkin Fiyat Metodolojisi",
+  "resmi_gazete_date": "2023-10-17",
+  "resmi_gazete_number": "32342",
+  "categories": [
+    "Petrol Piyasası Tarife Kurul Kararları"
+  ],
+  "source": "https://www.epdk.gov.tr/Detay/DownloadDocument?id=V+iDUxwGb6Y=",
+  "documents": [
+    "https://www.epdk.gov.tr/Detay/DownloadDocument?id=V+iDUxwGb6Y="
+  ],
+  "source_sha256": "34784d8a55463852256c226bc7816e87825b0037beea66c9c33d923caec581e2",
+  "official_list": "https://www.epdk.gov.tr/Detay/Icerik/3-0-100/kurul-kararlari",
+  "official_list_leaf": 14725,
+  "text_status": "as-enacted",
+  "text_file": "metin.md",
+  "in_force": "2023-10-12",
+  "law_text_complete": true
+}
