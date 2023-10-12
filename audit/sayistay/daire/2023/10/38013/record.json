@@ -1,0 +1,17 @@
+{
+  "kind": "decision",
+  "issuer": "Sayıştay 2. Dairesi",
+  "number": "35772",
+  "decision_date": "2023-10-12",
+  "source_id": 38013,
+  "chamber": "2",
+  "ilam_number": "302",
+  "item_number": 1,
+  "public_body_type": "Yüksek Öğretim Kurumları",
+  "account_year": 2016,
+  "subject": "İhale Mevzuatı ile İlgili Kararlar",
+  "source": "https://www.sayistay.gov.tr/KararlarDaire/Detay/38013/",
+  "source_sha256": "ffd3ab0db7211ea41e5a09fbe9ab63ce34f9afd44aec25175ed95122e67a5fba",
+  "text_status": "as-enacted",
+  "text_file": "metin.md"
+}
