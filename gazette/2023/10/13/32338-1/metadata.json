@@ -1,0 +1,21 @@
+{
+  "record_type": "gazette-item",
+  "gazette": "Resmî Gazete",
+  "jurisdiction": "TR",
+  "date": "2023-10-13",
+  "issue": "32338",
+  "edition": "regular",
+  "item": 1,
+  "section": "YASAMA BÖLÜMÜ",
+  "heading": "TBMM KARARLARI",
+  "title": null,
+  "official_link": "https://www.resmigazete.gov.tr/eskiler/2023/10/20231013-1.pdf",
+  "link_format": "pdf",
+  "index_url": "https://www.resmigazete.gov.tr/eskiler/2023/10/20231013.htm",
+  "index_sha256": "b023858bdf6373275dfcf5e5dc79cbf5c8caa14cf3ed853f1fe46219c9c91cf3",
+  "index_header": "13 Ekim 2023 ... 32338 Sayılı Resmî Gazete",
+  "issue_pdf": "https://www.resmigazete.gov.tr/eskiler/2023/10/20231013.pdf",
+  "in_force_basis": "Resmî Gazete publication date; not a commencement reading.",
+  "title_withheld": "personal-data rule: the listed title names a private person; see the official link",
+  "text_status": "metadata-only; personal-data rule (appointment, acting, judicial or person-named item): metadata and link only"
+}
