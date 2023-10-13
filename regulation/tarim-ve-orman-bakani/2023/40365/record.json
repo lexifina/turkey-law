@@ -1,0 +1,34 @@
+{
+  "source_id": "7.5.40365",
+  "kind": "regulation",
+  "register_kind": "Kurum ve Kuruluş Yönetmelikleri",
+  "title": "TÜRK GIDA KODEKSİ GIDA KATKI MADDELERİ YÖNETMELİĞİ",
+  "number": "40365",
+  "issuer": "Tarım ve Orman Bakanı",
+  "issuer_slug": "tarim-ve-orman-bakani",
+  "path": "regulation/tarim-ve-orman-bakani/2023/40365",
+  "source": "https://www.mevzuat.gov.tr/anasayfa/MevzuatFihristDetayIframe?MevzuatTur=7&MevzuatNo=40365&MevzuatTertip=5",
+  "source_sha256": "ee92c8c5bee3c9b99e810e9ee5610e75a75f3fd79d5f742087fcfa9af6f92433",
+  "source_bytes": 69011,
+  "published": "2023-10-13",
+  "gazette": "32338 (Mükerrer)",
+  "in_force": "2023-10-13",
+  "in_force_basis": "Resmî Gazete publication date in the official listing (13.10.2023); own commencement article: \"Bu Yönetmelik, yayımı tarihinde yürürlüğe girer\"",
+  "commencement_clauses": [
+    "Bu Yönetmelik, yayımı tarihinde yürürlüğe girer"
+  ],
+  "history": "current-text",
+  "label": "oldest version available",
+  "checked_on": "2026-11-15",
+  "word_count": 3567,
+  "text_status": "current-consolidated",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  },
+  "source_links": [
+    "7.5.40365%20EK.DOCX"
+  ],
+  "completeness": "html-text-complete; linked annexes not fetched"
+}
