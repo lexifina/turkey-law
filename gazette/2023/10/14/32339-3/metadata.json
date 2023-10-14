@@ -1,0 +1,20 @@
+{
+  "record_type": "gazette-item",
+  "gazette": "Resmî Gazete",
+  "jurisdiction": "TR",
+  "date": "2023-10-14",
+  "issue": "32339",
+  "edition": "regular",
+  "item": 3,
+  "section": "YÜRÜTME VE İDARE BÖLÜMÜ",
+  "heading": "ANA STATÜ",
+  "title": "Türkiye Cimnastik Federasyonu Ana Statüsünde Değişiklik Yapılmasına Dair Ana Statü",
+  "official_link": "https://www.resmigazete.gov.tr/eskiler/2023/10/20231014-3.htm",
+  "link_format": "htm",
+  "index_url": "https://www.resmigazete.gov.tr/eskiler/2023/10/20231014.htm",
+  "index_sha256": "a2bf3742424786287d99afa64a3be3613e8b03c6c1f6e20024399094fc64d3fb",
+  "index_header": "14 Ekim 2023 ... 32339 Sayılı Resmî Gazete",
+  "issue_pdf": "https://www.resmigazete.gov.tr/eskiler/2023/10/20231014.pdf",
+  "in_force_basis": "Resmî Gazete publication date; not a commencement reading.",
+  "text_status": "metadata-only; text not yet fetched (follow-up pass adds it as its own commit)"
+}
