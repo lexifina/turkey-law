@@ -1,0 +1,2 @@
+Dönem 1, 2 ve 3’te dönem tekrarı
+MADDE 29- (1) Öğrencinin bir üst sınıfa geçebilmesi için, ders kurulları dönem sonu sınavı veya ders kurulları dönem sonu bütünleme sınavından en az 50 alması ve ders kurulları dönem sonu başarı notunun 100 üzerinden en az 60 olması gerekir. Bu şartları sağlamayan öğrenciler sınıfta kalmış sayılır. Bu öğrenciler o dönemi tekrarlar ve sınavlara yeniden girerler. Bu tekrarlarda, öğrencilerin tüm aşamaları ile derslere devam zorunluluğu vardır.

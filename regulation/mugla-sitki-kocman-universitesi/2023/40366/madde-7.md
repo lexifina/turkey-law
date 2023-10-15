@@ -1,0 +1,2 @@
+Kayıt yenileme
+MADDE 7- (1) Öğrenci, her eğitim-öğretim yılı başında ilgili mevzuat hükümleri uyarınca akademik takvimde belirlenen süre içinde, varsa katkı payı veya öğrenim ücretini yatırdıktan sonra kayıtlarını yenilemekle yükümlüdür. Öğrencinin kayıt yenilemediği yıl öğrenim süresinden sayılır. Dönem ve staj tekrarları nedeniyle uygulanacak katkı payı ve öğrenim ücreti ilgili mevzuat hükümlerine göre belirlenir.

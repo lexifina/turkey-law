@@ -1,0 +1,3 @@
+Mezuniyet genel not ortalaması
+MADDE 35- (1) Mezun olabilmesi için yasal süre içinde gerekli tüm dersleri alan ve bu derslerin tümünden başarılı olan öğrencinin genel not ortalaması aynı zamanda mezuniyet genel not ortalamasıdır.
+(2) Mezuniyet genel not ortalamasını hesaplamak için; her dönemde öğrencinin dönem not ortalaması, dönem not ortalamalarına katılan toplam AKTS değeri ile çarpılır. Çarpım sonucunda bulunan değerler toplanır ve elde edilen toplam değer, dönem not ortalamasına katılan derslerin toplam AKTS değerine bölünür. Elde edilen ortalama virgülden sonra iki hane olarak gösterilir.

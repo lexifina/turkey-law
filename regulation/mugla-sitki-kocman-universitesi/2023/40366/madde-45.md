@@ -1,0 +1,2 @@
+Staj sınav sorumlusu
+MADDE 45- (1) Dönem 4 ve 5’te stajlarda eğitim veren her anabilim dalındaki öğretim elemanlarından biri eğitim-öğretim yılının başlamasından önce anabilim dalı kurulunun önerisi üzerine Dekanlık tarafından o eğitim-öğretim yılı için staj sınav sorumlusu olarak görevlendirilir. Staj sınav sorumlusu, anabilim dalı başkanı ve dönem koordinatörü ile iş birliği halinde çalışır ve staj sınavlarının uygun şekilde yürütülmesinden sorumludur.

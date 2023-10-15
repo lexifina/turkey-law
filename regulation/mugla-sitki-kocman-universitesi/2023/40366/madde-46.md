@@ -1,0 +1,2 @@
+Anabilim dalı aday hekimlik döneminden sorumlu öğretim elemanı
+MADDE 46- (1) Dönem 6’da stajlarda Fakültenin aday hekimlik uygulaması yapılan her anabilim dalındaki öğretim elemanlarından biri eğitim-öğretim yılının başlamasından önce anabilim dalı kurulunun önerisi üzerine Dekanlık tarafından o eğitim-öğretim yılı için aday hekimlik döneminden sorumlu öğretim elemanı olarak görevlendirilir. Bu öğretim elemanı ilgili dönemin eğitim-öğretiminin düzenli bir şekilde yürütülmesinde anabilim dalı başkanı ve dönem koordinatörlüğü ile iş birliği yapar.

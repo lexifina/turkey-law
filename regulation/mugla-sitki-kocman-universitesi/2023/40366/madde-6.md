@@ -1,0 +1,7 @@
+Önceki öğrenimin tanınması
+MADDE 6- (1) Öğrenciler, daha önceden diğer yükseköğretim kurumlarından almış ve başarmış oldukları derslerin tanınması ve intibak ettirilmesi için kayıt oldukları eğitim-öğretim yılının ilk haftası içinde dilekçe ile Dekanlığa başvurur. Süresi içinde yapılmayan başvurular işleme alınmaz.
+(2) Öğrenciler, dilekçelerinde muaf tutulmak istedikleri dersleri ve bu derslerden aldıkları notları açık bir şekilde belirtir. Öğrenciler dilekçe ekinde önceki öğrenimleri, önceden başardıkları derslerin notları ve içeriklerine dair belgelerin aslı veya resmî makamlar tarafından onaylı örneğini sunar.
+(3) Fakülteye kayıt yaptıran öğrenciler daha önce lisans düzeyinde İngilizce hazırlık sınıfından başarılı olmaları durumunda veya 1/6/2012 tarihli ve 28310 sayılı Resmî Gazete’de yayımlanan Muğla Sıtkı Koçman Üniversitesi Yabancı Dil Eğitim-Öğretim ve Sınav Yönetmeliği çerçevesinde yabancı dil muafiyet koşullarını sağlamaları durumunda Dönem 1, 2 ve 3’te okutulan zorunlu yabancı dil derslerinden talepleri üzerine muaf sayılır.
+(4) Yönetim Kurulu tarafından karara bağlanan derslerin kredileri ve bu derslerden aldıkları başarı notları kayıt yaptırdıkları programa aktarılır.
+(5) Muafiyet sınavları, Senato tarafından belirlenen dersler için her eğitim-öğretim yılı başında yapılır.
+(6) Öğrencinin önceki öğreniminde aldığı ve başardığı ders/dersler, Uyum Komisyonunun önerisi ve Yönetim Kurulu kararı ile önceki öğrenimde alınan ders/dersler olarak tanımlanır ve Fakülte eğitim programında bulunan eşdeğer seçmeli ders/dersler yerine sayılabilir.

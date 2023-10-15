@@ -1,0 +1,2 @@
+Staj eğitim sorumlusu
+MADDE 44- (1) Dönem 4 ve 5’te stajlarda eğitim veren her anabilim dalındaki öğretim elemanlarından biri eğitim-öğretim yılının başlamasından önce anabilim dalı kurulunun önerisi üzerine Dekanlık tarafından o eğitim-öğretim yılı için staj eğitim sorumlusu olarak görevlendirilir. Staj eğitim sorumlusu, anabilim dalı başkanı ve dönem koordinatörü ile iş birliği halinde çalışır ve stajın eğitim programına uygun şekilde yürütülmesinden sorumludur.

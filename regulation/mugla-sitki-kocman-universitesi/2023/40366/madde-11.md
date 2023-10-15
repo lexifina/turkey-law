@@ -1,0 +1,5 @@
+Öğretim dili ve hazırlık eğitimi
+MADDE 11- (1) Fakültenin Türkçe tıp programında öğretim dili Türkçe, İngilizce Tıp Programında öğretim dili İngilizcedir.
+(2) Yabancı dil hazırlık eğitimi ve muafiyet işlemleri Muğla Sıtkı Koçman Üniversitesi Yabancı Dil Eğitim-Öğretim ve Sınav Yönetmeliği çerçevesinde yürütülür.
+(3) İngilizce tıp programına kayıtlı uluslararası öğrenciler Dönem 4’e başlayabilmek için, Türkçe tıp programına kayıtlı uluslararası öğrenciler ise Dönem 1’e başlayabilmek için Senato tarafından kabul edilmiş Türkçe eğitim veren merkezlerden alınan, B2 düzeyinde Türkçe bildiğini kanıtlayan belgenin aslını veya resmî makamlar tarafından onaylı örneğini Dekanlığa iletmek zorundadır. Türkçe yeterlik şartını sağlayamayan İngilizce Tıp Programına kayıtlı uluslararası öğrenciler Dönem 4’e, Türkçe tıp programına kayıtlı uluslararası öğrenciler Dönem 1’e Türkçe yeterlik belgesine sahip oluncaya kadar devam edemez.
+(4) İngilizce tıp programına kayıtlı uluslararası öğrenciler, ortak zorunlu dersleri veya eşdeğer dersleri almak zorundadır.
