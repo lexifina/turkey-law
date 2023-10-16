@@ -1,0 +1,24 @@
+{
+  "number": "122",
+  "number_as_published": "122",
+  "year": 2023,
+  "title": "İzzetiye Mahallesi, 3510 Ada 1 NoLuParselin Bitişiğindeki Vakıf Park Alanın Ve Kırçuval Mahallesi 3901 Ada 1 NoLu Parselin Yanında Yer Alan Kırçuval Park Alanının, “Sağlık Hizmetleri Alanı” Olarak Kullanılmak Üzere, 10 (On) Yıl Ve Bedelsiz Olarak İl",
+  "decision_date": "2023-10-16",
+  "source": "https://www.battalgazi.bel.tr/wp-json/wp/v2/posts?categories=88&per_page=100&page=6&_fields=id,date,link,title,content",
+  "official_document": "https://www.battalgazi.bel.tr/2024/03/27/izzetiye-mahallesi-3510-ada-1-noluparselin-bitisigindeki-vakif-park-alanin-ve-kircuval-mahallesi-3901-ada-1-nolu-parselin-yaninda-yer-alan-kircuval-park-alaninin-saglik-hizmetleri-alani/",
+  "source_sha256": "9ea1cf08226cbdf964f8315bbb29131440ff01e17c98ea52f3146f2ff1225b33",
+  "issuer": "Battalgazi Belediye Meclisi",
+  "history_type": "metadata",
+  "text_status": "metadata-only: listing fields as published; complete decision text is in the linked official document, not transcribed",
+  "in_force": "2023-10-16",
+  "in_force_basis": "Decision date as printed in the official council listing: 16.10.2023 (Karar Tarihi on the official decision page); adoption date of the council decision; legal commencement not asserted",
+  "missing": [
+    "complete official decision text",
+    "official annexes"
+  ],
+  "law_text_complete": false,
+  "privacy_withheld": false,
+  "official_page": "https://www.battalgazi.bel.tr/2024/03/27/izzetiye-mahallesi-3510-ada-1-noluparselin-bitisigindeki-vakif-park-alanin-ve-kircuval-mahallesi-3901-ada-1-nolu-parselin-yaninda-yer-alan-kircuval-park-alaninin-saglik-hizmetleri-alani/",
+  "post_date": "2024-03-27T16:24:27",
+  "record_scope": "one council decision (official decision page)"
+}
