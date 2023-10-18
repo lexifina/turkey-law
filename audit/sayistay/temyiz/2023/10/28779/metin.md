@@ -1,0 +1,7 @@
+Konu: Belediye Başkanlığı makamı haricinde belediye çalışanlarının özel harcaması niteliğinde olan ve yönetim gideri kapsamında bulunmayan çay, kahve ve şeker giderlerinin Belediye bütçesinden karşılanması.
+
+184 İlam sy Daire Kararının 113’üncü maddesiyle, Belediye Başkanlığı makamı haricinde belediye çalışanlarının özel harcaması niteliğinde olan ve yönetim gideri kapsamında bulunmayan çay, kahve ve şeker giderlerinin Belediye bütçesinden karşılanması sonucu oluşan … TL kamu zararının sorumlulara ödettirilmesine hükmedilmiştir. Kararda sorumlu tutulanlar: Malzeme alımı için satın alma talebinde bulunan, satın almayı uygun görüşle arz eden, satın almaya olur veren ile doğrudan temini onaya arz eden ve doğrudan temini onaylayan görevliler ile harcama yetkilisi ve gerçekleştirme görevlisidir.
+
+752 Karar-184 İlam sayılı Daire Kararının 113’üncü maddesi ile verilen hüküm, sorumlulukta gerçekleştirme görevlisi sıfatıyla iştiraki bulunan … (Şube Müdürü)’ın başvurusu üzerine düzenlenen 18.10.2023 tarih ve 55987 tutanak sayılı Temyiz Kurulu Kararının 2’nci maddesi ile Bozulduğundan, harcama yetkilisi sıfatıyla sorumlu … (Destek Hizmetleri Daire Başkanı)’in bu madde ile ilgili temyiz başvurusu üzerine Kurul tarafından Yapılacak İşlem Olmadığına; ancak aynı mahiyette olan bu dosyanın, gereği yapılmak üzere 49406 sayılı dosya ile Birleştirilerek Dairesine Gönderilmesine, oybirliğiyle,
+
+Karar verildiği 18.10.2023 tarih ve 55991 sayılı tutanakta yazılı olmakla işbu ilam tanzim kılındı.
