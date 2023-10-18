@@ -1,0 +1,16 @@
+{
+  "kind": "decision",
+  "issuer": "Sayıştay Temyiz Kurulu",
+  "number": "55988",
+  "decision_date": "2023-10-18",
+  "source_id": 28769,
+  "chamber": "6",
+  "file_number": "49400",
+  "public_body_type": "Belediyeler ve Bağlı İdareler",
+  "account_year": "2018",
+  "subject": "İhale Mevzuatı ile İlgili Kararlar",
+  "source": "https://www.sayistay.gov.tr/KararlarTemyiz/Detay/28769/",
+  "source_sha256": "287c07abe9b37a61e850469d12ad44913885a866f9ac6d0aa97e5c852467629d",
+  "text_status": "as-enacted",
+  "text_file": "metin.md"
+}
