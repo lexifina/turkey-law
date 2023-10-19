@@ -1,0 +1,21 @@
+{
+  "record_type": "parliament-written-question",
+  "term": 28,
+  "legislative_year": 2,
+  "esas_no": "7/5524",
+  "submitted": "2023-10-19",
+  "submitted_as": "Başkanlığa geliş tarihi",
+  "mp": "Sibel SUİÇMEZ",
+  "province": "Trabzon",
+  "summary": "Kamu kurumlarının engelli avukat istihdam etmesi talebine ilişkin",
+  "status": "Süresi Geçtikten Sonra Cevaplandı",
+  "status_as_of": "2026-11-16",
+  "official_record": "https://www.tbmm.gov.tr/Denetim/Yazili-Soru-Onergesi-Detay/8e83a91c-baed-4571-a636-018b48148fab",
+  "source": "https://tbmm.gov.tr/Denetim/YaziliSoruOnergesiTable",
+  "source_form": "https://tbmm.gov.tr/Denetim/Yazili-Soru-Onergeleri",
+  "source_sha256": "065cc3b371ce413b3c1fbdfddfed66c0da7647c69c6d807357d33ff68b2bdc25",
+  "in_force": "2023-10-19",
+  "in_force_basis": "Date the question reached the Speaker (Başkanlığa geliş tarihi) in the official TBMM written-question record; parliamentary oversight record, not law",
+  "history_type": "metadata",
+  "text_status": "metadata-only: question text, addressee and answers are in the linked official record (PDFs on cdn.tbmm.gov.tr); not transcribed here"
+}
