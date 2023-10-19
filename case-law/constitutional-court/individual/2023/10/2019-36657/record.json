@@ -1,0 +1,20 @@
+{
+  "applicant": "M.Ö.",
+  "application_date": "2019-11-11",
+  "application_number": "2019/36657",
+  "deciding_unit": "Birinci Bölüm",
+  "decision_date": "2023-10-19",
+  "id": "1cc396e0-aaad-0330-6d92-d59dc727d869",
+  "in_force": "2023-10-19",
+  "in_force_basis": "official decision date",
+  "kind": "constitutional-court-individual-application",
+  "omitted_images": 0,
+  "outcome": "Esas (İhlal Olmadığı)",
+  "published": null,
+  "referenced_images": 0,
+  "source": "https://kararlarbilgibankasi.anayasa.gov.tr/kbb/pages/search/Tumu?id=a2JiOjFjYzM5NmUwLWFhYWQtMDMzMC02ZDkyLWQ1OWRjNzI3ZDg2OQ&type=BireyselBasvuru",
+  "source_api": "https://kararlarbilgibankasi.anayasa.gov.tr/api/core/public/search",
+  "source_images": 0,
+  "source_sha256": "fe6c41b9d3fa4c1d24b38518931553b9e7409bba04668a7a0b2c03c581c9d817",
+  "version_label": "as-enacted"
+}
