@@ -1,0 +1,18 @@
+{
+  "kind": "norm",
+  "issuer": "Kişisel Verileri Koruma Kurumu",
+  "document_type": "decision-summary",
+  "number": "2023/1787",
+  "source_id": 8842,
+  "date": "2023-10-19",
+  "title": "“İlgili kişinin Covid-19 test sonucunun veri sorumlusu tarafından veri kayıt sisteminde bulunan eski cep telefonu numarasına gönderilmesine ilişkin şikâyet” hakkında Kişisel Verileri Koruma Kurulunun 19/10/2023 Tarihli ve 2023/1787 Sayılı Karar Özeti",
+  "source": "https://www.kvkk.gov.tr/Icerik/8842/2023-1787",
+  "source_sha256": "59a0ab8e7018e196b92cb743c93213c12eca1759495cbdd81439999d15143d4a",
+  "text_status": "summary",
+  "text_file": "metin.md",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  }
+}
