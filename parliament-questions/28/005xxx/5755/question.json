@@ -1,0 +1,21 @@
+{
+  "record_type": "parliament-written-question",
+  "term": 28,
+  "legislative_year": 2,
+  "esas_no": "7/5755",
+  "submitted": "2023-10-19",
+  "submitted_as": "Başkanlığa geliş tarihi",
+  "mp": "Gülüstan KILIÇ KOÇYİĞİT",
+  "province": "Kars",
+  "summary": "Kars ilinde çocukların istismar vakalarından korunması amacıyla yapılan çalışmalara ilişkin",
+  "status": "Süresi Geçtikten Sonra Cevaplandı",
+  "status_as_of": "2026-11-16",
+  "official_record": "https://www.tbmm.gov.tr/Denetim/Yazili-Soru-Onergesi-Detay/da471f74-3bc3-4fad-a179-018b4c455afa",
+  "source": "https://tbmm.gov.tr/Denetim/YaziliSoruOnergesiTable",
+  "source_form": "https://tbmm.gov.tr/Denetim/Yazili-Soru-Onergeleri",
+  "source_sha256": "d286069e225ed0c9448f40b935658b90d9d59e83675a4884c7f215429dd632e3",
+  "in_force": "2023-10-19",
+  "in_force_basis": "Date the question reached the Speaker (Başkanlığa geliş tarihi) in the official TBMM written-question record; parliamentary oversight record, not law",
+  "history_type": "metadata",
+  "text_status": "metadata-only: question text, addressee and answers are in the linked official record (PDFs on cdn.tbmm.gov.tr); not transcribed here"
+}
