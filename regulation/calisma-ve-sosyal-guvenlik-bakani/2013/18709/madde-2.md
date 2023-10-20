@@ -1,0 +1,4 @@
+Kapsam
+MADDE 2 – (1) Bu Yönetmelik 20/6/2012 tarihli ve 6331 sayılı İş Sağlığı ve Güvenliği Kanunu kapsamına giren ve kimyasal maddelerin bulunduğu, kullanıldığı veya herhangi bir şekilde işlem gördüğü tüm işyerlerini kapsar.
+(2) Sağlık ve güvenlik önlemleri özel mevzuatla düzenlenen; kimyasal maddelerle çalışmalarda, radyoaktif maddelerle çalışmalarda, zararlı kimyasal maddelerin işyeri dışında taşınmasında, sözü edilen özel mevzuatta belirtilen önlemler ile birlikte bu Yönetmeliğin uygulama kabiliyeti olan hükümleri de uygulanır.
+(3) 6/8/2013 tarihli ve 28730 sayılı Resmî Gazete’de yayımlanan Kanserojen veya Mutajen Maddelerle Çalışmalarda Sağlık ve Güvenlik Önlemleri Hakkında Yönetmelik hükümleri saklı kalmak kaydı ile işyerinde bulunan kanserojen ve mutajen maddeler ile ilgili olarak bu Yönetmelik hükümleri de uygulanır.

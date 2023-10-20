@@ -1,0 +1,4 @@
+Rehberler ve metotlar
+MADDE 12/A- (Ek:RG-20/10/2023-32345)
+(1) İşverenlere; kimyasalların kullanımı, kişisel maruziyet seviyelerinin tespiti ve biyolojik maruziyet göstergeleri, sınır değerleri ve sağlık gözetimi konularında ilgili yükümlülükleri bakımından yardımcı olmak veya yol göstermek amacıyla rehberler ve metotlar hazırlanabilir. Rehberler, işyerinde çalışan sayısı ve işyerinin bulunduğu tehlike sınıfı göz önüne alınarak sektör, meslek veya yapılan işlere özgü olabilir.
+(2) Kamu kurum ve kuruluşları, kamu kurumu niteliğindeki meslek kuruluşları, üniversiteler, işçi-işveren ve memur sendikaları ile kamu yararına çalışan sivil toplum kuruluşları rehber ve metot çalışmalarında bulunabilir. Bakanlıkça, bu Yönetmelik hükümlerine uygunluğu yönünden değerlendirilerek onaylanan taslaklar, Bakanlık tarafından rehber veya metot olarak yayımlanır.

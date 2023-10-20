@@ -1,0 +1,24 @@
+Tehlikeli kimyasal maddelerle çalışmalarda alınması gereken önlemler
+MADDE 7 – (1) Tehlikeli kimyasal maddelerle çalışmalarda çalışanların sağlık ve güvenliği yönünden riskler aşağıdaki önlemlerle ortadan kaldırılır veya en az düzeye indirilir:
+a) İşyerinde uygun düzenleme ve iş organizasyonu yapılır.
+b) Tehlikeli kimyasal maddelerle çalışmalar, en az sayıda çalışan ile yapılır.
+c) Çalışanların maruz kalacakları madde miktarlarının ve maruziyet sürelerinin mümkün olan en az düzeyde olması sağlanır.
+ç) İşyerinde kullanılması gereken kimyasal madde miktarı en az düzeyde tutulur.
+d) İşyeri bina ve eklentileri her zaman düzenli ve temiz tutulur.
+e) Çalışanların kişisel temizlikleri için uygun ve yeterli şartlar sağlanır.
+f) Tehlikeli kimyasal maddelerin, atık ve artıkların işyerinde en uygun şekilde işlenmesi, kullanılması, taşınması ve depolanması için gerekli düzenlemeler yapılır.
+g) İkame yöntemi uygulanarak, tehlikeli kimyasal madde yerine çalışanların sağlık ve güvenliği yönünden tehlikesiz veya daha az tehlikeli olan kimyasal madde kullanılır. Yapılan işin özelliği nedeniyle ikame yöntemi kullanılamıyorsa, risk değerlendirmesi sonucuna göre ve öncelik sırasıyla aşağıdaki tedbirler alınarak risk azaltılır:
+1) Çalışanların sağlık ve güvenliği yönünden risk oluşturabilecek bakım onarım işleri de dahil tehlikeli kimyasal maddelerle çalışmalarda ve teknolojik gelişmeler de dikkate alınarak uygun proses ve mühendislik kontrol sistemleri seçilir ve uygun makine, malzeme ve ekipman kullanılır.
+2) Riski kaynağında önlemek üzere; uygun iş organizasyonu ve yeterli havalandırma sistemi kurulması gibi toplu koruma önlemleri uygulanır.
+3) Tehlikeli kimyasal maddelerin olumsuz etkilerinden çalışanların toplu olarak korunması için alınan önlemlerin yeterli olmadığı hallerde bu önlemlerle birlikte kişisel korunma yöntemleri uygulanır.
+ğ) Alınan önlemlerin etkinliğini ve sürekliliğini sağlamak üzere yeterli kontrol, denetim ve gözetim sağlanır.
+h) İşveren, çalışanların sağlığı için risk oluşturabilecek kimyasal maddelerin düzenli olarak ölçümünün ve analizinin yapılmasını sağlar. İşyerinde çalışanların kimyasal maddelere maruziyetini etkileyebilecek koşullarda herhangi bir değişiklik olduğunda bu ölçümler tekrarlanır. Ölçüm sonuçları, bu Yönetmelik eklerinde belirtilen mesleki maruziyet sınır değerleri dikkate alınarak değerlendirilir.
+ı) İşveren, 6 ncı maddede belirtilen yükümlülükleri yerine getirirken, bu maddenin birinci fıkrasının (h) bendinde belirtilen ölçüm sonuçlarını da göz önünde bulundurur. Mesleki maruziyet sınır değerlerinin aşıldığı her durumda, işveren bu durumun en kısa sürede giderilmesi için koruyucu ve önleyici tedbirleri alır.
+i) 30/4/2013 tarihli ve 28633 sayılı Resmî Gazete’de yayımlanan Çalışanların Patlayıcı Ortamların Tehlikelerinden Korunması Hakkında Yönetmelik hükümleri saklı kalmak kaydıyla işveren, risk değerlendirmesi sonuçlarını ve risk önleme prensiplerini temel alarak, çalışanları kimyasal maddelerin fiziksel ve kimyasal özelliklerinden kaynaklanan tehlikelerden korumak için, bu maddelerin işlenmesi, depolanması, taşınması ve birbirini etkileyebilecek kimyasal maddelerin birbirleriyle temasının önlenmesi de dâhil olmak üzere, yapılan işin özelliğine uygun olarak aşağıda belirtilen öncelik sırasına göre teknik önlemleri alır ve idari düzenlemeleri yapar:
+1) İşyerinde parlayıcı ve patlayıcı maddelerin tehlikeli konsantrasyonlara ulaşması ve kimyasal olarak kararsız maddelerin tehlikeli miktarlarda bulunması önlenir. Bu mümkün değilse,
+2) İşyerinde yangın veya patlamaya sebep olabilecek tutuşturucu kaynakların bulunması önlenir. Kimyasal olarak kararsız madde ve karışımların zararlı etki göstermesine sebep olabilecek şartlar ortadan kaldırılır. Bu da mümkün değilse,
+3) Parlayıcı ve/veya patlayıcı maddelerden kaynaklanan yangın veya patlama halinde veya kimyasal olarak kararsız madde ve karışımlarının zararlı fiziksel etkilerinden çalışanların zarar görmesini önlemek veya en aza indirmek için gerekli önlemler alınır.
+j) İş ekipmanı ve çalışanların korunması için sağlanan koruyucu sistemlerin tasarımı, imali ve temini, sağlık ve güvenlik yönünden yürürlükteki mevzuata uygun şekilde yapılır. İşveren, patlayıcı ortamlarda kullanılacak bütün donanım ve koruyucu sistemlerin (Değişik ibare:RG-20/10/2023-32345) 30/6/2016 tarihli ve 29758 sayılı Resmî Gazete’de yayımlanan Muhtemel Patlayıcı Ortamda Kullanılan Teçhizat ve Koruyucu Sistemler ile İlgili Yönetmelik (2014/34/AB) hükümlerine uygun olmasını sağlar.
+k) Patlama basıncının etkisini azaltacak düzenlemeler yapılır.
+l) Tesis, makine ve ekipmanın sürekli kontrol altında tutulması sağlanır.
+m) (Değişik:RG-20/10/2023-32345) İşyerlerinde, tehlikeli kimyasal maddelerin depolandığı tankların kullanımında TS EN 14197 ve TS EN ISO 21009 standart serilerine uyulur.
