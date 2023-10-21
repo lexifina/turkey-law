@@ -1,0 +1,29 @@
+{
+  "number": "557",
+  "number_as_published": "557",
+  "year": 2023,
+  "title": "Belediyemiz 2024-2025-2026 Mali Yılı Bütçesine ilişkin Meclis Kararı.",
+  "decision_date": "2023-10-21",
+  "source": "https://www.mamak.bel.tr/gundem/GetKararlar",
+  "official_document": "https://www.mamak.bel.tr/gundem/DosyaDownload?guid=bd723f80-8098-447a-bd57-3b7c5bc28231",
+  "source_sha256": "f554089df68731558a37947c976f196303cdbdc5704c52cb6912834ca94730d3",
+  "issuer": "Mamak Belediye Meclisi",
+  "history_type": "metadata",
+  "text_status": "metadata-only: listing fields as published; complete decision text is in the linked official document, not transcribed",
+  "in_force": "2023-10-21",
+  "in_force_basis": "Decision date as printed in the official council listing: 2023-10-21T00:00:00 (kararTarihi of the official register); adoption date of the council decision; legal commencement not asserted",
+  "missing": [
+    "complete official decision text",
+    "official annexes"
+  ],
+  "law_text_complete": false,
+  "privacy_withheld": false,
+  "listing_page": "https://www.mamak.bel.tr/gundem/kararlar",
+  "register_api": "https://www.mamak.bel.tr/gundem/GetKararlar",
+  "official_documents": [
+    "https://www.mamak.bel.tr/gundem/DosyaDownload?guid=bd723f80-8098-447a-bd57-3b7c5bc28231",
+    "https://www.mamak.bel.tr/gundem/DosyaDownload?guid=a33f56c9-57a7-476e-ba81-ac26192cdc8e",
+    "https://www.mamak.bel.tr/gundem/DosyaDownload?guid=b6ba6413-8ba8-411a-bcb6-2609e1cbba06",
+    "https://www.mamak.bel.tr/gundem/DosyaDownload?guid=83df80ad-9c2f-4635-a14d-cfc69e9c195d"
+  ]
+}
