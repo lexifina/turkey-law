@@ -1,0 +1,7 @@
+Ders ve AKTS yükü
+MADDE 49- (1) Doktora programı, tezli yüksek lisans derecesi ile kabul edilmiş öğrenciler için toplamı yirmi bir krediden az olmamak koşuluyla zorunlu ve seçmeli en az yedi ders, seminer, yeterlik sınavı, tez önerisi ve tez çalışmasından oluşur. Her bir dönemi 60 AKTS kredisinden az olmamak koşuluyla toplamda en az 240 AKTS kredisidir. Lisans derecesi ile kabul edilmiş öğrenciler için ise toplamı kırk iki krediden az olmamak koşuluyla zorunlu ve seçmeli en az on dört ders, seminer, yeterlik sınavı, tez önerisi ve tez çalışmasından oluşur. Her bir dönemi 60 AKTS kredisinden az olmamak koşuluyla toplamda en az 300 AKTS kredisidir.
+(2) Seminer dersi kredisiz olup başarılı veya başarısız olarak değerlendirilir. Seminer dersinin değerlendirme usul ve esasları Senato tarafından belirlenir.
+(3) Doktora programlarında anabilim dalı başkanlığının önerisi ve Enstitü Yönetim Kurulu onayı ile diğer yükseköğretim kurumlarında verilmekte olan derslerden yüksek lisans derecesi ile kabul edilmiş öğrenciler en fazla iki, lisans derecesiyle kabul edilmiş öğrenciler ise en fazla dört ders seçebilir.
+(4) Doktora öğrencileri danışman önerisiyle lisans dersleri de alabilir. Ancak lisans dersleri ders yüküne ve doktora kredisine sayılmaz.
+(5) Doktora programları ikinci öğretim olarak açılamaz.
+(6) Doktora çalışması sonunda hazırlanacak tezin, bilime yenilik getirme, yeni bir bilimsel yöntem geliştirme, bilinen bir yöntemi yeni bir alana uygulama niteliklerinden en az birini yerine getirmesi gerekir.

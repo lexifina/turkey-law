@@ -1,0 +1,2 @@
+Ders ekleme-bırakma
+MADDE 21- (1) Ders kayıt onaylarını takiben öğrenciler kayıt yapılan yarıyıl için bir defaya mahsus olmak üzere yazıldıkları ders ya da çalışmaların bir kısmını çıkarabilir, yerlerine yenilerini ekleyebilir. Bu ders ekleme-bırakma işlemleri her yarıyılın başında akademik takvimde belirtilen süreler içerisinde danışman onayı ile gerçekleştirilebilir. Ekleme işleminde haftalık ders programında çakışmayan derslerin seçilmesi gerekir.

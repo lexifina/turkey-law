@@ -1,0 +1,3 @@
+Öğretim dili
+MADDE 6- (1) Enstitüde öğretim dili Türkçedir. Ancak, anabilim dalının önerisi, Enstitü Kurulunun uygun görüşü, Senatonun kabulü ve YÖK’ün kararı ile belirli programlarda bazı dersler yabancı dilde verilebileceği gibi öğretim dili yabancı dil olan program da açılabilir. Dersler, tez ve proje çalışmaları, yeterlik ve tez savunma sınavları ilgili programların öğretim dilinde yapılır.
+(2) Ders, uygulama ve sınavların yabancı dilde yapılabilmesi için ilgili öğretim üyelerinin, 23/3/2016 tarihli ve 29662 sayılı Resmî Gazete’de yayımlanan Yükseköğretim Kurumlarında Yabancı Dil Öğretimi ve Yabancı Dille Öğretim Yapılmasında Uyulacak Esaslara İlişkin Yönetmelikte belirtilen şartları sağlaması gerekir.

@@ -1,0 +1,7 @@
+Sonuçların ilanı ve kayıt
+MADDE 13- (1) Lisansüstü programa giriş notu hesaplanan adaylar en yüksek notu alandan başlanılarak sıralanır ve başvurdukları programın kontenjanları dikkate alınarak başarılı kabul edilen adaylar belirlenerek listelenir. Listede başarılı olan asıl aday sayısı kadar yedek aday da yer alır.
+(2) Lisansüstü programa giriş notu eşit olan adayların sıralaması için lisans genel not ortalaması dikkate alınır.
+(3) Lisansüstü programlara asıl ve yedek olarak kabul edilen aday listesi, değerlendirme jürisi tarafından Enstitüye teslimi ve Enstitü Yönetim Kurulunun onayı ile kesinlik kazanarak ilan edilir.
+(4) Lisansüstü programlara kabul edilen asıl adaylar, Enstitü Yönetim Kurulu tarafından belirlenen tarihler arasında, istenen belgelerle birlikte Enstitü Müdürlüğüne başvurarak kesin kayıtlarını yaptırırlar. Süresi içinde kesin kayıt yaptırmayan aday bu hakkını kaybeder ve yerine yedek aday kayıt hakkı kazanır. Enstitü Yönetim Kurulu, kayıt hakkı elde etmesine rağmen uygun görülecek bir mazeret ile süresi içinde kayıt yaptıramayan adaylar için başvurdukları programdaki kontenjanın boş kaldığı durumlarda kesin kayıt yaptırabilmelerine karar verebilir.
+(5) Kesin kayıt için istenen belgelerin aslı veya Enstitü tarafından onaylı örneği kabul edilir. Askerlik durumu ve adli sicil kaydına ilişkin olarak ise adayın beyanına dayanılarak işlem yapılır.
+(6) Tezsiz yüksek lisans programları hariç, aynı anda birden fazla lisansüstü programa kayıt yaptırılamaz ve devam edilemez.

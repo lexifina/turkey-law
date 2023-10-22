@@ -1,0 +1,2 @@
+Dersten çekilme
+MADDE 22- (1) Öğrencilere yedinci hafta sonuna kadar kayıtlı oldukları derslerden bir yarıyılda en çok bir ders olmak üzere bütün lisansüstü öğrenimi boyunca en fazla iki dersten danışmanlarının olumlu görüşü, anabilim dalı başkanlığının uygun görüşü ve Enstitü Yönetim Kurulu kararıyla çekilme izni verilir. Öğrencinin çekildiği ders, not durum belgesinde yer alır ve “Ç” (Çekildi) ile gösterilir.

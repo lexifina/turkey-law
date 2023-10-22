@@ -1,0 +1,39 @@
+{
+  "checked_on": "2026-11-14",
+  "commencement_clauses": [
+    "MADDE 62- (1) Bu Yönetmelik 2023-2024 eğitim ve öğretim döneminin başından geçerli olmak üzere yayımı tarihinde yürürlüğe girer."
+  ],
+  "date_evidence": [
+    [
+      "2023-10-22",
+      "22.10.2023",
+      "original gazette publication date in official listing"
+    ]
+  ],
+  "date_quote": "MADDE 62- (1) Bu Yönetmelik 2023-2024 eğitim ve öğretim döneminin başından geçerli olmak üzere yayımı tarihinde yürürlüğe girer.",
+  "first_law": null,
+  "gazette": "32347",
+  "history": "current-text",
+  "images": {
+    "deferred": 0,
+    "omitted": 0,
+    "referenced": 0,
+    "source": 0
+  },
+  "in_force": "2023-10-22",
+  "in_force_basis": "source commencement clause: enters into force on gazette publication",
+  "issuer": "Avrasya Üniversitesi",
+  "issuer_slug": "avrasya-universitesi",
+  "kind": "regulation",
+  "label": "oldest version available",
+  "path": "regulation/avrasya-universitesi/2023/40372",
+  "published": "2023-10-22",
+  "source": "https://www.mevzuat.gov.tr/anasayfa/MevzuatFihristDetayIframe?MevzuatTur=8&MevzuatNo=40372&MevzuatTertip=5",
+  "source_bytes": 132349,
+  "source_id": "8.5.40372",
+  "source_sha256": "ef72c2e85867f1c235ca3ea7562f6eb48d14d7d3b98e01743f0ac5ac024c857b",
+  "text_status": "as-enacted",
+  "title": "AVRASYA ÜNİVERSİTESİ LİSANSÜSTÜ EĞİTİM-ÖĞRETİM\r\nVE SINAV YÖNETMELİĞİ",
+  "university_id": 363,
+  "word_count": 8604
+}

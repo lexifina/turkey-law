@@ -1,0 +1,3 @@
+Notlarda maddi hata ve itiraz
+MADDE 28- (1) Öğrenci bir dersin başarı notuna itirazını, notun ilanını takiben beş iş günü içerisinde ilgili anabilim dalı başkanlığına yazılı dilekçe ile yapar. Dersin sorumlu öğretim elemanı itiraz edilen başarı notunda maddi hata olup olmadığını sınava ilişkin tüm dokümanları inceleyerek değerlendirir ve sonucu bir hafta içerisinde anabilim dalı başkanlığına iletir.
+(2) Öğrenci itirazı sonrasında ya da itiraz olmaksızın dersin öğretim elemanı tarafından maddi hata tespit edildiğinde yeniden hesaplanan başarı notu ilgili anabilim dalı başkanlığının uygun görüşü ve Enstitü Yönetim Kurulunun onayı ile karara bağlanarak düzeltilmesi için Öğrenci İşleri Daire Başkanlığına iletilir ve öğrenci bilgi sisteminde ilan edilir.

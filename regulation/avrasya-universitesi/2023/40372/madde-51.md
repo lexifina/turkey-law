@@ -1,0 +1,10 @@
+Tez danışmanı atanması
+MADDE 51- (1) Anabilim dalı başkanlığı her öğrenci için Üniversite kadrosunda bulunan bir tez danışmanını en geç ikinci yarıyılın sonuna kadar Enstitüye önerir. Tez danışmanı Enstitü Yönetim Kurulu kararıyla kesinleşir.
+(2) Doktora programlarında öğretim üyelerinin tez yönetebilmesi için, başarıyla tamamlanmış en az bir yüksek lisans tezi yönetmiş olmaları gerekir.
+(3) 2547 sayılı Kanunun ek 46 ncı maddesi kapsamında kısmi zamanlı olarak görevlendirilen en az doktora derecesine sahip araştırmacılar da ikinci fıkrada belirtilen hususları taşımaları koşulu ile tez danışmanı olarak seçilebilir. Ancak bu kişilerin danışman olarak görevlendirilebilmesi için öğrencinin talebi, ilgili araştırmacının yazılı muvafakati ve Enstitü Yönetim Kurulunun kararı şarttır. Üniversitede belirlenen niteliklere sahip öğretim üyesi bulunmaması halinde Senatonun belirlediği ilkeler çerçevesinde Enstitü Yönetim Kurulu tarafından başka bir yükseköğretim kurumundan öğretim üyesi danışman olarak seçilebilir.
+(4) Tez çalışmasının niteliğinin birden fazla tez danışmanı gerektirdiği durumlarda ikinci tez danışmanı atanabilir. İkinci tez danışmanı, başka bir üniversitenin ilgili anabilim/bilim dalı kadrosunda görevli öğretim üyelerinden veya kamu kurumlarında en az doktora derecesine sahip kişilerden de olabilir.
+(5) Mevcut tez danışmanı değişikliği için; gerekçeli talep, ilgili anabilim dalı başkanlığının uygun görüşü ve Enstitü Yönetim Kurulu kararı gerekir. Tez danışmanı değişikliği talebi aşağıdaki gerekçelerden biri ile yapılabilir:
+a) Tez danışmanının başka göreve atanma, hastalık veya diğer nedenlerle çekilme talebinin olması.
+b) Tez danışmanının emekli olması ya da Üniversiteden ayrılması.
+c) Tez danışmanının danışmanlık görevini yerine getirmediğine veya getiremediğine ilişkin ilgili anabilim dalı başkanlığının gerekçeli görüşü.
+(6) Tez danışmanının izin, hastalık, yurt dışı seyahat ve benzeri nedenlere dayalı mazereti olması halinde; süresinde onaylanması gereken belgeler, ilgili anabilim dalı başkanınca onaylanır ve söz konusu belgeler süresi içinde Enstitüye teslim edilir.

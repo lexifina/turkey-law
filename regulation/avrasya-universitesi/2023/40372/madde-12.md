@@ -1,0 +1,2 @@
+Bilimsel değerlendirme sınavı
+MADDE 12- (1) Tezli yüksek lisans ya da doktora sınavları, programlara başvuran adayların alanlarındaki bilgi ve başarı düzeylerinin yazılı ve/veya mülakat ile değerlendirildiği sınavlardır. Bu sınavlar lisansüstü programlara başvuran adayların kabulüne esas giriş puanının hesaplanmasına Senatonun belirlediği oranlarda katılır. Bu sınavların hangi lisansüstü programlar için yapılacağına Senato karar verir. Sınavlarda görev yapacak jüri üyeleri Enstitü Yönetim Kurulu tarafından belirlenir.

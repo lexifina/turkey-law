@@ -1,0 +1,5 @@
+Ders saydırma ve muafiyet
+MADDE 31- (1) Özel öğrencilik, yatay geçiş ya da daha önceki lisansüstü programında başarılı olunan ders ya da dersler nedeniyle mevcut ders planındaki ders ya da derslerden muafiyet ve farklı yarıyıllara intibak talepleri kayıt olunan ya da kayıt yenilenen yarıyılın ikinci haftasına kadar istenilen belgelerle birlikte ilgili anabilim dalı başkanlıklarına yapılabilir.
+(2) Lisans programına kayıtlı oldukları dönemde Enstitü Yönetim Kurulu kararı ile tezsiz ya da tezli yüksek lisans programından ders alarak başarılı olan öğrenciler, ilgili programa kabul edildiklerinde kayıt olunan yarıyılın başında olmak koşuluyla bu derslerin saydırılması için talepte bulunabilirler.
+(3) Programa kayıtlı olduğu süreler içerisinde diğer üniversitelerden alınan derslerin saydırılması talebi haricinde ders muafiyet talepleri öğrenim süresi boyunca yalnızca bir defa yapılabilir.
+(4) Ders saydırma ve muafiyet talepleri ilgili anabilim dalı başkanlığının önerisi ve Enstitü Yönetim Kurulu kararı ile onaylanır.

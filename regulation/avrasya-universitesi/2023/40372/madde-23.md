@@ -1,0 +1,3 @@
+Derse devam koşulu
+MADDE 23- (1) Öğrenciler ilk kez yazıldıkları dersler ile daha önce devam koşulunu yerine getirememeleri nedeniyle tekrarlayacakları teorik derslerin en az % 70’ine, teorik ders dışındaki her türlü proje, laboratuvar, uygulama ve benzeri çalışmanın en az % 80’ine devam etmek zorundadır. Bu devam koşulunu yerine getiremeyen öğrenci, yarıyıl sonu ya da bütünleme sınavına alınmaz. Bu sınavlara alınsa dahi sınav notu yarıyıl başarı notu hesabına katılmaz.
+(2) Uzaktan eğitim verilen derslerde öğrencinin devam zorunluluğu YÖK tarafından belirlenen esaslar çerçevesinde Enstitü tarafından düzenlenir, Senato onayı ile ilan edilir.

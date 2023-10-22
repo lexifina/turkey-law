@@ -1,0 +1,2 @@
+Derslerin açılması
+MADDE 19- (1) İlgili anabilim dalında bir yarıyılda hangi lisansüstü derslerin açılacağı ve bu derslerin hangi öğretim üyeleri tarafından verileceği ilgili anabilim dalı başkanının önerisi üzerine Enstitü Yönetim Kurulu tarafından belirlenir. Zorunlu hallerde doktoralı öğretim görevlileri ya da 2547 sayılı Kanunun ek 46 ncı maddesi uyarınca doktoralı araştırmacılar da anabilim dalı başkanının önerisi ve Enstitü Kurulunun onayı ile derslerde görevlendirilebilir.
