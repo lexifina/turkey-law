@@ -1,0 +1,2 @@
+İlişik kesme
+MADDE 10- (1) Öğrenciler, Öğrenci İşleri Direktörlüğüne dilekçe ile başvurarak istedikleri takdirde kayıtlarını sildirebilir. Kayıtlarını sildirenlerin öğretim ücretinin iadesi ile ilgili hususlarda KTO-Karatay Üniversitesi Ön Lisans ve Lisans Eğitim-Öğretim ve Sınav Yönetmeliğinin ilgili hükümleri uygulanır. Gerekli işlemler tamamlandıktan sonra, öğrencinin kaydının silindiği Öğrenci İşleri Direktörlüğü tarafından öğrenci otomasyon sistemine işlenir.

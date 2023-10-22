@@ -1,0 +1,3 @@
+Muafiyet
+MADDE 12- (1) Daha önce başka bir yükseköğretim kurumunda öğrenim gören ve Fakülteye kayıt yaptıran öğrenciler, kesin kayıt yaptırdığı dönemin ders ekle-sil süresinin sonuna kadar, daha önce öğrenim gördüğü ve Yükseköğretim Kurulu tarafından tanınan yükseköğretim kurumlarında aldığı ve başarılı olduğu müfredatındaki derslerden muafiyet isteğinde bulunmak için onaylı not döküm belgesi ve bir dilekçeyle Dekanlığa bir defaya mahsus olmak üzere başvurabilir. Muafiyet işlemleri, Fakülte Yönetim Kurulu tarafından karara bağlanır.
+(2) Yatay geçiş ile gelen öğrencilerin intibakları Fakülte bünyesinde oluşturulan intibak komisyonunun önerisi ile Fakülte Yönetim Kurulu tarafından yapılır.
