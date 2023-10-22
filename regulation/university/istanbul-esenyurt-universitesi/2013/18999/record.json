@@ -1,0 +1,31 @@
+{
+  "act_path": "regulation/university/istanbul-esenyurt-universitesi/2013/18999",
+  "availability": "text",
+  "checked_on": "2026-11-14",
+  "commencement_clauses": [
+    "MADDE 49 – (1) Bu Yönetmelik yayımı tarihinde yürürlüğe girer."
+  ],
+  "date_quote": "RG-22/10/2023",
+  "first_law": null,
+  "gazette": "28813",
+  "history": "current-text",
+  "images": {
+    "deferred": 0,
+    "omitted": 0,
+    "referenced": 0,
+    "source": 0
+  },
+  "in_force": "2023-10-22",
+  "in_force_basis": "latest source-printed amendment Gazette date; current consolidated text",
+  "issuer": "İstanbul Esenyurt Üniversitesi",
+  "issuer_slug": "istanbul-esenyurt-universitesi",
+  "kind": "regulation",
+  "published": "2013-11-06",
+  "source": "https://www.mevzuat.gov.tr/anasayfa/MevzuatFihristDetayIframe?MevzuatTur=8&MevzuatNo=18999&MevzuatTertip=5",
+  "source_id": "8.5.18999",
+  "source_sha256": "1bc30bad1e66dc12ef721522ccb7e5a85f1500633d61921adf3749832acf8bb9",
+  "title": "İSTANBUL ESENYURT ÜNİVERSİTESİ ÖNLİSANS VE LİSANS EĞİTİM-ÖĞRETİM VE SINAV YÖNETMELİĞİ",
+  "university_id": 438,
+  "version_label": "oldest version available",
+  "word_count": 8085
+}

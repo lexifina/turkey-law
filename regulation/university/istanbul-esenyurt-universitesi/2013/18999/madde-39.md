@@ -1,0 +1,18 @@
+YEDİNCİ BÖLÜM
+Yaz Öğretimine İlişkin Esaslar
+Yaz öğretimi
+MADDE 39 – (1) Yaz öğretiminin amaçları; Üniversitenin eğitim-öğretim imkânlarını yaz aylarında da değerlendirmek, öğrencilerin normal dönemlerde alıp başarısız oldukları derslerden başarılı olmalarına veya başarılı oldukları dersleri tekrar alarak notlarını yükseltmelerine imkân sağlamak, bölümlerde meydana gelen öğrenci yığılmalarını gidermek ve eğitim-öğretim verimini artırmak, GNO’ları 2.50 ve üzerinde olan başarılı öğrencilerin hiç almadıkları dersleri alarak daha kısa sürede mezun olmalarına imkân tanımak ve yabancı dil hazırlık sınıfında yıl içinde başarısız olan öğrencilerin başarılı olmalarına destek olmaktır.
+(2) Yaz öğretimi; Üniversitede, eğitim-öğretim yılının normal iki döneminin dışında kalan yaz ayları içinde düzenlenir. Yaz öğretimi isteğe bağlı olup, burslu öğrenciler de dahil olmak üzere tüm öğrenciler için ücretlidir. Her yıl için ödenmesi gereken kredi başına ücret, Mütevelli Heyetinin onayı ile belirlenir.
+(3) Yaz öğretiminin başlangıç tarihi, bahar yarıyılı sonu sınavlarının tamamlanmasından sonra olacak şekilde akademik takvimde belirtilir.
+(4) Yaz öğretiminin süresi yedi haftadır. Bu süre, yaz öğretiminde yapılacak sınavları kapsamaz.
+(5) Yaz öğretiminde açılan her ders için normal dönemde yapılan toplam ders saati kadar ders yapılır.
+(6) Yaz öğretiminde açılması öngörülen önlisans ve lisans dersleri, ilgili program/bölüm başkanlıklarınca belirlenir. Yaz öğretimi, belirlenen bu dersler esas alınarak, ilgili fakülte/yüksekokul ve meslek yüksekokullarınca önerilir ve Senato kararından sonra, Öğrenci İşleri Dairesi Başkanlığı tarafından düzenlenerek öğrencilere duyurulur.
+(7) Yaz öğretiminde ders alacak öğrencinin, kesin ders kayıt işlemlerini yaz öğretimi başlamadan önce, üniversitenin yetkili kurullarınca belirlenecek tarihler arasında tamamlaması gerekir.
+(8) Bir öğrenci, yaz öğretiminde toplam 15 AKTS’yi geçmeyecek şekilde en çok üç ders alabilir. Yaz öğretiminde ders ekleme-çıkarma ve dersten çekilme uygulanmaz.
+(9) Önlisans ve lisans eğitim-öğretimlerinde yer alan zorunlu derslerin tümünün, verilmesi gereken yarıyıllarda açılması gerekir. Bu dersler yaz öğretimine ertelenmez.
+(10) Yaz öğretiminde yer alan derslerin açılabilmesi için, gerekli olan en az öğrenci sayısı, Üniversitenin yetkili kurullarınca belirlenir. Kesin ders kayıtları sonunda, öğrenci sayıları tespit edilir ve dersin açılıp açılmayacağına ilgili kurullar karar verir. Yeterli sayıda öğrencinin başvurması halinde, yabancı dil hazırlık sınıfı için de yaz öğretimi yapılabilir.
+(11) Bir ders yaz öğretiminde açılamıyorsa, söz konusu dersin, bölüm başkanınca eşdeğerliliği uygun görülmek kaydı ve ilgili yönetim kurulunun kararı ile o ders başka bir üniversiteden alınabilir ve aldığı not harf notu olarak öğrencinin transkriptinde gösterilir.
+(12) Türkiye Cumhuriyeti yükseköğretim kurumları ile Yükseköğretim Kurulu tarafından eşdeğerliği kabul edilmiş diğer yükseköğretim kurumlarında öğrenci olduğunu belgeleyen öğrenciler, Üniversitede yaz öğretiminde açılan dersleri alabilir.
+(13) Yaz öğretiminde başarı değerlendirmesi, bu Yönetmeliğin ilgili hükümlerine göre yapılır.
+(14) Yaz öğretiminde her ders için, en az bir ara sınav ve bir final sınavı yapılır. Ara sınav veya final sınavı yapılması mümkün olmayan ders ve uygulamalar için ders ve uygulamanın niteliğine göre bir değerlendirme yapılır.
+(15) Yaz öğretimi derslerinden alınan tüm notlar transkriptte gösterilir. Söz konusu derslerden daha önce alınmış olan notlar, genel not ortalaması hesabında dikkate alınmaz; yaz öğretiminde alınan not, genel not ortalamasının hesabında kullanılır.

@@ -1,0 +1,11 @@
+Başvuru süresi
+MADDE 41 – (1) (Değişik:RG-6/3/2018-30352) Öğrenci ikinci anadal diploma programına, anadal lisans diploma programında en erken üçüncü, en geç beşinci yarıyılın başında, anadal önlisans diploma programlarında en erken ikinci yarıyılın başında, en geç üçüncü yarıyılın başında başvurabilir.
+(2) Başvuru anında anadal diploma programındaki genel not ortalaması en az 4.00 üzerinden (Değişik ibare:RG-22/10/2023-32347) 2.72 olan ve anadal diploma programının ilgili sınıfında başarı sıralaması itibari ile en üst yüzde yirmisinde bulunan öğrenciler ikinci anadal diploma programına başvurabilirler.
+(3) Çift anadal diploma programına başvurabilmesi için öğrencinin başvurduğu yarıyıla kadar anadal diploma programında aldığı tüm dersleri başarıyla tamamlaması gerekir.
+(4) Öğrencinin çift anadal programından mezun olabilmesi için genel not ortalamasının en az 4.00 üzerinden 2.75 olması gerekir. Tüm çift anadal öğrenimi süresince öğrencinin genel not ortalaması bir defaya mahsus olmak üzere 4.00 üzerinden 2.50’ye kadar düşebilir. Genel not ortalaması ikinci kez 4.00 üzerinden 2.50’nin altına düşen öğrencinin ikinci anadal diploma programından kaydı silinir.
+(5) İkinci anadal lisans programına devam eden öğrenciye mezuniyet diploması ancak devam ettiği birinci anadal diploma programından mezun olması halinde verilebilir.
+(6) Çift anadal ikinci diploma programında öğrenim gören öğrencinin anadal programında almış olduğu ve eşdeğerlikleri kabul edilen dersler, not çizelgesinde gösterilir.
+(7) Anadal diploma programından mezuniyet hakkını elde eden ancak ikinci anadal diploma programını bitiremeyen öğrencilerin öğrenim süresi ikinci anadal diploma programının bulunduğu fakültenin yönetim kurulunun kararı ile uzatılabilir.
+(8) Çift anadal programından iki yarıyıl üst üste ders almayan öğrencinin ikinci anadal diploma programından kaydı silinir.
+(9) Çift anadal programından çıkarılan öğrencilerin ikinci anadal programında almış oldukları derslerin ne şekilde değerlendirileceği, Senato tarafından belirlenir.
+(10) Senato kararı ile çift anadal programlarına ilişkin bu Yönetmelikte belirtilenlere ilave olarak yeni koşullar getirilebilir, öngörülen asgari başarı notları yükseltilebilir.

@@ -1,0 +1,2 @@
+Öğretim ücreti
+MADDE 7 – (1) Öğrencilerden, her eğitim-öğretim yılında, Mütevelli Heyet tarafından belirlenen miktarda öğretim ücreti alınır. Ayrıca yaz öğretimine katılan öğrencilerden de her yaz dönemi için Mütevelli Heyet tarafından belirlenen miktarda öğretim ücreti alınır. Üniversite tarafından sunulabilecek yurt, yemek, ulaşım ve benzeri ek hizmetlerin bedeli öğrenim ücreti dışındadır ve Mütevelli Heyet tarafından ayrıca belirlenir.

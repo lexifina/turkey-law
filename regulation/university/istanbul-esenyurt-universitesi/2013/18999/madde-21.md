@@ -1,0 +1,10 @@
+DÖRDÜNCÜ BÖLÜM
+Sınav, Değerlendirme ve Not Sistemi
+Sınav ve değerlendirme
+MADDE 21 – (1) Fakülte ve yüksekokullarda verilen derslerde kısa süreli sınavlar, ara sınavları ve dönem sonu sınavları yapılır.
+(2) Ara sınav yer ve tarihleri, bölüm ve program başkanlığı tarafından ilan edilir. Ara sınav dönemindeki sınav yeri ve tarih değişiklikleri dekanın/müdürün onayı ile yapılır. Ara sınavlar dışındaki kısa süreli sınavlar, önceden tarih belirlenmeden ilgili öğretim elemanınca yapılabilir.
+(3) Öğrencilerin, sınavlara önceden belirlenen tarihlerde ve yerlerde girmeleri, sınava girerken yanlarında kimlik belgesi ile istenecek diğer belgeleri bulundurmaları gerekir.
+(4) Dönem sonu sınavları; dekanlık veya müdürlük tarafından belirlenen ve ilan edilen yer ve zamanlarda yapılır. Bir öğrenciye verilecek başarı notu, dönem başında belirlenen en az bir ara sınav, bir ödev ve bir kısa sınavdan veya kısa sınav yerine geçebilecek proje ve benzeri çalışmalardan oluşur. Yıl içi ve yılsonu yapılan aktivitelerin başarı notuna etki oranları ders tanımlarında dönem başlamadan önce ilgili öğretim üyesince belirlenir.
+(5) Yerinde uygulama için ara sınav ve final sınavı yapılmaz. Sadece bu uygulamaya ilişkin çalışmalar ile dosyalar incelenir ve bu inceleme sonucu P veya F notu verilir.
+(6) Ara sınav ve/veya dönem sonu sınavını gerektirmeyen dersler, ilgili bölüm ve program başkanlığınca belirlenerek Öğrenci İşleri Daire Başkanlığına bildirilir. Bu durumda, dönem sonu başarı notu, öğrencinin dönem içi çalışmaları göz önünde bulundurularak verilir. Bir ders ve o dersin uygulama ve/veya laboratuvarı ayrı ayrı değerlendirilebilir.
+(7) Dönem sonu notlarının öğretim elemanları tarafından dönem sonu sınavlarını izleyen beş iş günü içinde ÖBS’ye girilmesi ve not listelerinin bağlı bulundukları bölüm/program başkanlıklarına ve dekanlıklara/müdürlüklere verilmesi gerekir. Dekan ya da müdürün her döneme ait bütün not listelerinin orijinal kopyalarını, dönem sonu sınavlarını izleyen on beş gün içerisinde Üniversitenin Öğrenci İşleri Daire Başkanlığına göndermesi gerekir.

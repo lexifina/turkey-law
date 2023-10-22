@@ -1,0 +1,6 @@
+ALTINCI BÖLÜM
+Kayıt Dondurma, Kayıt Silme ve İlişik Kesme
+Kayıt dondurma
+MADDE 36 – (1) Öğrencilerin kaydı, öğretim ücretlerini ödemek koşulu, haklı ve geçerli sebepler ve ilgili yönetim kurulu kararı ile önlisans programlarında en az bir yarıyıl, en çok iki yarıyıl, lisans programlarında ise bir kerede iki yarıyılı geçmemek üzere en çok dört yarıyıl dondurulabilir. Kayıt dondurulan süreye ilişkin öğretim ücreti, bir sonraki eğitim-öğretim ücretinden mahsup edilir. Bu süreler azami öğrenim süresinden sayılmaz.
+(2) Askerlik, hastalık, doğal afetler veya önceden bilinmeyen diğer sebeplerle, belgelendirilmesi şartıyla kayıt dondurulabilir.
+(3) Kaydı dondurulan öğrenciler, eğitim-öğretim faaliyetlerine katılamaz ve o dönemdeki ara sınav ve yarıyıl sonu sınavlarına giremez. Kayıt dondurma isteklerinin yarıyıl başında ve ders kayıt süresi bitmeden yapılması gerekir. Bu süreler bittikten sonra, ancak sağlık sorunları, askerlik, afet ve benzeri olağanüstü durumlarda başvuruda bulunulabilir. Bu nedenle yapılacak başvurular için, sağlık kuruluşlarından sağlık raporu alınması ve bu rapor süresinin kayıt dondurulacak yarıyılın zorunlu devam süresini kapsaması ve askerlik, afet ve benzeri durumların belgelendirilmesi gerekir.

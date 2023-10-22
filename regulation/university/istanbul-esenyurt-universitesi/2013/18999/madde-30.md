@@ -1,0 +1,2 @@
+Öğrenci kabulü
+MADDE 30 – (1) Üniversiteye, ÖSYM tarafından yapılan sınav veya özel yetenek sınavını kazanmış olan ve bunu geçerli belgelerle kanıtlayanlar ile 2547 sayılı Kanunun 45 inci maddesine göre mesleki ve teknik ortaöğretim kurumlarından mezun olup, sınavsız olarak Üniversiteye bağlı meslek yüksekokullarına ÖSYM tarafından yerleştirilen ve yabancı uyruklu öğrenci kabulü için gerekli koşulları taşıyan öğrenciler kabul edilir.
