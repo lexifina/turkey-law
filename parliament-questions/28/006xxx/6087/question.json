@@ -1,0 +1,21 @@
+{
+  "record_type": "parliament-written-question",
+  "term": 28,
+  "legislative_year": 2,
+  "esas_no": "7/6087",
+  "submitted": "2023-10-23",
+  "submitted_as": "Başkanlığa geliş tarihi",
+  "mp": "Hasan ÖZTÜRKMEN",
+  "province": "Gaziantep",
+  "summary": "TSK bünyesinde yabancı hekim olup olmadığına ilişkin",
+  "status": "Süresi Geçtikten Sonra Cevaplandı",
+  "status_as_of": "2026-11-16",
+  "official_record": "https://www.tbmm.gov.tr/Denetim/Yazili-Soru-Onergesi-Detay/93c6bfe1-23ae-4122-a6cc-018b6064a089",
+  "source": "https://tbmm.gov.tr/Denetim/YaziliSoruOnergesiTable",
+  "source_form": "https://tbmm.gov.tr/Denetim/Yazili-Soru-Onergeleri",
+  "source_sha256": "f5537b676f799a17070eec08522a524d5bba4490ae64c413a009749e25710e4c",
+  "in_force": "2023-10-23",
+  "in_force_basis": "Date the question reached the Speaker (Başkanlığa geliş tarihi) in the official TBMM written-question record; parliamentary oversight record, not law",
+  "history_type": "metadata",
+  "text_status": "metadata-only: question text, addressee and answers are in the linked official record (PDFs on cdn.tbmm.gov.tr); not transcribed here"
+}
