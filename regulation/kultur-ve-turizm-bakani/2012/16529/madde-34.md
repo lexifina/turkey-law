@@ -1,0 +1,3 @@
+Yurt dışında eğitim ve yurt dışına gönderilme
+MADDE 34 – (1) Uzmanlar ve uzman yardımcıları, Bakanlığı ilgilendiren konularda inceleme ve araştırmalar yapmak ve mesleki bilgilerini artırmak üzere, birim amirinin uygun görüşü alınarak, 657 sayılı Devlet Memurları Kanunu ve 21/1/1974 tarihli ve 7/7756 sayılı Bakanlar Kurulu kararı ile yürürlüğe konulan Yetiştirilmek Amacıyla Yurt Dışına Gönderilecek Devlet Memurları Hakkında Yönetmelik çerçevesinde, yurt dışına gönderilebilirler.
+(2) Uzmanların yurt dışına, eğitim veya inceleme ve araştırmalar yapmak ve mesleki bilgilerini artırmak üzere gönderilmelerinde uzmanlık kıdemi esas alınır.

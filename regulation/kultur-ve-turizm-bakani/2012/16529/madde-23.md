@@ -1,0 +1,6 @@
+Tez danışmanı2
+MADDE 23 – (1) Uzmanlık tezinin hazırlanması safhasında uzman yardımcısına rehberlik etmek ve tezin, tez yazmanın akademik usûl ve esaslarına, seçilen konunun mahiyetine, Bakanlığın görev sahası ile ilgili hususlara ve onaylanan (Değişik ibare:RG-8/4/2020-31093) tez önerisine uygunluğunu temin etmek üzere, uzman yardımcısının istihdam edildiği birim âmirince, tez konusunun kesinleşip ilgiliye tebliğinden itibaren en geç onbeş gün içinde bir danışman belirlenir. Danışman, uzman yardımcısına tez hazırlama safhasında yardımcı olmak maksadıyla tavsiyelerde bulunur.
+(2) (Değişik:RG-8/4/2020-31093) Tez danışmanı, öncelikle üniversite öğretim üyeleri; bu temin edilemediği takdirde genel müdür, genel müdür yardımcısı veya daire başkanı düzeyinde birim amirleri ya da Bakanlıkta en az 10 yıl görev yapmış uzmanlar arasından belirlenir.
+(3) (Ek:RG-8/8/2015-29439) Uzman yardımcısınca hazırlanan ve birim amirince teslim alınan tezin bir örneği ilgili birim amirince yedi gün içinde uzman yardımcısının tez danışmanına verilir. Tez danışmanı on gün içinde tez ile ilgili raporunu hazırlar ve ilgili birim amirine verir. 2
+(4) Tez hazırlanması ve danışmanlık ile ilgili usûl ve esaslar Bakanlıkça bir yönerge ile belirlenir. 2
+(5) Tez danışmanının birim amirinin onayı ile görevinden çekilmesi durumunda, birim amirince yeni bir tez danışmanı belirlenir. 2

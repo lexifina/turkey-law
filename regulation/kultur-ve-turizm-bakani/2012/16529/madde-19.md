@@ -1,0 +1,3 @@
+Uzman yardımcılığına atama
+MADDE 19 – (1) Yarışma sınavının değerlendirilmesi sonucunda başarılı olanlar kendilerine yapılacak bildirimde belirtilen süre içerisinde yapacakları yazılı başvuru üzerine Bakanlık tarafından uzman yardımcısı kadrolarına atanır.
+(2) Sınavda başarılı olup bildirimde belirtilen sürede gerekli başvuruyu yapmayanlardan, ataması yapılıp da herhangi bir sebeple görevden ayrılanlardan veya göreve başlamayanlardan boşalan/atama yapılamayan kadroya, yeni bir sınav yapılıncaya kadar veya yeni bir sınav yapılmaması halinde en geç iki yıl içinde yarışma sınavı başarı sırası dikkate alınarak yedek listeden atama yapılabilir.
