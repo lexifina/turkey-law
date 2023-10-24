@@ -1,0 +1,17 @@
+{
+  "kind": "decision",
+  "issuer": "Sayıştay 4. Dairesi",
+  "number": "314",
+  "decision_date": "2023-10-24",
+  "source_id": 37924,
+  "chamber": "4",
+  "ilam_number": "160",
+  "item_number": 1,
+  "public_body_type": "Belediyeler ve Bağlı İdareler",
+  "account_year": 2021,
+  "subject": "Çeşitli Konuları İlgilendiren Kararlar",
+  "source": "https://www.sayistay.gov.tr/KararlarDaire/Detay/37924/",
+  "source_sha256": "8a83352f1ee0fd7d43b46e11e4f37686ceeb203267aeb0c410d88f425952fa85",
+  "text_status": "as-enacted",
+  "text_file": "metin.md"
+}
