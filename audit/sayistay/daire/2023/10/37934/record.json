@@ -1,0 +1,17 @@
+{
+  "kind": "decision",
+  "issuer": "Sayıştay 4. Dairesi",
+  "number": "311",
+  "decision_date": "2023-10-24",
+  "source_id": 37934,
+  "chamber": "4",
+  "ilam_number": "286",
+  "item_number": 1,
+  "public_body_type": "Belediyeler ve Bağlı İdareler",
+  "account_year": 2018,
+  "subject": "Personel Mevzuatı ile İlgili Kararlar",
+  "source": "https://www.sayistay.gov.tr/KararlarDaire/Detay/37934/",
+  "source_sha256": "0ef0a932c5bdf98ec53a10adb9f23c5ad50bf6e138b754b5cffa3f1c8842ec3f",
+  "text_status": "as-enacted",
+  "text_file": "metin.md"
+}
