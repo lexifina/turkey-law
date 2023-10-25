@@ -1,0 +1,21 @@
+{
+  "record_type": "parliament-written-question",
+  "term": 28,
+  "legislative_year": 2,
+  "esas_no": "7/5716",
+  "submitted": "2023-10-25",
+  "submitted_as": "Başkanlığa geliş tarihi",
+  "mp": "Mahmut ARIKAN",
+  "province": "Kayseri",
+  "summary": "Anadolu Kartalı Programı kapsamında ülkemizde eğitim alan yabancı uyruklu pilotlara ilişkin",
+  "status": "Süresi Geçtikten Sonra Cevaplandı",
+  "status_as_of": "2026-11-16",
+  "official_record": "https://www.tbmm.gov.tr/Denetim/Yazili-Soru-Onergesi-Detay/ab9bb81b-8f7e-477a-ba13-018b679da8b0",
+  "source": "https://tbmm.gov.tr/Denetim/YaziliSoruOnergesiTable",
+  "source_form": "https://tbmm.gov.tr/Denetim/Yazili-Soru-Onergeleri",
+  "source_sha256": "d286069e225ed0c9448f40b935658b90d9d59e83675a4884c7f215429dd632e3",
+  "in_force": "2023-10-25",
+  "in_force_basis": "Date the question reached the Speaker (Başkanlığa geliş tarihi) in the official TBMM written-question record; parliamentary oversight record, not law",
+  "history_type": "metadata",
+  "text_status": "metadata-only: question text, addressee and answers are in the linked official record (PDFs on cdn.tbmm.gov.tr); not transcribed here"
+}
