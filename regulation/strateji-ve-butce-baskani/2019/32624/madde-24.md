@@ -1,0 +1,7 @@
+Yeterlik sınavı
+MADDE 24- (1) Uzmanlık tezi başarılı kabul edilen ve aylıksız izin ile toplamı üç ayı aşan hastalık ve refakat izinleri hariç en az üç yıl fiilen çalışan uzman yardımcısı yeterlik sınavına girmeye hak kazanır.
+(2) Yeterlik sınavı, yeterlik sınavına girmeye hak kazananlara Sınav Kurulu tarafından en geç iki ay içinde yazılı veya sözlü şekilde yapılır.
+(3) Yeterlik sınavı, uzman yardımcısının Başkanlığın görev alanı ile ilgili konular ve uzmanlık alanındaki bilgisi göz önüne alınarak yapılır.
+(4) Yeterlik sınavında başarılı olabilmek için; yazılı sınav yapılması halinde yüz (100) tam puan üzerinden en az yetmiş (70) puan, sözlü sınav yapılması halinde ise Sınav Kurulu üyelerince yüz (100) tam puan üzerinden verilen puanların aritmetik ortalamasının en az yetmiş (70) puan olması şarttır.
+(5) Sınavda başarılı olamayan veya sınava girmeye hak kazandığı halde geçerli mazereti olmaksızın sınav hakkını kullanmayanlara, bir yıl içinde Sınav Kurulunca ikinci kez sınav hakkı verilir.
+(6) Yeterlik sınavında başarılı olamayan uzman yardımcısı sonuçların ilanını takip eden üç iş günü içerisinde yazılı olarak Genel Müdürlüğe itiraz edebilir. İtirazlar Genel Müdürlükçe en geç aynı süre içerisinde Sınav Kuruluna iletilir. Sınav Kurulu itirazın intikalini müteakip en geç bir hafta içerisinde itirazı görüşerek karara bağlar. Sınav Kurulunun kararı, uzman yardımcısına iletilmek üzere Genel Müdürlüğe bildirilir.

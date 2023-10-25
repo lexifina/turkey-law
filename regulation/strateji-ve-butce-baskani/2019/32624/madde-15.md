@@ -1,0 +1,6 @@
+Uzman yardımcılığına atanma
+MADDE 15- (1) Giriş sınavını kazananların uzman yardımcısı boş kadrolarına atanmaları ve adaylıklarına ilişkin işlemler 657 sayılı Devlet Memurları Kanunu hükümlerine göre yapılır.
+(2) Sınavı kazananların uzman yardımcılığına atanmaları için atama işlemlerinin yapılmasına ilişkin tebligatta belirtilen süre içinde ve istenilen belgelerle birlikte personel iş ve işlemlerinden sorumlu Daire Başkanlığına müracaat etmeleri gereklidir. Bu süre içinde geçerli bir mazereti olmadığı halde müracaat etmeyenler ile istenilen belgelerde eksiklikleri bulunanların atama işlemleri yapılmaz.
+(3) Asıl olarak kazananların çeşitli sebeplerle atanamaması, atamalarının iptal edilmesi, memuriyetten çekilmesi ve benzeri nedenlerle bu kadroların boşalması halinde, yeniden yapılacak ilk sınavın duyuru tarihine kadar bu kadrolara, yedek listede yer alanların nihai başarı sırasına göre atamaları yapılabilir. Bu şekilde atanamayanlar herhangi bir hak iddiasında bulunamaz.
+(4) Giriş sınavını kazananlardan başvuru belgelerinde gerçeğe aykırı beyanda bulunduğu tespit edilenlerin sınavları geçersiz sayılır ve atamaları yapılmaz. Atamaları yapılmış olsa dahi iptal edilir ve ilgililer hakkında Cumhuriyet Savcılığına suç duyurusunda bulunulur.
+(5) Giriş sınavı sonunda göreve başlatılanlar on beş gün içinde Devlet Personel Başkanlığına bildirilir.

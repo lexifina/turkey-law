@@ -1,0 +1,5 @@
+Yazılı sınav
+MADDE 10- (1) Yazılı sınav, sınav ilanında belirtilen bölümlerin müfredatına uygun alan bilgisi konularını ve Başkanlığın görev alanı ile ilgili konuları içerecek şekilde hazırlanır.
+(2) Yazılı sınavda başarılı sayılmak için yüz (100) tam puan üzerinden en az yetmiş (70) puan alınması şarttır. Yazılı sınavda başarılı olanlar arasından, en yüksek puandan başlanarak giriş sınavı duyurusunda belirtilen atama yapılacak kadro sayısının en fazla dört katı kadar aday Başkanlığın internet sayfasında ilan edilerek sözlü sınava çağrılır. Ancak son sıradaki aday ile aynı puanı almış adaylar da sözlü sınava katılmaya hak kazanır.
+(3) Yazılı sınav sonuçları, Başkanlık internet sayfasında yayımlanmak suretiyle duyurulur. Duyuruda, sözlü sınava girmeye hak kazanan adayların sınav yeri, tarihi ve saati de belirtilir.
+(4) Yazılı sınav sonuçlarına açıklandığı tarihten itibaren beş gün içinde yazılı olarak itiraz edilebilir. İtiraz, sınavı yapan Sınav Komisyonuna yapılır ve Sınav Komisyonu tarafından yedi gün içinde sonuçlandırılır. İtiraz sonucu verilen karar kesindir.
