@@ -1,0 +1,25 @@
+{
+  "kind": "norm",
+  "issuer": "Enerji Piyasası Düzenleme Kurumu",
+  "market": "electricity",
+  "document_type": "board-decision",
+  "number": "12158",
+  "decision_date": "2023-10-26",
+  "title": "Son Kaynak Tedarik Tarifesinin Düzenlenmesi Hakkında Tebliğin 5 inci ve 6 ncı maddelerinde yer alan tüketim miktarına ve Kurulca belirlenen katsayıya ilişkin",
+  "resmi_gazete_date": "2023-10-28",
+  "resmi_gazete_number": "32353",
+  "categories": [
+    "Son Kaynak Tedarik Tarifesine İlişkin Kurul Kararları"
+  ],
+  "source": "https://www.epdk.gov.tr/Detay/DownloadDocument?id=Avh0TUWXoIc=",
+  "documents": [
+    "https://www.epdk.gov.tr/Detay/DownloadDocument?id=Avh0TUWXoIc="
+  ],
+  "source_sha256": "74253cb94ccb3e8f20dabc79af470ca050bf98e7ad3a7b59928f5b218ddda6d3",
+  "official_list": "https://www.epdk.gov.tr/Detay/Icerik/3-0-39/kurul-kararlari-",
+  "official_list_leaf": 15595,
+  "text_status": "as-enacted",
+  "text_file": "metin.md",
+  "in_force": "2023-10-26",
+  "law_text_complete": true
+}
