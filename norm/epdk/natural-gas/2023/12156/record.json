@@ -1,0 +1,26 @@
+{
+  "kind": "norm",
+  "issuer": "Enerji Piyasası Düzenleme Kurumu",
+  "market": "natural-gas",
+  "document_type": "board-decision",
+  "number": "12156",
+  "decision_date": "2023-10-26",
+  "title": "Doğugaz Bitlis Bingöl Muş Doğalgaz Dağıtım Anonim Şirketi’nin (Şirket) üçüncü tarife uygulama dönemi perakende satış tarifelerine yönelik",
+  "resmi_gazete_date": "2023-10-28",
+  "resmi_gazete_number": "32353",
+  "categories": [
+    "Şirket Bazında Kararlar"
+  ],
+  "source": "https://www.epdk.gov.tr/Detay/DownloadDocument?id=SWpttvioR0Y=",
+  "documents": [
+    "https://www.epdk.gov.tr/Detay/DownloadDocument?id=SWpttvioR0Y=",
+    "https://www.epdk.gov.tr/Detay/DownloadDocument?id=AQZwfY4ePKs="
+  ],
+  "source_sha256": "d02c65622bf37e215153fcb025cb96a2f22031d74f56238c1d7fc447cf32d451",
+  "official_list": "https://www.epdk.gov.tr/Detay/Icerik/3-0-19/kurul-kararlari",
+  "official_list_leaf": 7236,
+  "text_status": "as-enacted",
+  "text_file": "metin.md",
+  "in_force": "2023-10-26",
+  "law_text_complete": true
+}
