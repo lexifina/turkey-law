@@ -1,0 +1,21 @@
+{
+  "record_type": "parliament-written-question",
+  "term": 28,
+  "legislative_year": 2,
+  "esas_no": "7/5676",
+  "submitted": "2023-10-26",
+  "submitted_as": "Başkanlığa geliş tarihi",
+  "mp": "Mehmet Zeki İRMEZ",
+  "province": "Şırnak",
+  "summary": "Şırnak'ın İdil ilçesinde tutuklanan bir kişinin sağlık durumuna ilişkin",
+  "status": "Süresi Geçtikten Sonra Cevaplandı",
+  "status_as_of": "2026-11-16",
+  "official_record": "https://www.tbmm.gov.tr/Denetim/Yazili-Soru-Onergesi-Detay/f5a9da81-ac2c-4486-93d4-018b702f447b",
+  "source": "https://tbmm.gov.tr/Denetim/YaziliSoruOnergesiTable",
+  "source_form": "https://tbmm.gov.tr/Denetim/Yazili-Soru-Onergeleri",
+  "source_sha256": "17a617fab436830aebf9cff68e22265a3355b07e1c52d2a58ad09ef18ab29a5f",
+  "in_force": "2023-10-26",
+  "in_force_basis": "Date the question reached the Speaker (Başkanlığa geliş tarihi) in the official TBMM written-question record; parliamentary oversight record, not law",
+  "history_type": "metadata",
+  "text_status": "metadata-only: question text, addressee and answers are in the linked official record (PDFs on cdn.tbmm.gov.tr); not transcribed here"
+}
