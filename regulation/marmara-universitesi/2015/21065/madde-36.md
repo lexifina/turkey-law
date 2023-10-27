@@ -1,0 +1,4 @@
+Yandal programları
+MADDE 36 – (1) Yandal programları lisans öğrenimini üstün başarıyla yürütmekte olan bir öğrencinin, aynı zamanda ikinci bir lisans programında bilgilenmek üzere sınırlı öğrenim görmesini sağlayan sertifika amaçlı eğitim-öğretim programıdır. Yandal programları farklı fakültelerdeki lisans programları veya farklı dört yıllık yüksekokullardaki lisans programları arasında yürütülebildiği gibi, aynı fakülte veya dört yıllık yüksekokullardaki lisans programları arasında da yürütülebilir. Yandal programlarının ders/uygulama içerikleri ilgili bölümlerin ve birim kurullarının önerisi üzerine Senato tarafından belirlenir.
+(2) Yandal programlarına ait hususlar Senato tarafından belirlenen esaslara göre düzenlenir.
+(3) Uluslararası ortak programlara kayıtlı öğrenciler yandal programlarına katılamaz.

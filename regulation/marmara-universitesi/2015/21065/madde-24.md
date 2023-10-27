@@ -1,0 +1,16 @@
+İşaretler
+MADDE 24 – (1) Öğrencilerin bir dersteki durumunu belirten işaretler aşağıdaki şekilde tanımlanır:
+a) R (Tekrar): Dersin önceden başarılmış veya başarılmamış olmasına bakılmadan ilgili dersin tekrar edildiğini gösterir.
+b) NC (Kredisiz): Dersin kredisinin olup olmamasına ve/veya kredi miktarına bakılmadan ilgili dersin kredisiz olarak alındığını gösterir. Bu işaretin verildiği dersler; öğrencinin öğretim programında belirtilen, öğrenim süresi içerisinde tamamlamakla yükümlü olduğu toplam krediye sayılmaz ve GANO/YANO hesaplarına katılmaz.
+c) TI (Transfer – Kurum içi yatay geçiş): Üniversitenin başka bir programından kurum içi yatay geçiş yapmış öğrencilerin birim kurulunca kabul edilen dersleri için kullanılır. Bu derslerin notları aynen aktarılır, ancak yeni öğretim programında yer almayan transfer ettiği dersler, kredisiz (NC) olarak işleme alınır.
+ç) TY (Transfer – Kurumlar arası yatay geçiş): Başka bir yükseköğretim kurumundan yatay geçiş yapmış öğrencilerin birim kurulunca kabul edilen dersleri için kullanılır.
+d) TD (Transfer - Dikey geçiş): Herhangi bir önlisans programından bir lisans programına dikey geçiş yapmış öğrencilerin, birim kurulunca kabul edilen dersleri için kullanılır.
+e) TS (Transfer - Diğer kurum yaz okulu): Üniversite tarafından uygun görülüp birim yönetim kurulunca kabul edilen, Üniversite öğrencilerinin başka yükseköğretim kurumlarının yaz okullarında alıp başarmış olduğu dersleri için kullanılır.
+f) T (Transfer): Bu işaret, dersin başka bir yükseköğretim kurumunda alınmış olması ve yukarıdaki transfer türlerine dâhil edilemediği durumlarda kullanılır. Daha önceden başka kurumlarda kısmen veya tamamen eğitim almış ve geçiş yapmadan üniversiteye giriş sınavlarıyla birimde okumaya hak kazanmış öğrencilerin, birim kurulunca kabul edilmiş dersleri bu şekilde değerlendirilir.
+g) M (Muafiyet sınavı ile muaf, kredisiz): Muafiyet sınavı ve benzeri yollarla öğrencinin öğretim programında öngörülen bir kısım derslerden muaf tutulduğu anlamına gelir. Muaf tutulan bu dersler öğrencinin tamamlamakla yükümlü olduğu toplam krediye sayılmaz ve GANO/YANO hesaplarına katılmaz. Öğrencinin öğretim programında belirtilen toplam krediyi tamamlaması için öğrenciye bu dersler yerine başka dersler önerilir.
+ğ) MK (Muafiyet sınavı ile muaf, kredili): Muafiyet sınavı ve benzeri yollarla öğrencinin öğretim programında öngörülen temel bir kısım derslerden muaf tutulduğu anlamına gelir. Muaf tutulan bu derslere S notu verilir ve öğrencinin tamamlamakla yükümlü olduğu toplam krediye sayılır, fakat GANO/YANO hesaplarına katılmaz. Bu dersler tekrar edilmez.
+h) DP (Öğrenci değişim programı): Bu işaret, öğrenci değişim programları çerçevesinde öğrencilerin almış olduğu, birim yönetim kurulunca kabul edilmiş dersler için kullanılır.
+ı) TK (Tek ders sınavı): Dersin tek ders sınavıyla alındığı durumlarda kullanılır.
+i) CY (Çift anadal programı/Yandal programı): Bu işaret, dersin çift anadal programı (ÇAP)/yandal programı (YAP) dâhilinde alındığını gösterir.
+j) AN (Anadal): Bu işaret, çift anadal programı (ÇAP)/yandal programı (YAP) öğrencisinin dersi anadal programından aldığını gösterir.
+k) (Ek:RG-8/10/2019-30912) UC (Üç ders sınavı): UC işareti derslerin üç ders sınavıyla alındığı durumlarda kullanılır.

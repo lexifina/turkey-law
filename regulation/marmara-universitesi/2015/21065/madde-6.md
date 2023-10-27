@@ -1,0 +1,5 @@
+Öğrenim harcı
+MADDE 6 – (1) Öğrencilerin, her öğretim yılında, akademik takvimde belirtilen süreler içinde ilgili mevzuatta belirlenen öğrenim harcını ödemeleri gerekir. Öğrenim harcını ödemeyen öğrenciler ders kaydı yaptıramaz ve öğrencilik haklarından yararlanamaz. Bu öğrenciler hakkında ilgili mevzuatta belirlenen hükümler uygulanır. Öğrencinin öğrenim harcını ödemediği yarıyıllar/yıllar, öğrenim süresine sayılır.
+(2) Öğrencilerin öğrenim süresi içinde mezun olamamaları ve yandal/çift anadal öğrenimlerini tamamlayamamaları halinde ödeyecekleri öğrenim harçlarının hesaplanması 2547 sayılı Kanunun 46 ncı maddesine göre yapılır.
+(3) Hazırlık sınıfı hariç bulundukları bölümde her bir dönem için belirlenen asgari derslerden başarılı olan ve bu dersleri alan öğrencilerin başarı ortalamasına göre dönem sonu itibari ile yapılacak sıralamada ilk yüzde ona giren öğrencilerin ödeyecekleri öğrenim harçları 2547 sayılı Kanunun 46 ncı maddesine göre yapılır.
+(4) Uzaktan öğretim yoluyla verilen derslere ilişkin ücretler 2547 sayılı Kanunun 46 ncı maddesine göre belirlenir.

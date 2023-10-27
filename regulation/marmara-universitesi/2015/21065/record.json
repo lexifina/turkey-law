@@ -1,0 +1,79 @@
+{
+  "checked_on": "2026-11-14",
+  "commencement_clauses": [
+    "MADDE 43 – (1) Bu Yönetmelik yayımı tarihinde yürürlüğe girer."
+  ],
+  "date_evidence": [
+    [
+      "2015-08-20",
+      "20.08.2015",
+      "original gazette publication date in official listing"
+    ],
+    [
+      "2019-10-08",
+      "RG-8/10/2019-30912",
+      "latest source-printed gazette amendment date for current consolidated text"
+    ],
+    [
+      "2019-10-08",
+      "RG-8/10/2019-30912",
+      "latest source-printed gazette amendment date for current consolidated text"
+    ],
+    [
+      "2019-10-08",
+      "RG-8/10/2019-30912",
+      "latest source-printed gazette amendment date for current consolidated text"
+    ],
+    [
+      "2019-10-08",
+      "RG-8/10/2019-30912",
+      "latest source-printed gazette amendment date for current consolidated text"
+    ],
+    [
+      "2019-10-08",
+      "RG-8/10/2019-30912",
+      "latest source-printed gazette amendment date for current consolidated text"
+    ],
+    [
+      "2023-10-27",
+      "RG-27/10/2023-32352",
+      "latest source-printed gazette amendment date for current consolidated text"
+    ],
+    [
+      "2019-10-08",
+      "8/10/2019",
+      "latest gazette date in source amendment table"
+    ],
+    [
+      "2023-10-27",
+      "27/10/2023",
+      "latest gazette date in source amendment table"
+    ]
+  ],
+  "date_quote": "RG-27/10/2023-32352",
+  "first_law": null,
+  "gazette": "29451",
+  "history": "current-text",
+  "images": {
+    "deferred": 0,
+    "omitted": 0,
+    "referenced": 0,
+    "source": 0
+  },
+  "in_force": "2023-10-27",
+  "in_force_basis": "latest source-printed gazette amendment date for current consolidated text",
+  "issuer": "Marmara Üniversitesi",
+  "issuer_slug": "marmara-universitesi",
+  "kind": "regulation",
+  "label": "oldest version available",
+  "path": "regulation/marmara-universitesi/2015/21065",
+  "published": "2015-08-20",
+  "source": "https://www.mevzuat.gov.tr/anasayfa/MevzuatFihristDetayIframe?MevzuatTur=8&MevzuatNo=21065&MevzuatTertip=5",
+  "source_bytes": 129819,
+  "source_id": "8.5.21065",
+  "source_sha256": "d2e5ab22bbbaad0971e90ecdc886e10235e45a34740d0182372c722002a5fc56",
+  "text_status": "current-consolidated",
+  "title": "MARMARA ÜNİVERSİTESİ ÖN LİSANS VE LİSANS \r\nEĞİTİM-ÖĞRETİM VE SINAV YÖNETMELİĞİ",
+  "university_id": 210,
+  "word_count": 7354
+}

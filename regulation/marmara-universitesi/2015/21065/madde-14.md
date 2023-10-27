@@ -1,0 +1,6 @@
+Ders açma esasları
+MADDE 14 – (1) Her yarıyıl/yıl hangi derslerin açılacağı ve hangi öğretim elemanlarınca okutulacağı, akademik anabilim/anasanat dalı kurulları ve bölüm kurullarından gelen öneriler göz önüne alınarak birim kurulu önerisi ile Senatoda kararlaştırılır.
+(2) Zorunlu derslerin açılması için öğrenci sayısı dikkate alınmaz.
+(3) Seçimlik derslere kaydolan öğrenci sayısının on beş kişiden az olması halinde birim yönetim kurulu bu dersin açılmamasına karar verebilir. Dersin, kaydolan öğrenci sayısının yetersizliği veya başka nedenlerle açılmaması durumunda; ders ekleme çıkarma dönemini izleyen hafta içinde kaydı iptal edilen öğrencilerin açık bulunan seçimlik derslere kaydı, öğrenci danışmanının önerisi ile birim yönetim kurulu tarafından yapılır.
+(4) Derslerin ve uygulamaların hafta içindeki yerleşimi (çizelge) ve sorumlu öğretim elemanları her yarıyılın/yılın başlangıcından en az on iş günü önce ilan edilir. Zorunlu hallerde haftalık programlarda değişiklikler yapılabilir.
+(5) Yaz okulunda hangi derslerin açılacağı ve hangi öğretim elemanlarınca okutulacağı, ilgili mevzuat hükümlerine göre akademik anabilim/anasanat dalı kurulları ve bölüm kurullarından gelen öneriler göz önüne alınarak birim kurulu tarafından kararlaştırılır.

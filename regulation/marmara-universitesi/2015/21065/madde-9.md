@@ -1,0 +1,6 @@
+Eğitim-öğretimin kapsamı
+MADDE 9 – (1) Eğitim-öğretim; ilgili akademik birimlerde, özelliklerine göre teorik dersler, uygulamalı dersler ve pratik çalışma, atölye, klinik uygulamalar, laboratuvar çalışması, bitirme ödevi, bitirme projesi, diploma projesi, staj, ödev çalışması ve seminer gibi uygulamalardan oluşur.
+(2) Lisans ve ön lisans programlarında yer alacak dersler, bunların saat sayıları, kredileri ve zorunlu veya seçimlik oldukları ilgili akademik anabilim/anasanat kurullarının ve bölüm kurullarının önerileri dikkate alınarak birim kurullarınca belirlenir ve Senatonun onayı ile kesinleşir.
+(3) Yönelme/uzlanım gruplarının ders ve uygulamalarının oluşumu, staj, bitirme/diploma projesi ve tez gibi eğitim-öğretim faaliyetlerinin hazırlanması, sunulması, değerlendirilmesi gibi hususlara ilişkin esaslar bölüm kurulunca hazırlanarak birim kuruluna önerilir ve Senato tarafından onaylanan esaslar ile belirlenir.
+(4) Tıp Fakültesinde entegre sistem uygulanır ve buna ilişkin esaslar Senato tarafından belirlenir.
+(5) Senato tarafından uygun görülmesi halinde, birinci ve ikinci öğretim programlarındaki bazı dersler, sadece uzaktan öğretim yoluyla verilebileceği gibi, bazı dersler hem örgün öğretim yoluyla hem de uzaktan öğretim yoluyla verilebilir. Öğrenim harçlarının belirlenmesi bu Yönetmeliğin 6 ncı maddesinin dördüncü fıkrasına göre yapılır.

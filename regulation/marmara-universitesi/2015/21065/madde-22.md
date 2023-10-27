@@ -1,0 +1,4 @@
+Sınav sonuçlarının ilanı ve sonuçlara itiraz
+MADDE 22 – (1) Sınavlarda öğrenciler, 100’lük puan sistemine göre sayısal olarak ölçülür. Sınavı yapan öğretim elemanı sınav tarihini takip eden sekiz gün içerisinde sınav sonuçlarını sayısal olarak ilan eder, sınav kâğıtlarını ve tutanağını ilgili birime teslim eder.
+(2) Öğrenciler sınav sonuçlarına, ilanından itibaren beş iş günü içinde ilgili birime dilekçe vererek itiraz edebilir.
+(3) İtiraz üzerine sınav kâğıdı, dersin öğretim elemanı tarafından, konunun kendisine bildirilmesinden itibaren en geç beş iş günü içinde incelenir, sonuç yazılı ve gerekçeli olarak ilgili birime bildirilir. Not değişikliği, ancak birim yönetim kurulunun onayı ve birim yöneticisi veya yetkilendireceği yardımcıları gözetiminde ilgili öğrenci işleri bürosunca yapılabilir. Bu şekilde yapılacak düzeltmeler diğer öğrencilerin kesinleştirilmiş harfli başarı notlarını etkilemez.

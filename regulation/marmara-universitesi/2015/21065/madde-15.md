@@ -1,0 +1,2 @@
+Dersin gruplara ayrılması
+MADDE 15 – (1) Bir ders için birim yönetim kurulu kararı ile birden fazla grup oluşturulabilir. Ancak birden fazla grup oluşturulduğunda, bu gruplardaki ortalama öğrenci sayısı teorik derslerde 25’ten, uygulama veya seçimlik derslerde 10’dan az olamaz. Eğitim-öğretimin bireysel veya küçük gruplarla yapılmasının zorunlu olduğu hallerde öğrenci sayısı sınırlanmaz. İstisnai durumlar, birim yönetim kurulu tarafından karara bağlanır.

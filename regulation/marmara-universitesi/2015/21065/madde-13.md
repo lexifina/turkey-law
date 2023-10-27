@@ -1,0 +1,6 @@
+Öğretim programı
+MADDE 13 – (1) Diploma programını bitiren bir öğrencinin kazanacağı bilgi, beceri ve yetkinlikler program kazanımlarını oluşturur. Paydaş görüşleri ve ihtiyaçları, kalite kontrol, akreditasyon süreçleri dikkate alınarak program kazanımları bölüm kurulu tarafından belirlenir ve birim kurulu tarafından kararlaştırılarak Senatonun onayı ile kesinleşir.
+(2) Öğretim programı ile bu Yönetmeliğin 16 ncı maddesinde belirtilen ana ders izleme programı (ders öğretim planı) program kazanımları dikkate alınarak ilgili akademik anabilim/anasanat dalı kurulunun önerisi ile bölüm kurulunca belirlenir ve birim kurulu tarafından kararlaştırılır. Bu karar, Senatonun onayı ile kesinleşir.
+(3) Öğretim programında; her yarıyılda/yılda okutulacak ders ve diğer faaliyetler ile bunların teorik ve uygulamalı ders saatleri, kredileri ve her bir program kazanımına katkısı belirtilir.
+(4) Öğretim programlarındaki zorunlu ders ve zorunlu diğer faaliyetlerin toplam kredisi, öğretim programının toplam kredisinin %60’ından az olamaz.
+(5) Öğretim programlarındaki seçimlik ders ve seçimlik diğer faaliyetlerin toplam kredisi, öğretim programının toplam kredisinin %15’inden az, %40’ından fazla olamaz.

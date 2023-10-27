@@ -1,0 +1,20 @@
+Ders alma esasları
+MADDE 18 – (1) Öğrencilerin bir yarıyılda/yılda anadal ve çiftanadal/yandal programlarından alabileceği ders veya uygulamaların toplam sayısı, kayıtlı oldukları öğretim programındaki yarıyıl/yıl başına ortalama ders sayısının üç fazlasını aşamaz. Ancak mezuniyet aşamasına gelen öğrencilere birim yönetim kurulu kararıyla ilave olarak en fazla üç ders verilebilir.
+(2) Öğrenciler, ön koşullu dersleri göz önünde bulundurarak ön koşullu derslere kayıt yaptırırlar.
+(3) Bölümler arası ortak bir dersin birden çok gruba ayrılması halinde; öğrenciler, kayıtlı oldukları bölüm/program için açılan gruba kaydolmak zorundadır. İstisnai durumlar, danışman ve bölüm başkanının önerisi ile birim yönetim kurulu tarafından karara bağlanır.
+(4) Öğrenciler; birimin belirlediği kontenjan varsa, bu kontenjan dâhilinde derslere kaydolurlar.
+(5) Yarıyıllık düzende eğitim yapılan birimlerde üçüncü yarıyıldan itibaren;
+a) Yarıyıl başı genel ağırlıklı not ortalaması (GANO) 1,80’in ve son iki yarıyılındaki her iki yarıyıl ağırlıklı not ortalaması (YANO) 2,00’ın altında olan öğrenciler,
+b) Yıllık düzende eğitim yapılan birimlerde yıl başı genel ağırlıklı not ortalaması (GANO) 1,80’in altında olan öğrenciler,
+c) Entegre eğitim yapılan birimlerde yıl başı genel ağırlıklı not ortalaması (GANO) 2,00’nin altında olan öğrenciler
+sınamalı öğrenci kabul edilirler.
+(6) Sınamalı öğrenci ilgili yarıyıl/yıl derslerini almayıp, önceki yarıyıl/yıllardan önkoşul derslerini göz önünde bulundurarak ders alırlar. Bu durumdaki öğrenciler ayrıca, GANO yükseltme amacıyla önceki yarıyıl/yıllarda DD ve DC notu aldıkları dersleri de tekrar edebilirler.
+(7) Sınamalı statüde geçirilen yarıyıllar öğrenim süresinden sayılır.
+(8) Yaz okulunda, öğrenciler bir sonraki yarıyılda kabul edilerek ve bu Yönetmelik ile 24/6/2009 tarihli ve 27268 sayılı Resmî Gazete’de yayımlanan Marmara Üniversitesi Yaz Okulu Yönetmeliği hükümlerine uygun olarak ders kaydı yaparlar.
+(9) GANO’su en az 3,00 olan öğrenciler, bu maddenin birinci fıkrasında belirtilen koşullara uymak kaydıyla üst yarıyıllardan/yıllardan ders alabilir.
+(10) Öğretim programı dikkate alınarak ilgili yarıyıl/yıl için gereken dersleri almış ve GANO’su en az 3,00 olan öğrenciler; ders gün ve saatinin programındaki dersleriyle çakışmaması koşuluyla, danışmanın ve bölüm başkanının/program danışmanının önerisi, birim yönetim kurulu kararları ile öğretim programları dışında ilave ders alabilir. Bu dersler, kredisiz (NC) olarak işaretlenir ve başarısız olunsa dahi öğrencinin not döküm belgesinde gösterilir.
+(11) Bir dersten başarısız olan veya dersi öğretim programındaki yarıyılda/yılda alamayan öğrenciler, bu dersi verildiği ilk dönemde almak zorundadır. Ancak dersin, öğretim programında yer alan yarıyılının dışında açılması halinde, öğrenci bu dersi verildiği ilk dönemde almayabilir.
+(12) Öğrenciler başarısız oldukları, ancak sonradan programdan çıkarılan zorunlu dersler yerine, kayıtlı oldukları bölüm veya program tarafından uygun görülen eşdeğer olan dersleri, birim kurulunun onayı ile alabilir.
+(13) Tekrar edilecek ders seçimlik ise, öğrenciler aynı dersi veya bu dersin yerine sayılabilecek eşdeğer kredili aynı seçimlik ders havuzu içerisindeki diğer seçimlik dersleri alabilir.
+(14) Kayıtlı olduğu programda akademik bir alanda uzmanlaşmaya imkan veren yönelme/uzlanım ders gruplarından birini seçen öğrenci, grubun ders gereklerini tamamlayıp başarmak zorundadır. Öğrenci yönelme/uzlanım ders grubunu değiştirebilir. Yönelme/uzlanım ders grubu değişikliği yapan öğrencilerde, öğrencilerin yeni gruplarının ders gereklerini tamamlayıp başarmaları şartı aranır. Bu durumdaki öğrencilerin eski grubundaki derslerini başarma şartı aranmaz, ancak iptal edilen grubun başarılı veya başarısız tüm dersleri kredisiz (NC) ders olarak işaretlenir ve alınan harfli başarı notları, not döküm belgesinde (transkript) gösterilir.
+(15) Yabancı dil hazırlık sınıfını başarıp bahar yarıyılında derslere başlayan düzensiz durumda olan öğrenciler bu madde kapsamında hazırlık sınıfını güz yarıyılı başında başarmış gibi işlem görürler.
