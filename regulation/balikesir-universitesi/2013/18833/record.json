@@ -1,0 +1,49 @@
+{
+  "checked_on": "2026-11-14",
+  "commencement_clauses": [
+    "MADDE 14 – (1) Bu Yönetmelik yayımı tarihinde yürürlüğe girer."
+  ],
+  "date_evidence": [
+    [
+      "2013-09-12",
+      "12.09.2013",
+      "original gazette publication date in official listing"
+    ],
+    [
+      "2023-10-27",
+      "RG-27/10/2023-32352",
+      "latest source-printed gazette amendment date for current consolidated text"
+    ],
+    [
+      "2023-10-27",
+      "27/10/2023",
+      "latest gazette date in source amendment table"
+    ]
+  ],
+  "date_quote": "RG-27/10/2023-32352",
+  "first_law": null,
+  "gazette": "28763",
+  "history": "current-text",
+  "images": {
+    "deferred": 0,
+    "omitted": 0,
+    "referenced": 0,
+    "source": 0
+  },
+  "in_force": "2023-10-27",
+  "in_force_basis": "latest source-printed gazette amendment date for current consolidated text",
+  "issuer": "Balıkesir Üniversitesi",
+  "issuer_slug": "balikesir-universitesi",
+  "kind": "regulation",
+  "label": "oldest version available",
+  "path": "regulation/balikesir-universitesi/2013/18833",
+  "published": "2013-09-12",
+  "source": "https://www.mevzuat.gov.tr/anasayfa/MevzuatFihristDetayIframe?MevzuatTur=8&MevzuatNo=18833&MevzuatTertip=5",
+  "source_bytes": 30709,
+  "source_id": "8.5.18833",
+  "source_sha256": "69c744901b7608e588d114126f903f4cd6c30b3467e5900e38aff5c58e95a2b3",
+  "text_status": "current-consolidated",
+  "title": "BALIKESİR ÜNİVERSİTESİ TÜRKÇE ÖĞRETİMİ UYGULAMA VE ARAŞTIRMA MERKEZİ YÖNETMELİĞİ",
+  "university_id": 182,
+  "word_count": 1145
+}
