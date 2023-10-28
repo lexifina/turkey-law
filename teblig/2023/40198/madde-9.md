@@ -1,0 +1,3 @@
+Fatura icmallerinin kontrolü
+MADDE 9- (1) EPDK, şirketler tarafından kendisine sunulan ödeme taleplerini başvuru tarihinden itibaren 30 iş günü içerisinde inceler. EPDK’nın ilgili şirketten ilave bilgi ve belge istemesi halinde, bu fıkradaki süre istenen bilgi ve belgelerin sunulmasından itibaren başlar.
+(2) Yapılan incelemelerde eksik, hatalı, yanıltıcı, usulüne uygun olmayan ve kapsam harici bir başvurunun yapıldığının tespit edilmesi durumunda, aykırılıkların 15 iş günü içerisinde giderilmesi ilgili Şirketten istenir. 15 iş günü içerisinde söz konusu aykırılıklar giderilmezse, ilgili ödeme talebi dikkate alınmaz.

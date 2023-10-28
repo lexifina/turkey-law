@@ -1,0 +1,2 @@
+Haksız ödeme tutarları
+MADDE 12- (1) Bildirilen fazla veya haksız ödeme tutarı, ödemenin yapıldığı tarih ile geri alındığı tarih arasında geçen süreye 21/7/1953 tarihli ve 6183 sayılı Amme Alacaklarının Tahsil Usulü Hakkında Kanunun 51 inci maddesine göre belirlenen gecikme zammı oranı dikkate alınarak hesaplanan tutar da dahil edilmek suretiyle, ilgili şirketlerden 30 gün içinde geri alınır. Bu süre içerisinde geri ödeme gerçekleştirilmezse alacak, ilgili şirketin mükellefi bulunduğu vergi dairesine bildirilir ve vergi dairesince takip ve tahsilatı gerçekleştirilir.
