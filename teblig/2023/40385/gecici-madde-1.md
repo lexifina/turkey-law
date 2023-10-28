@@ -1,0 +1,2 @@
+Uyum zorunluluğu
+GEÇİCİ MADDE 1- (1) Halen faaliyet gösteren ve bu Tebliğ kapsamında resmî kontroller için gıdalarda analiz yapan kurum ve kuruluşlar 1/6/2024 tarihine kadar bu Tebliğ hükümlerine uyum sağlamak zorundadır. Bu Tebliğ hükümlerine uyum sağlayıncaya kadar, 8 inci madde ile yürürlükten kaldırılan Türk Gıda Kodeksi Zeytinyağı ve Pirina Yağı Analiz Metotları Tebliği (Tebliğ No: 2014/53) hükümlerinin uygulanmasına devam olunur.
