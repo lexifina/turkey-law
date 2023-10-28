@@ -1,0 +1,8 @@
+Hastaların taburcu edilebilecekleri en yüksek radyoaktivite düzeyleri
+Madde 31 - (Değişik:RG-29/9/2004-25598)
+131 radyoaktif maddesi verilen hastaların taburcu edilebilmesi için aşağıdaki hususlara uyulur:
+a) 800 MBq'in üstünde I - 131 radyoaktif maddesi verilen hastalar vücuttaki radyoaktivite miktarının 600 MBq'in ve hastadan 1 metre uzaktaki doz hızının 30 µSv/saat'in altına düşünceye kadar Kurum tarafından sıvı atık sistemi ve oda projesi uygun bulunan izolasyonlu ayrı bir odada bekletildikten sonra (e) bendi koşulları sağlanmak suretiyle taburcu edilir.
+b) 800 MBq'e kadar I - 131 radyoaktif maddesi verilen hastaların vücuttaki radyoaktivite miktarı 600 MBq'in ve hastadan 1 metre uzaktaki doz hızı 30 µSv/saat'in altına düşünceye ayrı bir odada bekletildikten sonra (e) bendi koşulları sağlanmak suretiyle taburcu edilir.
+c) 600 MBq'e kadar aktivite verilen hastalar (e) bendi koşulları sağlanmak suretiyle taburcu edilir.
+d) Hastaya verilecek yukarda belirtilen talimatlar hastada kalan radyoaktivite miktarı ve hastanın fiziksel, sosyoekonomik ve yaşam koşulları göz önüne alınarak her hasta için özel olarak belirlenir. Hastanın özel koşulları değerlendirildikten sonra Ek-V'de verilen I-131 ile tedavi gören hastaların taburcu edilme koşullarına uymak ve hastaya, diğer kişilerle temasları ve (Değişik ibare:RG-3/6/2010-27600) radyasyondan korunma ile ilgili alınacak önlemler Ek-VI'da verilen format doğrultusunda sözlü ve yazılı talimatlar şeklinde imza karşılığı verilmek şartıyla taburcu edilir.
+e) Hasta bilgilerinin, hastalara verilen aktivite miktarının, taburcu edilen hastada kalan aktivite miktarının ve hastadan 1 m mesafedeki doz hızının saati ve tarihi belirtilecek şekilde kayıtları tutulur.

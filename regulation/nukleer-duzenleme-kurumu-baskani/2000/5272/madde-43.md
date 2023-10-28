@@ -1,0 +1,2 @@
+Tehlike durumu veya kazaya ilişkin rapor
+Madde 43 - Tehlike durumu veya kaza sona erdikten sonra, kazanın oluş şekli radyasyon görevlilerinin ve diğer kişilerin maruz kaldıkları radyasyon dozları ve radyoaktif maddelerin vücuda alınış şekli ve nedeni, lisans sahibi veya lisans sahibi tarafından görevlendirilecek kişi tarafından araştırılarak, radyasyon görevlilerinin film ve/veya TLD dozimetre ve gerekirse kromozom aberasyonu test sonuçları ile birlikte, sonuç bir raporla en kısa zamanda Kuruma bildirilir.

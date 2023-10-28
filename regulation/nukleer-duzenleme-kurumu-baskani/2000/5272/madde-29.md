@@ -1,0 +1,2 @@
+Araştırma amaçlı tıbbi ışınlanmalar
+Madde 29 - Kişiye net bir yarar sağlamayan, alacakları doz ve risk hakkında kişilerin bilgilendirildiği, kişilerin ve Etik Komite'nin yazılı onayı alınmış araştırma amaçlı gönüllü ışınlanmalarda, halk için bir yıllık en yüksek izin verilen doz düzeyi aşılamaz. Çok özel durumlarda Kurum tarafından onaylanmak koşuluyla radyasyasyon görevlileri için izin verilen ortalama yıllık doz düzeyine izin verilebilir.

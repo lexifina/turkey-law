@@ -1,0 +1,3 @@
+Özel durumlar için planlanan ışınlanmalar
+Madde 11 - Normal uygulamalarda ortaya çıkan ve yıllık doz sınırları üzerinde etkin doza maruz kalmayı gerektiren, fakat ışınlanmanın dışında başka yöntemlerin bulunmadığı özel durumlarda Kurum'un izniyle yapılan ışınlanmalardır. Özel durumlarda ışınlamaya maruz kalacak radyasyon görevlileri için doz sınırları herhangi bir yılda 50 mSv'i, birbirini takip eden 10 yıl içinde ortalama yıllık 20 mSv'i ve toplamda 100 mSv'i geçemez.
+Yıllık etkin dozun beş katından fazla radyasyon dozu almış radyasyon görevlileri ile çocuk doğurma çağındaki radyasyon görevlileri özel bir durum için planlanmış ışınlanmalarda görevlendirilemezler.
