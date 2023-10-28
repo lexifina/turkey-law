@@ -1,0 +1,21 @@
+Tanımlar
+MADDE 4- (1) Bu Yönetmelikte geçen;
+a) Açık kaynak: Radyasyon uygulamalarında kullanılmak üzere üretilmiş, kapalı kaynak formunda olmayan katı, sıvı, gaz, aerosol veya toz hâlindeki radyoaktif maddeyi,
+b) Bildirim: Bu Yönetmelik kapsamındaki faaliyetler ile bu faaliyetlere yönelik onaya, yetkilendirmeye ve muafiyete ilişkin Kuruma yapılan her türlü yazılı beyanı,
+c) Dereceli yaklaşım: Radyasyon tesislerinde ve radyasyon uygulamalarında gerçekleştirilen faaliyetlerin güvenlik ve emniyet açısından önemi, karmaşıklığı ve oluşabilecek risklerin boyutu ile doğru orantılı ayrıntıda dokümante edilmesini, yürütülmesini, yönetilmesini ve düzenleyici kontrolünü,
+ç) Işınlanma: Radyasyona maruz kalma durumunu,
+d) Kapalı kaynak: Radyasyon uygulamalarında kullanılmak üzere üretilmiş, normal çalışma koşullarında ve olası radyasyon acil durumlarında dağılma, saçılma ve sızıntıya karşı bir kapsül içerisine kapatılmış veya kaplama malzemesi ile kaplanmış radyoaktif maddeyi,
+e) Kurum: Nükleer Düzenleme Kurumunu,
+f) Radyasyon alanı: Planlanmış ışınlanmalar nedeniyle halk için belirlenen yıllık doz sınırlarının üzerinde ışınlanma olasılığı olan alanı,
+g) Radyasyon güvenliği: Radyasyon tesislerinin işletilmesi ve radyasyon uygulamalarının yürütülmesi sırasında çalışanların, halkın, çevrenin ve gelecek nesillerin radyasyondan korunmasını sağlamak üzere uygun şartların oluşturularak sürdürülmesini, kazaların önlenmesini veya kaza sonuçlarının hafifletilmesini,
+ğ) Radyasyon kaynağı: Radyasyon üreten veya yayan cihazlar ile radyoaktif kaynakları,
+h) Radyasyon tesisi: Radyasyon kaynaklarının üretilmesi, kullanılması, bulundurulması veya bakımı ve onarımının yapılması amacıyla özel olarak tasarlanmış tesisi,
+ı) Radyasyon uygulamaları: Radyasyon kaynaklarının üretilmesi, kullanılması, bulundurulması, bakımı ve onarımı ile radyoaktif kaynakların ihracatı, ithalatı ve taşınması faaliyetlerini,
+i) Radyasyondan korunma sorumlusu: Radyasyon tesisinin veya radyasyon uygulamasının türüne göre Kurum tarafından belirlenmiş nitelikleri taşıyan, yetkilendirilen kişi veya yetkilendirilmek üzere başvuran kişi tarafından yükümlülüklerinin yerine getirilmesini teminen görevlendirilen ve yetkilendirilen kişiye verilen yetki kapsamında Kurum tarafından uygun bulunan gerçek kişiyi,
+j) Radyasyonla çalışan: Radyasyon tesisi ve radyasyon uygulamasındaki görevi gereği halk için belirlenen doz sınırlarının üzerinde ışınlanma olasılığı olan gerçek kişiyi,
+k) Radyoaktif kaynak: İçeriğindeki radyoaktif maddeden faydalanılarak radyasyon uygulamalarında kullanılmak üzere üretilen açık veya kapalı kaynakları,
+l) Radyoaktif madde: Nükleer madde, radyoaktif kaynak ve radyoaktif atıklar da dâhil olmak üzere, çekirdekleri kendiliğinden bozunmaya uğrayarak radyasyon yayan izotop veya izotopları içeren maddeleri,
+m) Yetkilendirilen kişi: Bu Yönetmelik kapsamındaki bir faaliyetin yürütülmesi için Kurum tarafından kendisine lisans veya izin verilen gerçek veya tüzel kişiyi,
+n) Yetkilendirme: Radyasyon tesisleri ve radyasyon uygulamalarına ilişkin faaliyetlerin yürütülmesi için yapılan başvurunun yeterli ve uygun bulunması sonucunda gerçek veya tüzel kişilere Kurum tarafından lisans veya izin verilmesi işlemini,
+o) Yüksek aktiviteli kapalı kaynak: Aktivite seviyesi EK-3’te belirtilen D değerlerine eşit veya daha yüksek değerlerde olan kapalı kaynakları,
+ifade eder.

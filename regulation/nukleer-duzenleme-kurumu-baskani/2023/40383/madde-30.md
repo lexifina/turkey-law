@@ -1,0 +1,5 @@
+Radyoaktif kaynakların emniyeti
+MADDE 30- (1) Yetkilendirilen kişi radyoaktif kaynağın emniyetini sağlamak üzere; radyoaktif kaynağa erişimi kısıtlayacak veya radyoaktif kaynağın bulunduğu alanlara görevli personel dışındaki girişleri engelleyecek şekilde, gerekli kilit mekanizmalarının, izleme ve iletişim sistemlerinin temin edilmesini ve gerekirse buna yönelik personel görevlendirilmesini de içeren uygun tedbirlerin alınmasını sağlar.
+(2) Yetkilendirilen kişi; radyoaktif kaynaklara yetkisiz erişim, çalınma veya kaybolma gibi durumlarda radyoaktif kaynağın aranmasına ve emniyetinin sağlanmasına yönelik gerekli çalışmaları derhâl yerine getirir ve Kuruma bildirim yapar. Duruma ve gelişmelere ilişkin raporu en geç üç ay içerisinde Kuruma sunar.
+(3) Yetkilendirilen kişi, radyoaktif kaynakların emniyetine ilişkin gerekli hâllerde ilgili kamu kurum ve kuruluşlarına bildirimde bulunur ve bu kamu kurum ve kuruluşlarıyla iş birliği yapar.
+(4) Radyasyon tesislerinin ve radyoaktif maddelerin emniyetine ilişkin hususlarda ilgili yönetmelikte yer alan hükümler uygulanır.

@@ -1,0 +1,34 @@
+{
+  "source_id": "7.5.40383",
+  "kind": "regulation",
+  "register_kind": "Kurum ve Kuruluş Yönetmelikleri",
+  "title": "RADYASYON TESİSLERİNE VE RADYASYON UYGULAMALARINA İLİŞKİN YETKİLENDİRMELER YÖNETMELİĞİ",
+  "number": "40383",
+  "issuer": "Nükleer Düzenleme Kurumu Başkanı",
+  "issuer_slug": "nukleer-duzenleme-kurumu-baskani",
+  "path": "regulation/nukleer-duzenleme-kurumu-baskani/2023/40383",
+  "source": "https://www.mevzuat.gov.tr/anasayfa/MevzuatFihristDetayIframe?MevzuatTur=7&MevzuatNo=40383&MevzuatTertip=5",
+  "source_sha256": "4774d4fa3835c8c5f917977e17d7134c44573521e3f9ec4994c75d7e4a0f2204",
+  "source_bytes": 107226,
+  "published": "2023-10-28",
+  "gazette": "32353",
+  "in_force": "2023-10-28",
+  "in_force_basis": "Resmî Gazete publication date in the official listing (28.10.2023); own commencement article: \"Bu Yönetmelik yayımı tarihinde yürürlüğe girer\"",
+  "commencement_clauses": [
+    "Bu Yönetmelik yayımı tarihinde yürürlüğe girer"
+  ],
+  "history": "current-text",
+  "label": "oldest version available",
+  "checked_on": "2026-11-15",
+  "word_count": 6310,
+  "text_status": "current-consolidated",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  },
+  "source_links": [
+    "7.5.40383-Ek.docx"
+  ],
+  "completeness": "html-text-complete; linked annexes not fetched"
+}
