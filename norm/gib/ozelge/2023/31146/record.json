@@ -1,0 +1,22 @@
+{
+  "kind": "norm",
+  "issuer": "Gelir İdaresi Başkanlığı",
+  "document_type": "ozelge",
+  "number": "41931384-130[17-2018-10]-62377",
+  "source_id": 31146,
+  "date": "2023-10-30",
+  "title": "Organize Sanayi Bölgesinde yapılan işyerlerinin işyeri yapı kooperatifince üyelerine tesliminde KDV istisnası",
+  "source": "https://gib.gov.tr/mevzuat/kanun/436/ozelge/31146",
+  "related_law": "3065 sayılı KATMA DEĞER VERGİSİ KANUNU",
+  "source_api": "https://gib.gov.tr/api/gibportal/mevzuat/ozelge/list",
+  "source_listing": "evidence/list/2026-11-16/ozelge-p005.json",
+  "source_listing_sha256": "bc82c6c09764a8d83c3906db12d34a67d7f592d6e631568c06d506072b5840cf",
+  "source_sha256": "789a3cc1e283eb34a347359dcab1a0987643c05d982cc4320fcfe12691e32517",
+  "text_status": "as-enacted",
+  "text_file": "metin.md",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  }
+}
