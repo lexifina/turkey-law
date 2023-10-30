@@ -1,0 +1,15 @@
+{
+  "number": "K-2023/360504",
+  "award_date": "2023-10-30",
+  "heading_as_published": "30.10.2023 Tarih ve K-2023/360504 Sayılı Hakem Kararı",
+  "issue": "Hakem Karar Dergisi 56 Ekim - Aralık 2023",
+  "source_url": "https://www.sigortatahkim.org/content/CmsFiles/karardrgs56.pdf",
+  "source_sha256": "1d367e6c988c868ee6be5a74d4ee67904b6186bd942b993c44db0376830ff135",
+  "text_status": "metadata-only",
+  "metadata_only_reason": "the two text extractions differ in letters/digits",
+  "source_images": 4,
+  "images_status": "issue contains images; award text taken from the text layer only",
+  "missing_components": [
+    "award text (see official issue PDF)"
+  ]
+}
