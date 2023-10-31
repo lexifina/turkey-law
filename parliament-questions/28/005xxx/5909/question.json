@@ -1,0 +1,21 @@
+{
+  "record_type": "parliament-written-question",
+  "term": 28,
+  "legislative_year": 2,
+  "esas_no": "7/5909",
+  "submitted": "2023-10-31",
+  "submitted_as": "Başkanlığa geliş tarihi",
+  "mp": "Beritan GÜNEŞ ALTIN",
+  "province": "Mardin",
+  "summary": "6 Şubat 2023 tarihinde Kahramanmaraş'ta meydana gelen depremler sonrasında Adıyaman ili Sincik ilçesine bağlı Çükan Mahallesi'nde yaşanan sorunlara ilişkin",
+  "status": "Cevaplandı",
+  "status_as_of": "2026-11-16",
+  "official_record": "https://www.tbmm.gov.tr/Denetim/Yazili-Soru-Onergesi-Detay/ca8ad02d-5c83-4802-bf49-018b89b06834",
+  "source": "https://tbmm.gov.tr/Denetim/YaziliSoruOnergesiTable",
+  "source_form": "https://tbmm.gov.tr/Denetim/Yazili-Soru-Onergeleri",
+  "source_sha256": "3cc20f5483779bbd2c940ac41d9fa55f73378da83c1031926185fc775c57681e",
+  "in_force": "2023-10-31",
+  "in_force_basis": "Date the question reached the Speaker (Başkanlığa geliş tarihi) in the official TBMM written-question record; parliamentary oversight record, not law",
+  "history_type": "metadata",
+  "text_status": "metadata-only: question text, addressee and answers are in the linked official record (PDFs on cdn.tbmm.gov.tr); not transcribed here"
+}
