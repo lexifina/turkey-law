@@ -1,0 +1,75 @@
+Mevzuata aykırı olarak programcı kadrosunda sözleşmeli personel istihdamı
+
+… tarih ve … sayılı ilamın … nci maddesinde; programcı kadrosunda sözleşmeli olarak istihdam edilen … personele ödenen sözleşme ücretleri sonucu oluşan … TL kamu zararının tazminine hükmedilmiştir.
+
+ Bu tazmin hükmüne karşı …’ın Sayıştay Temyiz Kuruluna sunduğu temyiz dilekçesi ve duruşmada esnasındaki sözlü açıklamaları üzerine Kurulca düzenlenen … tarih ve … tutanak numaralı Kararın … inci maddesinde;
+
+… sayılı ilamın … nci maddesi ile verilmiş … TL tutarındaki tazmin hükmünün bozulmasına, … konu hakkında yeniden hüküm tesisini teminen dosyanın Dairemize tevdiine karar verilmiştir.
+
+… tutanak numaralı bozma Kararı uyarınca … tarihli ek rapor düzenlenmiştir. Anılan ek rapor ile eklerinin, 6085 sayılı Sayıştay Kanununun 55 inci maddesinin yedinci fıkrası hükmü gereğince görüşülmesi sonucu düzenlenen … tarih ve … sayılı ek ilamın … inci maddesinde ise konunun, … tarih ve … tutanak numaralı Temyiz Kurulu Kararı doğrultusunda, 06.06.1978 tarihli ve 7/15754 sayılı Bakanlar Kurulu Kararı ile yürürlüğe konulan “Sözleşmeli Personel Çalıştırılmasına İlişkin Esaslar” ve 04.07.2009 tarihli ve 27278 sayılı Resmi Gazete’de yayımlanan “Mahalli idareler Personeli Görevde Yükselme ve Unvan Değişikliği Yönetmeliği” hükümleri çerçevesinde yeniden değerlendirilmesi gerektiğine ve bu bağlamda düzenlenecek ek raporun yargılanmasına değin konunun, 6085 sayılı Sayıştay Kanununun 50 nci maddesi uyarınca hüküm dışı bırakılmasına karar verilmiştir.
+
+Anılan hüküm dışı Kararı uyarınca da … tarihli ek rapor düzenlenmiş olup söz konusu ek rapor ve eki belgeler Daire tarafından ilgili mevzuat çerçevesinde değerlendirilmiştir.
+
+23.07.1965 tarih ve 12056 sayılı Resmi Gazete’de yayımlanan 657 sayılı Devlet Memurları Kanununun “İstihdam şekilleri” başlıklı 4 üncü maddesinin (B) fıkrasında sözleşmeli personel; “Kalkınma planı, yıllık program ve iş programlarında yer alan önemli projelerin hazırlanması, gerçekleştirilmesi, işletilmesi ve işlerliği için şart olan, zaruri ve istisnai hallere münhasır olmak üzere özel bir meslek bilgisine ve ihtisasına ihtiyaç gösteren geçici işlerde, Cumhurbaşkanınca belirlenen esas ve usuller çerçevesinde, ihdas edilen pozisyonlarda, mali yılla sınırlı olarak sözleşme ile çalıştırılmasına karar verilen ve işçi sayılmayan kamu hizmeti görevlileridir.” şeklinde tanımlanmış, bu madde uyarınca kamu kurum ve kuruluşlarında çalıştırılacak sözleşmeli personel için geçerli olacak esaslar ise 06.06.1978 tarihli ve 7/15754 sayılı Bakanlar Kurulu Kararı ile yürürlüğe konulan “Sözleşmeli Personel Çalıştırılmasına İlişkin Esaslar” kapsamında belirlenmiştir.
+
+Diğer yandan 13.07.2005 tarih ve 25874 sayılı Resmi Gazete’de yayımlanan 5393 sayılı Belediye Kanununun “Norm kadro ve personel istihdamı” başlıklı 49 uncu maddesinin üçüncü ve beşinci fıkralarında;
+
+“(3) Belediye ve bağlı kuruluşlarında, norm kadroya uygun olarak çevre, sağlık, veterinerlik, teknik, hukuk, ekonomi, bilişim ve iletişim, plânlama, araştırma ve geliştirme, eğitim ve danışmanlık alanlarında avukat, mimar, mühendis, şehir ve bölge plâncısı, çözümleyici ve programcı, tabip, uzman tabip, ebe, hemşire, veteriner, kimyager, teknisyen ve tekniker gibi uzman ve teknik personel yıllık sözleşme ile çalıştırılabilir. Sözleşmeli personel eliyle yürütülen hizmetlere ilişkin boş kadrolara ayrıca atama yapılamaz. Bu personelin, yürütecekleri hizmetler için ihdas edilmiş kadro unvanının gerektirdiği nitelikleri taşımaları şarttır. (…)
+
+(…)
+
+(5) Üçüncü ve dördüncü fıkra hükümleri uyarınca çalıştırılacak personele her ne ad altında olursa olsun sözleşme ücreti dışında herhangi bir ödeme yapılmaz ve ücret mahiyetinde aynî ya da nakdî menfaat temin edilmez. Bu personel hakkında bu Kanunla düzenlenmeyen hususlarda vize şartı aranmaksızın 657 sayılı Devlet Memurları Kanununun 4 üncü maddesinin (B) fıkrasına göre istihdam edilenler hakkındaki hükümler uygulanır. Bu personele ait sözleşme örnekleri sözleşmenin imzalanmasını izleyen 30 gün içinde Çevre ve Şehircilik Bakanlığına gönderilir.(…)” hükümleri yer almaktadır.
+
+Yukarıda yer verilen mevzuat hükümlerine göre kamu kurum ve kuruluşlarında 657 sayılı Kanunun 4 üncü maddesinin (B) fıkrasına göre istihdam edilen sözleşmeli personel; kalkınma planı, yıllık program ve iş programlarında yer alan önemli projelerin hazırlanması, gerçekleştirilmesi, işletilmesi ve işlerliği için şart olan zaruri ve istisnai hallere münhasır olmak üzere özel bir meslek bilgisine ve ihtisasına ihtiyaç gösteren geçici işlerde kadro şartı aranmaksızın çalıştırılmakta, bu şekilde ihdas edilen özellikli pozisyonlarda çalışacak personelin seçimi için de bazı asgari şartlar (eğitim düzeyi, yabancı dil bilgisi gibi) aranmakta olup bu şartlar ile personelin çalışma koşullarına ilişkin sosyal hakları Sözleşmeli Personel Çalıştırılmasına İlişkin Esaslar kapsamında düzenlenmektedir.
+
+Buna karşın 5393 sayılı Kanunun 49 uncu maddesine göre istihdam edilen sözleşmeli personel ise yukarıda bahsedilen sözleşmeli personelden farklılık arz etmektedir. Zira 49 uncu maddede bu personelin çalıştırılacağı kadrolar için kalkınma planı, yıllık program, önemli iş projesi gibi özellik arz eden hususi meslek ve ihtisası gerektiren işlerden bahsedilmeden belediyelerin bilişim, araştırma ve geliştirme, çevre, sağlık, veterinerlik, teknik, hukuk, ekonomi, bilişim, eğitim gibi yerel ve rutin görevlerini yerine getirmek için –bu alanlarda çalışacak memur personeli bulunmadığından veya yeterli gelmediğinden- ihtiyaç duyduğu iş alanlarından bahsedilmektedir.
+
+Yine söz konusu 49 uncu maddenin üçüncü fıkrasında; sözleşmeli personel eliyle yürütülen hizmetlere ilişkin boş kadrolara ayrıca atama yapılmayacağı ve bu personelin ihdas edilmiş kadro unvanının gerektirdiği nitelikleri taşımaları gerektiği belirtilmiştir.
+
+Bu itibarla; tam zamanlı sözleşmeli olarak belediyelerde istihdam edilecek personelde aranacak nitelikler, 5393 sayılı Kanunun 49 uncu maddesinin üçüncü fıkrasında yer alan “Bu personelin, yürütecekleri hizmetler için ihdas edilmiş kadro unvanının gerektirdiği nitelikleri taşımaları şarttır.(...)” hükmü ile düzenlenmiş olduğundan belediyelerde istihdam edilecek sözleşmeli personelin nitelikleri hususunda, “Sözleşmeli Personel Çalıştırılmasına İlişkin Esaslar” yerine, memur personelin unvan değişikliğine ilişkin olarak yapılmış mevzuat düzenlemelerine bakılması gerekmektedir. Sözleşmeli personel istihdamına ilişkin olarak 5393 sayılı Kanunda düzenleme yapılmamış bulunan; gündelik, çalışma saatleri, izin gibi mali ve sosyal hakları bakımından ise 49 uncu maddenin beşinci fıkrası uyarınca Sözleşmeli Personel Çalıştırılmasına İlişkin Esaslarda yer verilen hükümlerin esas alınması gerekmektedir.
+
+Somut olayda programcı kadrosu karşılığında sözleşmeli personel istihdam edildiğinden ilgili yılda yürürlükte bulunan, 04.07.2009 tarih ve 27278 sayılı Resmi Gazete’de yayımlanmış Mahalli İdareler Personelinin Görevde Yükselme ve Unvan Değişikliği Esaslarına Dair Yönetmeliğin “Unvan değişikliği suretiyle atanacaklarda aranacak özel şartlar” başlıklı 9 uncu maddesinin irdelenmesi gerekmekte olup anılan maddede;
+
+“Unvan değişikliği suretiyle atanacaklarda aşağıdaki özel şartlar aranır.
+
+(…)
+
+f) Programcı kadrosuna atanabilmek için;
+
+1) Bilgisayar programcılığı alanında en az iki yıllık yüksek okul mezunu olmak,
+
+2) En az iki programlama dilini bildiğini belgelemek, (…)” hükmü yer almaktadır.
+
+Söz konusu mevzuat hükmüne göre programcı kadrosuna atanabilmek için bilgisayar programcılığı alanında en az iki yıllık yüksek okul mezunu olunması gerektiği anlaşılmaktadır. Hal böyle iken 5393 sayılı Kanunun 49 uncu maddesinin üçüncü fıkrası gereğince programcı kadrosunda istihdam edilecek sözleşmeli personelin de anılan öğrenim şartını sağlaması gerekmektedir.
+
+Aksi değerlendirildiğinde, bir başka deyişle 657 sayılı Kanunun 4 üncü maddesinin (B) fıkrasına göre ihdas edilen programcı pozisyonunda istihdam edilecek sözleşmeli personel için Sözleşmeli Personel Çalıştırılmasına İlişkin Esaslara ekli 4 sayılı “Sözleşmeli Personel Pozisyon Unvanları ile Asgari Nitelikleri Gösterir Cetvel” uyarınca aranacak “en az D düzeyinde YDS veya dengi yabancı dil bilgisine sahip olmak” şartının, belediyelerin programcı kadrosunda istihdam edilecek sözleşmeli personel için de aranması halinde aynı kadroda istihdam edilen memur ve sözleşmeli personel için eşitsizlik ortaya çıkacaktır. Ek olarak uygulamada, belediyeler tarafından Sözleşmeli Personel Çalıştırılmasına İlişkin Esaslara ekli 4 sayılı cetvelde bulunmayan ancak ilgili Bakanlıkça belirlenmiş olan bazı unvanlarda da (ekonomist, çözümleyici, eğitmen gibi) sözleşmeli personel istihdam edildiği gözetildiğinde ilgililerin istihdam edilebilme şartlarının düzenlendiği mevzuatın, Mahalli İdareler Personelinin Görevde Yükselme ve Unvan Değişikliği Esaslarına Dair Yönetmelik olduğu açıklık kazanmaktadır.
+
+Ancak yapılan incelemede ilama esas raporda ahiz olarak belirtilen … sözleşmeli personelden, … personelin mesleki veya teknik eğitim sonucu ihraz edilen bilgisayar programcılığı unvanı için aranan, bilgisayar programcılığı alanında en az iki yıllık yüksekokul mezunu olma şartını sağlamadığı tespit edilmiştir.
+
+Sorumluların savunmaları ve temyiz dilekçelerinde sözleşmeli personelin çalışmak suretiyle kendi yükümlülüğünü yerine getirdiği ve bunun karşılığında ücretini aldığı dolayısıyla 5018 sayılı Kanunun 71 inci maddesi kapsamında kamu kaynağında herhangi bir eksilmeye neden olunmadığından kamu zararına sebebiyet verilmediği iddia edilmişse de 10.12.2003 tarihli ve 5018 sayılı Kamu Mali Yönetimi ve Kontrol Kanununun “Kamu zararı” başlıklı 71 inci maddesinde kamu zararı; “kamu görevlilerinin kasıt, kusur veya ihmallerinden kaynaklanan mevzuata aykırı karar, işlem veya eylemleri sonucunda kamu kaynağında artışa engel veya eksilmeye neden olunması” şeklinde tanımlanmıştır.
+
+Anılan maddeye göre kamu zararının oluşabilmesi için kamu görevlilerinin kasıt, kusur veya ihmallerinden kaynaklanan mevzuata aykırı karar, eylem ve işlemin bulunması; kamu kaynağında artışa engel veya eksilmeye neden olacak bir zararın ortaya çıkması ile mevzuata aykırı işlem ve zarar arasında illiyet bağı olması şartlarının bir arada gerçekleşmesi gerekmektedir.
+
+Somut olayda programcı kadrosunda istihdam edilen sözleşmeli personele mevzuatta belirtilen öğrenim şartını haiz olmamasına rağmen programcı kadrosu için belirlenen sözleşme ücretinin ödenmesi suretiyle kamu kaynağında eksilmeye neden olunmuştur. Zira mevzuat hükümlerinde hangi şartları haiz ilgililerin istihdam edilebileceğinin düzenlenmesi ile sunulacak hizmetin kriterleri belirlenmiş olduğundan bahse konu kriterleri ihtiva etmeyen istihdamlara istinaden yapılan ödemelerin, açık hata kapsamında değerlendirilmesi ve kamu kaynağında meydana gelen eksilme olarak kabul edilmesi gerekmektedir. Kamu kaynağının eksilmesi ise sözleşmeli personelin istihdamına dayanak teşkil eden sözleşmelerin imzalanması ve ilgililere programcı kadrosu için belirlenen sözleşme ücretlerinin ödenmesi işlemlerinden kaynaklandığından illiyet bağı da kurulmuş olmaktadır.
+
+Bu itibarla, ahizlerin işlem ve eylemlerinden ayrıksı olarak mali anlamda sorumlu olabilecek kamu görevlilerinin kusurlu işlem ve eylemlerini esas alan 5018 sayılı Kanunun 71 inci maddesi uyarınca somut olayda kamu zararı meydana gelmiştir.
+
+Oluşan kamu zararında personel ile İdare arasında imzalanan sözleşmelerde imzası bulunan Üst Yönetici … ile 5018 sayılı Kanunun 32 ve 33 üncü maddeleri gereğince ödeme emri ve eki belgelerinde imzası bulunan harcama yetkilisi ve gerçekleştirme görevlilerinin sorumluluğu bulunmaktadır.
+
+Bu itibarla, sorgu konusu edilen ve programcı kadrosunda sözleşmeli personel olarak istihdam edilen … personel için … yılı hesap döneminde ödenen toplam … TL sözleşme ücretinin;
+
+Bilgisayar programcılığı alanında en az iki yıllık yüksek okul mezunu olma şartını haiz … personel için ödenen …TL’lik kısmı ile ilgili iş ve işlemlerin mevzuatına uygun olduğuna ve bu tutarla ilgili ilişilecek husus bulunmadığına,
+
+Programcılık kadrosunda sözleşmeli personel olarak istihdam edilen ve öğrenim şartını sağlamadıkları anlaşılan personele ödeme yapılması sonucu sebebiyet verilen … TL tutarında kamu zararının,
+
+… TL’sinin Üst Yönetici … ile Harcama Yetkilileri …, …, …, … ve Gerçekleştirme Görevlisi …’a
+
+müştereken ve müteselsilen, 6085 sayılı Sayıştay Kanununun 53 üncü maddesi gereği işleyecek faiziyle birlikte ödettirilmesine, anılan Kanunun 55 inci maddesi uyarınca ilamın tebliğ tarihinden itibaren altmış gün içerisinde Sayıştay Temyiz Kurulu nezdinde temyiz yolu açık olmak üzere oy çokluğuyla,
+
+Azınlık Görüşü:
+
+Daire Başkanı …’ın karşı oy gerekçesi:
+
+“Raporda; …’de 5393 sayılı Belediye Kanununun 49 uncu maddesi hükmü gereği sözleşmeli olarak istihdam edilen ve 7/15754 sayılı Bakanlar Kurulu Kararı eki Sözleşmeli Personel Çalıştırılmasına İlişkin Esaslara ekli 4 sayılı Cetvelde Programcı kadrosu için gerekli şartlardan, “en az D düzeyinde KPDS veya dengi yabancı dil bilgisine sahip olmak” şartını sağlayamayan … personelden … personelin aynı zamanda Mahalli İdareler Personeli Görevde Yükselme ve Unvan Değişikliği Yönetmeliğinde belirtilen programcı kadrosu için gerekli olan mezuniyet şartını da sağlamadığı, ancak Mahalli İdareler Personeli Görevde Yükselme ve Unvan Değişikliği Yönetmeliğinin, 657 sayılı Devlet Memurları Kanunu hükümlerine tabi olarak görev yapan personelden unvan değişikliği suretiyle atanacaklar için uygulanabileceği, bu nedenle sözleşmeli personel istihdamında, Sözleşmeli Personel Çalıştırılmasına İlişkin Esasların uygulanmasının yerinde olduğu belirtilmiş olmakla birlikte, … değerlendirilmiştir.
+
+Söz konusu personelin durumunun, 7/15754 sayılı Bakanlar Kurulu Kararı eki Sözleşmeli Personel Çalıştırılmasına İlişkin Esaslar ve Mahalli İdareler Personeli Görevde Yükselme ve Unvan Değişikliği Yönetmeliği’ne göre değerlendirildiğinde; personelin gerek öğrenim şartı yönüyle gerekse de yabancı dil yönüyle aranan şartları sağlayamadığı konusunda kuşku yoktur. Ayrıca, sözleşmenin tarafı olan … bu Sözleşme kapsamında sözleşmenin diğer tarafı olan personelden almayı taahhüt ettiği hizmeti tam olarak alamadığı, aldığı hizmetin bedelinden fazla ödeme yaptığı ve bu sebeple 5018 sayılı Kamu Mali Yönetimi ve Kontrol Kanununun “Kamu zararı” başlıklı 71 inci maddesinin ikinci fıkrasının (a) bendi kapsamında kamu zararı oluştuğu hususunda da bir tereddüt bulunmamaktadır. Ancak bu aykırılığın/eksikliğin sözleşmeye göre ilgili personele yapılacak ödemenin ne kadarına tekabül ettiği/ bu hizmet eksikliği nedeniyle ne kadar bir kamu zararı oluştuğunu hesaplamak da mümkün değildir. Dolayısıyla, belirli veya belirlenebilir bir zararın olmadığı bu gibi durumlarda, 6085 sayılı Sayıştay Kanununun “Hüküm ve tutanaklar” başlıklı 50 nci maddesinin birinci fıkrasına göre gerektiğinde konunun ilgili mercilere bildirilmesine karar verilmesi gerektiğinden, mevzuata aykırı personel çalıştırılmasına sebep olan kamu görevlileri hakkında ceza/disiplin hükümlerinin uygulanması için, konunun …’na yazılması gerekir.”
