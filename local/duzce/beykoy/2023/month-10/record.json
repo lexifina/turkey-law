@@ -1,0 +1,28 @@
+{
+  "number": "month-10",
+  "year": 2023,
+  "month": 10,
+  "title": "BEYKÖY BELEDİYESİ - 2023 YILI EKİM AYI 1.BİRLEŞİM MECLİS KARAR ÖZETİ.",
+  "decision_date": null,
+  "index_date": "2023-10-31",
+  "date_precision": "month",
+  "period": "Ekim 2023",
+  "source": "https://www.beykoy.bel.tr/karar/beykoy-belediyesi-2023-yili-ekim-ayi-1-birlesim-meclis-karar-ozeti",
+  "official_page": "https://www.beykoy.bel.tr/karar/beykoy-belediyesi-2023-yili-ekim-ayi-1-birlesim-meclis-karar-ozeti",
+  "official_document": "https://www.beykoy.bel.tr/tema/genel/uploads/meclis_kararlari/dosya/EKİM-WEB-1.docx",
+  "source_sha256": "4ffff5680d27248eddf0ba043051980b77d053c3a145e0c42879213ab9a7f3b5",
+  "issuer": "Beyköy Belediye Meclisi",
+  "history_type": "metadata",
+  "text_status": "metadata-only: listing fields as published; the decisions are in the linked official document(s) or page, not transcribed",
+  "in_force": "2023-10-31",
+  "in_force_basis": "The official listing gives only the month of this official file (Ekim 2023); date set to the last day of that month (turkey-law date convention for month-only sources); exact adoption dates are in the linked official document; legal commencement not asserted",
+  "missing": [
+    "decision numbers, dates and subjects",
+    "complete official decision text",
+    "official annexes"
+  ],
+  "law_text_complete": false,
+  "privacy_withheld": false,
+  "listing_label": "BEYKÖY BELEDİYESİ - 2023 YILI EKİM AYI 1.BİRLEŞİM MECLİS KARAR ÖZETİ.",
+  "record_scope": "one official file of council decisions (meeting or month)"
+}
