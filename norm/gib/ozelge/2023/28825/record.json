@@ -1,0 +1,22 @@
+{
+  "kind": "norm",
+  "issuer": "Gelir İdaresi Başkanlığı",
+  "document_type": "ozelge",
+  "number": "16432732-130[13-2023-38]-63138",
+  "source_id": 28825,
+  "date": "2023-11-01",
+  "title": "Katamaran Tesliminde KDV istisnası",
+  "source": "https://gib.gov.tr/mevzuat/kanun/436/ozelge/28825",
+  "related_law": "3065 sayılı KATMA DEĞER VERGİSİ KANUNU",
+  "source_api": "https://gib.gov.tr/api/gibportal/mevzuat/ozelge/list",
+  "source_listing": "evidence/list/2026-11-16/ozelge-p004.json",
+  "source_listing_sha256": "f3b82278308562f88be46cc93b2ac53a1050d59c304474af958f8b7377f5bef9",
+  "source_sha256": "873bd797f9cfe565ca62bfeb7983e1b779169ab7f7ac7a40edfa2c86a550be3b",
+  "text_status": "as-enacted",
+  "text_file": "metin.md",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  }
+}
