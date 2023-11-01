@@ -1,0 +1,22 @@
+{
+  "kind": "norm",
+  "issuer": "Gelir İdaresi Başkanlığı",
+  "document_type": "ozelge",
+  "number": "E-49327596-140.06.01[DV.ÖZ.2023.100]-238098",
+  "source_id": 35995,
+  "date": "2023-11-01",
+  "title": "Pasaport Harcı Muafiyeti Hk.",
+  "source": "https://gib.gov.tr/mevzuat/kanun/439/ozelge/35995",
+  "related_law": "492 sayılı HARÇLAR KANUNU",
+  "source_api": "https://gib.gov.tr/api/gibportal/mevzuat/ozelge/list",
+  "source_listing": "evidence/list/2026-11-16/ozelge-p007.json",
+  "source_listing_sha256": "aedbdf4562ba9127c242d5a565793d0bcd4fd4854c0c6fa4dc4410a5b16508b4",
+  "source_sha256": "76712fe9a196f4c6bfe2f00c45e346899c2144f1cd722f8c2e2ddc78761b5785",
+  "text_status": "as-enacted",
+  "text_file": "metin.md",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  }
+}
