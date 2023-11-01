@@ -1,0 +1,22 @@
+{
+  "kind": "norm",
+  "issuer": "Gelir İdaresi Başkanlığı",
+  "document_type": "ozelge",
+  "number": "27575268-105[236-2023-220]-491777",
+  "source_id": 23518,
+  "date": "2023-11-01",
+  "title": "Mali müşavirin yanında çalışan personelin tedavi harcamalarının serbest meslek kazancının tespitinde indirim konusu yapılıp yapılamayacağı",
+  "source": "https://gib.gov.tr/mevzuat/kanun/433/ozelge/23518",
+  "related_law": "193 sayılı GELİR VERGİSİ KANUNU",
+  "source_api": "https://gib.gov.tr/api/gibportal/mevzuat/ozelge/list",
+  "source_listing": "evidence/list/2026-11-16/ozelge-p001.json",
+  "source_listing_sha256": "e5c572e7d33c4a72997f66e3999bee09f80c627cabe3ea5a6521aa3f8abee01f",
+  "source_sha256": "b8e3318d8f9c5799bed97099a4181875c5acb422c43b55bfd28d7069a8efe1d7",
+  "text_status": "as-enacted",
+  "text_file": "metin.md",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  }
+}
