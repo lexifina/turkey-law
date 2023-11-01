@@ -1,0 +1,24 @@
+{
+  "number": "128",
+  "number_as_published": "128",
+  "year": 2023,
+  "title": "Boran Mahallesi 171 Ada 2 No.Lu Parsel Üzerinde Bulunan “Lokanta İşletmesi”Nin, Boran Mahallesi Kırkgöz Sahil Parkı Projesi İçerisinde Park Alanında Bulunan “Büfe Ve Fırın İşletmesi”Nin, Hatunsuyu Mahallesi 88 No.Lu Parsel Üzerinde Bulunan “Tekstilke",
+  "decision_date": "2023-11-01",
+  "source": "https://www.battalgazi.bel.tr/wp-json/wp/v2/posts?categories=88&per_page=100&page=6&_fields=id,date,link,title,content",
+  "official_document": "https://www.battalgazi.bel.tr/2024/03/27/boran-mahallesi-171-ada-2-no-lu-parsel-uzerinde-bulunan-lokanta-isletmesinin-boran-mahallesi-kirkgoz-sahil-parki-projesi-icerisinde-park-alaninda-bulunan-bufe-ve-firin-isle/",
+  "source_sha256": "9ea1cf08226cbdf964f8315bbb29131440ff01e17c98ea52f3146f2ff1225b33",
+  "issuer": "Battalgazi Belediye Meclisi",
+  "history_type": "metadata",
+  "text_status": "metadata-only: listing fields as published; complete decision text is in the linked official document, not transcribed",
+  "in_force": "2023-11-01",
+  "in_force_basis": "Decision date as printed in the official council listing: 01.11.2023 (Karar Tarihi on the official decision page); adoption date of the council decision; legal commencement not asserted",
+  "missing": [
+    "complete official decision text",
+    "official annexes"
+  ],
+  "law_text_complete": false,
+  "privacy_withheld": false,
+  "official_page": "https://www.battalgazi.bel.tr/2024/03/27/boran-mahallesi-171-ada-2-no-lu-parsel-uzerinde-bulunan-lokanta-isletmesinin-boran-mahallesi-kirkgoz-sahil-parki-projesi-icerisinde-park-alaninda-bulunan-bufe-ve-firin-isle/",
+  "post_date": "2024-03-27T16:31:04",
+  "record_scope": "one council decision (official decision page)"
+}
