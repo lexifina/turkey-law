@@ -1,0 +1,5 @@
+Klinik öncesi uygulama eğitimi ve telafi
+MADDE 22 – (1) Klinik öncesi uygulama eğitimi sırasında yapılması gereken uygulamaların sayısı ve tamamlanması gereken asgari uygulama oranı, ilgili anabilim dalı kurulu tarafından belirlenir ve öğretim yılı başında öğrencilere duyurulur.
+(2) (Değişik:RG-1/11/2023-32356)(1) Klinik öncesi uygulamalarda, öğrenci öğretim yılı içinde belirli sayıda uygulama çalışmasını verilen sürede tamamlayarak teslim etmek zorundadır. Klinik öncesi uygulama eğitimi çalışmasının asgari oranını tamamlayan öğrenci, kalan işlerini telafi süresinde tamamlamak koşuluyla bütünleme sınavına girebilir. Telafi süresi, klinik öncesi uygulama eğitim döneminin sonunda, klinik öncesi uygulama yıl sonu sınavından önce ve/veya klinik öncesi uygulama bütünleme sınavı öncesi verilebilir. Telafi süresinin ne şekilde verileceği ilgili anabilim dalı kurulunca belirlenerek öğretim yılı başında öğrencilere duyurulur.
+(3) (Mülga:RG-1/11/2023-32356)(1)
+(4) Klinik öncesi uygulama eğitimi çalışmasını bütünleme dönemi öncesinde verilen telafi süresinde de tamamlayamayan öğrenci bütünleme sınavına giremez, o dersten başarısız sayılır.

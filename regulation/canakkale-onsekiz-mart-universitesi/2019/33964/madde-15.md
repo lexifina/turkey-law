@@ -1,0 +1,2 @@
+Öğrenci danışmanlığı
+MADDE 15 – (1) Her öğrenci için Yönetim Kurulunca dönem başlamadan önce danışman görevlendirilir. Danışman öğrenciyi izler, eğitim-öğretim çalışmaları ve üniversite yaşamı ile ilgili sorunların çözümünde öğrenciye yardımcı olur. Öğrencinin yarıyılda/yılda izleneceği dersler, programında yapılacak değişiklikler ve kayıt yenileme işlemleri danışman onayı ile kesinleşir. Danışmanların görevleri ile ilgili konular Senato tarafından düzenlenir.
