@@ -1,0 +1,22 @@
+{
+  "kind": "norm",
+  "issuer": "Gelir İdaresi Başkanlığı",
+  "document_type": "ozelge",
+  "number": "E-60938891-120.01.02.04[GVK: 1-2]-40962",
+  "source_id": 21260,
+  "date": "2023-11-01",
+  "title": "Genç Girişimci Kazanç İstisnasının Yurt Dışından Elde edilen Gelirlere Uygulanıp Uygulanmayacağı Hakkında",
+  "source": "https://gib.gov.tr/mevzuat/kanun/433/ozelge/21260",
+  "related_law": "193 sayılı GELİR VERGİSİ KANUNU",
+  "source_api": "https://gib.gov.tr/api/gibportal/mevzuat/ozelge/list",
+  "source_listing": "evidence/list/2026-11-16/ozelge-p000.json",
+  "source_listing_sha256": "5444faf84128246cd8dd8c6db754d41e2a11c7717342bfe0a07a35074d061761",
+  "source_sha256": "dc56365f0da71b352fc3c7fecef5c50d2ae9f896169005726426766a7e55ae43",
+  "text_status": "as-enacted",
+  "text_file": "metin.md",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  }
+}
