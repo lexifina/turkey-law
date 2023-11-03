@@ -1,0 +1,24 @@
+{
+  "number": "168",
+  "number_as_published": "2023/168",
+  "year": 2023,
+  "title": "council decision",
+  "decision_date": "2023-11-03",
+  "source": "https://www.pamukkale.bel.tr/y-694-2023-yili-kasim-ayi-meclis-karar-ozetleri",
+  "official_document": null,
+  "source_sha256": "bbdf45b15185728e7db678ea1ec4f817477d731415a776942defb497837011b5",
+  "issuer": "Pamukkale Belediye Meclisi",
+  "history_type": "metadata",
+  "text_status": "metadata-only: subject appears to concern individual persons; official link only",
+  "in_force": "2023-11-03",
+  "in_force_basis": "Decision date as printed in the official council listing: 03.11.2023; adoption date of the council decision; legal commencement not asserted",
+  "missing": [
+    "complete official decision text",
+    "official annexes"
+  ],
+  "law_text_complete": false,
+  "privacy_withheld": true,
+  "official_page": "https://www.pamukkale.bel.tr/y-694-2023-yili-kasim-ayi-meclis-karar-ozetleri",
+  "listing_label": "2023 YILI KASIM AYI MECLİS KARAR ÖZETLERİ",
+  "record_scope": "one council decision (published decision summary)"
+}
