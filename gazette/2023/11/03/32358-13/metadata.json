@@ -1,0 +1,20 @@
+{
+  "record_type": "gazette-item",
+  "gazette": "Resmî Gazete",
+  "jurisdiction": "TR",
+  "date": "2023-11-03",
+  "issue": "32358",
+  "edition": "regular",
+  "item": 13,
+  "section": "YÜRÜTME VE İDARE BÖLÜMÜ",
+  "heading": "TEBLİĞLER",
+  "title": "İthalatta Korunma Önlemlerine İlişkin Tebliğ (No: 2023/6)",
+  "official_link": "https://www.resmigazete.gov.tr/eskiler/2023/11/20231103-13.htm",
+  "link_format": "htm",
+  "index_url": "https://www.resmigazete.gov.tr/eskiler/2023/11/20231103.htm",
+  "index_sha256": "74787be53bd852be09b5c001d62bf8d4a1ef9a89e8f7f3e4a76c393066e470b2",
+  "index_header": "3 Kasım 2023 ... 32358 Sayılı Resmî Gazete",
+  "issue_pdf": "https://www.resmigazete.gov.tr/eskiler/2023/11/20231103.pdf",
+  "in_force_basis": "Resmî Gazete publication date; not a commencement reading.",
+  "text_status": "metadata-only; text not yet fetched (follow-up pass adds it as its own commit)"
+}
