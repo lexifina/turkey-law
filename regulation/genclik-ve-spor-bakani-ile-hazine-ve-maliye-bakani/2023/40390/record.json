@@ -1,0 +1,31 @@
+{
+  "source_id": "7.5.40390",
+  "kind": "regulation",
+  "register_kind": "Kurum ve Kuruluş Yönetmelikleri",
+  "title": "GENÇLİK VE SPOR BAKANLIĞI BURS YÖNETMELİĞİ",
+  "number": "40390",
+  "issuer": "Gençlik ve Spor Bakanı ile Hazine ve Maliye Bakanı",
+  "issuer_slug": "genclik-ve-spor-bakani-ile-hazine-ve-maliye-bakani",
+  "path": "regulation/genclik-ve-spor-bakani-ile-hazine-ve-maliye-bakani/2023/40390",
+  "source": "https://www.mevzuat.gov.tr/anasayfa/MevzuatFihristDetayIframe?MevzuatTur=7&MevzuatNo=40390&MevzuatTertip=5",
+  "source_sha256": "89e4e0bf6dcddff36f2cb610bcaed270be5756f4256f1df0a80903e31f2b26d5",
+  "source_bytes": 50684,
+  "published": "2023-11-03",
+  "gazette": "32358",
+  "in_force": "2023-11-03",
+  "in_force_basis": "Resmî Gazete publication date in the official listing (03.11.2023); own commencement article: \"Bu Yönetmelik yayımı tarihinde yürürlüğe girer\"",
+  "commencement_clauses": [
+    "Bu Yönetmelik yayımı tarihinde yürürlüğe girer"
+  ],
+  "history": "current-text",
+  "label": "oldest version available",
+  "checked_on": "2026-11-15",
+  "word_count": 2645,
+  "text_status": "current-consolidated",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  },
+  "completeness": "html-text-complete"
+}
