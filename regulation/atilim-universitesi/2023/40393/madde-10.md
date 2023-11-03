@@ -1,0 +1,4 @@
+Yönetim Kurulu
+MADDE 10- (1) Yönetim Kurulu: Rektör veya Rektör tarafından görevlendirilecek Rektör Yardımcısının başkanlığında Tıp Fakültesi Dekanı, Diş Hekimliği Fakültesi Dekanı, Sağlık Bilimleri Fakültesi Dekanı, Sağlık Hizmetleri Meslek Yüksekokulu Müdürü, Müdür ile Rektör tarafından iki yıllık süre için görevlendirilen, Üniversitede tam zamanlı olarak görev yapan uzman tıp doktoru ya da diş hekimi bir öğretim üyesi ile birlikte toplam yedi üyeden oluşur.
+(2) Rektör tarafından görevlendirilen tam zamanlı olarak görev yapan üye, görev süresi sona ermesi durumunda yeniden görevlendirilebilir. Üyeliğin herhangi bir sebeple boşalması halinde boşalan üyenin yerine süresi ile sınırlı olmak üzere aynı usulle yeni üye görevlendirilir.
+(3) Yönetim Kurulu; yılda en az altı kez, üyelerin salt çoğunluğu ile toplanır ve kararlar oy çokluğu ile alınır. Oyların eşitliği halinde Başkanın oyu yönünde karar alınır.
