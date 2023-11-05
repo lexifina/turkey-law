@@ -1,0 +1,3 @@
+Yurt dışından gelen öğrenci kabulü
+MADDE 9- (1) Yabancı uyruklu öğrencilerin yüksek lisans ve doktora programlarına kabulüne ilişkin koşullar Senato tarafından belirlenir ve Enstitü internet sitesinde ilan edilir.
+(2) Senato tarafından belirlenen seviyede Türkçe dil bilgisi seviyesini gösterir belgesi olmayan veya KAR-DİL’de yapılacak Türkçe yeterlik sınavından başarısız olan uluslararası öğrenci adaylardan, Senato tarafından belirlenen seviyede Türkçe dil belgesini bir yıl içerisinde getirmesi istenir. Bu süre sonunda KAR-DİL’den veya YÖK tarafından geçerliliği kabul edilen kurum ve kuruluşlardan Türkçe dil belgesini getirmeyenlerin program ile ilişiği kesilir. Burada geçirilen süre azami süre hesabına katılmaz.

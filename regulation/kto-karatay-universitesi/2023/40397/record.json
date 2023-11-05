@@ -1,0 +1,39 @@
+{
+  "checked_on": "2026-11-14",
+  "commencement_clauses": [
+    "MADDE 51- (1) Bu Yönetmelik yayımı tarihinde yürürlüğe girer."
+  ],
+  "date_evidence": [
+    [
+      "2023-11-05",
+      "05.11.2023",
+      "original gazette publication date in official listing"
+    ]
+  ],
+  "date_quote": "MADDE 51- (1) Bu Yönetmelik yayımı tarihinde yürürlüğe girer.",
+  "first_law": null,
+  "gazette": "32360",
+  "history": "current-text",
+  "images": {
+    "deferred": 0,
+    "omitted": 0,
+    "referenced": 0,
+    "source": 0
+  },
+  "in_force": "2023-11-05",
+  "in_force_basis": "source commencement clause: enters into force on gazette publication",
+  "issuer": "KTO-Karatay Üniversitesi",
+  "issuer_slug": "kto-karatay-universitesi",
+  "kind": "regulation",
+  "label": "oldest version available",
+  "path": "regulation/kto-karatay-universitesi/2023/40397",
+  "published": "2023-11-05",
+  "source": "https://www.mevzuat.gov.tr/anasayfa/MevzuatFihristDetayIframe?MevzuatTur=8&MevzuatNo=40397&MevzuatTertip=5",
+  "source_bytes": 135396,
+  "source_id": "8.5.40397",
+  "source_sha256": "df8ec04dd628faa001e35b6fef330f8fa4b6ed527d1cb16f52fd7cdc145f2356",
+  "text_status": "as-enacted",
+  "title": "KTO-KARATAY ÜNİVERSİTESİ LİSANSÜSTÜ EĞİTİM-ÖĞRETİM VE SINAV YÖNETMELİĞİ",
+  "university_id": 332,
+  "word_count": 6984
+}

@@ -1,0 +1,4 @@
+İlan ve başvuru
+MADDE 6- (1) Lisansüstü programlara başvurular akademik takvimde belirtilen süre içinde ve ilanda istenilen belgelerle çevrimiçi olarak yapılır.
+(2) Belirlenen tarihlerde, istenilen belgeleri eksik olan, başvuru süresi içinde başvurmayan veya Enstitü Yönetim Kurulunca mazereti kabul edilmeyen adaylar kayıt haklarını kaybederler.
+(3) İlanda, mülakat ve/veya yazılı sınav yapılacağı belirtilen lisansüstü programlarda, ilgili anabilim/anasanat dalı başkanlığının görüşü ve Enstitü Yönetim Kurulunun onayı ile başvuruları incelemek, değerlendirmek ve mülakat ve/veya yazılı sınavını yapmak üzere en az üç asıl ve bir yedek öğretim üyesinden oluşan bir komisyon kurulur. Komisyonun kabul ya da ret kararları, Enstitü Yönetim Kurulunun onayı ile kesinleşir ve Enstitü internet sitesinde ilan edilir.

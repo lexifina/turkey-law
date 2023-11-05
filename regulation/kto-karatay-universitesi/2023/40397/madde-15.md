@@ -1,0 +1,8 @@
+Muafiyet işlemleri
+MADDE 15- (1) Öğrencilerin; özel öğrenci statüsünde, ulusal ve uluslararası değişim programlarında ya da herhangi bir lisansüstü programda aldıkları derslerin intibakları, anabilim/anasanat dalı başkanlığının önerisi ve Enstitü Yönetim Kurulu kararı ile kesinlik kazanır.
+(2) Muafiyet işlemleri, yükseköğretim yeterlilikler çerçevesi ilkelerine bağlı olarak gerçekleştirilir. Alt veya üst programlardan alınan dersler, mevcut program dersleri yerine sayılamaz.
+(3) Lisansüstü programlara ilişkin yapılacak ders saydırma işlemlerinde aşağıdaki hususlar uygulanır:
+a) Bir öğrencinin herhangi bir yükseköğretim kurumundan aldığı ve başarmış olduğu lisansüstü derslerden kendi bilim/sanat alanı ile ilgili olanlar; ilgili anabilim/anasanat dalı başkanlığının önerisi ve Enstitüsü Yönetim Kurulunun onayı ile kayıt yaptırdığı programın derslerinden muaf edilebilir.
+b) Bir öğrenci muafiyet işlemlerinin ardından her koşulda seminer dersini almak zorundadır.
+c) Muafiyet verilen derslere, intibakı istenilen dersin bu Yönetmelikteki harf notu karşılığı verilir.
+(4) Öğrencinin kabul edildiği programdaki derslerden hangilerini alacağı ve lisansüstü programa hangi aşamadan itibaren devam edeceği, ilgili anabilim/anasanat dalı başkanlığının önerisi ve Enstitü Yönetim Kurulunun kararı ile belirlenir. Öğrenci, ilgili anabilim/anasanat dalı başkanlığının önerisi doğrultusunda Enstitü Yönetim Kurulunun kararı ile programa intibak ettirilir. Öğrenci geçiş yaptığı lisansüstü programın aktif müfredatından ve alınması gereken ders sayısından sorumludur. Yatay geçiş yapan öğrenciye, geldiği yükseköğretim kurumunda ders yükümlülüğünü tamamlamış olsa dahi yeni dersler verilebilir.

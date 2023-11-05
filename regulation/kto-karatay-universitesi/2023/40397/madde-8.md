@@ -1,0 +1,5 @@
+Kesin kayıt
+MADDE 8- (1) Lisansüstü eğitim-öğretim hakkını kazanan adayların listeleri, Enstitü internet sitesinde ilân edilir. Kayıt yaptırmaya hak kazanan adaylar, ilanda belirtilen yazılı belgeler ile belirtilen süre içerisinde Enstitü Müdürlüğüne şahsen veya noter vekâletnamesine sahip vekilleri aracılığı ile kayıt yaptırabilirler.
+(2) Belirlenen tarihlerde kayıt için şahsen veya noter vekâleti ile yetkilendirdiği kişi aracılığıyla başvurmayan, istenilen belgeleri eksik olan, Enstitü Yönetim Kurulunca mazereti kabul edilmeyen adaylar kayıt haklarını kaybederler.
+(3) Asıl listeden kabul edilen adayların kesin kayıt işlemleri sonunda kontenjanlarda açık olması durumunda, yedek listeden sıra ile kayıt alınır. Yedek listeden kayda hak kazanan adaylar, Enstitü Müdürlüğüne şahsen veya noter vekâletnamesine sahip vekilleri aracılığı ile müracaat ederek kayıt yaptırabilirler.
+(4) Lisansüstü eğitim-öğretim ücretlidir. Programların ücretleri Mütevelli Heyeti tarafından belirlenir. Öğrencilerin yapacakları ödemelere ilişkin bilgiler Enstitü internet sitesinde ilan edilir.

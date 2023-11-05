@@ -1,0 +1,3 @@
+Danışman atanması
+MADDE 40- (1) İlgili anabilim/anasanat dalı başkanlığı, her öğrenci için Üniversite kadrosunda bulunan bir öğretim üyesini danışman olarak Enstitüye önerir. Danışmanın, en geç ikinci yarıyılın sonuna kadar atanması zorunludur. Danışman ataması Enstitü Yönetim Kurulu kararı ile kesinleşir.
+(2) Diş hekimliği, eczacılık, tıp ve veteriner fakülteleri anabilim dalları hariç doktora programlarında öğretim üyelerinin tez yönetebilmesi için, başarıyla tamamlanmış en az bir yüksek lisans tezi yönetmiş olması gerekir. Tez çalışmasının niteliğinin birden fazla tez danışmanı gerektirdiği durumlarda atanacak ikinci tez danışmanı, Üniversite kadrosu dışından da en az doktora derecesine sahip kişilerden olabilir.
