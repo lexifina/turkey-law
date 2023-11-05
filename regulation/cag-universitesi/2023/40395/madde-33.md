@@ -1,0 +1,2 @@
+Proje danışmanı atanması
+MADDE 33- (1) Tezsiz yüksek lisans programlarında ilgili anabilim dalı başkanlığı her öğrenci için, dönem projesinin yürütülmesinde proje danışmanlığı yapmak üzere bir öğretim üyesini veya Senato tarafından belirlenen niteliklere sahip doktora derecesine sahip bir öğretim görevlisini en geç birinci yılın sonuna kadar belirleyerek Enstitü Müdürlüğüne atama yapılmak üzere bildirir.

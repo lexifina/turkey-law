@@ -1,0 +1,3 @@
+Derslere devam zorunluluğu
+MADDE 19- (1) Lisansüstü programlarda kayıtlı öğrencilerin derslere %70 devam zorunluluğu vardır. Dersin devam zorunluluğunu yerine getirmeyen öğrenci o dersten başarısız sayılır. Sağlık kurulu raporları devamsızlığa etki etmez.
+(2) Öğrenciler kayıtlı oldukları ders, uygulama, laboratuvar, proje ve bunların gerektirdiği sınav ve diğer akademik çalışmalara katılmakla yükümlüdür. Öğrencilerin devam durumları ve ders başarı durumuna etkisi, ilgili dersin öğretim elemanı tarafından dönem başında açıklanır ve ders izlencesinde belirtilerek öğrencilere sözlü olarak tebliğ edilir. Öğrencilerin devam durumları, ilgili dersin öğretim elemanları tarafından izlenir ve kayıt altına alınır.

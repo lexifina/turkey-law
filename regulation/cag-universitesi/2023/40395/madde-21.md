@@ -1,0 +1,2 @@
+Tek ders sınavı
+MADDE 21- (1) Öğretim planında yer alan tez dersi dışında tüm dersleri alarak devam koşulunu sağlayan ancak mezuniyeti için başarısız tek dersi kalan öğrenciler, Enstitü Yönetim Kurulu kararı ile yarıyıl sonu sınavlarının bitimini müteakip akademik takvimde ilan edilen tarihte yapılacak tek ders sınavına girebilir. Tek ders sınavında başarılı olamayan öğrencilerin Üniversite ile ilişiği kesilir.
