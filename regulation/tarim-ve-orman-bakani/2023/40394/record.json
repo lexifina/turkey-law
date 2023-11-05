@@ -1,0 +1,34 @@
+{
+  "source_id": "7.5.40394",
+  "kind": "regulation",
+  "register_kind": "Kurum ve Kuruluş Yönetmelikleri",
+  "title": "TÜRK GIDA KODEKSİ BULAŞANLAR YÖNETMELİĞİ",
+  "number": "40394",
+  "issuer": "Tarım ve Orman Bakanı",
+  "issuer_slug": "tarim-ve-orman-bakani",
+  "path": "regulation/tarim-ve-orman-bakani/2023/40394",
+  "source": "https://www.mevzuat.gov.tr/anasayfa/MevzuatFihristDetayIframe?MevzuatTur=7&MevzuatNo=40394&MevzuatTertip=5",
+  "source_sha256": "ddb83b08929743a62f2e7e49dd139d2c1daabfa42ca340b6fdbf0fcbfa31d6c8",
+  "source_bytes": 52785,
+  "published": "2023-11-05",
+  "gazette": "32360",
+  "in_force": "2023-11-05",
+  "in_force_basis": "Resmî Gazete publication date in the official listing (05.11.2023); own commencement article: \"Bu Yönetmelik yayımı tarihinde yürürlüğe girer\"",
+  "commencement_clauses": [
+    "Bu Yönetmelik yayımı tarihinde yürürlüğe girer"
+  ],
+  "history": "current-text",
+  "label": "oldest version available",
+  "checked_on": "2026-11-15",
+  "word_count": 1418,
+  "text_status": "current-consolidated",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  },
+  "source_links": [
+    "7.5.40394-EK.doc"
+  ],
+  "completeness": "html-text-complete; linked annexes not fetched"
+}

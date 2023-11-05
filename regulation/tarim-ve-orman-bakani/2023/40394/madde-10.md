@@ -1,0 +1,6 @@
+Sorumluluklar ve izleme
+MADDE 10- (1) Gıda işletmecileri; Ek-1’de maksimum limit belirlenen gıdaların yanı sıra ulusal ve uluslararası risk değerlendirme otoriteleri tarafından insan sağlığı açısından risk oluşturabileceği değerlendirilmiş olan ve Ek-1’de maksimum limit belirlenmemiş gıdalar veya Ek-1’de yer almayan bulaşanlar için bu riskin kaynağının belirlenmesi, önlenmesi, azaltılması veya ortadan kaldırılması çalışmalarını yapar ve gerekli düzeltici tedbirleri alır.
+(2) Bakanlık, birinci fıkrada belirtilen hususlarda talimat oluşturabilir. Bu talimat oluşturulurken gıda işletmelerinin kapasitelerine göre önceliklendirme yapılabilir.
+(3) Gıda işletmecileri, birinci ve ikinci fıkralar kapsamında yürüttükleri çalışmalara ait kayıtları ve çalışmanın etkinliğini gösteren raporu tutar. Bakanlığın talep etmesi halinde bu dokümanları Bakanlıkla paylaşır. Bakanlık, gerekli hallerde daha ileri tedbirlerin alınmasını sağlar.
+(4) Bakanlık, bu Yönetmelikte belirlenen esaslar hakkında değerlendirmeler yapmak üzere izleme faaliyetleri yürütebilir.
+(5) Bakanlık tarafından gerekli görülmesi halinde bu maddeye ilişkin olarak kılavuzlar hazırlanır. Hazırlanan kılavuzlar Bakanlık resmi internet sitesinde yayımlanır.

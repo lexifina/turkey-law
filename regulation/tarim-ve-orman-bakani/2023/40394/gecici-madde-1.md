@@ -1,0 +1,7 @@
+Geçiş hükümleri
+GEÇİCİ MADDE 1- (1) Bu Yönetmelik kapsamında faaliyet gösteren gıda işletmecileri, dördüncü fıkra saklı kalmak kaydıyla 31/12/2023 tarihine kadar bu Yönetmelik hükümlerine uymak zorundadır.
+(2) Bu Yönetmeliğin yayımı tarihinden önce faaliyet gösteren gıda işletmecileri, bu Yönetmeliğe uyum sağlayana kadar, 14 üncü madde ile yürürlükten kaldırılan Yönetmelik hükümlerine ve bulaşanlar ile ilgili olarak 5996 sayılı Kanun kapsamında yapılan Bakanlık uygulamalarına uymak zorundadır.
+(3) Bu Yönetmeliğin yayımı tarihinden önce faaliyet gösteren gıda işletmecileri tarafından 31/12/2023 tarihinden önce piyasaya arz edilen ürünler dördüncü fıkra hükümleri saklı kalmak kaydıyla 31/12/2024 tarihine kadar piyasada bulunabilir.
+(4) Ek-1’de tarih belirlenmiş maksimum limitler için aşağıdaki hükümler uygulanır:
+a) Tek tarih belirlenmiş olanlarda; belirlenen tarihten önce piyasaya arz edilmiş ve varsa bir önceki maksimum limite, yoksa 14 üncü madde ile yürürlükten kaldırılan Yönetmelik hükümlerine ve bulaşanlar ile ilgili olarak 5996 sayılı Kanun kapsamında yapılan Bakanlık uygulamalarına uygun olan gıdalar belirlenen tarihten itibaren bir yıl sonraki tarihe kadar piyasada bulunabilir.
+b) İki tarih belirlenmiş olanlarda ilk tarih için (a) bendi hükümleri uygulanır, ikinci tarihten önce piyasaya arz edilmiş ve ilk tarih için belirlenmiş maksimum limitlere uygun olan gıdalar ikinci tarihten itibaren bir yıl sonraki tarihe kadar piyasada bulunabilir.
