@@ -1,0 +1,50 @@
+{
+  "annexes": {
+    "links": [
+      {
+        "caption": "Ek-1 Yoga Eğitmeni (Seviye 5) Ulusal Meslek Standardı",
+        "official_href": "9.5.40399-Ek.docx",
+        "status": "pending"
+      }
+    ],
+    "official_html": "https://www.mevzuat.gov.tr/anasayfa/MevzuatFihristDetayIframe?MevzuatTur=9&MevzuatNo=40399&MevzuatTertip=5",
+    "status": "pending"
+  },
+  "checked_on": "2026-11-15",
+  "commencement_quote": "Bu Tebliğ yayımı tarihinde yürürlüğe girer",
+  "date_gazette": "32360",
+  "date_quote": "Bu Tebliğ yayımı tarihinde yürürlüğe girer",
+  "first_law": null,
+  "gazette": "32360",
+  "history": "current-text",
+  "images": {
+    "deferred": 0,
+    "omitted": 0,
+    "referenced": 0,
+    "source": 0
+  },
+  "in_force": "2023-11-05",
+  "in_force_basis": "Own commencement clause: Bu Tebliğ yayımı tarihinde yürürlüğe girer",
+  "issuer": "Çalışma ve Sosyal Güvenlik Bakanlığı",
+  "issuer_catalog_evidence": [
+    {
+      "evidence": "issuer-105-0.json",
+      "id": "105",
+      "label": "Çalışma ve Sosyal Güvenlik Bakanlığı",
+      "listing_url": "https://www.mevzuat.gov.tr/Anasayfa/MevzuatDatatable?MevzuatTur=Teblig&KurumId=105&start=0&length=100"
+    }
+  ],
+  "issuer_slug": "calisma-ve-sosyal-guvenlik-bakanligi",
+  "kind": "communique",
+  "label": "oldest version available",
+  "notes": [
+    "Linked official annexes are not included in this version; original official links and captions are recorded in annexes."
+  ],
+  "published": "2023-11-05",
+  "source": "https://www.mevzuat.gov.tr/anasayfa/MevzuatFihristDetayIframe?MevzuatTur=9&MevzuatNo=40399&MevzuatTertip=5",
+  "source_bytes": 13030,
+  "source_id": "9.5.40399",
+  "source_sha256": "9eab0d413988fdee2229ef8f6146ef0fa65858303d3f36fbd9f69be3b0b02c01",
+  "title": "ULUSAL MESLEK STANDARTLARINA DAİR TEBLİĞ (TEBLİĞ NO: 2023/22)",
+  "word_count": 108
+}
