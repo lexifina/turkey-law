@@ -1,0 +1,22 @@
+{
+  "kind": "norm",
+  "issuer": "Gelir İdaresi Başkanlığı",
+  "document_type": "ozelge",
+  "number": "E-62030549-125-1238228",
+  "source_id": 24138,
+  "date": "2023-11-06",
+  "title": "Nevi değişikliği yoluyla anonim şirkete dönüşen şirkette ortaklara verilen hisse senetlerinin ilk iktisap tarihi.",
+  "source": "https://gib.gov.tr/mevzuat/kanun/433/ozelge/24138",
+  "related_law": "193 sayılı GELİR VERGİSİ KANUNU",
+  "source_api": "https://gib.gov.tr/api/gibportal/mevzuat/ozelge/list",
+  "source_listing": "evidence/list/2026-11-16/ozelge-p001.json",
+  "source_listing_sha256": "e5c572e7d33c4a72997f66e3999bee09f80c627cabe3ea5a6521aa3f8abee01f",
+  "source_sha256": "45f966162a5cac477b5f1fd20648260ce8261e580ceab022c71f6bcf3ee9b94a",
+  "text_status": "as-enacted",
+  "text_file": "metin.md",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  }
+}
