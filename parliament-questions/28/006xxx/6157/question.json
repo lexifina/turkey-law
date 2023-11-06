@@ -1,0 +1,21 @@
+{
+  "record_type": "parliament-written-question",
+  "term": 28,
+  "legislative_year": 2,
+  "esas_no": "7/6157",
+  "submitted": "2023-11-06",
+  "submitted_as": "Başkanlığa geliş tarihi",
+  "mp": "Semra ÇAĞLAR GÖKALP",
+  "province": "Bitlis",
+  "summary": "Çanakyayla GES Projesi'nin çevreye etkilerine ilişkin",
+  "status": "Süresi Geçtikten Sonra Cevaplandı",
+  "status_as_of": "2026-11-16",
+  "official_record": "https://www.tbmm.gov.tr/Denetim/Yazili-Soru-Onergesi-Detay/208015fb-04f9-4de7-8656-018ba89b65cd",
+  "source": "https://tbmm.gov.tr/Denetim/YaziliSoruOnergesiTable",
+  "source_form": "https://tbmm.gov.tr/Denetim/Yazili-Soru-Onergeleri",
+  "source_sha256": "031c6d62f3f6d51ceb126df2d40ee6de60eab3d6092ff6def2e533413ffa3aff",
+  "in_force": "2023-11-06",
+  "in_force_basis": "Date the question reached the Speaker (Başkanlığa geliş tarihi) in the official TBMM written-question record; parliamentary oversight record, not law",
+  "history_type": "metadata",
+  "text_status": "metadata-only: question text, addressee and answers are in the linked official record (PDFs on cdn.tbmm.gov.tr); not transcribed here"
+}
