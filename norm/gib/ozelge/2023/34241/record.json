@@ -1,0 +1,22 @@
+{
+  "kind": "norm",
+  "issuer": "Gelir İdaresi Başkanlığı",
+  "document_type": "ozelge",
+  "number": "E-97895701-155[2022/147]-1241641",
+  "source_id": 34241,
+  "date": "2023-11-06",
+  "title": "Ar-Ge faaliyetinde çalışan personelin brüt ücretinin hesaplanmasında damga vergisinin dahil edilip edilmeyeceği hk.",
+  "source": "https://gib.gov.tr/mevzuat/kanun/438/ozelge/34241",
+  "related_law": "488 sayılı DAMGA VERGİSİ KANUNU",
+  "source_api": "https://gib.gov.tr/api/gibportal/mevzuat/ozelge/list",
+  "source_listing": "evidence/list/2026-11-16/ozelge-p006.json",
+  "source_listing_sha256": "b46360359770c9a5ea4fa9aa8dcd84735fb9ad66a4d8175b30588dafb983503d",
+  "source_sha256": "697441e1537cd86dfa9c84983f54519433fc90f1f07fb13d0c7adf2d36ad2a31",
+  "text_status": "as-enacted",
+  "text_file": "metin.md",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  }
+}
