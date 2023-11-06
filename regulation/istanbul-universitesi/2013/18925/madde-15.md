@@ -1,0 +1,2 @@
+Merkezin sürekliliği
+MADDE 15 – (1) Merkezin sürekliliği, üst düzey bilimsel faaliyet ve katkının sürekliliğiyle değerlendirilir. Merkezin ikinci faaliyet yılından itibaren her yıl organize edilen ve desteklenen klinik araştırmaların, bilimsel yayınların, aktivitelerin ve patentlerin aynı süreklilikte veya artmış olması ile değerlendirilir. Bu değerlendirmeler yıllık rapor olarak Senatoya sunulur.

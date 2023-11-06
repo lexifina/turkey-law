@@ -1,0 +1,2 @@
+Merkez müdürü
+MADDE 9 – (1) Müdür, Merkezin amaçları konusunda araştırma, uygulama ve eğitim deneyimi bulunan Üniversite öğretim üyeleri arasından Rektör tarafından üç yıl için görevlendirilir. Görevi sona eren Müdür yeniden görevlendirilebilir. Müdür öğretim üyeleri arasından iki kişiyi müdür yardımcısı seçer. Müdür, görevi başında olmadığı zaman yardımcılarından birini vekil bırakır. Göreve vekâlet altı aydan fazla sürerse, yerine kalan süreyi tamamlamak üzere yeni bir Müdür görevlendirilir.
