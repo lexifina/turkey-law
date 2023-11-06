@@ -1,0 +1,22 @@
+{
+  "kind": "norm",
+  "issuer": "Gelir İdaresi Başkanlığı",
+  "document_type": "ozelge",
+  "number": "21152195-130[99-2020.3225]-511280",
+  "source_id": 22378,
+  "date": "2023-11-06",
+  "title": "Kiracı tarafından ödenmeyen elektrik, su bedellerinin taahhütnameye istinaden ödenmesi halinde gider yazılması ve indirimi hk.",
+  "source": "https://gib.gov.tr/mevzuat/kanun/436/ozelge/22378",
+  "related_law": "3065 sayılı KATMA DEĞER VERGİSİ KANUNU",
+  "source_api": "https://gib.gov.tr/api/gibportal/mevzuat/ozelge/list",
+  "source_listing": "evidence/list/2026-11-16/ozelge-p000.json",
+  "source_listing_sha256": "5444faf84128246cd8dd8c6db754d41e2a11c7717342bfe0a07a35074d061761",
+  "source_sha256": "1199b9cb47c3f1fe7acea72599e9b18b3b42ab3cb68ace46ac63de2be542010e",
+  "text_status": "as-enacted",
+  "text_file": "metin.md",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  }
+}
