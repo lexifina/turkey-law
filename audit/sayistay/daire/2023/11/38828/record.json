@@ -1,0 +1,17 @@
+{
+  "kind": "decision",
+  "issuer": "Sayıştay 5. Dairesi",
+  "number": "620",
+  "decision_date": "2023-11-07",
+  "source_id": 38828,
+  "chamber": "5",
+  "ilam_number": "79",
+  "item_number": 17,
+  "public_body_type": "Belediyeler ve Bağlı İdareler",
+  "account_year": 2022,
+  "subject": "İş Mevzuatı ile İlgili Kararlar",
+  "source": "https://www.sayistay.gov.tr/KararlarDaire/Detay/38828/",
+  "source_sha256": "b0c3fa821e3d271fa337ef06620baf432c12eb53ff9c3aa726bc93b87cb5f5c6",
+  "text_status": "as-enacted",
+  "text_file": "metin.md"
+}
