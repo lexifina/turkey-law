@@ -1,0 +1,17 @@
+{
+  "kind": "decision",
+  "issuer": "Sayıştay 5. Dairesi",
+  "number": "620",
+  "decision_date": "2023-11-07",
+  "source_id": 38817,
+  "chamber": "5",
+  "ilam_number": "79",
+  "item_number": 6,
+  "public_body_type": "Belediyeler ve Bağlı İdareler",
+  "account_year": 2022,
+  "subject": "İhale Mevzuatı ile İlgili Kararlar",
+  "source": "https://www.sayistay.gov.tr/KararlarDaire/Detay/38817/",
+  "source_sha256": "9dbb8ee06efc1e45b49bca89f5a544add1f1d8f718a1986dded20e0aa213f8e8",
+  "text_status": "as-enacted",
+  "text_file": "metin.md"
+}
