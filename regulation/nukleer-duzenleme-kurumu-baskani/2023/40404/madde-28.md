@@ -1,0 +1,3 @@
+Raporlama
+MADDE 28- (1) Yetkilendirilen kişi tarafından nükleer tesisler ile radyoaktif atık işleme ve depolama tesisleri için işletme lisansı verildiği tarihten başlamak üzere tesis düzenleyici kontrolden çıkarılana kadar; bertaraf tesisleri için ise işletme lisansı verildiği tarihten başlamak üzere kapatma izni verilene kadar her yıl, Kuruma radyoaktif atık ve kullanılmış yakıt yönetimi raporu sunulur. Radyoaktif atık ve kullanılmış yakıt yönetimi raporu 27 nci maddede belirtilen ilgili kayıtları kapsar.
+(2) Radyasyon tesisleri, radyasyon uygulamaları ve diğer faaliyetler için dereceli yaklaşım ilkesi esas alınarak radyoaktif atık yönetimine ilişkin Kurum tarafından gerekli görülen bilgiler yetkilendirilen kişiler tarafından Kuruma raporlanır.

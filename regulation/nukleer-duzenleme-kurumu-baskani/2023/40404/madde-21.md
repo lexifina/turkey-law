@@ -1,0 +1,5 @@
+Radyoaktif atıkların işlenmesi
+MADDE 21- (1) Radyoaktif atıkların işlenmesi; ön muamele, muamele ve uygunlaştırma süreçlerinden oluşur.
+(2) Ön muamele sürecinde; radyoaktif atıkların radyonüklit içeriği, artık ısısı, fiziksel hâli, biyolojik özellikleri, kimyasal aktifliği ve radyoaktivitesi dikkate alınır. Radyoaktif atıklar ortaya çıktıkları yerlerde tüm özelliklerine ve yapılacak muameleye bağlı olarak çeşitlerine göre ayrılarak toplanırlar.
+(3) Muamele süreci, sonraki radyoaktif atık yönetimi süreçlerine mümkün olduğunca küçük hacimde radyoaktif atık iletilecek şekilde gerçekleştirilir. Muamele sürecinde kullanılan sistemler işlevselliğin korunması için düzenli aralıklarla kontrol edilir ve gerektiğinde yenilenir veya değiştirilir.
+(4) Uygunlaştırma sürecinde; radyoaktif atıkların radyonüklit içeriği, kritikliği, artık ısısı, aktivite konsantrasyonu, yüzeydeki radyoaktif kirlilik seviyesi, içindeki metal, cam ve plastik gibi maddeler, yanıcılık özelliği, aşındırıcı madde içeriği, su, gaz üretimi ve fiziksel özellikleri dikkate alınır. Radyoaktif atık paketlerinin iç ve dış etkilere karşı bütünlüğünü koruması sağlanır.

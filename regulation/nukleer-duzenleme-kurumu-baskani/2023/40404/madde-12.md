@@ -1,0 +1,4 @@
+Radyoaktif atık ve kullanılmış yakıt envanteri
+MADDE 12- (1) Ulusal radyoaktif atık ve kullanılmış yakıt envanteri; radyoaktif atıkların ve kullanılmış yakıtların miktarları, sınıfları ve radyoaktiviteleri ile ortaya çıkmalarına neden olan faaliyetleri içerecek şekilde, Ulusal Radyoaktif Atık Yönetim Planının hazırlanmasını temin etmek üzere TENMAK tarafından tutulur.
+(2) Yürüteceği veya yürüttüğü faaliyet sonucunda radyoaktif atık veya kullanılmış yakıt ortaya çıkaran, yetkilendirilmek üzere Kuruma başvuran kişiler ile yetkilendirilen kişiler tarafından, ulusal radyoaktif atık ve kullanılmış yakıt envanterine ilişkin bilgiler, sonu (4) ve (9) ile biten yılların sonuna kadar hazırlanır ve TENMAK’a sunulur.
+(3) 7381 sayılı Kanun kapsamı dışında yürütülen bir faaliyet sonucunda ortaya çıkan radyoaktif atıklar, Kurum tarafından gerek görülmesi hâlinde, radyoaktif atık ve kullanılmış yakıt envanterine dâhil edilir.

@@ -1,0 +1,2 @@
+Radyoaktif atık oluşumunun kontrolü ve radyoaktif atıkların azaltılması
+MADDE 6- (1) Radyoaktif atıkların oluşumunun miktar, hacim ve radyoaktivite olarak mümkün ve makul olan en düşük seviyede tutulmasını sağlamak amacıyla radyoaktif atık oluşumuna neden olan faaliyetlerin yürütülmesi veya radyoaktif atık yönetimi için yetkilendirilen kişi tarafından yeniden kullanım ve geri kazanım dâhil olmak üzere gerekli önlemler alınır.

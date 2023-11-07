@@ -1,0 +1,5 @@
+Kullanılmış yakıtların uzun süreli depolanması
+MADDE 25- (1) Kullanılmış yakıtların elli yıldan daha uzun süreli depolanmasının planlandığı tesislerde, yetkilendirilen kişi tarafından kullanılmış yakıtların uzun süreli reaktivitesi hesaplanır ve yapılan değerlendirme sonucu kullanılmış yakıtların bütünlüğünü korumak üzere; uygun yapı malzemelerinin seçimi, kalite temini ve kontrolü, uygun işletme yöntemleri ve yaşlanma yönetimi, izleme ve bakım programları ile iç denetim tekniklerinin uygulanması sağlanır.
+(2) Planlanan depolama süresi; kullanılmış yakıtın, depolanacağı tesisin ve sahanın özellikleri dikkate alınarak belirlenir. Depolama süresinin kullanılmış yakıtlara, kullanılmış yakıt paketlerine ve depolandıkları tesise olan potansiyel etkileri değerlendirilir.
+(3) Pasif önlemler, mümkün olduğunca tesis veya sistem tasarımına dâhil edilir ve depolama süresi boyunca pasif bariyerlerin bozulmasına karşı önlemler alınır.
+(4) Kullanılmış yakıtların veya yakıt zarfının ya da paketin bütünlüğünün bozulmasının, kullanılmış yakıtların depolandıkları tesisten geri alınmasına olası etkileri dikkate alınır.
