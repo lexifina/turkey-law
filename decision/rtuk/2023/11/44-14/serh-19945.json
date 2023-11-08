@@ -1,0 +1,15 @@
+{
+  "issuer": "Radyo ve Televizyon Üst Kurulu (RTÜK)",
+  "record_type": "Şerh (karşı oy yazısı)",
+  "meeting": "2023/44",
+  "meeting_date": "2023-11-08",
+  "meeting_date_as_published": "8.11.2023",
+  "decision_no": "14",
+  "source_id": 19945,
+  "title": "RTÜK kararı 2023/44-14 karşı oy yazısı",
+  "source": "https://www.rtuk.gov.tr/UstKurulKarar/Detay/19945",
+  "source_sha256": "86597358fe89e6435a3b7840828f0f912e65c3b49f0391d24b030ca49b7d50eb",
+  "text_status": "metadata-only",
+  "metadata_only_reason": "possible private person name(s) in the official text (33 match(es)); full text withheld, official link only",
+  "law_text_complete": false
+}
