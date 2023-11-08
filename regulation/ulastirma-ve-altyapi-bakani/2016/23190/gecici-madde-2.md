@@ -1,0 +1,2 @@
+Kişisel emniyet belgesi
+GEÇİCİ MADDE 2 – (1) Bu Yönetmeliğin yürürlüğe girdiği tarih itibariyle şehir içi raylı toplu taşıma işletmecileri, bünyesinde halen çalışmakta olan emniyet kritik görevlerde çalışan personele emniyet yönetim sistemleri kuruluncaya kadar bir defaya mahsus olmak üzere kişisel emniyet belgesi verir. Ancak, kişisel emniyet belgelerinin Ek-1 ve Ek-2’deki gerekliliklere göre geçerliliğinin sürekli olarak takip edileceği sistemi oluşturur ve takip eder. Mevcut çalışan personelden 6 ncı maddenin birinci fıkrasının (b) bendinde belirtilen şart aranmaz.

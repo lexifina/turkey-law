@@ -1,0 +1,4 @@
+Yayımlanmış bir ulusal meslek standardı ya da yeterliliğin bulunmadığı durumlar
+MADDE 15 – (1) (Değişik:RG-30/12/2017-30286 Mükerrer) Emniyet kritik görevlere yönelik, MYK tarafından yayımlanmış ulusal meslek standardı ve/veya ulusal yeterliliğin bulunmadığı durumlarda, tüm işletmeciler, emniyet yönetim sisteminde; personeline, görevle ilgili yeterli ve emniyetli çalışma becerilerini kazandıracak eğitimleri vermek veya verdirmek, teorik ve pratik olarak sınav yapmak veya yaptırmaktan sorumludur.
+(2) Tüm işletmeciler, birinci fıkrada belirtilen eğitimlerin ve sınavların nasıl yapılacağı ile ilgili tüm düzenlemeleri kendi emniyet yönetim sistemlerinde detaylı bir şekilde tanımlarlar.
+(3) Bakanlık, bu tip eğitim ve sınav faaliyetlerini, işletmecinin emniyet yönetim sisteminin uygunluk değerlendirmesi ve denetlemesi esnasında değerlendirir.

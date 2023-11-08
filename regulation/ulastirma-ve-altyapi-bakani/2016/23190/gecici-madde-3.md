@@ -1,0 +1,2 @@
+Emniyet kritik görevlerde çalışacak personelin tecrübesi
+GEÇİCİ MADDE 3 – (1) Bu Yönetmeliğin yürürlüğe girmesinden önce TCDD, TCDD Taşımacılık A.Ş. ve diğer demiryolu işletmecileri ile şehir içi raylı toplu taşıma işletmecileri bünyesinde emniyet kritik görevlerinde çalışan personelin edindiği tecrübeler, aldığı eğitimler ve başarılı oldukları sınavlar, bunları belgelemeleri halinde, tüm işletmeciler tarafından kişisel emniyet belgesi düzenlenirken dikkate alınır.
