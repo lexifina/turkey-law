@@ -1,0 +1,31 @@
+{
+  "source_id": "7.5.40407",
+  "kind": "regulation",
+  "register_kind": "Kurum ve Kuruluş Yönetmelikleri",
+  "title": "MİLLÎ SAVUNMA BAKANLIĞINCA YABANCI ÜLKE VE KURULUŞLARA YAPILACAK SAVUNMA VE GÜVENLİK AMAÇLI HİBE VE YARDIM ÖDEMELERİNE İLİŞKİN ESASLAR HAKKINDA YÖNETMELİK",
+  "number": "40407",
+  "issuer": "Millî Savunma Bakanı ile Hazine ve Maliye Bakanı",
+  "issuer_slug": "milli-savunma-bakani-ile-hazine-ve-maliye-bakani",
+  "path": "regulation/milli-savunma-bakani-ile-hazine-ve-maliye-bakani/2023/40407",
+  "source": "https://www.mevzuat.gov.tr/anasayfa/MevzuatFihristDetayIframe?MevzuatTur=7&MevzuatNo=40407&MevzuatTertip=5",
+  "source_sha256": "9baff0ecfd5f8ec84fdfaafc5390f604c10bb0b48736d78de498dc533962ea32",
+  "source_bytes": 31989,
+  "published": "2023-11-08",
+  "gazette": "32363",
+  "in_force": "2023-11-08",
+  "in_force_basis": "Resmî Gazete publication date in the official listing (08.11.2023); own commencement article: \"Bu Yönetmelik yayımı tarihinde yürürlüğe girer\"",
+  "commencement_clauses": [
+    "Bu Yönetmelik yayımı tarihinde yürürlüğe girer"
+  ],
+  "history": "current-text",
+  "label": "oldest version available",
+  "checked_on": "2026-11-15",
+  "word_count": 1344,
+  "text_status": "current-consolidated",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  },
+  "completeness": "html-text-complete"
+}
