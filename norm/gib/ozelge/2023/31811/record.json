@@ -1,0 +1,22 @@
+{
+  "kind": "norm",
+  "issuer": "Gelir İdaresi Başkanlığı",
+  "document_type": "ozelge",
+  "number": "67630374-125[2019]-33782",
+  "source_id": 31811,
+  "date": "2023-11-08",
+  "title": "Yapı Kooperatifi/Ortak Dışı İşlem KDV-Kurumlar Vergisi Mükellefiyeti",
+  "source": "https://gib.gov.tr/mevzuat/kanun/435/ozelge/31811",
+  "related_law": "5520 sayılı KURUMLAR VERGİSİ KANUNU",
+  "source_api": "https://gib.gov.tr/api/gibportal/mevzuat/ozelge/list",
+  "source_listing": "evidence/list/2026-11-16/ozelge-p005.json",
+  "source_listing_sha256": "bc82c6c09764a8d83c3906db12d34a67d7f592d6e631568c06d506072b5840cf",
+  "source_sha256": "4133a9a1a2f90c7d4d689ff1bcb64b2056c7f8a51a5f10a8e2a21973b4d7fb52",
+  "text_status": "as-enacted",
+  "text_file": "metin.md",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  }
+}
