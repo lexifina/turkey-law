@@ -1,0 +1,31 @@
+{
+  "source_id": "7.5.40406",
+  "kind": "regulation",
+  "register_kind": "Kurum ve Kuruluş Yönetmelikleri",
+  "title": "DIŞİŞLERİ BAKANLIĞI MEMURLARININ YURTDIŞINA SÜREKLİ GÖREVLE ATANMASINA İLİŞKİN USUL VE ESASLAR HAKKINDA YÖNETMELİK",
+  "number": "40406",
+  "issuer": "Dışişleri Bakanı",
+  "issuer_slug": "disisleri-bakani",
+  "path": "regulation/disisleri-bakani/2023/40406",
+  "source": "https://www.mevzuat.gov.tr/anasayfa/MevzuatFihristDetayIframe?MevzuatTur=7&MevzuatNo=40406&MevzuatTertip=5",
+  "source_sha256": "b2ebfd5791a785e59417b2e083139a227e02ebd94024c16e49a1100575845798",
+  "source_bytes": 51111,
+  "published": "2023-11-08",
+  "gazette": "32363",
+  "in_force": "2023-11-08",
+  "in_force_basis": "Resmî Gazete publication date in the official listing (08.11.2023); own commencement article: \"Bu Yönetmelik yayımı tarihinde yürürlüğe girer\"",
+  "commencement_clauses": [
+    "Bu Yönetmelik yayımı tarihinde yürürlüğe girer"
+  ],
+  "history": "current-text",
+  "label": "oldest version available",
+  "checked_on": "2026-11-15",
+  "word_count": 2856,
+  "text_status": "current-consolidated",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  },
+  "completeness": "html-text-complete"
+}
