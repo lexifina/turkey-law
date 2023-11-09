@@ -1,0 +1,33 @@
+{
+  "source_id": "9.5.40408",
+  "kind": "communique",
+  "register_kind": "Tebliğler",
+  "title": "2024 YILINA AİT GENEL YATIRIM VE FİNANSMAN PROGRAMININ UYGULANMASINA İLİŞKİN USUL VE ESASLARIN BELİRLENMESİNE DAİR TEBLİĞ",
+  "number": "40408",
+  "issuer": "Hazine ve Maliye Bakanı",
+  "path": "teblig/2023/40408",
+  "source": "https://www.mevzuat.gov.tr/anasayfa/MevzuatFihristDetayIframe?MevzuatTur=9&MevzuatNo=40408&MevzuatTertip=5",
+  "source_sha256": "c9b2174783a785ed7bff09e2a95f992655000eb13edf3735aaca264d46a022a5",
+  "source_bytes": 94142,
+  "published": "2023-11-09",
+  "gazette": "32364",
+  "in_force": "2023-11-09",
+  "in_force_basis": "Resmî Gazete publication date in the official listing (09.11.2023); own commencement article: \"Bu Tebliğin 1 inci, 2 nci, 3 üncü, 4 üncü, 11 inci, 22 nci ve 23 üncü maddeleri yayımı tarihinde, diğer maddeleri ise 1/1/2024 tarihinde yürürlüğe girer\"",
+  "commencement_clauses": [
+    "Bu Tebliğin 1 inci, 2 nci, 3 üncü, 4 üncü, 11 inci, 22 nci ve 23 üncü maddeleri yayımı tarihinde, diğer maddeleri ise 1/1/2024 tarihinde yürürlüğe girer"
+  ],
+  "history": "current-text",
+  "label": "oldest version available",
+  "checked_on": "2026-11-15",
+  "word_count": 3261,
+  "text_status": "current-consolidated",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  },
+  "source_links": [
+    "9.5.40408-EK.xlsx"
+  ],
+  "completeness": "html-text-complete; linked annexes not fetched"
+}
