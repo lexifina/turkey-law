@@ -1,0 +1,22 @@
+{
+  "number": "149",
+  "number_as_published": "2023/149",
+  "year": 2023,
+  "title": "Eyüpsultan İlçesi Yeşilpınar Mahallesi, 190 ada içerişinde yer alan yol hattının revizyonuna ilişkin uygulama imar planı değişikliği",
+  "decision_date": "2023-11-09",
+  "source": "https://eyupsultan.bel.tr/tr/main/pages/2023-kasim-ayi-meclis-kararlari/2465",
+  "official_document": "https://eyupsultan.bel.tr/tr/main/pages/2023-149/2481",
+  "source_sha256": "a97a1f5e2629839f4d00034cac860d70bf1705f356aee2409fc68c15cff4fc79",
+  "issuer": "Eyüpsultan Belediye Meclisi",
+  "history_type": "metadata",
+  "text_status": "metadata-only: listing fields as published; complete decision text is in the linked official document, not transcribed",
+  "in_force": "2023-11-09",
+  "in_force_basis": "Decision date as printed in the official council listing: 09.11.2023 (meeting date at the start of the decision page); adoption date of the council decision; legal commencement not asserted",
+  "missing": [
+    "complete official decision text",
+    "official annexes"
+  ],
+  "law_text_complete": false,
+  "privacy_withheld": false,
+  "decision_page_sha256": "56bb1b5414180a38e4a3e63aa1dcb7b4e5004cc673c8fcc5424f3a79f95d7cd2"
+}
