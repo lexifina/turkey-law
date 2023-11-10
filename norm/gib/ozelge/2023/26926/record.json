@@ -1,0 +1,22 @@
+{
+  "kind": "norm",
+  "issuer": "Gelir İdaresi Başkanlığı",
+  "document_type": "ozelge",
+  "number": "E-64597866-125-23318",
+  "source_id": 26926,
+  "date": "2023-11-10",
+  "title": "Mağaza içi mimari konsept tasarım hizmetinin giderleştirilmesi ve mağazada kullanılan askıların amortismanı hk.",
+  "source": "https://gib.gov.tr/mevzuat/kanun/434/ozelge/26926",
+  "related_law": "213 sayılı VERGİ USUL KANUNU",
+  "source_api": "https://gib.gov.tr/api/gibportal/mevzuat/ozelge/list",
+  "source_listing": "evidence/list/2026-11-16/ozelge-p003.json",
+  "source_listing_sha256": "b8eb1aba686c15efb9ca96f819c840940788d8f48769f30127e032220fbff4ab",
+  "source_sha256": "5c15750c144a366eddb3a529c17dd12da90aabfd491e951cee5785a8bc31be5d",
+  "text_status": "as-enacted",
+  "text_file": "metin.md",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  }
+}
