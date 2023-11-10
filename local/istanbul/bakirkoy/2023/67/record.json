@@ -1,0 +1,23 @@
+{
+  "number": "67",
+  "number_as_published": "67",
+  "year": 2023,
+  "title": "Bakırköy İlçe Milli Eğitim Müdürlüğü, Bakırköy Kent Konseyi ve Belediye Başkanlığımız arasında işbirliği protokolü imzalanabilmesi için 5393 sayılı Belediye Kanunun 38. maddesinin (g) bendine istinaden Belediye Başkanına yetki verilmesi",
+  "decision_date": "2023-11-10",
+  "source": "https://www.bakirkoy.bel.tr/meclis-kararlari/17",
+  "official_document": "https://www.bakirkoy.bel.tr/storage/app/media/meclis%20kararlar%C4%B1/67-muhtarlik-isleri-mudurlugu-bakirkoy-kent-konseyi-ilce-milli-egitim-mudurlugu-ile-protokol-imzalanmasi-icin-belediye-baskanina-yetki-verilmesi-mudurlugune-iade10112023.pdf",
+  "source_sha256": "be29f86ecba24e907452de7922db011406610327260d051110d5005c8a585b2d",
+  "issuer": "Bakırköy Belediye Meclisi",
+  "history_type": "metadata",
+  "text_status": "metadata-only: listing fields as published; complete decision text is in the linked official document, not transcribed",
+  "in_force": "2023-11-10",
+  "in_force_basis": "Decision date as printed in the official council listing: 10 Kasım 2023 (Tarih column of the official list); adoption date of the council decision; legal commencement not asserted",
+  "missing": [
+    "complete official decision text",
+    "official annexes"
+  ],
+  "law_text_complete": false,
+  "privacy_withheld": false,
+  "record_scope": "one council decision (number, date and summary as listed; the decision is the linked official PDF)",
+  "official_page": "https://www.bakirkoy.bel.tr/meclis-kararlari"
+}
