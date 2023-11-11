@@ -1,0 +1,34 @@
+{
+  "source_id": "7.5.40411",
+  "kind": "regulation",
+  "register_kind": "Kurum ve Kuruluş Yönetmelikleri",
+  "title": "ATIKSU ARITMA TESİSİ ENERJİ TEŞVİKİ YÖNETMELİĞİ",
+  "number": "40411",
+  "issuer": "Çevre, Şehircilik ve İklim Değişikliği Bakanı",
+  "issuer_slug": "cevre-sehircilik-ve-iklim-degisikligi-bakani",
+  "path": "regulation/cevre-sehircilik-ve-iklim-degisikligi-bakani/2023/40411",
+  "source": "https://www.mevzuat.gov.tr/anasayfa/MevzuatFihristDetayIframe?MevzuatTur=7&MevzuatNo=40411&MevzuatTertip=5",
+  "source_sha256": "850538a0c0ffbc6a806a4da055902a395a1a90e861b468023489b9e79336f6f9",
+  "source_bytes": 60108,
+  "published": "2023-11-11",
+  "gazette": "32366",
+  "in_force": "2023-11-11",
+  "in_force_basis": "Resmî Gazete publication date in the official listing (11.11.2023); own commencement article: \"Bu Yönetmelik yayımı tarihinde yürürlüğe girer\"",
+  "commencement_clauses": [
+    "Bu Yönetmelik yayımı tarihinde yürürlüğe girer"
+  ],
+  "history": "current-text",
+  "label": "oldest version available",
+  "checked_on": "2026-11-15",
+  "word_count": 1640,
+  "text_status": "current-consolidated",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  },
+  "source_links": [
+    "7.5.40411-EK.doc"
+  ],
+  "completeness": "html-text-complete; linked annexes not fetched"
+}
