@@ -1,0 +1,2 @@
+Sınav sonucuna itiraz
+MADDE 12 – (1) Öğrenciler, sınav sonuçlarına ilanından itibaren yedi iş günü içerisinde Yüksekokul Müdürlüğüne yazılı olarak başvurarak, maddi hata itirazında bulunabilirler. İtirazlar için tanınan sürenin bitiminden itibaren bir hafta içerisinde Yüksekokul Müdürü tarafından bir komisyon kurulur, sınav kâğıtları incelenir, maddi hata tespit edilirse, ilgili ders sorumlusunun da görüşü alınarak Yönetim Kurulu kararı ile sonuca bağlanır.
