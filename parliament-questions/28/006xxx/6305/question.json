@@ -1,0 +1,21 @@
+{
+  "record_type": "parliament-written-question",
+  "term": 28,
+  "legislative_year": 2,
+  "esas_no": "7/6305",
+  "submitted": "2023-11-14",
+  "submitted_as": "Başkanlığa geliş tarihi",
+  "mp": "Mustafa Sezgin TANRIKULU",
+  "province": "Diyarbakır",
+  "summary": "Diyarbakır'da 2016'dan beri yatırım programında yer alan Kent içi Hafif Raylı Sistem Projesi'nin akıbetine ilişkin",
+  "status": "Süresi Geçtikten Sonra Cevaplandı",
+  "status_as_of": "2026-11-16",
+  "official_record": "https://www.tbmm.gov.tr/Denetim/Yazili-Soru-Onergesi-Detay/b9976186-b2dd-4c64-9f3b-018bd1b7cd33",
+  "source": "https://tbmm.gov.tr/Denetim/YaziliSoruOnergesiTable",
+  "source_form": "https://tbmm.gov.tr/Denetim/Yazili-Soru-Onergeleri",
+  "source_sha256": "62a9f628fd144b838f88a4c1f1014cc1b6ead4a83490276347ee4ff4d38a4bf3",
+  "in_force": "2023-11-14",
+  "in_force_basis": "Date the question reached the Speaker (Başkanlığa geliş tarihi) in the official TBMM written-question record; parliamentary oversight record, not law",
+  "history_type": "metadata",
+  "text_status": "metadata-only: question text, addressee and answers are in the linked official record (PDFs on cdn.tbmm.gov.tr); not transcribed here"
+}
