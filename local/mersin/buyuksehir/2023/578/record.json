@@ -1,0 +1,18 @@
+{
+  "issuer": "Mersin Büyükşehir Belediye Meclisi",
+  "number": "578",
+  "decision_date": "2023-11-14",
+  "title": "-MEC.KAR.(TARSUS KADELLİ MH. 1877 PARSEL VE ÇEVRESİ GES KURULMASI)",
+  "listed_as": "578-MEC.KAR.(TARSUS KADELLİ MH. 1877 PARSEL VE ÇEVRESİ GES KURULMASI)",
+  "subject_note": "subject as the meeting page lists it (the register shortens some long subjects)",
+  "official_document": "https://www.mersin.bel.tr/dokumanlar/578-meckartarsus-kadelli-mh-1877-parsel-ve-cevresi-ges-kurulmasi-639384215",
+  "source_listing": "https://www.mersin.bel.tr/dokumanlar/14-kasim-2023-meclis-kararlari-447039949",
+  "listing_sha256": "f3a00577f8174561c48387e6d73214b42c5960c4281828678874ca9a9293620c",
+  "meeting_title": "14 KASIM 2023 MECLİS KARARLARI",
+  "history_type": "metadata-only",
+  "capture_mode": "metadata-only",
+  "text_status": "metadata-only; official decision page linked, text not transcribed",
+  "date_basis": "meeting date in the official meeting page title (decision date of the session)",
+  "commencement_established": false,
+  "privacy_withheld": false
+}
