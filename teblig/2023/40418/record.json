@@ -1,0 +1,37 @@
+{
+  "checked_on": "2026-11-15",
+  "commencement_quote": "Bu Tebliğ 1/11/2023 tarihinden geçerli olmak üzere yayımı tarihinde yürürlüğe girer",
+  "date_gazette": "32369",
+  "date_quote": "Bu Tebliğ 1/11/2023 tarihinden geçerli olmak üzere yayımı tarihinde yürürlüğe girer",
+  "first_law": null,
+  "gazette": "32369",
+  "history": "current-text",
+  "images": {
+    "deferred": 0,
+    "omitted": 0,
+    "referenced": 0,
+    "source": 0
+  },
+  "in_force": "2023-11-14",
+  "in_force_basis": "Own commencement clause: Bu Tebliğ 1/11/2023 tarihinden geçerli olmak üzere yayımı tarihinde yürürlüğe girer",
+  "issuer": "Gençlik ve Spor Bakanlığı",
+  "issuer_catalog_evidence": [
+    {
+      "evidence": "issuer-382-0.json",
+      "id": "382",
+      "label": "Gençlik ve Spor Bakanlığı",
+      "listing_url": "https://www.mevzuat.gov.tr/Anasayfa/MevzuatDatatable?MevzuatTur=Teblig&KurumId=382&start=0&length=100"
+    }
+  ],
+  "issuer_slug": "genclik-ve-spor-bakanligi",
+  "kind": "communique",
+  "label": "oldest version available",
+  "notes": [],
+  "published": "2023-11-14",
+  "source": "https://www.mevzuat.gov.tr/anasayfa/MevzuatFihristDetayIframe?MevzuatTur=9&MevzuatNo=40418&MevzuatTertip=5",
+  "source_bytes": 29363,
+  "source_id": "9.5.40418",
+  "source_sha256": "7fc75df23817818516bb35afcc6bfdb082e9673f024945fc776aa2a83a7c6425",
+  "title": "YÜKSEKÖĞRETİM ÖĞRENCİLERİNE TEKNOLOJİK CİHAZ VE İNTERNET\r\nDESTEĞİ VERİLMESİNE İLİŞKİN USUL VE ESASLAR HAKKINDA TEBLİĞ",
+  "word_count": 1219
+}
