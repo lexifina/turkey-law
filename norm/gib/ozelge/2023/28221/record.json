@@ -1,0 +1,22 @@
+{
+  "kind": "norm",
+  "issuer": "Gelir İdaresi Başkanlığı",
+  "document_type": "ozelge",
+  "number": "38418978-125[10-2022/9]-519111",
+  "source_id": 28221,
+  "date": "2023-11-14",
+  "title": "Yurt Dışından Geçici Görevle Gelen Memurların Çocuklarına Eğitim Veren Kurumun KVK 10/1-ğ Maddesinden Yararlanıp Yararlanamayacağı",
+  "source": "https://gib.gov.tr/mevzuat/kanun/435/ozelge/28221",
+  "related_law": "5520 sayılı KURUMLAR VERGİSİ KANUNU",
+  "source_api": "https://gib.gov.tr/api/gibportal/mevzuat/ozelge/list",
+  "source_listing": "evidence/list/2026-11-16/ozelge-p003.json",
+  "source_listing_sha256": "b8eb1aba686c15efb9ca96f819c840940788d8f48769f30127e032220fbff4ab",
+  "source_sha256": "c78c00c895da7a376b20a5464c4e66bd58c3c0a39a8b49c18396ee9a86f606b1",
+  "text_status": "as-enacted",
+  "text_file": "metin.md",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  }
+}
