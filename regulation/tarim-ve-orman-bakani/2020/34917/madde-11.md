@@ -1,0 +1,5 @@
+Başvuru ve deney için sevk
+MADDE 11 – (1) (Değişik:RG-14/11/2023-32369) Deney raporu almak isteyen firma, ilgisine göre; Ek-3a’da yer alan Tarımsal Mekanizasyon Araçları Deney Sevk Başvuru Formu, Ek-3b’de yer alan Sabit Sistemler Deney Sevk Başvuru Formu ve Ek-3c’de yer alan Sabit Güneş Enerji Sistemleri Deney Sevk Başvuru Formundan biri ve her bir araca ait deney raporu sevk işlemi için Bakanlığın Merkez Döner Sermaye Saymanlığı hesabına yatırılan deney sevk ücret dekontu ile Bakanlığa müracaat eder.
+(2) Genel Müdürlük, yetkilendirilmiş deney kurumlarının deney altyapı, bilgi ve donanımları, iş yoğunluğu ve personel durumu gibi şartları göz önüne alarak, araç sevkini belirlediği bir deney kurumuna yapar.
+(3) Daha önce deney raporu düzenlenmiş araca ait ek deney raporu talep edilmesi halinde Genel Müdürlük deney sevkini öncelikle aynı deney kurumuna yapar.
+(4) (Ek:RG-14/11/2023-32369) Yenilenebilir enerji kaynakları ile enerji ihtiyacı karşılanan sabit sistemlerin deney sevk işlemleri bir bütün olarak değerlendirilir ve sabit sistemler dışında kalan enerji sistemlerinin deney sevkleri yapılmaz.

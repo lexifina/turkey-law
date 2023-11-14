@@ -1,0 +1,31 @@
+Tanımlar
+MADDE 4 – (1) Bu Yönetmelikte yer alan;
+a) (Değişik:RG-14/11/2023-32369) Araç: Tarımsal faaliyetlerde kullanılan, zirai mücadele alet ve makineleri dışında kalan yeni ve kullanılmamış imal/ithal edilmiş tarım makineleri ve tarım teknolojilerinin belirli bir tarımsal işlevi yerine getirmek üzere bir araya getirilmiş parçalarından oluşturulan sistemi,
+b) (Değişik:RG-14/11/2023-32369) Deney grupları listesi: Deney kurumunun altyapı ve deney yeterliliklerinin tespiti ile deney ücretlerinin belirlenmesinde kullanılan araçların sınıflandırıldığı listeyi,
+c) Bakanlık: Tarım ve Orman Bakanlığını,
+ç) Deney: Aracın, karakteristik değerlerini belirlemek amacıyla, ilgili ulusal ve uluslararası standartlar dikkate alınarak hazırlanan deney ilke ve metotlarına göre tarım tekniğine uygunluğunun belirlenmesi için yapılması gereken işlemleri,
+d) Deney ilke ve metotları: Deney kurumlarında aynı cins araçların deneylerinde farklı metotlar kullanılarak deney işlemlerinin yapılmasının önlenmesi ve bu şekilde usul yönünden birlikteliğin sağlanması, deneyler arasında yapılacak kontrollerde hangi kriterlerin göz önüne alınacağını ve deneylerin hangi şartlarda yapılacağını gösteren, ulusal ve uluslararası standartlarında dikkate alındığı aracın teknik, teknolojik ve yapısal özellikleri ile işletme değerlerinin belirlendiği doküman,
+e) (Değişik:RG-14/11/2023-32369) Deney İlke ve Metotları Hazırlama Komisyonu: Deney ilke ve metotlarını hazırlamak üzere görevlendirilen üç Bakanlık personeli ile Tarım Teknolojisi ve Mekanizasyon Komitesi tarafından seçilen ilgili sivil toplum kuruluşundan bir temsilci ve üç akademik personelden oluşan toplam yedi kişilik komisyonu,
+f) (Değişik:RG-14/11/2023-32369) Deney kurulu: Deneyi yapan kurum tarafından kurum görevlileri arasından belirlenen en az biri tarım makineleri ile ilgili eğitim veren bölüm mezunu olmak üzere üç ziraat mühendisinin katılımıyla oluşan kurulu,
+g) (Değişik:RG-14/11/2023-32369) Deney kurumu: Bakanlık tarafından deney yapma yetkisi verilen Bakanlık kuruluşları ile üniversitelerin, en az lisans düzeyinde tarım makineleri ile ilgili eğitim veren bölümlerini,
+ğ) (Değişik:RG-14/11/2023-32369) Deney raporu: Bu Yönetmelik kapsamında laboratuvar ve/veya uygulama sahasında deneylere tabi tutulan aracın ve/veya sabit sistemlerin, deney ilke ve metotlarına göre tarım tekniğine uygunluğunu belgeleyen ve deney kurumunca verilen raporu,
+h) Deney yetkisinin askıya alınması: Bu Yönetmelik kapsamında deney kurumuna verilen deney yetkisinin belirli bir süre için geri alınmasını,
+ı) Ek deney raporu: Deney raporu almış aracın, raporun geçerlilik süresi içerisinde temel yapı ve fonksiyonlarını değiştirmediğine deney kurumunca karar verilen ve yalnızca aracın kullanımını kolaylaştırıcı nitelikteki ilave ünitelerle ilgili olarak, araç üzerinde yapılan değişiklikleri belgeleyen raporu,
+i) (Değişik:RG-14/11/2023-32369) Firma: Aracı imal/ithal eden veya kurulumunu yapan kuruluş veya yetki verdiği gerçek veya tüzel kişiliği,
+j) Firma denetim komisyonu: Bakanlık merkez ve taşra görevlileri arasından belirlenen üç ziraat mühendisinin katılımıyla oluşan komisyonu,
+k) (Değişik:RG-14/11/2023-32369) Firma kimlik ve faaliyet beyannamesi: Firmanın, tarım makineleri ve tarım teknolojisi alanındaki, ticari unvanı, adresi, faaliyet belgesi, ticaret sicil gazetesi, marka tescil belgesi, ithal araçlar için distribütörlük belgesi, hizmet sözleşmesi gibi bilgilerle aracın imal/ ithal edildiğini veya kurulum yapıldığını belirten Ek-1’de yer alan belgeyi,
+l) Genel Müdürlük: Tarım Reformu Genel Müdürlüğünü,
+m) Kayıtlı Elektronik Posta (KEP): Resmî yazışmaların elektronik ortamda mevzuata uygun, uluslararası standartlarda ve teknik olarak güvenli bir şekilde yapılmasına olanak sağlayan sistemi,
+n) Kredi kuruluşları: T.C. Ziraat Bankası A.Ş. Genel Müdürlüğünü ve Türkiye Tarım Kredi Kooperatifleri Merkez Birliğini,
+o) (Mülga:RG-14/11/2023-32369)
+ö) (Mülga:RG-14/11/2023-32369)
+p) Tarım makineleri ve/veya tarım teknolojisi araçları deney yetki belgesi: Yetkilendirme komisyonu tarafından yeterliliği uygun görülen deney kurumuna verilen, Genel Müdürlükçe düzenlenmiş Ek-2’de yer alan belgeyi,
+r) Tarım teknolojisi: Bitkisel ve hayvansal üretim ile gıda üretimi, işlenmesi ve tüketimi süreçlerinde kullanılan her türlü alet, makine, cihaz, tesis ile enerji üretimi, tüketimi ve dönüşümünde yer alan sistemler ve bu sistemlerin faaliyetleri için gerekli olan mühendislik uygulamaları, analog ve dijital temelli bilişim ve otomasyon, uzaktan algılama ve değerlendirme uygulamalarını,
+s) Tarım Teknolojisi ve Mekanizasyon Komitesi: Ulusal tarım ve tarımsal sanayiye ilişkin politikalar ve planlamalar çerçevesinde Bakanlığın tarım makineleri ve teknolojisi ile ilgili politikaları konusunda yönlendirici olmak amacıyla oluşturulan komiteyi,
+ş) Uygulama rehberi: Deney kurumu ve firmalar tarafından yürütülecek bu Yönetmelik kapsamındaki iş ve işlemlerin gerçekleştirilmesini kolaylaştırmak ve yol göstermek amacıyla Genel Müdürlük tarafından hazırlanan rehberi,
+t) (Değişik:RG-14/11/2023-32369) Yerinde deney: Deney kurumunda laboratuvar ve/veya uygulama sahası kısıtları nedeni ile deneyleri yapılamayan aracın, firma tarafından uygun ve gerekli deney şartlarının sağlanması durumunda, yetkilendirilmiş deney kurumlarınca deney ilke ve metotları kapsamında yapılacak deneyi,
+u) (Değişik:RG-14/11/2023-32369) Yetkilendirme komisyonu: En az biri tarım makineleri veya ilgili bölüm mezunu olmak üzere Bakanlık personeli üç ziraat mühendisi ile ilgili üniversitelerin görevlendirdiği iki akademisyenden oluşan toplam beş kişilik komisyonu,
+ü) (Değişik:RG-14/11/2023-32369) Zirai mücadele alet ve makinesi: Zirai mücadele kapsamında bitki koruma ürünlerinin uygulanmasında kullanılan farklı yapısal ve teknik özelliklere sahip alet ve makineleri,
+v) (Ek:RG-14/11/2023-32369) Deney sevk ücreti: Firma tarafından Bakanlık Merkez Döner Sermaye Saymanlığı hesabına deney sevki için yatırılan ücreti,
+y) (Ek:RG-14/11/2023-32369) Deney ücreti: Firma tarafından deney kurumlarına deney için ödenen ücreti,
+ifade eder.
