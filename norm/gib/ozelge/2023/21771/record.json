@@ -1,0 +1,22 @@
+{
+  "kind": "norm",
+  "issuer": "Gelir İdaresi Başkanlığı",
+  "document_type": "ozelge",
+  "number": "62030549-120[37-2019/620]-1286674",
+  "source_id": 21771,
+  "date": "2023-11-15",
+  "title": "Hisselerini devretmek suretiyle adi ortaklıktan ayrılan ortağın mükellefiyetinin terkin tarihi ve payına düşen kazancın beyanı hk.",
+  "source": "https://gib.gov.tr/mevzuat/kanun/433/ozelge/21771",
+  "related_law": "193 sayılı GELİR VERGİSİ KANUNU",
+  "source_api": "https://gib.gov.tr/api/gibportal/mevzuat/ozelge/list",
+  "source_listing": "evidence/list/2026-11-16/ozelge-p000.json",
+  "source_listing_sha256": "5444faf84128246cd8dd8c6db754d41e2a11c7717342bfe0a07a35074d061761",
+  "source_sha256": "2406171e2613aa59538f64398cfe6ae783d977b9059ee40a380e64882470fc7a",
+  "text_status": "as-enacted",
+  "text_file": "metin.md",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  }
+}
