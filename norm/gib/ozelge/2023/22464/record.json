@@ -1,0 +1,22 @@
+{
+  "kind": "norm",
+  "issuer": "Gelir İdaresi Başkanlığı",
+  "document_type": "ozelge",
+  "number": "62030549-120[40-2020/553]-1286313",
+  "source_id": 22464,
+  "date": "2023-11-15",
+  "title": "Bedelsiz tıbbi maske tesliminde belge düzeni",
+  "source": "https://gib.gov.tr/mevzuat/kanun/435/ozelge/22464",
+  "related_law": "5520 sayılı KURUMLAR VERGİSİ KANUNU",
+  "source_api": "https://gib.gov.tr/api/gibportal/mevzuat/ozelge/list",
+  "source_listing": "evidence/list/2026-11-16/ozelge-p000.json",
+  "source_listing_sha256": "5444faf84128246cd8dd8c6db754d41e2a11c7717342bfe0a07a35074d061761",
+  "source_sha256": "6eb87630ea3351b13b85dcebe802878c3c31f6ca501e53532e6834e8e79210d0",
+  "text_status": "as-enacted",
+  "text_file": "metin.md",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  }
+}
