@@ -1,0 +1,4 @@
+Diğer hükümler
+MADDE 52- (1) Tezli yüksek lisans ve doktora programları için öğretim üyesi başına düşen tez danışmanlığı en fazla 14, tezsiz yüksek lisans programları için ise tezli yüksek lisans ve doktora programları hariç en fazla 16 öğrenci düşecek şekilde belirlenir.
+(2) Tıpta ve diş hekimliğinde uzmanlık doktoraya eşdeğer düzeyde olup, bu uzmanlık eğitimleri 26/4/2014 tarihli ve 28983 sayılı Resmî Gazete’de yayımlanan Tıpta ve Diş Hekimliğinde Uzmanlık Eğitimi Yönetmeliğine göre yürütülür.
+(3) Üniversite tarafından, afet ve salgınlarda tez aşamasındaki lisansüstü eğitim öğrencilerine talepleri halinde bir dönem, afet veya salgının aşamasına göre tekrar başvurmaları durumunda bir dönem daha olmak üzere en fazla iki dönem ek süre verilebilir, verilen bu ek süreler azami süreden sayılmaz.

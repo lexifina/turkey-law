@@ -1,0 +1,10 @@
+ALTINCI BÖLÜM
+Tezsiz Yüksek Lisans Programına İlişkin Esaslar
+Tezsiz yüksek lisans programında süre ve ders yükü
+MADDE 33- (1) Tezsiz yüksek lisans programı otuz krediden ve 60 AKTS’den az olmamak kaydıyla en az on ders ile dönem projesi dersinden oluşur. Öğrenci, dönem projesi dersinin alındığı yarıyılda dönem projesi dersine kayıt yaptırmak ve yarıyıl sonunda yazılı proje raporu vermek zorundadır. Bu rapor, öğrencinin proje danışmanı tarafından değerlendirilir. Dönem projesi dersi, kredisiz olup başarılı veya başarısız olarak değerlendirilir.
+(2) Tezsiz yüksek lisans programını tamamlama süresi, bilimsel hazırlık programında geçen süre hariç, kaydolduğu programa ilişkin derslerin verildiği dönemden başlamak üzere, her dönem için kayıt yaptırıp yaptırmadığına bakılmaksızın en az iki yarıyıl, en çok üç yarıyıldır. Bu sürenin sonunda başarısız olan veya programı tamamlayamayan öğrencinin Üniversite ile ilişiği kesilir.
+(3) Tezsiz yüksek lisans programında ilgili EABDB, her öğrenci için ders seçiminde ve dönem projesinin yürütülmesinde danışmanlık yapacak bir öğretim üyesi veya yüksek lisans düzeyinde ders vermiş veya vermekte olan doktora derecesine sahip bir öğretim görevlisini en geç birinci yarıyılın sonuna kadar belirler.
+(4) Tezsiz yüksek lisans programlarında öğrenci, ilgili EABDB’nin önerisi ve Enstitü Yönetim Kurulu kararıyla lisans öğrenimi sırasında alınmamış olması koşuluyla en çok üç lisans dersi alabilir. Bu dersler, programın ders sayısı ve kredisi hesabında dikkate alınır.
+(5) Öğrenci, ilgili EABDB önerisi ve Enstitü Yönetim Kurulunun kararıyla izlediği ders yüküne sayılmak üzere, Üniversite dışındaki lisansüstü programlardan lisansüstü dersler alabilir. Bu derslerin sayısı üçü geçemez.
+(6) Öğrenci, ilgili EABDB’nin önerisi ve Enstitü Yönetim Kurulu kararıyla izlediği ders yüküne sayılmak üzere, Üniversite içindeki lisansüstü programlardan dersler alabilir.
+(7) Enstitü Kurulu tarafından belirlenen esaslara göre tezsiz yüksek lisans programının sonunda yeterlik sınavı uygulanabilir.

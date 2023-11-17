@@ -1,0 +1,8 @@
+İKİNCİ BÖLÜM
+Eğitim ve Öğretime İlişkin Esaslar
+Eğitim ve öğretim dili
+MADDE 5- (1) Üniversitenin lisansüstü programlarında eğitim ve öğretim dili Türkçe ve İngilizcedir. Bununla birlikte Senato onayı ile yeni Türkçe ve İngilizce programlar da açılabilir. İngilizce olan programlarda Türkçe veya başka bir dilde yapılması zorunlu olan dersler Senato tarafından belirlenir.
+(2) İngilizce yüksek lisans ve doktora programlarına başvuru için adaylar İngilizce yeterliklerini belgelemek zorundadır. Türkçe tezli/tezsiz yüksek lisans programlarında ilgili EABDB’nin önerisi, Enstitü Kurulu kararı ve Senato onayı olmak kaydıyla yabancı dil koşulu aranabilir. Bu kapsamda ÖSYM tarafından eşdeğerliği kabul edilen yabancı dil sınav sonuçları da kabul edilir. İngilizce dil koşulu gerektiren yüksek lisans programlarında dil yeterliklerini belgeleyemeyen adayların İngilizce dil yeterlikleri Üniversite tarafından yapılacak İngilizce yeterlik sınavı ile tespit edilir.
+(3) Doktora programına öğrenci kabulünde anadilleri dışında YÖK tarafından kabul edilen merkezî yabancı dil sınavları ile eşdeğerliği kabul edilen uluslararası yabancı dil sınavlarından en az 60 puan veya ÖSYM tarafından eşdeğerliği kabul edilen uluslararası yabancı dil sınavlarından bu puan muadili bir puan alınması zorunludur. Asgari puanlar girilecek programların özelliklerine göre daha yüksek olabilir.
+(4) Resmî dili İngilizce olan bir ülkenin İngilizce eğitim veren bir yükseköğretim kurumundan mezun olanlardan İngilizce yeterlik belgesi istenmez.
+(5) Dil hazırlık sınıfında okuyup, iki yılın sonunda yeterli puanı alamayan öğrencilerin ilişiği kesilir.
