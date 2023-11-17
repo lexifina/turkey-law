@@ -1,0 +1,7 @@
+İKİNCİ BÖLÜM
+Denetim Türleri, Dosya ve Elektronik Sistem Üzerinden Denetim, Yetkisiz, İzinsiz veya Ruhsatsız Sunulan Sağlık Hizmetlerinin Denetimi
+Denetim türleri
+MADDE 5- (1) Sağlık tesisleri ve sağlık hizmet sunum alanları; olağan, olağan dışı ve süre sonu denetim olmak üzere üç şekilde denetlenir.
+a) Olağan denetim; müdürlükçe denetim planında belirlenen takvim dâhilinde yerinde yapılan denetimdir. Sağlık tesisinin tabi olduğu mevzuatında belirlenmiş olan ruhsat, faaliyet ve hizmet standartlarına göre denetim ekibi tarafından yılda en az bir kez ve haberli olarak yapılır.
+b) Olağan dışı denetim; ihbar veya şikâyet üzerine veya yazılı, görsel ve işitsel yayınlar, sosyal paylaşım siteleri, elektronik ortam ve benzeri iletişim kanallarında ilgili mevzuat ve Bakanlıkça belirlenen politika ve düzenlemelerle uyumlu olmayan bildirimler hakkında Bakanlık veya müdürlükçe resen ve habersiz olarak yapılan denetimdir. Olağan dışı denetimin; idari yaptırım uygulanması, adli merciler veya ilgili diğer kurum ve kuruluşlara bildirimler hariç olmak üzere, denetimi yapacak denetleyici ya da denetim ekibinin görevlendirildiği tarihten itibaren en geç otuz gün içerisinde tamamlanması esastır.
+c) Süre sonu denetim; denetimlerde tespit edilen uygunsuzlukların giderilmesi için verilen sürenin sona erdiği tarihten itibaren en geç on beş iş günü içerisinde uygunsuzlukların giderilip giderilmediğinin yerinde tespiti amacıyla yapılan denetimdir. Bu denetimde, denetim tutanağına süre sonu denetimi olduğu yazılır.

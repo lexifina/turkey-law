@@ -1,0 +1,2 @@
+Denetleyici görevlendirilmesi
+MADDE 17- (1) İllerde denetleyici görevlendirmelerinde tercihen; 20 nci maddede Bakanlıkça düzenlenen denetim eğitimi katılım belgesine sahip olanlar ile denetim birimi ve denetim faaliyetlerinde fiilen görev yapmış, denetim alanında bilgi ve deneyimi olan, tercihen en az lisans mezunu müdürlükte görevli personele öncelik verilir. Bu niteliği haiz personelin yetersiz olduğu illerde; işleyiş ve mevzuat bilgisi olan, müdürün uygun gördüğü personel de görevlendirilebilir. İllerde denetleyiciler müdürlük onayı ile görevlendirilir.
