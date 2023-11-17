@@ -1,0 +1,15 @@
+{
+  "issuer": "Radyo ve Televizyon Üst Kurulu (RTÜK)",
+  "record_type": "Üst Kurul Kararı",
+  "meeting": "2023/45",
+  "meeting_date": "2023-11-17",
+  "meeting_date_as_published": "17.11.2023",
+  "decision_no": "30",
+  "source_id": 19904,
+  "title": "RTÜK kararı 2023/45-30",
+  "source": "https://www.rtuk.gov.tr/UstKurulKarar/Detay/19904",
+  "source_sha256": "c41b0662e24f158c0e99b764e23be464bf85c610403dd0d9225dbc8587c88cfa",
+  "text_status": "metadata-only",
+  "metadata_only_reason": "possible private person name(s) in the official text (2 match(es)); full text withheld, official link only",
+  "law_text_complete": false
+}
