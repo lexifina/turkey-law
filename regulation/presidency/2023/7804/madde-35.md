@@ -1,0 +1,7 @@
+Diğer hususlar
+MADDE 35- (1) Bu Usul ve Esaslara göre yapılacak alımlarda sözleşme yapılmasında isteklinin ve idarenin görev ve sorumluluğu, alımın sözleşmeye bağlanması, sözleşmeye davet, idare tarafından şikâyetlerin incelenmesi, sözleşmesinde sözleşme değişikliği yapılacak durumlar belirtilmek kaydıyla ek sözleşme düzenlenmesi, gizlilik içinde yürütülmesi gereken alımlarla, denetim-muayene ve kabul işlemleri ile ilgili esaslar alım dokümanında belirlenir.
+(2) İdarece ihtiyaç duyulması hâlinde hizmet alımları kapsamında yapılan garanti edilmiş yararlanma hakkı sözleşmesi veya uyuyan sözleşmelerin hükümleri doğrultusunda tatbikat, deneme, gösteri ve benzeri faaliyetler yapılabilir.
+(3) 4734 sayılı Kanunun 53 üncü maddesinin birinci fıkrasının (j) bendinin (1) numaralı alt bendi gereğince Kamu İhale Kurumu hesabına yatırılması gereken sözleşme bedelinin on binde beşi miktarındaki tutar, bu Usul ve Esaslara göre yapılan alımlarda alınmaz.
+(4) 4734 sayılı Kanunun 54, 55 ve 56 ncı maddelerinde yer alan şikayet ve itirazen şikayet incelemelerine ilişkin hükümler, bu Usul ve Esaslara göre yapılan alımlarda uygulanmaz.
+(5) Bu Usul ve Esasların uygulanmasında doğacak tereddütleri gidermeye Bakanlık yetkilidir ve Bakanlık bu Usul ve Esaslarda yer alan hükümlerin uygulanmasına yönelik olarak düzenlemeler yapabilir.
+(6) Bu Usul ve Esaslarda yer almayan hususlarla ilgili olarak 4734 sayılı Kanun ve 4735 sayılı Kanun ile ilgili diğer ikincil mevzuat hükümleri uygulanır.

@@ -1,0 +1,2 @@
+Avans ve krediler
+MADDE 31- (1) Bu Usul ve Esaslar kapsamındaki alımlarda avans ve kredi işlemleri, işin özelliğine göre 10/12/2003 tarihli ve 5018 sayılı Kamu Mali Yönetimi ve Kontrol Kanunu ile 2/7/1992 tarihli ve 3833 sayılı Türk Silahlı Kuvvetleri Stratejik Hedef Planının Gerçekleştirilmesi Maksadıyla Gelecek Yıllara Sari Taahhütlere Girişme Yetkisi Verilmesi Hakkında Kanun ve bu Kanunlara dayanılarak çıkarılan ikincil mevzuat hükümlerine göre yürütülür. Yükleniciye avans verilip verilmeyeceği, verilecekse oranı alım dokümanında belirtilir.

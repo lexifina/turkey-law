@@ -1,0 +1,2 @@
+Sonuçlanmamış alım faaliyetleri
+GEÇİCİ MADDE 1- (1) Bu Usul ve Esasların yürürlüğe girdiği tarihten önce 26/3/2010 tarihli ve 27533 sayılı Resmî Gazete’de yayımlanan 4734 Sayılı Kanunun 3-n Maddesi Kapsamında Yapılacak Mal ve Hizmet Alımlarına İlişkin Yönetmelik hükümlerine göre başlanmış ve henüz sonuçlanmamış ihale ve/veya alım faaliyetleri, söz konusu yönetmelik hükümlerine göre sonuçlandırılır.

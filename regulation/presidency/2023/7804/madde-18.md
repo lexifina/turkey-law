@@ -1,0 +1,2 @@
+Tekliflerin geçerlilik süresi
+MADDE 18- (1) Tekliflerin geçerlilik süresi alım dokümanında belirtilir. İdarece ihtiyaç duyulması hâlinde bu süre, teklif ve alım koşulları değiştirilmemek ve isteklinin kabulü kaydıyla en fazla alım dokümanında belirtilen teklif geçerlilik süresi kadar uzatılabilir. Ancak bu sürenin bitimine rağmen alımın sonuçlandırılamayacağının alım komisyonunca belirlenmesi hâlinde alım yetkilisinin onayı ve isteklinin kabulü ile bu süre, idarece yeteri kadar uzatılabilir.

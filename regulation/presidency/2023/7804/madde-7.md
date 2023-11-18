@@ -1,0 +1,7 @@
+Pazarlık usulü
+MADDE 7- (1) Pazarlık usulü, idarenin bu Usul ve Esaslar kapsamındaki mal ve hizmet ihtiyaçlarını karşılamak amacıyla, ilan yapılmaksızın idarece davet edilen isteklilerin teklif verebildiği alım usulüdür.
+(2) Davet edilecek istekliler alım yetkilisince belirlenir ve davet edilecek istekli sayısı ivedi veya zorunlu hâller dışında üçten az olamaz. Davet edilecek isteklilerden istenecek ekonomik, mali, mesleki ve teknik yeterliklerine ilişkin hususlar alım dokümanında belirtilir.
+(3) Davet edilen istekliler, doğrudan teklif vermeye davet edilir. Teklif veren isteklilerde sayı sınırı aranmaz. Davet edilen istekliler kendi aralarında veya davet edilmeyen diğerleri ile ortak girişim kurarak teklif sunamazlar. Davet edilenler dışında herhangi bir istekli pazarlık usulü ile alıma katılamaz.
+(4) Tekliflerin alınması ve değerlendirilmesini müteakip, alım dokümanında belirtilen şartları karşılayan istekli/istekliler ile daha önceki fiyat teklifini aşmamak üzere fiyat üzerinde görüşme yapılarak alım sonuçlandırılır.
+(5) İdare, pazarlık usulü ile gerçekleştirilecek alımları, teknik kriterleri görüşerek ya da bu kriterleri görüşmeksizin yalnızca fiyat üzerinde görüşme yaparak sonuçlandırmakta serbesttir. Bu husus alım dokümanında belirtilir.
+(6) Alım dokümanı, davet edilenler tarafından idarede bedelsiz görülebilir. Davet edilen isteklilerden alıma katılmak isteyenlerin, alım dokümanında aksi belirtilmedikçe alım dokümanını satın almaları zorunludur.

@@ -1,0 +1,2 @@
+Kapsam
+MADDE 2- (1) Bu Usul ve Esaslar, Milli Savunma Bakanlığının uluslararası mükellefiyetlerden doğan veya ulusal amaçlı; savunma, güvenlik, insani yardım gibi durumlarda ortaya çıkabilecek acil ihtiyaçların, süratli ve etkin bir biçimde temini amacıyla, önceden güvenceler alınmasına olanak sağlayan sözleşmeler yapmak suretiyle mal ve hizmet alımları ile erbaş ve erler ile askerî malzemelerin hava yoluyla taşıtılması için Türk Hava Yolları Anonim Ortaklığından yapılacak hizmet alımlarını kapsar.
