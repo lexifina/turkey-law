@@ -1,0 +1,20 @@
+{
+  "record_type": "gazette-item",
+  "gazette": "Resmî Gazete",
+  "jurisdiction": "TR",
+  "date": "2023-11-18",
+  "issue": "32373",
+  "edition": "regular",
+  "item": 18,
+  "section": "YÜRÜTME VE İDARE BÖLÜMÜ",
+  "heading": "YÖNETMELİKLER",
+  "title": "4734 Sayılı Kanunun 3-n Maddesi Kapsamında Yapılacak Mal ve Hizmet Alımlarına İlişkin Yönetmeliğin Yürürlükten Kaldırılmasına Dair Yönetmelik",
+  "official_link": "https://www.resmigazete.gov.tr/eskiler/2023/11/20231118-18.htm",
+  "link_format": "htm",
+  "index_url": "https://www.resmigazete.gov.tr/eskiler/2023/11/20231118.htm",
+  "index_sha256": "4aa80d7eb7164d96f8eebd5eafe153ab6c16bbc52cf479e4ebba3c6404697004",
+  "index_header": "18 Kasım 2023 ... 32373 Sayılı Resmî Gazete",
+  "issue_pdf": "https://www.resmigazete.gov.tr/eskiler/2023/11/20231118.pdf",
+  "in_force_basis": "Resmî Gazete publication date; not a commencement reading.",
+  "text_status": "metadata-only; text not yet fetched (follow-up pass adds it as its own commit)"
+}
