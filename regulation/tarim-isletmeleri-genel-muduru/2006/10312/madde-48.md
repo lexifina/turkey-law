@@ -1,0 +1,7 @@
+Kesin teminatın geri verilmesi
+MADDE 48 – (Değişik:RG-31/12/2016-29935 3.Mükerrer)
+(1) İhale konusu işin sözleşme ve şartname hükümlerine uygun bir şekilde yerine getirildiği ve yüklenicinin bu işten dolayı TİGEM’e herhangi bir borcunun olmadığı tespit edildikten sonra, taahhüt konusu işin niteliği ile ilgili olarak Sosyal Güvenlik Kurumundan ilişiksizlik belgesi getirilmesi üzerine kesin teminat yükleniciye iade edilir.
+(2) Alınan mal veya hizmet için bir garanti süresi öngörülmesi halinde, muayene kabul işlemlerinin tamamlanması ve Sosyal Güvenlik Kurumuna bildirimi zorunlu olan işlerde Sosyal Güvenlik Kurumundan alınmış ilişiksizlik belgesinin ibraz edilmesine müteakip kesin teminatın yarısı iade edilir. Garanti süresi dolduktan sonra da kalan yarısı iade edilir.
+(3) (Değişik:RG-20/11/2023-32375) Kesin teminat Genel Müdürlükte Ticaret ve Satın Alma Dairesi Başkanı, işletmelerde ise işletme müdürünün onayını müteakip iade edilir.
+(4) Yüklenicinin bu iş nedeniyle idare veya Sosyal Güvenlik Kurumuna olan borçları ile ücret sayılan ödemelerden yapılan kanuni vergi kesintilerinin kesin kabul tarihine veya varsa garanti süresinin bitimine kadar ödenmemesi halinde, protesto çekmeye ve hüküm almaya gerek kalmaksızın kesin teminatı paraya çevrilerek borçlarına karşılık tutulur. Varsa kalan meblağ yükleniciye geri verilir.
+(5) Satışlar ve piyasadan hazır halde alınıp satılan mal alım ihaleleri için alınan kesin teminatların iadesinde Sosyal Güvenlik Kurumundan ilişiksiz belgesi getirilmesi şartı aranmaz.

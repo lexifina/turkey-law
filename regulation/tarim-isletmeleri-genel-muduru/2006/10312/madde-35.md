@@ -1,0 +1,13 @@
+İhaleye katılamayacak olanlar
+MADDE 35 – (1) (Değişik ibare:RG-31/12/2016-29935 3.Mükerrer) Satış ihalelerinde aşağıda sayılanlar doğrudan veya dolaylı veya alt yüklenici olarak, kendileri veya başkaları adına hiçbir şekilde ihalelere katılamazlar.
+a) (Değişik:RG-31/12/2016-29935 3.Mükerrer) 4734 sayılı Kanun ve diğer kanunlardaki hükümler gereğince geçici veya sürekli olarak idarelerce veya mahkeme kararıyla kamu ihalelerine katılmaktan yasaklanmış olanlar ile 12/4/1991 tarihli ve 3713 sayılı Terörle Mücadele Kanunu kapsamına giren suçlardan veya örgütlü suçlardan veyahut kendi ülkesinde ya da yabancı bir ülkede kamu görevlilerine rüşvet verme suçundan dolayı hükümlü bulunanlar.
+b) İlgili mercilerce hileli iflas ettiğine karar verilenler.
+c) TİGEM’in ihale yetkilisi kişileri ile bu yetkiye sahip kurullarda görevli kişiler.
+ç) TİGEM’in ihale konusu işle ilgili her türlü ihale işlemlerini hazırlamak, yürütmek, sonuçlandırmak ve onaylamakla görevli olanlar.
+d) (c) ve (ç) bentlerinde belirtilen şahısların eşleri ve üçüncü dereceye kadar kan ve ikinci dereceye kadar kayın hısımları ile evlatlıkları.
+e) Kişilerin yönetim kurullarında görevli bulunmadıkları veya sermayesinin yüzde onundan fazlasına sahip olmadıkları anonim şirketler hariç (c), (ç) ve (d) bentlerinde belirtilenlerin ortakları ile şirketleri.
+f) İhale konusu işin danışmanlık hizmetlerini yapan yükleniciler bu işin ihalesine katılamazlar. Aynı şekilde, ihale konusu işin yüklenicileri de o işin danışmanlık hizmeti ihalelerine katılamazlar. Bu yasaklar, bunların ortaklık ve yönetim ilişkisi olan şirketleri ile bu şirketlerin sermayesinin yarısından fazlasına sahip oldukları şirketleri için de geçerlidir.
+g) Sermaye paylarına bakılmaksızın idarenin doğrudan veya dolaylı olarak hissedarı olduğu şirketler, 22/1/2004 tarihli ve 5072 sayılı Dernekler ve Vakıfların Kamu Kurum ve Kuruluşları ile İlişkilerine Dair Kanun kapsamındaki vakıf ve dernekler.
+ğ) (Ek:RG-31/12/2016-29935 3.Mükerrer) TİGEM’in satış ihalelerine katılmaktan yasaklama kararı verilenler.
+(2) (Ek:RG-31/12/2016-29935 3.Mükerrer)(2) Alım İhalelerinde; bu Yönetmeliğin uygulanmasında ihaleye katılamayacaklar ile ilgili hususlarda 4734 sayılı Kamu İhale Kanunu hükümleri uygulanır.
+(3) Bu yasaklara rağmen ihaleye katılan istekliler ihale dışı bırakılarak geçici teminatları gelir kaydedilir. Ayrıca, bu durumun tekliflerin değerlendirmesi aşamasında tespit edilememesi nedeniyle bunlardan biri üzerine ihale yapılmışsa, teminatı gelir kaydedilerek ihale iptal edilir. İkinci ihale yapıldığı taktirde idare aleyhine meydana gelecek zarar ziyanın hükmen tahsili yoluna gidilir.

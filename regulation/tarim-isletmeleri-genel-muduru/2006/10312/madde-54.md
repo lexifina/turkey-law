@@ -1,0 +1,5 @@
+Teklif mektuplarının verilmesi
+MADDE 54 – (1) Teklif mektupları ilanda bildirilen gün ve saate kadar makbuz karşılığında genel evrak servisine verilir. Posta ile gönderilen teklif mektuplarının da belirtilen saate kadar genel evrak servisine ulaşmış olması şarttır. Bu saatten sonra verilen tekliflerle, postada geciken teklifler kabul edilmez.
+(2) (Değişik:RG-20/11/2023-32375) Genel evraka ulaşan teklif mektupları açılmaksızın zarfın üzerine tarih ve sayı konulmak suretiyle kayda alınır ve Genel Müdürlükte Ticaret ve Satın Alma Dairesi Başkanlığına, işletmelerde ticaret ve satın alma şefliğine teslim edilir.
+(3) (Değişik:RG-31/12/2016-29935 3.Mükerrer) Verilen teklifler, zeyilname düzenlenmesi hali hariç, herhangi bir sebeple geri alınamaz veya değiştirilemez.
+(4) Genel evrak servisince, üzerinde teklif zarfı olduğunu gösteren bir kayıt bulunmaması nedeniyle yanlışlıkla açılan zarflar bir tutanak düzenlenerek bu tutanakla birlikte başka bir zarfa konur. Zarfın yapıştırıldığı kısım, genel evrak şefi tarafından imzalanarak ticaret birimine verilir.

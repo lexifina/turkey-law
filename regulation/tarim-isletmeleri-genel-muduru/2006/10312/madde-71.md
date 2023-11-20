@@ -1,0 +1,4 @@
+Yüklenici veya müşterinin sözleşmenin bozulmasına neden olması
+MADDE 71 – (1) Sözleşme yapıldıktan sonra, yüklenici veya müşterinin taahhüdünden vazgeçmesi veya taahhüdünü şartname ve sözleşme hükümlerine uygun olarak yerine getirmemesi halinde, yapılan en fazla on gün süreli yazılı ihtara rağmen aynı durumun devam etmesi halinde, ayrıca protesto çekmeye ve hüküm istihsaline gerek kalmaksızın kesin teminatı şartı ceza olarak irat kaydedilir ve sözleşme hükümlerine göre ayrıca zarar ziyan talebinde bulunulacaksa, kanuni yollara başvurulur.
+(2) Gelir kaydedilen teminat, yüklenici veya müşterinin borcuna mahsup edilmez, borcu varsa ayrıca tahsili yoluna gidilir.
+(3) Yüklenici veya müşterinin taahhüdünü gecikme ile yapması halinde öngörülmüş bir ceza varsa İdare bu cezayı almaya devam ederek beklemekte veya sözleşmeyi feshetmekte ve kalan işi yüklenici/müşteri nam ve hesabına yaptırıp yaptırmamakta serbesttir.

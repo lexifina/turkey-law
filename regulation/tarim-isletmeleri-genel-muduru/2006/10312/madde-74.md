@@ -1,0 +1,3 @@
+Müşterinin süresi içinde taşınır malları teslim almaması
+MADDE 74 – (1) Taşınır mallar, bedeli ödendiği halde şartnamedeki süre içinde teslim alınmaz ise, Genel Müdürlük bunları müşteri hesabına bu Yönetmelik hükümleri dairesinde satmaya yetkilidir. Malların süresi içinde teslim alınmaması ve ikinci defa satılması sebebiyle tahakkuk edecek masraflar, varsa Genel Müdürlüğün diğer alacakları, ikinci satış bedelinden mahsup edildikten sonra geri kalan kısmı müracaatında verilmek üzere müşteri namına emanet hesabına alınır. Satış bedeli Genel Müdürlüğün masraflarını ve alacaklarını karşılamazsa farkı müşteriden tahsil edilir.
+(2) Sözleşme akdedilmiş ise feshedilerek yukarıdaki hükümlere göre işlem yapılır.

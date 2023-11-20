@@ -1,0 +1,4 @@
+İdari şartname
+MADDE 30 – (1) İhale şartnameleri, mal/mahsul satımlarında veya mal, hizmet alımları ile yapım işlerinde satım veya alımların teknik şartnamelerinde belirtilen özellikler dahilinde yapılması için, düzenlenecek sözleşmelerde yer alacak ve tarafların üstlenecekleri idari, ticari, mali ve hukuki yükümlülükler ve bunlara ilişkin usul ve esaslar ile ihalenin yapılış şeklini düzenleyen belgelerdir.
+(2) İhale şartnameleri "tip" olarak tüm idare bünyesinde kullanılmak üzere ticaret (Ek ibare:RG-20/11/2023-32375) ve satın alma birimince, hukuk müşavirliği ve ilgili dairelerin görüşleri alınarak hazırlanır.
+(3) İdari ve teknik konular ayırt edilmeksizin, kısa ve işin özelliğine göre tek bir malın alımı ve satımı için ticaret (Ek ibare:RG-20/11/2023-32375) ve satın alma birimince özel şartnameler hazırlanabilir.

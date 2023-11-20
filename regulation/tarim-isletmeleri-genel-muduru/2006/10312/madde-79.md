@@ -1,0 +1,4 @@
+Yüklenici veya müşterinin birden fazla olması hali
+MADDE 79 – (1) Birden fazla gerçek veya tüzel kişi tarafından birlikte yapılan taahhütlerde, yüklenicilerden veya müşterilerden birinin ölümü, iflası, tutuklu veya mahkum olması gibi haller sözleşmenin devamına engel olmaz.
+(2) Birlikte yapılan taahhütlerde yüklenicilerden biri Genel Müdürlüğe muhatap firma olarak bildirilmiş ise, muhatap firmanın şahıs veya şirket olmasına göre ölüm, iflas veya dağılma hallerinde sözleşme kendiliğinden sona erer. Ancak, diğer yüklenicilerin teklifi ve idarenin uygun görmesi halinde, sözleşme yenilenerek işe devam edilir.
+(3) Birlikte yapılan taahhütlerde gruba dahil firmadan başka herhangi bir ortak şahsın ölümü veya ortak şirketin herhangi bir sebeple dağılması halinde muhatap firma ve grubun diğer ortakları, teminat dahil işin o ortağa yüklediği sorumlulukları da üzerine alarak işi bitirirler.

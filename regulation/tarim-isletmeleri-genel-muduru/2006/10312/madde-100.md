@@ -1,0 +1,2 @@
+Firmalarla olan ilişkilerde gözetilecek hususlar
+MADDE 100 – (1) Tarım İşletmeleri Genel Müdürlüğü piyasada aranılan ve güvenilen müşteri durumunu muhafaza edebilmesi için, iş ilişkilerinde firmalara gereksiz külfet yüklememek, zorluk çıkarmamak, alımlarla ilgili teklif zarflarının geciktirilmeden açılmasını sağlamak, teslim tesellüm işlerini süratle sonuçlandırmak, firmalara yapılacak ödemelerde gereksiz gecikmelere sebebiyet vermemek esastır.

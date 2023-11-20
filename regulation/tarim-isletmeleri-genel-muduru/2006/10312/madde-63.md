@@ -1,0 +1,5 @@
+Pazarlık usulü
+MADDE 63 – (1) Pazarlık usulü ile yapılan ihalelerde teklif alınması belli bir şekle bağlı değildir. İhaleler yetkili organ veya komisyonlar tarafından işin nitelik ve gereğine göre, bir veya daha fazla istekliden yazılı veya sözlü teklif alma ve bedel üzerinden anlaşmak suretiyle yapılır. (Ek cümle:RG-31/12/2016-29935 3.Mükerrer) Yazılı teklif alınan pazarlık usulünde, alınan ilk teklifte oluşan fiyatlar uygun bulunmadığı takdirde, komisyon tarafından sözlü pazarlık yapılabilir veya ikinci bir yazılı teklif istenebilir.
+(2) Pazarlık sonucunda anlaşmaya varılan fiyat ve gerek görülecek diğer hususlar yazılı teklife bağlanır veya tutanakla tespit edilir.
+(3) Alım ve satımın pazarlık usulü ile yapılma gerekçesinin, pazarlığın ne şekilde yapıldığının, ne gibi fiyatlar teklif olduğunun, işlem yapılan firma veya kimsenin niçin tercih edildiğinin pazarlık kararında belirtilmesi zorunludur.
+(4) Pazarlık kararları yetki limitlerine göre ilgili organlarca onaylandıktan sonra kesinleşir.

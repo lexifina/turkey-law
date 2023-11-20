@@ -1,0 +1,3 @@
+İhtiyaç pusulasının hazırlanması
+MADDE 23 – (1) Her alım mutlak surette usulüne göre hazırlanmış bir ihtiyaç pusulasına veya olura dayandırılır. İhtiyaç pusulaları, ambar mevcudunun tespiti bakımından yetkili ambar memuru, ödeneğin tespiti bakımından ise, (Değişik ibare:RG-20/11/2023-32375) finans yönetimi birimi yetkilisi tarafından incelenerek, imzalanmasından sonra merkezde Genel Müdür veya ilgili genel müdür yardımcısının, işletmelerde işletme müdürü veya yardımcısının onayı ile alım organlarına intikal ettirilir.
+(2) İhtiyaç pusulası ihtiyacı bildiren birim tarafından ve mutlaka alımdan önce tanzim edilir.

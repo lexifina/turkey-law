@@ -1,0 +1,2 @@
+Kapsam
+MADDE 2 – (1) Bu Yönetmelik, 4734 sayılı Kamu İhale Kanununun 3 üncü maddesinin (Ek ibare:RG-18/1/2022-31723) (a) ve (g) bendi ile geçici 4 üncü maddesi kapsamında mal ve hizmetlerin alımı ile TİGEM tarafından üretilen bitkisel ve hayvansal ürünlerle, üretim artıklarının satışı ve satış ihaleleri, satılacak, satın alınacak her türlü malın teslim, tesellüm, bedellerinin tahsil ve tediyesi ile ilgili tüm işlemleri kapsar.

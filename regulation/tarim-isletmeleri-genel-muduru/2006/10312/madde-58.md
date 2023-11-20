@@ -1,0 +1,3 @@
+Tekliflerin aynı olması
+MADDE 58 – (Değişik:RG-31/12/2016-29935 3.Mükerrer)
+(1) Birden fazla istekli tarafından teklif edilen fiyatın en düşük fiyat olması ve bu fiyatlarında birbirine eşit olması durumunda; ekonomik açıdan en avantajlı teklifin belirlenmesi; 4734 sayılı Kamu İhale Kanununun 40 ıncı maddesi ile 4/3/2009 tarihli ve 27159 mükerrer sayılı Resmî Gazete’de yayımlanan Hizmet Alımı İhaleleri Uygulama Yönetmeliğinin 63 üncü maddesi ve 4/3/2009 tarihli ve 27159 mükerrer sayılı Resmî Gazete’de yayımlanan Mal Alımı İhaleleri Uygulama Yönetmeliğinin 62 nci maddesi esasları dâhilinde alım konusuna uygun olan hükümlerden bir veya birkaçı değerlendirmeye alınarak, ihale dokümanlarında yapılacak düzenlemelere göre işlem yapılarak ihale sonuçlandırılır.

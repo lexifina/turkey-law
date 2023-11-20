@@ -1,0 +1,6 @@
+Merkez alım-satım ve ihale komisyonunun görevleri
+MADDE 9 – (1) Merkezde Alım-Satım ve İhale Komisyonunun görevleri şunlardır:
+a) Bu Yönetmeliğin 17 nci maddesi birinci fıkrasının (a) bendinin (3) numaralı alt bendinde belirtilen limitin üzerinde olan işlerle bu limitin altında olmakla birlikte işin özelliği icabı Merkez Alım-Satım ve İhale Komisyonunca görüşülüp karara bağlamak, onay makamınca uygun görülen alım-satım ve ihale işleri ile ilgili teklifleri açmak, incelemek ve karara bağlamak.
+b) (Değişik:RG-31/12/2016-29935 3.Mükerrer) Tekliflerin alınmasından sonra konunun teknik komisyonda incelenmesi komisyonca gerekli görüldüğü takdirde; ilgili dairesince belirlenecek ve ihale yetkilisince onaylanacak teknik komisyonun çalışmalarını verilen süre içerisinde tamamlamasını takip etmek.
+c) Teknik komisyonca yapılan incelemenin yeterli olmaması durumunda aynı komisyonda konunun yeniden incelenmesini sağlamak, gerektiğinde yeni bir komisyon kurmak.
+ç) Teknik komisyonun çalışmaları sırasında teknik konular ile ilgili bazı tamamlayıcı bilgiye ihtiyaç duyulduğunda, komisyon başkanının talebi doğrultusunda ticaret birimince yazılı olarak firmalardan alınan bilgi ve belgeler ile hangi hususlarda, hangi sebeple bilgi ve belge istenildiğini komisyon kararında belirtmek.

@@ -1,0 +1,4 @@
+Yüklenici veya müşterinin ağır hastalığı, tutukluluk veya mahkumiyeti hali
+MADDE 78 – (1) Yüklenici veya müşteri sözleşmenin yerine getirilmesine engel olacak derecede ağır hastalık, tutukluluk veya hürriyeti bağlayıcı bir ceza nedeni ile taahhüdünü yapamayacak duruma girerse, bu hallerin oluşundan itibaren otuz gün içinde Genel Müdürlüğün kabul edeceği bir şahsı vekil tayin etmek şartıyla taahhüdüne devam edebilir.
+(2) (Değişik:RG-31/12/2016-29935 3.Mükerrer) Eğer yüklenici veya müşteri kendi serbest iradesi ile vekil tayin etmek imkânından mahrum ise yerine idarece otuz gün içinde genel hükümlere göre bir yasal temsilci tayin edilmesi istenir.
+(3) (Değişik:RG-31/12/2016-29935 3.Mükerrer) Yukarıdaki hükümlerin uygulanmaması halinde sözleşme bozulur ve 71 inci maddede belirtilen esaslara göre işlem yapılır.

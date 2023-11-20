@@ -1,0 +1,2 @@
+Sözleşmede belirtilen işin artış veya eksilişi
+MADDE 72 – (1) Sözleşmede, işin artış veya eksiliş miktar ve yüzdeleri belirtilmişse buna göre hareket edilir. Yüklenici veya müşteri şartnamede belirtilen artış veya eksilişi kabul etmek mecburiyetindedir. Artış halinde işin teslim süresi makul miktarda artırılır. Ancak, artışla birlikte işin tutarı 4734 sayılı Kanunun 3 üncü maddesinin (g) bendinde belirtilen parasal tutarı aşamaz.

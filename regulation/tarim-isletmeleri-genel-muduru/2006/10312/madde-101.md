@@ -1,0 +1,3 @@
+Firmalarla kimlerin ilişki kuracağı
+MADDE 101 – (1) Merkezde Genel Müdür ve işletmelerde işletme müdürünün izni olmadıkça alım-satımın sonucu kendilerini ilgilendirse bile alım-satım yetkisi bulunanlar ile özel alım-satım yetkisi verilenler dışında hiç kimse, hiçbir şekilde alıcı ve satıcı firmalarla ilişki kuramaz ve alım-satım yapamaz.
+(2) Teknik komisyona havale edilen tekliflerin incelenmesi sırasında açıklığa kavuşması gereken teknik hususlar bulunduğunda alım-satım seyrini, emniyetini, prensiplerini ve Genel Müdürlüğün prestijini bozmamak kaydıyla, alım-satım organları kanalıyla firmalardan yazılı tamamlayıcı bilgi alınabilir.

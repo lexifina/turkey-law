@@ -1,0 +1,4 @@
+Dosyalama işlemleri
+MADDE 103 – (1) Alım-satım organlarınca alım ve satım konularına göre kod numarası verilmek suretiyle fihrist düzenlenir.
+(2) Her alım-satım ve ihale için ayrı bir dosya açılır. Açılan bu dosyalar fihristteki kod numarasına göre numaralandırılır.
+(3) Dosyalama; alım ve satımla ilgili talep yazısı veya oluru, varsa idari ve teknik şartnameler, duyurma ile ilgili belgeler, teklif mektupları, komisyon tutanağı ve mütalaaları, varsa teklif mukayese tablosu, yönetim kurulu kararları, makam olurları, sözleşme veya sözleşme yerine geçen belgeler, varsa muayene ile ilgili analiz raporları, muayene ve tesellüm protokolü veya tutanakları, ödeme emirleri, fatura veya fatura yerine geçen belgelerin suretleri, alım ve satımın mahiyetine göre bulunması gereken diğer belgeler tarih sırasına göre tasnif edilerek saklanır. İşlemleri tamamlanmış olan dosyaların kontrolü yapıldıktan sonra " kaydı kapatılmıştır." damgası vurularak arşive kaldırılır.

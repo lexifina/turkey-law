@@ -1,0 +1,4 @@
+İhaleye hazırlık
+MADDE 38 – (1) Talep sahibi birim tarafından satın alınacak mal veya hizmet için bu Yönetmeliğin 22 nci, 23 üncü ve 24 üncü maddelerinde belirtilen ihtiyaç pusulası veya onay alınarak ticaret (Ek ibare:RG-20/11/2023-32375) ve satın alma birimine intikal ettirilir.
+(2) İhalesi yapılacak her iş için ticaret (Ek ibare:RG-20/11/2023-32375) ve satın alma birimince hazırlanacak ihale dosyasında; ihale konusu işin nevi, niteliği, miktarı, kullanılacağı yer ve benzeri bilgileri kapsayan tanımı, yaklaşık maliyeti, ödeneğin nereden karşılanacağı ve miktarı, ihalede uygulanacak usul ve yapılacaksa ilanın şekli ve sayısı belirtilerek, gerekiyorsa teknik şartnamesi, idari şartnamesi, varsa özel şartnamesi ile birlikte yetki limitlerine göre onay alınır.
+(3) İhale onayı alınmadan ihale işlemleri başlatılamaz.

@@ -1,0 +1,3 @@
+TARIM İŞLETMELERİ GENEL MÜDÜRLÜĞÜ ALIM-SATIM VE İHALE YÖNETMELİĞİ
+BİRİNCİ BÖLÜM
+Amaç, Kapsam, Tanımlar,

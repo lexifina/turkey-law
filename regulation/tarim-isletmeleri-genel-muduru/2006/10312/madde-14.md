@@ -1,0 +1,4 @@
+Özel alım-satım ve ihale komisyonu
+MADDE 14 – (1) Özellik arz eden ve TİGEM’e iktisadi yarar sağlayan veya ihtiyacın süratle giderilmesinde zorunluluk bulunduğu anlaşılan durumlarda, uluslararası anlaşmalar gereğince sağlanan dış finansman ile yaptırılacak olan ve finansman anlaşmasında farklı ihale usullerinin uygulanacağı belirtilen mal ve hizmet alımlarında Genel Müdürlükçe oluşturulacak özel alım-satım ve ihale komisyonu marifetiyle alım yapılabilir.
+(2) Özel alım-satım ve ihale komisyonuna tanınacak alım-satım yetki tutarı ve özel komisyonun kimlerden oluşacağı, işin mahiyeti de göz önünde tutularak, gerekçeleri belirtilmek suretiyle ilgili daireler tarafından belirlenir ve Genel Müdürün teklifi ile Yönetim Kurulu tarafından onaylanır.
+(3) Özel komisyonlara yukarıdaki prensiplere uygun olarak satış işlemleri de yaptırılabilir.
