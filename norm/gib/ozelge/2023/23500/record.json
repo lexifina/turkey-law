@@ -1,0 +1,22 @@
+{
+  "kind": "norm",
+  "issuer": "Gelir İdaresi Başkanlığı",
+  "document_type": "ozelge",
+  "number": "39044742-130[Özelge]-1312115",
+  "source_id": 23500,
+  "date": "2023-11-20",
+  "title": "Türkiye mukimi şirketin Fas ve Cezayir'de bulunan şubelerine verilen avukatlık hizmetinin vergilendirilmesi",
+  "source": "https://gib.gov.tr/mevzuat/kanun/436/ozelge/23500",
+  "related_law": "3065 sayılı KATMA DEĞER VERGİSİ KANUNU",
+  "source_api": "https://gib.gov.tr/api/gibportal/mevzuat/ozelge/list",
+  "source_listing": "evidence/list/2026-11-16/ozelge-p001.json",
+  "source_listing_sha256": "e5c572e7d33c4a72997f66e3999bee09f80c627cabe3ea5a6521aa3f8abee01f",
+  "source_sha256": "cd0dcbc5fe0788fe1f5a3442b2f7e373e66490e363c9720543a87b68172fac2e",
+  "text_status": "as-enacted",
+  "text_file": "metin.md",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  }
+}
