@@ -1,0 +1,20 @@
+{
+  "record_type": "gazette-item",
+  "gazette": "Resmî Gazete",
+  "jurisdiction": "TR",
+  "date": "2023-11-21",
+  "issue": "32376",
+  "edition": "regular",
+  "item": 1,
+  "section": "YASAMA BÖLÜMÜ",
+  "heading": "KANUN",
+  "title": "7473 Türkiye Cumhuriyeti Hükûmeti ile Cezayir Demokratik Halk Cumhuriyeti Hükûmeti Arasında Cezayir’de Uluslararası Bir Türk Okulu Açılmasına İlişkin Anlaşmanın Onaylanmasının Uygun Bulunduğuna Dair Kanun",
+  "official_link": "https://www.resmigazete.gov.tr/eskiler/2023/11/20231121-1.htm",
+  "link_format": "htm",
+  "index_url": "https://www.resmigazete.gov.tr/eskiler/2023/11/20231121.htm",
+  "index_sha256": "e3935c87a32125b5d7c69186a1eb0259c1ed10d5489fcbdd97c0cf86103fdf52",
+  "index_header": "21 Kasım 2023 ... 32376 Sayılı Resmî Gazete",
+  "issue_pdf": "https://www.resmigazete.gov.tr/eskiler/2023/11/20231121.pdf",
+  "in_force_basis": "Resmî Gazete publication date; not a commencement reading.",
+  "text_status": "metadata-only; text not yet fetched (follow-up pass adds it as its own commit)"
+}
