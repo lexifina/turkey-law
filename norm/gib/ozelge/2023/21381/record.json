@@ -1,0 +1,22 @@
+{
+  "kind": "norm",
+  "issuer": "Gelir İdaresi Başkanlığı",
+  "document_type": "ozelge",
+  "number": "62030549-120[23-2022]-1315945",
+  "source_id": 21381,
+  "date": "2023-11-21",
+  "title": "Çalışanların bir kısmına işyerinde yemek verilip, bir kısmına nakit yemek bedeli ödenmesi durumunda ücret istisnasının uygulanıp uygulanmayacağı",
+  "source": "https://gib.gov.tr/mevzuat/kanun/433/ozelge/21381",
+  "related_law": "193 sayılı GELİR VERGİSİ KANUNU",
+  "source_api": "https://gib.gov.tr/api/gibportal/mevzuat/ozelge/list",
+  "source_listing": "evidence/list/2026-11-16/ozelge-p000.json",
+  "source_listing_sha256": "5444faf84128246cd8dd8c6db754d41e2a11c7717342bfe0a07a35074d061761",
+  "source_sha256": "9d8aba30fd47cd71cc4c6c794444c62972a6148c164f5d539b1f7a754d5ae56d",
+  "text_status": "as-enacted",
+  "text_file": "metin.md",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  }
+}
