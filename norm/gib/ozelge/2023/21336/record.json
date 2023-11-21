@@ -1,0 +1,22 @@
+{
+  "kind": "norm",
+  "issuer": "Gelir İdaresi Başkanlığı",
+  "document_type": "ozelge",
+  "number": "84098128-120[,]-542959",
+  "source_id": 21336,
+  "date": "2023-11-21",
+  "title": "Sporcu ücretleri üzerinden kesilecek verginin nasıl hesaplanacağı",
+  "source": "https://gib.gov.tr/mevzuat/kanun/433/ozelge/21336",
+  "related_law": "193 sayılı GELİR VERGİSİ KANUNU",
+  "source_api": "https://gib.gov.tr/api/gibportal/mevzuat/ozelge/list",
+  "source_listing": "evidence/list/2026-11-16/ozelge-p000.json",
+  "source_listing_sha256": "5444faf84128246cd8dd8c6db754d41e2a11c7717342bfe0a07a35074d061761",
+  "source_sha256": "b5121fe543a8469ff3f12f7cd98bb20e5b61275cf8332f5eefe1a05598b7f47d",
+  "text_status": "as-enacted",
+  "text_file": "metin.md",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  }
+}
