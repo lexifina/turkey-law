@@ -1,0 +1,22 @@
+{
+  "kind": "norm",
+  "issuer": "Gelir İdaresi Başkanlığı",
+  "document_type": "ozelge",
+  "number": "62030549-120[94-2022]-1315953",
+  "source_id": 37701,
+  "date": "2023-11-21",
+  "title": "Sözleşmeli üretim kapsamında hammadde (tohum) ve tüm diğer üretim girdilerinin temin edilerek tohum üretilmesi ve üretilen tohumların şirkete geri verilmesi işleminde gelir vergisi tevkifatı",
+  "source": "https://gib.gov.tr/mevzuat/kanun/433/ozelge/37701",
+  "related_law": "193 sayılı GELİR VERGİSİ KANUNU",
+  "source_api": "https://gib.gov.tr/api/gibportal/mevzuat/ozelge/list",
+  "source_listing": "evidence/list/2026-11-16/ozelge-p008.json",
+  "source_listing_sha256": "292c126217cc32c3ccfa57495ce433f89ef8db5e75fa1946d5819a76f81aff4d",
+  "source_sha256": "b278a5e434a7df214a6f8345b3dc3cc1bcf784e55db0b1386e9f1f04a9fc05ff",
+  "text_status": "as-enacted",
+  "text_file": "metin.md",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  }
+}
