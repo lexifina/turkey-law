@@ -1,0 +1,21 @@
+{
+  "record_type": "parliament-written-question",
+  "term": 28,
+  "legislative_year": 2,
+  "esas_no": "7/6463",
+  "submitted": "2023-11-21",
+  "submitted_as": "Başkanlığa geliş tarihi",
+  "mp": "Koray AYDIN",
+  "province": "Ankara",
+  "summary": "Diş hekimlerinin istihdamına ve ağız ve diş sağlığı alanındaki muayenelere dair çeşitli verilere ilişkin",
+  "status": "Cevaplanmadığı Gelen Kağıtlarda İlan Edildi",
+  "status_as_of": "2026-11-16",
+  "official_record": "https://www.tbmm.gov.tr/Denetim/Yazili-Soru-Onergesi-Detay/695ec6fa-384c-4bb6-a4d8-018bf254cfbe",
+  "source": "https://tbmm.gov.tr/Denetim/YaziliSoruOnergesiTable",
+  "source_form": "https://tbmm.gov.tr/Denetim/Yazili-Soru-Onergeleri",
+  "source_sha256": "19c741c1156ce8da4949465b15c570cd107cfd15dfda4bb81657dfa97891c6ba",
+  "in_force": "2023-11-21",
+  "in_force_basis": "Date the question reached the Speaker (Başkanlığa geliş tarihi) in the official TBMM written-question record; parliamentary oversight record, not law",
+  "history_type": "metadata",
+  "text_status": "metadata-only: question text, addressee and answers are in the linked official record (PDFs on cdn.tbmm.gov.tr); not transcribed here"
+}
