@@ -1,0 +1,21 @@
+Tanımlar
+MADDE 4 – (1) Bu Yönetmelikte geçen;
+a) Aday: Subay, astsubay, Devlet memuru, uzman erbaş, sözleşmeli erbaş ve er, sözleşmeli personel, işçi ve askerî öğrenci olmak üzere başvuran kişileri,
+b) Aday değerlendirme puanı: Adayların nihai olarak hesaplanan puanını,
+c) Bakanlık: Millî Savunma Bakanlığını,
+ç) Fiziki değerlendirme: Boy ve kilo kriterleri açısından 31/10/2016 tarihli ve 2016/9431 sayılı Bakanlar Kurulu Kararı ile yürürlüğe konulan Türk Silahlı Kuvvetleri, Jandarma Genel Komutanlığı ve Sahil Güvenlik Komutanlığı Sağlık Yeteneği Yönetmeliği ile başvuru kılavuzunda belirtilen standartlara uygunluğunun ölçümünü,
+d) Fiziki yeterlilik testi: Adayların fiziki yeterliliğini değerlendirmek üzere yapılan sınavı,
+e) Kişilik değerlendirme testi: Temel kişilik özelliklerini belirlemek ve mülakat aşamasına veri sağlamak amacıyla uygulanan testi,
+f) Komisyon: Temin esnasında yazılı sınav, uygulamalı sınav, yetenek sınavı, fiziki yeterlilik testi, fiziki değerlendirme, mülakat, sağlık muayenesi ile diğer faaliyetleri icra eden heyetleri,
+g) Kuvvet komutanlıkları: Kara, Deniz ve Hava Kuvvetleri Komutanlıklarını,
+ğ) Merkezî sınav: Bakanlık tarafından yapılan veya ihtiyaç halinde Bakanlık tarafından diğer kamu kurum ve kuruluşlarına yaptırılan veya resmi kurumlarca yapılan ve başvuru koşullarında belirtilen sınavı,
+h) Millî Savunma Bakanlığı kadro ve kuruluşunda yer alan kurumlar: Millî Savunma Bakanlığı merkez, taşra ve yurt dışı teşkilatı, Genelkurmay Başkanlığı, Kara Kuvvetleri Komutanlığı, Deniz Kuvvetleri Komutanlığı, Hava Kuvvetleri Komutanlığı, Millî Savunma Üniversitesi ile Harita Genel Müdürlüğünü,
+ı) Mülakat sınavı: Adaylarla yüz yüze, sözlü iletişim şeklinde, soru ve cevap yöntemi uygulanarak gerçekleştirilen sınavı,
+i) Öğrenci seçme uçuşu (ÖSU)/Pilot adayı subay seçme uçuşu (PASU): Öğrenci/pilot subay adaylarının uçuşa yönelik yeteneklerinin gerçek uçuş ortamında test edildiği seçim aşamasını,
+j) ÖSYM: Ölçme, Seçme ve Yerleştirme Merkezi Başkanlığını,
+k) Psikomotor testi: El-ayak-göz koordinasyonu, dikkat ve tepki hızını değerlendirme, uçuşa temel teşkil eden algılama hızı, durumsal uyanıklık, seçici dikkat ve benzeri yetenekleri ölçmek amacıyla yetenek, zihin ve kas koordinesini gerektiren her türlü beceriyi aynı anda ölçebilen, bilgisayar ortamında uygulanan testi,
+l) Uygulamalı sınav: İhtiyaç duyulan becerilerin değerlendirilmesi maksadıyla yapılan başvuru koşullarında belirtilen sınavı,
+m) Yabancı dil sınavı: Yabancı dil bilgisi seviyesinin ölçülmesi amacıyla yapılan sınavı,
+n) Yazılı sınav: Bakanlık tarafından yapılan veya diğer kamu kurum ve kuruluşlarına yaptırılan başvuru koşullarında belirtilen sınavı,
+o) Yetenek sınavı: Başvuru koşullarında belirtilen yeteneklerin değerlendirilmesi amacıyla yapılan başvuru koşullarında belirtilen sınavı,
+ifade eder.

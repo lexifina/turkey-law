@@ -1,0 +1,5 @@
+Başvuruların kabulü
+MADDE 11 – (1) Adayların merkezi veya yazılı sınav taban puanı ve puan türü Bakanlık tarafından belirlenir. Başvuruda bulunan adaylar arasında en yüksek puandan en düşük puana doğru sıralama yapılır ve sıralamaya uygun olarak Bakanlık tarafından belirlenecek sayıda aday sınava çağrılır. Sınava çağrılacak en son adayın aldığı puanla aynı puana sahip diğer adaylar da sınava çağrılır. İlan edilen taban puanı ihtiyaç halinde Bakanlık tarafından değiştirilebilir.
+(2) Devlet memuru, sözleşmeli personel ve işçi temininde çağrılacak aday sayısının tespiti ilgili mevzuat hükümlerine göre yapılır.
+(3) Çağrılan adayların, öğrenim, sınav puanı, boy, kilo, yaş gibi kılavuzda belirtilen başvuru koşullarını taşıyıp taşımadığı ve başvuru belgeleri kayıt kabul komisyonu tarafından kontrol edilir. Başvuru koşullarını taşımayanların başvurusu kabul edilmez.
+(4) Başvuru ile ilgili olarak istenen belgelerde gerçeğe aykırı beyanda bulunduğu veya giriş ile ilgili nitelikleri taşımadığı sonradan anlaşılanların ilişikleri kesilir.
