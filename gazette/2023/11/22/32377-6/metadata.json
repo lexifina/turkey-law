@@ -1,0 +1,20 @@
+{
+  "record_type": "gazette-item",
+  "gazette": "Resmî Gazete",
+  "jurisdiction": "TR",
+  "date": "2023-11-22",
+  "issue": "32377",
+  "edition": "regular",
+  "item": 6,
+  "section": "YÜRÜTME VE İDARE BÖLÜMÜ",
+  "heading": "TEBLİĞLER",
+  "title": "Gümrük Genel Tebliği (Gümrük İşlemleri) (Seri No: 95)’nde Değişiklik Yapılmasına Dair Tebliğ (Gümrük İşlemleri) (Seri No: 194)",
+  "official_link": "https://www.resmigazete.gov.tr/eskiler/2023/11/20231122-6.htm",
+  "link_format": "htm",
+  "index_url": "https://www.resmigazete.gov.tr/eskiler/2023/11/20231122.htm",
+  "index_sha256": "fed57d865f80053bd1aa1889aac5abd093639762f28d49e6815b8beb35085b69",
+  "index_header": "22 Kasım 2023 ... 32377 Sayılı Resmî Gazete",
+  "issue_pdf": "https://www.resmigazete.gov.tr/eskiler/2023/11/20231122.pdf",
+  "in_force_basis": "Resmî Gazete publication date; not a commencement reading.",
+  "text_status": "metadata-only; text not yet fetched (follow-up pass adds it as its own commit)"
+}
