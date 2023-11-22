@@ -1,0 +1,3 @@
+Telif hakları
+MADDE 18 – (1) Bilimsel araştırma projeleri birimi tarafından desteklenen projelerden elde edilen bilimsel sonuçların telif hakkı ilgili yükseköğretim kurumuna aittir. Bilimsel yayın, kitap ve benzeri eserlerin telif hakları yükseköğretim kurumunun yönetim kurulu kararı ile kısmen veya tamamen eser sahiplerine devredilebilir.
+(2) Gelir getirici, patent, buluş veya ürün ortaya çıkması durumunda ortaya çıkacak gelirin dağılımı yükseköğretim kurumu yönetim kurulu tarafından belirlenen ilkelere uygun olarak gerçekleştirilir. Konuyla ilgili mevzuatta hak sahiplerine ödenmesi öngörülen oranlar hakkında bir düzenleme bulunması halinde ise ilgili mevzuat hükümleri uygulanır.

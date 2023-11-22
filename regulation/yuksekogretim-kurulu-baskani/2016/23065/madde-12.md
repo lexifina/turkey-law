@@ -1,0 +1,8 @@
+Gelirler ve ödeneklerin kullanımına ilişkin ilkeler
+MADDE 12 – (1) Bilimsel araştırma projelerinin özel hesaptan yürütülmesinde aşağıdaki ilkelere uyulur:
+a) Bilimsel araştırma projelerine ilişkin olarak yükseköğretim kurumları bütçelerinde tefrik edilen ödeneklerden, bütçelerine gider kaydı yapılmak suretiyle herhangi bir harcama yapılamaz. Söz konusu harcamalar özel hesaptan gerçekleştirilir.
+b) Özel hesaba aktarılan tutarlar ve projelere ilişkin giderler, yükseköğretim kurumları bütçe hesaplarıyla ilişkilendirilmeksizin faaliyet gelir ve gider hesaplarıyla, ilgisine göre varlık ya da yükümlülük hesapları kullanılarak muhasebeleştirilir.
+c) Özel hesaba aktarılan tutarlardan yapılan harcamalar, öz gelir ve hazine yardımı karşılığı ayrımı yapılarak analitik bütçe sınıflandırmasının ekonomik kodlama sistemine uygun olarak tasnif edilir ve Bilimsel Araştırma Projeleri Koordinasyon Birimi kayıtlarında izlenir.
+ç) Özel hesaptan (Ek ibare:RG-16/7/2020-31187) ön ödeme alınarak yapılan alımlar hariç yapılacak mal ve hizmet alımına yönelik harcamalarda 1/12/2003 tarihli ve 2003/6554 sayılı Bakanlar Kurulu Kararıyla yürürlüğe konulan Yükseköğretim Kurumları Tarafından, 4734 Sayılı Kamu İhale Kanununun 3 üncü Maddesinin (f) Bendi Kapsamında Yapılacak İhalelere İlişkin Karar hükümleri uygulanır.
+d) Özel hesaba aktarılan tutarlar, yükseköğretim kurumlarının Strateji Geliştirme Daire Başkanlıkları tarafından açılan diğer banka hesapları ile ilişkilendirilmez.
+e) (Ek:RG-16/7/2020-31187) Katılım şartı olarak öngörülen ve proje bütçesinin yüzde otuzunu aşmayacak nakdi destek tutarı bu amaçla kullanılacak bütçede yoksa, kaynak aktarımı taahhüdünde bulunulamaz.

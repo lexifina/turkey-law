@@ -1,0 +1,2 @@
+Bilimsel araştırma projelerinin kabulü, yürütülmesi ve sonuçlandırılması
+MADDE 7 – (1) Desteklenmesine karar verilen projeler için, proje yürütücüsü ve Komisyon tarafından proje ile ilgili ayrıntıların belirlendiği bir protokol hazırlanır. Projenin uygulamaya geçirilmesi, hazırlanan protokolün (Değişik ibare:RG-16/7/2020-31187) üst yönetici veya (Değişik ibare:RG-16/7/2020-31187) yazılı olarak yetki devri yapılmak suretiyle komisyon başkanı tarafından onaylanmasına bağlıdır. Proje yürütücüsü, bu protokolde yer alan hususlara uymakla yükümlüdür.

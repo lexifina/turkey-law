@@ -1,0 +1,2 @@
+Harcama belgeleri ve muhafazası
+MADDE 16 – (1) Bilimsel araştırma projeleri kapsamında yapılan harcamaların belgelendirilmesinde 31/12/2005 tarihli ve 26040 üçüncü mükerrer sayılı Resmî Gazete’de yayımlanan Merkezi Yönetim Harcama Belgeleri Yönetmeliği hükümleri uygulanır. Bilimsel araştırma projeleri ile ilgili her türlü işlem ve harcamalara ilişkin belgeler, yükseköğretim kurumunda genel hükümlere göre muhafaza edilir ve denetime hazır halde bulundurulur.
