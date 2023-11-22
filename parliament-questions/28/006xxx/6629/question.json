@@ -1,0 +1,21 @@
+{
+  "record_type": "parliament-written-question",
+  "term": 28,
+  "legislative_year": 2,
+  "esas_no": "7/6629",
+  "submitted": "2023-11-22",
+  "submitted_as": "Başkanlığa geliş tarihi",
+  "mp": "İskender BAYHAN",
+  "province": "İstanbul",
+  "summary": "Basın İlan Kurumunun bazı işlemlerine ilişkin",
+  "status": "Süresi Geçtikten Sonra Cevaplandı",
+  "status_as_of": "2026-11-16",
+  "official_record": "https://www.tbmm.gov.tr/Denetim/Yazili-Soru-Onergesi-Detay/2f9d5ba7-0ca3-4c61-8c63-018bf75d3b94",
+  "source": "https://tbmm.gov.tr/Denetim/YaziliSoruOnergesiTable",
+  "source_form": "https://tbmm.gov.tr/Denetim/Yazili-Soru-Onergeleri",
+  "source_sha256": "881b9e11b9344da28882095147bb4429324eb6aba3b185c376403428d49cb27b",
+  "in_force": "2023-11-22",
+  "in_force_basis": "Date the question reached the Speaker (Başkanlığa geliş tarihi) in the official TBMM written-question record; parliamentary oversight record, not law",
+  "history_type": "metadata",
+  "text_status": "metadata-only: question text, addressee and answers are in the linked official record (PDFs on cdn.tbmm.gov.tr); not transcribed here"
+}
