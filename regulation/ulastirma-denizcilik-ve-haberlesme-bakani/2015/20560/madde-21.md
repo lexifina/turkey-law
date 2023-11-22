@@ -1,0 +1,6 @@
+Bakanlık dışından görevlendirilecek uzman ücretleri
+MADDE 21 – (1) Bu Yönetmelik kapsamında yapılan proje başvurularının ön değerlendirilmesinde Bakanlık dışından görevlendirilen uzmanlara; her bir proje için, 22/1/1990 tarihli ve 399 sayılı Kanun Hükmünde Kararname hükümleri çerçevesinde kamu iktisadi teşebbüsleri yönetim kurulu üyelerine ödenen aylık ücretin %20’si ödenir.
+(2) Bu Yönetmelik kapsamında yapılan proje başvurularının proje değerlendirmesinde Bakanlık dışından görevlendirilen uzmanlara; her bir proje değerlendirmesi için kamu iktisadi teşebbüsleri yönetim kurulu üyelerine ödenen aylık ücretin %40’ı ödenir.
+(3) Bu Yönetmelik kapsamında yapılan proje izlemelerinde izleyici olarak Bakanlık dışından görevlendirilen uzmanlara, görevlendirildiği her bir projeye ilişkin izleme dönemlerine ait izleme raporları başına kamu iktisadi teşebbüsleri yönetim kurulu üyelerine ödenen aylık ücretin %35’i ödenir.
+(4) Bu şekilde görevlendirilen uzmanlara bir takvim yılı içerisinde yapılabilecek toplam ödeme tutarı kamu iktisadi teşebbüsleri yönetim kurulu üyelerine ödenen aylık ücretin iki katından fazla olamaz.
+(5) Projelerle ilgili olarak görevlendirilen ve bu görevlerini ifaları esnasında memuriyet mahalli dışına gönderilen uzmanlara 10/2/1954 tarihli ve 6245 sayılı Harcırah Kanunu hükümleri çerçevesinde ayrıca harcırah ödenir.

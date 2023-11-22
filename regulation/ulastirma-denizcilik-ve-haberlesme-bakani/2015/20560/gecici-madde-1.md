@@ -1,0 +1,2 @@
+Mevcut başvurular
+GEÇİCİ MADDE 1 – (1) 12/9/2012 tarihli ve 28409 sayılı Resmî Gazete’de yayımlanan Elektronik Haberleşme, Uzay ve Havacılık Sektöründe Araştırma Geliştirme Projelerinin Desteklenmesine İlişkin Yönetmelik kapsamında Bakanlığa yapılmış olan Ar-Ge proje destek başvuruları proje sahibi tarafından iş bu Yönetmelik çerçevesinde belirlenen duyuru şartlarına uygun olarak güncellenmesi halinde değerlendirmeye alınır.
