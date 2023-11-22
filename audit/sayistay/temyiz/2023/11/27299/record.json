@@ -1,0 +1,16 @@
+{
+  "kind": "decision",
+  "issuer": "Sayıştay Temyiz Kurulu",
+  "number": "56119",
+  "decision_date": "2023-11-22",
+  "source_id": 27299,
+  "chamber": "5",
+  "file_number": "52984",
+  "public_body_type": "Belediyeler ve Bağlı İdareler",
+  "account_year": "2021",
+  "subject": "Personel Mevzuatı ile İlgili Kararlar",
+  "source": "https://www.sayistay.gov.tr/KararlarTemyiz/Detay/27299/",
+  "source_sha256": "5ab690bf5950ec27e90eae0e4f90b484649a883fad8b1d5fe4f1610f7d4ed1e6",
+  "text_status": "as-enacted",
+  "text_file": "metin.md"
+}
