@@ -1,0 +1,2 @@
+Çalışma gruplarının oluşturulması
+MADDE 16 – (1) Konsey, gerekli görülen konularda araştırma yaparak sonuçları hakkında rapor hazırlamak amacıyla, kendi üyeleri arasından veya konuyla ilgili uzmanlardan oluşan çalışma grupları kurabilir. Çalışma gruplarında koordinasyonu sağlamak üzere Genel Müdürlükten bir temsilci belirlenir. Çalışma gruplarının faaliyetleriyle ilgili toplantıların sonuçları tutanakla tespit edilir. Çalışma grupları, hazırladıkları raporları Genel Müdürlüğe sunar.

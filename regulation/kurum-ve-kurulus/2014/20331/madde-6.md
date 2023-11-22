@@ -1,0 +1,9 @@
+Dernek temsilcilerinin belirlenmesi
+MADDE 6 – (1) Konseye katılacak dernekler tarafından aşağıda yer alan bilgi ve belgelerin bu Yönetmeliğin yürürlüğe girdiği tarihten itibaren üç ay içinde bir defaya mahsus olmak üzere Genel Müdürlüğe verilmesi zorunludur:
+a) Dernek kurucuları tarafından imzalanmış, ilgili kurumlarca onaylı dernek tüzüğü ve kuruluş bildirimi,
+b) Yazışma yapmaya ve tebligatı almaya yetkili kişi veya kişilerin adı, soyadı, T.C. kimlik numarası, yerleşim yerleri ve tatbiki imzalarını gösteren yazı ve belgeler.
+(2) İlgili dernekler, birinci fıkranın (a) ve (b) bentlerine konu bilgi ve belgelerdeki değişiklikleri, değişiklik tarihini izleyen otuz gün içinde; bu Yönetmeliğin yürürlüğe girdiği tarihten sonra kurulacak olan dernekler ise birinci fıkranın (a) ve (b) bentlerinde sayılan bilgi ve belgeleri ilk genel kurul toplantısının yapıldığı tarihten itibaren otuz gün içinde Genel Müdürlüğe bildirmek zorundadır.
+(3) (Değişik:RG-22/11/2023-32377) Konseye katılacak derneklerin, merkez ve şubelerine kayıtlı üye sayılarını gösteren listelerin Dernekler Bilgi Sistemi (DERBİS) üzerinden alınarak dernek başkanı tarafından onaylı örneklerini, her yıl Ocak ayının son iş gününe kadar Genel Müdürlüğe yazılı olarak bildirmeleri zorunludur.
+(4) Derneklerin Konseye katılabilmeleri için Konseyin düzenlendiği yıldan bir önceki yılın sonu itibariyle en az bir yılını doldurmuş olmaları ve faal dernek vasfını taşımaları gerekir.
+(5) Dördüncü fıkrada belirtilen koşulları taşıyan reklamcılar derneklerinden, kayıtlı üye sayısı en fazla olan ilk iki dernekten ikişer, üçüncü dernekten ise bir temsilci Konseye katılır.
+(6) Dördüncü fıkrada belirtilen koşulları taşıyan reklam verenler derneklerinden, kayıtlı üye sayısı en fazla olan ilk üç dernekten birer temsilci Konseye katılır. Yeterli sayıda dernek olmaması durumunda mevcut derneklerden üç temsilci belirlenir.
