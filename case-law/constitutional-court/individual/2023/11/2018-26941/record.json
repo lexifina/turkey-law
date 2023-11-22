@@ -1,0 +1,20 @@
+{
+  "applicant": "A.K.",
+  "application_date": "2019-01-25",
+  "application_number": "2018/26941",
+  "deciding_unit": "İkinci Bölüm",
+  "decision_date": "2023-11-22",
+  "id": "960f4ed6-1f59-ef54-a3ba-f1c049526787",
+  "in_force": "2023-11-22",
+  "in_force_basis": "official decision date",
+  "kind": "constitutional-court-individual-application",
+  "omitted_images": 0,
+  "outcome": "Esas (İhlal Olmadığı)",
+  "published": null,
+  "referenced_images": 0,
+  "source": "https://kararlarbilgibankasi.anayasa.gov.tr/kbb/pages/search/Tumu?id=a2JiOjk2MGY0ZWQ2LTFmNTktZWY1NC1hM2JhLWYxYzA0OTUyNjc4Nw&type=BireyselBasvuru",
+  "source_api": "https://kararlarbilgibankasi.anayasa.gov.tr/api/core/public/search",
+  "source_images": 0,
+  "source_sha256": "da497fdffa68bb9074712d45dd573d71eb2a7a2713917bd1c83a2ef45be94a23",
+  "version_label": "as-enacted"
+}
