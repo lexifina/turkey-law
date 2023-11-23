@@ -1,0 +1,26 @@
+{
+  "kind": "norm",
+  "issuer": "Enerji Piyasası Düzenleme Kurumu",
+  "market": "petroleum",
+  "document_type": "board-decision",
+  "number": "12210",
+  "decision_date": "2023-11-23",
+  "title": "Altınbaş Petrol ve Ticaret A.Ş. Samsun Terminali İletim Tesisi Tarifesine ilişkin",
+  "resmi_gazete_date": "2023-11-25",
+  "resmi_gazete_number": "32380",
+  "categories": [
+    "İletim Tarifesi"
+  ],
+  "source": "https://www.epdk.gov.tr/Detay/DownloadDocument?id=WYjrEYK155A=",
+  "documents": [
+    "https://www.epdk.gov.tr/Detay/DownloadDocument?id=WYjrEYK155A=",
+    "https://www.epdk.gov.tr/Detay/DownloadDocument?id=4aU9/1OQLss="
+  ],
+  "source_sha256": "20e93ad4857bccb667f6acd4da4d375f1e43e17800518c3ccc58465a8be52d56",
+  "official_list": "https://www.epdk.gov.tr/Detay/Icerik/3-0-100/kurul-kararlari",
+  "official_list_leaf": 5334,
+  "text_status": "as-enacted",
+  "text_file": "metin.md",
+  "in_force": "2023-11-23",
+  "law_text_complete": true
+}
