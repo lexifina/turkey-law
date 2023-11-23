@@ -1,0 +1,17 @@
+{
+  "kind": "decision",
+  "issuer": "Sayıştay 8. Dairesi",
+  "number": "300",
+  "decision_date": "2023-11-23",
+  "source_id": 38030,
+  "chamber": "8",
+  "ilam_number": "164",
+  "item_number": 2,
+  "public_body_type": "Belediyeler ve Bağlı İdareler",
+  "account_year": 2021,
+  "subject": "Çeşitli Konuları İlgilendiren Kararlar",
+  "source": "https://www.sayistay.gov.tr/KararlarDaire/Detay/38030/",
+  "source_sha256": "636d7be4a455f4b782f48f4371a8dd06d1a10557b97d0df0fa3203dc04af7878",
+  "text_status": "as-enacted",
+  "text_file": "metin.md"
+}
