@@ -1,0 +1,21 @@
+{
+  "record_type": "parliament-written-question",
+  "term": 28,
+  "legislative_year": 2,
+  "esas_no": "7/6558",
+  "submitted": "2023-11-23",
+  "submitted_as": "Başkanlığa geliş tarihi",
+  "mp": "Murat BAKAN",
+  "province": "İzmir",
+  "summary": "15 Temmuz darbe girişimi sonrasında özel koruma kapsamına alınan bazı kişilerin koruma kararının kaldırıldığı iddiasına ilişkin",
+  "status": "Süresi Geçtikten Sonra Cevaplandı",
+  "status_as_of": "2026-11-16",
+  "official_record": "https://www.tbmm.gov.tr/Denetim/Yazili-Soru-Onergesi-Detay/3b79501c-7d78-4917-8aaa-018bfc7a6777",
+  "source": "https://tbmm.gov.tr/Denetim/YaziliSoruOnergesiTable",
+  "source_form": "https://tbmm.gov.tr/Denetim/Yazili-Soru-Onergeleri",
+  "source_sha256": "78fffd35735d67f72a117e5bc2e09399841d6b91df7bc2b7ccfcf6283c54ce60",
+  "in_force": "2023-11-23",
+  "in_force_basis": "Date the question reached the Speaker (Başkanlığa geliş tarihi) in the official TBMM written-question record; parliamentary oversight record, not law",
+  "history_type": "metadata",
+  "text_status": "metadata-only: question text, addressee and answers are in the linked official record (PDFs on cdn.tbmm.gov.tr); not transcribed here"
+}
