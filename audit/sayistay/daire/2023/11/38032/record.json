@@ -1,0 +1,17 @@
+{
+  "kind": "decision",
+  "issuer": "Sayıştay 1. Dairesi",
+  "number": "10918",
+  "decision_date": "2023-11-23",
+  "source_id": 38032,
+  "chamber": "1",
+  "ilam_number": "9",
+  "item_number": 2,
+  "public_body_type": "Diğer Özel Bütçeli İdareler",
+  "account_year": 2022,
+  "subject": "Personel Mevzuatı ile İlgili Kararlar",
+  "source": "https://www.sayistay.gov.tr/KararlarDaire/Detay/38032/",
+  "source_sha256": "6b9028ef9439e969d14f3d87d48924176ef223540f7a1e805b108e8d92fca518",
+  "text_status": "as-enacted",
+  "text_file": "metin.md"
+}
