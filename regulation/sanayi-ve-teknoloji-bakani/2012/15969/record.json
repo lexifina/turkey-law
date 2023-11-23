@@ -1,0 +1,83 @@
+{
+  "source_id": "7.5.15969",
+  "kind": "regulation",
+  "register_kind": "Kurum ve Kuruluş Yönetmelikleri",
+  "title": "ÖLÇÜ VE ÖLÇÜ ALETLERİNİN TAMİR VE AYARINI YAPACAK KİŞİLERE VERİLECEK YETKİ BELGESİ HAKKINDA YÖNETMELİK",
+  "number": "15969",
+  "issuer": "Sanayi ve Teknoloji Bakanı",
+  "issuer_slug": "sanayi-ve-teknoloji-bakani",
+  "path": "regulation/sanayi-ve-teknoloji-bakani/2012/15969",
+  "source": "https://www.mevzuat.gov.tr/anasayfa/MevzuatFihristDetayIframe?MevzuatTur=7&MevzuatNo=15969&MevzuatTertip=5",
+  "source_sha256": "69c16301307a3fc6f37f19782fd843b97a1fb9addc255eaead76c53fb3a8303f",
+  "source_bytes": 58204,
+  "published": "2012-03-20",
+  "gazette": "28239",
+  "in_force": "2023-11-23",
+  "in_force_basis": "latest Resmî Gazete date printed in the source amendment notes/table (\"RG-23/11/2023\") for the current consolidated text",
+  "date_evidence": [
+    [
+      "2023-11-23",
+      "RG-23/11/2023",
+      "Resmî Gazete date printed in the source amendment note"
+    ],
+    [
+      "2023-11-23",
+      "23/11/2023",
+      "Resmî Gazete date in the source amendment table"
+    ],
+    [
+      "2021-09-14",
+      "RG-14/9/2021",
+      "Resmî Gazete date printed in the source amendment note"
+    ],
+    [
+      "2021-09-14",
+      "14/9/2021",
+      "Resmî Gazete date in the source amendment table"
+    ],
+    [
+      "2019-10-11",
+      "RG-11/10/2019",
+      "Resmî Gazete date printed in the source amendment note"
+    ],
+    [
+      "2019-10-11",
+      "11/10/2019",
+      "Resmî Gazete date in the source amendment table"
+    ],
+    [
+      "2017-03-10",
+      "RG-10/3/2017",
+      "Resmî Gazete date printed in the source amendment note"
+    ],
+    [
+      "2017-03-10",
+      "10/3/2017",
+      "Resmî Gazete date in the source amendment table"
+    ],
+    [
+      "2016-03-15",
+      "RG-15/3/2016",
+      "Resmî Gazete date printed in the source amendment note"
+    ],
+    [
+      "2016-03-15",
+      "15/3/2016",
+      "Resmî Gazete date in the source amendment table"
+    ]
+  ],
+  "commencement_clauses": [
+    "Bu Yönetmelik yayımı tarihinde yürürlüğe girer"
+  ],
+  "history": "current-text",
+  "label": "oldest version available",
+  "checked_on": "2026-11-15",
+  "word_count": 2518,
+  "text_status": "current-consolidated",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  },
+  "completeness": "html-text-complete"
+}

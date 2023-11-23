@@ -1,0 +1,4 @@
+Geçici damga zorunluluğu
+MADDE 14 – (1) Yetki belgesine sahip kişi, sabit ve sökülüp taşınması güç olan ölçü aletlerini tamirden sonra hemen muayene ettirme ve damgalatma imkânına sahip değilse, ölçü aletini kendisine ait geçici damgayla damgalamak zorundadır. Geçici damgada, yetki belgesi numarası ve işyeri uygunluk belgesi numarasının bulunması zorunludur.
+(2) (Değişik:RG-14/9/2021-31598)(3) Geçici damgası yapılan ölçü ve ölçü aleti kullanıcısının, geçici damganın yapıldığı tarihten itibaren en geç onbeş gün içerisinde muayene ve damgasının yapılması için yetki kapsamına göre başvurusunu usulüne uygun olarak servise/il müdürlüğüne iletmesi zorunludur. Bu süre içerisinde müracaat etmeyen kullanıcılara damga süresi dolmuş ölçü aletini kullanma fiilinden dolayı Kanun hükümlerine göre idari ve cezai işlemler uygulanır.
+(3) Geçici damganın şekline ait belgenin bir sureti ölçü aletinin bulunduğu il müdürlüğüne gönderilir.
