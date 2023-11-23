@@ -1,0 +1,21 @@
+{
+  "record_type": "parliament-written-question",
+  "term": 28,
+  "legislative_year": 2,
+  "esas_no": "7/6608",
+  "submitted": "2023-11-23",
+  "submitted_as": "Başkanlığa geliş tarihi",
+  "mp": "Metin ERGUN",
+  "province": "Muğla",
+  "summary": "Tarım Kredi Kooperatifleri tarafından verilen kredilerdeki faiz oranlarına ilişkin",
+  "status": "Cevaplanmadığı Gelen Kağıtlarda İlan Edildi",
+  "status_as_of": "2026-11-16",
+  "official_record": "https://www.tbmm.gov.tr/Denetim/Yazili-Soru-Onergesi-Detay/5c254126-04a0-4a0c-b7ff-018c0054f622",
+  "source": "https://tbmm.gov.tr/Denetim/YaziliSoruOnergesiTable",
+  "source_form": "https://tbmm.gov.tr/Denetim/Yazili-Soru-Onergeleri",
+  "source_sha256": "881b9e11b9344da28882095147bb4429324eb6aba3b185c376403428d49cb27b",
+  "in_force": "2023-11-23",
+  "in_force_basis": "Date the question reached the Speaker (Başkanlığa geliş tarihi) in the official TBMM written-question record; parliamentary oversight record, not law",
+  "history_type": "metadata",
+  "text_status": "metadata-only: question text, addressee and answers are in the linked official record (PDFs on cdn.tbmm.gov.tr); not transcribed here"
+}
