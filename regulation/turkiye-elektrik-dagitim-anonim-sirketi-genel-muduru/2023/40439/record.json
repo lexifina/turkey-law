@@ -1,0 +1,31 @@
+{
+  "source_id": "7.5.40439",
+  "kind": "regulation",
+  "register_kind": "Kurum ve Kuruluş Yönetmelikleri",
+  "title": "TÜRKİYE ELEKTRİK DAĞITIM ANONİM ŞİRKETİ TEFTİŞ KURULU YÖNETMELİĞİ",
+  "number": "40439",
+  "issuer": "Türkiye Elektrik Dağıtım Anonim Şirketi Genel Müdürü",
+  "issuer_slug": "turkiye-elektrik-dagitim-anonim-sirketi-genel-muduru",
+  "path": "regulation/turkiye-elektrik-dagitim-anonim-sirketi-genel-muduru/2023/40439",
+  "source": "https://www.mevzuat.gov.tr/anasayfa/MevzuatFihristDetayIframe?MevzuatTur=7&MevzuatNo=40439&MevzuatTertip=5",
+  "source_sha256": "cd13c3e84de1ea88a327330fb31e2ffe72b23e313d690022111b601e38f46916",
+  "source_bytes": 131741,
+  "published": "2023-11-24",
+  "gazette": "32379",
+  "in_force": "2023-11-24",
+  "in_force_basis": "Resmî Gazete publication date in the official listing (24.11.2023); own commencement article: \"Bu Yönetmelik yayımı tarihinde yürürlüğe girer\"",
+  "commencement_clauses": [
+    "Bu Yönetmelik yayımı tarihinde yürürlüğe girer"
+  ],
+  "history": "current-text",
+  "label": "oldest version available",
+  "checked_on": "2026-11-15",
+  "word_count": 6982,
+  "text_status": "current-consolidated",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  },
+  "completeness": "html-text-complete"
+}
