@@ -1,0 +1,20 @@
+{
+  "record_type": "gazette-item",
+  "gazette": "Resmî Gazete",
+  "jurisdiction": "TR",
+  "date": "2023-11-24",
+  "issue": "32379",
+  "edition": "regular",
+  "item": 10,
+  "section": "YARGI BÖLÜMÜ",
+  "heading": "YARGITAY KARARLARI",
+  "title": "Yargıtay 2 ve 10. Hukuk Dairelerine Ait Kararlar",
+  "official_link": "https://www.resmigazete.gov.tr/eskiler/2023/11/20231124-10.pdf",
+  "link_format": "pdf",
+  "index_url": "https://www.resmigazete.gov.tr/eskiler/2023/11/20231124.htm",
+  "index_sha256": "0f270501950fc0b3b2bd2cf9c5c5bd44195926e6a91f6b07273f111ce7a736c1",
+  "index_header": "24 Kasım 2023 ... 32379 Sayılı Resmî Gazete",
+  "issue_pdf": "https://www.resmigazete.gov.tr/eskiler/2023/11/20231124.pdf",
+  "in_force_basis": "Resmî Gazete publication date; not a commencement reading.",
+  "text_status": "metadata-only; personal-data rule (appointment, acting, judicial or person-named item): metadata and link only"
+}
