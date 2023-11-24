@@ -1,0 +1,30 @@
+{
+  "source_id": "7.5.40440",
+  "kind": "regulation",
+  "register_kind": "Kurum ve Kuruluş Yönetmelikleri",
+  "title": "TÜRKİYE ŞEKER FABRİKALARI ANONİM ŞİRKETİ GENEL MÜDÜRLÜĞÜ TAŞRA TEŞKİLATINDA İSTİHDAM EDİLECEK SÖZLEŞMELİ MÜHENDİS, MİMAR, TEKNİKER VE TEKNİSYENLER HAKKINDA SINAV VE ATAMA YÖNETMELİĞİ",
+  "number": "40440",
+  "issuer_slug": "kurum-ve-kurulus",
+  "path": "regulation/kurum-ve-kurulus/2023/40440",
+  "source": "https://www.mevzuat.gov.tr/anasayfa/MevzuatFihristDetayIframe?MevzuatTur=7&MevzuatNo=40440&MevzuatTertip=5",
+  "source_sha256": "1ce45cfd3b613dc8355617989e1b617c0917bfc9e6fefe2710866125c83c96d0",
+  "source_bytes": 41110,
+  "published": "2023-11-24",
+  "gazette": "32379",
+  "in_force": "2023-11-24",
+  "in_force_basis": "Resmî Gazete publication date in the official listing (24.11.2023); own commencement article: \"Bu Yönetmelik yayımı tarihinde yürürlüğe girer\"",
+  "commencement_clauses": [
+    "Bu Yönetmelik yayımı tarihinde yürürlüğe girer"
+  ],
+  "history": "current-text",
+  "label": "oldest version available",
+  "checked_on": "2026-11-15",
+  "word_count": 2049,
+  "text_status": "current-consolidated",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  },
+  "completeness": "html-text-complete"
+}
