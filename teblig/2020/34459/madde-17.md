@@ -1,0 +1,3 @@
+İdari yaptırım
+MADDE 17 – (1) Bu Tebliğe aykırı davrananlar hakkında 11/6/2010 tarihli ve 5996 sayılı Veteriner Hizmetleri, Bitki Sağlığı, Gıda ve Yem Kanununun ilgili maddelerine göre yaptırımlar uygulanır.
+(2) HMF (Hidroksimetilfurfural) ve diastaz sayısına ilişkin değerlendirmelerde ortam sıcaklığı ölçülerek işlem yapılır.
