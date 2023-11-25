@@ -1,0 +1,20 @@
+{
+  "record_type": "gazette-item",
+  "gazette": "Resmî Gazete",
+  "jurisdiction": "TR",
+  "date": "2023-11-25",
+  "issue": "32380",
+  "edition": "regular",
+  "item": 27,
+  "section": "YÜRÜTME VE İDARE BÖLÜMÜ",
+  "heading": "TEBLİĞLER",
+  "title": "Vergi Usul Kanunu Genel Tebliği (Sıra No: 554)",
+  "official_link": "https://www.resmigazete.gov.tr/eskiler/2023/11/20231125-27.htm",
+  "link_format": "htm",
+  "index_url": "https://www.resmigazete.gov.tr/eskiler/2023/11/20231125.htm",
+  "index_sha256": "d63ca1c702265e61604b1d1329e9cb81880a79f08c0587739db11ffe5239987a",
+  "index_header": "25 Kasım 2023 ... 32380 Sayılı Resmî Gazete",
+  "issue_pdf": "https://www.resmigazete.gov.tr/eskiler/2023/11/20231125.pdf",
+  "in_force_basis": "Resmî Gazete publication date; not a commencement reading.",
+  "text_status": "metadata-only; text not yet fetched (follow-up pass adds it as its own commit)"
+}
