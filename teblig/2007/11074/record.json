@@ -1,0 +1,57 @@
+{
+  "source_id": "9.5.11074",
+  "kind": "communique",
+  "register_kind": "Tebliğler",
+  "title": "MEVDUAT VE KATILIM FONLARININ VADELERİ VE TÜRLERİ HAKKINDA TEBLİĞ (SAYI: 2007/1)",
+  "number": "11074",
+  "issuer": "Türkiye Cumhuriyet Merkez Bankası Başkanı",
+  "path": "teblig/2007/11074",
+  "source": "https://www.mevzuat.gov.tr/anasayfa/MevzuatFihristDetayIframe?MevzuatTur=9&MevzuatNo=11074&MevzuatTertip=5",
+  "source_sha256": "888e5da7e14ece63b242de8650ce2fd7c359b3e97aeb5240994417192b459a9d",
+  "source_bytes": 41200,
+  "published": "2007-02-03",
+  "gazette": "26423",
+  "in_force": "2023-11-25",
+  "in_force_basis": "latest Resmî Gazete date printed in the source amendment notes/table (\"RG-25/11/2023\") for the current consolidated text",
+  "date_evidence": [
+    [
+      "2023-11-25",
+      "RG-25/11/2023",
+      "Resmî Gazete date printed in the source amendment note"
+    ],
+    [
+      "2023-11-25",
+      "25/11/2023",
+      "Resmî Gazete date in the source amendment table"
+    ],
+    [
+      "2019-06-22",
+      "22/6/2019",
+      "Resmî Gazete date in the source amendment table"
+    ],
+    [
+      "2015-07-23",
+      "RG-23/7/2015",
+      "Resmî Gazete date printed in the source amendment note"
+    ],
+    [
+      "2015-07-23",
+      "23/7/2015",
+      "Resmî Gazete date in the source amendment table"
+    ]
+  ],
+  "commencement_clauses": [
+    "Bu Tebliğ yayımı tarihinde yürürlüğe girer"
+  ],
+  "history": "current-text",
+  "label": "oldest version available",
+  "checked_on": "2026-11-15",
+  "word_count": 1535,
+  "text_status": "current-consolidated",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  },
+  "completeness": "html-text-complete"
+}

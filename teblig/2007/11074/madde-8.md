@@ -1,0 +1,8 @@
+Resmi kuruluşlar
+MADDE 8 – (1) Genel bütçe kapsamındaki kamu idarelerine, özel bütçeli idarelere, düzenleyici ve denetleyici kurumlara, sosyal güvenlik kurumlarına, yerel yönetimlere, mahkemelere, savcılıklara, icra ve iflas dairelerine ve tereke hakimliklerine ait hesaplar "Resmi Kuruluşlar" başlığı altında sınıflandırılır.
+a) Genel bütçe kapsamındaki kamu idarelerine ait hesaplar: 10/12/2003 tarihli ve 5018 sayılı Kamu Mali Yönetimi ve Kontrol Kanununa ekli I sayılı cetvelde yer alan kamu idarelerine ilişkin hesaplardır.
+b) Özel bütçeli idarelere ait hesaplar: 5018 sayılı Kanuna ekli II sayılı cetvelde yer alan idarelere ilişkin hesaplardır.
+c) Düzenleyici ve denetleyici kurumlara ait hesaplar: 5018 sayılı Kanuna ekli III sayılı cetvelde yer alan kurumlara ilişkin hesaplardır.
+ç) Sosyal güvenlik kurumlarına ait hesaplar: 5018 sayılı Kanuna ekli IV sayılı cetvelde yer alan kurumlara ilişkin hesaplardır.
+d) Yerel yönetimlere ait hesaplar: Yetkileri belirli bir coğrafi alan ve hizmetlerle sınırlı olarak kamusal faaliyet gösteren belediyelere, il özel idarelerine ve bunlara bağlı veya bunların kurdukları veya üye oldukları birlikler ve idareler ile köylere, mahalle yönetimlerine ve Bozcaada ve Gökçeada idarelerine ilişkin hesaplardır.
+e) Mahkemeler, savcılıklar, icra ve iflas daireleri ve tereke hakimliklerine ait hesaplar: Mahkemelerin genel yönetim giderleri ile yargılamanın, icra, iflas ve veraset ve intikal işlemlerinin, resmi bilirkişilik hizmetlerinin yürütülmesi, hükümlülerin cezalarının infazı, eğitimleri ve tutukluların muhafazası amacıyla Adalet Bakanlığı bütçesinden yapılan tahsisatlara ilişkin hesaplardır.

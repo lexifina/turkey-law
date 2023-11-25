@@ -1,0 +1,15 @@
+Diğer kuruluşlar
+MADDE 11 – (1) Vakıflara, derneklere, birliklere, sendikalara, tasarruf ve yardımlaşma sandıklarına, elçilik ve konsolosluklara, uluslararası kuruluşların Türkiye'deki büro ve temsilciliklerine, fonlara, apartman yönetimine, noter teminat ve emanetine ait hesaplar ile mahkemeler, savcılıklar, icra ve iflas daireleri ve tereke hakimlikleri nezdindeki paralara ilişkin hesaplar ve mahkemelerce tevdi mahalli gösterilmek suretiyle yatırılan paralara ilişkin hesaplar "Diğer Kuruluşlar" başlığı altında sınıflandırılır.
+a) Vakıflara ait hesaplar: 22/11/2001 tarihli ve 4721 sayılı Türk Medeni Kanununun yürürlüğe girmesinden önce kurulmuş olan vakıflarla, Türk Medeni Kanunu hükümlerine göre kurulan vakıflara ilişkin hesaplardır.
+b) Derneklere ait hesaplar: 4/11/2004 tarihli ve 5253 sayılı Dernekler Kanununa göre faaliyet gösteren derneklere ilişkin hesaplardır.
+c) Birliklere ait hesaplar: Gerekli kanuni şekillere uygun olarak yasayla veya kararnameyle kurulmuş gerçek ve tüzel kişi toplulukları ile meslek mensuplarının oluşturduğu, tüzel kişiliği olan ve bir kısım kamu görevlerini yerine getiren, üyeleri üzerinde kamu hukukundan doğan yetkileri bulunan kamu kurumu niteliğindeki meslek kuruluşlarına ilişkin hesaplardır.
+ç) Sendikalara ait hesaplar: 5/5/1983 tarihli ve 2821 sayılı Sendikalar Kanununa göre kurulmuş sendikalar ile konfederasyonlara ilişkin hesaplardır.
+d) Tasarruf ve yardımlaşma sandıklarına ait hesaplar: Kanunla veya bir kanuna dayanılarak kurulmuş tasarruf ve yardımlaşma sandıkları ile kurum ve kuruluşların yalnız kendi mensuplarına yönelik olarak kurdukları tasarruf ve yardımlaşma sandıklarına ilişkin hesaplardır.
+e) Noter teminat ve emanetine ait hesaplar: Noterlerden mesleki nedenlerle sebep olabilecekleri zararlar ve bu nedenle kendilerine uygulanacak cezalar için tahsil olunan paralara ilişkin hesaplar ile saklanmak veya bir şahsa verilmek üzere notere emanet edilen ve noter tarafından noterlikler ortak cari hesabına yatırılan paralara ilişkin hesaplardır.
+f) Mahkemeler, savcılıklar, icra ve iflas daireleri ve tereke hakimlikleri nezdindeki paralara ilişkin hesaplar: Gerçek ve tüzel kişilerin özel hukuk ilişkilerinden doğan alacak ve borçlarına ilişkin olarak yatırılan paralara ilişkin hesaplardır. Bunlar; yetimlere, küçüklere, gaiplere ait paralara, tereke ve şüyuun giderilmesinden elde edilecek paralara ve bunların dışında, adli ve idari yargı yerlerinde elde edilen mahkeme emanet paralarına, icra ve iflas dairelerince tahsil olunan paralara ve suç unsuru olarak müsadere edilen paralara ilişkin hesaplardır.
+g) Mahkemelerce tevdi yeri gösterilmek üzere yatırılan paralara ait hesaplar.
+ğ) Apartman yönetimine ait hesaplar: 23/6/1965 tarihli ve 634 sayılı Kat Mülkiyeti Kanunu gereğince apartman yönetim giderleri ile ilgili olarak yatırılan paralara ilişkin hesaplardır.
+h) Elçilik ve konsolosluklara ait hesaplar.
+ı) Uluslararası kuruluşların Türkiye'deki büro ve temsilciliklerine ait hesaplar.
+i) Fonlara ait hesaplar: Kanun veya Kararname ile kurulmuş olan fonlara ilişkin hesaplardır.
+j) Diğer: Yukarıda sayılanlar dışında kalan kuruluşlara ilişkin hesaplardır.
