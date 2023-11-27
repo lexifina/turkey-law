@@ -1,0 +1,18 @@
+{
+  "issuer": "Mersin Büyükşehir Belediye Meclisi",
+  "number": "615",
+  "decision_date": "2023-11-27",
+  "title": "-MEC.KAR.(TOROSLAR 2. ETAP UİP REVİZYON)",
+  "listed_as": "615-MEC.KAR.(TOROSLAR 2. ETAP UİP REVİZYON)",
+  "subject_note": "subject as the meeting page lists it (the register shortens some long subjects)",
+  "official_document": "https://www.mersin.bel.tr/dokumanlar/615-meckartoroslar-2-etap-uip-revizyon-1530554689",
+  "source_listing": "https://www.mersin.bel.tr/dokumanlar/27-kasim-2023-meclis-kararlari-956655750",
+  "listing_sha256": "46d9011488df33f6241d1f183e2026f4aad776475d65c050483548d435c2f858",
+  "meeting_title": "27 KASIM 2023 MECLİS KARARLARI",
+  "history_type": "metadata-only",
+  "capture_mode": "metadata-only",
+  "text_status": "metadata-only; official decision page linked, text not transcribed",
+  "date_basis": "meeting date in the official meeting page title (decision date of the session)",
+  "commencement_established": false,
+  "privacy_withheld": false
+}
