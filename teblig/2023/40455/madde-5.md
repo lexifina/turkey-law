@@ -1,0 +1,4 @@
+Yükümlülüklerini ihlal edenlerin yapacakları ödemeler
+MADDE 5- (1) Yurt dışına gönderilenlerden yükümlülüklerini ihlal edenler idarelerince kendilerine yapılan harcamaları, ilgili mevzuatında belirtilen fazlası veya katı olarak, döviz cinsinden fiilen yapılan harcamaları ise aynı cins ve miktarda döviz cinsinden, borcun tahsil tarihindeki Türkiye Cumhuriyet Merkez Bankasınca tespit ve ilan edilen efektif satış kuru üzerinden faizi ile birlikte Türk Lirası olarak ödemek zorundadır.
+(2) Özel kanunlarında aksine bir hüküm bulunmadıkça faiz başlangıç tarihi, borç aslı için taahhüdün ihlal edildiği tarih, ceza koşulu için ise temerrüde düşürüldüğü tarihtir.
+(3) Kamu idarelerince yurt dışına gönderilenlere yapılan öğrenim gideri, aylık, yolluk, kitap ve yayın alımı, sağlık sigortası harcamaları gibi Türk Lirası ve döviz cinsinden yapılan tüm harcamalar, borcun hesaplanmasında ayrı ayrı dikkate alınır.
