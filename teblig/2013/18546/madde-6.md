@@ -1,0 +1,3 @@
+Ticaret unvanı ve işletme adı kullanımı
+MADDE 6 – (1) Şirketin ticaret unvanında “portföy yönetimi” ibaresini kullanması zorunludur. Şirketin, münhasıran girişim sermayesi yatırım fonlarını veya gayrimenkul yatırım fonlarını kurmak ve yönetmek üzere kurulması halinde ticaret unvanında “girişim sermayesi portföy yönetim şirketi” veya “gayrimenkul portföy yönetim şirketi” ibaresinin kullanılması zorunludur. Şirketin işletme adı kullanmak istemesi halinde Kuruldan izin alması ve bu adı da tescil ve ilan ettirmesi zorunludur.
+(2) Şirketin yazılı ve görsel basın ve yayın organlarında yer alacak her türlü ilan ve reklamları ile tüm yazışmalarında işletme adı ile birlikte ticaret unvanını kullanması zorunludur.

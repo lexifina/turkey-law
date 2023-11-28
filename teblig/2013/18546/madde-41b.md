@@ -1,0 +1,7 @@
+Teminatların yatırılması, izlenmesi ve değerlendirilmesine ilişkin esaslar
+MADDE 41/B – (Ek:RG-22/6/2014-29038)(1)
+(1) Teminat yatırmasına karar verilen Şirket tarafından, Kurulca belirlenen tutardaki teminatlar, ilgili Kurul kararında belirlenen süre boyunca Takasbank nezdinde bloke edilir. Kurul gerekli gördüğü durumlarda, teminatların bloke edilmesine ilişkin süreyi uzatabilir.
+(2) Teminatın Şirket adına üçüncü bir kişi tarafından tevdi edilmesi durumunda, üçüncü kişi teminata ilişkin haklarını Şirkete devrettiğine ilişkin bir temlikname verir. Teminat ile ilgili hususlarda Kurul nezdindeki işlemleri Şirket yürütür. Teminatın serbest bırakılmasına yönelik işlemlerde de muhatap Şirkettir.
+(3) Şirketlerin yatırmış olduğu teminatların değerlemesinde Kurulun aracı kurumların sermayeleri ve sermaye yeterliliği ile ilgili düzenlemelerinde yer alan değerleme ilkeleri esas alınır. Buna göre teminatlar Takasbank tarafından aylık olarak izlenir ve teminat yükümlülüklerini karşılayamayan Şirketlere ilişkin teminatların tamamlattırılması dahil tüm işlemler Takasbank tarafından yerine getirilir.
+(4) Teminatların ilk defa yatırılması ve teminatın tamamlatılmasına ilişkin yükümlülüklerin Şirket tarafından tebellüğ edildiği tarihi takip eden beş iş günü içinde yerine getirmeyen Şirketler Takasbank tarafından ivedilikle Kurula bildirilir.
+(5) Takasbank teminatların durumuna ilişkin bir rapor hazırlayarak yılsonunu takip eden 20 iş günü içerisinde Kurula gönderir.

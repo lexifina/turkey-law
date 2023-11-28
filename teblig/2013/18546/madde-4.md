@@ -1,0 +1,13 @@
+İKİNCİ BÖLÜM
+Portföy Yönetim Şirketlerinin Kuruluş Esasları
+Portföy yönetim şirketi
+MADDE 4 – (1) Portföy yönetim şirketi, ana faaliyet konusu fonların kurulması ve yönetimi olan ve anonim ortaklık şeklinde kurulan sermaye piyasası kurumudur. Yatırım ortaklıklarının, 28/3/2001 tarihli ve 4632 sayılı Bireysel Emeklilik Tasarruf ve Yatırım Sistemi Kanunu kapsamında kurulan emeklilik yatırım fonlarının ve bunların muadili yurt dışında kurulmuş yabancı kolektif yatırım kuruluşlarının portföylerinin yönetimi de Şirketin ana faaliyet konusu kapsamında değerlendirilir.
+(2) (Değişik:RG-31/12/2014-29222 4.mükerrer) Şirketin, 9 uncu maddede yer alan faaliyetlerle sınırlı olarak hizmet vermek üzere kurulması da mümkündür.
+(3) Şirket, Kuruldan yetki belgesi almak koşuluyla portföy yöneticiliği ve yatırım danışmanlığı faaliyetinde bulunabilir. Bir yetki belgesi ile bir veya birden fazla yatırım hizmeti ve faaliyeti izni verilebilir.
+(4) Yetki belgesine tabi olmaksızın Kurula bildirimde bulunmak şartıyla;
+a) Şirket Kanunun 38 inci maddesinin birinci fıkrasının (c) bendinde yer alan yan hizmeti,
+b) Bu Tebliğin 28 inci maddesinin birinci fıkrasının (c) bendinde belirtilen özsermayeye sahip Şirket Kanunun 38 inci maddesinin birinci fıkrasının (a) bendinde yer alan yan hizmeti de,
+c) Bu Tebliğin 28 inci maddesinin birinci fıkrasının (ç) bendinde belirtilen özsermayeye sahip Şirket Kanunun 38 inci maddesinin birinci fıkrasının (a) ve (e) bentlerinde yer alan yan hizmeti de
+Kurulca belirlenen esaslar çerçevesinde verebilir.
+(5) (Değişik:RG-31/12/2014-29222 4.mükerrer) Şirketler, faaliyet izni başvuruları sırasında sunmayı planladıkları yan hizmetleri de Kurula bildirmekle yükümlüdürler. Faaliyet izninin alınmasından sonra, başka yan hizmetlerin de sunulmak istenmesi halinde, bunlar için de ayrıca Kurula bildirimde bulunulur. Kurula yapılan bildirimi takiben 20 iş günü içinde Kurulca aksi yönde görüş bildirilmedikçe, bildirimde bulunulan yan hizmetler Kurulun yatırım hizmetleri ve faaliyetlerine ilişkin düzenlemelerine uygun olarak yürütülür. Kurulca istenecek eksik bilgi ve belgelerin tamamlanması için geçen süreler bu sürenin hesabında dikkate alınmaz.
+(6) Şirketin kurucusu olduğu fonları temsil ve ilzama yönetim kurulu yetkilidir. Yönetim kurulu bu yetkisini bir veya daha fazla murahhas üyeye veya müdür olarak üçüncü kişilere devredebilir. Ancak, Şirketin kurucusu olduğu fonların kuruluş, katılma payı ihracı, dönüşüm, tasfiye, yönetim ücreti artışı ile katılma payı sahiplerinin yatırım kararlarını etkileyebilecek nitelikteki işlemlerinin yönetim kurulu kararı ile yapılması zorunludur.

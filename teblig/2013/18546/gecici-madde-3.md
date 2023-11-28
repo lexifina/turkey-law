@@ -1,0 +1,4 @@
+Mevcut teminatların serbest bırakılması
+GEÇİCİ MADDE 3 – (Ek:RG-22/6/2014-29038)(1)
+(1) Bu Tebliğin yürürlüğe girdiği tarih itibariyle faaliyette olan Şirketlerin, mülga Portföy Yönetim Şirketleri Tarafından Yatırılan Teminatların Kullanım Esasları Tebliği (Seri: V, No:130)’nin 6 ncı maddesinin birinci fıkrası kapsamında Kurul adına Takasbank nezdinde bloke edilen teminatları, bu Tebliğe uyum sağlandığını tevsik edici bilgi ve belgelerin Kurula iletilmesini takiben Kurulun bildirimi üzerine Takasbank tarafından serbest bırakılır.
+(2) Bu Tebliğin yürürlüğe girdiği tarihten önce faaliyetleri durdurulmuş veya faaliyet konusu değiştirilmiş olan Şirketler tarafından Takasbank nezdinde bloke edilmiş olan teminatlara ilişkin herhangi bir sebeple mahkemelere intikal etmiş olan uyuşmazlıkların bulunması durumunda, söz konusu uyuşmazlıklara ilişkin kararların hukuken nihai olarak kesinleşmesine kadar geçen sürede bu teminatlar serbest bırakılmaz.

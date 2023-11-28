@@ -1,0 +1,5 @@
+Tescil ve ilan yükümlülüğü
+MADDE 27 – (1) (Değişik:RG-18/2/2023-32108) Her türlü yetki ve izin belgesi, merkez dışı örgüt açma izni ile işletme adı kullanım izni, konuya ilişkin Kurul izninin tebliği üzerine derhal Şirketin internet sitesinde ve KAP'ta ilan olunur. Ayrıca Şirketin merkez dışı örgüt açma izinleri, konuya ilişkin Kurul izninin tebliğini izleyen 10 iş günü içinde ilgili ticaret siciline tescil ettirilir ve TTSG'de ilan olunur.
+(2) Faaliyetlerin geçici durdurulması ya da herhangi bir faaliyet izninin iptali halinde keyfiyet, Kurulca tebliği üzerine derhal Şirketin internet sitesinde ve KAP'ta ilan olunur.
+(3) Merkez dışı örgüt faaliyetlerinin Kurul tarafından veya Şirket talebi doğrultusunda geçici olarak durdurulması halinde keyfiyet, Kurulca tebliği üzerine derhal Şirket internet sitesinde ve KAP'ta ilan olunur. Merkez dışı örgütün kapatılması halinde ise ayrıca merkez dışı örgütün tescili Kurulca tebliğini izleyen 10 iş günü içinde ticaret sicilinden terkin edilir ve TTSG'de ilan olunur.
+(4) Bu madde uyarınca yapılan ilanlara ilişkin masraflar Şirkete aittir.

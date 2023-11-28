@@ -1,0 +1,28 @@
+Tanımlar
+MADDE 3 – (1) Bu Tebliğde geçen;
+a) Birlik: Türkiye Sermaye Piyasaları Birliğini,
+b) Borsa: 6362 sayılı Sermaye Piyasası Kanununun 3 üncü maddesinin birinci fıkrasının (ç) bendinde tanımlanan sistemler ve pazar yerleri ile yurt dışı borsaları,
+c) Fon: Yatırım fonunu,
+ç) (Değişik:RG-31/12/2014-29222 4.mükerrer)(2) İhtisas Personeli: Araştırma uzmanı, fon müdürü, iç kontrol elemanı, müfettiş, portföy yöneticisi, risk yönetim birimi personeli ve yatırım danışmanını,
+d) Kanun:6362 sayılı Kanunu, (2)
+e) KAP: Kamuyu Aydınlatma Platformunu,
+f) Katılma Payı: Yatırımcının sahip olduğu hakları taşıyan ve fona katılımını gösteren, kayden izlenen sermaye piyasası aracını,
+g) Kolektif Yatırım Kuruluşu: Kanun kapsamında kurulan yatırım fonları ve yatırım ortaklıklarını,
+ğ) Kurul: Sermaye Piyasası Kurulunu,
+h) MKK: Merkezi Kayıt Kuruluşu A.Ş.’yi,
+ı) Müfettiş: Portföy yönetim şirketinin merkez ve merkez dışı örgütlerinin faaliyetlerinin sermaye piyasası mevzuatı ve ilgili diğer mevzuat hükümleri yanında, esas sözleşme ve iç kontrol ile risk yönetim sistemine yönelik yazılı prosedürler çerçevesinde yürütülmesinin gözetimi ve denetiminden sorumlu personeli,
+i) Müşteri: İmzalanacak portföy yönetim sözleşmesi çerçevesinde portföy yönetim şirketinden hizmet alan kolektif yatırım kuruluşlarını,
+j) Önemli Etkiye Sahip Ortak: Şirketin sermaye veya oy haklarının dolaylı olarak %5 veya daha fazlasını temsil eden paylara veya bu oranın altında olsa dahi genel kurulda yönetim kurulu üye sayısının salt çoğunluğuna karşılık gelen sayıda üyelikler için seçme veya aday gösterme hakkı veren imtiyazlı paylara sahip olunmasını,
+k) Portföy: Para ve sermaye piyasası araçları, kıymetli madenler ile Kurulca uygun görülen varlıklar ve işlemlerin tümünü,
+l) Portföy Saklayıcısı: Kanunun 56 ncı maddesi kapsamında portföy saklama hizmetini yürüten kuruluşu,
+m) Portföy Yöneticiliği: Bireysel ve kolektif portföy yöneticiliği faaliyetini,
+n) SPL: Sermaye Piyasası Lisanslama Sicil ve Eğitim Kuruluşu A.Ş.’yi,
+o) Şirket: Portföy yönetim şirketini,
+ö) Takasbank: İstanbul Takas ve Saklama Bankası A.Ş.’yi,
+p) Teşkilatlanmış Diğer Pazar Yerleri: Borsalar dışında sermaye piyasası araçlarının alıcı ve satıcılarını bir araya getiren, alım ve satımına aracılık eden, bunlar için sistemler ve platformlar oluşturan ve bunları işleten alternatif işlem sistemlerini, çok taraflı işlem platformlarını ve teşkilatlanmış diğer piyasaları,
+r) TTK: 13/1/2011 tarihli ve 6102 sayılı Türk Ticaret Kanununu,
+s) TTSG: Türkiye Ticaret Sicili Gazetesini,
+ş) Yatırım Kuruluşu: Aracı kurumlar ile yatırım hizmeti ve faaliyetinde bulunmak üzere kuruluş ve faaliyet esasları Kurulca belirlenen diğer sermaye piyasası kurumlarını ve bankaları,
+t) (Ek:RG-31/12/2014-29222 4.mükerrer) (Değişik:RG-18/2/2023-32108) Alt Portföy Yöneticiliği: Yapılacak bir sözleşme çerçevesinde, Şirket veya yurt dışında yetkili bir kuruluş tarafından yönetilen portföyün belirli bir kısmının veya tamamının portföy yöneticiliği faaliyeti yapabilmesi konusunda yurt dışında yetkilendirilmiş kuruluşlar veya Kurulca yetkilendirilmiş Şirketler tarafından, hizmet verilen kuruluş veya Şirketin müşterileri ile doğrudan sözleşme imzalanmaksızın yönetilmesi faaliyetini,
+u) (Ek:RG-18/2/2023-32108) Tam zamanlılık: Kurumsallığın sağlanması açısından mesleki olarak başka bir işle iştigal edilmemesini ve çalışma ortamlarında süreklilik arz edecek şekilde görevde bulunulmasını,
+ifade eder.

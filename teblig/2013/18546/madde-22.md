@@ -1,0 +1,3 @@
+Bağımsızlık ilkesi
+MADDE 22 – (1) Şirket, portföy yöneticileri ve müfettişler faaliyetlerinde bağımsız olmak zorundadırlar. Bağımsızlık, mesleki faaliyetin dürüst ve tarafsız yürütülmesini sağlayacak bir anlayış ve davranışlar bütünüdür. Portföy yöneticilerinin faaliyetleri sırasında, dürüst ve tarafsız olmaları yanında, bağımsızlıklarını ortadan kaldırabilecek özel durumların da bulunmaması şarttır.
+(2) Şirketin yöneticileri ve personeli çalışmaları sırasında ortaya çıkabilecek çıkar çatışmalarından uzak kalmak, dürüstlük ve tarafsızlıklarını etkileyebilecek müdahalelere imkan vermemek, ayrıca dürüstlük ve tarafsızlıklarını etkileyebilecek iş ve işlemlerden kaçınmak zorundadırlar.

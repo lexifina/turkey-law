@@ -1,0 +1,5 @@
+Şirketlerin yatıracakları teminatlara ilişkin esaslar
+MADDE 41/A – (Ek:RG-22/6/2014-29038)(1)
+(1) Kurul, mali durumları açısından gerekli görülmesi halinde Şirketlerin tamamından, bir kısmından veya herhangi birisinden belirli bir tutar veya orandaki teminatı belirli bir süre için Kurul adına Takasbank nezdinde bloke etmesini isteyebilir.
+(2) Teminatların kullanımına ilişkin esaslar, söz konusu teminatların yatırılmasına ilişkin Kurul kararında açıkça belirtilir. Teminatlar bu amaçlar dışında kullanılamaz, üçüncü kişilere devredilemez, kamu alacakları için olsa dahi haczedilemez, rehnedilemez, iflas masasına dâhil edilemez ve üzerine ihtiyati tedbir konulamaz.
+(3) Şirketlerin yatıracakları teminatlar, nakit, kamu borçlanma aracı, 28/3/2002 tarihli ve 4749 sayılı Kamu Finansmanı ve Borç Yönetiminin Düzenlenmesi Hakkında Kanun kapsamında ihraç edilen kira sertifikası, Türkiye'de kurulu ve şirket ile sermaye, yönetim veya denetim bakımından doğrudan veya dolaylı ilişkisi olmayan bir banka tarafından verilen teminat mektubu veya şirketin kurucusu olmadığı para piyasası yatırım fonu katılma payları şeklinde olabilir.

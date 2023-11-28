@@ -1,0 +1,4 @@
+Defter ve kayıt tutma ile bağımsız denetim yükümlülüğü
+MADDE 25 – (1) Şirket, TTK ve 4/1/1961 tarihli ve 213 sayılı Vergi Usul Kanunu uyarınca tutmak zorunda olduğu defter ve kayıtları tutmak, söz konusu belgeleri TTK’nın 82 nci maddesi uyarınca saklamak ve faaliyetlerine ilişkin muhasebe kayıt ve işlemlerinde Kurulca yapılacak düzenlemelere uymak zorundadır.
+(2) (Değişik:RG-22/6/2014-29038)(1) Şirket, Kurulun finansal raporlamaya ve bağımsız denetime ilişkin düzenlemelerine uymak ve finansal raporlarını KAP’ta yayımlamak zorundadır.
+(3) (Ek:RG-31/12/2014-29222 4.mükerrer) Şirket, merkez ve varsa şubeleri bünyesindeki bireysel portföy yönetimi, yatırım danışmanlığı, fon katılma payı pazarlama ve dağıtım hizmeti ve yan hizmet verdikleri müşterilerin hesaplarını, nakit ve menkul kıymet hareketlerini izleyecek defter ve kayıtları ilgili mevzuat hükümleri çerçevesinde tutmak ve bulundurmak zorundadır.

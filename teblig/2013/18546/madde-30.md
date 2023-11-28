@@ -1,0 +1,5 @@
+İştirak ve iştirak sınırlamaları
+MADDE 30 – (1) Ortaklığın borsada işlem görmeyen paylarına sahip olunması ile ortaklıkta %10 paya veya oy hakkına ya da yönetim kurulunda temsil edilme hakkına sahip olunması veya iktisap edilen payların bir yıldan uzun sürede elden çıkarılmaması iştirak amacıyla ortaklık kabul edilir.
+(2) Şirketin iştirak edebileceği tutar toplamı özsermayesinin %25’ini aşamaz. Sermaye artırımları dolayısıyla bedelsiz edinilen ortaklık payları ile ortaklık paylarının herhangi bir fon çıkışı gerektirmeyen değer artışları yukarıda ifade edilen iştirak sınırının hesaplanmasında dikkate alınmaz.
+(3) Şirket; Kanunun 35 inci maddesinde yer alan sermaye piyasası kurumları, kıymetli maden aracı kurumları, sigorta şirketleri, bireysel emeklilik şirketleri, finansal kiralama, faktoring, finansman ve varlık yönetim şirketleri, varlık kiralama şirketleri ile Kurulca uygun görülecek diğer finansal kuruluşlara herhangi bir sınıra tabi olmaksızın iştirak edebilir.
+(4) (Mülga:RG-31/12/2014-29222 4.mükerrer)

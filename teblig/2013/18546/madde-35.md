@@ -1,0 +1,3 @@
+Müşteri varlıklarının saklanması
+MADDE 35 – (1) (Değişik:RG-22/6/2014-29038)(1) Müşteri portföyünde yer alan varlıkların, Kurulun portföy saklama hizmeti ve bu hizmette bulunacak kuruluşlara ilişkin düzenlemeleri çerçevesinde saklanması zorunludur. Yabancı kolektif yatırım kuruluşlarının portföyünde yer alan varlıkların ilgili ülke mevzuatı çerçevesinde yetkilendirilmiş bir saklama kuruluşu nezdinde saklanması halinde de bu yükümlülüğün yerine getirilmiş olduğu kabul edilir.
+(2) Şirket, Kanunda ve Kurulun portföy saklama hizmeti ve bu hizmette bulunacak kuruluşlara ilişkin düzenlemelerinde yer alan hükümlerin ihlali nedeniyle doğan zararların giderilmesini portföy saklayıcısından talep etmekle yükümlüdür.

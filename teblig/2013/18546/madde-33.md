@@ -1,0 +1,18 @@
+Kolektif portföy yöneticiliği faaliyetine ilişkin ilkeler
+MADDE 33 – (1) Şirket, bu Tebliğ çerçevesinde faaliyetlerini yürütürken kolektif yatırım kuruluşlarının katılma payı sahipleri ve ortaklarının çıkarlarını gözetmekle yükümlüdür. Bu kapsamda Şirket;
+a) Portföy için yapılan bir alım satım işleminden dolayı herhangi bir ihraççıdan veya yatırım kuruluşundan lehine komisyon, iskonto ve benzeri menfaat sağlıyorsa, bu durumu KAP’ta açıklamak zorundadır.
+b) Müşteri portföyüne hiçbir şekilde rayiç değerinin üzerinde varlık satın alınamaz ve portföyden bu değerin altında varlık satılamaz. Rayiç bedel borsada işlem gören varlıklar için borsa fiyatı, borsada işlem görmeyenler için işlem gününde portföy lehine alımda en düşük satımda en yüksek fiyattır.
+c) Portföyde yer alan varlıklar üzerinde, kendi veya üçüncü şahıslar lehine herhangi bir hukuki tasarrufta bulunamaz. Müşterinin yazılı bir talimatı olmadan portföyde yer alan varlıkları, portföy yönetimi amacı dışında bir başka şahsa devir veya teslim edemez.
+ç) Herhangi bir şekilde kendine çıkar sağlamak üzere varlıkların alım satımını yapamaz. Müşteri hesabına vereceği emirlerde gerekli özen ve basireti göstermek zorundadır.
+d) Benzer alanda iş ve hizmetleri üstlenen basiretli bir vekil gibi davranmak ve yönettiği portföyleriyle çıkar çatışmasına meydan vermemek koşuluyla, kendine ait nakdi portföy yönetimine konu olan araç ve işlemlerle değerlendirebilir.
+e) Birden fazla portföy yönettiğinde objektif iyiniyet kurallarına aykırı olarak portföylerden biri veya birden fazlası lehine, diğerleri aleyhine sonuç verebilecek işlemlerde bulunamaz.
+f) Yatırım kararlarını, güvenilir gerekçe, bilgi, belge ve analizlere dayandırmak; içtüzük, izahname ve/veya esas sözleşme ile belirlenen yatırım ilkelerine uymak zorundadır. Bu bilgi ve belgelerin, alım-satım kararlarına mesnet teşkil eden araştırma ve raporların en az beş yıl süreyle Şirket nezdinde saklanması zorunludur.
+g) Portföyün önceden saptanmış belirli bir getiriyi sağlayacağına dair herhangi bir sözlü veya yazılı garanti veremez ve ilan ve reklamlarında bu anlama gelebilecek ifadeleri kullanamaz. Kurulun yatırım fonlarına ilişkin düzenlemeleri çerçevesinde garantili yatırım fonlarında garantiye veya koruma amaçlı yatırım fonlarında hedeflenen korumaya ve getiriye ilişkin olarak izahnamede belirlenenlerin ötesinde bir açıklamada bulunamaz.
+ğ) Müşteri portföyünün menfaatleriyle kendi menfaatleri arasında çatışma olan durumlarda portföy lehine davranmak zorundadır.
+h) Portföyleri, kolektif yatırım kuruluşunun içtüzük, izahname ve esas sözleşmesinde belirtilen yatırım stratejisine uygun oluşturmak ve yönetmek zorundadır.
+ı) Kendi lehine kazanç sağlamak amacıyla, gereksiz alım-satım yapamaz ve bu fiilin üçüncü şahıslar tarafından gerçekleştirilmesine herhangi bir şekilde yardımcı olamaz.
+i) Müşteri portföylerine ilişkin olarak portföy yöneticiliği dışında kalan faaliyeti çağrıştıracak isim ve ifadeler kullanamaz, tasarruf sahiplerini oluşturulmuş bir portföye iştirak ettiremez ve bu yönde ifadeler içeren ilan ve reklam yapamaz.
+j) Herhangi bir şekilde yanında çalışan kişilerin, olağan müşteri-şirket ilişkisi dışında kurumun imkanlarından yararlanmak suretiyle kendi nam ve hesaplarına işlem yapmalarına olanak sağlayamaz.
+k) Yatırıma yönelik araştırma sonuçlarını müşterilerinden önce kendileri veya üçüncü şahıslar lehine kullanamaz.
+l) Portföy yönetimi sırasında elde ettiği bilgileri kendileri veya üçüncü bir tarafın menfaati doğrultusunda kullanamaz.
+m) Müşteri portföyüne ilişkin pay alım-satım işlemlerinde, işlemi gerçekleştiren aracı kurumun, müşteri numarasıyla borsada işlem yapmasını temin etmek zorundadır.
