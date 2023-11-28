@@ -1,0 +1,2 @@
+Amaç ve kapsam
+MADDE 1- (1) Bu Tebliğin amacı, Bando Kayış Sanayi ve Ticaret A.Ş. firması tarafından yapılan başvuruya istinaden Malezya menşeli/çıkışlı 4010.32, 4010.34 ve 4010.39 gümrük tarife pozisyonu altında yer alan “Kesiti trapez şeklinde (V-kolanlar) olan (V-yivli olanlar hariç) sonsuz transmisyon kolanları” (v-kayışları) ithalatında yapılan incelemeler sonucunda önlemlerin etkisiz kılınmasına karşı soruşturma açılması ve açılan soruşturmanın usul ve esaslarının belirlenmesidir.

@@ -1,0 +1,7 @@
+Başvuru ve mevcut durum
+MADDE 5- (1) 31/3/2007 tarihli ve 26479 sayılı Resmî Gazete’de yayımlanan İthalatta Haksız Rekabetin Önlenmesine İlişkin Tebliğ (2007/4) ile v-kayışları ithalatında Hindistan menşeli olanlar için 3,5 ABD doları/kg, Vietnam menşeli olanlar için 4,55 ABD doları/kg ve ÇHC menşeli olanlar için 5,04 ABD doları/kg tutarında dampinge karşı önlem yürürlüğe konmuştur.
+(2) 15/3/2013 tarihli ve 28588 sayılı Resmî Gazete’de yayımlanan İthalatta Haksız Rekabetin Önlenmesine İlişkin Tebliğ (Tebliğ No: 2013/3) ile uygulanmakta olan dampinge karşı önlemin tüm ülkeler için 3,15 ABD doları/kg olacak şekilde devamına karar verilmiştir.
+(3) İthalatta Haksız Rekabetin Önlenmesine İlişkin Tebliğ (Tebliğ No: 2018/35) ile uygulanmakta olan dampinge karşı önlemin aynen uygulanmaya devam edilmesine karar verilmiştir.
+(4) Son nihai gözden geçirme soruşturması devam etmekte olup soruşturma açılışına dair İthalatta Haksız Rekabetin Önlenmesine İlişkin Tebliğ (Tebliğ No: 2023/30), 7/10/2023 tarihli ve 32332 sayılı Resmî Gazete’de yayımlanmıştır.
+(5) ÇHC menşeli bahse konu eşya ithalatında uygulanan dampinge karşı önlemin Malezya üzerinden yapılan ithalat ile etkisiz kılındığına yönelik olarak Bando Kayış Sanayi ve Ticaret A.Ş. firmasınca başvuru yapılmıştır.
+(6) Mezkûr önlemin etkisiz kılındığına ilişkin bulgular Kanun, Karar ve Yönetmelik hükümleri çerçevesinde değerlendirilmiştir.
