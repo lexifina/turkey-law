@@ -1,0 +1,15 @@
+Belediye meclisi üyelerinin bazılarına aynı tarihte gerçekleştirilen meclis toplantıları ile ihtisas komisyonu toplantıları için mükerrer huzur hakkı ödenmesi
+
+Belediye Meclisi üyelerinin bazılarına aynı tarihte gerçekleştirilen meclis toplantıları ile ihtisas komisyonu toplantıları için mükerrer huzur hakkı ödemesi yapılması suretiyle … TL kamu zararına sebebiyet verildiği iddiasına ilişkin dosyada mevcut bilgi ve belgeler incelenmiştir.
+
+03/07/2005 tarihli ve 5393 sayılı Belediye Kanununun “Huzur ve izin hakkı” başlıklı 32 nci maddesinde;
+
+“Meclis başkan ve üyelerine, meclis ve komisyon toplantılarına katıldıkları her gün için, 39 uncu madde uyarınca belediye başkanına ödenmekte olan aylık brüt ödeneğin günlük tutarının üçte birini geçmemek üzere meclis tarafından belirlenecek miktarda huzur hakkı ödenir. Huzur hakkı ödenecek gün sayısı, 20, 24 ve 25 inci maddelerde belirtilen toplantı günü sayısından fazla olamaz ve meclis üyelerine aynı gün için birden fazla huzur hakkı ödenemez. Meclis üyeleri hastalıkları süresince izinli sayılır. Ayrıca mazeretleri durumunda, bir yıl içindeki toplantı süresinin yarısını aşmamak şartıyla istekleri üzerine meclis tarafından izin verilebilir.” denilmektedir.
+
+Yukarıdaki mevzuat hükümleri birlikte değerlendirildiğinde; belediye meclis üyelerine, meclis ve komisyon toplantılarına katıldıkları her gün için mevzuatta öngörülen tutar kadar huzur hakkı ödeneceği, ancak aynı gün yapılan belediye meclisi ve komisyon toplantıları için birden fazla huzur hakkı ödenmesinin hukuken mümkün olmadığı sonucu çıkmaktadır.
+
+Yapılan incelemede …, …, … ve … tarihlerinde yapılan İmar Komisyonu toplantısı ile … Belediye Meclisi toplantısına; …  tarihinde yapılan Plan ve Bütçe Komisyonu toplantısı ile Denetim Komisyonu toplantısına; … tarihinde yapılan … Belediye Meclis toplantısı ile Denetim Komisyonu toplantısına ortak katılan bazı meclis üyelerine mevzuata aykırı şekilde aynı gün için mükerrer huzur hakkı ödenmesi suretiyle 10/12/2003 tarihli ve 5018 sayılı Kamu Malî Yönetimi ve Kontrol Kanununun “Kamu zararı” başlıklı 71 inci maddesinde yer alan “… g) Mevzuatında öngörülmediği halde ödeme yapılması, …” hükmü gereği … TL kamu zararının oluştuğu görülmüştür. Söz konusu kamu zararından; ilişikli ödeme emri belgelerinde imzaları bulunan, dolayısıyla bahsi geçen mevzuata aykırı ödemelerin yapılmasına sebebiyet veren Harcama Yetkilisi (…) … ve Gerçekleştirme Görevlisi (…) … sorumludur.
+
+Sonuç itibariyle; aynı tarihte gerçekleştirilen meclis toplantıları ile ihtisas komisyonu toplantıları için mükerrer huzur hakkı ödenmesi suretiyle sebep olunan … TL kamu zararının Harcama Yetkilisi (…) … ve Gerçekleştirme Görevlisi (…) …’e 6085 sayılı Sayıştay Kanununun 53 üncü maddesi gereğince işleyecek faizleriyle birlikte müştereken ve müteselsilen ödettirilmesine,
+
+Anılan Kanununun 55 inci maddesi uyarınca ilamın tebliğ tarihinden itibaren altmış gün içerisinde Sayıştay Temyiz Kurulu nezdinde temyiz yolu açık olmak üzere oy birliğiyle karar verildi.
