@@ -1,0 +1,3 @@
+Görev mahalli değişikliğinde göreve başlama süresi
+MADDE 28 – (1) Personele, görev yerinin başka bir il olarak değiştirilmesi halinde, bu hususun kendisine tebliğ tarihinden itibaren (Değişik ibare:RG-11/12/2022-32040) on beş günlük mehil müddeti verilir. Bu süre zarfında personelin ücretine dokunulmaz. Aynı il sınırı içindeki görev yeri değişikliklerinde ise personel, eski görevinden ilişiğinin kesildiği tarihi takip eden iş günü yeni görevine başlamak zorundadır.
+(2) İzinli olarak veya geçici bir görevle başka yerde bulunurken, görev yeri değiştirilen personel için göreve başlama süresi, iznin veya geçici görevin bittiği tarihten itibaren başlar.

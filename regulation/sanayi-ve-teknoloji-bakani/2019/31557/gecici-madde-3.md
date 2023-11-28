@@ -1,0 +1,3 @@
+Görevi devam eden çalışma birim başkanı ve yatırım destek ofisi koordinatörleri
+GEÇİCİ MADDE 3- (Ek:RG-11/12/2022-32040)
+(1) Bu maddenin yürürlüğe girdiği tarihte Ajanslarda çalışma birim başkanı ve yatırım destek ofisi koordinatörü olarak görevli personel için bu Yönetmeliğin 9 uncu maddesinin üçüncü fıkrasında düzenlenen altı yıllık süre dolmuşsa, personelin görev süresi yönetim kurulu onayı aranmaksızın iki yıl daha uzatılmış sayılır ve bu sürenin sonunda yönetim kurulu kararıyla tekrar uzatılamaz. Altı yıllık süresini doldurmamış veya süresi kesintiye uğramış diğer personelin görevde geçirdiği süre altı yıla tamamlanınca hüküm düzenlendiği şekilde uygulanır.

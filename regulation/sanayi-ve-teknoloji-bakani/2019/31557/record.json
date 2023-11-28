@@ -1,0 +1,76 @@
+{
+  "source_id": "7.5.31557",
+  "kind": "regulation",
+  "register_kind": "Kurum ve Kuruluş Yönetmelikleri",
+  "title": "KALKINMA AJANSLARI PERSONEL YÖNETMELİĞİ",
+  "number": "31557",
+  "issuer": "Sanayi ve Teknoloji Bakanı",
+  "issuer_slug": "sanayi-ve-teknoloji-bakani",
+  "path": "regulation/sanayi-ve-teknoloji-bakani/2019/31557",
+  "source": "https://www.mevzuat.gov.tr/anasayfa/MevzuatFihristDetayIframe?MevzuatTur=7&MevzuatNo=31557&MevzuatTertip=5",
+  "source_sha256": "a71dca8a037c692ff8d4ed7887b4f033b0e56d2ffbce541ed25c8c69770e0185",
+  "source_bytes": 128873,
+  "published": "2019-05-29",
+  "gazette": "30788",
+  "in_force": "2023-11-28",
+  "in_force_basis": "latest Resmî Gazete date printed in the source amendment notes/table (\"RG-28/11/2023\") for the current consolidated text",
+  "date_evidence": [
+    [
+      "2023-11-28",
+      "RG-28/11/2023",
+      "Resmî Gazete date printed in the source amendment note"
+    ],
+    [
+      "2023-11-28",
+      "28/11/2023",
+      "Resmî Gazete date in the source amendment table"
+    ],
+    [
+      "2022-12-11",
+      "RG-11/12/2022",
+      "Resmî Gazete date printed in the source amendment note"
+    ],
+    [
+      "2022-12-11",
+      "11/12/2022",
+      "Resmî Gazete date in the source amendment table"
+    ],
+    [
+      "2021-10-20",
+      "RG-20/10/2021",
+      "Resmî Gazete date printed in the source amendment note"
+    ],
+    [
+      "2021-10-20",
+      "20/10/2021",
+      "Resmî Gazete date in the source amendment table"
+    ],
+    [
+      "2020-10-20",
+      "RG-20/10/2020",
+      "Resmî Gazete date printed in the source amendment note"
+    ],
+    [
+      "2020-10-20",
+      "20/10/2020",
+      "Resmî Gazete date in the source amendment table"
+    ]
+  ],
+  "commencement_clauses": [
+    "Bu Yönetmelik yayımı tarihinde yürürlüğe girer"
+  ],
+  "history": "current-text",
+  "label": "oldest version available",
+  "checked_on": "2026-11-15",
+  "word_count": 4360,
+  "text_status": "current-consolidated",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  },
+  "source_links": [
+    "7.5.31557-Ek.docx"
+  ],
+  "completeness": "html-text-complete; linked annexes not fetched"
+}

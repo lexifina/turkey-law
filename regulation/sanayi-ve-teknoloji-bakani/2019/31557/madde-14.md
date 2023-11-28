@@ -1,0 +1,4 @@
+Sınav ilanı
+MADDE 14 – (Değişik:RG-11/12/2022-32040)
+(1) Yarışma sınavına katılma şartları, alım yapılacak pozisyonların unvan ve sayıları ile öğrenim dalları, son başvuru tarihi ile başvuru yeri, başvuruda istenecek belgeler, yarışma sınavının içeriği ve yeri ile gerekli görülen diğer hususlar, Genel Sekreterin teklifi ve Yönetim Kurulunun kararıyla belirlenerek, ilk başvuru tarihinden en az 20 gün önce Ajansın ve Cumhurbaşkanınca belirlenen kurumun internet sitesi ile Resmî Gazete’de ilan edilir.
+(2) Sınav ilanı, Bakanlıkça uygun görülmesi halinde ajansların tamamı veya bir kısmı için merkezi tek bir ilan şeklinde yapılır. Bu şekilde verilecek ilanda, ajansların yönetim kurullarının kararlaştırdığı ilan metinleri Bakanlığa iletilir ve metinlerin ilan edilme süreci Bakanlık tarafından yürütülür.
