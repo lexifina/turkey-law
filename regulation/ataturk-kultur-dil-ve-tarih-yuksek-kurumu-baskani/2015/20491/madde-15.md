@@ -1,0 +1,3 @@
+Sınav sonuçlarının açıklanması ve itiraz
+MADDE 15 – (1) Sınav sonuçları, sınavların yapıldığı tarihten itibaren en geç on beş iş günü içinde sınav kurulu tarafından Başkanlık resmî internet sitesinde ilan edilir. İlgililer, ilan tarihinden itibaren beş iş günü içerisinde sınav sonuçlarına itiraz edebilir. İtirazlar sınav kurulu tarafından en geç on iş günü içinde karara bağlanır ve ilgililere yazılı olarak bildirilir.
+(2) Yapılan sınavlarda hatalı sorulara tekabül eden puanlar eşit şekilde diğer sorulara dağıtılır. Ancak soruların yüzde onundan fazlasının hatalı olduğunun birinci fıkrada belirtilen süre içinde yapılan itirazlar üzerine veya herhangi bir şekilde tespit edilmesi hâlinde, sınav iptal edilir ve en kısa sürede yeni sınav yapılır.

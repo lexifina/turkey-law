@@ -1,0 +1,3 @@
+Kurum dışından yapılacak atamalar
+MADDE 19 – (1) Diğer kamu kurum ve kuruluşlarının personelinden bu Yönetmelikte sayılan unvanları kazanmış olanlar, Yüksek Kurum ve Kurumlardaki aynı unvana veya bu unvanın bulunduğu aynı alt gruptaki diğer unvanlara veya daha alt unvanlara; atanacakları unvan için bu Yönetmelikte öngörülen atanılacak göreve ilişkin öğrenim, sertifika, yabancı dil bilgisi düzeyine ilişkin belge şartlarını taşımak kaydıyla genel hükümlere göre naklen atanabilirler.
+(2) (Değişik:RG-29/11/2023-32384) Diğer personel mevzuatına tabi olanların bu Yönetmelik kapsamındaki görevlere atanmalarında ihraz ettikleri unvanlar, aynı unvanın bulunmaması hâlinde, öğrenim durumu ve ihraz ettikleri unvanla birlikte ilgili mevzuat hükümleri dikkate alınır.

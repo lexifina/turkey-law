@@ -1,0 +1,2 @@
+Dayanak
+MADDE 3 – (1) Bu Yönetmelik, 657 sayılı Devlet Memurları Kanunu, 11/10/2011 tarihli ve 664 sayılı Atatürk Kültür, Dil ve Tarih Yüksek Kurumu Teşkilat ve Görevleri Hakkında Kanun Hükmünde Kararname ve 15/3/1999 tarihli ve 99/12647 sayılı Bakanlar Kurulu Kararı ile yürürlüğe konulan Kamu Kurum ve Kuruluşlarında Görevde Yükselme ve Unvan Değişikliği Esaslarına Dair Genel Yönetmelik hükümlerine dayanılarak hazırlanmıştır.
