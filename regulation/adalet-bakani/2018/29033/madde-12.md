@@ -1,0 +1,2 @@
+Elektronik tebligatın muhatabın adresine ulaşmasına dair delil kaydının bildirimi
+MADDE 12 – (1) UETS, elektronik tebligatın muhatabın adresine ulaşıp ulaşmadığına dair delil kayıtlarını tutar ve bu kayıtları, tebligat çıkarmaya yetkili makam ve mercie derhâl ve en geç yirmi dört saat içinde bildirir. Süresinde bildirim yapılmadığı için yeniden elektronik tebligat çıkarılması durumunda bu tebligatın masrafı PTT tarafından karşılanır.

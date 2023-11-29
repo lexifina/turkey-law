@@ -1,0 +1,4 @@
+Elektronik tebligat adresinin oluşturulması ve teslimi
+MADDE 8 – (1) PTT, başvurunun yapıldığı tarihten itibaren bir ay içinde elektronik tebligat adresini, gerçek kişiler için kimlik bilgilerini, tüzel kişiler için ise tabi oldukları sistem bilgilerini esas almak suretiyle tek ve benzersiz olacak şekilde oluşturur ve UETS’ye kaydeder.
+(2) PTT, 5 inci maddenin birinci fıkrası kapsamında kalanlar için oluşturduğu elektronik tebligat adresini, adres sahibine teslim edilmek üzere ilgili kurum, kuruluş veya birliğe gönderir. Teslim işleminin gerçekleştiği bilgisi kendisine iletildikten sonra bu adresi tebligat çıkarmaya yetkili makam ve mercilerin kullanımına derhâl sunar.
+(3) PTT, 5 inci maddenin ikinci fıkrası kapsamında kalanlar için oluşturduğu elektronik tebligat adresini ilgilisine teslim eder ve bu adresi tebligat çıkarmaya yetkili makam ve mercilerin kullanımına derhâl sunar.
