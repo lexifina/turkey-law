@@ -1,0 +1,15 @@
+{
+  "kind": "decision",
+  "issuer": "Sayıştay Temyiz Kurulu",
+  "number": "56145",
+  "decision_date": "2023-11-29",
+  "source_id": 27910,
+  "chamber": "1",
+  "file_number": "53189",
+  "public_body_type": "Diğer Özel Bütçeli İdareler",
+  "account_year": "2019",
+  "source": "https://www.sayistay.gov.tr/KararlarTemyiz/Detay/27910/",
+  "source_sha256": "233b6440da31b2610462537d88a0089b99dad403dfe1466f2ec67516e5138d92",
+  "text_status": "as-enacted",
+  "text_file": "metin.md"
+}
