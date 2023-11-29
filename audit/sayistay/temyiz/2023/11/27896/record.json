@@ -1,0 +1,16 @@
+{
+  "kind": "decision",
+  "issuer": "Sayıştay Temyiz Kurulu",
+  "number": "56131",
+  "decision_date": "2023-11-29",
+  "source_id": 27896,
+  "chamber": "2",
+  "file_number": "53135",
+  "public_body_type": "Diğer Özel Bütçeli İdareler",
+  "account_year": "2018",
+  "subject": "İhale Mevzuatı ile İlgili Kararlar",
+  "source": "https://www.sayistay.gov.tr/KararlarTemyiz/Detay/27896/",
+  "source_sha256": "57bbc72c2ab57578742176d3f499dd153b6bee7c707c742c0502627eb4fb8c43",
+  "text_status": "as-enacted",
+  "text_file": "metin.md"
+}
