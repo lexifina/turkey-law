@@ -1,0 +1,16 @@
+{
+  "kind": "decision",
+  "issuer": "Sayıştay Temyiz Kurulu",
+  "number": "56150",
+  "decision_date": "2023-11-29",
+  "source_id": 27915,
+  "chamber": "5",
+  "file_number": "48935",
+  "public_body_type": "Yüksek Öğretim Kurumları",
+  "account_year": "2018",
+  "subject": "Çeşitli Konuları İlgilendiren Kararlar",
+  "source": "https://www.sayistay.gov.tr/KararlarTemyiz/Detay/27915/",
+  "source_sha256": "8f17b1d6e93d22251cb9caaddadeb3435a1502eb6a9af632ce4805a661da85a1",
+  "text_status": "as-enacted",
+  "text_file": "metin.md"
+}
