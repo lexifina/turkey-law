@@ -1,0 +1,16 @@
+{
+  "kind": "decision",
+  "issuer": "Sayıştay Temyiz Kurulu",
+  "number": "56152",
+  "decision_date": "2023-11-29",
+  "source_id": 27917,
+  "chamber": "5",
+  "file_number": "50796",
+  "public_body_type": "Yüksek Öğretim Kurumları",
+  "account_year": "2019",
+  "subject": "Personel Mevzuatı ile İlgili Kararlar",
+  "source": "https://www.sayistay.gov.tr/KararlarTemyiz/Detay/27917/",
+  "source_sha256": "f164e0c0b262c6b90f5eee093c5ac59afe3469a3b09e7e8ae535ed4eee463b4f",
+  "text_status": "as-enacted",
+  "text_file": "metin.md"
+}
