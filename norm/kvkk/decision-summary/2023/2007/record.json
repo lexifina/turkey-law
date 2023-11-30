@@ -1,0 +1,18 @@
+{
+  "kind": "norm",
+  "issuer": "Kişisel Verileri Koruma Kurumu",
+  "document_type": "decision-summary",
+  "number": "2023/2007",
+  "source_id": 8846,
+  "date": "2023-11-30",
+  "title": "“İşveren tarafından işyerinde kamera vasıtasıyla görüntü ve ses kaydı alınması” hakkında Kişisel Verileri Koruma Kurulunun 30/11/2023 Tarihli ve 2023/2007 Sayılı Karar Özeti",
+  "source": "https://www.kvkk.gov.tr/Icerik/8846/2023-2007",
+  "source_sha256": "d153ca8d5d25309038a8132e92a33d88c439c83e397f3bcc5ff38e0133a86f5e",
+  "text_status": "summary",
+  "text_file": "metin.md",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  }
+}
