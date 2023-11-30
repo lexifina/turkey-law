@@ -1,0 +1,21 @@
+{
+  "record_type": "parliament-written-question",
+  "term": 28,
+  "legislative_year": 2,
+  "esas_no": "7/7048",
+  "submitted": "2023-11-30",
+  "submitted_as": "Başkanlığa geliş tarihi",
+  "mp": "Yasin ÖZTÜRK",
+  "province": "Denizli",
+  "summary": "1 Ocak-31 Ekim 2023 tarihleri arasında sanayi sektöründe açılan ve kapanan iş yerlerine ilişkin",
+  "status": "Cevaplandı",
+  "status_as_of": "2026-11-16",
+  "official_record": "https://www.tbmm.gov.tr/Denetim/Yazili-Soru-Onergesi-Detay/14d53856-6e99-4f43-924d-018c244103c1",
+  "source": "https://tbmm.gov.tr/Denetim/YaziliSoruOnergesiTable",
+  "source_form": "https://tbmm.gov.tr/Denetim/Yazili-Soru-Onergeleri",
+  "source_sha256": "8ec5c2b1aa864295245e05b5c65634556ab614ada83c7c369af2d46390fae8b3",
+  "in_force": "2023-11-30",
+  "in_force_basis": "Date the question reached the Speaker (Başkanlığa geliş tarihi) in the official TBMM written-question record; parliamentary oversight record, not law",
+  "history_type": "metadata",
+  "text_status": "metadata-only: question text, addressee and answers are in the linked official record (PDFs on cdn.tbmm.gov.tr); not transcribed here"
+}
