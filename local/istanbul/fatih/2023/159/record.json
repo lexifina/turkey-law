@@ -1,0 +1,29 @@
+{
+  "number": "159",
+  "number_as_published": "2023/159",
+  "year": 2023,
+  "month": 11,
+  "title": "İstanbul İli, Fatih İlçesi, Katip Muslahattin Mahallesi, 1889 Ada 41 Parsele İlişkin TEKLİF-341033223 Plan İşlem Numaralı 1/1000 ölçekli K.A.U.İ.P. Değişikliği",
+  "decision_date": null,
+  "index_date": "2023-11-30",
+  "date_precision": "month",
+  "period": "Kasım 2023",
+  "source": "https://www.fatih.bel.tr/tr/main/meclis_kararlar?yil=2023&ay=11",
+  "official_page": "https://www.fatih.bel.tr/tr/main/meclis_kararlar/2023159/686",
+  "official_document": null,
+  "source_sha256": "bc375c16f0f14dcd35a872f501326780ac9ce72f62d03fdcc15163992f1cd37f",
+  "issuer": "Fatih Belediye Meclisi",
+  "history_type": "metadata",
+  "text_status": "metadata-only: number and subject as published in the official listing; complete decision text is in the linked official page/document, not transcribed",
+  "in_force": "2023-11-30",
+  "in_force_basis": "The official listing gives only the month of this decision (Kasım 2023); date set to the last day of that month (turkey-law date convention for month-only sources); exact adoption dates are in the linked official document; legal commencement not asserted",
+  "missing": [
+    "exact decision date",
+    "complete official decision text",
+    "official annexes"
+  ],
+  "law_text_complete": false,
+  "privacy_withheld": false,
+  "record_scope": "one council decision (number and subject as listed)",
+  "listing_month": "2023-11"
+}
