@@ -1,0 +1,81 @@
+{
+  "source_id": "7.5.15878",
+  "kind": "regulation",
+  "register_kind": "Kurum ve Kuruluş Yönetmelikleri",
+  "title": "MİLLÎ EĞİTİM BAKANLIĞI OKUL-AİLE BİRLİĞİ YÖNETMELİĞİ",
+  "number": "15878",
+  "issuer": "Millî Eğitim Bakanı",
+  "issuer_slug": "milli-egitim-bakani",
+  "path": "regulation/milli-egitim-bakani/2012/15878",
+  "source": "https://www.mevzuat.gov.tr/anasayfa/MevzuatFihristDetayIframe?MevzuatTur=7&MevzuatNo=15878&MevzuatTertip=5",
+  "source_sha256": "af18c68875c36489c2158843eb44a054d8f8ecced238145820de826786e5fc1d",
+  "source_bytes": 85462,
+  "published": "2012-02-09",
+  "gazette": "28199",
+  "in_force": "2023-12-01",
+  "in_force_basis": "latest Resmî Gazete date printed in the source amendment notes/table (\"RG-1/12/2023\") for the current consolidated text",
+  "date_evidence": [
+    [
+      "2023-12-01",
+      "RG-1/12/2023",
+      "Resmî Gazete date printed in the source amendment note"
+    ],
+    [
+      "2023-12-01",
+      "1/12/2023",
+      "Resmî Gazete date in the source amendment table"
+    ],
+    [
+      "2022-12-24",
+      "RG-24/12/2022",
+      "Resmî Gazete date printed in the source amendment note"
+    ],
+    [
+      "2022-12-24",
+      "24/12/2022",
+      "Resmî Gazete date in the source amendment table"
+    ],
+    [
+      "2022-06-10",
+      "RG-10/6/2022",
+      "Resmî Gazete date printed in the source amendment note"
+    ],
+    [
+      "2022-06-10",
+      "10/6/2022",
+      "Resmî Gazete date in the source amendment table"
+    ],
+    [
+      "2019-03-14",
+      "14/3/2019",
+      "Resmî Gazete date in the source amendment table"
+    ],
+    [
+      "2012-11-20",
+      "RG-20/11/2012",
+      "Resmî Gazete date printed in the source amendment note"
+    ],
+    [
+      "2012-11-20",
+      "20/11/2012",
+      "Resmî Gazete date in the source amendment table"
+    ]
+  ],
+  "commencement_clauses": [
+    "bu Yönetmelik yayımı tarihinde yürürlüğe girer"
+  ],
+  "history": "current-text",
+  "label": "oldest version available",
+  "checked_on": "2026-11-15",
+  "word_count": 5117,
+  "text_status": "current-consolidated",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  },
+  "source_links": [
+    "7.5.15878-ek.doc"
+  ],
+  "completeness": "html-text-complete; linked annexes not fetched"
+}

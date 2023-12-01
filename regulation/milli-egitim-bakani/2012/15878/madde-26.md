@@ -1,0 +1,3 @@
+Denetim
+MADDE 26 – (1) Birlikler, en az yılda bir defa olmak üzere Bakanlık/valilik veya il/ilçe millî eğitim müdürlükleri denetim elemanları tarafından millî eğitim mevzuatı ve diğer ilgili mevzuat hükümlerine göre denetlenir. Ayrıca il veya ilçelerdeki birlikler ile birliklerin gelirlerinden il ve ilçe milli eğitim müdürlüklerine ayrılan paylar her yıl Bakanlığın belirleyeceği usul ve esaslara göre mali açıdan denetlenir.
+(2) Okulda bulunan kantin ve benzeri yerler; sağlık, hijyen ve gıda kodeksi yönünden ilgili meslek odası, sağlık il müdürlükleri ile gıda, tarım ve hayvancılık il müdürlüklerince de denetlenebilir.

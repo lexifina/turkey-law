@@ -1,0 +1,4 @@
+Üyelik ve üyeliğin sona ermesi
+MADDE 7 – (1) Okul yöneticileri, (Değişik ibare:RG-1/12/2023-32386) öğretmenler, veliler ile onsekiz yaşını (Değişik ibare:RG-1/12/2023-32386) doldurmuş kursiyer, çıraklık, kalfalık ve ustalık eğitimine devam eden kişiler birliğin tabii üyesidir.
+(2) Yöneticilerin ve öğretmenlerin üyeliği, okulla ilişkilerinin kesilmesi durumunda; velilerin üyeliği, öğrencinin okulla ilişiğinin kesilmesi; eğitsel kulüp üyelerinin üyeliği, üyelikten ayrılması; kursiyer, çırak, kalfa ve ustaların üyeliği ise eğitimini tamamlaması hâlinde sona erer. Yönetim kurulu üye sayısının toplantı yeter sayısının altına düşmesi durumunda, olağanüstü genel kurula kadar yönetim kurulunda bulunan velilerin (Ek ibare:RG-1/12/2023-32386) /on sekiz yaşını doldurmuş kursiyerlerin üyelikleri devam eder.
+(3) Okul yaptırarak Bakanlığa bağışta bulunan hayırseverler, yaptırdığı okulun okul aile birliğinin tabii üyesidirler.

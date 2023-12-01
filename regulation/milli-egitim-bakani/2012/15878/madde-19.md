@@ -1,0 +1,5 @@
+Muhammen bedel tespit komisyonu ve bedel tespiti
+MADDE 19 – (1) (Değişik:RG-1/12/2023-32386) Muhammen bedel tespit komisyonu, valilik/kaymakamlıkça görevlendirilecek il/ilçe millî eğitim müdür yardımcısı/şube müdürü başkanlığında okul müdürü/müdür yardımcısı, birlik başkanı, ilgili millî emlak birimi temsilcisi, il ve ilçelerde ilgili meslek odasının temsilcisi ile gerekli görülmesi halinde özel idare müdürlüğü temsilcisinin katılımıyla oluşur.
+(2) Kantin ve benzeri yerlerin muhammen bedelinin tespitinde; öğrenci sayısı, okulun bulunduğu bölgenin gelişmişlik düzeyi, kiralanacak yerin fiziki özellikleri ve benzeri kriterler de dikkate alınır.
+(3) İlan edilen ilgili eğitim ve öğretim yılı takvimindeki yaz tatili ile yarıyıl tatili hariç olmak üzere aylık kira bedelinin belirlenmesinde; okulların eğitim ve öğretime açık olduğu günler dikkate alınır. Ancak, tam yıl işletilebilecek kantin ve benzeri yerler için oniki ay üzerinden bedel tespit edilir.
+(4) Söz konusu yerlerin kısa süreli kullandırılması hâlinde kullanım bedelleri, kullanım amacı da dikkate alınarak saatlik, günlük veya haftalık olarak muhammen bedel tespit komisyonunca belirlenir.

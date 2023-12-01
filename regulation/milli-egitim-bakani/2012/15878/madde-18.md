@@ -1,0 +1,6 @@
+Gelirlerin harcanması
+MADDE 18 – (1) Birlik gelirlerinin; okulun bütçe disiplini çerçevesinde, eğitim ve öğretim giderleri ile maddi imkânlardan yoksun öğrencilerin zorunlu ihtiyaçlarına harcanması esastır. Tüm harcamalar, birlik yönetim kurulunun kararı ile yapılır. Okul için gerekli ihtiyaç ve harcamalar için okul yönetiminden yazılı talep alınır. Mal ve hizmet alımları birlik yönetim kurulu üyeleri veya uzmanlık gerektiren işlerde okul aile birliği üyelerinden oluşan en az üç kişilik bir komisyon marifetiyle yapılır.
+(2) Birliğin banka hesabındaki paralar, birlik başkanı ve muhasip üyenin müşterek imzasıyla çekilir. Birlik başkanının bulunmadığı durumlarda başkan yardımcısı yetkilidir.
+(3) Alınan taşınırlar/demirbaşlar/tüketim malzemeleri 28/12/2006 tarihli ve 2006/11545 sayılı Bakanlar Kurulu Kararıyla yürürlüğe konulan Taşınır Mal Yönetmeliği hükümlerine göre okul adına kaydedilerek taşınır işlem fişinin bir örneği harcama belgesine eklenir.
+(4) Birliğin gelirlerinin elde edilmesinde ve harcanmasında görevli ve yetkili olanlar; kaynakların okul ihtiyaçlarına yönelik etkili, verimli ve ilgili mevzuata uygun olarak kullanılmasından sorumludurlar.
+(5) Birlik başkanı elde edilen gelirler, alınan bağışlar ve yönetim kurulu kararlarıyla yapılan harcamalara ilişkin bilgileri okul müdürüne her ayın sonunda yazılı olarak bildirir.

@@ -1,0 +1,2 @@
+Kapsam
+MADDE 2 – (1) Bu Yönetmelik; eğitim kampüslerinde yer alan okullar dâhil Millî Eğitim Bakanlığına bağlı okul ve eğitim kurumlarında okul-aile birliklerinin kuruluşu, işleyişi, birlik organlarının oluşturulması, seçim şekilleri; sosyal ve kültürel etkinlikler ile kampanya ve kurslardan sağlanan maddi katkılar, bağışların kabulü, harcanması ve denetlenmesiyle kantin ve benzeri yerlerin işlettirilmesi veya işletilmesinden sağlanan gelirlerin dağıtım yerleri, oranları, harcanması ve denetlenmesine dair usul ve esasları kapsar.
