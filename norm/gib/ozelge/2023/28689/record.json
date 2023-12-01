@@ -1,0 +1,22 @@
+{
+  "kind": "norm",
+  "issuer": "Gelir İdaresi Başkanlığı",
+  "document_type": "ozelge",
+  "number": "64597866-125[32/A]-24896",
+  "source_id": 28689,
+  "date": "2023-12-01",
+  "title": "Yatırım tamamlama vizesi gerçekleştikten sonra yatırımda kullanılan makinelerin satışında indirimli kurumlar vergisi uygulaması",
+  "source": "https://gib.gov.tr/mevzuat/kanun/435/ozelge/28689",
+  "related_law": "5520 sayılı KURUMLAR VERGİSİ KANUNU",
+  "source_api": "https://gib.gov.tr/api/gibportal/mevzuat/ozelge/list",
+  "source_listing": "evidence/list/2026-11-16/ozelge-p004.json",
+  "source_listing_sha256": "f3b82278308562f88be46cc93b2ac53a1050d59c304474af958f8b7377f5bef9",
+  "source_sha256": "6da662a3d95cdee0ab14c16a4643b80c6504482d1369e1e4c412d06e2c585dab",
+  "text_status": "as-enacted",
+  "text_file": "metin.md",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  }
+}
