@@ -1,0 +1,13 @@
+Depolarda bulunması gereken asgari nitelikler
+MADDE 5 – (1) Kayısının depolanacağı lisanslı depoların;
+a) Taban, iç ve dış duvar yüzeyleri ile çatısının, kayısıya yabancı madde karışmasını ve kirlenmesini önleyecek, güneş ışığını ve rutubeti geçirmeyecek, kayısıyı her türlü koku ve hava etkisi ile iç ve dış zararlardan koruyacak şekil ve nitelikte olması,
+b) Tabanının ve duvarlarının yıkanabilir ve temizlenebilir özellikte malzemeden yapılması, (Mülga ibare:RG-26/6/2020-31167) (…) duvarlarında, tabanında ve tavanında çatlakların olmaması, (Ek ibare:RG-26/6/2020-31167) duvarlarının gıdanın muhafazasına uygun, kapılarının geniş ve sızdırmaz olması,
+c) (Değişik ibare:RG-25/6/2020-31167) % 50-60 nispi nemi ve kükürtlenmemiş (Mülga ibare:RG-26/6/2020-31167) (…) kayısılar için (Değişik ibare:RG-12/10/2021-31626) maksimum 8 0C, kükürtlü kayısılar için ise (Değişik ibare:RG-26/6/2020-31167) maksimum (Değişik ibare:RG-12/10/2021-31626) 12 0C sıcaklığı sağlayacak özellikte ve kapalı olması, kayısının depolara aktarılması ya da depodan tahliyesi amacıyla ihtiyaç duyulan nakil ve diğer araç ve gereçlerin rahatça çalışabileceği genişlikte boş alanların ve geçiş yerlerinin bulunması,
+ç) Farklı yıl ürünü kayısı ile çeşitli grup, tip, sınıf ve boydaki kayısının karışmasını ve niteliklerinin bozulmasını önleyecek önlemlerin alınmasına elverişli büyüklükte ve nitelikte olması,
+d) Yeterli (Değişik ibare:RG-26/6/2020-31167) nemlendirme ve havalandırma sistemi, belgelendirilmesi suretiyle yeterli yangın söndürme sistemi, kaçak akıma ve neme karşı korumalı özel muhafazalı elektrik sistemi ile kayısının depolara nakledilmesi için gerekli altyapı ve nakil sistemine sahip olması,
+e) Depolama hizmetleri ve depolamayla ilgili ihtiyaç duyulan diğer yan hizmetleri yerine getirebilecek teknik donanıma sahip bulunması,
+gereklidir.
+(2) Bakanlık, depolanacak kayısının (Değişik ibare:RG-26/6/2020-31167) uygun koşullarda muhafazasına yönelik gerekli gördüğü diğer depo niteliklerini arayabilir ve uygulamaya koyabilir.
+(3) Lisanslı depo işletmesinin lisansa tabi kapalı depo kapasitesi (Değişik ibare:RG-2/12/2023-32387) 1.000 tondan, her bir şubesinin kapalı depo kapasitesi ise (Değişik ibare:RG-2/12/2023-32387) 500 tondan az olamaz.
+(4) Kayısının depolanacağı yerler, belirli bir sistematiğe göre numaralandırılır. Depoların numaralandırılması giriş kapılarının üzerine yapılır, depo içindeki ünitelerin numaralandırılması ise kayısının karışmasına mahal vermeyecek şekilde kolayca görülebilecek biçimde yapılır. Bakanlık, numaralandırmanın nasıl yapılacağı konusunda standart bir düzenleme yapıp zorunlu uygulamaya koyabilir.
+(5) (Ek:RG-26/6/2020-31167) Depoda sıcaklık ve nem oranı günlük olarak takip edilir ve kayıt altına alınır.

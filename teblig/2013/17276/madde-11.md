@@ -1,0 +1,4 @@
+Kayısının depolara yerleştirilmesi, ayrı depolanması ve teslimi
+MADDE 11 – (1) Aynı yıl ürünü kayısı; grup, sınıf, tip, boy ve kükürt oranına göre tahsis ve tasnif edilmiş, numaralanmış lisanslı depo ünitelerinde grup, sınıf, tip, boy ve kükürt oranı aynı olan kayısı ile karıştırılarak depolanır.
+(2) Kayısı, mudinin talebi ve lisanslı depo işletmesinin kabulü halinde, diğer kayısılar ile karıştırılmadan orijinal hali korunarak ayrı olarak depolanabilir. Bu durumda kayısı, ayrı ünitelere konulur ve diğer kayısılarla karıştırılmadan açıkça ve fark edilebilir şekilde işaretlenir. Ayrı depolanan kayısıların depodaki yeri kayıtlarda açık şekilde gösterilir.
+(3) Diğer kayısılarla karıştırılmadan aynen depolanan kayısılar, aynı orijinal haliyle; aynı grup, sınıf, tip, boy ve kükürt oranındaki diğer kayısılarla karıştırılarak depolanan kayısılar ise ilk giren ilk çıkar metoduyla mudilere teslim edilir.

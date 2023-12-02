@@ -1,0 +1,4 @@
+Kayısıyı depolamaya hazır hale getirme ve kayısının depoya kabulü (Değişik başlık:RG-26/6/2020-31167)
+MADDE 8 – (1) (Ek:RG-26/6/2020-31167)(1) Kuru kayısılar Bakanlıkça belirlenen Kuru Kayısı Kalite Kriterleri ve Sınıflandırma Usul ve Esaslarına göre değerlendirilerek lisanslı depoya kabul ya da ret edilir.
+(2) Lisanslı depo işletmesi, depolanmaya veya standartlara uygun olmayan ya da depolandığında lisanslı depodaki diğer kayısıları olumsuz etkileyebilecek kayısıları, mudinin talebi üzerine ve ücreti karşılığında, depolanmaya ve standartlara uygun hale getirmek amacıyla niteliğine göre ihtiyaç duyulan eleme, yıkama, boylama, fumigasyon ve buna benzer işlemlere tabi tutabilir.
+(3) Depolanmaya ve standartlara uygun hale getirilen kayısılar depolanabilir. Depolama şartları uygun olmayan, fermente olan, sağlığı olumsuz etkileyecek düzeyde bulunan, standart dışı olan ve mevzuatta öngörülen diğer hususlara uygun olmayan kayısılar, lisanslı depolara alınmaz.
