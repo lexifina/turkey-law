@@ -1,0 +1,2 @@
+Giriş sınavı
+MADDE 8 – (1) Açıktan istihdam edilen yerli uzman personel ve destek personeli giriş sınavına tabi tutulur. Giriş sınavına başvuruda istenen belgeler, başvuruların yapılacağı ve başvuru evrakının temin edileceği yer, başvuru şartları, sınav konuları, başvuruların başlangıç ve bitiş tarihleri ile alınacak personel sayısı sınav tarihinden en az bir ay önce, Türkiye genelinde yayımlanan en yüksek tirajlı ilk beş günlük gazetenin en az birinde ve Birimin internet sitesinde ilan edilir.

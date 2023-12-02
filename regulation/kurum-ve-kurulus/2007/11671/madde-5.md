@@ -1,0 +1,3 @@
+Yerli personele ilişkin özel hükümler
+MADDE 5 – (Değişik:RG-9/8/2022-31918)
+(1) Birimde hizmet sözleşmesiyle açıktan personel istihdam edilebilir. Bunlara, emeklilik yönünden 31/5/2006 tarihli ve 5510 sayılı Sosyal Sigortalar ve Genel Sağlık Sigortası Kanunu hükümleri uygulanır. Bu personelde, giriş sınavının yapıldığı tarih itibarıyla 35 yaşını doldurmamış olması (askerliğini yapmış olanlar için bu sınıra askerlikte geçen süre eklenir) ve son başvuru tarihi itibarıyla, geçerlilik süresi dolmamış, ÖSYM tarafından yapılan Kamu Personel Seçme Sınavından, başvuru ilanında belirtilen puan türlerinde asgari puanı almış olması şartları aranır.
