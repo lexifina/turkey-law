@@ -1,0 +1,42 @@
+{
+  "source_id": "9.5.32622",
+  "kind": "communique",
+  "register_kind": "Tebliğler",
+  "title": "SÜT ÜRÜNLERİ LİSANSLI DEPO TEBLİĞİ",
+  "number": "32622",
+  "issuer": "Ticaret Bakanı",
+  "path": "teblig/2019/32622",
+  "source": "https://www.mevzuat.gov.tr/anasayfa/MevzuatFihristDetayIframe?MevzuatTur=9&MevzuatNo=32622&MevzuatTertip=5",
+  "source_sha256": "b0fd5c3ef45293421bcaa7ee7b2b886950ebfd96ae3dc13e3422b22c72311225",
+  "source_bytes": 39811,
+  "published": "2019-06-27",
+  "gazette": "30814",
+  "in_force": "2023-12-02",
+  "in_force_basis": "latest Resmî Gazete date printed in the source amendment notes/table (\"RG-2/12/2023\") for the current consolidated text",
+  "date_evidence": [
+    [
+      "2023-12-02",
+      "RG-2/12/2023",
+      "Resmî Gazete date printed in the source amendment note"
+    ],
+    [
+      "2023-12-02",
+      "2/12/2023",
+      "Resmî Gazete date in the source amendment table"
+    ]
+  ],
+  "commencement_clauses": [
+    "Bu Tebliğ yayımı tarihinde yürürlüğe girer"
+  ],
+  "history": "current-text",
+  "label": "oldest version available",
+  "checked_on": "2026-11-15",
+  "word_count": 2044,
+  "text_status": "current-consolidated",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  },
+  "completeness": "html-text-complete"
+}

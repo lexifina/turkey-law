@@ -1,0 +1,4 @@
+Süt ürünlerinin depolara yerleştirilmesi, ayrı depolanması ve teslimi
+MADDE 11 – (1) Süt ürünleri; sınıf ve kalitelerine göre tahsis ve tasnif edilmiş, numaralanmış lisanslı depo raflarında ya da paletli olarak, sınıf ve kaliteleri aynı olan süt ürünleri ile karıştırılarak depolanır.
+(2) Süt ürünleri mudinin talebi ve lisanslı depo işletmesinin kabulü halinde, diğer süt ürünleri ile karıştırılmadan orijinal hali korunarak ayrı raflara ya da paletlere konularak depolanabilir. Bu durumda süt ürünleri, diğer süt ürünleriyle karıştırılmadan açıkça ve fark edilebilir şekilde işaretlenir. Ayrı depolanan süt ürünlerinin depodaki yeri kayıtlarda açık şekilde gösterilir.
+(3) Diğer süt ürünleriyle karıştırılmadan aynen depolanan süt ürünleri, aynı orijinal haliyle; aynı sınıf ve kalitedeki diğer süt ürünleriyle karıştırılarak depolanan süt ürünleri ise ilk giren ilk çıkar metoduyla mudilere teslim edilir.
