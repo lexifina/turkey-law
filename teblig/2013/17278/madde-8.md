@@ -1,0 +1,3 @@
+Fındığı depolamaya hazır hale getirme
+MADDE 8 – (1) Lisanslı depo işletmesi, depolanmaya veya standartlara uygun olmayan ya da depolandığında lisanslı depodaki diğer fındıkları olumsuz etkileyebilecek fındığı, mudinin talebi üzerine ve ücreti karşılığında, depolanmaya ve standartlara uygun hale getirmek amacıyla niteliğine göre ihtiyaç duyulan temizleme, toz, taş ve diğer yabancı maddelerden ayıklama, eleme, kurutma, şartlandırma ve benzeri işlemlere tabi tutabilir.
+(2) Depolanmaya ve standartlara uygun hale getirilen fındık depolanabilir. Depolama şartları uygun olmayan, sağlığı olumsuz etkileyecek düzeyde bulunan, standart dışı olan ve mevzuatta öngörülen diğer hususlara uygun olmayan fındıklar, lisanslı depolara alınmaz.
