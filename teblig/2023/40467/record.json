@@ -1,0 +1,50 @@
+{
+  "annexes": {
+    "links": [
+      {
+        "caption": "Ekleri için tıklayınız.",
+        "official_href": "9.5.40467-Ek.docx",
+        "status": "pending"
+      }
+    ],
+    "official_html": "https://www.mevzuat.gov.tr/anasayfa/MevzuatFihristDetayIframe?MevzuatTur=9&MevzuatNo=40467&MevzuatTertip=5",
+    "status": "pending"
+  },
+  "checked_on": "2026-11-15",
+  "commencement_quote": "Bu Tebliğ 1/1/2023 tarihinden geçerli olmak üzere yayımı tarihinde yürürlüğe girer",
+  "date_gazette": "32387",
+  "date_quote": "Bu Tebliğ 1/1/2023 tarihinden geçerli olmak üzere yayımı tarihinde yürürlüğe girer",
+  "first_law": null,
+  "gazette": "32387",
+  "history": "current-text",
+  "images": {
+    "deferred": 0,
+    "omitted": 0,
+    "referenced": 0,
+    "source": 0
+  },
+  "in_force": "2023-12-02",
+  "in_force_basis": "Own commencement clause: Bu Tebliğ 1/1/2023 tarihinden geçerli olmak üzere yayımı tarihinde yürürlüğe girer",
+  "issuer": "Tarım ve Orman Bakanlığı",
+  "issuer_catalog_evidence": [
+    {
+      "evidence": "issuer-637-0.json",
+      "id": "637",
+      "label": "Tarım ve Orman Bakanlığı",
+      "listing_url": "https://www.mevzuat.gov.tr/Anasayfa/MevzuatDatatable?MevzuatTur=Teblig&KurumId=637&start=0&length=100"
+    }
+  ],
+  "issuer_slug": "tarim-ve-orman-bakanligi",
+  "kind": "communique",
+  "label": "oldest version available",
+  "notes": [
+    "Linked official annexes are not included in this version; original official links and captions are recorded in annexes."
+  ],
+  "published": "2023-12-02",
+  "source": "https://www.mevzuat.gov.tr/anasayfa/MevzuatFihristDetayIframe?MevzuatTur=9&MevzuatNo=40467&MevzuatTertip=5",
+  "source_bytes": 33507,
+  "source_id": "9.5.40467",
+  "source_sha256": "c849367ee2f459fd8e1a03301aa4c53a6f64579022387ea6b2d3835938298e2d",
+  "title": "SU ÜRÜNLERİ YETİŞTİRİCİLİĞİ KAPSAMINDA ALABALIK\r\nKULUÇKAHANELERİNDE DAMIZLIK ALABALIK DESTEĞİNE İLİŞKİN TEBLİĞ (TEBLİĞ NO: 2023/44)",
+  "word_count": 1738
+}
