@@ -1,0 +1,20 @@
+{
+  "record_type": "gazette-item",
+  "gazette": "Resmî Gazete",
+  "jurisdiction": "TR",
+  "date": "2023-12-03",
+  "issue": "32388",
+  "edition": "regular",
+  "item": 3,
+  "section": "YÜRÜTME VE İDARE BÖLÜMÜ",
+  "heading": "YÖNETMELİKLER",
+  "title": "Patates Siğil Hastalığı Etmeninin Eradikasyonu ve Yayılmasının Önlenmesi İçin Alınacak Tedbirler Hakkında Yönetmelik",
+  "official_link": "https://www.resmigazete.gov.tr/eskiler/2023/12/20231203-3.htm",
+  "link_format": "htm",
+  "index_url": "https://www.resmigazete.gov.tr/eskiler/2023/12/20231203.htm",
+  "index_sha256": "f4faacaa327edc30f8f8f03e36504b66634fe19f535bce4655c297d7327d56c6",
+  "index_header": "3 Aralık 2023 ... 32388 Sayılı Resmî Gazete",
+  "issue_pdf": "https://www.resmigazete.gov.tr/eskiler/2023/12/20231203.pdf",
+  "in_force_basis": "Resmî Gazete publication date; not a commencement reading.",
+  "text_status": "metadata-only; text not yet fetched (follow-up pass adds it as its own commit)"
+}
