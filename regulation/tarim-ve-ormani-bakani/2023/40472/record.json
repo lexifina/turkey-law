@@ -1,0 +1,34 @@
+{
+  "source_id": "7.5.40472",
+  "kind": "regulation",
+  "register_kind": "Kurum ve Kuruluş Yönetmelikleri",
+  "title": "PATATES KİST NEMATODLARI İLE MÜCADELE HAKKINDA YÖNETMELİK",
+  "number": "40472",
+  "issuer": "Tarım ve Ormanı Bakanı",
+  "issuer_slug": "tarim-ve-ormani-bakani",
+  "path": "regulation/tarim-ve-ormani-bakani/2023/40472",
+  "source": "https://www.mevzuat.gov.tr/anasayfa/MevzuatFihristDetayIframe?MevzuatTur=7&MevzuatNo=40472&MevzuatTertip=5",
+  "source_sha256": "b0cdeaaf46a8326cc1ebbe3c2887b3e4ece7652dff1b2595f420ffdf04965277",
+  "source_bytes": 36403,
+  "published": "2023-12-03",
+  "gazette": "32388",
+  "in_force": "2023-12-03",
+  "in_force_basis": "Resmî Gazete publication date in the official listing (03.12.2023); own commencement article: \"Bu Yönetmelik yayımı tarihinde yürürlüğe girer\"",
+  "commencement_clauses": [
+    "Bu Yönetmelik yayımı tarihinde yürürlüğe girer"
+  ],
+  "history": "current-text",
+  "label": "oldest version available",
+  "checked_on": "2026-11-15",
+  "word_count": 1771,
+  "text_status": "current-consolidated",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  },
+  "source_links": [
+    "7.5.40472%20Ek.docx"
+  ],
+  "completeness": "html-text-complete; linked annexes not fetched"
+}
