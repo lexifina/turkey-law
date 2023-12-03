@@ -1,0 +1,34 @@
+{
+  "source_id": "7.5.40473",
+  "kind": "regulation",
+  "register_kind": "Kurum ve Kuruluş Yönetmelikleri",
+  "title": "PATATES SİĞİL HASTALIĞI ETMENİNİN ERADİKASYONU VE YAYILMASININ ÖNLENMESİ İÇİN ALINACAK TEDBİRLER HAKKINDA YÖNETMELİK",
+  "number": "40473",
+  "issuer": "Tarım ve Orman Bakanı",
+  "issuer_slug": "tarim-ve-orman-bakani",
+  "path": "regulation/tarim-ve-orman-bakani/2023/40473",
+  "source": "https://www.mevzuat.gov.tr/anasayfa/MevzuatFihristDetayIframe?MevzuatTur=7&MevzuatNo=40473&MevzuatTertip=5",
+  "source_sha256": "fbdfbf749c605191d83e433bf49b08735b0cb25552bc7a696ce08d21d011837a",
+  "source_bytes": 30200,
+  "published": "2023-12-03",
+  "gazette": "32388",
+  "in_force": "2023-12-03",
+  "in_force_basis": "Resmî Gazete publication date in the official listing (03.12.2023); own commencement article: \"Bu Yönetmelik yayımı tarihinde yürürlüğe girer\"",
+  "commencement_clauses": [
+    "Bu Yönetmelik yayımı tarihinde yürürlüğe girer"
+  ],
+  "history": "current-text",
+  "label": "oldest version available",
+  "checked_on": "2026-11-15",
+  "word_count": 1346,
+  "text_status": "current-consolidated",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  },
+  "source_links": [
+    "7.5.40473%20Ek.docx"
+  ],
+  "completeness": "html-text-complete; linked annexes not fetched"
+}
