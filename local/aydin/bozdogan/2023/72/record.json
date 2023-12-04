@@ -1,0 +1,24 @@
+{
+  "number": "72",
+  "number_as_published": "72",
+  "year": 2023,
+  "title": "Belediye Meclisinin 04.12.2023 tarihli toplantısına katılmayan meclis üyelerinin mazeretleri oy birliğiyle kabul edildi.",
+  "decision_date": "2023-12-04",
+  "source": "https://bozdogan.bel.tr/mecliskararlari",
+  "official_document": null,
+  "source_sha256": "015930f1028afeb84a1f4f64f73ab9de75ca1e6caf913dd400148ff1f517e190",
+  "issuer": "Bozdoğan Belediye Meclisi",
+  "history_type": "metadata",
+  "text_status": "metadata-only: listing fields as published; the listing links no decision document",
+  "in_force": "2023-12-04",
+  "in_force_basis": "Decision date as printed in the official council listing: Gelen tarih: 04 Aralık 2023 (date of the official list item); adoption date of the council decision; legal commencement not asserted",
+  "missing": [
+    "complete official decision text",
+    "official annexes"
+  ],
+  "law_text_complete": false,
+  "privacy_withheld": false,
+  "record_scope": "one council decision (number and decision summary as listed in the meeting item)",
+  "listing_item": "2023 YILI ARALIK AYI MECLİS KARAR ÖZETİ",
+  "official_page": "https://bozdogan.bel.tr/mecliskararlari"
+}
