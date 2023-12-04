@@ -1,0 +1,24 @@
+{
+  "number": "meeting-12-04-15",
+  "number_as_published": "meeting-12-04-15",
+  "year": 2023,
+  "title": "Belediye Meclisi Tarafından 04.12.2023 Tarihinde Yapılan Toplantıda Alınan Karar Özetleri-2023-127",
+  "decision_date": "2023-12-04",
+  "source": "https://www.erbaa.bel.tr/meclis-kararlari/8",
+  "official_document": "https://www.erbaa.bel.tr/karar/belediye-meclisi-tarafindan-04-12-2023-tarihinde-yapilan-toplantida-alinan-karar-ozetleri-2023-127",
+  "source_sha256": "b98c4706eb8e3163f0fd77cac568065bf4f415fdb037101b2385196422e1174a",
+  "issuer": "Erbaa Belediye Meclisi",
+  "history_type": "metadata",
+  "text_status": "metadata-only: listing fields as published; complete decision text is in the linked official document, not transcribed",
+  "in_force": "2023-12-04",
+  "in_force_basis": "Decision date as printed in the official council listing: 04.12.2023; adoption date of the council decision; legal commencement not asserted",
+  "missing": [
+    "complete official decision text",
+    "official annexes"
+  ],
+  "law_text_complete": false,
+  "privacy_withheld": false,
+  "listing_label": "Belediye Meclisi Tarafından 04.12.2023 Tarihinde Yapılan Toplantıda Alınan Karar Özetleri-2023-127",
+  "record_scope": "one official file of council decisions (meeting)",
+  "karar_no_as_published": "2023-127"
+}
