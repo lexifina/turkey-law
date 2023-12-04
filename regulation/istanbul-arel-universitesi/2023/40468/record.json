@@ -1,0 +1,39 @@
+{
+  "checked_on": "2026-11-14",
+  "commencement_clauses": [
+    "MADDE 19- (1) Bu Yönetmelik yayımı tarihinde yürürlüğe girer."
+  ],
+  "date_evidence": [
+    [
+      "2023-12-04",
+      "04.12.2023",
+      "original gazette publication date in official listing"
+    ]
+  ],
+  "date_quote": "MADDE 19- (1) Bu Yönetmelik yayımı tarihinde yürürlüğe girer.",
+  "first_law": null,
+  "gazette": "32389",
+  "history": "current-text",
+  "images": {
+    "deferred": 0,
+    "omitted": 0,
+    "referenced": 0,
+    "source": 0
+  },
+  "in_force": "2023-12-04",
+  "in_force_basis": "source commencement clause: enters into force on gazette publication",
+  "issuer": "İstanbul Arel Üniversitesi",
+  "issuer_slug": "istanbul-arel-universitesi",
+  "kind": "regulation",
+  "label": "oldest version available",
+  "path": "regulation/istanbul-arel-universitesi/2023/40468",
+  "published": "2023-12-04",
+  "source": "https://www.mevzuat.gov.tr/anasayfa/MevzuatFihristDetayIframe?MevzuatTur=8&MevzuatNo=40468&MevzuatTertip=5",
+  "source_bytes": 35141,
+  "source_id": "8.5.40468",
+  "source_sha256": "1c97ac23e92c2632922f09c103c48fbfe2e04d61bfe274c1efa0f71724d2cae8",
+  "text_status": "as-enacted",
+  "title": "İSTANBUL AREL ÜNİVERSİTESİ SAĞLIK EĞİTİM UYGULAMA\r\nVE ARAŞTIRMA MERKEZİ YÖNETMELİĞİ",
+  "university_id": 310,
+  "word_count": 1525
+}
