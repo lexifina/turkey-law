@@ -1,0 +1,25 @@
+{
+  "number": "16",
+  "number_as_published": "16",
+  "year": 2023,
+  "title": "council decision",
+  "decision_date": "2023-12-05",
+  "source": "https://www.mollakoy.bel.tr/meclis-kararlari/sayfa/7/",
+  "official_document": "https://www.mollakoy.bel.tr/karar/metin-toprak-a-dilekcenin-gorusulmesi/54/",
+  "source_sha256": "432129cdeb4f81236ce8cd202ef77f42c0e67a8fc47a56f91df4d5ffc8fb4f05",
+  "issuer": "Mollaköy Belediye Meclisi",
+  "history_type": "metadata",
+  "text_status": "metadata-only: subject appears to concern individual persons; official link only",
+  "in_force": "2023-12-05",
+  "in_force_basis": "Decision date as printed in the official council listing: meclisi 05.12.2023; adoption date of the council decision; legal commencement not asserted",
+  "missing": [
+    "complete official decision text",
+    "official annexes"
+  ],
+  "law_text_complete": false,
+  "privacy_withheld": true,
+  "official_page": "https://www.mollakoy.bel.tr/karar/metin-toprak-a-dilekcenin-gorusulmesi/54/",
+  "record_scope": "one council decision (number, date, subject as published)",
+  "date_read_from": "meeting date in the decision text (the item's Karar Tarihi field carries a clock time)",
+  "document_note": "the decision text is on the official item page; not transcribed here"
+}
