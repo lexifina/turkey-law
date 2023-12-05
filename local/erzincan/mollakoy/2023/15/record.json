@@ -1,0 +1,26 @@
+{
+  "number": "15",
+  "number_as_published": "15",
+  "year": 2023,
+  "title": "2024 mali yılına ait ücret tarifelerin görüşülmesi.",
+  "decision_date": "2023-12-05",
+  "source": "https://www.mollakoy.bel.tr/meclis-kararlari/sayfa/7/",
+  "official_document": "https://www.mollakoy.bel.tr/karar/2024-mali-yilina-ait-ucret-tarifelerin-gorusulmesi/53/",
+  "source_sha256": "105a9aff91d2c440162b62d749f1e4d0d2bd6c8234dc241e6fdaac68498179ef",
+  "issuer": "Mollaköy Belediye Meclisi",
+  "history_type": "metadata",
+  "text_status": "metadata-only: listing fields as published; complete decision text is in the linked official document, not transcribed",
+  "in_force": "2023-12-05",
+  "in_force_basis": "Decision date as printed in the official council listing: meclisi 05.12.2023; adoption date of the council decision; legal commencement not asserted",
+  "missing": [
+    "complete official decision text",
+    "official annexes"
+  ],
+  "law_text_complete": false,
+  "privacy_withheld": false,
+  "official_page": "https://www.mollakoy.bel.tr/karar/2024-mali-yilina-ait-ucret-tarifelerin-gorusulmesi/53/",
+  "listing_label": "2024 mali yılına ait ücret tarifelerin görüşülmesi.",
+  "record_scope": "one council decision (number, date, subject as published)",
+  "date_read_from": "meeting date in the decision text (the item's Karar Tarihi field carries a clock time)",
+  "document_note": "the decision text is on the official item page; not transcribed here"
+}
