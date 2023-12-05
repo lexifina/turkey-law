@@ -1,0 +1,21 @@
+{
+  "record_type": "parliament-written-question",
+  "term": 28,
+  "legislative_year": 2,
+  "esas_no": "7/7184",
+  "submitted": "2023-12-05",
+  "submitted_as": "Başkanlığa geliş tarihi",
+  "mp": "Sinan ÇİFTYÜREK",
+  "province": "Van",
+  "summary": "Van Gölü kıyısında bulunan bir otelin usulsüz olarak sahile dolgu yaptığı iddiasına ilişkin",
+  "status": "Cevaplanmadığı Gelen Kağıtlarda İlan Edildi",
+  "status_as_of": "2026-11-16",
+  "official_record": "https://www.tbmm.gov.tr/Denetim/Yazili-Soru-Onergesi-Detay/fe227d26-e3a5-4d0a-8e33-018c3e30be6c",
+  "source": "https://tbmm.gov.tr/Denetim/YaziliSoruOnergesiTable",
+  "source_form": "https://tbmm.gov.tr/Denetim/Yazili-Soru-Onergeleri",
+  "source_sha256": "5d1b6897527cdbb1d2b651c590e4c01fb6a3603f35c7ba09535503251d2db782",
+  "in_force": "2023-12-05",
+  "in_force_basis": "Date the question reached the Speaker (Başkanlığa geliş tarihi) in the official TBMM written-question record; parliamentary oversight record, not law",
+  "history_type": "metadata",
+  "text_status": "metadata-only: question text, addressee and answers are in the linked official record (PDFs on cdn.tbmm.gov.tr); not transcribed here"
+}
