@@ -1,0 +1,34 @@
+{
+  "source_id": "7.5.40477",
+  "kind": "regulation",
+  "register_kind": "Kurum ve Kuruluş Yönetmelikleri",
+  "title": "ORDU HİZMET HAYVANLARINA MUHAREBE ŞARTLARINDA VE VETERİNER HEKİM PERSONEL YOKLUĞUNDA, VETERİNER HEKİM OLMAYAN PERSONELİN YAPMAYA YETKİLİ OLDUKLARI İLK YARDIM MÜDAHALELERİ HAKKINDA YÖNETMELİK",
+  "number": "40477",
+  "issuer": "Millî Savunma Bakanı",
+  "issuer_slug": "milli-savunma-bakani",
+  "path": "regulation/milli-savunma-bakani/2023/40477",
+  "source": "https://www.mevzuat.gov.tr/anasayfa/MevzuatFihristDetayIframe?MevzuatTur=7&MevzuatNo=40477&MevzuatTertip=5",
+  "source_sha256": "17ed74be88f6bf0c751e7b641b388796780ac9fbd8d42a02159700b4fd371f2e",
+  "source_bytes": 31210,
+  "published": "2023-12-05",
+  "gazette": "32390",
+  "in_force": "2023-12-05",
+  "in_force_basis": "Resmî Gazete publication date in the official listing (05.12.2023); own commencement article: \"Bu Yönetmelik yayımı tarihinde yürürlüğe girer\"",
+  "commencement_clauses": [
+    "Bu Yönetmelik yayımı tarihinde yürürlüğe girer"
+  ],
+  "history": "current-text",
+  "label": "oldest version available",
+  "checked_on": "2026-11-15",
+  "word_count": 1502,
+  "text_status": "current-consolidated",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  },
+  "source_links": [
+    "7.5.40477-Ek.docx"
+  ],
+  "completeness": "html-text-complete; linked annexes not fetched"
+}
