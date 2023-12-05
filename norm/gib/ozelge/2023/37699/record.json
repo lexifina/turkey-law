@@ -1,0 +1,22 @@
+{
+  "kind": "norm",
+  "issuer": "Gelir İdaresi Başkanlığı",
+  "document_type": "ozelge",
+  "number": "62030549-120-1397179",
+  "source_id": 37699,
+  "date": "2023-12-05",
+  "title": "Yurt dışında ikamet eden kişinin yurt dışında faaliyet gösteren cami derneğine yaptığı bağış ve yardımın GMSİ beyannamesinden indirim konusu yapılıp yapılamayacağı",
+  "source": "https://gib.gov.tr/mevzuat/kanun/433/ozelge/37699",
+  "related_law": "193 sayılı GELİR VERGİSİ KANUNU",
+  "source_api": "https://gib.gov.tr/api/gibportal/mevzuat/ozelge/list",
+  "source_listing": "evidence/list/2026-11-16/ozelge-p008.json",
+  "source_listing_sha256": "292c126217cc32c3ccfa57495ce433f89ef8db5e75fa1946d5819a76f81aff4d",
+  "source_sha256": "159aac58d701de400156426e46e046414c188d43eb83475d6c72a8a7628e2e7c",
+  "text_status": "as-enacted",
+  "text_file": "metin.md",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  }
+}
