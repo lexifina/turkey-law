@@ -1,0 +1,5 @@
+Yapım işinde; yeni birim fiyat oluşturulurken; yeni malzemenin piyasa fiyatı aynen alınırken, vazgeçilen malzemenin analizlerden çıkarılması işleminde ihale tenzilatı uygulanarak hatalı hesaplama yapılması;
+
+161 sayılı İlamın 15. maddesiyle verilen … TL’nin tazminine dair hükümde Gerçekleştirme Görevlisi sıfatı ile iştiraki bulunan …’un itiraz başvurusu üzerine düzenlenen 51574 sayılı dosya, 06.12.2023 tarihli ve 56172 tutanak sayılı Temyiz Kurulu Kararı (2. maddesi) ile; hükümden önce yapılan tahsilatın temyiz konusu olmayıp yargılamanın iadesiyle ilgili olması nedeniyle bu hususta Kurulumuzca yapılacak işlem bulunmadığı belirtilerek Dairesine gönderildiğinden; bir diğer sorumluyu [(Hakediş Kapağı Üzerinde İmzası Bulunan) Gerçekleştirme Görevlisi sıfatıyla temyiz talep eden İnşaat Mühendisi …’u]  ilgilendiren ve aynı mahiyette olan 51572 sayılı işbu dosyanın da sözü edilen (51574 sayılı) dosya ile BİRLEŞTİRİLEREK gereği yapılmak üzere hükmü veren DAİREYE GÖNDERİLMESİNE,  oy birliğiyle,
+
+Karar verildiği 06.12.2023 tarih ve 56175 sayılı tutanakta yazılı olmakla işbu ilam tanzim kılındı.
