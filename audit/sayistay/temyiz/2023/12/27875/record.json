@@ -1,0 +1,16 @@
+{
+  "kind": "decision",
+  "issuer": "Sayıştay Temyiz Kurulu",
+  "number": "56164",
+  "decision_date": "2023-12-06",
+  "source_id": 27875,
+  "chamber": "8",
+  "file_number": "53437",
+  "public_body_type": "Diğer Özel Bütçeli İdareler",
+  "account_year": "2016",
+  "subject": "İhale Mevzuatı ile İlgili Kararlar",
+  "source": "https://www.sayistay.gov.tr/KararlarTemyiz/Detay/27875/",
+  "source_sha256": "9d85719753834545e51dc964817879b0c8523b89d2fe284a7da234b9491b2c8f",
+  "text_status": "metadata-only",
+  "metadata_only_reason": "possible personal name in the official text"
+}
