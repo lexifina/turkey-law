@@ -1,0 +1,16 @@
+{
+  "kind": "decision",
+  "issuer": "Sayıştay Temyiz Kurulu",
+  "number": "56177",
+  "decision_date": "2023-12-06",
+  "source_id": 28668,
+  "chamber": "5",
+  "file_number": "50226",
+  "public_body_type": "Belediyeler ve Bağlı İdareler",
+  "account_year": "2008",
+  "subject": "Çeşitli Konuları İlgilendiren Kararlar",
+  "source": "https://www.sayistay.gov.tr/KararlarTemyiz/Detay/28668/",
+  "source_sha256": "6b6c16c77a9c317f9649b082a89c6b9b3d14793c3897421ab02f85bc0ad62a13",
+  "text_status": "as-enacted",
+  "text_file": "metin.md"
+}
