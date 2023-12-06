@@ -1,0 +1,16 @@
+{
+  "kind": "decision",
+  "issuer": "Sayıştay Temyiz Kurulu",
+  "number": "56169",
+  "decision_date": "2023-12-06",
+  "source_id": 27880,
+  "chamber": "2",
+  "file_number": "51633",
+  "public_body_type": "Diğer Özel Bütçeli İdareler",
+  "account_year": "2019",
+  "subject": "İhale Mevzuatı ile İlgili Kararlar",
+  "source": "https://www.sayistay.gov.tr/KararlarTemyiz/Detay/27880/",
+  "source_sha256": "1eece1b9f6affd48609e0fc9f3e5e7949b4fbb0a7377c7b43062b717fd9b3af9",
+  "text_status": "as-enacted",
+  "text_file": "metin.md"
+}
