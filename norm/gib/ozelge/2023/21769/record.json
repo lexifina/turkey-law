@@ -1,0 +1,22 @@
+{
+  "kind": "norm",
+  "issuer": "Gelir İdaresi Başkanlığı",
+  "document_type": "ozelge",
+  "number": "E-57062627-120-24741",
+  "source_id": 21769,
+  "date": "2023-12-06",
+  "title": "Belli bir bedel karşılığı kiralanan yerde kurban bayramı günlerinde belli bir ücret karşılığında kurban kesme hizmetinde mükellefiyet.",
+  "source": "https://gib.gov.tr/mevzuat/kanun/433/ozelge/21769",
+  "related_law": "193 sayılı GELİR VERGİSİ KANUNU",
+  "source_api": "https://gib.gov.tr/api/gibportal/mevzuat/ozelge/list",
+  "source_listing": "evidence/list/2026-11-16/ozelge-p000.json",
+  "source_listing_sha256": "5444faf84128246cd8dd8c6db754d41e2a11c7717342bfe0a07a35074d061761",
+  "source_sha256": "7776a4ca56eaad818413ce7f476d12ee698ab0024c6d7a46d5ce93f425973b86",
+  "text_status": "as-enacted",
+  "text_file": "metin.md",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  }
+}
