@@ -1,0 +1,5 @@
+Yapım işinde; yeni birim fiyat tespitinde yüklenici karının hatalı belirlenmesi;
+
+161 sayılı İlamın 4. maddesinin (B) bendiyle verilen … TL’nin tazminine dair hükümde Harcama Yetkilisi sıfatı ile iştiraki bulunan …’nun itiraz başvurusu üzerine düzenlenen 51584 sayılı dosya, 06.12.2023 tarihli ve 56166 tutanak sayılı Temyiz Kurulu Kararı ile; yapılan ödemede mevzuata aykırı bir husus bulunmadığı ve kamu zararı oluşmadığına ilişkin olarak belirtilen hususların tekrar değerlendirilmesini teminen 6085 sayılı Sayıştay Kanununun 55 inci maddesinin 7 nci fıkrası uyarınca tazmin hükmünün bozulması suretiyle Dairesine gönderildiğinden; bir diğer sorumluyu [(Ödeme Emri Belgesi Üzerinde İmzası Bulunan) Gerçekleştirme Görevlisi sıfatıyla temyiz talep eden İçmesuyu Dairesi Tatbikat Şube Müdürü …’ı]  ilgilendiren ve aynı mahiyette olan 51631 sayılı işbu dosyanın da sözü edilen (51584 sayılı) dosya ile BİRLEŞTİRİLEREK gereği yapılmak üzere hükmü veren DAİREYE GÖNDERİLMESİNE,  oy birliğiyle,
+
+Karar verildiği 06.12.2023 tarih ve 56168 sayılı tutanakta yazılı olmakla işbu ilam tanzim kılındı.
