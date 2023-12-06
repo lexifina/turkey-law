@@ -1,0 +1,16 @@
+{
+  "kind": "decision",
+  "issuer": "Sayıştay Temyiz Kurulu",
+  "number": "56184",
+  "decision_date": "2023-12-06",
+  "source_id": 28722,
+  "chamber": "3",
+  "file_number": "48776",
+  "public_body_type": "Belediyeler ve Bağlı İdareler",
+  "account_year": "2019",
+  "subject": "Personel Mevzuatı ile İlgili Kararlar",
+  "source": "https://www.sayistay.gov.tr/KararlarTemyiz/Detay/28722/",
+  "source_sha256": "a1d6cbb7427512d1f33ec55c2656a0e85ff35076287ecd4f15885af4496d9e81",
+  "text_status": "as-enacted",
+  "text_file": "metin.md"
+}
