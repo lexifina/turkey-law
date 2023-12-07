@@ -1,0 +1,22 @@
+{
+  "number": "96",
+  "number_as_published": "2023/096",
+  "year": 2023,
+  "title": "07.12.2023 tarihli ve 2023/096 sayılı karar",
+  "decision_date": "2023-12-07",
+  "source": "https://www.atasehir.bel.tr/kurumsal/liste/meclis-kararlari?page=23",
+  "official_document": "https://www.atasehir.bel.tr/kurumsal/meclis-kararlari/07122023-tarihli-ve-2023096-sayili-karar",
+  "source_sha256": "253af2c1e9da78cc2b70ee46d1a5fd4f5c376b682413cb57bc9d294297f87fa5",
+  "issuer": "Ataşehir Belediye Meclisi",
+  "history_type": "metadata",
+  "text_status": "metadata-only: listing fields as published; complete decision text is in the linked official document, not transcribed",
+  "in_force": "2023-12-07",
+  "in_force_basis": "Decision date as printed in the official council listing: 07.12.2023; adoption date of the council decision; legal commencement not asserted",
+  "missing": [
+    "complete official decision text",
+    "official annexes"
+  ],
+  "law_text_complete": false,
+  "privacy_withheld": false,
+  "decision_page": "https://www.atasehir.bel.tr/kurumsal/meclis-kararlari/07122023-tarihli-ve-2023096-sayili-karar"
+}
