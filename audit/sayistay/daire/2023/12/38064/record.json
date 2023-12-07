@@ -1,0 +1,17 @@
+{
+  "kind": "decision",
+  "issuer": "Sayıştay 7. Dairesi",
+  "number": "593",
+  "decision_date": "2023-12-07",
+  "source_id": 38064,
+  "chamber": "7",
+  "ilam_number": "19",
+  "item_number": 1,
+  "public_body_type": "Yüksek Öğretim Kurumları",
+  "account_year": 2022,
+  "subject": "Personel Mevzuatı ile İlgili Kararlar",
+  "source": "https://www.sayistay.gov.tr/KararlarDaire/Detay/38064/",
+  "source_sha256": "15255e0aeecac99980a836f59d8c68c9114fd97dbaee4ce8945becc9de7690d7",
+  "text_status": "as-enacted",
+  "text_file": "metin.md"
+}
