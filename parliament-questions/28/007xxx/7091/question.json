@@ -1,0 +1,21 @@
+{
+  "record_type": "parliament-written-question",
+  "term": 28,
+  "legislative_year": 2,
+  "esas_no": "7/7091",
+  "submitted": "2023-12-07",
+  "submitted_as": "Başkanlığa geliş tarihi",
+  "mp": "Ömer Faruk HÜLAKÜ",
+  "province": "Bingöl",
+  "summary": "Bingöl ili Karlıova ilçesine bağlı Hacılar köyünde yapımına başlanan konutların akıbetine ilişkin",
+  "status": "Cevaplanmadığı Gelen Kağıtlarda İlan Edildi",
+  "status_as_of": "2026-11-16",
+  "official_record": "https://www.tbmm.gov.tr/Denetim/Yazili-Soru-Onergesi-Detay/85333f76-c6ca-45d3-92ae-018c44a78d01",
+  "source": "https://tbmm.gov.tr/Denetim/YaziliSoruOnergesiTable",
+  "source_form": "https://tbmm.gov.tr/Denetim/Yazili-Soru-Onergeleri",
+  "source_sha256": "8ec5c2b1aa864295245e05b5c65634556ab614ada83c7c369af2d46390fae8b3",
+  "in_force": "2023-12-07",
+  "in_force_basis": "Date the question reached the Speaker (Başkanlığa geliş tarihi) in the official TBMM written-question record; parliamentary oversight record, not law",
+  "history_type": "metadata",
+  "text_status": "metadata-only: question text, addressee and answers are in the linked official record (PDFs on cdn.tbmm.gov.tr); not transcribed here"
+}
