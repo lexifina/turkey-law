@@ -1,0 +1,39 @@
+{
+  "checked_on": "2026-11-14",
+  "commencement_clauses": [
+    "MADDE 17- (1) Bu Yönetmelik yayımı tarihinde yürürlüğe girer."
+  ],
+  "date_evidence": [
+    [
+      "2023-12-09",
+      "09.12.2023",
+      "original gazette publication date in official listing"
+    ]
+  ],
+  "date_quote": "MADDE 17- (1) Bu Yönetmelik yayımı tarihinde yürürlüğe girer.",
+  "first_law": null,
+  "gazette": "32394",
+  "history": "current-text",
+  "images": {
+    "deferred": 0,
+    "omitted": 0,
+    "referenced": 0,
+    "source": 0
+  },
+  "in_force": "2023-12-09",
+  "in_force_basis": "source commencement clause: enters into force on gazette publication",
+  "issuer": "Erciyes Üniversitesi",
+  "issuer_slug": "erciyes-universitesi",
+  "kind": "regulation",
+  "label": "oldest version available",
+  "path": "regulation/erciyes-universitesi/2023/40483",
+  "published": "2023-12-09",
+  "source": "https://www.mevzuat.gov.tr/anasayfa/MevzuatFihristDetayIframe?MevzuatTur=8&MevzuatNo=40483&MevzuatTertip=5",
+  "source_bytes": 52563,
+  "source_id": "8.5.40483",
+  "source_sha256": "69ec2d02c318a9bc57c05f164a8af46f619e5f7fea45a77bd4980b91ad3de58f",
+  "text_status": "as-enacted",
+  "title": "ERCİYES ÜNİVERSİTESİ KARİYER YÖNLENDİRME VE BİLGİLENDİRME MERKEZİ (KAYBİMER) YÖNETMELİĞİ",
+  "university_id": 192,
+  "word_count": 993
+}
