@@ -1,0 +1,20 @@
+{
+  "record_type": "gazette-item",
+  "gazette": "Resmî Gazete",
+  "jurisdiction": "TR",
+  "date": "2023-12-10",
+  "issue": "32395",
+  "edition": "regular",
+  "item": 2,
+  "section": "YÜRÜTME VE İDARE BÖLÜMÜ",
+  "heading": "TEBLİĞ",
+  "title": "Ulusal Meslek Standartlarına Dair Tebliğ (Tebliğ No: 2015/6)’de Değişiklik Yapılmasına Dair Tebliğ (No: 2023/26)",
+  "official_link": "https://www.resmigazete.gov.tr/eskiler/2023/12/20231210-2.htm",
+  "link_format": "htm",
+  "index_url": "https://www.resmigazete.gov.tr/eskiler/2023/12/20231210.htm",
+  "index_sha256": "f883c31522746cf34b974d40cd54f76dcbaf88b5ae404320fb8c275ad0c749e1",
+  "index_header": "10 Aralık 2023 ... 32395 Sayılı Resmî Gazete",
+  "issue_pdf": "https://www.resmigazete.gov.tr/eskiler/2023/12/20231210.pdf",
+  "in_force_basis": "Resmî Gazete publication date; not a commencement reading.",
+  "text_status": "metadata-only; text not yet fetched (follow-up pass adds it as its own commit)"
+}
