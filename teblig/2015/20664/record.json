@@ -1,0 +1,40 @@
+{
+  "source_id": "9.5.20664",
+  "kind": "communique",
+  "register_kind": "Tebliğler",
+  "title": "ULUSAL MESLEK STANDARTLARINA DAİR TEBLİĞ (TEBLİĞ NO: 2015/6)",
+  "number": "20664",
+  "issuer": "Meslekî Yeterlilik Kurumu Başkanı",
+  "path": "teblig/2015/20664",
+  "source": "https://www.mevzuat.gov.tr/anasayfa/MevzuatFihristDetayIframe?MevzuatTur=9&MevzuatNo=20664&MevzuatTertip=5",
+  "source_sha256": "5c4a86cc5511b219e7b44eb17b3e3bb2d06792d21be263b1fad8697655da5955",
+  "source_bytes": 13069,
+  "published": "2015-04-09",
+  "gazette": "29321",
+  "in_force": "2023-12-10",
+  "in_force_basis": "latest Resmî Gazete date printed in the source amendment notes/table (\"10/12/2023\") for the current consolidated text",
+  "date_evidence": [
+    [
+      "2023-12-10",
+      "10/12/2023",
+      "Resmî Gazete date in the source amendment table"
+    ]
+  ],
+  "commencement_clauses": [
+    "Bu Tebliğ yayımı tarihinde yürürlüğe girer"
+  ],
+  "history": "current-text",
+  "label": "oldest version available",
+  "checked_on": "2026-11-15",
+  "word_count": 114,
+  "text_status": "current-consolidated",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  },
+  "source_links": [
+    "9.5.20664-Ek.zip"
+  ],
+  "completeness": "html-text-complete; linked annexes not fetched"
+}
