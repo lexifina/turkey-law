@@ -1,0 +1,22 @@
+{
+  "kind": "norm",
+  "issuer": "Gelir İdaresi Başkanlığı",
+  "document_type": "ozelge",
+  "number": "E-39044742-135-1431578",
+  "source_id": 32100,
+  "date": "2023-12-11",
+  "title": "İthal edilen 2103.90.30.00.00 GTİP no.lu ürünle ilgili ÖTV ve KDV uygulaması",
+  "source": "https://gib.gov.tr/mevzuat/kanun/436/ozelge/32100",
+  "related_law": "3065 sayılı KATMA DEĞER VERGİSİ KANUNU",
+  "source_api": "https://gib.gov.tr/api/gibportal/mevzuat/ozelge/list",
+  "source_listing": "evidence/list/2026-11-16/ozelge-p005.json",
+  "source_listing_sha256": "bc82c6c09764a8d83c3906db12d34a67d7f592d6e631568c06d506072b5840cf",
+  "source_sha256": "1ebe4ca68be76f458d800b12d16cf4700af7f145dc455c25a89fab551b39acd3",
+  "text_status": "as-enacted",
+  "text_file": "metin.md",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  }
+}
