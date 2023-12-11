@@ -1,0 +1,21 @@
+{
+  "record_type": "parliament-written-question",
+  "term": 28,
+  "legislative_year": 2,
+  "esas_no": "7/7324",
+  "submitted": "2023-12-11",
+  "submitted_as": "Başkanlığa geliş tarihi",
+  "mp": "Sibel SUİÇMEZ",
+  "province": "Trabzon",
+  "summary": "3 Aralık 2023 tarihinde Bakan'ın yaptığı bir açıklamaya ilişkin",
+  "status": "Cevaplanmadığı Gelen Kağıtlarda İlan Edildi",
+  "status_as_of": "2026-11-16",
+  "official_record": "https://www.tbmm.gov.tr/Denetim/Yazili-Soru-Onergesi-Detay/c2b15855-dfde-48e7-a0d9-018c5e3af9b3",
+  "source": "https://tbmm.gov.tr/Denetim/YaziliSoruOnergesiTable",
+  "source_form": "https://tbmm.gov.tr/Denetim/Yazili-Soru-Onergeleri",
+  "source_sha256": "b222da58eb9ecb1a3d0f7df141e88207b392535859aea04f418bf67bab857704",
+  "in_force": "2023-12-11",
+  "in_force_basis": "Date the question reached the Speaker (Başkanlığa geliş tarihi) in the official TBMM written-question record; parliamentary oversight record, not law",
+  "history_type": "metadata",
+  "text_status": "metadata-only: question text, addressee and answers are in the linked official record (PDFs on cdn.tbmm.gov.tr); not transcribed here"
+}
