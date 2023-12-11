@@ -1,0 +1,21 @@
+{
+  "record_type": "parliament-written-question",
+  "term": 28,
+  "legislative_year": 2,
+  "esas_no": "7/7193",
+  "submitted": "2023-12-11",
+  "submitted_as": "Başkanlığa geliş tarihi",
+  "mp": "Ali ÖZTUNÇ",
+  "province": "Kahramanmaraş",
+  "summary": "Kahramanmaraş ili Pazarcık ilçesinde TOKİ tarafından gerçekleştirilen sosyal konut projesinin ödemelerine ilişkin",
+  "status": "Cevaplanmadığı Gelen Kağıtlarda İlan Edildi",
+  "status_as_of": "2026-11-16",
+  "official_record": "https://www.tbmm.gov.tr/Denetim/Yazili-Soru-Onergesi-Detay/6ea5554d-ba3b-4635-9740-018c5cfa3a69",
+  "source": "https://tbmm.gov.tr/Denetim/YaziliSoruOnergesiTable",
+  "source_form": "https://tbmm.gov.tr/Denetim/Yazili-Soru-Onergeleri",
+  "source_sha256": "5d1b6897527cdbb1d2b651c590e4c01fb6a3603f35c7ba09535503251d2db782",
+  "in_force": "2023-12-11",
+  "in_force_basis": "Date the question reached the Speaker (Başkanlığa geliş tarihi) in the official TBMM written-question record; parliamentary oversight record, not law",
+  "history_type": "metadata",
+  "text_status": "metadata-only: question text, addressee and answers are in the linked official record (PDFs on cdn.tbmm.gov.tr); not transcribed here"
+}
