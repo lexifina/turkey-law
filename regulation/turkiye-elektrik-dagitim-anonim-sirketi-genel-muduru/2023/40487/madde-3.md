@@ -1,0 +1,20 @@
+Tanımlar
+MADDE 3- (1) Bu Yönetmelikte geçen;
+a) Alternatif teklif: Bir isteklinin asıl teklifi yanında birden fazla teklif vermesini,
+b) Ambar: Türkiye Elektrik Dağıtım Anonim Şirketi merkez ve taşra teşkilatında her türlü ihtiyaç fazlası (ölü stok) ve hurda malzeme, taşıt, iş makinesi ve teçhizatları ile bunlara ait yedek parçaların ve diğer malzemelerin muhafaza edildiği açık ve kapalı alanları,
+c) Ekonomik ömrünü doldurmuş taşıt ve iş makineleri: 5/1/1961 tarihli ve 237 sayılı Taşıt Kanununun 13 üncü maddesi hükümlerine göre oluşturulan komisyon tarafından muayenesi yapılarak 18/7/1997 tarihli ve 23053 mükerrer sayılı Resmî Gazete’de yayımlanan Karayolları Trafik Yönetmeliğinin ilgili maddeleri doğrultusunda trafikten çekme işlemine tabi tutulan, onarımla kullanılabilir hale geldiği takdirde tekrar tescili yapılabilen taşıt ve iş makinelerini,
+ç) Genel Müdürlük: Türkiye Elektrik Dağıtım Anonim Şirketi Genel Müdürlüğünü,
+d) Hurda malzeme: Normal hizmet süresini doldurarak kullanılamaz hale gelmiş veya herhangi bir nedenle yeniden hizmete konulması mümkün olmayan, bakım ve onarımla dahi kullanılmasına imkân bulunmayan bozulmuş, hasarlı, yıpranmış veya eskimiş her türlü malzeme ile taşıt ve iş makinesi yedek parçalarını,
+e) Hurda taşıt ve iş makineleri: 237 sayılı Kanunun 13 üncü maddesi hükümlerine göre oluşturulan komisyon tarafından muayenesi yapılarak Karayolları Trafik Yönetmeliğinin ilgili maddeleri doğrultusunda, hurda olarak tefrik edilen ve hurda işlemine tabi tutulan taşıt ve iş makinelerini,
+f) İdare: Türkiye Elektrik Dağıtım Anonim Şirketini,
+g) İhtiyaç fazlası (ölü stok) malzeme: Çeşitli nedenlerle uzun süre hareket görmeyen ve kullanım alanı kalmayan, ihtiyaçtan fazla olması nedeniyle kullanılmasına, tüketilmesine imkân bulunmayan yeni (kullanılmamış), kullanılmış (sağlam) veya onarım ile kullanılabilir durumdaki her türlü malzeme ile taşıt ve iş makinesi yedek parçalarını,
+ğ) İhtiyaç fazlası (ölü stok) taşıt ve iş makinesi: Çeşitli nedenlerle uzun süre hareket görmeyen ve kullanım alanı kalmayan, ihtiyaçtan fazla olması nedeniyle kullanılmasına imkân bulunmayan yeni (kullanılmamış), kullanılmış (sağlam) veya onarım ile kullanılabilir durumdaki her türlü taşıt ve iş makinesini,
+h) Merkez teşkilatı: Türkiye Elektrik Dağıtım Anonim Şirketi Genel Müdürlüğünün merkez birimlerini,
+ı) Satış birimi: Türkiye Elektrik Dağıtım Anonim Şirketi Genel Müdürlüğü bünyesindeki satış işlemlerinden sorumlu üniteyi,
+i) Sistem: Türkiye Elektrik Dağıtım Anonim Şirketinin ambar, satınalma, muhasebe ve insan kaynakları işlemlerinin birbirleriyle entegreli bir biçimde bilgisayar ortamında izlenmesini sağlayan sistemi,
+j) Taşra teşkilatı: Türkiye Elektrik Dağıtım Anonim Şirketi bölge müdürlükleri ile eğitim ve sertifikasyon merkezlerini,
+k) Tespit ve değer takdir bedeli: Bir malzeme taşıt veya iş makinesi için tespit ve değer takdir komisyonu tarafından tespit edilerek ilgili ünite amirinin onayı ile belirlenen rayiç bedeli,
+l) Uygun teklif: Tespit ve değer takdir bedelinden aşağı olmamak üzere istekliler arasından verilen en yüksek bedeli,
+m) Ünite: Türkiye Elektrik Dağıtım Anonim Şirketi Genel Müdürlüğü organizasyon yapısında görev alanı belirlenmiş başkanlık/müşavirlik, müstakil müdürlükleri veya bölge müdürlüklerini,
+n) Yönetim Kurulu: Türkiye Elektrik Dağıtım Anonim Şirketi Yönetim Kurulunu,
+ifade eder.

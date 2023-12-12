@@ -1,0 +1,5 @@
+Satış komisyonunun kuruluşu ve çalışma esasları
+MADDE 11- (1) Satış komisyonu aşağıdaki şekilde oluşturulur:
+a) Merkez teşkilatında malzeme, taşıt ve iş makinelerinin satışı ile ilgili kurulacak komisyon; Genel Müdürlük Makamından alınacak olur ile satış biriminin bağlı olduğu ünite amirinin başkanlığında olmak üzere en az beş asıl beş yedek üyeden oluşturulur. Komisyon üyelerinden birinin malzeme, taşıt ve iş makinelerinin ilgili olduğu üniteden bir üyenin ise mali işler ünitesi personelinden oluşması esastır.
+b) Taşra teşkilatında söz konusu komisyon ilgili ünite amirinin bağlı olduğu Genel Müdür Yardımcısı tarafından biri başkan olmak üzere en az beş asıl beş yedek üyeden oluşturulur. Gerek görülmesi halinde taşra teşkilatında kurulacak komisyonlara merkez teşkilatından üye gönderilebilir.
+(2) Satış komisyonu, üye tam sayısı ile toplanır ve kararlar oy çokluğuyla alınır. Komisyon üyeleri kararlarda çekimser kalamaz. Komisyon başkanı ve üyeleri oy ve kararlarından sorumlu olup karşı oy kullanan komisyon üyeleri, gerekçelerini komisyon kararına yazmak ve imzalamak zorundadır.

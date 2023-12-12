@@ -1,0 +1,34 @@
+{
+  "source_id": "7.5.40487",
+  "kind": "regulation",
+  "register_kind": "Kurum ve Kuruluş Yönetmelikleri",
+  "title": "TÜRKİYE ELEKTRİK DAĞITIM ANONİM ŞİRKETİ GENEL MÜDÜRLÜĞÜ EKONOMİK ÖMRÜNÜ DOLDURMUŞ, İHTİYAÇ FAZLASI VE HURDA MALZEME DEĞERLENDİRME VE SATIŞ YÖNETMELİĞİ",
+  "number": "40487",
+  "issuer": "Türkiye Elektrik Dağıtım Anonim Şirketi Genel Müdürü",
+  "issuer_slug": "turkiye-elektrik-dagitim-anonim-sirketi-genel-muduru",
+  "path": "regulation/turkiye-elektrik-dagitim-anonim-sirketi-genel-muduru/2023/40487",
+  "source": "https://www.mevzuat.gov.tr/anasayfa/MevzuatFihristDetayIframe?MevzuatTur=7&MevzuatNo=40487&MevzuatTertip=5",
+  "source_sha256": "cd19460af21e4b9e90e1c41dca9b542a5c497debf6d141c1a2e60b2bff61b3a8",
+  "source_bytes": 55987,
+  "published": "2023-12-12",
+  "gazette": "32397",
+  "in_force": "2023-12-12",
+  "in_force_basis": "Resmî Gazete publication date in the official listing (12.12.2023); own commencement article: \"Bu Yönetmelik yayımı tarihinde yürürlüğe girer\"",
+  "commencement_clauses": [
+    "Bu Yönetmelik yayımı tarihinde yürürlüğe girer"
+  ],
+  "history": "current-text",
+  "label": "oldest version available",
+  "checked_on": "2026-11-15",
+  "word_count": 3331,
+  "text_status": "current-consolidated",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  },
+  "source_links": [
+    "7.5.40487-Ek.DOCX"
+  ],
+  "completeness": "html-text-complete; linked annexes not fetched"
+}
