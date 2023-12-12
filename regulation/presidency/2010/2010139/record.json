@@ -1,0 +1,26 @@
+{
+  "id": "presidency-regulation-2010139",
+  "number": "2010139",
+  "kind": "regulation",
+  "issuer": "presidency",
+  "title": "TÜRK VATANDAŞLIĞI KANUNUNUN UYGULANMASINA İLİŞKİN YÖNETMELİK",
+  "published": "2010-04-06",
+  "enacted": "2010-02-11",
+  "gazette_number": "27544",
+  "in_force": "2023-12-12",
+  "in_force_basis": "Source commencement table, \"Yürürlüğe Giriş Tarihi\": 12/12/2023; source row: 11/12/2023 | 7938 | 20 | 12/12/2023",
+  "history": "current-only",
+  "version_label": "oldest version available",
+  "first_law": null,
+  "source": "https://www.mevzuat.gov.tr/anasayfa/MevzuatFihristDetayIframe?MevzuatNo=2010139&MevzuatTur=21&MevzuatTertip=5",
+  "source_sha256": "ad861056a97a3800ba1f018775e1edc1f526e10f2c4ea4e68f8d86b5db978781",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  },
+  "missing_components": [],
+  "text_layout": "article-files",
+  "source_links": [],
+  "completeness": "html-text-complete"
+}

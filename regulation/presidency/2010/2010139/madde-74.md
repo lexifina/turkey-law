@@ -1,0 +1,3 @@
+Ad ve soyadın tescili
+MADDE 74 – (1) Türk vatandaşlığını kazanmak üzere başvuruda bulunan yabancılar Türkçe ad ve soyadı alabilir. Ancak kendi ad ve soyadlarını muhafaza etmek istedikleri takdirde kişinin ad ve soyadı 1353 sayılı Türk Harflerinin Kabul ve Tatbiki Hakkında Kanun gereğince Türk harfleri ile yazılır ve aile kütüğüne tescil edilir. Konulan ön adlar iki adı geçmemek üzere ve kısaltma yapılmadan yazılır.
+(2) Soyadı alınmasında Soyadı Nizamnamesinde belirtilen esaslar gözönünde bulundurulur. Soyadı tek kelime halinde yazılır. Ad ve soyadında çizgi, tire, nokta gibi işaretler kullanılmaz.

@@ -1,0 +1,2 @@
+Vatandaşlık işlemlerinde çok vatandaşlığa sahip olan kişinin kimlik bilgilerinin farklı olması
+MADDE 85 – (1) Çok vatandaşlığa sahip olan kişinin vatandaşlık işlemleri için ibraz ettiği yabancı devlet vatandaşlığını gösteren kimlik belgesindeki bilgiler ile aile kütüğündeki kimlik bilgilerinin farklı olması halinde vatandaşlık işlemleri yapılmaz. Farklı kimlik bilgilerine sahip olan kişinin, aynı kişi olduğuna dair Türk mahkemelerince verilmiş tespit kararını ibraz etmesi halinde talebi yeniden değerlendirilir.

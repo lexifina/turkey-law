@@ -1,0 +1,3 @@
+Nüfus müdürlüklerince yapılacak işlemler
+MADDE 49 – (1) Müracaat makamlarınca düzenlenerek gönderilen forma dayanılarak Türk vatandaşlığını kaybetme işlemi kişinin aile kütüğüne işlenerek kayıt kapalı hale getirilir. İşlemi yapan nüfus müdürlüğünce dayanak belgelerinin bir örneği, elektronik ortamdan alınan çıktıları ve varsa ekleri ile birleştirilerek ait olduğu özel kütüğüne, ikinci örneği ise arşivlenmek üzere Genel Müdürlüğe gönderilecek olan özel kütüğe ek konulmadan takılır.
+(2) Türk vatandaşlığından çıkmasına izin verilen kişilerin aile kütüklerindeki kayıtları Genel Müdürlükçe de kapalı hale getirilebilir.

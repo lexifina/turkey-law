@@ -1,0 +1,3 @@
+Türk vatandaşlığından çıkma izin ve Türk vatandaşlığından çıkma belgelerinin teslim edilmesi
+MADDE 45 – (1) Başka bir devlet vatandaşlığını kazanmış olan kişiye müracaat makamlarınca Türk vatandaşlığından çıkma belgesi teslim edilir.
+(2) Başka bir devlet vatandaşlığını kazanmamış olan kişiye müracaat makamlarınca önce Türk vatandaşlığından çıkma izin belgesi teslim edilir. Türk vatandaşlığından çıkma belgesi, ilgilinin yabancı devlet vatandaşlığını kazandığını belgeleyene kadar dosyasında muhafaza edilir. Yabancı devlet vatandaşlığının kazanıldığına dair belge ibraz edildiğinde Türk vatandaşlığından çıkma belgesi ilgilisine teslim edilir.

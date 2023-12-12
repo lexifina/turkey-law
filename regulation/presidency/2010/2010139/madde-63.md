@@ -1,0 +1,3 @@
+Vatandaşlık ihtilafları
+MADDE 63 – (1) Bir kişinin Türk vatandaşı olup olmadığı konusunda tereddüde düşüldüğü takdirde bu husus Bakanlıktan sorulur. Bakanlıkça ilgili kişinin Türk vatandaşı olup olmadığı ilgili mevzuat ve uluslararası anlaşmalar çerçevesinde incelenerek sonuç ilgili makama bildirilir.
+(2) Ana veya babadan dolayı Türk vatandaşı olduğu iddiasında bulunan kişi iddiasını kanıtlayacak her türlü bilgi ve belge ibraz edebilir. Kişi tıbbi raporlara dayanılarak mahkemece verilmiş olan tespit kararı da ibraz edebilir. Herhangi bir belge ibraz edilememesi veya ibraz edilen belgelerle iddia edilen ana ya da baba arasında bağ kurulamaması durumunda talep reddedilir.

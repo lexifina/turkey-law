@@ -1,0 +1,3 @@
+Başvuru belgelerinin temin edilememesi
+MADDE 39 – (1) Türk vatandaşlığını kazanma müracaatında bulunan yabancının vatansız olması veya uyruğunda bulunduğu devlet makamlarından bu Yönetmelik hükümleri gereğince istenen belgeleri alamaması ya da bu makamlarca istenen belgelerden herhangi birinin düzenlenememesi halinde, bu durum Bakanlığa bildirilir ve alınacak talimata göre işlem yapılır.
+(2) Bakanlıkça temin edilemeyen belgenin istenmemesi yolunda talimat verilmesi halinde, ilgili kişiden söz konusu belge veya belgelerde bulunması gereken bilgileri içeren yazılı beyanı alınır. Türk vatandaşlığının yalan beyan veya vatandaşlığı kazanmaya esas teşkil eden unsurları gizlemesi sonucunda alındığının sonradan tespiti halinde vatandaşlığa alınma kararı iptal edilir.

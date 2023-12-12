@@ -1,0 +1,3 @@
+Türk vatandaşlığını kazanma kararının iptali
+MADDE 57 – (1) Türk vatandaşlığını kazanma kararının, ilgilinin yalan beyanı veya vatandaşlığı kazanmaya esas teşkil eden unsurları gizlemesi sonucunda alındığının sonradan tespiti halinde kararı veren makam tarafından iptal edilir.
+(2) Bu maddenin birinci fıkrasında belirtilen hususların herhangi bir şekilde öğrenilmesi halinde Bakanlıkça ilgili hakkında araştırma ve soruşturma yapılır veya yaptırılır. Soruşturma sonucunda Türk vatandaşlığının kazanılmasına esas teşkil eden hususların gizlendiğinin veya yalan beyanın kanıtlanması halinde, Türk vatandaşlığının kazanılmasına ilişkin karar, kararı veren makam tarafından iptal edilir.

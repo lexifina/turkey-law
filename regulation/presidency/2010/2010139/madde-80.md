@@ -1,0 +1,2 @@
+Çok vatandaşlık
+MADDE 80 – (1) Herhangi bir nedenle bir veya birden fazla yabancı devlet vatandaşlığını kazanan ve bu yolda yazılı bildirimde bulunan Türk vatandaşı hakkında yapılacak inceleme sonucunda, aile kütüklerindeki kimlik bilgileri ile ibraz ettiği yabancı devlet vatandaşlığı kimlik belgesindeki bilgilerin karşılaştırılması sonucu, aynı kişi olduğunun tespiti halinde nüfus kaydına çok vatandaşlığa sahip olduğuna dair açıklama yapılır.

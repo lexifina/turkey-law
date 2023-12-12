@@ -1,0 +1,4 @@
+Vatandaşlık dosyasının düzenlenmesinde müracaat makamlarınca uyulacak esaslar
+MADDE 73 – (1) Başvuruda bulunan kişi adına istenen belgelerden birer adedi asıl, birer adedi fotokopi olmak üzere iki dosya düzenlenir. Dosyanın aslı, içerisindeki belgeleri gösteren dizi pusulasına bağlanarak Bakanlığa gönderilir, ikinci örneği ise müracaat makamında muhafaza edilir.
+(2) Başvuruda bulunan kişi hakkında Bakanlıkça verilen kararın ilgilisine tebliğinden sonra müracaat makamınca muhafaza edilen dosya ilgili mevzuatına göre imha edilir.
+(3) Başvuruda bulunan kişinin talebinin reddi halinde Bakanlıkta tutulan dosyası işlemden kaldırılarak ilgili mevzuatına göre işlem yapılır. Aynı kişinin yeniden müracaatta bulunması halinde usulüne uygun şekilde müracaat makamlarınca yeni bir başvuru dosyası düzenlenir.

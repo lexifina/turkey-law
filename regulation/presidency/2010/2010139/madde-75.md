@@ -1,0 +1,7 @@
+Denklik belgesi
+MADDE 75 – (1) Türk vatandaşlığını sonradan kazanmış kişilerin Türkçe ad ve soyadı seçmeleri halinde önceki ad ve soyadları nüfus kayıtlarına işlenir.
+(2) Türk vatandaşlığını sonradan kazanan kişilere talepleri halinde; nüfus kayıtlarına dayanılarak önceki ad ve soyadlarını gösteren denklik belgesi Genel Müdürlükçe veya nüfus müdürlüklerince düzenlenir.
+(3) Türk vatandaşlığını kazananların önceki ad ve soyadlarının nüfus kayıtlarında bulunmaması halinde; varsa kişinin Genel Müdürlükte bulunan dosyasındaki belgeler esas alınarak Türk vatandaşlığını kazanmadan önceki ad ve soyadının nüfus kaydına işlenmesi sağlanır ve buna dayanılarak denklik belgesi Genel Müdürlükçe veya nüfus müdürlüklerince düzenlenir.
+5651
+(4) Dosyasındaki belgelerin yeterli olmaması halinde mevcut pasaport, doğum belgesi gibi kişinin Türk vatandaşlığını kazanmadan önceki ad ve soyadını gösterir belge ile dosyasındaki bilgilerin karşılaştırılması sonucu, aynı kişi olduğuna kanaat getirilmesi halinde Türk vatandaşlığını kazanmadan önceki ad ve soyadının nüfus kaydına işlenmesi sağlanır ve buna dayanılarak denklik belgesi Genel Müdürlükçe veya nüfus müdürlüklerince düzenlenir.
+(5) Denklik belgesi için başvuran kişinin Genel Müdürlükteki dosyasına ulaşılamaması ya da kişinin ibraz ettiği belgelerle dosyasındaki bilgilerin karşılaştırılması sonucu aynı kişi olduğuna kanaat getirilememesi halinde talep reddedilir.

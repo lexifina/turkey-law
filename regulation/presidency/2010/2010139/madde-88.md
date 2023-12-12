@@ -1,0 +1,2 @@
+Atıflar
+MADDE 88 – (1) Diğer mevzuatta 1/7/1964 tarihli ve 11742 sayılı Resmi Gazetede yayımlanan mülga 11.2.1964 Tarihli ve 403 Sayılı Türk Vatandaşlığı Kanununun Uygulanmasına İlişkin Yönetmeliğe ve mülga Türk Vatandaşı ile Evlenme Nedeniyle Türk Vatandaşlığının Kazanılmasına ve Kuzey Kıbrıs Türk Cumhuriyeti Vatandaşlarının Türk Vatandaşlığını Kazanmalarına İlişkin Yönetmeliğe yapılmış olan atıflar bu Yönetmeliğe yapılmış sayılır.

@@ -1,0 +1,5 @@
+Türk vatandaşlığının evlenme yoluyla kazanılmasında yurt dışından yapılan başvurularda yapılacak işlemler ve uygulanacak esaslar
+MADDE 30 – (1) Türk vatandaşlığını kazanmak isteyen ve başvuru için gerekli şartları taşıyan yabancı adına 26 ncı maddede belirtilen belgelerden oluşan dosya düzenlenir.
+(2) Konsolosluk işlemlerinden sorumlu muavin konsolos veya daha üst yetkili tarafından yabancı kişi ve eşi ayrı ayrı ve birlikte, evliliğin gerçek bir evlilik ya da Türk vatandaşlığını kazanmak amacıyla yapılmış bir evlilik olup olmadığının tespiti için mülakata tabi tutulur.
+(3) Mülakat sonucunda oluşan olumlu veya olumsuz kanaat evlenme yoluyla Türk vatandaşlığının kazanılmasına ilişkin mülakat formuna açık bir şekilde yazılır.
+(4) Yabancının bulunduğu devletin kanunları izin verdiği takdirde sabıka kaydı istenir ve yabancının Türk vatandaşı eşi ile evlilik kaydının resmi makamlarda bulunup bulunmadığı araştırılarak elde edilen bilgi ve belgeler dosyaya eklenir ve karar alınmak üzere Bakanlığa gönderilir.

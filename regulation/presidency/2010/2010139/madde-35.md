@@ -1,0 +1,14 @@
+Türk vatandaşlığının sonradan kazanılmasına ilişkin işlemler ve karar vermeye yetkili makamlar
+MADDE 35 – (1) Türk vatandaşlığının sonradan kazanılmasına ilişkin müracaat makamlarınca düzenlenerek Bakanlığa gönderilen dosya üzerinde yapılan inceleme sonucunda varsa eksik olan bilgi ve belgeler tamamlatılır.
+(2) Kanunun 11 inci, 12 nci, 16 ncı ve 17 nci maddelerine göre yabancının Türk vatandaşlığını kazanmasında millî güvenlik ve kamu düzeni bakımından engel teşkil edecek bir halinin bulunup bulunmadığının tespiti için Millî İstihbarat Teşkilâtı Müsteşarlığından ve Emniyet Genel Müdürlüğünden arşiv araştırması istenir.
+(3) Kanunun 13 üncü, 14 üncü ve 43 üncü maddelerine göre yeniden Türk vatandaşlığını kazanmak isteyen kişinin millî güvenlik bakımından engel teşkil edecek bir halinin bulunup bulunmadığının tespiti için Emniyet Genel Müdürlüğünden arşiv araştırması istenir.
+(4) Millî İstihbarat Teşkilâtı Müsteşarlığı ve Emniyet Genel Müdürlüğünce yabancının millî güvenlik ve kamu düzeni bakımından engel teşkil edecek bir halinin bulunup bulunmadığı tespit edilerek araştırmanın sonucu açık bir şekilde bildirilir.
+(5) Kanunun 11 inci, 16 ncı ve 17 nci maddelerine göre Türk vatandaşlığını kazanmak isteyen kişilerden aranan şartları taşıyanlar Bakanlık kararı ile Türk vatandaşlığını kazanabilirler.
+(6) Kanunun 12 nci maddesine göre Türk vatandaşlığını kazanmak isteyen kişilerden aranan şartları taşıyanlar Bakanlığın teklifi ve Bakanlar Kurulunun kararı ile Türk vatandaşlığını kazanabilirler.
+5639
+(7) Kanunun 13 üncü maddesine göre yeniden Türk vatandaşlığını kazanmak isteyen kişiler ile Kanunun 34 üncü maddesine göre Türk vatandaşlığını kaybedip, 14 üncü maddesine göre yeniden Türk vatandaşlığını kazanmak isteyen kişilerden aranan şartları taşıyanlar Bakanlık kararı ile Türk vatandaşlığını yeniden kazanabilirler.
+(8) Kanunun 29 uncu maddesine göre Türk vatandaşlığı kaybettirilip, 14 üncü maddesine göre yeniden Türk vatandaşlığını kazanmak isteyen kişiler ile Kanunun 43 üncü maddesine göre yeniden Türk vatandaşlığını kazanmak isteyen kişilerden aranan şartları taşıyanlar Bakanlığın teklifi ve Bakanlar Kurulunun kararı ile Türk vatandaşlığını yeniden kazanabilirler.
+(9) Kanunun 21 inci maddesine göre seçme hakkını kullanmak suretiyle Türk vatandaşlığını kazanmak isteyen kişilerden, yapılan inceleme sonucunda aranan şartları taşıyanlar Bakanlık kararı ile Türk vatandaşlığını kazanırlar.
+(10) Kanunun 42 nci maddesine göre Türk vatandaşlığını kazanmak isteyen Kuzey Kıbrıs Türk Cumhuriyeti vatandaşlarından, yapılan inceleme sonucunda aranan şartları taşıdığı anlaşılanlar Bakanlık kararı ile Türk vatandaşlığını kazanırlar.
+(11) Türk vatandaşlığını sonradan kazanmak isteyen kişilerden aranan şartları taşımayanların talepleri ise Bakanlıkça reddedilir.
+(12) Türk vatandaşlığını sonradan kazanan kişilerin varsa yabancılar kütüğündeki kaydı ile bağ kurularak buradaki kayıt kapalı hale getirilir.

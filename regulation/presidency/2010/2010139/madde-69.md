@@ -1,0 +1,3 @@
+Vatandaşlık başvuru inceleme komisyonu
+MADDE 69 – (1) Türk vatandaşlığını kazanmak isteyen yabancıların başvuru için gerekli şartları taşıyıp taşımadıklarının tespiti, illerde oluşturulan komisyon tarafından yapılır.
+(2) Komisyon, il valisi veya görevlendireceği vali yardımcısının başkanlığında, il müdürlüğü, il emniyet müdürlüğü, il jandarma komutanlığı, il millî eğitim müdürlüğü ve sosyal hizmetler il müdürlüğünden en az şube müdürü düzeyinde görevlendirilen temsilcilerden oluşur. Komisyon başkanı gerekli gördüğü hallerde diğer birim temsilcilerini görüşlerini almak üzere komisyona davet edebilir.
