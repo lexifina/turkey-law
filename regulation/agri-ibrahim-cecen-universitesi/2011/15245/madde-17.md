@@ -1,0 +1,6 @@
+Devam zorunluluğu
+MADDE 17 – (1) (Değişik:RG-12/10/2021-31626) Teorik, uygulamalar, laboratuvar ve benzeri çalışmaların %20’sinden fazlasına katılmayan öğrenci başarısız sayılır. Öğrencilerin devam durumları, derse giren öğretim elemanı tarafından izlenir ve otomasyon programına usulüne uygun olarak işlenir. Devamsızlıkları sebebiyle sınava girme hakkı kazanamayan öğrencilerin listesi, yarıyıl/yılsonu sınavından önce derse giren öğretim elemanı tarafından yazılı olarak, OBS veya öğrenci ilan panosunda ilan edilir.
+(2) Öğrenci, ilk defa kaydını yaptırdığı derslere devam etmek zorundadır. Öğrenci devamını aldığı;
+a) Dersten tekrara kalırsa, isterse devamını aldığı dersi tekrar alıp devam ederek dersin ara sınavlarına, yarıyıl/yılsonu ve bütünleme sınavlarına girer.
+b) (Değişik:RG-2/7/2014-29048 mükerrer) Dersi tekrar alması gerektiğinde; o derse devam almadan devam almış sayılır, bu dersin ara sınav, yılsonu ve bütünleme sınavlarına girer. Kredisi o dersi aldığı yarıyılın/yılın kredi toplamına dâhil edilir.
+(3) Öğrenciler, içinde bulundukları yarıyıl veya yılda alınacak ders saatlerinin, tekrarlanacak ders saatleriyle çakışması halinde, öncelikle tekrara kaldıkları dersleri almak zorundadır. Çakışmalar sebebiyle derslere kayıt yaptırılamaması halinde geçen süre, azami eğitim-öğretim süresinden sayılır.

@@ -1,0 +1,30 @@
+Tanımlar
+MADDE 4 – (1) Bu Yönetmelikte geçen;
+a) AGNO: Ağırlıklı genel not ortalamasını,
+b) Aktif öğrenci: Öğrenci katkı payını yatırarak fiilen öğrencilik haklarından yararlanan öğrenciyi,
+c) Avrupa kredi transfer sistemi (AKTS–DE/ECTS-DS): Öğrencilerin yurt içinde ve yurt dışında aldıkları ve başarılı oldukları ders kredilerinin bir yükseköğretim kurumundan diğerine transfer edilmelerini sağlayan sistemi,
+ç) Birim: Ağrı İbrahim Çeçen Üniversitesine bağlı ilgili fakülte, yüksekokul ve meslek yüksekokullarını,
+d) Danışman: Öğrencilerin eğitim, öğretim ve diğer sorunlarıyla ilgilenmek üzere ilgili dekan, müdür, bölüm başkanı veya anabilim dalı başkanı tarafından görevlendirilen öğretim elemanını,
+e) Dekan: Ağrı İbrahim Çeçen Üniversitesine bağlı ilgili fakültenin dekanını,
+f) Dekanlık: Ağrı İbrahim Çeçen Üniversitesine bağlı ilgili fakültenin dekanlığını,
+g) Ders kredisi: Haftada bir saat teorik ders, yarıyıl sisteminde bir, yıl sisteminde iki kredi saati; uygulama, laboratuar, bitirme çalışması, seminer, klinik, atölye ve benzeri çalışmaların iki saati, yarıyıl sisteminde bir kredi, yıl sisteminde ise iki kredi saati,
+ğ) DKL: Değerlendirmeye katma limitini,
+h) GL: Geçme limitini,
+ı) İlgili kurul: Fakültelerde fakülte kurulunu, yüksekokullarda yüksekokul kurulunu,
+i) İlgili yönetim kurulu: Fakültelerde fakülte yönetim kurulunu, yüksekokullarda yüksekokul yönetim kurulunu,
+j) Lisans: Ortaöğretimden sonra, en az sekiz yarıyıllık veya dört yıllık bir programı kapsayan yüksek öğretimi,
+k) Müdür: Ağrı İbrahim Çeçen Üniversitesine bağlı ilgili yüksekokul ve meslek yüksekokulu müdürlerini,
+l) Müdürlük: Ağrı İbrahim Çeçen Üniversitesine bağlı ilgili yüksekokul ve meslek yüksekokulu müdürlüklerini,
+m) Ortak zorunlu ders: 2547 sayılı Kanunun 5 inci maddesinin birinci fıkrasının (ı) bendinde belirtilen Atatürk İlkeleri ve İnkılâp Tarihi, Türk Dili ve Yabancı Dil, hazırlık sınıfı olmayan programlardaki Yabancı Dil derslerini,
+n) Ön lisans: Ortaöğretimden sonra en az dört yarıyıllık veya iki yıllık bir programı kapsayan yüksek öğretimi,
+o) Ön şartlı ders: Alınabilmesi için önceki yarıyıl veya yıllarda yer alan derslerden bir veya birkaçının başarılması şartı aranılan dersi,
+ö) Pasif öğrenci: Öğrenci katkı payını yatırmayan, öğrencilik haklarından fiilen yararlanmayan öğrenciyi,
+p) Rektör: Ağrı İbrahim Çeçen Üniversitesi Rektörünü,
+r) Seçmeli ders: Öğrencinin, danışmanının muvafakatı ile ilgili kurulca önerilen dersler arasından seçerek alabileceği dersleri,
+s) Senato: Ağrı İbrahim Çeçen Üniversitesi Senatosunu,
+ş) Üniversite: Ağrı İbrahim Çeçen Üniversitesini,
+t) Zorunlu dersler: Öğrencinin almak zorunda olduğu dersleri
+u) (Ek:RG-12/12/2023-32397) ANO: Ağırlıklı dönem not ortalamasını,
+ifade eder.
+İKİNCİ BÖLÜM
+Öğrenci Kayıt ve Kabul İşleri, Eğitim-Öğretim Dönemleri, Akademik Takvim,

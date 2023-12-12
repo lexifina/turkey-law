@@ -1,0 +1,2 @@
+Dışarıdan ders izleme
+MADDE 39 – (1) Fakültelerde/Yüksekokullarda açılan dersleri izlemek isteyen kişilere Üniversite Yönetim Kurulunun belirleyeceği esaslar çerçevesinde dekanlıkça/müdürlükçe izin verilebilir. Bu kişiler kayıt yaptırdıkları dersler için belirlenen bütün kurallara uymak zorundadır. Dışarıdan ders izleme izni verilenlere diploma verilmez, ancak istemeleri halinde kendilerine derse katılım belgesi verilir.

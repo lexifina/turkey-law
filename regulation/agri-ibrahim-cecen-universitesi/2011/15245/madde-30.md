@@ -1,0 +1,3 @@
+Kayıt dondurma
+MADDE 30 – (Değişik:RG-12/10/2021-31626)
+(1) Kayıt dondurmak için başvurular, yarıyılın/yılın ilk on iş günü içerisinde yapılır. Ancak bir yarıyıl veya bir yıl kayıt dondurma isteğinde olan öğrenciler için ders kaydı yaptırma şartı aranmaz. Bu öğrencilerin başvurularını ders kayıt süresi içinde yapmaları gerekir. Sağlık sebebiyle yapılacak kayıt dondurma istekleri bu sürenin dışındadır. Haklı ve geçerli sebepler nedeniyle eğitim-öğretim süresince en çok iki yarıyıl, yıl sisteminde ise bir yıl süre ile kayıt dondurulabilir. Ancak sağlık raporu nedeniyle kayıt dondurma işlemlerinde bu sınır uygulanmaz. Bir öğrencinin kayıt dondurma isteği, bir yarıyıldan/yıldan az olamaz. Öğrenci kayıt dondurduğu yarıyılda/yılda öğrenimine devam edemez ve sınavlara giremez.

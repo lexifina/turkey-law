@@ -1,0 +1,2 @@
+Sınavlarda kopya
+MADDE 22 – (1) (Değişik:RG-11/4/2013-28615) Sınavlarda kopya yaptığı, kopya yaptırdığı veya kopya yapılmasına yardım ettiği tespit edilen öğrenci/öğrenciler o sınavdan sıfır almış sayılır ve bu öğrenci/öğrenciler hakkında, ilgili dekanlıkça/müdürlükçe 18/8/2012 tarihli ve 28388 sayılı Resmî Gazete’de yayımlanan Yükseköğretim Kurumları Öğrenci Disiplin Yönetmeliği hükümlerine göre işlem yapılır.
