@@ -1,0 +1,24 @@
+{
+  "number": "138",
+  "number_as_published": "138",
+  "year": 2023,
+  "title": "Belediye Başkanlığımıza Ait Meydanbaşı Mahallesi 314 Ada 13 No.Lu Ve 314 Ada 16 No.Lu Parselde Bulunan Hissemizin, Toplu Konut İdaresi Başkanlığına (TOKİ’ye) Ait Bahçebaşı Mahallesi 684 Ada 1 No.Lu Parseldeki Hisse Ve Karagöz Mahallesi 6186 Ada 5 No.",
+  "decision_date": "2023-12-12",
+  "source": "https://www.battalgazi.bel.tr/wp-json/wp/v2/posts?categories=88&per_page=100&page=6&_fields=id,date,link,title,content",
+  "official_document": "https://www.battalgazi.bel.tr/2024/03/27/belediye-baskanligimiza-ait-meydanbasi-mahallesi-314-ada-13-no-lu-ve-314-ada-16-no-lu-parselde-bulunan-hissemizin-toplu-konut-idaresi-baskanligina-tokiye-ait-bahcebasi-mahallesi-684-ada-1/",
+  "source_sha256": "9ea1cf08226cbdf964f8315bbb29131440ff01e17c98ea52f3146f2ff1225b33",
+  "issuer": "Battalgazi Belediye Meclisi",
+  "history_type": "metadata",
+  "text_status": "metadata-only: listing fields as published; complete decision text is in the linked official document, not transcribed",
+  "in_force": "2023-12-12",
+  "in_force_basis": "Decision date as printed in the official council listing: 12.12.2023 (Karar Tarihi on the official decision page); adoption date of the council decision; legal commencement not asserted",
+  "missing": [
+    "complete official decision text",
+    "official annexes"
+  ],
+  "law_text_complete": false,
+  "privacy_withheld": false,
+  "official_page": "https://www.battalgazi.bel.tr/2024/03/27/belediye-baskanligimiza-ait-meydanbasi-mahallesi-314-ada-13-no-lu-ve-314-ada-16-no-lu-parselde-bulunan-hissemizin-toplu-konut-idaresi-baskanligina-tokiye-ait-bahcebasi-mahallesi-684-ada-1/",
+  "post_date": "2024-03-27T16:37:09",
+  "record_scope": "one council decision (official decision page)"
+}
