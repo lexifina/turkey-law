@@ -1,0 +1,3 @@
+Harcırah
+Madde 33 – Sandığın organlarında görev alan kurul üyeleri ve diğer personelin harcırahları, 6245 sayılı Harcırah Kanunu ile tespit olunan miktarları aşmamak ve Kanunun genel esasları dışına çıkmamak şartıyla bunların unvan ve dereceleri ile yürüttükleri görevin özellikleri de dikkate alınarak her yıl Sandık bütçesi ile tespit olunur.
+Danışma Kurulu üyelerinden 6245 sayılı Kanuna tabi kurumlarda çalışanlara bu Kanuna göre, diğerlerine de birinci fıkraya göre belirlenen miktarı aşmamak üzere Yönetim Kurulunca tespit olunacak miktarlar üzerinden hesaplanacak gündelikleri ve yol giderleri Sandık bütçesinden ödenir.

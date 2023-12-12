@@ -1,0 +1,3 @@
+Okul yaptırılması
+Geçici Madde 3 – (Ek: 6/11/2009-2009/15549 K.)
+Sandıkça, Sandığın adını gelecek kuşaklara taşımak, eğitime destek vermek amacıyla Havza-i Fahmiyye sınırları içinde Sandığın aktüeryal dengesi dikkate alınarak bir okul yapılabilir veya gerçek ve tüzel kişiler ya da Devlet tarafından yeni yapılacak bir okulun masraflarına iştirak edilebilir. Bu kapsamda Sandıkça yapılacak veya yapımına iştirak edilecek okulun maliyetine göre ödenek tahsis edilir. Okul yaptırılması veya yapımına iştirak edilmesi, tahsis edilen ödeneğin kullanılması Yönetim Kurulu kararı ve Bakanlık onayı ile olur.

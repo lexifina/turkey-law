@@ -1,0 +1,1 @@
+Geçici Madde 2 – Kurumlar bu Yönetmeliğin yürürlüğe girdiği tarihe kadar redevance veya kiraya verdiği iş yerlerine, Yönetmeliğin yayımı tarihinden itibaren en geç bir ay içinde Sandığa bildirmekle yükümlüdür.

@@ -1,0 +1,3 @@
+Denetleme Kurulu
+Madde 20 – (Değişik birinci fıkra: 27/6/2016-2016/8989 K.) Denetleme Kurulu; Bakan tarafından Bakanlık merkez teşkilatından görevlendirilecek bir üye, Türkiye Taşkömürü Kurumunca görevlendirilecek bir işveren üye ile Şube Yönetim Kurulu üye seçimi sonuçlandıktan sonraki on gün içerisinde Şube Yönetim Kurullarının kendi aralarında toplanarak Merkez Yönetim Kurulunda görev almayan üyeler arasından dört yıl için yedekleri ile birlikte seçecekleri bir işçi üye olmak üzere toplam üç üyeden oluşur.[11][12]
+Denetleme Kurulu üyeleri kendi aralarından bir başkan seçer. Herhangi bir şekilde üyeliği düşenlerin yerine geçen üyenin üyelik süresi yerlerini aldıkları üyenin görev süresi tamamlanıncaya kadar devam eder.

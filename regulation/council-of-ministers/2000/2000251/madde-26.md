@@ -1,0 +1,7 @@
+Seçim kurulları
+Madde 26 – Sandık Merkez Yönetim Kurulu ve şube yönetim kurullarında görev alacak işçi üyelerin seçimini yapmak üzere, Sandık Başkanının başkanlığında, Bakanlıktan bir temsilcinin, Türkiye Taşkömürü Kurumu Genel Müdürlüğünce görevlendirilecek bir üst düzey yöneticinin ve Sandık Hukuk Müşavirinin katılımı ile Merkez Seçim Kurulu oluşturulur.[18]
+Merkez Seçim Kurulu seçimlerin usul ve esasları, oy kullanma, adaylık ve seçilme şartları, seçmen listelerinin hazırlanması, askıya çıkarılması ve kesinleştirilmesi işlemlerini düzenleyen bir yönerge hazırlar.
+(Değişik üçüncü fıkra: 27/6/2016-2016/8989 K.) Merkez Seçim Kurulunca her seçim bölgesinde ve seçim merkezinde seçim günü görev yapacak yeteri kadar oy sandık kurulu oluşturulur. Oy sandık kurulları Kurumca görevlendirilecek bir personelin başkanlığında bir Sandık personeli ile aday olmayan Sandık üyesi bir işçiden oluşur.18
+Oy sandık kurullarının görevleri Merkez Seçim Kurulunca çıkarılacak bir yönerge ile tesbit edilir.[19]
+Merkez Seçim Kurulu seçim yılının Mart ayında oluşturulur ve seçimi müteakip kazanan adaylara mazbatalarının verilmesi ile görevi sona erer.[20]
+(Değişik altıncı fıkra: 27/6/2016-2016/8989 K.) Merkez Seçim Kurulu haftada iki defa toplanır; zorunlu hallerde olağanüstü toplanabilir. Olağanüstü toplantı sayısı bir seçim döneminde dördü geçemez. Merkez Seçim Kurulu salt çoğunlukla toplanır ve katılan üyelerin çoğunluğu ile karar alır. Oyların eşit olması halinde başkanın bulunduğu taraf çoğunlukta sayılır. Oylamada çekimser kalınmaz.

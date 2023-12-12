@@ -1,0 +1,7 @@
+Sandık Başkanı
+Madde 16 – (Değişik: 6/11/2009-2009/15549 K.)
+Sandık Başkanı Yönetim Kurulunun da başkanıdır.
+Sandık Başkanlığına atanacakların, en az dört yıllık yükseköğretim kurumlarından mezun olması, 14/7/1965 tarihli ve 657 sayılı Devlet Memurları Kanununun 48 inci maddesindeki nitelikleri taşıması, başkanlık görevini yerine getirebilecek bilgi ve deneyime sahip olması, kamu kuruluşlarında en az oniki yıl görev yapmış olma özelliklerini taşıması şarttır.
+Sandık Başkanı Bakanlıkça üç yıllık süre için atanır.
+Sandık Başkanı; Merkez Yönetim Kuruluna başkanlık etmek, Sandığın işlerini Yönetim Kurulu kararları, yönetmelikler ve yönetmeliklere göre çıkarılacak yönergeler doğrultusunda yürütmek, Sandığı temsil etmek, 4/1/2002 tarihli ve 4734 sayılı Kamu İhale Kanununun 22 nci maddesinin birinci fıkrasının (d) bendinde yer alan tutara kadar olan harcamalar ile toplu iş sözleşmesine ilişkin ödemeler ve kanuni ödemeleri yapmak, demirbaşlardan kalan değerleri Başkanlık harcama yetkisine kadar olanlarının hurdaya çıkarılması ile ilgili onayları vermekle, nakit kaynakların bankalarda değerlendirilmesi konusunda Yönetim Kurulundan bir kişi ile mali işlerden sorumlu en üst düzey personelden oluşan komisyon oluşturmakla görevli ve yetkilidir.
+Sandık Başkan Yardımcısı, Başkanın görevli, izinli veya Başkanlık kadrosunun boş olması halinde Başkan Vekili olarak Sandığı Yönetmelik hükümlerine uygun olarak yönetir. Başkan Yardımcısının da herhangi bir nedenle görevde olmaması halinde başkan olma özelliklerini taşıyan en yaşlı üye bu görevi yapar.

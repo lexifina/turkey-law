@@ -1,0 +1,2 @@
+Geçici Madde 1 – Bu Yönetmeliğin yürürlüğe girdiği tarihte Sandık Merkez Yönetim Kurulu, şube yönetim kurulları üyeleri ile Denetleme Kurulunun seçilmiş üyelerinin görevleri yapılacak ilk seçime kadar, atanmış üyelerin görev süresi ise bu Yönetmeliğe göre yeniden atama yapılıncaya kadar devam eder.
+Bu Yönetmeliğin yürürlüğe girmesinden sonra ilk seçim 2000 yılının Mayıs ayında yapılır. Seçimlere kadar Sandık kurullarında görev yapan üyelere yürürlükten kalkan Yönetmelik hükümlerine göre huzur hakkı ödenir.

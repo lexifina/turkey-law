@@ -1,0 +1,3 @@
+Sandık Danışma Kurulunun oluşumu
+Madde 8 – (Değişik : 27/6/2016-2016/8989 K.)
+Danışma Kurulu; Bakanın görevlendireceği bir kişinin başkanlığında, ikisi Bakanlık merkez birimlerinden, biri Zonguldak Çalışma ve İş Kurumu İl Müdürü olmak üzere Bakanlıkça görevlendirilecek üç, Enerji ve Tabii Kaynaklar Bakanlığınca görevlendirilecek bir, Türkiye Taşkömürü Kurumundan görevlendirilecek beş, Türkiye Elektrik İletim Anonim Şirketi Genel Müdürlüğü 5. Bölge Müdürlüğünden bir, İl Özel İdaresinden bir, Belediyeden bir ve yerel üniversitelerden katılacak birer temsilci, Sandık Başkanı ve Merkez Yönetim Kurulu üyeleri ve Şube Yönetim Kurulu üyeleri ile Denetleme Kurulu üyelerinden oluşur.[5][6]

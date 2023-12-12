@@ -1,0 +1,2 @@
+Sandık Başkanının ücreti
+Madde 32 – Sandık Başkanının aylık ücret ve ödenekleri Bakanlık müstakil daire başkanına ödenen aylık ücret, zam ve tazminatlar tutarı kadar olup Sandık Bütçesinden ödenir. (Ek cümle: RG-26/3/2020-31080-CK-2309/8 md.) Sandık Başkanına bu tutar ile Yönetim Kurulu huzur hakkı dışında ikramiye veya benzeri herhangi bir ödeme yapılamaz. Başkanlık kadrosunun boşalması halinde yerine vekalet eden Başkan yardımcısına 657 sayılı Devlet Memurları Kanununun 175 inci maddesinde tespit edilen tutar kadar vekalet ücreti ödenir.[22]
