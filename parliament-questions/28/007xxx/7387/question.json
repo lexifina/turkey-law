@@ -1,0 +1,21 @@
+{
+  "record_type": "parliament-written-question",
+  "term": 28,
+  "legislative_year": 2,
+  "esas_no": "7/7387",
+  "submitted": "2023-12-13",
+  "submitted_as": "Başkanlığa geliş tarihi",
+  "mp": "Salihe AYDENİZ",
+  "province": "Mardin",
+  "summary": "Mardin Kızıltepe Devlet Hastanesindeki sağlık hizmeti yetersizliğine ilişkin",
+  "status": "Cevaplanmadığı Gelen Kağıtlarda İlan Edildi",
+  "status_as_of": "2026-11-16",
+  "official_record": "https://www.tbmm.gov.tr/Denetim/Yazili-Soru-Onergesi-Detay/8d9848f0-389d-4ffe-b5b8-018c6762091d",
+  "source": "https://tbmm.gov.tr/Denetim/YaziliSoruOnergesiTable",
+  "source_form": "https://tbmm.gov.tr/Denetim/Yazili-Soru-Onergeleri",
+  "source_sha256": "b222da58eb9ecb1a3d0f7df141e88207b392535859aea04f418bf67bab857704",
+  "in_force": "2023-12-13",
+  "in_force_basis": "Date the question reached the Speaker (Başkanlığa geliş tarihi) in the official TBMM written-question record; parliamentary oversight record, not law",
+  "history_type": "metadata",
+  "text_status": "metadata-only: question text, addressee and answers are in the linked official record (PDFs on cdn.tbmm.gov.tr); not transcribed here"
+}
