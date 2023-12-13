@@ -1,0 +1,22 @@
+{
+  "kind": "norm",
+  "issuer": "Gelir İdaresi Başkanlığı",
+  "document_type": "ozelge",
+  "number": "62030549-120-1448020",
+  "source_id": 21075,
+  "date": "2023-12-13",
+  "title": "Heykel çalışmalarının ve biblo yapımının Gelir Vergisi Kanununun 18 nci maddesi ve KDV Kanunu karşısındaki durumu",
+  "source": "https://gib.gov.tr/mevzuat/kanun/433/ozelge/21075",
+  "related_law": "193 sayılı GELİR VERGİSİ KANUNU",
+  "source_api": "https://gib.gov.tr/api/gibportal/mevzuat/ozelge/list",
+  "source_listing": "evidence/list/2026-11-16/ozelge-p000.json",
+  "source_listing_sha256": "5444faf84128246cd8dd8c6db754d41e2a11c7717342bfe0a07a35074d061761",
+  "source_sha256": "982fcad11558d4ea0483b0a438c3593e4c642727467353c91242dd00f0ee7e40",
+  "text_status": "as-enacted",
+  "text_file": "metin.md",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  }
+}
