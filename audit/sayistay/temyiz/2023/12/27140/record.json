@@ -1,0 +1,16 @@
+{
+  "kind": "decision",
+  "issuer": "Sayıştay Temyiz Kurulu",
+  "number": "56225",
+  "decision_date": "2023-12-13",
+  "source_id": 27140,
+  "chamber": "3",
+  "file_number": "53364",
+  "public_body_type": "Yüksek Öğretim Kurumları",
+  "account_year": "2019",
+  "subject": "İhale Mevzuatı ile İlgili Kararlar",
+  "source": "https://www.sayistay.gov.tr/KararlarTemyiz/Detay/27140/",
+  "source_sha256": "dcd40371dc4d8877b05735a26400156f2f644529bfafb91ea424134a7f9b2e07",
+  "text_status": "as-enacted",
+  "text_file": "metin.md"
+}
