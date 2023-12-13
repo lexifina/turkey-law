@@ -1,0 +1,21 @@
+{
+  "record_type": "parliament-written-question",
+  "term": 28,
+  "legislative_year": 2,
+  "esas_no": "7/7296",
+  "submitted": "2023-12-13",
+  "submitted_as": "Başkanlığa geliş tarihi",
+  "mp": "Ömer Faruk GERGERLİOĞLU",
+  "province": "Kocaeli",
+  "summary": "Konya Ereğli Kapalı Cezaevinde bulunan bir mahkumun tahliye talebine ilişkin",
+  "status": "Süresi Geçtikten Sonra Cevaplandı",
+  "status_as_of": "2026-11-16",
+  "official_record": "https://www.tbmm.gov.tr/Denetim/Yazili-Soru-Onergesi-Detay/2d081bb6-761d-4a0e-bb88-018c6737b95b",
+  "source": "https://tbmm.gov.tr/Denetim/YaziliSoruOnergesiTable",
+  "source_form": "https://tbmm.gov.tr/Denetim/Yazili-Soru-Onergeleri",
+  "source_sha256": "d02557ff2c278e3c990cf0633f8feec119b3107846ee5d2cc1dd983187e7b315",
+  "in_force": "2023-12-13",
+  "in_force_basis": "Date the question reached the Speaker (Başkanlığa geliş tarihi) in the official TBMM written-question record; parliamentary oversight record, not law",
+  "history_type": "metadata",
+  "text_status": "metadata-only: question text, addressee and answers are in the linked official record (PDFs on cdn.tbmm.gov.tr); not transcribed here"
+}
