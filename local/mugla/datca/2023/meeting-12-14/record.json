@@ -1,0 +1,23 @@
+{
+  "number": "meeting-12-14",
+  "number_as_published": "meeting-12-14",
+  "year": 2023,
+  "title": "Aralık 2023 Meclis Kararları 14 Aralık 2023",
+  "decision_date": "2023-12-14",
+  "source": "https://datca.bel.tr/belgeler/meclis_karari?page=2",
+  "official_document": "https://datca.bel.tr/storage/documents/meclis_karari/20260811-fgFTIXyv.pdf",
+  "source_sha256": "4d2883be019cefffca9250cd0476d0debf2dcff92ef028d60c90d7dfeec4701e",
+  "issuer": "Datça Belediye Meclisi",
+  "history_type": "metadata",
+  "text_status": "metadata-only: listing fields as published; complete decision text is in the linked official document, not transcribed",
+  "in_force": "2023-12-14",
+  "in_force_basis": "Decision date as printed in the official council listing: 14 ARALIK 2023; adoption date of the council decision; legal commencement not asserted",
+  "missing": [
+    "complete official decision text",
+    "official annexes"
+  ],
+  "law_text_complete": false,
+  "privacy_withheld": false,
+  "listing_label": "Aralık 2023 Meclis Kararları 14 Aralık 2023",
+  "record_scope": "one official file of council decisions (meeting)"
+}
