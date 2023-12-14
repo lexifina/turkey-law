@@ -1,0 +1,17 @@
+{
+  "kind": "decision",
+  "issuer": "Sayıştay 6. Dairesi",
+  "number": "927",
+  "decision_date": "2023-12-14",
+  "source_id": 38120,
+  "chamber": "6",
+  "ilam_number": "17",
+  "item_number": 2,
+  "public_body_type": "Düzenleyici ve Denetleyici Kurumlar",
+  "account_year": 2022,
+  "subject": "Personel Mevzuatı ile İlgili Kararlar",
+  "source": "https://www.sayistay.gov.tr/KararlarDaire/Detay/38120/",
+  "source_sha256": "448e96588d45cdc4f53e111071949a48a8cff82da0ed2e7c881364c9bb1d04a5",
+  "text_status": "as-enacted",
+  "text_file": "metin.md"
+}
