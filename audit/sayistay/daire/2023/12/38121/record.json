@@ -1,0 +1,17 @@
+{
+  "kind": "decision",
+  "issuer": "Sayıştay 6. Dairesi",
+  "number": "928",
+  "decision_date": "2023-12-14",
+  "source_id": 38121,
+  "chamber": "6",
+  "ilam_number": "304",
+  "item_number": 1,
+  "public_body_type": "Belediyeler ve Bağlı İdareler",
+  "account_year": 2016,
+  "subject": "Çeşitli Konuları İlgilendiren Kararlar",
+  "source": "https://www.sayistay.gov.tr/KararlarDaire/Detay/38121/",
+  "source_sha256": "0b5c24e20113f2cad130b373c2e39376e53b9bd2db7372d98a65fb99a70bd68d",
+  "text_status": "metadata-only",
+  "metadata_only_reason": "possible personal name in the official text"
+}
