@@ -1,0 +1,25 @@
+{
+  "kind": "norm",
+  "issuer": "Enerji Piyasası Düzenleme Kurumu",
+  "market": "natural-gas",
+  "document_type": "board-decision",
+  "number": "12250",
+  "decision_date": "2023-12-14",
+  "title": "Boru Hatları İle Petrol Taşıma Anonim Şirketi’nin (BOTAŞ) 2024 yılında uygulanacak iletim ve sevkiyat kontrol bedellerinin belirlenmesine ilişkin",
+  "resmi_gazete_date": "2023-12-16",
+  "resmi_gazete_number": "32401",
+  "categories": [
+    "İletim"
+  ],
+  "source": "https://www.epdk.gov.tr/Detay/DownloadDocument?id=FKwyCYDXzhw=",
+  "documents": [
+    "https://www.epdk.gov.tr/Detay/DownloadDocument?id=FKwyCYDXzhw="
+  ],
+  "source_sha256": "a0a4a9819f328747eedff827a2fec6e6ac4b8d73c7c58bb57c0e6dd6a740d652",
+  "official_list": "https://www.epdk.gov.tr/Detay/Icerik/3-0-19/kurul-kararlari",
+  "official_list_leaf": 7225,
+  "text_status": "as-enacted",
+  "text_file": "metin.md",
+  "in_force": "2023-12-14",
+  "law_text_complete": true
+}
