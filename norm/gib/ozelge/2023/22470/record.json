@@ -1,0 +1,22 @@
+{
+  "kind": "norm",
+  "issuer": "Gelir İdaresi Başkanlığı",
+  "document_type": "ozelge",
+  "number": "62030549-120[40-2020/854]-1450777",
+  "source_id": 22470,
+  "date": "2023-12-14",
+  "title": "İnternet üzerinden satışlarda belge düzeni ve e-arşiv faturasında yer alan tutarların gider olarak gösterilip gösterilemeyeceği.",
+  "source": "https://gib.gov.tr/mevzuat/kanun/435/ozelge/22470",
+  "related_law": "5520 sayılı KURUMLAR VERGİSİ KANUNU",
+  "source_api": "https://gib.gov.tr/api/gibportal/mevzuat/ozelge/list",
+  "source_listing": "evidence/list/2026-11-16/ozelge-p000.json",
+  "source_listing_sha256": "5444faf84128246cd8dd8c6db754d41e2a11c7717342bfe0a07a35074d061761",
+  "source_sha256": "0eb808071701d0923600ba72dfe6ec51554d9c9ed1f0db557cf39b3654e79aff",
+  "text_status": "as-enacted",
+  "text_file": "metin.md",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  }
+}
