@@ -1,0 +1,17 @@
+{
+  "kind": "decision",
+  "issuer": "Sayıştay 2. Dairesi",
+  "number": "35778",
+  "decision_date": "2023-12-14",
+  "source_id": 38205,
+  "chamber": "2",
+  "ilam_number": "152",
+  "item_number": 3,
+  "public_body_type": "Diğer Özel Bütçeli İdareler",
+  "account_year": 2020,
+  "subject": "İhale Mevzuatı ile İlgili Kararlar",
+  "source": "https://www.sayistay.gov.tr/KararlarDaire/Detay/38205/",
+  "source_sha256": "8dc7ffb8b0dd11d6b27f50fa898ac160988707d1e551391b966b5c5eba65d5fd",
+  "text_status": "as-enacted",
+  "text_file": "metin.md"
+}
