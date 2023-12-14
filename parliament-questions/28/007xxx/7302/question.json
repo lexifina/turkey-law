@@ -1,0 +1,21 @@
+{
+  "record_type": "parliament-written-question",
+  "term": 28,
+  "legislative_year": 2,
+  "esas_no": "7/7302",
+  "submitted": "2023-12-14",
+  "submitted_as": "Başkanlığa geliş tarihi",
+  "mp": "Ceylan AKÇA CUPOLO",
+  "province": "Diyarbakır",
+  "summary": "2023 yılında gazetecilik faaliyeti nedeniyle hakkında dava açılan kişilere dair çeşitli verilere ilişkin",
+  "status": "Süresi Geçtikten Sonra Cevaplandı",
+  "status_as_of": "2026-11-16",
+  "official_record": "https://www.tbmm.gov.tr/Denetim/Yazili-Soru-Onergesi-Detay/8b244f7e-70cd-4be1-ac9b-018c68a67ffa",
+  "source": "https://tbmm.gov.tr/Denetim/YaziliSoruOnergesiTable",
+  "source_form": "https://tbmm.gov.tr/Denetim/Yazili-Soru-Onergeleri",
+  "source_sha256": "b222da58eb9ecb1a3d0f7df141e88207b392535859aea04f418bf67bab857704",
+  "in_force": "2023-12-14",
+  "in_force_basis": "Date the question reached the Speaker (Başkanlığa geliş tarihi) in the official TBMM written-question record; parliamentary oversight record, not law",
+  "history_type": "metadata",
+  "text_status": "metadata-only: question text, addressee and answers are in the linked official record (PDFs on cdn.tbmm.gov.tr); not transcribed here"
+}
