@@ -1,0 +1,22 @@
+{
+  "kind": "norm",
+  "issuer": "Gelir İdaresi Başkanlığı",
+  "document_type": "ozelge",
+  "number": "49327596-125[KVK.ÖZ.2020.90]-282681",
+  "source_id": 27784,
+  "date": "2023-12-14",
+  "title": "Bankanın kullandırdığı kredilerin teminatını oluşturan gayrimenkullerin vefa hakkı sözleşmesiyle bankaya devredilmesinde Kurumlar Vergisi",
+  "source": "https://gib.gov.tr/mevzuat/kanun/435/ozelge/27784",
+  "related_law": "5520 sayılı KURUMLAR VERGİSİ KANUNU",
+  "source_api": "https://gib.gov.tr/api/gibportal/mevzuat/ozelge/list",
+  "source_listing": "evidence/list/2026-11-16/ozelge-p003.json",
+  "source_listing_sha256": "b8eb1aba686c15efb9ca96f819c840940788d8f48769f30127e032220fbff4ab",
+  "source_sha256": "3909ebdd2009a80658bea334f8b51c4116491fae2f04dc62e34b58cf130efb26",
+  "text_status": "as-enacted",
+  "text_file": "metin.md",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  }
+}
