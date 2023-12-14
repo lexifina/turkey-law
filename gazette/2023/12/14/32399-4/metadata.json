@@ -1,0 +1,20 @@
+{
+  "record_type": "gazette-item",
+  "gazette": "Resmî Gazete",
+  "jurisdiction": "TR",
+  "date": "2023-12-14",
+  "issue": "32399",
+  "edition": "regular",
+  "item": 4,
+  "section": "YÜRÜTME VE İDARE BÖLÜMÜ",
+  "heading": "YÖNETMELİKLER",
+  "title": "Esnaf ve Sanatkârlar Odaları Birliği Disiplin Kurulu Yönetmeliği",
+  "official_link": "https://www.resmigazete.gov.tr/eskiler/2023/12/20231214-4.htm",
+  "link_format": "htm",
+  "index_url": "https://www.resmigazete.gov.tr/eskiler/2023/12/20231214.htm",
+  "index_sha256": "184ebf1b6613d933f9d76c08af247b887097d113c06e36e5e6a494bb8061e365",
+  "index_header": "14 Aralık 2023 ... 32399 Sayılı Resmî Gazete",
+  "issue_pdf": "https://www.resmigazete.gov.tr/eskiler/2023/12/20231214.pdf",
+  "in_force_basis": "Resmî Gazete publication date; not a commencement reading.",
+  "text_status": "metadata-only; text not yet fetched (follow-up pass adds it as its own commit)"
+}
