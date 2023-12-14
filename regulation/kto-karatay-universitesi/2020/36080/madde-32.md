@@ -1,0 +1,4 @@
+Araştırma görevlileri
+MADDE 32 – (1) Araştırma görevlisi; Üniversitede yapılan araştırma, inceleme ve deneylerde yardımcı olan ve yetkili organlarca verilen ilgili diğer görevleri yapan öğretim elemanıdır. Araştırma görevlileri; ilgili anabilim veya anasanat dalı başkanlarının önerisi, Bölüm Başkanı, Dekan, enstitü, yüksekokul olumlu görüşü üzerine Rektörlükçe onaylanır ve Mütevelli Heyet tarafından atanır. Atama süresi sonunda görevleri kendiliğinden sona erer. İhtiyaç olduğu ve görevlerine devamda yarar görüldüğü takdirde sözleşmeleri her defasında bir yıl süreyle uzatılabilir. Lisansüstü eğitime kabul şartlarını karşılayan araştırma görevlileri, bağlı bulunduğu bölümün önerisi, dekanlık görüşü ve Rektörlük onayı ile lisansüstü eğitim programlarına katılabilirler.
+(2) Ücretleri Mütevelli Heyetçe belirlenir.
+(3) Özel hükümler, performans kriterleri ve süre dâhil diğer talepler yıllık sözleşme ile belirlenir.

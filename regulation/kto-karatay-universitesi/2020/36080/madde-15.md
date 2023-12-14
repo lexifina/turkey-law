@@ -1,0 +1,5 @@
+Dekan
+MADDE 15 – (1) Dekan, Rektörün önereceği profesör unvanına sahip kişiler arasından Mütevelli Heyet tarafından üç yıllığına atanır. Süresi biten Dekan yeniden atanabilir ve süresi sona ermeden aynı usulle görevden alınabilir.
+(2) Dekan, kendisine çalışmalarında yardımcı olmak üzere, Üniversitenin tam zamanlı öğretim üyeleri arasından en çok iki kişiyi, üç yıllığına Dekan yardımcısı olarak seçer ve Rektörün onayına sunar. Dekan, gerekli gördüğü hallerde yardımcılarını aynı usulle değiştirebilir. Dekanın görevi sona erdiğinde, yardımcılarının görevi de sona erer.
+(3) Dekana, görevi başında olmadığı zaman yardımcılarından biri vekâlet eder. Göreve vekâlet, altı ayı geçerse yeni bir Dekan atanır.
+(4) Dekan, fakültenin ve birimlerinin öğretim kapasitesinin rasyonel bir şekilde kullanılmasından ve geliştirilmesinden, gerektiği zaman güvenlik önlemlerinin alınmasından, öğrencilere gerekli sosyal hizmetlerin sağlanmasından, eğitim-öğretim, bilimsel araştırma ve yayın faaliyetlerinin düzenli bir şekilde yürütülmesinden, bütün faaliyetlerin gözetim ve denetiminin yapılmasından, takip ve kontrol edilmesinden ve sonuçlarının alınmasından Rektöre karşı sorumludur.
