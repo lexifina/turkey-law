@@ -1,0 +1,13 @@
+{
+  "issuer": "İzmir Büyükşehir Belediye Meclisi",
+  "number": "1321",
+  "decision_date": "2023-12-15",
+  "official_id": "33418",
+  "version_label": "as-enacted",
+  "text_status": "complete decision text as published in the register's KararDetay field (HTML); annexes not supplied",
+  "source_listing_url": "https://www.izmir.bel.tr/tr/IbbMeclisi/TariheGoreKararGetirJS?yil=2023&ay=&gun=&txtSozcuk=&draw=1&start=0&length=100&txtKararNo=",
+  "source_listing_sha256": "8a92ddfa6d8d6e1e6b90ae4b2615ecaf38ddbb0910bff9f6e6dc8ce99dd058e8",
+  "register_page": "https://www.izmir.bel.tr/tr/MeclisKararlari/58",
+  "date_basis": "register field KararTarihi (decision date)",
+  "privacy_withheld": false
+}
