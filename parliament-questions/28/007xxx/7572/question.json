@@ -1,0 +1,21 @@
+{
+  "record_type": "parliament-written-question",
+  "term": 28,
+  "legislative_year": 2,
+  "esas_no": "7/7572",
+  "submitted": "2023-12-15",
+  "submitted_as": "Başkanlığa geliş tarihi",
+  "mp": "Gülcan KAÇMAZ SAYYİĞİT",
+  "province": "Van",
+  "summary": "Trabzon Havalimanı'nın tadilat işinde çalışan bazı işçilerin darp edilmesine ilişkin",
+  "status": "Süresi Geçtikten Sonra Cevaplandı",
+  "status_as_of": "2026-11-16",
+  "official_record": "https://www.tbmm.gov.tr/Denetim/Yazili-Soru-Onergesi-Detay/448a0583-5baf-4460-a97d-018c729a1f88",
+  "source": "https://tbmm.gov.tr/Denetim/YaziliSoruOnergesiTable",
+  "source_form": "https://tbmm.gov.tr/Denetim/Yazili-Soru-Onergeleri",
+  "source_sha256": "b1fc0dd2e4a401885ff2493694b76e522c8ef492b79702a98e9335d000c08874",
+  "in_force": "2023-12-15",
+  "in_force_basis": "Date the question reached the Speaker (Başkanlığa geliş tarihi) in the official TBMM written-question record; parliamentary oversight record, not law",
+  "history_type": "metadata",
+  "text_status": "metadata-only: question text, addressee and answers are in the linked official record (PDFs on cdn.tbmm.gov.tr); not transcribed here"
+}
