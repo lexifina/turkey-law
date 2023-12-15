@@ -1,0 +1,20 @@
+{
+  "applicant": "M.I.I.",
+  "application_date": "2020-02-19",
+  "application_number": "2020/7518",
+  "deciding_unit": "Genel Kurul",
+  "decision_date": "2023-10-12",
+  "id": "f63b8303-e24f-5fdd-2bee-b1fa3262a9ce",
+  "in_force": "2023-12-15",
+  "in_force_basis": "official Resmî Gazete date",
+  "kind": "constitutional-court-individual-application",
+  "omitted_images": 0,
+  "outcome": "Esas (İhlal)",
+  "published": "2023-12-15",
+  "referenced_images": 0,
+  "source": "https://kararlarbilgibankasi.anayasa.gov.tr/kbb/pages/search/Tumu?id=a2JiOmY2M2I4MzAzLWUyNGYtNWZkZC0yYmVlLWIxZmEzMjYyYTljZQ&type=BireyselBasvuru",
+  "source_api": "https://kararlarbilgibankasi.anayasa.gov.tr/api/core/public/search",
+  "source_images": 0,
+  "source_sha256": "d2cab50215257686cbc0a25a869b414745f9fd8159b4793530cef9da4f598fe8",
+  "version_label": "as-enacted"
+}
