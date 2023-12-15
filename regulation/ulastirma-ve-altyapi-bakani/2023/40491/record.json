@@ -1,0 +1,31 @@
+{
+  "source_id": "7.5.40491",
+  "kind": "regulation",
+  "register_kind": "Kurum ve Kuruluş Yönetmelikleri",
+  "title": "ULAŞTIRMA VE ALTYAPI BAKANLIĞI REHBERLİK VE TEFTİŞ BAŞKANLIĞI YÖNETMELİĞİ",
+  "number": "40491",
+  "issuer": "Ulaştırma ve Altyapı Bakanı",
+  "issuer_slug": "ulastirma-ve-altyapi-bakani",
+  "path": "regulation/ulastirma-ve-altyapi-bakani/2023/40491",
+  "source": "https://www.mevzuat.gov.tr/anasayfa/MevzuatFihristDetayIframe?MevzuatTur=7&MevzuatNo=40491&MevzuatTertip=5",
+  "source_sha256": "0c212c3afd6c3b5e7c91a7843b08ff6a79ead981879d7bdf6282ea5cd91bcf93",
+  "source_bytes": 160648,
+  "published": "2023-12-15",
+  "gazette": "32400",
+  "in_force": "2023-12-15",
+  "in_force_basis": "Resmî Gazete publication date in the official listing (15.12.2023); own commencement article: \"Bu Yönetmelik yayımı tarihinde yürürlüğe girer\"",
+  "commencement_clauses": [
+    "Bu Yönetmelik yayımı tarihinde yürürlüğe girer"
+  ],
+  "history": "current-text",
+  "label": "oldest version available",
+  "checked_on": "2026-11-15",
+  "word_count": 9059,
+  "text_status": "current-consolidated",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  },
+  "completeness": "html-text-complete"
+}
