@@ -1,0 +1,22 @@
+{
+  "kind": "norm",
+  "issuer": "Gelir İdaresi Başkanlığı",
+  "document_type": "ozelge",
+  "number": "60938891-125[KVK:2022]-48282",
+  "source_id": 29618,
+  "date": "2023-12-15",
+  "title": "Kooperatifin Aktifinde Kayıtlı Olan Arazinin Kooperatifin Ortağı Olan Köy Tüzel Kişiliğine Kiraya Verilmesi",
+  "source": "https://gib.gov.tr/mevzuat/kanun/435/ozelge/29618",
+  "related_law": "5520 sayılı KURUMLAR VERGİSİ KANUNU",
+  "source_api": "https://gib.gov.tr/api/gibportal/mevzuat/ozelge/list",
+  "source_listing": "evidence/list/2026-11-16/ozelge-p004.json",
+  "source_listing_sha256": "f3b82278308562f88be46cc93b2ac53a1050d59c304474af958f8b7377f5bef9",
+  "source_sha256": "3fbbcd40bf783e5c5da4a1f40f5ba31973d665db0242539807d6dcc226c2e9b3",
+  "text_status": "as-enacted",
+  "text_file": "metin.md",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  }
+}
