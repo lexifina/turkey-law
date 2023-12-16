@@ -1,0 +1,2 @@
+Devam eden aktif işbirliği başvuruları
+GEÇİCİ MADDE 2- (1) Bu Yönetmeliğin yürürlüğe girmesinden önce yapılan aktif işbirliği başvuruları bakımından, 11 inci madde ile yürürlükten kaldırılan Kartellerin Ortaya Çıkarılması Amacıyla Aktif İşbirliği Yapılmasına Dair Yönetmeliğin koşullar ve usule ilişkin hükümleri ile indirim oranlarına ilişkin hükümlerinden başvuru sahibi lehine olanların uygulanmasına devam olunur.

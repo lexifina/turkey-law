@@ -1,0 +1,31 @@
+{
+  "source_id": "7.5.40495",
+  "kind": "regulation",
+  "register_kind": "Kurum ve Kuruluş Yönetmelikleri",
+  "title": "KARTELLERİN ORTAYA ÇIKARILMASI AMACIYLA AKTİF İŞBİRLİĞİ YAPILMASINA DAİR YÖNETMELİK",
+  "number": "40495",
+  "issuer": "Rekabet Kurumu Başkanı",
+  "issuer_slug": "rekabet-kurumu-baskani",
+  "path": "regulation/rekabet-kurumu-baskani/2023/40495",
+  "source": "https://www.mevzuat.gov.tr/anasayfa/MevzuatFihristDetayIframe?MevzuatTur=7&MevzuatNo=40495&MevzuatTertip=5",
+  "source_sha256": "d90eb483c36a508eeb1cf919c6fb42fa9063dc38c9304b72762744886a965f82",
+  "source_bytes": 38729,
+  "published": "2023-12-16",
+  "gazette": "32401",
+  "in_force": "2023-12-16",
+  "in_force_basis": "Resmî Gazete publication date in the official listing (16.12.2023); own commencement article: \"Bu Yönetmelik yayımı tarihinde yürürlüğe girer\"",
+  "commencement_clauses": [
+    "Bu Yönetmelik yayımı tarihinde yürürlüğe girer"
+  ],
+  "history": "current-text",
+  "label": "oldest version available",
+  "checked_on": "2026-11-15",
+  "word_count": 2324,
+  "text_status": "current-consolidated",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  },
+  "completeness": "html-text-complete"
+}
