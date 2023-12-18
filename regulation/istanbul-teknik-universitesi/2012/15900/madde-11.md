@@ -1,0 +1,2 @@
+Sınav sonuçlarına itiraz
+MADDE 11 – (1) Öğrenci, jürili yapılan sınavlar hariç, bir dersteki başarı durumu sonucuna, dersin başarı durumu listesinin ilan edilmesinden itibaren bir hafta içerisinde, Müdürlüğe yazılı olarak itiraz edebilir. Müdürlük, ilgili öğretim üyesine veya jüri üyelerine, öğrencinin başarı notuna katkısı bulunan bütün çalışmaları tekrar inceletir. Öğrencinin itirazı ve öğretim üyesinin/jüri üyelerinin yeniden değerlendirmesi iki hafta içinde Konservatuar Yönetim Kurulunda karara bağlanır.

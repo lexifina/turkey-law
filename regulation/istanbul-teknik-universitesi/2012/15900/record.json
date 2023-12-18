@@ -1,0 +1,64 @@
+{
+  "checked_on": "2026-11-14",
+  "commencement_clauses": [
+    "MADDE 16 – (1) Bu Yönetmelik yayımı tarihinde yürürlüğe girer."
+  ],
+  "date_evidence": [
+    [
+      "2012-02-19",
+      "19.02.2012",
+      "original gazette publication date in official listing"
+    ],
+    [
+      "2020-05-08",
+      "RG-8/5/2020-31121",
+      "latest source-printed gazette amendment date for current consolidated text"
+    ],
+    [
+      "2020-05-08",
+      "RG-8/5/2020-31121",
+      "latest source-printed gazette amendment date for current consolidated text"
+    ],
+    [
+      "2023-12-18",
+      "RG-18/12/2023-32403",
+      "latest source-printed gazette amendment date for current consolidated text"
+    ],
+    [
+      "2020-05-08",
+      "8/5/2020",
+      "latest gazette date in source amendment table"
+    ],
+    [
+      "2023-12-18",
+      "18/12/2023",
+      "latest gazette date in source amendment table"
+    ]
+  ],
+  "date_quote": "RG-18/12/2023-32403",
+  "first_law": null,
+  "gazette": "28209",
+  "history": "current-text",
+  "images": {
+    "deferred": 0,
+    "omitted": 0,
+    "referenced": 0,
+    "source": 0
+  },
+  "in_force": "2023-12-18",
+  "in_force_basis": "latest source-printed gazette amendment date for current consolidated text",
+  "issuer": "İstanbul Teknik Üniversitesi",
+  "issuer_slug": "istanbul-teknik-universitesi",
+  "kind": "regulation",
+  "label": "oldest version available",
+  "path": "regulation/istanbul-teknik-universitesi/2012/15900",
+  "published": "2012-02-19",
+  "source": "https://www.mevzuat.gov.tr/anasayfa/MevzuatFihristDetayIframe?MevzuatTur=8&MevzuatNo=15900&MevzuatTertip=5",
+  "source_bytes": 42464,
+  "source_id": "8.5.15900",
+  "source_sha256": "b8ae0fc4bab27b13cbb41832535f05ef216d034b42b4831e44ec6b900f024cf2",
+  "text_status": "current-consolidated",
+  "title": "İSTANBUL TEKNİK ÜNİVERSİTESİ TÜRK MUSİKİSİ DEVLET KONSERVATUARI LİSANS EĞİTİM VE ÖĞRETİM YÖNETMELİĞİ",
+  "university_id": 203,
+  "word_count": 1199
+}

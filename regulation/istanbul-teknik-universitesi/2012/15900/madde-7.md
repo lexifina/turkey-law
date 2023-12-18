@@ -1,0 +1,2 @@
+Ön koşul
+MADDE 7 – (1) Bir programa ait derslerin ön koşulları, Konservatuar Kurulunun önerisi ve Senatonun onayı ile belirlenir ve ilan edilir. Bir dersin ön koşulu olarak belirlenen dersten/derslerden ön koşulun sağlanması için aranan ders notunun DD veya üzeri, sınavı jürili olarak yapılan derslerde ise CC veya üzeri olması gerekir. Ön koşul olarak belirlenen dersler kredisiz dersler ise ön koşulun sağlanabilmesi için bu derslerden başarılı olma (BL) şartı aranır. Ön koşullar ilan edildiği tarihi izleyen yarıyılda uygulanır.
