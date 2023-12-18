@@ -1,0 +1,22 @@
+{
+  "kind": "norm",
+  "issuer": "Gelir İdaresi Başkanlığı",
+  "document_type": "ozelge",
+  "number": "62030549-120[40-2020/397]-1469526",
+  "source_id": 22469,
+  "date": "2023-12-18",
+  "title": "Müşteriye fatura edilen yakıt ve otopark vb. giderlerin vergilendirilmesi.",
+  "source": "https://gib.gov.tr/mevzuat/kanun/435/ozelge/22469",
+  "related_law": "5520 sayılı KURUMLAR VERGİSİ KANUNU",
+  "source_api": "https://gib.gov.tr/api/gibportal/mevzuat/ozelge/list",
+  "source_listing": "evidence/list/2026-11-16/ozelge-p000.json",
+  "source_listing_sha256": "5444faf84128246cd8dd8c6db754d41e2a11c7717342bfe0a07a35074d061761",
+  "source_sha256": "1558544bd06acbcec4211af08c226c0552364f8c3db1cc100c10988bccf4e2c0",
+  "text_status": "as-enacted",
+  "text_file": "metin.md",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  }
+}
