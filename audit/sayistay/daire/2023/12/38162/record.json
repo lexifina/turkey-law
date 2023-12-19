@@ -1,0 +1,17 @@
+{
+  "kind": "decision",
+  "issuer": "Sayıştay 4. Dairesi",
+  "number": "318",
+  "decision_date": "2023-12-19",
+  "source_id": 38162,
+  "chamber": "4",
+  "ilam_number": "29",
+  "item_number": 6,
+  "public_body_type": "Belediyeler ve Bağlı İdareler",
+  "account_year": 2022,
+  "subject": "İhale Mevzuatı ile İlgili Kararlar",
+  "source": "https://www.sayistay.gov.tr/KararlarDaire/Detay/38162/",
+  "source_sha256": "aeff95ef7de7018727a6cdc658b35ed61c3d041170a227fa2455581e1f685fec",
+  "text_status": "as-enacted",
+  "text_file": "metin.md"
+}
