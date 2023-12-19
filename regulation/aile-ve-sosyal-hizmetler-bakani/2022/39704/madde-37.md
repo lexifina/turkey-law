@@ -1,0 +1,14 @@
+DÖRDÜNCÜ BÖLÜM
+Mali Hükümler
+Harçlıklar
+MADDE 37- (1) Çocuklardan ilköğretim 1-4 üncü sınıfa devam edenlere 800, ilköğretim 5-8 inci sınıfa devam edenlere 1200, ortaöğretim kurumu ve dengi okula devam edenlere 1800, yükseköğretime devam edenlere 2500 gösterge rakamlarının memur aylık katsayısı ile çarpımı sonucu elde edilecek tutarda, aylık olarak, hiçbir kesinti yapılmaksızın harçlık ödenir.
+(2) Harçlıkların ödenmesinde aşağıdaki esaslar göz önünde bulundurulur:
+a) Öğrenime devam edenlerin kredi veya burs almaları halinde harçlıkları kesilmez.
+b) Tam gün öğrenim görüp yemeklerini çocuk bakım kuruluşunda veya hizmet biriminde yeme imkânı bulamayan çocuklara, öğrenim süresince harçlıkları bir kat artırılarak verilir veya okulda yemekhane hizmeti verilmesi halinde yemek ücreti Bakanlık tarafından karşılanır. Bu durumda yemek ücreti ödenen çocukların harçlıkları artırımlı olarak verilmez.
+c) Kuruluş koordinasyon komisyonu marifetiyle yapılan değerlendirmede zorunlu nedenlerle öğrenime devam etmediği tespit edilen çocuklara, yaş grupları göz önüne alınarak bulunacakları öğrenim durumuna denk gelecek miktarda harçlık verilir. Zorunlu nedenler dışında örgün eğitime devam etmeyen çocukların harçlıkları yüzde elli kesintili ödenir.
+ç) Misafir çocuk statüsündeki çocukların harçlıkları kayıtlı bulundukları hizmet birimi müdürlüğü tarafından verilir.
+d) İzinsiz ayrılan çocuklara izinsiz bulunduğu günler için harçlık tahakkuk edilmez.
+e) Harçlıklar çocuklara grup/ev sorumlusu tarafından çocukların durumu, ihtiyaçları ve talepleri göz önünde bulundurularak günlük, haftalık veya aylık olarak imza karşılığı dağıtılır. Grup/ev sorumlusu tarafından ihtiyaca göre çocuklar adına yapılan harcamalar, çocuğa bir yıl içinde verilen harçlıkları ile varsa diğer gelirleri ve giderleri kayıt altına alınır. Bu kayıtlar her türlü denetimde gösterilmek üzere hazır bulundurulur.
+f) Çocukların harçlık, maaş, miras, nafaka, bağış gelirleri ve diğer ayni/nakdi kazanımları veya diğer gelirlerinden tasarruf ettikleri ya da meslek öğrenmek amacıyla bir iş yerine devam eden çocukların aldıkları ücretlerden ihtiyaç fazlası olan miktar, çocuğun isteği doğrultusunda, çocuk adına kamu bankalarında açtırılan hesaba aylık olarak yatırılır. Hesap açma ve para çekme işlemleri kuruluş müdürlüğünce yetkilendirilecek kişi ya da çocuğa atanacak vasi veya kayyım tarafından gerçekleştirilir ve kaydedilir. Kuruluş müdürlüğünce söz konusu hesaplar en az üç ayda bir denetlenir ve denetim evrakları saklanır.
+g) Çocuk, hizmet birimine ilk defa kabul edilmesi ile birlikte harçlığı hak eder ve harçlık o ay için tam olarak verilir.
+ğ) Tedavi, sosyal ve sportif etkinlikler ile kamp, gezi, nakil ve benzeri nedenlerle il dışına çıkan çocuklara, il dışında geçireceği her gün için 150 gösterge rakamının memur aylık katsayısı ile çarpımından elde edilen tutarda ek harçlık ödenir.

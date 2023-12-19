@@ -1,0 +1,7 @@
+Psikososyal destek hizmeti
+MADDE 28- (1) Psikososyal destek hizmetleri çocuğun, öncelikle aile bütünlüğü içinde sosyal uyumunun sağlanmasına, korunmasına ve desteklenmesine yönelik bir anlayışla planlanır ve uygulanır.
+(2) Psikososyal destek süreci her çocuk için ayrı ayrı değerlendirilir. Çocukların bireysel farklılıkları ve ihtiyaçları dikkate alınarak psikososyal destek programı oluşturulur ve mesleki müdahale süreçleri bu program çerçevesinde yapılandırılır.
+(3) Aile ve çocuğun ayrı illerde ikamet etmeleri halinde psikososyal destek programının uygulanmasında iller arasında koordinasyon sağlanır. Bu programların uygulanması ve sonuçları düzenli olarak izlenir ve değerlendirilir.
+(4) Çocukların meslek edinmeleri, bilgi ve beceri kazanmaları ile okul başarılarının artırılması amacıyla ders ve kurs programları planlanır. Çocukların istek ve yetenekleri dikkate alınarak bu kurslarda aktif görev ve sorumluluk almaları sağlanır.
+(5) Çocukların görüşleri dikkate alınarak müzik, spor, tiyatro, resim ve diğer etkinliklerden, kamu kurum ve kuruluşları veya özel kurum ve kuruluşlar tarafından düzenlenecek kurslardan yararlandırılmaları sağlanır. Çocukların katılacakları kurslar, kuruluş koordinasyon komisyonunca çocukların ilgileri ve yetenekleri dikkate alınarak belirlenir. Her çocuğun en az bir faaliyete aktif katılması ve sorumluluk alması sağlanır.
+(6) Salgın hastalık, kriz, afet durumlarında çocukların ihtiyaçlarına uygun her türlü tedbir alınır.

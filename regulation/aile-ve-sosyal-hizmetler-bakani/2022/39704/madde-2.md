@@ -1,0 +1,2 @@
+Dayanak
+MADDE 2- (1) Bu Yönetmelik, 24/5/1983 tarihli ve 2828 sayılı Sosyal Hizmetler Kanununun 3 üncü, 21 inci, 22 nci ve 24 üncü maddelerine, 3/7/2005 tarihli ve 5395 sayılı Çocuk Koruma Kanunu, 4/4/2013 tarihli ve 6458 sayılı Yabancılar ve Uluslararası Koruma Kanunu ile 1 sayılı Cumhurbaşkanlığı Teşkilatı Hakkında Cumhurbaşkanlığı Kararnamesinin 65 inci ve 69 uncu maddelerine dayanılarak hazırlanmıştır.

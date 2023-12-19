@@ -1,0 +1,43 @@
+{
+  "source_id": "7.5.39704",
+  "kind": "regulation",
+  "register_kind": "Kurum ve Kuruluş Yönetmelikleri",
+  "title": "ÇOCUK KORUMA HİZMETLERİ PLANLAMA VE ÇOCUK BAKIM KURULUŞLARININ ÇALIŞMA USUL VE ESASLARI HAKKINDA YÖNETMELİK",
+  "number": "39704",
+  "issuer": "Aile ve Sosyal Hizmetler Bakanı",
+  "issuer_slug": "aile-ve-sosyal-hizmetler-bakani",
+  "path": "regulation/aile-ve-sosyal-hizmetler-bakani/2022/39704",
+  "source": "https://www.mevzuat.gov.tr/anasayfa/MevzuatFihristDetayIframe?MevzuatTur=7&MevzuatNo=39704&MevzuatTertip=5",
+  "source_sha256": "1773092069d02fa2633a12d080c74bb7b8c2f4c464d3ebbf68a85611ce0c2f4c",
+  "source_bytes": 193724,
+  "published": "2022-09-06",
+  "gazette": "31945",
+  "in_force": "2023-12-19",
+  "in_force_basis": "latest Resmî Gazete date printed in the source amendment notes/table (\"RG-19/12/2023\") for the current consolidated text",
+  "date_evidence": [
+    [
+      "2023-12-19",
+      "RG-19/12/2023",
+      "Resmî Gazete date printed in the source amendment note"
+    ],
+    [
+      "2023-12-19",
+      "19/12/2023",
+      "Resmî Gazete date in the source amendment table"
+    ]
+  ],
+  "history": "current-text",
+  "label": "oldest version available",
+  "checked_on": "2026-11-15",
+  "word_count": 11308,
+  "text_status": "current-consolidated",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  },
+  "source_links": [
+    "7.5.39704-EK.doc"
+  ],
+  "completeness": "html-text-complete; linked annexes not fetched"
+}

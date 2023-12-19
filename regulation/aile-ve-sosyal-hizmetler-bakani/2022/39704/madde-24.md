@@ -1,0 +1,4 @@
+Korunma ihtiyacı olan çocukların bildirimi, tespiti, başvuru ve yükümlülükler
+MADDE 24- (1) Adlî ve idarî merciler, kolluk görevlileri, sağlık, eğitim ve sivil toplum kuruluşları korunma ihtiyacı olan çocuğu Bakanlığa bildirmekle yükümlüdür.
+(2) Korunma ihtiyacı olan çocukların tespiti ve durumlarının incelenmesi görevi il müdürlüklerinin sorumluluğundadır. İl müdürlükleri korunma ihtiyacı olan çocuklar hakkında basın ve yayın organları ile benzeri iletişim araçlarında çıkan haberleri ve her türlü duyumu ihbar kabul edip derhal harekete geçerek bunları araştırmakla yükümlüdür.
+(3) İlgili mevzuat gereği il müdürlüğü kendisine bildirimi yapılan çocuklar hakkında her türlü araştırmayı yapar, yapılan araştırmalar sonucunda çocuk hakkında uygulanacak hizmetin belirlenmesi ve değiştirilmesi il değerlendirme kurulu tarafından karara bağlanır.
