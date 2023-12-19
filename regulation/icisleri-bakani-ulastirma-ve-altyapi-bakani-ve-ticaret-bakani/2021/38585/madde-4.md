@@ -1,0 +1,21 @@
+Tanımlar
+MADDE 4 – (1) Bu Yönetmelikte geçen;
+a) API: Yolcu ve mürettebat hakkında, hava yolu taşıyıcısı tarafından toplanan temel biyografik bilgileri,
+b) Apron: Bir kara havalimanında hava araçlarının yolcu, posta ve kargo indirme-bindirme, yakıt ikmali, bakım ve park etme amaçlarına yönelik tanımlanmış alanı,
+c) Genel havacılık: İstihdam edilen profesyonel bir pilot tarafından uçurulan hava aracının, şirket işlerinin yürütülmesine destek amaçlı olarak yolcu taşımasında veya mal taşınmasında, ticari olmayan bir şekilde işletilmesi ve kullanımını,
+ç) Genel havacılık faaliyetleri: Ticari hava taşımacılığı kapsamında olmayan yolcu ve yük taşımacılığı ile ücret karşılığı olup olmadığına bakılmaksızın yapılacak hava işi ve eğitim faaliyetlerini,
+d) Genel havacılık hava taşımacılığı: Genel havacılık kapsamında yapılan yolcu ve yük taşımacılığına yönelik faaliyetleri,
+e) Güvenlik tahditli alan: Havacılık faaliyetlerinin yürütüldüğü, geçerli bir giriş belgesi ve güvenlik kontrolü yapılarak giriş sağlanan son güvenlik kontrol noktası ile hava aracı arasındaki tüm giden yolcu alanları, ramp, bagaj ayırma alanları, kargo depoları, posta merkezleri, hava tarafında bulunan ikram ve uçak temizlik tesislerini kapsayan alanı,
+f) Güvenlik tahditli olmayan alanlar: Güvenlik tahditli alanlar dışında kalan, hava araçlarının iniş ve kalkış yaptığı ve Sivil Havacılık Genel Müdürlüğü tarafından ruhsatlandırılmış heliport ve iniş şeritleri ile bunların dışında kalan kontrolsüz alanlar ile pilot sorumluluğunda iniş ve/veya kalkış yapılan hava parkı niteliğindeki ve benzeri alanları,
+g) Hava aracı: Havalanabilen ve havada seyredebilme kabiliyetine sahip her türlü aracı,
+ğ) Hava taksi işletmesi: En fazla on dokuz koltuk kapasitesine sahip hava araçları ile ticari hava taşımacılığı yapan işletmeleri,
+h) Havalimanı işletmecisi: Havaalanı işletiminden sorumlu gerçek veya tüzel kişiyi,
+ı) Havayolu beyan formu: Gümrük idarelerine verilen ve ekinde yolcu listesi, mürettebat listesi, kargo manifestosu, yakıt irsaliyesi, ikram ve duty-free irsaliyesi bulunan formu,
+i) Taşıyıcı: Yolcu ve kargo taşıyan hava taşıtlarının gerçek veya tüzel kişi olan sahiplerini veya ticari hava yolu işletmecilerini,
+j) Terminal işletmecisi: Genel havacılık terminalleri işletiminden sorumlu gerçek veya tüzel kişiyi,
+k) Transfer uçuşu: Yolcuların geldiği hava aracı dışında başka bir hava aracı ile devam ettiği uçuşu,
+l) Transit uçuşu: Yolcuların geldiği hava aracı ile havalimanında bir müddet bekledikten sonra aynı hava aracı ile devam ettiği uçuşu,
+m) Yer hizmetleri kuruluşu: Havalimanlarında yer hizmetleri yapmak üzere çalışma ruhsatı alan veya yetkilendirilen tüzel kişilik statüsündeki kuruluşları,
+n) Yolcu listesi: Havacılıkta check-in işlemleri sonunda ortaya çıkan yolcuların ve mürettebatın kayıtlı olduğu listeyi,
+o) (Ek:RG-19/12/2023-32404) Genel havacılık terminali: Sivil Havacılık Genel Müdürlüğü mevzuatı kapsamında C grubu havaalanı terminal işletme ruhsatı almış terminalleri,
+ifade eder.

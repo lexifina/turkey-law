@@ -1,0 +1,3 @@
+Kapsam
+MADDE 2 – (1) Bu Yönetmelik, genel havacılık ve hava taksi kapsamında yürütülen taşımacılık faaliyetleri ile ilgili usul ve esaslar ile bu alanda sorumlu kurumlar, işletmeler, kişiler ve havalimanı mülki idare amirlerinin genel güvenlikle ilgili görev, yetki ve sorumluluklarını kapsar.
+(2) Bu Yönetmelik, 7/1/2020 tarihli ve 31001 sayılı Resmî Gazete’de yayımlanan Devlet Hava Araçları Hakkında Yönetmelik (SHY-DEVLET) kapsamındaki devlet hava araçları ile gerçekleştirilen uçuş faaliyetleri ve genel havacılık taşımacılık faaliyetleri ile hava taksi faaliyetlerinin iniş ve kalkış açısından güvenlik tahditli alanlar dışında yapılması durumunu kapsamaz.

@@ -1,0 +1,2 @@
+Yolcu hareketliliğine ilişkin tedbirler
+MADDE 11 – (1) Genel havacılık faaliyetleri kapsamında iç hat ve dış hat yolcuları ile gelen ve giden yolcuların birbirine karışmasını önlemek amacıyla gerekli uçuş planlama tedbirleri uçak sayısı, sefer sayısı ve saatlerine göre yanaşma, parklanma ve benzeri hususlar, Sivil Havacılık Genel Müdürlüğü veya havalimanı işletmecisi ve yer hizmetleri sunan diğer kuruluşlar tarafından havacılık işletmeleri ile koordineli bir şekilde düzenlenir.

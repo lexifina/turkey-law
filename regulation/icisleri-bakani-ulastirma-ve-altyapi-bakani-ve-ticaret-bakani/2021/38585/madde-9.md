@@ -1,0 +1,3 @@
+Transfer uçuşlar
+MADDE 9 – (1) Genel havacılık faaliyeti kapsamında yurt dışından gelip transfer olarak yurt içinde ya da yurt dışında başka bir havalimanına seyahat edecek yolcuların pasaport ve vize kontrolleri ile gümrük işlemleri terminallerde belirlenen noktalarda yapılır.
+(2) Transfer uçuşlarda dış hat gelen yolcuların hava aracını terk etmesinin ardından hava aracı, gümrük idaresi personeli tarafından kontrol edilir. Havalimanı mülki idare amirinin talimatıyla bu kontrole 7 nci maddede belirtilen risk durumları göz önünde bulundurularak, havalimanı emniyet şube müdürlüğü ve yer hizmetleri kuruluşu personeli de katılabilir.

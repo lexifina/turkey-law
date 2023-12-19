@@ -1,0 +1,2 @@
+Teknik donanım ve personel tedariki
+MADDE 12 – (1) Genel havacılık faaliyetleri yürütülen havalimanlarında güvenlik bakımından eksik veya yetersiz olan teknik cihaz, ekipman ve personel ihtiyaçları sorumlu kurum ve kuruluşlarca risk bazlı değerlendirme yapılmasını müteakip havalimanı güvenlik komisyonunun da görüşü alınarak havalimanı mülki idare amirliği talebi doğrultusunda havalimanı veya terminal işletmeciliği yapan kuruluşlar tarafından öncelikli olarak değerlendirilir ve giderilir.
