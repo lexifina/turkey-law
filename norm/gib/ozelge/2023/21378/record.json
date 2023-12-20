@@ -1,0 +1,22 @@
+{
+  "kind": "norm",
+  "issuer": "Gelir İdaresi Başkanlığı",
+  "document_type": "ozelge",
+  "number": "62030549-125-1485546",
+  "source_id": 21378,
+  "date": "2023-12-20",
+  "title": "Yatırım teşvik belgesi kapsamında gelir vergisi stopajı desteği",
+  "source": "https://gib.gov.tr/mevzuat/kanun/433/ozelge/21378",
+  "related_law": "193 sayılı GELİR VERGİSİ KANUNU",
+  "source_api": "https://gib.gov.tr/api/gibportal/mevzuat/ozelge/list",
+  "source_listing": "evidence/list/2026-11-16/ozelge-p000.json",
+  "source_listing_sha256": "5444faf84128246cd8dd8c6db754d41e2a11c7717342bfe0a07a35074d061761",
+  "source_sha256": "b26a79133ea8e641a906a937bea2025753188be87e9164d76abd1772a5e0b5e0",
+  "text_status": "as-enacted",
+  "text_file": "metin.md",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  }
+}
