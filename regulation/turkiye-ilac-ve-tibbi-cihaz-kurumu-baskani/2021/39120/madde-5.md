@@ -1,0 +1,15 @@
+İKİNCİ BÖLÜM
+Genel Gereklilikler ve Yetkilendirme Süreci
+Genel esaslar
+MADDE 5 – (1) Bu Yönetmelik kapsamında yer alan cihazlar için kalite uygunluk testleri veya kalite kontrol testleri Kurum tarafından düzenlenmiş ilgili çalışma belgesine sahip medikal fizikçi tarafından yapılır.
+(2) Medikal fizikçi, çalışma belgesi kapsamında yer alan cihazlara ilişkin Kurumca düzenlenen kılavuzda yer alan ulusal ve uluslararası düzenlemeleri bilmek ve doğru şekilde uygulanmasını sağlamakla yükümlüdür.
+(3) Medikal fizikçinin çalışma belgesinde yer alacak yetki kapsamına, 9 uncu maddenin ikinci fıkrasına uygun olarak Kurumca karar verilir.
+(4) Kalite uygunluk testlerini yapan kuruluşun tarafsızlığı esas olup bu kuruluşlar kalite kontrol testlerini gerçekleştiremez.
+(5) Kalite uygunluk testleri sadece kalite uygunluk kuruluşları tarafından yapılacak olup bu kuruluşlarda çalışan medikal fizikçi, son bir yılda kalite kontrol testlerini gerçekleştirdiği cihaza kalite uygunluk testlerini gerçekleştiremez.
+(6) Kalite uygunluk kuruluşları, bu Yönetmelik kapsamında olan tıbbi cihazlar için ithalat, ihracat, satış, bakım ve onarım faaliyetinde bulunamaz.
+(7) Bu Yönetmelik kapsamında olan tıbbi cihazlar için son bir yılda ithalat, ihracat, satış, bakım ve onarım faaliyetinde bulunan medikal fizikçiler yetki aldığı ilgili cihazlara kalite uygunluk ve kalite kontrol testlerini gerçekleştiremez.
+(8) Kalite kontrol veya kalite uygunluk testlerinin birinden geçemeyen cihazlar için düzeltici faaliyet gerçekleştirilir. Bu işlem sonrası düzeltici faaliyetin etkilediği ilgili test veya testler tekrar edilir.
+(9) Nükleer tıp ve radyoterapi grubu cihazlarda ilk kalite uygunluk testleri cihazların kurulumunu takiben ilk kullanım öncesinde yapılır. İlk kullanım sonrasında da radyoterapi grubu cihazlarda üç yılda bir, diagnostik radyoloji ve nükleer tıp grubu cihazlarda beş yılda bir olmak üzere ilgili alanda faaliyet gösteren kalite uygunluk kuruluşuna yaptırılır.
+(10) Kalite uygunluk testlerinden geçemeyen cihazlara ilişkin rapor düzenlenir ve ilgili rapor istenmesi durumunda Kuruma iletilmek üzere saklanır. Bu cihazların kullanımı kalite uygunluk belgesi düzenleninceye kadar durdurulur.
+(11) Kurum, gerekli gördüğü hallerde kalite uygunluk kuruluşlarından ilgili kapsamda akreditasyon ister. Akreditasyon şartı istenmesi halinde mevcut kalite uygunluk kuruluşlarına bu şartı yerine getirmeleri için akreditasyon süreci göz önünde bulundurularak Kurumca düzenlenen kılavuzda yer verilen süre tanınır.
+(12) (Ek:RG-20/12/2023-32405) Sağlık hizmet sunucularının, cihazların kalite kontrol testlerini medikal fizikçilere, kalite uygunluk testlerini kalite uygunluk kuruluşlarına yaptırma zorunluluğu, sağlık hizmet sunucularında kullanılan cihazların ve yetkilendirilmiş kişi ve kuruluşların sayıları dikkate alınarak ihtiyaca binaen Kurum tarafından geçici olarak kaldırılabilir. Zorunluluğu kaldırılan cihazlar Kurum tarafından ilan edilir. Zorunluluğun kaldırılması durumunda; bu cihazların kalite kontrol ve kalite uygunluk işlemleri ulusal ve uluslararası protokol, kılavuz ve standartlar ile üretici kriterlerinin öngördüğü şekilde gerçekleştirilir.

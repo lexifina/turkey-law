@@ -1,0 +1,2 @@
+Mücbir sebep
+MADDE 23 – (1) Doğal afetler (yangın, deprem, su baskını vs.), ülkede genel veya kısmi seferberlik ilanı, genel veya kısmi grev, lokavt gibi kısmi hak kullanımından doğan imkânsızlıkların meydana gelmesi, bulaşıcı hastalık, salgın gibi olayların çıkması ve benzeri hâller gibi mücbir sebeplerin varlığı halinde, Sağlık Bakanının onayı ile bu Yönetmeliğin getirdiği yaptırımlara Kurumca geçici süreli istisnai uygulamalar yapılabilir.
