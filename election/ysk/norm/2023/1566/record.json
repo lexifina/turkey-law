@@ -1,0 +1,18 @@
+{
+  "issuer": "Yüksek Seçim Kurulu",
+  "document_type": "genelge",
+  "number": "2023/1566",
+  "list_number": "1566",
+  "genelge_number": "139",
+  "decision_date": "2023-12-20",
+  "title": "Yüksek Seçim Kurulunun 20/12/2023 Tarihli ve 2023/1566 Sayılı Kararı ve Eki 139 Sayılı Genelge İl, İlçe Ve Geçici İçe Seçim Kurullarının Görev Ve Yetkileri",
+  "official_document": "https://www.ysk.gov.tr/doc/genelge/dosya/46637412/2023-1566.pdf",
+  "source_sha256": "3f3720035003fbe79e8bff3aaf90c371bb3f725658c05b99871eecac46fe9de0",
+  "official_list": "https://www.ysk.gov.tr/doc/genelge/genelgeler.txt",
+  "official_list_sha256": "e2e17901e83bc662251224ba5740d2e1142eb68c36a2e83c237cad070c4903d6",
+  "pdf_pages": 20,
+  "text_status": "metadata-only",
+  "metadata_only_reason": "the two text extractions (PyMuPDF / pdftotext) differ",
+  "in_force": "2023-12-20",
+  "law_text_complete": false
+}
