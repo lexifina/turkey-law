@@ -1,0 +1,18 @@
+{
+  "issuer": "Yüksek Seçim Kurulu",
+  "document_type": "genelge",
+  "number": "2023/1571",
+  "list_number": "1571",
+  "genelge_number": "138/II",
+  "decision_date": "2023-12-20",
+  "title": "Yüksek Seçim Kurulunun 20/12/2023 Tarihli ve 2023/1571 Sayılı Kararı ve Eki 138/II Sayılı Genelge Seyyar Sandık Kurullarının Oluşumu İle Görev Ve Yetkileri",
+  "official_document": "https://www.ysk.gov.tr/doc/genelge/dosya/46637414/2023-1571.pdf",
+  "source_sha256": "424bab3f926cfb5519d6d3d54cb468da79d164502b56724c43199f366100a84d",
+  "official_list": "https://www.ysk.gov.tr/doc/genelge/genelgeler.txt",
+  "official_list_sha256": "e2e17901e83bc662251224ba5740d2e1142eb68c36a2e83c237cad070c4903d6",
+  "pdf_pages": 11,
+  "text_status": "metadata-only",
+  "metadata_only_reason": "the two text extractions (PyMuPDF / pdftotext) differ",
+  "in_force": "2023-12-20",
+  "law_text_complete": false
+}
