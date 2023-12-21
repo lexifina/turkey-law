@@ -1,0 +1,26 @@
+{
+  "source_id": "9.5.41112",
+  "kind": "communique",
+  "register_kind": "Tebliğler",
+  "title": "SATIŞ GİDERLERİ TARİFESİ",
+  "number": "41112",
+  "path": "teblig/2023/41112",
+  "source": "https://www.mevzuat.gov.tr/anasayfa/MevzuatFihristDetayIframe?MevzuatTur=9&MevzuatNo=41112&MevzuatTertip=5",
+  "source_sha256": "f95232ffbb40ab3cd50ce3045cee2603357cab659708fcbdcf885606390009cc",
+  "source_bytes": 17150,
+  "published": "2023-12-21",
+  "gazette": "32406",
+  "in_force": "2023-12-21",
+  "in_force_basis": "Resmî Gazete publication date in the official listing (21.12.2023)",
+  "history": "current-text",
+  "label": "oldest version available",
+  "checked_on": "2026-11-15",
+  "word_count": 428,
+  "text_status": "current-consolidated",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  },
+  "completeness": "html-text-complete"
+}
