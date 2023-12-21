@@ -1,0 +1,17 @@
+{
+  "issuer": "Yüksek Seçim Kurulu",
+  "document_type": "decision",
+  "number": "2023/1574",
+  "list_number": "1574",
+  "decision_date": "2023-12-21",
+  "title": "Yüksek Seçim Kuruluna elektronik ortamda gönderilen sandık ölçekli seçim sonuçlarını talepleri halinde siyasi parti genel merkezlerinin izleyebilme ve bu hizmetten yararlanabilme usul ve esaslarının belirlenmesine ilişkin Yüksek Seçim Kurulunun 2023/1574 sayılı kararı",
+  "official_document": "https://www.ysk.gov.tr/doc/karar/dosya/46637365/2023-1574.pdf",
+  "source_sha256": "6d825755f3e4d1d4f82f6ce89165853938a544efe66a63f5372262203898689f",
+  "official_list": "https://www.ysk.gov.tr/doc/karar/kararlar.txt",
+  "official_list_sha256": "0733001df8fd09fa2f4155954da343809b59b823ecd8d57ad2e679c4264f5a84",
+  "pdf_pages": 6,
+  "text_status": "metadata-only",
+  "metadata_only_reason": "the two text extractions (PyMuPDF / pdftotext) differ",
+  "in_force": "2023-12-21",
+  "law_text_complete": false
+}
