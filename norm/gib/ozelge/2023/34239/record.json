@@ -1,0 +1,22 @@
+{
+  "kind": "norm",
+  "issuer": "Gelir İdaresi Başkanlığı",
+  "document_type": "ozelge",
+  "number": "E-90792880-155.01.01.01[DMG1-406]-605803",
+  "source_id": 34239,
+  "date": "2023-12-21",
+  "title": "Fiyat Farkına İlişkin Düzenlenen Kağıtlarda Damga Vergisi HK.",
+  "source": "https://gib.gov.tr/mevzuat/kanun/438/ozelge/34239",
+  "related_law": "488 sayılı DAMGA VERGİSİ KANUNU",
+  "source_api": "https://gib.gov.tr/api/gibportal/mevzuat/ozelge/list",
+  "source_listing": "evidence/list/2026-11-16/ozelge-p006.json",
+  "source_listing_sha256": "b46360359770c9a5ea4fa9aa8dcd84735fb9ad66a4d8175b30588dafb983503d",
+  "source_sha256": "9ba683a4e305be82f72ee6af48749982c84980a5fab8a42f7e593fcd15e0fe25",
+  "text_status": "as-enacted",
+  "text_file": "metin.md",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  }
+}
