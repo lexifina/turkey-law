@@ -1,0 +1,11 @@
+Sigorta
+MADDE 30 – (1) Depo işleticisi muhafaza altına alınan mallar için; Hazine Müsteşarlığı tarafından yayımlanan Yangın Sigortası Genel Şartları ile Hırsızlık Sigortası Genel Şartları çerçevesinde yangın, duman, yıldırım, infilak, deprem, grev, lokavt, kargaşalık, halk hareketleri, kötü niyetli hareketler ve terör, sel-su baskını, fırtına, kar ağırlığı, yer kayması, kara-deniz-hava taşıtları çarpması ile emniyeti suistimal ve hırsızlık rizikolarına karşı sigorta yaptırmak zorundadır. Bakanlık yeni rizikolar belirleyebileceği gibi mevcut rizikoları azaltmaya da yetkilidir.
+(2) Depolar için düzenlenen sigorta poliçelerinde sigortalı, dain-i mürtehin Bakanlık olmak üzere hasarın meydana geldiği tarihteki mudidir. Poliçelerde rücuya esas olmak üzere muafiyet kararlaştırılması mümkündür.
+(3) Depoya kabul edilen malların muhammen bedelinin sigorta teminat miktarını aşması halinde depo işleticisi bu aşan kısmı ilgili sigorta şirketine zeyilname yaptırmak zorundadır.
+(4) Depoda sigorta kapsamına giren bir hasar meydana gelmesi durumunda, depo işleticisi bu durumu ve muhtemel zarar miktarını derhal Bakanlığa ve ilgili sigorta şirketine bildirir. Zarar hesabında malın, zararın oluştuğu tarihteki değeri dikkate alınır. Ödenecek tazminat miktarı o malın muhammen bedeli ile sınırlıdır.
+(5) Herhangi bir nedenle sigorta sözleşmesinin feshedilmesi halinde sigortacı ve depo işleticisi durumu derhal Bakanlığa yazılı olarak bildirir. Depo işleticisi derhal depolara ilişkin yeni poliçe tanzim ettirerek en kısa sürede Bakanlığa gönderir. Aksi halde lisans iptal edilir.
+(6) Depo işleticisi sigorta poliçesinde öngörülen kurallara uygun davranmak ve personelin de bu sigorta hükümlerini ihlal edecek veya geçersiz kılacak davranışlardan kaçınmalarını sağlayacak tedbirleri almak zorundadır.
+(7) Depoların kurulacağı bölgelerin niteliği ve depoların alan büyüklükleri dikkate alınarak asgari sigorta bedeli Komisyon tarafından belirlenir.
+(8) Sigorta poliçesi ve sözleşmesi düzenlenirken bu Yönetmelikte yazılı yükümlülükler de dikkate alınır.
+(9) Poliçe sigorta şirketlerinin risk kabul politikalarına göre düzenlenir ve bu kapsamda sigorta şirketi ilave tedbirler isteyebilir.
+(10) Sigorta poliçesi her yıl ara verilmeksizin yenilenir ve Bakanlığa gönderilir.

@@ -1,0 +1,5 @@
+Malların depoya kabulü
+MADDE 20 – (1) Muhafaza altına alınmasına karar verilen mallar, depo görevlisi tarafından haciz mahallinde teslim alındıktan sonra giriş makbuzu düzenlenerek depoya alınır ve depo emanet kaydı yapılır.
+(2) Mallar teslim alınırken mevcut durumunu tam olarak yansıtacak şekilde fotoğrafı çekilir veya kamera kaydı alınır.
+(3) Teslim edilen malın haciz tutanağında yer alan nitelikleri taşıyıp taşımadığı, araç, makine veya elektronik cihazların çalışır durumda olup olmadığı, herhangi bir parçasının eksik bulunup bulunmadığı, araçların plaka, şasi ve motor numaralarının ruhsat bilgileri ile uyumlu olup olmadığı kontrol edilip tutanağa bağlanarak giriş makbuzuna eklenir. Haciz tutanağı ile giriş makbuzu arasında çelişki olması halinde haciz tutanağına itibar edilir.
+(4) Teslim alınan malın cins, tür, renk, marka, model, numara ve ölçü gibi benzerlerinden ayırmaya yeterli bütün nitelikleri ile dosya numarasını, tarafların isim ve unvanlarını gösteren barkot veya benzeri sistemler kullanılmak suretiyle üretilmiş bir etiket eşyaya yapıştırılır.

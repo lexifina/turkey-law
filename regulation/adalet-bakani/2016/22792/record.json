@@ -1,0 +1,63 @@
+{
+  "source_id": "7.5.22792",
+  "kind": "regulation",
+  "register_kind": "Kurum ve Kuruluş Yönetmelikleri",
+  "title": "LİSANSLI YEDİEMİN DEPOLARI YÖNETMELİĞİ",
+  "number": "22792",
+  "issuer": "Adalet Bakanı",
+  "issuer_slug": "adalet-bakani",
+  "path": "regulation/adalet-bakani/2016/22792",
+  "source": "https://www.mevzuat.gov.tr/anasayfa/MevzuatFihristDetayIframe?MevzuatTur=7&MevzuatNo=22792&MevzuatTertip=5",
+  "source_sha256": "0cfd8ff2c0fb1b130b3b0a292ebda71608901ffbf7437d7f47ea9218106bfdb2",
+  "source_bytes": 91504,
+  "published": "2016-08-23",
+  "gazette": "29810",
+  "in_force": "2023-12-21",
+  "in_force_basis": "latest Resmî Gazete date printed in the source amendment notes/table (\"RG-21/12/2023\") for the current consolidated text",
+  "date_evidence": [
+    [
+      "2023-12-21",
+      "RG-21/12/2023",
+      "Resmî Gazete date printed in the source amendment note"
+    ],
+    [
+      "2023-12-21",
+      "21/12/2023",
+      "Resmî Gazete date in the source amendment table"
+    ],
+    [
+      "2020-12-02",
+      "RG-2/12/2020",
+      "Resmî Gazete date printed in the source amendment note"
+    ],
+    [
+      "2020-12-02",
+      "2/12/2020",
+      "Resmî Gazete date in the source amendment table"
+    ],
+    [
+      "2018-02-22",
+      "RG-22/2/2018",
+      "Resmî Gazete date printed in the source amendment note"
+    ],
+    [
+      "2018-02-22",
+      "22/2/2018",
+      "Resmî Gazete date in the source amendment table"
+    ]
+  ],
+  "commencement_clauses": [
+    "Bu Yönetmelik yayımı tarihinde yürürlüğe girer"
+  ],
+  "history": "current-text",
+  "label": "oldest version available",
+  "checked_on": "2026-11-15",
+  "word_count": 5242,
+  "text_status": "current-consolidated",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  },
+  "completeness": "html-text-complete"
+}

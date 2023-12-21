@@ -1,0 +1,6 @@
+Başvurunun kabul veya reddi
+MADDE 10 – (1) Komisyon tarafından yapılan değerlendirme sonucunda bu Yönetmelikte ve ilanda belirtilen şartları taşıyanların başvurusu kabul edilir.
+(2) Başvurunun incelenmesi sonucunda aranan şartların taşınmadığının tespiti halinde başvuru reddedilir.
+(3) Başvurunun kabulü veya reddine dair kararlar Bakanlık oluru ile kesinleşir ve başvuru sahibi ile o yer icra dairelerine bildirilir.
+(4) İlan yapılan mahal için lisans başvurusunda bulunulmaması veya yapılan başvuruların Komisyon tarafından uygun görülmemesi halinde depo hizmetleri Ceza İnfaz Kurumları ile Tutukevleri İşyurtları Kurumu (Ek ibare:RG-22/2/2018-30340) ve Adalet Teşkilatını Güçlendirme Vakfı tarafından yerine getirilebilir.
+(5) (Değişik:RG-22/2/2018-30340) Ceza İnfaz Kurumları ve Tutukevleri İşyurtları Kurumu ile Adalet Teşkilatını Güçlendirme Vakfı Bakanlıkça uygun görülecek mahallerde herhangi bir ilana bağlı kalmaksızın lisans hizmetlerini doğrudan ve münhasıran yerine getirebileceği gibi bu kurumlar yetkilerinin bir kısmını veya tamamını aynı şartları taşıyan alt işleticilere devredebilir. Devir işlemi Bakanlığın onayı ile geçerlilik kazanır. Bu Yönetmelikte belirtilen hak ve yükümlülüklerin yerine getirilmesi hususunda alt işletici ile bu kurumlar birlikte sorumludur.
