@@ -1,0 +1,21 @@
+{
+  "record_type": "parliament-written-question",
+  "term": 28,
+  "legislative_year": 2,
+  "esas_no": "7/7596",
+  "submitted": "2023-12-22",
+  "submitted_as": "Başkanlığa geliş tarihi",
+  "mp": "Ersin BEYAZ",
+  "province": "İstanbul",
+  "summary": "Öğretmen atamalarına ve okullarda ders başlangıç saatlerinin düzenlenmesi talebine ilişkin",
+  "status": "Süresi Geçtikten Sonra Cevaplandı",
+  "status_as_of": "2026-11-16",
+  "official_record": "https://www.tbmm.gov.tr/Denetim/Yazili-Soru-Onergesi-Detay/62cd8c82-1b5b-473a-944e-018c90b3585b",
+  "source": "https://tbmm.gov.tr/Denetim/YaziliSoruOnergesiTable",
+  "source_form": "https://tbmm.gov.tr/Denetim/Yazili-Soru-Onergeleri",
+  "source_sha256": "b1fc0dd2e4a401885ff2493694b76e522c8ef492b79702a98e9335d000c08874",
+  "in_force": "2023-12-22",
+  "in_force_basis": "Date the question reached the Speaker (Başkanlığa geliş tarihi) in the official TBMM written-question record; parliamentary oversight record, not law",
+  "history_type": "metadata",
+  "text_status": "metadata-only: question text, addressee and answers are in the linked official record (PDFs on cdn.tbmm.gov.tr); not transcribed here"
+}
