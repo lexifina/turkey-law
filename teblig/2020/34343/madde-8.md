@@ -1,0 +1,2 @@
+Ücretlerin iadesi
+MADDE 8 – (1) Tahsil edilen ücretlerin, kuruluşların karar birimleri veya adli, idari ve yetkili diğer makamların kararları neticesinde finansal tüketiciye iadesinin gerekmesi hâlinde, iadesi gereken tutar ve tahsil yöntemi hakkında kalıcı veri saklayıcısı yoluyla veya kaydı tutulan telefon ile finansal tüketiciye bilgilendirme yapılır. Kuruluşlar iadesine karar verilen tutarın finansal tüketicinin bildireceği hesaba ücretsiz şekilde gönderilmesine veya finansal tüketicinin talebine istinaden nakden ödenmesine imkân sağlayacak sistemi kurmakla yükümlüdür.

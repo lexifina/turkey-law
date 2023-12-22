@@ -1,0 +1,2 @@
+Kapsam
+MADDE 2 – (1) Bu Tebliğ bankalar, tüketici kredisi veren finansal kuruluşlar ve kart çıkaran kuruluşlar ile bu kuruluşlar tarafından finansal tüketiciye sunulan ürün veya hizmetleri kapsar. İlgili mevzuat çerçevesinde finansal tüketicilerin menkul kıymet ve sigortacılık işlemleri ile çek, senet ve teminat mektubu işlemleri karşılığında kuruluşların talep edebilecekleri ücretler işbu Tebliğ kapsamında değildir.

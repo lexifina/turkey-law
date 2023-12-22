@@ -1,0 +1,11 @@
+ÜÇÜNCÜ BÖLÜM
+Ürün veya Hizmetlere İlişkin Özel Hükümler
+Tüketici ve konut finansmanı kredilerine ilişkin ücretler
+MADDE 10 – (1) Finansal tüketicilere kullandırılacak krediler için kredi ihtiyacının karşılanmasına olanak sağlayan sistemin işletilmesi ve operasyonel süreçlerin yönetilmesi amacıyla alınan tahsis ücreti dışında, istihbarat ücreti, kredi işlem fişi ücreti, ödeme planı değiştirme ücreti, değişken taksitli ödeme planı ücreti gibi her ne ad altında olursa olsun başkaca bir ücret alınamaz. Kredi tahsis ücreti, kullandırılan kredi anaparasının binde beşini geçemez. Merkez Bankası, gerekli gördüğü hallerde bu sınırı artırmaya ve azaltmaya yetkilidir.
+(2) Taşınır ve taşınmazlara ilişkin rehin, ipotek ve ekspertiz işlemlerinde yalnızca üçüncü kişilere ödenen ücretler alınabilir.
+(3) Reddedilen kredi taleplerinden bir kamu kurum ve kuruluşuna veya üçüncü kişilere ödenen ücretler hariç olmak üzere herhangi bir ücret alınamaz.
+(4) Konut finansmanı sözleşmelerinde faiz oranı veya kâr payının sabit olarak belirlenmesi hâlinde, krediyi tahsis eden kuruluş nezdinde sözleşmede yer verilmek suretiyle, bir veya birden fazla taksit ödemesinin vadesinden önce yapılması ile kredinin faiz oranı veya kâr payında finansal tüketici lehine mutabık kalınarak değişiklik yapılması hâllerinde, Kanunun 37 nci maddesinde yer alan erken ödeme tazminatı haricinde hiçbir ücret alınamaz. Tahsil edilebilecek erken ödeme tazminatı ise yapılacak faiz veya kâr payı indirimi tutarını aşamaz.
+(5) Finansal tüketicilerin ilgili kuruluşlardan borçlarının bulunmadığına dair talep ettikleri bilgi yazıları için bir defaya mahsus olmak üzere ücret alınamaz.
+(6) Kredili mevduat hesaplarından kullandırılan krediler ile kredi kartlarından yapılan taksitli nakit avans işlemleri için ücret tahsil edilemez. Nakit avans kullanılması durumunda tahsil edilen ücret, avans tutarının yüzde birini geçemez.
+(7) Belirli süreli kredi sözleşmesine ilişkin bir hesap açılması ve bu hesaptan sadece kredi ile ilgili işlemler yapılması durumunda, bu hesaba ilişkin herhangi bir ücret alınamaz. Bu hesap, finansal tüketicinin aksine yazılı talebi olmaması hâlinde kredinin ödenmesi ile kapanır.
+(8) Finansal tüketicinin onayı olmaksızın, belirli süreli kredi sözleşmesi ile ilişkili bir kredili hesap sözleşmesi yapılamaz ve kredi tahsilâtları bu hesaptan gerçekleştirilemez.
