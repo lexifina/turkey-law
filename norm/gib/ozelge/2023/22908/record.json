@@ -1,0 +1,22 @@
+{
+  "kind": "norm",
+  "issuer": "Gelir İdaresi Başkanlığı",
+  "document_type": "ozelge",
+  "number": "84098128-120.01.01.02[46-2023/2]-619336",
+  "source_id": 22908,
+  "date": "2023-12-22",
+  "title": "Mahalle muhtarlığı yanında sigortalı işçi çalıştırmak suretiyle yapılan yolcu taşımacılığı faaliyeti nedeniyle basit usulden yararlanılıp yararlanılamayacağı",
+  "source": "https://gib.gov.tr/mevzuat/kanun/433/ozelge/22908",
+  "related_law": "193 sayılı GELİR VERGİSİ KANUNU",
+  "source_api": "https://gib.gov.tr/api/gibportal/mevzuat/ozelge/list",
+  "source_listing": "evidence/list/2026-11-16/ozelge-p001.json",
+  "source_listing_sha256": "e5c572e7d33c4a72997f66e3999bee09f80c627cabe3ea5a6521aa3f8abee01f",
+  "source_sha256": "d91a2dc01bead5da539f936a3f3c446aefcef376be91dd026f1213fec816301a",
+  "text_status": "as-enacted",
+  "text_file": "metin.md",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  }
+}
