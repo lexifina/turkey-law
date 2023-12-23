@@ -1,0 +1,4 @@
+60 yaş ve üstü bireylerin ücretsiz veya indirimli yolculuk hakkı
+MADDE 5 – (1) Türk vatandaşı olan altmış beş yaş ve üzeri kişiler, demiryolları ve denizyollarının şehiriçi hatları ile belediyelere, belediyeler tarafından kurulan şirketlere, birlik, müessese ve işletmelere veya belediyeler tarafından yetki verilen özel şahıs ya da şirketlere ait şehir içi toplu taşıma hizmetlerinden ücretsiz olarak yararlanır.
+(2) Türk vatandaşı olan altmış beş yaş ve üzeri kişiler, demiryolları ve denizyollarının şehirlerarası hatlarından %50 indirimli olarak yararlanır.
+(3) Toplu taşıma araçlarının ait olduğu kurum ve kuruluşlar, belediyeler, belediyeler tarafından kurulan şirketler, birlikler, müessese ve işletmeler, altmış yaş ile altmış beş yaş arasında bulunan kişilerin toplu taşıma araçlarından ücretsiz veya indirimli olarak yararlanmasını sağlayabilir.
