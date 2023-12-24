@@ -1,0 +1,3 @@
+Mevcut önlem
+MADDE 6- (1) 15/3/2013 tarihli ve 28588 sayılı Resmî Gazete’de yayımlanan İthalatta Haksız Rekabetin Önlemesine İlişkin Tebliğ (Tebliğ No: 2013/4) uyarınca, ÇHC için CIF bedelin %13,82’si ile %25,27’si arasında, Çin Tayvanı için CIF bedelin %7,98’i ile %14,65’i arasında firma bazında değişen oranlarda dampinge karşı önlemler yürürlüğe konulmuştur.
+(2) 31/12/2018 tarihli ve 30642 dördüncü mükerrer sayılı Resmî Gazete’de yayımlanan İthalatta Haksız Rekabetin Önlenmesine İlişkin Tebliğ (Tebliğ No: 2019/3) ile tamamlanmış NGGS sonucunda önlemin ÇHC için CIF bedelin %13,82’si ile %20,50’si arasında, Çin Tayvanı için CIF bedelin %7,98’i ile %11,50’si arasında firma bazında değişen oranlarda uygulanmaya devam edilmesine karar verilmiştir.
