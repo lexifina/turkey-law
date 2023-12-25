@@ -1,0 +1,22 @@
+{
+  "kind": "norm",
+  "issuer": "Gelir İdaresi Başkanlığı",
+  "document_type": "ozelge",
+  "number": "84098128-125[5-2022/28]-620090",
+  "source_id": 27783,
+  "date": "2023-12-25",
+  "title": "Para Piyasası fon katılım paylarının fona iadesine KV istisnası.",
+  "source": "https://gib.gov.tr/mevzuat/kanun/435/ozelge/27783",
+  "related_law": "5520 sayılı KURUMLAR VERGİSİ KANUNU",
+  "source_api": "https://gib.gov.tr/api/gibportal/mevzuat/ozelge/list",
+  "source_listing": "evidence/list/2026-11-16/ozelge-p003.json",
+  "source_listing_sha256": "b8eb1aba686c15efb9ca96f819c840940788d8f48769f30127e032220fbff4ab",
+  "source_sha256": "a9d3f540706900d9ce1a8c2f09006b8fd26b52baff17e282b1f2d13cd3a50017",
+  "text_status": "as-enacted",
+  "text_file": "metin.md",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  }
+}
