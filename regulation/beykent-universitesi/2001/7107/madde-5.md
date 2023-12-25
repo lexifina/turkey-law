@@ -1,0 +1,4 @@
+Müdür
+Madde 5 — (Değişik: RG-13/3/2021-31422)
+Müdür Üniversitenin aylıklı ve devamlı statüdeki öğretim elemanları arasından Rektör tarafından üç yıl süre ile görevlendirilir. Görev süresi sona eren Müdür yeniden görevlendirilebilir. Müdür, görevlendirildiği aynı usul ile görevden alınabilir. Müdür çalışmalarında kendisine yardımcı olmak üzere, Üniversitenin aylıklı ve devamlı statüdeki öğretim elemanları arasından bir kişiyi Müdür Yardımcısı olarak görevlendirmek üzere Rektörün onayına sunar. Müdürün görevi sona erdiğinde Müdür Yardımcısının görevi de sona ermiş sayılır. Müdürün geçici olarak görevinden ayrılması halinde yerine Müdür Yardımcısı, o da bulunmadığı zamanlarda ise Yönetim Kurulu üyelerinin birisi vekâlet eder. Vekâlet altı aydan uzun sürerse yerine yeni Müdür görevlendirilir.
+Müdür, Merkezin çalışmalarının düzenli olarak yürütülmesinden ve geliştirilmesinden Rektöre karşı sorumludur.
