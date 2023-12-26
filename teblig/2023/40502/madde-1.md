@@ -1,0 +1,2 @@
+Amaç ve kapsam
+MADDE 1- (1) Bu Tebliğin amacı, 3907.69.00.00.00 gümrük tarife istatistik pozisyonunda yer alan eşyanın ithalatında 12/12/2023 tarihli ve 7952 sayılı Cumhurbaşkanı Kararı ile yürürlüğe konulan Polietilen Tereftalat Cips İthalatında Korunma Önlemi Uygulanmasına İlişkin Karar kapsamında, ek mali yükümlülük şeklinde uygulanan korunma önleminden muafiyet sağlanması amacıyla açılan tarife kontenjanının kullanım usul ve esaslarının düzenlenmesidir.
