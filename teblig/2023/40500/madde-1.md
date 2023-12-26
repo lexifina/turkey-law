@@ -1,0 +1,2 @@
+Amaç ve kapsam
+MADDE 1- (1) Bu Tebliğin amacı, yerli üretici Aschem Petrokimya Sanayi A.Ş. tarafından yapılan ve Dioki Petrokimya San. A.Ş. tarafından desteklenen başvuruya istinaden, İran İslam Cumhuriyeti menşeli 3903.19.00.00.00 gümrük tarife istatistik pozisyonu altında sınıflandırılan “diğerleri” (polistiren) ürününe yönelik yürürlükte bulunan dampinge karşı kesin önleme ilişkin olarak bir nihai gözden geçirme soruşturması açılması ve açılan soruşturmanın usul ve esaslarının belirlenmesidir.
