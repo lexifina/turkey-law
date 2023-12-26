@@ -1,0 +1,2 @@
+Mesleki standartlar
+MADDE 6 – (1) Serbest ormancılık ve orman ürünleri ile serbest yeminli ormancılık ve serbest yeminli orman ürünleri bürolarında çalışan meslek mensupları; görevlerini ifa ederken, mesleğin belirlenen standartlara uygun olarak yerine getirilmesini, bürolarda mesleki deneyim kazanmak amacıyla çalışan aday meslek mensuplarının mesleki standartlara uygun olarak yetiştirilmesini gözetirler.

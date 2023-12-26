@@ -1,0 +1,2 @@
+Orman ve yaban hayatı alanlarında av ve yaban hayvanlarının çoğaltılması ve envanter çalışması
+MADDE 38 – (1) Orman ve yaban hayatı alanlarında, 1/7/2003 tarihli ve 4915 sayılı Kara Avcılığı Kanunu kapsamında yer alan av ve yaban hayvanlarının, gerek korunarak ve gerekse üretme istasyonlarında üretilerek çoğaltılması, idarenin istekleri ve mevzuat doğrultusunda, periyodik zamanlarda, tekniğine uygun yöntemlerle envanterlerinin çıkartılması çalışmaları yapılır.

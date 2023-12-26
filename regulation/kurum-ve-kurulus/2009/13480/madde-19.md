@@ -1,0 +1,2 @@
+Ormanların bakımı ve iyileştirilmesi
+MADDE 19 – (1) Doğal ormanlar ile yapay ormanlardaki meşcerelerin, gelişme çağlarının ihtiyacı olan meşcere bakımı, sıklık bakımı, gençlik bakımı, kültür bakımı ve koruya tahvil çalışmaları silvikültürel esaslara uygun olarak yapılır. Belirlenen amaç doğrultusunda, hektardan azami verimi alacak fertlerin meşcereden seçilerek yaşama ortamının iyileştirilmesi, gerektiğinde çıkartılacak bireylerin işaretlenip tutanaklara yazılması ve meşcere direncinin artırılması çalışmaları gerçekleştirilir.

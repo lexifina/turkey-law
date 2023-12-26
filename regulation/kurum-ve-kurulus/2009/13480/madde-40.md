@@ -1,0 +1,2 @@
+Orman içi su kaynaklarının geliştirilmesine ilişkin işler
+MADDE 40 – (1) Orman ekosisteminin bir parçası olan orman içi su kaynaklarına yönelik su üretim fonksiyonuna ayrılan havzalardaki ormanların planlanması, projelendirilmesi, etüt ve envanterinin yapılması, projelere uygun teknik müdahalelerin yapılıp kaynağının geliştirilmesi ve kaynağın erozyondan korunması, kaynak ve dere yatağının korunması ve ıslah edilmesi, bu konuların planlanması ve projelendirilmesine yönelik faaliyetler yürütülür.

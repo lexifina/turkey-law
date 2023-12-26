@@ -1,0 +1,2 @@
+Orman ekosistemleriyle bağlantısı olan av ve yaban hayvanlarına ilişkin işler
+MADDE 39 – (1) Orman ve yaban hayatı ekosistemleriyle doğrudan ya da dolaylı habitat bağlantısı olan, yaban hayvanlarına ilişkin avlaklar ile koruma ve rezerv alanlarının tefriki, planlaması, tesisi, ve yönetimi işleri, Bakanlığın 4915 sayılı Kara Avcılığı Kanunu ve buna dayalı olarak yayınladığı alt düzenleyici işlemler ile belirlediği esas ve usuller doğrultusunda yerine getirilir.

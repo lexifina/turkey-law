@@ -1,0 +1,2 @@
+Orman ve ormancılıkla ilgili benzer iş ve hizmetler
+MADDE 66 – (1) Doğal ve yapay orman kurulması, ormanların bakımı iyileştirilmesi ve rehabilitasyonu amacıyla ormancılık faaliyetleri sonucunda çıkartılan dikili ağaçların yarı mamul hale getirilmeleri için kesilip soyulması, piyasa istekleri doğrultusunda boylanması, sınıflandırılması, ölçülmesi ve tutanaklara bağlanmasına yönelik teknik üretim hizmetleri yürütülür.

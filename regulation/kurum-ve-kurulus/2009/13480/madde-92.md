@@ -1,0 +1,3 @@
+Eksperlik yapmak
+MADDE 92 – (1) Ormancılık, orman endüstrisi ve ağaç işleri endüstrisine ilişkin olarak gerçek ve tüzel kişilerin eksperlik hizmeti ihtiyaçları Kanundaki tanıma uygun olarak yerine getirilir.
+(2) (Ek:RG-26/12/2023-32411) Ormancılık, orman endüstrisi ve ağaç işleri endüstrisi tesisleri ile hammadde, yarı mamul veya mamul orman ürünü kullanan sanayi tesislerinin veya ahşap ve ahşap türevlerini kullanan sanayi tesislerinin ve bu tesislere ait her türlü ahşap malzemeyi işleyen, şekil değiştiren, buharlama, kurutma, ısıl işlem ve zararlı organizmalara karşı koruma işlemi yapan tesis, makine ve fırınlara ait fizibilite raporları ve kapasite raporları düzenlenmesine ilişkin ekspertiz işlemleri yerine getirilir.

@@ -1,0 +1,2 @@
+Orman ekosistemlerinin kurulması
+MADDE 57 – (1) Ağaçlandırma, erozyonla mücadele, gençleştirme, rehabilitasyon, meşcere bakımları, mera ve havza ıslahı çalışmaları yapılırken; orman ekosisteminin canlı öğelerinin yetişme ve yaşamasını etkileyen ekolojik, hidrolojik, biyolojik, fiziki unsurlar dikkate alınarak, yetişme-yaşama ortamlarının planlanması, projelendirilmesi, proje uygulama çalışmalarıyla yeni orman ekosistemleri oluşturulur.

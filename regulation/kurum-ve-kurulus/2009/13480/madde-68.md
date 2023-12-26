@@ -1,0 +1,5 @@
+Yongalama, liflere ayırma, presleme, buharlama, kurutma, koruma ve emprenye etme sanayi işlemleri (Değişik başlık:RG-26/12/2023-32411)
+MADDE 68 – (1) Odun hammaddesi; yongalama, liflere ayırma, buharlama, kurutma, emprenye etme, ısıl işlem, bükme, ağaç malzeme konservasyonu, karantina ve fümigasyon işlemlerine tabi tutulur ve bunlara ilişkin sanayi tesisleri işletilir.
+(2) (Ek:RG-26/12/2023-32411) Orman ve orman ürünleri bitki ürünlerinin karantina ve fumigasyon işlemleri ve bu ürünlerin yurt dışına çıkış ve yurda giriş işlemlerine ait eksperlik ve onaylarının verilmesi iş ve işlemleri yapılır.
+(3) (Ek:RG-26/12/2023-32411) Ahşap binaların/yapıların ve ahşap ile ahşap esaslı yapı elemanlarının çürüklük, böcek zararı, rutubet etkisi, açık hava etkisi, kimyasal etkiler, mekanik yüklenmeler, fiziksel etkenler ve benzeri zararlar açısından incelenmesi yapılır, ilgili tetkik raporları hazırlanır ve uygulamaları yapılır.
+(4) (Ek:RG-26/12/2023-32411) Orman ve orman ürünleri bitki koruma ürünlerinin toptan veya perakende satışı ve uygulama işlemleri yapılır.

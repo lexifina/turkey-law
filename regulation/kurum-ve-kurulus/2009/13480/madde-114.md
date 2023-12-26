@@ -1,0 +1,3 @@
+Ortak yetki kullanımı
+MADDE 114 – (1) Meslek mensupları; bu Yönetmeliğin 108 inci maddesinin ikinci fıkrasında belirtilen hizmetleri tek başlarına, üçüncü fıkrasında belirtilen hizmetleri ise ilgili kanun, tüzük ve/veya yönetmelik hükümleriyle yetkilendirilmiş diğer meslek mensuplarıyla beraber yürütmeye yetkilidirler.
+(2) Bu Yönetmeliğin üçüncü bölümündeki meslek mensubu istihdamına ilişkin ilkeler; ormancılık, orman endüstrisi ve ağaç işleri endüstrisiyle uğraşan gerçek ve tüzel kişilerin mesleklerini ilgilendiren kısımlara ait olup, diğer mesleki disiplinlerin mevzuatlarında yer alan istihdam ilkelerine dair hükümler saklıdır.

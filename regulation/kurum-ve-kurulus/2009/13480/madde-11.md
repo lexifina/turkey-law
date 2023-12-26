@@ -1,0 +1,3 @@
+Ormancılık ve orman ürünleri büroları ile şirketler
+MADDE 11 – (1) Serbest meslek mensupları, Kanun ve bu Yönetmelikte belirtilen konulara ilişkin hak, yetki ve çalışmalarını serbest ormancılık ve serbest orman ürünleri büroları ile şirketler dışında kullanamazlar.
+(2) Ormancılık ve orman ürünleri büroları ile şirketler; mesleğin konusuyla ilgili alanlarda yapacakları faaliyetlerde, ruhsatlı meslek mensupları ile mesleki deneyim edinmek isteyen aday meslek mensuplarını istihdam ederler. Büro ve arazi hizmetlerinin gerçekleştirilmesinde yardımcı olmak amacıyla, ihtiyaca göre sorumlu müdür yönetiminde teknik ve idari personel çalıştırılabilir.

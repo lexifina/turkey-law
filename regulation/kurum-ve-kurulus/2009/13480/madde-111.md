@@ -1,0 +1,2 @@
+Serbest yeminli ormancılık ve serbest yeminli orman ürünleri büro çalışmaları
+MADDE 111 – (1) Serbest yeminli ormancılık büroları ve serbest yeminli orman ürünleri büroları, Kanunun 4 üncü maddesindeki faaliyet konularıyla sınırlı olmak üzere; 24/7/2009 tarihli ve 27298 sayılı Resmî Gazete’de yayımlanan Orman, Orman Endüstri, Ağaç İşleri Endüstri Mühendisliği Serbest Yeminli Meslek Mensupları Tüzüğü uyarınca faaliyette bulunurlar.

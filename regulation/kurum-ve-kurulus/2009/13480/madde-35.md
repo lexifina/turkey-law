@@ -1,0 +1,2 @@
+Orman içi, kenarı ve orman üst sınırı meralarına ilişkin çalışmalar
+MADDE 35 – (1) 25/2/1998 tarihli ve 4342 sayılı Mera Kanunu ile 31/8/1956 tarihli ve 6831 sayılı Orman Kanununun ilgili maddeleri uyarınca, orman içi, kenarı ve orman üst sınırı meralarının sınırlarının belirlenmesi, planlanması, ıslahı, kullanılması ve korunması çalışmaları, teknik esaslar ile idarenin mevzuatına uygun olarak yapılır.

@@ -1,0 +1,2 @@
+Orman yetişme ortamı analizi, envanteri ve haritalanması
+MADDE 37 – (1) Orman sayılan alanlar ile orman kurulması öngörülen alanların ekolojik, biyolojik ve istatistiki teknikler kullanılarak, analizlerinin yapılıp, yetişme ortamlarının belirlenmesi, yetişme ortamı, toprak ve vejetasyon envanterlerinin çıkarılarak sayısallaştırılması, mevcut haritalara işaretlenmesi ve raporlanması işleri yapılır.

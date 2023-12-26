@@ -1,0 +1,2 @@
+Kereste, ağaç kaplama levha, kâğıt, selüloz ve benzeri yarı mamulleri kullanmak
+MADDE 72 – (1) Orman ürünleri ve mobilya endüstrisinde; kereste, ağaç kaplama levha, kağıt, selüloz ve benzeri yarı mamulleri kullanılarak ahşap olmak kaydıyla mobilya, sabit ve hareketli mobilya, doğrama, kapı, pencere, yer döşemeleri, ahşap yapılar ve elemanlarının profil, lambri, kağıt ambalaj ürünleri imal edilir. Bunların tasarımı, projelendirilmesi ve kalite kontrolü yapılır ve bunlara ilişkin sanayi tesisleri işletilir.

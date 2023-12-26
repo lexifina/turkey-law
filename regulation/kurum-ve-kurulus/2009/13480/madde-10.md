@@ -1,0 +1,3 @@
+Kamu tüzel kişileri
+MADDE 10 – (Değişik:RG-26/12/2023-32411)
+(1) Kamu tüzel kişileri mesleki konularda yurt içi serbest piyasadan satın almaya ihtiyaç duydukları; mal, yapım, danışmanlık ve hizmet alımlarını, kamu ihale mevzuatına uygun olarak Odaya kayıtlı ve ruhsatlı meslek mensuplarınca oluşturulan ormancılık ve orman ürünleri büroları ya da şirketlerinden satın alabilirler. Ayrıca mesleki konularda mal, yapım ve hizmet alımlarını kamu ihale mevzuatına uygun olarak Odaya kayıtlı ve ruhsatlı meslek mensuplarını istihdam ederek veya ormancılık ve orman ürünleri büroları ya da şirketlerden hizmet sözleşmesi imzalayan şirketlerden de satın alabilirler. İhalelerde, uzmanlık alanlarına, uzmanlığa ve ortak alanlara dikkat edilir.

@@ -1,0 +1,2 @@
+Orman biyosfer rezerv alanlarının kurulması
+MADDE 60 – (1) İnsan ve aktiviteleri sonucunda oluşan kültürel, biyotik ve abiyotik süreçlerle ortaya çıkan doğal oluşumların seçkin örneklerini bünyesinde bulunduran orman alanlarının biyosfer rezerv alanları statüsünde korunmasını sağlamak amacıyla; bu alanların tefrik ve tespitine ilişkin raporlar hazırlanır. Bu alanlarla ilgili koruma, geliştirme, planlama, projelendirme ve uygulama çalışmaları yapılır.
