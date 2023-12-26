@@ -1,0 +1,5 @@
+Grip aşıları
+MADDE 12 – (1) 10 uncu maddedeki hükümlerin istisnası olarak, yıllık güncelleme amacıyla bir grip aşısının etkin maddesinde yapılan değişikliklere ilişkin varyasyonların incelenmesinde ikinci, üçüncü ve dördüncü fıkralardaki prosedür uygulanır:
+(2) Ruhsat sahibi tarafından, 17 nci maddeye istinaden hazırlanan ilgili kılavuzlarda koşulları belirtilmiş olan ve Ek-4’te listelenen belgeleri içeren başvuru Kuruma sunulur. Başvurunun bu fıkradaki gereklilikleri karşılaması halinde, Kurum tarafından geçerli bir başvuru alındığı ruhsat sahibine bildirilir.
+(3) Kurum sunulan başvuruyu değerlendirir. Gerekli görüldüğünde, Kurum tarafından değerlendirmenin tamamlanması için ruhsat sahibinden ek bilgi ve belgeler talep edilebilir.
+(4) Geçerli bir başvuru alındığı ruhsat sahibine bildirildikten sonra kırk beş gün içerisinde değerlendirme tamamlanarak 11 inci maddede belirtilen prosedür uygulanır. Ek bilgi ve belgelerin talep edildiği tarihten bu verilerin Kuruma sunulduğu tarihe kadar başvuru beklemeye alınır.

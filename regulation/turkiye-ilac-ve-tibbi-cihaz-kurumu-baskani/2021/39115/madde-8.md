@@ -1,0 +1,3 @@
+Tip IA küçük varyasyonlar için bildirim prosedürü
+MADDE 8 – (1) Ruhsat sahibi tarafından 17 nci maddeye istinaden hazırlanan ilgili kılavuzlarda koşulları belirtilmiş olan Tip IA küçük varyasyon için Ek-4’te liste halinde belirtilen belgeleri içeren bir bildirim, söz konusu varyasyonun uygulamaya geçilmesini takip eden on iki ay içerisinde Kuruma sunulur. Ancak, ilgili beşeri tıbbi ürüne ait derhâl bildirim yapılması gereken Tip IA küçük varyasyon olması durumunda, bu bildirim söz konusu varyasyon uygulamaya geçirildikten sonra derhâl Kuruma sunulur.
+(2) Kurum tarafından bildirim alındıktan sonraki otuz gün içinde, 11 inci maddede belirtilen prosedür uygulanır.

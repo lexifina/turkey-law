@@ -1,0 +1,2 @@
+Dayanak
+MADDE 3 – (1) Bu Yönetmelik; 14/5/1928 tarihli ve 1262 sayılı İspençiyari ve Tıbbi Müstahzarlar Kanununa, 7/5/1987 tarihli ve 3359 sayılı Sağlık Hizmetleri Temel Kanununun 3 üncü maddesinin birinci fıkrasının (k) bendine ve 15/7/2018 tarihli ve 4 sayılı Bakanlıklara Bağlı, İlgili, İlişkili Kurum ve Kuruluşlar ile Diğer Kurum ve Kuruluşların Teşkilatı Hakkında Cumhurbaşkanlığı Kararnamesinin 506 ncı, 507 nci, 508 inci ve 796 ncı maddesi hükümlerine dayanılarak hazırlanmıştır.

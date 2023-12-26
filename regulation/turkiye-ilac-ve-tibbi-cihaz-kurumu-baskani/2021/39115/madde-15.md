@@ -1,0 +1,4 @@
+Acil güvenlilik kısıtlamaları
+MADDE 15 – (1) Beşeri tıbbi ürünlerde halk sağlığı açısından risk bulunan ve acil güvenlilik kısıtlamalarının uygulamaya koyulmasını gerektiren durumlarda, ruhsat sahibi kendi inisiyatifi ile acil güvenlilik kısıtlamalarını uygulamaya koyar ve derhâl Kurumu bilgilendirir. Kurum bu bilgilerin alınmasından itibaren yirmi dört saat içerisinde herhangi bir geri bildirimde bulunmaz ise acil güvenlilik kısıtlamaları tüm sorumluluk ruhsat sahibinde olacak şekilde kabul edilmiş sayılır.
+(2) Beşeri tıbbi ürünlerde halk sağlığı açısından risk teşkil eden bir durumun ortaya çıkması halinde, Kurum tarafından ruhsat sahibine acil güvenlilik kısıtlamaları getirilir.
+(3) Acil güvenlilik kısıtlamasının ruhsat sahibi tarafından uygulamaya konması veya Kurum tarafından getirilmesi durumunda, ruhsat sahibi tarafından bu doğrultuda varyasyon başvurusu acil güvenlilik kısıtlamasının başlangıç tarihini takip eden on beş gün içerisinde Kuruma sunulur.

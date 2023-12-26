@@ -1,0 +1,46 @@
+{
+  "source_id": "7.5.39115",
+  "kind": "regulation",
+  "register_kind": "Kurum ve Kuruluş Yönetmelikleri",
+  "title": "RUHSATLI BEŞERİ TIBBİ ÜRÜNLERDEKİ VARYASYONLARA DAİR YÖNETMELİK",
+  "number": "39115",
+  "issuer": "Türkiye İlaç ve Tıbbi Cihaz Kurumu Başkanı",
+  "issuer_slug": "turkiye-ilac-ve-tibbi-cihaz-kurumu-baskani",
+  "path": "regulation/turkiye-ilac-ve-tibbi-cihaz-kurumu-baskani/2021/39115",
+  "source": "https://www.mevzuat.gov.tr/anasayfa/MevzuatFihristDetayIframe?MevzuatTur=7&MevzuatNo=39115&MevzuatTertip=5",
+  "source_sha256": "3096885caf71ea0044f2a1953b0af94ef3cfcf2a38f3b58cf9738ab1a7b0e2af",
+  "source_bytes": 55417,
+  "published": "2021-12-18",
+  "gazette": "31693",
+  "in_force": "2023-12-26",
+  "in_force_basis": "latest Resmî Gazete date printed in the source amendment notes/table (\"RG-26/12/2023\") for the current consolidated text",
+  "date_evidence": [
+    [
+      "2023-12-26",
+      "RG-26/12/2023",
+      "Resmî Gazete date printed in the source amendment note"
+    ],
+    [
+      "2023-12-26",
+      "26/12/2023",
+      "Resmî Gazete date in the source amendment table"
+    ]
+  ],
+  "commencement_clauses": [
+    "Bu Yönetmelik yayımı tarihinde yürürlüğe girer"
+  ],
+  "history": "current-text",
+  "label": "oldest version available",
+  "checked_on": "2026-11-15",
+  "word_count": 2625,
+  "text_status": "current-consolidated",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  },
+  "source_links": [
+    "7.5.39115-Ek.docx"
+  ],
+  "completeness": "html-text-complete; linked annexes not fetched"
+}

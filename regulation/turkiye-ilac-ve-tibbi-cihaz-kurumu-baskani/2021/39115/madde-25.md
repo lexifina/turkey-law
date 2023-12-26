@@ -1,0 +1,2 @@
+Avrupa Birliği mevzuatına uyum
+MADDE 25 – (1) Bu Yönetmelik, 24/11/2008 tarihli ve (AT) 1234/2008 sayılı Beşeri Tıbbi Ürünlerin ve Veteriner Tıbbi Ürünlerinin Ruhsat Koşullarında Yapılan Varyasyonların İncelenmesine Dair Komisyon Tüzüğü ve 6/11/2001 tarihli ve 2001/83/AT sayılı Beşeri Tıbbi Ürünler Hakkında Avrupa Parlamentosu ve Konsey Direktifi dikkate alınarak Avrupa Birliği mevzuatına uyum çerçevesinde hazırlanmıştır.
