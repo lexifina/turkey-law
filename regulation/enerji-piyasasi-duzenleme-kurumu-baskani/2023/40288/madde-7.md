@@ -1,0 +1,5 @@
+Alınacak tedbirler
+MADDE 7- (1) Dağıtım şirketi hakkında tedbir alınmasına ilişkin Kurul kararında belirtilmesi kaydıyla ilgili mevzuat hükümleri kapsamında; dağıtım lisansı sahibi tüzel kişinin yönetim kurulu veya tüzel kişiyi idare edenlerin, lisans sahibinin anonim şirket olmaması halinde ise ortaklar genel kurulu ve/veya tüzel kişiliği idare edenlerin bir kısmının veya tamamının geçici olarak değiştirilmesi suretiyle Kurul tarafından yerlerine yeni atama yapılabilir.
+(2) Kurul tarafından yapılan yeni atamaları, görev değişikliklerini, görevin kapsamını ve gerekli görülen diğer hususları içeren Kurul kararı dağıtım şirketine ve ilgililere tebliğ edilir.
+(3) Kurul tarafından alınan tedbirlerin yürütülmesi ve koordinasyonunu sağlamak üzere Başkan tarafından ihtiyaç görülmesi halinde Başkan Yardımcısı başkanlığında bir yürütme komisyonu kurulabilir.
+(4) Başkan tarafından gerekli görülmesi halinde, dağıtım şirketinin günlük rutin faaliyetlerini gözlemlemek ve verilecek diğer görevleri yerine getirmek üzere, dağıtım şirketi nezdinde uygun görülecek sayıda Kurum temsilcisi görevlendirilebilir.

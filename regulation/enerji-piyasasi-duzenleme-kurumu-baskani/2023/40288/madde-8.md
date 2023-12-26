@@ -1,0 +1,6 @@
+ÜÇÜNCÜ BÖLÜM
+Lisans İptali ve Şebeke Satış İhalesi
+Lisansın iptali ve şebeke satış ihalesi
+MADDE 8- (1) 5 inci, 6 ncı ve 7 nci maddeler çerçevesinde Kanunun 9 uncu maddesinin dördüncü fıkrası gereğince Denetim Yönetmeliği kapsamında yürütülen soruşturma sonucunda lisans iptalinin zorunlu hale geldiğinin tespiti halinde, dağıtım lisansı Kurul kararında belirtilen süre sonunda iptal edilir.
+(2) Kanunun 9 uncu maddesinin birinci fıkrasının (g) bendinde yer alan durumun gerçekleşmesi halinde yapılan lisans iptalleri ile Kanunun 9 uncu maddesinin ikinci fıkrasında belirtilen idari para cezası düzeyine ulaşılması ve bu durumun Kurul tarafından dağıtım lisansının iptalini gerektirdiği kanaatine ulaşılması halinde yapılan lisans iptalleri için de iptal kararının alınmasından sonra bu Yönetmelik hükümleri uygulanır.
+(3) Kurul tarafından lisans iptaline karar verilmesi halinde, alınan Kurul kararında yüz yirmi gün içerisinde şebeke satış ihalesine çıkılması ve diğer işlemlerin yerine getirilmesi konusunda bir ihale komisyonu kurulur. Aynı Kurul kararında, şebeke satışının gerçekleştirilerek yeni lisans sahibinin belirlenmesine kadar hizmetin aksamaması ve tüketicilerin korunması için alınacak tedbirlere de yer verilir. Eski lisans sahibinin yükümlülükleri ve sorumlulukları yeni lisansın verilme tarihine kadar devam eder.
