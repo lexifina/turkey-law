@@ -1,0 +1,8 @@
+İflâs idare memurunun görevlendirilmesi
+MADDE 6- (1) İcra mahkemesi; iflâs idaresini teşkil edecek üç kişiden ikisini alacak çoğunluğuna sahip olanların seçtiği dört aday arasından, birisini ise alacaklı çoğunluğunun seçtiği iki aday arasından görevlendirir. Görevlendirilecek iflâs idare memurlarından birinin hukukçu, birinin ise yeminli mali müşavir veya serbest muhasebeci mali müşavir olması zorunludur.
+(2) İcra mahkemesince görevlendirme yapılacağı sırada, adayların uhdesinde iflâs idare memurluğu görevi olup olmadığı UYAP üzerinden kontrol edilir. Uhdesinde beş dosya bulunan aday iflâs idare memuru olarak görevlendirilemez.
+(3) Hukukçu ile yeminli mali müşavir veya serbest muhasebeci mali müşavirler arasından seçilen iflâs idare memurlarının herhangi bir nedenle görevinin sona ermesi hâlinde, iflâs idaresinde aynı nitelikte başka bir iflâs idare memurunun bulunmadığı tespit edilir ise icra mahkemesince önceki adaylar arasından bu nitelikte iflâs idare memuru görevlendirilir.
+(4) Hukukçu ile yeminli mali müşavir veya serbest muhasebeci mali müşavir dışında görevlendirilmiş olan iflâs idare memurunun herhangi bir nedenle görevinin sona ermesi hâlinde ise icra mahkemesince önceki adaylar arasından iflâs idare memuru görevlendirilir.
+(5) Önceki adaylar arasından görevlendirme yapılamaması hâlinde iflâs dairesi tarafından alacaklılara yeni bir seçim gündemiyle toplanması için çağrı yapılır.
+(6) İcra mahkemesince görevlendirilen iflâs idare memurlarına görevlendirme kararı iflâs dairesince tebliğ edilir.
+(7) İcra mahkemesince, liste dışından gösterilen adayın iflâs idare memuru olarak görevlendirilmesi hâlinde bu durum icra mahkemesi tarafından bölge kuruluna bildirilir.

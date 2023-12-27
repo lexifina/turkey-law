@@ -1,0 +1,8 @@
+Eğitim kuruluşlarına izin verilmesi ve izin süresinin uzatılması
+MADDE 19- (1) İflâs idare memurluğu eğitimi Bakanlıkça izin verilmek kaydıyla; bünyesinde hukuk fakültesi bulunan üniversiteler ile Türkiye Barolar Birliği ve Türkiye Serbest Muhasebeci Mali Müşavirler ve Yeminli Mali Müşavirler Odaları Birliği tarafından verilir.
+(2) İzin verilen eğitim kuruluşlarının listesi Bakanlık tarafından elektronik ortamda yayımlanır.
+(3) İzin için başvuru Bakanlıkça belirlenecek usule göre yapılır. Başvuruda; eğitimin içeriğini ve sürelerini kapsar şekilde eğitim programı, eğiticilerin sayısı, ünvanları, uzmanlıkları ve yeterlilikleri ile eğitim verilecek mekânlar hakkında gerekçeli ve yeterli bilgiler verilir.
+(4) Bakanlık tarafından altmış gün içinde yapılacak inceleme sonucunda, eğitimin amacına ulaşıp ulaşmayacağı, eğitimin yapılacağı mekânların uygunluğu ve eğitim kuruluşlarında eğitim faaliyetinin devamlılığının sağlanıp sağlanmayacağı gözetilerek ilgili eğitim kuruluşuna en çok üç yıl için geçerli olmak üzere izin verilir. Başvuran kuruluşun aranılan nitelikleri taşımadığının tespiti hâlinde talep reddedilir ve ilgilisine bildirilir.
+(5) Eğitim kuruluşu, izin süresinin bitiminden en az iki ay önce bu sürenin uzatılması için başvurmak zorundadır.
+(6) Bakanlık tarafından, eğitim kuruluşunun 20 nci maddeye göre sunduğu raporlar ile yapılan denetime ilişkin raporların incelenmesi sonucunda, eğitimin belirlenen şartlar ve içerikte başarılı bir şekilde devam ettiğinin ve 21 inci maddede düzenlenen eğitim izninin iptalini gerektirir hâllerin bulunmadığının anlaşılması hâlinde, verilen izin üç yıla kadar uzatılabilir.
+(7) İzin süresi uzatılmayan eğitim kuruluşu listeden çıkarılır. Bu eğitim kuruluşuna ait belgeler dosyasında saklanır.
