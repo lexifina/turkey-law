@@ -1,0 +1,80 @@
+{
+  "source_id": "9.5.24742",
+  "kind": "communique",
+  "register_kind": "Tebliğler",
+  "title": "AVRUPA BİRLİĞİ MENŞELİ BAZI TARIM ÜRÜNLERİ İTHALATINDA TARİFE KONTENJANI UYGULANMASINA İLİŞKİN TEBLİĞ",
+  "number": "24742",
+  "issuer": "Ekonomi Bakanı",
+  "path": "teblig/2018/24742",
+  "source": "https://www.mevzuat.gov.tr/anasayfa/MevzuatFihristDetayIframe?MevzuatTur=9&MevzuatNo=24742&MevzuatTertip=5",
+  "source_sha256": "975a26f29810358f974fe212ceae25d28dad4ebf638b86e0c8c96ff4a7aa3bd6",
+  "source_bytes": 53255,
+  "published": "2018-07-07",
+  "gazette": "30471 Mükerrer",
+  "in_force": "2023-12-27",
+  "in_force_basis": "latest Resmî Gazete date printed in the source amendment notes/table (\"27/12/2023\") for the current consolidated text",
+  "date_evidence": [
+    [
+      "2023-12-27",
+      "27/12/2023",
+      "Resmî Gazete date in the source amendment table"
+    ],
+    [
+      "2022-12-17",
+      "17/12/2022",
+      "Resmî Gazete date in the source amendment table"
+    ],
+    [
+      "2021-12-23",
+      "RG-23/12/2021",
+      "Resmî Gazete date printed in the source amendment note"
+    ],
+    [
+      "2021-12-23",
+      "23/12/2021",
+      "Resmî Gazete date in the source amendment table"
+    ],
+    [
+      "2021-06-22",
+      "22/6/2021",
+      "Resmî Gazete date in the source amendment table"
+    ],
+    [
+      "2020-12-31",
+      "31/12/2020",
+      "Resmî Gazete date in the source amendment table"
+    ],
+    [
+      "2018-11-17",
+      "17/11/2018",
+      "Resmî Gazete date in the source amendment table"
+    ],
+    [
+      "2018-10-19",
+      "RG-19/10/2018",
+      "Resmî Gazete date printed in the source amendment note"
+    ],
+    [
+      "2018-10-19",
+      "19/10/2018",
+      "Resmî Gazete date in the source amendment table"
+    ]
+  ],
+  "commencement_clauses": [
+    "Bu Tebliğ yayımı tarihinde yürürlüğe girer"
+  ],
+  "history": "current-text",
+  "label": "oldest version available",
+  "checked_on": "2026-11-15",
+  "word_count": 2061,
+  "text_status": "current-consolidated",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  },
+  "source_links": [
+    "9.5.24742-Ek.doc"
+  ],
+  "completeness": "html-text-complete; linked annexes not fetched"
+}
