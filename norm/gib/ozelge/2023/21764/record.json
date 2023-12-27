@@ -1,0 +1,22 @@
+{
+  "kind": "norm",
+  "issuer": "Gelir İdaresi Başkanlığı",
+  "document_type": "ozelge",
+  "number": "21152195-130[28-2020.3060]-628990",
+  "source_id": 21764,
+  "date": "2023-12-27",
+  "title": "Binek otomobile ilişkin akaryakıt, onarım,bakım, tamir vb. giderlerin gider kısıtlamasına tabi olup olmayacağı ve aracın satışında KDV oranının nasıl uygulanacağı hk.",
+  "source": "https://gib.gov.tr/mevzuat/kanun/433/ozelge/21764",
+  "related_law": "193 sayılı GELİR VERGİSİ KANUNU",
+  "source_api": "https://gib.gov.tr/api/gibportal/mevzuat/ozelge/list",
+  "source_listing": "evidence/list/2026-11-16/ozelge-p000.json",
+  "source_listing_sha256": "5444faf84128246cd8dd8c6db754d41e2a11c7717342bfe0a07a35074d061761",
+  "source_sha256": "cedeebc3a789c29bd0e7c106bfd5ed8f586fa9015eaf1165ca79e27edf3ab7df",
+  "text_status": "as-enacted",
+  "text_file": "metin.md",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  }
+}
