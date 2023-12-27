@@ -1,0 +1,31 @@
+{
+  "source_id": "7.5.40508",
+  "kind": "regulation",
+  "register_kind": "Kurum ve Kuruluş Yönetmelikleri",
+  "title": "TÜRKİYE İNSAN HAKLARI VE EŞİTLİK KURUMU PERSONELİ GÖREVDE YÜKSELME VE UNVAN DEĞİŞİKLİĞİ YÖNETMELİĞİ",
+  "number": "40508",
+  "issuer": "İnsan Hakları ve Eşitlik Kurumu Başkanı",
+  "issuer_slug": "insan-haklari-ve-esitlik-kurumu-baskani",
+  "path": "regulation/insan-haklari-ve-esitlik-kurumu-baskani/2023/40508",
+  "source": "https://www.mevzuat.gov.tr/anasayfa/MevzuatFihristDetayIframe?MevzuatTur=7&MevzuatNo=40508&MevzuatTertip=5",
+  "source_sha256": "ed83b0127d1ee9fc82d96d18c4068be8a028926d537754727eebe0fd3112cd91",
+  "source_bytes": 59288,
+  "published": "2023-12-27",
+  "gazette": "32412",
+  "in_force": "2023-12-27",
+  "in_force_basis": "Resmî Gazete publication date in the official listing (27.12.2023); own commencement article: \"Bu Yönetmelik yayımı tarihinde yürürlüğe girer\"",
+  "commencement_clauses": [
+    "Bu Yönetmelik yayımı tarihinde yürürlüğe girer"
+  ],
+  "history": "current-text",
+  "label": "oldest version available",
+  "checked_on": "2026-11-15",
+  "word_count": 2977,
+  "text_status": "current-consolidated",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  },
+  "completeness": "html-text-complete"
+}
