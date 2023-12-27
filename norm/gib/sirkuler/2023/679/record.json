@@ -1,0 +1,22 @@
+{
+  "kind": "norm",
+  "issuer": "Gelir İdaresi Başkanlığı",
+  "document_type": "sirkuler",
+  "number": "VUK-162/2023-13",
+  "source_id": 679,
+  "date": "2023-12-27",
+  "title": "Deprem nedeniyle 213 sayılı Vergi Usul Kanununun 13 üncü maddesi kapsamında değerlendirilerek mücbir sebep ilan edilen Adıyaman, Hatay, Kahramanmaraş, Malatya illeri ve Gaziantep İlinin İslahiye ve Nurdağı ilçelerindeki mükelleflerin, 531 Sıra ...",
+  "source": "https://gib.gov.tr/mevzuat/kanun/434/sirkuler/679",
+  "related_law": "213 sayılı VERGİ USUL KANUNU",
+  "source_api": "https://gib.gov.tr/api/gibportal/mevzuat/sirkuler/list",
+  "source_listing": "evidence/list/2026-11-16/sirkuler-p000.json",
+  "source_listing_sha256": "60c9b519ec13187d56f9a7863ce3934a7fb9c37357209b90158ca6acfcc95b41",
+  "source_sha256": "1bf8e2238de0213af0504352e766ec6f565a55edc12fe652abc9a15c2ba86e54",
+  "text_status": "as-enacted",
+  "text_file": "metin.md",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  }
+}
