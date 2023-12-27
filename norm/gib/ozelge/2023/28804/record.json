@@ -1,0 +1,22 @@
+{
+  "kind": "norm",
+  "issuer": "Gelir İdaresi Başkanlığı",
+  "document_type": "ozelge",
+  "number": "62030549-125-1529434",
+  "source_id": 28804,
+  "date": "2023-12-27",
+  "title": "Vade sonunda yenilenmeyen kur korumalı mevduat hesaplarına ilişkin istisna uygulaması",
+  "source": "https://gib.gov.tr/mevzuat/kanun/435/ozelge/28804",
+  "related_law": "5520 sayılı KURUMLAR VERGİSİ KANUNU",
+  "source_api": "https://gib.gov.tr/api/gibportal/mevzuat/ozelge/list",
+  "source_listing": "evidence/list/2026-11-16/ozelge-p004.json",
+  "source_listing_sha256": "f3b82278308562f88be46cc93b2ac53a1050d59c304474af958f8b7377f5bef9",
+  "source_sha256": "69843b02c6dd368c53053d118c37c3f12785dc6ff57f69077d6fba2aa6a87d4a",
+  "text_status": "as-enacted",
+  "text_file": "metin.md",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  }
+}
