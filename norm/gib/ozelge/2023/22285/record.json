@@ -1,0 +1,22 @@
+{
+  "kind": "norm",
+  "issuer": "Gelir İdaresi Başkanlığı",
+  "document_type": "ozelge",
+  "number": "96620903-125-226531",
+  "source_id": 22285,
+  "date": "2023-12-27",
+  "title": "Home Ofis Olarak Kiraladıkları İşyerine Ait Elektrik, Su v.b. Giderlerin TUGS'a Kayıtlı Teknenin İşletilmesinden Elde Edilen Kazançtan İndirilip İndirilemeyeceği Hakkında",
+  "source": "https://gib.gov.tr/mevzuat/kanun/435/ozelge/22285",
+  "related_law": "5520 sayılı KURUMLAR VERGİSİ KANUNU",
+  "source_api": "https://gib.gov.tr/api/gibportal/mevzuat/ozelge/list",
+  "source_listing": "evidence/list/2026-11-16/ozelge-p000.json",
+  "source_listing_sha256": "5444faf84128246cd8dd8c6db754d41e2a11c7717342bfe0a07a35074d061761",
+  "source_sha256": "fb0202127c710f8dbaaee2cb9dd8eaad2f2947de2e0a8d3f374c03af8339c101",
+  "text_status": "as-enacted",
+  "text_file": "metin.md",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  }
+}
