@@ -1,0 +1,22 @@
+{
+  "kind": "norm",
+  "issuer": "Gelir İdaresi Başkanlığı",
+  "document_type": "ozelge",
+  "number": "84098128-120.01.02.01[37-2018/7]-629513",
+  "source_id": 20735,
+  "date": "2023-12-27",
+  "title": "Teknoloji Geliştirme Bölgesinde faaliyette bulunan mükellefin geliştirip tamamlamış olduğu yazılım projesinden elde ettiği kazançlara ilişkin gelir vergisi ile KDV İstisnası",
+  "source": "https://gib.gov.tr/mevzuat/kanun/433/ozelge/20735",
+  "related_law": "193 sayılı GELİR VERGİSİ KANUNU",
+  "source_api": "https://gib.gov.tr/api/gibportal/mevzuat/ozelge/list",
+  "source_listing": "evidence/list/2026-11-16/ozelge-p000.json",
+  "source_listing_sha256": "5444faf84128246cd8dd8c6db754d41e2a11c7717342bfe0a07a35074d061761",
+  "source_sha256": "e92f5324c61f8a7140503cb448fbcf357214b6e358b57d6a49baad540d27e3e8",
+  "text_status": "as-enacted",
+  "text_file": "metin.md",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  }
+}
