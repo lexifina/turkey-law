@@ -1,0 +1,2 @@
+Eğitim kuruluşları için muafiyet
+GEÇİCİ MADDE 4- (1) Bu Yönetmeliğin yürürlüğe girdiği tarihten önce yetki belgesi almış mevcut eğitim kuruluşları, 6 ncı maddenin birinci fıkrasının (a) bendinde yer alan sınıf büyüklüğü ile ilgili hüküm ve beşinci fıkrasındaki hükümlerden muaftır. Ancak, bu Yönetmeliğin yürürlüğe girdiği tarihten sonra adres değişikliği yapmaları halinde bu şartlara uymak zorundadır. Bununla birlikte, mevcut fiziki şartlarında değişiklik yapan eğitim kuruluşları, bu durumu İdareye bildirmek ve bu madde hükümlerine uymak zorundadır.

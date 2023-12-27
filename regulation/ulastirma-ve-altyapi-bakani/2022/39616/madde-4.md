@@ -1,0 +1,33 @@
+Tanımlar ve kısaltmalar
+MADDE 4- (1) Bu Yönetmelikte geçen;
+a) ADR: Tehlikeli Malların Karayolu ile Uluslararası Taşımacılığına İlişkin Anlaşmayı,
+b) Bakanlık: Ulaştırma ve Altyapı Bakanlığını,
+c) Bölge Müdürlüğü: Ulaştırma ve Altyapı Bakanlığı bölge müdürlüklerini,
+ç) Eğitim kuruluşu: İdare tarafından eğitim vermek üzere yetkilendirilmiş gerçek ve tüzel kişileri,
+d) Eğitim merkezi: İdare tarafından yetkilendirilen eğitim kuruluşlarının eğitim düzenlediği yeri,
+e) Geçici durdurma: Bu Yönetmelikle belirlenen şartların geçici olarak kaybedilmesi nedeniyle, kişi adına düzenlenmiş tehlikeli mal taşımacılığı sürücü eğitimi sertikasının (SRC-5) kullanımının geçici süreyle engellenmesini,
+f) IMDG Kod: Denizyoluyla Taşınan Tehlikeli Yüklere İlişkin Uluslararası Kodu,
+g) İdare: Ulaştırma Hizmetleri Düzenleme Genel Müdürlüğünü,
+ğ) İtiraz Komisyonu: TMGD ve SRC-5 sınavları sonucu adayların yapmış olduğu itirazları değerlendirmek üzere İdare tarafından oluşturulan komisyonu,
+h) Mesleki Saygınlık: Bu Yönetmelik kapsamında faaliyette bulunacak sürücü, tehlikeli madde güvenlik danışmanı, eğitici ile gerçek kişilerin ve/veya tüzel kişiliklerdeki sahip, ortak, yönetici ve sorumlu kişilerin;
+1) Devletin güvenliğine karşı suçlar, anayasal düzene ve bu düzenin işleyişine karşı suçlar, zimmet, irtikap, rüşvet, hırsızlık, dolandırıcılık, sahtecilik, güveni kötüye kullanma, hileli iflas, ihaleye fesat karıştırma, edimin ifasına fesat karıştırma, suçtan kaynaklanan mal varlığı değerlerini aklama, terörizmin finansmanı veya kaçakçılık suçlarından mahkum olmaması,
+2) 26/9/2004 tarihli ve 5237 sayılı Türk Ceza Kanununun 81 inci, 102 nci, 103 üncü, 104 üncü, 105 inci, 109 uncu, 179 uncu maddesinin üçüncü fıkrası, 188 inci, 190 ıncı, 191 inci, 226 ncı ve 227 nci maddelerindeki suçlardan hüküm giymemiş olması veya devam etmekte olan bir kovuşturması bulunmaması ya da kovuşturması uzlaşmayla neticelenmemiş olması,
+3) Terör örgütlerine veya Milli Güvenlik Kurulunca Devletin milli güvenliğine karşı faaliyette bulunduğuna karar verilen yapı, oluşum veya gruplara üyeliği, mensubiyeti, iltisakı veya irtibatı bulunmaması,
+şartlarına sahip olmayı,
+ı) RID: Uluslararası Demiryolu Taşımalarına İlişkin Sözleşmenin (COTIF) C ana eki olan Tehlikeli Eşyanın Demiryolu ile Uluslararası Taşımasına İlişkin Yönetmeliği,
+i) Sınav Komisyonu: TMGD ve SRC-5 sınavlarına ilişkin sınav sorularını hazırlamak üzere İdarece oluşturulan komisyonu,
+j) SRC-5 Sınavı: Tehlikeli Mal Taşımacılığı Sürücü Eğitim Sertifikası almak için sürücülere İdare tarafından yapılan/yaptırılan sınavı,
+k) SRC-5 Eğitici Belgesi: Eğitim merkezlerinde tehlikeli mal taşıyan araç sürücülerine SRC-5 Eğitimi verecek kişilere İdare tarafından düzenlenen belgeyi,
+l) Tehlikeli madde: ADR/RID/IMDG Kod kapsamındaki maddeleri,
+m) Tehlikeli Madde Güvenlik Danışmanı (TMGD): Bakanlık tarafından Tehlikeli Madde Güvenlik Danışmanı Sertifikası düzenlenerek yetkilendirilen gerçek kişiyi,
+n) Tehlikeli Madde Güvenlik Danışmanı Eğiticisi (TMGDE): Tehlikeli madde güvenlik danışmanlığı eğitimi vermek üzere İdare tarafından yetkilendirilen kişiyi,
+o) Tehlikeli Madde Güvenlik Danışmanı Eğitici Belgesi (TMGDEB): TMGD eğitimi vermek üzere İdare tarafından yetkilendirilen eğiticilere düzenlenen belgeyi,
+ö) Tehlikeli Madde Güvenlik Danışmanı Eğitim Kuruluşu Yetki Belgesi (TMGDEKYB): TMGD eğitimi vermek amacıyla İdare tarafından yetkilendirilen eğitim kuruluşlarına düzenlenen belgeyi,
+p) Tehlikeli Madde Güvenlik Danışmanı Sertifikası (TMGDS): İdare tarafından yetkilendirilen eğitim merkezlerinde TMGD eğitimini alarak Bakanlıkça yapılan sınavda başarılı olmuş kişilere düzenlenen sertifikayı,
+r) Tehlikeli Madde Güvenlik Danışmanı Sınavı: Tehlikeli Madde Güvenlik Danışmanı Sertifikası alacaklara Bakanlık tarafından yapılan/yaptırılan sınavı,
+s) Tehlikeli Madde Taşımacılığı Eğitim Kuruluşu Yetki Belgesi (TMTEKYB): Tehlikeli madde taşıyan araç sürücülerine eğitim vermek üzere faaliyette bulunacak gerçek ve tüzel kişilere Bakanlıkça düzenlenen yetki belgesini,
+ş) Tehlikeli Mal Taşımacılığı Sürücü Eğitim Sertifikası (SRC-5 Belgesi): Tehlikeli mal taşıyan araçları kullanan sürücülerin alması gereken sertifikayı,
+t) U-Net Otomasyon Sistemi: Bakanlık otomasyon sistemini,
+u) Yedek Eğitici: Eğitim kuruluşlarınca düzenlenen eğitim programlarında e-Devlet Sistemi üzerinden ihtiyaten İdareye bildirilen eğiticiyi,
+ifade eder.
+(2) Bu Yönetmelikte yer alan ancak birinci fıkrada tanımlanmayan ifadeler için ADR/RID/IMDG ve mevzuatta belirtilen tanımlar esas alınır.

@@ -1,0 +1,40 @@
+{
+  "source_id": "7.5.39616",
+  "kind": "regulation",
+  "register_kind": "Kurum ve Kuruluş Yönetmelikleri",
+  "title": "TEHLİKELİ MADDE GÜVENLİK DANIŞMANLIĞI VE TEHLİKELİ MAL TAŞIMACILIĞI SÜRÜCÜ EĞİTİMİ YÖNETMELİĞİ",
+  "number": "39616",
+  "issuer": "Ulaştırma ve Altyapı Bakanı",
+  "issuer_slug": "ulastirma-ve-altyapi-bakani",
+  "path": "regulation/ulastirma-ve-altyapi-bakani/2022/39616",
+  "source": "https://www.mevzuat.gov.tr/anasayfa/MevzuatFihristDetayIframe?MevzuatTur=7&MevzuatNo=39616&MevzuatTertip=5",
+  "source_sha256": "3dbe7b9850c0f3d26c2e007100f30bf24a9aac3ea4dfbda5836b224d1d2d9317",
+  "source_bytes": 141115,
+  "published": "2022-07-06",
+  "gazette": "31888",
+  "in_force": "2023-12-27",
+  "in_force_basis": "latest Resmî Gazete date printed in the source amendment notes/table (\"RG-27/12/2023\") for the current consolidated text",
+  "date_evidence": [
+    [
+      "2023-12-27",
+      "RG-27/12/2023",
+      "Resmî Gazete date printed in the source amendment note"
+    ],
+    [
+      "2023-12-27",
+      "27/12/2023",
+      "Resmî Gazete date in the source amendment table"
+    ]
+  ],
+  "history": "current-text",
+  "label": "oldest version available",
+  "checked_on": "2026-11-15",
+  "word_count": 8084,
+  "text_status": "current-consolidated",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  },
+  "completeness": "html-text-complete"
+}
