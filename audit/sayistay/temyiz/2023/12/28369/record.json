@@ -1,0 +1,16 @@
+{
+  "kind": "decision",
+  "issuer": "Sayıştay Temyiz Kurulu",
+  "number": "56274",
+  "decision_date": "2023-12-27",
+  "source_id": 28369,
+  "chamber": "3",
+  "file_number": "53185",
+  "public_body_type": "Belediyeler ve Bağlı İdareler",
+  "account_year": "2018",
+  "subject": "İhale Mevzuatı ile İlgili Kararlar",
+  "source": "https://www.sayistay.gov.tr/KararlarTemyiz/Detay/28369/",
+  "source_sha256": "89d80ec0ec50878cb22782487243b6971043883cbdf47f0156356f0e7cc20732",
+  "text_status": "as-enacted",
+  "text_file": "metin.md"
+}
