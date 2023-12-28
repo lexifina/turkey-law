@@ -1,0 +1,27 @@
+{
+  "kind": "norm",
+  "issuer": "Enerji Piyasası Düzenleme Kurumu",
+  "market": "electricity",
+  "document_type": "board-decision",
+  "number": "12316",
+  "decision_date": "2023-12-28",
+  "title": "Türkiye Elektrik İletim Anonim Şirketi tarafından 1/1/2024 tarihinden itibaren uygulanacak iletim sistem kullanım ve sistem işletim tarifeleri hk",
+  "resmi_gazete_date": "2023-12-30",
+  "resmi_gazete_number": "32415",
+  "categories": [
+    "TEİAŞ"
+  ],
+  "source": "https://www.epdk.gov.tr/Detay/DownloadDocument?id=tI9KF2OHXPQ=",
+  "documents": [
+    "https://www.epdk.gov.tr/Detay/DownloadDocument?id=tI9KF2OHXPQ=",
+    "https://www.epdk.gov.tr/Detay/DownloadDocument?id=zbWf9jEL2A8=",
+    "https://www.epdk.gov.tr/Detay/DownloadDocument?id=6uPrIRS15Ys="
+  ],
+  "source_sha256": "df971418cf7dceb943670821b04c39d50609c3c207c9e9e4b182d481bc0b0ec7",
+  "official_list": "https://www.epdk.gov.tr/Detay/Icerik/3-0-39/kurul-kararlari-",
+  "official_list_leaf": 1520,
+  "text_status": "as-enacted",
+  "text_file": "metin.md",
+  "in_force": "2023-12-28",
+  "law_text_complete": true
+}
