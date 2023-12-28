@@ -1,0 +1,25 @@
+{
+  "kind": "norm",
+  "issuer": "Enerji Piyasası Düzenleme Kurumu",
+  "market": "electricity",
+  "document_type": "board-decision",
+  "number": "12302-11",
+  "decision_date": "2023-12-28",
+  "title": "1/1/2024 tarihinden itibaren uygulanan bağlantı bedelleri",
+  "resmi_gazete_date": "2023-12-30",
+  "resmi_gazete_number": "32415 (2. Mükerrer)",
+  "categories": [
+    "Bağlantı Bedeli"
+  ],
+  "source": "https://www.epdk.gov.tr/Detay/DownloadDocument?id=8z4oRkw2k0U=",
+  "documents": [
+    "https://www.epdk.gov.tr/Detay/DownloadDocument?id=8z4oRkw2k0U="
+  ],
+  "source_sha256": "f67c7387441f8cc7146459caf5ee0db46f3395da5b9165a2566679ab836777e2",
+  "official_list": "https://www.epdk.gov.tr/Detay/Icerik/3-0-39/kurul-kararlari-",
+  "official_list_leaf": 1851,
+  "text_status": "as-enacted",
+  "text_file": "metin.md",
+  "in_force": "2023-12-28",
+  "law_text_complete": true
+}
