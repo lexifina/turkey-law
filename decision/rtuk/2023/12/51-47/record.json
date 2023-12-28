@@ -1,0 +1,15 @@
+{
+  "issuer": "Radyo ve Televizyon Üst Kurulu (RTÜK)",
+  "record_type": "Üst Kurul Kararı",
+  "meeting": "2023/51",
+  "meeting_date": "2023-12-28",
+  "meeting_date_as_published": "28.12.2023",
+  "decision_no": "47",
+  "source_id": 19996,
+  "title": "RTÜK kararı 2023/51-47",
+  "source": "https://www.rtuk.gov.tr/UstKurulKarar/Detay/19996",
+  "source_sha256": "5761105287f0c874b283129c7a43f2c48ff5b84944e9b731b1271c5d6c211fe0",
+  "text_status": "metadata-only",
+  "metadata_only_reason": "possible private person name(s) in the official text (8 match(es)); full text withheld, official link only",
+  "law_text_complete": false
+}
