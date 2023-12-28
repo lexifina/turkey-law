@@ -1,0 +1,25 @@
+{
+  "kind": "norm",
+  "issuer": "Enerji Piyasası Düzenleme Kurumu",
+  "market": "electricity",
+  "document_type": "board-decision",
+  "number": "12295",
+  "decision_date": "2023-12-28",
+  "title": "2024 yılı için uygulanacak serbest tüketici limiti",
+  "resmi_gazete_date": "2023-12-30",
+  "resmi_gazete_number": "32415",
+  "categories": [
+    "Serbest Tüketici"
+  ],
+  "source": "https://www.epdk.gov.tr/Detay/DownloadDocument?id=0+KdN83qvHg=",
+  "documents": [
+    "https://www.epdk.gov.tr/Detay/DownloadDocument?id=0+KdN83qvHg="
+  ],
+  "source_sha256": "9fd5f8579c519b011192e6c7fb10d99597510955d1c19e1b8c2f9d88d312cfbd",
+  "official_list": "https://www.epdk.gov.tr/Detay/Icerik/3-0-39/kurul-kararlari-",
+  "official_list_leaf": 33857,
+  "text_status": "metadata-only",
+  "metadata_only_reason": "no text layer (image-only PDF; no OCR)",
+  "in_force": "2023-12-28",
+  "law_text_complete": false
+}
