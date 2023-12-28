@@ -1,0 +1,22 @@
+{
+  "kind": "norm",
+  "issuer": "Gelir İdaresi Başkanlığı",
+  "document_type": "ozelge",
+  "number": "96620903-125-226850",
+  "source_id": 27781,
+  "date": "2023-12-28",
+  "title": "Kira Sertifikası Katılım Fonu Alım Satımından Doğan Kazancın Kurumlar Vergisi İstisnası Hakkında",
+  "source": "https://gib.gov.tr/mevzuat/kanun/435/ozelge/27781",
+  "related_law": "5520 sayılı KURUMLAR VERGİSİ KANUNU",
+  "source_api": "https://gib.gov.tr/api/gibportal/mevzuat/ozelge/list",
+  "source_listing": "evidence/list/2026-11-16/ozelge-p003.json",
+  "source_listing_sha256": "b8eb1aba686c15efb9ca96f819c840940788d8f48769f30127e032220fbff4ab",
+  "source_sha256": "ee3994b6348f4eb9ea8dcd6dfe345b06790fe6e4ef40fab82ab308e218312a87",
+  "text_status": "as-enacted",
+  "text_file": "metin.md",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  }
+}
