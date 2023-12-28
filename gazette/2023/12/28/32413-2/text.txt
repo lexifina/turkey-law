@@ -1,0 +1,537 @@
+28 Aralık 2023 PERŞEMBE
+Resmî Gazete
+Sayı : 32413
+YÖNETMELİK
+Enerji Piyasası Düzenleme Kurumundan:
+ELEKTRİK PİYASASI ÖLÇÜM SİSTEMLERİ YÖNETMELİĞİ
+BİRİNCİ BÖLÜM
+Başlangıç Hükümleri
+Amaç ve
+kapsam
+MADDE 1- (1) Bu Yönetmeliğin amacı; elektrik piyasasında lisanslı
+ve lisanssız üretim faaliyetleri ile tüketim amaçlı kullanılan ölçüm
+sistemleri kapsamında yer alan sayaçlar dahil olmak üzere tüm ölçüm
+sistemlerinin belirlenmesine, gerekli teçhizatın kurulmasına, bu sistemler
+vasıtasıyla elde edilen verilerin işlenmesi ve paylaşımına ilişkin esaslar
+ile tarafların görev, yetki ve sorumluluklarının belirlenmesidir.
+(2) Bu Yönetmelik; elektrik piyasasında lisanslı ve
+lisanssız üretim faaliyetleri ile tüketim amaçlı kullanılan ölçüm
+sistemleri kapsamında yer alan sayaçlar dahil olmak üzere tüm ölçüm
+sistemlerinin belirlenmesi, kurulumu ve işletilmesine ilişkin hususlar ile
+tarafların görev, yetki ve sorumluluklarını kapsar.
+Dayanak
+MADDE 2- (1) Bu Yönetmelik, 14/3/2013 tarihli ve 6446
+sayılı Elektrik Piyasası Kanununa dayanılarak hazırlanmıştır.
+Tanımlar
+ve kısaltmalar
+MADDE 3- (1) Bu Yönetmelikte geçen;
+a) Akıllı sayaç: Temel teknik özellikleri, ilgisine
+göre TEİAŞ veya TEDAŞ tarafından hazırlanan teknik şartnamelerde belirlenen
+ve aktif veya aktif-reaktif elektrik enerjisini ölçebilen sayaçları,
+b) Akıllı Sayaç EKO: Akıllı Sayaç PRO’ya göre
+kısıtlı özelliklere sahip akıllı sayaçları,
+c) Akıllı Sayaç PRO: İki yönlü veri haberleşmesini
+destekleyen ve teknik şartnamesinde tanımlanan ilave özellikleri taşıyan
+akıllı sayaçları,
+ç) Akıllı sayaç teknik şartnamesi: İlgisine göre
+teknik mevzuatı kapsamında TEİAŞ veya TEDAŞ tarafından oluşturulan
+şartnameyi,
+d) Aktif enerji: Aktif gücün zamanla çarpımından
+elde edilen ve Wh birimiyle ölçülen enerjiyi,
+e) Aktif güç: Gerilim, akım ve aralarındaki faz
+açısının kosinüsü ile çarpımından elde edilen ve Watt birimi ile ölçülen
+gücü,
+f) Birlikte çalışabilirlik testleri: Sayaç,
+uçbirim, modem ve merkezi haberleşme yazılımlarının üretici firma (marka ve
+model) bağımlılığı olmadan, güvenli, verimli ve kesintisiz bir şekilde
+birlikte çalışabilmesi için standartlaştırılmış donanım ve yazılım uyum
+testlerini,
+g) Dağıtım sistemi: Bir dağıtım şirketinin,
+lisansında belirlenmiş dağıtım bölgesinde işlettiği elektrik dağıtım
+tesisleri ve şebekesini,
+ğ) Dağıtım şirketi: Belirlenen bir bölgede elektrik
+dağıtımı ile iştigal eden dağıtım lisansı sahibi tüzel kişiyi,
+h) Demand: Belirlenen zaman aralıklarında ölçülen
+ortalama aktif güç değerlerini,
+ı) Depolamalı elektrik üretim tesisi: Kanunun 7 nci
+maddesinin onuncu ve on birinci fıkraları kapsamında kurulan üretim
+tesisini,
+i) DUY: 14/4/2009 tarihli ve 27200 sayılı Resmî
+Gazete’de yayımlanan Elektrik Piyasası Dengeleme ve Uzlaştırma
+Yönetmeliğini,
+j) Elektrik depolama tesisi: Elektrik enerjisini
+başka bir enerji türüne çevirerek depolayabilen ve depolanan enerjiyi
+kullanılmak üzere tekrar elektrik enerjisine çevirerek sisteme verebilen
+tesisi,
+k) Fider: Bir merkez barasından kullanıcıya enerji
+taşıyan hat veya kablo çıkışlarını,
+l) Haberleşme protokolü: Merkezi haberleşme
+yazılımı ile modemler arasındaki şeffaf veya yönergeli olarak haberleşmeyi
+tanımlayan bağımsız uygulama protokolünü,
+m) İlgili mevzuat: Elektrik piyasasına ilişkin
+kanun, Cumhurbaşkanlığı kararnamesi, Cumhurbaşkanı kararı, yönetmelik, tebliğ,
+genelge ve Kurul kararlarını,
+n) İlgili standart: Ölçüm sistemlerinde
+kullanılacak teçhizat, bağlantı sistemi ve performans kriterlerine ilişkin
+olan öncelik sırasına göre TS, EN, IEC, ISO ve diğer uluslararası
+standartları,
+o) Kanun: 14/3/2013 tarihli ve 6446 sayılı Elektrik
+Piyasası Kanununu,
+ö) Kullanıcı: İletim veya dağıtım sistemine
+bağlanan ya da bu sistemleri veya enterkonneksiyon hatlarını kullanan
+gerçek veya tüzel kişiyi,
+p) Kurul: Enerji Piyasası Düzenleme Kurulunu,
+r) Kurum: Enerji Piyasası Düzenleme Kurumunu,
+s) Merkezi Haberleşme Yazılımı (Headend): Dağıtım
+şirketinin kendi bünyesinde bulunan ve sayaç veya uçbirimlerden gelen
+verilerin modemler üzerinden Müşteri Bilgi Sistemi, Kesinti Yönetim Sistemi
+ve benzeri sistemlere aktarılmasını ve bu sistemlerden sayaç veya
+uçbirimlere veri gönderimini sağlayan yazılım ve donanımların bütününü,
+ş) Milli Akıllı Sayaç Sistemi (MASS): Elektrik
+dağıtım sisteminde kullanılan sayaç ve/veya uçbirim ile merkezi haberleşme
+yazılımı arasında haberleşme protokolü çerçevesinde uzaktan iki yönlü veri
+haberleşmesini mümkün kılan, verilerin doğrulanması, saklanması, işlenmesi
+ve son kullanıcı dahil ilgili taraflara sunulması amacıyla gerekli yazılım,
+donanım ve iletişim altyapısını kapsayan akıllı sayaç sistemini,
+t) Modem: Temel teknik özellikleri ilgisine göre
+TEİAŞ veya TEDAŞ tarafından hazırlanan teknik şartnamelerde belirlenen
+haberleşme ünitelerini,
+u) Ölçü devresi: Sayaçlar hariç ölçüm sistemini
+oluşturan tesisi,
+ü) Ölçüm noktası: Elektrik enerjisinin ölçüldüğü
+fiziksel yeri,
+v) Ölçüm sistemi: Elektrik enerjisinin ölçülmesi
+amacıyla kullanılan yazılım, donanım ve iletişim altyapısını,
+y) PYS: Piyasa Yönetim Sistemini,
+z) Reaktif enerji: Reaktif gücün zamanla
+çarpımından elde edilen ve VArh birimiyle ölçülen enerjiyi,
+aa) Reaktif güç: Gerilim, akım ve aralarındaki faz
+açısının sinüsü ile çarpımından elde edilen, iş görmeyen ve VAr birimi ile
+ölçülen gücü,
+bb) Şebeke işletmecisi: İlgisine göre TEİAŞ’ı veya
+elektrik dağıtım şirketini,
+cc) Şeffaf Sorgu Metodu: Merkezi haberleşme
+yazılımı tarafından modemlere gönderilen komutları herhangi bir işlem
+yapmadan sayaç veya uçbirimlere aktaran ve sayaç veya uçbirimden gelen
+verileri üzerinde işlem yapmadan tekrar merkezi haberleşme yazılımına aktaran
+sorgu metodolojisini,
+çç) TEDAŞ: Türkiye Elektrik Dağıtım Anonim
+Şirketini,
+dd) TEİAŞ: Türkiye Elektrik İletim Anonim
+Şirketini,
+ee) Uçbirim: Modemlere bağlanabilen enerji
+analizörü, sensörler vb. donanımları,
+ff) Veri yoğunlaştırıcı (Data concentrator): PLC/RF
+altyapısını kullanan modemler ile merkezi haberleşme yazılımı arasında veri
+aktarımını sağlayan üniteleri,
+gg) Yönergeli Sorgu Metodu: Merkezi haberleşme
+yazılımı tarafından modemlere tanımlanan komutları periyodik olarak sayaç
+veya uçbirimlere soran ve sonuçlarını merkezi haberleşme yazılımına aktaran
+sorgu metodolojisini,
+ifade eder.
+(2) Bu Yönetmelikte geçen diğer ifade ve
+kısaltmalar ilgili mevzuattaki anlam ve kapsama sahiptir.
+İKİNCİ BÖLÜM
+Akıllı Sayaç Sistemi
+Akıllı
+Sayaç Sisteminde kullanılan ölçüm sistemi bileşenleri
+MADDE 4- (1) Elektrik piyasası faaliyetlerinde,
+Uluslararası Tip Onay (MID) belgesi ve reaktif enerji ölçme özelliği için
+ilave olarak Sanayi ve Teknoloji Bakanlığı Tip ve Sistem Onay belgesine
+sahip olan ve bu Yönetmelik, ilgili diğer mevzuat ve ilgili standartlar ile
+teknik şartnamesine uygun olarak üretilen ölçüm sistemi bileşenleri kullanılır.
+(2) Ölçüm sistemi bileşenlerine ilişkin asgari ve
+isteğe bağlı özellikler, ilgisine göre TEİAŞ veya TEDAŞ tarafından
+hazırlanan teknik şartnameler ile belirlenir.
+Milli
+Akıllı Sayaç Sistemi bileşenleri ve temel özellikleri
+MADDE 5- (1) MASS ana bileşenleri, aşağıdaki donanım ve
+yazılımlardan oluşur:
+a) Akıllı sayaçlar.
+b) Modem.
+c) Merkezi haberleşme yazılımı.
+ç) Veri yoğunlaştırıcı.
+d) Kullanıcı mobil uygulaması.
+(2) Birinci fıkrada belirtilen ana bileşenlere
+ilişkin asgari teknik özellikler, ölçüm doğruluğu sınıfları, MASS’a dahil
+edilecek sayaçlar, uzaktan haberleşme donanımı ile merkezi haberleşme
+yazılımı arasında uzaktan iki yönlü veri alışverişinin
+gerçekleştirilebilmesi için altyapının sahip olması gereken asgari teknik
+özellikler ile diğer kriterler, TEDAŞ tarafından hazırlanan akıllı sayaç,
+modem, merkezi haberleşme yazılımı ve veri yoğunlaştırıcı teknik şartnameleri
+ile belirlenir.
+(3) MASS kapsamındaki farklı marka; sayaç, modem,
+merkezi haberleşme yazılımı ve veri yoğunlaştırıcı birimleri TEDAŞ
+tarafından onaylanan birlikte çalışabilirlik test prosedürlerine göre TEDAŞ
+ya da Türk Akreditasyon Kurumu tarafından yetkilendirilmiş test kurumları
+tarafından yapılan birlikte çalışabilirlik testleriyle onaylanır.
+(4) Üçüncü fıkra kapsamında onaylanmış MASS
+bileşenlerinin bir bütün olarak uyum içerisinde çalışması ve bileşenlerden
+herhangi birinin yerine farklı bir üreticinin ürününün kullanılabilmesi ve
+tüm bileşenlerin, herhangi bir revizyona gerek duymadan uyum içerisinde
+çalışmaya devam etmesi gerekir.
+ÜÇÜNCÜ BÖLÜM
+Akıllı Sayaç Sistemi Altyapısına İlişkin Görev ve
+Sorumluluklar
+Akıllı Sayaç Sistemi kapsamında altyapının
+kurulumuna ilişkin görev ve sorumluluklar
+MADDE 6- (1) Dağıtım sistemine bağlı sayaçların MASS
+kapsamına dahil edilmesi, iletişim kurulması için gerekli teçhizatın,
+altyapının ve akıllı sayaçların kurulumu, işletilmesi ve bakımı ve mevcut sayaçların
+akıllı sayaçlar ile değiştirilmesi dağıtım şirketlerinin sorumluluğundadır.
+(2) İletim sisteminde kullanıcı mülkiyetindeki
+sayaçların değiştirilmesi durumunda ve kullanıcılar için ilk defa tesis
+edilecek sayaç ve modemler kullanıcı tarafından temin edilir, TEİAŞ
+tarafından tesis edilir. İlk defa tesis edilecek akıllı sayaçlara ilişkin
+iletişim altyapısı bulunmaması durumunda iletişim altyapısı kullanıcı
+tarafından temin ve tesis edilir. İletim sistemine verilen ya da iletim
+sisteminden çekilen elektrik enerjisini ölçen sayaçların tümünün akıllı
+sayaç olması gerekir.
+Kullanıcı
+mobil uygulaması
+MADDE 7- (1) EPİAŞ tarafından, kullanıcıların bazı
+bilgilerini takip edebilmeleri, geçmişe dönük verileri üzerinden belirli
+analizleri görebilmeleri ve geri bildirimde bulunmalarını sağlamak amacıyla
+Kullanıcı Mobil Uygulaması ve internet sitesi kurulur. Kurulan mobil
+uygulamanın kullanıcıların kullanımına sunulması, işletilmesi ve veri
+güvenliğinin sağlanması EPİAŞ’ın sorumluluğundadır.
+(2) Kullanıcı Mobil Uygulaması kullanıcı sayacının
+kabiliyeti ölçüsünde asgari olarak aşağıda yer alan özellikleri taşır:
+a) Uygulamanın tüm mobil işletim sistemlerinde
+çalışabilir olması gerekir.
+b) Kullanıcıların saatlik, günlük, aylık ve yıllık
+tüketimlerini ve/veya üretimlerini görebilmelerini, geçmişe dönük verileri
+üzerinden belirli analizleri görsel olarak görüntüleyebilmesini sağlar.
+c) Günlük ve aylık ortalama tüketim miktarlarını ve
+aylık tüketimini tarife zaman dilimi bazlı olarak gösterir.
+ç) Beklenmedik aşırı tüketim, kullanıma kapalı
+dönemde tüketim yapılması ve benzeri durumlarda kullanıcıyı uyarır.
+d) Kullanıcılar tarafından, tanımlanan sınırlamalar
+içerisinde tüketim değeri belirlenebilir ve belirlenen bu değer aşıldığında
+kullanıcıyı uyarır.
+e) Kullanıcıların kendi tüketimlerini, ilgili
+bölgedeki benzer kullanıcıların ortalama tüketimleri ile kıyaslayabilmesini
+sağlar.
+f) Kullanıcılar etkilendikleri kesintilere ilişkin
+olarak; cari yıl ve bir önceki yılın kesinti listesini, yıl bazında tedarik
+sürekliliği tazminatına esas toplam kesinti süresi ve toplam kesinti
+sayısını, her bir kesintinin başlangıç ve bitiş zamanını, kesinti süresini,
+uzun süreli ve yıllık kesinti tazminat bilgisini görüntüler ve rapor olarak
+alır.
+g) Kullanıcılara; bildirimli kesintilere ilişkin
+ilgili mevzuatta tanımlanan süre öncesinde yapılacak çalışmaya, bildirimsiz
+kesintilerde ise arızanın giderilme sürecine dair bilgi verir.
+ğ) Kullanıcıların etkilendikleri teknik kalite
+olaylarına ilişkin sayaç verilerini görüntülemesini sağlar.
+h) Kullanıcıların elektrik arıza ile ilgili şikayet
+ve taleplerini uygulama üzerinden oluşturabilmesini sağlar.
+ı) Akıllı sayaç üzerinden alınan gerçek zamanlı
+verilerin mobil uygulama üzerinden gösterimine ilişkin gecikmeye dair azami
+süreler Kurum tarafından belirlenir.
+i) Kurum tarafından belirlenecek ilave veri ve
+raporlamalar, uygulama üzerinden sağlanır.
+(3) Dağıtım şirketleri tarafından kullanıcı
+sayacının kabiliyeti ölçüsünde ikinci fıkrada yer alan asgari özelliklere
+esas veriler EPİAŞ’a sağlanır. Söz konusu verilerin doğruluğu ilgili
+dağıtım şirketinin sorumluluğundadır.
+Verilerin
+paylaşımına dair tarafların görev ve sorumlulukları
+MADDE 8- (1) TEİAŞ ve dağıtım şirketleri, sayaçlar
+üzerinden elde edilen verileri bu maddede belirtilen esaslar dahilinde
+ilgili taraflarla güvenli ortamda ve internet tabanlı paylaşmak üzere
+gerekli altyapıyı oluşturur.
+(2) 15 dakikalık periyotlarda endeks değerleri
+alınabilen üretim, tüketim tesisleri ile elektrik depolama ünitelerinin
+veya tesislerinin veriş-çekiş değerleri EPİAŞ ile en geç ilgili saatin 2
+saat sonrasında paylaşılır.
+(3) Diğer tüm sayaçların uzlaştırma dönemi
+bazındaki değerleri en geç ilgili ayın uzlaştırma takviminde tanımlanan son
+güne kadar EPİAŞ ile paylaşılır.
+(4) TEİAŞ ve dağıtım şirketlerinin kurmuş olduğu
+sistemin PYS ile gerçek zamanlı haberleşme altyapısına sahip olması için
+gerekli çalışmalar TEİAŞ, dağıtım şirketleri ve EPİAŞ tarafından yürütülür.
+(5) Kullanıcı Mobil Uygulaması kapsamındaki
+verilerin, diğer kamu kurum ve kuruluşlarıyla paylaşımı kapsamında
+tarafların görev ve sorumluluklarına ilişkin usul ve esaslar Kurul
+tarafından belirlenir.
+(6) Akıllı sayaç verilerinin, uzlaştırmaya esas
+veriş-çekiş konfigürasyonlarında yer alan sayaçlarla sınırlı olmak üzere
+paylaşımına ilişkin hizmet bedeli Kurul kararı ile belirlenir. Kurul Kararı
+ile hizmet bedeli belirlenene kadar söz konusu hizmet bedelsiz sunulur.
+DÖRDÜNCÜ BÖLÜM
+Lisanssız Elektrik Üretimi Kapsamındaki Sayaçlar
+Lisanssız
+elektrik üretim tesislerinde kullanılan sayaçlara ilişkin hususlar
+MADDE 9- (1) 12/5/2019 tarihli ve 30772 sayılı Resmî
+Gazete’de yayımlanan Elektrik Piyasasında Lisanssız Elektrik Üretim
+Yönetmeliği kapsamındaki tesislere ilişkin ilgili şebeke işletmecisi
+tarafından;
+a) Üretim ve tüketim tesislerinin aynı yerde
+bulunması halinde, bağlantı anlaşmasında belirlenen yere ilgili mevzuatta
+uzlaştırma mekanizmasının gerektirdiği haberleşmeyi sağlayabilecek çift
+yönlü,
+b) Üretim tesisinin tüketim tesisiyle aynı yerde
+bulunmaması halinde ilgili tesislerin bağlantı anlaşmalarında belirlenen
+yerlere, ilgili mevzuatta uzlaştırma mekanizmasının gerektirdiği
+haberleşmeyi sağlayabilecek şekilde üretim tesisi için çift yönlü, tüketim
+tesisi için tek yönlü,
+sayaç takılır. Çift yönlü sayaçlar için şebeke
+işletmecisi tarafından kontrol amaçlı ikinci bir sayaç takılabilir.
+(2) Faturalamaya esas ölçüm noktası, şebekeye
+bağlantı noktasında birinci fıkraya uygun olarak tesis edilecek sayaçtır.
+Şebekeye bağlı her bir üretim tesisinin üretimini ölçmek amacıyla ayrı bir
+sayaç bulundurulması zorunludur ve bu sayaçtan elde edilen günlük bazdaki
+veriler ilgililerce Kurum tarafından istenen formata uygun olarak sunulur.
+(3) Kurulu gücü 10 kW’ın üzerinde olan üretim
+tesisleri için birinci fıkraya göre tesis edilen sayaçların Akıllı Sayaç
+PRO olması gerekir.
+(4) Bir tüketim tesisi için kurulacak, farklı
+teşvik fiyatlarına tabi yenilenebilir enerji kaynaklarına dayalı üretim
+tesisleri ile kojenerasyon ve mikrokojenerasyon tesislerinde üretilen
+elektrik enerjisinin ayrı ayrı saatlik ölçülmesine imkân verecek şekilde
+sayaç tesis edilir.
+(5) Üretim tesisinin kabulü aşamasında ölçüm
+sistemi, ikinci fıkra kapsamında tesis edilen sayacı da içerecek şekilde
+ilgili şebeke işletmecisi tarafından kontrol edilerek mühürlenir ve kayıt
+altına alınır.
+BEŞİNCİ BÖLÜM
+Ölçüm Noktalarına İlişkin Esaslar
+Sayaç ve
+ölçü teçhizatının tesisi
+MADDE 10- (1) İletim sisteminde sayaçlar ölçüm noktalarına,
+ana sayaç ve kontrol sayacı olacak şekilde tesis edilir ve ölçüm sisteminde
+yer alan teçhizatın montajı ve kablaj, TEİAŞ tarafından hazırlanacak ölçü
+yönergesine göre gerçekleştirilir.
+(2) Ölçüm noktasında yer alan ana sayacın akım
+transformatörü ve gerilim transformatörü bağlantıları, sayacın bağlı olduğu
+ölçü transformatörlerinin birinci sekonder çıkışından ve devre üzerinde
+başka bir sayaç, röle, ölçü aleti ve benzeri cihaz olmayacak şekilde
+yalnızca ana sayaca tahsisli olarak sağlanır. Ancak mevcut şartların uygun
+olmaması halinde yalnızca TEİAŞ işletmesindeki transformatör merkezlerinde
+olmak koşuluyla, OG fider ölçüm noktalarında yer alan birden fazla ana
+sayaç için ortak bir gerilim transformatörü sekonderi kullanılabilir.
+(3) 154 kV ve 400 kV ölçüm noktalarında yer alan
+sayaçlar gerilim bilgilerini müstakil gerilim transformatörlerinden alır.
+(4) İletim sistemine 36 kV üstü gerilim
+seviyesinden bağlı kullanıcılarda ölçü devresi kullanıcı tesisi olup
+transformatörlerin 36 kV üstü gerilim seviyesi tarafına tesis edilir.
+İletim sistemine 36 kV ve altı gerilim seviyesinden bağlı kullanıcılarda ölçü
+devresi iletim tesisi olup transformatörlerin 36 kV ve altı gerilim
+seviyesi tarafına tesis edilir.
+(5) İletim sistemine ait transformatör
+merkezlerinin OG barasından bağlı bir veya daha fazla kullanıcı bulunması
+halinde kullanıcıların sayaçları aşağıda detaylandırıldığı şekilde TEİAŞ
+transformatör merkezinde bulunur:
+a) Bir OG baradan tek bir kullanıcının beslenmesi
+durumunda ölçüm noktası, iletim şebekesine bağlı güç transformatörünün OG
+tarafında yer alır.
+b) Bir OG baradan birden fazla kullanıcının beslenmesi
+durumunda ölçüm noktası, iletim şebekesine bağlı güç transformatörünün OG
+tarafında ve baradan beslenen kullanıcılardan en fazla fider ile beslenen
+kullanıcı dışında kalan kullanıcıların fider çıkışlarında yer alır.
+(6) Dağıtım sistemine bağlı kullanıcılarda ölçü
+tesisi ve sayaçlar; transformatörlü tüketiciler için tüketim transformatörü
+630 kVA altında olan transformatörlerin sekonder tarafının girişinde,
+transformatör gücü 630 kVA ve üzerinde olan tüketiciler için tüketici
+tesislerindeki transformatörün giriş tarafında, alçak gerilim tüketicileri
+için tüketimin başladığı anahtarlama teçhizatının giriş kısmında (kofre ve
+benzeri) yer alır.
+Genel
+esaslar
+MADDE 11- (1) İletim sistemi ile dış ülke
+enterkonneksiyonlarına ilişkin ölçüm noktaları, iletim sistemine ait
+transformatör merkezlerindeki ilgili enterkonneksiyon hat fiderinde yer
+alır.
+(2) TEİAŞ transformatör merkezleri iç ihtiyaç
+tüketimlerini belirlemek için servis transformatörünün OG tarafında ölçüm
+noktası oluşturulur.
+(3) Bir TEİAŞ transformatör merkezinde farklı
+sistem kullanıcılarının beslendiği baraların; normal işletme koşullarında
+açık olan kuplaj kesicisi ile (işletme şartları gereği ve/veya bakım,
+onarım ve arıza giderme çalışmaları süresince) birleştirilmesi halinde,
+farklı baralardaki sistem kullanıcılarının çektiği/verdiği enerji ve demand
+değerlerinin ölçülebilmesine imkan sağlayacak şekilde, bara kuplaj fiderine
+ölçüm noktası tesis edilir.
+(4) Üretim tesislerine ait ölçüm noktaları
+aşağıdaki hususlar dikkate alınarak tesis edilir:
+a) Üretim tesisinde birden çok üretim grubunun veya
+kuplaj fideri ile birleştirilmiş birden çok üretim barasının aynı
+yükseltici transformatör ile iletim sistemine irtibatlandırılması halinde,
+tüm grupların geçici kabulü yapılıncaya kadar test üretimlerini belirlemek
+üzere, test üretimini ayrıştırabilecek ölçüm noktaları kullanıcı tarafından
+oluşturulur ve TEİAŞ tarafından, kabul süreci tamamlanıncaya kadar geçici
+sayaç tesis edilir. Geçici kabul yapılan her bir bölüm, ölçüm noktası
+üretim tesislerinin grup yükseltici transformatörlerinin YG tarafında ve
+kullanıcı şaltında olacak şekilde devreye alınır. Söz konusu ölçüm
+noktalarının ilgili üretici tarafından oluşturulmaması halinde, TEİAŞ
+ünitelerin kurulu güçlerini esas alarak sayaç verileri üzerinden enerji
+hesaplaması yapar.
+b) Reaktif güç kontrolüne ilişkin TEİAŞ ile yan
+hizmetler anlaşması bulunan tüzel kişiler adına kayıtlı bulunan üretim
+tesislerinin, senkron kompansatör olarak çalışırken sistemden çektiği
+enerjinin belirlenebilmesi için grup transformatörlerinin YG tarafındaki
+ölçüm noktasına ilave olarak ünite tüketimlerini ölçebilecek şekilde ölçüm
+noktası tesis edilir.
+(5) Bu Yönetmelikte tanımlanmamış hallerde veya
+mevcut sistemlerde tevsiat çalışması yapılması durumunda ölçüm noktaları
+TEİAŞ tarafından belirlenir.
+İtibari
+bağlantı noktası uygulaması
+MADDE 12- (1) DUY kapsamında itibari bağlantı noktası
+uygulaması uyarınca yapılan hesaplamalar için teknik ve fiziki koşullar
+çerçevesinde sayaç takılması uygun olan noktalara TEİAŞ ya da ilgili dağıtım
+şirketi tarafından akıllı sayaç tesis edilir. İtibari bağlantı noktası
+uygulamasına söz konusu noktalar için son verilir.
+ALTINCI BÖLÜM
+MASS’ın Yaygınlaştırılması
+Yaygınlaştırmada
+öncelik sıralaması
+MADDE 13- (1) Yaygınlaştırma, abone grupları ve ölçüm noktaları
+itibarıyla aşağıdaki öncelik sıralamasına uygun olarak gerçekleştirilir:
+a) Yeni tesis edilen sayaçlar ile damga süresinin
+dolması nedeniyle değiştirilmesi gereken sayaçlar.
+b) Her bir dağıtım transformatörü çıkışına tesis
+edilmesi gereken sayaçlar.
+c) Arıza kaynaklı olarak değiştirilmesi gereken
+sayaçlar.
+ç) Kaçak elektrik kullanım şüphesiyle değiştirilen
+sayaçlar.
+(2) Akıllı Sayaç PRO kapsamında olması gereken
+sayaçlar:
+a) Lisanslı üretim tesislerinin tüketim
+birimlerinin dağıtım sisteminden çektiği elektrik enerjisini ölçen sayaçlar.
+b) Lisanslı üretim tesislerinin dağıtım sistemine
+verdiği elektrik enerjisini ölçen sayaçlar.
+c) İki dağıtım sistemi arasındaki alışverişe esas
+elektrik enerjisini ölçen sayaçlar.
+ç) Depolamalı elektrik üretim tesisi bünyesindeki
+elektrik depolama ünitesi, üretim tesisine bütünleşik elektrik depolama
+ünitesi ile müstakil elektrik depolama tesislerinden verilen ve çekilen
+elektrik enerjisini ölçen sayaçlar.
+d) Önceki yıl tüketimi veya yıl içerisindeki
+tüketimi 10 MWh üzerinde olan kullanım yerlerine ilişkin mevcut sayaçlar.
+e) Ayrı bir elektrik aboneliği olan ve en az bir DC
+50 kW ve üzeri güçte şarj ünitesi bulunan şarj istasyonları ile tüketimi
+yıllık 10 MWh üzerinde olan şarj istasyonlarının elektrik tüketiminin
+ölçülmesi için kullanılacak sayaçlar.
+(3) Serbest tüketici olup önceki yıl tüketimi veya
+yıl içerisindeki tüketimi 10 MWh üzerinde olan kullanım yerlerindeki
+tüketicilerin, bu Yönetmeliğin yürürlüğe girme tarihinden sonra tedarikçi
+seçme hakkını kullanmaları halinde, kullanım yerindeki sayaçların Akıllı
+Sayaç PRO olması zorunludur. Bu kullanım yerlerinde uzaktan haberleşme
+özelliği olmayan sayaçlar ilgili şebeke işletmecisi tarafından müteakip ay
+içerisinde değiştirilir.
+(4) Bu madde kapsamında MASS altyapısına geçiş ve
+sistemin yaygınlaştırılmasına ilişkin hususlar Kurul tarafından belirlenir.
+YEDİNCİ BÖLÜM
+Diğer Hükümler
+Piyasa katılımcıları tarafından kurulmuş mevcut
+uzaktan okuma ve izleme sistemleri
+MADDE 14- (1) Piyasa katılımcıları veya kullanıcılar
+tarafından kurulmuş olan mevcut uzaktan okuma ve izleme sistemlerinin
+ilgili şebeke işletmecisinin sistemleriyle uyumlu olması, söz konusu
+sistemlerin veri güvenliğini tehlikeye sokmaması ve mühürlü ölçü
+devrelerinin bulunduğu hücrelerde olmaması kaydıyla TEİAŞ ve dağıtım şirketleri
+tarafından izin verilir. Ayrıca bu sistemlerin arıza bakım çalışmaları ile
+rutin kontrolleri için iş güvenliğine ilişkin mevzuat çerçevesindeki
+kurallara uyulması zorunludur.
+Tedarik
+sürekliliği ve teknik kalite verilerinin saklanması
+MADDE 15- (1) Elektrik dağıtım şirketleri, sayaçlar
+üzerindeki tedarik sürekliliğine ilişkin verileri 29/12/2020 tarihli ve
+31349 mükerrer sayılı Resmî Gazete’de yayımlanan Elektrik Piyasasında
+Dağıtım ve Perakende Satış Faaliyetlerine İlişkin Kalite Yönetmeliğinde,
+teknik kaliteye ilişkin verileri 29/12/2020 tarihli ve 31349 mükerrer
+sayılı Resmî Gazete’de yayımlanan Elektrik Dağıtım Sisteminin Teknik
+Kalitesine İlişkin Usul ve Esaslarda tanımlanan usuller çerçevesinde
+herhangi bir veri kaybı olmayacak şekilde kaydeder.
+(2) Uzaktan haberleşme kapsamında olmayan sayaçlar
+için sayaç üzerindeki kesinti ve teknik kalite kayıtları, elektrik dağıtım
+şirketleri tarafından en az 6 aylık periyotlarla okunur ve ilgili
+sistemlerinde kayıt altına alınır.
+Kişisel
+verilerin korunması ve bilişim güvenliği
+MADDE 16- (1) Bu Yönetmelik kapsamında verileri elde eden,
+veri paylaşımı yapılan kurum ve kuruluşlar ile tüzel kişiler, faaliyetlerin
+yürütülmesi çerçevesinde herhangi bir şekilde elde ettiği verilere ilişkin
+olarak, 24/3/2016 tarihli ve 6698 sayılı Kişisel Verilerin Korunması Kanunu
+ile bu Kanuna dayalı olarak çıkarılan mevzuat kapsamında kişisel verilerin
+korunmasını sağlayacak önlemleri alır.
+(2) Bu yönetmelik kapsamında oluşturulan tüm sistem
+ve altyapı, 6/6/2023 tarihli ve 32213 sayılı Resmî Gazete’de yayımlanan
+Enerji Sektöründe Siber Güvenlik Yetkinlik Modeli Yönetmeliğinden
+kaynaklanan yükümlülüklere tabidir.
+Yürürlükten
+kaldırılan mevzuat
+MADDE 17- (1) 8/8/2015 tarihli ve 29439 sayılı Resmî
+Gazete’de yayımlanan Otomatik Sayaç Okuma Sistemlerinin Kapsamına ve Sayaç
+Değerlerinin Belirlenmesine İlişkin Usul ve Esaslar ile 22/3/2003 tarihli
+ve 25056 sayılı Resmî Gazete’de yayımlanan Elektrik Piyasasında
+Kullanılacak Sayaçlar Hakkında Tebliğ yürürlükten kaldırılmıştır.
+(2) Birinci fıkra ile yürürlükten kaldırılan
+Otomatik Sayaç Okuma Sistemlerinin Kapsamına ve Sayaç Değerlerinin
+Belirlenmesine İlişkin Usul ve Esaslar ile Elektrik Piyasasında
+Kullanılacak Sayaçlar Hakkında Tebliğe yapılmış atıflar ile ilgili diğer
+mevzuatta Otomatik Sayaç Okuma Sistemine yapılmış atıflar bu Yönetmeliğe
+yapılmış sayılır.
+SEKİZİNCİ BÖLÜM
+Geçici ve Son Hükümler
+Ölçü
+devresinin mevzuata uygun hale getirilmesi
+GEÇİCİ
+MADDE 1- (1) İletim sisteminde yer
+alan ölçü transformatörlerinin bu Yönetmelikte belirtilen kriterlere uygun
+olmaması halinde bu Yönetmeliğin yürürlüğe girdiği tarihten itibaren 2
+(iki) yıl içerisinde mevzuata uygun hale getirilir.
+(2) Mevzuat kapsamındaki hesaplamalarda (iletim
+bedeli, uzlaştırma işlemleri ve benzeri) kullanılan sayaçların bu
+Yönetmeliğe uygun olarak oluşturulmuş ölçüm noktalarında yer almaması
+halinde sayaçların bağlantı noktalarının bu Yönetmeliğin yürürlüğe girdiği
+tarihten itibaren 2 (iki) yıl içerisinde mevzuata uygun hale getirilir.
+Kullanıcı
+mobil uygulamasının kurulumu
+GEÇİCİ
+MADDE 2- (1) 1/6/2024 tarihine
+kadar EPİAŞ tarafından bu Yönetmeliğin 7 nci maddesinde belirtilen
+kullanıcı mobil uygulaması ve internet sitesi kurulur.
+(2) 1/7/2024 tarihine kadar elektrik dağıtım
+şirketleri tarafından bu Yönetmeliğin 7 nci maddesinde belirtilen veriler
+EPİAŞ’a sağlanır.
+Milli
+akıllı sayaç sistemi geçiş dönemine ilişkin uygulamalar
+GEÇİCİ
+MADDE 3- (1) TEDAŞ - MLZ/2017-062.A
+kodlu Elektronik Elektrik Sayaçları Teknik Şartnamesine göre alınan
+sayaçlar 1/1/2025 tarihine kadar tesis edilebilir.
+(2) TEDAŞ - MLZ/2019-064.A kodlu Haberleşme Ünitesi
+Teknik Şartnamesine göre alınan haberleşme üniteleri 1/1/2025 tarihine
+kadar tesis edilebilir.
+(3) Bu Yönetmeliğin 9 uncu maddesinin üçüncü
+fıkrasıyla 13 üncü maddesinin ikinci ve üçüncü fıkraları kapsamında Akıllı
+Sayaç PRO tesis edilmesi gereken yerlere 1/1/2025 tarihine kadar Otomatik
+Sayaç Okuma Sistemiyle uyumlu sayaç ve modem tesis edilebilir.
+(4) Bu Yönetmeliğin 13 üncü maddesinin ikinci
+fıkrasının (d) bendi kapsamında önceki yıl tüketimi veya yıl içerisindeki
+tüketimi 10 MWh üzeri olan kullanım yerlerindeki mevcut sayaçlar, yüksek
+tüketimlilerden başlamak ve dağıtım şirketi bazında yüzde yirmisinden az
+olmamak üzere, 1/1/2025 tarihine kadar Akıllı Sayaç PRO veya Otomatik Sayaç
+Okuma Sistemiyle uyumlu sayaç ve modem ile değiştirilir.
+(5) TEDAŞ tarafından 1/1/2025 tarihine kadar
+Merkezi Haberleşme Yazılımı Teknik Şartnamesi yayımlanır.
+(6) Dağıtım şirketleri, MASS kapsamında TEDAŞ
+tarafından yayımlanan şartnamesine uygun Merkezi Haberleşme Yazılımını
+1/4/2025 tarihine kadar kurar.
+(7) Dağıtım şirketleri 1/8/2025 tarihine kadar
+uzaktan okuma yapılabilen tüm sayaçların verilerinin aktarılması ve
+işlenebilmesine ilişkin Merkezi Haberleşme Yazılımı ile entegrasyonu
+sağlar.
+(8) 1/6/2025 tarihinden itibaren dağıtım şirketleri
+tarafından tedarik edilecek akıllı sayaçlar, modemler, merkezi haberleşme
+yazılımları ve veri yoğunlaştırıcılar birlikte çalışabilirlik ilkesine
+uygun olur.
+Yürürlük
+MADDE 18- (1) Bu Yönetmelik 1/1/2024 tarihinde yürürlüğe
+girer.
+Yürütme
+MADDE 19- (1) Bu Yönetmelik hükümlerini Enerji Piyasası
+Düzenleme Kurumu Başkanı yürütür.
