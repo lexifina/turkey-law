@@ -1,0 +1,21 @@
+{
+  "record_type": "parliament-written-question",
+  "term": 28,
+  "legislative_year": 2,
+  "esas_no": "7/7865",
+  "submitted": "2023-12-29",
+  "submitted_as": "Başkanlığa geliş tarihi",
+  "mp": "Türker ATEŞ",
+  "province": "Bolu",
+  "summary": "19 Temmuz 2023 tarihinde imzalanan Türkiye Cumhuriyeti Hükümeti ve Arap Emirlikleri Hükümeti Arasında Enerji ve Doğal Kaynaklar Alanında Stratejik Ortaklık Çerçeve Anlaşması'na ilişkin",
+  "status": "Süresi Geçtikten Sonra Cevaplandı",
+  "status_as_of": "2026-11-16",
+  "official_record": "https://www.tbmm.gov.tr/Denetim/Yazili-Soru-Onergesi-Detay/dca57f09-0b3a-474f-912b-018cc9570f71",
+  "source": "https://tbmm.gov.tr/Denetim/YaziliSoruOnergesiTable",
+  "source_form": "https://tbmm.gov.tr/Denetim/Yazili-Soru-Onergeleri",
+  "source_sha256": "84193137722f63b045c8004b86cc00ef1d0a39212937a037b7ec850a934dc208",
+  "in_force": "2023-12-29",
+  "in_force_basis": "Date the question reached the Speaker (Başkanlığa geliş tarihi) in the official TBMM written-question record; parliamentary oversight record, not law",
+  "history_type": "metadata",
+  "text_status": "metadata-only: question text, addressee and answers are in the linked official record (PDFs on cdn.tbmm.gov.tr); not transcribed here"
+}
