@@ -1,0 +1,21 @@
+{
+  "record_type": "parliament-written-question",
+  "term": 28,
+  "legislative_year": 2,
+  "esas_no": "7/7965",
+  "submitted": "2023-12-29",
+  "submitted_as": "Başkanlığa geliş tarihi",
+  "mp": "Ali Mahir BAŞARIR",
+  "province": "Mersin",
+  "summary": "Silah ve mühimmat kaçakçılığına ilişkin",
+  "status": "Süresi Geçtikten Sonra Cevaplandı",
+  "status_as_of": "2026-11-16",
+  "official_record": "https://www.tbmm.gov.tr/Denetim/Yazili-Soru-Onergesi-Detay/2ed207f1-ea3e-4be5-9983-018cc9ac1580",
+  "source": "https://tbmm.gov.tr/Denetim/YaziliSoruOnergesiTable",
+  "source_form": "https://tbmm.gov.tr/Denetim/Yazili-Soru-Onergeleri",
+  "source_sha256": "7709f5953ef9e218ecf99570f77cd14e4dc0771ed21a9ea0e6f701d1ed286fdc",
+  "in_force": "2023-12-29",
+  "in_force_basis": "Date the question reached the Speaker (Başkanlığa geliş tarihi) in the official TBMM written-question record; parliamentary oversight record, not law",
+  "history_type": "metadata",
+  "text_status": "metadata-only: question text, addressee and answers are in the linked official record (PDFs on cdn.tbmm.gov.tr); not transcribed here"
+}
