@@ -1,0 +1,2 @@
+Fiyatı devletçe belirlenen mallar
+MADDE 21- (1) Kamu kurum ve kuruluşlarınca bazı malların piyasa fiyatlarının belirlendiği durumlarda, stokta bulunan ürünlerin fiyatında ilgili firmalar tarafından bir değişiklik yapılmaması (yani ilgili kamu kurum ve kuruluşu tarafından belirlenen yeni fiyatın, stokta yer alan emtiaya yansıtılmaması) veya paralel biçimde bir değişiklik yapılması söz konusu olabilmektedir. Bu gibi durumlarda da enflasyon düzeltmesi yapılması gerekmektedir.

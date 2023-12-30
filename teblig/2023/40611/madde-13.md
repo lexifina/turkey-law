@@ -1,0 +1,10 @@
+Parasal olmayan kıymetlerin enflasyon düzeltmesinde dikkate alınacak tutarları
+MADDE 13- (1) Parasal olmayan kıymetlerin düzeltme işleminde, düzeltmeye esas tarih itibarıyla sahip olduğu ve 213 sayılı Kanunda yer alan değerleme hükümlerine göre, Tebliğin bu maddesi de dikkate alınmak suretiyle, tespit edilen tutarları/değeri esas alınır. 31/12/2023 tarihli bilanço düzeltilirken parasal olmayan kıymetlerin, 213 sayılı Kanunun değerleme hükümlerine göre olması gereken değerleri üzerinden bilançoda yer almış olmalarına dikkat edilmelidir.
+(2) Parasal olmayan kıymetlerin enflasyon düzeltmesinde dikkate alınacak tutarları belirlenirken bir kısım değerler, parasal olmayan kıymetlerin 213 sayılı Kanunun değerleme hükümlerine göre bulunan tutarlarından düşülür ve bu işlemden sonra bulunan miktarlar düzeltmeye esas alınır.
+Bu kapsamda;
+a) Düzeltmeye esas alınacak tutara ulaşılırken; ROFM, ilgili parasal olmayan kıymetin düzeltmeye esas değerinden düşülmek suretiyle düzeltme işlemi yapılır.
+b) 1/1/2024 tarihinden önce ayrılmış ve sermayeye ilave edilmiş olan yeniden değerleme değer artış fonu gibi fonların sermayeye ilavesi nedeniyle oluşan sermaye artışları, artış olarak dikkate alınmaz ve bunlar enflasyon düzeltmesine tabi tutulmaz. Bu kapsamda, Tebliğin 15 inci maddesinin (2) numaralı fıkrasında, geçmiş yıl kârları ve zararları hesabına aktarılarak kapatılacağı belirtilen fon hesaplarındaki tutarların 1/1/2024 tarihinden önce sermayeye ilave edilmiş olması halinde, bu değerler sermayenin, düzeltmeye esas tutarı hesaplanırken düşülür ve bunlar enflasyon düzeltmesine tabi tutulmaz.
+(3) Düzeltmeye esas tutar olarak;
+a) 213 sayılı Kanunun mükerrer 298 inci maddesinin (A) fıkrasına göre enflasyon düzeltmesine tabi tutulan en son bilançoda yer alan parasal olmayan kıymetler için, söz konusu bilançoda yer alan düzeltilmiş değerler,
+b) 213 sayılı Kanunun geçici 31 inci maddesi, geçici 32 nci maddesi ve/veya mükerrer 298 inci maddesinin (Ç) fıkrası kapsamında yeniden değerlemeye tabi tutulmuş iktisadi kıymetler için, en son yapılan yeniden değerleme sonrası değerler
+dikkate alınır.

@@ -1,0 +1,2 @@
+Tasfiye halinde düzeltme işlemleri
+MADDE 43- (1) 2024 hesap döneminden önce tasfiyeye giren şirketlerin tasfiyesinin 2024 veya sonraki bir hesap dönemi içinde sonuçlanması halinde, tasfiye durumundaki şirketlerin geçici vergi beyannamesi verme yükümlülüğü bulunmaması sebebiyle, hem 2023 hesap dönemi sonuna ait bilanço hem de (enflasyon düzeltme şartlarının varlığına bağlı olarak) sonraki hesap dönemlerine ait bilançolar bu Tebliğle belirlenen düzeltme süreleri içerisinde düzeltilerek ilgili oldukları dönemlere ait beyannameler ekinde verilecektir.

@@ -1,0 +1,4 @@
+Yedek akçeler
+MADDE 24- (1) Belli bir dönemde sermaye şirketlerinin öz varlığında meydana gelen artışın (kârın) bir kısmının kanun, ana sözleşme veya genel kurul kararıyla ortaklara dağıtılmayarak işletmenin bünyesinde bırakılması anlamını taşıyan yedek akçeler, parasal olmayan kıymetlerden olup enflasyon düzeltmesine tabi tutulacaklardır.
+2023 hesap dönemi sonuna ait bilançonun düzeltilmesi sırasında sermaye yedekleri arasında yer alan yeniden değerleme artış fonu gibi fonlar sıfırlanacak; hisse senedi ihraç primleri, hisse senedi iptal kârları ile kâr yedekleri ve özel fonlar (sabit kıymet yenileme fonu gibi parasal olmayan kıymet olarak kabul edilen fonlar) ise düzeltmeye tabi tutulacaktır.
+Düzeltilmiş 2023 hesap dönemi sonuna ait bilançoda yer alan (vergisi ödenmiş kazanç üzerinden ayrılmış) kâr yedeklerinin ve bunların düzeltilmesi sonucunda meydana gelen enflasyon düzeltme farklarının sermayeye ilave edilebilmesi mümkün bulunmaktadır.
