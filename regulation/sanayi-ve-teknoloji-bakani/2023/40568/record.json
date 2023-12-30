@@ -1,0 +1,31 @@
+{
+  "source_id": "7.5.40568",
+  "kind": "regulation",
+  "register_kind": "Kurum ve Kuruluş Yönetmelikleri",
+  "title": "AFET BÖLGELERİNDE SANAYİ ALANLARI İLE SANAYİ İŞYERLERİNE İLİŞKİN YÖNETMELİK",
+  "number": "40568",
+  "issuer": "Sanayi ve Teknoloji Bakanı",
+  "issuer_slug": "sanayi-ve-teknoloji-bakani",
+  "path": "regulation/sanayi-ve-teknoloji-bakani/2023/40568",
+  "source": "https://www.mevzuat.gov.tr/anasayfa/MevzuatFihristDetayIframe?MevzuatTur=7&MevzuatNo=40568&MevzuatTertip=5",
+  "source_sha256": "7969ef0a09e23f2dbcf041077ca5c3b2d59d9d152600e28644fae24c6e9750e1",
+  "source_bytes": 106787,
+  "published": "2023-12-30",
+  "gazette": "32415",
+  "in_force": "2023-12-30",
+  "in_force_basis": "Resmî Gazete publication date in the official listing (30.12.2023); own commencement article: \"Bu Yönetmelik yayımı tarihinde yürürlüğe girer\"",
+  "commencement_clauses": [
+    "Bu Yönetmelik yayımı tarihinde yürürlüğe girer"
+  ],
+  "history": "current-text",
+  "label": "oldest version available",
+  "checked_on": "2026-11-15",
+  "word_count": 3443,
+  "text_status": "current-consolidated",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  },
+  "completeness": "html-text-complete"
+}

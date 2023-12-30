@@ -1,0 +1,5 @@
+İmar planının hazırlanması
+MADDE 8- (1) Bakanlıkça hazırlanacak veya hazırlattırılacak imar planlarına ilişkin ilgili kurumlardan görüş talep edilir. İlgili kurumlar görüşlerini bir hafta içinde bildirmek zorundadır. Görüşü talep edilen kurumların bu süre içinde imar planına esas görüşünü Bakanlığa bildirmemesi halinde, görüş olmaksızın Bakanlıkça imar planı hazırlanabilir.
+(2) İmar planı hazırlanırken, yerleşim açısından jeolojik sakıncaların bulunup bulunmadığının ve varsa alınabilecek önlemlerin belirlendiği, yeni hazırlanan ilgili kurumca onaylı imar planına esas jeolojik ve jeoteknik etüt raporu aranır.
+(3) İmar planı hazırlanırken, yerleşim açısından taşkın riski bulunup bulunmadığı tespit edilir. Taşkın açısından riskli bulunan yerlerde taşkın riskinin ortadan kaldırılması için gerekli tedbirlerin uygulanması şartı aranır.
+(4) İmar planı, onaylı ve koordinatlı hâlihazır haritalar üzerine çizilir. İmar planı; şartnamesi doğrultusunda 1/5000 ölçekli nazım imar planı ve 1/1000 ölçekli uygulama imar planı olarak hazırlanır veya hazırlattırılır.

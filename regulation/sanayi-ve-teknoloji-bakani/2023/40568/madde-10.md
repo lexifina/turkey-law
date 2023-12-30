@@ -1,0 +1,4 @@
+Kamu yararı kararı, kamulaştırma ve tescil
+MADDE 10- (1) Sanayi alanı olarak belirlenen yerlerdeki özel mülkiyete tabi taşınmazlar hakkında kamu yararı kararı verilmesine ilişkin belgeler Bakanlıkça hazırlanarak veya hazırlattırılarak kamulaştırma amacıyla kamu yararı kararı alınır ve ilgili mevzuat hükümleri kapsamında acele kamulaştırma da dahil olmak üzere kamulaştırma işlemleri yürütülür.
+(2) Kamulaştırılan taşınmazlar, Bakanlığın talebine istinaden Hazine adına tescil edilir.
+(3) Sanayi alanı olarak belirlenen yerlerde, kamu kurum ve kuruluşlarına ait taşınmazlardan devir alınacak olanlar Hazine adına tescil edilir. Taşınmazın bedeli tescil işleminden itibaren altmış gün içinde 4/11/1983 tarihli ve 2942 sayılı Kamulaştırma Kanununun 30 uncu maddesi hükümlerine göre belirlenir. Mezkur maddede hüküm bulunmayan hallerde 2942 sayılı Kanun hükümleri uygulanır.

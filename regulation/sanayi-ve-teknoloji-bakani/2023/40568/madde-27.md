@@ -1,0 +1,4 @@
+Borç tahsilatı
+MADDE 27- (1) Borçludan, borç taksitleri banka tarafından vadesinde tahsil edilir. Taksitler vadesinde ödenmediği takdirde gecikme süresi için ödenmeyen taksit tutarına Türkiye Cumhuriyet Merkez Bankası tarafından avans işlemlerinde uygulanan faiz oranında gecikme faizi uygulanır. Taksitlerin vadesinde ödenmemeye devam edilmesi veya borç taahhütnamesi hükümlerine uyulmaması halinde Bakanlık talimatıyla borcun tamamı muaccel hale gelir. Borcun tamamı muacceliyet kazanıp icra takip aşamasına geçilmesinden sonra ise temerrüt faizi uygulanır.
+(2) Borç, Bakanlık adına genel bütçeye gelir kaydedilmek üzere Banka tarafından vade tarihleri itibarıyla tahsil edilir. Tahsil edilen bu tutarlar, Bakanlık Merkez Saymanlık Müdürlüğü hesaplarına aktarılır.
+(3) Borcun zamanında ödenmemesi veya borç taahhütnamesi hükümlerinin yerine getirilmemesi halinde banka tarafından Bakanlığın talimatı alınarak ilgili mevzuatında yer alan işlemler yapılır.
