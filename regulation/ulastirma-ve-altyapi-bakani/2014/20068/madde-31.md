@@ -1,0 +1,3 @@
+İdari para cezasının ödeme yeri ve gelir kaydı
+MADDE 31 – (1) (Değişik:RG-30/12/2023-32415) Liman başkanlıkları tarafından verilen idari para cezaları Genel Bütçeye gelir kaydedilir ve söz konusu idari para cezaları tebliğ tarihinden itibaren 1 aylık ödeme süresi içinde vergi dairelerine, mal müdürlüklerine ve defterdarlık muhasebe müdürlüklerine, 1 aylık ödeme süresinden sonra ise yalnızca vergi dairelerine ödenir.
+(2) Belediye başkanlıkları tarafından verilen idari para cezaları ilgili belediyenin bütçesine gelir kaydedilir ve söz konusu idari para cezaları belediyenin muhasebe birimine, muhasebe yetkilisi mutemedine veya belediyenin ilgili banka hesabına ödenebilir.

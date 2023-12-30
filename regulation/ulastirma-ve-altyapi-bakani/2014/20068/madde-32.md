@@ -1,0 +1,3 @@
+Süresinde ödenmeyen idari para cezalarının takibi
+MADDE 32 – (1) Liman başkanlıkları tarafından verilen idari para cezalarının ödeme süresi içerisinde ödenmemesi ve idari yaptırım kararının kesinleşmesi hâlinde, ilgili liman başkanlıkları tarafından cezaya muhatap olanın bağlı olduğu vergi dairesine durumun bildirilmesi üzerine söz konusu idari para cezası 21/7/1953 tarihli ve 6183 sayılı Amme Alacaklarının Tahsil Usulü Hakkında Kanun hükümlerine göre vergi dairesince takip ve tahsil edilir.
+(2) Belediye başkanlıkları tarafından verilen idari para cezalarının süresinde ödenmemesi hâlinde, söz konusu idari para cezaları 6183 sayılı Amme Alacaklarının Tahsil Usulü Hakkında Kanun hükümlerine göre cezayı veren belediye tarafından takip ve tahsil edilir.

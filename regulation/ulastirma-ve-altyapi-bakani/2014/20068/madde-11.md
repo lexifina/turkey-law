@@ -1,0 +1,8 @@
+Gemi, deniz ve içsu araçlarının adı
+MADDE 11 – (1) Bağlama kütüğüne kaydedilecek her gemi, deniz ve içsu aracının ayırt edici bir adı olur.
+(2) Bakanlık, gemi, deniz ve içsu araçlarında kullanılmak üzere, onaylanan adları elektronik ortamda tutar. Ad talepleri ve onayları, Bakanlıkça belirlenen esaslara uygun olarak aşağıdaki usulde yapılır.
+a) İlk defa kayıt edilecek gemi, deniz ve içsu aracının maliki veya işleteni, seçtiği adın onay talebini elektronik ortamda yapar. İlgili başkanlık talebi değerlendirerek sonuçlandırır.
+b) Bağlama kütüklerine kayıtlı gemi, deniz ve içsu araçlarının adı, ilgilinin talebi, başkanlığın onayı ile değiştirilebilir. Mülkiyetin devri veya başkanlık tarafından kabul edilebilir bir gerekçe olması ve bu gerekçenin belgelendirilmesi halleri dışında ad değişikliği yapılmaz. Mülkiyetin devri hâlinde, yeni malik devir tarihinden itibaren üç ay içinde bu hakkını kullanabilir.
+(3) Talep edilen ad, talep tarihinden itibaren iki ay içerisinde bağlama kütüğünde kullanılmadığı takdirde, sistem tarafından otomatik olarak serbest bırakılır.
+(4) Bağlama kütüğüne kayıtlı gemi, deniz ve içsu araçlarının bordalarının baş tarafının her iki yanına adı, kıçına da adı, bağlama limanı ve bağlama kütüğü numarası yazılmalıdır. Tam boyu 5 metrenin altında olan gemi, deniz ve içsu araçlarının adı, bağlama limanı ve bağlama kütüğü numarası bordalarında veya kıçında uygun olan bir yere okunabilir şekilde yazılması yeterlidir.
+(5) Ad, bağlama kütüğü numarası ve bağlama limanı, silinmez, bozulmaz ve okunaklı harf ve rakamlarla yazılır. Tam boyu 5 metre ve üzeri gemilerde harflerin ve rakamların boyu en az 10 santimetre, harfleri ve rakamları teşkil eden esas çizgilerin eni 2 santimetreden az olamaz.

@@ -1,0 +1,5 @@
+Bağlama kütüğü kaydının re’sen silinmesi
+MADDE 22 – (1) 20 nci maddenin birinci fıkrasında belirtilen şartların birinin oluşmasına rağmen gemi, deniz ve içsu aracı kaydının silinmesi, süresinde talep edilmez ise, sebebin bağlama kütüğünü tutan başkanlık tarafından öğrenildiği tarihten itibaren derhal gemi, deniz ve içsu aracı ilgililerine yirmi gün süre verilerek, kaydın silinmesi için talepte bulunmaya davet edilir. Süre sonunda davete icabet edilmemesi hâlinde kayıt re’sen silinir.
+(2) Re’sen silinmede de kaydın kapatılması silme işlemi gibi yapılır ve bağlama kaydına “re’sen silinmiştir” şerhi düşülür. Re’sen silinme keyfiyeti gemi, deniz ve içsu aracının mâlik ve işletenine, bağlama kaydında görülen en son adresine tebligat yapılmak suretiyle bildirilir. Tebligat, 11/2/1959 tarihli ve 7201 sayılı Tebligat Kanunu hükümlerine göre yapılır.
+(3) (Değişik:RG-30/12/2023-32415) Ruhsatnamesinin süresinin dolmasından itibaren beş yıl boyunca yeniden ruhsatname düzenlenmeyen gemi, deniz ve içsu araçları re’sen silinir.
+(4) Üzerinde haciz veya başkaca takyidat bulunan gemi, deniz ve içsu araçları, ancak alacaklıların muvafakatiyle silinir.

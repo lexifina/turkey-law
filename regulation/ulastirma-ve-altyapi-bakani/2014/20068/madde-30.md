@@ -1,0 +1,3 @@
+İdari para cezasında peşin ödeme indirimi ve taksitle ödeme
+MADDE 30 – (1) (Değişik:RG-30/12/2023-32415) İdari para cezasının 1 aylık ödeme süresi içinde ödenmesi halinde, cezadan %25 oranında indirim yapılır.
+(2) Cezaya muhatap olanın idari para cezasının ödeme süresi olan 1 ay içerisinde cezayı veren başkanlığa yapacağı yazılı müracaat üzerine ve ekonomik durumunun müsait olmaması hâlinde idari para cezasının ilk taksitinin peşin ödenmesi koşuluyla, 1 yıl içinde ve 4 eşit taksit hâlinde ödenmesine karar verilebilir. Taksitlerin süresinde veya tam olarak ödenmemesi hâlinde idari para cezasının ödenmemiş olan tutarları takibe alınarak tahsil edilir.

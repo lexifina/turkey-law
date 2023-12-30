@@ -1,0 +1,5 @@
+Re'sen kayıt
+MADDE 17 – (1) Yeni inşa edilmiş veya ithal edilmiş gemi, deniz ve içsu aracının mâlik veya işleteni, iktisap tarihinden itibaren bir ay içerisinde bağlama kütüğüne kayıt için başvuruda bulunmadıkları takdirde ve ilgili başkanlığa durum hakkında bilgi ulaşması halinde başkanlık tarafından aşağıdaki işlemler yapılır.
+a) Mâlik veya işletenin kimliği ve adresi bilinmiyor ise araştırılır. Kimlik ve adres malum veya yapılan araştırma neticesinde tespit edilmiş ise, 16 ncı maddedeki belgeleri hazırlayarak yirmi gün içinde Başkanlığa gelmesi için yazılı olarak davet edilir.
+b) Olumlu cevap gelirse, kayıt işlemi tamamlanır, harcı ödettirilerek ruhsatnamesi düzenlenir.
+c) Davete icabet edilmediği takdirde veya mâlikinin tespit edilemediği durumda, mevcut veriler ile yapılacak ölçüm ve teknik denetleme sonucunda elde edilecek bilgilere göre re’sen tescil bölümüne kayıt yapılır. Mâlik veya işleten daha sonra başkanlığa başvurup kayıtları güncelleştirdiğinde kayıt re’sen tescil bölümünden bağlama kaydı bölümüne aktarılır. Ruhsatname harcının tahsil edildiğine dair makbuzların ibrazından sonra ruhsatname düzenlenir.

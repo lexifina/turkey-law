@@ -1,0 +1,3 @@
+İtirazlar
+MADDE 24 – (1) Başkanlıklarca, bağlama kütüğü kapsamında yapılan iş ve işlemlere karşı ilgilisi veya bu iş ve işlemden hakları etkilenecek olanlar, işlemin öğrenildiği tarihten itibaren yedi gün içinde işlemi gerçekleştiren başkanlığa itiraz edebilir. Başkanlık, itirazı onbeş gün içinde inceler ve sonuçlandırır.
+(2) İtiraz kabul veya gerekçe gösterilmek suretiyle ret edilebilir. İtirazın kabul edildiği durumda, yapılan işlem itirazın mahiyetine göre değiştirilir ve keyfiyet diğer ilgililere tebliğ edilir. İtirazın reddedildiği durumda, itiraz sahibinin genel hükümlere göre dava açma hakkı saklıdır.

@@ -1,0 +1,3 @@
+Yetki, sorumluluk ve teşkilat
+MADDE 7 – (1) Bağlama kütüğünün tutulmasından liman başkanı yetkili ve sorumludur. Liman başkanlığının yetki alanına girmeyen iç sularda yetki ve sorumluluk yetkilendirilmiş belediye başkanındadır.
+(2) Bağlama kütüğünün tutulması ve kütükle ilgili tüm işlemlerin gerçekleştirilmesi için başkanlıklarda yeteri kadar bağlama kütüğü kayıt personeli görevlendirilerek ayrı bir birim oluşturulur. Bu birim bağlama kütüğünün tutulduğu limanlarda doğrudan liman başkanına bağlıdır. Bünyesinde gemi sicili tutulan liman başkanlıklarında, bağlama kütüğüne ilişkin iş ve işlemler, yeteri kadar bağlama kütüğü kayıt personeli görevlendirilmek suretiyle bu birim tarafından yerine getirilir.
