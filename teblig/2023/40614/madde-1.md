@@ -1,0 +1,2 @@
+Giriş ve konu
+MADDE 1– (1) Kayıtlı ekonominin desteklenmesi, kartla ödeme imkânlarının genişletilmesi ve yeni nesil ödeme kaydedici cihaz kullanımının yaygınlaştırılması amacıyla ödeme kaydedici cihaz kullanmak zorunda olan mükelleflerin kullandıkları eski nesil ödeme kaydedici cihazların yeni nesil ödeme kaydedici cihazlar ile değiştirilmesi ve yeni nesil ödeme kaydedici cihazlar üzerinden banka kartları ile ödeme imkânı sağlanması zorunluluğuna ilişkin hususlar bu Tebliğin konusunu oluşturmaktadır.
