@@ -1,0 +1,27 @@
+{
+  "number": "year-1",
+  "year": 2023,
+  "title": "2023 YILI MECLİS KARARLARI",
+  "decision_date": null,
+  "index_date": "2023-12-31",
+  "date_precision": "year",
+  "period": "2023",
+  "source": "https://www.evrensekiz.bel.tr/mecliskararlari",
+  "official_page": null,
+  "official_document": "http://www.evrensekiz.bel.tr/uploads/evrensekiz_bel_tr2024-08-072023 YILI MECLİS KARARLARI.pdf",
+  "source_sha256": "64d81cb1d4dcc1ff81c77721925ef0db5c86b952ddbd265a631b1d2b9cfaa55b",
+  "issuer": "Evrensekiz Belediye Meclisi",
+  "history_type": "metadata",
+  "text_status": "metadata-only: listing fields as published; the decisions are in the linked official document, not transcribed",
+  "in_force": "2023-12-31",
+  "in_force_basis": "The official listing dates this official file only by its year (2023); date set to 31 December of that year (turkey-law date convention for year-only sources, approved 2026-11-16); exact adoption dates are in the linked official document; legal commencement not asserted",
+  "missing": [
+    "decision numbers, dates and subjects",
+    "complete official decision text",
+    "official annexes"
+  ],
+  "law_text_complete": false,
+  "privacy_withheld": false,
+  "listing_label": "2023 YILI MECLİS KARARLARI",
+  "record_scope": "one official file of council decisions"
+}
