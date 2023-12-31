@@ -1,0 +1,52 @@
+{
+  "source_id": "9.5.24063",
+  "kind": "communique",
+  "register_kind": "Tebliğler",
+  "title": "BAĞIMSIZ DENETÇİLER İÇİN SÜREKLİ EĞİTİM TEBLİĞİ",
+  "number": "24063",
+  "issuer": "Kamu Gözetimi, Muhasebe ve Denetim Standartları Kurumu Başkanı",
+  "path": "teblig/2017/24063",
+  "source": "https://www.mevzuat.gov.tr/anasayfa/MevzuatFihristDetayIframe?MevzuatTur=9&MevzuatNo=24063&MevzuatTertip=5",
+  "source_sha256": "af42fed131f6947e1b9b20035cdcffb278ba3ad316ae31844bf6602a0bba6c04",
+  "source_bytes": 55303,
+  "published": "2017-11-04",
+  "gazette": "30230",
+  "in_force": "2023-12-31",
+  "in_force_basis": "latest Resmî Gazete date printed in the source amendment notes/table (\"RG-31/12/2023\") for the current consolidated text",
+  "date_evidence": [
+    [
+      "2023-12-31",
+      "RG-31/12/2023",
+      "Resmî Gazete date printed in the source amendment note"
+    ],
+    [
+      "2023-12-31",
+      "31/12/2023",
+      "Resmî Gazete date in the source amendment table"
+    ],
+    [
+      "2019-05-18",
+      "RG-18/5/2019",
+      "Resmî Gazete date printed in the source amendment note"
+    ],
+    [
+      "2019-05-18",
+      "18/5/2019",
+      "Resmî Gazete date in the source amendment table"
+    ]
+  ],
+  "commencement_clauses": [
+    "Bu Tebliğ yayımı tarihinde yürürlüğe girer"
+  ],
+  "history": "current-text",
+  "label": "oldest version available",
+  "checked_on": "2026-11-15",
+  "word_count": 2262,
+  "text_status": "current-consolidated",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  },
+  "completeness": "html-text-complete"
+}
