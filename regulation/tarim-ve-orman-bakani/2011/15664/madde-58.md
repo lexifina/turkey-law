@@ -1,0 +1,2 @@
+Süt ve süt ürünleri ile kolostrum ve kolostrum bazlı ürünlerin ambalajlanması
+MADDE 58 – (1) Tüketime sunulan ambalajların kapatılması, sıvı süt ürünleri ile kolostrum bazlı ürünlere son ısıl işlemin uygulandığı yerde dolumdan hemen sonra bulaşmayı önleyecek şekilde kapatma araçlarıyla gerçekleştirilir. Kapatma sistemi, açıldıktan sonra ürünün açılmış olduğunun kolayca anlaşılmasını sağlayacak şekilde tasarlanır.

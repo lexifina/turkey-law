@@ -1,0 +1,8 @@
+YİRMİİKİNCİ BÖLÜM
+İstisnai Uygulamalar
+İstisnai uygulamalar
+MADDE 85 – (1) Bu Yönetmeliğin 5, 6, 7, 8, 9, 10, 11, 12, 13, 14, 15, 16, 17, 18 ve 19 uncu bölümlerinde belirtilen hayvansal gıdalar için özel hijyen gereklilikleri dikkate alınmak kaydıyla geleneksel gıdalar ve bu gıdaların üretiminde altyapı, alet, ekipman ve üretim yöntemi ile piyasaya arzına ilişkin istisnai hükümler Bakanlıkça yayımlanacak Tebliğ ile belirlenir.
+(2) Bu Yönetmeliğin 5, 6, 7, 8, 9, 10, 11, 12, 13, 14, 15, 16, 17, 18 ve 19 uncu bölümlerinde belirtilen hayvansal gıdalar için özel hijyen gerekliliklerinin yerine getirilmesi hususunda coğrafi kısıtları bulunan bölgelerle ilgili istisnai hükümler Bakanlıkça yayımlanacak Tebliğ ile belirlenir.
+(3) Bakanlık, çiğ süt veya işlenmemiş kremanın doğrudan son tüketiciye satışına düzenleme getirebilir.
+(4) Bakanlık, bu Yönetmeliğin 13 üncü bölümünde belirtilen bakteri ve somatik hücre sayısı açısından kriterleri karşılamayan çiğ sütün, en az 60 günlük periyotta dinlendirilmesi ve olgunlaştırılması şartıyla Yönetmelik amaçlarına aykırı olmayacak şekilde peynir üretiminde kullanımına izin verebilir.
+(5) Üreticisi tarafından küçük miktarlardaki birincil ürünlerin son tüketiciye veya son tüketiciye doğrudan satışını yapan yerel perakendecilere doğrudan arzı, üreticisi tarafından çiftlikte kesilen kanatlı ve tavşanımsıların etlerini, küçük miktarlarda ve çiğ et olarak son tüketiciye veya son tüketiciye doğrudan satışını yapan yerel perakendecilere doğrudan arzı ve avcıların, yaban av hayvanları veya yaban av hayvanı etlerini küçük miktarlarda son tüketiciye veya son tüketiciye doğrudan satışını yapan yerel perakendecilere doğrudan arzına ilişkin usul ve esaslar Tebliğ ile belirlenir.

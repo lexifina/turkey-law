@@ -1,0 +1,11 @@
+Kesimhane dışında acil kesim
+MADDE 16 – (1) Gıda işletmecisi, sadece aşağıdaki gerekliliklerin sağlanması durumunda kesimhane dışında acil kesimi yapılan evcil tırnaklı hayvan etlerini insan tüketimine sunabilir:
+a) Sağlıklıyken geçirdiği bir kazadan dolayı acı çeken hayvanın, hayvan refahı sebepleri ile kesimhaneye nakledilememesi.
+b) Hayvanın ölüm öncesi muayenesinin veteriner hekim tarafından yürütülmesi.
+c) Kesilen ve kanı akıtılan hayvan, gereksiz gecikmelerden kaçınılarak hijyenik bir şekilde kesimhaneye nakledilir. Mide ve bağırsaklar hayvanın kesildiği yerde veteriner hekim gözetiminde çıkartılabilir. Çıkartılan iç organlar, kesilen hayvana eşlik etmeli ve bu hayvana ait olduğu tanımlanabilir olmalıdır.
+ç) Kesim ile kesimhaneye varış arasında 2 saatten daha fazla zamana ihtiyaç varsa, hayvan soğutulmalıdır. İklim şartlarının izin verdiği durumda, aktif soğutma gerekli değildir.
+d) Hayvanı yetiştiren gıda işletmecisinin bildirimi; hayvanın kimliğini, hayvanlara uygulanan ve belirli bir kalıntı arınma süresine sahip olan veteriner tıbbi ürünleri veya diğer tedavileri, kalıntı arınma sürelerini ve bunların uygulama tarihlerini içerir ve kesilen hayvanın beraberinde kesimhaneye iletilir.
+e) Ölüm öncesi muayenenin olumlu sonucunu, acil kesimin günü, zamanı, sebebini ve hayvana veteriner hekim tarafından uygulanan tedaviye ilişkin bilgileri içeren, veteriner hekim tarafından düzenlenen bir bildirim, kesilen hayvanın beraberinde kesimhaneye iletilir.
+f) Acil kesimi yapılan hayvan, yapılması gereken ilave testler de dahil olmak üzere Hayvansal Gıdaların Resmi Kontrollerine İlişkin Özel Kuralları Belirleyen Yönetmeliğe göre kesimhanede yürütülen ölüm sonrası muayeneden sonra insan tüketimi için uygun olmalıdır.
+g) Gıda işletmecisi, ölüm sonrası muayeneyi takiben etin kullanımına ilişkin resmi veya yetkilendirilmiş veteriner hekimin vereceği talimata uyar.
+ğ) Acil kesime tabi tutulan hayvanlardan elde edilen etler Hayvansal Gıdaların Resmi Kontrollerine İlişkin Özel Kuralları Belirleyen Yönetmelikte ön görülen sağlık işareti veya bu Yönetmeliğin 8 inci maddesinde öngörülmüş olan tanımlama işareti ile karıştırılmayacak şekilde özel bir sağlık işareti taşıması şartı ile piyasaya arz edilir.

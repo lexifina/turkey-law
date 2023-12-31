@@ -1,0 +1,3 @@
+Hammaddelerin nakli ve depolanması
+MADDE 73 – (1) Hammadde, toplama merkezine veya tabakhaneye ve jelatin işleyen tesislere sevk edilirken; bu Yönetmeliğin 8 inci maddesinde ön görülen tanımlama işaretinin yerine, menşe tesisi belirten ve Ek-4’te yer alan bilgileri içeren bir belge, nakliye süresince hammaddeye eşlik eder.
+(2) Hammaddeler, temin edildikleri yerden ayrılışlarından itibaren 24 saat içinde işlenmeyeceklerse; soğutularak veya dondurularak nakledilir ve depolanır. Bununla birlikte, yağı alınan ve kurutulan kemikler veya ossein; tuzlanmış, kurutulmuş, kireçlenmiş deriler; alkali veya asit ile muamele edilen deri ve postlar ortam sıcaklığında nakledilebilir ve depolanabilir.

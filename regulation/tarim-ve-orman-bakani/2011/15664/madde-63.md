@@ -1,0 +1,4 @@
+Yumurta ürünleri üretiminde kullanılan hammadde için gereklilikler
+MADDE 63 – (1) Gıda işletmecisi; yumurta ürünleri üretimi için kullanılan hammaddelerin aşağıdaki gerekliliklere uygunluğunu sağlar.
+a) Yumurta ürünlerinin üretiminde kullanılacak yumurtaların kabukları yapısal gelişimini tam olarak tamamlamış olmalı ve kırık içermemelidir. Çatlak yumurtalar, üretildikleri çiftlikten veya paketleme merkezinden, sıvı yumurta üretimi veya yumurta ürünlerinin işlenmesi konusunda onaylı bir işletmeye doğrudan getirilmesi halinde, işletmeye alındıktan sonra bekletilmeden kırılması koşuluyla sıvı yumurta ve yumurta ürünlerinin üretiminde kullanılabilir.
+b) Sıvı yumurta üretimi amacıyla onaylanmış bir tesisten elde edilen sıvı yumurta, hammadde olarak kullanılabilir. Sıvı yumurta, bu Yönetmeliğin 64 üncü maddesinin birinci fıkrasının (a), (b), (c), (ç) ve (f) bentlerinde belirtilen gerekliliklere uygun olarak elde edilir.

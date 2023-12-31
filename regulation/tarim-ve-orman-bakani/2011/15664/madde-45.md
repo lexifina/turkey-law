@@ -1,0 +1,33 @@
+Gemiler için gereklilikler
+MADDE 45 – (1) Gıda işletmecisi, balıkçılık ürünlerinin doğal ortamlarından avlanması için veya avlandıklarından sonra muamele veya işlenmeleri için kullanılan gemilerin aşağıda yer alan yapısal ve donanım gerekliliklerine uygun olmasını sağlar:
+a) Bütün gemiler için gereklilikler:
+1) Bu Yönetmelik kapsamındaki gemiler, sintine suyu, kişisel kullanım suyu, duman, yakıt, yağ, makine yağı veya diğer zararlı maddelerin, ürünlere bulaşmasına engel olacak şekilde tasarlanır ve inşa edilir.
+2) Balıkçılık ürünlerinin temas edeceği yüzeyler, pürüzsüz, temizlenmesi kolay, aşınmalara dayanıklı, toksik olmayan uygun malzemeden yapılır.
+3) Gemilerde balıkçılık ürünlerinde kullanılan ekipman, malzemeler ve balıkçılık ürünlerinin bulundurulduğu alanlar, temizlenmesi ve dezenfekte edilmesi kolay, aşınmaya karşı dayanıklı malzemelerden yapılır.
+4) Gemilerde balıkçılık ürünlerinde kullanılmak üzere su girişinin bulunması durumunda; su girişi, tedarik edilen suyun bulaşmasını önleyecek şekilde konumlandırılır.
+b) Taze balıkçılık ürünlerini 24 saatten fazla muhafaza etmek için tasarlanmış ve donatılmış gemiler için gereklilikler;
+1) Balıkçılık ürünlerini 24 saatten fazla süre ile muhafaza edecek gemilerde, bu Yönetmeliğin 51 inci maddesinde belirtilen sıcaklıklarda balıkçılık ürünlerinin muhafazası için depolar, tanklar veya konteynerler bulunur.
+2) Muhafaza depolarının, muhafaza edilen balıkçılık ürünlerinin bulaşmasını önleyecek şekilde, makine bölümlerinden ve mürettebatın bulunduğu bölümlerden ayrımı sağlanır. Balıkçılık ürünlerinin muhafazası için kullanılan depolar ve konteynerlerin yeterli hijyen koşulları altında korunmaları sağlanmalı ve gerekli durumlarda buzun erimesi sonucu oluşan suyun ürünlerle temasını engelleyecek yapıda olmalıdır.
+3) Balıkçılık ürünlerinin soğutulması işlemini, temiz deniz suyu ile sağlayacak balıkçı gemilerindeki tanklarda, tankların her yerinin aynı sıcaklıkta olmasını sağlayacak düzenek bulunur. Bu düzenek, balık ile temiz deniz suyu karışımının yüklenmesinden sonra 6 saatte 3°C’den fazla olmayan, 16 saatte de 0°C’den fazla olmayan sıcaklıklara soğutulmasını, sıcaklıkların izlenmesini ve gerektiğinde kaydedilmesini sağlar.
+c) Dondurucu gemiler için gereklilikler;
+1) Dondurucu gemiler, ürünlerin iç sıcaklığını hızlı bir şekilde -18 °C veya daha düşük sıcaklıklara düşürebilecek ve dondurulmuş balıkçılık ürünlerinin muhafazası için -18 °C veya daha düşük sıcaklık derecesini sürdürecek uygun ve yeterli kapasitede alt yapıya sahip olur.
+2) Dondurucu gemilerin muhafaza odalarında, kolay okunabilir bir yerde sıcaklık kayıt cihazı bulunur. Sıcaklık sensörü, muhafaza odasındaki en yüksek sıcaklığa sahip olan bölgeye yerleştirilir.
+3) Dondurucu gemiler, bu maddenin birinci fıkrasının (b) bendinin (2) numaralı alt bendindeki gereklilikleri karşılar.
+ç) Fabrika gemileri için gereklilikler;
+1) Gemide avlanan her partinin ayrı olarak çekilebileceği yeterli kabul alanı bulunur. Bu alan temizlenmesi kolay ve ürünleri güneşten veya diğer dış faktörlerden ve herhangi bir bulaşma kaynağından koruyacak şekilde olmalıdır.
+2) İşlenecek ürünlerin, kabul alanından işleme alanına hijyen kurallarına uygun naklini sağlayacak bir sistem bulunur.
+3) İşleme alanları, ürünlerin hijyenik bir şekilde hazırlanmasını ve işlenmesini sağlayacak yeterli büyüklükte olmalıdır. Alan ve kullanılan ekipman, temizlenmesi ve dezenfekte edilmesi kolay, ürünlerde herhangi bir bulaşmaya neden olmayacak şekilde tasarlanmalı ve düzenlenmelidir.
+4) Son ürünlerinin muhafazası için kolay temizlenebilir ve yeterli büyüklükte depolama alanları bulunur. Eğer gemide atık işleme ünitesi varsa atıkların depolanması için ayrı bir depo bulunmalıdır.
+5) Ambalajlama ve paketleme materyalleri için ürün hazırlama ve işleme alanlarından ayrı depolama alanları bulunur.
+6) İnsan tüketimine uygun olmayan balıkçılık ürünleri ve atıklar için özel ekipman veya koşullar gerektirdiğinde bu amaç için tahsis edilen su geçirmez tanklar bulunur. Eğer sağlık açısından atıklar gemide depolanacak ve işleme tabi tutulacaksa, bu amaç için ayrı bir alan tahsis edilir. İnsan tüketimine uygun olmayan atıklar denize verilmek isteniyor ise 9/8/1983 tarihli ve 2872 sayılı Çevre Kanunu ve ilgili mevzuata uygun olarak bertaraf edilir.
+7) Su girişi, tedarik edilen suyun bulaşmasını önleyecek şekilde konumlandırılır.
+8) Balıkçılık ürünlerine temas edecek personelin el temizliği ve dezenfeksiyonuna yönelik yeterli sayıda ve bulaşmayı önleyecek şekilde tasarlanmış musluk ve el dezenfeksiyon sistemi bulunur.
+9) Sadece, gemi üzerinde kabukluların ve yumuşakçaların pişirilmesi, soğutulması ve ambalajlanması işlemlerini yapan fabrika gemileri, bu fıkranın (ç) bendinin (1), (2), (3), (4), (5), (6), (7) ve (8) numaralı alt bentlerinde belirtilen gereklilikleri karşılamak zorunda değildir.
+10) Balıkçılık ürünlerini donduracak fabrika gemileri, bu fıkranın (c) bendinin (1) ve (2) numaralı alt bentlerinde belirtilen gereklilikleri karşılayan ekipmana sahip olmalıdır.
+(2) Gıda işletmecisi, gemide yürütülen faaliyetleri aşağıda belirtilen hijyen gerekliliklerine uygun olarak gerçekleştirir:
+a) Balıkçılık ürünlerinin depolanması için ayrılan depolama bölümleri, kullanılması halinde bakımlı ve temiz tutulur, özellikle yakıt ve sintine suyu ile bulaşması engellenir.
+b) Balıkçılık ürünleri gemiye alındıktan sonra mümkün olan en kısa sürede bulaşma, güneş ışığı veya herhangi bir ısı kaynağının etkisinden korunur.
+c) Balıkçılık ürünleri zedelenmeye engel olacak şekilde muamele edilir ve depolanır. Muamele eden kişiler kendilerine zarar verebilecek balıklar veya büyük balıkların taşınmasında etin zarar görmemesini sağlamak koşuluyla uzun ve ucu sivri aletler kullanabilirler.
+ç) Canlı olarak muhafaza edilecekler dışındaki balıkçılık ürünleri gemiye yüklendikten sonra en kısa sürede soğutma işlemine tabi tutulur. Soğutma işlemi yapamayan gemiler, ürünlerini mümkün olan en kısa sürede karaya çıkartır.
+d) Balıkların kafalarının ayrılması ve/veya iç organlarının çıkarılması işlemleri gemide yapılacak ise, bu işlemler yakalandıktan sonra en kısa sürede hijyen kurallarına uygun olarak yapılır. Ürünler hemen ve iyice yıkanır. Halk sağlığına tehlike oluşturabilecek iç organlar ve parçalar mümkün olan en kısa sürede çıkartılır ve insan tüketimine sunulacak ürünlerden ayrı tutulur. İnsan tüketimine sunulacak karaciğer ve balık yumurtası buzun erime sıcaklığına yakın bir sıcaklıkta buz altında muhafaza edilir veya dondurulur.
+e) Konserve yapımında kullanılmak üzere bütün olarak tuzlu suda dondurulan balıklar -9°C’den fazla olmayan sıcaklıkta muhafaza edilir. Tuzlu su bulaşma kaynağı olmamalıdır.

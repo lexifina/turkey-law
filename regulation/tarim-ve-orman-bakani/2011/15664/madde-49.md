@@ -1,0 +1,12 @@
+Balıkçılık ürünleri için sağlık standartları
+MADDE 49 – (1) Gıda işletmecisi, Gıda Hijyeni Yönetmeliğinin gerekliliklerini karşılamak üzere mikrobiyolojik kriterlere uygunluğun sağlanmasına ilave olarak, insan tüketimi için piyasaya arz edilecek balıkçılık ürünlerinin, ürünün yapısına veya balık türlerine bağlı olarak bu maddede yer alan standartları karşılamasını sağlar.
+(2) Balıkçılık ürünleri için sağlık standartları;
+a) Balıkçılık ürünlerinin duyusal özellikleri: Gıda işletmecisi balıkçılık ürünleri için duyusal muayene yapmalıdır. Özellikle, bu muayene, balıkçılık ürünlerinin tazelik kriterleri ile uyumlu olmalıdır.
+b) Histamin: Gıda işletmecisi, ilgili mevzuatta belirtilen histamin limitinin aşılmamasını sağlamalıdır.
+c) Toplam uçucu nitrojen: Kimyasal testler, ilgili mevzuatta belirtilen TVB-N limitlerinin aşıldığını ortaya koymuş ise işlenmemiş balıkçılık ürünleri piyasaya arz edilemez.
+ç) Parazitler: Gıda işletmecisi, piyasaya arz edilmeden önce görünür parazitleri belirlemek amacıyla balıkçılık ürünlerinin görsel muayeneye tabi tutulmasını sağlar. Parazitler ile bulaşık olduğu gözlenen balıkçılık ürünleri insan tüketimi için piyasaya arz edilemez.
+d) İnsan sağlığına zararlı toksinler;
+1) Tetraodontidae, Molidae, Diotontidae ve Canthigasteridae familyalarının zehirli balıklarından elde edilen balıkçılık ürünleri piyasaya arz edilemez.
+2) Gempylidae familyasına özellikle Ruvettus pretiosus ve Lepidocybium flavobrunneum türlerine ait taze, hazırlanmış, dondurulmuş ve işlenmiş balıkçılık ürünleri sadece paketlenmiş/ambalajlanmış şekilde ve hazırlama/pişirme yöntemleri ile sindirim sistemi rahatsızlıklarına yol açan maddelerin varlığına ilişkin risk hakkında tüketiciye bilgi sağlayacak şekilde etiketlendikten sonra piyasaya arz edilir. Balıkçılık ürünlerinin bilimsel ve ticari adı etiket üzerinde yer alır.
+3) Cigua toksin veya kas felci toksinleri gibi biyotoksinleri içeren balıkçılık ürünleri, piyasaya arz edilemez. Bununla birlikte, bu Yönetmeliğin 11 inci bölümüne uygun olarak üretilmiş ve bu Yönetmeliğin 39 uncu maddesinin birinci fıkrasının (b) bendinde belirtilmiş olan standartlara uygun ise, çift kabuklu yumuşakçalardan, denizkestanelerinden, gömlekliler ve denizde yaşayan karından bacaklılardan elde edilen balıkçılık ürünleri piyasaya arz edilebilir.
+(3) İnsan tüketimi için amaçlanan balık yağı üretiminde doğrudan kullanılan bütün haldeki balıklara bu maddenin ikinci fıkrasının (b) ve (ç) bentlerinde yer alan gereklilikler uygulanmaz.
