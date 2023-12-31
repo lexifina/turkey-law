@@ -1,0 +1,20 @@
+{
+  "record_type": "gazette-item",
+  "gazette": "Resmî Gazete",
+  "jurisdiction": "TR",
+  "date": "2023-12-31",
+  "issue": "32416",
+  "edition": "mükerrer 4",
+  "item": 16,
+  "section": "YÜRÜTME VE İDARE BÖLÜMÜ",
+  "heading": "TEBLİĞLER",
+  "title": "Tıbbi Cihazların İthalat Denetimi Tebliği (Ürün Güvenliği ve Denetimi: 2024/16)",
+  "official_link": "https://www.resmigazete.gov.tr/eskiler/2023/12/20231231M4-16.htm",
+  "link_format": "htm",
+  "index_url": "https://www.resmigazete.gov.tr/eskiler/2023/12/20231231M4.htm",
+  "index_sha256": "545735dbde9de75e2a500dd80e8a1f12a07fdb9e6faacf258715445e5a0d199f",
+  "index_header": "31 Aralık 2023 ... 32416 Sayılı Resmî Gazete",
+  "issue_pdf": "https://www.resmigazete.gov.tr/eskiler/2023/12/20231231M4.pdf",
+  "in_force_basis": "Resmî Gazete publication date; not a commencement reading.",
+  "text_status": "metadata-only; text not yet fetched (follow-up pass adds it as its own commit)"
+}
