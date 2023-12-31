@@ -1,0 +1,6 @@
+Uygulama tedbirleri
+MADDE 37 ‒ (1) Bakanlık, 36 ncı maddenin uygulanması için aşağıdaki hususları dikkate alarak uygulama tedbirleri geliştirir.
+a) 7 nci maddenin birinci fıkrasının (a) ve (b) bentlerinde yer alan hayvansal yan ürünler ve bunların türev ürünlerinin ithalatı ve transiti için koşullar,
+b) 36 ncı maddenin dördüncü fıkrasına uygun olarak veya diğer halk ve hayvan sağlığı amaçları için hazırlanan ihracatçı ülke veya ihracatçı ülke bölgelerinin listesine dayanılarak ithal edilen 7 nci maddenin birinci fıkrasının (c) bendinde yer alan kategori III materyali veya bunların türev ürünlerine uygulanabilecek kısıtlamalar,
+c) Hayvansal yan ürün veya türev ürünlerinin muamele edildiği belirli işletmelerin veya tesislerin 36 ncı maddenin üçüncü fıkrasının (b) bendinde belirtilen onay veya kayıttan muafiyeti ve yetkili otorite tarafından bu işletmelerin ve yerlerin kontrolü için düzenlemeleri içeren, ihracatçı ülkelerdeki işletmelerde veya yerlerde hayvansal yan ürünler veya türev ürünlerin imalatı için koşullar,
+ç) İlgili hayvansal yan ürün veya türev ürünlerin bu Yönetmeliğin şartlarına uygun olarak toplanmış ve üretilmiş olduğunu tespit edebilecek koşulları belirten ve sevkiyatlara eşlik eden sağlık sertifikası için modeller, ticari belgeler ve taahhütnameler.

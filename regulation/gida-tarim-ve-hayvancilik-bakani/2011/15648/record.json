@@ -1,0 +1,78 @@
+{
+  "source_id": "7.5.15648",
+  "kind": "regulation",
+  "register_kind": "Kurum ve Kuruluş Yönetmelikleri",
+  "title": "İNSAN TÜKETİMİ AMACIYLA KULLANILMAYAN HAYVANSAL YAN ÜRÜNLER YÖNETMELİĞİ",
+  "number": "15648",
+  "issuer": "Gıda, Tarım ve Hayvancılık Bakanı",
+  "issuer_slug": "gida-tarim-ve-hayvancilik-bakani",
+  "path": "regulation/gida-tarim-ve-hayvancilik-bakani/2011/15648",
+  "source": "https://www.mevzuat.gov.tr/anasayfa/MevzuatFihristDetayIframe?MevzuatTur=7&MevzuatNo=15648&MevzuatTertip=5",
+  "source_sha256": "772c621792a0f95e76bb7a9e7177c1691c30a5be589a470c57f9af9a50fd8dda",
+  "source_bytes": 189888,
+  "published": "2011-12-24",
+  "gazette": "28152",
+  "in_force": "2023-12-31",
+  "in_force_basis": "latest Resmî Gazete date printed in the source amendment notes/table (\"RG-31/12/2023\") for the current consolidated text",
+  "date_evidence": [
+    [
+      "2023-12-31",
+      "RG-31/12/2023",
+      "Resmî Gazete date printed in the source amendment note"
+    ],
+    [
+      "2023-12-31",
+      "31/12/2023",
+      "Resmî Gazete date in the source amendment table"
+    ],
+    [
+      "2022-08-09",
+      "RG-9/8/2022",
+      "Resmî Gazete date printed in the source amendment note"
+    ],
+    [
+      "2022-08-09",
+      "9/8/2022",
+      "Resmî Gazete date in the source amendment table"
+    ],
+    [
+      "2018-11-27",
+      "27/11/2018",
+      "Resmî Gazete date in the source amendment table"
+    ],
+    [
+      "2016-01-06",
+      "RG-6/1/2016",
+      "Resmî Gazete date printed in the source amendment note"
+    ],
+    [
+      "2016-01-06",
+      "6/1/2016",
+      "Resmî Gazete date in the source amendment table"
+    ],
+    [
+      "2013-12-24",
+      "RG-24/12/2013",
+      "Resmî Gazete date printed in the source amendment note"
+    ],
+    [
+      "2013-12-24",
+      "24/12/2013",
+      "Resmî Gazete date in the source amendment table"
+    ]
+  ],
+  "history": "current-text",
+  "label": "oldest version available",
+  "checked_on": "2026-11-15",
+  "word_count": 9248,
+  "text_status": "current-consolidated",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  },
+  "source_links": [
+    "7.5.15648-EK.doc"
+  ],
+  "completeness": "html-text-complete; linked annexes not fetched"
+}
