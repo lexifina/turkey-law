@@ -1,0 +1,27 @@
+{
+  "number": "year-1",
+  "year": 2023,
+  "title": "KARAR DETAYI",
+  "decision_date": null,
+  "index_date": "2023-12-31",
+  "date_precision": "year",
+  "period": "2023",
+  "source": "https://www.ardesen.bel.tr/Karar/ardesen-beledisi-2023-faaliyet-raporu.html",
+  "official_page": "https://www.ardesen.bel.tr/Karar/ardesen-beledisi-2023-faaliyet-raporu.html",
+  "official_document": "https://www.ardesen.bel.tr/tema/osmanemre/uploads/meclis_kararlari/dosya/2023.pdf",
+  "source_sha256": "e00baf28abf47fcd305e202cdf1be8ab12e88caeb77f6c88caab5e907d1f0d50",
+  "issuer": "Ardeşen Belediye Meclisi",
+  "history_type": "metadata",
+  "text_status": "metadata-only: listing fields as published; the decisions are in the linked official document, not transcribed",
+  "in_force": "2023-12-31",
+  "in_force_basis": "The official listing dates this official file only by its year (2023); date set to 31 December of that year (turkey-law date convention for year-only sources, approved 2026-11-16); exact adoption dates are in the linked official document; legal commencement not asserted",
+  "missing": [
+    "decision numbers, dates and subjects",
+    "complete official decision text",
+    "official annexes"
+  ],
+  "law_text_complete": false,
+  "privacy_withheld": false,
+  "listing_label": "KARAR DETAYI",
+  "record_scope": "one official file of council decisions"
+}
