@@ -1,0 +1,5 @@
+Karar
+MADDE 4- (1) Yürütülen soruşturma sonucunda, ÇHC menşeli ürünlere yönelik önlemin yürürlükten kalkması durumunda dampingin ve zararın devam etmesinin veya yeniden meydana gelmesinin muhtemel olduğu saptanmıştır. Ticaret Bakanlığı İthalat Genel Müdürlüğü tarafından yürütülerek tamamlanan soruşturma sonucunda ulaşılan bilgi ve bulguları içeren Bilgilendirme Raporu Ek’te yer almaktadır.
+(2) Bu çerçevede, soruşturma neticesinde ulaşılan tespitleri değerlendiren Kurulun kararı ile 19/6/2018 tarihli ve 30453 sayılı Resmî Gazete’de yayımlanan İthalatta Haksız Rekabetin Önlenmesine İlişkin Tebliğ (Tebliğ No: 2018/22) ile yürürlükte olan dampinge karşı önlemin, Yönetmeliğin 42 nci maddesi çerçevesinde aşağıdaki tabloda gösterilen biçimde uygulanmaya devam edilmesine karar verilmiştir.
+GTİP | Eşya Tanımı | Menşe Ülke | Firma Ünvanı | Dampinge Karşı Önlem (CIF %)
+9613.80.00.00.11 | Ateşleyiciler (yalnız gazlı fırın ve ocaklarda ateşleme sistemi olarak kullanılanlar) | Çin Halk Cumhuriyeti | Tüm firmalar | %24,55
