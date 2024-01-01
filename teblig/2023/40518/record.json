@@ -1,0 +1,37 @@
+{
+  "checked_on": "2026-11-15",
+  "commencement_quote": "Bu Tebliğ 1/1/2024 tarihinde yürürlüğe girer",
+  "date_gazette": "32406",
+  "date_quote": "Bu Tebliğ 1/1/2024 tarihinde yürürlüğe girer",
+  "first_law": null,
+  "gazette": "32406",
+  "history": "current-text",
+  "images": {
+    "deferred": 0,
+    "omitted": 0,
+    "referenced": 0,
+    "source": 0
+  },
+  "in_force": "2024-01-01",
+  "in_force_basis": "Own commencement clause: Bu Tebliğ 1/1/2024 tarihinde yürürlüğe girer",
+  "issuer": "Enerji ve Tabii Kaynaklar Bakanlığı",
+  "issuer_catalog_evidence": [
+    {
+      "evidence": "issuer-122-0.json",
+      "id": "122",
+      "label": "Enerji ve Tabii Kaynaklar Bakanlığı",
+      "listing_url": "https://www.mevzuat.gov.tr/Anasayfa/MevzuatDatatable?MevzuatTur=Teblig&KurumId=122&start=0&length=100"
+    }
+  ],
+  "issuer_slug": "enerji-ve-tabii-kaynaklar-bakanligi",
+  "kind": "communique",
+  "label": "oldest version available",
+  "notes": [],
+  "published": "2023-12-21",
+  "source": "https://www.mevzuat.gov.tr/anasayfa/MevzuatFihristDetayIframe?MevzuatTur=9&MevzuatNo=40518&MevzuatTertip=5",
+  "source_bytes": 22417,
+  "source_id": "9.5.40518",
+  "source_sha256": "ffa40bd47e25e4c825e1b9622002cb024b30ea865c13bb06be91e41220069a68",
+  "title": "7381 SAYILI NÜKLEER DÜZENLEME KANUNUNUN 25 İNCİ MADDESİ\r\nUYARINCA 2024 YILINDA UYGULANACAK İDARİ PARA\r\nCEZALARINA İLİŞKİN TEBLİĞ",
+  "word_count": 313
+}
