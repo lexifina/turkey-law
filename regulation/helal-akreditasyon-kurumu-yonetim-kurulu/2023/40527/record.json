@@ -1,0 +1,31 @@
+{
+  "source_id": "7.5.40527",
+  "kind": "regulation",
+  "register_kind": "Kurum ve Kuruluş Yönetmelikleri",
+  "title": "HELAL UYGUNLUK BELGELİ ÜRÜNLERİN İTHALATINA İLİŞKİN YÖNETMELİK",
+  "number": "40527",
+  "issuer": "Helal Akreditasyon Kurumu Yönetim Kurulu",
+  "issuer_slug": "helal-akreditasyon-kurumu-yonetim-kurulu",
+  "path": "regulation/helal-akreditasyon-kurumu-yonetim-kurulu/2023/40527",
+  "source": "https://www.mevzuat.gov.tr/anasayfa/MevzuatFihristDetayIframe?MevzuatTur=7&MevzuatNo=40527&MevzuatTertip=5",
+  "source_sha256": "eb2a079568a5e37f1eb74fbcb7222d60330ed4b3c4981a7fdc467c5459a55cff",
+  "source_bytes": 11669,
+  "published": "2023-04-28",
+  "gazette": "32174",
+  "in_force": "2024-01-01",
+  "in_force_basis": "own commencement article: \"Bu Yönetmelik 1/1/2024 tarihinde yürürlüğe girer\"",
+  "commencement_clauses": [
+    "Bu Yönetmelik 1/1/2024 tarihinde yürürlüğe girer"
+  ],
+  "history": "current-text",
+  "label": "oldest version available",
+  "checked_on": "2026-11-15",
+  "word_count": 391,
+  "text_status": "current-consolidated",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  },
+  "completeness": "html-text-complete"
+}
