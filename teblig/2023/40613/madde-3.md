@@ -1,0 +1,2 @@
+Yeniden değerleme oranında artırılan had ve tutarlar
+MADDE 3 – (1) 213 sayılı Kanunun mükerrer 414 üncü maddesi hükmü uyarınca, aynı Kanunun 104, mükerrer 115, 153/A, 177, 232, 252, mükerrer 257, 313, 323, 343, 352 (Kanuna Bağlı Cetvel), 353, 355, mükerrer 355, 370, Ek 1 ve Ek 11 inci maddelerinde yer alıp 2023 yılında uygulanan had ve tutarların, 2023 yılı için % 58,46 (ellisekiz virgül kırkaltı) olarak tespit edilen yeniden değerleme oranında artırılması suretiyle belirlenen ve 1/1/2024 tarihinden itibaren uygulanacak olan had ve tutarlar ekli listede gösterilmiştir.
