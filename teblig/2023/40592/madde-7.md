@@ -1,0 +1,6 @@
+Yetkili kuruluşun bildirimlere ilişkin sorumlulukları
+MADDE 7- (1) Yetkili kuruluş, uygunluk değerlendirme kuruluşu ve onaylanmış kuruluş bildirimlerinden sorumlu asil ve yedek personeli Bildirim Temas Noktası olarak belirleyerek bu personelin isim, unvan ve iletişim bilgilerini Bakanlığa yazılı olarak iletir. Bu bilgilerde değişiklik olması durumunda Bakanlık aynı usulle bilgilendirilir.
+(2) Yetkili kuruluş, bu Tebliğ kapsamı bildirimleri Bakanlığa bildirim formu ve bulunması halinde Türkçe ve İngilizce akreditasyon sertifikası ile birlikte resmî yazı ile iletir. Yazıda, bildirimlere dair yetkili kuruluşun açıklamalarına yer verilir.
+(3) Akreditasyon sertifikasının eşlik etmediği bildirimler, Yönetmeliğin 10 uncu maddesinin birinci fıkrasında belirtilen usulde Bakanlığa iletilir.
+(4) Yetkili kuruluş, faaliyetleri kısıtlanan, askıya alınan, durdurulan, statüsüne son verilmesi uygun görülen veya kendi isteğiyle faaliyetlerine son veren uygunluk değerlendirme kuruluşları ve onaylanmış kuruluşları Bakanlığa resmî yazı ile bildirir. Yazıda, yetkili kuruluşun açıklamalarına yer verilir.
+(5) Yetkili kuruluş resmî yazı ekinde yer alan bildirim formu ve bulunması halinde Türkçe ve İngilizce akreditasyon sertifikasının bir örneğini aynı gün NANDO Temas Noktasına elektronik posta ile iletir.
