@@ -1,0 +1,37 @@
+{
+  "checked_on": "2026-11-15",
+  "commencement_quote": "Bu Tebliğ 1/1/2024 tarihinde yürürlüğe girer",
+  "date_gazette": "32405",
+  "date_quote": "Bu Tebliğ 1/1/2024 tarihinde yürürlüğe girer",
+  "first_law": null,
+  "gazette": "32405",
+  "history": "current-text",
+  "images": {
+    "deferred": 0,
+    "omitted": 0,
+    "referenced": 0,
+    "source": 0
+  },
+  "in_force": "2024-01-01",
+  "in_force_basis": "Own commencement clause: Bu Tebliğ 1/1/2024 tarihinde yürürlüğe girer",
+  "issuer": "Çalışma ve Sosyal Güvenlik Bakanlığı",
+  "issuer_catalog_evidence": [
+    {
+      "evidence": "issuer-105-0.json",
+      "id": "105",
+      "label": "Çalışma ve Sosyal Güvenlik Bakanlığı",
+      "listing_url": "https://www.mevzuat.gov.tr/Anasayfa/MevzuatDatatable?MevzuatTur=Teblig&KurumId=105&start=0&length=100"
+    }
+  ],
+  "issuer_slug": "calisma-ve-sosyal-guvenlik-bakanligi",
+  "kind": "communique",
+  "label": "oldest version available",
+  "notes": [],
+  "published": "2023-12-20",
+  "source": "https://www.mevzuat.gov.tr/anasayfa/MevzuatFihristDetayIframe?MevzuatTur=9&MevzuatNo=40515&MevzuatTertip=5",
+  "source_bytes": 7692,
+  "source_id": "9.5.40515",
+  "source_sha256": "17c2f23da8cf45b6b9d1d2d32531e8aa2e54d1622f5883dd39697259153d74b7",
+  "title": "4054 SAYILI REKABETİN KORUNMASI HAKKINDA KANUNUN 16 NCI MADDESİNİN BİRİNCİ FIKRASINDA ÖNGÖRÜLEN İDARİ PARA CEZASI ALT SINIRININ 31/12/2024 TARİHİNE KADAR GEÇERLİ OLMAK ÜZERE ARTIRILMASINA İLİŞKİN TEBLİĞ (TEBLİĞ NO: 2024/1)",
+  "word_count": 119
+}
