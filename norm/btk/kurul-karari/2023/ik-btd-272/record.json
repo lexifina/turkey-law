@@ -1,0 +1,18 @@
+{
+  "kind": "norm",
+  "issuer": "Bilgi Teknolojileri ve İletişim Kurumu",
+  "document_type": "kurul-karari",
+  "number": "2023/İK-BTD/272",
+  "source_id": "2023/İK-BTD/272",
+  "date": "2023-09-08",
+  "title": "Elektronik Kimlik Bilgisini Haiz Cihazların Kayıt Altına Alınmasına Dair Yönetmelikte Değişiklik Yapılmasına İlişkin Yönetmelik",
+  "source": "https://www.btk.gov.tr/s3/web-btk-site/7708c26c-5161-4919-8b3d-daa31d4ac8fb/2026/03/937c432e-0587-427e-b80c-308f955b52b6.pdf",
+  "source_sha256": "8048a22cf7ed1f6bda593a9434d4bb0b94c055c8b427650199ceb6583176b453",
+  "text_status": "as-enacted",
+  "text_file": "metin.md",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  }
+}
