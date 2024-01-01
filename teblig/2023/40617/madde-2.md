@@ -1,0 +1,2 @@
+Dayanak
+MADDE 2- (1) Bu Tebliğ, 11/3/2010 tarihli ve 5957 sayılı Sebze ve Meyveler ile Yeterli Arz ve Talep Derinliği Bulunan Diğer Malların Ticaretinin Düzenlenmesi Hakkında Kanunun 10 uncu maddesinin beşinci ve altıncı fıkraları ile 11/7/2012 tarihli ve 28350 sayılı Resmî Gazete’de yayımlanan Hal Hakem Heyeti ve Toptancı Hal Konseyi Hakkında Yönetmeliğin 18 inci maddesine dayanılarak hazırlanmıştır.
