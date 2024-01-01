@@ -1,0 +1,31 @@
+{
+  "number": "8043",
+  "title": "İTHALAT REJİMİ KARARINDA DEĞİŞİKLİK YAPILMASINA İLİŞKİN KARAR (KARAR SAYISI: 8043)",
+  "official_url": "https://www.mevzuat.gov.tr/anasayfa/MevzuatFihristDetayIframe?MevzuatTur=20&MevzuatNo=8043&MevzuatTertip=5",
+  "listing_url": "https://www.mevzuat.gov.tr/MevzuatMetin/20.5.8043.pdf",
+  "gazette_date": "2023-12-31",
+  "gazette_number": "32416 (Mükerrer)",
+  "in_force": "2024-01-01",
+  "in_force_basis": "Official own commencement article: MADDE 3- Bu Karar 1/1/2024 tarihinde yürürlüğe girer.",
+  "publication_evidence": {
+    "published": "2023-12-31",
+    "gazette": "32416 (Mükerrer)",
+    "basis": "official MBS listing resmiGazeteTarihi/resmiGazeteSayisi",
+    "listed_published": "31.12.2023",
+    "listed_gazette": "32416 (Mükerrer)"
+  },
+  "first_law": null,
+  "text_status": "current-text",
+  "version_label": "oldest version available",
+  "source_sha256": "7b796c7c798ce47bdd0ecf57e3fad5f5912ee4a2406fd92d71946129a371d2e0",
+  "source_images": 0,
+  "referenced_images": 0,
+  "omitted_images": 0,
+  "held_annexes": [
+    {
+      "title": "Ekleri için tıklayınız",
+      "official_url": "https://www.mevzuat.gov.tr/MevzuatMetin/20.5.8043-Ek.zip",
+      "status": "not included; linked annex remains to be added"
+    }
+  ]
+}
