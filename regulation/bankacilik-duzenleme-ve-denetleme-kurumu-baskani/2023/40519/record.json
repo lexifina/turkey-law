@@ -1,0 +1,31 @@
+{
+  "source_id": "7.5.40519",
+  "kind": "regulation",
+  "register_kind": "Kurum ve Kuruluş Yönetmelikleri",
+  "title": "RİSK GRUPLARININ BELİRLENMESİNE VE KREDİ SINIRLARINA İLİŞKİN YÖNETMELİK",
+  "number": "40519",
+  "issuer": "Bankacılık Düzenleme ve Denetleme Kurumu Başkanı",
+  "issuer_slug": "bankacilik-duzenleme-ve-denetleme-kurumu-baskani",
+  "path": "regulation/bankacilik-duzenleme-ve-denetleme-kurumu-baskani/2023/40519",
+  "source": "https://www.mevzuat.gov.tr/anasayfa/MevzuatFihristDetayIframe?MevzuatTur=7&MevzuatNo=40519&MevzuatTertip=5",
+  "source_sha256": "3e9d24af2171d2b10754127cb5f8325150d37bc6f7898db7cf2cbf7fad4e6ea6",
+  "source_bytes": 80541,
+  "published": "2023-12-21",
+  "gazette": "32406",
+  "in_force": "2024-01-01",
+  "in_force_basis": "own commencement article: \"Bu Yönetmelik 1/1/2024 tarihinde yürürlüğe girer\"",
+  "commencement_clauses": [
+    "Bu Yönetmelik 1/1/2024 tarihinde yürürlüğe girer"
+  ],
+  "history": "current-text",
+  "label": "oldest version available",
+  "checked_on": "2026-11-15",
+  "word_count": 4400,
+  "text_status": "current-consolidated",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  },
+  "completeness": "html-text-complete"
+}
