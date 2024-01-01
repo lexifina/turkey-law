@@ -1,0 +1,37 @@
+{
+  "checked_on": "2026-11-15",
+  "commencement_quote": "Bu Tebliğ 1/1/2024 tarihinde yürürlüğe girer",
+  "date_gazette": "32411",
+  "date_quote": "Bu Tebliğ 1/1/2024 tarihinde yürürlüğe girer",
+  "first_law": null,
+  "gazette": "32411",
+  "history": "current-text",
+  "images": {
+    "deferred": 0,
+    "omitted": 0,
+    "referenced": 0,
+    "source": 0
+  },
+  "in_force": "2024-01-01",
+  "in_force_basis": "Own commencement clause: Bu Tebliğ 1/1/2024 tarihinde yürürlüğe girer",
+  "issuer": "Adalet Bakanlığı",
+  "issuer_catalog_evidence": [
+    {
+      "evidence": "issuer-58-0.json",
+      "id": "58",
+      "label": "Adalet Bakanlığı",
+      "listing_url": "https://www.mevzuat.gov.tr/Anasayfa/MevzuatDatatable?MevzuatTur=Teblig&KurumId=58&start=0&length=100"
+    }
+  ],
+  "issuer_slug": "adalet-bakanligi",
+  "kind": "communique",
+  "label": "oldest version available",
+  "notes": [],
+  "published": "2023-12-26",
+  "source": "https://www.mevzuat.gov.tr/anasayfa/MevzuatFihristDetayIframe?MevzuatTur=9&MevzuatNo=40504&MevzuatTertip=5",
+  "source_bytes": 44482,
+  "source_id": "9.5.40504",
+  "source_sha256": "caa8a9e37dd88b7cbd8553d5ed62a9ebcdc94afaf92bfe7c170aa3e5bbda8c97",
+  "title": "YURT DIŞI TEBLİGAT VE İSTİNABE TALEPLERİNDE UYULMASI\r\nGEREKEN USUL VE ESASLARA DAİR TEBLİĞ",
+  "word_count": 2163
+}
