@@ -1,0 +1,22 @@
+{
+  "number": "1",
+  "number_as_published": "2024/01",
+  "year": 2024,
+  "title": "2024 yılı Meclis Çalışma Takvimi",
+  "decision_date": "2024-01-02",
+  "source": "https://eyupsultan.bel.tr/tr/main/pages/2024-ocak-ayi-meclis-kararlari/2494",
+  "official_document": "https://eyupsultan.bel.tr/tr/main/pages/2024-01/2495",
+  "source_sha256": "7e242df6d558dc65e8cf548279b0d1afca8c7b28ba6eb0b9fc95bc41e8f8f141",
+  "issuer": "Eyüpsultan Belediye Meclisi",
+  "history_type": "metadata",
+  "text_status": "metadata-only: listing fields as published; complete decision text is in the linked official document, not transcribed",
+  "in_force": "2024-01-02",
+  "in_force_basis": "Decision date as printed in the official council listing: 02.01.2024 (meeting date at the start of the decision page); adoption date of the council decision; legal commencement not asserted",
+  "missing": [
+    "complete official decision text",
+    "official annexes"
+  ],
+  "law_text_complete": false,
+  "privacy_withheld": false,
+  "decision_page_sha256": "622cc8659a540fd7eabec2c722dcdf8c025f088694052c6f30dc1188ee46d682"
+}
