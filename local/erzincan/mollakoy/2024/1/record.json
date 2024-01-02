@@ -1,0 +1,26 @@
+{
+  "number": "1",
+  "number_as_published": "01",
+  "year": 2024,
+  "title": "2024 mali yılına ait harçlar tarifesi hk.",
+  "decision_date": "2024-01-02",
+  "source": "https://www.mollakoy.bel.tr/meclis-kararlari/sayfa/7/",
+  "official_document": "https://www.mollakoy.bel.tr/karar/2024-mali-yilina-ait-harclar-tarifesi-hk/55/",
+  "source_sha256": "6d7ed8ae6ceeb6f121bec6dddb7679adba1687c2305c057e9531b2ef9ea16574",
+  "issuer": "Mollaköy Belediye Meclisi",
+  "history_type": "metadata",
+  "text_status": "metadata-only: listing fields as published; complete decision text is in the linked official document, not transcribed",
+  "in_force": "2024-01-02",
+  "in_force_basis": "Decision date as printed in the official council listing: meclisi 02.01.2024; adoption date of the council decision; legal commencement not asserted",
+  "missing": [
+    "complete official decision text",
+    "official annexes"
+  ],
+  "law_text_complete": false,
+  "privacy_withheld": false,
+  "official_page": "https://www.mollakoy.bel.tr/karar/2024-mali-yilina-ait-harclar-tarifesi-hk/55/",
+  "listing_label": "2024 mali yılına ait harçlar tarifesi hk.",
+  "record_scope": "one council decision (number, date, subject as published)",
+  "date_read_from": "meeting date in the decision text (the item's Karar Tarihi field carries a clock time)",
+  "document_note": "the decision text is on the official item page; not transcribed here"
+}
