@@ -1,0 +1,26 @@
+{
+  "number": "meeting-01-02",
+  "number_as_published": "meeting-01-02",
+  "year": 2024,
+  "title": "02.01.2024 Tarihli Meclis Kararına buradan ulaşabilirsiniz.",
+  "decision_date": "2024-01-02",
+  "source": "https://www.siverek.bel.tr/meclis-kararlari-ve-komisyon-raporlari",
+  "official_document": "https://www.siverek.bel.tr/uploads/meclis_karari_pdf_6a0426da3c8d94.23768176.pdf",
+  "source_sha256": "afecf063b85361ca68f3ab5f12e74d1423f737904e5908873927617341104b9d",
+  "issuer": "Siverek Belediye Meclisi",
+  "history_type": "metadata",
+  "text_status": "metadata-only: listing fields as published; complete decision text is in the linked official document, not transcribed",
+  "in_force": "2024-01-02",
+  "in_force_basis": "Decision date as printed in the official council listing: 02/01/2024; adoption date of the council decision; legal commencement not asserted",
+  "missing": [
+    "complete official decision text",
+    "official annexes"
+  ],
+  "law_text_complete": false,
+  "privacy_withheld": false,
+  "listing_label": "02.01.2024 Tarihli Meclis Kararına buradan ulaşabilirsiniz.",
+  "record_scope": "one official file of council decisions (meeting)",
+  "date_read_from": "date printed with the file in the official listing",
+  "detail_page": "https://www.siverek.bel.tr/meclis-karar/130",
+  "official_page": "https://www.siverek.bel.tr/meclis-kararlari-ve-komisyon-raporlari"
+}
