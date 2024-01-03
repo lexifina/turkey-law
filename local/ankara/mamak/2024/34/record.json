@@ -1,0 +1,31 @@
+{
+  "number": "34",
+  "number_as_published": "34",
+  "year": 2024,
+  "title": "Belediyemiz ile iş birliğinde gerçekleştirilen 6. Türk Dünyası Bilim ve Şenliğinde katılan öğrencilerin dereceye giren projeler ve desteklere ilişkin",
+  "decision_date": "2024-01-03",
+  "source": "https://www.mamak.bel.tr/gundem/GetKararlar",
+  "official_document": "https://www.mamak.bel.tr/gundem/DosyaDownload?guid=2ca1bb17-32d3-413b-bba1-0374645d786e",
+  "source_sha256": "f554089df68731558a37947c976f196303cdbdc5704c52cb6912834ca94730d3",
+  "issuer": "Mamak Belediye Meclisi",
+  "history_type": "metadata",
+  "text_status": "metadata-only: listing fields as published; complete decision text is in the linked official document, not transcribed",
+  "in_force": "2024-01-03",
+  "in_force_basis": "Decision date as printed in the official council listing: 2024-01-03T00:00:00 (kararTarihi of the official register); adoption date of the council decision; legal commencement not asserted",
+  "missing": [
+    "complete official decision text",
+    "official annexes"
+  ],
+  "law_text_complete": false,
+  "privacy_withheld": false,
+  "listing_page": "https://www.mamak.bel.tr/gundem/kararlar",
+  "register_api": "https://www.mamak.bel.tr/gundem/GetKararlar",
+  "official_documents": [
+    "https://www.mamak.bel.tr/gundem/DosyaDownload?guid=2ca1bb17-32d3-413b-bba1-0374645d786e",
+    "https://www.mamak.bel.tr/gundem/DosyaDownload?guid=4a9c19f9-87e2-45c0-ba8d-94f41669b9f7",
+    "https://www.mamak.bel.tr/gundem/DosyaDownload?guid=e12a230c-10cc-4717-9c21-4db2b047c08f",
+    "https://www.mamak.bel.tr/gundem/DosyaDownload?guid=489904e3-f255-40e9-9e07-c55b90944bd9",
+    "https://www.mamak.bel.tr/gundem/DosyaDownload?guid=fdd02200-7705-4392-80f3-1ff1befc4265",
+    "https://www.mamak.bel.tr/gundem/DosyaDownload?guid=3881535c-a427-4416-9a77-a298a80a995f"
+  ]
+}
