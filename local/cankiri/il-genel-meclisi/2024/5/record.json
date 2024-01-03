@@ -1,0 +1,26 @@
+{
+  "number": "5",
+  "number_as_published": "5",
+  "year": 2024,
+  "title": "Makine Kira Ucretleri",
+  "decision_date": "2024-01-03",
+  "source": "https://www.cankiriozelidare.gov.tr/2024-meclis-kararlari",
+  "official_document": "https://www.cankiriozelidare.gov.tr/kurumlar/cankiriozelidare.gov.tr/genel meclis/meclis kara/2024/005_Makine-Kira-Ucretleri-03012024.pdf",
+  "source_sha256": "921b25a3651d068b44e3e50caa4892c9845e76f7e024d8c65ea5bde332fb675b",
+  "issuer": "Çankırı İl Genel Meclisi",
+  "history_type": "metadata",
+  "text_status": "metadata-only: listing fields as published; complete decision text is in the linked official document, not transcribed",
+  "in_force": "2024-01-03",
+  "in_force_basis": "Decision date as printed in the official council listing: 03012024 (official file name); adoption date of the council decision; legal commencement not asserted",
+  "missing": [
+    "complete official decision text",
+    "official annexes"
+  ],
+  "law_text_complete": false,
+  "privacy_withheld": false,
+  "listing_label": "5_Makine-Kira-Ucretleri",
+  "record_scope": "one official decision document",
+  "date_read_from": "official file name",
+  "official_page": "https://www.cankiriozelidare.gov.tr/2024-meclis-kararlari",
+  "item_title": "2024 Meclis Kararları"
+}
