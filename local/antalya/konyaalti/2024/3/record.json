@@ -1,0 +1,24 @@
+{
+  "number": "3",
+  "number_as_published": "3",
+  "year": 2024,
+  "title": "Ocak Ayı Meclisi Karar Özetleri ve Komisyon Raporları",
+  "decision_date": "2024-01-04",
+  "source": "https://www.konyaalti.bel.tr/meclis-kararlari",
+  "official_document": "https://www.konyaalti.bel.tr/Uploads/01122023-152-nolu-komisyon-raporu(3).pdf",
+  "source_sha256": "5969d31829233c46e4830c688789692955571c2547678fe745135c1c602b3a5a",
+  "issuer": "Konyaaltı Belediye Meclisi",
+  "history_type": "metadata",
+  "text_status": "metadata-only: the published decision summary appears to name private persons; official link only",
+  "in_force": "2024-01-04",
+  "in_force_basis": "Decision date as printed in the official council listing: 04 Ocak 2024; adoption date of the council decision; legal commencement not asserted",
+  "missing": [
+    "complete official decision text",
+    "official annexes"
+  ],
+  "law_text_complete": false,
+  "privacy_withheld": true,
+  "meeting": "Ocak Ayı Meclisi Karar Özetleri ve Komisyon Raporları",
+  "meeting_no": "2024/1",
+  "official_document_kind": "commission report (komisyon raporu)"
+}
