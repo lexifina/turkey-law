@@ -1,0 +1,31 @@
+{
+  "act_path": "regulation/university/alanya-hamdullah-emin-pasa-universitesi/2020/36022",
+  "availability": "text",
+  "checked_on": "2026-11-14",
+  "commencement_clauses": [
+    "MADDE 45 – (1) Bu Yönetmelik yayımı tarihinde yürürlüğe girer."
+  ],
+  "date_quote": "RG-5/1/2024",
+  "first_law": null,
+  "gazette": "31319",
+  "history": "current-text",
+  "images": {
+    "deferred": 0,
+    "omitted": 0,
+    "referenced": 0,
+    "source": 0
+  },
+  "in_force": "2024-01-05",
+  "in_force_basis": "latest source-printed amendment Gazette date; current consolidated text",
+  "issuer": "Alanya Hamdullah Emin Paşa Üniversitesi",
+  "issuer_slug": "alanya-hamdullah-emin-pasa-universitesi",
+  "kind": "regulation",
+  "published": "2020-11-29",
+  "source": "https://www.mevzuat.gov.tr/anasayfa/MevzuatFihristDetayIframe?MevzuatTur=8&MevzuatNo=36022&MevzuatTertip=5",
+  "source_id": "8.5.36022",
+  "source_sha256": "f2772aed5b4962368f574b676d19a826ed9bb1d778427fbba583c45f7d7abcfd",
+  "title": "ALANYA ÜNİVERSİTESİ İHALE YÖNETMELİĞİ",
+  "university_id": 373,
+  "version_label": "oldest version available",
+  "word_count": 6079
+}
