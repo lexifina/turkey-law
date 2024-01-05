@@ -1,0 +1,23 @@
+{
+  "number": "1",
+  "number_as_published": "1",
+  "year": 2024,
+  "title": "Denetim Komisyonu seçimi için yapılan gizli oylamada; Cumhuriyet Halk Partisi Grubu adına teklif edilen adaylardan; İbrahim ABUŞAHA 18 oy, Serkan KAYA 18 oy, Adalet ve Kalkınma Partisi Grubu adına teklif edilen Yavuz AKİ 17 oy, İyi Parti Grubu adına teklif edilen Ayhan ÇETİN 21 oy ve Milliyetçi Hareket Partisi Grubu adına teklif edilen Hüseyin Fırat DAĞDEVİREN 17 oy almış olup, buna göre;Denetim Komisyonuna; İbrahim ABUŞAHA, Serkan KAYA, Yavuz AKİ, Ayhan ÇETİN ve Hüseyin Fırat DAĞDEVİREN üye olarak 05/01/2024 tarihinde seçilmişlerdir.",
+  "decision_date": "2024-01-05",
+  "source": "https://www.merkezefendi.bel.tr/meclis-karar.aspx?karar=2024-2-13--OCAK-AYI-MECLIS-KARAR-OZETLERI-S2Y6T",
+  "official_document": null,
+  "source_sha256": "ffb1997bf39c0b61c2aae8187ab86bad0c572414f6024a8aff2af082f47b0e90",
+  "issuer": "Merkezefendi Belediye Meclisi",
+  "history_type": "metadata",
+  "text_status": "metadata-only: listing fields as published; the listing links no decision document",
+  "in_force": "2024-01-05",
+  "in_force_basis": "Decision date as printed in the official council listing: 5.01.2024; adoption date of the council decision; legal commencement not asserted",
+  "missing": [
+    "complete official decision text",
+    "official annexes"
+  ],
+  "law_text_complete": false,
+  "privacy_withheld": false,
+  "official_page": "https://www.merkezefendi.bel.tr/meclis-karar.aspx?karar=2024-2-13--OCAK-AYI-MECLIS-KARAR-OZETLERI-S2Y6T",
+  "record_scope": "one council decision (published decision summary)"
+}
