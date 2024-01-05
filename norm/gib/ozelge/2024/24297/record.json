@@ -1,0 +1,22 @@
+{
+  "kind": "norm",
+  "issuer": "Gelir İdaresi Başkanlığı",
+  "document_type": "ozelge",
+  "number": "E-17192610-120[GV-22-736]-4615",
+  "source_id": 24297,
+  "date": "2024-01-05",
+  "title": "Yurt dışı mukimi kişi ya da şirketlere verilen veri işleme ve veri analizi hizmetlerinden elde edilen kazancın %50'sinin gelir vergisi matrahının tespitinde indirim konusu yapılıp yapılamayacağı.",
+  "source": "https://gib.gov.tr/mevzuat/kanun/433/ozelge/24297",
+  "related_law": "193 sayılı GELİR VERGİSİ KANUNU",
+  "source_api": "https://gib.gov.tr/api/gibportal/mevzuat/ozelge/list",
+  "source_listing": "evidence/list/2026-11-16/ozelge-p001.json",
+  "source_listing_sha256": "e5c572e7d33c4a72997f66e3999bee09f80c627cabe3ea5a6521aa3f8abee01f",
+  "source_sha256": "a228e4a2004b3892a69460f297ea81535d515df074d5bbbb701b76c735ce032c",
+  "text_status": "as-enacted",
+  "text_file": "metin.md",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  }
+}
