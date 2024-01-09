@@ -1,0 +1,18 @@
+{
+  "issuer": "Mersin Büyükşehir Belediye Meclisi",
+  "number": "8",
+  "decision_date": "2024-01-09",
+  "title": "-MEC.KAR.(YETKİ VERİLMESİ-EĞİTİM VE DANIŞMANLIK HİZMETLERİ)",
+  "listed_as": "08-MEC.KAR.(YETKİ VERİLMESİ-EĞİTİM VE DANIŞMANLIK HİZMETLERİ)",
+  "subject_note": "subject as the meeting page lists it (the register shortens some long subjects)",
+  "official_document": "https://www.mersin.bel.tr/dokumanlar/08-meckaryetki-verilmesi-egitim-ve-danismanlik-hizmetleri-802267524",
+  "source_listing": "https://www.mersin.bel.tr/dokumanlar/09-ocak-2024-meclis-kararlari-981589392",
+  "listing_sha256": "5f55ae8454ab75cfefb5e870714c0380bdf7a2ad0e666a0153a36def1ae83cb4",
+  "meeting_title": "09 OCAK 2024 MECLİS KARARLARI",
+  "history_type": "metadata-only",
+  "capture_mode": "metadata-only",
+  "text_status": "metadata-only; official decision page linked, text not transcribed",
+  "date_basis": "meeting date in the official meeting page title (decision date of the session)",
+  "commencement_established": false,
+  "privacy_withheld": false
+}
