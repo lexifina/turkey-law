@@ -1,0 +1,20 @@
+{
+  "applicant": "M.A. (2)",
+  "application_date": "2020-01-09",
+  "application_number": "2020/879",
+  "deciding_unit": "Birinci Bölüm",
+  "decision_date": "2023-10-04",
+  "id": "3a218af4-8c08-c422-6403-51f8a13a207a",
+  "in_force": "2024-01-09",
+  "in_force_basis": "official Resmî Gazete date",
+  "kind": "constitutional-court-individual-application",
+  "omitted_images": 0,
+  "outcome": "Kabul Edilemezlik vd.",
+  "published": "2024-01-09",
+  "referenced_images": 0,
+  "source": "https://kararlarbilgibankasi.anayasa.gov.tr/kbb/pages/search/Tumu?id=a2JiOjNhMjE4YWY0LThjMDgtYzQyMi02NDAzLTUxZjhhMTNhMjA3YQ&type=BireyselBasvuru",
+  "source_api": "https://kararlarbilgibankasi.anayasa.gov.tr/api/core/public/search",
+  "source_images": 0,
+  "source_sha256": "e8fd50f9947390f271b7912d64d967fe006a3e5298d463e8df3b372acfc872dc",
+  "version_label": "as-enacted"
+}
