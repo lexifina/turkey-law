@@ -1,0 +1,15 @@
+{
+  "kind": "decision",
+  "issuer": "Sayıştay Temyiz Kurulu",
+  "number": "56313",
+  "decision_date": "2024-01-10",
+  "source_id": 27451,
+  "chamber": "7",
+  "file_number": "48561",
+  "account_year": "2018",
+  "subject": "Personel Mevzuatı ile İlgili Kararlar",
+  "source": "https://www.sayistay.gov.tr/KararlarTemyiz/Detay/27451/",
+  "source_sha256": "b545fab6aea86d9652c347809b7d808565ff989a1e1fa2c7168c9e2fdfb1bc36",
+  "text_status": "as-enacted",
+  "text_file": "metin.md"
+}
