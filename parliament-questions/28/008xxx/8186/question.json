@@ -1,0 +1,21 @@
+{
+  "record_type": "parliament-written-question",
+  "term": 28,
+  "legislative_year": 2,
+  "esas_no": "7/8186",
+  "submitted": "2024-01-10",
+  "submitted_as": "Başkanlığa geliş tarihi",
+  "mp": "Serhat EREN",
+  "province": "Diyarbakır",
+  "summary": "Diyarbakır'ın Bağlar ilçesine bağlı Bağcılar Mahallesi'nde yaşanan kaldırım sorununa ilişkin",
+  "status": "Cevaplanmadığı Gelen Kağıtlarda İlan Edildi",
+  "status_as_of": "2026-11-16",
+  "official_record": "https://www.tbmm.gov.tr/Denetim/Yazili-Soru-Onergesi-Detay/8280219f-a612-4027-8d47-018cfda4a90f",
+  "source": "https://tbmm.gov.tr/Denetim/YaziliSoruOnergesiTable",
+  "source_form": "https://tbmm.gov.tr/Denetim/Yazili-Soru-Onergeleri",
+  "source_sha256": "d1331e37118505074ec9731b689ebe328570367e759998b00ab4315e26617d0b",
+  "in_force": "2024-01-10",
+  "in_force_basis": "Date the question reached the Speaker (Başkanlığa geliş tarihi) in the official TBMM written-question record; parliamentary oversight record, not law",
+  "history_type": "metadata",
+  "text_status": "metadata-only: question text, addressee and answers are in the linked official record (PDFs on cdn.tbmm.gov.tr); not transcribed here"
+}
