@@ -1,0 +1,24 @@
+{
+  "number": "meeting-01-10-3",
+  "number_as_published": "meeting-01-10-3",
+  "year": 2024,
+  "title": "Belediye Encümeni Tarafından 10.01.2024 Tarihinde Yapılan Toplantıda Alınan Karar Özetleri-2024-17",
+  "decision_date": "2024-01-10",
+  "source": "https://www.erbaa.bel.tr/meclis-kararlari/6",
+  "official_document": "https://www.erbaa.bel.tr/karar/belediye-encumeni-tarafindan-10-01-2024-tarihinde-yapilan-toplantida-alinan-karar-ozetleri-2024-17",
+  "source_sha256": "0b4e12b6df2c0e3f891b6842307149a9c30c71de2ee75933ad8a39c2b89aea18",
+  "issuer": "Erbaa Belediye Meclisi",
+  "history_type": "metadata",
+  "text_status": "metadata-only: listing fields as published; complete decision text is in the linked official document, not transcribed",
+  "in_force": "2024-01-10",
+  "in_force_basis": "Decision date as printed in the official council listing: 10.01.2024; adoption date of the council decision; legal commencement not asserted",
+  "missing": [
+    "complete official decision text",
+    "official annexes"
+  ],
+  "law_text_complete": false,
+  "privacy_withheld": false,
+  "listing_label": "Belediye Encümeni Tarafından 10.01.2024 Tarihinde Yapılan Toplantıda Alınan Karar Özetleri-2024-17",
+  "record_scope": "one official file of council decisions (meeting)",
+  "karar_no_as_published": "2024-17"
+}
