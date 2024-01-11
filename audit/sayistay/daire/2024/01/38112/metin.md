@@ -1,0 +1,5 @@
+Cep telefonunun garanti süresi dolmadan yenilenmesi
+
+… Başkanının cep telefonunun iki yıllık garanti süresi dolmadan yenilenmesi sonucu oluştuğu iddia edilen ve hakkında ilişilecek bir husus bulunmadığına hükmedilen … TL ödeme hakkında … Kurumu … yılı hesabının 8. Dairede yargılanması sonucu düzenlenen … sayılı İlamın …’inci maddesiyle verilen beraat hükmüne ilişkin olarak Başsavcılık adına temyiz talebinde bulunan Sayıştay Başsavcısı … tarafından verilen dilekçe üzerine Temyiz Kurulu tarafından verilen … tarih ve … tutanak numaralı bozma kararı çerçevesinde 6085 sayılı Sayıştay Kanunu’nun 55’inci maddesinin yedinci fıkrası hükmü gereğince konunun görüşülmesine karar verildi.
+
+İlk telefonun mevcut teknoloji ve kapasitesinin yetersizliği nedeniyle ihtiyacı karşılamaması üzerine ikinci telefonun alınmasının zorunlu hale geldiği, gerek ilk telefonun gerekse de ikinci telefonun taşınır kayıtları yapılmak suretiyle Kurumun demirbaşları arasına kaydedildiği, dolayısıyla yapılan alım nedeniyle kamu zararına sebebiyet verilmediği anlaşıldığından, uyuşmazlık konusu edilen … TL hakkında ilişilecek bir husus bulunmadığına, oy birliğiyle karar verildi.
