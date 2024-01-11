@@ -1,0 +1,17 @@
+{
+  "kind": "decision",
+  "issuer": "Sayıştay 1. Dairesi",
+  "number": "10925",
+  "decision_date": "2024-01-11",
+  "source_id": 38211,
+  "chamber": "1",
+  "ilam_number": "30",
+  "item_number": 2,
+  "public_body_type": "Yüksek Öğretim Kurumları",
+  "account_year": 2022,
+  "subject": "Personel Mevzuatı ile İlgili Kararlar",
+  "source": "https://www.sayistay.gov.tr/KararlarDaire/Detay/38211/",
+  "source_sha256": "0ab371167852f4b189b924efe73aeb313483a14b6bffd0df3a9ccad2b33f6963",
+  "text_status": "as-enacted",
+  "text_file": "metin.md"
+}
