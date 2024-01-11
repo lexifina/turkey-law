@@ -1,0 +1,33 @@
+Kiraya verilen Belediyeye ait işyerlerinin COVİD-19 salgını gerekçe gösterilerek kira artış oranlarını sözleşmelerinde yer alan kira artış oranı (ÜFE/TÜFE) yerine %10 olarak sınırlandırmak suretiyle kiralarda indirime gidilmesi:
+
+17.04.2020 tarihli ve 31102 sayılı Resmi Gazete’de yayımlanan 7244 sayılı Yeni Koronavirüs (COVİD-19) Salgınının Ekonomik ve Sosyal Hayata Etkilerinin Azaltılması Hakkında Kanun ile Bazı Kanunlarda Değişiklik Yapılmasına Dair Kanun’un 1’inci maddesinin ”ç” bendinde "Büyükşehir belediyeleri, belediyeler, il özel idareleri ve bağlı kuruluşları ile bunların üyesi olduğu mahalli idare birliklerinin mülkiyetinde veya tasarrufunda olan taşınmazlara ilişkin olarak ilgili mevzuatınca yapılan satış, ecrimisil ve kiralamadan kaynaklanan bedellerin veya tutarların, 19/3/2020 tarihinden itibaren 3 aylık döneme ilişkin tahsil edilmesi gereken kısımlarının 3 ay ertelenmesine büyükşehir belediyeleri, belediyeler, il özel idareleri ve birliklerde meclis; bağlı kuruluşlarda ise yetkili karar organı yetkilidir. Bu süreler, bitiminden itibaren ilgisine göre Çevre ve Şehircilik Bakanı veya İçişleri Bakanı tarafından 3 aya kadar uzatılabilir. Söz konusu alacaklar ertelenen süre sonunda, ertelenen süre kadar aylık eşit taksitler halinde, herhangi bir gecikme zammı ve faiz uygulanmadan tahsil edilir. Faaliyetleri durdurulan veya faaliyette bulunamayan işletmelerin faaliyette bulunmadığı döneme ilişkin olarak kira bedelleri tahsil edilmez." hükmü yer almaktadır.
+
+Çevre, Şehircilik ve İklim Değişikliği Bakanlığı Yerel Yönetimler Genel Müdürlüğü tarafından 7244 sayılı Kanun gereğince 15.12.2020 tarihinde yayımlanan 2020/27 sayılı Genelgede ise,
+
+"Bu çerçevede koronavirüs salgını kaynaklı zorlayıcı sebepler gerekçesiyle; yerel yönetimler ve bağlı kuruluşları ile bunların üyesi olduğu mahalli idare birlikleri ve bunların sermayesinin yarısından fazlasına doğrudan doğruya ya da dolaylı olarak birlikte veya ayrı ayrı sahip oldukları şirketlerin mülkiyetinde veya tasarrufunda olan taşınmazlarına ilişkin olarak irtifak hakkı, kiralama ve benzeri kullanımdan kaynaklanan ve ilgili mevzuatınca ödenmesi gereken bedellerin veya tutarların;
+
+a-) Kamu kurum ve kuruluşları tarafından alınan önlemler sonucunda veya pandemi sürecine bağlı olarak faaliyetlerinde azalma meydana gelen işyerlerinden tahsil edilecek sözü edilen bedellere ilişkin olarak idarece yapılacak değerlendirme sonucunda indirim veya erteleme yönünde karar alınabileceği,
+
+b-) (a) bendindeki sebepler sonucunda faaliyetleri durdurulan veya faaliyette bulunamayan işletmelerden faaliyette bulunmadığı döneme ilişkin olarak sözü edilen bedellerin tahsil edilmemesi, ayrıca bu süreler kadar sözleşme sürelerinin uzatılması,
+
+c-) Peşin ödeme yapılan iş yerlerinde bu sürece isabet eden dönemler için (a) ve (b) bentleri uyarınca gerekli indirim, erteleme ve süre uzatımı yapılabileceği,
+
+…"  denilmektedir.
+
+Yukarıda yer alan mevzuat birlikte değerlendirildiğinde; 7244 Sayılı Kanunda, yeni koronavirüs (Covid-19) salgını kaynaklı zorlayıcı sebep gerekçesiyle belediye meclisleri tarafından, kiraya verilen taşınmazlara ilişkin kira bedellerini erteleme ya da faaliyetleri durdurulan veya faaliyette bulunamayan işletmelerin faaliyette bulunmadığı döneme ilişkin olarak da kira bedellerini tahsil etmeme yönünde karar alabilecekleri belirtilirken, bu Kanun gereğince çıkarılan Genelgede ise kamu kurum ve kuruluşları tarafından alınan önlemler sonucunda veya pandemi sürecine bağlı olarak faaliyetlerinde azalma meydana gelen işyerlerinden tahsil edilecek kira bedellerinde idarece yapılacak değerlendirme sonucunda bir indirim veya erteleme yönünde karar alabilecekleri ifade edilmektedir.
+
+Rapor maddesinde Genelgenin bu yönüyle Kanunla çeliştiği, zira Kanunda kira bedellerinde bir indirimden bahsedilmediği, sadece kiraları erteleme veya faaliyette bulunulmayan dönem için tahsil etmeme yetkisinin verildiği, oysa Genelgede faaliyetlerinde azalma meydana gelen işyerleri için kiralarda bir indirim yapılabileceğinin belirtildiği ifade edilmiştir.
+
+Ancak Genelgenin Kanuna aykırılığı veya normlar hiyerarşisine ilişkin değerlendirmenin ötesinde mezkûr Genelgenin yürürlükte olduğu, herhangi bir mahkeme kararı veya ilgili Bakanlık tarafından iptal edilmediği açıktır.
+
+Yapılan incelemede, Belediye Meclisince Covid-19 salgınıyla mücadelenin devam ettiği gerekçesiyle 2022 yılı boyunca kiraya verilen işyerlerine ilişkin kira artış oranlarını % 10 ile sınırlayan  01.04.2022 tarih ve 235 sayılı bir Karar alındığı, bu Kararın oybirliği ile alındığı, bu Karar gereğince  istisnasız kiraya verilen bütün  işyerlerinin (131 adet) kira artış oranlarının sözleşmelerinde belirlenmiş olan kira artış oranı (üfe/tüfe) yerine, % 10  olarak uygulanmak suretiyle kira bedellerinde indirim yapıldığı ve bu nedenle yılın başında yapılan kira alacaklarına ilişkin tahakkukların silindiği tespit edilmiştir. Bu kapsamda silinen kira tahakkukları tutarı KDV dahil 1.187.434,47 TL’dir.
+
+Raporda; söz konusu Genelgede, kiralarda indirimin ancak faaliyetlerinde azalma meydana gelen işyerleri için söz konusu olacağı belirtilmesine rağmen İdarece kiraya verilen işyerlerinin faaliyetlerinde bir azalma meydana gelip gelmediğine ilişkin tespit yapılmadan istisnasız bütün iş yerlerinin kira bedellerinde indirim yapıldığı, dolayısıyla gerek 7244 sayılı Kanunda kiralarda bir indirim yetkisinin düzenlenmemesi nedeniyle söz konusu Genelgenin bu Kanunla çelişmesi gerekse de Genelgede belirtilmiş olmasına rağmen faaliyetlerinde bir azalma meydana gelip gelmediğine ilişkin bir tespit yapılmadan istisnasız kiraya verilen bütün işletmelerin kira bedellerinde 2022 yılı boyunca indirim yapılması nedeniyle silinen kira alacakları tahakkukları toplamı 1.187.434,47 TL’nin kamu zararı teşkil ettiği iddia edilmektedir.
+
+Ancak müstecirlerin faaliyetlerinde bir azalma meydana gelmediğine dair bir inceleme ve tespit yapılmamıştır. Bu bağlamda tüm müstecirlere yapılan indirimin hukuki olmadığını söylemek hakkaniyetle bağdaşmamaktadır. Kaldı ki yukarıda da belirtildiği üzere, Genelge hükümleri doğrultusunda kira alacaklarında indirim yapılmasında hukuka aykırılık bulunmamaktadır.
+
+Bu itibarla; Belediye mülkiyetinde olup kiraya verilen yerlerin kira bedellerine pandemi gerekçesiyle indirim yapılmasında mevzuata aykırılık bulunmadığından, tahakkuklardan silinen toplam … TL tutarındaki kira alacağı için işilicek husus bulunmadığına,
+
+6085 sayılı Sayıştay Kanunu’nun 55’inci maddesi uyarınca İşbu İlamın tebliğ tarihinden itibaren altmış gün içerisinde Sayıştay Temyiz Kurulu nezdinde temyiz yolu açık olmak üzere
+
+oy birliğiyle karar verildi.
