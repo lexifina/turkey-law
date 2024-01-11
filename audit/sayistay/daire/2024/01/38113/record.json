@@ -1,0 +1,17 @@
+{
+  "kind": "decision",
+  "issuer": "Sayıştay 8. Dairesi",
+  "number": "304",
+  "decision_date": "2024-01-11",
+  "source_id": 38113,
+  "chamber": "8",
+  "ilam_number": "385",
+  "item_number": 5,
+  "public_body_type": "Diğer Özel Bütçeli İdareler",
+  "account_year": 2017,
+  "subject": "Çeşitli Konuları İlgilendiren Kararlar",
+  "source": "https://www.sayistay.gov.tr/KararlarDaire/Detay/38113/",
+  "source_sha256": "e59ade00cf59f134ed41b1f0e014921c1537667e48e9577c18638e17dceaa6b4",
+  "text_status": "as-enacted",
+  "text_file": "metin.md"
+}
