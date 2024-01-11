@@ -1,0 +1,4 @@
+Yetki belgesinin değiştirilmesi
+MADDE 9 – (1) Ortağı olunan firmanın değiştirilmesi durumunda Bakanlığa yapılacak başvurunun değerlendirmesi neticesinde yeni yetki belgesi düzenlenebilir.
+(2) Yetki belgesinin değiştirilebilmesi için 6 ncı maddenin birinci fıkrasında istenilen belgelere ek olarak duruma göre tüzel kişi ortaklığına girdiğini, ortaklıktan ayrıldığını veya ortaklıktan ayrıldığı ve yeni bir ortaklığa girdiğini gösteren Türkiye Ticaret Sicili Gazetesi örneği veya ilgili ticaret sicil memurluğundan alınan belge aslı ya da örneği ile anonim şirketler için tescile esas ortaklık yapısını gösteren ortaklık kurulu kararı ya da noter onaylı pay defteri örnekleri ile birlikte Genel Müdürlüğe başvuruda bulunulması gerekir.
+(3) İkinci fıkrada belirtilen belgelerin başvuru esnasında MERSİS’te olması halinde asılları veya noter onaylı örneklerinin sunulması talep edilmez.

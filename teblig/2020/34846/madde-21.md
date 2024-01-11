@@ -1,0 +1,5 @@
+Vekâlet
+MADDE 21 – (1) Yetki belgesinin iptali ve geri alınması durumlarında yetkilendirilmiş gümrük müşavirine bir takvim yılı içinde toplamda altmış günü aşmamak üzere vekil tayin edilir. Yetki belgesinin değiştirilmesi durumunda ise kullanılacak vekâlet süresi her olaya özgü olarak altmış günü geçmemek üzere Genel Müdürlükçe belirlenir.
+(2) İzin, hastalık ve benzeri durumlar nedeniyle geçici olarak mesleki faaliyete ara verilmesi gerektiğinde otuz günü aşmamak üzere vekil tarafından tespit işlemlerinin devamlılığı sağlanır. Mücbir sebeplerin varlığı halinde bu süre Genel Müdürlükçe uzatılabilir.
+(3) Süresinden önce feshedilen tespit sözleşmelerine ilişkin tespit işlemleri yeni sözleşme yapılıncaya kadar mevcut yetkilendirilmiş gümrük müşaviri veya vekili tarafından yürütülür. Bu süre otuz günü aşamaz.
+(4) Vekâleten işlem yapan yetkilendirilmiş gümrük müşaviri, gerçekleştirdiği tespit işlemlerinden tespit sözleşmesine taraf olan yetkilendirilmiş gümrük müşaviri ile birlikte müteselsilen sorumludur.

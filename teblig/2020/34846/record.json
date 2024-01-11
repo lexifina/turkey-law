@@ -1,0 +1,42 @@
+{
+  "source_id": "9.5.34846",
+  "kind": "communique",
+  "register_kind": "Tebliğler",
+  "title": "YETKİLENDİRİLMİŞ GÜMRÜK MÜŞAVİRLİĞİ TEBLİĞİ",
+  "number": "34846",
+  "issuer": "Ticaret Bakanı",
+  "path": "teblig/2020/34846",
+  "source": "https://www.mevzuat.gov.tr/anasayfa/MevzuatFihristDetayIframe?MevzuatTur=9&MevzuatNo=34846&MevzuatTertip=5",
+  "source_sha256": "bac4c870c6a43523dc85e88c2bb2d2279df81fdba3c2e4da04fa752a817c7a62",
+  "source_bytes": 162789,
+  "published": "2020-09-10",
+  "gazette": "31240",
+  "in_force": "2024-01-11",
+  "in_force_basis": "latest Resmî Gazete date printed in the source amendment notes/table (\"RG-11/1/2024\") for the current consolidated text",
+  "date_evidence": [
+    [
+      "2024-01-11",
+      "RG-11/1/2024",
+      "Resmî Gazete date printed in the source amendment note"
+    ],
+    [
+      "2024-01-11",
+      "11/1/2024",
+      "Resmî Gazete date in the source amendment table"
+    ]
+  ],
+  "history": "current-text",
+  "label": "oldest version available",
+  "checked_on": "2026-11-15",
+  "word_count": 5612,
+  "text_status": "current-consolidated",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  },
+  "source_links": [
+    "9.5.34846-EK.doc"
+  ],
+  "completeness": "html-text-complete; linked annexes not fetched"
+}

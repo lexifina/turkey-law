@@ -1,0 +1,21 @@
+Tanımlar
+MADDE 4 – (1) Bu Tebliğin uygulanmasında;
+a) Bakanlık: Ticaret Bakanlığını,
+b) Genel Müdürlük: (Değişik ibare:RG-11/1/2024-32426) Gümrükler Genel Müdürlüğünü,
+c) Gümrük müşaviri: Eşyanın gümrükçe onaylanmış bir işlem veya kullanıma tabi tutulmasına ilişkin gümrük işlemlerini dolaylı temsil yoluyla takip eden, sonuçlandıran ve kendilerine Bakanlıkça gümrük müşaviri izin belgesi verilen kişiyi,
+ç) Günlük rapor: Sayım tutanakları ve diğer önemli olaylara ilişkin bilgileri içeren ve yetkilendirilmiş gümrük müşavirince sunulan raporu,
+d) Olumlu tespit raporu: Yetkilendirilmiş gümrük müşavirince gerçekleştirilen tespit işlemleri sonucunda, tespit raporlarının sonuç bölümü için rehberde öngörülen tüm bilgileri içerecek şekilde, olumlu görüşü ihtiva eden raporu,
+e) Olumsuz tespit raporu: Yetkilendirilmiş gümrük müşavirince gerçekleştirilen tespit işlemleri sonucunda olumsuz görüşü ihtiva eden raporu,
+f) Sistem: Bakanlıkça hazırlanan ve internet ortamında erişimi elektronik olarak sağlanan Yetkilendirilmiş Gümrük Müşaviri Sistemini,
+g) Rehber: Bu Tebliğin uygulanmasına ilişkin her türlü usul ve esasın belirlendiği Genel Müdürlükçe yayımlanan yetkilendirilmiş gümrük müşavirliği rehberini,
+ğ) Şartlı tespit raporu: Yetkilendirilmiş gümrük müşavirince gerçekleştirilen tespit işlemleri sonucunda, rapor kapsamında ortaya konulması gereken tespitlerden birinin ya da bazılarının, raporun sonuç bölümünde yer alan nihai görüşün olumlu olmasını engelleyecek şekilde yapılamadığı durumları ihtiva eden raporu,
+h) Tespit işlemi: Bu Tebliğ kapsamında yetkilendirilmiş gümrük müşavirince yapılacak tespit işlemlerini,
+ı) Tespit raporu: Yetkilendirilmiş gümrük müşaviri tarafından tespit işlemleri için gerekli inceleme ve araştırmanın tamamlanmasının ardından şekil ve içeriği rehberde yer alan rehberin ilgili bölümlerinde belirtilen usul ve esaslara uygun şekilde düzenlenecek raporu,
+i) Tespit sözleşmesi: Yetkilendirilmiş gümrük müşaviri ile yükümlü arasında özel hukuk hükümlerine istinaden yapılan sözleşmeyi,
+j) Vekâlet bildirgesi: Yetkilendirilmiş gümrük müşavirinin yetki belgesi çerçevesinde yaptığı işlemlerin vekil tarafından yapılmasına yetki verdiği, vekilin ise bu işlemleri yerine getirmeyi taahhüt ettiği ve bir örneği Ek-3’te yer alan belgeyi,
+k) Vekil: Bu Tebliğ kapsamında yetkilendirilmiş gümrük müşavirinden istenilen vekâlet bildirgesinde vekil olarak gösterilmiş yetkilendirilmiş gümrük müşavirini,
+l) Yetki belgesi: Adına düzenlendiği gümrük müşavirinin bu Tebliğ kapsamında tespit ve raporlama işlemlerini yapmaya yetkili olduğunu gösteren belgeyi,
+m) Yetki numarası: Yetkilendirilmiş gümrük müşavirinin tespit ve raporlama işlemlerini yaparken kullandığı numarayı,
+n) Yetkilendirilmiş gümrük müşaviri: Bu Tebliğ kapsamındaki tespit işlemlerini yapan ve sonucunda tespit raporu düzenleyen, Bakanlıkça adına yetki belgesi düzenlenen gerçek kişi veya tüzel kişi ortağı gümrük müşavirini,
+o) Yükümlü: Bu Tebliğ kapsamındaki tespit işlemlerini yaptırmak üzere yetkilendirilmiş gümrük müşaviri ile sözleşme imzalayan kişiyi,
+ifade eder.
