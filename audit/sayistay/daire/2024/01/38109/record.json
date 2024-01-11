@@ -1,0 +1,17 @@
+{
+  "kind": "decision",
+  "issuer": "Sayıştay 8. Dairesi",
+  "number": "304",
+  "decision_date": "2024-01-11",
+  "source_id": 38109,
+  "chamber": "8",
+  "ilam_number": "385",
+  "item_number": 3,
+  "public_body_type": "Diğer Özel Bütçeli İdareler",
+  "account_year": 2017,
+  "subject": "İhale Mevzuatı ile İlgili Kararlar",
+  "source": "https://www.sayistay.gov.tr/KararlarDaire/Detay/38109/",
+  "source_sha256": "37e71391a2a1829b37fe4473d413fcfb6b88a2ea440e94c5376d557b47b2d835",
+  "text_status": "as-enacted",
+  "text_file": "metin.md"
+}
