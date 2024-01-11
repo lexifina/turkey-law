@@ -1,0 +1,21 @@
+{
+  "record_type": "parliament-written-question",
+  "term": 28,
+  "legislative_year": 2,
+  "esas_no": "7/8153",
+  "submitted": "2024-01-11",
+  "submitted_as": "Başkanlığa geliş tarihi",
+  "mp": "Dursun Müsavat DERVİŞOĞLU",
+  "province": "İzmir",
+  "summary": "6 Şubat 2023 tarihinde Kahramanmaraş'ta meydana gelen depremler sonrası ulaşılamayan vatandaşların akıbetine ilişkin",
+  "status": "Cevaplandı",
+  "status_as_of": "2026-11-16",
+  "official_record": "https://www.tbmm.gov.tr/Denetim/Yazili-Soru-Onergesi-Detay/1cd9c8d7-4423-4b13-a174-018cfc84e3c0",
+  "source": "https://tbmm.gov.tr/Denetim/YaziliSoruOnergesiTable",
+  "source_form": "https://tbmm.gov.tr/Denetim/Yazili-Soru-Onergeleri",
+  "source_sha256": "d1331e37118505074ec9731b689ebe328570367e759998b00ab4315e26617d0b",
+  "in_force": "2024-01-11",
+  "in_force_basis": "Date the question reached the Speaker (Başkanlığa geliş tarihi) in the official TBMM written-question record; parliamentary oversight record, not law",
+  "history_type": "metadata",
+  "text_status": "metadata-only: question text, addressee and answers are in the linked official record (PDFs on cdn.tbmm.gov.tr); not transcribed here"
+}
