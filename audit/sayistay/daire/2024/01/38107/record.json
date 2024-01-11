@@ -1,0 +1,17 @@
+{
+  "kind": "decision",
+  "issuer": "Sayıştay 8. Dairesi",
+  "number": "304",
+  "decision_date": "2024-01-11",
+  "source_id": 38107,
+  "chamber": "8",
+  "ilam_number": "385",
+  "item_number": 1,
+  "public_body_type": "Diğer Özel Bütçeli İdareler",
+  "account_year": 2017,
+  "subject": "Personel Mevzuatı ile İlgili Kararlar",
+  "source": "https://www.sayistay.gov.tr/KararlarDaire/Detay/38107/",
+  "source_sha256": "fcdef97165f0518e0f7e4a7beb3624ae4d7c092db9387c2d14b59f6475363714",
+  "text_status": "as-enacted",
+  "text_file": "metin.md"
+}
