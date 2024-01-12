@@ -1,0 +1,2 @@
+Amaç ve kapsam
+MADDE 1- (1) Bu Tebliğin amacı, Türk Gümrük Tarife Cetvelinde (TGTC) “örme veya kroşe eşya” başlıklı 60 ıncı fasılda yer alan eşyanın ithalatında korunma önlemi uygulanması için yerli üretici tarafından yapılan başvuru neticesinde soruşturma açılması ve Ticaret Bakanlığı (Bakanlık) İthalat Genel Müdürlüğü (Genel Müdürlük) tarafından yürütülecek soruşturmanın usul ve esaslarının belirlenmesidir.
