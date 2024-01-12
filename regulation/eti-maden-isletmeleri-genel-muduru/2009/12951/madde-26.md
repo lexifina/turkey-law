@@ -1,0 +1,5 @@
+Tekliflerin açılması ve incelenmesi
+MADDE 26 – (1) Tekliflerin açılması ve incelenmesinde aşağıdaki esaslara uyulur;
+a) Teklifler, ihale dokümanında belirtilen yere ihale saatine kadar verilir. Gelen teklifler muhaberat kayıt sırası dikkate alınarak ihale komisyonunca istekliler huzurunda açılır ve teklif fiyatları açıklanır. Teklifler paraf edilerek, zarf açma ve belge kontrol tutanağı düzenlenir ve komisyon üyeleri tarafından imzalanır.
+b) Teminat mektupları, ilgili birimlerce muhafaza altına alınarak muhasebe birimine gönderilir.
+c) Teklifler, ilk açıldıkları hali ile geçerlidir. Teklif verme süresinin bitiminden sonra teklif kabul edilmez. Zarfların, ihale komisyonu huzurunda açılmasından sonra ihaleye katılanların kendiliğinden yapacakları artırma teklifleri kabul edilmez. Ancak, tekliflerin düşük bulunması durumunda, ihale komisyonunca ya ikinci bir kapalı zarf ile artırımlı teklif istenir ya da komisyonca görüşmelere ara verilmeksizin aynı anda en yüksek bedel üzerinden açık artırma yapılarak ihale sonuçlandırılır.

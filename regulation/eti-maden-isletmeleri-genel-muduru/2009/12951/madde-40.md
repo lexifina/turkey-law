@@ -1,0 +1,5 @@
+BEŞİNCİ BÖLÜM
+Çeşitli ve Son Hükümler
+Malzemenin bağış ve yardım şeklinde devri
+MADDE 40 – (Değişik:RG-12/1/2024-32427)
+(1) Tespit komisyonunca, Teşekkülün teknolojik kapasitesini karşılamadığı, ihtiyaç dışı kaldığı veya deklase durumda olduğu tespit edilen, bilgisayar ve ek donanımları ile mefruşat ve büro malzemeleri 7330 sayılı Kanun gereği MKE A.Ş.’ye satılır veya devredilir. MKE A.Ş. tarafından satın alınamayacağı resmi olarak Teşekküle bildirilmesi halinde ise, talepte bulunan okul, sağlık tesisi gibi kamu hizmeti veren resmi kurum ve kuruluşlara bu malzemelerin kaydi ve/veya takdir değeri üzerinden bağış ve yardım şeklinde devir edilmesi Yönetim Kurulu Kararı ile mümkündür. Yapılacak yardımın belgelendirilmesi; 13/6/2006 tarihli ve 5520 sayılı Kurumlar Vergisi Kanununun 10 uncu maddesi ve ilgili mevzuata uygun olarak yapılır. Bağış yapılacak malzemelerin Teşekkülde kayıtlara alınış tarihi itibarıyla beş yılını tamamlamış olması ve Teşekkülce kullanılmasına ihtiyaç duyulmaması gerekir.

@@ -1,0 +1,4 @@
+Kapsam
+MADDE 2 – (Değişik:RG-12/1/2024-32427)
+(1) Bu Yönetmelik, Eti Maden İşletmeleri Genel Müdürlüğünün merkez ve taşra teşkilatı ile bağlı ortaklıklarında bulunan ve 1 inci maddede belirtilen mal ve malzemelerinin, atıl tesislere ait makine ve ekipmanlarının tespiti, sınıflanması, transferi ve satış işlemlerine ilişkin usul ve esaslarını kapsar.
+(2) 30/6/2021 tarihli ve 7330 sayılı Makine ve Kimya Endüstrisi Anonim Şirketi Hakkında Kanun, 20/3/1971 tarihli ve 7/2156 sayılı Bakanlar Kurulu Kararı ile 31/10/1972 tarihli ve 7/5472 sayılı Bakanlar Kurulu Kararı ile yürürlüğe konulan İhtiyaç Fazlası (Ölü Stok) Yedek Parça ve Malzemelerin Tarifi, Tespiti, Değerlendirme ve Tasfiyesi Hakkında Karar hükümleri esas alınarak, 4 üncü maddede tanımlanan malzemeler dönemler halinde Sanayi ve Teknoloji Bakanlığınca belirlenen birim fiyatlar üzerinden Makine ve Kimya Endüstrisi (MKE) A.Ş.’ye bu Yönetmelik kapsamında satılır veya devredilir.
