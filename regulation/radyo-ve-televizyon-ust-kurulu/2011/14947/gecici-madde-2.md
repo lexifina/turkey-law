@@ -1,0 +1,2 @@
+2011 yılı için kanal veya frekans yıllık kullanım ücreti katsayısı
+GEÇİCİ MADDE 2 – (1) 7 nci maddedeki hesaplamada kullanılmak üzere her yıl Üst Kurulca belirlenecek olan kanal veya frekans yıllık kullanım ücreti katsayısı (K), 2011 yılı için 0,4 (ondadört) olarak belirlenmiştir. Bu katsayıda değişiklik yapılması halinde Üst Kurulun internet sitesinde yayınlanır ve o yılın Ocak ayından itibaren uygulanır.
