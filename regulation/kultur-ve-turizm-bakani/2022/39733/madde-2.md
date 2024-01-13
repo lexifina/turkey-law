@@ -1,0 +1,2 @@
+Kapsam
+MADDE 2- (1) Bu Yönetmelik, 12/3/1982 tarihli ve 2634 sayılı Turizmi Teşvik Kanunu uyarınca ilan edilen kültür ve turizm koruma gelişim bölgeleri ve turizm merkezleri içinde ya da dışında, lüks çadır tesislerinin yerleşim ve kurulum koşullarının belirlenmesine, bu tesislerin yönetim, personel ve işletme özellikleri ile uymak zorunda oldukları fiziki şartların ve işletmecilik esaslarının belirlenmesi ile belgelendirme, kiralanma ve ruhsatlandırma süreçlerine ilişkin usul ve esasları kapsar.

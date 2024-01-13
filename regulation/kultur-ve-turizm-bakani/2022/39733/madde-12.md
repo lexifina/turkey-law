@@ -1,0 +1,10 @@
+Turizm belgesi işlemleri
+MADDE 12- (1) Belgelendirilmeye ilişkin tüm başvurular ile tüzel kişilerin talep ve bildirimlerine ilişkin diğer başvurular e-Devlet üzerinden yapılır. Bu madde kapsamında olan ancak e-Devlet üzerinden yapılmayan fiziki başvurular değerlendirilmeye alınmadan başvuru sahibine iade edilir.
+(2) Bakanlık tarafından başvuru evrakı incelenerek uygun görülmeyen başvurular gerekçesi belirtilerek reddedilir.
+(3) Başvuru evrakının incelenmesi sonucunda;
+a) Yatırım belgesi talepleri ile turizm işletmesi belgesinden kısmi turizm işletmesi belgesine geçiş taleplerinde evrak üzerinden yapılan incelemede, başvurusu uygun görülenler belgelendirilir.
+b) Turizm yatırımı belgeli tesislerin kısmi turizm işletmesi belgesi veya turizm işletmesi belgesine geçişlerinde, başvuru evrakı uygun görülenler denetim programına alınır. Yapılan belgelendirme denetimi sonucunda giderilebilir eksikliklerin tespit edilmesi halinde belge sahibine bir defaya mahsus olmak üzere otuz gün süre verilir.
+(4) Bakanlıktan turizm işletmesi belgesi almayan tesisler faaliyette bulunamaz. Kısmi turizm işletmesi belgesi veya turizm işletmesi belgesi düzenlendikten sonra, başka bir işleme gerek kalmaksızın belge tarihinden itibaren on beş gün içinde yetkili idare tarafından işyeri açma ve çalıştırma ruhsatı verilir. İşyeri açma ve çalışma ruhsatının bir örneğinin belge sahibi tarafından on beş gün içinde Bakanlığa gönderilmesi zorunludur.
+(5) İşyeri açma ve çalışma ruhsatını düzenleyen kurum veya kuruluş, ruhsata ilişkin her türlü değişiklik veya iptal işlemini Bakanlığa bildirmekle yükümlüdür.
+(6) Yerleşim tasarım ve yönetim planı değişikliği yapılmadığı sürece kapasite artırımı talep edilemez. Kapasite değişikliği talebinde bulunulması halinde, 6 ncı, 7 nci ve 8 inci maddelere göre işlem yapılır. Turizm işletmesi belgeli veya kısmi turizm işletmesi belgeli tesislerde belge sahibi tarafından turizm belgesinde belirtilen çadır kapasitesine uyulması zorunludur.
+(7) Turizm belgesi iptal edilen ve iptal işlemine yönelik dava süreci devam eden tesislere ilişkin belge talepleri, dava sonuçlanmadan değerlendirilmez.
