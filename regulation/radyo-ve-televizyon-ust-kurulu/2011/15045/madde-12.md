@@ -1,0 +1,3 @@
+Haber birimlerinde çalışanlar ile basın kartı alacakların sayısı
+MADDE 12 – (1) Medya hizmet sağlayıcıların, haber biriminde çalıştırılacak basın kartlı personel sayısı, ulusal yayın lisansına sahip televizyon kuruluşlarında 12 ve radyo kuruluşlarında 3; uydu veya kablo yayın lisansına sahip ya da bölgesel nitelikte yayın yapan televizyon kuruluşlarında 3 ve radyo kuruluşlarında 1; yerel nitelikte yayın yapan televizyon kuruluşlarında 1 kişiden az olamaz.
+(2) Haber biriminde çalışan basın kartlı personel 13/6/1952 tarihli ve 5953 sayılı Basın Mesleğinde Çalışanlarla Çalıştıranlar Arasındaki Münasebetlerin Tanzimi Hakkında Kanuna tâbidir.

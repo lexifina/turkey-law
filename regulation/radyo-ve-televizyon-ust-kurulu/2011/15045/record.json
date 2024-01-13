@@ -1,0 +1,68 @@
+{
+  "source_id": "7.5.15045",
+  "kind": "regulation",
+  "register_kind": "Kurum ve Kuruluş Yönetmelikleri",
+  "title": "MEDYA HİZMET SAĞLAYICI KURULUŞLAR İLE PLATFORM VE ALTYAPI İŞLETMECİLERİNİN UYMALARI GEREKEN İDARİ VE MALİ ŞARTLAR HAKKINDA YÖNETMELİK",
+  "number": "15045",
+  "issuer": "Radyo ve Televizyon Üst Kurulu",
+  "issuer_slug": "radyo-ve-televizyon-ust-kurulu",
+  "path": "regulation/radyo-ve-televizyon-ust-kurulu/2011/15045",
+  "source": "https://www.mevzuat.gov.tr/anasayfa/MevzuatFihristDetayIframe?MevzuatTur=7&MevzuatNo=15045&MevzuatTertip=5",
+  "source_sha256": "357ea3e49384f9798088eecb8c881ac1ed31cef43a11e3d939b05d8316160d0f",
+  "source_bytes": 72817,
+  "published": "2011-06-15",
+  "gazette": "27965",
+  "in_force": "2024-01-13",
+  "in_force_basis": "latest Resmî Gazete date printed in the source amendment notes/table (\"RG-13/1/2024\") for the current consolidated text",
+  "date_evidence": [
+    [
+      "2024-01-13",
+      "RG-13/1/2024",
+      "Resmî Gazete date printed in the source amendment note"
+    ],
+    [
+      "2024-01-13",
+      "13/1/2024",
+      "Resmî Gazete date in the source amendment table"
+    ],
+    [
+      "2021-05-18",
+      "RG-18/5/2021",
+      "Resmî Gazete date printed in the source amendment note"
+    ],
+    [
+      "2021-05-18",
+      "18/5/2021",
+      "Resmî Gazete date in the source amendment table"
+    ],
+    [
+      "2019-07-30",
+      "30/7/2019",
+      "Resmî Gazete date in the source amendment table"
+    ],
+    [
+      "2013-01-10",
+      "RG-10/1/2013",
+      "Resmî Gazete date printed in the source amendment note"
+    ],
+    [
+      "2013-01-10",
+      "10/1/2013",
+      "Resmî Gazete date in the source amendment table"
+    ]
+  ],
+  "commencement_clauses": [
+    "Bu Yönetmelik yayımı tarihinde yürürlüğe girer"
+  ],
+  "history": "current-text",
+  "label": "oldest version available",
+  "checked_on": "2026-11-15",
+  "word_count": 3536,
+  "text_status": "current-consolidated",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  },
+  "completeness": "html-text-complete"
+}
