@@ -1,0 +1,17 @@
+{
+  "issuer": "Yüksek Seçim Kurulu",
+  "document_type": "decision",
+  "number": "2024/80",
+  "list_number": "80",
+  "decision_date": "2024-01-15",
+  "title": "Bağımsız adayların başvurularında uyulması zorunlu usullerle yatıracakları teminat miktarının belirlenmesi ile siyasi partilerin aday listelerini vermelerinde uyulması zorunlu usullerin ve başvurularında bu listelere eklenmesi gereken belgelerin belirlenmesine ilişkin Yüksek Seçim Kurulunun 2024/80 sayılı kararı.",
+  "official_document": "https://www.ysk.gov.tr/doc/karar/dosya/46637428/2024-80.pdf",
+  "source_sha256": "97ea06075f6245b260ed1c4e9f91e34740c0c95f0b9c115680e8a0110378be0a",
+  "official_list": "https://www.ysk.gov.tr/doc/karar/kararlar.txt",
+  "official_list_sha256": "0733001df8fd09fa2f4155954da343809b59b823ecd8d57ad2e679c4264f5a84",
+  "pdf_pages": 9,
+  "text_status": "metadata-only",
+  "metadata_only_reason": "the two text extractions (PyMuPDF / pdftotext) differ",
+  "in_force": "2024-01-15",
+  "law_text_complete": false
+}
