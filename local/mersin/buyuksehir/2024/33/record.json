@@ -1,0 +1,18 @@
+{
+  "issuer": "Mersin Büyükşehir Belediye Meclisi",
+  "number": "33",
+  "decision_date": "2024-01-15",
+  "title": "- MEC.KAR.( Yenisehir 4. Etap 1000 itirazlar )",
+  "listed_as": "33- MEC.KAR.( Yenisehir 4. Etap 1000 itirazlar )",
+  "subject_note": "subject as the meeting page lists it (the register shortens some long subjects)",
+  "official_document": "https://www.mersin.bel.tr/dokumanlar/33-meckar-yenisehir-4-etap-1000-itirazlar--830870792",
+  "source_listing": "https://www.mersin.bel.tr/dokumanlar/15-ocak-2024-meclis-kararlari-775262153",
+  "listing_sha256": "3dc4de10ebe2a7a28df43014f9a504f91b7dbae3568daf078bfa8f90485a7e2b",
+  "meeting_title": "15 OCAK 2024 MECLİS KARARLARI",
+  "history_type": "metadata-only",
+  "capture_mode": "metadata-only",
+  "text_status": "metadata-only; official decision page linked, text not transcribed",
+  "date_basis": "meeting date in the official meeting page title (decision date of the session)",
+  "commencement_established": false,
+  "privacy_withheld": false
+}
