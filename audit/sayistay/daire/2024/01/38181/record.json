@@ -1,0 +1,17 @@
+{
+  "kind": "decision",
+  "issuer": "Sayıştay 8. Dairesi",
+  "number": "305",
+  "decision_date": "2024-01-16",
+  "source_id": 38181,
+  "chamber": "8",
+  "ilam_number": "33",
+  "item_number": 5,
+  "public_body_type": "Belediyeler ve Bağlı İdareler",
+  "account_year": 2022,
+  "subject": "İhale Mevzuatı ile İlgili Kararlar",
+  "source": "https://www.sayistay.gov.tr/KararlarDaire/Detay/38181/",
+  "source_sha256": "1de6969eed39be4e71fc814344687bdf48e7e28be2493112bc26a6178f433bf5",
+  "text_status": "as-enacted",
+  "text_file": "metin.md"
+}
