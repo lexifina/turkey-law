@@ -1,0 +1,6 @@
+Ceza infaz kurumlarının dış korunmasına ilişkin görevler
+MADDE 24- (1) Ceza infaz kurumlarının dış korunması jandarmaya aittir. Bu yerlerde görev alacak birimlerin teşkilat, konuş ve kuruluşu ceza infaz kurumlarının özellikleri dikkate alınarak jandarmanın kendi kuruluş ve kadrolarında gösterilir.
+(2) Jandarma, ceza infaz kurumlarının dışarıdan emniyet ve koruma tedbirlerini almak, tutuklu ve hükümlülerin kaçmalarına engel olmakla görevlidir. Jandarmaların hükümlü ve tutuklularla görüşmeleri ve ilişki kurmaları, ceza infaz kurumlarının içindeki iş ve işlemlere karışmaları yasaktır. Ceza infaz kurumlarının içinde burada görevli olanlarca bastırılamayacak genel bir hareket ve kargaşa meydana geldiğinde ceza infaz kurumlarının müdürü veya vekili veya infaz koruma memurlarının başvurusu üzerine jandarma olaya müdahale ederek sükûnu sağlar.
+(3) Jandarma hiçbir şekilde ceza infaz kurumlarının iç işlerinde ve infaz koruma memurluğu görevlerinde kullanılamaz.
+(4) Jandarma ceza infaz kurumlarına girmesi yasak olan silah, alet ve eşyanın bu yerlere sokulmasına engel olur.
+(5) Ceza infaz kurumlarının yetkili amir ve memurlarınca verilmiş izin ve jandarma muhafazasında olmadıkça bu yerlerden hiçbir tutuklu ve hükümlü dışarıya gönderilemez.

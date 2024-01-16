@@ -1,0 +1,2 @@
+Sevk edilen tutuklu ya da hükümlünün yolda hastalanması
+MADDE 30- (1) Sevk ve nakil sırasında tutuklu ya da hükümlü yolda hastalandığında hekim ya da sağlık kuruluşu bulunan en yakın jandarma birliğine kadar götürülerek muayene ve tedavileri yaptırılır. Bu gibilerin yola devam edemeyecekleri hekim muayenesi ile anlaşıldığında; iyileştikten sonra usulüne uygun biçimde sevk edilmek üzere, bütün eşya ve evrakı ile birlikte Cumhuriyet savcısının talimatıyla belirlenecek ceza ve tutukevine teslim edilir.

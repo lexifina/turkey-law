@@ -1,0 +1,5 @@
+Sevk ve nakil sırasında isyan ve firara teşebbüs
+MADDE 32- (1) Sevk ve nakil sırasında tutuklu veya hükümlülerin isyan ya da firar hazırlığı içinde olduklarından kuşkulanıldığında, sevke görevli devriye komutanı tarafından, böyle bir harekete kalkıştıklarında silah kullanılacağı ihtar edilir. Bu ihtara uymayarak firara teşebbüs etmeleri durumunda firarın başka şekilde önlenmesine imkân bulunmazsa silah kullanılır.
+(2) Silah kullanma sonunda tutuklu ya da hükümlülerden birisi yaralandığında veya öldüğünde durum en elverişli haberleşme aracı ile en yakın jandarma komutanlığına ve bu komutanlıkça da o yerin Cumhuriyet savcılığına bildirilir. İlgili jandarma birim komutanının vereceği emre göre hareket edilir. Yaralının iyileştirilmesi için önlem alınır ve durum bir tutanakla saptanır.
+(3) Bu gibi durumlarda diğer tutuklu ve hükümlülerle sevkle görevli jandarmaların sevke devam edip edemeyeceklerini Cumhuriyet savcısı belirler. Jandarmaların tutuklanması ya da soruşturmanın uzaması durumunda sevk işlemi o yer jandarması tarafından yapılır.
+6857

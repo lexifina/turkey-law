@@ -1,0 +1,2 @@
+Sevk ve nakil sırasında konaklama
+MADDE 33- (1) Sevk ve nakillerde, gidilecek yere gündüz varılacak biçimde hareket edilir. Zorunluluk nedeniyle konaklamak durumunda kalınırsa tutuklu ve hükümlülerin geceyi yol üzerinde bulunan il ya da ilçe merkezlerindeki ceza infaz kurumlarında, zorunluluk varsa jandarma birimlerinin emniyet odalarında geçirmeleri sağlanır. Belde ve köylerde jandarma karakolunda, karakol yoksa köy odasında, belediye hizmet binasında konaklamaya uygun bir odada gerekli önlemler alınarak kalınabilir.

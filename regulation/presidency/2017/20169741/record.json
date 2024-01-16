@@ -1,0 +1,26 @@
+{
+  "id": "presidency-regulation-20169741",
+  "number": "20169741",
+  "kind": "regulation",
+  "issuer": "presidency",
+  "title": "JANDARMA TEŞKİLAT, GÖREV VE YETKİLERİ YÖNETMELİĞİ",
+  "published": "2017-01-21",
+  "enacted": "2016-12-12",
+  "gazette_number": "29955",
+  "in_force": "2024-01-16",
+  "in_force_basis": "Source commencement table, \"Yürürlüğe Giriş Tarihi\": 16/1/2024; source row: 15/1/2024 | 8090 | 46 | 16/1/2024 | ",
+  "history": "current-only",
+  "version_label": "oldest version available",
+  "first_law": null,
+  "source": "https://www.mevzuat.gov.tr/anasayfa/MevzuatFihristDetayIframe?MevzuatNo=20169741&MevzuatTur=21&MevzuatTertip=5",
+  "source_sha256": "965d3041ef4c1630f6b931bc8569d2eb7159601ac50433f876612621a7b058e6",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  },
+  "missing_components": [],
+  "text_layout": "article-files",
+  "source_links": [],
+  "completeness": "html-text-complete"
+}

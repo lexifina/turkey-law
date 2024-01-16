@@ -1,0 +1,2 @@
+İnternet toplu kullanım sağlayıcılarının denetimine ilişkin görevler
+MADDE 20- (1) 1/11/2007 tarihli ve 26687 sayılı Resmi Gazetede yayımlanan İnternet Toplu Kullanım Sağlayıcıları Hakkında Yönetmelik kapsamındaki işyerlerinin açılması, izin alınmadan açıldığı tespit edilen işyerlerinin kapatılması, işyerlerinin uyması gereken kurallara uyulmasının sağlanması mülki amirin emriyle yapılır. Jandarma bu işyerlerini genel güvenlik ve asayiş yönünden denetler ve denetleme sonuçlarını gereği yapılmak üzere mülki amire bildirir.

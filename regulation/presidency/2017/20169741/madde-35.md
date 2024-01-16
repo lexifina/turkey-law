@@ -1,0 +1,3 @@
+Tutuklu ve hükümlülerin sağlık kuruluşlarında muhafazası
+MADDE 35- (1) Tutuklu ve hükümlülerden, hastalananların ceza infaz kurumlarının kendi revirlerinde iyileştirilmeleri esastır. Zorunlu durumlarda diğer sağlık kurumlarına sevk edilenlerin, bu yerlerde muhafazası jandarma tarafından sağlanır.
+(2) Sağlık kurumlarında önceden, jandarmanın görüşü alınarak tutuklu ve hükümlülerin iyileştirilmeleri sırasında konabilecekleri özel yerleri ilgili kuruluşlarca hazırlanır ve her an hizmete hazır ve bakımlı bulundurulur. Sağlık kurumlarına sevk edilen tutuklu ve hükümlüler mevzuatta öngörülen esaslara uygun tarzda önlemler alınarak bu yerlere konur ve jandarma tarafından muhafaza edilirler.

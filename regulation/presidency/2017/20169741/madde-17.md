@@ -1,0 +1,2 @@
+Hak ve hürriyetlerin korunmasına ilişkin görevler
+MADDE 17- (1) Jandarma; kişilerin Anayasada ve kanunlarda düzenlenen hak ve hürriyetlerini korkusuz ve güvenlik içinde kullanmaları için gerekli önlemleri alır. Gerçek kişilerin, Devlet ve diğer kamu tüzel kişileri ile özel hukuk tüzel kişilerinin yetki ve haklarını kullanmalarına engel oluşturan hukuk dışı eylem ve davranışları, mevzuat çerçevesinde önler ve bastırır.

@@ -1,0 +1,3 @@
+Çalıştırılan tutuklu ve hükümlülerin muhafazası
+MADDE 36- (1) Adalet Bakanlığınca düzenlenen, tutuklu ve hükümlü çalıştırma faaliyetleri sırasında, tutuklu ve hükümlülerin muhafazası jandarma tarafından sağlanır.
+(2) Kanunlarda ve 20/3/2006 tarihli ve 2006/10218 sayılı Bakanlar Kurulu Kararı ile yürürlüğe konulan Ceza İnfaz Kurumlarının Yönetimi ile Ceza ve Güvenlik Tedbirlerinin İnfazı Hakkında Tüzükte öngörülen diğer kamu kurum ve kuruluşlarınca düzenlenen tutuklu ve hükümlü çalıştırma faaliyetleri sırasında ise, muhafaza görevi ceza infaz kurumlarının kendi yönetimi ve personelince yürütülür.
