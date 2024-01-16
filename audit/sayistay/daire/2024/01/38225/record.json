@@ -1,0 +1,17 @@
+{
+  "kind": "decision",
+  "issuer": "Sayıştay 3. Dairesi",
+  "number": "472",
+  "decision_date": "2024-01-16",
+  "source_id": 38225,
+  "chamber": "3",
+  "ilam_number": "39",
+  "item_number": 2,
+  "public_body_type": "Yüksek Öğretim Kurumları",
+  "account_year": 2022,
+  "subject": "Personel Mevzuatı ile İlgili Kararlar",
+  "source": "https://www.sayistay.gov.tr/KararlarDaire/Detay/38225/",
+  "source_sha256": "bfe97650a9cf162ecc8a1f5968fa67ba8cba3847c91f66c97e1cd76dc0a38c83",
+  "text_status": "as-enacted",
+  "text_file": "metin.md"
+}
