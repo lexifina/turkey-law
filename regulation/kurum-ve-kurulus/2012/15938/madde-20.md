@@ -1,0 +1,2 @@
+Toplantı ücreti ve harcırah
+MADDE 20 – (1) Başkanlık dışından kurul toplantılarına katılan üyelere, 23/8/2006 tarihli ve 2006/10932 sayılı Bakanlar Kurulu Kararıyla yürürlüğe konulan Kamu Kurum ve Kuruluşlarınca Ödenecek Telif ve İşlenme Ücretleri Hakkında Yönetmelik hükümlerine göre toplantı ücreti ödenir. Toplantıya başka yerden katılan üyelere 6245 sayılı Harcırah Kanunu hükümlerine göre harcırah ödenir.

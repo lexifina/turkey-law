@@ -1,0 +1,3 @@
+Yayımların maliyet hesabı ve satış bedellerinin belirlenmesi
+MADDE 16 – (Başlığı ile Birlikte Değişik:RG-17/1/2024-32432)
+(1) Başkanlıkça ödenen telif ve işlenme ücreti, baskı için yapılan harcamalar ve varsa eserin dağıtımı için tüzel ve gerçek kişilerle yapılmış sözleşmeler kapsamında ödenecek ücretlerin toplanmasıyla toplam maliyet bulunur. Toplam maliyetin, baskı adedine bölünmesiyle kitabın birim maliyeti hesaplanır. Satış Bedeli, Yayın Projeleri Değerlendirme Kurulunun teklifi ve Başkanın oluru ile belirlenir. Başkanlık birim maliyetin altında satış bedeli belirlemeye Yayın Projeleri Değerlendirme Kurulunun teklifi ile karar verebilir.

@@ -1,0 +1,3 @@
+Toplantı ve karar
+MADDE 5 – (1) Yayın kurulları, Başkanlığın gerekli gördüğü hâllerde üye tam sayısının salt çoğunluğu ile toplanır ve kararlarını toplantıya katılan üye sayısının salt çoğunluğu ile alır. Oyların eşitliği halinde Başkanın oyu yönünde karar alınmış sayılır.
+(2) Toplantılar, Başkanlıkça hazırlanan gündemle yapılır. Başkanlıkça belirlenen başvuru şartlarına uymayan eserler, ilgili yayın kurulu gündemine alınmaz. Yayın kurulları gerektiğinde Başkanın teklifi ile ortak toplantı yapabilir. Kurulların sekreterya ve raportörlük görevi, Başkanlığın yayımlardan sorumlu Daire Başkanlığınca yürütülür.
