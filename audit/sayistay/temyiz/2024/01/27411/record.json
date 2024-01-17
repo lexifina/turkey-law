@@ -1,0 +1,16 @@
+{
+  "kind": "decision",
+  "issuer": "Sayıştay Temyiz Kurulu",
+  "number": "56395",
+  "decision_date": "2024-01-17",
+  "source_id": 27411,
+  "chamber": "6",
+  "file_number": "45152",
+  "public_body_type": "Belediyeler ve Bağlı İdareler",
+  "account_year": "2016",
+  "subject": "İhale Mevzuatı ile İlgili Kararlar",
+  "source": "https://www.sayistay.gov.tr/KararlarTemyiz/Detay/27411/",
+  "source_sha256": "4aa9a8dc9cca6b8312009f90061f4fef24b16697493d2eda6e471bd429aa8459",
+  "text_status": "as-enacted",
+  "text_file": "metin.md"
+}
