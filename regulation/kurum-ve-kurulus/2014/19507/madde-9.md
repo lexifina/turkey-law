@@ -1,0 +1,4 @@
+Tasfiye edilen kaçak akaryakıtın muhafaza ücreti
+MADDE 9 – (1) Akaryakıtın satış suretiyle tasfiyesi halinde, satış bedelinin yüzde onbeşi muhafaza ücreti olarak esas alınır ve il özel idaresi veya (Değişik ibare:RG-18/1/2024-32433) yatırım izleme ve koordinasyon başkanlığı bütçesinden ödenir. Ödenecek bu tutar hiçbir şekilde 8 inci maddenin dördüncü fıkrasındaki azami haddi geçemez.
+(2) Elkonulan kaçak akaryakıtın tahsisi halinde, eşyayı muhafaza eden kişi veya kuruluşlarca sağlanan hizmetler için verilecek ücretler bu Yönetmelik hükümlerine göre kaçak akaryakıtı teslim almakla sorumlu il özel idaresi veya (Değişik ibare:RG-18/1/2024-32433) yatırım izleme ve koordinasyon başkanlığı bütçesinden ödenir.
+(3) Kaçak akaryakıtın farklı depolama yerlerinde muhafaza edilmesi durumunda, söz konusu ücret muhafaza süreleri dikkate alınarak paylaştırılır.

@@ -1,0 +1,2 @@
+İl özel idareleri ve (Değişik ibare:RG-18/1/2024-32433) yatırım izleme ve koordinasyon başkanlıklarınca yapılacak diğer masrafların karşılanması
+MADDE 13 – (1) Elkonulan kaçak akaryakıtın muhafazası, depolanması, yüklenmesi, boşaltılması, nakliyesi kapsamında; tank, depo yapımı, alımı ve kiralanması, araç-gereç ve teknik cihazların alımı, kiralanması ile güvenlik, hamaliye, bakım-onarım ve benzeri zorunlu hizmetlerin alınması ve yaptırılmasında 4734 sayılı Kanun hükümleri uygulanmadan, ilgili kurum bütçesinden karşılanır.

@@ -1,0 +1,2 @@
+Akaryakıt kaçakçılığı ile mücadele için yapılacak masrafların karşılanması
+MADDE 14 – (1) 5607 sayılı Kanunun 16/A maddesi veya akaryakıt kaçakçılığı ile mücadele konusunda (Değişik ibare:RG-18/1/2024-32433) Ticaret Bakanlığı ve İçişleri Bakanlığının merkez ve taşra teşkilatları, Enerji Piyasası Düzenleme Kurumu ve il özel idareleri tarafından yapılacak her türlü mal, araç, gereç ve hizmet alımlarında 4/1/2002 tarihli ve 4734 sayılı Kanun hükümleri uygulanmadan, ilgili kurum bütçesinden karşılanır.
