@@ -1,0 +1,21 @@
+{
+  "record_type": "parliament-written-question",
+  "term": 28,
+  "legislative_year": 2,
+  "esas_no": "7/8520",
+  "submitted": "2024-01-18",
+  "submitted_as": "Başkanlığa geliş tarihi",
+  "mp": "Mustafa BİLİCİ",
+  "province": "İzmir",
+  "summary": "2024 yılının Ocak ayı itibarıyla hastanelerin yoğun bakım servislerinin doluluk oranlarına ilişkin",
+  "status": "Cevaplanmadığı Gelen Kağıtlarda İlan Edildi",
+  "status_as_of": "2026-11-16",
+  "official_record": "https://www.tbmm.gov.tr/Denetim/Yazili-Soru-Onergesi-Detay/abf26987-ee1d-4c92-8517-018d1cdd9f21",
+  "source": "https://tbmm.gov.tr/Denetim/YaziliSoruOnergesiTable",
+  "source_form": "https://tbmm.gov.tr/Denetim/Yazili-Soru-Onergeleri",
+  "source_sha256": "21bb620d190fa972f7a0342a4f5adb03de5cfa34a36366e1a2bf0d67cc208da6",
+  "in_force": "2024-01-18",
+  "in_force_basis": "Date the question reached the Speaker (Başkanlığa geliş tarihi) in the official TBMM written-question record; parliamentary oversight record, not law",
+  "history_type": "metadata",
+  "text_status": "metadata-only: question text, addressee and answers are in the linked official record (PDFs on cdn.tbmm.gov.tr); not transcribed here"
+}
