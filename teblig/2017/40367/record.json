@@ -1,0 +1,40 @@
+{
+  "source_id": "9.5.40367",
+  "kind": "communique",
+  "register_kind": "Tebliğler",
+  "title": "VERGİ USUL KANUNU GENEL TEBLİĞİ (SIRA NO: 485)",
+  "number": "40367",
+  "issuer": "Maliye Bakanı",
+  "path": "teblig/2017/40367",
+  "source": "https://www.mevzuat.gov.tr/anasayfa/MevzuatFihristDetayIframe?MevzuatTur=9&MevzuatNo=40367&MevzuatTertip=5",
+  "source_sha256": "62c226c5b8b82758dc0f259020b88af5ccfbbdd0bd3effe92442ac4cd7ca7358",
+  "source_bytes": 58344,
+  "published": "2017-12-17",
+  "gazette": "30273",
+  "in_force": "2024-01-18",
+  "in_force_basis": "latest Resmî Gazete date printed in the source amendment notes/table (\"18/1/2024\") for the current consolidated text",
+  "date_evidence": [
+    [
+      "2024-01-18",
+      "18/1/2024",
+      "Resmî Gazete date in the source amendment table"
+    ]
+  ],
+  "commencement_clauses": [
+    "Bu Tebliğ 1/1/2018 tarihinde yürürlüğe girer"
+  ],
+  "history": "current-text",
+  "label": "oldest version available",
+  "checked_on": "2026-11-15",
+  "word_count": 1767,
+  "text_status": "current-consolidated",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  },
+  "source_links": [
+    "9.5.40367-Ek.docx"
+  ],
+  "completeness": "html-text-complete; linked annexes not fetched"
+}
