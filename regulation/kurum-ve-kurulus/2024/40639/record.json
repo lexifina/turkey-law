@@ -1,0 +1,30 @@
+{
+  "source_id": "7.5.40639",
+  "kind": "regulation",
+  "register_kind": "Kurum ve Kuruluş Yönetmelikleri",
+  "title": "TÜRKİYE DENİZCİLİK İŞLETMELERİ A.Ş. GENEL MÜDÜRLÜĞÜ KİRALAMA İŞLEMLERİ YÖNETMELİĞİ",
+  "number": "40639",
+  "issuer_slug": "kurum-ve-kurulus",
+  "path": "regulation/kurum-ve-kurulus/2024/40639",
+  "source": "https://www.mevzuat.gov.tr/anasayfa/MevzuatFihristDetayIframe?MevzuatTur=7&MevzuatNo=40639&MevzuatTertip=5",
+  "source_sha256": "53932a77945173b10c23e61fb234d662c5b102fe1b79026da93979c02db165ec",
+  "source_bytes": 40784,
+  "published": "2024-01-18",
+  "gazette": "32433",
+  "in_force": "2024-01-18",
+  "in_force_basis": "Resmî Gazete publication date in the official listing (18.01.2024); own commencement article: \"Bu Yönetmelik yayımı tarihinde yürürlüğe girer\"",
+  "commencement_clauses": [
+    "Bu Yönetmelik yayımı tarihinde yürürlüğe girer"
+  ],
+  "history": "current-text",
+  "label": "oldest version available",
+  "checked_on": "2026-11-15",
+  "word_count": 2469,
+  "text_status": "current-consolidated",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  },
+  "completeness": "html-text-complete"
+}
