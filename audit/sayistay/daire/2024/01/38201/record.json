@@ -1,0 +1,17 @@
+{
+  "kind": "decision",
+  "issuer": "Sayıştay 2. Dairesi",
+  "number": "35782",
+  "decision_date": "2024-01-18",
+  "source_id": 38201,
+  "chamber": "2",
+  "ilam_number": "31",
+  "item_number": 2,
+  "public_body_type": "Yüksek Öğretim Kurumları",
+  "account_year": 2022,
+  "subject": "Çeşitli Konuları İlgilendiren Kararlar",
+  "source": "https://www.sayistay.gov.tr/KararlarDaire/Detay/38201/",
+  "source_sha256": "cc1ef14c7eb5eaa96d046d1ed41ba647519572807167bacd75def21045b934cc",
+  "text_status": "as-enacted",
+  "text_file": "metin.md"
+}
