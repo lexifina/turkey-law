@@ -1,0 +1,17 @@
+{
+  "kind": "decision",
+  "issuer": "Sayıştay 5. Dairesi",
+  "number": "631",
+  "decision_date": "2024-01-18",
+  "source_id": 38562,
+  "chamber": "5",
+  "ilam_number": "308",
+  "item_number": 3,
+  "public_body_type": "Belediyeler ve Bağlı İdareler",
+  "account_year": 2016,
+  "subject": "Personel Mevzuatı ile İlgili Kararlar",
+  "source": "https://www.sayistay.gov.tr/KararlarDaire/Detay/38562/",
+  "source_sha256": "61a5c22131765fe7da0ea90a19795232bf59d06e25d2aae4f3f6b6ea1b83b9dc",
+  "text_status": "as-enacted",
+  "text_file": "metin.md"
+}
