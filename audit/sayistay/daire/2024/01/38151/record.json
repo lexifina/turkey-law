@@ -1,0 +1,17 @@
+{
+  "kind": "decision",
+  "issuer": "Sayıştay 6. Dairesi",
+  "number": "932",
+  "decision_date": "2024-01-18",
+  "source_id": 38151,
+  "chamber": "6",
+  "ilam_number": "26",
+  "item_number": 2,
+  "public_body_type": "Genel Bütçe Kapsamındaki İdareler",
+  "account_year": 2022,
+  "subject": "İhale Mevzuatı ile İlgili Kararlar",
+  "source": "https://www.sayistay.gov.tr/KararlarDaire/Detay/38151/",
+  "source_sha256": "24a41edb865531a2b99b75e1b238956d3f7f3a93f451fa44778b748a119712db",
+  "text_status": "as-enacted",
+  "text_file": "metin.md"
+}
