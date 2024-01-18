@@ -1,0 +1,45 @@
+{
+  "source_id": "7.5.20786",
+  "kind": "regulation",
+  "register_kind": "Kurum ve Kuruluş Yönetmelikleri",
+  "title": "SİGORTA VE REASÜRANS BROKERLERİ YÖNETMELİĞİ",
+  "number": "20786",
+  "issuer_slug": "kurum-ve-kurulus",
+  "path": "regulation/kurum-ve-kurulus/2015/20786",
+  "source": "https://www.mevzuat.gov.tr/anasayfa/MevzuatFihristDetayIframe?MevzuatTur=7&MevzuatNo=20786&MevzuatTertip=5",
+  "source_sha256": "2767660817203495df800f1cbf2608b712d3c204804a737bbea4325bba9ca60d",
+  "source_bytes": 59097,
+  "published": "2015-05-27",
+  "gazette": "29368",
+  "in_force": "2024-01-18",
+  "in_force_basis": "latest Resmî Gazete date printed in the source amendment notes/table (\"RG-18/1/2024\") for the current consolidated text",
+  "date_evidence": [
+    [
+      "2024-01-18",
+      "RG-18/1/2024",
+      "Resmî Gazete date printed in the source amendment note"
+    ],
+    [
+      "2024-01-18",
+      "18/1/2024",
+      "Resmî Gazete date in the source amendment table"
+    ]
+  ],
+  "commencement_clauses": [
+    "Bu Yönetmelik yayımı tarihinde yürürlüğe girer"
+  ],
+  "history": "current-text",
+  "label": "oldest version available",
+  "checked_on": "2026-11-15",
+  "word_count": 2521,
+  "text_status": "current-consolidated",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  },
+  "source_links": [
+    "7.5.20786-EK.docx"
+  ],
+  "completeness": "html-text-complete; linked annexes not fetched"
+}
