@@ -1,0 +1,46 @@
+{
+  "source_id": "7.5.39426",
+  "kind": "regulation",
+  "register_kind": "Kurum ve Kuruluş Yönetmelikleri",
+  "title": "KAPADOKYA ALAN BAŞKANLIĞI ÜCRETE TABİ BAŞVURULAR VE SUNULACAK HİZMETLER KARŞILIĞI ALINACAK ÜCRETLERE İLİŞKİN USUL VE ESASLAR HAKKINDA YÖNETMELİK",
+  "number": "39426",
+  "issuer": "Kapadokya Alan Başkanı",
+  "issuer_slug": "kapadokya-alan-baskani",
+  "path": "regulation/kapadokya-alan-baskani/2022/39426",
+  "source": "https://www.mevzuat.gov.tr/anasayfa/MevzuatFihristDetayIframe?MevzuatTur=7&MevzuatNo=39426&MevzuatTertip=5",
+  "source_sha256": "800c8feffa32bb9c1e7d719597434a5dbafbd67f3443571ec0b7a11caa8fafe9",
+  "source_bytes": 21890,
+  "published": "2022-03-15",
+  "gazette": "31779",
+  "in_force": "2024-01-18",
+  "in_force_basis": "latest Resmî Gazete date printed in the source amendment notes/table (\"18/1/2024\") for the current consolidated text",
+  "date_evidence": [
+    [
+      "2024-01-18",
+      "18/1/2024",
+      "Resmî Gazete date in the source amendment table"
+    ],
+    [
+      "2023-01-28",
+      "28/1/2023",
+      "Resmî Gazete date in the source amendment table"
+    ]
+  ],
+  "commencement_clauses": [
+    "Bu Yönetmelik yayımı tarihinde yürürlüğe girer"
+  ],
+  "history": "current-text",
+  "label": "oldest version available",
+  "checked_on": "2026-11-15",
+  "word_count": 473,
+  "text_status": "current-consolidated",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  },
+  "source_links": [
+    "7.5.39426%20Ek.xlsx"
+  ],
+  "completeness": "html-text-complete; linked annexes not fetched"
+}
