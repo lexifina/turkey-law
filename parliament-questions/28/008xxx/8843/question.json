@@ -1,0 +1,21 @@
+{
+  "record_type": "parliament-written-question",
+  "term": 28,
+  "legislative_year": 2,
+  "esas_no": "7/8843",
+  "submitted": "2024-01-19",
+  "submitted_as": "Başkanlığa geliş tarihi",
+  "mp": "Mehmet Satuk Buğra KAVUNCU",
+  "province": "İstanbul",
+  "summary": "24 Ocak 2020 tarihli Elazığ depremi sonrasında yıkılan öğretmenevi binasının akıbetine ilişkin",
+  "status": "Süresi Geçtikten Sonra Cevaplandı",
+  "status_as_of": "2026-11-16",
+  "official_record": "https://www.tbmm.gov.tr/Denetim/Yazili-Soru-Onergesi-Detay/4b165887-cf30-4a2f-a10f-018d2ff73348",
+  "source": "https://tbmm.gov.tr/Denetim/YaziliSoruOnergesiTable",
+  "source_form": "https://tbmm.gov.tr/Denetim/Yazili-Soru-Onergeleri",
+  "source_sha256": "9230398f18af60d03e0cd151ed1aabff5319586d23b8bb9adabeb6f94f60c271",
+  "in_force": "2024-01-19",
+  "in_force_basis": "Date the question reached the Speaker (Başkanlığa geliş tarihi) in the official TBMM written-question record; parliamentary oversight record, not law",
+  "history_type": "metadata",
+  "text_status": "metadata-only: question text, addressee and answers are in the linked official record (PDFs on cdn.tbmm.gov.tr); not transcribed here"
+}
