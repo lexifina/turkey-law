@@ -1,0 +1,2 @@
+İmalatçının yükümlülüğünün ithalatçı ve dağıtıcıya uygulandığı durumlar
+MADDE 11- (1) İthalatçı veya dağıtıcı, kendi adı ve ticari markası altında EEE’yi piyasaya arz etmesi veya hâlihazırda piyasaya arz edilmiş olan bir EEE’yi bu Yönetmelik hükümlerine uygunluğunu etkileyecek şekilde değiştirmesi durumunda bu Yönetmelik kapsamında imalatçı olarak kabul edilir ve 7 nci maddede yer alan yükümlülükleri yerine getirir.

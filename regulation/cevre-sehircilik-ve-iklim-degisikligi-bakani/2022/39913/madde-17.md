@@ -1,0 +1,2 @@
+Uyumlaştırılmış standarda resmi olarak itirazda bulunulması
+MADDE 17- (1) Piyasa gözetimi ve denetimi kuruluşu, uyumlaştırılmış bir standardın amaçladığı ve ikinci bölümde belirtilen gerekleri tamamen karşılamadığını tespit ettiğinde, Avrupa Komisyonuna bildirilmesi veya 2015/1535/AB sayılı ve 9/9/2015 tarihli Avrupa Parlamentosu ve Konsey Direktifi kapsamında faaliyet gösteren teknik komitenin gündemine getirilmesi amacıyla görüşlerini Ticaret Bakanlığına iletir.
