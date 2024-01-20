@@ -1,0 +1,3 @@
+Alım işlem dosyası
+MADDE 16- (1) Bu Yönetmelik kapsamında alımı yapılacak her iş için bir işlem dosyası düzenlenir. Bu dosyada, harcama yetkilisince onaylanan alım onay belgesi ve varsa eki yaklaşık maliyete ilişkin hesap cetveli, şartname ve sözleşme tasarısı ile istekliler tarafından sunulan teklifler ve diğer belgeler, varsa alım komisyonu kararları ile alınan teminatlar gibi alım süreci ile ilgili bütün belgeler bulunur.
+(2) Bu Yönetmelik kapsamında yapılacak alımlarda; isteklilere talimatları içeren idari şartname, yapılacak işin teknik detaylarını tarif eden teknik şartname ve sözleşme tasarısı gibi alıma ilişkin doküman hazırlanabilir.

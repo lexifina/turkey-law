@@ -1,0 +1,5 @@
+Yaklaşık maliyet ve piyasa fiyat araştırması
+MADDE 10- (1) Pazarlık usulü ile yapılacak mal ve hizmet alımlarında alım komisyonu tarafından her türlü fiyat araştırması yapılarak katma değer vergisi hariç olmak üzere ve dayanaklarıyla birlikte yaklaşık maliyet belirlenir. Bu durumda yaklaşık maliyete, alıma ilişkin dokümanda yer verilmez ve yaklaşık maliyet isteklilere veya alım süreci ile resmî ilişkisi olmayan diğer kişilere açıklanmaz.
+(2) Alım komisyonu tarafından, alım konusu iş ile iştigal eden bir veya birden fazla istekliden fiyat teklifleri alınarak piyasa fiyat araştırması yapılır. Araştırma sonucu hazırlanan tutanak araştırmayı yapan komisyonca imzalanır ve alım onay belgesine eklenir.
+(3) Yaklaşık maliyet hesaplaması; Ajansın daha önce yaptığı işler için aldığı fiyat teklifleri, internet kaynakları, telefon veya elektronik posta yoluyla alınan fiyat bilgileri, broşürler ve benzeri bilgiler kullanılarak yapılabilir.
+(4) Ajans, yaklaşık maliyetin belirlenmesi süresince görüşme yapılan gerçek veya tüzel kişiyi teklif vermeye davet etmek zorunda değildir.

@@ -1,0 +1,3 @@
+Yüklenicinin sorumlulukları
+MADDE 13- (1) Ajansın talep ettiği nitelik ve niceliklere uygun olmayan mal tedariki ve hizmet sunumu durumunda ortaya çıkabilecek her türlü zarar ve ziyandan doğrudan yükleniciler sorumludur. Bu zarar ve ziyan genel hükümlere göre yükleniciye ikmal ve tazmin ettirilir. Ayrıca teminat alınmışsa gelir kaydedilir.
+(2) Alım konusu işin özelliği nedeniyle ihtiyaç duyulması ve alım dokümanında gerekli düzenlemelerin yapılması kaydıyla alt yüklenici çalıştırılmasına izin verilmesi halinde alt yüklenicilerin yaptıkları işlerle ilgili sorumluluğu asıl yüklenicinin sorumluluğunu ortadan kaldırmaz.

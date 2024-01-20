@@ -1,0 +1,6 @@
+Tekliflerin değerlendirilmesi ve yüklenici seçimi
+MADDE 12- (1) Alım komisyonu, alınan tekliflerin varsa idari ve teknik şartnameye uygunluğunu ve istekli firmaların ve sundukları belgelerin yeterliğini değerlendirir.
+(2) Alım komisyonu, gerek görmesi hâlinde tekliflerin incelenmesi, karşılaştırılması ve değerlendirilmesinde yararlanmak üzere net olmayan hususlarla ilgili isteklilerden yazılı veya elektronik ortamda tekliflerini açıklamalarını isteyebilir.
+(3) Alım komisyonu tarafından yapılan değerlendirme neticesinde en uygun geçerli fiyat teklifleri tespit edilir, pazarlık yapılır. Komisyon kararında, pazarlığın ne şekilde yapıldığı, ne gibi tekliflerde bulunulduğu ve üzerine alım yapılanın tercih sebepleri açıkça belirtilir. İhale komisyonunun kararları harcama yetkilisince onaylanarak kesinleşir. Kararlarda isteklilerin adları veya ticaret unvanları, teklif edilen bedeller, pazarlık sonucu oluşan nihai bedel ve alımın hangi istekli üzerine hangi gerekçelerle bırakıldığı belirtilir.
+(4) Harcama yetkilisi, alım komisyonu kararını onaylar veya gerekçesini belirtmek suretiyle alımı beş gün içerisinde iptal eder.
+(5) Ajans verilmiş olan bütün teklifleri reddederek alım işlemlerini iptal etmekte serbesttir. Alımın iptal edilmesi nedeniyle isteklilerce Ajanstan herhangi bir hak talebinde bulunulamaz.
