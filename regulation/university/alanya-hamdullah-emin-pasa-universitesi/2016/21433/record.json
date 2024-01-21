@@ -1,0 +1,31 @@
+{
+  "act_path": "regulation/university/alanya-hamdullah-emin-pasa-universitesi/2016/21433",
+  "availability": "text",
+  "checked_on": "2026-11-14",
+  "commencement_clauses": [
+    "MADDE 13 – (1) Bu Yönetmelik 2016-2017 eğitim öğretim yılı başında yürürlüğe girer."
+  ],
+  "date_quote": "RG-21/1/2024",
+  "first_law": null,
+  "gazette": "29636",
+  "history": "current-text",
+  "images": {
+    "deferred": 0,
+    "omitted": 0,
+    "referenced": 0,
+    "source": 0
+  },
+  "in_force": "2024-01-21",
+  "in_force_basis": "latest source-printed amendment Gazette date; current consolidated text",
+  "issuer": "Alanya Hamdullah Emin Paşa Üniversitesi",
+  "issuer_slug": "alanya-hamdullah-emin-pasa-universitesi",
+  "kind": "regulation",
+  "published": "2016-02-26",
+  "source": "https://www.mevzuat.gov.tr/anasayfa/MevzuatFihristDetayIframe?MevzuatTur=8&MevzuatNo=21433&MevzuatTertip=5",
+  "source_id": "8.5.21433",
+  "source_sha256": "75dc643910cd78237040aae60cf8e7336b61819f69ad235e070923209e90d32a",
+  "title": "ALANYA ÜNİVERSİTESİ YABANCI DİLLER YÜKSEKOKULU İNGİLİZCE HAZIRLIK PROGRAMI YÖNETMELİĞİ",
+  "university_id": 373,
+  "version_label": "oldest version available",
+  "word_count": 1075
+}
