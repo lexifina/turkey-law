@@ -1,0 +1,31 @@
+{
+  "act_path": "regulation/university/alanya-hamdullah-emin-pasa-universitesi/2017/23224",
+  "availability": "text",
+  "checked_on": "2026-11-14",
+  "commencement_clauses": [
+    "MADDE 15 – (1) Bu Yönetmelik yayımı tarihinde yürürlüğe girer."
+  ],
+  "date_quote": "RG-21/1/2024",
+  "first_law": null,
+  "gazette": "29944",
+  "history": "current-text",
+  "images": {
+    "deferred": 0,
+    "omitted": 0,
+    "referenced": 0,
+    "source": 0
+  },
+  "in_force": "2024-01-21",
+  "in_force_basis": "latest source-printed amendment Gazette date; current consolidated text",
+  "issuer": "Alanya Hamdullah Emin Paşa Üniversitesi",
+  "issuer_slug": "alanya-hamdullah-emin-pasa-universitesi",
+  "kind": "regulation",
+  "published": "2017-01-10",
+  "source": "https://www.mevzuat.gov.tr/anasayfa/MevzuatFihristDetayIframe?MevzuatTur=8&MevzuatNo=23224&MevzuatTertip=5",
+  "source_id": "8.5.23224",
+  "source_sha256": "e0b4a7a3fc38023c15a144434cc97edadac506ebb577b8b0dc5fe9b2b39c88d9",
+  "title": "ALANYA ÜNİVERSİTESİ AÇIK VE UZAKTAN ÖĞRENME UYGULAMA VE ARAŞTIRMA MERKEZİ YÖNETMELİĞİ",
+  "university_id": 373,
+  "version_label": "oldest version available",
+  "word_count": 1251
+}
