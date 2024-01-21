@@ -1,0 +1,31 @@
+{
+  "act_path": "regulation/university/alanya-hamdullah-emin-pasa-universitesi/2022/39729",
+  "availability": "text",
+  "checked_on": "2026-11-14",
+  "commencement_clauses": [
+    "MADDE 17- (1) Bu Yönetmelik yayımı tarihinde yürürlüğe girer."
+  ],
+  "date_quote": "RG-21/1/2024",
+  "first_law": null,
+  "gazette": "31959",
+  "history": "current-text",
+  "images": {
+    "deferred": 0,
+    "omitted": 0,
+    "referenced": 0,
+    "source": 0
+  },
+  "in_force": "2024-01-21",
+  "in_force_basis": "latest source-printed amendment Gazette date; current consolidated text",
+  "issuer": "Alanya Hamdullah Emin Paşa Üniversitesi",
+  "issuer_slug": "alanya-hamdullah-emin-pasa-universitesi",
+  "kind": "regulation",
+  "published": "2022-09-20",
+  "source": "https://www.mevzuat.gov.tr/anasayfa/MevzuatFihristDetayIframe?MevzuatTur=8&MevzuatNo=39729&MevzuatTertip=5",
+  "source_id": "8.5.39729",
+  "source_sha256": "8fcbffd195fc072a8dd1e6d42fe72247ec2c79109c753c3194ec15608b5bd2de",
+  "title": "ALANYA ÜNİVERSİTESİ TÜRKÇE VE YABANCI DİL ÖĞRETİMİ UYGULAMA VE ARAŞTIRMA MERKEZİ YÖNETMELİĞİ",
+  "university_id": 373,
+  "version_label": "oldest version available",
+  "word_count": 785
+}
