@@ -1,0 +1,2 @@
+Merkezin faaliyet alanları
+MADDE 6- (1) Merkezin faaliyet alanları belirlenen amaçlar doğrultusunda kamu sektörü ve özel sektördeki, gerçek ve tüzel kişilere ihtiyaç duydukları alanlarda ulusal ve uluslararası düzeyde ilgili mevzuat kapsamında kurs, seminer, sertifika ve eğitim programları, konferans, uzaktan veya yüz yüze eğitim, sınava hazırlık, araştırma, danışmanlık ve proje hizmetleri ve benzeri her türlü faaliyetleri gerçekleştirmektir.
