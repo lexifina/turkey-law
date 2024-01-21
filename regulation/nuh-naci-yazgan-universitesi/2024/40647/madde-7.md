@@ -1,0 +1,4 @@
+Ders muafiyeti
+MADDE 7- (1) Daha önce herhangi bir yükseköğretim kurumunda okuyan ve başarılı oldukları derslerden muaf olmak isteyen öğrenciler, akademik takvimde belirtilen süreler içinde ilgili birimin öğrenci işlerine müracaat ederler.
+(2) Muafiyet talebi, ilgili bölüm muafiyet komisyonunun onayı ile Fakülte Yönetim Kurulunda karara bağlanır. Muafiyet için derslerin denklik değerlendirmesi yapılırken; dersin başarı notu, öğrenim çıktıları ve AKTS kredisi dikkate alınır.
+(3) Üniversiteye, yurt içi veya yurt dışı yükseköğretim kurumlarından veya kurum içerisinden yatay geçiş yapan, daha önce eğitim gördüğü kurumdaki dersleri saydırmak isteyen, lisans öğrenimine hazırlık programı uygulanan veya öğrenci değişim programlarına katılan öğrencilere, daha önce başarmış oldukları ve eş değerliği ilgili AKTS koordinatörünün görüşü üzerine Fakülte Yönetim Kurulu tarafından kabul edilen dersler için T notu transfer notu olarak verilir.
