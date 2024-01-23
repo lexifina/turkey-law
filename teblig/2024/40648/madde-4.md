@@ -1,0 +1,2 @@
+Diğer hususlar
+MADDE 4- (1) 652 sayılı Kanun Hükmünde Kararnamenin 43 üncü maddesinin ikinci fıkrasında, bu maddenin birinci fıkrasında belirtilen eğitim hizmetini sunan veya yararlananların gerçek dışı beyanda bulunmak suretiyle fazladan ödemeye sebebiyet vermeleri durumunda bu tutarların, iki katı ve kanunî faiziyle birlikte ilgililerden müteselsilen tahsil edileceği, bu fiillerin özel eğitim okulları ile özel eğitim ve rehabilitasyon merkezleri tarafından tekrarı hâlinde, ayrıca kurum açma izinlerinin iptal edileceği hüküm altına alınmıştır.
