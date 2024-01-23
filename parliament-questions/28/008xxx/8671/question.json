@@ -1,0 +1,21 @@
+{
+  "record_type": "parliament-written-question",
+  "term": 28,
+  "legislative_year": 2,
+  "esas_no": "7/8671",
+  "submitted": "2024-01-23",
+  "submitted_as": "Başkanlığa geliş tarihi",
+  "mp": "Ömer Faruk HÜLAKÜ",
+  "province": "Bingöl",
+  "summary": "Bingöl'de bazı alanların Cumhurbaşkanı Kararı ile orman sınırları dışına çıkarılmasına ilişkin",
+  "status": "Cevaplandı",
+  "status_as_of": "2026-11-16",
+  "official_record": "https://www.tbmm.gov.tr/Denetim/Yazili-Soru-Onergesi-Detay/25d1f563-63c9-48e6-97fc-018d36bb7997",
+  "source": "https://tbmm.gov.tr/Denetim/YaziliSoruOnergesiTable",
+  "source_form": "https://tbmm.gov.tr/Denetim/Yazili-Soru-Onergeleri",
+  "source_sha256": "1b61ffdd94819acec9c4bf2cd560f80ce7a5b7a5f3714b2624c2e62ad74a47da",
+  "in_force": "2024-01-23",
+  "in_force_basis": "Date the question reached the Speaker (Başkanlığa geliş tarihi) in the official TBMM written-question record; parliamentary oversight record, not law",
+  "history_type": "metadata",
+  "text_status": "metadata-only: question text, addressee and answers are in the linked official record (PDFs on cdn.tbmm.gov.tr); not transcribed here"
+}
