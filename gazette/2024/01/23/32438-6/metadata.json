@@ -1,0 +1,20 @@
+{
+  "record_type": "gazette-item",
+  "gazette": "Resmî Gazete",
+  "jurisdiction": "TR",
+  "date": "2024-01-23",
+  "issue": "32438",
+  "edition": "regular",
+  "item": 6,
+  "section": "YÜRÜTME VE İDARE BÖLÜMÜ",
+  "heading": "TEBLİĞLER",
+  "title": "2024 Yılı Özel Eğitime İhtiyaç Duyan Bireylere Verilecek Eğitim Desteği Tutarlarına İlişkin Tebliğ",
+  "official_link": "https://www.resmigazete.gov.tr/eskiler/2024/01/20240123-6.htm",
+  "link_format": "htm",
+  "index_url": "https://www.resmigazete.gov.tr/eskiler/2024/01/20240123.htm",
+  "index_sha256": "ec111f3372028dabce67db97ed3c65b02999c267e1d69aa09fefa1d09f08c969",
+  "index_header": "23 Ocak 2024 ... 32438 Sayılı Resmî Gazete",
+  "issue_pdf": "https://www.resmigazete.gov.tr/eskiler/2024/01/20240123.pdf",
+  "in_force_basis": "Resmî Gazete publication date; not a commencement reading.",
+  "text_status": "metadata-only; text not yet fetched (follow-up pass adds it as its own commit)"
+}
