@@ -1,0 +1,18 @@
+İKİNCİ BÖLÜM
+Mevduatın ve Katılım Fonunun Kabulü ve Çekilmesi
+Mevduat ve katılım fonu kabulü
+MADDE 4 – (Değişik:RG-18/10/2018-30569)
+(1) Kredi kuruluşlarınca, Kanunun 144 üncü maddesi esas alınarak belirlenecek mevduat faizleri ve katılma hesaplarına ilişkin kâra katılma oranları ilan edilmek suretiyle uygulanır.
+(2) Kredi kuruluşlarının, müşterileri adına mevduat veya katılım fonu kabul edebilmeleri için, müşterilerini tanımak amacıyla müşterilerin kimliklerini, T.C. kimlik ve vergi numaralarını belgelemesi ve Kanunun 76 ncı maddesinin üçüncü fıkrası hükmüne istinaden Maliye Bakanlığınca yapılan düzenlemelerde yer alan yükümlülükleri yerine getirmesi zorunludur.
+(3) (Değişik:RG-23/1/2024-32438) Kanıtlanabilir onay veya talep olmaksızın kişiler adına kredili hesap dahil herhangi bir hesap açılamaz, kredili hesabın limiti artırılamaz ve kredili hesaptan herhangi bir tahsilat yapılamaz. Kredili hesap limitlerinin azaltılması durumunda hesap sahibi bilgilendirilir. Dördüncü fıkranın (e) bendi uyarınca yenilenen hesaplar, bu fıkra kapsamında hesap açılışı sayılmaz.
+(4) Kredi kuruluşları hesap açılışı işlemlerinde;
+a) Kabul ettikleri mevduatın veya katılım fonunun tabi olduğu koşulları,
+b) Kanunun 63 üncü maddesi kapsamında sigortalanan tutarını,
+c) 8 inci maddede belirtilen usul ve esaslar dikkate alınarak zamanaşımına uğraması halinde yapılacak uygulamaları,
+ç) Vadesiz mevduat hesabı ve özel cari hesap sahibinin talebi halinde mevcudunu geri alma hakkının bulunduğunu,
+d) Vadeli mevduat hesabı ve katılma hesabının türüne göre Kanunun 144 üncü maddesi uyarınca belirlenecek azami miktar ve oranlar dâhilinde uygulanacak faiz, (Değişik ibare:RG-23/1/2024-32438) kâra katılma oranı veya tahmini kâr oranının Kanunun anılan maddesi hükümleri saklı kalmak kaydıyla vade sonuna kadar değiştirilemeyeceğini,
+e) Vadesinde kapatılmayan hesapların hesap sahibinin yeni vade sonunun hafta sonu tatiline gelmesi ve bu vadenin ilk iş gününe ötelenmesi hususunda talimat vermesi durumunda yeni bir vade, söz konusu talimatın verilmemesi durumunda ise aynı vade ve yenileme tarihinde geçerli olan faiz veya (Değişik ibare:RG-23/1/2024-32438) kâra katılma oranı üzerinden yenilenmiş sayılacağını, (Değişik ibare:RG-8/11/2022-32007) yatırım vekâleti sözleşmesine dayalı katılma hesaplarının ise, vade ve tahmini kâr oranının değişmediği durumlar haricinde, hesap sahibi ile katılım bankası arasında yeni bir yatırım vekâleti sözleşmesi akdedilmedikçe yenilenmeyerek özel cari hesaba aktarılacağına,
+f) Hesap sahibinin kredi kuruluşundan talep hakkının hesabın vadesinin bittiği tarihteki faiz oranı veya birim hesap değeri üzerinden hesaplanan tutarda olacağını,
+g) Katılma hesaplarında zarara katılma oranının yüzde yüz olduğu,
+beyan ve taahhüt ettikleri ve banka yetkilileri tarafından 11/1/2011 tarihli ve 6098 sayılı Borçlar Kanununun 15 inci maddesinin birinci fıkrasında öngörülen şekilde imzalanmış hesap cüzdanı düzenlemek zorundadır. Kredi kuruluşları, düzenledikleri hesap cüzdanını hesap sahibinin tercihi doğrultusunda basılı veya elektronik ortamda hesap sahibine vermekle ya da hesap sahibinin hesap cüzdanını almayı reddettiğini ispatlamakla yükümlüdür.
+(5) Hesap cüzdanlarında, hesap sahibinin açık ismi ve unvanı, hesap açılan şubeyi tanımlayan kod numarası ve şube adı, hesabın açılış tarihi, hesap ve cüzdan numarası, hesabın tutarı ile birlikte, dördüncü fıkrada yer alan hükümlere aynen yer verilmesi zorunludur. Vadeli mevduat hesabı ve katılma hesabı cüzdanlarında hesabın türüne göre Kanunun 144 üncü maddesi uyarınca belirlenecek azami miktar ve oranlar dâhilinde uygulanacak faiz veya (Değişik ibare:RG-23/1/2024-32438) kâra katılma oranı veya tahmini kâr oranı ile vade ve ihbar süresinin yer alması şarttır.
