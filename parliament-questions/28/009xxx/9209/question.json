@@ -1,0 +1,21 @@
+{
+  "record_type": "parliament-written-question",
+  "term": 28,
+  "legislative_year": 2,
+  "esas_no": "7/9209",
+  "submitted": "2024-01-23",
+  "submitted_as": "Başkanlığa geliş tarihi",
+  "mp": "Saliha Sera KADIGİL",
+  "province": "İstanbul",
+  "summary": "İlk Türk astronotun uzay yolculuğuna ilişkin",
+  "status": "Cevaplanmadığı Gelen Kağıtlarda İlan Edildi",
+  "status_as_of": "2026-11-16",
+  "official_record": "https://www.tbmm.gov.tr/Denetim/Yazili-Soru-Onergesi-Detay/ac4ed15b-a132-4f1c-9a9a-018d36b06558",
+  "source": "https://tbmm.gov.tr/Denetim/YaziliSoruOnergesiTable",
+  "source_form": "https://tbmm.gov.tr/Denetim/Yazili-Soru-Onergeleri",
+  "source_sha256": "1f82bc9c137aff748290512ec4b397f266700d5caf79fd4a9f4883f013b5b780",
+  "in_force": "2024-01-23",
+  "in_force_basis": "Date the question reached the Speaker (Başkanlığa geliş tarihi) in the official TBMM written-question record; parliamentary oversight record, not law",
+  "history_type": "metadata",
+  "text_status": "metadata-only: question text, addressee and answers are in the linked official record (PDFs on cdn.tbmm.gov.tr); not transcribed here"
+}
