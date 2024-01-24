@@ -1,0 +1,8 @@
+İKİNCİ BÖLÜM
+Mütevelli Heyet, Başkan ve Görevleri
+Mütevelli Heyet
+MADDE 5 – (1) Mütevelli Heyet, Üniversitenin en yüksek karar organı olup Üniversitenin tüzel kişiliğini temsil eder. Mütevelli Heyet, Vakıf yönetim organı tarafından, ilgili mevzuat hükümlerinde belirtilen şart ve niteliklere uygun olarak dört yıl süreyle seçilen en az yedi kişiden oluşur. Süresi dolan üye yeniden seçilebilir. Rektör Mütevelli Heyetin tabii üyesi olup, Başkanlığa veya Başkan Vekilliğine seçilemez ve kendisi ile ilgili konulardaki toplantılara katılamaz. Mütevelli Heyet toplantılarının raportörlüğünü Genel Sekreter yapar.
+(2) Mütevelli Heyet kendi içinden bir başkan seçer. Mütevelli Heyet üyelerinden biri görevinden ayrıldığında, yeri boşalan üyenin yerine en geç bir ay içinde dört yıl süreyle yeni bir üye seçilir. Başkan ve üyeler ile bunların birinci derece kan ve kayın hısımları ile eşlerinden Mütevelli Heyette görev alacakların sayısı ikiyi geçemez. Rektör dışındaki Üniversite mensupları Mütevelli Heyet üyeliğine seçilemez.
+(3) Seçilen Mütevelli Heyet üyelerinin isimleri Başkan tarafından Yükseköğretim Kuruluna bildirilir.
+(4) Mütevelli Heyet üyeliği fahridir. Ancak; Vakıf Yönetim Kurulu kararı ile Mütevelli Heyet üyelerine toplantıya katılma yol ve huzur hakkı verilebilir. Verilecek miktar bir yılda onikiyi geçmemek üzere katılacakları her toplantı için Yükseköğretim Genel Kurulu üyeleri için 2547 sayılı Kanunda öngörülen ücreti aşamaz. Mütevelli heyet başkan ve üyelerine bunun dışında herhangi bir suretle başkaca bir ödeme yapılamaz.
+(5) Mütevelli Heyet, ilgili mevzuat hükümlerine göre yılda en az dört defa toplanır ve kararlar alır.
