@@ -1,0 +1,64 @@
+{
+  "checked_on": "2026-11-14",
+  "commencement_clauses": [
+    "MADDE 30- (1) Bu Yönetmelik 2022-2023 eğitim-öğretim yılı başından geçerli olmak üzere yayımı tarihinde yürürlüğe girer."
+  ],
+  "date_evidence": [
+    [
+      "2022-08-15",
+      "15.08.2022",
+      "original gazette publication date in official listing"
+    ],
+    [
+      "2024-01-24",
+      "RG-24/1/2024-32439",
+      "latest source-printed gazette amendment date for current consolidated text"
+    ],
+    [
+      "2022-11-15",
+      "RG-15/11/2022-32014",
+      "latest source-printed gazette amendment date for current consolidated text"
+    ],
+    [
+      "2024-01-24",
+      "RG-24/1/2024-32439",
+      "latest source-printed gazette amendment date for current consolidated text"
+    ],
+    [
+      "2022-11-15",
+      "15/11/2022",
+      "latest gazette date in source amendment table"
+    ],
+    [
+      "2024-01-24",
+      "24/1/2024",
+      "latest gazette date in source amendment table"
+    ]
+  ],
+  "date_quote": "RG-24/1/2024-32439",
+  "first_law": null,
+  "gazette": "31924",
+  "history": "current-text",
+  "images": {
+    "deferred": 1,
+    "omitted": 0,
+    "referenced": 0,
+    "source": 1
+  },
+  "in_force": "2024-01-24",
+  "in_force_basis": "latest source-printed gazette amendment date for current consolidated text",
+  "issuer": "Karadeniz Teknik Üniversitesi",
+  "issuer_slug": "karadeniz-teknik-universitesi",
+  "kind": "regulation",
+  "label": "oldest version available",
+  "path": "regulation/karadeniz-teknik-universitesi/2022/39819",
+  "published": "2022-08-15",
+  "source": "https://www.mevzuat.gov.tr/anasayfa/MevzuatFihristDetayIframe?MevzuatTur=8&MevzuatNo=39819&MevzuatTertip=5",
+  "source_bytes": 78155,
+  "source_id": "8.5.39819",
+  "source_sha256": "28a7131d1361108d524c6b2cf1f12fea02eaa0ab09158e2dc144fe251900fcd3",
+  "text_status": "current-consolidated",
+  "title": "KARADENİZ TEKNİK ÜNİVERSİTESİ TIP FAKÜLTESİ EĞİTİM-ÖĞRETİM YÖNETMELİĞİ",
+  "university_id": 207,
+  "word_count": 4108
+}
