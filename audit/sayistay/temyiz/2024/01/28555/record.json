@@ -1,0 +1,16 @@
+{
+  "kind": "decision",
+  "issuer": "Sayıştay Temyiz Kurulu",
+  "number": "56420",
+  "decision_date": "2024-01-24",
+  "source_id": 28555,
+  "chamber": "3",
+  "file_number": "53162",
+  "public_body_type": "Belediyeler ve Bağlı İdareler",
+  "account_year": "2019",
+  "subject": "İhale Mevzuatı ile İlgili Kararlar",
+  "source": "https://www.sayistay.gov.tr/KararlarTemyiz/Detay/28555/",
+  "source_sha256": "31e83ce33ef88ae93c2ec5e78c1a6b4054d06c1c11c4c3280dc1d2320d13cb10",
+  "text_status": "as-enacted",
+  "text_file": "metin.md"
+}
