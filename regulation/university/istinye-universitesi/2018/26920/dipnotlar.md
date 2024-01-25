@@ -1,0 +1,1 @@
+[1] 25/1/2024 tarihli ve 32440 sayılı Resmî Gazete’de yayımlanan değişiklikle bu Yönetmeliğin adı “İstinye Üniversitesi Tıbbi Yapay Zekâ Araştırma Ve Uygulama Merkezi Yönetmeliği” iken metne işlendiği şekilde değiştirilmiştir.
