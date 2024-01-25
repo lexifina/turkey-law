@@ -1,0 +1,2 @@
+Müdür (Başhekim)
+MADDE 8- (1) Müdür (Başhekim), Merkezin faaliyet alanlarıyla ilgili çalışmaları bulunan Fakültenin tam zamanlı olarak çalışan öğretim üyeleri arasından Mütevelli Heyet Başkanı tarafından görevlendirilebilir ve gerektiğinde, aynı usulle görevden alınabilir. Merkezde Müdür (Başhekim)’e yardımcı olmak üzere Müdür (Başhekim)’ün önerisi, Mütevelli Heyet Başkanı kararı ile Müdür yardımcısı (Başhekim yardımcısı) görevlendirilebilir.
