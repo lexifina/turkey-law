@@ -1,0 +1,94 @@
+{
+  "checked_on": "2026-11-14",
+  "commencement_clauses": [
+    "MADDE 15 – (1) Bu Yönetmelik yayımı tarihinde yürürlüğe girer."
+  ],
+  "date_evidence": [
+    [
+      "2012-08-25",
+      "25.08.2012",
+      "original gazette publication date in official listing"
+    ],
+    [
+      "2018-06-10",
+      "RG-10/6/2018-30447",
+      "latest source-printed gazette amendment date for current consolidated text"
+    ],
+    [
+      "2018-06-10",
+      "RG-10/6/2018-30447",
+      "latest source-printed gazette amendment date for current consolidated text"
+    ],
+    [
+      "2018-06-10",
+      "RG-10/6/2018-30447",
+      "latest source-printed gazette amendment date for current consolidated text"
+    ],
+    [
+      "2024-01-25",
+      "RG-25/1/2024-32440",
+      "latest source-printed gazette amendment date for current consolidated text"
+    ],
+    [
+      "2024-01-25",
+      "RG-25/1/2024-32440",
+      "latest source-printed gazette amendment date for current consolidated text"
+    ],
+    [
+      "2024-01-25",
+      "RG-25/1/2024-32440",
+      "latest source-printed gazette amendment date for current consolidated text"
+    ],
+    [
+      "2024-01-25",
+      "RG-25/1/2024-32440",
+      "latest source-printed gazette amendment date for current consolidated text"
+    ],
+    [
+      "2018-06-10",
+      "RG-10/6/2018-30447",
+      "latest source-printed gazette amendment date for current consolidated text"
+    ],
+    [
+      "2018-06-10",
+      "RG-10/6/2018-30447",
+      "latest source-printed gazette amendment date for current consolidated text"
+    ],
+    [
+      "2018-06-10",
+      "10/6/2018",
+      "latest gazette date in source amendment table"
+    ],
+    [
+      "2024-01-25",
+      "25/1/2024",
+      "latest gazette date in source amendment table"
+    ]
+  ],
+  "date_quote": "RG-25/1/2024-32440",
+  "first_law": null,
+  "gazette": "28392",
+  "history": "current-text",
+  "images": {
+    "deferred": 0,
+    "omitted": 0,
+    "referenced": 0,
+    "source": 0
+  },
+  "in_force": "2024-01-25",
+  "in_force_basis": "latest source-printed gazette amendment date for current consolidated text",
+  "issuer": "İstanbul Gedik Üniversitesi",
+  "issuer_slug": "istanbul-gedik-universitesi",
+  "kind": "regulation",
+  "label": "oldest version available",
+  "path": "regulation/istanbul-gedik-universitesi/2012/16544",
+  "published": "2012-08-25",
+  "source": "https://www.mevzuat.gov.tr/anasayfa/MevzuatFihristDetayIframe?MevzuatTur=8&MevzuatNo=16544&MevzuatTertip=5",
+  "source_bytes": 77822,
+  "source_id": "8.5.16544",
+  "source_sha256": "36ef803d95e0410bb4fd2d009ce35a3a011f03037ccc7e7e85b767c68fec75a2",
+  "text_status": "current-consolidated",
+  "title": "İSTANBUL GEDİK ÜNİVERSİTESİ SÜREKLİ EĞİTİM UYGULAMA VE \r\nARAŞTIRMA MERKEZİ YÖNETMELİĞİ",
+  "university_id": 369,
+  "word_count": 1125
+}
