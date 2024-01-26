@@ -1,0 +1,15 @@
+{
+  "kind": "regulation",
+  "issuer": "Türkiye Barolar Birliği",
+  "title": "TÜRKİYE BAROLAR BİRLİĞİ AVUKATLIK KANUNU YÖNETMELİĞİ",
+  "date": "2024-01-26",
+  "date_source": "official-amendment-annotation",
+  "in_force_basis": "Latest amendment annotation printed in the official TBB PDF: RG-26/1/2024-32441.",
+  "commit_kind": "consolidated",
+  "source": "http://d.barobirlik.org.tr/mevzuat/avukata_ozel/yonetmelikler/2011/av_k_yon.pdf",
+  "source_sha256": "17961a355c8a44f7a1f29b00b882a7b2e850fa3d21bd24e4c9d556ce316385f2",
+  "text_status": "current-text",
+  "version_label": "oldest version available",
+  "text_file": "text.txt",
+  "personal_data": "general professional rule; no case-party publication in this record"
+}
