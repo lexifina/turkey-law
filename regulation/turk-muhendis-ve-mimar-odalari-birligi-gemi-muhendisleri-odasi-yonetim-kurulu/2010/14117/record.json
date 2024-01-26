@@ -1,0 +1,58 @@
+{
+  "source_id": "7.5.14117",
+  "kind": "regulation",
+  "register_kind": "Kurum ve Kuruluş Yönetmelikleri",
+  "title": "TÜRK MÜHENDİS VE MİMAR ODALARI BİRLİĞİ GEMİ MÜHENDİSLERİ ODASI GEMİ KONTROLÜ YETKİLENDİRME YÖNETMELİĞİ",
+  "number": "14117",
+  "issuer": "Türk Mühendis ve Mimar Odaları Birliği Gemi Mühendisleri Odası Yönetim Kurulu",
+  "issuer_slug": "turk-muhendis-ve-mimar-odalari-birligi-gemi-muhendisleri-odasi-yonetim-kurulu",
+  "path": "regulation/turk-muhendis-ve-mimar-odalari-birligi-gemi-muhendisleri-odasi-yonetim-kurulu/2010/14117",
+  "source": "https://www.mevzuat.gov.tr/anasayfa/MevzuatFihristDetayIframe?MevzuatTur=7&MevzuatNo=14117&MevzuatTertip=5",
+  "source_sha256": "8b0e269d7865de0177ce137cb48201aea3bec46c68576db02d4aeb8c1a88e26a",
+  "source_bytes": 44048,
+  "published": "2010-07-21",
+  "gazette": "27648",
+  "in_force": "2024-01-26",
+  "in_force_basis": "latest Resmî Gazete date printed in the source amendment notes/table (\"RG-26/1/2024\") for the current consolidated text",
+  "date_evidence": [
+    [
+      "2024-01-26",
+      "RG-26/1/2024",
+      "Resmî Gazete date printed in the source amendment note"
+    ],
+    [
+      "2024-01-26",
+      "26/1/2024",
+      "Resmî Gazete date in the source amendment table"
+    ],
+    [
+      "2016-03-11",
+      "11/3/2016",
+      "Resmî Gazete date in the source amendment table"
+    ],
+    [
+      "2013-12-12",
+      "RG-12/12/2013",
+      "Resmî Gazete date printed in the source amendment note"
+    ],
+    [
+      "2013-12-12",
+      "12/12/2013",
+      "Resmî Gazete date in the source amendment table"
+    ]
+  ],
+  "commencement_clauses": [
+    "Bu Yönetmelik yayımı tarihinde yürürlüğe girer"
+  ],
+  "history": "current-text",
+  "label": "oldest version available",
+  "checked_on": "2026-11-15",
+  "word_count": 1563,
+  "text_status": "current-consolidated",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  },
+  "completeness": "html-text-complete"
+}

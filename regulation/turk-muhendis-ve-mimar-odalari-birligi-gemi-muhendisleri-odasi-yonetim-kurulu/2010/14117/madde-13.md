@@ -1,0 +1,2 @@
+Gemi kontrolüne yetkili mühendis değerlendirme kurulunun görevleri
+MADDE 13 – (1) Gemi Kontrolüne Yetkili Mühendis Belgesi için bu Yönetmelikte talep edilen belgeler, Gemi Kontrolüne Yetkili Mühendis Değerlendirme Kuruluna gönderilir. Kurul bu belgeler üzerinden değerlendirmesini yapar. Bu değerlendirmeyi yaparken belgelerde belirtilen bilgilerin doğruluğunu kontrol için araştırma yapabilir. Gerek görürse gemi kontrolüne yetkili mühendis adayı ile görüşme yapabilir. Bütün bu incelemenin sonucunda yazılı rapor yayınlayarak, yetkilendirme konusundaki kararını Oda’ya bildirir.
