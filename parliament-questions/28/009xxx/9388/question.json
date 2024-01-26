@@ -1,0 +1,21 @@
+{
+  "record_type": "parliament-written-question",
+  "term": 28,
+  "legislative_year": 2,
+  "esas_no": "7/9388",
+  "submitted": "2024-01-26",
+  "submitted_as": "Başkanlığa geliş tarihi",
+  "mp": "Mehmet Zeki İRMEZ",
+  "province": "Şırnak",
+  "summary": "Şanlıurfa'nın Halfeti ilçesinde görev yapan bazı okul müdürlerinin yaptıkları paylaşıma ilişkin",
+  "status": "Süresi Geçtikten Sonra Cevaplandı",
+  "status_as_of": "2026-11-16",
+  "official_record": "https://www.tbmm.gov.tr/Denetim/Yazili-Soru-Onergesi-Detay/6f159aea-47db-4166-a4c9-018d58f859dd",
+  "source": "https://tbmm.gov.tr/Denetim/YaziliSoruOnergesiTable",
+  "source_form": "https://tbmm.gov.tr/Denetim/Yazili-Soru-Onergeleri",
+  "source_sha256": "aa913690a105048906227032c1f5b94e65d4c2aad2520017afa0a3f0713ed9f8",
+  "in_force": "2024-01-26",
+  "in_force_basis": "Date the question reached the Speaker (Başkanlığa geliş tarihi) in the official TBMM written-question record; parliamentary oversight record, not law",
+  "history_type": "metadata",
+  "text_status": "metadata-only: question text, addressee and answers are in the linked official record (PDFs on cdn.tbmm.gov.tr); not transcribed here"
+}
