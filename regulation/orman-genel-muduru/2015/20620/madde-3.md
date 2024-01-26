@@ -1,0 +1,23 @@
+Tanımlar
+MADDE 3 – (1) Bu Yönetmelikte geçen;
+a) Bakan: Orman ve Su İşleri Bakanını,
+b) Bakanlık: Orman ve Su İşleri Bakanlığını,
+c) Bölge Müdürlüğü: Orman bölge müdürlüğünü,
+ç) Diğer birimler: Döner Sermaye Merkez Şube Müdürlüğünü, Yedek Parça Depo Müdürlüğünü,
+d) Döner sermaye: Genel Müdürlüğe kanunlarla verilen asli ve sürekli kamu görevlerine bağlı olarak ortaya çıkan ve genel idare esaslarına göre yürütülmesi mümkün olmayan mal ve hizmet üretimine ilişkin faaliyetlerin sürdürülebilmesi için, Genel Müdürlüğe bağlı olarak kurulmuş döner sermaye işletmelerine tahsis edilen sermayeyi,
+e) Genel Müdürlük: Orman Genel Müdürlüğünü,
+f) Faaliyet dönemi: Mali yılı,
+g) Harcama birimi: Bütçe ile ödenek verilen her bir işletmeyi,
+ğ) Harcama yetkilisi: Bütçe ile ödenek tahsis edilen her bir işletmenin en üst yöneticisini veya anılan görevi yürütmekle görevlendirilen kişiyi,
+h) Harcama yetkilisi mutemedi: Harcama yetkilisi tarafından yazılı olarak görevlendirilen ve kendisine verilen avans veya adına açılan kredilerle sınırlı olarak yapacağı harcamalar konusunda harcama yetkilisine karşı sorumlu olan kişiyi,
+ı) Hesap dönemi: Mali yılı,
+i) İşletme: Döner sermayenin tahsis amacını gerçekleştirmek üzere kurulan döner sermaye işletmelerini,
+j) İşletme müdürlüğü: Orman işletme müdürlüğünü, orman fidanlık müdürlüğünü,
+k) İşletme şefliği: Orman işletme şefliğini, orman fidanlık şefliğini,
+l) Mali yıl: Takvim yılını,
+m) Muhasebe birimi: Gelir ve alacakların tahsili, giderlerin ve borçların hak sahiplerine ödenmesi, para ve parayla ifade edilebilen değerler ile emanetlerin alınması, saklanması, ilgililere verilmesi, gönderilmesi ve diğer tüm malî işlemlerin kayıtlarının yapılması ve raporlanması işlemlerini yürüten birimi,
+n) Muhasebe yetkilisi: Muhasebe hizmetlerinin yürütülmesinden ve muhasebe biriminin yönetiminden sorumlu, usulüne göre atanmış yöneticiyi,
+o) Muhasebe yetkilisi mutemedi: Muhasebe yetkilisi adına ve hesabına para ve parayla ifade edilebilen değerleri geçici olarak almaya, muhafaza etmeye, vermeye, göndermeye yetkili ve bu işlemlerle ilgili olarak doğrudan muhasebe yetkilisine karşı sorumlu olan görevlileri,
+ö) Muhasebe yetkilisi yardımcısı: Muhasebe yetkililerinin yardımcılarını,
+p) Ön mali kontrol: İşletmelerin gelir, gider, varlık ve yükümlülüklerine ilişkin mali karar ve işlemlerinin; işletme bütçesine, kullanılabilir ödenek tutarına ve mevzuat hükümlerine uygunluğu ve kaynakların etkili, ekonomik ve verimli bir şekilde kullanılması yönlerinden yapılan kontrolünü,
+ifade eder.

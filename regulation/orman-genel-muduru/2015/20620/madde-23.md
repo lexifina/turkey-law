@@ -1,0 +1,2 @@
+Orman ürünleri sigortası
+MADDE 23 – (1) İşletme ve diğer birim müdürlüklerinde kendi kendine sigorta usulü tatbik olunur. Bunun için bütçeye yeteri miktarda ödenek konur. İşletme ve diğer birim müdürlüklerinden gelecek sigorta prim tahakkukları dönemler halinde Genel Müdürlüğe aktarılır. Orman ürünleri stok kıymeti üzerinden, bina ve tesislere ilişkin hasar tazminatı ise hasar tarihindeki rayiç değerlere göre hazırlanacak keşif evrakına göre karşılanır.

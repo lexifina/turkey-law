@@ -1,0 +1,2 @@
+Mesire yerleri
+MADDE 24 – (1) Devlet ormanları içerisinde mesire yerleri olarak ayrılan orman içi dinlenme yerleri, şehir ormanları ve ağaç parklarının; kurulması ve işletilmesi için gerekli olan yapım, bakım, onarım ve koruma giderlerinin işletme bütçelerinden karşılanması esasları, 6831 sayılı Kanunun 25 inci maddesine göre hazırlanarak 5/3/2013 tarihli ve 28578 sayılı Resmî Gazete’de yayımlanan Mesire Yerleri Yönetmeliği hükümlerine göre belirlenir.

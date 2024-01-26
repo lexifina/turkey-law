@@ -1,0 +1,4 @@
+Bütçenin uygulanması
+MADDE 12 – (1) Müdürlükler ve diğer birimler; Genel Müdürlük bütçesinden kendilerine tahsis edilen bütçe, ödenek ve iş planı gereğince çalışırlar. Bütçe ile verilen ödenekleri aşamazlar ve bu ödenekler dışında harcama yapamazlar.
+(2) Bütçede öngörülen ödeneklerin yetersiz kalması veya iş programında öngörülmeyen işlerin yapılmasının gerektiği hâllerde, süre şartları hariç olmak üzere ek bütçe yapılabilir. Ek bütçe taleplerinde kaynağın gösterilmesi zorunludur. Ek bütçe Bakanın onayı ile yapılır. Ek bütçede ana hesaplara ve gerektiğinde ana hesapların bölümlerine de yer verilir.
+(3) Müdürlükler ve diğer birimler muhasebe iş ve işlemleri 1/5/2007 tarihli ve 26509 sayılı Resmî Gazete’de yayımlanan Döner Sermayeli İşletmeler Bütçe ve Muhasebe Yönetmeliği hükümlerine göre yürütülür. Bu hususta Genel Müdürlükçe açıklamalı bir hesap planı ve faaliyet dönemi ile ilgili döner sermaye bütçesi uygulama talimatı hazırlanır.

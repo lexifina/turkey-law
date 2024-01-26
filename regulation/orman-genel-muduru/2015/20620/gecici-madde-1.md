@@ -1,0 +1,2 @@
+Muhasebe yetkililerinin görevlendirmeleri1
+GEÇİCİ MADDE 1 – (1) Muhasebe yetkililiği görevi, Maliye Bakanlığınca 30/12/2005 tarihli ve 2005/9912 sayılı Bakanlar Kurulu Kararı ile yürürlüğe konulan Muhasebe Yetkilisi Adaylarının Eğitimi, Sertifika Verilmesi ile Çalışma Usul ve Esasları Hakkında Yönetmelik hükümlerine göre sertifika verilinceye kadar, daha önceden sayman kadrosuna atanmış olanlar ile görevde yükselme sınavı sonunda başarılı olanlar arasından Genel Müdürlükçe görevlendirilenler tarafından yürütülür.

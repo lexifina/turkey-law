@@ -1,0 +1,3 @@
+Birim fiyatlar
+MADDE 19 – (1) Birim fiyatın hesaplanmasında işin çeşidine göre; arazi meyli, sürütme mesafesi, ağaç türü, taşıma mesafesi, diri örtüsü gibi zorluk şartları ile işin güçlüğü ve özelliği de dikkate alınarak bölgesel farklılıklar gözetilmeksizin Ülkenin her tarafında uygulanacak kriterler Genel Müdürlükçe tespit edilerek, hesaplamalarda kullanılmak üzere taşra teşkilatına bildirilir.
+(2) Birim fiyatlar; yaptırılacak işlerle ilgili tespit edilmiş olan kriterler dikkate alınmak suretiyle işletme müdürü ve ilgili işletme şefi tarafından müştereken bir kararla tespit edilir ve ilgililere duyurulur.
