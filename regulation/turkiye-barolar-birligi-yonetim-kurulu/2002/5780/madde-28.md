@@ -1,0 +1,7 @@
+ALTINCI BÖLÜM
+Baroların Kuruluşu ve Baro Genel Kurulları
+Kuruluş
+Madde 28 — (Değişik:RG-2/9/2020-31232)
+Avukatlık Kanununun 77 nci maddesinin birinci fıkrasının ilk cümlesine göre bölgesi içinde en az otuz avukat olan her il merkezinde kurulmuş bulunan baroların kanuni organlarını kurabilme olanağını sonradan yitirmeleri halinde, Türkiye Barolar Birliği bu baroya kayıtlı avukatların en yakın baroya bağlanmasına karar verir.
+Avukatlık Kanununun 77 nci maddesinin birinci fıkrasının üçüncü cümlesine göre beşbinden fazla avukat bulunan illerde asgari ikibin avukatla kurulan barolarda avukat sayısının ikibinin altına düşmesi halinde Birlik, asgari avukat sayısının altı ay içinde sağlanmasını yazılı olarak ilgili baroya bildirir. Verilen süre içinde eksiklik giderilemezse baronun tüzel kişiliğine Birlik tarafından son verilir ve son verme kararı Birliğin resmi internet sitesinde ilan edilir. Tüzel kişiliği sona eren baroya kayıtlı avukatlar ve stajyerler ilan tarihinden itibaren on beş gün içinde o ilde bir baro varsa o baroya, birden fazla baro varsa diledikleri baroya kaydolur ve bunların devam eden iş ve işlemleri kaydoldukları baro tarafından yürütülür. Tüzel kişiliği sona eren baronun tasfiye işlemleri son yönetim kurulu tarafından Birliğin denetim ve gözetiminde yapılır ve kalan malvarlığı Birliğe geçer.
+Protokolde baro başkanları, bir nolu barodan başlamak kaydıyla sırasıyla ve araya başka makam girmeksizin İl Cumhuriyet Başsavcısının yanında yer alır.

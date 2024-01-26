@@ -1,0 +1,4 @@
+Soruşturma Yapılması Görevi
+Madde 67 — Şikayet veya ihbar ya da istek konusu olan husus, yönetim kurulunun üyeleri arasından görevlendireceği biri tarafından incelenir. Bu üye delilleri toplar, ihbar veya şikayette bulunanları dinleyebilir ve gerekli göreceği kimselerin ifadelerini yeminli olarak da alabilir. Dayanak olan veya lüzum görülen dava ve icra dosyaları görevli üye tarafından incelendikten ve hakkında ihbar veya şikayette bulunulan avukat dinlendikten veya dinlenmek üzere verilen süre dolduktan sonra düzenlenecek rapor yönetim kuruluna verilir.
+Yönetim kurulu, soruşturma raporunu eksik görürse daha önce görevlendirdiği üyeyi veya diğer bir üyeyi eksikliğin tamamlattırılması için görevlendirebilir.
+Yönetim kurulu, ivedilikle ve her halde şikayet, ihbar veya istek tarihinden itibaren en çok bir yıl içinde disiplin kovuşturması hakkında bir karar vermek zorundadır.

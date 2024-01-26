@@ -1,0 +1,4 @@
+İstemin Kabulü ve Reddi
+Madde 24 — İstemin kabulü kararı ile birlikte avukat o baronun levhasına yazılmış olur. Baro levhasına yazılma günü, derhal Türkiye Barolar Birliğine ve avukatın önceden yazılı olduğu baroya bildirilir. Avukatın nakil öncesi kayıtlı bulunduğu baro bu bildirim üzerine, naklin gerçekleştiği baro levhasına kayıt tarihi itibariyle avukatın adını kendi baro levhasından siler. Avukatın baro sicil ve sigorta dosyaları naklettiği baroya gönderilir. Avukatın naklettiği baronun adı, Türkiye Barolar Birliğine ve Adalet Bakanlığına bildirilir.
+Avukattan, naklettiği baro levhasına kaydı yapılırken giriş keseneği alınır. (Ek cümle:RG-28/3/2023-32146)(4) Deprem, sel gibi doğal afetlerden kaynaklı mücbir sebep hallerinde giriş keseneği, avukatın nakil olduğu Baro Yönetim Kurulu kararı ile alınmayabilir.
+(Mülga:RG-19/08/2005-25911)

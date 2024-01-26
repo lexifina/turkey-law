@@ -1,0 +1,5 @@
+Disiplin Kovuşturmasına Yer Olmadığı Kararı
+Madde 68 — Yönetim kurulu dosyayı ve raporu inceleyerek, aleyhinde şikayet veya ihbarda bulunulan avukat hakkında disiplin kovuşturması açılmasını gerektirecek bir durumun mevcut olmadığını tespit ederse disiplin kovuşturması açılmasına yer olmadığına karar verir.
+Bu kararda; ihbar veya şikayette bulunanın adı ve adresi, şikayet olunan avukatın kimliği, isnat olunan fiil, yapılan inceleme ve deliller ile gerekçe belirtilir.
+Karar, ilgili dosya eklenerek Cumhuriyet Savcılığına resmi yazı ile bildirilir; hakkında soruşturma açılmış bulunan avukata ve varsa şikayetçiye tebliğ olunur.
+Şikayetçiye tebligat, Tebligat Kanunu hükümlerine göre yapılır. Şu kadar ki, karar örneğinin elden verilerek tebliği de mümkündür. Bu takdirde tebligatın yapıldığı tarih, tebellüğ eden şikayetçinin adı ve soyadı bir tutanakla tespit edilerek şikayetçi ile baro adına başkatip ve ilgili memur tarafından imzalanır. Cumhuriyet Savcısına gönderilen resmi yazının bir örneği, yazıyı alan tarafından yazının alındığı tarih belirtilerek imzalanır. Tebligat parçaları veya tutanakla savcılık alındısı dosyaya konur.

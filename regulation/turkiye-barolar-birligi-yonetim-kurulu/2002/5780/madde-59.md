@@ -1,0 +1,2 @@
+Olağanüstü Toplantıya Çağrı
+Madde 59 — Baro denetleme kurulu, incelemeleri sırasında baro mali işlerinde ve kayıtların tutulmasında düzensizlikler ve açıklar tespit eder ve bu düzensizliklerin devam ettiği sonucuna varırsa veya mevcut düzensizlikleri vahim görürse; bu konuda bir rapor düzenler ve baro genel kurulunun olağanüstü toplantıya çağırılmasına karar verir. Genel kurul, Avukatlık Kanununun 84, 85 ve 87 nci maddelerine göre toplanarak karar verir.

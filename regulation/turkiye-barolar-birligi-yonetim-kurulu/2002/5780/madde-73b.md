@@ -1,0 +1,2 @@
+Serbest meslek makbuzu veya bordro düzenlenmesi ve baroya ibraz
+MADDE 73/B – 1136 sayılı Avukatlık Kanunu kapsamındaki sürekli avukatlık hizmeti içeren çalışma şekillerinde sözleşmelere göre tahsil edilen avukatlık ücretine ilişkin serbest meslek makbuz veya bordro örnekleri, her yıl sonunda avukat tarafından bir liste ekinde kayıtlı olduğu baro başkanlığına sunulur. Bu belgeler avukatın sicil dosyasında saklanır.

@@ -1,0 +1,1 @@
+Geçici Madde 1 — Bu Yönetmeliğin 13 üncü maddesi uyarınca Türkiye Barolar Birliği tarafından düzenlenen avukat kimlikleri dışındaki kimlikler, 1/1/2003 tarihinden sonra avukat kimliği olarak kullanılamaz.

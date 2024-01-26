@@ -1,0 +1,3 @@
+Toplantılara Çağrı ve Gündem
+Madde 34 — Genel kurulun olağan toplantısının yapılacağı yer, toplantı saati ve gündemi ile ilk toplantıda yeterli çoğunluk sağlanamadığı takdirde ikinci toplantının yeri, günü ve saati, baro çevresi adalet dairelerinde ve baronun uygun bir yerinde en az otuz gün önceden başlamak üzere, genel kurulun toplanacağı tarihe kadar duyurulur. Bu duyuru, tebligat hükmündedir.
+Yönetim kurulu toplantı tutanaklarıyla çalışma raporunun, kesin hesap ve denetçi raporunun ve bütçenin, yeterli sayıda örneklerinin, olağan toplantı çağrısının yapılmasıyla birlikte, baroda avukatların incelemesine sunulması gereklidir.

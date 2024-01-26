@@ -1,0 +1,2 @@
+Kanuna uygun davranmayan tüzel kişiler ve yıllık rapor
+MADDE 73/C – 1136 sayılı Avukatlık Kanununun 35 inci maddesinin üçüncü fıkrasına aykırı davranan tüzel kişiler, merkezlerinin bulunduğu yer barosu tarafından takip edilerek haklarında suç duyurusunda bulunulur. Baro başkanlığı bu konudaki çalışmaların sonuçlarını sözleşmeye taraf olan avukatları da içeren bir rapor ile her yıl sonunda Türkiye Barolar Birliğine bildirir.
