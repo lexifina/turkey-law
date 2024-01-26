@@ -1,0 +1,5 @@
+Tarife kontenjanı başvuruları ve dağıtımı
+MADDE 4- (1) Ekli tabloda yer alan tarife kontenjanlarının dağıtımı BSGTY ile tarife kontenjanı dönemi içerisinde yapılır.
+(2) Gümrük beyannamesinin tescili esnasında ilgili muafiyet kodunun seçilmesi suretiyle tarife kontenjanlarından yararlanılacağının beyan edilmesi müracaat hükmündedir.
+(3) Tarife kontenjanlarının tahsisatı, tarife kontenjanı konusu eşyaya ilişkin gümrük beyannamesinin tescil numarası sırası esas alınarak yapılır. Bu şekilde tahsis edilen miktar toplam tarife kontenjanından düşüm yapılarak kontenjanın tamamı tahsis edilir. Tarife kontenjanlarından faydalanmak üzere talep edilen miktarın mevcut tarife kontenjanı miktarını aşması halinde sistem tarafından bilgilendirme mesajı verilir.
+(4) Tarife kontenjanları, bir gümrük beyannamesi kapsamında en fazla ekli tablodaki azami miktar sütununda belirtilen miktarlar kadar kullandırılır. Azami miktarı aşan kısım için ise İthalat Rejimi Kararı çerçevesinde söz konusu eşya için tespit edilen gümrük vergisi uygulanır. Söz konusu tarife kontenjanları için beyanname tescil tarihini takip eden 3 gün içinde yeniden tarife kontenjanından faydalanılamaz.
