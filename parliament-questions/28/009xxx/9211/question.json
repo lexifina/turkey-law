@@ -1,0 +1,21 @@
+{
+  "record_type": "parliament-written-question",
+  "term": 28,
+  "legislative_year": 2,
+  "esas_no": "7/9211",
+  "submitted": "2024-01-29",
+  "submitted_as": "Başkanlığa geliş tarihi",
+  "mp": "Eylem Ertuğ ERTUĞRUL",
+  "province": "Zonguldak",
+  "summary": "Zonguldak'ta orman sınırları dışına çıkarılan arazilere ilişkin",
+  "status": "Süresi Geçtikten Sonra Cevaplandı",
+  "status_as_of": "2026-11-16",
+  "official_record": "https://www.tbmm.gov.tr/Denetim/Yazili-Soru-Onergesi-Detay/d178d4d2-ff24-47a9-89aa-018d59704763",
+  "source": "https://tbmm.gov.tr/Denetim/YaziliSoruOnergesiTable",
+  "source_form": "https://tbmm.gov.tr/Denetim/Yazili-Soru-Onergeleri",
+  "source_sha256": "1f82bc9c137aff748290512ec4b397f266700d5caf79fd4a9f4883f013b5b780",
+  "in_force": "2024-01-29",
+  "in_force_basis": "Date the question reached the Speaker (Başkanlığa geliş tarihi) in the official TBMM written-question record; parliamentary oversight record, not law",
+  "history_type": "metadata",
+  "text_status": "metadata-only: question text, addressee and answers are in the linked official record (PDFs on cdn.tbmm.gov.tr); not transcribed here"
+}
