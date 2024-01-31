@@ -1,0 +1,28 @@
+{
+  "number": "month-01",
+  "year": 2024,
+  "month": 1,
+  "title": "Meclis Karar Özeti - Ocak 2024",
+  "decision_date": null,
+  "index_date": "2024-01-31",
+  "date_precision": "month",
+  "period": "Ocak 2024",
+  "source": "https://www.erdemli.bel.tr/meclis-kararlari/5.html",
+  "official_page": null,
+  "official_document": "https://www.erdemli.bel.tr/karar/meclis-karar-özeti-ocak-2024-a1766-05022026.html",
+  "source_sha256": "f5275bfe78b102f4ec8efb0025123029baf429a277d407e9a4acfa507dc93184",
+  "issuer": "Erdemli Belediye Meclisi",
+  "history_type": "metadata",
+  "text_status": "metadata-only: listing fields as published; the decisions are in the linked official document(s) or page, not transcribed",
+  "in_force": "2024-01-31",
+  "in_force_basis": "The official listing gives only the month of this official file (Ocak 2024); date set to the last day of that month (turkey-law date convention for month-only sources); exact adoption dates are in the linked official document; legal commencement not asserted",
+  "missing": [
+    "decision numbers, dates and subjects",
+    "complete official decision text",
+    "official annexes"
+  ],
+  "law_text_complete": false,
+  "privacy_withheld": false,
+  "listing_label": "Meclis Karar Özeti - Ocak 2024",
+  "record_scope": "one official file of council decisions (meeting or month)"
+}
