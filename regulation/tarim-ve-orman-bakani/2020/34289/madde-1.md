@@ -1,0 +1,5 @@
+TÜRK GIDA KODEKSİ YÖNETMELİĞİ
+BİRİNCİ BÖLÜM
+Amaç, Kapsam, Dayanak ve Tanımlar
+Amaç
+MADDE 1 – (1) Bu Yönetmeliğin amacı; gıda ve gıda ile temas eden madde ve malzemelere ilişkin asgari teknik ve hijyen kriterleri, pestisit kalıntıları ve veteriner ilaç kalıntıları, gıda katkı maddeleri, gıdalara eklenebilecek vitaminler, mineraller ve belirli diğer öğeler, aroma vericiler ve aroma verme özelliği taşıyan gıda bileşenleri, gıda enzimleri, bulaşanlar, hedef dışı yemlere taşınması önlenemeyen koksidiyostatların ve histomonostatların hayvansal gıdalarda bulunabilecek maksimum miktarları, ambalajlama, etiketleme, hayvansal gıdalarda bulunabilecek veteriner ilaçlarına ait farmakolojik aktif maddelerin sınıflandırılması ve maksimum kalıntı limitleri, numune alma ve analiz metotları, taşıma ve depolama ile ilgili yatay ve dikey gıda kodeksine ilişkin esaslar, coğrafi işaretle ilgili özel hükümler ile diğer bazı gıda ve/veya gıda gruplarına ilişkin özel hükümlerin belirlenmesine dair kuralları düzenlemektir.
