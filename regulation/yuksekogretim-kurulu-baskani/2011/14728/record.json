@@ -1,0 +1,93 @@
+{
+  "source_id": "7.5.14728",
+  "kind": "regulation",
+  "register_kind": "Kurum ve Kuruluş Yönetmelikleri",
+  "title": "YÜKSEKÖĞRETİM KURUMLARINDA DÖNER SERMAYE GELİRLERİNDEN YAPILACAK EK ÖDEMENİN DAĞITILMASINDA UYGULANACAK USUL VE ESASLARA İLİŞKİN YÖNETMELİK",
+  "number": "14728",
+  "issuer": "Yükseköğretim Kurulu Başkanı",
+  "issuer_slug": "yuksekogretim-kurulu-baskani",
+  "path": "regulation/yuksekogretim-kurulu-baskani/2011/14728",
+  "source": "https://www.mevzuat.gov.tr/anasayfa/MevzuatFihristDetayIframe?MevzuatTur=7&MevzuatNo=14728&MevzuatTertip=5",
+  "source_sha256": "cfdb51b8fa08f28b78b33c2899e0f3994d55bdb456168498f71474f754b43106",
+  "source_bytes": 143905,
+  "published": "2011-02-18",
+  "gazette": "27850",
+  "in_force": "2024-01-31",
+  "in_force_basis": "latest Resmî Gazete date printed in the source amendment notes/table (\"RG-31/1/2024\") for the current consolidated text",
+  "date_evidence": [
+    [
+      "2024-01-31",
+      "RG-31/1/2024",
+      "Resmî Gazete date printed in the source amendment note"
+    ],
+    [
+      "2024-01-31",
+      "31/1/2024",
+      "Resmî Gazete date in the source amendment table"
+    ],
+    [
+      "2023-01-07",
+      "RG-7/1/2023",
+      "Resmî Gazete date printed in the source amendment note"
+    ],
+    [
+      "2023-01-07",
+      "7/1/2023",
+      "Resmî Gazete date in the source amendment table"
+    ],
+    [
+      "2022-09-15",
+      "RG-15/9/2022",
+      "Resmî Gazete date printed in the source amendment note"
+    ],
+    [
+      "2022-09-15",
+      "15/9/2022",
+      "Resmî Gazete date in the source amendment table"
+    ],
+    [
+      "2021-10-27",
+      "RG-27/10/2021",
+      "Resmî Gazete date printed in the source amendment note"
+    ],
+    [
+      "2021-10-27",
+      "27/10/2021",
+      "Resmî Gazete date in the source amendment table"
+    ],
+    [
+      "2021-01-19",
+      "RG-19/1/2021",
+      "Resmî Gazete date printed in the source amendment note"
+    ],
+    [
+      "2021-01-19",
+      "19/1/2021",
+      "Resmî Gazete date in the source amendment table"
+    ],
+    [
+      "2020-07-25",
+      "RG-25/7/2020",
+      "Resmî Gazete date printed in the source amendment note"
+    ],
+    [
+      "2020-07-25",
+      "25/7/2020",
+      "Resmî Gazete date in the source amendment table"
+    ]
+  ],
+  "commencement_clauses": [
+    "bu Yönetmelik 30/1/2011 tarihinden geçerlik olmak üzere yayımı tarihinde yürürlüğe girer"
+  ],
+  "history": "current-text",
+  "label": "oldest version available",
+  "checked_on": "2026-11-15",
+  "word_count": 4974,
+  "text_status": "current-consolidated",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  },
+  "completeness": "html-text-complete"
+}
