@@ -1,0 +1,71 @@
+{
+  "source_id": "7.5.14878",
+  "kind": "regulation",
+  "register_kind": "Kurum ve Kuruluş Yönetmelikleri",
+  "title": "TRAFİK İDARİ PARA CEZASI KARAR TUTANAKLARININ DÜZENLENMESİNDE, TAHSİLİNDE VE TAKİBİNDE UYGULANACAK USUL VE ESASLAR HAKKINDA YÖNETMELİK",
+  "number": "14878",
+  "issuer": "İçişleri, Hazine ve Maliye, Çevre, Şehircilik ve İklim Değişikliği ile Ulaştırma ve Altyapı Bakanları",
+  "issuer_slug": "icisleri-hazine-ve-maliye-cevre-sehircilik-ve-iklim-degisikligi-ile-ulastirma-ve-altyapi-b",
+  "path": "regulation/icisleri-hazine-ve-maliye-cevre-sehircilik-ve-iklim-degisikligi-ile-ulastirma-ve-altyapi-b/2011/14878",
+  "source": "https://www.mevzuat.gov.tr/anasayfa/MevzuatFihristDetayIframe?MevzuatTur=7&MevzuatNo=14878&MevzuatTertip=5",
+  "source_sha256": "b20f66ee8e9f9800c1df02c150f2dfb99df75823ce24972d9cae1ccb33309f7e",
+  "source_bytes": 73471,
+  "published": "2011-04-06",
+  "gazette": "27897",
+  "in_force": "2024-01-31",
+  "in_force_basis": "latest Resmî Gazete date printed in the source amendment notes/table (\"RG-31/1/2024\") for the current consolidated text",
+  "date_evidence": [
+    [
+      "2024-01-31",
+      "RG-31/1/2024",
+      "Resmî Gazete date printed in the source amendment note"
+    ],
+    [
+      "2024-01-31",
+      "31/1/2024",
+      "Resmî Gazete date in the source amendment table"
+    ],
+    [
+      "2020-12-25",
+      "RG-25/12/2020",
+      "Resmî Gazete date printed in the source amendment note"
+    ],
+    [
+      "2020-12-25",
+      "25/12/2020",
+      "Resmî Gazete date in the source amendment table"
+    ],
+    [
+      "2017-01-27",
+      "27/1/2017",
+      "Resmî Gazete date in the source amendment table"
+    ],
+    [
+      "2014-04-04",
+      "RG-4/4/2014",
+      "Resmî Gazete date printed in the source amendment note"
+    ],
+    [
+      "2014-04-04",
+      "4/4/2014",
+      "Resmî Gazete date in the source amendment table"
+    ]
+  ],
+  "commencement_clauses": [
+    "Bu Yönetmelik yayımı tarihinde yürürlüğe girer"
+  ],
+  "history": "current-text",
+  "label": "oldest version available",
+  "checked_on": "2026-11-15",
+  "word_count": 3412,
+  "text_status": "current-consolidated",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  },
+  "source_links": [
+    "7.5.14878-ekler.zip"
+  ],
+  "completeness": "html-text-complete; linked annexes not fetched"
+}

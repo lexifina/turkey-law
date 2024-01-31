@@ -1,0 +1,4 @@
+Başvuru yolu
+MADDE 16 – (1) Trafik İdari Para Cezası Karar Tutanağına karşı, kararın tebliği tarihinden itibaren en geç 15 (onbeş) gün içinde sulh ceza mahkemesine itiraz için başvurulabilir. Bu süre içinde başvurunun yapılmamış olması halinde idari para cezası kesinleşir.
+(2) İdarî yaptırım kararının verildiği işlem kapsamında aynı kişi ile ilgili olarak idarî yargının görev alanına giren kararların da verilmiş olması halinde; idarî yaptırım kararına ilişkin hukuka aykırılık iddiaları bu işlemin iptali talebiyle birlikte idarî yargı merciinde görülür.
+(3) Mücbir sebebin varlığı dolayısıyla bu sürelerin geçirilmiş olması halinde, bu sebebin ortadan kalktığı tarihten itibaren en geç yedi gün içinde karara karşı başvuruda bulunulabilir. Bu başvuru, kararın kesinleşmesini engellemez; ancak mahkeme yerine getirmeyi durdurabilir.

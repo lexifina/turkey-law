@@ -1,0 +1,3 @@
+Geçmiş dönem evraklarının kullanımı
+GEÇİCİ MADDE 2 – (Değişik ibare:RG-25/12/2020-31345) İçişleri ile Hazine ve Maliye Bakanlıklarınca belirlenecek tarihe kadar, bu Yönetmeliğin yayımı tarihinden önce basımı yapılmış olan, Trafik Para Cezası Muhasebe Yetkilisi Mutemedi Alındıları, Trafik İdari Para Cezası Karar Tutanakları ve Cumhuriyet Savcılığına Sevk Tutanaklarının kullanımına devam edilir.
+(2) (Ek:RG-25/12/2020-31345) Bu fıkranın yürürlüğe girdiği tarihten önce basımı yapılmış olan ve içeriği bakımından yeni düzenlenen defter ve tutanaklarda yer alan bilgileri karşılayan defter ve tutanakların kullanımına devam edilebilir.
