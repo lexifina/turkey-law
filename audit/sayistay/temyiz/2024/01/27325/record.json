@@ -1,0 +1,16 @@
+{
+  "kind": "decision",
+  "issuer": "Sayıştay Temyiz Kurulu",
+  "number": "56438",
+  "decision_date": "2024-01-31",
+  "source_id": 27325,
+  "chamber": "7",
+  "file_number": "53560",
+  "public_body_type": "Belediyeler ve Bağlı İdareler",
+  "account_year": "2021",
+  "subject": "Çeşitli Konuları İlgilendiren Kararlar",
+  "source": "https://www.sayistay.gov.tr/KararlarTemyiz/Detay/27325/",
+  "source_sha256": "81e5fa3b0681bb3950c15478068fd2fa1eef564975dd1d3fe817934a38c22015",
+  "text_status": "as-enacted",
+  "text_file": "metin.md"
+}
