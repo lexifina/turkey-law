@@ -1,0 +1,37 @@
+{
+  "checked_on": "2026-11-15",
+  "commencement_quote": "Bu Tebliğ 1/2/2024 tarihinde yürürlüğe girer",
+  "date_gazette": "32438",
+  "date_quote": "Bu Tebliğ 1/2/2024 tarihinde yürürlüğe girer",
+  "first_law": null,
+  "gazette": "32438",
+  "history": "current-text",
+  "images": {
+    "deferred": 0,
+    "omitted": 0,
+    "referenced": 0,
+    "source": 0
+  },
+  "in_force": "2024-02-01",
+  "in_force_basis": "Own commencement clause: Bu Tebliğ 1/2/2024 tarihinde yürürlüğe girer",
+  "issuer": "Adalet Bakanlığı",
+  "issuer_catalog_evidence": [
+    {
+      "evidence": "issuer-58-0.json",
+      "id": "58",
+      "label": "Adalet Bakanlığı",
+      "listing_url": "https://www.mevzuat.gov.tr/Anasayfa/MevzuatDatatable?MevzuatTur=Teblig&KurumId=58&start=0&length=100"
+    }
+  ],
+  "issuer_slug": "adalet-bakanligi",
+  "kind": "communique",
+  "label": "oldest version available",
+  "notes": [],
+  "published": "2024-01-23",
+  "source": "https://www.mevzuat.gov.tr/anasayfa/MevzuatFihristDetayIframe?MevzuatTur=9&MevzuatNo=40665&MevzuatTertip=5",
+  "source_bytes": 15914,
+  "source_id": "9.5.40665",
+  "source_sha256": "42fdd021653e208c3c3fa970c868c8f8d56e5a9fea152d83631242cd285a2cdc",
+  "title": "İCRA VE İFLÂS KANUNU UYARINCA YAPILACAK SATIŞLARIN İLANLARINA İLİŞKİN PARASAL LİMİTLERİN GÜNCELLENMESİ HAKKINDA TEBLİĞ",
+  "word_count": 310
+}
