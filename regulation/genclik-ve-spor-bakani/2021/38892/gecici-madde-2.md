@@ -1,0 +1,3 @@
+Geçiş hükümlerine ilişkin ek süre
+GEÇİCİ MADDE 2- (Ek:RG-1/2/2024-32447)
+(1) Bu Yönetmeliğin yürürlüğe girdiği tarihten önce beslenme ve barınma yardımından faydalanan vakıf ve derneklerden geçici 1 inci madde kapsamında beslenme ve barınma yardımından faydalanan vakıf ve dernekler hakkında, tekrar başvurmaları durumunda ve 12 nci madde ile yürürlükten kaldırılan Yönetmelikte yer alan şartları taşımaları halinde, bu maddenin yürürlüğe girdiği tarihten itibaren bir yıl süre ile bu Yönetmelikte belirtilen şartlar aranmaz ve bu Yönetmelikte yer alan usul ve esaslar çerçevesinde beslenme ve barınma yardımı yapılır. Bu süreyi, dolduğu tarihten itibaren bir kereye mahsus olmak üzere bir yıl uzatmaya Bakan yetkilidir.

@@ -1,0 +1,20 @@
+Tanımlar
+MADDE 3 – (1) Bu Yönetmelikte geçen;
+a) Bakan: Gençlik ve Spor Bakanını,
+b) Bakanlık: Gençlik ve Spor Bakanlığını,
+c) Bakanlık Bilişim Sistemi: Bu Yönetmelik kapsamında yapılacak beslenme ve barınma yardımına dair iş ve işlemlerin takip edileceği, işlemlerin hızlı, güvenli, şeffaf bir şekilde yürütülmesini, sorumlulukların takip edilmesini, hizmet sunumunun e-devlet üzerinden gerçekleştirilmesini, etkin bir yönetim, iç kontrol ve denetim sisteminin oluşturulmasını, bürokrasinin azaltılmasını, verilerin güvenli bir şekilde depolanmasını ve ihtiyaçlara göre raporlanmasını sağlamak amacıyla internet üzerinden çalışan sistemi,
+ç) Barınma yardımı: Vakıf veya dernek yurtlarında kayıtlı ve ücretli olarak barınan öğrencilerin barınmalarına destek olunması amacıyla Bakanlık bütçesinden ödenecek miktarı,
+d) Beslenme yardımı: Vakıf veya dernek yurtlarında kayıtlı (Ek ibare:RG-1/2/2024-32447) ve ücretli olarak barınan öğrencilerin beslenmelerine destek olunması amacıyla Bakanlık bütçesinden ödenecek miktarı,
+e) Dernek: Kamu yararına çalışan dernekleri,
+f) Genel Müdürlük: Kredi ve Yurtlar Genel Müdürlüğünü,
+g) İl müdürlüğü: Gençlik ve spor il müdürlüğünü,
+ğ) Normal öğrenim süresi: Öğrencinin öğrenim gördüğü bölümün hazırlık sınıfı, bilimsel hazırlık, (Mülga ibare:RG-1/2/2024-32447) intibak ve benzeri süreleri dahil öğrenim süresini,
+h) Öğrenci: Bir yükseköğretim kurumunda ön lisans, lisans, lisansüstü olarak örgün öğretim programında öğrenim görüp vakıf ve dernek yurtlarında sürekli barınan kayıtlı öğrencileri,
+ı) Öğretim yılı: Yükseköğretim kurumlarının akademik takvimine göre belirlenen ders yılının başladığı tarihten itibaren ertesi ders yılının başladığı tarihe kadar geçen süreyi,
+i) Örgün eğitim: Öğrencilerin, eğitim-öğretim süresince ders ve uygulamalara devam etme zorunluluğunda oldukları eğitim-öğretim türünü,
+j) Vakıf: Vergi muafiyeti tanınan vakıfları,
+k) Yetkili kişi/kişiler: Vakıf ve derneklerin yönetim kurulu veya yetkili organlarının temsile yetkili seçtiği gerçek kişi/kişileri,
+l) Yönetici: Vakıf ve derneklere ait yükseköğrenim yurtlarını yönetmek üzere görevlendirilen müdür ve müdür yardımcılarını,
+m) Yurt: Vergi muafiyeti tanınan vakıf veya kamu yararına çalışan derneklere ait yükseköğrenim öğrencilerine barınma hizmeti sunan yurtları,
+n) Yurt müdürlüğü: Vergi muafiyeti tanınan vakıf veya kamu yararına çalışan derneklere ait yükseköğrenim yurt müdürlüğünü,
+ifade eder.

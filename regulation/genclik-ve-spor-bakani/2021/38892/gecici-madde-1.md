@@ -1,0 +1,2 @@
+Geçiş hükümleri
+GEÇİCİ MADDE 1 – (1) Bu Yönetmeliğin yürürlüğe girdiği tarihten önce beslenme ve barınma yardımından faydalanan vakıf ve dernekler hakkında, tekrar başvurmaları durumunda ve bu Yönetmelikle yürürlükten kaldırılan Yönetmelikte yer alan şartları taşımaları halinde bir yıl süre ile bu Yönetmelikte belirtilen şartlar aranmaz ve bu Yönetmelikte yer alan usul ve esaslar çerçevesinde beslenme ve barınma yardımı yapılır. Bu süreyi dolduğu tarihten itibaren bir kere olmak üzere bir yıl uzatmaya Bakan yetkilidir.
