@@ -1,0 +1,3 @@
+Ödemeler
+MADDE 11- (1) Fonun her tür borçlanma işleminden kaynaklanan anapara geri ödemeleri ile her tür faiz, kar payı, masraf, ücret, komisyon, sigorta primi, garanti ücreti, kur farkları, gecikme cezası, iskonto gideri ve sair tüm masraf ve giderlere ilişkin ödemeler Fondan karşılanmak üzere Yönetim Kurulu onayıyla yapılır.
+(2) Fona kaynak temini, Fon kaynaklarının yönetimi ve Fondan kaynak aktarımı dolayısıyla oluşan her tür gider, ücret ve masraflar ile Fonun derecelendirilmesi, bağımsız denetimi, danışmanlık hizmeti ve diğer operasyonel giderlerine ilişkin ödemeler Fondan karşılanmak üzere Yönetim Kurulu onayıyla yapılır.
