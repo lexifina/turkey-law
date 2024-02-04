@@ -1,0 +1,12 @@
+Elektronik ortamlarda başvuru işlemleri ve geçiş hükümleri
+GEÇİCİ MADDE 3 – (Ek:RG-18/12/2014-29209)
+(1) 16 ncı maddeye göre OSGB yetki belgesi başvuru sistemi, e-devlet sistemi alt yapısı tamamlandığında Genel Müdürlük internet sayfasında duyurulur. İlgili duyuruya kadar yapılacak başvurular ve sonuçlandırılmasına ait iş ve işlemlerde mevcut hükümlerin uygulanmasına devam edilir.
+(2) Bu maddenin yürürlüğe girdiği tarihten önce 16 ncı madde hükümleri kapsamında yapılmış ve sonuçlandırılmamış OSGB ve TSMB başvurularında bu Yönetmelikte belirtilen şartlar aranır.
+(3) 12 nci maddenin onuncu fıkrası kapsamındaki adres ve unvan değişikliği başvuruları ile 13 üncü maddenin yedinci fıkrasına göre sorumlu müdür değişikliği ile ilgili bildirimler, İSG-KATİP sistemindeki gerekli düzenlemeler tamamlanıp ilân edilinceye kadar Genel Müdürlüğe yazılı olarak yapılmaya devam edilir.
+(4) (Ek:RG-30/6/2016-29758) İşyeri hekimi, iş güvenliği uzmanı veya diğer sağlık personeli görevlendirilmeleri ile (Değişik ibare:RG-6/7/2021-31533) 50’den az çalışanı bulunan ve az tehlikeli sınıfta yer alan işyerlerindeki iş sağlığı ve güvenliği hizmetlerinin üstlenilmesinde İSG-KATİP’teki gerekli düzenlemeler tamamlanıp Genel Müdürlük internet sayfasında ilan edilinceye kadar;
+a) Kamu kurum ve kuruluşları ile Sosyal Güvenlik Kurumu tescil sisteminde henüz işyeri ve çalışan kaydı bulunmayan 506 sayılı Kanunun geçici 20 nci maddesi kapsamındaki işyerlerinden kamu kurumu niteliğinde olanlar tarafından; 14 üncü maddenin üçüncü fıkrasının (c) bendi kapsamındaki görevlendirmelerde Ek-5a, Ek-5b ve Ek-5c’de, aynı maddenin dördüncü fıkrası kapsamındaki taahhütnamelerde Ek-6’da, aynı maddenin beşinci fıkrası kapsamındaki sözleşmelerde Ek-3’te, aynı maddenin altıncı fıkrası kapsamındaki taahhütnamelerde ise Ek-4’te yer alan örneklerine uygun belgeler,
+b) (a) bendi kapsamında yer almayan işyeri işverenleri veya işveren vekilleri tarafından 14 üncü maddenin altıncı fıkrası kapsamında iş sağlığı ve güvenliği hizmetlerinin işveren veya işveren vekilince üstlenilmesi halinde Ek-4’te yer alan örneğine uygun belgeler,
+düzenlenerek 5 (beş) iş günü içerisinde ilgili kişilerce imzalanıp gerektiğinde denetime yetkili memurlara gösterilmek ve istendiğinde Bakanlığa iletilmek üzere işyerlerinde muhafaza edilir.
+Mevcut sözleşmeler
+GEÇİÇİ MADDE 4 – (Ek:RG-30/6/2016-29758)
+(1) Kamu kurum ve kuruluşlarında, bu maddenin yürürlük tarihinden önce usulüne uygun olarak yapılan sözleşmeler geçerlidir.

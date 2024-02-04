@@ -1,0 +1,3 @@
+OSGB’lerin faaliyet alanları
+MADDE 19 – (1) OSGB’ler, yetki aldıkları adreste ve başvuru dosyasında yer alan planda belirtilen bölümlerde Genel Müdürlükçe yetkilendirilmedikleri konularda hizmet veremez ve faaliyette bulunamazlar.
+(2) Ancak, ilgili kurum ve kuruluşların izinlerini almak ve Genel Müdürlükten onay almak şartıyla, OSGB’ler hizmet verdikleri işyerlerindeki çalışanlar ve işyeri ile sınırlı kalmak şartı ile iş sağlığı ve güvenliği ile ilgili her türlü ölçüm ve analiz için gerekli donanımı OSGB’nin faaliyet gösterdiği adreste bulundurabilir ve ilgili personeli bünyesinde çalıştırabilirler. Bu amaçla kullanılacak bölümler 12 nci maddede belirtilen bölümler içerisinde olamaz ve görevlendirilecek personel mezkûr maddede belirtilen kişiler arasından atanamaz.

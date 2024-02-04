@@ -1,0 +1,10 @@
+İş sağlığı ve güvenliği hizmetlerinin yürütülmesi amacıyla sağlanacak şartlar
+MADDE 11 – (1) Tam süreli işyeri hekimi ve iş güvenliği uzmanı görevlendirilmesi gerekli olmayan hallerde işveren, görevlendirdiği kişi veya OSGB’lerin görevlerini yerine getirmeleri amacı ile asgari bu maddedeki şartları sağlar.
+(2) 50 ve daha fazla çalışanı olan işyerlerinde işveren,
+a) İşyeri hekimi ile diğer sağlık personeline ve iş güvenliği uzmanına 8 metrekareden az olmamak üzere toplam iki oda temin eder.
+b) İşyerinde ayrıca acil durumlarda çalışanların en yakın sağlık birimine ulaştırılmasını sağlamak üzere uygun araç bulundurulur.
+(3) 50’den az çalışanı olan işyerlerinde işveren, işyeri hekimi, iş güvenliği uzmanı ve diğer sağlık personelinin iş sağlığı ve güvenliği hizmetini etkin verebilmesi için çalışma süresince kullanılmak üzere uygun bir yer sağlar.
+(4) Birden fazla işyerinin bulunduğu iş merkezleri, iş hanları gibi yerlerde bulunan ve 50’den az çalışanı olan işverenlerin yürütecekleri iş sağlığı ve güvenliği hizmetleri için; koordinasyon yönetim tarafından sağlanmak üzere ortaklaşa kullanılabilecek bir mekân oluşturulabilir. Oluşturulacak mekândan hizmet sunulacak toplam çalışan sayısı 50’den az olması durumunda üçüncü fıkra, 50’den fazla olması durumunda ise ikinci fıkra hükümlerine uygunluk sağlanır.
+(5) İş sağlığı ve güvenliği hizmetlerinin yürütülmesi için işveren tarafından ayrılan çalışma yerlerinin bölüm ve birimlerinin aynı alan içerisinde bulunması esastır. Bu bölüm ve birimlerin bulunduğu yerler çalışanlar tarafından kolaylıkla görülebilecek şekilde işaretlenir.
+(6) Tam süreli işyeri hekimi ve iş güvenliği uzmanı görevlendirilmesi zorunlu olmayan hallerde, işyerinde bu maddeye göre oluşturulan ve belirtilen şartları karşılayan birim, düzenlenen sağlık raporları bakımından İSGB olarak kabul edilir.
+(7) (Ek:RG-30/6/2016-29758) 50’den az çalışanı olan ve az tehlikeli sınıfta yer alan işyerlerinde; işveren ve hizmet sunanlar arasında mutabık kalınarak aynı sözleşme yılı içerisinde, aylık hizmet süreleri birleştirilebilir veya hizmet sunum aralıkları belirlenebilir.
