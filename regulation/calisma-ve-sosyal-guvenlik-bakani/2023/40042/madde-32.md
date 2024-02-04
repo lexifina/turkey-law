@@ -1,0 +1,10 @@
+Parametrenin askıya alınması
+MADDE 32- (1) Yeterlilik deneyi veya karşılaştırma testinde, test sonucu kabul edilebilir sınırların dışında olan laboratuvar, altı ay süre içinde yeterlilik deneyi veya karşılaştırma testine katılım sağlayabilir. Bu süre sonunda olumlu sonuç alamayan laboratuvarın ilgili parametreleri olumlu sonuç alana kadar Genel Müdürlük tarafından askıya alınır.
+(2) Laboratuvar, 8 inci maddenin beşinci fıkrasında belirtilen süreler dâhilinde zorunlu yeterlilik deneyi veya karşılaştırma testine girmemişse ilgili parametre askıya alınır. İlgili parametreden yeterlilik deneyi veya karşılaştırma testine girilip olumlu sonuç alınması halinde askı işlemi kaldırılır. Laboratuvar ilgili parametreden zorunlu yeterlilik deneyi veya karşılaştırma testine girmeden bu parametrelerde kapsam genişletme başvurusunda bulunamaz.
+(3) Denetimlerde aşağıdaki durumlar tespit edildiğinde ilgili parametre askıya alınır:
+a) Ölçüm ve numune alma veya analizden yetkili olmasına rağmen personelin ilgili metot veya parametreden yetkin olmaması durumunda.
+b) Laboratuvarda uygun cihazların bulunmaması durumunda.
+c) Ölçüm sonuçlarını sistematik olarak etkileyen hataların tespitinden itibaren 6 ay içerisinde ilgili hatanın giderilerek raporların geriye yönelik düzeltilmemesi ve/veya gerekli olduğu halde ölçümlerin yenilenmemesi durumunda.
+(4) Üçüncü fıkrada belirtilen hususların giderilmesi halinde laboratuvarda tekrar denetim yapılarak ilgili parametreler için uygulanan askı işlemi kaldırılır.
+(5) EK-1’de yer alan listeden akredite edilmiş parametresi veya metodu TÜRKAK tarafından askıya alınan laboratuvarın ilgili parametresi veya metodu, askısı kaldırılıncaya kadar Genel Müdürlükçe de askıya alınır. Laboratuvarın TÜRKAK tarafından akredite parametresi veya metodu kalmamışsa yeterlik belgesi askıya alınır.
+(6) Yeterlik belgesine sahip laboratuvarın EK-1’de yer alan parametrelerden biri veya birkaçı TÜRKAK tarafından verilen akreditasyon sertifikasının kapsamı dışına çıkartılırsa, laboratuvarın ilgili parametreleri tekrar kapsama alınıncaya kadar Genel Müdürlükçe askıya alınır.

@@ -1,0 +1,7 @@
+Rapor hazırlama
+MADDE 19- (1) Laboratuvar tarafından yapılan her bir iş hijyeni ölçüm, test ve/veya analizine ait sonuçlar; doğru, açık, kesin, tarafsız ve kullanılan metotta yer alan tüm talimatlara uygun bir şekilde rapor haline getirilir.
+(2) Düzenlenen raporlarda, akreditasyon standardının şartlarına uyulur ve İSGÜM internet sayfasında ilân edilen rapor formatına uygun rapor düzenlenir.
+(3) İşyerinin iş hijyeni ölçüm, test ve analizi yapılan bölümleri, buralarda yapılan işler, maruziyet süresi ve ölçüm, test ve analiz sonucunu etkileyebilecek hususlar raporlarda açıkça belirtilir. Kişisel maruziyet düzeyi ölçülen kişinin adı, unvanı ve yaptığı iş raporlarda yer alır.
+(4) İşyerinde yapılan ölçümlerde hangi standartların kullanıldığı, ölçüm belirsizliği ile birlikte ölçüm sonuçları ve varsa sınır değerleri belirtilir. Ölçüm, test ve/veya analiz sonuçlarının mevzuata uygunluğunun değerlendirilmesi laboratuvar tarafından yapılmaz. Mevzuatta sınır değerin bulunmadığı hallerde, ölçüm yapılan metot dikkate alınarak uluslararası kuruluşlarca yayımlanmış sınır değer kullanılır.
+(5) İşyerinde gerçekleştirilen iş hijyeni ölçüm, test ve/veya analizlerine ilişkin düzenlenen raporun içeriğinden İSGÜM tarafından belirlenen veriler İSG-KATİP’e yüklenir.
+(6) İş hijyeni ölçüm, test ve/veya analiziyle ilgili raporlarda bu Yönetmeliğin kapsamında olmayan diğer ölçüm, test ve/veya analizlerle ilgili bilgiler bulundurulmaz.

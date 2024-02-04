@@ -1,0 +1,10 @@
+Haberli ve habersiz denetimler
+MADDE 30- (1) Laboratuvarlar, bu Yönetmelik esasları dâhilinde iki yılda en az bir kez haberli veya habersiz denetime tabi tutulur. Buna ek olarak laboratuvarın yükümlülüklerini yerine getirip getirmediği İSG-KATİP üzerinden de denetlenebilir.
+(2) İSG-KATİP sistemine girişi yapılmış ölçüm günleri dışında hafta içi mesai saatlerinde laboratuvar personelinden en az bir kişi laboratuvarda bulunur.
+(3) Haberli denetimlerde, denetim tarihi, laboratuvara en az 10 gün öncesinde bildirilir. Bu denetimlerde laboratuvar personelinin tamamı laboratuvarda hazır bulunur.
+(4) Denetimlerde laboratuvarın bu Yönetmelik kapsamında yer alan hükümlere uygunluğu ile laboratuvarın yetki belgesinde yer alan ölçüm, test ve/veya analiz parametrelerinden gerekli görülenlerin icrası, işyeri ortamında veya laboratuvarda yerinde gözlemlenerek denetlenir.
+(5) Laboratuvar personeli, denetim personeline bu Yönetmelik kapsamında her türlü bilgi ve belgeyi göstermek ve yardımcı olmak zorundadır.
+(6) Denetimin tamamlanmasını takiben EK-10’da yer alan denetim tutanağı iki nüsha olarak düzenlenir. Denetim personeli ve laboratuvar yöneticisi tarafından imzalanarak bir nüshası laboratuvar yöneticisine verilir. Laboratuvar yöneticisinin bulunmaması halinde laboratuvarda bulunan diğer laboratuvar personeli de imza atmaya yetkilidir. İSG-KATİP üzerinden yapılan denetimler için oluşturulan tutanaklarda laboratuvar yöneticisinin imzası aranmaz.
+(7) Denetim bulguları 31 inci, 32 nci ve 34 üncü maddeler ile EK-11’de yer alan Laboratuvar İhtar Puanı Tablosuna göre değerlendirilir ve raporlanır. Bu Yönetmeliğe aykırılık tespit edilmesi halinde ilgili idari yaptırım uygulanır ve laboratuvara tebliğ edilir.
+(8) Yeterlik belgesi yenileme işlemi yapan laboratuvarların yeterlik belgesi süresinin yalnız son bir yılında uygulanan ihtar puanları yenilenen belge için geçerli olur.
+(9) Ön yeterlikten yeterliğe geçiş yapan laboratuvarın ön yeterlik belgesi süresi boyunca aldığı ihtar puanları, yeterlik belgesi için geçerli olur.
