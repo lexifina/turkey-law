@@ -1,0 +1,5 @@
+Elektronik ortamlarda başvuru işlemleri ve geçiş hükümleri
+GEÇİCİ MADDE 5 – (Ek:RG-18/12/2014-29209)
+(1) 21 inci maddeye göre eğitim kurumları yetki belgesi başvuru sistemi, e-devlet sistemi alt yapısı tamamlandığında Genel Müdürlük internet sayfasında duyurulur. İlgili duyuruya kadar yapılacak başvurular ve sonuçlandırılmasına ait iş ve işlemlerde mevcut hükümlerin uygulanmasına devam edilir.
+(2) Bu Yönetmeliğin yürürlüğe girdiği tarihten önce 21 inci maddeye göre yapılmış ve sonuçlandırılmamış eğitim kurumu başvurularında bu Yönetmelikte belirtilen şartlar aranır.
+(3) 27 nci maddenin beşinci fıkrasına göre yapılacak başvurular ile 30 uncu maddenin altıncı fıkrasına göre eğitici değişikliği ile ilgili bildirimler, e-devlet sistemi alt yapısı ile ilgili ilân yapılıncaya kadar, 28 inci maddenin sekizinci fıkrasına göre sorumlu müdür değişikliği ile ilgili bildirimler ise İSG-KATİP sistemindeki gerekli düzenlemeler tamamlanıp ilan edilinceye kadar Genel Müdürlüğe yazılı olarak yapılmaya devam edilir.

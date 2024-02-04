@@ -1,0 +1,4 @@
+İşyeri Hekimlerinin ve Diğer Sağlık Personelinin Eğitimleri, Sınavları ve Belgelendirilmeleri
+İşyeri hekimlerinin eğitimleri
+MADDE 32 – (1) İşyeri hekimlerinin eğitim programları teorik ve uygulamalı olmak üzere iki bölümden oluşur ve programın içeriği ile programda görevli eğiticilerin nitelikleri Genel Müdürlükçe belirlenir. Eğitim programının süresi, teorik kısmı 180 saatten, uygulama kısmı 40 saatten ve toplamda 220 saatten az olamaz ve bu kısımlar ancak tek bir program dâhilinde uygulanabilir. Teorik eğitimin en fazla yarısı uzaktan eğitim ile verilebilir. Uygulamalı eğitimler, işyeri hekimleri için en az bir işyeri hekiminin görevlendirilmiş olduğu işyerlerinde yapılır.
+(2) (Ek:RG-16/4/2020-31101) Salgın hastalık ve doğal afet gibi mücbir sebepler nedeniyle işyeri hekimliği eğitim programının teorik kısmının tamamının uzaktan eğitim ile verilmesine karar vermeye Bakanlık yetkilidir. Bu karar İSG-KATİP üzerinden ilân edilir.

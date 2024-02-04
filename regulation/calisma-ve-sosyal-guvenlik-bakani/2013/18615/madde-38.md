@@ -1,0 +1,4 @@
+Eğiticilerin belgelendirilmesi
+MADDE 38 – (1) İşyeri hekimliği ve iş güvenliği uzmanlığı eğitici belgesi veya diğer sağlık personeli eğitici belgesi alma niteliklerine sahip olup, bu belgeyi almak isteyenlerin başvurularının değerlendirilebilmesi amacıyla; pedagojik formasyon veya eğiticilerin eğitimi belgesi ile (Değişik ibare:RG-18/12/2014-29209) 36 ncı maddede belirtilen nitelikleri haiz olduklarını gösteren belgeleri, Genel Müdürlüğe hitaben yazılmış dilekçe ekinde şahsen veya posta yoluyla Genel Müdürlüğe teslim etmesi gerekmektedir.
+(2) Üniversitelerde Genel Müdürlükçe ilan edilen eğitim programlarına uygun alanlarda ders verenlerin bu durumlarını gösteren belgelerinde, rektör onayı şartı aranır.
+(3) Bu madde uyarınca ibraz edilmesi gereken belgelerin aslı ile birlikte bir örneğinin getirilmesi halinde Genel Müdürlükçe tasdiki yapılır ve şahsen ibraz edilmesi gereken belgelerin doğruluğundan belge sahipleri sorumludur.

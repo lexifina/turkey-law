@@ -1,0 +1,2 @@
+İşe giriş ve periyodik sağlık muayeneleri
+GEÇİCİ MADDE 3 – (1) 6331 sayılı İş Sağlığı ve Güvenliği Kanununun 38 inci maddesinin birinci fıkrasının (a) bendinin bir ve ikinci kısımlarında belirtilen işyerlerinde, iş sağlığı ve güvenliği yönünden özellikli rapor niteliğinde olan işe giriş ve periyodik sağlık muayeneleri aynı Kanunun yürürlüğe girdiği tarihten önce olduğu gibi kamu sağlık hizmeti sunucuları tarafından düzenlenir.
