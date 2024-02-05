@@ -1,0 +1,21 @@
+{
+  "record_type": "parliament-written-question",
+  "term": 28,
+  "legislative_year": 2,
+  "esas_no": "7/9243",
+  "submitted": "2024-02-05",
+  "submitted_as": "Başkanlığa geliş tarihi",
+  "mp": "Sümeyye BOZ ÇAKI",
+  "province": "Muş",
+  "summary": "Muş ilinin Bulanık ilçesine bağlı Selanik Mahallesi'nde içme suyundan kaynaklı yaşanan salgına ilişkin",
+  "status": "Cevaplanmadığı Gelen Kağıtlarda İlan Edildi",
+  "status_as_of": "2026-11-16",
+  "official_record": "https://www.tbmm.gov.tr/Denetim/Yazili-Soru-Onergesi-Detay/145101e0-10dd-4d1b-ba0d-018d7d2d15b8",
+  "source": "https://tbmm.gov.tr/Denetim/YaziliSoruOnergesiTable",
+  "source_form": "https://tbmm.gov.tr/Denetim/Yazili-Soru-Onergeleri",
+  "source_sha256": "1f82bc9c137aff748290512ec4b397f266700d5caf79fd4a9f4883f013b5b780",
+  "in_force": "2024-02-05",
+  "in_force_basis": "Date the question reached the Speaker (Başkanlığa geliş tarihi) in the official TBMM written-question record; parliamentary oversight record, not law",
+  "history_type": "metadata",
+  "text_status": "metadata-only: question text, addressee and answers are in the linked official record (PDFs on cdn.tbmm.gov.tr); not transcribed here"
+}
