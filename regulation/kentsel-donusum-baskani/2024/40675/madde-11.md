@@ -1,0 +1,23 @@
+Taşınmaz ve Kaynak Geliştirme Genel Müdürlüğü
+MADDE 11- (1) Taşınmaz ve Kaynak Geliştirme Genel Müdürlüğünün görevleri şunlardır:
+a) Gelir ve hâsılat elde etmek üzere belirlenen rezerv yapı alanlarında; zemin etüt raporlarını hazırlamak/hazırlatmak, her tür ve ölçekteki harita, plan, proje ve arazi ve arsa düzenleme işlemlerini (master plan, yönetim planları, imar planı, kentsel tasarım projeleri, imar uygulaması, tevhit, ifraz, taksim, terk, ihdas, alan düzeltme ve tapuya tescil, halihazır harita ve benzeri işlemler) yapmak/yaptırmak ve onaylanmasına ilişkin iş ve işlemleri yürütmek üzere, alana ve uygulanması planlanan projeye ait bilgi ve belgeleri İmar Planlama Dairesi Başkanlığına iletmek.
+b) Devletin hüküm ve tasarrufu altında bulunan alanların tespit edilmesine ve bu alanların tapuda Hazine adına tescil edilip Başkanlığa devredilmesine ilişkin iş ve işlemleri yapmak/yaptırmak.
+c) Gelir ve hâsılat elde etmek üzere belirlenen rezerv yapı alanlarında bulunan ve Başkanlığa devredilen Hazine taşınmazlarının envanterini tutmak.
+ç) Gelir ve hâsılat elde etmek üzere belirlenen rezerv yapı alanlarında gelir ve hâsılat getirecek her türlü uygulama yapmak/yaptırmak.
+d) Gelir ve hâsılat elde etmek üzere belirlenen rezerv yapı alanlarında satış, kiralama ve irtifak hakkı tesis etme işlemleri ile tahsilat işlemlerini yürütmek.
+e) Hazine mülkiyetinde olup Kanun kapsamında kullanılmak üzere Başkanlığa devredilen taşınmazları; Kanun kapsamında Başkanlıkça kamulaştırılan taşınmazları ve yürütülen uygulamalar neticesinde Başkanlık payına düşen taşınmazları kiralamaya, irtifak hakkı tesis etmeye ve satmaya ilişkin iş ve işlemleri yürütmek.
+f) Gelir ve hâsılat elde etmek üzere belirlenen rezerv yapı alanlarında bulunan taşınmazların değer tespiti ile bu alanlarda yapılan dönüşüm uygulamaları neticesinde meydana gelen yeni taşınmazların/yapıların değerlemelerini yapmak veya yaptırmak.
+g) Gelir ve hâsılat elde etmek üzere belirlenen rezerv yapı alanlarında bulunan Hazine mülkiyetindeki taşınmazların Başkanlığa devredilmesi ile bu taşınmazların Başkanlık tarafından TOKİ'ye veya İdareye devri ile ilgili iş ve işlemleri yürütmek.
+ğ) Gelir ve hâsılat elde etmek üzere belirlenen rezerv yapı alanlarında İdare, TOKİ ve İller Bankası Anonim Şirketine aktarılacak kaynağın miktarının belirlenmesine ilişkin iş ve işlemleri yapmak.
+h) Kanun kapsamında kullanılmak üzere hazır konut ve işyeri satın almaya ve bunları devretmeye ilişkin iş ve işlemleri yürütmek.
+ı) 20/7/1966 tarihli ve 775 sayılı Gecekondu Kanunu, 5393 sayılı Kanun, 5366 sayılı Kanun ile 29/6/2001 tarihli ve 4706 sayılı Hazineye Ait Taşınmaz Malların Değerlendirilmesi ve Katma Değer Vergisi Kanununda Değişiklik Yapılması Hakkında Kanun ve diğer kanunlar kapsamındaki dönüşüm ve iyileştirme uygulamaları için TOKİ’ye, İdareye ve diğer kamu idarelerine tahsis ve devredilmiş olup da tahsisin yapıldığı veya mülkiyetin devredildiği tarihten itibaren iki yıl içinde dönüşüm ve iyileştirme uygulaması başlatılmayan taşınmazların tahsislerinin kaldırılmasına/devir edilenlerin geri alınmasına ilişkin işlemleri ile bu taşınmazların Kanunun öngördüğü amaçlar için kullanılmak üzere Başkanlığa devredilmesine ilişkin iş ve işlemleri yürütmek.
+i) Sermaye piyasası mevzuatı hükümleri çerçevesinde gayrimenkul sertifikası ve kira sertifikası gibi sermaye piyasası araçları çıkartılmasına ilişkin iş ve işlemleri yürütmek.
+j) Kanun kapsamında kullanılmak üzere her türlü yeni kaynağın geliştirilmesine ilişkin iş ve işlemleri yapmak.
+k) Dış finansman kaynaklarından 28/3/2002 tarihli ve 4749 sayılı Kamu Finansmanı ve Borç Yönetiminin Düzenlenmesi Hakkında Kanun kapsamında sağlanan kredi ve hibelere ilişkin iş ve işlemleri yürütmek.
+l) Dış finansman kaynaklarından Başkanlığa sağlanan kredi ve hibelerin takibi ile ilgili iş ve işlemleri yürütmek.
+m) Dış finansman kaynaklarından sağlanan kredilerin ve hibelerin Başkanlıkça dönüşüm uygulamaları için kullanılmasına ve yararlanıcılarına kullandırılmasına ilişkin iş ve işlemleri yapmak veya yaptırmak.
+n) Dış finansman kaynaklarından sağlanan kredileri kullanan yararlanıcıların geri ödemelerine ilişkin gerekli tedbirleri almak/aldırmak ve işlemleri yapmak/yaptırmak.
+o) Dış finansman kaynaklarından sağlanan kredi ve hibelerinden yapılacak her türlü harcamaya ilişkin belgelerin muhasebeleştirilmesini sağlamak.
+ö) Uluslararası kurum ve kuruluşlarla ortak proje yürütülmesine ilişkin iş ve işlemleri yapmak.
+p) Görev alanına giren konularda ilgili kişi, kurum ve kuruluşlar ile akdedilecek protokolleri ve sözleşmeleri hazırlamak ve onaylanmak üzere Başkanlık Makamına sunulmasını sağlamak.
+r) Başkan tarafından verilen diğer görevleri yapmak.
