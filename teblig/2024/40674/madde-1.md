@@ -1,0 +1,2 @@
+Amaç ve kapsam
+MADDE 1- (1) Bu Tebliğin amacı, 23/11/2022 tarihli ve 32022 sayılı Resmî Gazete’de yayımlanan İthalatta Haksız Rekabetin Önlenmesine İlişkin Tebliğ (Tebliğ No: 2022/35) ile Çin Halk Cumhuriyeti menşeli “ağır vasıta, zirai araç ve iş makineleri dış lastikleri” (kauçuktan yeni dış lastikler) ürünü ithalatına yönelik başlatılan ve Ticaret Bakanlığı İthalat Genel Müdürlüğü tarafından yürütülen nihai gözden geçirme soruşturmasının tamamlanması neticesinde alınan kararın yürürlüğe konulmasıdır.
