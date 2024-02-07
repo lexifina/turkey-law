@@ -1,0 +1,9 @@
+Girdiler
+MADDE 5- (1) Makaronlara ait girdi bildirim ve toksikolojik veri tabloları Bakanlık internet sitesinde yayımlanan açıklama kılavuzu ve tablolarına uygun düzenlenir. Bu tablolarda, mamulat çeşidinde kullanılan girdilerin isimleri Türkçe olarak yazılır, varsa Latince isimleri parantez içinde belirtilir.
+(2) Makaronların sigara kağıdı ve uç kağıdında şekerler ve/veya tatlandırıcılar kullanılamaz.
+(3) Makaronların üzerinde yer alması gereken marka ve/veya ayırt edici ibarenin yazılması için kullanılanlar ile sigara kağıdını, filtresini, uç kağıdını beyazlaştırmak ve/veya uç kağıdına mantar deseni yapmak için kullanılanlar hariç olmak üzere makaron üretiminde renklendirici kullanılamaz.
+(4) Bakanlık internet sitesinde yayımlanan Makaron Üretiminde Kullanılan Girdilerin Listesinde yer almayan bir girdi kullanılmak istendiğinin tespit edilmesi halinde başvuruya ait Girdi Bildirim ve Toksolojik Veri Tabloları Bakanlıkça değerlendirilerek, başvuru sonuçlandırılır.
+(5) Makaronların üretiminde, sigara kağıdında, kenar ek yeri yapıştırıcısında, sigara kağıdı üzerinde kullanılan mürekkepte, filtreleme maddesinde, filtre sargısında, filtre yapıştırıcısında, uç kağıdı ve uç kağıdı mürekkebi ile yapıştırıcılarında ve/veya üründe herhangi bir şekilde Ek-1’deki listede belirtilen girdiler kullanılamaz.
+(6) Makaronların filtrelerinde, işlevi filtreleme maddesi olan selüloz, selüloz asetat (tow), selüloz diasetat, aktif karbon, sorbitan monolaurat, polisorbat ve polisorbat 20 kullanılır.
+(7) Makaronların, filtrelerindeki filtreleme maddesinde, filtre sargısında, filtre yapıştırıcısında ve/veya diğer kısımlarında tatlandırıcı, tütün ve/veya nikotin kullanılamaz.
+(8) Filtre, kağıt, paket, kapsül gibi bileşenler ile kokusunda, tadında ya da duman yoğunluğunda değişim sağlayan herhangi bir teknik özelliğinden herhangi birinde aroma verici içeren makaron piyasaya arz edilemez.

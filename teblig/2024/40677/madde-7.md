@@ -1,0 +1,65 @@
+Piyasaya arz ambalajı
+MADDE 7- (1) Makaron birim paketinin dış yüzey rengi ve tonu Pantone 448 C mat bitişli, parlaklık derecesi %20’nin altında, karton malzemeden yapılan birim paketin iç yüzey rengi kraft kahvesi, Pantone 448 C mat bitişli veya beyaz olması gerekir.
+(2) Makaron birim paketinin iç ve dış yüzeyinin düz ve pürüzsüz olması, kabartma ve desen olmaması, mamulün kendisinin görünürlüğünü sağlayan pencere içermemesi gerekir.
+(3) Makaron birim paketi, dikdörtgen prizma şeklinde karton malzemeden yapılır. Birim paketlerde ek şeffaf ambalaj kullanılması zorunludur.
+(4) Makaronun kolisi, koli bandı ve koli etiketi, dış ambalajı ile makaron üzerinde markanın logosu, simgesi veya sair işaretleri dahil olmak üzere zorunlu kılınanların haricinde metin, yazı, ibare, şekil, çizgi, sembol, resim, figür, desen ve işaret bulunmaz.
+(5) Makaronda kullanılan uç kağıdı düz beyaz mat bitişli ve/veya mantar desenli, sigara kağıdı beyaz mat bitişli olmak zorundadır.
+(6) Makaron birim paketleri, ses çıkaran ve/veya kokulu malzemeden üretilemez, haricen kılıf, kutu, çıkartma içeremez.
+(7) Makaron birim paketlerinde, ısı ile aktive olan, zaman geçtikçe ortaya çıkan, floresan görüntü veren mürekkepler kullanılmaz.
+(8) Makaron birim paketi üzerinde aşağıdaki ibarelerin kullanılması zorunludur:
+a) Birleşik sağlık uyarıları, genel uyarı ve bilgi mesajı.
+b) Marka ve ayırt edici ibare.
+c) “200 makaron” şeklinde miktar ve kategori bilgisi.
+ç) Üretici ve/veya ithalatçı firma unvanı ve üretim tesisi adresini içeren bilgi.
+d) Kodlama bilgisi.
+e) “Ü.T.: gg/aa/yyyy” şeklinde asgari gün, ay ve yıl olarak üretim tarihi bilgisi.
+f) Barkod.
+g) “18 yaşını doldurmayanlara satışının cezası hapistir.” uyarısı.
+ğ) “Tarım ve Orman Bakanlığı izniyle üretilmiştir/ithal edilmiştir.” ibaresi.
+(9) Makaron birim paketlerindeki sağlık uyarıları aşağıdaki genel düzenlemelere uygun olmak zorundadır:
+a) Türkiye’de üretilen ve ithal edilen makaronların birim paketlerinde Türkçe sağlık uyarıları bulunur.
+b) Sağlık uyarıları, birim paket yüzeyinde kendilerine ayrılan alanın tamamını kaplar. Bu uyarılar ile ilgili birim paket üzerinde hiçbir şekilde yorum yapılmaz. Bu uyarılar başka şekilde yazılmaz ve bunlara atıfta bulunulmaz.
+c) Piyasaya arz edilen makaronların birim paketinde yer alan sağlık uyarıları, paket açıldığında bölünemez, sökülemez şekilde sabit ve silinemez olarak basılır. Bandrol, damga, pul, fiyat işaretleri, güvenlik özellikleri, ambalaj kağıdı, kılıf, kutu veya başka araçlarla kısmen veya tamamen gizlenmez veya kapatılmaz. Bu uyarılar bütünüyle görünür olmak zorundadır.
+ç) Sağlık uyarıları, birim paket üzerindeki bandrol, damga, pul, fiyat işaretleri, izleme ve takip işaretleri veya güvenlik özelliklerini hiçbir şekilde gizlemez veya kısmen dahi olsa engellemez.
+d) Sağlık uyarılarının boyutları paket kapalıyken ilgili yüzey alanına göre hesaplanır.
+e) Sağlık uyarıları kendileri için ayrılan yüzey alanının içinde genişliği 1 milimetre olan siyah bir sınır çizgisi ile çevrelenir.
+(10) Makaron birim paketinde birleşik sağlık uyarıları aşağıdaki şekilde uygulanır:
+a) Birleşik sağlık uyarıları, birim paketin en geniş ön ve arka yüzeylerinin sol kenarından başlamak üzere yüzeylerin her birinin en az %85’ini kaplar. Birim paketin her iki tarafında aynı birleşik sağlık uyarısı bulunur.
+b) Birleşik sağlık uyarılarının yüksekliğinin genişliğine oranı %70’ten daha küçük olur. Birleşik sağlık uyarıları yan yana formatta uygulanır.
+c) Birleşik sağlık uyarısı yüksekliği ile uygulama yüzeyi yüksekliği eşit olur. Bulunduğu yüzeyde görünen her türlü başka bilgi ile aynı yönde konumlandırılır.
+ç) Birleşik sağlık uyarısının sol yarısında fotoğraf, sağ yarısının üst kısmında uyarı metni, sağ yarısının alt kısmında bırakma bilgisi yer alır. Fotoğraf siyah sınır çizgisinin iç tarafındaki birleşik sağlık uyarısı yüzey alanının %50’sini, uyarı metni %40’ını ve bırakma bilgisi %10’unu kaplar.
+d) Firmalar üretim ve ithalat programlarını, birleşik uyarılardan her birinin yıllık dönem içerisinde ve mamullerin her bir çeşidinde eşit sayıda görünmesini sağlayacak şekilde planlar ve uygular.
+e) Birleşik sağlık uyarısı dört renk/Mavi-Kırmızı-Sarı-Siyah (CMYK) basılır. Siyah baskılar C0, M0, Y0 ve K100, canlı sarı baskılar C0, M10, Y100 ve K0 olur. Birleşik sağlık uyarısının basıldığı yüzeydeki çözünürlüğü 300 dpi’den az olamaz.
+f) Uyarı metni siyah fon üzerinde beyaz renkte, bırakma bilgisi canlı sarı fon üzerinde siyah renkte basılır.
+g) Bırakma bilgisi ile fotoğraf arasında 1 milimetre siyah sınır çizgisi yer alır. Bu sınır çizgisi bırakma bilgisi alanına dahil sayılır.
+ğ) Birleşik sağlık uyarılarında kullanılan fotoğraf; efekt kullanılmadan, renk ayarlaması yapılmadan, arka fonu değiştirilmeden ve genişletilmeden, görüntünün odak noktasına çok yakın ya da çok uzak olmayacak şekilde, uzatılmadan veya kısaltılmadan orantısal bir şekilde uygulanır.
+h) Uyarı metni ve bırakma bilgisi; kendilerine ayrılan alanda, sola dayalı ve dikey olarak ortalanmış şekilde, koyu kalın Neue Frutiger Condensed yazı tipiyle, yeknesak punto ile basılır. Uyarı metni ve bırakma bilgisinin puntosu, metinlerin görünürlüğü en üst seviyede olacak şekilde, uyarı metni en küçük 12 punto, bırakma bilgisi en küçük 10 punto yazılır. Uyarı metninin satır arası boşlukları, uyarı metninin yazı tipi boyutundan 2 punto daha büyük olmak zorundadır. Uyarı metinleri, ilk harfi büyük diğer harfleri küçük yazılır.
+(11) Makaron birim paketinde genel uyarı ve bilgi mesajı aşağıdaki şekilde uygulanır:
+a) Birim paketin kısa yan yüzeylerinin birinde genel uyarı ve diğerinde bilgi mesajı yer alır. Genel uyarı ve bilgi mesajı birim paketin kısa yan kenarına paralel olur, bulundukları yüzeyin tamamını kaplar.
+b) Genel uyarı, paket açıkken görünür olan iç yüzeye de, yüzeyin üst kenarından başlamak üzere uygulanır ve bu durumda bulunduğu yüzeyin %50’sini kaplar.
+c) Genel uyarı ve bilgi mesajı beyaz bir zemin üzerine koyu kalın siyah Helvetica yazı tipinde, ilk harfi hariç küçük harf ile yazılır. Yazı tipi boyutu metin için ayrılan alanda mümkün olan en büyük bölümü kaplar. Kendilerine ayrılan alanın ortasında yer alır.
+(12) Marka ve ayırt edici ibare aşağıdaki şekilde uygulanır:
+a) Marka; birim paketin sadece ön yüzeyine, birleşik sağlık uyarısı metni ile aynı yönde, bulunduğu yüzey alanının yüzde beşini aşmayacak şekilde, en fazla 22 ve yeknesak puntoda, rengi Pantone Cool Gray 2 C mat bitişli, tek satırda, ayırt edici ibare ile birlikte yatay ve dikey olarak ortalanmış ve üst kenara paralel, kelimenin ilk harfi büyük diğerleri küçük harf olacak şekilde, Helvetica yazı tipinde, alfabetik, nümerik ve “&” işareti dışında bir işaret ve karakter ile kabartma ve varak kullanmaksızın yazılır.
+b) Makaron üzerinde marka; kelimenin ilk harfi büyük diğerleri küçük harf olacak şekilde, siyah renkli, Helvetica yazı tipinde, en fazla 8 punto olarak, alfabetik, nümerik ve “&” işareti dışında bir işaret ve karakter kullanmaksızın, uç kağıdına, içilen uca paralel yazılır.
+c) Makaron kolilerinde marka ve/veya ayırt edici ibare; kolinin sadece ön yüzeyine, yüzeye dikey ve yatay olarak ortalanmış, üst kenara paralel olarak ve bulunduğu yüzeyin yüzde beşini aşmayacak şekilde, siyah renkte, Helvetica yazı tipinde yazılır. Makaron kolilerinde ayırt edici ibare kullanılması halinde markanın altına yazılır.
+ç) Ayırt edici ibare; en fazla üç ögeden oluşacak şekilde, birim paket üzerinde markanın altında, markadan 2 punto küçük olacak şekilde, rengi Pantone Cool Gray 2 C mat bitişli, Helvetica yazı tipinde, kelimenin ilk harfi büyük diğerleri küçük harf olacak şekilde, alfabetik, nümerik ve “&” işareti dışında bir işaret ve karakter ile kabartma ve varak kullanmaksızın yazılır. Ayırt edici ibare birim paket üzerinde kelime bölünmeden birden fazla satırda yazılabilir.
+d) Marka ve ayırt edici ibare bu fıkrada ve on beşinci fıkrada belirtilen yerlerin dışında herhangi bir yere yazılamaz.
+(13) Birim pakette bulunması zorunlu diğer hususlar aşağıdaki şekilde uygulanır:
+a) Sekizinci fıkranın (c) bendindeki bilgiler, arka yüzeyin sağ alt kısmına, birleşik sağlık uyarısı metni ile aynı yönde, yatay olarak ortalanmış şekilde, ayırt edici ibare puntosunda yazılır. Bu bilgiler bulunduğu yüzeye kelime ve rakam bölünmeden iki satırda yazılabilir.
+b) Sekizinci fıkranın (ç) ve (h) bentlerindeki bilgiler birim paketin uzun yan yüzeylerinin birine, en az 10 punto yazılır.
+c) Sekizinci fıkranın (d) ve (e) bentlerindeki bilgiler birim pakette bandrolün uygulandığı uzun yan yüzeye, görünebilir şekilde, uygulanacağı alanla sınırlı olmak üzere siyah zemin üzerine beyaz renkte soğuk damga kullanılmaksızın uygulanır.
+ç) Barkoda, birim paketin uzun yan yüzeylerinden birinde görünebilir şekilde yer verilir.
+d) Sekizinci fıkranın (g) bendindeki uyarı, birim paketin bandrol bulunmayan uzun yan yüzeyine, bulunduğu alanda dikey ve yatay olarak ortalanmış şekilde, en az 12 punto, beyaz renkte, Helvetica yazı tipinde yazılır.
+e) Sekizinci fıkranın (c), (ç) ve (h) bentlerindeki bilgiler bulundukları yüzeye rengi Pantone Cool Gray 2 C mat bitişli ve Helvetica yazı tipinde yazılır.
+(14) Sekizinci fıkrada belirtilen uyarı/bilgi/kod/ibareler; birim paketler üzerine bu Tebliğ hükümlerine göre, bu Tebliğde hüküm bulunmayan hallerde 1/3/2019 tarihli ve 30701 sayılı Resmi Gazete’de yayımlanan Tütün Mamullerinin Üretim Şekline, Etiketlenmesine ve Denetlenmesine İlişkin Usul ve Esaslar Hakkında Yönetmelikte tütün mamulü birim paketleri için belirlenen usul ve esaslar çerçevesinde uygulanır.
+(15) Makaronda kullanılan koli, kraft kahvesi renginde olmak zorundadır. Koli üzerine azami 148 milimetreye 210 milimetre ölçülerinde etiket yapıştırılır. Etiketin rengi beyaz olur ve üzerinde yer verilecek ibareler siyah renkte yazılır. Etiket üzerinde marka ve ayırt edici ibare, üretici firma ve üretim tesisi adresi bilgisi, “Ü.T.: gg/aa/yyyy” şeklinde üretim tarihi, miktar ve kategori bilgisi, kodlama bilgisi, barkod bulunur. Bu ibareler belirtilen ölçülerde siyah renkte koli üzerine de yazılabilir.
+(16) Makaronda kullanılan marka ve ayırt edici ibareler şunlardır:
+a) Mamulün özellikleri, sağlık etkileri, riskleri veya emisyonlarına ilişkin hatalı bir izlenim yaratarak mamulü tanıtan veya tüketimini teşvik eden, eksik bilgi veren, tüketiciyi yanıltan, aldatan nitelikte olamaz.
+b) Mamulü özendiren veya cazip kılan nitelikte olamaz.
+c) Belirli bir mamulün diğerlerinden daha az zararlı olduğunu, dumanın bazı zararlı bileşenlerinin etkisini azaltmayı amaçladığını, enerji verici, iyileştirici, gençleştirici, doğal, organik özelliklere sahip olduğunu gösteren, başka olumlu sağlık veya yaşam tarzı faydaları sağladığını öne süren veya ima eden nitelikte olamaz.
+ç) Tat, koku, her türlü aroma verici veya başka katkı maddesine ya da bunların yokluğuna atıfta bulunan nitelikte olamaz.
+d) Bir gıda veya kozmetik ürününe atıfta bulunan nitelikte olamaz.
+e) Mamulün gelişmiş biyolojik parçalanabilirliğe veya başka çevresel avantajlara sahip olduğunu öne süren nitelikte olamaz.
+f) İndirim, ücretsiz dağıtım, bir fiyatına iki adet veya başka benzer teklifler ile basılı kuponlar dahil olmak üzere ekonomik avantajlar sunan nitelikte olamaz.
+(17) 20/11/2012 tarihli ve 28473 sayılı Resmî Gazete’de yayımlanan 12/11/2012 tarihli ve 7055 sayılı Tütün ve Alkol Piyasası Düzenleme Kurulu Kararında tütün ürünleri için belirlenen usul ve esaslar makaronlar için de geçerlidir.
+(18) Bandrol; birim paketin açıldığı uzun yan yüzeye, yatay olarak ortalanmış şekilde, lak, vernik, selefon veya herhangi bir kaplama yapılmamış yüksekliği 60 mm’den büyük olan paketlerde eni 40 mm yüksekliği 60 mm, yüksekliği 60 mm’den küçük olan paketlerde eni 60 mm yüksekliği 44 mm’den az olmayan uygulama zeminine dikey olarak yapıştırılır. Bandrol uygulama zemini birim paket rengi ile aynı olmak zorundadır.
