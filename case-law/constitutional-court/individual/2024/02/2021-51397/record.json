@@ -1,0 +1,20 @@
+{
+  "applicant": "C.Y.",
+  "application_date": "2021-10-27",
+  "application_number": "2021/51397",
+  "deciding_unit": "İkinci Bölüm",
+  "decision_date": "2024-02-07",
+  "id": "119d0eda-a6b4-1360-64b8-18b4c2113ecb",
+  "in_force": "2024-02-07",
+  "in_force_basis": "official decision date",
+  "kind": "constitutional-court-individual-application",
+  "omitted_images": 0,
+  "outcome": "Esas (İhlal Olmadığı)",
+  "published": null,
+  "referenced_images": 0,
+  "source": "https://kararlarbilgibankasi.anayasa.gov.tr/kbb/pages/search/Tumu?id=a2JiOjExOWQwZWRhLWE2YjQtMTM2MC02NGI4LTE4YjRjMjExM2VjYg&type=BireyselBasvuru",
+  "source_api": "https://kararlarbilgibankasi.anayasa.gov.tr/api/core/public/search",
+  "source_images": 0,
+  "source_sha256": "58c8048f838bf0c3c9265f841c83259cfbbad87e90776ecc01d86702c57bf38a",
+  "version_label": "as-enacted"
+}
