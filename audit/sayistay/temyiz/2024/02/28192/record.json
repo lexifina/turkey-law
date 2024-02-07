@@ -1,0 +1,16 @@
+{
+  "kind": "decision",
+  "issuer": "Sayıştay Temyiz Kurulu",
+  "number": "56454",
+  "decision_date": "2024-02-07",
+  "source_id": 28192,
+  "chamber": "5",
+  "file_number": "53139",
+  "public_body_type": "Belediyeler ve Bağlı İdareler",
+  "account_year": "2015",
+  "subject": "Personel Mevzuatı ile İlgili Kararlar",
+  "source": "https://www.sayistay.gov.tr/KararlarTemyiz/Detay/28192/",
+  "source_sha256": "3be2fc658949b7d5727670d45ff204478f8b2f5a183c217b40baab5959dc307e",
+  "text_status": "metadata-only",
+  "metadata_only_reason": "possible personal name in the official text"
+}
