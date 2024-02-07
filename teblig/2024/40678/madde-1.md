@@ -1,0 +1,2 @@
+Amaç ve kapsam
+MADDE 1- (1) Bu Tebliğin amacı, 25/2/2023 tarihli ve 32115 sayılı Resmî Gazete’de yayımlanan İthalatta Haksız Rekabetin Önlenmesine İlişkin Tebliğ (Tebliğ No: 2023/7) ile Almanya Federal Cumhuriyeti ve İsveç Krallığı menşeli 2836.99.90.10.00 gümrük tarife istatistik pozisyonu altında kayıtlı “sodyum perkarbonatlar” ürünü ithalatına yönelik olarak başlatılan ve Ticaret Bakanlığı İthalat Genel Müdürlüğü tarafından yürütülen nihai gözden geçirme soruşturmasının tamamlanması neticesinde alınan kararın yürürlüğe konulmasıdır.
