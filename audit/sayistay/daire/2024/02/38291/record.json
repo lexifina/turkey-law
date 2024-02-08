@@ -1,0 +1,17 @@
+{
+  "kind": "decision",
+  "issuer": "Sayıştay 8. Dairesi",
+  "number": "306",
+  "decision_date": "2024-02-08",
+  "source_id": 38291,
+  "chamber": "8",
+  "ilam_number": "306",
+  "item_number": 1,
+  "public_body_type": "Düzenleyici ve Denetleyici Kurumlar",
+  "account_year": 2016,
+  "subject": "Personel Mevzuatı ile İlgili Kararlar",
+  "source": "https://www.sayistay.gov.tr/KararlarDaire/Detay/38291/",
+  "source_sha256": "87afe6f6edbb37ff9f666743c10e8cbc7cda2f6bb5f7b677111a0c54fd3a9689",
+  "text_status": "as-enacted",
+  "text_file": "metin.md"
+}
