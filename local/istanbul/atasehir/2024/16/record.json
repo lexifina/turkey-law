@@ -1,0 +1,22 @@
+{
+  "number": "16",
+  "number_as_published": "2024/016",
+  "year": 2024,
+  "title": "08.02.2024 tarihli ve 2024/016 sayılı karar",
+  "decision_date": "2024-02-08",
+  "source": "https://www.atasehir.bel.tr/kurumsal/liste/meclis-kararlari?page=22",
+  "official_document": "https://www.atasehir.bel.tr/kurumsal/meclis-kararlari/08022024-tarihli-ve-2024016-sayili-karar",
+  "source_sha256": "5748f1442f052e76d5fc0b79ebef33de9c4f3e96a0a8d52bf00c5806e35e9ced",
+  "issuer": "Ataşehir Belediye Meclisi",
+  "history_type": "metadata",
+  "text_status": "metadata-only: listing fields as published; complete decision text is in the linked official document, not transcribed",
+  "in_force": "2024-02-08",
+  "in_force_basis": "Decision date as printed in the official council listing: 08.02.2024; adoption date of the council decision; legal commencement not asserted",
+  "missing": [
+    "complete official decision text",
+    "official annexes"
+  ],
+  "law_text_complete": false,
+  "privacy_withheld": false,
+  "decision_page": "https://www.atasehir.bel.tr/kurumsal/meclis-kararlari/08022024-tarihli-ve-2024016-sayili-karar"
+}
