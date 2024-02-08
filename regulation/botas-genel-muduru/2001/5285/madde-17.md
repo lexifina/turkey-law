@@ -1,0 +1,4 @@
+Emri Yerine Getirme ve Kanunsuz Emir
+Madde 17 —(Değişik fıkra:RG-03/03/2002-24684) Personel, amirinin verdiği emirleri yerine getirmekle yükümlüdür. Amirin verdiği emri kanunlara aykırı görürse, yerine getirmeden aykırılığı emri verene bildirir. Amir emirde ısrar eder ve yazılı olarak bildirirse emri yerine getiren sorumlu olmaz. Sorumluluk emri verene aittir. Ancak, konusu suç teşkil eden emir hiçbir suretle yerine getirilmez. Yerine getiren kimse sorumluluktan kurtulamaz.
+Personel amirinden aldığı emri konusu suç olmadığı halde yanlış değerlendirip suç sayar ve emri yerine getirmezse amir gecikmenin zarar getirebileceği durumlarda hizmetin diğer bir görevli tarafından yapılmasını sağlar veya kendisi yapar.
+Konusu suç olan emir hiçbir suretle yerine getirilemez. Yerine getiren kimse sorumluluktan kurtulamaz.

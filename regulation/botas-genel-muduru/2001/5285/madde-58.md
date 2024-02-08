@@ -1,0 +1,3 @@
+Tedavi Yardımı
+Madde 58 — Personelin veya bakmakla yükümlü bulunduğu ana, baba, eş ve çocukların öncelikle ilgili sosyal güvenlik kuruluşu hastanelerinden ve/veya tedavi merkezlerinden yararlanması esastır. Ancak, bu hastane ve/veya tedavi merkezlerinde tedavi veya acil müdahalenin yapılamayacağının belgelendirilmesi halinde hastalanan personel ile bunların ana, baba, eş ve çocuklarının yurt içinde yapılacak tedavileri için Genel Müdürlükçe tedavi giderleri (Ek ibare: RG- 03/03/2002-24684) Genel Müdürün onayı ile Teşekkülce karşılanır.
+Yurt dışında yapılacak tedaviler için tedavi yardımının şekli ve miktarı her defasında Yönetim Kurulunca kararlaştırılır.

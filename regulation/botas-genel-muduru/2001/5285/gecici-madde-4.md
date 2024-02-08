@@ -1,0 +1,4 @@
+Geçici Madde 4- (Değişik:RG-25/07/2007-26593)
+Görev unvanları tablosunda yer almayan, mimar, amir, sivil savunma amiri, araştırmacı ile özel büro sekreteri unvanları kaldırılmıştır. Halen bu unvanlarda çalışanlara, makam ve sorumluluk tazminatları ile meslek tazminatları almakta oldukları oranlar üzerinden ödenmeye devam edilir.
+Bu şekilde şahsa bağlı amir, sivil savunma amiri, araştırmacı ile özel büro sekreteri kadrosunda görev yapmakta bulunanlardan, 4 yıllık yüksek okul mezunu olanların kadroları, yazılı olarak talep etmeleri halinde memur kadrosuna dönüştürülebilir.
+Bu Yönetmelik değişikliğinin yayımlandığı tarih itibariyle tahsil şartı tutmayan şef (istasyon ve saha şefi hariç), uzman, koruma ve güvenlik amiri ile memur unvanlı personelin mevcut unvanları, müktesepleri de korunarak şahsa bağlı kadro olarak devam edeceklerdir.

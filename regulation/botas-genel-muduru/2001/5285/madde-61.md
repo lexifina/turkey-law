@@ -1,0 +1,2 @@
+Doğal Afet Avansı
+Madde 61 — Deprem, toprak kayması ve sel gibi doğal afetlere uğrayan veya kendisine veyahut eşine ait evi yanan personele durumu ilgili makamlardan alınan belgelerle kanıtlamak kaydıyla yazılı müracaatı üzerine 5 aylık ücreti tutarını geçmemek kaydı ile Genel Müdürün takdir edeceği miktarda doğal afet avansı verilir. 2 aylık ücret tutarına kadar olan avanslar 12 eşit taksitte 5 aylık ücret tutarına kadar olan avanslar 24 eşit taksitte aylık istihkaklarından kesilir.

@@ -1,0 +1,1 @@
+Geçici Madde 3 — Makam ve sorumluluk tazminatları müktesep hak teşkil etmediğinden; Görev unvanları tablosundan çıkartılan unvanlar ile Makam ve Sorumluluk Tablosunda grubu değişenlere tazminatları yürürlük tarihini takip eden aybaşından itibaren yeni tabloya göre ödenecektir.

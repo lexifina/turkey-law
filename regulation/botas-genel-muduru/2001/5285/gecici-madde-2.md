@@ -1,0 +1,1 @@
+Geçici Madde 2 — Görev derecesi 1 ve 2 olan personel ile 3’üncü derecede halen çalışan yönetici personelden; bu Yönetmelikte belirtilen hizmet ve tahsil şartlarını bulundukları görev itibariyle taşımayanlar için, bulundukları görev unvanları müktesep hak teşkil eder.

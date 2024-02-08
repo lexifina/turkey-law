@@ -1,0 +1,3 @@
+İş Kazası Tazminatı
+Madde 63 — İş kazası sonucu ölüm ve maluliyet hallerinde primleri Teşekkülce ödenen "ferdi kaza ve iş kazası sigortası" karşılığında sigorta şirketince ödenecek para Genel Müdürlükçe belirlenecek esaslara göre malül kalan personele veya hak sahiplerine ödenir.
+Ayrıca, iş kazası sonucu meslekte kazanma gücünün çalışmasını imkansız kılacak şekilde azalması nedeniyle hizmet akdinin feshi halinde durumu Sosyal Sigortalar Kurumu Sağlık Tesisleri Sağlık Kurulu Raporu ile belgelendirilmek koşulu ile, personele bu Yönetmeliğin 53 üncü ve 62 nci maddelerine göre ödeme yapılır. Ölüm halinde bu ödemeler kanuni varislere ödenir.

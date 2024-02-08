@@ -1,0 +1,11 @@
+Atama, Naklen Tayin ve İntibak Esasları
+Madde 7 — (Başlığı ile Birlikte Değişik:RG-8/2/2024-32454)
+Personelin atanmaları bu Yönetmeliğin ekinde yer alan Tablo 1’deki esaslar dâhilinde yapılır. Ancak;
+a) Teşekkülde Genel Müdür ve Genel Müdür Yardımcısı olarak çalışmakta iken herhangi bir sebeple görevinden alınanların, almakta oldukları ücretle genel müdür başmüşaviri kadrosuna atamaları yapılır. Söz konusu personelin kademe ilerlemesi ve ücret zammı, itibari hizmet süresi dikkate alınarak, yeni görevinin derecesi üzerinden verilir.
+b) Bu Yönetmeliğin eki Tablo 1’de yer alan esaslar hariç olmak üzere; iç denetçi dışındaki görev derecesi 4 ve 5 olan meslek unvanlarına Teşekkül içinden hiçbir şekilde sınavsız atama yapılamaz. Yapılan sınavlara ilişkin usul ve esaslar Yönetim Kurulunca belirlenir.
+c) Görev derecesi 4 olan iç denetçi unvanına atanacaklarda 399 sayılı Kanun Hükmünde Kararnamede öngörülen şartlar aranır ve atamaları Yönetim Kurulu tarafından yapılır.
+ç) Kapsam içi statüde çalışan personelden bu Yönetmeliğin ekinde yer alan Tablo 1’deki tahsil şartı ile Teşekkül ilgili mevzuatında belirlenen şartları sağlayanlar sınav ile uzman yardımcısı, mühendis, avukat ve memur unvanına atanabilirler.
+d) Teşekkülde toplu iş sözleşmesine tabi olarak çalışmakta iken bu Yönetmelik kapsamındaki bir görev unvanına atanan personelin ücret intibakında; uygun lisans mezuniyetinden itibaren Teşekkülde geçen hizmetlerinin beş yılı dikkate alınır.
+e) Genel müdür başmüşaviri, müşavir, görev derecesi 1 olan başmüfettiş, görev derecesi 1 olan iç denetçi ve yönetici personelin görev değişikliğinde verilecek unvanlara terfian atama yapılmaz.
+f) Personelin naklen tayinine dair usul ve esaslar Yönetim Kurulunca belirlenir. Görev yeri değişen personel; uhdesinde bulunan demirbaş, ayniyat, para, kıymetli evrak veya sair kıymetler ile Teşekküle ait vesikaları amirlerince gösterilecek kimselere, böyle bir kimse gösterilmemiş ise bizzat amirlerine kurallarına uygun olarak devir ve teslim etmek zorundadır. Söz konusu devir ve teslim usulüne uygun olarak yapılmadıkça personel görevinden ayrılamaz.
+g) Personelin Tablo-1’deki görev derecesi 3 olan müşavir avukat ve iç denetçi meslek unvanlarına atanabilmesi için görev derecesi 4-A olan meslek unvanını haiz olması gerekir.

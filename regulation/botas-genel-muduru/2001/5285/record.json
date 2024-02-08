@@ -1,0 +1,93 @@
+{
+  "source_id": "7.5.5285",
+  "kind": "regulation",
+  "register_kind": "Kurum ve Kuruluş Yönetmelikleri",
+  "title": "BOTAŞ BORU HATLARI İLE PETROL TAŞIMA A.Ş. GENEL MÜDÜRLÜĞÜ KAPSAM DIŞI PERSONEL YÖNETMELİĞİ",
+  "number": "5285",
+  "issuer": "BOTAŞ Genel Müdürü",
+  "issuer_slug": "botas-genel-muduru",
+  "path": "regulation/botas-genel-muduru/2001/5285",
+  "source": "https://www.mevzuat.gov.tr/anasayfa/MevzuatFihristDetayIframe?MevzuatTur=7&MevzuatNo=5285&MevzuatTertip=5",
+  "source_sha256": "9973945c3ebc4eab515b0e2ab52de71a985aba36fc682c19e11de9e2c14c42fa",
+  "source_bytes": 186300,
+  "published": "2001-06-07",
+  "gazette": "24425",
+  "in_force": "2024-02-08",
+  "in_force_basis": "latest Resmî Gazete date printed in the source amendment notes/table (\"RG-8/2/2024\") for the current consolidated text",
+  "date_evidence": [
+    [
+      "2024-02-08",
+      "RG-8/2/2024",
+      "Resmî Gazete date printed in the source amendment note"
+    ],
+    [
+      "2009-12-18",
+      "R.G.-18/12/2009",
+      "Resmî Gazete date printed in the source amendment note"
+    ],
+    [
+      "2007-07-25",
+      "RG-25/07/2007",
+      "Resmî Gazete date printed in the source amendment note"
+    ],
+    [
+      "2005-01-27",
+      "RG-27/01/2005",
+      "Resmî Gazete date printed in the source amendment note"
+    ],
+    [
+      "2004-09-29",
+      "RG-29/9/2004",
+      "Resmî Gazete date printed in the source amendment note"
+    ],
+    [
+      "2004-09-29",
+      "RG-29/09/2004",
+      "Resmî Gazete date printed in the source amendment note"
+    ],
+    [
+      "2004-09-29",
+      "RG- 29/9/2004",
+      "Resmî Gazete date printed in the source amendment note"
+    ],
+    [
+      "2004-09-29",
+      "RG 29/9/2004",
+      "Resmî Gazete date printed in the source amendment note"
+    ],
+    [
+      "2002-09-27",
+      "RG-27/9/2002",
+      "Resmî Gazete date printed in the source amendment note"
+    ],
+    [
+      "2002-03-03",
+      "RG-3/3/2002",
+      "Resmî Gazete date printed in the source amendment note"
+    ],
+    [
+      "2002-03-03",
+      "RG-03/03/2002",
+      "Resmî Gazete date printed in the source amendment note"
+    ],
+    [
+      "2002-03-03",
+      "RG- 03/03/2002",
+      "Resmî Gazete date printed in the source amendment note"
+    ]
+  ],
+  "commencement_clauses": [
+    "Bu Yönetmelik yayımı tarihinde yürürlüğe girer"
+  ],
+  "history": "current-text",
+  "label": "oldest version available",
+  "checked_on": "2026-11-15",
+  "word_count": 7751,
+  "text_status": "current-consolidated",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  },
+  "completeness": "html-text-complete"
+}

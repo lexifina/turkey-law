@@ -1,0 +1,3 @@
+Akdin Feshinde Bildirim ve İhbar Öneli Ücreti
+Madde 42 —(Değişik:RG-27/01/2005-25709)
+Suçsuz çıkarmalarda; 6 aya kadar kıdem süresi olanlara 4 hafta, 6 aydan 18 aya kadar kıdem süresi olanlara 6 hafta, 18 aydan 3 yıla kadar kıdem süresi olanlara 12 hafta, 3 yıldan 5 yıla kadar kıdem süresi olanlara 16 hafta, 5 yıldan 10 yıla kadar kıdem süresi olanlara 18 hafta, 10 yıl ve fazlası kıdem süresi olanlara 19 hafta önceden ihbarda bulunulması şarttır. İhbar süreleri içinde personele her gün (Değişik ibare:RG-8/2/2024-32454) 2’şer saat iş arama izni verilmesi zorunludur. İhbar önellerine ait ücret kural olarak peşin ödenir.

@@ -1,0 +1,1 @@
+Geçici Madde 1 —(Değişik:RG-03/03/2002-24684) 49 uncu maddenin (b) bendi Yönetmeliğin yayımı tarihinden itibaren yürürlüğe girecek olup, 2001 yılının sonuna kadar son 3 yıl olumlu sicil almış ve herhangi bir şekilde terfi etmemiş olan personel bir üst dereceye terfi ettirilecektir.

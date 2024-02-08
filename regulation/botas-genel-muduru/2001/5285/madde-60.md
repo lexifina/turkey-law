@@ -1,0 +1,9 @@
+Kıdeme Teşvik Primi
+Madde 60 — Personele işlerine ve işyerlerine bağlılıklarını (Değişik ibare:RG-8/2/2024-32454) teşvik amacı ile Teşekkülde geçen; 3 yıl kıdem süresi olanlara 15 5 yıl kıdem süresi olanlara 40, 10 yıl kıdem süresi olanlara 55, 15 yıl kıdem süresi olanlara 70, 20 yıl kıdem süresi olanlara 80, 25 yıl kıdem süresi olanlara 90, 30 yıl kıdem süresi olanlara 100 günlük ücretleri tutarında, kıdeme teşvik primine esas gün sayısı baz alınarak her kıdem kademesi için bir defaya ve bulunduğu kıdem kademesine mahsus olmak üzere çıplak ücretleri tutarında kıdeme teşvik primi ödenir. Kıdeme Teşvik Primine hak kazanmış olanlara primleri kıdeme hak kazandıkları ayı takip eden aybaşında ödenir.
+Kıdeme teşvik priminin hesabında dikkate alınacak hususlar aşağıda gösterilmiştir.
+a) Teşekküldeki kıdem süreleri,
+b) Teşekkülün, TPAO’ndan devraldığı işyerlerinde fiilen çalışan personelin kıdem süreleri,
+c) Teşekküldeki görevinden muvazzaf askerliklerini yapmak üzere ayrılan personelin askerlik hizmetinin bitiminde başka işte çalışmadan tekrar Teşekkülde görev alması halinde askerde geçen süreler,
+d) Teşekkülün devamlılık arz eden işlerinde belirli süreli akitle çalıştırılmakta iken kadroya alınanların belirli süreli akitle çalıştığı süreler.
+e) (Ek : RG- 03/03/2002-24684) İş bu prime hak kazanılan tarihteki ücreti üzerinden ödeme yapılır. Ancak aynı personelin yıl içinde ücret zammına hak kazanması halinde hak kazandığı ücret üzerinden yapılacak fark kendisine ödenir.
+Kıdeme teşvik primine hak kazandıktan sonra kıdem tazminatı almayı gerektirecek bir nedenle iş akdi sona eren personele idrak edecekleri kıdem kademesi için ödenecek primin beşte biri son aldığı kıdem kademesinden sonraki hizmet süresinin her yılı için ödenir. Bu sürenin hesabında 6 aydan az süreler dikkate alınmaz 6 aydan fazla olan süreler yıla tamamlanır.

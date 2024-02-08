@@ -1,0 +1,2 @@
+Geçici Madde 8- (Ek:RG-8/2/2024-32454)
+Bu maddeyi ihdas eden Yönetmelikle yürürlüğe konulan Tablo-1’de yer almayan unvanlarda görev yapan personel mevcut unvanları ile bu maddenin yayımı tarihinde; önceki makam, sorumluluk ve meslek tazminatları üzerinden ödeme yapılarak görevlerine devam ederler. Bu personelin herhangi bir şekilde görev unvanlarından ayrılması halinde, bu unvanlar tekrar kullanılmaz.

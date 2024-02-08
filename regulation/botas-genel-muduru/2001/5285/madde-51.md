@@ -1,0 +1,7 @@
+Vekalet
+Madde 51 — a) Vekalet; Teşekkülü imzası ile taahhüt altına sokan veya bir idari tasarrufun yetki ve sorumluluğunu taşıyan, mali, nakdi ve ayni sorumluluğu olan görevlerde bulunan personelin, kanuni izin, geçici görev, disiplin cezası uygulaması veya (Değişik ibare:RG-8/2/2024-32454) iş yerinden uzaklaştırma nedenleriyle görevlerinden geçici olarak ayrılmaları halinde ya da boş olan bir kadroya Teşekkül içinden bir personel asli görevi ile ilişiği kesilmeksizin Genel Müdür tarafından vekil atanabilir.
+Görevin vekaleten yürütülmesi halinde görevin gerekleri ve nitelikleri değişmeyeceğinden vekalet görevi verileceklerin asilde aranan şartlara sahip olması şarttır.
+(Ek:RG-27/9/2002-24889)Ancak, vekaleten yürütülmesi gereken görev için asilde aranan şartları haiz personel yoksa vekaleten görevlendirme, nitelikleri asilde aranan şartlara en uygun olan personel arasından yapılır.
+Personel birden fazla göreve vekalet edemez. Vekalet süresi Genel Müdür tarafından belirlenir.
+b) Vekalet Ücreti; Personele vekalet ettiği görev için ödenmekte olan Makam ve Sorumluluk Tazminatı asli görevi için ödenen Makam ve Sorumluluk Tazminatından fazla ise aradaki fark vekalet ücreti olarak ödenir.
+Boş olan göreve vekalet eden personele bu göreve başladığı tarihten itibaren, geçici olarak görevden ayrılan personele vekalet eden personele, başladığı tarihi takip eden 30’uncu günden sonra, vekalet ücreti ödenir.

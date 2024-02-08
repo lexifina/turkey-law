@@ -1,0 +1,4 @@
+Maluliyet Yardımı
+Madde 62 — İş kazası ya da meslek hastalığı sonucu, meslekte kazanma gücünü Sosyal Sigortalar Kurumu Sağlık Kurulu raporu ile belgelendirilmek kaydıyla %10’dan az kaybetmiş olanlara, kaybedilen her bir %1 birim için Teşekkülce bir defaya mahsus olmak üzere 3 yevmiye ödenir.
+Bu yardım miktarlarını; gerektiğinde iki katına kadar artırmaya Genel Müdür yetkilidir.
+İş kazası yada meslek hastalığı sonucu, Sosyal Sigortalar Kurumunca çalışamaz raporu verilenler ile, çalışma gücünün en az 2/3’ünü yitirdiği Sosyal Sigortalar Kurumunca tespit edilenlere 6 aylık çıplak ücreti tutarında, herhangi bir sebeple 506 sayılı Sosyal Sigortalar Kanununa göre malül sayılanlara ise 4 aylık çıplak ücreti tutarında maluliyet yardımı yapılır. Bu yardım Yönetmelikte belirtilen hiçbir hakka karşılık mahsup edilemez.

@@ -1,0 +1,2 @@
+Askerlik İzni ve Ücreti
+Madde 33 — Muvazzaf askerlik hizmetini ifa için askere alınan personelin Teşekkül ile ilişiği kesilir. İhtiyat olarak silah altına alınanlar ise terhis edilinceye kadar izinli sayılır ve bunlara yalnız normal aylık ücretleri verilir. Ancak, silah altında herhangi bir nam altında ücret alıyorlarsa bu takdirde, oradan aldıkları rütbe aylığı ve diğer istihkaklar aylık istihkaklarından tenzil edilir.
