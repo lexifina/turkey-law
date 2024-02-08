@@ -1,0 +1,26 @@
+{
+  "kind": "norm",
+  "issuer": "Enerji Piyasası Düzenleme Kurumu",
+  "market": "petroleum",
+  "document_type": "board-decision",
+  "number": "12420",
+  "decision_date": "2024-02-08",
+  "title": "Körfez Marmara Akaryakıt Depolama Anonim Şirketi’nin; DEP/9819-1/43943 sayılı Depolama Lisansı kapsamında adresinde faaliyette bulunan depolama tesisine ilişkin depolama tarifesine ilişkin",
+  "resmi_gazete_date": "2024-02-10",
+  "resmi_gazete_number": "32456",
+  "categories": [
+    "Depolama Tarifesi"
+  ],
+  "source": "https://www.epdk.gov.tr/Detay/DownloadDocument?id=iApI7E6hTrg=",
+  "documents": [
+    "https://www.epdk.gov.tr/Detay/DownloadDocument?id=iApI7E6hTrg=",
+    "https://www.epdk.gov.tr/Detay/DownloadDocument?id=HEGW9wdKkH4="
+  ],
+  "source_sha256": "d63d6a6dbc8ec50acc47d1361fb14e33eaa4b1365687c85e81bc7906ba00f7c8",
+  "official_list": "https://www.epdk.gov.tr/Detay/Icerik/3-0-100/kurul-kararlari",
+  "official_list_leaf": 5140,
+  "text_status": "as-enacted",
+  "text_file": "metin.md",
+  "in_force": "2024-02-08",
+  "law_text_complete": true
+}
