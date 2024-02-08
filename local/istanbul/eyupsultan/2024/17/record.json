@@ -1,0 +1,22 @@
+{
+  "number": "17",
+  "number_as_published": "2024/17",
+  "year": 2024,
+  "title": "council decision",
+  "decision_date": "2024-02-08",
+  "source": "https://eyupsultan.bel.tr/tr/main/pages/2024-subat-ayi-meclis-kararlari/2506",
+  "official_document": "https://eyupsultan.bel.tr/tr/main/pages/2024-17/2510",
+  "source_sha256": "8a2ac3e7a4516288277b3c63fa1e129b41b2e311bdd27eb293c5dccd88a615f3",
+  "issuer": "Eyüpsultan Belediye Meclisi",
+  "history_type": "metadata",
+  "text_status": "metadata-only: subject appears to concern individual persons; official link only",
+  "in_force": "2024-02-08",
+  "in_force_basis": "Decision date as printed in the official council listing: 08.02.2024 (meeting date at the start of the decision page); adoption date of the council decision; legal commencement not asserted",
+  "missing": [
+    "complete official decision text",
+    "official annexes"
+  ],
+  "law_text_complete": false,
+  "privacy_withheld": true,
+  "decision_page_sha256": "cc7367a224f6fbcf64f1f10296f4c88cde94ba8ee9b3148c650d3b6e84737633"
+}
