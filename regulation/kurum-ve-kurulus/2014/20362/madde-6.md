@@ -1,0 +1,3 @@
+Görevde yükselme sınavına tabi olmadan atanma
+MADDE 6 – (1) Görevde yükselme sınavına tabi olmadan (Değişik ibare:RG-9/2/2024-32455) atanabilecek kadrolardan; müşavir ve başuzman kadrosuna, 657 sayılı Kanunun 68 inci maddesinin (B) bendinde aranan nitelikleri haiz olup, en az fakülte veya dört yıllık yüksekokul mezunu olanlardan (Değişik ibare:RG-9/2/2024-32455) Genel Müdürlükte 399 sayılı Kanun Hükmünde Kararnamenin ekinde yer alan 1 sayılı cetvelde belirtilen kadrolarda veya bu kadrolarla aynı ya da daha üst düzeydeki diğer kadrolarda çalışmış olanlar sınavsız atanabilirler.
+(2) (Ek:RG-9/2/2024-32455) İç denetçiler 399 sayılı Kanun Hükmünde Kararnamenin ek 4 üncü maddesi hükümlerine göre atanırlar.

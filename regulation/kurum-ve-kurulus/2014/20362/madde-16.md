@@ -1,0 +1,5 @@
+Unvan değişikliği sınavı
+MADDE 16 – (1) (Değişik:RG-6/10/2017-30202) Bu Yönetmelik kapsamındaki personelin, en az ortaöğretim düzeyinde mesleki veya teknik eğitim sonucu ihraz edilen ve bu Yönetmeliğin 5 inci maddesinin üçüncü fıkrasında belirtilen unvanlara ilişkin görevlere atanmaları, bu Yönetmelikte belirtilen usul ve esaslar çerçevesinde yapılacak unvan değişikliği sınavı sonundaki başarılarına göre gerçekleştirilir.
+(2) (Değişik:RG-9/2/2024-32455) Unvan değişikliği yazılı sınavları, Genel Müdürlükçe belirlenecek görev alanları ve atama yapılacak görevin niteliğine ilişkin konularda ÖSYM, Milli Eğitim Bakanlığı veya yükseköğretim kurumlarından birine yaptırılır ve bu sınavlara katılacaklarda, Genel Müdürlükte veya öğrenim durumları ile ilgisi bulunmayan görevlerde belirli süre hizmet yapmış olma şartı aranmaz. Unvan değişikliği sınavı kapsamındaki görevlere, sadece Genel Müdürlük personeli başvurabilir.
+(3) (Mülga:RG-6/10/2017-30202)
+(4) Unvan değişikliği sınavlarıyla ilgili iş ve işlemleri sınav kurulu yürütür.

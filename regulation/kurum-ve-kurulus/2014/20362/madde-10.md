@@ -1,0 +1,5 @@
+ÜÇÜNCÜ BÖLÜM
+Görevde Yükselme ve Unvan Değişikliği Sınavı Esasları
+Duyuru ve başvuru
+MADDE 10 – (1) Görevde yükselme suretiyle atama yapılacak kadro ve pozisyonlar yazılı sınavlardan (Değişik ibare:RG-6/10/2017-30202) en az otuz gün önce personele duyurulur. Başvuru süresi en az yedi iş günü olarak belirlenir. İlan edilen kadro ve pozisyonlar için belirlenen başvuru süresinin son günü itibariyle aranan nitelikleri taşıyan personel, başvuru şartlarını taşıdığı farklı unvanlı kadro veya pozisyonlardan sadece biri için duyuruda belirtilen şekilde başvuruda bulunabilir. Aylıksız izinde bulunanlar dahil olmak üzere, ilgili mevzuatı uyarınca verilen izinleri kullanmakta olanların da sınava katılmaları mümkündür. (Değişik cümle:RG-9/2/2024-32455) Diğer kurumların personeli ile adaylık veya deneme süresi içerisinde bulunanlar başvuruda bulunamazlar.
+(2) (Değişik:RG-9/2/2024-32455) Genel Müdürlüğün personel işlerinden sorumlu birimlerine yapılan başvurular incelenerek aranan şartları taşıyanlar Genel Müdürlüğün resmî internet sitesinde ilan edilir.
