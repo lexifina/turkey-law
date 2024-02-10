@@ -1,0 +1,46 @@
+{
+  "source_id": "7.5.15962",
+  "kind": "regulation",
+  "register_kind": "Kurum ve Kuruluş Yönetmelikleri",
+  "title": "GENEL YÖNETİM KAPSAMINDAKİ MAHALLİ İDARELER İLE BUNLARIN BAĞLI KURULUŞLARI VE İKTİSADİ TEŞEBBÜSLERİNİN YURTİÇİ PİYASALARDA YAPACAKLARI TAHVİL İHRAÇLARININ İZİN SÜRECİNE İLİŞKİN USUL VE ESASLARA DAİR YÖNETMELİK",
+  "number": "15962",
+  "issuer": "Hazine ve Maliye Bakanı",
+  "issuer_slug": "hazine-ve-maliye-bakani",
+  "path": "regulation/hazine-ve-maliye-bakani/2012/15962",
+  "source": "https://www.mevzuat.gov.tr/anasayfa/MevzuatFihristDetayIframe?MevzuatTur=7&MevzuatNo=15962&MevzuatTertip=5",
+  "source_sha256": "74ed1fe6c025422e9db2728a081872fafdddfe627ee425f1e55626e8f5e606a8",
+  "source_bytes": 28758,
+  "published": "2012-03-15",
+  "gazette": "28234",
+  "in_force": "2024-02-10",
+  "in_force_basis": "latest Resmî Gazete date printed in the source amendment notes/table (\"RG-10/2/2024\") for the current consolidated text",
+  "date_evidence": [
+    [
+      "2024-02-10",
+      "RG-10/2/2024",
+      "Resmî Gazete date printed in the source amendment note"
+    ],
+    [
+      "2024-02-10",
+      "10/2/2024",
+      "Resmî Gazete date in the source amendment table"
+    ]
+  ],
+  "commencement_clauses": [
+    "Bu Yönetmelik yayımı tarihinde yürürlüğe girer"
+  ],
+  "history": "current-text",
+  "label": "oldest version available",
+  "checked_on": "2026-11-15",
+  "word_count": 827,
+  "text_status": "current-consolidated",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  },
+  "source_links": [
+    "7.5.15962-ek.pdf"
+  ],
+  "completeness": "html-text-complete; linked annexes not fetched"
+}

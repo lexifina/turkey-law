@@ -1,0 +1,15 @@
+İKİNCİ BÖLÜM
+Genel Hükümler
+İzin verilirken uygulanacak usul ve esaslar
+MADDE 4 – (1) Bu Yönetmelik kapsamında yurtiçi piyasalarda yapılacak tahvil ihraçları (Değişik ibare:RG-10/2/2024-32456) Bakanlığın iznine tabidir. (Değişik ibare:RG-10/2/2024-32456) Bakanlıkça izin verilmesi Hazine garantisi sağlandığı anlamına gelmez.
+(2) Başvurunun yapılacağı tarih itibarıyla (Değişik ibare:RG-10/2/2024-32456) Bakanlığa vadesi gelmiş yükümlülüklerinden ödenmemiş borcu bulunan ihraççı başvuruda bulunamaz.
+(3) Sermaye Piyasası Kuruluna başvuru yapılmadan önce İhraççı söz konusu izin için (Değişik ibare:RG-10/2/2024-32456) Bakanlığa müracaat eder.
+(4) İhraççı (Değişik ibare:RG-10/2/2024-32456) Bakanlığa izin başvurusunu yazılı olarak yapar. İzin başvurusunda aşağıda sıralanan bilgi ve belgelerin (Değişik ibare:RG-10/2/2024-32456) Bakanlığa ibraz edilmesi zorunludur.
+a) Tahvilin ihraç gerekçesi,
+b) Ek-1’de yer alan Tahvil İzin Başvurusu Formu,
+c) Büyükşehir belediyeleri, belediyeler, bağlı kuruluşları ve bunların sermayesinin yüzde ellisinden fazlasına sahip oldukları şirketler için izin başvurusunun yapıldığı tarih itibarıyla 3/7/2005 tarihli ve 5393 sayılı Belediye Kanununun 68 inci maddesinde öngörülen borç stoku düzeyine ilişkin bilgiler.
+(5) (Değişik ibare:RG-10/2/2024-32456) Bakanlık dördüncü fıkrada yer alan bilgi ve belgelerin dışında gerekli gördüğü taktirde ihraççıdan uygun göreceği diğer bilgi ve belgeleri talep edebilir.
+(6) (Değişik ibare:RG-10/2/2024-32456) Bakanlık ihraççının talebini kendi görev alanı ile sınırlı olarak, Hazine Finansman Programı ile dördüncü ve beşinci fıkralar kapsamında sağlanan bilgi ve belgeler dikkate alınarak değerlendirir. Sermaye piyasası mevzuatı hükümleri saklıdır.
+(7) (Değişik:RG-10/2/2024-32456) Bu Yönetmelik kapsamında tahvil ihracı yalnızca yıllık kamu yatırım programındaki projelerin finansmanı için yapılabilir. Projenin yıllık kamu yatırım programı ile ilişkisi kurulduktan sonra Bakanlığa izin başvurusunda bulunulabilir. Bakanlık tarafından Strateji ve Bütçe Başkanlığından projenin yıllık kamu yatırım programındaki yeri ve finansmanının tahvil ihracı ile gerçekleştirilmesine ilişkin görüş alınır. Bakanlıkça verilen izin tutarı, yıllık kamu yatırım programındaki proje tutarını geçemez. İhraççının Bakanlıkça verilen izne istinaden yurtiçi piyasalarda ihraç edeceği nominal tutar, belirlenen izin tutarını aşamaz.
+(8) İhraççı (Değişik ibare:RG-10/2/2024-32456) Bakanlık tarafından iznin verildiği tarihten itibaren bir yıllık süre içerisinde tahvil ihracını gerçekleştirmekle yükümlüdür. İhracın bu süre içinde gerçekleştirilmemesi halinde ihraççı bu Yönetmelik kapsamında yeniden başvuruda bulunmak zorundadır.
+(9) (Ek:RG-10/2/2024-32456) Bu Yönetmelik kapsamında yapılacak tahvil ihraçlarında 5393 sayılı Kanunun 68 inci maddesinde öngörülen borç stoku limitleri içinde kalınması esastır. Bakanlık tarafından Çevre, Şehircilik ve İklim Değişikliği Bakanlığından ihraççının borç stoku limitlerini aşıp aşmadığına ilişkin görüş alınır.

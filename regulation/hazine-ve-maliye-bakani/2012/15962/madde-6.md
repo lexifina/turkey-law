@@ -1,0 +1,3 @@
+Sorumluluk
+MADDE 6 – (1) (Değişik ibare:RG-10/2/2024-32456) Bakanlık tarafından verilen izne istinaden ihraç edilen tahvilin kullanımı, bütçeleştirilmesi ve muhasebeleştirilmesinden ve bu tahvil ile finanse edilecek yatırımlar kapsamındaki iş ve işlemlerden ilgili ihraççı sorumludur. (Değişik ibare:RG-10/2/2024-32456) Bakanlığın yapacağı değerlendirmeler ihraççı tarafından ibraz edilen bilgi ve belgelerle sınırlı olup, söz konusu bilgi ve belgelerin temini ve doğruluğundan ihraççı sorumludur.
+(2) Bu Yönetmelik kapsamında tahvil ihracı için izin isteyen ihraççının talebi değerlendirilirken ihraççının önceki tahvil ihracı/ihraçlarında bu Yönetmelik hükümlerine uyum şartı aranır.

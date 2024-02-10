@@ -1,0 +1,2 @@
+İdari yaptırım
+MADDE 7 – (1) Bu Yönetmelik kapsamında yer almasına rağmen (Değişik ibare:RG-10/2/2024-32456) Bakanlıktan izin alınmaksızın tahvil ihracının gerçekleştirilmesi durumunda 6 ncı maddenin birinci fıkrasında sayılanlar hakkında, 4749 sayılı Kamu Finansmanı ve Borç Yönetiminin Düzenlenmesi Hakkında Kanunun 14/A maddesinin birinci fıkrasının (a) bendi uyarınca idari para cezası uygulanır.
