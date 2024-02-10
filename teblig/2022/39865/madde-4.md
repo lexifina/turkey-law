@@ -1,0 +1,16 @@
+Tanımlar
+MADDE 4- (1) Bu Tebliğde geçen;
+a) Ayran: Yoğurda su ilave edilerek veya bileşimi ayarlanan süte spesifik starter kültür olarak Streptococcus thermophilus ve Lactobacillus delbrueckii subsp. bulgaricus’un birlikte ilave edilmesiyle hazırlanan fermente süt ürününü,
+b) Çeşni maddesi: Meyve/sebze ile bunların suları, püreleri, pulpları, bunlardan üretilen preparatlar ve konserveler ile tahıllar, bal, çikolata, sert kabuklu meyveler/yemişler, kahve, baharat ve benzeri gıdaları,
+c) Çeşnili/aromalı fermente süt ürünü: Bu Tebliğ kapsamında yer alan ürünü veya ürünleri ve ağırlıkça en fazla %50’si kadar çeşni maddesi ve/veya aroma verici içeren kompozit fermente süt ürününü,
+ç) Fermentasyon sonrası ısıl işlem görmüş fermente süt ürünü: Fermentasyonu ısıl işlemle durdurulmuş ve pıhtısı kırılmış süt ürününü,
+d) Fermente süt ürünü: Sütün uygun mikroorganizmalar tarafından fermentasyonu ile pH değerinin koagülasyona yol açacak veya açmayacak şekilde düşürülmesi sonucu oluşan ve içermesi gereken mikroorganizmaları yeterli sayıda canlı ve aktif olarak raf ömrü sonuna kadar bulunduran süt ürününü,
+e) Kefir: Fermentasyonda, kefir danesine özgü karakteristik mikroorganizmalar olan Lactobacillus kefiri, Lactobacillus kefiranofaciens, Lactobacillus kefirgranum’dan en az ikisini, laktozu fermente eden mayalardan Kluyveromyces marxianus ve etmeyen mayalardan Saccharomyces spp.’yi zorunlu olarak içeren bunun yanında Lactobacillus, Leuconostoc, Lactococcus, Acetobacter ve benzeri bakteri cinslerine ait türler ile farklı maya türlerini de bulundurabilen kefir danelerinin veya starter kültürlerin kullanıldığı fermente süt ürününü,
+f) Kımız: Fermentasyonda spesifik olarak Lactobacillus delbrueckii subsp. bulgaricus ve Kluyveromyces marxianus kültürlerinin kullanıldığı fermente süt ürününü,
+g) Konsantre fermente süt ürünleri: Süt protein oranı fermentasyondan önce veya sonra en az %5,6 (m/m) oranına yükseltilmiş ve son tüketim tarihine kadar yeterli sayıda canlı ve aktif starter bakteri bulunduran fermente süt ürününü,
+ğ) Su: 17/2/2005 tarihli ve 25730 sayılı Resmî Gazete’de yayımlanan İnsani Tüketim Amaçlı Sular Hakkında Yönetmelikte yer alan özelliklere uygun insan tüketimi amaçlı suları,
+h) Süzme yoğurt: Sütün protein oranı standardize edilerek veya yoğurdun serumunun uygun bir teknoloji veya yöntem ile uzaklaştırılması sonucu protein içeriği en az kütlece %8’e (m/m) ayarlanan ve son tüketim tarihine kadar yeterli sayıda canlı ve aktif starter bakteri bulunduran fermente süt ürününü,
+ı) Toz/kurutulmuş fermente süt ürünü: Yağsız süte, starter kültür eklenerek belirlenen bir asitliğe ulaşması sağlandıktan sonra oluşan sıvı fermente sütün, kendine has kurutma teknolojileri kullanılarak kurutulması sonucu elde edilen, nem oranı %5’in altında olan ürünü,
+i) Yabancı madde: Bu Tebliğ kapsamındaki ürünlerin üretiminde kullanılan bileşenler dışındaki bulunabilecek her türlü maddeyi,
+j) Yoğurt: Fermentasyonda spesifik starter kültür olarak Streptococcus thermophilus ve Lactobacillus delbrueckii subsp. bulgaricus'un birlikte kullanıldığı, inkübasyon sonrasında pıhtısı karıştırılarak kırılmamış (set) ya da kırılmış (stirred) formda elde edilen ve son tüketim tarihinde yeterli sayıda, canlı ve aktif starter bakteri bulunduran fermente süt ürününü,
+ifade eder.

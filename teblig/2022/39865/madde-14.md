@@ -1,0 +1,15 @@
+Etiketleme
+MADDE 14- (1) Bu Tebliğ kapsamında yer alan ürünlerin etiketlenmesi hakkında 26/1/2017 tarihli ve 29960 mükerrer sayılı Resmî Gazete’de yayımlanan Türk Gıda Kodeksi Gıda Etiketleme ve Tüketicileri Bilgilendirme Yönetmeliği hükümleri ile birlikte aşağıdaki kurallar uygulanır:
+a) Çeşnili/aromalı fermente süt ürünlerine eklenen çeşni/aroma maddesinin adı gıdanın adı ile birlikte aynı renkte, aynı yazı karakterinde ve aynı punto büyüklüğünde kullanılır.
+b) Yoğurt ve ayran, yağ içeriği yönünden Ek-1’de yer alan sınıfa göre adlandırılır.
+c) Yoğurt ve ayran hariç diğer fermente süt ürünlerinde yağlılık sınıflandırması yapılmaz, ancak yağ içeriği gıdanın adı ile birlikte “%.... yağlı” şeklinde etikette belirtilir.
+ç) Bu Tebliğ kapsamında yer alan ürünlerin içerdiği süt yağı miktarı, kütle veya hacmin yüzdesi olarak etiketin temel görüş alanında kolay görülebilir yer ve boyutta belirtilir.
+d) Süt yağı içeriği %1,5’ten daha düşük olan yoğurtlar ve süt yağı içeriği %0,8’den daha düşük olan ayranlar için “yağı azaltılmış” veya benzeri ifadeler kullanılabilir. Ancak süt yağı içeriği yağsız ayran ve yağsız yoğurt sınıfındaki ürünler Ek-1’deki gibi ifade edilir.
+e) Bu Tebliğ kapsamında yer alan ürünlerin içerdiği protein miktarı, kütlece “%….” olarak etiketin temel görüş alanında kolay görülebilir yer ve boyutta belirtilmelidir.
+f) Yoğurt üretiminde uygulanan homojenizasyon, kaymak oluşturma gibi teknolojik işlemler ürün adı ile birlikte belirtilir.
+g) Bu Tebliğ kapsamında yer alan ve tek bir hayvan türüne ait sütün yüzde yüz kullanıldığı ürünlerin üretiminde, sütün ait olduğu hayvan türü ürün adı ile birlikte kullanılabilir. Ancak hammadde olarak farklı hayvan türlerinin sütlerinden veya süt ürünlerinden üretilen ürünlerin etiketinde bir türe aitmiş gibi farklı renk, farklı punto, farklı yazı stili gibi tüketiciyi yanıltacak şekilde ifade kullanılmaz.
+ğ) Bu Tebliğ kapsamında yer alan ürünlerin üretiminde farklı hayvan türlerine ait sütlerin karıştırılarak kullanılması durumunda kullanılan sütün elde edildiği türlerin adları, ürün adının yanında aynı renk ve puntoda “koyun, keçi ve inek sütlerinden üretilmiştir” gibi ifadelerle belirtilir. Ancak bu ürünlerin etiketinde inek, koyun, keçi gibi türlere ait görsellere yer verilmez.
+h) Bu Tebliğ kapsamında yer alan ürünlerin üretiminde, 4 üncü maddedeki ürün tanımlarının içeriğinde yer alan starter kültürlere ilave olarak diğer starter kültürler ve/veya yan kültürler kullanıldığında etiketin içindekiler/bileşenler listesinde belirtilir.
+ı) Coğrafi işaret olarak tescil edilmiş fermente süt ürünleri, yatay gıda kodeksi hükümlerine aykırı olmamak koşulu ile coğrafi işaret tescilinde belirtilen özelliklere göre piyasaya arz edilir.
+i) Yöresel/ülkesel adları ile bilinen fermente süt ürünleri için bu Tebliğde ve yatay gıda kodeksinde hüküm bulunmayan hususlarda, öncelikle ilgili ulusal standart, ulusal standardın bulunmaması durumunda ise uluslararası standartlar dikkate alınır.
+j) Bu Tebliğ kapsamındaki ürünlerin etiketinde, “köy”, “ev”, “geleneksel, çiftlik”, “%100” gibi ifadelere yer verilmez.
