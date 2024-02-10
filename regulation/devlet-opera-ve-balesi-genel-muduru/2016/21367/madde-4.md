@@ -1,0 +1,20 @@
+Tanımlar
+MADDE 4 – (1) Bu Yönetmelikte geçen;
+a) (Değişik:RG-10/2/2024-32456) Alt görev: 1 sayılı Cumhurbaşkanlığı Teşkilatı Hakkında Cumhurbaşkanlığı Kararnamesinin 509 uncu maddesinde yer alan hiyerarşik kademeler esas alınarak belirlenen daha alt düzeydeki görevleri,
+b) Alt hizmet grupları: Aynı düzeydeki unvanların gruplandırılmasını,
+c) Aynı düzey görev: Hiyerarşi, görev, yetki ve sorumluluk açısından aynı grupta ya da grup içinde alt gruplar olması halinde aynı alt grupta gösterilen görevleri,
+ç) Genel Müdür: Devlet Opera ve Balesi Genel Müdürünü,
+d) Genel Müdürlük: Devlet Opera ve Balesi Genel Müdürlüğünü,
+e) Genel Müdürlük Teşkilatı: Devlet Opera ve Balesi Genel Müdürlüğü merkez ve taşra teşkilatını,
+f) Görev unvanı: 5 inci maddede sayılan hizmet gruplarında belirtilen unvanları/kadroları,
+g) Görevde yükselme: 657 sayılı Devlet Memurları Kanuna tabi görevlerden 5 inci maddede sayılan ve görevde yükselmeye tabi olan görevlere aynı veya başka hizmet sınıflarından yapılacak görevde yükselme niteliğindeki atamaları,
+ğ) (Değişik:RG-10/2/2024-32456) Görevde yükselme sınavı: Bu Yönetmelik hükümlerine göre görevde yükselme suretiyle yapılacak atamalarda yapılması gereken yazılı ve sözlü sınavı,
+h) Hizmet grupları: Hiyerarşi, görev, yetki ve sorumluluk açısından benzer veya aynı düzeydeki unvanların gruplandırılmasını,
+ı) Hizmet süresi: Aylıksız izinli geçen süreler hariç, muvazzaf askerlik süresi dahil olmak üzere, 657 sayılı Devlet Memurları Kanununun 68 inci maddesinin (B) bendinde sayılan süreleri,
+i) İş günü: Ulusal bayram ile genel ve hafta sonu tatil günleri hariç, diğer günleri,
+j) Personel: Genel Müdürlük teşkilatında 657 sayılı Devlet Memurları Kanununa tabi memur statüsünde çalışanları,
+k) Unvan değişikliği: En az ortaöğretim düzeyinde mesleki veya teknik eğitim sonucu ihraz edilen unvanlara ilişkin görevlere yapılan atamaları,
+l) (Değişik:RG-10/2/2024-32456) Unvan değişikliği sınavı: En az ortaöğretim düzeyinde meslekî veya teknik eğitim sonucu ihraz edilen unvanlara ilişkin görevlere atanabilmek için yapılan yazılı ve sözlü sınavı,
+m) (Değişik:RG-10/2/2024-32456) Üst görev: 1 sayılı Cumhurbaşkanlığı Kararnamesinin 509 uncu maddesinde yer alan hiyerarşik kademeler esas alınarak belirlenen daha üst düzeydeki görevleri,
+n) (Ek:RG-10/2/2024-32456) YDS/e-YDS: 4/1/2013 tarihli ve 28518 sayılı Resmî Gazete’de yayımlanan Yabancı Dil Bilgisi Seviye Belirleme Usul ve Esasları Hakkında Yönetmelik uyarınca yapılan Yabancı Dil Bilgisi Seviye Tespit Sınavını/Elektronik Yabancı Dil Sınavını,
+ifade eder.

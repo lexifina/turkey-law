@@ -1,0 +1,3 @@
+Başvuruların değerlendirilmesi
+MADDE 11 – (1) Birimler tarafından gönderilen başvuru formları Personel ve Eğitim Dairesi Başkanlığınca incelenir. İnceleme sonucu, aranan şartları taşıyanlara ilişkin liste Genel Müdürlük internet sitesinde ilan edilir.
+(2) Başvuruları öngörülen şartlara uygun olmaması nedeniyle Genel Müdürlük internet sitesinde ilan edilen listede yer almayanlar listenin ilan edildiği tarihten itibaren beş iş günü içinde görevli oldukları birimleri aracılığıyla Personel ve Eğitim Dairesi Başkanlığına yazılı olarak itirazda bulunabilirler. İtirazlar adı geçen Başkanlıkça beş iş günü içinde incelenir ve sonucu ilgililere görevli oldukları birimleri aracılığıyla yazılı olarak bildirilir.

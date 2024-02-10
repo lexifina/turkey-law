@@ -1,0 +1,3 @@
+Sınav sonuçlarına itiraz
+MADDE 17 – (1) Sınavlara katılanlar, sınav sonuçlarının Genel Müdürlük internet sitesinde ilan edildiği tarihten itibaren beş iş günü içinde sınav kuruluna itiraz edebilirler. Personel ve Eğitim Dairesi Başkanlığına yazılı olarak yapılacak itirazlar sınav kurulu tarafından (Ek ibare:RG-10/2/2024-32456) incelenir veya sınavı yapan kuruma incelettirilerek en geç on gün içerisinde karara bağlanır ve sonuç Personel ve Eğitim Dairesi Başkanlığınca ilgililere yazılı olarak bildirilir.
+(2) Yapılan sınavlarda hatalı sorulara tekabül eden puanlar eşit şekilde diğer sorulara dağıtılır.

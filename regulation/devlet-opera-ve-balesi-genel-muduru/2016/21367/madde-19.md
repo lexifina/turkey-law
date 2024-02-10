@@ -1,0 +1,8 @@
+Atama (Değişik başlık:RG-10/2/2024-32456)
+MADDE 19 – (1) Atanmaya hak kazanan personel, başarı sıralaması listesinin kesinleşmesini müteakip en yüksek puandan başlamak üzere belirlenen başarı sıralamasındaki başarı puanlarına göre üç ay içinde atanır. Genel Müdürlükçe atanmaya hak kazanan personelden tercih alınması halinde başarı sıralaması esas alınarak personelin tercihlerine göre atama yapılır. Tercihlere ilişkin hususlar başarı sıralaması listesinin ilan metninde belirtilir.
+(2) Duyurulan kadrolardan;
+a) Atanma şartlarını taşımadıkları için sınavların geçersiz sayılması veya bu sebeple atamaların iptal edilmesi, atanılan göreve geçerli bir mazeret olmaksızın süresi içinde başlanmaması ya da atanma hakkından vazgeçilmesi,
+b) Emeklilik, ölüm, memurluktan çekilme veya çıkarılma, başka unvanlı kadrolara ya da başka bir kuruma naklen atanma,
+sebepleriyle boş kalanlara, boşalanlara başarı sıralamasının kesinleştiği tarihten itibaren altı aylık süreyi aşmamak üzere aynı unvanlı kadrolar için yapılacak müteakip sınava ilişkin duyuruya kadar, 16 ncı maddeye göre Genel Müdürlükçe belirlenmesi halinde yedekler arasından başarı sıralamasına göre atama yapılabilir.
+(3) Aylıksız izinde olanlar dahil, atanmaya hak kazandıkları kadroya mevzuata uygun süre içinde başlamayanların söz konusu atanma hakları sona erer.
+(4) Sınavlara herhangi bir sebeple katılmayanlar ile başarısız olan veya yedeklerden altı ay içindeki müteakip sınava ilişkin duyuruya kadar atanmamış olanlar ya da atanma haklarından herhangi bir sebeple feragat edenler, aynı unvanlı kadrolara yapılacak atamalar için bu Yönetmelikte öngörülen bütün usul ve esaslara tabidir.
