@@ -1,0 +1,183 @@
+11 Şubat 2024 PAZAR
+Resmî Gazete
+Sayı : 32457
+YÖNETMELİK
+Enerji ve Tabii Kaynaklar Bakanlığından:
+RÜZGÂR GÜCÜ
+İZLEME VE TAHMİN MERKEZİNE
+BAĞLANTI YÖNETMELİĞİ
+BİRİNCİ BÖLÜM
+Başlangıç Hükümleri
+Amaç
+MADDE 1- (1) Bu Yönetmeliğin amacı, rüzgâr enerjisi
+santrallerinin Rüzgâr Gücü İzleme ve Tahmin Merkezine bağlanmalarına ve
+bağlantı şartlarına ilişkin usul ve esasları düzenlemektir.
+Kapsam
+MADDE 2- (1) Bu Yönetmelik, rüzgâr enerjisi santrallerinin
+Rüzgâr Gücü İzleme ve Tahmin Merkezine bağlantısının gerçekleştirilmesi,
+bağlantı için yerine getirilmesi gereken yükümlülükleri, santrallerde
+üretilecek elektriksel güç tahminlerinin yapılması ve santrallerin
+elektriksel üretimlerinin izlenmesine yönelik usul ve esasları kapsar.
+Dayanak
+MADDE 3- (1) Bu Yönetmelik, 1 sayılı Cumhurbaşkanlığı
+Teşkilatı Hakkında Cumhurbaşkanlığı Kararnamesinin 166 ncı maddesinin
+birinci fıkrasının (b) bendi ve 508 inci maddesine dayanılarak
+hazırlanmıştır.
+Tanımlar
+ve kısaltmalar
+MADDE 4- (1) Bu Yönetmelikte geçen;
+a) Bakanlık: Enerji ve Tabii Kaynaklar Bakanlığını,
+b) Elektronik posta: RİTM-İA’da belirtilen
+elektronik posta adresini,
+c) GKÇ: RES ile ilişkilendirilen ve elektriksel
+parametreleri ölçen güç kalite çözümleyici cihazını,
+ç) RES: Ana kaynağı rüzgâr enerjisi olan enerji
+üretim santralini,
+d) RİTM: Rüzgâr Gücü İzleme ve Tahmin Merkezini,
+e) RİTM bağlantı belgesi: TEİAŞ tarafından
+düzenlenen ve kabul başvurusu yapılan rüzgâr türbini/türbinleri için RİTM’e
+bağlantı işlemlerinin tamamlandığını gösteren belgeyi,
+f) RİTM-İA: www.ritm.teias.gov.tr adresini,
+g) Santral bilgi formu: RİTM-İA’da yer alan
+formatta ve elektronik ortamda düzenlenen formu,
+ğ) SCADA: Yönetsel kontrol ve veri edinimi
+sistemini,
+h) TEİAŞ: Türkiye Elektrik İletim Anonim Şirketini,
+ı) Yardımcı kaynak: Ana kaynak dışındaki diğer
+elektrik üretim ünitelerini,
+ifade eder.
+İKİNCİ BÖLÜM
+RİTM Bağlantısına Esas Genel Hükümler
+RİTM
+bağlantısının yapılması
+MADDE 5- (1) Elektriksel kurulu gücü 10 MWe ve üzerinde olan
+lisanslı/lisanssız RES’ler için RİTM bağlantı belgesinin temin edilmesi
+zorunludur.
+(2) Üretim lisansında elektriksel kurulu gücü 10
+MWe’nin altında olan RES için, santral sahibi tarafından talep edilmesi
+halinde bu Yönetmelik hükümleri kapsamında RİTM bağlantı belgesi
+düzenlenir.
+Bağlantı
+başvurusunun yapılması
+MADDE 6- (1) RES’ler için 19/2/2020
+tarihli ve 31044 sayılı Resmî Gazete’de yayımlanan Elektrik Üretim ve
+Elektrik Depolama Tesisleri Kabul Yönetmeliği esaslarına göre Bakanlığa
+yapılacak kabul başvurusu doğrultusunda, kabule esas olan rüzgâr
+türbini/türbinleri ve/veya yardımcı kaynak üniteleri için RİTM bağlantı
+belgesi düzenlenir.
+(2) RİTM bağlantı belgesinin düzenlenebilmesi için
+RES sahibi tarafından öncelikle RİTM-İA’da belirtilen teknik özeliklere
+göre SCADA ve GKÇ alt yapısı aktif hale getirilir. Bakanlığa yapılan kabul
+başvurusunu müteakip, RES için düzenlenecek santral bilgi formu elektronik
+posta adresine gönderilir.
+(3) Santral bilgi formunda eksik ve/veya hata
+bulunmaması ve santrale ait SCADA ile GKÇ verilerinin RİTM’e sorunsuz bir
+şekilde ulaştığının anlaşılması durumunda, rüzgar
+türbini/türbinleri ve/veya yardımcı kaynak üretim üniteleri için RİTM-İA’da
+yayımlanan RİTM bağlantı belgesi, TEİAŞ tarafından düzenlenerek ilgili RES
+sahibine gönderilir.
+Kapasite
+artırımı gerçekleştirecek RES’ler
+MADDE 7- (1) RİTM’e bağlandıktan sonra santral kabul işlemi
+gerekmeksizin güç artışı gerçekleştirecek RES’ler için bu konudaki lisans
+tadili işlemleri tamamlandıktan sonra santral bilgi formu elektronik posta
+adresine gönderilir.
+RİTM’e
+bağlanacak santrallerin kuracağı alt yapı
+MADDE 8- (1) RİTM’e bağlanacak RES sahibi, bağlantı
+başvurusu öncesinde 28/5/2014 tarihli ve 29013 mükerrer
+sayılı Resmî Gazete’de yayımlanan Elektrik Şebeke Yönetmeliğine uygun GKÇ
+sistemini santraline tesis eder.
+(2) TEİAŞ tarafından SCADA ve GKÇ teknik özellikleri
+RİTM-İA’da yayımlanır.
+(3) RİTM’e bağlanacak RES sahibi; bağlantı
+başvurusu öncesinde SCADA sistemini RİTM-İA’da yayımlanan teknik
+özelliklere uygun hale getirir.
+(4) TEİAŞ tarafından kurulması istenilen alt
+yapının teknik özelliklerinde TEİAŞ’ın değişiklik yapma hakkı saklıdır.
+Yapılan değişiklikler ve güncellemeler RİTM-İA’da yayımlanır. Santral için
+gerekli alt yapının kurulması veya yenilenmesiyle ilgili bütün harcamalar
+RES sahibi tarafından karşılanır.
+Tahmin
+hizmeti için uygulanacak usul ve esaslar
+MADDE 9- (1) RİTM bağlantısı gerçekleştirilmiş RES’ler için
+istenildiği zaman tahmin hizmeti talep edilebilir. Tahmin hizmeti, santral
+bilgi formunun elektronik posta adresine gönderilmesi ile talep edilir.
+(2) Tahmin hizmeti talebinde bulunulan RES’ler için
+RİTM’de güvenilir ve yeterli sürede SCADA ve/veya GKÇ verisinin
+depolanmasını müteakip TEİAŞ tarafından tahmin hizmet bedelinin ödenmesi
+için ilgili santral sahibi bilgilendirilir.
+(3) Tahmin hizmet bedelinin RİTM-İA’da yer alan
+banka hesap numarasına yatırıldığını gösterir belgenin elektronik posta
+adresine gönderilmesi durumunda, tahmin verileri günlük olarak gönderilir.
+(4) Tahmin hizmeti bedeli cari yıl bazında
+uygulanır. Yıllık hizmet bedeli, her yıl ekim ayı içerisinde RİTM-İA’da
+yayımlanır.
+(5) Tahmin hizmetinin bir sonraki yıl için
+devamının talep edilmesi halinde, belirlenen tahmin hizmet bedelinin ilgili
+yılın 1 Şubat tarihine kadar yatırıldığını gösterir belgenin elektronik
+posta adresine gönderilmesi gerekir. Aksi halde tahmin hizmeti
+sonlandırılır.
+(6) RES sahibi istediği zaman tahmin hizmetine
+erişimini sonlandırmayı talep edebilir. Bu durumda kendisinden alınan
+tahmin hizmet bedeli hiçbir koşulda geri ödenmez.
+ÜÇÜNCÜ BÖLÜM
+Çeşitli ve Son Hükümler
+Veri
+paylaşımı ve gizlilik
+MADDE 10-
+(1) TEİAŞ tarafından RES’lerden
+alınan SCADA ve GKÇ verileri ile üretilen tahmin verilerinin gizliliği ve
+güvenliği sağlanır. Bu veriler ilgili santral sahibinin onayı alınmadan,
+TEİAŞ tarafından uygun bulanan kamu kurum ve kuruluşları dışında üçüncü kişilerle
+paylaşılamaz.
+(2) Kamu kurum ve kuruluşları TEİAŞ ile yapılacak
+RİTM-İA’da örneği yayımlanan protokol ile RİTM izleme ve tahmin verilerine
+erişim sağlayabilirler. Erişim ile ilgili hususlar protokol ile belirlenir.
+(3) Kamu kurum ve kuruluşları, paylaşılan verileri
+sadece kendi görev, yetki ve sorumlulukları kapsamında kullanır ve
+paylaşılan verilerin gizliliği ile güvenliğinden sorumludur.
+RİTM
+bağlantı belgesi düzenlenen santralin yükümlülükleri
+MADDE 11-
+(1) RİTM bağlantı belgesi
+düzenlenen santral aşağıdaki hususları yerine getirmekle yükümlüdür:
+a) SCADA ve GKÇ verilerini, RİTM-İA’da belirtilen
+formata uygun ve gerçekleşen güç üretim verileriyle tutarlı olacak şekilde
+kesintisiz olarak RİTM’e aktarmak ve bu amaçla kurulmuş olan altyapıyı
+çalışır vaziyette tutmak.
+b) SCADA ile GKÇ verilerinin aktarımına yönelik IP
+adresi, kullanıcı adı, şifre ve diğer altyapı değişikliklerini üç iş günü
+içerisinde elektronik posta adresine bildirmek.
+c) Bu Yönetmelik kapsamında santrallerde kurulan
+altyapıda SCADA ve GKÇ verilerinin aktarımına yönelik olarak tespit edilen
+ve ilgili santrale bildirilen arıza/kesinti ve benzeri durumlar için
+bildirimi müteakip üç iş günü içerisinde gerekli müdahaleleri yaparak
+elektronik posta adresine bildirmek.
+ç) RİTM bağlantı belgesi talebi kapsamında sunulan
+santral bilgi formundaki bilgilerde gerçekleşen değişiklikleri üç iş günü
+içerisinde elektronik posta adresine bildirmek.
+Yükümlülüklerin
+yerine getirilmemesi halinde alınacak tedbirler
+MADDE 12-
+(1) 11 inci maddede yer alan
+yükümlülüklerin yerine getirilmemesi durumunda santral sahibine söz konusu
+yükümlülüğün yerine getirilmesi yönünde TEİAŞ tarafından yazılı ihtarda
+bulunulur. Bu yükümlülüğün ihtarname tarihinden itibaren yedi takvim günü
+içerisinde yerine getirilmemesi durumunda, Bakanlık bu Yönetmelik ve ilgili
+diğer mevzuat hükümlerine uygun olarak gerekli tedbirleri alır.
+Yürürlükten
+kaldırılan yönetmelik
+MADDE 13-
+(1) 25/2/2015
+tarihli ve 29278 sayılı Resmî Gazete’de yayımlanan Rüzgar Enerjisi
+Santrallerinin Rüzgar Gücü İzleme ve Tahmin Merkezine Bağlanması Hakkında
+Yönetmelik yürürlükten kaldırılmıştır.
+Yürürlük
+MADDE 14-
+(1) Bu Yönetmelik yayımı tarihinde
+yürürlüğe girer.
+Yürütme
+MADDE 15-
+(1) Bu Yönetmelik hükümlerini
+Enerji ve Tabii Kaynaklar Bakanı yürütür.
