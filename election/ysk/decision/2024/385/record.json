@@ -1,0 +1,17 @@
+{
+  "issuer": "Yüksek Seçim Kurulu",
+  "document_type": "decision",
+  "number": "2024/385",
+  "list_number": "385",
+  "decision_date": "2024-02-12",
+  "title": "31 Mart 2024 tarihinde yapılacak olan Mahalli İdareler Genel Seçimlerinde görev alacak kişilere ödenecek gündelik miktarı ve sair harcamalar ile seçim harcamalarındaki usul ve esasların belirlenmesine ilişkin Yüksek Seçim Kurulunun 2024/385 sayılı kararı.",
+  "official_document": "https://www.ysk.gov.tr/doc/karar/dosya/46637454/2024-385.pdf",
+  "source_sha256": "2d3b8cb24e387321c1ec4654dd13c0dbc0101b184b31a59b99e7cb691accf109",
+  "official_list": "https://www.ysk.gov.tr/doc/karar/kararlar.txt",
+  "official_list_sha256": "0733001df8fd09fa2f4155954da343809b59b823ecd8d57ad2e679c4264f5a84",
+  "pdf_pages": 9,
+  "text_status": "metadata-only",
+  "metadata_only_reason": "the two text extractions (PyMuPDF / pdftotext) differ",
+  "in_force": "2024-02-12",
+  "law_text_complete": false
+}
