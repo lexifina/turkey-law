@@ -1,0 +1,3 @@
+Öğrenci değişimi
+MADDE 39 – (1) (Değişik:RG-4/3/2018-30350) Yurt içi veya yurt dışındaki diğer üniversiteler ile yapılan anlaşmalar uyarınca, öğrenciler, değişim programından bir veya iki yarıyıl süreyle yararlanabilir. Değişim programlarından yararlanan öğrencilerin kayıtları ilgili süreler içerisinde Üniversitede devam eder ve bu süreler eğitim-öğretim süresinden sayılır. Değişim programı ile ilgili tüm işlemler Senatonun belirlediği esaslar doğrultusunda yapılır.
+(2) Öğrenci değişim programı kapsamında, yurt dışındaki üniversitelerden gelen öğrencilere de Üniversitede okudukları süre içerisinde bu Yönetmelik hükümleri uygulanır ve aldıkları dersler için kendilerine not döküm belgesi (transkript) verilir.
