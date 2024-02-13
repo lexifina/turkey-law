@@ -1,0 +1,6 @@
+Tez konusu ve danışmanının belirlenmesi
+MADDE 18- (Değişik:RG-13/2/2024-32459)
+(1) Uzmanlık tezi çalışmalarına başlanmadan önce, Tez ve Yeterlik Sınavı Kurulu oluşturulur.
+(2) Her bir uzman yardımcısının hazırlayacağı uzmanlık tezinin konusu ile tez danışmanı; aylıksız izin ile toplamı üç ayı aşan hastalık ve refakat izin süreleri hariç olmak üzere, iki yıllık hizmet sürelerinin tamamlanmasını müteakip bir ay içinde belirlenir.
+(3) Uzman yardımcısı tarafından üç tez konusu ve uzmanlar, öğretim üyeleri veya daire başkanları arasından en fazla üç tez danışmanı belirlenerek Personel ve Eğitim Dairesi Başkanlığı aracılığıyla Tez ve Yeterlik Sınavı Kuruluna önerilir. Tez konularının uygun bulunmaması hâlinde, uzman yardımcısı, Tez ve Yeterlik Sınavı Kurulunun uygun bulmama nedeni ile varsa görüşünü de dikkate alarak, on beş gün içinde yeni bir tez konusu belirler. Belirlenen tez konusu aynı usulle onaya sunulur. Tez konusu ve tez danışmanı, önerilerle bağlı kalınmaksızın Başkanlığın görev alanı ve ihtiyaçları dikkate alınıp Tez ve Yeterlik Sınavı Kurulu tarafından belirlenerek uzman yardımcısına bildirilir.
+(4) Başkanlık içerisinden belirlenen tez danışmanının sadece bir tez için danışmanlık yapması esastır.

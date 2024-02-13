@@ -1,0 +1,6 @@
+Giriş sınavı sonuçlarının değerlendirilmesi ve açıklanması
+MADDE 14- (1) Giriş sınavı puanı, ön eleme sınavından sonra yazılı sınav ve akabinde sözlü sınav yapılması halinde yazılı ve sözlü sınav puanlarının aritmetik ortalaması alınmak, ön eleme sınavından sonra sadece sözlü sınav yapılması durumunda sözlü sınav puanı esas alınmak suretiyle belirlenir.
+(2) Giriş sınavı sonuçları, Sınav Kurulunca puanı en yüksek adaydan başlanmak suretiyle başarı derecesine göre liste halinde tespit edilerek bir tutanağa bağlanır. Ayrıca herhangi bir kayıt tutulmaz.
+(3) Hesaplama ve başarı derecesine göre sıralama sonrası, giriş sınavı puanı yetmiş (70) ve üzerinde olması şartıyla en yüksek puandan başlanarak giriş sınavı duyurusunda belirtilen atama yapılacak kadro sayısı kadar aday giriş sınavını asıl olarak kazanmış sayılır.
+(4) Asıl adayların yanı sıra, giriş sınavı puanı yetmiş (70) ve üzerinde olan adaylardan başarı sıralamasına göre, atama yapılacak kadro sayısının en fazla yarısı kadar yedek aday belirlenir.
+(5) Giriş sınavı sonuçları, yazılı olarak ve Başkanlık internet sayfasından yayımlanmak suretiyle ilgililere duyurulur. İlan edilen sınav sonuçları, bir yılı aşmamak üzere müteakip sınavın başvuru tarihine kadar geçerlidir.

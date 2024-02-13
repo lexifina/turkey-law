@@ -1,0 +1,2 @@
+Başarısızlık hali ve başka kadroya nakil
+MADDE 24- (1) (Değişik:RG-13/2/2024-32459) Verilen ilave süre içinde tezlerini sunmayanlar veya ikinci defa hazırladıkları tezleri de kabul edilmeyenler, 22 nci maddeye göre ikinci sınav hakkı tanınanlardan başarı gösteremeyenler veya sınav hakkını kullanmayanlar ile süresi içinde yabancı dil yeterliği şartını yerine getirmeyenler, uzman yardımcısı unvanını kaybeder ve Başkanlıkta durumlarına uygun memur unvanlı kadrolara atanırlar.
