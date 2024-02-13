@@ -1,0 +1,21 @@
+{
+  "record_type": "parliament-written-question",
+  "term": 28,
+  "legislative_year": 2,
+  "esas_no": "7/9475",
+  "submitted": "2024-02-13",
+  "submitted_as": "Başkanlığa geliş tarihi",
+  "mp": "Ahmet Ersagun YÜCEL",
+  "province": "İstanbul",
+  "summary": "Narenciye üretiminin desteklenmesi için yürütülen çalışmalara ilişkin",
+  "status": "Süresi Geçtikten Sonra Cevaplandı",
+  "status_as_of": "2026-11-16",
+  "official_record": "https://www.tbmm.gov.tr/Denetim/Yazili-Soru-Onergesi-Detay/23c3c987-4256-4dd2-9016-018da68ac259",
+  "source": "https://tbmm.gov.tr/Denetim/YaziliSoruOnergesiTable",
+  "source_form": "https://tbmm.gov.tr/Denetim/Yazili-Soru-Onergeleri",
+  "source_sha256": "07e82621bfea75db8fac13b322eb6102479b7d1e07fa4a3473a017e37099f1d0",
+  "in_force": "2024-02-13",
+  "in_force_basis": "Date the question reached the Speaker (Başkanlığa geliş tarihi) in the official TBMM written-question record; parliamentary oversight record, not law",
+  "history_type": "metadata",
+  "text_status": "metadata-only: question text, addressee and answers are in the linked official record (PDFs on cdn.tbmm.gov.tr); not transcribed here"
+}
