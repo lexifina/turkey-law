@@ -1,0 +1,52 @@
+{
+  "source_id": "7.5.29032",
+  "kind": "regulation",
+  "register_kind": "Kurum ve Kuruluş Yönetmelikleri",
+  "title": "BENZİN VE NAFTANIN DEPOLANMASI VE DAĞITILMASINDAN KAYNAKLANAN UÇUCU ORGANİK BİLEŞİK EMİSYONLARININ KONTROLÜ YÖNETMELİĞİ",
+  "number": "29032",
+  "issuer_slug": "kurum-ve-kurulus",
+  "path": "regulation/kurum-ve-kurulus/2018/29032",
+  "source": "https://www.mevzuat.gov.tr/anasayfa/MevzuatFihristDetayIframe?MevzuatTur=7&MevzuatNo=29032&MevzuatTertip=5",
+  "source_sha256": "feb7c8a91eb23d8e90570ccef933cb6ecfbf36291730c97eed900c4a0a819406",
+  "source_bytes": 74901,
+  "published": "2018-12-05",
+  "gazette": "30616",
+  "in_force": "2024-02-13",
+  "in_force_basis": "latest Resmî Gazete date printed in the source amendment notes/table (\"RG-13/2/2024\") for the current consolidated text",
+  "date_evidence": [
+    [
+      "2024-02-13",
+      "RG-13/2/2024",
+      "Resmî Gazete date printed in the source amendment note"
+    ],
+    [
+      "2024-02-13",
+      "13/2/2024",
+      "Resmî Gazete date in the source amendment table"
+    ],
+    [
+      "2020-12-23",
+      "RG-23/12/2020",
+      "Resmî Gazete date printed in the source amendment note"
+    ],
+    [
+      "2020-12-23",
+      "23/12/2020",
+      "Resmî Gazete date in the source amendment table"
+    ]
+  ],
+  "history": "current-text",
+  "label": "oldest version available",
+  "checked_on": "2026-11-15",
+  "word_count": 3060,
+  "text_status": "current-consolidated",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  },
+  "source_links": [
+    "7.5.29032-EK.docx"
+  ],
+  "completeness": "html-text-complete; linked annexes not fetched"
+}
