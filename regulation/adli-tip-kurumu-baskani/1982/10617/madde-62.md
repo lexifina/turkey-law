@@ -1,0 +1,2 @@
+Gizlilik:
+Madde 62 - Döner sermayelerin satın alacağı ve satacağı maddelere ait bütün listeler firmalardan gelecek teklif mektupları, proformalar ve bunlar üzerinde verilecek kararlar, emirler ve yapılacak yazışmalar gizlidir. Azaltma ve çoğaltma teklifinde bulunmak isteyenlere tekerrür eden bedel açıklanır. Taahhüdün tamamen ifası süresince bunlara ait hususları açıklayan veya gizlilik icaplarına dahi riayet etmeyen memurlar işte menfaat kastı olmasa dahi ilgili mevzuat hükümlerine göre cezalandırılır.

@@ -1,0 +1,2 @@
+Taşıt, Araç, Gereç ve Demirbaş Alımları:
+Madde 6 – 237 Sayılı Taşıt Kanunu hükümleri çerçevesinde döner sermaye işletmelerine taşıt satın alınabilir. Münhasıran döner sermaye işletmelerinde kullanılmak şartı ile taşıt dışında araç, gereç ve demirbaş satın alınabilir. Satın alınan taşıt, araç, gereç ve demirbaşlar gider yazılmayıp "Demirbaş ve Bağlı Değerler Hesabına" dahil edilir ve bunlar için genel esaslara göre amortisman ayrılır.
