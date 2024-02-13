@@ -1,0 +1,17 @@
+{
+  "kind": "decision",
+  "issuer": "Sayıştay 4. Dairesi",
+  "number": "323",
+  "decision_date": "2024-02-13",
+  "source_id": 38285,
+  "chamber": "4",
+  "ilam_number": "49",
+  "item_number": 5,
+  "public_body_type": "Yüksek Öğretim Kurumları",
+  "account_year": 2022,
+  "subject": "İhale Mevzuatı ile İlgili Kararlar",
+  "source": "https://www.sayistay.gov.tr/KararlarDaire/Detay/38285/",
+  "source_sha256": "18e6f89d93089197cda382c000f351ff1820db8a5a360ef734d5cc77d4b02d25",
+  "text_status": "as-enacted",
+  "text_file": "metin.md"
+}
