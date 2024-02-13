@@ -1,0 +1,17 @@
+{
+  "kind": "decision",
+  "issuer": "Sayıştay 4. Dairesi",
+  "number": "323",
+  "decision_date": "2024-02-13",
+  "source_id": 38283,
+  "chamber": "4",
+  "ilam_number": "49",
+  "item_number": 3,
+  "public_body_type": "Yüksek Öğretim Kurumları",
+  "account_year": 2022,
+  "subject": "Çeşitli Konuları İlgilendiren Kararlar",
+  "source": "https://www.sayistay.gov.tr/KararlarDaire/Detay/38283/",
+  "source_sha256": "fcaf393f643060447719f071a47e853a7c8546616ee70c0d0ff656ddb58e8f93",
+  "text_status": "as-enacted",
+  "text_file": "metin.md"
+}
