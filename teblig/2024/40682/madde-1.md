@@ -1,0 +1,2 @@
+Amaç ve kapsam
+MADDE 1- (1) Bu Tebliğin amacı, 9603.21.00.00.19 gümrük tarife istatistik pozisyonunda yer alan eşyanın ithalatında 2/2/2024 tarihli ve 8147 sayılı Cumhurbaşkanı Kararı ile yürürlüğe konulan Diş Fırçası İthalatında Korunma Önlemi Uygulanmasına İlişkin Karar kapsamında, ek mali yükümlülük şeklinde uygulanan korunma önleminden muafiyet sağlanması amacıyla açılan tarife kontenjanının kullanım usul ve esaslarının düzenlenmesidir.
