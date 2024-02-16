@@ -1,0 +1,2 @@
+Amaç ve kapsam
+MADDE 1- (1) Bu Tebliğin amacı, 16/7/2020 tarihli ve 31187 sayılı Resmî Gazete’de yayımlanan Kapadokya Alan Başkanlığı Satın Alma ve İhale Usul ve Esasları Hakkında Yönetmeliğin 47 nci maddesi uyarınca söz konusu Yönetmelikte yer alan parasal limitlerin Türkiye İstatistik Kurumu tarafından yayımlanan 2023 yılının Yurt İçi Üretici Fiyat Endeksi (Yİ-ÜFE) oranları esas alınarak güncellenmesidir.
