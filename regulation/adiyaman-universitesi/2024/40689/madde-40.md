@@ -1,0 +1,4 @@
+Tez izleme komitesi
+MADDE 40- (1) Yeterlik sınavında başarılı bulunan öğrenci için anabilim/anasanat dalı kurulu kararı ve enstitü yönetim kurulu onayıyla bir ay içinde bir tez izleme komitesi oluşturulur.
+(2) Tez izleme komitesi, üç öğretim üyesinden oluşur. Komitede tez danışmanından başka ilgili enstitü anabilim/anasanat dalı içinden ve dışından birer üye yer alır. Tez izleme komitesi üyelerinin uzmanlık alanlarının, tez konusu ile uyumlu olmasına ve özellikle disiplinler arası tez çalışmalarında, ilgili disiplinin öğretim elemanlarının görev almasına dikkat edilir. İkinci tez danışmanının olması durumunda, ikinci tez danışmanı komite toplantılarına oy hakkı olmaksızın katılabilir.
+(3) Tez izleme komitesinin kurulmasından sonraki dönemlerde, enstitü anabilim/anasanat dalı başkanlığının önerisi ve enstitü yönetim kurulu onayıyla üyelerde değişiklik yapılabilir.

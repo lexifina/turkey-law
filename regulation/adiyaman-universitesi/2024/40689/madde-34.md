@@ -1,0 +1,4 @@
+Tezsiz yüksek lisans diploması
+MADDE 34- (1) Kredili derslerini ve dönem projesini başarıyla tamamlayan öğrenciye tezsiz yüksek lisans diploması verilir.
+(2) Tezsiz yüksek lisans diplomasının üzerinde, öğrencinin kayıtlı olduğu enstitü anabilim/anasanat dalındaki programın YÖK tarafından onaylanmış adı bulunur. Öğrencinin mezuniyet tarihi, enstitü yönetim kurulunun mezuniyetine karar verdiği tarihtir.
+(3) Tezsiz yüksek lisans programına devam edenler, başvurdukları tezli yüksek lisans programı için belirlenmiş olan asgari şartları yerine getirmek kaydıyla, aynı programın tezli yüksek lisans programına geçiş yapabilirler. Tezli yüksek lisans programına geçişte Senato tarafından belirlenen esaslar uygulanır. Bu durumda tezsiz yüksek lisans programında alınan dersler, ilgili anabilim/anasanat dalı kurulunun önerisi, enstitü yönetim kurulu kararıyla tezli yüksek lisans programındaki derslerin yerine sayılabilir.

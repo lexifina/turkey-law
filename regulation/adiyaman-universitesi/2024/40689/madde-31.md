@@ -1,0 +1,6 @@
+Tezsiz yüksek lisans programına başvuru ve kabul
+MADDE 31- (1) Tezsiz yüksek lisans programlarına başvurabilmek için adayların, bir lisans diplomasına sahip olmaları gerekir.
+(2) Tezsiz yüksek lisans programlarına öğrenci kabulünde, ALES puan şartı aranmaz. Ancak ilgili anabilim/anasanat dalı kurulunun önerisi, enstitü yönetim kurulu kararı ve Senatonun onayı ile ALES puan şartı aranabilir ve taban puan belirlenebilir.
+(3) Tezsiz yüksek lisans programlarına girebilmek için;
+a) ALES puan şartı aranmaması durumunda; lisans not ortalamasına göre kontenjan dahilinde sıralama yapılır. Lisans not ortalamasının eşitliği halinde başarılı aday, ilgili adayların katılacağı bir kura ile belirlenir.
+b) ALES puan şartı aranması durumunda; ilgili ALES notunun %60’ının ve lisans mezuniyet not ortalamasının %40’ının toplamından başarı puanı elde edilir. Başarı puanı en az 55 olan adaylar başarılı kabul edilir. Başarılı adayların kendi içinde sıralaması, başarı puanına göre yapılır ve kontenjan sayısına göre öğrenci kabul edilir. Başarı puanının eşitliği halinde ALES puanı yüksek olanlara öncelik verilir. Bu durumda da eşitlik bozulmadığı takdirde başarılı aday, ilgili adayların katılacağı bir kura ile belirlenir.

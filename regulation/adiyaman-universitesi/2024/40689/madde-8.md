@@ -1,0 +1,10 @@
+Bilimsel hazırlık programına öğrenci kabulü
+MADDE 8- (1) Yüksek lisans ve doktora programlarına kabul edilen öğrencilerden lisans veya yüksek lisans derecesini kabul edildikleri yüksek lisans veya doktora programından farklı alanlarda almış olanlar ile lisans veya yüksek lisans derecesini Üniversite dışındaki yükseköğretim kurumlarından almış olan yüksek lisans veya doktora programı adayları için eksikliklerini gidermek amacıyla bilimsel hazırlık programı uygulanabilir.
+(2) Bilimsel hazırlık programında alınması zorunlu dersler, ilgili lisansüstü programı tamamlamak için gerekli görülen derslerin yerine geçmez. Ancak bilimsel hazırlık programındaki bir öğrenci, bilimsel hazırlık derslerinin yanı sıra enstitü anabilim/anasanat dalı başkanlığının önerisi ve enstitü yönetim kurulunun onayı ile lisansüstü programa yönelik dersler de alabilir.
+(3) Bilimsel hazırlık programı ile ilgili devam, sınavlar, derslerden başarılı sayılma koşulları ve ders tekrarı gibi konularda ilgili mevzuat hükümleri uygulanır.
+(4) Bilimsel hazırlık programına kaydolan öğrenciler, lisansüstü öğretimdeki öğrencilerle aynı haklara sahiptir.
+(5) Bilimsel hazırlık programında geçirilecek süre en çok iki yarıyıldır. Yaz öğretimi bu süreye dahil edilmez. Bu süre dönem izinleri dışında uzatılmaz ve süre sonunda başarılı olamayan öğrencinin ilgili programla ilişiği kesilir. Bu programda geçirilen süre yüksek lisans veya doktora programı sürelerine dahil edilmez.
+(6) Bilimsel hazırlık programına özel öğrenci kabul edilmez.
+(7) Bilimsel hazırlık programında alınan dersler, öğrenim durum belgesinde (transkript) görülür. Ancak ağırlıklı not ortalamasına katılmaz.
+(8) Bilimsel hazırlık programında alınacak dersler ve toplam kredi miktarı, ilgili anabilim/anasanat dalı kurulu önerisi üzerine enstitü yönetim kurulu kararı ile belirlenir. Bilimsel hazırlık programında alınacak derslerin toplam kredisi en az on kredidir.
+(9) Bilimsel hazırlık programında alınması gereken zorunlu dersler; yüksek lisans programları için lisans programlarından, doktora programları için lisans ve/veya yüksek lisans programlarından seçilir.

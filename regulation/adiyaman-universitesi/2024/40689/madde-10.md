@@ -1,0 +1,2 @@
+Öğrenci değişimi
+MADDE 10- (1) Yurt içi ve yurt dışı öğrenci değişimi programları çerçevesinde, öğrencilerin talebi ve ilgili kurulların kararı ile yurt içi ve yurt dışındaki yükseköğretim kurumlarına bir veya iki yarıyıl süreyle öğrenci gönderilebilir. Bu öğrencilerin kayıtları, bu süre içerisinde enstitüde devam eder ve bu süre eğitim-öğretim süresinden sayılır. Öğrencilerin tez danışmanlarının nezaretinde uygulanacak öğrenci değişimi programı, ilgili anabilim/anasanat dalının teklifi üzerine enstitü yönetim kurulunun onayı ile kesinleşir.

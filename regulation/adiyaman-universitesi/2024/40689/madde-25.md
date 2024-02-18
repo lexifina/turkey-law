@@ -1,0 +1,5 @@
+Tezli yüksek lisans programının amaç ve kapsamı
+MADDE 25- (1) Tezli yüksek lisans programının amacı, öğrencinin bilimsel araştırma yaparak bilgilere erişme, bilgiyi değerlendirme ve yorumlama yeteneği kazanmasını sağlamaktır.
+(2) Bu program, toplam yirmi bir krediden az olmamak şartıyla en az yedi ders, bir seminer dersi ve tez çalışmasından oluşur. Seminer dersi ve tez çalışması kredisiz olup, başarılı veya başarısız olarak değerlendirilir. Tezli yüksek lisans programı bir eğitim-öğretim dönemi 60 AKTS kredisinden az olmamak koşuluyla seminer dersi dâhil en az sekiz ders ve tez çalışması olmak üzere toplam en az 120 AKTS kredisinden oluşur.
+(3) Bir öğrenci, bir dönemde alttan alınan dersler hariç on iki krediden fazla ders alamaz.
+(4) Öğrencinin alacağı derslerin en fazla iki tanesi, danışmanın teklifi, ilgili anabilim/anasanat dalı başkanlığının önerisi ve enstitü yönetim kurulu onayıyla Üniversitedeki başka bir anabilim/anasanat dalında veya başka bir yükseköğretim kurumunda verilmekte olan derslerden seçilebilir.

@@ -1,0 +1,2 @@
+Tezsiz yüksek lisans dönem projesinin hazırlanması
+MADDE 33- (1) Tezsiz yüksek lisans programında, danışmanın önereceği dönem projesi en geç ikinci dönemin ilk dört haftası içerisinde ilgili anabilim/anasanat dalı başkanlığı tarafından enstitüye bildirilir. Dönem projesi, enstitü yönetim kurulu kararı ile kesinleşir. Dönem projesini tamamlayan öğrenci, projesini enstitünün tez yazım kılavuzuna uygun bir şekilde hazırlayıp danışmanına teslim eder. Başarılı olarak değerlendirilen dönem projesi, anabilim/anasanat dalı başkanlığı tarafından enstitüye gönderilir.
