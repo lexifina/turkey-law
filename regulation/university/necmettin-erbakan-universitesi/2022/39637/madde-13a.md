@@ -1,0 +1,7 @@
+DÖRDÜNCÜ BÖLÜM
+Çeşitli ve Son Hükümler
+Hastane Müdürü ve hastane müdür yardımcıları
+MADDE 13/A- (Ek:RG-19/2/2024-32465)
+(1) Hastane Müdürü; sağlık idaresi veya sağlık kurumları işletmeciliği lisans mezunu veya temel eğitimi idare ve işletmecilik olan fakültelerden mezun olan veya herhangi bir lisans eğitiminden mezun olup en az on yıl kamu kurumlarında görev yapmış olup tercihen sağlık kurumları işletmeciliği alanında yüksek lisans yapmış olan ve/veya hastane yönetim hizmetlerinde deneyimi olan adaylar arasından ilgili mevzuat hükümlerine uygun olarak Müdür (Başhekim)’ün önerisi ile Rektör tarafından kadro durumuna göre görevlendirilir.
+(2) Hastane Müdürü ilgili mevzuat hükümleri kapsamında Müdür (Başhekim)’ün görev ve sorumluluk alanları ile sınırlı olup, Merkezin yönetim organlarının belirlediği usul ve esaslara göre çalışmak ve verilen görevleri yapmakla yükümlüdür.
+(3) Hastane Müdürüne bağlı olarak görev yapan hastane müdür yardımcıları; sağlık idaresi veya sağlık kurumları işletmeciliği lisans mezunu veya temel eğitimi idare ve işletmecilik olan fakültelerden mezun veya sağlık hizmetleri veren bir kamu kurumunda en az on yıl görev yapmış ve ilgili mevzuatta öngörülen şartlara uygun adaylar arasından Müdür (Başhekim)’ün önerisi ile Rektör tarafından üç yıllığına görevlendirilir. Hastane müdür yardımcıları; Hastane Müdürünce yürütülen idari, mali ve teknik hizmetlerden kendilerine verilen görevleri ilgili mevzuat kapsamında yerine getirir ve hizmetlerin yürütülmesinde Hastane Müdürüne yardımcı olurlar.

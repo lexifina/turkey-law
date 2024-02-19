@@ -1,0 +1,31 @@
+{
+  "act_path": "regulation/university/necmettin-erbakan-universitesi/2022/39637",
+  "availability": "text",
+  "checked_on": "2026-11-14",
+  "commencement_clauses": [
+    "MADDE 17- (1) Bu Yönetmelik yayımı tarihinde yürürlüğe girer."
+  ],
+  "date_quote": "RG-19/2/2024",
+  "first_law": null,
+  "gazette": "31902",
+  "history": "current-text",
+  "images": {
+    "deferred": 0,
+    "omitted": 0,
+    "referenced": 0,
+    "source": 0
+  },
+  "in_force": "2024-02-19",
+  "in_force_basis": "latest source-printed amendment Gazette date; current consolidated text",
+  "issuer": "Necmettin Erbakan Üniversitesi",
+  "issuer_slug": "necmettin-erbakan-universitesi",
+  "kind": "regulation",
+  "published": "2022-07-24",
+  "source": "https://www.mevzuat.gov.tr/anasayfa/MevzuatFihristDetayIframe?MevzuatTur=8&MevzuatNo=39637&MevzuatTertip=5",
+  "source_id": "8.5.39637",
+  "source_sha256": "61de45cb2cc30891922a15765c057eef8ec2979e7c2389bad523457210b25ed4",
+  "title": "NECMETTİN ERBAKAN ÜNİVERSİTESİ AĞIZ VE DİŞ SAĞLIĞI UYGULAMA VE ARAŞTIRMA MERKEZİ YÖNETMELİĞİ",
+  "university_id": 416,
+  "version_label": "oldest version available",
+  "word_count": 1782
+}
