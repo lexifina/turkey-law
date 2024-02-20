@@ -1,0 +1,23 @@
+{
+  "checked_on": "2026-11-15",
+  "document_sha256": "fef99684e1689ec6dd70c17ffdc05275a4d065c14d6727aa9f7ffe26871790a3",
+  "document_source": "https://cdn.gib.gov.tr/api/gibportal-file/file/getFileResources?objectKey=arsiv/fileadmin/user_upload/sirkuler/vuk_165_sirkuler.pdf",
+  "images": {
+    "omitted": 0,
+    "referenced": 0,
+    "source": 0
+  },
+  "in_force_basis": "Official GIB sirkulerTarih 2024-02-20T00:00:00 and PDF Tarihi 20/02/2024; circular issue date; no separate commencement clause stated.",
+  "kind": "circular",
+  "official_date": "2024-02-20",
+  "official_number": "VUK-165/2024-3/Enflasyon Düzeltmesi Uygulaması-15",
+  "official_number_basis": "Official GIB sirkulerNo field and PDF Sayısı",
+  "personal_data_screen": "General circular; no literal 11-digit identifier detected.",
+  "source": "https://gib.gov.tr/mevzuat/kanun/434/sirkuler/676",
+  "source_id": "sirkuler:676",
+  "source_row_sha256": "de518934d36781e0a54b3244fb4d16d08d7f05fdfbe1e384476ff4169d41e7dc",
+  "text_extraction": "pypdf text layer, page order",
+  "title": "Enflasyon Düzeltmesi Uygulaması",
+  "version_label": "as-enacted",
+  "word_count": 11313
+}
