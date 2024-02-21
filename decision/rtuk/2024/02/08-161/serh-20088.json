@@ -1,0 +1,15 @@
+{
+  "issuer": "Radyo ve Televizyon Üst Kurulu (RTÜK)",
+  "record_type": "Şerh (karşı oy yazısı)",
+  "meeting": "2024/08",
+  "meeting_date": "2024-02-21",
+  "meeting_date_as_published": "21.2.2024",
+  "decision_no": "161",
+  "source_id": 20088,
+  "title": "RTÜK kararı 2024/08-161 karşı oy yazısı",
+  "source": "https://www.rtuk.gov.tr/UstKurulKarar/Detay/20088",
+  "source_sha256": "915f277715d0b9ff98b84bab247c462fcab742e2650bf57b4f2f5a5862cda00a",
+  "text_status": "metadata-only",
+  "metadata_only_reason": "possible private person name(s) in the official text (63 match(es)); full text withheld, official link only",
+  "law_text_complete": false
+}
