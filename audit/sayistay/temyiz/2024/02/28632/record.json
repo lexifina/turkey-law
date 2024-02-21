@@ -1,0 +1,16 @@
+{
+  "kind": "decision",
+  "issuer": "Sayıştay Temyiz Kurulu",
+  "number": "56500",
+  "decision_date": "2024-02-21",
+  "source_id": 28632,
+  "chamber": "1",
+  "file_number": "53715",
+  "public_body_type": "Özel İdareler",
+  "account_year": "2016",
+  "subject": "İş Mevzuatı ile İlgili Kararlar",
+  "source": "https://www.sayistay.gov.tr/KararlarTemyiz/Detay/28632/",
+  "source_sha256": "ca0c1b7e399f8c8b1e6f1f05cdd78048413b443469abdfdc4cb4a26f9e103b98",
+  "text_status": "as-enacted",
+  "text_file": "metin.md"
+}
