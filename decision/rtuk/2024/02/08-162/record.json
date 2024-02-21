@@ -1,0 +1,15 @@
+{
+  "issuer": "Radyo ve Televizyon Üst Kurulu (RTÜK)",
+  "record_type": "Üst Kurul Kararı",
+  "meeting": "2024/08",
+  "meeting_date": "2024-02-21",
+  "meeting_date_as_published": "21.2.2024",
+  "decision_no": "162",
+  "source_id": 20062,
+  "title": "RTÜK kararı 2024/08-162",
+  "source": "https://www.rtuk.gov.tr/UstKurulKarar/Detay/20062",
+  "source_sha256": "df04fee56b83ca2bbf326b924a4fa701e67beb4169e65ea48123a7ba1c18b976",
+  "text_status": "metadata-only",
+  "metadata_only_reason": "possible private person name(s) in the official text (7 match(es)); full text withheld, official link only",
+  "law_text_complete": false
+}
