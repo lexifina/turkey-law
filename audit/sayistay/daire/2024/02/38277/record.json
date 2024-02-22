@@ -1,0 +1,17 @@
+{
+  "kind": "decision",
+  "issuer": "Sayıştay 2. Dairesi",
+  "number": "35790",
+  "decision_date": "2024-02-22",
+  "source_id": 38277,
+  "chamber": "2",
+  "ilam_number": "44",
+  "item_number": 3,
+  "public_body_type": "Yüksek Öğretim Kurumları",
+  "account_year": 2022,
+  "subject": "Personel Mevzuatı ile İlgili Kararlar",
+  "source": "https://www.sayistay.gov.tr/KararlarDaire/Detay/38277/",
+  "source_sha256": "b9884b6a54cef14090c48c9c21f8130af3659db0a67255b3daa0fe821ea5cf2e",
+  "text_status": "as-enacted",
+  "text_file": "metin.md"
+}
