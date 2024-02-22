@@ -1,0 +1,23 @@
+{
+  "kind": "norm",
+  "issuer": "Enerji Piyasası Düzenleme Kurumu",
+  "market": "electricity",
+  "document_type": "board-decision",
+  "number": "12456/1-2",
+  "decision_date": "2024-02-22",
+  "title": "EPDK Kurul Kararı 12456/1-2",
+  "categories": [
+    "OSB ve EB Dağıtım Sisteminin Kullanımına İlişkin Bedeller"
+  ],
+  "source": "https://www.epdk.gov.tr/Detay/DownloadDocument?id=kVyIYN6qQqQ=",
+  "documents": [
+    "https://www.epdk.gov.tr/Detay/DownloadDocument?id=kVyIYN6qQqQ="
+  ],
+  "source_sha256": "4283dd49a354930bf7807e2fa31a527cd5616ecdd6cd07a20b333c880427eccc",
+  "official_list": "https://www.epdk.gov.tr/Detay/Icerik/3-0-39/kurul-kararlari-",
+  "official_list_leaf": 1516,
+  "text_status": "metadata-only",
+  "metadata_only_reason": "no text layer (image-only PDF; no OCR)",
+  "in_force": "2024-02-22",
+  "law_text_complete": false
+}
