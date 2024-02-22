@@ -1,0 +1,61 @@
+{
+  "source_id": "9.5.31059",
+  "kind": "communique",
+  "register_kind": "Tebliğler",
+  "title": "4708 SAYILI YAPI DENETİMİ HAKKINDA KANUN KAPSAMINDA DENETİMİ YÜRÜTÜLEN YAPILARA AİT TAZE BETONDAN NUMUNE ALINMASI,DENEYLERİNİN YAPILMASI, RAPORLANMASI SÜREÇLERİNİN İZLENMESİ VE DENETLENMESİNE DAİR TEBLİĞ",
+  "number": "31059",
+  "path": "teblig/2018/31059",
+  "source": "https://www.mevzuat.gov.tr/anasayfa/MevzuatFihristDetayIframe?MevzuatTur=9&MevzuatNo=31059&MevzuatTertip=5",
+  "source_sha256": "20d7c4ac522f3bd96ff601f03757db999a29a0ec85c2201341d611275fcf60e9",
+  "source_bytes": 44648,
+  "published": "2018-12-18",
+  "gazette": "30629",
+  "in_force": "2024-02-22",
+  "in_force_basis": "latest Resmî Gazete date printed in the source amendment notes/table (\"RG-22/2/2024\") for the current consolidated text",
+  "date_evidence": [
+    [
+      "2024-02-22",
+      "RG-22/2/2024",
+      "Resmî Gazete date printed in the source amendment note"
+    ],
+    [
+      "2024-02-22",
+      "22/2/2024",
+      "Resmî Gazete date in the source amendment table"
+    ],
+    [
+      "2020-11-14",
+      "RG-14/11/2020",
+      "Resmî Gazete date printed in the source amendment note"
+    ],
+    [
+      "2020-11-14",
+      "14/11/2020",
+      "Resmî Gazete date in the source amendment table"
+    ],
+    [
+      "2020-03-24",
+      "RG-24/3/2020",
+      "Resmî Gazete date printed in the source amendment note"
+    ],
+    [
+      "2020-03-24",
+      "24/3/2020",
+      "Resmî Gazete date in the source amendment table"
+    ]
+  ],
+  "commencement_clauses": [
+    "Bu Tebliğ yayımı tarihinden yedi gün sonra yürürlüğe girer"
+  ],
+  "history": "current-text",
+  "label": "oldest version available",
+  "checked_on": "2026-11-15",
+  "word_count": 1891,
+  "text_status": "current-consolidated",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  },
+  "completeness": "html-text-complete"
+}
