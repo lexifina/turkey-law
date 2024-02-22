@@ -1,0 +1,26 @@
+{
+  "kind": "norm",
+  "issuer": "Enerji Piyasası Düzenleme Kurumu",
+  "market": "petroleum",
+  "document_type": "board-decision",
+  "number": "12453",
+  "decision_date": "2024-02-22",
+  "title": "SOCAR Turkey Akaryakıt Depolama Anonim Şirketi’nin; PİL/7191-8/38784 sayılı İletim Lisansı kapsamında faaliyette bulunan Aliağa Akaryakıt Depolama ve Dolum Tesisine (İskele Hatları) ilişkin iletim tarife",
+  "resmi_gazete_date": "2024-02-24",
+  "resmi_gazete_number": "32470",
+  "categories": [
+    "İletim Tarifesi"
+  ],
+  "source": "https://www.epdk.gov.tr/Detay/DownloadDocument?id=U2mcBD4es2w=",
+  "documents": [
+    "https://www.epdk.gov.tr/Detay/DownloadDocument?id=U2mcBD4es2w=",
+    "https://www.epdk.gov.tr/Detay/DownloadDocument?id=TeonlDX/MQU="
+  ],
+  "source_sha256": "c512831b325135782dfb5d76038516c5c7b49e1be4b9433b49aa2b87233677e6",
+  "official_list": "https://www.epdk.gov.tr/Detay/Icerik/3-0-100/kurul-kararlari",
+  "official_list_leaf": 5334,
+  "text_status": "as-enacted",
+  "text_file": "metin.md",
+  "in_force": "2024-02-22",
+  "law_text_complete": true
+}
