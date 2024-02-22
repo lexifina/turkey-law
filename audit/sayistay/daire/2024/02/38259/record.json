@@ -1,0 +1,17 @@
+{
+  "kind": "decision",
+  "issuer": "Sayıştay 6. Dairesi",
+  "number": "935",
+  "decision_date": "2024-02-22",
+  "source_id": 38259,
+  "chamber": "6",
+  "ilam_number": "40",
+  "item_number": 15,
+  "public_body_type": "Belediyeler ve Bağlı İdareler",
+  "account_year": 2022,
+  "subject": "İhale Mevzuatı ile İlgili Kararlar",
+  "source": "https://www.sayistay.gov.tr/KararlarDaire/Detay/38259/",
+  "source_sha256": "9f4f0998e47ece5bd76525c9899287968c2108bb47cb48f959ca16f6795d4d04",
+  "text_status": "as-enacted",
+  "text_file": "metin.md"
+}
