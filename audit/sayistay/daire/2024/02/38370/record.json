@@ -1,0 +1,17 @@
+{
+  "kind": "decision",
+  "issuer": "Sayıştay 1. Dairesi",
+  "number": "10927",
+  "decision_date": "2024-02-22",
+  "source_id": 38370,
+  "chamber": "1",
+  "ilam_number": "45",
+  "item_number": 8,
+  "public_body_type": "Genel Bütçe Kapsamındaki İdareler",
+  "account_year": 2022,
+  "subject": "İhale Mevzuatı ile İlgili Kararlar",
+  "source": "https://www.sayistay.gov.tr/KararlarDaire/Detay/38370/",
+  "source_sha256": "f35d9c14eaf132b480054b5f1b8d572971837bf19cb267d61d10f3964b702288",
+  "text_status": "as-enacted",
+  "text_file": "metin.md"
+}
