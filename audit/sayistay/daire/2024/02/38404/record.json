@@ -1,0 +1,17 @@
+{
+  "kind": "decision",
+  "issuer": "Sayıştay 2. Dairesi",
+  "number": "35789",
+  "decision_date": "2024-02-22",
+  "source_id": 38404,
+  "chamber": "2",
+  "ilam_number": "53",
+  "item_number": 5,
+  "public_body_type": "Belediyeler ve Bağlı İdareler",
+  "account_year": 2022,
+  "subject": "Personel Mevzuatı ile İlgili Kararlar",
+  "source": "https://www.sayistay.gov.tr/KararlarDaire/Detay/38404/",
+  "source_sha256": "51caded762b18bc9ed0885e985b282040166d2c040c07fd2aa960a2b0fd3d0e8",
+  "text_status": "as-enacted",
+  "text_file": "metin.md"
+}
