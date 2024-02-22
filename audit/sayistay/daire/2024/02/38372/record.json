@@ -1,0 +1,17 @@
+{
+  "kind": "decision",
+  "issuer": "Sayıştay 1. Dairesi",
+  "number": "10927",
+  "decision_date": "2024-02-22",
+  "source_id": 38372,
+  "chamber": "1",
+  "ilam_number": "45",
+  "item_number": 10,
+  "public_body_type": "Genel Bütçe Kapsamındaki İdareler",
+  "account_year": 2022,
+  "subject": "Çeşitli Konuları İlgilendiren Kararlar",
+  "source": "https://www.sayistay.gov.tr/KararlarDaire/Detay/38372/",
+  "source_sha256": "bc11b603eec845c9ad14e7438e2e582bd21710de5eac7c60f20687efe6481b14",
+  "text_status": "as-enacted",
+  "text_file": "metin.md"
+}
