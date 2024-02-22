@@ -1,0 +1,17 @@
+{
+  "kind": "decision",
+  "issuer": "Sayıştay 2. Dairesi",
+  "number": "35790",
+  "decision_date": "2024-02-22",
+  "source_id": 38276,
+  "chamber": "2",
+  "ilam_number": "44",
+  "item_number": 2,
+  "public_body_type": "Yüksek Öğretim Kurumları",
+  "account_year": 2022,
+  "subject": "İhale Mevzuatı ile İlgili Kararlar",
+  "source": "https://www.sayistay.gov.tr/KararlarDaire/Detay/38276/",
+  "source_sha256": "3a730d8a91d3f094b3ccf640b2d485affab6434fd2ac5addab15b752e426bed8",
+  "text_status": "as-enacted",
+  "text_file": "metin.md"
+}
