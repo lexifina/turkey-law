@@ -1,0 +1,17 @@
+{
+  "kind": "decision",
+  "issuer": "Sayıştay 7. Dairesi",
+  "number": "596",
+  "decision_date": "2024-02-22",
+  "source_id": 38223,
+  "chamber": "7",
+  "ilam_number": "38",
+  "item_number": 2,
+  "public_body_type": "Yüksek Öğretim Kurumları",
+  "account_year": 2022,
+  "subject": "Personel Mevzuatı ile İlgili Kararlar",
+  "source": "https://www.sayistay.gov.tr/KararlarDaire/Detay/38223/",
+  "source_sha256": "bd54f6f03928748025692fc45749dce34179713c9add78309dabe3340f3f138e",
+  "text_status": "as-enacted",
+  "text_file": "metin.md"
+}
