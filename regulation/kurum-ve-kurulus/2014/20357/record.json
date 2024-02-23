@@ -1,0 +1,62 @@
+{
+  "source_id": "7.5.20357",
+  "kind": "regulation",
+  "register_kind": "Kurum ve Kuruluş Yönetmelikleri",
+  "title": "MERKEZÎ YÖNETİM MUHASEBE YÖNETMELİĞİ",
+  "number": "20357",
+  "issuer_slug": "kurum-ve-kurulus",
+  "path": "regulation/kurum-ve-kurulus/2014/20357",
+  "source": "https://www.mevzuat.gov.tr/anasayfa/MevzuatFihristDetayIframe?MevzuatTur=7&MevzuatNo=20357&MevzuatTertip=5",
+  "source_sha256": "be246beaca01ae69391ba57297ca3fe221f5eb094b12d039241db9e23a50bf22",
+  "source_bytes": 2074278,
+  "published": "2014-12-27",
+  "gazette": "29218 mükerrer",
+  "in_force": "2024-02-23",
+  "in_force_basis": "latest Resmî Gazete date printed in the source amendment notes/table (\"RG-23/2/2024\") for the current consolidated text",
+  "date_evidence": [
+    [
+      "2024-02-23",
+      "RG-23/2/2024",
+      "Resmî Gazete date printed in the source amendment note"
+    ],
+    [
+      "2024-02-23",
+      "23/2/2024",
+      "Resmî Gazete date in the source amendment table"
+    ],
+    [
+      "2021-06-22",
+      "RG-22/6/2021",
+      "Resmî Gazete date printed in the source amendment note"
+    ],
+    [
+      "2021-06-22",
+      "22/6/2021",
+      "Resmî Gazete date in the source amendment table"
+    ],
+    [
+      "2018-02-24",
+      "RG-24/2/2018",
+      "Resmî Gazete date printed in the source amendment note"
+    ],
+    [
+      "2018-02-24",
+      "24/2/2018",
+      "Resmî Gazete date in the source amendment table"
+    ]
+  ],
+  "history": "current-text",
+  "label": "oldest version available",
+  "checked_on": "2026-11-15",
+  "word_count": 121066,
+  "text_status": "current-consolidated",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  },
+  "source_links": [
+    "7.5.20357-Ek.zip"
+  ],
+  "completeness": "html-text-complete; linked annexes not fetched"
+}

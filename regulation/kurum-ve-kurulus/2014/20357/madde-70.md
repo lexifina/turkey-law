@@ -1,0 +1,9 @@
+Hesabın işleyişi
+MADDE 70- (1) Para piyasası nakit işlemleri alacakları hesabına ilişkin borç ve alacak kayıtları aşağıda gösterilmiştir:
+a) Borç
+1) Kısa vadeli nakit fazlasının değerlendirilmesi amacıyla yapılan azami otuz gün süreli borç verme işlemlerinden kaynaklanan alacaklar bu hesaba borç, 103-Verilen Çekler ve Gönderme Emirleri Hesabı veya ilgili diğer hesaplara alacak kaydedilir.
+2) Para piyasası nakit işlemleri alacakları hesabında kayıtlı döviz cinsinden alacakların her tahsil tarihinde, tahsile esas olan kur üzerinden değerlemesi sonucu oluşan kur artışı farkları ile ay sonunda Türkiye Cumhuriyet Merkez Bankası döviz satış kuru üzerinden değerlemesi sonucu oluşan kur artışı farkları bu hesaba borç, 600-Gelirler Hesabına alacak kaydedilir.
+b) Alacak
+1) Para piyasası nakit işlemleri alacakları hesabında kayıtlı alacaklardan tahsil edilen anapara tutarı bu hesaba, faiz tutarının içinde bulunulan aya ait olan kısmı 600-Gelirler Hesabına, geçmiş aya ya da yıla ait olan kısmı ise 181-Gelir Tahakkukları Hesabına alacak, tamamı 102-Banka Hesabı veya ilgili diğer hesaplara borç kaydedilir. Tahsil edilen faiz gelirinin tamamı 800-Bütçe Gelirleri Hesabına alacak, 805-Gelir Yansıtma Hesabına borç kaydedilir.
+2) Para piyasası nakit işlemleri alacakları hesabında kayıtlı alacaklardan vadesinde tahsil edilemeyenler bu hesaba, işlemiş faiz alacağı 600-Gelirler Hesabı veya 181-Gelir Tahakkukları Hesabına alacak, tamamı 137-Takipteki Kurum Alacakları Hesabına borç kaydedilir.
+3) Para piyasası nakit işlemleri alacakları hesabında kayıtlı döviz cinsinden alacakların her tahsil tarihinde, tahsile esas olan kur üzerinden değerlemesi sonucu oluşan kur azalışı farkları ile ay sonunda Türkiye Cumhuriyet Merkez Bankası döviz satış kuru üzerinden değerlemesi sonucu oluşan kur azalışı farkları bu hesaba alacak, 630-Giderler Hesabına borç kaydedilir.

@@ -1,0 +1,2 @@
+Dayanak
+MADDE 3- (1) Bu Yönetmelik; 10/12/2003 tarihli ve 5018 sayılı Kamu Malî Yönetimi ve Kontrol Kanununun 49 uncu maddesi, (Değişik ibare:RG-23/2/2024-32469)(10) 1 sayılı Cumhurbaşkanlığı Teşkilatı Hakkında Cumhurbaşkanlığı Kararnamesinin 221 inci maddesi ve 3/12/2014 tarihli ve 2014/7052 sayılı Bakanlar Kurulu Kararıyla yürürlüğe konulan Genel Yönetim Muhasebe Yönetmeliği hükümlerine dayanılarak hazırlanmıştır.

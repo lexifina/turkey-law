@@ -1,0 +1,11 @@
+Hesabın işleyişi
+MADDE 56- (1) Gelirlerden takipli alacaklar hesabına ilişkin borç ve alacak kayıtları aşağıda gösterilmiştir:
+a) Borç
+1) Takibe alınan alacaklar bu hesaba borç, 120-Gelirlerden Alacaklar Hesabı, 122-Gelirlerden Tecilli ve Tehirli Alacaklar Hesabı, 127-Diğer Faaliyet Alacakları Hesabı veya 222-Gelirlerden Tecilli ve Tehirli Alacaklar Hesabına alacak kaydedilir.
+2) Bankaca, karşılığı olmadığı için iade edilen çek tutarlarından gelirlerden takipli alacaklar hesabını ilgilendirenler, bir taraftan bu hesaba borç, 101-Alınan Çekler Hesabına alacak; diğer taraftan yılı içinde 800-Bütçe Gelirleri Hesabına, yılı geçtikten sonra 810-Bütçe Gelirlerinden Ret ve İadeler Hesabına borç, 805-Gelir Yansıtma Hesabına alacak kaydedilir.
+3) Tahakkuktan fazla tahsilatın iadesi gerektiği takdirde, iade edilecek tutarlardan bu hesabı ilgilendirenler, bir taraftan bu hesaba borç, ilgili hesaba alacak; diğer taraftan 810-Bütçe Gelirlerinden Ret ve İadeler Hesabına borç, 805-Gelir Yansıtma Hesabına alacak kaydedilir.
+4) Bütçe gelirleri hesabına kaydedilmiş tutarlardan başka bir hesaba alacak kaydedilmesi gerekirken, yanlışlıkla bu hesaba alacak kaydedilen tutarlar, düzeltme işlemini teminen; bir taraftan bu hesaba borç, ilgili hesaba alacak; diğer taraftan yılı içinde 800-Bütçe Gelirleri Hesabına, yılı geçtikten sonra 810-Bütçe Gelirlerinden Ret ve İadeler Hesabına borç, 805-Gelir Yansıtma Hesabına alacak kaydedilir.
+b) Alacak
+1) Gelirlerden takipli alacaklar hesabında kayıtlı alacaklardan, nakden veya mahsuben yapılan tahsilat tutarları bir taraftan bu hesaba alacak, 100-Kasa Hesabı veya 102-Banka Hesabı ya da ilgili diğer hesaplara borç; diğer taraftan 800-Bütçe Gelirleri Hesabına alacak, 805-Gelir Yansıtma Hesabına borç kaydedilir.
+2) (Değişik:RG-24/2/2018-30342)(2) Gelirlerden takipli alacaklar hesabında kayıtlı tutarlardan yapılan terkin ve indirimler bu hesaba alacak, terkinler 630-Giderler Hesabına, indirimler 610-İndirim, İade ve İskontolar Hesabına borç kaydedilir.
+3) Gelirlerden takipli alacaklar hesabında kayıtlı alacaklardan, tecil ve tehir edilen tutarlar bu hesaba alacak, vadesine göre 122-Gelirlerden Tecilli ve Tehirli Alacaklar Hesabı veya 222-Gelirlerden Tecilli ve Tehirli Alacaklar Hesabına borç kaydedilir.

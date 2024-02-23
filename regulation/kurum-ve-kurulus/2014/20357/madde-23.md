@@ -1,0 +1,3 @@
+104 Proje özel hesabı
+Hesabın niteliği
+MADDE 23- (1) Proje özel hesabı; dış finansman kaynağından, kamu idareleri adına dış proje kredisi olarak Türkiye Cumhuriyet Merkez Bankası veya uygun görülen diğer bankalar nezdinde açılan özel hesaplara aktarılan tutarlar, bu tutarlardan yapılan giderler, verilen avanslar, açtırılan akreditifler ile avans ve akreditiflerden nakden geri alınanların ve hesap bakiyesinin değerlemesi sonucu ortaya çıkan kur farklarının Devlet Borçları Muhasebe Birimi veya genel bütçe kapsamı dışındaki kullanıcı kamu idareleri muhasebe birimlerince izlenmesi için kullanılır.
