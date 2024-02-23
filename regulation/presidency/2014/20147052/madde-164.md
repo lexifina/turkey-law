@@ -1,0 +1,2 @@
+305 Bonolar hesabı
+MADDE 164 ‒ (1) Bu hesap, kanunların verdiği yetkiye dayanılarak kurum nam ve hesabına ulusal para birimi veya döviz cinsi ve dövize endeksli olarak ihraç edilen ve karşılığında nakit imkânı sağlayan bonolar, özel tertip bonolar ve 4749 sayılı Kanunun 7/A maddesi kapsamında ihraç edilen kira sertifikalarından vadesi bir yılın altında olanlar ile bunlardan döviz cinsi ve dövize endeksli olanların anapara tutarları ve kur farklarının izlenmesi için kullanılır.

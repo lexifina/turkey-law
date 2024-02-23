@@ -1,0 +1,2 @@
+304 Cari yılda ödenecek tahviller hesabı
+MADDE 163 ‒ (1) Bu hesap, kanunların verdiği yetkiye dayanılarak kurum nam ve hesabına ulusal para birimi veya döviz cinsi ve dövize endeksli olarak ihraç edilmiş olan ve karşılığında nakit imkânı sağlayan tahviller ve özel tertip tahviller ile 28/3/2002 tarihli ve 4749 sayılı Kamu Finansmanı ve Borç Yönetiminin Düzenlenmesi Hakkında Kanunun 7/A maddesi kapsamında ihraç edilen kira sertifikalarından vadesi bir yılın altına inmiş olanlar ile bunlardan döviz cinsi ve dövize endeksli olanların kur farklarının izlenmesi için kullanılır.

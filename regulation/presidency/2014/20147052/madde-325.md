@@ -1,0 +1,2 @@
+Bütçe giderlerinin ekonomik sınıflandırılması tablosu
+MADDE 325 ‒ (1) Kamu idarelerine ait bütçe giderleri, bütçelerindeki ekonomik sınıflandırmaya uygun olarak raporlanır. Bütçe giderlerinin ekonomik sınıflandırılması tablosu, bütçe gider hesapları hesap grubundaki hesaplardan yararlanılarak hazırlanır. Tablo, dönemler arası karşılaştırma yapılabilmesini sağlamak üzere son üç malî yıla ilişkin verileri kapsayacak şekilde hazırlanır.

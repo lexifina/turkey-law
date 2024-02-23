@@ -1,0 +1,10 @@
+Enflasyon düzeltmesi
+MADDE 30 ‒ (1) Kapsama dâhil kamu idareleri, içinde bulunulan hesap dönemi dâhil son üç hesap döneminde fiyat endeksindeki artışın %100’den ve içinde bulunulan hesap döneminde %10’dan fazla olması halinde mali tablolarında yer alan parasal olmayan kalemleri enflasyon düzeltmesine tabi tutarlar. Enflasyon düzeltmesi uygulaması, her iki şartın birlikte gerçekleşmemesi halinde sona erer.
+(2) Birinci fıkrada yer alan oranların indirilmesi veya tekrar aynı seviyeye yükseltilmesinde 4/1/1961 tarihli ve 213 sayılı Vergi Usul Kanununun mükerrer 298 inci maddesinde yer alan düzenlemelere uyulur.
+(3) Enflasyon düzeltmesi işlemi, kamu idarelerinin mali tablolarında yer alan parasal olmayan kalemlerin düzeltme katsayısı ile çarpılması suretiyle gerçekleştirilir. Parasal kalemler, raporlama tarihindeki cari ölçüm birimine göre sunulduğundan düzeltilmez.
+(4) Stoklar hesap grubunda yer alan değerler, basit ortalama yöntem kullanılmak suretiyle hesaplanan dönem ortalama düzeltme katsayısı kullanılarak düzeltme işlemine tabi tutulur.
+(5) Daha önce düzeltme işlemine tabi tutulan bir mali tabloda yer alan ve düzeltmeye esas tarihleri düzeltme yapılmış tarihten öncesi olan kalemler taşıma işlemine tabi tutulur ve düzeltme işlemi, daha önce düzeltilmiş tutarların taşıma katsayısı ile çarpılması suretiyle yapılır. Düzeltmeye tabi tutulan mali tabloda düzeltme tarihinden sonra envantere giren kalemler varsa, bunların düzeltmeye esas tarihlerine kadar inilir ve bulunan düzeltme katsayısıyla düzeltmeye esas değer çarpılmak suretiyle düzeltme işlemi yapılır. Parasal kalemler için taşıma katsayısı bir olarak uygulanır.
+(6) Enflasyon düzeltmesi işlemi malî yıl sonu itibarıyla yapılır.
+(7) Enflasyon düzeltmesi sonucu ortaya çıkan artış tutarları parasal olmayan kalemin ilgili olduğu hesaba, karşılıkları enflasyon düzeltme hesabına kaydedilir.
+(8) İz bedeliyle takip edilen değerler ile tamamen amorti edilmiş varlıklar enflasyon düzeltmesine tabi tutulmazlar.
+(9) Parasal ve parasal olmayan kalemleri belirlemeye ve bu maddenin uygulanmasına ilişkin usul ve esasları belirlemeye Bakanlık yetkilidir.

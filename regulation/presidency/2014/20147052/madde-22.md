@@ -1,0 +1,2 @@
+Mali varlıklar ve sınıflandırılması
+MADDE 22 ‒ (1) Mali varlıklar; kasadaki nakit, banka hesaplarındaki mevcutlar, verilen borçlardan doğan alacaklar, senet, tahvil ve benzeri menkul varlıklar, sermaye payları, mali türevler, bir sözleşmeden doğan alacağı ifade eden haklar ve hesaplarda kayıtlı alacaklar gibi maddi ve maddi olmayan varlıklar dışındaki her türlü değerleri kapsar. Mali varlıklar, kaynaklarına ve türlerine göre sınıflara ayrılarak kaydedilir ve raporlanır.

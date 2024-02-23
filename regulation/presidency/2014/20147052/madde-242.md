@@ -1,0 +1,2 @@
+513 Doğrudan dış proje kredi kullanımları bildirim hesabı
+MADDE 242 ‒ (1) Bu hesap, genel bütçe kapsamındaki kamu idarelerince, Hazine hesaplarına intikal ettirilmeksizin, dış finansman kaynağından doğrudan kullanılan dış proje kredilerinden, ilgili kurum muhasebe birimlerince teyit edildiği bildirilen tutarların, Devlet Borçları Muhasebe Birimi ve ilgili kurum muhasebe birimlerince izlenmesi için kullanılır.

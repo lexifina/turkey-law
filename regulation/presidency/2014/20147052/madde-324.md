@@ -1,0 +1,2 @@
+Bütçe giderlerinin finansal sınıflandırılması tablosu
+MADDE 324 ‒ (1) Kamu idarelerinin bütçe giderlerinin hangi kaynaklardan finanse edildiği, bütçe giderlerinin finansal sınıflandırılması tablosunda gösterilir. Bütçe giderlerinin finansal sınıflandırılması tablosu, bütçe gider hesapları hesap grubundaki hesaplardan yararlanılarak hazırlanır. Tablo, dönemler arası karşılaştırma yapılabilmesini sağlamak üzere son üç malî yıla ilişkin verileri kapsayacak şekilde hazırlanır.

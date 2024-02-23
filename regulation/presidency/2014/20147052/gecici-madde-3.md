@@ -1,0 +1,2 @@
+GEÇİCİ MADDE 3- (Ek:RG-24/2/2022-31760-CK-5213/1 md.)
+2021 ve 2022 yılı hesap dönemlerinde bu Yönetmeliğin 30 uncu maddesi kapsamındaki enflasyon düzeltmesine ilişkin şartların oluşup oluşmadığına bakılmaksızın mali tablolar enflasyon düzeltmesine tabi tutulmaz. Bu hesap dönemleri, enflasyon düzeltmesi şartlarının gerçekleşmediği dönemler olarak değerlendirilir. 31/12/2023 tarihli mali tablolar, enflasyon düzeltmesine ilişkin şartların oluşup oluşmadığına bakılmaksızın enflasyon düzeltmesine tabi tutulur.

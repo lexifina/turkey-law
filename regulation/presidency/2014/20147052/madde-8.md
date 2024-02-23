@@ -1,0 +1,5 @@
+Bilanço ilkeleri
+MADDE 8 ‒ (1) Bilanço ilkelerinin amacı, kamu idaresinin tasarrufundaki kaynaklar ile bunlarla elde edilen varlıkların muhasebe kayıtlarının yapılması, mali tablolarının hazırlanması ve raporlanması yoluyla, belli bir tarihte kamu idaresinin mali durumunun ilgililer için saydam ve gerçeğe uygun olarak yansıtılmasıdır.
+(2) Kapsama dâhil kamu idareleri bilançolarını bu Yönetmelikte belirtilen şekil ve esaslara göre hazırlayıp sunar. Bilançolar hesap tipinde hazırlanır. Hesap tipi bilançonun sol tarafında varlıklar, sağ tarafında ise yabancı kaynaklar ve öz kaynaklar yer alır.
+(3) Bütün varlıklar, yabancı kaynaklar ve öz kaynaklar bilançoda gayrisafi değerleriyle gösterilir. Bu ilke, bilançonun net değer esasına göre düzenlenmesine bir engel oluşturmaz. Bu doğrultuda net değer bilanço düzenlenmesinin gereği olarak indirim kalemlerinin ilgili hesapların altında açıkça gösterilmesi esastır.
+(4) Bu amaç doğrultusunda benimsenen bilanço ilkeleri; varlıklar, yabancı kaynaklar ve öz kaynaklar itibarıyla 9 uncu, 10 uncu ve 11 inci maddelerde belirtilmiştir.

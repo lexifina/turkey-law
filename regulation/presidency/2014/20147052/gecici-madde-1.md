@@ -1,0 +1,2 @@
+Kamu özel iş birliği sözleşmelerine ilişkin envanter işlemleri
+GEÇİCİ MADDE 1 ‒ (1) Bu Yönetmeliğin yürürlüğe girdiği tarihte mevcut olan ya da yapımı süren kamu özel iş birliği modeli çerçevesindeki sözleşmelere konu varlıklar ile bunlara ilişkin yükümlülük, garanti ve taahhütlerin envanteri 15/9/2015 tarihine kadar yapılır. Bu maddenin uygulamasına ilişkin usul ve esasları belirlemeye Bakanlık yetkilidir.

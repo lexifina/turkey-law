@@ -1,0 +1,2 @@
+Uluslararası genel yönetim muhasebesi standartlarının uyarlanması
+MADDE 345 ‒ (1) Geliştirilen uluslararası genel yönetim muhasebesi standartlarının ilk defa uygulanacak olması veya mevcut bir standardın değiştirilerek uygulanacak olması durumunda; gerekli hazırlıkların yapılabilmesi için, uygulamaya ne zaman başlanılacağı önceden Kurulca duyurulur ve gerekli görülmesi halinde bir geçiş dönemi belirlenir.

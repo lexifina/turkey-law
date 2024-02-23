@@ -1,0 +1,3 @@
+Diğer idare, kurum ve kuruluşlara verilecek paylar
+MADDE 42 ‒ (1) Genel yönetim kapsamındaki kamu idarelerinin topladığı vergi, resim, harç ve benzeri gelirlerden diğer idare, kurum ve kuruluşlara verilecek payların, geliri toplayan kamu idaresi bütçesine bu amaçla konulacak ödeneklerden karşılanması zorunludur.
+(2) Malî yıl içinde kullanılabilecek ödenek, ilgili kanun hükümleri uyarınca tahsil edilen tutar dikkate alınarak hesaplanacak pay tutarını geçemez. Hesaplanan pay tutarının, bu amaçla tahsis edilen ödenek tutarını aşması halinde, aradaki farkı geçmemek kaydıyla ödenek eklemesi yapmaya genel bütçe kapsamındaki kamu idarelerinde Hazine ve Maliye Bakanı, diğer idarelerde üst yöneticiler yetkilidir.[13]

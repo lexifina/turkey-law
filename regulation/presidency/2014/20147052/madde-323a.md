@@ -1,0 +1,3 @@
+Bütçe giderlerinin faaliyet sınıflandırması tablosu
+MADDE 323/A- (Ek:RG-23/2/2024-32469-CK-8196/31 md.)
+(1) Bütçe giderlerinin faaliyet sınıflandırması tablosu, kamu idarelerinin gider bütçelerinin program sınıflandırmasındaki faaliyetleri esas alınarak hazırlanır. Faaliyetler, kamu kaynağı kullanmak suretiyle belirli bir ürünün üretilmesi ya da hizmetin sunulması amacıyla, planlama aşamasından üretim ve hedef kitleye sunum aşamasına kadar gerçekleştirilen iş, işlem ve süreçler bütünüdür. Bütçe giderlerinin faaliyet sınıflandırması tablosu, bütçe gider hesapları hesap grubundaki hesaplardan yararlanılarak hazırlanır. Tablo, dönemler arası karşılaştırma yapılabilmesini sağlamak üzere son üç mali yıla ilişkin verileri kapsayacak şekilde hazırlanır.

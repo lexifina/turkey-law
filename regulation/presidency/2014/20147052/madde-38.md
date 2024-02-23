@@ -1,0 +1,2 @@
+Sosyal yardımlar
+MADDE 38 ‒ (1) Kamu idareleri tarafından nüfusun tamamını veya belli bir kesimini sosyal risklerden korumak amacıyla yapılan sağlık hizmetleri ödemesi, işsizlik ödeneği, hastalık ve malullük yardımları, aile ve çocuk yardımı, emeklilik aylığı veya ölüm yardımı gibi belli bir sosyal güvenlik güvencesi altında veya dışında yapılan nakdi ve ayni yardımlar faaliyet hesaplarına kaydedilir ve raporlanır.

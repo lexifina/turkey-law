@@ -1,0 +1,2 @@
+Hesap planları ve detaylı hesap planlarının hazırlanması
+MADDE 307 ‒ (1) Genel bütçe kapsamındaki kamu idarelerinin hesap planı ve detaylı hesap planı Bakanlıkça; özel bütçeli idareler, düzenleyici ve denetleyici kurumlar, sosyal güvenlik kurumları ve mahallî idarelerin hesap planları ile detaylı hesap planları ise Bakanlığın uygun görüşü üzerine ilgili kamu idareleri tarafından bu Yönetmelik hükümlerine uygun olarak hazırlanır.

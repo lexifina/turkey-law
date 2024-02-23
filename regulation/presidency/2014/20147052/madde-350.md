@@ -1,0 +1,3 @@
+Muhasebe memurlarının nitelikleri, sorumlulukları ve eğitimleri
+MADDE 350 ‒ (1) Kamu idarelerinde mali işlemlerin kaydı, mali raporların hazırlanması ve birleştirilmesi görevlerini yürütecek memurların muhasebe ve mali raporlama konularında bilgili olması ve her türlü müdahaleden bağımsız çalışması esastır. Bu görevleri yürütecek olan memurlar muhasebe kayıtlarının belirlenen standartlara ve yöntemlere uygun olarak ve zamanında yapılmasından sorumludur.
+(2) Bu Yönetmelikte belirlenen görevleri kamu idarelerinde yürütecek memurlara, bilgi ve becerilerinin arttırılması için, gerekli ve yeterli eğitim verilir. Bu eğitimler belirli aralıklarla tekrarlanarak memurların bilgi ve becerilerinin güncel kalması sağlanır.

@@ -1,0 +1,7 @@
+İşlemlerin belgeye dayanması ve belge düzeni
+MADDE 15 ‒ (Değişik:RG-23/2/2024-32469-CK-8196/3 md.)
+(1) Bütün muhasebeleştirme işlemlerinin, kanıtlayıcı belgelere dayandırılması zorunludur. Kanıtlayıcı belgeler, muhasebeleştirme belgesinin hazırlanmasını gerektiren ve ilgili mevzuatında belirtilen belgelerden oluşur.
+(2) Merkezî yönetim kapsamındaki kamu idarelerinde muhasebeleştirme belgesi olarak bu Yönetmeliğin ekinde yer alan Muhasebe İşlem Fişi (G.Y.M.Y. Örnek:1) kullanılır.
+(3) Kamu idarelerinin bütçe veya diğer ödemelerinde; bu süreçte görevli ve sorumlu olanların imzalarının bulunduğu, ekinde gerçekleştirme belgelerinin yer aldığı, muhasebe işlem fişine eklenmesi zorunlu olan ve bu Yönetmeliğin ekinde yer alan Ödeme Emri Belgesi (G.Y.M.Y. Örnek:2) düzenlenir.
+(4) Merkezî yönetim kapsamındaki kamu idarelerinde, bu Yönetmelik ve bu Yönetmeliğe uygun olarak hazırlanacak diğer düzenlemelerin uygulanmasında kullanılmak üzere; kayıt, denetim, kontrol ve takip açısından standart bir belge düzeninin oluşturulmasına Bakanlık yetkilidir. Kullanılacak belgelerle ilgili yönetmelikler; mahallî idareler için İçişleri Bakanlığı ile Çevre, Şehircilik ve İklim Değişikliği Bakanlığınca, sosyal güvenlik kurumları için ilgili idarelerce, Bakanlığın uygun görüşü alınmak suretiyle hazırlanır ve uygulanır.
+(5) Mahallî idareler ve sosyal güvenlik kurumlarında kullanılacak muhasebeleştirme belgeleri ise bu Yönetmeliğe göre Bakanlığın uygun görüşü alınmak suretiyle hazırlanan kendi düzenlemelerinde belirlenir.

@@ -1,0 +1,2 @@
+404 Tahviller hesabı
+MADDE 210 ‒ (1) Bu hesap, kanunların verdiği yetkiye dayanılarak kurum nam ve hesabına ulusal para birimi veya döviz cinsi ve dövize endeksli olarak ihraç edilen ve karşılığında nakit imkânı sağlayan tahviller ve özel tertip tahviller ile 4749 sayılı Kanunun 7/A maddesi kapsamında ihraç edilen kira sertifikaları ve bunlardan döviz cinsi ve dövize endeksli olanların kur farklarının izlenmesi için kullanılır.

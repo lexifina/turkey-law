@@ -1,0 +1,3 @@
+Faiz giderleri ve faiz gelirleri
+MADDE 36 ‒ (1) Kamu idarelerinin başka kamu idarelerinden, yurtiçindeki veya yurtdışındaki mali kuruluşlardan veya devletlerden yaptıkları borçlanmalar dolayısıyla tahakkuk eden faizler, ilgili oldukları dönemlere gider yazılır. Kamu idarelerinin başka kamu idarelerine, yurtiçinde veya yurtdışındaki mali kuruluşlara veya devletlere verdikleri borçlar dolayısıyla tahakkuk eden faizler, ilgili oldukları dönemlere gelir kaydedilir.
+(2) (Ek: 8/1/2018-2018/11321 K.) Taksitle satılan maddi duran varlıkların peşin satış fiyatı ile taksitli satış fiyatı arasındaki fark faiz geliri olarak muhasebeleştirilir.

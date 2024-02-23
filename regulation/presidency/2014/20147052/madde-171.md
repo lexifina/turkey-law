@@ -1,0 +1,3 @@
+32 Faaliyet borçları
+MADDE 171 ‒ (1) Bu hesap grubu, kamu idarelerinin, ödeme emri belgesine bağlandığı halde henüz hak sahiplerine ödenemeyen bütçe emanetlerinin, mal alınıp, hizmet gördürülerek gider gerçekleşmiş olmakla birlikte ödeneği bulunmadığı için ödenemeyen borçlarının, bir taahhüde ve harcama talimatına dayanmayan giderlerinden kaynaklanan ve bütçede ödeneği öngörülmüş olmasına rağmen oluştuğu yer ve zamanda ödeneği bulunmadığı için ödenemeyen borçlarının, ödemelere ilişkin nakit talep ve tahsislerinin ve mal ve hizmet alış faaliyetleri dolayısıyla ortaya çıkan diğer borçlarının izlenmesi için kullanılır.
+(2) Faaliyet borçları, niteliklerine göre bu grup içinde açılacak aşağıdaki hesaplardan oluşur:

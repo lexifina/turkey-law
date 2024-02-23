@@ -1,0 +1,2 @@
+Mali tabloların Bakanlığa gönderilmesi
+MADDE 328 ‒ (1) Genel yönetimin tüm gelir ve giderleri ile borç ve mali imkânlarının tespitinin ve takibinin yapılabilmesi amacıyla, genel yönetim kapsamındaki kamu idareleri, gelir ve gider tahminlerini, mizanlarını ve mali tablolarını, birbirleriyle olan borç ve alacak durumlarını, personel giderlerine ilişkin her türlü bilgi ve belgeleri, istenilmesi halinde belirlenen sürede Bakanlığa vermek zorundadır.

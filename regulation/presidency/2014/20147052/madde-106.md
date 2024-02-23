@@ -1,0 +1,2 @@
+194 Teyitsiz doğrudan dış proje kredi kullanımları hesabı
+MADDE 106 ‒ (1) Bu hesap, dış finansman kaynağından, genel bütçe kapsamındaki kamu idareleri tarafından yapılan doğrudan dış proje kredi kullanımlarına ait kullanım bilgisi geldiği halde, kullanıcı kuruluş muhasebe biriminden kullanıma ilişkin teyit bilgisi gelmeyen kullanımlar ile bu kullanımlardan ilgili muhasebe birimince teyit edildiği bildirilen tutarların Devlet Borçları Muhasebe Birimince izlenmesi için kullanılır.

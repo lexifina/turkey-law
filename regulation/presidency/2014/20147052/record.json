@@ -1,0 +1,51 @@
+{
+  "id": "presidency-regulation-20147052",
+  "number": "20147052",
+  "kind": "regulation",
+  "issuer": "presidency",
+  "title": "GENEL YÖNETİM MUHASEBE YÖNETMELİĞİ",
+  "published": "2014-12-23",
+  "enacted": "2014-12-03",
+  "gazette_number": "29214",
+  "in_force": "2024-02-23",
+  "in_force_basis": "Latest source commencement-table date: 2024-02-23; official source: 22/2/2024 | 8196 | 4, 9, 15, 24, 46, 73, 77/A, 90, 95, 174, 177, 181/A, 219, 238, 239, 240, 271, 274, 278, 279, 283, 290, 291, 305, 306/C, 306/Ş, 306/T, 306/U, 306/Ü, 306/V, 306/Y, 306/Z, 306AA, 306/BB, 306/CC, 310, 313, 314, 317, 323/A, 326/A, 346, 347, Geçici Madde 4, Ek- Örnek 1/2/5/9/12/16/17 | 31/12/2023 tarihinden geçerli olmak üzere yayımı tarihinde (23/2/2024)",
+  "history": "current-only",
+  "version_label": "oldest version available",
+  "first_law": null,
+  "source": "https://www.mevzuat.gov.tr/anasayfa/MevzuatFihristDetayIframe?MevzuatNo=20147052&MevzuatTur=21&MevzuatTertip=5",
+  "source_sha256": "93609d062b4a9ec189ec48091d3c562998321761c778761303c2c7154be4e51e",
+  "source_links": [],
+  "missing_components": [],
+  "date_anomalies": [],
+  "images": {
+    "source": 2,
+    "referenced": 0,
+    "omitted": 2
+  },
+  "images_complete": false,
+  "image_inventory": [],
+  "images_omitted": [
+    {
+      "source_ref": "https://www.mevzuat.gov.tr/anasayfa/21.5.20147052_dosyalar/image001.gif",
+      "description": "Official embedded image 1 (source supplies no caption)",
+      "reason": "not extractable",
+      "normative": true,
+      "position": 1,
+      "failure": "Exact source image URL returns an HTML page instead of image bytes",
+      "response_sha256": "ed5c1830cd619584c778ad339c2e327737bb0feababf6f36bd8ba416fc81ac90",
+      "response_bytes": 259936
+    },
+    {
+      "source_ref": "https://www.mevzuat.gov.tr/anasayfa/21.5.20147052_dosyalar/image002.jpg",
+      "description": "Official embedded image 2 (source supplies no caption)",
+      "reason": "not extractable",
+      "normative": true,
+      "position": 2,
+      "failure": "Exact source image URL returns an HTML page instead of image bytes",
+      "response_sha256": "ed5c1830cd619584c778ad339c2e327737bb0feababf6f36bd8ba416fc81ac90",
+      "response_bytes": 259936
+    }
+  ],
+  "completeness": "pending-images",
+  "text_layout": "article-files"
+}

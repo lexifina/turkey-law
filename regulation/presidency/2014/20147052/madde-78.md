@@ -1,0 +1,2 @@
+137 Takipteki kurum alacakları hesabı
+MADDE 78 ‒ (1) Bu hesap, dönen varlıklar ana hesap grubu içinde yer alan kurum alacakları hesap grubundaki dış borcun ikrazından doğan alacaklar hesabı, para piyasası nakit işlemleri alacakları hesabı, kurumca verilen borçlardan alacaklar hesabı ve diğer kurum alacakları hesaplarında kayıtlı tutarlardan vadesinde tahsil edilemeyenler ile bunlara ilişkin olarak hesaplanan faiz alacaklarından anaparaya ilave edilmemiş olanların takibe alınarak izlenmesi için kullanılır.

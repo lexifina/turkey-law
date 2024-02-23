@@ -1,0 +1,2 @@
+Bütçe giderlerinin kurumsal sınıflandırılması tablosu
+MADDE 322 ‒ (1) Bütçe giderlerinin kurumsal sınıflandırılması tablosu, kamu idarelerine ait bütçe giderlerinin kurumsal düzeyde dağılımını gösteren mali tablodur. Bu tablo, bütçe gider hesapları hesap grubundaki hesaplardan yararlanılarak hazırlanır. Tablo, dönemler arası karşılaştırma yapılabilmesini sağlamak üzere son üç malî yıla ilişkin verileri kapsayacak şekilde hazırlanır.

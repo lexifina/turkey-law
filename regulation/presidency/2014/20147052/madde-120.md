@@ -1,0 +1,2 @@
+232 Kurumca verilen borçlardan alacaklar hesabı
+MADDE 120 ‒ (1) Bu hesap, yılı bütçe kanunu veya ilgili mevzuatına dayanılarak bir yılı aşan bir süreyle nakit olarak veya özel tertip iç borçlanma senedi ihracı suretiyle ikrazen verilen borçlardan kaynaklanan alacaklar, anaparaya eklenen faiz, masraf ve kur farkları, alacağın borçlusu ve döviz cinsi değiştirilen tutarlar, alacağı etkileyen diğer işlemler sonucu oluşan tutarlar ile bunlardan tahsil, tecil ve terkin edilen veya tecil ve terkinin iptalinden doğan tutarların izlenmesi için kullanılır.

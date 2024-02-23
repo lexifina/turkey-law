@@ -1,0 +1,2 @@
+Bütçe gelirlerinin ekonomik sınıflandırılması tablosu
+MADDE 321 ‒ (1) Kamu idarelerine ait bütçe gelirleri, bütçelerindeki sınıflandırmaya uygun olarak raporlanır. Bütçe gelirlerinin ekonomik sınıflandırılması tablosu, bütçe gelir hesapları hesap grubundaki hesaplardan yararlanılarak hazırlanır. Tablo, dönemler arası karşılaştırma yapılabilmesini sağlamak üzere son üç malî yıla ilişkin verileri kapsayacak şekilde hazırlanır.

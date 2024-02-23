@@ -1,0 +1,2 @@
+900 Gönderilecek bütçe ödenekleri hesabı
+MADDE 284 ‒ (1) Bu hesap, kamu idarelerinin bütçelerinde öngörülen ödenekler ve bunlardan yapılan kesintiler, geçen yıldan devreden ödenekler, malî yıl içinde eklenen ödenekler ve ödenek kalemleri arasında yapılan aktarmalar ile bu ödeneklerden, merkezde veya merkez dışında kullanılmak üzere gönderilenlerin, gönderilen ödeneklerden tenkis edildiği için iade alınanların ve iptal edilenlerin merkez muhasebe birimlerince izlenmesi için kullanılır.

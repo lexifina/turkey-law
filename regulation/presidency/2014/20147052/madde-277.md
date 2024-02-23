@@ -1,0 +1,2 @@
+833 Bütçeden mahsup edilecek ödemeler hesabı
+MADDE 277 ‒ (1) Bu hesap, herhangi bir dış finansman anlaşmasının yürürlüğe girmesini sağlayacak kanuni düzenlemelerin tamamlanmasına kadar, anlaşma gereğince peşin ödenmesi gereken komisyon, ücret, garanti ücreti ve benzeri giderler, vadesinde ödenmediği takdirde gecikme faizi doğuracak iç ve dış mali borçlar ile ilgili faiz giderleri, ödeneğinin yılı bütçesinde bulunmasına rağmen tahakkuk işlemlerinin tamamlanamadığı durumlar ile bütçelerinde bu hesaba kaydedilmesi öngörülen işlemlerin muhasebeleştirilmesi için kullanılır.

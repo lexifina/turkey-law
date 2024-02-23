@@ -1,0 +1,4 @@
+Bilanço
+MADDE 314 ‒ (1) Bilanço, kamu idaresinin belli bir tarihteki varlıklarını, yabancı kaynaklarını ve öz kaynaklarını gösteren tablodur. Kesin mizanda yer alan hesapların borç kalanları bilançonun aktif hesaplarını, alacak kalanları da bilançonun pasif hesaplarını oluşturur. Aktif ve pasifi düzenleyici hesaplar bulundukları grupta eksi değer olarak gösterilir.
+(2) Bilançolar 8 inci, 9 uncu, 10 uncu ve 11 inci maddelerde belirlenen ilkelere uygun olarak hazırlanır ve sunulur. Bilançolar, dönemler arasında karşılaştırma yapılabilmesini sağlamak üzere son üç faaliyet dönemine ilişkin verileri kapsayacak şekilde hazırlanır.
+(3) (Ek:RG-23/2/2024-32469-CK-8196/29 md.) Bakanlıkça yürütülen muhasebe bilişim sistemini kullanan kamu idarelerinin harcama birimleri baz alınarak oluşturulan kesin mizanlarında dönem olumlu ve olumsuz faaliyet sonucu hesaplarının bulunması durumunda bu hesaplar, kamu idaresi bilançosunda ayrı ayrı yer alabilir.

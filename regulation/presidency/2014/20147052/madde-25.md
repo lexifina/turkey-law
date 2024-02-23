@@ -1,0 +1,6 @@
+Finansal kiralama sözleşmesi ile edinilen varlıklar
+MADDE 25 ‒ (1) Finansal kiralama sözleşmesi, sözleşme süresi sonunda mülkiyet devrinin yapılıp yapılmadığına bakılmaksızın kiralamaya konu (…)[8] varlığın mülkiyetine sahip olmaktan kaynaklanan her türlü risk ve getirilerin kiracı olarak kamu idarelerine devredildiği sözleşmedir.
+(2) Finansal kiralama işlemine konu (…)8 varlıkların gerçeğe uygun değeri ile kira ödemelerinin bugünkü değeri karşılaştırılır; muhasebeleştirme düşük olan değer üzerinden yapılır. Sözleşme gereği kiralayana ödenecek toplam tutar mali borç olarak kaydedilir. Finansal kiralama borçlanma maliyeti ise ilgili oldukları dönemde gider kaydedilmek üzere ayrı bir hesapta izlenir.(1)
+(3) Finansal kiralama sözleşmeleri için yapılan her türlü ücret, komisyon, servis ücreti, vergi ve benzeri giderler, borç hesaplarıyla ilişkilendirilmeksizin gider ve bütçe gideri olarak kaydedilir.
+(4) Mevzuatı uyarınca yap-kirala-devret modeli ile edinilen maddi duran varlıklar da finansal kiralama işlemi olarak değerlendirilir. Toplam finansal kiralama borcu, varlığa ve finansal kiralama borçlanma maliyetine dağıtılarak muhasebeleştirilir.
+(5) Kamu idarelerince imzalanan her bir finansal kiralama sözleşmesinin türü, yapısı ve kapsamı gibi bilgiler mali tablo dipnotlarında açıklanır.
