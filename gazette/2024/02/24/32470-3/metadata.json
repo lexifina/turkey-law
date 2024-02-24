@@ -1,0 +1,20 @@
+{
+  "record_type": "gazette-item",
+  "gazette": "Resmî Gazete",
+  "jurisdiction": "TR",
+  "date": "2024-02-24",
+  "issue": "32470",
+  "edition": "regular",
+  "item": 3,
+  "section": "YÜRÜTME VE İDARE BÖLÜMÜ",
+  "heading": "YÖNETMELİK",
+  "title": "Elektrik Üretim Anonim Şirketi Genel Müdürlüğü Malzeme-Taşıt-İş Makineleri Değerlendirme ve Satış Yönetmeliği",
+  "official_link": "https://www.resmigazete.gov.tr/eskiler/2024/02/20240224-3.htm",
+  "link_format": "htm",
+  "index_url": "https://www.resmigazete.gov.tr/eskiler/2024/02/20240224.htm",
+  "index_sha256": "c716455b51720a5e92eaa2727c8031911889799e29166d1ff9f9d0156204ef89",
+  "index_header": "24 Şubat 2024 ... 32470 Sayılı Resmî Gazete",
+  "issue_pdf": "https://www.resmigazete.gov.tr/eskiler/2024/02/20240224.pdf",
+  "in_force_basis": "Resmî Gazete publication date; not a commencement reading.",
+  "text_status": "metadata-only; text not yet fetched (follow-up pass adds it as its own commit)"
+}
