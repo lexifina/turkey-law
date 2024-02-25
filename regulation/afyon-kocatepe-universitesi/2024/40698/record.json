@@ -1,0 +1,39 @@
+{
+  "checked_on": "2026-11-14",
+  "commencement_clauses": [
+    "MADDE 15- (1) Bu Yönetmelik yayımı tarihinde yürürlüğe girer."
+  ],
+  "date_evidence": [
+    [
+      "2024-02-25",
+      "25.02.2024",
+      "original gazette publication date in official listing"
+    ]
+  ],
+  "date_quote": "MADDE 15- (1) Bu Yönetmelik yayımı tarihinde yürürlüğe girer.",
+  "first_law": null,
+  "gazette": "32471",
+  "history": "current-text",
+  "images": {
+    "deferred": 0,
+    "omitted": 0,
+    "referenced": 0,
+    "source": 0
+  },
+  "in_force": "2024-02-25",
+  "in_force_basis": "source commencement clause: enters into force on gazette publication",
+  "issuer": "Afyon Kocatepe Üniversitesi",
+  "issuer_slug": "afyon-kocatepe-universitesi",
+  "kind": "regulation",
+  "label": "oldest version available",
+  "path": "regulation/afyon-kocatepe-universitesi/2024/40698",
+  "published": "2024-02-25",
+  "source": "https://www.mevzuat.gov.tr/anasayfa/MevzuatFihristDetayIframe?MevzuatTur=8&MevzuatNo=40698&MevzuatTertip=5",
+  "source_bytes": 31253,
+  "source_id": "8.5.40698",
+  "source_sha256": "e2fdfe75c0e21671c79476405abd2a74e9f49a1080feca6db84a934df3193d75",
+  "text_status": "as-enacted",
+  "title": "AFYON KOCATEPE ÜNİVERSİTESİ VETERİNER SAĞLIK UYGULAMA VE ARAŞTIRMA MERKEZİ YÖNETMELİĞİ",
+  "university_id": 177,
+  "word_count": 1354
+}
