@@ -1,0 +1,39 @@
+{
+  "checked_on": "2026-11-14",
+  "commencement_clauses": [
+    "MADDE 17- (1) Bu Yönetmelik yayımı tarihinde yürürlüğe girer."
+  ],
+  "date_evidence": [
+    [
+      "2024-02-26",
+      "26.02.2024",
+      "original gazette publication date in official listing"
+    ]
+  ],
+  "date_quote": "MADDE 17- (1) Bu Yönetmelik yayımı tarihinde yürürlüğe girer.",
+  "first_law": null,
+  "gazette": "32472",
+  "history": "current-text",
+  "images": {
+    "deferred": 0,
+    "omitted": 0,
+    "referenced": 0,
+    "source": 0
+  },
+  "in_force": "2024-02-26",
+  "in_force_basis": "source commencement clause: enters into force on gazette publication",
+  "issuer": "Dokuz Eylül Üniversitesi",
+  "issuer_slug": "dokuz-eylul-universitesi",
+  "kind": "regulation",
+  "label": "oldest version available",
+  "path": "regulation/dokuz-eylul-universitesi/2024/40701",
+  "published": "2024-02-26",
+  "source": "https://www.mevzuat.gov.tr/anasayfa/MevzuatFihristDetayIframe?MevzuatTur=8&MevzuatNo=40701&MevzuatTertip=5",
+  "source_bytes": 59710,
+  "source_id": "8.5.40701",
+  "source_sha256": "37308775088c7ec183d602f3dd1dd5c2deb6c9d69ff22729845c91f47b7977e9",
+  "text_status": "as-enacted",
+  "title": "DOKUZ EYLÜL ÜNİVERSİTESİ UZAKTAN EĞİTİM UYGULAMA VE ARAŞTIRMA MERKEZİ YÖNETMELİĞİ",
+  "university_id": 189,
+  "word_count": 1260
+}
