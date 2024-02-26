@@ -1,0 +1,3 @@
+Yürürlük
+MADDE 45 – (Değişik:RG-26/8/2011-28037)
+Bu Yönetmeliğin 6 ncı maddesinin ikinci fıkrası 2010-2011 eğitim-öğretim yılından itibaren kayıt yaptıran öğrencilere, diğer maddeleri ise 2005–2006 eğitim-öğretim yılından itibaren kayıt yaptıran öğrencilere uygulanır. 2005-2006 eğitim-öğretim yılından önce Üniversiteye kayıtlı bulunan öğrenciler; 14/9/2004 tarihli ve 25583 sayılı Resmî Gazete’de yayımlanan Niğde Üniversitesi Ön Lisans ve Lisans Eğitim-Öğretim ve Sınav Yönetmelik hükümlerine tabidirler. Ancak bu öğrenciler yürürlükteki yönetmelikle öğrenci lehine getirilen hükümlerden de faydalanırlar.

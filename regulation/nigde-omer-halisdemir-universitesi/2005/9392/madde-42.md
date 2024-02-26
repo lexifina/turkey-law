@@ -1,0 +1,4 @@
+Özel öğrenciler
+Madde 42 — (Değişik fıkra:RG-28/9/2019-30902) Üniversitedeki dersleri izlemeye yeterli görülenler ile diğer üniversite öğrencileri, belirli konularda bilgilerini arttırmak amacıyla, ilgili yönetim kurulu kararıyla, özel öğrenci olarak bir yarıyılda en çok iki ders alabilirler. Bu öğrenciler aldıkları ders/dersler için bu Yönetmelik hükümlerine tabidirler. Bu statüdeki öğrencilere diploma verilmez. Ancak, Öğrenci İşleri Daire Başkanlığı tarafından kendilerine durumlarını gösteren bir belge verilir. Özel öğrenciler, dersi açan birimin o yarıyıl için belirlenen katkı payını öderler.
+Daha önce herhangi bir yükseköğretim kurumundan ilişiği kesilenler özel öğrenci olamazlar.
+(Ek fıkra:RG-28/9/2019-30902) Engelli öğrenciler için gerekli düzenlemeler Niğde Ömer Halisdemir Üniversitesi Engelli Öğrenciler Eğitim-Öğretim ve Sınav Yönergesine göre yürütülür.

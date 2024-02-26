@@ -1,0 +1,3 @@
+Ders kredisi
+Madde 18 — (Değişik fıkra:RG-26/8/2011-28037) Derslerin kredisi, AKTS’ye göre belirlenir. AKTS Kredisi, bir dersin başarıyla tamamlanabilmesi için, öğrencinin yapması gereken çalışmaların tümünü (teorik dersler, uygulama, seminer, bireysel çalışma, sınavlar, ödevler, kütüphane çalışmaları, proje, saha çalışmaları, stajlar ve mezuniyet tezi vb.) ifade eden bir değerdir. Bu değer her bir dersin, herhangi bir Yükseköğretim Kurumunda, bir akademik yılın tam zamanlı olarak tamamlanması için gereken toplam çalışma yükünün ne kadarlık bir bölümünü teşkil ettiğinin göstergesidir.
+(Mülga fıkra:RG-26/8/2011-28037)
