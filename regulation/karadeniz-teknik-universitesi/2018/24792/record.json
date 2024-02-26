@@ -1,0 +1,49 @@
+{
+  "checked_on": "2026-11-14",
+  "commencement_clauses": [
+    "MADDE 17 – (1) Bu Yönetmelik yayımı tarihinde yürürlüğe girer."
+  ],
+  "date_evidence": [
+    [
+      "2018-08-17",
+      "17.08.2018",
+      "original gazette publication date in official listing"
+    ],
+    [
+      "2024-02-26",
+      "RG-26/2/2024-32472",
+      "latest source-printed gazette amendment date for current consolidated text"
+    ],
+    [
+      "2024-02-26",
+      "26/2/2024",
+      "latest gazette date in source amendment table"
+    ]
+  ],
+  "date_quote": "RG-26/2/2024-32472",
+  "first_law": null,
+  "gazette": "30512",
+  "history": "current-text",
+  "images": {
+    "deferred": 0,
+    "omitted": 0,
+    "referenced": 0,
+    "source": 0
+  },
+  "in_force": "2024-02-26",
+  "in_force_basis": "latest source-printed gazette amendment date for current consolidated text",
+  "issuer": "Karadeniz Teknik Üniversitesi",
+  "issuer_slug": "karadeniz-teknik-universitesi",
+  "kind": "regulation",
+  "label": "oldest version available",
+  "path": "regulation/karadeniz-teknik-universitesi/2018/24792",
+  "published": "2018-08-17",
+  "source": "https://www.mevzuat.gov.tr/anasayfa/MevzuatFihristDetayIframe?MevzuatTur=8&MevzuatNo=24792&MevzuatTertip=5",
+  "source_bytes": 33541,
+  "source_id": "8.5.24792",
+  "source_sha256": "099196b5cf6fbf14d861ea4ee699119b09c60dee744d3713c12666c2a694607e",
+  "text_status": "current-consolidated",
+  "title": "KARADENİZ TEKNİK ÜNİVERSİTESİ İLAÇ VE FARMASÖTİK\r\nTEKNOLOJİ UYGULAMA VE ARAŞTIRMA MERKEZİ YÖNETMELİĞİ",
+  "university_id": 207,
+  "word_count": 1096
+}
