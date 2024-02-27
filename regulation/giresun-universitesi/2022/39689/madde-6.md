@@ -1,0 +1,3 @@
+Fakülteye kayıt
+MADDE 6- (1) Öğrenci, kayıt işlemlerini Rektörlük tarafından belirlenen günlerde şahsen veya noterden onaylı vekâlete sahip vekili aracılığıyla yapar. İsteyen öğrenciler e-Devlet kapısından kayıt yapabilirler. Mazeretini belgelendirmek ve belgelerin geçerliliği Dekanlık tarafından kabul edilmek koşuluyla öğrencinin kanuni temsilcileri tarafından da kayıt yaptırılabilir. Zamanında başvurmayan veya kayıt için gerekli belgeleri tamamlamayan öğrenci kayıt hakkını kaybeder.
+(2) Kayıt için istenen belgelerin aslı veya Üniversite tarafından aslına dayanılarak onaylanan örneği kabul edilir. Askerlik durumu ve adli sicil kaydına ilişkin olarak ise adayın beyanına dayanılarak işlem yapılır.

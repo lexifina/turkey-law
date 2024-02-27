@@ -1,0 +1,5 @@
+Ders uyum ve muafiyetleri
+MADDE 10- (1) Bir başka tıp fakültesinden yatay geçiş ile Fakülteye kabul edilen öğrencilerin mesleki dersleri, öğretim programlarının uygunluğu ve eş değerliliği konusunda ilgili kurulların görüşü dikkate alınarak Yönetim Kurulunca karar verilir. Tüm derslerden muafiyeti kabul edilen öğrencinin öğrenim süresi, daha önce öğrenim gördüğü tıp fakültesinde geçen süre ile birlikte değerlendirilir.
+(2) Daha önce tıp fakültesinde öğrenim görmüş ve ÖSYM tarafından Fakülteye yerleştirilmiş öğrenciler başarmış oldukları mesleki derslerden, ders içeriklerinin uygunluğu ve eşdeğerliliği konusunda Tıp Eğitimi Koordinatörler Kurulunun görüşü ve Yönetim Kurulu kararı ile muaf sayılır.
+(3) Yükseköğrenim kurumlarında önceden eğitim görerek tıp alanı dışındaki zorunlu dersleri almış ve başarmış öğrenciler, bu derslerden Yönetim Kurulu kararı ile muaf sayılır.
+(4) Öğrenciler ders uyum ve muafiyeti isteklerini, Fakülteye kayıt tarihinden itibaren on beş gün içerisinde Dekanlığa yazılı olarak bildirmek zorundadır.

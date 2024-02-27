@@ -1,0 +1,2 @@
+Mezuniyet derecesi
+MADDE 32- (1) Mezun olan öğrencilerin mezuniyet dereceleri ağırlıklı not ortalaması alınarak hesaplanır. Mezunların başarı sıralaması belirlenirken; yıl kaybı olmayan, meslek derslerinden bütünlemeye kalmadan doğrudan sınıfı geçen öğrenciler öncelik sıralamasında yer alır. Ortak zorunlu dersler başarı not ortalamasının hesaplanmasında dikkate alınmaz. Öğrenim süresinin 1/6’sından fazlasını Fakülte dışında geçirmiş olanlar dereceye alınmaz.

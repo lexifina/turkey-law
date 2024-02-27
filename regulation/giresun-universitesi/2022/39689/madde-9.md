@@ -1,0 +1,2 @@
+Yatay geçişler
+MADDE 9- (1) Fakülteye, süre ve ders içerikleri itibarıyla eş değer eğitim programı uygulayan diğer tıp fakültelerinden; 24/4/2010 tarihli ve 27561 sayılı Resmî Gazete’de yayımlanan Yükseköğretim Kurumlarında Önlisans ve Lisans Düzeyindeki Programlar Arasında Geçiş, Çift Anadal, Yandal ile Kurumlar Arası Kredi Transferi Yapılması Esaslarına İlişkin Yönetmelik hükümlerine ve Senato kararlarına göre Yönetim Kurulu kararı ile yatay geçiş yapılır.

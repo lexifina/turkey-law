@@ -1,0 +1,5 @@
+Müfredat Komisyonu
+MADDE 16- (1) Müfredat Komisyonu; Fakültenin mezuniyet öncesi eğitim-öğretim programının ulusal ve uluslararası normlara uyumluluğunun sağlanması, izlenmesi Tıp Fakültesi Mezuniyet Öncesi Müfredat Komisyonu tarafından yapılır.
+(2) Müfredat Komisyonu; Fakülte amaç ve hedeflerinin UÇEP ile uyumluluğunu değerlendirerek, müfredat değişikliği süreçlerini tanımlar ve müfredat değişikliklerinin Fakülte çıktılarına yansımasını sağlar.
+(3) Hazırladığı programı değerlendirilmek üzere Fakülte Program Değerlendirme ve Gelişme Kuruluna sunar.
+(4) Ders değişikliği/yeni ders/seçmeli staj-ders önerileri, öneride bulunan birimin ana bilim dalı başkanı tarafından Mezuniyet Öncesi Müfredat Komisyonuna iletilir. Mezuniyet Öncesi Müfredat Komisyonu ilgili koordinatörlüğün görüşünü de alarak, istenen değişiklik ile ilgili raporunu Dekana sunar. Dekan raporu göz önüne alarak sınıf programlarını ve akademik takvimi hazırlar ve Fakülte Kuruluna sunar. Fakülte Kurulunda son hali verilen program ve akademik takvim Senato tarafından onaylandıktan sonra yürürlüğe girer.
