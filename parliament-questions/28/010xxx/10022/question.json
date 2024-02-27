@@ -1,0 +1,21 @@
+{
+  "record_type": "parliament-written-question",
+  "term": 28,
+  "legislative_year": 2,
+  "esas_no": "7/10022",
+  "submitted": "2024-02-27",
+  "submitted_as": "Başkanlığa geliş tarihi",
+  "mp": "Onur DÜŞÜNMEZ",
+  "province": "Hakkari",
+  "summary": "Yozgat 1 Nolu T Tipi Kapalı Cezaevinde bulunan bir mahkumun infaz süresini tamamlamasına karşın tahliye edilmediği iddiasına ilişkin",
+  "status": "Süresi Geçtikten Sonra Cevaplandı",
+  "status_as_of": "2026-11-16",
+  "official_record": "https://www.tbmm.gov.tr/Denetim/Yazili-Soru-Onergesi-Detay/7a30e6c3-0a81-442a-8296-018deea5ba22",
+  "source": "https://tbmm.gov.tr/Denetim/YaziliSoruOnergesiTable",
+  "source_form": "https://tbmm.gov.tr/Denetim/Yazili-Soru-Onergeleri",
+  "source_sha256": "5d3cca0844583ed531c16802299cfeb6f8bb428466b7c5493834b11463c4a1ff",
+  "in_force": "2024-02-27",
+  "in_force_basis": "Date the question reached the Speaker (Başkanlığa geliş tarihi) in the official TBMM written-question record; parliamentary oversight record, not law",
+  "history_type": "metadata",
+  "text_status": "metadata-only: question text, addressee and answers are in the linked official record (PDFs on cdn.tbmm.gov.tr); not transcribed here"
+}
