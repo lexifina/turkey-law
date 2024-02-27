@@ -1,0 +1,64 @@
+{
+  "checked_on": "2026-11-14",
+  "commencement_clauses": [
+    "MADDE 17 – (1) Bu Yönetmelik yayımı tarihinde yürürlüğe girer."
+  ],
+  "date_evidence": [
+    [
+      "2019-08-19",
+      "19.08.2019",
+      "original gazette publication date in official listing"
+    ],
+    [
+      "2024-02-27",
+      "RG-27/2/2024-32473",
+      "latest source-printed gazette amendment date for current consolidated text"
+    ],
+    [
+      "2024-02-27",
+      "RG-27/2/2024-32473",
+      "latest source-printed gazette amendment date for current consolidated text"
+    ],
+    [
+      "2024-02-27",
+      "RG-27/2/2024-32473",
+      "latest source-printed gazette amendment date for current consolidated text"
+    ],
+    [
+      "2024-02-27",
+      "RG-27/2/2024-32473",
+      "latest source-printed gazette amendment date for current consolidated text"
+    ],
+    [
+      "2024-02-27",
+      "27/2/2024",
+      "latest gazette date in source amendment table"
+    ]
+  ],
+  "date_quote": "RG-27/2/2024-32473",
+  "first_law": null,
+  "gazette": "30863",
+  "history": "current-text",
+  "images": {
+    "deferred": 0,
+    "omitted": 0,
+    "referenced": 0,
+    "source": 0
+  },
+  "in_force": "2024-02-27",
+  "in_force_basis": "latest source-printed gazette amendment date for current consolidated text",
+  "issuer": "Tokat Gaziosmanpaşa Üniversitesi",
+  "issuer_slug": "tokat-gaziosmanpasa-universitesi",
+  "kind": "regulation",
+  "label": "oldest version available",
+  "path": "regulation/tokat-gaziosmanpasa-universitesi/2019/33732",
+  "published": "2019-08-19",
+  "source": "https://www.mevzuat.gov.tr/anasayfa/MevzuatFihristDetayIframe?MevzuatTur=8&MevzuatNo=33732&MevzuatTertip=5",
+  "source_bytes": 32645,
+  "source_id": "8.5.33732",
+  "source_sha256": "d2fd0be4acfece5401a59d620ac0ea82b0865c4d4fa973867e160648960e2ff3",
+  "text_status": "current-consolidated",
+  "title": "TOKAT GAZİOSMANPAŞA ÜNİVERSİTESİ REHBERLİK VE PSİKOLOJİK DANIŞMANLIK UYGULAMA VE ARAŞTIRMA MERKEZİ YÖNETMELİĞİ",
+  "university_id": 197,
+  "word_count": 1210
+}
