@@ -1,0 +1,16 @@
+{
+  "kind": "decision",
+  "issuer": "Sayıştay Temyiz Kurulu",
+  "number": "56522",
+  "decision_date": "2024-02-28",
+  "source_id": 27796,
+  "chamber": "8",
+  "file_number": "53062",
+  "public_body_type": "Belediyeler ve Bağlı İdareler",
+  "account_year": "2020",
+  "subject": "Personel Mevzuatı ile İlgili Kararlar",
+  "source": "https://www.sayistay.gov.tr/KararlarTemyiz/Detay/27796/",
+  "source_sha256": "c744636fa692ca23d03213ca357a1390c9054ac080f070d3316f2a2f21545075",
+  "text_status": "as-enacted",
+  "text_file": "metin.md"
+}
