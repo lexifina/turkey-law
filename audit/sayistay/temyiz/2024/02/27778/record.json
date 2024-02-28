@@ -1,0 +1,15 @@
+{
+  "kind": "decision",
+  "issuer": "Sayıştay Temyiz Kurulu",
+  "number": "56506",
+  "decision_date": "2024-02-28",
+  "source_id": 27778,
+  "chamber": "5",
+  "file_number": "52347",
+  "account_year": "2020",
+  "subject": "Çeşitli Konuları İlgilendiren Kararlar",
+  "source": "https://www.sayistay.gov.tr/KararlarTemyiz/Detay/27778/",
+  "source_sha256": "4bd77c45df833d86227a65b04d29e329cba8e2ba90c90d213c3554498286cd75",
+  "text_status": "metadata-only",
+  "metadata_only_reason": "possible personal name in the official text"
+}
