@@ -1,0 +1,20 @@
+{
+  "applicant": "C.Ö.",
+  "application_date": "2020-08-07",
+  "application_number": "2020/26150",
+  "deciding_unit": "İkinci Bölüm",
+  "decision_date": "2023-11-02",
+  "id": "235a7ad2-10c5-76a7-e5e3-1cb7f80f155b",
+  "in_force": "2024-02-28",
+  "in_force_basis": "official Resmî Gazete date",
+  "kind": "constitutional-court-individual-application",
+  "omitted_images": 0,
+  "outcome": "Esas (İhlal)",
+  "published": "2024-02-28",
+  "referenced_images": 0,
+  "source": "https://kararlarbilgibankasi.anayasa.gov.tr/kbb/pages/search/Tumu?id=a2JiOjIzNWE3YWQyLTEwYzUtNzZhNy1lNWUzLTFjYjdmODBmMTU1Yg&type=BireyselBasvuru",
+  "source_api": "https://kararlarbilgibankasi.anayasa.gov.tr/api/core/public/search",
+  "source_images": 0,
+  "source_sha256": "6b01aff081dca191d096c5132ce77dc04b67d5ec727a38c1c4c1be9142224dae",
+  "version_label": "as-enacted"
+}
