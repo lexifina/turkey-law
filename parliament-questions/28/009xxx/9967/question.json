@@ -1,0 +1,21 @@
+{
+  "record_type": "parliament-written-question",
+  "term": 28,
+  "legislative_year": 2,
+  "esas_no": "7/9967",
+  "submitted": "2024-02-28",
+  "submitted_as": "Başkanlığa geliş tarihi",
+  "mp": "Ömer Faruk GERGERLİOĞLU",
+  "province": "Kocaeli",
+  "summary": "Kocaeli iline bağlı Erenler Mahallesi'nde bulunan yaya yolunun güvenli hale getirilmesi talebine ilişkin",
+  "status": "Süresi Geçtikten Sonra Cevaplandı",
+  "status_as_of": "2026-11-16",
+  "official_record": "https://www.tbmm.gov.tr/Denetim/Yazili-Soru-Onergesi-Detay/a2bc046a-e3ae-4282-8af9-018df3bb8e2f",
+  "source": "https://tbmm.gov.tr/Denetim/YaziliSoruOnergesiTable",
+  "source_form": "https://tbmm.gov.tr/Denetim/Yazili-Soru-Onergeleri",
+  "source_sha256": "47bb9ac2ca8833f9e57e44aad3368d38f8b5a8dbad4a125e2e46f177cfbfc5b4",
+  "in_force": "2024-02-28",
+  "in_force_basis": "Date the question reached the Speaker (Başkanlığa geliş tarihi) in the official TBMM written-question record; parliamentary oversight record, not law",
+  "history_type": "metadata",
+  "text_status": "metadata-only: question text, addressee and answers are in the linked official record (PDFs on cdn.tbmm.gov.tr); not transcribed here"
+}
