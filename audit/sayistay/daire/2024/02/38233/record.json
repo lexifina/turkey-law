@@ -1,0 +1,17 @@
+{
+  "kind": "decision",
+  "issuer": "Sayıştay 7. Dairesi",
+  "number": "598",
+  "decision_date": "2024-02-29",
+  "source_id": 38233,
+  "chamber": "7",
+  "ilam_number": "43",
+  "item_number": 1,
+  "public_body_type": "Genel Bütçe Kapsamındaki İdareler",
+  "account_year": 2022,
+  "subject": "Çeşitli Konuları İlgilendiren Kararlar",
+  "source": "https://www.sayistay.gov.tr/KararlarDaire/Detay/38233/",
+  "source_sha256": "54a06e756adc12137a46cc1a53a85cd880146460ef88bcd5b18f9bedc1a2977c",
+  "text_status": "as-enacted",
+  "text_file": "metin.md"
+}
