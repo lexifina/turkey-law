@@ -1,0 +1,26 @@
+{
+  "kind": "norm",
+  "issuer": "Enerji Piyasası Düzenleme Kurumu",
+  "market": "petroleum",
+  "document_type": "board-decision",
+  "number": "12466",
+  "decision_date": "2024-02-29",
+  "title": "TP Petrol Dağıtım Anonim Şirketi’nin; DEP/8791-3/41980 sayılı Depolama Lisansı kapsamında faaliyette bulunan TP Petrol Dağıtım A.Ş. Antalya Dolum ve Depolama Tesisine ilişkin",
+  "resmi_gazete_date": "2024-03-02",
+  "resmi_gazete_number": "32477",
+  "categories": [
+    "Depolama Tarifesi"
+  ],
+  "source": "https://www.epdk.gov.tr/Detay/DownloadDocument?id=nUJNO+Ku0P4=",
+  "documents": [
+    "https://www.epdk.gov.tr/Detay/DownloadDocument?id=nUJNO+Ku0P4=",
+    "https://www.epdk.gov.tr/Detay/DownloadDocument?id=0tBo4VYnASQ="
+  ],
+  "source_sha256": "eed4718e295a402cd040cb667c9f7e3d6fa6316f51e84973a6ad5b7c6b010eb4",
+  "official_list": "https://www.epdk.gov.tr/Detay/Icerik/3-0-100/kurul-kararlari",
+  "official_list_leaf": 5140,
+  "text_status": "as-enacted",
+  "text_file": "metin.md",
+  "in_force": "2024-02-29",
+  "law_text_complete": true
+}
