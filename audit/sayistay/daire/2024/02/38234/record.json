@@ -1,0 +1,17 @@
+{
+  "kind": "decision",
+  "issuer": "Sayıştay 7. Dairesi",
+  "number": "598",
+  "decision_date": "2024-02-29",
+  "source_id": 38234,
+  "chamber": "7",
+  "ilam_number": "43",
+  "item_number": 2,
+  "public_body_type": "Genel Bütçe Kapsamındaki İdareler",
+  "account_year": 2022,
+  "subject": "İhale Mevzuatı ile İlgili Kararlar",
+  "source": "https://www.sayistay.gov.tr/KararlarDaire/Detay/38234/",
+  "source_sha256": "4d0152c4067bcdaecfd7b2c4913c4dfd3c3a020673b6e0007628a108b9458a31",
+  "text_status": "as-enacted",
+  "text_file": "metin.md"
+}
