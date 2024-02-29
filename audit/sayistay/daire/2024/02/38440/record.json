@@ -1,0 +1,17 @@
+{
+  "kind": "decision",
+  "issuer": "Sayıştay 5. Dairesi",
+  "number": "638",
+  "decision_date": "2024-02-29",
+  "source_id": 38440,
+  "chamber": "5",
+  "ilam_number": "50",
+  "item_number": 2,
+  "public_body_type": "Belediyeler ve Bağlı İdareler",
+  "account_year": 2022,
+  "subject": "Çeşitli Konuları İlgilendiren Kararlar",
+  "source": "https://www.sayistay.gov.tr/KararlarDaire/Detay/38440/",
+  "source_sha256": "604b9f6eea3e5c2b78a04be643f05a9b84c932f964a626481cc8bdcc3a793df6",
+  "text_status": "as-enacted",
+  "text_file": "metin.md"
+}
