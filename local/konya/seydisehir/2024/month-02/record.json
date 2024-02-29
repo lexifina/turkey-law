@@ -1,0 +1,31 @@
+{
+  "number": "month-02",
+  "year": 2024,
+  "month": 2,
+  "title": "2024 ŞUBAT AYI MECLİS GÜNDEMİ",
+  "decision_date": null,
+  "index_date": "2024-02-29",
+  "date_precision": "month",
+  "period": "Şubat 2024",
+  "source": "https://www.seydisehir.bel.tr/mecliskararlari",
+  "official_page": "https://www.seydisehir.bel.tr/mecliskararlari",
+  "official_document": "https://www.seydisehir.bel.tr/upload/mecliskararlari/GnWaFFmM6q0Zwdh.pdf",
+  "source_sha256": "6dc4ea017b7f576641ae3781aeeddbe7e9f43ff31899c113eec185d4ad0e28a5",
+  "issuer": "Seydişehir Belediye Meclisi",
+  "history_type": "metadata",
+  "text_status": "metadata-only: listing fields as published; the decisions are in the linked official document(s) or page, not transcribed",
+  "in_force": "2024-02-29",
+  "in_force_basis": "The official listing gives only the month of this official file (Şubat 2024); date set to the last day of that month (turkey-law date convention for month-only sources); exact adoption dates are in the linked official document; legal commencement not asserted",
+  "missing": [
+    "decision numbers, dates and subjects",
+    "complete official decision text",
+    "official annexes"
+  ],
+  "law_text_complete": false,
+  "privacy_withheld": false,
+  "listing_label": "2024 ŞUBAT AYI MECLİS GÜNDEMİ",
+  "record_scope": "one official file of council decisions (meeting or month)",
+  "file_name": "meclistoplantigundemi_697.pdf",
+  "list_date": "2024-01-30",
+  "list_number": "001"
+}
