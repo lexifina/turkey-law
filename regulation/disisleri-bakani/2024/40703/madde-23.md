@@ -1,0 +1,9 @@
+Başkâtiplik ve konsolosluk yeterlik sınavına ilişkin usul ve esaslar
+MADDE 23- (1) Yazılı sınav aşağıda belirtilen üç bölümden oluşur ve her bir bölümden en az yetmiş puan alma şartı aranır:
+a) Uluslararası ilişkiler ile bağlantılı bir konuda sınava katılmakta olan meslek memurlarının Bakanlığa giriş dilinde tutum kâğıdı, nota, konuşma metni, mektup, makale veya benzeri bir metnin kaleme alınması.
+b) Uluslararası ilişkiler ile bağlantılı bir konuda Türkçe değerlendirme veya analiz yapılması.
+c) Konsolosluk, idari-mali işler, protokol ve duyurulacak diğer konu başlıklarını kapsayan bölüm.
+(2) İngilizce dışındaki dillerden Bakanlığa intisap eden meslek memurlarının, başkâtiplik ve konsolosluk yeterlik sınavına başvurabilmeleri için, sınav tarihinden önceki üç yıl içerisinde, İngilizce dilinde YDS/e-YDS’den en az C seviyesinde başarılı olmuş bulunmaları ya da eşdeğerlik dokümanında yer alan uluslararası yabancı dil sınavlarından eşdeğer puan almış olmaları gerekir.
+(3) Bu durumdaki meslek memurlarının, yazılı sınavda uluslararası ilişkiler ile bağlantılı bir konuda İngilizce tutum kâğıdı, nota, konuşma metni, mektup, makale veya benzeri bir metin de kaleme almaları istenir. Bahse konu sınavın geçer notu en az altmıştır.
+(4) Bakanlıkça yapılacak İngilizce sınavından alınan yetmişin üzerindeki puanların yarısı, yazılı sınavda aritmetik ortalaması alınacak puan toplamına eklenir. Yazılı sınavda üçüncü bir yabancı dilden daha ilave puan alınabilmesi için YDS/e-YDS’den veya eşdeğerlik dokümanında yer alan yabancı dil sınavlarının YDS karşılığından seksenin üzerinde puan alınmış olması gerekir. Seksenin üzerinde alınan puanların dörtte biri, adayın yazılı sınavda aritmetik ortalaması alınacak puan toplamına eklenir.
+(5) Sözlü sınavda, memurun mesleki bilgisi, nitelikleri ve motivasyonunun yanı sıra müzakere ve muhakeme kabiliyeti ile yabancı dile hâkimiyeti öncelikle değerlendirilir.
