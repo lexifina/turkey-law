@@ -1,0 +1,334 @@
+1 Mart 2024 CUMA
+Resmî Gazete
+Sayı : 32476
+YÖNETMELİK
+Orman Genel Müdürlüğünden:
+ORMAN GENEL MÜDÜRLÜĞÜ VERİLERİNİN İŞLENMESİ VE
+ELEKTRONİK
+ORTAMDA YAPILACAK İŞLEMLER HAKKINDA YÖNETMELİK
+BİRİNCİ BÖLÜM
+Başlangıç Hükümleri
+Amaç
+MADDE 1- (1) Bu Yönetmeliğin amacı, İdarece üretilen
+verilerin işlenmesi ile iş ve işlemlerin elektronik ortamda yürütülmesi
+için geliştirilen Orman Bilgi Sisteminin (ORBİS) hızlı ve güvenli bir
+biçimde kullanılmasına, ORBİS üzerinde verilerin güvenilir ve doğrulanabilir
+olarak üretilmesine, kullanılmasına ve paylaşılmasına ilişkin usul ve
+esasları belirlemektir.
+Kapsam
+MADDE 2- (1) Bu Yönetmelik, ORBİS’in
+hızlı ve güvenli bir biçimde kullanılmasına, ORBİS üzerinde verilerin
+güvenilir ve doğrulanabilir olarak üretilmesine, kullanılmasına ve
+paylaşılmasına ilişkin usul ve esasları kapsar.
+Dayanak
+MADDE 3- (1) Bu Yönetmelik, 4 sayılı Bakanlıklara Bağlı,
+İlgili, İlişkili Kurum ve Kuruluşlar ile Diğer Kurum ve Kuruluşların
+Teşkilatı Hakkında Cumhurbaşkanlığı Kararnamesinin 338 inci maddesinin
+birinci fıkrasının (p) bendine dayanılarak hazırlanmıştır.
+Tanımlar
+ve kısaltmalar
+MADDE 4- (1) Bu Yönetmelikte geçen;
+a) Açık veri: Bilişim kaynaklarının kullanabileceği
+şekilde derlenmiş, düzenlenmiş ve herkesin internet üzerinden
+ulaşabileceği, serbestçe kullanabileceği veriyi,
+b) Belge: Kurumsal süreç/faaliyet veya işlemin
+yerine getirilmesi için ORBİS üzerinden gerçekleştirilen işlem sonucu
+alınan ya da idare tarafından hazırlanan; içerik, ilişki ve format ile ait
+olduğu süreç/faaliyet veya işlem için delil teşkil eden iş akış aşamalarını
+ihtiva eden her türlü kayıtlı bilgiyi,
+c) EBYS: Elektronik Belge Yönetim Sistemini,
+ç) Elektronik onay: ORBİS’te
+yapılan iş ve işlemler ile kayıtların elektronik ortamda onaylanmasını,
+d) Elektronik ortam: Verilerin oluşturulabildiği,
+okunabildiği, değiştirilebildiği ve yazılabildiği her türlü bilgi ve
+iletişim teknolojilerini,
+e) Erişim yetki matrisi: Kullanıcıların, ORBİS
+üzerinde hangi modül ve ekranlara hangi yetki
+düzeyinde erişim sağlayacağını belirleyen tabloyu,
+f) Fiziksel ortam: Olağanüstü durumlarda veya
+zorunlu hâllerde kâğıt ortamında yapılan işlemleri,
+g) Format: Elektronik dosya türlerini,
+ğ) Genel Müdürlük: Orman Genel Müdürlüğünü,
+h) İdare: Orman Genel Müdürlüğü merkez ve taşra
+teşkilatını,
+ı) İzleme kaydı (log): ORBİS’te yapılan her türlü işlemin hangi ORBİS modülü üzerinde ve kim tarafından gerçekleştirildiği ile
+işlemin gerçekleştirildiği tarih, işlemin türü ve zaman bilgisini ihtiva
+eden kayıtları,
+i) Kişisel veri: Kimliği belirli veya
+belirlenebilir gerçek kişiye ilişkin her türlü bilgiyi,
+j) Kullanıcı: ORBİS’i
+kullanmak üzere yetkilendirilen İdare personeli ile İdareden hizmet alan
+veya İdareye hizmet veren kişileri,
+k) Kurum içi veri: İdare personelinin erişim
+sağlayabileceği veriyi,
+l) Modül: ORBİS kapsamında geliştirilmiş ve
+birbirleriyle entegre olarak çalışan yazılım
+uygulamalarını,
+m) Modül komisyonu: Bilgi Sistemleri Dairesi
+Başkanlığının görüşü alınarak ilgili modülden
+sorumlu Daire Başkanlığı tarafından kurulan en az üç kişiden oluşan
+komisyonu,
+n) Olağanüstü durum: Gerçekleşmesi hâlinde Devleti
+veya kurumları olumsuz etkileyerek güvenlik zafiyeti oluşturabilecek veya
+uzun süreli elektrik kesintileri, donanım ve yazılım sorunları gibi teknik
+gerekçelerle ORBİS’in uzun süreli olarak
+çalışmasına engel teşkil edebilecek durumları,
+o) ORBİS: Orman Bilgi Sistemini,
+ö) Önemli veri: Yetkili kişiler dışında erişimine
+izin verilmeyen veriyi,
+p) Süreli veri: Belirli bir süre saklanma
+zorunluluğu bulunan veriyi,
+r) Süresiz veri: Süresiz olarak saklanma
+zorunluluğu bulunan veriyi,
+s) Üst veri: ORBİS’teki
+verilere ait elektronik kaydı tanımlayan bilgileri,
+ş) Veri: İdare tarafından üretilen veya arşivlenen
+her türlü bilgi ve belgeyi,
+t) Zorunlu hâl: İlgili mevzuattaki özel hükümlere
+göre belgenin fiziksel ortamda hazırlanması gereken hâlleri,
+ifade eder.
+İKİNCİ BÖLÜM
+ORBİS’e İlişkin Genel Esaslar
+Verilerin
+özellikleri
+MADDE 5- (1) İdarenin faaliyet ve süreçlerindeki iş ve
+işlemleri neticesinde elde ettiği verilerin elektronik ortamda üretilmesi,
+iletilmesi, paylaşılması ve saklanması esastır. Ancak zorunlu hallerde
+veriler, fiziksel olarak üretilir, iletilir ve saklanır.
+(2) ORBİS’e uzun süreli
+olarak erişimin mümkün olmadığı olağanüstü durumlarda veriler fiziksel
+olarak üretilir, iletilir ve saklanır. Olağanüstü durumun ortadan kalkması
+ile birlikte ORBİS üzerinden işlemlere devam edilir. Olağanüstü durum
+süresinde fiziksel olarak üretilen veriler ORBİS’e
+aktarılır. Verilerin aktarılması ile ilgili iş ve işlemlerin nasıl
+yapılacağı hususunda Genel Müdürlük yetkilidir.
+(3) ORBİS’te yapılan
+işlemler oluşturulan modüller üzerinden
+gerçekleştirilir. Modüllerin birbiriyle uyumlu çalışması esastır.
+(4) ORBİS modüllerinin
+düzgün çalışıp çalışmadığının kontrol edilmesinden ilgili Daire Başkanı
+sorumludur.
+Belge
+özellikleri
+MADDE 6- (1) Belgeler farklı format veya ebatlarda
+hazırlanabilir.
+(2) Belgelerde farklı yazı tipi, harf büyüklüğü ve
+renk kullanılabilir.
+(3) Belgelere sayfa numarası verilir. Birden fazla
+sayfası olan belgelerde kaçıncı sayfa olduğu gösterilir.
+(4) ORBİS verilerinden üretilen belgelerde “Bu
+belge, ORBİS’te üretilmiştir.” ibaresi ile belgeyi
+oluşturan İdare personelinin kurumsal e-posta adresi ve işlemin yapıldığı
+tarih bilgisi yer alır.
+Belge
+doğrulama bilgileri
+MADDE 7- (1) ORBİS üzerinde oluşturulan belgelerin güvenli
+elektronik imza ile imzalanması esastır. Ancak güvenli elektronik imza ile
+imzalamanın mümkün olmaması halinde belgeler ilgili mevzuatına uygun olarak
+hazırlanır.
+(2) ORBİS üzerinde oluşturulan belgelerin
+elektronik onay sonrasında değiştirilemez şekilde kaydedilmesi esastır.
+Ancak elektronik olarak onaylanan belgelerde değişiklik yapılması gereken
+hallerde bu Yönetmelik hükümlerine göre işlem yapılır.
+(3) ORBİS üzerinde oluşturulan belgelerde doğrulama
+kodu yer alır. Üretilen belgelerin elektronik olarak doğrulanması için
+Genel Müdürlük tarafından gerekli tedbirler alınır.
+Üst veri
+MADDE 8- (1) Genel Müdürlük ihtiyacı doğrultusunda üst veri
+elemanlarını belirleyebilir.
+(2) Elektronik ortamda üretilen belgelerin üst veri
+elemanları, belgenin ayrılmaz bir bütünüdür. Belge görüntüsü üzerinde yer
+alan bilgiler ile üst veride yer alan bilgiler arasında fark olamaz.
+Verilere
+ilişkin iş ve işlemler
+MADDE 9- (1) Verilerin ORBİS üzerinde üretilmesi,
+iletilmesi ve üretilen verilerin İdarenin iş ve işlemlerinde kullanılması
+esastır.
+(2) ORBİS üzerinden yapılan tüm işlemler için
+izleme kaydı (log) tutulur. İzleme kayıtlarının
+içeriği Genel Müdürlük tarafından belirlenir.
+(3) ORBİS ile İdarenin kullandığı diğer elektronik
+sistemlerin entegre çalışması esastır.
+(4) ORBİS verileri kullanıcıların ünvan, birim ve paydaşlık durumuna göre İdarece yapılan
+yetkilendirme ile üretilir, görüntülenir ve onaylanır.
+(5) Kullanıcılar ORBİS’te
+ürettikleri ve onayladıkları verilerin doğruluğundan sorumludur.
+(6) Matematiksel işlemlerin ORBİS tarafından
+otomatik olarak yapılması sağlanır.
+(7) Genel Müdürlüğün faaliyet programında bulunan
+işlere ait fiili gerçekleşmelerin, bu işlere ait ödeme belgelerindeki
+verilerle uyumlu olması esastır.
+(8) Genel Müdürlükçe belirlenen ve İdarenin tüm
+birimlerince kullanılan ortak veriler Genel Müdürlükçe ORBİS’e
+kaydedilir ve güncellenir. Tüm modüller bu ortak
+verileri kullanır.
+(9) Program, plan ve proje verileri ile fiili
+olarak yapılan işlemlere ait veri girişleri ORBİS tarafından otomatik
+olarak karşılaştırılır, çelişki olması halinde kullanıcılar uyarılır.
+Verinin
+düzeltilmesi ve pasife alınması
+MADDE 10-
+(1) ORBİS üzerinde verinin eksik,
+hatalı veya yanlış olduğunun tespiti halinde düzeltme işlemi mevcut veriye
+müdahale edilmeden yeni veri girişi yapılmak sureti ile gerçekleştirilir.
+(2) ORBİS’e eksik, hatalı
+veya yanlış veri girildiğinin tespiti halinde düzeltme işlemi modül komisyonunca yetkilendirilmiş kullanıcılar
+tarafından elektronik onay ile gerçekleştirilir. Düzeltme işlemi sonunda
+verinin eski ve yeni hali erişilebilir olarak saklanır, izleme kaydı (log) tutulur.
+(3) ORBİS üzerindeki kayıtlar silinemez. Ancak,
+ORBİS verisinin hatalı veya yanlış olduğunun tespit edilmesi halinde durum modül komisyonuna iletilir. Modül komisyonunca verilerin
+silinmesinin gerekli olduğunun tespit edilmesi halinde modülden
+sorumlu Daire Başkanının onayı ile veri pasife alınır ve kaydın yeniden
+oluşturulması sağlanır. Pasife alma işlemi sonunda verinin eski ve yeni
+hali erişilebilir olarak saklanır. Söz konusu verinin kişisel veri olması
+halinde 24/3/2016 tarihli ve 6698 sayılı Kişisel
+Verilerin Korunması Kanununun 7 nci maddesinin
+birinci fıkrası hükmü uyarınca mezkur Kanun ve ilgili diğer kanun
+hükümlerine uygun olarak işlenmiş olmasına rağmen, işlenmesini gerektiren
+sebeplerin ortadan kalkması hâlinde kişisel veriler resen veya ilgili
+kişinin talebi üzerine veri sorumlusu tarafından silinir, yok edilir veya
+anonim hâle getirilir, izleme kaydı (log)
+tutulur.
+(4) Onaylanmasını takiben hatalı olduğu anlaşılan
+mali işlemler birinci fıkra kapsamında düzeltilir. Pasife alma işlemi
+yapılmaz.
+Verinin
+paylaşılması
+MADDE 11-
+(1) ORBİS’e
+kaydedilen verilerin İdare tarafından veri sınıflandırılması yapılır.
+Sınıflandırmaya göre kişisel veriler dışında kalan paylaşılabilecek
+nitelikteki veriler Genel Müdürlükçe belirlenir ve kamu kurum ve
+kuruluşları, özel hukuk tüzel kişileri ve gerçek kişiler ile
+paylaşılabilir. 6698 sayılı Kanun kapsamındaki kişisel veriler, ancak
+ilgililerin vereceği açık rıza halinde paylaşılabilir.
+(2) Genel Müdürlük; kamu kurum ve kuruluşları, özel
+hukuk tüzel kişileri ve gerçek kişilerin ORBİS’ten
+hangi sorgulamaları yapabileceklerini hazırlanacak sözleşme veya
+protokoller çerçevesinde belirler.
+(3) Kamu kurum ve kuruluşları, özel hukuk tüzel
+kişileri ve gerçek kişiler ile yapılacak sözleşme veya protokollerde
+aşağıda belirtilen hususlara yer verilir:
+a) Paylaşıma sunulacak veriler.
+b) Verilere erişimin şekli, kontrolü ve güvenliği.
+c) Sözleşme/protokol süresi.
+ç) ORBİS’i kullanma amacı
+ve varsa yasal dayanağı.
+d) Sorumluluk.
+e) Sınırlamalar.
+f) Eğitim.
+g) Ücretlendirme.
+ğ) Genel Müdürlükçe uygun görülecek diğer hususlar.
+(4) Kamu kurum ve kuruluşları, özel hukuk tüzel
+kişileri ve gerçek kişiler için her bir sorgulama, sorgu sonucu
+gönderilecek internet servisleri ve internet sayfaları için yetkilendirme
+yapılır. Günlük en fazla kaç defa sorgulama yapılabileceği, süreleri,
+yapılan işlemler için ne düzeyde izleme bilgisi tutulacağı gibi bilgi ve
+kısıtlamalar ile diğer hususlar sözleşme veya protokoller çerçevesinde
+belirlenir.
+(5) Genel
+Müdürlük; ORBİS’i kullanacak kamu kurum ve
+kuruluşları, özel hukuk tüzel kişileri ve gerçek kişileri sistemde
+tanımlar. Tanımlanan her bir kullanıcının ORBİS’e
+kendini tanıtabilmesi ve giriş yapabilmesi için Genel Müdürlük tarafından
+kullanıcı adı ve şifre verilir.
+(6) Kamu kurum ve kuruluşları ile özel hukuk tüzel
+kişileri tarafından elektronik ortamda sunulan veriler, ORBİS’e
+elektronik yolla alınabilir ve kullanılabilir.
+Verinin
+güvenliği, güvenilirliği ve doğruluğu
+MADDE 12- (1) Genel Müdürlük, ORBİS’te
+tutulan verilerin işlenmesinde ve paylaşılmasında gizlilik, bütünlük ve
+erişebilirlik temel ilkelerine uygun olarak 6698 sayılı Kanun ve bu Kanuna
+dayanılarak yürürlüğe konulan mevzuat hükümlerine uygun tedbirleri alır.
+(2) ORBİS’te üretilen ve
+saklanan verinin doğruluğundan, güncelliğinden ve güvenilirliğinden veriyi
+kaydeden ve onaylayan kullanıcılar sorumludur.
+(3) Kullanıcılara verilecek yetkiler, yürütülen
+görevler ve ihtiyaçlar doğrultusunda belirlenir. En az yetki prensibi
+uyarınca; işlemlerin yapılmasına imkan verecek
+asgari yetkiler haricinde yetkilendirme yapılamaz.
+(4) Kullanıcı erişim sağladığı veriyi yetkisiz
+kişilerle paylaşamaz.
+Veri
+sınıflandırması
+MADDE 13- (1) ORBİS verileri kişisel veri, önemli veri,
+kurum içi veri, açık veri, süreli veri ve süresiz veri olarak
+sınıflandırılır.
+(2) Genel Müdürlük ihtiyaç duyulması halinde veri
+sınıflandırmasında değişiklik yapabilir.
+(3) Genel Müdürlük veriye erişim izni verilen
+kullanıcılar haricindekilerin veriye erişimini engelleyecek şekilde
+kullanıcı yetkilerini belirler. Yetkisiz kişilerin veriye erişimini
+engeller. Bu amaçla erişim yetki matrisini hazırlar.
+(4) Genel Müdürlük ORBİS uygulamasında bilgi
+güvenliği politikasına uygun bir şekilde;
+a) Verinin yetki matrisi ile erişimini ve
+denetimini sağlayarak gizliliğine,
+b) Verinin benzer ortamlarda tutulmasını sağlayarak
+bütünlüğüne,
+c) Yetkilendirilmiş kişilerin veriye istenildiğinde
+ulaşılabilirliğine,
+ç) Verinin siber saldırı ve ihlallere karşı
+korunmasını sağlayarak güvenliğine,
+ilişkin tedbirleri alır.
+(5) Süreli verilerin saklama süreleri ile imha
+şeklini Genel Müdürlük belirler.
+İdare
+kullanıcıları
+MADDE 14- (1) İdare kullanıcılarının tanımlanması ve
+yetkilendirilmesi modül komisyonu tarafından
+erişim yetki matrisine göre yapılır.
+(2) Yetkilendirilen kullanıcıların verilen yetki
+çerçevesinde işlem yapabilmesi sağlanır. Kullanıcıların yaptığı her türlü
+işlemin izleme kaydı (log) tutulur.
+(3) Kullanıcı, ORBİS uygulamasına erişim için
+verilen kullanıcı adı ve şifrenin başkalarının eline geçmemesi için gerekli
+güvenlik tedbirlerini almak zorundadır.
+İzleme
+kaydının oluşturulması
+MADDE 15- (1) ORBİS’te yapılan her
+türlü işleme ait işlemin tarihi, saati, işlemi yapan kullanıcı bilgisi ve
+yapılan sorgulama bilgileri izleme kaydı (log)
+olarak tutulur ve bu bilgiler yedeklenir.
+(2) Genel Müdürlük kullanıcıların izleme
+kayıtlarına erişiminin engellenmesi için gerekli tedbirleri alır. İzleme
+kayıtları ancak, soruşturma ve inceleme kapsamında yetki verilenler ile adli
+makamlar tarafından istenildiğinde Bilgi Sistemleri Dairesi Başkanlığı
+tarafından paylaşılır.
+Yedekleme
+MADDE 16- (1) ORBİS uygulamasında veri kaybı yaşanmaması
+için Genel Müdürlükçe belli aralıklarla uygulama ve veritabanına ait
+yedekleme işlemi gerçekleştirilir.
+Donanım
+güvenliği
+MADDE 17- (1) ORBİS için kullanılan donanımın güvenlik
+ihtiyaçlarının tespit edilmesi, sistem odasına veya sistem konsollarına
+yetkisiz erişimin engellenmesi ve iş sürekliliğinin sağlanması için Genel
+Müdürlük gerekli tedbirleri alır.
+Eğitim
+MADDE 18- (1) Genel Müdürlükçe ORBİS’in
+kullanımı ile ilgili eğitim materyali hazırlanır ve kullanıcıların
+hizmetine sunulur.
+ÜÇÜNCÜ BÖLÜM
+Çeşitli ve Son Hükümler
+Düzenleme
+yetkisi
+MADDE 19- (1) Bu Yönetmeliğin uygulanması sırasında ortaya
+çıkabilecek tereddütleri ve uygulamaya ilişkin aksaklıkları gidermeye, ilke
+ve standartları belirlemeye, uygulama birliğini sağlayacak gerekli
+düzenlemeleri yapmaya Genel Müdürlük yetkilidir.
+Kayıtların
+uyumlaştırılması
+GEÇİCİ
+MADDE 1- (1) Bu Yönetmeliğin
+yayımı tarihinde mevcut olan ORBİS kayıtları, bu Yönetmeliğin yayımı
+tarihinden itibaren bir yıl içinde bu Yönetmelik hükümlerine uyumlu hâle
+getirilir.
+Yürürlük
+MADDE 20- (1) Bu Yönetmelik yayımı tarihinde yürürlüğe
+girer.
+Yürütme
+MADDE 21-
+(1) Bu Yönetmelik hükümlerini
+Orman Genel Müdürü yürütür.
