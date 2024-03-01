@@ -1,0 +1,21 @@
+{
+  "record_type": "parliament-written-question",
+  "term": 28,
+  "legislative_year": 2,
+  "esas_no": "7/10097",
+  "submitted": "2024-03-01",
+  "submitted_as": "Başkanlığa geliş tarihi",
+  "mp": "Uğur BAYRAKTUTAN",
+  "province": "Artvin",
+  "summary": "Artvin'in Borçka ilçesinde yaşanan heyelana ilişkin",
+  "status": "Süresi Geçtikten Sonra Cevaplandı",
+  "status_as_of": "2026-11-16",
+  "official_record": "https://www.tbmm.gov.tr/Denetim/Yazili-Soru-Onergesi-Detay/6e8d015f-5d2f-49ae-a52e-018e084b2fba",
+  "source": "https://tbmm.gov.tr/Denetim/YaziliSoruOnergesiTable",
+  "source_form": "https://tbmm.gov.tr/Denetim/Yazili-Soru-Onergeleri",
+  "source_sha256": "5d3cca0844583ed531c16802299cfeb6f8bb428466b7c5493834b11463c4a1ff",
+  "in_force": "2024-03-01",
+  "in_force_basis": "Date the question reached the Speaker (Başkanlığa geliş tarihi) in the official TBMM written-question record; parliamentary oversight record, not law",
+  "history_type": "metadata",
+  "text_status": "metadata-only: question text, addressee and answers are in the linked official record (PDFs on cdn.tbmm.gov.tr); not transcribed here"
+}
