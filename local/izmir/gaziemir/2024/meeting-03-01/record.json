@@ -1,0 +1,24 @@
+{
+  "number": "meeting-03-01",
+  "number_as_published": "meeting-03-01",
+  "year": 2024,
+  "title": "01.03.2024 KARAR ÖZETİ",
+  "decision_date": "2024-03-01",
+  "source": "https://www.gaziemir.bel.tr/meclis-karar-ve-ozetleri.php?sayfa=14",
+  "official_document": "https://api.gaziemir.bel.tr/upload_meclis/e210075e27d0a992ec597a7c236ac6a7e210075e27d0a992ec597a7c236ac6a7.doc",
+  "source_sha256": "c69bd0438a2a6452b6e9ba4b8f45677adf8898a7828e3450f114c22d90a2d2bd",
+  "issuer": "Gaziemir Belediye Meclisi",
+  "history_type": "metadata",
+  "text_status": "metadata-only: listing fields as published; complete decision text is in the linked official document, not transcribed",
+  "in_force": "2024-03-01",
+  "in_force_basis": "Decision date as printed in the official council listing: 01.03.2024; adoption date of the council decision; legal commencement not asserted",
+  "missing": [
+    "complete official decision text",
+    "official annexes"
+  ],
+  "law_text_complete": false,
+  "privacy_withheld": false,
+  "listing_label": "01.03.2024 KARAR ÖZETİ",
+  "record_scope": "one official file of council decisions (meeting)",
+  "posting_date": "06.03.2024"
+}
