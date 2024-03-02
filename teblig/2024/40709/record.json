@@ -1,0 +1,30 @@
+{
+  "source_id": "9.5.40709",
+  "kind": "communique",
+  "register_kind": "Tebliğler",
+  "title": "MUHASEBAT GENEL MÜDÜRLÜĞÜ GENEL TEBLİĞİ (SIRA NO: 88) (e-TEMİNAT MEKTUBU İŞLEMLERİ)",
+  "number": "40709",
+  "issuer": "Hazine ve Maliye Bakanı",
+  "path": "teblig/2024/40709",
+  "source": "https://www.mevzuat.gov.tr/anasayfa/MevzuatFihristDetayIframe?MevzuatTur=9&MevzuatNo=40709&MevzuatTertip=5",
+  "source_sha256": "dcad3742d5b4731559e5aceaa5f31409736686c0c2899ef3a891daa68e90599e",
+  "source_bytes": 27811,
+  "published": "2024-03-02",
+  "gazette": "32477",
+  "in_force": "2024-03-02",
+  "in_force_basis": "Resmî Gazete publication date in the official listing (02.03.2024); own commencement article: \"Bu Tebliğ, 1/1/2024 tarihinden itibaren geçerli olmak üzere yayımı tarihinde yürürlüğe girer\"",
+  "commencement_clauses": [
+    "Bu Tebliğ, 1/1/2024 tarihinden itibaren geçerli olmak üzere yayımı tarihinde yürürlüğe girer"
+  ],
+  "history": "current-text",
+  "label": "oldest version available",
+  "checked_on": "2026-11-15",
+  "word_count": 1130,
+  "text_status": "current-consolidated",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  },
+  "completeness": "html-text-complete"
+}
