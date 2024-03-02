@@ -1,0 +1,3 @@
+Denetim
+MADDE 10 – (1) Trafik kolluğunca, geçiş üstünlüğünü gerekli şartlar oluşmadan kullananlar hakkında Kanunun 71 inci, geçiş üstünlüğüne sahip olmamasına rağmen geçiş üstünlüğüne sahip araçların kullanabileceği ışıklı ve/veya sesli uyarı işaretlerini araçlarda bulunduran ve/veya kullananlar hakkında ise Kanunun 26 ncı maddesine istinaden gerekli yasal işlemler yapılır.
+(2) Birinci fıkra doğrultusunda işlem yapılan aracın kamu kurum veya kuruluşuna ait olması halinde, sorumlular hakkında gerekli idari ve adli işlemler başlatılmak üzere durum ilgili trafik kolluğu tarafından ayrıca ilgili kamu kurum veya kuruluşuna yazılı olarak bildirilir.
