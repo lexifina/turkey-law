@@ -1,0 +1,4 @@
+Eğitim-öğretim dönemleri
+MADDE 7- (1) Bir eğitim-öğretim yılı, yarıyıl sonu sınav süreleri hariç olmak üzere, her biri en az 14 haftalık iki yarıyıldan oluşur. Zorunlu hallerde sınavlar ve dersler, cumartesi ve pazar günleri de yapılabilir. Senato gerekli gördüğü durumlarda yarıyıl sürelerini uzatabilir.
+(2) Akademik takvimde yaz okulu programlarına yer verilebilir. Yaz öğretimi Senato tarafından belirlenen esaslara göre yürütülür.
+(3) Eğitim-öğretim, ilgili birimlerin önerisi ve Senatonun onayı ile belirlenen akademik takvime göre uygulanır. Birimler, bir eğitim-öğretim yılında; kayıt yenileme, öğretim, sınavlar, yarıyıl tatili ve yaz dönemlerini kapsayan bir sonraki eğitim-öğretim yılına ait akademik takvimlerini Rektörlüğe sunarlar. Akademik takvim her yıl Senatonun onayıyla yürürlüğe girer.

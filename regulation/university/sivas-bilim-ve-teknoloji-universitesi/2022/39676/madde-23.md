@@ -1,0 +1,3 @@
+İntibak ve ders sayımı
+MADDE 23- (1) Öğrencilerin, Üniversitenin ilgili birimlerinden veya bir yükseköğretim kurumundan aldıkları derslerin kayıtlı oldukları programa sayım işlemlerine ilişkin esasları, ilgili mevzuat hükümleri ve YÖK kararları çerçevesinde Senato tarafından belirlenir.
+(2) İlgili komisyonlar öğrencinin daha önceki dönemlerde aldığı dersler ile yatay geçiş yaptığı programın derslerini dikkate alarak, Senatonun belirlediği esaslara göre öğrencinin hangi yarıyıla veya sınıfa intibak ettirileceğini tespit eder; varsa öğrencinin alması gereken ilave derslerden oluşan bir intibak programı ile muaf tutulması gereken dersleri belirler.

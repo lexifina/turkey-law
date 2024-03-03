@@ -1,0 +1,2 @@
+Öğrenci katkı payı ve öğrenim ücreti
+MADDE 20- (1) 2547 sayılı Kanunun 46 ncı maddesi ve diğer ilgili mevzuat hükümleri uyarınca belirlenen öğrenci katkı payları/öğrenim ücretleri, ilgili dönem başlarında akademik takvimde belirtilen kayıt yenileme tarihlerinde ödenir. Süresi içinde katkı payı veya öğrenim ücretini ödemeyenler ve mazeretleri, birim yönetim kurullarınca kabul edilmeyenler o dönem için kayıt yenileme işlemi yaptıramaz ve öğrencilik haklarından yararlanamazlar.
