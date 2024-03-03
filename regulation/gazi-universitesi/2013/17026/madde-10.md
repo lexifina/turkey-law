@@ -1,0 +1,4 @@
+Yönetim Kurulu
+MADDE 10 –(Değişik:RG-29/9/2014-29134)
+(1) Yönetim Kurulu; Rektörün başkanlığında, Tıp Fakültesi Dekanı, Merkez Müdürü, Merkez Müdürünün önereceği bir müdür yardımcısı, cerrahi, dâhili tıp bilimleri bölüm başkanları ve Merkez Müdürünün önereceği tıbbi laboratuvar birim sorumlularından biri ile Rektör tarafından iki yıl için görevlendirilen Tıp Fakültesi dâhili ve cerrahi tıp bilimleri öğretim üyeleri arasından birer kişi olmak üzere toplam dokuz kişiden oluşur. Görev süresi biten üye yeniden görevlendirilebilir. Üyeliğin herhangi bir nedenle boşalması halinde kalan süreyi tamamlamak üzere yeni bir üye görevlendirilebilir.
+(2) Yönetim Kurulu Merkezin karar organıdır. Rektör, Yönetim Kurulunun başkanıdır. Rektörün katılmadığı toplantılarda Merkez Müdürü Yönetim Kuruluna başkanlık eder. Yönetim Kurulu, Başkanın daveti üzerine yılda en az bir kez salt çoğunlukla toplanır ve kararlar oy çokluğu ile alınır.
