@@ -1,0 +1,24 @@
+{
+  "number": "meeting-03-04",
+  "number_as_published": "meeting-03-04",
+  "year": 2024,
+  "title": "04.03.2024 / Saat 11:00 Meclis Toplantısı ve Kararlar",
+  "decision_date": "2024-03-04",
+  "source": "https://www.emet.bel.tr/karar/04032024--saat-1100-meclis-toplantisi-ve-kararlar/72/",
+  "official_document": "https://www.emet.bel.tr/dosya/meclis/dosyalar/mart.docx",
+  "source_sha256": "248d717db0c4a1582be1a5f10904f18bfa781e9dcb833cb75ce26d7d67b13796",
+  "issuer": "Emet Belediye Meclisi",
+  "history_type": "metadata",
+  "text_status": "metadata-only: listing fields as published; complete decision text is in the linked official document, not transcribed",
+  "in_force": "2024-03-04",
+  "in_force_basis": "Decision date as printed in the official council listing: 04.03.2024; adoption date of the council decision; legal commencement not asserted",
+  "missing": [
+    "complete official decision text",
+    "official annexes"
+  ],
+  "law_text_complete": false,
+  "privacy_withheld": false,
+  "listing_label": "04.03.2024 / Saat 11:00 Meclis Toplantısı ve Kararlar",
+  "record_scope": "one official file of council decisions (meeting)",
+  "official_page": "https://www.emet.bel.tr/karar/04032024--saat-1100-meclis-toplantisi-ve-kararlar/72/"
+}
