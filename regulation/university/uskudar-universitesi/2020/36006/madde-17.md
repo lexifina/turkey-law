@@ -1,0 +1,2 @@
+Dekan
+MADDE 17 – (1) Fakültenin ve birimlerinin temsilcisi olan dekan, Rektörün Üniversite içinden veya dışından bir profesörü aday göstermesi üzerine, Mütevelli Heyeti onayı ile YÖK’ün olumlu görüşü alındıktan sonra atanır. Dekanın görev süresi üç yıldır. Süresi sona eren dekan yeniden atanabilir. Dekan, kendisine yardımcı olmak üzere fakültenin tam zamanlı öğretim üyeleri arasından en çok iki kişiyi dekan yardımcısı olarak seçer. Dekan yokluğunda yardımcılarından birini vekil bırakır. Göreve vekâlet altı aydan fazla sürerse yeni bir dekan atanır.

@@ -1,0 +1,2 @@
+Danışma Kurulu
+MADDE 10 – (1) Mütevelli Heyeti; Üniversitenin eğitim-öğretim ve bilimsel araştırma anlayışı ve yöntemlerine uygun olarak gelişmesini sağlamak ve bu amaca uygun olarak ulusal ve uluslararası düzeyde araştırma ve yayın faaliyetlerinde bulunmak için Mütevelli Heyetine ve Üniversitenin yetkili organlarına kendiliğinden ve talep üzerine araştırma ve inceleme yapmak, görüş bildirmek ve önerilerde bulunmak üzere bir Danışma Kurulu oluşturabilir.

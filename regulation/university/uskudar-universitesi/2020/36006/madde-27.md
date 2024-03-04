@@ -1,0 +1,4 @@
+Uygulama ve araştırma merkezleri
+MADDE 27 – (1) Üniversitede, belirli konularda özgün araştırmaların yürütülmesi amacıyla YÖK’ün onayı ile uygulama ve araştırma merkezleri kurulabilir. Merkez müdürleri Rektörün önerisi üzerine Başkanın onayı ile görevlendirilir. Ayrıca merkez müdürünün önerisi ve Rektörün onayı ile en çok iki müdür yardımcısı görevlendirilebilir. Merkez müdürü, yokluğunda yardımcılarından birini vekil bırakır. Göreve vekâlet altı aydan fazla sürerse, yeni bir müdür görevlendirilir.
+(2) Merkez müdürü, araştırma projelerini düzenler ve Rektörün onayına sunar.
+(3) Tam zamanlı çalışan Üniversite personelinin projelerden veya danışmanlık hizmetlerinden elde edilecek gelirlerden nasıl yararlandırılacaklarına ilişkin esaslar, Senato tarafından ilgili mevzuat hükümlerine göre belirlenir.
