@@ -1,0 +1,21 @@
+{
+  "record_type": "parliament-written-question",
+  "term": 28,
+  "legislative_year": 2,
+  "esas_no": "7/10157",
+  "submitted": "2024-03-04",
+  "submitted_as": "Başkanlığa geliş tarihi",
+  "mp": "Türker ATEŞ",
+  "province": "Bolu",
+  "summary": "2023 yılı merkezi yönetim bütçesinde sınıflandırmaya girmeyen kalemlerden yapılan harcama ve giderlere ilişkin",
+  "status": "Süresi Geçtikten Sonra Cevaplandı",
+  "status_as_of": "2026-11-16",
+  "official_record": "https://www.tbmm.gov.tr/Denetim/Yazili-Soru-Onergesi-Detay/13a366f7-3036-4253-bb91-018e0d6ffb30",
+  "source": "https://tbmm.gov.tr/Denetim/YaziliSoruOnergesiTable",
+  "source_form": "https://tbmm.gov.tr/Denetim/Yazili-Soru-Onergeleri",
+  "source_sha256": "622386b8a44e271e9d690444c07c6adedc82887e81ad6aa03ff6252c5149aad8",
+  "in_force": "2024-03-04",
+  "in_force_basis": "Date the question reached the Speaker (Başkanlığa geliş tarihi) in the official TBMM written-question record; parliamentary oversight record, not law",
+  "history_type": "metadata",
+  "text_status": "metadata-only: question text, addressee and answers are in the linked official record (PDFs on cdn.tbmm.gov.tr); not transcribed here"
+}
