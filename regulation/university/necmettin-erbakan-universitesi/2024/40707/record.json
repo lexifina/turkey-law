@@ -1,0 +1,31 @@
+{
+  "act_path": "regulation/university/necmettin-erbakan-universitesi/2024/40707",
+  "availability": "text",
+  "checked_on": "2026-11-14",
+  "commencement_clauses": [
+    "MADDE 18- (1) Bu Yönetmelik yayımı tarihinde yürürlüğe girer."
+  ],
+  "date_quote": "MADDE 18- (1) Bu Yönetmelik yayımı tarihinde yürürlüğe girer.",
+  "first_law": null,
+  "gazette": "32479",
+  "history": "as-enacted",
+  "images": {
+    "deferred": 0,
+    "omitted": 0,
+    "referenced": 0,
+    "source": 0
+  },
+  "in_force": "2024-03-04",
+  "in_force_basis": "source commencement clause: effective on Gazette publication",
+  "issuer": "Necmettin Erbakan Üniversitesi",
+  "issuer_slug": "necmettin-erbakan-universitesi",
+  "kind": "regulation",
+  "published": "2024-03-04",
+  "source": "https://www.mevzuat.gov.tr/anasayfa/MevzuatFihristDetayIframe?MevzuatTur=8&MevzuatNo=40707&MevzuatTertip=5",
+  "source_id": "8.5.40707",
+  "source_sha256": "5110c79b0e42d82baf84bb3236f005ce8528734999d37ed709f53ba266f1899e",
+  "title": "NECMETTİN ERBAKAN ÜNİVERSİTESİ TIBBİ VE KOZMETİK BİTKİLER UYGULAMA VE ARAŞTIRMA MERKEZİ YÖNETMELİĞİ",
+  "university_id": 416,
+  "version_label": "oldest version available",
+  "word_count": 1102
+}
