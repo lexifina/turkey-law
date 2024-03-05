@@ -1,0 +1,2 @@
+Dayanak
+MADDE 2- (1) Bu Tebliğ, 14/1/2015 tarihli ve 6585 sayılı Perakende Ticaretin Düzenlenmesi Hakkında Kanunun 16 ncı maddesinin birinci fıkrasının (ç) bendine, 1 sayılı Cumhurbaşkanlığı Teşkilatı Hakkında Cumhurbaşkanlığı Kararnamesinin 446 ncı maddesine ve 6/8/2016 tarihli ve 29793 sayılı Resmî Gazete’de yayımlanan Perakende Ticarette Uygulanacak İlke ve Kurallar Hakkında Yönetmeliğin 11 inci maddesinin altıncı fıkrasına dayanılarak hazırlanmıştır.
