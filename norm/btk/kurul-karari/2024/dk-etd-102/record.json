@@ -1,0 +1,18 @@
+{
+  "kind": "norm",
+  "issuer": "Bilgi Teknolojileri ve İletişim Kurumu",
+  "document_type": "kurul-karari",
+  "number": "2024/DK-ETD/102",
+  "source_id": "2024/DK-ETD/102",
+  "date": "2024-03-05",
+  "title": "RIPVAET Tadili",
+  "source": "https://www.btk.gov.tr/s3/web-btk-site/7708c26c-5161-4919-8b3d-daa31d4ac8fb/2026/03/d90e747b-4d8d-4811-8b80-c599bb1f01c0.pdf",
+  "source_sha256": "615100518fbf85922f599cca1d257ec175bd96b74404cb6415419ce3907641a8",
+  "text_status": "as-enacted",
+  "text_file": "metin.md",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  }
+}
