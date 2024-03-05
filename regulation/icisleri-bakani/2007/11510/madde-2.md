@@ -1,0 +1,2 @@
+Kapsam
+MADDE 2 – (1) Bu Yönetmelik, emniyet hizmetleri sınıfında görev yapan her rütbedeki personelin kıyafet şekilleri, branş ve rütbe işaretleri, teçhizat çeşitleri ile 14/9/1991 tarihli ve 91/2268 sayılı Bakanlar Kurulu kararı ile yürürlüğe konulan Memurlara Yapılacak Giyecek Yardımı Yönetmeliğinde Emniyet Teşkilatı için hizmetin özelliği itibarıyla verilmesi öngörülen giyecek eşyası ve teçhizatın şekil, renk, cins ve kullanma zamanı ile tarzına ilişkin hususları kapsar.

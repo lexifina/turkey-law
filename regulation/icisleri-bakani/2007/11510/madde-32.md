@@ -1,0 +1,2 @@
+Alt düzenleyici işlemler
+MADDE 32 – (1) Bu Yönetmeliğin 20, 22 ve 30 uncu maddelerinde öngörülen görev ve hizmetin özelliğine göre; verilecek işaret, sembol, kokart ve kıyafetlere ilişkin hususlar, ilgili Başkanlıklarca çıkarılacak yönergelerle belirlenir. Ancak; yönergelerde daha sonra yapılacak işaret ve kıyafetlere ilişkin renk ve şekil değişiklikleri Genel Müdürlük (Değişik ibare:RG-25/8/2022-31934) Destek Hizmetleri Daire Başkanlığının uygun görüşü alınarak yapılır.
