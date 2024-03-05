@@ -1,0 +1,3 @@
+Koruma önlemleri
+MADDE 30- (1) Kurum, 28 inci maddenin birinci fıkrasında belirtilen gerekliliklere uygun olmasına rağmen insan sağlığına ciddi bir risk teşkil ettiğinden emin olunan ya da risk teşkil edebileceğine dair makul gerekçelerin olduğu kozmetik ürünlerin piyasadan çekilmesini, geri çağrılmasını ya da ürüne erişimin kısıtlanmasını sağlamak amacıyla gerekli bütün tedbirleri alır.
+(2) Kurum, bu madde kapsamında gerçekleştirilen faaliyetler ve destekleyici veriler ile ilgili olarak gerektiğinde, Ticaret Bakanlığı aracılığıyla Komisyon ve AB üyesi ülkelerin yetkili otoriteleri ile bilgi paylaşımı yapar.

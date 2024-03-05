@@ -1,0 +1,4 @@
+Geçiş hükümleri
+GEÇİCİ MADDE 1- (1) Bu Yönetmeliğin yürürlüğe girdiği tarihten önce 38 inci madde ile yürürlükten kaldırılan Kozmetik Yönetmeliğine uygun olarak piyasaya arz edilmiş olan ürünler, bu Yönetmeliğin yürürlüğe girmesinden itibaren 2 yıl süreyle piyasada bulundurulabilir.
+(2) (Değişik:RG-5/3/2024-32480) Birinci fıkrada belirtilen süre boyunca, bu Yönetmeliğin 38 inci maddesiyle yürürlükten kaldırılan Kozmetik Yönetmeliğinin 14 üncü maddesine uygun olarak yapılmış bildirimin bu Yönetmeliğin 16 ncı maddesine uygun olduğu kabul edilir.
+(3) (Değişik:RG-5/3/2024-32480) 13 üncü maddenin ikinci fıkrası kapsamında yapılacak ürün güvenlilik değerlendirmesi ile 14 üncü madde kapsamında hazırlanacak ürün bilgi dosyası bu Yönetmeliğin 38 inci maddesiyle yürürlükten kaldırılan Kozmetik Yönetmeliği kapsamında bildirimi yapılan ürünler için bu Yönetmeliğin yürürlüğe girdiği tarihten itibaren altı ay içinde yapılır.

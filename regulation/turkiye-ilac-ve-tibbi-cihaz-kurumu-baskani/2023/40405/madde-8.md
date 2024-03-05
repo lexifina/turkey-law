@@ -1,0 +1,4 @@
+Sorumlu kişinin yükümlülükleri
+MADDE 8- (1) Sorumlu kişiler; 5 inci, 11 inci, 13 ila 21 inci, 22 nci maddenin birinci, ikinci ve beşinci fıkraları, 23 üncü, 24 üncü, 26 ncı ve 27 nci maddelere uygunluğu sağlar.
+(2) Sorumlu kişiler, piyasaya arz ettikleri bir kozmetik ürünün bu Yönetmeliğe uygun olmadığını değerlendirmesi veya buna ilişkin gerekçesi olması halinde bu ürünü uygun hale getirmek, piyasadan çekmek veya geri çağırmak için gerekli düzeltici önlemleri derhal alır. Kozmetik ürünün insan sağlığı için bir risk teşkil ettiği durumlarda, sorumlu kişiler, özellikle uygunsuzluk ve yapılan her türlü düzeltici faaliyet ile ilgili olarak Kurumu derhal bilgilendirir.
+(3) Sorumlu kişi; piyasada bulundurduğu kozmetik ürünlere ilişkin riskleri ortadan kaldırmak için Kurumla iş birliği yapar. Sorumlu kişi, özellikle Kurumun gerekçeli talebi üzerine ürünün belirli yönlerinin uygunluğunu kanıtlamak için gereken tüm bilgi ve dokümanları Türkçe veya İngilizce sunar.

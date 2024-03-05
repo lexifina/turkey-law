@@ -1,0 +1,2 @@
+Kozmetik ürünlerin içerdiği maddelere ilişkin bilgiler
+MADDE 27- (1) Kurum, kozmetik ürünlerin içerdiği herhangi bir maddenin güvenliliğine ilişkin ciddi şüphelerin olması durumunda, sorumlu kişiden söz konusu maddeyi içeren kozmetik ürünlerin listesini, bu maddenin ürünlerde bulunduğu konsantrasyon bilgileri ile birlikte talep eder. Kurum, bu maddede belirtilen bilgileri; 28 inci, 29 uncu ve 30 uncu maddeler çerçevesinde piyasa gözetimi ve denetimi, pazar analizi, değerlendirme ve tüketicileri bilgilendirme amaçlarıyla kullanabilir.

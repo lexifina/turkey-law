@@ -1,0 +1,4 @@
+İş birliği
+MADDE 32- (1) Kurum, bu Yönetmeliğin yeknesak uygulanmasına olanak sağlamak amacıyla gerekli bilgi alışverişi için Komisyon ve AB Üye Devletlerinin yetkili makamları ile karşılıklı olarak iş birliği yapar.
+(2) Kurum, kozmetik ürünün bulundurulduğu bir AB Üyesi Devletin yetkili otoritesinin nedenlerini belirterek ilettiği bir talebi halinde, durumun aciliyetini dikkate alarak gecikmeksizin sorumlu kişide bulunan ürün bilgi dosyasının 14 üncü maddenin ikinci fıkrası gerekliliklerini karşıladığı ve içerdiği bilgilerin kozmetik ürünün güvenliliğine ilişkin kanıt sağladığını doğrulayarak bulgularını talep sahibi yetkili otoriteye iletir.
+(3) Kurum, piyasada bulundurulan bir kozmetik ürün için AB’de yerleşik sorumlu kişinin bulunduğu Üye Devletin yetkili otoritesinden ikinci fıkrada belirtilen sürecin işletilmesini talep edebilir.

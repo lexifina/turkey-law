@@ -1,0 +1,9 @@
+Kanserojen, mutajen ve üreme için toksik maddeler olarak sınıflandırılan maddeler
+MADDE 18- (1) Maddelerin ve Karışımların Sınıflandırılması, Etiketlenmesi ve Ambalajlanması Hakkında Yönetmeliğin Ek-6’sının Üçüncü Bölümü uyarınca kategori 2 kanserojen, mutajen ve üreme için toksik maddeler olarak sınıflandırılan maddelerin kozmetik ürünlerde kullanımı, Kurum ilgili maddenin kullanımının güvenli olduğunu değerlendirmediği sürece yasaktır.
+(2) Maddelerin ve Karışımların Sınıflandırılması, Etiketlenmesi ve Ambalajlanması Hakkında Yönetmeliğin Ek-6’sının Üçüncü Bölümü uyarınca Kategori 1A veya 1B kanserojen, mutajen ve üreme için toksik maddeler olarak sınıflandırılan maddelerin kozmetik ürünlerde kullanımı yasaktır. Ancak aşağıdaki şartların tamamı yerine getirildiğinde bu kapsamdaki maddelerin kozmetik ürünlerde kullanılabilmeleri için muafiyet tanınabilir:
+a) 11/6/2010 tarihli ve 5996 sayılı Veteriner Hizmetleri, Bitki Sağlığı, Gıda ve Yem Kanununda tanımlanan gıda güvenliği gerekliliklerine uymaları.
+b) Dokümante edilmiş bir analiz ile uygun bir alternatif maddenin olmadığının gösterilmesi.
+c) Başvurunun, ürün kategorisinin belirli bir kullanımı ile bilinen maruz kalma için yapılmış olması.
+ç) Hassas popülasyon grupları özel olarak dikkate alınarak ve diğer kaynaklardan toplam maruz kalma miktarı da göz önünde bulundurularak, Komisyon tarafından, bu maddelerin kozmetik ürünlerde kullanılmalarının ürünlere maruz kalma açısından değerlendirilmesi ve güvenli bulunması.
+(3) Zararlı maddelerin varlığı ve maruz kalma yollarıyla bağlantılı muhtemel riskler göz önünde bulundurularak, kozmetik ürünün yanlış kullanımının önlenmesi amacıyla 5 inci madde uyarınca spesifik etiketleme yapılır.
+(4) Kurum, bu maddelerin kullanımına ilişkin güvenlilik endişeleri ortaya çıktığında maddeleri yeniden değerlendirir ve gerektiğinde ilgili ekleri Komisyon kararını dikkate alarak günceller.

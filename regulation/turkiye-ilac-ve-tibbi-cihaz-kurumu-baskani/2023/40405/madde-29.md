@@ -1,0 +1,2 @@
+Dağıtıcıların yükümlülüklerine ilişkin uygunsuzluklar
+MADDE 29- (1) Kurum, 9 uncu maddede belirtilen gerekliliklere uygunsuzluk olduğu durumlarda, risk ile orantılı olarak Kurumun belirlediği makul bir sürede, dağıtıcılardan ürünü uygun hale getirecek düzeltici önlemler ile ürünün piyasadan çekilmesi, geri çağrılması ya da imhası da dâhil olmak üzere uygun tüm düzeltici faaliyetleri yerine getirmesini ister.

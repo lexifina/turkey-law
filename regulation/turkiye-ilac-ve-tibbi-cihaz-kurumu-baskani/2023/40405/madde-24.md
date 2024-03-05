@@ -1,0 +1,3 @@
+Kamunun bilgilendirilmesi
+MADDE 24- (1) Sorumlu kişi, özellikle ticari sırların ve fikri mülkiyet haklarının korunması saklı kalmak koşuluyla, kozmetik ürünün nicel ve nitel bileşiminin, parfüm ve aromatik bileşimler olması durumunda bileşimlerin adı ve kod numarası ile birlikte tedarikçinin adının, kozmetik ürünün kullanımından kaynaklanan istenmeyen etkilere ve ciddi istenmeyen etkilere ilişkin mevcut verilerin uygun yöntemlerle kamunun erişimine açık olmasını sağlar.
+(2) Kozmetik ürünün nicel bileşimine ilişkin kamunun erişimine sunulması gereken bilgiler, Maddelerin ve Karışımların Sınıflandırılması, Etiketlenmesi ve Ambalajlanması Hakkında Yönetmeliğin 5 inci maddesinin kapsadığı zararlı maddelerle sınırlı olur.
