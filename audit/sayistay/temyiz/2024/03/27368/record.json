@@ -1,0 +1,16 @@
+{
+  "kind": "decision",
+  "issuer": "Sayıştay Temyiz Kurulu",
+  "number": "56529",
+  "decision_date": "2024-03-06",
+  "source_id": 27368,
+  "chamber": "2",
+  "file_number": "53711",
+  "public_body_type": "Yüksek Öğretim Kurumları",
+  "account_year": "2017",
+  "subject": "İhale Mevzuatı ile İlgili Kararlar",
+  "source": "https://www.sayistay.gov.tr/KararlarTemyiz/Detay/27368/",
+  "source_sha256": "5de286a61d5d4f59e3a455cbb6bfac266341092857e86134c85199a9bd478d8d",
+  "text_status": "metadata-only",
+  "metadata_only_reason": "possible personal name in the official text"
+}
