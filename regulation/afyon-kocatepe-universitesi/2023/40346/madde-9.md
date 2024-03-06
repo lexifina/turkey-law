@@ -1,0 +1,6 @@
+Özel öğrenci kabulü
+MADDE 9- (1) Bir yüksek lisans, doktora ya da sanatta yeterlik programına kayıtlı olan öğrenciler, diğer yükseköğretim kurumlarındaki lisansüstü derslere kayıtlı olduğu EABD/EASD başkanlığının onayı ile özel öğrenci olarak kabul edilebilir.
+(2) Lisansüstü derslere kabul edilen öğrencilerin özel öğrenci olarak aldığı ve başarılı olduğu derslerin muafiyet işlemleri kayıtlı olduğu EABD/EASD başkanlığı tarafından, bu Yönetmelikte belirtilen hükümler çerçevesinde yürütülür.
+(3) EABD/EASD’ler için özel öğrenci kontenjanları, enstitünün öğrenci alımları için en son ilana çıkılan kontenjan sayısının %50’sini geçemez.
+(4) Özel öğrenciler, kabul edildiği programlardaki geçerli müfredatta belirlenen ve mezuniyete hak kazanabilmek için açılan derslerin toplam sayısının en çok %50’sini alabilirler. Söz konusu öğrencilere; derslere devam koşulları, sınavlar, başarı notu, ders tekrarı ve diğer konular hakkında öğrencinin ders aldığı programa ilişkin bu Yönetmelikte belirtilen hükümler uygulanır.
+(5) Özel öğrencilik statüsü sona eren öğrenci için, yazılı başvurusu halinde aldığı dersleri veya başarı durumunu gösterir bir belge düzenlenir. Bu öğrencilere diploma veya sertifika verilmez.

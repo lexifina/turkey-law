@@ -1,0 +1,4 @@
+Doktora diploması
+MADDE 53- (1) Tez savunma sınavında başarılı olmak ve diğer koşulları da sağlamak kaydıyla doktora tezinin dijital kopyası ve en az üç adet ciltlenmiş nüshası ile YÖK Ulusal Tez Merkezince gerekli görülen diğer belgeleri tez sınavına giriş tarihinden itibaren 1 ay içinde enstitüye teslim eden ve tezi EYK tarafından onaylanan öğrenciye doktora diploması verilir. EYK başvuru halinde teslim süresini en fazla 1 ay daha uzatabilir. Öğrenci bu koşulları yerine getirinceye kadar mezuniyet işlemlerine başlanmaz, öğrencilik haklarından yararlanamaz.
+(2) Doktora diploması üzerinde, EABD programının YÖK tarafından onaylanmış adı bulunur. Mezuniyet tarihi tezin sınav jüri komisyonu tarafından imzalı nüshasının enstitüye teslim edildiği tarihtir.
+(3) Enstitü tarafından tezin tesliminden itibaren 3 ay içinde doktora tezinin bir kopyası elektronik ortamda, bilimsel araştırma ve faaliyetlerin hizmetine sunulmak üzere YÖK’e gönderilir.

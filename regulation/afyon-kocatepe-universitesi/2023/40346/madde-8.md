@@ -1,0 +1,5 @@
+Yüksek lisans, doktora ve sanatta yeterlik giriş sınavları
+MADDE 8- (1) Yüksek lisans, doktora ve sanatta yeterlik giriş sınavlarına ilişkin esaslar şunlardır:
+a) Sınavlar, EABD/EASD kurulunun önerisi üzerine EYK tarafından belirlenen en az üç öğretim üyesinden oluşan sınav jürileri tarafından yapılır. Giriş sınav sonuçları ve belgeleri, sınav gününü izleyen günün sonuna kadar jüri başkanlığınca tutanak ekinde enstitüye teslim edilir. Sınav sonuçları enstitü tarafından ilan edilir.
+b) Yurt dışında ikamet eden Türkiye Cumhuriyeti ve yabancı uyruklu adayların lisansüstü eğitime başvuru ve kabulü ile ilgili hususlar 11 inci maddede düzenlenmiştir.
+c) Enstitü tarafından yayımlanan öğrenci alım duyurusunda yer alan belgeleri tam ve eksiksiz olarak istenen formatta ÖKS’ye yükleyip, başvurusu enstitü tarafından kabul edilen aday, talep edilmesi durumunda aynı duyuru içerisinde yer alan ve gönderilecek belgeleri tam ve eksiksiz olarak enstitüye ulaştırdığında başvurusu tamamlanmış olur. İlgili belgelerin Enstitüye ulaştırılmasından aday sorumludur.

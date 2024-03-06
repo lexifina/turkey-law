@@ -1,0 +1,32 @@
+Yabancı uyruklu veya bir alt eğitimini yurt dışında tamamlayan T.C. uyruklu öğrenci kabulü
+MADDE 11- (1) Lisansüstü öğrenim görmek isteyen yabancı uyruklu veya bir alt eğitimini yurt dışında tamamlamış T.C. uyruklu öğrenci kabulü, ayrıca bir sınav yapılmaksızın EABD/EASD kurulunun önerisi üzerine EYK kararı ile gerçekleşir. Öğrenci, ilgili mevzuat hükümleri kapsamında belirlenen öğrenim ücretini ödemekle yükümlüdür. Ancak Türkiye Cumhuriyeti’nden veya kendi devletinden burslu olduğunu belgeleyen öğrenciler öğrenci katkı payını ödemekle yükümlü değildir.
+(2) Üniversitenin taraf olduğu ikili anlaşmalara dayalı olarak lisansüstü öğrenim görmek üzere müracaat eden yabancı uyruklu veya bir alt eğitimini yurt dışında tamamlayan T.C. vatandaşı adaylar, ayrıca bir sınav yapılmaksızın EABD/EASD kurulunun görüşü ve EYK kararı ile öğrenci olarak kabul edilirler.
+(3) Yabancı uyruklu veya bir alt eğitimini yurt dışında tamamlayan T.C. vatandaşı adaylar için ALES puanı koşulu aranmaz. Lisans diplomasıyla başvuran adayların not ortalamasının 4’lük not sisteminde en az 2,00; yüksek lisans diplomasıyla başvuran adayların not ortalamasının 4’lük not sisteminde en az 2,50 olması, doktora/sanatta yeterlik programlarına başvuru yapacak adayların anadili dışındaki bir yabancı dil sınavından en az 55 puan almış olduğunu belgelemesi gerekir.
+(4) Yabancı uyruklu veya bir alt eğitimini yurt dışında tamamlamış T.C. uyruklu öğrenci başvuruları, ilanda belirtilen şartlar ve gerekli belgelerle Senato tarafından karara bağlanan takvim doğrultusunda, şahsen ya da posta yolu ile enstitüye veya enstitünün resmî mail adresine yapılır.
+(5) Yabancı uyruklu veya bir alt eğitimini yurt dışında tamamlamış T.C. uyruklu öğrenci kayıtları, Senato tarafından karara bağlanan takvim doğrultusunda gerçekleştirilir. Adaylar, aşağıda belirtilen belgeleri süresi içinde enstitüye teslim ederek kesin kayıtlarını yaptırırlar. Başvuru sırasında ve/veya kesin kayıt esnasında Yabancı Uyruklu Öğrenci Başvuru Formu ekinde, enstitüye teslim edilmesi/ulaştırılması gerekli belgeler şunlardır:
+a) Bir alt eğitimini Türkiye’de tamamlayan yabancı uyruklu öğrenci için başvuru ve kesin kayıt belgeleri:
+1) Diploma veya mezuniyet belgesi onaylı sureti.
+2) Not döküm belgesi onaylı sureti.
+3) Pasaport onaylı fotokopisi.
+4) Öğrenim meşruhatlı giriş vizeli pasaport örneği (kesin kayıtta).
+5) Eğitim dili Türkçe dışında bir programdan mezun olan adaylardan resmî kurumların gerçekleştirmiş olduğu Türkçe seviye tespit sınavı başarı puanının en az 60 (B2) olduğunu gösterir belge (kesin kayıtta).
+6) Eğitim dili Türkçe dışında olan bir programa başvurularda, programın yürütüleceği eğitim dilinde YÖK merkezi yabancı dil sınavları ile eşdeğerliği kabul edilen yabancı dil sınavlarından en az 55 puan veya ÖSYM tarafından eşdeğerliği kabul edilen uluslararası yabancı dil sınavlarından bu puan muadili bir puan almış olduğunu gösterir belge. %100 ilgili yabancı dilde eğitim veren bir programdan mezun olan adaylarda, aynı dilde eğitim verilecek lisansüstü programlara başvurularda ise bu puan şartı aranmaz.
+7) Göç İdaresi Başkanlığı tarafından düzenlenen kimliğin fotokopisi (kesin kayıtta).
+8) 2 adet fotoğraf (kesin kayıtta).
+9) Üniversite Yönetim Kurulu tarafından belirlenen öğrenci katkı payının yatırıldığına dair banka dekontu (kesin kayıtta-burslular hariç).
+10) Doktora/sanatta yeterlik programlarına başvuru yapacak adayların ÖSYM tarafından eşdeğerliği kabul edilen ve anadili dışındaki bir yabancı dil sınavından en az 55 puan almış olduğunu gösteren yabancı dil belgesinin onaylı sureti.
+b) Bir alt eğitimini Türkiye dışında tamamlayan öğrenci başvuru ve kesin kayıt belgeleri:
+1) Diploma veya mezuniyet belgesinin onaylı sureti (Türkçe tercümesi veya İngilizce sureti).
+2) Sağlık alanları için (klinik uygulaması olmayanlar hariç) kayıt tarihinden itibaren 1 yıl içinde YÖK’ten alınacak diploma denklik belgesi. İlgili belgenin belirtilen sürede enstitüye teslim edilmemesi halinde 34 üncü madde hükümleri uygulanır.
+3) T.C. uyruklu öğrenciler için mezuniyete kadar YÖK’ten alınacak diploma denklik belgesi.
+4) YÖK tarafından verilen tanınma belgesi (Mülteci öğrenciler hariç).
+5) Not döküm belgesi onaylı sureti (Türkçe tercümesi veya İngilizce sureti).
+6) Pasaport onaylı fotokopisi.
+7) Öğrenim meşruhatlı giriş vizeli pasaport örneği (kesin kayıtta).
+8) Resmî kurumların gerçekleştirmiş olduğu Türkçe seviye tespit sınavı başarı puanının en az 60 (B2) olduğunu gösterir belge (kesin kayıtta). Anadili eğitim verilen lisansüstü programın dilinde olan bir programdan mezun olan adaylarda, ilgili lisansüstü programa başvurularda bu belge istenmez. Bunun yerine, eğitim yürütülecek ilgili lisansüstü programın dilinde olmak üzere, YÖK merkezi yabancı dil sınavları ile eşdeğerliği kabul edilen yabancı dil sınavlarından en az 55 puan veya ÖSYM tarafından eşdeğerliği kabul edilen uluslararası yabancı dil sınavlarından bu puan muadili bir puan almış olduğunu gösterir belge istenir (kesin kayıtta). %100 ilgili yabancı dilde eğitim veren bir programdan mezun olan adaylarda, aynı dilde eğitim verilecek lisansüstü programlara başvurularda ise en az 55 puan şartı aranmaz.
+9) 2 adet fotoğraf (kesin kayıtta).
+10) İlgili mevzuat hükümlerine göre belirlenen öğrenci katkı payının yatırıldığına dair banka dekontu (kesin kayıtta-burslular hariç).
+11) Doktora/sanatta yeterlik programlarına başvuru yapacak adayların ÖSYM tarafından eşdeğerliği kabul edilen ve anadili dışındaki bir yabancı dil sınavından en az 55 puan almış olduğunu gösteren yabancı dil belgesinin onaylı sureti.
+(6) Kayıtları yapılan ve bu maddede belirtilen kriterler kapsamında Türkçe yeterlik belgesi olmayan adaylar Üniversitenin Türkçe Öğretimi Uygulama ve Araştırma Merkezinde Türkçe hazırlık sınıfına alınırlar. İlgili belgeyi getiren öğrencilerin ders kayıtları yapılır. Bu programda geçirilen süre, bu Yönetmelikte belirtilen yüksek lisans veya doktora/sanatta yeterlik programı süresine dâhil edilmez.
+(7) Kayıtları yapılan adayların, ilgili EABD/EASD kurulunun görüşü doğrultusunda, lisansüstü programı yürütebilecekleri düzeyde bilimsel yeterliğe sahip olup olmadıkları değerlendirilir. İlgili adaylar yetersiz olmaları durumunda bilimsel hazırlık programına alınırlar. Bilimsel hazırlık programı uygulamalarında 14 üncü madde hükümleri uygulanır.
+(8) Yabancı uyruklu veya bir alt eğitimini yurt dışında tamamlayan T.C. uyruklu öğrenci alımına ilişkin diğer esaslar EYK kararlarıyla belirlenir.

@@ -1,0 +1,9 @@
+Kayıt yenileme
+MADDE 16- (1) Öğrenci, akademik takvimde belirtilen süre içinde, o yarıyıl için Senato tarafından belirlenmiş olan dersler arasından danışmanınca uygun görülen dersleri seçerek ders kaydını yenilemek zorundadır. Her eğitim-öğretim yılı başlangıcında öğrenciler kayıt yenileyebilmek için ilgili mevzuat hükümleri kapsamında belirlenen katkı payı/öğrenim ücretlerini ödemek zorundadırlar. Aksi halde kayıtları yenilenmez. Söz konusu öğrenciler, öğrencilik haklarından yararlanamaz.
+(2) Mazeretleri nedeni ile süresi içerisinde katkı payı/öğrenim ücretini ödemeyen ve/veya ders kaydını yapmayan öğrencilere, mazeretlerini derslerin başlama tarihinden itibaren 3 hafta içerisinde belgeleyerek enstitüye başvurmaları ve mazeretleri EYK tarafından uygun görülmesi halinde kayıt hakkı verilir. Programa kaydını yenilemeyenler öğrencilik haklarından yararlanamazlar.
+(3) Öğrenci, akademik takvimde belirlenen süreler içinde danışmanının onayı ile ders ekleyebilir ve/veya ders bırakabilir.
+(4) Öğrenciler, EABD/EASD kurulunun önerisi üzerine EYK tarafından uygun görülen koşullarda, başka bir yükseköğretim kurumundan toplamda en fazla iki ders alabilir. Söz konusu derslerin değerlendirilmesi bu Yönetmelik hükümleri çerçevesinde yapılır.
+(5) Öğrenciler kayıt yenileme işleminin tümünden sorumludurlar ve kayıtlarını kendileri yaptırmakla yükümlüdürler.
+(6) Yeni kayıt ve kayıt yenileme işlemi sırasında öğrenciler ve öğrenci danışmanları aşağıdaki hususları uygulamakla yükümlüdür:
+a) Tezsiz yüksek lisans programına kayıtlı öğrenciler, toplam 30 krediden ve 60 AKTS kredisinden az olmamak koşuluyla en az 10 ders ile dönem projesi dersini almakla yükümlüdürler.
+b) Tezli yüksek lisans veya doktora/sanatta yeterlik programlarına ilk kez kayıt yaptıracak bir öğrenci, birinci yarıyıl için ders seçiminde 30 AKTS kredisi alır. İkinci yarıyıldan itibaren öğrenciler ders seçiminde en fazla 45 AKTS kredisi alabilirler.

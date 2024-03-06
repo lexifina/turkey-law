@@ -1,0 +1,4 @@
+Tezli yüksek lisans programlarında ders yükü
+MADDE 41- (1) Tezli yüksek lisans programı en az yedi ders ve 21 kredi ile uzmanlık alan dersi, seminer, tez hazırlık çalışması ve tez çalışması olmak üzere toplam en az 120 AKTS kredisinden oluşur. Seminer, uzmanlık alan, tez hazırlık çalışması ve tez çalışması dersleri kredisiz olup başarılı veya başarısız olarak değerlendirilir.
+(2) Öğrenci lisans eğitimi sırasında alınmamış olması koşuluyla lisans derslerinden ya da diğer yükseköğretim kurumlarında yürütülmekte olan lisans programlarından danışmanın önerisi üzerine EABD/EASD kurulunun görüşü ve EYK kararı ile en çok iki ders alabilir.
+(3) Öğrenci diğer yükseköğretim kurumlarında yürütülmekte olan yüksek lisans programlarından danışmanın önerisi, EABD/EASD kurulunun görüşü ve EYK kararı ile en fazla iki ders alabilir. Kapatılan ya da öğretim elemanı koşulunu sağlayamayan lisansüstü programlarda bu zorunluluk aranmaz.
