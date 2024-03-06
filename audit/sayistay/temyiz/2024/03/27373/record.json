@@ -1,0 +1,16 @@
+{
+  "kind": "decision",
+  "issuer": "Sayıştay Temyiz Kurulu",
+  "number": "56532",
+  "decision_date": "2024-03-06",
+  "source_id": 27373,
+  "chamber": "6",
+  "file_number": "50887",
+  "public_body_type": "Düzenleyici ve Denetleyici Kurumlar",
+  "account_year": "2020",
+  "subject": "Personel Mevzuatı ile İlgili Kararlar",
+  "source": "https://www.sayistay.gov.tr/KararlarTemyiz/Detay/27373/",
+  "source_sha256": "73a11d98572963968642d2b435ef4886495c6377129f2bc6fb79e79e4f97c7c2",
+  "text_status": "as-enacted",
+  "text_file": "metin.md"
+}
