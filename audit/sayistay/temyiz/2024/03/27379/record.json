@@ -1,0 +1,16 @@
+{
+  "kind": "decision",
+  "issuer": "Sayıştay Temyiz Kurulu",
+  "number": "56538",
+  "decision_date": "2024-03-06",
+  "source_id": 27379,
+  "chamber": "8",
+  "file_number": "50855",
+  "public_body_type": "Düzenleyici ve Denetleyici Kurumlar",
+  "account_year": "2016",
+  "subject": "Personel Mevzuatı ile İlgili Kararlar",
+  "source": "https://www.sayistay.gov.tr/KararlarTemyiz/Detay/27379/",
+  "source_sha256": "06c9e3eafb90ac44428f852e70845c34c426e56d158db7502a34ad3fe5a886da",
+  "text_status": "as-enacted",
+  "text_file": "metin.md"
+}
