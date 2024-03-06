@@ -1,0 +1,53 @@
+{
+  "source_id": "7.5.34147",
+  "kind": "regulation",
+  "register_kind": "Kurum ve Kuruluş Yönetmelikleri",
+  "title": "GERİ KAZANIM KATILIM PAYINA İLİŞKİN YÖNETMELİK",
+  "number": "34147",
+  "issuer": "Çevre, Şehircilik ve İklim Değişikliği Bakanı",
+  "issuer_slug": "cevre-sehircilik-ve-iklim-degisikligi-bakani",
+  "path": "regulation/cevre-sehircilik-ve-iklim-degisikligi-bakani/2019/34147",
+  "source": "https://www.mevzuat.gov.tr/anasayfa/MevzuatFihristDetayIframe?MevzuatTur=7&MevzuatNo=34147&MevzuatTertip=5",
+  "source_sha256": "ed0c498a345607c5173949866f8edb93490069a0dc17fcc91f363eb85d9d040a",
+  "source_bytes": 57271,
+  "published": "2019-12-31",
+  "gazette": "30995 (4.Mükerrer)",
+  "in_force": "2024-03-06",
+  "in_force_basis": "latest Resmî Gazete date printed in the source amendment notes/table (\"RG-6/3/2024\") for the current consolidated text",
+  "date_evidence": [
+    [
+      "2024-03-06",
+      "RG-6/3/2024",
+      "Resmî Gazete date printed in the source amendment note"
+    ],
+    [
+      "2024-03-06",
+      "6/3/2024",
+      "Resmî Gazete date in the source amendment table"
+    ],
+    [
+      "2021-06-02",
+      "RG-2/6/2021",
+      "Resmî Gazete date printed in the source amendment note"
+    ],
+    [
+      "2021-06-02",
+      "2/6/2021",
+      "Resmî Gazete date in the source amendment table"
+    ]
+  ],
+  "commencement_clauses": [
+    "Bu Yönetmelik 1/1/2020 tarihinde yürürlüğe girer"
+  ],
+  "history": "current-text",
+  "label": "oldest version available",
+  "checked_on": "2026-11-15",
+  "word_count": 3079,
+  "text_status": "current-consolidated",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  },
+  "completeness": "html-text-complete"
+}
