@@ -1,0 +1,71 @@
+İş Artışı ve Fiyat Farkı
+
+… Bakanlığı … Genel Müdürlüğünce … tarihinde … Sanayi Limited Şirketi İş Ortaklığına ihale edilen … TL sözleşme bedelli anahtar teslim götürü bedel … Yapım İşi’nde;
+
+A) Yıkım, moloz-inşaat atığı ve hafriyat işlerinin yüklenicinin teklifi kapsamında yer almasına rağmen bu işler için ayrıca iş artışı yapılarak yükleniciye ödemede bulunulduğu iddia edilmektedir.
+
+Yapım İşleri Genel Şartnamesi’nin “Mevcut Yapıların Yıkılması” başlıklı 31’inci maddesinde;
+
+“İşyerlerinde yıkılması gereken ve yükleniciye yıktırılan mevcut yapılardan çıkacak malzemenin, yeniden değerlendirilmesi ve gerektiğinde kullanılabilmesi için bu malzemenin yüklenici tarafından dikkatle ayıklanması ve yapı denetim görevlisinin göstereceği yerlere istif edilmesi gereklidir. Bu yıkmalar için varsa teklif kapsamında verilen bedeller ödenir. Teklif kapsamında bu yıkmalar için bedel konmamışsa, bu işlerin bedeli 22 nci madde hükümlerine göre yükleniciye ödenir.”
+
+hükmü yer almaktadır.
+
+Bu hükme göre, işyerlerinde yükleniciye yaptırılan yıkım işleri için teklif kapsamında verilmiş bir bedel varsa bu bedelin, eğer bir bedel öngörülmemişse bu işlerin bedelinin Yapım İşleri Genel Şartnamesi’nin 22’nci maddesi hükümlerine göre yükleniciye ödenmesi gerekmektedir. Oysa işe ait uygulama projesi, pursantaj cetveli ile yaklaşık maliyet hesap cetvelinde inşaat mahallinde yer alan yıkım, moloz ve inşaat atıkları ile bunların nakliyesine ilişkin herhangi bir bedel öngörülmediği gibi yüklenici tarafından da bir bedel teklif edilmemiştir. Dolayısıyla söz konusu bedellerin ayrıca ödenmesi gerekir.
+
+Yine işe ait İdari Şartnamenin “İşin yapılacağı yerin görülmesi” başlıklı 12’nci maddesinde yer alan hususlar; işin yapılacağı yere gidilmesi, iş yerinin görülmesi, çevre şartlarının kontrol edilmesi, risklerin değerlendirilmesi ile işin yapılması sırasında teklifini etkileyecek hususların tespit edilmesini kapsamakta olup uygulama projesini hazırlayan idarenin dahi tespit edemediği ayrıntılı kazı ve sondaj yapılmasını gerektiren işlerin bu kapsamda değerlendirilmemesi gerekir. Bu nedenle yüklenicinin söz konusu işlerin yapılmasından sorumlu tutulması ve teklif fiyatına dahil olduğu kabul edilerek ödemenin yapılmaması hakkaniyet ilkesi ile bağdaşmamaktadır.
+
+Yapılan incelemede; söz konusu inşaat işi, kentsel dönüşüm kapsamında eski yapıların yerine yapılacak binalar olduğundan, işlerin yapılacağı alanda bulunan eski yapıların yapı sahiplerince kabaca yıkıldığı, yıkıntı artıkları ve molozların yerinde bırakıldığı ve yıkılan binaların bodrum katları ile temellerine müdahale edilmediği, aynı alanlara yeniden inşaat yapılmasına mani bir durum olduğu belirtilerek iş yerinin tesliminin yapıldığı, mevcut durumun vaziyet planına işlenmediği ve bu nedenle yapı sahiplerince yıktırıldığı anlaşılan binaların projelerde yer almadığı, yapım işlerine başlanabilmesi için söz konusu yapılara ait temel ve bodrum kat bölümlerinin sökülmesi ve hafriyat artıklarının kaldırılması zaruretinin olduğu, bodrum kat ve temel söküm işleri ve hafriyat artığı kaldırılması işlerine ilişkin, gerek işin sözleşmesinde gerekse de Tip İdari Şartnamesinde özel bir düzenlemeye yer verilmediği, daha önce de bu alanlara yıkım, söküm ve hafriyat nakli nedeniyle bir ödeme yapılmadığı anlaşılmış bulunduğundan, yükleniciye yaptırılan bu işler dolayısıyla yapılan ödemeleri ilave iş kapsamında görmek gerekir.
+
+Bu itibarla, söz konusu yapım işinde yıkım, moloz-inşaat atığı ve hafriyat işleri bedelinin yükleniciye ayrıca ödenmesinde mevzuata aykırılık bulunmadığından sorguda kamu zararı olduğu iddiası ile hesaplanan … TL için ilişilecek husus bulunmadığına,
+
+6085 sayılı Sayıştay Kanunu’nun 55’inci maddesi uyarınca işbu ilamın tebliğ tarihinden itibaren altmış gün içerisinde Sayıştay Temyiz Kurulu nezdinde temyiz yolu açık olmak üzere, oy çokluğuyla karar verildi.
+
+Karşı Oy Gerekçesi:
+
+Başkan … ve Üye …’ın karşı oy gerekçesi:
+
+Söz konusu yapım işi, anahtar teslimi götürü bedel bir iş olup kentsel dönüşüm kapsamında eski yapıların yerine yeni yapıların yapılmasını kapsadığından, yüklenici dahil bütün isteklilerin yıkım, moloz-inşaat atığı ve hafriyat işlerinin de iş kapsamında olduğunu öngörerek teklif verdiklerinin kabul edilmesi gerekir.
+
+Kaldı ki, işe ait İdari Şartname’nin “İşin yapılacağı yerin görülmesi” başlıklı 12’nci maddesi;
+
+“12.1. İşin yapılacağı yeri ve çevresini gezmek, inceleme yapmak; teklifini hazırlamak ve taahhüde girmek için gerekli olabilecek tüm bilgileri temin etmek isteklinin sorumluluğundadır. İşyeri ve çevresinin görülmesiyle ilgili bütün masraflar isteklilere aittir.
+
+12.2. İstekli, işin yapılacağı yeri ve çevresini gezmekle; işyerinin şekline ve mahiyetine, iklim şartlarına, işin gerçekleştirilebilmesi için yapılması gerekli çalışmaların ve kullanılacak malzemelerin miktar ve türü ile işyerine ulaşım ve şantiye kurmak için gerekli hususlarda maliyet ve zaman bakımından bilgi edinmiş; teklifini etkileyebilecek riskler, olağanüstü durumlar ve benzeri diğer unsurlara ilişkin gerekli her türlü bilgiyi almış sayılır.
+
+…
+
+12.4. Tekliflerin değerlendirilmesinde, isteklinin işin yapılacağı yeri incelediği ve teklifini buna göre hazırladığı kabul edilir.” şeklinde olup bu maddede açıkça belirtildiği üzere isteklinin işin yapılacağı yeri incelediği ve teklifini buna göre hazırladığı kabul edilmektedir.
+
+Anılan Şartname’nin “İhale dokümanına ilişkin açıklama yapılması” başlıklı 13’üncü maddesinde ise;
+
+“İstekliler, tekliflerin hazırlanması aşamasında, ihale dokümanında açıklanmasına ihtiyaç duydukları hususlarla ilgili olarak, ihale tarihinden yirmi gün öncesine kadar yazılı olarak açıklama talep edebilir. Bu tarihten sonra yapılacak açıklama talepleri değerlendirmeye alınmayacaktır.” denilmekte olup istekliler ihale dokümanında açıklanmasına ihtiyaç duydukları hususlarla ilgili olarak açıklama talep edebileceklerdir.
+
+Anahtar teslim götürü bedel şeklinde düzenlenen sözleşmede teklif kapsamına tüm giderlerin dahil olduğu, işin idari şartnamesinde isteklilerin işin yapılacağı yeri inceleyip teklifini buna göre hazırladığı ve ihale dokümanına ilişkin herhangi bir açıklama istenmediği göz önünde bulundurulduğunda söz konusu işler için iş artışı kapsamında yükleniciye ayrıca ödeme yapılması mevzuata aykırılık teşkil etmektedir.
+
+Bu itibarla, yüklenicinin teklifi kapsamında olan işler için iş artışına gidilerek ödeme yapılması sonucu kamu zararına sebebiyet verildiğinden, sorgu konusu … TL’nin sorumlularına müştereken ve müteselsilen ödettirilmesine karar verilmesi gerekir.
+
+B) Süre uzatım kararına istinaden düzenlenen revize iş programı ile ödenek dilimlerinin değiştirildiği ve bu yeni ödenek dilimleri esas alınarak fiyat farkı ödendiği iddia edilmektedir.
+
+Söz konusu yapım işinde, … tarihli ve … sayılı Süre Uzatım ve Ödenek Aktarma Komisyon Kararı ile … TL iş artışı kapsamında inşaat sahasının, sözleşme kapsamında faaliyetlere başlanacak şekilde elverişli hale gelmesi için yapılacak çalışmalar için … -… tarihleri arasında 27 gün, sözleşme kapsamında kazı imalatları ve sözleşme kapsamında olmayan mevcut binalardan kalan betonarme elemanların kırımı ve nakliyesi imalatları için … - … tarihleri arasında 12 gün olmak üzere toplam 39 günlük süre ötelendikten sonra iş programı buna göre revize edilmiş ve revize edilen iş programına göre de fiyat farkı hesaplanmıştır. Yukarıda maddenin (A) bendinde belirtildiği üzere mevzuata uygun olarak iş artışı yapılmıştır.
+
+Yapım İşleri Genel Şartnamesi’nin “İş programı” başlıklı 17’nci maddesinde;
+
+“…
+
+(7) İşte idarece onaylanan bir süre uzatımı olması, iş artışı/eksilişi yapılması, ödenek dilim değişikliği yapılması, idarenin izniyle havanın fen noktasından çalışmaya uygun olmadığı dönemde çalışılması, yeni fiyat tespiti yapılması gibi durumlarda ve idarece gerekli görülmesi kaydıyla yüklenici bu hususun kendisine tebliği tarihinden başlamak üzere yedi gün içinde revize iş programı düzenleyerek idarenin onayına sunmak zorundadır...”
+
+hükmü yer almaktadır.
+
+Bu hükme göre, iş artışı yapıldıktan ve süre uzatımı verildikten sonra revize edilen iş programına uygun olarak fiyat farkı hesaplanması gerekmektedir. Söz konusu işte fiyat farkı bu hükme uygun olarak hesaplanmış olup mevzuata aykırılık bulunmamaktadır.
+
+Bu itibarla, sorguda kamu zararı olduğu iddiası ile hesaplanan … TL için ilişilecek husus bulunmadığına,
+
+6085 sayılı Sayıştay Kanunu’nun 55’inci maddesi uyarınca işbu ilamın tebliğ tarihinden itibaren altmış gün içerisinde Sayıştay Temyiz Kurulu nezdinde temyiz yolu açık olmak üzere, oy çokluğuyla karar verildi.
+
+Karşı Oy Gerekçesi:
+
+Başkan … ve Üye …’ın karşı oy gerekçesi:
+
+Söz konusu yapım işinde yapılan iş artışı, maddenin (A) bendinin karşı oy gerekçesi bölümünde belirtilen gerekçelerle mevzuata aykırı olduğundan, bu iş artışına istinaden verilen süre uzatımı da mevzuata aykırılık teşkil etmektedir. Süre uzatım kararına istinaden düzenlenen revize iş programı ile ödenek dilimlerinin değiştirilmesi ve bu yeni ödenek dilimleri esas alınarak fiyat farkı ödenmesi sonucu kamu zararına sebebiyet verilmiştir.
+
+Bu itibarla, sorgu konusu … TL’nin sorumlularına ödettirilmesine karar verilmesi gerekir.
