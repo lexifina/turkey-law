@@ -1,0 +1,22 @@
+{
+  "number": "29",
+  "number_as_published": "2024/29",
+  "year": 2024,
+  "title": "Protokol yapılması",
+  "decision_date": "2024-03-07",
+  "source": "https://eyupsultan.bel.tr/tr/main/pages/2024-mart-ayi-meclis-kararlari/2519",
+  "official_document": "https://eyupsultan.bel.tr/tr/main/pages/2024-29/2520",
+  "source_sha256": "745feb0483707491ac4e972025b3feb6ba21663c504163efa0559df391838aab",
+  "issuer": "Eyüpsultan Belediye Meclisi",
+  "history_type": "metadata",
+  "text_status": "metadata-only: listing fields as published; complete decision text is in the linked official document, not transcribed",
+  "in_force": "2024-03-07",
+  "in_force_basis": "Decision date as printed in the official council listing: 07.03.2024 (meeting date at the start of the decision page); adoption date of the council decision; legal commencement not asserted",
+  "missing": [
+    "complete official decision text",
+    "official annexes"
+  ],
+  "law_text_complete": false,
+  "privacy_withheld": false,
+  "decision_page_sha256": "6ce4d54aeed4d80f10d393c824938e71d7bb56c290e8fe1a94b3aa7667847a5c"
+}
