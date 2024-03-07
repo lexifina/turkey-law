@@ -1,0 +1,17 @@
+{
+  "kind": "decision",
+  "issuer": "Sayıştay 3. Dairesi",
+  "number": "476",
+  "decision_date": "2024-03-07",
+  "source_id": 38557,
+  "chamber": "3",
+  "ilam_number": "67",
+  "item_number": 1,
+  "public_body_type": "Belediyeler ve Bağlı İdareler",
+  "account_year": 2022,
+  "subject": "İhale Mevzuatı ile İlgili Kararlar",
+  "source": "https://www.sayistay.gov.tr/KararlarDaire/Detay/38557/",
+  "source_sha256": "99777849c93131779b01d29b136ca32f96adb24377bc9f2f17a4e877a96bfcd3",
+  "text_status": "as-enacted",
+  "text_file": "metin.md"
+}
