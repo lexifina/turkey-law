@@ -1,0 +1,17 @@
+{
+  "kind": "decision",
+  "issuer": "Sayıştay 5. Dairesi",
+  "number": "643",
+  "decision_date": "2024-03-07",
+  "source_id": 38514,
+  "chamber": "5",
+  "ilam_number": "61",
+  "item_number": 2,
+  "public_body_type": "Belediyeler ve Bağlı İdareler",
+  "account_year": 2022,
+  "subject": "İhale Mevzuatı ile İlgili Kararlar",
+  "source": "https://www.sayistay.gov.tr/KararlarDaire/Detay/38514/",
+  "source_sha256": "68277560c4774ba5f96be7df1e2dd077cbdb499c9856314bdea9935249e61890",
+  "text_status": "as-enacted",
+  "text_file": "metin.md"
+}
