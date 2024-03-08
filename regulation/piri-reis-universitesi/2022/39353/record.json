@@ -1,0 +1,74 @@
+{
+  "checked_on": "2026-11-14",
+  "commencement_clauses": [
+    "MADDE 63 – (1) Bu Yönetmelik 2021-2022 eğitim-öğretim yılı başından geçerli olmak üzere yayımı tarihinde yürürlüğe girer."
+  ],
+  "date_evidence": [
+    [
+      "2022-02-06",
+      "06.02.2022",
+      "original gazette publication date in official listing"
+    ],
+    [
+      "2023-06-01",
+      "RG-1/6/2023-32208",
+      "latest source-printed gazette amendment date for current consolidated text"
+    ],
+    [
+      "2024-03-08",
+      "RG-8/3/2024-32483",
+      "latest source-printed gazette amendment date for current consolidated text"
+    ],
+    [
+      "2023-06-01",
+      "RG-1/6/2023-32208",
+      "latest source-printed gazette amendment date for current consolidated text"
+    ],
+    [
+      "2023-06-01",
+      "RG-1/6/2023-32208",
+      "latest source-printed gazette amendment date for current consolidated text"
+    ],
+    [
+      "2024-03-08",
+      "RG-8/3/2024-32483",
+      "latest source-printed gazette amendment date for current consolidated text"
+    ],
+    [
+      "2023-06-01",
+      "1/6/2023",
+      "latest gazette date in source amendment table"
+    ],
+    [
+      "2024-03-08",
+      "8/3/2024",
+      "latest gazette date in source amendment table"
+    ]
+  ],
+  "date_quote": "RG-8/3/2024-32483",
+  "first_law": null,
+  "gazette": "31742",
+  "history": "current-text",
+  "images": {
+    "deferred": 0,
+    "omitted": 0,
+    "referenced": 0,
+    "source": 0
+  },
+  "in_force": "2024-03-08",
+  "in_force_basis": "latest source-printed gazette amendment date for current consolidated text",
+  "issuer": "Piri Reis Üniversitesi",
+  "issuer_slug": "piri-reis-universitesi",
+  "kind": "regulation",
+  "label": "oldest version available",
+  "path": "regulation/piri-reis-universitesi/2022/39353",
+  "published": "2022-02-06",
+  "source": "https://www.mevzuat.gov.tr/anasayfa/MevzuatFihristDetayIframe?MevzuatTur=8&MevzuatNo=39353&MevzuatTertip=5",
+  "source_bytes": 131878,
+  "source_id": "8.5.39353",
+  "source_sha256": "7941456735be22166e9e555947f24cc0b27735d911cd6b4c6ffa9a692d0a9d4d",
+  "text_status": "current-consolidated",
+  "title": "PİRİ REİS ÜNİVERSİTESİ LİSANSÜSTÜ EĞİTİM VE \r\nÖĞRETİM YÖNETMELİĞİ",
+  "university_id": 324,
+  "word_count": 7771
+}
