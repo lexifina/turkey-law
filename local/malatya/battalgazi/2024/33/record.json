@@ -1,0 +1,24 @@
+{
+  "number": "33",
+  "number_as_published": "33",
+  "year": 2024,
+  "title": "Bahçebaşı Mahallesi 133, 134, 135, 136, 138, 139, 140, 141, 143, 144, 145, 146, 154, 155, 156, 157, 158, 159, 160, 161, 162, 163, 164 Ve 165 No.Lu Adaların İmar Planı Değişikliği",
+  "decision_date": "2024-03-08",
+  "source": "https://www.battalgazi.bel.tr/wp-json/wp/v2/posts?categories=88&per_page=100&page=8&_fields=id,date,link,title,content",
+  "official_document": "https://www.battalgazi.bel.tr/2024/03/08/bahcebasi-mahallesi-133-134-135-136-138-139-140-141-143-144-145-146-154-155-156-157-158-159-160-161-162-163-164-ve-165-no-lu-adalarin-imar-plani-degisikligi/",
+  "source_sha256": "81195abf191f7087166bdefd5dc6f5586aa20ba5bc2b40a9a588926286b37e83",
+  "issuer": "Battalgazi Belediye Meclisi",
+  "history_type": "metadata",
+  "text_status": "metadata-only: listing fields as published; complete decision text is in the linked official document, not transcribed",
+  "in_force": "2024-03-08",
+  "in_force_basis": "Decision date as printed in the official council listing: 08.03.2024 (Karar Tarihi on the official decision page); adoption date of the council decision; legal commencement not asserted",
+  "missing": [
+    "complete official decision text",
+    "official annexes"
+  ],
+  "law_text_complete": false,
+  "privacy_withheld": false,
+  "official_page": "https://www.battalgazi.bel.tr/2024/03/08/bahcebasi-mahallesi-133-134-135-136-138-139-140-141-143-144-145-146-154-155-156-157-158-159-160-161-162-163-164-ve-165-no-lu-adalarin-imar-plani-degisikligi/",
+  "post_date": "2024-03-08T13:37:00",
+  "record_scope": "one council decision (official decision page)"
+}
