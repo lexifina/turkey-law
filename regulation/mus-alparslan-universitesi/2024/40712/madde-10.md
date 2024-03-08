@@ -1,0 +1,2 @@
+MAN-MER Yönetim Kurulu
+MADDE 10- (1) Yönetim Kurulu, Müdürün başkanlığında, Merkezin faaliyet alanı ile ilgili Üniversite öğretim elemanları arasından Rektör tarafından üç yıl için görevlendirilen toplam beş üyeden oluşur. Süresi biten üye yeniden görevlendirilebilir. Herhangi bir nedenle görevinden ayrılan üyenin yerine kalan süreyi tamamlamak üzere aynı yöntemle yeni bir üye görevlendirilir. Yönetim Kurulu salt çoğunlukla toplanır. Yönetim Kurulunda oylamalar açık yapılır ve kararlar toplantıya katılanların çoğunluğuyla alınır.
