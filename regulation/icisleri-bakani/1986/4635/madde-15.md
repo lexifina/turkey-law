@@ -1,0 +1,2 @@
+İtiraz Üzerine Yapılacak İşlem
+Madde 15- İçişleri Bakanlığınca verilen kullanma izin ve tescil kararına karşı herhangi bir sebeple yapılan itiraz üzerine İller İdaresi Genel Müdürlüğünce itiraz dilekçesi ve eklerinde ortaya konan bilgilere ve gerekli görüldüğü takdirde valilikler ve diğer ilgililerle yazışma yapmak suretiyle elde edilen ek bilgi ve belgelere dayanılarak düzenlenen dosya itiraz komisyonuna sevk edilir.

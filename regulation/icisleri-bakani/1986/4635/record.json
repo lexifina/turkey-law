@@ -1,0 +1,43 @@
+{
+  "source_id": "7.5.4635",
+  "kind": "regulation",
+  "register_kind": "Kurum ve Kuruluş Yönetmelikleri",
+  "title": "TANITICI BAYRAKLARIN KULLANMA İZNİNE VE TESCİL İŞLEMLERİNE AİT YÖNETMELİK",
+  "number": "4635",
+  "issuer": "İçişleri Bakanı",
+  "issuer_slug": "icisleri-bakani",
+  "path": "regulation/icisleri-bakani/1986/4635",
+  "source": "https://www.mevzuat.gov.tr/anasayfa/MevzuatFihristDetayIframe?MevzuatTur=7&MevzuatNo=4635&MevzuatTertip=5",
+  "source_sha256": "53761ddcb65cf35257e17245570b5542378acd3f5b8d3c52b0df199114f8cfad",
+  "source_bytes": 42891,
+  "published": "1986-12-02",
+  "gazette": "19299",
+  "in_force": "2024-03-08",
+  "in_force_basis": "latest Resmî Gazete date printed in the source amendment notes/table (\"RG-8/3/2024\") for the current consolidated text",
+  "date_evidence": [
+    [
+      "2024-03-08",
+      "RG-8/3/2024",
+      "Resmî Gazete date printed in the source amendment note"
+    ],
+    [
+      "2024-03-08",
+      "8/3/2024",
+      "Resmî Gazete date in the source amendment table"
+    ]
+  ],
+  "commencement_clauses": [
+    "Bu Yönetmelik Resmi Gazetefde yayımlandığı tarihte yürürlüğe girer"
+  ],
+  "history": "current-text",
+  "label": "oldest version available",
+  "checked_on": "2026-11-15",
+  "word_count": 1180,
+  "text_status": "current-consolidated",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  },
+  "completeness": "html-text-complete"
+}

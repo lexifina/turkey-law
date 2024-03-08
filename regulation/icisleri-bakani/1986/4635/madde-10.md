@@ -1,0 +1,2 @@
+İnceleme Kurulu
+Madde 10- Tanıtıcı bayrak kullanma izni ve tescili talepleri illerde valinin veya görevlendireceği vali yardımcısının başkanlığında hukuk işleri müdürü, jandarma alay komutanı, emniyet müdürü, milli eğitim gençlik ve spor müdürü, sanayi ve ticaret müdürü, kültür ve turizm müdüründen teşekkül eden bir komisyon tarafından 8 inci maddede belirtilen esaslar çerçevesinde incelenir, kullanılmasında ve tescilinde mahzur bulunup bulunmadığına karar verilir.
