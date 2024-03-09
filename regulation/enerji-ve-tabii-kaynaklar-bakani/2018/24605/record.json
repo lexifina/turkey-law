@@ -1,0 +1,66 @@
+{
+  "source_id": "7.5.24605",
+  "kind": "regulation",
+  "register_kind": "Kurum ve Kuruluş Yönetmelikleri",
+  "title": "MADEN BÖLGELERİNE VE RUHSATLARIN TAŞINMASINA İLİŞKİN YÖNETMELİK",
+  "number": "24605",
+  "issuer": "Enerji ve Tabii Kaynaklar Bakanı",
+  "issuer_slug": "enerji-ve-tabii-kaynaklar-bakani",
+  "path": "regulation/enerji-ve-tabii-kaynaklar-bakani/2018/24605",
+  "source": "https://www.mevzuat.gov.tr/anasayfa/MevzuatFihristDetayIframe?MevzuatTur=7&MevzuatNo=24605&MevzuatTertip=5",
+  "source_sha256": "8ce868f28be36fa2644be5d8fa5caf09baf7d44051156a366df0901ecdf91dd4",
+  "source_bytes": 86808,
+  "published": "2018-05-23",
+  "gazette": "30429",
+  "in_force": "2024-03-09",
+  "in_force_basis": "latest Resmî Gazete date printed in the source amendment notes/table (\"RG-9/3/2024\") for the current consolidated text",
+  "date_evidence": [
+    [
+      "2024-03-09",
+      "RG-9/3/2024",
+      "Resmî Gazete date printed in the source amendment note"
+    ],
+    [
+      "2024-03-09",
+      "9/3/2024",
+      "Resmî Gazete date in the source amendment table"
+    ],
+    [
+      "2022-06-28",
+      "RG-28/6/2022",
+      "Resmî Gazete date printed in the source amendment note"
+    ],
+    [
+      "2022-06-28",
+      "28/6/2022",
+      "Resmî Gazete date in the source amendment table"
+    ],
+    [
+      "2019-02-16",
+      "RG-16/2/2019",
+      "Resmî Gazete date printed in the source amendment note"
+    ],
+    [
+      "2019-02-16",
+      "16/2/2019",
+      "Resmî Gazete date in the source amendment table"
+    ]
+  ],
+  "commencement_clauses": [
+    "Bu Yönetmelik yayımı tarihinde yürürlüğe girer"
+  ],
+  "history": "current-text",
+  "label": "oldest version available",
+  "checked_on": "2026-11-15",
+  "word_count": 3926,
+  "text_status": "current-consolidated",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  },
+  "source_links": [
+    "7.5.24605-Ek.docx"
+  ],
+  "completeness": "html-text-complete; linked annexes not fetched"
+}
