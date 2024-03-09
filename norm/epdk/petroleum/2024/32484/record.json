@@ -1,0 +1,24 @@
+{
+  "kind": "norm",
+  "issuer": "Enerji Piyasası Düzenleme Kurumu",
+  "market": "petroleum",
+  "document_type": "board-decision",
+  "number": "32484",
+  "decision_date": "2024-03-09",
+  "title": "Madeni Yağların Ambalajlanması Ve Piyasaya Sunumu Hakkında Tebliğin 11 inci Maddesinin 3 üncü Fıkrası Uyarınca Yapılacak Üretimlere İlişkin Usul Ve Esaslara İlişkin Karar",
+  "repealed_note": "(Son Hali)",
+  "categories": [
+    "Lisans İşlemleri Diğer"
+  ],
+  "source": "https://www.epdk.gov.tr/Detay/DownloadDocument?id=5H73oP5WBGg=",
+  "documents": [
+    "https://www.epdk.gov.tr/Detay/DownloadDocument?id=5H73oP5WBGg="
+  ],
+  "source_sha256": "dfa08239fc8df0df37c29643d7c2bf9fb69a9ed0b611b9826d41c28d4d82966f",
+  "official_list": "https://www.epdk.gov.tr/Detay/Icerik/3-0-100/kurul-kararlari",
+  "official_list_leaf": 4913,
+  "text_status": "as-enacted",
+  "text_file": "metin.md",
+  "in_force": "2024-03-09",
+  "law_text_complete": true
+}
