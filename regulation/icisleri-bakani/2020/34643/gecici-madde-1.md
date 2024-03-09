@@ -1,0 +1,1 @@
+GEÇİCİ MADDE 1 – (1) Bu Yönetmeliğin 6 ncı maddesinin birinci fıkrasında sayılan karayollarının denetimi ilgili trafik kuruluşunda olmayanlar, bu Yönetmeliğin yayımı tarihinden itibaren 30 gün içerisinde ilgili trafik kuruluşuna devredilir.
