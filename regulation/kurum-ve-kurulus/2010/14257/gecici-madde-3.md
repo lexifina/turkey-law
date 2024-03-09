@@ -1,0 +1,3 @@
+Hizmet sözleşmesi değişikliği
+GEÇİCİ MADDE 3 – (Ek:RG-11/10/2011-28081)
+(1) TİM ve Birliklerde belirli süreli hizmet sözleşmesiyle en az bir yıldır görevde olup bu Yönetmeliğin 5 inci maddesindeki eleme sınavı ve yaş sınırı dışındaki şartları taşıyanlar, talepleri halinde 31 Aralık 2011 tarihine kadar yapılacak sözlü sınavda başarılı olmaları halinde, eğitim durumları ve yabancı dil bilgilerine karşılık gelen bilgisayar programcısı, uzman yardımcısı, idari memur, şoför veya hizmetli kadrolarından birinde daimi hizmet sözleşmesi ile istihdam edilirler. Bu sınavın gerçekleştirilmesinde izlenecek usul ve esaslar TİM tarafından belirlenir.

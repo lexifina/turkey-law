@@ -1,0 +1,6 @@
+İKİNCİ BÖLÜM
+İlk Defa İşe Alınacaklar İçin Yapılan Yarışma Sınavı ve İşe Başlama
+Personel ihtiyacının tespiti ve sınav açma yetkisi
+MADDE 4 – (1) TİM ve Birliklerde görevlendirilecek bilgisayar programcısı, uzman yardımcısı, idari (Değişik ibare:RG-1/6/2023-32208) personel, şoför ve hizmetliler yönetim kurulu kararı üzerine, TİM tarafından uygun görülen tarihlerde ve her genel sekreterlik için yılda en fazla iki defa olmak üzere açılan yarışma sınavı ile işe alınır. Tespit edilen kadrolar haricinde ve sınav yapılmaksızın daimi hizmet sözleşmeli personel istihdam edilemez.
+(2) Genel sekreterlik, 5910 sayılı Kanun ve İnsan Kaynakları Yönetmeliğine göre yönetim kurulunca tespit edilen kadrolar çerçevesinde istihdam edilmesi istenen bilgisayar programcısı, uzman yardımcısı, idari (Değişik ibare:RG-1/6/2023-32208) personel, şoför ve hizmetli sayısı ile varsa bunlar için aranacak özel şartları içeren sınav talebini TİM’e bildirir. TİM’in onayı çerçevesinde sınav, personel alımını yapacak birliğin genel sekreterliği tarafından gerçekleştirilir. Birden fazla genel sekreterlik için personel alımının yapılacağı hallerde, bu sınav TİM veya TİM tarafından görevlendirilen genel sekreterlik tarafından tüm genel sekreterlikler adına yapılabilir.
+(3) Sınavla ilgili işlemler, sınavı gerçekleştiren genel sekreterlik tarafından yürütülür.

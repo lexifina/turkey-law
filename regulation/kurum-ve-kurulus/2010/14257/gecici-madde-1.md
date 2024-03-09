@@ -1,0 +1,2 @@
+Yeterlik sınavına hak kazanmış uzman yardımcıları yeterlik sınavı
+GEÇİCİ MADDE 1 – (1) Adaylık dönemi dahil, TİM ve Birliklerde uzman yardımcısı kadrosunda, ücretsiz izin, yurtdışında lisansüstü eğitim ve askerlik hizmetinde geçen süreler hariç, üç yıllık fiili hizmet süresini, bu Yönetmeliğin yürürlüğe girdiği tarihe kadar tamamlamış olan ve bu Yönetmelikte belirtilen diğer şartları haiz uzman yardımcıları için yeterlik sınavı, Yönetmeliğin yürürlüğe girdiği tarihten itibaren en geç üç ay içinde yapılır.
