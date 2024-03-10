@@ -1,0 +1,3 @@
+Lisansüstü programların açılması
+MADDE 5- (1) Lisansüstü programlar, ilgili anabilim dalı kurulunun teklifi, Enstitü Kurulunun uygun görüşü, Senatonun kabulü, Mütevelli Heyeti ve YÖK onayı ile açılır. Lisansüstü programdan mezun olunabilmesi için alınması gereken zorunlu/seçmeli dersler, tez, seminer ve benzeri çalışmalar ile kredi toplamlarının belirlendiği lisansüstü öğretim planları bu Yönetmelik doğrultusunda Enstitü anabilim dalı başkanlıklarınca hazırlanır ve Enstitü Kurulunda görüşülerek onaylanır.
+(2) Lisansüstü programlar, Enstitü anabilim dalları ile aynı adları taşır. Ancak Enstitü Kurulunun önerisi, Senatonun kabulü ve YÖK’ün onayıyla Enstitünün bir anabilim dalına bağlı, o anabilim dalından farklı bir ad taşıyan bir lisansüstü program açılabilir.

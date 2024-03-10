@@ -1,0 +1,3 @@
+Sınav sonuçlarına itiraz
+MADDE 36- (1) Öğrenci, başarı notunun veya değerlendirmelerin ilan edilmesinden itibaren beş iş günü içinde Enstitü Müdürlüğüne yazılı olarak itiraz edebilir. Enstitüye yapılan itiraz dersin öğretim elemanı veya ilgili komisyon/jüri/komite tarafından incelenir ve Enstitü Yönetim Kurulu tarafından değerlendirilerek on iş günü içinde ilgililere yazılı olarak bildirilir.
+(2) Öğretim elemanı veya ilgili komisyon/jüri/komite tarafından hata tespit edilmesi halinde, öğretim elemanı veya ilgili komisyon/jüri/komite başarı notunun ilan edilmesinden itibaren yedi iş günü içinde Enstitüye dilekçe ile başvurur. Konu Enstitü Yönetim Kurulu tarafından değerlendirilerek karara bağlanır ve ilgililere yazılı olarak bildirilir.

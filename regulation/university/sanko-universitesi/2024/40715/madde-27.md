@@ -1,0 +1,5 @@
+Süre
+MADDE 27- (1) Doktora programı, bilimsel hazırlıkta geçen süre hariç tezli yüksek lisans derecesi ile kabul edilenler için kaydolduğu programa ilişkin derslerin verildiği dönemden başlamak üzere, her dönem için kayıt yaptırıp yaptırmadığına bakılmaksızın sekiz yarıyıl olup azami tamamlama süresi on iki yarıyıl; lisans derecesi ile kabul edilenler için on yarıyıl olup azami tamamlama süresi on dört yarıyıldır.
+(2) Doktora programı için gerekli kredili dersleri başarıyla tamamlamanın azami süresi tezli yüksek lisans derecesi ile kabul edilenler için dört yarıyıldır. Bu süre içinde kredili derslerini başarıyla tamamlayamayan öğrencinin enstitü ile ilişiği kesilir.
+(3) Kredili derslerini başarıyla bitiren, yeterlik sınavında başarılı bulunan ve tez önerisi kabul edilen, ancak tez çalışmasını birinci fıkrada belirtilen on iki yarıyıl sonuna kadar tamamlayamayan öğrencinin ilişiği kesilir.
+(4) Bu Yönetmelikte belirlenen mezuniyet koşullarını erken tamamlayan öğrenciler, asgari yedi yarıyıl sonunda mezun olabilirler.
