@@ -1,0 +1,3 @@
+Müdür ve müdür yardımcıları
+MADDE 8- (1) Müdür; Merkezin faaliyet alanları ile ilgili çalışmaları bulunan ve psikoloji, siyaset bilimi ve uluslararası ilişkiler, felsefe, tarih ve sosyoloji disiplinleri çerçevesinde disiplinler arası bilimsel çalışma ve yayımları bulunan Üniversite öğretim üyeleri arasından Rektör tarafından iki yıl için görevlendirilir. Süresi sona eren Müdür aynı usulle yeniden görevlendirilebilir.
+(2) Müdüre çalışmalarında yardımcı olmak üzere, Üniversite öğretim elemanları arasından en fazla iki kişi Rektör tarafından müdür yardımcısı olarak görevlendirilebilir. Müdür yardımcıları Müdürün verdiği işleri yaparlar. Müdür yardımcılarının görevi, Müdürün görevi sona erdiğinde sona erer.
