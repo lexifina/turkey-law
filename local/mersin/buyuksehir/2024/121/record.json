@@ -1,0 +1,18 @@
+{
+  "issuer": "Mersin Büyükşehir Belediye Meclisi",
+  "number": "121",
+  "decision_date": "2024-03-11",
+  "title": "-MEC.KAR.(İTFAİYE DAİ. BŞK. TARİFE DEĞİŞİKLİĞİ)",
+  "listed_as": "121-MEC.KAR.(İTFAİYE DAİ. BŞK. TARİFE DEĞİŞİKLİĞİ)",
+  "subject_note": "subject as the meeting page lists it (the register shortens some long subjects)",
+  "official_document": "https://www.mersin.bel.tr/dokumanlar/121-meckaritfaiye-dai-bsk-tarife-degisikligi-1080267051",
+  "source_listing": "https://www.mersin.bel.tr/dokumanlar/11-mart-2024-meclis-kararlari-1011688621",
+  "listing_sha256": "0fd0879953b0309f6619f480e5532b2d36d7c0e9dd9c77986d922b59a353eb78",
+  "meeting_title": "11 MART 2024 MECLİS KARARLARI",
+  "history_type": "metadata-only",
+  "capture_mode": "metadata-only",
+  "text_status": "metadata-only; official decision page linked, text not transcribed",
+  "date_basis": "meeting date in the official meeting page title (decision date of the session)",
+  "commencement_established": false,
+  "privacy_withheld": false
+}
