@@ -1,0 +1,17 @@
+İKİNCİ BÖLÜM
+Merkezin Amaçları ve Faaliyet Alanları
+Merkezin amaçları
+MADDE 5- (1) Merkezin amaçları şunlardır:
+a) Bireylerin ve toplumun şekillendiği dönem olan çocuk-ergen gelişimini korumak, iyileştirmek ve güçlendirmek.
+b) Yaşamın temellerini oluşturan çocuk ve ergenlerin içinde bulunduğu biyolojik, sosyal, kültürel, ekonomik ve çevresel faktörler etrafında bütüncül bir yaklaşımla değerlendirmek.
+c) İlgili mevzuat hükümleri kapsamında kamu kurum ve kuruluşları; üniversiteler, belediyeler, anne-çocuk sağlığı merkezleri, okullar, rehberlik araştırma merkezleri, emniyet müdürlükleri ile ortaklıklar kurarak çocuk ve ergen ruh sağlığı konusunda farkındalık yaratmak, koruma ve iyileştirmek için birlikte planlamak, proje oluşturmak ve faaliyete geçen projeleri sürdürmek.
+ç) Ruh sağlığı ve hastalıkları uzmanları, çocuk ve ergen ruh sağlığı ve hastalıkları uzmanları, çocuk sağlığı ve hastalıkları uzmanları, hemşireler, aile hekimleri, sosyologlar, sosyal-hizmet ve çocuk gelişim uzmanları, psikolojik danışmanlar, emniyet mensupları, diğer ilgili uzmanlar ve paydaşlar ile akademik, klinik ve sosyal bir iş birliği içinde çalışmak.
+d) Çocuk-ergen ruh sağlığı sorunlarına yaklaşırken, toplumda, sağlık çevrelerinde ve politika belirleyicilerde farkındalık oluşturmak ve tüm faktörlerle ilgili koruyucu ve önleyici ruh sağlığı hizmetlerine yönelmek.
+e) Çocuk-ergen ruh sağlığı sorunları olanların tedavi hizmetlerine ulaşımını sağlamak, tedavi merkezlerine yönlendirme sistemleri oluşturmak, yeterli düzeyde ve sayıda birimlerin oluşturulmasını teşvik etmek, birimlerin ve hizmet verecek ekibin nitelikli hale getirilmesi amacıyla eğitimler düzenlemek gibi sorunu çözmeye yönelik faaliyetler yapmak.
+f) Üniversitenin AR-GE birimi ile iş birliği içinde, çocuk ve ergenlere yönelik yapılmış ulusal ve uluslararası çalışmaları incelemek, yapılmakta olan yerel, ulusal, global araştırmalardan/projelerden haberdar olmak, yürütülen projeleri izlemek, desteklemek ve iş birliği yapmak.
+g) Çocuk ve ergen ruh sağlığında, etkili faktörler bağlamında koruma ve tedavi yaklaşımlarının kültürler arası ve çok kültürlülük temelinde farklılıklar gösterebilirliğini gözeterek planlamalar yapmak, kültürümüze ve bu temelde ortaya çıkabilecek sorunlara özgü programlar oluşturmak.
+ğ) Anne olma, baba olma, ebeveyn olma kavramlarına yönelik olarak değişen toplumsal rol ve algılarla beraber çocuk ve ergen eğitimi konusunda değişen ihtiyaçlara yönelik kaynaklara ulaşılmasına ve destek sistemlerini artırmaya yönelik çalışmalar yapmak.
+h) Ülkemizin çocuk-ergen ruh sağlığı ve otizm alanında güncel ihtiyaçlarının belirlenmesi amacıyla bilimsel yayın ve araştırmalarla veriler toplamak ve bu veriler ışığında ihtiyaca yönelik çalışmalar yapmak.
+ı) Ebeveyn çocuk-ergen bağlanması işlevsel bozulmasına dayalı sorunlar, ruhsal hastalıklar nedeniyle gelişim ve yaşam kalitesinin yitirilmesine dayalı sorunlar, ilişki ve iletişim sorunları hakkında rehberlik, eğitim ve destek hizmetlerini teorik ve uygulamalı çalışmalarla sunabilecek yeterliklere sahip perinatal ruh sağlığı çalışanları yetiştirmek.
+i) İlgili mevzuat kapsamında çocuk ve ergen ruh sağlığını koruyucu hizmetler kapsamında anne ve babalara ve onların yakınlarına, annelerle yakın temasta olan meslek mensuplarına yönelik danışmanlık, eğitim ve destek hizmetleri sunmak.
+j) Çocuk-ergen ruh sağlığını içinde bulunduğu sosyal, kültürel ve çevresel faktörler içinde değerlendiren bütüncül bir anlayışla ebeveynlerin ruh sağlığına yönelik rehberlik, eğitim ve destek hizmetleri vermek.
