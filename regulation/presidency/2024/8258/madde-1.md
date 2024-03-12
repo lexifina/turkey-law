@@ -1,0 +1,2 @@
+Amaç
+MADDE 1- (1) Bu Yönetmeliğin amacı, bayrağına bakılmaksızın Türk deniz yetki alanları dâhilindeki denizlerde ve bu denizlerle bağlantılı olan ve açık deniz teknelerinin seyredebileceği sularda bulunan tüm teknelerin; denizde çatışmayı önlemek için taşıyacakları ve gösterecekleri fener ve alametler, verecekleri sadalı sis ve manevra işaretleri, gözetecekleri seyir kuralları ile diğer kuralları ve tehlikeye düştükleri zaman yardım istemek için verecekleri ve gösterecekleri her türlü işaretleri belirlemektir.

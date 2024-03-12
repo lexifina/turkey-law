@@ -1,0 +1,26 @@
+{
+  "id": "presidency-regulation-8258",
+  "number": "8258",
+  "kind": "regulation",
+  "issuer": "presidency",
+  "title": "DENİZDE ÇATIŞMAYI ÖNLEME YÖNETMELİĞİ",
+  "published": "2024-03-12",
+  "enacted": "2024-03-11",
+  "gazette_number": "32487",
+  "in_force": "2024-03-12",
+  "in_force_basis": "Official commencement clause: \"Bu Yönetmelik yayımı tarihinde yürürlüğe girer.\"; Resmî Gazete 2024-03-12, no amendment annotation in this source text.",
+  "history": "current-only",
+  "version_label": "oldest version available",
+  "first_law": null,
+  "source": "https://www.mevzuat.gov.tr/anasayfa/MevzuatFihristDetayIframe?MevzuatNo=8258&MevzuatTur=21&MevzuatTertip=5",
+  "source_sha256": "29ff9a38029b25ae85220ecfa973b80dcc23413e0d239fe4347185722457dfb8",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  },
+  "missing_components": [],
+  "text_layout": "article-files",
+  "source_links": [],
+  "completeness": "html-text-complete"
+}
