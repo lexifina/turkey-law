@@ -1,0 +1,16 @@
+{
+  "kind": "decision",
+  "issuer": "Sayıştay Temyiz Kurulu",
+  "number": "56571",
+  "decision_date": "2024-03-13",
+  "source_id": 27562,
+  "chamber": "7",
+  "file_number": "52766",
+  "public_body_type": "Diğer Özel Bütçeli İdareler",
+  "account_year": "2012",
+  "subject": "İhale Mevzuatı ile İlgili Kararlar",
+  "source": "https://www.sayistay.gov.tr/KararlarTemyiz/Detay/27562/",
+  "source_sha256": "9982ba8c59e19b1c0e4f0bc6fe2589374f891d532938b14e8d57c97f0db5446c",
+  "text_status": "as-enacted",
+  "text_file": "metin.md"
+}
