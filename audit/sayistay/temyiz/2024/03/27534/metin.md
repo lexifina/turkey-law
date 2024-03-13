@@ -1,0 +1,33 @@
+Yapım işinde; uygulama projesine ve teknik şartnamesine göre yapılması gereken imalatın yapılmaması;
+
+19- 296 sayılı Ek İlamın 23. maddesiyle; yukarıda adı geçen iş (...-… Yapımı) kapsamında uygulama projesine (mekanik) ve Mekanik Tesisatı Teknik Şartnamesinin 09.9 uncu maddesine göre 94 adet yapılması gereken temperli camdan duşakabin imalatının yapılmadığı ve yapılmayan bu imalatlar için iş eksilişi yapılmamasına rağmen, bedelinin yükleniciye ödendiği gerekçesiyle … TL’nin tazminine ilişkin hüküm tesis edilmiştir.
+
+Sorumlular (Hakediş Kapağı Üzerinde İmzası Bulunan) Kontrol Teşkilatı Üyesi sıfatıyla temyiz talep eden Makine Yüksek Mühendisi … ve (Geçici ve Kesin Kabul Tutanakları Üzerinde İmzası Bulunan) Geçici ve Kesin Kabul Heyetleri Üyesi sıfatlarıyla temyiz talep eden Elektrik Teknikeri Makine Mühendisi …], ortaklaşa gönderdikleri temyiz dilekçesinde özetle; binada duş teknelerinin yapıldığını; ancak ihale kapsamında yapılması istenmeyen duşakabinlerin yapılmadığını, söz konusu imalatın teknik şartnamesine bakıldığında duşakabin imalatını kapsamadığının görüleceğini, duşakabin ile ilgili teknik şartnamede, mahal listesinde, projesinde ve pursantaj ilerleme yüzdelerinde herhangi bir bilgi verilmediğini ve yüklenici firmaya ödemesinin yapılmadığını, dolayısıyla fazla ödemeden bahsetmenin mümkün olmadığını, dilekçedeki onaylı mahal listesinde, pursantajda, yaklaşık maliyette ve mekanik proje kolon şemasında da duş teknelerinin olduğu; duşakabinlerin ise olmadığının çok açık bir şekilde görülebileceğini, 2018 yılında, yerinde yapılan denetimler için oluşturulan uzman heyetler tarafından, kendilerine eşlik edecek Kontrol Teşkilatı Görevlileri ve Kabul Heyetindeki görevli personeli sahaya çağırıp bilgilerine başvurulmadan raporlama yapıldığını, yine Sayıştay tarafından görevlendirilen Bilirkişi Heyetinin de incelemeleri sırasında yine Kontrol Teşkilatı görevlileri ve Kabul Heyetindeki görevli personeli sahaya çağırmadığını ve hiçbir şekilde bilgilerine ve görüşlerine itibar edilmediğini, söz konusu tarafların sahada birlikte çalışma imkânı oluşturulsaydı, taraflarına yöneltilmiş sorguların hepsinin sahada çözülmüş olacağını ki; yerinde denetimin amacının da bu olduğunu, bu konularla ilgili Sayıştay Başkanlığı’nın;
+
+Yılı 2019, Dairesi 4, Karar No 243, İlam no 2, Tutanak Tarihi 1.12.2020 Daire Kararı,
+
+Yılı 2016, Dairesi 8, Karar No 125, İlam No 43, Tutanak Tarihi 21.12.2017 Daire Kararı,
+
+Yılı 2015, Dairesi 2, Karar No 35427, İlam No 27, Tutanak Tarihi 20.10.2016 Daire Kararı ve
+
+Yılı 2012, Dairesi 2, Dosya No 39591, Tutanak No 43267, Tutanak Tarihi 13.9.2017 Temyiz Kurulu Kararı
+
+Bulunduğunu Kurumuza arz etmişlerdir.
+
+Başsavcılık mütalaasında özetle; sorumluların duşakabin ile ilgili teknik şartnamede, mahal listesinde, projesinde ve pursantaj ilerleme yüzdelerinde herhangi bir bilgi yer almadığı ve yüklenici firmaya ödeme yapılmadığı hususlarını belirterek kamu zararı oluşmadığı savıyla tazmin hükmünün kaldırılmasını talep ettikleri ifade edildikten sonra; dosya üzerinde yapılan inceleme neticesinde; sorumluların temyiz dilekçesinde dile getirdiği hususlar savunmalarında dile getirdikleri hususlarla benzer nitelikte olup, sunulan belge ve bilgiler ışığında konunun yeniden tetkikine ihtiyaç bulunduğundan; temyiz talebinin kabul edilerek Daire Kararının bozulmasının uygun olacağı mütalaa olunmuştur.
+
+İşbu dosyayla duruşma talebinde bulunan sorumlulardan … ile Sayıştay Savcısının sözlü açıklamalarının dinlenmesinden ve dosyada mevcut belgelerin okunup …’a 23.02.2024 tarihinde duruşma günü bildirilmiş olmasına karşın duruşmaya katılmadığından, Hukuk Muhakemeleri Kanununun 369 uncu maddesi hükmü uyarınca dosya üzerinde ve gıyabında),
+
+GEREĞİ GÖRÜŞÜLDÜ:
+
+Temyize konu işbu ek ilam maddesinde tazmin hükmü, Sayıştay tarafından görevlendirilen Bilirkişilerin raporları, … 11. Asliye Hukuk Mahkemesi Bilirkişi Heyetinin ilk raporu, ve ... Hukuk Müşavirliğinin itiraz ettiği hususları içeren ek raporu ile Sayıştay tarafından görevlendirilen Bilirkişilerin raporlarına sorumlular tarafından yapılan itirazlar dikkate alınarak düzenlenen yargılamaya esas ek raporun incelenmesi sonucunda; adı geçen işte uygulama projesine (mekanik) ve mekanik tesisatı teknik şartnamesinin 09.9. maddesine göre 94 adet yapılması gereken temperli camdan duşakabin imalatının yapılmadığı ve yapılmayan bu imalatlar için iş eksilişi yapılmamasına rağmen, bedelinin yükleniciye ödenmesi suretiyle kamu zararına sebebiyet verildiği gerekçesiyle verilmiştir.
+
+Bu tazmin gerekçesi de işe ait sözleşmenin “Sözleşmenin Türü ve Bedeli” başlıklı 6. maddesi, 4734 sayılı Kamu İhale Kanununun (uygulama projesini tanımlayan) “Tanımlar” başlıklı 4 üncü maddesi, Yapım İşleri İhaleleri Uygulama Yönetmeliğinin eki olan Yapım İşleri Genel Şartnamesinin “Projelerin uygulanması” başlıklı 12 nci maddesinin birinci fıkrası, “Sözleşme ve eklerine uymayan” işler başlıklı 23 üncü maddesi ve “Hatalı, kusurlu ve eksik işler” başlıklı 24 üncü maddesi hükümlerine dayandırılmıştır.
+
+Temyiz dilekçesinde sorumlularca; Binada duş teknelerinin yapıldığı; ancak ihale kapsamında yapılması istenmeyen duşakabinlerin yapılmadığı, söz konusu imalatın teknik şartnamesine bakıldığında duşakabin imalatını kapsamadığının görüleceği, duşakabin imalatı ile ilgili teknik şartnamede, mahal listesinde, projesinde ve pursantaj ilerleme yüzdelerinde herhangi bir bilgi verilmediği ve yüklenici firmaya ödemesi yapılmadığı ileri sürülmekte ise de; Sayıştay’ca görevlendirilen Bilirkişi Heyetinin düzenlediği Raporda; ihale eki olan mekanik mahal listesinin sıhhi tesisatı sayfasında 80x80x10 cm edatında duş teknesinin A, B, C, D ve E Bloklarında kullanılacağının belirtildiği, yerinde yapılan denetim sonucunda 94 adet duş teknesi yapıldığının tespit edildiği, mekanik tesisat şartnamesinin 09.10. maddesinde, duş teknesi üzerine monte edilebilecek, proje ölçülerinde, karkası elektrostatik beyaz profilli, polistren camlı, rulman ve tırnaklı duşakabin olacağının belirtildiği, ancak söz konusu duşakabin imalatlarının yapılmadığı açıkça görülmektedir.
+
+Sonuç itibarıyla, ihale kapsamında olduğu anlaşılan duşakabinlerin yapılmaması sonucu kamu zararına sebebiyet verildiği görüldüğünden; temyiz talebinde bulunan sorumluların iddia ve itirazlarının reddedilerek 296 sayılı Ek İlamın 23. maddesiyle verilen … TL’nin tazminine ilişkin hükmün TASDİKİNE, oy birliğiyle,
+
+6085 sayılı Kanunun 57 nci maddesi gereği bu Kararın yazılı bildirim tarihinden itibaren onbeş gün içerisinde Sayıştay’da karar düzeltilmesi yolu açık olmak üzere,
+
+Karar verildiği 13.03.2024 tarih ve 56552 sayılı tutanakta yazılı olmakla işbu ilam tanzim kılındı.
