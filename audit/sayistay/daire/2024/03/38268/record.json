@@ -1,0 +1,17 @@
+{
+  "kind": "decision",
+  "issuer": "Sayıştay 8. Dairesi",
+  "number": "312",
+  "decision_date": "2024-03-14",
+  "source_id": 38268,
+  "chamber": "8",
+  "ilam_number": "46",
+  "item_number": 4,
+  "public_body_type": "Yüksek Öğretim Kurumları",
+  "account_year": 2022,
+  "subject": "Çeşitli Konuları İlgilendiren Kararlar",
+  "source": "https://www.sayistay.gov.tr/KararlarDaire/Detay/38268/",
+  "source_sha256": "b345f76473e873914d69a0ca8ba9bce191c5e0543dc3eff227a3d760e4befcb7",
+  "text_status": "as-enacted",
+  "text_file": "metin.md"
+}
