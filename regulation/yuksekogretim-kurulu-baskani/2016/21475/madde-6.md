@@ -1,0 +1,7 @@
+Yabancı dil yeterlilik ve seviye tespit sınavları
+MADDE 6 – (1) Öğretim dili kısmen veya tamamen yabancı dilde olan yükseköğretim programına ilk defa kayıt yaptıran öğrenciler, kayıt yaptırdığı öğretim yılının başında, yükseköğretim kurumları tarafından düzenlenen yabancı dil seviye tespit ve/veya yeterlilik sınavına tabi tutulurlar. Yükseköğretim kurumları, senato kararı ile yabancı dil seviye tespit sınavı ile yeterlilik sınavını tek bir sınav veya ayrı ayrı sınavlar halinde uygulayabilir.
+(2) Yabancı dil yeterlilik ve/veya seviye tespit sınavından alınan puana göre öğrencinin yabancı dil hazırlık sınıfından muaf olup olmadığı ile yabancı dil hazırlık sınıfında hangi seviyeden öğrenim göreceği belirlenir.
+(3) Aşağıdaki öğrenciler yabancı dil seviye tespit ve yeterlilik sınavından muaftır:
+a) En az son üç yılında, öğretim dili olarak belirlenen yabancı dilin anadili olarak konuşulduğu bir ülkede o ülke vatandaşlarının devam ettiği ortaöğretim kurumlarında eğitim görüp ortaöğrenimini bu kurumlarda tamamlayanlar.
+b) Yükseköğretim Kurulu tarafından kabul edilen merkezi yabancı dil sınavları ile eşdeğerliği kabul edilen uluslararası yabancı dil sınavlarında yükseköğretim kurumu senatosunun belirlediği puanla başarılı olanlar.
+(4) Üçüncü fıkranın (b) bendi kapsamına giren sınavlarda alınan puanın değerlendirmeye alınabilmesi için, sınavı yapan ilgili kurumlar tarafından belirlenen sınav geçerlilik süresi esas alınır. Sınavın geçerlilik süresinin belli olmaması halinde bu süre Yükseköğretim Kurulu tarafından belirlenir.

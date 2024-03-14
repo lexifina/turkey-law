@@ -1,0 +1,5 @@
+Geçiş hükmü
+GEÇİCİ MADDE 1 – (1) Bu Yönetmeliğin yayımından önce;
+a) Türkiye’deki bir üniversitede derslerin sadece yabancı bir dilde verildiği lisans, yüksek lisans veya doktora programında öğrenimini tamamlamış olması nedeniyle bu Yönetmeliğin yürürlük tarihinden önce yükseköğretim kurumlarında bu yabancı dilde ders veren öğretim elemanları, sadece halen kadrosunun bulunduğu yükseköğretim kurumunda yabancı dilde ders vermeye devam edebilir.
+b) Yükseköğretim kurumlarında merkezi yabancı dil sınavında ilgili dilde 80 ve üzerinde puana sahip olması nedeniyle yabancı dilde ders veren öğretim elemanları, kadrosunun bulunduğu yükseköğretim kurumundan başka bir yükseköğretim kurumuna geçmesi halinde yabancı dilde ders vermeye devam edebilir.
+c) Yükseköğretim kurumları yabancı dilde eğitim veren programlarındaki öğretim elemanı kadrosunu, 8 inci maddede yer alan asgari şartlara uygun olarak 2017-2018 eğitim öğretim dönemi başına kadar sağlaması gerekmektedir. Bu şartların sağlanamaması halinde, yükseköğretim kurumlarının yetkili kurullarının teklifi üzerine programların öğretim dilinin Türkçe’ye çevrilmesine Yükseköğretim Kurulu karar verir.

@@ -1,0 +1,4 @@
+Zorunlu yabancı dil dersleri
+MADDE 7 – (1) Öğretim dili Türkçe olan bir yükseköğretim programına ilk defa kayıt yaptıran öğrencilerin, 2547 sayılı Kanunun 5 inci maddesinin birinci fıkrasının (ı) bendi gereğince verilmesi zorunlu olan yabancı dil derslerinden muaf olup olmayacağı, yükseköğretim kurumlarının senato kararıyla bu Yönetmeliğin 6 ncı maddesinde belirtilen seviye tespit ve/veya yeterlik sınavı ile tespit edilebileceği gibi, ayrı bir zorunlu yabancı dil muafiyet sınavı uygulayarak da tespit edilebilir. Muafiyet şartlarını yerine getirmeyen öğrenciler bu dersleri almak ve başarmak zorundadırlar.
+(2) Zorunlu yabancı dil dersleri, Türkiye Yükseköğretim Yeterlilikleri Çerçevesinde o düzey için öngörülen yabancı dil bilgi düzeyini karşılayacak şekilde en az iki yarıyıl olarak programlanır.
+(3) Zorunlu yabancı dil derslerinden muaf olan veya bu dersleri almış ve başarılı olmuş öğrenciler için daha sonraki yarıyıllarda seçmeli yabancı dil dersleri açılabilir.
