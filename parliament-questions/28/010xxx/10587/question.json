@@ -1,0 +1,21 @@
+{
+  "record_type": "parliament-written-question",
+  "term": 28,
+  "legislative_year": 2,
+  "esas_no": "7/10587",
+  "submitted": "2024-03-14",
+  "submitted_as": "Başkanlığa geliş tarihi",
+  "mp": "Aliye COŞAR",
+  "province": "Antalya",
+  "summary": "5 Mart 2024 tarihinde Antalya'nın çeşitli ilçelerinde yaşanan hortum felaketinin tarımsal alanlara verdiği zarara ilişkin",
+  "status": "Süresi Geçtikten Sonra Cevaplandı",
+  "status_as_of": "2026-11-16",
+  "official_record": "https://www.tbmm.gov.tr/Denetim/Yazili-Soru-Onergesi-Detay/6685b8eb-f270-4eb3-a99e-018e3ce4d4db",
+  "source": "https://tbmm.gov.tr/Denetim/YaziliSoruOnergesiTable",
+  "source_form": "https://tbmm.gov.tr/Denetim/Yazili-Soru-Onergeleri",
+  "source_sha256": "76af426c0b14d4d4aa977878b4bf421bfe7f19b871164a93324413a8df83049c",
+  "in_force": "2024-03-14",
+  "in_force_basis": "Date the question reached the Speaker (Başkanlığa geliş tarihi) in the official TBMM written-question record; parliamentary oversight record, not law",
+  "history_type": "metadata",
+  "text_status": "metadata-only: question text, addressee and answers are in the linked official record (PDFs on cdn.tbmm.gov.tr); not transcribed here"
+}
