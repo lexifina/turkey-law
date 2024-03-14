@@ -1,0 +1,50 @@
+{
+  "annexes": {
+    "links": [
+      {
+        "caption": "Ekleri için tıklayınız",
+        "official_href": "9.5.40725-Ek.docx",
+        "status": "pending"
+      }
+    ],
+    "official_html": "https://www.mevzuat.gov.tr/anasayfa/MevzuatFihristDetayIframe?MevzuatTur=9&MevzuatNo=40725&MevzuatTertip=5",
+    "status": "pending"
+  },
+  "checked_on": "2026-11-15",
+  "commencement_quote": "Bu Tebliğ 22/6/2023 tarihinden geçerli olmak üzere yayımı tarihinde yürürlüğe girer",
+  "date_gazette": "32489",
+  "date_quote": "Bu Tebliğ 22/6/2023 tarihinden geçerli olmak üzere yayımı tarihinde yürürlüğe girer",
+  "first_law": null,
+  "gazette": "32489",
+  "history": "current-text",
+  "images": {
+    "deferred": 0,
+    "omitted": 0,
+    "referenced": 0,
+    "source": 0
+  },
+  "in_force": "2024-03-14",
+  "in_force_basis": "Own commencement clause: Bu Tebliğ 22/6/2023 tarihinden geçerli olmak üzere yayımı tarihinde yürürlüğe girer",
+  "issuer": "Sağlık Bakanlığı",
+  "issuer_catalog_evidence": [
+    {
+      "evidence": "issuer-87-0.json",
+      "id": "87",
+      "label": "Sağlık Bakanlığı",
+      "listing_url": "https://www.mevzuat.gov.tr/Anasayfa/MevzuatDatatable?MevzuatTur=Teblig&KurumId=87&start=0&length=100"
+    }
+  ],
+  "issuer_slug": "saglik-bakanligi",
+  "kind": "communique",
+  "label": "oldest version available",
+  "notes": [
+    "Linked official annexes are not included in this version; original official links and captions are recorded in annexes."
+  ],
+  "published": "2024-03-14",
+  "source": "https://www.mevzuat.gov.tr/anasayfa/MevzuatFihristDetayIframe?MevzuatTur=9&MevzuatNo=40725&MevzuatTertip=5",
+  "source_bytes": 22010,
+  "source_id": "9.5.40725",
+  "source_sha256": "b35b9808f6cc2a46b15b9dd551ea0aecdef7bb056445afd4e97189a66c41cc7b",
+  "title": "TIBBİ CİHAZ YÖNETMELİĞİNİN EK XVI’SINDA LİSTELENEN TIBBİ AMAÇLI OLMAYAN ÜRÜN GRUPLARINA YÖNELİK ORTAK SPESİFİKASYONLARIN BELİRLENMESİ HAKKINDA TEBLİĞ",
+  "word_count": 1057
+}
