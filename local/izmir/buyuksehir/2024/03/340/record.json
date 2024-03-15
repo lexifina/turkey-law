@@ -1,0 +1,13 @@
+{
+  "issuer": "İzmir Büyükşehir Belediye Meclisi",
+  "number": "340",
+  "decision_date": "2024-03-15",
+  "official_id": "33754",
+  "version_label": "as-enacted",
+  "text_status": "complete decision text as published in the register's KararDetay field (HTML); annexes not supplied",
+  "source_listing_url": "https://www.izmir.bel.tr/tr/IbbMeclisi/TariheGoreKararGetirJS?yil=2024&ay=&gun=&txtSozcuk=&draw=1&start=1000&length=100&txtKararNo=",
+  "source_listing_sha256": "5b9b9524e9edf3414af122569379e6559fafe9342582a5525961d50b038a3214",
+  "register_page": "https://www.izmir.bel.tr/tr/MeclisKararlari/58",
+  "date_basis": "register field KararTarihi (decision date)",
+  "privacy_withheld": false
+}
