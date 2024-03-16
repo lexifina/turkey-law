@@ -1,0 +1,6 @@
+Yarışma sınavı
+MADDE 12 – (1) Yarışma sınavı ilanda belirtilmek koşuluyla yazılı ya da yazılı ve sözlü olarak yapılabilir.
+(2) Yazılı sınav klasik, test veya klasik ve test yöntemiyle basılı veya elektronik ortamda Kurum tarafından yapılabileceği gibi protokolle belirlenecek esaslara göre Ölçme, Seçme ve Yerleştirme Merkezi Başkanlığına, Millî Eğitim Bakanlığına, üniversitelere veya bu konuda uzmanlaşmış diğer kamu kurum ve kuruluşlarına da yaptırılabilir. Yazılı sınav, Kurumun görev alanı dikkate alınarak sınav duyurusunda belirtilen konulardan yapılır.
+(3) Yapılacak yazılı sınavdan en az yetmiş puan ve üzerinde not alınması şarttır.
+(4) Sözlü sınav yapılacak olması halinde Sınav Kurulu, yazılı sınavdan başarılı olanları sözlü sınava çağırır.
+(5) Sınav Kurulu üyeleri sözlü sınavda, her adaya öğrenim alanı (Ek ibare:RG-16/3/2024-32491) ve görev yapacağı alan ile ilgili bilgi düzeyi, yabancı dili kullanabilme düzeyi, adayın kavrayış, ifade ve temsil kabiliyeti, muhakeme gücü, görevlendirilecek pozisyona yatkınlık, davranış ve tepkilerinin mesleğe uygunluğu gibi niteliklere sahip olup olmadığını da göz önüne alarak not verir. Sözlü sınavda Sınav Kurulu üyelerinin verdikleri notların aritmetik ortalaması alınır. Sözlü sınavdan en az yetmiş puan ve üzerinde not alınması şarttır.

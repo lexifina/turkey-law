@@ -1,0 +1,3 @@
+Başka iş ve hizmet üstlenme
+MADDE 27 – (1) Personel, Kurumun görev alanı ile doğrudan ya da dolaylı olarak ilişki kurulabilecek başka bir iş veya hizmette çalışamaz ve 13/1/2011 tarihli ve 6102 sayılı Türk Ticaret Kanunu hükümleri uyarınca tacir veya esnaf sayılmasını gerektirecek bir faaliyette bulunamaz. Ticari mümessil, ticari vekil ve şirketlerde yönetici olamaz. Kurum ile doğrudan ya da dolaylı olarak ilişkisi bulunan şirketlerde, kolektif şirketlerde, adi ortaklıklarda ortak ve komandit şirketlerde komandite ortak olamaz.
+(2) Personel Kurumdan izin alınması kaydıyla, bilirkişi, arabulucu, uzlaştırmacı ve hakemlik görevleri yapabilir.

@@ -1,0 +1,3 @@
+Kendi isteği ile ayrılma sonrası yeniden hizmete alınma
+MADDE 44 – (1) İki defadan fazla olmamak üzere; kendi istekleriyle sözleşmeleri usulüne uygun şekilde sona eren uzman, denetçi, mütercim ve destek personelinden tekrar göreve dönmek isteyenler, Kurum tarafından uygun görülmesi, ayrıldıkları hizmet biriminde boş pozisyon bulunması, genel şartlar ile atanacakları pozisyona ilişkin şartları taşımaları halinde Başkanın teklifi ve Bakanın onayı ile yarışma sınavına tabi tutulmaksızın ayrıldıkları pozisyonlarda tekrar hizmete alınabilirler.
+(2) Ayrıldıkları hizmet biriminde boş pozisyon bulunmayan personel, Kurum tarafından uygun görülen ve boş pozisyon bulunan bir hizmet biriminde hizmete alınabilir.

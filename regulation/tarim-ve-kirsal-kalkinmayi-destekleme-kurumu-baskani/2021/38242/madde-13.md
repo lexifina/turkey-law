@@ -1,0 +1,6 @@
+Sınav sonuçlarının değerlendirilmesi ve sonucunun duyurulması
+MADDE 13 – (1) Yarışma sınavının sadece yazılı sınavdan oluşması halinde yazılı sınav notu başarı puanıdır.
+(2) Yarışma sınavının yazılı ve sözlü sınavdan oluşması halinde başarı puanı bu iki sınavın aritmetik ortalaması alınarak hesaplanır. (Ek cümle:RG-16/3/2024-32491) Sınav başarı notu yüz puan üzerinden asgari yetmiş puandır.
+(3) Başarı puanı en yüksek olan adaydan başlanmak suretiyle en fazla yarışma sınavı duyurusunda belirtilen pozisyon sayısı kadar asıl adayın isimleri Kurumun resmî internet sayfasında ilan edilir. İlan tebligat yerine geçer, ilgililere ayrıca tebligat yapılmaz. Adayların başarı puanının eşit olması halinde sırasıyla yazılı sınav puanı, sözlü sınav puanı, bunların eşit olması halinde merkezi sınav puanı yüksek olan, bunun eşit olması halinde diploma tarihi önce olan, bunun da eşit olması halinde yaşı büyük olan aday tercih edilir.
+(4) Yapılan sınavlarda başarılı olmak şartıyla, yarışma sınavı duyurusunda belirtilen pozisyon sayısının yarısını geçmemek üzere Sınav Kurulu tarafından belirlenen sayıda yedek adayın isimlerini kapsayan bir liste ilan edilebilir. İlan tebligat yerine geçer, ilgililere ayrıca tebligat yapılmaz.
+(5) Yarışma sınavında yetmişin üzerinde puan almış olmak sıralamaya giremeyen adaylar için kazanılmış hak teşkil etmez.

@@ -1,0 +1,21 @@
+Tanımlar
+MADDE 3 – (1) Bu Yönetmelikte geçen;
+a) Bakan: Tarım ve Orman Bakanını,
+b) Bakanlık: Tarım ve Orman Bakanlığını,
+c) Başkan: Tarım ve Kırsal Kalkınmayı Destekleme Kurumu Başkanını,
+ç) Denetçi: İç Denetim Koordinatörlüğünde görev yapan denetçileri,
+d) (Değişik:RG-16/3/2024-32491) Destek personeli: Kurumun sekreterlik, arşiv, idarî, malî ve personelle ilgili işlemlerini yürüten ve büro görevlisi, teknisyen, koruma ve güvenlik görevlisi, şoför ve hizmetli pozisyonlarında istihdam edilen personeli,
+e) Dil belgesi: Ölçme, Seçme ve Yerleştirme Merkezi tarafından yapılan Yabancı Dil Bilgisi Seviye Tespit Sınavı veya buna denkliği kabul edilen uluslararası geçerliliği olan sınav sonuçlarına ilişkin belgeyi,
+f) Genel koordinatör: Kurumda bulunan her bir genel koordinatörlüğün yöneticisi olan personeli,
+g) I. Hukuk Müşaviri: Hukuk Müşavirliğinin yöneticisi olan personeli,
+ğ) İç Denetim Koordinatörü: İç Denetim Koordinatörlüğünün yöneticisi olan personeli,
+h) İl koordinatörü: Kurumun taşra teşkilatında bulunan her bir il koordinatörlüğünün yöneticisi olan personeli,
+ı) Merkezi sınav: 18/3/2002 tarihli ve 2002/3975 sayılı Bakanlar Kurulu Kararı ile yürürlüğe konulan Kamu Görevlerine İlk Defa Atanacaklar İçin Yapılacak Sınavlar Hakkında Genel Yönetmelik uyarınca yapılan Kamu Personel Seçme Sınavını,
+i) Kanun: 5648 sayılı Kanunu,
+j) Koordinatör: Kurumun merkez teşkilatında bulunan her bir koordinatörlüğün yöneticisi olan personeli,
+k) Kurum: Tarım ve Kırsal Kalkınmayı Destekleme Kurumunu,
+l) Personel: 375 sayılı Kanun Hükmünde Kararnamenin ek 27 nci maddesine göre istihdam edilen sözleşmeli personeli,
+m) Sözleşme: Kurum ile personel arasında imzalanan idari hizmet sözleşmesini,
+n) Uzman: Kurumda görev yapan uzmanları,
+o) (Değişik:RG-16/3/2024-32491) Yarışma sınavı: Kurumda istihdam edilecek uzman, denetçi ve mütercim seçimine ilişkin yapılacak yazılı veya yazılı ve sözlü sınavı,
+ifade eder.

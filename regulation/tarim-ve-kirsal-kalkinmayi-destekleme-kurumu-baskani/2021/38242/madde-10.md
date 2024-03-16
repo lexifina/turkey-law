@@ -1,0 +1,6 @@
+Sınav başvurusu ve başvuruların değerlendirilmesi
+MADDE 10 – (1) Başvurular için, personel alım ilanını müteakip en az on günlük başvuru süresi tanınır.
+(2) Yarışma sınavına başvuru; şahsen, elden veya posta yoluyla ilanda belirtilen adrese veya ilanda belirtildiği takdirde internet erişimi üzerinden başvuru formu kullanılarak yapılabilir. Postadaki gecikmeler ve ilânda belirtilen süre içerisinde yapılmayan başvurular dikkate alınmaz.
+(3) Başvurudan göreve başlamaya kadar tüm aşamalarda adaylara yapılacak bilgilendirme ve çağrılar, ilanda belirtilmesi şartıyla adayların başvuru sırasında bildirdikleri e-posta adreslerine ve/veya Kurumun internet sitesinde duyuru yoluyla yapılır ve bu konuda ayrıca kâğıt ortamında herhangi bir yazışma yapılmaz.
+(4) Yarışma sınavına çağrılacak aday sayısı, ilanda belirtilen merkezi sınav puanı en yüksek olan adaydan başlamak üzere, sınav ilanında belirtilen taban puan esas alınarak yapılacak sıralamaya göre duyurulan her bir pozisyonun beş katından fazla olamaz. Yapılan sıralama sonucunda son sıradaki aday ile eşit puana sahip diğer adaylar da sınava çağrılır.
+(5) Yapılan değerlendirme sonucunda başvuruda bulunan adaylardan aranan nitelikleri taşıdığı belirlenen adaylar yazılı sınava çağrılır, aranan nitelikleri taşımadığı belirlenenlerin ise başvuruları geçersiz sayılır.

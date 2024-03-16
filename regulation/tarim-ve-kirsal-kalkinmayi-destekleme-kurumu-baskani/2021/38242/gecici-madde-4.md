@@ -1,0 +1,2 @@
+Geçiş hükmü
+GEÇİCİ MADDE 4 – (1) Bu Yönetmeliğin yayımı tarihinden itibaren en geç bir ay içerisinde Bakanlık tarafından 375 sayılı Kanun Hükmünde Kararnamenin ek 11 inci maddesine göre hazırlanacak mali ve sosyal hak ve yardımlar kapsamında emsal personel belirlenmesine ilişkin talep yazısı Cumhurbaşkanlığına gönderilir. Bu talebe istinaden Cumhurbaşkanı Kararı çıkıncaya kadar mali ve sosyal hak ve yardımların ödenmesinde 25 sayılı Cumhurbaşkanlığı Kararnamesinin uygulanmasına devam olunur.

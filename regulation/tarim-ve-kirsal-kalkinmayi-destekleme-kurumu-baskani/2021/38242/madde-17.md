@@ -1,0 +1,2 @@
+Sözleşme usul ve esasları
+MADDE 17 – (1) 375 sayılı Kanun Hükmünde Kararnamenin ek 27 nci maddesi kapsamında istihdam edilecek genel koordinatör, İç Denetim Koordinatörü, koordinatör, il koordinatörü, uzman, denetçi, mütercim ve destek personeli ile sözleşme imzalanır. Bu sözleşmede, sözleşme yapan tarafların isim ve unvanları, sözleşmenin başlangıç ve bitiş tarihi, görev yapacağı unvanı, sosyal güvenlik ve çalışma şartları açısından tabi olacağı kanun ve ilgili mevzuat, sözleşmenin fesih şartları ile Kurumun sözleşmede bulunmasını uygun gördüğü diğer hususlar yer alır.
