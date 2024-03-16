@@ -1,0 +1,2 @@
+Güvenlik
+MADDE 21- (1) Bu Yönetmelik kapsamındaki işlemleri yürütmek üzere Sistem Yöneticisi tarafından kendilerine kullanıcı adı ve şifresi verilenler, bunları hiçbir surette başkaları ile paylaşamaz. Sistem verileri paylaşılan kurum ve kuruluşlar, Bakanlıkça belirlenen usul ve esaslar çerçevesinde hareket etmek zorundadırlar. Bu hükme aykırı davrananlar, doğacak zararların tazmininden sorumludur.

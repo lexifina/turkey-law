@@ -1,0 +1,2 @@
+Kapsam
+MADDE 2- (1) Bu Yönetmelik, ortam koşulları kısmen ya da tamamen kontrol edilebilir kapalı bitkisel üretim alanlarının kayıt altına alınması amacıyla Kapalı Ortamda Bitkisel Üretim Kayıt Sisteminin kullanılması, güncellenmesi ve geliştirilmesi ile ilgili kayıt işlemlerinin izlenmesi ve raporlanmasında görev alacak birimlerin belirlenmesi, görevlerin tanımlanması, bu alanlarda tarımsal faaliyette bulunan üretici kayıtlarının yapılması ve düzenlenmesine ilişkin usul ve esasları kapsar.

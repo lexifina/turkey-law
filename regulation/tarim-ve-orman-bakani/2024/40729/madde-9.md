@@ -1,0 +1,2 @@
+Sisteme kayıt edilmeyecek üretici ve alanlar
+MADDE 9- (1) 6 ncı maddede belirtilen şartları sağlayamayan üreticiler ile 31/8/1956 tarihli ve 6831 sayılı Orman Kanunu, 25/2/1998 tarihli ve 4342 sayılı Mera Kanunu ve 26/1/1939 tarihli ve 3573 sayılı Zeytinciliğin Islahı ve Yabanilerinin Aşılattırılması Hakkında Kanun kapsamında olan taşınmaz mallar üzerinde kurulan kapalı ortamda bitkisel üretim işletmeleri sisteme kayıt edilmez.
