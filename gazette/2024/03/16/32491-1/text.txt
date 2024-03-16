@@ -1,0 +1,449 @@
+16 Mart 2024 CUMARTESİ
+Resmî Gazete
+Sayı : 32491
+YÖNETMELİK
+Tarım ve Orman Bakanlığından:
+KAPALI ORTAMDA
+BİTKİSEL ÜRETİM KAYIT SİSTEMİ YÖNETMELİĞİ
+BİRİNCİ BÖLÜM
+Başlangıç Hükümleri
+Amaç
+MADDE 1- (1) Bu Yönetmeliğin amacı; planlı üretim
+politikalarının oluşturulmasına yönelik olarak ortam koşulları kısmen ya da
+tamamen kontrol edilebilir kapalı ortamlardaki bitkisel üretim
+yetiştiriciliğinin kayıt altına alınması için oluşturulan Kapalı Ortamda Bitkisel
+Üretim Kayıt Sisteminin kullanılması, güncellenmesi, izlenmesi,
+geliştirilmesi ve raporlanmasına ilişkin usul ve esasları belirlemektir.
+Kapsam
+MADDE 2- (1) Bu Yönetmelik, ortam koşulları kısmen ya da tamamen
+kontrol edilebilir kapalı bitkisel üretim alanlarının kayıt altına alınması
+amacıyla Kapalı Ortamda Bitkisel Üretim Kayıt Sisteminin kullanılması,
+güncellenmesi ve geliştirilmesi ile ilgili kayıt işlemlerinin izlenmesi ve
+raporlanmasında görev alacak birimlerin belirlenmesi, görevlerin
+tanımlanması, bu alanlarda tarımsal faaliyette bulunan üretici kayıtlarının
+yapılması ve düzenlenmesine ilişkin usul ve esasları kapsar.
+Dayanak
+MADDE 3- (1) Bu Yönetmelik, 18/4/2006 tarihli ve 5488 sayılı
+Tarım Kanunu ile 1 sayılı Cumhurbaşkanlığı Teşkilatı Hakkında
+Cumhurbaşkanlığı Kararnamesinin 414 üncü maddesine dayanılarak
+hazırlanmıştır.
+Tanımlar
+MADDE 4- (1) Bu Yönetmelikte geçen;
+a) Alçak tünel: Üretimde erkencilik amaçlanan, dış
+ortam şartları uygun hale geldiğinde kaldırılabilen, bitkileri düşük
+sıcaklık, rüzgâr, yağmur, dolu, kuş ve haşerelerden korumak amacıyla
+taşıyıcı iskelet üzerinin ışık geçirebilen plastik ile örtülmesi sonucu
+elde edilen üniteleri,
+b) Bakanlık: Tarım ve Orman Bakanlığını,
+c) Coğrafi bilgi sistemleri (CBS) yetkilisi: Genel
+Müdürlük ve Bakanlık il/ilçe müdürlükleri bünyesinde belirlenen personeli,
+ç) Çiftçi belgesi: Üreticilerin özlük ve tarımsal
+faaliyetlerine ilişkin bilgileri içeren, kanunen bağlı bulundukları ziraat
+odası tarafından düzenlenen onaylı belgeyi,
+d) e-Devlet Kapısı: e-Devlet hizmetlerinin son
+kullanıcıya farklı erişim kanallarından tek noktadan bütünleşik olarak
+sunulduğu ortak elektronik platformu,
+e) Ek ünite: Kapalı ortamda bitkisel üretim
+işletmesinde, birbirinden bağımsız veya birbirine bağlı olarak; ünite
+içerisinde bitkisel ürünlerin yetiştirilmesi aşamasında ihtiyaç duyulan
+iklimlendirme, bitki besleme, bitki koruma, geri dönüşüm ve atık depolama
+birimleri ile yetiştirilen ürünlerin işlenmesi, paketlenmesi, depolanması
+ve muhafazası amacı ile kurulan teknik ve idari birimlerden oluşan ve aynı
+üreticinin tasarrufunda bulunan yapıları,
+f) Genel Müdürlük: Bitkisel Üretim Genel
+Müdürlüğünü,
+g) İl/ilçe keşif komisyonu: 27/5/2014 tarihli ve
+29012 sayılı Resmî Gazete’de yayımlanan Çiftçi Kayıt Sistemi Yönetmeliğine
+göre oluşturulan il/ilçe keşif komisyonunu,
+ğ) İl/ilçe müdürlüğü: Bakanlık il/ilçe tarım ve
+orman müdürlüklerini,
+h) İl/ilçe tahkim komisyonu: Çiftçi Kayıt Sistemi
+Yönetmeliğine göre oluşturulan il/ilçe tahkim komisyonunu,
+ı) İl/ilçe tespit komisyonu: Yeni kurulan/kurulacak
+olan veya modernize edilecek kapalı ortamda bitkisel üretim işletmesinin
+ilgili mevzuata uygunluğunun tespit çalışmalarını yapmak üzere il/ilçe
+müdürlüğünde görevli en az bir teknik personel, CBS yetkilisi ve
+köy/mahalle muhtarından oluşan komisyonu,
+i) İl sistem sorumlusu: Sistem ile ilgili il
+düzeyindeki bütün işlemleri yapmak üzere il müdürlüğü tarafından
+görevlendirilen ve sistem sorumlusu tarafından yetkilendirilen personeli,
+j) İzleyici: Kapalı Ortamda Bitkisel Üretim Kayıt
+Sistemine kayıt ve güncelleme yapma yetkisi bulunmamakla birlikte,
+sınırları Bakanlık tarafından belirlenen ölçülerde izleme, inceleme,
+kontrol veya denetim amacıyla sistemde kayıtlı bilgi ve raporları görebilen
+kullanıcıyı,
+k) Kapalı ortamda bitkisel üretim işletmesi: Kapalı
+ortamlarda bitkisel üretime yönelik tarımsal faaliyet yapılan aynı
+üreticinin tasarrufunda bulunan üretim üniteleri ile bulunması halinde ek
+ünitelerden oluşan birimlerin tümünü,
+l) Kapalı ortamda bitkisel üretim ünitesi: Kapalı
+ortamda bitkisel üretim işletmesi içerisinde bitkinin gereksinim duyduğu
+ışık, ısı, nem, hava akışı, karbondioksit (CO2), bitki besin maddeleri gibi
+çevre koşullarının yapay yollarla kısmen ya da tamamen oluşturulup denetim
+altında tutulduğu, aynı üreticinin tasarrufunda bulunan alçak tünel, yüksek
+tünel, sera, çadır, konteyner, prefabrik yapılar ile ahşap, betonarme,
+çelik, plastik gibi yapı elemanları kullanılarak yatay veya dikey olarak
+inşa edilmiş birbirinden bağımsız kapalı üretim ortamını,
+m) KPS: İçişleri Bakanlığı Nüfus ve Vatandaşlık
+İşleri Genel Müdürlüğü tarafından sağlanan Kimlik Paylaşımı Sistemini,
+n) Sera: İklime bağlı çevre koşullarının kısmen ya
+da tamamen denetlenerek, içerisinde kültür bitkileri ile bunların tohum,
+fide ve fidanlarının üretilmesi, yetiştirilmesi, sergilenmesi ve
+korunmasına olanak sağlayan, uygun bir bitki gelişimi için ideal koşulların
+oluşturulması ve yıl boyunca üretim yapılması amaçlanan, kısmen ya da
+tamamen ışık geçirebilen bir malzeme ile kaplı, temel betonuna sabitlenmiş
+iskelet sistemi ile bağlantı elemanlarından oluşan, içinde hareket
+edilebilen yüksek sistemli ve teknolojinin kullanılabildiği kapalı ortam
+bitkisel üretim ünitelerini,
+o) Sistem: Ortam koşulları kısmen ya da tamamen kontrol
+edilebilir kapalı ortamlarda bitkisel ürün yetiştiriciliği yapan
+üreticilerin özlük ve kapalı ortamlardaki tarımsal faaliyetlerine ilişkin
+bilgilerinin merkezi bir veri tabanında kayıt altına alındığı,
+güncellenebildiği, kontrol edilebildiği, raporlanabildiği, izlenebildiği,
+Bakanlık ve diğer kurumların sistemleri ile bilgi alışverişinin
+sağlanabildiği, çeşitli sorgulamaların yapılabildiği Kapalı Ortamda
+Bitkisel Üretim Kayıt Sistemi (KOBÜKS) veri tabanını,
+ö) Sistem sorumlusu: Sistem ile ilgili ülke genelinde
+bütün işlemleri yapmak üzere Genel Müdürlük bünyesinde görevlendirilen ve
+Sistem Yöneticisi tarafından yetkilendirilen personeli,
+p) Sistem Yöneticisi: Sistemin yazılımına yönelik
+tüm iş ve işlemleri takip etmek üzere Bakanlık Bilgi Teknolojileri Genel
+Müdürü tarafından Bilgi Teknolojileri Genel Müdürlüğü personeli arasından
+yetkilendirilen personeli,
+r) Sözleşmeli üretim: 5488 sayılı Kanunun 13 üncü
+maddesine göre yapılan tarımsal üretim sözleşmesi kapsamında
+gerçekleştirilen üretim şeklini,
+s) TAKBİS: Tapu ve Kadastro Genel Müdürlüğü
+tarafından sağlanan Tapu ve Kadastro Bilgi Sistemini,
+ş) Üretici: Tasarrufunda bulunan kapalı ortamda
+bitkisel üretim işletmesinde her türlü bitkisel üretim yapan gerçek veya
+tüzel kişiyi,
+t) Üretici kayıt defteri: 3/12/2014 tarihli ve
+29194 sayılı Resmî Gazete’de yayımlanan Bitki Koruma Ürünlerinin
+Önerilmesi, Uygulanması ve Kayıt İşlemleri Hakkında Yönetmelikte tanımlanan
+defteri,
+u) Üretim dönemi: Ürünün ekiminden ve/veya
+dikiminden, hasat veya üretim amacına uygunluk dönemi sonuna kadar geçen
+süreyi,
+ü) VEDOP: Vergi Daireleri Otomasyon Projesini,
+v) Vejetasyon süresi: Her bir bitki türü için
+farklı olan ve bitkilerin normal gelişmelerini tamamlamaları için geçen
+zamanı,
+y) Veri giriş görevlisi: Bu Yönetmelik kapsamında
+yapılan başvuruları kontrol, kabul ve gerekli bilgileri sisteme kayıt etmek
+üzere il/ilçe müdürü tarafından görevlendirilen personeli,
+z) Yüksek tünel: Alçak tünellerden farklı olarak
+üretim dönemi boyunca kullanılan, profil yapı elemanlarının yarım daire
+şekline getirilerek toprağa sabitlenmesi ile oluşturulan, üzeri ışık
+geçirebilen plastik ile örtülen ve bağımsız olarak tek çatı altında bulunan
+üniteleri,
+ifade eder.
+İKİNCİ BÖLÜM
+Uygulama
+Esasları
+Görevli
+birimler
+MADDE 5- (1) Kapalı Ortamda Bitkisel Üretim Kayıt Sisteminin
+kullanılması, güncellenmesi ve geliştirilmesi ile ilgili kayıt işlemlerinin
+izlenmesi ve raporlanması uygulamaları Bakanlığın merkez ve taşra
+teşkilatı, il/ilçe tahkim komisyonları, il/ilçe keşif komisyonları ve
+il/ilçe tespit komisyonları tarafından yürütülür.
+Sisteme
+kaydolacak üreticilerden istenecek bilgi ve belgeler
+MADDE 6- (1) İlk defa sisteme kaydolmak için il/ilçe
+müdürlüklerine başvuruda bulunan üreticilerden;
+a) Ek-1’de yer alan örneğe uygun dilekçe,
+b) Ek-2’de yer alan örneğe uygun Üretici Kayıt
+Formu,
+c) Üretici Kayıt Defteri,
+ç) Çiftçi Belgesi,
+d) Mülkiyeti başvuru sahibinin kendisine ait
+olmayan alanlar için Ek-3’te yer alan Kira Sözleşmesi, köy tüzel kişiliğine
+ait araziler için Ek-3/A’da yer alan Köy Tüzel Kişiliği Arazileri Kira
+Sözleşmesi, mahalle statüsünde olan araziler için Ek-3/B’de yer alan
+Mahalle Statüsü Kazanan Köy Tüzel Kişiliği Arazileri Kira Sözleşmesi,
+e) Başvuru sahibinin de hissedarı olduğu alanlar
+için, diğer hissedarlarla düzenlenmiş Ek-3’te yer alan Kira Sözleşmesi veya
+Ek-4’te yer alan Muvafakatname,
+f) Üreticinin kullanımına verilen orman
+arazilerinin kaydı için tahsis belgesi,
+g) (d) ve (e) bentlerinde belirtilen belgelerden
+hiçbirinin ibraz edilememesi durumunda Ek-5’te yer alan örneğe uygun
+Taahhütname,
+istenir.
+(2) Sisteme kayıtlı olup üretici özlük bilgileri
+ile alan ve/veya yapısal bilgileri değişmeyen kapalı ortamda bitkisel
+üretim işletmelerinde, ürün güncellemesi yapmak için il/ilçe müdürlüklerine
+başvuruda bulunan üreticilerden;
+a) Ek-1’de yer alan örneğe uygun dilekçe,
+b) Ek-6’da yer alan örneğe uygun Ürün Güncelleme
+Formu,
+istenir.
+(3) Sisteme kayıtlı üreticilerden; özlük bilgileri,
+kapalı ortamda bitkisel üretim işletmesinin bulunduğu alan bilgileri veya yapısal
+bilgilerinden en az birinin değiştiği durumlarda, birinci fıkrada
+belirtilen bilgi ve belgeler yeniden istenir.
+(4) Başvuru sahibinden, farklı köy veya
+mahallelerdeki her bir kapalı ortamda bitkisel üretim işletmesi için ayrı
+ayrı Ek-2’de yer alan örneğe uygun Üretici Kayıt Formu istenir. Alçak
+tünellerin aynı ya da bitişik parsellerde bulunması durumunda, tamamı bir
+ünite kabul edilerek tümü için Ek-2’de yer alan örneğe uygun tek Üretici
+Kayıt Formu istenir.
+Üreticilerin
+sisteme başvuru usulü
+MADDE 7- (1) Üretim yüzey alanı toplamda en az 100 metrekare
+kapalı ortamda bitkisel üretim işletmesine sahip üreticiler, sisteme
+kayıtlarını yaptırmak veya güncellemek üzere, şahsen veya noterce
+düzenlenmiş vekâletnameyle vekilleri vasıtasıyla başvuru yaparlar. Vesayet
+altındaki kişiler vasileri aracılığı ile başvurabilirler. Vesayet altındaki
+kişiler için mahkeme kararının onaylı sureti istenir. Gerekli bilgiler vasi
+tarafından sağlanır ve dosya vesayet altındaki kişi adına açılır.
+(2) Kapalı ortamda bitkisel üretim ünitesi birden
+fazla ilçe sınırları içerisinde kalan üreticiler, sisteme kayıtlarını
+yaptırmak için, başvurularını ünitelerinin sınırları içerisinde bulunduğu
+il müdürlüklerine yaparlar.
+(3) Üreticiler, Bakanlıkça yetki verilmesi halinde
+yetki verilen iş ve işlemlerini internet ve/veya e-Devlet Kapısı üzerinden
+kendileri de yapabilirler.
+(4) Her bir kapalı ortamda bitkisel üretim ünitesi
+sadece bir üretici adına kayıt edilir.
+(5) Sisteme kayıt edilmek üzere üreticiler
+tarafından beyan edilen üretim alanı CBS’de kayıtlı üretim alanını geçemez.
+(6) Sisteme kayıt olacak üreticiler veya kanuni
+vekilleri başvuru sırasında teslim ettikleri belgelerin ve/veya e-Devlet
+Kapısı üzerinden yapılan başvurularda beyan edilen bilgilerin doğruluğundan
+sorumludurlar.
+(7) Başvuru sırasında üreticiden istenilen bilgi ve
+belgeler, il/ilçe müdürlüklerine müracaatlarda fiziki ortamda, e-Devlet
+Kapısı üzerinden yapılan müracaatlarda ise Bakanlık bilgi sistemlerinde
+muhafaza edilir.
+Sisteme
+kayıt, güncelleme ve kontrol işlemleri
+MADDE 8- (1) Sisteme ilk kayıt için başvuran üreticilerden
+istenilen bilgi ve belgeler, veri giriş görevlisi tarafından kontrol
+edilir. Herhangi bir eksiklik tespit edilmezse sisteme kayıt edilmek üzere
+teslim alınır. Başvuru belgelerinde herhangi bir eksiklik tespit edildiği
+durumlarda, eksikliğin giderilmesi için belgeler başvuru sahibine iade
+edilir.
+(2) Gerçek kişiler tarafından beyan edilen kimlik
+bilgileri KPS bilgileri ile eşleştirilir. Beyan edilen kimlik bilgileri ile
+KPS bilgileri eşleşmeyen başvuru sahibinden KPS bilgilerinin
+düzelttirilerek nüfus müdürlüğünden onaylı nüfus kayıt örneği istenir ve bu
+bilgiler esas alınır.
+(3) Tüzel kişiler tarafından beyan edilen bilgiler
+VEDOP bilgileri ile eşleştirilir. Beyan edilen bilgiler ile VEDOP bilgileri
+eşleşmeyen başvuru sahibinden, VEDOP bilgilerinin düzelttirilmesi istenir.
+Başvuru sırasında, tüzel kişiliği temsile yetkili olanlardan yetki belgesi
+istenir.
+(4) Kadastro geçmemiş, parsel yenileme çalışmaları
+devam eden, toplulaştırma kararı alınmış ve toplulaştırma çalışması
+bitirilmemiş alanlar için il/ilçe keşif komisyonu tarafından yerinde
+yapılan inceleme sonucunda Ek-7’de yer alan örneğe uygun keşif raporu
+düzenlenir.
+(5) Sisteme kaydolmak üzere başvuruda bulunan
+üreticilerden, kadastro çalışmaları tamamlanmış araziler için tapu kayıt
+beyanı istenir. Beyan edilen bilgilerin doğruluğu il/ilçe tespit
+komisyonunca yerinde tespit edilerek Ek-8’de yer alan örneğe uygun tespit
+tutanağı düzenlenir. Beyan edilen bilgilerin tespit tutanağındaki bilgilerle
+uyumlu olması halinde veri giriş görevlisi tarafından sisteme kayıt edilir.
+(6) Sisteme kayıt esnasında başvuru sahibinin tapu
+kaydı beyanı ile TAKBİS kayıtları eşleşmeyen arazilerde TAKBİS kayıtları
+esas alınır. Tescil işlemleri tamamlanmış birimlerde TAKBİS sisteminden
+erişilemeyen tapu kayıtları dikkate alınmaz. Bu tapuların TAKBİS’e kayıt
+edilmesi esastır.
+(7) Sisteme kayıtlı üreticilerin özlük bilgileri,
+kapalı ortamda bitkisel üretim işletmesinin bulunduğu alan bilgileri veya
+yapısal bilgilerinden en az birinin değiştiği durumlarda, beyan edilen
+bilgilerin doğruluğu il/ilçe tespit komisyonunca yerinde tespit edilerek
+Ek-8’de yer alan örneğe uygun tespit tutanağı düzenlenir.
+(8) Sisteme kayıtlı olup üretici özlük bilgileri
+ile alan ve/veya yapısal bilgileri değişmeyen kapalı ortamda bitkisel
+üretim işletmelerinde ürün güncellemesi için istenilen bilgi ve belgeler
+veri giriş görevlisi tarafından kontrol edilir. Herhangi bir eksiklik
+tespit edilmezse sisteme kayıt edilmek üzere teslim alınır. Başvuru belgelerinde
+herhangi bir eksiklik tespit edildiği durumlarda, eksikliğin giderilmesi
+için belgeler başvuru sahibine iade edilir.
+(9) Kayıt veya güncelleme işlemi tamamlanan
+üretici, il/ilçe müdürlüğünden ya da e-Devlet Kapısı üzerinden KOBÜKS
+Belgesi alabilir.
+(10) Hazine ve bunun gibi tahsisli olmayan araziler
+üzerinde tesis edilmiş kapalı ortamda bitkisel üretim üniteleri için
+Ek-5’te yer alan örneğe uygun taahhütname ile sisteme başvuran üreticiler
+için oluşturulan askı icmalleri, her yıl ocak ayı içerisinde beş takvim
+günü süreyle ilgili il müdürlüğünün internet sitesinde yayımlanır. İlgili
+ilçe müdürlüğü ve muhtarlıklarda askıya çıkarılmak suretiyle ilan edilir.
+Sisteme
+kayıt edilmeyecek üretici ve alanlar
+MADDE 9- (1) 6 ncı maddede belirtilen şartları sağlayamayan
+üreticiler ile 31/8/1956 tarihli ve 6831 sayılı Orman Kanunu, 25/2/1998
+tarihli ve 4342 sayılı Mera Kanunu ve 26/1/1939 tarihli ve 3573 sayılı
+Zeytinciliğin Islahı ve Yabanilerinin Aşılattırılması Hakkında Kanun
+kapsamında olan taşınmaz mallar üzerinde kurulan kapalı ortamda bitkisel
+üretim işletmeleri sisteme kayıt edilmez.
+İl/ilçe
+müdürlüklerinin görevleri
+MADDE 10-
+(1) İl/ilçe müdürlüklerinin
+görevleri şunlardır:
+a) Sorumlu oldukları il/ilçe sınırları içerisindeki
+mevcut kapalı ortamda bitkisel üretim işletmelerinin kayıt, tespit ve
+kontrol işlemlerini yürütmek.
+b) Kapalı ortamda bitkisel üretim işletmelerini
+yılda en az bir kez kontrol etmek, sonucunu raporlamak, uygulamada görülen
+aksaklık ve hatalara müdahale etmek, gerekli uyarıları yapmak.
+c) Kayıt ve güncelleme işlemleri kapsamında,
+başvuru sahipleri tarafından beyan edilen ve istenilen bilgi ve belgeleri
+teslim alarak saklamak.
+Sistem
+sorumlusunun görev ve sorumlulukları
+MADDE 11-
+(1) Sistem sorumlusunun görev ve
+sorumlulukları şunlardır:
+a) İl sistem sorumluları ve kullanıcıların görev
+alanı ve yetkilerini tanımlayarak yetkilendirmek.
+b) Sistemin uygulama ve gelişimine ilişkin
+çalışmalar yapmak.
+c) Raporlama işlemlerini yürütmek.
+ç) Ürünleri sisteme tanımlamak.
+d) Genel Müdür tarafından verilecek benzeri
+görevleri yapmak.
+Sistem
+Yöneticisinin görev ve sorumlulukları
+MADDE 12-
+(1) Sistem Yöneticisinin görev ve
+sorumlulukları şunlardır:
+a) Sistemin uygulama, işleyiş ve gelişimine ilişkin
+çalışmalar yapmak, yazılımına yönelik tüm iş ve işlemleri takip etmek.
+b) Sistem sorumlusunu tanımlamak ve yetkilendirmek.
+İl sistem
+sorumlusunun görev ve sorumlulukları
+MADDE 13-
+(1) İl sistem sorumlusunun görev
+ve sorumlulukları şunlardır:
+a) Sistemin il genelindeki uygulama ve gelişimine
+ilişkin çalışmalar yapmak.
+b) İl genelinde sistem kullanıcılarını tanımlamak
+ve yetkilendirmek.
+c) Sisteme ilişkin il genelinde raporlama
+işlemlerini yürütmek.
+ç) İlin ilçeleri bazında ürün ve bu ürünlere
+ilişkin ekim/dikim tarih aralıkları ve vejetasyon süresi ile üretim bilgilerine
+yönelik tanımlamaları yapmak.
+d) İl müdürü tarafından verilecek benzeri görevleri
+yapmak.
+Veri
+giriş görevlisinin görev ve sorumlulukları
+MADDE 14-
+(1) Veri giriş görevlisinin görev
+ve sorumlulukları şunlardır:
+a) Sistemin ilçe genelindeki uygulama ve
+geliştirilmesine ilişkin çalışmalar yapmak.
+b) Sisteme ilişkin ilçe genelinde raporlama
+işlemlerini yürütmek ve il sistem sorumlusu ile koordinasyonu sağlamak.
+c) Sistem üzerinde kapalı ortamda bitkisel üretim
+işletmelerinin bilgilerini güncelleme ve pasifleştirilmesi işlemlerini
+yapmak.
+ç) Teslim aldığı evrak bilgilerini sisteme eksiksiz
+kaydetmek.
+d) Teslim aldığı ve veri girişi yaptığı evrakın
+ilgili bölümünü ismiyle imzalamak.
+e) İl/ilçe müdürü tarafından verilecek benzeri
+görevleri yapmak.
+Coğrafi
+Bilgi Sistemleri (CBS) yetkilisinin görev ve sorumlulukları
+MADDE 15-
+(1) CBS yetkisi olan il/ilçe
+personelinin görev ve sorumlulukları şunlardır:
+a) Alçak tüneller hariç, yeni kurulan/kurulacak ve mevcut
+kapalı ortamda bitkisel üretim işletmelerini yerinde tespit etmek.
+b) Yerinde tespiti yapılan kapalı ortamda bitkisel
+üretim ünitelerini Tarım Bilgi Sisteminin (TBS) alt modülü olan CBS
+portalında ilgili katmana işlemek ve üretim dönemlerinde ürün güncellemelerini
+yapmak.
+c) İhtilaflı alanlarda faaliyet gösteren
+üreticilerin kullandıkları alanları yerinde tespit etmek.
+ç) İl/ilçe müdürü tarafından verilecek benzeri
+görevleri yapmak.
+İl/ilçe
+tespit komisyonlarının görevleri
+MADDE 16-
+(1) İl/ilçe tespit komisyonlarının
+görevleri şunlardır:
+a) Alçak tüneller hariç, yeni kurulan, kurulacak
+veya modernize edilecek kapalı ortamda bitkisel üretim işletmelerinin
+ilgili mevzuat kapsamında uygunluğunun yerinde tespiti ile üretim
+bilgilerine yönelik çalışmaları yapmak.
+b) Kullanımında sonradan ihtilaf ortaya çıkan
+kapalı ortamda bitkisel üretim üniteleri ile ilgili tespitleri yerinde
+yapmak.
+c) İl/ilçe müdürü tarafından verilecek benzeri
+görevleri yapmak.
+İl/ilçe
+keşif komisyonlarının görevleri
+MADDE 17-
+(1) İl/ilçe keşif komisyonları;
+kadastro geçmemiş, parsel yenileme çalışmaları devam eden, toplulaştırma
+kararı alınmış ve toplulaştırma çalışması bitirilmemiş alanların
+uygunluğunu yerinde kontrol eder.
+İl/ilçe
+tahkim komisyonlarının görevleri
+MADDE 18-
+(1) Sekretarya hizmetleri il/ilçe
+müdürlükleri tarafından yürütülmek üzere, Çiftçi Kayıt Sistemi
+Yönetmeliğine göre oluşturulan il/ilçe tahkim komisyonları, bu Yönetmelik
+hükümlerinin uygulanması sırasında ortaya çıkan ihtilaflı konuları çözmeye
+ve karar almaya yetkilidir.
+ÜÇÜNCÜ BÖLÜM
+Çeşitli ve Son
+Hükümler
+Yararlanma
+hakkı
+MADDE 19-
+(1) Üreticinin ve kapalı ortamda
+bitkisel üretim işletme bilgilerinin sisteme kayıtlı olması, kapalı ortamda
+bitkisel üretim faaliyetinin belirlenmesine yöneliktir. Bu kayıtlar hiçbir
+şekilde mülkiyet tespitinde esas alınmaz ve mülkiyet hakkı doğurmaz.
+Entegrasyon
+MADDE 20-
+(1) Bu Yönetmeliğin uygulamasında
+Bakanlık bünyesindeki elektronik ortamda bulunan verilerden ve ihtiyaç
+halinde diğer kurum ve kuruluşların veri tabanlarında yer alan elektronik
+verilerden yararlanılır. Bu Yönetmelik hükümlerinin uygulanması sonucunda,
+KOBÜKS veri tabanında yer alan veriler Bakanlıkça oluşturulacak diğer bilgi
+sistemlerine entegre edilebilir.
+Güvenlik
+MADDE 21-
+(1) Bu Yönetmelik kapsamındaki
+işlemleri yürütmek üzere Sistem Yöneticisi tarafından kendilerine kullanıcı
+adı ve şifresi verilenler, bunları hiçbir surette başkaları ile paylaşamaz.
+Sistem verileri paylaşılan kurum ve kuruluşlar, Bakanlıkça belirlenen usul
+ve esaslar çerçevesinde hareket etmek zorundadırlar. Bu hükme aykırı davrananlar,
+doğacak zararların tazmininden sorumludur.
+Yürürlükten
+kaldırılan yönetmelik
+MADDE 22-
+(1) 25/6/2014 tarihli ve 29041
+sayılı Resmî Gazete’de yayımlanan Örtüaltı Kayıt Sistemi Yönetmeliği
+yürürlükten kaldırılmıştır.
+İntibak
+ve geçiş süreci
+GEÇİCİ
+MADDE 1- (1) KOBÜKS yazılımı en
+geç 31/7/2025 tarihine kadar faaliyete alınır. Söz konusu yazılım faaliyete
+alınıncaya kadar başvuru ve kayıtlar mevcut Örtüaltı Kayıt Sistemi
+üzerinden yürütülür. Geçiş sürecinde yazılım tekniği açısından Örtüaltı
+Kayıt Sistemine kayıt edilemeyen ancak bu Yönetmeliğe uygun olduğu yerinde
+tespit edilen kapalı ortamda bitkisel üretim ünitesi için il/ilçe müdürlüğü
+tarafından Ek-9’da yer alan örneğe uygun Geçici Kayıt Belgesi düzenlenir.
+Geçici Kayıt Belgesi, düzenlendiği takvim yılının sonuna kadar geçerlidir.
+Düzenlenen Geçici Kayıt Belgesinin bir örneği beş iş günü içerisinde il
+müdürlüğü tarafından Genel Müdürlüğe gönderilir.
+Yürürlük
+MADDE 23-
+(1) Bu Yönetmelik yayımı tarihinde
+yürürlüğe girer.
+Yürütme
+MADDE 24-
+(1) Bu Yönetmelik hükümlerini
+Tarım ve Orman Bakanı yürütür.
+Ekleri için tıklayınız
