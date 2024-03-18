@@ -1,0 +1,3 @@
+Danışma Kurulu ve görevleri
+MADDE 12- (1) İstişari bir işlevi olan Danışma Kurulu, Rektör başkanlığında, Rektör tarafından görevlendirilen yerel ve ulusal üyeler ve Rektör yardımcılarından oluşur. Danışma Kurulu en çok dokuz üyeden oluşur. İhtiyaç duyulduğunda ilgili birimlerden Rektörün uygun göreceği öğretim üyeleri gözlemci üye olarak davet edilirler.
+(2) Danışma Kurulu; Üniversitenin araştırma inovasyon ve girişimcilik konularında önceliklerinin belirlenmesi, araştırma politikalarının geliştirilmesi ve stratejik hedefler doğrultusunda çalışmaların yürütülmesi konularında öneriler geliştirme ve fikirler oluşturma görevini yürütür. Danışma Kurulu yılda en az bir kez toplanır.
