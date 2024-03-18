@@ -1,0 +1,7 @@
+Öğretim yardımcıları
+MADDE 32 – (1) Öğretim yardımcıları; Üniversitede belirli süreler için görevlendirilen araştırma görevlileri, uzmanlar, çeviriciler ve eğitim-öğretim planlamacılarıdır. Bunlardan;
+a) Araştırma görevlileri, yükseköğretim kurumlarında yapılan araştırma, inceleme ve deneylerde yardımcı olan ve yetkili organlarca verilen ilgili diğer görevleri yapan öğretim yardımcılarıdır. Bölüm başkanlarınca belirlenen araştırma görevlileri, dekanın, enstitü ya da yüksekokul müdürünün olumlu görüşü alınarak en çok bir yıl için Rektör tarafından atanır ve Başkanın onayı ile atama işlemi tamamlanır. Bu süre sonunda görevleri kendiliğinden sona erer.
+b) Uzmanlar, Üniversitede öğretimle doğrudan veya dolaylı olarak ilgili olan, özel bilgi veya uzmanlığa ihtiyaç gösteren bir işte laboratuvarlarda, kitaplıklarda, atölyelerde ve diğer uygulama alanlarında görevlendirilen öğretim yardımcılarıdır.
+c) Çeviriciler, sözlü veya yazılı çeviri işlerinde görev yaparlar.
+ç) Eğitim-öğretim planlamacıları, eğitim-öğretimin planlamasıyla görevli öğretim yardımcılarıdır.
+(2) Uzmanlar, çeviriciler ve planlamacılar ilgili yönetim kurullarının görüşü alınarak fakülte ve bağlı birimlerinde dekanın, Rektörlüğe bağlı enstitü veya yüksekokullarda müdürün, Rektörlüğe bağlı bölümlerde bölüm başkanının önerisi üzerine Rektör tarafından en çok iki yıl için atanır ve Başkanın onayı ile atama işlemi tamamlanmış olur. Bu süre sonunda görevleri kendiliğinden sona erer. Bunlar aynı usulle yeniden atanabilir.

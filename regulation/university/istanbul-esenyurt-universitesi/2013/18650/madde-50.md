@@ -1,0 +1,6 @@
+Gözetim-denetim ve değerlendirme
+MADDE 50 – (1) Üniversite Yükseköğretim Kurulunun gözetim ve denetimi altındadır. Ayrıca;
+a) Üniversitenin eğitim, öğretim ve araştırma faaliyetleri ile idari hizmetlerinin değerlendirilmesi, hizmet kalitesinin geliştirilmesi, bağımsız dış değerlendirme süreciyle kalite düzeylerinin onaylanması ve tanınması amacı ile 20/9/2005 tarihli ve 25942 sayılı Resmî Gazete’de yayımlanan Yükseköğretim Kurumlarında Akademik Değerlendirme ve Kalite Geliştirme Yönetmeliği kapsamında iç değerlendirme, dış değerlendirme, süreli yayın gözden geçirme ve kamuoyunu aydınlatma çalışmaları yapılır.
+b) Üniversite, her ders yılı sonunda Yükseköğretim Kuruluna yıllık faaliyet raporunu sunar.
+c) Üniversite, Mütevelli Heyet tarafından onaylanan ayrıntılı bütçenin bir örneği ile bütçenin uygulanmasına ilişkin esaslar ve harcamalara ilişkin yetkileri gösteren Mütevelli Heyet kararlarını denetlenmek üzere Yükseköğretim Kuruluna gönderir. Mali yılsonunda yeminli mali müşavirce usulüne uygun olarak incelenerek onaylanan harcamalar da en geç müteakip yılın Mart ayı sonuna kadar Yükseköğretim Kuruluna gönderilir.
+ç) Üniversiteye ait taşınmaz mallar Üniversite adına tapuya tescil edilir, her türlü araç, gereç ve demirbaşlar noter tasdikli ayniyat defterine kaydedilir ve kayıtlar usulüne uygun olarak muhafaza edilir.

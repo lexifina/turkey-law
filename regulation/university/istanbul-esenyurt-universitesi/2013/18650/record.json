@@ -1,0 +1,31 @@
+{
+  "act_path": "regulation/university/istanbul-esenyurt-universitesi/2013/18650",
+  "availability": "text",
+  "checked_on": "2026-11-14",
+  "commencement_clauses": [
+    "MADDE 56 – (1) Bu Yönetmelik yayımı tarihinde yürürlüğe girer."
+  ],
+  "date_quote": "RG-18/3/2024",
+  "first_law": null,
+  "gazette": "28721",
+  "history": "current-text",
+  "images": {
+    "deferred": 0,
+    "omitted": 0,
+    "referenced": 0,
+    "source": 0
+  },
+  "in_force": "2024-03-18",
+  "in_force_basis": "latest source-printed amendment Gazette date; current consolidated text",
+  "issuer": "İstanbul Esenyurt Üniversitesi",
+  "issuer_slug": "istanbul-esenyurt-universitesi",
+  "kind": "regulation",
+  "published": "2013-07-28",
+  "source": "https://www.mevzuat.gov.tr/anasayfa/MevzuatFihristDetayIframe?MevzuatTur=8&MevzuatNo=18650&MevzuatTertip=5",
+  "source_id": "8.5.18650",
+  "source_sha256": "d6510e67017f53efbdf9e30d7ef9ad6d330e13bb092840cebf14db5736de28eb",
+  "title": "İSTANBUL ESENYURT ÜNİVERSİTESİ ANA YÖNETMELİĞİ",
+  "university_id": 438,
+  "version_label": "oldest version available",
+  "word_count": 4927
+}
