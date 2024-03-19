@@ -1,0 +1,17 @@
+{
+  "kind": "decision",
+  "issuer": "Sayıştay 1. Dairesi",
+  "number": "10930",
+  "decision_date": "2024-03-19",
+  "source_id": 38651,
+  "chamber": "1",
+  "ilam_number": "74",
+  "item_number": 11,
+  "public_body_type": "Belediyeler ve Bağlı İdareler",
+  "account_year": 2022,
+  "subject": "Personel Mevzuatı ile İlgili Kararlar",
+  "source": "https://www.sayistay.gov.tr/KararlarDaire/Detay/38651/",
+  "source_sha256": "90b2b57da6a8695eff57f62afe7b4a9ceb8acfc672cb68a03df33f58453a8224",
+  "text_status": "as-enacted",
+  "text_file": "metin.md"
+}
