@@ -1,0 +1,20 @@
+{
+  "applicant": "B.D. VE K.D.",
+  "application_date": "2019-07-03",
+  "application_number": "2019/23676",
+  "deciding_unit": "İkinci Bölüm",
+  "decision_date": "2024-03-19",
+  "id": "bc4bc9cb-a742-b57a-745a-631d340b2ee0",
+  "in_force": "2024-03-19",
+  "in_force_basis": "official decision date",
+  "kind": "constitutional-court-individual-application",
+  "omitted_images": 0,
+  "outcome": "Esas (İhlal)",
+  "published": null,
+  "referenced_images": 0,
+  "source": "https://kararlarbilgibankasi.anayasa.gov.tr/kbb/pages/search/Tumu?id=a2JiOmJjNGJjOWNiLWE3NDItYjU3YS03NDVhLTYzMWQzNDBiMmVlMA&type=BireyselBasvuru",
+  "source_api": "https://kararlarbilgibankasi.anayasa.gov.tr/api/core/public/search",
+  "source_images": 0,
+  "source_sha256": "1f6b14e462728e9b7aa73f781b5577b73fd6d7f34f41f017c0faf388cea35f31",
+  "version_label": "as-enacted"
+}
