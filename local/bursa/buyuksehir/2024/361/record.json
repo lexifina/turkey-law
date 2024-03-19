@@ -1,0 +1,18 @@
+{
+  "issuer": "Bursa Büyükşehir Belediye Meclisi",
+  "number": "361",
+  "decision_date": "2024-03-19",
+  "version_label": "as-enacted",
+  "source_url": "https://www.bursa.bel.tr/storage/medya/meclis_karar_yeni/2024-361.pdf",
+  "source_sha256": "1710f3645bc52727f0600633b96b12b70253d782a0669a0a8e2b7818e32fd197",
+  "normative_images": 0,
+  "source_image_inventory": [
+    {
+      "page": 1,
+      "source_images": 2,
+      "decorative_logos": 2,
+      "normative_images": 0
+    }
+  ],
+  "annex_status": "Only the decision PDF linked by the official register is held; referenced supporting plans or annexes not separately linked are not included."
+}
