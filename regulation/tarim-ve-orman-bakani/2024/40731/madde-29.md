@@ -1,0 +1,2 @@
+Yetki belgelerinin kaybolması veya tahrip olması
+MADDE 29- (1) Bitki Koruma Ürünleri Deneme Yetki Belgesinin veya Bitki Koruma Ürünü Deneme Uzmanı Kimlik Kartının herhangi bir nedenle kaybolması veya okunmayacak ve yanlış anlamalara neden olacak şekilde tahrip olması halinde, yeniden belge alınması gerekir. Bu durumda gerekli açıklama yapılarak, eski tarih ve sayısı ile belgeler yeniden düzenlenir.

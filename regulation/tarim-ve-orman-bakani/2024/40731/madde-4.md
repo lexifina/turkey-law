@@ -1,0 +1,22 @@
+Tanımlar
+MADDE 4- (1) Bu Yönetmelikte geçen;
+a) Araştırma enstitüsü: Zirai mücadele araştırma enstitüsü müdürlükleri veya yasal olarak bunlara benzer görevleri yapan diğer araştırma enstitüsü müdürlüklerini,
+b) Bakanlık: Tarım ve Orman Bakanlığını,
+c) Başlangıç toksisitesi: Ülkemizde ilk kez ruhsatlandırılacak yeni aktif madde içeren bitki koruma ürünleri ile ilgili direnç riski yüksek olan zararlı organizma popülasyonlarında yapılan öldürücü doz (LC50, LC90, LD50, LD90 veya EC50, EC90 değerleri) belirlemeye yönelik çalışmayı,
+ç) Bitki: Her türlü bitkilerle bunların tohum, fide, fidan, çelik, aşı kalemi, aşı gözü, yumru, kök, soğan, meyve, çiçek, yaprak, doku ve diğer parçalarını,
+d) Bitki koruma ürünü: Kullanıcıya farklı formlarda sunulan, bitki ve bitkisel ürünleri zararlı organizmalara karşı koruyan veya bu organizmaların etkilerini önleyen, bitki besleme amaçlı olanlar dışında bitki gelişimini etkileyen, koruyuculara ilişkin özel bir düzenleme kapsamında bulunmayan ancak bitkisel ürünleri koruyucu olarak kullanılan, bitki ve bitki kısımlarının istenmeyen gelişmelerini kontrol eden veya önleyen, istenmeyen bitkileri yok eden, bir veya daha fazla aktif maddeyi veya aktif madde, sinerji yaratan veya güvenilirliği artıran maddeler gibi bileşenleri içeren preparatları,
+e) Bitki koruma ürünü deneme uzmanı: Bu Yönetmelik hükümlerine göre gerekli şartları sağlayarak Bitki Koruma Ürünü Deneme Uzmanı Kimlik Kartı almış olan kişiyi,
+f) Bitkisel ürün: Taze meyve, sebze ve tohumlar da dâhil, canlı bitkiler ve bitkilerin canlı kısımları hariç olmak üzere, bitkilerin işlenmemiş halleri veya bitkilerden öğütme, kurutma, presleme gibi sadece basit işlemlerle hazırlanarak elde edilen ürünleri,
+g) Çevre: Su, hava, toprak, yabani fauna ve flora ile bunların birbirleriyle ve canlı organizmalarla ilişkilerini,
+ğ) Deneme: Bitki koruma ürünlerinin biyolojik etkinlik, kalıntı, başlangıç toksisitesi, direnç ve yan etkileri ile toksikolojik ve ekotoksikolojik etkilerini görmek amacıyla belirli metotlara göre yapılan çalışmaları,
+h) Ekotoksikolog: Ekotoksikoloji konusunda yüksek lisans veya doktora yapmış kişileri,
+ı) Formülasyon veya preparat: Aktif madde ile birlikte inaktif yardımcı ve dolgu maddelerinin ilavesiyle uygulanabilir hale getirilmiş karışımı,
+i) Genel müdürlük: Gıda ve Kontrol Genel Müdürlüğünü,
+j) İl müdürlüğü: İl Tarım ve Orman müdürlüklerini,
+k) İlçe müdürlüğü: İlçe Tarım ve Orman müdürlüklerini,
+l) Kuruluş: Bitki koruma ürünlerinin ruhsata esas denemelerini yapmak üzere Bakanlıkça yetkilendirilmiş araştırma enstitüleri ile üniversiteleri,
+m) Sorumlu yönetici: Yapılacak denemelerle ilgili tüm organizasyondan sorumlu kişiyi,
+n) Toksikolog: Toksikoloji konusunda yüksek lisans veya doktora yapmış kişileri,
+o) Tüzel kişi: Bitki koruma ürünlerinin onayına esas denemelerini yapmak üzere Bakanlıkça yetkilendirilmiş firmaları,
+ö) Zararlı organizma: Bitki veya bitkisel ürünlere zarar veren bitki, hayvan veya patojenik ajanların tür, streyn veya biyotiplerini,
+ifade eder.

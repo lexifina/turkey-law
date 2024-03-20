@@ -1,0 +1,2 @@
+Başvurunun değerlendirilmesi
+MADDE 12- (1) Bitki Koruma Ürünleri Deneme Yetki Belgesi almak isteyen tüzel kişi veya kuruluşlar tarafından 11 inci maddeye göre yapılan başvurular Genel Müdürlükçe incelenir. Bu Yönetmelik hükümlerine göre uygun bulunan başvuru sahibi tüzel kişi veya kuruluşlara beş yıl süre ile geçerli olmak üzere EK-5’te yer alan Bitki Koruma Ürünleri Deneme Yetki Belgesi düzenlenir.
