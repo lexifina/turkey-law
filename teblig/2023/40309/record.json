@@ -1,0 +1,41 @@
+{
+  "source_id": "9.5.40309",
+  "kind": "communique",
+  "register_kind": "Tebliğler",
+  "title": "2023-2024 EĞİTİM ÖĞRETİM YILINDA ORGANİZE SANAYİ BÖLGELERİ İÇİNDE VE ORGANİZE SANAYİ BÖLGELERİ DIŞINDA AÇILAN ÖZEL MESLEKÎ VE TEKNİK ANADOLU LİSELERİNDE ÖĞRENİM GÖREN/GÖRECEK ÖĞRENCİLER İÇİN EĞİTİM VE ÖĞRETİM DESTEĞİ VERİLMESİNE İLİŞKİN TEBLİĞ",
+  "number": "40309",
+  "path": "teblig/2023/40309",
+  "source": "https://www.mevzuat.gov.tr/anasayfa/MevzuatFihristDetayIframe?MevzuatTur=9&MevzuatNo=40309&MevzuatTertip=5",
+  "source_sha256": "fd5630c20e8dfff4f5b1889a63835f9122a96ffc6e0c7b97a5c25aa286d91f2c",
+  "source_bytes": 67199,
+  "published": "2023-09-02",
+  "gazette": "32297",
+  "in_force": "2024-03-20",
+  "in_force_basis": "latest Resmî Gazete date printed in the source amendment notes/table (\"RG-20/3/2024\") for the current consolidated text",
+  "date_evidence": [
+    [
+      "2024-03-20",
+      "RG-20/3/2024",
+      "Resmî Gazete date printed in the source amendment note"
+    ],
+    [
+      "2024-03-20",
+      "20/3/2024",
+      "Resmî Gazete date in the source amendment table"
+    ]
+  ],
+  "commencement_clauses": [
+    "bu Tebliğ, 2023-2024 eğitim öğretim yılı için geçerli olmak üzere yayımı tarihinde yürürlüğe girer"
+  ],
+  "history": "current-text",
+  "label": "oldest version available",
+  "checked_on": "2026-11-15",
+  "word_count": 1048,
+  "text_status": "current-consolidated",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  },
+  "completeness": "html-text-complete"
+}
