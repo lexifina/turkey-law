@@ -1,0 +1,16 @@
+{
+  "kind": "decision",
+  "issuer": "Sayıştay Temyiz Kurulu",
+  "number": "56588",
+  "decision_date": "2024-03-20",
+  "source_id": 28599,
+  "chamber": "3",
+  "file_number": "47250",
+  "public_body_type": "Belediyeler ve Bağlı İdareler",
+  "account_year": "2018",
+  "subject": "Vergi Resmi Harç ve Diğer Gelirlerle İlgili Kararlar",
+  "source": "https://www.sayistay.gov.tr/KararlarTemyiz/Detay/28599/",
+  "source_sha256": "73b8dc14158cb97de850e776b6e75a82bc5507c20626b60a14e49b7058565e42",
+  "text_status": "as-enacted",
+  "text_file": "metin.md"
+}
