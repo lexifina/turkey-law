@@ -1,0 +1,26 @@
+{
+  "kind": "norm",
+  "issuer": "Enerji Piyasası Düzenleme Kurumu",
+  "market": "natural-gas",
+  "document_type": "board-decision",
+  "number": "12521",
+  "decision_date": "2024-03-21",
+  "title": "BOTAŞ Tuz Gölü Doğal Gaz Yer Altı Depolama Tesisi ile BOTAŞ Silivri Yer Altı Doğal Gaz Depolama Tesisinin 2024-2025 Tarife Uygulama Dönemine İlişkin Yöntem Bildirimi",
+  "resmi_gazete_date": "2024-03-23",
+  "resmi_gazete_number": "32498",
+  "categories": [
+    "Depolama"
+  ],
+  "source": "https://www.epdk.gov.tr/Detay/DownloadDocument?id=R0Xxk7d0Lbc=",
+  "documents": [
+    "https://www.epdk.gov.tr/Detay/DownloadDocument?id=R0Xxk7d0Lbc=",
+    "https://www.epdk.gov.tr/Detay/DownloadDocument?id=5QXs7Xikkzg="
+  ],
+  "source_sha256": "87d995670240d619964f50aa38c7321c05606f5b6a3964311457620494403f3d",
+  "official_list": "https://www.epdk.gov.tr/Detay/Icerik/3-0-19/kurul-kararlari",
+  "official_list_leaf": 7229,
+  "text_status": "as-enacted",
+  "text_file": "metin.md",
+  "in_force": "2024-03-21",
+  "law_text_complete": true
+}
