@@ -1,0 +1,2 @@
+Amaç ve kapsam
+MADDE 1- (1) Bu Tebliğin amacı, Mısır Arap Cumhuriyeti menşeli/çıkışlı 54.07 gümrük tarife pozisyonu altında sınıflandırılan ve Ek 1’de gümrük tarife istatistik pozisyonları belirtilen “sentetik filament iplikten dokunmuş mensucat (giyim için olanlar)” ithalatına yönelik önlemlerin etkisiz kılınmasına karşı soruşturma açılması ve açılan soruşturmanın usul ve esaslarının belirlenmesidir.
