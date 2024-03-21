@@ -1,0 +1,69 @@
+{
+  "kind": "norm",
+  "issuer": "Sermaye Piyasası Kurulu",
+  "document_type": "principle-decision",
+  "number": "273",
+  "decision_number": "17/452",
+  "date": "2024-03-21",
+  "title": "Kurul Karar Organı’nın i-SPK 39.4 (21/03/2024 Tarih ve 17/452 S.K.) Sayılı İlke Kararı",
+  "source": "https://mevzuat.spk.gov.tr/api/IlkeKarari/File/273",
+  "source_sha256": "51dff62e1ecfa21f0a9542816b4c1a30c0e9983b2e53e7a1330b1096b288c06b",
+  "source_listing_url": "https://mevzuat.spk.gov.tr/api/Search/All",
+  "source_record_id": 273,
+  "text_status": "as-enacted",
+  "text_file": "metin.md",
+  "date_basis": "official principle-decision date printed in the source PDF and official API: 1. Kurul Karar Organı’nın i-SPK 39.4 (21/03/2024 tarih ve 17/452 s.k.) sayılı İlke Kararı:",
+  "operative_date_review": {
+    "date_type": "decision-date",
+    "decision_date": "2024-03-21",
+    "source_clauses": [
+      "1. Kurul Karar Organı’nın i-SPK 39.4 (21/03/2024 tarih ve 17/452 s.k.) sayılı İlke Kararı:"
+    ],
+    "deferred_start": "none stated in source text; no source date later than the decision"
+  },
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0,
+    "decorative_or_non_normative": 0
+  },
+  "official_listing_record": {
+    "id": "cdb8f2d1-74fd-49f9-87a8-238847ece002",
+    "contentSource": "IlkeKarari",
+    "contentID": 273,
+    "tur": "İlke Kararı",
+    "title": "Kurul Karar Organı’nın i-SPK 39.4 (21/03/2024 Tarih ve 17/452 S.K.) Sayılı İlke Kararı",
+    "no": "",
+    "sayi": "",
+    "resmiGazeteTarihi": null,
+    "resmiGazeteTarih": null,
+    "resmiGazeteSayi": null,
+    "resmiGazeteMukerrer": null,
+    "kurulKararTarihi": "2024-03-21T00:00:00",
+    "kurulKararTarih": "21.03.2024",
+    "kurulToplantiNo": "17/452",
+    "bultenYili": 2024,
+    "bultenNo": 16,
+    "kisimID": null,
+    "bolumID": null,
+    "kisim": "VIII. KISIM - Sermaye Piyasası Kurulu İlke Kararları",
+    "bolum": "İlke Kararları",
+    "baglantiliTebliglerStr": null,
+    "baglantiliTebligler": null,
+    "ilgiliKonularStr": "1:Yatırım Kuruluşları;122:Aracı Kurum Faaliyet İzni",
+    "ilgiliKonular": [
+      {
+        "key": 1,
+        "value": "Yatırım Kuruluşları"
+      },
+      {
+        "key": 122,
+        "value": "Aracı Kurum Faaliyet İzni"
+      }
+    ],
+    "countItems": 0,
+    "intro": "",
+    "link": "IlkeKarari/Dosya/273",
+    "linkTarget": "_blank"
+  }
+}
