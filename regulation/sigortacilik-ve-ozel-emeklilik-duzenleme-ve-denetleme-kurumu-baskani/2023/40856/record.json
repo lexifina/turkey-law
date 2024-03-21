@@ -1,0 +1,43 @@
+{
+  "source_id": "7.5.40856",
+  "kind": "regulation",
+  "register_kind": "Kurum ve Kuruluş Yönetmelikleri",
+  "title": "BİREYSEL EMEKLİLİK SİSTEMİNDE KISMEN ÖDEME HAKKINDA YÖNETMELİK",
+  "number": "40856",
+  "issuer": "Sigortacılık ve Özel Emeklilik Düzenleme ve Denetleme Kurumu Başkanı",
+  "issuer_slug": "sigortacilik-ve-ozel-emeklilik-duzenleme-ve-denetleme-kurumu-baskani",
+  "path": "regulation/sigortacilik-ve-ozel-emeklilik-duzenleme-ve-denetleme-kurumu-baskani/2023/40856",
+  "source": "https://www.mevzuat.gov.tr/anasayfa/MevzuatFihristDetayIframe?MevzuatTur=7&MevzuatNo=40856&MevzuatTertip=5",
+  "source_sha256": "cc59f0c794d3607daf5b277700335d0814be52d2cf8983b25756cdf8dc34175d",
+  "source_bytes": 38534,
+  "published": "2023-09-26",
+  "gazette": "32321",
+  "in_force": "2024-03-21",
+  "in_force_basis": "latest Resmî Gazete date printed in the source amendment notes/table (\"RG-21/3/2024\") for the current consolidated text",
+  "date_evidence": [
+    [
+      "2024-03-21",
+      "RG-21/3/2024",
+      "Resmî Gazete date printed in the source amendment note"
+    ],
+    [
+      "2024-03-21",
+      "21/03/2024",
+      "Resmî Gazete date in the source amendment table"
+    ]
+  ],
+  "commencement_clauses": [
+    "Bu Yönetmelik 1/7/2024 tarihinde yürürlüğe girer"
+  ],
+  "history": "current-text",
+  "label": "oldest version available",
+  "checked_on": "2026-11-15",
+  "word_count": 1788,
+  "text_status": "current-consolidated",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  },
+  "completeness": "html-text-complete"
+}

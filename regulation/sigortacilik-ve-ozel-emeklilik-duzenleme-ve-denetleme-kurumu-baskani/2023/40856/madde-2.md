@@ -1,0 +1,2 @@
+Kapsam
+MADDE 2- (1) Bu Yönetmelik, bireysel emeklilik sistemindeki katılımcıların kısmen ödeme hakkını kullanmak üzere yapacakları başvuruyu, başvurunun değerlendirilmesini, kısmen ödeme alınabilecek halleri, kısmen ödeme ile ödenecek Devlet katkısının hesaplanmasını ve ödenmesini, uygulanacak yaptırımları, emeklilik gözetim merkezi ve emeklilik şirketlerinin kısmen ödeme sürecindeki görev ve sorumluluklarını ve kısmen ödemeyle ilgili diğer hususları kapsar.
