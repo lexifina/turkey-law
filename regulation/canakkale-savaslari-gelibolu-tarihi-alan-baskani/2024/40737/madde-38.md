@@ -1,0 +1,5 @@
+Performans değerlendirmesi
+MADDE 38- (1) Sözleşme süresi içinde her meslek grubu açısından Başkanlıkça belirlenen iş yönetimi, yetkinlik ve hedef bazlı performans kriterleri kapsamında personelin görevini etkin yürütüp yürütmediği, yaratıcılığı, girişimciliği, çalışma disiplini, gayret ve başarısı, göreve ilişkin ve görevle bağlantılı kişisel nitelikleri ve benzeri; aralık ve haziran aylarının sonu itibarıyla personel değerlendirme formu ile Başkanlıkça belirlenen personelin bağlı olduğu sıralı amirlerince belirlenir ve personele bildirilir.
+(2) Personel ve Destek Hizmetleri Grup Başkanlığınca performans değerlendirme sonuçları takip edilerek gerekli görülen alanların geliştirilmesine ilişkin çalışmalar yürütülür.
+(3) Değerlendirme kıstasları Başkanlıkça belirlenir.
+(4) Değerlendirme sonucunda personelin performans başarı puanının 70’in altında kalması halinde değerlendirmenin kesinleşmesi için Başkanın onayının alınması zorunludur. Bir yıl içinde başarı puanı 70’in altında kalan personel uyarılır. Aynı yıl içinde ikinci kez başarı puanı 70’in altında kalan veya iki performans dönemi üst üste 70’in altında kalan personelin işine son verilir.

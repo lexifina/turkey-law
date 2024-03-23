@@ -1,0 +1,3 @@
+Tarafsızlık ve Devlete bağlılık
+MADDE 22- (1) Personel herhangi bir siyasi parti, kişi veya zümrenin yararını veya zararını hedef tutan bir davranışta bulunamaz; görevini yerine getirirken dil, ırk, cinsiyet, siyasi düşünce, felsefi inanç, din ve mezhep gibi ayrım yapamaz; hiçbir şekilde siyasi ve ideolojik amaçlı beyanda ve eylemde bulunamaz ve bu eylemlere katılamaz.
+(2) Personel, her durumda Devletin menfaatlerini korumak mecburiyetindedir. Türkiye Cumhuriyeti Anayasasına ve kanunlarına aykırı olan, Ülkenin bağımsızlığını ve bütünlüğünü bozan, Türkiye Cumhuriyetinin güvenliğini tehlikeye düşüren herhangi bir faaliyette bulunamaz. Aynı nitelikte faaliyet gösteren herhangi bir harekete, gruplaşmaya, teşekküle veya derneğe katılamaz ve bunlara yardım edemez.
