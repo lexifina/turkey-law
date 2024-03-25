@@ -1,0 +1,21 @@
+{
+  "record_type": "parliament-written-question",
+  "term": 28,
+  "legislative_year": 2,
+  "esas_no": "7/10979",
+  "submitted": "2024-03-25",
+  "submitted_as": "Başkanlığa geliş tarihi",
+  "mp": "Mehmet Zeki İRMEZ",
+  "province": "Şırnak",
+  "summary": "Şırnak'ın Cizre ilçesindeki nevruz kutlamaları sırasında bazı çocukların polis tarafından kötü muameleye maruz kaldığı iddiasına ilişkin",
+  "status": "Süresi Geçtikten Sonra Cevaplandı",
+  "status_as_of": "2026-11-16",
+  "official_record": "https://www.tbmm.gov.tr/Denetim/Yazili-Soru-Onergesi-Detay/d920068d-53b2-4a4d-9948-018e7989204c",
+  "source": "https://tbmm.gov.tr/Denetim/YaziliSoruOnergesiTable",
+  "source_form": "https://tbmm.gov.tr/Denetim/Yazili-Soru-Onergeleri",
+  "source_sha256": "88bd48b993fecb243bc572b76b53e1766908e0f924a24a09acf916ae41f8184c",
+  "in_force": "2024-03-25",
+  "in_force_basis": "Date the question reached the Speaker (Başkanlığa geliş tarihi) in the official TBMM written-question record; parliamentary oversight record, not law",
+  "history_type": "metadata",
+  "text_status": "metadata-only: question text, addressee and answers are in the linked official record (PDFs on cdn.tbmm.gov.tr); not transcribed here"
+}
