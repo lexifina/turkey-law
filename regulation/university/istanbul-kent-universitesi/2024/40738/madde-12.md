@@ -1,0 +1,4 @@
+Danışma Kurulu ve görevleri
+MADDE 12- (1) Danışma Kurulu; Müdür ve Merkezin faaliyet alanları ile ilgili çalışmaları bulunan Üniversite içinden ve dışından Müdürün önerisi üzerine Rektör tarafından görevlendirilen en fazla beş kişiden oluşur.
+(2) Danışma Kurulu, her yıl olağan olarak kasım ayı içinde, Müdürün daveti üzerine toplanır. Gerektiğinde Müdürün daveti üzerine önceden ilan edilen gündeme bağlı olarak olağanüstü toplanabilir. Danışma Kurulu, üye tam sayısının salt çoğunluğu ile toplanır ve kararlar toplantıya katılanların oy çokluğu ile alınır. Oylar kabul veya ret şeklinde verilir. Oyların eşitliği durumunda Müdürün kullandığı oy yönünde çoğunluk sağlanmış sayılır.
+(3) Danışma Kurulunun görevleri, Merkezin faaliyet alanına giren konularda görüş bildirmek, Yönetim Kuruluna ulusal ve uluslararası etkinlikler ile ilgili tavsiyelerde bulunmaktır.
