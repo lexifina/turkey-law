@@ -1,0 +1,21 @@
+{
+  "record_type": "parliament-written-question",
+  "term": 28,
+  "legislative_year": 2,
+  "esas_no": "7/10852",
+  "submitted": "2024-03-25",
+  "submitted_as": "Başkanlığa geliş tarihi",
+  "mp": "Ayşegül DOĞAN",
+  "province": "Şırnak",
+  "summary": "Şırnak'ın Cizre ilçesindeki nevruz kutlamaları sırasında bazı vatandaşların polis tarafından kötü muameleye maruz kaldığı iddiasına ilişkin",
+  "status": "Süresi Geçtikten Sonra Cevaplandı",
+  "status_as_of": "2026-11-16",
+  "official_record": "https://www.tbmm.gov.tr/Denetim/Yazili-Soru-Onergesi-Detay/04a6e198-b5ff-4ae3-962a-018e7a784958",
+  "source": "https://tbmm.gov.tr/Denetim/YaziliSoruOnergesiTable",
+  "source_form": "https://tbmm.gov.tr/Denetim/Yazili-Soru-Onergeleri",
+  "source_sha256": "23dbf0dc514899e193aec9076445414cf96df750ebb6158c75f5344cf0cb1949",
+  "in_force": "2024-03-25",
+  "in_force_basis": "Date the question reached the Speaker (Başkanlığa geliş tarihi) in the official TBMM written-question record; parliamentary oversight record, not law",
+  "history_type": "metadata",
+  "text_status": "metadata-only: question text, addressee and answers are in the linked official record (PDFs on cdn.tbmm.gov.tr); not transcribed here"
+}
