@@ -1,0 +1,17 @@
+{
+  "kind": "decision",
+  "issuer": "Sayıştay 4. Dairesi",
+  "number": "324",
+  "decision_date": "2024-03-26",
+  "source_id": 38581,
+  "chamber": "4",
+  "ilam_number": "392",
+  "item_number": 1,
+  "public_body_type": "Diğer Özel Bütçeli İdareler",
+  "account_year": 2017,
+  "subject": "İhale Mevzuatı ile İlgili Kararlar",
+  "source": "https://www.sayistay.gov.tr/KararlarDaire/Detay/38581/",
+  "source_sha256": "a5b7477afd78bb80ef150e437593ae059b3f115f535ac1d2066865ef9b8b9677",
+  "text_status": "as-enacted",
+  "text_file": "metin.md"
+}
