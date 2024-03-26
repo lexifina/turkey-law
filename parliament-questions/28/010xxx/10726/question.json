@@ -1,0 +1,21 @@
+{
+  "record_type": "parliament-written-question",
+  "term": 28,
+  "legislative_year": 2,
+  "esas_no": "7/10726",
+  "submitted": "2024-03-26",
+  "submitted_as": "Başkanlığa geliş tarihi",
+  "mp": "Aykut KAYA",
+  "province": "Antalya",
+  "summary": "Stajyer avukatların sosyal ve ekonomik güvencelerine ilişkin",
+  "status": "Süresi Geçtikten Sonra Cevaplandı",
+  "status_as_of": "2026-11-16",
+  "official_record": "https://www.tbmm.gov.tr/Denetim/Yazili-Soru-Onergesi-Detay/23b8528d-31fd-4bdc-a98f-018e7ebe7e67",
+  "source": "https://tbmm.gov.tr/Denetim/YaziliSoruOnergesiTable",
+  "source_form": "https://tbmm.gov.tr/Denetim/Yazili-Soru-Onergeleri",
+  "source_sha256": "dc8790778eeadef9c7c866fe47c91f2def5798091ccc16a8725ef21c4bcea2b6",
+  "in_force": "2024-03-26",
+  "in_force_basis": "Date the question reached the Speaker (Başkanlığa geliş tarihi) in the official TBMM written-question record; parliamentary oversight record, not law",
+  "history_type": "metadata",
+  "text_status": "metadata-only: question text, addressee and answers are in the linked official record (PDFs on cdn.tbmm.gov.tr); not transcribed here"
+}
