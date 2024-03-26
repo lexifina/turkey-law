@@ -1,0 +1,21 @@
+{
+  "record_type": "parliament-written-question",
+  "term": 28,
+  "legislative_year": 2,
+  "esas_no": "7/10850",
+  "submitted": "2024-03-26",
+  "submitted_as": "Başkanlığa geliş tarihi",
+  "mp": "Turhan ÇÖMEZ",
+  "province": "Balıkesir",
+  "summary": "Bir şirkete bir kamu bankasından yüksek miktarda kredi verildiği iddiasına ilişkin",
+  "status": "Süresi Geçtikten Sonra Cevaplandı",
+  "status_as_of": "2026-11-16",
+  "official_record": "https://www.tbmm.gov.tr/Denetim/Yazili-Soru-Onergesi-Detay/af55175b-8bd1-47eb-811c-018e7ead60ab",
+  "source": "https://tbmm.gov.tr/Denetim/YaziliSoruOnergesiTable",
+  "source_form": "https://tbmm.gov.tr/Denetim/Yazili-Soru-Onergeleri",
+  "source_sha256": "23dbf0dc514899e193aec9076445414cf96df750ebb6158c75f5344cf0cb1949",
+  "in_force": "2024-03-26",
+  "in_force_basis": "Date the question reached the Speaker (Başkanlığa geliş tarihi) in the official TBMM written-question record; parliamentary oversight record, not law",
+  "history_type": "metadata",
+  "text_status": "metadata-only: question text, addressee and answers are in the linked official record (PDFs on cdn.tbmm.gov.tr); not transcribed here"
+}
