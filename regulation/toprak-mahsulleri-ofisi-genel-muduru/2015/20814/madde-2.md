@@ -1,0 +1,2 @@
+Dayanak
+MADDE 2 – (1) Bu Yönetmelik, 22/1/1990 tarihli ve 399 sayılı Kamu İktisadi Teşebbüsleri Personel Rejiminin Düzenlenmesi ve 233 Sayılı Kanun Hükmünde Kararnamenin Bazı Maddelerinin Yürürlükten Kaldırılmasına Dair Kanun Hükmünde Kararname ile 13/9/1990 tarihli ve 90/915 sayılı Bakanlar Kurulu Kararı ile yürürlüğe konulan Kamu İktisadi Teşebbüsleri Sözleşmeli Personel Sicil ve Başarı Değerlemesi Hakkında Yönetmelik hükümlerine dayanılarak hazırlanmıştır.
