@@ -1,0 +1,3 @@
+Piyasada bulundurma yasağının ihlali
+MADDE 23- (1) Kurum tarafından piyasaya arzı ve bulundurulması yasaklanan cihazların piyasaya arz edildiği, piyasada bulundurulduğunun veya kullanıldığının tespiti halinde, Kurul tarafından sorumlular hakkında, 5809 sayılı Kanunun 63 üncü maddesinin yedinci fıkrası uygulanır ve suç duyurusunda bulunulur.
+(2) İktisadi işletmeci, piyasaya arzı yasaklanan cihazların kendisi tarafından piyasaya arz edilmediğini, piyasada bulundurulmadığını ve piyasada bulundurma yasağı hakkında dağıtım zincirini bilgilendirdiğini ispatladığı takdirde birinci fıkrada belirtilen yaptırım uygulanmaz.

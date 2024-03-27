@@ -1,0 +1,3 @@
+Kapsam
+MADDE 2- (1) Bu Yönetmelik, Bilgi Teknolojileri ve İletişim Kurumunun görev ve sorumluluğunda bulunan ve fiziksel ya da uzaktan iletişim araçları vasıtasıyla piyasaya arz edilen, piyasada bulundurulan veya hizmete sunulan telsiz ekipmanlarının piyasa gözetimi ve denetimi faaliyetlerini, alınacak önlemleri, denetçilerin görev ve yetkileri ile iktisadi işletmecilerin yükümlülüklerini kapsar.
+(2) Bu Yönetmeliğin denetim ve yaptırım hükümleri; yasal olmayan yollarla piyasaya arz edilen, piyasada bulundurulan veya IMEI numarası da dâhil olmak üzere teknik özelliklerinde yasal olmayan değişiklikler yapılan cihazlara uygulanmaz.

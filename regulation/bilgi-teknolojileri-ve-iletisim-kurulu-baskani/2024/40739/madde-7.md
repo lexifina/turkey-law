@@ -1,0 +1,4 @@
+İktisadi işletmecilerin denetime ilişkin yükümlülükleri
+MADDE 7- (1) İktisadi işletmeci; denetçiye görevi süresince uygun bir çalışma ortamı sağlamak, Kurum ile iş birliği yapmak ve talep edilen bilgi ve belgeleri belirlenen süre içinde Kuruma sunmakla yükümlüdür.
+(2) İktisadi işletmeci, denetçilerin görevini yapmasını engelleyemez. Aksi takdirde, 7223 sayılı Kanunun 20 nci maddesinin ikinci fıkrası uyarınca idari para cezası uygulanır ve bu kişiler hakkında ilgili makamlara suç duyurusunda bulunulur.
+(3) Numunenin, imalatçı veya ithalatçı dışındaki gerçek veya tüzel kişiden alınması ve söz konusu gerçek veya tüzel kişinin numune alma tutanağı ile birlikte imalatçı veya ithalatçıya başvurması durumunda, numune bedeli imalatçı veya ithalatçı tarafından kendisine başvuran gerçek veya tüzel kişiye ödenir.

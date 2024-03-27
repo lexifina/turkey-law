@@ -1,0 +1,6 @@
+Bertaraf
+MADDE 21- (1) Bertaraf, cihazın imalatçısı tarafından menşei ülkesine gönderilmesi veya Çevre, Şehircilik ve İklim Değişikliği Bakanlığı tarafından yetkilendirilen kuruluşlar eliyle imha edilmesi suretiyle yapılır. Cihaza ilişkin imha veya kullanılamaz hale getirme kararı alınması durumunda iktisadi işletmeci, uygun olmayan cihazları Kurumun gözetiminde bertaraf eder ve bu işlemin gerçekleştirildiğini gösteren tutanak ve belgeleri bertarafı müteakip en geç bir ay içinde Kuruma sunar.
+(2) Bertaraf edilen cihazların IMEI numarasını haiz olması halinde, Kurum tarafından 12/7/2014 tarihli ve 29058 sayılı Resmî Gazete’de yayımlanan Elektronik Kimlik Bilgisini Haiz Cihazların Kayıt Altına Alınmasına Dair Yönetmeliğin ilgili hükümleri uygulanır.
+(3) Bertaraf işleminin özel bir uzmanlık gerektirmesi durumunda ilgili bertaraf işlemi, bu işlemi yapma niteliklerini haiz gerçek veya tüzel kişiye yaptırılabilir.
+(4) Bertaraf işlemi için fatura edilen bedel, imalatçı veya ithalatçı tarafından doğrudan üçüncü fıkra uyarınca bertaraf işlemini gerçekleştiren kuruluşa ödenir.
+(5) İktisadi işletmeci tarafından bertaraf edilmeyen cihazların bertarafına yönelik işlemler Kurum tarafından gerçekleştirilerek masraflar ilgili iktisadi işletmeciye rücu edilir.

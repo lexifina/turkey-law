@@ -1,0 +1,2 @@
+Bölge müdürlüklerinin piyasa gözetimi ve denetimine ilişkin sorumlulukları
+MADDE 28- (1) Bölge müdürlükleri; denetçilerin görevlerini yerine getirmelerini sağlar, şikâyet ve ihbarları değerlendirir, yapılan denetimlere ilişkin dönemsel PGD raporlarını Daire Başkanlığına gönderir, Daire Başkanlığı tarafından talep edilen diğer bilgi ve belgeler ile numuneleri temin eder, gerekli hallerde denetim sonuçlarına ilişkin idari işlemleri takip eder ve Daire Başkanlığını bilgilendirir.
