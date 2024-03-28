@@ -1,0 +1,1 @@
+GEÇİCİ MADDE 2 – (1) 2011-2012 Eğitim-Öğretim yılında (Değişik ibare:RG-28/3/2024-32503) tıp (İngilizce) programı hazırlık sınıfında öğrenimlerini tamamlayan öğrenciler, bu Yönetmeliğe göre öğrenimlerini sürdürürler.
