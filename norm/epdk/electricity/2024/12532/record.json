@@ -1,0 +1,25 @@
+{
+  "kind": "norm",
+  "issuer": "Enerji Piyasası Düzenleme Kurumu",
+  "market": "electricity",
+  "document_type": "board-decision",
+  "number": "12532",
+  "decision_date": "2024-03-28",
+  "title": "6 Şubat 2023 tarihli Kahramanmaraş merkezli depremlerin etkilerinin devam etmesi nedeniyle, Elektrik Piyasası Dengeleme ve Uzlaştırma Yönetmeliğinin (Yönetmelik) 140 ncı maddesi uyarınca, 30 Eylül 2024 tarihine kadar uygulanmasına ilişkin",
+  "resmi_gazete_date": "2024-03-29",
+  "resmi_gazete_number": "32504",
+  "categories": [
+    "6 Şubat 2023 tarihinde Kahramanmaraş merkezli olarak meydana gelen depremlere İlişkin"
+  ],
+  "source": "https://www.epdk.gov.tr/Detay/DownloadDocument?id=HTB1oMadRkI=",
+  "documents": [
+    "https://www.epdk.gov.tr/Detay/DownloadDocument?id=HTB1oMadRkI="
+  ],
+  "source_sha256": "fb7bc41a8ff3527071e0d84702407c5ffaf32dab163c48ce8202a2099f7b2e43",
+  "official_list": "https://www.epdk.gov.tr/Detay/Icerik/3-0-39/kurul-kararlari-",
+  "official_list_leaf": 33862,
+  "text_status": "as-enacted",
+  "text_file": "metin.md",
+  "in_force": "2024-03-28",
+  "law_text_complete": true
+}
