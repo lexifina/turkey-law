@@ -1,0 +1,17 @@
+{
+  "kind": "decision",
+  "issuer": "Sayıştay 6. Dairesi",
+  "number": "938",
+  "decision_date": "2024-03-28",
+  "source_id": 38342,
+  "chamber": "6",
+  "ilam_number": "302",
+  "item_number": 4,
+  "public_body_type": "Yüksek Öğretim Kurumları",
+  "account_year": 2018,
+  "subject": "Çeşitli Konuları İlgilendiren Kararlar",
+  "source": "https://www.sayistay.gov.tr/KararlarDaire/Detay/38342/",
+  "source_sha256": "7e25b3ef9c5a960087326e44c3945c9704f609dc07548034bc4eefb453ed9039",
+  "text_status": "metadata-only",
+  "metadata_only_reason": "possible personal name in the official text"
+}
