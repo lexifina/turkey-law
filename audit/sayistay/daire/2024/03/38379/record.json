@@ -1,0 +1,17 @@
+{
+  "kind": "decision",
+  "issuer": "Sayıştay 2. Dairesi",
+  "number": "35791",
+  "decision_date": "2024-03-28",
+  "source_id": 38379,
+  "chamber": "2",
+  "ilam_number": "304",
+  "item_number": 1,
+  "public_body_type": "Belediyeler ve Bağlı İdareler",
+  "account_year": 2018,
+  "subject": "Personel Mevzuatı ile İlgili Kararlar",
+  "source": "https://www.sayistay.gov.tr/KararlarDaire/Detay/38379/",
+  "source_sha256": "6fc262d9fbc86d6045b7ef774bfb74440a0b02a38e7e203e78b8e10d9d13447c",
+  "text_status": "metadata-only",
+  "metadata_only_reason": "possible personal name in the official text"
+}
