@@ -1,0 +1,5 @@
+Süre, Bedel, Hasılat Payı ve Devir Yasağı
+Ön izin
+MADDE 9 – (1) Bu Yönetmelik kapsamında değerlendirilmesi uygun görülen taşınmazların irtifak hakkı veya kullanma izni ihalesi ilan yapılmaksızın gerçekleştirilir.
+(2) Yapılacak yatırım için ön izne ihtiyaç duyulması halinde, lehine irtifak hakkı tesis edilecek veya kullanma izni verilecek (Değişik ibare:RG-11/9/2018-30532) vakıflara veya derneklere; 19/6/2007 tarihli ve 26557 sayılı Resmî Gazete’de yayımlanan Hazine Taşınmazlarının İdaresi Hakkında Yönetmelikte yer alan hükümler çerçevesinde ön izin verilir.
+(3) Ön izin döneminde ön izin sahibi (Değişik ibare:RG-11/9/2018-30532) vakıflar veya dernekler bu Yönetmelikte belirtilen şartlara uyulması kaydıyla projenin gerçekleştirilmesi için (Değişik ibare:RG-28/3/2024-32503) Cumhurbaşkanınca vergi muafiyeti tanınan diğer vakıfları (Ek ibare:RG-11/9/2018-30532) veya kamu yararına çalışan diğer dernekleri ortak alabilir. Ortak alınması durumda, Yönetmelik ve Sözleşme hükümlerine aykırı davranılması halinde her türlü sorumluluk hak lehtarı olan Vakfa (Ek ibare:RG-11/9/2018-30532) veya Derneğe aittir.

@@ -1,0 +1,4 @@
+İrtifak hakkı ve kullanma izni sözleşmesinin sona ermesi ve feshi
+MADDE 14 – (1) İrtifak hakkı ve kullanma izni sözleşmesi, sözleşme süresinin bitiminde sona erer.
+(2) Sözleşme hükümlerine aykırı davranılması, taşınmazın sözleşmede öngörülen amaç dışında kullanıldığının tespiti halinde İdarece verilen on günlük süre içerisinde aykırılıkların giderilmemesi veya adına kullanma izni verilen ya da lehine irtifak hakkı kurulan tarafından talep edilmesi hâlinde sözleşme İdarece feshedilir.
+(3) İrtifak hakkı veya kullanma izni sözleşmesinin sona ermesi veya feshedilmesi hâlinde, özel hükümler saklı kalmak kaydıyla, taşınmaz üzerindeki tüm yapı ve tesisler sağlam ve işler durumda tazminat veya bedel ödenmeksizin İdareye intikal eder ve bundan dolayı adına kullanma izni verilen ya da lehine irtifak hakkı kurulan tarafından veya üçüncü kişilerce her hangi bir hak ve talepte bulunulamaz.

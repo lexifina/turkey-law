@@ -1,0 +1,20 @@
+Tanımlar
+MADDE 4 – (1) Bu Yönetmelikte geçen;
+a) Bakanlık: (Değişik ibare:RG-28/3/2024-32503) Çevre, Şehircilik ve İklim Değişikliği Bakanlığını,
+b) (Ek:RG-11/9/2018-30532)(1) Dernek: İlgili mevzuatı uyarınca kurularak tüzel kişilik kazanan ve Cumhurbaşkanınca kamu yararına çalışan dernek statüsünde olduğu tespit edilen dernekleri,
+c) Devletin hüküm ve tasarrufu altındaki yer: Türk Medenî Kanunu ile diğer kanunlarda Devletin hüküm ve tasarrufu altında olduğu belirtilen yerleri,
+ç) (Değişik:RG-28/3/2024-32503) Eğitim faaliyeti: Milli Eğitim Bakanlığınca kurum açma izni ile iş yeri açma ve çalışma ruhsatı verilen vakıflar ile derneklerce yürütülen; okul öncesi, ilkokul, ortaokul, ortaöğrenim kurumlarını açma ve işletme faaliyetini, yükseköğrenim öğrencilerinin eğitimine yönelik eğitim kurumu açılması ve işletilmesi faaliyetini ayrıca; Diyanet İşleri Başkanlığına bağlı olarak açılan Kur’an-ı Kerim okumak, anlamını öğrenmek, hafızlık yapmak ve değerler eğitimi ile din eğitimi almak isteyen vatandaşlara verilen eğitimi ve Diyanet Akademisinde verilen eğitimleri,
+d) Hazinenin özel mülkiyetindeki taşınmaz: Tapuda Hazine adına tescilli taşınmazları,
+e) Hazine taşınmazı: Hazinenin özel mülkiyetindeki taşınmazlar ile Devletin hüküm ve tasarrufu altındaki yerleri,
+f) (Değişik:RG-28/3/2024-32503) İdare: Hazine taşınmazları bakımından merkezde Çevre, Şehircilik ve İklim Değişikliği Bakanlığını (Millî Emlak Genel Müdürlüğü); illerde çevre, şehircilik ve iklim değişikliği il müdürlüğünü (millî emlak dairesi başkanlığı veya millî emlak müdürlüğü) ve ilçelerde millî emlak müdürlüğünü yoksa milli emlak şefliğini, diğer kamu taşınmazları bakımından ise özel bütçeli idareleri, il özel idarelerini, belediyeleri ve taşınmaz maliki diğer kamu kurum ve kuruluşlarını,
+g) İrtifak hakkı: Bir taşınmaz üzerinde yararlanmaya ve kullanıma rıza göstermeyi veya mülkiyete ilişkin bazı hakların kullanılmasından vazgeçmeyi kapsayan ve diğer bir taşınmaz veya kişi lehine aynî hak olarak kurulan yükümlülüğü,
+ğ) Kanun: 4706 sayılı Hazineye Ait Taşınmaz Malların Değerlendirilmesi ve Katma Değer Vergisi Kanununda Değişiklik Yapılması Hakkında Kanunu,
+h) Kullanma izni: Devletin hüküm ve tasarrufu altında bulunan yerler üzerinde kişiler lehine verilen izni,
+ı) Kuruluş amacı: Vakfın (Değişik ibare:RG-11/9/2018-30532) veya derneğin amacı ile bu amacın gerçekleştirmek için yapılabilecek iş ve işlemleri,
+i) (Değişik:RG-28/3/2024-32503) Kurum kontenjanı: İlgisine göre Milli Eğitim Bakanlığı veya Gençlik ve Spor Bakanlığı tarafından verilen kurum açma izni ile iş yeri açma ve çalışma ruhsatında belirtilen kapasiteyi,
+j) Ön izin: İrtifak hakkı kurulmadan veya kullanma izni verilmeden önce; tescil, ifraz, tevhit, terk ve benzeri işlemlerin yapılması veya imar planının yaptırılması, değiştirilmesi ya da uygulama projelerinin hazırlanması ve onaylatılması gibi işlemlerin yerine getirilebilmesi için İdarece verilen izni,
+k) Taşınmaz: Hazine taşınmazları ile kamu kurum ve kuruluşlarının kendi mülkiyetlerinde bulunan taşınmazları,
+l) Vakıf: İlgili mevzuatı uyarınca kurularak tüzel kişilik kazanan ve (Değişik ibare:RG-28/3/2024-32503) Cumhurbaşkanınca vergi muafiyeti tanınan vakıfları,
+m) Yönetmelik: Bu Yönetmeliği,
+n) (Değişik:RG-28/3/2024-32503) Yurt temini faaliyeti: Vakıflar ile derneklerce ülke sınırları içerisinde ilgisine göre Milli Eğitim Bakanlığı veya Gençlik ve Spor Bakanlığınca kurum açma izni ile iş yeri açma ve çalışma ruhsatı düzenlenerek açılan ve işletilen özel öğrenci yurdu barınma faaliyeti ile resmi öğretim kurumlarının yatılılık ve pansiyon ihtiyacını karşılamak üzere resmi öğrenci yurdu yapılması ve/veya işletme hizmeti sunulması ile Diyanet İşleri Başkanlığına bağlı olarak açılan Kur’an eğitim ve öğretimi kursu hizmetlerinin yürütülmesinde barınma ve beslenme ihtiyacını karşılamak üzere açılan yurt ve pansiyonlar ile Diyanet Akademisi bünyesindeki konaklama alanlarını,
+ifade eder.

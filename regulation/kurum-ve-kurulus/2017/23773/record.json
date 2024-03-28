@@ -1,0 +1,52 @@
+{
+  "source_id": "7.5.23773",
+  "kind": "regulation",
+  "register_kind": "Kurum ve Kuruluş Yönetmelikleri",
+  "title": "KAMU TAŞINMAZLARI ÜZERİNDE EĞİTİM VE YURT FAALİYETLERİ İÇİN İRTİFAK HAKKI TESİS EDİLMESİNE VE KULLANMA İZNİ VERİLMESİNE İLİŞKİN YÖNETMELİK",
+  "number": "23773",
+  "issuer_slug": "kurum-ve-kurulus",
+  "path": "regulation/kurum-ve-kurulus/2017/23773",
+  "source": "https://www.mevzuat.gov.tr/anasayfa/MevzuatFihristDetayIframe?MevzuatTur=7&MevzuatNo=23773&MevzuatTertip=5",
+  "source_sha256": "e43ef8c4fe4064ae9d4ef9e75d07e1875fa281afdbc39045b53e54ea01fb1090",
+  "source_bytes": 50817,
+  "published": "2017-07-21",
+  "gazette": "30130",
+  "in_force": "2024-03-28",
+  "in_force_basis": "latest Resmî Gazete date printed in the source amendment notes/table (\"RG-28/3/2024\") for the current consolidated text",
+  "date_evidence": [
+    [
+      "2024-03-28",
+      "RG-28/3/2024",
+      "Resmî Gazete date printed in the source amendment note"
+    ],
+    [
+      "2024-03-28",
+      "28/3/2024",
+      "Resmî Gazete date in the source amendment table"
+    ],
+    [
+      "2018-09-11",
+      "RG-11/9/2018",
+      "Resmî Gazete date printed in the source amendment note"
+    ],
+    [
+      "2018-09-11",
+      "11/9/2018",
+      "Resmî Gazete date in the source amendment table"
+    ]
+  ],
+  "commencement_clauses": [
+    "Bu Yönetmelik yayımı tarihinde yürürlüğe girer"
+  ],
+  "history": "current-text",
+  "label": "oldest version available",
+  "checked_on": "2026-11-15",
+  "word_count": 2485,
+  "text_status": "current-consolidated",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  },
+  "completeness": "html-text-complete"
+}

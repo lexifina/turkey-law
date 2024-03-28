@@ -1,0 +1,3 @@
+İrtifak hakkı tesisi veya kullanma izni verilmesi
+MADDE 10 – (1) Ön izin döneminde yükümlülüğünü yerine getiren (Değişik:RG-11/9/2018-30532) vakıflar veya dernekler için tapu kütüğünün ayrı bir sayfasına taşınmaz olarak kaydedilmeyen, ancak tapu kütüğünün “İrtifak Hakları ve Gayrimenkul Mükellefiyetleri” sütununa kaydedilen süreli (normal) nitelikli irtifak hakkı tesis edilebilir veya tapuda kayıtlı olmayan taşınmazlar için kullanma izni verilebilir.
+(2) Ön izine ihtiyaç duyulmayan hallerde bu Yönetmelikteki şartları taşıması kaydıyla, ön izin verilmeden irtifak hakkı tesis edilebilir veya kullanma izni verilebilir.
