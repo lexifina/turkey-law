@@ -1,0 +1,6 @@
+Uygulanabilirlik değerlendirmeleri
+MADDE 15 – (1) Her bir önlem planı tedbirinin uygulanabilirliği değerlendirilirken asgari olarak aşağıdaki hususlar dikkate alınır:
+a) Önlem planı tedbirinin uygulanmasından kaynaklanabilecek riskler, önlem planı tedbirleri ve benzer önlemlerin önceki uygulamaları sırasında edinilen tecrübeler de dikkate alınmak suretiyle değerlendirilir.
+b) Önlem planı tedbirlerinin zamanında ve etkili şekilde uygulanmasına engel olabilecek önemli hususlar belirlenerek bunlara ilişkin olası çözüm yolları açıklanır. Bu hususlar belirlenirken bankanın hâkim ortağı ile grubun yapısından veya bunlar arasında yapılan anlaşmalardan kaynaklanan sebepler ile özkaynakların güçlendirilmesine veya bunlar arasındaki yükümlülüklerin geri ödenmesine mani olabilecek önemli fiili veya hukuki engellerin olup olmadığı değerlendirilir.
+(2) Önlem planı tedbirlerinin zamanında ve etkili şekilde uygulanmasına engel olabilecek hususlar, özellikle hukuki, operasyonel, finansal, iş riski ve itibar riski gibi faktörler dikkate alınarak değerlendirilir.
+(3) Herhangi bir önlem planı tedbirinin uygulanmasının başka bir önlem planı tedbirinin uygulanabilirliğini olumsuz etkilemesi ihtimalinin olması durumunda bu durum önlem planında belirtilir.
