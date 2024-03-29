@@ -1,0 +1,3 @@
+Akademik danışmanlık
+MADDE 38 – (1) Eğitim ve öğretimin düzenli bir biçimde yürütülmesini sağlamak ve öğrencilerin sorunlarının çözümüne yardımcı olmak için bölüm başkanlığının önerisi ilgili birim tarafından ders kayıtları başlamadan önce her öğrenci için bir akademik danışman görevlendirilir.
+(2) Danışmanlar, akademik takvimde belirtilen süre içerisinde danışmanı olduğu öğrencilerin ders kayıtlarına yardımcı olur ve öğrenci tarafından onaylanmış ders kayıtlarını kontrol ederek onaylar. Hatalı yapılan ders kayıtları için öğrenciyi uyarır ve gerekli düzeltmeyi yaptıktan sonra ders kaydını onaylar. İlgili birimin aldığı kararların öğrencilere duyurulmasında yardımcı olurlar.

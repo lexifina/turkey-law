@@ -1,0 +1,2 @@
+Üst yarıyıldan ders alma koşulları
+MADDE 21 – (1) Öğrenci üçüncü yarıyıldan itibaren, önkoşullu olan dersler dışında ve bu Yönetmeliğin 7 nci maddesindeki en çok saat sınırının izin verdiği ve ders saatleri çakışmadığı ölçüde danışmanının onayı ile üst yarıyıl programından ders alabilir. Öğrencilerden alt sınıflardan başarısız dersi bulunmayan ve akademik başarı not ortalamaları 80-89 arasında olanlar iki ders, 90 ve üstü olanlar ise üç ders alabilirler. Öğrenciler bu Yönetmelik hükümleri çerçevesinde öğrenimlerini daha kısa sürede bitirebilirler.

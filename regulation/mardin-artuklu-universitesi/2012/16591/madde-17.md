@@ -1,0 +1,2 @@
+Çift anadal programı
+MADDE 17 – (1) İlgili bölümler ile ilgili kurulların önerisi ve Senatonun onayı alınarak herhangi bir lisans programına kayıtlı öğrencilerden, gerekli koşulları karşılayanlar arasından istekli olanların kendi lisans programlarına ek olarak çift ana dal programına devam etmelerine ve ikinci bir lisans diploması almalarına olanak sağlanır. Çift ana dal programına ilişkin usul ve esaslar Senato tarafından belirlenir.

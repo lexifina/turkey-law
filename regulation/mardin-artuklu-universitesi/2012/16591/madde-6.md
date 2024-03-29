@@ -1,0 +1,5 @@
+Kayıt işlemleri
+MADDE 6 – (1) Üniversiteye yeni kayıt yaptıracak öğrencilerin kayıtları ÖSYM tarafından belirlenen tarihler arasında yapılır. Belirlenen tarihlerde kayıt yaptırmayan adaylar kayıt haklarını kaybeder. Kayıt için istenilen belgeler ÖSYM ve Üniversite tarafından belirlenir.
+(2) Üniversiteye kesin kayıt hakkı kazanan adaylar kayıt için şahsen başvuru yaparlar. Ancak mazeretini belgelendiren adaylar kesin kayıtları vekilleri tarafından yaptırabilir.
+(3) Kayıt için istenen belgelerin aslı veya Üniversite tarafından onaylı örneği kabul edilir. Askerlik durumu ve adli sicil kaydına ilişkin olarak ise adayın yazılı beyanına dayanılarak işlem yapılır. Kesin kayıt yaptıran öğrencilerin sunduğu bilgi ve belgelerin doğru olmadığı anlaşılırsa ilgili yönetim kurulu tarafından kayıtları iptal edilir. Söz konusu şahıslara verilen diploma dahil tüm belgeler iptal edilerek haklarında gerekli kanuni işlem yapılır.
+(4) Özel yetenek sınavı ile öğrenci alan birimlere alınacak öğrenciler ile ilgili iş ve işlemler Senato tarafından belirlenen esaslara göre düzenlenir.

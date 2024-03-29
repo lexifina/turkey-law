@@ -1,0 +1,2 @@
+Derslerin kredi değerleri
+MADDE 18 – (1) Haftada bir saat teorik ders, iki saat teorik ders uygulaması, laboratuvar, atölye ve klinik çalışması gibi uygulama çalışmaları ve üç saatlik inceleme, gezi, ödev, sınava hazırlanma, bireysel çalışma, mezuniyet tezi, proje çalışmaları gibi diğer etkinlikler bir kredidir. Alınan derslerin Avrupa Kredi Transfer Sistemine (ECTS) karşılık gelen kredi değerleri bu Yönetmelik hükümlerine göre Senato tarafından belirlenir.

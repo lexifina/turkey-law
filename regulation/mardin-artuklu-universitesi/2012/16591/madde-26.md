@@ -1,0 +1,3 @@
+Mazeret sınavı
+MADDE 26 – (1) Ara sınava giremeyen öğrencilerden haklı ve geçerli mazeretleri, ilgili yönetim kurulunca kabul edilenler; ara sınav haklarını aynı yarıyıl içinde dekanlık/yüksekokul/konservatuar müdürlüğünce belirlenen gün, yer ve saatte kullanırlar. Mazeret sınavları için ikinci bir mazeret sınavı yapılmaz. Yarıyıl sonu sınavları için mazeret sınavı açılmaz. Rektörlükçe Üniversiteyi temsil etmek üzere görevlendirilen öğrenciler, mazeret sınavına alınır.
+(2) Sağlık mazereti nedeniyle ara sınava veya ara sınavlara giremeyen öğrencilerin giremedikleri ara sınav veya sınavlara girebilmeleri için; bulundukları yerdeki sağlık kuruluşundan sağlık raporu almış olmaları gerekir. Öğrenci, rapor süresince devamsız sayılır.

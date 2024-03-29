@@ -1,0 +1,2 @@
+Yan dal programı
+MADDE 16 – (1) Yan dal programı açılması, ilgili bölümün/anabilim dalının isteği, ilgili kurulların önerisi ve Senatonun kararı ile kesinleşir ve yan dal programı, bölümlerin işbirliğiyle yürütülür. Herhangi bir programa kayıtlı olan öğrencilerden isteyenlere kendi lisans programlarına ek olarak bir yan dal programını izleme izni verilebilir. Yan dal programı ayrı bir lisans programı niteliğinde değildir. Yan dal programına ilişkin usul ve esaslar Senato tarafından belirlenir.

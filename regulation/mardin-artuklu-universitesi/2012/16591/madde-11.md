@@ -1,0 +1,3 @@
+Yatay ve dikey geçişler
+MADDE 11 – (1) Kurum içi ve kurumlar arası yatay geçişler; 24/4/2010 tarihli ve 27561 sayılı Resmî Gazete’de yayımlanan Yükseköğretim Kurumlarında Önlisans ve Lisans Düzeyindeki Programlar Arasında Geçiş, Çift Anadal, Yan Dal ile Kurumlar Arası Kredi Transferi Yapılması Esaslarına İlişkin Yönetmelik ile Senato tarafından belirlenen esaslara göre yapılır.
+(2) Meslek yüksekokulu mezunlarının Mardin Artuklu Üniversitesine bağlı lisans programlarına dikey geçişleri; 19/2/2002 tarihli ve 24676 sayılı Resmî Gazete’de yayımlanan Meslek Yüksekokulları ve Açıköğretim Ön Lisans Programları Mezunlarının Lisans Öğrenimine Devamları Hakkında Yönetmelik hükümlerine göre yapılır.
