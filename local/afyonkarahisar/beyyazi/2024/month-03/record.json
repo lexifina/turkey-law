@@ -1,0 +1,30 @@
+{
+  "number": "month-03",
+  "year": 2024,
+  "month": 3,
+  "title": "MART/2024 DÖNEMİ MECLİS KARARLARI",
+  "decision_date": null,
+  "index_date": "2024-03-31",
+  "date_precision": "month",
+  "period": "Mart 2024",
+  "source": "http://www.beyyazi.bel.tr/",
+  "official_page": null,
+  "official_document": "http://www.beyyazi.bel.tr/?pnum=38&pt=MART%2F2024+D%C3%96NEM%C4%B0+MECL%C4%B0S+KARARLARI",
+  "source_sha256": "d11e06f922a80826c74058d5992bf8839ea06c2077ca943a977f4279309ed3d4",
+  "issuer": "Beyyazı Belediye Meclisi",
+  "history_type": "metadata",
+  "text_status": "metadata-only: listing fields as published; the decisions are in the linked official document(s) or page, not transcribed",
+  "in_force": "2024-03-31",
+  "in_force_basis": "The official listing gives only the month of this official file (Mart 2024); date set to the last day of that month (turkey-law date convention for month-only sources); exact adoption dates are in the linked official document; legal commencement not asserted",
+  "missing": [
+    "decision numbers, dates and subjects",
+    "complete official decision text",
+    "official annexes"
+  ],
+  "law_text_complete": false,
+  "privacy_withheld": false,
+  "listing_label": "MART/2024 DÖNEMİ MECLİS KARARLARI",
+  "record_scope": "one official file of council decisions (meeting or month)",
+  "document_note": "the decisions are published on the linked official page; not transcribed here",
+  "fetch_note": "source read over http:// because the site's https certificate is invalid (a TLS fault, not a block; turkey-law coordinator approval 2026-11-17)"
+}
