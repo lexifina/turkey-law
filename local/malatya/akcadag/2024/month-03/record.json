@@ -1,0 +1,28 @@
+{
+  "number": "month-03",
+  "year": 2024,
+  "month": 3,
+  "title": "Mart 2024 Meclis Kararı",
+  "decision_date": null,
+  "index_date": "2024-03-31",
+  "date_precision": "month",
+  "period": "Mart 2024",
+  "source": "https://www.akcadag.bel.tr/karar/mart-2024-meclis-kararı.html",
+  "official_page": "https://www.akcadag.bel.tr/karar/mart-2024-meclis-kararı.html",
+  "official_document": "https://www.akcadag.bel.tr/tema/genel/uploads/meclis_kararlari/dosya/mart_1.docx",
+  "source_sha256": "ea9d455b9fb8bc9be835a03c00992580d9c711f914ee777666a35495b74b89b3",
+  "issuer": "Akçadağ Belediye Meclisi",
+  "history_type": "metadata",
+  "text_status": "metadata-only: listing fields as published; the decisions are in the linked official document(s) or page, not transcribed",
+  "in_force": "2024-03-31",
+  "in_force_basis": "The official listing gives only the month of this official file (Mart 2024); date set to the last day of that month (turkey-law date convention for month-only sources); exact adoption dates are in the linked official document; legal commencement not asserted",
+  "missing": [
+    "decision numbers, dates and subjects",
+    "complete official decision text",
+    "official annexes"
+  ],
+  "law_text_complete": false,
+  "privacy_withheld": false,
+  "listing_label": "Mart 2024 Meclis Kararı",
+  "record_scope": "one official file of council decisions (meeting or month)"
+}
