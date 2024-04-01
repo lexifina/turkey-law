@@ -1,0 +1,39 @@
+{
+  "checked_on": "2026-11-14",
+  "commencement_clauses": [
+    "MADDE 17- (1) Bu Yönetmelik yayımı tarihinde yürürlüğe girer."
+  ],
+  "date_evidence": [
+    [
+      "2024-04-01",
+      "01.04.2024",
+      "original gazette publication date in official listing"
+    ]
+  ],
+  "date_quote": "MADDE 17- (1) Bu Yönetmelik yayımı tarihinde yürürlüğe girer.",
+  "first_law": null,
+  "gazette": "32507",
+  "history": "current-text",
+  "images": {
+    "deferred": 0,
+    "omitted": 0,
+    "referenced": 0,
+    "source": 0
+  },
+  "in_force": "2024-04-01",
+  "in_force_basis": "source commencement clause: enters into force on gazette publication",
+  "issuer": "Dokuz Eylül Üniversitesi",
+  "issuer_slug": "dokuz-eylul-universitesi",
+  "kind": "regulation",
+  "label": "oldest version available",
+  "path": "regulation/dokuz-eylul-universitesi/2024/40743",
+  "published": "2024-04-01",
+  "source": "https://www.mevzuat.gov.tr/anasayfa/MevzuatFihristDetayIframe?MevzuatTur=8&MevzuatNo=40743&MevzuatTertip=5",
+  "source_bytes": 92247,
+  "source_id": "8.5.40743",
+  "source_sha256": "3788ae11999355913de00d8d9323446ec08ea89adec037cac915483c7d90a68a",
+  "text_status": "as-enacted",
+  "title": "DOKUZ EYLÜL ÜNİVERSİTESİ BİLİM VE TEKNOLOJİ UYGULAMA VE ARAŞTIRMA MERKEZİ YÖNETMELİĞİ",
+  "university_id": 189,
+  "word_count": 1027
+}
