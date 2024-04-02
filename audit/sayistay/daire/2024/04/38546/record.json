@@ -1,0 +1,17 @@
+{
+  "kind": "decision",
+  "issuer": "Sayıştay 3. Dairesi",
+  "number": "477",
+  "decision_date": "2024-04-02",
+  "source_id": 38546,
+  "chamber": "3",
+  "ilam_number": "309",
+  "item_number": 2,
+  "public_body_type": "Yüksek Öğretim Kurumları",
+  "account_year": 2018,
+  "subject": "Çeşitli Konuları İlgilendiren Kararlar",
+  "source": "https://www.sayistay.gov.tr/KararlarDaire/Detay/38546/",
+  "source_sha256": "52a1d8cccf7fc371662c8e37bafbf413418f20802ce73b2966fd31816f14cd2d",
+  "text_status": "as-enacted",
+  "text_file": "metin.md"
+}
