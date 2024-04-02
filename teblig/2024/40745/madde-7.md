@@ -1,0 +1,6 @@
+Maddi zarar ve nedensellik iddiası
+MADDE 7- (1) Yönetmeliğin 17 nci maddesi çerçevesinde zarar iddiası 1/10/2020-30/9/2023 dönemi için incelenmiştir.
+(2) Güney Kore menşeli soruşturma konusu ürün ithalatının 1/10/2020-30/9/2023 döneminde mutlak ve nispi olarak artış gösterdiği belirlenmiştir.
+(3) Güney Kore menşeli ithalatın birim fiyatının yerli üretim dalının yurt içi birim satış fiyatını 1/10/2020-30/9/2021 ve 1/10/2021-30/9/2022 dönemleri için kırmadığı ancak baskıladığı, 1/10/2022-30/9/2023 dönemi içinse hem kırdığı hem baskıladığı tespit edilmiştir.
+(4) Yerli üretim dalı tarafından zarara ilişkin olarak sunulan bilgi, belge ve deliller kullanılarak yapılan değerlendirmede; 1/10/2020-30/9/2023 döneminde, üretim, yurt içi satış miktarı, birim karlılığı, stok miktarı, stok çevrim hızı, ürün nakit akışı, kapasite kullanım oranı, istihdam, verimlilik ve pazar payı gibi temel ekonomik göstergelerinde bozulma olduğu tespit edilmiştir.
+(5) Başvuru aşamasında sunulan deliller ve ithalata ilişkin Bakanlık istatistik veri tabanında yer alan veriler esas alınarak yapılan tespitler ışığında, dampingli olduğu iddia edilen Güney Kore menşeli ithalatın yerli üretim dalının ekonomik göstergelerinde maddi zarara yol açtığı değerlendirilmiştir.
