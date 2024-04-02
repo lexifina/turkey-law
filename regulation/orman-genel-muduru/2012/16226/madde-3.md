@@ -1,0 +1,3 @@
+Dayanak
+MADDE 3 – (Değişik:RG-8/8/2020-31207)
+(1) Bu Yönetmelik, 19/4/2012 tarihli ve 6292 sayılı Orman Köylülerinin Kalkınmalarının Desteklenmesi ve Hazine Adına Orman Sınırları Dışına Çıkarılan Yerlerin Değerlendirilmesi ile Hazineye Ait Tarım Arazilerinin Satışı Hakkında Kanunun 10 uncu maddesinin birinci fıkrası ile 15/7/2018 tarihli ve 30479 sayılı Resmî Gazete’de yayımlanan 4 sayılı Cumhurbaşkanlığına Bağlı, İlgili, İlişkili Kurum ve Kuruluşlar İle Diğer Kurum ve Kuruluşların Teşkilatı Hakkında Cumhurbaşkanlığı Kararnamesinin 334 üncü maddesinin birinci fıkrasının (j) bendine, 338 inci maddesinin birinci fıkrasının (ğ) bendine ve 340 ıncı maddesine dayanılarak hazırlanmıştır.

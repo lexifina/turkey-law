@@ -1,0 +1,93 @@
+{
+  "source_id": "7.5.16226",
+  "kind": "regulation",
+  "register_kind": "Kurum ve Kuruluş Yönetmelikleri",
+  "title": "ORMAN KÖYLÜLERİNİN KALKINDIRILMALARININ DESTEKLENMESİ FAALİYETLERİNE İLİŞKİN YÖNETMELİK",
+  "number": "16226",
+  "issuer": "Orman Genel Müdürü",
+  "issuer_slug": "orman-genel-muduru",
+  "path": "regulation/orman-genel-muduru/2012/16226",
+  "source": "https://www.mevzuat.gov.tr/anasayfa/MevzuatFihristDetayIframe?MevzuatTur=7&MevzuatNo=16226&MevzuatTertip=5",
+  "source_sha256": "7716d948b8126204291803a761ed670263c5d44205a67fa261e7777ddeb95f02",
+  "source_bytes": 79402,
+  "published": "2012-06-13",
+  "gazette": "28322",
+  "in_force": "2024-04-02",
+  "in_force_basis": "latest Resmî Gazete date printed in the source amendment notes/table (\"RG-2/4/2024\") for the current consolidated text",
+  "date_evidence": [
+    [
+      "2024-04-02",
+      "RG-2/4/2024",
+      "Resmî Gazete date printed in the source amendment note"
+    ],
+    [
+      "2024-04-02",
+      "2/4/2024",
+      "Resmî Gazete date in the source amendment table"
+    ],
+    [
+      "2023-02-23",
+      "RG-23/2/2023",
+      "Resmî Gazete date printed in the source amendment note"
+    ],
+    [
+      "2023-02-23",
+      "23/2/2023",
+      "Resmî Gazete date in the source amendment table"
+    ],
+    [
+      "2020-08-08",
+      "RG-8/8/2020",
+      "Resmî Gazete date printed in the source amendment note"
+    ],
+    [
+      "2020-08-08",
+      "8/8/2020",
+      "Resmî Gazete date in the source amendment table"
+    ],
+    [
+      "2020-04-30",
+      "RG-30/4/2020",
+      "Resmî Gazete date printed in the source amendment note"
+    ],
+    [
+      "2020-04-30",
+      "30/4/2020",
+      "Resmî Gazete date in the source amendment table"
+    ],
+    [
+      "2017-02-22",
+      "RG-22/2/2017",
+      "Resmî Gazete date printed in the source amendment note"
+    ],
+    [
+      "2017-02-22",
+      "22/2/2017",
+      "Resmî Gazete date in the source amendment table"
+    ],
+    [
+      "2013-11-04",
+      "RG-4/11/2013",
+      "Resmî Gazete date printed in the source amendment note"
+    ],
+    [
+      "2013-11-04",
+      "4/11/2013",
+      "Resmî Gazete date in the source amendment table"
+    ]
+  ],
+  "commencement_clauses": [
+    "Bu Yönetmelik 1/1/2012 tarihinden geçerli olmak üzere yayımı tarihinde yürürlüğe girer"
+  ],
+  "history": "current-text",
+  "label": "oldest version available",
+  "checked_on": "2026-11-15",
+  "word_count": 3652,
+  "text_status": "current-consolidated",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  },
+  "completeness": "html-text-complete"
+}
