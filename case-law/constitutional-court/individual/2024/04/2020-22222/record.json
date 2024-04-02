@@ -1,0 +1,20 @@
+{
+  "applicant": "K.E.A.",
+  "application_date": "2020-08-06",
+  "application_number": "2020/22222",
+  "deciding_unit": "Birinci Bölüm",
+  "decision_date": "2024-04-02",
+  "id": "bc8ab536-bc87-f3d9-7aa7-37100848290e",
+  "in_force": "2024-04-02",
+  "in_force_basis": "official decision date",
+  "kind": "constitutional-court-individual-application",
+  "omitted_images": 0,
+  "outcome": "Esas (İhlal Olmadığı)",
+  "published": null,
+  "referenced_images": 0,
+  "source": "https://kararlarbilgibankasi.anayasa.gov.tr/kbb/pages/search/Tumu?id=a2JiOmJjOGFiNTM2LWJjODctZjNkOS03YWE3LTM3MTAwODQ4MjkwZQ&type=BireyselBasvuru",
+  "source_api": "https://kararlarbilgibankasi.anayasa.gov.tr/api/core/public/search",
+  "source_images": 0,
+  "source_sha256": "e92ed67ac911e190564d67bac9e3d56329fade341de45ba51d98586528d03655",
+  "version_label": "as-enacted"
+}
