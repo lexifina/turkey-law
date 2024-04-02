@@ -1,0 +1,17 @@
+{
+  "kind": "decision",
+  "issuer": "Sayıştay 7. Dairesi",
+  "number": "599",
+  "decision_date": "2024-04-02",
+  "source_id": 38472,
+  "chamber": "7",
+  "ilam_number": "60",
+  "item_number": 17,
+  "public_body_type": "Belediyeler ve Bağlı İdareler",
+  "account_year": 2022,
+  "subject": "İhale Mevzuatı ile İlgili Kararlar",
+  "source": "https://www.sayistay.gov.tr/KararlarDaire/Detay/38472/",
+  "source_sha256": "cee53a506d8e6d8459abd68bf40b51e593f16e8256bf88fe7a8c0ec0f1c434a8",
+  "text_status": "as-enacted",
+  "text_file": "metin.md"
+}
