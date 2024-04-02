@@ -1,0 +1,17 @@
+{
+  "kind": "decision",
+  "issuer": "Sayıştay 1. Dairesi",
+  "number": "10932",
+  "decision_date": "2024-04-02",
+  "source_id": 38504,
+  "chamber": "1",
+  "ilam_number": "306",
+  "item_number": 4,
+  "public_body_type": "Belediyeler ve Bağlı İdareler",
+  "account_year": 2018,
+  "subject": "İhale Mevzuatı ile İlgili Kararlar",
+  "source": "https://www.sayistay.gov.tr/KararlarDaire/Detay/38504/",
+  "source_sha256": "4de2dfbedef616dbaf038e349de5003eab9a589a925d2b9d0d8e73ee022ab004",
+  "text_status": "as-enacted",
+  "text_file": "metin.md"
+}
