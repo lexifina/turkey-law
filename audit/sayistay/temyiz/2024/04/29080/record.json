@@ -1,0 +1,16 @@
+{
+  "kind": "decision",
+  "issuer": "Sayıştay Temyiz Kurulu",
+  "number": "56638",
+  "decision_date": "2024-04-03",
+  "source_id": 29080,
+  "chamber": "6",
+  "file_number": "53564",
+  "public_body_type": "Belediyeler ve Bağlı İdareler",
+  "account_year": "2018",
+  "subject": "Personel Mevzuatı ile İlgili Kararlar",
+  "source": "https://www.sayistay.gov.tr/KararlarTemyiz/Detay/29080/",
+  "source_sha256": "e880c7e711a537de8edc3041499ed82afc999c4310606dc4e777cdeaff1953da",
+  "text_status": "as-enacted",
+  "text_file": "metin.md"
+}
