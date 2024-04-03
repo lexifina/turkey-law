@@ -1,0 +1,2 @@
+Yönetim dönemi hesabı
+MADDE 10 – (1) Yönetim dönemi hesabı; yönetim döneminde yapılan bütün mali işlemleri kapsayan mali tablo, defter ve cetveller ile sayım tutanaklarından oluşur. Görev başındaki muhasebe yetkilisi tarafından düzenlenen yönetim dönemi hesabı, ilgili mevzuatında belirtilen sürede yetkili mercilere verilir. Yönetim dönemi hesabı dosyasının bir örneği de muhasebe biriminde muhafaza edilir.

@@ -1,0 +1,2 @@
+[1] 3/4/2024 tarihli ve 32509 sayılı Resmî Gazete’de yayımlanan değişiklik ile Yönetmeliğe 6 ncı maddesinin birinci fıkrasının (c) bendinden sonra gelmek üzere bent eklenmiş, diğer bentler buna göre teselsül ettirilmiştir.
+[2] 3/4/2024 tarihli ve 32509 sayılı Resmî Gazete’de yayımlanan değişiklik ile Yönetmeliğe 15 inci maddesinin birinci fıkrasından sonra gelmek üzere fıkra eklenmiş ve sonraki fıkralar buna göre teselsül ettirilmiştir.
