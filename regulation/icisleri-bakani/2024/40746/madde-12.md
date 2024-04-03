@@ -1,0 +1,10 @@
+Yazılı sınav
+MADDE 12- (1) Yazılı sınav, 11 inci maddede yer alan konularda klasik ve/veya test usulünde yapılabilir. Başkanlık uygun gördüğü takdirde yazılı sınavı ÖSYM’ye, üniversitelere veya bu konuda uzmanlaşmış diğer kamu kurum ve kuruluşlarına da yaptırabilir. Bu takdirde yazılı sınava ilişkin hususlar Başkanlık ile ilgili kurum veya kuruluş arasında yapılacak protokol ile belirlenir.
+(2) Yazılı sınava ilişkin uygulama esasları giriş sınavı duyurusunda ilan edilir.
+(3) Yazılı sınav sorularının konu grupları bakımından hangi ağırlıkta değerlendirmeye esas tutulacağına sınav duyurusunda yer verilir.
+(4) Yazılı sınav, yüz tam puan üzerinden değerlendirilir. Yazılı sınav sonucu tutanağa bağlanır ve Giriş Sınavı Kurulu üyelerince imzalanır.
+(5) Sınavda kopya çekenler, çekmeye teşebbüs edenler veya kopya çektiği tespit edilenler hakkında tutanak düzenlenir ve bu kişilerin sınavları geçersiz sayılır.
+(6) Yazılı sınav sonuçları, Başkanlığın kurumsal internet sitesinde ilan edilir.
+(7) Adaylar, duyurudan itibaren beş iş günü içerisinde yazılı sınav sonuçlarına itiraz edebilir. İtirazlar dilekçe ile şahsen veya posta yoluyla Başkanlığa yapılır. Süresi içerisinde yapılmayan itirazlar ile postadaki gecikmeler dikkate alınmaz. Yapılan itirazlar Giriş Sınavı Kurulunca en fazla on iş günü içerisinde incelenerek karara bağlanır. Sınavın başka bir kuruma yaptırılması durumunda Başkanlığa iletilen itirazlar ilgili kuruma gönderilir ve kurum tarafından en fazla yirmi iş günü içinde incelenir. Söz konusu itirazlar kurumun yaptığı inceleme kapsamında Giriş Sınavı Kurulunca karara bağlanır. İtiraz üzerine yapılan inceleme sonucu ilgililere yazılı olarak bildirilir. İtiraz üzerine verilen kararlar kesindir.
+(8) Yazılı sınav sonucunda yetmiş puandan az olmamak üzere, en yüksek puandan başlanarak giriş sınavı duyurusunda belirtilen atama yapılacak kadro sayısının dört katına kadar aday (son sıradaki adayla eşit puana sahip olanlar dâhil) sözlü sınava çağrılır.
+(9) Sözlü sınava katılmaya hak kazananlara; sözlü sınavın yeri, günü ve saati Başkanlığın kurumsal internet sitesinde sınav tarihinden en az yedi gün önce ilan edilir.

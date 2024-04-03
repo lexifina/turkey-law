@@ -1,0 +1,8 @@
+ALTINCI BÖLÜM
+Çeşitli ve Son Hükümler
+Yer değişikliği ve geçici görevlendirme
+MADDE 26- (1) Uzman yardımcılarının atandıkları ilde fiilen beş yıl çalışmaları zorunludur. Bu süreyi doldurmayanların yer değişikliği talepleri yerine getirilmez. Ancak 19/4/1983 tarihli ve 83/6525 sayılı Bakanlar Kurulu Kararıyla yürürlüğe konulan Devlet Memurlarının Yer Değiştirme Suretiyle Atanmalarına İlişkin Yönetmeliğin ilgili hükümleri kapsamında geçerli mazereti bulunanlar bu süreyi tamamlamadan talep ettikleri ilde boş kadro olması şartıyla atanabilirler.
+(2) Beş yıllık süreyi tamamlayanların yer değişikliği talepleri kadro, ihtiyaç durumu ve hizmetin gereği dikkate alınarak Başkanlıkça değerlendirilir.
+(3) Uzman ve uzman yardımcıları karşılıklı yer değiştirme talebinde bulunabilir. Karşılıklı yer değiştirme talepleri ihtiyaç durumu ve hizmetin gereği dikkate alınarak Başkanlıkça değerlendirilir.
+(4) Uzman ve uzman yardımcıları, görev yaptığı il müdürlüğü dışında başka bir yerde veya kurumda geçici olarak görevlendirilemezler. Ancak, Başkanlığın görev alanı kapsamında afet ve acil durumlara ilişkin planlama, hazırlık, müdahale ve iyileştirme çalışmaları ile sivil savunma ve insani yardım faaliyetlerinde bulunmak ve söz konusu hizmetlerle ilgili eğitim, tatbikat, toplantı, seminer, çalıştay ve benzeri organizasyonlara katılmak için görev yeri dışında Başkanlıkça geçici olarak görevlendirilebilir.
+(5) Birinci fıkra kapsamında belirtilen mazeretler nedeniyle yer değiştirme talebinde bulunanlardan talep ettikleri ilde boş kadro olmaması nedeniyle yer değiştirme talebi yerine getirilemeyenler, Başkanlıkça uygun görülmesi halinde talep ettikleri il müdürlüğünde geçici olarak görevlendirilebilirler.

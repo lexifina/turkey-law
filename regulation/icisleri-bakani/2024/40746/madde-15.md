@@ -1,0 +1,6 @@
+Uzman yardımcılığına atanma
+MADDE 15- (1) Giriş sınavı başarı puan sıralamasına göre asıl olarak atanmaya hak kazanan adaylardan, giriş sınavına katılma şartlarını taşıyan ve belirtilen süre içinde istenilen belgeleri teslim edenler uzman yardımcısı kadrolarına atanırlar. İstenilen belgeler şahsen veya posta yoluyla Başkanlığa teslim edilir, postadaki gecikmeler dikkate alınmaz.
+(2) Bildirilen süre içinde geçerli bir mazereti olmadığı halde belgelerini teslim etmeyen adayların atama işlemleri yapılmaz.
+(3) Atanma hakkından feragat eden adayların ataması yapılmaz.
+(4) Ataması yapıldığı halde süresi içinde mazeretsiz olarak göreve başlamayan adayların atamaları iptal edilir, bu adaylar için sınav sonuçları kazanılmış hak sayılmaz.
+(5) Belirtilen süre içerisinde belgelerini teslim etmeyen, atanma hakkından feragat eden, atamaları iptal edilen, memurluğa alınma şartlarından herhangi birini taşımadığının anlaşılması üzerine ataması yapılmayanlar ile göreve başladıktan sonra çeşitli nedenlerle görevinden ayrılanların yerlerine, giriş sınavı sonuçlarının açıklandığı tarihten itibaren yeni bir sınav yapılmaması ve altı aylık süreyi aşmamak kaydıyla yedek adaylar giriş sınavı başarı puan sıralaması ile aynı usulle uzman yardımcısı kadrolarına atanabilir.

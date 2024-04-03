@@ -1,0 +1,7 @@
+Yeterlik Sınavı Kurulu ve görevleri
+MADDE 21- (1) Yeterlik sınavı ile ilgili iş ve işlemleri yürütmek üzere; Başkan onayı ile Başkanlıkta Yeterlik Sınavı Kurulu teşkil ettirilir. Yeterlik Sınavı Kurulu; başkan yardımcıları, genel müdürler, Rehberlik ve Denetim Başkanı, I. Hukuk Müşaviri, daire başkanları, Afet Araştırmaları Merkezi Müdürü ile il müdürleri arasından başkan dâhil beş asıl ve beş yedek üyeden oluşur.
+(2) Yeterlik Sınavı Kurulu; yeterlik sınavı duyurusunun hazırlanması, sınav sorularının hazırlanması veya hazırlatılması, sınavların yapılması ya da yaptırılması, sınav sonuçlarının ilanı, itirazların sonuçlandırılması ve başarı listelerinin düzenlenmesi ile sınavlara ilişkin diğer işleri yürütür.
+(3) Yeterlik Sınavı Kurulu, üye tam sayısı ile toplanır. Kararlar oy çokluğuyla alınır. Asıl üyelerin katılmadığı toplantılara yedek üyeler katılır.
+(4) Yeterlik Sınavı Kurulunun başkan ve üyeleri boşanmış olsalar dahi eşlerinin, üçüncü dereceye kadar (bu derece dâhil) kan ve ikinci dereceye kadar (bu derece dâhil) kayın hısımlarının veya evlatlıklarının katılacağı sınavlara ilişkin iş ve işlemlerde görev alamaz. Bu durumdaki asıl üyelerin yerine yedek üyeler görevlendirilir.
+(5) Yeterlik Sınavı Kurulunun sekretarya hizmetleri Yönetim Hizmetleri Genel Müdürlüğü tarafından yerine getirilir.
+(6) Afet ve acil durum hallerinde Yeterlik Sınavı Kurulunun teklifi ve Başkanlık Makamının Onayı ile sınav tarihinde değişiklik yapılabilir. Sınav tarihine ilişkin yapılan değişiklikler Başkanlığın kurumsal internet sitesinde duyurulur.
