@@ -1,0 +1,17 @@
+{
+  "kind": "decision",
+  "issuer": "Sayıştay 6. Dairesi",
+  "number": "940",
+  "decision_date": "2024-04-04",
+  "source_id": 38321,
+  "chamber": "6",
+  "ilam_number": "48",
+  "item_number": 12,
+  "public_body_type": "Belediyeler ve Bağlı İdareler",
+  "account_year": 2022,
+  "subject": "Çeşitli Konuları İlgilendiren Kararlar",
+  "source": "https://www.sayistay.gov.tr/KararlarDaire/Detay/38321/",
+  "source_sha256": "a7057db7173160f9c4a3353c1ce96a7f6b28c54631f487454c1ac483ba0d4f18",
+  "text_status": "as-enacted",
+  "text_file": "metin.md"
+}
