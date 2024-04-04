@@ -1,0 +1,66 @@
+{
+  "source_id": "7.5.24410",
+  "kind": "regulation",
+  "register_kind": "Kurum ve Kuruluş Yönetmelikleri",
+  "title": "TARIMDA KULLANILAN ORGANİK, MİNERAL VE MİKROBİYAL KAYNAKLI GÜBRELERE DAİR YÖNETMELİK",
+  "number": "24410",
+  "issuer": "Tarım ve Orman Bakanı",
+  "issuer_slug": "tarim-ve-orman-bakani",
+  "path": "regulation/tarim-ve-orman-bakani/2018/24410",
+  "source": "https://www.mevzuat.gov.tr/anasayfa/MevzuatFihristDetayIframe?MevzuatTur=7&MevzuatNo=24410&MevzuatTertip=5",
+  "source_sha256": "970cfa6d654dcb93ab23ff3168eb1bf77dccaec4cf3444b921b183b0978a47c5",
+  "source_bytes": 77082,
+  "published": "2018-02-23",
+  "gazette": "30341",
+  "in_force": "2024-04-04",
+  "in_force_basis": "latest Resmî Gazete date printed in the source amendment notes/table (\"RG-4/4/2024\") for the current consolidated text",
+  "date_evidence": [
+    [
+      "2024-04-04",
+      "RG-4/4/2024",
+      "Resmî Gazete date printed in the source amendment note"
+    ],
+    [
+      "2024-04-04",
+      "4/4/2024",
+      "Resmî Gazete date in the source amendment table"
+    ],
+    [
+      "2021-04-25",
+      "RG-25/4/2021",
+      "Resmî Gazete date printed in the source amendment note"
+    ],
+    [
+      "2021-04-25",
+      "25/4/2021",
+      "Resmî Gazete date in the source amendment table"
+    ],
+    [
+      "2019-07-08",
+      "RG-8/7/2019",
+      "Resmî Gazete date printed in the source amendment note"
+    ],
+    [
+      "2019-07-08",
+      "8/7/2019",
+      "Resmî Gazete date in the source amendment table"
+    ]
+  ],
+  "commencement_clauses": [
+    "Bu Yönetmelik yayımı tarihinde yürürlüğe girer"
+  ],
+  "history": "current-text",
+  "label": "oldest version available",
+  "checked_on": "2026-11-15",
+  "word_count": 3394,
+  "text_status": "current-consolidated",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  },
+  "source_links": [
+    "7.5.24410-Ek.docx"
+  ],
+  "completeness": "html-text-complete; linked annexes not fetched"
+}
