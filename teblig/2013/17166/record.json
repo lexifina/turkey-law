@@ -1,0 +1,80 @@
+{
+  "source_id": "9.5.17166",
+  "kind": "communique",
+  "register_kind": "Tebliğler",
+  "title": "TARIMSAL FAALİYETTE BULUNANLARIN PRİM BORÇLARININ SATTIKLARI TARIMSAL ÜRÜN BEDELLERİNDEN KESİNTİ YAPILMAK SURETİYLE TAHSİL EDİLMESİNE DAİR TEBLİĞ",
+  "number": "17166",
+  "issuer": "Sosyal Güvenlik Kurumu Başkanı",
+  "path": "teblig/2013/17166",
+  "source": "https://www.mevzuat.gov.tr/anasayfa/MevzuatFihristDetayIframe?MevzuatTur=9&MevzuatNo=17166&MevzuatTertip=5",
+  "source_sha256": "a430326d2d0af53691a45e724cf894f1b9058a6e93febc57f94d3be95940fde2",
+  "source_bytes": 51118,
+  "published": "2013-03-01",
+  "gazette": "28574",
+  "in_force": "2024-04-05",
+  "in_force_basis": "latest Resmî Gazete date printed in the source amendment notes/table (\"RG-5/4/2024\") for the current consolidated text",
+  "date_evidence": [
+    [
+      "2024-04-05",
+      "RG-5/4/2024",
+      "Resmî Gazete date printed in the source amendment note"
+    ],
+    [
+      "2024-04-05",
+      "5/4/2024",
+      "Resmî Gazete date in the source amendment table"
+    ],
+    [
+      "2019-04-16",
+      "16/4/2019",
+      "Resmî Gazete date in the source amendment table"
+    ],
+    [
+      "2018-01-17",
+      "RG-17/1/2018",
+      "Resmî Gazete date printed in the source amendment note"
+    ],
+    [
+      "2018-01-17",
+      "17/1/2018",
+      "Resmî Gazete date in the source amendment table"
+    ],
+    [
+      "2015-01-31",
+      "RG-31/1/2015",
+      "Resmî Gazete date printed in the source amendment note"
+    ],
+    [
+      "2015-01-31",
+      "31/1/2015",
+      "Resmî Gazete date in the source amendment table"
+    ],
+    [
+      "2014-01-30",
+      "RG-30/1/2014",
+      "Resmî Gazete date printed in the source amendment note"
+    ],
+    [
+      "2014-01-30",
+      "30/1/2014",
+      "Resmî Gazete date in the source amendment table"
+    ]
+  ],
+  "commencement_clauses": [
+    "Bu Tebliğ hükümleri yayımı tarihini takip eden aybaşından itibaren yürürlüğe girer"
+  ],
+  "history": "current-text",
+  "label": "oldest version available",
+  "checked_on": "2026-11-15",
+  "word_count": 2563,
+  "text_status": "current-consolidated",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  },
+  "source_links": [
+    "9.5.17166%20ek.rar"
+  ],
+  "completeness": "html-text-complete; linked annexes not fetched"
+}

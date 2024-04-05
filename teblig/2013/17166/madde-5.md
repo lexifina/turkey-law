@@ -1,0 +1,3 @@
+Kesinti oranı
+MADDE 5 – (1) Kesinti yapmakla yükümlü olan gerçek ve tüzel kişiler, tarımsal faaliyette bulunanlardan satın aldıkları ürün bedelleri üzerinden prim borçlarına mahsuben ve borç tutarını geçmemek şartıyla %2 oranında kesinti yapmak zorundadırlar.
+(2) Kesinti yapmakla yükümlü olan gerçek ve tüzel kişiler tarafından, tarımsal faaliyette bulunanlara ürün bedeline mahsuben veya hesaben yapılan ödeme ile avans verilmesi halinde, bu ödemelerden herhangi bir kesinti yapılmaz. Verilen avansın veya hesabın kapatılması sırasında ürün bedelinin tamamı üzerinden borç tutarını geçmemek şartıyla %2 oranında kesinti yapılır.

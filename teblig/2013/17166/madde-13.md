@@ -1,0 +1,2 @@
+Kurum denetleme ve kontrol yetkisi
+MADDE 13 – (1) Kurumun denetim ve kontrol ile görevlendirilmiş memurları, Kanunun 59 uncu maddesi uyarınca, tarımsal faaliyette bulunanlardan satın aldıkları ürün bedellerinden kesinti yapmak zorunda olan gerçek ve tüzel kişilerin kesinti yapıp yapmadıklarını, kesinti tutarlarını tam olarak ve süresi içinde Kurum hesaplarına intikal ettirip ettirmediklerini tespit amacıyla, anılan gerçek ve tüzel kişilerin ilgili defter, evrak ve muhasebe kayıtlarını teftiş, kontrol ve denetleme yetkisine haizdirler.

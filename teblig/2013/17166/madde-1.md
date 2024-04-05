@@ -1,0 +1,3 @@
+TARIMSAL FAALİYETTE BULUNANLARIN PRİM BORÇLARININ SATTIKLARI TARIMSAL ÜRÜN BEDELLERİNDEN KESİNTİ YAPILMAK SURETİYLE TAHSİL EDİLMESİNE DAİR TEBLİĞ
+Amaç ve kapsam
+MADDE 1 – (1) Bu Tebliğin amacı; 31/5/2006 tarihli ve 5510 sayılı Sosyal Sigortalar ve Genel Sağlık Sigortası Kanununun 4 üncü maddesinin birinci fıkrasının (b) bendinin (4) numaralı alt bendi kapsamında sigortalı olarak tescil edilmiş olanların prim borçlarını, sattıkları tarımsal ürün bedellerinden borç tutarını geçmemek şartıyla ve prim borçlarına mahsuben kesinti yapılmak suretiyle tahsil edilmesine ilişkin usul ve esasları belirlemektir.
