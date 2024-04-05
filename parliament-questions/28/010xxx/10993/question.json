@@ -1,0 +1,21 @@
+{
+  "record_type": "parliament-written-question",
+  "term": 28,
+  "legislative_year": 2,
+  "esas_no": "7/10993",
+  "submitted": "2024-04-05",
+  "submitted_as": "Başkanlığa geliş tarihi",
+  "mp": "Kürşad ZORLU",
+  "province": "Ankara",
+  "summary": "Türkiye'de üniversite eğitimi gören yabancı uyruklu öğrenciler hakkındaki adli soruşturmalara ilişkin",
+  "status": "Süresi Geçtikten Sonra Cevaplandı",
+  "status_as_of": "2026-11-16",
+  "official_record": "https://www.tbmm.gov.tr/Denetim/Yazili-Soru-Onergesi-Detay/a5d5946c-cca1-4ac8-9cd8-018ee188d4e4",
+  "source": "https://tbmm.gov.tr/Denetim/YaziliSoruOnergesiTable",
+  "source_form": "https://tbmm.gov.tr/Denetim/Yazili-Soru-Onergeleri",
+  "source_sha256": "88bd48b993fecb243bc572b76b53e1766908e0f924a24a09acf916ae41f8184c",
+  "in_force": "2024-04-05",
+  "in_force_basis": "Date the question reached the Speaker (Başkanlığa geliş tarihi) in the official TBMM written-question record; parliamentary oversight record, not law",
+  "history_type": "metadata",
+  "text_status": "metadata-only: question text, addressee and answers are in the linked official record (PDFs on cdn.tbmm.gov.tr); not transcribed here"
+}
