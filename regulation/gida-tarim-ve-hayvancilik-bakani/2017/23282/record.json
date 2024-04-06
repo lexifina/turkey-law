@@ -1,0 +1,46 @@
+{
+  "source_id": "7.5.23282",
+  "kind": "regulation",
+  "register_kind": "Kurum ve Kuruluş Yönetmelikleri",
+  "title": "TÜRK GIDA KODEKSİ GIDA ETİKETLEME VE TÜKETİCİLERİ BİLGİLENDİRME YÖNETMELİĞİ",
+  "number": "23282",
+  "issuer": "Gıda, Tarım ve Hayvancılık Bakanı",
+  "issuer_slug": "gida-tarim-ve-hayvancilik-bakani",
+  "path": "regulation/gida-tarim-ve-hayvancilik-bakani/2017/23282",
+  "source": "https://www.mevzuat.gov.tr/anasayfa/MevzuatFihristDetayIframe?MevzuatTur=7&MevzuatNo=23282&MevzuatTertip=5",
+  "source_sha256": "35831935173e271f3e70da8b5fff76a0931c218744c46644bca5c4a59c3e889c",
+  "source_bytes": 131551,
+  "published": "2017-01-26",
+  "gazette": "29960 Mükerrer",
+  "in_force": "2024-04-06",
+  "in_force_basis": "latest Resmî Gazete date printed in the source amendment notes/table (\"RG-6/4/2024\") for the current consolidated text",
+  "date_evidence": [
+    [
+      "2024-04-06",
+      "RG-6/4/2024",
+      "Resmî Gazete date printed in the source amendment note"
+    ],
+    [
+      "2024-04-06",
+      "6/4/2024",
+      "Resmî Gazete date in the source amendment table"
+    ]
+  ],
+  "commencement_clauses": [
+    "Bu Yönetmelik yayımı tarihinde yürürlüğe girer"
+  ],
+  "history": "current-text",
+  "label": "oldest version available",
+  "checked_on": "2026-11-15",
+  "word_count": 7476,
+  "text_status": "current-consolidated",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  },
+  "source_links": [
+    "7.5.23282-Ek.docx"
+  ],
+  "completeness": "html-text-complete; linked annexes not fetched"
+}
