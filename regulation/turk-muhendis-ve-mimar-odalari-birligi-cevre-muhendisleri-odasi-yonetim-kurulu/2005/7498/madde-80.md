@@ -1,0 +1,2 @@
+İl ve İlçe Temsilciliklerinin Mali İşleyişi
+Madde 80 — İl ve İlçe Temsilciliklerinin her türlü geliri Odaya aittir. Kendi adlarına makbuz bastıramaz ve para toplayamazlar. İl ve İlçe Temsilcilikleri Oda Yönetim Kurulunun onayı ile kabul edilen yıllık bütçeye uygun olarak hareket etmek durumundadırlar. Bu bakımdan yıllık bütçelerini gösteren raporu Aralık ayının 25 inci gününe kadar Oda Yönetim Kuruluna sunmak zorundadırlar.

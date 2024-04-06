@@ -1,0 +1,3 @@
+İl ve İlçe Temsilcilikleri
+Madde 74 — İl ve İlçe Temsilcilikleri, Oda faaliyetlerinin etkin bir şekilde yürütülmesi ve Oda örgütlenmesinin yaygınlaştırılması amacı ile il ve ilçelerden gelen somut talepler, coğrafi yapı ve örgütsel gereksinimler göz önünde tutularak ve Şube Yönetim Kurullarının önerileri doğrultusunda kurulur.
+Oda Yönetim Kurulu İl ve İlçe Temsilciliği kurulmasına ve kurulan temsilciliğin hangi Oda birimine bağlı olarak faaliyet yürüteceğine karar verir ve Temsilcilik Yönetim Kurulunun atamasını yapar. Temsilciliğin kurulduğunu yörenin en büyük mülki amirine, belediye başkanlığına, cumhuriyet savcılığına ilgili kurum ve kuruluşlara bildirir.

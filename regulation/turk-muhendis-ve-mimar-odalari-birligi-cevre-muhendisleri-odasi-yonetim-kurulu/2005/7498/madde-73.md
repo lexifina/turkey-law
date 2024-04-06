@@ -1,0 +1,2 @@
+Bölge Temsilciliklerinin Mali İşleyişi
+Madde 73 — Bölge Temsilciliklerinin her türlü geliri Odaya aittir. Kendi adlarına makbuz bastıramaz ve para toplayamazlar. Bölge Temsilcilikleri Oda Yönetim Kurulunun onayı ile kabul edilen yıllık bütçeye uygun olarak hareket etmek durumundadırlar. Bu bakımdan yıllık bütçelerini gösteren raporu Aralık ayının 25 inci gününe kadar Oda Yönetim Kuruluna sunmak zorundadır.

@@ -1,0 +1,11 @@
+Oda Yönetim Kurulu Üyelerinin Görev ve Yetkileri
+Madde 27 — Oda Yönetim Kurulu Üyelerinin görev ve yetkileri şunlardır;
+a) Çevre Mühendisleri Odasını Yönetim Kurulu Başkanı temsil eder. Başkanın bulunmadığı zamanlarda İkinci Başkan, Başkan ve İkinci Başkanın bulunmadığı zamanlarda Sekreter Üye, Başkan, İkinci Başkan ve Sekreter Üyenin bulunmadığı zamanlarda Sayman Üye Odayı temsil eder. Gerektiğinde Odayı temsil yetkisi Yönetim Kurulu kararı ile seçilen üye ya da kurullara devredilebilir.
+b) Oda Başkanı; Odayı temsil etmek, Oda Yönetim Kurulunu, Danışma Kurulunu ve Oda Organlarını yönetmek ve Oda kurullarının Oda amaçları doğrultusunda düzenli olarak çalışmasını sağlamakla yetkili ve sorumludur. Odanın çıkardığı tüm yayınların sahibidir.
+Oda İkinci Başkanı; Oda Başkanı olmadığı zamanlarda Oda Başkanının görev ve yetkilerini sürdürmekle, Odayı temsil etmekle ve birimler arası koordinasyonu sağlamakla yetkili ve sorumludur.
+Sekreter Üye; Odanın sözcüsüdür. Oda işlerini Oda amaçlarına ve Oda Yönetim Kurulu kararlarına uygun olarak yürütmekle görevli ve sorumludur. Oda Yönetim Kurulu toplantılarının gündemini hazırlar ve Oda Yönetim Kurulu kararlarının uygulanmasında gerekli tüm önlemleri alır. Odanın yazışma işlemlerini yürütür ve imza eder. Tüm Oda örgütündeki üyelerin özlük işlerini yürütür. Odanın geçici ve sürekli personelinin görev amirliğini yapar.
+Oda Saymanı; Odanın mali işlerinin yürütülmesini, oda bütçesinin uygulanmasını, aylık olarak gönderilen şube bütçelerinin incelenmesini sağlar, gerekli önlemleri alır ve önerilerde bulunur.
+c) Oda Başkanı, İkinci Başkanı, Sekreter Üye ve Saymana Yönetim Kurulu kararı ile belirli bir miktara kadar harcama yetkisi verilebilir. Banka işlemlerinde Oda Yürütme Kurulu üyelerinden herhangi ikisinin imzasının bulunması gereklidir.
+ç) Oda Yönetim Kurulu bu maddenin (c) bendinde belirlenmiş yetkilerinin bir bölümünü, Yönetim Kurulunun diğer üyeleri ile Şube ve Temsilcilik Yönetim Kurullarına ve Temsilcilerine ve Oda çalışanlarına kendi denetim ve sorumluluğunda olmak üzere görev olarak verebilir.
+d) Oda Sekreter Üye ve Saymanı, yürütme görevlerinden dolayı Oda Yönetim Kuruluna karşı sorumludur.
+e) Oda evraklarında imza yetkisi Oda Yürütme Kurulu üyelerine aittir. Ancak bu yetki, Oda Yönetim Kurulu kararı ile belirli konularda kullanılmak üzere Oda organları üyelerine devredilebilir.

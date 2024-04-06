@@ -1,0 +1,2 @@
+Geçici Üyelik
+Madde 8 — Türkiye’de mesleklerini uygulamalarına yasal olarak izin verilen yabancı uyruklu çevre mühendisleri ya da denkliği Yükseköğretim Kurulunca kabul edilmiş bölümlerin lisans diplomasına sahip çevre mühendisleri Odaya geçici üye olarak kaydolmak zorundadırlar. Geçici üyelik çalışma izni süresi ile sınırlıdır. Geçici üyeler Oda asil üyelerinin bütün haklarına sahiptir ve sorumluluklarını taşır, ancak Oda Genel Kuruluna katılamaz ve Oda organlarında görev alamaz.

@@ -1,0 +1,2 @@
+Şube Mali İşleyişi
+Madde 63 — Şubelerin her türlü gelirleri Odaya aittir. Kendi adlarına makbuz bastıramaz ve para toplayamazlar. Yapacakları bütün tahsilatları Oda hesabına yatırırlar. Şube giderleri Oda Genel Kurulunca kabul edilen Şube bütçesine göre ayrılan ödenekten karşılanır. Şube Yönetim Kurulu, kendi bütçesine göre gerekli harcamalarda bulunur. Bütçe kalemleri arasında yüzde onu (%10) aşmamak üzere aktarım yapabilir.

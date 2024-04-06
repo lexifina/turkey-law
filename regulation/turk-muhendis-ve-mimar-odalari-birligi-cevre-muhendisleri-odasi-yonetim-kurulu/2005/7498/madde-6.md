@@ -1,0 +1,22 @@
+Odanın Amaçları
+Madde 6 — Oda; yurt ve dünya ölçeğinde, toplum ve kamu yararı doğrultusunda, çevre mühendisliği mesleği ve çevre mühendislerine ilişkin olarak başlıca amaçları şunlardır:
+a) Toplumsal açıdan;
+1.) Mesleğe ilişkin, ülke ve toplum yararı çerçevesinde önerilerde bulunmak ve çalışmalar yapmak. Çevre alanında, kentleşme ve sanayileşme süreçlerinde ve toplumsal alanı ilgilendiren üretim süreçlerinde toplum yararını ve kamusal çıkarları öncelikle ele alan politikaların hayata geçirilmesi için uğraşılarda bulunmak, görüş, rapor, belge oluşturmak, gerektiğinde hukuksal mücadele yollarını tesis etmek,
+2.) Mesleğin ve üyelerin değişen toplumsal ve ekonomik yapı içindeki konumlarını izlemek, değerlendirmek, bu temel üzerinde meslek-üye bazında düzenlemeler ve girişimler önermek ve/veya yapmak,
+3.) Çevre alanındaki gelişmeleri ülke yararına uygun bir şekilde yaygınlaştırmaya çalışmak, bunun için yurt içi ve dışı ilişkilerde bulunmak ve çalışmalar gerçekleştirmek,
+4.) Başta Oda üyeleri olmak üzere, emeğin hakkıyla değerlendirilmesi, insanca yaşanabilecek ortamların oluşturulması ve yaşam kalitesinin yükseltilmesi amacıyla çalışmalar yapmak,
+5.) Ülkemizde ve dünyada doğal varlıkların korunması için çevre mühendisliği bilimi ve etiği çerçevesinde çalışmalar yapmaktır.
+b) Meslek - toplum açısından;
+1.) TMMOB, bağlı odaları ile diğer yurt içi ve dışı meslek kuruluşları, kamu kurum ve kuruluşları, üniversiteler, demokratik kitle örgütleri ve diğerleri ile amaçları doğrultusunda ortak çalışmalar yapmak,
+2.) Çevre ile ilgili kanun, tüzük, yönetmelik, yönerge, tebliğ, standart, şartname ve diğerlerine ilişkin görüş vermek, kanuni düzenlemelerin hazırlanması ve uygulanması sürecinde çalışma yapmak ve bu doğrultuda ilgili kurumlarla işbirliği içinde bulunmak,
+3.) Çevre mühendisliği hizmetlerinin kanun, tüzük, yönetmelik, tebliğ, standartlar ve şartnameler açısından uygunluğunu denetlemek ve hizmet sürecinde meslektaşlar arasında haksız rekabeti önlemek ve buna ilişkin düzenlemelerin sağlanması yönünde çalışmalar yapmak,
+4.) Çevre mühendisliği eğitiminin ülke gereksinimine göre geliştirilmesini sağlamak için, bakanlıklar ve gerek yurt içindeki ve gerekse yurt dışındaki eğitim, öğretim ve araştırma kuruluşları ile ilişki kurmak ve ortak çalışmalar yapmak,
+5.) Ülkedeki çevre mühendisliği hizmetlerinin öz kaynaklara dayalı olarak yapılması doğrultusunda önerilerde bulunmak ve çalışmalar yapmak,
+c) Üye/ meslektaş açısından;
+1.) Çevre ve çevre mühendisliği konusundaki gelişmeleri tartışmaya açarak; kamuoyuna ve meslektaşların ilgisine ve bilgisine sunmak,
+2.) Üyelerin öğrenim sonrası gelişimleri ile ilgili çalışmalar yapmak, kurumsal ve uygulamaya yönelik olarak bilgi birikiminin artırılmasına katkıda bulunmak amacıyla yayın, öğretim, eğitim, proje, seminer, sempozyum, kongre ve benzeri çalışmalar yapmak ve çalışmalara katılmak,
+3.) Mesleğe ilişkin yayın, kitap, dergi, elektronik yayın, şartname, iç düzenleme ve standartların yayını ve satışı yoluyla üyelere aktarımını sağlamak, etkinlik ve benzeri üretimlerini süreli ve süresiz yayınlar ile çeşitli iletişim yollarıyla üyelere ve kamuoyuna duyurmak,
+4.) Çevre mühendisliği hizmetlerine ilişkin olarak, bu alanda faaliyet gösteren kişi ve kuruluşların kanuni düzenlemeler doğrultusunda çalışmalarını tescil etmek, denetlemek, izlemek ve buna ilişkin belge, ödül, uyarı, ceza ve benzeri iş ve işlemlerde bulunmak,
+5.) Mesleğin uygulanması sürecinde üyelerin karşılaşacakları kanundışı ve haksız her türlü davranışa karşı önlemler almak ve yargı yoluna başvurmak, taraf olmak, bilirkişilik,eksperlik, danışmanlık ve benzeri hizmetlerde bulunmak,
+6.) Çevre mühendislerinin çalışma olanaklarının arttırılması ve mesleki etkinliğin sağlanması amacıyla kamu kurum ve kuruluşları ile özel kuruluşlarla ilişki kurmak; ülkenin çevre mühendisliği hizmetlerine dair nitel ve nicel ihtiyaçlarını gözeterek, eğitim ve öğretim kurumlarına plan ve program önerilerinde bulunmak,
+7.) Sayılan amaçların gerçekleştirilmesi sürecinde ülke düzeyinde Şube, Bölge, İl ve İlçe Temsilcilikleri kurmak, temsilciler belirlemek, bilirkişiler ve mesleki denetim görevlileri belirlemek, çevre mühendisliğine ve Oda faaliyetlerine ilişkin araştırma merkezi, eğitim merkezi, laboratuar gibi teknik birimler ile kongre ve sempozyum düzenleme kurulu, oda yayın danışma kurulu gibi organlar oluşturmak, bilim danışmalar kurulu gibi akademik çalışma grupları tesis etmek, üyelere yönelik sosyal ve kültürel çalışmalar yapmak amacıyla kütüphane, müze, lokal gibi gerekli mekanlar oluşturmak.

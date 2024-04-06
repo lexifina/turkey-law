@@ -1,0 +1,2 @@
+Şube Genel Kurulunun Oda Yönetim Kurulunca Olağanüstü Toplanması
+Madde 60 — İstifa eden ya da çekilmiş sayılan Şube Yönetim Kurulu üyeliğine davet edilecek yedek üye kalmadığı durumda; Şube Genel Kurulu, Şube Yönetim Kurulu Başkanı ve Sekreteri, bunlar yoksa Oda Yönetim Kurulu tarafından olağanüstü toplantıya çağrılır. Şube Olağanüstü Genel Kurul toplantısında yeniden seçim yapılır ve yeni seçilenler ilk Olağan Genel Kurul toplantısına kadar görev yapar.

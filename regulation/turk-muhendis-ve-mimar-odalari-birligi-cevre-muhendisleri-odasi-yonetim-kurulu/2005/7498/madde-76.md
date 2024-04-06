@@ -1,0 +1,2 @@
+İl ve İlçe Temsilcilikleri Yönetim Kurulu Oluşumu
+Madde 76 — İl ve İlçe Temsilciliği Yönetim Kurulu en fazla yedi (7) en az üç (3) tek sayıda üyeden oluşur. Ancak Oda Yönetim Kurulu tarafından gerekli görülmesi halinde bir (1) üye temsilci olarak atanabilir. İl ve ilçe Temsilciliği Yönetim Kurulu atamasını takiben en geç 15 gün içinde toplanarak, kendi aralarından bir (1) Temsilci, bir (1) Sekreter ve bir (1) Sayman seçerek yürütme kurulunu oluşturur, eğer bir Şubeye bağlı ise Şube Yönetim Kuruluna, değilse Oda Yönetim Kuruluna bildirir.

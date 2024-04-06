@@ -1,0 +1,2 @@
+Oda Onur Kurulu Oluşumu
+Madde 28 — Oda Onur Kurulu Oda Genel Kurulu tarafından iki (2) yıl süre ile seçilir, beş (5) asil ve beş (5) yedek üyeden oluşur. Oda Onur Kurulu üyeleri Oda Yönetim Kurulu, Şube Yönetim Kurulu ve Oda Denetleme Kurulu asil ve yedek üyelikleri içerisinde yer alamazlar. Oda Onur Kuruluna aday olacak üyelerin daha önce TMMOB ve/veya Oda Onur Kurulu tarafından disiplin cezası almamış olmaları zorunludur.

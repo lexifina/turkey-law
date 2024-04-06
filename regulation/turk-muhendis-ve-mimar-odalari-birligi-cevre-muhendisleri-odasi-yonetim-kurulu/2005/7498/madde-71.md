@@ -1,0 +1,2 @@
+Bölge Temsilciliği Yönetim Kurulunun Görevden Alınması
+Madde 71 — Bölge Temsilciliği Yönetim Kurulu Oda işleyişine ve Oda çalışma ilkelerine aykırı bir tutum aldığında ya da Bölge Temsilciliğine kayıtlı üyelerin üçte iki (2/3) sinin Bölge Temsilciliği Yönetim Kurulunun görevden alınması yönündeki Oda Yönetim Kuruluna yaptıkları yazılı başvuru ve bu başvurunun Oda Danışma Kurulu ve sonrasında Oda Yönetim Kurulunda değerlendirilmesi ile Oda Yönetim Kurulunca görevden alınabilir.

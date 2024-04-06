@@ -1,0 +1,2 @@
+İl ve İlçe Temsilcilikleri Yönetim Kurulunun Görevden Alınması
+Madde 78 — İl ve İlçe Temsilciliği Yönetim Kurulu Oda işleyişine ve Oda çalışma ilkelerine aykırı bir tutum aldığında ya da İl ve İlçe Temsilciliğine kayıtlı üyelerin üçte iki (2/3) sinin İl ve İlçe Temsilciliği Yönetim Kurulunun görevden alınması yönündeki Oda Yönetim Kuruluna yaptıkları yazılı başvuru ve bu başvurunun Oda Danışma Kurulu ve sonrasında Oda Yönetim Kurulunda değerlendirilmesi ile Oda Yönetim Kurulunca görevden alınabilir.

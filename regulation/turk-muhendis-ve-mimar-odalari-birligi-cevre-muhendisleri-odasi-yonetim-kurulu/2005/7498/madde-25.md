@@ -1,0 +1,2 @@
+Yedek Yönetim Kurulu Üyesi Kalmaması
+Madde 25 — İstifa eden ya da çekilmiş sayılan Oda Yönetim Kurulu üyeliğine davet edilecek yedek üye kalmadığı durumda, Oda Yönetim Kurulu, Başkan ve İkinci Başkan, bunlar yoksa Birlik Yönetim Kurulu tarafından Olağanüstü Oda Genel Kurulu toplantısı çağrısı yapılır. Olağanüstü Oda Genel Kurul toplantısında yeniden seçim yapılır ve seçilen Oda Yönetim Kurulu ilk Olağan Genel Kurul toplantısına kadar görev yapar.

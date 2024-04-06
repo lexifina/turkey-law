@@ -1,0 +1,2 @@
+Bölge Temsilciliği Yönetim Kurulunun Oluşumu
+Madde 69 — Bölge Temsilciliği, o bölgede bulunan üyelerin eğilim seçimi ve Oda Yönetim Kurulunun ataması ile belirlenen beş (5) veya yedi (7) üyeden oluşan Bölge Temsilciliği Yönetim Kurulu tarafından yönetilir. Oda Yönetim Kurulu atamasını takiben yapılan ilk Bölge Temsilcilik Yönetim Kurulu toplantısında bir (1) başkan, bir (1) sekreter üye ve bir (1) sayman üyeden oluşan yürütme kurulu seçilir.
