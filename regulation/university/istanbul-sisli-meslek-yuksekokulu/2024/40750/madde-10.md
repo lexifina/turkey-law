@@ -1,0 +1,3 @@
+Yönetim Kurulu
+MADDE 10- (1) Yönetim Kurulu; Müdürün başkanlığında, Merkezin faaliyet alanları ile ilgili çalışmaları bulunan Yüksekokulun tam zamanlı öğretim elemanları arasından Müdürün önerisi üzerine Yüksekokul Müdürü tarafından üç yıllık süre için görevlendirilen dört üye olmak üzere toplam beş üyeden oluşur. Süresi biten üyeler tekrar görevlendirilebilir. Görev süresinin bitiminden önce ayrılan ya da altı aydan daha fazla Yüksekokul dışında görevlendirilenlerin yerine kalan süreyi tamamlamak üzere yeni üye görevlendirilir.
+(2) Yönetim Kurulu, Müdürün çağrısı üzerine yılda en az dört kez üye tam sayısının salt çoğunluğuyla toplanır ve kararlar oy çokluğuyla alınır.
