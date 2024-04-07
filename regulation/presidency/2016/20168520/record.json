@@ -1,0 +1,26 @@
+{
+  "id": "presidency-regulation-20168520",
+  "number": "20168520",
+  "kind": "regulation",
+  "issuer": "presidency",
+  "title": "SINIR YÖNETİMİ ALANINDA KURUMLARARASI İŞBİRLİĞİ VE KOORDİNASYON HAKKINDA YÖNETMELİK",
+  "published": "2016-03-17",
+  "enacted": "2016-02-01",
+  "gazette_number": "29656",
+  "in_force": "2024-04-07",
+  "in_force_basis": "Source commencement table, \"Yürürlüğe Giriş Tarihi\": 7/4/2024; source row: 6/4/2024 | 8332 | 2, 3, 4, 9, 10, 15, 16, 17, 18 | 7/4/2024 | ",
+  "history": "current-only",
+  "version_label": "oldest version available",
+  "first_law": null,
+  "source": "https://www.mevzuat.gov.tr/anasayfa/MevzuatFihristDetayIframe?MevzuatNo=20168520&MevzuatTur=21&MevzuatTertip=5",
+  "source_sha256": "c26d671f9421894f85d70689a5afbb86424e6621293fbac278f27b3a8da03e99",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  },
+  "missing_components": [],
+  "text_layout": "article-files",
+  "source_links": [],
+  "completeness": "html-text-complete"
+}
