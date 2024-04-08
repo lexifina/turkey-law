@@ -1,0 +1,26 @@
+{
+  "number": "12",
+  "number_as_published": "12",
+  "year": 2024,
+  "title": "İzmir Kıyı Ege Belediyeler Birliği için bir asil ile bir yedek üye seçimi yapılması",
+  "decision_date": "2024-04-08",
+  "source": "https://www.mollakoy.bel.tr/meclis-kararlari/sayfa/6/",
+  "official_document": "https://www.mollakoy.bel.tr/karar/-izmir-kiyi-ege-belediyeler-birligi-icin-bir-asil-ile-bir-yedek-uye-secimi-yapilmasi/68/",
+  "source_sha256": "800d972900bb78c98dec790e68f83bb6f0036b394dd93ff6090d04545c4c0399",
+  "issuer": "Mollaköy Belediye Meclisi",
+  "history_type": "metadata",
+  "text_status": "metadata-only: listing fields as published; complete decision text is in the linked official document, not transcribed",
+  "in_force": "2024-04-08",
+  "in_force_basis": "Decision date as printed in the official council listing: meclisi 08.04.2024; adoption date of the council decision; legal commencement not asserted",
+  "missing": [
+    "complete official decision text",
+    "official annexes"
+  ],
+  "law_text_complete": false,
+  "privacy_withheld": false,
+  "official_page": "https://www.mollakoy.bel.tr/karar/-izmir-kiyi-ege-belediyeler-birligi-icin-bir-asil-ile-bir-yedek-uye-secimi-yapilmasi/68/",
+  "listing_label": "İzmir Kıyı Ege Belediyeler Birliği için bir asil ile bir yedek üye seçimi yapılması",
+  "record_scope": "one council decision (number, date, subject as published)",
+  "date_read_from": "meeting date in the decision text (the item's Karar Tarihi field carries a clock time)",
+  "document_note": "the decision text is on the official item page; not transcribed here"
+}
