@@ -1,0 +1,24 @@
+{
+  "number": "44",
+  "number_as_published": "44",
+  "year": 2024,
+  "title": "Tarihi Kentler Birliği Meclisine Üye Seçilmesi",
+  "decision_date": "2024-04-08",
+  "source": "https://www.battalgazi.bel.tr/wp-json/wp/v2/posts?categories=88&per_page=100&page=6&_fields=id,date,link,title,content",
+  "official_document": "https://www.battalgazi.bel.tr/2024/04/08/tarihi-kentler-birligi-meclisine-uye-secilmesi/",
+  "source_sha256": "9ea1cf08226cbdf964f8315bbb29131440ff01e17c98ea52f3146f2ff1225b33",
+  "issuer": "Battalgazi Belediye Meclisi",
+  "history_type": "metadata",
+  "text_status": "metadata-only: listing fields as published; complete decision text is in the linked official document, not transcribed",
+  "in_force": "2024-04-08",
+  "in_force_basis": "Decision date as printed in the official council listing: 08.04.2024 (Karar Tarihi on the official decision page); adoption date of the council decision; legal commencement not asserted",
+  "missing": [
+    "complete official decision text",
+    "official annexes"
+  ],
+  "law_text_complete": false,
+  "privacy_withheld": false,
+  "official_page": "https://www.battalgazi.bel.tr/2024/04/08/tarihi-kentler-birligi-meclisine-uye-secilmesi/",
+  "post_date": "2024-04-08T16:00:44",
+  "record_scope": "one council decision (official decision page)"
+}
