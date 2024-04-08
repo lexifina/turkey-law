@@ -1,0 +1,23 @@
+{
+  "number": "29",
+  "number_as_published": "29",
+  "year": 2024,
+  "title": "council decision",
+  "decision_date": "2024-04-08",
+  "source": "https://www.bakirkoy.bel.tr/meclis-kararlari/15",
+  "official_document": "https://www.bakirkoy.bel.tr/storage/app/media/meclis%20kararlar%C4%B1/29-meclis-1-baskanvekili-secimi-08042024.pdf",
+  "source_sha256": "f094dc11960e46961c16b057676cef50fc70264e2fee51a4e7719fef9e7fb9c1",
+  "issuer": "Bakırköy Belediye Meclisi",
+  "history_type": "metadata",
+  "text_status": "metadata-only: subject appears to concern individual persons; official link only",
+  "in_force": "2024-04-08",
+  "in_force_basis": "Decision date as printed in the official council listing: 08 Nisan 2024 (Tarih column of the official list); adoption date of the council decision; legal commencement not asserted",
+  "missing": [
+    "complete official decision text",
+    "official annexes"
+  ],
+  "law_text_complete": false,
+  "privacy_withheld": true,
+  "record_scope": "one council decision (number, date and summary as listed; the decision is the linked official PDF)",
+  "official_page": "https://www.bakirkoy.bel.tr/meclis-kararlari"
+}
