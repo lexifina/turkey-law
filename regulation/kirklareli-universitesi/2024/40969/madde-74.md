@@ -1,0 +1,3 @@
+Onur belgesi verilmesi
+MADDE 74- (1) Lisansüstü eğitimleri sırasında yüksek lisansta en az bir, doktorada en az iki adet AHCI, SSCI, SCI, SCI-Expanded ve Üniversitelerarası Kurul tarafından belirlenen alan indeksleri kapsamındaki dergilerde yayımlanmış özgün araştırma makalesi olan lisansüstü öğrencilerine, bu yayımlarını enstitüye bildirmeleri ve talep etmeleri durumunda onur belgesi verilir.
+(2) Onur belgesi verilebilmesi için söz konusu yayınların, öğrencinin lisansüstü tez konusundan üretilmiş olması, öğrencinin birinci yazar olması ve tüm makalelerde adres olarak Üniversitenin gösterilmesi şartları aranır.

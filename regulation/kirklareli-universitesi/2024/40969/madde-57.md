@@ -1,0 +1,9 @@
+Tez savunma sınavı
+MADDE 57- (1) Tez savunma sınavı, tez çalışmasının sunulması ve bunu izleyen soru-cevap bölümünden oluşur. Tez savunma sınavı; öğretim elemanları, lisansüstü öğrenciler ve alanın uzmanlarından oluşan dinleyicilerin katılımına açık ortamlarda gerçekleştirilir.
+(2) Tez savunma sınavının tamamlanmasından sonra jüri dinleyicilere kapalı olarak tez hakkında salt çoğunlukla kabul, ret veya düzeltme kararı verir. Bu karar ABD/ASD başkanlığınca, tez sınavını izleyen üç gün içinde enstitüye tutanakla bildirilir.
+(3) Tezi kabul edilen öğrenci başarılı olarak değerlendirilir.
+(4) Tezi başarısız bulunarak reddedilen öğrencinin programla ilişiği kesilir.
+(5) Tez savunma sınavına geçerli mazereti nedeniyle katılamayan öğrenci, mazeretini gösterir belge ile birlikte mazeretinin bitiş tarihinden itibaren bir hafta içinde enstitüye başvurur. EYK tarafından mazeretin kabulü halinde sınavın bir ay içinde yapılması şartıyla yeni bir sınav tarihi belirlenir. Herhangi bir mazeret belirtmeden sınava katılmayan öğrencinin programla ilişiği kesilir.
+(6) Tezi için düzeltme kararı verilen öğrenci, en geç altı ay içinde gerekli düzeltmeleri yaparak tezi danışmanına tekrar sunar. Danışmanın tezin savunulabilir olduğuna ilişkin görüşüyle birlikte tez ABD/ASD başkanlığı aracılığıyla enstitüye gönderilir.
+(7) Azami süreler içinde tez savunma sınavına girerek tezi hakkında düzeltme kararı verilen öğrenciye en fazla altı ay ek süre verilir. Bu süre azami öğrenim süresinden sayılmaz.
+(8) Öğrenci, düzelttiği tezini 56 ncı maddede belirtilen usullerde aynı jüri önünde yeniden savunur. Bu savunmaya katılmayan, savunma sınavı öncesinde gerekli düzeltmeleri yapmayarak sorumluluğunu yerine getirmeyen veya savunma sonunda başarısız bulunarak tezi kabul edilmeyen öğrencinin programla ilişiği kesilir.

@@ -1,0 +1,8 @@
+Tezsiz yüksek lisans programlarına başvuru ve değerlendirme şartları
+MADDE 12- (1) Adayların, ABD/ASD başkanlığı tarafından belirlenen alanların birinden lisans diplomasına sahip olmaları gerekir.
+(2) Tezsiz yüksek lisans programına başvuran adayların yerleştirme sıralaması lisans GANO’suna göre yapılır. Ancak başvuru kılavuzunda belirtilmesi durumunda ilgili ABD/ASD tarafından bilim ve mülakat sınavları yapılabilir. Bu durumda yerleştirme puanı alt sınırı, ilgili ABD/ASD tarafından başvuru kılavuzunda ilan edilir.
+a) Bilim ve mülakat sınavları yapılması durumunda tezsiz yüksek lisans programına başvuran adayların yerleştirme puanının hesaplanmasında; GANO’nun %60’ı ile bilim ve mülakat sınav puanları ortalamasının %40’ı dikkate alınır.
+b) Güzel sanatlar ve konservatuvar ABD/ASD mezunlarının bu ABD/ASD programlarına başvurularında yerleştirme puanının hesaplanması mülakat puanının %70’i ve GANO’nun %30’u dikkate alınarak yapılır.
+c) Bilim ve mülakat sınav puanları ortalaması 100 tam puan üzerinden 50 puanın altında olan adaylar başarısız kabul edilerek değerlendirme dışı bırakılır.
+ç) Adaylar bu değerlendirme kriterleri doğrultusunda hesaplanan yerleştirme puanına göre (en yüksek puandan itibaren sıralanarak) kontenjan dâhilinde ilgili programa yerleştirilir.
+(3) Tezsiz yüksek lisans programı yerleştirme sıralamasına giren asıl ve yedek adaylar enstitü internet sayfasında ilan edilir. Asıl listede yer alan adaylardan kayıt yaptırmayanların yerine, ilan edilen gün ve saatte varsa yedek listeden başarı sıralamasına göre kayıt alınır. Yerleştirme ve kayıt sürecine ilişkin ilanları takip etme sorumluluğu adaylara aittir.

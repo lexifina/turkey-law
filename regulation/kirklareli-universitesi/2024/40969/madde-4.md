@@ -1,0 +1,23 @@
+Tanımlar
+MADDE 4- (1) Bu Yönetmelikte geçen;
+a) ABD/ASD: Enstitülerde programı bulunan anabilim/anasanat dalını,
+b) ABD/ASD kurulu: ABD/ASD başkanlarından oluşan kurulu veya ABD/ASD’nin, yalnız bir bilim veya sanat dalını kapsadığı durumlarda bütün öğretim üyelerinden ve öğretim görevlilerinden oluşan kurulu,
+c) AKTS: Avrupa Kredi Transfer Sistemini,
+ç) ALES: Akademik Personel ve Lisansüstü Eğitimi Giriş Sınavını,
+d) Birim karar süreci: Öğrencilerin/öğretim elemanlarının/ABD/ASD kurulu önerilerine bağlı EYK veya enstitü kurulu karar sürecini,
+e) Danışman: Lisansüstü programlara kayıtlı öğrenciye ders, proje ve tez dönemlerinde rehberlik etmek üzere ABD/ASD kurulu önerisi ile EYK tarafından atanan; ders seçimi, bitirme projesi, tez hazırlama süreçleri konularında bilimsel danışmanlık yapan öğretim elemanını,
+f) Enstitü: Üniversiteye bağlı olarak lisansüstü eğitim-öğretim yapan enstitüleri,
+g) Enstitü Kurulu: Enstitü müdürü başkanlığında, enstitü müdür yardımcıları ve enstitü ABD/ASD başkanlarından oluşan kurulu,
+ğ) Enstitü Yönetim Kurulu (EYK): Enstitü müdürünün başkanlığında, enstitü müdür yardımcıları ve müdürün önereceği altı aday arasından enstitü kurulunca seçilecek üç öğretim üyesinden oluşan kurulu,
+h) GANO: Genel ağırlıklı not ortalamasını,
+ı) İntihal: Başkalarının fikirlerini, metotlarını, verilerini veya eserlerini bilimsel etik kurallarına uygun biçimde atıf yapmadan kısmen veya tamamen kendi eseri gibi göstermeyi,
+i) Lisansüstü program: Tezli ve tezsiz yüksek lisans, doktora ve sanatta yeterlik programını,
+j) Öğretim elemanı: Üniversite kadrosunda yer alan öğretim üyesi ve en az doktora derecesine sahip araştırma görevlisi ve öğretim görevlisini,
+k) ÖSYM: Ölçme, Seçme ve Yerleştirme Merkezi Başkanlığını,
+l) Senato: Kırklareli Üniversitesi Senatosunu,
+m) TÖMER: Kırklareli Üniversitesi Türkçe Öğretim Uygulama ve Araştırma Merkezini,
+n) TUS: Tıpta Uzmanlık Eğitimi Giriş Sınavını,
+o) Üniversite: Kırklareli Üniversitesini,
+ö) Yabancı dil puanı: Yükseköğretim Kurulu tarafından kabul edilen ve ÖSYM’nin yaptığı merkezî yabancı dil sınavları veya ÖSYM tarafından eşdeğerliği kabul edilen uluslararası yabancı dil sınavlarından alınan puanı,
+p) YÖK: Yükseköğretim Kurulunu,
+ifade eder.

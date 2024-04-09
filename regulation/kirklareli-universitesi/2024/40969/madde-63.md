@@ -1,0 +1,4 @@
+Tez/sanat çalışması izleme komitesi
+MADDE 63- (1) Yeterlik sınavında başarılı bulunan öğrenci için tez/sanat çalışması önerisini değerlendirmek, tez/sanat çalışmasına rehberlik etmek, yönlendirmek görevini üstlenen biri tez danışmanı olmak üzere ilgili ABD/ASD başkanlığının önerisi ve EYK onayı ile yeterlik sınavını takip eden bir ay içinde bir tez/sanat çalışması izleme komitesi oluşturulur.
+(2) Tez/sanat çalışması izleme komitesi üç öğretim üyesinden oluşur. Komitede tez danışmanından başka ilgili ABD/ASD içinden ve dışından birer üye yer alır. İkinci tez danışmanının atanması durumunda, ikinci tez danışmanı dilerse oy hakkı olmaksızın komite toplantılarına katılabilir.
+(3) Tez/sanat çalışması izleme komitesinin kurulmasından sonraki dönemlerde, tez danışmanının ve ABD/ASD başkanlığının önerisi ve EYK onayı ile üyelerde değişiklik yapılabilir.
