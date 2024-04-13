@@ -1,0 +1,18 @@
+{
+  "issuer": "Mersin Büyükşehir Belediye Meclisi",
+  "number": "122",
+  "decision_date": "2024-04-13",
+  "title": "-MEC. KAR. (GÖRÜNTÜ, SES KAYDI, CANLI YAYIN ÖNERGE)",
+  "listed_as": "122-MEC. KAR. (GÖRÜNTÜ, SES KAYDI, CANLI YAYIN ÖNERGE)",
+  "subject_note": "subject as the meeting page lists it (the register shortens some long subjects)",
+  "official_document": "https://www.mersin.bel.tr/dokumanlar/122-mec-kar-goruntu-ses-kaydi-canli-yayin-onerge-1937230069",
+  "source_listing": "https://www.mersin.bel.tr/dokumanlar/13-nisan-2024-meclis-kararlari-1579053361",
+  "listing_sha256": "7abec56cefc554cf3b88da515a037d6fa70945c58571f98e72163629b091b5a0",
+  "meeting_title": "13 NİSAN 2024 MECLİS KARARLARI",
+  "history_type": "metadata-only",
+  "capture_mode": "metadata-only",
+  "text_status": "metadata-only; official decision page linked, text not transcribed",
+  "date_basis": "meeting date in the official meeting page title (decision date of the session)",
+  "commencement_established": false,
+  "privacy_withheld": false
+}
