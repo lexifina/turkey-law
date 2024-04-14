@@ -1,0 +1,3 @@
+Müdür
+MADDE 8 – (Değişik:RG-14/6/2020-31155)
+(1) Müdür (Başhekim), (Değişik ibare:RG-7/10/2023-32332) Üniversite öğretim üyeleri arasından Rektör tarafından iki yıl süre ile görevlendirilir. Süresi biten Müdür yeniden görevlendirilebilir. Müdür, (Değişik ibare:RG-7/10/2023-32332) Üniversitede tam gün çalışan öğretim üyeleri arasından iki kişiyi müdür yardımcısı (başhekim yardımcısı) olarak görevlendirilmek üzere Rektörün onayına sunar. Müdür görevi başında bulunmadığı zamanlarda, yerine belirlediği müdür yardımcılarından biri vekâlet eder. Vekâlet süresi altı ayı geçemez. Müdürün görev süresinin dolması veya herhangi bir sebeple görevinden ayrılması halinde müdür yardımcılarının da görevi kendiliğinden sona erer.
