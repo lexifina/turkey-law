@@ -1,0 +1,22 @@
+{
+  "number": "47",
+  "number_as_published": "2024/47",
+  "year": 2024,
+  "title": "İmar Komisyonu Üyeleri seçimi",
+  "decision_date": "2024-04-15",
+  "source": "https://eyupsultan.bel.tr/tr/main/pages/2024-nisan-ayi-meclis-kararlari/2523",
+  "official_document": "https://eyupsultan.bel.tr/tr/main/pages/2024-47/2533",
+  "source_sha256": "e57427d8df8c9b4052cb03bf132737dd1b1eb7412ee5bc699dc9077b1fbf536b",
+  "issuer": "Eyüpsultan Belediye Meclisi",
+  "history_type": "metadata",
+  "text_status": "metadata-only: listing fields as published; complete decision text is in the linked official document, not transcribed",
+  "in_force": "2024-04-15",
+  "in_force_basis": "Decision date as printed in the official council listing: 15.04.2024 (meeting date at the start of the decision page); adoption date of the council decision; legal commencement not asserted",
+  "missing": [
+    "complete official decision text",
+    "official annexes"
+  ],
+  "law_text_complete": false,
+  "privacy_withheld": false,
+  "decision_page_sha256": "e0c93fb5fda5d90f44a96b5e5e26870e8e92d1b7ae0cfa5b442a093002e7da1a"
+}
