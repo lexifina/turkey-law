@@ -1,0 +1,21 @@
+{
+  "record_type": "parliament-written-question",
+  "term": 28,
+  "legislative_year": 2,
+  "esas_no": "7/11105",
+  "submitted": "2024-04-15",
+  "submitted_as": "Başkanlığa geliş tarihi",
+  "mp": "Mahmut TANAL",
+  "province": "Şanlıurfa",
+  "summary": "Türk Kızılay Derneğine yönelik gerçekleştirilen denetimlere ilişkin",
+  "status": "Cevaplandı",
+  "status_as_of": "2026-11-16",
+  "official_record": "https://www.tbmm.gov.tr/Denetim/Yazili-Soru-Onergesi-Detay/9fbb011f-37e9-4ad6-80c8-018ee5a2e2e6",
+  "source": "https://tbmm.gov.tr/Denetim/YaziliSoruOnergesiTable",
+  "source_form": "https://tbmm.gov.tr/Denetim/Yazili-Soru-Onergeleri",
+  "source_sha256": "075d9e44f56c7c4246bcad94bc1650d7cf70e8714f13f2d1743f29937bcb7268",
+  "in_force": "2024-04-15",
+  "in_force_basis": "Date the question reached the Speaker (Başkanlığa geliş tarihi) in the official TBMM written-question record; parliamentary oversight record, not law",
+  "history_type": "metadata",
+  "text_status": "metadata-only: question text, addressee and answers are in the linked official record (PDFs on cdn.tbmm.gov.tr); not transcribed here"
+}
