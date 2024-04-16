@@ -1,0 +1,2 @@
+Notların açıklanması ve maddi hata itirazı
+MADDE 18 – (1) Notların açıklanması ve maddi hata itirazı konusunda İstanbul Bilgi Üniversitesi Lisans ve Önlisans Öğretim ve Sınav Yönetmeliğinin notların açıklanması ve maddi hata itirazına ilişkin hükümleri uygulanır. Ancak, anılan yönetmelikle dekanlıklara verilen işler enstitü müdürü, fakülte yönetim kurullarına verilen işler enstitü yönetim kurulu tarafından yapılır.

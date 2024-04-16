@@ -1,0 +1,4 @@
+Tezsiz yüksek lisansta başarı denetimi
+MADDE 31 – (1) (Değişik:RG-19/9/2019-30893) Öğreniminin herhangi bir yarıyılı sonunda GNO’su 2.80’in altında olan öğrenciler izleyen yarıyıl boyunca sınamalı öğrenci sayılır. Öğrencinin sınamalı durumu kayıt sayfasında gösterilir. Sınamalı öğrenci, takip eden yarıyılda GNO’sunu 2.80’e yükseltmek zorundadır.
+(2) GNO’su 2.80’in altında olan öğrenciler, izleyen yarıyıl veya yarıyıllarda, “F” aldıkları dersler yanında “C+” aldıkları dersleri de notlarını yükseltmek amacıyla tekrarlayabilirler. Tekrarlanan derslerde alınan son ders başarı notu geçerli olur.
+(3) Not yükseltmek için alınabilecek derslerin açılmaması nedeniyle öğrencinin ders tekrarı yapamadığı hallerde, program direktörünün uygun görüşü üzerine enstitü yönetim kurulu ders tekrarının başka derslerle yapılmasına izin verebilir.

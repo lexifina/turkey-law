@@ -1,0 +1,4 @@
+Doktorada başarı denetimi
+MADDE 37 – (1) (Değişik:RG-4/12/2017-30260) Öğreniminin herhangi bir yarıyılı sonunda genel not ortalaması 3.20’nin altında olan doktora öğrencisi, izleyen yarıyıl boyunca sınamalı öğrenci sayılır. Öğrencinin sınamalı durumu kayıt sayfasında gösterilir. Sınamalı öğrenciler yeterlik sınavına giremezler, tez önerisi yapamazlar ve tez kısmına başlayamazlar.
+(2) Sınamalı öğrenciler, izleyen yarıyıl veya yarıyıllarda, “F” aldıkları dersler yanında “B-” aldıkları dersleri de notlarını yükseltmek amacıyla tekrarlayabilirler. Tekrarlanan derslerde alınan son ders başarı notu geçerli olur.
+(3) Not yükseltmek için alınabilecek derslerin açılmaması nedeniyle öğrencinin ders tekrarı yapamadığı hallerde, program direktörünün uygun görüşü üzerine Enstitü Yönetim Kurulu ders tekrarının başka derslerle yapılmasına izin verebilir.

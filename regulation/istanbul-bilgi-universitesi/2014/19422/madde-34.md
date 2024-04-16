@@ -1,0 +1,4 @@
+Diploma için gerekli işlemler
+MADDE 34 – (1) Tüm koşulları sağlayan öğrenci, projesinin veya nihai proje raporunun öngörülen şekil kurallarına uygun, enstitü yönetim kurulu tarafından en az bir nüsha olmak üzere belirlenen sayıda nüshası ile enstitü yönetim kurulu tarafından belirlenen şekildeki bir elektronik kopyasını ve istenen diğer belgeleri, proje değerlendirmesini veya yapılmışsa yeterlik sınavını izleyen bir ay içinde enstitüye teslim eder. Diplomanın hazırlanması için istenecek belgeler Öğrenci İşleri Müdürlüğünün görüşü alınarak enstitü yönetim kurulu kararıyla belirlenir.
+(2) (Değişik:RG-4/12/2017-30260) Proje veya nihai proje raporu nüshaları ile gerekli diğer belgeleri teslim eden öğrencinin diploması, enstitü yönetim kurulunun mezuniyet onay kararı üzerine Kayıt İşleri Müdürlüğü tarafından hazırlanır ve öğrenciye teslim edilir.
+(3) (Mülga:RG-19/9/2019-30893)

@@ -1,0 +1,2 @@
+Diplomalarda bulunacak hususlar
+MADDE 21 – (1) İstanbul Bilgi Üniversitesinde bir lisansüstü programı bu Yönetmeliğin ilgili hükümlerine uygun olarak tamamlayan öğrencilere; öğrenim görmüş oldukları enstitü anabilim dalında, bitirdikleri programın niteliğine göre yüksek lisans veya doktora diploması verilir. Diploma üzerinde Üniversitenin adı, öğrencinin adı ve soyadı, izlemiş olduğu enstitü anabilim dalındaki programın onaylanmış adı bulunur. Diplomalarda bulunacak diğer hususlar ile diplomaların şekli Akademik Kurulun önerisi üzerine Mütevelli Heyet tarafından belirlenir.

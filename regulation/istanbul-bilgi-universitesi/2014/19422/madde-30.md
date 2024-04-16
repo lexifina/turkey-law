@@ -1,0 +1,9 @@
+Tezsiz yüksek lisansta ders ve kredi yükü
+MADDE 30 – (1) (Değişik:RG-4/12/2017-30260) Tezsiz yüksek lisans programının ders kısmı AKTS kredisi toplamı en az 60 olan en az on dersten oluşur. Dönem projesinin AKTS kredisi en az 15 olacak şekilde belirlenir. Ancak ders ve proje kısmının toplam AKTS kredisi 90’ın altında olamaz. Program açılırken veya ders programları karara bağlanırken daha yüksek ders ve/veya kredi yükü öngörülebilir.
+(2) Proje dersi başarısız “F” ve başarılı “P” olarak değerlendirilir ve bu not, ortalamaya katılmaz.
+(3) Tezsiz yüksek lisans programına kayıtlı öğrenciler, AKTS kredisi yirmidördü (24) aşmamak üzere en fazla üç (3) dersi, lisans öğrenimi sırasında alınmamış olması koşuluyla lisans derslerinden veya Üniversitenin diğer lisansüstü programlarından seçebilirler.
+(4) Enstitü yönetim kurulu, gerekli olan hallerde, belirli bir öğrencinin lisans programlarından ders almasını ilgili program direktörünün veya öğrencinin danışmanının başvurusu üzerine zorunlu kılabilir.
+(5) Enstitü kurulu, gerekli olan hallerde, belirli nitelikteki öğrencilerin veya belirli bir programın öğrencilerinin Akademik Kurulca karara bağlanan ders programı dışında lisans programlarından ders almalarını ilgili program direktörünün görüşünü alarak zorunlu kılabilir.
+(6) Lisans programından ders alınmasının zorunlu kılındığı hallerde, lisans programlarından alınacak ders sayısı üçü (3), AKTS kredisi ise yirmidördü (24) aşamaz.
+(7) Lisans programlarından alınan derslerin kredi sayıları, yüksek lisans programı için de geçerlidir; ancak, bu derslerde devam, sınav ve başarı hususlarında bu Yönetmeliğin hükümleri uygulanır.
+(8) Öğrencinin gerekçeli başvurusu ve atanmışsa proje danışmanının, aksi halde program direktörünün olumlu görüşü üzerine enstitü yönetim kurulu tarafından diğer yükseköğretim kurumlarının yüksek lisans programlarından ders alınmasına ve bu derslerin ve kredilerinin ders ve kredi toplamına dahil edilmesine karar verebilir.

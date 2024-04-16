@@ -1,0 +1,7 @@
+Lisansüstü programlara öğrenci kabulü
+MADDE 10 – (1) Lisansüstü programlara öğrenci kabulü aşağıdaki usul ve esaslarla yürütülür:
+a) Adaylar, kabul başvurularını ilan edilen tarihlerde enstitüye veya ilanda öngörülen hallerde ilgili program direktörlerine yaparlar. Enstitü, öngörülenler dışındaki makam veya kişilere iletilen başvurular ile süresi geçtikten sonra yapılan başvuruları değerlendirmeye almayabilir.
+b) Başvuru için, istenen belgelerin asıllarının ibrazı ile istenen sayıda onaylı nüshasının teslimi gerekir. Gerekli hallerde, nüshalar başvuruyu kabule yetkili makam veya kişi tarafından onaylanabilir. Başvuru evrakı, adaya iade edilmez ve enstitü veya belirleyeceği makam tarafından saklanır.
+c) (Değişik:RG-4/12/2017-30260) Enstitü müdürü başvuruları değerlendirmek ve öngörülmüşse mülakat ve/veya yazılı sınav yapmak üzere ilgili program direktörünü görevlendirebileceği gibi, biri program direktörü olmak üzere en az iki öğretim elemanından oluşan bir Değerlendirme Komisyonu da görevlendirilebilir.
+ç) (Değişik:RG-4/12/2017-30260) Başvurular adayların başvuru dosyaları, varsa sınav ve mülakat sonuçları, lisans ve/veya yüksek lisans notları, varsa bilimsel çalışmaları ve ALES, GMAT, GRE veya diğer değerleme puanları göz önünde tutularak karara bağlanır ve sonuçlar tüm belgelerle birlikte enstitü müdürlüğüne bildirilir.
+d) (Değişik:RG-19/9/2019-30893) Sonuçlar, anabilim dalı başkanı veya program direktörü tarafından adaylara başvurularında belirttikleri elektronik posta adresine gönderilerek duyurulur.

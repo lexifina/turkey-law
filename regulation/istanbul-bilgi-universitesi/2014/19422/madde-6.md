@@ -1,0 +1,3 @@
+Öğrenim bedeli
+MADDE 6 – (1) Lisansüstü eğitim-öğretim bedellidir. Eğitim-öğretim bedelleri, ek hizmet bedelleri, muafiyetler, indirimler, ödeme tarihleri, kendi isteği üzerine veya ilgili mevzuat gereği ilişiği kesilenlerin öğrenciliğe devam hakkını kazanmaları halinde ödeyecekleri eğitim-öğretim bedelleri 28/11/2006 tarihli ve 26360 sayılı Resmî Gazete’de yayımlanan İstanbul Bilgi Üniversitesi Ana Yönetmeliğinde öngörülen esas ve usuller dahilinde belirlenir.
+(2) Eğitim-öğretimle ilgili ödemeler ilan edilen tarihlerde yapılmadığı taktirde, 2547 sayılı Kanunun 46 ncı maddesine göre işlem yapılır.
