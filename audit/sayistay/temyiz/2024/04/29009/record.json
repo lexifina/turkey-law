@@ -1,0 +1,15 @@
+{
+  "kind": "decision",
+  "issuer": "Sayıştay Temyiz Kurulu",
+  "number": "56756",
+  "decision_date": "2024-04-17",
+  "source_id": 29009,
+  "chamber": "5",
+  "file_number": "47340",
+  "public_body_type": "Belediyeler ve Bağlı İdareler",
+  "account_year": "2018",
+  "source": "https://www.sayistay.gov.tr/KararlarTemyiz/Detay/29009/",
+  "source_sha256": "343ea4f5533b5be7f296c0a6003694664c19b8b883e5b60a0035f61d644b8428",
+  "text_status": "as-enacted",
+  "text_file": "metin.md"
+}
