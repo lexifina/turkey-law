@@ -1,0 +1,16 @@
+{
+  "kind": "decision",
+  "issuer": "Sayıştay Temyiz Kurulu",
+  "number": "56782",
+  "decision_date": "2024-04-17",
+  "source_id": 29035,
+  "chamber": "5",
+  "file_number": "47372",
+  "public_body_type": "Belediyeler ve Bağlı İdareler",
+  "account_year": "2018",
+  "subject": "Sorumluluk ve Yargılama Usulleri ile İlgili Kararlar",
+  "source": "https://www.sayistay.gov.tr/KararlarTemyiz/Detay/29035/",
+  "source_sha256": "b12425f1cb95a3cd9733b46e91511cdc4f146288d5a6f0b90c58d16a4590d0c6",
+  "text_status": "as-enacted",
+  "text_file": "metin.md"
+}
