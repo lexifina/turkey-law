@@ -1,0 +1,17 @@
+{
+  "kind": "decision",
+  "issuer": "Sayıştay 1. Dairesi",
+  "number": "10934",
+  "decision_date": "2024-04-18",
+  "source_id": 38435,
+  "chamber": "1",
+  "ilam_number": "153",
+  "item_number": 10,
+  "public_body_type": "Genel Bütçe Kapsamındaki İdareler",
+  "account_year": 2020,
+  "subject": "Personel Mevzuatı ile İlgili Kararlar",
+  "source": "https://www.sayistay.gov.tr/KararlarDaire/Detay/38435/",
+  "source_sha256": "01e126d68a327727777d8bf3486c04e3954ae02e1a938ba263497599a882ec9c",
+  "text_status": "as-enacted",
+  "text_file": "metin.md"
+}
