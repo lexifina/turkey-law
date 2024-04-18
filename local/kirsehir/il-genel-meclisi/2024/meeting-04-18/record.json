@@ -1,0 +1,26 @@
+{
+  "number": "meeting-04-18",
+  "number_as_published": "meeting-04-18",
+  "year": 2024,
+  "title": "2024 Yılı Meclis Kararları",
+  "decision_date": "2024-04-18",
+  "source": "https://www.kirsehirozelidare.gov.tr/2024-yili-meclis-kararlari",
+  "official_document": "https://www.kirsehirozelidare.gov.tr/kurumlar/kirsehirozelidare.gov.tr/Dokumanlar/meclis_kararlari/2024/04Nisan/IL-GENEL-MECLISININ-18-NISAN-2024-ZABOZETI.doc",
+  "source_sha256": "8c88e1ace13d42f6b1a4d703b984e83e23964be73a83ace1eda267d655a2d935",
+  "issuer": "Kırşehir İl Genel Meclisi",
+  "history_type": "metadata",
+  "text_status": "metadata-only: listing fields as published; complete decision text is in the linked official document, not transcribed",
+  "in_force": "2024-04-18",
+  "in_force_basis": "Decision date as printed in the official council listing: 18 NISAN 2024 (official file name); adoption date of the council decision; legal commencement not asserted",
+  "missing": [
+    "complete official decision text",
+    "official annexes"
+  ],
+  "law_text_complete": false,
+  "privacy_withheld": false,
+  "listing_label": "2024 Yılı Meclis Kararları",
+  "record_scope": "one official file of council decisions (meeting or month)",
+  "date_read_from": "official file name",
+  "official_page": "https://www.kirsehirozelidare.gov.tr/2024-yili-meclis-kararlari",
+  "item_title": "2024 Yılı Meclis Kararları"
+}
