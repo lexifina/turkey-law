@@ -1,0 +1,17 @@
+{
+  "kind": "decision",
+  "issuer": "Sayıştay 8. Dairesi",
+  "number": "315",
+  "decision_date": "2024-04-18",
+  "source_id": 38389,
+  "chamber": "8",
+  "ilam_number": "59",
+  "item_number": 8,
+  "public_body_type": "Belediyeler ve Bağlı İdareler",
+  "account_year": 2022,
+  "subject": "İş Mevzuatı ile İlgili Kararlar",
+  "source": "https://www.sayistay.gov.tr/KararlarDaire/Detay/38389/",
+  "source_sha256": "c57e7ab56f2e854e4684bc8ef26b7eed9dfd9eeebce53813efb8c658167714ba",
+  "text_status": "as-enacted",
+  "text_file": "metin.md"
+}
