@@ -1,0 +1,21 @@
+{
+  "record_type": "parliament-written-question",
+  "term": 28,
+  "legislative_year": 2,
+  "esas_no": "7/11049",
+  "submitted": "2024-04-18",
+  "submitted_as": "Başkanlığa geliş tarihi",
+  "mp": "Çiçek OTLU",
+  "province": "İstanbul",
+  "summary": "2 Nisan 2024 tarihinde İstanbul'da bulunan bir eğlence mekanı tadilatında çıkan yangına ilişkin",
+  "status": "Süresi Geçtikten Sonra Cevaplandı",
+  "status_as_of": "2026-11-16",
+  "official_record": "https://www.tbmm.gov.tr/Denetim/Yazili-Soru-Onergesi-Detay/ff70a5fe-7c34-4ad2-9fb2-018ef19d6b80",
+  "source": "https://tbmm.gov.tr/Denetim/YaziliSoruOnergesiTable",
+  "source_form": "https://tbmm.gov.tr/Denetim/Yazili-Soru-Onergeleri",
+  "source_sha256": "9d6db563daffc9cff591d13b47d1835e918ea5051aaed2115dcfcf8d14f3073f",
+  "in_force": "2024-04-18",
+  "in_force_basis": "Date the question reached the Speaker (Başkanlığa geliş tarihi) in the official TBMM written-question record; parliamentary oversight record, not law",
+  "history_type": "metadata",
+  "text_status": "metadata-only: question text, addressee and answers are in the linked official record (PDFs on cdn.tbmm.gov.tr); not transcribed here"
+}
