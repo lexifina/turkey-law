@@ -1,0 +1,2 @@
+Yönerge
+MADDE 30- (1) Kur’an eğitim merkezleri bünyesindeki yurt ve pansiyon binalarının taşıyacağı teknik şartlar, müdür ve öğretmenler ile diğer personelin görevleri, Kur’an eğitim merkezlerinde belirlenen kurallara uymayan, düzen ve disiplini bozan öğrenciler için yapılacak işlemler, Kur’an eğitim merkezlerindeki sınıf mevcuduna ilişkin esaslar, Kur’an eğitim merkezlerinde bulundurulacak yazılı ve görsel yayınların nitelik ve türleri ile diğer hususlar Başkanlık tarafından çıkarılacak yönerge ile belirlenir.

@@ -1,0 +1,3 @@
+Derslere devam zorunluluğu ve izin
+MADDE 23- (1) Kur’an eğitim merkezlerinde eğitim alan öğrencilerin eğitime katılmaları ve derslere devam etmeleri zorunludur. Öğrencilerin devam durumu günlük devam çizelgesine ve EHYS’ye işlenir.
+(2) Geçerli bir mazereti olan öğrencilere izinleri, müdür tarafından verilir. Ancak geçerli bir mazereti olsa dâhi, bir dönemin fiilen eğitim verilen veya ders yapılan günlerinin 1/8’inde eğitime katılmamış olan öğrencilerin, Kur’an eğitim merkezinden kaydı silinir ve ilişiği kesilir. Devamsızlık nedeniyle ilişikleri kesilenlerin durumları Genel Müdürlüğe bildirilir.

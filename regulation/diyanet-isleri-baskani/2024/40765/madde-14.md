@@ -1,0 +1,3 @@
+Eğitimin değerlendirilmesi
+MADDE 14- (1) Kur’an eğitim merkezlerindeki eğitimlerin değerlendirilmesi, eğitim raporları da dikkate alınarak Genel Müdürlük tarafından yapılır. Yapılacak değerlendirmelerde, eğitimlerin eğitime alınanlar üzerindeki etkinliği ve verimliliği araştırılır. Eğitimin beklenen sonuçlara ulaşıp ulaşmadığının tespitine yönelik anket, gözlem ve görüşme gibi ölçme ve değerlendirme araçları uygulanır.
+(2) Eğitim raporları ile ölçme ve değerlendirme araçlarından elde edilen veriler, sonraki eğitim programlarının geliştirilmesinde ve eğitim sürecinin planlanmasında dikkate alınır.
