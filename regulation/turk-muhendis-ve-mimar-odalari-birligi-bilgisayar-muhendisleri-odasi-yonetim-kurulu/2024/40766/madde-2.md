@@ -1,0 +1,2 @@
+Kapsam
+MADDE 2- (1) Bu Yönetmelik, Türk Mühendis ve Mimar Odaları Birliği Bilgisayar Mühendisleri Odasına bağlı mühendislik dallarındaki meslek alanları ve uygulamalarla ilgili bilgilendirme ve belgelendirme amaçlı mesleki faaliyetlere yönelik eğitimlerin programlarının oluşturulması ve eğitmenlerinin belirlenmesi, eğitimlere başvuru ve katılma koşullarının tanımlanması, eğitimlerin planlanıp gerçekleştirilmesi işlerinin düzenlemesini kapsar.

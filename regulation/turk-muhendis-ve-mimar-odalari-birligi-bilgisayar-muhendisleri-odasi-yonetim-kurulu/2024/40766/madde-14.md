@@ -1,0 +1,3 @@
+Eğitmenler
+MADDE 14- (1) Eğitim içeriklerini oluşturup dersleri verecek eğitmenler ile ölçme-değerlendirme sorularını hazırlayarak sınavların yapılması ve değerlendirilmesinde görev alacak eğitmenlerin nitelikleri, eğitim programlarının oluşturulması sırasında birimlerin ve iş birliği yapılan kurum-kuruluşların görüşleri alınarak BMO Akademi Koordinatörlüğü tarafından saptanır.
+(2) Derslerin verilmesinde, ölçme-değerlendirme sorularının hazırlanmasında, sınavların yapılmasında ve değerlendirilmesinde görev alacak eğitmenler, birimlerin görüşleri alınarak BMO Akademi Koordinatörlüğü tarafından belirlenir ve OYK onayıyla kesinleştirilir.

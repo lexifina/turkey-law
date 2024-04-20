@@ -1,0 +1,3 @@
+Eğitimin ertelenmesi ya da iptali
+MADDE 12- (1) Planlanan ve duyurusu yapılan bir eğitimin gerçekleşme tarihinden yedi gün öncesine dek başvuranların sayısı en az sayıyı karşılamazsa söz konusu eğitim, ekonomik ve teknik yeterlilikler göz önünde bulundurularak BMO Akademi Koordinatörlüğünün önerisi üzerine OYK onayıyla ertelenebilir ya da iptal edilebilir.
+(2) BMO Akademi, eğitimin ertelendiğini ya da iptal edildiğini başvuranlara duyurur. İptal edilen ücretli eğitimler için başvuranların ödedikleri ücretler iade edilir. Eğitimin ertelenmesi durumunda ise eğitime başvuran kişinin isteğine göre yatırdığı eğitim ücreti ya geri verilerek başvurusu iptal edilir ya da başvurusu ertelenen eğitime kaydırılır.

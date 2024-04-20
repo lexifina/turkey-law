@@ -1,0 +1,3 @@
+Eğitim ve sınav yeri
+MADDE 10- (1) Eğitimler ve sınavlar, öncelikle BMO’nun genel merkez, şube ve temsilciliklerindeki eğitim merkezlerinde yapılır. Eğitim merkezinin uygun olmaması ya da eğitim içeriğinin gerektirdiği teknolojik altyapıyı ya da ortam koşullarını karşılamaması durumunda söz konusu eğitim ve ilgili sınav, BMO Akademi Koordinatörlüğünün önerisi üzerine OYK onayı alınarak uygun görülen yerde yapılabilir.
+(2) Eğitim ve sınavlar; eğitimin konusu ve içeriği, eğitime katılanların koşulları ve sayıları, ekonomik ve teknik ölçütler göz önünde bulundurularak BMO Akademi Koordinatörlüğünün önerisi üzerine OYK onayı alınarak uzaktan erişimle çevrimiçi düzenlenebilir.
