@@ -1,0 +1,53 @@
+{
+  "source_id": "7.5.38682",
+  "kind": "regulation",
+  "register_kind": "Kurum ve Kuruluş Yönetmelikleri",
+  "title": "TARIMDA KULLANILAN GÜBRELERİN PİYASA GÖZETİMİ VE DENETİMİ YÖNETMELİĞİ",
+  "number": "38682",
+  "issuer": "Tarım ve Orman Bakanı",
+  "issuer_slug": "tarim-ve-orman-bakani",
+  "path": "regulation/tarim-ve-orman-bakani/2021/38682",
+  "source": "https://www.mevzuat.gov.tr/anasayfa/MevzuatFihristDetayIframe?MevzuatTur=7&MevzuatNo=38682&MevzuatTertip=5",
+  "source_sha256": "32a6fd52c279635c55ac75634c5fea719a1b0a76f4e667afbb595de037216379",
+  "source_bytes": 186523,
+  "published": "2021-06-09",
+  "gazette": "31506 Mükerrer",
+  "in_force": "2024-04-20",
+  "in_force_basis": "latest Resmî Gazete date printed in the source amendment notes/table (\"RG-20/4/2024\") for the current consolidated text",
+  "date_evidence": [
+    [
+      "2024-04-20",
+      "RG-20/4/2024",
+      "Resmî Gazete date printed in the source amendment note"
+    ],
+    [
+      "2024-04-20",
+      "20/4/2024",
+      "Resmî Gazete date in the source amendment table"
+    ],
+    [
+      "2023-03-15",
+      "RG-15/3/2023",
+      "Resmî Gazete date printed in the source amendment note"
+    ],
+    [
+      "2023-03-15",
+      "15/3/2023",
+      "Resmî Gazete date in the source amendment table"
+    ]
+  ],
+  "history": "current-text",
+  "label": "oldest version available",
+  "checked_on": "2026-11-15",
+  "word_count": 9360,
+  "text_status": "current-consolidated",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  },
+  "source_links": [
+    "7.5.38682%20EK.docx"
+  ],
+  "completeness": "html-text-complete; linked annexes not fetched"
+}
