@@ -1,0 +1,45 @@
+{
+  "source_id": "9.5.15478",
+  "kind": "communique",
+  "register_kind": "Tebliğler",
+  "title": "GÜMRÜK GENEL TEBLİĞİ (TARİFE-SINIFLANDIRMA KARARLARI) (SERİ NO: 13)",
+  "number": "15478",
+  "issuer": "Gümrük ve Ticaret Bakanı",
+  "path": "teblig/2011/15478",
+  "source": "https://www.mevzuat.gov.tr/anasayfa/MevzuatFihristDetayIframe?MevzuatTur=9&MevzuatNo=15478&MevzuatTertip=5",
+  "source_sha256": "5a14d775c4d26449be26fde9e2870d4c6b10abdde2ae8307c7e1f880f1930e45",
+  "source_bytes": 55795,
+  "published": "2011-11-04",
+  "gazette": "28105",
+  "in_force": "2024-04-20",
+  "in_force_basis": "latest Resmî Gazete date printed in the source amendment notes/table (\"20/4/2024\") for the current consolidated text",
+  "date_evidence": [
+    [
+      "2024-04-20",
+      "20/4/2024",
+      "Resmî Gazete date in the source amendment table"
+    ],
+    [
+      "2020-10-17",
+      "17/10/2020",
+      "Resmî Gazete date in the source amendment table"
+    ]
+  ],
+  "commencement_clauses": [
+    "Bu Tebliğ yayımı tarihinde yürürlüğe girer"
+  ],
+  "history": "current-text",
+  "label": "oldest version available",
+  "checked_on": "2026-11-15",
+  "word_count": 224,
+  "text_status": "current-consolidated",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  },
+  "source_links": [
+    "9.5.15478-EK.doc"
+  ],
+  "completeness": "html-text-complete; linked annexes not fetched"
+}
