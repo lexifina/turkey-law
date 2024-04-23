@@ -1,0 +1,21 @@
+{
+  "record_type": "parliament-written-question",
+  "term": 28,
+  "legislative_year": 2,
+  "esas_no": "7/11223",
+  "submitted": "2024-04-23",
+  "submitted_as": "Başkanlığa geliş tarihi",
+  "mp": "Murat EMİR",
+  "province": "Ankara",
+  "summary": "Son 5 yıl içerisinde yaşanan sağlık çalışanlarına yönelik şiddet olaylarına ilişkin",
+  "status": "Cevaplanmadığı Gelen Kağıtlarda İlan Edildi",
+  "status_as_of": "2026-11-16",
+  "official_record": "https://www.tbmm.gov.tr/Denetim/Yazili-Soru-Onergesi-Detay/b3daa308-4a35-46c4-a979-018f0f045adb",
+  "source": "https://tbmm.gov.tr/Denetim/YaziliSoruOnergesiTable",
+  "source_form": "https://tbmm.gov.tr/Denetim/Yazili-Soru-Onergeleri",
+  "source_sha256": "109506855240aa09179d55b2aecd9b2b0c17d18477c100d00578856b6c454b16",
+  "in_force": "2024-04-23",
+  "in_force_basis": "Date the question reached the Speaker (Başkanlığa geliş tarihi) in the official TBMM written-question record; parliamentary oversight record, not law",
+  "history_type": "metadata",
+  "text_status": "metadata-only: question text, addressee and answers are in the linked official record (PDFs on cdn.tbmm.gov.tr); not transcribed here"
+}
