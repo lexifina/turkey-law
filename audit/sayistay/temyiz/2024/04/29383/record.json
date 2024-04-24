@@ -1,0 +1,16 @@
+{
+  "kind": "decision",
+  "issuer": "Sayıştay Temyiz Kurulu",
+  "number": "56787",
+  "decision_date": "2024-04-24",
+  "source_id": 29383,
+  "chamber": "6",
+  "file_number": "53150",
+  "public_body_type": "Belediyeler ve Bağlı İdareler",
+  "account_year": "2018",
+  "subject": "İhale Mevzuatı ile İlgili Kararlar",
+  "source": "https://www.sayistay.gov.tr/KararlarTemyiz/Detay/29383/",
+  "source_sha256": "b7a1a28aee78d7e1b84fc677dfd160e184cff72931f4cee4542f6c1c17d215d4",
+  "text_status": "as-enacted",
+  "text_file": "metin.md"
+}
