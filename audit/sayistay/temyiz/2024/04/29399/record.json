@@ -1,0 +1,15 @@
+{
+  "kind": "decision",
+  "issuer": "Sayıştay Temyiz Kurulu",
+  "number": "56794",
+  "decision_date": "2024-04-24",
+  "source_id": 29399,
+  "chamber": "7",
+  "file_number": "51784",
+  "public_body_type": "Belediyeler ve Bağlı İdareler",
+  "account_year": "2019",
+  "source": "https://www.sayistay.gov.tr/KararlarTemyiz/Detay/29399/",
+  "source_sha256": "2d4a66cd6cbf6b24ac57db289c5bbf3a8980041f9484b787960c5606ee38b1a5",
+  "text_status": "as-enacted",
+  "text_file": "metin.md"
+}
