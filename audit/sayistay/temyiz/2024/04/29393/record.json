@@ -1,0 +1,16 @@
+{
+  "kind": "decision",
+  "issuer": "Sayıştay Temyiz Kurulu",
+  "number": "56790",
+  "decision_date": "2024-04-24",
+  "source_id": 29393,
+  "chamber": "6",
+  "file_number": "53717",
+  "public_body_type": "Belediyeler ve Bağlı İdareler",
+  "account_year": "2021",
+  "subject": "Personel Mevzuatı ile İlgili Kararlar",
+  "source": "https://www.sayistay.gov.tr/KararlarTemyiz/Detay/29393/",
+  "source_sha256": "8c0ba0b7f6b10523bca2574fd0961a4d86ee300612d4030183cbead16dea46e6",
+  "text_status": "as-enacted",
+  "text_file": "metin.md"
+}
