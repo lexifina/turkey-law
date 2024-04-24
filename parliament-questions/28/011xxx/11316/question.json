@@ -1,0 +1,21 @@
+{
+  "record_type": "parliament-written-question",
+  "term": 28,
+  "legislative_year": 2,
+  "esas_no": "7/11316",
+  "submitted": "2024-04-24",
+  "submitted_as": "Başkanlığa geliş tarihi",
+  "mp": "Heval BOZDAĞ",
+  "province": "Ağrı",
+  "summary": "Bir devlet hastanesinde yaşanan zehirlenme vakasına ilişkin",
+  "status": "Cevaplanmadığı Gelen Kağıtlarda İlan Edildi",
+  "status_as_of": "2026-11-16",
+  "official_record": "https://www.tbmm.gov.tr/Denetim/Yazili-Soru-Onergesi-Detay/6b1d14fb-d79c-4d4c-b792-018f0fd45871",
+  "source": "https://tbmm.gov.tr/Denetim/YaziliSoruOnergesiTable",
+  "source_form": "https://tbmm.gov.tr/Denetim/Yazili-Soru-Onergeleri",
+  "source_sha256": "3d8a2787f5c5cc5ad912d937b957798472dda0729ba16dfcf4edf14a694c6a51",
+  "in_force": "2024-04-24",
+  "in_force_basis": "Date the question reached the Speaker (Başkanlığa geliş tarihi) in the official TBMM written-question record; parliamentary oversight record, not law",
+  "history_type": "metadata",
+  "text_status": "metadata-only: question text, addressee and answers are in the linked official record (PDFs on cdn.tbmm.gov.tr); not transcribed here"
+}
