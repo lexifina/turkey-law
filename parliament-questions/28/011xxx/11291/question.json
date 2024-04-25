@@ -1,0 +1,21 @@
+{
+  "record_type": "parliament-written-question",
+  "term": 28,
+  "legislative_year": 2,
+  "esas_no": "7/11291",
+  "submitted": "2024-04-25",
+  "submitted_as": "Başkanlığa geliş tarihi",
+  "mp": "Mustafa BİLİCİ",
+  "province": "İzmir",
+  "summary": "Mali müşavirlerin yaşadığı sorunların düzeltilmesi için yürütülen çalışmalara ilişkin",
+  "status": "Süresi Geçtikten Sonra Cevaplandı",
+  "status_as_of": "2026-11-16",
+  "official_record": "https://www.tbmm.gov.tr/Denetim/Yazili-Soru-Onergesi-Detay/16bdf35b-309e-4370-bcf5-018f19654bd8",
+  "source": "https://tbmm.gov.tr/Denetim/YaziliSoruOnergesiTable",
+  "source_form": "https://tbmm.gov.tr/Denetim/Yazili-Soru-Onergeleri",
+  "source_sha256": "109506855240aa09179d55b2aecd9b2b0c17d18477c100d00578856b6c454b16",
+  "in_force": "2024-04-25",
+  "in_force_basis": "Date the question reached the Speaker (Başkanlığa geliş tarihi) in the official TBMM written-question record; parliamentary oversight record, not law",
+  "history_type": "metadata",
+  "text_status": "metadata-only: question text, addressee and answers are in the linked official record (PDFs on cdn.tbmm.gov.tr); not transcribed here"
+}
