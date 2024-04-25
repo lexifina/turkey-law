@@ -1,0 +1,23 @@
+İlk ihale kapsamında yükleniciye belediye atığının yakılması karşılığı ödenen tutarın ikinci ihalenin yüklenicisinden tahsil edilmemesi
+
+Tüm giderleri yüklenici firma tarafından karşılanarak gelir paylaşımı esasına göre ihale edilen “… İşi” ile ilgili olarak; “…  Üretim Tesisi Yapılması” kapsamında ilk yıl işletme gideri olarak ödenen … TL’nin yüklenici firmadan alınmaması sonucu kamu zararına neden olunduğu iddiasına ilişkin yapılan incelemede,
+
+Rapor dosyası ve eki belgelere bakıldığında rapor konu işle ilgili bilgiler ve yapılan işlemler aşağıdaki gibidir:
+
+1.	… görev ve sorumlulukları arasında olan “… yapımı” için Fen İşleri Daire Başkanlığınca 4734 sayılı Kamu İhale Kanunu kapsamında gerçekleştirilen yapım ihalesi sonucu, .. ile … arasında 11.09.2017 tarihinde “… Yapımı İşine” ait sözleşme imzalanmıştır.
+
+2.	Bu sözleşmenin 9’uncu maddesine göre işin süresi 1.000 gün yapım ve 365 gün işletme olmak üzere 1365 gün olup, süre sonu 11.06.2021’dir. Sözleşmenin ilgili maddesinde 365 günlük işletme süresi için yüklenici firmaya 1.000.000 ton belediye atığının ton başına ... TL tutardan yakılması karşılığı … TL ödeneceği hüküm altına alınmış ve bu yükümlülük fiyat farkları ve KDV dahil … TL olarak yerine getirilmiştir.
+
+3.	Diğer taraftan söz konusu atık yakma ve enerji üretim tesisinin yapım yüklenicisi tarafından inşa/yapım sürecinin tamamlanması sonrasında işletilmesi amacıyla idare tarafından 2886 sayılı Devlet İhale Kanunu kapsamında 30.01.2019 tarihinde gerçekleştirilen ihale sonucu, … ile yüklenici … AŞ arasında 19.02.2019 tarihinde “… İşi Sözleşmesi” imzalanmıştır.
+
+4.	Sözleşmenin 9’uncu maddesi uyarınca işin süresi, sözleşme tarihinden itibaren 10 yıl olup, ayrıca sözleşmenin 18’inci maddesinde şalt ve elektrik iletim ve dağıtım hattı yapım işinin 24 ay içinde tamamlanması öngörülmüştür. Buna göre 10 yıllık sözleşme süresinin ilk 2 yılı enerji iletim hattının yapım süresi, sonraki 8 yılı ise tesisin işletme süresidir. Sözleşmenin 3 ve 5’inci maddelerine göre, işletme süresince elde edilecek elektrik gelirinden yıllık brüt cironun %30 ’u işletme bedeli olarak … ’ye ödenecektir. Ayrıca sözleşmenin 5 ve 19’uncu madde hükümlerine göre, eğer yıllık brüt cironun %30’u muhammen bedel olan … TL’nin altında kalırsa, bu durumda muhammen bedel ödenecektir.
+
+5.	… ile yüklenici firma … arasındaki işletme sözleşmesi kapsamında 24 ay yapım süresi öngörülmüş olan şalt ve elektrik iletim ve dağıtım hattı inşaatı tamamlanmış, … İş Ortaklığı tarafından üstlenilen yakma tesisinin yapım/inşaat sürecinin de tamamlanmasına müteakip, … Fen İşleri Daire Başkanlığının 29.11.2021 onay tarihli kısmi geçici kabulü ile tesisin işletme ve elektrik enerjisi üreterek gelir elde aşamasına geçilmiştir.
+
+Raporda ihtilaf konusu olan mesele ilk ihale kapsamında … İş Ortaklığına belediye atığının yakılması karşılığı ödenen … TL’nin ikinci ihalenin elektrik üretilip gelir elde edilen dönemine rastlayan kısmı için söz konusu işin yüklenicisi … AŞ’den alınması gerekip gerekmediğidir.
+
+Bu durumda “… İşletilmesi İşi” (II. İhale) kapsamındaki ihale dokümanlarındaki ve özellikle işe ait sözleşmedeki hükümlerin incelenmesi gerekmektedir.  Bahse konu işe ait sözleşmenin rapor konusu ihtilafla ilgili kısmını düzenleyen “Taahhüdün konusu işyeri” başlıklı 2’nci maddesinde “… Orman Bölge Müdürlüğü tarafından Belediyemiz katı atık bertaraf tesisine bağlı evsel atık kurutma, yakma ve atıktan enerji üretim tesisi kurmak için kesin izni verilen … İlçesi Işıklar Mevkiinde ihtiyaç duyulan Enerji İletim Hattının yapılması, hattın yapım maliyetinin üçüncü şahıslarca karşılanması, Atık Yakma ve Enerji Üretim Tesisinin İşletilmesi, tesis için tüm gerekli izinlerin ve lisansların alınması, işletme süresince de elde edilen elektrik gelirinden Belediyemize belirli bir oranda pay verilmesi” hükmü mevcuttur. Ne bu madde de ne sözleşmenin veya ihale dokümanlarının herhangi bir yerinde devreye alma (test) işletme bedelinin … AŞ’ den alınacağına ilişkin bir hüküm yer almamaktadır. Bu noktadan hareketle işletme giderlerinin … AŞ.’ ye ait olan kısmı; devreye alma (test) işletmesi bitiminde, tesisin tam olarak çalışmaya başlaması sonrasındaki giderleri kapsadığı anlaşılmaktadır. Dolayısıyla sorgu konusu edilen hususta bir kamu zararından bahsetmek mümkün değildir.
+
+Açıklanan gerekçelerle, ilk ihale kapsamında … İş Ortaklığına belediye atığının yakılması karşılığı ödenen … TL’nin ikinci ihalenin yüklenicisinden tahsil edilmemesi hususu ile ilgili olarak;
+
+6085 sayılı Sayıştay Kanunu’nun 55’inci maddesi uyarınca işbu İlamın tebliğ tarihinden itibaren altmış gün içerisinde Sayıştay Temyiz Kurulu nezdinde temyiz yolu açık olmak üzere ilişilecek bir husus bulunmadığına oy birliğiyle,
