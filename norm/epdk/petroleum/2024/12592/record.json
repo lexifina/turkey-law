@@ -1,0 +1,26 @@
+{
+  "kind": "norm",
+  "issuer": "Enerji Piyasası Düzenleme Kurumu",
+  "market": "petroleum",
+  "document_type": "board-decision",
+  "number": "12592",
+  "decision_date": "2024-04-25",
+  "title": "Petrol Ofisi Anonim Şirketi’nin; DEP/474-11/10369 sayılı Depolama Lisansı kapsamında faaliyette bulunan Kırıkkale Terminali Depolama Tesisine ilişkin",
+  "resmi_gazete_date": "2024-04-28",
+  "resmi_gazete_number": "32530",
+  "categories": [
+    "Depolama Tarifesi"
+  ],
+  "source": "https://www.epdk.gov.tr/Detay/DownloadDocument?id=F55qHAEvL8o=",
+  "documents": [
+    "https://www.epdk.gov.tr/Detay/DownloadDocument?id=F55qHAEvL8o=",
+    "https://www.epdk.gov.tr/Detay/DownloadDocument?id=R0a5IUp+PzI="
+  ],
+  "source_sha256": "7dc328c03611ec07f74d361f5b1d8d1abe6ee80288ea3c7820055a3555fae047",
+  "official_list": "https://www.epdk.gov.tr/Detay/Icerik/3-0-100/kurul-kararlari",
+  "official_list_leaf": 5140,
+  "text_status": "as-enacted",
+  "text_file": "metin.md",
+  "in_force": "2024-04-25",
+  "law_text_complete": true
+}
