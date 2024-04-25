@@ -1,0 +1,4 @@
+Danışma kurulu
+MADDE 12 – (1) Danışma Kurulu, bilimsel, teknolojik araştırma ve uygulamalarla doğrudan ilgisi olan ve ayrıca sahip olduğu birikim ve deneyimlerinden yararlanılabilecek Üniversite içindeki ve dışındaki kişilerden oluşmak üzere, Yönetim Kurulunun önerisi üzerine Rektör tarafından üç yıl süreyle görevlendirilen en az yedi kişiden oluşur. Rektör ya da görevlendireceği bir Rektör yardımcısı Danışma Kurulunun doğal üyesidir.
+(2) Danışma Kurulu, Müdürün çağrısı üzerine yılda en az bir kez salt çoğunluk aranmadan Rektör ya da görevlendireceği bir Rektör yardımcısının başkanlığında toplanır.
+(3) Görev süresi dolan üyeler yeniden görevlendirilebilir. Danışma Kurulu toplantılarına mazeretsiz olarak iki defa üst üste katılmayan üyenin görevi sona erer. Görev süresi dolmadan ayrılan üyelerin yerine kalan süreyi tamamlamak üzere yenileri görevlendirilir.
