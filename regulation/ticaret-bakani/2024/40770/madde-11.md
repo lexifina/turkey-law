@@ -1,0 +1,2 @@
+Kıyafet verilmeyecek haller
+MADDE 11- (1) Görevden uzaklaştırılan, gözaltına alınan, tutuklanan, hakkında adli kontrol tedbiri uygulanan veya memuriyetten ilişiğinin kesilmesini gerektirmeyen bir cezaya mahkûm olup da, bu cezası infaz edilmekte olanlara giyim eşyası verilebilmesi için bu personelin görevlerine dönmüş olmaları şarttır. Ayrıca, aylıksız izin alarak görevlerinden ayrılanlara bu süre için giyim eşyası verilmez.

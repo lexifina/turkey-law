@@ -1,0 +1,2 @@
+Kullanılacak malzemenin cinsi
+MADDE 13- (1) Bu Yönetmelik kapsamında verilecek kıyafetlerde kullanılacak kumaşların özellikleri teknik şartnamenin hazırlık safhasında, şartnameyi hazırlayan idare tarafından günün teknolojik gelişmeleri göz önünde bulundurularak, yerine getirilen görevin şartlarına uygun olarak belirlenir. Ancak renk ve şekil olarak bu Yönetmeliğin ekinde bulunan çizimlerin dışına çıkılamaz.

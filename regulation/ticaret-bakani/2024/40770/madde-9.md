@@ -1,0 +1,2 @@
+Emeklilik ve görev bitimi kıyafetlerin durumu
+MADDE 9- (1) Emeklilik, ölüm, istifa, memuriyetten çıkarma gibi nedenlerle görevinden ayrılanlar ile bu Yönetmelik uyarınca giyim eşyası verilmesi gerekmeyen bir göreve nakledilenlerden, giyim eşyaları veya bedelleri geri alınmaz. Ancak, giyim eşyası aldıktan sonra aynı kurumda görev değişikliği sebebiyle yeni giyim eşyaları verilmesi gerekli olanlara kullanma süreleri sona erinceye kadar önceden almış bulundukları aynı cins giyim eşyaları tekrar verilmez.
