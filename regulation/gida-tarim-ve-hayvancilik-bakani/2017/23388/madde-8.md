@@ -1,0 +1,2 @@
+Avrupa Birliği mevzuatına uyum
+MADDE 8 ‒ (1) Bu Yönetmelik, 6/5/2009 tarihli ve (AT) 470/2009 sayılı Hayvansal Gıdalarda Bulunabilecek Farmakolojik Aktif Maddelerin Sınıflandırılmasına ilişkin Avrupa Birliği Parlamentosu ve Konsey Tüzüğünün ilgili hükümleri ile 22/12/2009 tarihli ve (AB) 37/2010 sayılı Hayvansal Gıdalardaki Maksimum Kalıntı Limitlerine İlişkin Komisyon Tüzüğüne uyum çerçevesinde hazırlanmıştır.
