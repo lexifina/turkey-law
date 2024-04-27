@@ -1,0 +1,4 @@
+Alıma katılamayacak olanlar
+MADDE 9- (1) Alımı yapan İdare bünyesinde bulunan veya İdare ile ilgili her ne amaçla kurulmuş olursa olsun vakıf, dernek, birlik, sandık gibi kuruluşlar ile bu kuruluşların ortak oldukları şirketler hariç, 4734 sayılı Kanunun 11 inci maddesinde belirtilenler doğrudan veya dolaylı veya alt yüklenici olarak, kendileri veya başkaları adına hiçbir şekilde alımlara katılamazlar.
+(2) Bu yasaklara rağmen alıma katılan istekliler alım dışı bırakılarak alınmışsa geçici teminatları gelir kaydedilir. Ayrıca bu durumun tekliflerin değerlendirilmesi aşamasında tespit edilememesi nedeniyle, bunlardan biri üzerine alım kararı verilmişse geçici teminatı gelir kaydedilerek alım iptal edilir.
+(3) 4734 sayılı Kanunun 11 inci maddesinin birinci fıkrasının (g) bendi kapsamındaki gerçek ve tüzel kişiler, alım dışı bırakılarak geçici teminatları iade edilir ve bunlardan biri üzerine alım kararı verilmişse alım iptal edilir.

@@ -1,0 +1,3 @@
+Alım komisyonu
+MADDE 6- (1) Biri başkan olmak üzere, en az birinin alım konusu işin uzmanı olması şartıyla, en az üç ve tek sayıda kişiden oluşan alım komisyonu, yedek üyeler de dâhil olmak üzere ihale yetkilisi tarafından görevlendirilir. Alımı yapan İdare tarafından, diğer ilgili birimler ile kamu kurum ve kuruluşlarından komisyona üye/üyeler alınabilir.
+(2) Alım komisyonu eksiksiz olarak toplanır. Komisyon kararları çoğunlukla alınır. Kararlarda çekimser kalınamaz. Komisyon başkanı ve üyeleri oy ve kararlarından sorumludur. Karşı oy kullanan komisyon başkanı veya üyeleri gerekçesini komisyon kararına yazmak ve imzalamak zorundadır.

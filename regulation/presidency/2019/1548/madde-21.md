@@ -1,0 +1,2 @@
+Sözleşmede yer alması zorunlu hususlar
+MADDE 21- (1) Bu Karara göre düzenlenecek sözleşmelerde; 4735 sayılı Kanunun 7 nci maddesinde sayılan hususlardan ihtiyaç duyulanlara yer verilebilir; ayrıca İdarece ilave hususlar da eklenebilir. Bu Karara göre düzenlenecek sözleşmelerde, Türkçe’nin yanında başka bir dilde de sözleşme düzenlenebilir. Bu durumda sözleşmenin yorumunda Türkçe metin esas alınır. Ancak, sözleşmenin eki olan Türkçe’ye çevrilememiş bölümlerde yabancı dil geçerli olarak kabul edilir.

@@ -1,0 +1,1 @@
+GEÇİCİ MADDE 1- (1) Bu Kararın yürürlüğe girdiği tarihten önce ihale edileceği veya alımın yapılacağı yazılı olarak duyurulmuş veya ilanı yapılmış bulunan işler, tabi oldukları mevzuat hükümlerine göre sonuçlandırılır.

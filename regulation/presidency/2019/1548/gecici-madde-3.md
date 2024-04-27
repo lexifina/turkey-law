@@ -1,0 +1,3 @@
+Ek fiyat farkı ve artırımlı fiyat farkı
+GEÇİCİ MADDE 3- (Ek:RG-7/7/2022-31889-C.K.-5770/1 md.)
+(1) Bu Karar kapsamında alımı yapılan mal ve hizmet alımları ile yapım işlerine ilişkin Türk Lirası üzerinden yapılan (NATO Güvenlik Yatırım Programı kapsamındaki işler hariç) sözleşmelerde (doğrudan temin usulü ile yapılan alımlar dahil), 13/5/2022 tarihli ve 5546 sayılı Cumhurbaşkanı Kararı ile yürürlüğe konulan 4735 sayılı Kamu İhale Sözleşmeleri Kanununun Geçici 6 ncı Maddesinin Uygulanmasına İlişkin Esaslar doğrultusunda; yüklenicinin bu maddenin yürürlüğe girdiği tarihten itibaren otuz (30) gün içerisinde yazılı olarak başvurusu üzerine, artırımlı fiyat farkı ile ek fiyat farkı hesaplanabilir, süre uzatımı verilebilir ve/veya sözleşmeler feshedilebilir.

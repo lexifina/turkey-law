@@ -1,0 +1,3 @@
+Yaklaşık maliyet
+MADDE 7- (1) Alım öncesi gerekli fiyat araştırması yapılarak katma değer vergisi hariç olmak üzere yaklaşık maliyet belirlenir, dayanaklarıyla birlikte bir hesap cetvelinde gösterilir. Belirlenen yaklaşık maliyet isteklilere veya alım süreci ile resmî ilişkisi olmayan diğer kişi ve kurumlara açıklanamaz. Ancak, yaklaşık maliyetin sınaî veya teknolojik zorunluluklar veya acil ihtiyaçlar nedeniyle belirlenemediği veya yaklaşık maliyetin belirlenmesinde güçlüklerin yaşandığı durumlarda, gerekçesi onay belgesinde belirtilmek kaydıyla, planlanan bütçesi ile alıma çıkılabilir.
+(2) Yaklaşık maliyete ilişkin herhangi bir bilgiye, onay belgesi ekindeki hesap cetveli dışında hiçbir belgede yer verilmez.

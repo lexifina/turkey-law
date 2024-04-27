@@ -1,0 +1,3 @@
+Yapım işlerine artırımlı fiyat farkı ve süre uzatımı verilmesi
+GEÇİCİ MADDE 4- (Ek:RG-27/4/2024-32529-C.K.-8413/1 md.)
+(1) Bu Karar kapsamında alımı yapılan yapım işlerine ilişkin Türk Lirası üzerinden yapılan (NATO Güvenlik Yatırım Programı kapsamındaki işler hariç) sözleşmelerde (doğrudan temin usulü ile yapılan alımlar dahil), 15/1/2024 tarihli ve 8089 sayılı Cumhurbaşkanı Kararı ile yürürlüğe konulan 4735 sayılı Kamu İhale Sözleşmeleri Kanununun Geçici 7 nci Maddesinin Uygulanmasına İlişkin Esaslar doğrultusunda; artırımlı fiyat farkı hesaplanabilir ve/veya yüklenicinin bu maddenin yürürlüğe girdiği tarihten itibaren otuz (30) gün içerisinde yazılı olarak başvurusu üzerine altı ayı geçmemek üzere süre uzatımı verilebilir.

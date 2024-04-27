@@ -1,0 +1,4 @@
+Alıma katılabilmek için gerekli belgeler ve yeterlik kuralları
+MADDE 8- (1) Alım dokümanında düzenlenmek şartıyla alıma katılacak isteklilerden, ekonomik ve malî yeterlik ile meslekî ve teknik yeterliklerinin belirlenmesine ilişkin olarak bilgi ve belgeler istenebilir.
+(2) Alım konusu işin niteliğine göre istenilen bilgi veya belgelerden hangilerinin yeterlik değerlendirmesinde kullanılacağı ve belgelerin taşıması gereken yeterlik kriterleri dokümanda veya davet belgelerinde belirtilir.
+(3) Bu madde kapsamında istenen belgelerden hangilerinin taahhütname olarak sunulabileceği İdare tarafından belirlenir. Gerçeğe aykırı hususlar içeren taahhütname sunulması veya alım üzerinde kalan istekli tarafından taahhüt altına alınan durumu tevsik eden belgelerin sözleşme imzalanmadan önce İdareye verilmemesi halinde, bu durumda olanlar alım dışı bırakılarak alınmışsa geçici teminatları gelir kaydedilir.
