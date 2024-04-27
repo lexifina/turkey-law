@@ -1,0 +1,56 @@
+{
+  "source_id": "7.5.31440",
+  "kind": "regulation",
+  "register_kind": "Kurum ve Kuruluş Yönetmelikleri",
+  "title": "BİLİMSEL AMAÇLAR İÇİN KULLANILAN SUCUL OMURGALI CANLILARIN REFAH VE KORUNMASINA DAİR YÖNETMELİK",
+  "number": "31440",
+  "issuer": "Tarım ve Orman Bakanı",
+  "issuer_slug": "tarim-ve-orman-bakani",
+  "path": "regulation/tarim-ve-orman-bakani/2019/31440",
+  "source": "https://www.mevzuat.gov.tr/anasayfa/MevzuatFihristDetayIframe?MevzuatTur=7&MevzuatNo=31440&MevzuatTertip=5",
+  "source_sha256": "4864215d283dcc4bbec612317813bd22565b287784ec9efc1fadcfda71fd9c89",
+  "source_bytes": 154953,
+  "published": "2019-04-20",
+  "gazette": "30751",
+  "in_force": "2024-04-27",
+  "in_force_basis": "latest Resmî Gazete date printed in the source amendment notes/table (\"RG-27/4/2024\") for the current consolidated text",
+  "date_evidence": [
+    [
+      "2024-04-27",
+      "RG-27/4/2024",
+      "Resmî Gazete date printed in the source amendment note"
+    ],
+    [
+      "2024-04-27",
+      "27/4/2024",
+      "Resmî Gazete date in the source amendment table"
+    ],
+    [
+      "2022-12-23",
+      "RG-23/12/2022",
+      "Resmî Gazete date printed in the source amendment note"
+    ],
+    [
+      "2022-12-23",
+      "23/12/2022",
+      "Resmî Gazete date in the source amendment table"
+    ]
+  ],
+  "commencement_clauses": [
+    "Bu Yönetmelik yayımı tarihinde yürürlüğe girer"
+  ],
+  "history": "current-text",
+  "label": "oldest version available",
+  "checked_on": "2026-11-15",
+  "word_count": 7655,
+  "text_status": "current-consolidated",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  },
+  "source_links": [
+    "7.5.31440-Ek.docx"
+  ],
+  "completeness": "html-text-complete; linked annexes not fetched"
+}
