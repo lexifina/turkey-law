@@ -1,0 +1,31 @@
+{
+  "act_path": "regulation/university/ibn-haldun-universitesi/2024/40769",
+  "availability": "text",
+  "checked_on": "2026-11-14",
+  "commencement_clauses": [
+    "MADDE 17- (1) Bu Yönetmelik yayımı tarihinde yürürlüğe girer."
+  ],
+  "date_quote": "MADDE 17- (1) Bu Yönetmelik yayımı tarihinde yürürlüğe girer.",
+  "first_law": null,
+  "gazette": "32531",
+  "history": "as-enacted",
+  "images": {
+    "deferred": 0,
+    "omitted": 0,
+    "referenced": 0,
+    "source": 0
+  },
+  "in_force": "2024-04-29",
+  "in_force_basis": "source commencement clause: effective on Gazette publication",
+  "issuer": "İbn Haldun Üniversitesi",
+  "issuer_slug": "ibn-haldun-universitesi",
+  "kind": "regulation",
+  "published": "2024-04-29",
+  "source": "https://www.mevzuat.gov.tr/anasayfa/MevzuatFihristDetayIframe?MevzuatTur=8&MevzuatNo=40769&MevzuatTertip=5",
+  "source_id": "8.5.40769",
+  "source_sha256": "667d357501eddfe96ec524cd4fc67481854c8c0d6fa0cc3df0df639fc4f68802",
+  "title": "İBN HALDUN ÜNİVERSİTESİ TASARRUF FİNANSMAN UYGULAMA VE ARAŞTIRMA MERKEZİ YÖNETMELİĞİ",
+  "university_id": 460,
+  "version_label": "oldest version available",
+  "word_count": 1195
+}

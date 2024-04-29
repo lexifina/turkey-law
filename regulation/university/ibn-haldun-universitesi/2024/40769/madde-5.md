@@ -1,0 +1,8 @@
+İKİNCİ BÖLÜM
+Merkezin Amaçları ve Faaliyet Alanları
+Merkezin amaçları
+MADDE 5- (1) Merkezin amaçları şunlardır:
+a) Tasarruf finansman sistemi, tasarruf finansman şirketlerinin kuruluş ve çalışma esasları, tasarruf finansman yöntemleri, araçları ve ürünleri, tasarruf finansman modeline ilişkin yenilikler ve teknolojiler, tasarruf finansman sözleşmeleri, finans hukuku ve benzeri alanlarda her türlü bilimsel, teorik ve uygulamaya yönelik araştırma ve çalışmaları yapmak, belirtilen alanlarda yeni yöntem, araç ve ürünlerin geliştirilmesi, yaygınlaştırılması ve kurumsallaşması; toplumda tasarruf bilincinin ve tasarruf finansmana yönelik farkındalık ve finansal okur-yazarlığın artırılıp geliştirilmesi için danışmanlık dahil gerekli her türlü faaliyeti yürütmek.
+b) Tasarruf finansman sistemi ile benzeri alanlarda ulusal ve uluslararası kurum ve kuruluşlarla iş birliği yaparak inceleme ve araştırmalarda bulunmak, araştırmaları ve araştırmacıları desteklemek, araştırmaların sonucu ışığında ilgililere politika önerilerinde bulunmak.
+c) Tasarruf finansman sisteminin geliştirilmesi, ilgi duyan kişilere tasarruf finansman sistemi ve benzer alanlara ilişkin bilgi ve becerilerin kazandırılması ve toplumda tasarruf finansman sistemine ilişkin bilinç ve farkındalığın artırılması için gerekli eğitim, öğretim ve sertifika programlarını düzenlemek.
+ç) Tasarruf finansman sistemi ve finans hukuku alanlarında lisansüstü programların açılmasına katkı sunmak, bu alanlarda farklı disiplinlerde yapılacak lisansüstü tezlere destek vermek ve bu konularda lisans ve lisansüstü düzeylerde dersler açılmasını teşvik etmek.
