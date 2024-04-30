@@ -1,0 +1,37 @@
+{
+  "checked_on": "2026-11-15",
+  "commencement_quote": "Bu Tebliğ yayımı tarihinde yürürlüğe girer",
+  "date_gazette": "32532",
+  "date_quote": "Bu Tebliğ yayımı tarihinde yürürlüğe girer",
+  "first_law": null,
+  "gazette": "32532",
+  "history": "current-text",
+  "images": {
+    "deferred": 0,
+    "omitted": 0,
+    "referenced": 0,
+    "source": 0
+  },
+  "in_force": "2024-04-30",
+  "in_force_basis": "Own commencement clause: Bu Tebliğ yayımı tarihinde yürürlüğe girer",
+  "issuer": "Hazine ve Maliye Bakanlığı",
+  "issuer_catalog_evidence": [
+    {
+      "evidence": "issuer-578-100.json",
+      "id": "578",
+      "label": "Hazine ve Maliye Bakanlığı",
+      "listing_url": "https://www.mevzuat.gov.tr/Anasayfa/MevzuatDatatable?MevzuatTur=Teblig&KurumId=578&start=100&length=100"
+    }
+  ],
+  "issuer_slug": "hazine-ve-maliye-bakanligi",
+  "kind": "communique",
+  "label": "oldest version available",
+  "notes": [],
+  "published": "2024-04-30",
+  "source": "https://www.mevzuat.gov.tr/anasayfa/MevzuatFihristDetayIframe?MevzuatTur=9&MevzuatNo=40771&MevzuatTertip=5",
+  "source_bytes": 15177,
+  "source_id": "9.5.40771",
+  "source_sha256": "8b01a6d8b3588ddf3cf68b870bfe84b5e33d39274d8e196937630c49ed2f64d8",
+  "title": "VERGİ USUL KANUNU GENEL TEBLİĞİ\r\n(SIRA NO: 560)",
+  "word_count": 579
+}
