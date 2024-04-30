@@ -1,0 +1,29 @@
+{
+  "number": "27",
+  "number_as_published": "27",
+  "year": 2024,
+  "month": 4,
+  "title": "27.NİSAN AYI MAZERET KARARI",
+  "decision_date": null,
+  "index_date": "2024-04-30",
+  "date_precision": "month",
+  "period": "Nisan 2024",
+  "source": "https://www.gaziemir.bel.tr/meclis-karar-ve-ozetleri.php?sayfa=13",
+  "official_page": "https://www.gaziemir.bel.tr/meclis-karar-ve-ozetleri.php?sayfa=13",
+  "official_document": "https://api.gaziemir.bel.tr/upload_meclis/11672b583e3b10f711107590bc76384c11672b583e3b10f711107590bc76384c.doc",
+  "source_sha256": "114e497d81a0d4e7f400ac894896f0008d1150d1e8055f4b576cd73506067d96",
+  "issuer": "Gaziemir Belediye Meclisi",
+  "history_type": "metadata",
+  "text_status": "metadata-only: number and subject as published in the official listing; complete decision text is in the linked official page/document, not transcribed",
+  "in_force": "2024-04-30",
+  "in_force_basis": "The official listing gives only the month of this decision (Nisan 2024); date set to the last day of that month (turkey-law date convention for month-only sources); exact adoption dates are in the linked official document; legal commencement not asserted",
+  "missing": [
+    "exact decision date",
+    "complete official decision text",
+    "official annexes"
+  ],
+  "law_text_complete": false,
+  "privacy_withheld": false,
+  "posting_date": "08.05.2024",
+  "record_scope": "one council decision (number and month as listed; year from the posting date)"
+}
