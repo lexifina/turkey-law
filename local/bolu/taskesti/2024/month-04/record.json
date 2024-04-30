@@ -1,0 +1,29 @@
+{
+  "number": "month-04",
+  "year": 2024,
+  "month": 4,
+  "title": "2024 YILI NİSAN AYI MECLİS KARARI",
+  "decision_date": null,
+  "index_date": "2024-04-30",
+  "date_precision": "month",
+  "period": "Nisan 2024",
+  "source": "https://www.taskesti.bel.tr/karar/2024-yili-nisan-ayi-meclis-karari",
+  "official_page": "https://www.taskesti.bel.tr/karar/2024-yili-nisan-ayi-meclis-karari",
+  "official_document": "https://www.taskesti.bel.tr/karar/2024-yili-nisan-ayi-meclis-karari",
+  "source_sha256": "b98b4106457e09a9d1a129a53bd6b6d81c82b13916312294dd1d79212b9e6a58",
+  "issuer": "Taşkesti Belediye Meclisi",
+  "history_type": "metadata",
+  "text_status": "metadata-only: listing fields as published; the decisions are in the linked official document(s) or page, not transcribed",
+  "in_force": "2024-04-30",
+  "in_force_basis": "The official listing gives only the month of this official file (Nisan 2024); date set to the last day of that month (turkey-law date convention for month-only sources); exact adoption dates are in the linked official document; legal commencement not asserted",
+  "missing": [
+    "decision numbers, dates and subjects",
+    "complete official decision text",
+    "official annexes"
+  ],
+  "law_text_complete": false,
+  "privacy_withheld": false,
+  "listing_label": "2024 YILI NİSAN AYI MECLİS KARARI",
+  "record_scope": "one official file of council decisions (meeting or month)",
+  "document_note": "the decisions are published as text on the official page itself (no separate file); not transcribed here"
+}
