@@ -1,0 +1,29 @@
+{
+  "number": "month-04",
+  "year": 2024,
+  "month": 4,
+  "title": "2024 Yılı Nisan Ayı Meclis Kararları",
+  "decision_date": null,
+  "index_date": "2024-04-30",
+  "date_precision": "month",
+  "period": "Nisan 2024",
+  "source": "https://www.karabukozelidare.gov.tr/2024-yili-nisan-ayi-meclis-kararlari",
+  "official_page": "https://www.karabukozelidare.gov.tr/2024-yili-nisan-ayi-meclis-kararlari",
+  "official_document": "http://www.karabukozelidare.gov.tr/kurumlar/karabukozelidare.gov.tr/Meclis Kararları/2024/nisan/UntitledFR1200.pdf",
+  "source_sha256": "edfa0c2a139b667bcead3d194613e41b250245b0e5394c3f528fe08471a985fd",
+  "issuer": "Karabük İl Genel Meclisi",
+  "history_type": "metadata",
+  "text_status": "metadata-only: listing fields as published; the decisions are in the linked official document(s) or page, not transcribed",
+  "in_force": "2024-04-30",
+  "in_force_basis": "The official listing gives only the month of this official file (Nisan 2024); date set to the last day of that month (turkey-law date convention for month-only sources); exact adoption dates are in the linked official document; legal commencement not asserted",
+  "missing": [
+    "decision numbers, dates and subjects",
+    "complete official decision text",
+    "official annexes"
+  ],
+  "law_text_complete": false,
+  "privacy_withheld": false,
+  "listing_label": "2024 Yılı Nisan Ayı Meclis Kararları",
+  "record_scope": "one official file of council decisions (meeting or month)",
+  "item_title": "2024 Yılı Nisan Ayı Meclis Kararları"
+}
