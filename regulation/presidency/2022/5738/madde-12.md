@@ -1,0 +1,8 @@
+İhale komisyonunun kurulması ve çalışma esasları
+MADDE 12- (1) İhale yetkilisi, biri başkan olmak üzere, ikisinin ihale konusu işin uzmanı olması şartıyla, ilgili idare personelinden en az dört kişinin ve muhasebe veya mali işlerden sorumlu bir personelin katılımıyla kurulacak en az beş ve tek sayıda kişiden oluşan ihale komisyonunu, yedek üyeler de dahil olmak üzere görevlendirir.
+(2) İhaleyi yapan idarede yeterli sayı veya nitelikte personel bulunmaması halinde, 4734 sayılı Kanun kapsamındaki idarelerden komisyona üye alınabilir.
+(3) Gerekli incelemeyi yapmalarını sağlamak amacıyla ihale işlem dosyasının birer örneği, ilan veya daveti izleyen üç gün içinde ihale komisyonu üyelerine verilir.
+(4) İhale komisyonları eksiksiz olarak toplanır. Komisyon kararları çoğunlukla alınır. Kararlarda çekimser kalınamaz. Muhalif kalan üye, karşı oy gerekçesini karar altına yazarak imzalamak zorundadır. Komisyon başkan ve üyeleri oy ve kararlarından sorumludurlar.
+(5) İhale komisyonunca alınan kararlar ve düzenlenen tutanaklar, komisyon başkan ve üyelerinin adları, soyadları ve görev unvanları belirtilerek imzalanır.
+(6) Yurt dışındaki kültür varlıkları için yapılacak ihaleler, ihale yetkilisi makamca, biri başkan olmak ve en az üç ve tek sayıda kişiden oluşmak üzere mahallinde kurulacak ihale komisyonu tarafından yapılır. Komisyon üyeleri Bakanlığın merkez veya taşra teşkilatından veya yabancı ülkelerdeki kuruluşlarında görevli personelinden seçilir. İhaleyi yapan idarede yeterli sayı veya nitelikte personel bulunmaması halinde yurt dışı teşkilatlarından komisyona üye alınır.
+(7) İhale komisyonunun kararları yetkili makam tarafından onaylanarak kesinleşir.

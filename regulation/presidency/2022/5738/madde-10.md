@@ -1,0 +1,2 @@
+Yaklaşık maliyetin belirlenememesi
+MADDE 10- (1) İhale konusu işin özgün nitelikte ve karmaşık olması nedeniyle teknik ve mali özellikleri ile yaklaşık maliyetinin gerekli olan netlikte belirlenememesi durumunda, bu durumu gerektiren sebepler bir tutanakla tespit edilir ve ihaleyi yapan idarenin üst yöneticisinin onayı alınmak suretiyle 22 nci maddenin birinci fıkrasının (c) bendine göre ihale yapılabilir.

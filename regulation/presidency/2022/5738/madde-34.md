@@ -1,0 +1,2 @@
+Fiyat farkı ödenmesi ve hesaplanma şartları
+MADDE 34- (1) İdareler; sözleşmenin yürütülmesi sırasında fiyat farkı ödenmesini öngörmeleri halinde; alımın niteliğine göre idari şartname ve sözleşmelerinde fiyat farkı ödemelerinin 4734 sayılı Kanuna göre ihalesi yapılacak olan alımlar için 4735 sayılı Kanunun 8 inci maddesi gereğince Cumhurbaşkanı kararıyla yürürlüğe konulan usul ve esaslar çerçevesinde yapılacağını düzenlerler.

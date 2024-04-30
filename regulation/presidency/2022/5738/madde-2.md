@@ -1,0 +1,2 @@
+Kapsam
+MADDE 2- (1) Bu Usul ve Esaslar, 21/7/1983 tarihli ve 2863 sayılı Kültür ve Tabiat Varlıklarını Koruma Kanunu kapsamındaki kültür varlıklarının rölöve, restitüsyon, restorasyon projeleri, sokak sağlıklaştırma, çevre düzenleme projeleri, teşhir tanzim projeleri ve bunların uygulamaları ile değerlendirme, muhafaza, nakil işleri ve kazı çalışmalarına ilişkin mal ve hizmet alımları ihalelerini kapsar.
