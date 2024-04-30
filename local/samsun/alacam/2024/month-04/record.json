@@ -1,0 +1,30 @@
+{
+  "number": "month-04",
+  "year": 2024,
+  "month": 4,
+  "title": "2024 YILI NİSAN AYI 4.NCİ TOPLANTI 1.NCİ BİRLEŞİMİN 1.OTURUMUNA AİT TOPLANTISINDA ALINAN KARAR ÖZETLERİ.",
+  "decision_date": null,
+  "index_date": "2024-04-30",
+  "date_precision": "month",
+  "period": "Nisan 2024",
+  "source": "https://www.alacam.bel.tr/meclis-kararlari/2",
+  "official_page": null,
+  "official_document": "https://www.alacam.bel.tr/karar/2024-yili-nisan-ayi-4-nci-toplanti-1-nci-birlesimin-1-oturumuna-ait-toplantisinda-alinan-karar-ozetleri",
+  "source_sha256": "f66a5fcbee9a301ad5657a67832ae6cf3e1ac01bf529661c8a409cb0bbc2f003",
+  "issuer": "Alaçam Belediye Meclisi",
+  "history_type": "metadata",
+  "text_status": "metadata-only: listing fields as published; the decisions are in the linked official document(s) or page, not transcribed",
+  "in_force": "2024-04-30",
+  "in_force_basis": "The official listing gives only the month of this official file (Nisan 2024); date set to the last day of that month (turkey-law date convention for month-only sources); exact adoption dates are in the linked official document; legal commencement not asserted",
+  "missing": [
+    "decision numbers, dates and subjects",
+    "complete official decision text",
+    "official annexes"
+  ],
+  "law_text_complete": false,
+  "privacy_withheld": false,
+  "listing_label": "2024 YILI NİSAN AYI 4.NCİ TOPLANTI 1.NCİ BİRLEŞİMİN 1.OTURUMUNA AİT TOPLANTISINDA ALINAN KARAR ÖZETLERİ.",
+  "record_scope": "one official file of council decisions (meeting or month)",
+  "list_date": "10-04-2024",
+  "document_note": "the decisions are published on the linked official page; not transcribed here"
+}
