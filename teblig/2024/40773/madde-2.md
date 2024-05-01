@@ -1,0 +1,2 @@
+Dayanak
+MADDE 2- (1) Bu Tebliğ, Ziraat Katılım Bankası A.Ş. Tarafından Tarımsal Üretime Dair Hazine Kâr Payı Destekli Yatırım ve İşletme Finansmanı Kullandırılmasına İlişkin Kararın 3 üncü maddesinin on beşinci fıkrası ile T.C. Ziraat Bankası A.Ş. ve Tarım Kredi Kooperatiflerince Tarımsal Üretime Dair Hazine Faiz Destekli Yatırım ve İşletme Kredisi Kullandırılmasına İlişkin Kararın 3 üncü maddesinin on beşinci fıkrasına dayanılarak hazırlanmıştır.

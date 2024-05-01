@@ -1,0 +1,2 @@
+Arazi alımı (birleştirme)
+MADDE 23- (1) Dağınık ve parçalı arazilerin birleştirilmesi suretiyle tarımsal işletmelerin ekonomik ölçeğe kavuşturulmasının sağlanmasına yönelik olarak, tarımsal üretim ya da tarımsal yatırım yapmak amacıyla, hisseli tarım arazilerindeki hisselerinin diğer hissedarlar tarafından satın alınması ya da hisseli olup olmadığına bakılmaksızın bitişik tarım arazilerinin satın alınmasına yönelik kredi/finansman talepleri Banka, Katılım Bankası ve TKK’nın kendi iç mevzuatına uygun olmak kaydıyla değerlendirilir.

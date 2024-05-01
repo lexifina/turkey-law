@@ -1,0 +1,30 @@
+{
+  "source_id": "9.5.40773",
+  "kind": "communique",
+  "register_kind": "Tebliğler",
+  "title": "TARIMSAL ÜRETİME DAİR FAİZ/KÂR PAYI DESTEKLİ YATIRIM VE İŞLETME KREDİSİ/FİNANSMANI KULLANDIRILMASINA İLİŞKİN UYGULAMA ESASLARI TEBLİĞİ (TEBLİĞ NO: 2024/15)",
+  "number": "40773",
+  "issuer": "Tarım ve Orman Bakanı",
+  "path": "teblig/2024/40773",
+  "source": "https://www.mevzuat.gov.tr/anasayfa/MevzuatFihristDetayIframe?MevzuatTur=9&MevzuatNo=40773&MevzuatTertip=5",
+  "source_sha256": "36c6c87d55b0374397dfdbc21b237add927af5024caa0733d5ee26e53e50a2b3",
+  "source_bytes": 299819,
+  "published": "2024-05-01",
+  "gazette": "32533",
+  "in_force": "2024-05-01",
+  "in_force_basis": "Resmî Gazete publication date in the official listing (01.05.2024)",
+  "history": "current-text",
+  "label": "oldest version available",
+  "checked_on": "2026-11-15",
+  "word_count": 11360,
+  "text_status": "current-consolidated",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  },
+  "source_links": [
+    "9.5.40773-Ek.zip"
+  ],
+  "completeness": "html-text-complete; linked annexes not fetched"
+}

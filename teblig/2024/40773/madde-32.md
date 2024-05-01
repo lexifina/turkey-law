@@ -1,0 +1,3 @@
+Tarımsal Ar-Ge
+MADDE 32- (1) Bakanlık tarafından uygulanan Araştırma ve Geliştirme Destek Programı kapsamında desteklenen proje sahibi tarımsal Ar-Ge firmalarının yatırım ve işletme kredi/finansmanı bu kapsamda değerlendirilir.
+(2) 28/2/2008 tarihli ve 5746 sayılı Araştırma, Geliştirme ve Tasarım Faaliyetlerinin Desteklenmesi Hakkında Kanun kapsamında Ar-Ge ve Tasarım Merkezi belgesine sahip firmalar ve 5553 sayılı Kanun kapsamında Tarımsal Araştırma Kuruluş Yetki Belgesi alan tohumculuk firmaları ile 26/6/2001 tarihli ve 4691 sayılı Teknoloji Geliştirme Bölgeleri Kanunu kapsamında olan girişimcilere yatırım ve işletme kredi/finansmanı kullandırılabilir.
