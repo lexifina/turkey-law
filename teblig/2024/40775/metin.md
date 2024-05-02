@@ -1,0 +1,31 @@
+GÜMRÜK GENEL TEBLİĞİ (TARİFE-SINIFLANDIRMA KARARLARI) (SERİ NO: 40) Amaç MADDE 1- (1) Bu Tebliğin amacı, muhtelif eşyanın Kombine Nomanklatür kodu itibarıyla sınıflandırılmasına ilişkin Avrupa Birliği (AB) kararlarını duyurarak tarife sınıflandırma uygulamalarımızın AB’nin uygulamaları ile yeknesaklığını temin etmektir. Kapsam MADDE 2- (1) Bu Tebliğ, yayımlanmış oldukları AB Resmî Gazetesi tarihleri itibarıyla aşağıdaki tabloda listelenen “Bazı Malların Sınıflandırılmasına İlişkin Komisyon Tüzükleri”nde yer alan sınıflandırma kararlarını (EK-1) kapsar.
+AB Tüzük No: | AB Resmî Gazetesi Tarih:
+83 | 21/1/2022
+556, 557 | 7/4/2022
+788 | 20/5/2022
+933 | 17/6/2022
+1103 | 4/7/2022
+1522, 1523, 1524 | 14/9/2022
+2076 | 28/10/2022
+2259, 2260 | 18/11/2022
+248 | 6/2/2023
+745 | 12/4/2023
+808 | 14/4/2023
+1057 | 1/6/2023
+1131 | 9/6/2023
+1419, 1420 | 7/7/2023
+1427 | 10/7/2023
+2218 | 18/10/2023
+2451 | 3/11/2023
+2489, 2490, 2491 | 10/11/2023
+2519 | 14/11/2023
+2656 | 27/11/2023
+Dayanak MADDE 3- (1) Bu Tebliğ, 27/10/1999 tarihli ve 4458 sayılı Gümrük Kanununun 10 uncu maddesinin birinci fıkrasının (c) bendi ile 1 sayılı Cumhurbaşkanlığı Teşkilatı Hakkında Cumhurbaşkanlığı Kararnamesinin 447 nci maddesinin birinci fıkrasının (c) bendine dayanılarak hazırlanmıştır. Tanımlar MADDE 4- (1) Bu Tebliğde geçen; a) Armonize Sistem (AS) İzahnamesi: 10/11/1988 tarihli ve 3501 sayılı Kanun ile kabul edilen ve 1/1/1989 tarihinden itibaren yürürlüğe giren “Armonize Mal Tanımı ve Kodlama Sistemi Uluslararası Sözleşmesi” eki Armonize Sistem Nomanklatürünün açıklama notlarını, b) Dünya Gümrük Örgütü (DGÖ) Sınıflandırma AVİ’si: DGÖ tarafından duyurulan Armonize Sistem Kodu (6 haneli) düzeyindeki sınıflandırma görüşlerini, c) Genel Yorum Kuralları (GYK): Türk Gümrük Tarife Cetvelinde yer alan Tarifenin Yorumu ile İlgili Genel Kuralları, ç) Kombine Nomanklatür (KN) İzahnamesi: AB Kombine Nomanklatürü’nün açıklama notlarını, d) Kombine Nomanklatür (KN) kodu: Avrupa Birliği tarafından yayımlanan ve İstatistik Pozisyonlarına Bölünmüş Türk Gümrük Tarife Cetvelindeki pozisyonların ilk 8 rakamına denk gelen kodları, e) Türk Gümrük Tarife Cetveli (TGTC): Cumhurbaşkanınca kabul edilen İstatistik Pozisyonlarına Bölünmüş Türk Gümrük Tarife Cetvelini, ifade eder. Genel açıklamalar MADDE 5- (1) Bu Tebliğin EK-1’inde yer alan sınıflandırma kararlarına uymayan Bağlayıcı Tarife Bilgileri, 4458 sayılı Kanunun 9 uncu maddesi uyarınca, bu Tebliğin yürürlüğe girdiği tarihten itibaren geçerliliğini yitirir. (2) Bu Tebliğin EK-1’inde yer alan sınıflandırma kararlarına uymayan aynı düzeydeki daha önce yayımlanmış sınıflandırma kararları söz konusu olduğunda bu Tebliğ hükümleri uygulanır. Yürürlük MADDE 6- (1) Bu Tebliğ yayımı tarihinde yürürlüğe girer. Yürütme MADDE 7- (1) Bu Tebliğ hükümlerini Ticaret Bakanı yürütür. Eki için tıklayınız
+ | Tebliğin Yayımlandığı Resmî Gazete’nin
+Tarihi | Sayısı
+2/5/2024 | 32534
+Tebliğde Değişiklik Yapan Tebliğlerin Yayımlandığı Resmî Gazetelerin
+Tarihi | Sayısı
+1. | 23/5/2024 | 32554
+2. |  | 
+3. |  | 
