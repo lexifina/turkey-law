@@ -1,0 +1,17 @@
+{
+  "kind": "decision",
+  "issuer": "Sayıştay 7. Dairesi",
+  "number": "603",
+  "decision_date": "2024-05-02",
+  "source_id": 38573,
+  "chamber": "7",
+  "ilam_number": "457",
+  "item_number": 1,
+  "public_body_type": "Belediyeler ve Bağlı İdareler",
+  "account_year": 2014,
+  "subject": "Vergi Resmi Harç ve Diğer Gelirlerle İlgili Kararlar",
+  "source": "https://www.sayistay.gov.tr/KararlarDaire/Detay/38573/",
+  "source_sha256": "a2ea0e52f598808c03e71eec7a3b2df4b1d4a377e9176f32e4571049db509357",
+  "text_status": "as-enacted",
+  "text_file": "metin.md"
+}
