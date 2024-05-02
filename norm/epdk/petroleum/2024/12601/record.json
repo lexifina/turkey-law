@@ -1,0 +1,26 @@
+{
+  "kind": "norm",
+  "issuer": "Enerji Piyasası Düzenleme Kurumu",
+  "market": "petroleum",
+  "document_type": "board-decision",
+  "number": "12601",
+  "decision_date": "2024-05-02",
+  "title": "Petrol Ofisi Anonim Şirketi’nin; PİL/5702-1/35810 sayılı İletim Lisansı kapsamında faaliyette bulunan Antalya Terminali İletim Tesisine ilişkin",
+  "resmi_gazete_date": "2024-05-04",
+  "resmi_gazete_number": "32536",
+  "categories": [
+    "İletim Tarifesi"
+  ],
+  "source": "https://www.epdk.gov.tr/Detay/DownloadDocument?id=bqxF2HKYzD4=",
+  "documents": [
+    "https://www.epdk.gov.tr/Detay/DownloadDocument?id=bqxF2HKYzD4=",
+    "https://www.epdk.gov.tr/Detay/DownloadDocument?id=I6PxxaF9/pI="
+  ],
+  "source_sha256": "06451d940d535d5b92445efc29521c82affdebf5d7702ce0fcba0a2d1f494261",
+  "official_list": "https://www.epdk.gov.tr/Detay/Icerik/3-0-100/kurul-kararlari",
+  "official_list_leaf": 5334,
+  "text_status": "as-enacted",
+  "text_file": "metin.md",
+  "in_force": "2024-05-02",
+  "law_text_complete": true
+}
