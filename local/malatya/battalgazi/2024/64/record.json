@@ -1,0 +1,24 @@
+{
+  "number": "64",
+  "number_as_published": "64",
+  "year": 2024,
+  "title": "council decision",
+  "decision_date": "2024-05-02",
+  "source": "https://www.battalgazi.bel.tr/wp-json/wp/v2/posts?categories=88&per_page=100&page=6&_fields=id,date,link,title,content",
+  "official_document": "https://www.battalgazi.bel.tr/2024/05/02/battalgazi-insaat-ltd-stinin-genel-kurulunda-belediyemizi-temsil-etmek-uzere-yetkili-atanmasi/",
+  "source_sha256": "9ea1cf08226cbdf964f8315bbb29131440ff01e17c98ea52f3146f2ff1225b33",
+  "issuer": "Battalgazi Belediye Meclisi",
+  "history_type": "metadata",
+  "text_status": "metadata-only: subject appears to concern individual persons; official link only",
+  "in_force": "2024-05-02",
+  "in_force_basis": "Decision date as printed in the official council listing: 02.05.2024 (Karar Tarihi on the official decision page); adoption date of the council decision; legal commencement not asserted",
+  "missing": [
+    "complete official decision text",
+    "official annexes"
+  ],
+  "law_text_complete": false,
+  "privacy_withheld": true,
+  "official_page": "https://www.battalgazi.bel.tr/2024/05/02/battalgazi-insaat-ltd-stinin-genel-kurulunda-belediyemizi-temsil-etmek-uzere-yetkili-atanmasi/",
+  "post_date": "2024-05-02T10:58:56",
+  "record_scope": "one council decision (official decision page)"
+}
