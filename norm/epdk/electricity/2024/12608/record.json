@@ -1,0 +1,27 @@
+{
+  "kind": "norm",
+  "issuer": "Enerji Piyasası Düzenleme Kurumu",
+  "market": "electricity",
+  "document_type": "board-decision",
+  "number": "12608",
+  "decision_date": "2024-05-02",
+  "title": "İletim Sistemi Sistem Kullanım ve Sistem İşletim Tarifelerini Hesaplama ve Uygulama Yöntem Bildiriminin ekteki şekilde revize edilmesine ilişkin",
+  "resmi_gazete_date": "2024-05-07",
+  "resmi_gazete_number": "32539",
+  "categories": [
+    "Elektrik Piyasası Düzenleyici Tarife Kurul Kararları",
+    "TEİAŞ"
+  ],
+  "source": "https://www.epdk.gov.tr/Detay/DownloadDocument?id=u3ngco5QS5g=",
+  "documents": [
+    "https://www.epdk.gov.tr/Detay/DownloadDocument?id=u3ngco5QS5g=",
+    "https://www.epdk.gov.tr/Detay/DownloadDocument?id=ovTCEyQPXkY="
+  ],
+  "source_sha256": "8b5101deff6e433fe753f7f32424cda6d8a54da271f90c5479beeb62568041db",
+  "official_list": "https://www.epdk.gov.tr/Detay/Icerik/3-0-39/kurul-kararlari-",
+  "official_list_leaf": 14799,
+  "text_status": "as-enacted",
+  "text_file": "metin.md",
+  "in_force": "2024-05-02",
+  "law_text_complete": true
+}
