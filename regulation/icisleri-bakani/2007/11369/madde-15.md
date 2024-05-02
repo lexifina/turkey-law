@@ -1,0 +1,2 @@
+Sağlık personeli
+MADDE 15 – (1) Bu Yönetmeliğin yürürlüğe girdiği tarihde hastanesi bulunan veya bu tarihten sonra hastane açan özel idarelerde, norm kadro standartları cetvelinde belirlenen personel sayısının yetersiz kalması durumunda, 26/10/1994 tarihli ve 22093 sayılı Resmî Gazete’de yayımlanarak yürürlüğe giren Sağlık Bakanlığı Taşra Teşkilatı Yatak ve Kadro Standartları Yönetmeliğinde yatak sayısı itibarıyla öngörülen kadro sayılarını aşmamak üzere ihdas edilecek kadrolar özel idarenin personel kadrosuna eklenir.

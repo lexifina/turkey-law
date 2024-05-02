@@ -1,0 +1,2 @@
+Kadro ihdası
+MADDE 10 – (1) 14/7/1965 tarihli ve 657 sayılı Devlet Memurları Kanununa tabi memur kadroları ile sürekli işçi kadroları bu Yönetmeliğe uygun olarak il genel meclisince ihdas edilir. Memur kadro ihdası için Ek-5 Özel İdareler Kadro Cetvellerinden (I) sayılı cetvel, sürekli işçi kadroları için (V) sayılı cetvel eksiksiz olarak doldurularak ihdas gerekçeleriyle birlikte meclise sunulur. Kadroların iptalinde de aynı usul uygulanır. Kadroların iptal-ihdas ve değişikliğinde, Ek-5 Özel İdareler Kadro Cetvellerinden (IV) ve (VII) sayılı cetveller düzenlenir.

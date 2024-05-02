@@ -1,0 +1,3 @@
+İlçe özel idaresi kurulması
+MADDE 17 – (1) 5302 sayılı İl Özel İdaresi Kanununun 35 inci maddesi çerçevesinde ilçelerde özel idare teşkilatı kurulması durumunda, ildeki ilçe sayısını geçmeyecek sayıda ilçe özel idare müdürü kadrosu bu Yönetmeliğin Ek 4’ünde yer alan (I) sayılı Özel İdareler Memur Kadro Kütüğüne uygun olarak ihdas edilerek özel idarenin kadrolarına eklenir.
+(2) İlçedeki özel idare hizmetlerinde ihtiyaç duyulan idari ve teknik personel ile sağlık ve yardımcı hizmet personeli il özel idaresinin norm kadrosundan düşülmek kaydıyla, ilçe özel idarelerine kadro aktarımı yapılarak karşılanır.

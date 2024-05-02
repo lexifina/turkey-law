@@ -1,0 +1,2 @@
+Mevcut boş kadroların kullanımı
+GEÇİCİ MADDE 1 – (1) Bu Yönetmeliğin yürürlüğe girdiği tarihte mevcut boş memur ve sürekli işçi kadroları en geç altı ay içinde, bu tarihten sonra boşalacak kadrolar üç ay içinde Ek-4 Özel İdareler Kadro Kütüklerinden ilgisine göre (I) ve (II) sayılı Kütüklerde bulunan unvanlara uygun hale getirilir. Bu kadrolar kütüklerde bulunan unvanlara uygun hale getirilmedikçe kullanılamaz.

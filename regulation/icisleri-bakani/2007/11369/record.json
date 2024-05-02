@@ -1,0 +1,82 @@
+{
+  "source_id": "7.5.11369",
+  "kind": "regulation",
+  "register_kind": "Kurum ve Kuruluş Yönetmelikleri",
+  "title": "İL ÖZEL İDARELERİ NORM KADRO İLKE VE STANDARTLARINA DAİR YÖNETMELİK",
+  "number": "11369",
+  "issuer": "İçişleri Bakanı",
+  "issuer_slug": "icisleri-bakani",
+  "path": "regulation/icisleri-bakani/2007/11369",
+  "source": "https://www.mevzuat.gov.tr/anasayfa/MevzuatFihristDetayIframe?MevzuatTur=7&MevzuatNo=11369&MevzuatTertip=5",
+  "source_sha256": "e3ef1d169381ca5e60678010ee4c856295abbad5c003028f516affda14565d8b",
+  "source_bytes": 55785,
+  "published": "2007-06-10",
+  "gazette": "26548",
+  "in_force": "2024-05-02",
+  "in_force_basis": "latest Resmî Gazete date printed in the source amendment notes/table (\"2/5/2024\") for the current consolidated text",
+  "date_evidence": [
+    [
+      "2024-05-02",
+      "2/5/2024",
+      "Resmî Gazete date in the source amendment table"
+    ],
+    [
+      "2021-06-12",
+      "RG-12/6/2021",
+      "Resmî Gazete date printed in the source amendment note"
+    ],
+    [
+      "2021-06-12",
+      "12/6/2021",
+      "Resmî Gazete date in the source amendment table"
+    ],
+    [
+      "2016-05-22",
+      "RG-22/5/2016",
+      "Resmî Gazete date printed in the source amendment note"
+    ],
+    [
+      "2016-05-22",
+      "22/5/2016",
+      "Resmî Gazete date in the source amendment table"
+    ],
+    [
+      "2012-04-10",
+      "RG-10/4/2012",
+      "Resmî Gazete date printed in the source amendment note"
+    ],
+    [
+      "2012-04-10",
+      "10/4/2012",
+      "Resmî Gazete date in the source amendment table"
+    ],
+    [
+      "2010-10-01",
+      "RG-1/10/2010",
+      "Resmî Gazete date printed in the source amendment note"
+    ],
+    [
+      "2010-10-01",
+      "1/10/2010",
+      "Resmî Gazete date in the source amendment table"
+    ]
+  ],
+  "commencement_clauses": [
+    "Bu Yönetmelik yayımı tarihinde yürürlüğe girer"
+  ],
+  "history": "current-text",
+  "label": "oldest version available",
+  "checked_on": "2026-11-15",
+  "word_count": 2761,
+  "text_status": "current-consolidated",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  },
+  "source_links": [
+    "http://mevzuat.basbakanlik.gov.tr/mevzuat/cache/yonetmelik/http:/rega.basbakanlik.gov.tr/eskiler/2006/10/20061005-1.htm",
+    "7.5.11369-ek.doc"
+  ],
+  "completeness": "html-text-complete; linked annexes not fetched"
+}

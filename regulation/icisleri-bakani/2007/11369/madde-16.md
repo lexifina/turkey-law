@@ -1,0 +1,3 @@
+Özel güvenlik personeli
+MADDE 16 – (1) Özel güvenlik hizmetlerinin özel idarelerin kendi bünyesinde özel güvenlik birimi kurdurularak gördürülmesi halinde, 10/6/2004 tarihli ve 5188 sayılı Özel Güvenlik Hizmetlerine Dair Kanun ile 7/10/2004 tarihli ve 25606 sayılı Resmî Gazete’de yayımlanan Özel Güvenlik Hizmetlerine Dair Kanunun Uygulanmasına İlişkin Yönetmelikteki usul ve esaslara uygun olarak belirlenecek kadrolar bu Yönetmelik hükümlerine göre ihdas edilir ve özel idareler için bu Yönetmelikte tespit edilen norm kadro standartları toplamına eklenir.
+(2) Tespit edilecek özel güvenlik kadro unvanları bu Yönetmeliğin ekinde yer alan Ek-4 Özel İdareler Kadro Kütüklerinden (I) sayılı Özel İdareler Memur Kadro Kütüğünde belirlenen unvanlardan seçilir.

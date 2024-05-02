@@ -1,0 +1,3 @@
+Kadro değişikliği
+MADDE 11 – (1) Boş memur kadrolarında sınıf, unvan ve derece değişikliği, boş memur kadrolarının iptali ve dolu kadrolarda derece değişikliği meclis kararıyla yapılır. Boş kadro değişikliklerinde bu Yönetmeliğin ekinde yer alan Ek-5 Özel İdareler Kadro Cetvellerinden (II) sayılı cetvel, dolu kadro değişikliklerinde (III) sayılı cetvel eksiksiz düzenlenerek gerekçesiyle birlikte meclise sunulur.
+(2) Bu maddeye göre kadroları değiştirilenlerin özlük hakları, değiştirilen yeni kadrolara atama işlemleri tamamlanıncaya kadar eski kadro dereceleri esas alınarak ödenir. Yeni kadrolara atanma tarihi meclisin karar tarihini takip eden aybaşını geçemez.
