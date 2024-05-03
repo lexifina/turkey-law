@@ -1,0 +1,2 @@
+Sözleşme yapılmasında isteklinin görev ve sorumluluğu
+MADDE 28 – (1) İhale üzerinde kalan istekli, ihale tarihi itibarıyla 10 uncu maddenin dördüncü fıkrasında sayılan durumlarda olmadığına dair belgeleri ve kesin teminatı 26 ncı maddedeki süresi içinde vererek sözleşmeyi imzalamak zorundadır. Sözleşme imzalandıktan hemen sonra geçici teminat iade edilir. Yüklenicinin bu zorunluluğa uymaması halinde, protesto çekmeye ve hüküm almaya gerek kalmaksızın geçici teminatı Başkanlığa gelir kaydedilerek ihale iptal edilir.

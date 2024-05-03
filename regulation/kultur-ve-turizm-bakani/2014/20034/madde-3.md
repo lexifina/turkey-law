@@ -1,0 +1,23 @@
+Tanımlar
+MADDE 3 – (1) Bu Yönetmelikte geçen;
+a) Bakan: Kültür ve Turizm Bakanını,
+b) Bakanlık: Kültür ve Turizm Bakanlığını,
+c) Başkan: Çanakkale Savaşları Gelibolu Tarihi Alan Başkanını,
+ç) Başkanlık: Çanakkale Savaşları Gelibolu Tarihi Alan Başkanlığını,
+d) Belli istekliler arasında ihale usulü: Başkanlık tarafından davet edilen isteklilerin teklif verebildiği usulü,
+e) Danışman: Danışmanlık yapan, bilgi ve deneyimini Başkanlığın yararı için kullanan, danışmanlığını yaptığı işin yüklenicileri ile hiçbir organik bağ içinde bulunmayan, Başkanlıktan danışmanlık hizmeti karşılığı dışında hiçbir kazanç sağlamayan ve danışmanlık hizmetlerini veren hizmet sunucularını,
+f) Doğrudan temin usulü: Bu Yönetmelikte belirtilen hallerde ihtiyaçların, Başkanlık tarafından görevlendirilen görevlilerce piyasa araştırması yapılarak temin edilebildiği usulü,
+g) Fatura karşılığı alım usulü: 18 inci maddede belirtilen mal ve hizmet alımlarında uygulanan usulü,
+ğ) Hizmet: Bakım ve onarım, taşıma, haberleşme, sigorta, araştırma ve geliştirme, muhasebe, piyasa araştırması ve anket, danışmanlık, tanıtım, basım ve yayım, temizlik, yemek hazırlama ve dağıtım, toplantı, organizasyon, sergileme, koruma ve güvenlik, meslekî eğitim, fotoğraf, film, fikrî ve güzel sanat, bilgisayar sistemlerine yönelik hizmetler ile yazılım hizmetlerini, taşınır ve taşınmaz mal ve hakların kiralanmasını ve benzeri diğer hizmetleri,
+h) İhale: Bu Yönetmelikte yazılı usul ve şartlarla mal ve hizmet alımı ile yapım işlerinin istekliler arasından seçilecek birisi üzerine bırakıldığını gösteren ve ihale yetkilisinin onayını müteakip, gerekiyor ise sözleşmenin imzalanması ile tamamlanan işlemleri,
+ı) İhale yetkilisi: Başkanlığa bağlı harcama birimi yetkilisi olan Grup Başkanları ve I. Hukuk Müşaviri ile usulüne uygun olarak yetki devri yapılmış görevlileri,
+i) İstekli: İhaleye katılan gerçek veya tüzel kişiyi veya iş ortaklığını,
+j) İş ortaklığı: Birden fazla gerçek kişi veya tüzel kişinin ihaleye teklif verebilmek amacıyla oluşturdukları ortaklığı,
+k) Mal: Satın alınan her türlü ihtiyaç maddeleri ile taşınır ve taşınmaz mal ve hakları,
+l) Sözleşme: Mal veya hizmet alımları ile yapım işlerinde Başkanlık ile yüklenici arasında yapılan yazılı anlaşmayı,
+m) Şartname: Yapılacak işlerin genel, özel, teknik ve idari esas ve usullerini gösteren belge veya belgeleri,
+n) Tarihi Alan: 6546 sayılı Kanuna ekli harita ve koordinat listesinde sınırları belirtilen ve aynı Kanunla Başkanlığa tahsis edilen Çanakkale Savaşları Gelibolu Tarihi Alanını,
+o) Teklif: Bu Yönetmeliğe göre yapılacak ihalelerde isteklinin Başkanlığa sunduğu fiyat teklifi ile değerlendirmeye esas belge/belgeler ve/veya bilgileri,
+ö) Yapım: Bina, yol, rıhtım, liman, köprü, spor tesisi, altyapı, sulama tesisi, toprak ıslahı, taşkın koruma ve dekapaj gibi her türlü inşaat işleri ve bu işlerle ilgili tesisat, imalat, ihzarat, nakliye, tamamlama, büyük onarım, restorasyon, çevre düzenlemesi, sondaj, yıkma, güçlendirme ve montaj işleri ile benzeri yapım işlerini,
+p) Yüklenici: Üzerine ihale yapılan ve sözleşme imzalanan istekliyi,
+ifade eder.

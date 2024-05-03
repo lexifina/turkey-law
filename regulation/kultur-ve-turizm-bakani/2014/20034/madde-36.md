@@ -1,0 +1,2 @@
+Sözleşmenin devri
+MADDE 36 – (1) Sözleşme, ihale yetkilisinin yazılı izni ile sözleşmenin devrini gerektiren zorunlu bir halin bulunması ve devir alacaklarda ilk ihaledeki şartların bulunması şartıyla bir başkasına devredilebilir. İsim ve statü gereği yapılan devirler, sözleşmenin devri olarak kabul edilmez. İhale yetkilisinin izni olmadan sözleşmenin devredilmesi halinde, sözleşme feshedilir ve devreden ve devir alanlar hakkında 37 ve 38 inci maddeler uygulanır.
