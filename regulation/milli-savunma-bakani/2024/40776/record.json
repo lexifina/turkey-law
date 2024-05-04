@@ -1,0 +1,31 @@
+{
+  "source_id": "7.5.40776",
+  "kind": "regulation",
+  "register_kind": "Kurum ve Kuruluş Yönetmelikleri",
+  "title": "MİLLÎ SAVUNMA BAKANLIĞI DÖNER SERMAYE İŞLETMELERİ YÖNETMELİĞİ",
+  "number": "40776",
+  "issuer": "Millî Savunma Bakanı",
+  "issuer_slug": "milli-savunma-bakani",
+  "path": "regulation/milli-savunma-bakani/2024/40776",
+  "source": "https://www.mevzuat.gov.tr/anasayfa/MevzuatFihristDetayIframe?MevzuatTur=7&MevzuatNo=40776&MevzuatTertip=5",
+  "source_sha256": "892efec89cae420aae92aa1f48f99a8f769eb28b1fa8655c2dfb393f4f5ce6b4",
+  "source_bytes": 96107,
+  "published": "2024-05-04",
+  "gazette": "32536",
+  "in_force": "2024-05-04",
+  "in_force_basis": "Resmî Gazete publication date in the official listing (04.05.2024); own commencement article: \"Bu Yönetmelik yayımı tarihinde yürürlüğe girer\"",
+  "commencement_clauses": [
+    "Bu Yönetmelik yayımı tarihinde yürürlüğe girer"
+  ],
+  "history": "current-text",
+  "label": "oldest version available",
+  "checked_on": "2026-11-15",
+  "word_count": 4767,
+  "text_status": "current-consolidated",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  },
+  "completeness": "html-text-complete"
+}
