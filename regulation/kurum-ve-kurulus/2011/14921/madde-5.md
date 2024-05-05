@@ -1,0 +1,4 @@
+İKİNCİ BÖLÜM
+At Islahı
+Islah çalışması
+MADDE 5 – (1) Bakanlık at sağlığı ile at ıslahı ve refahını korumak ve sağlamak, atların gen kaynaklarının korunması, geliştirilmesi, damızlık amaçlı atların yetiştirilmesi, kayıt altına alınması, ön soy kütüğü ve soy kütüklerinin oluşturulması ve belgelendirilmesi, damızlık at yetiştiricileri ve damızlık atlar ile ilgili kayıtların tutulması, damızlık atların ve üreme ürünlerinin genetik özelliklerinin değerlendirilmesi, performanslarının izlenmesi ve sağlık şartları ile hayvan gen kaynaklarının korunmasına yönelik tedbirlerin alınması, Türkiye soy kütüklerine kayıtlı ve pedigrili safkan Arap ve İngiliz ana ve babadan Türkiye’de doğan taylar ile yabancı ülkelerden ithal edilen safkan Arap ve safkan İngiliz atların soy kütüğüne kaydedilmesi ile ilgili tedbirler almaya yetkilidir. Bakanlık, söz konusu yetkilerinin tamamını veya bir kısmını Yarış Müessesesine devredebilir.

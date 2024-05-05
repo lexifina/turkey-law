@@ -1,0 +1,2 @@
+Yetiştirmede kullanılması düşünülmeyen kısraklar
+GEÇİCİ MADDE 1 – (1) (Değişik ibare:RG-29/2/2012-28219) 30/6/2012 tarihine kadar, damızlık belgesi ve soy kütüğü kaydı bulunan ve yetiştirmede kullanılması düşünülmeyen kısraklar, Yarış Müessesesi ve Yüksek Komiserler Kurulu tarafından ortak olarak oluşturulan komisyon marifetiyle üç bin TL bedelle satın alınır. Bu kısrakların pedigrileri iptal edilerek ortak komisyon tarafından belirlenen yerlere veya kişilere bedelsiz olarak tahsis edilir. Satın alınan bu kısrakların bedelleri yarış gelirlerinden karşılanır.

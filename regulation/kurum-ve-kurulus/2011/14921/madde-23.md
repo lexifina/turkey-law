@@ -1,0 +1,5 @@
+Sahip değiştirme işlemleri
+MADDE 23 – (1) Sahip değişikliklerinde;
+a) Soy kütüklerine kayıtlı safkan Arap ve İngiliz atın satılması, hibe edilmesi veya veraset yoluyla intikali durumunda, sahip değişikliğinin soy kütüğüne ve pedigriye en geç bir ay içinde işletilmesi için müracaatı gerekmektedir. Sahip değişikliği için; atın pedigrisi ile birlikte illerde il müdürlüklerine, ilçelerde ilçe müdürlüklerine veya (Değişik ibare:RG-5/5/2024-32537) Yükleniciye yeni sahibi tarafından müracaat edilmesi zorunludur. Sahip değişikliği için zamanında müracaat etmeyen at sahiplerine 5996 sayılı Kanunun 36 ncı maddesinin birinci fıkrasının (ı) bendi uyarınca beş bin dört yüz TL para cezası verilir (Değişik ibare:RG-29/2/2012-28219) ,para cezasını yatırmadığı takdirde atın soy kütüğü kaydı silinerek pedigrileri iptal edilir.
+b) Soy kütüğüne kayıtlı veya soy kütüğüne yeni kayıt yapılacak olan atın tescil işlemleri esnasında sahibi ölmüş ise noterden tasdikli veraset ilâmı suretinin de gönderilmesi şarttır.
+c) Sahip değiştirmede bir aylık süre; satış tarihinden ve veraset ilâm tarihinden itibaren başlar.

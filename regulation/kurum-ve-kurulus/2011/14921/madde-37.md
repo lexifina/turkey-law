@@ -1,0 +1,2 @@
+Amaç dışı kullanma, don ve sahip değişikliğini bildirmeme
+MADDE 37 – (1) Soy kütüğüne kayıtlı safkan Arap ve İngiliz atlarının ölmeleri halinde pedigrilerini 5996 sayılı Kanunun 10 uncu maddesinin onüçüncü fıkrasında yer alan süreler içinde geri vermeyen veya sahip ve don değişikliğini bildirmeyen ve pedigrisine işletmeyen at sahipleri hakkında, aynı Kanunun 36 ncı maddesinin birinci fıkrasının (ı) bendi uyarınca beş bin dörtyüz TL para cezası verilir.
