@@ -1,0 +1,7 @@
+Eküri durumu
+MADDE 23 – (1) Ganyan, çifte bahis, üçlü ganyan, dörtlü ganyan, beşli ganyan, altılı ganyan, yedili ganyan, “n” tek ve “n” li plase oyunlarında eküri koşacakları ilan olunan atlardan herhangi birinin 5 inci maddedeki müşterek bahis çeşitlerinin tariflerine uygun şekilde kazançlı olarak dereceye girmesi halinde, ekürinin diğer atları üzerine oynayanlar da kazanmış sayılır.
+(2) Yukarıda sıralanan bahis çeşitleri haricindeki diğer bahis çeşitlerinde ise bu maddenin birinci fıkrası uygulanmaz.
+(3) (Değişik:RG-20/12/2018-30631) Birinci fıkrada sıralanan oyunlardan ganyan ve çifte bahis hariç diğer tüm bahis çeşitlerinin yer aldığı koşularda eküri olarak iştirak edeceği ilan olunan atlardan bir veya birkaçının koşuya iştirak etmemesi halinde çıkan bu at veya atların yerine;
+a) İlgili koşu altılı ganyan oyununu oluşturan koşulardan biri ise, ekürinin diğer koşan at veya atları ile (Değişik ibare:RG-5/5/2024-32537) Yüklenici tarafından altılı ganyan oyununun ilk ayağı koşulduktan sonra resmi olarak ilan edilen Altılı Ganyan Favorisi’ne (AGF) oynanmış sayılır.
+b) İlgili koşu altılı ganyan oyununu oluşturan koşulardan biri değil ise, ekürinin diğer koşan at veya atları ile üzerine en fazla ganyan satışı yapılan (EFG) at veya atlar üzerine oynanmış sayılır.
+c) Ganyan oyununda ise koşuya eküri olarak iştirak edeceği ilan olunan atlardan bir veya birkaçının koşuya iştirak etmemesi halinde bu atların üzerine oynanmış iştirak bedelleri iade edilir.

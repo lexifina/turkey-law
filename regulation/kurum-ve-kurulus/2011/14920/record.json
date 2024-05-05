@@ -1,0 +1,67 @@
+{
+  "source_id": "7.5.14920",
+  "kind": "regulation",
+  "register_kind": "Kurum ve Kuruluş Yönetmelikleri",
+  "title": "AT YARIŞLARI MÜŞTEREK BAHİSLER YÖNETMELİĞİ",
+  "number": "14920",
+  "issuer_slug": "kurum-ve-kurulus",
+  "path": "regulation/kurum-ve-kurulus/2011/14920",
+  "source": "https://www.mevzuat.gov.tr/anasayfa/MevzuatFihristDetayIframe?MevzuatTur=7&MevzuatNo=14920&MevzuatTertip=5",
+  "source_sha256": "9058751c78603b8bc9249927ce000e621dc77aa3e4431782f62e6c6fa0eecaa4",
+  "source_bytes": 111963,
+  "published": "2011-04-19",
+  "gazette": "27910",
+  "in_force": "2024-05-05",
+  "in_force_basis": "latest Resmî Gazete date printed in the source amendment notes/table (\"RG-5/5/2024\") for the current consolidated text",
+  "date_evidence": [
+    [
+      "2024-05-05",
+      "RG-5/5/2024",
+      "Resmî Gazete date printed in the source amendment note"
+    ],
+    [
+      "2024-05-05",
+      "5/5/2024",
+      "Resmî Gazete date in the source amendment table"
+    ],
+    [
+      "2018-12-20",
+      "RG-20/12/2018",
+      "Resmî Gazete date printed in the source amendment note"
+    ],
+    [
+      "2018-12-20",
+      "20/12/2018",
+      "Resmî Gazete date in the source amendment table"
+    ],
+    [
+      "2015-02-14",
+      "RG-14/2/2015",
+      "Resmî Gazete date printed in the source amendment note"
+    ],
+    [
+      "2015-02-14",
+      "14/2/2015",
+      "Resmî Gazete date in the source amendment table"
+    ],
+    [
+      "2011-05-17",
+      "17/5/2011",
+      "Resmî Gazete date in the source amendment table"
+    ]
+  ],
+  "commencement_clauses": [
+    "Bu Yönetmelik yayımı tarihinde yürürlüğe girer"
+  ],
+  "history": "current-text",
+  "label": "oldest version available",
+  "checked_on": "2026-11-15",
+  "word_count": 6409,
+  "text_status": "current-consolidated",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  },
+  "completeness": "html-text-complete"
+}

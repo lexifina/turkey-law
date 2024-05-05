@@ -1,0 +1,2 @@
+Çıkan at durumu
+MADDE 24 – (1) (Değişik:RG-14/2/2015-29267) Üçlü ganyan, dörtlü ganyan, beşli ganyan, altılı ganyan, yedili ganyan, “n” tek ve “n”li plase oyunlarında koşulara kayıtlı atlardan herhangi birinin veya birkaçının koşuya iştirak etmemesi halinde, bu at veya atların yerine ilgili koşu altılı ganyan oyununu oluşturan koşulardan biri ise, altılı ganyan favorisi olarak ilan edilen at veya atlar, değil ise üzerine en fazla ganyan satışı yapılan at veya atlar üzerine oynanmış sayılır.
