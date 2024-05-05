@@ -1,0 +1,5 @@
+At sahibinin antrenörlük yapması, antrenör çalıştırılması
+MADDE 91 – (1) Atının antrenörlüğünü kendisi yapmak isteyen at sahibi, bu Yönetmelik hükümlerine göre antrenörlük lisansı almak, atını kendisi çalıştırmayan at sahibi ise bir antrenör ile anlaşmak zorundadır. Antrenörlük ile ilgili değişikliklerin (Değişik ibare:RG-5/5/2024-32537) Yükleniciye bildirilmesi zorunludur. Bu işlemleri yaptırmayan at sahibinin atı koşulara kaydedilmez.
+(2) Antrenörlük yapmakta olan at sahipleri, antrenörlerin bütün sorumluluklarını taşırlar. Antrenörler sahip oldukları atları, idman ettirdikleri diğer atların kayıtlı olduğu koşulara kaydettiremezler.
+(3) Bir antrenörün, aynı koşuda kaç at sahibinin atları için imza atabileceği, yıllık yarış programları genel hükümlerinde belirtilir.
+(4) (Değişik:RG-27/10/2022-31996) At sahipliği, antrenörlük, (Ek ibare:RG-5/5/2024-32537) antrenör yardımcılığı, seyisbaşı ve seyislik sıfatları bir şahısta birleşmesi halinde, bu sıfatlardan birisinden dolayı alınan cezalar, diğer sıfatlar için de geçerlidir.

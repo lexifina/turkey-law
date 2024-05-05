@@ -1,0 +1,3 @@
+Koşuya katılacak atların ringe gelme zamanı ve start makinelerine girmeleri
+MADDE 57 – (1) Koşunun başlamasına en geç on dakika kala koşuya katılacak atların ve binicilerinin ringe gelmeleri zorunludur. Yarış Komiserler Kurulunun bilgisi dışında, bu sürede ringe getirilmeyen atlar beklenmez ve start yerine hareket edilir. Bu şekilde geciken atlar start hakeminin emrine girmemiş sayılır.
+(2) Start yerine gelen her binici, start hakeminin vereceği talimata ve start numarasına göre yerini alır. Start numarası bir olan at, koşu sol yandan koşulan hipodromlarda start hattının sol tarafını, sağ yandan koşulan hipodromlarda start hattının sağ tarafını işgal eder ve takip eden numaralar buna göre yerlerini alırlar.

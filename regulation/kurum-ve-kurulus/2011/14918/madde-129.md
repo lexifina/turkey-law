@@ -1,0 +1,3 @@
+Satış koşusu ile ilgili cezalar
+MADDE 129 – (Değişik:RG-5/5/2024-32537)
+(1) Satış koşusuna katılan atını kaçıran, alıcıya teslim etmeyen veya dolaylı olarak kendi atının satışına katıldığı tespit edilen at sahiplerine, at sahibi vekillerine, antrenörlerine ve antrenör yardımcılarına onbirbinsekizyüzyirmiiki Türk Lirası para cezası ve otuz gün süreyle yarışlarla ilgili her türlü yerlerden sanat icrasından yasaklama ile tribün ve eklentileri dışında yarışlarla ilgili yer ve tesislere girmekten yasaklama cezası verilir. Ayrıca, ata da otuz gün süreyle koşulara katılmaktan yasaklama cezası verilir.

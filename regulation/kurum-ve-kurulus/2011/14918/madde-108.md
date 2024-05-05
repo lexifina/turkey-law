@@ -1,0 +1,3 @@
+Apranti
+MADDE 108 – (1) (Değişik:RG-27/10/2022-31996) Apranti lisansı alabilmek için, Apranti Eğitim Merkezinde eğitim ve öğretim verilmekte olan ikinci sınıf apranti kursiyerlerin, üçüncü sınıfa geçmeye hak kazanmış olması zorunludur. Aprantilere, yarış atı sahibi olmamaları kaydı ile lisans verilir. Lisansı vizeli olan aprantiler koşularda at binebilir ve idmanlarda at çalıştırabilir.
+(2) At sahibi, at sahibi vekili (Değişik ibare:RG-5/5/2024-32537) , antrenörler veya antrenör yardımcıları koşuya kayıt ettirecekleri atlara apranti bindirecekleri hallerde, aprantinin ismini ve kilo indirimini deklare anında bildirmek zorundadır.

@@ -1,0 +1,8 @@
+Yarış komiser yardımcılarının koşularda görevlendirilme şartları
+MADDE 10 – (1) Yarış komiser yardımcısı eğitiminde başarılı olmuş ve sertifika almaya hak kazananların görevlendirilmesiyle ilgili esaslar aşağıda belirtilmiştir:
+a) Yarış komiser yardımcılığı sertifikası almış olanların tecrübe kazanmaları amacıyla, yarışlarla ilgili teknik kadrodaki varış, doping, tartı, ring, start, pist, yan hakem ve saha veterinerliği gibi pozisyonların uygun olan münhal kadrolarında en az bir yarış sezonu görevlendirilir.
+b) Yarış komiser yardımcılığı sertifikası almış olup hakem, hakem yardımcılığı ve diğer kadrolarda görevlendirilenlerin başarı durumları, her yarış sezonu sonunda Yarış Komiserler Kurulu tarafından verilecek raporla belirlenir.
+c) Varış, (Değişik ibare:RG-5/5/2024-32537) şüpheli numune alma, tartı, ring, start, pist ve saha veterinerliği gibi hakem ve hakem yardımcılıkları ile diğer kadrolarda görevlendirilerek başarılı olanlar münhal bir kadro bulunması halinde yarış komiser yardımcısı olarak görevlendirilir.
+ç) Yarış komiser yardımcılığında görevlendirilerek üç yıl içinde elli yarış günü görev ifa eden ve yapılan sınav sonucunda Yarış Komiser Sertifikası alanları yarış komiseri olarak görevlendirilebilir.
+d) Başvuru yaptıkları tarihten önce en az on yıl süre ile fiilen jokey veya antrenör olarak görev yapmış olanlar Bakanlıkça uygun görülen eğitimleri tamamlamaları sonucunda, yarış komiser sertifikası olmaksızın yarış komiseri olarak görevlendirilebilir.
+e) (Değişik:RG-23/6/2018-30457) Bakanlık tarafından, ihtiyaç duyulması halinde komiser yardımcılığı sınavı açılır. Sınavın içeriği, yeri ve zamanı Bakanlıkça belirlenir.

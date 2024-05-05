@@ -1,0 +1,10 @@
+Genel koşu kuralları
+MADDE 27 – (1) Genel koşu kuralları aşağıda belirtilmiştir:
+a) Koşularda mesafe sekizyüz metreden aşağı olamaz.
+b) Bir at aynı veya değişik hipodromlarda birbirini izleyen dört günden az olmamak kaydı ile yıllık yarış programları genel hükümlerinde belirtilen süre içinde birden fazla koşuya katılamaz.
+c) Jokeyler ve aprantiler hiçbir koşuda mahmuz takamaz.
+ç) Atların koşulara nizami yarış aksesuarı ile iştirak ettirilmesi zorunludur.
+d) Nalları mahmuzlu atlar kum pistler hariç, tırnaklı veya alaturka nallı atlar ile ön ayakları nalsız atlar koşulara iştirak edemez.
+e) (Değişik:RG-23/6/2018-30457) İğdiş, safkan Arap ve İngiliz atların hangi koşulara katılıp katılmayacağı; kamçıların ayrıntılı özellikleri ve kullanma usulü, koşularda kazaların önlenmesi, binici ve atların can güvenliği bakımından kulvar değiştirme esasları ve usulleri yıllık yarış programı genel hükümlerinde belirtilir.
+f) (Ek:RG-29/2/2012-28219) (Değişik:RG-27/10/2022-31996) Binicilerin gerek yarış gerekse idman sırasında ve seyisbaşlarının idman sırasında kullanacağı kasklar ve vücut koruyucu yelekleri ile ilgili şartlar yıllık yarış programı genel hükümlerinde belirtilir.
+g) (Ek:RG-23/6/2018-30457) (Değişik:RG-27/10/2022-31996) Resmi yarışlarda lisansı vizeli olan jokeyler ve aprantiler at binebilirler. Atların idmanlarında ise lisansı vizeli olan jokey, apranti ve seyisbaşları at binebilirler. Yarış Otoritesi tarafından apranti lisansı verilen Apranti Eğitim Merkezi üçüncü sınıfa geçen apranti kursiyerlerden resmi yarış ve atların idmanlarında at binmeleri uygun görülenler, sanat icra ederler. Apranti Eğitim Merkezinde eğitim ve öğrenim görmekte olan ve apranti lisansı bulunan kursiyerlerin katılacakları (Ek ibare:RG-5/5/2024-32537) koşuların düzenleneceği hipodromlar ve koşulara ilişkin usul ve esaslar yıllık yarış programı genel hükümlerinde düzenlenir. Ayrıca (Değişik ibare:RG-5/5/2024-32537) jokey veya apranti lisansına sahip olup, antrenör lisansını vizeye verenler idmanlarda ve start denemelerinde at binebilirler.

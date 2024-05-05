@@ -1,0 +1,2 @@
+Muayene, müşahede ve eyerleme ile ilgili cezalar
+MADDE 119 – (1) Muayene, müşahede, eyerleme yerlerine koşunun başlama saatinden belli bir süre önce atın getirilmemesi veya bu yerlerden süresinden önce çıkarılması hallerinde, yarış usul ve esaslarına aykırı hareket ederek disiplin ve düzeni bozmak şeklindeki hareketleri sebebiyle atın ilgililerine ihtar ve (Değişik ibare:RG-5/5/2024-32537) ikibindokuzyüzkırksekiz Türk Lirası para cezası verilir.

@@ -1,0 +1,25 @@
+Yarış Komiserler Kurulunun görev ve yetkileri
+MADDE 9 – (1) Yarış Komiserler Kurulunun görev ve yetkileri aşağıda belirtilmiştir:
+a) Yarış usul ve esaslarına ve yarış dürüstlüğüne uygun olarak yarışların yapılmasını temin etmek,
+b) Yarışların yapılması ile ilgili olarak, hipodromlarda her türlü tertip ve tedbirleri tespit ederek, (Değişik ibare:RG-5/5/2024-32537) Yüklenici tarafından yerine getirilmesini temin etmek,
+c) Yarış günü önlenmesi mümkün olmayan durum ve olaylar dolayısıyla koşuların yapılmasına imkan bulunmaması durumunda, koşuları ertelemek veya iptal etmek, (Ek ibare:RG-23/6/2018-30457) ya da pist değişikliği yapmak,
+ç) Görevli bulundukları yarış yerleri, hipodrom ve yarışlarla ilgili yer ve tesislerden, bu Yönetmelik hükümleri uyarınca ve Tanınan Yarış Otoritelerince tribün ve eklentileri dışında yarış yerlerine, yarışlarla ilgili tesislere girmekten ve yarışlarla ilgili yerlerde sanat icra etmekten yasaklanmış kişiler ile koşuların kural ve dürüstlüğüyle koşu yerlerinin ve tesislerinin güvenliğini bozacak harekette bulunanları Hipodrom Müdürlüğüne bildirerek, yarış yerlerine girmelerine mani olmak ve girenlerin güvenlik güçleri vasıtasıyla çıkarılmalarını sağlamak,
+d) Bu Yönetmelik hükümleri uyarınca veya Tanınan Yarış Otoriteleri tarafından yarışlarla ilgili yerlerde sanat icrasından ve atları yarışlara iştirakten yasaklananlara ilişkin olarak verilmiş cezaların süresince yarışlarla ilgili yer ve tesislere girmesini engellemek,
+e) (Değişik:RG-5/5/2024-32537) İlgililerin savunmalarını almak koşuluyla ihtar ve para cezası ile üç aya kadar koşulara katılmaktan, tribün ve eklentileri dışında yarışlarla ilgili yer ve tesislere girmekten, yarışlarla ilgili her türlü yerlerde sanat icra etmekten veya idman yeri dışında yarışlarla ilgili her türlü yerlerde sanat icra etmekten yasaklama cezalarını vermek ve uygulamak, yetkilerini aşan cezaları da Yüksek Komiserler Kuruluna teklif etmek,
+f) Yarış atlarının, yarışlarla ilgili kimselerin ve şüpheli şahısların hal ve hareketlerini takip etmek ile yarışların dürüstlüğüne aykırı hal ve hareketlere mani olmak,
+g) Yarış veya yarış yerleri ile ilgili aksaklıkların giderilmesi için gerekli araştırma ve incelemeleri yapmak ve gerektiğinde ilgililerin ifadelerine başvurmak,
+ğ) Yarışlarla ilgili kararları, yarış yerlerinde ilan etmek ve (Ek ibare:RG-23/6/2018-30457) kesinleşen koşu neticelerini (Değişik ibare:RG-5/5/2024-32537) Yükleniciye bildirmek,
+h) Diskalifiye edilmesini gerektirecek bir husus bulunması halinde, bir atı Yüksek Komiserler Kurulu kararından önce koşuya iştirak ettirmemek veya koşuya katılmış ise kazandığı derecenin haklarından faydalanmasını karar sonucuna kadar ertelemek,
+ı) Gerektiğinde yarış atlarını muayene etmek veya ettirmek,
+i) Yarış yerlerinin güvenliği ile ilgili memur, emniyet ve jandarma mensuplarına yardımcı olmak,
+j) Starta sağlıklı giriş ve çıkış yapmayan ya da istikrarsız koşan atları, yeterince eğitilinceye kadar, koşulara katılmaktan yasaklamak, yasaklanan bu atların start makinesine normal giriş ve çıkışının denemesini yaparak atın koşulara katılımı için izin vermek,
+k) Koşu neticelerini onaylamak, gerektiğinde derece değişikliği yapmak,
+l) Startın usulüne uygun olmadığı hallerde geçersizliğine karar vermek,
+m) Günlük resmi programda tespit edilmiş başlama zamanlarını gerektiğinde takip eden koşulara da intikal edecek şekilde ertelemek,
+n) (Değişik:RG-5/5/2024-32537) Yetkilerini aşan cezaları gerektiren olaylar ile yetkilerine giren olaylarda, geçici tedbir olarak, olaya katılanların veya olaya sebep olanların tribün ve eklentileri dışında yarışlarla ilgili yer ve tesislere girmelerini, yarışlarla ilgili her türlü yerlerde sanat icra etmelerini veya idman yeri dışında yarışlarla ilgili her türlü yerlerde sanat icra etmelerini ve koşulara katılmalarını yasaklamak, yarış ikramiyelerine el koymak,
+o) Atlara verilen koşulara iştirakten yasaklama cezalarını derhal uygulamak,
+ö) Koşularda 6132 sayılı Kanuna ve bu Yönetmelik hükümlerine aykırı durum tespit edildiği takdirde, şikayet ve itiraz edilmemiş olsa bile resen müdahale etmek ve gerekli tedbirleri almak,
+p) (Değişik ibare:RG-5/5/2024-32537) Yasaklı madde ve uygulamaları testine tabi tutulacak atları belirlemek ve alınan şüpheli numuneleri, mevzuatına uygun ve şifre numarası vererek, doping laboratuvarına gönderilmesini sağlamak,
+r) Koşu sırasında sakatlanan, hastalanan veya ölen atlardan (Değişik ibare:RG-5/5/2024-32537) yasaklı madde ve uygulamaları ve salgın hastalıklar yönünden muayene için gerekli numuneleri almak veya aldırmak,
+s) Sağlık açısından ve can güvenliğini sağlamak maksadıyla gerektiğinde binicilerin alkol ve ihtiyaç duyulacak diğer muayenelerini yapmak veya yaptırmaktır.
+(2) Yarış Komiserler Kurulunun birinci fıkranın (e) ve (h) bentlerinde yazılı hususlar dışındaki işlere ait kararlarına itiraz edilemez.

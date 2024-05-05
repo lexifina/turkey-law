@@ -1,0 +1,3 @@
+Jokey Kaza ve Yardım Sandığından yapılacak ölüm yardımları
+MADDE 140 – (Değişik:RG-5/5/2024-32537)
+(1) Hipodromlarda ve idman merkezlerinde, koşu sırasında, start denemelerinde veya yarışlarla ilgili idman yapılırken meydana gelen bir kaza sırasında veya bu tip bir kazadan dolayı sonradan öldüğü kaza tutanağı ile tespit edilen jokeyler ve aprantilerin kanuni mirasçılarına, her yıl Bütçe Kanunu ile tespit edilen memur maaş kat sayısının bir milyon iki yüz bin ile çarpılması sonucu elde edilecek miktarda Türk Lirası ölüm yardımı yapılır. Ayrıca, cenaze masrafları da sandık tarafından karşılanır.

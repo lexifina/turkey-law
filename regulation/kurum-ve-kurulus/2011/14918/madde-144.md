@@ -1,0 +1,4 @@
+Muhtaçlık yardımı
+MADDE 144 – (1) Muhtaç durumda olan ve sanatlarını icra edemeyen jokeyler ve aprantilerin yirmi yıl süre içerisinde en az bin defa koşularda at bindiğini (Değişik ibare:RG-5/5/2024-32537) Yükleniciden; muhtaç durumda olduklarını yetkili mercilerden ve herhangi bir sosyal yardım kuruluşundan yardım almadıklarını her yıl belgelendirmeleri kaydıyla on altı yaşından büyükler için tespit edilen aylık asgari ücretin iki katı tutarında aylık muhtaçlık yardımı yapılır.
+(2) 1/1/1995 tarihinden önce jokey veya apranti olanlara, en az yedi yüz elli defa koşularda at binmiş olmaları kaydıyla birinci fıkra hükümleri uygulanır.
+(3) (Değişik:RG-23/6/2018-30457) Kadın jokey veya kadın aprantiler ile antrenör lisansı vizeli olan kadın jokey veya kadın aprantiler için birinci ve ikinci fıkralarda yer alan koşu sayılarının yüzde ellisi aranır.

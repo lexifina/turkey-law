@@ -1,0 +1,6 @@
+Sponsorlukla ilgili diğer hükümler
+MADDE 154 – (1) Yarış tesislerinden, (Değişik ibare:RG-5/5/2024-32537) Yüklenici tarafından uygun görülen mecraların yapım, bakım ve onarımı sponsor tarafından yapılabilir.
+(2) Sponsorların yapacakları sosyal faaliyetlere ve ilanlara yarış günü neşredilen resmi yarış programında yer verilebileceği gibi koşunun yapıldığı gün sponsorlarca hazırlanan ilanlar, (Değişik ibare:RG-5/5/2024-32537) Yüklenici tarafından kontrol edildikten sonra hipodrom dahilinde ve uygun göreceği yerlerde yarış günü boyunca kullanılabilir.
+(3) (Değişik:RG-27/10/2022-31996) Haşa bezi üzerine sponsor firmanın tanıtımı ile ilgili yazı ve işaretlerin konulması ile at sahibi formalarına reklam alınması, yapılan anlaşmanın ibrazı neticesinde (Değişik ibare:RG-5/5/2024-32537) Yüklenicinin onayına tabidir.
+(4) (Değişik ibare:RG-5/5/2024-32537) Yüklenici, sponsor firmaya verilen hizmetlerden dolayı ayrıca bir ücret talep edebilir. (Değişik ibare:RG-5/5/2024-32537) Yüklenici, adına koşu yapılacak sponsorlar ile bu Yönetmeliğe uygun sözleşme yapmaya yetkilidir.
+(5) Sponsorluk konusu iş ve işlemlerin, bu Yönetmelik ve mevcut mevzuata uygun şekilde gerçekleştirilmesinden, (Değişik ibare:RG-5/5/2024-32537) Yüklenici ve sponsor müştereken ve müteselsilen sorumludur.

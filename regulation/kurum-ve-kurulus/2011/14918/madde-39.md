@@ -1,0 +1,4 @@
+Handikap puanları ve ilave ağırlık verilmesi
+MADDE 39 – (1) Handikaper tarafından tespit ve ilan edilen puanlara itiraz edilemez ve puanlar ile bunlara ait liste hiçbir surette değiştirilemez. Ancak, puanların ilanından sonra ve handikap koşularının yapılmasından önce diğer koşulara katılıp birincilik kazanan atların taşıyacakları ağırlığa, handikaper tarafından beş kiloya kadar ilave ağırlık verilebilir. İlave ağırlığın, en geç handikap koşusunun yapılacağı gün saat sabah dokuza kadar, tespit ve ilan edilmesi şarttır.
+(2) Usulüne uygun olarak kaydı yapıldığı halde, adı veya puanı handikap listesine herhangi bir sebeple girmemiş atlar, Yarış Komiserler Kurulunun izni ile listeye alınabilir.
+(3) Handikap puanlarının ve ağırlıkların tespit ve ilan edilmesine dair usul ve esaslar, her yıl düzenlenen yıllık yarış programı genel hükümlerinde belirtilir.

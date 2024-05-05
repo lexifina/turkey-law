@@ -1,0 +1,3 @@
+Şüpheli numunelerin analiz ücreti
+MADDE 81 – (Değişik:RG-5/5/2024-32537)
+(1) Yasaklı madde ve uygulamaları analiz ücretleri, 31/1/2015 tarihli ve 29253 sayılı Resmî Gazete’de yayımlanan Gıda, Tarım ve Hayvancılık Bakanlığı Döner Sermaye İşletmeleri Uygulama Yönetmeliği esaslarına göre belirlenir. Yapılan analiz ücretleri, Yüklenici tarafından laboratuvarın bağlı bulunduğu kurumun döner sermaye hesabına her ay sonunda ödenir. At ilgilileri, talep etmesi ve masraflarını karşılaması suretiyle, şüpheli numunenin ikinci bölümünün, Tarım ve Orman Bakanlığı tarafından belirlenip ilan edilen yurt dışındaki referans laboratuvarlardan birinde test edilmesini itirazen isteyebilir ve Yarış Komiserler Kuruluna müracaat edebilirler.

@@ -1,0 +1,2 @@
+Koşunun at başı beraber bitmesi halinde binicinin priminin hesaplanması
+MADDE 106 – (1) Yarışın at başı beraber bitmesi halinde binicilerin primi, bindiği at için ödenen ikramiye tutarı üzerinden hesap edilir. Jokeyler ve aprantilerin atın kazancına ait primleri (Değişik ibare:RG-5/5/2024-32537) Yarış Müessesesi adına Yüklenici tarafından ikramiyeden kesilerek en kısa süre içinde binicilere ödenir.

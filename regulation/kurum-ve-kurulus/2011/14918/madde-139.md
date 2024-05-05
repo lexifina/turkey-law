@@ -1,0 +1,4 @@
+Jokey Kaza ve Yardım Sandığı paralarının yatırılması ve çekilmesi
+MADDE 139 – (1) Her aya ilişkin Jokey Kaza ve Yardım Sandığı paraları, Yarış Otoritesince tespit edilen milli bir bankaya, izleyen ayın yedinci gününe kadar Yarış Müessesesince yatırılır.
+(2) Bu paralar, Yüksek Komiserler Kurulu kararı ve Yarış Otoritesinin tasdiki üzerine çekilip harcanabilir. Ancak, bu paraların bankalar arası transferi ile aynı bankadaki hesaplar arasında yapılacak aktarmalar için Kurul kararı gerekmez ve bu işlemler Yarış Otoritesi tarafından yetkili kılınan memur veya memurlar tarafından yapılabilir.
+(3) Bu paraların bankaca ödenebilmesi veya bankalar arası transferi ile aynı bankadaki hesaplar arasında yapılacak aktarmalar için yazılacak talimatların, Yüksek Komiserler Kurulu Başkanı veya Başkan Yardımcısı ile birlikte Yarış Otoritesinin imzaya yetkili kılınmış memuru veya memurları tarafından müştereken imzalanması şarttır.

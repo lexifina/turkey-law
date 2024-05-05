@@ -1,0 +1,4 @@
+Binicinin değiştirilme şartları
+MADDE 46 – (1) Belirli bir ata bineceği günlük resmî programda ilan edilmiş binici değiştirilemez. Ancak, binicinin start hakeminin emrine girmeden evvel, koşuya katılmasına engel olacak bir kaza veya hastalığın söz konusu olduğu doktorunca saptanırsa, onun bineceği ata günlük resmî programda ilan edilen binici jokey ise başka bir jokeyin, apranti ise (Ek ibare:RG-27/10/2022-31996) aynı sınıfta başka bir aprantinin binmesine Yarış Komiserler Kurulunca izin verilebilir. Bu durumda koşu ertelenmez.
+(2) Belgelenmek koşuluyla zorunlu sebeplerle belli saatte tartı yerine gelmeyen veya ağırlığı 41 inci maddede yazılı limitlerden fazla olan binicinin değiştirilmesine, birinci fıkrada yazılı koşullarla Yarış Komiserler Kurulunca izin verilebilir.
+(3) Yarış Komiserler Kurulu, yarışların dürüstlükle yürümesini sağlamak amacıyla gerekiyorsa koşudan önce biniciyi ata binmekten yasaklar.

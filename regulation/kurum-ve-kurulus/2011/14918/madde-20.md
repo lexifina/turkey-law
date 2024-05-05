@@ -1,0 +1,3 @@
+Start deneme komisyonu
+MADDE 20 – (1) Start Deneme Komisyonu, 7 nci maddenin birinci fıkrasının (a) bendi uyarınca, her dönem için Yüksek Komiserler Kurulu kararı ve Yarış Otoritesi onayı ile hipodromlarda teknik kadroda görevlendirilen Yarış Komiserler Kurulu üyelerinden biri ile bir start hakemi ve bir saha veterinerinden oluşur. Komisyon üyelerinden mazereti nedeniyle görevine gelemeyenlerin yerine, varsa aynı unvanlı bir başka kişi yoksa yardımcıları komisyonda görev alır.
+(2) Komisyon tarafından start denemesine tabi tutulan atlarla ilgili verilen kararlar, en kısa süre içerisinde Yarış Komiserler Kurulu tarafından (Değişik ibare:RG-5/5/2024-32537) Yükleniciye bildirilir.

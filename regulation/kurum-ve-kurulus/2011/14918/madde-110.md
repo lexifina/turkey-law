@@ -1,0 +1,2 @@
+Binicilerin müşterek bahislere katılma ve tahmin yasağı
+MADDE 110 – (1) Jokeyler ve aprantiler hiçbir koşuda müşterek bahislere iştirak edemezler. Jokey, apranti, (Değişik ibare:RG-27/10/2022-31996) antrenör, (Ek ibare:RG-5/5/2024-32537) antrenör yardımcısı, (Değişik ibare:RG-27/10/2022-31996) seyisbaşı ve seyisler yazılı ve görsel basında koşularla ilgili tahminde bulunamazlar. Aksine hareket edenler yarış dürüstlüğüne aykırı hareket etmiş sayılır.

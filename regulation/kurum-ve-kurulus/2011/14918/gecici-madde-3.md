@@ -1,0 +1,6 @@
+Mevcut lisans, forma, at kirası ve antrenör sözleşmeleri
+GEÇİCİ MADDE 3 – (1) Bu Yönetmeliğin yürürlüğe girdiği tarihten önce;
+a) Mevcut olan antrenör, jokey, apranti, amatör binici ve seyislerin lisansları vize sonuna kadar geçerlidir.
+b) Tescil edilmiş formaların kullanımına devam edilir.
+c) Yapılan atların kiralanmasına ilişkin sözleşmeler geçerli olup bu sözleşmelere istinaden at koşturulabilir. Ancak bu kira sözleşmelerinin süresinin bitiminde sözleşme süresi yeniden uzatılamaz, yeni bir kira sözleşmesine dayalı olarak at koşturulamaz. (Ek cümle:RG-29/2/2012-28219) 19/4/2011 tarihinden önce noterde yapılmış olan kira sözleşmelerinin süreli ve at isimlerinin belirtilmiş olması durumunda kira sözleşmesinde belirtilen süre sonuna kadar ve sadece sözleşmede yazılı at veya atlar için kira sözleşmeleri geçerlidir. (Ek cümle:RG-29/2/2012-28219) Ancak sözleşmenin süresiz olması ve at isminin belirtilmemiş olması durumunda ise, 19/4/2011 tarihinden önce doğan atlar kira sözleşmesine istinaden koşturulabilir. (Ek cümle:RG-29/2/2012-28219) Bu tarihten sonra doğan atlar ise koşturulamaz.
+ç) Düzenlenmiş antrenörlük sözleşmeleri geçerlidir. Ancak bu sözleşmelerin süresinin uzatılması durumunda 90 ıncı maddenin üçüncü fıkrasındaki oranlar dikkate alınır.

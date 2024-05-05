@@ -1,0 +1,10 @@
+Aprantilerin ağırlık indirimleri
+MADDE 52 – (1) (Değişik:RG-23/6/2018-30457) Aprantiler, satış koşuları, açık, Şart 1 ve vadeli koşular (Ek ibare:RG-5/5/2024-32537) ile şartları Genel Hükümlerde belirlenmiş Maiden koşular hariç, 34 üncü maddede öngörülen bildirimde açıkça belirtilmek kaydıyla o koşu için resmi programda saptanmış ağırlıklardan;
+a) Sıfır- (Değişik ibare:RG-5/5/2024-32537) yetmiş dokuz koşu kazananlar dört kilograma kadar, (handikap koşularda üç kilograma kadar)
+b) (Değişik ibare:RG-5/5/2024-32537) Seksen- yüz elli dokuz koşu kazananlar üç kilograma kadar, (handikap koşularda iki kilograma kadar)
+c) (Değişik ibare:RG-5/5/2024-32537) Yüz altmış- iki yüz dokuz koşu kazananlar iki kilograma kadar, (handikap koşularda bir kilograma kadar)
+eksik ağırlıkla at binerler, bu ağırlık indirimleri 500 er gram olacak şekilde uygulanır.
+ç) (Değişik ibare:RG-5/5/2024-32537) İki yüz on koşu kazanmış olan aprantiler jokey olma hakkını kazanırlar. Bu kişilere, başvurmaları halinde, Yüksek Komiserler Kurulunca jokey lisansı verilir. Jokey olmak hakkını kazananlardan lisans almak için başvurmayanlar, ağırlık indiriminden yararlanmadan apranti olarak at binebilirler.
+d) (Ek:RG-27/10/2022-31996) Apranti Eğitim Merkezi üçüncü sınıfında öğrenim görmekte olan aprantiler, katılacakları ilk on koşuda geçerli olmak kaydıyla; satış koşuları, açık, Şart 1 ve vadeli koşular hariç, 34 üncü maddede öngörülen bildirimde açıkça belirtilmek kaydıyla o koşu için resmi programda saptanmış ağırlıklardan, beş kilograma kadar (handikap koşularda dört kilograma kadar) eksik ağırlıkla at binerler, bu ağırlık indirimleri 500’er gram olacak şekilde uygulanır.
+(2) (Değişik:RG-23/6/2018-30457) (Değişik ibare:RG-5/5/2024-32537) Otuz yaşını doldurup da (Değişik ibare:RG-5/5/2024-32537) iki yüz on koşu kazanamamış aprantiler, ağırlık indirimi haklarını kaybeder ve apranti olarak at binebilirler.
+(3) Aprantiler, kendi sınıflarına ait koşularda, koşunun şartlarında aksine hüküm yoksa ağırlık indiriminden yararlanamazlar.

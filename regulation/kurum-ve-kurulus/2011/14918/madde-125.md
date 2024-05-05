@@ -1,0 +1,2 @@
+Diskalifiye edilenlerin yarış işlerinde görevlendirilmesi ile ilgili cezalar
+MADDE 125 – (1) Diskalifiye edilmiş bir kimsenin asli cezasının devamı müddetince yarışlarla ilgili işlerde görevlendirilmesi, at sahiplerine vekillik etmesi, at kayıt ettirmesi, atlarını koşulara iştirak ettirmesi ve tribün ve eklentileri dışında yarışlarla ilgili yer ve tesislere girmesi yasaktır. Aksine hareket edenlere yarış usul ve esaslarına aykırı hareketleri sebebiyle (Değişik ibare:RG-5/5/2024-32537) ikibindokuzyüzkırksekiz Türk Lirası para cezası verilir.

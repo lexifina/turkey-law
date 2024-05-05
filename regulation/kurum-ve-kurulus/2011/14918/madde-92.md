@@ -1,0 +1,4 @@
+Amatör binici
+MADDE 92 – (1) (Değişik:RG-23/6/2018-30457) Bir kimsenin amatör binicilere mahsus koşularda at binebilmesi için Yüksek Komiserler Kurulundan veya Tanınan Yarış Otoritelerinden birinden izin almış olması, biniciliği meslek edinmemiş ve jokey veya apranti lisansı almamış bulunması şarttır. Ancak vizenin geçerli olacağı yılın yarış programında, amatör binicilere mahsus koşu/koşular yer alması halinde, amatör binicilerin lisansı vize edilir ve söz konusu amatör biniciler idmanlarda at çalıştırabilir.
+(2) Amatör binicinin reşit olmaması halinde, velisi veya vasisinin yazılı muvafakatının alınması şarttır. Amatör binicinin yukarıda yazılı şartları haiz olması halinde dahi, bir jüri tarafından yapılacak sınav sonucuna göre, Yüksek Komiserler Kurulu izin verip vermemekte serbesttir.
+(3) Amatör biniciler, bir koşuda, ancak bir at sahibinin atına binme vaadinde bulunabilir.

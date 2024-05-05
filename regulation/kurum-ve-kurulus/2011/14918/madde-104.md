@@ -1,0 +1,6 @@
+Jokeylerle at sahipleri arasındaki anlaşma türleri ve at binme vaadi
+MADDE 104 – (1) Jokeyler ve aprantiler ile at sahipleri veya antrenörleri arasında, tam ve kısmi olmak üzere anlaşma yapılabilir. Tam anlaşma belirli bir zaman zarfındaki bütün koşular için, kısmi anlaşma ise belirli ve münferit koşular için geçerlidir.
+(2) Tam anlaşması olan jokey veya aprantiler anlaşma devresi içinde diğer kişilere ait atlara binebilmek için tam anlaşma yaptığı kişiden yazılı muvafakat almak zorundadır. Jokey veya aprantinin tam anlaşma yaptığı kişinin, sahip olduğu veya idman ettiği atların katıldığı koşuda ilgili kişi yazılı izin verse dahi, anlaşmasız olarak başka ata binmesi yasaktır. Tam anlaşma yapılmış bir dönem için başka bir (Ek ibare:RG-23/6/2018-30457) at sahibi veya antrenör ile tam anlaşma yapılamaz.
+(3) Jokey veya aprantilerin at sahipleri veya antrenörler arasında yapılan tam ve kısmi anlaşmaların noterlikçe onaylanmış olması ve her iki anlaşmanın da (Değişik ibare:RG-5/5/2024-32537) Yükleniciye teslim edilmesi şarttır.
+(4) Bu madde hükmüne aykırı anlaşmalar ve taahhütler hükümsüzdür.
+(5) Anlaşması olmayan bir jokey ve apranti bir koşuda birden fazla kimseye, at binme vaadinde bulunamaz.

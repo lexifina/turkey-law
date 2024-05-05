@@ -1,0 +1,3 @@
+Tedavi amacıyla ilaç kullanımı
+MADDE 83 – (Değişik:RG-5/5/2024-32537)
+(1) Atın koşudaki ve start denemesindeki sürat, kuvvet ve cesaretini veya bunlardan birinin veya tümünün değişmesine tesir edebilecek maddelerin veteriner hekim raporuna dayanılarak ve tedavi amacıyla verilmesi halinde de maddelerin tedavi amacıyla verildiğine dair iddia ve itirazlar yasaklı madde ve uygulamaları cezaları yönünden dikkate alınmaz. Ancak idmanda olan attan yarış ve start denemesi günü dışında alınan numunede tespit edilen yasaklı madde veya uygulamanın veteriner hekim kontrolünde, atın tedavisi amacıyla uygulandığının ispatı halinde, kullanılan yasaklı madde veya uygulama yasak kapsamında değerlendirilmez.

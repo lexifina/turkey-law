@@ -1,0 +1,13 @@
+Sınav, ölçme ve değerlendirme
+MADDE 100 – (1) (Değişik:RG-20/12/2018-30631) Her eğitim ve öğretim yılı iki dönemden oluşur. Birinci dönem Eylül-Şubat ayları arası olup, ikinci dönem Mart-Temmuz ayları arasıdır. Dönem ara sınavları Kasım/Mayıs ayları içinde yapılır. Final sınavı dönem sonlarında yapılır. Kursiyerlerin başarı durumlarını gösteren karneler Şubat ve Temmuz aylarında verilir.
+(2) Kursiyerlerin eğitim ve öğretim yılı boyunca aldıkları tüm notlar Not Kayıt Defterine işlenir.
+(3) (Değişik:RG-27/10/2022-31996) Ara sınav notlarının %40’ı, final notlarının %60’ı alınarak dönem veya sınıf geçme notu hesaplanır. Apranti kursiyerler için binicilik öğretmenleri, apranti kursiyerlere gerek ara sınav notu, gerekse final notu verirken, kursiyerlerin staj çalışmalarını ve koşulardaki performanslarını da dikkate alırlar.
+(4) (Değişik:RG-27/10/2022-31996) Öğretmenler puanlamayı yüz puan üzerinden yapar ve aşağıdaki karşılıkları beşlik not sistemi ile karneye geçirir. Apranti kursiyerin birinci sınıf birinci dönemden veya ikinci sınıf birinci dönemden veya üçüncü sınıf birinci dönemden ikinci döneme geçmesi veya birinci sınıfların ikinci sınıfa geçmesi veya ikinci sınıfların üçüncü sınıfa geçmesi veya üçüncü sınıfların mezun olabilmesi için binicilik derslerinin ortalamasının en az beş tam puan üzerinden üç olması şarttır. Kültür dersleri için geçer not en az beş tam puan üzerinden ikidir. Kursiyerler, mesleki derslerden en az üç not baremine, diğer derslerden en az iki not baremine ulaşamadıkları takdirde apranti kursiyerler birinci sınıf veya ikinci sınıf veya üçüncü sınıf birinci dönemden ikinci döneme veya birinci sınıf veya ikinci sınıflar bir üst sınıfa geçemezler, iki dönem ortalaması neticesinde mesleki derslerden en az üç not baremine, diğer derslerden en az iki not baremine ulaşamadıkları takdirde apranti kursiyerler sınıf geçemezler veya üçüncü sınıflar mezun olamazlar. Not baremleri aşağıdaki gibidir:
+85,00-100=5= Pekiyi
+70,00-84,99=4= İyi
+60,00-69,99=3= Orta
+50,00-59,99=2= Geçer
+0-49,99 =1= Geçmez
+(5) Ara ve final sınavlar sözlü veya yazılı veya hem sözlü hem de yazılı olarak yapılır.
+(6) (Değişik:RG-27/10/2022-31996) Eğitim merkezi kursiyerlerinden onsekiz yaşını doldurmamış olanların, kurstaki başarıları ve disiplin durumları öğretmenler tarafından kursiyer izleme raporu ile dört ayda bir velilere bildirilir.
+(7) (Değişik:RG-27/10/2022-31996) Ara ve final sınav neticeleri matbu forma yazılarak, apranti kursiyerler için Apranti Eğitim Merkezine imza karşılığı teslim edilir. Teslim edilen ara/final sınav evraklarının en az bir yıl ve sınav neticelerinin en az beş yıl süreyle kurs arşivinde saklanması şarttır.

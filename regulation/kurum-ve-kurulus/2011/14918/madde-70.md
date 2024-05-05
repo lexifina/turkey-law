@@ -1,0 +1,4 @@
+Bilgilendirme ve tebligat
+MADDE 70 – (Değişik:RG-5/5/2024-32537)
+(1) Yarışlarla ilgili kararlar ve bu Yönetmelikte düzenlenmiş olup da bildirimi gerekli olan diğer hususlar, hipodromlarda ilan edilerek veya günlük resmi programlara yazılarak veya internet sitesinde ilan edilerek duyurulur. Yasaklı madde ve uygulama muayenelerine ilişkin sonuçlar hipodromlarda ve internet sitesinden duyurularak ilan edilir. Bu şekilde duyuru ve bilgilendirme yapılmış olması tebligat hükmündedir. Bu şekilde yapılan duyurular gerektiğinde bir tutanakla tespit edilebilir.
+(2) Yarış atlarının şecereleri, yarış hayatları boyunca elde ettikleri koşu dereceleri, kazandıkları ikramiye ve buna bağlı feri kazançlar, antrenör, apranti, jokey, seyisbaşı ve seyislerin bu Yönetmelikte tanımı yapılan meslekleri mucibince elde ettikleri koşu dereceleri ve gerekli görülen sair bilgiler Yüklenicinin internet sitesi ve diğer iletişim mecralarında yayımlanarak kamuoyunun bilgilendirilmesi sağlanır.
