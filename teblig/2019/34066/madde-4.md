@@ -1,0 +1,27 @@
+Tanımlar
+MADDE 4 – (1) Bu Tebliğde geçen;
+a) Bakanlık: Tarım ve Orman Bakanlığını,
+b) Çok katmanlı plastik: İki veya daha fazla plastik katmandan oluşan madde veya malzemeyi,
+c) Çok katmanlı-çoklu malzeme: En az bir katmanı plastik olmak koşuluyla farklı çeşitteki malzemelerin iki veya daha fazla katmanının bir araya gelmesiyle oluşturulmuş madde ve malzemeleri,
+ç) Fonksiyonel bariyer/işlevsel engel: Madde veya malzemenin son halinin, bu Tebliğde ve Türk Gıda Kodeksi Gıda ile Temas Eden Madde ve Malzemelere Dair Yönetmeliğin 5 inci maddesinde yer alan hükümlere uyumlu olmasını sağlayan, herhangi bir türdeki malzemenin bir veya birden çok katmanından oluşan engeli,
+d) Gıda benzeri: Gıda ile temas eden malzemelerdeki migrasyonun tespitinde gıdanın yerine kullanılan, gıda gibi davranan test ortamını,
+e) Katkı maddesi: Plastiğin üretimi sırasında fiziksel veya kimyasal bir etki gerçekleştirmesi için plastiğe ya da son ürün olan madde veya malzemeye üretim gereği eklenen ve madde veya malzemenin son halinde bulunması beklenen maddeyi,
+f) Kendiliğinden geçiş: Malzemenin üretim ve depolama gibi aşamalarında, çeşitli nedenlerle gıda ile temas etmeyen yüzeyin gıda ile temas eden yüzey ile etkileşiminden kaynaklanacak migrasyonunu,
+g) Kısıtlama: Bir maddenin kullanımının sınırlandırılmasını, migrasyon limitini veya madde veya malzemenin içerdiği bir maddenin limitini,
+ğ) Monomer veya diğer başlangıç maddesi;
+1) Polimer üretimi için herhangi bir polimerizasyon işlemine tabi tutulan maddeyi veya,
+2) Modifiye edilmiş makromoleküllerin üretiminde kullanılan doğal ya da yapay makromoleküler maddeleri veya,
+3) Mevcut doğal ya da yapay makromoleküllerin modifikasyonu için kullanılan maddeyi,
+h) Özellik/spesifikasyon: Bir maddenin bileşiminin, saflık kriterini, fiziko-kimyasal karakteristiklerini, üretim sürecine ilişkin detaylarını veya migrasyon limitinin ifade edilmesine ilişkin ayrıntılı bilgileri,
+ı) Plastik: Madde ve malzemelerin son halinde temel yapısal bileşen işlevini yerine getirebilen, katkı maddelerinin veya diğer maddelerin eklenebildiği polimeri,
+i) Plastik madde ve malzeme: 2 nci maddenin birinci fıkrasının (a), (b) ve (c) bentlerinde yer alan madde ve malzemeler ile (ç) ve (d) bentlerinde yer alan plastik katmanları,
+j) Polimer: Monomerlerin ya da diğer başlangıç maddelerinin katılım polimerizasyonu veya kondensasyon polimerizasyonu gibi bir polimerizasyon işlemi ya da başka bir benzer işlemle veya doğal ya da yapay makromoleküllerin kimyasal modifikasyonuyla veya mikrobiyal fermantasyonla elde edilen makromoleküler maddeleri,
+k) Polimer Üretim Yardımcısı (PÜY): Polimer veya plastik üretimi için uygun ortamın sağlanması amacıyla kullanılan; madde veya malzemenin son halinde bulunma ihtimali olan ancak, madde veya malzemenin son halinde bulunması veya fiziksel ya da kimyasal bir etkisinin olması beklenmeyen maddeyi,
+l) Polimerizasyon yardımcısı: Polimerizasyonu başlatan ve/veya makromoleküler yapı oluşumunu kontrol eden maddeyi,
+m) Sıcak dolum: Bir malzemenin dolum sırasında sıcaklığı 100 °C’yi geçmeyen bir gıda ile doldurulmasını ve dolum sonrası 60 dakika içine 50 °C’ye veya altına soğutulmasını ya da 150 dakika içinde 30 °C’ye veya altına soğutulmasını,
+n) Spesifik Migrasyon Limiti (SML): Madde veya malzemeden gıdaya veya gıda benzerine geçen belirli bir maddenin izin verilen maksimum miktarını,
+o) Toplam Migrasyon Limiti (TML): Madde veya malzemeden gıda benzerine geçen uçucu olmayan maddelerin izin verilen maksimum miktarını,
+ö) Toplam Spesifik Migrasyon Limiti (SML(T)): Belirtilen maddelerin kısmi miktarlarının toplamı olarak ifade edilen ve gıda veya gıda benzerine geçen, belirtilen maddelerin toplamı için izin verilen maksimum miktarını,
+p) Üretim gereği ortaya çıkan maddeler: Üretimde kullanılan maddenin içindeki bir safsızlığı veya üretim aşamasında oluşan tepkime ara ürününü veya parçalanma ya da tepkime ürününü,
+r) Yağsız gıda: Migrasyon testinde sadece, 25/12/2019 tarihli ve 30989 mükerrer sayılı Resmî Gazete’de yayımlanan Türk Gıda Kodeksi Gıda ile Temas Eden Plastik Madde ve Malzemelerin Bileşenlerinin Migrasyon Testinde Kullanılan Gıda Benzerleri Listesi Tebliği (Tebliğ No: 2019/43)’nin ekinde yer alan Gıda Benzeri D1 ve Gıda Benzeri D2 dışındaki gıda benzerlerinin kullanıldığı gıdaları,
+ifade eder.

@@ -1,0 +1,45 @@
+{
+  "source_id": "9.5.34066",
+  "kind": "communique",
+  "register_kind": "Tebliğler",
+  "title": "TÜRK GIDA KODEKSİ GIDA İLE TEMAS EDEN PLASTİK MADDE VE MALZEMELER TEBLİĞİ (TEBLİĞ NO: 2019/44)",
+  "number": "34066",
+  "issuer": "Tarım ve Orman Bakanı",
+  "path": "teblig/2019/34066",
+  "source": "https://www.mevzuat.gov.tr/anasayfa/MevzuatFihristDetayIframe?MevzuatTur=9&MevzuatNo=34066&MevzuatTertip=5",
+  "source_sha256": "635ae0a9ff0d774258a10b0c79f7d5ad1b4c611b7ba6d4fd061692a3e8c25ce0",
+  "source_bytes": 95004,
+  "published": "2019-12-25",
+  "gazette": "30989 Mükerrer",
+  "in_force": "2024-05-06",
+  "in_force_basis": "latest Resmî Gazete date printed in the source amendment notes/table (\"RG-6/5/2024\") for the current consolidated text",
+  "date_evidence": [
+    [
+      "2024-05-06",
+      "RG-6/5/2024",
+      "Resmî Gazete date printed in the source amendment note"
+    ],
+    [
+      "2024-05-06",
+      "6/5/2024",
+      "Resmî Gazete date in the source amendment table"
+    ]
+  ],
+  "commencement_clauses": [
+    "Bu Tebliğ yayımı tarihinde yürürlüğe girer"
+  ],
+  "history": "current-text",
+  "label": "oldest version available",
+  "checked_on": "2026-11-15",
+  "word_count": 3127,
+  "text_status": "current-consolidated",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  },
+  "source_links": [
+    "9.5.34066-Ekk.doc"
+  ],
+  "completeness": "html-text-complete; linked annexes not fetched"
+}
