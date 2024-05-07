@@ -1,0 +1,17 @@
+{
+  "kind": "decision",
+  "issuer": "Sayıştay 2. Dairesi",
+  "number": "35794",
+  "decision_date": "2024-05-07",
+  "source_id": 38510,
+  "chamber": "2",
+  "ilam_number": "391",
+  "item_number": 3,
+  "public_body_type": "Yüksek Öğretim Kurumları",
+  "account_year": 2017,
+  "subject": "Personel Mevzuatı ile İlgili Kararlar",
+  "source": "https://www.sayistay.gov.tr/KararlarDaire/Detay/38510/",
+  "source_sha256": "b11f77cd2c5647f20ebbf681484102302cb740111afea9501688255f57a675a0",
+  "text_status": "as-enacted",
+  "text_file": "metin.md"
+}
