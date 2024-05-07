@@ -1,0 +1,3 @@
+Hâkim ve savcı yardımcılarının disiplin amirleri
+MADDE 41- (1) Hâkim ve savcı yardımcılarının temel eğitim, ara eğitim ve son eğitim dönemleri hariç olmak üzere; disiplin soruşturmalarında hâkim ve savcı yardımcılarının görevlendirildiği birime bakılmaksızın disiplin âmirlerine ilişkin olarak 5/4/2017 tarihli ve 30029 sayılı Resmî Gazete’de yayımlanan Adalet Bakanlığı Disiplin Yönetmeliğinin 34 üncü maddesinin birinci fıkrası uygulanır.
+(2) Hâkim ve savcı yardımcılarının temel eğitim, ara eğitim ve son eğitim dönemlerinde birinci disiplin amiri Akademinin ilgili daire başkanı, ikinci disiplin amiri Akademi Başkanıdır.

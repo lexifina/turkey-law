@@ -1,0 +1,3 @@
+Hâkim ve savcı yardımcılarının geçici görevlendirilmeleri
+MADDE 12- (1) Hâkim ve savcı yardımcılarının eğitim dönemleri ile görev döneminde ilk derece yargı yerleri dışında çalışacakları yerlerin tarihlerine ilişkin planlama Genel Müdürlük tarafından yapılır. Eğitim dönemlerinin tarihlerine ilişkin planlamanın yapılmasında Akademinin görüşü alınır. Yapılan planlama elektronik ortamda hâkim ve savcı yardımcılarının bilgisine sunulabilir.
+(2) Hâkim ve savcı yardımcıları, bölge adliye mahkemeleri, Yargıtay ve Danıştaydaki görev dönemleri ile Akademideki temel, ara ve son eğitim dönemlerini yapmak üzere Bakanlık tarafından geçici olarak görevlendirilir.

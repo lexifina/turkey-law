@@ -1,0 +1,2 @@
+Kapsam
+MADDE 2- (1) Bu Yönetmelik; hâkim ve savcı yardımcılarının atanmalarını, hâkim ve savcı yardımcılığının süresi ve dönemlerini; hâkim ve savcı yardımcılarının hâkimliğe veya Cumhuriyet savcılığına atanacak şekilde ayrılmalarını; görev yerlerinin tespitini, haklarında doldurulacak değerlendirme formlarının şekil ve içeriğini; eğitici hâkim ve savcıların belirlenmesi ve görevlerini; hâkim ve savcı yardımcılarının yargı mercilerindeki görev, sorumluluk ve yetkileri ile çalışma usul ve esaslarını ve diğer hususları kapsar.

@@ -1,0 +1,3 @@
+Hâkim ve savcıların görev dönemindeki sorumlulukları
+MADDE 29- (1) Adalet komisyonu başkanları ve Cumhuriyet başsavcıları, koordinasyonla görevli eğitici hâkim ve savcılar ile diğer eğitici hâkim ve savcıların görevlerini yerine getirmesinde her türlü kolaylığı sağlar, onları destekler, hâkim ve savcı yardımcılarının yetiştirilmelerinden sorumludur.
+(2) Eğitici hâkim ve savcı dışında, hâkim ve savcı yardımcılarının görev yaptığı mahkeme ve savcılıktaki ilgili hâkim ve savcılar, hâkim ve savcı yardımcılarının görevlerini en iyi şekilde yerine getirmeleri için gerekli gayret ve ilgiyi gösterip, onları denetler.

@@ -1,0 +1,3 @@
+Adli yargı hâkim ve savcı yardımcılarının görev ayrımları
+MADDE 8- (1) Temel eğitim döneminde adli yargı hâkim ve savcı yardımcıları, adli yargı teşkilatının ihtiyaç durumu ile imkânlar ölçüsünde, kendi istekleri göz önünde bulundurulmak ve Hâkimler ve Savcılar Kurulunun görüşü alınmak suretiyle Bakanlıkça hâkimliğe veya Cumhuriyet savcılığına atanacak şekilde ayrılır.
+(2) İhtiyaç duyulan hâkim ve Cumhuriyet savcısı sayısı ile hâkim ve savcı yardımcılarının görev ayrımlarına ilişkin taleplerinin uyuşmaması halinde hâkim ve savcı yardımcılığı yazılı yarışma sınav puanı yüksek olana öncelik verilmek suretiyle, puanların eşit olması halinde ise kura çekilmek suretiyle Bakanlıkça görev ayrımı yapılır.

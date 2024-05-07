@@ -1,0 +1,3 @@
+Hâkim ve savcı yardımcılarının odaları ile hâkim ve savcı yardımcılığı uygulama merkezleri
+MADDE 32- (1) Hâkim ve savcı yardımcılarına görevlerini yerine getirebilecekleri ve yetkinliklerine uygun yeteri kadar müstakil oda tahsis edilir.
+(2) Hâkim ve savcı yardımcılarının uygulamaya dair bilgi ve becerilerini artırmaya yönelik seminer, sempozyum ve konferans gibi kısa süreli etkinliklerin yapılabileceği toplantı salonları, imkanlar elverdiği ölçüde hâkim ve savcı yardımcılarının duruşma tecrübesi kazanması amacıyla duruşma salonları, UYAP erişimine açık bilgisayarlar ile uygun tefrişatın bulunduğu HASYUM’lar oluşturulur.
