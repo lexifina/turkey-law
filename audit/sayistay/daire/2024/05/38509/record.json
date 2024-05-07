@@ -1,0 +1,17 @@
+{
+  "kind": "decision",
+  "issuer": "Sayıştay 2. Dairesi",
+  "number": "35794",
+  "decision_date": "2024-05-07",
+  "source_id": 38509,
+  "chamber": "2",
+  "ilam_number": "391",
+  "item_number": 2,
+  "public_body_type": "Yüksek Öğretim Kurumları",
+  "account_year": 2017,
+  "subject": "İhale Mevzuatı ile İlgili Kararlar",
+  "source": "https://www.sayistay.gov.tr/KararlarDaire/Detay/38509/",
+  "source_sha256": "c9b896d7c8d8eef18bf7ca49b726c67231b3212c03e6223d21123434a5b92db9",
+  "text_status": "as-enacted",
+  "text_file": "metin.md"
+}
