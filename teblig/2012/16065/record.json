@@ -1,0 +1,45 @@
+{
+  "source_id": "9.5.16065",
+  "kind": "communique",
+  "register_kind": "Tebliğler",
+  "title": "GSM MOBİL TELEFON HİZMETLERİNDE HİZMET KALİTESİ ÖLÇÜTLERİNİN ELDE EDİLMESİNE İLİŞKİN TEBLİĞ",
+  "number": "16065",
+  "issuer": "Bilgi Teknolojileri ve İletişim Kurumu Başkanı",
+  "path": "teblig/2012/16065",
+  "source": "https://www.mevzuat.gov.tr/anasayfa/MevzuatFihristDetayIframe?MevzuatTur=9&MevzuatNo=16065&MevzuatTertip=5",
+  "source_sha256": "bf049065e031ab2570e5b8411e4dfaca27eab96f1aab47f9a5315341c4ba9e07",
+  "source_bytes": 42341,
+  "published": "2012-04-17",
+  "gazette": "28267",
+  "in_force": "2024-05-08",
+  "in_force_basis": "latest Resmî Gazete date printed in the source amendment notes/table (\"RG-8/5/2024\") for the current consolidated text",
+  "date_evidence": [
+    [
+      "2024-05-08",
+      "RG-8/5/2024",
+      "Resmî Gazete date printed in the source amendment note"
+    ],
+    [
+      "2024-05-08",
+      "8/5/2024",
+      "Resmî Gazete date in the source amendment table"
+    ]
+  ],
+  "commencement_clauses": [
+    "Bu Tebliğin 17 nci maddesinin ikinci fıkrasında yer alan hüküm Tebliğin yayımından altı ay sonra, diğer hükümleri yayımı tarihinde yürürlüğe girer"
+  ],
+  "history": "current-text",
+  "label": "oldest version available",
+  "checked_on": "2026-11-15",
+  "word_count": 2165,
+  "text_status": "current-consolidated",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  },
+  "source_links": [
+    "9.5.16065%20ekler.doc"
+  ],
+  "completeness": "html-text-complete; linked annexes not fetched"
+}

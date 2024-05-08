@@ -1,0 +1,2 @@
+Ölçüm yönteminde kullanılan veriler
+MADDE 11 – (1) Arama başarısızlık ve arama blokaj oranı ölçümlerinde; nüfusu 10.000 (onbin) ve üzeri her bir yerleşim yerindeki toplam trafiği içerecek şekilde, bütün geçerli girişimler üzerinden ve her bir hücrenin günlük toplam trafik içindeki en yoğun saatindeki veriler kullanılacaktır. KMH tamamlanma oranı ve uçtan uca KMH teslim süresinin elde edilmesinde ise; kısa mesaj merkezinde/merkezlerinde en yoğun trafiğin gerçekleştiği saatte elde edilen istatistiksel veriler kullanılacaktır.
