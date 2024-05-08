@@ -1,0 +1,5 @@
+İdari para cezaları ve diğer yaptırımlar
+MADDE 9 – (1) (Değişik:RG-21/1/2014-28889) İşletmecinin bir takvim yılı içindeki herhangi bir raporlama döneminde hizmet kalitesi ölçütlerine ilişkin bir veya daha fazla hedef değeri sağlayamaması durumunda Kurul tarafından kabul edilen haklı nedenleri olmaması halinde işletmeci bir defaya mahsus yazılı olarak uyarılır ve ilgili raporlama döneminde hizmet kalitesi yükümlülüklerini yerine getirmediği Kurum internet sayfasında bir ay süreyle duyurulur.
+(2) İşletmecinin hizmet kalitesi ile ilgili olarak bildirdiği veriler ve/veya tuttuğu kayıtların eksik veya yanlış olduğunun tespit edilmesi veya bu Yönetmelikte yer alan bilgi ve belgelerin süresi içinde verilmemesi halinde, ilgili işletmeci yazılı olarak uyarılır. Söz konusu veri ve/veya hatanın düzeltilmesi veya bilgi ve belgelerin verilmesi için Kurum tarafından süre verilir.
+(3) (Mülga:RG-15/2/2014-28914)
+(4) (Ek:RG-11/3/2013-28584) İdari para cezaları ve diğer yaptırımlar Yönetmeliğin her bir eki için ayrı ayrı değerlendirilerek uygulanır.
