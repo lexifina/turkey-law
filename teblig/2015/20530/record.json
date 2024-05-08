@@ -1,0 +1,45 @@
+{
+  "source_id": "9.5.20530",
+  "kind": "communique",
+  "register_kind": "Tebliğler",
+  "title": "3N MOBİL HABERLEŞME HİZMETLERİNDE HİZMET KALİTESİ ÖLÇÜTLERİNİN ELDE EDİLMESİNE İLİŞKİN TEBLİĞ",
+  "number": "20530",
+  "issuer": "Bilgi Teknolojileri ve İletişim Kurumu Başkanı",
+  "path": "teblig/2015/20530",
+  "source": "https://www.mevzuat.gov.tr/anasayfa/MevzuatFihristDetayIframe?MevzuatTur=9&MevzuatNo=20530&MevzuatTertip=5",
+  "source_sha256": "d69e1202f71cf4ea675ef592e8dc57a0a7844bd740857e7d17a12675f28124d4",
+  "source_bytes": 34843,
+  "published": "2015-02-16",
+  "gazette": "29269",
+  "in_force": "2024-05-08",
+  "in_force_basis": "latest Resmî Gazete date printed in the source amendment notes/table (\"RG-8/5/2024\") for the current consolidated text",
+  "date_evidence": [
+    [
+      "2024-05-08",
+      "RG-8/5/2024",
+      "Resmî Gazete date printed in the source amendment note"
+    ],
+    [
+      "2024-05-08",
+      "8/5/2024",
+      "Resmî Gazete date in the source amendment table"
+    ]
+  ],
+  "commencement_clauses": [
+    "Bu Tebliğ yayımı tarihinde yürürlüğe girer"
+  ],
+  "history": "current-text",
+  "label": "oldest version available",
+  "checked_on": "2026-11-15",
+  "word_count": 2002,
+  "text_status": "current-consolidated",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  },
+  "source_links": [
+    "9.5.20530-ek.pdf"
+  ],
+  "completeness": "html-text-complete; linked annexes not fetched"
+}

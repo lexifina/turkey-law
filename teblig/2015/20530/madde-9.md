@@ -1,0 +1,5 @@
+Ölçüm yöntemi ile elde edilen ölçütlerin hesaplanması
+MADDE 9 – (1) Ölçümler, işletmeci tarafından yerleşim alanları bazında ayrı ayrı olmak üzere kendi 3N şebekesindeki trafiğin tamamı üzerinden elde edilir.
+(2) Yerleşim alanı sınırları içerisine hizmet veren bütün hücrelerin en yoğun saatlerinde elde edilen verilerin toplanması ile bulunan toplam başarısız arama sayısının toplam başarılı kurulan arama sayısına oranlanması ile hesaplanan değer, o yerleşim alanının ilgili bildirim döneminde ilgili olduğu aya ait arama başarısızlık oranı olarak alınır.
+(3) Yerleşim alanı sınırları içerisine hizmet veren bütün hücrelerin en yoğun saatlerinde elde edilen verilerin toplanması ile bulunan toplam bloke olan arama girişimi sayısının toplam arama girişimi sayısına oranlanması ile hesaplanan değer, o yerleşim alanının ilgili bildirim döneminde ilgili olduğu aya ait arama blokaj oranı olarak alınır.
+(4) Ölçümlerde ve ölçütlerin hesaplanmasında, son kullanıcıları doğrudan etkileyen ve Kurum tarafından belirlenen sayaçlar kullanılır.
