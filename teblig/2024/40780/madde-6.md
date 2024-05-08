@@ -1,0 +1,4 @@
+Makine ve elektrik grubu iş ekipmanları teknik komitelerine ilişkin esaslar
+MADDE 6- (1) Makine ve elektrik grubu iş ekipmanları teknik komitelerinin üyeleri, Bakanlığın isteği üzerine üç yıl için ilgili taraflarca belirlenir. Bakanlık, akredite muayene kuruluşlarından uygun gördüklerini toplantıya davet eder. Bu kurum ve kuruluşlardan üyeler belirlenerek Bakanlığa bildirilir.
+(2) Makine ve elektrik grubu iş ekipmanları teknik komitelerinde görev alan üyelerin görev süresi içinde değiştirilmesi durumunda, yeni üye bilgisi Bakanlığa bildirilir. Görev süresi sonunda, üyelere ilişkin değişiklik bildirimi yapılmaması durumunda, temsilcinin komite üyeliği sonraki üç yıl için de devam eder.
+(3) Üyelerin toplantılara katılması esastır. Arka arkaya iki toplantıya katılmayan temsilcinin üyeliği düşer ve Bakanlık tarafından yeni üye bilgisi talep edilir.
