@@ -1,0 +1,43 @@
+{
+  "source_id": "7.5.28971",
+  "kind": "regulation",
+  "register_kind": "Kurum ve Kuruluş Yönetmelikleri",
+  "title": "VAKIF YÜKSEKÖĞRETİM KURUMLARI İHALE YÖNETMELİĞİ",
+  "number": "28971",
+  "issuer": "Yükseköğretim Kurulu Başkanı",
+  "issuer_slug": "yuksekogretim-kurulu-baskani",
+  "path": "regulation/yuksekogretim-kurulu-baskani/2018/28971",
+  "source": "https://www.mevzuat.gov.tr/anasayfa/MevzuatFihristDetayIframe?MevzuatTur=7&MevzuatNo=28971&MevzuatTertip=5",
+  "source_sha256": "b50368592b67cd9669bd96c9087b2b9fe7ff7a6d0477d032d04528eb56fba2a9",
+  "source_bytes": 100034,
+  "published": "2018-11-16",
+  "gazette": "30597",
+  "in_force": "2024-05-09",
+  "in_force_basis": "latest Resmî Gazete date printed in the source amendment notes/table (\"RG-9/5/2024\") for the current consolidated text",
+  "date_evidence": [
+    [
+      "2024-05-09",
+      "RG-9/5/2024",
+      "Resmî Gazete date printed in the source amendment note"
+    ],
+    [
+      "2024-05-09",
+      "9/5/2024",
+      "Resmî Gazete date in the source amendment table"
+    ]
+  ],
+  "commencement_clauses": [
+    "Bu Yönetmelik yayımı tarihinde yürürlüğe girer"
+  ],
+  "history": "current-text",
+  "label": "oldest version available",
+  "checked_on": "2026-11-15",
+  "word_count": 6206,
+  "text_status": "current-consolidated",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  },
+  "completeness": "html-text-complete"
+}
