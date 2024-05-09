@@ -1,0 +1,21 @@
+{
+  "record_type": "parliament-written-question",
+  "term": 28,
+  "legislative_year": 2,
+  "esas_no": "7/11749",
+  "submitted": "2024-05-09",
+  "submitted_as": "Başkanlığa geliş tarihi",
+  "mp": "Turan Taşkın ÖZER",
+  "province": "İstanbul",
+  "summary": "Kimlik belgesi olmayan veya vatansız kişi kimlik belgesi verilen kişilere ilişkin",
+  "status": "Süresi Geçtikten Sonra Cevaplandı",
+  "status_as_of": "2026-11-16",
+  "official_record": "https://www.tbmm.gov.tr/Denetim/Yazili-Soru-Onergesi-Detay/a04b43e4-ed5e-452e-ac4d-018f5d1528b1",
+  "source": "https://tbmm.gov.tr/Denetim/YaziliSoruOnergesiTable",
+  "source_form": "https://tbmm.gov.tr/Denetim/Yazili-Soru-Onergeleri",
+  "source_sha256": "37d8175b885b8f9a0e3c6b2c7a6149a37cae0ef285ffaa479c841feb68ef4593",
+  "in_force": "2024-05-09",
+  "in_force_basis": "Date the question reached the Speaker (Başkanlığa geliş tarihi) in the official TBMM written-question record; parliamentary oversight record, not law",
+  "history_type": "metadata",
+  "text_status": "metadata-only: question text, addressee and answers are in the linked official record (PDFs on cdn.tbmm.gov.tr); not transcribed here"
+}
