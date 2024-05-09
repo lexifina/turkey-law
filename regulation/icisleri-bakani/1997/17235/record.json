@@ -1,0 +1,96 @@
+{
+  "source_id": "7.5.17235",
+  "kind": "regulation",
+  "register_kind": "Kurum ve Kuruluş Yönetmelikleri",
+  "title": "FAHRİ TRAFİK MÜFETTİŞLİĞİ GÖREV VE ÇALIŞMA YÖNETMELİĞİ",
+  "number": "17235",
+  "issuer": "İçişleri Bakanı",
+  "issuer_slug": "icisleri-bakani",
+  "path": "regulation/icisleri-bakani/1997/17235",
+  "source": "https://www.mevzuat.gov.tr/anasayfa/MevzuatFihristDetayIframe?MevzuatTur=7&MevzuatNo=17235&MevzuatTertip=5",
+  "source_sha256": "5d0a4d477d4b37cd629af8fcfe6d23f2bd0a1ccdd7ec801fb3ce8c357a4d8f46",
+  "source_bytes": 57897,
+  "published": "1997-05-01",
+  "gazette": "22976",
+  "in_force": "2024-05-09",
+  "in_force_basis": "latest Resmî Gazete date printed in the source amendment notes/table (\"RG-9/5/2024\") for the current consolidated text",
+  "date_evidence": [
+    [
+      "2024-05-09",
+      "RG-9/5/2024",
+      "Resmî Gazete date printed in the source amendment note"
+    ],
+    [
+      "2024-05-09",
+      "9/5/2024",
+      "Resmî Gazete date in the source amendment table"
+    ],
+    [
+      "2020-09-03",
+      "RG-3/9/2020",
+      "Resmî Gazete date printed in the source amendment note"
+    ],
+    [
+      "2020-09-03",
+      "3/9/2020",
+      "Resmî Gazete date in the source amendment table"
+    ],
+    [
+      "2019-10-31",
+      "RG-31/10/2019",
+      "Resmî Gazete date printed in the source amendment note"
+    ],
+    [
+      "2019-10-31",
+      "31/10/2019",
+      "Resmî Gazete date in the source amendment table"
+    ],
+    [
+      "2019-07-09",
+      "9/7/2019",
+      "Resmî Gazete date in the source amendment table"
+    ],
+    [
+      "2019-03-07",
+      "RG-7/3/2019",
+      "Resmî Gazete date printed in the source amendment note"
+    ],
+    [
+      "2019-03-07",
+      "7/3/2019",
+      "Resmî Gazete date in the source amendment table"
+    ],
+    [
+      "2003-12-22",
+      "22/12/2003",
+      "Resmî Gazete date in the source amendment table"
+    ],
+    [
+      "2001-11-27",
+      "RG-27/11/2001",
+      "Resmî Gazete date printed in the source amendment note"
+    ],
+    [
+      "2001-11-27",
+      "27/11/2001",
+      "Resmî Gazete date in the source amendment table"
+    ]
+  ],
+  "commencement_clauses": [
+    "Bu Yönetmelik yayımı tarihinde yürürlüğe girer"
+  ],
+  "history": "current-text",
+  "label": "oldest version available",
+  "checked_on": "2026-11-15",
+  "word_count": 1247,
+  "text_status": "current-consolidated",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  },
+  "source_links": [
+    "7.5.17235-EK.zip"
+  ],
+  "completeness": "html-text-complete; linked annexes not fetched"
+}

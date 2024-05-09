@@ -1,0 +1,8 @@
+Müracaatların Kabulü ve Değerlendirilmesi
+Madde 7-(Değişik ibare:RG-7/3/2019-30707)
+Müracaatların kabulü, gerekli görülmesi halinde ibraz edilen bilgi ve belgelerin incelenmesi, ilgilinin müracaatını yapmış olduğu il valiliğince yapılır.
+(Değişik ikinci fıkra:RG-9/5/2024-32541) Yapılan inceleme neticesinde durumları bu Yönetmelik esaslarına uygun olanlar, talep edildiğinde Bakanlığa gönderilir.
+Trafik (Mülga ibare:RG-3/9/2020-31233) (…) Başkanlığınca yapılan inceleme ve değerlendirme neticesinde, müfettiş olmasında sakınca görülmeyenler Emniyet Genel Müdürünün teklifi ile İçişleri Bakanının onayına sunulur.
+(Değişik fıkra:RG-3/9/2020-31233) Onay işlemini müteakip, ilgili valiliklerine sonuçları iletilir ve valilerce fahri trafik müfettişliği görevi verilir.
+(Değişik beşinci fıkra:RG-9/5/2024-32541) Mülki İdare Amirliği Hizmetleri Sınıfında görev yapanlar, Emniyet Hizmetleri Sınıfında rütbeli, Jandarma Hizmetleri Sınıfında subay olarak görev yapanlar ve bu görevleri yaptıktan sonra ayrılanlar veya emekli olanlarda, trafik sorununun çözümüne yönelik bilimsel araştırma ve çalışma yapanlar ile trafiğe hizmet etmiş olanlarda ve bulundukları görev, mesleki deneyim ve nitelikleri itibarıyla müfettiş olarak görevlendirilmelerinde yarar görülenlerde 5 inci maddenin birinci fıkrasının (b) ve (c) bentlerindeki şartlar aranmaz. Bu şekilde müfettiş seçilenler yüz yüze eğitime tabi tutulmaz ve bu kişiler için yüz yüze yapılan eğitim ve değerlendirme toplantılarına katılma zorunluluğu aranmaz.
+Bu işlemlere ilişkin görevler, illerde trafik denetleme birimlerince, merkezde Trafik (Mülga ibare:RG-3/9/2020-31233) (…) Başkanlığınca yürütülür.
