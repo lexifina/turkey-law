@@ -1,0 +1,2 @@
+Dayanak
+MADDE 3 – (1) Bu Yönetmelik 13/10/1983 tarihli ve 2918 sayılı Karayolları Trafik Kanununun 26 ncı maddesine, 10/7/2004 tarihli ve 5216 sayılı Büyükşehir Belediyesi Kanununun 7 ve 23 üncü maddelerine, 3/7/2005 tarihli ve 5393 sayılı Belediye Kanununun 15 ve 59 uncu maddelerine ve 7/11/1996 tarihli ve 4207 sayılı Tütün Ürünlerinin Zararlarının Önlenmesi ve Kontrolü Hakkında Kanuna dayanılarak hazırlanmıştır.
