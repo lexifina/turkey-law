@@ -1,0 +1,22 @@
+{
+  "number": "59",
+  "number_as_published": "2024/59",
+  "year": 2024,
+  "title": "2023 yılı Bütçe Kesin Hesabı",
+  "decision_date": "2024-05-09",
+  "source": "https://eyupsultan.bel.tr/tr/main/pages/2024-mayis-ayi-meclis-kararlari/2585",
+  "official_document": "https://eyupsultan.bel.tr/tr/main/pages/2024-59/2586",
+  "source_sha256": "125cb6815dbd4aa6dd1c22e381507bb069baf0b38b627605fe5246f24b63606d",
+  "issuer": "Eyüpsultan Belediye Meclisi",
+  "history_type": "metadata",
+  "text_status": "metadata-only: listing fields as published; complete decision text is in the linked official document, not transcribed",
+  "in_force": "2024-05-09",
+  "in_force_basis": "Decision date as printed in the official council listing: 09.05.2024 (meeting date at the start of the decision page); adoption date of the council decision; legal commencement not asserted",
+  "missing": [
+    "complete official decision text",
+    "official annexes"
+  ],
+  "law_text_complete": false,
+  "privacy_withheld": false,
+  "decision_page_sha256": "6abd544218abd6b5fe4957dba091e03e928f316df288af30d493830e520d2bbb"
+}
