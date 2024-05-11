@@ -1,0 +1,2 @@
+İhale sonucunun Kamu İhale Kurumuna bildirilmesi
+MADDE 38- (1) Banka, ihtiyaçları için gerçekleştirilecek mal alımı, hizmet alımı ve yapım işlerine konu ihale sonuçlarını, sözleşmenin taraflarca imzalanmasını müteakip, 4734 sayılı Kanunda belirtilen süre içerisinde Kamu İhale Kurumuna bildirir. Bu Usul ve Esaslar kapsamında gerçekleştirilen ihalelere ilişkin sonuç bildirimleri Kamu İhale Bülteninde yayımlanmaz.

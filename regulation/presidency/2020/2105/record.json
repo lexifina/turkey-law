@@ -1,0 +1,26 @@
+{
+  "id": "presidency-regulation-2105",
+  "number": "2105",
+  "kind": "regulation",
+  "issuer": "presidency",
+  "title": "TÜRKİYE CUMHURİYET MERKEZ BANKASI TARAFINDAN 4734 SAYILI KAMU İHALE KANUNUNUN 3 ÜNCÜ MADDESİNİN (B) BENDİ KAPSAMINDA YAPILACAK İHALELERE İLİŞKİN USUL VE ESASLAR",
+  "published": "2020-02-12",
+  "enacted": "2020-02-11",
+  "gazette_number": "31037",
+  "in_force": "2024-05-11",
+  "in_force_basis": "Source commencement table, \"Yürürlüğe Giriş Tarihi\": 11/5/2024; source row: 10/5/2024 | 8445 | Geçici Madde 1 | 11/5/2024",
+  "history": "current-only",
+  "version_label": "oldest version available",
+  "first_law": null,
+  "source": "https://www.mevzuat.gov.tr/anasayfa/MevzuatFihristDetayIframe?MevzuatNo=2105&MevzuatTur=21&MevzuatTertip=5",
+  "source_sha256": "8186a95b03d56195128d19684a688d7d6c1fd6d0fa7e64577cc45e80a2b7f8a4",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  },
+  "missing_components": [],
+  "text_layout": "article-files",
+  "source_links": [],
+  "completeness": "html-text-complete"
+}

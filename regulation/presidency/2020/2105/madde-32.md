@@ -1,0 +1,3 @@
+Bütün tekliflerin reddedilmesi ve ihalenin iptali
+MADDE 32- (1) İhale komisyonu kararı üzerine banka, verilmiş olan bütün teklifleri reddederek ihaleyi iptal etmekte serbesttir. İhalenin iptal edilmesi halinde bu durum bütün isteklilere derhal bildirilir. Banka bütün tekliflerin reddedilmesi nedeniyle herhangi bir yükümlülük altına girmez. Banka tarafından ihalenin iptal edilmesi nedeniyle isteklilerce bankadan herhangi bir hak talebinde bulunulamaz. Ancak banka, isteklilerin talepte bulunması halinde ihalenin iptal edilme gerekçelerini talep eden isteklilere bildirebilir.
+(2) İhalenin iptal edilmesi durumunda iptal nedenleri gözden geçirilerek yeniden ihaleye çıkılabilir.

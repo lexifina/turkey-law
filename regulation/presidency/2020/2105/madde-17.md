@@ -1,0 +1,4 @@
+İhale dokümanının verilmesi
+MADDE 17- (1) Banka tarafından hazırlanan ihale konusu mal alımına, hizmet alımına veya yapım işlerine ait alımla ilgili talimatları içeren idari şartnameler ile varsa teknik şartnameler, sözleşme tasarıları ve gerekli diğer belge ve bilgiler banka tarafından davet edilen isteklilere bedelli veya bedelsiz olarak verilebilir.
+(2) İhale konusu mal veya hizmet alımları ile yapım işlerinin her türlü özelliğini belirten idari ve teknik şartnamelerin bankaca hazırlanması esastır. Ancak mal veya hizmet alımları ile yapım işlerinin özelliği nedeniyle bankaca hazırlanmasının mümkün olmadığının ihale yetkilisi tarafından onaylanması kaydıyla, teknik şartnameler hizmet alımı yapılması suretiyle hazırlattırılabilir.
+(3) İhale dokümanında, bankanın bu işlerle ilgili olarak 4734 sayılı Kanundan istisna edildiği ve işi yaptırıp yaptırmamakta, alıp almamakta veya kısmen yaptırmakta serbest olduğu hususlarına da yer verilir.

@@ -1,0 +1,2 @@
+Kapsam
+MADDE 2- (1) Bu Usul ve Esaslar; güvenlikle ilişkili olduğuna veya gizlilik içinde yürütülmesi gerektiğine Cumhurbaşkanı veya Türkiye Cumhuriyet Merkez Bankası ile ilgilendirilen Bakan tarafından karar verilen veya mevzuatı uyarınca sözleşmenin yürütülmesi sırasında özel güvenlik tedbirleri alınması gereken veya devlet güvenliğine ilişkin temel menfaatlerin korunmasını gerektiren hallerle ilgili olan mal ve hizmet alımları ile yapım işlerini kapsar.

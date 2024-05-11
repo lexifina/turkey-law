@@ -1,0 +1,10 @@
+Dinamik alım sistemi
+MADDE 12- (1) Piyasada mamul olarak bulunan malların elektronik ortamda temin edilmesi için, uygulanan ihale usulüne göre tekliflerin değerlendirilmesi aşamasından sonra dinamik alım sistemi kullanılabilir. Dinamik alım sistemi, rekabeti engelleyici, sınırlayıcı veya bozucu şekilde işletilemez. Sistemin tesis edileceği hususu, en az beş gerçek veya tüzel kişiye duyurulur. Bu duyurunun ekinde planlanan alımın niteliği, türü ve miktarının yanı sıra satın alma sistemine, bu sistemin işletilmesinde kullanılacak elektronik ekipmana, sisteme teknik olarak bağlanabilmek için gerekli düzenlemelere, sistemin işleyişini düzenleyen kurallara ve diğer hususlara ilişkin bilgilere yer verilir.
+(2) Dinamik alım sisteminin oluşturulmasında aşağıdaki hususlar dikkate alınır:
+a) Dinamik satın alma sitemindeki istekli sayısı ikiden az olamaz. Yeterlik kriterlerini sağlayan ve bankaca belli aralıklarla davet edilip ön teklif veren bütün isteklilere sisteme dahil olma imkanı verilir. Ön teklifler ihale dokümanında yer alan şartlara uygun olduğu sürece sürekli olarak geliştirilebilir.
+b) Ön tekliflerin değerlendirilmesi, verildikleri tarihten itibaren on beş gün içinde tamamlanır. Teklif vermeye ilişkin davetin henüz yapılmamış olması halinde değerlendirme süresi on beş güne kadar bir defa uzatılabilir.
+c) Dinamik alım sisteminin tesis edildiği veya sistemin kurulmasından vazgeçildiği ile ön tekliflerin sisteme kabul veya reddedildikleri hususu isteklilere karar alındıktan sonra en geç üç gün içinde bildirilir.
+ç) Sisteme kabul edilen bütün istekliler, tekliflerini sunmaları için yeterli süre tanınmak suretiyle teklif vermeye davet edilir.
+d) Teklifler, ihale dokümanında belirtilen esaslara göre değerlendirilmek suretiyle alım sonuçlandırılır ve sözleşmeye bağlanır.
+e) Dinamik alım sisteminin süresi otuz altı aydan fazla olamaz.
+f) Dinamik alım sistemi dahilinde yapılacak alımlara ilişkin sözleşme düzenlenmesi gerekli haller ile bu sözleşmelerin şeklini ve kapsamını belirlemeye banka yetkilidir.

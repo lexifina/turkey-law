@@ -1,0 +1,15 @@
+Çerçeve anlaşma
+MADDE 10- (1) Banka ihtiyaçlarını temin sürecinde çerçeve anlaşma yapabilir.
+(2) Banka, ihtiyaç duyulan mal ve hizmet alımları ile yapım işlerine ilişkin olarak bu Usul ve Esaslarda belirtilen ihale usullerini uygulamak kaydıyla çerçeve anlaşmalar yapabilir. Bu anlaşmaların yapılmasında aşağıdaki hususlar dikkate alınır:
+a) Çerçeve anlaşma kapsamında karşılanması planlanan tahmini ihtiyaç miktarları ihale dokümanında gösterilir.
+b) Çerçeve anlaşma kapsamında imzalanan sözleşmelerin süresi otuz altı ayı geçemez.
+c) Çerçeve anlaşmalar, koşulların tamamının baştan belirlendiği hallerde, en az iki istekli ile yapılabilir. Belirli sebeplerle koşulların tamamının baştan belirlenemediği hallerde ise istenilen şartları karşılayan yeterli sayıda teklif sunulması kaydıyla çerçeve anlaşmaya taraf olacak istekli sayısı üçten az olmamak üzere ihale dokümanında belirtilir. Çerçeve anlaşmaların iki istekli ile yapıldığı haller hariç, yapılan değerlendirme sonucunda teklifleri geçerli kabul edilen istekliler, ekonomik açıdan en avantajlı tekliften başlanmak suretiyle sıralanarak listeye alınır. Çerçeve anlaşmaya taraf olan istekli sayısının ikinin altına inmesi halinde, mevcut çerçeve anlaşmanın sona erdiği taraflara bildirilir.
+ç) İsteklilere ihale konusu işin karmaşıklığı ve özgünlüğü gibi hususlar dikkate alınarak tekliflerini sunmaları için yeterli süre tanınır.
+d) İstekliler yeterliklerinin devam ettiğini on iki ayda bir belgelendirir. Yeterliği devam etmeyenler ile teklif vermeye davet edildiği halde üç kez geçerli teklif vermeyen isteklilerin çerçeve anlaşmaları feshedilir.
+e) Münferit sözleşmeye davet edildiği halde ihale dokümanında belirtilen süre içerisinde sözleşme imzalamayan istekliyle yapılan çerçeve anlaşma feshedilir.
+f) Çerçeve anlaşma yapılmış olması, bankaya alım yapma yükümlülüğü getirmez. İdarenin çerçeve anlaşma kapsamındaki ihtiyaçları bu Usul ve Esaslarda yer alan diğer usuller kullanılmak suretiyle de karşılanabilir.
+g) Çerçeve anlaşma kapsamında yapılan münferit sözleşmelerde, sözleşmenin ifasının çerçeve anlaşma süresi içerisinde yapılması zorunludur, Ancak iş artışı yapılması, mücbir sebep veya bankadan kaynaklanan nedenlerle süre uzatımı verilmesi hallerinde ya da gecikme cezasının uygulandığı durumlarda, münferit sözleşmenin ifası için çerçeve anlaşmanın süresi gecikme süresi kadar uzatılarak gerçekleştirilebilir.
+ğ) Çerçeve anlaşma ihalesine çıkılabilmesi için ödeneğin bulunması şartı aranmaz. Ancak münferit sözleşme aşamasında ödeneğin bulunması zorunludur. Ödenek, münferit sözleşme aşamasında ihtiyaç konusu mal veya hizmet veya yapım işi için çerçeve anlaşma ihalesinde teklif edilen bedeller dikkate alınarak banka tarafından belirlenir.
+h) Kısmi teklife açık çerçeve anlaşma ihalelerinde her bir kısma ilişkin imzalanan çerçeve anlaşma ayrı bir çerçeve anlaşma olarak kabul edilir.
+ı) Konsorsiyumlar çerçeve anlaşma ihalelerine katılamazlar.
+i) Münferit sözleşme aşamasında, banka tarafından tekliflerin elektronik ortamda alınmasına karar verilebilir.
