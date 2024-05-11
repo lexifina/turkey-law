@@ -1,0 +1,41 @@
+{
+  "id": "presidency-regulation-36",
+  "number": "36",
+  "kind": "regulation",
+  "issuer": "presidency",
+  "title": "SANAYİ İŞBİRLİĞİ PROJELERİNİN UYGULANMASINA İLİŞKİN USUL VE ESASLAR",
+  "published": "2018-08-16",
+  "enacted": "2018-08-15",
+  "gazette_number": "30511",
+  "in_force": "2024-05-11",
+  "in_force_basis": "Latest source commencement-table date: 2024-05-11; official source: 10/5/2024 | 8444 | Geçici Madde 2 | 11/5/2024",
+  "history": "current-only",
+  "version_label": "oldest version available",
+  "first_law": null,
+  "source": "https://www.mevzuat.gov.tr/anasayfa/MevzuatFihristDetayIframe?MevzuatNo=36&MevzuatTur=21&MevzuatTertip=5",
+  "source_sha256": "83676eeec8e1a5e6104c2703f13aa7132d64cdb533524189d27f24b03d2e9150",
+  "source_links": [],
+  "missing_components": [],
+  "date_anomalies": [],
+  "images": {
+    "source": 1,
+    "referenced": 0,
+    "omitted": 1
+  },
+  "images_complete": false,
+  "image_inventory": [],
+  "images_omitted": [
+    {
+      "source_ref": "https://www.mevzuat.gov.tr/anasayfa/21.5.36_dosyalar/image001.png",
+      "description": "Official embedded image 1 (source supplies no caption)",
+      "reason": "not extractable",
+      "normative": true,
+      "position": 1,
+      "failure": "Exact source image URL returns an HTML page instead of image bytes",
+      "response_sha256": "ed5c1830cd619584c778ad339c2e327737bb0feababf6f36bd8ba416fc81ac90",
+      "response_bytes": 259936
+    }
+  ],
+  "completeness": "pending-images",
+  "text_layout": "article-files"
+}

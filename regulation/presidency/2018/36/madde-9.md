@@ -1,0 +1,5 @@
+İhale komisyonları
+MADDE 9 – (1) Tüm tekliflerin alınmasını müteakip; idare bünyesinde, bir başkan ve proje konusu işle ilgili ve/veya teknik yeterliliği haiz asıl ve yedek üyelerden oluşan tedarik ihale komisyonu, Bakanlık bünyesinde ise bir başkan ve asıl ve yedek üyelerden oluşan STK komisyonu kurulur. Komisyonlar, en az üç olmak üzere tek sayıda üyeden oluşur. Tedarik ihale komisyonunun en az bir üyesi STK komisyonunda yer alır.
+(2) Tedarik ihale komisyonunun kurulması, üyelerin nitelik ve sayıları ile çalışma usul ve esasları gibi hususlar idare tarafından; STK komisyonunun kurulması, üyelerin nitelik ve sayıları ile çalışma usul ve esasları gibi hususlar ise Bakanlık tarafından belirlenir.
+(3) İdarede veya Bakanlıkta yeterli sayı veya nitelikte personel bulunmaması halinde, diğer idarelerden komisyonlara üye alınabilir. Gerekli hallerde, idare veya Bakanlığın onayı ile oy ve puan verme hakkı olmaksızın komisyonlarda danışman personel de görevlendirilebilir.
+(4) Her bir komisyon kendi görevi kapsamında çalışır. Komisyon başkanlarının uygun görmesi halinde komisyonlar arasında tutanakla bilgi paylaşımı yapılabilir.

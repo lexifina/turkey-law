@@ -1,0 +1,10 @@
+Sanayi ve teknoloji katılımı ilkeleri
+MADDE 16– (1) Yüklenici, STK yükümlülüklerini yerine getirirken idare ve Bakanlığa ilave herhangi bir mali yük getiremez.
+(2) STK esaslarının kayıtsız şartsız kabul edilmesi ve STK esaslarındaki her bir kategoriye ilişkin olarak belirlenen asgari STK yükümlülük oranlarının sağlanması zorunludur.
+(3) Yüklenici, STK sözleşmesi kapsamında STK yükümlülüğünün % 6’sı oranında ve STK yükümlülük süresinin tamamlanmasından itibaren en az bir yıl süreyle geçerli olan bir STK teminat mektubunu Bakanlığa sunar.
+(4) Tedarik sözleşmesinde, STK sözleşmesini etkileyebilecek, kapsam, fiyat, takvim, teknik özellikler, iş dağılımı ve iş tanımları, yurt içinden tedarik edilecek malzemeler/cihazlar/sistemler ve tedarikçi bilgileri, mühendislik ve sözleşme değişiklikleri gibi değişiklikler yapılmadan önce Bakanlıktan görüş alınır.
+(5) Tedarik sözleşmesinde STK sözleşmesini etkileyen tüm değişiklikler, gerçekleşmesini müteakip 10 işgünü içerisinde Bakanlığa iletilir.
+(6) Tedarik sözleşmesi bedelinin fiyat farkı dâhil herhangi bir nedenle artırılması veya azaltılması durumunda, yüklenicinin toplam STK yükümlülüğünün değeri de bununla orantılı olarak artırılır veya azaltılır. Tedarik sözleşmesi bedelindeki artış veya azalış gerekçeleri dikkate alınarak STK yükümlülüklerinin STK kategorilerine göre dağılımında, Bakanlık tarafından değişiklik yapılabilir.
+(7) Altıncı fıkra hükümleri saklı kalmak kaydıyla, STK sözleşmesinde yer alan STK kategorileri arasında yükümlülük aktarımı yapılamaz.
+(8) Tedarik sözleşmesinin tamamen feshi halinde yüklenicinin STK yükümlülüğü sona erer. Tedarik sözleşmesinin kısmi feshi halinde ise, yüklenicinin STK yükümlülüğünün feshedilen bölümle orantılı kısmı geçersiz sayılır. Fesih halinde, STK teminat mektubunun cezai şart olarak irat kaydedileceği durumlar STK sözleşmesinde düzenlenir.
+(9) Ön onay, STK raporları, kredilendirme, geçici kredilendirme, ön kredilendirme, fazla STK kredisi aktarımı, cezai şartlara ilişkin usul ve esaslar ile STK sözleşmesi, STK planı, STK kredilendirme katsayı tablosu ve benzeri hususlar, Bakanlık tarafından belirlenir.

@@ -1,0 +1,4 @@
+Teklif dosyasının açılması
+MADDE 12– (1) Teklif dosyalarının açılacağı tarih, tedarik ihale komisyon başkanı tarafından belirlenerek isteklilere duyurulur ve dosyalar, tedarik ihale komisyonu başkanı, tedarik ihale komisyonunun en az iki üyesi, STK komisyonu başkanı ve isteklilerin huzurunda açılır.
+(2) Birinci fıkrada belirtilen işlemi müteakiben, dosyalarda teknik, idari ve STK tekliflerine ait kapalı zarfların eksik olup olmadığı tutanak ile tespit edilir ve eksik zarf olması halinde teklif değerlendirme dışı bırakılır.
+(3) Teklif zarfları açılmaksızın teklifler ilgili komisyonlar tarafından değerlendirilmek üzere oturum kapatılır. İdari ve teknik tekliflere ait kapalı zarflar tedarik ihale komisyonu başkanı tarafından muhafaza edilir, STK tekliflerine ait kapalı zarflar ise, STK komisyon başkanına tutanak ile teslim edilir.

@@ -1,0 +1,7 @@
+Cezai şart
+MADDE 23– (1) Kategori-A, Kategori-B, Kategori-C, yan sanayi iş payı ve KOBİ iş payı yükümlülüklerinin STK sözleşmesinde belirtilen süre ve şartlarda yerine getirilmemesi halinde, yerine getirilmeyen STK yükümlülüğünün % 6’sı oranında ceza uygulanır.
+(2) Yüklenicinin cezayı STK sözleşmesinde belirtilen şartlarla ödememesi durumunda, bu bedel STK teminat mektubundan tahsil edilir. Yüklenici, STK teminat mektubunun değerini, STK sözleşmesinde belirtilen sürede, STK sözleşmesinde belirtilen miktara tamamlar.
+(3) Cezanın uygulanması, yükleniciyi STK yükümlülüklerini yerine getirme sorumluluğundan kurtarmaz. Tahakkuk eden cezanın tahsil edilmesini müteakip, yüklenicinin gerçekleştirilmeyen STK yükümlülükleri, bir sonraki program dönemindeki aynı kategorideki STK yükümlülüklerine STK sözleşmesinde belirtilen şartlarda eskale edilerek eklenir.
+(4) STK yükümlülük süresi sonunda, tahakkuk eden cezanın tahsil edilmesini müteakip halen gerçekleştirilmeyen STK yükümlülüklerinin bulunması durumunda;
+a) Bu yükümlülükler, yüklenicinin taraf olduğu diğer STK sözleşmeleri kapsamındaki yükümlülüklerine Bakanlığın uygun gördüğü kategori ve şekilde eklenir.
+b) Yüklenicinin taraf olduğu başka bir STK sözleşmesi olmaması halinde ise, Bakanlık ve yüklenici, gerçekleştirilmeyen STK yükümlülüğünün yerine getirilmesine yönelik bir anlaşma yapmak üzere görüşmelere başlar. Anlaşmanın 60 gün içinde sağlanamaması veya anlaşmaya rağmen STK yükümlülüğünün gerçekleştirilmemesi durumunda, yerine getirilmeyen STK yükümlülüğünün % 6’sı oranında ceza uygulanır.

@@ -1,0 +1,6 @@
+İhale dokümanının verilmesi
+MADDE 8 – (1) Tedarik grubu tarafından hazırlanarak ihale yetkilisinin onayına sunulan ihale onay belgesinde, asgari olarak; ihale dokümanı ve ihale ilanının yapılıp yapılmayacağı yer alır. İhale ilanı ile ilgili hususlar, idare tarafından belirlenir.
+(2) İhale dokümanı adaylara verildikten sonra tekliflerin hazırlanmasını veya işin gerçekleştirilmesini etkileyebilecek maddi, teknik hataların veya eksikliklerin tedarik grubu veya STK grubu tarafından tespit edilmesi veya adaylar tarafından bildirilmesi halinde ihale dokümanında ihale yetkilisinin onayı ile zeyilname düzenlenerek değişiklik yapılabilir. Zeyilname ihale dokümanının bağlayıcı bir parçası olup, yapılan değişiklikler adaylara bildirilir.
+(3) Zeyilname düzenlenmesi halinde, teklifini bu düzenlemeden önce vermiş olan isteklilere, teklifin zeyilnameden etkilenen bölümlerini yeniden sunma imkânı sağlanır.
+(4) İhale dokümanında açıklanmasına ihtiyaç duyulan hususlar ile ilgili olarak adaylar tarafından açıklama talep edilebilir. İhale yetkilisinin onayı ile tedarik grubu tarafından yapılan açıklamalar ihale dokümanının bağlayıcı bir parçası olup, adaylara bildirilir.
+(5) STK esaslarını etkileyen değişiklikler ve/veya açıklamalar olması halinde, tedarik grubu, bahse konu değişiklikleri ve/veya açıklamaları STK grubu ile koordine eder.
