@@ -1,0 +1,2 @@
+Kapsam
+MADDE 2- (1) Bu Yönetmelik; havalimanı/havaalanı işletmecilerini, havacılık işletmelerini, kokpit ekibini, hava trafik hizmet birimlerini, arama kurtarma unsurlarını, hava seyrüsefer hizmet sağlayıcılarını, Meteoroloji Otoritesi ve Hizmet Sağlayıcısını, Sivil Havacılık Genel Müdürlüğünü ve uluslararası hava seyrüsefer hizmetlerinin yürütülmesi veya geliştirilmesi ile ilgili olan kurum, kuruluş ve tüzel kişilikleri kapsar.
