@@ -1,0 +1,8 @@
+Dersler
+MADDE 13 – (1) Anabilim/anasanat dalı ve bölüm kurulunun, bir dönemde açılacak dersler ve bu dersleri verecek öğretim elemanlarına ilişkin önerileri ilgili kurul tarafından karara bağlanır, Senato onayı ile uygulamaya konulur.
+(2) Müfredat değişikliği veya isimleri değişmemekle birlikte ders içeriğinin değişmesi ya da ders içeriği değişmemekle birlikte aradan uzun bir sürenin geçmesi nedeniyle öğrencilerin daha önce başarılı oldukları derslerden hangilerini yeniden almaları gerektiği Senato tarafından belirlenir.
+(3) Dersler; zorunlu ve seçmeli olarak iki gruba ayrılır. Öğrencinin almak zorunda olduğu dersler zorunlu, seçerek almak zorunda olduğu dersler seçmeli ders olarak adlandırılır. Öğrenci, programda yer alan tüm zorunlu dersler ile öngörülen seçmeli derslerden gerekli sayıda almak ve başarılı olmakla yükümlüdür. Seçmeli dersten başarısız olan öğrenci başka bir seçmeli ders alabilir.
+(4) Zorunlu derslerin açılması için öğrenci sayısı dikkate alınmaz. Zorunlu ders, başka bir bölüm/program öğrencisi tarafından seçmeli ders olarak alınabilir.
+(5) Herhangi bir seçmeli derse kaydolan öğrenci sayısı on kişiden az ise söz konusu seçmeli ders açılamaz. Açılamayan seçmeli derse kaydolan öğrenci, danışmanının önerisi doğrultusunda ders ekleme-silme süresi içerisinde açık bulunan diğer seçmeli derslere kayıt yaptırabilir.
+(6) Bir dersin öğrencileri ilgili kurul kararı ile birden fazla gruba bölünebilir. Gruplardaki öğrenci sayısının teorik derslerde en az yirmi, uygulamalı derslerde ise en az on olması gerekir.
+(7) Haftalık ders programları, dönemin başlangıcından en az beş gün önce bölüm tarafından ilan edilir. Zorunlu hallerde bölüm kurulu kararıyla haftalık programlarda değişiklik yapılabilir.

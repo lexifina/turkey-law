@@ -1,0 +1,2 @@
+Öğrenci değişimi
+MADDE 24 – (1) Ulusal ve uluslararası öğrenci değişim programları kapsamında aynı düzeyde başka bir yükseköğretim kurumuyla öğrenci değişimi yapılabilir. Öğrenci değişimi programları, Yükseköğretim Kurumlarında Önlisans ve Lisans Düzeyindeki Programlar Arasında Geçiş, Çift Ana Dal, Yan Dal ile Kurumlar Arası Kredi Transferi Yapılması Esaslarına İlişkin Yönetmelik hükümleri ve Senato tarafından belirlenen esaslara göre yürütülür.

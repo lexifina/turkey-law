@@ -1,0 +1,2 @@
+Sınav sonuçlarına itiraz
+MADDE 16 – (1) Öğrencinin 100’lük sisteme göre aldığı not, akademik takvimde belirlenen süre içinde ilan edilir. İlan edilen sınav sonucuna itiraz, ilan tarihinden itibaren üç iş günü içinde ilgili birime yazılı olarak yapılır. Öğretim elemanı, itirazı iki iş günü içerisinde maddi hata bakımından değerlendirir. Maddi hata belirlenmesi durumunda, öğrencinin aldığı not ilgili yönetim kurulu kararıyla düzeltilir. İtirazın neticesi öğrenciye bildirilir.

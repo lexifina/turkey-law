@@ -1,0 +1,2 @@
+Yan dal programları
+MADDE 23 – (1) Esasları ve başvuru koşulları, ilgili yönetim kurulunun teklifi ve Senatonun onayı ile belirlenmek şartıyla, lisans diploma programlarında yan dal programları düzenlenebilir. Yan dal programları, Yükseköğretim Kurumlarında Önlisans ve Lisans Düzeyindeki Programlar Arasında Geçiş, Çift Ana Dal, Yan Dal ile Kurumlar Arası Kredi Transferi Yapılması Esaslarına İlişkin Yönetmelik hükümleri ve Senato tarafından belirlenen esaslara göre yürütülür.

@@ -1,0 +1,3 @@
+Danışmanlık
+MADDE 11 – (1) Her öğrenciye, bu Yönetmelik hükümlerine göre oluşturulan akademik programı izlemesini sağlamak üzere bir öğretim elemanı danışman olarak atanır. Danışmanlık görevi, öğretim elemanları arasında dengeli bir şekilde dağıtılır. Danışman; bölüm başkanı, anabilim/anasanat dalı başkanı veya program danışmanı tarafından önerilir ve birim yöneticisi tarafından görevlendirilir. Görevlendirme, ilgili danışmana ve öğrencilere duyurulur. Danışman değişikliği de aynı yöntemle yapılır.
+(2) Danışman, öğrencinin devam ettiği programdaki başarı durumu ve derslerin program içindeki dağılımını dikkate alarak öğrencinin alması gereken zorunlu ve seçmeli dersler hakkında öğrenciye önerilerde bulunur ve öğrencinin ders kaydını onaylar.
