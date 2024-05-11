@@ -1,0 +1,2 @@
+Bilgi ve belgeleri açıklama yasağı
+MADDE 80– (1) Bu Usul ve Esasların uygulanmasında görevli olanlar ile danışmanlık hizmeti sunanlar; yüklenicilerin iş ve işlemlerine, teknik ve mali yapılarına ilişkin olarak gizli kalması gereken bilgi ve belgeleri ifşa edemezler, kendilerinin veya üçüncü şahısların yararına kullanamazlar. Aksine hareket edenler hakkında bu Usul ve Esaslar ile ilgili mevzuatta belirtilen müeyyideler uygulanır.

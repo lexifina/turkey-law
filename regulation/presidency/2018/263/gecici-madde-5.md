@@ -1,0 +1,6 @@
+Sözleşmesi imzalanmış restorasyon-uygulama/yapım işlerinde artırımlı fiyat farkı hesaplanması ve süre uzatımı verilmesi
+GEÇİCİ MADDE 5- (Ek:RG-11/5/2024-32543-CK-8446/1 md.)
+(1) Bu Usul ve Esaslar kapsamında ihalesi yapılan restorasyon-uygulama/yapım işlerine ilişkin Türk Lirası üzerinden yapılan ve 1/3/2023 tarihinden önce ihale edilip 28/12/2023 tarihi itibarıyla devam eden (geçici kabulü onaylanmamış olan) sözleşmelerde, 15/1/2024 tarihli ve 8089 sayılı Cumhurbaşkanı Kararı ile yürürlüğe konulan 4735 sayılı Kamu İhale Sözleşmeleri Kanununun Geçici 7 nci Maddesinin Uygulanmasına İlişkin Esaslara göre;
+a) Artırımlı fiyat farkı hesaplaması hükümleri kapsamında hesaplama yapılabilir ve söz konusu esasların artırımlı fiyat farkı hesaplaması hükümleri uygulanabilir.
+b) Bu maddenin yürürlüğe girdiği tarihten itibaren yüklenicinin otuz (30) gün içinde idareye yazılı olarak başvurusu üzerine idarece altı ayı geçmemek üzere süre uzatımı verilebilir ve söz konusu esasların süre uzatımı verilmesi hükümleri uygulanabilir.
+(2) 8089 sayılı Cumhurbaşkanı Kararı ile yürürlüğe konulan Esasların uygulanmasına ilişkin olarak Kamu İhale Kurumu tarafından yapılan/yapılacak olan ilgili mevzuat düzenlemeleri bu maddenin yürütülmesi için uygulanabilir.

@@ -1,0 +1,7 @@
+Sözleşmenin feshine ilişkin düzenlemeler
+MADDE 71– (1) Bu Usul ve Esasların hükümlerine göre yüklenicinin fesih talebinin idareye intikali, 69 uncu maddenin birinci fıkrasının (a) bendine göre belirlenen sürenin bitimi, 69 uncu maddenin birinci fıkrasının (b) bendi ile 70 inci maddeye göre ise tespit tarihi itibariyle sözleşme feshedilmiş sayılır. Bu tarihleri izleyen yedi gün içinde idare tarafından fesih kararı alınır. Bu karar, karar tarihini izleyen beş gün içinde yükleniciye bildirilir.
+(2) 69 ve 70 inci maddelere göre sözleşmenin feshedilmesi halinde, kesin teminat ve varsa ek kesin teminatlar alındığı tarihten gelir kaydedileceği tarihe kadar Türkiye İstatistik Kurumunca yayımlanan aylık toptan eşya fiyat endeksine göre güncellenir. Güncellenen tutar ile kesin teminat ve varsa ek kesin teminatların tutarı arasındaki fark yükleniciden tahsil edilir.
+(3) Hakedişlerden kesinti yapılmak suretiyle teminat alınan hallerde, alıkonulan tutar gelir kaydedileceği gibi, sözleşmenin feshedildiği tarihten sonra yapılmayan iş miktarına isabet eden teminat tutarı da birinci fıkra hükmüne göre güncellenerek yükleniciden tahsil edilir.
+(4) Gelir kaydedilen teminatlar, yüklenicinin borcuna mahsup edilemez.
+(5) 69 ve 70 inci maddelere göre sözleşmenin feshedilmesi halinde, yükleniciler hakkında 4734 sayılı ve 4735 sayılı Kanun ile ilgili mevzuat hükümleri uygulanır.
+(6) Ayrıca, sözleşmenin feshi nedeniyle idarenin uğradığı zarar ve ziyan yükleniciye tazmin ettirilir.

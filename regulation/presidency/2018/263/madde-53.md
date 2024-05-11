@@ -1,0 +1,2 @@
+Tekliflerin aynı olması
+MADDE 53– (1) Ekonomik açıdan en avantajlı teklifin tespitinde, birden fazla istekli tarafından aynı fiyatın teklif edildiği ve bunların da ekonomik açıdan en avantajlı teklif olduğunun anlaşıldığı durumlarda ihale komisyonu, bu isteklilerce sunulan iş deneyim belgelerinin tutarlarını değerlendirmek suretiyle ekonomik açıdan en avantajlı teklifi belirler ve ihaleyi sonuçlandırır.

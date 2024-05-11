@@ -1,0 +1,2 @@
+Yurtdışı vakıf kültür varlıklarına ait sair ödemeler
+MADDE 87 – (1) Yurtdışı vakıf kültür varlıklarının, bu Usul ve Esaslar kapsamındaki işlerinin uygulanmasında veya öncesinde ortaya çıkabilecek; proje bedeli, proje, rapor ve ihale dosyası gibi dokümanların tercüme bedelleri, ilgili ülke mevzuatına göre oluşturulan denetim ekibi hizmet bedeli, işle ilgili elektrik, doğalgaz, kanalizasyon vb. bağlantı ve abonelik bedelleri ile işbirliği protokolü çerçevesinde tanımlandığı şekliyle ilgili kurum veya kuruluşa doğrudan ödenebilir.

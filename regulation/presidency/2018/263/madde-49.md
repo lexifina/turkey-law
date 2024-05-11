@@ -1,0 +1,4 @@
+Tekliflerin verilmesi
+MADDE 49– (1) Teklifler ilanda belirtilen saate kadar, sıra numaralı alındılar karşılığında komisyon başkanlığına verilir. İdare görevlisi her zarfın üzerine bir alındı numarası vererek zarfın alınış tarih ve saatini yazar, teklif zarfı alındı belgesini düzenleyerek imzalar bir nüshasını istekliye verir.
+(2) Teklifler posta ile de gönderilebilir. Posta ile gönderilecek tekliflerin ilanda belirtilen saate kadar komisyon başkanlığına ulaşması şarttır. Postadaki gecikme nedeniyle işleme konulmayacak olan tekliflerin alınış zamanı bir tutanakla tespit edilir.
+(3) (Değişik:RG-23/7/2020-31194-C.K-2783/8 md.) İdare ve komisyon başkanlığına verilen teklifler, zeyilname düzenlenmesi sonucu tekliflerde değişiklik yapılması gereken haller dışında herhangi bir sebeple geri alınamaz.

@@ -1,0 +1,14 @@
+ONÜÇÜNCÜ BÖLÜM
+Sözleşmenin Uygulanması İle İlgili Hükümler
+İş miktarında artma veya eksilme
+MADDE 65– (Değişik:RG-10/11/2022-32009-CK-6370/10 md.)
+(1) Sözleşmelerin uygulaması aşamasında, ihale sürecinde öngörülemeyen durumlar nedeniyle iş artışının zorunlu olması halinde idare yapı denetim görevlileri ile yüklenici tarafından gerekçeleri ile birlikte hazırlanan iş artışı, idarenin onayına sunulur. Artışa konu olan işin; sözleşmeye esas proje içinde kalması ve asıl işten ayrılmasının teknik veya ekonomik olarak mümkün olmaması şartıyla harcama yetkilisi tarafından yapılan ilk iş artışı değerlendirmesinde, ilk sözleşme bedelinin;
+a) % 20’sini aşmamak üzere harcama yetkilisinin,
+b) % 50’sini aşmamak üzere Genel Müdürün,
+c) % 100’ünü aşmamak üzere Bakanın,
+onayı ile bir defada veya birden fazla sayıda iş artışı yapılabilir ve bu artışlarla iş tamamlanır. (Ek cümle:RG-24/3/2023-32142-CK-6993/2 md.) Ancak genel hayata etkili kabul edilen afetlerin meydana geldiği yerlerde, yukarıdaki bentlerde belirtilen iş artış oranları uygulanmasına rağmen işin tamamlanamaması ve idarece gerekli görülmesi halinde iş tasfiye edilmeden, (c) bendinde yer alan artış oranı sınırlaması olmaksızın Bakan onayı ile bir defada veya birden fazla sayıda iş artışı yapılabilir ve bu artışlarla iş tamamlanır.
+(2) İşin, birinci fıkranın (a) bendindeki iş artışı ile tamamlanamayacağının tespiti halinde (b) bendi hükmü, (b) bendine göre tamamlanamayacağının tespiti halinde (c) bendi hükmüne göre işlem tesis edilir, (c) bendindeki artış ile de tamamlanamayacağının tespit edilmesi durumunda birinci fıkranın son cümlesinde belirtilen durum hariç olmak kaydıyla artış yapılmaksızın iş, harcama yetkilisi tarafından Genel Müdürün uygun görüşü alınarak genel hükümlere göre tasfiye edilir.[6]
+(3) İş artışı yapılan durumlarda, iş artışı için ek kesin teminat alınması, gerekli ek süre verilmesi ve sözleşmesindeki fiyat farkı hükümlerinin uygulanması suretiyle iş, aynı yükleniciye yaptırılabilir. İş artışı yapılması durumunda yüklenici, artırılmış işe tekabül eden imalatların tamamını aynı ihale dokümanı ve sözleşme hükümlerine uygun olarak yerine getirmek zorundadır.
+(4) İşin tasfiye edilmesi durumunda yüklenici, işin kalan kısmının ilk sözleşme bedeli tutarındaki, yapılması mümkün ve zorunlu olan işlerin, idarece uygun görülen kısımlarını ihale dokümanları ile işe ait sözleşme hükümlerine uygun olarak yerine getirmek zorundadır.
+(5) Sözleşme konusu işte, gerekmesi halinde iş eksilişi de yapılabilir. Sözleşme bedelinin % 80’inden daha düşük bedelle tamamlanacağı anlaşılan işlerde, yüklenici işi tamamlamak zorundadır. Bu durumda yükleniciye, yapmış olduğu gerçek giderleri ve yüklenici kârına karşılık olarak, sözleşme bedelinin % 80’i ile sözleşme fiyatlarıyla yaptığı işin tutarı arasındaki bedel farkının % 5’i geçici kabul tarihindeki fiyatlar üzerinden ödenir.
+(6) 25 inci madde kapsamında doğrudan teminle yapılan işlerin sözleşmelerinde iş artışı yapılamaz.

@@ -1,0 +1,15 @@
+İhaleye katılamayacak olanlar
+MADDE 42– (1) Aşağıda sayılanlar doğrudan veya dolaylı veya alt yüklenici olarak, kendileri veya başkaları adına hiçbir şekilde ihalelere katılamazlar:
+a) 4734 sayılı Kanun ve diğer kanunlardaki hükümler gereğince geçici veya sürekli olarak kamu ihalelerine katılmaktan yasaklanmış olanlar ile 12/4/1991 tarihli ve 3713 sayılı Terörle Mücadele Kanunu kapsamına giren suçlardan veya örgütlü suçlardan veyahut kendi ülkesinde ya da yabancı bir ülkede kamu görevlilerine rüşvet verme suçundan dolayı hükümlü bulunanlar.
+b) Hakkında hileli iflas ettiğine karar verilenler.
+c) İhaleyi yapan idarenin ihale yetkilisi kişileri ile bu yetkiye sahip kurullarda görevli kişiler.
+ç) İhaleyi yapan idarenin ihale konusu işle ilgili her türlü ihale işlemlerini hazırlamak, yürütmek, sonuçlandırmak ve onaylamakla görevli olanlar.
+d) (c) ve (ç) bentlerinde belirtilen şahısların eşleri ve üçüncü dereceye kadar kan ve ikinci dereceye kadar kayın hısımları ile evlatlıkları ve evlat edinenleri.
+e) (c), (ç) ve (d) bentlerinde belirtilenlerin ortakları ile şirketleri (bu kişilerin yönetim kurullarında görevli bulunmadıkları veya sermayesinin %10 undan fazlasına sahip olmadıkları anonim şirketler hariç).
+f) Terör örgütlerine iltisakı yahut bunlarla irtibatı olduğu Emniyet Genel Müdürlüğü tarafından bildirilen gerçek ve tüzel kişiler ile bu kapsamda olduğu Millî İstihbarat Teşkilatı Müsteşarlığı tarafından bildirilen yurt dışı bağlantılı gerçek ve tüzel kişiler.
+(2) İhale konusu işin danışmanlık hizmetlerini yapan yükleniciler bu işin ihalesine katılamazlar. Aynı şekilde, ihale konusu işin yüklenicileri de o işin danışmanlık hizmeti ihalelerine katılamazlar. Bu yasaklar, bunların ortaklık ve yönetim ilişkisi olan şirketleri ile bu şirketlerin sermayesinin yarısından fazlasına sahip oldukları şirketleri için de geçerlidir.
+(3) İhaleyi yapan idare teşkilatı bünyesinde bulunan her ne amaçla kurulmuş vakıf, dernek, birlik, sandık gibi kuruluşlar ile bu kuruluşların ortak oldukları şirketler bu idarelerin ihalelerine katılamazlar.
+(4) Bu yasaklara rağmen ihaleye katılan istekliler ihale dışı bırakılarak geçici teminatları gelir kaydedilir. Ayrıca, bu durumun tekliflerin değerlendirmesi aşamasında tespit edilememesi nedeniyle bunlardan biri üzerine ihale yapılmışsa, teminatı gelir kaydedilerek ihale iptal edilir.
+(5) Birinci fıkranın (f) bendi kapsamındaki bildirimlere ilişkin usul ve esaslar Cumhurbaşkanınca belirlenir. Söz konusu bent kapsamında olduğu tespit edilen istekliler ihale dışı bırakılır, ancak bunların teminatları hakkında dördüncü fıkrada yer alan hüküm uygulanmaz. Aynı bent kapsamındaki işlemlerin yürütülmesinde görev alan kamu görevlilerinin, yaptıkları iş ve işlemler nedeniyle hukuki, idari, mali ve cezai sorumluluğu doğmaz. Söz konusu bent hükümlerine göre yürütülen faaliyetler çerçevesinde elde edilen bilgi ve kayıtları, hukuka aykırı olarak kullanan, bir başkasına veren, yayan veya ele geçiren kişi, 26/9/2004 tarihli ve 5237 sayılı Türk Ceza Kanunu hükümlerine göre cezalandırılır.
+ONUNCU BÖLÜM
+Teklif Mektupları, Teminatlar, Tekliflerin Alınması, Açılması,

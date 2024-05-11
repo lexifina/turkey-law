@@ -1,0 +1,3 @@
+Ek fiyat farkı
+GEÇİCİ MADDE 3- (Ek:RG-24/6/2022-31876 Mükerrer-C.K-5744/1 md.)
+(1) Bu usul ve esaslar kapsamında Türk Lirası üzerinden yapılan sözleşmelerde; 23/2/2022 tarihli ve 5203 sayılı Cumhurbaşkanı Kararının eki 4735 sayılı Kamu İhale Sözleşmeleri Kanununun Geçici 5 inci maddesinin Uygulanmasına İlişkin Esaslar doğrultusunda ek fiyat farkı hesaplanabilir ve 13/5/2022 tarihli ve 5546 sayılı Cumhurbaşkanı Kararının eki 4735 sayılı Kamu İhale Sözleşmeleri Kanununun Geçici 6 ncı maddesinin Uygulanmasına İlişkin Esaslar doğrultusunda artırımlı fiyat farkı ile ek fiyat farkı hesaplanması, süre uzatımı verilmesi ve sözleşmelerin feshine ilişkin usul ve esaslara göre işlem yapılabilir.

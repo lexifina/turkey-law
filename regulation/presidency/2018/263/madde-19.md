@@ -1,0 +1,4 @@
+İhale komisyonunun kurulması ve çalışma esasları
+MADDE 19– (1) İhale komisyonu ihale yetkilisince biri başkan olmak üzere en az beş asil ve beş yedek üyeden ilan veya davet tarihinden önce oluşturulur. Komisyonda en az iki kişinin ihaleye konu işin uzmanı, bir kişinin mali işlerden sorumlu veya bu işleri yapan idare personeli olması zorunludur.
+(2) İhaleyi yapan idarede yeterli sayı veya nitelikte personel bulunmaması halinde, diğer idarelerden veya kamu kurum ve kuruluşlardan komisyona üye alınabilir.
+(3) İhale komisyonu eksiksiz olarak toplanır ve kararlar çoğunlukla alınır. Komisyon üyeleri, kararlarda çekimser kalamaz. Komisyon başkanı ve üyeleri oy ve kararlarından sorumlu olup; karşı oy kullanan komisyon üyeleri, gerekçelerini komisyon kararına yazmak ve imzalamak zorundadır. İhale komisyonunca alınan kararlar ve düzenlenen tutanaklar, komisyon başkan ve üyelerinin adları ve soyadları, unvanları ve komisyondaki sıfatları belirtilerek imzalanır.
