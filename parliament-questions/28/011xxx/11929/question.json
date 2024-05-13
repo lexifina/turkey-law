@@ -1,0 +1,21 @@
+{
+  "record_type": "parliament-written-question",
+  "term": 28,
+  "legislative_year": 2,
+  "esas_no": "7/11929",
+  "submitted": "2024-05-13",
+  "submitted_as": "Başkanlığa geliş tarihi",
+  "mp": "Elvan IŞIK GEZMİŞ",
+  "province": "Giresun",
+  "summary": "Kahverengi kokarcanın fındık üretimine verdiği zarara ilişkin",
+  "status": "Süresi Geçtikten Sonra Cevaplandı",
+  "status_as_of": "2026-11-16",
+  "official_record": "https://www.tbmm.gov.tr/Denetim/Yazili-Soru-Onergesi-Detay/0ca8f544-2cfd-477c-ba1e-018f76397f8b",
+  "source": "https://tbmm.gov.tr/Denetim/YaziliSoruOnergesiTable",
+  "source_form": "https://tbmm.gov.tr/Denetim/Yazili-Soru-Onergeleri",
+  "source_sha256": "c0b839a1590974faa23c25153e488937542c4cfb758d50943ba9f59e3b241246",
+  "in_force": "2024-05-13",
+  "in_force_basis": "Date the question reached the Speaker (Başkanlığa geliş tarihi) in the official TBMM written-question record; parliamentary oversight record, not law",
+  "history_type": "metadata",
+  "text_status": "metadata-only: question text, addressee and answers are in the linked official record (PDFs on cdn.tbmm.gov.tr); not transcribed here"
+}
