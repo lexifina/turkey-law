@@ -1,0 +1,3 @@
+İş birliğine gelinmemesi
+MADDE 13- (1) Yönetmeliğin 26 ncı maddesi hükmü çerçevesinde, ilgili taraflardan birinin verilen süreler dâhilinde ve istenilen biçimde gerekli bilgi ve belgeleri sağlamaması ya da bu bilgi ve belgelere erişimi reddetmesi veya soruşturmayı engellediğinin anlaşılması veya yanlış ya da yanıltıcı bilgi vermesi hallerinde söz konusu taraf iş birliğine gelmemiş sayılır. Bu gibi hallerde soruşturma kapsamındaki geçici veya nihai belirlemeler, olumlu ya da olumsuz şekilde, mevcut verilere göre yapılabilir.
+(2) İlgili tarafların iş birliğine gelmemesi veya kısmen iş birliğine gelmesi halinde bahse konu taraf için soruşturmanın sonucu iş birliğine gelinmesine nazaran daha az avantajlı olabilir.

@@ -1,0 +1,2 @@
+Amaç ve kapsam
+MADDE 1- (1) Bu Tebliğin amacı, yerli üretici Aschem Petrokimya Sanayi A.Ş. tarafından yapılan ve Dioki Petrokimya Sanayi A.Ş. tarafından desteklenen başvuruya istinaden Çin Halk Cumhuriyeti, Çin Tayvanı, Hindistan Cumhuriyeti, Kore Cumhuriyeti, Rusya Federasyonu ve Tayland Krallığı menşeli 3903.19.00.00.00 ve 3903.90.90.00.00 gümrük tarife istatistik pozisyonları altında sınıflandırılan “Diğerleri” eşya tanımlı polistiren ürününe yönelik bir damping soruşturması açılması ve açılan soruşturmanın usul ve esaslarının belirlenmesidir.
