@@ -1,0 +1,20 @@
+{
+  "applicant": "H.U.Y.",
+  "application_date": "2020-12-02",
+  "application_number": "2020/38559",
+  "deciding_unit": "İkinci Bölüm",
+  "decision_date": "2024-05-15",
+  "id": "e93c1ae4-ca2f-c4fb-d82a-e5f37b720f1e",
+  "in_force": "2024-05-15",
+  "in_force_basis": "official decision date",
+  "kind": "constitutional-court-individual-application",
+  "omitted_images": 0,
+  "outcome": "Kabul Edilemezlik vd.",
+  "published": null,
+  "referenced_images": 0,
+  "source": "https://kararlarbilgibankasi.anayasa.gov.tr/kbb/pages/search/Tumu?id=a2JiOmU5M2MxYWU0LWNhMmYtYzRmYi1kODJhLWU1ZjM3YjcyMGYxZQ&type=BireyselBasvuru",
+  "source_api": "https://kararlarbilgibankasi.anayasa.gov.tr/api/core/public/search",
+  "source_images": 0,
+  "source_sha256": "dc6c3ecb86870f6b8234c7a33cf16836306c9158ced4937fe0fb3134091e4ad2",
+  "version_label": "as-enacted"
+}
