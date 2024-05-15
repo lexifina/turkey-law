@@ -1,0 +1,2 @@
+[1] 15/6/2022 tarihli ve 31867 sayılı Resmi Gazete’de yayımlanan 5732 sayılı Cumhurbaşkanı Kararının 1 inci maddesi ile bu fıkrada yer alan “geçici 4 üncü maddesine” ibaresi “ek 11 inci maddesine” şeklinde değiştirilmiştir.
+[2] 15/6/2022 tarihli ve 31867 sayılı Resmi Gazete’de yayımlanan 5732 sayılı Cumhurbaşkanı Kararının 3 üncü maddesi ile bu fıkrada yer alan “Bakanlar Kurulu” ibaresi “İçişleri Bakanı” şeklinde değiştirilmiştir.
