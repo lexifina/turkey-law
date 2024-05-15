@@ -1,0 +1,16 @@
+{
+  "kind": "decision",
+  "issuer": "Sayıştay Temyiz Kurulu",
+  "number": "56847",
+  "decision_date": "2024-05-15",
+  "source_id": 27283,
+  "chamber": "5",
+  "file_number": "53677",
+  "public_body_type": "Genel Bütçe Kapsamındaki İdareler",
+  "account_year": "2020",
+  "subject": "İhale Mevzuatı ile İlgili Kararlar",
+  "source": "https://www.sayistay.gov.tr/KararlarTemyiz/Detay/27283/",
+  "source_sha256": "d516fb5b3630c1e01dd2fb1a5475ed2d8e5595495384d54cc7585e5e26143e1c",
+  "text_status": "as-enacted",
+  "text_file": "metin.md"
+}
