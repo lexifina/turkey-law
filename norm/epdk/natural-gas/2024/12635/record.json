@@ -1,0 +1,26 @@
+{
+  "kind": "norm",
+  "issuer": "Enerji Piyasası Düzenleme Kurumu",
+  "market": "natural-gas",
+  "document_type": "board-decision",
+  "number": "12635",
+  "decision_date": "2024-05-16",
+  "title": "Aksa Çukurova Doğal Gaz Dağıtım Anonim Şirketi’nin üçüncü tarife uygulama dönemi perakende satış tarifelerine yönelik",
+  "resmi_gazete_date": "2024-06-01",
+  "resmi_gazete_number": "32563",
+  "categories": [
+    "Şirket Bazında Kararlar"
+  ],
+  "source": "https://www.epdk.gov.tr/Detay/DownloadDocument?id=/kCX8iKj/X4=",
+  "documents": [
+    "https://www.epdk.gov.tr/Detay/DownloadDocument?id=/kCX8iKj/X4=",
+    "https://www.epdk.gov.tr/Detay/DownloadDocument?id=0o7wSwGu0nE="
+  ],
+  "source_sha256": "05d8112767525fd9e55eca3ce3fd5bd565d3f7d9be886ddda90534bdf18c4e8a",
+  "official_list": "https://www.epdk.gov.tr/Detay/Icerik/3-0-19/kurul-kararlari",
+  "official_list_leaf": 7236,
+  "text_status": "as-enacted",
+  "text_file": "metin.md",
+  "in_force": "2024-05-16",
+  "law_text_complete": true
+}
