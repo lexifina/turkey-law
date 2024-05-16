@@ -1,0 +1,17 @@
+{
+  "kind": "decision",
+  "issuer": "Sayıştay 7. Dairesi",
+  "number": "606",
+  "decision_date": "2024-05-16",
+  "source_id": 38555,
+  "chamber": "7",
+  "ilam_number": "69",
+  "item_number": 3,
+  "public_body_type": "Belediyeler ve Bağlı İdareler",
+  "account_year": 2022,
+  "subject": "Personel Mevzuatı ile İlgili Kararlar",
+  "source": "https://www.sayistay.gov.tr/KararlarDaire/Detay/38555/",
+  "source_sha256": "68e4923256349650987a052fcc903a580492f665be955876e5054d9049467b21",
+  "text_status": "metadata-only",
+  "metadata_only_reason": "possible personal name in the official text"
+}
