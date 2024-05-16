@@ -1,0 +1,56 @@
+{
+  "source_id": "7.5.39700",
+  "kind": "regulation",
+  "register_kind": "Kurum ve Kuruluş Yönetmelikleri",
+  "title": "TIPTA VE DİŞ HEKİMLİĞİNDE UZMANLIK EĞİTİMİ YÖNETMELİĞİ",
+  "number": "39700",
+  "issuer": "Sağlık Bakanı",
+  "issuer_slug": "saglik-bakani",
+  "path": "regulation/saglik-bakani/2022/39700",
+  "source": "https://www.mevzuat.gov.tr/anasayfa/MevzuatFihristDetayIframe?MevzuatTur=7&MevzuatNo=39700&MevzuatTertip=5",
+  "source_sha256": "dc477d86c1941aec7fa4f860524601e66c39eef044f7290edf59998c69f40656",
+  "source_bytes": 130435,
+  "published": "2022-09-03",
+  "gazette": "31942",
+  "in_force": "2024-05-16",
+  "in_force_basis": "latest Resmî Gazete date printed in the source amendment notes/table (\"RG-16/5/2024\") for the current consolidated text",
+  "date_evidence": [
+    [
+      "2024-05-16",
+      "RG-16/5/2024",
+      "Resmî Gazete date printed in the source amendment note"
+    ],
+    [
+      "2024-05-16",
+      "16/5/2024",
+      "Resmî Gazete date in the source amendment table"
+    ],
+    [
+      "2023-10-07",
+      "RG-7/10/2023",
+      "Resmî Gazete date printed in the source amendment note"
+    ],
+    [
+      "2023-10-07",
+      "7/10/2023",
+      "Resmî Gazete date in the source amendment table"
+    ]
+  ],
+  "commencement_clauses": [
+    "Bu Yönetmelik yayımı tarihinde yürürlüğe girer"
+  ],
+  "history": "current-text",
+  "label": "oldest version available",
+  "checked_on": "2026-11-15",
+  "word_count": 7291,
+  "text_status": "current-consolidated",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  },
+  "source_links": [
+    "7.5.39700%20ek.docx"
+  ],
+  "completeness": "html-text-complete; linked annexes not fetched"
+}

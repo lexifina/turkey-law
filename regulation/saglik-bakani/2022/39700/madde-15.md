@@ -1,0 +1,2 @@
+Bakanlıkça görevlendirme yoluyla uzmanlık eğitimi yaptırılması
+MADDE 15- (1) Bakanlıkça gerek görülen uzmanlık dallarında, 11/10/2011 tarihli ve 663 sayılı Sağlık Alanında Bazı Düzenlemeler Hakkında Kanun Hükmünde Kararnamenin 56 ncı maddesi çerçevesinde kadroları Bakanlık veya bağlı kuruluşlarında kalmak kaydıyla tıpta ve diş hekimliğinde uzmanlık eğitimi mevzuatına göre diğer kamu kurum ve kuruluşlarında bu kurum ve kuruluşlarla mutabakat sağlanarak uzmanlık eğitimine giriş sınavlarında uzmanlık öğrencisi kontenjanı ilan edilip eğitim yaptırılabilir.
