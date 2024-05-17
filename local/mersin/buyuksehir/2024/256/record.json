@@ -1,0 +1,18 @@
+{
+  "issuer": "Mersin Büyükşehir Belediye Meclisi",
+  "number": "256",
+  "decision_date": "2024-05-17",
+  "title": "-MEC.KAR.(TOROSLAR 7. ETAP UİP İTİRAZLAR)",
+  "listed_as": "256-MEC.KAR.(TOROSLAR 7. ETAP UİP İTİRAZLAR)",
+  "subject_note": "subject as the meeting page lists it (the register shortens some long subjects)",
+  "official_document": "https://www.mersin.bel.tr/dokumanlar/256-meckartoroslar-7-etap-uip-itirazlar-1727339771",
+  "source_listing": "https://www.mersin.bel.tr/dokumanlar/17-mayis-2024-meclis-kararlari-886919345",
+  "listing_sha256": "774b9af5ca63b6ab7e78ecafce49245d2b6bf34a8824d5cb7775158cf73415c8",
+  "meeting_title": "17 MAYIS 2024 MECLİS KARARLARI",
+  "history_type": "metadata-only",
+  "capture_mode": "metadata-only",
+  "text_status": "metadata-only; official decision page linked, text not transcribed",
+  "date_basis": "meeting date in the official meeting page title (decision date of the session)",
+  "commencement_established": false,
+  "privacy_withheld": false
+}
