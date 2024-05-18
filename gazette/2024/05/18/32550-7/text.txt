@@ -1,0 +1,454 @@
+18 Mayıs 2024 CUMARTESİ
+Resmî Gazete
+Sayı : 32550
+YÖNETMELİK
+Kamu İhale Kurumundan:
+KAMU ALIMLARININ ELEKTRONİK ORTAMDA YAPILMASINA
+İLİŞKİN UYGULAMA YÖNETMELİĞİ
+BİRİNCİ BÖLÜM
+Başlangıç Hükümleri
+Amaç ve
+kapsam
+MADDE 1- (1) Bu Yönetmeliğin amacı, 4/1/2002 tarihli ve
+4734 sayılı Kamu İhale Kanunu veya istisna kapsamında yapılacak ihale,
+doğrudan temin ve bunlara ilişkin sözleşme süreçlerindeki işlemlerin
+Elektronik Kamu Alımları Platformu üzerinden gerçekleştirilmesine yönelik
+usul ve esasları düzenlemektir.
+Dayanak
+MADDE 2- (1) Bu Yönetmelik, 4/1/2002 tarihli ve 4734 sayılı
+Kamu İhale Kanununun 53 üncü maddesi ile ek 1 inci maddesine dayanılarak
+hazırlanmıştır.
+Tanımlar
+ve kısaltmalar
+MADDE 3- (1) Bu Yönetmeliğin uygulanmasında 4734 sayılı
+Kanunun 4 üncü maddesindeki tanımların yanında;
+a) DTN: Doğrudan temin kayıt numarasını,
+b) E-form: Kamu alımı süreçlerinde kullanılan
+elektronik formları,
+c) E-imza: 15/1/2004 tarihli ve 5070 sayılı
+Elektronik İmza Kanununun 4 üncü maddesinde tanımlanan güvenli elektronik
+imzayı,
+ç) EKAP: Elektronik Kamu Alımları Platformunu,
+d) Entegrasyon: EKAP ile diğer elektronik
+sistemler/ortamlar arasında veri alışverişini sağlayan servisleri,
+e) E-teklif: EKAP üzerinden e-imza ile imzalanarak
+gönderilen elektronik teklifi,
+f) İhaleye katılım belgesi: İstekli olabilecekler
+tarafından, ihalede istenen katılım ve yeterlik kriterlerinin sağlandığını
+göstermek ve varsa fiyat dışı unsurların değerlendirilmesinde kullanılmak
+üzere EKAP’ta hazırlanan belgeyi,
+g) İKN: İhale kayıt numarasını,
+ğ) İSKN: İstisnalara ilişkin ihale kayıt
+numarasını,
+h) İstisna: Kanun kapsamındaki idarelerin, Kanunda
+ya da diğer kanunlar ile Kanundan istisna edilen mal veya hizmet alımları
+ile yapım işlerini,
+ı) Kamu alımı: Kanun veya istisna kapsamında ihale
+ve doğrudan temin yoluyla yapılan alımları,
+i) Kanun: 4/1/2002 tarihli ve 4734 sayılı Kamu
+İhale Kanununu,
+ifade eder.
+İKİNCİ BÖLÜM
+Genel Esaslar
+İlke ve
+kurallar
+MADDE 4- (1) EKAP; Kanunun temel ilkeleri, bilgi güvenliği,
+veri bütünlüğü, erişilebilirlik, kişisel verilerin korunması, entegrasyon
+ve iş birliği ile hizmet kalitesinin sağlanması esasları çerçevesinde Kurum
+tarafından işletilir.
+(2) İdareler ile diğer kurum ve kuruluşlarca EKAP
+üzerinden elde edilen bilgi ve belgeler amacı dışında kullanılamaz ve
+üçüncü kişilerle paylaşılamaz.
+(3) EKAP’ta iş ve işlemlerin gerçekleştirilmesi
+için yapılan yönlendirmelere uyulması zorunludur. Bu zorunluluklara
+uyulmaması halinde EKAP’ta iş ve işlemlerin gerçekleştirilmesi ile ilgili
+kısıtlamalar getirilebilir.
+(4) Kamu alımı süreçlerinde kullanılmak amacıyla
+EKAP’a kaydedilen, yüklenen ya da aktarılan bilgi veya belgelerin geçerli,
+doğru ve eksiksiz olması gerekir. Bu şartları sağlamayan bilgi ve
+belgelerin kullanılmasından dolayı Kuruma herhangi bir sorumluluk
+yüklenemez.
+(5) EKAP hesabına giriş yapılarak gerçekleştirilen
+işlemler kayıt altında tutulur. İhale, doğrudan temin ve sözleşme
+süreçlerinde bu kayıtlar esas alınır. İşlemlerin zamanının tespitinde
+TÜBİTAK Ulusal Metroloji Enstitüsü tarafından geliştirilen atom saati
+kullanılır.
+(6) EKAP üzerinden işlemlerin güvenli ve etkin
+şekilde yapılabilmesine yönelik olarak “kullanıcı adı ve şifresi”,
+“e-imza”, “e-Devlet Kapısı Kimlik Doğrulama Sistemi” ve benzeri
+yöntemlerden biri veya birkaçı Kurum tarafından kimlik doğrulama yöntemi
+olarak belirlenir.
+(7) Teknik sorunlar veya mücbir sebepler nedeniyle
+EKAP üzerinde işlem yapılamaması durumunda, işlemlerin mevzuata uygun
+şekilde sürdürülmesi ve hak kayıplarının önlenmesi amacıyla alternatif
+sistemleri ve uygulamaları devreye almaya, gerekli hallerde ilgili
+işlemleri durdurmaya, ertelemeye, yenilemeye, iptal etmeye, EKAP üzerinden
+yapılamayan işlemlerden hangilerinin fiziki ortamda yapılacağını
+belirlemeye ve diğer tedbirleri almaya Kurum yetkilidir.
+EKAP’a
+kayıt işlemleri
+MADDE 5- (1) İdareler ile EKAP üzerinden yürütülecek kamu
+alımı süreçlerine katılacak gerçek ve tüzel kişilerin EKAP’a kaydolması
+zorunludur.
+(2) Birinci fıkra kapsamı dışında kalan kurum ve
+kuruluşlardan; EKAP’ta ilan veya benzeri işlemleri gerçekleştirmek
+isteyenler ile iş deneyim belgesi düzenlemeye yetkili olanların da kaydı
+zorunludur.
+(3) Kayıt işlemlerinin elektronik ortamda yapılması
+esastır. Kayıt işlemlerine ve kullanıcılara ilişkin usul ve esaslar Kurum
+tarafından belirlenir.
+EKAP
+üzerinden gerçekleştirilecek iş ve işlemler
+MADDE 6- (1) Kanuna tabi ihaleler ile bunlara ilişkin
+sözleşmelere yönelik olarak 14 üncü maddede belirtilen işlemler EKAP
+üzerinden yürütülür.
+(2) Aşağıda belirtilen süreçlere ilişkin işlemler
+de kısmen veya tamamen EKAP üzerinden yürütülebilir:
+a) İstisna kapsamında yapılan ihaleler ile bunlara
+ilişkin sözleşmeler.
+b) Doğrudan teminler ile bunlara ilişkin
+sözleşmeler.
+c) Kanun kapsamı dışında kalan her türlü ihale ile
+bunlara ilişkin sözleşmeler.
+(3) İş deneyim belgeleri, yetkili kurum ve
+kuruluşlar tarafından EKAP üzerinden düzenlenir. Belge düzenlemeye yetkili
+kurum ve kuruluşlara gerçekleştirilen işler hariç, yurt dışında kamu veya
+özel sektöre bedel içeren bir sözleşme kapsamında taahhüt edilen yapım
+işlerine ilişkin iş bitirme belgeleri Kurum tarafından EKAP’a kaydedilir.
+(4) Teminat mektuplarına ilişkin işlemler,
+6/12/2012 tarihli ve 6362 sayılı Sermaye Piyasası Kanununa göre merkezî
+takas kuruluşu olarak faaliyet gösterenler dâhil yetkili kuruluşlar
+aracılığıyla yürütülür.
+(5) Kurum tarafından idarelere, Kurum ve idareler
+tarafından ise aday, istekli, istekli olabilecek, yüklenici ve alt
+yüklenicilere tebligatlar EKAP üzerinden yapılır.
+(6) Aday, istekli, istekli olabilecek, yüklenici ve
+alt yüklenicilerin idareye yapacakları talep ve başvurulardan Kurumca
+belirlenenler EKAP üzerinden gerçekleştirilir.
+(7) Kayıtlı gerçek ve tüzel kişiler tarafından kamu
+alımı süreçlerine ilişkin yapılması gereken iş ve işlemler, EKAP’ta tanımlı
+alanlar üzerinde gerçekleştirilir.
+(8) Kayıtlı gerçek ve tüzel kişiler tarafından,
+EKAP’taki işlemleri gerçekleştirmek üzere e-imza kullanılarak yetkilendirme
+yapılabilir.
+(9) İhalelere yönelik şikâyet ve itirazen şikâyet
+başvuruları EKAP üzerinden yapılır.
+(10) Kamu alımı süreçlerinde, şekli ve içeriği
+Kurum tarafından belirlenerek Kurumun resmi internet sayfasında yayımlanan
+e-formlar kullanılır.
+(11) Kurum tarafından belirlenen diğer iş ve işlemler
+de EKAP üzerinden gerçekleştirilir.
+Tebligatlara
+ilişkin esaslar
+MADDE 7- (1) Tebligat, iş günlerinde ve 09.00-18.00
+saatleri arasında (yarım mesai günlerinde 09.00-13.00) yapılır. Bu süreler
+dışında gönderilen tebligatlar, kaydedildiği tarihi takip eden ilk iş günü
+içinde ilgililerin EKAP’ta yer alan bildirim kutusuna ulaştırılır.
+Tebligatın ilgililerin bildirim kutusuna ulaştığı tarih tebliğ tarihi
+sayılır.
+(2) Kendisine tebligat yapılan ilgilinin EKAP’ta
+kayıtlı e-posta adresine ve/veya mobil telefon numarasına, tebligatın
+yapıldığına dair bilgilendirme mesajı gönderilebilir. Bilgilendirme
+mesajının herhangi bir nedenle ilgiliye geç ulaşması veya ulaşmaması,
+tebligatın zamanını ve geçerliliğini etkilemez.
+ÜÇÜNCÜ BÖLÜM
+Kanuna Tabi İhalelere İlişkin İşlemler
+İhale
+hazırlık işlemleri
+MADDE 8- (1) İhale konusu işin yaklaşık maliyeti, işin
+teknik özellikleri dikkate alınarak; iş kalemleri, birimler, girdiler ve
+benzeri bileşenler bazında EKAP’ta hazırlanır. EKAP aracılığıyla
+erişilemeyen fiyat veya rayiçlere dayanak teşkil eden bilgi ve belgeler
+EKAP’a yüklenir.
+(2) İhale onay belgesi EKAP üzerinden düzenlenir ve
+ihale yetkilisi tarafından e-imza ile imzalanır.
+(3) İhale konusu mal veya hizmet alımı ya da yapım
+işinin niteliği, türü ve miktarı, kısmi teklife izin verilmesi halinde
+kısımları, gerekli hallerde iş kalemleri ve diğer bilgiler EKAP’a girilerek
+ihale kaydı yapılır ve kaydı yapılan her bir ihaleye İKN verilir.
+(4) İhale/ön yeterlik ilanı, düzeltme ilanı ile
+ihale ve/veya ön yeterlik dokümanı EKAP üzerinden hazırlanır. İdari
+şartnamenin hazırlanmasında EK-1’de yer alan Elektronik Ortamda Yapılan
+İhalelerde Uygulanacak Tip İdari Şartname esas alınır. Doküman kapsamında
+EKAP’ta hazırlanamayan belgeler ayrıca yüklenir. Zeyilname ve açıklamalar
+EKAP üzerinden oluşturulur ve zeyilname/açıklama tarihine kadar EKAP
+hesabına giriş yaparak doküman indirenlerin tamamına bildirilir. Zeyilname
+düzenlenmesi halinde, aday veya istekliler başvurularını/tekliflerini geri
+çekerek yeniden teklif verebilir.
+(5) İhale komisyonu, ihale/ön yeterlik ilanı veya
+davet tarihini izleyen en geç üç gün içinde yedek üyelerle birlikte EKAP’ta
+oluşturulur. İhale komisyonu üyelerine, görevli oldukları ihaleyle ilgili
+ihale işlem dosyasına EKAP üzerinden erişim yetkisi verilir.
+İhale
+ve/veya ön yeterlik dokümanının görülmesi ve indirilmesi
+MADDE 9- (1) İhale ve/veya ön yeterlik dokümanı EKAP’ta
+görülebilir. Ancak istekli olabilecek sıfatının kazanılabilmesi için EKAP
+hesabına giriş yapılarak dokümanın indirilmesi zorunludur.
+(2) İlan yapılmayan ihalelerde, ihale dokümanı
+sadece davet edilenler tarafından görülebilir ve indirilebilir.
+(3) Ortak girişimlerde ortaklardan herhangi birinin
+dokümanı indirmiş olması yeterlidir.
+Başvuru
+ve/veya tekliflerin hazırlanması ve gönderilmesi
+MADDE 10- (1) Başvuru veya tekliflerin gönderilmesinde
+e-teklif kullanılır. E-teklifler; başvuru/teklif mektubu ile idari şartname
+düzenlemeleri esas alınarak oluşturulan ihaleye katılım belgesi ve diğer
+ekler kullanılarak hazırlanır ve e-imza ile imzalanarak ihale tarih ve
+saatine kadar gönderilir.
+(2) İhaleye katılım belgesinin hazırlanmasında;
+a) Doğrudan EKAP’ta oluşturulan,
+b) Entegrasyonlar aracılığıyla erişilen,
+c) (a) veya (b) bendi kapsamı dışındakilere ilişkin
+EKAP’a yüklenen,
+bilgi ve belgeler kullanılır. Entegrasyonlardan
+kaynaklanan teknik sorunlar nedeniyle gerekli bilgi ve belgelere
+ulaşılamaması durumunda bunlara ilişkin belgeler de (c) bendi kapsamında
+EKAP’a yüklenir. (c) bendi kapsamında yüklenecek belgelerde, ilgili
+uygulama yönetmeliğinin belgelerin sunuluş şekline ilişkin hükümleri esas
+alınır.
+(3) Aday ve istekliler, ikinci fıkra kapsamındaki
+bilgi ve belgelerin tam, doğru ve güncel olmasını sağlamakla yükümlüdür.
+(4) Ortak girişimlerde, ihaleye katılım belgesi her
+bir ortak tarafından ayrı ayrı hazırlanır ve başvuru/teklif ortakların
+tamamı tarafından imzalanır.
+(5) Kısmi teklife açık ihalelerde, ihaleye katılım
+belgesi kısım bazında belirlenen yeterlik kriterleri dikkate alınarak
+hazırlanır.
+(6) Tekliflerin gönderilebilmesi için ihaleye
+katılım belgesindeki zorunlu alanların doldurulması ve geçici teminat
+tutarının yeterli olması gerekir.
+(7) Başvuru ve teklifler EKAP tarafından güvenli
+şifreleme yöntemleri ile saklanır.
+Başvuru
+ve/veya tekliflerin açılması
+MADDE 11- (1) Teklifler, ihale komisyonu tarafından ihale
+tarih ve saatinde EKAP’ta açılır. Yaklaşık maliyet tutarı ile teklif
+verenler ve teklif fiyatları isteklilerin erişimine açılır. Bu aşamada,
+isteklilerin geçici teminatlarının uygun olup olmadığı, EKAP üzerinden
+yapılan sorgulamalara göre; ihale tarihi itibarıyla ihalelere katılmaktan
+yasaklı olup olmadığı ile kesinleşmiş vergi ya da sosyal güvenlik prim
+borçlarının bulunup bulunmadığı kontrol edilir. Yabancı isteklilerin, kendi
+ülkelerinin mevzuat hükümleri uyarınca ihale tarihi itibarıyla kesinleşmiş
+vergi ya da sosyal güvenlik prim borçlarının bulunup bulunmadığına ilişkin
+kontrol ise sözleşmenin imzalanması aşamasında gerçekleştirilir.
+(2) Birinci fıkra kapsamında yapılan işlemlere
+ilişkin hususlar ile yaklaşık maliyet tutarı, teklif verenler ile teklif
+fiyatları ve varsa açılamayan teklifler tutanağa bağlanır ve bu tutanak
+isteklilere bildirilir.
+(3) Pazarlık usulü ile yapılan ihalelerde son fiyat
+teklifleri, danışmanlık hizmet alımı ihalelerinde ise mali teklifler,
+yaklaşık maliyet ile birlikte isteklilere bildirilir. Fiyat veya fiyat ile
+birlikte fiyat dışı unsurlar üzerinden elektronik eksiltme yapılması
+öngörülen ihalelerde eksiltme tamamlandıktan sonra yaklaşık maliyet tutarı
+ile teklif verenler ve teklif fiyatları isteklilere bildirilir.
+(4) Bu madde kapsamında yer alan hükümler,
+niteliğine uygun düştüğü ölçüde ön yeterlik/yeterlik başvurularının
+açılmasında da uygulanır.
+Başvuru
+ve/veya tekliflerin değerlendirilmesi ile ihalenin karara bağlanması
+MADDE 12- (1) Teklifler açıldıktan sonra 11 inci maddenin
+birinci fıkrasına göre uygun bulunmayan teklifler değerlendirme dışı
+bırakılır. Pazarlık usulüyle yapılan ihalelerde son fiyat tekliflerinin
+alınması işlemi, elektronik eksiltme yapılan ihalelerde ise eksiltme
+işlemleri; teklifi bu aşamada değerlendirme dışı bırakılmayan istekliler
+davet edilerek gerçekleştirilir.
+(2) Birinci fıkraya göre uygun olduğu anlaşılan
+tekliflerden ekonomik açıdan en avantajlı birinci ve ikinci teklif olması
+öngörülenlerin değerlendirilmesine geçilir. Bu değerlendirme, idari
+şartname düzenlemeleri çerçevesinde ihaleye katılım belgesine aktarılan
+bilgi ve belgeler esas alınarak yapılır. Değerlendirme işlemi; aşırı düşük
+teklif açıklaması istenen ihalelerde, teklifi aşırı düşük olan isteklilerin
+tamamı için gerçekleştirilir. Belli istekliler arasında ihale usulüyle
+yapılan ihalelerde tüm başvurular ve/veya teklifler değerlendirilir.
+(3) İkinci fıkraya göre yapılan değerlendirmede,
+ihaleye katılım belgesine aktarılan bilgi ve belgelerden; entegrasyonlar
+aracılığıyla veya EKAP ya da diğer kamu kurum ve kuruluşları ile kamu
+kurumu niteliğindeki meslek kuruluşlarının internet sayfası üzerinden
+erişilebilenlerin teyit işlemi gerçekleştirilir. 10 uncu maddenin ikinci
+fıkrasının (c) bendi kapsamında ihaleye katılım belgesine aktarılan
+belgelerden teyit edilemeyenler bu haliyle değerlendirmeye esas alınır ve
+ihtiyaç duyulması hali hariç bu belgelerin fiziki olarak sunulması
+istenmez.
+(4) Aşırı düşük teklif açıklamaları, ikinci fıkra
+kapsamında yapılan teklif değerlendirmesi sonucunda teklifi geçerli olduğu
+tespit edilen isteklilerden istenir. İstekliler tarafından aşırı düşük
+teklif açıklamaları EKAP üzerinden e-imza ile imzalanmak suretiyle
+gönderilir. Aşırı düşük teklif açıklamalarını EKAP üzerinden sunmayan veya
+sunduğu açıklamaları uygun bulunmayan isteklilerin teklifleri reddedilir.
+Açıklama kapsamında yüklenen belgeler bu haliyle değerlendirmeye esas
+alınır ve ihtiyaç duyulması hali hariç bu belgelerin fiziki olarak
+sunulması istenmez. Fiziki olarak sunulması istenilen belgeleri verilen
+makul süre içinde sunmayan veya belgelerin sunuluş şekline aykırı sunan
+istekliler ile yüklenen belgelerden farklı bir belge sunan isteklilerin
+teklifleri reddedilerek geçici teminatları gelir kaydedilir.
+(5) Numune/demonstrasyon istenen ihalelerde
+numune/demonstrasyon değerlendirmesi ekonomik açıdan en avantajlı birinci
+ve ikinci olması öngörülen teklifler için yapılır. Numune/demonstrasyon
+işlemlerine ilişkin yükümlülüklerini yerine getirmeyen isteklilerin
+teklifleri değerlendirme dışı bırakılarak geçici teminatları gelir
+kaydedilir.
+(6) Değerlendirme işlemlerine, ekonomik açıdan en
+avantajlı teklif ile belirlenecek ise ekonomik açıdan en avantajlı ikinci
+teklif tespit edilinceye kadar devam edilir.
+(7) Tekliflerin değerlendirilmesi sonucunda katılım
+ve yeterlik kriterlerine ilişkin şartları sağlamadığı anlaşılan istekliler
+ile numune/demonstrasyon değerlendirmesi başarısız sonuçlanan isteklilerin
+teklifleri değerlendirme dışı bırakılır ve bu tekliflerin değerlendirme
+dışı bırakılma gerekçeleri kaydedilerek EKAP üzerinden ihale komisyonu
+kararı oluşturulur. İhale komisyonu kararı, komisyon üyeleri tarafından
+e-imza ile imzalanır ve ihale yetkilisinin onayına sunulur. İhale
+yetkilisi, karar tarihini izleyen en geç beş iş günü içinde, e-imza ile
+imzalamak suretiyle ihale kararını onaylar veya gerekçesini belirtmek
+suretiyle iptal eder. İhale kararının ihale yetkilisince onaylanacağı
+tarihte EKAP üzerinden yasaklılık teyidi yapılır.
+(8) Kesinleşen ihale kararı, ihale yetkilisi
+tarafından onaylandığı veya iptal edildiği günü izleyen en geç üç gün
+içinde tüm isteklilere bildirilir.
+(9) Üçüncü fıkra kapsamında fiziki olarak sunulması
+istenen belgeleri verilen makul süre içinde sunmayan veya belgelerin
+sunuluş şekline aykırı sunan istekliler ile yüklenen belgelerden farklı bir
+belge sunan isteklilerin teklifleri değerlendirme dışı bırakılır ve geçici
+teminatları gelir kaydedilir.
+(10) Beşinci fıkra kapsamında numune/demonstrasyon
+işlemlerine ilişkin yükümlülüklerin yerine getirilmemesi ile dokuzuncu
+fıkrada sayılan fiiller, ihale kararını etkileyecek davranış olarak kabul
+edilir ve bu davranışlarda bulunan istekliler hakkında Kanunun 17 nci
+maddesi hükümleri uygulanır.
+(11) Bu madde kapsamında yer alan hükümler,
+niteliğine uygun düştüğü ölçüde ön yeterlik/yeterlik başvurularının
+değerlendirilmesinde de uygulanır.
+Sözleşmenin
+imzalanması ve sonuç ilanı
+MADDE 13- (1) Sözleşmeye davet EKAP üzerinden yapılır.
+(2) Sözleşme imzalanmadan önce sunulması gereken
+belgeler, sözleşmeye davet edilen istekli tarafından davet yazısının tebliğ
+tarihini izleyen on gün içinde EKAP üzerinden e-imza ile imzalanmak
+suretiyle gönderilir. Yabancı istekliler için bu süreye on iki gün ilave
+edilir. Sözleşme imzalanmadan önce sunulması gereken belgelerden EKAP’tan
+veya entegrasyonlar aracılığıyla erişilemeyenler EKAP’a yüklenir.
+Yüklenecek belgelerde, ilgili uygulama yönetmeliğinin belgelerin sunuluş
+şekline ilişkin hükümleri esas alınır.
+(3) Entegrasyonlar aracılığıyla veya EKAP ya da
+diğer kamu kurum ve kuruluşları ile kamu kurumu niteliğindeki meslek
+kuruluşlarının internet sayfası üzerinden teyit edilemeyen belgelerin, idarece ihtiyaç duyulması hali hariç,
+fiziki olarak sunulması istenmez. Fiziki olarak sunulması istenen belgeleri
+sunmayan veya belgelerin sunuluş şekline aykırı sunan ya da yüklenen
+belgelerden farklı bir belge sunan istekli hakkında 12 nci maddenin
+dokuzuncu ve onuncu fıkra hükümleri uygulanır.
+(4) Kesin teminat ve sözleşme imzalanmadan önce
+sunulması gereken diğer bilgi ve/veya belgeler kontrol edilerek sözleşmenin
+imzalanacağı tarihte yasaklılık teyidi yapılır.
+(5) Sözleşme, taraflarca EKAP üzerinden e-imza ile
+imzalanır. Sonuç ilanı EKAP’ta ve Kamu İhale Bülteninde yayımlanır.
+DÖRDÜNCÜ BÖLÜM
+4735 Sayılı Kanuna Tabi Sözleşmelere İlişkin
+İşlemler
+EKAP üzerinden
+gerçekleştirilecek sözleşme işlemleri
+MADDE 14- (1) 5/1/2002 tarihli ve 4735 sayılı Kamu İhale
+Sözleşmeleri Kanununa tabi sözleşmelere ilişkin aşağıdaki işlemler EKAP
+üzerinden gerçekleştirilir:
+a) Yer teslim tutanağının düzenlenmesi/yüklenmesi.
+b) Teknik personel bildirimi ve onayı.
+c) Revize programlar dâhil iş programı başvuruları
+ve bunlara ilişkin onaylar.
+ç) Alt yüklenici onay başvurusu ve onayı ile alt
+yüklenici sözleşmesinin yüklenmesi.
+d) Proje değişikliği, iş artışı ve iş eksilişi
+onayları.
+e) Süre uzatımı başvuru ve onayları.
+f) Mücbir sebep başvuru ve onayları.
+g) Rapor ve teknik doküman onay başvurusu ve onayı.
+ğ) Yeni birim fiyat ve revize birim fiyat
+işlemleri.
+h) Fiyat farkı hesap işlemleri.
+ı) Hakediş başvuruları, hakediş raporlarının düzenlenmesi
+ve onaylanması, ihtirazi kayıt ve kesin hesap işlemleri.
+i) Denetim, ara denetim ve kontrol teşkilatı
+görevlendirmelerine ilişkin onaylar ile cezalar dâhil yapılacak işlemlere
+ilişkin belge ve tutanakların düzenlenmesi.
+j) Kabul başvuruları, muayene ve kabul
+komisyonlarının oluşturulması, muayene ve kabul sürecinde yapılacak
+işlemlere ilişkin belge ve tutanakların düzenlenmesi.
+k) Ek kesin teminatların alınması, kesin ve ek
+kesin teminatların iadesine ilişkin işlemler.
+l) Sigorta poliçelerinin yüklenmesi.
+m) Sözleşme devir başvuruları ve onayları.
+n) Sözleşme fesih ve tasfiye işlemleri.
+o) Kurum tarafından belirlenecek diğer işlemler.
+BEŞİNCİ BÖLÜM
+İstisna Kapsamındaki İhaleler ile Doğrudan Temine
+İlişkin İşlemler
+İstisna
+kapsamındaki ihalelere ilişkin işlemler
+MADDE 15- (1) İstisna kapsamındaki ihalelerin EKAP’a
+kaydedilerek İSKN alınması, ihale üzerinde kalan istekli için yasaklılık
+teyidi yapılması ve ihale sonucuna ilişkin bilgilerin en geç on beş gün
+içinde Kuruma bildirilmesi zorunludur.
+(2) İstisna kapsamında yapılan ihalelerde; onay
+belgesi, yaklaşık maliyet, ilan/davet, ihale dokümanının yüklenmesi, fiyat
+tekliflerinin kaydı, e-teklif, e-eksiltme, teminat, sözleşme işlemleri,
+bildirim ve tebligatlar ile benzeri hususlara ilişkin işlemlerden Kurumca
+belirlenenler EKAP üzerinden yürütülür.
+Doğrudan
+temin işlemleri
+MADDE 16- (1) Doğrudan temin yöntemiyle yapılan alımların
+EKAP’a kaydedilerek DTN alınması ve alım sonucuna ilişkin bilgilerin en geç
+alımın yapıldığı ayı takip eden ayın onuncu gününe kadar Kuruma
+bildirilmesi zorunludur.
+(2) Doğrudan temin yöntemiyle yapılan alımlarda;
+onay belgesi, piyasa fiyat araştırması, ilan/davet, dokümanın (şartname,
+sözleşme taslağı ve benzeri belgeler) yüklenmesi, fiyat tekliflerinin
+kaydı, e-teklif, e-eksiltme, teminat, sözleşme işlemleri, bildirim ve
+tebligatlar ile benzeri hususlara ilişkin işlemlerden Kurumca belirlenenler
+EKAP üzerinden yürütülür.
+ALTINCI BÖLÜM
+Çeşitli ve Son Hükümler
+Yönetmelikte
+hüküm bulunmayan haller
+MADDE 17- (1) Bu Yönetmelikte düzenleme yapılmayan
+hususlarda ilgili uygulama yönetmeliği esas alınır.
+Yürürlükten
+kaldırılan yönetmelik
+MADDE 18- (1) 25/2/2011 tarihli ve 27857 sayılı Resmî
+Gazete’de yayımlanan Elektronik İhale Uygulama Yönetmeliği yürürlükten
+kaldırılmıştır.
+(2) Birinci fıkra ile yürürlükten kaldırılan
+Elektronik İhale Uygulama Yönetmeliğine diğer mevzuatta yapılan atıflar, bu
+Yönetmeliğe yapılmış sayılır.
+Başlamış
+olan ihaleler
+GEÇİCİ
+MADDE 1- (1) Bu Yönetmeliğin
+yürürlüğe girdiği tarihten önce ilanı veya yazılı olarak duyurusu yapılmış
+olan ihaleler, ilanın veya duyurunun yapıldığı tarihte yürürlükte olan
+hükümlere göre sonuçlandırılır.
+Uygulanmaya
+başlama süresi
+GEÇİCİ
+MADDE 2- (1) Bu Yönetmeliğin;
+a) 14 üncü maddesi,
+b) Belli istekliler arasında ihale usulü ve 4734
+sayılı Kanunun 21 inci maddesinin birinci fıkrasının (a), (d) ve (e)
+bentleri gereğince pazarlık usulü ile gerçekleştirilen ihalelerde;
+e-tekliflerin hazırlanması, gönderilmesi, açılması, değerlendirilmesi ile
+ihalenin karara bağlanması ve sözleşmenin imzalanmasına ilişkin hükümleri,
+gerekli teknik altyapının tamamlanması üzerine
+Kurum tarafından belirlenerek resmî internet sayfasında duyurulacak tarihe
+kadar uygulanmaz.
+(2) Kurum, 14 üncü maddenin birinci fıkrasında
+sayılan bentlerin uygulanmaya başlanacağı tarihleri ayrı ayrı belirlemeye
+yetkilidir. Söz konusu bentlerin uygulanmaya başlanacağı tarihe kadar
+idareler tarafından; ilk sözleşme bedeli, ek sözleşme bedeli, toplam
+sözleşme bedeli, iş bitim tarihi, kabul tarihi, hesaplanan fiyat farkı
+tutarları, hakediş ödemelerine esas sözleşme fiyatları ile yapılan
+iş/hizmet tutarları, mal alımlarında sözleşme fiyatları ile ödenen tutarlar,
+sözleşme devredilmişse devir bilgileri ile feshedilmiş ise fesih
+bilgilerinin EKAP’a kaydedilmeye devam edilmesi zorunludur.
+Yürürlük
+MADDE 19- (1) Bu Yönetmelik 15/1/2025 tarihinde yürürlüğe
+girer.
+Yürütme
+MADDE 20- (1) Bu Yönetmelik hükümlerini Kamu İhale Kurumu
+Başkanı yürütür.
+Ekleri için tıklayınız.
