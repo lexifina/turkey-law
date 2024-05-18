@@ -1,0 +1,7 @@
+İlkeler
+Madde 5- (Değişik birinci fıkra:RG-22/06/2005-25853) Satın alınan mal yüklenici tarafından idareye teslim edilmedikçe muayene ve kabul işlemleri yapılamaz. Ancak, yurtdışından tedarik edilecek olan FOB/FCA vb. teslim esaslı mallar için ihale dokümanında belirtilmek kaydıyla yurtdışında muayene yapılabileceği gibi üretim aşamasında yapılan fabrika test raporlarına istinaden idareye teslim edildikten sonra da idarece muayene ve kabul işlemleri yapılabilir."
+(Değişik ikinci fıkra:RG-22/06/2005-25853) İhale dokümanında ve sözleşmesinde hüküm bulunması halinde; imalat veya üretim süreci gerektiren işler, muayene ve kabul komisyonlarının yetki ve sorumluluğunu kaldırmaması şartıyla, ihale dokümanında belirtilen kalite ve özelliklere göre yapılıp yapılmadığı hususunda, ilgili idare tarafından belirli aşamalarda ve aralıklarla ara denetime tabi tutulabilir."
+İhale dokümanında belirtilmesi koşuluyla kısmî kabul yapılabilir.
+İdareler, muayene ve kabul işlemleri ile ara denetimlerde raporların düzenlenmesi sırasında, yüklenici yada vekilinin usulüne uygun olarak bildirim yapıldığı halde hazır bulunmaması veya hazır bulunmalarına rağmen imzadan imtina etmeleri halinde bu durumu tutanak altına alırlar.
+Bu Yönetmelik hükümlerinin uygulanmasında alınacak danışmanlık hizmetleri, yüklenici ile mali ve/veya hukuki ilişkisi bulunan hizmet sunucularından sağlanamaz.
+(Ek son fıkra:RG-22/06/2005-25853) Zorunlu haller dışında ihaleyi yapan idare ile hiç bir bağı olmayan laboratuar hakem laboratuar olarak belirlenecektir.

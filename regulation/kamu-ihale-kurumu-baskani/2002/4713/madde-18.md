@@ -1,0 +1,3 @@
+Hakem laboratuvar muayenesi
+Madde 18- (Değişik birinci fıkra:RG-22/06/2005-25853) Laboratuvar muayenesi sonucunda reddedilen mal veya yapılan iş yüklenicinin itirazı halinde veya muayenenin idarenin kendi laboratuvarı dışında her hangi bir laboratuvarda yapılması durumunda ise şartnameye uygunluk raporu düzenlenen mallar için idarenin gerekli görmesi halinde yeniden muayenesi yapılmak üzere, varsa o maldan daha önce alınıp idarede saklanmakta olan numuneler üzerinden ihale dokümanında belirtilen hakem laboratuvarda incelettirilir. Hakem laboratuvarın vereceği rapor kesindir.
+İtiraz muayenesi yalnız ilk muayeneden olumsuz çıkan ve itiraz edilen noktalar üzerinde ve ilk komisyonca tutulan numune, numune yoksa mal üzerinden yapılır.

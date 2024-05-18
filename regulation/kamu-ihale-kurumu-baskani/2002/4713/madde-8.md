@@ -1,0 +1,11 @@
+İKİNCİ BÖLÜM
+Muayene Esas ve Usulleri
+İmalat veya üretim sürecinde ara denetim
+Madde 8- (Değişik:RG-22/06/2005-25853)
+İhale dokümanı ve sözleşmesinde hüküm bulunması halinde, imalat veya üretim süreci gerektiren alımlar için geri dönüşü olmayan hataların ortaya çıkmasını önlemek, teslim süresinde gecikmelere yol açmamak ve hataların zamanında giderilmesini sağlamak amacıyla imalat veya üretim tamamlandıktan sonra kontrol imkanı olmayan hususlarda malın ihale dokümanında belirtilen kalite ve özelliklere uygun olarak üretilip üretilmediğinin tespiti için ilgili idare tarafından imalat veya üretim sürecinde belirli aşamalarda ve aralıklarla denetleme yapılabilir. Ancak son muayenede kontrol imkanı bulunan hususlar için imalat veya üretim sürecinde ara denetim yapılmayabilir.
+Malın niteliğinin imalat veya üretim aşamasında denetim veya muayene gerektirmesi halinde bu mallar idarenin görevlendirdiği ve bütün masrafları idarece karşılanacak işin uzmanı kişi yada kişiler vasıtası ile üretimin yapıldığı yerde incelenebilir. İhale dokümanında yer alması koşulu ile denetim için görevlendirilenler üretici firmalara önceden haber vermeksizin üretim sırasında kontrol yapabilir.
+Üretim sırasında tespit edilen olumlu veya olumsuz hususlar rapor halinde düzenlenir ve denetim görevlisi ile ilgili firma yetkilisi tarafından imzalanır. Firma yetkilisinin imzadan imtina etmesi halinde bu husus raporda belirtilir.
+İncelemede üretim şekli ve kalitesinin, malların ihale dokümanında yer alan hükümlere aykırı olarak imali sonucunu doğuracağının tespit edilmesi halinde, bu durum bir raporla tespit edilerek yükleniciye bildirilir. Üretim şeklinin idarenin uyarılarına rağmen değiştirilmemesi ve kalitenin arttırılmaması halinde idare, malın teslim aşamasında test ve muayeneye dahi tabi tutmaksızın reddetme hakkına sahiptir.
+Bu şekilde yapılan ara denetimler muayene ve kabul komisyonlarının yetki ve sorumluluğunu kaldırmaz. Bu denetimler sonucu oluşturulan raporlar muayene ve kabul aşamasında değerlendirilmek üzere idareye sunulur.
+Yüklenici, idare tarafından yapılan ara denetimler ve denetim sonucunda hazırlanan raporları öne sürerek ihale dokümanlarında belirtilen teknik ve idari sorumluluklardan kurtulamaz.
+Denetimin idarenin personeli tarafından yapılması esastır. Ancak işin özelliğinin gerektirdiği durumlarda idareler bu konuda hizmet satın alabilir.
