@@ -1,0 +1,17 @@
+{
+  "kind": "decision",
+  "issuer": "Sayıştay 5. Dairesi",
+  "number": "644",
+  "decision_date": "2024-05-21",
+  "source_id": 38718,
+  "chamber": "5",
+  "ilam_number": "227",
+  "item_number": 1,
+  "public_body_type": "Yüksek Öğretim Kurumları",
+  "account_year": 2019,
+  "subject": "Çeşitli Konuları İlgilendiren Kararlar",
+  "source": "https://www.sayistay.gov.tr/KararlarDaire/Detay/38718/",
+  "source_sha256": "91aba7a02c4deae0609ebfe1372a06306f2de9d445a6e7b06076deb9fad4df47",
+  "text_status": "as-enacted",
+  "text_file": "metin.md"
+}
