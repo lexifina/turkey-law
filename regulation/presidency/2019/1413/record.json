@@ -1,0 +1,26 @@
+{
+  "id": "presidency-regulation-1413",
+  "number": "1413",
+  "kind": "regulation",
+  "issuer": "presidency",
+  "title": "DİN ŞÛRASI YÖNETMELİĞİ",
+  "published": "2019-08-10",
+  "enacted": "2019-08-09",
+  "gazette_number": "30858",
+  "in_force": "2024-05-21",
+  "in_force_basis": "Source commencement table, \"Yürürlüğe Giriş Tarihi\": 21/5/2024; source row: 20/5/2024 | 8500 | 4, 9 | 21/5/2024",
+  "history": "current-only",
+  "version_label": "oldest version available",
+  "first_law": null,
+  "source": "https://www.mevzuat.gov.tr/anasayfa/MevzuatFihristDetayIframe?MevzuatNo=1413&MevzuatTur=21&MevzuatTertip=5",
+  "source_sha256": "03d0e75d390448faea6999c47f403d9cd0d9adead5a680a53545f7bbec575508",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  },
+  "missing_components": [],
+  "text_layout": "article-files",
+  "source_links": [],
+  "completeness": "html-text-complete"
+}
