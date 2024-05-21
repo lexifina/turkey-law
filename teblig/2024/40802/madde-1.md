@@ -1,0 +1,6 @@
+Tecil faizi
+MADDE 1- 6183 sayılı Amme Alacaklarının Tahsil Usulü Hakkında Kanunun 48 inci maddesinin Bakanlığımıza verdiği yetki kapsamında, yıllık %36 olarak uygulanmakta olan tecil faizi oranı bu Tebliğin yayımı tarihinden itibaren yıllık %48 olarak belirlenmiştir.
+6183 sayılı Kanunun 48 inci maddesine istinaden bu Tebliğin yayımı tarihinden itibaren yapılacak müracaatlara dayanılarak tecil edilen amme alacaklarına yıllık %48 oranında tecil faizi uygulanacaktır.
+Bu Tebliğin yayımı tarihinden önce yapılan müracaatlara dayanılarak tecil edilecek olan amme alacakları ile bu Tebliğin yayımı tarihinden önce tecil edilmiş ve tecil şartlarına uygun olarak ödenmekte olan amme alacaklarına tecil şartlarına uygun olarak ödendikleri sürece müracaat tarihlerinden itibaren eski tecil faizi oranının uygulanması gerekmektedir.
+Öte yandan, bu Tebliğin yayımı tarihinden önce tecil talebinde bulunulmuş ve talep kabul edilerek tecil edilmiş amme alacaklarına yönelik tecilin ihlal edilmiş olması ancak, yeni talepler üzerine yeniden tecil yapılması (tecilin geçerli sayılması) halinde, bu Tebliğin yayımlandığı tarihe kadar eski tecil faizi oranı, bu tarihten sonra ödenmesi gereken taksit tutarlarına ise %48 tecil faizi oranı uygulanacaktır.
+Tecil faizi, Seri:A Sıra No:1 Tahsilat Genel Tebliğinde yer alan esaslar doğrultusunda hesaplanacaktır.
