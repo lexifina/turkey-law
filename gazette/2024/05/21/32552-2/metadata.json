@@ -1,0 +1,20 @@
+{
+  "record_type": "gazette-item",
+  "gazette": "Resmî Gazete",
+  "jurisdiction": "TR",
+  "date": "2024-05-21",
+  "issue": "32552",
+  "edition": "regular",
+  "item": 2,
+  "section": "YÜRÜTME VE İDARE BÖLÜMÜ",
+  "heading": "YÖNETMELİKLER",
+  "title": "Gençlik ve Spor Bakanlığı Taşınmaz İdaresi Yönetmeliği",
+  "official_link": "https://www.resmigazete.gov.tr/eskiler/2024/05/20240521-2.htm",
+  "link_format": "htm",
+  "index_url": "https://www.resmigazete.gov.tr/eskiler/2024/05/20240521.htm",
+  "index_sha256": "34218de0dde0c7282a862c6d5beef6d84febf4cb17c2f4491eacc3ee6d3ee762",
+  "index_header": "21 Mayıs 2024 ... 32552 Sayılı Resmî Gazete",
+  "issue_pdf": "https://www.resmigazete.gov.tr/eskiler/2024/05/20240521.pdf",
+  "in_force_basis": "Resmî Gazete publication date; not a commencement reading.",
+  "text_status": "metadata-only; text not yet fetched (follow-up pass adds it as its own commit)"
+}
