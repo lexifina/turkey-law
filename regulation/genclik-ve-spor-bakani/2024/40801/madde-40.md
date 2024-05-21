@@ -1,0 +1,3 @@
+Kararda belirtilmesi gereken hususlar
+MADDE 40- (1) İhale komisyonunca alınan karar, komisyon başkan ve üyelerinin adları, soyadları ve esas görevleri belirtilerek imzalanır.
+(2) Kararda; isteklilerin isimleri, adresleri, teklif ettikleri bedeller, ihalenin hangi tarihte ve hangi istekli üzerine hangi gerekçelerle yapıldığı, ihale yapılmamış ise nedenleri belirtilir.

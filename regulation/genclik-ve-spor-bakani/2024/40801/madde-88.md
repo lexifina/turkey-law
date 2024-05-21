@@ -1,0 +1,2 @@
+Görevlilerin sorumluluğu
+MADDE 88- (1) Bu Yönetmelikte belirtilen komisyon başkan ve üyeleri ile diğer ilgililerin görevlerini kanunî gereklere göre tarafsızlıkla yapmadıkları veya taraflardan birinin zararına yol açacak ihmal veya kusurlu hareketlerde bulunduklarının tespiti halinde, haklarında disiplin cezası uygulanacağı gibi fiil ve davranışlarının özelliğine göre ceza kovuşturması da yapılır. Ayrıca, tarafların bu yüzden uğradıkları zarar ve ziyan da kendilerine ödettirilir.

@@ -1,0 +1,3 @@
+Kira sözleşmesinin sona ermesi ve feshi
+MADDE 76- (1) Kira sözleşmesi, sürenin bitimiyle herhangi bir bildirime gerek olmaksızın sona erer.
+(2) Bakanlık veya il müdürlüğü tarafından yapılacak denetimlerde veya sair durumlarda kiracının sözleşmede yer alan yükümlülükleri ile taahhütlerine aykırı davranışlarının tespiti halinde, aykırılığın ve aksaklığın giderilmesi için kiracıya yazılı olarak en az otuz günlük süre verilir. Bu süre içerisinde aykırılığın ve aksaklıkların giderilmemesi durumunda, ayrıca protesto çekmeye ve hüküm almaya gerek kalmaksızın sözleşme idarece tek taraflı feshedilir ve kesin teminatı gelir kaydedilir.
