@@ -1,0 +1,16 @@
+{
+  "kind": "decision",
+  "issuer": "Sayıştay Temyiz Kurulu",
+  "number": "56855",
+  "decision_date": "2024-05-22",
+  "source_id": 28879,
+  "chamber": "4",
+  "file_number": "49489",
+  "public_body_type": "Genel Bütçe Kapsamındaki İdareler",
+  "account_year": "2015",
+  "subject": "İhale Mevzuatı ile İlgili Kararlar",
+  "source": "https://www.sayistay.gov.tr/KararlarTemyiz/Detay/28879/",
+  "source_sha256": "df65df732e9a30eccc9ee6071565193f89e56ec6c8e1c4d47b736638b304ebc9",
+  "text_status": "as-enacted",
+  "text_file": "metin.md"
+}
