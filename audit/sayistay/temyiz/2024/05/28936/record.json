@@ -1,0 +1,16 @@
+{
+  "kind": "decision",
+  "issuer": "Sayıştay Temyiz Kurulu",
+  "number": "56905",
+  "decision_date": "2024-05-22",
+  "source_id": 28936,
+  "chamber": "7",
+  "file_number": "50787",
+  "public_body_type": "Diğer Özel Bütçeli İdareler",
+  "account_year": "2013",
+  "subject": "İhale Mevzuatı ile İlgili Kararlar",
+  "source": "https://www.sayistay.gov.tr/KararlarTemyiz/Detay/28936/",
+  "source_sha256": "673e94af571f052af8f6c99a64e69426f00b7bbcba01e505a4e6aca1fafee83b",
+  "text_status": "metadata-only",
+  "metadata_only_reason": "possible personal name in the official text"
+}
