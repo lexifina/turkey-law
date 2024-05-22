@@ -1,0 +1,16 @@
+{
+  "kind": "decision",
+  "issuer": "Sayıştay Temyiz Kurulu",
+  "number": "56867",
+  "decision_date": "2024-05-22",
+  "source_id": 28891,
+  "chamber": "5",
+  "file_number": "53839",
+  "public_body_type": "Diğer Özel Bütçeli İdareler",
+  "account_year": "2010",
+  "subject": "İhale Mevzuatı ile İlgili Kararlar",
+  "source": "https://www.sayistay.gov.tr/KararlarTemyiz/Detay/28891/",
+  "source_sha256": "2f087f891c9ba5752d89d1fd1cfc97b9552163028a17a0532136bf7ce1405328",
+  "text_status": "metadata-only",
+  "metadata_only_reason": "possible personal name in the official text"
+}
