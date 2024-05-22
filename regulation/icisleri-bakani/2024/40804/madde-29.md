@@ -1,0 +1,6 @@
+Dersler ve ders alma
+MADDE 29- (1) Dersler; zorunlu, ortak zorunlu ve seçmeli derslerden oluşur.
+(2) Zorunlu dersler, öğrencinin kaydolduğu programda almakla yükümlü olduğu derslerdir. Ortak zorunlu dersler ise 4/11/1981 tarihli ve 2547 sayılı Yükseköğretim Kanununun 5 inci maddesinin birinci fıkrasının (ı) bendinde yer alan Atatürk İlkeleri ve İnkılâp Tarihi, Türk Dili ile Yabancı Dil dersleridir. Seçmeli dersler, öğrencinin kayıt yaptırdığı programda yer alan, öğrencinin seçimine bağlı derslerdir. Fakültede okutulacak zorunlu dersler, mesleki ihtiyaç ve gelişmelere göre Fakülte Öğretim Kurulunun kararı ve Başkanın onayı ile belirlenir.
+(3) Her eğitim-öğretim yılına ait dönemlerin başında öğrencilere, mesleki veya kültürel konularda gelişmelerini sağlamak amacıyla Dekanlıkça seçimlik dersler planlanabilir. Bu derslerin öğrenciler tarafından seçimi, not değerlendirmeleri ve diğer hususlar Başkanlıkça çıkarılan Yönerge ile belirlenir.
+(4) Fakültede okutulan dersler, Erasmus+ Programı veya benzeri uluslararası eğitim-öğretim programları veya ikili anlaşmalar gereği İngilizce de verilebilir.
+(5) Bir öğrencinin her yarıyılda alabileceği ders yükü, kayıtlı olduğu yarıyılın öğretim programında yer alan derslerdir.

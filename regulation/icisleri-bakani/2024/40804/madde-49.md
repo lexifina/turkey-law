@@ -1,0 +1,16 @@
+ALTINCI BÖLÜM
+Çeşitli ve Son Hükümler
+Fakülteden çıkma ve çıkarılma
+MADDE 49- (1) Öğrenciler, eğitim-öğretimin herhangi bir aşamasında, tazminat ödemek şartıyla, yazılı başvuruları ile Fakülteden ayrılabilirler. Ayrılan öğrencilerin geri dönme istekleri kabul edilmez ve dosyaları Başkanın onayı ile işlemden kaldırılır.
+(2) İlgili mevzuat hükümleri saklı kalmak kaydıyla öğrencilerden;
+a) Öğrenimlerini bu Yönetmelikte belirlenen azami süre içerisinde tamamlayamayanların,
+b) Sağlık kurullarınca verilecek raporlara dayalı olarak Fakültede öğrenime devam imkânı kalmadığı Genel Müdürlük Sosyal Hizmetler ve Sağlık Daire Başkanlığınca belirlenmiş olanların,
+c) 657 sayılı Kanuna göre memur olma niteliğini kaybedenlerin,
+ç) Fakülteye giriş ile ilgili nitelikleri taşımadıkları öğrenimleri sırasında anlaşılanların,
+Fakülte Yönetim Kurulu kararı, Dekanın teklifi ve Başkanın onayı ile Fakülteden ilişikleri kesilir.
+(3) Disiplinsizliği nedeniyle ilişiği kesilen veya eğitim kurumundan çıkarma cezasını gerektiren tutum ve davranışı nedeniyle hakkında disiplin soruşturması devam edenler hariç olmak üzere, birinci ve ikinci sınıfı başarı ile tamamladıktan sonra öğrenimlerini süresi içerisinde tamamlayamayan veya tamamlayamayacağı anlaşılan öğrenciler ile PMYO Müdürlüklerinden dikey geçiş yaparak Fakülteye kaydolup hazırlık sınıfını başarı ile tamamlayamayanlar veya hazırlık sınıfı hariç toplam üç yıl veya altı yarıyıl içerisinde lisans eğitimini tamamlayamayan veya tamamlayamayacağı anlaşılan öğrenciler, eğitim sonu sınavına alınırlar. Bu sınavda başarılı olmaları halinde polis memuru unvanıyla Emniyet Teşkilatı kadrolarına atanırlar. Devam eden disiplin soruşturması sonucunda eğitim kurumundan çıkarma cezası verilmeyen öğrenciler de aynı şekilde eğitim sonu sınavına alınırlar. Başarılı olmaları halinde polis memuru unvanıyla Emniyet Teşkilatı kadrolarına atanırlar.
+(4) Fakültenin ilk dört yarıyılını başarıyla bitirmiş olanlardan 4652 sayılı Kanunun 16 ncı maddesinin birinci fıkrasının (c), (d), (e) ve (f) bentleri gereği kaydı silinenlere talepleri halinde Başkan ve Dekan tarafından imzalanan Polis Akademisi Ön Lisans Diploması verilir.
+(5) Emniyet Teşkilatı Sağlık Şartları Yönetmeliği hükümleri hariç, Fakülteden çıkan veya çıkarılan diğer öğrenciler bir daha Fakülteye alınmazlar. Fakülteden çıkma hallerinde bu durum, çıkma talebinde bulunan kişilere yazılı olarak hatırlatılır. Dekanlıkça kendilerine yazılı olarak tebliğ edildiği andan itibaren öğrenciler Fakülteden çıkmış sayılır. Bu öğrencilerin dosyaları Başkanın onayı ile işlemden kaldırılır.
+(6) Fakültedeki eğitim-öğretim süresi içinde, Polis Akademisi Öğrenci Disiplin Yönetmeliğinde belirtilen suçlardan dolayı aldığı cezalar nedeniyle disiplin notu altmış puanın altına inen öğrenciler hakkında verilen eğitim kurumundan çıkarılma kararı ve öğrencilerin işlemiş oldukları disiplinsizlik fiilleri nedeniyle Fakülte Öğrenci Disiplin Kurulu tarafından verilen eğitim kurumundan çıkarma cezası kararları Başkanın önerisi, Genel Müdürün onayı ile kesinleşir.
+(7) Fakülteden çıkan veya çıkarılan öğrencilerin eğitim kurumundan ilişiklerinin kesilmesi, disiplin soruşturması açılmasına engel değildir.
+(8) Fakülte öğrencilerinden herhangi bir nedenle vefat edenlerin dosyaları Başkanın onayı ile işlemden kaldırılır.

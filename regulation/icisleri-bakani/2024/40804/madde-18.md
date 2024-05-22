@@ -1,0 +1,4 @@
+İntibak eğitimi
+MADDE 18- (1) Fakülteye geçici kaydı yapılan Türkiye Cumhuriyeti vatandaşı ve yabancı uyruklu adaylar en çok bir ay süre ile intibak eğitimine tabi tutulurlar. İntibak eğitimi başlangıcından itibaren adayların güvenlik soruşturmaları ve arşiv araştırmaları yaptırılır ve sağlık kurulu raporu aldırılır. Bu raporlar Genel Müdürlük Sosyal Hizmetler ve Sağlık Daire Başkanlığınca Emniyet Teşkilatı Sağlık Şartları Yönetmeliği hükümlerine göre değerlendirilir.
+(2) Sağlık kurulu raporu işlemleri ile güvenlik soruşturması ve araştırması işlemleri geçici kayıt tarihinden itibaren altmış gün içerisinde tamamlanmayan adayların planlamaları bir sonraki eğitim-öğretim yılına yapılır.
+(3) Geçici kayıt süresince disiplin mevzuatına aykırı hareket eden adayların idari soruşturmaları Polis Akademisi Öğrenci Disiplin Yönetmeliği hükümlerine göre yapılır.

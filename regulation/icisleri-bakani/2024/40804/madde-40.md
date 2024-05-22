@@ -1,0 +1,5 @@
+Erasmus+ öğrencisi
+MADDE 40- (1) Öğrencilere Erasmus+ Programı veya benzeri uluslararası eğitim-öğretim programlarından yararlanabilmeleri veya araştırma yapmaları ve tez hazırlamaları için Başkanlıkça yurt içi ve yurt dışı gerekli izinler verilir.
+(2) Erasmus+ programı kapsamında yurt dışına gidecek öğrencilerin seçilmesi, yurt dışında alacakları dersler, bu derslerin Fakültede sayılması, notlarının hesaplanması, özlük hakları ve diğer konular Erasmus+ Üniversite Beyannamesi, Değişim Sözleşmesi ve Uygulama El Kitabında bulunan hükümlere göre Başkanlıkça çıkarılan Yönerge ile belirlenen esaslara göre düzenlenir.
+(3) Fakülteye gelen Erasmus+ öğrencilerinin veya Akademinin katıldığı benzer uluslararası eğitim-öğretim programları veya yapılan ikili anlaşmalar gereği Fakülteye gelen öğrencilerin iaşe ve ibateleri Başkanlıkça sağlanır.
+(4) Erasmus+ öğrencilerine veya benzeri uluslararası eğitim-öğretim programları veya ikili anlaşmalar gereği Fakülteye gelen öğrencilere Dekanlıkça dersler planlanabilir veya bu öğrenciler ihtiyaç duydukları kredilere karşılık gelen dersleri her sınıftan alabilirler.

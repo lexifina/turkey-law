@@ -1,0 +1,5 @@
+Sınav sonuç listesinin belirlenmesi ve ilanı
+MADDE 16- (1) Adayların başarı sıralamasına esas Fakülte giriş puanı; yazılı sınav puanının %25’i, fiziki yeterlilik sınavı puanının %25’i ve mülakat sınavı puanının %50’sinin toplamıdır. Başarı sıralaması puanında eşitlik olması halinde sırasıyla; yazılı sınav puanı, mülakat puanı, fiziki yeterlilik puanının yüksekliği esas alınır. Bunlarda da eşitlik olması halinde yaşı küçük olan aday tercih edilir.
+(2) Başarı sıralamasına esas giriş puanına göre erkek ve kadın adaylar için asıl, yedek ve başarısız olmak üzere ayrı ayrı sınav sonuç listesi düzenlenir. Asıl adayların %30’una tekabül eden sayıda yedek aday listesi, en yüksek puandan başlanarak belirlenir.
+(3) Adayların sınav sonuçları, sınav ile ilgili işlemler tamamlandıktan sonra Başkanlığın resmî internet sitesinde ilan edilir.
+(4) Sınav evrakı herhangi bir itiraz olmadığı sürece Dekanlıkça bir yıl süreyle, dava konusu olmuşsa kararın kesinleşme tarihine kadar ilgili birimde saklanır ve bu sürenin bitiminde tutanakla imha edilir.

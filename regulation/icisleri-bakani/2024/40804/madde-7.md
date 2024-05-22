@@ -1,0 +1,8 @@
+Duyuru, başvuru zamanı ve şekli, adayların çağrılması
+MADDE 7- (1) Fakülteye giriş sınavına ilişkin duyurular, Resmî Gazete ile Cumhurbaşkanınca belirlenen kurumun internet sitesinde ve Başkanlığın resmî internet sitesinde ilan edilir. Başvuruların hangi tarihler arasında ve nereye yapılacağı ile başvuru tarihlerinin değiştirilmesi veya süresinin uzatılmasına ilişkin hususlar Başkanlıkça belirlenir.
+(2) Yabancı uyruklu öğrenci alımına ilişkin duyurular, Başkanlık tarafından ilgili ülke makamlarına gönderilen davetiye yazısı ile duyurulur.
+(3) Adayların ön başvuruları, elektronik ortam üzerinden alınır. Giriş sınavına başvurular her yıl için, Başkanlık tarafından belirlenen yerde ve ilan edilen tarihler arasında şahsen yapılır.
+(4) Fakülte için sıralamaya esas yazılı sınav taban puanı ve puan türü Bakanlık onayıyla belirlenir. Ön başvurusu alınan erkek ve kadın adaylar ayrı ayrı olmak üzere yazılı sınav puanı en yüksek puandan en düşük puana doğru sıralanır ve o eğitim-öğretim yılı için alınacak erkek ve kadın öğrenci kontenjanının on katına kadar aday şahsen müracaatta bulunmak üzere çağrılır.
+(5) Eksik bilgi ve belgeyle veya posta yoluyla yapılan başvurular ile başvuru zamanı geçtikten sonra yapılan müracaatlar kabul edilmez.
+(6) Şahsen müracaatlar, müracaat kabul komisyonunca değerlendirilir ve aranılan şartları taşıdığı tespit edilenlerin müracaatları kabul edilir.
+(7) Başvuruda bulunan adaylardan Başkanlıkça belirlenen miktarda sınav ücreti alınır. Ücretler, Başkanlık Döner Sermaye İşletmesi Müdürlüğü hesabına yatırılır. Şehit veya vazife malulü eş veya çocuklarından sınav ücreti alınmaz.

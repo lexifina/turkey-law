@@ -1,0 +1,3 @@
+Öğrencilere araştırma-inceleme yaptırılması
+MADDE 41- (1) Fakülte öğrencileri Dekanlıkça uygun görülen konularda inceleme/araştırma yapar ve tez hazırlarlar. Genel Müdürlük ilgili birim yöneticileri araştırmaları sırasında öğrencilere ilgili mevzuat hükümleri kapsamında gizliliği gereken bilgi ve belgeler hariç her türlü kolaylığı göstermek zorundadır.
+(2) Bitirme tezi, kredili ders olarak yüz tam puan üzerinden geçme notu en az altmış olacak şekilde notla değerlendirilir. Bitirme tezinin kredi değeri Fakülte Öğretim Kurulunca belirlenir. Tez danışmanınca geçer not verilmeyen tezdeki yetersizlikler danışman tarafından verilen sürede giderilip geçer notla değerlendirilinceye kadar mezuniyet işlemleri ertelenir.

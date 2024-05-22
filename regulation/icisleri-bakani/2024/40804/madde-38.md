@@ -1,0 +1,9 @@
+Devam mecburiyeti
+MADDE 38- (1) Eğitim-öğretim süresince öğrenciler Fakülteye yatılı olarak devam etmek zorundadırlar.
+(2) Öğrencilerin yabancı dil hazırlık sınıfına devam etmeleri zorunludur.
+(3) Mazeretsiz olarak bir dönemde elli altı ders saatinden fazla eğitim-öğretime katılmayanlar ile Dekanlıkça kabul edilebilir mazeretleri olsa bile bir dönemde okutulan tüm derslerin toplam ders saatlerinin 1/3’ünü aşan sürede devamsızlık yapanlar, o döneme ait tüm sınav haklarını kaybederler ve başarısız sayılırlar. Bu durumdaki öğrencilere bir sonraki yılın eğitim-öğretim dönemine kadar izin verilir.
+(4) Herhangi bir dönem boyunca, okutulan bir dersin toplam ders saatinin 1/3'ünü aşan sürede o derse devam etmeyenler, o dersle ilgili tüm sınav haklarını kaybederler ve o dersten başarısız sayılırlar.
+(5) Devamsızlık sürelerinin hesaplanmasında, yurt dışı ve yurt içi müsabakalarda görevlendirmeler, Emniyet Teşkilatını veya Akademiyi sosyal veya sportif alanlarda temsil ile ilgili görevlendirmeler, Fakülteye yeni kayıt yaptıran ve mezun olacak son sınıf öğrencilerinin sağlık kurulu rapor işlemleri ile Fakülte içinde nöbet görevlendirmeleri dikkate alınmaz.
+(6) Devamsızlık sürelerinin hesaplanmasında, derslerin ulusal bayram ve genel tatil günlerine denk gelmesi, dersler esnasında sınav yapılması, öğretim elemanının derse gelmemesi veya Dekanlık oluruyla derslerin işlenememesi durumları dikkate alınır ve bu durumlarda dersler işlenmiş ve öğrenciler derse katılmış olarak kabul edilir.
+(7) Devam koşulu sağlanmasına rağmen başarısız olunan derslerin tekrar alınması durumunda, bu derslerle ilgili devam mecburiyeti aranmaz. Ancak öğrencinin bu derslerin değerlendirilmesinde kullanılacak faaliyetler ile ara sınav ve dönem sonu sınavına katılması zorunludur.
+(8) Öğrencilerin devam durumu Öğrenci İşleri Şube Müdürlüğünce takip edilir.

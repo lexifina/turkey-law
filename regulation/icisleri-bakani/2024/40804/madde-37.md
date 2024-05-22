@@ -1,0 +1,5 @@
+Sınıf geçme ve sınıfta kalma esasları
+MADDE 37- (1) Birinci yılın sonundan itibaren ve sonraki yıllarda bütün derslerden yılsonu not ortalaması 1.20’nin altında olanlar, doğrudan sınıfta kalır.
+(2) Bir üst sınıfa borçlu geçen öğrenci bulunduğu sınıfta borçlu geçtiği ders/derslerden geçer not almak zorundadır. Bu şartı gerçekleştiremeyen öğrencilerin Fakülteden ilişiği kesilir.
+(3) Bütünleme sınavları sonucunda bütün derslerin yılsonu not ortalaması 2.00 veya üzerinde olan öğrenciler, iki dersten fazla F notu bulunmamak kaydıyla sınıfını geçer.
+(4) Bütünleme sınavı sonucunda bütün derslerin yılsonu not ortalaması 2.00 veya üzeri olan, en fazla iki dersten F notu alan öğrenciler borçlu olarak bir üst sınıfa geçerler. Borçlu olarak üst sınıfa geçen öğrenci üst sınıfın bütün derslerinden başarılı olması halinde borçlu olduğu derslerden başarılı olamasa dahi bir üst sınıfa borçlu olarak devam eder. Borçlu geçtiği sınıfta borçlu dersleri de dâhil dördüncü bir dersten başarısız olan öğrenci sınıfta kalmış sayılır. Bu durumdaki öğrencilerden önceki sınıflarda yıl kaybı olanların doğrudan Fakülteden ilişikleri kesilir.
