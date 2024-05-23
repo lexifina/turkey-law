@@ -1,0 +1,2 @@
+Kovanların kaybolması veya çalınması
+MADDE 14- (1) Tanımlanmış kovanın kaybolması veya çalınması halinde, kovan sahibi tarafından otuz gün içinde bu durum ilgili il/ilçe müdürlüğüne bildirilir. Kaybolan veya çalınan kovanların durumları il/ilçe müdürlüğünce veri tabanına kayıt edilir. Çalınan veya kaybolan kovanların daha sonra bulunması halinde bulunan kovanların durumu kovan sahibi tarafından il/ilçe müdürlüğüne bildirilir ve il/ilçe müdürlüğünce bu kovanların veri tabanındaki kayıtları güncellenir.

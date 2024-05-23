@@ -1,0 +1,11 @@
+Usulsüz arı konaklatılması
+MADDE 21- (1) Usulsüz arı konaklatılmasında, aşağıdaki hususlar uygulanır:
+a) Arı konaklama noktası olarak belirlenmemiş yerde konaklayan arıcılar ile konaklayacağı yer için 19 uncu maddede belirtildiği şekilde anlaşma yapmadığı ve il/ilçe müdürlüğünden o yer için AKB almadığı tespit edilmiş arıcının kolonileri;
+1) Arı konaklama noktası uygun ise, il/ilçe müdürlüğünün uyarısı üzerine on iş günü içerisinde arazi sahibi/kurum ile anlaşma yaparak il/ilçe müdürlüğüne başvurur ve AKB belgesini onaylatır. İl/ilçe müdürlüğü tarafından belirlenen yer AKS ye konaklama noktası olarak kaydedilir.
+2) Konaklanan yer uygun değil ise, il/ilçe müdürlüğünün yazılı uyarısı üzerine on iş günü içerisinde bulunduğu yerden AKB alması için uygun bir bölgeye veya kayıtlı olduğu işletme adresine sevk edilmek üzere kaldırılır.
+b) İl/ilçe müdürlüğünce verilen kaldırma süresine rağmen arıların kaldırılmaması halinde;
+1) İl/ilçe müdürlüğünün talebi ile mülkî idare amirliğince güvenlik birimleri nezaretinde öncelikle konakladığı yerde bulunan birlik, bu mümkün değil ise il/ilçe belediyesi/kamu kurumları araç ve iş gücünden istifade ederek bulunduğu yerden mevzuat hükümlerine uygun bir alana kaldırılır.
+2) Fiil hakkında ayrıca Cumhuriyet başsavcılığına suç duyurusunda bulunulur.
+3) Kaldırma sürecinde meydana gelen zarardan arıcı sorumludur. Arılar kaldırıldığı yerde sahibine yediemin olarak teslim edilir. Nakliye ve işçilik ücreti arıcıdan alınır.
+c) Sahibi belirlenemeyen arılar için de yukarda belirtilen arı kaldırma prosedürü uygulanır ve idari para cezası uygulanmak üzere kimlik tespiti için güvenlik birimlerine bildirim yapılır. Uygunsuzluğa ait tutulan tutanak yerinde uyarı niteliğinde bırakılır ve on iş günü içinde teslim alınmayan arılar öncelikle konakladığı yerde bulunan birliğe, bu mümkün değil ise il/ilçe belediyesi/kamu kurumları araç ve iş gücü ile mevzuata uygun bir alana kaldırılır. Sahibi tespit edilemeyen arı kovanlarına 30/3/2005 tarihli ve 5326 sayılı Kabahatler Kanunu kapsamında el konularak mülkiyetinin kamuya geçirilmesi temin edilir.
+ç) Mücbir sebepten dolayı arısını izin aldığı adres dışına götürmek zorunda kalan arıcıya il/ilçe müdürlüğünce mazeretinin uygun görülmesi durumunda cezai işlem uygulanmaz, arıcı on iş günü içerisinde izin aldığı veya izin verilecek uygun adrese sevk edilir.

@@ -1,0 +1,2 @@
+Kapsam
+MADDE 2- (1) Bu Yönetmelik, arıcılıkla ilgili sürdürülebilirliğin sağlanmasında her türlü üretim, ıslah, konaklama, damızlık materyali elde etme, sabit ve gezginci arıcılık konusundaki esasların belirlenmesi, arı kolonilerinin nakline ilişkin gerekli tedbirlerin alınması, alet, makine ve malzemelerin standardizasyonu, ballı bitkiler tarımının geliştirilmesi, eğitim, projelendirme, ana arı yetiştiriciliği, bal arılarında suni tohumlama ve bal arı kolonilerinin kayıt altına alınmasına ilişkin hususları kapsar.

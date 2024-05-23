@@ -1,0 +1,7 @@
+Geçiş süreci
+GEÇİCİ MADDE 1- (1) Bu Yönetmelik kapsamında uygulanacak olan arı konaklama izin işlemlerinde 19 uncu maddenin birinci fıkrasının (b) bendi 31/12/2024 tarihine kadar uygulanmaz.
+(2) 19 uncu maddenin birinci fıkrasının (c) ve (ç) bentleri 31/12/2024 tarihine kadar aşağıdaki hususlar çerçevesinde yürütülür:
+a) İller arası arı nakillerinde konaklama noktasını anlaşarak beyan eden arıcı, çıkış yapacağı ilin il/ilçe müdürlüğüne gideceği adresi sözlü ya da yazılı beyan ederek veteriner sağlık raporu alır ve arılarını sevk eder. Arıcının veteriner sağlık raporundaki adresi ile AKB’deki konaklama noktasının adresi aynı olur. Arılarını nakleden arıcının, anlaştığı arazi sahibine AKB’yi imzalatması ve veteriner sağlık rapor tarihinden başlamak üzere belgesini on iş günü içerisinde il/ilçe müdürlüğüne onaylatması ile konaklama izin işlemi tamamlanır. İl/ilçe müdürlüğü tarafından konaklama noktaları AKS’ye kaydedilir.
+b) İl içi arı nakillerinde arılarını nakleden arıcının, anlaştığı arazi sahibine AKB’yi imzalatması ve belgesini on iş günü içerisinde il/ilçe müdürlüğüne onaylatması ile konaklama izin işlemi tamamlanır. İl/ilçe müdürlüğü tarafından konaklama noktaları AKS’ye kaydedilir.
+c) Arı konaklatılacak yerin uygun olmaması durumunda arıcıya AKB verilmez ve 21 inci maddenin birinci fıkrasının (a) ve (b) bentleri doğrultusunda işlem yapılır.
+ç) Bu Yönetmeliğin yayımı tarihinden önce basılan ve arıcılar tarafından kullanılan ya da kullanılacak olan kovan plakaları için teknik özellikleri belirlenmiş kriterler aranmaz.

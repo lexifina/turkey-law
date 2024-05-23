@@ -1,0 +1,4 @@
+Alıcı ve satıcı kovan sahibinin yükümlülükleri
+MADDE 7- (1) Arıcı, işletme veya işletmelerinin kayıt altına alınmasını sağlamak, dolu veya boş duruma geçen kovanlar ile işletmelerine ve işletmelerinden olacak tüm koloni hareketlerini ilgili il/ilçe müdürlüğüne bildirmekle yükümlüdür.
+(2) Alıcı ve satıcılar bu Yönetmelik hükümleri çerçevesinde aldıkları veya sattıkları kolonilere ilişkin gerekli bildirimleri EK-2’de yer alan arı nakil belgesini doldurarak ilgili il/ilçe müdürlüğüne bildirmekle yükümlüdür. Alımı satımı yapılan kolonilerin nakillerinde il içinde arı nakil belgesi, iller arasında ise arı nakil belgesi ile birlikte veteriner sağlık raporu kullanılır.
+(3) Kovan sahibi bu Yönetmelikte yer alan yükümlülüklerini eksiksiz ve hatasız olarak yerine getirmekten ve beyanlarının doğruluğundan sorumludur.
