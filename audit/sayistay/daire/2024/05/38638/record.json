@@ -1,0 +1,17 @@
+{
+  "kind": "decision",
+  "issuer": "Sayıştay 7. Dairesi",
+  "number": "609",
+  "decision_date": "2024-05-23",
+  "source_id": 38638,
+  "chamber": "7",
+  "ilam_number": "309",
+  "item_number": 1,
+  "public_body_type": "Belediyeler ve Bağlı İdareler",
+  "account_year": 2016,
+  "subject": "Çeşitli Konuları İlgilendiren Kararlar",
+  "source": "https://www.sayistay.gov.tr/KararlarDaire/Detay/38638/",
+  "source_sha256": "6eed0fcdd99c1bb1982b0335c583fa60259a47c446d3a641d2e5cdcfe1721bc8",
+  "text_status": "as-enacted",
+  "text_file": "metin.md"
+}
