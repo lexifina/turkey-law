@@ -1,0 +1,39 @@
+{
+  "checked_on": "2026-11-14",
+  "commencement_clauses": [
+    "MADDE 18- (1) Bu Yönetmelik yayımı tarihinde yürürlüğe girer."
+  ],
+  "date_evidence": [
+    [
+      "2024-05-24",
+      "24.05.2024",
+      "original gazette publication date in official listing"
+    ]
+  ],
+  "date_quote": "MADDE 18- (1) Bu Yönetmelik yayımı tarihinde yürürlüğe girer.",
+  "first_law": null,
+  "gazette": "32555",
+  "history": "current-text",
+  "images": {
+    "deferred": 0,
+    "omitted": 0,
+    "referenced": 0,
+    "source": 0
+  },
+  "in_force": "2024-05-24",
+  "in_force_basis": "source commencement clause: enters into force on gazette publication",
+  "issuer": "Gazi Üniversitesi",
+  "issuer_slug": "gazi-universitesi",
+  "kind": "regulation",
+  "label": "oldest version available",
+  "path": "regulation/gazi-universitesi/2024/40809",
+  "published": "2024-05-24",
+  "source": "https://www.mevzuat.gov.tr/anasayfa/MevzuatFihristDetayIframe?MevzuatTur=8&MevzuatNo=40809&MevzuatTertip=5",
+  "source_bytes": 28570,
+  "source_id": "8.5.40809",
+  "source_sha256": "0043fe5f5351bc7f52636ee3cdb2125562a47808f4f8470651b66358773ec118",
+  "text_status": "as-enacted",
+  "title": "GAZİ ÜNİVERSİTESİ TÜRKÇE ÖĞRENİM ARAŞTIRMA VE\r\nUYGULAMA MERKEZİ YÖNETMELİĞİ",
+  "university_id": 195,
+  "word_count": 1196
+}
