@@ -1,0 +1,53 @@
+{
+  "source_id": "7.5.23797",
+  "kind": "regulation",
+  "register_kind": "Kurum ve Kuruluş Yönetmelikleri",
+  "title": "ULAŞTIRMA VE ALTYAPI BAKANLIĞI PERSONELİ GÖREVDE YÜKSELME VE UNVAN DEĞİŞİKLİĞİ YÖNETMELİĞİ",
+  "number": "23797",
+  "issuer": "Ulaştırma ve Altyapı Bakanı",
+  "issuer_slug": "ulastirma-ve-altyapi-bakani",
+  "path": "regulation/ulastirma-ve-altyapi-bakani/2017/23797",
+  "source": "https://www.mevzuat.gov.tr/anasayfa/MevzuatFihristDetayIframe?MevzuatTur=7&MevzuatNo=23797&MevzuatTertip=5",
+  "source_sha256": "6f96f5012f2c1dfe2db2313aed7c6dcebac790f90226a061f7dbbf0598828fc3",
+  "source_bytes": 88934,
+  "published": "2017-07-27",
+  "gazette": "30136",
+  "in_force": "2024-05-24",
+  "in_force_basis": "latest Resmî Gazete date printed in the source amendment notes/table (\"RG-24/5/2024\") for the current consolidated text",
+  "date_evidence": [
+    [
+      "2024-05-24",
+      "RG-24/5/2024",
+      "Resmî Gazete date printed in the source amendment note"
+    ],
+    [
+      "2024-05-24",
+      "24/5/2024",
+      "Resmî Gazete date in the source amendment table"
+    ],
+    [
+      "2019-01-15",
+      "RG-15/1/2019",
+      "Resmî Gazete date printed in the source amendment note"
+    ],
+    [
+      "2019-01-15",
+      "15/1/2019",
+      "Resmî Gazete date in the source amendment table"
+    ]
+  ],
+  "commencement_clauses": [
+    "Bu Yönetmelik yayımı tarihinde yürürlüğe girer"
+  ],
+  "history": "current-text",
+  "label": "oldest version available",
+  "checked_on": "2026-11-15",
+  "word_count": 4423,
+  "text_status": "current-consolidated",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  },
+  "completeness": "html-text-complete"
+}
