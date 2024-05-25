@@ -19,26 +19,31 @@
     "referenced": 0,
     "omitted": 0
   },
-  "missing_components": [
-    {
-      "type": "annex",
-      "status": "pending",
-      "source_url": "https://www.mevzuat.gov.tr/MevzuatMetin/21.5.8531-Ek.zip",
-      "source_caption": "Ekleri için tıklayınız",
-      "source_href": "https://www.mevzuat.gov.tr/MevzuatMetin/21.5.8531-Ek.zip",
-      "reason": "Separately linked component is not included in this HTML-only version."
-    }
-  ],
+  "missing_components": [],
   "text_layout": "article-files",
   "source_links": [
     {
       "type": "annex",
-      "status": "pending",
+      "status": "included-original-file",
       "source_url": "https://www.mevzuat.gov.tr/MevzuatMetin/21.5.8531-Ek.zip",
       "source_caption": "Ekleri için tıklayınız",
       "source_href": "https://www.mevzuat.gov.tr/MevzuatMetin/21.5.8531-Ek.zip",
-      "reason": "Separately linked component is not included in this HTML-only version."
+      "asset": "assets/29310f12d10d5b14ae83e55e1d5b9013bc557f12abcd627b89a065455651b892.zip",
+      "sha256": "29310f12d10d5b14ae83e55e1d5b9013bc557f12abcd627b89a065455651b892",
+      "bytes": 123241
     }
   ],
-  "completeness": "pending-annexes"
+  "completeness": "complete-with-original-annex",
+  "annex_components": [
+    {
+      "type": "annex",
+      "status": "included-original-file",
+      "source_url": "https://www.mevzuat.gov.tr/MevzuatMetin/21.5.8531-Ek.zip",
+      "source_caption": "Ekleri için tıklayınız",
+      "source_href": "https://www.mevzuat.gov.tr/MevzuatMetin/21.5.8531-Ek.zip",
+      "asset": "assets/29310f12d10d5b14ae83e55e1d5b9013bc557f12abcd627b89a065455651b892.zip",
+      "sha256": "29310f12d10d5b14ae83e55e1d5b9013bc557f12abcd627b89a065455651b892",
+      "bytes": 123241
+    }
+  ]
 }
