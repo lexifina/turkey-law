@@ -1,0 +1,5 @@
+Denetim
+MADDE 14- (1) Uludağ Alanında turizm amaçlı sportif faaliyet yürüten turizm işletmelerinin bu Yönetmelik çerçevesindeki faaliyetleri, 117 sayılı Cumhurbaşkanlığı Kararnamesinin 6 ncı maddesi uyarınca Başkanlık personelinden görevlendirilen denetleme heyeti tarafından denetlenir.
+(2) Başkanlık, denetim heyeti vasıtasıyla turizm işletmecisinin faaliyet alanı ile ilgili tüm dokümanları, tesisleri, teçhizatları, personeli, araçlarını dilediği zaman incelemek ve denetlemekte yetkili olup, görevliler gerektiğinde turizm amaçlı sportif faaliyetlere katılmaya, uygun bulunmayan araçları turizm amaçlı sportif faaliyetten men etmeye yetkilidirler. Turizm işletmecisi inceleme ve denetleme görevinin yerine getirilebilmesi için her türlü desteği sağlamakla yükümlüdür.
+(3) Spor kurallarının uygulanması veya sportif faaliyetin tabi olduğu diğer konular, bu konuda yetkili kılınmış kurum ve kuruluşlarca denetlenir.
+(4) Turizm amaçlı sportif faaliyet alanlarında gerek görüldüğünde Başkanlık tarafından bir görevli bulundurulabilir.

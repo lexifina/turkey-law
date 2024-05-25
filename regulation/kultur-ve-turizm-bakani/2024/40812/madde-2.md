@@ -1,0 +1,3 @@
+Kapsam
+MADDE 2- (1) Bu Yönetmelik, Uludağ Alanında turizm amaçlı sportif faaliyette bulunacak turizm işletmelerinde aranacak niteliklerin belirlenmesi, izin ve yeterlilik belgelerinin düzenlenmesi, parkurların tespit edilmesi ile turizm amaçlı sportif faaliyetlerin denetimi, uyulması gerekli yükümlülük ve yasaklar ile yeterlilik ve izin belgelerinin iptaline ilişkin usul ve esaslar ile uygulanacak idari para cezalarını kapsar.
+(2) Gençlik ve Spor Bakanlığı veya spor federasyonları tarafından düzenlenen ya da izin verilen ulusal ya da uluslararası spor müsabaka ve yarışmaları ile bunların hazırlık ve eğitim çalışmaları bu Yönetmelik kapsamı dışındadır.
