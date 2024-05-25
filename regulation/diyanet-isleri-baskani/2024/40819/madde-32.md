@@ -1,0 +1,2 @@
+Adaylık süresi içinde göreve son verme
+MADDE 32- (1) Adaylık eğitiminin her bir devresinde başarısız olanlar ile adaylık süresi içinde aylıktan kesme veya kademe ilerlemesinin durdurulması cezası almış olanların veya memuriyetle bağdaşmayacak durumları tespit edilenlerin, 657 sayılı Kanunun 56 ncı ve 57 nci maddelerine göre adaylık eğitimlerini sürdürdükleri yerlerdeki disiplin amirlerinin teklifi üzerine atamaya yetkili amirin onayı ile memuriyetle ilişikleri kesilir.
