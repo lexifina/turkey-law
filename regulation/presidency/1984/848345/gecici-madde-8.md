@@ -1,0 +1,1 @@
+Geçici Madde 8 – (Ek: 1/9/1986-86/10974 K.) Bu Yönetmeliğin yayımı tarihinden önce kamu kurum ve kuruluşlarınca kiralanan konutların, konut sağlanıncaya kadar kiralanmasına devam edilmesine yetkili makamca karar verilebilir.

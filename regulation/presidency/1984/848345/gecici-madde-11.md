@@ -1,0 +1,2 @@
+Geçici Madde 11- (Ek: 17/2/2012-2012/2835 K.)
+Bu maddenin yayımı tarihinden önce yürürlükte bulunan 34 üncü maddenin üçüncü fıkrası kapsamında tahsil edilen işgaliye bedellerinden; 20 nci maddenin üçüncü fıkrasının (a) bendi uyarınca İdarece oturmasına izin verilenler ile 34 üncü maddeye göre yapılacak tebligat üzerine konutu boşaltanlardan tahsil edilenler, alınması gereken kira bedelleri düşüldükten sonra en geç iki ay içerisinde iade edilir, boşaltmayanlardan tahsil edilenler ise, tahsil edilecek işgaliye bedellerinden mahsup edilir.

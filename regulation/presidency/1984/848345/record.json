@@ -1,0 +1,69 @@
+{
+  "id": "presidency-regulation-848345",
+  "number": "848345",
+  "kind": "regulation",
+  "issuer": "presidency",
+  "title": "KAMU KONUTLARI YÖNETMELİĞİ",
+  "published": "1984-09-23",
+  "enacted": "1984-07-16",
+  "gazette_number": "18524",
+  "in_force": "2024-05-25",
+  "in_force_basis": "Latest source commencement-table date: 2024-05-25; official source: 24/5/2024 | 8532 | (1) Sayılı Cetvel | 25/5/2024",
+  "history": "current-only",
+  "version_label": "oldest version available",
+  "first_law": null,
+  "source": "https://www.mevzuat.gov.tr/anasayfa/MevzuatFihristDetayIframe?MevzuatNo=848345&MevzuatTur=21&MevzuatTertip=5",
+  "source_sha256": "38379ad258e4baa99cff391bae279c3c4d9f24ebdb5c9c8a7b7a95f4cfbb18fb",
+  "source_links": [
+    {
+      "type": "annex",
+      "status": "pending",
+      "source_url": "https://mevzuat.gov.tr/mevzuatmetin/21.5.848345-Ek.XLSX",
+      "source_caption": "(5) Sayılı Cetveli görmek için tıklayınız.",
+      "source_href": "https://mevzuat.gov.tr/mevzuatmetin/21.5.848345-Ek.XLSX",
+      "reason": "Separately linked component is not included in this HTML-only version."
+    }
+  ],
+  "missing_components": [
+    {
+      "type": "annex",
+      "status": "pending",
+      "source_url": "https://mevzuat.gov.tr/mevzuatmetin/21.5.848345-Ek.XLSX",
+      "source_caption": "(5) Sayılı Cetveli görmek için tıklayınız.",
+      "source_href": "https://mevzuat.gov.tr/mevzuatmetin/21.5.848345-Ek.XLSX",
+      "reason": "Separately linked component is not included in this HTML-only version."
+    }
+  ],
+  "date_anomalies": [],
+  "images": {
+    "source": 2,
+    "referenced": 0,
+    "omitted": 2
+  },
+  "images_complete": false,
+  "image_inventory": [],
+  "images_omitted": [
+    {
+      "source_ref": "https://www.mevzuat.gov.tr/anasayfa/21.5.848345_dosyalar/image001.png",
+      "description": "Official embedded image 1 (source supplies no caption)",
+      "reason": "not extractable",
+      "normative": true,
+      "position": 1,
+      "failure": "Exact source image URL returns an HTML page instead of image bytes",
+      "response_sha256": "ed5c1830cd619584c778ad339c2e327737bb0feababf6f36bd8ba416fc81ac90",
+      "response_bytes": 259936
+    },
+    {
+      "source_ref": "https://www.mevzuat.gov.tr/anasayfa/21.5.848345_dosyalar/image002.png",
+      "description": "Official embedded image 2 (source supplies no caption)",
+      "reason": "not extractable",
+      "normative": true,
+      "position": 2,
+      "failure": "Exact source image URL returns an HTML page instead of image bytes",
+      "response_sha256": "5693eae75dec29aa81663a7b02f3322ba21afc7b82b00e1ab80f44c0b2c8e91c",
+      "response_bytes": 64854
+    }
+  ],
+  "completeness": "pending-images",
+  "text_layout": "article-files"
+}

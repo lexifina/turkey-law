@@ -1,0 +1,1 @@
+Geçici Madde 10 – (Ek cümle: 1/5/2002-2002/4133 K.) Bu Yönetmeliğin yayımı tarihinden itibaren yapılacak konut tahsisleri için en geç bir ay içinde ek (5) sayılı cetvelin değişik şekline göre yeni beyannameler alınır. Konut tahsisleri yeni beyannameler esas alınarak sonuçlandırılır.

@@ -1,0 +1,2 @@
+Aylık Kira Bedeli Alınmayacak Konutlar
+Madde 25 – Yurt içinde Cumhurbaşkanı, Türkiye Büyük Millet Meclisi Başkanı, Başbakan ve Milli Güvenlik Konseyi yönetimi dönemindeki Başbakan, yurt dışında büyükelçiler, daimi delegeler, maslahatgüzarlar, askeri temsil heyetleri başkanları ve başkonsoloslar için tahsis edilen özel tahsisli konutlar ile Yönetmeliğin 5 nci maddesinin (d) bendinde belirtilen hizmet tahsisli konutlardan aylık kira bedeli alınmaz.

@@ -1,0 +1,1 @@
+Geçici Madde 4 – 1/1/1985 tarihine kadar boşalan sıra tahsisli konutlar, bu Yönetmelik hükümlerine göre konut tahsis talebinde bulunanlar arasından puan sırası esas alınmak suretiyle hak sahiplerine tahsis edilir.

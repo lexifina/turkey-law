@@ -1,0 +1,2 @@
+Yurt Dışındaki Konutların Aylık Kira Birim Bedellerinin Tesbiti
+Madde 22 – Yurt dışındaki konutların aylık kira birim bedelleri beşinci derecenin birinci kademesindeki evli ve çocuksuz bir Devlet memurunun yurt içi ve yurt dışı net aylık tutarları arasındaki orana göre, bulunan kat sayısının, yurt içi için tespit edilen aylık kira birim bedelleri ile çarpılması suretiyle, her ülke için ayrı ayrı hesaplanır.

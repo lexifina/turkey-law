@@ -1,0 +1,1 @@
+Geçici Madde 9 – (Ek: 31/8/1992-92/3457 K.) Görevleri gereği hizmet veya görev tahsisli konut tahsis edilenlerden, 25/7/1992 tarihinden önce bu görevlerinden ayrılanlar hakkında da 20 nci maddenin ikinci fıkrasının (c) bendi hükmü uygulanır.

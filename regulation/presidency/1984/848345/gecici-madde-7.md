@@ -1,0 +1,1 @@
+Geçici Madde 7 – (Ek: 1/9/1986-86/10974 K.) Bu Yönetmeliğin 7 nci maddesine göre Bakanlara tahsis edilen " özel tahsisli" konutlar için 1984 yılında Başbakanlıkça alınmış bulunan demirbaş eşya ve mefruşat giderleri Başbakanlık bütçe tertibinden ödenir.

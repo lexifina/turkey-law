@@ -1,0 +1,3 @@
+Yakıt Ödeneği Talebi
+Madde 30 – Konut blok veya gruplarının bulunduğu yöre ve her birinin bağımsız bölüm sayısı, son üç yılda sarfedilen yakıt miktarı ile 29 uncu maddeye göre tesbit edilen yıllık yakıt ihtiyacı, yakıtın ton olarak mahalli fiyatı (taşıma, depolama ve benzeri giderler dahil) ve yıllık yakıt ihtiyacının karşılanması için her konut blok veya gruplarına göre ayrı ayrı hesaplanan ödenek ihtiyacı kamu kurum ve kuruluşlarına ait konutları yönetmekle görevli birim tarafından onaylı bir cetvel halinde her yıl Mayıs ayının son gününe kadar bağlı bulundukları kurum ve kuruluşa gönderilir.
+İlgili kurum ve kuruluşça gerekli tetkik ve değerlendirmeden sonra konutlar için gerekli görülen yeteri kadar ödeneğin bütçelerine konulması ve ihtiyaca göre dağıtımı sağlanır.
