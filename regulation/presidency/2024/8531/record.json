@@ -1,0 +1,44 @@
+{
+  "id": "presidency-regulation-8531",
+  "number": "8531",
+  "kind": "regulation",
+  "issuer": "presidency",
+  "title": "AFET VE ACİL DURUM TATBİKATLARI HAKKINDA YÖNETMELİK",
+  "published": "2024-05-25",
+  "enacted": "2024-05-24",
+  "gazette_number": "32556",
+  "in_force": "2024-05-25",
+  "in_force_basis": "Official commencement clause: \"Bu Yönetmelik yayımı tarihinde yürürlüğe girer.\"; Resmî Gazete 2024-05-25, no amendment annotation in this source text.",
+  "history": "current-only",
+  "version_label": "oldest version available",
+  "first_law": null,
+  "source": "https://www.mevzuat.gov.tr/anasayfa/MevzuatFihristDetayIframe?MevzuatNo=8531&MevzuatTur=21&MevzuatTertip=5",
+  "source_sha256": "ecca98403ddfb9c30c04eb73bc1a327271b37a3f994ce776ff107a465c8fa878",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  },
+  "missing_components": [
+    {
+      "type": "annex",
+      "status": "pending",
+      "source_url": "https://www.mevzuat.gov.tr/MevzuatMetin/21.5.8531-Ek.zip",
+      "source_caption": "Ekleri için tıklayınız",
+      "source_href": "https://www.mevzuat.gov.tr/MevzuatMetin/21.5.8531-Ek.zip",
+      "reason": "Separately linked component is not included in this HTML-only version."
+    }
+  ],
+  "text_layout": "article-files",
+  "source_links": [
+    {
+      "type": "annex",
+      "status": "pending",
+      "source_url": "https://www.mevzuat.gov.tr/MevzuatMetin/21.5.8531-Ek.zip",
+      "source_caption": "Ekleri için tıklayınız",
+      "source_href": "https://www.mevzuat.gov.tr/MevzuatMetin/21.5.8531-Ek.zip",
+      "reason": "Separately linked component is not included in this HTML-only version."
+    }
+  ],
+  "completeness": "pending-annexes"
+}

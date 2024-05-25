@@ -1,0 +1,4 @@
+Kapsam
+MADDE 2- (1) Bu Yönetmelik, Türkiye Afet Müdahale Planı kapsamında İçişleri Bakanlığı Afet ve Acil Durum Yönetimi Başkanlığı koordinasyonunda ve/veya afet ve acil durumlarda müdahale hizmetlerini yürütmekle görevli bakanlıklar, kamu kurum ve kuruluşları, valilikler, kaymakamlıklar, yerel yönetimler, özel ve özerk kuruluşlar ile sivil toplum kuruluşları tarafından düzenlenecek olan afet ve acil durum tatbikatlarına yönelik iş ve işlemleri kapsar.
+(2) Bakanlıkların bağlı ve ilgili kuruluşları bünyesinde yer alan tesisler genelinde ilgili mevzuat gereği iş yerlerinde yapılması zorunlu olan tatbikatlar ile kurum ve kuruluşlar bünyesinde icra edilen Seviye-1 düzeyinde tatbikatlar bu Yönetmelik kapsamı dışındadır.
+(3) Radyasyon acil durumu hazırlık kategorilerinden Kategori I ve Kategori II’de yer alan tesisler için tam ölçekli tatbikatlar bu Yönetmelik kapsamı dışında olup söz konusu tatbikatlar ilgili mevzuatında belirtilen hükümlere göre yapılır.
