@@ -1,0 +1,2 @@
+Açıklanacak bilgiler
+MADDE 2- (1) 213 sayılı Kanunun 5 inci maddesinin dördüncü fıkrasının Hazine ve Maliye Bakanlığına verdiği yetkiye istinaden beyan edilen matrah üzerinden adına en fazla vergi tahakkuk eden gelir ve kurumlar vergisi mükelleflerinin açıklanmasında; mükelleflerin yıllık gelir vergisi ve kurumlar vergisi beyannamelerinde gösterdikleri matrahlar ve beyanları üzerinden tarh olunan gelir ve kurumlar vergileri ile mükelleflerin ad ve unvanları dikkate alınacaktır.
