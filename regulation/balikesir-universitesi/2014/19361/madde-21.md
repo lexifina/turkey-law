@@ -1,0 +1,2 @@
+İntörn doktorların çalışmalarının değerlendirilmesi
+MADDE 21 – (1) Her dilimde intörn değerlendirme formu doldurulur. Her anabilim dalı formun doldurulabilmesi için gerekli değerlendirme yöntemlerini kendisi belirler. İntörn doktorun başarılı sayılabilmesi için, her anabilim dalındaki çalışmalarından en az 60 not alması zorunludur. Yetersiz olarak değerlendirilen intörn doktor, ilgili klinik çalışmasını tekrar eder.

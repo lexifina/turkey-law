@@ -1,0 +1,3 @@
+Eğitim-öğretim şekli
+MADDE 11 – (1) (Değişik:RG-26/5/2024-32557) Fakültede eğitim-öğretim; zorunlu olan Türk dili, yabancı dil, Atatürk İlkeleri ve İnkılâp Tarihi dersleri dışında, temel olarak Dönem-I, II ve III’te ders kurulları, Fakülte Kurulu kararı ile belirlenen klinik ve mesleki beceri kazandırmaya yönelik uygulamalı dersler ve ihtiyaca göre probleme dayalı öğretim, Dönem-IV ve V’te staj esasına göre ve ihtiyaca göre göreve dayalı öğretim sistemleri ile desteklenerek yapılır.
+(2) Fakülte’de Dönem-I, II ve III’te Sınıf Geçme, Dönem-IV ve V’te Staj Geçme sistemleri uygulanır. Ders Kurulları ve stajların ders planları Fakülte Kurulunun önerisi ve Senatonun kararı ile uygulamaya konulur.

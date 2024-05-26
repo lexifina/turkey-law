@@ -1,0 +1,4 @@
+Mazeretler ve izinler
+MADDE 13 – (1) Haklı ve geçerli nedenlerin varlığı halinde, öğrencinin mazeretli sayılmasına Yönetim Kurulu karar verir. Mazereti Yönetim Kurulunca kabul edilen öğrenci, mazereti süresince derslere devam edemez ve sınavlara giremez.
+(2) Mazeretlerle ilgili her türlü müracaat, mazeretin bitim tarihinden itibaren en geç yedi gün içinde Dekanlığa yapılır. Süresi içinde yapılmayan mazeret bildirimleri işleme alınmaz.
+(3) Yurtiçi ve yurtdışı diğer yükseköğretim kurumları arasında yapılan anlaşmalar çerçevesinde öğrencilerin yurtiçi ve yurt dışındaki üniversitelere gitmek istemesi halinde Yönetim Kurulu kararı ile bir defaya mahsus olmak üzere bir yıla kadar izin verilebilir. (Değişik cümle:RG-26/5/2024-32557) Bu izinlerin; Dönem I, II ve III için akademik yıl başlamadan önce Dönem IV, V ve VI için staj başlama tarihinden önce istenmesi gerekir.

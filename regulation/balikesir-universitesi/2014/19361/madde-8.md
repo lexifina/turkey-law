@@ -1,0 +1,2 @@
+Yatay geçiş ve intibak
+MADDE 8 – (1) Başka bir tıp fakültesinden yatay geçiş yapmak isteyen öğrencilerin Fakülteye kabul ve intibakı; Yükseköğretim Kurulu ile Senato tarafından belirlenen esaslara göre yatay geçiş komisyonunun görüşü alınarak öğrencinin almış olduğu eğitimin Fakülte eğitim programına uyum ve denkliği hakkındaki Yönetim Kurulu kararı ile yapılır. Yatay Geçiş Komisyonu, Eğitim-Öğretim Koordinasyon Kurulu üyelerinden oluşur.

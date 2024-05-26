@@ -1,0 +1,23 @@
+Tanımlar
+MADDE 4 – (1) Bu Yönetmelikte geçen;
+a) Başkoordinatör: Dekan tarafından görevlendirilen ve eğitim-öğretim programlarının planlanması, yürütülmesi ve koordinasyonundan sorumlu öğretim üyesini,
+b) Dekan: Balıkesir Üniversitesi Tıp Fakültesi Dekanını,
+c) Dekan Yardımcısı: Mezuniyet öncesi eğitimden sorumlu dekan yardımcısını,
+ç) Ders Kurulu: Tıp Fakültesi Dönem-I, II ve III’te uygulanmakta olan entegre sistem içerisinde yer alan derslerden oluşan organ ve/veya sistem temelli her bir üniteyi,
+d) Ders Kurulu Başkanı: Ders kurulu içinde dersi olan anabilim dallarındaki öğretim elemanları arasından görevlendirilen öğretim elemanını,
+e) Dönem: İki yarıyıldan oluşan her eğitim-öğretim yılını,
+f) Dönem koordinatörü: Dekan tarafından ilgili dönemin eğitim-öğretim programını ve işleyişini düzenlemek üzere görevlendirilen öğretim üyesini,
+g) Eğitim-Öğretim Koordinasyon Kurulu: Eğitim ve öğretimin plan ve program önerilerini hazırlayan, düzenli yürümesini temin ve kontrol eden kurulu,
+ğ) Fakülte: Balıkesir Üniversitesi Tıp Fakültesini,
+h) Fakülte Kurulu: Balıkesir Üniversitesi Tıp Fakültesi Kurulunu,
+ı) Göreve dayalı öğretim: Öğrenme hedeflerinin ve görevin açık biçimde tanımlandığı, göreve yönelik hedeflerin yanı sıra, genel becerilere ve profesyonellik ve bireysel gelişime yönelik hedefler de bulunan genellikle bireysel öğrenme ve becerilerin değerlendirildiği aktif öğretim biçimini,
+i) İntörnlük: Stajlarını tamamlamış olan öğrencilerin hekimlik mesleğini öğretim üyesi rehberliğinde uygulamalarına olanak veren son 12 aylık eğitim dilimini,
+j) Öğrenci danışmanı: Sorumlu olduğu öğrencilerin akademik sorunlarının çözümlenmesine rehberlik yapan öğretim elemanını,
+k) Probleme dayalı öğretim: Öğrencilerin küçük çalışma grupları halinde bir problemden yola çıkılıp, çözüm aşamasında ihtiyaç duyulan temel bilgilerin öğrenme hedefi yapılarak, öğrenen tarafından aktif biçimde araştırıldığı, sadece belirli bir konunun çözümlenmesi değil, o problem aracılığı ile gündeme gelen yeni öğrenme hedeflerinin ortaya çıkarıldığı ve problem çözme çabası içinde sorgulama, araştırma, tartışma ve benzeri becerilerin edinildiği aktif öğretim biçimini,
+l) Rektör: Balıkesir Üniversitesi Rektörünü,
+m) Senato: Balıkesir Üniversitesi Senatosunu,
+n) Staj: Temel tıp bilgilerini almış olan öğrencilere hekimlik mesleğinin uygulanmasına yönelik, klinik bilim dallarınca yürütülen eğitimi,
+o) Staj sorumlusu: Staj yapılan ilgili anabilim dalı başkanını,
+ö) Üniversite: Balıkesir Üniversitesini,
+p) Yönetim Kurulu: Balıkesir Üniversitesi Tıp Fakültesi Yönetim Kurulunu,
+ifade eder.
