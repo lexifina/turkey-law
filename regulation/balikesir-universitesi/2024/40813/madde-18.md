@@ -1,0 +1,3 @@
+Tezli yüksek lisans tez konusunun ve başlığının belirlenmesi, değiştirilmesi
+MADDE 18- (1) Anabilim/anasanat dalı başkanlığı tarafından öğrencinin danışmanıyla beraber belirlediği tez konusu ve başlığı tez veri giriş formu ile birlikte en geç ikinci yarıyılın sonuna kadar enstitüye önerilir ve enstitü yönetim kurulu kararı ile kesinleşir. Tez konusunu belirleyen öğrenci tez dersini üçüncü yarıyıldan itibaren seçer.
+(2) Gerekli olduğu durumlarda anabilim/anasanat dalı başkanlığı tarafından danışmanın onayını taşıyan tez konusu ve başlığı değişikliği formu, enstitüye önerilir ve enstitü yönetim kurulu kararı ile kesinleşir.

@@ -1,0 +1,4 @@
+Doktora programına ilişkin yapılan başvurunun değerlendirilmesi ve öğrenci kabulü
+MADDE 29- (1) Doktora programına öğrenci kabulünde başarı notunun hesaplanmasında; lisans derecesi ile başvuranların lisans, yüksek lisans derecesi ile başvuranların ALES veya temel tıp notunun %50’si, tezli yüksek lisans mezuniyet notunun %20’si, yazılı olarak yapılacak bilimsel değerlendirme sınavı ve/veya mülakat sonucunun %20’si ve yabancı dil puanının %10’u esas alınır. Mülakat veya bilimsel değerlendirme sınavından 60 puanın altında alan aday başarısız sayılır.
+(2) Temel tıp bilimlerinde doktora programlarına başvuran tıp fakültesi mezunlarının TUS’tan en az 50 temel tıp puanı almış olmaları veya ALES’in sayısal kısmından en az 65 puan almaları gerekir. Bu durumda adayın TUS temel tıp puanının %50’si değerlendirmede esas alınır.
+(3) Doktora programlarına kabul edilebilmek için başarı notunun en az 70 puan olması gerekir.

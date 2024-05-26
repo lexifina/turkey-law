@@ -1,0 +1,2 @@
+Tezsiz yüksek lisans danışmanı atanması
+MADDE 24- (1) Tezsiz yüksek lisans programlarında danışman atama işlemlerinde 17 nci maddenin birinci fıkrası uygulanır. Ancak tezsiz yüksek lisans programlarında yeterli öğretim üyesi bulunmaması halinde, anabilim/anasanat dalı başkanlığının gerekçeli önerisi, enstitü yönetim kurulu kararı ile doktora derecesine sahip öğretim görevlileri ilgili alanda doktora derecesine sahip olmaları ve lisans düzeyinde en az dört dönem ders vermiş olmaları şartıyla danışman olarak atanabilir.

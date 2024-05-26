@@ -1,0 +1,5 @@
+Doktora diploması
+MADDE 36- (1) Tez çalışmasını tamamlayan öğrenci, tezin son halini danışmanına ve yazım kurallarına uygunluk/benzerlik açısından enstitüye kontrol ettirir.
+(2) Tez savunmasında başarılı olmak ve diğer koşulları da sağlamak kaydıyla enstitünün belirlediği sayıda doktora tezinin ciltlenmiş kopyalarını tez sınavına giriş tarihinden itibaren bir ay içinde enstitüye teslim eden öğrenci, doktora diploması almaya hak kazanır. Enstitü yönetim kurulu başvuru üzerine teslim süresini en fazla bir ay daha uzatabilir. Bu koşulları yerine getirmeyen öğrenci koşulları yerine getirinceye kadar diplomasını alamaz, öğrencilik haklarından yararlanamaz ve azami süresinin dolması halinde Üniversite ile ilişiği kesilir.
+(3) Doktora diploması üzerinde enstitü anabilim/anasanat dalındaki programın Yükseköğretim Kurulu tarafından onaylanmış adı bulunur. Mezuniyet tarihi, tezin sınav jüri komisyonu tarafından kabul edilen imzalı nüshasının teslim edildiği tarihtir.
+(4) Enstitü tarafından tezin tesliminden itibaren üç ay içinde doktora tezinin bir kopyası elektronik ortamda, bilimsel araştırma ve faaliyetlerin hizmetine sunulmak üzere Yükseköğretim Kuruluna gönderilir.

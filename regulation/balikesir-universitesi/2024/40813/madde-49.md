@@ -1,0 +1,3 @@
+Sınavlar ve değerlendirme
+MADDE 49- (1) Öğrencinin kayıtlı olduğu ders ile ilgili yarıyıl sonu değerlendirmesi, ders tanıtım formunda belirtilen değerlendirme ölçütlerine uygun olarak yapılır. Yarıyıl ve bütünleme sınav programları, enstitü anabilim/anasanat dalı başkanlığı tarafından duyurulur ve enstitüye iletilir. Yarıyıl sonu sınavında başarısız olan veya sınava giremeyen öğrenciler için bütünleme sınavı yapılır.
+(2) Öğrenci başarısız olduğu bir dersi, ders alma süresi içinde tekrar alabilir veya danışmanın önerisi ve enstitü anabilim/anasanat dalı başkanlığının onayı ile zorunlu dersler hariç, başarısız olduğu ders yerine aynı kredi değerinden az olmamak koşuluyla başka bir ders alabilir.

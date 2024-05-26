@@ -1,0 +1,4 @@
+Sanatta yeterlik çalışmasının sonuçlanması
+MADDE 44- (1) Sanatta yeterlik programında bir öğrenci, elde ettiği sonuçları, sergi, proje, resital, konser, temsil gibi çalışmasını açıklayan ve belgeleyen metni Senato tarafından kabul edilen yazım kurallarına uygun biçimde yazar ve tez, sergi, proje, resital, konser, temsil gibi çalışmalarını jüri önünde sözlü olarak savunur.
+(2) Sanatta yeterlik programlarında kayıtlı öğrencilerin, tez savunma sınavına girebilmeleri için, tezi veya tez çalışmasının alanı ile ilgili en az bir adet makalesinin ulusal veya uluslararası hakemli bir dergide yayımlanmış/yayıma kabul edilmiş olması ve kişisel/karma bir etkinlik (dinleti, performans, sergi, defile, çalıştay, proje uygulamaları gibi) yapmış olması ön şart olarak aranır.
+(3) Sanatta yeterlik çalışmasının sonuçlandırılması hususunda, 35 inci madde hükümleri uygulanır.

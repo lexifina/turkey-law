@@ -1,0 +1,9 @@
+Yatay geçiş ve değişim programları yoluyla öğrenci kabulü
+MADDE 11- (1) Üniversite içindeki başka bir enstitü anabilim/anasanat dalında veya başka bir yükseköğretim kurumunun lisansüstü programında en az bir yarıyılını tamamlamış olan başarılı öğrenci, lisansüstü programlara enstitü yönetim kurulunun kararı ile yatay geçiş yoluyla kabul edilebilir. Açık olan programlar için yatay geçiş kontenjanları, enstitü anabilim/anasanat dalı başkanlığının görüşü alınarak enstitü yönetim kurulu kararı ile belirlenir ve ilan edilir.
+(2) Yatay geçiş başvurusunun kabul edilebilmesi için öğrencinin;
+a) Üniversitenin lisansüstü programına kabul için öngördüğü koşullara sahip olması,
+b) Tezli yüksek lisans programları için kayıtlı olduğu programda iki yarıyıldan fazla süreyi, doktora programları için dört yarıyıldan fazla süreyi kullanmamış olması ve yeterlik sınavına girmemiş olması,
+c) Devam etmekte olduğu programda aldığı her bir dersten, 50. maddede yer alan tablo dikkate alınarak yüksek lisansta 100 üzerinden en az 75 veya 4,0 üzerinden en az 2,5 notu, doktora/sanatta yeterlikte ise 100 üzerinden en az 85 veya 4,0 üzerinden en az 3,5 notu alarak başarılı olması,
+gerekir.
+(3) İkinci fıkrada belirtilen şartları sağlayarak yatay geçiş başvurusu kabul edilen öğrenciye, danışman atama koşullarına uygun olarak enstitü yönetim kurulu kararı ile bir danışman atanır. Öğrenci, diğer yükseköğretim kurumlarından aldığı dersleri, muafiyet ve intibak komisyonu kararı ve enstitü yönetim kurulunun onayı ile kayıtlı olduğu programın zorunlu kredi toplamının %50’sini aşmamak koşulu ile krediden saydırabilir. Öğrencinin derslerdeki başarı durumu ile ilgili değerlendirme, 50 nci maddeye göre yapılır. Yatay geçiş başvurusu kabul edilen öğrencinin daha önce geçirdiği süreler azami süreden sayılır.
+(4) Yurt içi/yurt dışı öğrenci değişim programlarına ilişkin uygulamalar, ilgili mevzuat ve Senatonun belirlediği esaslar çerçevesinde yürütülür.
