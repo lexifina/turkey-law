@@ -1,0 +1,4 @@
+Müdür
+MADDE 8- (1) Müdür; Merkezin faaliyet alanlarıyla ilgili çalışmaları olan Üniversitenin öğretim üyeleri arasından Mütevelli Heyeti Başkanı tarafından iki yıl süreyle görevlendirilir. Süresi dolan Müdür yeniden görevlendirilebilir. Görevin sona ermesi veya gerekli görüldüğü hallerde Müdürün yerine aynı usulle yeni bir Müdür görevlendirilebilir.
+(2) Müdür, sağlıkla ilgili bağlı birimlerin de yöneticisidir ve yürütmekte olduğu görevlerle ilgili olarak Yönetim Kuruluna karşı sorumludur.
+(3) Müdür yardımcısı, Müdürün önerisi, Yönetim Kurulunun onayı ve Mütevelli Heyeti Başkanı kararıyla tıp fakültesinde görev yapan öğretim üyeleri arasından görevlendirilir. Müdür yardımcısı, Müdürün belirleyeceği yetkilere göre Merkez hizmetlerinin yürütülmesinde Müdüre yardımcı olur. Müdürün görevi sona erdiğinde, yardımcısının görevi de sona erer. Görev süresi sona eren müdür yardımcısı yeniden görevlendirilebilir.
