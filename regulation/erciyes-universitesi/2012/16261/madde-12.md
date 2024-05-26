@@ -1,0 +1,3 @@
+Çalışma birimleri ve görevleri
+MADDE 12 – (1) Merkezde; kök hücre, proteomik, bitki biyoteknolojisi, genomiks, biyosensörler, bitkisel ilaçlar biyoteknolojisi ve benzeri alanlarda çalışmalar yapmak üzere çalışma birimleri oluşturulur.
+(2) Çalışma birimlerinde faaliyetler, branşında uzmanlık eğitimi almış ve Üniversitede tam gün statülü öğretim üyesi olan birim sorumlularının denetiminde yürütülür. Birim sorumluları, Yönetim Kurulu tarafından üç yıl süreyle görevlendirilir. Birim sorumluları bu sürenin sonunda tekrar görevlendirilebilir veya süresinden önce görevlerine son verilebilir. Birim sorumluları çalışma biriminin ihtiyaçlarını zamanında tespit eder ve Müdüre bildirir.

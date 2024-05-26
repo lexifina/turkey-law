@@ -1,0 +1,69 @@
+{
+  "checked_on": "2026-11-14",
+  "commencement_clauses": [
+    "MADDE 16 – (1) Bu Yönetmelik yayımı tarihinde yürürlüğe girer."
+  ],
+  "date_evidence": [
+    [
+      "2012-06-21",
+      "21.06.2012",
+      "original gazette publication date in official listing"
+    ],
+    [
+      "2024-05-26",
+      "RG-26/5/2024-32557",
+      "latest source-printed gazette amendment date for current consolidated text"
+    ],
+    [
+      "2024-05-26",
+      "RG-26/5/2024-32557",
+      "latest source-printed gazette amendment date for current consolidated text"
+    ],
+    [
+      "2014-11-18",
+      "RG-18/11/2014-29179",
+      "latest source-printed gazette amendment date for current consolidated text"
+    ],
+    [
+      "2024-05-26",
+      "RG-26/5/2024-32557",
+      "latest source-printed gazette amendment date for current consolidated text"
+    ],
+    [
+      "2014-11-18",
+      "18/11/2014",
+      "latest gazette date in source amendment table"
+    ],
+    [
+      "2024-05-26",
+      "26/5/2024",
+      "latest gazette date in source amendment table"
+    ]
+  ],
+  "date_quote": "RG-26/5/2024-32557",
+  "first_law": null,
+  "gazette": "28330",
+  "history": "current-text",
+  "images": {
+    "deferred": 0,
+    "omitted": 0,
+    "referenced": 0,
+    "source": 0
+  },
+  "in_force": "2024-05-26",
+  "in_force_basis": "latest source-printed gazette amendment date for current consolidated text",
+  "issuer": "Erciyes Üniversitesi",
+  "issuer_slug": "erciyes-universitesi",
+  "kind": "regulation",
+  "label": "oldest version available",
+  "path": "regulation/erciyes-universitesi/2012/16261",
+  "published": "2012-06-21",
+  "source": "https://www.mevzuat.gov.tr/anasayfa/MevzuatFihristDetayIframe?MevzuatTur=8&MevzuatNo=16261&MevzuatTertip=5",
+  "source_bytes": 37457,
+  "source_id": "8.5.16261",
+  "source_sha256": "eeea3c507df7448d7791caca230a90fa1e1e134fcae3e395d733c777f3b63eec",
+  "text_status": "current-consolidated",
+  "title": "ERCİYES ÜNİVERSİTESİ BETÜL-ZİYA EREN GENOM VE KÖK HÜCRE MERKEZİ YÖNETMELİĞİ",
+  "university_id": 192,
+  "word_count": 1292
+}
