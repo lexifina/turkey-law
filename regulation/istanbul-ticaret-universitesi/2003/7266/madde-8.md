@@ -1,0 +1,6 @@
+Başarı Değerlendirme
+Madde 8 — Öğrenci, çift anadal (Mülga ibare:RG-16/4/2023-32165) (Değişik ibare:RG-27/5/2024-32558) öğrenimini kendi isteği ile bırakabilir.
+(Değişik:RG-18/9/2015-29479) Çift anadal öğrencisi iken, birinci anadalda herhangi bir yarıyıl sonunda (Ek ibare:RG-27/5/2024-32558) genel not ortalaması 100 üzerinden 65’in (4 üzerinden 2,50) altında olan öğrenciler, izleyen yarıyıl boyunca ikinci anadal öğrenciliği bakımından sınamalı öğrenci sayılır.
+(Değişik:RG-18/9/2015-29479) (Değişik cümle:RG-27/5/2024-32558) Sınamalı statüdeki çift anadal öğrencisinin anadal programındaki genel not ortalaması ikinci kez 100 üzerinden 70’in altına düştüğünde ikinci anadal diploma programından kaydı silinir. Çift anadal öğrencisi sıfatını yitiren öğrenci, birinci anadalında öğrenimine devam eder. Çift anadal öğrenciliği sıfatını yitiren öğrenci, herhangi bir dalda çift anadal öğrenimi yapamaz. Burslu öğrenciler bakımından yükseköğretim mevzuatında ve Üniversite düzenlemelerinde yer alan kısıtlama ve hukuksal sonuçlar saklıdır.
+Sınamalı statüde geçen süreler de toplam öğretim süresinden sayılır.
+Üniversitenin Yaz Öğretimi Yönetmeliği hükümleri, çift anadal öğrencileri için de geçerlidir.
