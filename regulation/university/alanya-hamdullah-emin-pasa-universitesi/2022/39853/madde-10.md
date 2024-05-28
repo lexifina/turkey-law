@@ -1,0 +1,2 @@
+Çift anadal programı
+MADDE 10- (1) Üniversitede bir ön lisans ve lisans programına kayıtlı olan öğrenciler, kayıtlı oldukları ön lisans ve lisans programına ek olarak Üniversitede başka bir ön lisans ve lisans programına da eş zamanlı kayıt yaptırabilir. İkinci ön lisans ve lisans programına çift anadal lisans programı denir. Bu programı tamamlayan öğrencilere, kayıtlı oldukları ön lisans ve lisans programı diplomasına ek olarak çift anadal ön lisans/lisans diploması verilir. Çift anadal programlarına ilişkin esaslar Senato tarafından belirlenir.

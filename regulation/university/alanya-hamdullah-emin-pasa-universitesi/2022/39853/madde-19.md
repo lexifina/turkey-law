@@ -1,0 +1,2 @@
+Yatay geçiş ile kabul
+MADDE 19- (1) Üniversite bölümlerine/programlarına Üniversite dışından veya içinden yatay geçiş başvuruları ve değerlendirmeleri, Yükseköğretim Kurumlarında Önlisans ve Lisans Düzeyindeki Programlar Arasında Geçiş, Çift Anadal, Yan Dal ile Kurumlar Arası Kredi Transferi Yapılması Esaslarına İlişkin Yönetmelik ve diğer ilgili mevzuat hükümlerine göre Senato tarafından belirlenen esaslara göre yapılır.

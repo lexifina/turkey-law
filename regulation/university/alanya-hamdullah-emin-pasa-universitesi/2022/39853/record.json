@@ -1,0 +1,31 @@
+{
+  "act_path": "regulation/university/alanya-hamdullah-emin-pasa-universitesi/2022/39853",
+  "availability": "text",
+  "checked_on": "2026-11-14",
+  "commencement_clauses": [
+    "MADDE 51- (1) Bu Yönetmelik 2022-2023 eğitim-öğretim yılı başından geçerli olmak üzere yayımı tarihinde yürürlüğe girer."
+  ],
+  "date_quote": "RG-28/5/2024",
+  "first_law": null,
+  "gazette": "32026",
+  "history": "current-text",
+  "images": {
+    "deferred": 0,
+    "omitted": 0,
+    "referenced": 0,
+    "source": 0
+  },
+  "in_force": "2024-05-28",
+  "in_force_basis": "latest source-printed amendment Gazette date; current consolidated text",
+  "issuer": "Alanya Hamdullah Emin Paşa Üniversitesi",
+  "issuer_slug": "alanya-hamdullah-emin-pasa-universitesi",
+  "kind": "regulation",
+  "published": "2022-11-27",
+  "source": "https://www.mevzuat.gov.tr/anasayfa/MevzuatFihristDetayIframe?MevzuatTur=8&MevzuatNo=39853&MevzuatTertip=5",
+  "source_id": "8.5.39853",
+  "source_sha256": "ad053157db5a77d5adf869487e9951175c64ccac67a691c15a035766a3d058fa",
+  "title": "ALANYA ÜNİVERSİTESİ ÖN LİSANS VE LİSANS EĞİTİM-ÖĞRETİM VE SINAV YÖNETMELİĞİ",
+  "university_id": 373,
+  "version_label": "oldest version available",
+  "word_count": 7008
+}

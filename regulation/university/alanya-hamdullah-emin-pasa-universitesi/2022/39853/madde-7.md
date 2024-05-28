@@ -1,0 +1,5 @@
+Eğitim öğretim yılı
+MADDE 7- (1) Bir öğretim yılı dönem sonu sınav süreleri hariç olmak üzere her biri en az 14 haftalık iki dönemden oluşur. Birinci dönem güz, ikinci dönem ise bahar olarak adlandırılır. Akademik takvim, Senato tarafından belirlenir. Senato, gerekli gördüğü hallerde dönem sürelerini uzatabilir veya yaz öğretimi açabilir. Yaz öğretimi ile ilgili esaslar ve verilecek dersler Senato tarafından belirlenir.
+(2) Bir eğitim öğretim yılındaki kayıt, ders, sınav ve benzeri faaliyetlerin süre ve tarihleri, akademik takvim ile düzenlenir.
+(3) Dönemlerde derslerin haftalık programları Öğrenci İşleri Müdürlüğü koordinasyonunda ilgili bölüm başkanlıkları tarafından düzenlenir ve ilan edilir.
+(4) Dönemlerde ve yaz öğretiminde verilecek dersler, bu dersleri hangi öğretim elemanının vereceği ilgili bölüm başkanlığı tarafından belirlenerek ilgili meslek yüksekokulu/fakülte yönetim kurulu tarafından karara bağlanır. Bu derslerin grupları, kapasiteleri ve kriterlerine ilişkin düzenlemeler ise ilgili bölüm başkanlığı tarafından yapılır.

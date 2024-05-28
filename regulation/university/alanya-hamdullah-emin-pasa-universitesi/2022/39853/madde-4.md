@@ -1,0 +1,22 @@
+Tanımlar
+MADDE 4- (1) Bu Yönetmelikte geçen;
+a) AKTS: Avrupa Kredi Transfer Sistemini,
+b) Fakülte: (Değişik ibare:RG-21/1/2024-32436) Alanya Üniversitesine bağlı fakülteleri,
+c) İHP: (Değişik ibare:RG-21/1/2024-32436) Alanya Üniversitesi İngilizce Hazırlık Programını,
+ç) İlgili fakülte kurulu: (Değişik ibare:RG-21/1/2024-32436) Alanya Üniversitesi fakülte kurullarını,
+d) İlgili fakülte yönetim kurulu: (Değişik ibare:RG-21/1/2024-32436) Alanya Üniversitesi fakülte yönetim kurullarını,
+e) İlgili meslek yüksekokulu kurulu: (Değişik ibare:RG-21/1/2024-32436) Alanya Üniversitesi meslek yüksekokulu kurullarını,
+f) İlgili meslek yüksekokulu yönetim kurulu: (Değişik ibare:RG-21/1/2024-32436) Alanya Üniversitesi meslek yüksekokulu yönetim kurullarını,
+g) İYS: (Değişik ibare:RG-21/1/2024-32436) Alanya Üniversitesi Yabancı Diller Yüksekokulu İngilizce Yeterlik Sınavını,
+ğ) Lisans programı: En az 4 yıllık (8 yarıyıllık) bir yükseköğretim programını,
+h) Mütevelli Heyeti: (Değişik ibare:RG-21/1/2024-32436) Alanya Üniversitesi Mütevelli Heyetini,
+ı) MYO: (Değişik ibare:RG-21/1/2024-32436) Alanya Üniversitesine bağlı Meslek Yüksekokullarını,
+i) ÖİM: (Değişik ibare:RG-21/1/2024-32436) Alanya Üniversitesi Öğrenci İşleri Müdürlüğünü,
+j) Ön lisans programı: En az 2 yıllık (4 yarıyıllık) bir yükseköğretim programını,
+k) Rektör: (Değişik ibare:RG-21/1/2024-32436) Alanya Üniversitesi Rektörünü,
+l) Senato: (Değişik ibare:RG-21/1/2024-32436) Alanya Üniversitesi Senatosunu,
+m) Uluslararası ortak lisans programı: Yurt dışındaki bir yükseköğretim kurumu ile ortaklaşa yürütülen bir lisans programını,
+n) Üniversite: (Değişik ibare:RG-21/1/2024-32436) Alanya Üniversitesini,
+o) Üniversite Yönetim Kurulu: (Değişik ibare:RG-21/1/2024-32436) Alanya Üniversitesi Yönetim Kurulunu,
+ö) YDYO: (Değişik ibare:RG-21/1/2024-32436) Alanya Üniversitesi Yabancı Diller Yüksekokulunu,
+ifade eder.

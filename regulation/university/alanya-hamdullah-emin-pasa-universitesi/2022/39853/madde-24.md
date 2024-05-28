@@ -1,0 +1,2 @@
+Program dışı dersler
+MADDE 24- (1) (NI) notu, öğrencinin not ortalamasına katılmamak koşuluyla aldığı dersleri tanımlamak üzere verilir. Bu not, öğrencinin ilgili dersten aldığı harf notu ile birlikte öğrencinin not belgesinde gösterilir. Bu statüdeki dersler de 22 nci maddede tanımlanan ders yükü kapsamında alınır ve öğrencinin kayıtlı olduğu program veya programlarla ilgili ders saydırma işlemlerinde kullanılmaz. (NI) notu alınan dersler tekrarlanamaz. (NI) statüsünde alınan derslerin statüsü aynı program içinde değiştirilemez.

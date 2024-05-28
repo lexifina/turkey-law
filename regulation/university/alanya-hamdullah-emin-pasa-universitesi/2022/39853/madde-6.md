@@ -1,0 +1,9 @@
+Eğitim öğretim süresi
+MADDE 6- (1) Program süresi, ön lisans programları için iki yıl (dört yarıyıl), lisans programları için dört yıl (sekiz yarıyıl) olarak uygulanır.
+(2) Azami eğitim öğretim süresi, ön lisans programları için dört yıl (sekiz yarıyıl), lisans programları için yedi yıl (on dört yarıyıl) olarak uygulanır.
+(3) İHP’de geçirilen süre program süresine ve azami eğitim öğretim süresine dahil değildir.
+(4) İlgili yönetim kurulunca izinli sayılan dönemler, ön lisans ve lisans programı süresine ve azami eğitim öğretim süresine dahil değildir.
+(5) Öğrencilerin ön lisans ve lisans programına ilk kayıt yaptırdığı tarihten itibaren kayıtlı olduğu veya kayıt yenilememe nedeni ile kayıtsız olarak geçirdiği tüm dönemler program süresine ve azami eğitim öğretim süresine dahildir.
+(6) İlgili yönetim kurulunca yatay/dikey geçiş ile daha önceden bir yükseköğretim kurumunda öğrenim görmüş veya yeniden öğrenci seçme ve yerleştirme sistemi ile Üniversiteye kaydolmuş öğrencinin geldiği yükseköğretim kurumunda ya da daha önceki programda geçirdiği sürelere bakılarak beraberinde kaç yarıyıl transfer ettiği karara bağlanır. Kararda geçen süreler, program süresine ve azami eğitim öğretim süresine dâhil edilir.
+(7) Değişim programları kapsamında yurt içi veya yurt dışı yükseköğretim kurumlarında geçirilen dönemler program süresine ve azami eğitim öğretim süresine dahildir.
+(8) Kayıtlı olduğu programa ilişkin derslerin verildiği yarıyıldan başlamak üzere, her yarıyıl için kayıt yaptırıp yaptırmadığına bakılmadan azami süre içinde mezun olamayan öğrenciler uzatmalı öğrenci statüsüne geçerler. Bu durumdaki öğrencilerin Üniversitedeki kayıt ve öğrenimlerine devam hakları ile Üniversiteden ilişik kesilme işlemleri, 2547 sayılı Kanunun 44 üncü ve 46 ncı maddeleri hükümleri çerçevesinde, YÖK ve Senato tarafından belirlenen esaslara göre yürütülür.
