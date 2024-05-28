@@ -1,0 +1,19 @@
+{
+  "kind": "norm",
+  "issuer": "Bilgi Teknolojileri ve İletişim Kurumu",
+  "document_type": "board-decision",
+  "number": "2024/İK-YED/234",
+  "date": "2024-05-28",
+  "title": "CLI İhlali - Gold Telekom",
+  "relevant_unit": "Yetkilendirme Dairesi Başkanlığı",
+  "publication_date": "2024-05-28",
+  "source": "https://www.btk.gov.tr/kurul-kararlari?page=8",
+  "official_document": "https://www.btk.gov.tr/s3/web-btk-site/7708c26c-5161-4919-8b3d-daa31d4ac8fb/2026/03/3b964dff-efc7-4b4a-a349-93980d1451b0.pdf",
+  "source_sha256": "821ca6543ddfcc22272bafc3c5198ae138125f88b42631982de10a9d0bb0266f",
+  "history_type": "metadata",
+  "text_status": "metadata-only: official list fields; decision text is in the linked official PDF, not transcribed",
+  "in_force": "2024-05-28",
+  "in_force_basis": "Decision date as printed in the official BTK list (Karar tarihi ve no): 28.05.2024; adoption date of the board decision; commencement not asserted",
+  "law_text_complete": false,
+  "privacy_withheld": false
+}
