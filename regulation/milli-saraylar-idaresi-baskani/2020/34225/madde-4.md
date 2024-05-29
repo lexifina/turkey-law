@@ -1,0 +1,20 @@
+Tanımlar ve kısaltmalar
+MADDE 4- (1) Bu Yönetmelikte geçen;
+a) Alt görev: 1 sayılı Cumhurbaşkanlığı Teşkilatı Hakkında Cumhurbaşkanlığı Kararnamesinin 509 uncu maddesinde belirtilen hiyerarşik kademeler çerçevesinde daha alt hiyerarşi içindeki görevleri,
+b) Alt hizmet grupları: Aynı düzeydeki unvanların yer aldığı grupları,
+c) Aynı düzey görev: Hiyerarşi, görev, yetki ve sorumluluk açısından aynı grupta ya da grup içinde alt gruplar olması halinde aynı alt grupta gösterilen görevleri,
+ç) Başkan: Milli Saraylar İdaresi Başkanını,
+d) Başkanlık: Milli Saraylar İdaresi Başkanlığını,
+e) Birim: Kararname ile düzenlenen hizmet birimlerini,
+f) Görevde yükselme: 657 sayılı Kanuna tabi görevlerden 5 inci maddede sayılan ve görevde yükselmeye tabi olan görevlere aynı veya başka hizmet sınıflarından yapılacak görevde yükselme niteliğindeki atamaları,
+g) Görevde yükselme sınavı: Bu Yönetmelik hükümlerine göre görevde yükselme suretiyle atanacakların belirlenmesi amacıyla yapılan yazılı ve sözlü sınavı,
+ğ) Hizmet grupları: Hiyerarşi, görev, yetki ve sorumluluk açısından benzer veya eşit düzeydeki unvanların yer aldığı grupları,
+h) Hizmet süresi: 657 sayılı Kanunun 68 inci maddesinin (B) bendi esas alınarak hesaplanacak süreyi,
+ı) Kararname: 12 sayılı Milli Saraylar İdaresi Başkanlığı Teşkilatı Hakkında Cumhurbaşkanlığı Kararnamesini,
+i) ÖSYM: Ölçme, Seçme ve Yerleştirme Merkezi Başkanlığını,
+j) Personel: Başkanlık kadrolarında 657 sayılı Devlet Memurları Kanununa tabi olarak görev yapanları,
+k) Personel Dairesi Başkanlığı: Milli Saraylar İdaresi Başkanlığı Personel Dairesi Başkanlığını,
+l) Unvan değişikliği sınavı: Bu Yönetmelik hükümlerine göre, en az ortaöğretim düzeyinde mesleki veya teknik eğitim sonucu ihraz edilen unvanlara ilişkin görevlere atanacakların belirlenmesi için yapılan yazılı ve sözlü sınavı,
+m) Üst görev: 1 sayılı Cumhurbaşkanlığı Teşkilatı Hakkında Cumhurbaşkanlığı Kararnamesinin 509 uncu maddesinde belirtilen hiyerarşik kademeler çerçevesinde daha üst hiyerarşi içindeki görevleri,
+n) YDS: Yabancı Dil Bilgisi Seviye Tespit Sınavını,
+ifade eder.

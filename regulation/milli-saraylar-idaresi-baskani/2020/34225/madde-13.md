@@ -1,0 +1,6 @@
+Sınav Kurulu ve görevleri
+MADDE 13- (1) Sınav Kurulu; Başkanın veya görevlendireceği kişinin başkanlığında, en az biri Personel Dairesi Başkanlığı temsilcisi/temsilcileri olmak üzere, Başkan tarafından belirlenen toplam beş kişiden oluşur. Aynı usulle yedek üyeler de belirlenir. İhtiyaç duyulması halinde Başkanlık dışından kamu görevlileri arasından kurula üye veya üyeler görevlendirilebilir. Gerek duyulması halinde aynı usulle birden fazla kurul oluşturulabilir.
+(2) Sınav Kurulunu teşkil eden üyeler, sınavlara alınacak personelden, lisansüstü öğrenim hariç öğrenim durumu ve ihraz ettikleri unvanlar itibarıyla daha düşük seviyede olamazlar. Sınav Kurulu başkan ve üyelerinin, eşleri veya ikinci dereceye kadar (bu derece dâhil) kan ve kayın hısımlarının sınava katılmaları halinde, bu üye veya üyeler Sınav Kurulu üyeliğinden çıkartılır ve bunların yerine yedek üye veya üyeler görevlendirilir.
+(3) Sınav Kurulu üye tam sayısı ile toplanır. Kararlar oy çokluğu ile alınır. Çekimser oy kullanılmaz.
+(4) Sınav Kurulunun sekretarya hizmetleri, Personel Dairesi Başkanlığınca yapılır.
+(5) Sınav Kurulu; görevde yükselme yazılı sınavlarının yapılması veya yaptırılması, unvan değişikliği yazılı sınavlarının yaptırılması, sözlü sınavların yapılması, sınav sonuçlarının ilanı ve yapılan itirazların sonuçlandırılması ile sınavlara ilişkin diğer iş ve işlemleri yürütür.
