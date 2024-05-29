@@ -1,0 +1,5 @@
+Sınav sonuçlarının açıklanması ve itiraz
+MADDE 17- (1) Sınav sonuçları, Başkanlık internet sitesinde ilan edilir.
+(2) Sınav sonuçlarının ilanından itibaren üç iş günü içerisinde sınavı yapan kuruma veya sınav Başkanlık tarafından yapılmışsa Başkanlığa itiraz edilebilir. İtiraz sonuçları, sınavı yapan kurum veya sınavın Başkanlık tarafından yapılmış olması hâlinde sınav kurulu tarafından yedi iş günü içerisinde karara bağlanır ve itiraz sahipleri ile Başkanlığa bildirilir.
+(3) Nihai sınav sonuçları, Başkanlık internet sitesinde ilan edilir. Nihai sınav sonuçlarının ilanından itibaren beş iş günü içerisinde sınavı yapan kuruma veya sınavın Başkanlık tarafından yapılmış olması hâlinde sınav kuruluna Başkanlığa itiraz edilebilir. İtiraz sonuçları, sınavı yapan kurum veya sınavın Başkanlık tarafından yapılmış olması hâlinde sınav kurulu tarafından yedi iş günü içerisinde kesin olarak karara bağlanır ve itiraz sahipleri ile Başkanlığa bildirilir.
+(4) Yapılan yazılı sınavda hatalı soru tespit edilmesi veya yargı kararları gereğince soruların iptal edilmesi durumunda, iptal edilen soru veya sorular bütün adaylarca doğru cevaplandırılmış kabul edilir.
