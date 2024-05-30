@@ -1,0 +1,17 @@
+REVİZE BİRİM FİYAT
+
+)“... İlçe Sınırları Dahilinde Bulunan … Mahalle Bahçeleri, Park ve Spor Alanlarında Çevre Düzenlemesi Yapım İşi” kapsamında revize birim fiyat uygulaması yapılması gereken imalat kalemlerinde, revize birim fiyatın resmi analiz ve rayiçlerde yer alan fiyatlar nazara alınmaksızın tespit edilmesi suretiyle kamu zararına neden olunduğu iddiasına ilişkin olarak yapılan inceleme sonucunda;
+
+Kamu İhale Genel Tebliği’nin “Yapım işlerinde iş kalemi miktarının değişmesi” başlıklı 52’inci maddesinde; birim fiyatlı işlerde herhangi bir iş kaleminin (sözleşmede yer alan ya da yeni fiyatla sözleşmeye dahil olan iş kalemi) miktarında, işin devamı sırasında sözleşmesinde yer alan iş kalemi için sözleşmede belirtilen iş kalemi miktarında; yeni fiyatla sözleşmeye dahil edilen iş kalemi için ise yeni fiyat oluşturulurken projesine göre tespit edilip idare tarafından onaylanan iş kalemi miktarında %20’yi aşan artışın meydana gelmesi ve bu toplam artışın aynı zamanda sözleşme bedelinin yüzde 1’ini geçmesi halinde, artışın sözleşme bedeli içindeki payı nispetinde ilgili iş kalemine ait birim fiyatın revize edileceği ve bu iş kaleminin yüzde yirmi artışı aşan kısmına revize birim fiyat üzerinden ödeme yapılacağı ve hesaplanan revize birim fiyatın, o iş kalemine ait resmi analiz ve rayiçler de kullanılarak (%25 oranında kar ve genel gider dahil) hesaplanan birim fiyatı geçemeyeceği düzenlenmiştir.
+
+İdare ile … Proje Uygulama Ltd. Şti. arasında 12.07.2021 tarihinde 5.673.877 TL bedelle sözleşmesi imzalanan ve 23.06.2021 tarihinde birim fiyatlı ihale edilen “... İlçe Sınırları Dahilinde Bulunan …. Mahalle Bahçeleri, Park ve Spor Alanlarında Çevre Düzenlemesi Yapım İşi” kapsamında hakedişler üzerinde yapılan incelemede, revize birim fiyat uygulanması gereken imalat kalemlerinde revize birim fiyatın resmi analiz ve rayiçlerde yer alan fiyatlar nazara alınmaksızın tespit edildiği ve bu suretle yükleniciye fazla ödemede bulunulduğu tespit edilmiştir.
+
+Şöyle ki; yukarıda yer alan mevzuat uyarınca herhangi bir iş kaleminin miktarında, işin devamı sırasında %20’yi aşan bir artışın meydana gelmesi ve bu artışın aynı zamanda sözleşme bedelinin yüzde 1’ini geçmesi halinde, ilgili iş kalemine ait birim fiyatın resmi analiz ve rayiçlerde yer alan fiyatları aşmayacak şekilde revize edilmesi gerekmektedir.
+
+Yapılan incelemede, söz konusu işte PB.29 poz numaralı “Lama ve profil demirlerden çeşitli demir işleri yapılması ve yerine konulması” ve PB.88 poz numaralı “Ahşap hayvan oyun elemanı temin ve montajı” imalat kalemlerinin miktarında %20’den fazla bir artış olmasına ve bu artışın da sözleşme bedelinin %1’ini geçmesine rağmen, bu imalat kalemleri için yukarıda bahsedilen revize birim fiyatın, aşağıda yer verilen kamu zararı hesabı tablosunda görüleceği üzere resmi analiz ve rayiçlerde yer alan fiyatların üzerinde belirlenerek kamu zararına sebebiyet verildiği görülmüştür.
+
+Bu itibarla, “... İlçe Sınırları Dahilinde Bulunan … Mahalle Bahçeleri, Park ve Spor Alanlarında Çevre Düzenlemesi Yapım İşi” kapsamında miktarı artan imalat kalemlerine yukarıda yer verilen mevzuat gereği hesaplanması gereken revize birim fiyatın uygulanmaması sonucu oluşan ve ayrıntısı aşağıda yer alan toplam … TL tutarındaki kamu zararının 25.09.2023 tarih ve 2575007 no.lu makbuz ile tahsili anlaşıldığından ilişilecek husus kalmadığına,
+
+6085 sayılı Sayıştay Kanunu’nun 55’inci maddesi uyarınca İşbu İlamın tebliğ tarihinden itibaren altmış gün içerisinde Sayıştay Temyiz Kurulu nezdinde temyiz yolu açık olmak üzere
+
+oy birliğiyle karar verildi.
