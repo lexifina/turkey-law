@@ -1,0 +1,26 @@
+{
+  "kind": "norm",
+  "issuer": "Enerji Piyasası Düzenleme Kurumu",
+  "market": "natural-gas",
+  "document_type": "board-decision",
+  "number": "12660",
+  "decision_date": "2024-05-30",
+  "title": "Aksa Bandırma Doğal Gaz Dağıtım Anonim Şirketi’nin üçüncü tarife uygulama dönemi perakende satış tarifelerine yönelik",
+  "resmi_gazete_date": "2024-06-01",
+  "resmi_gazete_number": "32563",
+  "categories": [
+    "Şirket Bazında Kararlar"
+  ],
+  "source": "https://www.epdk.gov.tr/Detay/DownloadDocument?id=/obASiDC1OY=",
+  "documents": [
+    "https://www.epdk.gov.tr/Detay/DownloadDocument?id=/obASiDC1OY=",
+    "https://www.epdk.gov.tr/Detay/DownloadDocument?id=5bgcO0rKmSo="
+  ],
+  "source_sha256": "bacb0d8a3007be730c9297c26af96846d3cb43972ba27bd0af5daa715918f953",
+  "official_list": "https://www.epdk.gov.tr/Detay/Icerik/3-0-19/kurul-kararlari",
+  "official_list_leaf": 7236,
+  "text_status": "as-enacted",
+  "text_file": "metin.md",
+  "in_force": "2024-05-30",
+  "law_text_complete": true
+}
