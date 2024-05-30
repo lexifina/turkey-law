@@ -1,0 +1,2 @@
+Okutmanlar
+MADDE 31 – (1) Okutmanlar, eğitim-öğretim süresince çeşitli öğretim programlarında ortak zorunlu ders olarak belirlenen dersleri okutan veya uygulayan öğretim elemanlarıdır. Okutmanlar ilgili birimlerin görüşleri alınarak fakültelerde ve fakülteye bağlı birimlerde dekanın, Rektörlüğe bağlı enstitü veya yüksekokullarda müdürün göstereceği adaylar arasından Rektör tarafından en çok iki yıl için atanır ve Başkanın onayı ile atama işlemi tamamlanmış olur. Atandıkları süre sonunda görevleri kendiliğinden sona erer. Okutmanlar aynı usulle tekrar atanabilir.

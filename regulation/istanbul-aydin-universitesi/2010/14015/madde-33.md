@@ -1,0 +1,5 @@
+Uygulama ve araştırma merkezleri
+MADDE 33 – (1) Üniversitede, belirli konularda özgün araştırmaların yürütülmesi amacıyla Yükseköğretim Kurulunun onayı ile uygulama ve araştırma merkezleri kurulabilir. Merkez müdürleri Rektörün önerisi üzerine Başkanının onayı ile atanır. Ayrıca Merkez Müdürünün önerisi ve Rektörün onayı ile en çok iki müdür yardımcısı atanabilir. Merkez Müdürü yokluğunda yardımcılarından birini vekil bırakır. Göreve vekalet altı aydan fazla sürerse, yeni bir müdür atanır.
+(2) Merkez Müdürü, araştırma projelerini düzenler ve Rektörün onayına sunar.
+(3) Uygulama ve araştırma merkezleri bünyesinde, dışardan istenen her türlü proje ve danışmanlık hizmetlerini incelemek üzere Rektör tarafından geçici veya sürekli proje değerlendirme komitesi kurulabilir. Komitenin değerlendirmeleri Mütevelli Heyetinin onayından sonra uygulamaya konur.
+(4) Tam zamanlı çalışan Üniversite personelinin projelerden veya danışmanlık hizmetlerinden elde edilecek gelirlerden nasıl yararlandırılacaklarına ilişkin esaslar, Senato tarafından ilgili mevzuat hükümlerine göre belirlenir.
