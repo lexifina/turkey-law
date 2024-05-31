@@ -1,0 +1,29 @@
+{
+  "number": "month-05",
+  "year": 2024,
+  "month": 5,
+  "title": "Belediye Meclisi 2024 Mayıs Ayı Toplantı Karar Özeti",
+  "decision_date": null,
+  "index_date": "2024-05-31",
+  "date_precision": "month",
+  "period": "Mayıs 2024",
+  "source": "https://www.nallihan.bel.tr/belediye/meclis-kararlari",
+  "official_page": null,
+  "official_document": "https://assets.nallihan.bel.tr/nallihanbld/meclis-kararlari/643ce01a-2d4a-d9e8-7fd0-ddaf1b17b48d.pdf",
+  "source_sha256": "e1635b955000f272066c3b23fffdd81f02ea908a064ecc24af22e31faca89ef7",
+  "issuer": "Nallıhan Belediye Meclisi",
+  "history_type": "metadata",
+  "text_status": "metadata-only: listing fields as published; the decisions are in the linked official document(s) or page, not transcribed",
+  "in_force": "2024-05-31",
+  "in_force_basis": "The official listing gives only the month of this official file (Mayıs 2024); date set to the last day of that month (turkey-law date convention for month-only sources); exact adoption dates are in the linked official document; legal commencement not asserted",
+  "missing": [
+    "decision numbers, dates and subjects",
+    "complete official decision text",
+    "official annexes"
+  ],
+  "law_text_complete": false,
+  "privacy_withheld": false,
+  "listing_label": "Belediye Meclisi 2024 Mayıs Ayı Toplantı Karar Özeti",
+  "record_scope": "one official file of council decisions (meeting or month)",
+  "list_date": "1 Mayıs 2024"
+}
