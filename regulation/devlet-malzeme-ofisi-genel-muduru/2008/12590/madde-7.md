@@ -1,0 +1,2 @@
+Numune alma komisyonlarının kuruluşu
+MADDE 7 – (1) Geçici tesellüm tutanağı ile depolara geçici tesellümü yapılan maldan, parti numunelerinin alınması işlemini yürütecek numune alma komisyonları, Genel Müdürlükçe belirlenen biri başkan ve iki üye olmak üzere en az üç kişiden oluşturulur. Komisyon başkan ve üyelerinin herhangi bir nedenle bulunmaması halinde, yerlerine kimlerin katılacağı merkezde Kalite Kontrol Daire Başkanı, taşrada ünite müdürü tarafından belirlenir.

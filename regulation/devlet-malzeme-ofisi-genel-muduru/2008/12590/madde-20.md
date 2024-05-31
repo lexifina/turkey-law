@@ -1,0 +1,3 @@
+İtiraz muayenesi
+MADDE 20 – (1) Muayenesi sonucunda reddedilen mal yüklenicinin itirazı halinde; itiraz edilen hususlar üzerinde muayene komisyonunca saklı tutulan, bunun mümkün olmaması halinde maldan yeniden alınan numuneler üzerinde Ofisin göstereceği resmî bir kuruluşa ikinci bir muayene yaptırılır. Muayeneye mümkün olduğu takdirde Ofis temsilcisi de iştirak edebilir.
+(2) İtiraz muayenesi için yapılacak masraflar yüklenici tarafından karşılanır. İtiraz muayenesi sonucu düzenlenen rapor kesindir. Anlaşmazlığın mahkemelere intikali halinde gerek yüklenici ve gerekse Ofis bu raporu nihai belge olarak kabul eder ve muayene ile ilgili başkaca bir delil ileri süremezler.
