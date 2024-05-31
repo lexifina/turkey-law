@@ -1,0 +1,25 @@
+{
+  "number": "meeting-05-31",
+  "number_as_published": "meeting-05-31",
+  "year": 2024,
+  "title": "Meclis Kararı 31.05.2024 Tarihli Meclis Kararı 31.05.2024 Tarihli Meclis Kararı Detay Gör",
+  "decision_date": "2024-05-31",
+  "source": "https://www.kursunlu.bel.tr/karar/31-05-2024-tarihli-meclis-karari",
+  "official_document": "https://www.kursunlu.bel.tr/karar/31-05-2024-tarihli-meclis-karari",
+  "source_sha256": "b92cb7a3b46cf50cfe5b102ff2d7442b22a1f4f8a9e4e87a26a30ff84a9a5d62",
+  "issuer": "Kurşunlu Belediye Meclisi",
+  "history_type": "metadata",
+  "text_status": "metadata-only: listing fields as published; complete decision text is in the linked official document, not transcribed",
+  "in_force": "2024-05-31",
+  "in_force_basis": "Decision date as printed in the official council listing: 31.05.2024; adoption date of the council decision; legal commencement not asserted",
+  "missing": [
+    "complete official decision text",
+    "official annexes"
+  ],
+  "law_text_complete": false,
+  "privacy_withheld": false,
+  "listing_label": "Meclis Kararı 31.05.2024 Tarihli Meclis Kararı 31.05.2024 Tarihli Meclis Kararı Detay Gör",
+  "record_scope": "one official file of council decisions (meeting)",
+  "official_page": "https://www.kursunlu.bel.tr/karar/31-05-2024-tarihli-meclis-karari",
+  "document_note": "the decisions are published on the official page itself as 1 scanned image(s); not transcribed here"
+}
