@@ -1,0 +1,21 @@
+Trampaya konu edilemeyecek Hazine taşınmazları
+MADDE 8 – (1) Hazine taşınmazlarından;
+a) Kamu hizmetlerine tahsisli bulunan,
+b) Devletin hüküm ve tasarrufu altında olup tapuda Hazine adına tescil edilmeleri mümkün olmayan,
+c) 3621 sayılı Kıyı Kanunu kapsamında bulunan,
+ç) 2863 sayılı Kültür ve Tabiat Varlıklarını Koruma Kanunu kapsamında olup, Bakanlıkça, bu amaçla trampası uygun görülmeyen,
+d) 2873 sayılı Milli Parklar Kanunu uyarınca milli park, tabiat parkı, tabiat anıtı ve tabiatı koruma alanları içinde kalması nedeniyle (Değişik ibare:RG-31/5/2024-32562) Tarım ve Orman Bakanlığına tahsisi gereken,
+e) 3083 sayılı Sulama Alanlarında Arazi Düzenlenmesine Dair Tarım Reformu Kanununa göre uygulama alanı ilan edilen bölgelerde kalan ve Tarım Reformu Genel Müdürlüğünce trampası uygun görülmeyen,
+f) 2565 sayılı Askeri Yasak Bölgeler ve Güvenlik Bölgeleri Kanunu kapsamında kalıp Genelkurmay Başkanlığınca trampası uygun görülmeyen,
+g) 6831 sayılı Orman Kanunu kapsamında kalan taşınmazlar ile 17/10/1983 tarihli ve 2924 sayılı Orman Köylülerinin Kalkınmalarının Desteklenmesi Hakkında Kanun hükümleri gereğince (Değişik ibare:RG-31/5/2024-32562) Tarım ve Orman Bakanlığı emrine geçen,
+ğ) Hazineye ait olmayanlarla tevhit şartı olanlar ile Hazinenin hissedar olduğu taşınmazlar hariç 2634 sayılı Turizmi Teşvik Kanunu kapsamında kalması nedeniyle (Değişik ibare:RG-31/5/2024-32562) Bakanlığa tahsisi gereken,
+h) 24/2/1984 tarihli ve 2981 sayılı İmar ve Gecekondu Mevzuatına Aykırı Yapılara Uygulanacak Bazı İşlemler ve 6785 sayılı İmar Kanununun Bir Maddesinin Değiştirilmesi Hakkında Kanun hükümlerine göre tapu tahsis belgesi verilen,
+ı) 7269 sayılı Umumi Hayata Müessir Afetler Dolayısıyla Alınacak Tedbirlerle Yapılacak Yardımlara Dair Kanun kapsamında kalması nedeniyle (Değişik ibare:RG-31/5/2024-32562) Çevre, Şehircilik ve İklim Değişikliği Bakanlığına tahsisi gereken,
+i) 4342 sayılı Mera Kanunu kapsamında kalan,
+j) Teferruğ yoluyla edinilen ve edinme tarihinden itibaren bir yıl geçmeyen,
+k) Kamulaştırma yoluyla edinilip 2942 sayılı Kamulaştırma Kanununun 23 üncü maddesinde yazılı süresi dolmayan,
+l) Özel kanun hükümleri gereği kamu kurum ve kuruluşlarına tahsisi, devri, terki ve kullanım hakkı verilmesi gereken,
+m) Elbirliği halindeki mülkiyet durumu paylı mülkiyete dönüştürülmeyen,
+n) İlgili idare tarafından bu hizmette kullanılmayacağı belirtilen taşınmazlar hariç, imar planlarında bir kamu hizmeti için ayrılmış olan,
+o) Kısmi satın alma talebi olan ancak, ifrazı Hazine lehine olmayan,
+taşınmazlar trampaya konu edilemez.
