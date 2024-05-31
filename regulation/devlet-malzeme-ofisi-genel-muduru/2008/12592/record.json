@@ -1,0 +1,53 @@
+{
+  "source_id": "7.5.12592",
+  "kind": "regulation",
+  "register_kind": "Kurum ve Kuruluş Yönetmelikleri",
+  "title": "DEVLET MALZEME OFİSİ SATINALMA YÖNETMELİĞİ",
+  "number": "12592",
+  "issuer": "Devlet Malzeme Ofisi Genel Müdürü",
+  "issuer_slug": "devlet-malzeme-ofisi-genel-muduru",
+  "path": "regulation/devlet-malzeme-ofisi-genel-muduru/2008/12592",
+  "source": "https://www.mevzuat.gov.tr/anasayfa/MevzuatFihristDetayIframe?MevzuatTur=7&MevzuatNo=12592&MevzuatTertip=5",
+  "source_sha256": "29c1cde53fa2c0a007cc9a1d13521f34327d7ed4e7d1322cf510708c5731a6a9",
+  "source_bytes": 106317,
+  "published": "2008-11-14",
+  "gazette": "27054",
+  "in_force": "2024-05-31",
+  "in_force_basis": "latest Resmî Gazete date printed in the source amendment notes/table (\"RG-31/5/2024\") for the current consolidated text",
+  "date_evidence": [
+    [
+      "2024-05-31",
+      "RG-31/5/2024",
+      "Resmî Gazete date printed in the source amendment note"
+    ],
+    [
+      "2024-05-31",
+      "31/5/2024",
+      "Resmî Gazete date in the source amendment table"
+    ],
+    [
+      "2011-11-29",
+      "RG-29/11/2011",
+      "Resmî Gazete date printed in the source amendment note"
+    ],
+    [
+      "2011-11-29",
+      "29/11/2011",
+      "Resmî Gazete date in the source amendment table"
+    ]
+  ],
+  "commencement_clauses": [
+    "Bu Yönetmelik yayımı tarihinde yürürlüğe girer"
+  ],
+  "history": "current-text",
+  "label": "oldest version available",
+  "checked_on": "2026-11-15",
+  "word_count": 5632,
+  "text_status": "current-consolidated",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  },
+  "completeness": "html-text-complete"
+}

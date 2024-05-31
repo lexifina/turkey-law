@@ -1,0 +1,4 @@
+Katalog komisyonu
+MADDE 9 – (1) (Değişik:RG-31/5/2024-32562) Katalog komisyonu, Genel Müdür tarafından görevlendirilecek genel müdür yardımcısının başkanlığında, satınalma daire başkanları ve belirlenecek diğer daire başkanlarından oluşur.
+(2) (Değişik:RG-31/5/2024-32562) Katalog komisyonunca, katalog tip sözleşmelerinin hazırlanmasına, katalogda yer alacak ürün gruplarının belirlenmesine, tedarikçilerde ve ürünlerde aranılacak şartların belirlenmesine ilişkin çalışmalar ile birden fazla satınalma daire başkanlığını ilgilendiren hususlara ve fiyat tespitine ilişkin usul ve esaslara yönelik çalışmalar ile katalog süreçlerine ilişkin Genel Müdür tarafından verilecek diğer görevler yürütülür.
+(3) Katalog Komisyonu ile ilgili diğer hususlar 13 üncü maddenin birinci fıkrası ile 16 ncı maddenin birinci fıkrasının (ç) bendinde belirtilen usul ve esaslara tabidir.

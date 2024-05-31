@@ -1,0 +1,2 @@
+Katalog siparişi usulü (Değişik başlık:RG-31/5/2024-32562)
+MADDE 24 – (1) Genel Müdürlükçe belirlenen parasal tutarı veya miktarı aşmayan ve Yönetim Kurulunca onaylanan açık satışlara ait satınalma sözleşmesi, protokol ve çerçeve anlaşma hükümleri dahilinde, bu kapsamda yer alan mal ve hizmetlerin, (Mülga ibare:RG-31/5/2024-32562) yüklenici firmaya sipariş verilmek suretiyle temin edilmesi usulüdür.
