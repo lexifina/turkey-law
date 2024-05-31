@@ -1,0 +1,28 @@
+{
+  "number": "month-05-7",
+  "year": 2024,
+  "month": 5,
+  "title": "Seben Belediyesi Meclis Kararları 2024-41.2 (Mayıs 2. Birleşim)",
+  "decision_date": null,
+  "index_date": "2024-05-31",
+  "date_precision": "month",
+  "period": "Mayıs 2024",
+  "source": "https://seben.bel.tr/kurumsal/meclis-kararlari/",
+  "official_page": null,
+  "official_document": "https://seben.bel.tr/dacegug/2024/10/Seben-Belediyesi-Meclis-Kararlari-2024-41.2-Mayis-2.-Birlesim.pdf",
+  "source_sha256": "ffe1a1f2aed80d4c3c302290de88f84892fcbf786701be96ad52f99790c0967b",
+  "issuer": "Seben Belediye Meclisi",
+  "history_type": "metadata",
+  "text_status": "metadata-only: listing fields as published; the decisions are in the linked official document(s) or page, not transcribed",
+  "in_force": "2024-05-31",
+  "in_force_basis": "The official listing gives only the month of this official file (Mayıs 2024); date set to the last day of that month (turkey-law date convention for month-only sources); exact adoption dates are in the linked official document; legal commencement not asserted",
+  "missing": [
+    "decision numbers, dates and subjects",
+    "complete official decision text",
+    "official annexes"
+  ],
+  "law_text_complete": false,
+  "privacy_withheld": false,
+  "listing_label": "Seben Belediyesi Meclis Kararları 2024-41.2 (Mayıs 2. Birleşim)",
+  "record_scope": "one official file of council decisions (meeting or month)"
+}
