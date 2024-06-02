@@ -1,0 +1,46 @@
+{
+  "source_id": "7.5.31468",
+  "kind": "regulation",
+  "register_kind": "Kurum ve Kuruluş Yönetmelikleri",
+  "title": "TAŞKIN VE RÜSUBAT KONTROLÜ YÖNETMELİĞİ",
+  "number": "31468",
+  "issuer": "Devlet Su İşleri Genel Müdürü",
+  "issuer_slug": "devlet-su-isleri-genel-muduru",
+  "path": "regulation/devlet-su-isleri-genel-muduru/2019/31468",
+  "source": "https://www.mevzuat.gov.tr/anasayfa/MevzuatFihristDetayIframe?MevzuatTur=7&MevzuatNo=31468&MevzuatTertip=5",
+  "source_sha256": "714db4368c07a52bd04c32c4a082f279b5a6a604e81b1ed25e7bc7c418817f67",
+  "source_bytes": 84818,
+  "published": "2019-05-03",
+  "gazette": "30763",
+  "in_force": "2024-06-02",
+  "in_force_basis": "latest Resmî Gazete date printed in the source amendment notes/table (\"RG-2/6/2024\") for the current consolidated text",
+  "date_evidence": [
+    [
+      "2024-06-02",
+      "RG-2/6/2024",
+      "Resmî Gazete date printed in the source amendment note"
+    ],
+    [
+      "2024-06-02",
+      "2/6/2024",
+      "Resmî Gazete date in the source amendment table"
+    ]
+  ],
+  "commencement_clauses": [
+    "Bu Yönetmelik yayımı tarihinde yürürlüğe girer"
+  ],
+  "history": "current-text",
+  "label": "oldest version available",
+  "checked_on": "2026-11-15",
+  "word_count": 3948,
+  "text_status": "current-consolidated",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  },
+  "source_links": [
+    "7.5.31468-Ek.docx"
+  ],
+  "completeness": "html-text-complete; linked annexes not fetched"
+}

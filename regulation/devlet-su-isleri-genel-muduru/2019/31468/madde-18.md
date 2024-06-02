@@ -1,0 +1,2 @@
+Akarsu yataklarında ıslah öncesi yer teslimi
+MADDE 18 – (1) DSİ tarafından yapılacak akarsu ıslahlarının projesine göre yapılabilmesi için; bu alanlardan belediye ve mücavir alan sınırları içinde bulunanlar, ilgili belediyelerce DSİ’ye ihtilafsız olarak teslim edilir. Bu alanların dışında kalan yerlerin ise DSİ’ye tesliminin sağlanması hususunda gerekli çalışmalar valilik koordinasyonunda yürütülür.

@@ -1,0 +1,6 @@
+MADDE 9 – (1) Bağlamalarda dolusavak boyutları yüz yıl tekerrürlü taşkın debisine göre belirlenir.
+(2) Yerleşim yerleri dışında inşa edilecek ıslah sekisi ve tersip bentlerinin dolusavaklarının boyutları elli yıl tekerrürlü taşkın debisine göre belirlenir.
+(3) Yerleşim yerlerinde, yıkılmaları halinde can kaybının olabileceği, devamlı ve yüksek sarfiyatların olduğu akarsularda inşa edilecek ıslah sekisi ve tersip bentlerinin dolusavaklarının boyutları beş yüz yıl tekerrürlü taşkın debisine göre belirlenir. Mansap tesisi giriş yapısı niteliğindeki ıslah sekisi ve tersip bentlerinin dolusavakları, mansaptaki taşkın kontrol tesisi kapasitesi ile uyumlu olacak şekilde boyutlandırılır.
+(4) Debi ve yatak genişliğine göre dolusavak yüksekliği belirlenir. Dolusavak yüksekliği azami ikibuçuk metre alınır ve dolusavak üst genişliği, yatak genişliğini geçmeyecek şekilde seçilir.
+(5) Geçirgen tersip bentlerinin dolusavakları, geçirgenliği sağlayan aralıkların dolma, tıkanma durumları da göz önünde bulundurularak diğer tersip bentleri ile aynı şekilde boyutlandırılır.
+(6) Islah sekileri ve tersip bentlerinde, yapının kanat duvarlarının üst kotu, derenin şev üstü kotundan daha düşük seviyede olacak şekilde seçilir.

@@ -1,0 +1,6 @@
+Menfezlerde proje debisinin seçimi ve temel hidrolik tasarım kriterleri
+MADDE 12 – (1) Menfezler mümkün olduğu kadar akarsuların tabii yataklarının sahip olduğu eğimde ve eksende yerleştirilir.
+(2) Meskun mahaller içerisinde menfez yapılırken yüz yıl tekerrürlü taşkın debisine karşılık gelen su yüksekliğine (h), hava payı (Hp) eklenerek hesaplanan yükseklik, beş yüz yıl tekerrürlü taşkın debisine karşılık gelen su yüksekliği ile karşılaştırılarak büyük olan değer alınır. Taşkından etkilenecek nüfusun büyüklüğü ve muhtemel ekonomik kayıplar dikkate alınarak, bin yıl tekerrürlü debi taşkın debisi olarak seçilebilir.
+(3) Meskun mahaller dışında menfez yapılırken on yıl tekerrürlü taşkın debisine karşılık gelen su yüksekliğine (h), hava payı (Hp) eklenerek hesaplanan yükseklik, elli yıl tekerrürlü taşkın debisine karşılık gelen su yüksekliği ile karşılaştırılarak büyük olan değer alınır.
+(4) Akarsularla taşınan rüsubatın, menfezde kapasite kayıplarına sebebiyet vermesi durumu göz önünde bulundurularak hava payı daha büyük tutulur.
+(5) Menfezler; menfez önündeki su yüksekliği, membada her iki sahildeki dolgu yüksekliğini geçmeyecek şekilde gerekli kabarma hesapları da yapılarak projelendirilir.
