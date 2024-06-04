@@ -1,0 +1,25 @@
+{
+  "number": "meeting-06-04",
+  "number_as_published": "meeting-06-04",
+  "year": 2024,
+  "title": "ÜNYE BELEDİYE MECLİSİNİN 04.06.2024 GÜNÜ YAPTIĞI OLAĞAN TOPLANTI KARARLARI",
+  "decision_date": "2024-06-04",
+  "source": "https://www.unye.bel.tr/duyuru/unye-belediye-meclisinin-04-06-2024-gunu-yaptigi-olagan-toplanti-kararlari/",
+  "official_document": "https://www.unye.bel.tr/duyuru/unye-belediye-meclisinin-04-06-2024-gunu-yaptigi-olagan-toplanti-kararlari/",
+  "source_sha256": "5304444e08bdca6342143823a321f856d57de196fd1ac00654b59d28613a35d5",
+  "issuer": "Ünye Belediye Meclisi",
+  "history_type": "metadata",
+  "text_status": "metadata-only: listing fields as published; complete decision text is in the linked official document, not transcribed",
+  "in_force": "2024-06-04",
+  "in_force_basis": "Decision date as printed in the official council listing: 04.06.2024; adoption date of the council decision; legal commencement not asserted",
+  "missing": [
+    "complete official decision text",
+    "official annexes"
+  ],
+  "law_text_complete": false,
+  "privacy_withheld": false,
+  "listing_label": "ÜNYE BELEDİYE MECLİSİNİN 04.06.2024 GÜNÜ YAPTIĞI OLAĞAN TOPLANTI KARARLARI",
+  "record_scope": "one official file of council decisions (meeting)",
+  "official_page": "https://www.unye.bel.tr/duyuru/unye-belediye-meclisinin-04-06-2024-gunu-yaptigi-olagan-toplanti-kararlari/",
+  "document_note": "the decisions are published as text on the official page itself (no separate file); not transcribed here"
+}
