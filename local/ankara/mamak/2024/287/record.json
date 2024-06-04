@@ -1,0 +1,35 @@
+{
+  "number": "287",
+  "number_as_published": "287",
+  "year": 2024,
+  "title": "Norm Kadro İlke ve Standartlarına uygun olarak hazırlanan Muhtelif Müdürlüklerin Yönetmeliklerine ilişkin Meclis Kararı",
+  "decision_date": "2024-06-04",
+  "source": "https://www.mamak.bel.tr/gundem/GetKararlar",
+  "official_document": "https://www.mamak.bel.tr/gundem/DosyaDownload?guid=6fdef92d-ff53-4071-b873-a35ec740a0d7",
+  "source_sha256": "f554089df68731558a37947c976f196303cdbdc5704c52cb6912834ca94730d3",
+  "issuer": "Mamak Belediye Meclisi",
+  "history_type": "metadata",
+  "text_status": "metadata-only: listing fields as published; complete decision text is in the linked official document, not transcribed",
+  "in_force": "2024-06-04",
+  "in_force_basis": "Decision date as printed in the official council listing: 2024-06-04T00:00:00 (kararTarihi of the official register); adoption date of the council decision; legal commencement not asserted",
+  "missing": [
+    "complete official decision text",
+    "official annexes"
+  ],
+  "law_text_complete": false,
+  "privacy_withheld": false,
+  "listing_page": "https://www.mamak.bel.tr/gundem/kararlar",
+  "register_api": "https://www.mamak.bel.tr/gundem/GetKararlar",
+  "official_documents": [
+    "https://www.mamak.bel.tr/gundem/DosyaDownload?guid=6fdef92d-ff53-4071-b873-a35ec740a0d7",
+    "https://www.mamak.bel.tr/gundem/DosyaDownload?guid=cefea4b3-24f9-4ce2-8a64-d9e66847a20b",
+    "https://www.mamak.bel.tr/gundem/DosyaDownload?guid=9af17ef8-2ed3-4c88-9d48-af921f814829",
+    "https://www.mamak.bel.tr/gundem/DosyaDownload?guid=c5a5652c-fd09-4364-890d-ca96f795a43c",
+    "https://www.mamak.bel.tr/gundem/DosyaDownload?guid=f6026787-63bd-4bd9-b39d-cfaa19bc9fa9",
+    "https://www.mamak.bel.tr/gundem/DosyaDownload?guid=d8d7eb2c-4aba-4cca-bec9-43befe6f9bdf",
+    "https://www.mamak.bel.tr/gundem/DosyaDownload?guid=9dd8522f-7cff-4ec0-b756-11426d3f61b6",
+    "https://www.mamak.bel.tr/gundem/DosyaDownload?guid=1791e9cb-8cfd-46bf-8432-7890d43ab350",
+    "https://www.mamak.bel.tr/gundem/DosyaDownload?guid=3a632e44-dffb-4a67-9f44-5490472962a7",
+    "https://www.mamak.bel.tr/gundem/DosyaDownload?guid=c6cab0b8-ef6b-49da-888e-93e3162db8a9"
+  ]
+}
