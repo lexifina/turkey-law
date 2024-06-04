@@ -1,0 +1,26 @@
+{
+  "number": "17",
+  "number_as_published": "17",
+  "year": 2024,
+  "title": "Belediyemiz adına kayıtlı Atatürk 113 ada, 19-20 parseller ile Cumhuriyet Mahallesi 155 ada, 1 parsel numaralı arsa vasfındaki taşınmazların satışının yapılması hk",
+  "decision_date": "2024-06-04",
+  "source": "https://www.mollakoy.bel.tr/meclis-kararlari/sayfa/5/",
+  "official_document": "https://www.mollakoy.bel.tr/karar/belediyemiz-adina-kayitli-ataturk-113-ada-1920-parseller-ile-cumhuriyet-mahallesi-155-ada-1-parsel-numarali-arsa-vasfindaki-tasinmazlarin-satisinin-yapilmasi-hk/71/",
+  "source_sha256": "51566dabaa53db4382d28f1dbd58ab102643d8a75b16e8a23ee72c6e5d93f0eb",
+  "issuer": "Mollaköy Belediye Meclisi",
+  "history_type": "metadata",
+  "text_status": "metadata-only: listing fields as published; complete decision text is in the linked official document, not transcribed",
+  "in_force": "2024-06-04",
+  "in_force_basis": "Decision date as printed in the official council listing: Meclisi 04.06.2024; adoption date of the council decision; legal commencement not asserted",
+  "missing": [
+    "complete official decision text",
+    "official annexes"
+  ],
+  "law_text_complete": false,
+  "privacy_withheld": false,
+  "official_page": "https://www.mollakoy.bel.tr/karar/belediyemiz-adina-kayitli-ataturk-113-ada-1920-parseller-ile-cumhuriyet-mahallesi-155-ada-1-parsel-numarali-arsa-vasfindaki-tasinmazlarin-satisinin-yapilmasi-hk/71/",
+  "listing_label": "Belediyemiz adına kayıtlı Atatürk 113 ada, 19-20 parseller ile Cumhuriyet Mahallesi 155 ada, 1 parsel numaralı arsa vasfındaki taşınmazların satışının yapılması hk",
+  "record_scope": "one council decision (number, date, subject as published)",
+  "date_read_from": "meeting date in the decision text (the item's Karar Tarihi field carries a clock time)",
+  "document_note": "the decision text is on the official item page; not transcribed here"
+}
