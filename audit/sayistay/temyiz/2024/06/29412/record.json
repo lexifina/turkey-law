@@ -1,0 +1,16 @@
+{
+  "kind": "decision",
+  "issuer": "Sayıştay Temyiz Kurulu",
+  "number": "56909",
+  "decision_date": "2024-06-05",
+  "source_id": 29412,
+  "chamber": "7",
+  "file_number": "51409",
+  "public_body_type": "Belediyeler ve Bağlı İdareler",
+  "account_year": "2019",
+  "subject": "Personel Mevzuatı ile İlgili Kararlar",
+  "source": "https://www.sayistay.gov.tr/KararlarTemyiz/Detay/29412/",
+  "source_sha256": "458866854a4f7e8342ee3342f7b89e4e808fef28c5d5be9e6e342ade8345080d",
+  "text_status": "as-enacted",
+  "text_file": "metin.md"
+}
