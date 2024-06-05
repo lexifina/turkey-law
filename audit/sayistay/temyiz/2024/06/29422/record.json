@@ -1,0 +1,15 @@
+{
+  "kind": "decision",
+  "issuer": "Sayıştay Temyiz Kurulu",
+  "number": "56919",
+  "decision_date": "2024-06-05",
+  "source_id": 29422,
+  "chamber": "7",
+  "file_number": "51296",
+  "public_body_type": "Belediyeler ve Bağlı İdareler",
+  "account_year": "2019",
+  "source": "https://www.sayistay.gov.tr/KararlarTemyiz/Detay/29422/",
+  "source_sha256": "5279ff16830f7d1023b083417b44b667e440eeee07f438313baff02ce814c903",
+  "text_status": "as-enacted",
+  "text_file": "metin.md"
+}
