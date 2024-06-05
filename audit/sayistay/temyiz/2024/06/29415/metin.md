@@ -1,0 +1,7 @@
+Konu: Belediye şirketlerinden yapılan doğrudan hizmet alımları kapsamında çalıştırılan işçilerin ücretlerine mevzuatta yeri olmamasına rağmen şirketler tarafından yapılan seyyanen zam tutarının Belediye bütçesinden ödenmesi.
+
+157 İlam sayılı Daire Kararının 3’üncü maddesiyle, Belediye 157 İlam sayılı Daire Kararının 3’üncü maddesiyle, Belediye şirketlerinden yapılan doğrudan hizmet alımları kapsamında çalıştırılan işçilerin ücretlerine mevzuatta yeri olmamasına rağmen şirketler tarafından yapılan seyyanen zam tutarının Belediye bütçesinden ödenmesi sonucu oluşan … TL kamu zararının sorumlulara ödettirilmesine hükmedilmiştir. Kararda sorumlu tutulanlar: Belediye Başkanı, toplu iş sözleşmesinde imzaları bulunan veya görüşmelere katılmış olan üç başkan yardımcısı, ödeme emri belgelerinde imzaları bulunan harcama yetkilisi ve gerçekleştirme görevlileridir.
+
+482 Karar-157 İlam sayılı Daire Kararının 3’üncü maddesi ile verilen hüküm, sorumlulukta harcama yetkilisi sıfatıyla iştiraki bulunan … (Mühendis)’ün başvurusu üzerine düzenlenen 05.06.2024 tarih ve 56908 tutanak sayılı Temyiz Kurulu Kararı ile Bozulduğundan, sorumlular … ve diğer 15 kişinin bu madde ile ilgili temyiz başvurusu üzerine Kurul tarafından Yapılacak İşlem Olmadığına; ancak aynı mahiyette olan bu dosyanın, gereği yapılmak üzere 51411 sayılı dosya ile Birleştirilerek Dairesine Gönderilmesine, oy birliğiyle,
+
+Karar verildiği 05.06.2024 tarih ve 56912 sayılı tutanakta yazılı olmakla işbu ilam tanzim kılındı.
