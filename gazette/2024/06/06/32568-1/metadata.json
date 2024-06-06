@@ -1,0 +1,20 @@
+{
+  "record_type": "gazette-item",
+  "gazette": "Resmî Gazete",
+  "jurisdiction": "TR",
+  "date": "2024-06-06",
+  "issue": "32568",
+  "edition": "regular",
+  "item": 1,
+  "section": "YASAMA BÖLÜMÜ",
+  "heading": "KANUNLAR",
+  "title": "7512 Dışişleri Teşkilatını Güçlendirme Vakfı Kanunu",
+  "official_link": "https://www.resmigazete.gov.tr/eskiler/2024/06/20240606-1.htm",
+  "link_format": "htm",
+  "index_url": "https://www.resmigazete.gov.tr/eskiler/2024/06/20240606.htm",
+  "index_sha256": "a7aa80705d64c2c68b5ee87cecff4073b2ee27078ba8d037958fea8662e8a548",
+  "index_header": "6 Haziran 2024 ... 32568 Sayılı Resmî Gazete",
+  "issue_pdf": "https://www.resmigazete.gov.tr/eskiler/2024/06/20240606.pdf",
+  "in_force_basis": "Resmî Gazete publication date; not a commencement reading.",
+  "text_status": "metadata-only; text not yet fetched (follow-up pass adds it as its own commit)"
+}
