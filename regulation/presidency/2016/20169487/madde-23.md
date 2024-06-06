@@ -1,0 +1,5 @@
+Öğrencilerin tatillerde barındırılması
+MADDE 23- (1) Parasız yatılı öğrencilerin ihtiyaç halinde ara tatil, yarıyıl ve yaz tatillerinde de pansiyonlarda barındırılmalarına ve pansiyon hizmetlerinden yararlandırılmalarına devam edilir.[15]
+(2) Ara tatil, yarıyıl ve yaz tatillerinde ilgili mevzuatı doğrultusunda açılan kurslara devam eden öğrenciler ile işletmelerde mesleki eğitim veya staj yapan öğrencilerden barınma ihtiyacı olan gündüzlü veya paralı yatılı öğrenciler, okul pansiyon ücretinin merkezi yönetim bütçe kanununda belirlenen miktarın günlük maliyeti üzerinden hesaplanan bedelini ödemek kaydıyla kurs/eğitim süresince pansiyondan yararlandırılır.[16]
+(3) Pansiyonda kalacak öğrenci sayısının elliden az olması halinde okul müdürlüklerince tatillerin başlama tarihinden en az on iş günü önce bu öğrencilerin listeleri, il veya ilçe yatılılık ve bursluluk komisyonuna gönderilir. Komisyon, belirlediği pansiyonlarda bu öğrencilerin barınmalarını ve pansiyon hizmetlerinden yararlanmalarını sağlar.16
+(4) Öğrencilerin yaz tatillerindeki faaliyetleri, il veya ilçe yatılılık ve bursluluk komisyonunca hazırlanan programlara göre yürütülür.

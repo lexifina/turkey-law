@@ -1,0 +1,2 @@
+Diğer burslardan yararlanma
+MADDE 19- (1) Parasız yatılı veya burslu okuma imkânlarından faydalanan öğrenciler, başka resmi kurum ve kuruluşlarca verilen bursu seçtikleri takdirde bu Yönetmelikte öngörülen parasız yatılı veya burslu okuma haklarından faydalanamazlar. Resmi kurum ve kuruluşlarca verilen bursu tercih eden öğrencilerin parasız yatılılık veya burslulukları öğrenim gördükleri okul müdürlüklerince sona erdirilir.

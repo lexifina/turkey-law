@@ -1,0 +1,4 @@
+Pansiyonda ücretli yemek yiyecekler
+MADDE 53- (1) Pansiyonların bağlı bulundukları okulların öğretmenleri, memurları ve hizmetlileri ile gündüzlü öğrencileri her gün için kişi başına düşen günlük ücretin %55’ini ödemek şartıyla pansiyon tabelasına dahil olarak öğle yemeği yiyebilirler.
+(2) Yemek paraları her aybaşında peşin alınır. Resmi tatil günleri ile yemek yenilmeyen günler bu hesaba dahil edilmez. Bu suretle yemek parası vermiş olanlara yenilmeyen öğünler için paraları geri verilmez veya ertesi aya devrolunmaz. Ancak okul bir hafta veya daha fazla süreyle tatil edilirse bu günlere isabet eden ve alınan ücret bir sonraki ayın hesabına aktarılır.
+(3) Maarif müfettişleri ve Bakanlıkça görevlendirilenler ile diğer okullardan gelen öğretmen ve öğrenci grupları, günlük tabela ücretinin tamamını ödeyerek pansiyonda yemek yiyebilir.

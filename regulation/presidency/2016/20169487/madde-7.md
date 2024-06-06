@@ -1,0 +1,15 @@
+İl ve ilçe yatılılık ve bursluluk komisyonlarının oluşumu ve görevleri
+MADDE 7- (1) İl ve ilçe yatılılık ve bursluluk komisyonları; millî eğitim müdürlükleri bünyesinde her ders yılı sonunda millî eğitim müdürünün görevlendireceği müdür yardımcısının veya şube müdürünün başkanlığında; Ortaöğretim Genel Müdürlüğü, Mesleki ve Teknik Eğitim Genel Müdürlüğü, Din Öğretimi Genel Müdürlüğü, Özel Eğitim ve Rehberlik Hizmetleri Genel Müdürlüğü ve Temel Eğitim Genel Müdürlüğüne bağlı okul veya kurumlardan seçilen birer okul müdüründen oluşturulur. Görev süresi bir sonraki ders yılı sonuna kadar devam eder. Komisyonlarda görevlendirilen okul müdürlerinin tamamının pansiyonlu okullardan olması, yeterli sayıda pansiyonlu okul bulunmaması halinde ise en az birinin pansiyonlu okul müdürü olması esastır.
+(2) İl ve ilçe yatılılık ve bursluluk komisyonları, yatılılık ve burslulukla ilgili ildeki veya ilçedeki iş ve işlemleri yürütmek üzere haziran ayı içinde toplanarak millî eğitim müdürlüğünün koordinesinde yapılan çalışma takvimine göre bir yıl süre ile çalışır.
+(3) İl ve ilçe yatılılık ve bursluluk komisyonlarının görevleri şunlardır:
+a) Okul yönetimlerince sınıflara göre yatılı ve burslu öğrenci bilgilerinin e-Okul/e-Mesem sistemi üzerinden veri girişlerinin yapılmasını sağlamak.[5]
+b) (Mülga:RG-6/6/2024-32568-CK-8625/5 md.)
+c) Paralı veya parasız yatılılığa yerleştirilecek öğrenciler ile bursluluğu kazanan öğrencilerin iş ve işlemlerinin zamanında yapılmasını sağlamak.
+ç) Ortaöğretimde yatılılık ihtiyaçlarının karşılanması amacıyla pansiyonlardaki boş kontenjanlara bu Yönetmelikteki yerleştirme esaslarına göre öğrenci yerleştirmek.
+d) İllerde veya ilçelerde öğrenci taşıma uygulaması kapsamında görev yapan planlama komisyonlarınca taşıma kapsamına alınamayan ilköğretim öğrencilerini yatılı bölge ortaokulu veya yatılı bölge imam-hatip ortaokulu pansiyonlarına parasız yatılı, ortaöğretim kurumu öğrencilerini paralı veya parasız yatılı olarak yerleştirmek.
+e) Pansiyonu olmayan okullarda öğrenim gören öğrencilerden barınma ihtiyacı olanları bu Yönetmelikteki pansiyona yerleştirme esaslarına göre açık kontenjanlara yerleştirmek.5
+f) (Ek:RG-6/6/2024-32568-CK-8625/5 md.) Pansiyona yerleştirilen öğrencilerin başvuru belgelerinin aslını veya onaylı birer örneğini pansiyonlu okul müdürlüğüne göndermek.
+g) (Ek:RG-6/6/2024-32568-CK-8625/5 md.) 8/2/2007 tarihli ve 5580 sayılı Özel Öğretim Kurumları Kanunu kapsamında faaliyet gösteren okullarda öğrenim gören öğrencilerin yatılılık ve bursluluk ile ilgili iş ve işlemlerini bu Yönetmelik hükümlerine göre yürütmek.
+(4) İl ve ilçe yatılılık ve bursluluk komisyonları bu maddenin üçüncü fıkrasında belirtilenlerin dışında gelişen istisnai durumlarda gerekli tedbirleri alır.
+(5) İl ve ilçe yatılılık ve bursluluk komisyonları kararları ilgisine göre il veya ilçe millî eğitim müdürü tarafından onaylanır.
+(6) (Ek:RG-6/6/2024-32568-CK-8625/5 md.) Okul pansiyonlarında her dönemde bir defadan az olmamak üzere izleme değerlendirme çalışması yapar.

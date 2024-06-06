@@ -1,0 +1,3 @@
+Gece bekçisi ile güvenlik görevlisinin görev ve sorumlulukları
+MADDE 47- (1) Gece bekçisi ve güvenlik görevlisi veya gece bekçiliği yapmak üzere görevlendirilen hizmetliler, görevlendirildikleri nöbet süresince okul veya pansiyon binası ve tesisleri ile araç ve gerecin güvenliğini sağlamakla yükümlüdür.
+(2) Gece bekçisi ve güvenlik görevlisi veya gece bekçiliği yapmak üzere görevlendirilen hizmetliler, görevlerini nöbet talimatına göre yürütür ve okul yönetiminin vereceği diğer görevleri yapar. Bu görevlerinden dolayı okul yönetimi ile belletici veya nöbetçi belletici öğretmene karşı sorumludur.

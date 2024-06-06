@@ -1,0 +1,6 @@
+DOKUZUNCU BÖLÜM
+Sosyal Yardımlar, Parasız Yatılılık ve Burslulukla İlgili Diğer İşlemler
+Parasız yatılı öğrencilere yapılacak sosyal yardımlar
+MADDE 21- (1) Eğitim araç ve gereçleri, giyecek ve diğer ihtiyaçlarının karşılanması amacıyla her eğitim ve öğretim yılı için ekim ayı sonuna kadar ortaokul, imam-hatip ortaokulu, özel eğitim ortaokulu ve ortaöğretim öğrencilerine, (2.200) gösterge rakamının memur aylıklarına uygulanan katsayı ile çarpımı sonucu bulunan tutar üzerinden ödeme yapılır.[12]
+(2) Ortaokul, imam-hatip ortaokulu veya özel eğitim ortaokulu öğrencilerine (225), ortaöğretim öğrencilerine (275) gösterge rakamının memur aylıklarına uygulanan katsayı ile çarpımı sonucu bulunan tutarda, öğrenimleri süresince ara tatil, yarıyıl ve yaz tatilleri de dahil olmak üzere, her ay harçlık olarak ödenir.
+(3) (Ek:RG-6/6/2024-32568-CK-8625/15 md.) Ortaokul, imam-hatip ortaokulu veya özel eğitim ortaokulunu tamamlayan ve ortaöğretim kurumlarından mezun olan öğrencilerin harçlıkları ders yılının sona erdiği, 12 nci sınıfta sorumluluk sınavına kalan öğrencilerin harçlıkları ise birinci dönem sınav takvimiyle sınırlı olmak üzere sorumluluk sınavlarının yapıldığı tarihi takip eden ayın 1 inci günü kesilir.

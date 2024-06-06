@@ -1,0 +1,3 @@
+Mevcut hakların korunması
+GEÇİCİ MADDE 1- (1) Bu Yönetmeliğin yürürlüğe girdiği tarihten önce yatılı veya burslu olarak öğrenime başlayan öğrencilerin yatılılık ve burslulukları devam eder.
+(2) 2016-2017 eğitim ve öğretim yılında meslek lisesi, teknik lise, genel lise,imam-hatip lisesi program türlerinde öğrenim gören 11 inci ve 12 nci sınıf öğrencilerinden parasız yatılı öğrenim görmek isteyenler il veya ilçe yatılılık ve bursluluk komisyonlarınca değerlendirilerek bir önceki öğretim yılı yılsonu başarı puanı üstünlüğüne göre cinsiyetlerine uygun okul pansiyonlarının boş kontenjanlarına yerleştirilirler.

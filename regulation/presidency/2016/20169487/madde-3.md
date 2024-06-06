@@ -1,0 +1,22 @@
+Tanımlar
+MADDE 3- (1) Bu Yönetmeliğin uygulanmasında;
+a) Bakanlık: Millî Eğitim Bakanlığını,
+b) Belletici öğretmen: Okul pansiyonlarında görevli oldukları günlerle sınırlı olmak üzere, yatılı öğrencilerin eğitim öğretim ve gözetimleri ile ilgili iş ve işlemleri yürüten öğretmeni,
+c) Burslu öğrenci: Bakanlıkça yapılan bursluluk sınavını kazanan ve bursluluk kaydını yaptıran öğrenciyi,
+ç) Ders yılı: Derslerin başladığı tarihten kesildiği tarihe kadar geçen süreyi,
+d) Etüt: Öğrencilerin, belletici öğretmen ve/veya nöbetçi belletici öğretmenin gözetim ve denetimi altında, derse ve sınavlara hazırlanma, ödev yapma, okulda öğrendiklerini pekiştirme ve benzeri etkinlikleri gerçekleştirmeleri için okul yönetimince belirlenen çalışma saatlerini,
+e) Evci öğrenci: Velinin yazılı talebi doğrultusunda bildirilen adreste okul yönetimince kalmasına izin verilen öğrenciyi,
+f) Kapasite: Bakanlık onayı ile pansiyonlarda yatılı barındırılabilecek azami öğrenci sayısını,
+g) Kılavuz: Bursluluk sınavıyla ilgili başvuru, tercih, yerleştirme ile diğer usul ve esasları kapsayan ve Bakanlıkça elektronik ortamda yayımlanan dokümanı,
+ğ) Kontenjan: Pansiyon kapasitesi dikkate alınarak okul türü ve sınıflara göre her yıl paralı veya parasız yatılı ve burslu olarak alınacak öğrenci sayısını,
+h) Nöbetçi belletici öğretmen: Gece dahil görev yapan belletici öğretmeni,
+ı) Okul: Bakanlığa bağlı örgün ve resmi ortaokullar, imam-hatip ortaokulları, ortaöğretim kurumları ile özel eğitim okullarını,
+i) Öğretim yılı: Ders yılının başladığı tarihten bir sonraki ders yılının başladığı tarihe kadar geçen süreyi,
+j) Pansiyon: Okullarda yatılı olarak öğrenim gören öğrencilerin barınma, beslenme, etüt ve diğer sosyal ihtiyaçlarının karşılandığı yeri,
+k) Paralı yatılı öğrenci: Ortaöğretim kurumları pansiyonlarında ücret karşılığında barınan örgün ve resmi ortaöğretim kurumlarında öğrenim gören öğrenciyi,
+l) Parasız yatılı öğrenci: Okullarda parasız yatılı okuma hakkı elde eden öğrenciyi,
+m) Veli: Öğrencinin annesini, babasını veya kanuni sorumluluğunu üstlenmiş kişiyi,
+n) (Ek:RG-6/6/2024-32568-CK-8625/2 md.) Düzey: İlköğretim ve ortaöğretim kademelerinin her birini,
+o) (Ek:RG-6/6/2024-32568-CK-8625/2 md.) Tür: Bakanlığa bağlı resmî ortaokul, imam-hatip ortaokulu, özel eğitim ortaokulu, özel eğitim lisesi, Anadolu lisesi, fen lisesi, sosyal bilimler lisesi, güzel sanatlar lisesi, spor lisesi, mesleki ve teknik Anadolu lisesi, çok programlı Anadolu lisesi, mesleki eğitim merkezi, mesleki ve teknik eğitim merkezi, Anadolu imam-hatip lisesi ve özel eğitim meslek lisesinin her birini,
+ö) (Ek:RG-6/6/2024-32568-CK-8625/2 md.) e-Ambar: Pansiyonlu okullarda alınan malzemelerin günlük, haftalık ve aylık maliyetlerinin yanı sıra tüketim durumlarının anlık olarak takip edildiği sistemi,
+ifade eder.

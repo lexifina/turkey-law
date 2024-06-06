@@ -1,0 +1,23 @@
+Yatılılığa yerleştirme
+MADDE 13- (Başlığı ile Birlikte Değişik:RG-6/6/2024-32568-CK-8625/9 md.)
+(1) Merkezi sınav puanıyla öğrenci alan ortaöğretim kurumlarına kayıt yaptıran ve yatılılığa başvuran öğrencilerden parasız yatılılığa başvuru ve kayıt kabul şartlarını taşıyanlar, aşağıdaki öncelik sırasına göre öğrenci ailesinin ikamet ettiği yerleşim birimi;
+a) Yurt dışında,
+b) Pansiyonlu okulun bulunduğu il dışında,
+c) Pansiyonlu okulun bulunduğu ilçe dışında,
+ç) Pansiyonlu okulun bulunduğu ilçede,
+bulunanlar, kontenjan durumu ve merkezi sınav puanı dikkate alınarak yapılacak sıralamaya göre parasız yatılı olarak kayıtlı bulundukları okula ait pansiyonlara okul müdürlüklerince yerleştirilir. Paralı yatılılığa başvuru ve kayıt kabul şartlarını taşıyanlar, beşinci fıkraya göre paralı yatılı olarak kayıtlı bulundukları okula ait pansiyonlara okul müdürlüklerince yerleştirilir. Ancak özel yetenekli öğrenciler için açılan özel eğitim ortaokulu ve liseleri ile ortaöğretim kademesinde bulunduğu ilde resmî bir okula yerleştirilemeyen özel eğitim ihtiyacı olan öğrencilerin özel eğitim meslek liselerine yatılı olarak yerleştirilmeleri ile ilgili iş ve işlemler Özel Eğitim ve Rehberlik Hizmetleri Genel Müdürlüğünce, diğer kademelerde öğrenim görecek öğrencilerle ilgili iş ve işlemler valiliklerce yürütülür.
+(2) Sınavsız öğrenci alan ortaöğretim kurumlarının pansiyonlarına;
+a) Pansiyonlu okul tercihi yaparak yerleşen ve kayıt yaptıran öğrencilerden parasız yatılılığa kayıt kabul şartlarını taşıyanlar parasız yatılı; diğerleri ise beşinci fıkraya göre, okul müdürlüklerince paralı yatılı olarak yerleştirilir.
+b) (a) bendine göre yapılan yerleştirme sonunda boş kontenjan kalması hâlinde; okul müdürlüğünce kayıtlı öğrenciler arasından yatılılık ihtiyacı olan öğrencilerin boş kontenjanlara müracaat etmeleri için duyuru yapılarak bütün sınıflar bazında yatılılık başvuruları alınır. 10 uncu maddenin beşinci fıkrasına göre sınıf bazında kontenjan dağılımı yapılarak; yatılılık başvurusunda bulunanlar, diğer kayıt alanı, komşu kayıt alanı veya kayıt alanı sıralamasına göre yerleştirilir. Eşitlik olması hâlinde; ortaokul başarı puanı yüksek olana, eşitliğin devam etmesi hâlinde sırasıyla 8 inci, 7 nci ve 6 ncı sınıflardaki yıl sonu başarı puanı üstünlüğüne, eşitliğin yine de bozulmaması hâlinde ise yaşı küçük olana öncelik verilerek yerleştirme işlemi yapılır.
+(3) Ara sınıf öğrencilerinden kayıtlı olduğu eğitim kurumuna sınav puanıyla yerleşenler birinci fıkra, sınav puanı olmaksızın yerleşenler ise ikinci fıkrada belirtilen yerleştirme esaslarına göre okul müdürlüğünce yatılılığa yerleştirilir.
+(4) Hem merkezi sınav puanı ile hem de sınavsız öğrenci alan aynı ortaöğretim kurumunun pansiyonuna; öncelikle ikinci fıkranın (b) bendine göre ortaöğretim kayıt alanı dışındaki pansiyonlu okullara tercihe bağlı olarak yerleşenler, sonra merkezi sınav puanıyla yerleşen öğrenciler, boş kontenjan kalması hâlinde ise ikinci fıkranın (b) bendine göre diğer öğrenciler yerleştirilir.
+(5) Paralı yatılı okumak isteyen öğrenci sayısının paralı yatılı kontenjanından fazla olması hâlinde başvuruda bulunanlar aşağıdaki öncelik sırasına göre yerleştirilir:
+a) Yurt dışında yaşayan Türkiye Cumhuriyeti vatandaşlarının çocukları.
+b) Ailesinin ikamet ettiği yerleşim biriminde devam edeceği düzeyde veya türde ortaöğretim kurumu bulunmayanlar.
+c) Merkezi sınavla öğrenci alan okullar için birinci fıkranın ikinci cümlesinde belirtilenler.
+ç) Sınavsız öğrenci alan okullar için ikinci fıkranın (b) bendi kapsamına girenler.
+(6) Pansiyonlu okul müdürlüğünce yapılan yatılılığa yerleştirme işlemlerinden sonra boş kontenjan kalması hâlinde; öncelikle okulun bağlı bulunduğu genel müdürlüğe bağlı diğer ortaöğretim kurumlarındaki öğrenciler, yine boş kontenjan kalması hâlinde ise diğer genel müdürlüklere bağlı ortaöğretim kurumlarının öğrencileri aynı esaslar çerçevesinde il veya ilçe yatılılık ve bursluluk komisyonları tarafından parasız veya paralı yatılı olarak yerleştirilir.
+(7) Örgün ve resmî okullarda öğrenim gören ve bu Yönetmelikte yer alan başvuru şartlarını taşıyan öğrencilerin paralı ve parasız yatılı olarak pansiyona yerleştirme işlemlerinin tamamlanmasının ardından birinci ve ikinci fıkralarda yer verilen sıralamaya göre boş kalan kontenjanların %50’sine;
+a) Ekim ayı itibarıyla 5580 sayılı Kanun kapsamında faaliyet gösteren okulların öğrencileri bu Yönetmelik hükümlerine göre il/ilçe yatılılık ve bursluluk komisyonunca uygun bulunan pansiyona paralı veya parasız yatılı,
+b) Ülkemizde örgün eğitime dâhil olan yabancı uyruklu öğrenciler bu Yönetmelik hükümlerine göre yatılı,
+olarak yerleştirilebilir.

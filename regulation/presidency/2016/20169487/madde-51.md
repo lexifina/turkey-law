@@ -1,0 +1,5 @@
+Yatılı öğrencilerin pansiyon ücretleri
+MADDE 51- (1) Paralı yatılı öğrencilerden her yıl içinde bulunulan mali yılın merkezi yönetim bütçe kanununda belirtilen ücret alınır. Parasız yatılı öğrencilerin pansiyon ücretleri ise aynı miktar üzerinden Devlet tarafından karşılanır.
+(2) Paralı yatılı öğrencilerin pansiyon ücretleri ilk taksiti kayıt sırasında, diğer taksitleri ise kasım, şubat ve nisan aylarının son işgününe kadar olmak üzere dört taksitte ödenir. Taksitini zamanında ödemeyen öğrencinin pansiyonla ilişiği kesilir.
+(3) Ders yılı süresince paralı yatılı öğrenci alınabilir. Herhangi bir taksit devresinde pansiyona kabul olunan öğrenci taksitinin tamamını ödemek zorundadır. Bir taksit devresi içinde pansiyonla ilişiği kesilen öğrenciye bu devreye ait taksit geri verilmez.
+(4) Bir pansiyondan diğer bir pansiyona nakil olan öğrencinin önceki okulunca alınan taksit miktarı nakil olduğu okulun pansiyon taksitine sayılır. Nakil olduğu okulun pansiyon ücreti önceki pansiyon ücretinden fazla ise bu taksite ait fark alınır. Eksik ise fark geri verilmez.
