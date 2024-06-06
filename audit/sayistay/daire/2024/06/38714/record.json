@@ -1,0 +1,17 @@
+{
+  "kind": "decision",
+  "issuer": "Sayıştay 5. Dairesi",
+  "number": "658",
+  "decision_date": "2024-06-06",
+  "source_id": 38714,
+  "chamber": "5",
+  "ilam_number": "176",
+  "item_number": 1,
+  "public_body_type": "Genel Bütçe Kapsamındaki İdareler",
+  "account_year": 2021,
+  "subject": "İhale Mevzuatı ile İlgili Kararlar",
+  "source": "https://www.sayistay.gov.tr/KararlarDaire/Detay/38714/",
+  "source_sha256": "c971e400000378f161bf3a7d06a4d18e8326502fa95cf5b565bdd59d3751cddd",
+  "text_status": "as-enacted",
+  "text_file": "metin.md"
+}
