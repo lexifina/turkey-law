@@ -1,0 +1,17 @@
+{
+  "kind": "decision",
+  "issuer": "Sayıştay 1. Dairesi",
+  "number": "10938",
+  "decision_date": "2024-06-06",
+  "source_id": 38655,
+  "chamber": "1",
+  "ilam_number": "221",
+  "item_number": 1,
+  "public_body_type": "Genel Bütçe Kapsamındaki İdareler",
+  "account_year": 2019,
+  "subject": "İhale Mevzuatı ile İlgili Kararlar",
+  "source": "https://www.sayistay.gov.tr/KararlarDaire/Detay/38655/",
+  "source_sha256": "b107e39a4c83b755261413cec82c495a928ef711adb231e71c94a46e60c36636",
+  "text_status": "as-enacted",
+  "text_file": "metin.md"
+}
