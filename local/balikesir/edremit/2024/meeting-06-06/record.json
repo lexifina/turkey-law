@@ -1,0 +1,23 @@
+{
+  "number": "meeting-06-06",
+  "number_as_published": "meeting-06-06",
+  "year": 2024,
+  "title": "06.06.2024 Meclis Karar Meclis Kararı",
+  "decision_date": "2024-06-06",
+  "source": "https://www.edremit.bel.tr/Guncel/MeclisKarar?sayfa=4",
+  "official_document": "https://edremit.bel.tr:8081/Upload/Mevzuat/987f1e64-9084-4bd3-8fb5-e97cd443ebdf.pdf",
+  "source_sha256": "1cd3ad8876aa7dd2106e46e5764eee9aa288165c2b42dc2bbd16a3537722e944",
+  "issuer": "Edremit Belediye Meclisi",
+  "history_type": "metadata",
+  "text_status": "metadata-only: listing fields as published; complete decision text is in the linked official document, not transcribed",
+  "in_force": "2024-06-06",
+  "in_force_basis": "Decision date as printed in the official council listing: 06.06.2024; adoption date of the council decision; legal commencement not asserted",
+  "missing": [
+    "complete official decision text",
+    "official annexes"
+  ],
+  "law_text_complete": false,
+  "privacy_withheld": false,
+  "listing_label": "06.06.2024 Meclis Karar Meclis Kararı",
+  "record_scope": "one official file of council decisions (meeting)"
+}
