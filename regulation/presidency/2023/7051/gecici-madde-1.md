@@ -1,0 +1,2 @@
+Mevcut basın kartları
+GEÇİCİ MADDE 1- (1) Bu Yönetmeliğin yürürlüğe girdiği tarihten önce usulüne uygun olarak verilmiş olan basın kartları, sahiplerinin bu Yönetmelikte belirtilen tüm şartları taşımaları kaydıyla geçerliliğini korumaya devam eder. Daha önce verilmiş olup 5187 sayılı Kanun ve bu Yönetmelikte belirtilen hükümlere göre artık basın kartı alabilme hakkı olmayanların basın kartları ve buna bağlı diğer kartları Başkanlıkça iptal edilir.

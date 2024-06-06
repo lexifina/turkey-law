@@ -1,0 +1,2 @@
+Basın kartına benzer kart düzenleme
+MADDE 46- (1) Başkanlıkça verilen basın kartlarına dizgi, fon, tertip, şekil ve renk bakımından benzer kart düzenlemiş veya bu kartları kullanmış olanların tespiti hâlinde bu kişiler hakkında Başkanlıkça Cumhuriyet Başsavcılıklarına suç duyurusunda bulunulur. Soruşturma ve/veya kovuşturma kesin olarak tamamlanıncaya kadar bu Yönetmelikte belirtilen şartları taşısalar dahi bu kişilere basın kartı verilmez, varsa basın kartları geçici olarak iptal edilir.

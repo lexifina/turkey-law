@@ -1,0 +1,26 @@
+{
+  "id": "presidency-regulation-7051",
+  "number": "7051",
+  "kind": "regulation",
+  "issuer": "presidency",
+  "title": "BASIN KARTI YÖNETMELİĞİ",
+  "published": "2023-04-10",
+  "enacted": "2023-04-09",
+  "gazette_number": "32159",
+  "in_force": "2024-06-06",
+  "in_force_basis": "Source commencement table, \"Yürürlüğe Giriş Tarihi\": 6/6/2024; source row: 5/6/2024 | 8624 | 14, 16, 23, 24, 25, 26 | 6/6/2024 | ",
+  "history": "current-only",
+  "version_label": "oldest version available",
+  "first_law": null,
+  "source": "https://www.mevzuat.gov.tr/anasayfa/MevzuatFihristDetayIframe?MevzuatNo=7051&MevzuatTur=21&MevzuatTertip=5",
+  "source_sha256": "d3d70f6c15f6688614a825b8c6db19460ffd927b82c814dd1b8f99b2c94e36f4",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  },
+  "missing_components": [],
+  "text_layout": "article-files",
+  "source_links": [],
+  "completeness": "html-text-complete"
+}
