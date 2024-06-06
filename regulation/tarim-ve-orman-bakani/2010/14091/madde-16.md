@@ -1,0 +1,5 @@
+Üretici tütünlerinin tütün satış merkezlerine getirilmesi ve ekspertizi
+MADDE 16 – (1) Üreticiler tütünlerini (Değişik ibare:RG-31/12/2020-31351) Bakanlık tarafından belirlenen tütün satış merkezine, satış merkezince ilan edilecek programa göre tam mahsul olarak getirirler. Tütünler tartılır ve (Değişik ibare:RG-31/12/2020-31351) Bakanlık tarafından yetkilendirilmiş satış merkezi tütün eksperince ekspertizi yapılır.
+(2) Her bir üretici tütünü için açık artırma başlangıç fiyatı, bu ekspertiz sonuçlarına göre belirlenir.
+(3) Tütün satış merkezine, bulunduğu yerde giderilmesi mümkün olmayacak şekilde ağır tavlı veya küflü olarak getirilen tütünler, açık artırma başlangıç fiyatı belirlenmeden geri gönderilir. Bu durumdaki tütünler için (Değişik ibare:RG-31/12/2020-31351) Bakanlık tarafından yetkilendirilmiş satış merkezi tütün eksperinin vereceği karar kesindir.
+(4) Geri götürülen tütünler, gerekli bakım işlemleri yapıldıktan sonra satış merkezinin uygun göreceği tarihte tekrar getirilebilir.

@@ -1,0 +1,2 @@
+Kapsam
+MADDE 2 – (1) Bu Yönetmelik; tütün tohumunun taşınması, ithali ve ihracı, tütün üretimi, üretici tütünlerinin alım-satımı ve denklenmesi, tütün satış merkezlerinin kurulması, açık artırma başlangıç fiyatının teknik olarak saptanması, tütünlerin işlenmesi, depolanması, iç ve dış ticareti ile tütün fireleri, tütün işleme tesislerinin kurulması, üretim izni, proje tadilatı ve devir işlemleri, tütün üretim, alım ve satımına dair yazılı sözleşmelerin düzenlenmesi ile bunların yürürlükteki mevzuat dahilinde izlenmesi ve denetimlerine ilişkin usul ve esasları kapsar.

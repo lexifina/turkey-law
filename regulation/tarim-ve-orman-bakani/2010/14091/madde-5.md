@@ -1,0 +1,8 @@
+İKİNCİ BÖLÜM
+Tütün Üretimi, Tütün Tohumu ve Fideleri ile İzne Tabi Tütün Üretimi
+Tütün üretimi
+MADDE 5 – (1) Üreticiler, yazılı sözleşme usulüyle veya tütün satış merkezlerinde açık artırma usulü ile satış yapmak üzere menşe özellikleri Türk Standardında belirlenmiş tütün çeşitlerinin üretimini yapabilirler. Alıcının talebi halinde Türk Standardında yer almayan tütün çeşitleri de yazılı sözleşmeli üretim esasına göre üretilebilir.
+(2) Türk Standardında tanımlanmış menşeler ve üretim merkezleri bu Yönetmeliğin ekinde yer alan Ek-1 sayılı Türk Tütünleri Standardında Tanımlanmış Menşeler ve Üretim Merkezleri listesinde gösterilmiştir.
+(3) Türk Standardında yer almayan ancak Türkiye’de üretimi yapılan tütün çeşitleri ve fiili üretim merkezleri bu Yönetmeliğin ekinde yer alan Ek-2 sayılı Türk Standardında Yer Almayan Tütünler ve Üretim Merkezleri listesinde gösterilmiştir.
+(4) (Mülga:RG-6/6/2024-32568)
+(5) (Değişik:RG-31/12/2020-31351) Tek başına kıyılıp içilebilme vasfına sahip tütün çeşitlerinin üretildiği merkezler, Ek-5’teki Tek Başına Kıyılıp İçilebilme Vasfına Sahip Tütün Çeşitlerinin Üretildiği Merkezler listesinde gösterilmiştir. Ek-5’te yer almayan tütün çeşidinin üretiminin yapıldığı Ek-1’deki üretim merkezinden en az 125 tütün üreticisi gerçek kişinin, üretim merkezindeki Ziraat Odası vasıtasıyla Bakanlığa başvurusu halinde, tütün çeşidinin tek başına içilebilir olup olmadığı Bakanlık tarafından değerlendirilerek sonuçlandırılır. Uygun bulunanlar Bakanlığın resmî internet sitesinde yayımlanır. Başvurunun değerlendirilmesine ilişkin usul ve esaslar Bakanlık tarafından belirlenir.

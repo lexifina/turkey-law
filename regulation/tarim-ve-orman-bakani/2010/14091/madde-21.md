@@ -1,0 +1,2 @@
+Tütün fireleri
+MADDE 21 – (1) Tütünlerin taşınması, depolanması ve işlenmesi sırasında meydana gelebilecek azami fireler, bu Yönetmeliğin ekinde yer alan Ek-4 sayılı Tütünlerde Azami Fire Oranları listesinde belirtilmiştir. Azami fire oranları aşıldığı takdirde, gerekçe belirtilerek en geç on iş günü içinde (Değişik ibare:RG-31/12/2020-31351) Bakanlığa müracaat edilir. (Değişik ibare:RG-31/12/2020-31351) Bakanlıkça yapılacak değerlendirmenin sonucu on iş günü içinde ilgiliye bildirilir.

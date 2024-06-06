@@ -1,0 +1,4 @@
+Tütün satış merkezlerinin kurulması
+MADDE 14 – (1) Tütün satış merkezleri; ziraat odaları, tütün tarım satış kooperatifleri, her türlü üretici birlik, dernek ve kooperatifleri ile diğer gerçek ve tüzel kişiler tarafından (Değişik ibare:RG-31/12/2020-31351) Bakanlığın gözetim ve koordinasyonu altında kurulur ve işletilir.
+(2) Tütün satış merkezlerinin kurulması ile ilgili usul ve esaslar, kurulacağı yerler, açık artırmalı satışların başlangıç ve bitiş tarihleri (Değişik ibare:RG-31/12/2020-31351) Bakanlık tarafından belirlenip, ilan edilir.
+(3) Tütün satış merkezlerinin kurulması için gerekli şartların oluşmaması ve ihtiyaç duyulması halinde, gerekli görülen yerlerde sözleşme dışı üretilen tütünlerin alım satımının usul ve esasları (Değişik ibare:RG-31/12/2020-31351) Bakanlık tarafından belirlenip ilan edilir.

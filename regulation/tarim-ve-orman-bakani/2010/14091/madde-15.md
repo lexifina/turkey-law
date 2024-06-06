@@ -1,0 +1,5 @@
+Tütün satış merkezlerinde açık artırmaya katılım
+MADDE 15 – (1) Tütün satış merkezlerinde açık artırmaya katılmak isteyen alıcı, açık artırmalı satışların başlangıç tarihinden en az yirmi gün önce, açık artırmaya katılacağını ve varsa kanuni vekillerini ilgili tütün satış merkezine bildirmek zorundadır.
+(2) Tütün satış merkezlerinde alıcı adına tütünlerin muayene ve ekspertizlerini yapacak kişiler, 4733 sayılı Kanunda belirtilen tütün eksperi unvanına sahip olduklarını gösteren belge örneğini satış merkezine vermekle yükümlüdürler. Tütün eksperi olmayanlar satış merkezlerinde tütünlerin muayene ve ekspertizini yapamazlar, kalite hakkında bildirimde bulunamazlar.
+(3) Tütün satış merkezinde açık artırmaya katılmak isteyen alıcı, satış merkezine her yıl (Değişik ibare:RG-31/12/2020-31351) Bakanlıkça belirlenecek miktarda teminat yatırmak zorundadır.
+(4) Alıcının, tütün satış merkezlerinde adına tescil edilen tütünleri almaktan vazgeçmesi, tütün bedelini satış merkezine ödememesi veya belirlenen süre içinde tütünleri satış merkezi deposundan çekmemesi halinde doğacak tazminat, kira, sigorta bedeli, işçilik ve sair masraflar yatırılan teminattan karşılanır.

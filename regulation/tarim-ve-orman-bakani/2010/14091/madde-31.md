@@ -1,0 +1,4 @@
+Denetim
+MADDE 31 – (1) (Değişik ibare:RG-31/12/2020-31351) Bakanlık, alıcıya ait tütün alım yerleri, işleme tesisleri ve depoları ile mevzuat gereği tutulması gereken kayıtları her zaman denetlemeye yetkilidir. Denetim amacıyla (Değişik ibare:RG-31/12/2020-31351) Bakanlık tarafından istenecek her türlü bilgi ve belgelerin verilmesi zorunludur.
+(2) İthal edilen tütünlerle ilgili olarak (Değişik ibare:RG-31/12/2020-31351) Bakanlık tarafından istenecek bilgi ve belgeler ile yapılacak gözlem ve denetimlere, sınai veya ticari gizlilik mülahazalarıyla engeller konulamaz.
+(3) Bu Yönetmelikte alıcılar tarafından (Değişik ibare:RG-31/12/2020-31351) Bakanlığa bildirimi istenilen bilgi, belge ve raporlar için ilgili maddede bir süre düzenlemesi yapılmamış ise, söz konusu bildirimlerin bir ay içinde (Değişik ibare:RG-31/12/2020-31351) Bakanlığa gönderilmesi zorunludur.
