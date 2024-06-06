@@ -1,0 +1,2 @@
+Sözleşmenin yürütülmesi aşamasındaki mesleki ve teknik yükümlülüklere yönelik düzenlemeler
+MADDE 39- (1) İdari şartnamede yeterlik kriteri olarak belirlenmeyen, ancak sözleşmenin yürütülmesi aşamasında işin yerine getirilmesi için kamu hizmeti yükümlüsü tarafından sunulması gereken mesleki ve teknik yükümlülüklere yönelik düzenlemeler, teknik şartnamede yer alır. Bu düzenlemelerde, işin niteliği ile bu Yönetmelik ve ilgili mevzuat hükümleri esas alınır.

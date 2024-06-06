@@ -1,0 +1,8 @@
+ÜÇÜNCÜ BÖLÜM
+Kamu Hizmeti Yükümlüsü Tren İşletmecisinin Belirlenmesine İlişkin Usul ve Esaslar
+Kamu hizmeti yükümlüsü tren işletmecisinin belirlenmesi
+MADDE 7- (1) Kamu hizmeti yükümlüsü demiryolu yolcu tren işletmecisinin seçimine yönelik ihale veya hizmet alımı süreçleri Bakanlık tarafından yürütülür.
+(2) Kamu hizmeti yükümlüsü tren işletmecisinin belirlenmesinde asıl usul, açık ihale usulüdür. Ancak 60 ıncı maddenin ikinci fıkrasında belirtilen durumlarda, doğrudan temin yoluyla kamu hizmeti yükümlüsü demiryolu yolcu tren işletmecisi belirlenebilir.
+(3) Kamu hizmeti yükümlüsü demiryolu yolcu tren işletmecisinin belirlenmesi amacıyla yapılacak ihale veya alımlarda; şeffaflık, rekabetçilik, eşit muamele, güvenilirlik, gizlilik, kamuoyu denetimi, ihtiyaçların uygun şartlarla ve zamanında karşılanması, sektörel serbestleşmeye katkı sağlanması ve kaynakların verimli kullanılması ilkeleri esas alınır.
+(4) Yüksek hızlı, hızlı ve ana hat yolcu taşımacılığı, kendi hizmet grubu kapsamında hat bazında veya toplu olarak ihale edilebilir veya hizmet alımı yapılabilir. Bölgesel yolcu taşımacılığı, hat bazında ihale edilemez, ancak tüm coğrafi bölgeleri kapsayacak şekilde toplu olarak ya da coğrafi bütünlük dikkate alınarak bir veya birden fazla bölgeyi kapsayacak şekilde ihale edilebilir veya hizmet alımı yapılabilir.
+(5) Aralarında işletmecilik açısından bir bağlantı olmadığı sürece hizmet grupları bir arada ihale edilemez veya hizmet alımı yapılamaz. Ancak yetkilendirilmiş demiryolu tren işletmecileri sayı ve kapasitesinin hizmet ihtiyacı kapsamının belirlenmesi aşamasında yeterli olduğunun anlaşılması hâlinde aralarında bağlantı bulunup bulunmadığına bakılmaksızın hizmet grupları bir arada ihale edilebilir veya hizmet alımı yapılabilir.

@@ -1,0 +1,2 @@
+Bakanlığın düzenleme yetkisi
+MADDE 69- (1) Bakanlık; bu Yönetmelikte düzenlenen genel usul ve esaslara aykırı olmamak kaydıyla; hazırlık çalışmalarında ve kamu hizmeti yükümlülerinin seçiminde uygulanacak usul ve esasları belirleyebilmek amacıyla Hazine ve Maliye Bakanlığı, Strateji ve Bütçe Başkanlığı ile Sayıştayın uygun görüşlerini alarak Yönetmelik ve diğer düzenleyici işlemleri çıkarmaya yetkilidir.

@@ -1,0 +1,3 @@
+İhale dokümanının görülmesi ve satın alınması
+MADDE 34- (1) İhale dokümanı, Bakanlığın ilanda belirtilen adresinde bedelsiz olarak görülebilir. İhaleye katılmak için bu dokümanın Bakanlık tarafından her sayfası onaylanmış nüshasının satın alınması zorunludur. Bakanlık tarafından her sayfası onaylanmış doküman yerine “compact disc (CD)” ortamına aktarılmış doküman satılabilir.
+(2) Dokümanın, Bakanlık tarafından belirlenen basım maliyetini aşmayacak ve rekabeti engellemeyecek bir bedelle satılması zorunlu olup, bu dokümanın satış hakkı yalnız Bakanlığa aittir. Bakanlık, dokümanın satışına ilişkin olarak bağış, yardım veya başka her ne ad altında olursa olsun ek bir ücret talep edemez.

@@ -1,0 +1,7 @@
+İhalenin karara bağlanması ve onaylanması
+MADDE 55- (1) Yapılan değerlendirme sonucu ihale mali ve teknik açıdan en avantajlı teklifi veren isteklinin üzerinde bırakılır ve ihale komisyonunca alınan gerekçeli karar, ihale yetkilisinin onayına sunulur.
+(2) İhale üzerinde kalan istekli ile varsa mali ve teknik açıdan en avantajlı ikinci teklif sahibi isteklinin ihalelere katılmaktan yasaklı olup olmadığı teyit edilir, her iki isteklinin de yasaklı olduğunun anlaşılması durumunda diğer avantajlı teklifler değerlendirilir, tüm isteklilerin yasaklı olması hâlinde ihale iptal edilir.
+(3) İhale yetkilisi, karar tarihini izleyen en geç 10 iş günü içinde ihale kararını onaylar veya gerekçesini açıkça belirtmek suretiyle iptal eder.
+(4) İhale, kararın onaylanması hâlinde geçerli, iptal edilmesi hâlinde ise hükümsüz sayılır.
+(5) Geçici teminat hariç isteklilerce verilen teklif belgeleri ihale sonuçlandıktan sonra iade edilmez. Ancak teklif kapsamında Bakanlığa verilen asıl belgeler ile noter onaylı suret belgeler, isteklinin talebi hâlinde kendisine iade edilir. Bu durumda, iade edilen asıl veya noter onaylı suret belgelerin Bakanlık tarafından onaylı bir suretinin ihale işlem dosyasında muhafazası zorunludur.
+(6) Türk Lirası dışındaki geçici teminat olarak kabul edilen değerlerin isteklilere iadesi sırasında, teminat değerlerine ilişkin belgenin aslına uygunluğu Bakanlık tarafından onaylı bir sureti ihale işlem dosyasında muhafaza edilir.

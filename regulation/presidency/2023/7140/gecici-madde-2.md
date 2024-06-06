@@ -1,0 +1,2 @@
+TCDD Taşımacılık A.Ş.’nin desteklenmesi
+GEÇİCİ MADDE 2- (1) Kamu hizmeti yükümlülüğü, 31/12/2033 tarihine kadar Türkiye Cumhuriyeti Devlet Demiryolları Taşımacılık A.Ş. tarafından yerine getirilir. Bu tarihe kadar Türkiye Cumhuriyeti Devlet Demiryolları Taşımacılık A.Ş.’ye yapılacak kamu hizmeti bedeli ödemelerinde, her bir trenin çalıştırılması için hesaplanan tahmini maliyetten, trenden elde edilmesi beklenen bilet gelirinin çıkarılması sonucu bulunan miktar üzerine tahmini maliyetin %10’u kadar makul kâr eklenerek elde edilen bedel esas alınır.[2]

@@ -1,0 +1,3 @@
+İhale üzerinde kalan isteklinin sözleşmeye davet edilmesi
+MADDE 57- (1) 56 ncı maddede belirtilen sürelerin bitimini, ön mali kontrol yapılması gereken hallerde ise bu kontrolün tamamlandığı tarihi, izleyen günden itibaren 3 iş günü içinde ihale üzerinde bırakılan istekliye, tebliğ tarihini izleyen 10 gün içinde kesin teminatı vermek suretiyle sözleşmeyi imzalaması hususu bildirilir.
+(2) Mücbir sebepler dışında, ihale üzerinde kalan istekli, yasal yükümlülüklerini yerine getirerek sözleşme imzalamak zorundadır. Bu zorunluluğa uyulmaması hâlinde ihale üzerinde kalan isteklinin geçici teminatı genel bütçeye gelir kaydedilerek 4734 sayılı Kanunun 58 inci maddesi hükümleri uygulanır.

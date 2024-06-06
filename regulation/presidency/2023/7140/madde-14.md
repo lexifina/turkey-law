@@ -1,0 +1,8 @@
+Demiryolu araç maliyetleri
+MADDE 14- (1) Demiryolu araç maliyetleri, ilgili hizmetin alım yöntemi gereğince ihale veya doğrudan temin dokümanında belirtilen her bir hat kapsamında çalıştırılmak üzere isteklilerce teklif edilen araç envanterine dâhil tren teşkilatlarında bulunan set/lokomotif ve vagonların her bir modeli için ilan veya davet tarihindeki revizyon bakım maliyeti hariç olmak üzere toplam bakım tahmini değerleri ve amortisman giderleri ile kiralama maliyetleri esas alınarak teklif edilir.
+(2) Amortisman giderleri hesaplanırken;
+a) Açık ihale usulüyle yapılacak alımlarda ihale ilan tarihindeki,
+b) Doğrudan temin yöntemiyle yapılacak alımlarda teklif vermeye davet tarihindeki,
+isteklilerce teklif edilen araç envanterine dâhil tren teşkilatlarında bulunan demiryolu araçlarının her bir modeli için teknik şartnamede belirlenen ekonomik ömür süreleri ve ekonomik ömür süreleri boyunca katedecekleri mesafelerin yıllık amortisman oranları dikkate alınır.
+(3) Hizmette kullanılacak demiryolu araçlarının ekonomik ömür süreleri veya ekonomik ömür süreleri boyunca katedecekleri mesafeleri gerçekleşmiş olan demiryolu araçlarına, amortisman maliyeti belirlenmez.
+(4) İhale dokümanında belirtilen her bir hat kapsamında çalıştırılmak üzere isteklilerce teklif edilen araç envanterine dâhil trenlerin üçüncü kişilerden kiralama yöntemiyle temin edilmesi durumunda, kiralama maliyetlerinin hesabında üçüncü kişiler ile istekli arasında akdedilecek kira sözleşmelerinde her bir demiryolu aracı için gösterilen bedel esas alınır. Ancak bu bedel, sözleşme süresi boyunca aynı nitelikteki demiryolu aracı için ikinci fıkra gereğince hesaplanacak amortisman giderinden fazla olamaz.

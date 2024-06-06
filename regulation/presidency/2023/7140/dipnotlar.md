@@ -1,0 +1,2 @@
+[1] 6/6/2024 tarihli ve 32568 sayılı Resmi Gazete’de yayımlanan 8623 sayılı Cumhurbaşkanı Kararının 1 inci maddesiyle bu fıkrada yer alan “bu Yönetmelikte” ibaresi “21/10/2023 tarihli ve 32346 sayılı Resmî Gazete’de yayımlanan Demiryolu Yolcu Taşımacılığı Kamu Hizmeti Yükümlülüğü Sözleşmelerinde Uygulanacak Usul ve Esaslar Hakkında Yönetmelikte” şeklinde değiştirilmiştir.
+[2] 6/10/2023 tarihli ve 32331 sayılı Resmi Gazete’de yayımlanan 7703 sayılı Cumhurbaşkanı Kararının 1 inci maddesiyle bu fıkrada yer alan “31/12/2023” ibaresi “31/12/2033” şeklinde değiştirilmiştir.

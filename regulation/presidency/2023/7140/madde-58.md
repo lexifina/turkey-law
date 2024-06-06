@@ -1,0 +1,3 @@
+İhale üzerinde kalan isteklinin sözleşmeyi imzalamaması
+MADDE 58- (1) İhale üzerinde kalan isteklinin kesin teminatı vermemesi ya da sözleşme imzalamaması durumunda, mali ve teknik açıdan en avantajlı ikinci teklif fiyatının, ihale yetkilisince uygun görülmesi kaydıyla, 57 nci maddenin birinci fıkrası hususları dikkate alınarak bu teklif sahibi istekliyle sözleşme imzalanabilir.
+(2) Mücbir sebepler dışında, mali ve teknik açıdan en avantajlı ikinci teklif sahibi istekli de yasal yükümlülüklerini yerine getirerek sözleşme imzalamak zorundadır. Bu zorunluluğa uyulmaması hâlinde ihale üzerinde kalan isteklinin geçici teminatı gelir kaydedilerek 4734 sayılı Kanunun 58 inci maddesi hükümleri uygulanır.

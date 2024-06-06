@@ -1,0 +1,44 @@
+{
+  "id": "presidency-regulation-7140",
+  "number": "7140",
+  "kind": "regulation",
+  "issuer": "presidency",
+  "title": "KAMU HİZMETİ YÜKÜMLÜLÜĞÜ KAPSAMINDA DESTEKLENECEK DEMİRYOLU YOLCU TAŞIMA HATLARI İLE KAMU HİZMETİ YÜKÜMLÜSÜ TREN İŞLETMECİSİNİN BELİRLENMESİNE İLİŞKİN YÖNETMELİK",
+  "published": "2023-04-20",
+  "enacted": "2023-04-19",
+  "gazette_number": "32169",
+  "in_force": "2024-06-06",
+  "in_force_basis": "Source commencement table, \"Yürürlüğe Giriş Tarihi\": 6/6/2024; source row: 5/6/2024 | 8623 | 24 | 6/6/2024 | ",
+  "history": "current-only",
+  "version_label": "oldest version available",
+  "first_law": null,
+  "source": "https://www.mevzuat.gov.tr/anasayfa/MevzuatFihristDetayIframe?MevzuatNo=7140&MevzuatTur=21&MevzuatTertip=5",
+  "source_sha256": "d0551e4868957b9566ce89c88334bc2d84bc7f227f5971c57035cf6a135e53a7",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  },
+  "missing_components": [
+    {
+      "type": "annex",
+      "status": "pending",
+      "source_url": "https://www.mevzuat.gov.tr/anasayfa/21.5.7140%20EK.zip",
+      "source_caption": "Eki için tıklayınız",
+      "source_href": "21.5.7140%20EK.zip",
+      "reason": "Separately linked component is not included in this HTML-only version."
+    }
+  ],
+  "text_layout": "article-files",
+  "source_links": [
+    {
+      "type": "annex",
+      "status": "pending",
+      "source_url": "https://www.mevzuat.gov.tr/anasayfa/21.5.7140%20EK.zip",
+      "source_caption": "Eki için tıklayınız",
+      "source_href": "21.5.7140%20EK.zip",
+      "reason": "Separately linked component is not included in this HTML-only version."
+    }
+  ],
+  "completeness": "pending-annexes"
+}

@@ -1,0 +1,3 @@
+KAMU HİZMETİ YÜKÜMLÜLÜĞÜ KAPSAMINDA DESTEKLENECEK DEMİRYOLU YOLCU TAŞIMA HATLARI İLE KAMU HİZMETİ YÜKÜMLÜSÜ TREN İŞLETMECİSİNİN BELİRLENMESİNE İLİŞKİN YÖNETMELİK
+Cumhurbaşkanı Kararının Tarihi : 19/4/2023 Sayısı : 7140
+Yayımlandığı Resmî Gazetenin Tarihi : 20/4/2023 Sayısı : 32169

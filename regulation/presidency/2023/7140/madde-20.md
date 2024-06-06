@@ -1,0 +1,3 @@
+Teklife esas bilet gelirleri
+MADDE 20- (1) Teklife esas bilet gelirleri, ihale veya doğrudan temin dokümanında belirtilen hizmet gruplarına ait her bir hat kapsamına göre; isteklilerce, beklenen bilet satış hasılatları sefer başı ve toplam sefer sayısı esas alınarak teklif edilir ve gelir kalemleri tablosunda gösterilir.
+(2) Teklife esas bilet gelirleri; hizmet gruplarına ait her bir hat kesiminde, 6 ncı maddenin dördüncü fıkrasında belirtilen bilgi ve belgeler dikkate alınarak isteklilerce tahmin edilecek tam, zorunlu indirimli ve teklif edilecekse ticari indirimli biletli yolcu sayılarının, ihale ilanında yayınlanan üst limitleri aşmamak üzere isteklilerce teklif edilecek bilet tarifelerinin çarpımı sonucu hesaplanır.
