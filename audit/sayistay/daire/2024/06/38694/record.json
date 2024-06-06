@@ -1,0 +1,17 @@
+{
+  "kind": "decision",
+  "issuer": "Sayıştay 5. Dairesi",
+  "number": "659",
+  "decision_date": "2024-06-06",
+  "source_id": 38694,
+  "chamber": "5",
+  "ilam_number": "175",
+  "item_number": 1,
+  "public_body_type": "Genel Bütçe Kapsamındaki İdareler",
+  "account_year": 2021,
+  "subject": "Çeşitli Konuları İlgilendiren Kararlar",
+  "source": "https://www.sayistay.gov.tr/KararlarDaire/Detay/38694/",
+  "source_sha256": "d099d418d657cc2af7f8d0d55ef41d83f6da3565e1ab25a181e7817345ae9e48",
+  "text_status": "as-enacted",
+  "text_file": "metin.md"
+}
