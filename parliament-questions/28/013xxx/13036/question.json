@@ -1,0 +1,21 @@
+{
+  "record_type": "parliament-written-question",
+  "term": 28,
+  "legislative_year": 2,
+  "esas_no": "7/13036",
+  "submitted": "2024-06-07",
+  "submitted_as": "Başkanlığa geliş tarihi",
+  "mp": "Nejla DEMİR",
+  "province": "Ağrı",
+  "summary": "TMO tarafından 2024 yılı için açıklanan buğday ve arpa alım fiyatına ilişkin",
+  "status": "Süresi Geçtikten Sonra Cevaplandı",
+  "status_as_of": "2026-11-16",
+  "official_record": "https://www.tbmm.gov.tr/Denetim/Yazili-Soru-Onergesi-Detay/cdf76ff1-7bce-471b-878b-019000d416af",
+  "source": "https://tbmm.gov.tr/Denetim/YaziliSoruOnergesiTable",
+  "source_form": "https://tbmm.gov.tr/Denetim/Yazili-Soru-Onergeleri",
+  "source_sha256": "325c6d3f0052cbebfc34d2f1a52ad30978c98e4f57e731661b169b308af8fe11",
+  "in_force": "2024-06-07",
+  "in_force_basis": "Date the question reached the Speaker (Başkanlığa geliş tarihi) in the official TBMM written-question record; parliamentary oversight record, not law",
+  "history_type": "metadata",
+  "text_status": "metadata-only: question text, addressee and answers are in the linked official record (PDFs on cdn.tbmm.gov.tr); not transcribed here"
+}
