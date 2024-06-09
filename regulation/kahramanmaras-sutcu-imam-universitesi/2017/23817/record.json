@@ -1,0 +1,89 @@
+{
+  "checked_on": "2026-11-14",
+  "commencement_clauses": [
+    "MADDE 35 – (1) Bu Yönetmelik 2017-2018 eğitim-öğretim yılı başında yürürlüğe girer."
+  ],
+  "date_evidence": [
+    [
+      "2017-08-03",
+      "03.08.2017",
+      "original gazette publication date in official listing"
+    ],
+    [
+      "2019-06-23",
+      "RG-23/6/2019-30810",
+      "latest source-printed gazette amendment date for current consolidated text"
+    ],
+    [
+      "2018-09-20",
+      "RG-20/9/2018-30541",
+      "latest source-printed gazette amendment date for current consolidated text"
+    ],
+    [
+      "2018-09-20",
+      "RG-20/9/2018-30541",
+      "latest source-printed gazette amendment date for current consolidated text"
+    ],
+    [
+      "2019-06-23",
+      "RG-23/6/2019-30810",
+      "latest source-printed gazette amendment date for current consolidated text"
+    ],
+    [
+      "2021-10-08",
+      "RG-8/10/2021-31622",
+      "latest source-printed gazette amendment date for current consolidated text"
+    ],
+    [
+      "2024-06-09",
+      "RG-9/6/2024-32571",
+      "latest source-printed gazette amendment date for current consolidated text"
+    ],
+    [
+      "2018-09-20",
+      "20/9/2018",
+      "latest gazette date in source amendment table"
+    ],
+    [
+      "2019-06-23",
+      "23/6/2019",
+      "latest gazette date in source amendment table"
+    ],
+    [
+      "2021-10-08",
+      "8/10/2021",
+      "latest gazette date in source amendment table"
+    ],
+    [
+      "2024-06-09",
+      "9/6/2024",
+      "latest gazette date in source amendment table"
+    ]
+  ],
+  "date_quote": "RG-9/6/2024-32571",
+  "first_law": null,
+  "gazette": "30143",
+  "history": "current-text",
+  "images": {
+    "deferred": 0,
+    "omitted": 0,
+    "referenced": 0,
+    "source": 0
+  },
+  "in_force": "2024-06-09",
+  "in_force_basis": "latest source-printed gazette amendment date for current consolidated text",
+  "issuer": "Kahramanmaraş Sütçü İmam Üniversitesi",
+  "issuer_slug": "kahramanmaras-sutcu-imam-universitesi",
+  "kind": "regulation",
+  "label": "oldest version available",
+  "path": "regulation/kahramanmaras-sutcu-imam-universitesi/2017/23817",
+  "published": "2017-08-03",
+  "source": "https://www.mevzuat.gov.tr/anasayfa/MevzuatFihristDetayIframe?MevzuatTur=8&MevzuatNo=23817&MevzuatTertip=5",
+  "source_bytes": 87754,
+  "source_id": "8.5.23817",
+  "source_sha256": "cfbf4025321b0554e2294a51468c6be52bcbb861445535212aaab4c444c4ae35",
+  "text_status": "current-consolidated",
+  "title": "KAHRAMANMARAŞ SÜTÇÜ İMAM ÜNİVERSİTESİ ÖN LİSANS VE LİSANS EĞİTİM-ÖĞRETİM YÖNETMELİĞİ",
+  "university_id": 205,
+  "word_count": 4093
+}
