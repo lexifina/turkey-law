@@ -1,0 +1,4 @@
+Yatay ve dikey geçişler
+MADDE 9 – (1) Üniversitede yatay geçişler, 24/4/2010 tarihli ve 27561 sayılı Resmî Gazete’de yayımlanan Yükseköğretim Kurumlarında Önlisans ve Lisans Düzeyindeki Programlar Arasında Geçiş, Çift Anadal, Yan Dal ile Kurumlar Arası Kredi Transferi Yapılması Esaslarına İlişkin Yönetmelik hükümlerine göre yapılır. Yatay geçiş ile ilgili diğer hususlar Senato tarafından belirlenir.
+(2) Dikey geçişlerde, 19/2/2002 tarihli ve 24676 sayılı Resmî Gazete’de yayımlanan Meslek Yüksekokulları ve Açıköğretim Ön Lisans Programları Mezunlarının Lisans Öğrenimine Devamları Hakkında Yönetmelik hükümleri uygulanır.
+(3) Lisans öğrenimlerini tamamlamayan veya tamamlayamayanlar hakkında, 18/3/1989 tarihli ve 20112 sayılı Resmî Gazete’de yayımlanan Lisans Öğrenimlerini Tamamlamayan veya Tamamlayamayanların Ön Lisans Diploması Almaları veya Meslek Yüksekokullarına İntibakları Hakkında Yönetmelik hükümleri uygulanır.

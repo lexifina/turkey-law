@@ -1,0 +1,3 @@
+Disiplin
+MADDE 36 – (1) (Değişik cümle:RG-15/6/2023-32222) Öğrenci disiplin işlemleri, 2547 sayılı Kanunun 54 üncü maddesi hükümlerine göre yürütülür. Herhangi bir sebeple geçici uzaklaştırma cezası alan öğrenciler bu süre içinde eğitim-öğretime, sosyal faaliyetlere katılamazlar ve Üniversitenin tesislerine giremezler.
+(2) (Ek:RG-20/9/2018-30541 mükerrer) Sınav düzenini bozmak, sınavlarda kopya çekmek, kopya çekme girişiminde bulunmak ya da kopya çekilmesine yardım etmek eylemlerinden birini gerçekleştirdiği iddiası ile hakkında işlem yapılan veya kopya çektiği sonradan anlaşılan öğrenci o sınavdan sıfır (0) almış sayılır. Soruşturma neticesinde cezai işlemin gerekmediği hallerde öğrencinin notu ilgili Yönetim Kurulu kararı ile yeniden düzenlenir.

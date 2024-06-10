@@ -1,0 +1,2 @@
+Sınıf geçme esası ve işleyişi
+MADDE 14 – (1) Sınıf geçme esasına göre eğitim öğretim yapan birimlerde dersler, ders kurulu (grubu), uygulama ve staj programları, eğitim-öğretim yılının başında bütün olarak verilir. Kaydını yenileyen öğrenci, o yıl programının bütün derslerine kaydolmuş sayılır. Öğrenci, o yıla ait zorunlu derslerin birinden dahi başarısız olursa, ertesi yıl, bir üst sınıftan hiçbir ders alamaz. 2547 sayılı Kanunda yer alan ortak zorunlu dersler ve seçmeli derslerden başarısız/devamsız olması öğrencinin üst sınıftan ders almasına engel değildir.

@@ -1,0 +1,2 @@
+Derslere devam zorunluluğu ve denetlenmesi
+MADDE 18 – (1) Öğrencilerin derslere, uygulamalara, sınavlara ve diğer çalışmalara devamı zorunludur. Teorik derslerin % 30’undan, uygulamaların % 20’sinden fazlasına devam etmeyen ve uygulamalarda başarılı olamayan öğrenci, o dersin yarıyıl/yılsonu ya da varsa bütünleme sınavına alınmaz. Tekrarlanan derslerde önceki dönemde devam şartı yerine getirilmiş ise derslerde devam şartı aranıp aranmayacağı ilgili birim tarafından hazırlanarak Senato onayına sunulan usul ve esaslar ile belirlenir.

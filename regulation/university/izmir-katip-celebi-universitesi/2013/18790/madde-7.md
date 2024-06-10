@@ -1,0 +1,7 @@
+ÜÇÜNCÜ BÖLÜM
+Eğitim-Öğretime İlişkin Esaslar
+Akademik takvim ve öğretim yılı
+MADDE 7 – (1) Üniversitenin akademik takvimi, ilgili kurulların önerisi üzerine eğitim komisyonunun görüşü ile Senato tarafından belirlenir. Üniversitede eğitim ve öğretim, dönem, yarıyıl, yıl veya kısmen kesintisiz eğitim esasına göre düzenlenir. Bunlardan hangisinin uygulanacağına ilgili birim kurulunun önerisi üzerine Senato karar verir. (Değişik dördüncü, beşinci ve altıncı cümle:RG-10/6/2024-32572) Yarıyıl esasını uygulayan birimlerde öğretim yılı, güz ve bahar yarıyıllarından oluşur ve her yarıyıl cumartesi, pazar, resmî tatil günleri ve sınavlar hariç 14 hafta ve yetmiş iş günüdür. Bu süre teorik, uygulamalı ders ve diğer çalışmaları içerir. Ara sınav, yarıyıl, yılsonu ve bütünleme sınavları bu sürenin dışındadır. Gerekli hallerde ilgili yönetim kurulu kararı ile dersler ve bunların sınavları cumartesi ve pazar günleri yapılabilir.
+(2) Birimlerin eğitim ve öğretim başlangıç ve bitiş, yarıyıl/yılsonu sınav tarihleri, katkı payı/öğrenim ücreti yatırma, kayıt yenileme ile benzeri konular akademik takvimde belirtilir. Üniversitenin bir sonraki eğitim ve öğretim yılına ait akademik takvimi, birimlerin önerisi ve Senatonun kararı ile belirlenir.
+(3) Fakülte, yüksekokul ve meslek yüksekokullarında gerektiğinde yaz eğitim-öğretimi yapılabilir. Yaz eğitim-öğretimi ilgili mevzuat hükümlerine göre düzenlenir.
+(4) Bir eğitim yılının ya da yarıyılın süresi, ilgili kurulların gerekçeli önerisi üzerine Senato kararı ile uzatılabilir.
