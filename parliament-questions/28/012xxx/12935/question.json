@@ -1,0 +1,21 @@
+{
+  "record_type": "parliament-written-question",
+  "term": 28,
+  "legislative_year": 2,
+  "esas_no": "7/12935",
+  "submitted": "2024-06-10",
+  "submitted_as": "Başkanlığa geliş tarihi",
+  "mp": "Ali ÖZTUNÇ",
+  "province": "Kahramanmaraş",
+  "summary": "Savunma Sanayii Başkanlığının iştiraki olan bir firmanın gerçekleştirdiği ihalelerle ilgili iddialara ilişkin",
+  "status": "Süresi Geçtikten Sonra Cevaplandı",
+  "status_as_of": "2026-11-16",
+  "official_record": "https://www.tbmm.gov.tr/Denetim/Yazili-Soru-Onergesi-Detay/0f6c1c02-5221-491d-8a05-01900661b356",
+  "source": "https://tbmm.gov.tr/Denetim/YaziliSoruOnergesiTable",
+  "source_form": "https://tbmm.gov.tr/Denetim/Yazili-Soru-Onergeleri",
+  "source_sha256": "218aed8cbf1976ff4d22004003094180b2cd45fb0c952d2461b9edba4158457b",
+  "in_force": "2024-06-10",
+  "in_force_basis": "Date the question reached the Speaker (Başkanlığa geliş tarihi) in the official TBMM written-question record; parliamentary oversight record, not law",
+  "history_type": "metadata",
+  "text_status": "metadata-only: question text, addressee and answers are in the linked official record (PDFs on cdn.tbmm.gov.tr); not transcribed here"
+}
