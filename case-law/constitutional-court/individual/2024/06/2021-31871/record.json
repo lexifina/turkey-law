@@ -1,0 +1,20 @@
+{
+  "applicant": "G.I.H.A.",
+  "application_date": "2021-08-05",
+  "application_number": "2021/31871",
+  "deciding_unit": "Birinci Bölüm",
+  "decision_date": "2024-06-11",
+  "id": "cbcd21d2-45a3-fd7d-c306-e919eb577da0",
+  "in_force": "2024-06-11",
+  "in_force_basis": "official decision date",
+  "kind": "constitutional-court-individual-application",
+  "omitted_images": 0,
+  "outcome": "Kabul Edilemezlik vd.",
+  "published": null,
+  "referenced_images": 0,
+  "source": "https://kararlarbilgibankasi.anayasa.gov.tr/kbb/pages/search/Tumu?id=a2JiOmNiY2QyMWQyLTQ1YTMtZmQ3ZC1jMzA2LWU5MTllYjU3N2RhMA&type=BireyselBasvuru",
+  "source_api": "https://kararlarbilgibankasi.anayasa.gov.tr/api/core/public/search",
+  "source_images": 0,
+  "source_sha256": "d99818d6b40d93cde45b58e23c741530ba807a82cd05f34192512f41e3cba885",
+  "version_label": "as-enacted"
+}
