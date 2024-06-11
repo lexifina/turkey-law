@@ -1,0 +1,2 @@
+Taşıma türü ve güzergah seçimi
+MADDE 30 – (1) Gönderici, güzergah belirlenirken taşıma emniyeti açısından doğal afet, toplumsal karışıklıklar ve kolluk kuvvetlerinin imkanları gibi hususları dikkate almak, kargo transferi sayısını ve kargonun taşıma süresini en aza indirecek bir taşıma türünü seçmek ve taşıyıcının fiziksel koruma önlemlerinin uygulanmasında işbirliği yapacağını önceden garanti altına almakla yükümlüdür.

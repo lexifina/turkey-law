@@ -1,0 +1,3 @@
+Tatbikatlar
+MADDE 40 – (Değişik:RG-11/6/2024-32573)
+(1) Yetkilendirme başvurusunda bulunan kişi I. sınıf nükleer maddelerin taşınması öncesi, taşıma fiziksel koruma planının güvenilirlik ve etkinliğinin, uygulanacak prosedürlerin yeterliliğinin ve koruma görevlileri ile kolluk kuvvetlerinin olaylara zamanında karşılık verme ve görev paylaşımlarının etkinliğinin ölçülmesi amacıyla tatbikat gerçekleştirmekle ve tatbikatlarla ilgili sonuç raporlarını “Gizli” gizlilik derecesi ile Kuruma sunmakla yükümlüdür. II. sınıf ve III. sınıf nükleer maddelerin taşınmasına ilişkin Kurum, taşıma koşullarını dikkate alarak yetkilendirme başvurusunda bulunan kişiden taşıma öncesinde tatbikat yapılmasını talep edebilir.

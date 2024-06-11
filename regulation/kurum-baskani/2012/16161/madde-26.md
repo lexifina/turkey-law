@@ -1,0 +1,10 @@
+Nükleer tesisler için sabotaja karşı alınması gereken fiziksel koruma önlemleri
+MADDE 26 – (1) Nükleer güvenlik açısından önemli olan veya sabotaj meydana geldiğinde istenmeyen radyolojik sonuçların doğmasına sebep olabilecek nükleer madde, ekipman, sistem veya cihazlar sadece hayati alanlara yerleştirilir. Korunan alanın dışına yerleştirilen ekipman, sistem veya cihazların herhangi bir tehdide maruz kaldıklarında nükleer tesis güvenliğine olan potansiyel etkileri incelenir, değerlendirilir ve uygun tedbirler alınır.
+(2) Hayati alanlardaki ekipman, sistem veya cihazlara kötü niyetli bir müdahalenin yapılıp yapılmadığı ve böyle bir müdahale gerçekleştiğinde müdahalenin zamanında algılanıp algılanmadığı takip edilir.
+(3) Bakım veya başka bir nedenle nükleer tesisin faaliyetlerinin uzun süreli durdurulması sonrasında yeniden çalışmaya geçilmeden önce, durdurma sırasında geçen sürede sisteme kötü niyetli bir müdahale olup olmadığının tespitine yönelik gerekli incelemeler yapılır, değerlendirilir ve gerekli tedbirler alındıktan sonra çalışmaya geçilir.
+(4) Nükleer maddelerin depolandığı alanların, dolapların veya hayati alanların anahtarlarına sahip olanların kaydı tutulur. Bunun için yapılan düzenlemeler aşağıdaki hususları içerir:
+a) Çoğaltılma olasılığı en düşük olan anahtar tiplerinin veya ele geçirilmesi en zor olan şifre kombinasyonlarının seçilmesine önem verilir ve anahtarların kimde ve nerede olduğunun takibi için gerekli düzenlemeler yapılır.
+b) Şifreler belirli aralıklarla değiştirilir.
+c) Herhangi bir şüphe veya tehlike olduğu düşünülüyorsa kilitler, anahtarlar ve şifreler derhal değiştirilir.
+(5) Hayati alanlarda intrüzyonu engelleyen veya geciktiren fiziksel bariyerler bulundurulur. Bu tür alanlar, çalışanların olmadığı zamanlarda sürekli olarak alarm sistemleri ve uygun koruma tedbirleriyle korunmak zorundadır. Hayati alanlara giriş için kullanılan anahtar ya da kartların yapım ve dağıtımı kontrol altında tutulur ve kötü niyetli kullanılmaları engellenir.
+(6) Acil durum tahliye tatbikatları sırasında hayati alanlara giriş ve çıkışların kontrol altında tutulmasına dair düzenlemeler yapılır.

@@ -1,0 +1,2 @@
+Yaptırımlar
+MADDE 41 – (1) Kurum denetçileri tarafından tesisin fiziksel korunmasında uygunsuzluk tespit edildiği durumlarda Kurumun talep ettiği düzeltici faaliyetler verilen süre içerisinde gerçekleştirilmezse Kurum, tesisin işletme lisansını veya yetkilendirilen kişinin yetki belgesini geçici ya da sürekli olarak iptal edebilir ve tesiste bulunan nükleer maddelere geçici veya sürekli olarak el koyabilir.

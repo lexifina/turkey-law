@@ -1,0 +1,2 @@
+Nükleer tesis sayılmayan yerlerdeki nükleer maddelerin sabotaja ve hırsızlığa karşı korunması için alınması gereken fiziksel koruma önlemleri
+MADDE 27 – (1) Nükleer tesis sayılmayan yerlerde nükleer maddelerin sabotaja ve hırsızlığa karşı korunması için muhtemel radyolojik sonuç derecelerine göre 25 ve 26 ncı maddelerde yer alan önlemlerden uygun olanlar yetkilendirilen kişi tarafından belirlenir ve Kurumun onayıyla uygulanır.

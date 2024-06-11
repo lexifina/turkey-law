@@ -1,0 +1,2 @@
+Denetlenenlerin yükümlülükleri
+MADDE 38 – (1) Yetkilendirilen kişi, Kurum denetçilerinin görevlerini serbestçe, zamanında ve uygun şekilde yerine getirebilmeleri için gerekli tüm kolaylıkları sağlamakla, gerekli tüm kayıt ve belgeleri sunmakla, gerekli tüm idari tedbirleri almakla, Kurum denetçileri tarafından kendilerinden talep edilen hususları yerine getirmekle, önlemleri zamanında ve eksiksiz olarak almakla ve gerekli düzeltici faaliyetleri gerçekleştirmekle yükümlüdür.

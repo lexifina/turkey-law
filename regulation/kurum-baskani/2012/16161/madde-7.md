@@ -1,0 +1,3 @@
+Fiziksel korumanın hedefi
+MADDE 7 – (1) Fiziksel korumanın hedefi, yetkilendirilen kişinin bu Yönetmelik gereğince bir fiziksel koruma sistemi kurup etkin bir şekilde işleterek nükleer maddeleri ve nükleer tesisleri hedef alan hırsızlık, sabotaj veya diğer kötü niyetli girişim ve olayların önlenmesini, olasılıklarının ve etkilerinin en aza indirilmesini, nükleer maddenin çalınması veya kaybolması durumunda söz konusu maddenin mümkün olan en kısa sürede bulunup yerine konulmasını sağlayarak birey, toplum ve çevrenin korunmasıdır.
+(2) Yetkilendirilen kişi fiziksel koruma hedeflerine ulaşmak için derinliğine savunma uygulamakla yükümlüdür.

@@ -1,0 +1,1 @@
+[1] 11/6/2024 tarihli ve 32573 sayılı Resmî Gazete’de yayımlanan değişiklik ile Yönetmeliğin adı ‘‘Nükleer Tesislerin ve Nükleer Maddelerin Fiziksel Korunması Yönetmeliği’’ iken metne işlendiği şekilde değiştirilmiştir.

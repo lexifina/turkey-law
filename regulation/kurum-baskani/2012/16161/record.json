@@ -1,0 +1,43 @@
+{
+  "source_id": "7.5.16161",
+  "kind": "regulation",
+  "register_kind": "Kurum ve Kuruluş Yönetmelikleri",
+  "title": "NÜKLEER MADDELERİN TAŞINMASINDA FİZİKSEL KORUNMA YÖNETMELİĞİ",
+  "number": "16161",
+  "issuer": "Kurum Başkanı",
+  "issuer_slug": "kurum-baskani",
+  "path": "regulation/kurum-baskani/2012/16161",
+  "source": "https://www.mevzuat.gov.tr/anasayfa/MevzuatFihristDetayIframe?MevzuatTur=7&MevzuatNo=16161&MevzuatTertip=5",
+  "source_sha256": "6b238ab4d3debc576304c86f85d6b7d195948bc221ae7c853debd86930e8ccea",
+  "source_bytes": 117923,
+  "published": "2012-05-22",
+  "gazette": "28300",
+  "in_force": "2024-06-11",
+  "in_force_basis": "latest Resmî Gazete date printed in the source amendment notes/table (\"RG-11/6/2024\") for the current consolidated text",
+  "date_evidence": [
+    [
+      "2024-06-11",
+      "RG-11/6/2024",
+      "Resmî Gazete date printed in the source amendment note"
+    ],
+    [
+      "2024-06-11",
+      "11/6/2024",
+      "Resmî Gazete date in the source amendment table"
+    ]
+  ],
+  "commencement_clauses": [
+    "Bu Yönetmelik yayımı tarihinde yürürlüğe girer"
+  ],
+  "history": "current-text",
+  "label": "oldest version available",
+  "checked_on": "2026-11-15",
+  "word_count": 5991,
+  "text_status": "current-consolidated",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  },
+  "completeness": "html-text-complete"
+}

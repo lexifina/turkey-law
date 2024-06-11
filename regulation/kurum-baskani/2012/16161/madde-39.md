@@ -1,0 +1,4 @@
+İç denetim
+MADDE 39 – (1) Yetkilendirilen kişi, fiziksel koruma programı, prosedürler ve koruma görevlileri ile kolluk kuvvetlerinin olaylara zamanında karşılık verme yeteneklerinin tespiti amacıyla fiziksel koruma sistemini her altı ayda bir denetlemekle, her bir denetim için iç denetim raporu hazırlamakla ve bu raporları kayıt altında tutmakla yükümlüdür.
+(2) Yetkilendirilen kişi, iç denetim sırasında tesisin fiziksel koruma sisteminde yetersizlikler bulunduğu veya fiziksel koruma programında belirlenen önlemlerin uygulanmadığının tespit edilmesi durumunda derhal düzeltici faaliyetler gerçekleştirmekle yükümlüdür.
+(3) Yetkilendirilen kişi, iç denetim raporları, gerçekleştirilen düzeltici faaliyetler ile alınan önlemlere ilişkin raporları bir sonraki yılın ocak ayı içerisinde (Değişik ibare:RG-11/6/2024-32573) “Hizmete Özel” gizlilik derecesi ile Kuruma sunmakla yükümlüdür.
