@@ -1,0 +1,34 @@
+{
+  "source_id": "7.5.40837",
+  "kind": "regulation",
+  "register_kind": "Kurum ve Kuruluş Yönetmelikleri",
+  "title": "NÜKLEER TESİSLERİN VE NÜKLEER MADDELERİN EMNİYETİNE İLİŞKİN YÖNETMELİK",
+  "number": "40837",
+  "issuer": "Nükleer Düzenleme Kurumu Başkanı",
+  "issuer_slug": "nukleer-duzenleme-kurumu-baskani",
+  "path": "regulation/nukleer-duzenleme-kurumu-baskani/2024/40837",
+  "source": "https://www.mevzuat.gov.tr/anasayfa/MevzuatFihristDetayIframe?MevzuatTur=7&MevzuatNo=40837&MevzuatTertip=5",
+  "source_sha256": "88283b39975add5c75b99752d926d05f71a222f402e32a7e7992a1e73d700c58",
+  "source_bytes": 69625,
+  "published": "2024-06-11",
+  "gazette": "32573",
+  "in_force": "2024-06-11",
+  "in_force_basis": "Resmî Gazete publication date in the official listing (11.06.2024); own commencement article: \"Bu Yönetmelik yayımı tarihinde yürürlüğe girer\"",
+  "commencement_clauses": [
+    "Bu Yönetmelik yayımı tarihinde yürürlüğe girer"
+  ],
+  "history": "current-text",
+  "label": "oldest version available",
+  "checked_on": "2026-11-15",
+  "word_count": 3917,
+  "text_status": "current-consolidated",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  },
+  "source_links": [
+    "7.5.40837%20EK.docx"
+  ],
+  "completeness": "html-text-complete; linked annexes not fetched"
+}
