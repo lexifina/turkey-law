@@ -1,0 +1,21 @@
+{
+  "record_type": "parliament-written-question",
+  "term": 28,
+  "legislative_year": 2,
+  "esas_no": "7/13106",
+  "submitted": "2024-06-12",
+  "submitted_as": "Başkanlığa geliş tarihi",
+  "mp": "Ömer Faruk GERGERLİOĞLU",
+  "province": "Kocaeli",
+  "summary": "Kocaeli'nin Başiskele ilçesinde denizin renginin değişmesine ilişkin",
+  "status": "Süresi Geçtikten Sonra Cevaplandı",
+  "status_as_of": "2026-11-16",
+  "official_record": "https://www.tbmm.gov.tr/Denetim/Yazili-Soru-Onergesi-Detay/7041b31b-658e-4ab8-bfe6-01901033063d",
+  "source": "https://tbmm.gov.tr/Denetim/YaziliSoruOnergesiTable",
+  "source_form": "https://tbmm.gov.tr/Denetim/Yazili-Soru-Onergeleri",
+  "source_sha256": "7ea7a1a65a073bfbd00e829102e9325502b0cdff1b35c6602b852265262ba3f8",
+  "in_force": "2024-06-12",
+  "in_force_basis": "Date the question reached the Speaker (Başkanlığa geliş tarihi) in the official TBMM written-question record; parliamentary oversight record, not law",
+  "history_type": "metadata",
+  "text_status": "metadata-only: question text, addressee and answers are in the linked official record (PDFs on cdn.tbmm.gov.tr); not transcribed here"
+}
