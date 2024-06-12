@@ -1,0 +1,20 @@
+{
+  "applicant": "F.A.",
+  "application_date": "2022-08-02",
+  "application_number": "2022/77977",
+  "deciding_unit": "İkinci Bölüm",
+  "decision_date": "2024-06-12",
+  "id": "8a207561-f3ea-6392-0670-70298ca841fc",
+  "in_force": "2024-06-12",
+  "in_force_basis": "official decision date",
+  "kind": "constitutional-court-individual-application",
+  "omitted_images": 0,
+  "outcome": "Kabul Edilemezlik vd.",
+  "published": null,
+  "referenced_images": 0,
+  "source": "https://kararlarbilgibankasi.anayasa.gov.tr/kbb/pages/search/Tumu?id=a2JiOjhhMjA3NTYxLWYzZWEtNjM5Mi0wNjcwLTcwMjk4Y2E4NDFmYw&type=BireyselBasvuru",
+  "source_api": "https://kararlarbilgibankasi.anayasa.gov.tr/api/core/public/search",
+  "source_images": 0,
+  "source_sha256": "139b8f7575350adc4233126020c89a6792d7113fe52c17863ac2fd5a1af113ba",
+  "version_label": "as-enacted"
+}
