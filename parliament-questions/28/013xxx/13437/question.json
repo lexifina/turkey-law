@@ -1,0 +1,21 @@
+{
+  "record_type": "parliament-written-question",
+  "term": 28,
+  "legislative_year": 2,
+  "esas_no": "7/13437",
+  "submitted": "2024-06-13",
+  "submitted_as": "Başkanlığa geliş tarihi",
+  "mp": "George ASLAN",
+  "province": "Mardin",
+  "summary": "Ülkemizdeki protestanların yaşadığı iddia edilen hak ihlallerine ilişkin",
+  "status": "Süresi Geçtikten Sonra Cevaplandı",
+  "status_as_of": "2026-11-16",
+  "official_record": "https://www.tbmm.gov.tr/Denetim/Yazili-Soru-Onergesi-Detay/5fb8756f-b191-4ec0-94b4-019015c33724",
+  "source": "https://tbmm.gov.tr/Denetim/YaziliSoruOnergesiTable",
+  "source_form": "https://tbmm.gov.tr/Denetim/Yazili-Soru-Onergeleri",
+  "source_sha256": "9fb1ce689afc17989832b4f8946c5b2aa5fb87ea9a19d09bd7f1d4f57985aa62",
+  "in_force": "2024-06-13",
+  "in_force_basis": "Date the question reached the Speaker (Başkanlığa geliş tarihi) in the official TBMM written-question record; parliamentary oversight record, not law",
+  "history_type": "metadata",
+  "text_status": "metadata-only: question text, addressee and answers are in the linked official record (PDFs on cdn.tbmm.gov.tr); not transcribed here"
+}
