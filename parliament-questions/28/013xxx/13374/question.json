@@ -1,0 +1,21 @@
+{
+  "record_type": "parliament-written-question",
+  "term": 28,
+  "legislative_year": 2,
+  "esas_no": "7/13374",
+  "submitted": "2024-06-13",
+  "submitted_as": "Başkanlığa geliş tarihi",
+  "mp": "Gizem ÖZCAN",
+  "province": "Muğla",
+  "summary": "Datça Yat Limanı Projesi'nin akıbetine ve çevreye etkilerine ilişkin",
+  "status": "Süresi Geçtikten Sonra Cevaplandı",
+  "status_as_of": "2026-11-16",
+  "official_record": "https://www.tbmm.gov.tr/Denetim/Yazili-Soru-Onergesi-Detay/9352b157-d10b-4e1d-bbd6-019015974d83",
+  "source": "https://tbmm.gov.tr/Denetim/YaziliSoruOnergesiTable",
+  "source_form": "https://tbmm.gov.tr/Denetim/Yazili-Soru-Onergeleri",
+  "source_sha256": "2aa69789c1d5f2f8f2d76f4b134059c4a3bc01e5fc93aa526f3eb484a7ff0c7c",
+  "in_force": "2024-06-13",
+  "in_force_basis": "Date the question reached the Speaker (Başkanlığa geliş tarihi) in the official TBMM written-question record; parliamentary oversight record, not law",
+  "history_type": "metadata",
+  "text_status": "metadata-only: question text, addressee and answers are in the linked official record (PDFs on cdn.tbmm.gov.tr); not transcribed here"
+}
