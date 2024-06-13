@@ -1,0 +1,21 @@
+{
+  "record_type": "parliament-written-question",
+  "term": 28,
+  "legislative_year": 2,
+  "esas_no": "7/13198",
+  "submitted": "2024-06-13",
+  "submitted_as": "Başkanlığa geliş tarihi",
+  "mp": "Mehmet Satuk Buğra KAVUNCU",
+  "province": "İstanbul",
+  "summary": "İnternet üzerinden satışı yapılan gıda ve besin takviyelerinin denetimine ilişkin",
+  "status": "Süresi Geçtikten Sonra Cevaplandı",
+  "status_as_of": "2026-11-16",
+  "official_record": "https://www.tbmm.gov.tr/Denetim/Yazili-Soru-Onergesi-Detay/7d5cf73b-4a09-4b8b-8b05-01901577e169",
+  "source": "https://tbmm.gov.tr/Denetim/YaziliSoruOnergesiTable",
+  "source_form": "https://tbmm.gov.tr/Denetim/Yazili-Soru-Onergeleri",
+  "source_sha256": "7ea7a1a65a073bfbd00e829102e9325502b0cdff1b35c6602b852265262ba3f8",
+  "in_force": "2024-06-13",
+  "in_force_basis": "Date the question reached the Speaker (Başkanlığa geliş tarihi) in the official TBMM written-question record; parliamentary oversight record, not law",
+  "history_type": "metadata",
+  "text_status": "metadata-only: question text, addressee and answers are in the linked official record (PDFs on cdn.tbmm.gov.tr); not transcribed here"
+}
