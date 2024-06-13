@@ -1,0 +1,4 @@
+Çocuk yayınları
+MADDE 18 – (1) Genel ve tematik içerikli yayın yapan televizyon kuruluşlarının, çocuk yayınlarında çizgi filmlere yer vermeleri hâlinde, çizgi filmlerin en az yüzde yirmisinin, diğer çocuk programlarının en az yüzde kırkının Türkçe dilinde üretilmiş yapım olması ve Türk kültürünü yansıtması zorunludur. Bu oranların belirlenmesinde aylık yayın dönemleri esas alınır.
+(2) Genel ve tematik yayın yapan televizyon kuruluşları çocuk yayınlarının yayınlanma saatlerini, sürelerini istatistiksel veriler halinde ve üretim diline ilişkin bilgiler ile aylık olarak her takip eden ayın 20’sine kadar Üst Kurulun “izlemeburo@rtuk.org.tr” internet adresine elektronik posta ile gönderirler.
+(3) Bu maddedeki oranlara televizyon kuruluşları bu Yönetmeliğin yayım tarihinden itibaren beş yıllık süreçte her yıl eşit oranda arttırmak suretiyle tedrici olarak ulaşmak zorundadır.

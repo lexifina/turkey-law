@@ -1,0 +1,10 @@
+Televizyon ve radyo yayın hizmetlerinde reklam ve tele-alışveriş oran ve süreleri
+MADDE 11 – (1) Reklam ve tele-alışveriş yayınları, programların arasına veya programın bütünlüğü, değeri ve hak sahiplerinin hakları zedelenmeyecek biçimde bir program içine yerleştirilebilir.
+(2) Bağımsız bölümlerden oluşan programlarda veya devre araları içeren spor karşılaşmaları ve benzer yapıdaki olay ve gösteri programlarında, reklam ve tele-alışveriş yayınları bölüm, duraksamalar veya devre aralarına yerleştirilir.
+(3) Tele-alışveriş yayınları hariç her türlü reklam yayınlarının oranı, bir saat başından bir sonraki saat başına kadarki yayın içinde yüzde yirmiyi (oniki dakikayı) aşamaz. Bu orana, program desteklemesi ve yayıncının kendi programlarının tanıtımlarına ayrılan süre ile ürün yerleştirme dâhil değildir. (Mülga cümle:RG-3/4/2014-28961)
+(4) (Değişik:RG-3/4/2014-28961) Program tanıtımlarının oranı, bir saat başından bir sonraki saat başına kadarki yayın içinde yüzde beşi (üç dakikayı) aşamaz. Bant yoluyla yapılan tanıtımlar da bu süreye dâhildir.
+(5) Bant reklamlar her bir girişte en fazla 10 saniye olarak verilebilir.
+(6) Üçüncü fıkrada belirtilen süreden bağımsız olarak, sesli ve görüntülü bir uyarı ile açıkça belirtilerek, kesintisiz en az onbeş dakika süreyle tele-alışveriş yayını yapılabilir. Bu yayının süresi bir gün içinde toplam bir saati aşamaz.
+(7) Reklam ve tele-alışveriş sürelerinin hesaplanmasında ticari iletişimin önünde ve bitiminde kullanılan “reklam kapağı”/“cıngıl”ların süresi dikkate alınmaz.
+(8) Ücretsiz yayınlanan ve Üst Kurul tarafından tavsiye edilen kamu hizmeti duyuruları reklam sürelerine dâhil edilmez.
+(9) Sinema ve televizyon için yapılmış filmler ile haber bültenleri ve çocuk programları, planlanan yayın süreleri otuz dakikadan fazla olması hâlinde, ilk otuz dakikada reklam ve tele-alışverişle kesilemez. İlk otuz dakikadan sonra her otuz dakikalık bölüm, en fazla bir defa ve istenilen zamanda kesilebilecek şekilde reklam ve tele-alışveriş yerleştirilebilir.

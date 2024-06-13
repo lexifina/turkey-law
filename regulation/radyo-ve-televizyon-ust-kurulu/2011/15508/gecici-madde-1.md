@@ -1,0 +1,3 @@
+Geçiş hükmü
+GEÇİCİ MADDE 1 – (Ek:RG-27/3/2018-30373)(1)
+(1) Bu Yönetmeliğin 9 uncu maddesinin yedinci fıkrasına göre yapılacak denetimlere, genel beslenme diyetlerinde aşırı tüketimi tavsiye edilmeyen yiyecek ve içeceklerin tespitinde esas alınacak Sağlık Bakanlığı listesinde kırmızı kategoride (Reklamına İzin Verilmeyecek Gıda ve İçecek Listesi) yer alan yiyecek ve içeceklerin ticari iletişimi için bu maddenin yürürlük tarihinden itibaren; turuncu kategoride yer alan (Reklamına Belirtilen Kriterlere Uyması Halinde İzin Verilecek Gıda ve İçecek Listesi) yiyecek ve içeceklerin ticari iletişimi için ise bu maddenin yürürlük tarihinden itibaren iki yıl sonra başlanır.

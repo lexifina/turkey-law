@@ -1,0 +1,7 @@
+Türkçe dışındaki dil ve lehçelerde yapılacak yayınların usul ve esasları
+MADDE 7 – (1) Yayın hizmetlerinin Türkçe yapılması esastır. Ancak Türkçe dışındaki dil ve lehçelerde de yayın yapılabilir. Yayınlar seçilen dilin kurallarına uygun olarak yapılmak zorundadır.
+(2) Medya hizmet sağlayıcıların farklı dil ve lehçelerde yayın yapabilmeleri, Üst Kurulun bu Yönetmelik hükümlerine göre vereceği izne tabidir. Üst Kurul izni olmadan bu dil ve lehçelerde yayın yapılamaz.
+(3) Farklı dil ve lehçelerde yayın yapmak isteyen medya hizmet sağlayıcılar; yayın yapmak istedikleri dil ve lehçeleri, bu dil ve lehçelerde yayınlanacak program türlerini, bu programların, günlük yayın akışı içindeki yerleşimini ve aylık yayın planlarını belirleyen yönetim kurulu kararı ile birlikte Üst Kurula başvururlar.
+(4) Yayın lisansına sahip olan ve farklı dil ve lehçelerde yayın yapmak isteyen medya hizmet sağlayıcıların talepleri, yayın alanı, teknik imkânlar ve talep edilen dil ve lehçelerde yayın yapan diğer kuruluşlar da göz önünde bulundurularak Üst Kurul tarafından değerlendirilir ve uygun görülmesi halinde bu dil ve lehçelerde yayın yapma izni verilir.
+(5) Farklı dil ve lehçelerdeki münferit müzik eserleri, sinema filmleri, ticari iletişim ve isteğe bağlı yayın hizmetleri için izin şartı aranmaz.
+(6) Farklı dil ve lehçelerde Üst Kuruldan yayın yapma izni alan medya hizmet sağlayıcılar, yayınlarını, Kanun ve Kanuna dayanılarak çıkartılan yönetmeliklere, Üst Kurulun öngördüğü diğer yükümlülüklere uygun olarak yapmakla yükümlüdürler.
