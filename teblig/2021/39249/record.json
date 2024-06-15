@@ -1,0 +1,50 @@
+{
+  "annexes": {
+    "links": [
+      {
+        "caption": "Eki için tıklayınız.",
+        "official_href": "9.5.39249-Ek.docx",
+        "status": "pending"
+      }
+    ],
+    "official_html": "https://www.mevzuat.gov.tr/anasayfa/MevzuatFihristDetayIframe?MevzuatTur=9&MevzuatNo=39249&MevzuatTertip=5",
+    "status": "pending"
+  },
+  "checked_on": "2026-11-15",
+  "commencement_quote": "Bu Tebliğ yayımı tarihinde yürürlüğe girer",
+  "date_gazette": "32577",
+  "date_quote": "RG-15/6/2024-32577",
+  "first_law": null,
+  "gazette": "31706 (5.Mükerrer)",
+  "history": "current-text",
+  "images": {
+    "deferred": 0,
+    "omitted": 0,
+    "referenced": 0,
+    "source": 0
+  },
+  "in_force": "2024-06-15",
+  "in_force_basis": "Latest source-printed RG amendment date for current text: RG-15/6/2024-32577; own commencement clause: Bu Tebliğ yayımı tarihinde yürürlüğe girer",
+  "issuer": "Hazine ve Maliye Bakanlığı",
+  "issuer_catalog_evidence": [
+    {
+      "evidence": "issuer-578-200.json",
+      "id": "578",
+      "label": "Hazine ve Maliye Bakanlığı",
+      "listing_url": "https://www.mevzuat.gov.tr/Anasayfa/MevzuatDatatable?MevzuatTur=Teblig&KurumId=578&start=200&length=100"
+    }
+  ],
+  "issuer_slug": "hazine-ve-maliye-bakanligi",
+  "kind": "communique",
+  "label": "oldest version available",
+  "notes": [
+    "Linked official annexes are not included in this version; original official links and captions are recorded in annexes."
+  ],
+  "published": "2021-12-31",
+  "source": "https://www.mevzuat.gov.tr/anasayfa/MevzuatFihristDetayIframe?MevzuatTur=9&MevzuatNo=39249&MevzuatTertip=5",
+  "source_bytes": 49415,
+  "source_id": "9.5.39249",
+  "source_sha256": "002feae005618522d5cdfb39cd549520709455307a3eeea9e31f217efb858ac4",
+  "title": "MUHASEBAT GENEL MÜDÜRLÜĞÜ GENEL TEBLİĞİ (SIRA NO: 71)\r\nGENEL YÖNETİM MALİ İSTATİSTİKLERİ",
+  "word_count": 2424
+}

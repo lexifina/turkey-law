@@ -1,0 +1,5 @@
+Muhasebe birimi kontrol görevlilerince yapılacak işlemler
+MADDE 11 – (1) Muhasebe birimi kontrol görevlileri, sorumluluk alanındaki birimlere ait veri girişlerinin zamanında tamamlanması için gerekli önlemleri alırlar.
+(2) Muhasebe birimi kontrol görevlileri, il özel idareleri, yatırım izleme ve koordinasyon başkanlıkları, belediyeler ve mahallî idare birliklerince KBS’ye girilen verilerin Mahallî İdareler Bütçe ve Muhasebe Yönetmeliği hükümleri ile Mahallî İdareler Detaylı Hesap Planına uygunluğunu ve diğer birimlerin verilerinin Genel Yönetim Muhasebe Yönetmeliği hükümleri ile Genel Yönetim Detaylı Hesap Planına uygunluğunu Bakanlıkça yayımlanan inceleme rehberine göre kontrol ederler.
+(3) Muhasebe birimi kontrol görevlileri, sorumluluk alanındaki birimlerden verilerini bu Tebliğde belirlenen sürelerde KBS’ye girmeyenleri uyarırlar ve buna rağmen veri girişi yapmayan birimleri il kontrol görevlisine bildirirler.
+(4) Muhasebe birimi kontrol görevlileri, veri derleme ve inceleme sürecinde yapılan faaliyetleri il kontrol görevlisine raporlarlar.
