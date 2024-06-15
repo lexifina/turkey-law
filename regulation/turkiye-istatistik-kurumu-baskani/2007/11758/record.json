@@ -1,0 +1,56 @@
+{
+  "source_id": "7.5.11758",
+  "kind": "regulation",
+  "register_kind": "Kurum ve Kuruluş Yönetmelikleri",
+  "title": "TÜRKİYE İSTATİSTİK KURUMU BAŞKANLIĞI PERSONELİNİN YER DEĞİŞTİRME SURETİYLE ATANMALARINA DAİR YÖNETMELİK",
+  "number": "11758",
+  "issuer": "Türkiye İstatistik Kurumu Başkanı",
+  "issuer_slug": "turkiye-istatistik-kurumu-baskani",
+  "path": "regulation/turkiye-istatistik-kurumu-baskani/2007/11758",
+  "source": "https://www.mevzuat.gov.tr/anasayfa/MevzuatFihristDetayIframe?MevzuatTur=7&MevzuatNo=11758&MevzuatTertip=5",
+  "source_sha256": "fac7ebbfbee7e42cdac138a0cbc67756d1a8495cde366c42408732887e9fd531",
+  "source_bytes": 31878,
+  "published": "2007-12-06",
+  "gazette": "26722",
+  "in_force": "2024-06-15",
+  "in_force_basis": "latest Resmî Gazete date printed in the source amendment notes/table (\"RG-15/6/2024\") for the current consolidated text",
+  "date_evidence": [
+    [
+      "2024-06-15",
+      "RG-15/6/2024",
+      "Resmî Gazete date printed in the source amendment note"
+    ],
+    [
+      "2024-06-15",
+      "15/6/2024",
+      "Resmî Gazete date in the source amendment table"
+    ],
+    [
+      "2014-01-30",
+      "RG-30/1/2014",
+      "Resmî Gazete date printed in the source amendment note"
+    ],
+    [
+      "2014-01-30",
+      "30/1/2014",
+      "Resmî Gazete date in the source amendment table"
+    ]
+  ],
+  "commencement_clauses": [
+    "Bu Yönetmelik yayımı tarihinde yürürlüğe girer"
+  ],
+  "history": "current-text",
+  "label": "oldest version available",
+  "checked_on": "2026-11-15",
+  "word_count": 904,
+  "text_status": "current-consolidated",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  },
+  "source_links": [
+    "7.5.11758%20ek.doc"
+  ],
+  "completeness": "html-text-complete; linked annexes not fetched"
+}

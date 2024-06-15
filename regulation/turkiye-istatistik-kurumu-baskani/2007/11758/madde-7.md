@@ -1,0 +1,4 @@
+Yer Değiştirme Kurulu
+MADDE 7 – (1) Yer Değiştirme Kurulu, Başkan tarafından görevlendirilen bir Başkan Yardımcısının Başkanlığında; (Değişik ibare:RG-15/6/2024-32577) Hukuk Hizmetleri Daire Başkanı, (Değişik ibare:RG-15/6/2024-32577) Personel Daire Başkanı, Başkan tarafından belirlenen bir (Değişik ibare:RG-15/6/2024-32577) istatistik daire başkanı ve bir bölge müdürü ile Kurumda en çok üyeye sahip memur sendikasının temsilcisinden oluşur.
+(2) Kurul, Atanma İstek Formu, Değerlendirme Formu (Ek-3), tercih sırası, boş veya boşalacak kadro durumlarını; puanlamaya öncelik vermek suretiyle birlikte değerlendirerek, liyakat, hizmet gerekleri ve kamu yararı ilkelerini gözeterek karar verir.
+(3) Kurul, Başkanın çağrısı üzerine üye tam sayısı ile toplanır. Kararlar oy çokluğu ile alınır. Çekimser oy kullanılmaz. Oylamada eşitlik olması halinde kurul başkanının kullandığı oy yönünde çoğunluk sağlanmış sayılır. Asil üyelerin yokluğu halinde kurula vekilleri katılır.

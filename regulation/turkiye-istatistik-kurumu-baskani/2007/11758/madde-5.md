@@ -1,0 +1,4 @@
+Başvuru şekilleri
+MADDE 5 – (1) Hizmet bölgelerinde veya alanlarında zorunlu çalışma sürelerini tamamlayanlar, herhangi bir duyuru beklemeksizin görevli bulundukları birimlere, Mart ayı sonuna kadar başvuruda bulunurlar. Bu başvurular, birim amirleri tarafından Nisan ayı sonuna kadar görüşleriyle birlikte (Değişik ibare:RG-15/6/2024-32577) Personel Daire Başkanlığına gönderilir.
+(2) (Değişik:RG-30/1/2014-28898) 19/4/1983 tarihli ve 83/6525 sayılı Bakanlar Kurulu Kararı ile yürürlüğe konulan Devlet Memurlarının Yer Değiştirme Suretiyle Atanmalarına İlişkin Yönetmelikte belirtilen sağlık ve eş durumuna ilişkin özürlerini belgeleyenler, birinci fıkrada öngörülen tarihe bağlı olmaksızın yer değiştirme başvurusunda bulunabilirler.
+(3) (Ek:RG-15/6/2024-32577) Bu maddede belirtilen iş ve işlemler, Kurum tarafından kurulan teknik alt yapı kullanılarak elektronik ortamda yapılabilir.

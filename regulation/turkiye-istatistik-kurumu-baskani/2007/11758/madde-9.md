@@ -1,0 +1,2 @@
+Geçmiş hizmetlerin bölgelere intibakı
+MADDE 9 – (1) Bu Yönetmeliğin yürürlüğe girdiği tarihten önce, Kurumda çalışmakta olup halen bulunduğu hizmet bölgesinde yer değiştirmeye tabi unvanlarda geçen toplam hizmet süresi bulunduğu bölgenin zorunlu hizmet süresinden fazla olanlar, talep etmeleri halinde her yıl ilan edilecek boş kadroya, bu Yönetmeliğin 5 inci maddesi uyarınca başvuruda bulunabilirler. Zorunlu çalışma süresini doldurmamış olanlar ise çalışmakta oldukları bölgedeki hizmet sürelerini dolduruncaya kadar yer değişikliği talebinde bulunamazlar.
