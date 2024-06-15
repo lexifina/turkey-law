@@ -1,0 +1,7 @@
+Türk Ticaret Kanunundan kaynaklanan yükümlülükler
+MADDE 37 – (1) Denetim kuruluşları ve denetçiler (Değişik ibare:RG-21/7/2017-30130) Türk Ticaret Kanunu uyarınca yaptıkları denetimlerde aşağıdaki yükümlülüklerini de yerine getirir:
+a) Denetim sonuçlarını, (Değişik ibare:RG-21/7/2017-30130) Türk Ticaret Kanununa ve bu Yönetmeliğe uygun şekilde raporlayıp sunmak, denetim faaliyeti ve sonuçları konusunda genel kurula açıklamalarda bulunmak.
+b) (Değişik ibare:RG-21/7/2017-30130) Türk Ticaret Kanununun 378 inci maddesi uyarınca gerekli hallerde riskin erken saptanması ve yönetimi komitesinin kurulmasını önermek, böyle bir sistem varsa bunun yapısı ve uygulamalarını açıklayan ayrı bir rapor düzenleyerek denetim raporuyla birlikte yönetim kuruluna sunmak.
+c) (Değişik ibare:RG-21/7/2017-30130) Türk Ticaret Kanununun 399 uncu maddesinde belirtilen denetçilerin seçimi, görevden alınması ve sözleşmenin feshine ilişkin hükümlerine uymak.
+ç) Denetim sözleşmesinin feshi halinde, fesih tarihine kadar elde ettiği sonuçları (Değişik ibare:RG-21/7/2017-30130) Türk Ticaret Kanununun 402 nci maddesine uygun bir rapor haline getirerek genel kurulun bilgisine sunmak.
+d) Bağımsız denetime ilişkin olarak 660 sayılı Kanun Hükmünde Kararname ve ikincil mevzuat düzenlemeleri dışındaki (Değişik ibare:RG-21/7/2017-30130) Türk Ticaret Kanunu ve ilgili mevzuatında öngörülen diğer yükümlülükleri yerine getirmek.

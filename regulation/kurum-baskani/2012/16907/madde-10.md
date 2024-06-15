@@ -1,0 +1,2 @@
+Denetim raporu
+MADDE 10 – (1) Denetim raporu, denetim kanıtlarının TDS çerçevesinde değerlendirilmesi sonucunda, belirlenen güvence seviyesine uygun şekilde oluşturulan denetçi görüşünün ve varsa dikkat çekilmek istenen diğer hususların kullanıcıların istifadesine sunulması amacıyla Kurum düzenlemelerine uygun olarak hazırlanan ve imzalayan denetim kuruluşu veya (Ek ibare:RG-21/7/2017-30130) denetim üstlenen bağımsız denetçi tarafından sorumluluğu üstlenilen belgedir.

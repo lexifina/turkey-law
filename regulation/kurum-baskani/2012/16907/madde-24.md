@@ -1,0 +1,3 @@
+Haksız rekabette bulunmama
+MADDE 24 – (1) Denetim kuruluşları ve denetçiler, diğer düzenlemelerde yer alan haksız rekabet halleri saklı kalmak kaydıyla, denetim faaliyetinin niteliğini herhangi bir suretle olumsuz yönde etkileyebilecek veya meslektaşlarına zarar verebilecek tarzda ve ölçüde faaliyet gösteremezler.
+(2) Denetim kuruluşu ve (Ek ibare:RG-21/7/2017-30130) denetim üstlenen bağımsız denetçiler, Kurum tarafından izin verilen haller hariç olmak üzere, başka bir denetim kuruluşu ve (Ek ibare:RG-21/7/2017-30130) denetim üstlenen bağımsız denetçi ile denetim hizmeti ilişkisi devam eden bir denetlenen işletmenin aynı döneme ilişkin denetim hizmet talebini kabul edemezler.

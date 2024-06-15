@@ -1,0 +1,9 @@
+Mesleki etik ilkelere uyma
+MADDE 21 – (1) Denetim kuruluşları ve denetçiler;
+a) Dürüstlük; bütün mesleki ve iş ilişkilerinde dürüst, açık, doğru ve güvenilir olmak,
+b) Tarafsızlık; önyargıların, temayüllerin, çıkar çatışmalarının veya başkalarının nüfuzlarını kötüye kullanarak meslek veya işle ilgili muhakemelerini ve kararlarını etkilemesine izin vermemek,
+c) Mesleki yeterlik ve özen; uygulama, mevzuat ve denetim tekniklerindeki güncel gelişmeler ışığında, mesleki bilgi ve beceriyi, denetlenen işletmelerin yeterli denetim hizmeti almalarını temin edecek bir seviyede tutmak ve TDS’ye uygun bir şekilde ve özen içinde hareket etmek,
+ç) Sır saklama; mesleğin icrası sırasında elde edilen bilgilerin gizliliğine riayet etmek; söz konusu bilgilerin açıklanması için yasal veya mesleki bir hak veya görevin bulunması durumu saklı olmak kaydıyla, uygun ve belirli bir yetki olmaksızın bu tür bilgileri üçüncü kişilere açıklamamak ve kendisi veya üçüncü kişilerin çıkarlarına kullanmamak,
+d) Mesleğe uygun davranış; ilgili mevzuata uymak ve denetim mesleğinin itibarını zedeleyici fiil ve davranışlardan kaçınmak,
+şeklindeki ayrıntıları Kurum tarafından belirlenecek mesleki etik ilkelere uymak zorundadır.
+(2) Denetim kuruluşları (Ek ibare:RG-21/7/2017-30130) ve denetim üstlenen bağımsız denetçiler, denetçiler ve denetime katılanlardan, her bir denetimden önce ve her halükarda yılda en az bir kez, bağımsızlık, tarafsızlık ve sır saklamayla (Değişik ibare:RG-21/7/2017-30130) ilgili kuruluşun veya denetim üstlenen bağımsız denetçinin politika ve süreçlerine uygun davrandıklarına ve davranacaklarına ilişkin yazılı taahhüt alır. Denetçiler ve denetime katılanlar, denetime başladıktan sonra birinci fıkrada belirtilen hususları olumsuz yönde etkileyebilecek hususların ortaya çıkması halinde ise, bu durumu denetim kuruluşuna (Ek ibare:RG-21/7/2017-30130) veya denetim üstlenen bağımsız denetçiye yazılı olarak bildirir.

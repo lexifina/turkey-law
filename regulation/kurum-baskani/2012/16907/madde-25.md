@@ -1,0 +1,8 @@
+Sürekli eğitim
+MADDE 25 – (1) (Değişik:RG-21/7/2017-30130) Denetçiler, etik kurallara uygun ve yüksek kalitede hizmet sunabilmeleri amacıyla, sahip oldukları mesleki bilgi ve becerilerinin yeterli bir seviyede tutulmasını ve geliştirilmesini hedefleyen sürekli eğitime tabi tutulur.
+(2) (Değişik:RG-21/7/2017-30130) Sürekli eğitim yükümlülüğü denetçinin sicile tescil edildiği tarihi izleyen ikinci takvim yılının başından itibaren başlar. Yetkilendirildiği tarih ile tescil tarihi arasında iki yıl ve daha fazla süre bulunanlar için ilave yükümlülükler getirilebilir.
+(3) (Değişik:RG-21/7/2017-30130) Sürekli eğitim yükümlülüğünün başlamasından itibaren, denetçilerin her yıl, yıllık ve üçer yıllık dönemler için Kurum tarafından öngörülen sürekli eğitim yükümlülüğüne ilişkin şartları karşılamaları zorunludur.
+(4) Denetim kuruluşları (Ek ibare:RG-21/7/2017-30130) denetim üstlenen bağımsız denetçiler, denetçilerinin sürekli eğitim programlarını tamamlamaları için gerekli tedbirleri alır.
+(5) Sürekli eğitime ilişkin hususlar, gerektiğinde ilgili kurumların görüşü de alınarak Kurum tarafından düzenlenir.
+(6) Kurum, denetimin bağımsızlığının ve tarafsızlığının sağlanması, denetime olan güven ile denetimin kalitesinin artırılması amacıyla sürekli eğitime ilave olarak bu Yönetmelik çerçevesinde denetçilerin ve meslek mensuplarının eğitilmesi veya eğitim seviyelerinin yükseltilmesi hususunda gerekli tedbirleri alır.
+(7) (Değişik:RG-23/11/2018-30604) Sürekli eğitim yükümlülüğünü yerine getirmeyen denetçiler, bu yükümlülüklerini yerine getirene kadar denetim yapamazlar ve denetim ekiplerinde görevlendirilemezler.

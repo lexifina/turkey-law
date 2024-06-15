@@ -1,0 +1,3 @@
+Denetimin konusu
+MADDE 6 – (1) Denetim (Değişik ibare:RG-21/7/2017-30130) Türk Ticaret Kanunu, 660 sayılı Kanun Hükmünde Kararname ve diğer mevzuat hükümleri uyarınca (Ek ibare:RG-15/6/2024-32577) veya ihtiyari olarak denetime tabi tutulan konularda yapılır.
+(2) Denetim; (Değişik ibare:RG-21/7/2017-30130) Türk Ticaret Kanunu hükümlerine göre denetlenmesi öngörülen finansal tablolar, yıllık faaliyet raporları, riskin erken saptanması ve yönetimine ilişkin sistemler ile sair mevzuat uyarınca (Ek ibare:RG-15/6/2024-32577) veya ihtiyari olarak doğrudan veya dolaylı olarak denetim kuruluşları ve denetçiler tarafından denetlenmesi, incelenmesi veya değerlendirilmesi öngörülen diğer hususlara ilişkin konuları kapsar.

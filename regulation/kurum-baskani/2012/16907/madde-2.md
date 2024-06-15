@@ -1,0 +1,2 @@
+Kapsam
+MADDE 2 – (1) Bu Yönetmelik; (Değişik ibare:RG-21/7/2017-30130) Türk Ticaret Kanunu ve 660 sayılı Kanun Hükmünde Kararname (Ek ibare:RG-15/6/2024-32577) ve ilgili mevzuat çerçevesinde (Ek ibare:RG-15/6/2024-32577) veya ihtiyari olarak yapılacak bağımsız denetime, bağımsız denetim kuruluşlarının ve bağımsız denetçilerin; yetkilendirilmelerine, sicil kayıtlarının tutulmasına, yükümlülüklerine, sorumluluklarına, bunların Kurum tarafından incelenmesine ve denetlenmesine ve bunlar hakkında uygulanacak idari yaptırımlara ilişkin usul ve esasları kapsar.

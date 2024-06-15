@@ -1,0 +1,93 @@
+{
+  "source_id": "7.5.16907",
+  "kind": "regulation",
+  "register_kind": "Kurum ve Kuruluş Yönetmelikleri",
+  "title": "BAĞIMSIZ DENETİM YÖNETMELİĞİ",
+  "number": "16907",
+  "issuer": "Kurum Başkanı",
+  "issuer_slug": "kurum-baskani",
+  "path": "regulation/kurum-baskani/2012/16907",
+  "source": "https://www.mevzuat.gov.tr/anasayfa/MevzuatFihristDetayIframe?MevzuatTur=7&MevzuatNo=16907&MevzuatTertip=5",
+  "source_sha256": "43cc124c2e802b4f2fd3db14e798f98470918c8969a9aa498fbff746c35842d4",
+  "source_bytes": 194519,
+  "published": "2012-12-26",
+  "gazette": "28509",
+  "in_force": "2024-06-15",
+  "in_force_basis": "latest Resmî Gazete date printed in the source amendment notes/table (\"RG-15/6/2024\") for the current consolidated text",
+  "date_evidence": [
+    [
+      "2024-06-15",
+      "RG-15/6/2024",
+      "Resmî Gazete date printed in the source amendment note"
+    ],
+    [
+      "2024-06-15",
+      "15/6/2024",
+      "Resmî Gazete date in the source amendment table"
+    ],
+    [
+      "2022-12-17",
+      "RG-17/12/2022",
+      "Resmî Gazete date printed in the source amendment note"
+    ],
+    [
+      "2022-12-17",
+      "17/12/2022",
+      "Resmî Gazete date in the source amendment table"
+    ],
+    [
+      "2022-01-11",
+      "RG-11/1/2022",
+      "Resmî Gazete date printed in the source amendment note"
+    ],
+    [
+      "2022-01-11",
+      "11/1/2022",
+      "Resmî Gazete date in the source amendment table"
+    ],
+    [
+      "2018-11-23",
+      "RG-23/11/2018",
+      "Resmî Gazete date printed in the source amendment note"
+    ],
+    [
+      "2018-11-23",
+      "23/11/2018",
+      "Resmî Gazete date in the source amendment table"
+    ],
+    [
+      "2017-07-21",
+      "RG-21/7/2017",
+      "Resmî Gazete date printed in the source amendment note"
+    ],
+    [
+      "2017-07-21",
+      "21/7/2017",
+      "Resmî Gazete date in the source amendment table"
+    ],
+    [
+      "2015-12-22",
+      "RG-22/12/2015",
+      "Resmî Gazete date printed in the source amendment note"
+    ],
+    [
+      "2015-12-22",
+      "22/12/2015",
+      "Resmî Gazete date in the source amendment table"
+    ]
+  ],
+  "commencement_clauses": [
+    "Bu Yönetmelik yayımı tarihinde yürürlüğe girer"
+  ],
+  "history": "current-text",
+  "label": "oldest version available",
+  "checked_on": "2026-11-15",
+  "word_count": 10680,
+  "text_status": "current-consolidated",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  },
+  "completeness": "html-text-complete"
+}
