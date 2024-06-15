@@ -1,0 +1,5 @@
+Sermaye
+MADDE 5- (1) Şirketin sermayesine ilişkin yapılacak değerlendirmelerde, ticaret siciline tescil edilmiş olan sermaye tutarı esas alınır.
+(2) Enflasyon düzeltmesinden kaynaklanan sermaye düzeltmesi olumlu farkları, diğer öz sermaye kalemlerine ilişkin olumlu farklar ile bunların dışında kalan iç kaynakların, enflasyon düzeltmesinden kaynaklı zararlar dâhil zararlar ve olumsuz farkları aşan kısmı Kanunun 462 nci maddesi kapsamında sermayeye ilave edilebilir.
+(3) Enflasyon düzeltmesinden kaynaklanan sermaye düzeltmesi olumsuz farkları ile enflasyon düzeltmesinden kaynaklanan diğer olumsuz farklar ise genel kurulda alınacak karara istinaden, sermaye azaltımı yoluyla veya olumlu farklar yahut diğer iç kaynaklarla mahsup edilebilir.
+(4) 4 üncü maddenin birinci fıkrası kapsamında bulunan şirketlerde gerçekleştirilecek sermaye artırımlarında, Kanunun 88 inci maddesine göre hazırlanan enflasyon düzeltmesi uygulanmış finansal tablolar esas alınmakla birlikte, sermayeye eklenecek iç kaynak tutarı, 213 sayılı Kanun hükümlerine göre enflasyon düzeltmesi uygulanmış finansal tablolarda bulunan sermayeye eklenebilecek iç kaynakların toplamını aşamaz.
