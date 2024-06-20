@@ -1,0 +1,39 @@
+{
+  "checked_on": "2026-11-14",
+  "commencement_clauses": [
+    "MADDE 20- (1) Bu Yönetmelik yayımı tarihinde yürürlüğe girer."
+  ],
+  "date_evidence": [
+    [
+      "2024-06-20",
+      "20.06.2024",
+      "original gazette publication date in official listing"
+    ]
+  ],
+  "date_quote": "MADDE 20- (1) Bu Yönetmelik yayımı tarihinde yürürlüğe girer.",
+  "first_law": null,
+  "gazette": "32578",
+  "history": "current-text",
+  "images": {
+    "deferred": 0,
+    "omitted": 0,
+    "referenced": 0,
+    "source": 0
+  },
+  "in_force": "2024-06-20",
+  "in_force_basis": "source commencement clause: enters into force on gazette publication",
+  "issuer": "Piri Reis Üniversitesi",
+  "issuer_slug": "piri-reis-universitesi",
+  "kind": "regulation",
+  "label": "oldest version available",
+  "path": "regulation/piri-reis-universitesi/2024/40845",
+  "published": "2024-06-20",
+  "source": "https://www.mevzuat.gov.tr/anasayfa/MevzuatFihristDetayIframe?MevzuatTur=8&MevzuatNo=40845&MevzuatTertip=5",
+  "source_bytes": 30102,
+  "source_id": "8.5.40845",
+  "source_sha256": "26576736ac78be787702cc69eaacf625cea24054143abfdf8683162df5b80bdf",
+  "text_status": "as-enacted",
+  "title": "PİRİ REİS ÜNİVERSİTESİ SÜREKLİ EĞİTİM UYGULAMA\r\nVE ARAŞTIRMA MERKEZİ YÖNETMELİĞİ",
+  "university_id": 324,
+  "word_count": 1197
+}
