@@ -1,0 +1,3 @@
+Eğitim-öğretimin şekli ve süresi
+MADDE 6 – (Değişik:RG-22/5/2016-29719) (2)
+(1) Güz ve bahar yarıyılları dışında ve yaz tatili aylarında yapılan yaz okulu eğitim-öğretiminin süresi beş haftadır. Gerekli görülmesi halinde bu süre Senato kararıyla uzatılabilir. Bu süreyi izleyen hafta içinde genel sınavlar yapılır. Yaz okulunda açılan her ders için, güz veya bahar yarıyıllarında yapılan kuramsal ve uygulamalı ders saatleri toplamı kadar ders yapılır. Yaz okulu eğitiminde geçen süre eğitim-öğretim süresinden sayılmaz. Yaz okuluna kayıt, eğitim-öğretim ve sınav tarihleri Senato tarafından belirlenir ve akademik takvimde belirtilir.

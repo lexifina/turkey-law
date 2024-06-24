@@ -1,0 +1,7 @@
+Sınavlar ve başarının değerlendirilmesi
+MADDE 10 – (1) Yaz okulunda yalnız bu dönemde açılan dersler ve bu derslere kayıtlı öğrenciler için ara ve genel sınavlar yapılır. Yaz okulunda alınan derslerin genel sınavları için mazeret sınav hakkı verilmez.
+(2) (Değişik:RG-5/2/2013-28550) Yaz okulunda açılan derslerde en az bir ara sınav ve bir genel sınav yapılır. Başarının değerlendirilmesinde ve not verme işlemlerinde öğrencinin kayıtlı olduğu programa ilişkin mevzuat hükümleri uygulanır.
+(3) (Değişik:RG-12/6/2012-28321) Öğrencinin her yaz okulunda aldığı not/notlar, not dökümünde, yaz okulu başlığı altında açılacak ayrı bir bölümde gösterilir. Yaz okulunda alınan notlar, önceki güz ve bahar yarıyılları sonu itibarıyla hesaplanan dönem akademik ortalamalarının yeniden hesaplanmasını ve bu ortalamaların değiştirilmesini gerektirmez.
+(4) (Değişik:RG-5/2/2013-28550) Lisans programlarında, yarıyıl tekrar etme durumunda olan ancak, yaz okulunda ders alarak genel akademik ortalamalarını 1.80 ve üzerine çıkaran öğrencilerin yarıyıl tekrar etme durumları ortadan kalkar.
+(5) Yaz okulunda aldığı ve başardığı derslerle mezuniyet hakkı kazanan öğrencilerin mezuniyeti gerçekleştirilir.
+(6) Özel öğrenci statüsü ile yaz okulu derslerine kayıt yaptıranlara, yaz okulu öğretim süresini, aldıkları derslerin kodunu, adını, kredisini ve genel başarı notunu gösteren bir belge Öğrenci İşleri Dairesi Başkanlığı tarafından verilir. Genel başarı not listesinin bir kopyası ilgili birim tarafından saklanır.

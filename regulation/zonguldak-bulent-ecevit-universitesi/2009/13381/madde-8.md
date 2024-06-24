@@ -1,0 +1,10 @@
+Kayıt ve ders alma
+MADDE 8 – (Değişik:RG-12/6/2012-28321)
+(1) (Değişik:RG-28/5/2017-30079) Bir öğrenci, yaz okulunda önlisans ve lisans eğitiminde üç ders, lisansüstü eğitiminde iki dersi aşmamak üzere ders alabilir. Başarısız olunan dersler, ilk açıldığı yarıyılda tekrarlanır.
+(2) Yaz okulunda ders alacak öğrencilerin kayıtları, akademik takvimde belirtilen tarihte yapılır. Yaz okuluna kayıt yaptıracak öğrencilerden ders başına öğretim ücreti alınır.
+(3) Yaz okulunda kayıttan sonra ders ekleme ve silme işlemi uygulanmaz. Ancak, bu Yönetmeliğin 7 nci maddesi hükümlerine göre bir dersin açılamaması durumunda, bu derse kayıt yaptıran öğrencilere birinci fıkra hükmü koşullarında, açık olan bir başka derse kayıt yaptırma imkanı verilir. Öğrenci açılamayan dersin yerine başka bir derse kayıt olmak istemezse, bu ders öğrencinin üzerinden silinir ve derse ilişkin öğretim ücreti öğrenciye iade edilir.
+(4) (Mülga:RG-22/5/2016-29719) (2)
+(5) (Değişik:RG-17/5/2019-30777) Yarıyıl tekrarı durumunda olan öğrenciler, daha önce alıp başarısız oldukları veya DC ve DD notu aldıkları dersleri, açılmışsa, yaz okulunda alabilir. Yarıyıl tekrarı durumunda olmayan öğrenciler ise akademik ortalamalarını yükseltmek amacıyla daha önce aldıkları dersleri yaz okulunda alabilirler. Ayrıca, değişim programlarıyla başka üniversiteye giden öğrenciler ile yatay ve dikey geçiş yoluyla gelen öğrenciler, bulundukları yarıyıl/yıl itibarıyla yükümlü oldukları ancak alamadıkları dersleri yaz okulunda alabilirler.
+(6) (Değişik:RG-22/5/2016-29719) (2) Bahar yarıyılı sonunda bulunduğu yarıyıla kadar alması gereken tüm dersleri almış ve başarmış olmak kaydıyla genel not ortalaması 2.50 ve üzeri olan lisans öğrencileri yaz okulunda bir üst sınıftan ders alabilirler.
+(7) (Ek:RG-22/5/2016-29719) (2) Mezun olmak için en fazla üç dersi kalan ve genel not ortalaması 2.00 olan öğrenciler yaz okulundan hiç almadığı üç dersi alabilirler.
+(8) (Ek:RG-22/5/2016-29719) (2) Yandal ve çift anadal programına kayıtlı olan öğrenciler yükümlü oldukları dersleri yaz okulunda alabilirler.
