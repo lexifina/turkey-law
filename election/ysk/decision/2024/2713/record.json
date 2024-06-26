@@ -1,0 +1,17 @@
+{
+  "issuer": "Yüksek Seçim Kurulu",
+  "document_type": "decision",
+  "number": "2024/2713",
+  "list_number": "2713",
+  "decision_date": "2024-06-26",
+  "title": "Yüksek Seçim Kurulunun 26/06/2024 Tarihli ve 2024/2713 Sayılı Kararı",
+  "official_document": "https://www.ysk.gov.tr/doc/karar/dosya/58013044/2024-2713.pdf",
+  "source_sha256": "aafa0029a19a790e145694692e5d7383ffd261a15da865f4c7bd93ced6c7e4d5",
+  "official_list": "https://www.ysk.gov.tr/doc/karar/kararlar.txt",
+  "official_list_sha256": "0733001df8fd09fa2f4155954da343809b59b823ecd8d57ad2e679c4264f5a84",
+  "pdf_pages": 6,
+  "text_status": "metadata-only",
+  "metadata_only_reason": "no text layer (image-only PDF; no OCR)",
+  "in_force": "2024-06-26",
+  "law_text_complete": false
+}
