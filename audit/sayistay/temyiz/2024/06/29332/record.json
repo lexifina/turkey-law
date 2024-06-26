@@ -1,0 +1,16 @@
+{
+  "kind": "decision",
+  "issuer": "Sayıştay Temyiz Kurulu",
+  "number": "56978",
+  "decision_date": "2024-06-26",
+  "source_id": 29332,
+  "chamber": "3",
+  "file_number": "53852",
+  "public_body_type": "Belediyeler ve Bağlı İdareler",
+  "account_year": "2021",
+  "subject": "Personel Mevzuatı ile İlgili Kararlar",
+  "source": "https://www.sayistay.gov.tr/KararlarTemyiz/Detay/29332/",
+  "source_sha256": "f9ecf1d5fcd0cf1e7189bfca6154f0ee8ab7acadfaa774736fcee62c0e2d612b",
+  "text_status": "as-enacted",
+  "text_file": "metin.md"
+}
