@@ -8,8 +8,8 @@
   "text_label": "last-available-consolidated",
   "enacted": "2022-02-03",
   "published": "2022-02-14",
-  "in_force": "2023-01-15",
-  "in_force_basis": "Source entry-into-force table: 15/1/2023",
+  "in_force": "2024-06-27",
+  "in_force_basis": "Source labelled entry-into-force table row: Anayasa Mahkemesinin 13/7/2023 tarihli ve E.:2022/47; K.:2023/124 sayılı Kararı | 5, 6 | Kararın Resmî Gazete’de yayımlanmasından başlayarak dokuz ay sonra (27/6/2024)",
   "source": "https://www.mevzuat.gov.tr/anasayfa/MevzuatFihristDetayIframe?MevzuatTur=5&MevzuatNo=7354&MevzuatTertip=5",
   "source_sha256": "c07f8f1c61d1b1eebeb94881e5e9964bb94febdfd1e73a7a8486f0975b9993a2",
   "words": 990,
@@ -17,5 +17,5 @@
   "images_referenced": 0,
   "images_deferred": 0,
   "first_law": null,
-  "history_note": "Earlier versions and as-enacted text are not established by this current HTML source."
+  "history_note": "Earlier versions are not established by this current HTML source."
 }
