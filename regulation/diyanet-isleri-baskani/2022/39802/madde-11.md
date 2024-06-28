@@ -1,0 +1,2 @@
+Usule aykırı basım ve yayım
+MADDE 11- (1) Mühürsüz/onaysız basıldığı veya yayımlandığı tespit edilen mushaflar, cüzler hâlindeki mushaflar ve mealli mushaflar ile sesli, görüntülü ve elektronik ortamda hazırlanan mealli/mealsiz Kur’an-ı Kerim yayımlarının; basım ve yayımının durdurulması, dağıtılmış olanların toplatılması ve imha edilmesi ile bu kapsamdaki yayımın internet ortamında yapılması hâlinde buna ilişkin erişimin engellenmesi hususlarında 633 sayılı Kanunun ilgili hükümleri uygulanır.
