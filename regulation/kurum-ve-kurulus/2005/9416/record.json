@@ -1,0 +1,42 @@
+{
+  "source_id": "7.5.9416",
+  "kind": "regulation",
+  "register_kind": "Kurum ve Kuruluş Yönetmelikleri",
+  "title": "ODALAR, BORSALAR VE BİRLİK BÜTÇELERİNDEN TÜRKİYE ODALAR, BORSALAR VE BİRLİK PERSONELİ SİGORTA VE EMEKLİ SANDIĞI VAKFINA AYRILAN PAYIN KULLANILMASINA İLİŞKİN YÖNETMELİK",
+  "number": "9416",
+  "issuer_slug": "kurum-ve-kurulus",
+  "path": "regulation/kurum-ve-kurulus/2005/9416",
+  "source": "https://www.mevzuat.gov.tr/anasayfa/MevzuatFihristDetayIframe?MevzuatTur=7&MevzuatNo=9416&MevzuatTertip=5",
+  "source_sha256": "6309b8f2cad450139c8aca885a40196e1b3b603043b5c85b6cb92f396023f790",
+  "source_bytes": 27556,
+  "published": "2005-09-12",
+  "gazette": "25934",
+  "in_force": "2024-06-28",
+  "in_force_basis": "latest Resmî Gazete date printed in the source amendment notes/table (\"RG-28/6/2024\") for the current consolidated text",
+  "date_evidence": [
+    [
+      "2024-06-28",
+      "RG-28/6/2024",
+      "Resmî Gazete date printed in the source amendment note"
+    ],
+    [
+      "2024-06-28",
+      "28/6/2024",
+      "Resmî Gazete date in the source amendment table"
+    ]
+  ],
+  "commencement_clauses": [
+    "Bu Yönetmelik yayımı tarihinde yürürlüğe girer"
+  ],
+  "history": "current-text",
+  "label": "oldest version available",
+  "checked_on": "2026-11-15",
+  "word_count": 438,
+  "text_status": "current-consolidated",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  },
+  "completeness": "html-text-complete"
+}
