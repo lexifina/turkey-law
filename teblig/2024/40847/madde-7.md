@@ -1,0 +1,8 @@
+Zarar ve nedensellik iddiası
+MADDE 7- (1) Yönetmeliğin 17 nci maddesi çerçevesinde zarar iddiası 1/1/2021-31/12/2023 dönemi için incelenmiştir.
+(2) ÇHC menşeli soruşturma konusu ürün ithalatının, 2021 yılı baz yıl olarak değerlendirildiğinde, 2023 yılında hem mutlak hem de nispi olarak arttığı görülmektedir.
+(3) Endonezya menşeli soruşturma konusu ürün ithalatının, 2021 yılı baz yıl olarak değerlendirildiğinde, 2023 yılında hem mutlak hem de nispi olarak arttığı görülmektedir.
+(4) ÇHC menşeli ithalatın, soruşturma konusu ürün tiplerinde yerli üretim dalının iç piyasa satış fiyatlarını 2021 yılında kırmadığı, 2022 ve 2023 yıllarında kırdığı ve baskıladığı görülmektedir.
+(5) Endonezya menşeli ithalatın, yerli üretim dalının iç piyasa satış fiyatlarını soruşturma konusu ürün tiplerinde 2021 ve 2022 yıllarında kırdığı, 2023 yılında kırmadığı; ancak, her üç yılda da baskıladığı görülmektedir.
+(6) 1/1/2021-31/12/2023 döneminde, yerli üretim dalının ekonomik göstergelerinin bütüncül olarak değerlendirilmesi neticesinde, incelenen dönemde başvuru konusu ürünün üretim, yurt içi satış miktarı, stok miktarı ve stok değeri, ürün nakit akışı, KKO ve pazar payı gibi temel ekonomik göstergelerinde bozulma olduğu ve yurt içi satışlardan birim kârlılığın incelenen yıllar itibarıyla düşüş gösterdiği görülmektedir.
+(7) Başvuru aşamasında sunulan deliller ve ithalata ilişkin Bakanlık istatistik veri tabanında yer alan veriler esas alınarak yapılan tespitler ışığında, dampingli olduğu iddia edilen ÇHC ve Endonezya menşeli ithalatın yerli üretim dalının ekonomik göstergelerinde maddi zarara yol açtığı değerlendirilmiştir.
