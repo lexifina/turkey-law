@@ -1,0 +1,53 @@
+{
+  "source_id": "7.5.20250",
+  "kind": "regulation",
+  "register_kind": "Kurum ve Kuruluş Yönetmelikleri",
+  "title": "ET VE SÜT KURUMU PERSONELİ GÖREVDE YÜKSELME VE UNVAN DEĞİŞİKLİĞİ YÖNETMELİĞİ",
+  "number": "20250",
+  "issuer": "Et ve Süt Kurumu Genel Müdürü",
+  "issuer_slug": "et-ve-sut-kurumu-genel-muduru",
+  "path": "regulation/et-ve-sut-kurumu-genel-muduru/2014/20250",
+  "source": "https://www.mevzuat.gov.tr/anasayfa/MevzuatFihristDetayIframe?MevzuatTur=7&MevzuatNo=20250&MevzuatTertip=5",
+  "source_sha256": "2c64c79f2dcacb94e1b171480ec6e1571b2c32582962b6d5d9e9638371d802ec",
+  "source_bytes": 74622,
+  "published": "2014-11-29",
+  "gazette": "29190",
+  "in_force": "2024-06-29",
+  "in_force_basis": "latest Resmî Gazete date printed in the source amendment notes/table (\"RG-29/6/2024\") for the current consolidated text",
+  "date_evidence": [
+    [
+      "2024-06-29",
+      "RG-29/6/2024",
+      "Resmî Gazete date printed in the source amendment note"
+    ],
+    [
+      "2024-06-29",
+      "29/6/2024",
+      "Resmî Gazete date in the source amendment table"
+    ],
+    [
+      "2019-06-21",
+      "RG-21/6/2019",
+      "Resmî Gazete date printed in the source amendment note"
+    ],
+    [
+      "2019-06-21",
+      "21/6/2019",
+      "Resmî Gazete date in the source amendment table"
+    ]
+  ],
+  "commencement_clauses": [
+    "Bu Yönetmelik yayımı tarihinde yürürlüğe girer"
+  ],
+  "history": "current-text",
+  "label": "oldest version available",
+  "checked_on": "2026-11-15",
+  "word_count": 3251,
+  "text_status": "current-consolidated",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  },
+  "completeness": "html-text-complete"
+}

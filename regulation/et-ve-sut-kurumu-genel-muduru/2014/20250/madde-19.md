@@ -1,0 +1,2 @@
+Sınav belgelerinin saklanması
+MADDE 19 – (1) Sınava katılan personelin sınavla ilgili belgeleri özlük dosyalarında, diğer belgeler ise sınav tarihinden itibaren beş yıl süreyle İnsan Kaynakları ve Yönetim Geliştirme Dairesi Başkanlığında saklanır. (Ek cümle:RG-29/6/2024-32587) Dava açılması halinde dava sonuçlanıncaya kadar söz konusu belgeler İnsan Kaynakları ve Yönetim Geliştirme Dairesi Başkanlığında saklanır.

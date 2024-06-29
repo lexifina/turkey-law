@@ -1,0 +1,2 @@
+Kapsam
+MADDE 2 – (1) Bu Yönetmelik, Et ve Süt Kurumu Genel Müdürlüğü merkez ve taşra teşkilatında 14/7/1965 tarihli ve 657 sayılı Devlet Memurları Kanunu ile 22/1/1990 tarihli ve 399 sayılı Kamu İktisadi Teşebbüsleri Personel Rejiminin Düzenlenmesi ve 233 Sayılı Kanun Hükmünde Kararnamenin Bazı Maddelerinin Yürürlükten Kaldırılmasına Dair Kanun Hükmünde Kararname hükümlerine tabi olarak görev yapan personelden, görevde yükselme ile unvan değişikliği suretiyle atanacakları kapsar.

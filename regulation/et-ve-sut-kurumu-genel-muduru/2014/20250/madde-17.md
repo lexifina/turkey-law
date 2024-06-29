@@ -1,0 +1,3 @@
+Sınav sonuçlarının açıklanması ve itiraz
+MADDE 17 – (1) Sınav sonuçları, sınavların yapıldığı tarihten itibaren en geç otuz gün içinde sınav kurulu tarafından Kurumun internet/intranet sitesinde ilan edilir. İlgililer, ilan tarihinden itibaren beş iş günü içerisinde sınav sonuçlarına itiraz edebilir. İnsan Kaynakları ve Yönetim Geliştirme Dairesi Başkanlığına yazılı olarak yapılacak itiraz başvuruları, ilgisine göre sınav kurulunca incelenir veya sınavı yapan kuruma incelettirilir. İnceleme sonuçları en geç on iş günü içerisinde yazılı olarak ilgililere bildirilir. İtiraz üzerine verilen karar kesindir.
+(2) Yazılı sınavlarda, itiraz sonucu, sınav kurulunca hatalı olduğu sonucuna varılan sorular iptal edilerek tüm adaylarca doğru yapılmış kabul edilir.
