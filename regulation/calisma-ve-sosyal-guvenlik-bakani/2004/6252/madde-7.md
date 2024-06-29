@@ -1,0 +1,9 @@
+Gece Çalışma Süresi
+Madde 7 — (Değişik:RG-19/8/2017- 30159)
+Postalar halinde işçi çalıştırılarak yürütülen işlerde, 4857 sayılı Kanunun 42 ve 43 üncü maddeleri ile 70 inci maddesinde öngörülen yönetmelikte belirtilen haller dışında işçilerin gece postalarında 7,5 saatten çok çalıştırılmaları yasaktır. Ancak turizm, özel güvenlik (Değişik ibare:RG-29/6/2024-32587) , sağlık hizmeti ve petrol araştırma, arama ve sondaj faaliyetleri kapsamında yürütülen işlerde işçinin yazılı onayının alınması şartıyla yedi buçuk saatin üzerinde gece çalışması yaptırılabilir. Bu fıkranın uygulanmasında;
+a) (Değişik ibare:RG-29/6/2024-32587) Turizm hizmeti kapsamında yürütülen işler; ilgili mevzuatı uyarınca Kültür ve Turizm Bakanlığı tarafından turizm işletmesi belgesi veya turizm yatırımı belgesi verilen ya da belediye tarafından turizm işletmesi olarak faaliyet göstermek üzere işletme belgesi verilen tesislerde,
+b) (Değişik ibare:RG-29/6/2024-32587) Özel güvenlik hizmeti kapsamında yürütülen işler; 10/6/2004 tarihli ve 5188 Sayılı Özel Güvenlik Hizmetlerine Dair Kanun kapsamında İçişleri Bakanlığınca faaliyet izni verilen özel güvenlik şirketlerinde veya özel güvenlik görevlisi olarak herhangi bir işyerinde,
+c) (Değişik ibare:RG-29/6/2024-32587) Sağlık hizmeti kapsamında yürütülen işler; Sağlık hizmeti sunan ve/veya üreten; gerçek kişiler ile kamu ve özel hukuk tüzel kişilerin işyerinde ve bunların tüzel kişiliği olmayan şubelerinde, 24/5/1983 tarihli ve 2828 sayılı Sosyal Hizmetler Kanununda tanımlanan sosyal hizmet kuruluşlarında,
+ç) (Ek:RG-29/6/2024-32587) Petrol araştırma, arama ve sondaj faaliyetleri kapsamında yürütülen işler; 30/5/2013 tarihli ve 6491 sayılı Türk Petrol Kanunu uyarınca petrol araştırma, arama ve sondaj faaliyetleri yürütülen işyerlerinde,
+çalışan işçiler ile bu işyerlerinde alt işveren tarafından çalıştırılan işçileri kapsar.
+Çalışma süresinin yarısından çoğu gece dönemine rastlayan bir postanın çalışması, gece çalışması sayılır.

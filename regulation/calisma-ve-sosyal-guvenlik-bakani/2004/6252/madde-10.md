@@ -1,0 +1,2 @@
+Ara Dinlenmesi
+Madde 10 — Postalar halinde işçi çalıştırılarak yürütülen işlerde, işçilere, 4857 sayılı İş Kanununun 68 inci maddesindeki esaslar uyarınca ara dinlenmesi verilir. İşin niteliği, bir işyerinin aynı bölümündeki bütün işçilere aynı saatte ara dinlenmesi verilmesine olanak bırakmıyorsa, bu dinlenme, işçilere, gruplar halinde arka arkaya çalışma süresinin ortalarından başlayarak İş Kanunu ve bu Yönetmelikteki esaslara göre verilir.
