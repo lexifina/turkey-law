@@ -1,0 +1,51 @@
+ON İKİNCİ BÖLÜM
+Kamu Görevlileri ile İlgili İşlemler
+Öğretmenlerin askerlik hizmetine ilişkin usul ve esaslar
+MADDE 94 – (1) Öğretmenlerin askerlik hizmetine ilişkin genel esaslar şunlardır:
+a) Temel askerlik eğitimlerini müteakip geri kalan hizmetlerini Millî Eğitim Bakanlığı emrinde öğretmen olarak tamamlayacak olanların görev yerlerine sevkleri ve katılışları aşağıdaki şekilde yapılır:
+1) Temel askerlik eğitimini tamamlayanlar görevlendirildikleri il millî eğitim müdürlüğü emrine katılırlar. Bu yükümlülere, Millî Eğitim Bakanlığınca görevlendirildikleri yere kadar olan yol masrafları eğitim merkezlerince veya sınıf okulu ve eğitim merkezi komutanlıklarınca tahakkuk ettirilir.
+2) Temel askerlik eğitimlerini müteakip Millî Eğitim Bakanlığı emrinde öğretmen olarak görevlendirilen yükümlülerin şahsi dosyaları, eğitim merkez komutanlıkları veya sınıf okulu komutanlıklarınca görevlendirilmiş oldukları il millî eğitim müdürlüklerine ve Kara Kuvvetleri Komutanlığına gönderilir.
+3) İl millî eğitim müdürlüklerince görevlendirildikleri okullara katılış yapan öğretmenlerin katılış tarihleri, görevlendirildikleri okulların bağlı oldukları il veya ilçe millî eğitim müdürlüklerince kayıtlı oldukları askerlik şubelerine bildirilir.
+b) Millî Eğitim Bakanlığı emrinde öğretmen olarak görevlendirilen yükümlüler, öğretmenlik görevleri sırasında resmi elbise giyemez, iaşe edilmez, hizmetlerinin devamı süresince derneklere üye olamaz ve siyasi faaliyetlerde bulunamazlar.
+c) Yedek subaylar için belirlenen askerlik hizmetinden sayılmayan haller, Millî Eğitim Bakanlığı emrinde öğretmen olarak görevlendirilen yükümlüler için de uygulanır.
+ç) Millî Eğitim Bakanlığı emrine öğretmen olarak verilen yükümlülere verilecek yurt içi ve yurt dışı izinlerinde aynı Bakanlıkta görevli diğer öğretmenlere uygulanan usul ve esaslar uygulanır. Ancak bunlara aylıksız izin verilmez.
+d) Millî Eğitim Bakanlığı emrine görevlendirilenler temel eğitimleri sonunda eğitim merkezi veya sınıf okulu komutanlıklarınca kendilerine teslim edilmiş bulunan iç çamaşırı ve çorap hariç her türlü silâh, teçhizat, melbusat ve askerî eşyayı iade ederler.
+e) Temel askerlik eğitimlerini müteakip Millî Eğitim Bakanlığı emrine öğretmen olarak görevlendirilen yükümlülerin hizmet süreleri, emsali yedek subayların hizmet süresi kadardır. Bu yükümlüler hizmet süresinin sonunda asteğmen rütbesi ile terhis edilirler. Noksan hizmetli olarak terhis edildiği tespit edilenlerin kalan hizmet süreleri 34 üncü maddenin birinci fıkrası hükümlerine göre tamamlatılır.
+f) Görevleri sırasında usulüne göre öğretmenlik mesleği ile ilişikleri kesilenlerin hizmet süresi, erbaş ve erler için belirlenen hizmet süresi kadardır. Bunların kalan noksan hizmetleri er olarak 34 üncü madde hükümlerine göre tamamlatılır ve ödenmekte olan aylık, ödenek, yardım ve tazminatlar kesilir.
+g) Millî Eğitim Bakanlığı emrinde öğretmen olarak görev yapmak üzere ayrılanlara, fiilen öğretmenlik görevine başladıkları tarihten itibaren 926 sayılı Kanunda asteğmenler için tespit edilen aylık, ödenek, yardım ve tazminatlar Millî Eğitim Bakanlığınca ödenir ve bu yükümlülerin aylıklarından Ordu Yardımlaşma Kurumu aidatı kesilir. Bunlara öğretmenlikten dolayı ayrıca bir ücret ödenmez.
+ğ) Millî Eğitim Bakanlığı emrine öğretmen olarak görevlendirilenler hakkında sicil belgesi düzenlenmez.
+h) Millî Eğitim Bakanlığı emrine verilen öğretmenlerin her türlü sağlık işlemleri, diğer öğretmenlerde olduğu gibi Millî Eğitim Bakanlığınca yürütülür. Garnizon veya merkez komutanlıklarınca bu yükümlülerin askerî tabip, revir, hastane ve benzeri kuruluşlara sevkleri yapılmaz.
+ı) Millî Eğitim Bakanlığı emrine öğretmen olarak görevlendirilen yükümlülerin istirahat ve hava değişimi süreleri yedek subaylar için belirlenen süreler kadardır.
+(2) Öğretmenlerin askerlik hizmetine ilişkin Millî Eğitim Bakanlığının görev, yetki ve sorumlulukları aşağıda belirtilmiştir:
+a) Millî Eğitim Bakanlığınca ihtiyaç duyulan branş ve öğretmen sayıları sınıflandırma döneminden en az iki ay önce Bakanlığa bildirilir.
+b) Bakanlıkça uygun görülen branş ve sayıya göre öğretmenlik mesleğini fiilen icra edenler arasından tespit edilenlerin kimlik bilgileri Millî Eğitim Bakanlığınca Bakanlığa bildirilir.
+c) Millî Eğitim Bakanlığı kadrolarında fiilen öğretmen olarak görev yapanlar il veya ilçe millî eğitim müdürlüklerinden alacakları öğretmen bildirim çizelgesini sınıflandırılacakları dönemin başlangıcına kadar askerlik şubelerinde bulundururlar. Bunlar arasından öğretmenlik mesleğinden ayrılan veya branş değiştirenlerin bilgileri il veya ilçe millî eğitim müdürlükleri tarafından kayıtlı bulundukları askerlik şubesine bildirilir.
+ç) Temel askerlik eğitimlerini müteakip, Millî Eğitim Bakanlığı emrine öğretmen olarak verilecek yükümlülerin görevlendirilecekleri il millî eğitim müdürlükleri belirlenir ve dağıtım listeleri temel askerlik eğitiminin bitiminden önce Kara Kuvvetleri Komutanlığı ile eğitim gördükleri eğitim merkezi veya sınıf okulu komutanlıklarına gönderilerek Bakanlığa bilgi verilir.
+d) İl millî eğitim müdürlükleri emrine verilen öğretmenlerin görev yaptıkları okulları gösterir listenin il garnizon komutanlıklarına gönderilmesi sağlanır.
+e) Temel askerlik eğitimini müteakip, Millî Eğitim Bakanlığı emrine verilen yükümlülerden;
+1) Görevlendirildikleri il veya ilçe millî eğitim müdürlükleri emrine katılmayanların,
+2) Her ne sebeple olursa olsun ilişiği kesilenlerin,
+3) Askerliğe elverişli değildir kararlı rapor alanların,
+4) Sağlık nedeniyle hizmet süresi uzayanların,
+5) Adlî ve disiplin işlemleri nedeniyle hizmet süreleri uzayanların,
+kimlik bilgileri ile durumlarını açıklayıcı bilgi ve belgelerin zamana bağlı kalınmaksızın Kara Kuvvetleri Komutanlığına ve Bakanlığa gönderilmesi sağlanır.
+f) Temel askerlik eğitimleri sonunda Millî Eğitim Bakanlığı emrine verilen öğretmen yükümlüler, Millî Eğitim Bakanlığının uygun gördüğü yerlerde görevlendirilir. Bu yükümlülerden daha önce Millî Eğitim Bakanlığı kadrolarında görevli olanlar, ihtiyaç halinde önceki görev yerlerine verilebilir.
+g) Yetkili sağlık kuruluşlarınca haklarında "Askerliğe Elverişli Değildir" kararlı rapor düzenlenen yükümlüler rapor tarihine göre hizmet durum belgesi ile geçici olarak terhis edilir.
+ğ) Millî Eğitim Bakanlığı emrine öğretmen olarak verilen yükümlüler, askerlik hizmet süreleri içerisinde ihtiyaç durumuna bağlı olarak yer değiştirme suretiyle görevlendirilmeye tâbi tutulabilir. Bu şekilde yer değiştirmeye tâbi tutulanların görev yerleri, kayıtlı oldukları askerlik şubeleri ile Kara Kuvvetleri Komutanlığına bildirilir. Bunların sürekli ve geçici görev yollukları usulüne uygun olarak Millî Eğitim Bakanlığınca ödenir.
+h) İlgili yükümlüler hizmet sürelerinin sonunda, emrinde görevli oldukları il veya ilçe millî eğitim müdürlüklerince beş nüsha terhis belgesi tanzim edilerek asteğmen olarak terhis edilirler.
+ı) Terhis belgeleri, yükümlünün görev yaptığı yerdeki il veya ilçe millî eğitim müdürleri tarafından imzalanıp mühürlenerek onaylanmak suretiyle bir nüshası hizmetinin sonunda yükümlüye verilir, diğer dört nüshası şahsi dosyalarıyla birlikte kayıtlı bulundukları askerlik şubelerine gönderilir.
+(3) Bu madde kapsamında Bakanlığın görev yetki ve sorumlulukları aşağıda belirtilmiştir:
+a) Millî Eğitim Bakanlığının ihtiyaç duyduğu branşlar ve öğretmen sayıları, Türk Silahlı Kuvvetlerinin destekleme oranları ve ihtiyacı dikkate alınarak değerlendirilir ve Millî Eğitim Bakanlığına verilmesi uygun görülen branşlar ve öğretmen sayıları bildirilir.
+b) Millî Eğitim Bakanlığınca öğretmenlik mesleğini fiilen icra edenler arasından yedek subay öğretmen statüsünde silahaltına alınması teklif edilenler, yedek subay öğretmen aday adayı statüsünde sınıflandırmaya tabi tutularak temel askerlik eğitimine sevk edilir.
+c) Temel askerlik eğitimini başarıyla bitirenler, kalan askerlik hizmetlerini tamamlamak üzere Millî Eğitim Bakanlığı emrine verilir.
+ç) (Değişik:RG-30/4/2022-31825) Kanunda belirtilen mazeretleri olmaksızın bakaya kalanlar askerlik hizmetlerini er olarak yerine getirir.
+d) Bu yükümlülerin asteğmenliğe nasıp işlemleri Kara Kuvvetleri Komutanlığınca yürütülerek, asteğmenliğe nasıpları yapılanların kimlikleri ilgili il veya ilçe millî eğitim müdürlüklerine bildirilir.
+e) Yedek subay öğretmenlerin terhis belgelerinin birer nüshası terhis oldukları yılı takip eden yılın Ocak ayı içerisinde askeralma bölge başkanlıklarınca Kara Kuvvetleri Komutanlığına gönderilir.
+(4) Millî Eğitim Bakanlığı emrinde öğretmen olarak görevlendirilen yükümlüler hakkında;
+a) 1632 sayılı Kanunda yer alan yoklama kaçağı, bakaya, geç iltihak suretiyle bakaya kalmak, firar, hava değişimi/izin tecavüzü suçlarından birini işlemeleri halinde, 1632 sayılı Kanun,
+b) 6413 sayılı Kanunda yer alan kısa süreli kaçma ve izin süresini geçirme disiplinsizliklerinden birini işlemeleri halinde, 6413 sayılı Kanun hükümleri,
+uygulanır.
+c) Firar ve hava değişimi/izin tecavüzü suçlarını işleyenler hakkında suçun oluşması için öngörülen sürelerin geçmesini müteakip il veya ilçe millî eğitim müdürlüklerince suç dosyası tanzim edilerek mahallin askerlik şubesine gönderilir. Bu suç dosyaları, soruşturma izni vermeye yetkili komutan veya askerî kurum amiri tarafından ilgili Kanun hükümleri uyarınca soruşturma izni verilmesi halinde, askerlik şubelerince yetkili Cumhuriyet başsavcılığına gönderilerek, il veya ilçe millî eğitim müdürlüklerine bilgi verilir.
+ç) Kısa süreli kaçma ve izin süresini geçirme disiplinsizliklerini işleyenler hakkında il veya ilçe millî eğitim müdürlüklerince suç dosyası tanzim edilerek, mahallin askerlik şubesine gönderilir. Bu suç dosyaları, askerlik şubelerinin disiplin yönünden bağlı oldukları disiplin kuruluna gönderilerek il veya ilçe millî eğitim müdürlüklerine bilgi verilir.
+d) Firar ve hava değişimi/izin tecavüzü suçları ile kısa süreli kaçma ve izin süresini geçirme disiplinsizliklerini işleyenlerin yargılanmalarının yanında, işlemiş oldukları bu ve diğer suçlarla ilgili olarak Millî Eğitim Bakanlığı kadrolarında öğretmen olarak görev yapan diğer öğretmenlerin tâbi oldukları Millî Eğitim Bakanlığı mevzuatına uygun olarak gerekli idarî işlemler yapılır. Bu işlemler neticesine göre usulüne uygun olarak öğretmenlik mesleği ile ilişiği kesilenlerin kimlikleri Bakanlığa bildirilir.
+(5) Seferberlik ve savaş hâlinde bu madde hükümleri uygulanmaz.

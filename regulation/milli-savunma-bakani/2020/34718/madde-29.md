@@ -1,0 +1,12 @@
+ALTINCI BÖLÜM
+Muvazzaflık ve Terhis İşlemleri
+Genel esaslar
+MADDE 29 – (1) Yükümlülerin muvazzaflık hizmet süreleri Kanunda belirlenen süre kadardır.
+(2) Muvazzaflık hizmet süresi, sevk belgesinde yazılı olan sevk tarihi ile başlar ve terhis tarihinde sona erer.
+(3) Temel eğitim süresi, Genelkurmay Başkanlığı koordinesinde ilgili kuvvet komutanlıklarınca belirlenir.
+(4) Yedek subay adayı ve yedek astsubay adaylarının kanuni mazeretlerine dayalı olarak;
+a) Sınıf okulundan ayrı geçirilen süre, sınıf okulu toplam süresinin üçte birinden fazla olanlar hizmet durum belgesiyle geçici terhis edilir. Bunlar mazeretlerinin bitimini müteakip eğitimin verileceği ilk yedek subay veya yedek astsubay celp ve sevk döneminde sevk edilir.
+b) Rahatsızlığı nedeniyle geçici terhis edilenlerden raporları bitiminde rahatsızlığının devam etmediği yapılan muayeneleri ile tespit edilenler eğitimin verileceği ilk yedek subay veya yedek astsubay celp ve sevk döneminde sevk edilir. (Değişik cümle:RG-30/4/2022-31825) Bunlar hakkında ilgisine göre 24 üncü maddenin beşinci fıkrasının (ç) bendi veya 25 inci maddenin beşinci fıkrasının (ç) bendi hükümleri uygulanır.
+c) Sınıfı görevini yapamaz raporu alanlar hizmet durum belgesiyle geçici terhis edilir. İlgili kuvvet komutanlıkları, Jandarma Genel Komutanlığı ve Sahil Güvenlik Komutanlığınca yeniden sınıflandırılmalarını müteakip eğitimin verileceği ilk yedek subay veya yedek astsubay celp ve sevk döneminde sevk edilir. (Değişik cümle:RG-30/4/2022-31825) Bunlar hakkında ilgisine göre 24 üncü maddenin beşinci fıkrasının (ç) bendi veya 25 inci maddenin beşinci fıkrasının (ç) bendi hükümleri uygulanır.
+ç) Bunlar yeni sınıf okulu eğitim döneminin tamamına katılır.
+(5) Erbaş ve erler dağıtımlarında, nüfusa kayıtlı oldukları ve kendileri ile ailelerinin dağıtım tarihinden önce daimi ikamet ettikleri il mülki sınırları içindeki birlik, kurum ve karargâhlara tertip edilmez. Bu şekilde dağıtımı yapılanların görev yerleri ilgili kuvvet komutanlıklarınca, Jandarma Genel Komutanlığı ve Sahil Güvenlik Komutanlığınca görevli olduğu il dışındaki birlik ve kurumlara tertip edilmek suretiyle değiştirilir. 89 uncu maddenin üçüncü fıkrasında belirtilenler ile ilgili mevzuat kapsamında usulüne göre annesi, babası veya eşi hakkında erişkinler için engellilik raporu, çocukları hakkında çocuklar için özel gereksinim raporu düzenlenen erbaş ve erler hakkında bu fıkra hükümleri uygulanmaz.

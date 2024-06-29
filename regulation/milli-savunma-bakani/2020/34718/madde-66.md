@@ -1,0 +1,3 @@
+Yurt dışı yeniden erteleme esasları
+MADDE 66 – (1) 65 inci maddenin birinci fıkrasının (a), (b), (c), (ç), (d) ve (e) bentlerinde belirtilen nedenlerden dolayı askerlik ertelemeleri iptal edilenler, yararlanma şartlarını yeniden haiz oldukları takdirde erteleme hakkından yararlanabilirler.
+(2) Bulunduğu ülkede meydana gelen savaş, genel hayatı olumsuz etkileyen toplumsal olaylar, doğal afet, salgın hastalık ve benzeri zorunlu nedenlerden dolayı yurda dönen ve erteleme dönemi içinde yer alan bir takvim yılında toplam olarak 184 gün ve daha fazla süreyle yurt içinde kalanların ertelemeleri, tabi oldukları yaş sınırını geçmemek üzere yükümlünün yurda döndüğü yılı takip eden yılın sonuna kadar iptal edilmez.

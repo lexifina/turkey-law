@@ -1,0 +1,8 @@
+Geçici rahatsızlığı olanların ertelemeleri
+MADDE 50 – (1) Geçici rahatsızlığı nedeniyle haklarında yetkili sağlık kuruluşlarınca “Ertesi Yıla Bırakma” kararlı rapor verilenlerin ertelemeleri rapor bitim tarihine kadar yapılır. Bunlar raporlarının bittiği yıl askerlik çağına giren doğumlularla birlikte yoklamaya tabi tutulur.
+(2) Yoklama kaçağı kaldıktan sonra “Ertesi Yıla Bırakma” kararı verilen yükümlüler rapor bitim tarihlerini takip eden 15 günlük süre içerisinde yoklamalarını yaptırmak zorundadır. Bu süre içerisinde yoklamalarını yaptırmayanlar hakkında 101 inci madde kapsamında işlem yapılır. Bunlardan askerliğe elverişlidir kararı verilenler ilk sınıflandırma döneminin ilk celp ve sevk döneminde sevke tabi tutulur.
+(3) Geçici rahatsızlığı nedeniyle yetkili sağlık kuruluşlarınca “Sevk Geciktirmesi” kararlı rapor verilenlerin ertelemeleri rapor bitim tarihine kadar yapılır. Bunlar rapor bitim tarihlerini takip eden 15 günlük süre içerisinde sağlık muayenelerini yaptırmak zorundadır. Bu süre içerisinde yoklamalarını yaptırmayanlar hakkında 101 inci madde kapsamında işlem yapılır. Yapılan muayeneleri sonucunda;
+a) Bakaya iken "Sevk Geciktirmesi" raporu alan er statüsündekiler sevkine mani hali olmadığına dair verilen karar tarihini takip eden ilk mesai günü,
+b) Bakaya kalmadan önce "Sevk Geciktirmesi" raporu alan er statüsündekiler sevkine mani hali olmadığına dair verilen karar tarihini takip eden ilk sınıflandırma döneminin ilk celp ve sevk döneminde,
+sevk edilir.
+(4) Yoklama kaçağı veya bakaya kaldıktan sonra bu madde kapsamında ertelemesi yapılanların, erteleme süresi içinde veya sevke tabi tutulacağı tarihe kadar askerlikleri, 49 uncu, 50 nci, 51 inci ve 59 uncu maddeler kapsamındaki durumlar hariç ertelenmez.

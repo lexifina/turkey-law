@@ -1,0 +1,3 @@
+Özel durumlarda muafiyet
+MADDE 92 – (1) İki ülkeden birinde yapılan askerlik hizmetinin sayılmasına dair ikili anlaşmalar kapsamında askerlik hizmetinden muaf tutulacak ya da ertelenecek yükümlülerin işlemleri anlaşma hükümlerine göre yürütülür.
+(2) Kanunun 45 inci maddesinin ikinci fıkrası hükmü geeğince barışta, olağanüstü hâl veya seferberlik hâllerinde veya savaşta, askerliğini henüz yapmadan, Millî Güvenlik Kurulunca gerekli görülen sahalarda Bakanlığın teklifi üzerine Cumhurbaşkanınca özel olarak görevlendirilen gönüllüler, Cumhurbaşkanınca belirlenen şartlara uydukları takdirde askerlik hizmetinden muaf tutulur.

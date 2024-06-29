@@ -1,0 +1,25 @@
+Yurt dışı erteleme başvuru esasları
+MADDE 63 – (1) Yurt dışı ertelemeden yararlanmak isteyen;
+a) İşçiler;
+1) Türkiye Cumhuriyeti tarafından tanınmış yabancı ülkenin resmî makamlarından iltica başvurusu dışında elde ettikleri ve kendilerine yabancı ülkede işçi statüsü sağlayan çalışma iznini ihtiva eden oturma izni veya çalışma izin belgesi,
+2) Umuma mahsus Türkiye Cumhuriyeti pasaportu,
+b) İşverenler;
+1) Türkiye Cumhuriyeti tarafından tanınmış yabancı ülkenin resmî makamlarından iltica başvurusu dışında elde ettikleri ve kendilerine yabancı ülkede işveren statüsü sağlayan çalışma iznini de ihtiva eden oturma izni veya çalışma izin belgesi,
+2) Umuma mahsus Türkiye Cumhuriyeti pasaportu,
+c) Bir meslek veya sanatı icra edenler;
+1) Türkiye Cumhuriyeti tarafından tanınmış yabancı ülkenin resmî makamlarından iltica başvurusu dışında elde ettikleri ve kendilerine yabancı ülkede meslek ya da sanatlarını icra etmelerine imkân veren çalışma iznini de ihtiva eden oturma izni veya çalışma izin belgesi,
+2) Umuma mahsus Türkiye Cumhuriyeti pasaportu,
+ç) Gemi adamları;
+1) Gemiyi işleten şirket veya yetkilendirdikleri kişi ya da makamlarca düzenlenmiş fiilen gemi adamı olarak çalıştıklarını gösterir iş sözleşmesi,
+2) Türk veya yabancı ülke resmi makamlarınca düzenlenmiş gemi adamı cüzdanı,
+3) Umuma mahsus Türkiye Cumhuriyeti pasaportu,
+d) Yabancı ülkelerde ikamet eden çok vatandaşlık hakkına sahip olanlar;
+1) Yabancı ülke vatandaşlık kimlik belgesi veya pasaportu,
+ile bağlı bulundukları Türk Konsolosluklarına, gemi adamları ise geminin bayrağını taşıdığı ülkedeki veya Dışişleri Bakanlığının gemi adamlarının işlemlerinin yürütülmesi için yetkilendirdiği Türk Konsolosluklarına bizzat başvurmak zorundadır.
+(2) Yabancı ülkelerde; ilticacı, kaçak işçi ve sığınmacı olarak bulunanların, bu durumlarını sona erdirmedikçe erteleme başvuruları kabul edilmez.
+(3) Kendisi resmi Devlet görevlisi sıfatı taşımamasına rağmen; eşinin veya birinci derece kan ve kayın hısımlarının görevinden dolayı diplomatik, hizmet veya hususi pasaport sahibi olan yükümlülerden Kanunda öngörülen kendilerine işçi, işveren veya meslek sanat mensubu statüsünü sağlayan iltica başvurusu dışında elde ettikleri çalışma iznini ihtiva eden oturma izni veya doğrudan çalışma izin belgesini ibraz edenlerden umuma mahsus pasaport sahibi olmaları istenmez.
+(4) Türk Konsoloslukları; yükümlülerin ibraz etmiş olduğu belgelerin yeterli olmadığını değerlendirmesi halinde durumunu aydınlatmaya yarayacak her türlü bilgi ve belgeyi başvuru sırasında talep edebilirler.
+(5) Yükümlülerin yurda giriş ve çıkış tarihleri kontrol edilirken, “girişi olmayan çıkışlar” ve “çıkışı olmayan girişler” ile aynı güne ait giriş ve çıkışlar dikkate alınmaz. Kayıtlarda, yurt dışına çıkışın ya da girişin olmadığı belirlense bile, yurda giriş veya çıkış yaptığını gösteren kullanılmış seyahat bileti, pasaport giriş-çıkış kaşesi, yurt içinde ya da yurt dışında muayene veya tedavi gördüğünü gösteren rapor veya benzeri belgeler ile kanıtlayabilenlerin işlemleri, yapılan tespit doğrultusunda yürütülür.
+(6) Aile Birleşimi Anlaşmaları çerçevesinde yabancı bir ülkede kendilerine ikamet etme ve çalışma hakkı verilmesi taahhüt edilenlerin askerlikleri, iltica başvurusu dışında elde ettikleri ve kendisine yabancı ülkede işçi statüsü sağlayan çalışma iznini ihtiva eden oturma veya doğrudan çalışma izni alıncaya kadar başvuru yılını takip eden yılın sonuna kadar 35 yaşını geçmemek üzere birer yıllık sürelerle en çok üç kez bağlı bulundukları Türk Konsoloslukları aracılığı ile askerlik şubelerine başvurmalarını müteakip ertelenebilir. Müracaatı, yükümlünün ikamet veya çalışma hakkı verileceği taahhüt edilen ülkede yaşayan eşi veya birinci dereceden kan ve kayın hısımları yapabilir. Bu şekilde yapılan müracaatlarda; yükümlü adına müracaat edenin çalışma iznini de ihtiva eden oturma izni veya çalışma izni bulunduğunu gösteren belgelerin ve yükümlü ile yakınlık derecesini ispata yarayan evlilik belgesi veya vukuatlı nüfus kayıt örneğinin de yükümlüye ikamet ve çalışma hakkı verileceğini taahhüt eden yabancı ülke makamları tarafından düzenlenmiş belge ile birlikte ibraz edilmesi zorunludur.
+(7) Yoklama kaçağı veya bakaya olarak yurt içinde aranırken askerlik şubelerine teslim edilen veya kendiliğinden müracaat eden yükümlülerin herhangi bir yaş sınırı aranmadan, dövizle askerlik hizmeti kapsamından çıkarılanların ise yeniden dövizle askerlikten yararlanma hakkı bulunmadığından 35 yaş sınırı dikkate alınarak, yabancı bir ülkede oturma veya çalışma iznine sahip olduklarının pasaport, oturma veya çalışma izin belgesi, yabancı ülke pasaportu veya kimlik kartı ya da Türk Konsoloslukları aracılığı ile kanıtlanmasını müteakip askerlik işlemleri bir defaya mahsus üç ay süreyle geçici olarak ertelenir.
+(8) Yurt dışında öğrenciliğine bağlı olarak ikametine izin verilmiş olanların bu madde kapsamında erteleme işlemleri yapılmaz. Ancak, mevcut oturma veya çalışma izinlerinin kendilerine Kanunda belirtilen işçi, işveren veya bir meslek ya da sanat mensubu statülerini sağlaması ve diğer yararlanma şartlarını da taşımaları halinde erteleme işlemi yapılabilir.

@@ -1,0 +1,3 @@
+Birliği lağvedilenlere yapılacak işlemler
+MADDE 41 – (1) Birliği lağvedilenlerden; izinde, hava değişiminde veya istirahatli olanlar, firarda, hava değişimi/izin tecavüzünde veya kısa süreli kaçma ve izin süresini geçirme disiplinsizliklerinde bulunanlar, noksan hizmetli olanlar ile cezaevlerinden tahliye edilenlerden noksan hizmetleri yedi gün ve daha fazla olanlar ilgili kuvvet komutanlıkları, Jandarma Genel Komutanlığı ve Sahil Güvenlik Komutanlığınca belirlenen birliklere sevk edilir. Bunlardan noksan hizmeti altı gün (dâhil) ve daha az olanların süreleri 34 üncü maddenin birinci fıkrası kapsamında ikamet ettikleri yere en yakın askerlik şubesinde tamamlatılır.
+(2) Konuş ve kuruluşları değiştirilen birlikler, lağvedilen birlik kapsamında değerlendirilmez.

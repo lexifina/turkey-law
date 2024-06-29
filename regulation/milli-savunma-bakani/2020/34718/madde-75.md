@@ -1,0 +1,8 @@
+Döviz ödeme esasları
+MADDE 75 – (1) (Değişik:RG-30/4/2022-31825) Dövizle askerlik hizmetinden faydalanacak yükümlülerin ödeyeceği miktar; Kanunun 39 uncu maddesi uyarınca belirlenen tutarın Türkiye Cumhuriyet Merkez Bankasınca döviz miktarının yatırılacağı gün tespit edilen döviz alış kuruna göre Avro veya Avro karşılığı kadar konvertibl yabancı ülke parasıdır.
+(2) (Değişik:RG-30/4/2022-31825) Avro para birimini kullanmayan ancak paraları konvertibl olan yabancı ülkelerde bulunanlar, Avro dışındaki konvertibl döviz tutarını öderler.
+(3) Paraları konvertibl olmayan ülkelerde çalışan yükümlüler de belirlenen konvertibl döviz miktarlarından herhangi biri ile ödemede bulunabilirler.
+(4) Yapılan ödemeler, Dışişleri Bakanlığınca Türkiye Cumhuriyet Merkez Bankasında Hazine adına açılacak özel döviz hesabına Avro olarak kaydedilir. Bu tutarlar Türkiye Cumhuriyet Merkez Bankasınca transfer tarihindeki döviz alış kuru üzerinden Türk Lirasına çevrilerek Hazine ve Maliye Bakanlığı Merkez Saymanlığı hesabına aktarılır ve bütçeye gelir kaydedilir.
+(5) Döviz tahsilâtı ve özel döviz hesabına aktarılması ile ilgili oluşacak transfer ücreti ve diğer masraflar yurt dışı temsilcilikler tarafından yükümlülerden tahsil edilir. Transfer ücreti ve diğer masraflar, Hazine ve Maliye Bakanlığının görüşü alınarak Dışişleri Bakanlığınca belirlenir.
+(6) Dövizle askerlik hizmeti kapsamında yapılan döviz ödemelerinin tahsilatı ve Türkiye Cumhuriyet Merkez Bankasında Hazine adına açılmış özel döviz hesabına aktarılması işlemleri Dışişleri Bakanlığınca yapılır.
+(7) Yükümlüler dövizle askerlik ödemelerini peşin olarak yapar.

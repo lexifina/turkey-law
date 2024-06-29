@@ -1,0 +1,18 @@
+Lisans ve daha aşağı seviyedeki öğrenci ertelemeleri
+MADDE 47 – (1) Lisans ve daha aşağı seviyede öğrenim görenlerin askerlikleri azami olarak;
+a) Lise veya dengi okullarda 22 yaşını tamamladıkları,
+b) Fakülte ve yüksekokullar ile meslek yüksekokullarında ise 28 yaşını tamamladıkları,
+yılın sonunu geçmemek kaydıyla mezun oluncaya veya ilişikleri kesilinceye kadar yoklamaları yapılmadan ertelenir.
+(2) (Değişik:RG-5/8/2023-32270) Farklı programlara yatay geçiş yaptıranlar dâhil yatay geçiş yaparak okul değiştirenlerin ertelemelerine birinci fıkrada belirtilen esaslara göre devam edilir.
+(3) Çift ana dal programına kayıtlı öğrencilerin askerlikleri, bir programdan mezun olduklarında diğer ana dal programındaki öğrenciliğinin devam etmesi halinde bu ana dal programındaki öğrenciliğine göre ertelenir.
+(4) Aynı anda birden fazla öğretim kurumunda öğrenime devam edenlerin askerlikleri, öğrencilikleri bildirildiği sürece mezun oluncaya kadar ya da ilişikleri kesilinceye kadar lehlerine uygun olan okula göre ertelenir.
+(5) Yükümlülerin bitirdikleri okulun dengi veya daha aşağı seviyedeki bir okula kayıt yaptırmaları ya da aynı seviyede birden fazla yükseköğretim kurumunda öğrenim görmekte iken bunlardan herhangi birisinden mezun olmaları halinde aynı seviyede devam eden diğer öğrenimleri nedeniyle askerlikleri ertelenmez.
+(6) Okula kayıt tarihi yoklama kaçağı veya bakaya kaldıkları tarihten sonra olanların askerlikleri ertelenmez.
+(7) 27 nci maddenin ikinci fıkrasının (b) bendi gereğince yoklama kaçağı olarak muayenesi yapılarak sınıflandırma kaynağına alınacaklardan; sevke tabi tutulacakları tarihe kadar okula kayıt yaptıranların askerlikleri ertelenmez.
+(8) (Değişik:RG-5/8/2023-32270) Yurt dışındaki yükseköğretim kurumlarında öğrenim görenlerin askerlikleri yetkili Türk makamlarınca okulun tanınmasını müteakip birinci ila yedinci fıkralardaki esaslara göre ertelenir.
+(9) Öğrenim kurumlarında öğrenim gören, kaydı silinen veya mezun olanların bilgileri elektronik ortamda Bakanlıkça alınarak askeralma kayıtlarına işlenir. Öğrencilere ait bilgiler Dışişleri Bakanlığı, Millî Eğitim Bakanlığı ve Yükseköğretim Kurulu tarafından sürekli güncel bulundurulur.
+(10) Öğrenim kurumlarınca kayıt hakkı kazandığı bildirilen yükümlülerin askerlik durumları Bakanlıkça talep eden kurumlarla paylaşılır. Askerlikle ilişiği olmayan yükümlülerin kayıtları askerlik durum belgesi aranmaksızın yapılır. Askerlikle ilişiği olanlar ise okul idarelerince askerlik şubelerine yönlendirilir. Kayıt tarihinde henüz askerlik çağına girmemiş olanlardan askerlik durum belgesi talep edilmez.
+(11) Yabancı ülkelerin mevzuatlarına göre Türkiye’de eğitim ve öğretim yapan orta öğretim seviyesindeki okullarda öğrenim görenler hakkında düzenlenecek öğrenci durum belgelerinin okulun bağlı bulunduğu il/ilçe millî eğitim müdürlüğünce onaylanmasını müteakip askerlikleri, öğrencilikleri nedeniyle ertelenir. Öğrenim bilgileri elektronik ortamda Millî Eğitim Bakanlığından alındığında bu bilgilere göre erteleme işlemi yapılır.
+(12) Mesleki eğitim merkezleri ile meslek okullarında eğitim görenlerin askerlikleri, 22 yaşını geçmemek üzere kurs veya okulun bitiş tarihine kadar ertelenir.
+(13) Lise ve daha üst seviyede bir öğrenim kurumundan mezun olanların mesleki eğitim merkezleri ile meslek okulu eğitimleri nedeniyle askerlikleri ertelenmez.
+(14) (Ek:RG-5/8/2023-32270) Yükseköğretim kurumlarına kayıt hakkı kazandığını belgeleyenlerin askerlikleri, kayıt hakkı kazandığı tarihten önce yoklama kaçağı ve/veya bakaya olmamaları şartıyla, kayıt hakkı kazandığı tarihten itibaren üç ay süre ile ertelenir.

@@ -1,0 +1,5 @@
+Yaptırımlar
+MADDE 88 – (1) Bu Yönetmelik kapsamında kendilerine tanınan erteleme süreleri dikkate alınmak şartıyla askerlik yükümlülüğünü yerine getirmeyen öğrencilerin kayıtları askerlik hizmetini yerine getirene kadar Bakanlığın talebi üzerine ilgili orta ve yükseköğretim kurumlarınca geçici olarak dondurulur. Bu şekilde kayıtları dondurulanlardan herhangi bir harç veya öğrenim katkı payı alınmaz.
+(2) Yoklama kaçakları ve bakayalar ile barışta tatbikat ve ferdî seferberlik eğitimi bakayaları kamu veya özel hizmete alınmazlar. Bunları kamu veya özel hizmete alanlar hakkında askerlik şubelerince mahallin Cumhuriyet başsavcılığına suç duyurusunda bulunulur.
+(3) İşe alındığında yoklama kaçağı, bakaya veya barışta tatbikat ve ferdî seferberlik eğitimi bakayası olmamasına rağmen sonradan bu suçlardan birini işleyenleri kamu veya özel hizmette çalıştıranlar hakkında ikinci fıkra hükümleri uygulanır.
+(4) Yoklama kaçağı, saklı ve bakayalar ile barışta tatbikat ve seferberlik eğitimi bakayalarına 101 inci maddede belirtilen yaptırımlar uygulanır.

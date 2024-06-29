@@ -1,0 +1,10 @@
+Dövizle askerlikle ilgili Türk Konsolosluklarınca yapılacak işlemler
+MADDE 80 – (1) Dövizle askerlikle ilgili Türk Konsolosluklarınca yapılacak işlemler şunlardır:
+a) Askerlik çağına girmiş yükümlülerden dövizle askerlik hizmetinden yararlanmak isteyenlerin durumlarını aydınlatmaya yarayacak her türlü bilgi ve belgeyi başvuruları esnasında alarak bu Yönetmelikte belirtilen usul ve esaslara göre yabancı ülke mevzuatı çerçevesinde incelemek, ihtiyaç duyulması halinde, yerel makamlardan yazılı veya sözlü bilgi talep ederek başvuru işlemini kabul veya reddetmek.
+b) Dövizle askerlik başvurusu kabul edildikten sonra bu Yönetmelikte belirtilen başvurunun iptalini gerektiren nedenlerden herhangi birinin tespit edilmesi halinde yükümlülerin kimlik bilgilerini iptal işlemi için nüfusa kayıtlı oldukları askerlik şubesi başkanlıklarına bildirmek.
+c) Dövizle askerlik başvurusu kabul edilenler hakkında iki suret olarak Ek-15’te yer alan Dövizle Askerlik Hizmeti Başvuru Belgesini düzenlemek, bir suretini başvuruya esas diğer evrak ile birlikte Türk Konsolosluklarında arşiv mevzuatına uygun olarak muhafaza etmek, diğer suretini yükümlüye vermek.
+ç) Yetkili makamlarca talep edilmesi halinde başvuruya esas bilgi ve belgeleri göndermek.
+d) Başvurusu kabul edilen yükümlülerin başvuru ve ödeme bilgilerini elektronik ortamda Dışişleri Bakanlığı vasıtasıyla Askeralma Genel Müdürlüğüne göndermek.
+e) Başvuruların elektronik ortamda gönderilemediği durumlarda, işlemleri fiziki olarak yürütmek. Bu kapsamda, başvurusu kabul edilen yükümlü hakkında tanzim edilen Ek-15 Dövizle Askerlik Hizmeti Başvuru Belgesini ve ödeme dekontunu posta yoluyla doğrudan yükümlünün nüfusa kayıtlı olduğu askerlik şubesi başkanlığına göndermek.
+f) Döviz ödemelerinin tahsilâtı ve özel döviz hesabına aktarılması ile ilgili oluşacak transfer ücreti ve diğer masrafları yükümlülerden tahsil etmek.
+g) Muhabir bankalarca veya Türk Konsolosluklarınca tahsil edilen ödemelerin fazla, mükerrer veya hatalı olarak havale edildiği gerekçesi ile iadesinin talep edilmesi halinde, konuyu açıklayıcı bir üst yazı ile yükümlünün nüfusa kayıtlı olduğu askerlik şubesine bildirmek.

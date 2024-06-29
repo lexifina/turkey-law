@@ -1,0 +1,7 @@
+Askerî okullardan ayrılanlar
+MADDE 93 – (1) Askeri öğrenci olarak okudukları Millî Savunma Üniversitesi ve diğer üniversite, fakülte, yüksekokul veya meslek yüksekokullarından ilişiği kesilenlerin, bu okullarda ay olarak okudukları sürenin üçte biri muvazzaflık hizmetinden sayılır.
+(2) Askerlik hizmetinden sayılan sürenin erbaş ve erlerin tabi olduğu hizmet süresini karşılaması halinde bunlar temel askerlik hizmetine tabi tutulmadan askerlik hizmetini yerine getirmiş sayılır.
+(3) Muvazzaflık hizmetinden sayılan süreleri, erbaş ve erlerin tabi olduğu hizmet süresinden az olanların kalan hizmet süreleri, erbaş ve erlerin tabi olduğu hizmet süresi esas alınarak yoklamalarının yapılmasını müteakip 34 üncü maddenin ikinci fıkrası hükümlerine göre tamamlatılır.
+(4) Yedek subay adayı veya yedek astsubay adayı olma hakkı bulunanlar, yedek subay veya yedek astsubay olmaya istekli olmaları ve yedek subay adayı veya yedek astsubay adayı seçilmeleri halinde daha önceki askerî okullarda geçen süreleri dikkate alınmaksızın yedek subay veya yedek astsubayların hizmet süresine tabi tutulur.
+(5) Yedek subay veya yedek astsubay statüsünde muvazzaflık hizmetini yapmak isteyenlerden sınıflandırma sonucunda er olarak ayrılanların noksan hizmetleri 34 üncü maddenin birinci fıkrası hükümlerine göre tamamlatılır.
+(6) (Ek:RG-30/4/2022-31825) Bu madde kapsamında olanlardan yedek subay/astsubay adayı olma hakkı bulunanların, er veya yedek subay/astsubay olma isteklerine ilişkin yazılı talepleri alınır. Bunların askerlik hizmet tercihini değiştirme talepleri kabul edilmez.
