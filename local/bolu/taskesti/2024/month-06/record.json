@@ -1,0 +1,29 @@
+{
+  "number": "month-06",
+  "year": 2024,
+  "month": 6,
+  "title": "2024 YILI HAZİRAN AYI MECLİS KARARI",
+  "decision_date": null,
+  "index_date": "2024-06-30",
+  "date_precision": "month",
+  "period": "Haziran 2024",
+  "source": "https://www.taskesti.bel.tr/karar/2024-yili-haziran-ayi-meclis-karari",
+  "official_page": "https://www.taskesti.bel.tr/karar/2024-yili-haziran-ayi-meclis-karari",
+  "official_document": "https://www.taskesti.bel.tr/karar/2024-yili-haziran-ayi-meclis-karari",
+  "source_sha256": "76c5d029294b0b5c44e6dad329c4a468ccdd24ddb287c05e720bae743a2a1443",
+  "issuer": "Taşkesti Belediye Meclisi",
+  "history_type": "metadata",
+  "text_status": "metadata-only: listing fields as published; the decisions are in the linked official document(s) or page, not transcribed",
+  "in_force": "2024-06-30",
+  "in_force_basis": "The official listing gives only the month of this official file (Haziran 2024); date set to the last day of that month (turkey-law date convention for month-only sources); exact adoption dates are in the linked official document; legal commencement not asserted",
+  "missing": [
+    "decision numbers, dates and subjects",
+    "complete official decision text",
+    "official annexes"
+  ],
+  "law_text_complete": false,
+  "privacy_withheld": false,
+  "listing_label": "2024 YILI HAZİRAN AYI MECLİS KARARI",
+  "record_scope": "one official file of council decisions (meeting or month)",
+  "document_note": "the decisions are published as text on the official page itself (no separate file); not transcribed here"
+}
