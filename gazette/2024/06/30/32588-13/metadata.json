@@ -1,0 +1,20 @@
+{
+  "record_type": "gazette-item",
+  "gazette": "Resmî Gazete",
+  "jurisdiction": "TR",
+  "date": "2024-06-30",
+  "issue": "32588",
+  "edition": "regular",
+  "item": 13,
+  "section": "YÜRÜTME VE İDARE BÖLÜMÜ",
+  "heading": "YÖNETMELİKLER",
+  "title": "İstanbul Medeniyet Üniversitesi Diş Hekimliği Fakültesi Lisans Eğitim-Öğretim ve Sınav Yönetmeliği",
+  "official_link": "https://www.resmigazete.gov.tr/eskiler/2024/06/20240630-13.htm",
+  "link_format": "htm",
+  "index_url": "https://www.resmigazete.gov.tr/eskiler/2024/06/20240630.htm",
+  "index_sha256": "136ce3c72075c1cdaf5270226c9a770742f4d81b79aaab0be477b4d5a4eee816",
+  "index_header": "30 Haziran 2024 ... 32588 Sayılı Resmî Gazete",
+  "issue_pdf": "https://www.resmigazete.gov.tr/eskiler/2024/06/20240630.pdf",
+  "in_force_basis": "Resmî Gazete publication date; not a commencement reading.",
+  "text_status": "metadata-only; text not yet fetched (follow-up pass adds it as its own commit)"
+}
