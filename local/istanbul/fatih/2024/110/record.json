@@ -1,0 +1,29 @@
+{
+  "number": "110",
+  "number_as_published": "2024/110",
+  "year": 2024,
+  "month": 6,
+  "title": "İstanbul İli, Fatih İlçesi, Küçük Ayasofya Mahallesi, 140 Ada 54, 61, 62 ve 88 (Eski:82-83) Parsellere İlişkin TEKLİF-341056436 Plan İşlem Numaralı 1/1000 Ölçekli KAUİP Değişikliği",
+  "decision_date": null,
+  "index_date": "2024-06-30",
+  "date_precision": "month",
+  "period": "Haziran 2024",
+  "source": "https://www.fatih.bel.tr/tr/main/meclis_kararlar?yil=2024&ay=6",
+  "official_page": "https://www.fatih.bel.tr/tr/main/meclis_kararlar/2024110/834",
+  "official_document": null,
+  "source_sha256": "f8d0e3bfa00478f4819a8e27ac8db97a33c5e3e4ff73bbf12c1fc3f5faf3cf9a",
+  "issuer": "Fatih Belediye Meclisi",
+  "history_type": "metadata",
+  "text_status": "metadata-only: number and subject as published in the official listing; complete decision text is in the linked official page/document, not transcribed",
+  "in_force": "2024-06-30",
+  "in_force_basis": "The official listing gives only the month of this decision (Haziran 2024); date set to the last day of that month (turkey-law date convention for month-only sources); exact adoption dates are in the linked official document; legal commencement not asserted",
+  "missing": [
+    "exact decision date",
+    "complete official decision text",
+    "official annexes"
+  ],
+  "law_text_complete": false,
+  "privacy_withheld": false,
+  "record_scope": "one council decision (number and subject as listed)",
+  "listing_month": "2024-06"
+}
