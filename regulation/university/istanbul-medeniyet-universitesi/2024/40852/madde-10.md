@@ -1,0 +1,4 @@
+Ulusal ve uluslararası öğrenci değişim programları
+MADDE 10- (1) Üniversite ile yurt içinde veya yurt dışındaki bir yükseköğretim kurumu arasında Yükseköğretim Kurulu tarafından belirlenen usul ve esaslar çerçevesinde öğrenci değişim programları uygulanabilir. Öğrenciler değişim programlarıyla diğer kurumlara bir veya iki yarıyıl süre ile gönderilebilirler. Bu süreler eğitim-öğretim süresinden sayılır.
+(2) Değişim programı ile giden öğrenciler değişim süresinde almaları gereken dersler yerine, gitmiş oldukları üniversitede aldıkları derslerden sorumlu olurlar. Bu derslerin seçimi ise dönem koordinatörü danışmanlığında yapılır, Fakülte Yönetim Kurulu tarafından onaylanır. Bu derslerden alınan notlar Yükseköğretim Kurulu tarafından belirlenen dönüştürme tabloları ile Yönetmeliğin not sistemine çevrilerek transkriptlere işlenir.
+(3) Değişim programlarından gelen öğrenciler, Fakültede okudukları süre boyunca Yönetmelik hükümlerine uymak zorundadır.

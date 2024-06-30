@@ -1,0 +1,4 @@
+Yabancı dil eğitimi ve hazırlık sınıfı
+MADDE 12- (1) Yabancı dil muafiyet sınavı yılda bir kez akademik yılın başlangıcında yapılır. Muafiyet sınavı sonrasında başarılı öğrenciler ortak zorunlu dersler kapsamında olan yabancı dil dersinden muaf olurlar. Muafiyet sınavından başarılı olanlar ile bu sınavdan başarısız olup yabancı dil dersini alan ve sonrasında başarılı olanlar için başarı notları 21 inci maddede belirtilen not dönüşüm tablosuna göre harf notu ile değerlendirilir ve akademik not ortalamasına dahil edilerek transkriptlerine işlenir.
+(2) İsteğe bağlı yabancı dil hazırlık sınıfı eğitimi almak isteyen öğrencilerin durumları ilgili mevzuat hükümleri uyarınca Senato tarafından belirlenir.
+(3) Muafiyet sınavına girip başarısız olan öğrenciler ortak zorunlu derslerden olan yabancı dil dersini örgün eğitim-öğretim süresince almak zorundadır.

@@ -1,0 +1,4 @@
+Kılık kıyafet ve düzen
+MADDE 24- (1) Öğrenciler eğitimin gereği olarak klinik ve laboratuvarlarda Dekanlık tarafından belirlenen diş hekimliği pratiğine uygun kıyafetler giymek, yakalarında isim ve sınıflarını gösteren tanıtma kartlarını takmak ya da önlüklerine isim yazdırmak zorundadır.
+(2) Öğrenciler Fakülte tarafından kendilerine verilen ve sağlanan her türlü laboratuvar ve diş hekimliği cihazlarının bakım, temizlik ve korunmasından sorumludur. Kasıt, ihmal veya tedbirsizlik sonucu gerekli dikkat ve itina ile davranmamaları sebebiyle kamu malında meydana gelen zararlar sorumlu ve ilgililerce ilgili mevzuat hükümleri kapsamında tazmin edilir.
+(3) Klinik uygulama öğrencileri, hastaların tedavilerini bulundukları anabilim dalının göstereceği düzende yapmak zorundadır. Hastaların tedavi planlamaları ilgili anabilim dalı başkanlığında görev yapan öğretim elemanları tarafından yapılır.

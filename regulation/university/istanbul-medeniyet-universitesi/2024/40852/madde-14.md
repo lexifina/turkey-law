@@ -1,0 +1,7 @@
+Ders türleri
+MADDE 14- (1) Dersler; mesleki zorunlu, ortak zorunlu ve seçmeli derslerden oluşmaktadır.
+(2) Ortak zorunlu dersler; 2547 sayılı Kanunun 5 inci maddesinin birinci fıkrasının (ı) bendinde yer alan Türk Dili, Atatürk İlkeleri ve İnkılâp Tarihi ve yabancı dil dersleridir.
+(3) Seçmeli dersler; Üniversitenin genel programı dahilinde Eğitim Komisyonunun önerisi, Fakülte Kurulunun kararı ve Senato onayı ile belirlenen, öğrencilerin kendi istekleriyle alan içi veya dışından seçebildikleri derslerdir. Seçmeli dersler mesleki ve genel seçmeli dersler kapsamında açılabilir. Genel seçmeli dersler, Üniversitenin ortak seçmeli ders havuzundan veya diğer fakülte/yüksekokullardan alınabilir. Mesleki seçmeli dersler ise Fakülte bünyesinde açılır. İlgili yarıyılda açılacak seçmeli dersler dönemin başında ilan edilir. Seçmeli dersten başarısız olan öğrenci bu dersin yerine aynı kredili farklı bir seçmeli ders alabilir. Bunun için öğrencinin yazılı başvurusuyla Fakülte Yönetim Kurulu karar alır.
+(4) Fakültenin eğitim-öğretim programındaki mesleki zorunlu dersler; teorik dersler ve uygulama derslerinden meydana gelir.
+(5) Fakülte ile ilgili uygulamalar; birinci, ikinci ve üçüncü sınıfta klinik öncesi uygulama, üçüncü sınıfta klinik gözlem, dördüncü ve beşinci sınıfta klinik uygulama olarak yapılır.
+(6) Fakültedeki derslerin zorunlu veya seçmeli olmaları, ders saatleri, uzaktan eğitim kapsamı, derslerin kredileri ve AKTS’leri Eğitim Komisyonunun teklifiyle Fakülte Kurulu tarafından belirlenir. Senato onayı ile kesinleşir.

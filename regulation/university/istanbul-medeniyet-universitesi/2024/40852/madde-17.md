@@ -1,0 +1,4 @@
+Derslere devam zorunluluğu ve ders tekrarı
+MADDE 17- (1) Öğrencilerin teorik derslerin, klinik öncesi uygulamaların, klinik gözlemlerin ve klinik uygulamaların %80’ine devamı zorunludur. Devam zorunluluğunu yerine getirmemiş öğrenci derslere ait final ve bütünleme sınavlarına giremez ve o dersten başarısız sayılır. Girmiş olsa dahi notu iptal edilir. İlgili dersi bir sonraki eğitim-öğretim yılında tekrar eder.
+(2) Devamsızlık durumları Dekanlık tarafından belirlenen usullere göre öğretim elemanları tarafından doğrudan yoklama yapılarak belirlenir. Devamsızlıkları nedeniyle başarısız sayılan öğrencilerin listesi, en geç yarıyıl/yılın son haftası içinde Öğrenci Bilgi Sistemi (OBS)’nden ilan edilir.
+(3) Ortak zorunlu dersler haricinde tekrarlanan tüm derslerde, devam şartı yerine getirilmiş olsa dahi ilgili dersin tüm yükümlülüklerinin yerine getirilmesi zorunludur.

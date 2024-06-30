@@ -1,0 +1,31 @@
+{
+  "act_path": "regulation/university/istanbul-medeniyet-universitesi/2024/40852",
+  "availability": "text",
+  "checked_on": "2026-11-14",
+  "commencement_clauses": [
+    "MADDE 29- (1) Bu Yönetmelik yayımı tarihinde yürürlüğe girer."
+  ],
+  "date_quote": "MADDE 29- (1) Bu Yönetmelik yayımı tarihinde yürürlüğe girer.",
+  "first_law": null,
+  "gazette": "32588",
+  "history": "as-enacted",
+  "images": {
+    "deferred": 0,
+    "omitted": 0,
+    "referenced": 0,
+    "source": 0
+  },
+  "in_force": "2024-06-30",
+  "in_force_basis": "source commencement clause: effective on Gazette publication",
+  "issuer": "İstanbul Medeniyet Üniversitesi",
+  "issuer_slug": "istanbul-medeniyet-universitesi",
+  "kind": "regulation",
+  "published": "2024-06-30",
+  "source": "https://www.mevzuat.gov.tr/anasayfa/MevzuatFihristDetayIframe?MevzuatTur=8&MevzuatNo=40852&MevzuatTertip=5",
+  "source_id": "8.5.40852",
+  "source_sha256": "bf6e418284ff6b639f658ca94a938604f657d95f4885aee30e761bd54560cc59",
+  "title": "İSTANBUL MEDENİYET ÜNİVERSİTESİ DİŞ HEKİMLİĞİ FAKÜLTESİ\r\nLİSANS EĞİTİM-ÖĞRETİM VE SINAV YÖNETMELİĞİ",
+  "university_id": 414,
+  "version_label": "oldest version available",
+  "word_count": 5133
+}
