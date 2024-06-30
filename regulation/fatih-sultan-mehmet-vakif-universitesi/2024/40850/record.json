@@ -1,0 +1,39 @@
+{
+  "checked_on": "2026-11-14",
+  "commencement_clauses": [
+    "MADDE 18- (1) Bu Yönetmelik yayımı tarihinde yürürlüğe girer."
+  ],
+  "date_evidence": [
+    [
+      "2024-06-30",
+      "30.06.2024",
+      "original gazette publication date in official listing"
+    ]
+  ],
+  "date_quote": "MADDE 18- (1) Bu Yönetmelik yayımı tarihinde yürürlüğe girer.",
+  "first_law": null,
+  "gazette": "32588",
+  "history": "current-text",
+  "images": {
+    "deferred": 0,
+    "omitted": 0,
+    "referenced": 0,
+    "source": 0
+  },
+  "in_force": "2024-06-30",
+  "in_force_basis": "source commencement clause: enters into force on gazette publication",
+  "issuer": "Fatih Sultan Mehmet Vakıf Üniversitesi",
+  "issuer_slug": "fatih-sultan-mehmet-vakif-universitesi",
+  "kind": "regulation",
+  "label": "oldest version available",
+  "path": "regulation/fatih-sultan-mehmet-vakif-universitesi/2024/40850",
+  "published": "2024-06-30",
+  "source": "https://www.mevzuat.gov.tr/anasayfa/MevzuatFihristDetayIframe?MevzuatTur=8&MevzuatNo=40850&MevzuatTertip=5",
+  "source_bytes": 32606,
+  "source_id": "8.5.40850",
+  "source_sha256": "f05774ed57611c25e0f3b9c85b2b38bbc15e2cb8a25b575f453f35e9b698048c",
+  "text_status": "as-enacted",
+  "title": "FATİH SULTAN MEHMET VAKIF ÜNİVERSİTESİ FATİH SULTAN MEHMET\r\nVE AYASOFYA ÇALIŞMALARI UYGULAMA VE ARAŞTIRMA MERKEZİ YÖNETMELİĞİ",
+  "university_id": 359,
+  "word_count": 1538
+}
