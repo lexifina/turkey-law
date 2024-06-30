@@ -1,0 +1,31 @@
+{
+  "act_path": "regulation/university/istanbul-medeniyet-universitesi/2024/40851",
+  "availability": "text",
+  "checked_on": "2026-11-14",
+  "commencement_clauses": [
+    "MADDE 19- (1) Bu Yönetmelik yayımı tarihinde yürürlüğe girer."
+  ],
+  "date_quote": "MADDE 19- (1) Bu Yönetmelik yayımı tarihinde yürürlüğe girer.",
+  "first_law": null,
+  "gazette": "32588",
+  "history": "as-enacted",
+  "images": {
+    "deferred": 0,
+    "omitted": 0,
+    "referenced": 0,
+    "source": 0
+  },
+  "in_force": "2024-06-30",
+  "in_force_basis": "source commencement clause: effective on Gazette publication",
+  "issuer": "İstanbul Medeniyet Üniversitesi",
+  "issuer_slug": "istanbul-medeniyet-universitesi",
+  "kind": "regulation",
+  "published": "2024-06-30",
+  "source": "https://www.mevzuat.gov.tr/anasayfa/MevzuatFihristDetayIframe?MevzuatTur=8&MevzuatNo=40851&MevzuatTertip=5",
+  "source_id": "8.5.40851",
+  "source_sha256": "676f682c01d60dfff3cdda6760d000196221dccd6c21a6916e04db1a73734ea2",
+  "title": "İSTANBUL MEDENİYET ÜNİVERSİTESİ BEN-ANLATILARI UYGULAMA VE ARAŞTIRMA MERKEZİ YÖNETMELİĞİ",
+  "university_id": 414,
+  "version_label": "oldest version available",
+  "word_count": 1039
+}
