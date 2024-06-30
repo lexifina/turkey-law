@@ -1,0 +1,2 @@
+Kapsam
+MADDE 1- (1) Bu Tebliğ, 10/5/2004 tarihli ve 2004/7305 sayılı Bakanlar Kurulu Kararı ile yürürlüğe konulan İthalatta Korunma Önlemleri Hakkında Karar ve 8/6/2004 tarihli ve 25486 sayılı Resmî Gazete’de yayımlanan İthalatta Korunma Önlemleri Yönetmeliği çerçevesinde 3/11/2023 tarihli ve 32358 sayılı Resmî Gazete’de yayımlanan İthalatta Korunma Önlemlerine İlişkin Tebliğ (Tebliğ No: 2023/6) ile açılan korunma önlemi soruşturması sonucunda alınan kararı içermektedir.
