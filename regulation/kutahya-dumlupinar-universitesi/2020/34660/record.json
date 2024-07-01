@@ -1,0 +1,59 @@
+{
+  "checked_on": "2026-11-14",
+  "commencement_clauses": [
+    "MADDE 57 – (1) Bu Yönetmelik yayımı tarihinde yürürlüğe girer."
+  ],
+  "date_evidence": [
+    [
+      "2020-07-01",
+      "01.07.2020",
+      "original gazette publication date in official listing"
+    ],
+    [
+      "2024-07-01",
+      "RG-1/7/2024-32589",
+      "latest source-printed gazette amendment date for current consolidated text"
+    ],
+    [
+      "2023-06-18",
+      "RG-18/6/2023-32225",
+      "latest source-printed gazette amendment date for current consolidated text"
+    ],
+    [
+      "2023-06-18",
+      "18/6/2023",
+      "latest gazette date in source amendment table"
+    ],
+    [
+      "2024-07-01",
+      "1/7/2024",
+      "latest gazette date in source amendment table"
+    ]
+  ],
+  "date_quote": "RG-1/7/2024-32589",
+  "first_law": null,
+  "gazette": "31172",
+  "history": "current-text",
+  "images": {
+    "deferred": 0,
+    "omitted": 0,
+    "referenced": 0,
+    "source": 0
+  },
+  "in_force": "2024-07-01",
+  "in_force_basis": "latest source-printed gazette amendment date for current consolidated text",
+  "issuer": "Kütahya Dumlupınar Üniversitesi",
+  "issuer_slug": "kutahya-dumlupinar-universitesi",
+  "kind": "regulation",
+  "label": "oldest version available",
+  "path": "regulation/kutahya-dumlupinar-universitesi/2020/34660",
+  "published": "2020-07-01",
+  "source": "https://www.mevzuat.gov.tr/anasayfa/MevzuatFihristDetayIframe?MevzuatTur=8&MevzuatNo=34660&MevzuatTertip=5",
+  "source_bytes": 126526,
+  "source_id": "8.5.34660",
+  "source_sha256": "42ea61b2e9473feebc2c4ee24b87150c881c27fad0f7baf98890f4aaf7e86189",
+  "text_status": "current-consolidated",
+  "title": "KÜTAHYA DUMLUPINAR ÜNİVERSİTESİ LİSANSÜSTÜ EĞİTİM \r\nVE ÖĞRETİM YÖNETMELİĞİ",
+  "university_id": 190,
+  "word_count": 8268
+}
