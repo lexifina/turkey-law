@@ -1,0 +1,8 @@
+Yaya yolları
+MADDE 6- (1) Yaya yolu genişliği, 3 metreden az olmamak şartıyla yaya yoğunluğuna göre belirlenir. Ayrıca yaya yolu genişliğinin tasarımında; yolun eğimi, yüzey kaplaması, yola katılan yan yolların sayısı gibi hususlar da dikkate alınır.
+(2) Eğimi %5’in üzerinde olan yaya yollarında 10 m’den fazla uzunluklar sahanlıklarla bölünmelidir. Sahanlık ve manevra alanı boyutları yaya yolu genişliğinden az olamaz. Eğimi %8’in üzerinde olan yaya yollarında uygun kenarında yaya yolu genişliğinin 1/3’ü merdiven olarak tasarlanır.
+(3) Yaya bölgelerinde taşıt geçişi olan kısımlar farklı renk ve şekildeki malzemeler ile yaya yolundan ayrılır.
+(4) Yaya yollarında yüzey sularını toplayan drenaj oluğu yolun genişliğine bağlı olarak yolun ortasında veya iki kenarında yapılır. Drenajın yolun ortasında çözümleneceği durumlarda yağmursuyu ızgarası ile drenaj oluğunun üzeri kapatılır.
+(5) Drenaj oluğu yayaların hareketini kısıtlamayacak şekilde ve oluğa gelen yüzeyler asgari %2 eğime sahip olur.
+(6) Millet bahçesi, oyun bahçesi, çocuk bahçesi, park, rekreasyon ve rekreaktif alanlarda yapılacak yaya yollarında genişliğin 120 cm’den az olmaması esastır.
+(7) Boyuna eğimi %10’un üzerinde olan yaya yolları için alternatif güzergah ile erişim sağlanmasına yönelik çözümler tasarlanır. Ancak bunun yanında boyuna eğimi %10’un üzerinde olan yaya yollarında doğal eğimin sürekliliğinin sağlandığı yürüme alanının yanında, erişilebilirlik standartlarına uygun merdiven yapılabilir. Mevcut yaya yollarında ise kısa mesafelerde büyük kot farkı oluşması halinde erişilebilirlik standartlarına uygun asansör veya kaldırma iletme platformu uygulanabilir.

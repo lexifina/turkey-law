@@ -1,0 +1,5 @@
+Yeşil yaya koridoru
+MADDE 8- (1) Yaya yolu asgari genişliğini korumak, olası araç giriş-çıkış ve geçişlerini sağlamak, varsa yaya yolu kenarına bitişik yapılanmaya zarar vermemek kaydıyla yeri ilgili idaresince belirlenecek ve projelendirilecek yeşil yaya koridoru oluşturulabilir.
+(2) Yeşil yaya koridorları; kaldırım net yürüme alanının taşıt yolu tarafında, tekerlekli sandalye kullanımını engellemeyecek nitelikte, asgari 100 cm genişliğinde toprak alan ayrılarak bu alanın ağaçlandırılması suretiyle oluşturulur. Kaldırım genişliğinin yeterli olması halinde uygulama mülkiyet tarafında da yapılabilir (Ek-1, Şekil-5).
+(3) Yeşil yaya koridorunda yer alan ağaçların seçiminde iklim özellikleri, arazinin jeolojik özellikleri ve topografyası göz önünde bulundurulur ve TS 8146 “Şehiriçi Yol ve Meydan Ağaçlandırma Kuralları” standardı uyarınca uygun aralıklarla ağaçlandırma yapılır.
+(4) Yeşil yaya koridorlarına çöp atık kovası, oturma bankı gibi kentsel donatı elemanları yerleştirilecekse bu elemanların ağaç miktarını ve sürekliliğini etkilememesi esastır.

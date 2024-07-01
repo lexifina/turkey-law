@@ -1,0 +1,34 @@
+{
+  "source_id": "7.5.40855",
+  "kind": "regulation",
+  "register_kind": "Kurum ve Kuruluş Yönetmelikleri",
+  "title": "YAYA YOLLARI VE KALDIRIMLARIN TASARIM KURALLARI HAKKINDA YÖNETMELİK",
+  "number": "40855",
+  "issuer": "Çevre, Şehircilik ve İklim Değişikliği Bakanı",
+  "issuer_slug": "cevre-sehircilik-ve-iklim-degisikligi-bakani",
+  "path": "regulation/cevre-sehircilik-ve-iklim-degisikligi-bakani/2023/40855",
+  "source": "https://www.mevzuat.gov.tr/anasayfa/MevzuatFihristDetayIframe?MevzuatTur=7&MevzuatNo=40855&MevzuatTertip=5",
+  "source_sha256": "a3600c404fd2861adaf39e9dd4391a8b968c9076864ba89bc90036510610b154",
+  "source_bytes": 59839,
+  "published": "2023-11-07",
+  "gazette": "32362",
+  "in_force": "2024-07-01",
+  "in_force_basis": "own commencement article: \"Bu Yönetmelik 1/7/2024 tarihinde yürürlüğe girer\"",
+  "commencement_clauses": [
+    "Bu Yönetmelik 1/7/2024 tarihinde yürürlüğe girer"
+  ],
+  "history": "current-text",
+  "label": "oldest version available",
+  "checked_on": "2026-11-15",
+  "word_count": 3699,
+  "text_status": "current-consolidated",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  },
+  "source_links": [
+    "7.5.40855-Ek.docx"
+  ],
+  "completeness": "html-text-complete; linked annexes not fetched"
+}
