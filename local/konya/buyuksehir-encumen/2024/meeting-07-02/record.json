@@ -1,0 +1,23 @@
+{
+  "number": "meeting-07-02",
+  "number_as_published": null,
+  "year": 2024,
+  "title": "2024-07-02 Tarihli Encümen Kararları",
+  "decision_date": "2024-07-02",
+  "source": "https://www.konya.bel.tr/meclis-encumen/encumen-kararlari?karar_yil=2024&karar_ay=7",
+  "official_document": "https://files.konya.bel.tr/meclis/encumen_karar_pdf/tmDXE34DQYNJQUm74MuhUB5QDAWCCkwnmlC5NlcH.pdf",
+  "source_sha256": "814ae44ba30bf7840488a96dc306129ed1aa4bf8633ff12ef34705095c8af034",
+  "issuer": "Konya Büyükşehir Belediye Encümeni",
+  "history_type": "metadata",
+  "text_status": "metadata-only: listing fields as published; complete decision text is in the linked official document, not transcribed",
+  "in_force": "2024-07-02",
+  "in_force_basis": "Decision date as printed in the official council listing: 2024-07-02; adoption date of the council decision; legal commencement not asserted",
+  "missing": [
+    "complete official decision text",
+    "official annexes"
+  ],
+  "law_text_complete": false,
+  "privacy_withheld": false,
+  "record_scope": "one official PDF of encümen decisions per meeting",
+  "official_page": "https://www.konya.bel.tr/meclis-encumen/encumen-kararlari?karar_yil=2024&karar_ay=7"
+}
