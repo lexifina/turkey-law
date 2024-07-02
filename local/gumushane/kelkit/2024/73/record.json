@@ -1,0 +1,22 @@
+{
+  "number": "73",
+  "number_as_published": "73",
+  "year": 2024,
+  "title": "2024-73 SAYILI MECLİS KARARI",
+  "decision_date": "2024-07-02",
+  "source": "https://www.kelkit.bel.tr/mecliskararlari",
+  "official_document": "https://www.kelkit.bel.tr/upload/mecliskararlari/GGcFEBQTi2VpGpj.pdf",
+  "source_sha256": "409d63013aac6a5e4d50bcc0470ec3bdc46fcf2fd458931b0a696619ef4a6f97",
+  "issuer": "Kelkit Belediye Meclisi",
+  "history_type": "metadata",
+  "text_status": "metadata-only: listing fields as published; complete decision text is in the linked official document, not transcribed",
+  "in_force": "2024-07-02",
+  "in_force_basis": "Decision date as printed in the official council listing: 02.07.2024; adoption date of the council decision; legal commencement not asserted",
+  "missing": [
+    "complete official decision text",
+    "official annexes"
+  ],
+  "law_text_complete": false,
+  "privacy_withheld": false,
+  "listing_label": "2024-73 SAYILI MECLİS KARARI"
+}
