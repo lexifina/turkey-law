@@ -1,0 +1,23 @@
+{
+  "number": "meeting-07-03",
+  "number_as_published": "meeting-07-03",
+  "year": 2024,
+  "title": "03.07.2024 Temmuz Ayı Meclis Karar Özetleri",
+  "decision_date": "2024-07-03",
+  "source": "https://www.demre.bel.tr/icerikler/13-meclis-kararlari.html?sayfa=2",
+  "official_document": "https://www.demre.bel.tr/icerikler/142-03072024-temmuz-ayi-meclis-karar-ozetleri.html",
+  "source_sha256": "c54b542675b98e570fe6ec923d66682cf55b5cc774fb0ccdb614b81d09c32a1a",
+  "issuer": "Demre Belediye Meclisi",
+  "history_type": "metadata",
+  "text_status": "metadata-only: listing fields as published; complete decision text is in the linked official document, not transcribed",
+  "in_force": "2024-07-03",
+  "in_force_basis": "Decision date as printed in the official council listing: 03.07.2024; adoption date of the council decision; legal commencement not asserted",
+  "missing": [
+    "complete official decision text",
+    "official annexes"
+  ],
+  "law_text_complete": false,
+  "privacy_withheld": false,
+  "listing_label": "03.07.2024 Temmuz Ayı Meclis Karar Özetleri",
+  "record_scope": "one official file of council decisions (meeting)"
+}
