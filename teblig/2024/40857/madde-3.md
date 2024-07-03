@@ -1,0 +1,3 @@
+Tarife kontenjanı
+MADDE 3- (1) Tarife kontenjanı miktarı, ek mali yükümlülüğün uygulandığı her bir dönemde, Filmaşin İthalatında Korunma Önlemi Uygulanmasına İlişkin Kararın ekinde yer alan ülkeler ve gümrük bölgeleri menşeli tarife kontenjanı kapsamı eşyanın tamamı için önlemin birinci döneminde toplam 33.898 ton, ikinci ve üçüncü döneminde her bir dönem için 67.796 ton olarak belirlenmiştir.
+(2) Her bir ülke veya gümrük bölgesi menşeli eşya için bir dönemde verilecek tarife kontenjanı, önlemin birinci döneminde 11.299 tonu, ikinci ve üçüncü döneminde her bir dönem için 22.599 tonu geçemez.
