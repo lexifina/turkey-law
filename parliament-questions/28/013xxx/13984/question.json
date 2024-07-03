@@ -1,0 +1,21 @@
+{
+  "record_type": "parliament-written-question",
+  "term": 28,
+  "legislative_year": 2,
+  "esas_no": "7/13984",
+  "submitted": "2024-07-03",
+  "submitted_as": "Başkanlığa geliş tarihi",
+  "mp": "Rahmi Aşkın TÜRELİ",
+  "province": "İzmir",
+  "summary": "Uluslararası Şeffaflık Örgütü tarafından yayımlanan Yolsuzluk Algısı Endeksine ilişkin",
+  "status": "Süresi Geçtikten Sonra Cevaplandı",
+  "status_as_of": "2026-11-16",
+  "official_record": "https://www.tbmm.gov.tr/Denetim/Yazili-Soru-Onergesi-Detay/b19140ea-c4f4-404e-94bf-019077ba3af2",
+  "source": "https://tbmm.gov.tr/Denetim/YaziliSoruOnergesiTable",
+  "source_form": "https://tbmm.gov.tr/Denetim/Yazili-Soru-Onergeleri",
+  "source_sha256": "172a4977c4517a455edfc0341b26078bfdffc4de298564336f10cbbba3ef2d75",
+  "in_force": "2024-07-03",
+  "in_force_basis": "Date the question reached the Speaker (Başkanlığa geliş tarihi) in the official TBMM written-question record; parliamentary oversight record, not law",
+  "history_type": "metadata",
+  "text_status": "metadata-only: question text, addressee and answers are in the linked official record (PDFs on cdn.tbmm.gov.tr); not transcribed here"
+}
