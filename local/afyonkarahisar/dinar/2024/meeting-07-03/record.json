@@ -1,0 +1,25 @@
+{
+  "number": "meeting-07-03",
+  "number_as_published": "meeting-07-03",
+  "year": 2024,
+  "title": "2024 YILI TEMMUZ AYI MECLİS KARAR ÖZETİ",
+  "decision_date": "2024-07-03",
+  "source": "https://www.dinar.bel.tr/meclis-kararlari",
+  "official_document": null,
+  "source_sha256": "b13f21fddb423e4f1f618e5f9f53c4463e3e1b94ff87d2afc862c9eb710231bd",
+  "issuer": "Dinar Belediye Meclisi",
+  "history_type": "metadata",
+  "text_status": "metadata-only: listing fields as published; the listing links no decision document",
+  "in_force": "2024-07-03",
+  "in_force_basis": "Decision date as printed in the official council listing: 3.07.2024 (Tarih column of the official list); adoption date of the council decision; legal commencement not asserted",
+  "missing": [
+    "complete official decision text",
+    "official annexes"
+  ],
+  "law_text_complete": false,
+  "privacy_withheld": false,
+  "record_scope": "one meeting's decision summary (date, decision numbers and title as listed)",
+  "official_page": "https://www.dinar.bel.tr/meclis-kararlari",
+  "karar_no_as_listed": "",
+  "list_query": "Meclis Karar Özeti, 01.01.2024-31.12.2024 (the page's own form)"
+}
