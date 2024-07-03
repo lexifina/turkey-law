@@ -1,0 +1,16 @@
+{
+  "kind": "decision",
+  "issuer": "Sayıştay Temyiz Kurulu",
+  "number": "56998",
+  "decision_date": "2024-07-03",
+  "source_id": 29041,
+  "chamber": "1",
+  "file_number": "53483",
+  "public_body_type": "Belediyeler ve Bağlı İdareler",
+  "account_year": "2021",
+  "subject": "Personel Mevzuatı ile İlgili Kararlar",
+  "source": "https://www.sayistay.gov.tr/KararlarTemyiz/Detay/29041/",
+  "source_sha256": "1eb3aba5e736602796ae81e456b09a288204e6b167535abc642715436be2b007",
+  "text_status": "as-enacted",
+  "text_file": "metin.md"
+}
