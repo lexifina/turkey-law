@@ -1,0 +1,49 @@
+{
+  "checked_on": "2026-11-14",
+  "commencement_clauses": [
+    "MADDE 19 – (1) Bu Yönetmelik yayımı tarihinde yürürlüğe girer."
+  ],
+  "date_evidence": [
+    [
+      "2021-06-07",
+      "07.06.2021",
+      "original gazette publication date in official listing"
+    ],
+    [
+      "2024-07-04",
+      "RG-4/7/2024-32592",
+      "latest source-printed gazette amendment date for current consolidated text"
+    ],
+    [
+      "2024-07-04",
+      "4/7/2024",
+      "latest gazette date in source amendment table"
+    ]
+  ],
+  "date_quote": "RG-4/7/2024-32592",
+  "first_law": null,
+  "gazette": "31504",
+  "history": "current-text",
+  "images": {
+    "deferred": 0,
+    "omitted": 0,
+    "referenced": 0,
+    "source": 0
+  },
+  "in_force": "2024-07-04",
+  "in_force_basis": "latest source-printed gazette amendment date for current consolidated text",
+  "issuer": "Dicle Üniversitesi",
+  "issuer_slug": "dicle-universitesi",
+  "kind": "regulation",
+  "label": "oldest version available",
+  "path": "regulation/dicle-universitesi/2021/38665",
+  "published": "2021-06-07",
+  "source": "https://www.mevzuat.gov.tr/anasayfa/MevzuatFihristDetayIframe?MevzuatTur=8&MevzuatNo=38665&MevzuatTertip=5",
+  "source_bytes": 44413,
+  "source_id": "8.5.38665",
+  "source_sha256": "0e1c32257fe31d0b84deb67e9701b37bee40d14cfad404d1021921bf875fc3de",
+  "text_status": "current-consolidated",
+  "title": "DİCLE ÜNİVERSİTESİ YAZ DÖNEMİ EĞİTİM-ÖĞRETİM\r\nVE SINAV YÖNETMELİĞİ",
+  "university_id": 188,
+  "word_count": 2029
+}
