@@ -1,0 +1,21 @@
+{
+  "record_type": "parliament-written-question",
+  "term": 28,
+  "legislative_year": 2,
+  "esas_no": "7/13686",
+  "submitted": "2024-07-04",
+  "submitted_as": "Başkanlığa geliş tarihi",
+  "mp": "Ahmet Baran YAZGAN",
+  "province": "Edirne",
+  "summary": "Edirne'nin Merkez ilçesinde bulunan bir gölette gerçekleşen balık ölümlerine ilişkin",
+  "status": "Süresi Geçtikten Sonra Cevaplandı",
+  "status_as_of": "2026-11-16",
+  "official_record": "https://www.tbmm.gov.tr/Denetim/Yazili-Soru-Onergesi-Detay/99e208d6-83d8-4c16-95d0-01907d88bbd4",
+  "source": "https://tbmm.gov.tr/Denetim/YaziliSoruOnergesiTable",
+  "source_form": "https://tbmm.gov.tr/Denetim/Yazili-Soru-Onergeleri",
+  "source_sha256": "7a500e5d32cefe397cebfa54062231de60f7bb6c4a52e046b271149685d27943",
+  "in_force": "2024-07-04",
+  "in_force_basis": "Date the question reached the Speaker (Başkanlığa geliş tarihi) in the official TBMM written-question record; parliamentary oversight record, not law",
+  "history_type": "metadata",
+  "text_status": "metadata-only: question text, addressee and answers are in the linked official record (PDFs on cdn.tbmm.gov.tr); not transcribed here"
+}
