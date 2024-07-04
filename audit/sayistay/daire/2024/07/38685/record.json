@@ -1,0 +1,17 @@
+{
+  "kind": "decision",
+  "issuer": "Sayıştay 5. Dairesi",
+  "number": "661",
+  "decision_date": "2024-07-04",
+  "source_id": 38685,
+  "chamber": "5",
+  "ilam_number": "393",
+  "item_number": 1,
+  "public_body_type": "Belediyeler ve Bağlı İdareler",
+  "account_year": 2017,
+  "subject": "Personel Mevzuatı ile İlgili Kararlar",
+  "source": "https://www.sayistay.gov.tr/KararlarDaire/Detay/38685/",
+  "source_sha256": "a8175e1c1f034aaedc5b68608b94268cce54839c06f53d75064850e4070f84da",
+  "text_status": "as-enacted",
+  "text_file": "metin.md"
+}
