@@ -1,0 +1,22 @@
+{
+  "number": "51",
+  "number_as_published": "51",
+  "year": 2024,
+  "title": "İmar Planı Değikliği",
+  "decision_date": "2024-07-04",
+  "source": "https://www.kagithane.istanbul/kagithane_belediyesi/meclis/2024-Meclis-Kararlari/663/0/0",
+  "official_document": "https://www.kagithane.istanbul/images/meclisler/Meclis-kararlari/2024/Meclis-karari-51.jpg",
+  "source_sha256": "cf3a40ad6938ac33216ffba70b3789f3831a83e63e27e8bf9c6592bf0a29ca45",
+  "issuer": "Kağıthane Belediye Meclisi",
+  "history_type": "metadata",
+  "text_status": "metadata-only: listing fields as published; complete decision text is in the linked official document, not transcribed",
+  "in_force": "2024-07-04",
+  "in_force_basis": "Decision date as printed in the official council listing: 04 Temmuz 2024; adoption date of the council decision; legal commencement not asserted",
+  "missing": [
+    "complete official decision text",
+    "official annexes"
+  ],
+  "law_text_complete": false,
+  "privacy_withheld": false,
+  "subject_note": "subject (KARAR ÖZET) as the official list prints it; the list shows only its first ~30 characters"
+}
