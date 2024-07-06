@@ -1,0 +1,1 @@
+[1] 6/7/2024 tarihli ve 32594 sayılı Resmî Gazete’de yayımlanan değişiklik ile Yönetmeliğin Adı “Kapadokya Alanı Hakkında Kanuna Göre Verilecek İdari Para Cezalarına Dair Yönetmelik” iken metne işlendiği şekilde değiştirilmiştir.

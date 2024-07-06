@@ -1,0 +1,2 @@
+İdari para cezalarının artırılması
+MADDE 20 – (1) İdari para cezaları her takvim yılı başından geçerli olmak üzere o yıl için 4/1/1961 tarihli ve 213 sayılı Vergi Usul Kanununun mükerrer 298 inci maddesi hükümleri uyarınca tespit ve ilân edilen yeniden değerleme oranında artırılarak uygulanır. Bu suretle idari para cezasının hesabında bir Türk Lirasının küsuru dikkate alınmaz. Bu fıkra hükmü, nispi nitelikteki idari para cezaları açısından uygulanmaz.
