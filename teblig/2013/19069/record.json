@@ -1,0 +1,71 @@
+{
+  "source_id": "9.5.19069",
+  "kind": "communique",
+  "register_kind": "Tebliğler",
+  "title": "ULUSAL MESLEK STANDARTLARINA DAİR TEBLİĞ",
+  "number": "19069",
+  "issuer": "Mesleki Yeterlilik Kurumu Başkanı",
+  "path": "teblig/2013/19069",
+  "source": "https://www.mevzuat.gov.tr/anasayfa/MevzuatFihristDetayIframe?MevzuatTur=9&MevzuatNo=19069&MevzuatTertip=5",
+  "source_sha256": "3039acebc5b919a5bb7bb4291573be88c9d58fa022d8d8ba7f29238aa55efa35",
+  "source_bytes": 26838,
+  "published": "2013-11-29",
+  "gazette": "28836 (mükerrer)",
+  "in_force": "2024-07-07",
+  "in_force_basis": "latest Resmî Gazete date printed in the source amendment notes/table (\"7/7/2024\") for the current consolidated text",
+  "date_evidence": [
+    [
+      "2024-07-07",
+      "7/7/2024",
+      "Resmî Gazete date in the source amendment table"
+    ],
+    [
+      "2023-04-16",
+      "16/4/2023",
+      "Resmî Gazete date in the source amendment table"
+    ],
+    [
+      "2022-03-25",
+      "25/3/2022",
+      "Resmî Gazete date in the source amendment table"
+    ],
+    [
+      "2020-06-17",
+      "17/6/2020",
+      "Resmî Gazete date in the source amendment table"
+    ],
+    [
+      "2020-02-21",
+      "21/2/2020",
+      "Resmî Gazete date in the source amendment table"
+    ],
+    [
+      "2019-12-08",
+      "8/12/2019",
+      "Resmî Gazete date in the source amendment table"
+    ],
+    [
+      "2019-05-07",
+      "7/5/2019",
+      "Resmî Gazete date in the source amendment table"
+    ]
+  ],
+  "commencement_clauses": [
+    "Bu Tebliğ yayımı tarihinde yürürlüğe girer"
+  ],
+  "history": "current-text",
+  "label": "oldest version available",
+  "checked_on": "2026-11-15",
+  "word_count": 379,
+  "text_status": "current-consolidated",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  },
+  "source_links": [
+    "9.5.19069-ekler.rar",
+    "9.5.19069-EK.zip"
+  ],
+  "completeness": "html-text-complete; linked annexes not fetched"
+}
