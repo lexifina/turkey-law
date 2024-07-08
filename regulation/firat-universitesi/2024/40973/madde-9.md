@@ -1,0 +1,4 @@
+Muafiyet
+MADDE 9- (1) Üniversiteye yeni kayıt yaptıran öğrenciler, daha önce kayıtlı bulundukları yükseköğretim kurumunda başarmış oldukları dersler için Üniversiteye kesin kayıt yaptırdıkları eğitim-öğretim yılının başlamasından itibaren en geç bir ay içinde bir defaya mahsus muafiyet talebinde bulunabilirler. Bu süre dışındaki başvurular dikkate alınmaz.
+(2) Yeni kayıt olduğu birimin intibak komisyonu, muafiyet talebinde bulunan öğrencinin daha önce almış olduğu dersleri içerik, kredi/saat uyumluluğu ve başarı notu bakımından değerlendirerek intibak formu hazırlar. Öğrencinin muaf olduğu dersler dikkate alınarak hangi yarıyıla intibakının yapılacağına, intibak komisyonunun önerisi üzerine ilgili birim yönetim kurulu karar verir.
+(3) Ders muafiyeti ve intibaklara ilişkin esaslar Senato tarafından belirlenir.

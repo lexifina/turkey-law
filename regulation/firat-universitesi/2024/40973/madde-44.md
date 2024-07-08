@@ -1,0 +1,4 @@
+Kayıt sildirme ve ilişik kesme
+MADDE 44- (1) Öğrenciler istedikleri takdirde Üniversite Öğrenci İşleri Daire Başkanlığına başvurarak kayıtlarını sildirebilirler. Öğrencinin Üniversiteden kaydının silinmesi hâlinde ödemiş olduğu katkı payları ve öğrenim ücretleri iade edilmez.
+(2) Üniversiteden kaydını sildiren veya disiplin cezası nedeniyle Üniversite ile ilişiği kesilen öğrencilerin diplomalarını veya dosyalarındaki kendilerine ait belgeleri alabilmeleri için Üniversite tarafından belirlenen kayıt sildirme işlemlerini yapmaları ve mali yükümlülükleri (katkı payı veya öğrenim ücreti, yurt, kütüphane borcu ve benzeri) yerine getirmeleri zorunludur.
+(3) Ön lisans diploması alan lisans öğrencileri veya mezuniyet koşullarını sağlamadan kayıtlı oldukları programdan kayıt sildiren ve Üniversite ile ilişiği kesilen öğrenciler, Üniversitedeki tüm öğrencilik haklarını kaybederler.

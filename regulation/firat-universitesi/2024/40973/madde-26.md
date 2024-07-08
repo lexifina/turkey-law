@@ -1,0 +1,4 @@
+Mazeret sınavları
+MADDE 26- (1) Mazeret sınavı, ilgili birim tarafından ilan edilen tarihlerde Rektörlük tarafından görevlendirilen veya Senato tarafından belirlenen mazeretleri nedeniyle ara sınavlara katılamayan öğrenciler için yapılır. Öğrenci; mazeret belgesini bir dilekçe ekinde, ilgili bölüm/program başkanlığına, bu başkanlıkların bulunmadığı birimlerde dekanlığa/müdürlüğe mazeret sınavından en geç iki hafta önce vermek zorundadır.
+(2) Mazeret sınavı hakkı, sadece ara sınavlar için verilir. Mazeret sınavı, ara sınav sayısına bakılmaksızın her yarıyılda dersten sorumlu öğretim elemanı tarafından her ders için bir defa yapılır.
+(3) Ara sınavın yapıldığı tarihte Rektörlük tarafından görevlendirilen öğrenciler için her yarıyılda, her ders için ara sınav sayısı kadar mazeret sınavı yapılır.

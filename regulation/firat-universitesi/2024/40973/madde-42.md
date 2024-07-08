@@ -1,0 +1,2 @@
+Katkı payı, öğrenim ücreti ve diğer ücretler
+MADDE 42- (1) Kayıtlı olduğu program gereği katkı payı/öğrenim ücreti ödemesi gereken öğrencilerin akademik takvimde belirtilen süreler içinde her eğitim-öğretim döneminde/yılında, ilgili mevzuatta belirlenen öğrenci katkı payını/öğrenim ücretini ödemeleri gerekir. Uluslararası öğrencilerin öğrenim ücretleri ile diğer ücretler ilgili mevzuat hükümlerine göre belirlenir.

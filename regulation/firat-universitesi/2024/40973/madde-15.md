@@ -1,0 +1,2 @@
+Çift anadal programı
+MADDE 15- (1) Öğrenciler, kayıtlı oldukları programa ek olarak, ilgili mevzuat hükümlerine göre Üniversitenin eş düzeydeki başka bir programına da kayıt yaptırabilir. Bu ikinci programa çift anadal programı denir. Bu programı tamamlayan öğrencilere, kayıtlı oldukları program diplomasına ek olarak çift anadal diploması verilir. Çift anadal programlarına ilişkin esaslar Senato tarafından belirlenir.

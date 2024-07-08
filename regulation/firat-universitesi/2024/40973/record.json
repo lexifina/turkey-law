@@ -1,0 +1,31 @@
+{
+  "source_id": "8.5.40973",
+  "kind": "regulation",
+  "register_kind": "Üniversite Yönetmelikleri",
+  "title": "FIRAT ÜNİVERSİTESİ ÖN LİSANS VE LİSANS EĞİTİM-ÖĞRETİM YÖNETMELİĞİ",
+  "number": "40973",
+  "issuer": "FIRAT ÜNİVERSİTESİ",
+  "issuer_slug": "firat-universitesi",
+  "path": "regulation/firat-universitesi/2024/40973",
+  "source": "https://www.mevzuat.gov.tr/anasayfa/MevzuatFihristDetayIframe?MevzuatTur=8&MevzuatNo=40973&MevzuatTertip=5",
+  "source_sha256": "77be9f57247b46a2038a825e46d7f1b5a6d5412501b2327fd8928f5e16083cb6",
+  "source_bytes": 153774,
+  "published": "2024-07-08",
+  "gazette": "32596",
+  "in_force": "2024-07-08",
+  "in_force_basis": "Resmî Gazete publication date in the official listing (08.07.2024); own commencement article: \"Bu Yönetmelik 2024-2025 eğitim-öğretim yılı başında yürürlüğe girer\"",
+  "commencement_clauses": [
+    "Bu Yönetmelik 2024-2025 eğitim-öğretim yılı başında yürürlüğe girer"
+  ],
+  "history": "current-text",
+  "label": "oldest version available",
+  "checked_on": "2026-11-15",
+  "word_count": 4803,
+  "text_status": "current-consolidated",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  },
+  "completeness": "html-text-complete"
+}
