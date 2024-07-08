@@ -1,0 +1,39 @@
+{
+  "checked_on": "2026-11-14",
+  "commencement_clauses": [
+    "MADDE 15- (1) Bu Yönetmelik yayımı tarihinde yürürlüğe girer."
+  ],
+  "date_evidence": [
+    [
+      "2024-07-08",
+      "08.07.2024",
+      "original gazette publication date in official listing"
+    ]
+  ],
+  "date_quote": "MADDE 15- (1) Bu Yönetmelik yayımı tarihinde yürürlüğe girer.",
+  "first_law": null,
+  "gazette": "32596",
+  "history": "current-text",
+  "images": {
+    "deferred": 0,
+    "omitted": 0,
+    "referenced": 0,
+    "source": 0
+  },
+  "in_force": "2024-07-08",
+  "in_force_basis": "source commencement clause: enters into force on gazette publication",
+  "issuer": "İstanbul Gelişim Üniversitesi",
+  "issuer_slug": "istanbul-gelisim-universitesi",
+  "kind": "regulation",
+  "label": "oldest version available",
+  "path": "regulation/istanbul-gelisim-universitesi/2024/40860",
+  "published": "2024-07-08",
+  "source": "https://www.mevzuat.gov.tr/anasayfa/MevzuatFihristDetayIframe?MevzuatTur=8&MevzuatNo=40860&MevzuatTertip=5",
+  "source_bytes": 46616,
+  "source_id": "8.5.40860",
+  "source_sha256": "eb5a5b14dbc76e8ae2fd3954ef97a05e2b032fb618186c2ee23da20fb3571580",
+  "text_status": "as-enacted",
+  "title": "İSTANBUL GELİŞİM ÜNİVERSİTESİ SANAT VE TASARIM UYGULAMA VE ARAŞTIRMA MERKEZİ YÖNETMELİĞİ",
+  "university_id": 321,
+  "word_count": 827
+}
