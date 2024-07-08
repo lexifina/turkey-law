@@ -1,0 +1,39 @@
+{
+  "checked_on": "2026-11-14",
+  "commencement_clauses": [
+    "MADDE 18- (1) Bu Yönetmelik yayımı tarihinde yürürlüğe girer."
+  ],
+  "date_evidence": [
+    [
+      "2024-07-08",
+      "08.07.2024",
+      "original gazette publication date in official listing"
+    ]
+  ],
+  "date_quote": "MADDE 18- (1) Bu Yönetmelik yayımı tarihinde yürürlüğe girer.",
+  "first_law": null,
+  "gazette": "32596",
+  "history": "current-text",
+  "images": {
+    "deferred": 0,
+    "omitted": 0,
+    "referenced": 0,
+    "source": 0
+  },
+  "in_force": "2024-07-08",
+  "in_force_basis": "source commencement clause: enters into force on gazette publication",
+  "issuer": "Türk Hava Kurumu Üniversitesi",
+  "issuer_slug": "turk-hava-kurumu-universitesi",
+  "kind": "regulation",
+  "label": "oldest version available",
+  "path": "regulation/turk-hava-kurumu-universitesi/2024/40861",
+  "published": "2024-07-08",
+  "source": "https://www.mevzuat.gov.tr/anasayfa/MevzuatFihristDetayIframe?MevzuatTur=8&MevzuatNo=40861&MevzuatTertip=5",
+  "source_bytes": 53701,
+  "source_id": "8.5.40861",
+  "source_sha256": "36612701c1c3d522befa023c1c025a4e9eb01e8c1ac92afd58528e282f3016d6",
+  "text_status": "as-enacted",
+  "title": "TÜRK HAVA KURUMU ÜNİVERSİTESİ SÜREKLİ EĞİTİM UYGULAMA VE ARAŞTIRMA MERKEZİ YÖNETMELİĞİ",
+  "university_id": 366,
+  "word_count": 1040
+}
