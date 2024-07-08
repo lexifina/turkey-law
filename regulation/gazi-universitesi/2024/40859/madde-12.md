@@ -1,0 +1,3 @@
+Danışma Kurulu
+MADDE 12- (1) Müdür ve Müdür yardımcıları Danışma Kurulunun daimi üyeleridir. Danışma Kurulu, Müdürün önerisi ile daimi üyelere ek olarak Rektör tarafından görevlendirilen, Türkoloji, halk bilimi, halk edebiyatı, antropoloji, sosyoloji, tarih, psikoloji, spor ve benzeri disiplinlerdeki uzmanlıkları ile tanınan bilim adamı ve yöneticilerle, Merkezin ihtiyaç duyduğu diğer alanlardaki temsilcilerden olmak üzere üç yıl için görevlendirilen dört kişi ile birlikte toplam yedi kişiden oluşur. Boşalan veya süresi biten üyelerin yerine aynı usulle yenisi görevlendirilir.
+(2) Danışma Kurulu, Müdürün yazılı daveti üzerine en az yılda bir kez toplanır ve tavsiye nitelikli kararlar alır.
