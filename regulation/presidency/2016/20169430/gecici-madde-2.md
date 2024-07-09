@@ -1,0 +1,2 @@
+6749 sayılı Kanunun 7 nci maddesi kapsamındaki kişiler
+GEÇİCİ MADDE 2- (1) 18/10/2016 tarihli ve 6749 sayılı Olağanüstü Hal Kapsamında Alınan Tedbirlere İlişkin Kanun Hükmünde Kararnamenin Değiştirilerek Kabul Edilmesine Dair Kanunun 7 nci maddesinde sayılan kişilerden aynı maddede sayılan durumlarda hayatını kaybedenler ile yaralananlardan daha sonra bu yaralanmanın sebep ve tesiri ile hayatını kaybettiği değerlendirilenler bu Yönetmelik hükümlerine göre şehitliklere defnedilir.

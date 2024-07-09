@@ -1,0 +1,4 @@
+Mevcut şehitlikler
+GEÇİCİ MADDE 1- (1) Bu Yönetmeliğin yürürlüğe girdiği tarihten önce kamu idarelerine şehitlik olarak tahsis edilmiş alan içerisinde kalan Hazinenin özel mülkiyetinde bulunan taşınmazlar ve/veya Devletin hüküm ve tasarrufu altındaki yerler ile mülkiyeti kamu idarelerine ait taşınmazlar, şehitlik olarak kullanılmak üzere bir yıl içerisinde Maliye Bakanlığı veya maliki kamu idaresi tarafından ilgili yatırım izleme ve koordinasyon başkanlığına veya il özel idaresine tahsis edilir.
+(2) Mevcut şehitliklerin kullanımına tahsis edilmiş araç, gereç ve tüm taşınırlar altı ay içerisinde ilgili yatırım izleme ve koordinasyon başkanlığına veya il özel idaresine devredilir.
+(3) Mevcut şehitliklerde, kullanım yeri bitinceye kadar bütünlüğün bozulmaması için mevcut mezar projelerinin uygulanmasına devam edilir.

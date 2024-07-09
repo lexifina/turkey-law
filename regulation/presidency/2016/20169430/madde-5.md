@@ -1,0 +1,3 @@
+Şehitliğe defin süreci
+MADDE 5- (1) Şehitliğe defin kararı veren makam tarafından hayatını kaybeden kişinin sırasıyla eşinden, en büyük reşit çocuğundan, anasından, babasından, en büyük reşit kardeşinden hangi şehitliğe ya da mezarlığa defin yapılmasını talep ettiğine dair yazılı beyan alınır ve bu beyan defnin yapılacağı il valiliğine bildirilir. Söz konusu beyan belirtilen sıraya uygun olarak hayatını kaybeden kişinin yalnızca bir yakınından alınır.
+(2) Defin yeri valiliğince, defne ilişkin gerekli hazırlıklar yapılır. Hayatını kaybeden kişinin yakınının talebi sebebiyle şehitlikler dışındaki mezarlıklara defin işlemleri yerel yönetimler ile koordine edilir.

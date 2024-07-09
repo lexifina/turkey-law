@@ -1,0 +1,3 @@
+Mezarların inşa, bakım ve onarımı
+MADDE 11- (1) Şehitliğe defnedilenler ile şehitliğe defnedilmesi mümkün olduğu halde 5 inci maddenin birinci fıkrasında belirtilen yakınlarının talebi üzerine şehitlik dışına defni yapılanların mezarları ek-1’de yer alan tip mezar projesine göre valilikler tarafından inşa ettirilir.
+(2) Şehitliğe defnedilmesi mümkün olduğu halde 5 inci maddenin birinci fıkrasında belirtilen yakınlarının talebi üzerine şehitlik dışına defni yapılanların mezarlarının bakım ve onarım işlemleri, yakınlarınca talep edilmesi ve uygun bulunması halinde valilikler tarafından yaptırılır.
