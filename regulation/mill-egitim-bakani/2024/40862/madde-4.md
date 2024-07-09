@@ -1,0 +1,12 @@
+İKİNCİ BÖLÜM
+Denklik İşlemleri
+Denklik işlemini yapacak denklik merkezleri ve denklik için başvuru
+MADDE 4- (1) Denklik merkezlerine;
+a) Yurt içinde Türkiye Cumhuriyeti vatandaşları, Türkiye Cumhuriyeti Kimlik Kartı veya Türkiye Cumhuriyeti Nüfus Cüzdanı; yabancı ülke vatandaşları ise başvuru kimlik belgesi ile başvuruda bulunur.
+b) Yurt dışında eğitim müşavirliklerine/ataşeliklerine pasaport veya kimlik belgesi ile başvuruda bulunulur.
+(2) Denklik işlemi, denklik talebinde bulunan kişinin belgelerinin asılları denklik merkezine ibraz edilerek e-Denklik modülü üzerinden gerçekleştirilir.
+(3) Başvuru sahiplerine elektronik ortam üzerinden yapılan duyurular ve sonuçlar tebliğ hükmündedir.
+(4) Denklik işlemi, yurt içinde milletlerarası ilköğretim ve ortaöğretim düzeyindeki özel öğretim kurumları ile yurt dışındaki ilköğretim ve ortaöğretim kurumlarından alınan karne, transkript, öğrenim belgesi, sertifika, ayrılma belgesi, süresi içinde sunulmuş geçici mezuniyet belgesi ve diploma gibi belgelerin asılları ile yapılır. Denklik işlemi, söz konusu belgelerin asıllarının zayi olması veya bulunmaması hâlinde öğrencinin öğrenim gördüğü okul müdürlüğünden/belgenin aslını düzenleyen kurumdan aldığı, aslına uygunluğu okul müdürlüğü/belgenin aslını düzenleyen kurum tarafından ve ilgili ülkenin eğitim bakanlığından onaylanmış apostile üye ülkelerde apostil onaylı, apostil olmadığı durumlarda ilgili ülkenin büyükelçiliği onaylı suret ve fotokopiler ile de yapılabilir.
+(5) Ders yılı içinde öğrenim belgesi olmadan gelen öğrencinin, eğitim-öğretimden uzak kalmaması için hangi ülke, okul ve sınıfta okuduğuna dair velisinin yazılı beyanı doğrultusunda geçici olarak okula devamı sağlanır. Ancak veliden öğrencinin öğrenim belgelerini üç ay içinde getirmesi istenir. İlgili öğrencinin kesin denklik işleminin sonuçlandırılması, öğrencinin velisi tarafından takip edilir. Öğrenim belgelerinin belirtilen süre içerisinde ibraz edilememesi durumunda 15 inci madde doğrultusunda işlem yapılır.
+(6) Savaş, afet ve/veya sığınma nedeniyle denklik talebinde bulunanlardan belgelerini ibraz edemeyenlere seviye tespit sınavı uygulanır. Sınav neticesinde tespit edilen sınıf seviyesine denklik işlemi yapılır ve öğrencinin öğrenimine devamı sağlanır.
+(7) Denklik başvurusunda bulunan öğrencinin, farklı okul türlerine ait ibraz ettiği belgelere göre başarılı olduğu ders sayısı ve içeriği birlikte değerlendirilerek uygun ilköğretim ve/veya ortaöğretim okullarından birine veya bir sınıf, alan, bölüm veya dala denklik işlemi yapılır.

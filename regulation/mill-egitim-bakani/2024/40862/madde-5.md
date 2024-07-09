@@ -1,0 +1,11 @@
+Denklik işlemi için istenecek belgeler
+MADDE 5- (1) Denklik işlemi için başvuruda bulunanlarca, e-Denklik sistemi üzerinden EK-1’de yer alan MEB Denklik Başvuru Formu doldurulur, aşağıdaki belgelerin aslı forma eklenir:
+a) İlköğretim okullarına denkliği yapılacak olanlar için yurt dışındaki okullar ile yabancı uyruklu olup milletlerarası ilköğretim kurumlarından aldıkları son yıla ait onaylı karne, ayrılma belgesi veya varsa diploma.
+b) Ortaöğretim kurumlarından 9 uncu sınıfa denkliği yapılacak olanlar için ilköğretim diploması ya da ilköğretimi bitirdiğine dair belge; ara sınıflara denkliği yapılacaklar için yurt dışındaki okullardan ve milletlerarası ortaöğretim düzeyindeki okullardan aldıkları geçmiş yıllara ait karne, transkript veya ayrılma belgesi.
+c) Türkiye Cumhuriyeti resmî makamlarınca açıklanan olağan dışı durumlarda, öğrenimini uzaktan öğretim yolu ile yapmış olup ara sınıfa kayıt yaptıracak olanlar için transkript veya öğrenim belgesi.
+ç) Mezun durumda olanlar için apostil, apostil olmadığı durumlarda ilgili ülkenin eğitim bakanlığı, dışişleri bakanlığı ya da büyükelçiliği/konsolosluğu tarafından onaylı diploma/diploma almaya hak kazandığına dair belge.
+d) Denklik merkezinde ilgili ülkeye ait resmî dil/dillere yeterliliği olan personel olmaması hâlinde denklik talebinde bulunan kişinin öğrenim belgelerinin noter onaylı tercümeleri, yurt dışında yapılan tercümelerde ise 18/1/1972 tarihli ve 1512 sayılı Noterlik Kanunu uyarınca konsolosluk onayı.
+e) Yurt içindeki denklik merkezlerine başvurularda Türkiye Cumhuriyeti vatandaşları için Türkiye Cumhuriyeti Kimlik Kartı veya Türkiye Cumhuriyeti Nüfus Cüzdanı, yabancı ülke vatandaşları için başvuru kimlik belgesi, yurt dışındaki denklik merkezlerine başvurularda pasaport veya kimlik belgesi.
+f) Başvuru sahibinden pasaportla birlikte eğitim gördüğü ülkeye ait giriş-çıkış sayfaları, sayfaların ibraz edilememesi hâlinde eğitim süresince ilgili ülkede bulunduğuna dair belge.
+(2) MEB Denklik Başvuru Formu ile diğer belgeler başvuruda bulunanlarca sisteme yüklenir ve belgelerin asılları denklik merkezine ibraz edilir.
+(3) Denklik merkezlerince belgelerin sahte olması veya üzerinde tahrifat yapıldığının tespit edilmesi hâlinde denklik verilmez, verilmişse iptal edilir ve ilgili hakkında Cumhuriyet Başsavcılıklarına suç duyurusunda bulunulur.

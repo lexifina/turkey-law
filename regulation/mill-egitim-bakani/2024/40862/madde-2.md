@@ -1,0 +1,2 @@
+Dayanak
+MADDE 2- (1) Bu Yönetmelik, 5/1/1961 tarihli ve 222 sayılı İlköğretim ve Eğitim Kanununun 4 üncü maddesi, 8/2/2007 tarihli ve 5580 sayılı Özel Öğretim Kurumları Kanununun 2 nci ve 5 inci maddeleri, 27/11/2007 tarihli ve 5718 sayılı Milletlerarası Özel Hukuk ve Usul Hukuku Hakkında Kanunun 4 üncü maddesi, 4/4/2013 tarihli ve 6458 sayılı Yabancılar ve Uluslararası Koruma Kanununun 59 uncu maddesi ve 1 sayılı Cumhurbaşkanlığı Teşkilatı Hakkında Cumhurbaşkanlığı Kararnamesinin 301 inci, 319 uncu ve 326 ncı maddelerine dayanılarak hazırlanmıştır.
