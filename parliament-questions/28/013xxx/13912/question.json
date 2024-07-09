@@ -1,0 +1,21 @@
+{
+  "record_type": "parliament-written-question",
+  "term": 28,
+  "legislative_year": 2,
+  "esas_no": "7/13912",
+  "submitted": "2024-07-09",
+  "submitted_as": "Başkanlığa geliş tarihi",
+  "mp": "Talat DİNÇER",
+  "province": "Mersin",
+  "summary": "Pamukluk Barajı İsale Hattı Projesi'ne ilişkin",
+  "status": "Cevaplandı",
+  "status_as_of": "2026-11-16",
+  "official_record": "https://www.tbmm.gov.tr/Denetim/Yazili-Soru-Onergesi-Detay/9f4a7a95-28af-45bc-bc7b-01909759c957",
+  "source": "https://tbmm.gov.tr/Denetim/YaziliSoruOnergesiTable",
+  "source_form": "https://tbmm.gov.tr/Denetim/Yazili-Soru-Onergeleri",
+  "source_sha256": "172a4977c4517a455edfc0341b26078bfdffc4de298564336f10cbbba3ef2d75",
+  "in_force": "2024-07-09",
+  "in_force_basis": "Date the question reached the Speaker (Başkanlığa geliş tarihi) in the official TBMM written-question record; parliamentary oversight record, not law",
+  "history_type": "metadata",
+  "text_status": "metadata-only: question text, addressee and answers are in the linked official record (PDFs on cdn.tbmm.gov.tr); not transcribed here"
+}
