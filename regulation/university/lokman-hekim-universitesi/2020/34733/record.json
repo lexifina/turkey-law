@@ -1,0 +1,32 @@
+{
+  "checked_on": "2026-11-14",
+  "commencement_quotes": [
+    "Yürürlük MADDE 45 – (1) Bu Yönetmelik yayımı tarihinde yürürlüğe girer. "
+  ],
+  "completeness": "text",
+  "date_quote": "amendment Gazette table: 10/7/2024",
+  "first_law": null,
+  "gazette": "31198",
+  "images": {
+    "deferred": 0,
+    "omitted": 0,
+    "referenced": 0,
+    "source": 0
+  },
+  "in_force": "2024-07-10",
+  "in_force_basis": "latest amendment Gazette date printed by the source for its current consolidated text",
+  "issuer": "Lokman Hekim Üniversitesi",
+  "kind": "regulation",
+  "notes": [],
+  "published": "2020-07-27",
+  "source": "https://www.mevzuat.gov.tr/anasayfa/MevzuatFihristDetayIframe?MevzuatTur=8&MevzuatNo=34733&MevzuatTertip=5",
+  "source_bytes": 92302,
+  "source_id": "8.5.34733",
+  "source_sha256": "2a4e06889b35b133887b71a8adc2ed474928052ac22eea0e6c6faee99283ba42",
+  "structure": "whole-act",
+  "text_status": "current-consolidated",
+  "title": "LOKMAN HEKİM ÜNİVERSİTESİ\r\nİHALE YÖNETMELİĞİ",
+  "university_id": 482,
+  "version_label": "oldest version available",
+  "word_count": 6099
+}
