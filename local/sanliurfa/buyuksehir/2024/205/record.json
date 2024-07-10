@@ -1,0 +1,24 @@
+{
+  "number": "205",
+  "number_as_published": "205",
+  "year": 2024,
+  "title": "NAZIM VE UYGULAMA İMAR PLANI(HALİLİYE-KALINBAYAT)",
+  "decision_date": "2024-07-10",
+  "source": "https://www.sanliurfa.bel.tr/icerik/18832/106/nazim-ve-uygulama-imar-planihaliliye-kalinbayat",
+  "official_document": null,
+  "source_sha256": "30978e058314433573ad0d560d0ea7a31368db80152b72d7839cbe39aa85cf90",
+  "issuer": "Şanlıurfa Büyükşehir Belediye Meclisi",
+  "history_type": "metadata",
+  "text_status": "metadata-only: decision number, date and subject from the official announcement; the decision text is not published on the page",
+  "in_force": "2024-07-10",
+  "in_force_basis": "Decision date as printed in the official council listing: 10.07.2024 tarih ve 205 sayılı (council decision cited in the official announcement); adoption date of the council decision; legal commencement not asserted",
+  "missing": [
+    "complete official decision text",
+    "official annexes"
+  ],
+  "law_text_complete": false,
+  "privacy_withheld": false,
+  "record_scope": "one council decision, as cited in the municipality's official plan announcement (ilan)",
+  "announcement_date": "2024-11-22",
+  "listing": "https://www.sanliurfa.bel.tr/kategori/82/0/meclis-kararlari?page=1"
+}
