@@ -1,0 +1,16 @@
+{
+  "kind": "decision",
+  "issuer": "Sayıştay Temyiz Kurulu",
+  "number": "57028",
+  "decision_date": "2024-07-10",
+  "source_id": 29277,
+  "chamber": "7",
+  "file_number": "45420",
+  "public_body_type": "Belediyeler ve Bağlı İdareler",
+  "account_year": "2017",
+  "subject": "Personel Mevzuatı ile İlgili Kararlar",
+  "source": "https://www.sayistay.gov.tr/KararlarTemyiz/Detay/29277/",
+  "source_sha256": "11730d4049808a983380f41997c150cdbe6bb218cac4dba90ec4da0867d60eac",
+  "text_status": "as-enacted",
+  "text_file": "metin.md"
+}
