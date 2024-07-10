@@ -1,0 +1,13 @@
+{
+  "issuer": "İzmir Büyükşehir Belediye Meclisi",
+  "number": "669",
+  "decision_date": "2024-07-10",
+  "official_id": "34104",
+  "version_label": "metadata-only",
+  "text_status": "withheld: register text appears to concern individual persons; official link only",
+  "source_listing_url": "https://www.izmir.bel.tr/tr/IbbMeclisi/TariheGoreKararGetirJS?yil=2024&ay=&gun=&txtSozcuk=&draw=1&start=600&length=100&txtKararNo=",
+  "source_listing_sha256": "d4b957d4c440a038abfd4798c61101909c9d65af6c2392bc7c2f8aaab8cb5a97",
+  "register_page": "https://www.izmir.bel.tr/tr/MeclisKararlari/58",
+  "date_basis": "register field KararTarihi (decision date)",
+  "privacy_withheld": true
+}
