@@ -1,0 +1,24 @@
+{
+  "number": "201",
+  "number_as_published": "201",
+  "year": 2024,
+  "title": "NAZIM İMAR PLANI(HİLVAN-KIRBAŞI)",
+  "decision_date": "2024-07-10",
+  "source": "https://www.sanliurfa.bel.tr/icerik/18137/106/nazim-imar-planihilvan-kirbasi",
+  "official_document": null,
+  "source_sha256": "d771a33940a8c88048c183bddb9906735217f25bab36d87ff238fd643ca08398",
+  "issuer": "Şanlıurfa Büyükşehir Belediye Meclisi",
+  "history_type": "metadata",
+  "text_status": "metadata-only: decision number, date and subject from the official announcement; the decision text is not published on the page",
+  "in_force": "2024-07-10",
+  "in_force_basis": "Decision date as printed in the official council listing: 10.07.2024 tarih ve 201 sayılı (council decision cited in the official announcement); adoption date of the council decision; legal commencement not asserted",
+  "missing": [
+    "complete official decision text",
+    "official annexes"
+  ],
+  "law_text_complete": false,
+  "privacy_withheld": false,
+  "record_scope": "one council decision, as cited in the municipality's official plan announcement (ilan)",
+  "announcement_date": "2024-08-05",
+  "listing": "https://www.sanliurfa.bel.tr/kategori/82/0/meclis-kararlari?page=2"
+}
