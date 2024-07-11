@@ -1,0 +1,25 @@
+{
+  "kind": "norm",
+  "issuer": "Enerji Piyasası Düzenleme Kurumu",
+  "market": "natural-gas",
+  "document_type": "board-decision",
+  "number": "12743",
+  "decision_date": "2024-07-11",
+  "title": "Doğal Gaz Tüketimine İlişkin Sistem Kullanım Bedelleri Hakkında Cumhurbaşkanlığı Kararnamesinin Uygulanmasına Dair Usul ve Esaslarda Değişiklik Yapılmasına İlişkin Usul ve Esaslar",
+  "resmi_gazete_date": "2024-07-12",
+  "resmi_gazete_number": "32600",
+  "categories": [
+    "Diğer"
+  ],
+  "source": "https://www.epdk.gov.tr/Detay/DownloadDocument?id=v8lZwV07Qa8=",
+  "documents": [
+    "https://www.epdk.gov.tr/Detay/DownloadDocument?id=v8lZwV07Qa8="
+  ],
+  "source_sha256": "238aa0c1d0536ec8817a56c3567b355bf6368f4a54be325a330fb731f40aa99b",
+  "official_list": "https://www.epdk.gov.tr/Detay/Icerik/3-0-19/kurul-kararlari",
+  "official_list_leaf": 7233,
+  "text_status": "as-enacted",
+  "text_file": "metin.md",
+  "in_force": "2024-07-11",
+  "law_text_complete": true
+}
