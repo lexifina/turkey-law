@@ -1,0 +1,17 @@
+{
+  "kind": "decision",
+  "issuer": "Sayıştay 6. Dairesi",
+  "number": "948",
+  "decision_date": "2024-07-12",
+  "source_id": 38663,
+  "chamber": "6",
+  "ilam_number": "315",
+  "item_number": 1,
+  "public_body_type": "Genel Bütçe Kapsamındaki İdareler",
+  "account_year": 2018,
+  "subject": "Personel Mevzuatı ile İlgili Kararlar",
+  "source": "https://www.sayistay.gov.tr/KararlarDaire/Detay/38663/",
+  "source_sha256": "edfdea4d90882ae1ce9a482814c675c4fed92b5696baf63164ce262a979a7aa5",
+  "text_status": "as-enacted",
+  "text_file": "metin.md"
+}
