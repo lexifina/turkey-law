@@ -1,0 +1,2 @@
+Öğrenci sağlık raporları
+MADDE 26 – (1) Sağlık ve tedavi ile sağlık raporları alınması ve reçeteler konusunda ilgili mevzuat hükümlerine uyulur. Söz konusu sağlık raporlarının, öğrencinin eğitim-öğretim yükümlülükleri açısından mazeret oluşturup oluşturmayacağına BYK karar verir. Öğrenciler raporlarını raporun alındığı günü takip eden on gün içerisinde ilgili öğretim birimine teslim etmek zorundadırlar.

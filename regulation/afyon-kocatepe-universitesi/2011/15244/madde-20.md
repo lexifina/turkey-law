@@ -1,0 +1,4 @@
+Sınavlara itiraz ve not düzeltme (Değişik başlık:RG-23/9/2015-29484)
+MADDE 20 – (1) En az üç kişiden oluşan jüri veya sınav komisyonu önünde yapılan sınavlar hariç olmak üzere, sınavlara itiraz, öğretim birimi yönetimine, sınav sonuçlarının ilan tarihini izleyen beş iş günü içinde yazılı olarak, maddi hata yönünden yapılır. Sınav sonuçlarında maddi hataların düzeltilmesi dışında değişiklik yapılamaz. İtirazlar, dersi veren öğretim elemanınca incelenerek BYK tarafından karara bağlanır.
+(2) (Ek:RG-23/9/2015-29484) Belirlenen süre dışında sınav sonuçlarına yapılan yazılı itirazlar, Dekanlık/Müdürlük tarafından incelenir. Mazeretin geçerli görülmesi halinde itirazlar, dersi veren öğretim elemanının incelemesini müteakiben BYK tarafından karara bağlanır.
+(3) (Ek:RG-23/9/2015-29484) Öğretim elemanının sınav sonuçlarını hatalı ilan etmesi ya da sistem kaynaklı hatalar nedeniyle yapılacak not değişikliği talepleri, BYK tarafından karara bağlanır.

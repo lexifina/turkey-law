@@ -1,0 +1,10 @@
+DÖRDÜNCÜ BÖLÜM
+Sınavlar ve Değerlendirme Esasları, Öğrenim Süresi
+Sınavlar ve değerleme
+MADDE 14 – (1) Sınavlar; ara sınav, küçük sınav, yarıyıl/yıl sonu sınavı, staj sonu sınavı, bütünleme sınavı, tek ders sınavı ve mazeret sınavıdır.
+(2) (Değişik:RG-6/9/2013-28757) Her ders için en az bir ara sınav ve yarıyıl/yıl sonu veya staj sonu sınavı yapılır. (Değişik Cümle:RG-25/12/2016-29929) Bu sınavlar sonunda DC, DD, FD, FF veya YZ harf notu alanlar için bütünleme sınavı açılır. Sınavlar yazılı, sözlü ve/veya uygulamalı yapılabileceği gibi, alan ve zorluk düzeyine göre tasnif edilerek güvenli biçimde saklanan bir soru bankasından, her bir adaya farklı zamanlarda farklı soru sorulmasına izin verecek şekilde elektronik ortamda da yapılabilir. Seminer, proje, tez ve sanat alanlarındaki performanslara yönelik sınavlar ile sunumlar jüri/sınav komisyonu önünde de yapılabilir. İlgili öğretim elemanının talebi ve bölüm/program başkanlığının önerisi ile birim kurulu sınav türlerinden hangisinin uygulanacağını ve bunların her birinin başarı notuna katkısını yarıyılın ilk iki haftası içerisinde belirleyerek ilan eder.
+(3) (Değişik:RG-29/7/2012-28368) Yarıyıl/yıl içi (Mülga ibare:RG-23/9/2015-29484)(…) notlarının başarı notuna katkısı % 20’den az, % 60’dan fazla olamaz.
+(4) (Mülga:RG-29/7/2012-28368)
+(5) (Değişik:RG-6/9/2013-28757) Mezuniyeti için gerekli tüm yükümlülüklerini yerine getirip sadece devam şartını sağlamış olduğu tek dersi kalan son sınıf öğrencilerine, başvurmaları halinde, bir defaya mahsus olmak üzere BYK kararıyla tek ders sınavı açılabilir. Sınav, dönem sonu sınavlarını takip eden onbeş gün içerisinde BYK tarafından belirlenen tarihte yapılır.
+(6) (Değişik:RG-6/9/2013-28757) Bir dersin yarıyıl/yıl sonu, staj sonu veya bütünleme sınavlarına girebilmek için, bu Yönetmeliğin 12 nci maddesindeki koşulları yerine getirmek gerekir.
+(7) Öğrencinin başarısı yarıyıl/yıl içi notları ile yarıyıl/yıl sonu, staj sonu veya bütünleme sınav notunun birlikte değerlendirilmesi ile belirlenir. Yarıyıl içi notları, en az biri ara sınav notu olmak üzere küçük sınav, ödev, uygulama, klinik, laboratuvar ve benzeri çalışmalara verilen notlardan oluşur.
