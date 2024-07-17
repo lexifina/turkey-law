@@ -1,0 +1,2 @@
+Kurul ücreti
+MADDE 34 – (1) Kanunun 130 uncu maddesinin üçüncü fıkrası uyarınca takvim yılı esas alınarak üçer aylık dönemlerin son iş gününde fon toplam değerinin yüz binde beşi oranında kurucu tarafından hesaplanan ve portföy saklayıcısı tarafından onaylanan ücret, izleyen on iş günü içerisinde kurucu tarafından Kurul Hesabına yatırılarak ilgili dekontların ve hesaplama tablosunun bir örneği Kurula iletilir.

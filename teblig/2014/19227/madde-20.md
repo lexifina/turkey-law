@@ -1,0 +1,3 @@
+Tapuya şerhi zorunlu sözleşmeler
+MADDE 20 – (Değişik:RG-20/12/2018-30631)
+(1) Fon lehine sözleşmeden doğan alım, önalım ve geri alım haklarının, gayrimenkul satış vaadi sözleşmeleri gibi fon lehine haklar sağlayan sözleşmelerin, rehinli alacakların serbest dereceye ilerleme haklarının tapu siciline şerhi zorunludur. Söz konusu sözleşmelerin karşı tarafının, Toplu Konut İdaresi Başkanlığı, İller Bankası A.Ş., belediyeler ile bunların bağlı ortaklıkları, iştirakleri ve/veya yönetim kuruluna aday gösterme imtiyazının bulunduğu şirketler olması halinde bu sözleşmelerin tapu siciline şerhi zorunlu değildir.
