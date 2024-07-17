@@ -1,0 +1,10 @@
+Uygulama Daire Başkanlıkları
+MADDE 23- (1) Uygulama Daire Başkanlıklarının görevleri şunlardır:
+a) İlgili mevzuat uyarınca izne tabi tutulan konularda Kuruma yapılan izin başvurularını incelemek, değerlendirmek ve ihtiyaç halinde Kurumun diğer birimleri ile koordinasyonu da sağlamak suretiyle sonuçlandırmak,
+b) Kurumun ilgili birimlerince yürütülen denetim faaliyetleri kapsamında intikal eden denetim sonuçları ile gelen diğer bilgi ve belgelere istinaden kuruluşları belirlenen riskin niteliği ve niceliği dikkate alınmak suretiyle değerlendirmek ve ulaşılan sonuçlara göre kuruluşlar hakkında ilgili mevzuat çerçevesinde öngörülen tedbirlerin alınmasını sağlamak, tedbirlerin uygulanmasını takip etmek,
+c) Diğer birimlerin görev alanlarına girenler hariç olmak üzere; Kurumun ilgili birimlerince yapılan denetim faaliyetleri sonucunda, kuruluşların ilgili mevzuata aykırı işlemlerinin tespiti halinde, söz konusu kuruluşların mevzuata uygun biçimde çalışmalarını sağlamak amacıyla gerekli idarî işlemleri tesis etmek,
+ç) Diğer birimlerin görev alanlarına girenler hariç olmak üzere; intikal eden denetim raporları ve mütalaalar ile diğer bilgi ve belgeler çerçevesinde kuruluşların idarî para cezası ve/veya mensuplarının adlî ceza gerektiren uygulamalarının tespiti halinde, Kurulca gerekli işlemlerin tesis edilmesi için çalışmalar yapmak,
+d) İntikal eden denetim raporları ve mütalaalar ile diğer bilgi ve belgeler çerçevesinde düzenleyici nitelikte bir işlem tesis edilmesinin gerektiğinin düşünülmesi halinde konuyu ilgili Düzenleme Daire Başkanlığına iletmek,
+e) Görev kapsamına giren hususların yürütülmesi esnasında denetim yapılmasını gerektiren bir konunun belirlenmesi halinde, gerekli incelemenin yapılmasını teminen durumu Kurumun ilgili birimlerine iletmek,
+f) Kuruluşların faaliyetlerine ilişkin olarak kamu kurum ve kuruluşlarından intikal eden hususları değerlendirmek, ilgili mevzuat kapsamında gerekli işlemleri yapmak, gelen bilgi, belge ve raporlar çerçevesinde diğer kamu kurum ve kuruluşlarının görev alanına giren hususların tespiti halinde, konunun ilgili mercilere intikalini sağlamak,
+g) Başkan tarafından verilen diğer görevleri yapmak.
