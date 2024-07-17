@@ -1,0 +1,23 @@
+{
+  "applicant": "BÜLTEN BASIN YAYIN REKLAMCILIK TİCARET LTD. ŞTİ. VE DİĞERLERİ",
+  "applicant_form": "entity",
+  "application_date": "2020-08-14",
+  "application_number": "2020/29073",
+  "database_publication_date": "2024-10-04",
+  "deciding_unit": "Birinci Bölüm",
+  "decision_date": "2024-07-17",
+  "gazette_number": null,
+  "history_type": "metadata",
+  "id": "fd9db0b4-f61a-7190-320a-1735ebc67e96",
+  "in_force": "2024-07-17",
+  "in_force_basis": "official decision date",
+  "kind": "constitutional-court-individual-application",
+  "law_text_complete": false,
+  "outcome": "Esas (İhlal)",
+  "published": null,
+  "source": "https://kararlarbilgibankasi.anayasa.gov.tr/kbb/pages/search/Tumu?id=a2JiOmZkOWRiMGI0LWY2MWEtNzE5MC0zMjBhLTE3MzVlYmM2N2U5Ng&type=BireyselBasvuru",
+  "source_api": "https://kararlarbilgibankasi.anayasa.gov.tr/api/core/public/search",
+  "source_listing": "evidence/list/BireyselBasvuru-2024-01-01-2024-12-31-p2.json (official API answer, read 2026-11-15)",
+  "source_listing_sha256": "aed96e1ce29f6e7ee6a6a3eca51960809770117657ac96ebc98bbba8e2b7f873",
+  "text_status": "metadata-only: official database listing fields; the decision text is on the linked official page, not transcribed"
+}
