@@ -1,0 +1,21 @@
+{
+  "record_type": "parliament-written-question",
+  "term": 28,
+  "legislative_year": 2,
+  "esas_no": "7/14356",
+  "submitted": "2024-07-17",
+  "submitted_as": "Başkanlığa geliş tarihi",
+  "mp": "İsmail Atakan ÜNVER",
+  "province": "Karaman",
+  "summary": "Karaman ilinde İlk Evim Arsa Projesi kapsamında vatandaşlara tahsis edilen arsaların merkezden uzak olması nedeniyle yaşanan mağduriyete ilişkin",
+  "status": "Süresi Geçtikten Sonra Cevaplandı",
+  "status_as_of": "2026-11-16",
+  "official_record": "https://www.tbmm.gov.tr/Denetim/Yazili-Soru-Onergesi-Detay/15bbe044-663d-43e7-8ef4-0190c4eab126",
+  "source": "https://tbmm.gov.tr/Denetim/YaziliSoruOnergesiTable",
+  "source_form": "https://tbmm.gov.tr/Denetim/Yazili-Soru-Onergeleri",
+  "source_sha256": "d621fdf13534c47daf88e31771c76f5ce779e9618c71e07dd798e2aadc5caa0f",
+  "in_force": "2024-07-17",
+  "in_force_basis": "Date the question reached the Speaker (Başkanlığa geliş tarihi) in the official TBMM written-question record; parliamentary oversight record, not law",
+  "history_type": "metadata",
+  "text_status": "metadata-only: question text, addressee and answers are in the linked official record (PDFs on cdn.tbmm.gov.tr); not transcribed here"
+}
