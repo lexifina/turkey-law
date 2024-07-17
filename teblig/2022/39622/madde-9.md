@@ -1,0 +1,5 @@
+Budama tespitleri için yapılan harcamalar
+MADDE 9- (1) Kararın 2 nci maddesine göre budama tespit işlemlerinde kullanılacak malzemeler Çay Tarım Dairesi Başkanlığının onayı olmadan satın alınamaz.
+(2) Budama tespit işlemleri için verilen yetki dâhilinde binek aracı kiralanarak çalıştırılır. Kiralanacak araçların sayısı ve şartnameler, Satınalma Dairesi Başkanlığınca fabrikalara bildirilir. Kiralık araçlar hiçbir şekilde amaç dışı ve iklim koşullarının müsait olmadığı zamanlarda, budama tespiti yapılmadığı dönemlerde ve Genel Müdürlük tarafından çalıştırılmasına gerek duyulmayan zamanlarda çalıştırılmaz.
+(3) Kararın 2 nci maddesine göre yapılacak olan harcamalar ile bu projede görevli personelin giderleri fabrikalarda Muhasebe Kısım Müdürlüğü tarafından takip edilir, bu harcamalar her ay Çay Tarım Dairesi Başkanlığı ve Muhasebe ve Mali İşler Dairesi Başkanlığına bildirilir.
+(4) Çay İşletmeleri Genel Müdürlüğünün budama uygulaması için yapmış olduğu harcamalara ilişkin ödeme işlemleri Kararın 2 nci maddesinin dokuzuncu fıkrasına göre yürütülür.
