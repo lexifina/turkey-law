@@ -1,0 +1,26 @@
+{
+  "title": "İhale Onay Belgesi",
+  "number": "KİK001",
+  "source": "https://www.ihale.gov.tr/DokumanDownload.aspx?docTur=eform&DokumanID=336",
+  "source_sha256": "4851ad345102a53ea5d1a4446a2e5a047b5cfc2534ca8b281c929b7960b7f88f",
+  "date": "2024-07-18",
+  "edition": "as-enacted",
+  "first_law": null,
+  "source_images": 0,
+  "referenced_images": 0,
+  "omitted_normative_images": 0,
+  "decision_number": "2024/DK.D-133",
+  "official_ids": [
+    "336",
+    "407",
+    "497",
+    "573"
+  ],
+  "tender_types": [
+    "Danışmanlık Hizmet Alımı",
+    "Hizmet Alımı",
+    "Mal Alımı",
+    "Yapım İşi"
+  ],
+  "note": "The official KİK active-form listing identifies this text with the stated Board decision. Earlier form versions are not reconstructed in this breadth batch."
+}
