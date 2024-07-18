@@ -1,0 +1,31 @@
+{
+  "source_id": "7.5.40867",
+  "kind": "regulation",
+  "register_kind": "Kurum ve Kuruluş Yönetmelikleri",
+  "title": "YAZMA ESER KÜTÜPHANELERİNİN GÖREVLERİ VE YAZMA ESER KÜTÜPHANELERİNDEN YARARLANMA YÖNETMELİĞİ",
+  "number": "40867",
+  "issuer": "Türkiye Yazma Eserler Kurumu Başkanı",
+  "issuer_slug": "turkiye-yazma-eserler-kurumu-baskani",
+  "path": "regulation/turkiye-yazma-eserler-kurumu-baskani/2024/40867",
+  "source": "https://www.mevzuat.gov.tr/anasayfa/MevzuatFihristDetayIframe?MevzuatTur=7&MevzuatNo=40867&MevzuatTertip=5",
+  "source_sha256": "fabc16430d4b7fba78f4c453e49eed9253cfe2dd9230520e897fe02c03e33349",
+  "source_bytes": 58612,
+  "published": "2024-07-18",
+  "gazette": "32605",
+  "in_force": "2024-07-18",
+  "in_force_basis": "Resmî Gazete publication date in the official listing (18.07.2024); own commencement article: \"Bu Yönetmelik yayımı tarihinde yürürlüğe girer\"",
+  "commencement_clauses": [
+    "Bu Yönetmelik yayımı tarihinde yürürlüğe girer"
+  ],
+  "history": "current-text",
+  "label": "oldest version available",
+  "checked_on": "2026-11-15",
+  "word_count": 3418,
+  "text_status": "current-consolidated",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  },
+  "completeness": "html-text-complete"
+}
