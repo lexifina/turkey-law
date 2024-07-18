@@ -1,0 +1,26 @@
+{
+  "title": "Düzeltme İlanı",
+  "number": "KİK006",
+  "source": "https://www.ihale.gov.tr/DokumanDownload.aspx?docTur=eform&DokumanID=339",
+  "source_sha256": "98f6888a8b82803059c56d2aefd54f302374e539ec62619b6362e66e2e73424c",
+  "date": "2024-07-18",
+  "edition": "as-enacted",
+  "first_law": null,
+  "source_images": 0,
+  "referenced_images": 0,
+  "omitted_normative_images": 0,
+  "decision_number": "2024/DK.D-133",
+  "official_ids": [
+    "339",
+    "412",
+    "500",
+    "575"
+  ],
+  "tender_types": [
+    "Danışmanlık Hizmet Alımı",
+    "Hizmet Alımı",
+    "Mal Alımı",
+    "Yapım İşi"
+  ],
+  "note": "The official KİK active-form listing identifies this text with the stated Board decision. Earlier form versions are not reconstructed in this breadth batch."
+}
