@@ -1,0 +1,26 @@
+{
+  "title": "Bilanço Bilgileri Tablosu",
+  "number": "KİK031",
+  "source": "https://www.ihale.gov.tr/DokumanDownload.aspx?docTur=eform&DokumanID=362",
+  "source_sha256": "9efe9a66071bc93305380c273c321507906f53d93fa0eab5cf1d8159fcac7abf",
+  "date": "2024-07-18",
+  "edition": "as-enacted",
+  "first_law": null,
+  "source_images": 0,
+  "referenced_images": 0,
+  "omitted_normative_images": 0,
+  "decision_number": "2024/DK.D-133",
+  "official_ids": [
+    "362",
+    "434",
+    "523",
+    "584"
+  ],
+  "tender_types": [
+    "Danışmanlık Hizmet Alımı",
+    "Hizmet Alımı",
+    "Mal Alımı",
+    "Yapım İşi"
+  ],
+  "note": "The official KİK active-form listing identifies this text with the stated Board decision. Earlier form versions are not reconstructed in this breadth batch."
+}
