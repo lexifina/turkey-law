@@ -1,0 +1,24 @@
+{
+  "title": "Birim Fiyat Teklif Mektubu",
+  "number": "KİK009",
+  "source": "https://www.ihale.gov.tr/DokumanDownload.aspx?docTur=eform&DokumanID=342",
+  "source_sha256": "e041c97cd2f334d94ba5e347e2b310c6dd70e80e72979a046a14314cafc4f6ed",
+  "date": "2024-07-18",
+  "edition": "as-enacted",
+  "first_law": null,
+  "source_images": 0,
+  "referenced_images": 0,
+  "omitted_normative_images": 0,
+  "decision_number": "2024/DK.D-133",
+  "official_ids": [
+    "342",
+    "415",
+    "503"
+  ],
+  "tender_types": [
+    "Hizmet Alımı",
+    "Mal Alımı",
+    "Yapım İşi"
+  ],
+  "note": "The official KİK active-form listing identifies this text with the stated Board decision. Earlier form versions are not reconstructed in this breadth batch."
+}
