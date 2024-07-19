@@ -1,0 +1,2 @@
+Kapsam
+MADDE 2 – (1) Bu Yönetmelik, semt ve üretici pazarlarının kurulması, işletilmesi, taşınması ve kapatılmasını, yönetim ve denetimini, bu yerlerde faaliyet gösteren üretici ve pazarcılarda aranılacak nitelikleri, bunların çalışmalarını, yapacakları satışları, haklarını ve uymakla yükümlü bulundukları kuralları, belediye ve diğer idarelerin görev, yetki ve sorumlulukları ile pazar yerlerine ilişkin diğer hususları kapsar.

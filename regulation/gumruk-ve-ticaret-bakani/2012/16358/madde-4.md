@@ -1,0 +1,22 @@
+Tanımlar
+MADDE 4 – (1) Bu Yönetmelikte geçen;
+a) Bakanlık: Gümrük ve Ticaret Bakanlığını,
+b) Belediye: 3/7/2005 tarihli ve 5393 sayılı Belediye Kanununa tabi belediyeleri,
+c) Bildirim: Bildirim miktarı veya üzerindeki sebze ve meyvelere ilişkin sisteme yapılan beyan işlemini,
+ç) Bildirim miktarı: Adet ile yapılan satışlarda 150 adet, bağ ile yapılan satışlarda 50 bağ, kilogram ile yapılan satışlarda 100 kilogramı,
+d) İl müdürlüğü: Gümrük ve Ticaret Bakanlığı Ticaret İl Müdürlüğünü,
+e) Kanun: 5957 sayılı Sebze ve Meyveler ile Yeterli Arz ve Talep Derinliği Bulunan Diğer Malların Ticaretinin Düzenlenmesi Hakkında Kanunu,
+f) Künye: Sebze ve meyvelerin üretim yerini, cinsini, miktarını, hangi üretici/işletmeye ait olduğunu, varsa sertifika bilgilerini ve Bakanlıkça uygun görülen diğer hususları içeren ve sistem üzerinden basılan belge veya barkodlu etiketi,
+g) Mal: Organik ve iyi tarım uygulamaları kapsamında üretilen sertifikalı ürünler dâhil ticarete konu sebze ve meyveler ile belediyece pazar yerlerinde satışına izin verilen diğer gıda ve ihtiyaç maddelerini,
+ğ) Meslek kuruluşu: Pazarcıların üyesi oldukları ihtisas odalarının kurdukları ülke genelinde en fazla üyeye sahip esnaf ve sanatkârlar federasyonuna kayıtlı meslek odasını veya ihtisas odası bulunmayan yerlerde en fazla pazarcı üyeye sahip (Mülga ibare:RG-11/3/2017-30004) (…)esnaf ve sanatkârlar odasını,
+h) Pazar yerleri: Belediyelerce tespit edilecek yer ve günlerde kurulan üretici ve semt pazarlarını,
+ı) Pazarcı: Malları semt pazarlarında doğrudan tüketicilere perakende olarak satan meslek mensubunu,
+i) Perakende satış: Tek seferde bildirim miktarının altında yapılan satışı,
+j) Semt pazarı: Üreticiler ve pazarcılar tarafından malların doğrudan tüketicilere perakende olarak satıldığı açık veya kapalı pazar yerlerini,
+k) Sistem: Bakanlık bünyesinde elektronik ortamda kurulan ve internet tabanlı çalışan merkezi hal kayıt sistemini,
+l) Tahsis: 26/5/1981 tarihli ve 2464 sayılı Belediye Gelirleri Kanunu uyarınca tahsil edilen işgaliye harcı karşılığında, semt ve üretici pazarlarındaki satış yerlerinin geçici olarak kullanım hakkını,
+m) Tahsis sahibi: Pazar yerlerinde adına satış yeri tahsis edilmiş olan pazarcı ve üreticileri,
+n) Tahsis ücreti: 2464 sayılı Kanuna göre, işgal edilen alan ile orantılı olarak belediye meclisince belirlenen işgaliye harcını,
+o) Üretici: Organik ve iyi tarım uygulamaları kapsamında üretilen sertifikalı ürünler dâhil sebze veya meyve üretenleri,
+ö) Üretici pazarı: Üreticilerin kendi ürettikleri malları perakende olarak doğrudan tüketicilere sattıkları açık veya kapalı pazar yerlerini,
+ifade eder.

@@ -1,0 +1,13 @@
+Pazar yerlerinde tahsis işlemi (Değişik başlık:RG-19/7/2024-32606)
+MADDE 13 – (1) Tahsis (Ek ibare:RG-13/7/2013-28706) (Mülga ibare:RG-19/7/2024-32606) işlemi, pazar yeri yerleşim planının belediye encümenince onaylanmasını müteakip başlatılır.
+(2) Yapılacak tahsis işlemi, belediyece en az bir yerel gazetede ilan edilmek, en az yedi iş günü belediye ilan panosunda asılı kalmak ve belediyenin resmi internet sayfasında yayımlanmak suretiyle duyurulur. Ayrıca bu husus, üyelerine duyurmak üzere ilgili meslek kuruluşuna da bildirilir.
+(3) Duyuruda, pazar yerinin kurulacağı yer, üretici ve pazarcı satış yeri adedi, müracaat sahiplerinde 12 nci maddeye göre aranılan şartlar ve bu kişilerden istenilen belgeler, son başvuru tarihi ve yeri ile belediyece uygun görülen diğer hususlar yer alır.
+(4) Başvurular, duyuruda belirtilen tarihe kadar bizzat yapılır. Yapılan inceleme sonucunda 12 nci maddede öngörülen şartları taşıdığı anlaşılan müracaat sahipleri, kura işlemine katılma hakkı kazanır.
+(5) Kura işlemine katılma hakkını kazananların listesi, listeye itirazın süresi ve şekli ile kura işleminin yapılacağı gün en az yedi iş günü süreyle belediyenin ilan panosu ve resmi internet sayfasında yayımlanır. Kura işlemine katılma hakkını kazanamayanlar, listeye itiraz edebilir. İtirazlar, belediye encümenince karara bağlanır.
+(6) Kura işlemi, müracaat sahiplerinin huzurunda yapılır. Kura işlemi yapılırken, ilgili meslek kuruluşunca görevlendirilen yetkili bir temsilci gözlemci olarak bulunabilir. Yapılan kura işlemi sonucunda hem pazarcılar hem de üreticiler için asil ve yedek listeler düzenlenir. Bu listeler, beşinci fıkrada belirtilen usule göre ilan edilir.
+(7) Bir pazar yerinde aynı mal gruplarının satışını yapan tahsis sahiplerinin satış yerleri, yapacakları yazılı başvuru üzerine belediye encümeninin kararı ile karşılıklı olarak değiştirilebilir.
+(8) Asil listelerde bulunan kişilerden tahsis işlemi yapılamayanlara ayrılan satış yerleri ile tahsis işlemi yapılmasından sonra boşalan satış yerleri, yedek listedeki pazarcı veya üreticilere sırasıyla tahsis edilir.
+(9) Yedek listelerde pazarcı ve üretici kalmaması ya da kura sonucunun ilan edildiği tarihten itibaren bir yılın geçmiş olması durumunda, tahsis edilemeyen ya da boşalan satış yerleri için tahsis işlemi, bu maddeye göre yeniden yapılır.
+(10) (Mülga:RG-13/7/2013-28706)
+(11) (Ek:RG-13/7/2013-28706) (Mülga:RG-19/7/2024-32606)
+(12) (Ek:RG-13/7/2013-28706) Belediyece, satış yeri ile bu yerleri kullananlara ilişkin bilgilerin yer aldığı EK-2’deki şekle uygun plastik veya metal gibi dayanıklı malzemeden yapılmış tanıtım levhası satış yerini kullananlara verilir.
