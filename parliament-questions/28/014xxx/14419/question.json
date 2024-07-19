@@ -1,0 +1,21 @@
+{
+  "record_type": "parliament-written-question",
+  "term": 28,
+  "legislative_year": 2,
+  "esas_no": "7/14419",
+  "submitted": "2024-07-19",
+  "submitted_as": "Başkanlığa geliş tarihi",
+  "mp": "Heval BOZDAĞ",
+  "province": "Ağrı",
+  "summary": "Pandemi sürecinde uygulanan bir tedavi yöntemine ilişkin",
+  "status": "Süresi Geçtikten Sonra Cevaplandı",
+  "status_as_of": "2026-11-16",
+  "official_record": "https://www.tbmm.gov.tr/Denetim/Yazili-Soru-Onergesi-Detay/00479eb6-1f70-4f78-ac19-0190d946f0ef",
+  "source": "https://tbmm.gov.tr/Denetim/YaziliSoruOnergesiTable",
+  "source_form": "https://tbmm.gov.tr/Denetim/Yazili-Soru-Onergeleri",
+  "source_sha256": "4ff8d752c549820d2aa6789939c7802831bd9a19c3615002982a66f0fd5a6a52",
+  "in_force": "2024-07-19",
+  "in_force_basis": "Date the question reached the Speaker (Başkanlığa geliş tarihi) in the official TBMM written-question record; parliamentary oversight record, not law",
+  "history_type": "metadata",
+  "text_status": "metadata-only: question text, addressee and answers are in the linked official record (PDFs on cdn.tbmm.gov.tr); not transcribed here"
+}
