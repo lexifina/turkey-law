@@ -1,0 +1,2 @@
+Teknik öğrenim şartı
+GEÇİCİ MADDE 2- (1) 26 ncı madde ile yürürlükten kaldırılan Çay İşletmeleri Genel Müdürlüğü Personeli Görevde Yükselme ve Unvan Değişikliği Yönetmeliğinin yürürlüğe girdiği tarihten önce görevde olan ve aynı tarih itibarıyla en az dört yıllık yükseköğrenim mezuniyeti bulunanlar, diğer koşullara sahip oldukları takdirde 7 nci maddenin birinci fıkrasının (a) bendinin (1) numaralı alt bendinin uygulanması bakımından öğrenim şartını sağlamış kabul edilir.

@@ -1,0 +1,21 @@
+Tanımlar
+MADDE 4- (1) Bu Yönetmelikte geçen;
+a) Alt görev: 1 sayılı Cumhurbaşkanlığı Kararnamesinin 509 uncu maddesinde yer alan hiyerarşik kademeler esas alınarak belirlenen daha alt düzeydeki görevleri,
+b) Aynı düzey görev: Hiyerarşi, görev, yetki ve sorumluluk açısından aynı grupta ya da grup içinde alt gruplar olması halinde aynı alt grupta gösterilen görevleri,
+c) Genel Müdür: Çay İşletmeleri Genel Müdürünü,
+ç) Genel Yönetmelik: 15/3/1999 tarihli ve 99/12647 sayılı Bakanlar Kurulu Kararıyla yürürlüğe konulan Kamu Kurum ve Kuruluşlarında Görevde Yükselme ve Unvan Değişikliği Esaslarına Dair Genel Yönetmeliği,
+d) Görevde yükselme: Bu Yönetmelikte belirtilen görevlere aynı veya başka hizmet sınıflarından yapılacak görevde yükselme niteliğindeki atamaları,
+e) Görevde yükselme sınavı: Bu Yönetmelik hükümlerine göre görevde yükselme suretiyle atanacakların belirlenmesi amacıyla yapılan yazılı ve sözlü sınavı,
+f) Hizmet grubu: Benzer veya eşit düzeydeki unvanların yer aldığı grupları,
+g) Hizmet süresi: 657 sayılı Kanunun 68 inci maddesinin (B) bendi hükümleri çerçevesinde hesaplanan süreyi,
+ğ) İş günü: Ulusal bayram ile genel ve hafta sonu tatil günleri hariç diğer günleri,
+h) Personel: Kadrolu ve sözleşmeli olarak çalışanları,
+ı) Sınav kurulu: Görevde yükselme ve unvan değişikliği sınavlarına ilişkin çalışmaları yürütmek üzere Genel Müdür tarafından oluşturulacak kurulu,
+i) Sözleşmeli personel: 399 sayılı Kanun Hükümde Kararnamenin 3 üncü maddesinin (c) bendinde tanımlanan ve söz konusu Kanun Hükmünde Kararnameye tabi olarak sözleşme ile çalıştırılan ve işçi statüsünde olmayan personeli,
+j) Teşekkül: Çay İşletmeleri Genel Müdürlüğünü,
+k) Unvan değişikliği: En az ortaöğretim düzeyinde mesleki veya teknik eğitim sonucu ihraz edilen unvanlara ilişkin görevlere yapılan atamaları,
+l) Unvan değişikliği sınavı: En az ortaöğretim düzeyinde mesleki veya teknik eğitim sonucu ihraz edilen unvanlara ilişkin görevlere atanacakların belirlenmesi için yapılan yazılı ve sözlü sınavı,
+m) Ünite: Teşekküle bağlı merkez ve taşradaki birimleri,
+n) Üst görev: 1 sayılı Cumhurbaşkanlığı Kararnamesinin 509 uncu maddesinde yer alan hiyerarşik kademeler çerçevesinde ve bu Yönetmelikteki hizmet grupları kapsamında daha üst hiyerarşi içindeki görevleri,
+o) YDS/e-YDS: Yabancı Dil Bilgisi Seviye Tespit Sınavını/Elektronik Yabancı Dil Sınavını,
+ifade eder.
