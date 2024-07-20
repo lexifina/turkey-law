@@ -1,0 +1,10 @@
+Tarafsızlık ilkesi ve etik kurallar
+MADDE 18- (1) Komitenin tüm üyeleri tarafsızlık ilkesine ve etik kurallara riayet edeceklerine dair bir bildirim imzalar.
+(2) Etik kurallar aşağıdaki hususları içerir:
+a) Komite üyeleri, gerçek veya tüzel kişilere danışmanlık yapamaz. Komite üyeliğini yaparken tarafsızlığını etkileyecek kişilere bağlı hareket edemez veya üyeliğini kendisine ya da başkalarına yarar veya ayrıcalık sağlayacak şekilde kullanamaz.
+b) Komite üyeleri, kendilerine ya da başkalarına yarar sağlamak üzere yasal ve idari karar alma sürecini etkileyecek şekilde davranamaz.
+c) Komite üyeleri, kişisel çıkarları veya geldikleri kuruluşların çıkarlarından ziyade Programın önceliklerini gözetir.
+(3) Herhangi bir Komite üyesinin tarafsızlık ilkesini ihlal etmesi durumunda, Başkan, söz konusu üyeye IPARD Yönetim Otoritesi kanalıyla yazılı uyarı gönderir. Söz konusu ihlalin devam etmesi durumunda IPARD Yönetim Otoritesi, ilgili kurum veya kuruluşa, yirmi iş günü içerisinde başka bir üyenin Komite üyesi olarak aday gösterilmesi için talep yazısı gönderir.
+(4) Program konusunda yapılan görüşmeler esnasında şahsi bir menfaatin mevzubahis olduğu hallerde söz konusu üye, Başkanı ve diğer üyeleri durumdan haberdar etmek zorundadır. Bu durumda Başkan söz konusu üyenin gündem maddesiyle ilgili şahsi çıkarının olduğunun toplantı tutanaklarına geçirilmesi talimatını verir. Söz konusu üye, ilgili gündem maddesinde oylamaya katılamaz.
+(5) Komitenin alacağı kararlarda herhangi bir üyenin şahsi menfaatiyle alakalı hususların ortaya çıktığı hallerde, Başkanın ve Komite üyelerinin bilgilendirilmediğinin ortaya çıkması durumunda, Başkan, Komite üyesinin görevden alınmasını talep edebilir. Söz konusu üyenin alınan kararla ilgili oyu geçersiz sayılır. Bu işlemden sonra, eğer üyenin oyu, kararı etkiliyorsa konu ile ilgili oylama tekrarlanır.
+(6) Başkan tarafından 6 ncı maddenin altıncı fıkrası kapsamında davet edilen gözlemcilerin bilginin gizliliği ve tarafsızlığı ilkesini gözetmeleri zorunludur. Söz konusu gözlemciler tarafsızlık ve gizlilik ilkesi kurallarına riayet edeceklerine dair bir bildirim imzalar.

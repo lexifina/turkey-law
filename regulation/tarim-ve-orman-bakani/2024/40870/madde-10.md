@@ -1,0 +1,8 @@
+Toplantı daveti, gündemi ve belgeleri
+MADDE 10- (1) IPARD Yönetim Otoritesi, Komite sekretaryası işlevi olarak tüm üyelere toplantı tarihinden en geç on iş günü öncesine kadar toplantı davetini ve teklif edilen gündemi, destekleyici belgelerle birlikte elektronik posta ve/veya resmî yazı ile iletir. Komisyona da tüm belgeler İngilizce olarak on beş iş günü öncesinden gönderilir.
+(2) Toplantı tarihinden on iş günü öncesinde üyelere gönderilen gündem içeriğinde yer almayan ve gündeme yeni teklif edilen husus ancak Komitede oy birliği sağlanırsa gündeme dâhil edilir.
+(3) Komite toplantıları ile ilgili belgelerin zamanında Komite üyelerine ulaşmadığı durumlarda, Komite üyeleri gündemde yer alan karar maddesinin bir sonraki toplantıda ele alınmasını talep edebilir ya da resmî yazışma yapılmasını önerebilir.
+(4) Gündem içerisinde, Komitenin karar alması gereken gündem maddeleri ile Komiteye bilgi veya görüş alışverişi yapmak üzere sunulan gündem maddeleri açıkça belirtilir.
+(5) Komite üyelerinin gündeme yeni bir madde eklenmesi yönünde talepleri olursa, bu taleplerini ve ilgili belgeleri toplantı tarihinden en az yedi iş günü öncesinde IPARD Yönetim Otoritesine iletmeleri durumunda, gündeme eklenmesi hususunda görüşme yapılır.
+(6) Gündem, Komite toplantısı başlangıcında üyelerin onayına sunulur.
+(7) Komitenin gündeminde yer alan ve karar verilmesi gereken bir karar teklifine üyelerin oy çokluğu ile karar verilir. Teklifin bir sonraki toplantıya ertelenmesi veya konu ile ilgili resmî yazışma yapılması yönünde karar da oy çokluğu ile alınır. Oylarda eşitlik olması halinde Başkanın bulunduğu taraf çoğunluğu sağlamış sayılır.
