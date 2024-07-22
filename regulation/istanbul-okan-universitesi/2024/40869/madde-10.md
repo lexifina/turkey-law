@@ -1,0 +1,3 @@
+Yönetim Kurulu
+MADDE 10- (1) Yönetim Kurulu; Müdürün başkanlığında, Merkezin faaliyet alanları ile ilgili çalışmaları bulunan Üniversite öğretim elemanları arasından Hukuk Fakültesi Dekanının önerisi üzerine üç üye ve Mühendislik ve Doğa Bilimleri Fakültesi Dekanının önerisi üzerine iki üye olmak üzere Rektör tarafından üç yıllık süre için görevlendirilen toplam altı üyeden oluşur. Süreleri dolan üyeler yeniden görevlendirilebilir. Süresi bitmeden ayrılan veya altı aydan fazla Üniversite dışında görevlendirilen üyelerin yerine, kalan süreyi tamamlamak üzere aynı usulle yeni üye görevlendirilir.
+(2) Yönetim Kurulu, Müdürün çağrısı üzerine üye tam sayısının salt çoğunluğuyla toplanır ve kararlar katılanların oy çokluğu ile alınır.
