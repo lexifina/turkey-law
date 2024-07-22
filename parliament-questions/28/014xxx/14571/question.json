@@ -1,0 +1,21 @@
+{
+  "record_type": "parliament-written-question",
+  "term": 28,
+  "legislative_year": 2,
+  "esas_no": "7/14571",
+  "submitted": "2024-07-22",
+  "submitted_as": "Başkanlığa geliş tarihi",
+  "mp": "Cemal ENGİNYURT",
+  "province": "İstanbul",
+  "summary": "TBMM'de yapılan bir atama ile ilgili bazı iddialara ilişkin",
+  "status": "Cevaplandı",
+  "status_as_of": "2026-11-16",
+  "official_record": "https://www.tbmm.gov.tr/Denetim/Yazili-Soru-Onergesi-Detay/bdba322e-e179-4de7-846c-0190e4f9b49a",
+  "source": "https://tbmm.gov.tr/Denetim/YaziliSoruOnergesiTable",
+  "source_form": "https://tbmm.gov.tr/Denetim/Yazili-Soru-Onergeleri",
+  "source_sha256": "fac37d8112952e3754a3c91239fc5258548b6f641bc986be9432593f8d525017",
+  "in_force": "2024-07-22",
+  "in_force_basis": "Date the question reached the Speaker (Başkanlığa geliş tarihi) in the official TBMM written-question record; parliamentary oversight record, not law",
+  "history_type": "metadata",
+  "text_status": "metadata-only: question text, addressee and answers are in the linked official record (PDFs on cdn.tbmm.gov.tr); not transcribed here"
+}
