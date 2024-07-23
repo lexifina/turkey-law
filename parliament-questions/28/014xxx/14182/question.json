@@ -1,0 +1,21 @@
+{
+  "record_type": "parliament-written-question",
+  "term": 28,
+  "legislative_year": 2,
+  "esas_no": "7/14182",
+  "submitted": "2024-07-23",
+  "submitted_as": "Başkanlığa geliş tarihi",
+  "mp": "Dilan KUNT AYAN",
+  "province": "Şanlıurfa",
+  "summary": "Şanlıurfa 1 Nolu T Tipi Cezaevinde bulunan bir mahkumun intihar etmesine ilişkin",
+  "status": "Cevaplandı",
+  "status_as_of": "2026-11-16",
+  "official_record": "https://www.tbmm.gov.tr/Denetim/Yazili-Soru-Onergesi-Detay/8e62b911-9f6a-4ed0-a6ad-0190e376ad3f",
+  "source": "https://tbmm.gov.tr/Denetim/YaziliSoruOnergesiTable",
+  "source_form": "https://tbmm.gov.tr/Denetim/Yazili-Soru-Onergeleri",
+  "source_sha256": "ddb8a4a6a3789864cd3224c0072dde1da2acff0a82cccfc8ba2d64761faa02c6",
+  "in_force": "2024-07-23",
+  "in_force_basis": "Date the question reached the Speaker (Başkanlığa geliş tarihi) in the official TBMM written-question record; parliamentary oversight record, not law",
+  "history_type": "metadata",
+  "text_status": "metadata-only: question text, addressee and answers are in the linked official record (PDFs on cdn.tbmm.gov.tr); not transcribed here"
+}
