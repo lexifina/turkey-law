@@ -1,0 +1,21 @@
+{
+  "record_type": "parliament-written-question",
+  "term": 28,
+  "legislative_year": 2,
+  "esas_no": "7/14835",
+  "submitted": "2024-07-23",
+  "submitted_as": "Başkanlığa geliş tarihi",
+  "mp": "Salihe AYDENİZ",
+  "province": "Mardin",
+  "summary": "Tarım sektörüyle ilgili çeşitli sorunlara ilişkin",
+  "status": "Cevaplandı",
+  "status_as_of": "2026-11-16",
+  "official_record": "https://www.tbmm.gov.tr/Denetim/Yazili-Soru-Onergesi-Detay/104db838-ece8-48cd-a4ea-0190e3f4df79",
+  "source": "https://tbmm.gov.tr/Denetim/YaziliSoruOnergesiTable",
+  "source_form": "https://tbmm.gov.tr/Denetim/Yazili-Soru-Onergeleri",
+  "source_sha256": "5685145a55e31649a950f37e1140d7efb9dce8e55330624ac591d4c4665b9a95",
+  "in_force": "2024-07-23",
+  "in_force_basis": "Date the question reached the Speaker (Başkanlığa geliş tarihi) in the official TBMM written-question record; parliamentary oversight record, not law",
+  "history_type": "metadata",
+  "text_status": "metadata-only: question text, addressee and answers are in the linked official record (PDFs on cdn.tbmm.gov.tr); not transcribed here"
+}
