@@ -1,0 +1,21 @@
+{
+  "record_type": "parliament-written-question",
+  "term": 28,
+  "legislative_year": 2,
+  "esas_no": "7/14159",
+  "submitted": "2024-07-23",
+  "submitted_as": "Başkanlığa geliş tarihi",
+  "mp": "Mustafa Sezgin TANRIKULU",
+  "province": "Diyarbakır",
+  "summary": "Diyarbakır'ın Kocaköy ilçesine bağlı Ambar köyünde çocukların gölete düşerek hayatını kaybettiği bir olaya ilişkin",
+  "status": "Cevaplandı",
+  "status_as_of": "2026-11-16",
+  "official_record": "https://www.tbmm.gov.tr/Denetim/Yazili-Soru-Onergesi-Detay/686e16ea-7370-4843-b97d-0190debf8717",
+  "source": "https://tbmm.gov.tr/Denetim/YaziliSoruOnergesiTable",
+  "source_form": "https://tbmm.gov.tr/Denetim/Yazili-Soru-Onergeleri",
+  "source_sha256": "ddb8a4a6a3789864cd3224c0072dde1da2acff0a82cccfc8ba2d64761faa02c6",
+  "in_force": "2024-07-23",
+  "in_force_basis": "Date the question reached the Speaker (Başkanlığa geliş tarihi) in the official TBMM written-question record; parliamentary oversight record, not law",
+  "history_type": "metadata",
+  "text_status": "metadata-only: question text, addressee and answers are in the linked official record (PDFs on cdn.tbmm.gov.tr); not transcribed here"
+}
