@@ -1,0 +1,4 @@
+Genel kurul toplantısına katılım şeklinin bildirimi
+MADDE 4 – (1) Anonim şirketin genel kurul toplantısına elektronik ortamda şahsen veya temsilcileri aracılığıyla katılmak isteyen hak sahipleri, bu tercihlerini genel kurul tarihinden iki gün öncesine kadar EGKS’den bildirmek zorundadırlar. Bu süre, payları MKK tarafından kayden izlenen borsaya kote şirketlerde bir gün olarak uygulanır.
+(2) Şirket, genel kurula katılma taleplerini en geç iki iş günü içinde kontrol ederek EGKS’den kabul veya reddeder. Bu süre içinde reddedilmeyen talepler kabul edilmiş sayılır. Bu hüküm, payları MKK tarafından kayden izlenen borsaya kote şirket genel kurullarında uygulanmaz.
+(3) Genel kurul toplantısına elektronik ortamda katılacağını bildiren hak sahibi bu tercihini genel kurul tarihinden bir gün öncesine kadar EGKS’de geri alabilir.
