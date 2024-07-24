@@ -1,0 +1,21 @@
+{
+  "record_type": "parliament-written-question",
+  "term": 28,
+  "legislative_year": 2,
+  "esas_no": "7/15065",
+  "submitted": "2024-07-24",
+  "submitted_as": "Başkanlığa geliş tarihi",
+  "mp": "Serkan SARI",
+  "province": "Balıkesir",
+  "summary": "17 Mayıs 2024 tarihinde yayımlanan Tasarruf Tedbirleri Genelgesi kapsamında yapılacak kesintilere ve tasarruf miktarına ilişkin",
+  "status": "Cevaplandı",
+  "status_as_of": "2026-11-16",
+  "official_record": "https://www.tbmm.gov.tr/Denetim/Yazili-Soru-Onergesi-Detay/c2818a8b-a55f-44fb-ad4b-0190e4ce93c4",
+  "source": "https://tbmm.gov.tr/Denetim/YaziliSoruOnergesiTable",
+  "source_form": "https://tbmm.gov.tr/Denetim/Yazili-Soru-Onergeleri",
+  "source_sha256": "ba733e8d51979000f33b37a8ad70e4db984955c51b5ae7acd7bdb8dce22d6806",
+  "in_force": "2024-07-24",
+  "in_force_basis": "Date the question reached the Speaker (Başkanlığa geliş tarihi) in the official TBMM written-question record; parliamentary oversight record, not law",
+  "history_type": "metadata",
+  "text_status": "metadata-only: question text, addressee and answers are in the linked official record (PDFs on cdn.tbmm.gov.tr); not transcribed here"
+}
