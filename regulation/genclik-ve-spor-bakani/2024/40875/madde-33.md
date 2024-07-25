@@ -1,0 +1,2 @@
+İhtilafların çözümü
+MADDE 33- (1) Spor federasyonlarının denetimine ilişkin hususlar hariç olmak üzere, Bakanlık ile spor federasyonları arasında doğan ihtilaflar Tahkim Kurulunca belirlenecek bir üyenin başkanlığında Bakanlık ve spor federasyonu temsilcilerinin katılımıyla oluşturulacak komisyon marifetiyle çözümlenir. Bu komisyon kararlarına yapılacak itiraz, Tahkim Kurulunca incelenerek sonuçlandırılır.

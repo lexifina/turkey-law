@@ -1,0 +1,2 @@
+Dayanak
+MADDE 3- (1) Bu Yönetmelik; 22/4/2022 tarihli ve 7405 sayılı Spor Kulüpleri ve Spor Federasyonları Kanununun 21 inci maddesinin beşinci fıkrası, 23 üncü maddesi, 28 inci maddesinin birinci fıkrası, 30 uncu maddesi, 33 üncü maddesinin dördüncü fıkrası, 34 üncü maddesinin ikinci ve beşinci fıkraları, 35 inci maddesinin üçüncü fıkrası, 38 inci maddesinin birinci fıkrası, 40 ıncı maddesinin ikinci fıkrası ve 41 inci maddesinin ikinci ve üçüncü fıkralarına dayanılarak hazırlanmıştır.

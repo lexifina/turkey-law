@@ -1,0 +1,7 @@
+Muhasebe kayıtları ile defterler
+MADDE 31- (1) Spor federasyonları, muhasebe servisi kurmak, bu serviste çalışan personeli konusunda eğitmek ve muhasebe kayıtlarını güncel olarak tutmakla yükümlüdür.
+(2) Spor federasyonları tek düzen hesap planına ve bilanço esasına göre kayıtlarını tutar. Hesap dönemi takvim yılıdır. Raporlarını aynı usulde alır ve muhafaza eder; yasal defterlerini, 4/1/1961 tarihli ve 213 sayılı Vergi Usul Kanunu uyarınca tutulması gereken defterlere ilişkin yükümlülükler saklı kalmak üzere, 6102 sayılı Kanun hükümlerine göre tasdik ettirir ve saklar. Muhasebe kayıtları 213 sayılı Kanun ile belirlenen sürelerde saklanır.
+(3) Bakanlık tarafından yapılan yardımların takibi için spor federasyonlarına ait muhasebe kayıtları, Bakanlık bilişim sistemine işlenerek toplu bir biçimde ayrıca izlenir. Muhasebe servislerinin Bakanlık ile işbirliği içinde çalışması zorunludur.
+(4) Spor federasyonları, ikinci fıkrada belirtilen defterlerin yanında yönetim kurulu karar defteri, denetim kurulu karar defteri, disiplin kurulu karar defteri ve spor federasyonu bünyesinde kurulan diğer kurullara ait defterleri tutmak ve bu fıkrada belirtilen defterleri noterde tasdik ettirmek zorundadır.
+(5) Spor federasyonları, defterlerini merkezlerinde bulundurur. Defterlerin kaybolması, çalınması, okunamayacak duruma gelmesi durumunda federasyon başkanı ve genel sekreter birlikte sorumludur.
+(6) Spor federasyonlarının muhasebe kayıtları ile defterlerine ilişkin diğer usul ve esaslar Bakanlık tarafından belirlenir.

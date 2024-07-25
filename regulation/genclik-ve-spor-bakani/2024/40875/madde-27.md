@@ -1,0 +1,8 @@
+Divan kurulu
+MADDE 27- (1) Divan kurulu, genel kurul tarafından delegeler arasından seçilen bir başkan, bir başkan yardımcısı ve bir yazman üyeden oluşur. Ayrıca delegeler arasından seçim işlerinde görev yapmak üzere sandık sayısı kadar sandık görevlisi seçilir. Divan kurulunun ve sandık görevlilerinin seçimi açık oylamayla yapılır.
+(2) Divan kurulu, ilgili mevzuat hükümleri çerçevesinde gündem maddelerine göre toplantının yürütülmesini sağlamakla görevli ve yetkilidir.
+(3) Divan kurulu oluştuktan sonra genel kurul çalışmalarına ilişkin her türlü itiraz, divan kurulu tarafından karara bağlanır.
+(4) Divan kurulu, genel kurul görüşmelerinin düzenini bozan delegeleri uyarabileceği gibi düzeni sürekli olarak bozan delegeler hakkında toplantıdan çıkarma kararı alınmasını genel kurulun oyuna sunabilir. Genel kurula katılanların salt çoğunluğuyla aldığı karar sonucu toplantıdan çıkarılan delege, toplantı süresince salonda bulunamaz ve oylamaya katılamaz.
+(5) Divan kurulu tarafından genel kurul toplantılarında toplantı tutanağı tutulur, divan kurulu toplantı tutanağı ile genel kurula ilişkin Bakanlık ve spor federasyonu internet sitesinde ilan edilen belgeler haricinde divan kuruluna sunulan tüm belgeler, toplantı sonunda divan kurulu başkanı ve üyeleri tarafından birlikte imzalanır.
+(6) Genel kurul toplantı tutanakları, genel kurul toplantısının kapanışını takiben en geç yirmi dört saat içinde spor federasyonuna teslim edilir ve bunların bir sureti aynı süre içinde Bakanlık gözlemcisine verilir. Spor federasyonuna teslim edilen tutanaklar, teslimden itibaren en geç kırk sekiz saat içinde spor federasyonunun internet sitesinde yayınlanır.
+(7) Divan kurulunun çalışma usul ve esaslarına ilişkin diğer hususlar ana statüyle belirlenir.
