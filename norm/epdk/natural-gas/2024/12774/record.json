@@ -1,0 +1,25 @@
+{
+  "kind": "norm",
+  "issuer": "Enerji Piyasası Düzenleme Kurumu",
+  "market": "natural-gas",
+  "document_type": "board-decision",
+  "number": "12774",
+  "decision_date": "2024-07-25",
+  "title": "Aksa Elazığ Doğalgaz Dağıtım Anonim Şirketi’nin 2022-2026 yılları arası perakende satış tarifelerine yönelik",
+  "resmi_gazete_date": "2024-07-27",
+  "resmi_gazete_number": "32614",
+  "categories": [
+    "Şirket Bazında Kararlar"
+  ],
+  "source": "https://www.epdk.gov.tr/Detay/DownloadDocument?id=f2Nj3dtWJNw=",
+  "documents": [
+    "https://www.epdk.gov.tr/Detay/DownloadDocument?id=f2Nj3dtWJNw="
+  ],
+  "source_sha256": "6691e7f84c20ec31eabfbe5828e0e8f3779f3930e9a8c1108704631d5992eded",
+  "official_list": "https://www.epdk.gov.tr/Detay/Icerik/3-0-19/kurul-kararlari",
+  "official_list_leaf": 7236,
+  "text_status": "as-enacted",
+  "text_file": "metin.md",
+  "in_force": "2024-07-25",
+  "law_text_complete": true
+}
