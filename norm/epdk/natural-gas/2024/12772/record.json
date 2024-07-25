@@ -1,0 +1,25 @@
+{
+  "kind": "norm",
+  "issuer": "Enerji Piyasası Düzenleme Kurumu",
+  "market": "natural-gas",
+  "document_type": "board-decision",
+  "number": "12772",
+  "decision_date": "2024-07-25",
+  "title": "Aksa Düzce Ereğli Doğal Gaz Dağıtım Anonim Şirketi’nin 2022-2026 yılları arası perakende satış tarifelerine yönelik",
+  "resmi_gazete_date": "2024-07-27",
+  "resmi_gazete_number": "32614",
+  "categories": [
+    "Şirket Bazında Kararlar"
+  ],
+  "source": "https://www.epdk.gov.tr/Detay/DownloadDocument?id=ob0divndIKs=",
+  "documents": [
+    "https://www.epdk.gov.tr/Detay/DownloadDocument?id=ob0divndIKs="
+  ],
+  "source_sha256": "da964d5153d31932590ac32b154477f4ec9087808604031e63b6354a1e3d7019",
+  "official_list": "https://www.epdk.gov.tr/Detay/Icerik/3-0-19/kurul-kararlari",
+  "official_list_leaf": 7236,
+  "text_status": "as-enacted",
+  "text_file": "metin.md",
+  "in_force": "2024-07-25",
+  "law_text_complete": true
+}
