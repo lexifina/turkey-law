@@ -1,0 +1,17 @@
+Tapuda kayıtlı olmayan taşınmaz malların tespiti
+Madde 10 - Kadastro Kanununun 14 üncü maddesinde sayılan belgeler dışında kalan ve zilyedlikle iktisabı mümkün olan ve bir çalışma alanı içerisinde toplam yüzölçümü sulu toprakta 40, kuru toprakta 100 dönüme kadar bir veya birden fazla taşınmaz mal, zilyedlik şartları belgelerle veya bilirkişi veyahut tanık beyanları ile ispat edildiği takdirde, zilyedi adına tespit edilir.
+(Değişik fıkra:RG-26/09/2005-25948) 3/7/2005 tarihli ve 5403 sayılı Toprak Koruma ve Arazi Kullanımı Kanununun 3 üncü maddesinin (j) bendinde; sulu tarım arazileri, tarımı yapılan bitkilerin büyüme devresinde ihtiyaç duyduğu suyun, su kaynağından alınarak yeterli miktarda ve kontrollü bir şekilde karşılandığı araziler olarak tanımlanmıştır.
+(Ek fıkra:RG-26/09/2005-25948) Buna göre; Tarımı yapılan bitkilerin çeşidine göre büyüme devresinde ihtiyaç duyduğu suyun yeterli olduğu, su kaynağının yeterli sulamaya uygun olduğu ve yeterli miktarda su olduğu, kontrollü bir şekilde sulama ihtiyacının karşılandığı hususları ilgili tarım müdürlüklerince tespit edilmiş alanlardaki araziler sulu tarım arazisi, bu alanlar dışındaki araziler ise kuru tarım arazisi olarak değerlendirilecektir. Kadastro müdürü; çalışmalara başlanmadan önce, Tarım ve Köyişleri Bakanlığı il ve ilçe müdürlüklerinden çalışma alanında sulu tarım arazisi tanımına giren yerler varsa bunların hangi sınırlar içinde kaldığının bildirilmesini bir yazı ile ister.
+Zilyedin, bir çalışma alanı içerisinde sulu ve kuru arazisi varsa ve tespitte hazır bulunuyorsa, beyan ve imzası kadastro tutanağına alınarak tercihine göre, hazır bulunmadığı takdirde ise menfaatine uygun düşen taraftan, Kadastro Kanununun 14 üncü maddesindeki 40/100 ilkesi gözönünde bulundurularak (1 dönüm sulu arazi=2,5 dönüm kuru arazi) orantı kurulmak suretiyle adına sınırlandırma ve tespit yapılır.
+Bu şekilde yapılacak tespitler, malikin adı ve soyadına göre her çalışma alanı için ayrı ayrı düzenlenecek bir çizelge veya deftere işlenmek suretiyle takip edilir.
+Taşınmaz malın, yukarıdaki fıkranın kapsamı dışında kalan kısmının zilyedi adına tespit edilebilmesi için, birinci fıkra gereğince delillendiren zilyedliğin ayrıca aşağıdaki belgelerden birine dayandırılması lazımdır.
+A) 31.12.1981 tarihine veya daha önceki tarihlere ait vergi kayıtları,
+B) Tasdikli irade suretleri ile fermanlar,
+C) Muteber mütevelli, sipahi, mültezim, temessük veya senetleri,
+D) Kayıtları bulunmayan tapu veya mülga hazinei hassa senetleri veya muvakkat tasarruf ilmuhaberleri,
+E) Tasdiksiz tapu yoklama kayıtları,
+F) Mülkname, muhasebatı atika kalemi kayıtları,
+G) Mubayaa, istihkam ve ihbar hüccetleri,
+H) Evkaf idarelerinden tapuya devredilmemiş tasarruf kayıtları,
+Tapuda kayıtlı olmayan taşınmaz malların devir ve temliki, kadastro tutanağının düzenlenme tarihine kadar kabul edilerek tespit son zilyedi adına yapılır.
+(Ek fıkra:RG-26/09/2005-25948) Tapuda kayıtlı olmayan taşınmazların tespitinde, mirasçılar; ibraz edilmesi halinde veraset belgesine göre, veraset belgesi yoksa muhtar ve bilirkişi beyanlarının köy nüfus defteri veya nüfus idarelerinden alınacak vukuatlı nüfus kayıt örneklerindeki bilgilerle karşılaştırılıp mutabakat sağlandıktan sonra belirlenir. Beyan ve belgeler arasında mutabakat sağlanamadığı takdirde tespit ölü zilyed adına yapılır ve zilyedin ölü olduğu kadastro tutanağının edinme sebebinde açıklanarak beyanlar hanesinde gösterilir.

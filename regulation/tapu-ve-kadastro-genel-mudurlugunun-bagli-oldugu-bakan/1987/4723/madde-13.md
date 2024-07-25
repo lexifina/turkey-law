@@ -1,0 +1,3 @@
+İhya edilen taşınmaz malların tespiti
+Madde 13 - İl, ilçe ve kasabaların imar planının kapsadığı alanlar dışında olup da, kamuya ait orta malları, hizmet malları, ormanlar ve bir kamu hizmetine tahsis edilen yerler ile özel kanunları uyarınca Devlete kalan taşınmaz malların dışında kalan araziden, masraf ve emek sarfı ile imar ve ihya edilerek tarıma elverişli hale getirilen taşınmaz mallar, 3402 sayılı Kanununun 14 üncü maddesindeki şartların gerçekleşmesi halinde imar ve ihya edenler veya halefleri adına tespit edilir.
+İmar ve ihya nedeniyle yapıla tespitler ile belgesiz olarak yapılan tespitlerin yüzölçümü toplamları bir çalışma alanı içerisinde sulu arazide 40, kuru arazide 100 dönümü geçemez.

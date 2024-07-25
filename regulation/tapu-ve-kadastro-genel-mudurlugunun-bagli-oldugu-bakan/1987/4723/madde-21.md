@@ -1,0 +1,5 @@
+Komisyona intikal ettirilecek işler
+Madde 21 –(Değişik: RG-26/09/2005-25948)
+Kadastro teknisyenleri arasında ya da ormanla ilgili sınırlandırma ve tespitlerde kadastro teknisyenleri ile mahalli orman ve tarım kuruluşlarınca görevlendirilen elemanlar arasında veya bu elemanlar ile kontrol elemanları arasında, taşınmazın geometrik ve hukuksal durumu hakkında görüş ayrılığı çıkması veya tarafların dayandıkları kayıt ve belgelerin aynı kuvvet ve mahiyette görülmesi halinde, taşınmaza ait kadastro tutanağında gerekli açıklama yapılıp, malik tablosu doldurulmaz, ihtilaf sınıra ait ise ihtilaflı sınırlar kesinleştirilmez ve bu taşınmazlara ait kadastro tutanakları,
+3402 sayılı Kadastro Kanununun 7 nci maddesinin dördüncü fıkrası uyarınca düzenlenen kadastro tutanakları ile aynı Kanunun 8 inci maddesi uyarınca yapılacak denetimler sırasında tespit edilecek ilgililerin haklarını etkileyici nitelikteki sınırlandırma ve tespitlere ait kadastro tutanakları,
+Konunun kadastro komisyonunda çözümlenmesi için, en geç yedi gün içinde kadastro müdürüne teslim edilir.

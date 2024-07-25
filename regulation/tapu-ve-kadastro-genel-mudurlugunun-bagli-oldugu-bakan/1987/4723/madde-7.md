@@ -1,0 +1,3 @@
+Tutanak ve matbu belgelerin tanzimi ve değiştirilmesi
+Madde 7 - Kadastro ve komisyon tutanakları Ek 1 ve 2 de belirlenmiştir. Bu Yönetmelikte belirtilen tutanak ve matbu belgeler, Tapu ve Kadastro Genel Müdürlüğünce çoğaltılıp kadastro müdürlüklerine gönderilir. Gerektiğinde, bu belgelerin şekil ve içeriğinde Tapu ve Kadastro Genel Müdürlüğünce değişiklik yapılabilir. İzin verilmedikçe, belgeler, müdürlükler ve diğer özel ve tüzel kişilerce basılamaz ve kullanılamaz.
+(Ek fıkra:RG-26/09/2005-25948) Bu Yönetmelikte belirtilen tutanak ve matbu belgelerin ilgili sütunları, siyah veya mavi mürekkepli kalemle veya daktiloyla ya da elektronik ortamda doldurulur. Elektronik ortamda doldurma işlemi, mevcut stok numaralı belgelerin format ve şekil düzeninde yapılır.

@@ -1,0 +1,12 @@
+Hazine adına kayıtlı taşınmaz mallar
+Madde 18 – Kadastrosu yapılacak veya daha önce tapulama veya kadastrosu tamamlanmış bulunan yerlerde, 766 sayılı Kanunun 37 nci maddesine göre veya 4753 sayılı Kanun ile ek ve tadilleri uyarınca topraksız çiftçilere dağıtılmak üzere Hazine adına tescil edilmiş olup da kayden Hazinenin mülkiyetinde bulunan ve bir kamu hizmetine tahsis edilmemiş olan taşınmaz malların;
+Kadastrosu yapılacak yerlerde:
+a- Kişilerin zilyedliğinde iken, 4753 sayılı Kanun ile ek ve tadillerine göre dağıtılmak üzere Hazine adına tescil edilmiş yerlerin, Hazine adına tapuya tescil edildiği tarihe kadar, 3402 sayılı Kadastro Kanununun 14 üncü maddesindeki zilyedlik şartları oluşmuş ise zilyedi adına,
+b- Hazine adına tescil edilmiş taşınmaz mallardan iskân suretiyle veya toprak tevzii suretiyle verilen yerler, işlemleri tamamlanmamış olsa dahi, varsa iskân defterleri, dağıtım cetvelleri veya ilgili idarelerce düzenlenmiş herhangi bir belgeye istinaden başka bir şart aranmaksızın hak sahibi adına,
+Sınırlandırma ve tespit yapılır.
+Kadastro veya tapulama yapılmış yerlerde:
+Kadastro veya tapulaması yapılmış yerlerin ikinci defa kadastrosu yapılamayacağından:
+a- Evvelce yapılan tapulama sırasında 766 sayılı Kanunun 37 nci maddesinin 1 nci fıkrasına göre, 27 Mart 1950 tarihinden önce imar ve ihya edilip de Hazine adına tespit ve tescil olunan ve ayrıca tapu kütüğünün beyanlar sütununda ihya edenlerle kanuni veya akdi halefleri gösterilen taşınmaz malların,
+b- 4753 sayılı Kanun ile ek ve tadilleri uyarınca Hazine adına tesis edilmiş tapu kayıtlarına istinaden kadastro veya tapulama sonucu Hazine adına tespit ve tescil edilmiş taşınmaz mallardan, toprak tevzi komisyonlarınca Hazine adına tescil edildiği tarihe kadar 3402 sayılı Kadastro Kanununun 14 üncü maddesindeki zilyedlik şartları oluşmuş olanlarının,
+Hak sahiplerince idari yoldan tescil talebinde bulunulması halinde, kadastro müdürlüklerince gerekli araştırma yapılıp hak sahibi belirlendikten sonra, Hazine adına yapılmış olan tescilin tashihen düzeltilmesi için durum mahalli maliye kuruluşundan sorularak alınacak cevaba göre işlem yapılır.
+Kadastrosu ve tapulaması yapılmış yerlerdeki bu gibi taşınmazın mallarla ilgili talep ve dava hakkı, Kadastro Kanununun yürürlüğe girdiği tarihten itibaren iki yıl geçmekle düşeceği ve idareye yapılan talep de bu süreyi durdurmayacağından, süre dolmadan evvel talebin idari, yoldan karşılanmaması halinde dava açılması gerektiği talep sırasında ilgilisine hatırlatılarak talebin uygun bir yerine bu husus yazılıp imzası alınır.
