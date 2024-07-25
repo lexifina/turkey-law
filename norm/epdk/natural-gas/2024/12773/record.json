@@ -1,0 +1,25 @@
+{
+  "kind": "norm",
+  "issuer": "Enerji Piyasası Düzenleme Kurumu",
+  "market": "natural-gas",
+  "document_type": "board-decision",
+  "number": "12773",
+  "decision_date": "2024-07-25",
+  "title": "Aksa Mustafakemalpaşa Susurluk Karacabey Doğal Gaz Dağıtım Anonim Şirketi’nin üçüncü tarife uygulama dönemi perakende satış tarifelerine yönelik",
+  "resmi_gazete_date": "2024-07-27",
+  "resmi_gazete_number": "32614",
+  "categories": [
+    "Şirket Bazında Kararlar"
+  ],
+  "source": "https://www.epdk.gov.tr/Detay/DownloadDocument?id=ywakDBhPTX0=",
+  "documents": [
+    "https://www.epdk.gov.tr/Detay/DownloadDocument?id=ywakDBhPTX0="
+  ],
+  "source_sha256": "593a0c641cb533290300218cdccfe2d4e7f5b39a8548d56f46dba07d640b178c",
+  "official_list": "https://www.epdk.gov.tr/Detay/Icerik/3-0-19/kurul-kararlari",
+  "official_list_leaf": 7236,
+  "text_status": "as-enacted",
+  "text_file": "metin.md",
+  "in_force": "2024-07-25",
+  "law_text_complete": true
+}
