@@ -1,0 +1,21 @@
+{
+  "record_type": "parliament-written-question",
+  "term": 28,
+  "legislative_year": 2,
+  "esas_no": "7/14413",
+  "submitted": "2024-07-25",
+  "submitted_as": "Başkanlığa geliş tarihi",
+  "mp": "Melih MERİÇ",
+  "province": "Gaziantep",
+  "summary": "Gaziantep Üniversitesine ait malzeme yüklü bir kamyonun resmi çıkış evrakı olmadan kampüsten çıkış yapmaya çalıştığı iddiasına ilişkin",
+  "status": "Cevaplandı",
+  "status_as_of": "2026-11-16",
+  "official_record": "https://www.tbmm.gov.tr/Denetim/Yazili-Soru-Onergesi-Detay/81e65148-c0cf-4eea-820b-0190ea428cf3",
+  "source": "https://tbmm.gov.tr/Denetim/YaziliSoruOnergesiTable",
+  "source_form": "https://tbmm.gov.tr/Denetim/Yazili-Soru-Onergeleri",
+  "source_sha256": "4ff8d752c549820d2aa6789939c7802831bd9a19c3615002982a66f0fd5a6a52",
+  "in_force": "2024-07-25",
+  "in_force_basis": "Date the question reached the Speaker (Başkanlığa geliş tarihi) in the official TBMM written-question record; parliamentary oversight record, not law",
+  "history_type": "metadata",
+  "text_status": "metadata-only: question text, addressee and answers are in the linked official record (PDFs on cdn.tbmm.gov.tr); not transcribed here"
+}
