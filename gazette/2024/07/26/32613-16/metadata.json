@@ -1,0 +1,20 @@
+{
+  "record_type": "gazette-item",
+  "gazette": "Resmî Gazete",
+  "jurisdiction": "TR",
+  "date": "2024-07-26",
+  "issue": "32613",
+  "edition": "regular",
+  "item": 16,
+  "section": "YÜRÜTME VE İDARE BÖLÜMÜ",
+  "heading": "TEBLİĞLER",
+  "title": "Dijital Dönüşüm Destek Programı Uygulama Esaslarına İlişkin Tebliğ",
+  "official_link": "https://www.resmigazete.gov.tr/eskiler/2024/07/20240726-16.htm",
+  "link_format": "htm",
+  "index_url": "https://www.resmigazete.gov.tr/eskiler/2024/07/20240726.htm",
+  "index_sha256": "8fc11606871645a8fcbd78a1381a3d500070b342a5ee1bd8133b1a8b6a0f586d",
+  "index_header": "26 Temmuz 2024 ... 32613 Sayılı Resmî Gazete",
+  "issue_pdf": "https://www.resmigazete.gov.tr/eskiler/2024/07/20240726.pdf",
+  "in_force_basis": "Resmî Gazete publication date; not a commencement reading.",
+  "text_status": "metadata-only; text not yet fetched (follow-up pass adds it as its own commit)"
+}
