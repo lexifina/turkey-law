@@ -1,0 +1,37 @@
+{
+  "checked_on": "2026-11-15",
+  "commencement_quote": "Bu Tebliğ yayımı tarihinde yürürlüğe girer",
+  "date_gazette": "32613",
+  "date_quote": "Bu Tebliğ yayımı tarihinde yürürlüğe girer",
+  "first_law": null,
+  "gazette": "32613",
+  "history": "current-text",
+  "images": {
+    "deferred": 0,
+    "omitted": 0,
+    "referenced": 0,
+    "source": 0
+  },
+  "in_force": "2024-07-26",
+  "in_force_basis": "Own commencement clause: Bu Tebliğ yayımı tarihinde yürürlüğe girer",
+  "issuer": "Kültür ve Turizm Bakanlığı",
+  "issuer_catalog_evidence": [
+    {
+      "evidence": "issuer-139-0.json",
+      "id": "139",
+      "label": "Kültür ve Turizm Bakanlığı",
+      "listing_url": "https://www.mevzuat.gov.tr/Anasayfa/MevzuatDatatable?MevzuatTur=Teblig&KurumId=139&start=0&length=100"
+    }
+  ],
+  "issuer_slug": "kultur-ve-turizm-bakanligi",
+  "kind": "communique",
+  "label": "oldest version available",
+  "notes": [],
+  "published": "2024-07-26",
+  "source": "https://www.mevzuat.gov.tr/anasayfa/MevzuatFihristDetayIframe?MevzuatTur=9&MevzuatNo=40878&MevzuatTertip=5",
+  "source_bytes": 26320,
+  "source_id": "9.5.40878",
+  "source_sha256": "0a74742cec0c7f82e6e987b945ea420bb0f308233f730098797f4045cf4d1675",
+  "title": "KONUTLARIN TURİZM AMAÇLI KİRALANMASINI SAĞLAYAN ARACI HİZMET SAĞLAYICILARININ BAKANLIĞA YAPACAKLARI BİLDİRİMLERE İLİŞKİN TEBLİĞ",
+  "word_count": 530
+}
