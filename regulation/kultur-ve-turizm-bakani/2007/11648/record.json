@@ -1,0 +1,78 @@
+{
+  "source_id": "7.5.11648",
+  "kind": "regulation",
+  "register_kind": "Kurum ve Kuruluş Yönetmelikleri",
+  "title": "SEYAHAT ACENTALARI YÖNETMELİĞİ",
+  "number": "11648",
+  "issuer": "Kültür ve Turizm Bakanı",
+  "issuer_slug": "kultur-ve-turizm-bakani",
+  "path": "regulation/kultur-ve-turizm-bakani/2007/11648",
+  "source": "https://www.mevzuat.gov.tr/anasayfa/MevzuatFihristDetayIframe?MevzuatTur=7&MevzuatNo=11648&MevzuatTertip=5",
+  "source_sha256": "9b408ad2cbc02cea7ba482038ae9b7344c5907887cf06bc5a50eb74498c6ad58",
+  "source_bytes": 119426,
+  "published": "2007-10-05",
+  "gazette": "26664",
+  "in_force": "2024-07-26",
+  "in_force_basis": "latest Resmî Gazete date printed in the source amendment notes/table (\"RG-26/7/2024\") for the current consolidated text",
+  "date_evidence": [
+    [
+      "2024-07-26",
+      "RG-26/7/2024",
+      "Resmî Gazete date printed in the source amendment note"
+    ],
+    [
+      "2024-07-26",
+      "26/7/2024",
+      "Resmî Gazete date in the source amendment table"
+    ],
+    [
+      "2021-04-07",
+      "RG-7/4/2021",
+      "Resmî Gazete date printed in the source amendment note"
+    ],
+    [
+      "2021-04-07",
+      "7/4/2021",
+      "Resmî Gazete date in the source amendment table"
+    ],
+    [
+      "2021-01-14",
+      "RG-14/1/2021",
+      "Resmî Gazete date printed in the source amendment note"
+    ],
+    [
+      "2021-01-14",
+      "14/1/2021",
+      "Resmî Gazete date in the source amendment table"
+    ],
+    [
+      "2010-03-19",
+      "RG-19/3/2010",
+      "Resmî Gazete date printed in the source amendment note"
+    ],
+    [
+      "2010-03-19",
+      "R.G-19/3/2010",
+      "Resmî Gazete date printed in the source amendment note"
+    ],
+    [
+      "2010-03-19",
+      "19/3/2010",
+      "Resmî Gazete date in the source amendment table"
+    ]
+  ],
+  "commencement_clauses": [
+    "Bu Yönetmelik yayımı tarihinde yürürlüğe girer"
+  ],
+  "history": "current-text",
+  "label": "oldest version available",
+  "checked_on": "2026-11-15",
+  "word_count": 5465,
+  "text_status": "current-consolidated",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  },
+  "completeness": "html-text-complete"
+}

@@ -1,0 +1,2 @@
+İtiraz ve denetim
+MADDE 19 – (1) TÜRSAB tarafından başvurunun reddi hâlinde başvuru sahibi tebliğ tarihinden itibaren on gün içinde Bakanlığa itiraz edebilir. İtiraz, Bakanlıkça karara bağlanır. Bakanlıkça gerekli görülmesi hâlinde, bildirilen adreste işyerinin 17 nci maddede belirtilen nitelikleri haiz olup olmadığı ve personele ilişkin kayıtların tutulup tutulmadığı hususlarında denetim yapılır.

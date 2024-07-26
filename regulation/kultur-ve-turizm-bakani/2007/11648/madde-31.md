@@ -1,0 +1,2 @@
+İşletme belgesinin iptalinde veya geri alınmasında teminat
+MADDE 31 – (1) Seyahat acentası işletme belgesinin, Bakanlık tarafından iptali veya ilgilinin başvurusu veya iflas gibi nedenlerle geri alınması hâlinde, işletme belgesinin iptal veya geri alınma tarihinden itibaren kuruluş teminatı bir yıl süreyle Bakanlıkça Kanunda belirtilen amaçlar için tutulur. Mahsubu gerektiren bir durum yoksa bir yılın sonunda iade edilir.

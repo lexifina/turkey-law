@@ -1,0 +1,20 @@
+Tanımlar
+MADDE 4 – (1) Bu Yönetmelikte geçen;
+a) Bakanlık: Kültür ve Turizm Bakanlığını,
+b) İnceleme ve değerlendirme formu: Seyahat acentası işlemlerine ilişkin belgelerin inceleme ve değerlendirmesini gösterir formu,
+c) İşletme belgesi: Seyahat acentası işletme belgesini,
+ç) Kanun: 14/9/1972 tarihli ve 1618 sayılı Seyahat Acentaları ve Seyahat Acentaları Birliği Kanununu,
+d) Müşteri: Yararlanmak veya başkalarına yararlandırmak amacıyla seyahat acentası hizmetlerini satın alan kişiyi,
+e) Paket tur: Seyahat acentası tarafından önceden belirlenmiş bir program kapsamında; ulaştırma, konaklama ve bunlara yardımcı sayılmayan diğer turistik hizmetlerin en az ikisinin birlikte, her şeyin dâhil olduğu fiyatla satılan veya satış taahhüdü yapılan ve hizmeti yirmidört saatten uzun bir süreyi kapsayan veya gecelik konaklamayı içeren, düzenlenen ticarî faaliyeti,
+f) Paket tur sözleşmesi: Ulaştırma, konaklama ve bunlara yardımcı sayılmayan diğer turistik hizmetlerin en az ikisinin birlikte, her şeyin dâhil olduğu fiyatla satılan veya satış taahhüdü yapılan ve hizmeti yirmi dört saatten uzun bir süreyi kapsayan veya gecelik konaklamayı içeren bir nüshasının turiste verilmesi zorunlu, önceden düzenlenmiş yazılı sözleşmeyi,
+g) Rezervasyon: Kara, deniz, hava araçlarının tarifeli veya tarifesiz seferlerine ilişkin olarak veya her türlü konaklama, yeme-içme ve eğlence işletmelerinde müşteri adına yer ayırtmayı, kayıt işlemi yapmayı,
+ğ) Seyahat acentası: Kâr amacı ile turistlere, turizmle ilgili bilgiler vermeye, paket turları ve turları oluşturmaya, turizm amaçlı konaklama, ulaştırma, gezi, spor ve eğlence sağlayan hizmetleri görmeye yetkili olan, oluşturduğu ürünü kendi veya diğer seyahat acentaları vasıtasıyla pazarlayabilen ticarî kuruluşu,
+h) Seyahat acentası zorunlu sigorta poliçesi sertifikası: Kanun kapsamında zorunlu olarak sigortalanan müşteriye verilen belgeyi,
+ı) Sigorta sözleşmesi: Seyahat acentalarının Türkiye’de satılan paket turlarda, düzenledikleri paket tur kapsamında en az paket tur bedeli kadar, müşteriye taahhüt ettikleri hizmetlerin acentanın iflası da dâhil olmak üzere herhangi bir nedenle verilmemesi veya taahhüt edilen şekilde verilmemesinden kaynaklanabilecek sorumluluklarının zorunlu sigortalandığını gösteren sözleşmeyi,
+i) Transfer: Turistin; düzenlenen paket tur veya turun başlangıç noktasına kadar, herhangi bir safhasında veya sonunda, sınır giriş ve çıkış kapıları, marinalar, şehirlerarası veya uluslararası ulaşım hizmetlerinin sunulduğu otogar, gar, liman, havalimanı gibi yerlerden konaklama yapacağı tesise veya tesisten bu ulaşım hizmetlerinin sunulduğu yerlere veya programın başladığı yerleşim yerinden konaklama tesisine veya programın bitiminde, tesisten yerleşim yerine bir araçla bir tarifeye bağlı kalmaksızın seyahat acentası tarafından verilen ulaşım hizmetini,
+j) Tur: Türkiye’nin tarihî, doğal, kültürel, turistik değerlerinden en az birini tanıtma ve ulaştırmayı birlikte kapsayan, bu hizmetlerin dâhil olduğu tek bir fiyatla satılan veya satış taahhüdü yapılan ve hizmeti yirmidört saatten kısa bir süreyi kapsayan veya konaklama içermeyen ticarî faaliyeti,
+k) Turist: Seyahat acentası ürününden bizzat yararlanan kişiyi,
+l) TÜRSAB: Türkiye Seyahat Acentaları Birliğini,
+m) Zorunlu sigorta: Türkiye’de satılan paket turlarda; seyahat acentalarının düzenledikleri paket tur kapsamındaki müşteriye taahhüt edilen hizmetin, acentanın iflası da dâhil olmak üzere herhangi bir nedenle verilmemesi veya taahhüt edilen şekilde verilmemesinden kaynaklanan seyahat acentalığı faaliyetlerine ilişkin sorumluluklarını en az paket tur bedeli kadar sigortalanmasını sağlayan sigortayı,
+n) (Ek:RG-14/1/2021-31364) Online satış kanalı: Seyahat acentalarının tüketiciler ile fiziki olarak karşı karşıya gelmeksizin online platformlar, mobil uygulamalar ve diğer elektronik iletişim araçları kullanarak hizmetlerinin pazarlama ve satışını gerçekleştirdiği alanları,
+ifade eder.
