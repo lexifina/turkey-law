@@ -1,0 +1,13 @@
+Geçiş süreci
+GEÇİCİ MADDE 2 – (1) İşletmecilerin, bu Yönetmeliğin yayımı tarihinden itibaren;
+a) 15 inci maddeye göre tarifeli ve tarifesiz seferlerle yolcu ve yük taşımacılığı yapmak üzere yetkilendirilen işletmelerin ödenmiş sermayelerini en geç 3 yıl içerisinde,
+b) 16 ncı maddeye göre tarifesiz seferlerle yolcu ve yük taşımacılığı yapmak üzere yetkilendirilen işletmelerin ödenmiş sermayelerini en geç 3 yıl içerisinde,
+c) 17 nci maddeye göre tarifeli ve tarifesiz seferlerle yük taşımacılığı yapmak üzere yetkilendirilen işletmelerin ödenmiş sermayelerini en geç 3 yıl içerisinde,
+ç) 20 ve 21 inci maddelerinde belirtilen koşulların en geç 3 ay içerisinde,
+bu Yönetmeliğe uygun hale getirilir.
+(2) Bu Yönetmeliğin yayımlanmasından önce ön izin alan işletmelerin, işletme ruhsatı alınmasını müteakip mevcut durumlarını birinci fıkrada belirtilen süreler içerisinde bu Yönetmeliğe uygun hale getirmesi gereklidir.
+(3) Bu Yönetmeliğin yayımlanmasından önce tarifeli ve tarifesiz seferlerle ticari hava taşımacılığı yapan işletmelerin bu Yönetmeliğin yayımlanmasına müteakip birinci fıkrada belirtilen süre içerisinde talep etmeleri durumunda ruhsat kapsamları tarifesiz olarak değiştirilir.
+(4) Bu Yönetmeliğin yürürlüğe girmesini müteakip 19 uncu maddenin birinci fıkrasının (d) bendine göre verilecek teminat mektubunun ilgili işletmeler tarafından en geç 6 ay içerisinde Genel Müdürlüğe sunulması zorunludur. Mülga Yönetmeliğe göre alınan teminat mektupları en geç 6 ay içerisinde işletmelere iade edilir. Bu Yönetmeliğin yayımlanmasından önce nakde dönüştürülmüş olan teminat mektuplarına, mülga Yönetmelik hükümlerine göre işlem yapılır. Bu Yönetmeliğin yayımı tarihinde Genel Müdürlük tarafından uçuş durdurma, ruhsat askıya alma veya iptali ile mali konulara ilişkin herhangi bir süre verme durumu olan işletmelerin teminat mektupları işletmeye iade edilmez ve mülga Yönetmelik hükümlerine göre işlem yapılır.
+(5) Bu maddede belirtilen süreler içerisinde gereken koşulları sağlayamayan işletmecilerin uçuşları söz konusu gereklilikler karşılanıncaya kadar durdurulur.
+(6) (Ek:RG-20/8/2016-29807) 19 uncu maddenin birinci fıkrasının (l) bendine göre işletmelerin mülkiyetinde bulundurması gereken hava aracı sayısını bu fıkranın yürürlüğe girdiği tarihten itibaren iki yıl içinde sağlamaları gereklidir.
+(7) (Ek:RG-6/3/2020-31060) Bu fıkranın yayımlandığı tarihten önce Genel Müdürlük tarafından onaylanmış Yönetici Personel Onay Belgesi (Form-4) geçerli olmaya devam edecektir. Bu fıkra yürürlüğe girmeden önce yönetici personel onayı için Genel Müdürlüğe başvuru yapılmış, ancak onaylanmamış adaylara, bu Yönetmelik gerekliliklerine göre işlem yapılır.

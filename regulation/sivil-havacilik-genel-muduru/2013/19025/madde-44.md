@@ -1,0 +1,6 @@
+Denetim
+MADDE 44 – (1) Genel Müdürlük veya Genel Müdürlük tarafından yetkilendirilen denetim kuruluşları; işletmelere işletme ruhsatı verilmesi ve verilmesinden sonraki tüm faaliyetlerini denetlemeye yetkilidir.
+(2) İşletmecinin faaliyetlerinin, ulusal ve uluslararası mevzuatta belirlenen standartlara uygunluğu Genel Müdürlük tarafından haberli, habersiz veya ihbar üzerine gerekli görülmesi halinde denetlenir veya denetlettirilir.
+(3) Genel Müdürlük, 2920 sayılı Türk Sivil Havacılık Kanunun 27 nci ve 30 uncu maddeleri ile (Değişik ibare:RG-15/1/2019-30656 Mükerrer) 4 sayılı Bakanlıklara Bağlı, İlgili, İlişkili Kurum ve Kuruluşlar ile Diğer Kurum ve Kuruluşların Teşkilatı Hakkında Cumhurbaşkanlığı Kararnamesinin 437 nci maddesi kapsamında uçuşları durdurmaya, işletme ruhsatını askıya almaya ve iptal etmeye yetkilidir.
+(4) Sivil havacılık işletmeleri denetimlerine ilişkin uygulama esasları Genel Müdürlük tarafından ayrıca düzenlenir.
+(5) İşletme tarafından ilk işletme ruhsatı alınmasından itibaren 3 ay içerisinde işletme kalite ve emniyet birimleri tarafından işletmenin tüm birimlerine denetim gerçekleştirilerek hazırlanan raporlar Genel Müdürlüğe gönderilir. Denetim raporlarının Genel Müdürlüğe ulaşmasına müteakip 1 ay içerisinde Genel Müdürlük tarafından işletmenin tüm faaliyetleri yerinde denetlenir.

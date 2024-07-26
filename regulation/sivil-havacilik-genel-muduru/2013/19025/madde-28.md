@@ -1,0 +1,5 @@
+Başvuru aşaması
+MADDE 28 – (1) Yirmi ve daha fazla koltuk kapasitesine sahip hava araçlarıyla yolcu ve yük taşımacılığı yapacak işletmeler ile sadece kargo taşımacılığı yapacak işletmeler başvurularını Ek-1 de yer alan formun doldurulması suretiyle yaparlar. Hava taksi işletmeciliği yapacak işletmeler Ek-2 de yer alan bilgi ve belgelerle Genel Müdürlüğe başvuru yaparlar.
+(2) Form, verilmesinden itibaren on beş gün içinde sivil havacılık mevzuatına uygun olup olmadığı yönünden incelenir ve değerlendirilir.
+(3) Verilen bilgi ve belgelerin yeterli bulunmaması veya olumsuz değerlendirilmesi halinde; eksiklikler ile uygun görülmeyen konular sebepleri ile birlikte ayrıntılı şekilde yazılı olarak başvuru sahibine bildirilir.
+(4) Verilen bilgi ve belgelerin yeterli bulunması halinde, başvuru hakkında yapılacak değerlendirme toplantısının tarihi başvuru sahibine yazılı olarak bildirilir. Toplantıya Yönetim Kurulu Başkanı ve Genel Müdürü/Sorumlu Müdürü ile işletmenin sorumlu yönetici personel adaylarının katılımı gereklidir.

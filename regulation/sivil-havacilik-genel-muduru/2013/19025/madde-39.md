@@ -1,0 +1,2 @@
+Personel eğitim ve kontrolü
+MADDE 39 – (1) İşletmeciler, hizmetin uluslararası standartlarda sağlanması amacıyla operasyon tipine ve bölgesine göre işletmede görev yapan tüm personelin temel, tip, dönüşüm, tazeleme ve iş başı eğitim ihtiyaçlarını gidermek üzere işletme el kitapları içerisinde eğitim ve kontrol programlarını hazırlar ve gerçekleştirirler. Eğitimlere ilişkin gereklilikler Genel Müdürlük tarafından ayrıca düzenlenir.

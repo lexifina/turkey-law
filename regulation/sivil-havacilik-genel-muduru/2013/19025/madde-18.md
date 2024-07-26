@@ -1,0 +1,5 @@
+Hava taksi işletmeciliği
+MADDE 18 – (1) İç ve/veya dış hatlarda tarifeli ve tarifesiz seferlerle ticari hava taşımacılığı kapsamında hava taksi işletmeciliği yapacak işletmecilerin Genel Müdürlük tarafından yetkilendirilmesi gereklidir. Bu işletmelerin yetkilendirilmelerinde;
+a) Filosunda en fazla on dokuz koltuk kapasiteli uçaklardan veya herhangi bir koltuk kapasitesine sahip helikopterlerden mülkiyet veya kiralık olmak üzere filosunda en az bir adet hava aracının Türk Sivil Hava Aracı Sicilinde adlarına kaydedilmiş olması gereklidir.
+b) (Değişik:RG-26/7/2024-32613) İşletmecilerin en az yüz elli bin ABD Doları karşılığı ödenmiş sermayeye sahip olması gereklidir.
+c) İşletmelerin, filolarında yirmi ve daha fazla koltuk kapasitesine sahip uçak veya yük taşımacılığı yapmak amacıyla düzenlenmiş uçak bulundurmayı talep etmeleri halinde, 15 inci, 16 ncı ve 17 nci maddelerde talep edilen işletme türlerine yönelik aranan koşulları sağlamaları ve taleplerine yönelik fizibilite raporu hazırlamaları gereklidir. Bu koşulların sağlanması halinde işletme ruhsatı bu kapsamda değiştirilir.

@@ -1,0 +1,2 @@
+Dayanak
+MADDE 3 – (1) Bu Yönetmelik, 14/10/1983 tarihli ve 2920 sayılı Türk Sivil Havacılık Kanununun 18 inci, 19 uncu, 20 nci, 21 inci, 22 nci, 23 üncü ve 24 üncü maddelerine ve (Değişik ibare:RG-15/1/2019-30656 Mükerrer) 15/7/2018 tarihli ve 30479 sayılı Resmî Gazete’de yayımlanan 4 sayılı Bakanlıklara Bağlı, İlgili, İlişkili Kurum ve Kuruluşlar ile Diğer Kurum ve Kuruluşların Teşkilatı Hakkında Cumhurbaşkanlığı Kararnamesinin (Değişik ibare:RG-6/3/2020-31060) 437 nci ve 441 inci maddelerine dayanılarak hazırlanmıştır.
