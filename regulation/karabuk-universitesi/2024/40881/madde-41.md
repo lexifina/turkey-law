@@ -1,0 +1,8 @@
+ALTINCI BÖLÜM
+Eğitim Öğretime İlişkin Esaslar
+Bilimsel hazırlık programı
+MADDE 41- (1) Yüksek lisans, doktora ve sanatta yeterlik programlarına kabul edilen öğrencilerden lisans veya yüksek lisans derecesini, kabul edildikleri yüksek lisans ve doktora programından farklı alanlarda almış olanlar ile lisans veya yüksek lisans derecesini, Üniversite dışındaki yükseköğretim kurumlarından almış olan yüksek lisans veya doktora programı adayları için eksikliklerini gidermek amacıyla bilimsel hazırlık programı uygulanabilir.
+(2) Bilimsel hazırlık programındaki bir öğrenci en az üç, en fazla on dersi bilimsel hazırlık programı kapsamında alabilir.
+(3) Bilimsel hazırlık programında alınması zorunlu dersler, ilgili lisansüstü programını tamamlamak için gerekli görülen derslerin yerine geçemez. Ancak bilimsel hazırlık programındaki bir öğrenci, bilimsel hazırlık derslerinin yanı sıra anabilim/anasanat dalı başkanlığının önerisi ve Enstitü Yönetim Kurulunun onayı ile lisansüstü programa yönelik dersler de alabilir.
+(4) Bilimsel hazırlık programında geçirilecek süre en çok iki yarıyıldır. Yaz öğretimi bu süreye dâhil edilmez. Bu süre dönem izinleri dışında uzatılamaz ve süre sonunda başarılı olamayan öğrencinin Enstitü ile ilişiği kesilir. Bu programda geçirilen süre yüksek lisans veya doktora programı sürelerine dâhil edilmez.
+(5) Bu madde kapsamına giren öğrencilerin bilimsel hazırlık programları, bu maddedeki esaslara göre anabilim/anasanat dalı başkanı tarafından hazırlanır ve anabilim/anasanat dalı kurulunun uygun görüşü ile birlikte öğrencilerin kayıt tarihini izleyen on beş gün içinde Enstitüye gönderilir. Bilimsel hazırlık programında alınan derslerin devamsızlık ve geçme notu gibi şartları, o derslerin verildiği programın hükümlerine tabidir.

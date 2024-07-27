@@ -1,0 +1,23 @@
+Tanımlar
+MADDE 4- (1) Bu Yönetmelikte geçen;
+a) AKTS: Avrupa Kredi Transfer Sistemini,
+b) ALES: Akademik Personel ve Lisansüstü Eğitimi Giriş Sınavını,
+c) Anabilim/anasanat dalı: 3/3/1983 tarihli ve 17976 sayılı Resmî Gazete'de yayımlanan Lisans Üstü Eğitim Öğretim Enstitülerinin Teşkilât ve İşleyiş Yönetmeliğinin 5 inci maddesinde enstitüler için tanımlanan ve enstitüde eğitim programı bulunan anabilim/anasanat dalını,
+ç) Anabilim/anasanat dalı akademik kurulu: İlgili anabilim/anasanat dalında bulunan tüm öğretim üyelerinden oluşan kurulu,
+d) Anabilim/anasanat dalı başkanı: Lisans Üstü Eğitim Öğretim Enstitülerinin Teşkilât ve İşleyiş Yönetmeliğinin 5 inci maddesinde anabilim/anasanat dalı için tanımlanan başkanı,
+e) Anabilim/anasanat dalı kurulu: Fakülte teşkilâtlanmasına göre bölüm başkanı ve anabilim/anasanat dalı başkanlarından oluşan bölüm kurulunu,
+f) Danışman: Enstitüde kayıtlı öğrenciye ders, proje ve tez dönemlerinde rehberlik etmek üzere Enstitü Yönetim Kurulu tarafından atanan öğretim elemanını,
+g) Enstitü: Karabük Üniversitesi Lisansüstü Eğitim Enstitüsünü,
+ğ) Enstitü Kurulu: Enstitü Müdürünün başkanlığında, Enstitü müdür yardımcıları ve Enstitüde eğitim programları bulunan anabilim/anasanat dalı başkanlarından oluşan kurulu,
+h) Enstitü Yönetim Kurulu: Enstitü Müdürünün başkanlığında, Enstitü müdür yardımcıları, Müdürce gösterilecek altı aday arasından Enstitü Kurulu tarafından üç yıl için seçilecek üç öğretim üyesinden oluşan kurulu,
+ı) İntihal: Başkalarının fikirlerini, metotlarını, verilerini veya eserlerini bilimsel kurallara uygun biçimde atıf yapmadan kısmen veya tamamen kendi eseri gibi göstermeyi,
+i) Kredi: Bir lisansüstü derse ait haftalık teorik ders saatinin tamamı ile haftalık uygulama veya laboratuvar saatinin yarısının toplamına eşit olan birim değeri,
+j) Müdür: Enstitü Müdürünü,
+k) Öğrenci: Lisansüstü öğretim için Enstitüye kayıtlı öğrenciyi,
+l) ÖSYM: Ölçme, Seçme ve Yerleştirme Merkezi Başkanlığını,
+m) Rektör: Karabük Üniversitesi Rektörünü,
+n) Senato: Karabük Üniversitesi Senatosunu,
+o) Tez: Yüksek lisans, doktora veya sanatta yeterlik tezini,
+ö) TUS: Tıpta Uzmanlık Eğitimi Giriş Sınavını,
+p) Üniversite: Karabük Üniversitesini,
+ifade eder.

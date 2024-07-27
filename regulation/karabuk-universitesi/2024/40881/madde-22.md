@@ -1,0 +1,3 @@
+Tezsiz yüksek lisans programında danışman atanması
+MADDE 22- (1) Tezsiz yüksek lisans programında, Enstitü anabilim/anasanat dalı kurulunca her öğrenci için ders seçiminde ve dönem projesinin yürütülmesinde danışmanlık yapacak bir öğretim üyesi en geç birinci yarıyılın sonuna kadar anabilim/anasanat dalı kurulunun önerisi ve Enstitü Yönetim Kurulunun kararıyla atanır. Danışman olarak, herhangi bir lisansüstü anabilim dalı programında tanımlı olmayan Üniversite öğretim üyeleri alanlarına uygun olarak atanabilir.
+(2) Dönem projesini tamamlayan öğrenci proje raporunu danışmanına verir ve anabilim/anasanat dalı başkanlığınca danışman tarafından onaylanan Tezsiz Yüksek Lisans Proje Raporu Değerlendirme Formu Enstitüye en geç 15 gün içinde teslim edilir.

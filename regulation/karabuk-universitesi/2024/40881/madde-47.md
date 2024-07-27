@@ -1,0 +1,3 @@
+Kayıt yenileme
+MADDE 47- (1) Öğrenciler, ders ve tez aşamasında her yarıyıl, akademik takvimde belirlenen süre içinde, öğrenci bilgi sistemini kullanmak suretiyle ders ve tez çalışması seçimini yaptıktan sonra danışman tarafından onaylanır. Öğrenciler her yarıyılda kayıtlarını kendileri yaptırmak zorundadır.
+(2) Mazereti nedeniyle, ders kaydını akademik takvimde belirlenen süre içinde yaptıramayan öğrenciler, akademik takvimde belirtilen ders ekleme-ders silme dönemi içinde ders kayıtlarını yaptırabilir. Öğrenci kayıt yaptırana kadar öğrencilik haklarından yararlanamaz. Bu şekilde kaybedilen süre öğrenim süresinden sayılır.

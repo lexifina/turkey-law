@@ -1,0 +1,5 @@
+Derslerin açılması ve ders sorumluları
+MADDE 8- (1) Bir anabilim dalında açılması düşünülen yeni bir ders için dersi verecek öğretim üyesi; dersin içeriği, gerekçesi ve kaynaklarını içeren müracaatını Enstitü anabilim dalı başkanlığına yılda iki kez olmak üzere güz ve bahar dönemlerinde yapar. Enstitü anabilim dalı kurulunun kararı üzerine Enstitü Kurulunun uygun görüşü ve Senato onayı ile yeni ders açılır.
+(2) Herhangi bir lisansüstü anabilim dalı programında tanımlı olmayan Üniversite öğretim üyeleri veya herhangi bir anabilim dalı programına tanımlı olduğu halde yetkin olduğu başka bir alanda ders açmak isteyen öğretim üyeleri açmak istediği dersin içeriği, gerekçesi ve kaynaklarını içeren müracaatlarını Enstitüye yılda iki kez olmak üzere güz ve bahar dönemlerinde yapar. Enstitü Kurulunun uygun görüşü ve Senato onayı ile yeni ders açılır.
+(3) Lisansüstü düzeydeki bir dersin ulusal kredisi 4'ten çok olamaz.
+(4) Enstitü anabilim dalında ders verecek öğretim üyelerinin görevlendirmeleri, anabilim/anasanat dalı kurul kararı ve Enstitü Yönetim Kurulu onayı ile gerçekleşir.
