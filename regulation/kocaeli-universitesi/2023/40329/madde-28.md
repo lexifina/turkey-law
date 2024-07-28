@@ -1,0 +1,4 @@
+Danışman atanması
+MADDE 28- (1) Tezsiz yüksek lisans programında, enstitü anabilim/anasanat dalı kurulunca, her öğrenci için, ders seçiminde ve dönem projesinin yürütülmesinde danışmanlık yapmak üzere bir öğretim üyesi veya doktoralı bir öğretim elemanı, en geç birinci yarıyılın sonuna kadar anabilim/anasanat dalı kurulunun önerisi ve Enstitü Yönetim Kurulunun kararıyla atanır.
+(2) Danışmanlığa atanan öğretim üyesi veya doktoralı öğretim elemanı, öğrenci ile hazırlamış olduğu proje konusunu projeye yazıldığı yarıyılın başında anabilim dalı kuruluna sunar. Proje konusu, proje başlığı ve değişiklikleri, anabilim dalı kurulu önerisi ile Enstitü Yönetim Kurulu kararı ile yapılır.
+(3) Bir öğrencinin proje danışmanı, öğrencinin veya öğretim üyesinin ilgili enstitüye gerekçeli müracaatı ile anabilim/anasanat dalı kurulunun görüşü alınarak Enstitü Yönetim Kurulunun kararı ile değiştirilebilir.

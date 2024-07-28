@@ -1,0 +1,49 @@
+{
+  "checked_on": "2026-11-14",
+  "commencement_clauses": [
+    "MADDE 55- (1) Bu Yönetmelik 2023-2024 eğitim-öğretim yılı başında yürürlüğe girer."
+  ],
+  "date_evidence": [
+    [
+      "2023-09-18",
+      "18.09.2023",
+      "original gazette publication date in official listing"
+    ],
+    [
+      "2024-07-28",
+      "RG-28/7/2024-32615",
+      "latest source-printed gazette amendment date for current consolidated text"
+    ],
+    [
+      "2024-07-28",
+      "28/7/2024",
+      "latest gazette date in source amendment table"
+    ]
+  ],
+  "date_quote": "RG-28/7/2024-32615",
+  "first_law": null,
+  "gazette": "32313",
+  "history": "current-text",
+  "images": {
+    "deferred": 0,
+    "omitted": 0,
+    "referenced": 0,
+    "source": 0
+  },
+  "in_force": "2024-07-28",
+  "in_force_basis": "latest source-printed gazette amendment date for current consolidated text",
+  "issuer": "Kocaeli Üniversitesi",
+  "issuer_slug": "kocaeli-universitesi",
+  "kind": "regulation",
+  "label": "oldest version available",
+  "path": "regulation/kocaeli-universitesi/2023/40329",
+  "published": "2023-09-18",
+  "source": "https://www.mevzuat.gov.tr/anasayfa/MevzuatFihristDetayIframe?MevzuatTur=8&MevzuatNo=40329&MevzuatTertip=5",
+  "source_bytes": 182667,
+  "source_id": "8.5.40329",
+  "source_sha256": "99ebe7cb826c0e1839371087c4533005462b9fc99c43c220b5da4d4d1d585665",
+  "text_status": "current-consolidated",
+  "title": "KOCAELİ ÜNİVERSİTESİ LİSANSÜSTÜ EĞİTİM VE ÖĞRETİM YÖNETMELİĞİ",
+  "university_id": 209,
+  "word_count": 12376
+}

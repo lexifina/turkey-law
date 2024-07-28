@@ -1,0 +1,5 @@
+Not ortalaması
+MADDE 19- (1) Öğrencilerin not ortalaması, her yarıyıl sonunda öğrenci işleri daire başkanlığı tarafından hesaplanarak belirlenir.
+(2) Herhangi bir yarıyılın not ortalaması hesaplanırken, o yarıyılda öğrencinin kayıt olduğu ve not ortalamalarına katılan her bir dersin AKTS değeri, o dersten alınan notun katsayısı ile çarpılarak bulunan değerler toplanır ve elde edilen toplam değer, bu derslerin toplam AKTS değerine bölünür. Elde edilen ortalama, virgülden sonra iki haneli olarak gösterilir.
+(3) Genel not ortalaması, öğrencinin enstitüye girişinden itibaren almış olduğu ve kayıtlı bulunduğu anabilim/anasanat dalı programında geçerli olan derslerin ve çalışmaların tamamı dikkate alınarak aynı yöntemle hesaplanır. Genel not ortalamasında, tekrar edilen derslerden alınan en son harf notu esas alınır. Öğrencinin başarısız olduğu dersin notu ortalama hesabında dikkate alınmaz. Doktora öğrencilerinin almak zorunda olduğu formasyon derslerinin başarı notları, geçer/kalır olarak değerlendirilir ve genel not ortalaması hesabında dikkate alınmaz.
+(4) Bütün notlar, öğrencinin not belgesine yazılır.

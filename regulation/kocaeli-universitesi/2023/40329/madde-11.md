@@ -1,0 +1,2 @@
+Öğretim üyesi yetiştirme
+MADDE 11- (1) Üniversitelere veya yüksek teknoloji enstitülerine atanmış olan ve bu kurumların teklifi, Öğretim Üyesi ve Araştırıcı Yetiştirme Kurulunun görüşü ve YÖK’ün kararı ile lisansüstü öğretim yapmak üzere Üniversitede görevlendirilen araştırma görevlileri, bir lisansüstü programa kayıt yaptırabilir. Bu araştırma görevlileri ile ilgili işlemler, ilgili mevzuat hükümlerine göre yürütülür.
