@@ -1,0 +1,54 @@
+{
+  "source_id": "9.5.15509",
+  "kind": "communique",
+  "register_kind": "Tebliğler",
+  "title": "ULUSAL MESLEK STANDARTLARINA DAİR TEBLİĞ",
+  "number": "15509",
+  "issuer": "Mesleki Yeterlilik Kurumu Başkanı",
+  "path": "teblig/2011/15509",
+  "source": "https://www.mevzuat.gov.tr/anasayfa/MevzuatFihristDetayIframe?MevzuatTur=9&MevzuatNo=15509&MevzuatTertip=5",
+  "source_sha256": "4d74ec46ec2b425205e5a162a91d1dcbdad674d772733cc7e2a3d6328f2257ca",
+  "source_bytes": 16410,
+  "published": "2011-11-03",
+  "gazette": "28104 Mükerrer",
+  "in_force": "2024-07-28",
+  "in_force_basis": "latest Resmî Gazete date printed in the source amendment notes/table (\"28/7/2024\") for the current consolidated text",
+  "date_evidence": [
+    [
+      "2024-07-28",
+      "28/7/2024",
+      "Resmî Gazete date in the source amendment table"
+    ],
+    [
+      "2020-05-23",
+      "23/5/2020",
+      "Resmî Gazete date in the source amendment table"
+    ]
+  ],
+  "commencement_clauses": [
+    "Bu Tebliğ yayımı tarihinde yürürlüğe girer"
+  ],
+  "history": "current-text",
+  "label": "oldest version available",
+  "checked_on": "2026-11-15",
+  "word_count": 188,
+  "text_status": "current-consolidated",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  },
+  "source_links": [
+    "9.5.15493-ekler.rar",
+    "http://www.resmigazete.gov.tr/eskiler/2011/11/20111103M1-2-1.doc",
+    "http://www.resmigazete.gov.tr/eskiler/2011/11/20111103M1-2-2.doc",
+    "http://www.resmigazete.gov.tr/eskiler/2011/11/20111103M1-2-3.doc",
+    "http://www.resmigazete.gov.tr/eskiler/2011/11/20111103M1-2-4.doc",
+    "http://www.resmigazete.gov.tr/eskiler/2011/11/20111103M1-2-5.doc",
+    "http://www.resmigazete.gov.tr/eskiler/2011/11/20111103M1-2-6.doc",
+    "http://www.resmigazete.gov.tr/eskiler/2011/11/20111103M1-2-7.doc",
+    "http://www.resmigazete.gov.tr/eskiler/2011/11/20111103M1-2-8.doc",
+    "9.5.15509-EK.zip"
+  ],
+  "completeness": "html-text-complete; linked annexes not fetched"
+}
