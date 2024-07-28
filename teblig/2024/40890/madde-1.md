@@ -1,0 +1,2 @@
+Amaç ve kapsam
+MADDE 1- (1) Bu Tebliğin amacı, Ek-1’de Gümrük Tarife İstatistik Pozisyonu ve tanımı belirtilen eşyanın ithalatında 27/6/2024 tarihli ve 8651 sayılı Cumhurbaşkanı Kararı ile yürürlüğe konulan Kâğıt İthalatında Korunma Önlemi Uygulanmasına İlişkin Karar kapsamında ek mali yükümlülük şeklinde uygulanan korunma önleminden muafiyet sağlanması amacıyla açılan tarife kontenjanının kullanım usul ve esaslarının düzenlenmesidir.
