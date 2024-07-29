@@ -1,0 +1,21 @@
+{
+  "record_type": "parliament-written-question",
+  "term": 28,
+  "legislative_year": 2,
+  "esas_no": "7/14791",
+  "submitted": "2024-07-29",
+  "submitted_as": "Başkanlığa geliş tarihi",
+  "mp": "Halide TÜRKOĞLU",
+  "province": "Diyarbakır",
+  "summary": "6 Temmuz 2024 tarihinde Batman'ın Gerçüş ilçesinde gözaltına alınan bazı kişilere ilişkin",
+  "status": "Süresi Geçtikten Sonra Cevaplandı",
+  "status_as_of": "2026-11-16",
+  "official_record": "https://www.tbmm.gov.tr/Denetim/Yazili-Soru-Onergesi-Detay/76a0a9e0-1e23-4b4f-8103-019103c69ba5",
+  "source": "https://tbmm.gov.tr/Denetim/YaziliSoruOnergesiTable",
+  "source_form": "https://tbmm.gov.tr/Denetim/Yazili-Soru-Onergeleri",
+  "source_sha256": "70904fd5c6d14065f4ce20a591c179cf5081bfd0f25cb480f157ee2ce4699924",
+  "in_force": "2024-07-29",
+  "in_force_basis": "Date the question reached the Speaker (Başkanlığa geliş tarihi) in the official TBMM written-question record; parliamentary oversight record, not law",
+  "history_type": "metadata",
+  "text_status": "metadata-only: question text, addressee and answers are in the linked official record (PDFs on cdn.tbmm.gov.tr); not transcribed here"
+}
