@@ -1,0 +1,2 @@
+Öğrencilik hakları
+MADDE 33 – (1) Her yarıyılda en az 12 kredilik derse kayıt yaptırmış olan önlisans ve lisans öğrencileri ile en az 6 kredilik derse kayıt yaptırmış olan yüksek lisans öğrencilerine tam zamanlı öğrenci statüsü tanınır. Öğrencilerin kendisinden kaynaklanmayan, fakat program uygulamasının sonucu olarak yukarıda belirtilenden daha az ders yüküne kayıt yaptırmış olan öğrencinin tam zamanlı öğrencilik statüsü devam eder.

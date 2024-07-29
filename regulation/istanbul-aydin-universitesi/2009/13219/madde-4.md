@@ -1,0 +1,28 @@
+Tanımlar
+MADDE 4 – (1) Bu Yönetmelikte geçen;
+a) Başkan: İstanbul Aydın Üniversitesi Mütevelli Heyet Başkanını,
+b) Bölüm: İstanbul Aydın Üniversitesi fakülteleri bünyesindeki bölümleri,
+c) Bölüm/Anabilim Dalı/Program Başkanı: İstanbul Aydın Üniversitesi bünyesinde lisans düzeyinde uzaktan eğitim-öğretim uygulanan bölüm başkanını, yüksek lisans düzeyinde eğitim-öğretim uygulanan anabilim dalı başkanını ve önlisans düzeyinde eğitim-öğretim uygulanan program başkanını,
+ç) Danışman: Öğrencilerin eğitim, öğrenim ve diğer sorunlarıyla ilgilenmek üzere bölüm veya anabilim dalı başkanınca belirlenen ve fakülte/yüksekokul yönetim kurulu tarafından görevlendirilen öğretim elemanını,
+d) Dekan: Fakülte Dekanını,
+e) Ders kredisi: Bir kredi, bir yarıyıl içinde haftada bir ders saatlik teorik dersi ve/veya semineri, iki ders saatlik laboratuar, atölye, klinik çalışması, uygulama gibi çalışmaları ve diğer etkinlikleri ifade eden ölçü birimini,
+f) Enstitü: İstanbul Aydın Üniversitesi Fen Bilimleri/Sosyal Bilimler Enstitüsünü,
+g) Fakülte: İstanbul Aydın Üniversitesi fakültelerini,
+ğ) Genel Sekreter: İstanbul Aydın Üniversitesi Genel Sekreterini,
+h) İlgili Kurul: Fakültelerde fakülte kurulunu, enstitülerde enstitü kurulunu ve yüksekokullarda yüksekokul kurulunu,
+ı) İlgili Yönetim Kurulu: Fakültelerde fakülte yönetim kurulunu, enstitülerde enstitü yönetim kurulunu ve yüksekokullarda yüksekokul yönetim kurulunu,
+i) Merkez: İstanbul Aydın Üniversitesi Uzaktan Öğretim Uygulama ve Araştırma Merkezini,
+j) Müdür: İstanbul Aydın Üniversitesi enstitü, yüksekokul ve meslek yüksekokulu müdürlerini,
+k) Mütevelli Heyet: İstanbul Aydın Üniversitesi Mütevelli Heyetini,
+l) Öğrenci İşleri Daire Başkanı: İstanbul Aydın Üniversitesi Öğrenci İşleri Daire Başkanını,
+m) Önkoşullu ders: Alınabilmesi için alt yarıyıllarda yer alan derslerden bir veya birkaçının başarılması koşulu aranılan dersi,
+n) Program: Anadolu Bil Meslek Yüksekokulu bünyesindeki mevcut programları,
+o) Rektör: İstanbul Aydın Üniversitesi Rektörünü,
+ö) Seçmeli ders: Öğrencinin; zorunlu dersler dışında alan içinden ve alan dışından isteği doğrultusunda aldığı, kayıtlı olduğu programdaki seçmeli ders adı ile açılmış derslerden seçebileceği gibi, aynı yıldaki başka programların seçmeli veya zorunlu dersleri arasından da seçebileceği dersi,
+p) Senato: İstanbul Aydın Üniversitesi Senatosunu,
+r) Uzaktan Eğitim Kurulu: İstanbul Aydın Üniversitesi uzaktan eğitimle ilgili kurulu,
+s) Üniversite: İstanbul Aydın Üniversitesini,
+ş) Üniversite Yönetim Kurulu: İstanbul Aydın Üniversitesi Yönetim Kurulunu,
+t) Yüksekokul: İstanbul Aydın Üniversitesi Yüksekokulunu,
+u) Zorunlu ders: Bir programda öngörülen ve öğrencinin alması gerekli olan dersi
+ifade eder.

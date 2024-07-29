@@ -1,0 +1,2 @@
+Ortak derslerin uzaktan eğitimle verilmesi
+MADDE 39 – (1) Üniversitede eğitim-öğretimi yapılmakta olan önlisans ve lisans programları içinde yer alan ortak derslerden; Atatürk İlkeleri ve İnkılap Tarihi, Türk Dili, Yabancı Dil, Bilgisayar ve özel seçmeli derslerden bazıları uzaktan eğitimle verilebilir. Bunlardan hangilerinin uzaktan öğretimle verileceğine ilişkin esaslar Senato tarafından belirlenir.

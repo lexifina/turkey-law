@@ -1,0 +1,2 @@
+Yatay ve bölümlerarası geçişler
+MADDE 36 – (1) Üniversitede uzaktan eğitim-öğretim yapılan program, bölüm ve anabilim dallarındaki bölümlerarası geçişler ile başka bir yükseköğretim kurumundan yatay geçişler; 21/10/1982 tarihli ve 17845 sayılı Resmî Gazete’de yayımlanan Yükseköğretim Kurumları Arasında Önlisans ve Lisans Düzeyinde Yatay Geçiş Esaslarına İlişkin Yönetmelik hükümlerine göre yapılır. Uzaktan eğitim uygulanan program öğrencileri örgün eğitim yapan bölümlere geçiş yapamazlar.

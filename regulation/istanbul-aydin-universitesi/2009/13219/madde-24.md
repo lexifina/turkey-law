@@ -1,0 +1,2 @@
+Ders başarı notu
+MADDE 24 – (1) Öğrencilerin ara, dönem sonu veya bütünleme sınavlarında almış oldukları ham puanlar o derse kayıtlı bütün öğrencilerin almış oldukları ham puanların dağılımı ve sınıf ortalaması göz önüne alınarak göreceli puanlara dönüştürülür. Yarıyıl içi başarı puanının % 40’ı ile dönem sonu veya bütünleme sınavının göreceli puanının % 60’ının toplamı göz önüne alınarak her öğrenciye dersteki başarı derecesini belirten bir harf notu takdir edilir.

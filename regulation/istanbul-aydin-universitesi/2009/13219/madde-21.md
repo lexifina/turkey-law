@@ -1,0 +1,2 @@
+Dönem sonu sınavları
+MADDE 21 – (1) Her yarıyılın sonunda bir dönem sonu sınavı yapılır. Dönem sonu sınavları, başka sınavlarla çakışması durumunda bir-iki hafta öne veya sonraya alınabilir ve bu durum öğrencilere duyurulur. Dönem sonu sınav tarihleri öğrencilere önceden duyurulur. Öğrencilerin hangi derslerden; hangi il, hangi bina ve hangi salonda sınava girecekleri önceden yazılı olarak bildirilir. Sınavlar gözetim altında ve çoktan seçmeli test şeklinde yapılır. Dönem sonu sınav puanının ders başarı notunun hesaplanmasındaki ağırlığı % 60’dır.

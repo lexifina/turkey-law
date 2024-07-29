@@ -1,0 +1,2 @@
+Uzaktan eğitim programlarından alınacak dersler
+MADDE 40 – (1) Bir başka üniversitede yürütülmekte olan önlisans, lisans ve yüksek lisans programlarındaki derslerin bir kısmı Üniversitenin uzaktan eğitim programlarında verilen dersler arasından da alınabilir. Bu uygulamaya ilişkin olarak ilgili üniversite ile Üniversite arasında Yükseköğretim Kurulunca belirlenecek esaslara göre protokol yapılır. İlgili üniversitece Üniversiteye bu amaçla yapılacak ödemeler protokolde belirtilir.
