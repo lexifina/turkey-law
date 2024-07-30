@@ -1,0 +1,2 @@
+Sınav sonuçlarına itiraz
+MADDE 24- (1) Sınav sonuçlarına itirazı olan öğrenci bu itirazını, ilgili dersin sınav sonucunun ilanından itibaren en geç beş iş günü içinde ilgili anabilim/anasanat dalı başkanlığına yazılı olarak yapar. Bu itiraz ilgili anabilim/anasanat dalı başkanlığı tarafından ders sorumlusuna iletilir. Ders sorumlusunun değerlendirme sonucu itirazın iletildiği tarihten itibaren en geç beş iş günü içerisinde anabilim/anasanat dalı başkanlığı tarafından ilgili öğrenciye bildirilir. Sınav sonuçlarına itiraz ile ilgili diğer hususlar Senato tarafından belirlenir.

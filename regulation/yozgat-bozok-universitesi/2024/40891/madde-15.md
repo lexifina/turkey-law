@@ -1,0 +1,5 @@
+Danışman ataması
+MADDE 15- (1) Lisansüstü programlarda, Enstitü anabilim/anasanat dalı başkanlığı her öğrenci için Üniversite kadrosunda bulunan bir tez danışmanını en geç birinci yarıyılın sonuna kadar Enstitüye önerir. Tez danışmanı, Enstitü Yönetim Kurulu onayı ile kesinleşir.
+(2) Tez danışmanında aranan nitelikler, danışmanın görevleri, danışman değişikliği talepleri ile atama sürecine ilişkin esaslar Senato tarafından belirlenir.
+(3) 2547 sayılı Kanunun ek 46 ncı maddesi kapsamında kısmi zamanlı olarak görevlendirilen en az doktora derecesine sahip araştırmacılar da tez danışmanı olarak seçilebilir. Ancak bu kişilerin danışman olarak görevlendirilebilmesi için öğrencinin talebi, ilgili araştırmacının yazılı onayı, anabilim/anasanat dalı kurul kararı ve Enstitü Yönetim Kurulunun kararı şarttır.
+(4) Tez çalışmasının niteliğinin birden fazla tez danışmanı gerektirdiği durumlarda atanacak ikinci tez danışmanı, en az doktora derecesine sahip olmak kaydıyla Üniversite kadrosunda bulunmayan akademisyenlerden de belirlenebilir.

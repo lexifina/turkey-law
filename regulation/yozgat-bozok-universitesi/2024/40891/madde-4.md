@@ -1,0 +1,27 @@
+Tanımlar
+MADDE 4- (1) Bu Yönetmelikte geçen;
+a) Akademik takvim: Her yıl Senato tarafından belirlenen lisansüstü eğitim-öğretim döneminde yarıyıl, ders, sınav ve benzeri tarihleri belirten takvimi,
+b) AKTS: Avrupa Kredi Transfer Sistemini,
+c) ALES: Akademik Personel ve Lisansüstü Eğitimi Giriş Sınavını,
+ç) Anabilim dalı/anasanat dalı: Enstitüde lisansüstü eğitim ve öğretim programı bulunan akademik birimleri,
+d) Anabilim dalı/anasanat dalı başkanı: Enstitüde eğitim ve öğretim programı bulunan anabilim/anasanat dalının başkanını,
+e) Anabilim/anasanat dalı kurulu: Tek bilim dalı bulunan anabilim/anasanat dallarında anabilim/anasanat dalı başkanının başkanlığında ilgili bölümdeki tüm öğretim üyelerinden; birden fazla bilim dalı bulunan anabilim/anasanat dallarında ise anabilim/anasanat dalı başkanı, yardımcıları ve bilim dalı başkanlarından oluşan bölüm kurulunu; disiplinlerarası yürütülen programlarda ise bu programlarda görev alan öğretim elemanlarından oluşan kurulu,
+f) Bilimsel değerlendirme sınavı: Lisansüstü programlara girişte ilgili anabilim dalı tarafından yapılan sözlü ve/veya yazılı sınavı,
+g) DUS: Diş Hekimliğinde Uzmanlık Eğitimi Giriş Sınavını,
+ğ) Enstitü: Yozgat Bozok Üniversitesine bağlı lisansüstü eğitim-öğretim yapan Lisansüstü Eğitim Enstitüsünü,
+h) Enstitü Kurulu: Enstitü Müdürünün başkanlığında, Enstitü müdür yardımcıları ve Enstitüyü oluşturan Enstitü anabilim/anasanat dalı başkanlarından oluşan kurulu,
+ı) Enstitü Yönetim Kurulu: Enstitü Müdürü başkanlığında, müdür yardımcıları ile Enstitü Kurulu tarafından üç yıl için seçilen üç öğretim üyesinden oluşan kurulu,
+i) GMAT (Graduate Management Admission Test): Doktora ve sanatta yeterlik programlarına başvurularda, Üniversitelerarası Kurul tarafından ALES’e eş değer sayılan ve uluslararası düzeyde kabul gören sınavı,
+j) GRE (Graduate Record Examinations): Doktora ve sanatta yeterlik programlarına başvurularda, Üniversitelerarası Kurul tarafından ALES’e eş değer sayılan ve uluslararası düzeyde kabul gören sınavı,
+k) İntihal: Başkalarının fikirlerini, metotlarını, verilerini veya eserlerini bilimsel kurallara uygun biçimde atıf yapmadan kısmen veya tamamen kendi eseri gibi göstermeyi,
+l) ÖSYM: Ölçme, Seçme ve Yerleştirme Merkezi Başkanlığını,
+m) Rektör: Yozgat Bozok Üniversitesi Rektörünü,
+n) Senato: Yozgat Bozok Üniversitesi Senatosunu,
+o) TUS: Tıpta Uzmanlık Eğitimi Giriş Sınavını,
+ö) Üniversite: Yozgat Bozok Üniversitesini,
+p) Üniversite Yönetim Kurulu: Yozgat Bozok Üniversitesi Yönetim Kurulunu,
+r) Yarıyıl: Güz ve bahar yarıyıllarından oluşan, yarıyıl sonu sınav günleri hariç, en az 14 haftalık çalışma dönemini kapsayan, başlangıç ve bitiş tarihleri her akademik yıl için Enstitü Kurulu tarafından önerilen ve Senato tarafından onaylanan eğitim süresini,
+s) YÖK: Yükseköğretim Kurulunu,
+ifade eder.
+İKİNCİ BÖLÜM
+Lisansüstü Programların Açılması ve Yürütülmesi,

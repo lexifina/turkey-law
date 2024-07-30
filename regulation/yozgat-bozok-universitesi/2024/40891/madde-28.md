@@ -1,0 +1,4 @@
+Tez konusunun belirlenmesi
+MADDE 28- (1) Öğrencinin tez önerisini verebilmesi için gerekli olan koşullar Senato tarafından belirlenir.
+(2) Danışman, danışmanı olduğu öğrencinin tez önerisini Senato tarafından belirlenen gerekli koşulları sağlaması şartıyla birinci yarıyılın bitiminden itibaren en geç beşinci yarıyılın başına kadar, anabilim/anasanat dalı kurul kararı ve anabilim/anasanat dalı başkanlığı onayı ile Enstitüye gönderir. Tez konusu Enstitü Yönetim Kurulu onayı ile kesinleşir. Bu süre sonunda tez konusu kesinleşmeyen öğrencinin ilişiği kesilir.
+(3) Tez konusu, danışmanın teklifi, anabilim/anasanat dalı kurul kararıyla, anabilim/anasanat dalı başkanlığının onayı ve Enstitü Yönetim Kurulunun kararı ile değiştirilebilir. Tez konusu değişikliği yapılmasından dolayı öğrenciye ek süre verilmez.

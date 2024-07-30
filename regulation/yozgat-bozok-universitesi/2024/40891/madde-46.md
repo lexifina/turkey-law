@@ -1,0 +1,13 @@
+ALTINCI BÖLÜM
+Sanatta Yeterlik Programı
+Genel esaslar
+MADDE 46- (1) Sanatta yeterlik çalışması, özgün bir sanat eserinin ortaya konulmasını, müzik ve sahne sanatlarında ise üstün bir uygulama ve yaratıcılığı amaçlayan doktora eşdeğeri bir yükseköğretim programıdır.
+(2) Sanatta yeterlik programı; doktora tezi yerine sergi, konser, resital veya proje şeklinde sanatta yeterlik çalışması yapılabilir. Sanatta yeterlik programı ile ilgili usuller doktora programı usullerine tabidir.
+(3) Sanatta yeterlik programı tezli yüksek lisans derecesi ile kabul edilmiş öğrenciler için toplam yirmi bir krediden ve bir eğitim-öğretim dönemi 60 AKTS kredisinden az olmamak koşuluyla en az yedi ders, uygulamalar ile tez, sergi, proje, resital, konser, temsil gibi çalışmalar olmak üzere en az 240 AKTS kredisinden oluşur.
+(4) Lisans derecesi ile kabul edilmiş öğrenciler için de en az on dört ders, uygulamalar ile tez, sergi, proje, resital, konser, temsil gibi çalışmalar olmak üzere en az 300 AKTS kredisinden oluşur.
+(5) Lisansüstü dersler, Enstitü anabilim/anasanat dalı başkanlığının önerisi ve Enstitü Yönetim Kurulu onayı ile diğer yükseköğretim kurumlarında verilmekte olan derslerden yüksek lisans derecesi ile kabul edilmiş öğrenciler için en fazla iki, lisans derecesiyle kabul edilmiş öğrenciler için en fazla dört ders seçilebilir.
+(6) Sanatta yeterlik programına öğrenci kabulünde, anadilleri dışında Yükseköğretim Kurulu tarafından kabul edilen merkezî yabancı dil sınavları ile eşdeğerliği kabul edilen uluslararası yabancı dil sınavlarından en az 55 puan veya ÖSYM tarafından eşdeğerliği kabul edilen uluslararası yabancı dil sınavlarından bu puan muadili bir puan alınması zorunlu olup, bu asgari puanların girilecek programların özelliklerine göre gerekirse yükseltilmesine Senato tarafından karar verilir. Konservatuvar programları ile güzel sanatlar fakültelerinin sadece özel yetenek sınavı ile öğrenci kabul eden programlarının enstitülerdeki anasanat ve anabilim dallarındaki öğretim dili Türkçe olan programlarına başvurularda Devlet hastanesi veya Devlet üniversitesi hastanesinden alınmış sağlık raporu ile belgelenmesi şartıyla;
+a) Düzeltilmemiş engeli en az %70 veya düzeltilmiş engeli en az %40 ve üzeri olan işitme engelli adaylarda,
+b) Engel düzeyi %50 ve üzeri olmak üzere zihin yetersizliği bulunan engelli adaylarda,
+c) Engel düzeyi %40 ve üzeri “yaygın gelişimsel bozukluk” (Otizm spektrum bozukluğu/çocukluk otizmi/atipik otizm, Rett Sendromu, Asperger Sendromu) tanısı bulunan engelli adaylarda,
+başvuru yapabilmeleri için yabancı dil puanı aranmaz. Bu adaylar yabancı dil puanı olarak Üniversite tarafından aranan yabancı dil taban puanı şartını sağlamış sayılır.

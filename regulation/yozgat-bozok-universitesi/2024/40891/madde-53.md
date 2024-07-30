@@ -1,0 +1,3 @@
+Etik ihlal
+MADDE 53- (1) Bu Yönetmelik hükümlerine göre yapılması gereken bilimsel çalışmalarda (tez, proje vb.) Yükseköğretim Kurumları Bilimsel Araştırma ve Yayın Etiği İlkelerinde yer alan etik ihlallerden birinin herhangi bir etik kurul tarafından tespit edilmesi durumunda, 2547 sayılı Kanunun 53 üncü veya 54 üncü maddesi hükümlerine göre işlem tesis edilir.
+(2) Öğrenci ile birinci derecede hısımlık bağı olan öğretim üyeleri, öğrenciye danışman ve/veya ikinci tez danışmanı olarak atanamaz; öğrenci kabulü, yeterlik, tez öneri, tez izleme ve tez savunma sınavlarında görev alamazlar. Bu durumun sonradan tespit edilmesi halinde, öğretim üyeleri jüriden çıkarılarak yerlerine yedek jüri üyeleri görevlendirilir, gerektiğinde jüri yeniden belirlenir.

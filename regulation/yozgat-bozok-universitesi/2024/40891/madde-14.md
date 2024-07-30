@@ -1,0 +1,2 @@
+Derslerin ve ders sorumlularının belirlenmesi
+MADDE 14- (1) Bir yarıyılda hangi lisansüstü derslerin açılacağı ve bu derslerin doktora veya eşdeğeri lisansüstü eğitim mezunu olmak kaydıyla hangi öğretim elemanları ile 2547 sayılı Kanunun ek 46 ncı maddesi uyarınca görevlendirilen araştırmacılar tarafından verileceği, ilgili Enstitü anabilim/anasanat dalı başkanının önerisi üzerine Enstitü Yönetim Kurulu tarafından belirlenir. Derslerin ve ders sorumlularının belirlenmesi koşulları Senato tarafından belirlenir.
