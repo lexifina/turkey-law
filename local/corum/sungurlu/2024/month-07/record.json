@@ -1,0 +1,29 @@
+{
+  "number": "month-07",
+  "year": 2024,
+  "month": 7,
+  "title": "Temmuz 2024 Olağan Meclis Toplantı Kararları",
+  "decision_date": null,
+  "index_date": "2024-07-31",
+  "date_precision": "month",
+  "period": "Temmuz 2024",
+  "source": "https://sungurlu.bel.tr/icerik/meclis-kararlar/page/4",
+  "official_page": null,
+  "official_document": "https://sungurlu.bel.tr/temmuz-2024-olagan-meclis-toplanti-kararlari-48766.html",
+  "source_sha256": "389c3ff44e2f6595aac3d0b2f12621610fc8624e08bfe45f8a19615926ed12e0",
+  "issuer": "Sungurlu Belediye Meclisi",
+  "history_type": "metadata",
+  "text_status": "metadata-only: listing fields as published; the decisions are in the linked official document(s) or page, not transcribed",
+  "in_force": "2024-07-31",
+  "in_force_basis": "The official listing gives only the month of this official file (Temmuz 2024); date set to the last day of that month (turkey-law date convention for month-only sources); exact adoption dates are in the linked official document; legal commencement not asserted",
+  "missing": [
+    "decision numbers, dates and subjects",
+    "complete official decision text",
+    "official annexes"
+  ],
+  "law_text_complete": false,
+  "privacy_withheld": false,
+  "listing_label": "Temmuz 2024 Olağan Meclis Toplantı Kararları",
+  "record_scope": "one official file of council decisions (meeting or month)",
+  "document_note": "the decisions are published on the linked official page; not transcribed here"
+}
