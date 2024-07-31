@@ -1,0 +1,29 @@
+{
+  "number": "94",
+  "number_as_published": "2024/94",
+  "year": 2024,
+  "month": 7,
+  "title": "Zabıta Müdürlüğümüzün Belediye Meclisine sunmuş olduğu Kayıp ve Buluntu Eşya Uygulama Yönetmeliği 5393 Sayılı Belediye Kanununun 18. Maddesinin m fıkrasına istinaden Belediye meclisince görüşülüp oy çokluğu ile aynen kabul edilip karara bağlanmıştır.",
+  "decision_date": null,
+  "index_date": "2024-07-31",
+  "date_precision": "month",
+  "period": "Temmuz 2024",
+  "source": "https://www.haliliye.bel.tr/icerik/7163/39/temmuz-2024",
+  "official_page": "https://www.haliliye.bel.tr/icerik/7163/39/temmuz-2024",
+  "official_document": null,
+  "source_sha256": "5a0cfc7dbd6ed5da0374cfa318139c5deeb9e0854262846d45d051ce9bb5cdf8",
+  "issuer": "Haliliye Belediye Meclisi",
+  "history_type": "metadata",
+  "text_status": "metadata-only: number and subject as published in the official listing; complete decision text is in the linked official page/document, not transcribed",
+  "in_force": "2024-07-31",
+  "in_force_basis": "The official listing gives only the month of this decision (Temmuz 2024); date set to the last day of that month (turkey-law date convention for month-only sources); exact adoption dates are in the linked official document; legal commencement not asserted",
+  "missing": [
+    "exact decision date",
+    "complete official decision text",
+    "official annexes"
+  ],
+  "law_text_complete": false,
+  "privacy_withheld": false,
+  "listing_item": "TEMMUZ 2024",
+  "record_scope": "one council decision summary (Karar Özeti) as published"
+}
