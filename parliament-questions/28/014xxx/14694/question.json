@@ -1,0 +1,21 @@
+{
+  "record_type": "parliament-written-question",
+  "term": 28,
+  "legislative_year": 2,
+  "esas_no": "7/14694",
+  "submitted": "2024-07-31",
+  "submitted_as": "Başkanlığa geliş tarihi",
+  "mp": "Hikmet Yalım HALICI",
+  "province": "Isparta",
+  "summary": "Isparta ilindeki okulların depreme dayanıklılığına ilişkin",
+  "status": "Cevaplandı",
+  "status_as_of": "2026-11-16",
+  "official_record": "https://www.tbmm.gov.tr/Denetim/Yazili-Soru-Onergesi-Detay/888d10f1-62c1-4ec7-979f-01910e0bb53d",
+  "source": "https://tbmm.gov.tr/Denetim/YaziliSoruOnergesiTable",
+  "source_form": "https://tbmm.gov.tr/Denetim/Yazili-Soru-Onergeleri",
+  "source_sha256": "58ee01800354b5c4a462b79516abea40300813de4aa44b67399e55744662111b",
+  "in_force": "2024-07-31",
+  "in_force_basis": "Date the question reached the Speaker (Başkanlığa geliş tarihi) in the official TBMM written-question record; parliamentary oversight record, not law",
+  "history_type": "metadata",
+  "text_status": "metadata-only: question text, addressee and answers are in the linked official record (PDFs on cdn.tbmm.gov.tr); not transcribed here"
+}
