@@ -1,0 +1,29 @@
+{
+  "number": "104",
+  "number_as_published": "MEC-2024-7-",
+  "year": 2024,
+  "month": 7,
+  "title": "MEC-2024-7- 104 - Aşağıışıklar Mah. 173 Ada 7 no.lu Par. 1-1000 Ölçekli Uygulama İmar Planı Değişikliği.",
+  "decision_date": null,
+  "index_date": "2024-07-31",
+  "date_precision": "month",
+  "period": "Temmuz 2024",
+  "source": "https://www.manavgat.bel.tr/meclis-kararlari/temmuz-meclis-kararlari-1",
+  "official_page": "https://www.manavgat.bel.tr/meclis-kararlari/temmuz-meclis-kararlari-1",
+  "official_document": "https://d25tea7qfcsjlw.cloudfront.net/14370/kicerik/238035/117297.pdf",
+  "source_sha256": "00e5a9cd37cf11e7af3de6ab2526e01531853293d994035f579c11c9fc15baf1",
+  "issuer": "Manavgat Belediye Meclisi",
+  "history_type": "metadata",
+  "text_status": "metadata-only: number and subject as published in the official listing; complete decision text is in the linked official page/document, not transcribed",
+  "in_force": "2024-07-31",
+  "in_force_basis": "The official listing gives only the month of this decision (Temmuz 2024); date set to the last day of that month (turkey-law date convention for month-only sources); exact adoption dates are in the linked official document; legal commencement not asserted",
+  "missing": [
+    "exact decision date",
+    "complete official decision text",
+    "official annexes"
+  ],
+  "law_text_complete": false,
+  "privacy_withheld": false,
+  "listing_item": "2024 YILI TEMMUZ AYI MECLİS KARARLARI",
+  "record_scope": "one council decision (official code MEC-year-month-number)"
+}
