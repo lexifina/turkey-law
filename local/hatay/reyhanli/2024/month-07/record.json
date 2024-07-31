@@ -1,0 +1,28 @@
+{
+  "number": "month-07",
+  "year": 2024,
+  "month": 7,
+  "title": "2024 - TEMMUZ",
+  "decision_date": null,
+  "index_date": "2024-07-31",
+  "date_precision": "month",
+  "period": "Temmuz 2024",
+  "source": "https://www.reyhanli.bel.tr/karar/2024-temmuz",
+  "official_page": "https://www.reyhanli.bel.tr/karar/2024-temmuz",
+  "official_document": "https://www.reyhanli.bel.tr/tema/genel/uploads/meclis_kararlari/dosya/2024-Temmuz-Ayı-Meclis-Ozeti.pdf",
+  "source_sha256": "d677a74483b3cac38d8d26c1ba4f4959ab54354efdf2f17aaa41ef0e9399b983",
+  "issuer": "Reyhanlı Belediye Meclisi",
+  "history_type": "metadata",
+  "text_status": "metadata-only: listing fields as published; the decisions are in the linked official document(s) or page, not transcribed",
+  "in_force": "2024-07-31",
+  "in_force_basis": "The official listing gives only the month of this official file (Temmuz 2024); date set to the last day of that month (turkey-law date convention for month-only sources); exact adoption dates are in the linked official document; legal commencement not asserted",
+  "missing": [
+    "decision numbers, dates and subjects",
+    "complete official decision text",
+    "official annexes"
+  ],
+  "law_text_complete": false,
+  "privacy_withheld": false,
+  "listing_label": "2024 - TEMMUZ",
+  "record_scope": "one official file of council decisions (meeting or month)"
+}
