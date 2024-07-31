@@ -1,0 +1,28 @@
+{
+  "number": "month-07",
+  "year": 2024,
+  "month": 7,
+  "title": "Meclis Kararları 2024/Temmuz",
+  "decision_date": null,
+  "index_date": "2024-07-31",
+  "date_precision": "month",
+  "period": "Temmuz 2024",
+  "source": "https://www.kaytazdere.bel.tr/karar/meclis-kararlari-2024-temmuz.html",
+  "official_page": "https://www.kaytazdere.bel.tr/karar/meclis-kararlari-2024-temmuz.html",
+  "official_document": "https://www.kaytazdere.bel.tr/uploads/files/2024-45%20%C5%9Eartl%C4%B1%20Ba%C4%9F%C4%B1%C5%9F%C4%B1n%20Kabul%C3%BC%20Motorsiklet.docx",
+  "source_sha256": "cc0e3ff092ba2851ef7b7de5bf6e65207d0203448844458b43db7d807887fb6c",
+  "issuer": "Kaytazdere Belediye Meclisi",
+  "history_type": "metadata",
+  "text_status": "metadata-only: listing fields as published; the decisions are in the linked official document(s) or page, not transcribed",
+  "in_force": "2024-07-31",
+  "in_force_basis": "The official listing gives only the month of this official file (Temmuz 2024); date set to the last day of that month (turkey-law date convention for month-only sources); exact adoption dates are in the linked official document; legal commencement not asserted",
+  "missing": [
+    "decision numbers, dates and subjects",
+    "complete official decision text",
+    "official annexes"
+  ],
+  "law_text_complete": false,
+  "privacy_withheld": false,
+  "listing_label": "Meclis Kararları 2024/Temmuz",
+  "record_scope": "one official file of council decisions (meeting or month)"
+}
