@@ -1,0 +1,3 @@
+Öğrenci taşıma uygulaması kapsamında verilecek eğitimler
+MADDE 23- (Başlığı ile Birlikte Değişik:RG-1/8/2024-32619)
+(1) Öğrenci taşıma uygulaması kapsamında hizmet veren araç sürücüleri ile özel eğitim öğrenci/kursiyerlerini taşıyan araçlarda görevli rehber personele Okul Servis Araçları Yönetmeliğinin 6 ncı maddesinin ikinci fıkrasının (a) ve (b) bentleri hükümleri gereği eğitim verilerek sertifika almaları sağlanır. Ayrıca eğitim ve öğretim yılı ekim ayı sonuna kadar öğrenci taşıma uygulaması kapsamındaki öğrenciler ile veli/vasilerine uygulama hakkında millî eğitim müdürlüklerinin koordinesinde okul/kurum müdürlüklerince farkındalık eğitimleri verilir.

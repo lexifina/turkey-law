@@ -1,0 +1,4 @@
+Rehber personel ve okul servis aracı şoförü (Değişik başlık:RG-1/8/2024-32619)
+MADDE 14 – (1) (Değişik:RG-1/8/2024-32619) Özel eğitim ihtiyacı olan öğrenci/kursiyerlerin taşındığı okul servis araçlarında, Okul Servis Araçları Yönetmeliğinin 9 uncu maddesinin ikinci fıkrasında yer alan şartları haiz, rehber personel görevlendirilir.
+(2) Rehber personel görevlendirmesinde; mesleki ve teknik eğitim okul/kurumlarının acil sağlık hizmetleri, hasta ve yaşlı hizmetleri, hemşirelik ile çocuk gelişimi ve eğitimi alanı mezunu olmak tercih sebebi olarak kabul edilir. Bu alanlardan mezun personel bulunamaması hâlinde bu Yönetmelik kapsamında taşınan özel eğitim ihtiyacı olan öğrenci/kursiyerlerin birinci dereceden yakınlarına öncelik verilir.
+(3) (Ek:RG-8/7/2018-30472) (Değişik:RG-1/8/2024-32619) Okul servis araçlarını kullanan servis şoförleri, Okul Servis Araçları Yönetmeliğinin 9 uncu maddesinin birinci fıkrasında yer alan şartları haiz olmalıdır.

@@ -1,0 +1,2 @@
+İş birliği yapılacak kurumlar
+MADDE 19 – (1) (Değişik ibare:RG-1/8/2024-32619) Öğrencisi taşınacak yerleşim birimlerinin yol bakım ve onarımlarının yapılması, eğitim-öğretim süresince ulaşıma açık tutulması, yol emniyetinin sağlanması için millî eğitim müdürlüklerince ilgili kurumlarla iş birliği yapılarak gerekli önlemler alınır. Kamu kurum ve kuruluşları ile yaptıkları hizmet karşılığı olarak herhangi bir ödemede bulunulması konusunda protokol yapılamaz.

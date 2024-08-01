@@ -1,0 +1,22 @@
+Tanımlar
+MADDE 4 – (1) Bu Yönetmelikte geçen;
+a) Bakan: Millî Eğitim Bakanını,
+b) Bakanlık: Millî Eğitim Bakanlığını,
+c) Birleştirilmiş sınıf: İlkokullarda birleştirilerek bir derslikte tek öğretmen tarafından okutulan birden fazla sınıfı,
+ç) (Değişik:RG-1/8/2024-32619) Geçici ikamet: Yangın, sel, deprem gibi doğal afetler, mevsimlik işler, eğitim ve diğer sebeplere bağlı olarak yapılan göçler nedeni ile ikamet adresinin geçici olarak değişmesini,
+d) Millî eğitim müdürlüğü: İl/ilçe millî eğitim müdürlüğünü,
+e) (Değişik:RG-1/8/2024-32619) Öğrenci taşıma uygulaması: Taşıma yoluyla eğitimden faydalanacakların, taşıma merkezi resmî okul/kurum ve özel eğitim sınıflarına günübirlik taşınarak eğitim ve öğretime devamlarını sağlamak ve uygulama kapsamında taşınan özel eğitim öğrenci/kursiyerleri dışındaki ilköğretim ve ortaöğretim öğrencilerine ücretsiz öğle yemeği hizmeti sunmak amacıyla yapılan uygulamayı,
+f) (Değişik:RG-1/8/2024-32619) Öğrencisi taşınacak okul/kurum: Öğrenci sayısı yetersizliği nedeniyle kapatılan, doğal afetler, can ve mal kaybı tehlikesi gibi ani ve beklenmedik olayların ortaya çıkması sonucu kullanılamayan, güçlendirmeye alınan veya yıkılıp yeniden yapılmasına karar verilen resmî okul/kurumu,
+g) (Değişik:RG-1/8/2024-32619) Öğrencisi taşınacak yerleşim birimi: Büyükşehir statüsündeki illerde belde, köy veya köyaltı yerleşim yerlerinden mahalle statüsü kazanan; büyükşehir statüsü dışındaki illerde ise belde, köy ve köyaltı yerleşim yerleri ile daha önce köy statüsünde olup belediye sınırları içerisine alınan yerleşim yerlerinden, sınırları içerisinde öğrencilerin devam edeceği türde okul bulunmayan ve toplu taşıma hizmeti verilmeyen yerleşim birimlerini,
+ğ) (Değişik:RG-1/8/2024-32619) Taşıma hizmetinden faydalanacaklar: Öğrenci taşıma uygulaması kapsamında öğrencisi taşınacak yerleşim biriminde sürekli veya geçici ikamet eden öğrencilerle, özel eğitim okul/sınıflarında eğitim alan öğrenciler, yaygın eğitim kapsamında olan kursiyerler ve okul/kurumlarda oluşturulan Bireyselleştirilmiş Eğitim Programı Geliştirme Birimi tarafından refakat edilmesine karar verilen bedensel, orta veya ağır zihinsel engelli, birden fazla yetersizliği ve otizm spektrum bozukluğu olan öğrenci/kursiyerlerin; veli/vasisi ya da yazılı olarak yetkilendirdiği kişileri,
+h) (Değişik:RG-1/8/2024-32619) Taşıma merkezi okul/kurum: Öğrenci taşıma uygulaması kapsamındaki öğrenci/kursiyerlerin öğrenim gördükleri resmî okul/kurumu,
+ı) Taşımalı öğrenci modülü: Öğrenci taşıma uygulaması kapsamında taşıma ve yemek hizmetinden yararlanan öğrenci/kursiyerlere yönelik gerçekleştirilen iş ve işlemlerin elektronik ortamda yürütüldüğü ve bilgilerin saklandığı sistemi,
+i) Toplu taşıma hizmeti: Kamu kurum ve kuruluşları ile bunların verdiği yetkiyle gerçek ve tüzel kişiler tarafından işletilen kara, deniz ve su ulaşım araçları, tünel, raylı sistem dâhil her türlü toplu taşıma sistemleri ile belirli aralıklarla verilen mutat taşıma hizmetini,
+j) (Ek:RG-1/8/2024-32619) Eğitim ve öğretim yılı: Eğitim ve öğretimin başladığı tarihten, sonraki eğitim ve öğretim yılının başladığı tarihe kadar geçen süreyi,
+k) (Ek:RG-1/8/2024-32619) Kursiyer: Özel eğitim ihtiyacı olup yaygın eğitim hizmetlerinden yararlanan bireyi,
+l) (Ek:RG-1/8/2024-32619) Okul servis aracı: Taşıma hizmetinden faydalanacakların taşınmalarında kullanılan ve ticari tescilli yolcu taşımaya mahsus taşıtı,
+m) (Ek:RG-1/8/2024-32619) Okul servis araçları denetim komisyonu: Valilik/kaymakamlıklarca millî eğitim, emniyet, jandarma, belediye ve uygun görülen diğer kurum temsilcilerinden oluşturulan komisyonu,
+n) (Ek:RG-1/8/2024-32619) Rehber personel: Özel eğitim öğrencileri ile kursiyerlerin taşındığı okul servis aracında görevli personeli,
+o) (Ek:RG-1/8/2024-32619) Tür: Bakanlığa bağlı resmî ilkokul, ortaokul, imam-hatip ortaokulu, Anadolu lisesi, fen lisesi, sosyal bilimler lisesi, güzel sanatlar lisesi, spor lisesi, mesleki ve teknik Anadolu lisesi, Anadolu imam-hatip lisesinin her birini,
+ö) (Ek:RG-1/8/2024-32619) Veli/vasi: Öğrencinin/kursiyerin annesi, babası veya yasal sorumluluğunu üstlenen kişiyi,
+ifade eder.
