@@ -1,0 +1,42 @@
+{
+  "source_id": "9.5.24607",
+  "kind": "communique",
+  "register_kind": "Tebliğler",
+  "title": "GÜMRÜK GENEL TEBLİĞİ (GÜMRÜK İŞLEMLERİ) (SERİ NO: 148)",
+  "number": "24607",
+  "issuer": "Gümrük ve Ticaret Bakanı",
+  "path": "teblig/2018/24607",
+  "source": "https://www.mevzuat.gov.tr/anasayfa/MevzuatFihristDetayIframe?MevzuatTur=9&MevzuatNo=24607&MevzuatTertip=5",
+  "source_sha256": "2e65d70bf920b9b1cd3f590856d07e3e87ff2ceb912e0b0566fda01cbd8df623",
+  "source_bytes": 31544,
+  "published": "2018-05-23",
+  "gazette": "30429",
+  "in_force": "2024-08-01",
+  "in_force_basis": "latest Resmî Gazete date printed in the source amendment notes/table (\"RG-1/8/2024\") for the current consolidated text",
+  "date_evidence": [
+    [
+      "2024-08-01",
+      "RG-1/8/2024",
+      "Resmî Gazete date printed in the source amendment note"
+    ],
+    [
+      "2024-08-01",
+      "1/8/2024",
+      "Resmî Gazete date in the source amendment table"
+    ]
+  ],
+  "commencement_clauses": [
+    "Bu Tebliğ 14/5/2018 tarihinden itibaren geçerli olmak üzere yayımı tarihinde yürürlüğe girer"
+  ],
+  "history": "current-text",
+  "label": "oldest version available",
+  "checked_on": "2026-11-15",
+  "word_count": 1222,
+  "text_status": "current-consolidated",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  },
+  "completeness": "html-text-complete"
+}
