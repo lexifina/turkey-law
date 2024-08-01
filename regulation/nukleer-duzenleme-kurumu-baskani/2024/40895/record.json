@@ -1,0 +1,31 @@
+{
+  "source_id": "7.5.40895",
+  "kind": "regulation",
+  "register_kind": "Kurum ve Kuruluş Yönetmelikleri",
+  "title": "NÜKLEER TESİSLERDE TEDARİK ZİNCİRİNE İLİŞKİN YÖNETMELİK",
+  "number": "40895",
+  "issuer": "Nükleer Düzenleme Kurumu Başkanı",
+  "issuer_slug": "nukleer-duzenleme-kurumu-baskani",
+  "path": "regulation/nukleer-duzenleme-kurumu-baskani/2024/40895",
+  "source": "https://www.mevzuat.gov.tr/anasayfa/MevzuatFihristDetayIframe?MevzuatTur=7&MevzuatNo=40895&MevzuatTertip=5",
+  "source_sha256": "254f07c7e389e41e3d81e95da1cb72a7ccb8a74e0d5abcb067d8bfc29301038c",
+  "source_bytes": 43880,
+  "published": "2024-08-01",
+  "gazette": "32619",
+  "in_force": "2024-08-01",
+  "in_force_basis": "Resmî Gazete publication date in the official listing (01.08.2024); own commencement article: \"Bu Yönetmelik yayımı tarihinde yürürlüğe girer\"",
+  "commencement_clauses": [
+    "Bu Yönetmelik yayımı tarihinde yürürlüğe girer"
+  ],
+  "history": "current-text",
+  "label": "oldest version available",
+  "checked_on": "2026-11-15",
+  "word_count": 2199,
+  "text_status": "current-consolidated",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  },
+  "completeness": "html-text-complete"
+}
