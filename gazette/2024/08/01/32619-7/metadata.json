@@ -1,0 +1,20 @@
+{
+  "record_type": "gazette-item",
+  "gazette": "Resmî Gazete",
+  "jurisdiction": "TR",
+  "date": "2024-08-01",
+  "issue": "32619",
+  "edition": "regular",
+  "item": 7,
+  "section": "YÜRÜTME VE İDARE BÖLÜMÜ",
+  "heading": "YÖNETMELİKLER",
+  "title": "Nükleer Tesislerde Bağımsız Gözetim Faaliyetlerine İlişkin Yönetmelik",
+  "official_link": "https://www.resmigazete.gov.tr/eskiler/2024/08/20240801-7.htm",
+  "link_format": "htm",
+  "index_url": "https://www.resmigazete.gov.tr/eskiler/2024/08/20240801.htm",
+  "index_sha256": "7de716750d9a512adfff6f209fcbd3c969f7a00e2549b8f9c5c1340900f1662f",
+  "index_header": "1 Ağustos 2024 ... 32619 Sayılı Resmî Gazete",
+  "issue_pdf": "https://www.resmigazete.gov.tr/eskiler/2024/08/20240801.pdf",
+  "in_force_basis": "Resmî Gazete publication date; not a commencement reading.",
+  "text_status": "metadata-only; text not yet fetched (follow-up pass adds it as its own commit)"
+}
