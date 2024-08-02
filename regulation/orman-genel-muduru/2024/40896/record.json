@@ -1,0 +1,34 @@
+{
+  "source_id": "7.5.40896",
+  "kind": "regulation",
+  "register_kind": "Kurum ve Kuruluş Yönetmelikleri",
+  "title": "ORMANCILIK FAALİYETLERİNDE KULLANILACAK DAMGA VEYA DAMGA YERİNE GEÇECEK İŞARETLERE AİT YÖNETMELİK",
+  "number": "40896",
+  "issuer": "Orman Genel Müdürü",
+  "issuer_slug": "orman-genel-muduru",
+  "path": "regulation/orman-genel-muduru/2024/40896",
+  "source": "https://www.mevzuat.gov.tr/anasayfa/MevzuatFihristDetayIframe?MevzuatTur=7&MevzuatNo=40896&MevzuatTertip=5",
+  "source_sha256": "c96c5e79ea05c24deb28ea440553e088cb88487791381726a2ba827930c1eff3",
+  "source_bytes": 82576,
+  "published": "2024-08-02",
+  "gazette": "32620",
+  "in_force": "2024-08-02",
+  "in_force_basis": "Resmî Gazete publication date in the official listing (02.08.2024); own commencement article: \"Bu Yönetmelik yayımı tarihinde yürürlüğe girer\"",
+  "commencement_clauses": [
+    "Bu Yönetmelik yayımı tarihinde yürürlüğe girer"
+  ],
+  "history": "current-text",
+  "label": "oldest version available",
+  "checked_on": "2026-11-15",
+  "word_count": 2392,
+  "text_status": "current-consolidated",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  },
+  "source_links": [
+    "7.5.40896%20Ek.doc"
+  ],
+  "completeness": "html-text-complete; linked annexes not fetched"
+}
