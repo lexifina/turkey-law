@@ -1,0 +1,21 @@
+{
+  "record_type": "parliament-written-question",
+  "term": 28,
+  "legislative_year": 2,
+  "esas_no": "7/14870",
+  "submitted": "2024-08-02",
+  "submitted_as": "Başkanlığa geliş tarihi",
+  "mp": "Ali KARAOBA",
+  "province": "Uşak",
+  "summary": "TFF'nin görev alanına giren çeşitli konularda yaptığı çalışmalara ilişkin",
+  "status": "Cevaplanmadığı Gelen Kağıtlarda İlan Edildi",
+  "status_as_of": "2026-11-16",
+  "official_record": "https://www.tbmm.gov.tr/Denetim/Yazili-Soru-Onergesi-Detay/56d9f08d-8da7-4509-9794-01912167e13c",
+  "source": "https://tbmm.gov.tr/Denetim/YaziliSoruOnergesiTable",
+  "source_form": "https://tbmm.gov.tr/Denetim/Yazili-Soru-Onergeleri",
+  "source_sha256": "5685145a55e31649a950f37e1140d7efb9dce8e55330624ac591d4c4665b9a95",
+  "in_force": "2024-08-02",
+  "in_force_basis": "Date the question reached the Speaker (Başkanlığa geliş tarihi) in the official TBMM written-question record; parliamentary oversight record, not law",
+  "history_type": "metadata",
+  "text_status": "metadata-only: question text, addressee and answers are in the linked official record (PDFs on cdn.tbmm.gov.tr); not transcribed here"
+}
