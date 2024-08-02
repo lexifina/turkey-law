@@ -1,0 +1,4 @@
+KOOPBİS yetkililerinin veri girişi ve bildirim yükümlülüğü
+GEÇİCİ MADDE 2 – (1) (Değişik:RG-28/2/2023-32118) KOOPBİS yetkilileri; kooperatifin, ticaret sicili kayıtlarını, finansal tablolarını, yönetim kurulu yıllık faaliyet raporlarını, genel kurul toplantı evrakını, gayrimenkul durumunu, ortakların kimlik, iletişim, pay ve ödemelerine ilişkin bilgilerini KOOPBİS’in kurulmasını müteakip, 17 nci maddenin ikinci fıkrasında yer alan süre içinde KOOPBİS’e aktarır.
+(2) (Mülga:RG-28/2/2023-32118)
+(3) (Değişik:RG-28/2/2023-32118) 17 nci maddenin ikinci fıkrasında yer alan süre sona erinceye kadar, genel kurul toplantısına katılma hakkını haiz ortakları gösteren listelerin KOOPBİS üzerinden üretilmesine ve 11 inci maddede düzenlenen veri girişi ve bildirimlere ilişkin yükümlülüklerin ihlali halinde Kanunun ek 2 nci maddesinin birinci fıkrasının (4) numaralı bendi uyarınca 17 nci maddenin birinci fıkrasında yer alan idari para cezası uygulanmaz.

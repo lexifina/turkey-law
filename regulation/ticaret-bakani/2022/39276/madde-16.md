@@ -1,0 +1,4 @@
+Diğer hükümler
+MADDE 16 – (1) KOOPBİS’e erişimin fiilen mümkün olmadığı hallerde Genel Müdürlük veya İl Müdürlüğü durumu tutanak altına alarak daha sonra elektronik ortama aktarmak üzere işlemleri fiziki ortamda gerçekleştirir.
+(2) (Ek:RG-2/8/2024-32620)(2) Genel kurul toplantısına katılmaya hak kazanmış olan ortakları gösteren liste olarak yalnızca Kanunun 45 inci maddesinin altıncı fıkrasına uygun olarak KOOPBİS’ten üretilecek ortaklar listesi kullanılabilir. Ortaklar listesinde; ortağın adı ve soyadını, TCKN’sinin son dört hanesini, ortaklık numarasını, gerçek/tüzel kişilik tipini ve vekilini/temsilcisini, pay adetlerini, adresleri ile asaleten ve vekaleten imza yerlerini gösteren alanlar bulunur. Bu listede kayıtlı olmayan kişiler genel kurul toplantısına katılamaz.
+(3) Bu Yönetmeliğin uygulanmasına ilişkin diğer usul ve esaslar Bakanlıkça belirlenir.

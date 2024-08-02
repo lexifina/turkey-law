@@ -1,0 +1,2 @@
+Dayanak
+MADDE 3 – (1) Bu Yönetmelik; 24/4/1969 tarihli ve 1163 sayılı Kanunun 24 üncü ve ek 5 inci maddeleri, 18/4/1972 tarihli ve 1581 sayılı Tarım Kredi Kooperatifleri ve Birlikleri Kanunun 20 nci maddesi, 1/6/2000 tarihli ve 4572 sayılı Tarım Satış Kooperatif ve Birlikleri Hakkında Kanunun 3 üncü ve 8 inci maddeleri ile 10/7/2018 tarihli ve 30474 sayılı Resmî Gazete’de yayımlanan 1 sayılı Cumhurbaşkanlığı Teşkilatı Hakkında Cumhurbaşkanlığı Kararnamesinin 453 üncü maddesinin birinci fıkrasının (ğ) ve (h) bentlerine dayanılarak hazırlanmıştır.
