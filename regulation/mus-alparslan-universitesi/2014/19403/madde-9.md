@@ -1,0 +1,2 @@
+Giriş sınavı sonuçlarının ilanı
+MADDE 9 – (1) Giriş sınavı sonuçları, jüri başkanı tarafından ilgili enstitü müdürlüğüne teslim edilir. Lisansüstü programlarına kabul edilen öğrencilerin asıl ve yedeklerden oluşan listeleri, giriş sınavının yapıldığı tarihten itibaren en geç üç gün içinde, yönetim kurulu kararıyla kesinleştirilerek, Üniversitenin internet sayfasında veya ilan panolarına asılmak suretiyle ilan edilir.

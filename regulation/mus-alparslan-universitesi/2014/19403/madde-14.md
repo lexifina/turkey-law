@@ -1,0 +1,7 @@
+Doktora programı başvuru şartları
+MADDE 14 – (1) Doktora programlarına başvurmak isteyen adayların; bir yüksek lisans diplomasına veya hazırlık sınıfları hariç en az on yarıyıl süreli tıp, diş hekimliği, veteriner fakülteleri diplomasına, Sağlık Bakanlığınca düzenlenen esaslara göre bir laboratuar dalında kazanılan uzmanlık yetkisine sahip olmaları gerekir.
+(2) ALES sınavından veya Yükseköğretim Kurulu tarafından ALES sınavına denk sayılan bir sınavdan, programın puan türünde, Yükseköğretim Kurulunca ilan edilen standart puandan az olmamak şartıyla Senatonun belirlediği puanı almış olmak gerekir.
+(3) Lisans derecesiyle doktora programına başvuranların lisans mezuniyet not ortalamalarının 4 üzerinden en az 3, ALES puanlarının ise en az 80 olması gerekir.
+(4) Adayların Üniversitelerarası Kurulun belirlediği yabancı dil sınavından en az 55 puan veya Üniversitelerarası Kurulca kabul edilen sınavlardan bu puana eşdeğer bir puan, yabancı uyruklu öğrencilerin ise ana dilleri dışında Üniversitelerarası Kurulca kabul edilen bir sınavdan bu puana eşdeğer bir puan almış olması gerekir.
+(5) Yabancı dil ve edebiyatı anabilim dalı programlarına başvuran adayların, bu programın dili dışındaki başka bir yabancı dilden, en az 55 puan veya Üniversitelerarası Kurulca kabul edilen sınavlardan bu puana eşdeğer bir puan almış olması gerekir.
+(6) Senato, ilgili mevzuat çerçevesinde, başvuru için başka şartlar koyabilir.

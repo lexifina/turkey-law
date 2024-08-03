@@ -1,0 +1,3 @@
+Tez konusu belirleme, değiştirme
+MADDE 30 – (1) (Değişik:RG-9/5/2017-30061) Bir öğrenci tez konusunu en geç ikinci yarıyılın sonuna kadar enstitüye önerir. Tez konusu önerisi öğrencinin danışmanı tarafından hazırlanan gerekçeli raporla birlikte, anabilim dalı başkanlığı kanalıyla kurul kararı alınarak ilgili enstitüye gönderilir. Tez konusu, Yönetim Kurulu tarafından onaylandıktan sonra kesinleşir.
+(2) Tez konusu değişikliği, öğrencinin talebi, danışmanın onayı ile birinci fıkrada belirtilen usulle yapılabilir. Tez konusu değişen öğrenci, değişiklik tarihinden itibaren altı aydan önce tezini teslim edemez.

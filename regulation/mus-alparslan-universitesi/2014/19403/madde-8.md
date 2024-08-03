@@ -1,0 +1,2 @@
+Aday değerlendirme jürileri
+MADDE 8 – (1) Yönetim kurulu, giriş sınavını yapmak ve adaylar arasındaki bilimsel sıralamayı belirlemek üzere, ilgili anabilim dalı kurulunun önerisini de dikkate alarak; ilgili anabilim dalının, yoksa yakın anabilim dallarının öğretim üyeleri arasından her anabilim dalı veya program için, biri başkan olmak üzere, üç asıl ve bir yedek üyeden oluşan aday değerlendirme jürisi oluşturur.

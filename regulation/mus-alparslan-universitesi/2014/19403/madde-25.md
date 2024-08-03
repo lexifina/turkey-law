@@ -1,0 +1,6 @@
+Tez danışmanı
+MADDE 25 – (1) (Değişik:RG-18/11/2015-29536) Tezli yüksek lisans ve doktora programlarında, anabilim dalı kurulunun önerisi ve Yönetim Kurulunun kararı ile en geç birinci yarıyılın sonuna kadar, her öğrenci için bir tez danışmanı görevlendirilir.
+(2) (Değişik:RG-20/3/2018-30366) Tez danışmanı, Üniversite kadrosundaki öğretim üyeleri arasından görevlendirilir. Tez çalışmasının niteliğinin birden fazla tez danışmanı gerektirdiği durumlarda, birinci danışmanın teklifi, anabilim dalı kurulunun görüşü ve Yönetim Kurulunun kararı ile ikinci tez danışmanı görevlendirilebilir. İkinci tez danışmanı Üniversite kadrosu dışından da en az doktora derecesine sahip kişilerden olabilir.
+(3) (Değişik:RG-3/8/2024-32621) Tez danışmanı, bu Yönetmelik hükümlerinde belirtilen görevlerinin yanı sıra, öğrencinin öğrenimi süresince alacağı dersleri belirlemek, tez çalışmasını yönetmek ve yönlendirmek, gerektiğinde idari birimler ile ilişkilerinde aracılık yapmakla yükümlüdür.
+(4) Bir öğrencinin danışmanı; anabilim dalı kurulunun gerekçeli önerisi üzerine, mevcut danışmanın görüşü de dikkate alınarak, yönetim kurulu kararı ile değiştirilebilir.
+(5) Danışmanlık görevlerini mazeretsiz yerine getirmeyen öğretim elemanlarına, yönetim kurulu kararı ile yeni danışmanlık görevi verilmeyebilir.

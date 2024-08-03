@@ -1,0 +1,6 @@
+Dersler ve krediler
+MADDE 34 – (1) (Değişik:RG-6/4/2023-32155) Tezsiz yüksek lisans programı toplam 30 kredi ve 60 AKTS kredisinden az olmamak şartıyla en az on adet ders ile dönem projesi dersinden oluşur. Bir öğrenci bir yarıyılda en fazla 36 AKTS kredilik derse kayıt yaptırabilir.
+(2) Öğrenci, dönem projesinin alındığı yarıyılda dönem projesine kayıt yaptırmak ve yarıyıl sonunda ilgili enstitünün belirlediği yazım kurallarına uygun olarak hazırladığı dönem projesi çalışmasının bir nüshasını, enstitüye iletilmek üzere anabilim dalı başkanlığına teslim etmek zorundadır.
+(3) Öğrencinin alacağı derslerin en çok üç tanesi, lisans öğrenimi sırasında alınmamış olması şartıyla, lisans derslerinden seçilebilir.
+(4) Tezsiz yüksek lisans programına devam eden öğrenciler, Üniversitenin tezli yüksek lisans programı için belirlenmiş olan asgari şartları yerine getirmeleri kaydıyla, tezli yüksek lisans programına geçiş yapabilirler. Söz konusu geçiş ile ilgili esaslar Senato tarafından belirlenir.
+(5) Tezli yüksek lisans programına geçişi kabul edilen öğrencinin, tezsiz yüksek lisans programında aldığı derslerden, anabilim dalının teklifi ve yönetim kurulunun uygun gördükleri, tezli yüksek lisans programındaki derslerin yerine sayılabilir.
