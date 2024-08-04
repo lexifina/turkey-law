@@ -1,0 +1,40 @@
+{
+  "source_id": "9.5.21509",
+  "kind": "communique",
+  "register_kind": "Tebliğler",
+  "title": "ULUSAL MESLEK STANDARTLARINA DAİR TEBLİĞ (TEBLİĞ NO: 2016/5)",
+  "number": "21509",
+  "issuer": "Meslekî Yeterlilik Kurumu Başkanı",
+  "path": "teblig/2016/21509",
+  "source": "https://www.mevzuat.gov.tr/anasayfa/MevzuatFihristDetayIframe?MevzuatTur=9&MevzuatNo=21509&MevzuatTertip=5",
+  "source_sha256": "524c9083ca25d1ffedc286aef33f14634533a0c6a0fe060a383950848c4a54bf",
+  "source_bytes": 15842,
+  "published": "2016-04-18",
+  "gazette": "29688 Mükerrer",
+  "in_force": "2024-08-04",
+  "in_force_basis": "latest Resmî Gazete date printed in the source amendment notes/table (\"4/8/2024\") for the current consolidated text",
+  "date_evidence": [
+    [
+      "2024-08-04",
+      "4/8/2024",
+      "Resmî Gazete date in the source amendment table"
+    ]
+  ],
+  "commencement_clauses": [
+    "Bu Tebliğ yayımı tarihinde yürürlüğe girer"
+  ],
+  "history": "current-text",
+  "label": "oldest version available",
+  "checked_on": "2026-11-15",
+  "word_count": 219,
+  "text_status": "current-consolidated",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  },
+  "source_links": [
+    "9.5.21509-EK.zip"
+  ],
+  "completeness": "html-text-complete; linked annexes not fetched"
+}
