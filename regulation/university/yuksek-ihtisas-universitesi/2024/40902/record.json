@@ -1,0 +1,31 @@
+{
+  "act_path": "regulation/university/yuksek-ihtisas-universitesi/2024/40902",
+  "availability": "text",
+  "checked_on": "2026-11-14",
+  "commencement_clauses": [
+    "MADDE 16- (1) Bu Yönetmelik yayımı tarihinde yürürlüğe girer."
+  ],
+  "date_quote": "MADDE 16- (1) Bu Yönetmelik yayımı tarihinde yürürlüğe girer.",
+  "first_law": null,
+  "gazette": "32622",
+  "history": "as-enacted",
+  "images": {
+    "deferred": 0,
+    "omitted": 0,
+    "referenced": 0,
+    "source": 0
+  },
+  "in_force": "2024-08-04",
+  "in_force_basis": "source commencement clause: effective on Gazette publication",
+  "issuer": "Yüksek İhtisas Üniversitesi",
+  "issuer_slug": "yuksek-ihtisas-universitesi",
+  "kind": "regulation",
+  "published": "2024-08-04",
+  "source": "https://www.mevzuat.gov.tr/anasayfa/MevzuatFihristDetayIframe?MevzuatTur=8&MevzuatNo=40902&MevzuatTertip=5",
+  "source_id": "8.5.40902",
+  "source_sha256": "0be20418bff92806e2fbda109217da0ab8c92858dfa7fbdc39dda93876ccf409",
+  "title": "YÜKSEK İHTİSAS ÜNİVERSİTESİ YAŞLILIK ÇALIŞMALARI UYGULAMA VE ARAŞTIRMA MERKEZİ YÖNETMELİĞİ",
+  "university_id": 463,
+  "version_label": "oldest version available",
+  "word_count": 1127
+}
