@@ -1,0 +1,5 @@
+Geçme esası ve işleyişi
+MADDE 17- (Değişik:RG-5/8/2024-32623)
+(1) Fakültede eğitim-öğretim, sınıf geçme esasına göre yapılır. Her eğitim-öğretim yılında uygulanan zorunlu dersler bir sonraki yılın ön koşuludur. Ortak zorunlu dersler dışındaki herhangi bir dersten başarısız olan öğrenci, üst sınıfa geçemez, ders taşıyamaz. Takip eden eğitim-öğretim yılında başarısız olduğu dersi/dersleri tekrar almak ve aldığı derse/derslere devam etmek zorundadır. Devamsızlıktan kalmamış olmak şartıyla, ortak zorunlu derslerden kalan öğrenciler, bir üst sınıfa geçebilirler ve sonraki yıl o dersin yalnızca yılsonu ve bütünleme sınavlarına girerler.
+(2) Diş hekimliği pratiğine yönelik uygulamalı (preklinik) derslerden barajı tamamlayamayan veya klinik ders yükü pratik uygulamalarında başarılı olamayan öğrenciler bu dersi bir üst sınıfa taşıyamazlar.
+(3) Fakülte Kurulunun önerisi ve Senatonun onayı ile eğitim-öğretim programında yer alan dersler ile programın uygulanmasına yönelik düzenlemeler yapılabilir.

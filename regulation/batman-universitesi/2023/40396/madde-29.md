@@ -1,0 +1,3 @@
+Yatay geçişler
+MADDE 29- (Değişik:RG-5/8/2024-32623)
+(1) Fakülteye yapılacak kurumlar arası yatay geçişler; 24/4/2010 tarihli ve 27561 sayılı Resmî Gazete'de yayımlanan Yükseköğretim Kurumlarında Önlisans ve Lisans Düzeyindeki Programlar Arasında Geçiş, Çift Anadal, Yan Dal ile Kurumlar Arası Kredi Transferi Yapılması Esaslarına İlişkin Yönetmelik hükümlerine ve Senato kararlarına göre düzenlenir. Fakülteye yatay geçiş, kontenjan sınırları içinde gerçekleştirilir. Fakülteye yatay geçiş ile gelmek isteyen öğrencilerin, gelmek istedikleri sınıfın öncesindeki dönemlere ait Fakülte eğitim-öğretim yılı müfredatlarında yer alan bütün dersleri almış ve başarılı olarak geçmiş olması gerekir.
