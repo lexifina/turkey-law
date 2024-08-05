@@ -1,0 +1,2 @@
+Kayıt dondurma
+MADDE 22 – (1) Öğrenciler; önemli nedenleri veya eğitim-öğretimlerine katkıda bulunacak Üniversite dışı burs, staj, araştırma ve benzeri imkânların ortaya çıkmasını belgelendirmek şartıyla, ilgili yönetim kurulu kararı ile bir defada bir ya da iki yarıyıla kadar olmak üzere, öğrenim süresi boyunca en fazla dört yarıyıl/iki yıl kayıt dondurabilir. Bu şekilde kayıt donduran öğrenci, kayıt dondurduğu yarıyıl/yılda öğrenimine devam edemez ve kayıt dondurduğu yarıyılı/yılı izleyen sınav dönemindeki sınavlara ve bütünleme sınavlarına giremez.

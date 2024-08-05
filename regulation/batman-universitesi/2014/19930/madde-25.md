@@ -1,0 +1,2 @@
+İzin
+MADDE 25 – (1) Kültürel ve sportif faaliyetlere Üniversite adına katılacaklar ile 3289 sayılı Spor Genel Müdürlüğünün Teşkilat ve Görevleri Hakkında Kanunun ilgili maddesine göre yurt içinde ve yurt dışında müsabakalara ve bunların hazırlık çalışmalarına katılmaları Rektörlükçe uygun görülerek görevlendirilen öğrenciler, görevlendirilme süresi içerisinde giremedikleri ders veya ara sınavlar için izinli sayılır.

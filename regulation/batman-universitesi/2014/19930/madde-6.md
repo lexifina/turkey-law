@@ -1,0 +1,4 @@
+Eğitim-öğretim süresi
+MADDE 6 – (1) Ön lisans ve lisans düzeyinde öğrenim gören öğrencilere tanınan azami süreler; normal öğrenim süresi iki yıllık ön lisans programları için dört yıl, dört yıllık lisans programları için yedi yıl, beş yıllık lisans programları için sekiz yıldır. Hazırlık sınıfları, belirtilen sürelere dahil değildir.
+(2) Öğrencilerin, öğrenimlerini azami süreler içinde tamamlamaları gerekir. Azami öğrenim süresi sonunda mezun olamayan öğrenciler, 2547 sayılı Kanunda belirtilen koşullara göre ilgili döneme ait öğrenci katkı payı veya öğrenim ücretlerini ödemek koşulu ile öğrenimlerine devam etmek için kayıt yaptırabilir. Bu durumda, ders ve sınavlara katılma hariç, öğrencilere tanınan diğer haklardan yararlanmadan öğrencilik statüleri devam eder.
+(3) Öğrenim süresinin hesaplanmasında kayıt dondurma süreleri dikkate alınmaz; ancak Üniversiteden uzaklaştırma cezası alan öğrencilerin cezalı geçirdikleri süreler öğrenim süresine dahil edilir.

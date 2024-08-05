@@ -1,0 +1,5 @@
+Kayıt işlemleri
+MADDE 9 – (1) Üniversitenin eğitim-öğretim programlarına kabul edilen öğrencilerin ilk kayıt işlemleri, Öğrenci İşleri Daire Başkanlığınca ve Rektörlük onayı ile belirlenen günlerde yapılır. Kayıt için istenen belgelerin aslı veya aslını ibraz etmek şartı ile Üniversite tarafından onaylı örneği kabul edilir. Askerlik durumu ve adli sicil kaydına ilişkin olarak ise adayın beyanına dayanılarak işlem yapılır. Kayıt için zamanında başvurmayan veya istenen belgeleri zamanında sağlamayan öğrenciler Üniversiteye kayıt haklarını kaybeder.
+(2) Özel yetenek sınavı ile öğrenci kabul eden birimler, ÖSYM’nin belirlediği belgeler dışında da belge isteyebilir.
+(3) Öğrenci, kesin kaydını kendisi yaptırmak zorundadır. Ancak, mazeretleri sebebiyle bizzat başvuramayan adaylar, mazeretlerini belirtmek şartıyla vekâlet verdikleri kişiler aracılığı ile kayıt yaptırabilir.
+(4) Gerçeğe aykırı beyanda bulunanlar ile belgelerinde noksanlık veya tahrifat olanların, kesin kayıtları yapılmış olsa bile kayıtları iptal edilir.
