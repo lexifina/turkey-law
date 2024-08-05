@@ -1,0 +1,3 @@
+Öğrenci statüsü ve kayıt yenileme
+MADDE 6- (1) Öğrenci, her eğitim-öğretim yılı başında akademik takvimde gösterilen süre içerisinde yükümlülüğü varsa öğrenci katkı payını yatırarak kaydını yenilemek zorundadır. Ders kayıtları, öğrencinin sorumluluğunda olmakla birlikte, bu kayıtların geçerli olabilmesi için akademik danışmanın da onayı aranır.
+(2) Kayıt yenilenmeyen yıl veya yarıyıl, öğrenim süresinden sayılır. Öğrenci, Fakülte Yönetim Kurulu tarafından mazereti geçerli olarak kabul edilmediği takdirde, kayıt yenilemediği dönem içerisinde öğrencilik haklarından yararlanamaz. İlgili dönemdeki derslere veya ders kapsamındaki etkinliklere katılamaz ve sınavlara giremez.

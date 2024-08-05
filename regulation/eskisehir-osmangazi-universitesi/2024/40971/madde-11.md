@@ -1,0 +1,3 @@
+Akademik danışmanlık
+MADDE 11- (1) Öğrencilerin eğitim-öğretim ve yönetimle ilgili sorunlarının çözümüne yardımcı olmak ve öğrencileri yönlendirmek üzere, öğretim yılı başlamadan önce Dekanlık kararıyla öğretim elemanları arasından akademik danışmanlar görevlendirilir.
+(2) Yıllık veya seçimlik bir dersin alınabilmesi için 9 uncu maddeye göre hazırlanan eğitim-öğretim planlarına ve 14 üncü maddeye uyulması zorunludur. Buna uyulmadan öğrencinin herhangi bir şekilde o dersi aldığının tespiti hâlinde, öğrencinin ilgili ders kaydı silinir; seçmeli dersler bakımından öğrencinin tercihi ve ders kontenjanının elverişliliğine göre öğrenciye bir başka ders verilir.

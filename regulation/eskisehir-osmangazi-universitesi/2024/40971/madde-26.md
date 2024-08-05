@@ -1,0 +1,6 @@
+Kayıt dondurma (akademik izin)
+MADDE 26- (1) Eğitim-öğretimin aksaması sonucunu doğuracak olaylar yüzünden haklı ve geçerli nedenlerinin varlığını belgeleyen öğrenci, Fakülte Yönetim Kurulu kararıyla bir defada en fazla iki yarıyıl ve öğrenim süresi boyunca toplam olarak en fazla dört yarıyıl kayıt dondurabilir. Sürekli sağlık sorunlarını bir sağlık kuruluşundan alınan heyet raporu ile belgeleyenler bu süre kısıtlamasının dışındadır. Kayıt dondurma için haklı ve geçerli sayılan nedenler Senato tarafından çıkarılan yönergeye göre belirlenir.
+(2) Öğrenci, akademik izin talebi için yarıyılın başlangıcından itibaren ilk dört hafta içerisinde haklı ve geçerli nedenlere uygun mazeretini belgelendirmek kaydıyla dilekçe ile başvuruda bulunur. Sağlık ya da beklenmedik haller sebebiyle yapılacak başvurular bu süre kısıtlamasının dışındadır.
+(3) Güz yarıyılında ders kaydını yaptıktan sonra kayıt donduran öğrencinin yıllık ve seçmeli derslerden kaydı silinir.
+(4) Bahar yarıyılında ders kaydını yaptıktan sonra kaydını donduran öğrencinin yıllık derslerden ve bahar yarıyılında almış olduğu seçmeli derslerden kaydı silinir. Öğrencinin güz yarıyılında alıp, notlandırılması yapılmış olan seçmeli dersleri ise aynen kalır.
+(5) Kayıt donduran öğrenci, derslere devam edemez ve öğrencilik haklarından yararlanamaz.

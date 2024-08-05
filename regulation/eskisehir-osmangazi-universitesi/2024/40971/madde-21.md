@@ -1,0 +1,4 @@
+Başarı notunun belirlenmesi
+MADDE 21- (1) Bir dersteki başarı durumu, ara sınav, yarıyıl (dönem) veya yıl sonu final yahut bütünleme sınavının not ortalamalarının beraber değerlendirilmesi ile belirlenir.
+(2) Bir dersin başarı notu, yıl içerisinde yapılacak olan ara sınavın ağırlığına göre elde edilecek olan notların %40’ı ve ilgili dersin final yahut bütünleme sınav notunun %60’ının toplanmasıyla elde edilen nottur. Bu oranların hesabında kesirler aynen korunur. Başarı notunun hesabında buçuklu sayılar tam sayıya tamamlanır. Öğrencinin girmediği sınavlarının notları, ortalama hesaplamasında sıfır (0) olarak değerlendirilir. Bir dersten geçebilmek için başarı notu, en az 60 puan (CC) olmak zorundadır.
+(3) Öğrencinin bir dersten başarılı olabilmesi için ara sınavın notuna bakılmaksızın final veya bütünleme sınavından en az 60 puan alması ve başarı harf notunun CC olması gerekir.

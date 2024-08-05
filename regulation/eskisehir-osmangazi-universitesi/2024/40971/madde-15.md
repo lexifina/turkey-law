@@ -1,0 +1,3 @@
+Devam zorunluluğu
+MADDE 15- (1) Öğrenciler derslerin en az % 70’ine devam etmek zorundadır. Öğrencinin devam durumu, Dekanlıkça tespit edilen usul ve esaslara göre öğretim elemanları tarafından belirlenir. Sağlık raporu, öğrencinin devam yükümlülüğünü ortadan kaldırmaz. Önceki yarıyıllarda/yıllarda alınarak devam şartı yerine getirilen ve tekrar alınan derslerde devam şartı aranmaz.
+(2) Derse devam zorunluluğunu yerine getirmeyen öğrenci, yıllık dersler bakımından yıl sonu sınavlarına, seçmeli dersler bakımından ise yarıyıl (dönem) sonu sınavlarına alınmaz ve o dersten başarısız olmuş sayılır. Öğrenci, devamsızlıktan kaldığı dersin bütünleme sınavına giremez.

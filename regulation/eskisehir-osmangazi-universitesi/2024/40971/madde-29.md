@@ -1,0 +1,8 @@
+ALTINCI BÖLÜM
+Ders Eşdeğerliği, Muafiyeti ve İntibakı
+Ders muafiyeti
+MADDE 29- (1) Fakülteye ilk kez kayıt yaptıran öğrenci, ders kayıt süresi içinde, daha önceden diğer yükseköğretim kurumlarından almış ve başarmış olduğu tüm dersler için muafiyet talebinde bulunabilir.
+(2) Herhangi bir ön lisans ile hukuk fakültesi dışındaki bir lisans programından mezun olmuş veya dikey geçişle Fakülteye başlama hakkı elde eden öğrencinin, ilgili ön lisans veya hukuk fakültesi dışındaki lisans eğitimi sırasında almış olduğu dersler, seçmeli dersler bakımından eş değer ders kabul edilebilir ve öğrenciye muafiyet verilebilir.
+(3) Başka bir yükseköğretim kurumunun hukuk fakültesi lisans programından Fakülteye, yatay geçiş yoluyla devam etme hakkı elde eden öğrencinin, önceki yükseköğretim kurumundan aldığı bir dersten muaf sayılabilmesi için; muafiyet talebinde bulunulan dersin başarı notunun en az CC harf notu veya karşılığı olması ve bu dersten şartlı bir şekilde geçmemiş olması gerekir. Muafiyet talebinin kabulü, önceki yükseköğretim kurumundan alınan dersin AKTS’sinin muafiyet talebinde bulunulan derse eşdeğer yahut o dersten fazla olmasına bağlıdır. Öğrencinin daha önceki öğrenimlerinde almış olduğu derslerden muafiyet hakkı verilenlerin notları, transkriptlerinde gösterilir ve akademik ortalamaya dâhil edilir.
+(4) Yurt içi veya yurt dışı eğitim öğretim hareketliliği veya değişim programları çerçevesinde alınmış olan dersler bakımından öğrenciye muafiyet verilmesinde, ikinci ve üçüncü fıkralar ile 25 inci maddenin ikinci fıkrası hükümleri çerçevesinde işlem yapılır.
+(5) Bu Yönetmelikte belirtilen hususlar dışında kalan hallerde, Senatonun ders eşdeğerlilik ve intibak esasları ile ilgili kararı dikkate alınır.

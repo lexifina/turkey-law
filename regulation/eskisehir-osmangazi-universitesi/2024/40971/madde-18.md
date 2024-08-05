@@ -1,0 +1,3 @@
+Yarıyıl (dönem) sonu ve yıl sonu final sınavları ile bütünleme sınavı
+MADDE 18- (1) Dönem sonu final sınavı, seçmeli ve dönemlik olan dersler için ilgili güz veya bahar dönemi sonunda; yıl sonu final sınavı, zorunlu ve yıllık dersler için bahar döneminin sonunda, derslerin bitimini takiben yapılan sınavdır.
+(2) Bütünleme sınavı, ilgili dersin final sınavı sonucunda başarısız olan öğrenci için yapılan sınavdır. Bu sınava, dönem sonu veya yıl sonu final sınavına girme hakkına sahip olup da sınava girmeyen veya dönem sonu yahut yıl sonu final sınavına girdiği halde başarısız olan öğrenci girebilir.
