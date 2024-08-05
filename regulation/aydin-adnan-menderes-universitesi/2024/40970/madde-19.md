@@ -1,0 +1,10 @@
+Eğitim süresi
+MADDE 19- (1) Eğitim süresine ilişkin esaslar şunlardır:
+a) Ön Lisans eğitimi; dört yarıyıl ya da iki yıl sürelidir ve eğitimini tamamlayanlara ön lisans diploması verilir.
+b) Lisans eğitimi; sekiz yarıyıl ya da dört yıl sürelidir ve eğitimini tamamlayanlara lisans diploması verilir.
+c) Diş Hekimliği Fakültesi eğitimi; on yarıyıl ya da beş yıl sürelidir ve eğitimini tamamlayanlara diş hekimliği diploması verilir. Diş hekimliği diplomasında program ve derece belirtilir.
+ç) Veteriner Fakültesi eğitimi; on yarıyıl ya da beş yıl sürelidir ve eğitimini tamamlayanlara veteriner hekim diploması verilir. Veteriner hekim diplomasında program ve derece belirtilir.
+d) Tıp Fakültesi eğitimi; on iki yarıyıl ya da altı yıl sürelidir ve eğitimini tamamlayanlara tıp doktoru diploması verilir. Tıp doktoru diplomasında program ve derece belirtilir.
+(2) Hazırlık eğitimi süresi azami iki yıldır. Bu süre, öğrencinin kayıtlı olduğu eğitim programı süresine dâhil değildir. Üniversitede öğretim dili tamamen veya kısmen yabancı dil olan programların hazırlık sınıfı eğitiminin ikinci yılında bulunan öğrencilerden, bahar yarıyılı veya yaz okulu sonunda yapılacak olan yabancı dil yeterlik sınavından başarılı olamayanların kayıtlı oldukları programdan ilişiği kesilir. İlişiği kesilen söz konusu öğrenciler, Üniversitede öğretim dili Türkçe olan eşdeğer bir programa kayıt yaptırabilirler. Ayrıca bu öğrenciler, Üniversitede eşdeğer program bulunmaması hâlinde talep etmeleri durumunda ÖSYM tarafından bir defaya mahsus olmak üzere kayıt yaptırdığı yıl itibarıyla, üniversiteye giriş puanının, yerleştirileceği programa kayıt yaptırmak için aranan taban puanından düşük olmaması şartıyla öğretim dili Türkçe olan programlardan birine merkezî olarak yerleştirilebilirler.
+(3) Öğrencinin özel öğrencilikte ve değişim programında geçirdiği süre, eğitim süresine dâhildir.
+(4) Tıp Fakültesi ve meslek yüksekokulu öğrencileri hariç diğer öğrenciler, sorumlu oldukları öğretim programını başarı ile tamamladıkları takdirde, eğitim süresinin dolmasını beklemeden mezun olabilir.

@@ -1,0 +1,4 @@
+DÖRDÜNCÜ BÖLÜM
+Çeşitli ve Son Hükümler
+Hüküm bulunmayan haller
+MADDE 38- (1) Bu Yönetmelikte hüküm bulunmayan hallerde; ilgili mevzuat hükümleri ve Senato kararları uygulanır.

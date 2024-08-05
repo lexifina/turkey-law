@@ -1,0 +1,7 @@
+Dereceye girme ve onur ödülleri
+MADDE 36- (1) Öğrencilerin derece sıralamasına girebilmesi için disiplin cezası almaması ve öğrenimlerini en fazla normal eğitim süresinde, bahar yarıyılı dönem sonu sınavları sonunda tamamlaması gerekir.
+(2) Öğrencilerin GANO’ları esas alınarak derece sıralaması yapılır. Her birim/bölüm/ programda ilk üç sırayı alan öğrenciler birim/bölüm/program birincisi, ikincisi, üçüncüsü olarak mezun olurlar.
+(3) Derece sıralaması öğrencinin not durum çizelgesinde gösterilir ve öğrencinin istemesi halinde ayrıca yazılı belge olarak da verilir.
+(4) 35 inci maddenin dördüncü fıkrasının (c) bendi kapsamındaki öğrencilerin mezuniyet tarihinin, akademik takvimde belirtilen dönem sonu sınavları not girişi bitimi tarihine kadar olması ve söz konusu öğrencilerin aynı zamanda bu maddenin birinci fıkrasındaki şartları taşıması halinde, bu maddenin ikinci fıkrasında belirtilen sıralamaya dahil edilir.
+(5) Disiplin cezası almayan ve öğrenimlerini normal eğitim süresi içerisinde tamamlayarak mezun olan öğrencilerden, GANO’su 3,50-4,00 olanlar yüksek onur, 3,00-3,49 olanlar ise onur öğrencisi sayılırlar. Bu değerlendirmeler not durum çizelgesinde belirtilir.
+(6) Son sınıf/yarıyılda değişim programına (Erasmus+, Mevlana, Farabi, özel öğrenci, yaz okulu ve benzeri) katılan öğrencilerden, beşinci fıkrada yer alan şartları taşıyanlara da mezuniyet tarihi fark etmeksizin beşinci fıkrada belirtildiği şekilde belge düzenlenir.
