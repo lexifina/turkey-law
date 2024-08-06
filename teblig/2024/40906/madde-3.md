@@ -1,0 +1,2 @@
+Dayanak
+MADDE 3- (1) Bu Tebliğ, 1 sayılı Cumhurbaşkanlığı Teşkilatı Hakkında Cumhurbaşkanlığı Kararnamesinin 477 nci maddesinin birinci fıkrasının (m) bendi, 6/10/2005 tarihli ve 5408 sayılı Kanunla onaylanması uygun bulunan 9/5/1980 tarihli Uluslararası Demiryolu Taşımalarına İlişkin Sözleşmenin F Eki APTU'nun 12 nci maddesinin ikinci fıkrası ve 16/7/2015 tarihli ve 29418 sayılı Resmî Gazete’de yayımlanan Demiryolu Araçları Tescil ve Sicil Yönetmeliğinin 5 inci maddesinin birinci fıkrasına dayanılarak hazırlanmıştır.

@@ -1,0 +1,3 @@
+Genel hükümler
+MADDE 5- (1) Gaziray banliyö tren işletmeciliği faaliyetleri kapsamında kullanılacak demiryolu altyapısında çalıştırılacak banliyö araçlarının tip onayında ve tescilinde 18/11/2015 tarihli ve 29536 sayılı Resmî Gazete’de Demiryolu Araçları Tip Onay Yönetmeliği ile Demiryolu Araçları Tescil ve Sicil Yönetmeliğinde belirlenen usul ve esaslar ile birlikte Ek-1'de yer alan değerlendirme kriterleri esas alınır.
+(2) Bu Tebliğ kapsamında belirlenen uygunluk değerlendirme kriterleri, COTIF Sözleşmesinin F Eki APTU'nun 12 nci maddesinin ikinci fıkrası doğrultusunda Ulusal Demiryolu Araç Kurallarına eklenerek Genel Müdürlük tarafından yayımlanır.
