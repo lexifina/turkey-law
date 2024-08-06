@@ -1,0 +1,21 @@
+{
+  "record_type": "parliament-written-question",
+  "term": 28,
+  "legislative_year": 2,
+  "esas_no": "7/15170",
+  "submitted": "2024-08-06",
+  "submitted_as": "Başkanlığa geliş tarihi",
+  "mp": "İskender BAYHAN",
+  "province": "İstanbul",
+  "summary": "Bir üniversite rektörü ile ilgili çeşitli iddialara ilişkin",
+  "status": "Süresi Geçtikten Sonra Cevaplandı",
+  "status_as_of": "2026-11-16",
+  "official_record": "https://www.tbmm.gov.tr/Denetim/Yazili-Soru-Onergesi-Detay/2533fbc2-fb52-4c51-a9e7-01912bd8502a",
+  "source": "https://tbmm.gov.tr/Denetim/YaziliSoruOnergesiTable",
+  "source_form": "https://tbmm.gov.tr/Denetim/Yazili-Soru-Onergeleri",
+  "source_sha256": "c6d1de1d04780d4f1ed8d2cb9f3eca770d07a75c14568fd35a67756602ccd354",
+  "in_force": "2024-08-06",
+  "in_force_basis": "Date the question reached the Speaker (Başkanlığa geliş tarihi) in the official TBMM written-question record; parliamentary oversight record, not law",
+  "history_type": "metadata",
+  "text_status": "metadata-only: question text, addressee and answers are in the linked official record (PDFs on cdn.tbmm.gov.tr); not transcribed here"
+}
