@@ -1,0 +1,2 @@
+Amaç ve kapsam
+MADDE 1- (1) Bu Tebliğin amacı, yerli üretici Şişecam Elyaf San. A.Ş. firması tarafından yapılan ve Beşler Tekstil San. ve Tic. A.Ş. tarafından desteklenen başvuruya istinaden Mısır Arap Cumhuriyeti ve Bahreyn Krallığı menşeli 7019.11, 7019.12, 7019.13, 7019.15 ve 7019.19 gümrük tarife pozisyonları altında sınıflandırılan “cam elyafı takviye malzemeleri”ne yönelik bir damping soruşturması açılması ve açılan soruşturmanın usul ve esaslarının belirlenmesidir.
