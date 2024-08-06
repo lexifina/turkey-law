@@ -1,0 +1,24 @@
+{
+  "number": "meeting-08-06",
+  "number_as_published": "meeting-08-06",
+  "year": 2024,
+  "title": "06.08.2024 KARAR ÖZETİ",
+  "decision_date": "2024-08-06",
+  "source": "https://www.gaziemir.bel.tr/meclis-karar-ve-ozetleri.php?sayfa=12",
+  "official_document": "https://api.gaziemir.bel.tr/06.08.2024-KARAR-OZETI107142557.docx",
+  "source_sha256": "94cea682841d361aebd2700c8cb78b98c50509de8de282c818683d5cd9a811ea",
+  "issuer": "Gaziemir Belediye Meclisi",
+  "history_type": "metadata",
+  "text_status": "metadata-only: listing fields as published; complete decision text is in the linked official document, not transcribed",
+  "in_force": "2024-08-06",
+  "in_force_basis": "Decision date as printed in the official council listing: 06.08.2024; adoption date of the council decision; legal commencement not asserted",
+  "missing": [
+    "complete official decision text",
+    "official annexes"
+  ],
+  "law_text_complete": false,
+  "privacy_withheld": false,
+  "listing_label": "06.08.2024 KARAR ÖZETİ",
+  "record_scope": "one official file of council decisions (meeting)",
+  "posting_date": "08.08.2024"
+}
