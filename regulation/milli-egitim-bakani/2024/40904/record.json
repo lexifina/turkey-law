@@ -1,0 +1,31 @@
+{
+  "source_id": "7.5.40904",
+  "kind": "regulation",
+  "register_kind": "Kurum ve Kuruluş Yönetmelikleri",
+  "title": "TÜRK ÖĞRENCİLERİN YABANCI ÜLKELERDE ÖĞRENİMLERİ HAKKINDA YÖNETMELİK",
+  "number": "40904",
+  "issuer": "Millî Eğitim Bakanı",
+  "issuer_slug": "milli-egitim-bakani",
+  "path": "regulation/milli-egitim-bakani/2024/40904",
+  "source": "https://www.mevzuat.gov.tr/anasayfa/MevzuatFihristDetayIframe?MevzuatTur=7&MevzuatNo=40904&MevzuatTertip=5",
+  "source_sha256": "eda83bee130ffe5d71a8c9b4461acedeb5156e5ea566dcf4b2830b434a90770e",
+  "source_bytes": 97604,
+  "published": "2024-08-06",
+  "gazette": "32624",
+  "in_force": "2024-08-06",
+  "in_force_basis": "Resmî Gazete publication date in the official listing (06.08.2024); own commencement article: \"Bu Yönetmelik yayımı tarihinde yürürlüğe girer\"",
+  "commencement_clauses": [
+    "Bu Yönetmelik yayımı tarihinde yürürlüğe girer"
+  ],
+  "history": "current-text",
+  "label": "oldest version available",
+  "checked_on": "2026-11-15",
+  "word_count": 5979,
+  "text_status": "current-consolidated",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  },
+  "completeness": "html-text-complete"
+}
