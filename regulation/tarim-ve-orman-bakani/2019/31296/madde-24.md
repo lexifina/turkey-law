@@ -1,0 +1,2 @@
+Avrupa Birliği mevzuatına uyum
+MADDE 24 – (1) Bu Yönetmelik Avrupa Birliğinin Üye devletlerin tütün ve ilgili ürünlerin üretimi, sunumu ve satışına ilişkin kanun, ikincil düzenleme ve idari hükümlerinin yakınlaştırılması ile ilgili ve 2001/37/AT sayılı Direktifi yürürlükten kaldıran 3/4/2014 tarihli ve 2014/40/AB sayılı Avrupa Parlamentosu ve Konsey Direktifi hükümlerine uyum çerçevesinde hazırlanmıştır.

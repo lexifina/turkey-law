@@ -1,0 +1,2 @@
+Piyasaya arz uygunluk belgelerinin güncellenmesi için başvuru
+GEÇİCİ MADDE 1 – (1) Üreticiler, bu Yönetmeliğe uyum amacıyla yapacakları piyasaya arz uygunluk belgesi güncelleme başvurularını en geç (Değişik ibare:RG-27/6/2019-30814) 5/12/2019 tarihine kadar yapabilirler. Bu süre içinde güncelleme izni başvurusu yapılmayan piyasaya arz uygunluk belgeleri (Değişik ibare:RG-27/6/2019-30814) 6/12/2019 tarihi itibarıyla iptal edilmiş sayılır.

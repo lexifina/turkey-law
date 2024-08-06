@@ -1,0 +1,15 @@
+Girdi ve emisyonların bildirilmesi ile raporlamalar
+MADDE 7 – (1) Üreticiler her bir mamulat çeşidi için piyasaya arz izni öncesinde ve yıllık olarak aşağıda belirtilen bilgileri Bakanlığa verir. Yıllık bildirimler en geç müteakip yılın Ocak ayı sonuna kadar Bakanlığa iletilir.
+a) Tütün mamulleri üretiminde kullanılan ve tütün mamullerinde yer alan tüm girdilerin ağırlıklarına göre azalan miktarlarının Bakanlık tarafından belirlenen formatta listesi.
+b) 5 inci maddede belirtilen emisyon seviyeleri.
+c) Varsa, diğer emisyonlar ve seviyelerine ilişkin bilgi.
+(2) Üreticiler, piyasaya arz edilen tütün mamullerinin girdi ve emisyonlarında değişiklik yapmak istediklerinde Bakanlıktan gerekli izni alır.
+(3) Birinci fıkra kapsamında istenen girdi listesi, her bir girdinin dahil edilmesinin nedenini açıklayan beyanı da içerir. Yıllık girdi bildirim listesinin düzenlenmesine ilişkin usul ve esaslar Bakanlık tarafından belirlenir.
+(4) Üreticiler, birinci fıkra kapsamında istenen girdi listesine ilaveten girdinin yanmış ya da yanmamış durumları ile ilgili olan, özellikle de bunların tüketicinin sağlığı üzerindeki etkilerini belirten ve diğer verilerin yanı sıra her türlü bağımlılık yapıcı etkiyi dikkate alan toksikolojik verileri Bakanlığa iletir.
+(5) Üreticiler, birinci fıkra kapsamında istenen girdi listesi ekinde, kullanılan katkı maddelerinin genel bir açıklamasını ve özelliklerini belirten teknik dokümanı Bakanlığa verir. Teknik dokümanın düzenlenmesinin ve bildirilmesinin usul ve esasları Bakanlık tarafından belirlenir.
+(6) Üreticiler bu madde kapsamında Bakanlığa yaptıkları bildirimlerde kullandıkları emisyon ölçüm yöntemlerini belirtir. Bakanlık; bağımlılık yapıcılığı, toksisiteyi ve diğer etkileri dikkate alarak girdilerin tüketici sağlığına etkisini değerlendirmek için üreticilerin çalışma yapmasını gerekli kılabilir.
+(7) Bu madde ve 8 inci maddenin birinci fıkrasına uygun olarak verilen bilgiler tüketicinin bilgilendirilmesini sağlamak amacıyla Bakanlık internet sitesinde yayımlanarak halkın bilgisine sunulur. Bu bilgilerin yayımlanmasında ticari sırların korunması dikkate alınır. Üreticiler, bu bilgileri Bakanlığa verirken ticari sır saydıkları bilgileri ayrıca belirtir.
+(8) Bu madde ve 8 inci madde hükmü çerçevesinde verilen bilgilerin formatı ile internet sitesinde yayımlanma şekli Bakanlık tarafından belirlenir ve gerektiğinde güncellenir.
+(9) Üreticiler tarafından hammadde stok hareketleri, üretim miktarları, üretimden mamul ambarına ve buradan ülke içinde kurulu diğer ambarlara sevk edilen mamul miktarları, satışlar, ithalatlar, ihracatlar, iadeler ve bandrolhareketleri onaylı raporlar halinde Bakanlığa bildirilir.
+(10) Bakanlık, bu madde ve 8 inci madde gereğince alınan tüm veri ve bilgileri elektronik bir sistemde ve/veya basılı olarak alır; ticari sır olarak beyan edilen bilgileri gizlilik esasına göre saklar.
+(11) Bakanlık, bu madde uyarınca verilen bilgilerin alınması, saklanması, incelenmesi, analiz edilmesi ve yayımlanması için elektronik bir sistem kurulması halinde üreticilere Dünya Sağlık Örgütü Tütün Kontrolü Çerçeve Sözleşmesi hükümlerince orantılı ücretler yükleyebilir.

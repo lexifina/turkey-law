@@ -1,0 +1,2 @@
+Dayanak
+MADDE 3 – (1) Bu Yönetmelik, 7/11/1996 tarihli ve 4207 sayılı Tütün Ürünlerinin Zararlarının Önlenmesi ve Kontrolü Hakkında Kanun, (Değişik ibare:RG-6/8/2024-32624) 5/3/2020 tarihli ve 7223 sayılı Ürün Güvenliği ve Teknik Düzenlemeler Kanunu, 3/1/2002 tarihli ve 4733 sayılı Tütün, Tütün Mamulleri ve Alkol Piyasasının Düzenlenmesine Dair Kanun ve 25/11/2004 tarihli ve 5261 sayılı Dünya Sağlık Örgütü Tütün Kontrolü Çerçeve Sözleşmesinin Onaylanmasının Uygun Bulunduğuna Dair Kanuna dayanılarak hazırlanmıştır.

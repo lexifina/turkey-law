@@ -1,0 +1,16 @@
+Ambalajın rengi, şekli ve içeriği ile mamul özellikleri
+MADDE 11 – (1) Tütün mamulleri birim paketleri ve grupmanlarının dış yüzey rengi ve tonu Pantone 448 C Mat bitişli, karton malzemeden yapılan birim paket ve grupmanların iç yüzey rengi (Ek ibare:RG-27/6/2019-30814) kraft kahvesi, Pantone 448 C Mat bitişli veya beyaz olmalıdır. Koli, kraft kahvesi renginde olmalıdır.
+(2) Sigara birim paketi iç çerçevesi ile puro ve sigarillo birim paketi iç panelinin rengi ve tonu Pantone 448 C Mat bitişli olmalıdır.
+(3) Tütün mamulü birim paketi ve grupmanının iç ve dış yüzeyi düz ve pürüzsüz olmalı, kabartma ve desen olmamalı, mamulün kendisinin görünürlüğünü sağlayan pencere içermemelidir.
+(4) Sigara, puro ve sigarillo birim paketi dikdörtgen prizma ya da benzeri bir şekilde, nargilelik, pipoluk ve sarmalık kıyılmış tütün mamulü birim paketi dikdörtgen prizma ya da benzeri (Mülga ibare:RG-6/8/2024-32624) poşet şeklinde olmalıdır.
+(5) Sigara birim paketi; karton veya yumuşak malzemeden yapılır ve üstten kapaklı sert paket dışında bir kez açıldıktan sonra yeniden kapatılabilen veya yeniden mühürlenebilen açılma kısmına sahip olamaz. Üstten kapaklı sert pakette kapak birim paketin yalnız arkasından takılır.
+(6) Sigaraların birim paketlerinde kullanılan alüminyum folyo veya metalize kağıt gümüş renginde olmalı, renginde ton farkı olmamalı; arkası kağıtlı alüminyum folyolarda arka kağıt beyaz renkli olmalıdır. Dokulu alüminyum folyolar hiçbir şekilde resim, desen ve sembole işaret edemez.
+(7) Sigara birim paketi, iç panel kullanılmak suretiyle görünebilir herhangi bir yüzey alanı ölçüsünü değiştiren, yüzey alanını genişleten, yeni yüzey alanları oluşturan özellikleri haiz olamaz.
+(8) Tütün mamullerinin; kolisi, koli bandı ve koli etiketi, dış ambalajı, iç ambalajı, şeffaf grupman etiketi, açma şeridi, alüminyum folyosu ile sigara, puro ve sigarillo üzerinde markanın logosu, simgesi veya sair işaretleri dahil olmak üzere bu Yönetmelik ile zorunlu kılınanların haricinde metin, yazı, ibare, şekil, çizgi, sembol, resim, figür, desen ve işaret bulunmaz.
+(9) Sigaralarda kullanılan uç kağıdı düz beyaz mat bitişli ve/veya mantar desenli olmalıdır. Sigara kağıtlarıbeyaz mat bitişli olmalıdır. (Ek cümle:RG-6/8/2024-32624) Sigara filtreleri silindirik form dışında herhangi bir şekilde olamaz.
+(10) Sigara birim paketi 20 adet sigara içerir.
+(11) Puro ve sigarillo filtreli olarak piyasaya arz edilemez. Puro ve sigarillonun banç olarak piyasaya arz edilmesi halinde kullanılan iç sargılık tütün aynı zamanda dış sargılık tütün kabul edilir.
+(12) Aromalı nargilelik (Ek ibare:RG-6/8/2024-32624) ve pipoluk tütün mamulü ile puro ve sigarilloda şeffaf iç ambalaj kullanılabilir. Bunun dışında kullanılacak iç ambalajın rengi (Ek ibare:RG-27/6/2019-30814) gümüş renginde veya Pantone 448 C Mat bitişli olmalıdır. Aromasız nargilelik tütün mamulünde iç ambalaj beyaz ya da kraft kahvesi renkli kağıt malzemeden olmalıdır.
+(13) Tütün mamullerinin birim paketleri, grupmanları ses çıkaran ve/veya kokulu malzemeden üretilemez.
+(14) Tütün mamullerinin birim paketleri ve grupmanlarında; ısı ile aktive olan, zaman geçtikçe ortaya çıkan, floresan görüntü veren mürekkepler kullanılamaz.
+(15) Tütün mamulü birim paketleri ve grupmanları haricen kılıf, kutu, çıkartma içeremez.
