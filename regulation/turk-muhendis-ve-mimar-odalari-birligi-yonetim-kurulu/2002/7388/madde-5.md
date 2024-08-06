@@ -1,0 +1,4 @@
+Yüksek Onur Kurulunun Kuruluşu ve Yetkileri
+Madde 5 — Yüksek Onur Kurulu Birlik Genel Kurulunca delegeler arasından gizli oyla iki yıl için seçilen beş asıl ve beş yedek üyeden oluşur.
+(Değişik:RG-9/12/2004-25665) Yüksek Onur Kuruluna aday olabilmek için daha önce Türk Mühendis ve Mimar Odaları Birliği Yönetim, Denetim, Yüksek Onur Kurullarından ya da Oda Yönetim, Denetim, Onur Kurullarından en az birinde (Değişik ibare:RG-6/7/2012-28345) asıl üye olarak görev yapmış olmak ve herhangi bir disiplin cezası almamış olmak zorunludur.
+(Değişik:RG-6/7/2012-28345) Yüksek Onur Kurulu, Oda Onur Kurulu kararları ile itirazları belgeler üzerinden inceler ve gerekçe bildirerek onaylar ya da bozar. Kararın bozulması durumunda dosyayı ilgili Odaya iade eder. Oda Onur Kurulu kararında ısrar ettiği takdirde gerekçeli son karar üç ay içinde Yüksek Onur Kurulunca verilir. Yüksek Onur Kurullarınca onanan ya da nihai verilen kararlar uygulanmak üzere ilgili Odaya gönderilir.

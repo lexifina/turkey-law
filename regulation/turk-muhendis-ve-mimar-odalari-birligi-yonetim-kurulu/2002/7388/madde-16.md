@@ -1,0 +1,6 @@
+İlk İnceleme ve Soruşturmacı Atanması
+Madde 16 — (Değişik:RG-9/12/2004-25665)
+Oda Yönetim Kurulu, ivedi durumlar dışında bildirimin yapılmasından itibaren en geç iki ay içinde konuyu inceleyerek:
+a) Bildirimi soruşturmaya değer görmezse, soruşturma açılmasına yer olmadığına ilişkin kararını bildirimde bulunan tarafa bildirir.
+b) Bildirimi soruşturmaya değer gördüğünde ise Yönetim Kurulu, bildirimi inceleyerek (Mülga ibare:RG-6/7/2012-28345) (…) bir ya da birkaç Oda üyesini soruşturmacı olarak atar. Soruşturmacı olarak atanan üyenin Oda Onur Kuruluna seçilme yeterliğinde olması gerekir. (Ek cümle:RG-16/9/2021-31600) Cinsiyet ayrımcılığı ve cinsel taciz bildirimlerinde Oda Kadın Komisyonunun önereceği bir kadın oda üyesinin soruşturmacı olarak atanması zorunludur. Soruşturmacının atandığına dair Yönetim Kurulu Kararı bulunmak zorundadır. Soruşturmacı olarak atanan üye görevi kabul etmeyebilir. Eğer bildirimde bulunan kişi aynı zamanda Yönetim Kurulu üyelerinden biri ise bu atama kararında oylamaya katılamaz. Soruşturmacı raporunu hazırlayarak Yönetim Kuruluna sunar.
+Bildirimin Yönetim Kuruluna ulaşmasından itibaren iki ay içinde işlem görmemiş ya da Yönetim Kurulu tarafından ek süre tanınmamış dosyalar Onur Kuruluna aktarılır. Ek süre iki ayı geçemez.

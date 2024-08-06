@@ -1,0 +1,8 @@
+Meslek Uygulamasının Yasaklanması Cezası
+Madde 9 — Meslek uygulamasının yasaklanması cezası ilgilinin geçici bir süre için mühendislik ya da mimarlıkla ilgili bir işte çalışma yapmasının yasaklanması ve üyelik haklarının bu süre içinde kullandırılmamasıdır. Yasaklama süresi 15 (onbeş) günden az 6 (altı) aydan çok olamaz. Sürenin verilmesinde asgari süre gözönünde bulundurulur, ancak aynı olaydaki birden fazla etkenin bulunması durumunda ceza ağırlaştırılır. Aynı suçun tekrarı durumunda ceza bu kez iki katı olarak uygulanır.
+(Mülga ibare:RG-6/7/2012-28345) (…) meslek uygulamasından yasaklama cezaları aşağıdaki durumlarda verilir:
+a) Para cezasıyla cezalandırılmış bir suçu bilinçli olarak yinelemek,
+b) (Değişik:RG-28/6/2010-27625) Mesleğini ve görevini kişisel ya da bir grup adına çıkar sağlamak için TMMOB mevzuatına, bilime ve meslek tekniğine aykırı biçimde uygulamak ya da mesleğini ve görevini TMMOB mevzuatına, bilime ve meslek tekniğine aykırı biçimde uygulayarak kamuya, halka, üçüncü şahıslara zarar vermek.
+c) Temelsiz suçlamalarla mesleği, meslek mensuplarını ya da Türk Mühendis ve Mimar Odaları Birliği, Odalar ya da bunların alt birimlerini kamuoyunda küçük düşürmek ya da etkinliklerini engellemek.
+ç) (Ek:RG-28/6/2010-27625) (Değişik:RG-10/11/2016-29884) Mühendislik mimarlık ve şehir planlama disiplinini ilgilendiren plan, proje veya hizmetlerde, bir mühendis mimar ya da şehir plancısı tarafından ya da sorumluluğunda yapılması gereken, ancak yetkisiz kişilerce üretilen plan, proje ve hizmetlerden birine imza atmak ya da attırmak, imzacılık yapmak.
+d) (Ek:RG-16/9/2021-31600) Mesleki uygulama ve pratiklerde; psikolojik yıldırma/baskı/taciz uygulamak ve cinsiyet ayrımcılığı yapmak.
