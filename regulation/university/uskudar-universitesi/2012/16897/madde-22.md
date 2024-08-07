@@ -1,0 +1,6 @@
+Öğrenim planı ve dersler
+MADDE 22 – (1) Üniversitede lisans ve ön lisans eğitim-öğretimi, her yarıyıldaki derslerin adları ile haftalık kredi ve AKTS’lerin gösterildiği öğretim planlarına göre yapılır.
+(2) Her yarıyıl hangi derslerin açılacağı ve hangi öğretim elemanlarınca okutulacağı ilgili bölüm kurulunun önerisi üzerine ilgili yönetim kurulu tarafından belirlenir ve Senatonun onayı ile kesinlik kazanır.
+(3) Lisans ve ön lisans programlarında eğitim-öğretim; teorik dersler ve pratik çalışma, uygulama, laboratuvar çalışması, atölye çalışması, bitirme tezi, bitirme ödevi, seminer, staj gibi uygulamalardan oluşur.
+(4) Her dersin kredisi ile AKTS’si eğitim-öğretim planında belirtilir. Bir dersin AKTS kredi değeri, dersin ait olduğu programın teklifi, ilgili yönetim kurulunun kararı ve Senatonun onayı ile belirlenir. Öğretim planları; önlisans düzeyi için toplam 120 AKTS kredisi, lisans düzeyi için ise toplam 240 AKTS kredisi olacak şekilde düzenlenir ve öğrenciye 30’ar AKTS kredilik yarıyıllar halinde sunulur. Öngörülen dönemlik nominal öğrenci iş yükü 30 AKTS kredisidir.
+(5) Senato tarafından uygun görülmesi halinde, birinci ve ikinci öğretim programlarındaki bazı dersler, sadece uzaktan öğretim yoluyla verilebilir.

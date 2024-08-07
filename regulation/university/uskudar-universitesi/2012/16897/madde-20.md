@@ -1,0 +1,5 @@
+Öğrenci değişim programları
+MADDE 20 – (1) Yükseköğretim Kurulu tarafından denkliği kabul edilen yurtdışı ve yurtiçindeki yükseköğretim kurumları arasında yapılacak anlaşmalara göre, öğrenci değişimi çerçevesinde Üniversite tarafından bir veya iki yarıyıl süreyle yurtiçi veya dışındaki yükseköğretim kurumlarına giden öğrencinin kaydı devam eder ve bu süre öğretim süresinden sayılır.
+(2) Yurtdışındaki yükseköğretim kurumları arasında yapılan anlaşma uyarınca, öğrenci değişimi programı çerçevesinde yurtdışındaki yükseköğretim kurumuna gönderilen öğrenciler, yurtdışında bulundukları yarıyılda kendi programlarında almaları gereken dersler yerine, yurtdışındaki yükseköğretim kurumundan aldıkları derslerden sorumlu sayılır.
+(3) Öğrenci değişim programı ile yurtiçi veya yurtdışındaki yükseköğretim kurumlarından öğrencinin aldığı derslerin ve notların intibakı ilgili program başkanının ve öğrencinin akademik danışmanının yazılı görüşü alınarak ilgili yönetim kurulu tarafından yapılır.
+(4) Öğrenci, yurtdışındaki yükseköğretim kurumundan aldığı fakat başarısız olduğu derslerin yerine kendi programında almadığı dersler arasından danışmanının uygun gördüğü dersleri alır.

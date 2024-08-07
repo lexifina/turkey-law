@@ -1,0 +1,4 @@
+Yatay geçiş
+MADDE 17 – (1) Üniversitede yatay geçiş işlemleri; Yükseköğretim Kurumlarında Önlisans ve Lisans Düzeyindeki Programlar Arasında Geçiş, Çift Anadal, Yan Dal ile Kurumlar Arası Kredi Transferi Yapılması Esaslarına İlişkin Yönetmelik hükümlerine göre yapılır.
+(2) Üniversiteye yapılacak yatay geçiş başvuruları ilgili yönetim kurulu tarafından karara bağlanır.
+(3) Yatay geçiş yolu ile kayıt yaptıran öğrencilerin daha önce kayıtlı oldukları yükseköğretim kurumunda almış oldukları derslerin intibakları ilgili yönetim kurulu tarafından yapılır. Bu öğrencilerin not intibakı Üniversitenin başarı değerleme sistemine uyarlanmak suretiyle gerçekleştirilir. İntibakların gerçekleştirilebilmesi için gerekli olan ve daha önce kayıtlı olunan yükseköğretim kurumundan onaylı olarak alınan transkript, ders içerikleri ve diğer gerekli belgelerin belirlenen süre içinde ilgili dekanlığa/müdürlüğe teslim edilmesi gerekir.

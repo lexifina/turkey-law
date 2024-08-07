@@ -1,0 +1,2 @@
+Dikey geçiş
+MADDE 18 – (1) Meslek yüksekokulları mezunlarının lisans programına kabulleri, kayıtlarının hangi yarıyıla yapılacağı ve intibak programları; Yükseköğretim Kurulunca (YÖK) çıkarılan, 19/2/2002 tarihli ve 24676 sayılı Resmî Gazete’de yayımlanan, Meslek Yüksekokulları ve Açıköğretim Ön Lisans Programları Mezunlarının Lisans Öğrenimine Devamları Hakkında Yönetmelik hükümlerine ve Senato tarafından belirlenen esaslara göre yürütülür.

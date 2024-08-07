@@ -1,0 +1,4 @@
+Muafiyet
+MADDE 25 – (Değişik:RG-27/3/2020-31081)
+(1) Bir yükseköğretim programında tam zamanlı öğrenci olarak kayıtlı olan öğrenciler, daha önce almış oldukları derslerden muafiyet isteğinde bulunabilirler. Bunun için öğrencilerin, Üniversiteye kayıt yaptırdıkları tarihten itibaren on gün içinde transkriptleri ve ders içeriklerini (onaylı, imzalı, mühürlü) ihtiva eden bir dilekçe ile ilgili dekanlığa/müdürlüğe başvurmaları gerekir. Muafiyet, ilgili yönetim kurulunda görüşülerek karara bağlanır. Ders muafiyeti otomasyon sistemine notu ile birlikte işlenir.
+(2) (Değişik:RG-3/12/2020-31323) Muafiyeti kabul edilen öğrencilerden belirli bir AKTS’nin üzerinde muaf olanların intibak edilecekleri sınıfın belirlenmesinde Muafiyet, Ders Denklik, Not Transfer ve İntibak İşlemleri Yönergesi hükümlerine göre işlem yapılır.

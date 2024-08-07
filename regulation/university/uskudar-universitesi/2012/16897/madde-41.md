@@ -1,0 +1,4 @@
+Ağırlıklı not ortalamaları
+MADDE 41 – (1) YANO (yarıyıl ağırlıklı not ortalaması); o yarıyılda kayıt olunan derslerin, her birinin kredi değeri ile o dersten alınan başarı notunun ağırlık katsayısının çarpımı ile elde edilen toplamın, o yarıyılda aldığı tüm derslerin kredi değerleri toplamına bölünmesiyle çıkan sayıdır.
+(2) GANO (genel ağırlıklı not ortalaması); tüm yarıyıllarda kayıt olunan derslerin, her birinin kredi değeri ile alınan başarı notunun ağırlık katsayısının çarpımı ile elde edilen toplamın, alınan tüm derslerin kredi değerleri toplamına bölünmesiyle çıkan sayıdır. Öğrencinin Üniversitedeki genel performans durumunu GANO gösterir.
+(3) Bölünme sonucunda virgülden sonraki iki hane hesaplanır ve virgülden sonraki üçüncü rakam beş veya daha fazla olduğunda bir üst sayıya tamamlanır.
