@@ -1,0 +1,1 @@
+[1] 7/8/2024 tarihli ve 32625 sayılı Resmî Gazete’de yayımlanan değişiklik ile Yönetmeliğin Adı “İstanbul Gedik Üniversitesi Güneydoğu Asya Ülkeleri Stratejik Çalışmalar Uygulama ve Araştırma Merkezi Yönetmeliği” iken yönetmeliğe işlendiği şeklinde değiştirilmiştir.
