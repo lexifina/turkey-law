@@ -1,0 +1,2 @@
+Kimlik Belgesi
+Madde 8- Diploma veya denklik belgesi almak suretiyle Türkiye’de mesleklerini uygulayabilecek duruma gelmiş olanlardan, bu yönetmeliğin 7 nci maddesinin (b) ve (c) bentleri kapsamı dışında kalan inşaat mühendisi ve inşaat yüksek mühendisleri, Oda’ya başvurarak kaydolmak ve kimlik belgesi almak zorundadır. Oda kimlik belgesi almayanlarla, üyelik görev ve yükümlülüklerini yerine getirmediği için ya da disiplin suçu nedeniyle kimlik belgesi yenilenmemiş veya onaylanmamış olanlar, mesleklerini uygulayamaz.

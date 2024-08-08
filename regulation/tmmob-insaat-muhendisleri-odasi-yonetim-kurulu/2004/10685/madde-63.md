@@ -1,0 +1,3 @@
+Şube Bütçesi ve Giderleri
+Madde 63- Şubeler her türlü tahsilatı Oda adına yaparlar ve gelirlerinin tamamı Odaya aittir. Şube giderleri Oda Genel Kurulunca kabul edilerek Şube bütçesine göre ayrılan ödenekten karşılanır. Şubelerin Oda adına yaptığı tahsilatın tamamı gereği halinde Oda tarafından ödeneklerde kısıntı yapılmadan kullanılır. Şubeler Genel Kurulunca saptanan gider ödeneklerini aşamazlar.
+Bütçe fasılları arasında aşma olması durumunda Oda Yönetim Kurulundan onay almak zorundadır. Şubeler gelir fazlasını bloke edemezler. Şubeler her ay sonunda şube gelir ve giderlerini, yaptıkları tahsilatı bir cetvel halinde Odaya bildirirler. Şube hesapları Oda Denetleme Kurulu üyeleri tarafından yılda en az iki kez olmak üzere denetlenir.

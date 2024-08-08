@@ -1,0 +1,2 @@
+Temsilcilikler
+Madde 57- İnşaat Mühendisleri Odası, inşaat mühendislerinin ortak gereksinimlerini karşılamak, mühendislik çalışmalarını kolaylaştırmak, İnşaat Mühendisliğinin genel çıkarlara uygun olarak gelişimini sağlamak, mühendislerin birbirleriyle ve halk ile olan ilişkilerinde dürüstlüğü ve güveni oluşturmak, mühendislik disiplinini korumak amacı ile Şubelerinin bulunmadığı il ve ilçelerde Oda Yönetim Kurulu kararıyla temsilcilikler kurar.

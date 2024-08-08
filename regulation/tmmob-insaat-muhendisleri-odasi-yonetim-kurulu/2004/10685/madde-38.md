@@ -1,0 +1,2 @@
+Danışma Kurulunun Görevleri
+Madde 38- Danışma Kurulu; Odanın dönem çalışma programlarını ana çizgileri ile incelemek, Oda politikasına ilişkin ana sorunlarda, yönetmelik tasarısında ve değişikliklerinde, Genel Kurula sunulacak dönem çalışma raporları ve benzeri konularda yönetim kurullarına ışık tutmak, tavsiyelerde bulunmak ve başka yönetmeliklerce ya da Genel Kurulca kendisine verilecek işleri görmek üzere kurulmuştur. Genel Kurulda ana yönetmelik dışındaki yönetmelik değişiklik ve tasarılarının sonuca bağlanması yetkileri Danışma Kuruluna verilebilir.

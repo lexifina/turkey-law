@@ -1,0 +1,2 @@
+Genel Kurulun Açılışı ve Divan Seçimi
+Madde 21- Toplantı; TMMOB gözlemcisinin salonda bulunduğu saptandıktan sonra, Yönetim Kurulu Başkanı ya da Yönetim Kurulunun görevli bir üyesi tarafından açılır. Toplantı açıldıktan sonra bir başkan, iki başkan yardımcısı ve iki yazmandan oluşan Başkanlık Divanı, Genel Kurulca başka bir karar alınmazsa açık oyla seçilir. Genel Kurul toplantısında, TMMOB ve Oda Genel Kurul ile ilgili iç düzenleme hükümleri uygulanır.
