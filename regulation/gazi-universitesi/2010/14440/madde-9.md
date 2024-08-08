@@ -1,0 +1,7 @@
+Çalışma birimleri ve görevleri
+MADDE 9 – (1) Merkezde; değişik bilim dallarının öğretim elemanlarının Merkezin amacına uygun olarak koordinasyon ve işbirliği içinde uygulama ve araştırma faaliyetlerinde bulunmasını sağlamak için, uzmanlık isteyen konularda geçici veya devamlı olarak çalışma birimleri oluşturulur.
+(2) Çalışma birimlerinde, Yönetim Kurulu üyeleri ve Merkez personeli dışında, Üniversite bünyesinde çalışan idari ve akademik personel de Müdürün önerisi ve Rektörün onayı ile görevlendirilebilir.
+(3) Çalışma birimleri aşağıda belirlenen konularda görev yapar:
+a) Sulak alanlar: Sulak alanlardaki planlama, uygulama ve kullanım faaliyetleri sonucunda oluşan sorunların önlenmesi ve çevreye olan etkilerinin en aza indirilmesi konularında araştırmalar yapmak,
+b) Deniz alanları: Kıyı ve deniz yapıları ile tesislerinin planlama, tasarım ve kontrol çalışmalarının yürütülmesi ve kıyı yapılarında ve tesislerinde oluşabilecek hasarların onarımı ile alınabilecek önlemler konusunda planlar geliştirmek,
+c) Teknoloji geliştirme: Sulak alan dinamiği, deniz kirliliği, boğaz güvenliği, kıyısal sediment taşınımı, açık deniz petrol/doğalgaz arama platform ve yapıları, kıyı alanları ve sulak alan yönetimi, kıyı koruma yapıları, su altı teknolojisi, kıyısal çevre, liman planlaması ve inşaatı gibi ülke ekonomisi, kıyı savunması ve sahil güvenlik için önem taşıyan konularda teknoloji geliştirme ve araştırma faaliyetlerini yürütmek.

@@ -1,0 +1,9 @@
+Merkezin faaliyet alanları
+MADDE 5 − (1) Merkez; bu Yönetmeliğin 4 üncü maddesinde belirtilen amaçlarına ulaşmak için aşağıdaki faaliyetlerde bulunur:
+a) Sulak alan dinamiği, deniz kirliliği, boğaz güvenliği, kıyısal sediment taşınımı, açık deniz petrol/doğalgaz arama platform ve yapıları, kıyı ve sulak alanları yönetimi, kıyı koruma yapıları, su altı teknolojisi, kıyısal çevre, liman planlaması ve inşaatı gibi Türkiye'nin ekonomisi, kıyı savunması ve sahil güvenliği için önem taşıyan konularda uygulama, teknoloji geliştirme ve araştırma faaliyetleri düzenlemek,
+b) Sulak alanlardaki planlama, uygulama ve kullanım faaliyetleri sonucunda oluşan sorunların önlenmesi ve çevreye olan etkilerinin en aza indirilmesi konularında araştırmalar yapmak,
+c) Sulak alanların sürdürülebilir kalkınması ve verimli kullanımı için halkın bilinçlenmesine yönelik eğitim faaliyetleri düzenlemek,
+ç) Kıyı ve deniz yapıları ile tesislerinin planlanma, tasarım ve kontrol çalışmalarını yürütmek,
+d) Deniz ve su bilimleri alanında elde edilen bilgi ve teknolojinin, ulusal ve uluslararası bilimsel toplantı, araştırma, inceleme, kurs, seminer, konferans, kongre, eğitim ve öğretim programları düzenlemek suretiyle paylaşımını sağlamak,
+e) Türkiye kıyıları için bir afet tehlikesi oluşturan tsunaminin can kayıplarına yol açmasını önlemek amacıyla, özellikle kıyı alanlarında yerleşik halkın bu konuda bilinçli davranmalarını ve gerekli önlemleri almalarını sağlamak, bu konuda bilinçli bir toplum yaratmak amacıyla eğitici broşür, poster, CD gibi eğitim materyalleri hazırlamak, en çok riske maruz kesim olan onaltı yaş altı çocukların korunması amacıyla okullarda eğitim faaliyetleri yürütmek, kıyı bölgelerinde eğitici halk toplantıları ve yerel yönetimlerin katılacağı seminerler düzenlemek,
+f) Tsunami riskinin yüksek olduğu kıyı bölgelerinin belirlenerek, gerekli önlemlerin alınması ile acil yardım ve kurtarma faaliyetlerinin planlama ve yürütülmesine yönelik çalışmalar yapmak.

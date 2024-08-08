@@ -1,0 +1,59 @@
+{
+  "checked_on": "2026-11-14",
+  "commencement_clauses": [
+    "MADDE 11 − (1) Bu Yönetmelik yayımı tarihinde yürürlüğe girer."
+  ],
+  "date_evidence": [
+    [
+      "2010-11-15",
+      "15.11.2010",
+      "original gazette publication date in official listing"
+    ],
+    [
+      "2024-08-08",
+      "RG-8/8/2024-32626",
+      "latest source-printed gazette amendment date for current consolidated text"
+    ],
+    [
+      "2024-08-08",
+      "RG-8/8/2024-32626",
+      "latest source-printed gazette amendment date for current consolidated text"
+    ],
+    [
+      "2024-08-08",
+      "RG-8/8/2024-32626",
+      "latest source-printed gazette amendment date for current consolidated text"
+    ],
+    [
+      "2024-08-08",
+      "8/8/2024",
+      "latest gazette date in source amendment table"
+    ]
+  ],
+  "date_quote": "RG-8/8/2024-32626",
+  "first_law": null,
+  "gazette": "27760",
+  "history": "current-text",
+  "images": {
+    "deferred": 0,
+    "omitted": 0,
+    "referenced": 0,
+    "source": 0
+  },
+  "in_force": "2024-08-08",
+  "in_force_basis": "latest source-printed gazette amendment date for current consolidated text",
+  "issuer": "Gazi Üniversitesi",
+  "issuer_slug": "gazi-universitesi",
+  "kind": "regulation",
+  "label": "oldest version available",
+  "path": "regulation/gazi-universitesi/2010/14440",
+  "published": "2010-11-15",
+  "source": "https://www.mevzuat.gov.tr/anasayfa/MevzuatFihristDetayIframe?MevzuatTur=8&MevzuatNo=14440&MevzuatTertip=5",
+  "source_bytes": 35979,
+  "source_id": "8.5.14440",
+  "source_sha256": "9e81ce5cb3f5fe597dfc4fbaf106f66594a22c486772e6b68b7fbc7daa041713",
+  "text_status": "current-consolidated",
+  "title": "GAZİ ÜNİVERSİTESİ DENİZ VE SU BİLİMLERİ UYGULAMA VE ARAŞTIRMA MERKEZİ YÖNETMELİĞİ",
+  "university_id": 195,
+  "word_count": 1474
+}
