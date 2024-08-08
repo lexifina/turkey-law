@@ -1,0 +1,26 @@
+{
+  "kind": "norm",
+  "issuer": "Enerji Piyasası Düzenleme Kurumu",
+  "market": "electricity",
+  "document_type": "board-decision",
+  "number": "12799-4",
+  "decision_date": "2024-08-08",
+  "title": "OSB veya EB Dağıtım Faaliyeti İçin Lisans Başvurularında Sunulması Gereken Bilgi ve Belgeler Listesi Hk.",
+  "resmi_gazete_date": "2024-08-14",
+  "resmi_gazete_number": "32632",
+  "categories": [
+    "Başvuru"
+  ],
+  "source": "https://www.epdk.gov.tr/Detay/DownloadDocument?id=xJaUjCryPrY=",
+  "documents": [
+    "https://www.epdk.gov.tr/Detay/DownloadDocument?id=xJaUjCryPrY=",
+    "https://www.epdk.gov.tr/Detay/DownloadDocument?id=NAHkYBakvck="
+  ],
+  "source_sha256": "b3b8ed80fbdc4f3834c0c3cb5e7ecb507441c8d5cf322fe45e9d4a524a258b03",
+  "official_list": "https://www.epdk.gov.tr/Detay/Icerik/3-0-39/kurul-kararlari-",
+  "official_list_leaf": 33883,
+  "text_status": "as-enacted",
+  "text_file": "metin.md",
+  "in_force": "2024-08-08",
+  "law_text_complete": true
+}
