@@ -1,0 +1,18 @@
+{
+  "kind": "norm",
+  "issuer": "Kişisel Verileri Koruma Kurumu",
+  "document_type": "decision-summary",
+  "number": "2024/1361",
+  "source_id": 8884,
+  "date": "2024-08-08",
+  "title": "\"Veri sorumlusu tarafından güvenlik kamerasıyla ses ve görüntü kaydı alınması, aydınlatma yükümlülüğünün yerine getirilmemesi, internet sitesinde çerezler vasıtasıyla kişisel verilerin işlenmesi ve hizmetin ön şartı olarak reklam ve pazarlama amaçlı açık rıza alınmasına ilişkin şikâyet” hakkında Kişisel Verileri Koruma Kurulunun 08/08/2024 Tarihli ve 2024/1361 Sayılı Karar Özeti",
+  "source": "https://www.kvkk.gov.tr/Icerik/8884/2024-1361",
+  "source_sha256": "5227141917eccbc9d6a1e72a6d74847c73b4c31da85470c4fe4998ef6f72e5bc",
+  "text_status": "summary",
+  "text_file": "metin.md",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  }
+}
