@@ -1,0 +1,24 @@
+{
+  "number": "meeting-08-08",
+  "number_as_published": null,
+  "year": 2024,
+  "title": "2024 Ağustos Meclis Karar Tutanakları",
+  "decision_date": "2024-08-08",
+  "source": "https://www.altindag.bel.tr/tr/meclis-kararlari?page=1",
+  "official_document": "https://www.altindag.bel.tr/upload/mecliskararlari/2-AGUSTOS-2024-MECLIS-KARAR-TUTANAKLARI-08-08-2024-.pdf",
+  "source_sha256": "3ce45eb3eee2abb5fb4e5b5976b8b5be71c049a9e493378fa182d62acb4338b7",
+  "issuer": "Altındağ Belediye Meclisi",
+  "history_type": "metadata",
+  "text_status": "metadata-only: listing fields as published; complete decision text is in the linked official document, not transcribed",
+  "in_force": "2024-08-08",
+  "in_force_basis": "Decision date as printed in the official council listing: 08.08.2024 (meeting date in the official PDF file name '2-AGUSTOS-2024-MECLIS-KARAR-TUTANAKLARI-08-08-2024-.pdf'; list TARİH 2024-08-08); adoption date of the council decision; legal commencement not asserted",
+  "missing": [
+    "complete official decision text",
+    "official annexes"
+  ],
+  "law_text_complete": false,
+  "privacy_withheld": false,
+  "record_scope": "one official PDF of council decision minutes per meeting",
+  "file_name": "2-AGUSTOS-2024-MECLIS-KARAR-TUTANAKLARI-08-08-2024-.pdf",
+  "list_date": "2024-08-08"
+}
