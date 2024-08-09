@@ -1,0 +1,31 @@
+{
+  "act_path": "regulation/university/erzurum-teknik-universitesi/2024/40909",
+  "availability": "text",
+  "checked_on": "2026-11-14",
+  "commencement_clauses": [
+    "MADDE 17- (1) Bu Yönetmelik yayımı tarihinde yürürlüğe girer."
+  ],
+  "date_quote": "MADDE 17- (1) Bu Yönetmelik yayımı tarihinde yürürlüğe girer.",
+  "first_law": null,
+  "gazette": "32627",
+  "history": "as-enacted",
+  "images": {
+    "deferred": 0,
+    "omitted": 0,
+    "referenced": 0,
+    "source": 0
+  },
+  "in_force": "2024-08-09",
+  "in_force_basis": "source commencement clause: effective on Gazette publication",
+  "issuer": "Erzurum Teknik Üniversitesi",
+  "issuer_slug": "erzurum-teknik-universitesi",
+  "kind": "regulation",
+  "published": "2024-08-09",
+  "source": "https://www.mevzuat.gov.tr/anasayfa/MevzuatFihristDetayIframe?MevzuatTur=8&MevzuatNo=40909&MevzuatTertip=5",
+  "source_id": "8.5.40909",
+  "source_sha256": "db5d9fac2064a9560ff2d5e0e276842e0c6e546fea49b1c7c29b756756b98189",
+  "title": "ERZURUM TEKNİK ÜNİVERSİTESİ MUCİTPARK STEM UYGULAMA VE ARAŞTIRMA MERKEZİ YÖNETMELİĞİ",
+  "university_id": 413,
+  "version_label": "oldest version available",
+  "word_count": 877
+}
