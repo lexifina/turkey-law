@@ -1,0 +1,6 @@
+Zarar ve nedensellik iddiası
+MADDE 7- (1) Yönetmeliğin 17 nci maddesi çerçevesinde zarar iddiası 1/1/2021-31/12/2023 dönemi için incelenmiştir.
+(2) Mısır menşeli soruşturma konusu ürün ithalatının, 2021 yılı baz yıl olarak değerlendirildiğinde, 2023 yılında hem mutlak hem de nispi olarak arttığı görülmektedir.
+(3) Mısır menşeli ithalatın, soruşturma konusu ürün tiplerinde yerli üretim dalının iç piyasa satış fiyatlarını 2021, 2022 ve 2023 yıllarında kırdığı ve baskıladığı görülmektedir.
+(4) 1/1/2021-31/12/2023 döneminde, yerli üretim dalının ekonomik göstergelerinin bütüncül olarak değerlendirilmesi neticesinde, başvuru konusu ürünün istihdam, yurt içi satış miktarı, stok miktarı, stok çevrim hızı, ürün nakit akışı, kapasite kullanım oranı, pazar payı, yurt içi ve yurt dışı satışlardan birim kârlılığı gibi göstergelerinin olumsuz seyrettiği görülmektedir. Yerli üretim dalının üretimi kısıtlı bir artış göstermesine rağmen yurt içi satışları önemli oranda azalmış ve stokları artış göstermiştir.
+(5) Başvuru aşamasında sunulan deliller ve ithalata ilişkin Bakanlık istatistik veri tabanında yer alan veriler esas alınarak yapılan tespitler ışığında, dampingli olduğu iddia edilen Mısır menşeli ithalatın yerli üretim dalının ekonomik göstergelerinde maddi zarara yol açtığı değerlendirilmiştir.
