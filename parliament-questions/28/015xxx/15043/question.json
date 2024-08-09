@@ -1,0 +1,21 @@
+{
+  "record_type": "parliament-written-question",
+  "term": 28,
+  "legislative_year": 2,
+  "esas_no": "7/15043",
+  "submitted": "2024-08-09",
+  "submitted_as": "Başkanlığa geliş tarihi",
+  "mp": "Turhan ÇÖMEZ",
+  "province": "Balıkesir",
+  "summary": "Başakşehir Çam ve Sakura Şehir Hastanesinde iyotlu kontrast madde kullanımı ile ilgili yolsuzluk iddialarına ilişkin",
+  "status": "Süresi Geçtikten Sonra Cevaplandı",
+  "status_as_of": "2026-11-16",
+  "official_record": "https://www.tbmm.gov.tr/Denetim/Yazili-Soru-Onergesi-Detay/433ece16-7794-434c-ab6e-01913631959e",
+  "source": "https://tbmm.gov.tr/Denetim/YaziliSoruOnergesiTable",
+  "source_form": "https://tbmm.gov.tr/Denetim/Yazili-Soru-Onergeleri",
+  "source_sha256": "ba733e8d51979000f33b37a8ad70e4db984955c51b5ae7acd7bdb8dce22d6806",
+  "in_force": "2024-08-09",
+  "in_force_basis": "Date the question reached the Speaker (Başkanlığa geliş tarihi) in the official TBMM written-question record; parliamentary oversight record, not law",
+  "history_type": "metadata",
+  "text_status": "metadata-only: question text, addressee and answers are in the linked official record (PDFs on cdn.tbmm.gov.tr); not transcribed here"
+}
