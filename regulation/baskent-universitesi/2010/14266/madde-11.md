@@ -1,0 +1,3 @@
+Yönetim kurulu
+MADDE 11 – (1) Yönetim Kurulu, Rektörün başkanlığında, Rektör yardımcıları, dekanlar, Üniversitenin değişik birim ve alanlarını temsilen Senato tarafından dört yıl için seçilen profesörlerden oluşur. Rektör yardımcılarının oy hakkı yoktur. Yönetim Kurulu; Üniversitenin yönetimi ile ilgili olarak Rektörün getireceği konularda karar alır, öneriler getirir, fakülte, enstitü ve yüksekokulların kurullarının kararlarına yapılan itirazları inceler ve karara bağlar. Bu Yönetmelik gereğince Yönetim Kuruluna verilen diğer görevleri yapar.
+(2) Yönetim Kurulunun raportörlüğünü Genel Sekreter yapar.

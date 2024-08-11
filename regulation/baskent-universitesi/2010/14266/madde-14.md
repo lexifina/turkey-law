@@ -1,0 +1,3 @@
+Dekan, enstitü müdürü ve yüksekokul müdürleri
+MADDE 14 – (1) Rektör, üniversite profesörleri arasından oluşturacağı bir komisyon aracılığı ile dekan, enstitü ve yüksekokul müdür adaylarını tespit eder ve tercih sırasına göre Başkana sunar. Dekanın, enstitü ve yüksekokul müdürünün atanması Mütevelli Heyetin onayı ile kesinleşir. Dekanın, enstitü ve yüksekokul müdürünün görev süresi üç yıldır. Süresi sona eren dekan veya müdür her seferinde üç yıl için yeniden atanabilir.
+(2) Dekan yardımcıları, dekan tarafından fakültenin aylıklı öğretim üyeleri arasından en çok üç yıl için seçilir. Müdür yardımcıları, ilgili enstitü ve yüksekokul müdürleri tarafından, ilgili yüksekokul ya da enstitünün aylıklı öğretim elemanları arasından üç yıl için atanır.

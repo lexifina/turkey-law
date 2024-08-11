@@ -1,0 +1,2 @@
+Bölüm başkanı
+MADDE 15 – (1) Bölüm Başkanı; bölümün aylıklı profesörleri, bulunmadığı takdirde doçentleri, doçent de bulunmadığı takdirde yardımcı doçentleri arasından fakültelerde dekanca, fakülteye bağlı yüksekokullarda müdürün önerisi üzerine dekanca, Rektörlüğe bağlı yüksekokullarda müdürün önerisi üzerine Rektör tarafından üç yıl için atanır. Süresi biten başkan tekrar atanabilir. Bölüm başkanı görevi başında bulunamayacağı süreler için öğretim üyelerinden birini vekil olarak bırakır.
