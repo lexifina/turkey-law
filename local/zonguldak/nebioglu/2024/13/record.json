@@ -1,0 +1,26 @@
+{
+  "number": "13",
+  "number_as_published": "2024/13",
+  "year": 2024,
+  "title": "İmar ile İlgili Ücretlerin Tespiti",
+  "decision_date": "2024-08-12",
+  "source": "https://www.nebioglu.bel.tr/meclis-kararlari",
+  "official_document": "https://www.nebioglu.bel.tr/meclis-kararlari/nbg-arc-council-2024-13",
+  "source_sha256": "494cefcb38abb02fed81b918df57a97edd11d6d799e67841a681a6c1514658f1",
+  "issuer": "Nebioğlu Belediye Meclisi",
+  "history_type": "metadata",
+  "text_status": "metadata-only: listing fields as published; complete decision text is in the linked official document, not transcribed",
+  "in_force": "2024-08-12",
+  "in_force_basis": "Decision date as printed in the official council listing: 12 Ağustos 2024; adoption date of the council decision; legal commencement not asserted",
+  "missing": [
+    "complete official decision text",
+    "official annexes"
+  ],
+  "law_text_complete": false,
+  "privacy_withheld": false,
+  "official_page": "https://www.nebioglu.bel.tr/meclis-kararlari/nbg-arc-council-2024-13",
+  "listing_label": "İmar ile İlgili Ücretlerin Tespiti",
+  "record_scope": "one council decision (number, date, subject as published)",
+  "date_read_from": "date printed with the decision on its official page (Meclis kararı · <date>)",
+  "document_note": "the decision text is on the official item page; not transcribed here"
+}
