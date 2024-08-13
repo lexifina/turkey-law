@@ -1,0 +1,24 @@
+{
+  "number": "249",
+  "number_as_published": "249",
+  "year": 2024,
+  "title": "Nazım İmar Planı Değişikliği (Siverek-Hayriye-Gülabibey)",
+  "decision_date": "2024-08-13",
+  "source": "https://www.sanliurfa.bel.tr/icerik/18287/106/nazim-imar-plani-degisikligi-siverek-hayriye-gulabibey",
+  "official_document": null,
+  "source_sha256": "a2754e8ec9a8c4e7f6495ec764823a88c2906fa3e5fa919b2cdc8fad9353b340",
+  "issuer": "Şanlıurfa Büyükşehir Belediye Meclisi",
+  "history_type": "metadata",
+  "text_status": "metadata-only: decision number, date and subject from the official announcement; the decision text is not published on the page",
+  "in_force": "2024-08-13",
+  "in_force_basis": "Decision date as printed in the official council listing: 13.08.2024 tarih ve 249 sayılı (council decision cited in the official announcement); adoption date of the council decision; legal commencement not asserted",
+  "missing": [
+    "complete official decision text",
+    "official annexes"
+  ],
+  "law_text_complete": false,
+  "privacy_withheld": false,
+  "record_scope": "one council decision, as cited in the municipality's official plan announcement (ilan)",
+  "announcement_date": "2024-09-02",
+  "listing": "https://www.sanliurfa.bel.tr/kategori/82/0/meclis-kararlari?page=1"
+}
