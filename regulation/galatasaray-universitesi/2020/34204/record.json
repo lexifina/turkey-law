@@ -1,0 +1,49 @@
+{
+  "checked_on": "2026-11-14",
+  "commencement_clauses": [
+    "MADDE 30 – (1) Bu Yönetmelik yayımı tarihinde yürürlüğe girer."
+  ],
+  "date_evidence": [
+    [
+      "2020-01-20",
+      "20.01.2020",
+      "original gazette publication date in official listing"
+    ],
+    [
+      "2024-08-13",
+      "RG-13/8/2024-32631",
+      "latest source-printed gazette amendment date for current consolidated text"
+    ],
+    [
+      "2024-08-13",
+      "13/8/2024",
+      "latest gazette date in source amendment table"
+    ]
+  ],
+  "date_quote": "RG-13/8/2024-32631",
+  "first_law": null,
+  "gazette": "31014",
+  "history": "current-text",
+  "images": {
+    "deferred": 0,
+    "omitted": 0,
+    "referenced": 0,
+    "source": 0
+  },
+  "in_force": "2024-08-13",
+  "in_force_basis": "latest source-printed gazette amendment date for current consolidated text",
+  "issuer": "Galatasaray Üniversitesi",
+  "issuer_slug": "galatasaray-universitesi",
+  "kind": "regulation",
+  "label": "oldest version available",
+  "path": "regulation/galatasaray-universitesi/2020/34204",
+  "published": "2020-01-20",
+  "source": "https://www.mevzuat.gov.tr/anasayfa/MevzuatFihristDetayIframe?MevzuatTur=8&MevzuatNo=34204&MevzuatTertip=5",
+  "source_bytes": 61801,
+  "source_id": "8.5.34204",
+  "source_sha256": "7d7b266ff0eee9a021127385c3d92b8dbd4dd080015e7cab52de7fe121433e68",
+  "text_status": "current-consolidated",
+  "title": "GALATASARAY ÜNİVERSİTESİ EĞİTİM-ÖĞRETİM VE\r\nSINAV YÖNETMELİĞİ",
+  "university_id": 194,
+  "word_count": 3397
+}
