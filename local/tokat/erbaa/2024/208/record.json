@@ -1,0 +1,24 @@
+{
+  "number": "208",
+  "number_as_published": "2024/208",
+  "year": 2024,
+  "title": "Belediye Meclisi Tarafından 14.08.2024 Tarihinde Yapılan Toplantıda Alınan Karar Özetleri-2024/208",
+  "decision_date": "2024-08-14",
+  "source": "https://www.erbaa.bel.tr/meclis-kararlari",
+  "official_document": "https://www.erbaa.bel.tr/karar/belediye-meclisi-tarafindan-14-08-2024-tarihinde-yapilan-toplantida-alinan-karar-ozetleri-2024-208",
+  "source_sha256": "ade636321514d819abf8c95251459e1bf28ebc55ac97046d058f1b873a6157bb",
+  "issuer": "Erbaa Belediye Meclisi",
+  "history_type": "metadata",
+  "text_status": "metadata-only: listing fields as published; complete decision text is in the linked official document, not transcribed",
+  "in_force": "2024-08-14",
+  "in_force_basis": "Decision date as printed in the official council listing: 14.08.2024 (meeting date in the title); adoption date of the council decision; legal commencement not asserted",
+  "missing": [
+    "complete official decision text",
+    "official annexes"
+  ],
+  "law_text_complete": false,
+  "privacy_withheld": false,
+  "official_page": "https://www.erbaa.bel.tr/karar/belediye-meclisi-tarafindan-14-08-2024-tarihinde-yapilan-toplantida-alinan-karar-ozetleri-2024-208",
+  "karar_no_as_published": "2024-208",
+  "record_scope": "one council decision (summary page)"
+}
