@@ -1,0 +1,23 @@
+{
+  "number": "meeting-08-15",
+  "number_as_published": null,
+  "year": 2024,
+  "title": "15.08.2024 TARİHLİ MECLİS KARAR ÖZETLERİ",
+  "decision_date": "2024-08-15",
+  "source": "https://www.kocaeli.bel.tr/meclis-karar/15082024-tarihli-meclis-karar-ozetleri-818.html",
+  "official_document": "https://www.kocaeli.bel.tr/files/uploads/documents/1724398433_15082024-tarihli-karar-ozeti-ilani_ustyazipdf.pdf",
+  "source_sha256": "e255fbd715fb145de79c38f1ec5748137de002700aea5c1d5f4adda93748bb37",
+  "issuer": "Kocaeli Büyükşehir Belediye Meclisi",
+  "history_type": "metadata",
+  "text_status": "metadata-only: listing fields as published; complete decision text is in the linked official document, not transcribed",
+  "in_force": "2024-08-15",
+  "in_force_basis": "Decision date as printed in the official council listing: 15.08.2024 TARİHLİ (meeting date in the official title); adoption date of the council decision; legal commencement not asserted",
+  "missing": [
+    "complete official decision text",
+    "official annexes"
+  ],
+  "law_text_complete": false,
+  "privacy_withheld": false,
+  "record_scope": "one official PDF of decision summaries per council meeting",
+  "listing": "https://www.kocaeli.bel.tr/meclis-karar-ozetleri.html"
+}
