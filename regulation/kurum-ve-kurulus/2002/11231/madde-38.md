@@ -1,0 +1,21 @@
+Şube Yönetim Kurulunun Görev ve Yetkileri
+Madde 38 — Şube Yönetim Kurulunun başlıca görev ve yetkileri şunlardır;
+a) Genel Kurulda alınan kararları uygulamak,
+b) Şube sınırları içinde Oda Başkan tarafından temsil edilir, Başkan olmadığı zaman II. Başkan, II.Başkan olmadığı zaman sırası ile Sekreter Üye ya da Sayman Üye yahut da Yönetim Kurulunca görevlendirilecek bir Yönetim Kurulu Üyesi aracılığı ile temsil edilir,
+c) Uzmanlık kollarının gelişmesi hakkında etütler yapmak, yaptırmak ve buna ait raporları, Şube ve Oda Genel Kurullarının onayına sunmak,
+d) Üyelerin, mesleki onur, hak ve çıkarlarını koruyacak önlemleri saptamak, bu konuda girişimlerde bulunmak,
+e) İstek halinde, bilirkişilik, hakemlik, eksperlik, jüri üyeliği, danışmanlık gibi görevlere üyeleri arasından adaylar önermek ve görevlendirmek,
+f) Çalışmalarına yardımcı olmak üzere komisyonlar kurmak, üyelerini seçmek ve çalışmalarını düzenlemek,
+g) Şube sınırları içindeki Temsilcilikleri denetlemek, gerekli işbirliği ve iletişimi sağlamak,
+h) Oda Yönetim Kurulu ile işbirliği ve iletişimi sağlamak,
+i) Odanın; şube sınırları içerisinde sahip olduğu taşınmaz malları, Oda adına yönetmek,
+j) Üyelerinin üniversite sonrası teknik eğitim ve öğretimlerine katkıda bulunacak seminer, söyleşi, konferans, kurs, panel, fuar, sergi, sempozyum ve ulusal/uluslar arası kongreleri Oda adına düzenlemek,
+k) Üyeler arası ilişki-iletişim ve dayanışmanın artmasına katkıda bulunacak sosyal etkinlikler düzenlemek; birim ziyaretleri gerçekleştirmek,
+l) İl/bölgelerindeki üniversiteler, kamu kuruluşları, sanayi kuruluşları, diğer meslek odaları ve sivil toplum örgütleri ile yöresel ve toplumsal konular/sorunlara yönelik ortak çalışmalar yapmak,
+m) İl/bölgelerindeki Kimya mühendisliği Bölümü öğrencileri ile birlikte çalışmalar yapmak; onlara gereken her türlü desteği vermek,
+n) Şube Genel Kuruluna sunulmak üzere çalışma raporunu, bilançoyu, yeni dönem gider bütçe tasarılarını hazırlamak, geçici ve sürekli çalışanlar kadrosunu saptayarak Şube ve Oda Genel Kurullarının onayına sunmak ve Şube Genel Kurulundan 10 gün önceden üyelere göndermek,
+o) Gerektiğinde Şube Genel Kurulunu Olağanüstü toplantıya çağırmak,
+p) TMMOB Danışma ve Oda Danışma Kurulu toplantılarına hazırlıklı olarak katılmak, gerektiğinde Şube Danışma Kurulunu toplantıya çağırmak,
+r) Şubenin aylık etkinlikleri, Yönetim Kurulu kararları, gelir-gider durumunu, kasa ve banka bakiyelerini ve muhasebe evraklarını izleyen ayın sonuna kadar Oda Yönetim Kuruluna göndermek,
+s) Oda Denetleme Kurulunun Şubeyi denetlemesi sırasında yardımcı olmak,
+t) Oda Genel Kuruluna seçilen delegelerin listesini Oda Yönetim Kuruluna göndermek.

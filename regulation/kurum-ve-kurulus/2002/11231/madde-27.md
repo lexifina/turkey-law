@@ -1,0 +1,5 @@
+Disiplin Suçları ve Cezalarının Uygulanması
+Madde 27 — Onur Kurulunca verilen cezalardan 26 ncı madde (a) ve (b) bentlerinde yazılı olanlar kesindir. (c), (d) ve (e) bentlerinde yazılı olan cezalara karşı ise, kararın bildirilmesi tarihinden itibaren onbeş gün içinde, Oda Yönetim Kurulu yoluyla veya doğrudan doğruya Yüksek Onur Kuruluna itiraz edilebilir. Bu cezaların uygulanabilmesi için de, Yüksek Onur Kurulunca onaylanmış olması gerekir.
+a) Üyeler veya üye olmayan meslek mensuplarından geçici olarak mesleği uygulamaktan uzaklaştırılanlar, bu süre içinde hiçbir surette mesleksel etkinlikte bulunamazlar. Bunlar Birlik tarafından derhal bütün ilgili yerlere ve kuruluşlara duyurulur ve kararın uygulanması sağlanır.
+b) Geçici olarak meslek uygulanmasından uzaklaştırılanlar, mesleklerini uygulayamadıkları gibi, mesleklerinin uygulanması için imza da kullanamazlar. Aksine hareket edenlerin cezaları bir kez daha artırılır.
+c) Üyelikten çıkarılma kararı, ancak genel hükümlere göre medeni haklarını kaybetmiş olanlar, ya da meslek toplumundan uzaklaştırılmalarında kesin zorunluluk görülenler hakkında verilebilir.

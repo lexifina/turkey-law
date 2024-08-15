@@ -1,0 +1,2 @@
+Temsilcilikler
+Madde 44 — Kimya Mühendislerinin yoğun olarak çalıştığı sanayi merkezlerinde Oda Genel Kurul kararı ile Bölge Temsilciliği, Şube Yönetim Kurulunun önerisi üzerine ve Oda Yönetim Kurulu kararı ile il, ilçe temsilcilikleri kurulabilir. Temsilcilik çalışmaları Temsilcilikler Yönetmeliğine göre yürütülür. Yönetmelikte belirtilmemiş hususlar için Oda Ana Yönetmeliği ve TMMOB Tüzüğü hükümleri geçerlidir.

@@ -1,0 +1,14 @@
+Şube Genel Kurulu
+Madde 34 — Şube Genel Kurulu iki yılda bir Ocak ayı içinde, Şubeye kayıtlı üye tam sayısının çoğunluğu ile toplanır. Birinci toplantıda çoğunluk sağlanamaması durumunda ikinci toplantı için çoğunluk aranmaz.
+Oda Yönetim Kurulu üyeleri, Denetleme ve Onur Kurulu üyeleri doğal üyedirler. Söz alır, görüş belirtir ancak oy kullanamazlar.
+a) Şube Yönetim Kurulu, Genel Kurul toplantısından en az on beş gün önce, Genel Kurula katılacak üyelerin Oda Yönetim Kurulu tarafından üçer kopya olarak hazırlanmış listelerini, toplantının yerini, gününü, saatini, gündemini ve ilk toplantıda çoğunluk olmadığı takdirde ikinci toplantıya ilişkin konuları belirten bir yazı ile birlikte görevli İlçe Seçim Kurulu Başkanlığına iletir. İlçe Seçim Kurulu Başkanlığınca incelenerek onaylanan listeler üç gün süre ile Oda ve Şubenin ilan yerinde üyelerin incelemesine sunulur. Askı süresince üyelerin itirazları, Şube aracılığı ile ya da doğrudan görevli hakime şahsen yapılır ve üye listesi İlçe Seçim Kurulu Başkanlığınca kesinleştirilir.
+b) Şubelerin Genel Kurul gündemine aşağıdaki maddelerin konulması zorunludur;
+1. Başkanlık Divanı Seçimi,
+2. Çalışma Raporunun okunması, görüşülmesi ve hakkında karar alınması,
+3. Şube Yönetim Kurulu asil ve yedek adayları ile Oda Genel Kurulu asil ve yedek delege adaylarının belirlenmesi ve duyurulması,
+4. Seçimler.
+c) Şube Genel Kurulları, Şube Yönetim Kurulu Başkanı, Yardımcısı ya da Yönetim Kurulunun kendi içinden belirleyeceği bir üye tarafından, Oda Gözlemcisinin toplantıda hazır bulunmasıyla açılır ve gündemin birinci maddesi gereğince Başkanlık Divanı seçilir .Oda Gözlemcisi, Oda Ana Yönetmeliği ve TMMOB Genel Kurul Yönetmeliği ile ilgili davranışlara sözlü veya yazılı müdahale edebilir.
+d) Şube Genel Kurullarında Başkanlık Divanı bir başkan, bir başkan yardımcısı ve iki Sekreterden oluşur. Genel Kurullarda TMMOB Genel Kurul Yönetmeliği uygulanır.
+e) Oda; Şubenin kuruluşu ile birlikte Şubeye ait bölgedeki kayıtlı üyelerin ad ve adres listesini Şubelere gönderir. Şube Genel Kurullarında o yıl içinde Şubeler arasında adres değişikliği yaptıran üyeler için 1 Aralık listeleri geçerlidir. Şubeler adres değişikliklerini 1 ay içinde Odaya gönderirler.
+f) Şube Genel Kurullarında bulunmak, görüşmelere katılmak ve oy kullanmak için, Oda Yönetim Kurulunca hazırlanıp görevli hakim tarafından kesinleştirilen üye listelerinin imzalanması yoluyla alınmış, Genel Kurul giriş kartının ve Oda kimliğinin gösterilmesi zorunludur. Organ ve delege seçimlerinde, Oda kimlik kartı yerine, resmi kuruluşlarca verilmiş resimli kimlik kartları da kullanılabilir.
+g) Genel Kurul Görüşmeleri ve kararları bir tutanağa bağlanarak Başkanlık Divanı üyeleri tarafından imzalanır ve dosyasında saklanmak üzere Şube Yönetim Kuruluna verilir. Ayrıca Oda Gözlemcisi de toplantıya ilişkin olarak düzenlediği raporu Oda Yönetim Kuruluna iletir.
