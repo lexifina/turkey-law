@@ -1,0 +1,7 @@
+Yabancı dil yeterlik sınavı ve muafiyet
+MADDE 9 – (1) Üniversiteye yeni kayıt yaptıran ve yatay geçiş başvurusu yapan öğrenciler, öğrenim görecekleri İngilizce bilgilerinin seviyelerinin belirlenmesi amacıyla yabancı dil hazırlık eğitiminden sorumlu birim tarafından hazırlanan yabancı dil yeterlik sınavına alınırlar. Bu sınav sonunda yabancı dil bilgileri yeterli bulunan öğrenciler, yerleştirildikleri Diş Hekimliği Fakültesine kaydedilirler.
+(2) Aşağıdaki öğrenciler, yabancı dil seviye tespit sınavından muaf tutulurlar.
+a) En az son üç yılında, öğretim dili olarak belirlenen yabancı dilin anadil olarak konuşulduğu bir ülkede, o ülke vatandaşlarının devam ettiği ortaöğretim kurumlarında eğitim görüp ortaöğrenimini bu kurumlarda tamamlayanlar.
+b) Öğretim dilinin anadil olarak konuşulduğu ülkelerde yabancıların yükseköğrenim görebilmeleri için aranan asgari yabancı dil seviyesinin tespiti amacına yönelik olarak yapılan sınavlarda 25/9/2013 tarihli ve 28776 sayılı Resmî Gazete’de yayımlanan Yeditepe Üniversitesi Yabancı Diller Hazırlık Programı Eğitim-Öğretim ve Sınav Yönetmeliği hükümlerine göre başarılı olanlar.
+c) Ölçme, Seçme ve Yerleştirme Merkezi tarafından yapılan ve bu fıkranın (b) bendinde belirtilen sınavlarla eşdeğerliği kabul edilen yabancı dil sınavlarında 100 tam puan üzerinden Senatoca belirlenen puanı alıp başarılı olanlar.
+(3) Yabancı dil hazırlık programı, Yeditepe Üniversitesi Yabancı Diller Hazırlık Programı Eğitim-Öğretim ve Sınav Yönetmeliği hükümlerine göre yürütülür.

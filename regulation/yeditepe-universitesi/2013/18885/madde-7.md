@@ -1,0 +1,2 @@
+Öğretim süresi
+MADDE 7 – (1) Yeditepe Üniversitesi Diş Hekimliği Fakültesinin normal öğretim süresi, bir yıl süreli yabancı dil hazırlık sınıfı hariç, beş yıl; azami öğretim süresi dokuz yıldır. Bu süreler içinde mezun olamayanlar için ilgili mevzuat hükümleri uygulanır. Üniversiteden belirli bir süre uzaklaştırma cezası alan öğrencilerin ceza aldıkları süre yukarıda belirtilen öğretim süresinden sayılır.
