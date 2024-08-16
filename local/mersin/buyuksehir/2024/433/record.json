@@ -1,0 +1,18 @@
+{
+  "issuer": "Mersin Büyükşehir Belediye Meclisi",
+  "number": "433",
+  "decision_date": "2024-08-16",
+  "title": "-MEC.KAR.(60 ADET OTOBÜS ALIMI - T1 CETVELİNE EKLENMESİ)",
+  "listed_as": "433-MEC.KAR.(60 ADET OTOBÜS ALIMI - T1 CETVELİNE EKLENMESİ)",
+  "subject_note": "subject as the meeting page lists it (the register shortens some long subjects)",
+  "official_document": "https://www.mersin.bel.tr/dokumanlar/433-meckar60-adet-otobus-alimi-t1-cetveline-eklenmesi-792897623",
+  "source_listing": "https://www.mersin.bel.tr/dokumanlar/16-agustos-2024-meclis-kararlari-252365282",
+  "listing_sha256": "ca30c5a99911ef117d07688ac8e79bf98412512f3e3aaffa67d840b83f803e02",
+  "meeting_title": "16 AĞUSTOS 2024 MECLİS KARARLARI",
+  "history_type": "metadata-only",
+  "capture_mode": "metadata-only",
+  "text_status": "metadata-only; official decision page linked, text not transcribed",
+  "date_basis": "meeting date in the official meeting page title (decision date of the session)",
+  "commencement_established": false,
+  "privacy_withheld": false
+}
