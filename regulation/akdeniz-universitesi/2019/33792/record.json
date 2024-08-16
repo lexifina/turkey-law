@@ -1,0 +1,64 @@
+{
+  "checked_on": "2026-11-14",
+  "commencement_clauses": [
+    "MADDE 48 – (1) Bu Yönetmelik yayımı tarihinde yürürlüğe girer."
+  ],
+  "date_evidence": [
+    [
+      "2019-09-18",
+      "18.09.2019",
+      "original gazette publication date in official listing"
+    ],
+    [
+      "2024-08-16",
+      "RG-16/8/2024-32634",
+      "latest source-printed gazette amendment date for current consolidated text"
+    ],
+    [
+      "2019-12-15",
+      "RG-15/12/2019-30979",
+      "latest source-printed gazette amendment date for current consolidated text"
+    ],
+    [
+      "2019-12-15",
+      "RG-15/12/2019-30979",
+      "latest source-printed gazette amendment date for current consolidated text"
+    ],
+    [
+      "2019-12-15",
+      "15/12/2019",
+      "latest gazette date in source amendment table"
+    ],
+    [
+      "2024-08-16",
+      "16/8/2024",
+      "latest gazette date in source amendment table"
+    ]
+  ],
+  "date_quote": "RG-16/8/2024-32634",
+  "first_law": null,
+  "gazette": "30892",
+  "history": "current-text",
+  "images": {
+    "deferred": 0,
+    "omitted": 0,
+    "referenced": 0,
+    "source": 0
+  },
+  "in_force": "2024-08-16",
+  "in_force_basis": "latest source-printed gazette amendment date for current consolidated text",
+  "issuer": "Akdeniz Üniversitesi",
+  "issuer_slug": "akdeniz-universitesi",
+  "kind": "regulation",
+  "label": "oldest version available",
+  "path": "regulation/akdeniz-universitesi/2019/33792",
+  "published": "2019-09-18",
+  "source": "https://www.mevzuat.gov.tr/anasayfa/MevzuatFihristDetayIframe?MevzuatTur=8&MevzuatNo=33792&MevzuatTertip=5",
+  "source_bytes": 132088,
+  "source_id": "8.5.33792",
+  "source_sha256": "00e86156fb1b50ed27116866d349e61244ea113429e7b9122d6f9a945bab22af",
+  "text_status": "current-consolidated",
+  "title": "AKDENİZ ÜNİVERSİTESİ ÖN LİSANS VE LİSANS EĞİTİM-ÖĞRETİM VE SINAV YÖNETMELİĞİ",
+  "university_id": 178,
+  "word_count": 6907
+}
