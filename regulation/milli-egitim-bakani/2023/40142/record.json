@@ -1,0 +1,46 @@
+{
+  "source_id": "7.5.40142",
+  "kind": "regulation",
+  "register_kind": "Kurum ve Kuruluş Yönetmelikleri",
+  "title": "MİLLÎ EĞİTİM BAKANLIĞI TEFTİŞ KURULU YÖNETMELİĞİ",
+  "number": "40142",
+  "issuer": "Millî Eğitim Bakanı",
+  "issuer_slug": "milli-egitim-bakani",
+  "path": "regulation/milli-egitim-bakani/2023/40142",
+  "source": "https://www.mevzuat.gov.tr/anasayfa/MevzuatFihristDetayIframe?MevzuatTur=7&MevzuatNo=40142&MevzuatTertip=5",
+  "source_sha256": "52b0a08f68dc5471b30699be7a20986ddc470ebaf08735d6175eda1ce5196f24",
+  "source_bytes": 189035,
+  "published": "2023-04-11",
+  "gazette": "32160",
+  "in_force": "2024-08-17",
+  "in_force_basis": "latest Resmî Gazete date printed in the source amendment notes/table (\"RG-17/8/2024\") for the current consolidated text",
+  "date_evidence": [
+    [
+      "2024-08-17",
+      "RG-17/8/2024",
+      "Resmî Gazete date printed in the source amendment note"
+    ],
+    [
+      "2024-08-17",
+      "17/8/2024",
+      "Resmî Gazete date in the source amendment table"
+    ]
+  ],
+  "commencement_clauses": [
+    "Bu Yönetmelik yayımı tarihinde yürürlüğe girer"
+  ],
+  "history": "current-text",
+  "label": "oldest version available",
+  "checked_on": "2026-11-15",
+  "word_count": 10679,
+  "text_status": "current-consolidated",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  },
+  "source_links": [
+    "7.5.40142-EK.docx"
+  ],
+  "completeness": "html-text-complete; linked annexes not fetched"
+}
