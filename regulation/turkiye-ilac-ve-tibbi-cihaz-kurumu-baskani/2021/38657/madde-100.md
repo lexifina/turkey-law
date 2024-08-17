@@ -1,0 +1,4 @@
+Tıbbi cihaz koordinasyon grubunda temsiliyet
+MADDE 100 – (1) Kurum, Komisyon tarafından kurulan Tıbbi Cihaz Koordinasyon Grubu ile birlikte hareket eder.
+(2) Kurum; yenilenebilir 3 yıllık bir süre için, tıbbi cihazlar alanında uzman olan bir asıl ve bir yedek temsilci ile in vitro diyagnostik cihazlar alanında uzman olan bir asıl ve bir yedek temsilciyi MDCG için belirler. Kurum, her iki alanda uzman olan yalnızca bir asıl ve bir yedek temsilci belirlemeyi tercih edebilir. Bu temsilciler, tıbbi cihazlar ve in vitro tanı cihazları alanında yetkin ve deneyimli olur ve Kurumu temsil edebilir. Temsilcilerin adları ve bağlı oldukları kurum kamuya açık hale getirilir. Asıl temsilcilerin yokluğunda onları temsil etmek üzere yedek temsilciler bulunur.
+(3) MDCG’nin oluşturduğu daimi veya geçici alt gruplara Kurum temsilcileri katılım sağlar.

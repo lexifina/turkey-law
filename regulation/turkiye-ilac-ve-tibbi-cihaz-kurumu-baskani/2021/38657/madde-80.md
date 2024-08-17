@@ -1,0 +1,3 @@
+Diğer klinik araştırmalarla ilgili gereklilikler
+Madde 80 – (1) 62 nci maddenin birinci fıkrasında listelenen amaçların herhangi biri uyarınca gerçekleştirilmeyen klinik araştırmalar, 62 nci maddenin ikinci ve üçüncü fıkrasının, 62 nci maddenin dördüncü fıkrasının (b), (c), (ç), (e), (g) ve (i) bentlerinin ve 62 nci maddenin altıncı fıkrasının hükümlerine uyar.
+(2) Kurum; gönüllülerin haklarını, güvenliğini, onurunu, refahını ve 62 nci maddenin birinci fıkrasında listelenen amaçlar haricinde yürütülen klinik araştırmaların bilimsel ve etik bütünlüğünü korumak için ihtiyaçları doğrultusunda bu tür araştırmalara ilişkin ilave gereklilikler belirler.

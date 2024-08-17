@@ -1,0 +1,16 @@
+Klinik araştırma başvurusunun değerlendirilmesi
+MADDE 71 – (1) Kurum; başvuruyu geçerli kılan ve değerlendiren veya başvuru hakkında karar veren kişilerin çıkar çatışmasının olmamasını, bu kişilerin sponsordan, ilgili araştırmacılardan, klinik araştırmayı finanse eden gerçek veya tüzel kişilerden ve ilaveten diğer usulsüz etkilerden bağımsız olmalarını sağlar.
+(2) Kurum; değerlendirmenin, gerekli niteliğe ve deneyime kolektif olarak sahip olan uygun sayıda kişi tarafından birlikte yapılmasını sağlar.
+(3) Kurum; klinik araştırmanın, risk minimizasyonu sonrasında gönüllüler veya üçüncü kişiler için kalan potansiyel risklerin, beklenen klinik faydalarla karşılaştırıldığında, gerekçelendirilecek bir şekilde tasarlanıp tasarlanmadığını değerlendirir. Kurum, uygulanabilir ortak spesifikasyonları veya uyumlaştırılmış standartları göz önünde tutarken, özellikle;
+a) Araştırma amaçlı cihazın/cihazların klinik araştırmanın kapsadığı hususlardan ayrı olarak uygulanabilir genel güvenlilik ve performans gerekliliklerine uygunluğunun gösterilmesini ve bu hususlarla ilgili gönüllülerin sağlığını ve güvenliğini korumak için bütün tedbirlerin alınmış olup olmadığını inceler. Bu inceleme, gerektiğinde teknik ve biyolojik güvenlik testlerinin ve klinik öncesi değerlendirmenin kanıtlarını kapsar.
+b) Sponsor tarafından kullanılan risk minimizasyon çözümlerinin uyumlaştırılmış standartlarda tanımlanıp tanımlanmadığını ve sponsorun uyumlaştırılmış standartları kullanmadığı durumlarda, risk minimizasyon çözümlerinin uyumlaştırılmış standartların sağladığına denk bir koruma seviyesi sağlayıp sağlamadığını inceler.
+c) Araştırma amaçlı cihazın güvenli kurulumu, hizmete sunumu ve bakımı için planlanan tedbirlerin yeterli olup olmadığını inceler.
+ç) İstatistiki yaklaşımlar, araştırmanın tasarımı ve örneklem büyüklüğü, karşılaştırma cihazı ve sonlanım noktaları da dâhil olmak üzere metodolojik hususlar dikkate alınarak klinik araştırmadan elde edilen verilerin güvenilirliğini ve tutarlılığını inceler.
+d) Ek XV’in gerekliliklerinin karşılanıp karşılanmadığını inceler.
+e) Steril kullanıma yönelik cihazlar söz konusu olduğunda, imalatçının sterilizasyon prosedürlerinin validasyon kanıtlarını veya araştırma tesisince yürütülmesi gereken yenileme ve sterilizasyon prosedürlerine ilişkin bilgileri inceler.
+f) Hayvan veya insan kaynaklı bileşenlerin ya da Beşeri Tıbbi Ürünler Ruhsatlandırma Yönetmeliği uyarınca tıbbi ürünler olarak kabul edilebilen maddelerin güvenliliğinin, kalitesinin ve yararlılığının gösterilmesini inceler.
+(4) Kurum; aşağıdaki durumlarda klinik araştırma için izin vermez ve Kurumca oluşturulan itiraz prosedürü kapsamında bu karara itirazda bulunulabilir:
+a) 70 inci maddenin birinci fıkrası uyarınca sunulan başvuru dosyasının tamamlanmamış kalması.
+b) Cihazın veya sunulan dokümanların, özellikle araştırma planının ve araştırmacı broşürünün güncel bilimsel bilgiyle uyumlu olmaması ve klinik araştırmanın özellikle, gönüllüler veya hastalar üzerinde cihazın güvenliliği, performans özellikleri veya faydalarına ilişkin kanıtlar sağlamak için uygun olmaması.
+c) 62 nci maddenin gerekliliklerinin karşılanmaması.
+ç) Üçüncü fıkra kapsamındaki herhangi bir değerlendirmenin olumsuz olması.

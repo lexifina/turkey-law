@@ -1,0 +1,7 @@
+Belirli cihazların tedarikinin kesintiye uğraması veya durdurulması durumunda yükümlülükler
+MADDE 10/A- (Ek:RG-17/8/2024-32635)(5)
+(1) Bu Yönetmelik uyarınca;
+a) Bir imalatçının ısmarlama imal edilen bir cihaz dışındaki bir cihazın tedarikinde bir kesinti veya durdurma öngördüğü ve bu tür bir kesintinin veya durdurmanın Türkiye veya bir ya da daha fazla AB üyesi ülkede hastalara veya kamu sağlığına ciddi zarar veya ciddi zarar riski ile sonuçlanabileceğinin makul olarak öngörülebilir olduğu durumlarda, imalatçı öngörülen kesinti veya durdurma hakkında Kurumu ve ayrıca cihazı doğrudan tedarik ettiği iktisadi işletmecileri, sağlık kuruluşlarını ve sağlık profesyonellerini bilgilendirir.
+b) İstisnai durumlar hariç olmak üzere, (a) bendinde atıfta bulunulan bilgiler, öngörülen kesintiden veya durdurmadan en az altı ay önce sağlanır. İmalatçı, Kuruma sağlanan bilgilerde kesintinin veya durdurmanın nedenlerini açıkça belirtir.
+(2) Kurum, birinci fıkrada atıfta bulunulan bilgileri aldıktan sonra, öngörülen kesinti veya durdurma hakkında diğer AB üyesi ülkelerin yetkili otoritelerini ve Komisyonu gecikmeksizin bilgilendirir.
+(3) Birinci fıkra uyarınca imalatçıdan veya tedarik zincirindeki başka bir iktisadi işletmeciden bilgi alan iktisadi işletmeciler, öngörülen kesinti veya durdurma hakkında doğrudan cihazı tedarik ettikleri diğer iktisadi işletmecileri, sağlık kuruluşlarını ve sağlık profesyonellerini gecikmeksizin bilgilendirir.

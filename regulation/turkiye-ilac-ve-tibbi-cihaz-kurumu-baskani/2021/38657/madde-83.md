@@ -1,0 +1,2 @@
+Piyasaya arz sonrası gözetim raporu
+MADDE 83 – (1) Sınıf I cihazların imalatçıları, yapılan her düzeltici ve önleyici faaliyetin gerekçesi ve açıklaması ile birlikte 82 nci maddede atıfta bulunulan piyasaya arz sonrası gözetim planının bir sonucu olarak toplanan piyasaya arz sonrası gözetim verilerinin analizi ile ilgili sonuçları ve değerlendirmeleri özetleyen bir piyasaya arz sonrası gözetim raporu hazırlar. Bu rapor, gerektiğinde güncellenir ve talebi halinde Kuruma sunulur.

@@ -1,0 +1,18 @@
+Bilgilendirilmiş gönüllü oluru
+MADDE 63 – (1) Bilgilendirilmiş gönüllü oluru; ikinci fıkra uyarınca usulüne uygun şekilde bilgilendirilmesinden sonra, gönüllü veya gönüllünün bilgilendirilmiş gönüllü olurunu veremediği durumlarda yasal vasisi ile ikinci fıkranın (c) bendinde atıfta bulunulan görüşmeyi gerçekleştiren kişi tarafından yazılır, tarih atılır ve imzalanır. Gönüllünün yazamadığı hallerde gönüllü oluru, en azından bir tarafsız tanığın mevcudiyetinde uygun alternatif yollar vasıtasıyla verilebilir ve kaydedilebilir. Bu durumda tanık, bilgilendirilmiş gönüllü oluru dokümanını tarih atarak imzalar. Gönüllüye veya gönüllünün bilgilendirilmiş gönüllü olurunu veremediği durumlarda yasal vasisine, uygun olduğunda bilgilendirilmiş gönüllü olurunun verilmiş olduğu dokümanın veya kaydın bir sureti sağlanır. Bilgilendirilmiş gönüllü oluru dokümante edilir. Gönüllüye veya onun yasal vasisine, klinik araştırmaya iştirak etmeye yönelik kararını düşünmesi için yeterli zaman verilir.
+(2) Bilgilendirilmiş gönüllü olurunu almak amacıyla, gönüllüye veya gönüllünün bilgilendirilmiş gönüllü olurunu veremediği durumlarda onun yasal vasisine verilen bilgiler;
+a) Gönüllünün veya yasal vasisinin;
+1) Klinik araştırmanın niteliğini, amaçlarını, faydalarını, olası sonuçlarını, risklerini ve dezavantajlarını,
+2) Gönüllünün korunmasıyla ilgili hakları ve güvenceleri, özellikle gönüllünün araştırmaya iştirak etmeyi reddetme hakkını ve herhangi bir zarar ortaya çıkmadan ve herhangi bir gerekçe sunmadan herhangi bir zamanda klinik araştırmadan geri çekilme hakkını,
+3) Klinik araştırmada gönüllüden beklenen iştirak süresi dâhil olmak üzere klinik araştırmaların hangi koşullar altında yürütüleceğini,
+4) Gönüllünün klinik araştırmaya iştirakının sonlanması halinde, takip tedbirleri dâhil olmak üzere olası tedavi alternatiflerini,
+anlamasını sağlar.
+b) Gönüllü veya yasal vasisi için kapsamlı, özlü, açık, konuyla ilgili ve anlaşılabilir şekilde olur.
+c) Araştırma ekibinin ilgili mevzuat kapsamında uygun nitelikte olan bir üyesi ile yapılan bir ön görüşmede sağlanır.
+ç) 69 uncu maddede atıfta bulunulan uygulanabilir zarar tazminatı sistemi hakkındaki bilgileri içerir.
+d) 70 inci maddenin birinci fıkrasında atıfta bulunulduğu şekliyle, klinik araştırmanın Türkiye ve AB genelindeki benzersiz tek bir kimlik numarasını ve bu maddenin altıncı fıkrası uyarınca klinik araştırma sonuçlarına erişilebilirlik hakkındaki bilgileri içerir.
+(3) İkinci fıkrada atıfta bulunulan bilgiler, yazılı olarak hazırlanır ve gönüllü veya gönüllünün bilgilendirilmiş gönüllü olurunu veremediği durumlarda yasal vasisi için elde edilebilir olur.
+(4) İkinci fıkranın (c) bendinde atıfta bulunulan görüşmede, bilgileri vermek için kullanılan yöntemlerle birlikte spesifik hasta popülasyonlarının ve bireysel gönüllülerin bilgi ihtiyaçlarına özellikle dikkat edilir.
+(5) İkinci fıkranın (c) bendinde atıfta bulunulan görüşmede, gönüllünün verilen bilgileri anladığı doğrulanır.
+(6) Gönüllü, klinik araştırma raporunun ve hedeflenen kullanıcı için anlaşılabilir şekilde sunulan bir özetin, klinik araştırmanın sonuçlarına bakılmaksızın 73 üncü maddede atıfta bulunulan klinik araştırmalara yönelik elektronik sistemde 77 nci maddenin beşinci fıkrası uyarınca erişilebilir olacağı hakkında bilgilendirilir. İlgili rapor ve özet kullanılabilir hale geldiğinde, mümkün olduğu ölçüde gönüllüye bildirilir.
+(7) Bu Yönetmelik, yasal vasisi tarafından verilen bilgilendirilmiş gönüllü oluruna ilave olarak görüş oluşturma ve kendisine verilen bilgileri değerlendirme kabiliyeti olan bir çocuğun, bir klinik araştırmaya iştirak etmesi için ayrıca onay vermesini gerektiren ilgili mevzuata halel getirmez.

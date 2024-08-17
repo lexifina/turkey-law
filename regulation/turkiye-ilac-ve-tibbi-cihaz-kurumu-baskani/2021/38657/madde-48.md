@@ -1,0 +1,3 @@
+Akran değerlendirmesi ve onaylanmış kuruluşlardan sorumlu otoriteler arasında tecrübe paylaşımı
+MADDE 48 – (1) Kurum, Komisyon tarafından oluşturulan ve onaylanmış kuruluşlardan sorumlu otoriteler arasında tecrübe paylaşımını amaçlayan mekanizmaya katılım sağlar.
+(2) Kurum, birinci fıkrada belirtilen mekanizma vasıtasıyla her 3 yılda bir akran değerlendirmesine katılır. Bu tür değerlendirmeler, genellikle 39 uncu maddede ifade edilen yerinde ortak değerlendirmelere paralel olarak yürütülür. Alternatif olarak, 44 üncü maddede atıfta bulunulan izleme faaliyetlerinin bir bölümü olarak bu tür değerlendirmeler yapılabilir.

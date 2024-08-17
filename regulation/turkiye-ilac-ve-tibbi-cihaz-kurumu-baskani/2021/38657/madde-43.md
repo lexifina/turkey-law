@@ -1,0 +1,2 @@
+Onaylanmış kuruluşların kimlik numarası
+MADDE 43 – (1) 42 nci maddenin onuncu fıkrası uyarınca bildirimi geçerlilik kazanan her onaylanmış kuruluşa Komisyon tarafından bir kimlik numarası atanır. Kuruluş birden fazla mevzuat kapsamında onaylanmış olsa bile tek bir kimlik numarası atanır. 110 uncu madde ile yürürlükten kaldırılan Tıbbi Cihaz Yönetmeliği ve Vücuda Yerleştirilebilir Aktif Tıbbi Cihazlar Yönetmeliği uyarınca onaylanan kuruluşlar, bu Yönetmelik uyarınca atandıklarında söz konusu Yönetmeliklere göre kendilerine atanan kimlik numaralarını korurlar.

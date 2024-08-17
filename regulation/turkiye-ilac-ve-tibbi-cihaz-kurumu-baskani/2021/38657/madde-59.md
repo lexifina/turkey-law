@@ -1,0 +1,3 @@
+Uygunluk değerlendirme prosedürlerine ilişkin istisna
+MADDE 59 – (1) 52 nci maddeye istisna olarak Kurum, usulüne uygun şekilde gerekçelendirilmiş bir talep üzerine, söz konusu maddede atıfta bulunulan geçerli prosedürlerin yürütülmediği; ancak kullanımı kamu sağlığı veya hasta güvenliği ya da sağlığı yararına olan spesifik bir cihazın, yurt içinde piyasaya arz edilmesine ya da hizmete sunulmasına izin verebilir.
+(2) Kurum; bu tür iznin tek bir hasta için verilmemiş olması durumunda, birinci fıkra uyarınca bir cihazın piyasaya arz edilmesine veya hizmete sunulmasına ilişkin izin verme kararını Komisyon’a ve AB üyesi ülkelere bildirir.

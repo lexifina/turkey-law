@@ -1,0 +1,18 @@
+İthalatçıların genel yükümlülükleri
+MADDE 13 - (1) İthalatçılar, yalnızca bu Yönetmeliğe uygun cihazları piyasaya arz ederler.
+(2) İthalatçılar;
+a) Bir cihazı piyasaya arz etmek için;
+1) Cihazın CE işaretli olduğunu ve AB uygunluk beyanının düzenlenmiş olduğunu,
+2) İmalatçının tanımlandığını ve 11 inci madde uyarınca imalatçı tarafından bir yetkili temsilcinin atanmış olduğunu,
+3) Cihazın bu Yönetmelik uyarınca etiketlendiğini ve gerekli kullanım talimatının cihazın beraberinde bulunduğunu,
+4) Gerektiği hallerde, 27 nci madde uyarınca imalatçı tarafından UDI tahsis edilmiş olduğunu,
+doğrular.
+b) Bir cihazın bu Yönetmeliğin gerekliliklerine uygun olmadığını düşünmesi veya buna ilişkin gerekçesi olması durumunda, uygun hale getirilene kadar cihazı piyasaya arz etmez ve imalatçı ile imalatçının yetkili temsilcisini bilgilendirir. İthalatçının, cihazın ciddi bir risk teşkil ettiğini veya sahte cihaz olduğunu düşünmesi ya da buna ilişkin gerekçesi olması durumunda, söz konusu ithalatçı Kurumu da bilgilendirir.
+(3) İthalatçılar, cihazın ya da ambalajının üzerinde ya da cihazın beraberinde bulunan bir dokümanda adlarını, kayıtlı ticari unvanlarını veya kayıtlı ticari markalarını, kendilerine ulaşılabilecek kayıtlı iş yerini ve adresini belirtir. İthalatçılar, ilave bir etiketin imalatçı tarafından sağlanan etiket üzerindeki herhangi bir bilgiyi kapatmamasını sağlar.
+(4) İthalatçılar, 29 uncu madde uyarınca cihazın elektronik sisteme kaydedildiğini doğrular ve 31 inci maddeye uygun olarak kayıt işlemine kendileri ile ilgili detayları ekler.
+(5) İthalatçılar; bir cihaz kendi sorumlulukları altında iken depolama veya nakledilme koşullarının, cihazın Ek I’de belirlenen genel güvenlilik ve performans gerekliliklerine uygunluğunu tehlikeye atmamasını sağlar ve varsa imalatçı tarafından belirlenen koşullara uyar.
+(6) İthalatçılar; şikâyetlerin, uygun olmayan cihazların, geri çağırmaların ve piyasadan çekmelerin kaydını tutar ve şikâyetleri araştırmalarına imkân tanımak üzere kendilerinden talep edilen bilgileri imalatçıya, yetkili temsilciye ve dağıtıcılara temin eder.
+(7) Piyasaya arz ettikleri bir cihazın bu Yönetmeliğe uygun olmadığını düşünen veya buna ilişkin gerekçesi olan ithalatçılar; imalatçıyı ve yetkili temsilciyi ivedilikle bilgilendirir. İthalatçılar; bu cihazı uygun hale getirmeye, piyasadan çekmeye veya geri çağırmaya yönelik gerekli düzeltici faaliyetin yürütülmesini sağlamak için imalatçı, yetkili temsilci ve Kurum ile iş birliği yapar. Cihazın önemli bir risk teşkil ettiği durumda ithalatçı; Kurumu ve varsa söz konusu cihaz için 56 ncı madde uyarınca sertifika düzenlemiş olan onaylanmış kuruluşu, özellikle uygunsuzluk ve yapılan düzeltici faaliyet hakkında ayrıntılar vererek ivedilikle bilgilendirir.
+(8) Piyasaya arz ettikleri bir cihazla ilgili şüpheli olumsuz olaylar hakkında sağlık profesyonelleri, hastalar veya kullanıcılardan şikâyetler ya da raporlar alan ithalatçılar, bu bilgileri imalatçıya ve yetkili temsilciye ivedilikle iletir.
+(9) İthalatçılar, 10 uncu maddenin sekizinci fıkrasında atıfta bulunulan süre boyunca, AB uygunluk beyanının bir suretini ve uygulanabilir ise tadilleri ve ekleri dâhil olmak üzere 56 ncı madde uyarınca düzenlenmiş olan ilgili her sertifikanın bir suretini bulundurur.
+(10) İthalatçılar, piyasaya arz ettikleri cihazlardan kaynaklanan riskleri ortadan kaldırmak veya bunun mümkün olmadığı durumlarda azaltmak için yapılan her türlü faaliyetle ilgili, talebi üzerine Kurum ile iş birliği yapar. Kurumun talebi halinde ithalatçılar, cihaz numunelerini bedelsiz sunar veya bunun uygulanabilir olmadığı durumlarda cihaza erişimi sağlar.
