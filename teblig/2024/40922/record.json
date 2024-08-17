@@ -1,0 +1,30 @@
+{
+  "source_id": "9.5.40922",
+  "kind": "communique",
+  "register_kind": "Tebliğler",
+  "title": "BELİRLİ SINIF D İN VİTRO TANI AMAÇLI TIBBİ CİHAZLARA YÖNELİK ORTAK SPESİFİKASYONLAR HAKKINDA TEBLİĞ",
+  "number": "40922",
+  "issuer": "Türkiye İlaç ve Tıbbî Cihaz Kurumu Başkanı",
+  "path": "teblig/2024/40922",
+  "source": "https://www.mevzuat.gov.tr/anasayfa/MevzuatFihristDetayIframe?MevzuatTur=9&MevzuatNo=40922&MevzuatTertip=5",
+  "source_sha256": "7783d531af62477e77de48e06c1dff2f4ec20bc77f53be70a0ae61ae6e33e444",
+  "source_bytes": 22160,
+  "published": "2024-08-17",
+  "gazette": "32635",
+  "in_force": "2024-08-17",
+  "in_force_basis": "Resmî Gazete publication date in the official listing (17.08.2024)",
+  "history": "current-text",
+  "label": "oldest version available",
+  "checked_on": "2026-11-15",
+  "word_count": 1012,
+  "text_status": "current-consolidated",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  },
+  "source_links": [
+    "9.5.40922-Ek.docx"
+  ],
+  "completeness": "html-text-complete; linked annexes not fetched"
+}
