@@ -1,0 +1,2 @@
+Onaylanmış kuruluşların kimlik numarası
+MADDE 41 – (1) 40 ıncı maddenin onuncu fıkrası uyarınca bildirimi geçerlilik kazanan her onaylanmış kuruluşa Komisyon tarafından bir kimlik numarası atanır. Kuruluş birden fazla mevzuat kapsamında onaylanmış olsa bile tek bir kimlik numarası atanır. 107 nci madde ile yürürlükten kaldırılan Vücut Dışında Kullanılan (İn Vitro) Tıbbi Tanı Cihazları Yönetmeliği uyarınca onaylanan kuruluşlar, bu Yönetmelik uyarınca atandıklarında söz konusu Yönetmeliğe göre kendilerine atanan kimlik numaralarını korurlar.

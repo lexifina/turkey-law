@@ -1,0 +1,63 @@
+{
+  "source_id": "7.5.38658",
+  "kind": "regulation",
+  "register_kind": "Kurum ve Kuruluş Yönetmelikleri",
+  "title": "İN VİTRO TANI AMAÇLI TIBBİ CİHAZ YÖNETMELİĞİ",
+  "number": "38658",
+  "issuer": "Türkiye İlaç ve Tıbbi Cihaz Kurumu Başkanı",
+  "issuer_slug": "turkiye-ilac-ve-tibbi-cihaz-kurumu-baskani",
+  "path": "regulation/turkiye-ilac-ve-tibbi-cihaz-kurumu-baskani/2021/38658",
+  "source": "https://www.mevzuat.gov.tr/anasayfa/MevzuatFihristDetayIframe?MevzuatTur=7&MevzuatNo=38658&MevzuatTertip=5",
+  "source_sha256": "d29b2a1b8bb3fab4f29f943863da14bc729717edf134693360da98a8e1982522",
+  "source_bytes": 462460,
+  "published": "2021-06-02",
+  "gazette": "31499 Mükerrer",
+  "in_force": "2024-08-17",
+  "in_force_basis": "latest Resmî Gazete date printed in the source amendment notes/table (\"RG-17/8/2024\") for the current consolidated text",
+  "date_evidence": [
+    [
+      "2024-08-17",
+      "RG-17/8/2024",
+      "Resmî Gazete date printed in the source amendment note"
+    ],
+    [
+      "2024-08-17",
+      "17/8/2024",
+      "Resmî Gazete date in the source amendment table"
+    ],
+    [
+      "2023-04-02",
+      "RG-2/4/2023",
+      "Resmî Gazete date printed in the source amendment note"
+    ],
+    [
+      "2023-04-02",
+      "2/4/2023",
+      "Resmî Gazete date in the source amendment table"
+    ],
+    [
+      "2022-07-29",
+      "RG-29/7/2022",
+      "Resmî Gazete date printed in the source amendment note"
+    ],
+    [
+      "2022-07-29",
+      "29/7/2022",
+      "Resmî Gazete date in the source amendment table"
+    ]
+  ],
+  "history": "current-text",
+  "label": "oldest version available",
+  "checked_on": "2026-11-15",
+  "word_count": 29567,
+  "text_status": "current-consolidated",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  },
+  "source_links": [
+    "7.5.38658-Ek.docx"
+  ],
+  "completeness": "html-text-complete; linked annexes not fetched"
+}

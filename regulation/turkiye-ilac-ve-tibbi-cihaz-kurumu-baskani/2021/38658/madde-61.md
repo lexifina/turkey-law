@@ -1,0 +1,18 @@
+Bilgilendirilmiş gönüllü oluru
+MADDE 61 – (1) Bilgilendirilmiş gönüllü oluru; ikinci fıkra uyarınca usulüne uygun şekilde bilgilendirilmesinden sonra, gönüllü veya gönüllünün bilgilendirilmiş gönüllü olurunu veremediği durumlarda yasal vasisi ile ikinci fıkranın (c) bendinde atıfta bulunulan görüşmeyi gerçekleştiren kişi tarafından yazılır, tarih atılır ve imzalanır. Gönüllünün yazamadığı hallerde gönüllü oluru, en azından bir tarafsız tanığın mevcudiyetinde uygun alternatif yollar vasıtasıyla verilebilir ve kaydedilebilir. Bu durumda tanık, bilgilendirilmiş gönüllü oluru dokümanını tarih atarak imzalar. Gönüllüye veya gönüllünün bilgilendirilmiş gönüllü olurunu veremediği durumlarda yasal vasisine, uygun olduğunda bilgilendirilmiş gönüllü olurunun verilmiş olduğu dokümanın veya kaydın bir sureti sağlanır. Bilgilendirilmiş gönüllü oluru dokümante edilir. Gönüllüye veya onun yasal vasisine, performans çalışmasına iştirak etmeye yönelik kararını düşünmesi için yeterli zaman verilir.
+(2) Bilgilendirilmiş gönüllü olurunu almak amacıyla, gönüllüye veya gönüllünün bilgilendirilmiş gönüllü olurunu veremediği durumlarda onun yasal vasisine verilen bilgiler;
+a) Gönüllünün veya yasal vasisinin;
+1) Performans çalışmasının niteliği, amaçları, faydaları, olası sonuçları, riskleri ve dezavantajlarını,
+2) Gönüllünün korunmasıyla ilgili hakları ve güvenceleri, özellikle gönüllünün çalışmaya iştirak etmeyi reddetme hakkını ve herhangi bir zarar ortaya çıkmadan ve herhangi bir gerekçe sunmadan herhangi bir zamanda performans çalışmasından geri çekilme hakkını,
+3) Performans çalışmasında gönüllüden beklenen iştirak süresi dâhil olmak üzere çalışmanın hangi koşullar altında yürütüleceğini,
+4) Gönüllünün performans çalışmasına iştirakının sonlanması halinde, takip tedbirleri dâhil olmak üzere olası tedavi alternatiflerini,
+anlamasını sağlar.
+b) Gönüllü veya yasal vasisi için kapsamlı, özlü, açık, konuyla ilgili ve anlaşılabilir şekilde olur.
+c) Araştırma ekibinin ilgili mevzuat kapsamında uygun nitelikte olan bir üyesi ile yapılan bir ön görüşmede sağlanır.
+ç) 67 nci maddede atıfta bulunulan uygulanabilir zarar tazminatı sistemi hakkındaki bilgileri içerir ve
+d) 68 inci maddenin birinci fıkrasında atıfta bulunulduğu şekliyle, performans çalışmasının Türkiye ve AB genelindeki benzersiz tek bir kimlik numarasını ve altıncı fıkra uyarınca performans çalışması sonuçlarına erişilebilirlik hakkındaki bilgileri içerir.
+(3) İkinci fıkrada atıfta bulunulan bilgiler, yazılı olarak hazırlanır ve gönüllü veya gönüllünün bilgilendirilmiş gönüllü olurunu veremediği durumlarda yasal vasisi için elde edilebilir olur.
+(4) İkinci fıkranın (c) bendinde atıfta bulunulan görüşmede, bilgileri vermek için kullanılan yöntemlerle birlikte spesifik hasta popülasyonlarının ve bireysel gönüllülerin bilgi ihtiyaçlarına özellikle dikkat edilir.
+(5) İkinci fıkranın (c) bendinde atıfta bulunulan görüşmede, gönüllünün verilen bilgileri anladığı doğrulanır.
+(6) Gönüllü, performans çalışması raporunun ve hedeflenen kullanıcı için anlaşılabilir şekilde sunulan bir özetin, performans çalışmasının sonuçlarına bakılmaksızın 71 inci maddede atıfta bulunulan performans çalışmalarına yönelik elektronik sistemde 75 inci maddenin beşinci fıkrası uyarınca erişilebilir olacağı hakkında bilgilendirilir. İlgili rapor ve özet, kullanılabilir hale geldiğinde, mümkün olduğu ölçüde gönüllüye bildirilir.
+(7) Bu Yönetmelik, yasal vasisi tarafından verilen bilgilendirilmiş gönüllü oluruna ilave olarak görüş oluşturma ve kendisine verilen bilgileri değerlendirme kabiliyeti olan bir çocuğun, bir performans çalışmasına iştirak etmesi için ayrıca onay vermesini gerektiren ilgili mevzuata halel getirmez.

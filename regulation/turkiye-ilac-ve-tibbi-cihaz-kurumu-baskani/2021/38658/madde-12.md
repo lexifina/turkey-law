@@ -1,0 +1,15 @@
+Yetkili temsilci
+MADDE 12 - (1) İmalatçısının Türkiye veya AB üyesi ülkelerde yerleşik olmaması durumunda cihaz, yalnızca imalatçının bir yetkili temsilci ataması şartıyla piyasaya arz edilebilir.
+(2) Yetkili temsilcinin atanması, bir yetki belgesi düzenlendiğinde ve yetkili temsilci tarafından yazılı olarak kabul edildiğinde geçerlilik kazanır ve asgari olarak aynı jenerik cihaz grubundaki cihazların tümünü kapsar.
+(3) Yetkili temsilci; yetkili temsilci ile imalatçı arasında mutabık kalınarak yetki belgesinde belirtilen görevleri yerine getirir. Yetkili temsilci, yetki belgesinin bir suretini talebi üzerine Kuruma sağlar. Yetki belgesi; kapsamındaki cihazlarla ilgili olarak yetkili temsilcinin asgari aşağıdaki görevleri yerine getirmesini gerektirir ve imalatçı, yetkili temsilcinin bu görevleri yerine getirmesine olanak sağlar:
+a) İmalatçı tarafından, AB uygunluk beyanının ve teknik dokümantasyonun hazırlanmış olduğunu ve gerektiği hallerde uygun bir uygunluk değerlendirme prosedürünün yürütülmüş olduğunu doğrulamak.
+b) Teknik dokümantasyonun ve AB uygunluk beyanının bir sureti ile uygulanabilir olduğunda tadilleri ve ekleri dâhil olmak üzere 53 üncü madde uyarınca düzenlenen ilgili sertifikanın bir suretini, 11 inci maddenin yedinci fıkrasında atıfta bulunulan süre boyunca Kuruma sunmak üzere muhafaza etmek.
+c) 29 uncu maddede belirtilen kayıt yükümlülüklerine uymak ve imalatçının 27 nci maddede belirtilen kayıt yükümlülüklerine uyduğunu doğrulamak.
+ç) Kurumun talebi üzerine, bir cihazın uygunluğunu göstermek için gerekli tüm bilgi ve belgeleri Türkçe ve/veya Kurumun uygun gördüğü bir AB resmi dilinde sağlamak.
+d) Kurumun numune veya bir cihaza erişime yönelik taleplerini imalatçıya iletmek ve Kurumun numuneleri aldığını veya cihaza erişim sağladığını doğrulamak.
+e) Cihazlardan kaynaklanan riskleri gidermek veya bu mümkün değilse azaltmak için yapılan düzeltici veya önleyici faaliyetler konusunda yetkili otoriteler ile iş birliği yapmak.
+f) Atandıkları bir cihazla ilgili şüpheli olumsuz olaylar konusunda sağlık profesyonelleri, hastalar ve kullanıcılardan gelen şikâyetler ve raporlar hakkında imalatçıyı ivedilikle bilgilendirmek.
+g) İmalatçının bu Yönetmelik kapsamındaki yükümlülüklerine aykırı hareket etmesi halinde yetki belgesini feshetmek.
+(4) Üçüncü fıkrada atıfta bulunulan yetki belgesi kapsamında imalatçı 11 inci maddenin birinci, ikinci, üçüncü, dördüncü, beşinci, altıncı, sekizinci, dokuzuncu, onuncu ve on birinci fıkralarında belirtilen yükümlülüklerini devredemez.
+(5) Dördüncü fıkraya halel gelmeksizin, imalatçının 11 inci maddede belirtilen yükümlülüklere uymadığı durumda, yetkili temsilci kusurlu cihazlar için yasal olarak imalatçı ile aynı temelde, müteselsilen sorumlu olur.
+(6) Üçüncü fıkranın (g) bendinde atıfta bulunulan gerekçelerle yetki belgesini fesheden bir yetkili temsilci, yetki belgesinin feshi ve bunun gerekçeleri hakkında Kurumu ve varsa, cihazın uygunluk değerlendirmesine dâhil olan onaylanmış kuruluşu ivedilikle bilgilendirir.

@@ -1,0 +1,2 @@
+Piyasaya arz sonrası gözetim raporu
+MADDE 80 – (1) Sınıf A ve B cihazların imalatçıları, yapılan her düzeltici ve önleyici faaliyetin gerekçesi ve açıklaması ile birlikte 79 uncu maddede atıfta bulunulan piyasaya arz sonrası gözetim planının bir sonucu olarak toplanan piyasaya arz sonrası gözetim verilerinin analizi ile ilgili sonuçları ve değerlendirmeleri özetleyen bir piyasaya arz sonrası gözetim raporu hazırlar. Bu rapor, gerektiğinde güncellenir, talebi halinde Kuruma ve onaylanmış kuruluşa sunulur.

@@ -1,0 +1,9 @@
+Periyodik güvenlilik güncelleme raporu
+MADDE 81 – (1) Bu Yönetmelik uyarınca:
+a) Sınıf C ve sınıf D cihazların imalatçıları; her bir cihaz ve ilgili olduğu yerde her bir cihaz kategorisi veya grubu için, yapılan her düzeltici ve önleyici faaliyetin gerekçesi ve açıklaması ile birlikte 79 uncu maddede atıfta bulunulan piyasaya arz sonrası gözetim planının bir sonucu olarak toplanan piyasaya arz sonrası gözetim verilerinin analiz sonuçları ve değerlendirmelerini özetleyen bir periyodik güvenlilik güncelleme raporu (PSUR) hazırlar. İlgili cihazın kullanım ömrü boyunca, periyodik güvenlilik güncelleme raporu aşağıdakileri belirtir:
+1) Fayda-risk tespitinin sonuçlarını.
+2) Piyasaya arz sonrası performans takibinin ana bulgularını ve
+3) Cihazın satış hacmi, cihazı kullanan popülasyonun büyüklüğü ile diğer özelliklerinin tahmini bir değerlendirmesi ve uygulanabildiği hallerde cihazın kullanım sıklığını.
+b) Sınıf C ve sınıf D cihazların imalatçıları, periyodik güvenlilik güncelleme raporunu asgari olarak yılda 1 kez günceller. Bu rapor, Ek II ve Ek III’te belirtildiği şekilde teknik dokümantasyonun bir parçası olur.
+(2) Sınıf D cihazlar için imalatçılar, 50 nci madde uyarınca uygunluk değerlendirmesine dâhil olan onaylanmış kuruluşa 86 ncı maddede atıfta bulunulan elektronik sistem vasıtasıyla periyodik güvenlilik güncelleme raporlarını sunar. Onaylanmış kuruluş, raporu inceler ve yapılan her faaliyetin ayrıntılarıyla birlikte kendi değerlendirmesini bu elektronik sisteme ekler. Bu tür periyodik güvenlilik güncelleme raporları ve onaylanmış kuruluş değerlendirmeleri, söz konusu elektronik sistem vasıtasıyla Kurum ve diğer yetkili otoriteler için erişilebilir olur.
+(3) Sınıf C cihazlar için imalatçılar, periyodik güvenlilik güncelleme raporlarını uygunluk değerlendirmesine dâhil olan onaylanmış kuruluşa ve talebi halinde Kuruma ve diğer yetkili otoritelere sunar.
