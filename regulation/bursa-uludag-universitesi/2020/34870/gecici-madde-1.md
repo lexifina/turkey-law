@@ -1,0 +1,1 @@
+GEÇİCİ MADDE 1 – (1) Üniversiteye 2013-2014 eğitim-öğretim yılı ve daha öncesinde kayıt yaptıran öğrenciler, mezuniyet için gereken AKTS kredi yükünü sağlayamamaları durumunda, kayıtlı oldukları programların tüm ders ve çalışmalarından başarılı olmaları ve GANO’larının en az 2.00 olması halinde mezun olmaya hak kazanırlar.

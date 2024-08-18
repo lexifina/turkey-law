@@ -1,0 +1,6 @@
+Alt düzeyde diploma alma, meslek yüksekokuluna geçiş
+MADDE 38 – (1) Bir lisans programını tamamlamayan veya tamamlayamayan öğrencilere, 18/3/1989 tarihli ve 20112 sayılı Resmî Gazete’de yayımlanan Lisans Öğrenimlerini Tamamlamayan veya Tamamlayamayanların Ön Lisans Diploması Almaları veya Meslek Yüksekokullarına İntibakları Hakkında Yönetmelik hükümlerine göre önlisans diploması verilir. Bunun için;
+a) Eğitim süresi 4 yıl olan lisans programının ilk 4 yarıyılının bütün derslerinden başarılı olan ve en az 120 AKTS kredisini sağlayan öğrencilere, başvurmaları halinde önlisans diploması verilir.
+b) Eğitim süresi 4 yıl ve üzerinde olan fakültelerde en az 120 AKTS kredisini sağlayarak ilk 4 yarıyılını başarı ile tamamlayanlara önlisans; en az 240 AKTS kredisini sağlayarak ilk 8 yarıyılını başarı ile tamamlayanlara da lisans diploması verilir.
+c) Önlisans diploması almak için yapılacak başvurular herhangi bir süre ile sınırlı değildir.
+(2) Bir lisans programının en az ilk 4 yarıyılının bütün derslerinden veya o lisans programının en az % 60’ından başarılı olup da lisans programını tamamlamayan veya tamamlayamayanlar, ilgili birim ile ilişiklerinin kesildiği tarihten itibaren 6 ay içinde müracaat etmek şartıyla meslek yüksekokullarının benzer ve uygun programlarına intibak ettirilebilirler.

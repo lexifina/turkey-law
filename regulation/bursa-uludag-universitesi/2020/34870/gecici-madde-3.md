@@ -1,0 +1,1 @@
+GEÇİCİ MADDE 3 – (1) Üniversiteye 2015-2016 eğitim-öğretim yılı ve daha öncesinde kayıt olan öğrencilerden GANO’ları 1.99 ve altında olanlar öncelikle başarısız oldukları dersleri tekrar ederler. Bu öğrenciler üst yarıyıldan/yıldan ders alamazlar ve kredi yükleri bir yarıyılda 30 AKTS’yi geçemez.

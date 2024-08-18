@@ -1,0 +1,4 @@
+Yabancı dil hazırlık sınıfı
+MADDE 14 – (1) Yabancı dil öğretimi, 23/8/2020 tarihli ve 31222 sayılı Resmî Gazete’de yayımlanan Bursa Uludağ Üniversitesi Yabancı Diller Yüksekokulu Yabancı Dil Eğitim-Öğretim ve Sınav Yönetmeliğine göre yürütülür.
+(2) Yabancı dille öğretim yapılan ve zorunlu yabancı dil hazırlık sınıfı bulunan programlarda öğrencilerin önlisans/lisans programına başlayabilmeleri için Bursa Uludağ Üniversitesi Yabancı Diller Yüksekokulu Yabancı Dil Eğitim-Öğretim ve Sınav Yönetmeliğinde belirtilen şartları yerine getirmeleri gerekir.
+(3) Öğretim dili tamamen veya kısmen yabancı dil olan programların hazırlık sınıflarından başarısızlık nedeniyle kaydı silinen öğrenciler, ÖSYM tarafından aynı adı taşıyan ve öğretim dili Türkçe olan programlara YÖK’ün belirlediği esaslara göre yerleştirilebilirler.

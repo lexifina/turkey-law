@@ -1,0 +1,3 @@
+Yatay geçiş işlemleri
+MADDE 7 – (1) Yatay geçiş kontenjanları, başvuru ve kabul şartları, takvim, intibak ve muafiyet işlemleri hakkında 24/4/2010 tarihli ve 27561 sayılı Resmî Gazete’de yayımlanan Yükseköğretim Kurumlarında Önlisans ve Lisans Düzeyindeki Programlar Arasında Geçiş, Çift Anadal, Yan Dal ile Kurumlar Arası Kredi Transferi Yapılması Esaslarına İlişkin Yönetmelik ile Senato tarafından çıkarılan yönerge hükümleri uygulanır.
+(2) Üniversiteden yatay geçiş yolu ile ayrılan öğrencilerin dosyaları, yazılı olarak talep etmesi halinde geçiş yapılan yükseköğretim kurumuna gönderilir. Gönderilen belgelerin tümünün birer fotokopisi öğrencinin dosyasında saklanır.

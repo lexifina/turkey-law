@@ -1,0 +1,25 @@
+Tanımlar
+MADDE 4 – (Değişik:RG-18/8/2024-32636)
+(1) Bu Yönetmelikte geçen;
+a) AKTS: Avrupa Kredi Transfer Sistemini,
+b) Birim: Bursa Uludağ Üniversitesine bağlı fakülte, konservatuvar, yüksekokul ve meslek yüksekokullarını,
+c) Birim yönetim kurulu: Bursa Uludağ Üniversitesine bağlı fakültelerde fakülte yönetim kurulunu, Devlet konservatuvarında konservatuvar yönetim kurulunu, yüksekokullarda yüksekokul yönetim kurulunu, meslek yüksekokullarında meslek yüksekokul yönetim kurulunu,
+ç) Birim kurulu: Bursa Uludağ Üniversitesine bağlı fakültelerde fakülte kurulunu, Devlet konservatuvarında konservatuvar kurulunu, yüksekokullarda yüksekokul kurulunu, meslek yüksekokullarında meslek yüksekokul kurulunu,
+d) Bölüm: Fakülte ve yüksekokulların amaç, kapsam ve nitelik yönünden bir bütün oluşturan eğitim-öğretim, bilim ve sanat dallarında araştırma ve uygulama yapan birimlerini,
+e) Bölüm kurulu: Bursa Uludağ Üniversitesine bağlı fakülte, konservatuvar, yüksekokul ve meslek yüksekokullarındaki bölüm kurullarını,
+f) Dekan: Bursa Uludağ Üniversitesine bağlı fakültelerin dekanlarını,
+g) Eğitim-öğretim faaliyetleri: Kuramsal dersler, uygulamalı dersler, laboratuvar çalışması, işyeri eğitimi, bitirme ödevi/projesi, ödev çalışması, staj, seminer, pratik çalışma, atölye, klinik uygulamaları ve benzeri eğitim ve öğretim etkinliklerini,
+ğ) Fakülte: Bursa Uludağ Üniversitesine bağlı fakülteleri,
+h) GANO: Genel akademik not ortalamasını,
+ı) Meslek yüksekokulu: Bursa Uludağ Üniversitesine bağlı önlisans düzeyinde eğitim-öğretim yapılan meslek yüksekokullarını,
+i) Müdür: Bursa Uludağ Üniversitesine bağlı yüksekokul, Devlet konservatuvarı ve meslek yüksekokullarının müdürlerini,
+j) ÖSYM: Ölçme, Seçme ve Yerleştirme Merkezi Başkanlığını,
+k) Program: Önlisans ve lisans düzeyinde eğitim-öğretim yapan diploma programlarını,
+l) Rektör: Bursa Uludağ Üniversitesi Rektörünü,
+m) Senato: Bursa Uludağ Üniversitesi Senatosunu,
+n) Üniversite: Bursa Uludağ Üniversitesini,
+o) YANO: Yarıyıl akademik not ortalamasını,
+ö) Yönetim Kurulu: Bursa Uludağ Üniversitesi Yönetim Kurulunu,
+p) YÖK: Yükseköğretim Kurulunu,
+r) Yükseköğretim kurumu: Bursa Uludağ Üniversitesi dışındaki diğer üniversiteleri,
+ifade eder.

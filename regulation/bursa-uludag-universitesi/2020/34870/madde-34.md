@@ -1,0 +1,2 @@
+Sınav sonuçlarına itiraz
+MADDE 34 – (1) Ara sınav, yarıyıl/yıl sonu ve bütünleme sınavlarının sayısal notlarındaki maddi hatanın düzeltilmesi için öğrenci, sınav sonucunun ilânını takip eden 3 iş günü içinde dersin yürütüldüğü birime yazılı olarak başvurabilir. Bu başvuru öğretim elemanına iletilir. Eğer maddi hata mevcut ise, (Değişik ibare:RG-18/8/2024-32636) birim yönetim kurulunun onayı ile öğretim elemanınca not düzeltilir.

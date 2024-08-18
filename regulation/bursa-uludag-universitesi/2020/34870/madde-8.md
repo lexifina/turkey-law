@@ -1,0 +1,2 @@
+Dikey geçiş işlemleri
+MADDE 8 – (1) Meslek yüksekokulu mezunlarının Üniversitenin ilgili programlarına dikey geçişlerine ilişkin kontenjan, başvuru ve kabul şartları, takvim, intibak ve muafiyet işlemleri hakkında, 19/2/2002 tarihli ve 24676 sayılı Resmî Gazete’de yayımlanan Meslek Yüksekokulları ve Açıköğretim Ön Lisans Programları Mezunlarının Lisans Öğrenimine Devamları Hakkında Yönetmelik ile Senato tarafından çıkarılan yönerge hükümleri uygulanır.

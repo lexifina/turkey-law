@@ -1,0 +1,4 @@
+Ders planları
+MADDE 24 – (1) Ders planı bir önlisans veya lisans programına kayıtlı öğrencinin öğrenim hayatı boyunca alması gereken derslerin listesidir. Ders planındaki dersler; kuramsal dersler, uygulamalar, laboratuvarlar, atölye çalışmaları, tez, proje, staj, işyeri eğitim ve benzeri çalışmaları kapsar.
+(2) Ders planlarında; her yarıyılda/yılda okutulacak dersler ile bu derslerin; zorunlu veya seçmeli oldukları, kuramsal ders saati, uygulamalı ders saati, AKTS kredisi ve eğer var ise ön koşul/ön koşullu oldukları derslerin bilgileri yer alır. Ders planında yer alan derslerin AKTS kredilerinin toplamı her yarıyıl için en az 30, yıl için en az 60 olmak zorundadır.
+(3) Ders planları ilgili bölüm kurullarının önerileri dikkate alınarak, (Değişik ibare:RG-18/8/2024-32636) birim kurulu tarafından Nisan ayına kadar belirlenir ve Senatonun onayı ile kesinleşir.

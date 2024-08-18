@@ -1,0 +1,7 @@
+Ek sınav
+MADDE 31 – (1) Lisans veya önlisans programındaki tüm dersleri alan, devam koşulunu yerine getirerek yarıyıl/yıl sonu sınavlarına giren öğrenciye, aşağıdaki koşullarda ek sınav hakkı verilir:
+a) Not ortalamasına katılan en çok iki dersten (FF) veya (FD) notu alan veya bir dersten çok olmamak şartıyla, kredisiz dersinden (K) alan öğrenciye bir sonraki yarıyılın/yılın başına kadar ek sınav hakkı verilir. Zorunlu staj uygulaması olan birimlerde ek sınav hakkından yararlanılabilmesi için öğrencinin staj uygulamasına başlamış olması gerekli ve yeterlidir.
+b) Mezun olmaları için gerekli 2.00 GANO’yu sağlayamayan öğrencilere, GANO’sunu yükseltebilmeleri için en çok iki dersten ek sınav hakkı verilir.
+(2) Ek sınava giren öğrencinin ek sınav notu, ara sınav notları göz önüne alınmadan, o derse ait bir önceki sınavın not cetvelindeki harf notu aralıkları dikkate alınarak harf notuna çevrilir.
+(3) Bu maddede belirtilen koşulları sağlayan öğrenci, ek sınav hakkından yararlanmak için, bütünleme sınavları veya yaz öğretimi sınav sonuçlarının açıklanmasını izleyen 2 iş günü içinde, dersin verildiği bölüm veya program başkanlığına bir dilekçe ile başvurur. Sınava katılmaları uygun görülen öğrenciler (Değişik ibare:RG-18/8/2024-32636) birim yönetim kurulu tarafından belirlenir.
+(4) Öğrenci bu maddede düzenlenen ek sınav hakkından azami öğrenim süresi içinde sadece bir defa yararlanabilir.

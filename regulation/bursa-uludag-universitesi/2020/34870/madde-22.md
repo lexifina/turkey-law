@@ -1,0 +1,3 @@
+Ortak zorunlu dersler
+MADDE 22 – (1) Ortak zorunlu dersler, 2547 sayılı Kanunun 5 inci maddesinin birinci fıkrasının (ı) bendinde yer alan; Atatürk İlkeleri ve İnkılap Tarihi, Türk dili ve yabancı dil dersleri, kredili ders olarak en az ikişer yarıyıl olmak üzere 2 kredi-saat/hafta olacak şekilde tercihen ilk dört yarıyıl için planlanan derslerdir.
+(2) Bursa Uludağ Üniversitesi Yabancı Diller Yüksekokulu Eğitim-Öğretim ve Sınav Yönetmeliği hükümlerince yabancı dil dersi muafiyet sınavında başarılı olanların notları yabancı dil ders notu olarak otomasyon sistemine girilir. Bu sınavda başarılı olamayanlar birinci sınıfta yabancı dil dersini almak zorundadır.
