@@ -1,0 +1,2 @@
+Tezli yüksek lisans programına geçiş
+MADDE 42 – (1) Tezsiz yüksek lisans programına devam eden öğrenci, başvurduğu tezli yüksek lisans programı için belirlenmiş olan asgari şartları yerine getirmek kaydıyla tezli yüksek lisans programına geçiş yapabilir. Bu durumda tezsiz yüksek lisans programında alınan dersler enstitü yönetim kurulu kararıyla tezli yüksek lisans programındaki derslerin yerine sayılabilir.

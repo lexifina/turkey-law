@@ -1,0 +1,2 @@
+Tez konusu önerisi
+MADDE 32 – (1) Öğrenci danışmanıyla beraber belirlediği tez konusunu en geç ikinci yarıyılın sonuna kadar enstitüye bildirir. Tez önerisi, anabilim dalı başkanlığınca enstitüye bildirilir ve enstitü yönetim kurulu kararı ile kesinleşir. Bu süre içerisinde tez önerisini sunmayan öğrencinin durumu, mazeretini bildirerek başvurması halinde enstitü yönetim kurulunda görüşülerek değerlendirilir.

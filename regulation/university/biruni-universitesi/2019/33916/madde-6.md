@@ -1,0 +1,5 @@
+İlan ve başvuru
+MADDE 6 – (1) Enstitüde açılan lisansüstü programlar, lisansüstü programlara başvuru koşulları, öğrenci kontenjanları, eğitim-öğretime başlama yeter sayısı, başvuru ve kayıt tarihleri, sınav ve mülakat tarihleri ve benzeri hususlar anabilim dalı başkanlığının önerisi üzerine enstitü yönetim kurulu tarafından belirlenerek eğitim-öğretim döneminin başlama tarihinden en az bir ay önce Senatoda görüşülür ve enstitü tarafından ilan edilir. İlanda yabancı uyruklu öğrenci ve yatay geçiş kontenjanları ayrı ayrı belirtilir.
+(2) Başvurular, akademik takvimde belirtilen tarihlerde Üniversite tarafından ilan edilen başvuru evrakları ile enstitüye yapılır.
+(3) Gerçeğe aykırı beyana ve/veya sahte veya tahrif edilmiş belgeyle başvuranların kayıtları yapılmaz, kesin kayıt yaptıranların kayıtları ve mezun olanların diploma dâhil tüm belgeleri iptal edilir. Öğrenciye herhangi bir belge iade edilmez. Bu kişiler hakkında kanuni işlemler başlatılır.
+(4) Enstitüye yapılmayan başvurular ile süresi geçtikten sonra yapılan başvurular değerlendirmeye alınmaz.

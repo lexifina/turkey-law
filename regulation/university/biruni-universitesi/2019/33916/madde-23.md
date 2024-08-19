@@ -1,0 +1,4 @@
+Akademik danışmanlık ve tez danışmanlığı (Değişik başlık:RG-8/1/2021-31358)(1)
+MADDE 23 – (1) Akademik danışmanlık, ilgili anabilim dalı başkanı veya görevlendireceği en az doktora derecesine sahip bir öğretim elemanı tarafından yürütülür. Akademik danışmanlar öğrencinin akademik başarılarına, kişisel ve sosyal gelişimlerine katkıda bulunacak şekilde ders seçimlerine öğrenci ile birlikte karar verir, öğrenciyi değişim programları ve eğitim ile ilgili ortaya çıkacak mevzuat değişiklikleri ve benzeri konularda bilgilendirir ve yönlendirir.
+(2) Akademik danışmanın görevi tez danışmanının atanması ile sona erer.
+(3) (Ek:RG-8/1/2021-31358)(1) Öğretim üyelerinin yöneteceği tez ve proje danışmanlıklarının sayısı 20/4/2016 tarihli ve 29690 sayılı Resmî Gazete’de yayımlanan Lisansüstü Eğitim ve Öğretim Yönetmeliği hükümlerine göre belirlenir.

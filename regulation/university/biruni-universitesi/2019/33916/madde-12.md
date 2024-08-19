@@ -1,0 +1,5 @@
+Yurt dışı eğitim
+MADDE 12 – (1) Öğrenciler için masrafları öğrenciye ait olmak üzere yurt dışında kısa veya uzun süreli eğitim ya da uygulama imkânları, enstitünün ortak eğitim yürüttüğü veya öğrencinin kişisel girişimleri ile bağlantı sağladığı yükseköğretim kurumlarından sağlanabilir. Bu eğitim veya uygulamaların öğrencinin enstitüdeki eğitim programının bir parçası olarak değerlendirilebilmesi için, öğrenci yurt dışına çıkmadan önce ilgili anabilim dalı başkanlığının uygun görüşü ve enstitü yönetim kurulunun kararı gerekir.
+(2) Yurt dışında geçirilecek süre bu Yönetmelikte belirtilen öğretim sürelerinden sayılır ve yurt dışındaki eğitim ve uygulamalarda da enstitüde aranan başarı koşulları aranır.
+(3) Yurt dışındaki eğitimin not ve kredi eşdeğerliği ilgili yükseköğretim kurumundan gönderilecek belgelere göre anabilim dalının görüşü alınarak enstitü yönetim kurulunca karara bağlanır.
+(4) Öğrenci değişim programları çerçevesinde öğrenim gören öğrencilerin yurt dışında geçirdikleri süreler eğitim-öğretim süresinden sayılır.

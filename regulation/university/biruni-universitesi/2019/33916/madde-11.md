@@ -1,0 +1,8 @@
+Bilimsel hazırlık programına öğrenci kabulü
+MADDE 11 – (1) Bilimsel hazırlık programı; lisans veya yüksek lisans derecesini, başvurduğu yüksek lisans veya doktora programından farklı bir alanda ya da başka yükseköğretim kurumunda almış olan adaylardan, öğrenciliğe kabul için gerekli diğer koşulları sağlayanlar için eksikliklerini gidermek amacıyla enstitü yönetim kurulu kararıyla düzenlenip yürütülen programdır.
+(2) Bilimsel hazırlık programına devamı gerekli görülen öğrencilere, derse kayıt, devam, sınavlar, ders notları, derslerden başarılı sayılma koşulları, kayıt silme ve diğer hususlarda öğrencinin ders aldığı lisansüstü programa ilişkin hükümler enstitü yönetim kurulu kararı ile Senato tarafından belirlenir.
+(3) Bilimsel hazırlık programına devam eden öğrencilere yazılı başvuruda bulunmaları koşuluyla, enstitü anabilim dalı başkanlığının önerisi ve enstitü yönetim kurulunun kararı ile bilimsel hazırlık derslerine ek olarak uygun görülen lisansüstü program dersleri de verilebilir.
+(4) Bilimsel hazırlık programı kapsamında alınan dersler lisansüstü programda öngörülen derslerin yerine geçmez.
+(5) Öğrenci, kendisi için öngörülen bilimsel hazırlık programı kapsamındaki tüm derslerden başarılı olmak zorundadır. Bilimsel hazırlık programında alınan dersler, öğrencinin transkriptinde gösterilir. Ancak, bu derslerin notları lisansüstü mezuniyet notuna katılmaz.
+(6) Bilimsel hazırlık programında geçirilecek süre en çok iki yarıyıldır. Bu programda geçirilen süre yüksek lisans veya doktora programı sürelerine dâhil edilmez. Bu süre dönem izinleri dışında uzatılamaz ve süre sonunda başarılı olamayan öğrencinin ilişiği kesilir.
+(7) Bilimsel hazırlık programında aldığı dersleri başarı ile tamamlayamayan öğrencilerin Üniversite ile ilişiği kesilir.

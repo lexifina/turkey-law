@@ -1,0 +1,9 @@
+Başvuru ve kabul koşulları
+MADDE 29 – (1) Tezli yüksek lisans programlarına başvuracak adaylarda aşağıdaki koşullar aranır:
+a) İlgili anabilim dalı başkanlığının önerisi, enstitü yönetim kurulunun teklifi ve Senatoda uygun görülen bir lisans diplomasına sahip olmak.
+b) ALES’ten başvurduğu programın puan türünde veya YÖK tarafından eşdeğerliği kabul edilen bir sınavdan en az 55 puana sahip olmak.
+c) Eğitim dili İngilizce olan veya enstitünün ilgili anabilim dalı başkanlığının teklifi, enstitü yönetim kurulu kararı ile başvuru şartlarında YDS zorunluluğu getirilen programlarda YDS veya YÖK tarafından eşdeğerliği kabul edilen bir sınavdan veya Üniversitenin yaptığı sınavdan en az 70 olmak üzere Senatonun belirleyeceği bir puana sahip olmak.
+ç) (Ek:RG-8/1/2021-31358)(1) Doktora/sanatta yeterlik/tıpta uzmanlık/diş hekimliğinde uzmanlık/veteriner hekimliğinde uzmanlık/eczacılıkta uzmanlık mezunu olup yüksek lisans programlarına başvuranlarda ALES şartı aranmaz. Bu öğrencilerin programa kabulünde 55’ten düşük 75’ten fazla olmamak üzere Senato tarafından belirlenerek başvuru şartlarında ilan edilen puan, öğrencilerin ALES puanı olarak kabul edilerek hesaplamalara dâhil edilir.
+(2) Son beş yıl içerisinde tümüyle yabancı dilde eğitim veren bir programdan mezun olduğunu belgeleyen adaylardan yabancı dil belgesi aranmaz.
+(3) (Değişik:RG-29/2/2024-32475) Yüksek lisans programlarına başvuran adayların başarı puanının hesaplanabilmesi için programlara kabuldeki tüm sınavlardan en az 60 puan alınmış olması gerekir. Sınavlardan yeterli puanı alamayan veya bu sınavlara girmeyen adayların başarı puanı hesaplanmaz. Başarı puanı değerlendirmesinde ise toplam başarı puanı 65 puan ve üstünde olan adaylar başarılı kabul edilir.
+(4) Enstitü yönetim kurulu kararı ve Senatonun onayı ile birinci fıkranın (b) bendindeki kriterler açılan programa özgü olarak yükseltilebilir.

@@ -1,0 +1,9 @@
+Sınavlar
+MADDE 17 – (1) Final/yarıyıl sonu sınavları, akademik takvimde belirtilen sınav döneminde ve tarihlerde yapılır.
+(2) Yıl boyunca yapılacak sınavlar şunlardır:
+a) (Değişik:RG-8/1/2021-31358)(1) Ara sınav: Başarılı/başarısız olarak değerlendirilen dersler dışındaki dersler için, ara sınav yapılır. Ara sınav sonuçları yarıyıl/yılsonu döneminden önce ilan edilir.
+b) Final/yarıyıl sonu sınavı: Bir dersin final/yarıyıl sonu sınavı, o dersin tamamlandığı yarıyıl sonunda yapılır. Derse devam koşulunu yerine getiren öğrenci, belirlenen gün ve saatte o dersin sınavına girmek zorundadır.
+c) Bütünleme sınavı: Bütünleme sınavına, final/yarıyıl sonu sınavına girme hakkını kazanıp mazereti nedeniyle giremeyen öğrenciler ve/veya final/yarıyıl sonu sınavında başarısız duruma düşen öğrenciler girerler. Ayrıca yarıyıl/yılsonunda yüksek lisans programları için CC ve CB, doktora programları için CB notuyla başarılı olan öğrenciler de not yükseltmek amacı ile bu sınava başvurabilirler. Başarı notunun hesabında son sınavda alınan not geçerlidir.
+ç) Mazeret sınavı: Mazeret sınavı, ara sınavına geçerli mazereti nedeniyle giremeyen öğrencilere verilen sınav hakkıdır. Öğrencinin mazeret sınavına girebilmesi için durumunu açıklayan bir dilekçe ile gerekli belgeleri (doğal afet ve kazayı gösteren resmi belge, yakınlarının ölümünü gösteren resmi belge, sağlık raporu veya diğer ilgili belge) beş iş günü içinde enstitüye bildirmesi gerekir. Mazereti kabul edilen öğrenciye, enstitü yönetim kurulunca mazeret sınavı hakkı verilir. Mazeret sınavına giremeyen öğrenciye yeni bir mazeret sınavı hakkı verilmez.
+(3) Bir dersin sınavlarının sayısı, şekli, ders başarı notuna etki oranı ile sınavların değerlendirme esasları, ilgili öğretim üyesi tarafından yarıyıl başında öğrencilere duyurulur.
+(4) (Ek:RG-8/1/2021-31358)(1) Dersin özelliğine göre yarıyıl süresince yapılmış olan proje, ödev, laboratuvar ve benzeri çalışmalar sınav yerine sayılabilir.

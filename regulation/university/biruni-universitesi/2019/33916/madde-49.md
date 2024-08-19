@@ -1,0 +1,5 @@
+Tez izleme komitesi
+MADDE 49 – (1) Doktora yeterlik sınavında başarılı bulunan öğrenci için bir ay içinde, enstitünün ilgili anabilim dalı başkanlığının önerisi ile enstitü yönetim kurulu tarafından bir tez izleme komitesi oluşturulur.
+(2) Tez izleme komitesi, öğrencinin danışmanı ile biri enstitünün ilgili anabilim/bilim dalı içinden biri de dışından olmak üzere üç üyeden oluşur. Tez izleme komitesi üyelerinin belirlenmesinde; özellikle disiplinler arası nitelikteki tez çalışmalarında ilgili disiplinin öğretim üyelerine öncelik verilir. İkinci danışman olması durumunda bu danışman dilerse oy hakkı olmadan komite toplantılarına katılabilir.
+(3) Tez izleme komitesinin kurulmasından sonraki dönemlerde, anabilim dalı başkanlığının gerekçeli önerisi ve enstitü yönetim kurulunun onayı ile komite üyelerinde değişiklik yapılabilir.
+(4) Tez izleme komitesi, gerekli gördüğü hallerde tez danışmanının ve/veya tez konusunun değiştirilmesini salt çoğunlukla enstitü yönetim kuruluna önerebilir. Enstitü yönetim kurulu, tez konusu önerisini uygun bulmaması halinde değiştirilmesini talep edebilir.

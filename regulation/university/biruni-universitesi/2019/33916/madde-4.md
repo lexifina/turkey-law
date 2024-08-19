@@ -1,0 +1,23 @@
+Tanımlar
+MADDE 4 – (1) Bu Yönetmelikte geçen;
+a) Ağırlıklı genel not ortalaması (AGNO): Her bir dersten elde edilen başarı notu katsayısının AKTS kredisi ile çarpılmasından bulunan sonucun, toplam AKTS kredisine bölünmesi yolu ile bulunacak değeri,
+b) AKTS kredisi: Avrupa Kredi Transfer Sisteminde kullanılan krediyi,
+c) Akademik danışman: Tez danışmanı/proje danışmanı atanıncaya kadar, enstitü anabilim dalı başkanı veya program başkanı tarafından yürütülen danışmanlığı,
+ç) ALES: Akademik Personel ve Lisansüstü Eğitimi Giriş Sınavını,
+d) ALES eşdeğeri sınavlar: Yükseköğretim Kurulu tarafından ALES’e eşdeğer sayılan sınavları,
+e) Anabilim dalı: Enstitüde programı bulunan ve programın yürütülmesinden enstitüye karşı sorumlu olan anabilim dalını,
+f) Enstitü: Üniversitenin Lisansüstü Eğitim Enstitüsünü,
+g) Enstitü kurulu: Müdürün başkanlığında, müdür yardımcıları ve enstitüyü oluşturan enstitü anabilim ve enstitü anasanat dalları başkanlarından oluşan kurulu,
+ğ) Enstitü yönetim kurulu: Müdürün başkanlığında, müdür yardımcıları, müdürce gösterilecek altı aday arasından enstitü kurulu tarafından üç yıl için seçilecek üç öğretim üyesinden oluşan kurulu,
+h) İntihal: Başkalarının fikirlerini, metotlarını, verilerini veya eserlerini bilimsel kurallara uygun biçimde atıf yapmadan kısmen veya tamamen kendi eseri gibi göstermeyi,
+ı) Müdür: İlgili enstitü müdürünü,
+i) Mütevelli Heyeti: Biruni Üniversitesi Mütevelli Heyetini,
+j) Program Başkanlığı: Herhangi bir anabilim dalına bağlı olmayan programların başkanlığını,
+k) Rektörlük: Biruni Üniversitesi Rektörlüğünü,
+l) Senato: Biruni Üniversitesi Senatosunu,
+m) Tez danışmanı: Tez çalışmasında bilimsel danışmanlık yapan öğretim elemanını,
+n) TÖMER: Üniversitenin Türkçe ve Yabancı Dil Uygulama ve Araştırma Merkezini,
+o) Üniversite: Biruni Üniversitesini,
+ö) YDS: Yabancı Dil Bilgisi Seviye Tespit Sınavını,
+p) YÖK: Yükseköğretim Kurulu Başkanlığını,
+ifade eder.

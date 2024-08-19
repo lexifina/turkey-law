@@ -1,0 +1,6 @@
+Diploma
+MADDE 53 – (1) (Değişik:RG-8/1/2021-31358)(1) Tez çalışması kabul edilen öğrenci jüri üyelerinin önerileriyle enstitü yazım kılavuzuna uygun şekilde hazırlanarak son haline getirilmiş, ciltlenmiş tezin en az üç kopyasını tez savunma sınavına giriş tarihinden itibaren bir ay içinde danışmanına sunar. Danışman yazım kurallarına uygunluğu yönünden yazılı olarak belirttiği görüşü ile tezin nüshalarını ve elektronik ortamdaki bir kopyasını anabilim dalı başkanlığı aracılığıyla enstitüye gönderir.
+(2) Enstitü yönetim kurulu başvuru üzerine tez teslim süresini en fazla bir ay uzatabilir.
+(3) Öğrenci tüm belgelerle birlikte Üniversite Kütüphanesi tarafından istenen formu ve YÖK tarafından istenen tez veri giriş formunu enstitüye teslim etmek zorundadır.
+(4) Doktora programını başarı ile tamamlayan ve bu Yönetmelikte belirtilen yükümlülükler ile diğer koşulları da sağlayan öğrenciye kayıtlı olduğu programın YÖK tarafından onaylanmış adının yer aldığı doktora diploması ve derecesi verilir. Mezuniyet tarihi tezin sınav jüri komisyonu tarafından imzalı nüshasının teslim edildiği tarihtir.
+(5) Bu maddede yer alan koşulları yerine getirmeyen öğrenci, koşulları yerine getirinceye kadar diplomasını alamaz, öğrencilik haklarından yararlanamaz ve azami süresinin dolması halinde ilişiği kesilir.

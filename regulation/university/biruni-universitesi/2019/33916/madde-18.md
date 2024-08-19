@@ -1,0 +1,3 @@
+Sınav sonuçlarına itiraz ve hata düzeltme
+MADDE 18 – (1) İlan edilen bir sınav sonucuna veya başarı notuna itiraz, notun ilanını izleyen beş iş günü içinde enstitü müdürlüğüne yapılır. Bu itiraz enstitü müdürlüğü tarafından ders sorumlusuna iletilir. Ders sorumlusu, değerlendirmede bir hata görürse gerekli düzeltmeyi yaparak, sonucu en geç iki iş günü içinde enstitüye ve öğrenciye bildirir.
+(2) Sınav sonuçlarına itirazın devam etmesi durumunda enstitü müdürü, en az biri sınavı yapan öğretim üyesi olmak üzere ilgili öğretim üyeleri arasından üç kişilik bir komisyon kurar. Komisyon, itirazları üç iş günü içinde sonuçlandırır. İtiraz sonucu, beş iş günü içinde öğrenciye duyurulur.

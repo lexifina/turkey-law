@@ -1,0 +1,6 @@
+Başvuru ve kabul koşulları
+MADDE 38 – (1) Tezsiz yüksek lisans programlarına başvuracak adaylarda ilgili anabilim dalı başkanlığının önerisi, enstitü yönetim kurulunun teklifi ve Senatoda uygun görülen bir lisans diplomasına sahip olma koşulu aranır.
+(2) (Değişik:RG-29/2/2024-32475) Tezsiz yüksek lisans programlarına öğrenci kabulünde ALES puanı aranmaz. Tezsiz yüksek lisans programlarına müracaat eden adaylar, lisans mezuniyet not ortalamasına göre sıralanır ve ilan edilen kontenjan sayısı kadar aday programa kabul edilir.
+(3) İlgili anabilim dalı/program başkanlığı istediği takdirde mülakat şartı getirebilir. Mülakat puanının ne kadar ağırlıkla değerlendirmeye alınacağı Senato tarafından belirlenir.
+(4) Eğitim dili İngilizce olan veya enstitünün ilgili anabilim dalı başkanlığının teklifi, enstitü yönetim kurulu kararı ile başvuru şartlarında YDS zorunluluğu getirilen programlarda YDS veya YÖK tarafından eşdeğerliği kabul edilen bir sınavdan Senatonun belirleyeceği bir puana sahip olunması gerekir.
+(5) Tezsiz yüksek lisans programlarında eşit giriş notuna sahip olan adaylar arasında önceliğin belirlenmesinde sırasıyla, istenmesi halinde ALES veya eşdeğeri sınav notu ve lisans dersleri not ortalaması yüksek olanlar tercih edilir.
