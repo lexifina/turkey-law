@@ -1,0 +1,54 @@
+{
+  "checked_on": "2026-11-14",
+  "commencement_clauses": [
+    "MADDE 16 – (1) Bu Yönetmelik yayımı tarihinde yürürlüğe girer."
+  ],
+  "date_evidence": [
+    [
+      "2012-07-20",
+      "20.07.2012",
+      "original gazette publication date in official listing"
+    ],
+    [
+      "2024-08-19",
+      "RG-19/8/2024-32637",
+      "latest source-printed gazette amendment date for current consolidated text"
+    ],
+    [
+      "2024-08-19",
+      "RG-19/8/2024-32637",
+      "latest source-printed gazette amendment date for current consolidated text"
+    ],
+    [
+      "2024-08-19",
+      "19/8/2024",
+      "latest gazette date in source amendment table"
+    ]
+  ],
+  "date_quote": "RG-19/8/2024-32637",
+  "first_law": null,
+  "gazette": "28359",
+  "history": "current-text",
+  "images": {
+    "deferred": 0,
+    "omitted": 0,
+    "referenced": 0,
+    "source": 0
+  },
+  "in_force": "2024-08-19",
+  "in_force_basis": "latest source-printed gazette amendment date for current consolidated text",
+  "issuer": "Dokuz Eylül Üniversitesi",
+  "issuer_slug": "dokuz-eylul-universitesi",
+  "kind": "regulation",
+  "label": "oldest version available",
+  "path": "regulation/dokuz-eylul-universitesi/2012/16398",
+  "published": "2012-07-20",
+  "source": "https://www.mevzuat.gov.tr/anasayfa/MevzuatFihristDetayIframe?MevzuatTur=8&MevzuatNo=16398&MevzuatTertip=5",
+  "source_bytes": 28347,
+  "source_id": "8.5.16398",
+  "source_sha256": "3f7ca0dae764b3398004e52f7e711ac1f55116ff5d1057f7986214c01e342933",
+  "text_status": "current-consolidated",
+  "title": "DOKUZ EYLÜL ÜNİVERSİTESİ DİL EĞİTİMİ UYGULAMA VE ARAŞTIRMA MERKEZİ YÖNETMELİĞİ",
+  "university_id": 189,
+  "word_count": 1319
+}

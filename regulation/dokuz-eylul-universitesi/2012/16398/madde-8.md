@@ -1,0 +1,2 @@
+Müdürün görevleri
+MADDE 8 – (1) Müdürün görevleri; Merkezi temsil etmek, kurullara başkanlık etmek ve kurullarda alınan kararları uygulamak, merkezin amaç ve faaliyetlerinde belirtilen konularda işleyişi sağlamak, (Değişik ibare:RG-19/8/2024-32637) DİLMER’in Merkez ve şubelerindeki işler ile her düzeydeki personelin görev ve sorumlulukları üzerinde genel gözetim ve denetim görevini yapmak, Merkezin araştırma ve uygulama faaliyetleri için ortaya çıkan genel ihtiyaçları ve bunlarla ilgili önerilerini Rektöre iletmektir.
