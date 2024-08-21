@@ -1,0 +1,6 @@
+Araç OBD ve araç tamir ve bakım bilgilerine erişime ilişkin yükümlülüklere uyma
+MADDE 14 – (1) Onay kuruluşu, kendi inisiyatifi ile ya da bir şikâyete veya bir teknik servis tarafından yapılan değerlendirmeye dayanarak, imalatçının (AT)715/2007 Yönetmeliğinin ve bu Tebliğin hükümlerine ve araç OBD ve araç tamir ve bakım bilgilerine erişim ile ilgili belgenin şartlarına uygunluğunu her zaman kontrol edebilir.
+(2) Bir onay kuruluşunun imalatçının araç OBD ve araç tamir ve bakım bilgilerine erişim konusundaki yükümlülüklerine uymakta başarısız olduğunu belirlemesi hâlinde, ilgili tip onayını veren onay kuruluşu, bu durumu düzeltmek için uygun tedbirler alır.
+(3) Bu tedbirler, tip onayının geri çekilmesi veya askıya alınması, para cezaları veya (AT)715/2007 Yönetmeliğinin 11 inci maddesinde belirtilen diğer tedbirleri içerebilir.
+(4) Bağımsız operatör veya bağımsız operatörleri temsil eden ticari birlik veya dernek, onay kuruluşuna bir şikâyette bulunursa, onay kuruluşu imalatçının araç OBD ve araç tamir ve bakım bilgilerine erişimle ilgili yükümlülüklere uyduğunu doğrulamak için denetim yapar.
+(5) Onay kuruluşu denetim yaparken, bu yükümlülüklerin karşılanıp karşılanmadığını doğrulamak için bir teknik servisten veya başka bir bağımsız uzmandan bir değerlendirme yapmasını isteyebilir.

@@ -1,0 +1,3 @@
+Diğer hükümler
+MADDE 16 – (1) Geçici 1 inci madde hükümleri saklı kalmak kaydıyla; Ek I’in İlave 6’sındaki emisyon uygulama tarihleri ile bu Tebliğin diğer hükümleri arasında ihtilaf olması halinde, Ek I’in İlave 6’sındaki tarihler geçerlidir ve uygulanır. Bu Tebliğ hükümlerinde herhangi bir tereddüt hasıl olması durumunda, bu Tebliğin dikkate aldığı (AB)2017/1151 sayılı Konsey Tüzüğünün değişiklikleri dâhil orijinal metni esas alınır.
+(2) Ek I’in İlave 6’sında belirtilen tarihlerden sonra AT tip onayı verilmeye başlanıncaya kadar (AT)715/2007 Yönetmeliğine göre rapor düzenlemek üzere yetkilendirilmiş, AB üyesi ülkelerin de teknik servisleri dahil olmak üzere teknik servisler tarafından düzenlenen raporlar kabul edilir.
