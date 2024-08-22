@@ -1,0 +1,25 @@
+{
+  "kind": "norm",
+  "issuer": "Enerji Piyasası Düzenleme Kurumu",
+  "market": "petroleum",
+  "document_type": "board-decision",
+  "number": "12829",
+  "decision_date": "2024-08-22",
+  "title": "TS 2177 Petrol ürünleri – Yakıtlar (Sınıf F) – Fuel Oil – Özellikler ve deney yöntemleri – Mart 2024 (T1:Temmuz 2024 tadili ile birlikte)” standardının teknik düzenlemesi hakkında",
+  "resmi_gazete_date": "2024-08-23",
+  "resmi_gazete_number": "32641",
+  "categories": [
+    "Teknik Düzenleme Faaliyetleri"
+  ],
+  "source": "https://www.epdk.gov.tr/Detay/DownloadDocument?id=g9kFCdYVZag=",
+  "documents": [
+    "https://www.epdk.gov.tr/Detay/DownloadDocument?id=g9kFCdYVZag="
+  ],
+  "source_sha256": "34a114d095bf2a22cdb3c388d4e4182a4ff7ac5190d97632426c7ae07d2461f3",
+  "official_list": "https://www.epdk.gov.tr/Detay/Icerik/3-0-100/kurul-kararlari",
+  "official_list_leaf": 4979,
+  "text_status": "as-enacted",
+  "text_file": "metin.md",
+  "in_force": "2024-08-22",
+  "law_text_complete": true
+}
