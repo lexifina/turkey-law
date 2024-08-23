@@ -1,0 +1,10 @@
+Tanımlar
+MADDE 3- (1) Bu Tebliğde geçen;
+a) ÇHC: Çin Halk Cumhuriyeti’ni,
+b) GTİP: Gümrük tarife istatistik pozisyonunu,
+c) Hindistan: Hindistan Cumhuriyeti’ni,
+ç) Kurul: İthalatta Haksız Rekabeti Değerlendirme Kurulunu,
+d) TGTC: İstatistik Pozisyonlarına Bölünmüş Türk Gümrük Tarife Cetvelini,
+e) Vietnam: Vietnam Sosyalist Cumhuriyeti’ni,
+f) Yönetmelik: 30/10/1999 tarihli ve 23861 sayılı Resmî Gazete’de yayımlanan İthalatta Haksız Rekabetin Önlenmesi Hakkında Yönetmeliği,
+ifade eder.

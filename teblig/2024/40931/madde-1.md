@@ -1,0 +1,2 @@
+Amaç ve kapsam
+MADDE 1- (1) Bu Tebliğin amacı, 7/10/2023 tarihli ve 32332 sayılı Resmî Gazete’de yayımlanan İthalatta Haksız Rekabetin Önlenmesine İlişkin Tebliğ (Tebliğ No: 2023/30) ile Çin Halk Cumhuriyeti, Hindistan Cumhuriyeti ve Vietnam Sosyalist Cumhuriyeti menşeli “Kesiti trapez şeklinde (V-kolanlar) olan (V-yivli olanlar hariç) sonsuz transmisyon kolanları” ürünü ithalatına yönelik başlatılan ve Ticaret Bakanlığı İthalat Genel Müdürlüğü tarafından yürütülen nihai gözden geçirme soruşturmasının tamamlanması neticesinde alınan kararın yürürlüğe konulmasıdır.

@@ -1,0 +1,7 @@
+Karar
+MADDE 4- (1) Yürütülen soruşturma sonucunda, ÇHC, Hindistan ve Vietnam menşeli ürünlere yönelik önlemin yürürlükten kalkması durumunda dampingin ve zararın devam etmesinin veya yeniden meydana gelmesinin muhtemel olduğu saptanmıştır. Ticaret Bakanlığı İthalat Genel Müdürlüğü tarafından yürütülerek tamamlanan soruşturma sonucunda ulaşılan bilgi ve bulguları içeren Bilgilendirme Raporu Ek’te yer almaktadır.
+(2) Bu çerçevede, soruşturma neticesinde ulaşılan tespitleri değerlendiren Kurulun kararı ile 16/10/2018 tarihli ve 30567 sayılı Resmî Gazete’de yayımlanan İthalatta Haksız Rekabetin Önlenmesine İlişkin Tebliğ (Tebliğ No: 2018/35) ile yürürlükte olan dampinge karşı önlemin, Yönetmeliğin 42 nci maddesi çerçevesinde aşağıdaki tabloda gösterilen biçimde uygulanmaya devam edilmesine karar verilmiştir.
+GTİP | Eşyanın Tanımı | Menşe Ülke | Dampinge Karşı Önlem
+4010.32.00.00.00 | Dış çevresi 60 cm.yi geçen fakat 180 cm.yi geçmeyen, kesiti trapez şeklinde (V-kolanlar) olan (V-yivli olanlar hariç) sonsuz transmisyon kolanları | Çin Halk Cumhuriyeti Hindistan Cumhuriyeti Vietnam Sosyalist Cumhuriyeti | 3,15 ABD doları/kg
+4010.34.00.00.00 | Dış çevresi 180 cm.yi geçen fakat 240 cm.yi geçmeyen, kesiti trapez şeklinde (V-kolanlar) olan (V-yivli olanlar hariç) sonsuz transmisyon kolanları
+4010.39.00.00.00 | Yalnız "Kesiti trapez şeklinde (V-kolanlar) olan (V-yivli olanlar hariç) sonsuz transmisyon kolanları"
