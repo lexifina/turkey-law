@@ -1,0 +1,2 @@
+İlaç, tıbbi sarf malzemeleri ile test ve tetkik sarf malzemesi alımları
+MADDE 16- (1) Özelliğinden ve belli süre içinde kullanılma zorunluluğundan dolayı stoklanması ekonomik olmayan veya acil durumlarda kullanılacak olan ilaç, aşı, serum, anti-serum, kan ve kan ürünleri ile ortez, protez gibi uygulama esnasında hastaya göre belirlenebilen ve hastaya özgü tıbbî sarf malzemeleri, test ve tetkik sarf malzemesi alımları, Kanunun 22 nci maddesinin birinci fıkrasının (f) bendi kapsamında yapılabilir.

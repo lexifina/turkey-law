@@ -1,0 +1,3 @@
+Milletlerarası tahkim davaları için alınacak hizmetler
+MADDE 17- (1) Milletlerarası tahkim yoluyla çözülmesi öngörülen uyuşmazlıklarla ilgili davalarda, Kanun kapsamındaki idareleri temsil etmek ve savunmak üzere Türk veya yabancı uyruklu avukatlardan ya da avukatlık ortaklıklarından yapılacak hizmet alımları, Kanunun 22 nci maddesinin birinci fıkrasının (g) bendi kapsamında temin edilebilir.
+(2) Bu kapsamda yapılacak hizmet alımları milletlerarası tahkim yoluyla çözülecek anlaşmazlıklara münhasır olup anlaşmazlıkların milletlerarası tahkim dışındaki çözümü yollarında ihtiyaçlar, Kanunun genel hükümlerine göre temin edilir.

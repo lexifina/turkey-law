@@ -1,0 +1,3 @@
+Hüküm bulunmayan haller
+MADDE 21- (1) Bu Tebliğde hüküm bulunmayan hallerde; Kanun, ilgisine göre 31/12/2005 tarihli ve 26040 üçüncü mükerrer sayılı Resmî Gazete’de yayımlanan Merkezî Yönetim Harcama Belgeleri Yönetmeliği, 15/8/2007 tarihli ve 26614 sayılı Resmî Gazete’de yayımlanan Mahalli İdareler Harcama Belgeleri Yönetmeliği veya 27/6/2007 tarihli ve 26565 sayılı Resmî Gazete’de yayımlanan Sosyal Güvenlik Kurumları Harcama Belgeleri Yönetmeliği ve ilgili diğer mevzuat hükümleri uygulanır.
+(2) EKAP üzerinden yapılacak işlemlere ilişkin bu Tebliğde hüküm bulunmayan hallerde Elektronik İhale Uygulama Yönetmeliğinin ilgili hükümleri uygun düştüğü ölçüde uygulanır.
