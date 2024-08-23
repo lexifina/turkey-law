@@ -1,0 +1,21 @@
+{
+  "record_type": "parliament-written-question",
+  "term": 28,
+  "legislative_year": 2,
+  "esas_no": "7/15773",
+  "submitted": "2024-08-23",
+  "submitted_as": "Başkanlığa geliş tarihi",
+  "mp": "Mehmet TAHTASIZ",
+  "province": "Çorum",
+  "summary": "TÜVTÜRK'ün gezici muayene istasyonlarına ilişkin",
+  "status": "Cevaplandı",
+  "status_as_of": "2026-11-16",
+  "official_record": "https://www.tbmm.gov.tr/Denetim/Yazili-Soru-Onergesi-Detay/a37e606e-1c98-4ed0-b1f9-01918e92b6e8",
+  "source": "https://tbmm.gov.tr/Denetim/YaziliSoruOnergesiTable",
+  "source_form": "https://tbmm.gov.tr/Denetim/Yazili-Soru-Onergeleri",
+  "source_sha256": "cde29a36856689e2e6e09426703f4be26a1629569b972e43f77a6dadd027ef49",
+  "in_force": "2024-08-23",
+  "in_force_basis": "Date the question reached the Speaker (Başkanlığa geliş tarihi) in the official TBMM written-question record; parliamentary oversight record, not law",
+  "history_type": "metadata",
+  "text_status": "metadata-only: question text, addressee and answers are in the linked official record (PDFs on cdn.tbmm.gov.tr); not transcribed here"
+}
