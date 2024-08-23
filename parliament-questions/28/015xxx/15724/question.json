@@ -1,0 +1,21 @@
+{
+  "record_type": "parliament-written-question",
+  "term": 28,
+  "legislative_year": 2,
+  "esas_no": "7/15724",
+  "submitted": "2024-08-23",
+  "submitted_as": "Başkanlığa geliş tarihi",
+  "mp": "Sabahat ERDOĞAN SARITAŞ",
+  "province": "Siirt",
+  "summary": "Bir öğrencinin kaldığı yurtta polis tarafından sorgulandığı iddiasına ilişkin",
+  "status": "Süresi Geçtikten Sonra Cevaplandı",
+  "status_as_of": "2026-11-16",
+  "official_record": "https://www.tbmm.gov.tr/Denetim/Yazili-Soru-Onergesi-Detay/ba6933a0-ae57-4d5c-a754-01918e9f9ded",
+  "source": "https://tbmm.gov.tr/Denetim/YaziliSoruOnergesiTable",
+  "source_form": "https://tbmm.gov.tr/Denetim/Yazili-Soru-Onergeleri",
+  "source_sha256": "cde29a36856689e2e6e09426703f4be26a1629569b972e43f77a6dadd027ef49",
+  "in_force": "2024-08-23",
+  "in_force_basis": "Date the question reached the Speaker (Başkanlığa geliş tarihi) in the official TBMM written-question record; parliamentary oversight record, not law",
+  "history_type": "metadata",
+  "text_status": "metadata-only: question text, addressee and answers are in the linked official record (PDFs on cdn.tbmm.gov.tr); not transcribed here"
+}
