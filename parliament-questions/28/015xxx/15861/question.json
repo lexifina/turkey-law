@@ -1,0 +1,21 @@
+{
+  "record_type": "parliament-written-question",
+  "term": 28,
+  "legislative_year": 2,
+  "esas_no": "7/15861",
+  "submitted": "2024-08-23",
+  "submitted_as": "Başkanlığa geliş tarihi",
+  "mp": "Özgür CEYLAN",
+  "province": "Çanakkale",
+  "summary": "2024 yılı Yüksek Askeri Şura Kararları doğrultusunda generalliğe terfi eden bir kişi ile ilgili iddialara ilişkin",
+  "status": "Cevaplanmadığı Gelen Kağıtlarda İlan Edildi",
+  "status_as_of": "2026-11-16",
+  "official_record": "https://www.tbmm.gov.tr/Denetim/Yazili-Soru-Onergesi-Detay/5af33f12-4e07-4817-a5bd-019192a8665f",
+  "source": "https://tbmm.gov.tr/Denetim/YaziliSoruOnergesiTable",
+  "source_form": "https://tbmm.gov.tr/Denetim/Yazili-Soru-Onergeleri",
+  "source_sha256": "e6aea04fc075af7615204bea0b49432e0273f23fbda3e809510f0889718f7336",
+  "in_force": "2024-08-23",
+  "in_force_basis": "Date the question reached the Speaker (Başkanlığa geliş tarihi) in the official TBMM written-question record; parliamentary oversight record, not law",
+  "history_type": "metadata",
+  "text_status": "metadata-only: question text, addressee and answers are in the linked official record (PDFs on cdn.tbmm.gov.tr); not transcribed here"
+}
