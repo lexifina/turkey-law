@@ -1,0 +1,5 @@
+Taşıma belgesi değiştirilmesi ve değiştirilmeden taşıma
+MADDE 25- (1) Değişikliğe tabi tutulmayan orman ürünlerinin; taşıma belgesinde yazılı ilk götürüldüğü yerden başka yere taşınmasında taşıyıcının eski taşıma belgesini ürün mevcuduna göre yeniletmesi ve bu maksatla elindeki taşıma belgesine müsteniden yeni taşıma belgesi alması mecburidir.
+(2) Taşıma belgesini değiştirmeksizin orman emvali veya odun dışı ürün taşıyanların ürünleri, kaçak olup olmadığı incelenmek üzere alıkonulur. Kaçak olmadığı ve taşıma belgesinin değiştirilmediği anlaşılırsa, alıkonulan ürünler sahibine teslim edilir. Taşınmak istenilen yer için yeni taşıma belgesi verilir. Kaçak olduğu anlaşılan ürünler hakkında 6831 sayılı Kanunun 108 inci maddesi gereği yasal işlem yapılır.
+(3) Taşıma belgesi değiştirilmeden taşıma yapılan orman emvali veya odun dışı ürünlerden dolayı failleri hakkında 6831 sayılı Kanunun 100 üncü maddesinin dördüncü fıkrası gereği yasal işlem yapılır.
+(4) Taşıma aracı çeşidinin ve taşıma yerlerinin değişmesinin gerektiği hallerde, tezkere veya ETB bu Yönetmelikte belirtilen esaslara göre değiştirilir.

@@ -1,0 +1,4 @@
+Hacim veya ağırlık olarak fazlalık
+MADDE 19- (1) Damgaya veya damga yerine geçecek işaretlemeye tabi damgalı veya işaret ile işaretli olan orman emvali; adedi, cinsi, nevi, vasfı, ebadı, bedeli, hareket tarihi ve saati ile geçerlilik süresi itibarıyla ibraz olunan taşıma belgesine uymak şartıyla hepsi üzerinden hacmen yüzde on ve ağırlığının yüzde on beşine kadar çıkacak fazlalık için tutanak düzenlenir ve taşıma belgesinde yazılı satış bedeli üzerinden tutarı ve bu tutarın yüzde on fazlası fazlalığı tespit eden idare tarafından tahsil edilerek serbest bırakılır.
+(2) Fazlalığa ait düzenlenen tutanak, taşıma belgesini düzenleyen idareye gönderilir. Taşıma belgesini düzenleyen idare tarafından varsa kalan mevcudundan bu fazlalığın mahsubu yapılır.
+(3) Birinci fıkrada belirtili hadleri aşan miktar, bütün fazlalığa şamil olmak üzere kaçak sayılarak idarece müsadere olunur ve 6831 sayılı Kanunun 84 üncü maddesi uyarınca işlem yapılır.

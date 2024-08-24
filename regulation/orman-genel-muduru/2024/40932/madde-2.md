@@ -1,0 +1,2 @@
+Kapsam
+MADDE 2- (1) Bu Yönetmelik, Devlet ormanları ile Devletten başkasına ait ormanlardan ve orman sayılmayan yerlerden elde olunan veya ithal edilen orman emvali ile toplanması kanunen izne bağlı olan odun dışı ürünlerin taşınmasında kullanılacak taşıma belgesinin düzenlenmesine, kullanılmasına, bunların denetlenmesine ve orman emvali veya odun dışı ürünlerin kontrolüne ait şekil ve esasları kapsar.

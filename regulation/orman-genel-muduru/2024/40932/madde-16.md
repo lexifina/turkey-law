@@ -1,0 +1,3 @@
+Görevlilerin zimmetindeki nakliye tezkere cilt ve yapraklarının kaybolması
+MADDE 16- (1) Görevli memurların zimmetinde bulunan nakliye tezkere cilt ve yapraklarının kaybı halinde o memur hakkında tahkikat yapılır. Ayrıca kaybolan nakliye tezkeresi cilt ve yapraklarının kullanılmasına meydan vermemek için durum ilgili orman bölge müdürlüğünce tamim edilmek üzere Genel Müdürlüğe bildirilir. Kaybolan nakliye tezkeresi cilt ve yaprakları ile ilgili olarak bunların yeniden kullanımını engellemek için Genel Müdürlükçe bütün teşkilata tamim edilir.
+(2) Kaybolan tezkere cilt veya yapraklarının durumu ile ilgili hususlar ORBİS’e kayıt edilir.

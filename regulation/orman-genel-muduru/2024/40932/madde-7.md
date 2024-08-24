@@ -1,0 +1,4 @@
+Nakliye tezkeresi düzenleme yetkisi ve devri
+MADDE 7- (1) Nakliye tezkerelerinin düzenlenmesinde orman işletme şefi görevli ve yetkilidir. Nakliye tezkerelerinin yetkililer dışında düzenlenmesi yasaktır.
+(2) Nakliye tezkerelerini düzenleme yetkisi, ihtiyaç halinde orman işletme şefi tarafından; orman işletme şefliği, bölme numarası, mahiyeti ve süresi belirtilmek suretiyle hazırlanacak talep yazısına dayalı olarak işletme müdürünün onayı ile orman muhafaza memuruna veya depo memuruna da verilebilir.
+(3) Depo şefliği kuruluşu bulunan orman işletme müdürlüklerindeki son satış istif yerlerinde, nakliye tezkerelerinin düzenlenmesinde depo şefi görevli ve yetkilidir. İhtiyaç olması ve işletme müdürlüğünün uygun görmesi halinde, düzenleme yetkisi orman muhafaza memuruna veya depo memuruna da verilebilir.

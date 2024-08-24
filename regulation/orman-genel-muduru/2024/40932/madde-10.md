@@ -1,0 +1,4 @@
+Nakliye tezkeresi veya ETB düzenlenmesi
+MADDE 10- (1) Tezkere veya ETB, taşınacak ürünler taşıma yapılacak araçlara yüklendikten sonra düzenlenir.
+(2) Yükleme, mümkün olduğu kadar benzer çapların bir arada bulunmasını ve damgaya veya işarete tabi ürünün başına vurulan damga izi ya da damga yerine geçecek işaretin nakil araçları üzerinde de kontrolünü mümkün kılacak şekilde yapılır veya yaptırılır.
+(3) Hacimle ölçülemeyen müsadereli emval ile odun dışı ürünler için ürün miktarı tahmini olarak tespit edilerek yükleme tutanağına bağlanır ve kantar bulunan en yakın yerde tartılarak ölçülen miktara nakliye tezkeresi veya ETB düzenlenir. Yükleme tutanağı ile kantar fişi, nakliye tezkeresi veya ETB’ye müstenit olarak eklenir. Yükleme tutanağı; nakliye tezkeresi veya ETB’yi düzenleyen memur, ürün sahibi veya kanuni vekili ile taşıyıcı tarafından imzalanır.
