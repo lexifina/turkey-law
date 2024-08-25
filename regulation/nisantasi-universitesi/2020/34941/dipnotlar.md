@@ -1,0 +1,2 @@
+[1] 25/8/2024 tarihli ve 32643 sayılı Resmî Gazete’de yayımlanan değişiklikle bu Yönetmeliğin başlığı “NİŞANTAŞI ÜNİVERSİTESİ ÖN LİSANS VE LİSANS EĞİTİM-ÖĞRETİM VE SINAV YÖNETMELİĞİ” iken metne işlendiği şekilde değiştirilmiştir. Bu değişiklik 2023-2024 eğitim-öğretim yılı bahar dönemi başından geçerli olmak üzere yayımı tarihinde yürürlüğe girer.
+[2] Bu değişiklik 2023-2024 eğitim-öğretim yılı bahar dönemi başından geçerli olmak üzere yayımı tarihinde yürürlüğe girer.
