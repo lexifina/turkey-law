@@ -1,0 +1,21 @@
+{
+  "record_type": "parliament-written-question",
+  "term": 28,
+  "legislative_year": 2,
+  "esas_no": "7/15705",
+  "submitted": "2024-08-26",
+  "submitted_as": "Başkanlığa geliş tarihi",
+  "mp": "Mehmet Emin EKMEN",
+  "province": "Mersin",
+  "summary": "Türk sporcuların 2024 Paris Olimpiyat Oyunları'ndaki başarı durumuna ilişkin",
+  "status": "Cevaplanmadığı Gelen Kağıtlarda İlan Edildi",
+  "status_as_of": "2026-11-16",
+  "official_record": "https://www.tbmm.gov.tr/Denetim/Yazili-Soru-Onergesi-Detay/edaf69d7-e737-4d70-9063-019192b67afc",
+  "source": "https://tbmm.gov.tr/Denetim/YaziliSoruOnergesiTable",
+  "source_form": "https://tbmm.gov.tr/Denetim/Yazili-Soru-Onergeleri",
+  "source_sha256": "cde29a36856689e2e6e09426703f4be26a1629569b972e43f77a6dadd027ef49",
+  "in_force": "2024-08-26",
+  "in_force_basis": "Date the question reached the Speaker (Başkanlığa geliş tarihi) in the official TBMM written-question record; parliamentary oversight record, not law",
+  "history_type": "metadata",
+  "text_status": "metadata-only: question text, addressee and answers are in the linked official record (PDFs on cdn.tbmm.gov.tr); not transcribed here"
+}
