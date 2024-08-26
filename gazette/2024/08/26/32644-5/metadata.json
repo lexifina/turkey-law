@@ -1,0 +1,20 @@
+{
+  "record_type": "gazette-item",
+  "gazette": "Resmî Gazete",
+  "jurisdiction": "TR",
+  "date": "2024-08-26",
+  "issue": "32644",
+  "edition": "regular",
+  "item": 5,
+  "section": "YÜRÜTME VE İDARE BÖLÜMÜ",
+  "heading": "YÖNETMELİKLER",
+  "title": "Malatya Turgut Özal Üniversitesi Döner Sermaye İşletmesi Yönetmeliği",
+  "official_link": "https://www.resmigazete.gov.tr/eskiler/2024/08/20240826-5.htm",
+  "link_format": "htm",
+  "index_url": "https://www.resmigazete.gov.tr/eskiler/2024/08/20240826.htm",
+  "index_sha256": "0e74a22e78edd7692c7c7f2a90eb1e6afdb10a6bd2287e30275a8a71ead8abc9",
+  "index_header": "26 Ağustos 2024 ... 32644 Sayılı Resmî Gazete",
+  "issue_pdf": "https://www.resmigazete.gov.tr/eskiler/2024/08/20240826.pdf",
+  "in_force_basis": "Resmî Gazete publication date; not a commencement reading.",
+  "text_status": "metadata-only; text not yet fetched (follow-up pass adds it as its own commit)"
+}
