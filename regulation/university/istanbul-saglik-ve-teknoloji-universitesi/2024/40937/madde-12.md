@@ -1,0 +1,6 @@
+Danışma Kurulu
+MADDE 12- (1) Danışma Kurulu; Müdür ve iç paydaş birimlerini temsil eden İç Danışma Kurulu ve/veya dış paydaş birimlerini temsil eden Dış Danışma Kurulundan oluşur. Danışma Kurulu üyelerinin görev süresi üç yıldır. Görev süresi biten üyeler yeniden görevlendirilebilir. Görev süresi bitmeden ayrılan üyelerin yerine kalan süreyi tamamlamak üzere aynı usulle yeni üyeler görevlendirilir.
+(2) Bu kurullar aşağıdaki biçimde oluşturulur:
+a) İç Danışma Kurulu; Merkezin oluşum amaçlarına, kapsamına ve faaliyet alanlarına katkı yapacak öğretim elemanları arasından Rektör tarafından seçilen en fazla 10 üyeden oluşur.
+b) Dış Danışma Kurulu; Merkezin oluşum amaçlarına, kapsamına ve faaliyet alanlarına doğrudan katkı yapacak ve Yönetim Kurulu tarafından belirlenen, kamu ve özel kurum ve kuruluşlarının temsilcileri ile alanın uzmanları arasından Rektör tarafından seçilen en fazla 10 üyeden oluşur.
+(3) Danışma Kurulu, Müdürün çağrısı üzerine, Müdürün başkanlığında yılda en az bir kez toplanır. Danışma Kurulu salt çoğunluk ile toplanır ve kararlar katılan üye sayısının salt çoğunluğu ile alınır. Oylama sonucunda oyların eşit olması halinde kapalı oylama yapılır. Kapalı oylama sonucunda eşitliğin bozulmaması durumunda Başkanın kararı belirleyicidir.
