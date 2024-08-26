@@ -1,0 +1,31 @@
+{
+  "source_id": "8.5.40968",
+  "kind": "regulation",
+  "register_kind": "Üniversite Yönetmelikleri",
+  "title": "BOLU ABANT İZZET BAYSAL ÜNİVERSİTESİ YABANCI DİLLER YÜKSEKOKULU YABANCI DİL EĞİTİM-ÖĞRETİM VE SINAV YÖNETMELİĞİ",
+  "number": "40968",
+  "issuer": "BOLU ABANT İZZET BAYSAL ÜNİVERSİTESİ",
+  "issuer_slug": "bolu-abant-izzet-baysal-universitesi",
+  "path": "regulation/bolu-abant-izzet-baysal-universitesi/2024/40968",
+  "source": "https://www.mevzuat.gov.tr/anasayfa/MevzuatFihristDetayIframe?MevzuatTur=8&MevzuatNo=40968&MevzuatTertip=5",
+  "source_sha256": "648c5977af8931ccf1d096bb7dc1fe7d7044a82d9c9fdc47f3bd3b7a9e164c1a",
+  "source_bytes": 36668,
+  "published": "2024-08-26",
+  "gazette": "32644",
+  "in_force": "2024-08-26",
+  "in_force_basis": "Resmî Gazete publication date in the official listing (26.08.2024); own commencement article: \"Bu Yönetmelik 2024-2025 eğitim-öğretim yılı başında yürürlüğe girer\"",
+  "commencement_clauses": [
+    "Bu Yönetmelik 2024-2025 eğitim-öğretim yılı başında yürürlüğe girer"
+  ],
+  "history": "current-text",
+  "label": "oldest version available",
+  "checked_on": "2026-11-15",
+  "word_count": 2035,
+  "text_status": "current-consolidated",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  },
+  "completeness": "html-text-complete"
+}
