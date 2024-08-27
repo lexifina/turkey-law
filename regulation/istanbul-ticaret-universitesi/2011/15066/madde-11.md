@@ -1,0 +1,3 @@
+Diploma
+MADDE 11 – (1) (Değişik:RG-1/9/2019-30875) Kayıtlı oldukları programın müfredatında kabul edilen tüm zorunlu dersler ile almaları kararlaştırılan seçmeli dersleri, uygulama ve stajları bu Yönetmelik hükümlerine göre başarı ile tamamlayan öğrencilere, fakülte, yüksekokul ve meslek yüksekokulunun bölümü ve gerekiyorsa program adı belirtilmek suretiyle lisans veya önlisansdiploması verilir. Diploma verilmesine, ilgili birimin kuracağı komisyon tarafından mezuniyetin uygun görülmesiyle ilgili yönetim kurulu karar verir.
+(2) Lisans öğrenimini tamamlamayanların ya da tamamlayamayanların önlisans diploması almaları veya önlisans programlarına intibakı hususunda ilgili mevzuat hükümleri uygulanır.

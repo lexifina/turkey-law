@@ -1,0 +1,9 @@
+Değişim programları
+MADDE 15 – (Değişik:RG-4/12/2015-29552)
+(1) Yurt içi veya yurt dışında bulunan yükseköğretim kurumlarıyla ilgili mevzuat çerçevesinde değişim programları uygulanabilir.
+(2) Öğrenciler değişim programları kapsamında ilgili birimin yönetim kurulu kararıyla bir yıla kadar ilgili üniversitelere gönderilebilir. Öğrencinin değişim programları kapsamında veya özel öğrenci olarak aynı düzeyde başka bir yükseköğretim kurumundan aldığı ders, yaptığı staj veya uygulamalara ait kredi ve notların, ilgili yönetim kurulu kararı ile intibakı yapılarak geçerli sayılır. Değişim programları çerçevesinde öğrenim görmek üzere gönderilen öğrencilerin alacağı dersler, ilgili yönetim kurulu kararıyla kodu, adı ve AKTS kredisi ile birlikte not durum belgesine (transkript) işlenir.
+(3) Öğrencinin değişim programında geçirdiği süre, öğretim süresine dâhildir.
+(4) Öğrencinin değişim programına katılarak aldığı derslerin kredisinin toplamı, kayıtlı olduğu programın toplam kredisinin 1/3’ünden fazla olamaz.
+(5) Değişim programındaki öğrencilerin, öğretim ücretlerini Üniversiteye ödemeleri gerekir.
+(6) Üniversiteye değişim programları ile gelen yabancı uyruklu öğrenciye Öğrenci İşleri Daire Başkanlığı tarafından aldığı dersleri ve başarı durumunu gösteren bir belge ve öğrenci kimlik kartı verilir.
+(7) Türkiye’deki yükseköğretim kurumlarının yurt dışındaki yükseköğretim kurumları ve diğer kuruluşlarla işbirliği tesis ederek önlisans ve lisans programlarında yürütecekleri uluslararası ortak eğitim ve öğretim programlarının işleyişine ilişkin usul ve esaslarda Yükseköğretim Kurulu tarafından çıkarılan, 28/12/2006 tarihli ve 26390 sayılı Resmî Gazete’de yayımlanan Yükseköğretim Kurumlarının Yurtdışındaki Kapsama Dahil Yükseköğretim Kurumlarıyla Ortak Eğitim ve Öğretim Programları Tesisi Hakkında Yönetmelik hükümleri esas alınır.

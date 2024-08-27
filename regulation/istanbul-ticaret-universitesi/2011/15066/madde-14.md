@@ -1,0 +1,3 @@
+Kayıt yenileme
+MADDE 14 – (Değişik:RG-10/12/2012-28493)
+(1) Üniversite öğrencilerinin; Senatoca hazırlanan akademik takvimde belirlenen ve Rektörlükçe ilan edilen tarihlerde, bu Yönetmeliğin 23 üncü ve 24 üncü maddelerinde belirtilen esaslara göre derslere yazılmaları ve öğretim ücretini ödeyerek kayıt yenilemeleri gerekir. Belirlenen süre içinde kayıtlarını yenilemeyen öğrenciler derslere ve sınavlara giremezler, öğrencilik haklarından yararlanamazlar. (Ek cümle:RG-1/9/2019-30875) Güz ve bahar yarıyılı kayıtları süresi içinde kayıt işlemlerini gerçekleştiremeyen öğrencilerin geçerli bir mazereti olması durumunda, ilgili fakülte yönetim kurulu kararı ile mazeretli kayıt hakkı tanınabilir.

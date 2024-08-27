@@ -1,0 +1,6 @@
+Öğretim süresi ve ek süreler
+MADDE 9 – (1) (Değişik:RG-11/02/2020-31036) Üniversitenin lisans programları için normal öğrenim süresi yabancı dil hazırlık programı hariç dört yıl, ön lisans programları için ise iki yıldır. Hazırlık normal öğrenim süresi bir yıldır. Azami öğrenim süresi; yabancı dil hazırlık sınıfı eğitimi hariç, kayıtlı olunan programa ilişkin derslerin verildiği dönemden başlamak üzere, öğrencinin her yarıyıl için kayıt yaptırıp yaptırmadığına bakılmaksızın ön lisans programları için dört yıl, lisans programları için yedi yıldır. Azami öğrenim süresi sonunda; sınav hakları ve devam şartları, 2547 sayılı Kanunun 44 üncü maddesinin (c) fıkrası hükümleri kapsamında uygulanır. Bu durumdaki öğrenciler ders ve sınavlara katılabilirler; ancak, öğrencilere tanınan diğer haklardan yararlanamazlar. Zorunlu yabancı dil hazırlık eğitim süresi azami iki yıldır ve bu sürede başarılı olamayan öğrencinin kaydı silinir.
+(2) Üniversiteden uzaklaştırma cezası alan öğrencilerin bu süreleri öğrenim süresinden sayılır. Öğrenci bu süreler için öğretim ücreti öder.
+(3) (Mülga:RG-11/02/2020-31036)
+(4) Değişim programları kapsamındaki öğrencilere bu Yönetmeliğin 15 inci maddesi hükümleri uygulanır.
+(5) (Mülga:RG-10/12/2012-28493)
