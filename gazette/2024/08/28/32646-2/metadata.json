@@ -1,0 +1,20 @@
+{
+  "record_type": "gazette-item",
+  "gazette": "Resmî Gazete",
+  "jurisdiction": "TR",
+  "date": "2024-08-28",
+  "issue": "32646",
+  "edition": "regular",
+  "item": 2,
+  "section": "YÜRÜTME VE İDARE BÖLÜMÜ",
+  "heading": "TEBLİĞLER",
+  "title": "İthalatta Gözetim Uygulanmasına İlişkin Tebliğ (No: 2024/9)",
+  "official_link": "https://www.resmigazete.gov.tr/eskiler/2024/08/20240828-2.htm",
+  "link_format": "htm",
+  "index_url": "https://www.resmigazete.gov.tr/eskiler/2024/08/20240828.htm",
+  "index_sha256": "5bdb906e741f2702d2dab6aae2aa7760b4e27ffd75a28f010a1f1783cd2e6b51",
+  "index_header": "28 Ağustos 2024 ... 32646 Sayılı Resmî Gazete",
+  "issue_pdf": "https://www.resmigazete.gov.tr/eskiler/2024/08/20240828.pdf",
+  "in_force_basis": "Resmî Gazete publication date; not a commencement reading.",
+  "text_status": "metadata-only; text not yet fetched (follow-up pass adds it as its own commit)"
+}
