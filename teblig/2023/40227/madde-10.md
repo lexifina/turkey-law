@@ -1,0 +1,3 @@
+Deniz turizmi tesislerinde bulunan konaklama, yeme-içme ve diğer tesislerin değerlendirilmesi
+MADDE 10- (1) Deniz turizmi tesislerinde bulunan yatçı konaklama ünitesinde, oda sayısı hariç, 31/5/2019 tarihli ve 1134 sayılı Cumhurbaşkanı Kararı ile yürürlüğe konulan Turizm Tesislerinin Niteliklerine İlişkin Yönetmelikte bir yıldızlı oteller için belirlenen kriterler aranır.
+(2) Yat limanlarında, belge kapsamı dışında bırakılması gereken üniteler ile Deniz Turizmi Yönetmeliği kapsamı dışındaki deniz turizmi araçlarına hizmet veren iskele, rıhtım, terminal binası gibi kullanımlar bulunması halinde yat limanlarının emniyeti ve yatların güvenli bağlanabilmelerini teminen belge kapsamı dışında bırakılır ve tecridi sağlanır.

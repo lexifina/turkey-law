@@ -1,0 +1,2 @@
+Deniz turizmi tesislerinin kapasitesi
+MADDE 9- (1) Yatırım belgesi taleplerinde denizde bağlama ve karada park kapasiteleri; Ulaştırma ve Altyapı Bakanlığının kıyı yapıları projelerinin onaylandığına ilişkin yazısında, turizm işletmesi belgesi taleplerinde ise işletme izni, geçici işletme izni veya faaliyetine ilişkin izin belgesi veya yazısında belirtilmesi halinde, bu kapasite esas alınır. Bu belgelerde kapasite bilgisinin yer almaması halinde, Ulaştırma ve Altyapı Bakanlığından kapasite bilgisi istenir.

@@ -1,0 +1,2 @@
+Yabancı bayraklı ticari deniz araçlarının seyir izni
+MADDE 19- (1) Yurtdışından yolcusu ile gelen yabancı bayraklı ticari yatların katkı payı Bakanlıkça her yıl metre boyuna göre belirlenir. Bu yatların seyrine, altyapı hizmetlerine katkı payının Bakanlık Döner Sermaye İşletmesi Merkez Müdürlüğüne ödendiğine ilişkin belgenin seyir izin belgesi işlemleri aşamasında Liman Başkanlığına ibrazı koşulu ile izin verilir.

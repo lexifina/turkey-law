@@ -1,0 +1,3 @@
+Yabancı bayraklı özel yatların süre uzatım talepleri
+MADDE 20- (1) Yabancı bayraklı özel yatlar, Bakanlıktan belgeli bir yat limanı veya çekek yerinde 5 yıl kalabilir. Bu süre içerisinde yabancı bayraklı özel yatların süreleri; Bakanlıktan belgeli yat limanı veya çekek yerlerinde 5 yıl konakladığını belirtir yazının ya da bağlama sözleşmesinin, yata ilişkin sertifikanın onaylı örneklerinin Bakanlığa ibraz edilmesi halinde 5 yıl daha uzatılabilir.
+(2) Türk limanları arasında seyreden yabancı bayraklı özel yatlarda, meydana gelebilecek arıza nedeniyle acil olarak tamir edilmesinin gerektiği durumlarda, donatanı, kaptanı, sahibi ve sahibinin yetki verdiği kişi, yatı ve yata ait malzemeyi belgeli deniz turizmi tesisleri dışında da tamir ettirebilir.

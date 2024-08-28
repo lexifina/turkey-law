@@ -1,0 +1,4 @@
+Deniz turizmi tesisleri işletmesi ve kısmi turizm işletmesi belgelerinde yer alacak bilgiler
+MADDE 22- (1) Deniz turizmi tesisleri kısmi turizm işletmesi ve turizm işletmesi belgesinde; tesisin adı, adresi, türü, denizde bağlama karada park kapasitesi (kruvaziyer limanlar hariç) ve hizmet üniteleri, belge sahibinin adı veya unvanı, talep edilmesi halinde işletmecinin/alt işletmecinin unvanı, belge tarih ve numarasına ilişkin bilgilere yer verilir.
+(2) Deniz turizmi araçları işletme belgesinde; işletmenin adı, adresi, türü, deniz turizmi araçlarının adı, kapasitesi, bayrağı, kiralık deniz turizmi araçlarının kira süresi, belge tarih ve numarasına ilişkin bilgilere yer verilir.
+(3) Su altı ve su üstü deniz turizmi araçları turizm işletmesi belgesinde; Turizm Amaçlı Sportif Faaliyet Yönetmeliği ile bu Tebliğde belirtilen zorunlu araç ve gereçler, belgede belirtilir.

@@ -1,0 +1,3 @@
+Belge ve plaket düzenlenmesi
+MADDE 24- (1) Üzerinde Bakanlığın ve tesisin adı, tesisin türü ile işletmenin Bakanlığın denetiminde olduğuna dair bilgiler bulunan ve Bakanlıkça hazırlanarak soğuk damga ile işaretlenmiş plaket, işletme belgeli deniz turizmi tesislerinde tesis girişine asılır. Üzerinde belge türüne göre bu Tebliğde belirlenmiş bilgiler bulunan ve Bakanlıkça hazırlanarak soğuk damga ile işaretlenmiş turizm işletmesi belgesi, işletme belgeli deniz turizmi tesis ve araçlarında yatçı, yolcu ve müşterinin kolayca görüp okuyabileceği şekilde asılır.
+(2) Belge bedelleri düzenlenen belge adedine göre alınır. Belge ve plaket ücretleri Bakanlıkça belirlenir.

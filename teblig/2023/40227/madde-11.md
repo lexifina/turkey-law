@@ -1,0 +1,3 @@
+Tahsisli arazilerde yer alan deniz turizmi tesisleri ile ilgili işlemler
+MADDE 11- (1) Bakanlıktan veya diğer kamu kurum ve kuruluşlarından tahsisli arazilerde yer alan yatırım ve işletmelerin belge devir, kapasite ve tür değişikliği taleplerine ilişkin işlemleri ilgili birim ve kurum ve kuruluşların uygun görüşü alınarak sonuçlandırılır.
+(2) Bakanlıktan turizm yatırımı ve işletmesi belgeli deniz turizmi tesislerinin belge devir, kapasite ve tür değişikliği taleplerine ilişkin mücbir sebepler ile kamudan kaynaklanan ve Bakanlıkça kabul edilebilir hukuki ve idari uyuşmazlıklardan doğmuş sebeplerin devam ettiği sürece belge süreleri Makam Oluru ile veya Değerlendirme Kurulu kararı ile işletilmez.
