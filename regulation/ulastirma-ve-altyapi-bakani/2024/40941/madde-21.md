@@ -1,0 +1,9 @@
+Başmakinist
+MADDE 21- (1) Başmakinist olmak için müracaat edenlerden;
+a) İkinci makinist yeterliği ile 750 kW ve üstü ana makine gücü ile yürütülen gemilerde en az otuz altı ay ikinci makinistlik yapmak veya,
+b) Deniz Kuvvetleri Komutanlığı veya Sahil Güvenlik Komutanlığında en az bir yılı başçarkçı olmak koşulu ile en az on yıllık makine deniz hizmetini tamamlayıp ayrılmış olan astsubay veya sözleşmeli astsubaylardan;
+1) Çark yada motor dalı branşı mezunu astsubay olmak ve Sözleşmede öngörülen A-III/2 Kısmı ile uyumlu müfredat programından öğrenimi esnasında almadığı fark derslerini yetkilendirilmiş eğitim kurumunda tamamlamak veya,
+2) Sözleşmede öngörülen A-III/1 Kısmı ile uyumlu müfredat programına uygun eğitim veren en az ön lisans düzeyinde yetkilendirilmiş eğitim kurumlarından mezun sözleşmeli astsubay olup Sözleşmede öngörülen A-III/3 Kısmı ile uyumlu müfredat programından öğrenimi esnasında almadığı fark derslerini yetkilendirilmiş eğitim kurumunda tamamlamak veya,
+c) 926 sayılı Kanun kapsamında Deniz Kuvvetleri Komutanlığına dış kaynaktan temin edilen subaylardan en az bir yılı başçarkcılık yapmak koşulu ile en az on yıllık makine deniz hizmetini tamamlamak ve Sözleşmede öngörülen A-III/1 ve A-III/3 eğitim programından öğrenimi esnasında almadığı fark derslerini yetkilendirilmiş eğitim kurumunda tamamlamak,
+şartlarından birini yerine getiren ve Eğitim Yönergesinde belirtilen İngilizce puan şartını sağlayarak İdarenin öngördüğü sınavda başarılı olanlar başmakinist yeterliğini almaya hak kazanırlar.
+(2) Uzakyol vardiya mühendisi yeterliğiyle toplam 750 kW ve üstü ana makine gücü ile yürütülen gemilerde liman seferi dışında en az otuz altı ay uzakyol vardiya mühendisliği yapmış olarak uzakyol ikinci mühendisi yeterliğine sahip olanlar, İdarenin öngördüğü ek yeterlik sınavında başarılı olmaları halinde başmakinist ek yeterliğini almaya hak kazanırlar.

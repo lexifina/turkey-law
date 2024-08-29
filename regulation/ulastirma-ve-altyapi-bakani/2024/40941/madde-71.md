@@ -1,0 +1,4 @@
+Kılavuzluk hizmeti vermeyi reddetme hakkı
+MADDE 71- (1) Kılavuz kaptanlar, hizmet verdikleri geminin kılavuzluk hizmet bölgesinde seyre devam etmesinin, limana demirleme, yanaşma veya kalkmasının seyir, can ve mal emniyeti ve/veya çevre emniyeti açısından tehdit oluşturabileceğini gözlemlemeleri durumunda kılavuzluk hizmetini vermeyi reddedebilir.
+(2) Kılavuz kaptanlar, gemiye çıkış ve inişte kullanacakları kılavuz çarmıhı, aydınlatma ve benzeri araçların kurallara uygun ve emniyetli olmaması durumunda hizmet vermeyi reddetme hakkına sahiptir.
+(3) Birinci ve ikinci fıkraların vuku bulduğu durumda kılavuz kaptan, hizmet vermeyi reddetme gerekçesi ve varsa fotoğraf/video kayıtları ile birlikte söz konusu olayı, varsa bölgedeki gemi trafik hizmetleri merkezlerine telsiz veya uygun iletişim aracıyla derhal, ayrıca gerekli işlemin yapılması için kılavuzluk teşkilatı vasıtasıyla ilgili liman başkanlığına en geç 24 saat içinde yazılı olarak bildirir.

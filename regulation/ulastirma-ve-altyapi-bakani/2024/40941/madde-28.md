@@ -1,0 +1,2 @@
+Özel eğitim ve staj gerektiren yeterlikler
+MADDE 28- (1) Türk Boğazları, İzmit ve İzmir Körfezi gibi seyir emniyetinin riskli olduğu bölgelerdeki yerel trafikte yolcu taşıyan gemilerin kaptanları ile başmühendis/başmakinistleri ile hafif yolcu gemisi/feribotu ve yüksek hızlı hafif yolcu gemisi/feribotu kaptanları ile başmühendis/başmakinistleri için ilave eğitim ve staj gibi konulara yönelik hususlar Eğitim Yönergesi ile düzenlenir.

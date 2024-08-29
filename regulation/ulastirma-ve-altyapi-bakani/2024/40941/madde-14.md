@@ -1,0 +1,5 @@
+Uzakyol kaptanı
+MADDE 14- (1) Uzakyol kaptanı yeterliği almak için müracaat edenlerden; en az ROC yeterlik belgesine sahip olmak koşulu ile;
+a) Uzakyol birinci zabit yeterliği ile 500 GT ve daha büyük gemilerde liman seferi dışında en az otuz altı ay birinci zabitlik yapmak veya,
+b) Deniz Harp Okulu mezunu olanlar ile İdarece Sözleşmede öngörülen A-II/2 Kısmı ile uyumlu müfredat programına göre yetkilendirilen lisans düzeyinde yetkilendirilmiş eğitim kurumlarından mezun olup 926 sayılı Kanun kapsamında dış kaynaktan temin edilen ve Deniz Kuvvetleri Komutanlığı veya Sahil Güvenlik Komutanlığından ayrılan deniz sınıfı subaylardan; en az bir yılı gemi komutanlığı olmak üzere en az yedi yıl güverte deniz hizmetini tamamlayıp; Sözleşmede öngörülen A-II/2 Kısmı ile uyumlu müfredat programından öğrenimi esnasında almadığı fark derslerini yetkilendirilmiş eğitim kurumunda tamamlamak,
+şartlarından birini yerine getiren ve Eğitim Yönergesinde belirtilen İngilizce puan şartını sağlayarak İdarenin öngördüğü sınavda başarılı olanlar uzakyol kaptanı yeterliğini almaya hak kazanırlar.

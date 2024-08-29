@@ -1,0 +1,2 @@
+Dayanak
+MADDE 2- (1) Bu Yönetmelik, 1 sayılı Cumhurbaşkanlığı Teşkilatı Hakkında Cumhurbaşkanlığı Kararnamesinin 478 inci maddesinin birinci fıkrasının (b), (c), (d), (f) ve (k) bentleri ile 26/9/2011 tarihli ve 655 sayılı Ulaştırma ve Altyapı Alanına İlişkin Bazı Düzenlemeler Hakkında Kanun Hükmünde Kararnamenin 28 inci maddesine ve 26/8/2003 tarihli ve 2003/6109 sayılı Bakanlar Kurulu Kararı ile taraf olunan Gemi Adamlarının Eğitim, Belgelendirilme ve Vardiya Standartları Hakkında Uluslararası Sözleşmeye dayanılarak hazırlanmıştır.

@@ -1,0 +1,2 @@
+Tekerrüre ilişkin hükümler
+MADDE 64- (1) Yetkilendirilmiş eğitim kurumları, eğiticiler ve ilgililer hakkında yetkilerinin askıya alınması kararı verildiği durumlarda, bu karar tarihinden itibaren otuz altı ay içerisinde bu ihlallerin her birinin tekrarında askıya alınma süresi iki kat artırımlı olarak uygulanır. İlk ihlale ilişkin idari tedbir karar tarihinden itibaren otuz altı ay içerisinde hakkında üçüncü kez idari tedbir kararı alınanların İdare tarafından verilen bütün yetkileri iptal edilir.

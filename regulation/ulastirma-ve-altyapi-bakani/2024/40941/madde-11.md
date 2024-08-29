@@ -1,0 +1,9 @@
+Kaptan
+MADDE 11- (1) Kaptan olmak için müracaat edenlerden en az ROC yeterlik belgesine sahip olmak koşulu ile;
+a) Birinci zabit yeterliği ile 500 GT ve daha büyük gemilerde liman seferi dışında en az otuz altı ay birinci zabitlik yapmak veya,
+b) Deniz Kuvvetleri Komutanlığı veya Sahil Güvenlik Komutanlığında en az bir yılı gemi komutanlığı olmak koşulu ile en az on yıl güverte deniz hizmetini tamamlayıp ayrılmış olan astsubay veya sözleşmeli astsubaylardan;
+1) Seyir branşı mezunu astsubay olmak ve Sözleşmede öngörülen A-II/2 Kısmı ile uyumlu müfredat programından öğrenimi esnasında almadığı fark derslerini yetkilendirilmiş eğitim kurumunda tamamlamak veya,
+2) Sözleşmede öngörülen A-II/1 Kısmı ile uyumlu müfredat programına uygun eğitim veren en az ön lisans düzeyinde yetkilendirilmiş eğitim kurumlarından mezun sözleşmeli astsubay olup Sözleşmede öngörülen A-II/2 Kısmı ile uyumlu müfredat programından öğrenimi esnasında almadığı fark derslerini yetkilendirilmiş eğitim kurumunda tamamlamak veya,
+c) 926 sayılı Kanun kapsamında Deniz Kuvvetleri Komutanlığına dış kaynaktan temin edilen subaylardan en az bir yılı gemi komutanlığı olmak koşulu ile en az on yıl güverte deniz hizmetini tamamlamak ve Sözleşmede öngörülen A-II/1 ve A-II/2 Kısmı ile uyumlu müfredat programından öğrenimi esnasında almadığı fark derslerini yetkilendirilmiş eğitim kurumunda tamamlamak,
+şartlarından birini yerine getiren ve Eğitim Yönergesinde belirtilen İngilizce puan şartını sağlayarak İdarenin öngördüğü sınavda başarılı olanlar kaptan yeterliğini almaya hak kazanırlar.
+(2) Uzakyol vardiya zabiti yeterliğiyle 500 GT ve daha büyük gemilerde liman seferi dışında en az otuz altı ay uzakyol vardiya zabitliği yapmış olarak uzakyol birinci zabit yeterliğine sahip olanlar, İdarenin öngördüğü ek yeterlik sınavında başarılı olmaları halinde kaptan yeterliğini almaya hak kazanırlar.

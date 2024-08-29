@@ -1,0 +1,9 @@
+Birinci zabit
+MADDE 10- (1) Birinci zabit olmak için müracaat edenlerden en az ROC yeterlik belgesine sahip olmak koşulu ile;
+a) Vardiya zabiti yeterliği ile 500 GT ve daha büyük gemilerde liman seferi dışında en az otuz altı ay vardiya zabitliği yaptıktan sonra, Sözleşmede öngörülen A-II/2 Kısmı ile uyumlu müfredat programını yetkilendirilmiş eğitim kurumunda tamamlamak veya,
+b) Deniz Kuvvetleri Komutanlığı veya Sahil Güvenlik Komutanlığında en az yedi yıl güverte deniz hizmetini tamamlayıp ayrılan astsubay veya sözleşmeli astsubaylardan;
+1) Seyir branşı mezunu astsubay olmak ve Sözleşmede öngörülen A-II/2 Kısmı ile uyumlu müfredat programından öğrenimi esnasında almadığı fark derslerini yetkilendirilmiş eğitim kurumunda tamamlamak veya,
+2) Sözleşmede öngörülen A-II/1 Kısmı ile uyumlu müfredat programına uygun eğitim veren en az ön lisans düzeyinde yetkilendirilmiş eğitim kurumlarından mezun sözleşmeli astsubay olup Sözleşmede öngörülen A-II/2 Kısmı ile uyumlu müfredat programından öğrenimi esnasında almadığı fark derslerini yetkilendirilmiş eğitim kurumunda tamamlamak veya,
+3) Diğer güverte branşlarından mezun astsubay olup ilave olarak Eğitim Yönergesinde belirtilen seyir ve gemi idaresi kursu ile Sözleşmede öngörülen A-II/2 Kısmı ile uyumlu müfredat programından öğrenimi esnasında almadığı fark derslerini yetkilendirilmiş eğitim kurumunda tamamlamak veya,
+c) 926 sayılı Kanun kapsamında Deniz Kuvvetleri Komutanlığına dış kaynaktan temin edilen subaylardan en az yedi yıl güverte deniz hizmetini tamamlamak ve Sözleşmede öngörülen A-II/1 ve A-II/2 Kısmı ile uyumlu müfredat programından öğrenimi esnasında almadığı fark derslerini yetkilendirilmiş eğitim kurumunda tamamlamak,
+şartlarından birini yerine getiren ve Eğitim Yönergesinde belirtilen İngilizce puan şartını sağlayarak İdarenin öngördüğü sınavda başarılı olanlar birinci zabit yeterliğini almaya hak kazanırlar.

@@ -1,0 +1,11 @@
+Yetki ve Sorumluluklar, Gemiadamları Eğitim Kalite Standartları ile
+Gemiadamları Komisyonu
+BİRİNCİ BÖLÜM
+Eğitim, Sınav, Belgelendirme, Değerlendirme ve Denetimler
+Hakkında Kalite Standartları
+Yetki ve sorumluluklar
+MADDE 33- (1) İdareden yetkili denizcilik eğitimi veren Millî Eğitim Bakanlığı, Millî Savunma Bakanlığı ve Yükseköğretim Kuruluna bağlı örgün ve yaygın eğitim kurumları, Sözleşmenin öngördüğü eğitim standartlarını sağlayıp uygulamakla mükelleftir.
+(2) Söz konusu eğitim standartlarını içeren müfredatlar, kalite yönetim sistemi ve bağlı yönergelerle istenen diğer hususlar, İdare tarafından Sözleşmeye, bu Yönetmeliğe ve bağlı yönergelere uyumluluğu bakımından denetlenir. Uygun bulunursa onaylanır ve ilgili tarafa bildirilir. Uygun bulunmayan hususlar ise düzeltilmek üzere ilgili tarafa iade edilir.
+(3) Denizcilik ile ilgili eğitim, sınav ve belgelendirme yapan kurum ve kuruluşlar, Sözleşmede belirtilen hedefleri sağlamak için eğitim, yeterlik değerlendirmesi, Sözleşmenin Kod Bölümünün A-I/9 kısmı uyarınca Gemiadamı Sağlık Yoklama Belgesi düzenleme prosedürleri de dâhil olmak üzere belgelendirme ile eğiticilerin ve değerlendiricilerin nitelikleri ile deneyimleri yönünden, Sözleşmenin I/8 Kuralı ile Kod Bölümünün A-I/8 Kısmı uyarınca kalite standartları sistemi ile bu Yönetmeliğin 34 üncü maddesine göre İdare tarafından devamlı olarak izlenir ve değerlendirilir. Bu değerlendirme, en son verilen ülke raporundan sonra ulusal mevzuatta yürürlüğe giren tüm değişiklikler ile Sözleşmede yapılan tüm değişikliklere uyum amacıyla yapılan düzenlemeleri de kapsar.
+(4) Bu Yönetmelikte geçen her türlü gemiadamı belgesinin tanzimine yönelik eğitimler, sadece yetkilendirilmiş eğitim kurumları bünyesinde, İdarece onaylı özel müfredat programları altında gerçekleştirilir.
+(5) İdare tarafından yetkilendirilmemiş eğitim kurumlarında öğrenim görenlere gemiadamı cüzdanı, gemiadamı yeterlik belgesi veya gemiadamı uzmanlık belgesi verilmez. Yetkilendirilmemiş eğitim kurumlarında okuyan öğrenciler ile belgelendirilmemiş mezunlar, eğitim aldıkları kurum İdare tarafından yetkilendirildiğinde aynı eğitimi vermekte olan yetkilendirilmiş eğitim kurumlarında veya kendi eğitim kurumlarında İdare tarafından belirlenen tamamlama kurslarını bitirdikten ve bu Yönetmelikte belirtilen diğer şartları sağladıktan sonra ilgili gemiadamı belgelerini alabilirler.

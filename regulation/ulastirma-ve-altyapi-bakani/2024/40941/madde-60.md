@@ -1,0 +1,10 @@
+Gemiye yeni atanan gemiadamları ile ilgili sorumluluklar
+MADDE 60- (1) Denizcilik işletmeleri; gemiye yeni atanan gemiadamları ile ilgili olarak; kaptan ve gemi personelinden her birinin, 59 uncu maddede belirtilen yükümlülüklerini tam ve etkin olarak yerine getirmelerinden ve geminin emniyetli ve güvenli işletilmesine bağlı olarak her türlü tedbiri almaktan sorumludur. Denizcilik işletmeleri, işletmelerine ait gemilerde ilk defa görev alacak personelden psikometrik değerlendirme veya çok yönlü kişilik envanteri isteyebilir.
+(2) Denizcilik işletmeleri, Sözleşmenin geçerli olduğu her geminin kaptanına, gemide yeni işe alınan bütün gemiadamlarının gemideki aygıtları, işletim yöntemlerini ve görevlerini iyi yapabilmeleri için gereken diğer düzenlemeleri, bu görevler kendisinden istenmeden önce tanımasını sağlamak amacıyla izlenecek ilkeleri ve yöntemleri içeren yazılı bir talimat verir. Bu talimatın usul ve esasları aşağıda belirtilmiştir:
+a) Yeni işe alınan gemiadamına;
+1) Gemiadamının kullanacağı veya çalıştıracağı belli aygıtları,
+2) Gemiadamının verilen görevleri iyi yapması için bilmesi gereken gemiye ait vardiya, güvenlik, çevre koruma ve acil durum yöntemleri ve düzenlemelerini,
+tanıma fırsatı vermek için uygun bir zaman verilir.
+b) Denizcilik işletmeleri, gemiye yeni atanan personelin gemi ile ilgili temel bilgileri anlayabilmesi için, gemiadamının anlayabildiği dilde kendisine rehberlik yapacak yeterlikte birinin atanmasını sağlar.
+c) Denizcilik işletmeleri, gemilerinde belirli görevlere ve sorumluluklara sahip kaptan, zabit ve diğer personelin üstlenecekleri görevlere ve sorumluluklara uygun becerileri kazanmaları için görev başı intibak eğitimini tamamlamalarını sağlar.
+(3) Sahibi ve/veya işletmecisi oldukları gemileri kendi imkânlarıyla tedarik ettiği personelle donatan şirketler hariç olmak üzere, gemilerin Türk gemiadamları ile donatılması işlemleri İdare tarafından izin verilen kuruluşlarca yerine getirilir. Bu kuruluşların ilgili diğer kamu kurumlarından alacakları izinler saklıdır. Bahse konu işlemler ve gemiadamı iş sözleşmelerinin içermesi gereken hususlara ilişkin usul ve esaslar İdare tarafından düzenlenebilir.
