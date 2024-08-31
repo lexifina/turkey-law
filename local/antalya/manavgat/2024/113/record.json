@@ -1,0 +1,29 @@
+{
+  "number": "113",
+  "number_as_published": "MEC-2024-8-",
+  "year": 2024,
+  "month": 8,
+  "title": "MEC-2024-8- 113 - Pazarcı Mah. 232 ada 17 parselde bulunan Park Alanı kullanımının Rekreasyon Alanına dönüştürülmesine İlişkin hazırlanan 1/1000 Ölçekli Uygulama İmar Planı Değişikliği",
+  "decision_date": null,
+  "index_date": "2024-08-31",
+  "date_precision": "month",
+  "period": "Ağustos 2024",
+  "source": "https://www.manavgat.bel.tr/meclis-kararlari/agustos-ayi",
+  "official_page": "https://www.manavgat.bel.tr/meclis-kararlari/agustos-ayi",
+  "official_document": "https://d25tea7qfcsjlw.cloudfront.net/14370/kicerik/239731/118284.pdf",
+  "source_sha256": "f4febb20638e0ec6eca17e28aec5a1307eb7068949098de31070ebf8c188d47f",
+  "issuer": "Manavgat Belediye Meclisi",
+  "history_type": "metadata",
+  "text_status": "metadata-only: number and subject as published in the official listing; complete decision text is in the linked official page/document, not transcribed",
+  "in_force": "2024-08-31",
+  "in_force_basis": "The official listing gives only the month of this decision (Ağustos 2024); date set to the last day of that month (turkey-law date convention for month-only sources); exact adoption dates are in the linked official document; legal commencement not asserted",
+  "missing": [
+    "exact decision date",
+    "complete official decision text",
+    "official annexes"
+  ],
+  "law_text_complete": false,
+  "privacy_withheld": false,
+  "listing_item": "2024 YILI AĞUSTOS AYI MECLİS KARARKLARI",
+  "record_scope": "one council decision (official code MEC-year-month-number)"
+}
