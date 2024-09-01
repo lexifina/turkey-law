@@ -1,0 +1,20 @@
+{
+  "record_type": "gazette-item",
+  "gazette": "Resmî Gazete",
+  "jurisdiction": "TR",
+  "date": "2024-09-01",
+  "issue": "32649",
+  "edition": "regular",
+  "item": 1,
+  "section": "YÜRÜTME VE İDARE BÖLÜMÜ",
+  "heading": "YÖNETMELİKLER",
+  "title": "Aydın Büyükşehir Belediyesi İmar Yönetmeliği",
+  "official_link": "https://www.resmigazete.gov.tr/eskiler/2024/09/20240901-1.htm",
+  "link_format": "htm",
+  "index_url": "https://www.resmigazete.gov.tr/eskiler/2024/09/20240901.htm",
+  "index_sha256": "9c5e766e3bae8633e1e87bf0f183a838d1287de2011e8a956d68b4af2ec84da4",
+  "index_header": "1 Eylül 2024 ... 32649 Sayılı Resmî Gazete",
+  "issue_pdf": "https://www.resmigazete.gov.tr/eskiler/2024/09/20240901.pdf",
+  "in_force_basis": "Resmî Gazete publication date; not a commencement reading.",
+  "text_status": "metadata-only; text not yet fetched (follow-up pass adds it as its own commit)"
+}
