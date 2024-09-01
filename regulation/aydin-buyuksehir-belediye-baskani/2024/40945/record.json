@@ -1,0 +1,31 @@
+{
+  "source_id": "7.5.40945",
+  "kind": "regulation",
+  "register_kind": "Kurum ve Kuruluş Yönetmelikleri",
+  "title": "AYDIN BÜYÜKŞEHİR BELEDİYESİ İMAR YÖNETMELİĞİ",
+  "number": "40945",
+  "issuer": "Aydın Büyükşehir Belediye Başkanı",
+  "issuer_slug": "aydin-buyuksehir-belediye-baskani",
+  "path": "regulation/aydin-buyuksehir-belediye-baskani/2024/40945",
+  "source": "https://www.mevzuat.gov.tr/anasayfa/MevzuatFihristDetayIframe?MevzuatTur=7&MevzuatNo=40945&MevzuatTertip=5",
+  "source_sha256": "30570172536a837a5771f09d7c1c1dd58407b66b98d468f93d862fe034ae7834",
+  "source_bytes": 228173,
+  "published": "2024-09-01",
+  "gazette": "32649",
+  "in_force": "2024-09-01",
+  "in_force_basis": "Resmî Gazete publication date in the official listing (01.09.2024); own commencement article: \"Bu Yönetmelik yayımı tarihinde yürürlüğe girer\"",
+  "commencement_clauses": [
+    "Bu Yönetmelik yayımı tarihinde yürürlüğe girer"
+  ],
+  "history": "current-text",
+  "label": "oldest version available",
+  "checked_on": "2026-11-15",
+  "word_count": 13937,
+  "text_status": "current-consolidated",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  },
+  "completeness": "html-text-complete"
+}
