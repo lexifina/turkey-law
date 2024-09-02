@@ -1,0 +1,59 @@
+{
+  "checked_on": "2026-11-14",
+  "commencement_clauses": [
+    "MADDE 16 – (1) Bu Yönetmelik yayımı tarihinde yürürlüğe girer."
+  ],
+  "date_evidence": [
+    [
+      "2021-12-05",
+      "05.12.2021",
+      "original gazette publication date in official listing"
+    ],
+    [
+      "2024-09-02",
+      "RG-2/9/2024-32650",
+      "latest source-printed gazette amendment date for current consolidated text"
+    ],
+    [
+      "2024-09-02",
+      "RG-2/9/2024-32650",
+      "latest source-printed gazette amendment date for current consolidated text"
+    ],
+    [
+      "2024-09-02",
+      "RG-2/9/2024-32650",
+      "latest source-printed gazette amendment date for current consolidated text"
+    ],
+    [
+      "2024-09-02",
+      "2/9/2024",
+      "latest gazette date in source amendment table"
+    ]
+  ],
+  "date_quote": "RG-2/9/2024-32650",
+  "first_law": null,
+  "gazette": "31680",
+  "history": "current-text",
+  "images": {
+    "deferred": 0,
+    "omitted": 0,
+    "referenced": 0,
+    "source": 0
+  },
+  "in_force": "2024-09-02",
+  "in_force_basis": "latest source-printed gazette amendment date for current consolidated text",
+  "issuer": "İzmir Yüksek Teknoloji Enstitüsü",
+  "issuer_slug": "izmir-yuksek-teknoloji-enstitusu",
+  "kind": "regulation",
+  "label": "oldest version available",
+  "path": "regulation/izmir-yuksek-teknoloji-enstitusu/2021/39088",
+  "published": "2021-12-05",
+  "source": "https://www.mevzuat.gov.tr/anasayfa/MevzuatFihristDetayIframe?MevzuatTur=8&MevzuatNo=39088&MevzuatTertip=5",
+  "source_bytes": 53720,
+  "source_id": "8.5.39088",
+  "source_sha256": "036413fd4ebc60a7cda9dde1843fec193743076c267bf35291c028c9a6bc6f60",
+  "text_status": "current-consolidated",
+  "title": "İZMİR YÜKSEK TEKNOLOJİ ENSTİTÜSÜ KARİYER GELİŞTİRME UYGULAMA VE ARAŞTIRMA MERKEZİ YÖNETMELİĞİ",
+  "university_id": 204,
+  "word_count": 1007
+}

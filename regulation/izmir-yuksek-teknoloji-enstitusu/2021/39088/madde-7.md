@@ -1,0 +1,3 @@
+Müdür
+MADDE 7 – (1) Müdür; Enstitüde tam zamanlı olarak çalışan (Değişik ibare:RG-2/9/2024-32650) öğretim elemanları arasından Rektör tarafından üç yıl için görevlendirilir. Süresi sona eren Müdür yeniden görevlendirilebilir.
+(2) Merkezin faaliyet alanlarıyla ilgili konularda uzman olan Enstitüde tam zamanlı olarak çalışan (Değişik ibare:RG-2/9/2024-32650) öğretim elemanları arasından en fazla iki kişi Müdürün önerisi üzerine Rektör tarafından müdür yardımcısı olarak görevlendirilir. Müdür görevi başında bulunmadığı zamanlarda yardımcılarından birini vekil bırakır. Göreve vekâlet altı aydan fazla sürerse yeni bir Müdür görevlendirilir. Müdürün görevi sona erdiğinde müdür yardımcısının da görevi sona erer.
