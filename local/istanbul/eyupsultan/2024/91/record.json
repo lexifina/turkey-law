@@ -1,0 +1,22 @@
+{
+  "number": "91",
+  "number_as_published": "2024/91",
+  "year": 2024,
+  "title": "Rize İli, Pazar İlçe Belediyesi ile kardeş şehir olma",
+  "decision_date": "2024-09-02",
+  "source": "https://eyupsultan.bel.tr/tr/main/pages/2024-eylul-ayi-meclis-kararlari/2613",
+  "official_document": "https://eyupsultan.bel.tr/tr/main/pages/2024-91/2618",
+  "source_sha256": "51e9ffe464f44b68ea75155138eba4199d0094542adf36d35a87a1509cb8aacf",
+  "issuer": "Eyüpsultan Belediye Meclisi",
+  "history_type": "metadata",
+  "text_status": "metadata-only: listing fields as published; complete decision text is in the linked official document, not transcribed",
+  "in_force": "2024-09-02",
+  "in_force_basis": "Decision date as printed in the official council listing: 02.09.2024 (meeting date at the start of the decision page); adoption date of the council decision; legal commencement not asserted",
+  "missing": [
+    "complete official decision text",
+    "official annexes"
+  ],
+  "law_text_complete": false,
+  "privacy_withheld": false,
+  "decision_page_sha256": "42719d6d56f8b1126a30f48f8c1db90300d4a4043ac26c9f151144bc62b68480"
+}
