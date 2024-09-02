@@ -1,0 +1,21 @@
+{
+  "record_type": "parliament-written-question",
+  "term": 28,
+  "legislative_year": 2,
+  "esas_no": "7/15779",
+  "submitted": "2024-09-02",
+  "submitted_as": "Başkanlığa geliş tarihi",
+  "mp": "Evrim KARAKOZ",
+  "province": "Aydın",
+  "summary": "16 Ağustos 2024 tarihinde Aydın'da gerçekleşen yangın nedeniyle mağdur olan vatandaşların zararlarının giderilmesine ilişkin",
+  "status": "Cevaplandı",
+  "status_as_of": "2026-11-16",
+  "official_record": "https://www.tbmm.gov.tr/Denetim/Yazili-Soru-Onergesi-Detay/332d5408-f4e0-4749-8382-0191b7be3ca0",
+  "source": "https://tbmm.gov.tr/Denetim/YaziliSoruOnergesiTable",
+  "source_form": "https://tbmm.gov.tr/Denetim/Yazili-Soru-Onergeleri",
+  "source_sha256": "cde29a36856689e2e6e09426703f4be26a1629569b972e43f77a6dadd027ef49",
+  "in_force": "2024-09-02",
+  "in_force_basis": "Date the question reached the Speaker (Başkanlığa geliş tarihi) in the official TBMM written-question record; parliamentary oversight record, not law",
+  "history_type": "metadata",
+  "text_status": "metadata-only: question text, addressee and answers are in the linked official record (PDFs on cdn.tbmm.gov.tr); not transcribed here"
+}
