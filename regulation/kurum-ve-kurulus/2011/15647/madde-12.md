@@ -1,0 +1,4 @@
+Nakil vasıtaları ile ilgili sorumluluk ve yükümlülükler
+MADDE 12 – (1) 24 ve 25 inci maddelere göre onay belgesi verilen kara nakil araçları haricindeki diğer kara nakil araçları uzun yolculuklar için hayvan nakillerinde kullanılamaz.
+(2) 28 inci maddeye göre onay belgesi verilen deniz nakil araçları haricindeki diğer deniz nakil araçları 10 deniz milini aşan yolculuklar için evcil tek tırnaklıların, sığır cinsi hayvanların, koyun ve keçi türü hayvanlar (Ek ibare:RG-31/12/2019-30995) , kümes hayvanları ile domuzların naklinde kullanılamaz.
+(3) Birinci ve ikinci fıkralardaki hükümler evcil tek tırnaklıların, sığır cinsi hayvanların, koyun ve keçi türü hayvanlar (Ek ibare:RG-31/12/2019-30995) , kümes hayvanları ile domuzların kara veya deniz yoluyla uzun yolculuklarında kullanılan konteynerleri için de geçerlidir.

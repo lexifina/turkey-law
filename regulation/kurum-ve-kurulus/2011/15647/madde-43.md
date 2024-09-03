@@ -1,0 +1,8 @@
+Nakliye
+MADDE 43 – (1) Nakil sırasında hayvanlara ayrılan alanların büyüklüğü, asgari olarak, Ek-2’de hayvan türleri ve nakil araçlarına göre belirtilen rakamlara uygun olur.
+(2) Yavruları ile yolculuk yapan kısrakların dışında evcil tek tırnaklılar, araç bir ro-ro gemisine yüklendiği hallerde ayrı bölmelerde nakledilir.
+(3) Tek tırnaklı, hayvanların üstlerindeki katta hiçbir hayvanın bulunmadığı durumlar hariç en alt kata yüklendikleri, çok katlı araçlarda nakil edilemez. Bölmenin asgari iç yüksekliği, en uzun boylu hayvanın omuz başının yüksekliğinden en az 75 cm daha yüksek olur.
+(4) Ehlîleştirilmemiş tek tırnaklılar, dörtten fazla gruplar halinde nakledilemez.
+(5) 41 inci maddenin üçüncü ve dördüncü fıkraları ile 42 nci maddenin birinci ve ikinci fıkraları, nakil araçları için söz konusu durumların zorunlu kıldığı gerekli değişiklikler yapıldıktan sonra uygulanır.
+(6) Özellikle nakledilecek hayvan sayısı ve türü ile yolculuk sırasında beklenen hava koşulları dikkate alınarak hayvanların ihtiyaçlarının tamamen karşılanmasını sağlamak için yeterli havalandırma sağlanır ve konteynerler, birbirlerinin havalandırılmasını engellemeyecek biçimde yerleştirilir.
+(7) Nakliye sırasında, hayvanlara, uygun aralıklarla ve özellikle 44 ve 45 inci maddelerde belirtildiği şekilde, tür ve yaşlarına uygun biçimde su, yem ve dinlenme imkânı sağlanır. Aksi belirtilmedikçe, memeliler ve kuşlar, en az 24 saatte bir beslenir ve bunlara en az 12 saatte bir su verilir. Su ve yemin, iyi kalitede olması gerekir ve bunlar hayvanlara kirliliği en düşük seviyeye çekecek biçimde sunulur. Hayvanların yeni beslenme ve su içme biçimlerine alışma ihtiyaçlarına gereken dikkat gösterilir.

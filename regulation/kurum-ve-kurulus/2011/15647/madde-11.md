@@ -1,0 +1,12 @@
+Nakliyecilerin sorumluluk ve yükümlülükleri
+MADDE 11 – (1) Bu Yönetmelik hükümlerine göre gerçek ya da tüzel kişiler 15 inci maddenin birinci fıkrası ya da 16 ncı maddenin birinci fıkrasına uygun olarak il müdürlüğü tarafından verilmiş bir yetki olmadan nakliyeci olarak çalışamaz. Yetki belgesinin bir sureti, hayvanlar nakledilirken il/ilçe müdürlüğüne sunulur.
+(2) Nakliyeciler, 15 inci maddenin birinci fıkrası ya da uzun yolculuklar için 16 ncı maddenin birinci fıkrasında atıfta bulunulan bilgi ve belgelere ilişkin herhangi bir değişikliği, söz konusu değişikliğin meydana geldiği tarihten itibaren en geç 15 iş günü içinde yetki belgesini düzenleyen il müdürlüğüne bildirir.
+(3) Nakliyeciler; 33 ila 51 inci maddeler ile Ek-1 ve Ek-2’de öngörülen teknik kurallara uygun olarak hayvanların nakledilmesini sağlar.
+(4) Nakliyeciler, hayvanların bakılması işini 33 ila 52 nci maddeler ile Ek-1 ve Ek-2’nin ilgili hükümleri konusunda eğitim almış olan kişilere verir.
+(5) Yeterlilik belgesine sahip olmayan kişiler evcil tek tırnaklılar, sığır cinsi hayvanlar, koyun ve keçi türü hayvanlar (Ek ibare:RG-31/12/2019-30995) , kümes hayvanları ile domuz türlerine ait evcil hayvanların taşındığı bir karayolu aracını kullanamaz ya da burada bakıcı olarak görev alamaz. Yeterlilik belgesinin sureti, hayvanlar nakledilirken il/ilçe müdürlüğüne sunulur.
+(6) (Değişik cümle:RG-5/2/2014-28904) Nakliyeciler aşağıdaki durumlar dışında hayvan nakline bir bakıcının eşlik etmesini sağlar.
+a) Hayvanların yeterli havalandırmaya sahip, planlanan yolculuk süresinin iki katına kadar yetecek yem ve devrilmeyen kaplarda su bulunan ve güvenli konteynerlerde taşınması.
+b) Şoförün bakıcının görevlerini yapması.
+(7) Ayrılış yeri ile varış yeri arasında en fazla 65 kilometrelik bir mesafeye kadar hayvan nakli yapan kişiler için birinci, ikinci, dördüncü ve beşinci fıkralar uygulanmaz.
+(8) Nakliyeciler, talep edilmesi halinde, hayvanların taşındığı araçlar için 24 ve 28 inci maddelerin birinci fıkralarında belirtilen yetki belgelerini il/ilçe müdürlüğüne sunar.
+(9) Uzun karayolu yolculuklarında, tescilli tek tırnaklılar dışında evcil tek tırnaklılar, sığır cinsi hayvanlar, koyun ve keçi türü hayvanlar (Ek ibare:RG-31/12/2019-30995) , kümes hayvanları ile domuz türlerine ait evcil hayvanları taşıyan nakliyeciler, GPS sistemi kullanır. GPS sisteminden alınan kayıtlar en az üç yıl saklanır. Kayıtlar özellikle nokta kontrollerde talep edilmesi halinde denetleyenlere sunulur.

@@ -1,0 +1,8 @@
+İl müdürlüğü tarafından nakliyeci yetki belgesi, sürücü ve bakıcı için yeterlilik belgesi düzenlenmesi
+MADDE 18 – (1) İl müdürlüğü tarafından müracaatı uygun bulunarak değerlendirilen ve sekiz saatten kısa süreli hayvan nakli yapacak nakliyeciler için Ek-8, uzun yol nakliyecileri için Ek-9’da örneği verilen yetki belgeleri, eğitime tabi tutulduktan sonra yapılan sınavda başarılı olan sürücü ve bakıcılar için Ek-10’da örneği bulunan yeterlilik belgeleri (Ek ibare:RG-10/4/2021-31450) fiziki olarak veya elektronik ortamda düzenlenir.
+(2) İl müdürlüğü, hayvanların nakli sırasında yapılan denetimlerde belirlenen durumlara göre 15 inci maddenin birinci fıkrası ya da uzun yolculuklar için 16 ncı maddenin birinci fıkrasına göre düzenlenmiş nakliyeci yetki belgesinin kapsamını kısıtlayabilir.
+(3) Yetki belgelerine mükerrer olmayan bir numara verilir. Nakliyecinin diğer ülkelerde çalışmasının söz konusu olduğu durumlarda belgenin İngilizce nüshası düzenlenir.
+(4) Yetki belgeleri, başta bu Yönetmelik şartlarının ihlali olmak üzere nakliyecilerin hızlı biçimde tespit edilmesine imkân verecek biçimde kayıt edilir.
+(5) İl müdürlüğü yetki belgelerini elektronik bir veri tabanına kaydeder. Nakliyecinin adı ve yetki numarası, söz konusu yetki belgesi yürürlükte olduğu sürece veri tabanı isteyen kişilerin yararlanmasına açık bulundurulur. Mahremiyetin korunmasıyla ilgili mevzuata uyulması kaydı ile nakliyecilerin yetki belgelerine ilişkin diğer verilere isteyen kişilerin erişimi sağlanır.
+(6) Sürücü ya da bakıcının diğer ülkelerde de faaliyette bulunmasının söz konusu olduğu durumlarda yeterlilik belgelerinin İngilizce nüshaları da hazırlanır.
+(7) Yetki belgesinin kapsamı, belirli bir hayvan türünün ya da belirli hayvan türlerinin nakli ile sınırlandırılabilir.

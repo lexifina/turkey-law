@@ -1,0 +1,5 @@
+Karayolu nakil araçlarında havalandırma ve ısının izlenmesi
+MADDE 50 – (1) Karayolu nakil aracında bulunan havalandırma sistemleri, yolculuğun herhangi bir anında, nakil aracı hareket halinde olsun ya da olmasın, nakil aracı içerisindeki ısının, hava sıcaklığına göre +/-5˚C tolerans payıyla, tüm hayvanlar için 5oC ila 30oC aralığında korunmasını sağlayacak biçimde tasarlanmış, imal edilmiş ve bakımı yapılmış olur.
+(2) Havalandırma sistemi, nominal kapasitesi, taşıma kapasitesinin 60 m3/h/KN düzeyinde olan asgari hava akışıyla eşit dağılım sağlayacak ve aracın motorundan bağımsız olarak en az 4 saat çalışabilecek kapasitede olur.
+(3) Nakil aracı, bir ısı izleme sistemi ve ısı verilerini kaydedecek araçlarla donatılmış olur. Sensörler, tasarım özelliklerine bağlı olarak, kamyonun kötü iklim koşullarına maruz kalma ihtimali en yüksek olan kısımlarına yerleştirilmiş olur. Bu şekilde elde edilen ısı kayıtları tarihlendirilir ve talep edilmesi halinde yetkili makama sunulur.
+(4) Karayolu nakil aracı, hayvanların bulunduğu bölmelerdeki ısı azami veya asgari düzeye ulaştığında sürücüyü ikaz edecek bir uyarı sistemi ile donatılmış olur.

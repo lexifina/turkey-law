@@ -1,0 +1,5 @@
+Uzun yolculuğun herhangi bir aşamasında il/ilçe müdürlüğü tarafından yapılacak kontroller
+MADDE 20 – (1) İl/ilçe müdürlüğü, uzun yolculuğun herhangi bir aşamasında, beyan edilen yolculuk saatlerinin gerçeğe, yolculuğun bu Yönetmelik hükümlerine ve özellikle yolculuk saatlerinin ve dinlenme sürelerinin 45 ve 46 ncı maddelerde öngörülen sınırlamalara uygunluğunu doğrulamak için, rastgele ya da hedeflenmiş kontroller yapar.
+(2) Yurtiçi ve yurtdışına uzun yolculuklarda, 33 üncü maddede öngörüldüğü biçimde, hayvanların nakledilmeye uygunluğunu belirlemek için ayrılış yerindeki kontroller, öngörülen süre sınırlamaları içinde ve hayvan sağlığı kontrolleri kapsamında hayvanların nakil aracına bindirilmesinden önce yapılır.
+(3) Varış yerinin kesimhane olması halinde, birinci fıkrada öngörülen kontroller 17/12/2011 tarihli ve 28145 sayılı Resmî Gazete’de yayımlanan Hayvansal Gıdaların Resmi Kontrollerine İlişkin Özel Kuralları Belirleyen Yönetmeliğin öngördüğü biçimde ve hayvan refahı kontrolü kapsamında yapılabilir.
+(4) Karayolu nakil araçlarının hareketlerine ilişkin GPS sisteminden alınan kayıtlar, bu kontrollerin yerine getirilmesinde kullanılabilir.

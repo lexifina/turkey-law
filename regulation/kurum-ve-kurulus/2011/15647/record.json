@@ -1,0 +1,92 @@
+{
+  "source_id": "7.5.15647",
+  "kind": "regulation",
+  "register_kind": "Kurum ve Kuruluş Yönetmelikleri",
+  "title": "HAYVANLARIN NAKİLLERİ SIRASINDA REFAHI VE KORUNMASI YÖNETMELİĞİ",
+  "number": "15647",
+  "issuer_slug": "kurum-ve-kurulus",
+  "path": "regulation/kurum-ve-kurulus/2011/15647",
+  "source": "https://www.mevzuat.gov.tr/anasayfa/MevzuatFihristDetayIframe?MevzuatTur=7&MevzuatNo=15647&MevzuatTertip=5",
+  "source_sha256": "047a0d99c0bad41539d546afbce3d84115be67700fdc1743ad1df0d014551aa0",
+  "source_bytes": 198150,
+  "published": "2011-12-24",
+  "gazette": "28152",
+  "in_force": "2024-09-03",
+  "in_force_basis": "latest Resmî Gazete date printed in the source amendment notes/table (\"RG-3/9/2024\") for the current consolidated text",
+  "date_evidence": [
+    [
+      "2024-09-03",
+      "RG-3/9/2024",
+      "Resmî Gazete date printed in the source amendment note"
+    ],
+    [
+      "2024-09-03",
+      "3/9/2024",
+      "Resmî Gazete date in the source amendment table"
+    ],
+    [
+      "2023-12-23",
+      "23/12/2023",
+      "Resmî Gazete date in the source amendment table"
+    ],
+    [
+      "2021-12-30",
+      "30/12/2021",
+      "Resmî Gazete date in the source amendment table"
+    ],
+    [
+      "2021-04-10",
+      "RG-10/4/2021",
+      "Resmî Gazete date printed in the source amendment note"
+    ],
+    [
+      "2021-04-10",
+      "10/4/2021",
+      "Resmî Gazete date in the source amendment table"
+    ],
+    [
+      "2019-12-31",
+      "RG-31/12/2019",
+      "Resmî Gazete date printed in the source amendment note"
+    ],
+    [
+      "2019-12-31",
+      "31/12/2019",
+      "Resmî Gazete date in the source amendment table"
+    ],
+    [
+      "2017-12-24",
+      "24/12/2017",
+      "Resmî Gazete date in the source amendment table"
+    ],
+    [
+      "2016-12-24",
+      "24/12/2016",
+      "Resmî Gazete date in the source amendment table"
+    ],
+    [
+      "2015-12-29",
+      "29/12/2015",
+      "Resmî Gazete date in the source amendment table"
+    ],
+    [
+      "2014-02-05",
+      "RG-5/2/2014",
+      "Resmî Gazete date printed in the source amendment note"
+    ]
+  ],
+  "history": "current-text",
+  "label": "oldest version available",
+  "checked_on": "2026-11-15",
+  "word_count": 9355,
+  "text_status": "current-consolidated",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  },
+  "source_links": [
+    "7.5.15647-EK.doc"
+  ],
+  "completeness": "html-text-complete; linked annexes not fetched"
+}
