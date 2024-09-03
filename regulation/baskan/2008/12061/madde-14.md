@@ -1,0 +1,4 @@
+İşe alma ve işe başlama
+MADDE 14 – (1) Yukarıda sayılan belgelere istinaden Kurum tarafından yapılacak inceleme sonucunda Kurumda işe alınması uygun görülenlerin görev talep formundaki adreslerine durum yazılı olarak bildirilir. Tebliğ tarihinden itibaren 15 gün içerisinde ilgilinin işe başlaması gereklidir. Kurum gerekli hallerde atanmaya hak kazanan ilgiliyi bu süreden sonra işe başlatabilir, ancak bu durum başlangıçta ilgiliye bildirilir.
+(2) Görev talep formunda gösterilen adreslerinde bulunmamaları nedeni ile kendilerine tebligat yapılamamış olanlar ile belgelenmiş bir mücbir sebep olmaksızın belirtilen süreler içerisinde göreve başlamayanların işe alınma işlemleri iptal edilir.
+(3) Atanan adayların iş sözleşmesi imzalamamaları veya işe başlamamaları ya da işe başlayıp deneme süresi içinde işten ayrılmaları halinde, yerlerine başarı sırasına göre yedek adaylar atanabilir.

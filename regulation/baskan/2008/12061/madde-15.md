@@ -1,0 +1,5 @@
+Deneme süresi ve iş akdi
+MADDE 15 – (1) Personel ile imzalanan iş akdine iki aylık deneme süresinin olduğu belirtilir ve ilgilinin beklenen görevleri yerine getirmesi istenir. Deneme süresi sona erme tarihinden 10 gün önce ilgili Yönetici Personel, personel hakkında bir değerlendirme raporu hazırlar ve Başkana iletir. Raporlarda önerilen hususlar Başkan tarafından değerlendirilir. İş akdinin devamına karar verilen personelin iş akdi belirsiz süreli iş akdine dönüşür.
+(2) (Değişik:RG-3/9/2024-32651) İş akitleri, belirsiz süreli olarak personelin istihdam edileceği kadroya ve personelin özellikleri dikkate alınarak her bir personel ile ayrı ayrı imzalanır.
+(3) Deneme süresi içinde veya sonunda Kurumda çalışması uygun bulunmayan personelin sözleşmesi, Kurum tarafından bildirim süresine gerek olmaksızın ve tazminatsız feshedilir. Kişinin çalıştığı günlere ilişkin ücret ve diğer hakları saklıdır.
+(4) (Değişik:RG-3/9/2024-32651) Yönetici kadrosundaki personelin deneme süresi sonunda iş akdinin devamına veya feshedilmesine Başkanın teklifi ve Yönetim Kurulunun oluru ile karar verilir.
