@@ -1,0 +1,8 @@
+Koruma bölge kurullarında başkanlık seçimi, üyelik süresi ve üyeliğin sona ermesi
+MADDE 10 – (1) Koruma bölge kurulu başkanı ve başkan yardımcısı, Bakanlıkça seçilen yedi üyenin katıldığı bir toplantıda bu üyeler arasından koruma bölge kurulunca seçilir. Bu üyelerin yarıdan fazlasının değişmesi halinde başkan ve başkan yardımcısı seçimi yenilenir. Başkanın yokluğunda, başkan yardımcısı, koruma bölge kuruluna başkanlık eder.
+(2) Birinci fıkra uyarınca başkan ve başkan yardımcısının seçilemediği hallerde Bakanlıkça seçilen üyelerden en az dört üyenin katılması koşulu ile yapılan ilk toplantıda, katılanlar arasından geçici olarak başkan ve başkan yardımcısı seçilir. Bakanlıkça seçilen yedi üye ile yapılacak ilk toplantıda başkan ve başkan yardımcısının seçilmesi ile geçici olarak seçilen başkan ve başkan yardımcısının görevleri sona erer.
+(3) Koruma bölge kurullarının kurum temsilcisi üyelerinin üyelikleri kurumlarındaki görevleri süresince devam eder.
+(4) Koruma bölge kurullarının Bakanlıkça seçilen üyelerinin görev süresi üç yıldır.
+(5) Herhangi bir nedenle bir yıl içinde yıllık izin, hastalık ve mazeret izinleri hariç toplam dört veya üst üste iki toplantıya katılmayan koruma bölge kurulu üyelerinin üyelikleri sona erer.
+(6) Üyelikleri süresince koruma bölge kurulunun görev ve yetki alanlarına giren konularda koruma bölge kurulu üyeleri, doğrudan veya dolaylı olarak taraf olamaz ve hiçbir menfaat sağlayamazlar. Aksine davrandığı tespit edilenlerin kurul üyeliği Bakanlıkça sona erdirilir.
+(7) Koruma bölge kurulu üyelerinin izin, mazeret ve devam durumlarına ilişkin usuller yönergeyle düzenlenir.
