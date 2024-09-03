@@ -1,0 +1,21 @@
+{
+  "record_type": "parliament-written-question",
+  "term": 28,
+  "legislative_year": 2,
+  "esas_no": "7/16298",
+  "submitted": "2024-09-03",
+  "submitted_as": "Başkanlığa geliş tarihi",
+  "mp": "Çiçek OTLU",
+  "province": "İstanbul",
+  "summary": "Bir altın işletmesinin çeşitli projelerine ilişkin",
+  "status": "Süresi Geçtikten Sonra Cevaplandı",
+  "status_as_of": "2026-11-16",
+  "official_record": "https://www.tbmm.gov.tr/Denetim/Yazili-Soru-Onergesi-Detay/7518f376-f857-410d-a4fc-0191bbeb3f7c",
+  "source": "https://tbmm.gov.tr/Denetim/YaziliSoruOnergesiTable",
+  "source_form": "https://tbmm.gov.tr/Denetim/Yazili-Soru-Onergeleri",
+  "source_sha256": "16e54856bc731a9e9e49b4bff35390496ff5f34d7abd0b271261f39f57a946ec",
+  "in_force": "2024-09-03",
+  "in_force_basis": "Date the question reached the Speaker (Başkanlığa geliş tarihi) in the official TBMM written-question record; parliamentary oversight record, not law",
+  "history_type": "metadata",
+  "text_status": "metadata-only: question text, addressee and answers are in the linked official record (PDFs on cdn.tbmm.gov.tr); not transcribed here"
+}
