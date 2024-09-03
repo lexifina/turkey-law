@@ -1,0 +1,22 @@
+Tanımlar
+MADDE 3- (1) Bu Yönetmelikte geçen;
+a) Ar-ge: Araştırma ve geliştirmeyi,
+b) Başkanlık: Türkiye Bilimsel ve Teknolojik Araştırma Kurumu Başkanlığını,
+c) Burs: Türkiye’de kurulu örgün eğitim kurumlarında lise, ön lisans, lisans ve lisansüstü eğitimlerini sürdüren öğrenciler ile doktora sonrası araştırmacılara, yurt içinde ve/veya yurt dışında yaşam ve/veya öğrenim giderlerini karşılamak amacıyla Yönetim Kurulunca belirlenen miktarda ve süreyle yapılan aylık ödemeyi,
+ç) Bursiyer: Tatbikat amacıyla projede yer alan, Türkiye’de kurulu örgün eğitim kurumlarında lise, ön lisans, lisans ve lisansüstü eğitimlerini sürdüren öğrenciler ile doktora sonrası araştırmacıları,
+d) Çağrı: Programlar kapsamında; konu, başvuru koşulları, destek miktarı ve destek süresi ile takvim ve başvuruya özel hususları tanımlayan ilan metni ve eklerini,
+e) Danışman: Başkanlık personelinin görev ve yetkinlikleri dışında kalan konularda, bilgisinden yararlanılmak üzere Bilim ve Toplum Başkanlığı faaliyetleri gereği geçici süre ile hizmet alınan uzmanı,
+f) Danışma ve Değerlendirme Kurulu: Yürütülecek programın niteliğine göre görüş ve değerlendirmelerinden yararlanılmak üzere Başkanlık onayıyla oluşturulan kurulları,
+g) Etkinlik: Türkiye Bilimsel ve Teknolojik Araştırma Kurumu ve varsa iş birliğinde bulunulan kurum/kuruluşlar tarafından yürütülen kongre, konferans, toplantı, organizasyonlar ile söyleşi, yarışma ve benzeri faaliyetleri,
+ğ) İzleyici: Projeler kapsamındaki faaliyetleri izlemek, değerlendirmek ve raporlamak amacıyla görevlendirilen konusunda uzman kişi veya kurum/kuruluşu,
+h) Kurum/kuruluş: Üniversiteler, araştırma kurumları ve fonları, kamu kurum ve kuruluşları ile sektör ve büyüklüğüne bakılmaksızın firma düzeyinde katma değer yaratan bir veya birden çok gerçek veya tüzel kişiye ait olan Türkiye’de yerleşik işletmeleri,
+ı) Kurum hissesi: Destek verilen kurum/kuruluşun imkânlarından faydalanılması karşılığı Türkiye Bilimsel ve Teknolojik Araştırma Kurumu tarafından dönem içindeki proje teşvik ikramiyesi dışında kalan proje bütçesinin en fazla %10’u oranında hesaplanarak destek bütçesine eklenen tutarı,
+i) Ödül: Yarışma ve benzeri etkinliklerde başarı gösteren kişilere; net ödeme tutarı 60.000 gösterge rakamının memur aylıklarına uygulanan aylık katsayısı ile çarpımı sonucu elde edilecek tutarı geçmemek üzere verilen hibe niteliğindeki ödemeleri,
+j) Özel hesap: Proje desteğinin aktarılacağı ve yalnızca proje kapsamındaki harcamalar için kullanılacak banka hesabını,
+k) Program: Bu Yönetmelik kapsamında Türkiye Bilimsel ve Teknolojik Araştırma Kurumu Yönetim Kurulu onayı ile belirlenen proje türlerini,
+l) Proje: Programlar kapsamında; bir ürün, süreç, hizmet geliştirmek ya da sonuç elde etmek için üstlenilmiş, başarı ölçütleri ve hedefleri tanımlanmış, belirli bir zaman aralığında ve belirli miktarda kaynakla gerçekleştirilen etkinlik ve faaliyetler bütününü,
+m) Proje teşvik ikramiyesi: Desteklenen projelerde, 278 sayılı Kanunun 16 ncı maddesine göre bu Yönetmelik hükümleri doğrultusunda proje sözleşmesinde belirlenerek ödenen tutarları,
+n) Proje yürütücüsü: Proje hazırlama, yürütme beceri ve deneyimine sahip, projenin bilimsel, teknik, idari, mali ve hukuki her türlü sorumluluğunu taşıyan ve yazışmaları yapan kişiyi,
+o) TÜBİTAK: Türkiye Bilimsel ve Teknolojik Araştırma Kurumunu,
+ö) Yönetim Kurulu: TÜBİTAK Yönetim Kurulunu,
+ifade eder.

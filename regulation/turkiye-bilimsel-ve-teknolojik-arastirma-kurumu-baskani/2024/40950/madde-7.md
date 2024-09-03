@@ -1,0 +1,3 @@
+Projelerin izlenmesi ve sonuçlandırılması
+MADDE 7- (1) Verilen desteklerin program amaçlarına uygun olarak yürütülüp yürütülmediği, Bilim ve Toplum Başkanlığı tarafından izlenir. Bilim ve Toplum Başkanlığı programın niteliğine göre gerek gördüğü takdirde, yürütücü kişi/kurum/kuruluştan projelerin izlenmesi ve sonuçlandırılması için rapor talep eder; desteğin bilimsel, teknik, idari ve mali açılardan incelenmesi amacıyla belirleyeceği izleyicileri yerinde inceleme için görevlendirir.
+(2) Projeler; yürütücü kişi/kurum/kuruluşlardan alınan rapor ve/veya izleyici raporları dikkate alınarak TÜBİTAK tarafından çağrıda yer alan ölçütlere göre sonuçlandırılır. Başarı ile sonuçlandırılmayan projeler için iptale ilişkin hükümler uygulanır.
