@@ -1,0 +1,3 @@
+Proje hizmetlerinden elde edilen gelirin dağıtımı
+MADDE 6 – (1) Emniyet Teşkilatı bünyesinde, işletme aracılığı ile yürütülen proje sonucunda elde edilen ürünün gerçek ve özel hukuk tüzel kişilerine satışının yapılması ve kullandırılması, Yönetim Kurulunun onayına bağlıdır.
+(2) Proje sonucunda elde edilen ürünlerin satışı ve kullandırılması karşılığında elde edilen gelirlerden kesintiler ile iş ve hizmetle bağlantılı giderler düşüldükten sonra geri kalan kısmı, projede görev alan proje koordinatörü ve projede görev alan kapsama dahil personele projeye yaptığı katkı, yaptığı işin önemi ve güçlüğü, çalışma süresi, iş hacmi, kadro ve görev unvanı gibi hususlar dikkate alınmak suretiyle Yönetim Kurulunun belirlediği oran ve esaslara göre ek ödeme olarak ödenir.
