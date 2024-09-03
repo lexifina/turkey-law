@@ -1,0 +1,5 @@
+Yazılı sınav
+MADDE 11- (1) Yazılı sınav, bu sınava ilişkin konu başlıklarına duyuruda yer verilmek suretiyle ve çoktan seçmeli test usulünde yapılır. Görevde yükselme yazılı sınavı Merkez tarafından yapılabileceği gibi, Ölçme, Seçme ve Yerleştirme Merkezi Başkanlığı, Milli Eğitim Bakanlığı veya yükseköğretim kurumlarından birine yaptırılabilir.
+(2) Ünvan değişikliği yazılı sınavı, görev alanları ve atama yapılacak görevin niteliğine ilişkin konularda Ölçme, Seçme ve Yerleştirme Merkezi Başkanlığı, Milli Eğitim Bakanlığı veya yükseköğretim kurumlarından birine yaptırılır. Sınava katılacaklarda Merkezde veya öğrenim durumları ile ilgisi bulunmayan görevlerde belirli süre hizmet yapmış olma şartı aranmaz.
+(3) Yazılı sınavların Merkezin dışındaki diğer kurumlara yaptırılması hâlinde, sınavın yürütülmesine ve itirazlara ilişkin usul ve esaslara, Merkez ile sınavın yaptırılacağı kurum arasında yapılan protokolde yer verilir.
+(4) Yazılı sınavda yüz tam puan üzerinden en az altmış puan alanlar başarılı sayılır.

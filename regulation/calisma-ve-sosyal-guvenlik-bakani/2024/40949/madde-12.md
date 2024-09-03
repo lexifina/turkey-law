@@ -1,0 +1,4 @@
+Sınavın geçersiz sayılması ve ertelenmesi
+MADDE 12- (1) Sınavlarda kopya çekenlerin, kopya verenlerin veya bunlara teşebbüs edenlerin, sınav kâğıtlarına belirtici işaret koyanların, başvuruda gerçeğe aykırı bildirimde bulunduğu anlaşılanların veya gerekli şartları taşımadığı daha sonra saptananların sınavları geçersiz sayılarak atamaları yapılmaz ve atamaları yapılmış olanların atamaları iptal edilir. Ayrıca, bu kişiler hakkında yasal işlem yapılır.
+(2) Sınava girecek adayın yerine başka bir kişinin sınava girdiğinin anlaşılması halinde, ilgilinin sınavı geçersiz sayılır ve bu husus bir tutanakla tespit edilir. Ayrıca bu kişiler hakkında yasal işlem yapılır.
+(3) Yazılı sınav sorularının sınav öncesi çalındığının tespit edilmesi veya deprem, sel ve benzeri doğal afetler olması durumunda sınavlar ertelenebilir.
