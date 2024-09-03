@@ -1,0 +1,3 @@
+Birliğin sözleşmeyi feshetmesi
+MADDE 51 – (1) Sözleşme yapıldıktan sonra yüklenicinin taahhüdünden vazgeçmesi, işi süresinde bitirmemesi veya taahhüdünü, ihale dokümanı ve sözleşme hükümlerine uygun olarak yerine getirmemesi üzerine, ihale dokümanında belirlenen oranda gecikme cezası uygulanmak üzere birliğin en az beş gün süreli ve nedenleri açıkça belirtilen ihtarına rağmen aynı durumun devam etmesi halinde, ayrıca protesto çekmeye ve hüküm vermeye gerek kalmaksızın kesin teminatı gelir kaydedilir ve sözleşme feshedilerek hesabı genel hükümlere göre tasfiye edilir.
+(2) Gelir kaydedilen kesin teminat, müteahhit veya müşterinin borcuna mahsup edilemez.

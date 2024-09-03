@@ -1,0 +1,3 @@
+Yazılı teklif istenmesi
+MADDE 39 – (1) Açık ihale usulü ile yapılan mal alımı, hizmet alımı ve yapım işlerinin ihalelerinde, teklif mektubu ile yazılı olarak teklif olunan bedel komisyonca uygun görülmediği veya tekliflerin aynı olduğu durumlarda, komisyon ihaleye katılan ve orada bulunan isteklilerden tekliflerini yazılı olarak yenilemelerini isteyebilir.
+(2) Komisyonun bu kararı üzerine isteklilerin mevcut en düşük tekliften daha düşük teklif vermeleri gerekmekte olup, bu teklifi veremeyen istekli ihaleden çekilmiş sayılır. Bu aşamada verilen en düşük teklif komisyonca uygun bedel kabul edilebilir. İstekliler yazılı olarak oluşan en düşük tekliften daha düşük teklif vermez ise ihale komisyonu ihalenin iptaline karar verir.

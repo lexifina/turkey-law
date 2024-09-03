@@ -1,0 +1,20 @@
+İdari şartnamede yer alması zorunlu hususlar
+MADDE 24 – (1) İdari şartnamede ihale konusuna göre aşağıdaki hususların belirtilmesi zorunludur:
+a) İşin adı, niteliği, türü ve miktarı, hizmet alımlarında iş tanımı,
+b) Birliğin adı, adresi, telefon ve faks numarası,
+c) İhale tarih ve saati ile tekliflerin nereye verileceği,
+ç) İsteklilerde aranılan şartlar, belgeler ve yeterlik kriterleri,
+d) İsteklilerce ihale dokümanında açıklama isteme ve açıklama usulleri,
+e) Ulaşım, sigorta, vergi, resim ve harç giderlerinden hangisinin teklif fiyatına dâhil olacağı,
+f) İhale komisyonunca alınan ihale kararının en geç beş gün içerisinde ihale yetkilisince onaylanacağı veya iptal edileceği,
+g) Geçici ve kesin teminat oranları ile teminatlara ait şartlar,
+ğ) İhale saatinden önce ihalenin iptal edilmesinde birliğin serbest olduğu,
+h) Bütün tekliflerin reddedilmesi ve ihalenin iptal edilmesinde birliğin serbest olduğu,
+ı) İhale konusu işin başlama ve bitirme tarihi, yapılma yeri, teslim şartları ve gecikme halinde alınacak cezalar,
+i) Ödeme yeri ve şartlarıyla avans verilip verilmeyeceği, verilecekse şartları,
+j) Fiyat farkı ödenmeyeceği,
+k) Süre uzatımı verilebilecek hal ve şartlar ile sözleşme kapsamında yaptırılabilecek iş artışları ile iş azalışları olması durumunda doğacak karşılıklı yükümlülükler,
+l) Vergi, resim ve harçlar ile sözleşme ile ilgili diğer giderlerin yüklenici tarafından ödeneceği,
+m) Yapım işlerinde iş ve işyerinin sigortalanması ile yapı denetimi ve sorumluluğuna ilişkin şartlar,
+n) Denetim, muayene ve kabul işlemlerine ilişkin şartlar,
+o) Anlaşmazlıkların çözüm şekli.

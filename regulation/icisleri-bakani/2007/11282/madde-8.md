@@ -1,0 +1,2 @@
+İhale işlem dosyası
+MADDE 8 – (1) İhalesi yapılacak her iş için bir ihale işlem dosyası düzenlenir. Bu dosyada ihale yetkilisinden alınan onay belgesi ve eki yaklaşık maliyete ilişkin hesap cetveli, şartname ve ekleri, gerekli projeler, ihale dokümanı, ilân metinleri, istekliler tarafından sunulan teklifler, sözleşme tasarısı ve diğer belgeler, ihale komisyonu tutanak ve kararları gibi ihale süreci ile ilgili bütün belgeler bulunur.

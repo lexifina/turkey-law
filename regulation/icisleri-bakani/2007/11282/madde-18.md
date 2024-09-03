@@ -1,0 +1,3 @@
+Açık ihale usulü
+MADDE 18 – (1) Açık ihale usulü, bütün isteklilerin teklif verebildiği usuldür. 19 uncu maddenin birinci fıkrasının (a), (b), (c), (ç) ve (d) bentleri ile 20 nci maddenin birinci fıkrasının (a), (b), (c), (ç), (d), (e), (f) ve (g) bentlerinde sayılan mal ve hizmet alımları hariç olmak üzere tüm mal alımı, hizmet alımı ve yapım işi ile yaklaşık maliyeti ne olursa olsun satım, kiraya verme ile mülkiyet üzerinde sınırlı ayni hak tesisi ve trampa işlerinde açık ihale usulünün uygulanması zorunludur.
+(2) Birlik yukarıda belirtilen parasal limitlerin altındaki mal ve hizmet alımları ile yapım işlerini de açık ihale usulü ile ihale edebilir.

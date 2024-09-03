@@ -1,0 +1,2 @@
+Kesin teminatların geri verilmesi
+MADDE 48 – (1) Taahhüdün, sözleşme ve ihale dokümanı hükümlerine uygun olarak yerine getirildiği ve yüklenicinin bu işten dolayı birliğe herhangi bir borcunun olmadığı tespit edildikten sonra alınmış olan kesin teminat yükleniciye iade edilir. Bu tespit tarihinden itibaren iki yıl içinde birliğin yazılı uyarısına rağmen talep edilmemesi nedeniyle iade edilemeyen kesin teminat mektupları hükümsüz kalır ve bankasına iade edilir. Teminat mektubu dışındaki teminatlar sürenin bitiminde hazineye gelir kaydedilir.

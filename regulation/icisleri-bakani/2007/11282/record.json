@@ -1,0 +1,83 @@
+{
+  "source_id": "7.5.11282",
+  "kind": "regulation",
+  "register_kind": "Kurum ve Kuruluş Yönetmelikleri",
+  "title": "KÖYLERE HİZMET GÖTÜRME BİRLİĞİ İHALE YÖNETMELİĞİ",
+  "number": "11282",
+  "issuer": "İçişleri Bakanı",
+  "issuer_slug": "icisleri-bakani",
+  "path": "regulation/icisleri-bakani/2007/11282",
+  "source": "https://www.mevzuat.gov.tr/anasayfa/MevzuatFihristDetayIframe?MevzuatTur=7&MevzuatNo=11282&MevzuatTertip=5",
+  "source_sha256": "b21ef40131553725546236f20be3e16344166b901b0bf27369d5f3965758fcfe",
+  "source_bytes": 124082,
+  "published": "2007-04-28",
+  "gazette": "26506",
+  "in_force": "2024-09-03",
+  "in_force_basis": "latest Resmî Gazete date printed in the source amendment notes/table (\"RG-3/9/2024\") for the current consolidated text",
+  "date_evidence": [
+    [
+      "2024-09-03",
+      "RG-3/9/2024",
+      "Resmî Gazete date printed in the source amendment note"
+    ],
+    [
+      "2024-09-03",
+      "3/9/2024",
+      "Resmî Gazete date in the source amendment table"
+    ],
+    [
+      "2024-05-14",
+      "RG-14/5/2024",
+      "Resmî Gazete date printed in the source amendment note"
+    ],
+    [
+      "2024-05-14",
+      "14/5/2024",
+      "Resmî Gazete date in the source amendment table"
+    ],
+    [
+      "2022-07-22",
+      "RG-22/7/2022",
+      "Resmî Gazete date printed in the source amendment note"
+    ],
+    [
+      "2022-07-22",
+      "22/7/2022",
+      "Resmî Gazete date in the source amendment table"
+    ],
+    [
+      "2022-06-04",
+      "RG-4/6/2022",
+      "Resmî Gazete date printed in the source amendment note"
+    ],
+    [
+      "2022-06-04",
+      "4/6/2022",
+      "Resmî Gazete date in the source amendment table"
+    ],
+    [
+      "2017-05-28",
+      "RG-28/5/2017",
+      "Resmî Gazete date printed in the source amendment note"
+    ],
+    [
+      "2017-05-28",
+      "28/5/2017",
+      "Resmî Gazete date in the source amendment table"
+    ]
+  ],
+  "commencement_clauses": [
+    "Bu Yönetmelik yayımı tarihinde yürürlüğe girer"
+  ],
+  "history": "current-text",
+  "label": "oldest version available",
+  "checked_on": "2026-11-15",
+  "word_count": 6394,
+  "text_status": "current-consolidated",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  },
+  "completeness": "html-text-complete"
+}

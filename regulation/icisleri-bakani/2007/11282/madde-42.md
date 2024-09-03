@@ -1,0 +1,2 @@
+Sözleşme yapılmasında isteklinin görev ve sorumluluğu
+MADDE 42 – (1) İhale üzerinde kalan istekli, ihale tarihi itibarıyla bu Yönetmeliğin 11 inci maddesinin birinci fıkrasının (a), (b), (c), (ç), (d) ve (f) bentlerinde sayılan durumlarda olmadığına dair belgeleri ve kesin teminatı 40 ıncı maddedeki süresi içinde vererek sözleşmeyi imzalamak zorundadır. Sözleşme imzalandıktan hemen sonra geçici teminat iade edilir. Yüklenicinin bu zorunluluğa uymaması halinde, protesto çekmeye ve hüküm almaya gerek kalmaksızın geçici teminatı birliğe gelir kaydedilerek ihale iptal edilir.
