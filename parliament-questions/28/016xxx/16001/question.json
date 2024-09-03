@@ -1,0 +1,21 @@
+{
+  "record_type": "parliament-written-question",
+  "term": 28,
+  "legislative_year": 2,
+  "esas_no": "7/16001",
+  "submitted": "2024-09-03",
+  "submitted_as": "Başkanlığa geliş tarihi",
+  "mp": "Selçuk ÖZDAĞ",
+  "province": "Muğla",
+  "summary": "2023'te internet özgürlüğü hakkında yayımlanan bir raporda Türkiye'nin sıralamasına ilişkin",
+  "status": "Süresi Geçtikten Sonra Cevaplandı",
+  "status_as_of": "2026-11-16",
+  "official_record": "https://www.tbmm.gov.tr/Denetim/Yazili-Soru-Onergesi-Detay/3aa91b36-c168-4ca4-b609-0191bbdc482b",
+  "source": "https://tbmm.gov.tr/Denetim/YaziliSoruOnergesiTable",
+  "source_form": "https://tbmm.gov.tr/Denetim/Yazili-Soru-Onergeleri",
+  "source_sha256": "17e5cefc80620fc49b39ec8bb1e28d0fe27117eac9a2d07e51db78096e1eb8a5",
+  "in_force": "2024-09-03",
+  "in_force_basis": "Date the question reached the Speaker (Başkanlığa geliş tarihi) in the official TBMM written-question record; parliamentary oversight record, not law",
+  "history_type": "metadata",
+  "text_status": "metadata-only: question text, addressee and answers are in the linked official record (PDFs on cdn.tbmm.gov.tr); not transcribed here"
+}
