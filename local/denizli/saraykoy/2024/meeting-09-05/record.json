@@ -1,0 +1,24 @@
+{
+  "number": "meeting-09-05",
+  "number_as_published": "meeting-09-05",
+  "year": 2024,
+  "title": "05 EYLÜL 2024 MECLİS KARAR ÖZETLERİ (1) (1)",
+  "decision_date": "2024-09-05",
+  "source": "https://www.saraykoy.bel.tr/karar/05-eylul-2024-meclis-karar-ozetleri",
+  "official_document": "https://www.saraykoy.bel.tr/uploads/files/dosya/05%20EYL%C3%9CL%202024%20MECL%C4%B0S%20KARAR%20%C3%96ZETLER%C4%B0%20(1)%20(1).pdf",
+  "source_sha256": "1c970c6cc1b39ada17601a4206fc9dc52915692b5fe932cdf884f7a8a5d2123f",
+  "issuer": "Sarayköy Belediye Meclisi",
+  "history_type": "metadata",
+  "text_status": "metadata-only: listing fields as published; complete decision text is in the linked official document, not transcribed",
+  "in_force": "2024-09-05",
+  "in_force_basis": "Decision date as printed in the official council listing: 05 EYLÜL 2024; adoption date of the council decision; legal commencement not asserted",
+  "missing": [
+    "complete official decision text",
+    "official annexes"
+  ],
+  "law_text_complete": false,
+  "privacy_withheld": false,
+  "listing_label": "05 EYLÜL 2024 MECLİS KARAR ÖZETLERİ",
+  "record_scope": "one official file of council decisions (meeting)",
+  "official_page": "https://www.saraykoy.bel.tr/karar/05-eylul-2024-meclis-karar-ozetleri"
+}
