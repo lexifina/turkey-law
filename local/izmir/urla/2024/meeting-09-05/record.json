@@ -1,0 +1,24 @@
+{
+  "number": "meeting-09-05",
+  "number_as_published": "meeting-09-05",
+  "year": 2024,
+  "title": "05 Eylül Meclis Kararları",
+  "decision_date": "2024-09-05",
+  "source": "https://www.urla.bel.tr/ListeSayfa/4723/eylul-ayi-meclis-kararlari",
+  "official_document": "https://www.urla.bel.tr/Sayfa/4729/05-eylul-meclis-kararlari",
+  "source_sha256": "e25e0dfdfa4d94048c07dcf52575b181d3d0b4f84f7157d69799442552e685cf",
+  "issuer": "Urla Belediye Meclisi",
+  "history_type": "metadata",
+  "text_status": "metadata-only: listing fields as published; complete decision text is in the linked official document, not transcribed",
+  "in_force": "2024-09-05",
+  "in_force_basis": "Decision date as printed in the official council listing: 05 Eylül Meclis Kararları (year 2024 from the official year list '2024 Meclis Kararları'); adoption date of the council decision; legal commencement not asserted",
+  "missing": [
+    "complete official decision text",
+    "official annexes"
+  ],
+  "law_text_complete": false,
+  "privacy_withheld": false,
+  "month_list": "Eylül Ayı Meclis Kararları",
+  "official_page": "https://www.urla.bel.tr/Sayfa/4729/05-eylul-meclis-kararlari",
+  "record_scope": "one council meeting page (its decisions are on the linked official page; not transcribed)"
+}
