@@ -1,0 +1,25 @@
+{
+  "number": "meeting-09-06",
+  "number_as_published": "meeting-09-06",
+  "year": 2024,
+  "title": "EYLÜL MECLİS KARAR ÖZETLERİ (06.09.2024-10.09.2024)",
+  "decision_date": "2024-09-06",
+  "source": "https://www.bozuyuk.bel.tr/meclis-kararlari/4",
+  "official_document": "https://www.bozuyuk.bel.tr/karar/eylul-meclis-karar-ozetleri-06-09-2024-10-09-2024",
+  "source_sha256": "5bae48c2e0d91e0ddc7b073d50d6e14220c0054000571853ebe003043bd40c02",
+  "issuer": "Bozüyük Belediye Meclisi",
+  "history_type": "metadata",
+  "text_status": "metadata-only: listing fields as published; complete decision text is in the linked official document, not transcribed",
+  "in_force": "2024-09-06",
+  "in_force_basis": "Decision date as printed in the official council listing: 06.09.2024; adoption date of the council decision; legal commencement not asserted",
+  "missing": [
+    "complete official decision text",
+    "official annexes"
+  ],
+  "law_text_complete": false,
+  "privacy_withheld": false,
+  "listing_label": "EYLÜL MECLİS KARAR ÖZETLERİ (06.09.2024-10.09.2024)",
+  "record_scope": "one official file of council decisions (meeting)",
+  "list_date": "18-09-2024 13:56",
+  "document_note": "the decisions are published on the linked official page; not transcribed here"
+}
