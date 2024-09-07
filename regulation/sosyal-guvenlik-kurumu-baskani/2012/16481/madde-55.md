@@ -1,0 +1,2 @@
+Kiracının ölümü
+MADDE 55 – (1) Kiracının ölümü halinde, Kuruma borcu varsa kesin teminatından mahsup edildikten sonra kalanı mirasçılara verilir. Ancak Kurum, varislerden istekli olanlara ölüm tarihinden itibaren iki ay içinde başvurulması, rayice göre belirlenecek yeni kira bedelinin kabul edilmesi ve bu bedel üzerinden dört aylık kira bedeli tutarında kesin teminat verilmesi şartıyla sözleşmeyi devredebilir.

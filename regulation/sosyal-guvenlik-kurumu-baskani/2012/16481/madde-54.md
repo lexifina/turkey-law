@@ -1,0 +1,3 @@
+Unvan değişikliği, şirketleşme, iş değişikliği, devir
+MADDE 54 – (1) Kiracı, Kurumun izni olmadan, yeni ortak alma, şirketleşme, unvan ve iş değişikliği yapamaz. Mevcut sözleşmede imzası bulunan kiracı, tadil edilen sözleşmede de taraf olmak zorundadır. Bu ve buna benzer değişiklikler, mevcut kira bedeline % 10 artış uygulanarak Daire Başkanlığının onayına sunulur.
+(2) (Değişik:RG-27/4/2013-28630) Kurum aylık kira bedelinin ödenmemesi halinde genel hükümlere göre hapis hakkını kullanır. Kiracı, kiraladığı yeri alt kiraya veremez, devredemez. Böyle bir durumun tespiti halinde sözleşme feshedilerek firmanın teminatı gelir kaydedilir.

@@ -1,0 +1,2 @@
+Kurum tarafından kullanılan taşınmazların abonelik işlemleri
+MADDE 20 – (1) Kurum hizmetleri için tahsis edilen taşınmazların, elektrik, su, doğalgaz vesaire abonelik işlemlerinin yerine getirilmesinden, sayaçlarda meydana gelecek arızaların giderilmesinden, faturalarının süresi içinde ödenmemesinden doğan cezalar ile faturalardaki hatalar ve buna benzer sorunlardan, taşınmazı kullanan birim amirleri sorumludur.

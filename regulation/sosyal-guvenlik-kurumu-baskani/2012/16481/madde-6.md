@@ -1,0 +1,6 @@
+Taşınmaz edinimi ve kullanım hakları tesisi
+MADDE 6 – (1) Kurum; bağış, kamulaştırma, teferruğ, trampa, arsa payı karşılığı kat yapım sözleşmesi veya kat karşılığı inşaat sözleşmeleri ile bu Yönetmelikte belirtilen usul ve esaslara göre taşınmaz edinebilir.
+(2) Kurumca idari tesisler için satın alınmasında zorunluluk görülen gerçek ve tüzel kişilere ait arsa ve binalar, gerekli inceleme yapılarak, amacına yönelik olarak 4/11/1983 tarihli ve 2942 sayılı Kamulaştırma Kanununun 8 inci maddesi uyarınca kamulaştırılır. Kamu kurum ve kuruluşları ile tüzel kişilere ait taşınmazlar ise; aynı Kanunun 30 uncu maddesinde belirtilen usule göre satın alınır.
+(3) Gerçek veya tüzel kişilerin mülkiyetlerindeki taşınmazlarla ilgili bağış teklifleri Kurumca değerlendirilir. Kurumca uygun görülmesi halinde devir alınır. Vergi ve harçlar Kurumca ödenebilir.
+(4) Kamu kurum ve kuruluşları tarafından veya icra dairelerince açık artırma yolu ile satışa çıkarılan taşınmazlar, Kurumca ihtiyaç duyulması halinde ihaleye iştirak yolu ile satın alınır.
+(5) Kurum, alacaklarına karşılık, kıymet takdirine ilişkin Sermaye Piyasası Kurulu lisanslı firmalara Kurumca yaptırılacak ekspertiz raporunda belirtilen fiyat veya bedel üzerinden taşınmaz satın alabilir.

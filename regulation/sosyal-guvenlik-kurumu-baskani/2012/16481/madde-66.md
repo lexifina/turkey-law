@@ -1,0 +1,2 @@
+Kiralanan binaların tahliyesi
+MADDE 66 – (1) Kiralanan binalar tahliye edilirken, sözleşme hükümlerine göre işlem yapılır. Ancak Kurumun kullanımından dolayı binada hasar meydana gelmiş ise, teknik personel marifetiyle hasar tespiti yapılır. Mal sahibine, hasar bedelinin Kurumca nakit ödeneceği bildirilir, mal sahibince bedelin kabul edilmemesi halinde ise tahliye edilen yer ilk teslim alındığı şekle dönüştürülerek teslim edilir.

@@ -1,0 +1,8 @@
+Kira ödemeleri ile kira artışını kabul etmeyen mal sahibine yapılacak ödemeler
+MADDE 65 – (1) Sözleşmesi devam eden taşınmazların kira ödemeleri sözleşmede belirtilen şartlara göre yapılır. Dönem başında kira artışları yine sözleşmedeki şartlar ve oranlara göre artırılır.
+(2) Kira artışının mal sahibince kabul edilmemesi halinde;
+a) Kira bedeli Posta Telgraf Teşkilatı İşletmesi Genel Müdürlüğü veya banka havalesiyle mal sahibinin oturduğu yere ödemeli olarak, yine alınmaması halinde kira bedelini zamanında ödememekten dolayı temerrüt duruma düşülmemesi için ilgili mahkemeye süresinde müracaatla, kira ödeme yeri belirlenerek, kira bedeli kira ödeme yerine yatırılır.
+b) Kurumun her ne şekilde olursa olsun fuzuli şagil durumuna düşmesi halinde, mal sahibi tarafından istenilen fuzuli işgal veya ecrimisil bedeli, tebliğ tarihinden itibaren ödeme için bir süre tayin edilmiş ise, kira tespit komisyonu marifetiyle tespit ettirilir. Fazlaya ilişkin kısım için süresi içinde, Kurumun her türlü yasal hakları saklı kalmak şartı ile ödeme yapılır. Ödeme yapılmasını takiben yedi gün içinde, kira tespit komisyonu marifetiyle, ödenen kira bedelinin emsal ve rayice uygun olup olmadığı tespit edilir. Kurumca tespit olunan bedelin altında olması halinde, herhangi bir işlem yapılmaz, fazla olması halinde, fazla olan kısmı geri istenir.
+c) Bu konuda, açılacak davaların sonucuna göre ödeme ve işlem yapılır.
+ç) Kurum aleyhine kira tespit davası açıldığında mahkeme tarafından verilen kararın Yargıtayca onanması halinde bu döneme ait kira farkı ödenir.
+(3) Kira, irtifak hakkı, fuzuli işgal, ecrimisil bedelleri ile bunlara ilişkin faiz ve gecikme cezaları taşınmazı fiilen kullanan birim tarafından ödenir.

@@ -1,0 +1,2 @@
+Kira sözleşmesinin saklanması
+MADDE 48 – (1) Kira kontratı, protokolü ya da sözleşmesi; merkezde bir asıl iki suret, taşrada bir asıl üç suret olarak düzenlenir ve aslı merkezde Daire Başkanlığında, taşrada ise ilgili birimde saklanır, birer sureti imza karşılığı kiracıya verilir. Taşrada düzenlenen kira kontratı, protokolü ya da sözleşme ile taşınmazlara ait demirbaş listesi ve teslim tutanağının birer sureti Daire Başkanlığına gönderilir.

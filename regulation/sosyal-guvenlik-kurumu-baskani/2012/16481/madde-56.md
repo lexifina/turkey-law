@@ -1,0 +1,6 @@
+DOKUZUNCU BÖLÜM
+Taşınmazın Teslim Alınması ile Hasar Tespit İşlemleri
+Kiraya verilen taşınmazların teslim alınması
+MADDE 56 – (1) (Değişik:RG-27/4/2013-28630) Sözleşmenin sona ermesi durumunda tahliye edilecek taşınmaz, tespit tutanağına göre kiracıdan kiralık yerin elektrik, su, doğalgaz, çevre temizlik vergisi ve benzeri borcu olmadığına dair belgeler istenerek teslim alınır.
+(2) Kiracı sözleşme sona ermeden kiralanan yeri tahliye etmek isterse, Kurumun yasal hakları saklı kalmak kaydıyla, taşınmaz yeniden kiraya verilinceye kadar geçecek zamana ait kira bedeli ile daha düşük bedelle kiraya verilmesi halinde sözleşme süresi ile sınırlı olarak kira farkı tahsil edileceği belirtilerek, taşınmazın kiraya veriliş sırasındaki durumu ve niteliği göz önüne alınarak ikisi teknik en az üç personel tarafından bir tutanakla mevcut durumu tespit edilir. Tespit edilen noksanlıklar kiracı tarafından tamamlanıp tamiri gerekenler yapıldıktan sonra veya yapılmaması halinde ise bedeli ayrıca kiracıdan tahsil edilerek mevcut haliyle kiracıdan bir tutanakla teslim alınır.
+(3) İcra yoluyla tahliyelerde, tahliye tutanağında kiralık yerin hali hazır durumu belirtilmemiş ise, bu durum Kurum teknik personeline tespit ettirilir.
