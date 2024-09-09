@@ -1,0 +1,31 @@
+{
+  "act_path": "regulation/university/antalya-bilim-universitesi/2024/40960",
+  "availability": "text",
+  "checked_on": "2026-11-14",
+  "commencement_clauses": [
+    "MADDE 16- (1) Bu Yönetmelik yayımı tarihinde yürürlüğe girer."
+  ],
+  "date_quote": "MADDE 16- (1) Bu Yönetmelik yayımı tarihinde yürürlüğe girer.",
+  "first_law": null,
+  "gazette": "32657",
+  "history": "as-enacted",
+  "images": {
+    "deferred": 0,
+    "omitted": 0,
+    "referenced": 0,
+    "source": 0
+  },
+  "in_force": "2024-09-09",
+  "in_force_basis": "source commencement clause: effective on Gazette publication",
+  "issuer": "Antalya Bilim Üniversitesi",
+  "issuer_slug": "antalya-bilim-universitesi",
+  "kind": "regulation",
+  "published": "2024-09-09",
+  "source": "https://www.mevzuat.gov.tr/anasayfa/MevzuatFihristDetayIframe?MevzuatTur=8&MevzuatNo=40960&MevzuatTertip=5",
+  "source_id": "8.5.40960",
+  "source_sha256": "dded606646e972f6a8b4ffecb683fb66d90bde11922ea966c04eabcf79d809a5",
+  "title": "ANTALYA BİLİM ÜNİVERSİTESİ TÜRKÇE VE YABANCI DİLLER ÖĞRETİMİ\r\nUYGULAMA VE ARAŞTIRMA MERKEZİ YÖNETMELİĞİ",
+  "university_id": 418,
+  "version_label": "oldest version available",
+  "word_count": 906
+}
