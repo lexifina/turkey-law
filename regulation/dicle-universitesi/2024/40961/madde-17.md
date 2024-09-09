@@ -1,0 +1,3 @@
+Anabilim dalı başkanı
+MADDE 17- (1) Anabilim dalı başkanları; aynı zamanda ilgili anabilim dalı kliniğinin sorumlusu olup; ilgili klinikte sunulan tıbbi uygulamalar ile ilgili olarak Dekana ve Müdür (Başhekim)’e karşı sorumludur.
+(2) Klinik sorumlusu; ilgili kliniğin bu Yönetmelik ve ilgili diğer mevzuat hükümleri çerçevesinde çalıştırılmasından, ilgili kayıtların tutulmasından ve korunmasından ayrıca alt yapı ile ilgili donanımın usulüne uygun kullandırılmasından sorumludur. Klinikte hizmet sunan ve/veya eğitim alan stajyer öğrenciler ile uzmanlık ve doktora öğrencilerinin çalışmalarından klinik sorumlusu sorumludur. Bunların dışındaki tüm klinik personelinin hizmet ilkelerine uygun çalışmalarının denetim sorumluluğu da klinik sorumlusuna aittir.

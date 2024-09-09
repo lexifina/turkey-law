@@ -1,0 +1,5 @@
+Danışma Kurulu ve görevleri
+MADDE 13- (1) Danışma Kurulu; Müdür (Başhekim)’ün başkanlığında, Dekan, dekan yardımcıları, müdür yardımcıları (başhekim yardımcıları), anabilim dalı başkanları, fakülte sekreteri, Hastane Müdürü, başhemşire ile Müdür (Başhekim)’ün belirleyeceği bir asistan temsilcisi ve öğrenci temsilcisinden olmak üzere Rektör tarafından görevlendirilen en fazla on dokuz üyeden oluşur.
+(2) Danışma Kurulu yılda en az bir defa salt çoğunlukla toplanır. Müdür (Başhekim), ihtiyaç halinde Danışma Kurulunu olağanüstü toplantıya çağırabilir. Üyeler oyunu kabul veya ret yönünde kullanır. Çekimser oy kullanılamaz. Ret oyu kullanan üyeler gerekçeli açıklama yazarlar. Tüm kararlar toplantıya katılanların salt çoğunluğu ile alınır. Oyların eşitliği halinde başkanın oyu yönünde karar verilmiş sayılır.
+(3) Danışma Kurulunun raportörlüğünü Hastane Müdürü, olmadığında fakülte sekreteri yürütür.
+(4) Danışma Kurulu; Fakültenin öğretim üyelerinden gelen görüş, öneri ve eleştirileri değerlendirir, Merkezin amaçlarına uygun, hastane hizmetleri açısından yararlı bulunan tavsiye niteliğindeki görüşleri Yönetim Kuruluna öneri olarak iletir.

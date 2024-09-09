@@ -1,0 +1,3 @@
+Başhemşire ve Başhemşire yardımcısı
+MADDE 16- (1) Başhemşire ilgili mevzuat hükümlerine uygun olarak hemşirelik bölümü mezunu adaylar arasından Müdür (Başhekim)’ün önerisi üzerine Rektör tarafından görevlendirilir. Merkezde görevli hemşireler ve sağlık hizmetlerinde çalışan yardımcı personel, Başhemşirenin sorumluluğunda olup; hemşirelik hizmetlerinin yönetim ve organizasyonu konusunda Merkezin yönetim organlarının belirlediği usul ve esaslara göre çalışmak ve verilen benzer görevleri yapmakla yükümlüdür.
+(2) Hizmet gereksinimleri doğrultusunda Müdür (Başhekim)’ün önerisi üzerine Rektör tarafından bir kişi başhemşire yardımcısı olarak görevlendirilir. Başhemşire yardımcısı, Başhemşireye karşı sorumludur.
