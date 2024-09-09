@@ -1,0 +1,9 @@
+Diplomalar
+MADDE 34 – (1) (Değişik:RG-9/9/2024-32657) Öğrenim programlarını başarı ile tamamlayan öğrencilere, programın tamamlanmasını müteakiben diplomaları verilir. Öğrencinin mezuniyetine, ilgili birimin yönetim kurulu karar verir.
+(2) Ayrıca mezun olan öğrencilere, eğitim-öğretim programlarında almış oldukları bütün dersleri, uygulamaları ve bunların ders saatlerini; aldıkları proje, laboratuvar, bitirme ödevi, seminer, bitirme tezi ve zorunlu staj gibi çalışmaları, başarı notlarını belirten bir not dökümü ile birlikte diploma ve diploma eki verilir.
+(3) Öğrenci İşleri Dairesi Başkanlığı tarafından verilecek diplomalar Senato tarafından kabul edilen bir örneğe göre bastırılır. Diplomalar hem Türkçe hem de ilgili yabancı dilde hazırlanır.
+(4) Diplomalar hazırlanıncaya kadar gerektiğinde öğrencilere geçici bir mezuniyet belgesi verilebilir. Bu belge verilirken iade edilmek zorundadır. Mezuniyet tarihi, sınavların bitiş tarihinin ertesi iş günüdür.
+(5) (Değişik:RG-5/1/2016-29584) Diplomaların ön yüzünde: Öğrencinin T.C. kimlik numarası, adı ve soyadı, diploma numarası, lisans ve ön lisans düzeyinde başardığı programın/bölümün adı, mezuniyet tarihi, mühendislik ve mimarlık fakültesi öğrencileri için alınan unvan, sıcak baskılı hologram, fakültelerde Rektörün ve dekanın; yüksekokullarda Rektör ve yüksekokul müdürünün, devlet konservatuvarında Rektör ve devlet konservatuvarı müdürünün, meslek yüksekokullarında Rektör ve meslek yüksekokulu müdürünün elektronik imzaları bulunur.
+(6) (Mülga:RG-5/1/2016-29584)
+(7) Diplomalar Rektörlükçe soğuk damga ile mühürlenir.
+(8) (Değişik:RG-9/9/2024-32657) Programın normal süresi sonunda, disiplin cezası almamış, mezuniyet genel not ortalaması 3,00 ile 3,49 arasında olan mezunlar onur öğrencisi, 3,50-4,00 arasında olan mezunlar ise yüksek onur öğrencisi olarak mezun olurlar. Bu bilgi, öğrencinin not döküm belgesi ve diploma ekinde belirtilir.

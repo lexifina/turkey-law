@@ -1,0 +1,4 @@
+Genel not ortalamasının yükseltilmesi
+MADDE 28 – (1) GNO’sını yükseltmek isteyen öğrenciler daha önce aldıkları ve başarılı oldukları dersleri o derslerin verildiği yarıyılda tekrarlayabilirler. Ancak bu durumda öğrencilerin derse kayıt yaptırmaları şart olup; kayıt oldukları derslerin AKTS kredilerinin toplamı, toplam 40 AKTS miktarını geçmemelidir. Başarılı dersin tekrarında devam şartı aranmaz. GNO hesabında, tekrarlanan derste alınan en son başarı notu geçerlidir. Not yükseltmek için yeniden alınan bu derslerde öğrenciler dersi ikinci kez alıyormuş gibi işlem görür.
+(2) Değişim programlarında alınıp başarısız olunan dersler ders tekrarından sayılır. Öğrencinin gittiği değişim programında alıp başarısız olduğu dersler için AKTS kredileri dikkate alınarak bölüm kurulunun önerisi ve birim kurulunun kararı ile eşdeğer dersler belirlenir.
+(3) (Mülga:RG-14/1/2017-29948)

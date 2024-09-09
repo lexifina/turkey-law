@@ -1,0 +1,6 @@
+SEKİZİNCİ BÖLÜM
+Öğrenimi Bitirme ve Diplomalar
+Mezuniyet
+MADDE 33 – (1) (Değişik:RG-9/9/2024-32657) Öğrenciler, bu Yönetmelikte belirtilen koşulları ve kayıtlı bulundukları eğitim öğretim programları için ilgili kurullarca belirlenen yükümlülükleri yerine getirerek mezuniyete hak kazanırlar. Bir öğrencinin kayıtlı olduğu diploma programından mezun olabilmesi için Senato tarafından onaylanan toplam AKTS kredisini alması, varsa stajlarını başarmış olması ve o programı en az 2,00 GNO ile tamamlaması zorunludur. GNO aynı zamanda öğrencinin mezuniyet not ortalamasıdır.
+(2) (Değişik:RG-14/1/2017-29948) Öğrencinin mezun olabilmesi için almış olduğu bütün kredili dersleri en az DD notu ile başarmış olması gerekir. Öğrenci daha önce aldığı ve başarısız olduğu (FF, FD, DS) dersleri tekrar alarak en az DD ile başarmak zorundadır.
+(3) Öğrenciler alamadıkları veya başarısız oldukları, ancak sonradan programdan çıkarılan dersler yerine ilgili birim kurulunun onayı ile uygun görülen aynı AKTS kredisini sağlayacak şekilde eşdeğer dersleri alabilir veya bu dersten başarılı sayılabilirler. Öğrencilerin dersten başarılı sayılması durumunda öğrenci başarılı sayıldığı dersin AKTS kredisine en az eşdeğer başka bir dersi, tek bir dersin gerekli AKTS kredisini sağlayamaması durumunda ise birden fazla dersi almak zorundadır.

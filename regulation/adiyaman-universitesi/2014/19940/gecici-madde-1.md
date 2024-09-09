@@ -1,0 +1,2 @@
+Diplomaların düzenlenmesi
+GEÇİCİ MADDE 1 – (1) Gaziantep Üniversitesi, İnönü Üniversitesi ve Harran Üniversitesine bağlı iken Adıyaman Üniversitesine bağlanan birimlerde öğrenim gören öğrenciler de bu Yönetmeliğe tabidir. 28/3/1983 tarihli ve 2809 sayılı Yükseköğretim Kurumları Teşkilatı Kanununun Geçici 35 inci maddesi hükmünce bu öğrencilerin diplomaları, taleplerine dayanarak, Adıyaman Üniversitesi veya daha önceden bağlı oldukları üniversite tarafından düzenlenir.

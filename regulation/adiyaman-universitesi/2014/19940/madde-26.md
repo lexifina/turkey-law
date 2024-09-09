@@ -1,0 +1,3 @@
+Not ortalamaları
+MADDE 26 – (1) Öğrencilerin başarı durumları, bitirdikleri yarıyılda almış oldukları derslere ait DNO ve almış oldukları tüm dersler için GNO ile izlenir.
+(2) Bu ortalamalar, ilgili derslerden 25 inci maddeye göre alınan notlardan her birinin katsayısı ile o dersin AKTS kredisiyle çarpılarak bulunan sayıların toplamının, aynı derslerin AKTS kredi toplamına bölünmesiyle elde edilir. Ortalamaların kayda geçmesinde virgülden sonraki üçüncü hane beşten küçükse sıfıra; beş veya beşten büyükse ikinci haneyi bir arttıracak şekilde yuvarlanarak virgülden sonraki ilk iki hane esas alınır.

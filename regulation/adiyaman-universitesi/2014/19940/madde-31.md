@@ -1,0 +1,4 @@
+Kayıt dondurma
+MADDE 31 – (1) 30 uncu maddede belirtilen haklı ve geçerli nedenlerle öğrenimine ara vermek durumunda olan öğrenci, mazereti sebebiyle kullanamadığı süre için 19 uncu maddedeki devam şartlarını sağlayamaması hâlinde, o yarıyıl veya yıl için kaydı dondurulur. (Ek cümle:RG-19/12/2022-32048) Kayıt dondurmak isteyen öğrencilerin, eğitim-öğretim yılının başlamasından itibaren en geç 4 hafta içerisinde ilgili bölüm başkanlığına başvuru yapması gerekir.
+(2) Kayıt dondurma, yarıyıl/yıl başlangıcından o yarıyıla/yıla ait sınavların sona erdiği tarihe kadar olan süreyi kapsar. Kayıt dondurma başvurusu kayıt yenileme döneminden önce ise katkı payı/öğrenim ücreti alınmaz; dönem içerisinde ise ödenmiş olan katkı payı/öğrenim ücreti iade edilmez.
+(3) Sağlık sebepleri, tutukluluk hâli, askerlik gibi sebepler hariç ilgili yönetim kurulunun uygun göreceği haklı ve geçerli nedenlerle kayıt dondurma süresi en çok bir yıldır.
