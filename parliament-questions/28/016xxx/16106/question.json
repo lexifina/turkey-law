@@ -1,0 +1,21 @@
+{
+  "record_type": "parliament-written-question",
+  "term": 28,
+  "legislative_year": 2,
+  "esas_no": "7/16106",
+  "submitted": "2024-09-10",
+  "submitted_as": "Başkanlığa geliş tarihi",
+  "mp": "Aliye TİMİSİ ERSEVER",
+  "province": "Ankara",
+  "summary": "Ankara'nın Bala ilçesine bağlı Avşar Mahallesi'nde tarımsal üretimin artırılmasına ilişkin",
+  "status": "Süresi Geçtikten Sonra Cevaplandı",
+  "status_as_of": "2026-11-16",
+  "official_record": "https://www.tbmm.gov.tr/Denetim/Yazili-Soru-Onergesi-Detay/158f6ee2-2060-40f1-b674-0191dffd2252",
+  "source": "https://tbmm.gov.tr/Denetim/YaziliSoruOnergesiTable",
+  "source_form": "https://tbmm.gov.tr/Denetim/Yazili-Soru-Onergeleri",
+  "source_sha256": "0bf25325516e1911620bbebd82450c62f82b8f585a7eb57f021667445cbb9d48",
+  "in_force": "2024-09-10",
+  "in_force_basis": "Date the question reached the Speaker (Başkanlığa geliş tarihi) in the official TBMM written-question record; parliamentary oversight record, not law",
+  "history_type": "metadata",
+  "text_status": "metadata-only: question text, addressee and answers are in the linked official record (PDFs on cdn.tbmm.gov.tr); not transcribed here"
+}
