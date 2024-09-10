@@ -1,0 +1,7 @@
+Diğer Konular
+Madde 10- a) Uzman mühendis belgesi almak üzere başvuranların deneyim kazanmak üzere çalışma yaptıkları iş yerlerinde uzman mühendis belgesine sahip en az bir makina mühendisi çalışması zorunludur.
+b) Uzman mühendis adayları deneyim çalışmasına başlamadan önce çalışacakları işyerlerini ve o kuruluştaki uzman mühendis isimlerini ODA‘ya bildirir.
+c) Uzman mühendis belgesine sahip olmayan makina mühendisleri mekanik tesisat konusunda SMM belgesine sahip olamaz. Uzman mühendisin uzman olduğu konular SMM belgesinde de tanımlanır.
+d) Mekanik tesisat uzman mühendis belgesine sahip ODA üyeleri sadece uzman olduğu tesisat konularındaki mekanik tesisat hizmetlerini yerine getirmeye yetkilidir. Uzman olmadıkları konularda çalışamazlar.
+e) (Değişik:RG-3/9/2004-25572) Bu Yönetmelikte yer almayan hususlarda, TMMOB Makina Mühendisleri Odası Ana Yönetmeliği ve TMMOB Makina Mühendisleri Odası Uzmanlık ve Belgelendirme Yönetmeliği hükümleri geçerlidir.
+f) (Ek:RG-19/7/2003-25173) Yönetmeliğin 5 inci maddesinin birinci fıkrasının (b) bendinde belirtilen Dar Kapsamlı Mekanik Tesisat Uzman Mühendis Yetki Belgesi almış olan üyelerden Uzman Mühendis Belgesi almak için başvuruda bulunan ve belge aldığı konuda en az 1 yıl çalışma yapmış olanlar hakkında yönetmeliğin 10 uncu maddesinin (a) bendindeki koşul aranmaz. Bu üyeler Meslek İçi Eğitim Merkezi tarafından düzenlenmekte olan Sıhhi Tesisat (3 gün), Isıtma Tesisatı (3 gün), Isı Yalıtımı (1 gün) kurslarına katılmak ve sınavda başarılı olmak zorundadır.

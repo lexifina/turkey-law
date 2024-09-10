@@ -1,0 +1,1 @@
+Geçici Madde 1- Bu Yönetmeliğin yürürlüğe girdiği tarihten önce dar kapsamlı mekanik tesisat konularında ODA tarafından düzenlenen kurslar ve yapılan sınavlar sonucu mühendis yetki belgesi almış olanlar ile adı geçen hizmetleri yürüttükleri için kazanılmış hak olarak kurslara katılmadan bu belgeleri almış olanların belgeleri bu yönetmelik kapsamında geçerlidir.

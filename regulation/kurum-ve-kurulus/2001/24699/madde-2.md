@@ -1,0 +1,2 @@
+Kapsam Ve Dayanak
+Madde 2- Bu Yönetmelik mekanik tesisat hizmetlerini gerçekleştirecek makina mühendislerinin uzmanlıklarının Türk Mühendis ve Mimar Odaları Birliği (TMMOB) Makina Mühendisleri Odası tarafından belgelendirilmesi koşullarını ve esaslarını kapsar. Bu Yönetmelik, 3458 sayılı Mühendislik ve Mimarlık Hakkında Kanun ile 6235 sayılı Türk Mühendis ve Mimar Odaları Birliği Kanununa dayanılarak hazırlanmıştır.

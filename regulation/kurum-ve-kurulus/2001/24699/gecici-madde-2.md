@@ -1,0 +1,1 @@
+Geçici Madde 2- Yönetmeliğin yürürlüğe girdiği tarih itibariyle ODA üyesi Makina Mühendisleri deneyim şartı aranmaksızın bu Yönetmeliğin 5 inci maddesinin (a) bendinde belirtilen uzman mühendis belgelerini almak üzere 3 yıl süreyle sınavlara girme hakkına sahiptir. (Mülga cümle:RG-19/7/2003-25173) (...)
