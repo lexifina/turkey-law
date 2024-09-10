@@ -1,0 +1,64 @@
+{
+  "checked_on": "2026-11-14",
+  "commencement_clauses": [
+    "MADDE 61- (1) Bu Yönetmelik yayımı tarihinde yürürlüğe girer."
+  ],
+  "date_evidence": [
+    [
+      "2023-08-06",
+      "06.08.2023",
+      "original gazette publication date in official listing"
+    ],
+    [
+      "2024-09-10",
+      "RG-10/9/2024-32658",
+      "latest source-printed gazette amendment date for current consolidated text"
+    ],
+    [
+      "2024-09-10",
+      "RG-10/9/2024-32658",
+      "latest source-printed gazette amendment date for current consolidated text"
+    ],
+    [
+      "2024-09-10",
+      "RG-10/9/2024-32658",
+      "latest source-printed gazette amendment date for current consolidated text"
+    ],
+    [
+      "2024-09-10",
+      "RG-10/9/2024-32658",
+      "latest source-printed gazette amendment date for current consolidated text"
+    ],
+    [
+      "2024-09-10",
+      "10/9/2024",
+      "latest gazette date in source amendment table"
+    ]
+  ],
+  "date_quote": "RG-10/9/2024-32658",
+  "first_law": null,
+  "gazette": "32271",
+  "history": "current-text",
+  "images": {
+    "deferred": 0,
+    "omitted": 0,
+    "referenced": 0,
+    "source": 0
+  },
+  "in_force": "2024-09-10",
+  "in_force_basis": "latest source-printed gazette amendment date for current consolidated text",
+  "issuer": "Gaziantep Üniversitesi",
+  "issuer_slug": "gaziantep-universitesi",
+  "kind": "regulation",
+  "label": "oldest version available",
+  "path": "regulation/gaziantep-universitesi/2023/40268",
+  "published": "2023-08-06",
+  "source": "https://www.mevzuat.gov.tr/anasayfa/MevzuatFihristDetayIframe?MevzuatTur=8&MevzuatNo=40268&MevzuatTertip=5",
+  "source_bytes": 190654,
+  "source_id": "8.5.40268",
+  "source_sha256": "9c3b96347ff90512ef1f429af0deba3f5cda9e2f6a821acab2305696246a42fb",
+  "text_status": "current-consolidated",
+  "title": "GAZİANTEP ÜNİVERSİTESİ LİSANSÜSTÜ EĞİTİM-ÖĞRETİM\r\nVE SINAV YÖNETMELİĞİ",
+  "university_id": 196,
+  "word_count": 12315
+}
