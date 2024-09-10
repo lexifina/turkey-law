@@ -1,0 +1,5 @@
+Sınav kurulu
+Madde 18 — (Değişik:RG-10/12/2014-29201)
+Başkanlıkça yapılacak veya yaptırılacak sınavlara ilişkin görevde yükselme veya unvan değişikliği işlemlerini yürütmek üzere beş kişiden oluşan sınav kurulu veya kurulları teşkil edilir. Sınav kurulu veya kurulları; Genel Sekreter Başkanlığında, Yargıtay Yönetim Kurulunun görevlendireceği bir Yönetim Kurulu Üyesi, iki Genel Sekreter Yardımcısı ile Personel Müdürü olmak üzere toplam beş kişiden oluşur. Ayrıca her üyenin yedeği de tespit edilir. Kurul, Başkan ve üyelerin tamamının katılımı ile toplanır. Asil üyenin bulunmadığı toplantıya yedek üye katılır. Kararlar oyçokluğu ile alınır.
+Sınav kurulunun başkan ve üyeleri; eşlerinin, ikinci dereceye kadar (bu derece dahil) kan ve kayın hısımlarının görevde yükselme sınavı ve unvan değişikliği sınavında görev alamazlar.
+Sınav kurulunu teşkil eden üyeler görevde yükselme sınavına alınacak personelden, lisansüstü öğrenim hariç öğrenim ve ihraz ettikleri unvanlar itibarıyla daha düşük seviyede olamazlar.

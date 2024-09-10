@@ -1,0 +1,1 @@
+Madde 28 — Başkanlık, gerekli koşulları taşıyan ve atanılacak görevi yapabilecek durumda bulunan (Değişik ibare:RG-10/12/2014-29201) engellilerin sınavlarının yapılabilmesi için gerekli önlemleri alır.

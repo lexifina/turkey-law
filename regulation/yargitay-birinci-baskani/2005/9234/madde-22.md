@@ -1,0 +1,4 @@
+İtiraz
+Madde 22 — Sınav kurulunun her türlü kararına karşı itiraz mercii Yargıtay Yönetim Kuruludur.
+(Ek fıkra:RG-5/2/2011-27837) (Değişik fıkra:RG-10/12/2014-29201) İlgililer, sınav sonucunun Başkanlığın resmi intranet sitesinde ilan edilmesinden itibaren beş iş günü içerisinde sınav sonuçlarına itiraz edebilir. Sınav Kurulu, itirazın intikalinden itibaren en geç onbeş iş günü içerisinde itirazla ilgili işlemleri sonuçlandırarak, sonucunu ilgiliye yazılı olarak ya da Başkanlık intranet sitesi vasıtasıyla bildirir.
+(Ek fıkra:RG-5/2/2011-27837) Yapılan sınavlarda hatalı sorulara tekabül eden puanlar eşit şekilde diğer sorulara dağıtılır. Ancak, soruların yüzde beşinden fazlasının hatalı olduğunun ikinci fıkrada belirtilen süre içinde yapılan itirazlar üzerine veya herhangi bir şekilde tespit edilmesi halinde, sınav iptal edilir ve en kısa sürede yeni sınav yapılır.
