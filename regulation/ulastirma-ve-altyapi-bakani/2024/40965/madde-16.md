@@ -1,0 +1,2 @@
+Sağlık yoklaması
+MADDE 16- (1) Gemi/makine sevk ve idare belgeleri ile kıdemli gemi/makine sevk ve idare belgelerini alabilmek için sunulması gereken sağlık raporunda, ilgili mevzuata göre B sınıfı sürücü belgesinin düzenlenmesinde esas alınan sağlık şartları aranır. Sürücü olabileceğine dair sağlık raporu vermeye yetkili sağlık kuruluşlarından alınacak olan sağlık raporları beş yıl süre ile geçerli kabul edilir. Gemi/makine sevk ve idarecileri ilk belge alırken Sağlık Bakanlığının ilgili mevzuat hükümlerine göre sağlık yoklaması yaptırır.

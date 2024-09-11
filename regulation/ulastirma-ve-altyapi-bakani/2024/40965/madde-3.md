@@ -1,0 +1,2 @@
+Dayanak
+MADDE 3- (1) Bu Yönetmelik, 10/7/2004 tarihli ve 5216 sayılı Büyükşehir Belediyesi Kanununun 7 nci maddesi, 3/7/2005 tarihli ve 5393 sayılı Belediye Kanununun 15 inci maddesi, 26/9/2011 tarihli ve 655 sayılı Ulaştırma ve Altyapı Alanına İlişkin Bazı Düzenlemeler Hakkında Kanun Hükmünde Kararnamenin 28 inci maddesi ile 1 sayılı Cumhurbaşkanlığı Teşkilatı Hakkında Cumhurbaşkanlığı Kararnamesinin 478 inci ve 490 ıncı maddesi hükümlerine dayanılarak hazırlanmıştır.

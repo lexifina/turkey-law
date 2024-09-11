@@ -1,0 +1,4 @@
+Çevre denetimi
+MADDE 10- (1) İç sularda kullanılacak gemi ve su araçlarında oluşabilecek her türlü atık su ve sintine suyunun arıtıldıktan sonra bile içme ve kullanma suyu rezervuarına boşaltılması yasaktır.
+(2) Gemi ve su araçlarında oluşan çöp, pis su ve sintine suyu gibi yağlı atıkların iç sulara boşaltımı veya deşarjı yasaktır. Bu atıkların su çevresini kirletmeyecek şekilde depolanmasının sağlanması ve bertarafı ile ilgili 9/8/1983 tarihli ve 2872 sayılı Çevre Kanunu ile ilgili mevzuatta tanımlanan usul ve esaslara uyulması zorunludur.
+(3) Gemi ve su araçlarında tehlikeli yüklerin taşınmasına ilişkin hususların denetimi liman başkanlıklarının idari sahasında liman başkanlığınca diğer iç su alanlarında ise liman başkanlığı, ilgili belediye başkanlığı ve/veya kolluk kuvvetlerince yapılır.

@@ -1,0 +1,20 @@
+Tanımlar
+MADDE 4- (1) Bu Yönetmelikte geçen;
+a) Bağlama kütüğü: Gemi, deniz ve su aracının kaydedildiği, ana ve yardımcı kütüklerden oluşan elektronik kayıt sistemini ve bağlama kütüğü dosyasını,
+b) Bakanlık: Ulaştırma ve Altyapı Bakanlığını,
+c) Başlangıç sörveyi: İç suya elverişlilik belgesi/su aracı uygunluk belgesi düzenlenmesine yönelik olarak, kara ve su üstü sörveyi yapılarak gemi veya su aracının tahsis edildiği hizmete uygun olup olmadığının sörveyini,
+ç) Belediye başkanlığı: Gemi ve su aracının denetim ve belgelendirme işlemlerini yapmak üzere İdarece yetkilendirilmiş belediye başkanlığını,
+d) COLREG: 11/3/2024 tarihli ve 8258 sayılı Cumhurbaşkanı Kararı ile yürürlüğe konulan Denizde Çatışmayı Önleme Yönetmeliğini,
+e) Fribord boyu: Omurganın üstünden ölçülen en küçük kalıp derinliğinin %85’indeki su hattı üzerindeki toplam boyun %96’sı veya daha büyük ise, aynı su hattı üzerinde baş bodoslamanın ön yüzünden dümen rodu eksenine kadar olan uzunluğu,
+f) Gemi: Adı, tonilatosu ve kullanma amacı ne olursa olsun iç suda kürekten başka aletle yola çıkabilen ve ticari amaçla kullanılan her tekneyi,
+g) Gemi sevk ve idarecisi: İç sularda çalışan gemiyi sevk ve idare eden kişiyi,
+ğ) Gemi yaşı: Omurganın konulma veya blok inşaatının başlangıç tarihinden itibaren hesaplanan zamanı,
+h) İç su: Tabii ve suni göller, baraj gölleri, dalyan ve nehirleri,
+ı) İç suya elverişlilik belgesi: İç sularda çalışan gemilerden bu Yönetmelik gereklerini sağlayanlara düzenlenen ve şekli İdarece belirlenen belgeyi,
+i) İdare: Ulaştırma ve Altyapı Bakanlığı Denizcilik Genel Müdürlüğünü,
+j) Liman başkanlığı: Ulaştırma ve Altyapı Bakanlığı Bölge Liman başkanlıkları ile Liman başkanlıklarını,
+k) Su aracı: İç sularda tahsis edildiği gayeye uygun olarak kullanılan, suda yüzebilen, gemi dışındaki ticari amaçla kullanılan her türlü vasıtayı,
+l) Su aracı uygunluk belgesi: İç sularda çalışan su araçlarından bu Yönetmelik gereklerini sağlayanlara düzenlenen ve şekli İdarece belirlenen belgeyi,
+m) Tam boy: 12/3/2009 tarihli ve 27167 sayılı Resmî Gazete’de yayımlanan Gemilerin Tonilatolarını Ölçme Yönetmeliğinde tanımlanan tam boyu,
+n) Yolcu gemisi: On ikiden fazla yolcu taşıyan ticaret gemisini,
+ifade eder.
