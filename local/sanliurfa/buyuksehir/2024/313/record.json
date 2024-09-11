@@ -1,0 +1,24 @@
+{
+  "number": "313",
+  "number_as_published": "313",
+  "year": 2024,
+  "title": "Nazım İmar Planı (Siverek-Soydan)",
+  "decision_date": "2024-09-11",
+  "source": "https://www.sanliurfa.bel.tr/icerik/18441/106/nazim-imar-plani-siverek-soydan",
+  "official_document": null,
+  "source_sha256": "9ed27482dbf988c86395ff23df65831d00c504c6481d2db0d5d97b107e12533a",
+  "issuer": "Şanlıurfa Büyükşehir Belediye Meclisi",
+  "history_type": "metadata",
+  "text_status": "metadata-only: decision number, date and subject from the official announcement; the decision text is not published on the page",
+  "in_force": "2024-09-11",
+  "in_force_basis": "Decision date as printed in the official council listing: 11.09.2024 tarih ve 313 sayılı (council decision cited in the official announcement); adoption date of the council decision; legal commencement not asserted",
+  "missing": [
+    "complete official decision text",
+    "official annexes"
+  ],
+  "law_text_complete": false,
+  "privacy_withheld": false,
+  "record_scope": "one council decision, as cited in the municipality's official plan announcement (ilan)",
+  "announcement_date": "2024-09-26",
+  "listing": "https://www.sanliurfa.bel.tr/kategori/82/0/meclis-kararlari?page=1"
+}
