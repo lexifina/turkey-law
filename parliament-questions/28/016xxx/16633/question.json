@@ -1,0 +1,21 @@
+{
+  "record_type": "parliament-written-question",
+  "term": 28,
+  "legislative_year": 2,
+  "esas_no": "7/16633",
+  "submitted": "2024-09-12",
+  "submitted_as": "Başkanlığa geliş tarihi",
+  "mp": "Ali ÖZTUNÇ",
+  "province": "Kahramanmaraş",
+  "summary": "Türk Silahlı Kuvvetlerindeki terfi süreçleri ile ilgili bazı iddialara ilişkin",
+  "status": "Süresi Geçtikten Sonra Cevaplandı",
+  "status_as_of": "2026-11-16",
+  "official_record": "https://www.tbmm.gov.tr/Denetim/Yazili-Soru-Onergesi-Detay/9f0ec0d1-7cc8-4e8f-8117-0191ea720576",
+  "source": "https://tbmm.gov.tr/Denetim/YaziliSoruOnergesiTable",
+  "source_form": "https://tbmm.gov.tr/Denetim/Yazili-Soru-Onergeleri",
+  "source_sha256": "cf3cecea5aea4922c00dddafea49d5865098d846235fc3855229bc1e7310eda1",
+  "in_force": "2024-09-12",
+  "in_force_basis": "Date the question reached the Speaker (Başkanlığa geliş tarihi) in the official TBMM written-question record; parliamentary oversight record, not law",
+  "history_type": "metadata",
+  "text_status": "metadata-only: question text, addressee and answers are in the linked official record (PDFs on cdn.tbmm.gov.tr); not transcribed here"
+}
