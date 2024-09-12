@@ -1,0 +1,42 @@
+{
+  "source_id": "9.5.24128",
+  "kind": "communique",
+  "register_kind": "Tebliğler",
+  "title": "SERA GAZI EMİSYON RAPORLARININ DOĞRULANMASI VE DOĞRULAYICI KURULUŞLARIN AKREDİTASYONU TEBLİĞİ",
+  "number": "24128",
+  "issuer": "istenilen diğer faaliyetleri",
+  "path": "teblig/2017/24128",
+  "source": "https://www.mevzuat.gov.tr/anasayfa/MevzuatFihristDetayIframe?MevzuatTur=9&MevzuatNo=24128&MevzuatTertip=5",
+  "source_sha256": "9e5df084dab1669d83960ebd6e81a185bba59ac95632c4bc0e977a4f322f3206",
+  "source_bytes": 159910,
+  "published": "2017-12-02",
+  "gazette": "30258",
+  "in_force": "2024-09-12",
+  "in_force_basis": "latest Resmî Gazete date printed in the source amendment notes/table (\"RG-12/9/2024\") for the current consolidated text",
+  "date_evidence": [
+    [
+      "2024-09-12",
+      "RG-12/9/2024",
+      "Resmî Gazete date printed in the source amendment note"
+    ],
+    [
+      "2022-06-21",
+      "RG-21/6/2022",
+      "Resmî Gazete date printed in the source amendment note"
+    ]
+  ],
+  "history": "current-text",
+  "label": "oldest version available",
+  "checked_on": "2026-11-15",
+  "word_count": 9455,
+  "text_status": "current-consolidated",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  },
+  "source_links": [
+    "9.5.24128-Ek.docx"
+  ],
+  "completeness": "html-text-complete; linked annexes not fetched"
+}
