@@ -1,0 +1,3 @@
+Tıbbi Direktör (Başhekim)
+MADDE 8- (1) Tıbbi Direktör (Başhekim); Tıp fakültesi mezunu olan, bu alanda uzmanlık eğitimini veya doktorasını yapmış kişiler arasından, Rektörün teklifi üzerine Mütevelli Heyet tarafından üç yıl süre ile görevlendirilir. Görev süresi biten Tıbbi Direktör (Başhekim) aynı usulle yeniden görevlendirilebilir. Gerekli görüldüğü hallerde Mütevelli Heyet tarafından üç yıllık süre dolmadan görevinden aynı usulle alınabilir.
+(2) Tıbbi Direktör yardımcısı (Başhekim yardımcısı), ihtiyaç duyulması halinde Tıbbi Direktör (Başhekim)’ün önerisi, Rektörün teklifi ile Mütevelli Heyet Başkanı tarafından görevlendirilebilir. Tıbbi Direktör yardımcısı (Başhekim yardımcısı) sayısı en fazla iki kişidir.
