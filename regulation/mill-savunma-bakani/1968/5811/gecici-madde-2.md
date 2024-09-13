@@ -1,0 +1,1 @@
+Geçici Madde 2- Bu Yönetmeliğin 3/d maddesinde belirtilen sınıflardan yeni ihdas edilenlere, Kuvvetlerin kadro ve ihtiyaçlarına göre yeniden personel sınıflandırılması ile isim değişikliği yapılmış sınıflara astsubayların yeni sınıf isimleri üzerinden intibakları, 1 Eylül 1967 tarihinden geçerli olarak yapılır.

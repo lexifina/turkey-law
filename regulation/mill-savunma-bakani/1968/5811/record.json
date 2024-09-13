@@ -1,0 +1,58 @@
+{
+  "source_id": "7.5.5811",
+  "kind": "regulation",
+  "register_kind": "Kurum ve Kuruluş Yönetmelikleri",
+  "title": "TÜRK SİLAHLI KUVVETLERİ ASTSUBAY SINIFLANDIRMA YÖNETMELİĞİ",
+  "number": "5811",
+  "issuer": "Millî Savunma Bakanı",
+  "issuer_slug": "mill-savunma-bakani",
+  "path": "regulation/mill-savunma-bakani/1968/5811",
+  "source": "https://www.mevzuat.gov.tr/anasayfa/MevzuatFihristDetayIframe?MevzuatTur=7&MevzuatNo=5811&MevzuatTertip=5",
+  "source_sha256": "15348c3af80cd81b515ef8b3c86c09c74fcb789e86389f71e1f5342ac350c1dd",
+  "source_bytes": 37599,
+  "published": "1968-05-23",
+  "gazette": "12906",
+  "in_force": "2024-09-13",
+  "in_force_basis": "latest Resmî Gazete date printed in the source amendment notes/table (\"RG-13/9/2024\") for the current consolidated text",
+  "date_evidence": [
+    [
+      "2024-09-13",
+      "RG-13/9/2024",
+      "Resmî Gazete date printed in the source amendment note"
+    ],
+    [
+      "2020-11-26",
+      "RG-26/11/2020",
+      "Resmî Gazete date printed in the source amendment note"
+    ],
+    [
+      "1998-06-11",
+      "RG-11/06/1998",
+      "Resmî Gazete date printed in the source amendment note"
+    ],
+    [
+      "1992-06-04",
+      "RG-04/06/1992",
+      "Resmî Gazete date printed in the source amendment note"
+    ],
+    [
+      "1976-10-08",
+      "RG-08/10/1976",
+      "Resmî Gazete date printed in the source amendment note"
+    ]
+  ],
+  "commencement_clauses": [
+    "Bu Yönetmelik yayımı tarihinde yürürlüğe girer"
+  ],
+  "history": "current-text",
+  "label": "oldest version available",
+  "checked_on": "2026-11-15",
+  "word_count": 1438,
+  "text_status": "current-consolidated",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  },
+  "completeness": "html-text-complete"
+}

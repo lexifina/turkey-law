@@ -1,0 +1,2 @@
+Madde 1 – (Değişik:RG-26/11/2020-31316)
+Bu Yönetmeliğin amacı; 27/7/1967 tarihli ve 926 sayılı Türk Silahlı Kuvvetleri Personel Kanunundaki personel sınıflandırılması ve 25/6/2019 tarihli ve 7179 sayılı Askeralma Kanunundaki sınıflandırma ile ilgili hükümleri açıklamak, sınıflandırma faaliyetlerinin ne şekilde ve nasıl cereyan edeceğine dair esasları tespit etmek ve bu Yönetmelik dâhilinde yürütülmesini sağlamaktır.
