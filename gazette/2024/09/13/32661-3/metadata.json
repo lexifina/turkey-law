@@ -1,0 +1,20 @@
+{
+  "record_type": "gazette-item",
+  "gazette": "Resmî Gazete",
+  "jurisdiction": "TR",
+  "date": "2024-09-13",
+  "issue": "32661",
+  "edition": "regular",
+  "item": 3,
+  "section": "YÜRÜTME VE İDARE BÖLÜMÜ",
+  "heading": "YÖNETMELİKLER",
+  "title": "İlaç Etkin Maddesi Üretimi Amaçlı Kenevir Yetiştiriciliği ve Kontrolüne Dair Yönetmelik",
+  "official_link": "https://www.resmigazete.gov.tr/eskiler/2024/09/20240913-3.htm",
+  "link_format": "htm",
+  "index_url": "https://www.resmigazete.gov.tr/eskiler/2024/09/20240913.htm",
+  "index_sha256": "f34034c69345c19519a1d564d7c17af4dd3ce5d146e6e9d2b8b59c3992902cb5",
+  "index_header": "13 Eylül 2024 ... 32661 Sayılı Resmî Gazete",
+  "issue_pdf": null,
+  "in_force_basis": "Resmî Gazete publication date; not a commencement reading.",
+  "text_status": "metadata-only; text not yet fetched (follow-up pass adds it as its own commit)"
+}
