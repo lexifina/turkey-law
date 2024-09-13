@@ -1,0 +1,4 @@
+TÜRK SİLÂHLI KUVVETLERİ SUBAY SINIFLANDIRMA YÖNETMELİĞİ
+BÖLÜM I
+Genel hükümler
+Amaç:

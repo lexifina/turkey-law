@@ -1,0 +1,1 @@
+Geçici Madde 2 - Kanunun 21 inci maddesinde belirtilen sınıflardan yeni ihdas edilenlere, Kuvvetlerin kadro ve ihtiyaçlarına göre yeniden personel sınıflandırılması ile isim değişikliği yapılmış sınıflara subayların yeni sınıf isimlerine göre intibakları, 1 Eylül 1967 tarihinden geçerli olarak yapılır.
