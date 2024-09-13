@@ -1,0 +1,18 @@
+{
+  "issuer": "Mersin Büyükşehir Belediye Meclisi",
+  "number": "520",
+  "decision_date": "2024-09-13",
+  "title": "-MEC.KAR.(ÇAMLIYAYLA SEBİL MH. 230 ADA 13 PARSEL TAHSİS İPTALİ)",
+  "listed_as": "520-MEC.KAR.(ÇAMLIYAYLA SEBİL MH. 230 ADA 13 PARSEL TAHSİS İPTALİ)",
+  "subject_note": "subject as the meeting page lists it (the register shortens some long subjects)",
+  "official_document": "https://www.mersin.bel.tr/dokumanlar/520-meckarcamliyayla-sebil-mh-230-ada-13-parsel-tahsis-iptali-1393653669",
+  "source_listing": "https://www.mersin.bel.tr/dokumanlar/13-eylul-2024-meclis-kararlari-339875471",
+  "listing_sha256": "cd50121d4a6d34c814b5a9554002b4e959b6ede8ca18e92f24d62811143ee49c",
+  "meeting_title": "13 EYLÜL 2024 MECLİS KARARLARI",
+  "history_type": "metadata-only",
+  "capture_mode": "metadata-only",
+  "text_status": "metadata-only; official decision page linked, text not transcribed",
+  "date_basis": "meeting date in the official meeting page title (decision date of the session)",
+  "commencement_established": false,
+  "privacy_withheld": false
+}
