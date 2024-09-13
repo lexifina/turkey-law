@@ -1,0 +1,2 @@
+Belge Alma Zorunluluğu
+Madde 6- İhracat sayılan satış ve teslimler çerçevesinde gümrük muafiyetli ithalattan yararlanmak isteyen imalatçı firmaların (müteahhit firmalar dahil), ek-1’de belirtilen bilgi ve belgelerle (Değişik fıkra:RG-31/12/2014-29222 4.mükerrer)(1) Bakanlığa müracaat ederek, dahilde işleme izin belgesi almaları zorunludur. Müracaat tarihi ile belge tarihi arasında yapılan işlemlere muafiyet veya istisna uygulanmaz.
