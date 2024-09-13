@@ -1,0 +1,21 @@
+İşletme kayıtları
+MADDE 12- (1) Kuruluş, işletme sürecine ilişkin;
+a) İşletme sırasında tesis performansını,
+b) İşletme kayıt defterinde yer alması gereken bilgileri,
+c) Yakıtların mevcut yerlerini ve sayılarını da içerecek şekilde radyoaktif madde envanterini,
+ç) Yakıt ve kor yönetimine ilişkin faaliyetleri,
+d) Bakım ve onarıma ilişkin faaliyetleri,
+e) Tesiste meydana gelen olaylara ilişkin verileri,
+f) Kurum ve Kuruluş tarafından tesiste gerçekleştirilen yerinde inceleme ve denetim faaliyetlerini,
+g) Ekipman ve sistemlerin periyodik test kayıtlarını,
+ğ) Tesis personelinin eğitim ve yeterlik bilgilerini,
+h) Vardiya programını,
+ı) Çalışanların maruz kaldığı radyasyon dozlarını,
+i) Radyasyon doz hızını ve radyoaktif kirliliği,
+j) Radyoaktif atık ve kullanılmış yakıt yönetimini,
+k) Radyoaktif maddelerin salım ve serbestleştirilmesi ile çevresel radyolojik izleme kayıtlarını,
+l) Yönetim sistemi kayıtlarını,
+m) İşletme prosedürleri, işletme sınır ve koşulları ile bu dokümanlardaki değişiklikleri,
+n) Sismik izleme kayıtlarını,
+o) Eskime yönetimine ilişkin faaliyetleri,
+içeren kayıtları tutar.

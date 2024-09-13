@@ -1,0 +1,2 @@
+Denetimlere ilişkin raporlama
+MADDE 21- (1) Kurum ve Kuruluş tarafından tesiste gerçekleştirilen yerinde inceleme ve denetim faaliyetleri ile bağımsız gözetim şirketleri tarafından tesiste gerçekleştirilen gözetim faaliyetlerinde tespit edilen bulgu ve uygunsuzlukların giderildiğini kanıtlayan kayıtlar ile bulgu ve uygunsuzluklara yönelik uygulanan düzeltici ve önleyici faaliyetler Kuruluş tarafından tesisin içinde bulunduğu sürece ait yıllık raporda sunulur.
