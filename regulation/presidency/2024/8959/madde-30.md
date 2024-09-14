@@ -1,0 +1,4 @@
+İhalenin karara bağlanması ve onaylanması
+MADDE 30- (1) İhale komisyonu, ihale kararını ihale yetkilisinin onayına sunmadan önce ihale üzerinde kalan istekli ile varsa en avantajlı ikinci teklif sahibi isteklinin, ihalelere katılmaktan yasaklı olup olmadığını Kamu İhale Kurumundan teyit ederek buna ilişkin belgeyi ihale kararına eklemek zorundadır. Her iki isteklinin de yasaklı olduğunun anlaşılması durumunda ihale iptal edilir.
+(2) 27 nci maddenin ikinci fıkrasına göre yapılan değerlendirme sonucu ihale en avantajlı teklifi veren isteklinin üzerinde bırakılır ve ihale komisyonunca gerekçeli karar düzenlenir.
+(3) İhale komisyonu gerekçeli kararını oluşturarak ihale yetkilisinin onayına sunar. İhale yetkilisi, karar tarihini izleyen en geç beş iş günü içinde ihale kararını onaylar veya gerekçesini açıkça belirtmek suretiyle ihaleyi iptal eder. İhale, kararın onaylanması hâlinde geçerli, iptal edilmesi hâlinde ise hükümsüz sayılır.
