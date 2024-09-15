@@ -1,0 +1,2 @@
+Başarısızlık durumu
+MADDE 16- (1) İngilizce hazırlık programını, 6 ncı maddenin dördüncü fıkrasında belirtilen süre içerisinde başarı ile tamamlayamamış ve en son girdiği muafiyet sınavında da geçer not alamamış öğrencilerin Bölüm ile ilişiği kesilir. Bu öğrenciler hakkında, 23/3/2016 tarihli ve 29662 sayılı Resmî Gazete’de yayımlanan Yükseköğretim Kurumlarında Yabancı Dil Öğretimi ve Yabancı Dille Öğretim Yapılmasında Uyulacak Esaslara İlişkin Yönetmelik hükümlerince işlem yapılır.

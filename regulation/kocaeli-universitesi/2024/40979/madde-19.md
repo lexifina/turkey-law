@@ -1,0 +1,2 @@
+Yatay ve dikey geçişler
+MADDE 19- (1) Yatay ve dikey geçişle gelen öğrencilerin; nakil yaptırdıkları öğretim kurumlarından, İngilizce hazırlık programından muafiyet veya başarı belgesi getirmeleri gerekir. İngilizce hazırlık programından muafiyet veya başarı belgesi getirmeyen öğrenciler, Bölüm tarafından yapılan İngilizce hazırlık muafiyet sınavında başarısız olmaları halinde İngilizce hazırlık programına alınırlar.

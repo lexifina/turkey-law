@@ -1,0 +1,31 @@
+{
+  "source_id": "8.5.40979",
+  "kind": "regulation",
+  "register_kind": "Üniversite Yönetmelikleri",
+  "title": "KOCAELİ ÜNİVERSİTESİ EĞİTİM FAKÜLTESİ YABANCI DİLLER EĞİTİMİ BÖLÜMÜ İNGİLİZCE HAZIRLIK PROGRAMI EĞİTİM-ÖĞRETİM VE SINAV YÖNETMELİĞİ",
+  "number": "40979",
+  "issuer": "KOCAELİ ÜNİVERSİTESİ",
+  "issuer_slug": "kocaeli-universitesi",
+  "path": "regulation/kocaeli-universitesi/2024/40979",
+  "source": "https://www.mevzuat.gov.tr/anasayfa/MevzuatFihristDetayIframe?MevzuatTur=8&MevzuatNo=40979&MevzuatTertip=5",
+  "source_sha256": "9c70dfaec9ce7ef26198acdeb56f99b56d74f399a6423807935c12b467282933",
+  "source_bytes": 35564,
+  "published": "2024-09-15",
+  "gazette": "32663",
+  "in_force": "2024-09-15",
+  "in_force_basis": "Resmî Gazete publication date in the official listing (15.09.2024); own commencement article: \"Bu Yönetmelik 2024-2025 eğitim-öğretim yılı başında yürürlüğe girer\"",
+  "commencement_clauses": [
+    "Bu Yönetmelik 2024-2025 eğitim-öğretim yılı başında yürürlüğe girer"
+  ],
+  "history": "current-text",
+  "label": "oldest version available",
+  "checked_on": "2026-11-15",
+  "word_count": 1632,
+  "text_status": "current-consolidated",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  },
+  "completeness": "html-text-complete"
+}
