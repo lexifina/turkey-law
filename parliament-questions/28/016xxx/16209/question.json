@@ -1,0 +1,21 @@
+{
+  "record_type": "parliament-written-question",
+  "term": 28,
+  "legislative_year": 2,
+  "esas_no": "7/16209",
+  "submitted": "2024-09-16",
+  "submitted_as": "Başkanlığa geliş tarihi",
+  "mp": "Kürşad ZORLU",
+  "province": "Ankara",
+  "summary": "Ülke genelindeki okullarda görevli yardımcı hizmetli personele ilişkin",
+  "status": "Süresi Geçtikten Sonra Cevaplandı",
+  "status_as_of": "2026-11-16",
+  "official_record": "https://www.tbmm.gov.tr/Denetim/Yazili-Soru-Onergesi-Detay/c5f00149-9cdd-4e20-9a54-0191feb7ce76",
+  "source": "https://tbmm.gov.tr/Denetim/YaziliSoruOnergesiTable",
+  "source_form": "https://tbmm.gov.tr/Denetim/Yazili-Soru-Onergeleri",
+  "source_sha256": "16e54856bc731a9e9e49b4bff35390496ff5f34d7abd0b271261f39f57a946ec",
+  "in_force": "2024-09-16",
+  "in_force_basis": "Date the question reached the Speaker (Başkanlığa geliş tarihi) in the official TBMM written-question record; parliamentary oversight record, not law",
+  "history_type": "metadata",
+  "text_status": "metadata-only: question text, addressee and answers are in the linked official record (PDFs on cdn.tbmm.gov.tr); not transcribed here"
+}
