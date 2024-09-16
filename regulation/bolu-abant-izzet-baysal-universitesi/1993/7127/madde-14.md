@@ -1,0 +1,3 @@
+Meslek Yüksekokulları Öğretimi ve Önlisans
+Madde 14- Üniversiteye bağlı Meslek Yüksekokullarında normal dört dönemlik süre içinde yapılan öğretim ile ilgili hususlar ayrı yönetmeliklerle belirlenir.
+Lisans programına kayıtlı öğrencilerden, ilk dört dönemin derslerini başarılı olarak tamamladıkları halde lisans diploması alamayacak duruma düşenlerle, aynı durumda olup Meslek Yüksekokullarına devam etmek isteyenlere verilecek Önlisans ve Meslek Yüksekokulu diploması ile ilgili esaslar, Yükseköğretim Kurulu Kararları çerçevesinde Senato tarafından belirlenir. Bu durumdaki öğrencilerin lisans programlarındaki kayıtları silinir.

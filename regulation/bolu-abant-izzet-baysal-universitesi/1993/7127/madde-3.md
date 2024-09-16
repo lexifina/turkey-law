@@ -1,0 +1,2 @@
+Öğretim Dili
+Madde 3- (Değişik:RG-22/6/2011-27972) (Değişik ibare:RG-16/9/2024-32664) Bolu Abant İzzet Baysal Üniversitesinde öğretim dili Türkçe’dir. Gerekli görülen programlarda İngilizce öğretim yapılabilir. Bir bölümde öğretim dilinin İngilizce yapılması ilgili fakülte, yüksekokul ve enstitü kurulunun teklifi, Üniversite Senatosunun önerisi ve Yükseköğretim Kurulunun onayı ile gerçekleşir. İngilizce yürütülen programlarda Türkçe yapılmasında zorunluluk olan dersler Üniversite Senatosunca belirlenir.

@@ -1,0 +1,5 @@
+Dönem Kayıtları
+Madde 12- (Değişik:RG-22/6/2011-27972)
+Öğrenciler her dönem başında ve akademik takvimde ilan edilen süreler içinde katkı payı veya öğrenim ücretini ödeyerek ve ders programlarını danışmanlarına onaylatarak kayıtlarını yenilemek zorundadırlar. Öğrenciler kayıt yenileme işleminin tümünden sorumludur ve kayıtlarını bizzat kendileri yaptırmakla yükümlüdürler.
+Akademik takvimde belirlenen süre içinde kaydını yenilemeyen öğrenci, ertesi dönem başında kaydını yenileyebilir. Ancak, derslerin başlamasından itibaren ders ekleme bırakma süresi sonuna kadar müracaat eden ve mazereti ilgili bölüm başkanlığınca kabul edilen öğrenciler ders kaydı yaptırabilir. Kaydını yenilemeyen öğrencilerin kayıt yaptırmadığı dönemde kaybettiği süre öğrenim süresinden sayılır.
+Öğrencinin dönem başında yapmış olduğu ders kayıtlarından sonra dönem ders yükünde yapılan azaltma veya dersten çekilme ya da kayıtlanmış olduğu derslerin tümüyle kaydından düşülmesi durumunda, o döneme ilişkin daha önce ödenmiş katkı payı veya öğrenim ücreti öğrenciye iade edilmez.

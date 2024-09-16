@@ -1,0 +1,3 @@
+Özel Öğrenciler
+Madde 9- Özel öğrenciler, üniversitede normal Eğitim-Öğretim programlarından birine kayıtlı olmadıkları halde kendilerine yalnız bazı derslere katılma izni verilen öğrencilerdir. Özel öğrencilere diploma ve ünvan verilmez. Sadece kayıtlı oldukları dersleri ve varsa aldıkları notları gösteren bir belge verilebilir. Bu notlardan ilgili yönetim kurulunca uygun görülenler sonradan (Değişik ibare:RG-16/9/2024-32664) Bolu Abant İzzet Baysal Üniversitesi’ne öğrenci olarak kabul edilenlerin ortalamalarına katılabilir.
+Özel öğrencilerin lisans düzeyindeki derslere kabulü Bölüm Başkanı ve Dekan, Lisansüstü derslere kabulü ilgili yönetmelik hükümlerine göre ve Enstitü Anabilim Dalı Başkanı ve Enstitü Müdürü’nün kararları ile yapılır.

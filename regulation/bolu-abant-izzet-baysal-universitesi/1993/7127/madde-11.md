@@ -1,0 +1,6 @@
+Gerekli İşlemler
+Madde 11- Üniversiteye kabul edilen öğrencilerin kayıtlarının kesinleşmesi için aşağıdaki koşullar aranır.
+a) İngilizce Hazırlık Sınıfı ile Meslek Yüksekokulu ve lisans programlarına kabul edilen öğrencilerin Türkiye’de bir Liseden veya Milli Eğitim Bakanlığı’nca Lise dengi olarak kabul edilen yurt içinde veya yurt dışındaki bir okuldan, lisansüstü programlara kabul edilen öğrencilerin ise yurt içinde veya yurt dışında lisans diploması almaya hak kazandığını gösteren ÖSYS sonuç belgesine sahip olmak,
+b) Üniversiteye girişle ilgili yükümlülüklerini yerine getirmiş olmak,
+c) Sağlık durumu, askerlik görevi, öğrenci vizesi vb. yönlerden engeli olmamak.
+Üniversiteye kabul edilen ve belirlenen şartları sağlamış olanların Senatoca belirlenecek diğer belgeleri de sağlamaları koşulu ile ve tespit edilen harç ücretlerini ödemeleri üzerine kayıtları kesin olarak yapılır. Belgelerinde noksanlık ve tahribat olanların ve başka bir Yükseköğretim Kurumu’ndan disiplin cezası ile çıkarılmış olanların kayıtları yapılmış olsa bile iptal edilir. (Ek iki cümle:RG-10/3/2011-27870) İstenen belgelerin aslı veya Üniversite tarafından onaylı örneği kabul edilir. Askerlik durumu ve adli sicil kaydına ilişkin olarak ise adayın beyanına dayanılarak işlem yapılır.

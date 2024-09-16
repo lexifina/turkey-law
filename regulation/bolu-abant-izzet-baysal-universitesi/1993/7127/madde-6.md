@@ -1,0 +1,2 @@
+Hazırlık sınıfı ile Meslek Yüksekokulu ve Lisans Programlarına Öğrenci Kabulü
+Madde 6- Üniversitenin Fakülte, Yüksekokul ve Meslek Yüksekokullarının birinci sınıflarına Öğrenci Seçme ve Yerleştirme Merkezi tarafından düzenlenen Seçme ve Yerleştirme Sınavı sonuçlarına göre öğrenci alınır. Yabancı uyruklu öğrenciler, Yükseköğretim Kurulu Kararları ve Senatoca kabul edilecek ilkeler çerçevesinde sınavsız alınabilir. Özel yetenek gerektiren program 'lara öğrenci kabulü Senatoca belirlenecek ilkeler çerçevesinde yapılır.
