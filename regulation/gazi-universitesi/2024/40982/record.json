@@ -1,0 +1,39 @@
+{
+  "checked_on": "2026-11-14",
+  "commencement_clauses": [
+    "MADDE 16- (1) Bu Yönetmelik yayımı tarihinde yürürlüğe girer."
+  ],
+  "date_evidence": [
+    [
+      "2024-09-16",
+      "16.09.2024",
+      "original gazette publication date in official listing"
+    ]
+  ],
+  "date_quote": "MADDE 16- (1) Bu Yönetmelik yayımı tarihinde yürürlüğe girer.",
+  "first_law": null,
+  "gazette": "32664",
+  "history": "current-text",
+  "images": {
+    "deferred": 0,
+    "omitted": 0,
+    "referenced": 0,
+    "source": 0
+  },
+  "in_force": "2024-09-16",
+  "in_force_basis": "source commencement clause: enters into force on gazette publication",
+  "issuer": "Gazi Üniversitesi",
+  "issuer_slug": "gazi-universitesi",
+  "kind": "regulation",
+  "label": "oldest version available",
+  "path": "regulation/gazi-universitesi/2024/40982",
+  "published": "2024-09-16",
+  "source": "https://www.mevzuat.gov.tr/anasayfa/MevzuatFihristDetayIframe?MevzuatTur=8&MevzuatNo=40982&MevzuatTertip=5",
+  "source_bytes": 28146,
+  "source_id": "8.5.40982",
+  "source_sha256": "ab32242075a6b68052c0153d06ab2f9c8fc6051cd87801e687a2b9ce79d8f2d1",
+  "text_status": "as-enacted",
+  "title": "GAZİ ÜNİVERSİTESİ İSTATİSTİK DANIŞMANLIK, EĞİTİM,\r\nUYGULAMA VE ARAŞTIRMA MERKEZİ YÖNETMELİĞİ",
+  "university_id": 195,
+  "word_count": 1039
+}
