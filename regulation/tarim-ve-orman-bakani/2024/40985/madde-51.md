@@ -1,0 +1,4 @@
+Başvuru alma
+MADDE 51- (1) Bu Yönetmelik kapsamında yapılacak başvurular, ıslak veya elektronik imza ile imzalanarak doldurulan bilgi ve belgelerden oluşan eklerle, fiziki olarak veya elektronik ortamda yapılır.
+(2) Bakanlık tarafından elektronik başvuru sistemine geçilmesi durumunda sistem üzerinden alınan başvuru belgeleri asılları ile eşdeğer kabul edilir. Başvuru sonrasında tespit edilen eksiklikler ile elektronik ortamdan temin edilemeyen bilgi ve belgeler, yurt dışı kuruluşlardan alınması gereken asıl belgeler ile gerekli görülmesi halinde başvuru belgelerinin asılları veya yetkili otoritelerce onaylanmış suretlerinin ıslak imzalıları başvuruda bulunan kuruluştan veya başvuru sahibinden istenir.
+(3) Bu Yönetmelik kapsamında yapılacak bildirimler ve davet yazıları, Elektronik Belge Yönetim Sistemi (EBYS) veya Kayıtlı Elektronik Posta (KEP) adresi üzerinden gönderilir.

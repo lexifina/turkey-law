@@ -1,0 +1,2 @@
+Başvuru öncesi deneme süreleri
+MADDE 12- (1) Tarla bitki çeşitlerinin kayıt altına alınması için çeşit adayları, başvuru öncesi denemelere alınır. Bu denemeler tek yıllık tarla bitkisi türlerinde, çeşit adayının gelişme tabiatına uygun, eş zamanlı, en az iki lokasyonda, bir yetiştirme sezonu veya tek lokasyonda en az iki yetiştirme sezonu, çok yıllık tarla bitkisi türlerinde en az iki yetiştirme sezonu ve iki lokasyonda kurulur.

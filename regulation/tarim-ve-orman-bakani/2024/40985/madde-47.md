@@ -1,0 +1,4 @@
+Özel sektör tarımsal araştırma kuruluşlarının denetimi
+MADDE 47- (1) Özel sektör tarımsal araştırma kuruluşu olarak tescil edilen kuruluşlar, İnceleme Komisyonu tarafından 43 üncü ve 46 ncı maddelerde belirtilen şartları devam ettirip ettirmediğini kontrol etmek amacıyla yerinde denetlenir.
+(2) Yerinde denetimler örnekleme metoduna göre Genel Müdürlükçe planlanır. Genel Müdürlük gerekli durumlarda ilave denetim yapabilir.
+(3) Denetim sonucunda tespit edilen eksiklikler Genel Müdürlük tarafından kuruluşa bildirilir. Eksikliklerin giderilmesi için en fazla üç ay süre verilir. Kuruluş verilen süre içinde eksiklikleri giderip gidermediğini Genel Müdürlüğe bildirir. Genel Müdürlük eksikliklerin giderildiğinin tespit edilmesi amacıyla İnceleme Komisyonunu veya kuruluşun bulunduğu İl Tarım ve Orman Müdürlüğünü görevlendirebilir. Genel Müdürlük süresi içinde eksikliklerini gideremeyen kuruluşun yetkisini iptal eder.

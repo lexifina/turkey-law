@@ -1,0 +1,3 @@
+Standart numune
+MADDE 9- (1) Bu Yönetmelik kapsamında kaydedilen çeşitlerin TTSM tarafından belirtilen miktarlardaki standart numuneleri, başvuru sahibi tarafından, çeşidin kayıt listelerine alınması amacıyla TTSM’ye teslim edilir. Başvuru sahibi bu standart numune ile tescil deneme numunelerinin aynı olduğunu taahhüt eder. Aksi tespit edilmesi durumunda ise aday çeşidin tescil işlemleri sonlandırılır. Bu numuneler tarla bitkileri türlerinde on yıl, sebze türlerinde beş yılda bir yenilenir.
+(2) 35 inci maddede belirtilen Alt Listeye alınan çeşitler ile vegetatif olarak çoğaltılan türlere ait standart numuneler ise başvuru sahibi tarafından muhafaza edilir.

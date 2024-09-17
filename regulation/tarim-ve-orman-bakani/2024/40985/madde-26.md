@@ -1,0 +1,10 @@
+Sebze Tescil Komitesinin kuruluş ve çalışma esasları
+MADDE 26- (1) TTSM hazırladığı raporları, her yıl Şubat, Mayıs ve Ekim aylarında Sebze Tescil Komitesine katılacak üyelerinin bulunduğu kuruluşlara dijital olarak elektronik ortamda gönderir.
+(2) Sebze Tescil Komitesi; Genel Müdürlük, ilgili Tarımsal Araştırma Enstitüsü ve Ziraat Fakültesinin ilgili bölümünden birer, Türkiye Tohumcular Birliğinden iki temsilci ile TTSM’den iki konu uzmanı olmak üzere yedi kişiden oluşur. Tohumculuk konusunda faaliyet gösteren herhangi bir özel sektör kuruluşu ile ticari ilişkisi bulunan ve/veya danışmanlık yapan kişiler Komite üyesi olamaz.
+(3) Sebze Tescil Komitesinin çalışma esasları aşağıda belirtilmiştir:
+a) Başvuru sahibi toplantıya davet edilir.
+b) Her toplantıda üyeler arasından bir Başkan seçilir. Toplantının yazmanlığı TTSM tarafından yürütülür.
+c) TTSM temsilcisi toplantıda çeşitle ilgili raporu sözlü olarak takdim eder. Toplantıda başvuru sahibi de çeşitle ilgili açıklamalarda bulunabilir. Oylama sırasında başvuru sahibi dâhil olmak üzere toplantı salonunda Sebze Tescil Komitesi üyeleri dışında kimse bulunmaz.
+ç) Sebze Tescil Komitesi en az beş asıl üyenin mevcut olmasıyla toplanır. Tescil kararı, toplantıya katılan asıl üyelerin üçte ikisinin olumlu oyu ile alınır. Toplantıda çeşitler ayrı ayrı oylanır. Sebze Tescil Komitesi, Tescil raporu sunulan çeşitlerden, mevcutlardan farklı, yeknesak ve durulmuş olduğu tespit edilen çeşidi kayıt altına alır. Çeşide, 10 uncu maddede belirtilen esaslar dâhilinde bir isim verilir ve çeşit bu isimle kayıt altına alınır. Kayıt altına alınan çeşitler, sebze çeşit listesinde her yıl yayımlanır.
+d) Sebze Tescil Komitesince alınan kararlar TTSM tarafından ilgili kuruluşlara ve başvuru sahiplerine bildirilir.
+e) Sebze Tescil Komitesinde görüşülüp eksiklikleri nedeniyle tescili veya üretim izni reddedilen bir çeşidin sahibi, aynı oturumda karara itiraz ettiği takdirde itiraz dikkate alınır. Sebze Tescil Komitesi, itiraza neden olan eksikliklerin giderilebileceğine karar verirse yeniden başvuru yapılmak şartıyla sonraki toplantılarda görüşülebilir.

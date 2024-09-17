@@ -1,0 +1,3 @@
+Denemelerin değerlendirilmesi
+MADDE 19- (1) 17 nci madde kapsamındaki denemelerde iki yetiştirme sezonunu tamamlayan ve farklı, yeknesak ve durulmuş olduğu tespit edilen çeşit adayları, TDÖ sonuçları ile birlikte değerlendirmeye alınır. Bu çeşitler hakkında TTSM tarafından ilgili Tarla Bitkileri Tescil Komitesine sunulmak üzere çeşit tescil raporu hazırlanır.
+(2) Birinci veya ikinci yetiştirme sezonunda FYD testlerinde çeşide ait herhangi bir problem ortaya çıkması durumunda, FYD testleri üçüncü yetiştirme sezonunda da devam eder. FYD testlerinde başarısız olan çeşit adaylarının tescil işlemleri sonlandırılır. Bu durum başvuru sahibine yazılı olarak bildirilir.

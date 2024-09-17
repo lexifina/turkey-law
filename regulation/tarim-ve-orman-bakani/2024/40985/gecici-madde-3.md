@@ -1,0 +1,2 @@
+Özel Sektör Tarımsal Araştırma Kuruluşlarında geçiş süreci
+GEÇİCİ MADDE 3- (1) Bu Yönetmeliğin yayımı tarihinden önce tescil edilmiş özel sektör tarımsal araştırma kuruluşları, bu Yönetmeliğin yayımı tarihinden itibaren bir yıl içinde 43 üncü maddede belirtilen şartları sağlamak zorundadır. Bir yıllık geçiş süresinin bitiminde 43 üncü maddede belirtilen şartları yerine getirmeyen kuruluşlar için denetim kuralları uygulanır.

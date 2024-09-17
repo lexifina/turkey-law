@@ -1,0 +1,10 @@
+Başvurunun incelenmesi ve yerinde tespit yapılması
+MADDE 44- (1) Özel sektör tarımsal araştırma kuruluşu başvurusunda bulunan kuruluşun başvuru dosyası Genel Müdürlük tarafından incelenir. Başvuru dosyasında eksiklik tespit edilmesi halinde, eksikliğin giderilmesi için belirli bir süre verilir. Verilen süre içinde eksikliğini gideremeyen kuruluşun başvurusu kabul edilmez. Başvurusu kabul edilen kuruluşlara 43 üncü maddede sayılan gerekliliklerin yerinde tespitini yapmak amacıyla Genel Müdürlük tarafından İnceleme Komisyonu görevlendirilir.
+(2) İnceleme Komisyonu; Genel Müdürlükten bir, Tarımsal Araştırmalar ve Politikalar Genel Müdürlüğüne bağlı Araştırma Enstitüsünden bir ve kuruluşun bulunduğu il tarım ve orman müdürlüğünden bir temsilciden oluşur.
+(3) İnceleme Komisyonuna davet edilen kuruluşlar, davet yazısını aldıktan sonra, başvuran kuruluşun çalışma konusuna göre, konu uzmanı bir ziraat mühendisinin komisyona iştirakini sağlar.
+(4) İnceleme komisyonunun çalışma esasları şunlardır:
+a) İnceleme komisyonu üye tam sayısı ile toplanır. Kararlarını oybirliği ile alır. Oybirliği sağlanamadığı takdirde olumsuz görüş belirten üye/üyeler gerekçelerini raporda detaylı olarak belirtir.
+b) İnceleme komisyonunun üyeleri arasından bir başkan seçilir. Yazmanlık Genel Müdürlükten katılan üye tarafından yapılır.
+c) İnceleme Komisyonu, kuruluşun 43 üncü maddede belirtilen şartları taşıyıp taşımadığını yerinde yapacağı incelemeyle tespit ederek hazırlayacağı raporu Genel Müdürlüğe sunar.
+(5) Genel Müdürlük İnceleme Komisyonunun raporuna istinaden başvuruyu onaylar veya reddeder.
+(6) İnceleme Komisyonunun hazırlamış olduğu raporda tespit ettiği eksiklikler için kuruluşa süre vermesi durumunda kuruluş verilen süre içinde eksikliklerin giderildiğini Genel Müdürlüğe bildirir. Genel Müdürlük eksikliklerin giderildiğinin tespiti amacıyla İnceleme Komisyonunu veya kuruluşun bulunduğu il tarım ve orman müdürlüğünü görevlendirebilir. Eksikliklerin giderilip giderilmediği yerinde tespit edilerek Genel Müdürlüğe bildirilir. Genel Müdürlük süresi içinde eksikliklerini gideremeyen kuruluşun başvurusunu reddeder.

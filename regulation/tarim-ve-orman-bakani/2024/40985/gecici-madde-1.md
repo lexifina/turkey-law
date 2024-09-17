@@ -1,0 +1,2 @@
+Tür Listesi
+GEÇİCİ MADDE 1- (1) Bu Yönetmeliğin yayımı tarihinden itibaren üç ay içinde Genel Müdürlük TDÖ yapılacak bitki türleri listesini yayımlar. Bu Yönetmeliğin yayımı tarihinden önce TDÖ denemelerine alınmış ancak TDÖ yapılacak tür listesinde bulunmayan bitki türleri FYD denemelerine göre kayıt altına alınır. Başvuru sahipleri tarafından ödenmiş TDÖ deneme ücretleri çeşit adayının TDÖ işlemleri başlamışsa iade edilmez. TDÖ denemeleri ile ilgili hiçbir işlem yapılmamış ise TDÖ deneme ücretleri başvuru sahibine iade edilir.
