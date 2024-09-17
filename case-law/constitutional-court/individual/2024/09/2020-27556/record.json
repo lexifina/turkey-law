@@ -1,0 +1,20 @@
+{
+  "applicant": "F.G.",
+  "application_date": "2020-09-08",
+  "application_number": "2020/27556",
+  "deciding_unit": "Birinci Bölüm",
+  "decision_date": "2024-09-17",
+  "id": "ac890e5a-9a83-2f17-bcf7-27042d547d5d",
+  "in_force": "2024-09-17",
+  "in_force_basis": "official decision date",
+  "kind": "constitutional-court-individual-application",
+  "omitted_images": 0,
+  "outcome": "Kabul Edilemezlik vd.",
+  "published": null,
+  "referenced_images": 0,
+  "source": "https://kararlarbilgibankasi.anayasa.gov.tr/kbb/pages/search/Tumu?id=a2JiOmFjODkwZTVhLTlhODMtMmYxNy1iY2Y3LTI3MDQyZDU0N2Q1ZA&type=BireyselBasvuru",
+  "source_api": "https://kararlarbilgibankasi.anayasa.gov.tr/api/core/public/search",
+  "source_images": 0,
+  "source_sha256": "25bf1ab82816007fd81042d06c42cf61b6e8d3ad6cb79282424ed8c41c566c7c",
+  "version_label": "as-enacted"
+}
