@@ -1,0 +1,16 @@
+{
+  "kind": "decision",
+  "issuer": "Sayıştay Temyiz Kurulu",
+  "number": "57125",
+  "decision_date": "2024-09-18",
+  "source_id": 29457,
+  "chamber": "1",
+  "file_number": "49646",
+  "public_body_type": "Yüksek Öğretim Kurumları",
+  "account_year": "2019",
+  "subject": "Personel Mevzuatı ile İlgili Kararlar",
+  "source": "https://www.sayistay.gov.tr/KararlarTemyiz/Detay/29457/",
+  "source_sha256": "4f9d1171484b5494367db5855e84dcb4a3dc9fb089c3345260c4e502f3190a5a",
+  "text_status": "as-enacted",
+  "text_file": "metin.md"
+}
