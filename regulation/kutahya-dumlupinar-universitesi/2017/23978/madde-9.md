@@ -1,0 +1,4 @@
+Ön lisans/lisans programı
+MADDE 9- (Başlığı ile Birlikte Değişik:RG-18/9/2024-32666)
+(1) Bir ön lisans/lisans programı, YÖK tarafından belirlenen ilgili programın yer aldığı diploma düzeyi ve alan için yükseköğretim yeterlikler çerçevesinde ilgili birim/bölüm kurulu tarafından hazırlanır; ilgili kurulun teklifi, Senatonun kararı ve YÖK’ün onayı ile açılır. Açılan bir programa ilişkin değişiklikler ilgili bölüm kurulu tarafından hazırlanır; ilgili kurulun teklifi, Senato kararı ve YÖK onayı ile yürürlüğe girer.
+(2) Bir ön lisans/lisans programının müfredatı; ders, laboratuvar, uygulama (atölye, stüdyo), staj, işyeri eğitimi ve benzeri çalışmalardan oluşur. Bir programın müfredatındaki değişiklikler ve öğrencilerin bu değişikliklere intibak esasları Senato tarafından düzenlenir ve onayından sonra uygulanır.

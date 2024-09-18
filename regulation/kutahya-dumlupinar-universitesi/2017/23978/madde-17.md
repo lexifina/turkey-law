@@ -1,0 +1,3 @@
+Ön lisans/lisans programına kabul, kayıt ve ders intibak işlemleri (Değişik başlık:RG-18/9/2024-32666)
+MADDE 17 – (1) (Değişik:RG-18/9/2024-32666) Üniversitenin ön lisans/lisans programlarına yatay geçiş, dikey geçiş ve benzeri durumlarla gelen öğrencilerin kabulü, kayıt işlemleri ve ders intibakları, 2547 sayılı Kanun, YÖK kararları ve ilgili mevzuat çerçevesinde Senato tarafından belirlenen esaslara göre yapılır.
+(2) (Ek:RG-9/11/2018-30590)(2) Öğrencilerin, bir yükseköğretim kurumu dışında edindikleri kazanımların tanınması, kredilendirilmesi ve intibak işlemleri Senato tarafından belirlenen esaslara göre yapılır.

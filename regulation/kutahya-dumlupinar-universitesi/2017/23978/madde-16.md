@@ -1,0 +1,2 @@
+Öğrenci katkı payı/öğrenim ücreti
+MADDE 16 – (1) Öğrenci, her yarıyıl başında, ilgili mevzuat hükümleriyle belirlenen miktarda ve sürede katkı payı veya öğrenim ücretini öder. Süresi içinde katkı payı veya öğrenim ücretini ödemeyenler ile mazeretleri ilgili yönetim kurulunca kabul edilmeyenler, o yarıyıl için ders kaydı yaptıramaz ve öğrencilik haklarından yararlanamaz. Katkı payı veya öğrenim ücretleri ile ilgili işlemler, 2547 sayılı Kanunun 46 ncı maddesinde belirtilen hükümler çerçevesinde yapılır.

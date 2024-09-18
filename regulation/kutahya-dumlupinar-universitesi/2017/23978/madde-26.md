@@ -1,0 +1,6 @@
+Mazeret sınavları
+MADDE 26 – (1) Derslere devam şartını yerine getiren öğrencilerin mazeretlerinin ilgili yönetim kurulu tarafından haklı ve geçerli görülen nedenler çerçevesinde kabul edilmesi durumunda, giremedikleri yarıyıl içi sınavlarının mazeret sınavları akademik takvim çerçevesinde yapılır. Ancak, öğrencinin mazeretinin zorunlu nedenlerle uzaması ve gerekçesinin ilgili yönetim kurulu tarafından kabul edilmesi durumunda mazeret sınavı, ilgili yönetim kurulunun belirleyeceği tarihte yapılır.
+(2) Yarıyıl sonu ve bütünleme sınavlarına mazeret sınav hakkı verilmez.
+(3) 21 inci maddenin dördüncü fıkrası çerçevesinde görevlendirildiği için sınavlara giremeyen öğrenci, giremediği tüm sınavlar için mazeret sınavına girebilir. Bu öğrencilerin mazeret sınavlarının yapılacağı tarih, ilgili yönetim kurulu kararı ile belirlenir.
+(4) (Değişik:RG-18/9/2024-32666) Mazeret ile ilgili başvuru; mazeret tarihleri içinde ya da en geç mazeretinin bitimini takip eden üç iş günü içinde, dersin açıldığı meslek yüksekokullarında müdürlüklere, fakülte ve yüksekokullarda ilgili bölüm başkanlıklarına mazeretini gösterir belge ile yazılı olarak yapılır.
+(5) Mazereti ilgili birim yönetim kurulu tarafından kabul edilen öğrenci, mazeret süresi içinde derslere devam edemez ve sınavlara giremez. Aksine hareket eden öğrencinin girmiş olduğu sınavlar iptal edilir.
