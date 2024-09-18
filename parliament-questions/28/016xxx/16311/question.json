@@ -1,0 +1,21 @@
+{
+  "record_type": "parliament-written-question",
+  "term": 28,
+  "legislative_year": 2,
+  "esas_no": "7/16311",
+  "submitted": "2024-09-18",
+  "submitted_as": "Başkanlığa geliş tarihi",
+  "mp": "Melih MERİÇ",
+  "province": "Gaziantep",
+  "summary": "Eczacıların ilaç geri ödeme sisteminde yaşadığı sorunlara ilişkin",
+  "status": "Süresi Geçtikten Sonra Cevaplandı",
+  "status_as_of": "2026-11-16",
+  "official_record": "https://www.tbmm.gov.tr/Denetim/Yazili-Soru-Onergesi-Detay/cb1b3273-8562-47cb-b3a0-019209459c61",
+  "source": "https://tbmm.gov.tr/Denetim/YaziliSoruOnergesiTable",
+  "source_form": "https://tbmm.gov.tr/Denetim/Yazili-Soru-Onergeleri",
+  "source_sha256": "11c5128e84647cf7e119a0a80195bd7930f300ff3d8d9d153ac2d89de7fd254f",
+  "in_force": "2024-09-18",
+  "in_force_basis": "Date the question reached the Speaker (Başkanlığa geliş tarihi) in the official TBMM written-question record; parliamentary oversight record, not law",
+  "history_type": "metadata",
+  "text_status": "metadata-only: question text, addressee and answers are in the linked official record (PDFs on cdn.tbmm.gov.tr); not transcribed here"
+}
