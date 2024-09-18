@@ -1,0 +1,20 @@
+{
+  "applicant": "F.H. (2)",
+  "application_date": "2021-11-11",
+  "application_number": "2021/51731",
+  "deciding_unit": "İkinci Bölüm",
+  "decision_date": "2024-09-18",
+  "id": "50ec0b96-4186-e980-dd60-572da25b5d9f",
+  "in_force": "2024-09-18",
+  "in_force_basis": "official decision date",
+  "kind": "constitutional-court-individual-application",
+  "omitted_images": 0,
+  "outcome": "Kabul Edilemezlik vd.",
+  "published": null,
+  "referenced_images": 0,
+  "source": "https://kararlarbilgibankasi.anayasa.gov.tr/kbb/pages/search/Tumu?id=a2JiOjUwZWMwYjk2LTQxODYtZTk4MC1kZDYwLTU3MmRhMjViNWQ5Zg&type=BireyselBasvuru",
+  "source_api": "https://kararlarbilgibankasi.anayasa.gov.tr/api/core/public/search",
+  "source_images": 0,
+  "source_sha256": "ab38a58919642bba16c403275a45e94df9a97bade9d7059877849a72b5dd5b43",
+  "version_label": "as-enacted"
+}
