@@ -1,0 +1,5 @@
+Konu: Dekana vekalet halinde idari görev ödeneği ödenmesi ve ek ödemesinin hatalı yapılması.
+
+201 sayılı Ek İlamın 9. maddesiyle verilen … TL’nin tazminine dair hükümde Gerçekleştirme Görevlisi sıfatı ile iştiraki bulunan …’nın itiraz başvurusu üzerine düzenlenen 53815 sayılı dosya, 18.09.2024 tarihli ve 57150 tutanak sayılı Temyiz Kurulu Kararı ile; önceki (02.11.2022 tarihli ve 52447 tutanak sayılı) Temyiz Kurulu Kararımızda (2. maddesi) ısrar edilerek yapılan ödemede mevzuata aykırı bir husus bulunmadığı ve kamu zararı oluşmadığına ilişkin olarak belirtilen hususların tekrar değerlendirilmesini teminen 6085 sayılı Sayıştay Kanununun 55 inci maddesinin yedinci fıkrası uyarınca tazmin hükmünün bozulması suretiyle Dairesine gönderildiğinden; bir diğer sorumluyu [(Ödeme Emri Belgesi Üzerinde İmzası Bulunan) Harcama Yetkilisi sıfatıyla temyiz talep eden …’ı]  ilgilendiren ve aynı mahiyette olan 53813 sayılı işbu dosyanın da sözü edilen (53815 sayılı) dosya ile BİRLEŞTİRİLEREK gereği yapılmak üzere hükmü veren DAİREYE GÖNDERİLMESİNE,  oy birliğiyle,
+
+Karar verildiği 18.09.2024 tarih ve 57151 sayılı tutanakta yazılı olmakla işbu ilam tanzim kılındı.
