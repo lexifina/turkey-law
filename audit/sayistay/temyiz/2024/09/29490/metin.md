@@ -1,0 +1,15 @@
+Konu: Dekana vekalet halinde idari görev ödeneği ödenmesi ve ek ödemesinin hatalı yapılması.
+
+2- 201 sayılı Ek İlamın 9. maddesiyle; Mühendislik-Mimarlık Fakültesi Dekanlığı görevini vekaleten yürüten …’a, vekalet ettiği dönemde dekanlık için belirlenen ödemelerin yapıldığı gerekçesiyle … TL’nin tazminine ilişkin hüküm tesis edilmiştir. {***110 sayılı (Asıl) İlamın 10. maddesiyle de aynı konu hakkında tazmin hükmü verilmiş, bu hükme karşı yapılan temyiz başvurusu üzerine Sayıştay Temyiz Kurulunun 02.11.2022 tarihli ve 52447 tutanak sayılı Kararı (2. maddesi) ile “asaleten atanma şartlarını haiz olan ve müdürlük/dekanlık görevini Kanunda belirtilen usuller dâhilinde vekaleten yürüten öğretim üyelerine vekalet görevi süresince, asaleten atanacak müdüre/dekana yapılması mümkün olan mali hakların ödenmesinde mevzuata aykırılık bulunmadığı” gerekçesiyle belirtilen bu hususların tekrar değerlendirilmesini teminen hükmün BOZULARAK dosyanın ilgili DAİREYE GÖNDERİLMESİNE (REF GEREKÇELİ BOZMA) oy çokluğuyla karar verilmiş, ancak Sayıştay 8. Dairesi kararında direnerek (ısrar ederek) 201 sayılı Ek İlamın 9. maddesiyle yeniden aynı tutar için işbu tazmin hükmünü vermiştir.***}
+
+Yukarıda adı geçen sorumlu (…), (aynı ek ilam maddesi ile ilgili olarak temyiz talep eden diğer sorumlunun aşağıda kendi gündem sırasında görüşülen dosyasındaki temyiz dilekçesinde de tamamen aynı mahiyette olmak üzere) temyiz dilekçesinde özetle; Ek İlamın 8. maddesine yönelik hususları bu kez işbu ilam maddesi açısından aynen dile getirmiştir.
+
+Başsavcılık mütalaası da, Ek İlamın 8. maddesine yönelik yukarıda belirtilen Başsavcılık mütalaası ile tamamen aynıdır.
+
+Dosyada mevcut belgelerin okunup incelenmesinden sonra,
+
+GEREĞİ GÖRÜŞÜLDÜ:
+
+Ek ilam hükmünün içeriği (dekana vekâlette vekâlet edilen kadronun mali haklarının ödenmesi), yukarıda işbu Temyiz Kurulu İlamının 1. maddesindeki Ek İlamın 8. maddesi ile aynı olduğundan; önceki (02.11.2022 tarihli ve 52447 tutanak sayılı) Temyiz Kurulu Kararımızda (2. maddesi) da ifade edildiği gibi bahse konu öğretim üyesine yürüttüğü dekan vekilliği nedeniyle dekana yapılan ödemelerin yapılmış olması, 5018 sayılı Kamu Mali Yönetimi ve Kontrol Kanununun 71’inci maddesi kapsamında kamu zararına sebebiyet vermediğinden; temyiz talebinde bulunan sorumlunun iddia ve itirazlarının kabul edilerek 201 sayılı Ek İlamın 9. maddesiyle verilen … TL’nin tazminine ilişkin hükmün 6085 sayılı Sayıştay Kanunu’nun 55’inci maddesinin yedinci fıkrası uyarınca BOZULMASINA ve yukarıda belirtilen hususların tekrar değerlendirilmesini teminen yeni hüküm tesisi için dosyanın hükmü veren DAİREYE GÖNDERİLMESİNE, (Üye …’in konunun esası yönünden yukarıda işbu Temyiz Kurulu İlamının 1. maddesinde aynı konu hakkındaki Ek İlamın 8. maddesine yönelik yazılı ilave görüşüyle), (Üye …, Üye …, Üye …, Üye … ve Üye …’ın işbu Temyiz Kurulu İlamının 1. maddesinde Ek İlamın 8. maddesine yönelik Ek İlamın 8. maddesine yönelik yazılı azınlık görüşlerine karşı) oy çokluğuyla,
+
+Karar verildiği 18.09.2024 tarih ve 57150 sayılı tutanakta yazılı olmakla işbu ilam tanzim kılındı.
