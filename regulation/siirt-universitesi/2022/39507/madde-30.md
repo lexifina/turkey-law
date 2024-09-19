@@ -1,0 +1,4 @@
+Tez danışmanı ve tez çalışması
+MADDE 30- (1) Her öğrenci için tez danışmanı en geç birinci yarıyılın sonuna kadar; öğrencinin danışmanıyla beraber belirleyeceği tez konusu ise en geç ikinci yarıyılın sonuna kadar yüksek lisans tez konusu/adı önerisi veya değişikliği anabilim dalı başkanlığı tarafından enstitüye bildirilir. Tez danışmanı ile tez konusu önerisi, enstitü yönetim kurulunun kararı ile kesinleşir.
+(2) Danışmanın çekilme talebi ya da öğrencinin danışman değişikliğine ilişkin gerekçeli talebinin anabilim dalı/anasanat kurulunca değerlendirilip enstitüye teklifi ve enstitü yönetim kurulunca bu teklifin kabul edilmesi halinde, öğrenciye yeni bir danışman atanır.
+(3) Tez aşamasında konu ve/veya ad değişikliği söz konusu olması halinde danışmanın veya savunma sınavında ise jürisinin kararıyla belirlenen yeni tez konusu ve/veya adı ilgili form doldurularak anabilim dalı başkanlığının teklifiyle enstitüye sunulur ve enstitü yönetim kurulunca karara bağlanır.

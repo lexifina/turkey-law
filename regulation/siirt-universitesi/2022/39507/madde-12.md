@@ -1,0 +1,12 @@
+Tezli ve tezsiz yüksek lisans programlarına başvuru
+MADDE 12- (1) (Değişik:RG-19/9/2024-32667)(1) Tezli yüksek lisans programlarına başvuracak adayların anabilim/anasanat dalı başkanlığınca ve enstitü yönetim kurulu tarafından onaylanan bir bilim ya da sanat dalında lisans derecesine ve başvurduğu programın puan türünde 55 puandan az olmamak üzere ilgili ilanda belirtilen ALES puanına sahip olmaları gerekir. Tezsiz yüksek lisans programlarına başvurularda adayların, lisansüstü program ile ilgili bir lisans diplomasına sahip olması yeterlidir.
+(2) ALES belgesi geçerlilik süresi içinde olmalıdır.
+(3) Sağlık Bilimleri Enstitüsü hariç, adaylardan yüksek lisans derecesi ile doktoraya başvuranların yüksek lisans mezuniyet not ortalamasının 100 üzerinden en az 75 puan veya 4,00 üzerinden en az 2,50 puan olması gerekir.
+(4) Konservatuvar programları ile güzel sanatlar fakültelerinin sadece özel yetenek sınavı ile öğrenci kabul eden programlarının enstitülerdeki anasanat ve anabilim dallarındaki öğretim dili Türkçe olan programlarına başvurularda devlet hastanesi veya devlet üniversitesi hastanesinden alınmış sağlık raporu ile belgelenmesi şartıyla,
+a) Düzeltilmemiş engeli en az %70 veya düzeltilmiş engeli en az %40 ve üzeri olan işitme engelli adaylarda,
+b) Engel düzeyi %50 ve üzeri olmak üzere zihin yetersizliği bulunan engelli adaylarda,
+c) Engel düzeyi %40 ve üzeri yaygın gelişimsel bozukluk (otizm spektrum bozukluğu/çocukluk otizmi/atipik otizm, rett sendromu, asperger sendromu) tanısı bulunan engelli adaylarda,
+yabancı dil puanı aranmaz. Bu adaylar yabancı dil puanı olarak Üniversite tarafından aranan yabancı dil taban puanı şartını sağlamış sayılır.
+(5) Tezli yüksek lisans programlarında yabancı dil aranıp aranmayacağı, aranacaksa hangi düzeyde yabancı dil bilgisi gerektiği, programı açan anabilim/anasanat dalı kurulunun önerisi üzerine enstitü yönetim kurulu tarafından karara bağlanarak Senatonun onayı ile kesinleşir ve ilan edilir. Adaylar, YÖK tarafından kabul edilen merkezi yabancı dil sınavları ile eşdeğerliği kabul edilen uluslararası yabancı dil sınavından Senatonun belirlediği puanı almak zorundadırlar.
+(6) Tezsiz yüksek lisans programlarında yabancı dil şartı aranmaz.
+(7) Enstitüler için yüksek lisans bilim alanı bir yabancı dille ilgili olan programlarda öğrenim görecek öğrenciler, yabancı dilde ÖSYM tarafından düzenlenen yabancı dil sınavlarından 100 üzerinden en az 80 veya ÖSYM tarafından eşdeğerliği kabul edilen uluslararası yabancı dil sınavlarından eşdeğer puanı almak zorundadırlar.

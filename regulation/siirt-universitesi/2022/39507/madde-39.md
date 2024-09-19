@@ -1,0 +1,4 @@
+Süre
+MADDE 39- (1) Doktora programı, bilimsel hazırlıkta geçen süre hariç tezli yüksek lisans derecesi ile kabul edilenler için, kayıt olduğu programa ilişkin derslerin verildiği dönemden başlamak üzere, her dönem için kayıt yaptırıp yaptırmadığına bakılmaksızın sekiz yarıyıl olup (üç yarıyıl ders, beş yarıyıl tez) azami tamamlama süresi on iki yarıyıldır.
+(2) Kredili dersleri başarıyla tamamlamanın azami süresi, tezli yüksek lisans derecesi ile kabul edilenler için dört yarıyıldır. Bu süre içinde kredili derslerini başarıyla tamamlayamayan veya Üniversitenin öngördüğü en az genel not ortalamasını sağlayamayan öğrencinin enstitü ile ilişiği kesilir.
+(3) Doktora programı için kredili derslerini başarıyla bitiren, yeterlik sınavında başarılı olan ve tez önerisi kabul edilen, ancak tez çalışmasını birinci fıkrada belirtilen on iki yarıyıl sonuna kadar tamamlayamayan öğrencinin Üniversite ile ilişiği kesilir.

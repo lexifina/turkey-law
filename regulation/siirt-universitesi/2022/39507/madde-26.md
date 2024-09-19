@@ -1,0 +1,3 @@
+Sınav sonuçlarına itiraz
+MADDE 26- (Değişik:RG-19/9/2024-32667)(1)
+(1) Öğrenci, sınavların sayısal notlarındaki maddi hatanın düzeltilmesi için sınav sonucunun ilanını takip eden en geç beş iş günü içinde bağlı bulunduğu anabilim/anasanat dalı başkanlığına yazılı olarak başvurabilir. Bu başvuru anabilim/anasanat dalı başkanlığı aracılığı ile ilgili öğretim üyesine yeniden değerlendirmek üzere iletilir. Değerlendirme sonucu anabilim/anasanat dalı başkanlığınca enstitüye bildirilen not değişikliği talebi ivedi olarak Öğrenci İşleri Daire Başkanlığına gönderilir, Daire Başkanlığı tarafından not düzeltme işlemi yapılır. Aynı durum öğretim üyesi tarafından verilen not düzeltme talebi için de geçerlidir.

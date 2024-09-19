@@ -1,0 +1,3 @@
+Tez danışmanı atanması
+MADDE 40- (1) Enstitü anabilim/anasanat dalı başkanlığı her öğrenci için kendi Üniversite kadrosunda bulunan bir tez danışmanını ve danışmanla öğrencinin birlikte belirleyeceği tez konusu ile tez başlığını ilgili enstitüye önerir. Tez danışmanı ve tez önerisi enstitü yönetim kurulu kararıyla kesinleşir. Tez danışmanı birinci yarıyılda atanır ancak tez danışmanının, en geç ikinci yarıyılın sonuna kadar atanması zorunludur.
+(2) Danışmanın çekilme talebi ya da öğrencinin danışman değişikliğine ilişkin gerekçeli talebinin anabilim dalı/anasanat kurulunca değerlendirilip enstitüye teklifi ve enstitü yönetim kurulunca bu teklifin kabul edilmesi halinde, öğrenciye yeni bir danışman atanır.

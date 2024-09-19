@@ -1,0 +1,4 @@
+Süre
+MADDE 48- (1) Sanatta yeterlik, bilimsel hazırlıkta geçen süre hariç tezli yüksek lisans derecesi ile kabul edilenler için kayıt olduğu programa ilişkin derslerin verildiği dönemden başlamak üzere, her dönem için kayıt yaptırıp yaptırmadığına bakılmaksızın sekiz yarıyıl olup azami tamamlama süresi on iki yarıyıldır.
+(2) Sanatta yeterlik programı için kredili dersleri başarıyla tamamlamanın azami süresi tezli yüksek lisans derecesi ile kabul edilenler için dört yarıyıldır. Bu süre içinde kredili derslerini başarıyla tamamlayamayan veya Üniversitenin öngördüğü en az genel not ortalamasını sağlayamayan öğrencinin Üniversite ile ilişiği kesilir.
+(3) Kredili derslerini ve uygulamalarını başarı ile bitiren, ancak tez, sergi, proje, resital, konser, temsil gibi çalışmalarını birinci fıkrada belirtilen azami on iki yarıyıl sonuna kadar tamamlayamayan öğrencinin Üniversite ile ilişiği kesilir.
