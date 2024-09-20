@@ -1,0 +1,21 @@
+{
+  "record_type": "parliament-written-question",
+  "term": 28,
+  "legislative_year": 2,
+  "esas_no": "7/16518",
+  "submitted": "2024-09-20",
+  "submitted_as": "Başkanlığa geliş tarihi",
+  "mp": "Gülüstan KILIÇ KOÇYİĞİT",
+  "province": "Kars",
+  "summary": "Kars'ta sunulan sağlık hizmetine ilişkin",
+  "status": "Süresi Geçtikten Sonra Cevaplandı",
+  "status_as_of": "2026-11-16",
+  "official_record": "https://www.tbmm.gov.tr/Denetim/Yazili-Soru-Onergesi-Detay/d3231566-54cc-4ae6-8bf3-01921e0e530b",
+  "source": "https://tbmm.gov.tr/Denetim/YaziliSoruOnergesiTable",
+  "source_form": "https://tbmm.gov.tr/Denetim/Yazili-Soru-Onergeleri",
+  "source_sha256": "3a8aec64fac50914d520ef406a4483c82ec48b512a00b1482e111f6b3c7798fc",
+  "in_force": "2024-09-20",
+  "in_force_basis": "Date the question reached the Speaker (Başkanlığa geliş tarihi) in the official TBMM written-question record; parliamentary oversight record, not law",
+  "history_type": "metadata",
+  "text_status": "metadata-only: question text, addressee and answers are in the linked official record (PDFs on cdn.tbmm.gov.tr); not transcribed here"
+}
