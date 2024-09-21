@@ -1,0 +1,4 @@
+Geçiş hükümleri
+GEÇİCİ MADDE 1 – (Ek:RG-9/10/2020-31269)
+(1) Bu maddenin yayımı tarihinden önce kuruluşuna izin verilen fonların en geç 31/12/2020 tarihi itibarıyla 33 üncü maddenin birinci fıkrası hükmüne uyum sağlamaları zorunludur.
+(2) Bu maddenin yayımı tarihi itibarıyla ihraç belgeleri onaylanan fonların ihraç belgelerinde performans ücretinin fondan veya katılma payı sahiplerinden tahsil edildiğine ilişkin bilgiye yer verilerek, mevcut durumda ihraç belgelerinde yer alan performans ücreti hesaplamaları, kurucular tarafından ihraç belgesi metinlerinden çıkarılıp 24 üncü maddenin ikinci ve üçüncü fıkraları kapsamında gerekli işlemler tesis edilir. Söz konusu ihraç belgesi değişiklikleri için Kurul onayı aranmaz. İhraç belgesinde yapılan söz konusu değişiklikler 31/12/2020 tarihine kadar katılma pay sahiplerine en uygun haberleşme vasıtasıyla bildirilir.

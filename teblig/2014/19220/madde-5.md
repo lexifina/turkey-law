@@ -1,0 +1,4 @@
+Fonun malvarlığı
+MADDE 5 – (1) Fonun malvarlığı, kurucunun, portföy saklayıcısının ve portföy yöneticisinin malvarlığından ayrıdır.
+(2) (Değişik:RG-21/9/2024-32669) Fon mal varlığı; fon hesabına olması ve içtüzükte hüküm bulunması şartıyla kredi alınması, finansman sağlanması, koruma amaçlı türev araç işlemleri yapılması veya fon adına taraf olunan benzer nitelikteki işlemlerde bulunması amacı haricinde teminat gösterilemez ve rehnedilemez. Fon mal varlığı kurucunun ve portföy saklayıcısının yönetiminin veya denetiminin kamu kurumlarına devredilmesi hâlinde dahi başka bir amaçla tasarruf edilemez, kamu alacaklarının tahsili amacı da dâhil olmak üzere haczedilemez, üzerine ihtiyatî tedbir konulamaz ve iflas masasına dâhil edilemez.
+(3) Kurucunun ve/veya portföy yöneticisinin üçüncü kişilere olan borçları ve yükümlülükleri ile fonların aynı üçüncü kişilerden olan alacakları birbirlerine karşı mahsup edilemez.
