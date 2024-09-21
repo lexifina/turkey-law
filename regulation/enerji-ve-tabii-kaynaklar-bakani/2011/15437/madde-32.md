@@ -1,0 +1,8 @@
+ONUNCU BÖLÜM
+Bilgi Verme Yükümlülüğü ve İdari Yaptırımlar
+Bilgi verme yükümlülüğü
+MADDE 32 – (1) (Değişik:RG-6/7/2022-31888) Ticari binalar, kamu ve hizmet binaları, endüstriyel işletmeler, elektrik üretim tesisleri ve organize sanayi bölgeleri, 9/A maddesi kapsamında bildirimlerini her yıl Mart ayı sonuna kadar Bakanlığa iletir.
+(2) (Değişik:RG-6/7/2022-31888) Birinci fıkra kapsamında iletilen bilgilerin doğruluğunun tespiti amacıyla enerji yöneticisi görevlendirilmesi, enerji yönetim birimi kurulması ve 8 inci madde kapsamında tanımlanan enerji yönetimi ile ilgili faaliyetlerin yerine getirilmesi ile ilgili olarak Bakanlığın yerinde yapacağı denetleme ve incelemeler için talep edilen her türlü bilgi ve belgeyi vermek ve gereken şartları sağlamak zorunludur.
+(3) (Değişik:RG-25/1/2020-31019) Bakanlık enerji verimliliği faaliyetleri çerçevesinde ilgili kurum ve kuruluşlardan ilave bilgi ve belge talep edebilir, ortak çalışmalar yürütür.
+(4) Türk Silahlı Kuvvetleri, Milli Savunma Bakanlığı ve bağlı kuruluşları ve Milli İstihbarat Teşkilatı (Değişik ibare:RG-25/1/2020-31019) Başkanlığı, 9 uncu maddenin beşinci fıkrası uyarınca yapacakları bildirimler kapsamında, emniyet ve güvenlik açısından verilmesi uygun görülmeyen bilgileri vermek zorunda değildir.
+(5) (Ek:RG-6/7/2022-31888) Yıllık toplam enerji tüketimi beş yüz TEP ve üzeri olan, bir veya birden fazla merkezde ısı üretimi gerçekleştirerek birden fazla binaya ısı dağıtımını sağlayan ısıtma/soğutma şebeke yönetimleri, Bakanlık tarafından belirlenen formata uygun olarak her yıl Mart ayı sonuna kadar Bakanlığa bildirimde bulunur.

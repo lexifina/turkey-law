@@ -1,0 +1,8 @@
+Destek programlarının yürütülmesi
+MADDE 16- (Değişik:RG-21/9/2024-32669)
+(1) Bu Yönetmelik kapsamında destek programlarına ilişkin başvuru, değerlendirme, uygulama ve ödeme süreçleri ile ilgili diğer hususlar Bakanlık tarafından hazırlanan usul ve esaslar çerçevesinde yürütülür. Başvuru kriterleri ve/veya başvuru tarihleri Bakanlık internet sayfası üzerinden ilan edilir.
+(2) Başvuru sahibi tarafından enerji verimliliğini artırmak amacıyla hazırlanan projeler, ödenek imkanları göz önüne alınmak ve onbeşmilyon Türk lirasını geçmemek kaydıyla bedellerinin en fazla yüzde otuzu oranında desteklenir. Bu kapsamdaki destekler hibe veya faiz desteği şeklinde verilir.
+(3) Enerji ve/veya karbon yoğunluğunu veya spesifik enerji tüketimini Bakanlığın belirlediği kriterler çerçevesinde azaltan başvuru sahiplerine, ödenek imkanları göz önüne alınmak ve onmilyon Türk lirasını geçmemek kaydıyla, kriterlerde belirlenen yıla ait enerji giderinin en fazla yüzde otuzu oranında destek ödemesi yapılır.
+(4) İkinci ve üçüncü fıkrada yer alan destek bedelleri her yıl, bir önceki yıla ilişkin olarak 4/1/1961 tarihli ve 213 sayılı Vergi Usul Kanununun mükerrer 298 inci maddesi hükümleri uyarınca tespit ve ilan edilen yeniden değerleme oranında, takvim yılı başından geçerli olmak üzere artırılır.
+(5) Cari yıl içinde yapılacak destek ödemelerinde, önceki yıllardan kalan destek ödemeleri öncelikle ödenir. Ödemede gecikme olması durumunda herhangi bir hak ve faiz talebinde bulunulamaz.
+(6) Herhangi bir destek programına başvuru yapılmış olması, Bakanlığı taahhüt altına sokmadığı gibi müracaat edene de bir hak kazandırmaz.

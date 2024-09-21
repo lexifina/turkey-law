@@ -1,0 +1,4 @@
+Elektrik enerjisi ve güç talebinin azaltılması
+MADDE 22 – (1) Elektrik piyasasında faaliyet gösteren (Değişik ibare:RG-25/1/2020-31019) tedarik şirketleri ve organize sanayi bölge müdürlükleri abonelerinin elektrik enerjisi ve güç taleplerinin azaltılmasına yönelik olarak aşağıdaki konularda çalışmalar yapar:
+a) Tüketimleri yüksek olan sanayi ve ticarethane abone gruplarının kesintili enerji programlarına katılması veya yüklerini gerektiğinde diğer zaman dilimlerine kaydırması için bu aboneler ile gönüllülük esasına dayalı anlaşma yapılması,
+b) Üretici şirketler veya bunlar adına dernek veya birlikleri ile işbirliği yaparak, klimalar, buzdolapları ve lambalar veya ampuller öncelikli olmak üzere piyasada mevcut yüksek enerji verimli elektrikli ev aletlerinin kullanımının yaygınlaştırılması ile ilgili kampanyalar düzenlenmesi.

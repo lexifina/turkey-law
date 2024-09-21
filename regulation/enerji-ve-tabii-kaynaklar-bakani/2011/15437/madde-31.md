@@ -1,0 +1,3 @@
+Kamu kesimine ait bina ve işletmelerde enerji verimliliğinin artırılması için alınabilecek öncelikli tedbirler
+MADDE 31 – (Değişik:RG-25/1/2020-31019)
+(1) Kamu kesimine ait bina ve işletmelerde enerji verimliliğini artırmak amacıyla Bakanlık tarafından belirlenen Kamu Binalarında Tasarruf Hedefi ve Uygulama Rehberinde yer alan tedbirler uygulanır. Ancak, anılan uygulama rehberinde belirtilen uygulamalardan Milli Savunma Bakanlığı ile bağlı ve ilgili kuruluşlarının, Milli İstihbarat Teşkilatı Başkanlığı ile bağlı ve ilgili kuruluşlarının ve Bakanlığın uygun göreceği diğer kurum ve kuruluşlar bu maddede tanımlanan yükümlülüklerden muaf tutulur.
