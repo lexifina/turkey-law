@@ -1,0 +1,3 @@
+Araştırma geliştirme fonları kapsamındaki mal ve hizmet alımları
+MADDE 44 – (Değişik:RG-23/9/2024-32671)
+(1) 42 nci maddenin birinci fıkrasının (g) bendi kapsamında belirlenen limitlere kadar olan alımlar hariç kamu kurum ve kuruluşları ile uluslararası kuruluşların araştırma ve geliştirme projeleri için sağladıkları fonlar çerçevesinde yapılacak mal ve hizmet alımları, Üniversitenin faaliyet alanı içerisinde kalmak kaydı ile fonun tahsis amacı ve miktarı esas alınarak fon sağlayan kurum/kuruluş ile yapılan protokol çerçevesinde belirlenecek usule göre gerçekleştirilir. Protokolde mal ve hizmet alımlarına ilişkin hüküm bulunmaması halinde bu Yönetmelik hükümleri uygulanır.
