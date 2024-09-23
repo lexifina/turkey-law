@@ -1,0 +1,3 @@
+Diğer üniversitelerden ders alma
+MADDE 25 – (1) Diğer üniversitelerden ders almak isteyen öğrenci yarıyıl başlamadan önce eşdeğerlik alınması talebiyle bölümüne başvurur. Herhangi bir dersin eşdeğerliği konusunda ilgili bölüm kurulunun önerisi ile ilgili birimin yönetim kurulu karar verir. İlgili yönetim kurulu kararı ile alınan derslerin notları bir sonraki yarıyılın ders kayıt yenileme süresi sonuna kadar transkriptine işlenir.
+(2) Diğer üniversitelerden alınan derslerin notları, 27 nci maddeye göre, rakamlı not ise puanlar, harf notu ise katsayılar esas alınarak değerlendirilir. Değerlendirmede, diğer üniversitelerden alınan notlar Üniversitenin not aralıklarına göre dönüştürülerek alınan karar öğrencinin transkriptine işlenir.

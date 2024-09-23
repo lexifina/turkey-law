@@ -1,0 +1,20 @@
+Tanımlar
+MADDE 4 – (1) Bu Yönetmelikte geçen;
+a) AKTS: Öğrencilerin yurt içinde ve yurt dışında aldıkları ve başarılı oldukları ders kredilerinin ve notlarının bir yükseköğretim kurumundan diğerine transferini sağlayan Avrupa Kredi Transfer Sistemini,
+b) Danışman: Öğrenciye eğitim-öğretim, ders alma, mezuniyet işlemleri ve benzeri konularda yardımcı olması için görevlendirilmiş öğretim elemanını,
+c) Fakülte: Tıp Fakültesi ve Diş Hekimliği Fakültesi hariç Bolu Abant İzzet Baysal Üniversitesine bağlı fakülteleri,
+ç) İlgili birim: Fakülte bazlı programlarda öğrencinin bağlı olduğu fakülteyi, bölüm bazlı programlarda öğrencinin bağlı olduğu bölümü, anabilim/anasanat dalı bazlı programlarda öğrencinin bağlı olduğu anabilim/anasanat dalını,
+d) İlgili kurul: Bolu Abant İzzet Baysal Üniversitesine bağlı fakültelerde fakülte kurulunu, yüksekokullarda ve meslek yüksekokullarında yüksekokul kurulunu,
+e) İlgili yönetim kurulu: Bolu Abant İzzet Baysal Üniversitesine bağlı fakülte/yüksekokul/meslek yüksekokulu yönetim kurulunu,
+f) Meslek Yüksekokulu: Bolu Abant İzzet Baysal Üniversitesine bağlı meslek yüksekokullarını,
+g) ÖİDB: Öğrenci İşleri Daire Başkanlığını,
+ğ) Ön şart dersi: Bir dersin alınabilmesi için başarılmış olması gereken dersi,
+h) ÖSYM: Ölçme, Seçme ve Yerleştirme Merkezi Başkanlığını,
+ı) Rektör: Bolu Abant İzzet Baysal Üniversitesi Rektörünü,
+i) Rektörlük: Bolu Abant İzzet Baysal Üniversitesi Rektörlüğünü,
+j) Senato: Bolu Abant İzzet Baysal Üniversitesi Senatosunu,
+k) Üniversite: Bolu Abant İzzet Baysal Üniversitesini,
+l) Üniversite Yönetim Kurulu: Bolu Abant İzzet Baysal Üniversitesi Yönetim Kurulunu,
+m) YÖK: Yükseköğretim Kurulu Başkanlığını,
+n) Yüksekokul: Bolu Abant İzzet Baysal Üniversitesine bağlı yüksekokulları,
+ifade eder.

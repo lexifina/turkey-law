@@ -1,0 +1,6 @@
+Ders yükü
+MADDE 23 – (1) Ders yükü; diploma programının bölüm ve fakülte/yüksekokul/meslek yüksekokulu kurulu önerisi ile Senato tarafından onaylanan öğretim planında, 21 inci maddede tanımlanan kredi değeri (AKTS) olarak belirtilir.
+(2) (Değişik:RG-17/9/2022-31956)(1) Bir öğrencinin her dönemde alabileceği normal ders yükü, diploma programının Senato tarafından onaylanan öğretim planındaki her bir dönem için belirlenen AKTS toplamı kadardır. Önlisans programlarında staj buna dâhil değildir.
+(3) Lisans programlarında birinci ve ikinci dönem hariç genel ağırlıklı not ortalaması en az 2.00 ve daha fazla olan öğrencilerin ders yükü, kendi istekleri ve danışmanının onayı ile en fazla 15 AKTS arttırılabilir. 12 nci ve 13 üncü maddeler kapsamına giren öğrenciler için bu sınır ilgili yönetim kurulu kararı ile aşılabilir.
+(4) Önlisans programlarında öğrencilerin ders yükü, birinci ve ikinci dönem hariç kendi istekleri ve danışmanının onayı ile en fazla 15 AKTS arttırılabilir. Bu Yönetmeliğin 12 nci ve 13 üncü maddeleri kapsamına giren öğrenciler için bu sınır ilgili yönetim kurulu kararı ile aşılabilir.
+(5) Öğrencinin mazeretsiz olarak ders almadan geçirdiği dönem, eğitim süresinden sayılır.

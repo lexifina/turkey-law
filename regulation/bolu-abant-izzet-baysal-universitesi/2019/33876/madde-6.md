@@ -1,0 +1,2 @@
+Yatay geçişler
+MADDE 6 – (1) Üniversitenin fakülte/yüksekokul/meslek yüksekokullarında kurum içi, kurum dışı ve merkezi yerleştirme puanı ile yatay geçişler, 24/4/2010 tarihli ve 27561 sayılı Resmî Gazete’de yayımlanan Yükseköğretim Kurumlarında Önlisans ve Lisans Düzeyindeki Programlar Arasında Geçiş, Çift Anadal, Yan Dal ile Kurumlar Arası Kredi Transferi Yapılması Esaslarına İlişkin Yönetmelik hükümleri ile Senato tarafından belirlenen Bolu Abant İzzet Baysal Üniversitesi Yatay Geçiş Yönergesine uygun şekilde yapılır.

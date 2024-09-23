@@ -1,0 +1,2 @@
+Öğrenci danışmanlığı
+MADDE 8 – (1) Bölüm başkanlıklarınca öğrencilerin ders seçimlerinde yardımcı olup, yönlendirmek, ders kayıtlarını onaylamak, eğitim öğretim ve yükseköğretim amaç ve ilkeleri doğrultusunda yol gösterip, rehberlik etmek üzere bölüm öğretim elemanları arasından yeterli sayıda danışman görevlendirilir. Öğrenci danışmanlarına ilişkin diğer hususlar Senato tarafından çıkarılacak yönerge ile belirlenir.

@@ -1,0 +1,4 @@
+Çift anadal programı
+MADDE 13 – (1) Öğrenciler, Üniversitede yürütülen önlisans diploma programları ile diğer önlisans programları arasında, lisans programları ile diğer lisans programları veya önlisans programları arasında ilgili bölümlerin ve fakülte/yüksekokul kurullarının önerisi üzerine Senatonun onayı ile açılan çift anadal programlarına kayıt yaptırabilirler.
+(2) Çift anadal programını başarıyla tamamlayan öğrencilere, kayıtlı oldukları lisans programı diplomasına ek olarak çift anadal lisans diploması da verilir.
+(3) Çift anadal programına ilişkin diğer hususlar, Yükseköğretim Kurumlarında Önlisans ve Lisans Düzeyindeki Programlar Arasında Geçiş, Çift Anadal, Yan Dal ile Kurumlar Arası Kredi Transferi Yapılması Esaslarına İlişkin Yönetmelik ve bu Yönetmelik çerçevesinde Senato tarafından çıkarılacak yönerge ile belirlenir.
