@@ -1,0 +1,26 @@
+Tanımlar
+MADDE 4 – (1) Bu Yönetmelikte geçen;
+a) Akademik danışman: İbn Haldun Üniversitesine bağlı enstitülerde kayıtlı öğrenciye ders ve tez çalışması dönemlerinde rehberlik etmek üzere Enstitü Yönetim Kurulu tarafından atanan öğretim elemanını,
+b) AKTS: Avrupa Kredi Transfer Sistemini,
+c) ALES: Akademik Personel ve Lisansüstü Eğitimi Giriş Sınavını,
+ç) Anabilim dalı: İbn Haldun Üniversitesine bağlı enstitülerde eğitim programı bulunan anabilim dalını,
+d) Doktora yeterlik komitesi: Enstitü anabilim dalı başkanının önerisi ve enstitü yönetim kurulunun onayı ile kurulan, Üniversitenin öğretim üyeleri içinden seçilen üç veya beş üyeden oluşan, doktora yeterlik sınavlarını belirleyen komiteyi,
+e) Enstitü: İbn Haldun Üniversitesindeki ilgili enstitüyü,
+f) Enstitü Kurulu (EK): İbn Haldun Üniversitesindeki ilgili enstitü kurulunu,
+g) Enstitü Yönetim Kurulu (EYK): İbn Haldun Üniversitesindeki ilgili enstitünün yönetim kurulunu,
+ğ) İkinci tez danışmanı: Tez çalışmasının niteliğinin gerektirdiği durumlarda atanan ikinci tez danışmanını,
+h) İntihal: Başkalarının fikirlerini, metotlarını, verilerini veya eserlerini bilimsel kurallara uygun biçimde atıf yapmadan kısmen veya tamamen kendi eseri gibi göstermeyi,
+ı) GNO: Genel not ortalamasını,
+i) Lisansüstü: Yüksek lisans ve doktorayı,
+j) MERNİS: Merkezi Nüfus İdaresi Sistemini,
+k) (Değişik:RG-23/9/2024-32671) Proje danışmanı: Enstitüye kayıtlı öğrencinin mezuniyet projesini yürütmek üzere EYK tarafından atanan öğretim elemanını,
+l) Rektör/Rektörlük: İbn Haldun Üniversitesi Rektörünü/Rektörlüğünü,
+m) Tez: Yüksek lisans ve doktora tezini,
+n) Tez danışmanı: Enstitüye kayıtlı öğrencinin tez çalışmalarını yürütmek üzere EYK tarafından atanan öğretim üyesini,
+o) Üniversite: İbn Haldun Üniversitesini,
+ö) Yabancı Diller Yüksek Okulu: İbn Haldun Üniversitesi Yabancı Diller Yüksekokulunu,
+p) YNO: Yarıyıl not ortalamasını,
+r) YÖK: Yükseköğretim Kurulunu,
+ifade eder.
+İKİNCİ BÖLÜM
+Lisansüstü Programlarına İlişkin İlan, Başvuru,

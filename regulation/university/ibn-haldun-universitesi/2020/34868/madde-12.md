@@ -1,0 +1,5 @@
+Kayıt yenileme esasları
+MADDE 12 – (1) Öğrenci, her dönem başında akademik takvimde ilan edilen tarihlerde ders kaydını yaparak dönem kaydını yenilemek zorundadır. Belirtilen sürelerde kayıt yenilemeyenler, derslere ve sınavlara giremezler ve öğrencilik haklarından yararlanamazlar.
+(2) Derslerin ekleme ve bırakma işlemleri yarıyılın ilk iki haftası içerisinde yapılır. Öğrenciler bu süre zarfında daha önce (Değişik ibare:RG-23/9/2024-32671) seçtikleri derslerin bir kısmını bırakabilir veya yenilerini ekleyebilir. Daha önce kayıt yenileme işlemi yapmayanlar, bu sürede kayıtlarını yenileyebilirler.
+(3) Mazeretleri nedeniyle ilan edilen süreler içinde kayıt yenilemeyenler ile ders ekle-bırak süresinden sonra ders kayıtlarında değişiklik yapmak isteyen öğrencilerden, mazeretleri EYK tarafından kabul edilenlerin kayıtları veya ders kayıtları en geç derslerin başlamasını takip eden dördüncü haftanın son işgününe kadar yenilenebilir. (Mülga cümle:RG-23/9/2024-32671)
+(4) Öğrencinin izinsiz veya geçerli mazereti olmaksızın kayıt yaptırmadığı yarıyıl 2547 sayılı Kanunun 44 üncü maddesinde tanımlanan azami süre içinde değerlendirilir.

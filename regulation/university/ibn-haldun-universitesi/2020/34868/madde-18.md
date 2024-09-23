@@ -1,0 +1,5 @@
+Ders tekrarlanması, saydırılması ve muafiyeti
+MADDE 18 – (1) (Değişik:RG-23/9/2024-32671) Bir dersten muaf olmak isteyen öğrenciler için her dönem ders kayıtlarından önce Enstitü tarafından EYK kararı ile muafiyet sınavı düzenlenebilir. Bu sınavı başaran öğrenciler dersten muaf tutulur. Öğrenciler kayıtlı oldukları bir ders için aynı dönemde muafiyet sınavına giremezler. Bu şart dil derslerinde aranmaz. Dil dersleri için muafiyet sınavları aynı dönemde, dönem başında ve sonunda olmak üzere yapılabilir.
+(2) Öğrenciler IA, F veya U notu aldıkları zorunlu ve seçmeli dersleri tekrarlamak veya seçmeli derslerin yerine geçecek aynı seçmeli ders grubundan bir başka dersi almak zorundadır. Yeni dersten alınan not, IA, F veya U notunun yerine geçer ve ortalamaya sadece yeni not katılır. Ancak önceki IA, F veya U, not belgesinde gösterilir.
+(3) B, B-, C+, C alınmış olan dersler de tekrarlanabilir.
+(4) Aynı dönem içerisinde alınan derslerden biri, düşük not veya başarısızlıkla sonuçlanan bir başkası yerine sayılamaz. Daha önceki dönemlerde alınmış olan seçmeli dersin tekrarında hangi ders yerine alındığı ders kayıt sırasında belirtilmelidir.

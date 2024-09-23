@@ -1,0 +1,3 @@
+Sınavlara katılmama
+MADDE 20 – (1) (Değişik:RG-23/9/2024-32671) Yarıyıl sonu sınav/sınavlarına hastalık veya başka bir mazeretle katılamayan öğrenciler, mazereti gösteren rapor veya belgeler ile en geç sınav tarihinden sonraki beş iş günü içerisinde ilgili anabilim dalı aracılığıyla dersin öğretim elemanına başvurmak zorundadırlar. Mazereti kabul edilmeyen öğrencilerin, başvurmaları halinde itirazları anabilim dalı başkanlıkları tarafından değerlendirilir ve uygun bulunması halinde mazeret sınavı düzenlenir.
+(2) Ara sınavlara veya benzeri çalışmalara katılmayan öğrencilere uygulanacak işlem, dersin başlangıcında kendilerine duyurulmuş olması kaydıyla ilgili öğretim elemanınca belirlenir.
