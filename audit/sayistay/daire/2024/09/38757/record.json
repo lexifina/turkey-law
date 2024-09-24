@@ -1,0 +1,17 @@
+{
+  "kind": "decision",
+  "issuer": "Sayıştay 3. Dairesi",
+  "number": "497",
+  "decision_date": "2024-09-24",
+  "source_id": 38757,
+  "chamber": "3",
+  "ilam_number": "78",
+  "item_number": 1,
+  "public_body_type": "Yüksek Öğretim Kurumları",
+  "account_year": 2022,
+  "subject": "İhale Mevzuatı ile İlgili Kararlar",
+  "source": "https://www.sayistay.gov.tr/KararlarDaire/Detay/38757/",
+  "source_sha256": "8b0039d3b15cafad1dd27e6919fea9392b307d4723855671077ad2c31e15efa3",
+  "text_status": "metadata-only",
+  "metadata_only_reason": "possible personal name in the official text"
+}
