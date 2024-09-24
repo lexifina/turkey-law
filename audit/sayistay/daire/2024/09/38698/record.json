@@ -1,0 +1,17 @@
+{
+  "kind": "decision",
+  "issuer": "Sayıştay 3. Dairesi",
+  "number": "494",
+  "decision_date": "2024-09-24",
+  "source_id": 38698,
+  "chamber": "3",
+  "ilam_number": "322",
+  "item_number": 1,
+  "public_body_type": "Belediyeler ve Bağlı İdareler",
+  "account_year": 2018,
+  "subject": "Personel Mevzuatı ile İlgili Kararlar",
+  "source": "https://www.sayistay.gov.tr/KararlarDaire/Detay/38698/",
+  "source_sha256": "f62282e02404bdcb35a43df255fc02f1dd7cf9154a942eaabca7405a760bc185",
+  "text_status": "as-enacted",
+  "text_file": "metin.md"
+}
