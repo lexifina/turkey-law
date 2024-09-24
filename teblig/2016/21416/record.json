@@ -1,0 +1,51 @@
+{
+  "source_id": "9.5.21416",
+  "kind": "communique",
+  "register_kind": "Tebliğler",
+  "title": "TÜRKİYE-AVRUPA BİRLİĞİ KATILIM ÖNCESİ YARDIM ARACI (IPA II) ÇERÇEVE ANLAŞMASI GENEL TEBLİĞİ (SIRA NO:1)",
+  "number": "21416",
+  "path": "teblig/2016/21416",
+  "source": "https://www.mevzuat.gov.tr/anasayfa/MevzuatFihristDetayIframe?MevzuatTur=9&MevzuatNo=21416&MevzuatTertip=5",
+  "source_sha256": "4a94627bcfd49cd945dbcc0a9e40a2cd89387e5192a521a35d7385355031616f",
+  "source_bytes": 160413,
+  "published": "2016-02-13",
+  "gazette": "29623",
+  "in_force": "2024-09-24",
+  "in_force_basis": "latest Resmî Gazete date printed in the source amendment notes/table (\"RG-24/9/2024\") for the current consolidated text",
+  "date_evidence": [
+    [
+      "2024-09-24",
+      "RG-24/9/2024",
+      "Resmî Gazete date printed in the source amendment note"
+    ],
+    [
+      "2024-09-24",
+      "24/9/2024",
+      "Resmî Gazete date in the source amendment table"
+    ],
+    [
+      "2022-01-18",
+      "RG-18/1/2022",
+      "Resmî Gazete date printed in the source amendment note"
+    ],
+    [
+      "2018-05-26",
+      "RG-26/5/2018",
+      "Resmî Gazete date printed in the source amendment note"
+    ]
+  ],
+  "history": "current-text",
+  "label": "oldest version available",
+  "checked_on": "2026-11-15",
+  "word_count": 11580,
+  "text_status": "current-consolidated",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  },
+  "source_links": [
+    "9.5.21416-Ek.doc"
+  ],
+  "completeness": "html-text-complete; linked annexes not fetched"
+}
