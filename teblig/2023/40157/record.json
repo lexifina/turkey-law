@@ -1,0 +1,41 @@
+{
+  "source_id": "9.5.40157",
+  "kind": "communique",
+  "register_kind": "Tebliğler",
+  "title": "TÜRKİYE-AVRUPA BİRLİĞİ KATILIM ÖNCESİ YARDIM ARACI (IPA III) MALİ ÇERÇEVE ORTAKLIK ANLAŞMASI GENEL TEBLİĞİ (SIRA NO:1)",
+  "number": "40157",
+  "path": "teblig/2023/40157",
+  "source": "https://www.mevzuat.gov.tr/anasayfa/MevzuatFihristDetayIframe?MevzuatTur=9&MevzuatNo=40157&MevzuatTertip=5",
+  "source_sha256": "3f0d24bae062cdcf3c93eda8681e1ff3e07f2079350a84ecf1434d2a0f47b265",
+  "source_bytes": 188993,
+  "published": "2023-04-24",
+  "gazette": "32170",
+  "in_force": "2024-09-24",
+  "in_force_basis": "latest Resmî Gazete date printed in the source amendment notes/table (\"RG-24/9/2024\") for the current consolidated text",
+  "date_evidence": [
+    [
+      "2024-09-24",
+      "RG-24/9/2024",
+      "Resmî Gazete date printed in the source amendment note"
+    ],
+    [
+      "2024-09-24",
+      "24/9/2024",
+      "Resmî Gazete date in the source amendment table"
+    ]
+  ],
+  "history": "current-text",
+  "label": "oldest version available",
+  "checked_on": "2026-11-15",
+  "word_count": 12392,
+  "text_status": "current-consolidated",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  },
+  "source_links": [
+    "9.5.40157-EK.DOCX"
+  ],
+  "completeness": "html-text-complete; linked annexes not fetched"
+}
