@@ -1,0 +1,17 @@
+{
+  "kind": "decision",
+  "issuer": "Sayıştay 3. Dairesi",
+  "number": "496",
+  "decision_date": "2024-09-24",
+  "source_id": 38700,
+  "chamber": "3",
+  "ilam_number": "160",
+  "item_number": 1,
+  "public_body_type": "Belediyeler ve Bağlı İdareler",
+  "account_year": 2020,
+  "subject": "Personel Mevzuatı ile İlgili Kararlar",
+  "source": "https://www.sayistay.gov.tr/KararlarDaire/Detay/38700/",
+  "source_sha256": "d76711cf300837cac129f9c273d7d27b1ee96097fa37eb46987374dcfc6f7bd0",
+  "text_status": "as-enacted",
+  "text_file": "metin.md"
+}
