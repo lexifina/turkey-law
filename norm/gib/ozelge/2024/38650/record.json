@@ -1,0 +1,22 @@
+{
+  "kind": "norm",
+  "issuer": "Gelir İdaresi Başkanlığı",
+  "document_type": "ozelge",
+  "number": "85550353-125[2023]-13862",
+  "source_id": 38650,
+  "date": "2024-09-25",
+  "title": "İşitme Engelli Hekimlere Özel Olarak Üretilen Stetoskop İthali",
+  "source": "https://gib.gov.tr/mevzuat/kanun/436/ozelge/38650",
+  "related_law": "3065 sayılı KATMA DEĞER VERGİSİ KANUNU",
+  "source_api": "https://gib.gov.tr/api/gibportal/mevzuat/ozelge/list",
+  "source_listing": "evidence/list/2026-11-16/ozelge-p008.json",
+  "source_listing_sha256": "292c126217cc32c3ccfa57495ce433f89ef8db5e75fa1946d5819a76f81aff4d",
+  "source_sha256": "8a96d555f3a0fb06b371639f31b1cffd421509fd16fe58887b4cdaf39b1b621a",
+  "text_status": "as-enacted",
+  "text_file": "metin.md",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  }
+}
