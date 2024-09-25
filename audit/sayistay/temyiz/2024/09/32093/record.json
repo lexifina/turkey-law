@@ -1,0 +1,16 @@
+{
+  "kind": "decision",
+  "issuer": "Sayıştay Temyiz Kurulu",
+  "number": "57162",
+  "decision_date": "2024-09-25",
+  "source_id": 32093,
+  "chamber": "5",
+  "file_number": "53516",
+  "public_body_type": "Genel Bütçe Kapsamındaki İdareler",
+  "account_year": "2019",
+  "subject": "İhale Mevzuatı ile İlgili Kararlar",
+  "source": "https://www.sayistay.gov.tr/KararlarTemyiz/Detay/32093/",
+  "source_sha256": "1f36dca1bf94450f767451349f6996e93ee2c8cb4f0a52a1635db21c06150b47",
+  "text_status": "as-enacted",
+  "text_file": "metin.md"
+}
