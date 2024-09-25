@@ -1,0 +1,21 @@
+{
+  "record_type": "parliament-written-question",
+  "term": 28,
+  "legislative_year": 2,
+  "esas_no": "7/17413",
+  "submitted": "2024-09-25",
+  "submitted_as": "Başkanlığa geliş tarihi",
+  "mp": "Doğan BEKİN",
+  "province": "İstanbul",
+  "summary": "Şeker pancarı alım fiyatlarına ve ihracat kotasına ilişkin",
+  "status": "Süresi Geçtikten Sonra Cevaplandı",
+  "status_as_of": "2026-11-16",
+  "official_record": "https://www.tbmm.gov.tr/Denetim/Yazili-Soru-Onergesi-Detay/a5fca30c-3c34-45c7-84b8-01922d1db92b",
+  "source": "https://tbmm.gov.tr/Denetim/YaziliSoruOnergesiTable",
+  "source_form": "https://tbmm.gov.tr/Denetim/Yazili-Soru-Onergeleri",
+  "source_sha256": "d5e25d7502f7a0c5a3add2c31c5f692ba2419329fb7434836e4f0feb1a1c977c",
+  "in_force": "2024-09-25",
+  "in_force_basis": "Date the question reached the Speaker (Başkanlığa geliş tarihi) in the official TBMM written-question record; parliamentary oversight record, not law",
+  "history_type": "metadata",
+  "text_status": "metadata-only: question text, addressee and answers are in the linked official record (PDFs on cdn.tbmm.gov.tr); not transcribed here"
+}
