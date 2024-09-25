@@ -1,0 +1,3 @@
+Yürürlükten kaldırılan ve uygulanmayacak olan hükümler
+MADDE 15 – (1) 2/3/2011 tarihli ve 27862 sayılı Resmî Gazete’de yayımlanan Vergi Usul Kanunu Genel Tebliği (Sıra No: 406)’nin “3. Müşterilerin Kendilerine Servis Esasına Göre Yemek Hizmeti Verilen İşyerlerinde Belge Düzeni” başlıklı üçüncü bölümü yürürlükten kaldırılmıştır.
+(2) ÖKC (YN ÖKC dahil) uygulamaları ile ilgili olarak, bu Tebliğin yürürlük tarihinden önce yayınlanmış genel tebliğler ile GİB tarafından yayınlanmış olan teknik kılavuzlar ve GİB mesajlaşma ve harici donanım veya yazılımların ÖKC ile iletişimine ilişkin protokol dokümanlarında (GMP-1, GMP-2, GMP-3) yer alan açıklamaların bu Tebliğe aykırı olan hükümleri bu Tebliğin yürürlük tarihinden itibaren uygulanmaz.

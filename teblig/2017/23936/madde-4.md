@@ -1,0 +1,11 @@
+ÖKC’lerden gerçekleştirilen satışlara ait mali bilgilerin GİB’e bildirilmesi (Değişik başlık:RG-21/12/2017-30277)
+MADDE 4 – (1) (Değişik:RG-25/9/2024-32673) YN ÖKC’lerden düzenlenen ÖKC günlük kapanış (Z) raporlarına ait mali bilgiler, güvenli servis sağlayıcısı (ÖKC TSM Merkezleri) üzerinden GİB’e elektronik ortamda bildirilecektir.
+Ancak, YN ÖKC’lerden gerçekleşen satışlara ait ÖKC günlük kapanış (Z) raporlarına ait mali bilgileri ÖKC TSM Merkezleri aracılığıyla GİB’e iletemeyecek durumda olan mükellefler, YN ÖKC’lerden düzenlenen ÖKC günlük kapanış (Z) raporlarına ait mali bilgileri;
+a) GİB’den e-Arşiv hizmetleri konusunda izin alan özel entegratörlerin bilgi işlem sistemleri aracılığıyla e-Arşiv uygulaması,
+b) Dijital Vergi Dairesi,
+üzerinden bildirmek için GİB’e başvurabilirler.
+Bildirim zorunluluğu getirilen bilgilerin, ÖKC TSM Merkezleri aracılığıyla bildirilmesi durumunda; bu bilgilerin zamanında, eksiksiz ve belirlenen format ve standartlarda elektronik ortamda bildirilmesine ilişkin sorumluluk YN ÖKC üreticileri ile birlikte ÖKC TSM Merkezlerine aittir. YN ÖKC’lerin bağlı oldukları ÖKC TSM Merkezleri ile sürekli çevrim içi bağlantılı olmasının sorumluluğu ise YN ÖKC’leri kullanan mükellefe aittir.
+(2) Bu Tebliğin 3 üncü maddesi kapsamında yer almayan birinci ve ikinci sınıf tüccarlar, 213 sayılı Kanuna göre fatura vermek zorunda olmadıkları perakende mal satışları veya hizmet ifalarının belgelendirilmesinde, 426 Sıra No.lu Vergi Usul Kanunu Genel Tebliğinin (427, 437, 450, 465, 466 ve 473 Sıra No.lu Vergi Usul Kanunu Genel Tebliğleri ile değişen güncel hali) 4 üncü bölümünde belirtilen süreleri dikkate alarak YN ÖKC kullanmaya başlamak mecburiyetindedirler.
+(3) (Mülga:RG-21/12/2017-30277)
+(4) (Mülga:RG-25/9/2024-32673)
+(5) (Ek:RG-25/9/2024-32673) GİB, birinci fıkra uyarınca e-Arşiv uygulaması veya Dijital Vergi Dairesi üzerinden bildirimde bulunulmasına yönelik başvuruya ilişkin usul ve esasları, bu başvuruların değerlendirilmesinde dikkate alınacak kriterleri, ÖKC günlük kapanış (Z) raporlarına ait mali bilgilerin bildiriminin içerik, format ve standardı ile bildirime ilişkin diğer usul ve esasları www.ynokc.gib.gov.tr internet adresinde yayımlanacak teknik kılavuzlarla belirlemeye yetkilidir.
