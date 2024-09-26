@@ -1,0 +1,30 @@
+{
+  "source_id": "9.5.41001",
+  "kind": "communique",
+  "register_kind": "Tebliğler",
+  "title": "BİTKİSEL ÜRETİME YÖNELİK DESTEKLEMELER İLE DİĞER BAZI TARIMSAL DESTEKLEMELERE ÖDEME YAPILMASINA DAİR TEBLİĞ (TEBLİĞ NO: 2024/31)",
+  "number": "41001",
+  "issuer": "Tarım ve Orman Bakanı",
+  "path": "teblig/2024/41001",
+  "source": "https://www.mevzuat.gov.tr/anasayfa/MevzuatFihristDetayIframe?MevzuatTur=9&MevzuatNo=41001&MevzuatTertip=5",
+  "source_sha256": "bc494f5e0651010f2551a879699ce547f9149271ae189be831389c19f8c03bc6",
+  "source_bytes": 236933,
+  "published": "2024-09-26",
+  "gazette": "32674",
+  "in_force": "2024-09-26",
+  "in_force_basis": "Resmî Gazete publication date in the official listing (26.09.2024)",
+  "history": "current-text",
+  "label": "oldest version available",
+  "checked_on": "2026-11-15",
+  "word_count": 14806,
+  "text_status": "current-consolidated",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  },
+  "source_links": [
+    "9.5.41001%20EK.docx"
+  ],
+  "completeness": "html-text-complete; linked annexes not fetched"
+}
