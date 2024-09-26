@@ -1,0 +1,45 @@
+{
+  "source_id": "9.5.39273",
+  "kind": "communique",
+  "register_kind": "Tebliğler",
+  "title": "GELİR VERGİSİ GENEL TEBLİĞİ (SERİ NO: 318)",
+  "number": "39273",
+  "issuer": "Hazine ve Maliye Bakanı",
+  "path": "teblig/2022/39273",
+  "source": "https://www.mevzuat.gov.tr/anasayfa/MevzuatFihristDetayIframe?MevzuatTur=9&MevzuatNo=39273&MevzuatTertip=5",
+  "source_sha256": "408fc57b43073f2bb6824b6c43af7fdf6e438610ff649a3a14ef7570b5ff212f",
+  "source_bytes": 118418,
+  "published": "2022-01-12",
+  "gazette": "31717",
+  "in_force": "2024-09-26",
+  "in_force_basis": "latest Resmî Gazete date printed in the source amendment notes/table (\"RG-26/9/2024\") for the current consolidated text",
+  "date_evidence": [
+    [
+      "2024-09-26",
+      "RG-26/9/2024",
+      "Resmî Gazete date printed in the source amendment note"
+    ],
+    [
+      "2024-09-26",
+      "26/9/2024",
+      "Resmî Gazete date in the source amendment table"
+    ]
+  ],
+  "commencement_clauses": [
+    "Bu Tebliğ yayımı tarihinde yürürlüğe girer"
+  ],
+  "history": "current-text",
+  "label": "oldest version available",
+  "checked_on": "2026-11-15",
+  "word_count": 5263,
+  "text_status": "current-consolidated",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  },
+  "source_links": [
+    "9.5.39273-Ek.docx"
+  ],
+  "completeness": "html-text-complete; linked annexes not fetched"
+}

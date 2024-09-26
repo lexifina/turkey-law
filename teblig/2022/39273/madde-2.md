@@ -1,0 +1,14 @@
+İKİNCİ BÖLÜM
+SOSYAL İÇERİK ÜRETİCİLİĞİ, İNTERNET VE BENZERİ ELEKTRONİK ORTAMLAR ÜZERİNDEN SUNULAN HİZMETLER İLE
+MOBİL CİHAZLAR İÇİN UYGULAMA GELİŞTİRİCİLİĞİNDE KAZANÇ İSTİSNASI(1)(2)
+Yasal düzenleme
+MADDE 2 – (Değişik:RG-26/9/2024-32674)(1)
+(1) 7338 sayılı Kanunun 2 nci maddesi ile 193 sayılı Kanuna eklenen mükerrer 20/B maddesi, 27/12/2023 tarihli ve 7491 sayılı Bazı Kanun ve Kanun Hükmünde Kararnamelerde Değişiklik Yapılması Hakkında Kanunun 7 nci maddesi ile başlığıyla birlikte aşağıdaki şekilde yeniden düzenlenmiş, bu düzenleme 1/1/2024 tarihinden itibaren elde edilen kazançlara uygulanmak üzere 28/12/2023 tarihinde yürürlüğe girmiştir.
+“Sosyal içerik üreticiliği, internet ve benzeri elektronik ortamlar üzerinden sunulan hizmetler ile mobil cihazlar için uygulama geliştiriciliğinde kazanç istisnası
+Mükerrer Madde 20/B - İnternet ve benzeri elektronik ortamlar üzerinden metin, görüntü, ses, video gibi içerikler paylaşan sosyal içerik üreticilerinin bu faaliyetlerinden elde ettikleri kazançlar ve bu ortamlar üzerinden verilen bireysel kurs, eğitim, veri işleme ve geliştirme, ürün tanıtımı gibi hizmetlerden sağlanan kazançlar ile akıllı telefon veya tablet gibi mobil cihazlar için uygulama geliştirenlerin elektronik uygulama paylaşım ve satış platformları üzerinden elde ettikleri kazançlar gelir vergisinden müstesnadır.
+Bu istisnadan faydalanılabilmesi için Türkiye’de kurulu bankalarda bir hesap açılması ve bu faaliyetlere ilişkin tüm hasılatın münhasıran bu hesap aracılığıyla tahsil edilmesi şarttır.
+Bankalar, bu kapsamda açılan hesaplara aktarılan hasılat tutarı üzerinden, aktarım tarihi itibarıyla %15 oranında gelir vergisi tevkifatı yapmak ve Kanunun 98 ve 119 uncu maddelerindeki esaslar çerçevesinde beyan edip ödemekle yükümlüdür. Bu tutar üzerinden 94 üncü madde kapsamında ayrıca tevkifat yapılmaz.
+Mükelleflerin birinci fıkra kapsamı dışında başka faaliyetlerinden kaynaklanan kazanç ya da iratlarının bulunması istisnadan faydalanmalarına engel değildir.
+Birinci fıkra kapsamındaki kazançları toplamı 103 üncü maddede yazılı tarifenin dördüncü gelir diliminde yer alan tutarı aşanlar ile faaliyete ilişkin tüm gelirlerini ikinci fıkrada belirtilen şartlara göre tahsil etmeyenler bu istisnadan faydalanamazlar. Bu durumda olanların, 94 üncü maddenin birinci fıkrası kapsamında tevkifat yapma yükümlülüğü yoktur.
+İstisnaya ilişkin şartların taşınmadığının tespit edilmesi halinde eksik tahakkuk etmiş olan vergi, vergi ziyaı cezası kesilmek suretiyle gecikme faiziyle birlikte tahsil olunur.
+Cumhurbaşkanı, bu maddede yer alan tevkifat oranını her bir faaliyet türü için ayrı ayrı sıfıra kadar indirmeye, bir katına kadar artırmak suretiyle yeniden tespit etmeye; Hazine ve Maliye Bakanlığı, maddenin uygulanmasına ilişkin usul ve esasları belirlemeye yetkilidir.”
