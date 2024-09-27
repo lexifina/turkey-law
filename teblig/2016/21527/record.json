@@ -1,0 +1,39 @@
+{
+  "source_id": "9.5.21527",
+  "kind": "communique",
+  "register_kind": "Tebliğler",
+  "title": "GELİR VERGİSİ GENEL TEBLİĞİ (SERİ NO: 292)",
+  "number": "21527",
+  "issuer": "Maliye Bakanı",
+  "path": "teblig/2016/21527",
+  "source": "https://www.mevzuat.gov.tr/anasayfa/MevzuatFihristDetayIframe?MevzuatTur=9&MevzuatNo=21527&MevzuatTertip=5",
+  "source_sha256": "72341386f986da053c72ea5383f5395299979cd1eae490764fafbbe5173e6dc1",
+  "source_bytes": 43257,
+  "published": "2016-05-05",
+  "gazette": "29703",
+  "in_force": "2024-09-27",
+  "in_force_basis": "latest Resmî Gazete date printed in the source amendment notes/table (\"RG-27/9/2024\") for the current consolidated text",
+  "date_evidence": [
+    [
+      "2024-09-27",
+      "RG-27/9/2024",
+      "Resmî Gazete date printed in the source amendment note"
+    ],
+    [
+      "2024-09-27",
+      "27/9/2024",
+      "Resmî Gazete date in the source amendment table"
+    ]
+  ],
+  "history": "current-text",
+  "label": "oldest version available",
+  "checked_on": "2026-11-15",
+  "word_count": 2459,
+  "text_status": "current-consolidated",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  },
+  "completeness": "html-text-complete"
+}
