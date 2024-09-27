@@ -1,0 +1,4 @@
+Tebligat ve adres bildirme
+MADDE 59 – (Değişik:RG-27/9/2024-32675)(1)
+(1) Her türlü tebligat, öğrencinin Üniversiteye kayıt esnasında bildirdiği daimi adrese yapılmak suretiyle tamamlanmış sayılır. Tebligata elverişli bir elektronik adres vererek bu adrese tebligat yapılmasını isteyen öğrencinin vermiş olduğu elektronik adrese ve/veya kayıt sırasında tanımlanan kurumsal e-posta adresine elektronik yolla da tebligat yapılabilir.
+(2) Üniversiteye kaydolurken beyan ettiği adresi yanlış veya eksik olarak bildiren veya ikamet adresini değiştirdiği halde bu durumu ilgili birime bildirmeyen veya yanlış ya da eksik bildiren, Öğrenci Bilgi Sisteminde güncelleme yapmamış olan öğrencinin beyan ettiği adrese veya kayıt esnasında tanımlanan kurumsal e-posta adresine yapılacak tebligatlar kendisine ulaşmış sayılır.

@@ -1,0 +1,10 @@
+Yatay geçiş yoluyla öğrenci kabulü
+MADDE 57 – (1) Üniversite içindeki başka bir enstitü anabilim/anasanat dalında veya başka bir yükseköğretim kurumunun lisansüstü programında en az bir yarıyılı tamamlamış olan başarılı öğrenci, lisansüstü programlara yatay geçiş yoluyla kabul edilebilir.
+(2) Lisansüstü programlar arasında yatay geçiş başvuruları ekinde lisansüstü transkripti ile ders tanımları yer alan bir dilekçe ile yapılır.
+(3) Başvurularla ön değerlendirmeyi, başvurulan programın bağlı olduğu anabilim/ anasanat dalı tarafından oluşturulan komisyon yapar. Başvurular, adayların genel not ortalaması dikkate alınarak değerlendirilir ve adayın uygun görülmesi durumunda geçiş sağlanır.
+(4) Kayıt dondurmuş olmak, yatay geçiş hakkından yararlanmak için engel teşkil etmez.
+(5) Dörtlü veya yüzlü sisteme göre elde edilen başarı notlarının birbirine dönüştürülmesinde, Yükseköğretim Yürütme Kurulu tarafından belirlenen dönüştürme tabloları kullanılır.
+(6) Anabilim/anasanat dalı tarafından oluşturulan komisyonlar öğrencinin daha önceki dönemlerde aldığı dersler ile yatay geçiş yaptığı programın derslerini dikkate alarak, öğrencinin alması gereken ilave derslerden oluşan bir intibak programı ile muaf tutulması gereken dersleri belirler.
+(7) Doktora programlarına geçiş başvurusunda bulunan öğrenciler daha önceki programlarında yeterlik sınavını geçmiş olsalar dahi tekrar sınava alınırlar. Bu öğrencilerin daha önce kabul edilmiş bir tez önerisi olsa dahi oluşturulacak tez izleme komitesine tez önerisi sunmak durumundadırlar.
+(8) Bu Yönetmelik kapsamında geçiş yapan öğrencilerin yeni durumları, kayıt işlemi tamamlanıp geçiş ve intibak işlemleri kesinleştikten sonra en geç 15 gün içinde Öğrenci İşleri Daire Başkanlığı tarafından Yükseköğretim Öğrenci Veri Tabanına (YÖKSİS) işlenir.
+(9) İlgili yılda/dönemde yatay geçiş başvurusu kabul edilerek kayıt yaptıran ancak eğitim-öğretim dönemi başlamadan önce yatay geçiş hakkından vazgeçen öğrencilerin yatay geçiş işlemleri iptal edilir. Bu durumdaki öğrenciler de bu madde hükümlerine göre YÖKSİS’e işlenir.

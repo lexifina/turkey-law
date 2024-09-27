@@ -1,0 +1,23 @@
+Tanımlar
+MADDE 3 – (1) Bu Yönetmelikte geçen;
+a) ALES: Akademik Personel ve Lisansüstü Eğitimi Giriş Sınavını,
+b) Anabilim/anasanat dalı: 3/3/1983 tarihli ve 17976 sayılı Resmî Gazete’de yayımlanan Lisans Üstü Eğitim-Öğretim Enstitülerinin Teşkilât ve İşleyiş Yönetmeliğinin 5 inci maddesinde enstitüler için tanımlanan ve enstitüde eğitim programı bulunan anabilim/anasanat dalını,
+c) Anabilim/anasanat dalı akademik kurulu: İlgili anabilim/anasanat dalındaki tüm öğretim üyelerinden oluşan kurulu,
+ç) Anabilim/anasanat dalı başkanı: Lisans Üstü Eğitim-Öğretim Enstitülerinin Teşkilât ve İşleyiş Yönetmeliğinin 5 inci maddesinde tanımlanan başkanı,
+d) Anabilim/anasanat dalı kurulu: Fakülte teşkilatlanmasına göre bölüm başkanı ve anabilim/anasanat dalı başkanlarından oluşan bölüm kurulunu,
+e) Avrupa Kredi Transfer Sistemi (AKTS): Program bazında öngörülen bilgi, beceri ve yetkinliklerin kazandırılmasına dayalı öğrenci iş yükünü esas alan sistemi,
+f) Danışman: Lisansüstü öğrencisine ders, proje ve tez dönemlerinde danışmanlık yapmak üzere Enstitü Yönetim Kurulu tarafından atanan öğretim elemanını,
+g) Enstitü: İstanbul 29 Mayıs Üniversitesine bağlı olarak lisansüstü eğitim-öğretim programlarının yürütüldüğü enstitüleri,
+ğ) Enstitü kurulu: Enstitü müdürünün başkanı olduğu ve enstitü müdür yardımcıları ile enstitüde eğitim programları bulunan anabilim/anasanat dalı başkanlarından oluşan kurulu,
+h) Enstitü yönetim kurulu: Enstitü müdürünün başkanlığında, enstitü müdür yardımcıları ile müdürün göstereceği altı aday arasından enstitü kurulunca seçilen üç öğretim üyesinden oluşan kurulu,
+ı) İntihal: Başkalarının fikirlerini, metotlarını, verilerini veya eserlerini bilimsel kurallara uygun biçimde atıf yapmadan kısmen veya tamamen kendi eseri gibi göstermeyi,
+i) Kredi: Bir lisansüstü derse ait haftalık teorik ders saatinin tamamı ile haftalık uygulama veya laboratuvar saatinin yarısının toplamına eşit olan birim değeri,
+j) Müdür: Enstitü müdürünü,
+k) Mütevelli Heyet: İstanbul 29 Mayıs Üniversitesi Mütevelli Heyeti,
+l) Rektör: İstanbul 29 Mayıs Üniversitesi Rektörünü,
+m) Rektörlük: İstanbul 29 Mayıs Üniversitesi Rektörlüğünü,
+n) Senato: İstanbul 29 Mayıs Üniversitesi Senatosunu,
+o) Tez: Yüksek lisans, doktora veya sanatta yeterlik tezini,
+ö) Üniversite: İstanbul 29 Mayıs Üniversitesini,
+p) YÖK: Yükseköğretim Kurulunu,
+ifade eder.

@@ -1,0 +1,4 @@
+Kayıt silme
+MADDE 54 – (1) Kendi isteği ile enstitüdeki kaydını sildirmek isteyen öğrenci enstitüye yazılı olarak başvurur; ilgili birimlerinden alacağı ilişik kesme belgelerini ve içinde bulunduğu yarıyıl ücretinin tamamını ödediğine dair belgeyi ibraz ettiği takdirde ilgili yönetim kurulu kararıyla kaydı silinir, enstitü ile ilişiği kesilir, dosyasındaki diploma ve diğer belgeleri verilir.
+(2) Başka bir öğretim kurumuna yatay geçiş yapan öğrencinin enstitü yönetim kurulu kararıyla kaydı silinir, enstitü ile ilişiği kesilir. Dosyasındaki diploma ve diğer belgeler ilgili yükseköğretim kurumuna gönderilir.
+(3) (Değişik:RG-27/9/2024-32675)(1) Üniversiteden çıkarılma cezası alan öğrencinin 2547 sayılı Kanun hükümlerine göre, ilgili yönetim kurulu kararı ile kaydı silinir. Üniversite ile ilişiği kesilir, dosyasındaki diploma ve diğer belgeleri verilir.
