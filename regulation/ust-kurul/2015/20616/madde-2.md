@@ -1,0 +1,2 @@
+Kapsam
+MADDE 2 – (1) Bu Yönetmelik, Radyo ve Televizyon Üst Kurulunda 14/7/1965 tarihli ve 657 sayılı Devlet Memurları Kanununa tabi personelden 5 inci maddede belirtilen kadrolara görevde yükselme veya unvan değişikliği suretiyle asaleten atanacakları kapsar.

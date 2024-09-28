@@ -1,0 +1,20 @@
+Tanımlar
+MADDE 4 – (1) Bu Yönetmelikte geçen;
+a) (Değişik:RG-28/9/2024-32676) Alt görev: 1 sayılı Cumhurbaşkanlığı Teşkilatı Hakkında Cumhurbaşkanlığı Kararnamesinin 509 uncu maddesinde yer alan hiyerarşik kademeler çerçevesinde daha alt düzeydeki görevleri,
+b) Aynı düzey görev: Hiyerarşi, görev, yetki ve sorumluluk açısından aynı grupta ya da grup içinde alt gruplar olması halinde aynı alt grupta gösterilen görevleri,
+c) Birim: Üst Kurulun ana hizmet birimleri, destek hizmet birimleri ve danışma hizmet birimlerini,
+ç) Daire Başkanlığı: İnsan Kaynakları ve Eğitim Dairesi Başkanlığını,
+d) Görev unvanı: 5 inci maddede sayılan hizmet grupları içinde belirtilen görev unvanlarını,
+e) Görevde yükselme: Bu Yönetmelikte belirtilen görevlere, aynı veya başka hizmet sınıflarından yapılacak görevde yükselme niteliğindeki atamaları,
+f) (Değişik:RG-22/7/2017-30131) Görevde yükselme sınavı: Bu Yönetmelik hükümlerine göre görevde yükselme suretiyle atanacakların belirlenmesi amacıyla yapılan yazılı ve sözlü sınavı,
+g) Hizmet grubu: Hiyerarşi, görev, yetki ve sorumluluk açısından benzer veya aynı düzeydeki unvanlardan oluşan grubu,
+ğ) Hizmet süresi: Aylıksız izinli olarak geçen süreler hariç, muvazzaf askerlikte geçen süreler dâhil olmak üzere, 657 sayılı Kanunun 68 inci maddesinin (B) bendi çerçevesinde hesaplanan süreleri,
+h) İdari personel: Meslek personeli dışındaki personeli,
+ı) İş günü: Ulusal Bayram ile genel ve hafta sonu tatil günleri hariç, diğer günleri,
+i) Unvan değişikliği: En az ortaöğretim düzeyinde mesleki veya teknik eğitim sonucu kazanılan unvanlara ilişkin görevlere yapılan atamaları,
+j) Unvan değişikliği sınavı: En az ortaöğretim düzeyinde mesleki veya teknik eğitim sonucu ihraz edilen unvanlara ilişkin görevlere atanabilmek için yapılan yazılı (Ek ibare:RG-22/7/2017-30131) ve sözlü sınavı,
+k) (Değişik:RG-28/9/2024-32676) Üst görev: 1 sayılı Cumhurbaşkanlığı Kararnamesinin 509 uncu maddesinde yer alan hiyerarşik kademeler çerçevesinde daha üst düzeydeki görevleri,
+l) Üst Kurul: Radyo ve Televizyon Üst Kurulunu,
+m) Üst Kurul Başkanı: Radyo ve Televizyon Üst Kurulu Başkanını,
+n) (Ek:RG-28/9/2024-32676) YDS/e-YDS: Yabancı Dil Bilgisi Seviye Tespit Sınavını/Elektronik Yabancı Dil Sınavını,
+ifade eder.
