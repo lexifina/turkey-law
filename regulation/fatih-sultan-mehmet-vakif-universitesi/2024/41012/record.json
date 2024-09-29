@@ -1,0 +1,39 @@
+{
+  "checked_on": "2026-11-14",
+  "commencement_clauses": [
+    "MADDE 17- (1) Bu Yönetmelik yayımı tarihinde yürürlüğe girer."
+  ],
+  "date_evidence": [
+    [
+      "2024-09-29",
+      "29.09.2024",
+      "original gazette publication date in official listing"
+    ]
+  ],
+  "date_quote": "MADDE 17- (1) Bu Yönetmelik yayımı tarihinde yürürlüğe girer.",
+  "first_law": null,
+  "gazette": "32677",
+  "history": "current-text",
+  "images": {
+    "deferred": 0,
+    "omitted": 0,
+    "referenced": 0,
+    "source": 0
+  },
+  "in_force": "2024-09-29",
+  "in_force_basis": "source commencement clause: enters into force on gazette publication",
+  "issuer": "Fatih Sultan Mehmet Vakıf Üniversitesi",
+  "issuer_slug": "fatih-sultan-mehmet-vakif-universitesi",
+  "kind": "regulation",
+  "label": "oldest version available",
+  "path": "regulation/fatih-sultan-mehmet-vakif-universitesi/2024/41012",
+  "published": "2024-09-29",
+  "source": "https://www.mevzuat.gov.tr/anasayfa/MevzuatFihristDetayIframe?MevzuatTur=8&MevzuatNo=41012&MevzuatTertip=5",
+  "source_bytes": 60114,
+  "source_id": "8.5.41012",
+  "source_sha256": "e0395fe8b5d8752c5938fa4ee9fc9f5d3e58ac037d3bea537f186a59f9c3c1b6",
+  "text_status": "as-enacted",
+  "title": "FATİH SULTAN MEHMET VAKIF ÜNİVERSİTESİ VAKIF KÜLTÜRÜ VE MEDENİYETİ UYGULAMA VE ARAŞTIRMA MERKEZİ YÖNETMELİĞİ",
+  "university_id": 359,
+  "word_count": 1387
+}
