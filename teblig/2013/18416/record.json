@@ -1,0 +1,71 @@
+{
+  "source_id": "9.5.18416",
+  "kind": "communique",
+  "register_kind": "Tebliğler",
+  "title": "ULUSAL MESLEK STANDARTLARINA DAİR TEBLİĞ",
+  "number": "18416",
+  "issuer": "Mesleki Yeterlilik Kurumu Başkanı",
+  "path": "teblig/2013/18416",
+  "source": "https://www.mevzuat.gov.tr/anasayfa/MevzuatFihristDetayIframe?MevzuatTur=9&MevzuatNo=18416&MevzuatTertip=5",
+  "source_sha256": "49257d973fe1fedbbcf72154e0d810f756de64e50bcda67fe620fb64962c7966",
+  "source_bytes": 31388,
+  "published": "2013-05-29",
+  "gazette": "28661 (Mükerrer)",
+  "in_force": "2024-09-29",
+  "in_force_basis": "latest Resmî Gazete date printed in the source amendment notes/table (\"29/9/2024\") for the current consolidated text",
+  "date_evidence": [
+    [
+      "2024-09-29",
+      "29/9/2024",
+      "Resmî Gazete date in the source amendment table"
+    ],
+    [
+      "2024-09-09",
+      "9/9/2024",
+      "Resmî Gazete date in the source amendment table"
+    ],
+    [
+      "2024-07-28",
+      "28/7/2024",
+      "Resmî Gazete date in the source amendment table"
+    ],
+    [
+      "2024-05-26",
+      "26/5/2024",
+      "Resmî Gazete date in the source amendment table"
+    ],
+    [
+      "2023-09-24",
+      "24/9/2023",
+      "Resmî Gazete date in the source amendment table"
+    ],
+    [
+      "2023-04-16",
+      "16/4/2023",
+      "Resmî Gazete date in the source amendment table"
+    ],
+    [
+      "2018-12-06",
+      "6/12/2018",
+      "Resmî Gazete date in the source amendment table"
+    ]
+  ],
+  "commencement_clauses": [
+    "Bu Tebliğ yayımı tarihinde yürürlüğe girer"
+  ],
+  "history": "current-text",
+  "label": "oldest version available",
+  "checked_on": "2026-11-15",
+  "word_count": 383,
+  "text_status": "current-consolidated",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  },
+  "source_links": [
+    "9.5.18416%20ek.rar",
+    "9.5.18416-EK.zip"
+  ],
+  "completeness": "html-text-complete; linked annexes not fetched"
+}
