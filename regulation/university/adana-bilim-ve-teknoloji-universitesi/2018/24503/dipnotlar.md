@@ -1,0 +1,1 @@
+[1] 29/9/2024 tarihli ve 32677 sayılı Resmî Gazete’de yayımlanan değişiklik ile bu Yönetmeliğin adı “Adana Bilim ve Teknoloji Üniversitesi İleri Teknolojiler Uygulama ve Araştırma Merkezi Yönetmeliği” iken metne işlendiği şekilde değiştirilmiştir.
