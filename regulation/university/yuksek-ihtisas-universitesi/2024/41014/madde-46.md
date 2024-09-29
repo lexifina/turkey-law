@@ -1,0 +1,3 @@
+Tebligat ve adres bildirme
+MADDE 46- (1) Her türlü tebligat, öğrencinin fakülte/yüksekokul ve meslek yüksekokuluna kayıt esnasında bildirdiği daimî adrese posta aracılığıyla iadeli taahhütlü olarak yapılmak veya ilgili fakülte, yüksekokul veya meslek yüksekokulunda ilan edilmek suretiyle tamamlanmış sayılır.
+(2) Fakülte/yüksekokul ve meslek yüksekokuluna kayıt olurken bildirdikleri adresi değiştirdikleri halde bunu fakülte/yüksekokul ve meslek yüksekokuluna dilekçe ile bildirmeyen, yanlış ya da eksik adres vermiş olan öğrenciler, kendilerine geçerli tebligat yapılmadığını ileri sürerek hak iddia edemezler.

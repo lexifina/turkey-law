@@ -1,0 +1,5 @@
+Ders muafiyetleri
+MADDE 18- (1) Fakülte/yüksekokul ve meslek yüksekokuluna ilk kez kayıt yaptıran öğrenci, “ekle-sil haftası” sonuna kadar, daha önceki yükseköğretim kurumlarında almış ve başarmış olduğu dersler için muaf olmak isteğiyle başvuruda bulunabilir.
+(2) Öğrencinin muafiyet taleplerinin değerlendirilmesi için her akademik birimde bir komisyon oluşturulur. Komisyon, başvuruları incelerken ders içeriği ve AKTS yönünden değerlendirir. Başvuruya esas dersler için Üniversitenin ders geçme kriterlerinin karşılanıp karşılanmadığı da dikkate alınarak bir görüş oluşturulur ve harf notu belirlenir. Zorunlu ortak dersler için AKTS’ye bakılmaksızın ders içeriğiyle değerlendirme yapılır. Komisyon tarafından değerlendirilen başvurular ilgili birim yönetim kurulunca karara bağlanır.
+(3) Öğrencinin intibak ettirildiği yarıyılda alabileceği derslerin toplam AKTS kredisi, o yarıyılın AKTS kredisi kadardır.
+(4) Üniversite, akademik yılın başında önceki öğrenmelerin tanınması ile ilgili olarak muafiyet sınavı yapabilir.

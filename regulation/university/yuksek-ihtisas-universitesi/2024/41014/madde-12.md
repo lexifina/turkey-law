@@ -1,0 +1,9 @@
+DÖRDÜNCÜ BÖLÜM
+Dersler ve Sınavlar
+Öğretim programları ve dersler
+MADDE 12- (1) Lisans ve ön lisans programlarında yer alacak dersler, bu derslerin ilan edileceği yarıyıllar, haftalık süreleri, bu sürelerin teorik ve uygulama dağılımları, derslerin AKTS kredileri, zorunlu/seçmeli durumları ve ön koşulları, ilgili bölüm/program başkanlığı tarafından, o bölüm/programın bağlı bulunduğu birime teklif edilir. İlgili birim kurulunca uygun görülen teklifler, Senatonun onayı ile kesinleşir. Öğretim programında yapılacak değişiklikler için de aynı usul uygulanır.
+(2) Gerektiğinde, ilgili bölüm/program başkanlığının önerisi ve ilgili birim yönetim kurulunun kararı ile bazı dersler her iki yarıyılda da açılabilir.
+(3) Yaz öğretiminde açılacak eğitim-öğretim programında yer alan dersler, her yaz öğretimi dönemi öncesinde, ilgili bölüm/program başkanlığının önerisi ve ilgili birim yönetim kurulunun kararı ile belirlenir ve Senato onayı ile kesinleşir. Yaz öğretimi akademik takvimde belirtilen tarihte ilan edilir.
+(4) Eğitim-öğretim programında staja yer verilmesi durumunda, stajın süresi ve uygulama esasları ilgili birim kurullarınca hazırlanıp Senatonun onayı ile yürürlüğe girer.
+(5) Stajların 2547 sayılı Kanunda belirtilen eğitim-öğretim süresi içinde bitirilmesi zorunludur. Diğer ders ve uygulama yükümlülükleriyle birlikte stajını bitirmeyen öğrenciler, stajları tamamlanıncaya kadar mezun olamaz ve her kayıt dönemi için kayıtlarını yenilemek zorundadır.
+(6) Her yarıyıl için en az 30 AKTS kredisi olmak üzere altı yıllık eğitim-öğretim programının 360 AKTS, beş yıllık eğitim-öğretim programlarının 300 AKTS, dört yıllık eğitim-öğretim programlarının 240 AKTS, ön lisans programlarının ise 120 AKTS olması zorunludur. Bir dersin AKTS kredisinin hesaplanmasına ilişkin esaslar Senato tarafından belirlenir.

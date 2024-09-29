@@ -1,0 +1,3 @@
+Devam mecburiyeti
+MADDE 17- (1) Öğrencilerin teorik derslere %70, uygulamalı derslere %80 oranında devamları zorunludur. Derslere ve diğer öğretim faaliyetlerine devam durumu, öğretim elemanı tarafından tespit edilir. Tıp Fakültesi hariç ön lisans ve lisans programlarında devamsızlık sebebiyle ders tekrarına kalmamış olmak şartıyla, uygulaması olan derslerde devam zorunluluğu, ilgili birim yönetim kurulu kararıyla belirlenir.
+(2) (DD), (FD) veya (FF) notu alınan herhangi bir dersin tekrarlanması halinde, bu derste devam koşulu aranmaz. Ancak, bu öğrenciler normal eğitim sürecinde dersin devamı dışında tüm eğitsel yükümlülükleri yerine getirmek zorundadırlar. (D) harfi alan öğrenci dersin tekrarını devam esaslarına uygun olarak almak mecburiyetindedir.

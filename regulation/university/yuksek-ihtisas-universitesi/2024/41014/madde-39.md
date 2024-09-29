@@ -1,0 +1,13 @@
+ALTINCI BÖLÜM
+Eğitim-Öğretim Ücretleri, Burs, Özel Öğrenci, Disiplin İşlemleri ve Mezuniyet
+Eğitim-öğretim ücretleri
+MADDE 39- (1) Üniversitede eğitim-öğretim ücretlidir. Burslu öğrencilerin eğitim-öğretim ücretlerinde, hak kazanmış oldukları burs oranında indirim yapılır.
+(2) Eğitim-öğretim ücretleri her akademik yıl için Mütevelli Heyeti tarafından yeniden belirlenir. Ara sınıflarda ücret artışı Tüketici Fiyat Endeksi (TÜFE) baz alınarak hesaplanır.
+(3) Eğitim-öğretim ücretlerinin ilk taksiti, güz yarıyılı kesin kayıt veya kayıt yenileme sırasında, ikinci taksiti ise bahar yarıyılı başında kayıt yenileme sırasında ödenir.
+(4) Eğitim-öğretim ücreti tek ders sınavı ve yaz öğretimi ücreti hariç, sadece ara sınav, yarıyıl/yıl sonu sınavları ve öğretimi kapsar.
+(5) Eğitimini 8 inci maddede belirtilen azami sürelerde bitiremeyen ön lisans ve lisans öğrencileri sadece tekrar gerektiren ders veya dönem için her bir ders/kredi başına düşen tutarın toplamı kadar ücret alınır.
+(6) Tıp Fakültesi hariç, işletmede mesleki eğitim, staj ve uygulamalı ders gibi dersler de dahil olmak üzere normal öğrenim süresini aşan öğrenciden, sadece tekrar gerektiren ders veya dönem için her bir ders/kredi başına düşen tutarın toplamı kadar ücret alınır. Bu tutar ilgili dönem alması zorunlu olan ders/kredi başına düşen tutarı aşamaz.
+(7) Tıp Fakültesi hariç bir yarıyılı kapsayan ders ve/veya derslerin akademik yarıyıl veya yaz öğretiminde alınması halinde ücret Mütevelli Heyeti tarafından belirlenir.
+(8) İntörnlük dönemini zamanında tamamlayamayan Tıp Fakültesi öğrencilerinden kalan staj süresi 0-13 hafta olanlardan eğitim ücretinin %25’i,14-26 hafta olanlardan eğitim ücretinin %50’si, 27-39 hafta olanlardan eğitim ücretinin % 75’i, 40-52 hafta olanlardan eğitim ücretinin % 100’ü alınır.
+(9) Üniversiteye bağlı fakülte/yüksekokul ve meslek yüksekokullarının öğrencileri her yarıyılda/yılda kayıt yenileme işlemi yapmak zorundadır. Ücretini ödemeyen öğrencinin kaydı yenilenmez. Kaydını yeniletmeyen öğrenci eğitim-öğretime devam edemez. 8 inci madde hükümlerine göre öğrencinin kaydı askıya alınır. Kaydı askıya alınan öğrenci, kayıt yaptırmaya geldiği akademik yılda geçerli olan eğitim-öğretim ücretini ödemek zorundadır. Kaydı askıda olan ve daha sonraki bir süre zarfında eğitim-öğretim hayatına devam etmek isteyen öğrenci ders kaydı yaptırabilmek için kaydı askıda olduğu yıllara ait eğitim ücretinin %50’sini öder.
+(10) Öğrencilerin (özel öğrenciler dahil), eğitim-öğretim, sınav, ek sınavlar, yaz öğretimi, kayıt dondurma ve izinli sayılma işlemlerinin ücreti, Mütevelli Heyeti tarafından belirlenir.

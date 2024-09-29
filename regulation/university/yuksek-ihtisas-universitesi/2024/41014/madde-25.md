@@ -1,0 +1,4 @@
+Sınav sonuçlarının ilanı ve sınav notuna itiraz
+MADDE 25- (1) Her dersin sınav sonuçları ve belgeleri, ilgili dönemin bitimini takiben ilan edilen tarihlerde ilgili birime teslim edilir. Sınav sonuçları, Rektörlüğün belirlediği yöntemle ilgili birimlerce ilan edildiğinde kesinleşir.
+(2) Ara sınav sonuçları en geç sınavı izleyen on iş günü, yarıyıl/yılsonu sınav sonuçları en geç beş iş günü ve bütünleme sınav sonuçları en geç üç iş günü içerisinde ilan edilir.
+(3) Öğrenci, sınav sonuçlarına maddi hata sebebiyle itirazını, sınav sonuçlarının ilanından itibaren üç iş günü içinde yazılı olarak dekanlığa/müdürlüğe yapabilir. Dekan/müdür itirazı, ilgili bölüm/anabilim dalı/program başkanına, ilgili öğretim üyesine veya dönem koordinatörüne incelettirir. Sonuç, yedi iş günü içinde dekanlığa/müdürlüğe bildirilir. Maddi hata tespit edilmesi halinde, durum ilgili birim yönetim kurulunca düzeltilir.

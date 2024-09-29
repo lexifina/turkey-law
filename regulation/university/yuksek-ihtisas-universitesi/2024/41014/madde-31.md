@@ -1,0 +1,2 @@
+Yatay geçiş
+MADDE 31- (1) Üniversiteye bağlı birimlere, Üniversitenin içinden veya dışından yapılacak yatay geçiş işlemleri, 24/4/2010 tarihli ve 27561 sayılı Resmî Gazete’de yayımlanan Yükseköğretim Kurumlarında Önlisans ve Lisans Düzeyindeki Programlar Arasında Geçiş, Çift Anadal, Yan Dal ile Kurumlar Arası Kredi Transferi Yapılması Esaslarına İlişkin Yönetmelik hükümlerine uygun olarak ilgili birim yönetim kurulunca kararlaştırılır.
