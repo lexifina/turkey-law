@@ -1,0 +1,28 @@
+{
+  "number": "month-09-2",
+  "year": 2024,
+  "month": 9,
+  "title": "EYLÜL 2024 2. BİRLEŞİM",
+  "decision_date": null,
+  "index_date": "2024-09-30",
+  "date_precision": "month",
+  "period": "Eylül 2024",
+  "source": "https://www.aziziye.bel.tr/karar/eylül-2024-2-birleşim.html",
+  "official_page": "https://www.aziziye.bel.tr/karar/eylül-2024-2-birleşim.html",
+  "official_document": "https://www.aziziye.bel.tr/tema/genel/uploads/meclis_kararlari/dosya/EYLUL__2024_2._BYRLEYYM.docx",
+  "source_sha256": "da849ef5aea0862103e03214926d8d32baed91865f19646b6f7b92f99bddf227",
+  "issuer": "Aziziye Belediye Meclisi",
+  "history_type": "metadata",
+  "text_status": "metadata-only: listing fields as published; the decisions are in the linked official document(s) or page, not transcribed",
+  "in_force": "2024-09-30",
+  "in_force_basis": "The official listing gives only the month of this official file (Eylül 2024); date set to the last day of that month (turkey-law date convention for month-only sources); exact adoption dates are in the linked official document; legal commencement not asserted",
+  "missing": [
+    "decision numbers, dates and subjects",
+    "complete official decision text",
+    "official annexes"
+  ],
+  "law_text_complete": false,
+  "privacy_withheld": false,
+  "listing_label": "EYLÜL 2024 2. BİRLEŞİM",
+  "record_scope": "one official file of council decisions (meeting or month)"
+}
