@@ -1,0 +1,2 @@
+Hazırlık sınıfı eğitim ve öğretim süresi
+MADDE 6 – (1) Hazırlık sınıfında eğitim süresi bir eğitim-öğretim yılıdır. Başarısız olan öğrencilere bir yıl daha öğrenime devam etme hakkı tanınır. Ancak söz konusu öğrenciler, belirlenen süre içerisinde kayıt yenilemedikleri takdirde kayıtları silinir. (Ek cümle:RG-30/9/2024-32678) Hazırlık sınıfına kayıt, kabul ve uygulanan eğitime ilişkin usul ve esaslar Senato tarafından düzenlenir.
