@@ -1,0 +1,29 @@
+{
+  "number": "127",
+  "number_as_published": "MEC-2024-9-",
+  "year": 2024,
+  "month": 9,
+  "title": "MEC-2024-9- 127 - Belediyemiz hiz. kul. üzere şartsız ve karşılıksız olarak hibe edilen 2 adet iş makinesinin 237 sayılı Taşıt Kan. istinaden trafik tescil işlem. yapılması",
+  "decision_date": null,
+  "index_date": "2024-09-30",
+  "date_precision": "month",
+  "period": "Eylül 2024",
+  "source": "https://www.manavgat.bel.tr/meclis-kararlari/eylul-meclis-karari",
+  "official_page": "https://www.manavgat.bel.tr/meclis-kararlari/eylul-meclis-karari",
+  "official_document": "https://d25tea7qfcsjlw.cloudfront.net/14370/kicerik/241421/118868.pdf",
+  "source_sha256": "f98b511b534f0c2e1321a596bce9d075d51d83e8f657256ed2dcfbf96388d339",
+  "issuer": "Manavgat Belediye Meclisi",
+  "history_type": "metadata",
+  "text_status": "metadata-only: number and subject as published in the official listing; complete decision text is in the linked official page/document, not transcribed",
+  "in_force": "2024-09-30",
+  "in_force_basis": "The official listing gives only the month of this decision (Eylül 2024); date set to the last day of that month (turkey-law date convention for month-only sources); exact adoption dates are in the linked official document; legal commencement not asserted",
+  "missing": [
+    "exact decision date",
+    "complete official decision text",
+    "official annexes"
+  ],
+  "law_text_complete": false,
+  "privacy_withheld": false,
+  "listing_item": "2024 YILI EYLÜL AYI MECLİS KARARLARI",
+  "record_scope": "one council decision (official code MEC-year-month-number)"
+}
