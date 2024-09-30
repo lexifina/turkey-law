@@ -1,0 +1,29 @@
+{
+  "number": "243",
+  "number_as_published": "243",
+  "year": 2024,
+  "month": 9,
+  "title": "Süleymanpaşa Belediyesi Emir ve Yasakları Uygulama Yönetmeliğine; 1- Emir ve Yasakları Uygulama Yönetmeliğinde yer alan Madde 53 - &#039;&#039;Pazar esnaflarının, tezgahından çıkan çöpleri uygun çöp torbalarında biriktirmesi ve temizlik ekiplerine teslim etmesi zorunludur.&#039;&#039; kabahatini oluşturan fiil hükmü hususunun &#039;&#039; Pazar Esnaflarının Tezgahından çıkan çöpleri ve Pazar atıklarını çöp torbalarında biriktirmesi ve tezgah alanının temiz bırakılması zorunludur. Şeklinde revize edilmesi ve revize edilen hüküm metninin 53&#039;üncü maddeye ( a) bendi şeklinde eklenmesine 2-İlçemizde faaliyet gösteren market, bakkal vb. işyerlerinden çıkan evsel atıklar dışındaki ambalaj (kağıt, karton, plastik vb.) atıklarının çöp konteynerlerine atılmaması ayrı biriktirilmesi zorunludur&#039;&#039; kabahatini oluşturan fiil hükmü hususunun Emir ve Yasakları Uygulama Yönetmeliğinde yer alan madde 53&#039; e (b) bendi şeklinde eklenmesine 3-&#039;&#039;Vatandaşların çıkardığı moloz hacimli atık, koltuk- çekyat, mobilya vb. atıkların gelişigüzel cadde ve sokaklara atılmaması ayrı ayrı biriktirilmesi zorunludur.&#039;&#039; kabahatini oluşturan fiil hükmü hususunun; Emir ve Yasakları Uygulama Yönetmeliğinde yer alan madde 53&#039; e (c) bendi şeklinde eklenmesine 4- &#039;&#039;Belediyemizce üçrete tabi işler tarifesi kapsamında toplanan moloz atıklarının (2 tona kadar) içine camyünü, yalıtım malzemesi, halı, yastık, yorgan, toprak, organik atık, plaka cam, ısı yalıtım malzemesi, mebran vb. atıkların karıştırılmaması gerekmektedir.&#039;&#039; kabahatini oluşturan fiil hükmü hususunun; Emir ve Yasakları Uygulama Yönetmeliğinde yer alan madde 53&#039; e (ç) bendi şeklinde eklenmesine Belediye Meclisince oybirliği ile karar verildi.",
+  "decision_date": null,
+  "index_date": "2024-09-30",
+  "date_precision": "month",
+  "period": "Eylül 2024",
+  "source": "https://suleymanpasa.bel.tr/meclis-kararlari",
+  "official_page": "https://suleymanpasa.bel.tr/meclis-kararlari",
+  "official_document": null,
+  "source_sha256": "a3d58e794d078cdf2cdbec893458f633a8786bca6293af397d236c0d6fbd00f0",
+  "issuer": "Süleymanpaşa Belediye Meclisi",
+  "history_type": "metadata",
+  "text_status": "metadata-only: number and subject as published in the official listing; complete decision text is in the linked official page/document, not transcribed",
+  "in_force": "2024-09-30",
+  "in_force_basis": "The official listing gives only the month of this decision (Eylül 2024); date set to the last day of that month (turkey-law date convention for month-only sources); exact adoption dates are in the linked official document; legal commencement not asserted",
+  "missing": [
+    "exact decision date",
+    "complete official decision text",
+    "official annexes"
+  ],
+  "law_text_complete": false,
+  "privacy_withheld": false,
+  "record_scope": "one council decision (number and published decision summary)",
+  "sitting": "Birleşim No: 1"
+}
