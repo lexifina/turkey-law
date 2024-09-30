@@ -1,0 +1,28 @@
+{
+  "number": "month-09",
+  "year": 2024,
+  "month": 9,
+  "title": "2024 Yılı Eylül Ayı Meclis Karar Özetleri",
+  "decision_date": null,
+  "index_date": "2024-09-30",
+  "date_precision": "month",
+  "period": "Eylül 2024",
+  "source": "https://www.tuzluca.bel.tr/karar/2024-yili-eylul-ayi-meclis-karar-ozetleri",
+  "official_page": "https://www.tuzluca.bel.tr/karar/2024-yili-eylul-ayi-meclis-karar-ozetleri",
+  "official_document": "https://www.tuzluca.bel.tr/tema/genel/uploads/meclis_kararlari/dosya/2024-Eylul-Ayı.pdf",
+  "source_sha256": "6093c47ca9cffe9cf9f0b13753c89bb53f3d7022e90c7ecf55a59e553996c5c4",
+  "issuer": "Tuzluca Belediye Meclisi",
+  "history_type": "metadata",
+  "text_status": "metadata-only: listing fields as published; the decisions are in the linked official document(s) or page, not transcribed",
+  "in_force": "2024-09-30",
+  "in_force_basis": "The official listing gives only the month of this official file (Eylül 2024); date set to the last day of that month (turkey-law date convention for month-only sources); exact adoption dates are in the linked official document; legal commencement not asserted",
+  "missing": [
+    "decision numbers, dates and subjects",
+    "complete official decision text",
+    "official annexes"
+  ],
+  "law_text_complete": false,
+  "privacy_withheld": false,
+  "listing_label": "2024 Yılı Eylül Ayı Meclis Karar Özetleri",
+  "record_scope": "one official file of council decisions (meeting or month)"
+}
