@@ -1,0 +1,29 @@
+{
+  "number": "276",
+  "number_as_published": "276",
+  "year": 2024,
+  "month": 9,
+  "title": "2024 Mali yılında Belediyemizce verilecek hizmetlere karşılık alınacak ücretlerle ilgili olarak, 2464 sayılı Belediye Gelirleri Kanununun 97. maddesine istinaden düzenlenen Ücrete Tabi İşler Tarifesinin 6.1-İmarla İlgili Çeşitli Ücretler başlığında b)İmar durumlarından kısmının; Not: 1) b.1, b.2 ve 6.3 fıkralarından; 6360 sayılı kanun ile Köyden Mahalleye dönüşen yerlerde Köy yerleşik alan içinde bulunan parseller için, İmar durum ücreti %40 indirimli, Köy yerleşik alan dışında bulunup Mevzii İmar Planı ve Yapı Ruhsatı bulunmayan parseller için İmar Durumu Ücreti alınmayacaktır. 2) Yatay kat irtifakı kurulu parsellerde Hisseli Mülkiyetlerde her mülk sahibi için hissesi oranında ücret alınacaktır. Şeklinde değiştirilerek 5393 sayılı Belediye Kanununun 18/f maddesi gereği ve Belediye Gelirleri Kanununun 97. maddesi gereğince kabulüne Plan ve Bütçe Komisyonunca oybirliği ile karar verilmiş olup, Belediye Meclisince de komisyon kararının kabulüne oybirliği ile karar verildi.",
+  "decision_date": null,
+  "index_date": "2024-09-30",
+  "date_precision": "month",
+  "period": "Eylül 2024",
+  "source": "https://suleymanpasa.bel.tr/meclis-kararlari",
+  "official_page": "https://suleymanpasa.bel.tr/meclis-kararlari",
+  "official_document": null,
+  "source_sha256": "a3d58e794d078cdf2cdbec893458f633a8786bca6293af397d236c0d6fbd00f0",
+  "issuer": "Süleymanpaşa Belediye Meclisi",
+  "history_type": "metadata",
+  "text_status": "metadata-only: number and subject as published in the official listing; complete decision text is in the linked official page/document, not transcribed",
+  "in_force": "2024-09-30",
+  "in_force_basis": "The official listing gives only the month of this decision (Eylül 2024); date set to the last day of that month (turkey-law date convention for month-only sources); exact adoption dates are in the linked official document; legal commencement not asserted",
+  "missing": [
+    "exact decision date",
+    "complete official decision text",
+    "official annexes"
+  ],
+  "law_text_complete": false,
+  "privacy_withheld": false,
+  "record_scope": "one council decision (number and published decision summary)",
+  "sitting": "Birleşim No: 2"
+}
