@@ -1,0 +1,21 @@
+{
+  "record_type": "parliament-written-question",
+  "term": 28,
+  "legislative_year": 3,
+  "esas_no": "7/17293",
+  "submitted": "2024-10-01",
+  "submitted_as": "Başkanlığa geliş tarihi",
+  "mp": "Uğur BAYRAKTUTAN",
+  "province": "Artvin",
+  "summary": "2023 yılı Hukukun Üstünlüğü Endeksi'nde Türkiye'nin sıralamasına ilişkin",
+  "status": "Cevaplanmadığı Gelen Kağıtlarda İlan Edildi",
+  "status_as_of": "2026-11-16",
+  "official_record": "https://www.tbmm.gov.tr/Denetim/Yazili-Soru-Onergesi-Detay/87ff370a-b037-42f7-b5bb-019247d5767f",
+  "source": "https://tbmm.gov.tr/Denetim/YaziliSoruOnergesiTable",
+  "source_form": "https://tbmm.gov.tr/Denetim/Yazili-Soru-Onergeleri",
+  "source_sha256": "095b21e0da13229340921f774b78f1f877bca2b3df9492a9d08a41bf3d08c138",
+  "in_force": "2024-10-01",
+  "in_force_basis": "Date the question reached the Speaker (Başkanlığa geliş tarihi) in the official TBMM written-question record; parliamentary oversight record, not law",
+  "history_type": "metadata",
+  "text_status": "metadata-only: question text, addressee and answers are in the linked official record (PDFs on cdn.tbmm.gov.tr); not transcribed here"
+}
