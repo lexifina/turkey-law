@@ -1,0 +1,30 @@
+{
+  "source_id": "9.5.40998",
+  "kind": "communique",
+  "register_kind": "Tebliğler",
+  "title": "VERGİ USUL KANUNU GENEL TEBLİĞİ (SIRA NO: 565)",
+  "number": "40998",
+  "issuer": "Hazine ve Maliye Bakanı",
+  "path": "teblig/2024/40998",
+  "source": "https://www.mevzuat.gov.tr/anasayfa/MevzuatFihristDetayIframe?MevzuatTur=9&MevzuatNo=40998&MevzuatTertip=5",
+  "source_sha256": "658ac61de7046a3a969d56bcd07abf3ccd207972d831d384d6e2f4af80ff275f",
+  "source_bytes": 11376,
+  "published": "2024-09-25",
+  "gazette": "32673",
+  "in_force": "2024-10-01",
+  "in_force_basis": "own commencement article: \"Bu Tebliğ, Eylül 2024 dönemi ve bu dönemi izleyen dönemlere uygulanmak üzere 1/10/2024 tarihinde yürürlüğe girer\"",
+  "commencement_clauses": [
+    "Bu Tebliğ, Eylül 2024 dönemi ve bu dönemi izleyen dönemlere uygulanmak üzere 1/10/2024 tarihinde yürürlüğe girer"
+  ],
+  "history": "current-text",
+  "label": "oldest version available",
+  "checked_on": "2026-11-15",
+  "word_count": 424,
+  "text_status": "current-consolidated",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  },
+  "completeness": "html-text-complete"
+}
