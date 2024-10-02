@@ -1,0 +1,16 @@
+{
+  "kind": "decision",
+  "issuer": "Sayıştay Temyiz Kurulu",
+  "number": "57201",
+  "decision_date": "2024-10-02",
+  "source_id": 28965,
+  "chamber": "4",
+  "file_number": "53314",
+  "public_body_type": "Belediyeler ve Bağlı İdareler",
+  "account_year": "2019",
+  "subject": "İhale Mevzuatı ile İlgili Kararlar",
+  "source": "https://www.sayistay.gov.tr/KararlarTemyiz/Detay/28965/",
+  "source_sha256": "32e6ac6959cb86611f8e7a61a3f5bf9f0731affb39c1da05fa6d082e6251574e",
+  "text_status": "as-enacted",
+  "text_file": "metin.md"
+}
