@@ -1,0 +1,21 @@
+{
+  "record_type": "parliament-written-question",
+  "term": 28,
+  "legislative_year": 3,
+  "esas_no": "7/17139",
+  "submitted": "2024-10-02",
+  "submitted_as": "Başkanlığa geliş tarihi",
+  "mp": "Ali Fazıl KASAP",
+  "province": "Kütahya",
+  "summary": "Kütahya iline yapılması planlanan otoyol ve çevre yolu projelerine ilişkin",
+  "status": "Süresi Geçtikten Sonra Cevaplandı",
+  "status_as_of": "2026-11-16",
+  "official_record": "https://www.tbmm.gov.tr/Denetim/Yazili-Soru-Onergesi-Detay/bd479f46-b26e-4bff-8217-01925115153e",
+  "source": "https://tbmm.gov.tr/Denetim/YaziliSoruOnergesiTable",
+  "source_form": "https://tbmm.gov.tr/Denetim/Yazili-Soru-Onergeleri",
+  "source_sha256": "5e9cb6e633f742bc93640185d411309a43ef001c95547e06897629960abae6cd",
+  "in_force": "2024-10-02",
+  "in_force_basis": "Date the question reached the Speaker (Başkanlığa geliş tarihi) in the official TBMM written-question record; parliamentary oversight record, not law",
+  "history_type": "metadata",
+  "text_status": "metadata-only: question text, addressee and answers are in the linked official record (PDFs on cdn.tbmm.gov.tr); not transcribed here"
+}
