@@ -1,0 +1,20 @@
+{
+  "applicant": "S.Ö.",
+  "application_date": "2020-12-09",
+  "application_number": "2020/38783",
+  "deciding_unit": "Genel Kurul",
+  "decision_date": "2024-07-04",
+  "id": "2fc99dda-c99d-e9f8-3435-12ba6d219648",
+  "in_force": "2024-10-03",
+  "in_force_basis": "official Resmî Gazete date",
+  "kind": "constitutional-court-individual-application",
+  "omitted_images": 0,
+  "outcome": "Kabul Edilemezlik vd.",
+  "published": "2024-10-03",
+  "referenced_images": 0,
+  "source": "https://kararlarbilgibankasi.anayasa.gov.tr/kbb/pages/search/Tumu?id=a2JiOjJmYzk5ZGRhLWM5OWQtZTlmOC0zNDM1LTEyYmE2ZDIxOTY0OA&type=BireyselBasvuru",
+  "source_api": "https://kararlarbilgibankasi.anayasa.gov.tr/api/core/public/search",
+  "source_images": 0,
+  "source_sha256": "45275c0eae4b8c3822f720ae7d3deafd253aa9d175761a983c6d7355fdceb17e",
+  "version_label": "as-enacted"
+}
