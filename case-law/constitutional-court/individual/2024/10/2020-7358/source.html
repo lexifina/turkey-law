@@ -1,0 +1,912 @@
+<meta http-equiv="Content-Type" content="text/html; charset=UTF-8"><meta name=Generator content="Microsoft Word 15 (filtered)">
+<style type="text/css"><!--
+ /* Font Definitions */
+ @font-face
+	{font-family:"Cambria Math";
+	panose-1:2 4 5 3 5 4 6 3 2 4;}
+@font-face
+	{font-family:"Andale Sans UI";}
+@font-face
+	{font-family:"MS PGothic";
+	panose-1:2 11 6 0 7 2 5 8 2 4;}
+@font-face
+	{font-family:Tahoma;
+	panose-1:2 11 6 4 3 5 4 4 2 4;}
+@font-face
+	{font-family:Dialog;}
+@font-face
+	{font-family:"\@MS PGothic";}
+ /* Style Definitions */
+ p.MsoNormal, li.MsoNormal, div.MsoNormal
+	{margin:0cm;
+	margin-bottom:.0001pt;
+	font-size:12.0pt;
+	font-family:"Times New Roman",serif;}
+p.MsoHeader, li.MsoHeader, div.MsoHeader
+	{margin:0cm;
+	margin-bottom:.0001pt;
+	font-size:12.0pt;
+	font-family:"Times New Roman",serif;}
+p.MsoFooter, li.MsoFooter, div.MsoFooter
+	{mso-style-link:"Alt Bilgi Char";
+	margin:0cm;
+	margin-bottom:.0001pt;
+	font-size:12.0pt;
+	font-family:"Times New Roman",serif;}
+p.MsoList, li.MsoList, div.MsoList
+	{margin-top:0cm;
+	margin-right:0cm;
+	margin-bottom:6.0pt;
+	margin-left:0cm;
+	font-size:12.0pt;
+	font-family:"Times New Roman",serif;}
+p.MsoTitle, li.MsoTitle, div.MsoTitle
+	{margin-top:6.0pt;
+	margin-right:0cm;
+	margin-bottom:6.0pt;
+	margin-left:0cm;
+	font-size:12.0pt;
+	font-family:"Times New Roman",serif;
+	font-style:italic;}
+p.MsoBodyText, li.MsoBodyText, div.MsoBodyText
+	{margin-top:0cm;
+	margin-right:0cm;
+	margin-bottom:6.0pt;
+	margin-left:0cm;
+	font-size:12.0pt;
+	font-family:"Times New Roman",serif;}
+p.MsoSubtitle, li.MsoSubtitle, div.MsoSubtitle
+	{margin-top:6.0pt;
+	margin-right:0cm;
+	margin-bottom:6.0pt;
+	margin-left:0cm;
+	text-align:center;
+	font-size:14.0pt;
+	font-family:"Times New Roman",serif;
+	font-style:italic;}
+p.stbalk, li.stbalk, div.stbalk
+	{mso-style-name:"Üst başlık";
+	margin-top:12.0pt;
+	margin-right:0cm;
+	margin-bottom:6.0pt;
+	margin-left:0cm;
+	page-break-after:avoid;
+	font-size:14.0pt;
+	font-family:"Arial",sans-serif;}
+p.Dizin, li.Dizin, div.Dizin
+	{mso-style-name:Dizin;
+	margin:0cm;
+	margin-bottom:.0001pt;
+	font-size:12.0pt;
+	font-family:"Times New Roman",serif;}
+p.edf1393440552765, li.edf1393440552765, div.edf1393440552765
+	{mso-style-name:edf_1393440552765;
+	margin:0cm;
+	margin-bottom:.0001pt;
+	font-size:12.0pt;
+	font-family:"Times New Roman",serif;}
+p.edf1427356575358, li.edf1427356575358, div.edf1427356575358
+	{mso-style-name:edf_1427356575358;
+	margin:0cm;
+	margin-bottom:.0001pt;
+	font-size:12.0pt;
+	font-family:"Times New Roman",serif;}
+p.edf1456476715626, li.edf1456476715626, div.edf1456476715626
+	{mso-style-name:edf_1456476715626;
+	margin:0cm;
+	margin-bottom:.0001pt;
+	font-size:12.0pt;
+	font-family:"Times New Roman",serif;}
+p.edf1427703561912, li.edf1427703561912, div.edf1427703561912
+	{mso-style-name:edf_1427703561912;
+	margin:0cm;
+	margin-bottom:.0001pt;
+	font-size:14.0pt;
+	font-family:Dialog;
+	color:black;}
+p.edf1434398297917, li.edf1434398297917, div.edf1434398297917
+	{mso-style-name:edf_1434398297917;
+	margin:0cm;
+	margin-bottom:.0001pt;
+	font-size:12.0pt;
+	font-family:"Times New Roman",serif;}
+p.edf1396442551913, li.edf1396442551913, div.edf1396442551913
+	{mso-style-name:edf_1396442551913;
+	margin:0cm;
+	margin-bottom:.0001pt;
+	font-size:12.0pt;
+	font-family:"Times New Roman",serif;}
+p.edf1623142752952, li.edf1623142752952, div.edf1623142752952
+	{mso-style-name:edf_1623142752952;
+	margin:0cm;
+	margin-bottom:.0001pt;
+	font-size:12.0pt;
+	font-family:"Times New Roman",serif;}
+p.edf1393440831590, li.edf1393440831590, div.edf1393440831590
+	{mso-style-name:edf_1393440831590;
+	margin:0cm;
+	margin-bottom:.0001pt;
+	font-size:12.0pt;
+	font-family:"Times New Roman",serif;}
+p.edf1450279197849, li.edf1450279197849, div.edf1450279197849
+	{mso-style-name:edf_1450279197849;
+	margin:0cm;
+	margin-bottom:.0001pt;
+	font-size:12.0pt;
+	font-family:"Times New Roman",serif;}
+p.default, li.default, div.default
+	{mso-style-name:default;
+	margin:0cm;
+	margin-bottom:.0001pt;
+	font-size:12.0pt;
+	font-family:Dialog;
+	color:#333333;}
+p.edf1373008340589, li.edf1373008340589, div.edf1373008340589
+	{mso-style-name:edf_1373008340589;
+	margin:0cm;
+	margin-bottom:.0001pt;
+	font-size:12.0pt;
+	font-family:"Times New Roman",serif;}
+p.edf1435142952596, li.edf1435142952596, div.edf1435142952596
+	{mso-style-name:edf_1435142952596;
+	margin:0cm;
+	margin-bottom:.0001pt;
+	font-size:12.0pt;
+	font-family:"Times New Roman",serif;}
+p.edf1581598813357, li.edf1581598813357, div.edf1581598813357
+	{mso-style-name:edf_1581598813357;
+	margin:0cm;
+	margin-bottom:.0001pt;
+	font-size:12.0pt;
+	font-family:"Times New Roman",serif;}
+p.edf1449419213507, li.edf1449419213507, div.edf1449419213507
+	{mso-style-name:edf_1449419213507;
+	margin:0cm;
+	margin-bottom:.0001pt;
+	font-size:12.0pt;
+	font-family:"Times New Roman",serif;}
+p.edf1449437129215, li.edf1449437129215, div.edf1449437129215
+	{mso-style-name:edf_1449437129215;
+	margin:0cm;
+	margin-bottom:.0001pt;
+	font-size:12.0pt;
+	font-family:"Times New Roman",serif;}
+p.edf1450279197847, li.edf1450279197847, div.edf1450279197847
+	{mso-style-name:edf_1450279197847;
+	margin:0cm;
+	margin-bottom:.0001pt;
+	font-size:12.0pt;
+	font-family:"Times New Roman",serif;}
+p.hvl-default, li.hvl-default, div.hvl-default
+	{mso-style-name:hvl-default;
+	margin:0cm;
+	margin-bottom:.0001pt;
+	font-size:12.0pt;
+	font-family:"Times New Roman",serif;}
+p.edf1431933470578, li.edf1431933470578, div.edf1431933470578
+	{mso-style-name:edf_1431933470578;
+	margin:0cm;
+	margin-bottom:.0001pt;
+	font-size:12.0pt;
+	font-family:"Times New Roman",serif;}
+p.edf1363590918387, li.edf1363590918387, div.edf1363590918387
+	{mso-style-name:edf_1363590918387;
+	margin:0cm;
+	margin-bottom:.0001pt;
+	font-size:12.0pt;
+	font-family:"Times New Roman",serif;}
+p.edf1501769788836, li.edf1501769788836, div.edf1501769788836
+	{mso-style-name:edf_1501769788836;
+	margin:0cm;
+	margin-bottom:.0001pt;
+	font-size:12.0pt;
+	font-family:"Times New Roman",serif;}
+p.edf1349962966121, li.edf1349962966121, div.edf1349962966121
+	{mso-style-name:edf_1349962966121;
+	margin:0cm;
+	margin-bottom:.0001pt;
+	font-size:12.0pt;
+	font-family:"Times New Roman",serif;}
+p.edf1449480327858, li.edf1449480327858, div.edf1449480327858
+	{mso-style-name:edf_1449480327858;
+	margin:0cm;
+	margin-bottom:.0001pt;
+	font-size:12.0pt;
+	font-family:"Times New Roman",serif;}
+p.edf1605554654539, li.edf1605554654539, div.edf1605554654539
+	{mso-style-name:edf_1605554654539;
+	margin:0cm;
+	margin-bottom:.0001pt;
+	font-size:12.0pt;
+	font-family:"Times New Roman",serif;}
+p.edf1393440766750, li.edf1393440766750, div.edf1393440766750
+	{mso-style-name:edf_1393440766750;
+	margin:0cm;
+	margin-bottom:.0001pt;
+	font-size:12.0pt;
+	font-family:"Times New Roman",serif;}
+p.edf1440526925920, li.edf1440526925920, div.edf1440526925920
+	{mso-style-name:edf_1440526925920;
+	margin:0cm;
+	margin-bottom:.0001pt;
+	font-size:12.0pt;
+	font-family:"Times New Roman",serif;}
+p.edf1419594272479, li.edf1419594272479, div.edf1419594272479
+	{mso-style-name:edf_1419594272479;
+	margin:0cm;
+	margin-bottom:.0001pt;
+	font-size:12.0pt;
+	font-family:"Times New Roman",serif;}
+p.edf1470999819773, li.edf1470999819773, div.edf1470999819773
+	{mso-style-name:edf_1470999819773;
+	margin:0cm;
+	margin-bottom:.0001pt;
+	font-size:12.0pt;
+	font-family:"Times New Roman",serif;}
+p.edf1419597503565, li.edf1419597503565, div.edf1419597503565
+	{mso-style-name:edf_1419597503565;
+	margin:0cm;
+	margin-bottom:.0001pt;
+	font-size:12.0pt;
+	font-family:"Times New Roman",serif;}
+p.edf1432279472695, li.edf1432279472695, div.edf1432279472695
+	{mso-style-name:edf_1432279472695;
+	margin:0cm;
+	margin-bottom:.0001pt;
+	font-size:12.0pt;
+	font-family:"Times New Roman",serif;}
+p.edf1343139977212, li.edf1343139977212, div.edf1343139977212
+	{mso-style-name:edf_1343139977212;
+	margin:0cm;
+	margin-bottom:.0001pt;
+	font-size:12.0pt;
+	font-family:"Times New Roman",serif;}
+p.edf1424854850696, li.edf1424854850696, div.edf1424854850696
+	{mso-style-name:edf_1424854850696;
+	margin:0cm;
+	margin-bottom:.0001pt;
+	font-size:12.0pt;
+	font-family:"Times New Roman",serif;}
+p.edf1428486758178, li.edf1428486758178, div.edf1428486758178
+	{mso-style-name:edf_1428486758178;
+	margin:0cm;
+	margin-bottom:.0001pt;
+	font-size:12.0pt;
+	font-family:"Times New Roman",serif;}
+span.AltBilgiChar
+	{mso-style-name:"Alt Bilgi Char";
+	mso-style-link:"Alt Bilgi";
+	font-family:"Andale Sans UI";}
+.MsoChpDefault
+	{font-size:10.0pt;}
+ /* Page Definitions */
+ @page WordSection1
+	{size:595.3pt 841.9pt;
+	margin:48.8pt 70.85pt 70.0pt 70.85pt;}
+div.WordSection1
+	{page:WordSection1;}
+-->
+</style>
+<div class="WordSection1">
+<p class="MsoNormal" style="margin-top:0cm;margin-right:14.15pt;margin-bottom:
+10.0pt;margin-left:14.15pt;text-align:justify;text-indent:1.0cm"><b><span style="font-size:14.0pt;color:#010000"> </span></b></p>
+
+<p class="MsoNormal" style="margin-top:0cm;margin-right:14.15pt;margin-bottom:
+10.0pt;margin-left:14.15pt;text-align:justify;text-indent:1.0cm"><b><span style="font-size:14.0pt;color:#010000"> </span></b></p>
+
+<p class="MsoNormal" style="margin-top:0cm;margin-right:14.15pt;margin-bottom:
+10.0pt;margin-left:14.15pt;text-align:justify;text-indent:1.0cm"><b><span style="font-size:14.0pt;color:#010000"> </span></b></p>
+
+<p class="MsoNormal" style="margin-top:0cm;margin-right:14.15pt;margin-bottom:
+10.0pt;margin-left:14.15pt;text-align:justify;text-indent:1.0cm"><b><span style="font-size:14.0pt;color:#010000"> </span></b></p>
+
+<div align="center">
+<table border="0" cellpadding="0" cellspacing="0" class="MsoNormalTable" style="border-collapse:collapse">
+	<tbody>
+		<tr style="height:25.0pt">
+			<td style="width:16.0cm;padding:0cm 3.5pt 0cm 3.5pt;height:25.0pt" width="605">
+			<p align="center" class="MsoNormal" style="margin-top:0cm;margin-right:14.15pt;
+  margin-bottom:10.0pt;margin-left:0cm;text-align:center"><b><span style="font-size:14.0pt;color:#010000">TÜRKİYE CUMHURİYETİ</span></b></p>
+			</td>
+		</tr>
+		<tr style="height:25.0pt">
+			<td style="width:16.0cm;padding:0cm 3.5pt 0cm 3.5pt;height:25.0pt" width="605">
+			<p align="center" class="MsoNormal" style="margin-top:0cm;margin-right:14.15pt;
+  margin-bottom:10.0pt;margin-left:0cm;text-align:center"><b><span style="font-size:16.0pt;color:#010000">ANAYASA MAHKEMESİ</span></b></p>
+			</td>
+		</tr>
+		<tr style="height:25.0pt">
+			<td style="width:16.0cm;padding:0cm 3.5pt 0cm 3.5pt;height:25.0pt" width="605">
+			<p align="center" class="MsoNormal" style="margin-top:0cm;margin-right:14.15pt;
+  margin-bottom:10.0pt;margin-left:0cm;text-align:center"><b><span style="color:#010000"> </span></b></p>
+			</td>
+		</tr>
+		<tr style="height:25.0pt">
+			<td style="width:16.0cm;padding:0cm 3.5pt 0cm 3.5pt;height:25.0pt" width="605">
+			<p align="center" class="MsoNormal" style="margin-top:0cm;margin-right:14.15pt;
+  margin-bottom:10.0pt;margin-left:0cm;text-align:center"><b><span style="color:#010000"> </span></b></p>
+			</td>
+		</tr>
+		<tr style="height:25.0pt">
+			<td style="width:16.0cm;padding:0cm 3.5pt 0cm 3.5pt;height:25.0pt" width="605">
+			<p align="center" class="MsoNormal" style="margin-top:0cm;margin-right:14.15pt;
+  margin-bottom:10.0pt;margin-left:0cm;text-align:center"><b><span style="color:#010000">BİRİNCİ BÖLÜM</span></b></p>
+			</td>
+		</tr>
+		<tr style="height:25.0pt">
+			<td style="width:16.0cm;padding:0cm 3.5pt 0cm 3.5pt;height:25.0pt" width="605">
+			<p align="center" class="MsoNormal" style="margin-top:0cm;margin-right:14.15pt;
+  margin-bottom:10.0pt;margin-left:0cm;text-align:center"><b><span style="color:#010000"> </span></b></p>
+			</td>
+		</tr>
+		<tr style="height:25.0pt">
+			<td style="width:16.0cm;padding:0cm 3.5pt 0cm 3.5pt;height:25.0pt" width="605">
+			<p align="center" class="MsoNormal" style="margin-top:0cm;margin-right:14.15pt;
+  margin-bottom:10.0pt;margin-left:0cm;text-align:center"><b><span style="color:#010000">KARAR</span></b></p>
+			</td>
+		</tr>
+		<tr style="height:25.0pt">
+			<td style="width:16.0cm;padding:0cm 3.5pt 0cm 3.5pt;height:25.0pt" width="605">
+			<p align="center" class="MsoNormal" style="margin-top:0cm;margin-right:14.15pt;
+  margin-bottom:10.0pt;margin-left:0cm;text-align:center"><b><span style="color:#010000"> </span></b></p>
+			</td>
+		</tr>
+		<tr style="height:25.0pt">
+			<td style="width:16.0cm;padding:0cm 3.5pt 0cm 3.5pt;height:25.0pt" width="605">
+			<p align="center" class="MsoNormal" style="margin-top:0cm;margin-right:14.15pt;
+  margin-bottom:10.0pt;margin-left:0cm;text-align:center"><b><span style="color:#010000">K.B.A. BAŞVURUSU</span></b></p>
+			</td>
+		</tr>
+		<tr style="height:25.0pt">
+			<td style="width:16.0cm;padding:0cm 3.5pt 0cm 3.5pt;height:25.0pt" width="605">
+			<p align="center" class="MsoNormal" style="margin-top:0cm;margin-right:14.15pt;
+  margin-bottom:10.0pt;margin-left:0cm;text-align:center"><span style="color:#010000">(Başvuru Numarası: 2020/7358)</span></p>
+			</td>
+		</tr>
+		<tr style="height:25.0pt">
+			<td style="width:16.0cm;padding:0cm 3.5pt 0cm 3.5pt;height:25.0pt" width="605">
+			<p align="center" class="MsoNormal" style="margin-top:0cm;margin-right:14.15pt;
+  margin-bottom:10.0pt;margin-left:0cm;text-align:center"><b><span style="color:#010000"> </span></b></p>
+			</td>
+		</tr>
+		<tr style="height:25.0pt">
+			<td style="width:16.0cm;padding:0cm 3.5pt 0cm 3.5pt;height:25.0pt" width="605">
+			<p align="center" class="MsoNormal" style="margin-top:0cm;margin-right:14.15pt;
+  margin-bottom:10.0pt;margin-left:0cm;text-align:center"><span style="color:#010000">Karar Tarihi: 3/10/2024</span></p>
+			</td>
+		</tr>
+		<tr style="height:25.0pt">
+			<td style="width:16.0cm;padding:0cm 3.5pt 0cm 3.5pt;height:25.0pt" width="605">
+			<p align="center" class="MsoNormal" style="margin-top:0cm;margin-right:14.15pt;
+  margin-bottom:10.0pt;margin-left:0cm;text-align:center"><span style="color:#010000"> </span></p>
+			</td>
+		</tr>
+		<tr style="height:25.0pt">
+			<td style="width:16.0cm;padding:0cm 3.5pt 0cm 3.5pt;height:25.0pt" width="605">
+			<p align="center" class="MsoNormal" style="margin-top:0cm;margin-right:14.15pt;
+  margin-bottom:10.0pt;margin-left:0cm;text-align:center"><b><span style="color:#010000">BİRİNCİ BÖLÜM</span></b></p>
+			</td>
+		</tr>
+		<tr style="height:25.0pt">
+			<td style="width:16.0cm;padding:0cm 3.5pt 0cm 3.5pt;height:25.0pt" width="605">
+			<p align="center" class="MsoNormal" style="margin-top:0cm;margin-right:14.15pt;
+  margin-bottom:10.0pt;margin-left:0cm;text-align:center"><b><span style="color:#010000"> </span></b></p>
+			</td>
+		</tr>
+		<tr style="height:25.0pt">
+			<td style="width:16.0cm;padding:0cm 3.5pt 0cm 3.5pt;height:25.0pt" width="605">
+			<p align="center" class="MsoNormal" style="margin-top:0cm;margin-right:14.15pt;
+  margin-bottom:10.0pt;margin-left:0cm;text-align:center"><b><span style="color:#010000">KARAR</span></b></p>
+			</td>
+		</tr>
+		<tr style="height:25.0pt">
+			<td style="width:16.0cm;padding:0cm 3.5pt 0cm 3.5pt;height:25.0pt" width="605">
+			<p align="center" class="MsoNormal" style="margin-top:0cm;margin-right:14.15pt;
+  margin-bottom:10.0pt;margin-left:0cm;text-align:center"><b><span style="color:#010000"> </span></b></p>
+			</td>
+		</tr>
+	</tbody>
+</table>
+</div>
+
+<p align="right" class="MsoNormal" style="margin-top:0cm;margin-right:14.15pt;
+margin-bottom:10.0pt;margin-left:14.15pt;text-align:right;text-indent:1.0cm"><b><u><span style="color:#010000">GİZLİLİK TALEBİ KABUL</span></u></b></p>
+
+<p class="edf1393440552765" style="margin-top:0cm;margin-right:14.15pt;
+margin-bottom:10.0pt;margin-left:14.15pt;text-align:justify;text-indent:1.0cm"><b><span style="color:#010000"> </span></b></p>
+
+<table border="0" cellpadding="0" cellspacing="0" class="MsoNormalTable" style="margin-left:40.0pt;border-collapse:collapse">
+	<tbody>
+		<tr style="height:22.7pt">
+			<td style="width:120.0pt;padding:0cm 3.5pt 0cm 3.5pt;
+  height:22.7pt" valign="top" width="160">
+			<p class="edf1393440552765"><b><span style="color:#010000">Başkan</span></b></p>
+			</td>
+			<td style="width:10.0pt;padding:0cm 3.5pt 0cm 3.5pt;
+  height:22.7pt" valign="top" width="13">
+			<p class="edf1393440552765"><b><span style="color:#010000">:</span></b></p>
+			</td>
+			<td style="width:270.0pt;padding:0cm 3.5pt 0cm 3.5pt;
+  height:22.7pt" valign="top" width="360">
+			<p class="edf1393440552765"><span style="color:#010000">Hasan Tahsin GÖKCAN</span></p>
+			</td>
+		</tr>
+		<tr style="height:22.7pt">
+			<td style="width:120.0pt;padding:0cm 3.5pt 0cm 3.5pt;
+  height:22.7pt" valign="top" width="160">
+			<p class="edf1393440552765"><b><span style="color:#010000">Üyeler</span></b></p>
+			</td>
+			<td style="width:10.0pt;padding:0cm 3.5pt 0cm 3.5pt;
+  height:22.7pt" valign="top" width="13">
+			<p class="edf1393440552765"><b><span style="color:#010000">:</span></b></p>
+			</td>
+			<td style="width:270.0pt;padding:0cm 3.5pt 0cm 3.5pt;
+  height:22.7pt" valign="top" width="360">
+			<p class="edf1393440552765"><span style="color:#010000">Yusuf Şevki HAKYEMEZ</span></p>
+			</td>
+		</tr>
+		<tr style="height:22.7pt">
+			<td style="width:120.0pt;padding:0cm 3.5pt 0cm 3.5pt;
+  height:22.7pt" valign="top" width="160">
+			<p class="edf1393440552765"><b><span style="color:#010000"> </span></b></p>
+			</td>
+			<td style="width:10.0pt;padding:0cm 3.5pt 0cm 3.5pt;
+  height:22.7pt" valign="top" width="13">
+			<p class="edf1393440552765"><b><span style="color:#010000"> </span></b></p>
+			</td>
+			<td style="width:270.0pt;padding:0cm 3.5pt 0cm 3.5pt;
+  height:22.7pt" valign="top" width="360">
+			<p class="edf1393440552765"><span style="color:#010000">İrfan FİDAN</span></p>
+			</td>
+		</tr>
+		<tr style="height:22.7pt">
+			<td style="width:120.0pt;padding:0cm 3.5pt 0cm 3.5pt;
+  height:22.7pt" valign="top" width="160">
+			<p class="edf1393440552765"><b><span style="color:#010000"> </span></b></p>
+			</td>
+			<td style="width:10.0pt;padding:0cm 3.5pt 0cm 3.5pt;
+  height:22.7pt" valign="top" width="13">
+			<p class="edf1393440552765"><b><span style="color:#010000"> </span></b></p>
+			</td>
+			<td style="width:270.0pt;padding:0cm 3.5pt 0cm 3.5pt;
+  height:22.7pt" valign="top" width="360">
+			<p class="edf1393440552765"><span style="color:#010000">Muhterem İNCE</span></p>
+			</td>
+		</tr>
+		<tr style="height:22.7pt">
+			<td style="width:120.0pt;padding:0cm 3.5pt 0cm 3.5pt;
+  height:22.7pt" valign="top" width="160">
+			<p class="edf1393440552765"><b><span style="color:#010000"> </span></b></p>
+			</td>
+			<td style="width:10.0pt;padding:0cm 3.5pt 0cm 3.5pt;
+  height:22.7pt" valign="top" width="13">
+			<p class="edf1393440552765"><b><span style="color:#010000"> </span></b></p>
+			</td>
+			<td style="width:270.0pt;padding:0cm 3.5pt 0cm 3.5pt;
+  height:22.7pt" valign="top" width="360">
+			<p class="edf1393440552765"><span style="color:#010000">Yılmaz AKÇİL</span></p>
+			</td>
+		</tr>
+		<tr style="height:22.7pt">
+			<td style="width:120.0pt;padding:0cm 3.5pt 0cm 3.5pt;
+  height:22.7pt" valign="top" width="160">
+			<p class="edf1393440552765"><b><span style="color:#010000">Raportör</span></b></p>
+			</td>
+			<td style="width:10.0pt;padding:0cm 3.5pt 0cm 3.5pt;
+  height:22.7pt" valign="top" width="13">
+			<p class="edf1393440552765"><b><span style="color:#010000">:</span></b></p>
+			</td>
+			<td style="width:270.0pt;padding:0cm 3.5pt 0cm 3.5pt;
+  height:22.7pt" valign="top" width="360">
+			<p class="edf1393440552765"><span style="color:#010000">Ayşenur TUNCER</span></p>
+			</td>
+		</tr>
+		<tr style="height:22.7pt">
+			<td style="width:120.0pt;padding:0cm 3.5pt 0cm 3.5pt;
+  height:22.7pt" valign="top" width="160">
+			<p class="edf1393440552765"><b><span style="color:#010000">Başvurucu</span></b></p>
+			</td>
+			<td style="width:10.0pt;padding:0cm 3.5pt 0cm 3.5pt;
+  height:22.7pt" valign="top" width="13">
+			<p class="edf1393440552765"><b><span style="color:#010000">:</span></b></p>
+			</td>
+			<td style="width:270.0pt;padding:0cm 3.5pt 0cm 3.5pt;
+  height:22.7pt" valign="top" width="360">
+			<p class="edf1393440552765"><span style="color:#010000">K.B.A.</span></p>
+			</td>
+		</tr>
+		<tr style="height:22.7pt">
+			<td style="width:120.0pt;padding:0cm 3.5pt 0cm 3.5pt;
+  height:22.7pt" valign="top" width="160">
+			<p class="edf1393440552765"><b><span style="color:#010000">Vekili</span></b></p>
+			</td>
+			<td style="width:10.0pt;padding:0cm 3.5pt 0cm 3.5pt;
+  height:22.7pt" valign="top" width="13">
+			<p class="edf1393440552765"><b><span style="color:#010000">:</span></b></p>
+			</td>
+			<td style="width:270.0pt;padding:0cm 3.5pt 0cm 3.5pt;
+  height:22.7pt" valign="top" width="360">
+			<p class="edf1393440552765"><span style="color:#010000">Av. Hatice AYDIN</span></p>
+			</td>
+		</tr>
+	</tbody>
+</table>
+
+<p class="edf1393440552765" style="margin-top:0cm;margin-right:14.15pt;
+margin-bottom:10.0pt;margin-left:14.15pt;text-align:justify;text-indent:1.0cm"><b><span style="color:#010000"> </span></b></p>
+
+<p class="edf1393440552765" style="margin-top:0cm;margin-right:14.15pt;
+margin-bottom:10.0pt;margin-left:14.15pt;text-align:justify;text-indent:1.0cm"><b><span style="color:#010000">I.</span></b><span style="color:#010000"> <b>BAŞVURUNUN KONUSU</b></span></p>
+
+<p class="edf1450279197849" style="margin-top:0cm;margin-right:14.15pt;
+margin-bottom:10.0pt;margin-left:14.15pt;text-align:justify;text-indent:1.0cm"><span style="color:#010000">1. Başvuru; hakkında şikâyet olmamasına rağmen Ulusal Yargı Ağı Bilişim Sistemi (UYAP) kayıtlarında "<i>şikâyet edilen</i>" olarak yer alan kişisel verilerinin silinmemesi nedeniyle özel hayata saygı hakkı kapsamındaki kişisel verilerin korunmasını isteme hakkının ve bu hakla bağlantılı olarak etkili başvuru hakkının ihlal edildiği iddiasına ilişkindir. </span></p>
+
+<p class="edf1450279197849" style="margin-top:0cm;margin-right:14.15pt;
+margin-bottom:10.0pt;margin-left:14.15pt;text-align:justify;text-indent:1.0cm"><b><span style="color:#010000">II.</span></b><span style="color:#010000"> <b>BAŞVURU SÜRECİ</b></span></p>
+
+<p class="MsoNormal" style="margin-top:0cm;margin-right:14.15pt;margin-bottom:
+10.0pt;margin-left:14.15pt;text-align:justify;text-indent:1.0cm"><span style="color:#010000">2. Başvuru 26/2/2020 tarihinde yapılmıştır. Komisyon, etkili başvuru ile özel hayata ve aile hayatına saygı hakkı dışındaki şikâyetlerin kabul edilemez olduğuna, anılan haklara ilişkin şikâyetin kabul edilebilirlik incelemesinin Bölüm tarafından yapılmasına karar vermiştir. 2022/21252 ve 2022/23627 numaralı başvurular 2020/7358 numaralı başvuru dosyasıyla birleştirilmiştir. </span></p>
+
+<p class="MsoNormal" style="margin-top:0cm;margin-right:14.15pt;margin-bottom:
+10.0pt;margin-left:14.15pt;text-align:justify;text-indent:1.0cm"><span style="color:#010000">3. Başvuru belgelerinin bir örneği bilgi için Adalet Bakanlığına (Bakanlık) gönderilmiştir. Bakanlık, görüşünü bildirmiştir. Başvurucu, Bakanlığın görüşüne karşı beyanda bulunmuştur.</span></p>
+
+<p class="MsoNormal" style="margin-top:0cm;margin-right:14.15pt;margin-bottom:
+10.0pt;margin-left:14.15pt;text-align:justify;text-indent:1.0cm"><b><span style="color:#010000">III.</span></b><span style="color:#010000"> <b>OLAY VE OLGULAR</b></span></p>
+
+<p class="MsoNormal" style="margin-top:0cm;margin-right:14.15pt;margin-bottom:
+10.0pt;margin-left:14.15pt;text-align:justify;text-indent:1.0cm"><b><span style="color:#010000">A.</span></b><span style="color:#010000"> <b>Başvuruya Konu Ceza Soruşturmasına İlişkin Süreç</b></span></p>
+
+<p class="MsoNormal" style="margin-top:0cm;margin-right:14.15pt;margin-bottom:
+10.0pt;margin-left:14.15pt;text-align:justify;text-indent:1.0cm"><span style="color:#010000">4. Başvurucunun oturduğu binanın yöneticisi tarafından Ankara Cumhuriyet Başsavcılığına (Başsavcılık) verilen 12/6/2018 tarihli şikâyet dilekçesinde başvurucunun bina sakini olduğu, ismini bilmedikleri ve kendisini <i>"başvurucunun kız kardeşi" </i>şeklinde tanıtan kişi hakkında bina kurallarına riayet etmemesi nedeniyle şikâyetçi olunduğu belirtilmiştir. Yönetici şikâyet dilekçesinde özetle, şüpheli olarak başvurucuyu belirtmiş olmakla birlikte yöneticisi bulunduğu binada oturan başvurucunun ismini bilmediği kız kardeşinin bina kurallarına riayet etmediğini, uyarıda bulunması üzerine kendisine yönelik tehdit ve hakaret içeren sözler söylediğini, bu kişinin bina sakini olmadığını belirterek şikâyetçi olmuştur.</span></p>
+
+<p class="MsoNormal" style="margin-top:0cm;margin-right:14.15pt;margin-bottom:
+10.0pt;margin-left:14.15pt;text-align:justify;text-indent:1.0cm"><span style="color:#010000">5. Başsavcılık 28/2/2019 tarihinde başvurucu hakkında kovuşturma yapılmasına yer olmadığına karar vermiştir. Kararda müştekinin başvurucuya yönelik herhangi bir şikâyeti olmadığı, bu kişinin ismini bilmediği kız kardeşi hakkında isnatta bulunup şikâyetçi olduğu, ancak emniyet ifadesinde müşteki tanıklarının başvurucunun ismini vererek eylemi başvurucunun gerçekleştirdiğini iddia ettikleri, müştekinin ifadesi ile tanıklarının ifadesi arasında çelişki bulunduğu, bu nedenle tanık beyanlarına itibar edilemeyeceği ifade edilmiştir. Ayrıca müştekinin bir isnatta bulunmadığının anlaşıldığı belirtilerek kamu davası açılması için yeterli delil bulunmadığı vurgulanmıştır.</span></p>
+
+<p class="MsoNormal" style="margin-top:0cm;margin-right:14.15pt;margin-bottom:
+10.0pt;margin-left:14.15pt;text-align:justify;text-indent:1.0cm"><span style="color:#010000">6. Başvurucu 11/3/2019 tarihinde anılan karara karşı Ankara 7. Sulh Ceza Hâkimliğine itiraz yoluna başvurmuştur. İtiraz dilekçesinde hakkında şikâyet olmadığı hâlde soruşturma kaydı açılması nedeniyle ağır usul ve hukuk hatası yapıldığı, adına açılan soruşturma kaydının kapatılması, kaldırılması ve sistemden çıkarılması, hatanın düzeltilerek yaşanılan mağduriyetin giderilmesi talep edilmiştir. </span></p>
+
+<p class="MsoNormal" style="margin-top:0cm;margin-right:14.15pt;margin-bottom:
+10.0pt;margin-left:14.15pt;text-align:justify;text-indent:1.0cm"><span style="color:#010000">7. Sulh Ceza Hâkimliği 21/5/2019 tarihinde itirazın kabulü ile kovuşturmaya yer olmadığına dair kararın kaldırılmasına karar vermiştir. Kararda ihbar dilekçesinde başvurucunun adı geçmediği halde isim karışıklığı yapılarak hakkında soruşturma yürütüldüğü, kendisi yönünden herhangi bir şikâyet olmadığı gibi hakkında suç isnadında bile bulunulmadığı ifade edilmiştir. Kararda ayrıca, 4/12/2004 tarihli ve 5271 sayılı Ceza Muhakemesi Kanunu'nun 158. maddesinin (6) numaralı fıkrasının vatandaşların lekelenmeme haklarını korumak amacıyla düzenlendiği dikkate alındığında hakkında soruşturma yapılmasına yer olmadığı kararı verilip şüpheli sıfatının kaldırılması gerekirken kovuşturmaya yer olmadığına dair karar verilmesinin usul ve yasaya aykırı olduğu belirtilmiştir. </span></p>
+
+<p class="MsoNormal" style="margin-top:0cm;margin-right:14.15pt;margin-bottom:
+10.0pt;margin-left:14.15pt;text-align:justify;text-indent:1.0cm"><span style="color:#010000">8. Başsavcılık 4/7/2019 tarihinde başvurucu hakkında müsnet suçların işlendiğine dair soruşturma açılması için yeterli delil bulunmadığından 5271 sayılı Kanun'un 158. maddesinin (6) numaralı fıkrası gereğince soruşturma yapılmasına yer olmadığına karar vermiştir.</span></p>
+
+<p class="MsoNormal" style="margin-top:0cm;margin-right:14.15pt;margin-bottom:
+10.0pt;margin-left:14.15pt;text-align:justify;text-indent:1.0cm"><span style="color:#010000">9. Başvurucu Başsavcılığa verdiği 8/7/2019 tarihli dilekçesi ile kendisi hakkında soruşturma yapılmasına yer olmadığına karar verilen 2019/3672 sayılı ihbar dosyasının da kapatılmasını, "<i>şikâyet edilen</i>" kaydının silinmesini talep etmiştir. Başsavcılık talebi 10/7/2019 tarihli yazıyla Başkanlığa iletmiştir. Başkanlık 26/12/2019 tarihli yazıyla UYAP sisteminde bulunan kayıtların kanuni zorunluluk nedeniyle tutulduğunu, resmî belge niteliğindeki soruşturma ve kovuşturma evrakının ihtiyaç duyulması halinde yeniden görülebilmesi amacıyla saklanması nedeniyle UYAP sisteminden silinmediği belirtilmiştir.</span></p>
+
+<p class="MsoNormal" style="margin-top:0cm;margin-right:14.15pt;margin-bottom:
+10.0pt;margin-left:14.15pt;text-align:justify;text-indent:1.0cm"><span style="color:#010000">10. Başsavcılık tarafından 17/7/2019 tarihli yazı ekinde Ankara 2. Sulh Ceza Hâkimliğine gönderilen başvurucunun itirazı hakkında 8/11/2019 tarihinde soruşturma dosyasının Başsavcılığa işlemsiz iadesine karar verilmiştir. Kararda başvurucunun sunduğu dilekçenin soruşturmaya yer olmadığına dair karara itiraz mahiyetinde olmadığı belirtilmiştir.</span></p>
+
+<p class="MsoNormal" style="margin-top:0cm;margin-right:14.15pt;margin-bottom:
+10.0pt;margin-left:14.15pt;text-align:justify;text-indent:1.0cm"><b><span style="color:#010000">B.</span></b><span style="color:#010000"> <b>Başvuruya Konu İptal Davasına İlişkin Süreç</b></span></p>
+
+<p class="MsoNormal" style="margin-top:0cm;margin-right:14.15pt;margin-bottom:
+10.0pt;margin-left:14.15pt;text-align:justify;text-indent:1.0cm"><span style="color:#010000">11. Başvurucu hakkında şikâyet olmamasına rağmen adına Başsavcılık tarafından açılan suç kayıtlarının UYAP sisteminden kaldırılması talebiyle Başkanlığa yaptığı başvurunun 26/12/2019 tarihinde reddedildiğini belirterek bu işlemin iptali için 21/8/2020 tarihinde Ankara 18. İdare Mahkemesi'nde (İdare Mahkemesi) dava açmıştır. İdare Mahkemesi 22/4/2021 tarihinde davanın reddine karar vermiştir. Karar gerekçesinde; başvurucunun sistemdeki şüpheli kaydının Başkanlık tarafından kaldırıldığı, bu nedenle sistemde şüpheli sıfatının görülmediği, Sulh Ceza Hâkimliğince de kararın kaldırılması üzerine soruşturmaya yer olmadığına dair karar verildiği belirtilmiştir. </span></p>
+
+<p class="MsoNormal" style="margin-top:0cm;margin-right:14.15pt;margin-bottom:
+10.0pt;margin-left:14.15pt;text-align:justify;text-indent:1.0cm"><span style="color:#010000">12. Bunun yanında UYAP ekranından isimle sorgulama yapıldığında kapalı bir dosya bulunduğunun görüldüğü, ancak Ankara Cumhuriyet Başsavcılığınca karar içeriği ve başvurucunun sıfatı ile ilgili hususlara erişilemediği, ayrıca UYAP sisteminde yer alan kayıtların mevzuat hükümlerine göre silinmesinin mümkün olmadığından dava konusu işlemde hukuka aykırılık bulunmadığı kanaatine ulaşılmıştır. Bu kararda yer alan azlık oyunda başvurucu adına açılan suç kaydının, lekelenmeme hakkı kapsamında UYAP üzerinden kapatılması ve kaldırılması gerektiği sonucuna varıldığı ifade edilmiştir. Sonuç olarak davanın reddine ilişkin karar Ankara Bölge İdare Mahkemesi 10. İdari Dava Dairesi tarafından usul ve kanuna uygun bulunmuş olup 23/12/2021 tarihinde istinaf talebinin reddine kesin olarak karar verilmiştir.</span></p>
+
+<p class="MsoNormal" style="margin-top:0cm;margin-right:14.15pt;margin-bottom:
+10.0pt;margin-left:14.15pt;text-align:justify;text-indent:1.0cm"><b><span style="color:#010000">C.</span></b><span style="color:#010000"> <b>Başvuruya Konu Tam Yargı Davasına İlişkin Süreç</b></span></p>
+
+<p class="MsoNormal" style="margin-top:0cm;margin-right:14.15pt;margin-bottom:
+10.0pt;margin-left:14.15pt;text-align:justify;text-indent:1.0cm"><span style="color:#010000">13. Başvurucu hakkında şikâyet olmamasına rağmen adına Başsavcılık tarafından açılan suç kayıtlarının UYAP üzerinden kaldırılması ve tarafına maddi ile manevi tazminat ödenmesi talebiyle 15/5/2020 tarihinde İdare Mahkemesi'nde dava açmıştır. İdare Mahkemesi 28/5/2021 tarihinde davanın reddine karar vermiştir. Karar gerekçesinde; UYAP'ta bulunan kayıtların 5271 sayılı Kanun'un 38/A maddesi gereğince tutulması ve saklanması zorunlu olan kayıtlardan olduğu, bu kayıtların kanuni zorunluluk nedeniyle tutuluyor olması ve ihtiyaç duyulması halinde yeniden görülebilmesi amacıyla saklandığı gözetildiğinde UYAP sisteminde yer alan kayıtların mevzuat hükümleri gereğince silinmesinin mümkün olmadığı, bu nedenle de dava konusu işlemde hukuka aykırılık bulunmadığı kanaatine ulaşıldığı belirtilmiştir. </span></p>
+
+<p class="MsoNormal" style="margin-top:0cm;margin-right:14.15pt;margin-bottom:
+10.0pt;margin-left:14.15pt;text-align:justify;text-indent:1.0cm"><span style="color:#010000">14. Ayrıca olayda davalı idareye atfedilebilecek bir hizmet kusuru bulunmadığı gibi uyuşmazlık bakımından kusursuz sorumluluk ilke ve esaslarının da uygulanma kabiliyeti olmadığından davacının maddi ve manevi tazminat taleplerinin de reddine karar verilmiştir. Bu karara karşı başvurucu tarafından yapılan istinaf başvurusu Ankara Bölge İdare Mahkemesi 10. İdari Dava Dairesince 24/12/2021 tarihinde reddedilmiştir. </span></p>
+
+<p class="MsoNormal" style="margin-top:0cm;margin-right:14.15pt;margin-bottom:
+10.0pt;margin-left:14.15pt;text-align:justify;text-indent:1.0cm"><span style="color:#010000">15. Başvurucu, ilgili yargısal süreçlerdeki kararlar kesinleştikten sonra süresinde başvuruda bulunmuştur. </span></p>
+
+<p class="MsoNormal" style="margin-top:0cm;margin-right:14.15pt;margin-bottom:
+10.0pt;margin-left:14.15pt;text-align:justify;text-indent:1.0cm"><b><span style="color:#010000">IV. İLGİLİ HUKUK</span></b></p>
+
+<p class="MsoNormal" style="margin-top:0cm;margin-right:14.15pt;margin-bottom:
+10.0pt;margin-left:14.15pt;text-align:justify;text-indent:1.0cm"><b><span style="color:#010000">A. Ulusal Hukuk </span></b></p>
+
+<p class="MsoNormal" style="margin-top:0cm;margin-right:14.15pt;margin-bottom:
+10.0pt;margin-left:14.15pt;text-align:justify;text-indent:1.0cm"><span style="color:#010000">16. Kişisel verilerin korunmasıyla ilgili hukuk için bkz. <i>E.Ü.</i>, [GK], B. No: 2016/13010, 17/9/2020, §§ 22-32; <i>Bestami Eroğlu</i> [GK], B. No: 2018/23077, 17/9/2020, §§ 42-50; <i>Ümit Karaduman</i> B. No: 2020/20874, 2/2/2022, §§ 17-29; <i>Ümit Eyüpoğlu, </i>B. No: 2018/6161, 28/6/2022, §§ 13-28.</span></p>
+
+<p class="MsoNormal" style="margin-top:0cm;margin-right:14.15pt;margin-bottom:
+10.0pt;margin-left:14.15pt;text-align:justify;text-indent:1.0cm"><span style="color:#010000">17. 17/12/2004 tarihli ve<b> </b>5271 sayılı Ceza Muhakemesi Kanunu'nun (5271 sayılı Kanun) "Elektronik işlemler" başlıklı 38/A maddesinin ilgili kısımları şöyledir:</span></p>
+
+<p class="MsoNormal" style="margin-top:0cm;margin-right:14.15pt;margin-bottom:
+10.0pt;margin-left:14.15pt;text-align:justify;text-indent:1.0cm"><i><span style="font-size:11.0pt;color:#010000">''(1) Her türlü ceza muhakemesi işlemlerinde Ulusal Yargı Ağı Bilişim Sistemi (UYAP) kullanılır. Bu işlemlere ilişkin her türlü veri, bilgi, belge ve karar, UYAP vasıtasıyla işlenir, kaydedilir ve saklanır.</span></i></p>
+
+<p class="MsoNormal" style="margin-top:0cm;margin-right:14.15pt;margin-bottom:
+10.0pt;margin-left:14.15pt;text-align:justify;text-indent:1.0cm"><span style="color:#010000"> </span><i><span style="font-size:11.0pt;color:#010000">(2) Kanunlarda gösterilen istisnalar hariç olmak üzere, dosyalar güvenli elektronik imza kullanılarak UYAP’tan incelenebilir ve her türlü ceza muhakemesi işlemi yapılabilir.</span></i></p>
+
+<p class="MsoNormal" style="margin-top:0cm;margin-right:14.15pt;margin-bottom:
+10.0pt;margin-left:14.15pt;text-align:justify;text-indent:1.0cm"><span style="color:#010000"> </span><i><span style="font-size:11.0pt;color:#010000">(3) Bu Kanun kapsamında fiziki olarak hazırlanması öngörülen her türlü belge ve karar elektronik ortamda düzenlenebilir, işlenebilir, saklanabilir ve güvenli elektronik imza ile imzalanabilir.</span></i></p>
+
+<p class="MsoNormal" style="margin-top:0cm;margin-right:14.15pt;margin-bottom:
+10.0pt;margin-left:14.15pt;text-align:justify;text-indent:1.0cm"><span style="color:#010000"> </span><i><span style="font-size:11.0pt;color:#010000">(4) Güvenli elektronik imza ile imzalanan belge ve kararlar diğer kişi veya kurumlara elektronik ortamda gönderilir. Güvenli elektronik imza ile imzalanarak gönderilen belge veya kararlar, gerekmedikçe fiziki olarak ayrıca düzenlenmez ve ilgili kurum ve kişilere gönderilmez.</span></i></p>
+
+<p class="MsoNormal" style="margin-top:0cm;margin-right:14.15pt;margin-bottom:
+10.0pt;margin-left:14.15pt;text-align:justify;text-indent:1.0cm"><span style="color:#010000"> </span><i><span style="font-size:11.0pt;color:#010000">(5) Elektronik imzalı belgenin elle atılan imzalı belgeyle çelişmesi halinde UYAP’ta kayıtlı olan güvenli elektronik imzalı belge geçerli kabul edilir.</span></i></p>
+
+<p class="MsoNormal" style="margin-top:0cm;margin-right:14.15pt;margin-bottom:
+10.0pt;margin-left:14.15pt;text-align:justify;text-indent:1.0cm"><span style="color:#010000"> </span><i><span style="font-size:11.0pt;color:#010000">(6) Güvenli elektronik imza ile imzalanan belge ve kararlarda, mühürleme işlemi ile kanunlarda birden fazla nüshanın düzenlenmesini öngören hükümler uygulanmaz.</span></i></p>
+
+<p class="MsoNormal" style="margin-top:0cm;margin-right:14.15pt;margin-bottom:
+10.0pt;margin-left:14.15pt;text-align:justify;text-indent:1.0cm"><span style="color:#010000"> </span><i><span style="font-size:11.0pt;color:#010000">(7) Zorunlu nedenlerle fiziki olarak düzenlenmiş belge veya kararlar, yetkili kişilerce taranarak UYAP’a aktarılır ve gerektiğinde ilgili birimlere elektronik ortamda gönderilir.</span></i></p>
+
+<p class="MsoNormal" style="margin-top:0cm;margin-right:14.15pt;margin-bottom:
+10.0pt;margin-left:14.15pt;text-align:justify;text-indent:1.0cm"><span style="color:#010000"> </span><i><span style="font-size:11.0pt;color:#010000">(...)</span></i></p>
+
+<p class="MsoNormal" style="margin-top:0cm;margin-right:14.15pt;margin-bottom:
+10.0pt;margin-left:14.15pt;text-align:justify;text-indent:1.0cm"><i><span style="font-size:11.0pt;color:#010000"> (11) Ceza muhakemesi işlemlerinin UYAP’ta yapılmasına dair usul ve esaslar, Adalet Bakanlığı tarafından çıkarılacak yönetmelikle düzenlenir."</span></i></p>
+
+<p class="MsoNormal" style="margin-top:0cm;margin-right:14.15pt;margin-bottom:
+10.0pt;margin-left:14.15pt;text-align:justify;text-indent:1.0cm"><span style="color:#010000">18. 5271 sayılı Kanun'un <i>"İhbar ve şikâyet"</i> başlıklı 158. maddesinin (6). fıkrası şöyledir:</span></p>
+
+<p class="MsoNormal" style="margin-top:0cm;margin-right:14.15pt;margin-bottom:
+10.0pt;margin-left:14.15pt;text-align:justify;text-indent:1.0cm"><i><span style="color:#010000">"</span></i><i><span style="font-size:11.0pt;
+color:#010000">(Ek: 15/8/2017-KHK-694/145 md.; Aynen kabul: 1/2/2018-7078/140 md.)[54] İhbar ve şikâyet konusu fiilin suç oluşturmadığının herhangi bir araştırma yapılmasını gerektirmeksizin açıkça anlaşılması veya ihbar ve şikâyetin soyut ve genel nitelikte olması durumunda soruşturma yapılmasına yer olmadığına karar verilir. Bu durumda şikâyet edilen kişiye şüpheli sıfatı verilemez. Soruşturma yapılmasına yer olmadığına dair karar, varsa ihbarda bulunana veya şikâyetçiye bildirilir ve bu karara karşı 173 üncü maddedeki usule göre itiraz edilebilir. İtirazın kabulü hâlinde Cumhuriyet başsavcılığı soruşturma işlemlerini başlatır. Bu fıkra uyarınca yapılan işlemler ve verilen kararlar, bunlara mahsus bir sisteme kaydedilir. Bu kayıtlar, ancak Cumhuriyet savcısı, hâkim veya mahkeme tarafından görülebilir.</span><span style="color:#010000">"</span></i></p>
+
+<p class="MsoNormal" style="margin-top:0cm;margin-right:14.15pt;margin-bottom:
+10.0pt;margin-left:14.15pt;text-align:justify;text-indent:1.0cm"><span style="color:#010000">19. 5271 sayılı Kanun'un <i>"Bir suçun işlendiğini öğrenen Cumhuriyet savcısının görevi"</i> başlıklı 160. maddesi şöyledir: </span></p>
+
+<p class="MsoNormal" style="margin-top:0cm;margin-right:14.15pt;margin-bottom:
+10.0pt;margin-left:14.15pt;text-align:justify;text-indent:1.0cm"><i><span style="color:#010000">"</span></i><i><span style="font-size:11.0pt;
+color:#010000">(1) Cumhuriyet savcısı, ihbar veya başka bir suretle bir suçun işlendiği izlenimini veren bir hâli öğrenir öğrenmez kamu davasını açmaya yer olup olmadığına karar vermek üzere hemen işin gerçeğini araştırmaya başlar.</span></i></p>
+
+<p class="MsoNormal" style="margin-top:0cm;margin-right:14.15pt;margin-bottom:
+10.0pt;margin-left:14.15pt;text-align:justify;text-indent:1.0cm"><i><span style="font-size:11.0pt;color:#010000"> (2) Cumhuriyet savcısı, maddî gerçeğin araştırılması ve adil bir yargılamanın yapılabilmesi için, emrindeki adlî kolluk görevlileri marifetiyle, şüphelinin lehine ve aleyhine olan delilleri toplayarak muhafaza altına almakla ve şüphelinin haklarını korumakla yükümlüdür.</span><span style="color:#010000">"</span></i></p>
+
+<p class="MsoNormal" style="margin-top:0cm;margin-right:14.15pt;margin-bottom:
+10.0pt;margin-left:14.15pt;text-align:justify;text-indent:1.0cm"><span style="color:#010000">20. 5271 sayılı Kanun'un <i>"Kovuşturmaya yer olmadığına dair karar"</i> başlıklı 172. maddesinin 1. fıkrası şöyledir:</span></p>
+
+<p class="MsoNormal" style="margin-top:0cm;margin-right:14.15pt;margin-bottom:
+10.0pt;margin-left:14.15pt;text-align:justify;text-indent:1.0cm"><i><span style="color:#010000">"</span></i><i><span style="font-size:11.0pt;
+color:#010000">Cumhuriyet savcısı, soruşturma evresi sonunda, kamu davasının açılması için yeterli şüphe oluşturacak delil elde edilememesi veya kovuşturma olanağının bulunmaması hâllerinde kovuşturmaya yer olmadığına karar verir. Bu karar, suçtan zarar gören ile önceden ifadesi alınmış veya sorguya çekilmiş şüpheliye bildirilir. Kararda itiraz hakkı, süresi ve mercii gösterilir.</span></i><span style="color:#010000">"</span></p>
+
+<p class="edf1470999819773" style="margin-top:0cm;margin-right:14.15pt;
+margin-bottom:10.0pt;margin-left:14.15pt;text-align:justify;text-indent:1.0cm"><span style="color:#010000">21. 7/4/2016 tarihli ve 6698 sayılı Kişisel Verilerin Korunması Kanunu'nun (6698 sayılı Kanun) <i>"Kişisel verilerin silinmesi, yok edilmesi veya anonim hâle getirilmesi"</i> kenar başlıklı 7. maddesi şöyledir:</span></p>
+
+<p class="MsoNormal" style="margin-top:0cm;margin-right:14.15pt;margin-bottom:
+10.0pt;margin-left:14.15pt;text-align:justify;text-indent:1.0cm"><span style="color:#010000">"</span><i><span style="font-size:11.0pt;color:#010000">(1) Bu Kanun ve ilgili diğer kanun hükümlerine uygun olarak işlenmiş olmasına rağmen, işlenmesini gerektiren sebeplerin ortadan kalkması hâlinde kişisel veriler resen veya ilgili kişinin talebi üzerine veri sorumlusu tarafından silinir, yok edilir veya anonim hâle getirilir.</span></i></p>
+
+<p class="MsoNormal" style="margin-top:0cm;margin-right:14.15pt;margin-bottom:
+10.0pt;margin-left:14.15pt;text-align:justify;text-indent:1.0cm"><i><span style="font-size:11.0pt;color:#010000">(2) Kişisel verilerin silinmesi, yok edilmesi veya anonim hâle getirilmesine ilişkin diğer kanunlarda yer alan hükümler saklıdır.</span></i></p>
+
+<p class="MsoNormal" style="margin-top:0cm;margin-right:14.15pt;margin-bottom:
+10.0pt;margin-left:14.15pt;text-align:justify;text-indent:1.0cm"><i><span style="font-size:11.0pt;color:#010000">(3) Kişisel verilerin silinmesine, yok edilmesine veya anonim hâle getirilmesine ilişkin usul ve esaslar yönetmelikle düzenlenir.</span></i><span style="font-size:11.0pt;color:#010000">"</span></p>
+
+<p class="MsoNormal" style="margin-top:0cm;margin-right:14.15pt;margin-bottom:
+10.0pt;margin-left:14.15pt;text-align:justify;text-indent:1.0cm"><span style="color:#010000">22. 6/8/2015 tarihli ve 29437 sayılı Resmî Gazete'de yayımlanan Bölge Adliye ve Adlî Yargı İlk Derece Mahkemeleri ile Cumhuriyet Başsavcılıkları İdarî ve Yazı İşleri Hizmetlerinin Yürütülmesine Dair Yönetmeliğin (Yönetmelik) "Kayıtların düzeni ve düzeltilmesi" kenar başlıklı 257. maddesinin üçüncü ve dördüncü fıkrası şöyledir:</span></p>
+
+<p class="MsoNormal" style="margin-top:0cm;margin-right:14.15pt;margin-bottom:
+10.0pt;margin-left:14.15pt;text-align:justify;text-indent:1.0cm"><i><span style="font-size:11.0pt;color:#010000">"(3) Düzeltilmesi veya değiştirilmesi kanun yollarına başvurulmak suretiyle mümkün olan kayıtların elektronik olarak onaylanmasından sonra düzeltme ve değiştirme işlemi yapılamaz.</span></i></p>
+
+<p class="MsoNormal" style="margin-top:0cm;margin-right:14.15pt;margin-bottom:
+10.0pt;margin-left:14.15pt;text-align:justify;text-indent:1.0cm"><i><span style="font-size:11.0pt;color:#010000">(4)Üçüncü fıkra kapsamı dışında kalan kayıtlarda yanlışlık yapılması hâlinde, yetkili daire başkanı, üye, komisyon başkanı, hâkim veya Cumhuriyet savcısının onayı ile oluşturulan düzeltme onayından sonra sistemde kaybolmayacak şekilde yetkili kişi tarafından gerekli değişiklik yapılır. "</span></i></p>
+
+<p class="MsoNormal" style="margin-top:0cm;margin-right:14.15pt;margin-bottom:
+10.0pt;margin-left:14.15pt;text-align:justify;text-indent:1.0cm"><b><span style="color:#010000">B. Uluslararası Hukuk</span></b></p>
+
+<p class="MsoNormal" style="margin-top:0cm;margin-right:14.15pt;margin-bottom:
+10.0pt;margin-left:14.15pt;text-align:justify;text-indent:1.0cm"><span style="color:#010000">23. Avrupa İnsan Hakları Sözleşmesi'nin (Sözleşme) <i>"Özel ve aile hayatına saygı hakkı" </i>kenar başlıklı 8. maddesinin (1) numaralı fıkrası şöyledir:</span></p>
+
+<p class="MsoNormal" style="margin-top:0cm;margin-right:14.15pt;margin-bottom:
+10.0pt;margin-left:14.15pt;text-align:justify;text-indent:1.0cm"><i><span style="font-size:11.0pt;color:#010000">"(1)</span></i><span style="color:#010000"> </span><i><span style="font-size:11.0pt;color:#010000">Herkes özel ve aile hayatına, konutuna ve haberleşmesine saygı gösterilmesi hakkına sahiptir."</span></i></p>
+
+<p class="MsoNormal" style="margin-top:0cm;margin-right:14.15pt;margin-bottom:
+10.0pt;margin-left:14.15pt;text-align:justify;text-indent:1.0cm"><span style="color:#010000">24. Birleşmiş Milletler Genel Kurulu tarafından kişisel verilerin korunması konusunda kabul edilen 14/12/1990 tarihli ve 45/95 sayılı<i> “Bilgisayarla İşlenen Kişisel Veri Dosyaları Hakkında Yönlendirici İlkeler”</i>de şu hususlara yer verilmiştir:</span></p>
+
+<p class="MsoNormal" style="margin-top:0cm;margin-right:14.15pt;margin-bottom:
+10.0pt;margin-left:14.15pt;text-align:justify;text-indent:1.0cm"><i><span style="font-size:11.0pt;color:#010000">"...</span></i></p>
+
+<p class="MsoNormal" style="margin-top:0cm;margin-right:14.15pt;margin-bottom:
+10.0pt;margin-left:14.15pt;text-align:justify;text-indent:1.0cm"><i><span style="font-size:11.0pt;color:#010000">4- İlgili kişilerin erişmesi ilkesi: Kimlik kanıtı sunan herkes kendisiyle ilgili bilgilerin işlenip işlenmediğini bilme ve gereksiz bir gecikme veya masraf olmadan anlaşılır biçimde elde etme hakkına sahiptir. Ayrıca bu bilgilerin kanuna aykırı, gereksiz veya yanlış olması durumunda uygun düzeltmelerin yapılmasını veya silinmesini talep etme hakkına sahiptir. Devletler buna uygun bir çözüm yolu sağlamak durumundadır. Herhangi bir düzeltme maliyeti dosyadan sorumlu kişi tarafından karşılanmalıdır. Bu ilke hükümlerinin uyruk veya ikâmetine bakılmaksızın herkes için uygulanması arzu edilir..."</span></i></p>
+
+<p class="MsoNormal" style="margin-top:0cm;margin-right:14.15pt;margin-bottom:
+10.0pt;margin-left:14.15pt;text-align:justify;text-indent:1.0cm"><span style="color:#010000">25. Avrupa İnsan Hakları Mahkemesi (AİHM) Sözleşme'nin 13. maddesi uyarınca temel hak ve özgürlüklerin ulusal düzeyde korunması için etkili bir başvuru yolunun var olması gerektiğini belirtmektedir. AİHM'e göre Sözleşme'nin 13. maddesi yetkili ulusal makamlar tarafından Sözleşme kapsamına giren bir şikâyetin esasının incelenmesine izin veren ve uygun telafi yöntemi sunan bir iç hukuk yolunun sağlanmasını gerekli kılmaktadır. Ayrıca bu hukuk yolunun teoride olduğu kadar pratikte de etkili bir yol olması gerekmektedir (İlhan/Türkiye [BD], B. No: 22277/93, 27/6/2000, § 97; Kudla/Polonya [BD], B. No: 30210/96, 26/10/2000, § 157; Özpınar/Türkiye, B. No: 20999/04, 19/10/2010, § 82).</span></p>
+
+<p class="MsoNormal" style="margin-top:0cm;margin-right:14.15pt;margin-bottom:
+10.0pt;margin-left:14.15pt;text-align:justify;text-indent:1.0cm"><span style="color:#010000">26. AİHM, ayrıca açık bir şekilde faydasız olmayan belirli bir hukuk yolunun başarı ihtimali hakkındaki şüphelerin tek başına, söz konusu hukuk yolundan faydalanmamanın geçerli bir nedeni olmadığını yinelemektedir (<i>Akdıvar ve diğerleri/Türkiye,</i> B. No: 21893/93, 16/9/1996, § 71; <i>Van Oosterwijck/Belçika,</i> B. No: 7654/76, 6/11/1980, § 37).</span></p>
+
+<p class="MsoNormal" style="margin-top:0cm;margin-right:14.15pt;margin-bottom:
+10.0pt;margin-left:14.15pt;text-align:justify;text-indent:1.0cm"><b><span style="color:#010000">V.</span></b><span style="color:#010000"> <b>İNCELEME VE GEREKÇE</b></span></p>
+
+<p class="MsoNormal" style="margin-top:0cm;margin-right:14.15pt;margin-bottom:
+10.0pt;margin-left:14.15pt;text-align:justify;text-indent:1.0cm"><span style="color:#010000">27. Anayasa Mahkemesinin 3/10/2024 tarihinde yapmış olduğu toplantıda başvuru incelenip gereği düşünüldü:</span></p>
+
+<p class="MsoNormal" style="margin-top:0cm;margin-right:14.15pt;margin-bottom:
+10.0pt;margin-left:14.15pt;text-align:justify;text-indent:1.0cm"><b><span style="color:#010000">A. Başvuruya Konu Ceza Soruşturmasına ve İptal Davasına İlişkin Özel Hayata Saygı Hakkı Kapsamındaki Kişisel Verilerin Korunmasını İsteme Hakkıyla Bağlantılı Olarak Etkili Başvuru Hakkının İhlal Edildiği İddiası</span></b></p>
+
+<p class="MsoNormal" style="margin-top:0cm;margin-right:14.15pt;margin-bottom:
+10.0pt;margin-left:14.15pt;text-align:justify;text-indent:1.0cm"><b><span style="color:#010000">1.</span></b><span style="color:#010000"> <b>Başvurucunun İddiaları ve Bakanlık Görüşü</b></span></p>
+
+<p class="MsoNormal" style="margin-top:0cm;margin-right:14.15pt;margin-bottom:
+10.0pt;margin-left:14.15pt;text-align:justify;text-indent:1.0cm"><span style="color:#010000">28. Başvurucu hakkında şikâyet olmamasına rağmen soruşturma açılması nedeniyle maddi ve manevi varlığın korunması ve geliştirilmesi hakkının; UYAP kayıtlarında "<i>şikayet edilen</i>" olarak yer alan bilgilerinin silinmemesi ve bu talebe ilişkin açmış olduğu iptal davasının reddedilmesi nedeniyle de özel hayata ve aile hayatına saygı hakkının ihlal edildiğini ileri sürmüştür. </span></p>
+
+<p class="MsoNormal" style="margin-top:0cm;margin-right:14.15pt;margin-bottom:
+10.0pt;margin-left:14.15pt;text-align:justify;text-indent:1.0cm"><span style="color:#010000">29. Bakanlık görüşünde; inceleme yapılırken Anayasa ve ilgili mevzuat hükümleri, Anayasa Mahkemesi içtihadı ve somut olayın kendine özgü koşullarının da dikkate alınması gerektiği ifade edilmiştir. Başvurucu, Bakanlık görüşüne karşı beyanlarında bireysel başvuru formlarındaki hususları tekrar etmiş olup Bakanlık tarafından bildirilen görüşleri kabul etmediğini vurgulamıştır.</span></p>
+
+<p class="MsoNormal" style="margin-top:0cm;margin-right:14.15pt;margin-bottom:
+10.0pt;margin-left:14.15pt;text-align:justify;text-indent:1.0cm"><b><span style="color:#010000">2.</span></b><span style="color:#010000"> <b>Değerlendirme </b></span></p>
+
+<p class="MsoNormal" style="margin-top:0cm;margin-right:14.15pt;margin-bottom:
+10.0pt;margin-left:14.15pt;text-align:justify;text-indent:1.0cm"><span style="color:#010000">30. Somut olayda hakkında şikâyet bulunulmayan başvurucunun, UYAP kayıtlarında "şikâyet edilen" olarak yer alan bilgilerinin silinmesi talebinin Başsavcılığa, Başkanlığa, Sulh Ceza Hâkimliğine iletildiği, ancak başvurucunun elde etmek istediği sonuca ulaşamadığı tespit edilmiştir. Ayrıca başvurucu idari yargıda iptal davası açmış olup kararların kesinleşmesiyle başvuru yolları tüketilmiştir.</span></p>
+
+<p class="MsoNormal" style="margin-top:0cm;margin-right:14.15pt;margin-bottom:
+10.0pt;margin-left:14.15pt;text-align:justify;text-indent:1.0cm"><span style="color:#010000">31. Bu bağlamda Anayasa’nın iddianın değerlendirilmesine dayanak alınacak<i> "Özel hayatın gizliliği" </i>kenar başlıklı 20. maddesinin birinci ve üçüncü fıkraları şöyledir:</span></p>
+
+<p class="MsoNormal" style="margin-top:0cm;margin-right:14.15pt;margin-bottom:
+10.0pt;margin-left:14.15pt;text-align:justify;text-indent:1.0cm"><i><span style="font-size:11.0pt;color:#010000">"Herkes, özel hayatına ve aile hayatına saygı gösterilmesini isteme hakkına sahiptir. Özel hayatın ve aile hayatının gizliliğine dokunulamaz.</span></i></p>
+
+<p class="MsoNormal" style="margin-top:0cm;margin-right:14.15pt;margin-bottom:
+10.0pt;margin-left:14.15pt;text-align:justify;text-indent:1.0cm"><i><span style="font-size:11.0pt;color:#010000">...</span></i></p>
+
+<p class="MsoNormal" style="margin-top:0cm;margin-right:14.15pt;margin-bottom:
+10.0pt;margin-left:14.15pt;text-align:justify;text-indent:1.0cm"><i><span style="font-size:11.0pt;color:#010000">Herkes, kendisiyle ilgili kişisel verilerin korunmasını isteme hakkına sahiptir. Bu hak; kişinin kendisiyle ilgili kişisel veriler hakkında bilgilendirilme, bu verilere erişme, bunların düzeltilmesini veya silinmesini talep etme ve amaçları doğrultusunda kullanılıp kullanılmadığını öğrenmeyi de kapsar. Kişisel veriler, ancak kanunda öngörülen hallerde veya kişinin açık rızasıyla işlenebilir. Kişisel verilerin korunmasına ilişkin esas ve usuller kanunla düzenlenir."</span></i></p>
+
+<p class="MsoNormal" style="margin-top:0cm;margin-right:14.15pt;margin-bottom:
+10.0pt;margin-left:14.15pt;text-align:justify;text-indent:1.0cm"><span style="color:#010000">32. Özel hayata saygı hakkı Anayasa'nın 20. maddesinde koruma altına alınmıştır. Devlet, kişilerin özel ve aile hayatına keyfî olarak müdahale etmemek ve üçüncü kişilerin haksız saldırılarını önlemekle yükümlüdür. Özel hayata saygı hakkı kapsamında korunan hukuksal çıkarlardan biri de bireyin mahremiyet hakkıdır. Ancak mahremiyet hakkı sadece yalnız kalma hakkından ibaret olmayıp bu hak, bireyin kendisiyle ilgili bilgileri kontrol edebilme hukuksal çıkarını da kapsamaktadır. Bireyin kendisine ilişkin herhangi bir bilginin kendi rızası olmaksızın açıklanmaması, yayılmaması, bu bilgilere başkaları tarafından ulaşılamaması ve rızası hilafına kullanılamaması, kısaca bu bilgilerin mahrem kalması konusunda menfaati bulunmaktadır. Bu husus, bireyin kendisiyle ilgili bilgilerin geleceğini belirleme hakkına işaret etmektedir (<i>Serap Tortuk</i>, B. No: 2013/9660, 21/1/2015, §§ 31, 32). Özel hayata saygı hakkının kapsamında olan bireylerin kişisel verilerinin korunmasını isteme hakkı, Anayasa'nın 20. maddesinde açık olarak düzenlenmiştir (<i>Nurcan Belin</i>, B. No: 2014/14187, 10/1/2018, § 38).</span></p>
+
+<p class="MsoNormal" style="margin-top:0cm;margin-right:14.15pt;margin-bottom:
+10.0pt;margin-left:14.15pt;text-align:justify;text-indent:1.0cm"><span style="color:#010000">33. Anayasa'nın 20. maddesinin üçüncü fıkrasında herkesin kendisiyle ilgili kişisel verilerin korunmasını isteme hakkına sahip olduğu, bu hakkın kişinin kendisiyle ilgili kişisel veriler hakkında bilgilendirilmeyi, bu verilere erişmeyi, bunların düzeltilmesini veya silinmesini talep etmeyi ve amaçları doğrultusunda kullanılıp kullanılmadığını öğrenmeyi de kapsadığı ifade edilmiştir. Maddede ayrıca kişisel verilerin ancak kanunda öngörülen hâllerde veya kişinin açık rızasıyla işlenebileceği ve kişisel verilerin korunmasına ilişkin esas ve usullerin kanunla düzenleneceği belirtilmiştir. Kişisel verilerin korunmasını isteme hakkı, kişinin insan onurunun korunmasının ve kişiliğini serbestçe geliştirebilmesi hakkının özel bir biçimi olarak bireyin hak ve özgürlüklerini kişisel verilerin işlenmesi sırasında korumayı amaçlamaktadır (AYM, E.2014/122, K.2015/123, 30/12/2015, §§ 19, 20;<i> Nurcan Belin</i>, § 45).</span></p>
+
+<p class="MsoNormal" style="margin-top:0cm;margin-right:14.15pt;margin-bottom:
+10.0pt;margin-left:14.15pt;text-align:justify;text-indent:1.0cm"><span style="color:#010000">34. Anayasa Mahkemesi kararlarında da belirtildiği üzere kişisel veri -belirli veya kimliği belirlenebilir olmak şartıyla- bir kişiye ilişkin bütün bilgileri ifade etmekte olup bireyin adı, soyadı, doğum tarihi ve doğum yeri gibi sadece kimliğini ortaya koyan bilgileri değil telefon numarası, motorlu taşıt plakası, sosyal güvenlik numarası, pasaport numarası, öz geçmişi, fotoğrafı, görüntü ve ses kayıtları, parmak izleri, sağlık bilgileri, genetik bilgileri, IP adresi, e-posta adresi, alışveriş alışkanlıkları, hobileri, tercihleri, etkileşimde bulunduğu kişiler, grup üyelikleri, aile bilgileri gibi kişiyi doğrudan veya dolaylı olarak belirlenebilir kılan tüm veriler kişisel veri kapsamındadır (AYM, E.2014/74, K.2014/201, 25/12/2014; E.2014/180, K.2015/30, 19/3/2015).</span></p>
+
+<p class="MsoNormal" style="margin-top:0cm;margin-right:14.15pt;margin-bottom:
+10.0pt;margin-left:14.15pt;text-align:justify;text-indent:1.0cm"><span style="color:#010000">35. Öte yandan Anayasa’nın 20. maddesinin üçüncü fıkrasında güvence altına alınan kişisel verilerin korunmasını isteme hakkı yönünden inceleme yapılabilmesi için öncelikle anılan hak kapsamında korunması gerekli bir kişisel verinin olup olmadığı belirlenmelidir. Anayasa hükmünün lafzı, konuya ilişkin uluslararası belgeler ve karşılaştırmalı hukuk dikkate alındığında belirli veya belirlenebilir bir gerçek veya tüzel kişi hakkındaki her türlü bilgi kişisel veri olarak değerlendirilir. Ancak her dava ya da başvuruda Anayasa’nın 20. maddesinin üçüncü fıkrası anlamında bir kişisel veri bulunup bulunmadığı davanın ve başvurunun kendine özgü koşulları dikkate alınarak otonom şekilde tespit edilir. Bir kişisel verinin bulunduğu tespit edildiğinde bu veriye yönelik her türlü sınırlama ve müdahale Anayasa’nın anılan hükmü kapsamındaki güvenceleri harekete geçirir (<i>E.Ü.,</i> § 59).</span></p>
+
+<p class="MsoNormal" style="margin-top:0cm;margin-right:14.15pt;margin-bottom:
+10.0pt;margin-left:14.15pt;text-align:justify;text-indent:1.0cm"><span style="color:#010000">36. Başvurucu hakkında şikâyet bulunmamasına rağmen UYAP kayıtlarında "<i>şikâyet edilen</i>" ibaresinin kullanılması <i>belirli bir gerçek kişi hakkındaki bilgi</i> kapsamında olduğundan bu ibarenin gerçeği yansıtmaması nedeniyle silinmesi talebinin özel hayata saygı hakkı kapsamındaki kişisel verilerin korunmasını isteme hakkı ve bu hakla bağlantılı olarak etkili başvuru hakkı yönünden incelenmesi gerektiği değerlendirilmiştir. </span></p>
+
+<p class="MsoNormal" style="margin-top:0cm;margin-right:14.15pt;margin-bottom:
+10.0pt;margin-left:14.15pt;text-align:justify;text-indent:1.0cm"><b><span style="color:#010000">a.</span></b><span style="color:#010000"> <b>Kabul Edilebilirlik Yönünden</b></span></p>
+
+<p class="MsoNormal" style="margin-top:0cm;margin-right:14.15pt;margin-bottom:
+10.0pt;margin-left:14.15pt;text-align:justify;text-indent:1.0cm"><span style="color:#010000">37. Açıkça dayanaktan yoksun olmadığı ve kabul edilemezliğine karar verilmesini gerektirecek başka bir neden de bulunmadığı anlaşılan özel hayata saygı hakkı kapsamındaki kişisel verilerin korunmasını isteme hakkı ve bu hakla bağlantılı olarak etkili başvuru hakkının ihlal edildiğine ilişkin iddianın kabul edilebilir olduğuna karar verilmesi gerekir.</span></p>
+
+<p class="MsoNormal" style="margin-top:0cm;margin-right:14.15pt;margin-bottom:
+10.0pt;margin-left:14.15pt;text-align:justify;text-indent:1.0cm"><b><span style="color:#010000">b.</span></b><span style="color:#010000"> <b>Esas Yönünden</b></span></p>
+
+<p class="MsoNormal" style="margin-top:0cm;margin-right:14.15pt;margin-bottom:
+10.0pt;margin-left:14.15pt;text-align:justify;text-indent:1.0cm"><b><span style="color:#010000">i.</span></b><span style="color:#010000"> <b>Genel İlkeler</b></span></p>
+
+<p class="MsoNormal" style="margin-top:0cm;margin-right:14.15pt;margin-bottom:
+10.0pt;margin-left:14.15pt;text-align:justify;text-indent:1.0cm"><span style="color:#010000">38. Anayasa’nın 20. maddesinin üçüncü fıkrasının birinci cümlesinde genel olarak herkesin kendisiyle ilgili kişisel verilerin korunmasını isteme hakkına sahip olduğu belirtilmiş, ikinci cümlesinde kişisel veriler bağlamında bazı özel güvenceler sayılmış, üçüncü cümlesinde kişisel verilerin ancak kanunda öngörülen hâllerde veya kişinin açık rızasıyla işlenebileceği düzenlenmiş, dördüncü cümlesinde ise kişisel verilerin korunmasına ilişkin esas ve usullerin kanunla düzenleneceği hüküm altına alınmıştır. Buna göre lafzı dikkate alındığında Anayasa’nın 20. maddesinin üçüncü fıkrasının kişisel verilerin korunmasını isteme hakkı kapsamında sadece işleme şeklindeki sınırlama ya da müdahalelere karşı değil kişisel verilere yönelik her türlü müdahale ve sınırlamalara karşı güvence getirdiği anlaşılmaktadır (<i>E.Ü.</i>, § 63; <i>Bestami Eroğlu</i>, § 101).</span></p>
+
+<p class="MsoNormal" style="margin-top:0cm;margin-right:14.15pt;margin-bottom:
+10.0pt;margin-left:14.15pt;text-align:justify;text-indent:1.0cm"><span style="color:#010000">39. Bunun yanında Anayasa'nın 20. maddesinin üçüncü fıkrasının ikinci cümlesinde kişisel verilerin korunmasını isteme hakkının, kişinin kendisiyle ilgili kişisel veriler hakkında bilgilendirilme, bu verilere erişme, <i>bunların düzeltilmesini veya silinmesini talep etme</i> ve amaçları doğrultusunda kullanılıp kullanılmadığını öğrenmeyi de kapsadığı belirtilmiştir (<i>Ümit Eyüpoğlu, </i>§<i> </i>49).</span></p>
+
+<p class="MsoNormal" style="margin-top:0cm;margin-right:14.15pt;margin-bottom:
+10.0pt;margin-left:14.15pt;text-align:justify;text-indent:1.0cm"><span style="color:#010000">40. Kişilerin kendisiyle ilgili kişisel veriler hakkında bilgilendirilme ve bu verilere erişim hakkı veri işlemenin şeffaflığı veya açıklığı ilkesinin bir uzantısıdır. Kişilerin kendisi hakkında hangi verilerin kim tarafından, ne zaman ve hangi nedenle işlendiğini bilmesi bu verileri düzeltme, sildirme, engelleme gibi haklarını kullanmasını da mümkün kılmakta ve söz konusu anayasal güvencelerin hayata geçirilmesini sağlamaya yönelik tamamlayıcı bir özellik taşımaktadır (<i>Ümit Eyüpoğlu, </i>§<i> </i>46).</span></p>
+
+<p class="MsoNormal" style="margin-top:0cm;margin-right:14.15pt;margin-bottom:
+10.0pt;margin-left:14.15pt;text-align:justify;text-indent:1.0cm"><span style="color:#010000">41. Bu ilkeler ışığında demokratik bir toplumda kişisel verilerin işlenmesi süreci şeffaf bir şekilde gerçekleştirilmeli, bunun bir gereği olarak veri sahiplerine kişisel verilerine erişim imkânı tanınmalı ve bu imkânın kolayca kullanılması için gerekli tedbirler alınmalıdır (<i>Ümit Eyüpoğlu, </i>§ 51). Bu anlamda anılan anayasal güvenceleri gözeten bir yargılama süreci yürütülmesi ve neticede ulaşılan sonucun konuyla ilgili ve yeterli gerekçelerle açıklanması gerekir.</span></p>
+
+<p class="MsoNormal" style="margin-top:0cm;margin-right:14.15pt;margin-bottom:
+10.0pt;margin-left:14.15pt;text-align:justify;text-indent:1.0cm"><b><span style="color:#010000">ii.</span></b><span style="color:#010000"> <b>İlkelerin Olaya Uygulanması</b></span></p>
+
+<p class="MsoNormal" style="margin-top:0cm;margin-right:14.15pt;margin-bottom:
+10.0pt;margin-left:14.15pt;text-align:justify;text-indent:1.0cm"><span style="color:#010000">42. Başvuru özetle başvurucunun hakkında şikâyet olmamasına rağmen UYAP kayıtlarında "<i>şikâyet edilen</i>" olarak kaydedilmesi akabinde yapılan yanlışlığın düzeltilmesini ve silinmesini talep ettiğinde yargılama makamlarınca kişisel verilerin düzeltilmesi hakkı elinden alınarak ihlal iddialarını dile getirebileceği etkili bir başvuru yolunun sunulmamasına, bir başka deyişle mevcut yargısal sistemin etkili şekilde işletilmemesine ilişkindir.</span></p>
+
+<p class="MsoNormal" style="margin-top:0cm;margin-right:14.15pt;margin-bottom:
+10.0pt;margin-left:14.15pt;text-align:justify;text-indent:1.0cm"><span style="color:#010000">43. Kişisel verilerin korunması hakkına yönelik eylemler ya da ihmaller konusunda muhataplarınca dava açılması, itirazlarda bulunulması ve hukuka aykırılıkların tespit edilerek kaldırılması konusunda etkin bir hukuk yolunun varlığı büyük önem taşımaktadır. Devletin kişisel verilerin korunması hakkına müdahale edilmesini önleyecek, müdahale edildiği takdirde giderim sağlayacak etkili hukuki başvuru yollarını hayata geçirmesi ve bu yolları işlevsel kılması gerekir. Bu anlamda kişisel verilerin korunması hakkına müdahale teşkil ettiği ve kaldırılması gerektiği konusunda ileri sürülecek iddiaların esasının incelenmesine imkân sağlayan ve gerektiğinde uygun bir telafi yöntemi sunan etkili hukuk yollarının olması ilgililere etkili başvuru hakkının sağlanması bakımından bir gerekliliktir (<i>Ümit Eyüpoğlu, </i>§ 53).</span></p>
+
+<p class="MsoNormal" style="margin-top:0cm;margin-right:14.15pt;margin-bottom:
+10.0pt;margin-left:14.15pt;text-align:justify;text-indent:1.0cm"><span style="color:#010000">44. Kişisel verilerin korunmasını isteme hakkı çerçevesinde devlete yüklenen pozitif yükümlülükler, bu hakkın kapsamında kişilere tanınmış olan güvencelerden etkili bir şekilde yararlanılmayı temin etmek için devlete mevzuat oluşturma ve özellikle de güvencelere aykırılıkları yaptırıma bağlama yükümlülüğü vermektedir. Ayrıca Anayasa’nın 20. maddesinin üçüncü fıkrasının son cümlesinin <i>“Kişisel verilerin korunmasına ilişkin esas ve usuller kanunla düzenlenir.”</i> şeklindeki hükmü uyarınca mevzuat oluşturma yükümlülüğü gereklerinin çerçevesi kanunla belirlenmelidir (<i>Ümit Eyüpoğlu, </i>§ 54).</span></p>
+
+<p class="MsoNormal" style="margin-top:0cm;margin-right:14.15pt;margin-bottom:
+10.0pt;margin-left:14.15pt;text-align:justify;text-indent:1.0cm"><span style="color:#010000">45. Bu çerçevede Anayasa'nın 20. maddesinde güvence altına alınan kişisel verilerin korunmasını isteme hakkına ilişkin güvenceler ile 6698 sayılı Kanun ve hukuk sistemimizde mevcut olan düzenlemelerin mevcut başvuruya konu uyuşmazlıkta uygulanması yönünde bir engel olmadığı gözetildiğinde yasal altyapı oluşturmak bağlamında pozitif yükümlülüklerin yerine getirildiği söylenebilir. Ancak bir hukuk yolunun teorik olarak mevcut olması pozitif yükümlülüklerin yerine getirildiğini ifade edebilmek bakımından yeterli olmayıp ayrıca bu yolun etkili bir biçimde işletilmesi gerekir (<i>Ümit Eyüpoğlu, </i>§ 55).</span></p>
+
+<p class="MsoNormal" style="margin-top:0cm;margin-right:14.15pt;margin-bottom:
+10.0pt;margin-left:14.15pt;text-align:justify;text-indent:1.0cm"><span style="color:#010000">46. Somut olayda başvurucu hakkında şikâyet bulunmadığı yargılama makamlarının kararlarında tespit edilmesine rağmen Başsavcılık UYAP kayıtlarında başvurucuyu "<i>şikâyet edilen</i>" olarak kaydetmiştir. Başvurucu anılan yanlışlığın düzeltilmesi için Başsavcılık kararına karşı itiraz kanun yoluna başvurmuştur. Düzeltilmesi veya değiştirilmesi kanun yoluna başvurulmak suretiyle mümkün olan kayıtların elektronik onaylama işlemi yapıldıktan sonra düzeltme ve değiştirme işleminin yapılamayacağı Yönetmelikte düzenlenmiştir. Bu durumda itiraza konu yapılan kaydın düzeltilmesi hususunun kanun yolu aşamasında değerlendirilmesi gerektiği sonucuna ulaşılması mümkündür. Ancak Sulh Ceza Hâkimliğinin şekli ve dar bir yorumla yanlışlığın düzeltilmesine ilişkin söz konusu talebi bir hakkın kullanımı olarak görmekten ziyade soruşturma yapılmasına yer olmadığı kararına itiraz mahiyetinde olmadığı gerekçesiyle esasına girmeyerek işlemsiz iade ettiği görülmüştür. Bu yorumun başvurucunun kişisel verilerinin düzeltilmesi ve silinmesi hakkını kullanmasını engellediği açıktır.</span></p>
+
+<p class="MsoNormal" style="margin-top:0cm;margin-right:14.15pt;margin-bottom:
+10.0pt;margin-left:14.15pt;text-align:justify;text-indent:1.0cm"><span style="color:#010000">47. Nitekim başvurucu hakkında oluşan yanlış kaydın düzeltilmesi ve silinmesi yönündeki talebini Başsavcılığa, Başkanlığa, Sulh Ceza Hâkimliğine iletmesine rağmen talebi değerlendirilmediği için idari yargıda iptal ve tam yargı davası da açmıştır. Başvurucu tüm başvurularının sonuçsuz kalmasından yakınmaktadır. Yukarıda da değinildiği üzere kişinin kendisiyle ilgili kişisel verilerin düzeltilmesini veya silinmesini talep etme hakkı Anayasa'nın 20. maddesinin üçüncü fıkrasında açıkça öngörülmüş olan güvencelerdir. Kişisel verilerin şeffaflığı ilkesi de bu güvencelerin sağlanmasını gerektirmektedir (<i>Ümit Eyüpoğlu, </i>§ 56).</span></p>
+
+<p class="MsoNormal" style="margin-top:0cm;margin-right:14.15pt;margin-bottom:
+10.0pt;margin-left:14.15pt;text-align:justify;text-indent:1.0cm"><span style="color:#010000">48. Bireysel başvuru bağlamında ikincillik ilkesinin bir gereği olarak hâkimin önündeki uyuşmazlıkları Anayasa'da yer alan temel hak ve hürriyetlere yönelik güvenceleri öncelikle dikkate alarak çözüme kavuşturması gerekir. Zira Anayasa'nın 11. maddesine göre Anayasa hükümleri, yasama, yürütme ve yargı organlarını, idare makamlarını ve diğer kuruluş ve kişileri bağlayan temel hukuk kurallarıdır. Anayasa'nın 138. maddesi de hâkimlerin Anayasa'ya, kanuna ve hukuka uygun olarak vicdani kanaatlerine göre hüküm vereceklerini düzenlemiştir. Dolayısıyla uyuşmazlığa uygulanacak kanun hükümlerinin ve diğer ikincil düzenlemelerin yoruma açık nitelikte olması durumunda hâkim tarafından Anayasa'da yer alan ilke ve güvenceler ışığında yorumlaması gerekir (<i>Ümit Eyüpoğlu, </i>§ 57).</span></p>
+
+<p class="MsoNormal" style="margin-top:0cm;margin-right:14.15pt;margin-bottom:
+10.0pt;margin-left:14.15pt;text-align:justify;text-indent:1.0cm"><span style="color:#010000">49. Bu ilkeler ışığında öncelikli olarak Sulh Ceza Hâkimliği tarafından yapılan yargılama sürecinde talebin esasının incelenmediği başvurucunun kişisel verilerinin düzeltilmesi ve silinmesi talebinin değerlendirilmemesinde Anayasa'nın 20. maddesinde düzenlenen kişisel verilerin korunmasını isteme hakkının gerekliliklerine uygun bir sebep gösterilmediği, ayrıca bu uygulamayı haklı kılabilecek ilgili ve yeterli bir gerekçenin de ortaya konulmadığı söylenebilir. Yönetmelikte UYAP kayıtlarında yanlışlık olması hâlinde kayıtların düzeltilmesine ilişkin kanun yolu aşamasına işaret edilmesine ve bu hususta düzenlemeler mevcut olmasına rağmen Sulh Ceza Hâkimliği kararında başvurucunun UYAP kayıtlarındaki yanlışlığa ilişkin itirazlarının ilgili mevzuat kapsamında değerlendirilmediği görülmektedir.</span></p>
+
+<p class="MsoNormal" style="margin-top:0cm;margin-right:14.15pt;margin-bottom:
+10.0pt;margin-left:14.15pt;text-align:justify;text-indent:1.0cm"><span style="color:#010000">50. Bununla birlikte gerek kişisel verilerin korunmasına ilişkin kanun hükümleri ve gerekse ilgili diğer mevzuat gözetilerek başvurucuya yanlış kayıtların düzeltilmesine ve silinmesine ilişkin başvuru yolu gösterilmemiştir. Sonuç olarak mevcut başvuruda başvurucunun anayasal güvencelerden yararlanabilmesini sağlayabilecek nitelikteki talebinin esasının incelenmemesi teorik olarak mevcut olan etkili bir hukuk yolunun işlevsiz kalmasına yol açmıştır. Diğer bir deyişle bu hâliyle teorik düzeyde etkili görülebilecek itiraz yolu Sulh Ceza Hâkimliğinin söz konusu yorumu sebebiyle somut olayda başarı şansı sunma kapasitesini yitirmiştir. </span></p>
+
+<p class="MsoNormal" style="margin-top:0cm;margin-right:14.15pt;margin-bottom:
+10.0pt;margin-left:14.15pt;text-align:justify;text-indent:1.0cm"><span style="color:#010000">51. Bunun yanında İdare Mahkemesinin iptal davasının reddine ilişkin kararında UYAP sisteminde yer alan kayıtların mevzuat hükümlerine göre silinmesinin mümkün olmadığı gerekçesiyle dava konusu işlemde hukuka aykırılık bulunmadığı kanaatine varıldığı belirtilmiştir. Oysa ki Anayasa ve 6698 sayılı Kanun uyarınca kişinin kendisiyle ilgili bilgilerin yanlış kaydedilmesi durumunda uygun düzeltmelerin yapılmasını veya silinmesini talep etme hakkına sahip olduğu açıktır. Ancak kararda kişilere tanınan kişisel verilerin düzeltilmesi ve silinmesi yönündeki hak Yönetmeliğin 257. maddesindeki düzenlemeler bağlamında tartışılmamıştır. Sonuç olarak başvurucunun yanlış kaydedilen kişisel verilerinin gecikmeksizin düzeltilmesi veya silinmesi için başvurduğu hem idari hem de yargısal makamların kategorik değerlendirmeler yapmak suretiyle UYAP kayıtlarının silinmesinin mümkün olmadığı yönünde gerekçe belirterek talebi reddetmesi veyahut talebi esastan incelememesi başvurucunun mağduriyetini gidermeye yönelik olmadığı gibi mağduriyeti ortadan kaldırmaya yönelik etkili bir başvuru yolunun da anılan makamlarca gösterildiğinden söz edilemez. </span></p>
+
+<p class="MsoNormal" style="margin-top:0cm;margin-right:14.15pt;margin-bottom:
+10.0pt;margin-left:14.15pt;text-align:justify;text-indent:1.0cm"><span style="color:#010000">52. Tüm bu açıklamalar çerçevesinde başvuru konusu olay değerlendirildiğinde yargılama makamları tarafından başvurucunun yanlış kayıtların düzeltilmesi ve silinmesi yönündeki talebinin ilgili ve yeterli gerekçelerle değerlendirilmemesi ile etkili başvuru yolunun gösterilmemesi nedeniyle özel hayata saygı hakkı kapsamındaki kişisel verilerin korunmasını isteme hakkı bağlamında kamusal makamların üzerine düşen pozitif yükümlülükleri yerine getirmediği sonucuna varılmıştır. Neticede başvurucuya, özel hayata saygı hakkı kapsamındaki kişisel verilerin korunmasını isteme hakkı bağlamında olduğunu ileri sürdüğü müdahalenin ortadan kaldırılması talebinin değerlendirilmesi bakımından teoride mevcut olan bir yolun pratikte işletilmediği görülmektedir.</span></p>
+
+<p class="MsoNormal" style="margin-top:0cm;margin-right:14.15pt;margin-bottom:
+10.0pt;margin-left:14.15pt;text-align:justify;text-indent:1.0cm"><span style="color:#010000">53. Açıklanan gerekçelerle yargılama makamlarının başvurucunun kişisel verilerinin düzeltilmesi ve silinmesi yönündeki talebinin esasının incelenmesini engelleyen yorumu sebebiyle özel hayata saygı hakkı kapsamındaki kişisel verilerin korunmasını isteme hakkı ile bağlantılı etkili başvuru hakkının ihlal edildiğine karar verilmesi gerekir.</span></p>
+
+<p class="MsoNormal" style="margin-top:0cm;margin-right:14.15pt;margin-bottom:
+10.0pt;margin-left:14.15pt;text-align:justify;text-indent:1.0cm"><b><span style="color:#010000">B.</span></b><span style="color:#010000"> <b>Başvuruya Konu Tam Yargı Davasına İlişkin Özel Hayata Saygı Hakkı Kapsamındaki Kişisel Verilerin Korunmasını İsteme Hakkının İhlal Edildiği İddiası</b></span></p>
+
+<p class="MsoNormal" style="margin-top:0cm;margin-right:14.15pt;margin-bottom:
+10.0pt;margin-left:14.15pt;text-align:justify;text-indent:1.0cm"><b><span style="color:#010000">1.</span></b><span style="color:#010000"> <b>Başvurucunun İddiaları ve Bakanlık Görüşü</b></span></p>
+
+<p class="MsoNormal" style="margin-top:0cm;margin-right:14.15pt;margin-bottom:
+10.0pt;margin-left:14.15pt;text-align:justify;text-indent:1.0cm"><span style="color:#010000">54. Başvurucu UYAP kayıtlarında "<i>şikâyet edilen</i>" olarak yer alan bilgilerinin silinmemesi üzerine açmış olduğu tam yargı davasının reddedilmesi nedeniyle özel hayata ve aile hayatına saygı hakkının ihlal edildiğini ileri sürmüştür. </span></p>
+
+<p class="MsoNormal" style="margin-top:0cm;margin-right:14.15pt;margin-bottom:
+10.0pt;margin-left:14.15pt;text-align:justify;text-indent:1.0cm"><span style="color:#010000">55. Bakanlık görüşünde; inceleme yapılırken Anayasa ve ilgili mevzuat hükümleri, Anayasa Mahkemesi içtihadı ve somut olayın kendine özgü koşullarının da dikkate alınması gerektiği ifade edilmiştir. Başvurucu, Bakanlık görüşüne karşı beyanında bireysel başvuru formundaki hususları tekrar etmekle birlikte Bakanlık tarafından bildirilen görüşleri kabul etmediğini belirtmiştir.</span></p>
+
+<p class="MsoNormal" style="margin-top:0cm;margin-right:14.15pt;margin-bottom:
+10.0pt;margin-left:14.15pt;text-align:justify;text-indent:1.0cm"><b><span style="color:#010000">2.</span></b><span style="color:#010000"> <b>Değerlendirme </b></span></p>
+
+<p class="MsoNormal" style="margin-top:0cm;margin-right:14.15pt;margin-bottom:
+10.0pt;margin-left:14.15pt;text-align:justify;text-indent:1.0cm"><span style="color:#010000">56. Başvurucu hakkında şikâyet bulunmamasına rağmen UYAP kayıtlarında "<i>şikâyet edilen</i>" ibaresinin kullanılması <i>belirli bir gerçek kişi hakkındaki bilgi</i> kapsamında olduğundan bu ibarenin gerçeği yansıtmaması nedeniyle silinmesi talebinin başvurulan makamlarca karşılanmaması sonucunda açılan tam yargı davasının reddedilmesi bakımından ileri sürülen iddiaların özel hayata saygı hakkı kapsamındaki kişisel verilerin korunmasını isteme hakkı yönünden incelenmesi gerektiği değerlendirilmiştir. </span></p>
+
+<p class="MsoNormal" style="margin-top:0cm;margin-right:14.15pt;margin-bottom:
+10.0pt;margin-left:14.15pt;text-align:justify;text-indent:1.0cm"><b><span style="color:#010000">a.</span></b><span style="color:#010000"> <b>Kabul Edilebilirlik Yönünden</b></span></p>
+
+<p class="MsoNormal" style="margin-top:0cm;margin-right:14.15pt;margin-bottom:
+10.0pt;margin-left:14.15pt;text-align:justify;text-indent:1.0cm"><span style="color:#010000">57. Açıkça dayanaktan yoksun olmadığı ve kabul edilemezliğine karar verilmesini gerektirecek başka bir neden de bulunmadığı anlaşılan özel hayata saygı hakkı kapsamındaki kişisel verilerin korunmasını isteme hakkının ihlal edildiğine ilişkin iddianın kabul edilebilir olduğuna karar verilmesi gerekir.</span></p>
+
+<p class="MsoNormal" style="margin-top:0cm;margin-right:14.15pt;margin-bottom:
+10.0pt;margin-left:14.15pt;text-align:justify;text-indent:1.0cm"><b><span style="color:#010000">b.</span></b><span style="color:#010000"> <b>Esas Yönünden</b></span></p>
+
+<p class="MsoNormal" style="margin-top:0cm;margin-right:14.15pt;margin-bottom:
+10.0pt;margin-left:14.15pt;text-align:justify;text-indent:1.0cm"><span style="color:#010000">58. Başvuruya konu tam yargı davasında UYAP'ta bulunan kayıtların 5271 sayılı Kanun'un 38/A maddesi gereğince tutulması ve saklanması zorunlu olan kayıtlardan olduğu, bu kayıtların kanuni zorunluluk nedeniyle tutuluyor olması ve ihtiyaç duyulması halinde yeniden görülebilmesi amacıyla saklandığı gözetildiğinde UYAP sisteminde yer alan kayıtların mevzuat hükümleri gereğince silinmesinin mümkün olmadığı gerekçesi kararda belirtilmiştir. Ayrıca olayda davalı idareye atfedilebilecek bir hizmet kusuru bulunmadığı, uyuşmazlık bakımından kusursuz sorumluluk ilke ve esaslarının da uygulanma kabiliyeti olmadığından başvurucunun maddi ve manevi tazminat taleplerinin de reddine karar verildiği anlaşılmaktadır.</span></p>
+
+<p class="MsoNormal" style="margin-top:0cm;margin-right:14.15pt;margin-bottom:
+10.0pt;margin-left:14.15pt;text-align:justify;text-indent:1.0cm"><span style="color:#010000">59. Oysa ki somut olayda başvurucunun hakkında şikâyet bulunmadığı yargılama makamlarınca kabul edilmiştir. Bu kabule rağmen başvurucu UYAP kayıtlarında "<i>şikâyet edilen</i>" olarak kaydedilmiştir. Başvurucu bu durumdan yakınmakla birlikte başvurucunun hakkında şikâyet olmamasına rağmen sehven şikâyet edilen olarak kaydedildiğinin yargı eliyle tespit edildiği görülmektedir. Yukarıda belirtilen ilkeler ışığında (bkz.§§ 38-41) İdare Mahkemesince tam yargı davası kapsamında kişisel verilere ilişkin güvenceleri içeren düzenlemelerden olan Anayasa, 6698 sayılı Kanun ve Yönetmelik hükümleri bağlamında herhangi bir değerlendirme yapılmadığı gibi başvurucu hakkında şikâyet olmadığı yargılama makamlarının kabulünde olmasına rağmen UYAP kayıtlarında şikâyet edilen olarak kaydedilmesinin tazmin edilmesi gereken bir zarara neden olup olmadığının tartışılmadığı anlaşılmaktadır. Bunun yanında yanlış kaydın düzeltilmemesinden kaynaklı zarar doğmadığının tespitine ilişkin ilgili ve yeterli gerekçelere yer verilmediği görülmektedir. </span></p>
+
+<p class="MsoNormal" style="margin-top:0cm;margin-right:14.15pt;margin-bottom:
+10.0pt;margin-left:14.15pt;text-align:justify;text-indent:1.0cm"><span style="color:#010000">60. Açıklanan gerekçelerle özel hayata saygı hakkı kapsamındaki kişisel verilerin korunmasını isteme hakkının öngördüğü pozitif yükümlülüklerin yerine getirilmediği anlaşıldığından Anayasa'nın 20. maddesinde güvence altına alınan özel hayata saygı hakkı kapsamındaki kişisel verilerin korunmasını isteme hakkının ihlal edildiğine karar verilmesi gerekir.</span></p>
+
+<p class="MsoNormal" style="margin-top:0cm;margin-right:14.15pt;margin-bottom:
+10.0pt;margin-left:14.15pt;text-align:justify;text-indent:1.0cm"><b><span style="color:#010000">C. Diğer İhlal İddiaları</span></b></p>
+
+<p class="MsoNormal" style="margin-top:0cm;margin-right:14.15pt;margin-bottom:
+10.0pt;margin-left:14.15pt;text-align:justify;text-indent:1.0cm"><span style="color:#010000">61. Başvurucu iptal ve tam yargı davasında aleyhine hükmedilen yargılama gideri ile vekâlet ücreti nedeniyle mülkiyet hakkının ihlal edildiğini ileri sürmüştür. Ancak yapılan incelemede özel hayata saygı hakkı kapsamındaki kişisel verilerin korunmasını isteme hakkının ve bu hakla bağlantılı etkili başvuru hakkının ihlal edildiğine karar verildiğinden ve yeniden yargılama yapılması hâlinde belirtilen hususlarda yeniden değerlendirme yapılacağından ulaşılan sonuç gözetildiğinde başvurucunun bu ihlal iddiasının ayrıca incelenmesine gerek görülmemiştir.</span></p>
+
+<p class="MsoNormal" style="margin-top:0cm;margin-right:14.15pt;margin-bottom:
+10.0pt;margin-left:14.15pt;text-align:justify;text-indent:1.0cm"><b><span style="color:#010000">VI. GİDERİM</span></b></p>
+
+<p class="MsoNormal" style="margin-top:0cm;margin-right:14.15pt;margin-bottom:
+10.0pt;margin-left:14.15pt;text-align:justify;text-indent:1.0cm"><span style="color:#010000">62. Başvurucu ihlalin tespiti, yeniden yargılama, maddi ile manevi tazminat talebinde bulunmuştur.</span></p>
+
+<p class="MsoNormal" style="margin-top:0cm;margin-right:14.15pt;margin-bottom:
+10.0pt;margin-left:14.15pt;text-align:justify;text-indent:1.0cm"><span style="color:#010000">63. Başvuruda tespit edilen hak ihlalinin sonuçlarının ortadan kaldırılması için yeniden yargılama<b><i> </i></b>yapılmasında hukuki yarar bulunmaktadır. Bu kapsamda kararın gönderildiği yargı<b><i> </i></b>mercilerince yapılması gereken iş yeniden yargılama<i> </i>işlemlerini başlatmak ve Anayasa Mahkemesini ihlal sonucuna ulaştıran nedenleri gideren, ihlal kararında belirtilen ilkelere uygun yeni bir karar vermektir (6216 sayılı Kanun'un 50. maddesinin (2) numaralı fıkrasında düzenlenen bireysel başvuruya özgü yeniden yargılama kurumunun özelliklerine ilişkin kapsamlı açıklamalar için bkz. <i>Mehmet Doğan</i> ([GK], B. No: 2014/8875, 7/6/2018, §§ 54-60; <i>Aligül Alkaya ve diğerleri (2)</i>, B. No: 2016/12506, 7/11/2019, §§ 53-60, 66; <i>Kadri Enis Berberoğlu (3) </i>[GK], B. No: 2020/32949, 21/1/2021, §§ 93-100). </span></p>
+
+<p class="MsoNormal" style="margin-top:0cm;margin-right:14.15pt;margin-bottom:
+10.0pt;margin-left:14.15pt;text-align:justify;text-indent:1.0cm"><span style="color:#010000">64. Öte yandan ihlalin niteliğine göre yeniden yargılamanın yeterli bir giderim sağlayacağı anlaşıldığından başvurucunun tazminat talebinin reddine karar verilmesi gerekir. </span></p>
+
+<p class="MsoNormal" style="margin-top:0cm;margin-right:14.15pt;margin-bottom:
+10.0pt;margin-left:14.15pt;text-align:justify;text-indent:1.0cm"><b><span style="color:#010000">VII.</span></b><span style="color:#010000"> <b>HÜKÜM</b></span></p>
+
+<p class="MsoNormal" style="margin-top:0cm;margin-right:14.15pt;margin-bottom:
+10.0pt;margin-left:14.15pt;text-align:justify;text-indent:1.0cm"><span style="color:#010000">Açıklanan gerekçelerle;</span></p>
+
+<p class="MsoNormal" style="margin-top:0cm;margin-right:14.15pt;margin-bottom:
+10.0pt;margin-left:14.15pt;text-align:justify;text-indent:1.0cm"><span style="color:#010000">A. Başvuruların BİRLEŞTİRİLMESİNE,</span></p>
+
+<p class="MsoNormal" style="margin-top:0cm;margin-right:14.15pt;margin-bottom:
+10.0pt;margin-left:14.15pt;text-align:justify;text-indent:1.0cm"><span style="color:#010000">B. Kamuya açık belgelerde başvurucunun kimliğinin gizli tutulması talebinin KABULÜNE,</span></p>
+
+<p class="MsoNormal" style="margin-top:0cm;margin-right:14.15pt;margin-bottom:
+10.0pt;margin-left:14.15pt;text-align:justify;text-indent:1.0cm"><span style="color:#010000">C. Özel hayata saygı hakkı kapsamındaki kişisel verilerin korunmasını isteme hakkı ve bu hakla bağlantılı olarak etkili başvuru hakkının ihlal edildiğine ilişkin iddianın KABUL EDİLEBİLİR OLDUĞUNA, </span></p>
+
+<p class="MsoNormal" style="margin-top:0cm;margin-right:14.15pt;margin-bottom:
+10.0pt;margin-left:14.15pt;text-align:justify;text-indent:1.0cm"><span style="color:#010000">D. Anayasa’nın 20. maddesinde düzenlenen özel hayata saygı hakkı kapsamındaki kişisel verilerin korunmasını isteme hakkı ve bu hakla bağlantılı olarak Anayasa’nın 40. maddesinde güvence altına alınan etkili başvuru hakkının İHLAL EDİLDİĞİNE,</span></p>
+
+<p class="MsoNormal" style="margin-top:0cm;margin-right:14.15pt;margin-bottom:
+10.0pt;margin-left:14.15pt;text-align:justify;text-indent:1.0cm"><span style="color:#010000">E. Diğer ihlal iddialarının İNCELENMESİNE GEREK OLMADIĞINA, </span></p>
+
+<p class="MsoNormal" style="margin-top:0cm;margin-right:14.15pt;margin-bottom:
+10.0pt;margin-left:14.15pt;text-align:justify;text-indent:1.0cm"><span style="color:#010000">F. Kararın bir örneğinin özel hayata saygı hakkı kapsamındaki kişisel verilerin korunmasını isteme hakkı ve bu hakla bağlantılı olarak etkili başvuru hakkının ihlalinin sonuçlarının ortadan kaldırılması için yeniden yargılama yapılması amacıyla Ankara Cumhuriyet Başsavcılığına (CBS İhbar 2019/3672,K.2019/2042), Ankara 2. Sulh Ceza Hâkimliğine (2019/5522 D.İş) ve Ankara 18. İdare Mahkemesine (E.2020/1517, K.2021/768 ile E.2020/905, K.2021/992) GÖNDERİLMESİNE,</span></p>
+
+<p class="MsoNormal" style="margin-top:0cm;margin-right:14.15pt;margin-bottom:
+10.0pt;margin-left:14.15pt;text-align:justify;text-indent:1.0cm"><span style="color:#010000">G. Başvurucunun tazminat talebinin REDDİNE, </span></p>
+
+<p class="MsoNormal" style="margin-top:0cm;margin-right:14.15pt;margin-bottom:
+10.0pt;margin-left:14.15pt;text-align:justify;text-indent:1.0cm"><span style="color:#010000">H. 487,60 TL harç ve 30.000 TL vekâlet ücretinden oluşan toplam 30.487,60 TL yargılama giderinin başvurucuya ÖDENMESİNE,</span></p>
+
+<p class="MsoNormal" style="margin-top:0cm;margin-right:14.15pt;margin-bottom:
+10.0pt;margin-left:14.15pt;text-align:justify;text-indent:1.0cm"><span style="color:#010000">İ. Ödemenin, kararın tebliğini takiben başvurucunun Hazine ve Maliye Bakanlığına başvuru tarihinden itibaren dört ay içinde yapılmasına, ödemede gecikme olması hâlinde bu sürenin sona erdiği tarihten ödeme tarihine kadar geçen süre için yasal FAİZ UYGULANMASINA,</span></p>
+
+<p class="MsoNormal" style="margin-top:0cm;margin-right:14.15pt;margin-bottom:
+10.0pt;margin-left:14.15pt;text-align:justify;text-indent:1.0cm"><span style="color:#010000">J. Kararın bir örneğinin bilgi için Ankara Bölge İdare Mahkemesi 10. İdari Dava Dairesine (E.2021/3488, K.2021/4809) ve (E.2021/3664, K.2021/4970) ile Adalet Bakanlığına GÖNDERİLMESİNE 3/10/2024 tarihinde OYBİRLİĞİYLE karar verildi. </span></p>
+</div>
