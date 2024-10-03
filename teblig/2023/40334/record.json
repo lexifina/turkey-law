@@ -1,0 +1,41 @@
+{
+  "source_id": "9.5.40334",
+  "kind": "communique",
+  "register_kind": "Tebliğler",
+  "title": "AVUKATLIK ASGARİ ÜCRET TARİFESİ",
+  "number": "40334",
+  "path": "teblig/2023/40334",
+  "source": "https://www.mevzuat.gov.tr/anasayfa/MevzuatFihristDetayIframe?MevzuatTur=9&MevzuatNo=40334&MevzuatTertip=5",
+  "source_sha256": "e80b669c5e6c521dc694d9452def56c385ce9b1e1d390db56295a58b21cbad5c",
+  "source_bytes": 41795,
+  "published": "2023-09-21",
+  "gazette": "32316",
+  "in_force": "2024-10-03",
+  "in_force_basis": "latest Resmî Gazete date printed in the source amendment notes/table (\"RG-3/10/2024\") for the current consolidated text",
+  "date_evidence": [
+    [
+      "2024-10-03",
+      "RG-3/10/2024",
+      "Resmî Gazete date printed in the source amendment note"
+    ],
+    [
+      "2024-10-03",
+      "3/10/2024",
+      "Resmî Gazete date in the source amendment table"
+    ]
+  ],
+  "history": "current-text",
+  "label": "oldest version available",
+  "checked_on": "2026-11-15",
+  "word_count": 2375,
+  "text_status": "current-consolidated",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  },
+  "source_links": [
+    "9.5.40334-%20EK.docx"
+  ],
+  "completeness": "html-text-complete; linked annexes not fetched"
+}
