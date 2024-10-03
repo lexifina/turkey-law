@@ -1,0 +1,17 @@
+{
+  "kind": "decision",
+  "issuer": "Sayıştay 8. Dairesi",
+  "number": "319",
+  "decision_date": "2024-10-03",
+  "source_id": 38727,
+  "chamber": "8",
+  "ilam_number": "232",
+  "item_number": 2,
+  "public_body_type": "Yüksek Öğretim Kurumları",
+  "account_year": 2019,
+  "subject": "Personel Mevzuatı ile İlgili Kararlar",
+  "source": "https://www.sayistay.gov.tr/KararlarDaire/Detay/38727/",
+  "source_sha256": "a3fbce49ae7720a2d6faed139e8fc291f0fa74b02532b0a6e27336416c83d6a8",
+  "text_status": "as-enacted",
+  "text_file": "metin.md"
+}
