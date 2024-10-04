@@ -1,0 +1,2 @@
+Kapsam
+MADDE 2- (1) Bu Tebliğ, 23/8/2024 tarihli ve 8858 sayılı Cumhurbaşkanı Kararı ile yürürlüğe konulan 2024 Yılında Yapılacak Bitkisel Üretime Yönelik Desteklemeler ile Diğer Bazı Tarımsal Desteklemelere İlişkin Karar kapsamında organik tarımı destekleme çalışmalarında görev alacak kurum ve kuruluşların belirlenmesi ve organik arı ürünleri üreticiliği faaliyetinde bulunan yetiştiricilere organik arılı kovan için yapılacak destekleme ödemelerine ilişkin usul ve esasları kapsar.

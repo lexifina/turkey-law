@@ -1,0 +1,20 @@
+Tanımlar ve kısaltmalar
+MADDE 4- (1) Bu Tebliğde geçen;
+a) Arıcılık Kayıt Sistemi (AKS): Etiketlenmiş kovanlara ait bilgilerin merkezi bir veri tabanında kayıt altına alındığı, izlendiği, raporlandığı Bakanlık kayıt sistemini,
+b) Arılı kovan: Üreme kabiliyeti bulunan ana arılı ve en az dört arılı çerçeveye sahip (eski tip kolonilerde çerçeve aranmaz) arı kolonisini,
+c) Bakanlık: Tarım ve Orman Bakanlığını,
+ç) Banka: T.C. Ziraat Bankası A.Ş. Genel Müdürlüğünü,
+d) BÜGEM: Bitkisel Üretim Genel Müdürlüğünü,
+e) İl müdürlüğü: Bakanlık il müdürlüğünü,
+f) İlçe müdürlüğü: Bakanlık ilçe müdürlüğünü,
+g) İşletme: Arılı kovanların tutulduğu, bakıldığı, beslendiği ayrıca ilgili ekipmanın bulunduğu açık ya da kapalı tesis ya da alanları,
+ğ) OAYYD: Organik Arıcılık Yapan Yetiştiricilerin Desteklemesini,
+h) Organik tarım: 18/8/2010 tarihli ve 27676 sayılı Resmî Gazete’de yayımlanan Organik Tarımın Esasları ve Uygulanmasına İlişkin Yönetmelik hükümlerine göre yapılan tarımsal faaliyeti,
+ı) Organik Tarım Bilgi Sistemi (OTBİS): Organik tarım yapan çiftçi, arazi, ürün, hayvansal üretim ve sertifika bilgilerinin bulunduğu Bakanlıkça oluşturulan veri tabanını,
+i) Organik Tarım Birimleri (OTB): Bakanlık il müdürlükleri bünyesinde oluşturulan organik tarım birimlerini,
+j) OTBİS Raporu: OAYYD’de kullanılmak amacıyla, 1/1/2024-31/12/2024 tarihleri arasında OTBİS’te kayıtlı olan organik tarım faaliyeti yapan yetiştiricileri ve kayıtlı kovanlarını gösteren ve elektronik ortamda tutulan raporu,
+k) Uygunluk Belgesi: Yetiştiricinin, yetkilendirilmiş kuruluştan aldığı, organik süreçte bulunan kovanlarının Yönetmelik hükümlerine göre uygun yetiştirildiğini gösteren ve bir örneği EK-1’de yer alan belgeyi,
+l) Yetiştirici: 1/12/2004 tarihli ve 5262 sayılı Organik Tarım Kanununda tanımlanan müteşebbislerden organik arıcılık yapan kayıtlı gerçek veya tüzel kişileri,
+m) Yetkilendirilmiş kuruluş: Kontrol ve sertifikasyon kuruluşu, kontrol kuruluşu veya sertifikasyon kuruluşu olarak Bakanlık tarafından yetki verilmiş gerçek veya tüzel kişileri,
+n) Yönetmelik: 18/8/2010 tarihli ve 27676 sayılı Resmî Gazete’de yayımlanan Organik Tarımın Esasları ve Uygulanmasına İlişkin Yönetmeliği,
+ifade eder.
