@@ -1,0 +1,2 @@
+İşletme Sorumluluğunun Geçici Süreli Devri
+Madde 10 — İşletme sorumlusu, sorumluluklarını bir başka belge sahibi mühendise sağlık, askerlik görevi, yurt dışı seyahati ve benzeri geçerli ve zorunlu nedenlere dayanmak kaydı ile geçici bir süre devredebilir. Ancak bu talebin ve yeni sorumlunun (Değişik ibare:RG-5/10/2024-32683) işverence kabul edilmesi ve düzenlenecek devir protokolünün EMO tarafından onaylanması gerekir.

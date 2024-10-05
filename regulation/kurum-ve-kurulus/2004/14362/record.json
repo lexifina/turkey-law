@@ -1,0 +1,52 @@
+{
+  "source_id": "7.5.14362",
+  "kind": "regulation",
+  "register_kind": "Kurum ve Kuruluş Yönetmelikleri",
+  "title": "TÜRK MÜHENDİS VE MİMAR ODALARI BİRLİĞİ ELEKTRİK MÜHENDİSLERİ ODASI ELEKTRİK YÜKSEK GERİLİM TESİSLERİ İŞLETME SORUMLULUĞU YÖNETMELİĞİ",
+  "number": "14362",
+  "issuer_slug": "kurum-ve-kurulus",
+  "path": "regulation/kurum-ve-kurulus/2004/14362",
+  "source": "https://www.mevzuat.gov.tr/anasayfa/MevzuatFihristDetayIframe?MevzuatTur=7&MevzuatNo=14362&MevzuatTertip=5",
+  "source_sha256": "68d8a75fcd610d254a335ffb03aec5ce6dbd4c0e8d0684413e1f1a9fd5de9125",
+  "source_bytes": 62737,
+  "published": "2004-03-18",
+  "gazette": "25406",
+  "in_force": "2024-10-05",
+  "in_force_basis": "latest Resmî Gazete date printed in the source amendment notes/table (\"RG-5/10/2024\") for the current consolidated text",
+  "date_evidence": [
+    [
+      "2024-10-05",
+      "RG-5/10/2024",
+      "Resmî Gazete date printed in the source amendment note"
+    ],
+    [
+      "2024-10-05",
+      "5/10/2024",
+      "Resmî Gazete date in the source amendment table"
+    ],
+    [
+      "2019-01-22",
+      "22/1/2019",
+      "Resmî Gazete date in the source amendment table"
+    ],
+    [
+      "2008-01-12",
+      "12/1/2008",
+      "Resmî Gazete date in the source amendment table"
+    ]
+  ],
+  "commencement_clauses": [
+    "Bu Yönetmelik yayımı tarihinde yürürlüğe girer"
+  ],
+  "history": "current-text",
+  "label": "oldest version available",
+  "checked_on": "2026-11-15",
+  "word_count": 1922,
+  "text_status": "current-consolidated",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  },
+  "completeness": "html-text-complete"
+}

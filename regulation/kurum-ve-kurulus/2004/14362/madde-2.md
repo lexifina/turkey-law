@@ -1,0 +1,2 @@
+Kapsam
+Madde 2 — Bu Yönetmelik, 1 kV’un üstündeki yüksek gerilim (YG) tesislerinin işletme sorumluluğunu üstlenen elektrik mühendislerinin, Enerji ve Tabii Kaynaklar Bakanlığınca yürürlüğe konulan 30.11.2000 tarihli ve 24246 sayılı Resmî Gazete’de yayımlanarak yürürlüğe giren Elektrik Kuvvetli Akım Tesisleri Yönetmeliği hükümleri çerçevesinde görev, yetki ve yükümlülüklerine ilişkin düzenlemeleri kapsar.
