@@ -1,0 +1,21 @@
+{
+  "record_type": "parliament-written-question",
+  "term": 28,
+  "legislative_year": 3,
+  "esas_no": "7/17277",
+  "submitted": "2024-10-07",
+  "submitted_as": "Başkanlığa geliş tarihi",
+  "mp": "Zeynep ODUNCU KUTEVİ",
+  "province": "Batman",
+  "summary": "Sayıştayın 2023 yılı Denetim Raporu'nda Sivil Havacılık Genel Müdürlüğü ile ilgili yaptığı bazı tespitlere ilişkin",
+  "status": "Süresi Geçtikten Sonra Cevaplandı",
+  "status_as_of": "2026-11-16",
+  "official_record": "https://www.tbmm.gov.tr/Denetim/Yazili-Soru-Onergesi-Detay/8e854f35-07b5-4f33-9c13-01926afc8351",
+  "source": "https://tbmm.gov.tr/Denetim/YaziliSoruOnergesiTable",
+  "source_form": "https://tbmm.gov.tr/Denetim/Yazili-Soru-Onergeleri",
+  "source_sha256": "095b21e0da13229340921f774b78f1f877bca2b3df9492a9d08a41bf3d08c138",
+  "in_force": "2024-10-07",
+  "in_force_basis": "Date the question reached the Speaker (Başkanlığa geliş tarihi) in the official TBMM written-question record; parliamentary oversight record, not law",
+  "history_type": "metadata",
+  "text_status": "metadata-only: question text, addressee and answers are in the linked official record (PDFs on cdn.tbmm.gov.tr); not transcribed here"
+}
