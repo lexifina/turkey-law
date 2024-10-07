@@ -1,0 +1,5 @@
+Müdür
+MADDE 8- (1) Müdür, Yönetim Kurulunun oy çokluğuyla alacağı karar ile Yönetim Kurulu üyeleri arasından seçilerek koordinatör yükseköğretim kurumunun Rektörü tarafından üç yıllık süre için görevlendirilir. Müdür, Yönetim Kurulu üyeleri arasından bir üyeyi müdür yardımcısı olarak görevlendirilmek üzere koordinatör yükseköğretim kurumunun Rektörünün onayına sunar. Müdür yardımcısı Müdürün görevi başında bulunmadığı zamanlarda Müdüre vekalet eder. Müdürün görev süresi bitince müdür yardımcısının da görevi sona erer.
+(2) Müdürün istifa etmesi veya altı aydan fazla bir süre görevi başında bulunmaması durumunda aynı usulle yeni Müdür görevlendirilir.
+(3) Ortak yükseköğretim kurumlarının rektörleri müşterek kararla, Yönetim Kurulunun belirlediği ve Müdürün verdiği işleri yapmak üzere, bir İTK görevlendirir.
+(4) İTK, Ortak Uygulama ve Araştırma Merkezleri İzleme ve Değerlendirme Komitesince istenen gelişme raporu ve gerekirse Merkezin performans değerlendirmesiyle ilgili ölçütlere ilişkin bilgileri hazırlar ve Müdüre sunar.

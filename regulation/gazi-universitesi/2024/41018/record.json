@@ -1,0 +1,39 @@
+{
+  "checked_on": "2026-11-14",
+  "commencement_clauses": [
+    "MADDE 23- (1) Bu Yönetmelik yayımı tarihinde yürürlüğe girer."
+  ],
+  "date_evidence": [
+    [
+      "2024-10-07",
+      "07.10.2024",
+      "original gazette publication date in official listing"
+    ]
+  ],
+  "date_quote": "MADDE 23- (1) Bu Yönetmelik yayımı tarihinde yürürlüğe girer.",
+  "first_law": null,
+  "gazette": "32685",
+  "history": "current-text",
+  "images": {
+    "deferred": 0,
+    "omitted": 0,
+    "referenced": 0,
+    "source": 0
+  },
+  "in_force": "2024-10-07",
+  "in_force_basis": "source commencement clause: enters into force on gazette publication",
+  "issuer": "Gazi Üniversitesi",
+  "issuer_slug": "gazi-universitesi",
+  "kind": "regulation",
+  "label": "oldest version available",
+  "path": "regulation/gazi-universitesi/2024/41018",
+  "published": "2024-10-07",
+  "source": "https://www.mevzuat.gov.tr/anasayfa/MevzuatFihristDetayIframe?MevzuatTur=8&MevzuatNo=41018&MevzuatTertip=5",
+  "source_bytes": 45082,
+  "source_id": "8.5.41018",
+  "source_sha256": "dad1cafbd0fc232a436b72d5f13892cd61adb48575f87844a226ff5be0eea497",
+  "text_status": "as-enacted",
+  "title": "GAZİ ÜNİVERSİTESİ, ANKARA ÜNİVERSİTESİ VE ORTA DOĞU TEKNİK ÜNİVERSİTESİ NÖROBİLİM VE NÖROTEKNOLOJİ MÜKEMMELİYET ORTAK UYGULAMA VE ARAŞTIRMA MERKEZİ YÖNETMELİĞİ",
+  "university_id": 195,
+  "word_count": 2341
+}

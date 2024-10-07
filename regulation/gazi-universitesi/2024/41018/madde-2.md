@@ -1,0 +1,2 @@
+Kapsam
+MADDE 2- (1) Bu Yönetmelik; koordinatör Gazi Üniversitesi bünyesinde, Ankara Üniversitesi ve Orta Doğu Teknik Üniversitesi iş birliği ile kurulan Gazi Üniversitesi, Ankara Üniversitesi ve Orta Doğu Teknik Üniversitesi Nörobilim ve Nöroteknoloji Mükemmeliyet Ortak Uygulama ve Araştırma Merkezinin amaçlarına, faaliyet alanlarına, yönetim organlarına, yönetim organlarının görevlerine ve çalışma şekline ilişkin hükümleri kapsar.

@@ -1,0 +1,2 @@
+İnşaat ve satın alma işlemleri
+MADDE 17- (1) Merkezin bakım-onarım ve inşaat işlemleri, koordinatör yükseköğretim kurumunun Yapı İşleri ve Teknik Daire Başkanlığı tarafından Yönetim Kurulunun koordinasyonu ile yürütülür. Bu çerçevede; mimari, proje çalışmaları, ihale, teknik denetim, inşaat kabul ve benzeri işlemler koordinatör yükseköğretim kurumunun ilgili destek hizmetlerini yürüten birimi tarafından yürütülür.

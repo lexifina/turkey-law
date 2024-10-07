@@ -1,0 +1,3 @@
+Danışma Kurulu
+MADDE 12- (1) Danışma Kurulu; Merkezin faaliyet alanlarında araştırma ve uygulamaları ile birikime sahip öğretim üyeleri, Merkezin faaliyet alanlarıyla ilgili kamu ve özel sektör kurum ve kuruluşlarının temsilcileri arasından en fazla on beş üyeden oluşur. Bu üyeler; Yönetim Kurulu tarafından belirlenir ve Danışma Kurulu üyeliğine üç yıllığına davet edilir. Süresi biten üye yeniden Danışma Kurulu üyeliğine davet edilebilir.
+(2) Danışma Kurulu toplantılarına Müdür başkanlık eder. Salt çoğunlukla toplantı yapılır. Müdürün yokluğunda Yönetim Kurulu üyelerinden biri Danışma Kuruluna başkanlık eder. Danışma Kurulunun kararları tavsiye niteliğindedir.
