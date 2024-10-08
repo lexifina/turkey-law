@@ -1,0 +1,24 @@
+{
+  "number": "181",
+  "number_as_published": "181",
+  "year": 2024,
+  "title": "2025 Mali Yılı Bütçe Kararnamesi",
+  "decision_date": "2024-10-08",
+  "source": "https://www.battalgazi.bel.tr/wp-json/wp/v2/posts?categories=88&per_page=100&page=4&_fields=id,date,link,title,content",
+  "official_document": "https://www.battalgazi.bel.tr/2024/10/08/2025-mali-yili-butce-kararnamesi/",
+  "source_sha256": "a9f8af80e3d5df7c42a95e375e64f7342369077d90b1b937c50f60b31824447c",
+  "issuer": "Battalgazi Belediye Meclisi",
+  "history_type": "metadata",
+  "text_status": "metadata-only: listing fields as published; complete decision text is in the linked official document, not transcribed",
+  "in_force": "2024-10-08",
+  "in_force_basis": "Decision date as printed in the official council listing: 08.10.2024 (Karar Tarihi on the official decision page); adoption date of the council decision; legal commencement not asserted",
+  "missing": [
+    "complete official decision text",
+    "official annexes"
+  ],
+  "law_text_complete": false,
+  "privacy_withheld": false,
+  "official_page": "https://www.battalgazi.bel.tr/2024/10/08/2025-mali-yili-butce-kararnamesi/",
+  "post_date": "2024-10-08T13:44:00",
+  "record_scope": "one council decision (official decision page)"
+}
