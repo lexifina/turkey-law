@@ -1,0 +1,17 @@
+{
+  "kind": "decision",
+  "issuer": "Sayıştay 4. Dairesi",
+  "number": "334",
+  "decision_date": "2024-10-08",
+  "source_id": 38719,
+  "chamber": "4",
+  "ilam_number": "443",
+  "item_number": 1,
+  "public_body_type": "Diğer Özel Bütçeli İdareler",
+  "account_year": 2015,
+  "subject": "İhale Mevzuatı ile İlgili Kararlar",
+  "source": "https://www.sayistay.gov.tr/KararlarDaire/Detay/38719/",
+  "source_sha256": "85111aafb832924b1f634917ebc18d795a92822b7eceaa50d732768340b2b294",
+  "text_status": "as-enacted",
+  "text_file": "metin.md"
+}
