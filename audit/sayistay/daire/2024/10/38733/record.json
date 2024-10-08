@@ -1,0 +1,17 @@
+{
+  "kind": "decision",
+  "issuer": "Sayıştay 6. Dairesi",
+  "number": "951",
+  "decision_date": "2024-10-08",
+  "source_id": 38733,
+  "chamber": "6",
+  "ilam_number": "270",
+  "item_number": 1,
+  "public_body_type": "Belediyeler ve Bağlı İdareler",
+  "account_year": 2011,
+  "subject": "İhale Mevzuatı ile İlgili Kararlar",
+  "source": "https://www.sayistay.gov.tr/KararlarDaire/Detay/38733/",
+  "source_sha256": "371b4a30367875780206d8e022a827b433e7ceb0838112d81def558666167d80",
+  "text_status": "as-enacted",
+  "text_file": "metin.md"
+}
