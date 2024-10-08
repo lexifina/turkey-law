@@ -1,0 +1,17 @@
+{
+  "kind": "decision",
+  "issuer": "Sayıştay 4. Dairesi",
+  "number": "327",
+  "decision_date": "2024-10-08",
+  "source_id": 38855,
+  "chamber": "4",
+  "ilam_number": "189",
+  "item_number": 2,
+  "public_body_type": "Yüksek Öğretim Kurumları",
+  "account_year": 2021,
+  "subject": "Personel Mevzuatı ile İlgili Kararlar",
+  "source": "https://www.sayistay.gov.tr/KararlarDaire/Detay/38855/",
+  "source_sha256": "f90ed1aedb48e84b24925a6813396a0c00e348c7f10ceb2d08b04b7691fe48bd",
+  "text_status": "metadata-only",
+  "metadata_only_reason": "possible personal name in the official text"
+}
