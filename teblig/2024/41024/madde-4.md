@@ -1,0 +1,2 @@
+Yürürlükteki dampinge karşı önlem
+MADDE 4- (1) 23/8/2024 tarihli ve 32641 sayılı Resmî Gazete’de yayımlanan İthalatta Haksız Rekabetin Önlenmesine İlişkin Tebliğ (Tebliğ No: 2024/23) çerçevesinde 4010.32, 4010.34 ve 4010.39 gümrük tarife istatistik pozisyonları altında kayıtlı “kesiti trapez şeklinde (v-kolanlar) olan (v-yivli olanlar hariç) sonsuz transmisyon kolanları” ithalatında Hindistan, Vietnam ve ÇHC için 3,15 ABD doları/kg dampinge karşı önlem yürürlüktedir.
