@@ -1,0 +1,21 @@
+{
+  "record_type": "parliament-written-question",
+  "term": 28,
+  "legislative_year": 3,
+  "esas_no": "7/17549",
+  "submitted": "2024-10-10",
+  "submitted_as": "Başkanlığa geliş tarihi",
+  "mp": "Meral DANIŞ BEŞTAŞ",
+  "province": "Erzurum",
+  "summary": "Meme kanseri ile mücadele kapsamında yapılan çalışmalara ilişkin",
+  "status": "Süresi Geçtikten Sonra Cevaplandı",
+  "status_as_of": "2026-11-16",
+  "official_record": "https://www.tbmm.gov.tr/Denetim/Yazili-Soru-Onergesi-Detay/233874c6-bebb-482d-9745-01927a7f0a61",
+  "source": "https://tbmm.gov.tr/Denetim/YaziliSoruOnergesiTable",
+  "source_form": "https://tbmm.gov.tr/Denetim/Yazili-Soru-Onergeleri",
+  "source_sha256": "3bb31c32a114e0239de8b8a3640e08994e0948163df295c0833fa8add8e077c4",
+  "in_force": "2024-10-10",
+  "in_force_basis": "Date the question reached the Speaker (Başkanlığa geliş tarihi) in the official TBMM written-question record; parliamentary oversight record, not law",
+  "history_type": "metadata",
+  "text_status": "metadata-only: question text, addressee and answers are in the linked official record (PDFs on cdn.tbmm.gov.tr); not transcribed here"
+}
