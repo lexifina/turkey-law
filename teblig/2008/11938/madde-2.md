@@ -1,0 +1,4 @@
+Gözetim uygulaması
+MADDE 2 – (1) Bu Tebliğ’in 1 inci maddesinde belirtilen eşya ancak (Değişik ibare:RG-11/7/2012-28350) Ekonomi Bakanlığınca (İthalat Genel Müdürlüğü) düzenlenecek gözetim belgesi ile ithal edilir. Gözetim belgesi gümrük beyannamesinin tescilinde ilgili gümrük idaresince aranır. Gözetim belgesinin bir örneği gümrük beyannamesine eklenir.
+(2) (Değişik:RG-10/10/2024-32688) 1 inci maddede belirtilen eşyanın bir antrepo beyannamesi/taşıma senedi/özet beyan/TIR Karnesi kapsamında ilgili GTİP’ten 10 (on) adet veya bundan daha az miktarda olması durumunda ithalatta gözetim belgesi aranmaz.
+(3) İthal motor ve ithal şasi birlikte kullanılarak üretilen motosikletler, 29/5/2004 tarihli ve 25476 sayılı Resmî Gazete’de yayımlanan 2004/7305 sayılı Kararın, 2007/12850 sayılı Karar ile değişik 6 ncı maddesi hükmü uyarınca korunma önlemine tabi eşya sayılarak 1/3/2007 tarihli ve 26449 sayılı Resmî Gazete’de yayımlanan 2007/11621 sayılı Karar hükümleri uygulanır.
