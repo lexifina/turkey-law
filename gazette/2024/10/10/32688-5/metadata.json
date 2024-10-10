@@ -1,0 +1,20 @@
+{
+  "record_type": "gazette-item",
+  "gazette": "Resmî Gazete",
+  "jurisdiction": "TR",
+  "date": "2024-10-10",
+  "issue": "32688",
+  "edition": "regular",
+  "item": 5,
+  "section": "YÜRÜTME VE İDARE BÖLÜMÜ",
+  "heading": "TEBLİĞLER",
+  "title": "Gümrük Genel Tebliği (Serbest Dolaşıma Giriş) (Seri No: 18)",
+  "official_link": "https://www.resmigazete.gov.tr/eskiler/2024/10/20241010-5.htm",
+  "link_format": "htm",
+  "index_url": "https://www.resmigazete.gov.tr/eskiler/2024/10/20241010.htm",
+  "index_sha256": "6db6e6b0ad7439c681887eba4af3203cfe3d3220cce91449b446620692db236d",
+  "index_header": "10 Ekim 2024 ... 32688 Sayılı Resmî Gazete",
+  "issue_pdf": "https://www.resmigazete.gov.tr/eskiler/2024/10/20241010.pdf",
+  "in_force_basis": "Resmî Gazete publication date; not a commencement reading.",
+  "text_status": "metadata-only; text not yet fetched (follow-up pass adds it as its own commit)"
+}
