@@ -1,0 +1,3 @@
+Giderler ve yayım işlemleri
+MADDE 16- (1) Bakanlık birimlerinin yayımlanmasını talep ettikleri eserlere ilişkin giderler Daire Başkanlığı bütçesinden karşılanır. Ulusal ve uluslararası kuruluşlar ile yapılan protokol, çalışma planı, sözleşme ve benzeri çerçevesinde hazırlanan yayınların giderlerinin karşılanmasında ilgili mutabakat hükümleri uygulanır. Gerçek ve tüzel kişilerce yayımlanması kabul edilen ve Bakan tarafından yayımlanması onaylanan eserlere ilişkin giderler Daire Başkanlığı bütçesinden karşılanır.
+(2) Bakanlık birimlerince araştırma ve geliştirme amaçlı talep edilen eserlerin temini, Bakanlık personelinin ihtiyaç duyduğu süreli yayınlara abone olunması ve akademik veri tabanlarına ilişkin giderler Daire Başkanlığı bütçesinden karşılanır.
