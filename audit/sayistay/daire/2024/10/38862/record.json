@@ -1,0 +1,17 @@
+{
+  "kind": "decision",
+  "issuer": "Sayıştay 1. Dairesi",
+  "number": "10939",
+  "decision_date": "2024-10-10",
+  "source_id": 38862,
+  "chamber": "1",
+  "ilam_number": "14",
+  "item_number": 2,
+  "public_body_type": "Genel Bütçe Kapsamındaki İdareler",
+  "account_year": 2023,
+  "subject": "İhale Mevzuatı ile İlgili Kararlar",
+  "source": "https://www.sayistay.gov.tr/KararlarDaire/Detay/38862/",
+  "source_sha256": "3f600502f01fee66eefff124241902345256125a446fb35d92a524e19a8b4c2e",
+  "text_status": "as-enacted",
+  "text_file": "metin.md"
+}
