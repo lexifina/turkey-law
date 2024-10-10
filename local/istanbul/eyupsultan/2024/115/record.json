@@ -1,0 +1,22 @@
+{
+  "number": "115",
+  "number_as_published": "2024/115",
+  "year": 2024,
+  "title": "Taşınmaz devri",
+  "decision_date": "2024-10-10",
+  "source": "https://eyupsultan.bel.tr/tr/main/pages/2024-ekim-ayi-meclis-kararlari/2630",
+  "official_document": "https://eyupsultan.bel.tr/tr/main/pages/2024-115/2638",
+  "source_sha256": "d78661d263dbfd7b5a04768697af53014c92678e94364251b1bbb96d916ac7f7",
+  "issuer": "Eyüpsultan Belediye Meclisi",
+  "history_type": "metadata",
+  "text_status": "metadata-only: listing fields as published; complete decision text is in the linked official document, not transcribed",
+  "in_force": "2024-10-10",
+  "in_force_basis": "Decision date as printed in the official council listing: 10.10.2024 (meeting date at the start of the decision page); adoption date of the council decision; legal commencement not asserted",
+  "missing": [
+    "complete official decision text",
+    "official annexes"
+  ],
+  "law_text_complete": false,
+  "privacy_withheld": false,
+  "decision_page_sha256": "f2f44671d88a5b24b310e725de56f1f278e9e0bbc2e6d418b70d2fc490900c7b"
+}
