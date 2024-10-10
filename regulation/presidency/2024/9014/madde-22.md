@@ -1,0 +1,5 @@
+Tüketim suretiyle çıkış
+MADDE 22- (1) Tüketim malzemeleri, Taşınır İstek Belgesi karşılığında düzenlenecek Varlık İşlem Fişi ile çıkış kaydedilir. Ancak fiziki olarak ambara girişi olmadan doğrudan tüketimi yapılan taşınırların ilgilisine teslim edildiğine dair tutanak ve benzeri belge bulunması durumunda Varlık İşlem Fişi ile kayıtlardan çıkışında ayrıca Taşınır İstek Belgesi aranmaz. Satın alma ve iç imkânlarla üretim taleplerine ilişkin belgeler de dayanak belge olarak kabul edilir.
+(2) Kamu idarelerinin iç imkânlarıyla kendi kullanımları için üretecekleri dayanıklı taşınırların üretiminde kullanılan taşınırlar için de birinci fıkra hükmü uygulanır.
+(3) Varlık İşlem Fişi düzenlenmeden hiçbir şekilde tüketim malzemesi çıkışı yapılamaz.
+(4) Tüketim malzemelerinin son kullanım tarihlerinin yaklaşması, proje bazlı malzeme alımları, diğer birimlere teslim edilmek üzere merkezi satın alma birimlerince tüketim malzemesi temin edilmesi gibi zorunlu ve işin niteliğinden kaynaklanan hâller dışında tüketim malzemelerinin çıkış kayıtları, ambarlara girişlerindeki öncelik sırası dikkate alınarak “ilk giren-ilk çıkar” esasına göre ve giriş bedelleri üzerinden yapılır.

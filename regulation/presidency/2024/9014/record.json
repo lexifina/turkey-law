@@ -1,0 +1,26 @@
+{
+  "id": "presidency-regulation-9014",
+  "number": "9014",
+  "kind": "regulation",
+  "issuer": "presidency",
+  "title": "TAŞINIR MAL YÖNETMELİĞİ",
+  "published": "2024-10-10",
+  "enacted": "2024-10-09",
+  "gazette_number": "32688",
+  "in_force": "2024-10-10",
+  "in_force_basis": "Official commencement clause: \"Bu Yönetmelik yayımı tarihinde yürürlüğe girer.\"; Resmî Gazete 2024-10-10, no amendment annotation in this source text.",
+  "history": "current-only",
+  "version_label": "oldest version available",
+  "first_law": null,
+  "source": "https://www.mevzuat.gov.tr/anasayfa/MevzuatFihristDetayIframe?MevzuatNo=9014&MevzuatTur=21&MevzuatTertip=5",
+  "source_sha256": "ab328fa113cd2adfb4d1d933e1c1e5ae24d33c52eed3d81113f81a5ded7aa51d",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  },
+  "missing_components": [],
+  "text_layout": "article-files",
+  "source_links": [],
+  "completeness": "html-text-complete"
+}

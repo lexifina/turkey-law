@@ -1,0 +1,4 @@
+Kamu idarelerince yapılabilecek düzenlemeler ile defter, belge ve cetvellerin elektronik ortamda tutulması
+MADDE 11- (1) Taşınırların tüm giriş ve çıkış kayıtları ile bu Yönetmeliğin uygulanmasında kullanılacak defter, belge ve cetvellerin elektronik ortamda tutulması, düzenlenmesi ve arşivlenmesi esastır. Ancak mevzuat gereği başka bir işlemde kullanılmak, ihtiyaç hâlinde yetkili mercilere ibraz edilmek veya gönderilmek üzere döküm alınabilir.
+(2) Kamu idareleri, bu Yönetmelikte belirlenen usul ve esaslara bağlı kalmak ve Bakanlığın uygun görüşünü almak koşuluyla özel düzenleme yapabilir ve gereken hâllerde bu Yönetmelikte yer alan defter, belge ve cetveller yanında başka defter, belge ve cetveller de kullanabilirler.
+(3) Elektronik ortamda düzenlenen defter, belge ve cetvellerde gerekli görülmesi hâlinde ilave sütun ve satır açılabilir.

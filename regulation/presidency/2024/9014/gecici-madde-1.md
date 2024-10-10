@@ -1,0 +1,3 @@
+Taşınır bilişim sistemlerinde yapılacak işlemler ve geçiş dönemi
+GEÇİCİ MADDE 1- (1) Kamu idarelerinin kullandığı taşınır bilişim sistemlerinde, 31/12/2025 tarihine kadar bu Yönetmeliğin uygulanmasında kullanılacak olan fiş, belge, liste, alındı belgesi, tutanak ve cetveller, Bakanlık internet sitesinin ilgili bölümünde yayımlanan şekle uygun hâle getirilerek kullanılmaya başlanılır.
+(2) Kamu idarelerince, taşınır bilişim sistemlerinin bu Yönetmelikte belirlenen usul ve esaslara uygun hâle getirilinceye kadar 41 inci madde ile yürürlükten kaldırılan yönetmeliğin eki defter, belge ve cetvellerin kullanılmasına devam edilir.

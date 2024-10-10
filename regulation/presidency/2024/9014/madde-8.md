@@ -1,0 +1,4 @@
+Muhasebe yetkililerinin taşınır hesabına ilişkin görev ve sorumlulukları
+MADDE 8- (1) Taşınır işlemlerine ilişkin muhasebe kayıtları, Genel Yönetim Muhasebe Yönetmeliğine dayanılarak çıkarılmış ilgili muhasebe düzenlemeleri ve bu Yönetmelik hükümleri çerçevesinde muhasebe yetkilileri tarafından yapılır.
+(2) Muhasebe yetkilileri, harcama birimlerince hazırlanan Harcama Birimi Taşınır Mal Yönetim Hesabı Cetvelinde gösterilen tutarların muhasebe kayıtlarıyla uygunluğunu kontrol ederek onayladıktan sonra, harcama yetkilisine göndermekle görevli ve sorumludurlar.
+(3) Muhasebe yetkililerinin bu Yönetmelikteki görevleriyle ilgili sorumlulukları, taşınır işlemlerine ilişkin muhasebe kayıtlarının, dayanağı belgelere uygunluğu ile harcama birimlerince hazırlanan Harcama Birimi Taşınır Mal Yönetim Hesabı Cetvellerini inceleyip onaylayarak harcama yetkilisine vermekle sınırlıdır.

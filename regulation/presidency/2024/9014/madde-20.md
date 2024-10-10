@@ -1,0 +1,2 @@
+Tasfiye idaresinden edinilen taşınırların girişi
+MADDE 20- (1) 27/10/1999 tarihli ve 4458 sayılı Gümrük Kanununun 178 inci maddesi gereğince yürürlüğe konulan tasfiye işlemlerine ilişkin yönetmelik hükümleri çerçevesinde kamu idarelerince temin edilen taşınırlar için Varlık İşlem Fişi düzenlenir ve giriş kaydı yapılır. Varlık İşlem Fişinin bir nüshası, taşınırı teslim eden ilgili idare yetkilisine verilir.
