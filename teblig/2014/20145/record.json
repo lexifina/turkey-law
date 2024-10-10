@@ -1,0 +1,59 @@
+{
+  "source_id": "9.5.20145",
+  "kind": "communique",
+  "register_kind": "Tebliğler",
+  "title": "DENİZ ARAÇLARI ZORUNLU MALİ SORUMLULUK SİGORTASI TARİFE VE TALİMAT TEBLİĞİ",
+  "number": "20145",
+  "issuer": "Sigortacılık ve Özel Emeklilik Düzenleme ve Denetleme Kurumu Başkanı",
+  "path": "teblig/2014/20145",
+  "source": "https://www.mevzuat.gov.tr/anasayfa/MevzuatFihristDetayIframe?MevzuatTur=9&MevzuatNo=20145&MevzuatTertip=5",
+  "source_sha256": "7897b2bad2dfeba5bdd4bc31cce72a78f533aaa95b093547c7cfe70c22f63ba1",
+  "source_bytes": 30117,
+  "published": "2014-10-18",
+  "gazette": "29149",
+  "in_force": "2024-10-10",
+  "in_force_basis": "latest Resmî Gazete date printed in the source amendment notes/table (\"RG-10/10/2024\") for the current consolidated text",
+  "date_evidence": [
+    [
+      "2024-10-10",
+      "RG-10/10/2024",
+      "Resmî Gazete date printed in the source amendment note"
+    ],
+    [
+      "2024-10-10",
+      "10/10/2024",
+      "Resmî Gazete date in the source amendment table"
+    ],
+    [
+      "2022-03-16",
+      "RG-16/3/2022",
+      "Resmî Gazete date printed in the source amendment note"
+    ],
+    [
+      "2022-03-16",
+      "16/3/2022",
+      "Resmî Gazete date in the source amendment table"
+    ],
+    [
+      "2015-04-22",
+      "RG-22/4/2015",
+      "Resmî Gazete date printed in the source amendment note"
+    ],
+    [
+      "2015-04-22",
+      "22/4/2015",
+      "Resmî Gazete date in the source amendment table"
+    ]
+  ],
+  "history": "current-text",
+  "label": "oldest version available",
+  "checked_on": "2026-11-15",
+  "word_count": 731,
+  "text_status": "current-consolidated",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  },
+  "completeness": "html-text-complete"
+}
