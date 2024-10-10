@@ -1,0 +1,19 @@
+{
+  "checked_on": "2026-11-15",
+  "images": {
+    "omitted": 0,
+    "referenced": 0,
+    "source": 0
+  },
+  "in_force_basis": "Official GIB ozelgeTarih: 2024-10-10T00:00:00; record issue date, no separate commencement rule stated.",
+  "kind": "private-ruling",
+  "official_date": "2024-10-10",
+  "official_number": "93767041-120[931 084 0822]-186441",
+  "personal_data_screen": "no national-identifier marker found by automated screen",
+  "source": "https://gib.gov.tr/mevzuat/kanun/433/ozelge/22400",
+  "source_id": "ozelge:22400",
+  "source_row_sha256": "b5da01361bd2cac0d2f9374cad35ee229e87ed0049130402834f534da3040886",
+  "title": "Süresi içeresinde ödenmeyen SGK primlerinin taksitlendirilerek ödenmesi durumunda işi terk tarihinden sonra ödenen primlerin gider olarak indirimi",
+  "version_label": "as-enacted",
+  "word_count": 845
+}
