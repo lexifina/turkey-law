@@ -1,0 +1,3 @@
+Alıcı bankaca yapılacak işlemler
+MADDE 13 – (1) (Değişik:RG-10/10/2024-32688) Alıcı banka, Bankadan gelen fon aktarımını, aktarımdaki alıcıya ait kimlik numarası, VKN, hesap numarası, IBAN bilgilerini kendi kayıtlarında yer alan bilgilerle kontrol ederek birebir tutması halinde kabul eder, kabul edilmeyenleri aynı gün içerisinde iade eder.
+(2) Banka dışındaki diğer alıcı bankalar, kendi kayıtlarında yer alan bilgilerle tutmayan fon aktarımını, saat 13:30’a kadar gelen aktarımlarda aynı gün, bu saatten sonra gelen aktarımlarda bir sonraki iş günü, “İADE” mesajı ile Bankaya iade eder. Banka, alıcı banka sıfatıyla kendi kayıtlarında yer alan bilgilerle tutmayan fon aktarımını aynı gün ilgili hata kodu ile akıbet bilgilerinde gösterir.

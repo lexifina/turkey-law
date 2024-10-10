@@ -1,0 +1,2 @@
+Uygulama kılavuzları
+MADDE 20 – (1) Bu Usul ve Esaslarda belirtilen işlemlere ve teknik aksaklıklar, veri hatlarındaki arızalar ile doğal afet, harp, seferberlik, yangın, grev ve lokavt gibi olağanüstü durumlarda ne yapılacağına ilişkin ayrıntılı hususlar ilgisine göre (Mülga ibare:RG-10/10/2024-32688) Başkanlık ve Bankanın uygun görüşleri de alınarak Bakanlıkça çıkarılacak Uygulama Kılavuzlarında belirtilir.

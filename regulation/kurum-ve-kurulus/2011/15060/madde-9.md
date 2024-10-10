@@ -1,0 +1,4 @@
+Nakit talep ve tahsisleri hesabı
+MADDE 9 – (1) Muhasebe birimlerince yapılacak ödemelere ilişkin nakit ihtiyacının belirlenebilmesi ve (Değişik ibare:RG-10/10/2024-32688) Bakanlıkça karşılanabilmesi amacıyla, Genel Yönetim Muhasebe Yönetmeliği ile Merkezi Yönetim Muhasebe Yönetmeliğinde Bakanlığa verilen yetki çerçevesinde açılan 325- Nakit Talep ve Tahsisleri Hesabı kullanılır.
+(2) İlgili mevzuatı uyarınca belirli bir sürede veya günde ödenmesi zorunlu olan vadeye bağlı ödemeler, cari veya sermaye nitelikli mal ve hizmet alımlarının finansmanı amacıyla karşılıksız olarak yapılan transfer ödemeleri ile bunlar dışında kalan diğer ödemeler için bu hesabın ilgili yardımcı hesap kodları kullanılır.
+(3) (Değişik:RG-10/10/2024-32688) Yapılacak ödemelerin yardımcı hesap kodları ile ilişkilendirilmesi Bakanlıkça yapılır ve BKMYBS’de tanımlanır.

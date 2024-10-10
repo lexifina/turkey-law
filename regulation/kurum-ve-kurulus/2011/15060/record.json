@@ -1,0 +1,39 @@
+{
+  "source_id": "7.5.15060",
+  "kind": "regulation",
+  "register_kind": "Kurum ve Kuruluş Yönetmelikleri",
+  "title": "GENEL BÜTÇE KAPSAMINDAKİ KAMU İDARELERİNİN ÖDEME VE TAHSİLAT İŞLEMLERİNİN ELEKTRONİK ORTAMDA GERÇEKLEŞTİRİLMESİNE İLİŞKİN USUL VE ESASLAR",
+  "number": "15060",
+  "issuer_slug": "kurum-ve-kurulus",
+  "path": "regulation/kurum-ve-kurulus/2011/15060",
+  "source": "https://www.mevzuat.gov.tr/anasayfa/MevzuatFihristDetayIframe?MevzuatTur=7&MevzuatNo=15060&MevzuatTertip=5",
+  "source_sha256": "db4870cfbf350c17c8408255b99f45d7498b5e4e803a000f236b4edb863229a2",
+  "source_bytes": 53096,
+  "published": "2011-06-18",
+  "gazette": "27968",
+  "in_force": "2024-10-10",
+  "in_force_basis": "latest Resmî Gazete date printed in the source amendment notes/table (\"RG-10/10/2024\") for the current consolidated text",
+  "date_evidence": [
+    [
+      "2024-10-10",
+      "RG-10/10/2024",
+      "Resmî Gazete date printed in the source amendment note"
+    ],
+    [
+      "2016-02-19",
+      "RG-19/2/2016",
+      "Resmî Gazete date printed in the source amendment note"
+    ]
+  ],
+  "history": "current-text",
+  "label": "oldest version available",
+  "checked_on": "2026-11-15",
+  "word_count": 2498,
+  "text_status": "current-consolidated",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  },
+  "completeness": "html-text-complete"
+}
