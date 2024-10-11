@@ -1,0 +1,6 @@
+Muayene ve refakat esasları
+MADDE 9- (1) Kırmızı ve sarı alanda hasta refakatçisi kabulü yapılmaması esastır ancak istisnai durumlarda tabip onayı ile refakatçı kabul edilir.
+(2) Hasta yakını, hastanın açık onayı halinde anamnez alımı gibi işlemlere refakat edebilir.
+(3) Acil servislerde hasta yakınlarına numune örnekleri veya benzeri taşıma işlemi yaptırılmaz. Hastaların görüntüleme ve benzeri işlemler için yönlendirme personeli tarafından bilgi verilmesi sağlanır, yönlendirme işaret ve uyarıları kullanılır. İhtiyacı olan hastaların nakil işlemleri taşıma personeli tarafından gerçekleştirilir. Tabibin lüzum görmesi halinde hastalara bu işlemleri sırasında bir sağlık personelinin refakat etmesi sağlanır.
+(4) Hasta veya öncelikle velisi ya da vasisi, yoksa birinci derece yakınına veya yakınlarından birine hastanın tıbbi durumu ve yapılacak tıbbi uygulamalar konusunda ilgili tabip veya personel tarafından mahremiyet gözetilerek bilgilendirme yapılır. Acil servislerde yapılan her türlü tıbbi işlem sırasında hasta mahremiyetine, tıbbi etik kurallara ve hasta hakları ilkelerine riayet edilmesi zorunludur.
+(5) İhtiyaç duyulan durumlarda hasta ve yakınları ile yapılacak görüşmelere eşlik etmesi amacıyla sosyal hizmet uzmanı ve psikolog çağrılır veya görevlendirilir.

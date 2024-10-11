@@ -1,0 +1,2 @@
+Dayanak
+MADDE 3- (1) Bu Tebliğ, 7/5/1987 tarihli ve 3359 sayılı Sağlık Hizmetleri Temel Kanununun 3 üncü maddesine, 1 sayılı Cumhurbaşkanlığı Teşkilatı Hakkında Cumhurbaşkanlığı Kararnamesinin 355 inci maddesinin birinci fıkrasının (a) ve (e) bentleri ile 508 inci maddesine, 10/9/1982 tarihli ve 8/5319 sayılı Bakanlar Kurulu Kararı ile yürürlüğe konulan Yataklı Tedavi Kurumları İşletme Yönetmeliğine ve 11/5/2000 tarihli ve 24046 sayılı Resmî Gazete’de yayımlanan Acil Sağlık Hizmetleri Yönetmeliğinin 15 inci maddesine dayanılarak hazırlanmıştır.

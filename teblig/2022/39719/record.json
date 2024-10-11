@@ -1,0 +1,50 @@
+{
+  "annexes": {
+    "links": [
+      {
+        "caption": "Ekleri için tıklayınız.",
+        "official_href": "9.5.39719-ek.xlsx",
+        "status": "pending"
+      }
+    ],
+    "official_html": "https://www.mevzuat.gov.tr/anasayfa/MevzuatFihristDetayIframe?MevzuatTur=9&MevzuatNo=39719&MevzuatTertip=5",
+    "status": "pending"
+  },
+  "checked_on": "2026-11-15",
+  "commencement_quote": "Bu Tebliğ yayımı tarihinde yürürlüğe girer",
+  "date_gazette": "32689",
+  "date_quote": "RG-11/10/2024-32689",
+  "first_law": null,
+  "gazette": "31952",
+  "history": "current-text",
+  "images": {
+    "deferred": 0,
+    "omitted": 0,
+    "referenced": 0,
+    "source": 0
+  },
+  "in_force": "2024-10-11",
+  "in_force_basis": "Latest source-printed RG amendment date for current text: RG-11/10/2024-32689; own commencement clause: Bu Tebliğ yayımı tarihinde yürürlüğe girer",
+  "issuer": "Sağlık Bakanlığı",
+  "issuer_catalog_evidence": [
+    {
+      "evidence": "issuer-87-0.json",
+      "id": "87",
+      "label": "Sağlık Bakanlığı",
+      "listing_url": "https://www.mevzuat.gov.tr/Anasayfa/MevzuatDatatable?MevzuatTur=Teblig&KurumId=87&start=0&length=100"
+    }
+  ],
+  "issuer_slug": "saglik-bakanligi",
+  "kind": "communique",
+  "label": "oldest version available",
+  "notes": [
+    "Linked official annexes are not included in this version; original official links and captions are recorded in annexes."
+  ],
+  "published": "2022-09-13",
+  "source": "https://www.mevzuat.gov.tr/anasayfa/MevzuatFihristDetayIframe?MevzuatTur=9&MevzuatNo=39719&MevzuatTertip=5",
+  "source_bytes": 163868,
+  "source_id": "9.5.39719",
+  "source_sha256": "42966bf7dcec3d783467d387d671339c80c04c03d20df7edb19b0699e287285e",
+  "title": "YATAKLI SAĞLIK TESİSLERİNDE ACİL SERVİS HİZMETLERİNİN UYGULAMA USUL VE ESASLARI HAKKINDA TEBLİĞ",
+  "word_count": 7194
+}
