@@ -1,0 +1,21 @@
+{
+  "record_type": "parliament-written-question",
+  "term": 28,
+  "legislative_year": 3,
+  "esas_no": "7/18224",
+  "submitted": "2024-10-11",
+  "submitted_as": "Başkanlığa geliş tarihi",
+  "mp": "Cevdet AKAY",
+  "province": "Karabük",
+  "summary": "TBMM Başkanlığına sunulan kanun teklifleri ile yazılı soru önergelerine ilişkin",
+  "status": "Cevaplandı",
+  "status_as_of": "2026-11-16",
+  "official_record": "https://www.tbmm.gov.tr/Denetim/Yazili-Soru-Onergesi-Detay/7ee0a951-92d5-4d28-9d74-0192943f5e02",
+  "source": "https://tbmm.gov.tr/Denetim/YaziliSoruOnergesiTable",
+  "source_form": "https://tbmm.gov.tr/Denetim/Yazili-Soru-Onergeleri",
+  "source_sha256": "c83d15f3a907f6a854eb18aa207fbf2afd751779c707caf8c388fab730174c64",
+  "in_force": "2024-10-11",
+  "in_force_basis": "Date the question reached the Speaker (Başkanlığa geliş tarihi) in the official TBMM written-question record; parliamentary oversight record, not law",
+  "history_type": "metadata",
+  "text_status": "metadata-only: question text, addressee and answers are in the linked official record (PDFs on cdn.tbmm.gov.tr); not transcribed here"
+}
