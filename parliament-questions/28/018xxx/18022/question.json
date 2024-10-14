@@ -1,0 +1,21 @@
+{
+  "record_type": "parliament-written-question",
+  "term": 28,
+  "legislative_year": 3,
+  "esas_no": "7/18022",
+  "submitted": "2024-10-14",
+  "submitted_as": "Başkanlığa geliş tarihi",
+  "mp": "Rıdvan UZ",
+  "province": "Çanakkale",
+  "summary": "Çanakkale'de ikamet eden geçici koruma statüsünde bulunan Suriyeli sayısına ilişkin",
+  "status": "Süresi Geçtikten Sonra Cevaplandı",
+  "status_as_of": "2026-11-16",
+  "official_record": "https://www.tbmm.gov.tr/Denetim/Yazili-Soru-Onergesi-Detay/a2504d13-a9d5-40b2-a9f6-01928efa684f",
+  "source": "https://tbmm.gov.tr/Denetim/YaziliSoruOnergesiTable",
+  "source_form": "https://tbmm.gov.tr/Denetim/Yazili-Soru-Onergeleri",
+  "source_sha256": "706cbfcf754c5a233d6ed5e8b8f85ed8e71891c935db9006feda511e83f8c12a",
+  "in_force": "2024-10-14",
+  "in_force_basis": "Date the question reached the Speaker (Başkanlığa geliş tarihi) in the official TBMM written-question record; parliamentary oversight record, not law",
+  "history_type": "metadata",
+  "text_status": "metadata-only: question text, addressee and answers are in the linked official record (PDFs on cdn.tbmm.gov.tr); not transcribed here"
+}
