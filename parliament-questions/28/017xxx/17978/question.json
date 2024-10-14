@@ -1,0 +1,21 @@
+{
+  "record_type": "parliament-written-question",
+  "term": 28,
+  "legislative_year": 3,
+  "esas_no": "7/17978",
+  "submitted": "2024-10-14",
+  "submitted_as": "Başkanlığa geliş tarihi",
+  "mp": "Zülküf UÇAR",
+  "province": "Van",
+  "summary": "Sayıştayın 2023 yılı Denetim Raporu'nda Ceza İnfaz Kurumları ile Tutukevleri İşyurtları Kurumu ile ilgili yaptığı bazı tespitlere ilişkin",
+  "status": "Süresi Geçtikten Sonra Cevaplandı",
+  "status_as_of": "2026-11-16",
+  "official_record": "https://www.tbmm.gov.tr/Denetim/Yazili-Soru-Onergesi-Detay/66053479-3552-4d11-a11e-0192901f7ddd",
+  "source": "https://tbmm.gov.tr/Denetim/YaziliSoruOnergesiTable",
+  "source_form": "https://tbmm.gov.tr/Denetim/Yazili-Soru-Onergeleri",
+  "source_sha256": "4c88fe7d93289e62c3d18976082ff7adc301c29b612277ecb780bd88146d80e2",
+  "in_force": "2024-10-14",
+  "in_force_basis": "Date the question reached the Speaker (Başkanlığa geliş tarihi) in the official TBMM written-question record; parliamentary oversight record, not law",
+  "history_type": "metadata",
+  "text_status": "metadata-only: question text, addressee and answers are in the linked official record (PDFs on cdn.tbmm.gov.tr); not transcribed here"
+}
