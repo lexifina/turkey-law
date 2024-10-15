@@ -1,0 +1,21 @@
+{
+  "record_type": "parliament-written-question",
+  "term": 28,
+  "legislative_year": 3,
+  "esas_no": "7/18485",
+  "submitted": "2024-10-15",
+  "submitted_as": "Başkanlığa geliş tarihi",
+  "mp": "Hasan ÖZTÜRKMEN",
+  "province": "Gaziantep",
+  "summary": "Bazı kamu kurumlarının bir İsrail firmasından dijital güvenlik hizmeti aldığı iddiasına ilişkin",
+  "status": "Cevaplandı",
+  "status_as_of": "2026-11-16",
+  "official_record": "https://www.tbmm.gov.tr/Denetim/Yazili-Soru-Onergesi-Detay/86971089-c9e2-4da0-86fc-0192950781a8",
+  "source": "https://tbmm.gov.tr/Denetim/YaziliSoruOnergesiTable",
+  "source_form": "https://tbmm.gov.tr/Denetim/Yazili-Soru-Onergeleri",
+  "source_sha256": "1a16d98d5109219e8de32af13625e467d2763a821703ab291c4cf6339d6dc340",
+  "in_force": "2024-10-15",
+  "in_force_basis": "Date the question reached the Speaker (Başkanlığa geliş tarihi) in the official TBMM written-question record; parliamentary oversight record, not law",
+  "history_type": "metadata",
+  "text_status": "metadata-only: question text, addressee and answers are in the linked official record (PDFs on cdn.tbmm.gov.tr); not transcribed here"
+}
