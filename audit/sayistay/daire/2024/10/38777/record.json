@@ -1,0 +1,17 @@
+{
+  "kind": "decision",
+  "issuer": "Sayıştay 3. Dairesi",
+  "number": "499",
+  "decision_date": "2024-10-15",
+  "source_id": 38777,
+  "chamber": "3",
+  "ilam_number": "394",
+  "item_number": 1,
+  "public_body_type": "Diğer Özel Bütçeli İdareler",
+  "account_year": 2017,
+  "subject": "Personel Mevzuatı ile İlgili Kararlar",
+  "source": "https://www.sayistay.gov.tr/KararlarDaire/Detay/38777/",
+  "source_sha256": "bab4b63948fe0524c3f509c98b3e1b4a2803f7a4deeae981e185af4ec7fd9fb5",
+  "text_status": "metadata-only",
+  "metadata_only_reason": "possible personal name in the official text"
+}
