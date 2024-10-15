@@ -1,0 +1,17 @@
+{
+  "kind": "decision",
+  "issuer": "Sayıştay 3. Dairesi",
+  "number": "500",
+  "decision_date": "2024-10-15",
+  "source_id": 38755,
+  "chamber": "3",
+  "ilam_number": "162",
+  "item_number": 1,
+  "public_body_type": "Yüksek Öğretim Kurumları",
+  "account_year": 2020,
+  "subject": "İhale Mevzuatı ile İlgili Kararlar",
+  "source": "https://www.sayistay.gov.tr/KararlarDaire/Detay/38755/",
+  "source_sha256": "7ebb9e218614cf5f26ade941986f49b17654b254eda0d29dc708ba32957d149c",
+  "text_status": "as-enacted",
+  "text_file": "metin.md"
+}
