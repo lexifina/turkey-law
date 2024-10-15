@@ -1,0 +1,10 @@
+Ödenecek Ücret
+Madde 7 — (Değişik:RG-8/10/2022-31977) Adli yardımla görevlendirilen avukata, görevlendirmeye konu iş için asgari ücret tarifesinde gösterilen maktu ücret baro yönetim kurulu kararı ile peşin ödenir.
+(Ek:RG-15/10/2024-32693)(3) Ödeme yapılması için gerekli belgeler; vekaletname örneği, dava dilekçesi, tevzi formu, ön inceleme tutanağı, tensip tutanağı, duruşma tutanağı, takip talebi ve ödeme emri, sunulan dilekçe ya da talep örneği, karar, harç makbuzu olup, ödeme esnasında hangilerinin talep edileceği görevlendirmenin yapıldığı aşama da dikkate alınarak görevlendirmenin konusuna ve mahiyetine göre baro yönetim kurulu tarafından belirlenir.
+(Ek:RG-7/11/2020-31297)(2) (Mülga:RG-8/10/2022-31977)
+(Ek:RG-7/11/2020-31297)(2) Aynı işe birden fazla avukat görevlendirilemez. Ancak görevden çekilen avukatın yerine görevlendirilen yeni avukata ayrıca ücret ödenir.
+(Mülga fıkra:RG-28/12/2011-28156)
+(Değişik fıkra:RG-14/4/2017-30038) Yargıtayda, Bölge Adliye Mahkemelerinde veya Bölge İdare Mahkemelerinde görülecek duruşmalı işlerde ayrıca, Ankara'ya veya Bölge Mahkemesinin bulunduğu ile gidiş-geliş ücreti ödenir. Adli yardımdan yararlananın veya vekilinin talebi halinde Ankara veya Bölge Mahkemesinin bulunduğu il barosundan görevlendirilecek avukat aracılığı ile duruşma takip edilebilir. Ödenecek yol ücreti, 400 kilometreden daha yakın (400 kilometre dâhil) mesafeler için otobüs veya birinci sınıf tren bileti; 400 kilometreden daha uzun mesafeler için ekonomi sınıfı uçak, otobüs veya birinci sınıf tren bileti ile kullanılan ulaşım aracının kalkış ve varış istasyonları ile ev, işyeri veya hizmetin verileceği kurum arasındaki transfer için yapılan mutat giderlerini kapsar. Avukatın özel aracı ile seyahat etmesi gibi durumlarda ödenecek ücret mutat ulaşım araçlarına göre belirlenir.
+Tüm masraflar belgeye dayandırılır. Belgesiz ödeme yapılamaz.
+(Mülga fıkra:RG-20/10/2007-26676)
+(Değişik:RG-8/10/2022-31977) Adli yardım görevini haklı nedenler dışında tamamlamayan avukat, aldığı ücretin iki katını baroya ödemekle yükümlüdür.
