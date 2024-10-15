@@ -1,0 +1,15 @@
+{
+  "kind": "decision",
+  "issuer": "Sayıştay 3. Dairesi",
+  "number": "498",
+  "decision_date": "2024-10-15",
+  "source_id": 38776,
+  "chamber": "3",
+  "ilam_number": "3",
+  "item_number": 2,
+  "account_year": 2023,
+  "source": "https://www.sayistay.gov.tr/KararlarDaire/Detay/38776/",
+  "source_sha256": "a38442d3778c213ded11c1d2b7157fa89d685e839e9196aa38962516f1993693",
+  "text_status": "metadata-only",
+  "metadata_only_reason": "possible personal name in the official text"
+}
