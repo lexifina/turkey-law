@@ -1,0 +1,21 @@
+{
+  "record_type": "parliament-written-question",
+  "term": 28,
+  "legislative_year": 3,
+  "esas_no": "7/18196",
+  "submitted": "2024-10-15",
+  "submitted_as": "Başkanlığa geliş tarihi",
+  "mp": "Özgül SAKİ",
+  "province": "İstanbul",
+  "summary": "Sayıştayın 2023 yılı Denetim Raporu'nda Orta Doğu Teknik Üniversitesi ile ilgili yaptığı bazı tespitlere ilişkin",
+  "status": "Süresi Geçtikten Sonra Cevaplandı",
+  "status_as_of": "2026-11-16",
+  "official_record": "https://www.tbmm.gov.tr/Denetim/Yazili-Soru-Onergesi-Detay/02573536-a473-4466-9387-019295218aaf",
+  "source": "https://tbmm.gov.tr/Denetim/YaziliSoruOnergesiTable",
+  "source_form": "https://tbmm.gov.tr/Denetim/Yazili-Soru-Onergeleri",
+  "source_sha256": "c1759b8df6544ae72671dd6562c7c8a2009faf618f9c1bdbf48cc1728135b862",
+  "in_force": "2024-10-15",
+  "in_force_basis": "Date the question reached the Speaker (Başkanlığa geliş tarihi) in the official TBMM written-question record; parliamentary oversight record, not law",
+  "history_type": "metadata",
+  "text_status": "metadata-only: question text, addressee and answers are in the linked official record (PDFs on cdn.tbmm.gov.tr); not transcribed here"
+}
