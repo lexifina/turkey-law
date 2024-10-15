@@ -1,0 +1,17 @@
+{
+  "kind": "decision",
+  "issuer": "Sayıştay 8. Dairesi",
+  "number": "323",
+  "decision_date": "2024-10-15",
+  "source_id": 38763,
+  "chamber": "8",
+  "ilam_number": "2",
+  "item_number": 2,
+  "public_body_type": "Yüksek Öğretim Kurumları",
+  "account_year": 2023,
+  "subject": "İhale Mevzuatı ile İlgili Kararlar",
+  "source": "https://www.sayistay.gov.tr/KararlarDaire/Detay/38763/",
+  "source_sha256": "af87aaa5011bfd077126cc84986739bdc655dc9c2687e7a88d482a6ad223b1d1",
+  "text_status": "as-enacted",
+  "text_file": "metin.md"
+}
