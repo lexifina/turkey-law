@@ -1,0 +1,31 @@
+{
+  "source_id": "7.5.41038",
+  "kind": "regulation",
+  "register_kind": "Kurum ve Kuruluş Yönetmelikleri",
+  "title": "FLORLU SERA GAZLARINA İLİŞKİN YÖNETMELİK",
+  "number": "41038",
+  "issuer": "Çevre, Şehircilik ve İklim Değişikliği Bakanı",
+  "issuer_slug": "cevre-sehircilik-ve-iklim-degisikligi-bakani",
+  "path": "regulation/cevre-sehircilik-ve-iklim-degisikligi-bakani/2024/41038",
+  "source": "https://www.mevzuat.gov.tr/anasayfa/MevzuatFihristDetayIframe?MevzuatTur=7&MevzuatNo=41038&MevzuatTertip=5",
+  "source_sha256": "8dcda1c5ef4436fc069daf1982c721abc001cdbce4bce416530c2f16db84927f",
+  "source_bytes": 86632,
+  "published": "2024-10-15",
+  "gazette": "32693",
+  "in_force": "2024-10-15",
+  "in_force_basis": "Resmî Gazete publication date in the official listing (15.10.2024)",
+  "history": "current-text",
+  "label": "oldest version available",
+  "checked_on": "2026-11-15",
+  "word_count": 5389,
+  "text_status": "current-consolidated",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  },
+  "source_links": [
+    "7.5.41038-Ek.doc"
+  ],
+  "completeness": "html-text-complete; linked annexes not fetched"
+}

@@ -1,0 +1,2 @@
+Mevcut tesisler
+GEÇİCİ MADDE 1- (1) “14 06 01* Kloroflorokarbonlar, HCFC, HFC” atık koduna sahip “tehlikeli atık geri kazanım” konulu geçici faaliyet belgesi veya çevre izin ve lisans belgesine sahip olan mevcut tesisler, florlu sera gazı ıslah tesislerinin fiziksel ve işletme şartları yayınlandıktan sonra 6 ay içerisinde ıslah tesisi şartlarını yerine getirerek çevre lisansı almak için Bakanlığa başvuruda bulunmakla yükümlüdürler.
