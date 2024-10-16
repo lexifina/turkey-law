@@ -1,0 +1,41 @@
+{
+  "source_id": "7.5.39116",
+  "kind": "regulation",
+  "register_kind": "Kurum ve Kuruluş Yönetmelikleri",
+  "title": "ÇEVRE, ŞEHİRCİLİK VE İKLİM DEĞİŞİKLİĞİ BAKANLIĞI DİSİPLİN AMİRLERİ YÖNETMELİĞİ",
+  "number": "39116",
+  "issuer": "Çevre, Şehircilik ve İklim Değişikliği Bakanı",
+  "issuer_slug": "cevre-sehircilik-ve-iklim-degisikligi-bakani",
+  "path": "regulation/cevre-sehircilik-ve-iklim-degisikligi-bakani/2021/39116",
+  "source": "https://www.mevzuat.gov.tr/anasayfa/MevzuatFihristDetayIframe?MevzuatTur=7&MevzuatNo=39116&MevzuatTertip=5",
+  "source_sha256": "20fbceaa6f6d15d6246d06ca6010215fd12b5d60178fc6a41d7d2de23cad3560",
+  "source_bytes": 17740,
+  "published": "2021-12-18",
+  "gazette": "31693",
+  "in_force": "2024-10-16",
+  "in_force_basis": "latest Resmî Gazete date printed in the source amendment notes/table (\"16/10/2024\") for the current consolidated text",
+  "date_evidence": [
+    [
+      "2024-10-16",
+      "16/10/2024",
+      "Resmî Gazete date in the source amendment table"
+    ]
+  ],
+  "commencement_clauses": [
+    "Bu Yönetmelik yayımı tarihinde yürürlüğe girer"
+  ],
+  "history": "current-text",
+  "label": "oldest version available",
+  "checked_on": "2026-11-15",
+  "word_count": 230,
+  "text_status": "current-consolidated",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  },
+  "source_links": [
+    "7.5.39116-EK.doc"
+  ],
+  "completeness": "html-text-complete; linked annexes not fetched"
+}
