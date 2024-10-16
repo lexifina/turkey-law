@@ -1,0 +1,12 @@
+BEŞİNCİ BÖLÜM
+Derslere Devam ve Sınavlar
+Derslere devam
+MADDE 19 – (1) Öğrencilerin derslere devam zorunluluğu, her yarıyıl için en az %70, tamamen uygulamalı ders saatinden oluşan derslerde en az %80 olmak zorundadır.
+(2) Sağlık raporu derslere devam yükümlülüğünü kaldırmaz. Öğrenciler, ilgili kurullarca kabul edilen sağlık raporlarının kapsadığı süreler içinde de devamsız sayılırlar ve bu süre içinde hiçbir derse ve sınavlara giremezler.
+(3) Öğrenci, süresi içinde ve usulüne uygun olarak kaydolmadığı derslere devam edemez ve bu derslerin sınavlarına giremez.
+(4) Öğrencilerin derse devam durumları dersi veren öğretim elemanı tarafından izlenir. Öğrencilerin dönem içi değerlendirmeleri seminer, uygulama, klinik uygulama, klinik çalışması, atölye çalışması, laboratuvar çalışması ve inceleme, araştırma gezisi, ödev, bireysel çalışma, meslekî beceri uygulamaları, probleme dayalı öğretim, kanıta dayalı uygulamalar, iletişim becerileri, sınava hazırlanma, alan çalışması, kütüphane çalışmaları, mezuniyet/bitirme tezi, proje ve dönem sonundaki durumları, ilgili öğretim elemanı tarafından söz konusu yarıyıl/yıl derslerinin son haftasında ilan edilir. Derse devam zorunluluğunu yerine getirmeyen öğrenciler, yıl/yarıyıl sonu sınavına giremezler.
+(5) Üniversite tarafından bilim, kültür ve spor faaliyetlerine katılmak üzere görevlendirilen öğrencilerin görevlendirildikleri süreler ile ilgili yönetim kurulunca kabul edilen eğitim-öğretimi ilgilendiren kurum dışı temsil süreleri, devam şartı dışında tutulur.
+(6) 21/5/1986 tarihli ve 3289 sayılı Gençlik ve Spor Hizmetleri Kanununun 29 uncu maddesi uyarınca Türkiye’yi uluslararası seviyede yurt içi ve yurt dışında temsil eden öğrenciler için derslere devam koşulu aranmaz. Bu durumdaki öğrencilerin ara sınav ve/veya yarıyıl/yılsonu sınav hakları saklıdır.
+(7) Öğrencilerin daha önce devam koşulunu yerine getirdikleri ve tekrar aldıkları dersin sınavlarına katılmaları gerekir. Bu dersler için devam zorunluluğu aranmaz. Sadece uygulamadan oluşan derslerden devam koşulunu sağladıkları halde başarısız olan öğrenciler, uygulamalara ve sınavlarına katılmak zorundadır.
+(8) Teori ve uygulamadan oluşan derslerde devam koşulunu sağladıkları halde yapılan uygulama sınavında başarısız olan öğrenciler, bu derse yeniden kayıt yaptırdıklarında derse ve uygulamalara devam etmek, verilecek ödev ve projeleri hazırlamak ve ara sınavlara katılmak zorundadırlar.
+(9) Öğrencilerin devam durumları, dersi veren öğretim elemanı tarafından öğrenciden alınan imza ile takip edilir.

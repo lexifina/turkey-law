@@ -1,0 +1,3 @@
+Ağırlıklı Genel Not Ortalaması
+MADDE 22 – (1) Öğrencilerin başarı durumu her yarıyıl/yıl sonunda Öğrenci İşleri Dairesi Başkanlığı tarafından, Ağırlıklı Genel Not Ortalamaları hesaplanarak belirlenir. Öğrencinin bir dersten elde ettiği ağırlıklı puan, o dersin AKTS değeri ile aldığı harf notu katsayısının çarpımından elde edilir.
+(2) Ağırlıklı genel not ortalaması, öğrencinin öğrenimi süresince bütün derslerdeki son notları esas alınarak hesaplanan ağırlıklı puanlarının toplamının, alınan derslerin AKTS toplamına bölünmesi ile bulunur. Elde edilen ağırlıklı genel not ortalaması, virgülden sonra iki hane olmak üzere gösterilir.
