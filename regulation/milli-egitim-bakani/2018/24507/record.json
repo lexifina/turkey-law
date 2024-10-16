@@ -1,0 +1,86 @@
+{
+  "source_id": "7.5.24507",
+  "kind": "regulation",
+  "register_kind": "Kurum ve Kuruluş Yönetmelikleri",
+  "title": "MİLLÎ EĞİTİM BAKANLIĞI HAYAT BOYU ÖĞRENME KURUMLARI YÖNETMELİĞİ",
+  "number": "24507",
+  "issuer": "Millî Eğitim Bakanı",
+  "issuer_slug": "milli-egitim-bakani",
+  "path": "regulation/milli-egitim-bakani/2018/24507",
+  "source": "https://www.mevzuat.gov.tr/anasayfa/MevzuatFihristDetayIframe?MevzuatTur=7&MevzuatNo=24507&MevzuatTertip=5",
+  "source_sha256": "29e3850ecc3efc7557505fac2f05753f856d6fd348666fe08d6508dce9ccf514",
+  "source_bytes": 275818,
+  "published": "2018-04-11",
+  "gazette": "30388",
+  "in_force": "2024-10-16",
+  "in_force_basis": "latest Resmî Gazete date printed in the source amendment notes/table (\"RG-16/10/2024\") for the current consolidated text",
+  "date_evidence": [
+    [
+      "2024-10-16",
+      "RG-16/10/2024",
+      "Resmî Gazete date printed in the source amendment note"
+    ],
+    [
+      "2024-10-16",
+      "16/10/2024",
+      "Resmî Gazete date in the source amendment table"
+    ],
+    [
+      "2021-10-15",
+      "RG-15/10/2021",
+      "Resmî Gazete date printed in the source amendment note"
+    ],
+    [
+      "2021-10-15",
+      "15/10/2021",
+      "Resmî Gazete date in the source amendment table"
+    ],
+    [
+      "2021-08-03",
+      "RG-3/8/2021",
+      "Resmî Gazete date printed in the source amendment note"
+    ],
+    [
+      "2021-08-03",
+      "3/8/2021",
+      "Resmî Gazete date in the source amendment table"
+    ],
+    [
+      "2021-06-12",
+      "RG-12/6/2021",
+      "Resmî Gazete date printed in the source amendment note"
+    ],
+    [
+      "2021-06-12",
+      "12/6/2021",
+      "Resmî Gazete date in the source amendment table"
+    ],
+    [
+      "2020-05-28",
+      "RG-28/5/2020",
+      "Resmî Gazete date printed in the source amendment note"
+    ],
+    [
+      "2020-05-28",
+      "28/5/2020",
+      "Resmî Gazete date in the source amendment table"
+    ]
+  ],
+  "commencement_clauses": [
+    "Bu Yönetmelik yayımı tarihinde yürürlüğe girer"
+  ],
+  "history": "current-text",
+  "label": "oldest version available",
+  "checked_on": "2026-11-15",
+  "word_count": 15116,
+  "text_status": "current-consolidated",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  },
+  "source_links": [
+    "7.5.24507-Ek.zip"
+  ],
+  "completeness": "html-text-complete; linked annexes not fetched"
+}
