@@ -1,0 +1,21 @@
+{
+  "record_type": "parliament-written-question",
+  "term": 28,
+  "legislative_year": 3,
+  "esas_no": "7/18327",
+  "submitted": "2024-10-16",
+  "submitted_as": "Başkanlığa geliş tarihi",
+  "mp": "İsa Mesih ŞAHİN",
+  "province": "İstanbul",
+  "summary": "E- Nabız sistemi ile ilgili yaşanan sorunlara ilişkin",
+  "status": "Süresi Geçtikten Sonra Cevaplandı",
+  "status_as_of": "2026-11-16",
+  "official_record": "https://www.tbmm.gov.tr/Denetim/Yazili-Soru-Onergesi-Detay/7a391e64-4bd7-4692-b8bd-0192996622fe",
+  "source": "https://tbmm.gov.tr/Denetim/YaziliSoruOnergesiTable",
+  "source_form": "https://tbmm.gov.tr/Denetim/Yazili-Soru-Onergeleri",
+  "source_sha256": "30271c2c8c0617c04f4458f018a15f1595abf934e4768ec13db36ffb3258f36b",
+  "in_force": "2024-10-16",
+  "in_force_basis": "Date the question reached the Speaker (Başkanlığa geliş tarihi) in the official TBMM written-question record; parliamentary oversight record, not law",
+  "history_type": "metadata",
+  "text_status": "metadata-only: question text, addressee and answers are in the linked official record (PDFs on cdn.tbmm.gov.tr); not transcribed here"
+}
