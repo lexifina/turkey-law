@@ -1,0 +1,5 @@
+Yazılı sınavın değerlendirilmesi
+MADDE 13- (1) Yazılı sınavın Bakanlık tarafından yapılması hâlinde; sınav kurulu, adayların cevap kâğıtlarını değerlendirmek üzere üye tam sayısı ile toplanır; cevap kâğıtlarının bulunduğu kapalı zarf açılır, değerlendirme yapılır ve değerlendirme notu cetvele yazılarak sınav kâğıdı ile birlikte sınav kurulu başkanına teslim edilir. Ancak, yazılı sınavın klasik usulde yapılması halinde; değerlendirme notu sınav kurulu üyelerinin her biri tarafından yapılan puanlamanın aritmetik ortalamasından oluşur.
+(2) Yazılı sınavın değerlendirmesi yüz tam puan üzerinden yapılır. Yazılı sınavda başarılı sayılabilmek için en az yetmiş puan almak gerekir.
+(3) Başarı sıralamasına göre hazırlanan liste, sınav değerlendirmesinin neticelendiği günü takip eden beş iş günü içinde Bakanlığın internet sayfasında yayımlanmak suretiyle duyurulur.
+(4) Yazılı sınavda başarılı olanlar arasından, en yüksek puandan başlanarak giriş sınavı duyurusunda belirtilen kadronun dört katı kadar aday sözlü sınava çağrılır. Çağrılacak olan son sıradaki aday ile eşit puana sahip adayların tamamı da sözlü sınava çağrılır.

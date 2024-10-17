@@ -1,0 +1,3 @@
+Gerçeğe aykırı beyan
+MADDE 17- (1) Başvurusu kabul edilip isimleri giriş sınavına katılabilecekler arasında yer alanlardan, gerçeğe aykırı beyanda bulunduğu tespit edilenler sınava alınmaz, sınava girenlerin sınavları geçersiz sayılır. Bunların atamaları yapılmış olsa dahi iptal edilir. Bunlar hiçbir hak talep edemez.
+(2) Gerçeğe aykırı beyanda bulunduğu veya belge verdiği tespit edilenler hakkında 26/9/2004 tarihli ve 5237 sayılı Türk Ceza Kanununun ilgili hükümleri uygulanmak üzere Cumhuriyet Başsavcılığına suç duyurusunda bulunulur. Bu şekilde Bakanlığı yanıltanlar kamu görevlisi ise durumları çalıştıkları kurumlara bildirilir.

@@ -1,0 +1,6 @@
+Yeterlik sınavı komisyonu
+MADDE 23- (1) Yeterlik sınavı komisyonu; Bakan onayı ile bir bakan yardımcısının veya birim amirinin başkanlığında, beş asıl ve beş yedek üyeden oluşur. Uzman yardımcısının görev yaptığı birimin amiri komisyonun doğal üyesi olup diğer üyeler Bakan tarafından en az daire başkanı ve daha üst kadrolardakiler ile Bakanlıkta en az on yıl çalışmış uzmanlar arasından belirlenir.
+(2) Yeterlik sınavı komisyonu, üye tam sayısı ile toplanır ve kararlarını oy çokluğuyla alır. Asıl üyelerin herhangi bir nedenle toplantıya katılamamaları hâlinde yerlerine yedek üyeler katılır.
+(3) Yeterlik sınavı komisyonu; tez savunmasının gerçekleştirilmesi, tezin değerlendirilmesi, yazılı sınav sorularının hazırlanması ve cevapların değerlendirilmesi, sözlü sınavın yapılması, sonuçların ilan edilmesi, itirazların sonuçlandırılması ve yeterlik sınavıyla ilgili diğer işlemlerin yürütülmesiyle görevlidir.
+(4) Komisyon başkanı ve üyeleri; kendilerinin, boşanmış olsalar dahi eşlerinin, ikinci dereceye kadar (bu derece dahil) kan ve kayın hısımlarının veya evlatlıklarının katıldıkları sınavın komisyonunda görev alamazlar; bunların yerine yedek üyeler katılır.
+(5) Yeterlik sınavı komisyonunun sekretarya hizmetleri Genel Müdürlükçe yürütülür.

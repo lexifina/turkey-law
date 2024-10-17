@@ -1,0 +1,5 @@
+İKİNCİ BÖLÜM
+Giriş Sınavı ve Atamaya İlişkin Esaslar
+Giriş sınavı
+MADDE 5- (1) Giriş sınavı, kadro ve ihtiyaç durumuna göre Bakanlıkça uygun görülen zamanlarda ve öğrenim dallarında sınav kurulu tarafından yapılır. Giriş sınavının, yazılı ve sözlü olarak iki aşamalı veya yalnızca sözlü olarak yapılmasına sınav kurulunca karar verilir.
+(2) Giriş sınavı; kadro ve ihtiyaç durumu gözetilerek, 18/3/2002 tarihli ve 2002/3975 sayılı Bakanlar Kurulu Kararı ile yürürlüğe konulan Kamu Görevlerine İlk Defa Atanacaklar İçin Yapılacak Sınavlar Hakkında Genel Yönetmelik hükümleri çerçevesinde, KPSS sonuçlarına göre, sınav ilânında belirtilen taban puan esas alınarak, giriş sınavına çağrılacak aday sayısı; yazılı ve sözlü sınav yapılması halinde öğrenim dalları itibarıyla atama yapılacak kadro sayısının yirmi katından, yalnızca sözlü sınav yapılması halinde öğrenim dalları itibarıyla atama yapılacak kadro sayısının dört katından fazla olmamak üzere katılacak adaylar belirlenmek suretiyle yapılır. KPSS puanı en yüksek olandan başlamak üzere yapılan sıralama sonucunda son sıradaki aday ile eşit puana sahip adaylar da sınava çağrılır.

@@ -1,0 +1,6 @@
+Yazılı sınav konuları
+MADDE 11- (1) Yazılı sınav; genel kültür ve genel yetenek, Bakanlığın görev alanına ilişkin mevzuat bilgisi ve adayların mezun oldukları öğrenim dallarına göre ait oldukları grubun konularından yapılır.
+(2) Adayların mezun oldukları öğrenim dallarına göre ait oldukları gruplara ilişkin yazılı sınav konuları şunlardır:
+a) Siyasal bilgiler, iktisadi ve idarî bilimler, işletme ve iktisat grubu: Uluslararası İlişkiler Kuramları, Uluslararası Hukuk, Uluslararası Örgütler, Avrupa Bütünleşmesi, Kamu Yönetimi, Anayasa Hukuku, İdare Hukuku, Mikro İktisat, Makro İktisat, Türkiye Ekonomisi, Uluslararası İktisat, Finansal Yönetim, Uluslararası Finans, İşletme İktisadı ve Genel İşletme, Kamu Maliyesi (Kamu Harcamaları, Kamu Gelirleri, Bütçe ve Kamu Finansmanı), Maliye Politikası.
+b) Hukuk grubu: Medeni Hukuk (Genel Hükümler, Eşya Hukuku), Uluslararası Hukuk, Borçlar Hukuku, Ticaret Hukuku (Genel Hükümler, Şirketler Hukuku, Kıymetli Evrak Hukuku), Anayasa Hukuku, Ceza Hukuku (Genel Hükümler) ve İdare Hukuku (Genel Hükümler, İdari Yargı).
+c) Mimarlık ve mühendislik, fen, fen-edebiyat fakültelerinden veya diğer fakültelerin mühendislik bölümlerinden mezun olan adaylar için yazılı sınav konuları fakülte veya ilgili bölümlerin müfredatı dikkate alınarak belirlenir.

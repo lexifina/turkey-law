@@ -1,0 +1,4 @@
+Tez danışmanı
+MADDE 21- (1) Uzmanlık tezinin hazırlanması safhasında uzman yardımcısına rehberlik etmek ve tezin, tez yazmanın akademik usul ve esaslarına, seçilen konunun mahiyetine, Bakanlığın görev sahası ile ilgili hususlara ve onaylanan tez projesine uygunluğunu temin etmek üzere bir tez danışmanı belirlenir. Danışman, uzman yardımcısına tez hazırlama safhasında yardımcı olmak maksadıyla tavsiyelerde bulunur.
+(2) Tez danışmanı, uzmanlar ile Bakanlık teşkilatı veya diğer kamu kuruluşlarında görev yapan ve daha önce lisansüstü programlarda tezli akademik çalışma yapmış, konusunda uzman kamu görevlileri arasından 20 nci maddenin birinci fıkrasında belirtilen süre içinde uzman yardımcısının tercihleri de dikkate alınarak görev yaptığı birim amirince belirlenir. Gerektiğinde yükseköğretim kurumlarında görevli öğretim üyelerinden de tez danışmanı belirlenebilir.
+(3) Uzman yardımcısının talebi halinde tez danışmanı birim amirinin onayı ile değiştirilebilir.

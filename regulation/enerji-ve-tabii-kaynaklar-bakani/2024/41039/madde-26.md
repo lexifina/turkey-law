@@ -1,0 +1,4 @@
+Uzmanlığa atanma
+MADDE 26- (1) Uzman yardımcıları; yeterlik sınavında başarılı olması ve yeterlik sınav tarihinde geçerli olan veya yeterlik sınavından itibaren en geç iki yıl içinde alınmış bulunan YDS/e-YDS’den asgari (C) düzeyinde puana veya dil yeterliliği bakımından buna denkliği kabul edilen ve uluslararası geçerliliği bulunan başka bir belgeye sahip olması şartıyla uzmanlığa atanmaya hak kazanırlar.
+(2) Birinci fıkrada belirtilen şartları taşıyan uzman yardımcısı, sınav sonuçlarının ilanından itibaren münhal kadro durumuna göre uzman olarak atanır.
+(3) Verilen ilave süre içinde tezlerini sunmayan veya ikinci kez hazırladıkları tezleri de kabul edilmeyenler, ikinci sınavda da başarı gösteremeyen veya sınav hakkını kullanmayanlar ile süresi içinde yabancı dil yeterliliği şartını yerine getirmeyenler, uzman yardımcısı unvanını kaybederler ve Bakanlıkta durumlarına uygun memur unvanlı kadrolara atanırlar.
