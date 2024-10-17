@@ -1,0 +1,1 @@
+Madde 7- (Değişik:RG-2/9/1999-23804) Bu Yönetmelik esaslarına göre yapılacak bütün yapılarda Türk Standartları Enstitüsü standartları dikkate alınarak, fen, sağlık ve çevre şartları ile ilgili diğer kanun, tüzük ve yönetmelik hükümlerine uyulmak zorundadır.

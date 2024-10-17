@@ -1,0 +1,1 @@
+Madde 51- (Değişik:RG-2/9/1999-23804) (Değişik ibare:RG-11/7/2021-31538) Bir parselde yapılacak tarımsal ve hayvancılık amaçlı yapıların ve konut yapılarının müştemilat dahil taban alanı kat sayısı %40 ı geçemez.

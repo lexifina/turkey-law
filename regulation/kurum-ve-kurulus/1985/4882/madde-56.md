@@ -1,0 +1,1 @@
+Madde 56 - Genel olarak konut, otel, işhanı, büro, mağaza, dükkan ve benzeri, içerisinde insan oturan, yatılan veya çalışılan binaların taban döşeme kaplaması üzerinden tavan kaplaması altına kadar olan yükseklikleri (2.40) m. den, düğün ve oyun salonları, kahvehane ve benzeri gibi halkın toplu olarak uzun süre içinde kaldığı mahallerin yükseklikleri ise ( 3.50) m. den az olamaz.

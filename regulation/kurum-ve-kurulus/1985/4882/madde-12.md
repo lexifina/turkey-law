@@ -1,0 +1,2 @@
+Madde 12- (Değişik:RG-2/9/1999-23804) Ruhsat süresi içinde tamamlanması mümkün olamayacağı için 5 inci yıl içinde ruhsat yenilemek üzere ilgili idareye başvurarak ruhsat yenilemesi yapılan yapılar hakkında, ruhsat alma tarihinde yürürlükte bulunan mevzuat hükümleri uygulanır.
+İnşasına 2 yıl içinde başlanmayan veya ruhsat süresi içinde tamamlanmayan ve süresi içinde ruhsat yenilemesi yapılmayan yapılar, ruhsatsız yapı olarak değerlendirilir. Bu yapılar hakkında yeniden ruhsat alma tarihinde yürürlükte bulunan plan ve mevzuat hükümleri uygulanır.

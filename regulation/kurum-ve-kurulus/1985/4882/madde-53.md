@@ -1,0 +1,1 @@
+Madde 53 - Çatı yapılması halinde kiremit kaplamalı çatıların % 33 meyille yapılması ve civarın karakterine uyulması lazımdır. Saçaklar (1.20) m. yi aşmayacak şekilde lüzumu kadar genişlikte yapılabilir.

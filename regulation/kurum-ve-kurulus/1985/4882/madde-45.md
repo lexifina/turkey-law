@@ -1,0 +1,1 @@
+Madde 45- (Değişik:RG-2/9/1999-23804) Köy ve mezraların yerleşik alanlarında ve civarında yapılacak ifraz işlemlerinde parsel genişlikleri (15.00) m.den, parsel derinlikleri de (20.00) m.den az olamaz. İfraz suretiyle en fazla beş adet parsel elde edilir, ifraz suretiyle elde edilen parsellerde ikinci kere ifraz yapılamaz.

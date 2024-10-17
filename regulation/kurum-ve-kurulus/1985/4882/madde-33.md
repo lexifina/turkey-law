@@ -1,0 +1,3 @@
+Bodrumlar
+Madde 33 - 1) Meyilli veya yol kenarında set teşkil eden parsellerde bu Yönetmeliğin pencere, ışıklık ve diğer hükümlerine uygun olmak ve en az 2 oda ve 1 mutfağı, taban döşeme üst seviyesi tabii zemine (0.50) m. den çok gömülü olmamak şartı ile binanın kot aldığı seviyenin altında iskâna tahsis edilen bodrum katı yapılabilir.
+2) Binaların odunluk, kömürlük, kalorifer dairesi gibi müştemilat kısımları bodrum katlarda tertiplenir. Ancak zeminde su çıkması veya sert kaya olması halinde Belediyeden alınacak izin ile bu türlü müştemilat; arka bahçelerde, yoldan görünmemek ve çatının en yüksek noktası tabii zeminden itibaren (2.50) m. den yüksek olmamak, esas binaya (3.00) m. den fazla yaklaşmamak şartı ile yapılabilir.

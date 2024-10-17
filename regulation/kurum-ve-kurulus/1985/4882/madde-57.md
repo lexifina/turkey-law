@@ -1,0 +1,4 @@
+Yapı Ruhsat İşleri
+Madde 57- (Değişik birinci fıkra:RG-11/7/2021-31538) Köy ve mezraların yerleşik alanları ve civarı ile kırsal yerleşik alanlar ve civarında yapılacak konut, tarımsal ve hayvancılık amaçlı yapılar ile müştemilat binaları yapı ruhsatı ve yapı kullanma iznine tabi değildir. Ancak, yapı projelerinin fen ve sağlık kurallarına uygun olduğuna dair ilgili idare onayı alınmasından sonra, muhtarlığa bildirimde bulunulmak suretiyle yapılması şarttır. Büyükşehirlerde proje onayları ilçe belediyesince yapılır. (Mülga cümle:RG-23/7/2022-31901)
+İnşa edilen yapının fen ve sağlık kurallarına uygunluğu İmar Kanununun 30 uncu maddesine göre valiliklerce belirlenir.
+Valilikler, talep halinde köy yerleşik alanlarında yapılacak yapılar için, yörenin geleneksel, kültürel ve mimari özelliklerine uygun olarak üretilmiş projeleri temin edebilirler.

@@ -1,0 +1,18 @@
+BEŞİNCİ BÖLÜM(3)
+Belediye Mücavir Alan Sınırları Dışında Planı Bulunmayan Köy ve Mezraların
+Yerleşik Alanlarında ve Kırsal Yerleşik Alanlarda Uygulanacak Esaslar
+Köy ve mezraların yerleşik alanı ve civarı ile kırsal yerleşik alanlar ve civarının tespiti
+Madde 43 – (Başlığı ile Birlikte Değişik:RG-11/7/2021-31538)
+Köy ve mezraların yerleşik alanı ve civarı ile kırsal yerleşik alanlar ve civarının tespiti, ilgili idarelerce birisi harita mühendisi olmak üzere en az üç teknik personelden oluşan bir komisyon tarafından 1:1000 veya 1:5000 ölçekli hâlihazır haritalar veya kadastro paftaları üzerine yapılır.
+Taşkın, heyelan, çığ ve kaya düşmesi gibi afet riski olan, dere yatağı ve sıhhi ve jeolojik açıdan üzerinde yapı yapılmasında mahzur bulunan alanlar ile (Ek ibare:RG-23/7/2022-31901) askeri yasak ve güvenlik bölgeleri, tarım, orman, mera ve sit alanları gibi korunan alanlar, ilgili kurum ve kuruluşlardan görüş alınarak hâlihazır harita veya kadastro paftaları üzerinde belirlenir.
+Yerleşmenin ana yolları ve genişlikleri hâlihazır harita veya kadastro paftaları üzerinde belirlenir.
+Mevcut binalar tespit edilerek tutanak altına alınır ve kadastral paftaya veya hâlihazır haritalara aktarılır. Tutanakla belirlenen binaların en dışta olanlarının dış kenarlarından düz çizgi ile birleştirilerek bir alan oluşturularak köy ve mezraların yerleşik alanı ve kırsal yerleşik alan sınırı tespit edilir.
+Bu alanın en fazla 300 metre dışından geçecek şekilde yerleşimin mülkiyet dokusu, morfolojisi ve doğal eşikleri dikkate alınarak (Ek ibare:RG-17/10/2024-32695) belirlenmiş olan taşkın, heyelan, çığ ve kaya düşmesi gibi afet riski olan, dere yatağı ve sıhhi ve jeolojik açıdan üzerinde yapı yapılmasında mahzur bulunan alanlar dışarıda bırakılarak bu alanların civarı tespit edilir.
+Tespite ilişkin 3/7/2005 tarihli ve 5403 sayılı Toprak Koruma ve Arazi Kullanımı Kanununda belirtilen izinler alınır.
+Belirlenen sınırlar büyükşehir belediyesi olan illerde ilçe belediye meclisinin teklifi üzerine büyükşehir belediye meclisi kararı ile diğer yerlerde il genel meclisi kararı ile onaylanır.
+Köy ortak yapılarının bulunduğu mezralarda ve köye bağlı mahallelerde, yerleşik alan ve civarı tespiti, köy yerleşik alan ve civarının tespiti ile ilgili usullere uyulmak koşuluyla yapılır.
+Tespit yapılacak mezranın sınırı, tespiti yapılan köye bağlı olması ve mevcut binaların en dışta olanları arasındaki mesafenin toplam 300 metreyi aşmaması durumunda köy ve mezraların yerleşik alanı sınırı birlikte tespit edilebilir. Söz konusu mesafenin 300 metreyi aştığı durumlarda ise köy ve mezraların yerleşik alanı sınırı ayrı ayrı tespit edilir.
+Aynı köyün mülki sınırları içinde kalmakla birlikte köy yerleşik alanı ile civarının dışında kalan mezralarda mevcut köy ortak yapıları yok ise yerleşik alan ve civarı tespiti yapılamaz.
+Ancak dağınık yerleşimlerde, köy mülki sınırları içerisinde köy dokusunun bulunduğu yerlerde, köy ortak yapılarına bakılmaksızın, bu maddede yer alan usullere uyularak köy ve mezraların yerleşik alanı veya kırsal yerleşik alan sınırları parçalı olarak birden çok alanda belirlenebilir.
+Dağınık yerleşimlerde köy ve mezraların yerleşik alanı veya kırsal yerleşik sınırları belirlenirken, köyün ortak yapılarına veya birbirlerine 200 metreden uzak olmayan binaları içerecek şekilde tespit yapılabilir. Bu alanlarda ayrıca civar tespiti yapılamaz.
+İhtiyaç duyulması halinde köy ve mezraların yerleşik alan sınırları il genel meclislerince aynı usullere tabi olarak yeniden belirlenebilir. Yeniden sınır belirlemede, köy ve mezraların yerleşik alan sınırı genişletilebileceği gibi daraltılabilir.

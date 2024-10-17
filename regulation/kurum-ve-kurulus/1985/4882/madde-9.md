@@ -1,0 +1,1 @@
+Madde 9 - Kamu kurum ve kuruluşlarına ait yapılar, bu Yönetmeliğin iç ölçülerine, sanayi ve konut dışı kentsel çalışma alanlarında yapılacak yapılar ise bu Yönetmeliğin bina derinlik ve yüksekliklerine ait hüküm ve ölçülerine tabi değildir.

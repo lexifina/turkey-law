@@ -1,0 +1,1 @@
+Madde 11 - Belediyeye ait yerler üzerinde otobüs durağı, büfe, hela, trafo ve benzeri belediye hizmetlerinin görülebilmesi için, lüzumlu tesislerin inşaasına ancak belediyece mahzur görülmeyen hal ve şekillerde ve o yerin karakterini muhafaza etmek kaydı ile izin verilebilir.

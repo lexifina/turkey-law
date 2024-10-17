@@ -1,0 +1,1 @@
+Madde 54 - Parsel dışına taşan çıkma yapılamaz. Çıkmalar, bitişik veya blok nizamında komşu sınırına (2.00) m. den fazla yaklaşamaz. Saçaklar, (0.20) m. yi geçmeyen çıkıntılar, bina içine dahil edilmemek şartı ile çıkma sayılmaz.

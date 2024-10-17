@@ -1,0 +1,1 @@
+Madde 6- (Değişik:RG-2/9/1999-23804) Belediyece anlaşılmayan konularda valiliğin, anlaşmazlığa düşülen konularda (Değişik ibare:RG-23/7/2022-31901) Çevre, Şehircilik ve İklim Değişikliği Bakanlığı'nın görüşü alınır ve bu görüşe uyulur.

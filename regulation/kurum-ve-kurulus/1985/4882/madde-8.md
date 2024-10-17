@@ -1,0 +1,2 @@
+Madde 8- (Değişik:RG-11/7/2021-31538)
+Erişilebilirlik mevzuat ve standartlarında belirlenen ve bu Yönetmelikte yer alan standartlar hariç, bu Yönetmeliğin, 18/3/2018 tarihli ve 30364 mükerrer sayılı Resmî Gazete'de yayımlanan Türkiye Bina Deprem Yönetmeliği hükümlerine aykırı hükümleri afet bölgelerinde uygulanmaz. Ancak, afet bölgelerinde yapılacak yapılarda da erişilebilirlik mevzuat ve standartlarında belirlenmiş standartlara uyulması zorunludur.

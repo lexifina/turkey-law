@@ -1,0 +1,2 @@
+Yapı Yerinin Tayini
+Madde 18 - Ayrık yapı nizamına tabi olan yerlerde, bu Yönetmelik hükümlerine dayanılarak tayin edilen azami bina alanını aşmamak, asgari bahçe mesafelerini muhafaza etmek şartı ile yapı yerini tayine ve daha uygun çözüm yolları bulmak amacı ile bir kaç dar parseli birlikte mütalâa ederek toplam bina cephesi (20.00) m.yi geçmemek şartı ile ikili veya üçlü blok tertibine Belediye yetkilidir. Bu işlem dolayısıyla civarın yapı karakterinin bozulmamasına dikkat edilmelidir.
