@@ -1,0 +1,3 @@
+Üyelerin sorumlulukları
+Madde 10 — Üyeler, 5018 sayılı Kamu Mali Yönetimi ve Kontrol Kanununun ve Yönetmeliğin Kurula verdiği görevlerin yerine getirilmesi için toplantılara katılmak, çalışmalarında ve kararlarında uluslararası muhasebe standartları ile genel kabul görmüş muhasebe ilkelerini göz önünde bulundurmak zorundadırlar.
+Kanuni mazereti olmaksızın üst üste üç veya bir yılda toplam beş toplantıya katılmadığı Kurulca belirlenen üyenin üyeliği, herhangi bir işleme gerek kalmaksızın sona erer ve bir daha görevlendirilmez. Bunların yerine 6 ve 7 nci maddede belirtilen usul ve esaslara göre yeni üye görevlendirilir.
