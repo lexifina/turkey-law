@@ -1,0 +1,30 @@
+{
+  "issuer": "Bursa Büyükşehir Belediye Meclisi",
+  "number": "1007",
+  "decision_date": "2024-10-17",
+  "version_label": "as-enacted",
+  "source_url": "https://www.bursa.bel.tr/storage/medya/meclis_karar_yeni/2024-1007.pdf",
+  "source_sha256": "cd743e198c054e2d1ab80b21abef457cc76ef530cfab0f74ee8c18f971def4ca",
+  "normative_images": 0,
+  "source_image_inventory": [
+    {
+      "page": 1,
+      "source_images": 2,
+      "decorative_logos": 2,
+      "normative_images": 0
+    },
+    {
+      "page": 2,
+      "source_images": 2,
+      "decorative_logos": 2,
+      "normative_images": 0
+    },
+    {
+      "page": 3,
+      "source_images": 2,
+      "decorative_logos": 2,
+      "normative_images": 0
+    }
+  ],
+  "annex_status": "Only the decision PDF linked by the official register is held; referenced supporting plans or annexes not separately linked are not included."
+}
