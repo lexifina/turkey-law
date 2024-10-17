@@ -1,0 +1,20 @@
+{
+  "record_type": "gazette-item",
+  "gazette": "Resmî Gazete",
+  "jurisdiction": "TR",
+  "date": "2024-10-17",
+  "issue": "32695",
+  "edition": "regular",
+  "item": 5,
+  "section": "YÜRÜTME VE İDARE BÖLÜMÜ",
+  "heading": "TEBLİĞLER",
+  "title": "Gelir Vergisi Genel Tebliği (Seri No: 328)",
+  "official_link": "https://www.resmigazete.gov.tr/eskiler/2024/10/20241017-5.htm",
+  "link_format": "htm",
+  "index_url": "https://www.resmigazete.gov.tr/eskiler/2024/10/20241017.htm",
+  "index_sha256": "04e444665d59ed9a55d6a781b083c278e11480cceb931fcab1c8646b51ebbc95",
+  "index_header": "17 Ekim 2024 ... 32695 Sayılı Resmî Gazete",
+  "issue_pdf": "https://www.resmigazete.gov.tr/eskiler/2024/10/20241017.pdf",
+  "in_force_basis": "Resmî Gazete publication date; not a commencement reading.",
+  "text_status": "metadata-only; text not yet fetched (follow-up pass adds it as its own commit)"
+}
