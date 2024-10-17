@@ -1,0 +1,37 @@
+{
+  "checked_on": "2026-11-15",
+  "commencement_quote": "Bu Tebliğ yayımı tarihinde yürürlüğe girer",
+  "date_gazette": "32695",
+  "date_quote": "Bu Tebliğ yayımı tarihinde yürürlüğe girer",
+  "first_law": null,
+  "gazette": "32695",
+  "history": "current-text",
+  "images": {
+    "deferred": 0,
+    "omitted": 0,
+    "referenced": 0,
+    "source": 0
+  },
+  "in_force": "2024-10-17",
+  "in_force_basis": "Own commencement clause: Bu Tebliğ yayımı tarihinde yürürlüğe girer",
+  "issuer": "Hazine ve Maliye Bakanlığı",
+  "issuer_catalog_evidence": [
+    {
+      "evidence": "issuer-578-0.json",
+      "id": "578",
+      "label": "Hazine ve Maliye Bakanlığı",
+      "listing_url": "https://www.mevzuat.gov.tr/Anasayfa/MevzuatDatatable?MevzuatTur=Teblig&KurumId=578&start=0&length=100"
+    }
+  ],
+  "issuer_slug": "hazine-ve-maliye-bakanligi",
+  "kind": "communique",
+  "label": "oldest version available",
+  "notes": [],
+  "published": "2024-10-17",
+  "source": "https://www.mevzuat.gov.tr/anasayfa/MevzuatFihristDetayIframe?MevzuatTur=9&MevzuatNo=41040&MevzuatTertip=5",
+  "source_bytes": 58596,
+  "source_id": "9.5.41040",
+  "source_sha256": "65c7903c55d5b574251567f6ce2b9413d0c6f0b0dda6e612bed1a956d008e0da",
+  "title": "GELİR VERGİSİ GENEL TEBLİĞİ (SERİ NO: 328)",
+  "word_count": 2005
+}

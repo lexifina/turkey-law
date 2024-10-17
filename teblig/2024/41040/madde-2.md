@@ -1,0 +1,8 @@
+İKİNCİ BÖLÜM
+Tevsik Zorunluluğunun Kapsamı ve Ceza Uygulaması
+Tevsik zorunluluğunun kapsamı ve tevsik zorunluluğu getirilen işlemlerde belge düzeni
+MADDE 2- (1) Konutlarda ve iş yerlerinde, konutunu ve iş yerini kiraya verenler ve bunları kiralayanların, kiraya ilişkin tahsilat ve ödemelerini bankalar veya Posta ve Telgraf Teşkilatı Anonim Şirketi tarafından düzenlenen belgelerle tevsik etmeleri zorunludur.
+(2) Haftalık, günlük veya benzeri şekilde kısa süreli konut kiralamalarına ilişkin yapılan tahsilat ve ödemeler de tevsik kapsamındadır.
+(3) Konut ve iş yerini kiraya verenler ve bunları kiralayanların, kira bedeline ilişkin mahkeme ve icra yoluyla veya ayni olarak yaptıkları tahsilat ve ödemeler tevsik zorunluluğu kapsamında değildir.
+(4) Hisseli gayrimenkullerin kiralanmasında, kira bedelinin tamamının kiraya verenlerden birine bankalar veya Posta ve Telgraf Teşkilatı Anonim Şirketi aracılığıyla ödenmesi durumunda, tevsik zorunluluğunun yerine getirildiği kabul edilir.
+(5) Bankalar veya Posta ve Telgraf Teşkilatı Anonim Şirketi aracı kılınmak suretiyle; para yatırma, havale, EFT, çek, banka ve kredi kartı gibi araçlar kullanılmak suretiyle yapılan tahsilat ve ödemeler karşılığında dekont veya hesap bildirim cetvelleri düzenlendiğinden, bu belgeler tevsik edici belge kabul edilecektir. Bankaların internet şubeleri üzerinden yapılan ödeme ve tahsilatlar da aynı kapsamdadır. Kişilerin kira ödemelerini; banka şubelerine giderek T.C. kimlik numarası, vergi kimlik numarası, ad soyad/unvan bilgileri ve “kira ödemesi” açıklamasıyla kiraya verenin hesabına yatırması durumunda da tevsik yükümlülüğü yerine getirilmiş sayılır.
