@@ -1,0 +1,2 @@
+Giriş sınavı sonuçlarına itiraz
+MADDE 14- (1) Giriş sınavı sonuçlarına, sonuçların açıklanmasından itibaren 7 (yedi) gün içerisinde açık yazışma adresi, telefon numarası ve e-posta adresini içeren imzalı bir dilekçe ile itiraz edilebilir. Bu şartları taşımayan veya itiraz süresi içinde verilmemiş dilekçeler dikkate alınmaz. Bu sürenin bitiminden itibaren itiraz, giriş sınavı komisyonu tarafından en geç 15 (on beş) gün içerisinde değerlendirilerek sonucu ilgiliye yazılı olarak bildirilir.

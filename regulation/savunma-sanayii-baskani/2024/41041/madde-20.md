@@ -1,0 +1,6 @@
+Uzmanlık tezinin hazırlanması
+MADDE 20- (1) Uzmanlık tezi, tez konusunun kesinleşmesini müteakip en geç bir yıl içerisinde ilgili mevzuata göre hazırlanır. Bir yıllık sürenin hesabında aylıksız izin ile toplamı üç ayı aşan hastalık ve refakat izinleri dikkate alınmaz.
+(2) Uzman yardımcısının tez danışmanı Başkanlık personeli arasından belirlenir. Tez danışmanının Başkanlıkta beş yılını tamamlamış olması şartı aranır. Tez danışmanı aynı dönemden ancak bir uzman yardımcısına danışmanlık yapabilir. Zorunlu hâllerde uzman yardımcısının talebi ve Başkanın onayı ile tez danışmanı değiştirilebilir.
+(3) Uzmanlık tezinin hazırlanması safhasında tez danışmanı, uzman yardımcısına rehberlik eder ve tezin, tez yazmanın akademik usul ve esaslarına, mevzuata, seçilen konunun mahiyetine, Başkanlığın görev sahası ile ilgili hususlara ve onaylanan tez konusuna uygunluğunu temin eder ve tavsiyelerde bulunur.
+(4) Uzmanlık tezleri, tez danışmanı gözetiminde, uzman yardımcısının kendi görüş ve değerlendirmelerini içerecek şekilde, bilimsel esaslara, çalışma etiğine ve Başkanlık tarafından çıkarılacak tez hazırlama yönergesinde belirtilen usule uygun olarak hazırlanır.
+(5) Uzmanlık yeterlik sınav kurulu üyeleri, tez danışmanlığı yaptıkları uzman yardımcılarının tez değerlendirmesinde kurul üyesi olarak görev alamaz.

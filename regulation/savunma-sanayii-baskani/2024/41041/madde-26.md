@@ -1,0 +1,2 @@
+Başarısızlık hâli
+MADDE 26- (1) Verilen ek süre içinde tezlerini sunmayan veya ikinci defa hazırladıkları tezleri de kabul edilmeyenler, ikinci yeterlik sınavında da başarı gösteremeyen veya yeterlik sınavı hakkını kullanmayanlar ile süresi içinde yabancı dil yeterliliği şartını yerine getirmeyenler, uzman yardımcısı unvanını kaybeder ve Başkanlıkta durumlarına uygun memur unvanlı kadrolara atanır.

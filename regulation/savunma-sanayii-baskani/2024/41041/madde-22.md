@@ -1,0 +1,8 @@
+Uzmanlık yeterlik sınav kurulu
+MADDE 22- (1) Uzman yardımcılarının tezlerinin değerlendirilmesi ve yeterlik sınavları, uzmanlık yeterlik sınav kurulu tarafından yapılır.
+(2) Uzmanlık yeterlik sınav kurulu, Başkan veya Başkanın görevlendireceği başkan yardımcısı başkanlığında beş asıl ve asıl üye sayısını geçmemek üzere yedek üyelerden oluşur. Daire Başkanı ile yeterlik sınavına girecek olan uzman yardımcısının birim amiri uzmanlık yeterlik sınav kurulunun doğal (asıl) üyesi olup, diğer üyeler Başkan tarafından başkan yardımcıları, birim amirleri ve uzmanlar arasından seçilir. Birim amiri aynı zamanda uzmanlık yeterlik sınav kurulunun üyesi ise yedek üyeler Başkanlık onayındaki sıralamaya göre görevlendirilir.
+(3) Uzmanlık yeterlik sınav kurulu, üye tam sayısı ile toplanır ve oy çokluğu ile karar verir. Başkanın katılmadığı durumlarda uzmanlık yeterlik sınav kuruluna, kurulun oluşumuna ilişkin Başkanlık onayındaki sıralamaya göre asıl üyelerden biri başkanlık eder.
+(4) Asıl üyelerin herhangi bir nedenle uzmanlık yeterlik sınav kuruluna katılmamaları hâlinde yedek üyeler, Başkanlık onayındaki sıralamaya göre kurula iştirak eder.
+(5) Uzmanlık yeterlik sınav kurulunun başkan ve üyeleri; boşanmış olsalar dahi eşlerinin, üçüncü dereceye kadar (bu derece dâhil) kan ve ikinci dereceye kadar (bu derece dâhil) kayın hısımlarının veya evlatlıklarının katıldığı tez değerlendirilmesi ve yeterlik sınavında görev alamaz.
+(6) Uzmanlık yeterlik sınav kurulu, uzman yardımcısının tezini tez jürisi olarak değerlendirir.
+(7) Uzmanlık yeterlik sınav kurulunun sekretarya hizmetleri, Daire Başkanlığı tarafından yürütülür.
