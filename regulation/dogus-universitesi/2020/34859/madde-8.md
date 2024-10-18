@@ -1,0 +1,6 @@
+Kayıt yenileme
+MADDE 8 – (1) Kayıt yenileme işlemleri için, öğrenci tarafından akademik takvimde belirtilen süreler içerisinde, öğrenim ücretinin ödenmesi ve ders alma işleminin tamamlanması gerekmektedir.
+a) Öğrencinin kayıt yenilemesinin yapılabilmesi için kayıt yenilemek istediği dönem/yıl dâhil, geriye yönelik mali yükümlülüklerini yerine getirmiş olmalıdır. Bu koşulu yerine getirmemiş öğrencilerin kayıt yenileme işlemleri yapılmaz. Bu öğrenciler, öğrencilik haklarından yararlanamazlar.
+b) Öğrenim ücretini ödeyen öğrenciler müfredatlarına uygun olarak, ders kayıt işlemlerini sistemden yapmak zorundadırlar. Öğrenciler kayıt yenileme ve derse yazılma işleminin tümünden sorumludur ve ders kayıtlarını bizzat kendileri yapmakla yükümlüdürler.
+(2) Öğrenim ücretinin ödenmemesi suretiyle kayıt yenilemeyen öğrencilerin ilişikleri Üniversite Yönetim Kurulu kararı ve Yükseköğretim Kurulunun onayı ile kesilebilir. Öğrencinin kayıt yenilemediği yarıyıl 2547 sayılı Kanunda belirlenen öğrenim süresinden sayılır.
+(3) Öğrencinin kayıt yenilemediği, ders tekrarı yaptığı ve eksik ders almış olduğu dönemler öğrenim süresinden sayılır. Süresi içinde kayıt yenilemeyen öğrenci, öğrencilik haklarından yararlanamaz.

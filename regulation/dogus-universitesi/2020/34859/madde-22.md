@@ -1,0 +1,3 @@
+Ders ve uygulamalara devam
+MADDE 22 – (1) Öğrenciler kayıtlı oldukları ders, uygulama, laboratuvar, proje ve bunların gerektirdiği sınav ve diğer akademik çalışmalara katılmak ve stajlarını yapmakla yükümlüdür. Öğrencilerin devam durumlarının ders başarı durumuna etkisi, ilgili dersin öğretim elemanı tarafından dönem başında açıklanır ve öğrencilerin devam durumları, ilgili dersin öğretim elemanları tarafından izlenir. Daha önce alınmış ve devamsızlık (DZ) nedeniyle başarısız olunan dersler hariç, tekrar edilen derslerde devam zorunluluğu aranmaz.
+(2) Rektörlüğün onayı ile Üniversiteyi veya Türkiye’yi temsilen toplantı, spor, sanat ve benzeri faaliyetlere katılan öğrencilerin bu faaliyet günlerindeki devamsızlıkları dikkate alınmaz.

@@ -1,0 +1,4 @@
+Eğitim-öğretim yılı
+MADDE 17 – (1) Eğitim-öğretim yarıyıl esasına göre yapılır. Öğretim yılı; esas olarak güz dönemi ve bahar dönemini kapsar. Her akademik yıl, her biri on dört hafta olan iki yarıyıldan oluşur. Yarıyıl sonu sınavları bu sürelere dâhil değildir. Akademik yılın kapsadığı kayıt, ders, sınav ve benzeri faaliyetlerin süre ve tarihlerine ilişkin hususlar, Senatonun belirleyip ilan ettiği akademik takvim ile düzenlenir.
+(2) Önlisans ve lisans diploma programına, akademik yılın bahar yarıyılında kayıt olarak eğitim-öğretime başlayan veya kayıt olduğu eğitim-öğretim yılının güz döneminde bir yarıyıl kayıt donduran öğrenci için normal öğrenim yılı, ilk defa kayıt olduğu eğitim-öğretim yılının başlangıcı (güz yarıyılı) esas alınarak hesaplanır ve uygulanır.
+(3) YÖK’ün onayı ile yaz öğretimi açılabilir. Yaz öğretiminde; Doğuş Üniversitesi Yaz Öğretimi Yönetmeliği ve ilgili diğer mevzuat hükümleri uygulanır.

@@ -1,0 +1,2 @@
+Çift anadal ve yandal programları
+MADDE 12 – (1) Çift anadal ve yandal programlarına yapılacak öğrenci kayıtlarında ve işleyişte; Yükseköğretim Kurumlarında Önlisans ve Lisans Düzeyindeki Programlar Arasında Geçiş, Çift Anadal, Yan Dal ile Kurumlar Arası Kredi Transferi Yapılması Esaslarına İlişkin Yönetmelik ile ilgili diğer mevzuat hükümleri uygulanır. Çift anadal ve yandal programlarına kayıt kontenjanları Senato tarafından belirlenir.

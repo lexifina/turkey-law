@@ -1,0 +1,3 @@
+Yatay ve dikey geçiş yolu ile kabul
+MADDE 10 – (1) Üniversitenin lisans ve önlisans bölümlerine yapılacak yatay geçiş öğrenci kabulü ve kayıtlarında; 24/4/2010 tarihli ve 27561 sayılı Resmî Gazete’de yayımlanan Yükseköğretim Kurumlarında Önlisans ve Lisans Düzeyindeki Programlar Arasında Geçiş, Çift Anadal, Yan Dal ile Kurumlar Arası Kredi Transferi Yapılması Esaslarına İlişkin Yönetmelik hükümleri uygulanır. Yatay geçiş kontenjanları Senato tarafından belirlenir.
+(2) Üniversitenin lisans programlarına ÖSYM tarafından dikey geçiş ile yerleştirilen öğrencilere, ilgili mevzuat hükümleri uygulanır.

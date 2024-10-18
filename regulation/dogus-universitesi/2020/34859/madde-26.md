@@ -1,0 +1,3 @@
+Bitirme projesi-yönlendirilmiş çalışma (Değişik başlık:RG-24/8/2021-31578)(1)
+MADDE 26 – (1) (Değişik:RG-24/8/2021-31578)(1) Bitirme projesi, yönlendirilmiş çalışma derslerinin alınması, yürütülmesi, teslimi ve sınavı hakkındaki esaslar ile yazım kuralları Bitirme Projesi/Yönlendirilmiş Çalışma Yönergesine göre yürütülür.
+(2) Bitirme projesi kapsamında yapması gerekenleri, devam ve sınavlar hariç, mazereti nedeniyle zamanında yerine getirememiş öğrencilere (S) harf notu verilir. Bu çalışmalar ilgili yarıyıl sonu sınavlarının/proje sunumlarının bitiminden itibaren iki hafta içerisinde sonuçlandırılır. Bu süre sonunda tamamlanmayan çalışmalara dersin öğretim elemanı tarafından F harf notu verilir.

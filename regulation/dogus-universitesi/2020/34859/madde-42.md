@@ -1,0 +1,3 @@
+Tebligat ve adres bildirme
+MADDE 42 – (1) Her türlü tebligat, öğrencinin Üniversiteye kayıt esnasında bildirdiği adrese kargo veya posta aracılığı ile iadeli taahhütlü olarak yapılmak suretiyle veya kayıt esnasında öğrencilere verilen e-posta adresine yazılı olarak yapılmak suretiyle tamamlanmış sayılır.
+(2) Üniversiteye kayıt olurken bildirdikleri adresi yanlış veya eksik olarak bildirmiş olan veya adresi değiştirdikleri hâlde bu durumu Öğrenci İşleri Müdürlüğüne dilekçe ile bildirmemiş bulunan öğrencilerin, mevcut adreslerine yapılacak tebligatlar geçerli kabul edilir. Üniversitede mevcut adreslerine bildirim yapılması hâlinde, kendilerine bildirim yapılmış sayılır.
