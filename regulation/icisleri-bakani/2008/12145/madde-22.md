@@ -1,0 +1,4 @@
+Kesin kayıt-kabul
+MADDE 22 – (1) Geçici kaydı yapılan adayların 8 inci maddede belirtilen esaslara göre Yüksekokul Müdürlüklerince güvenlik soruşturması ve arşiv araştırması tamamlattırılır. Güvenlik soruşturması ve arşiv araştırması olumlu olan ve 17 nci ve 18 inci maddelerde belirtilen şartları yerine getiren adayların kesin kayıtları yapılır.
+(2) Güvenlik soruşturması ve arşiv araştırması olumsuz olan veya Sağlık Yönetmeliğinde belirtilen nitelikleri taşımadıkları anlaşılan, istifa eden, ya da vefat eden adayların dosyaları Yüksekokul Müdürlüğü tarafından Başkanın onayı ile işlemden kaldırılmak üzere Başkanlığa gönderilir.
+(3) Adaylardan, eğitim-öğretim yılının başlangıcına kadar, noterden tasdikli yüklenme senedi getirilmesi istenir, yüklenme senedinin getirilmemesi hâlinde adayın dosyası işlemden kaldırılmak üzere Başkanlığa gönderilir. Yüklenme senedi miktarı, her eğitim-öğretim yılı için Başkanlık tarafından belirlenir.

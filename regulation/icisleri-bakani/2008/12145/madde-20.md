@@ -1,0 +1,2 @@
+Zamanında kayıt yaptırmayan adaylar
+MADDE 20 – (1) (Değişik cümle:RG-24/4/2020-31108) Askeralma Kanununa göre silah altında bulunan adaylar hariç, planlandıkları Yüksekokullara süresi içinde kayıt yaptırmayan adaylar, haklarından vazgeçmiş sayılırlar. Mahkeme kararı veya mazeretleri nedeniyle planlamaları yapıldığı hâlde, Başkanlıkça belirtilen tarih ve sürelerde yüksekokula kayıt yaptırmayan veya eğitim-öğretime başlamayan adayların dosyaları Yüksekokul Müdürlüğünün teklifi ve Başkanın onayı ile işlemden kaldırılır.
