@@ -1,0 +1,2 @@
+Geçiş hükümleri
+GEÇİCİ MADDE 1- (1) 16/5/2006 tarihli ve 5502 sayılı Sosyal Güvenlik Kurumu Kanununa göre devredilen kurumların kadrolarında olup Sosyal Güvenlik Kurumuna ihdas edilen kadrolar arasında sayılmayan İl Müdür Yardımcısı, Sigorta İl Müdür Yardımcısı, Sigorta Müdür Yardımcısı, Bölge Müdür Yardımcısı ve Huzurevi Müdür Yardımcısı unvanlarında bulunan personelin disiplin amirleri, fiilen görev yaptıkları birimlerin disiplin amiridir.
