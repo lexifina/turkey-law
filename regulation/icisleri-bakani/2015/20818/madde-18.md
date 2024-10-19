@@ -1,0 +1,5 @@
+İntibak eğitimi
+MADDE 18 – (1) POMEM’lere geçici kaydı yapılan adaylar (Değişik ibare:RG-19/10/2024-32697) en çok bir ay süre ile intibak eğitimine tabi tutulurlar. Bu süre içinde POMEM Müdürlükleri tarafından Sağlık Yönetmeliği hükümlerine göre sağlık kurulu raporları aldırılır. Ayrıca, intibak eğitimi başlangıcından itibaren adayların güvenlik soruşturmaları ve arşiv araştırmaları yaptırılır. Yapılan güvenlik soruşturması ve arşiv araştırması ile ilgili sonuçlar POMEM Yönetim Kurulunca değerlendirilerek karara bağlanır.
+(2) Geçici kayıt süresince adayların POMEM öğrencisi olup olamayacaklarına dair sağlık kurulu raporları ve buna bağlı olarak yapılacak tetkik ve tedaviler hariç diğer sağlık giderleri, iaşe ve ibateleri POMEM Müdürlüğünce karşılanır.
+(3) Geçici kayıt süresince suç işleyen adayların soruşturmaları Polis Akademisi Öğrenci Disiplin Yönetmeliği hükümlerine göre yapılır.
+(4) (Ek:RG-19/10/2024-32697) Sağlık kurulu rapor işlemleri ile güvenlik soruşturması ve arşiv araştırması işlemleri geçici kayıt tarihinden itibaren altmış gün içerisinde tamamlanmayan adayların planlamaları bir sonraki eğitim-öğretim yılına yapılır.

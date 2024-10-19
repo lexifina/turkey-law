@@ -1,0 +1,6 @@
+Sınav sonuç listesinin belirlenmesi ve ilanı
+MADDE 16 – (1) (Değişik:RG-31/3/2017-30024) Adayların başarı sıralamasına esas POMEM giriş puanı; adayın KPSS puanının % 25’i, fiziki yeterlilik sınavı puanının % 25’i ve mülakat sınavı puanının % 50’sinin toplamıdır. Başarı sıralaması puanında eşitlik olması halinde sırasıyla; KPSS’den alınan puan, mülakat puanı, fiziki yeterlilik puanının yüksekliği esas alınır. Bunlarda da eşitlik olması halinde yaşı küçük olan aday tercih edilir.
+(2) (Değişik:RG-8/11/2019-30942) POMEM giriş puanına göre lisans mezunu ve ön lisans mezunu adaylar için erkek, kadın ve şehit ve vazife malulü olanların eş ve çocukları için asıl, yedek ve başarısız olmak üzere ayrı ayrı sınav sonuç listesi düzenlenir. Asıl adayların bir katına tekabül eden sayıda yedek aday listesi, en yüksek puandan başlanarak belirlenir.
+(3) Adayların sınav sonuçları, sınav ile ilgili işlemler tamamlandıktan sonra Başkanlıkça ilan edilir.
+(4) Sınav evrakı sınav merkezlerince bir yıl süreyle, dava konusu olmuşsa davanın kesin karara bağlanmasına kadar saklanır ve bu sürenin bitiminde tutanakla imha edilir.
+(5) Sınavı kazananların POMEM’lere planlanması, Başkanlıkça belirlenen kriterlere göre bilgisayar ortamında yapılır.

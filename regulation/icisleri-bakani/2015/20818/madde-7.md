@@ -1,0 +1,7 @@
+Duyuru, başvuru zamanı ve şekli, adayların çağrılması
+MADDE 7 – (Değişik:RG-8/11/2019-30942)
+(1) POMEM’lere alınacak öğrenci sayısı, başvuru ve sınav tarihleri, Resmî Gazete ile Cumhurbaşkanınca belirlenen kurumun internet sitesinde ve Başkanlıkça hazırlanan Sınav Başvuru Kılavuzu ile Başkanlığın resmi internet sitesinde ilan edilir. (Ek cümle:RG-21/12/2021-31696) Başvuruların hangi tarihler arasında ve nereye yapılacağı ile başvuru tarihlerinin değiştirilmesi veya süresinin uzatılmasına ilişkin hususlar her dönem için Başkanlıkça belirlenir.
+(2) (Değişik:RG-21/12/2021-31696) Adayların ön başvuruları, elektronik ortam üzerinden alınır.
+(3) (Değişik:RG-21/12/2021-31696) Adayların KPSS taban puanı ve puan türü Bakanlık onayıyla belirlenir. İlan edilen KPSS taban puanına göre yeterli sayıda başvurunun olmadığı durumlarda, taban puanı Bakanlık onayıyla değiştirilebilir. Ön başvurusu alınan erkek ve kadın adaylar ayrı ayrı olmak üzere en yüksek puandan en düşük puana doğru sıralanır ve o dönem için alınacak erkek ve kadın öğrenci kontenjanının on katına kadar aday şahsen müracaatta bulunmak üzere çağrılır. Şehit veya vazife malulü eş veya çocukları için bu hüküm uygulanmaz.
+(4) Eksik belge ve bilgi ile veya başvuru zamanı geçtikten sonra yapılan başvurular kabul edilmez.
+(5) Başvuruda bulunan adaylardan Başkanlıkça belirlenen miktarda sınav ücreti alınır. Ücretler Döner Sermaye İşletmesi Müdürlüğü hesabına yatırılır. Şehit veya vazife malulü eş veya çocuklarından sınav ücreti alınmaz.

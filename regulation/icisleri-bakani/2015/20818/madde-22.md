@@ -1,0 +1,4 @@
+Kesin kayıt-kabul
+MADDE 22 – (1) Geçici kaydı yapılan adayların 8 inci maddede belirtilen esaslara göre POMEM Müdürlüklerince güvenlik soruşturması ve arşiv araştırması tamamlattırılır. Güvenlik soruşturması ve arşiv araştırması ile sağlık kurulu raporu sonucu olumlu olan adayların kesin kayıtları yapılır.
+(2) Güvenlik soruşturması ve arşiv araştırması olumsuz olan veya Sağlık Yönetmeliğinde belirtilen nitelikleri taşımadıkları anlaşılan, istifa eden ya da vefat eden adayların dosyaları POMEM Müdürlüğü tarafından Başkanın onayı ile işlemden kaldırılmak üzere Başkanlığa gönderilir.
+(3) Adaylardan, eğitim-öğretim döneminin başlangıcına kadar, noterden tasdikli yüklenme senedi getirilmesi istenir, yüklenme senedinin getirilmemesi hâlinde adayın dosyası işlemden kaldırılmak üzere Başkanlığa gönderilir. Yüklenme senedi miktarı, her eğitim-öğretim dönemi için Başkanlık tarafından belirlenir.
