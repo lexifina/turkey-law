@@ -1,0 +1,4 @@
+Yönetim Kurulu
+MADDE 10- (1) Yönetim Kurulu; Müdür ve müdür yardımcıları ile Müdürün önerisi üzerine Üniversitenin Mühendislik Fakültesi Yapay Zeka ve Veri Bilimi Mühendisliği ve Bilgisayar Mühendisliği öğretim üyeleri arasından Rektör tarafından görevlendirilen iki üye olmak üzere en fazla beş üyeden oluşur.
+(2) Yönetim Kurulu üyelerinin görev süresi üç yıldır. Görev süresi biten üyelerin yerine yeni üye görevlendirilir ya da görev süresi biten üye yeniden görevlendirilebilir. Süresi bitmeden ayrılanların veya görev değişikliği olanların yerine kalan süreyi tamamlamak üzere aynı usulle yeni üyeler görevlendirilir.
+(3) Yönetim Kurulu, Müdürün çağrısı ile ayda en az bir kere üye tamsayısının salt çoğunluğuyla toplanır ve kararlar toplantıya katılanların salt çoğunluğuyla alınır. Müdür, Merkez çalışmalarının düzenli olarak yürütülmesinden ve koordinasyonun sağlanmasından Yönetim Kuruluna karşı sorumludur.
