@@ -1,0 +1,4 @@
+Öğrenci kabul-kayıt şartları
+MADDE 9 – (1) Fakülteye, Yükseköğretim Kurulu (YÖK) tarafından belirlenen esaslara göre öğrenci kabul edilir. Kayıt için istenen belgelerin aslı veya Üniversite tarafından onaylı örneği kabul edilir. Askerlik durumuna ilişkin olarak adayın beyanına dayanılarak işlem yapılır.
+(2) Fakültede kayıt yenileme süresi Üniversite akademik takviminde belirlenen süreler içerisinde yapılır. Bu süre içerisinde kaydını yenilemeyen öğrencilerin haklı ve geçerli sebeplere dayanan mazeretlerinin kabulüne ve kayıtlarının yenilenip yenilenmemesine Fakülte Yönetim Kurulunca karar verilir.
+(3) Herhangi bir nedenle kayıt yenilemeyen ve 2547 sayılı Kanunun 44 üncü maddesinde yer alan öğrenim süreleri doğrultusunda 2547 sayılı Kanunun 46 ncı maddesi hükümlerine göre katkı payı/öğrenim ücreti ile ilgili yükümlülükleri yerine getirmeyen öğrenci, o dönemdeki derslere devam edemez, sınavlara giremez ve diğer öğrencilik haklarından yararlanamaz.

@@ -1,0 +1,3 @@
+İzinler
+MADDE 15 – (1) İzinler, öğrencilerin Fakülte Yönetim Kurulu kararı ile geçici bir süre için kayıtlı oldukları döneme ait eğitimlerine ara vermeleridir. İlgili mevzuat hükümleriyle belirlenen süreler dışında, öğrencilere bir defaya mahsus olmak üzere en fazla bir yıla kadar izin verilebilir. İzin için başvurunun, öngörülmeyen ve zorunlu haller dışında, akademik yıl başlamadan önce yapılması gerekir. İzinli öğrencilerin tüm hakları saklı tutulur.
+(2) Üniversite Yönetim Kurulu ve Senato tarafından kabul edilebilecek diğer haller dışında öğrencinin her türlü izin isteğinin kabulüne veya reddine Fakülte Yönetim Kurulunca karar verilir.

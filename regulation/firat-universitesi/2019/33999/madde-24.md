@@ -1,0 +1,2 @@
+Kredi
+MADDE 24 – (1) Ders ve her türlü uygulamanın öğretim bakımından değerlendirilmesi, kredi üzerinden yapılır. Kredi, Yükseköğretim Yeterlilikler Çerçevesine göre öğrencinin kazanacağı bilgi, beceri ve yetkinliklere o dersin katkısını ifade eden kazanımları ile belirlenmiş teorik ve uygulamalı ders saatleri ve öğrenciler için öngörülen diğer faaliyetleri kapsayan çalışma saatleri de göz önünde bulundurularak belirlenir. Her bir eğitim-öğretim yılı için asgari kredi 60’tır. Diploma için gerekli olan asgari ders kredisi toplamı 360 kredidir.

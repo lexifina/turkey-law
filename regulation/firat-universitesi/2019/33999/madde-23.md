@@ -1,0 +1,3 @@
+Ortak zorunlu dersler
+MADDE 23 – (1) Fakültede, Üniversite yetkili birimlerince belirlenen süre içinde Atatürk İlkeleri ve İnkılap Tarihi, Türk Dili ve yabancı dil dersleri ortak zorunlu ders olarak verilir.
+(2) Ortak zorunlu dersler ve bu derslerin sınavları Üniversite tarafından belirlenen şekilde ve zamanda yapılır. Bu derslere ilişkin başarı notu 60 puan ve üzeridir. Ancak öğrenciler III’üncü dönemin sonuna kadar ortak zorunlu derslerden açılan sınavlara girerek başarılı olamadıkları takdirde IV’üncü döneme geçemezler. Zorunlu olmayan seçmeli dersler kredisiz olarak isteyen öğrenciler tarafından alınabilir.
