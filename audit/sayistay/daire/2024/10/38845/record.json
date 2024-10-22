@@ -1,0 +1,17 @@
+{
+  "kind": "decision",
+  "issuer": "Sayıştay 2. Dairesi",
+  "number": "35800",
+  "decision_date": "2024-10-22",
+  "source_id": 38845,
+  "chamber": "2",
+  "ilam_number": "327",
+  "item_number": 1,
+  "public_body_type": "Diğer Özel Bütçeli İdareler",
+  "account_year": 2018,
+  "subject": "İhale Mevzuatı ile İlgili Kararlar",
+  "source": "https://www.sayistay.gov.tr/KararlarDaire/Detay/38845/",
+  "source_sha256": "71f524216a78f2fed7ec345164ff4576497cdc427167a00e89fd66b9fe30c447",
+  "text_status": "as-enacted",
+  "text_file": "metin.md"
+}

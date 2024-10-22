@@ -1,0 +1,13 @@
+Hakediş
+
+... sayılı ek ilamın 12’nci maddesinde, ... San. Tic. A.Ş. yüklenimindeki “... Yapımı” işinde; kullanımından vazgeçilen boruların analizlerden çıkarılması işleminde, Yapım İşleri Genel Şartnamesine aykırı olarak eski borulara ihale tenzilatı uygulanarak bulunan yeni boru fiyatlarının hatalı hesaplanması sonucu oluşan ... TL kamu zararının Harcama Yetkilisi (...) ..., Gerçekleştirme Görevlisi (...) ... ve Diğer Sorumlular (Mühendis) ..., (...Şube Müdürü) ..., (...) ..., (...) ...., (... Şube Müdürü) ..., (Mühendis) ..., (Mühendis) ..., (Mühendis) ... ve (....) ...’e müştereken ve müteselsilen 6085 sayılı Sayıştay Kanunu’nun 53’üncü maddesi gereği işleyecek faizleriyle birlikte ödettirilmesine,
+
+Karar verilmişti.
+
+Bahse konu hükme ilişkin olarak Gerçekleştirme Görevlisi (...) ... ve Harcama Yetkilisi (...) ... tarafından Temyiz Kuruluna gönderilen dilekçelerde özetle; Sayıştay ilamında belirtilen kamu zararı tutarının, sorgu aşamasında iken ... tarihinde onaylanan kesin hakediş raporundan sorgu öncesi fiyatlar minha edilmek ve sorgu gereği belirlenen fiyatlarla hakedişe yeniden dahil edilmek suretiyle karar tarihinden önce giderildiği belirtilmiştir. Sorumluların dilekçeleri üzerine Temyiz Kurulu tarafından verilen ... tarih ve ... Tutanak no.lu kararda ise yapılan tahsilat temyiz konusu olmayıp yargılamanın iadesiyle ilgili olduğundan yapılacak işlem bulunmadığına hükmedilmiştir.
+
+Temyiz Kurulunun söz konusu kararı ile Dairemizde gelen ilgili dilekçe ve eki belgelerin incelemesi sonucunda, ... sayılı ek ilamın 12’nci maddesiyle tazminine karar verilen toplam ... TL’nin ... tarihinde onaylanan ... tarihli ... no.lu Kesin Hakedişte sorgu öncesi fiyatlar minha edilmek ve sorgu gereği belirlenen fiyatlarla hakedişe yeniden dahil edilmek suretiyle tahsil edildiği, tahsilatın ... no.lu ek ilamın hüküm tarihi olan ... tarihinden önce gerçekleştirilmiş olduğu görülmüştür.
+
+Bu itibarla ... San. Tic. A.Ş. yüklenimindeki “... Yapımı” işinde; kullanımından vazgeçilen boruların analizlerden çıkarılması işleminde, Yapım İşleri Genel Şartnamesine aykırı olarak eski borulara ihale tenzilatı uygulanarak bulunan yeni boru fiyatlarının hatalı hesaplanması sonucu oluşan ... TL kamu zararının hüküm tarihinden önce tahsil edilmesi nedeniyle sorumlulara sorumluluk tevcih edilmesi mümkün görülmediğinden, bu tutarın sorumluların uhdelerinden 6085 sayılı Sayıştay Kanunu’nun 56’ncı maddesinin ikinci fıkrasının (ç) bendi hükmü gereğince yargılamanın iadesi yoluyla kaldırılmasına ve ilişilecek bir husus bulunmadığına,
+
+İşbu ilamın tebliğ tarihinden itibaren altmış gün içerisinde 6085 sayılı Sayıştay Kanunu’nun 55’inci maddesi uyarınca Sayıştay Temyiz Kurulu nezdinde temyiz yolu açık olmak üzere oy birliğiyle,
