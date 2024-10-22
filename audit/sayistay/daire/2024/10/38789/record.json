@@ -1,0 +1,17 @@
+{
+  "kind": "decision",
+  "issuer": "Sayıştay 7. Dairesi",
+  "number": "619",
+  "decision_date": "2024-10-22",
+  "source_id": 38789,
+  "chamber": "7",
+  "ilam_number": "11",
+  "item_number": 1,
+  "public_body_type": "Özel İdareler",
+  "account_year": 2023,
+  "subject": "Personel Mevzuatı ile İlgili Kararlar",
+  "source": "https://www.sayistay.gov.tr/KararlarDaire/Detay/38789/",
+  "source_sha256": "47a6c57a712d89fcce8f2b742d2a5d3147bfcd50f3863f1c3c53543ad7bdce66",
+  "text_status": "as-enacted",
+  "text_file": "metin.md"
+}
