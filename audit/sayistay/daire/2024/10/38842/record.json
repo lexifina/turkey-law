@@ -1,0 +1,17 @@
+{
+  "kind": "decision",
+  "issuer": "Sayıştay 2. Dairesi",
+  "number": "35799",
+  "decision_date": "2024-10-22",
+  "source_id": 38842,
+  "chamber": "2",
+  "ilam_number": "396",
+  "item_number": 1,
+  "public_body_type": "Yüksek Öğretim Kurumları",
+  "account_year": 2017,
+  "subject": "Çeşitli Konuları İlgilendiren Kararlar",
+  "source": "https://www.sayistay.gov.tr/KararlarDaire/Detay/38842/",
+  "source_sha256": "4bf0d716340bea8b945fbc432aece97750ab4a0e4512d10c733c5677b161ec3a",
+  "text_status": "as-enacted",
+  "text_file": "metin.md"
+}
