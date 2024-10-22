@@ -1,0 +1,17 @@
+{
+  "kind": "decision",
+  "issuer": "Sayıştay 7. Dairesi",
+  "number": "618",
+  "decision_date": "2024-10-22",
+  "source_id": 38778,
+  "chamber": "7",
+  "ilam_number": "16",
+  "item_number": 1,
+  "public_body_type": "Yüksek Öğretim Kurumları",
+  "account_year": 2023,
+  "subject": "İhale Mevzuatı ile İlgili Kararlar",
+  "source": "https://www.sayistay.gov.tr/KararlarDaire/Detay/38778/",
+  "source_sha256": "d058a46d576277c6d8b247959c9fd31a75b3690f675ef543029a99dbd7f96541",
+  "text_status": "as-enacted",
+  "text_file": "metin.md"
+}
