@@ -1,0 +1,17 @@
+{
+  "kind": "decision",
+  "issuer": "Sayıştay 3. Dairesi",
+  "number": "504",
+  "decision_date": "2024-10-22",
+  "source_id": 38800,
+  "chamber": "3",
+  "ilam_number": "167",
+  "item_number": 1,
+  "public_body_type": "Yüksek Öğretim Kurumları",
+  "account_year": 2020,
+  "subject": "Vergi Resmi Harç ve Diğer Gelirlerle İlgili Kararlar",
+  "source": "https://www.sayistay.gov.tr/KararlarDaire/Detay/38800/",
+  "source_sha256": "23fc26fc6d7d876704660ca60f892daa773f8d8293b840eef8ca8ed47ee72784",
+  "text_status": "as-enacted",
+  "text_file": "metin.md"
+}
