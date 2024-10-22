@@ -1,0 +1,31 @@
+{
+  "source_id": "7.5.41049",
+  "kind": "regulation",
+  "register_kind": "Kurum ve Kuruluş Yönetmelikleri",
+  "title": "MİLLÎ EĞİTİM BAKANLIĞI AÇIK ÖĞRETİM KURUMLARI YÖNETMELİĞİ",
+  "number": "41049",
+  "issuer": "Millî Eğitim Bakanı",
+  "issuer_slug": "milli-egitim-bakani",
+  "path": "regulation/milli-egitim-bakani/2024/41049",
+  "source": "https://www.mevzuat.gov.tr/anasayfa/MevzuatFihristDetayIframe?MevzuatTur=7&MevzuatNo=41049&MevzuatTertip=5",
+  "source_sha256": "e4e0fec919f6b54f1ec4ac2793618eae7bf08bd70042f7f4f9bed89fa4dd5b77",
+  "source_bytes": 203137,
+  "published": "2024-10-22",
+  "gazette": "32700",
+  "in_force": "2024-10-22",
+  "in_force_basis": "Resmî Gazete publication date in the official listing (22.10.2024); own commencement article: \"Bu Yönetmelik yayımı tarihinde yürürlüğe girer\"",
+  "commencement_clauses": [
+    "Bu Yönetmelik yayımı tarihinde yürürlüğe girer"
+  ],
+  "history": "current-text",
+  "label": "oldest version available",
+  "checked_on": "2026-11-15",
+  "word_count": 11373,
+  "text_status": "current-consolidated",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  },
+  "completeness": "html-text-complete"
+}
