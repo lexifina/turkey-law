@@ -1,0 +1,21 @@
+{
+  "record_type": "parliament-written-question",
+  "term": 28,
+  "legislative_year": 3,
+  "esas_no": "7/18487",
+  "submitted": "2024-10-22",
+  "submitted_as": "Başkanlığa geliş tarihi",
+  "mp": "Ceylan AKÇA CUPOLO",
+  "province": "Diyarbakır",
+  "summary": "9 Temmuz 2018 tarihinden itibaren Cumhurbaşkanı kararlarının yer aldığı Resmi Gazete sayısına ilişkin",
+  "status": "Cevaplandı",
+  "status_as_of": "2026-11-16",
+  "official_record": "https://www.tbmm.gov.tr/Denetim/Yazili-Soru-Onergesi-Detay/e8754b61-1e34-496b-a0b5-0192b82c6dee",
+  "source": "https://tbmm.gov.tr/Denetim/YaziliSoruOnergesiTable",
+  "source_form": "https://tbmm.gov.tr/Denetim/Yazili-Soru-Onergeleri",
+  "source_sha256": "1a16d98d5109219e8de32af13625e467d2763a821703ab291c4cf6339d6dc340",
+  "in_force": "2024-10-22",
+  "in_force_basis": "Date the question reached the Speaker (Başkanlığa geliş tarihi) in the official TBMM written-question record; parliamentary oversight record, not law",
+  "history_type": "metadata",
+  "text_status": "metadata-only: question text, addressee and answers are in the linked official record (PDFs on cdn.tbmm.gov.tr); not transcribed here"
+}
