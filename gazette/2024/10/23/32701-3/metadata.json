@@ -1,0 +1,20 @@
+{
+  "record_type": "gazette-item",
+  "gazette": "Resmî Gazete",
+  "jurisdiction": "TR",
+  "date": "2024-10-23",
+  "issue": "32701",
+  "edition": "regular",
+  "item": 3,
+  "section": "YÜRÜTME VE İDARE BÖLÜMÜ",
+  "heading": "YÖNETMELİKLER",
+  "title": "Beşeri Tıbbi Ürünler ve Özel Tıbbi Amaçlı Gıdaların Geri Çekilmesi Hakkında Yönetmelik",
+  "official_link": "https://www.resmigazete.gov.tr/eskiler/2024/10/20241023-3.htm",
+  "link_format": "htm",
+  "index_url": "https://www.resmigazete.gov.tr/eskiler/2024/10/20241023.htm",
+  "index_sha256": "dcfbc9f0940f3e96e6cdc340d43d761bfe5613ee7fbdda6e60081af70e1059fb",
+  "index_header": "23 Ekim 2024 ... 32701 Sayılı Resmî Gazete",
+  "issue_pdf": "https://www.resmigazete.gov.tr/eskiler/2024/10/20241023.pdf",
+  "in_force_basis": "Resmî Gazete publication date; not a commencement reading.",
+  "text_status": "metadata-only; text not yet fetched (follow-up pass adds it as its own commit)"
+}
