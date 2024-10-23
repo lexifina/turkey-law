@@ -1,0 +1,21 @@
+{
+  "record_type": "parliament-written-question",
+  "term": 28,
+  "legislative_year": 3,
+  "esas_no": "7/18582",
+  "submitted": "2024-10-23",
+  "submitted_as": "Başkanlığa geliş tarihi",
+  "mp": "Aysu BANKOĞLU",
+  "province": "Bartın",
+  "summary": "Son 5 yılda yurt dışına gidip ülkeye dönmeyen Türk vatandaşlarına ilişkin",
+  "status": "Süresi Geçtikten Sonra Cevaplandı",
+  "status_as_of": "2026-11-16",
+  "official_record": "https://www.tbmm.gov.tr/Denetim/Yazili-Soru-Onergesi-Detay/6bebed61-eb63-4e82-9998-0192ba8be926",
+  "source": "https://tbmm.gov.tr/Denetim/YaziliSoruOnergesiTable",
+  "source_form": "https://tbmm.gov.tr/Denetim/Yazili-Soru-Onergeleri",
+  "source_sha256": "435f57f0f4044b49ad02f34ea6753b74cf8991ec4c036e1fc345a42a0e92ec20",
+  "in_force": "2024-10-23",
+  "in_force_basis": "Date the question reached the Speaker (Başkanlığa geliş tarihi) in the official TBMM written-question record; parliamentary oversight record, not law",
+  "history_type": "metadata",
+  "text_status": "metadata-only: question text, addressee and answers are in the linked official record (PDFs on cdn.tbmm.gov.tr); not transcribed here"
+}
