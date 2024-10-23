@@ -1,0 +1,16 @@
+{
+  "kind": "decision",
+  "issuer": "Sayıştay Temyiz Kurulu",
+  "number": "57326",
+  "decision_date": "2024-10-23",
+  "source_id": 31876,
+  "chamber": "7",
+  "file_number": "48796",
+  "public_body_type": "Belediyeler ve Bağlı İdareler",
+  "account_year": "2018",
+  "subject": "Personel Mevzuatı ile İlgili Kararlar",
+  "source": "https://www.sayistay.gov.tr/KararlarTemyiz/Detay/31876/",
+  "source_sha256": "82a6d6ab07b2d298561be324c5d5f92bd0f1c32bbb766c64d77a502c6c45f6c9",
+  "text_status": "metadata-only",
+  "metadata_only_reason": "possible personal name in the official text"
+}
