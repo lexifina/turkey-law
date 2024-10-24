@@ -1,0 +1,20 @@
+{
+  "applicant": "C.S.",
+  "application_date": "2019-03-27",
+  "application_number": "2019/10171",
+  "deciding_unit": "Genel Kurul",
+  "decision_date": "2024-07-04",
+  "id": "67e79bee-936a-8e89-f06d-b6c0414fa415",
+  "in_force": "2024-10-24",
+  "in_force_basis": "official Resmî Gazete date",
+  "kind": "constitutional-court-individual-application",
+  "omitted_images": 0,
+  "outcome": "Kabul Edilemezlik vd.",
+  "published": "2024-10-24",
+  "referenced_images": 0,
+  "source": "https://kararlarbilgibankasi.anayasa.gov.tr/kbb/pages/search/Tumu?id=a2JiOjY3ZTc5YmVlLTkzNmEtOGU4OS1mMDZkLWI2YzA0MTRmYTQxNQ&type=BireyselBasvuru",
+  "source_api": "https://kararlarbilgibankasi.anayasa.gov.tr/api/core/public/search",
+  "source_images": 0,
+  "source_sha256": "9f81b53ab294626c23b6058c0d096dc48a3d39759e1597c79918016ef46326b6",
+  "version_label": "as-enacted"
+}
