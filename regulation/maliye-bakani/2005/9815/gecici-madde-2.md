@@ -1,0 +1,1 @@
+Geçici Madde 2- 5018 sayılı Kamu Malî Yönetimi ve Kontrol Kanununun 44 üncü maddesinde öngörülen Yönetmelik yürürlüğe girinceye kadar Türk Silahlı Kuvvetlerinin taşınır mal işlemlerinde Ordu Mal Yönetmeliği hükümlerinin uygulanmasına devam olunur.

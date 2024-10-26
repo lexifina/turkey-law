@@ -1,0 +1,96 @@
+{
+  "source_id": "7.5.9815",
+  "kind": "regulation",
+  "register_kind": "Kurum ve Kuruluş Yönetmelikleri",
+  "title": "MERKEZÎ YÖNETİM HARCAMA BELGELERİ YÖNETMELİĞİ",
+  "number": "9815",
+  "issuer": "Maliye Bakanı",
+  "issuer_slug": "maliye-bakani",
+  "path": "regulation/maliye-bakani/2005/9815",
+  "source": "https://www.mevzuat.gov.tr/anasayfa/MevzuatFihristDetayIframe?MevzuatTur=7&MevzuatNo=9815&MevzuatTertip=5",
+  "source_sha256": "7e539ae189e124858e1949c825f02b9e3ae45695fe4d741bf9bed14fe57fef27",
+  "source_bytes": 267056,
+  "published": "2005-12-31",
+  "gazette": "26040 (3. Mükerrer)",
+  "in_force": "2024-10-26",
+  "in_force_basis": "latest Resmî Gazete date printed in the source amendment notes/table (\"RG-26/10/2024\") for the current consolidated text",
+  "date_evidence": [
+    [
+      "2024-10-26",
+      "RG-26/10/2024",
+      "Resmî Gazete date printed in the source amendment note"
+    ],
+    [
+      "2024-10-26",
+      "26/10/2024",
+      "Resmî Gazete date in the source amendment table"
+    ],
+    [
+      "2021-07-29",
+      "RG-29/7/2021",
+      "Resmî Gazete date printed in the source amendment note"
+    ],
+    [
+      "2021-07-29",
+      "29/7/2021",
+      "Resmî Gazete date in the source amendment table"
+    ],
+    [
+      "2017-10-11",
+      "RG-11/10/2017",
+      "Resmî Gazete date printed in the source amendment note"
+    ],
+    [
+      "2017-10-11",
+      "11/10/2017",
+      "Resmî Gazete date in the source amendment table"
+    ],
+    [
+      "2016-11-05",
+      "RG-5/11/2016",
+      "Resmî Gazete date printed in the source amendment note"
+    ],
+    [
+      "2016-11-05",
+      "5/11/2016",
+      "Resmî Gazete date in the source amendment table"
+    ],
+    [
+      "2013-11-16",
+      "RG-16/11/2013",
+      "Resmî Gazete date printed in the source amendment note"
+    ],
+    [
+      "2013-11-16",
+      "16/11/2013",
+      "Resmî Gazete date in the source amendment table"
+    ],
+    [
+      "2012-04-03",
+      "RG-3/4/2012",
+      "Resmî Gazete date printed in the source amendment note"
+    ],
+    [
+      "2012-04-03",
+      "3/4/2012",
+      "Resmî Gazete date in the source amendment table"
+    ]
+  ],
+  "commencement_clauses": [
+    "Bu Yönetmelik 1/1/2006 tarihinde yürürlüğe girer"
+  ],
+  "history": "current-text",
+  "label": "oldest version available",
+  "checked_on": "2026-11-15",
+  "word_count": 11092,
+  "text_status": "current-consolidated",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  },
+  "source_links": [
+    "7.5.9815-Ek.xls"
+  ],
+  "completeness": "html-text-complete; linked annexes not fetched"
+}

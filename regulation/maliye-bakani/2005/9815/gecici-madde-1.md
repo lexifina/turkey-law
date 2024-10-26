@@ -1,0 +1,1 @@
+Geçici Madde 1- Taşınır Mal Yönetmeliği yürürlüğe girinceye kadar bu Yönetmelikte geçen taşınır işlem fişi yerine, Ayniyat Talimatnamesi ekinde yer alan ayniyat tesellüm makbuzu veya idarelerin özel mevzuatlarında bu makbuz yerine kullanılması öngörülen belge düzenlenir.

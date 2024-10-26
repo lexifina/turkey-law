@@ -1,0 +1,4 @@
+Hakediş raporu
+Madde 7 –İhale veya doğrudan temin usulüyle yapılacak yapım işleri ile hizmet alımlarında, sözleşme hükümlerine göre yerine getirilen taahhütlerin bedellerinin ödenmesinde aşağıda belirtilen hakediş raporları düzenlenir.
+a) Yapım İşleri Hakediş Raporu (Örnek: 3 ) : Bu rapor, yapım işlerinde yükleniciye ödenecek ara ve kesin hakediş tutarının hesaplanmasına esas olan belgelerden oluşur. Yapım türüne göre ilgili sayfaları ve gerekli görülen diğer belgeler düzenlenerek yüklenici ve yapı denetim elemanlarınca imzalanır, yetkili makamca onaylanır.
+b) Hizmet İşleri Hakediş Raporu (Örnek: 4) : Bu rapor, hizmet işlerinde yükleniciye ödenecek ara ve kesin hakediş tutarının hesaplanmasına esas olan belgelerden oluşur. Hizmet türüne ve işin özelliğine göre yalnızca ilgili sayfaları ve gerekli görülen diğer belgeler düzenlenerek yüklenici ve kontrol elemanlarınca imzalanır, yetkili makamca onaylanır.
