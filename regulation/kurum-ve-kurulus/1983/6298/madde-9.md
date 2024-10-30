@@ -1,0 +1,4 @@
+BAŞKANLAR KURULLARINDA BAŞKANLIK GÖREVİ
+MADDE 9- Başkanlar kurullarına Birinci Başkanın başkanlık süresi asıldır.
+Birinci Başkanın bulunmadığı hallerde Başkanlar Kurulunda başkanlık görevi, birinci başkanvekillerinden kıdemlisi, bulunmaması halinde diğer başkavekili, onun da bulunmaması halinde ise kurula katılan daire başkanlarından kıdemli olanı tarafından yerine getirilir.
+Hukuk ve Ceza Daireleri Başkanlar Kurullarında Birinci Başkanın bulunmadığı hallerde, Hukuk Daireleri Başkanlar Kuruluna hukuk dairelerinden seçilen Birinci Başkanvekili; Ceza Daireleri Başkanlar Kuruluna, ceza dairelerinden seçilen Birinci Başkanvekili başkanlık yapar, ilgili birinci başkanvekilin bulunmaması halinde diğer başkanvekili, onunda bulunmaması halinde en kıdemli daire başkanı başkanlık görevini yerine getirir.

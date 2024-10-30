@@ -1,0 +1,3 @@
+BAŞKANLAR KURULU KARARLARININ YAYIMLANMASI
+MADDE 33 - Başkanlar Kurulunun yukarıki madde gereğince aldığı kararların birer örneği tüm mahkemelere duyurulmak üzere Adalet Bakanlığına, bilgi için daire başkanlıklarına, Yargıtay Cumhuriyet Başsavcılığına, Yargıtay Kararları Dergisinde yayımlanması için Yayın işleri Müdürlüğüne, barolara ve avukatlara duyurulmasını sağlamak üzere Türkiye Barolar Birliği Başkanlığına gönderilir ve Yargıtay Kanununun 58, maddesi gereğince Resmî Gazete'de yayımlanır.
+Başkanlar Kurulunun görev ve iş uyuşmazlığına ilişkin emsal nitelikteki kararları ise Yargıtay Dergisi'nde yayımlanır ve ayrıca birer örneği ilgili daire başkanlıkları ile Yargıtay Cumhuriyet Başsavcılığına gönderilir.

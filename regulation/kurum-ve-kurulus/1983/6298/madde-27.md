@@ -1,0 +1,4 @@
+HUKUK VE CEZA GENEL KURULLARINDA ÖN SORUN
+MADDE 27- Genel kurullarda işin esasına girmeden önce, konu ile ilgili olarak çözülmesi gereken bir ön sorun ortaya çıkarsa ilkin o yönden görüşme ve oylama yapılır. Oylama sonucu ön sorun karara bağlandığı takdirde, gerekiyorsa işin esasına geçilerek görüşmesi yapılır ve oylanır.
+Ön sorun oylaması sonucu, bir üyenin düşüncesine aykırı düşmüş olsa dahi o üye de işin esası hakkında oy vermek zorundadır. Oylar sorunu çözümleyici nitelikte kullanılır.
+Bir toplantıda ön sorun kurulun oylan ile karara bağlanmış ve ancak işin esası üzerindeki görüşmelerde yeterli oy sağlanamaması nedeniyle ikinci kez görüşme gerekmiş ise, bu takdirde ön sorun oylaması ve kararı geçerli olup, bu konuda yeniden görüşme yapılamaz. Bu durumda önsorun oylamasına katılan üyeler belli edilerek tutanakla saptanır ve son kararda da bu yön açıklanır.

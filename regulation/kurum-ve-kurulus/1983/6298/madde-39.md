@@ -1,0 +1,3 @@
+BÖLÜMLERDE GÖREVLENDİRME
+MADDE 39- Yargıtay Cumhuriyet Başsavcı yardımcılarının görev alacakları bölümler, işlerin niteliği, sayısı gözönünde tutularak Yargıtay Cumhuriyet Başsavcısı tarafından belli edilir ve gereğine göre de değiştirilir. Ancak, bölümlerin iş durumu, gelen iş sayısı ve yardımcıların eksilmesi gibi nedenlerle iş birikimine meydan vermemek amacıyla Yargıtay Cumhuriyet Başsavcı yardımcılarına bölümlerinin görevi dışında kalan işler de verilebilir.
+Yargıtay Cumhuriyet Başsavcısı bölümlerde yardımcılarından biri veya bir kaçını belli konulu dosyaları incelemekle görevlendirilebilir.

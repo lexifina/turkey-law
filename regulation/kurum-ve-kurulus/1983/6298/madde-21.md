@@ -1,0 +1,4 @@
+DAİRE KURULUNDA GÖRÜŞMELERİN YÖNTEMİ
+MADDE 21- Daire kurulunda görüşmeler başkan tarafından yönetilir. Görevliler raporlarını okur ve gerekli açıklamaları yaptıktan sonra sonu hakkındaki düşüncesini gerekçesi ile kurula bildirirler. Eksik kalan yönler görevliye tamamlattırılır.
+Görüşmelerin yeterliliğini başkan takdir eder. Ancak, konunun aydınlığa kavuşması için görüşmelere devam edilmesi üyeler tarafından istenildiği takdirde başkan bu isteğe katılmaz ise, bu sorun kurulda bulunanların çoğunluk oyları ile çözülür.
+İşin daha derinlemesine incelenmesi ve bu konuda bir araştırma yapılması gerekiyor ve bu yön kurulca zorunlu görülüyorsa, başkan görüşmeyi bir başka güne bırakır. Bu durumda, inceleme ve araştırma başkan veya onun görevlendireceği bir üye tarafından yapılabilir. Kurulun sonraki toplantılarına engelleri bulunmadıkça aynı üyeler katılırlar. İşin ikinci görüşmesi başkanların saptayacağı en yakın bir tarihte yapılır.

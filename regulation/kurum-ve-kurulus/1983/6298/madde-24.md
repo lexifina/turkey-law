@@ -1,0 +1,4 @@
+GENEL KURULLARIN GÜNDEMİ
+MADDE 24- Genel Kurullarda görüşülecek işlerin gündemi bu kurullara başkanlık edecek başkan tarafından toplantı gününden en az bir hafta önce düzenlettirilerek dairelere üye adedine göre dağıtılır, itiraz ettiği işlerde Ceza Genel Kurulu gündemi ayrıca Yargıtay Cumhuriyet Başsavcılığına da verilir. Gündemlerde görüşülecek dosyalardaki maddî olay, bozma ve direnme ile temyiz nedenleri özet olarak anlaşılır biçimde belli edilir.
+Başkan ve üyeler, dilerlerse görüşülecek işlerin dosyalarını inceleyebilirler.
+Gündemin düzenlenmesinde, görüşülecek işlerin kurulların esas defterindeki sıra numarası esas alınır. Ancak, kurul başkanı bu sırayı değiştirmeye yetkilidir. Acele işler ve kurul başkanının yaptığı değişiklik dışında bu sıra bozulamaz. Kanunların belli ettiği acele işler dışında dairelerce acele görüşülmesi kabul edilen işler, genel kurullarda da aynı nitelikte sayılır.
