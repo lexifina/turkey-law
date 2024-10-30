@@ -1,0 +1,21 @@
+{
+  "record_type": "parliament-written-question",
+  "term": 28,
+  "legislative_year": 3,
+  "esas_no": "7/18875",
+  "submitted": "2024-10-30",
+  "submitted_as": "Başkanlığa geliş tarihi",
+  "mp": "Öznur BARTİN",
+  "province": "Hakkari",
+  "summary": "Hakkari ili Şemdinli ilçesinde bulunan bir ortaokulda öğrencilere izletilen bir filme ilişkin",
+  "status": "Cevaplandı",
+  "status_as_of": "2026-11-16",
+  "official_record": "https://www.tbmm.gov.tr/Denetim/Yazili-Soru-Onergesi-Detay/48b0aa43-8c68-4f30-a9f8-0192e170c4be",
+  "source": "https://tbmm.gov.tr/Denetim/YaziliSoruOnergesiTable",
+  "source_form": "https://tbmm.gov.tr/Denetim/Yazili-Soru-Onergeleri",
+  "source_sha256": "7abde65407b6f8f9207f142c417e72c2e748cc0e4f8ac31437a6e447f6fd255e",
+  "in_force": "2024-10-30",
+  "in_force_basis": "Date the question reached the Speaker (Başkanlığa geliş tarihi) in the official TBMM written-question record; parliamentary oversight record, not law",
+  "history_type": "metadata",
+  "text_status": "metadata-only: question text, addressee and answers are in the linked official record (PDFs on cdn.tbmm.gov.tr); not transcribed here"
+}
