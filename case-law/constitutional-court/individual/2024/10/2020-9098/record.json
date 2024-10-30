@@ -1,0 +1,23 @@
+{
+  "applicant": null,
+  "application_date": "2020-03-03",
+  "application_number": "2020/9098",
+  "database_publication_date": "2025-02-06",
+  "deciding_unit": "İkinci Bölüm",
+  "decision_date": "2024-10-30",
+  "gazette_number": null,
+  "history_type": "metadata",
+  "id": "f05a2d5f-5d61-7a59-048d-32d6aa0ca44e",
+  "in_force": "2024-10-30",
+  "in_force_basis": "official decision date",
+  "kind": "constitutional-court-individual-application",
+  "law_text_complete": false,
+  "outcome": "Kabul Edilemezlik vd.",
+  "privacy_withheld": "applicant is named as a private person in the official listing; name withheld",
+  "published": null,
+  "source": "https://kararlarbilgibankasi.anayasa.gov.tr/kbb/pages/search/Tumu?id=a2JiOmYwNWEyZDVmLTVkNjEtN2E1OS0wNDhkLTMyZDZhYTBjYTQ0ZQ&type=BireyselBasvuru",
+  "source_api": "https://kararlarbilgibankasi.anayasa.gov.tr/api/core/public/search",
+  "source_listing": "evidence/list/BireyselBasvuru-2024-01-01-2024-12-31-p3.json (official API answer, read 2026-11-15)",
+  "source_listing_sha256": "dc86f5fada063b7432edbd81b1bebb0b9d9c9616fb662a0382bd09c713d3faae",
+  "text_status": "metadata-only: official database listing fields; the decision text is on the linked official page, not transcribed (decision names a private person)"
+}
