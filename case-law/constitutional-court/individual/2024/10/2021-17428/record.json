@@ -1,0 +1,20 @@
+{
+  "applicant": "E.Ü.",
+  "application_date": "2021-03-12",
+  "application_number": "2021/17428",
+  "deciding_unit": "Birinci Bölüm",
+  "decision_date": "2024-10-31",
+  "id": "c65c9661-f3ee-4136-6da5-013dc3f95e04",
+  "in_force": "2024-10-31",
+  "in_force_basis": "official decision date",
+  "kind": "constitutional-court-individual-application",
+  "omitted_images": 0,
+  "outcome": "Kabul Edilemezlik vd.",
+  "published": null,
+  "referenced_images": 0,
+  "source": "https://kararlarbilgibankasi.anayasa.gov.tr/kbb/pages/search/Tumu?id=a2JiOmM2NWM5NjYxLWYzZWUtNDEzNi02ZGE1LTAxM2RjM2Y5NWUwNA&type=BireyselBasvuru",
+  "source_api": "https://kararlarbilgibankasi.anayasa.gov.tr/api/core/public/search",
+  "source_images": 0,
+  "source_sha256": "db2c0a4219793d5b1ccbfb399b23ce1414e341d0a005e0d1f15bd2f70a6e1efb",
+  "version_label": "as-enacted"
+}
