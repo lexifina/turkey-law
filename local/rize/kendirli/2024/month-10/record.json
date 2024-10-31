@@ -1,0 +1,28 @@
+{
+  "number": "month-10",
+  "year": 2024,
+  "month": 10,
+  "title": "2024 YILI EKİM AYI MECLİS KARAR ÖZETLERİ",
+  "decision_date": null,
+  "index_date": "2024-10-31",
+  "date_precision": "month",
+  "period": "Ekim 2024",
+  "source": "https://www.kendirli.bel.tr/karar/2024-yili-ekim-ayi-meclis-karar-ozetleri",
+  "official_page": "https://www.kendirli.bel.tr/karar/2024-yili-ekim-ayi-meclis-karar-ozetleri",
+  "official_document": "http://www.kendirli.bel.tr/uploads/files/207-2024%20Y%C4%B1l%C4%B1%20Ekim%20Ay%C4%B1%20Meclis%20Karar%20%C3%96zeti.pdf",
+  "source_sha256": "c1ad7b09ce6bfe7c9ebcab088b68460281f06a5caa33adad100059925b111046",
+  "issuer": "Kendirli Belediye Meclisi",
+  "history_type": "metadata",
+  "text_status": "metadata-only: listing fields as published; the decisions are in the linked official document(s) or page, not transcribed",
+  "in_force": "2024-10-31",
+  "in_force_basis": "The official listing gives only the month of this official file (Ekim 2024); date set to the last day of that month (turkey-law date convention for month-only sources); exact adoption dates are in the linked official document; legal commencement not asserted",
+  "missing": [
+    "decision numbers, dates and subjects",
+    "complete official decision text",
+    "official annexes"
+  ],
+  "law_text_complete": false,
+  "privacy_withheld": false,
+  "listing_label": "2024 YILI EKİM AYI MECLİS KARAR ÖZETLERİ",
+  "record_scope": "one official file of council decisions (meeting or month)"
+}
