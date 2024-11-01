@@ -1,0 +1,21 @@
+{
+  "record_type": "parliament-written-question",
+  "term": 28,
+  "legislative_year": 3,
+  "esas_no": "7/18990",
+  "submitted": "2024-11-01",
+  "submitted_as": "Başkanlığa geliş tarihi",
+  "mp": "Serhat EREN",
+  "province": "Diyarbakır",
+  "summary": "Bir futbol maçında bir takımın taraftarlarının stadyuma girişinin yasaklanmasına ilişkin",
+  "status": "Cevaplanmadığı Gelen Kağıtlarda İlan Edildi",
+  "status_as_of": "2026-11-16",
+  "official_record": "https://www.tbmm.gov.tr/Denetim/Yazili-Soru-Onergesi-Detay/d7896d2d-fbb2-4e28-b22f-0192f5e7d436",
+  "source": "https://tbmm.gov.tr/Denetim/YaziliSoruOnergesiTable",
+  "source_form": "https://tbmm.gov.tr/Denetim/Yazili-Soru-Onergeleri",
+  "source_sha256": "e9a3ffc257e838e7609f47926ac9ce69c42dea1306e4cd9175b8ead16853b7f9",
+  "in_force": "2024-11-01",
+  "in_force_basis": "Date the question reached the Speaker (Başkanlığa geliş tarihi) in the official TBMM written-question record; parliamentary oversight record, not law",
+  "history_type": "metadata",
+  "text_status": "metadata-only: question text, addressee and answers are in the linked official record (PDFs on cdn.tbmm.gov.tr); not transcribed here"
+}
