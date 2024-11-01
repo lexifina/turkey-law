@@ -1,0 +1,24 @@
+{
+  "number": "meeting-11-01",
+  "number_as_published": "meeting-11-01",
+  "year": 2024,
+  "title": "Meclis Kararı 01.11.2024 Tarihli Meclis Kararı 01.11.2024 Tarihli Meclis Kararı Detay Gör",
+  "decision_date": "2024-11-01",
+  "source": "https://www.kursunlu.bel.tr/karar/01-11-2024-tarihli-meclis-karari",
+  "official_document": "https://www.kursunlu.bel.tr/tema/genel/uploads/meclis_kararlari/dosya/01.11.2024-Tarihli-Meclis-Kararı.pdf",
+  "source_sha256": "563b88506256699584c8fa89e8f68876830ea64229d6c7a7ead9d66f15886e1d",
+  "issuer": "Kurşunlu Belediye Meclisi",
+  "history_type": "metadata",
+  "text_status": "metadata-only: listing fields as published; complete decision text is in the linked official document, not transcribed",
+  "in_force": "2024-11-01",
+  "in_force_basis": "Decision date as printed in the official council listing: 01.11.2024; adoption date of the council decision; legal commencement not asserted",
+  "missing": [
+    "complete official decision text",
+    "official annexes"
+  ],
+  "law_text_complete": false,
+  "privacy_withheld": false,
+  "listing_label": "Meclis Kararı 01.11.2024 Tarihli Meclis Kararı 01.11.2024 Tarihli Meclis Kararı Detay Gör",
+  "record_scope": "one official file of council decisions (meeting)",
+  "official_page": "https://www.kursunlu.bel.tr/karar/01-11-2024-tarihli-meclis-karari"
+}
