@@ -1,0 +1,20 @@
+{
+  "record_type": "gazette-item",
+  "gazette": "Resmî Gazete",
+  "jurisdiction": "TR",
+  "date": "2024-11-02",
+  "issue": "32710",
+  "edition": "regular",
+  "item": 3,
+  "section": "YASAMA BÖLÜMÜ",
+  "heading": "KANUN",
+  "title": "7530 Türkiye Cumhuriyeti Hükümeti ile Kırgız Cumhuriyeti Bakanlar Kurulu Arasında Kültür Merkezlerinin Kurulması ve İşleyişi Hakkında Anlaşmanın Onaylanmasının Uygun Bulunduğuna Dair Kanun",
+  "official_link": "https://www.resmigazete.gov.tr/eskiler/2024/11/20241102-3.htm",
+  "link_format": "htm",
+  "index_url": "https://www.resmigazete.gov.tr/eskiler/2024/11/20241102.htm",
+  "index_sha256": "fc6f13504ab575849ec38e3a5928176e111369b95b2334b7df9fb3f944d3b6f5",
+  "index_header": "2 Kasım 2024 ... 32710 Sayılı Resmî Gazete",
+  "issue_pdf": "https://www.resmigazete.gov.tr/eskiler/2024/11/20241102.pdf",
+  "in_force_basis": "Resmî Gazete publication date; not a commencement reading.",
+  "text_status": "metadata-only; text not yet fetched (follow-up pass adds it as its own commit)"
+}
