@@ -1,0 +1,7 @@
+Katılımcının sorumlulukları
+MADDE 14- (1) Katılımcıların 11 inci maddenin ikinci, üçüncü ve beşinci fıkralarında yer alan haller dışında programa devam etmesi zorunludur.
+(2) Katılımcıların 7 nci maddede yer alan başvuru/katılım şartlarını programa başvuru tarihinde, programa başlama tarihinde ve program süresince koruması zorunludur. Ancak 7 nci maddenin birinci fıkrasının (e) bendinde yer alan şartlardan uzun vadeli sigortalı olmamaya yönelik şartın programa başvuru ve başlama tarihinde, (g) bendinde belirtilen hane gelir şartının ise programa başlama tarihinde sağlanması yeterlidir.
+(3) Katılımcıların programa devam ederken 7 nci maddenin birinci fıkrasının (e) ve (f) bentleri kapsamında başka bir yerde sigortalı olması nedeniyle oluşabilecek sosyal güvenlik prim borcundan Kurum sorumlu tutulamaz.
+(4) Katılımcılar 7 nci maddede yer alan başvuru/katılım şartlarına yönelik durumlarında meydana gelen değişiklikleri, yersiz yararlanmaya mahal vermeyecek süre içerisinde yükleniciye ve il müdürlüğüne bildirmekle yükümlüdür.
+(5) Katılımcıların program içerisinde düzenlenen eğitimlere 11 inci maddenin üçüncü ve beşinci fıkralarında belirtilen haller dışında katılması zorunludur. Ancak aynı maddenin dördüncü fıkrası kapsamında onaylatılacak izin dilekçesinde yüklenici tarafından kabul edilen bir mazeret belirtilmesi durumunda eğitim günlerinde izin kullanabilir.
+(6) Katılımcıların ahlak ve iyi niyet kurallarına uymaları zorunludur.

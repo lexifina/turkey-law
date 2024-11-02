@@ -1,0 +1,23 @@
+Tanımlar ve kısaltmalar
+MADDE 3- (1) Bu Yönetmelikte yer alan;
+a) Aktif işgücü hizmetleri: İstihdamın korunmasına ve artırılmasına, işsizlerin mesleki niteliklerinin geliştirilmesine, işsizliğin azaltılmasına ve özel politika gerektiren grupların işgücü piyasasına kazandırılmasına yardımcı olmak üzere gerçekleştirilen faaliyetleri,
+b) ALO 170: Çalışma ve Sosyal Güvenlik İletişim Merkezini,
+c) Denetim Kurulu: 4 sayılı Cumhurbaşkanlığı Kararnamesinin 625 inci maddesinin altıncı fıkrası kapsamında oluşturulan ve Kurum tarafından yürütülen işgücü yetiştirme faaliyetlerini denetlemek üzere kurulan denetim kurullarını,
+ç) E-şube: Kurum tarafından sunulan hizmetlerin yer aldığı elektronik platformu,
+d) Genel Müdürlük: Türkiye İş Kurumu Genel Müdürlüğünü,
+e) Hizmet merkezi: Çalışma ve iş kurumu il müdürlüklerine bağlı olarak kurulan birimi,
+f) Hizmet sağlayıcı: Bu Yönetmelik kapsamındaki hizmetlerin sunumunda iş birliği yapılabilecek kamu kurum ve kuruluşlarını,
+g) İl müdürlüğü: Çalışma ve İş Kurumu İl Müdürlüğünü,
+ğ) İş birliği: Kurum ve hizmet sağlayıcı arasında sözleşmenin kurulmasıyla ortaya çıkan ilişkiyi,
+h) İşgücü Uyum Programı (İUP): Özel politika gerektiren gruplar başta olmak üzere işsizlerin istihdam edilebilirliğini artıracak bilgi, beceri, çalışma alışkanlığı ve disiplinini kazandırmak üzere aktif işgücü hizmetleri kapsamında kamu kurum ve kuruluşları ile iş birliği yapılarak düzenlenen ve 31/5/2006 tarihli ve 5510 sayılı Sosyal Sigortalar ve Genel Sağlık Sigortası Kanununun 5 inci maddesinin birinci fıkrasının (e) bendi kapsamında yer alan kursu,
+ı) İşsizlik Sigortası: Bir işyerinde çalışırken, çalışma istek, yetenek, sağlık ve yeterliliğinde olmasına rağmen, herhangi bir kasıt ve kusuru olmaksızın işini kaybeden sigortalılara işsiz kalmaları nedeniyle uğradıkları gelir kaybını belli süre ve ölçüde karşılayan işsizlik ödeneği, yarım çalışma ödeneği gibi programları,
+i) Katılımcı: İşgücü Uyum Programına katılan kursiyerleri,
+j) Kurum: Türkiye İş Kurumunu,
+k) Özel politika veya uygulama gerektiren gruplar: Diğer işsiz gruplarına göre istihdamında daha fazla güçlük çekilen engelli, kadın ve genç gibi grupları,
+l) Program: İşgücü Uyum Programını,
+m) SGK: Sosyal Güvenlik Kurumunu,
+n) Sigortalı: Kısa ve/veya uzun vadeli sigorta kolları bakımından adına prim ödenmesi gereken veya kendi adına prim ödemesi gereken kişiyi,
+o) Sistem: Düzenlenen faaliyetlere ilişkin iş ve işlemlerin elektronik ortamda yapılmasına imkân sağlayan Kurum bilgi işlem ağını,
+ö) Yönetim Kurulu: Türkiye İş Kurumu Yönetim Kurulunu,
+p) Yüklenici: Bu Yönetmelik kapsamındaki hizmetlerin yürütülmesi amacıyla sözleşme ve/veya protokol imzalanan hizmet sağlayıcıları,
+ifade eder.
