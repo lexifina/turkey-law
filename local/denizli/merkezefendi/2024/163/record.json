@@ -1,0 +1,23 @@
+{
+  "number": "163",
+  "number_as_published": "163",
+  "year": 2024,
+  "title": "council decision",
+  "decision_date": "2024-11-04",
+  "source": "https://www.merkezefendi.bel.tr/meclis-karar.aspx?karar=2024-11-5--KASIM-AYI-MECLIS-KARAR-OZETLERI-Z4FX7",
+  "official_document": null,
+  "source_sha256": "d70a38c0c9391bcbe52b2b286066559d1108cfc73ca1de546a1741165b9a1e84",
+  "issuer": "Merkezefendi Belediye Meclisi",
+  "history_type": "metadata",
+  "text_status": "metadata-only: subject appears to concern individual persons; official link only",
+  "in_force": "2024-11-04",
+  "in_force_basis": "Decision date as printed in the official council listing: 4.11.2024; adoption date of the council decision; legal commencement not asserted",
+  "missing": [
+    "complete official decision text",
+    "official annexes"
+  ],
+  "law_text_complete": false,
+  "privacy_withheld": true,
+  "official_page": "https://www.merkezefendi.bel.tr/meclis-karar.aspx?karar=2024-11-5--KASIM-AYI-MECLIS-KARAR-OZETLERI-Z4FX7",
+  "record_scope": "one council decision (published decision summary)"
+}
