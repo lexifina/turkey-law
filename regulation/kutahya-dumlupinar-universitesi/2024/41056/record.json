@@ -1,0 +1,39 @@
+{
+  "checked_on": "2026-11-14",
+  "commencement_clauses": [
+    "MADDE 16- (1) Bu Yönetmelik yayımı tarihinde yürürlüğe girer."
+  ],
+  "date_evidence": [
+    [
+      "2024-11-05",
+      "05.11.2024",
+      "original gazette publication date in official listing"
+    ]
+  ],
+  "date_quote": "MADDE 16- (1) Bu Yönetmelik yayımı tarihinde yürürlüğe girer.",
+  "first_law": null,
+  "gazette": "32713",
+  "history": "current-text",
+  "images": {
+    "deferred": 0,
+    "omitted": 0,
+    "referenced": 0,
+    "source": 0
+  },
+  "in_force": "2024-11-05",
+  "in_force_basis": "source commencement clause: enters into force on gazette publication",
+  "issuer": "Kütahya Dumlupınar Üniversitesi",
+  "issuer_slug": "kutahya-dumlupinar-universitesi",
+  "kind": "regulation",
+  "label": "oldest version available",
+  "path": "regulation/kutahya-dumlupinar-universitesi/2024/41056",
+  "published": "2024-11-05",
+  "source": "https://www.mevzuat.gov.tr/anasayfa/MevzuatFihristDetayIframe?MevzuatTur=8&MevzuatNo=41056&MevzuatTertip=5",
+  "source_bytes": 26659,
+  "source_id": "8.5.41056",
+  "source_sha256": "51c7bae54dcf9b6fc5c68a640f904f8fc3b3e79df9970a19ea12959e156eb37c",
+  "text_status": "as-enacted",
+  "title": "KÜTAHYA DUMLUPINAR ÜNİVERSİTESİ KÜTAHYA FOLKLOR\r\nARAŞTIRMA VE UYGULAMA MERKEZİ YÖNETMELİĞİ",
+  "university_id": 190,
+  "word_count": 976
+}
