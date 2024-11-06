@@ -1,0 +1,16 @@
+{
+  "kind": "decision",
+  "issuer": "Sayıştay Temyiz Kurulu",
+  "number": "57414",
+  "decision_date": "2024-11-06",
+  "source_id": 30659,
+  "chamber": "5",
+  "file_number": "49992",
+  "public_body_type": "Belediyeler ve Bağlı İdareler",
+  "account_year": "2019",
+  "subject": "Çeşitli Konuları İlgilendiren Kararlar",
+  "source": "https://www.sayistay.gov.tr/KararlarTemyiz/Detay/30659/",
+  "source_sha256": "e18541ec1ccb6a03d55525a39e5a063004a07bcc6dd9a36ff0202ec71caca725",
+  "text_status": "metadata-only",
+  "metadata_only_reason": "possible personal name in the official text"
+}
