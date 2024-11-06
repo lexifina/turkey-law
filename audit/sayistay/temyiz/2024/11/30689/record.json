@@ -1,0 +1,16 @@
+{
+  "kind": "decision",
+  "issuer": "Sayıştay Temyiz Kurulu",
+  "number": "57442",
+  "decision_date": "2024-11-06",
+  "source_id": 30689,
+  "chamber": "5",
+  "file_number": "50077",
+  "public_body_type": "Belediyeler ve Bağlı İdareler",
+  "account_year": "2019",
+  "subject": "Personel Mevzuatı ile İlgili Kararlar",
+  "source": "https://www.sayistay.gov.tr/KararlarTemyiz/Detay/30689/",
+  "source_sha256": "c7c17d731d35689f0060e5a98ca8e92b3f5002bea5b58c15447640e30e38ecd2",
+  "text_status": "as-enacted",
+  "text_file": "metin.md"
+}
