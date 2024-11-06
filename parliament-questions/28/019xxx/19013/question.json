@@ -1,0 +1,21 @@
+{
+  "record_type": "parliament-written-question",
+  "term": 28,
+  "legislative_year": 3,
+  "esas_no": "7/19013",
+  "submitted": "2024-11-06",
+  "submitted_as": "Başkanlığa geliş tarihi",
+  "mp": "Selma Aliye KAVAF",
+  "province": "Manisa",
+  "summary": "Bakanlığa bağlı, ilgili ve ilişkili kuruluşların faaliyetlerine ilişkin",
+  "status": "Süresi Geçtikten Sonra Cevaplandı",
+  "status_as_of": "2026-11-16",
+  "official_record": "https://www.tbmm.gov.tr/Denetim/Yazili-Soru-Onergesi-Detay/ec6f2162-e31d-409a-aa65-0193015c005b",
+  "source": "https://tbmm.gov.tr/Denetim/YaziliSoruOnergesiTable",
+  "source_form": "https://tbmm.gov.tr/Denetim/Yazili-Soru-Onergeleri",
+  "source_sha256": "b23523f91e773114c234390c867c447c1fa4f9a909972782cc3fc027160a5142",
+  "in_force": "2024-11-06",
+  "in_force_basis": "Date the question reached the Speaker (Başkanlığa geliş tarihi) in the official TBMM written-question record; parliamentary oversight record, not law",
+  "history_type": "metadata",
+  "text_status": "metadata-only: question text, addressee and answers are in the linked official record (PDFs on cdn.tbmm.gov.tr); not transcribed here"
+}
