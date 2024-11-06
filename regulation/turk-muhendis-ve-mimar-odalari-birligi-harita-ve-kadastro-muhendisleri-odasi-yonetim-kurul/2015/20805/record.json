@@ -1,0 +1,73 @@
+{
+  "source_id": "7.5.20805",
+  "kind": "regulation",
+  "register_kind": "Kurum ve Kuruluş Yönetmelikleri",
+  "title": "TÜRK MÜHENDİS VE MİMAR ODALARI BİRLİĞİ HARİTA VE KADASTRO MÜHENDİSLERİ ODASI MESLEKÎ FAALİYET DENETİMİ VE ÜCRET YÖNETMELİĞİ",
+  "number": "20805",
+  "issuer": "Türk Mühendis ve Mimar Odaları Birliği Harita ve Kadastro Mühendisleri Odası Yönetim Kurulu",
+  "issuer_slug": "turk-muhendis-ve-mimar-odalari-birligi-harita-ve-kadastro-muhendisleri-odasi-yonetim-kurul",
+  "path": "regulation/turk-muhendis-ve-mimar-odalari-birligi-harita-ve-kadastro-muhendisleri-odasi-yonetim-kurul/2015/20805",
+  "source": "https://www.mevzuat.gov.tr/anasayfa/MevzuatFihristDetayIframe?MevzuatTur=7&MevzuatNo=20805&MevzuatTertip=5",
+  "source_sha256": "31e1c7aea2e7503852bded2e2c81e98a43517851a65180415644725ab7610f42",
+  "source_bytes": 38381,
+  "published": "2015-06-03",
+  "gazette": "29375",
+  "in_force": "2024-11-06",
+  "in_force_basis": "latest Resmî Gazete date printed in the source amendment notes/table (\"RG-6/11/2024\") for the current consolidated text",
+  "date_evidence": [
+    [
+      "2024-11-06",
+      "RG-6/11/2024",
+      "Resmî Gazete date printed in the source amendment note"
+    ],
+    [
+      "2024-11-06",
+      "6/11/2024",
+      "Resmî Gazete date in the source amendment table"
+    ],
+    [
+      "2022-10-08",
+      "RG-8/10/2022",
+      "Resmî Gazete date printed in the source amendment note"
+    ],
+    [
+      "2022-10-08",
+      "8/10/2022",
+      "Resmî Gazete date in the source amendment table"
+    ],
+    [
+      "2021-06-03",
+      "RG-3/6/2021",
+      "Resmî Gazete date printed in the source amendment note"
+    ],
+    [
+      "2021-06-03",
+      "3/6/2021",
+      "Resmî Gazete date in the source amendment table"
+    ],
+    [
+      "2017-02-08",
+      "RG-8/2/2017",
+      "Resmî Gazete date printed in the source amendment note"
+    ],
+    [
+      "2017-02-08",
+      "8/2/2017",
+      "Resmî Gazete date in the source amendment table"
+    ]
+  ],
+  "commencement_clauses": [
+    "Bu Yönetmelik yayımı tarihinde yürürlüğe girer"
+  ],
+  "history": "current-text",
+  "label": "oldest version available",
+  "checked_on": "2026-11-15",
+  "word_count": 1687,
+  "text_status": "current-consolidated",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  },
+  "completeness": "html-text-complete"
+}
