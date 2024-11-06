@@ -1,0 +1,5 @@
+Kuruluş
+Madde 94- Temsilcilikler;
+a) (Değişik:RG-11/5/2010-27578) Türk Mühendis ve Mimar Odaları Birliği Elektrik Mühendisleri Odası, elektrik, elektronik, elektrik-elektronik, bilgisayar ve biyomedikal mühendislerinin ortak ihtiyaçlarını karşılamak, mühendislik çalışmalarını kolaylaştırmak, elektrik, elektronik, elektrik-elektronik, bilgisayar ve biyomedikal mühendisliğinin, toplumun genel çıkarlarına uygun olarak gelişimini sağlamak, mühendislerin birbirleriyle ve üçüncü şahıslarla olan ilişkilerinde dürüstlüğü ve güveni oluşturmak, mühendislik disiplinini korumak amacı ile şubelerin bulunmadığı il ve ilçelerde TMMOB’ne bağlı diğer Oda birimleri ile işbirliğini de gözeterek en az onbeş üyenin bağlı bulundukları şube kanalı ile Oda Yönetim Kuruluna, temsilcilik kurulması yolunda yazılı başvurusu,
+b) Şube Yönetim Kurulunun kendi sınırları içindeki il, ilçe ve işyerlerinde temsilcilik kurulması için Oda Yönetim Kuruluna önerisi,
+Oda Yönetim Kurulunun bu başvuru ya da önerileri onaylaması ve atama işlemlerini yerine getirmesi ile kurulur.

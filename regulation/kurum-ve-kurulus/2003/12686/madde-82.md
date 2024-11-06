@@ -1,0 +1,2 @@
+Şube Genel Kuruluna Katılma Koşulları
+Madde 82- Şube Genel Kurullarında bulunmak, görüşmelere katılmak ve oy kullanmak için, Oda Yönetim Kurulunca hazırlanıp görevli hakim tarafından kesinleştirilen üye listelerinin imzalanması yoluyla alınmış, Genel Kurul giriş kartının ve Oda kimliğinin gösterilmesi zorunludur. Organ ve delege seçimlerinde, Oda kimlik kartı yerine, resmi kuruluşlarca verilmiş resimli kimlik kartları da kullanılabilir.

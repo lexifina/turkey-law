@@ -1,0 +1,2 @@
+Onur Kurulu Toplantısında Usul ve İstifa Etmiş Sayılma
+Madde 42- Onur Kurulu asıl üyelerinden bir ya da birkaçı mazeretli ya da toplantıya gelmeyeceklerini bildirir ya da çağrıya uymazlarsa, yerlerine sıra ile yedekler çağrılır. Bu yedekler, toplantı konusu sorun ya da sorunlar karara bağlanıncaya kadar yapılacak toplantılarda, asıl üye gibi görev yaparlar. Üst üste 3 toplantıya katılmayan asıl üye istifa etmiş sayılır.

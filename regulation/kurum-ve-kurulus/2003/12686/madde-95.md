@@ -1,0 +1,3 @@
+Temsilci ve Yardımcılarının Belirlenmesi ve Bildirimi
+Madde 95- İl ve ilçe temsilcilikleri, 1 temsilci ve en az 2 temsilci yardımcılığı için, gerektiğinde eğilim yoklaması yaparak Şube Yönetim Kurulunca belirlenir ve Oda Yönetim Kuruluna iletilir. Oda Yönetim Kurulu, temsilcilik kurulması yolunda aldığı kararı ve temsilcileri yörenin Mülki Amirine, Belediye Başkanlığına, Cumhuriyet Savcılığına, Şube Yönetim Kuruluna, temsilciliğine, ilgili kurum ve kuruluşlara yazı ile bildirir. Temsilci ve yardımcıların değişmesi halinde aynı yöntem izlenir.
+Temsilci ve yardımcıları, Temsilcilik Yönetmeliğine uygun olarak çalışır.

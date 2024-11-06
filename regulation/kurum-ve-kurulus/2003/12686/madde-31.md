@@ -1,0 +1,2 @@
+Yönetim Kurulu Üyeliğinin Düşmesi
+Madde 31- Hangi nedenle olursa olsun, sürekli olarak üç ay süreyle toplantılara gelmeyen ya da gelemeyecek olan Yönetim Kurulu üyesi çekilmiş sayılır ve yerine sıradaki yedek geçer. Haber vermeden ard arda üç toplantıya katılmayan üyeler de çekilmiş sayılırlar. Yönetim Kurulunda başkan, başkan yardımcısı, yazman üye ya da sayman üye çekildiği taktirde, bunların her biri için ilk toplantıda yenisi seçilir.

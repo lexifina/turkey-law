@@ -1,0 +1,5 @@
+Oda Denetleme Kurulu
+Madde 57- Oda Denetleme Kurulu, Genel Kurulca iki yıl için seçilen 7 asıl ve 7 yedek üyeden oluşur.
+Oda Denetleme Kurulu ilk toplantısında bir Başkan ve her toplantı için ayrıca raportör seçer.
+(Değişik üçüncü fıkra:RG-11/5/2010-27578) Denetleme Kurulu, denetimler dışında en geç üç ayda bir toplanır. Mazeretsiz olarak üst üste üç toplantıya veya denetimlere katılmayan veya katılamayacağını bildiren Denetleme Kurulu üyesi çekilmiş sayılır ve yerine sırada bulunan yedek üye geçer. Görevden ayrılan veya çekilmiş sayılan Denetleme Kurulu üyeleri, yerine gelen yedek üye kalmaz ve kurul üye sayısı salt çoğunluğun altına düşerse, Olağanüstü Oda Genel Kurulu yapılarak, yeniden Denetleme Kurulu asıl ve yedek üyeleri seçilir. Yeniden seçilen Denetleme Kurulu ilk Olağan Genel Kurul toplantısına kadar görev yapar.
+(Ek dördüncü fıkra:RG-11/5/2010-27578) Oda Denetleme Kurulu gerek görmesi halinde çalışmalarında bilirkişi hizmetinden yararlanır. Gerektiğinde Oda Mali Müşaviri, Oda Yeminli Mali Müşaviri ve Oda Muhasebecisi de denetlemeye katılır. Kurulun faaliyet konusu işleri yürütmek için her türlü gideri Oda bütçesinden karşılanır.

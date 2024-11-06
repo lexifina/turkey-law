@@ -1,0 +1,2 @@
+Onur Kurulu Kararlarının Kesinleşmesi
+Madde 53- Onur Kurulunca verilen cezalardan 52 nci maddenin (a) ve (b) bentlerinde yazılı olanlar kesindir. 52 inci maddenin (c), (d) ve (e) bentlerinde yazılı cezalara karşıysa, kararın bildirilmesi tarihinden itibaren 15 gün içinde, Oda Yönetim Kurulu yoluyla Yüksek Onur Kuruluna hak arayıcı başvurma yapılabilir. Bu cezaların uygulanabilmesi için de Yüksek Onur Kurulunca onaylanmış olması gerekir.

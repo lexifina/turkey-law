@@ -1,0 +1,2 @@
+Onur Kuruluna Çağrılacak Yedek Üyenin Kalmaması
+Madde 43- Yapılan üç ayrı çağrıya rağmen toplantıya katılmayan ve gerekçe bildirmeyen üye çekilmiş sayılır ve yerine sıradaki yedek üye geçer. Boşalan üyeliğe çağrılacak yedek üye kalmaması durumunda Olağanüstü Oda Genel Kurulu yapılarak, yeniden Onur Kurulu asıl ve yedek üyeleri seçilir. Yeniden seçilen Onur Kurulu ilk Olağan Genel Kurul toplantısına kadar görev yapar.

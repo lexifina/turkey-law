@@ -1,0 +1,62 @@
+{
+  "source_id": "7.5.12686",
+  "kind": "regulation",
+  "register_kind": "Kurum ve Kuruluş Yönetmelikleri",
+  "title": "TÜRK MÜHENDİS VE MİMAR ODALARI BİRLİĞİ ELEKTRİK MÜHENDİSLERİ ODASI ANA YÖNETMELİĞİ",
+  "number": "12686",
+  "issuer_slug": "kurum-ve-kurulus",
+  "path": "regulation/kurum-ve-kurulus/2003/12686",
+  "source": "https://www.mevzuat.gov.tr/anasayfa/MevzuatFihristDetayIframe?MevzuatTur=7&MevzuatNo=12686&MevzuatTertip=5",
+  "source_sha256": "213b15dce78d83dcc2261ff38a24043b669422f938923dc1d8f677a2d6d65a18",
+  "source_bytes": 172435,
+  "published": "2003-03-10",
+  "gazette": "25044",
+  "in_force": "2024-11-06",
+  "in_force_basis": "latest Resmî Gazete date printed in the source amendment notes/table (\"RG-6/11/2024\") for the current consolidated text",
+  "date_evidence": [
+    [
+      "2024-11-06",
+      "RG-6/11/2024",
+      "Resmî Gazete date printed in the source amendment note"
+    ],
+    [
+      "2024-11-06",
+      "6/11/2024",
+      "Resmî Gazete date in the source amendment table"
+    ],
+    [
+      "2017-01-18",
+      "RG-18/1/2017",
+      "Resmî Gazete date printed in the source amendment note"
+    ],
+    [
+      "2017-01-18",
+      "18/1/2017",
+      "Resmî Gazete date in the source amendment table"
+    ],
+    [
+      "2010-05-11",
+      "RG-11/5/2010",
+      "Resmî Gazete date printed in the source amendment note"
+    ],
+    [
+      "2003-04-01",
+      "RG-1/4/2003",
+      "Resmî Gazete date printed in the source amendment note"
+    ]
+  ],
+  "commencement_clauses": [
+    "Bu Yönetmelik, yayımı tarihinde yürürlüğe girer"
+  ],
+  "history": "current-text",
+  "label": "oldest version available",
+  "checked_on": "2026-11-15",
+  "word_count": 8786,
+  "text_status": "current-consolidated",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  },
+  "completeness": "html-text-complete"
+}

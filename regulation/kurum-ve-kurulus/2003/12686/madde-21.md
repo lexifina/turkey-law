@@ -1,0 +1,2 @@
+Genel Kurula Katılma Koşulları
+Madde 21- Oda Genel Kurulunda bulunmak, görüşmelere katılmak oy kullanmak için, Oda Yönetim Kurulu tarafından hazırlanıp, görevli hakim tarafından kesinleştirilmiş delege listelerinin imzalanması yoluyla alınmış Genel Kurul giriş kartının ve Oda kimlik kartının gösterilmesi zorunludur. Sadece organ seçimleri sırasında, resmi kuruluşlarca verilmiş resimli kimlik kartları da kullanılabilir.

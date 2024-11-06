@@ -1,0 +1,4 @@
+Olağanüstü Genel Kurul Gündemi
+Madde 26- (Değişik birinci fıkra:RG-11/5/2010-27578) Olağanüstü Genel Kurul toplantısı, Olağan Genel Kurul toplantısı gibi yapılır. Sadece önceden duyurulan gündem maddeleri görüşülüp karara bağlanır. Gündeme madde eklenemez, çıkarılamaz ancak sırası değiştirilebilir. Olağanüstü Genel Kurul, son olağan genel kurul için şubelerden seçilen delegeler ve son olağan genel kurulda doğal delegelik hakkını kazanmış doğal delegelerin katılımı ile yapılır.
+Gündeminde seçim olmayan olağanüstü genel kurullarda delege listeleri seçim kuruluna gönderilmez. 3 gün süre ile Birlikte ve Odada asılarak duyurulur. Olağanüstü Genel Kurul ilanında delege listelerinin asılacağı yer ve tarihleri de belirtilir. Listeler asılırken ve kaldırılırken her gün için ayrı ayrı tutulan tutanakla duyurulma olayı belgelenir.
+Gündeminde seçim olmayan olağanüstü genel kurullar Oda Yönetim Kurulu kararıyla Oda merkezi dışında da yapılabilir.
