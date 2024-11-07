@@ -1,0 +1,25 @@
+{
+  "kind": "norm",
+  "issuer": "Enerji Piyasası Düzenleme Kurumu",
+  "market": "electricity",
+  "document_type": "board-decision",
+  "number": "12993",
+  "decision_date": "2024-11-07",
+  "title": "Elektrik Piyasası Lisans Yönetmeliğinin (Yönetmelik) 57 nci maddesinin birinci fıkrasının (c) bendi kapsamında %10 ve üzerinde değişiklikle yeni dolaylı ortağın gelmesi halinde ve (ı) bendi kapsamında yapılması planlanan pay devirlerine ilişkin",
+  "resmi_gazete_date": "2024-11-09",
+  "resmi_gazete_number": "32717",
+  "categories": [
+    "Önlisans ve Lisansa ilişkin Diğer Kararlar"
+  ],
+  "source": "https://www.epdk.gov.tr/Detay/DownloadDocument?id=U2hb+bbUk1o=",
+  "documents": [
+    "https://www.epdk.gov.tr/Detay/DownloadDocument?id=U2hb+bbUk1o="
+  ],
+  "source_sha256": "996b867a17d9ca043ee3c24e6def139b1ff9c3d37de3d151b6866cca2def6c38",
+  "official_list": "https://www.epdk.gov.tr/Detay/Icerik/3-0-39/kurul-kararlari-",
+  "official_list_leaf": 33886,
+  "text_status": "as-enacted",
+  "text_file": "metin.md",
+  "in_force": "2024-11-07",
+  "law_text_complete": true
+}
