@@ -1,0 +1,31 @@
+{
+  "source_id": "7.5.41059",
+  "kind": "regulation",
+  "register_kind": "Kurum ve Kuruluş Yönetmelikleri",
+  "title": "TURİST REHBERLİĞİ MESLEK YÖNETMELİĞİ",
+  "number": "41059",
+  "issuer": "Turist Rehberleri Odaları Birliği Yönetim Kurulu",
+  "issuer_slug": "turist-rehberleri-odalari-birligi-yonetim-kurulu",
+  "path": "regulation/turist-rehberleri-odalari-birligi-yonetim-kurulu/2024/41059",
+  "source": "https://www.mevzuat.gov.tr/anasayfa/MevzuatFihristDetayIframe?MevzuatTur=7&MevzuatNo=41059&MevzuatTertip=5",
+  "source_sha256": "2dd4f068b43619ecbe848437cf60f97a492d91290a6716fb2c74a4712ffb75ed",
+  "source_bytes": 111468,
+  "published": "2024-11-07",
+  "gazette": "32715",
+  "in_force": "2024-11-07",
+  "in_force_basis": "Resmî Gazete publication date in the official listing (07.11.2024); own commencement article: \"Bu Yönetmelik yayımı tarihinde yürürlüğe girer\"",
+  "commencement_clauses": [
+    "Bu Yönetmelik yayımı tarihinde yürürlüğe girer"
+  ],
+  "history": "current-text",
+  "label": "oldest version available",
+  "checked_on": "2026-11-15",
+  "word_count": 7433,
+  "text_status": "current-consolidated",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  },
+  "completeness": "html-text-complete"
+}
