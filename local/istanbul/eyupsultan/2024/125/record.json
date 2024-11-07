@@ -1,0 +1,22 @@
+{
+  "number": "125",
+  "number_as_published": "2024/125",
+  "year": 2024,
+  "title": "Gıda Bankacılığı Sistemi’nin El Ele Yaşam Derneği Aracılığıyla yürütülmesi",
+  "decision_date": "2024-11-07",
+  "source": "https://eyupsultan.bel.tr/tr/main/pages/2024-kasim-ayi-meclis-kararlari/2642",
+  "official_document": "https://eyupsultan.bel.tr/tr/main/pages/2024-125/2646",
+  "source_sha256": "c12490881173d7094020a12baf4d2524d4efb5b0df929fc0ac2f3ce8c37e1574",
+  "issuer": "Eyüpsultan Belediye Meclisi",
+  "history_type": "metadata",
+  "text_status": "metadata-only: listing fields as published; complete decision text is in the linked official document, not transcribed",
+  "in_force": "2024-11-07",
+  "in_force_basis": "Decision date as printed in the official council listing: 07.11.2024 (meeting date at the start of the decision page); adoption date of the council decision; legal commencement not asserted",
+  "missing": [
+    "complete official decision text",
+    "official annexes"
+  ],
+  "law_text_complete": false,
+  "privacy_withheld": false,
+  "decision_page_sha256": "fc3fe83d985c84b132cfa83cdc7b9da3089169cc1e3b581f4d237569658be06e"
+}
