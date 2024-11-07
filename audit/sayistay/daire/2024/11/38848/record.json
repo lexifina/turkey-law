@@ -1,0 +1,17 @@
+{
+  "kind": "decision",
+  "issuer": "Sayıştay 7. Dairesi",
+  "number": "623",
+  "decision_date": "2024-11-07",
+  "source_id": 38848,
+  "chamber": "7",
+  "ilam_number": "190",
+  "item_number": 1,
+  "public_body_type": "Belediyeler ve Bağlı İdareler",
+  "account_year": 2021,
+  "subject": "Sorumluluk ve Yargılama Usulleri ile İlgili Kararlar",
+  "source": "https://www.sayistay.gov.tr/KararlarDaire/Detay/38848/",
+  "source_sha256": "09fcba971693466db9a5f8a4e486b69910321010959998a200afd3ac43e21ea1",
+  "text_status": "as-enacted",
+  "text_file": "metin.md"
+}
