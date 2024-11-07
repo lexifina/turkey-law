@@ -1,0 +1,22 @@
+{
+  "number": "105",
+  "number_as_published": "2024/105",
+  "year": 2024,
+  "title": "07.11.2024 TARİHLİ VE 2024/105 SAYILI KARAR",
+  "decision_date": "2024-11-07",
+  "source": "https://www.atasehir.bel.tr/kurumsal/liste/meclis-kararlari?page=16",
+  "official_document": "https://www.atasehir.bel.tr/kurumsal/meclis-kararlari/07112024-tarihli-ve-2024105-sayili-karar",
+  "source_sha256": "3861578496c19bb58b584fdae17b839cc03492a194d294690deb584e81c4ef55",
+  "issuer": "Ataşehir Belediye Meclisi",
+  "history_type": "metadata",
+  "text_status": "metadata-only: listing fields as published; complete decision text is in the linked official document, not transcribed",
+  "in_force": "2024-11-07",
+  "in_force_basis": "Decision date as printed in the official council listing: 07.11.2024 TARİHLİ VE 2024/105 SAYILI KARAR; adoption date of the council decision; legal commencement not asserted",
+  "missing": [
+    "complete official decision text",
+    "official annexes"
+  ],
+  "law_text_complete": false,
+  "privacy_withheld": false,
+  "decision_page": "https://www.atasehir.bel.tr/kurumsal/meclis-kararlari/07112024-tarihli-ve-2024105-sayili-karar"
+}
