@@ -1,0 +1,6 @@
+SHKMMB’nin tescili için gerekli koşullar ve belgelendirme
+MADDE 6 – (1) SHKMMB’nin HKMO’ya kayıt ve tescilinin yapılabilmesi için, bu Yönetmeliğin 8 inci maddesindeki ortaklık hissesi oranlarını sağlamak koşuluyla, SHKMMB adına tam gün çalışan kendi hesabına veya ortak en az bir SHKM’nin bulunması gerekir.
+(2) HKMO’ya kayıt ve tescilini yaptıran SHKMMB’ye, SHKMMH yapmaya yetkili olduğunu belirten Tescil Belgesi verilir.
+(3) (Değişik:RG-7/11/2024-32715) SHKMMH yapmak üzere HKMO’dan Tescil Belgesi almış SHKM’ler, aynı amaç doğrultusunda kurulmuş diğer tüzel kişiliklere ortak olamazlar, kamu kurum ve kuruluşlarında çalışamazlar. SHKM’lerin gerçek ve tüzel kişi işletmelerinde çalışma koşullarına ilişkin usul ve esaslar Oda Yönetim Kurulu tarafından belirlenir.
+(4) (Ek:RG-3/3/2017-29996) (Danıştay Sekizinci Dairesinin 3/11/2021 tarihli ve E.:2017/3468; K.:2021/4983 sayılı kararı ile iptal birinci cümle; SHKMMB’lerin tescilleri sona erdirilmeden LİHKAB, LİHKAB’ların tescilleri sona erdirilmeden de SHKMMB kurulamaz.) Anılan bürolarda kendi yetki alanı dışında işlem yürütülemez.
+(5) (Ek:RG-3/3/2017-29996) SHKMMB adi ortaklık şeklinde bir araya gelen gerçek kişi ya da tüzel kişilerden oluşuyorsa HKMO’yakayıt ve tescilinin yapılabilmesi için 6 ncı ve 8 inci maddelerde belirtilen koşullara uyulması zorunludur.

@@ -1,0 +1,20 @@
+SHKMMB’nin yetkileri ve sorumlulukları
+MADDE 14 – (1) SHKMMB’nin yetkileri ve sorumlulukları aşağıda belirtilmiştir.
+a) SHKMMH’yi yapmaya yalnızca HKMO tarafından Tescil Belgesi verilen SHKMMB yetkilidir. Tescil Belgesi görülecek şekilde işyerine asılır.
+b) SHKM sadece ortak veya ücretli olarak bağlantı içinde bulunduğu tescilli büro adına hizmet üretebilir.
+c) SHKMMB’nin HKMO’ya tescilinin yapılmış olması; kanun, tüzük, yönetmelik, şartname ve diğer yasal düzenlemelerin zorunlu kıldığı koşullara uymamaktan dolayı doğacak sorumluluklardan kurtarmaz.
+ç) (Değişik:RG-7/11/2024-32715) SHKMMB tescil yenileme belgesi; her yılın 1 Aralık-31 Aralık tarihleri arasında, bir sonraki yıl geçerli olmak üzere tescil yenileme bedeli karşılığında düzenlenir. Bu tarihten sonra yapılan başvurularda; başvuru tarihinden yıl sonuna kadar geçerli tescil yenileme belgesi verilir.
+d) (Mülga:RG-16/3/2022-31780)
+e) SHKMMB’nin yeniden faaliyete geçmesi tescilin yenilenmesiyle olur.
+f) HKMO’ya tescili yapılmamış SHKMMB’ler, SHKMMH’yi yürütemezler.
+g) (Değişik:RG-3/3/2017-29996) SHKMMB’de hisse sahibi HKM’ler tescile ve tasdike konu olan teknik belgeleri imzalar. SHKM’lerinsorumluluğunda ücretli çalışan HKM’ler tescile ve tasdike konu belgelerin dışında kalan diğer teknik belgeleri imzalayabilirler.
+ğ) SHKMMB’ler ihale ile aldıkları işleri ihalenin yapıldığı merkezdeki şube, Merkeze bağlı temsilciliğe ya da ilgili temsilciliğe otuz gün içinde bildirmekle ve diğer işler için hazırlanan tip sözleşmeyi işe başlamadan işin bulunduğu yer temsilciliğine (Ek ibare:RG-16/3/2022-31780) veya meslekî faaliyet denetimi yapmakla görevlendirilen harita ve kadastro mühendislerine, il veya ilçe temsilcisine ve/veya yardımcılarına onaylatmakla yükümlüdür.
+h) SHKMMB’ler, SHKMMH’yi işveren idare veya onay makamınca istensin ya da istenmesin HKMO’nun (Ek ibare:RG-3/3/2017-29996) mesleki faaliyet denetiminden geçirmekle yükümlüdürler.
+ı) (Değişik:RG-16/3/2022-31780) SHKMMB’lerin talebe bağlı üreteceği işler için, Genel Kurul tarafından belirlenen maktu (Değişik ibare:RG-25/8/2022-31934) bedel ve mesleki faaliyet denetim bedeli her bir SHKMMB için ayrı ayrı uygulanır. İhaleli işlerde her iş için bir defaya mahsus alınacak olan MFD maktu ücreti, o işte birden fazla ortak olması durumunda, MFD ücretine her bir ortak başına (birinci ortak hariç) maktu ücretin yüzde yirmisi eklenerek tek bir ücret şeklinde herhangi bir ortaktan tahsil edilir.
+i) SHKMMB’ler meslekî dayanışma sorumluluğunun bilincinde olarak haksız rekabete neden olacak veya birbirlerine zarar verecek tutum ve davranışlarda bulunamazlar.
+j) (Ek:RG-3/3/2017-29996) (Danıştay Sekizinci Dairesinin 3/11/2021 tarihli ve E.:2017/3468; K.:2021/4983 sayılı kararı ile iptal bent; SHKM, HKMO tarafından düzenlenen meslek içi eğitimlerin en az birine katılmak zorundadır. SHKM, bağlı olduğu şube dışındaki şube ve merkeze bağlı temsilciliklerde düzenlenen eğitimlere de katılabilir.)
+k) (Ek:RG-3/3/2017-29996) (Danıştay Sekizinci Dairesinin 3/11/2021 tarihli ve E.:2017/3468; K.:2021/4983 sayılı kararı ile iptal bent; SHKMMB’ler ücretli çalıştırdıkları HKM’ye veya HKM’lere HKMO Asgarî Ücretinden daha az ücret ödenmediğini SGK’den aldığı belge ile belgelendirir.)
+l) (Ek:RG-3/3/2017-29996) Yüklenilen işlerle ilgili TİP Sözleşme almayan ve mesleki faaliyet denetimini yaptırmayan SHKM’ler idari soruşturma yapılarak gerektiğinde Onur Kuruluna sevk edilir. İhaleli işlerle ilgili yapılan iş listesini süresi içerisinde Oda’ya bildirmeyen SHKM’ler idari soruşturma yapılarak gerektiğinde Onur Kuruluna sevk edilir.
+m) (Ek:RG-3/3/2017-29996) SHKM, başka bir SHKM tarafından TİP Sözleşmesi imzalanan işi, tarafların izni olmadan üstlenemez.
+n) (Ek:RG-3/3/2017-29996) SHKMMB tarafından yüklenilen ihaleli işler, aylık olarak ve izleyen ayın ilk haftasında liste halinde sorumlu HKMO temsilciliğine verilir.
+o) (Ek:RG-16/3/2022-31780) SHKMMB’ler ebatları, yazı fontu, büyüklüğü ve içeriğine ilişkin standartları Oda Yönetim Kurulu tarafından belirlenen kaşeyi kullanmak zorundadır.

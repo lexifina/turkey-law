@@ -1,0 +1,18 @@
+Tanımlar ve kısaltmalar
+MADDE 4 – (1) Bu Yönetmelikte geçen;
+a) HKM: Harita ve kadastro mühendislik öğrenimini tamamlamış, HKMO’ya karşı her türlü yükümlülüklerini yerine getirerek üyelik sıfatını koruyan, TMMOB ve HKMO tüzük ve yönetmelikleri uyarınca çalışması yasaklanmamış harita, harita ve kadastro, (Ek ibare:RG-3/3/2017-29996) geomatik, jeodezi, jeodezi ve fotogrametri mühendis ve yüksek mühendislerini,
+b) HKMMH: Harita ve Kadastro Mühendislik Müşavirlik Hizmetlerini,
+c) HKMO: TMMOB Harita ve Kadastro Mühendisleri Odasını,
+ç) (Değişik:RG-16/3/2022-31780) SHKM: 17/6/1938 tarihli ve 3458 sayılı Mühendislik ve Mimarlık Hakkında Kanunun verdiği yetkiye dayanarak SHKMMH’den birini veya bir kaçını ücreti karşılığında, kendi hesabına veya kamu kurum ve kuruluşları dışında bir kişi veya kuruluş ile ortak yapan ve (Değişik ibare:RG-25/8/2022-31934) HKMO’ya tescilli ve vergi mükellefiyeti olan büro veya şirketin sahibi/ortağı HKM’yi,
+d) SHKMMB: SHKMMH yapmak üzere HKMO’ya kayıt ve tescil yaptıran büro, şirket, adi ortaklık gibi statüdeki vergiye tâbi kişilere veya kuruluşlara ait Serbest Harita ve Kadastro Mühendislik Müşavirlik Bürosunu,
+e) SHKMMH: Yalnızca SHKM’nin yapmaya yetkili olduğu Serbest Harita ve Kadastro Mühendislik Müşavirlik Hizmetlerini,
+f) (Değişik:RG-16/3/2022-31780) Tescil Belgesi: SHKMMB’nin HKMO’ya ilk kez tescili yapıldığında Oda tarafından verilen, SHKMMB’nin tescili aktif olduğu süre içerisinde SHKMMH’yi yapmaya yetkili olduğunu belirten ve hisse sahibi HKM’lerin isimlerinin yazıldığı, şekli ve içeriği Oda Yönetim Kurulunca belirlenen belgeyi,
+g) TMMOB: Türk Mühendis ve Mimar Odaları Birliğini,
+ğ) (Ek:RG-3/3/2017-29996) İrtibat bürosu: SHKMMB tarafından hisse sahibi HKM sayısı kadar açılabilen ve İrtibat Bürosunun açıldığı ilçe idari sınırları içerisinde ikamet eden en az bir HKM’nin sürekli çalıştığı birimi,
+h) (Ek:RG-3/3/2017-29996) Şube: SHKMMB tarafından hisse sahibi HKM sayısı kadar açılabilen ve Şubenin açıldığı ilçe idari sınırları içerisinde ikamet eden en az bir HKM’nin sürekli çalıştığı birimi,
+ı) (Ek:RG-3/3/2017-29996) Mesleki Faaliyete Başlangıç Eğitimi: Yeni açılacak SHKMMB hisse sahibi HKM’ye yönelik, HKMO Yönetim Kurulu tarafından konusu, süresi ve ilkeleri belirlenen eğitimi,
+i) (Ek:RG-3/3/2017-29996) (Değişik ibare:RG-16/3/2022-31780) MFD: Mesleki faaliyet denetimi, Oda tarafından, şirket ve büro hissedarlarının meslek mensubu olup olmadığını, mesleğini serbest olarak yapma (Değişik ibare:RG-16/3/2022-31780) yetkisinin bulunup bulunmadığını, meslekten süreli veya süresiz men edilme, disiplin cezası gibi sebeplerle herhangi bir kısıtlılığının bulunup bulunmadığını, sicil durumunu, (Değişik ibare:RG-16/3/2022-31780) SHKMMB’nin HKMO tarafından tanımlanan TİP Sözleşmeler veya 4/1/2002 tarihli ve 4734 sayılı Kamu İhale Kanunu kapsamında düzenlenen sözleşmeyi kullanıp kullanmadığını, TİP Sözleşmenin HKMO tarafından onaylanıp onaylanmadığını ve TİP Sözleşmede belirtilen hizmet bedelinin ücret tarifesine uygunluğunu denetlemeyi,
+j) (Ek:RG-3/3/2017-29996) LİHKAB: Lisanslı harita kadastro mühendislik bürolarını,
+k) (Ek:RG-3/3/2017-29996) Tescil Yenileme (Değişik ibare:RG-16/3/2022-31780) Belgesi: İçeriği ve şekli HKMO Yönetim Kurulunca belirlenen SHKMMB’lerdeki hisse sahibi HKM’lerin isimlerinin yazıldığı ve her yıl (Değişik ibare:RG-16/3/2022-31780) aldığı belgeyi,
+l) (Ek:RG-3/3/2017-29996) TİP Sözleşme: İçerikleri HKMO Yönetim Kurulunca belirlenen ve SHKMMB hisse sahibi HKM’lertarafından üretecekleri hizmetler için kullanılacak HKMO’nun internet sayfasından üye şifresi ile alınan iş yapım sözleşmelerini,
+ifade eder.
