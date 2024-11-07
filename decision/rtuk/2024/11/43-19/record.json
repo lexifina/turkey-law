@@ -1,0 +1,15 @@
+{
+  "issuer": "Radyo ve Televizyon Üst Kurulu (RTÜK)",
+  "record_type": "Üst Kurul Kararı",
+  "meeting": "2024/43",
+  "meeting_date": "2024-11-07",
+  "meeting_date_as_published": "7.11.2024",
+  "decision_no": "19",
+  "source_id": 20225,
+  "title": "RTÜK kararı 2024/43-19",
+  "source": "https://www.rtuk.gov.tr/UstKurulKarar/Detay/20225",
+  "source_sha256": "7656e8184ae98a496bc95c2a7ebeedc9a8ff6199e0083179d2e4381f0a9e8e09",
+  "text_status": "metadata-only",
+  "metadata_only_reason": "possible private person name(s) in the official text (7 match(es)); full text withheld, official link only",
+  "law_text_complete": false
+}
