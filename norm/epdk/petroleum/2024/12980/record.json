@@ -1,0 +1,25 @@
+{
+  "kind": "norm",
+  "issuer": "Enerji Piyasası Düzenleme Kurumu",
+  "market": "petroleum",
+  "document_type": "board-decision",
+  "number": "12980",
+  "decision_date": "2024-11-07",
+  "title": "Lisans Başvuruları ile Lisans Sahiplerinin Asgari Ödenmiş Sermayelerine İlişkin Kurul Kararı",
+  "resmi_gazete_date": "2024-11-09",
+  "resmi_gazete_number": "32717",
+  "categories": [
+    "Lisans Başvuruları"
+  ],
+  "source": "https://www.epdk.gov.tr/Detay/DownloadDocument?id=JhgW3u+DfCM=",
+  "documents": [
+    "https://www.epdk.gov.tr/Detay/DownloadDocument?id=JhgW3u+DfCM="
+  ],
+  "source_sha256": "7f9900f284ff3893bd48af992885d0baeb04b0ee28181ec5ea9f06dc898ac1bc",
+  "official_list": "https://www.epdk.gov.tr/Detay/Icerik/3-0-100/kurul-kararlari",
+  "official_list_leaf": 4870,
+  "text_status": "as-enacted",
+  "text_file": "metin.md",
+  "in_force": "2024-11-07",
+  "law_text_complete": true
+}
