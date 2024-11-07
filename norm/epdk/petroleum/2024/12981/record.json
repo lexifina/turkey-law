@@ -1,0 +1,25 @@
+{
+  "kind": "norm",
+  "issuer": "Enerji Piyasası Düzenleme Kurumu",
+  "market": "petroleum",
+  "document_type": "board-decision",
+  "number": "12981",
+  "decision_date": "2024-11-07",
+  "title": "10/12/2014 Tarihli ve 5352 Sayılı Kurul Kararında Değişiklik Yapılmasına İlişkin",
+  "resmi_gazete_date": "2024-11-09",
+  "resmi_gazete_number": "32717",
+  "categories": [
+    "Lisans İşlemleri Diğer"
+  ],
+  "source": "https://www.epdk.gov.tr/Detay/DownloadDocument?id=FOA3OUJRr2Y=",
+  "documents": [
+    "https://www.epdk.gov.tr/Detay/DownloadDocument?id=FOA3OUJRr2Y="
+  ],
+  "source_sha256": "ca293a4a1409f88dc5a3311d59fc350f562d81b0fdb1d717ef55c1f58ea2e828",
+  "official_list": "https://www.epdk.gov.tr/Detay/Icerik/3-0-100/kurul-kararlari",
+  "official_list_leaf": 4913,
+  "text_status": "as-enacted",
+  "text_file": "metin.md",
+  "in_force": "2024-11-07",
+  "law_text_complete": true
+}
