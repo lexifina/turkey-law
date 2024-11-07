@@ -1,0 +1,22 @@
+{
+  "number": "126",
+  "number_as_published": "2024/126",
+  "year": 2024,
+  "title": "council decision",
+  "decision_date": "2024-11-07",
+  "source": "https://eyupsultan.bel.tr/tr/main/pages/2024-kasim-ayi-meclis-kararlari/2642",
+  "official_document": "https://eyupsultan.bel.tr/tr/main/pages/2024-126/2647",
+  "source_sha256": "c12490881173d7094020a12baf4d2524d4efb5b0df929fc0ac2f3ce8c37e1574",
+  "issuer": "Eyüpsultan Belediye Meclisi",
+  "history_type": "metadata",
+  "text_status": "metadata-only: subject appears to concern individual persons; official link only",
+  "in_force": "2024-11-07",
+  "in_force_basis": "Decision date as printed in the official council listing: 07.11.2024 (meeting date at the start of the decision page); adoption date of the council decision; legal commencement not asserted",
+  "missing": [
+    "complete official decision text",
+    "official annexes"
+  ],
+  "law_text_complete": false,
+  "privacy_withheld": true,
+  "decision_page_sha256": "f98bdf2453f016dddc6c0cdcce62af114b24d60fa93ce3811871b3f2b68f34be"
+}
