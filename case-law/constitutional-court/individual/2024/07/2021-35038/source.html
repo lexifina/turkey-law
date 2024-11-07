@@ -1,0 +1,634 @@
+<meta http-equiv="Content-Type" content="text/html; charset=UTF-8"><meta name=Generator content="Microsoft Word 15 (filtered)">
+<style type="text/css"><!--
+ /* Font Definitions */
+ @font-face
+	{font-family:"Cambria Math";
+	panose-1:2 4 5 3 5 4 6 3 2 4;}
+@font-face
+	{font-family:"Andale Sans UI";}
+@font-face
+	{font-family:"MS PGothic";
+	panose-1:2 11 6 0 7 2 5 8 2 4;}
+@font-face
+	{font-family:Tahoma;
+	panose-1:2 11 6 4 3 5 4 4 2 4;}
+@font-face
+	{font-family:Dialog;}
+@font-face
+	{font-family:"\@MS PGothic";}
+ /* Style Definitions */
+ p.MsoNormal, li.MsoNormal, div.MsoNormal
+	{margin:0cm;
+	margin-bottom:.0001pt;
+	font-size:12.0pt;
+	font-family:"Times New Roman",serif;}
+p.MsoHeader, li.MsoHeader, div.MsoHeader
+	{margin:0cm;
+	margin-bottom:.0001pt;
+	font-size:12.0pt;
+	font-family:"Times New Roman",serif;}
+p.MsoFooter, li.MsoFooter, div.MsoFooter
+	{margin:0cm;
+	margin-bottom:.0001pt;
+	font-size:12.0pt;
+	font-family:"Times New Roman",serif;}
+p.MsoList, li.MsoList, div.MsoList
+	{margin-top:0cm;
+	margin-right:0cm;
+	margin-bottom:6.0pt;
+	margin-left:0cm;
+	font-size:12.0pt;
+	font-family:"Times New Roman",serif;}
+p.MsoTitle, li.MsoTitle, div.MsoTitle
+	{margin-top:6.0pt;
+	margin-right:0cm;
+	margin-bottom:6.0pt;
+	margin-left:0cm;
+	font-size:12.0pt;
+	font-family:"Times New Roman",serif;
+	font-style:italic;}
+p.MsoBodyText, li.MsoBodyText, div.MsoBodyText
+	{margin-top:0cm;
+	margin-right:0cm;
+	margin-bottom:6.0pt;
+	margin-left:0cm;
+	font-size:12.0pt;
+	font-family:"Times New Roman",serif;}
+p.MsoSubtitle, li.MsoSubtitle, div.MsoSubtitle
+	{margin-top:6.0pt;
+	margin-right:0cm;
+	margin-bottom:6.0pt;
+	margin-left:0cm;
+	text-align:center;
+	font-size:14.0pt;
+	font-family:"Times New Roman",serif;
+	font-style:italic;}
+p.stbalk, li.stbalk, div.stbalk
+	{mso-style-name:"Üst başlık";
+	margin-top:12.0pt;
+	margin-right:0cm;
+	margin-bottom:6.0pt;
+	margin-left:0cm;
+	page-break-after:avoid;
+	font-size:14.0pt;
+	font-family:"Arial",sans-serif;}
+p.Dizin, li.Dizin, div.Dizin
+	{mso-style-name:Dizin;
+	margin:0cm;
+	margin-bottom:.0001pt;
+	font-size:12.0pt;
+	font-family:"Times New Roman",serif;}
+p.edf1393440552765, li.edf1393440552765, div.edf1393440552765
+	{mso-style-name:edf_1393440552765;
+	margin:0cm;
+	margin-bottom:.0001pt;
+	font-size:12.0pt;
+	font-family:"Times New Roman",serif;}
+p.edf1362056144630, li.edf1362056144630, div.edf1362056144630
+	{mso-style-name:edf_1362056144630;
+	margin:0cm;
+	margin-bottom:.0001pt;
+	font-size:12.0pt;
+	font-family:"Times New Roman",serif;}
+p.edf1449753501087, li.edf1449753501087, div.edf1449753501087
+	{mso-style-name:edf_1449753501087;
+	margin:0cm;
+	margin-bottom:.0001pt;
+	font-size:12.0pt;
+	font-family:"Times New Roman",serif;}
+p.edf1498714040386, li.edf1498714040386, div.edf1498714040386
+	{mso-style-name:edf_1498714040386;
+	margin:0cm;
+	margin-bottom:.0001pt;
+	font-size:12.0pt;
+	font-family:"Times New Roman",serif;}
+p.edf1366286646985, li.edf1366286646985, div.edf1366286646985
+	{mso-style-name:edf_1366286646985;
+	margin:0cm;
+	margin-bottom:.0001pt;
+	font-size:12.0pt;
+	font-family:"Times New Roman",serif;}
+p.edf1393440831590, li.edf1393440831590, div.edf1393440831590
+	{mso-style-name:edf_1393440831590;
+	margin:0cm;
+	margin-bottom:.0001pt;
+	font-size:12.0pt;
+	font-family:"Times New Roman",serif;}
+p.edf1450279197849, li.edf1450279197849, div.edf1450279197849
+	{mso-style-name:edf_1450279197849;
+	margin:0cm;
+	margin-bottom:.0001pt;
+	font-size:12.0pt;
+	font-family:"Times New Roman",serif;}
+p.default, li.default, div.default
+	{mso-style-name:default;
+	margin:0cm;
+	margin-bottom:.0001pt;
+	font-size:12.0pt;
+	font-family:Dialog;
+	color:#333333;}
+p.edf1391432591385, li.edf1391432591385, div.edf1391432591385
+	{mso-style-name:edf_1391432591385;
+	margin:0cm;
+	margin-bottom:.0001pt;
+	font-size:12.0pt;
+	font-family:"Times New Roman",serif;}
+p.edf1449437129215, li.edf1449437129215, div.edf1449437129215
+	{mso-style-name:edf_1449437129215;
+	margin:0cm;
+	margin-bottom:.0001pt;
+	font-size:12.0pt;
+	font-family:"Times New Roman",serif;}
+p.edf1391432591322, li.edf1391432591322, div.edf1391432591322
+	{mso-style-name:edf_1391432591322;
+	margin:0cm;
+	margin-bottom:.0001pt;
+	font-size:12.0pt;
+	font-family:"Times New Roman",serif;}
+p.edf1450279197847, li.edf1450279197847, div.edf1450279197847
+	{mso-style-name:edf_1450279197847;
+	margin:0cm;
+	margin-bottom:.0001pt;
+	font-size:12.0pt;
+	font-family:"Times New Roman",serif;}
+p.edf1348746231903, li.edf1348746231903, div.edf1348746231903
+	{mso-style-name:edf_1348746231903;
+	margin:0cm;
+	margin-bottom:.0001pt;
+	font-size:12.0pt;
+	font-family:"Times New Roman",serif;}
+p.edf1569484432790, li.edf1569484432790, div.edf1569484432790
+	{mso-style-name:edf_1569484432790;
+	margin:0cm;
+	margin-bottom:.0001pt;
+	font-size:12.0pt;
+	font-family:"Times New Roman",serif;}
+p.hvl-default, li.hvl-default, div.hvl-default
+	{mso-style-name:hvl-default;
+	margin:0cm;
+	margin-bottom:.0001pt;
+	font-size:12.0pt;
+	font-family:"Times New Roman",serif;}
+p.edf1426255240830, li.edf1426255240830, div.edf1426255240830
+	{mso-style-name:edf_1426255240830;
+	margin:0cm;
+	margin-bottom:.0001pt;
+	font-size:12.0pt;
+	font-family:"Times New Roman",serif;}
+p.edf1421065212519, li.edf1421065212519, div.edf1421065212519
+	{mso-style-name:edf_1421065212519;
+	margin:0cm;
+	margin-bottom:.0001pt;
+	font-size:12.0pt;
+	font-family:"Times New Roman",serif;}
+p.edf1449652110386, li.edf1449652110386, div.edf1449652110386
+	{mso-style-name:edf_1449652110386;
+	margin:0cm;
+	margin-bottom:.0001pt;
+	font-size:12.0pt;
+	font-family:"Times New Roman",serif;}
+p.edf1393440766750, li.edf1393440766750, div.edf1393440766750
+	{mso-style-name:edf_1393440766750;
+	margin:0cm;
+	margin-bottom:.0001pt;
+	font-size:12.0pt;
+	font-family:"Times New Roman",serif;}
+p.edf1419594272479, li.edf1419594272479, div.edf1419594272479
+	{mso-style-name:edf_1419594272479;
+	margin:0cm;
+	margin-bottom:.0001pt;
+	font-size:12.0pt;
+	font-family:"Times New Roman",serif;}
+p.edf1668410999601, li.edf1668410999601, div.edf1668410999601
+	{mso-style-name:edf_1668410999601;
+	margin:0cm;
+	margin-bottom:.0001pt;
+	font-size:12.0pt;
+	font-family:"Times New Roman",serif;}
+p.edf1443691077056, li.edf1443691077056, div.edf1443691077056
+	{mso-style-name:edf_1443691077056;
+	margin:0cm;
+	margin-bottom:.0001pt;
+	font-size:12.0pt;
+	font-family:"Times New Roman",serif;}
+p.edf1434963258018, li.edf1434963258018, div.edf1434963258018
+	{mso-style-name:edf_1434963258018;
+	margin:0cm;
+	margin-bottom:.0001pt;
+	font-size:12.0pt;
+	font-family:"Times New Roman",serif;}
+p.edf1419597503565, li.edf1419597503565, div.edf1419597503565
+	{mso-style-name:edf_1419597503565;
+	margin:0cm;
+	margin-bottom:.0001pt;
+	font-size:12.0pt;
+	font-family:"Times New Roman",serif;}
+p.edf1683291633863, li.edf1683291633863, div.edf1683291633863
+	{mso-style-name:edf_1683291633863;
+	margin:0cm;
+	margin-bottom:.0001pt;
+	font-size:12.0pt;
+	font-family:"Times New Roman",serif;}
+.MsoChpDefault
+	{font-size:10.0pt;}
+ /* Page Definitions */
+ @page WordSection1
+	{size:595.3pt 841.9pt;
+	margin:48.8pt 70.85pt 47.05pt 70.85pt;}
+div.WordSection1
+	{page:WordSection1;}
+@page WordSection2
+	{size:595.3pt 841.9pt;
+	margin:48.8pt 70.85pt 47.05pt 70.85pt;}
+div.WordSection2
+	{page:WordSection2;}
+-->
+</style>
+<div class="WordSection1">
+<p class="MsoNormal" style="margin-top:0cm;margin-right:14.15pt;margin-bottom:
+10.0pt;margin-left:14.15pt;text-align:justify;text-indent:1.0cm"><b><span style="font-size:14.0pt;color:#010000"> </span></b></p>
+
+<p class="MsoNormal" style="margin-top:0cm;margin-right:14.15pt;margin-bottom:
+10.0pt;margin-left:14.15pt;text-align:justify;text-indent:1.0cm"><b><span style="font-size:14.0pt;color:#010000"> </span></b></p>
+
+<p class="MsoNormal" style="margin-top:0cm;margin-right:14.15pt;margin-bottom:
+10.0pt;margin-left:14.15pt;text-align:justify;text-indent:1.0cm"><b><span style="font-size:14.0pt;color:#010000"> </span></b></p>
+
+<p class="MsoNormal" style="margin-top:0cm;margin-right:14.15pt;margin-bottom:
+10.0pt;margin-left:14.15pt;text-align:justify;text-indent:1.0cm"><b><span style="font-size:14.0pt;color:#010000"> </span></b></p>
+
+<div align="center">
+<table border="0" cellpadding="0" cellspacing="0" class="MsoNormalTable" style="border-collapse:collapse">
+	<tbody>
+		<tr style="height:25.0pt">
+			<td style="width:16.0cm;padding:0cm 3.5pt 0cm 3.5pt;height:25.0pt" width="605">
+			<p align="center" class="MsoNormal" style="margin-top:0cm;margin-right:14.15pt;
+  margin-bottom:10.0pt;margin-left:0cm;text-align:center"><b><span style="font-size:14.0pt;color:#010000">TÜRKİYE CUMHURİYETİ</span></b></p>
+			</td>
+		</tr>
+		<tr style="height:25.0pt">
+			<td style="width:16.0cm;padding:0cm 3.5pt 0cm 3.5pt;height:25.0pt" width="605">
+			<p align="center" class="MsoNormal" style="margin-top:0cm;margin-right:14.15pt;
+  margin-bottom:10.0pt;margin-left:0cm;text-align:center"><b><span style="font-size:16.0pt;color:#010000">ANAYASA MAHKEMESİ</span></b></p>
+			</td>
+		</tr>
+		<tr style="height:25.0pt">
+			<td style="width:16.0cm;padding:0cm 3.5pt 0cm 3.5pt;height:25.0pt" width="605">
+			<p align="center" class="MsoNormal" style="margin-top:0cm;margin-right:14.15pt;
+  margin-bottom:10.0pt;margin-left:0cm;text-align:center"><b><span style="color:#010000"> </span></b></p>
+			</td>
+		</tr>
+		<tr style="height:25.0pt">
+			<td style="width:16.0cm;padding:0cm 3.5pt 0cm 3.5pt;height:25.0pt" width="605">
+			<p align="center" class="MsoNormal" style="margin-top:0cm;margin-right:14.15pt;
+  margin-bottom:10.0pt;margin-left:0cm;text-align:center"><b><span style="color:#010000"> </span></b></p>
+			</td>
+		</tr>
+		<tr style="height:25.0pt">
+			<td style="width:16.0cm;padding:0cm 3.5pt 0cm 3.5pt;height:25.0pt" width="605">
+			<p align="center" class="MsoNormal" style="margin-top:0cm;margin-right:14.15pt;
+  margin-bottom:10.0pt;margin-left:0cm;text-align:center"><b><span style="color:#010000">BİRİNCİ BÖLÜM</span></b></p>
+			</td>
+		</tr>
+		<tr style="height:25.0pt">
+			<td style="width:16.0cm;padding:0cm 3.5pt 0cm 3.5pt;height:25.0pt" width="605">
+			<p align="center" class="MsoNormal" style="margin-top:0cm;margin-right:14.15pt;
+  margin-bottom:10.0pt;margin-left:0cm;text-align:center"><b><span style="color:#010000"> </span></b></p>
+			</td>
+		</tr>
+		<tr style="height:25.0pt">
+			<td style="width:16.0cm;padding:0cm 3.5pt 0cm 3.5pt;height:25.0pt" width="605">
+			<p align="center" class="MsoNormal" style="margin-top:0cm;margin-right:14.15pt;
+  margin-bottom:10.0pt;margin-left:0cm;text-align:center"><b><span style="color:#010000">KARAR</span></b></p>
+			</td>
+		</tr>
+		<tr style="height:25.0pt">
+			<td style="width:16.0cm;padding:0cm 3.5pt 0cm 3.5pt;height:25.0pt" width="605">
+			<p align="center" class="MsoNormal" style="margin-top:0cm;margin-right:14.15pt;
+  margin-bottom:10.0pt;margin-left:0cm;text-align:center"><b><span style="color:#010000"> </span></b></p>
+			</td>
+		</tr>
+		<tr style="height:25.0pt">
+			<td style="width:16.0cm;padding:0cm 3.5pt 0cm 3.5pt;height:25.0pt" width="605">
+			<p align="center" class="MsoNormal" style="margin-top:0cm;margin-right:14.15pt;
+  margin-bottom:10.0pt;margin-left:0cm;text-align:center"><b><span style="color:#010000">E.E.T.BAŞVURUSU</span></b></p>
+			</td>
+		</tr>
+		<tr style="height:25.0pt">
+			<td style="width:16.0cm;padding:0cm 3.5pt 0cm 3.5pt;height:25.0pt" width="605">
+			<p align="center" class="MsoNormal" style="margin-top:0cm;margin-right:14.15pt;
+  margin-bottom:10.0pt;margin-left:0cm;text-align:center"><span style="color:#010000">(Başvuru Numarası: 2021/35038)</span></p>
+			</td>
+		</tr>
+		<tr style="height:25.0pt">
+			<td style="width:16.0cm;padding:0cm 3.5pt 0cm 3.5pt;height:25.0pt" width="605">
+			<p align="center" class="MsoNormal" style="margin-top:0cm;margin-right:14.15pt;
+  margin-bottom:10.0pt;margin-left:0cm;text-align:center"><b><span style="color:#010000"> </span></b></p>
+			</td>
+		</tr>
+		<tr style="height:25.0pt">
+			<td style="width:16.0cm;padding:0cm 3.5pt 0cm 3.5pt;height:25.0pt" width="605">
+			<p align="center" class="MsoNormal" style="margin-top:0cm;margin-right:14.15pt;
+  margin-bottom:10.0pt;margin-left:0cm;text-align:center"><span style="color:#010000">Karar Tarihi: 11/7/2024</span></p>
+			</td>
+		</tr>
+		<tr style="height:25.0pt">
+			<td style="width:16.0cm;padding:0cm 3.5pt 0cm 3.5pt;height:25.0pt" width="605">
+			<p align="center" class="MsoNormal" style="margin-top:0cm;margin-right:14.15pt;
+  margin-bottom:10.0pt;margin-left:0cm;text-align:center"><span style="color:#010000">R.G. Tarih ve Sayı: 7/11/2024 - 32715</span></p>
+			</td>
+		</tr>
+		<tr style="height:25.0pt">
+			<td style="width:16.0cm;padding:0cm 3.5pt 0cm 3.5pt;height:25.0pt" width="605">
+			<p align="center" class="MsoNormal" style="margin-top:0cm;margin-right:14.15pt;
+  margin-bottom:10.0pt;margin-left:0cm;text-align:center"><b><span style="color:#010000"> </span></b></p>
+			</td>
+		</tr>
+		<tr style="height:25.0pt">
+			<td style="width:16.0cm;padding:0cm 3.5pt 0cm 3.5pt;height:25.0pt" width="605">
+			<p align="center" class="MsoNormal" style="margin-top:0cm;margin-right:14.15pt;
+  margin-bottom:10.0pt;margin-left:0cm;text-align:center"><b><span style="color:#010000">BİRİNCİ BÖLÜM</span></b></p>
+			</td>
+		</tr>
+		<tr style="height:25.0pt">
+			<td style="width:16.0cm;padding:0cm 3.5pt 0cm 3.5pt;height:25.0pt" width="605">
+			<p align="center" class="MsoNormal" style="margin-top:0cm;margin-right:14.15pt;
+  margin-bottom:10.0pt;margin-left:0cm;text-align:center"><b><span style="color:#010000"> </span></b></p>
+			</td>
+		</tr>
+		<tr style="height:25.0pt">
+			<td style="width:16.0cm;padding:0cm 3.5pt 0cm 3.5pt;height:25.0pt" width="605">
+			<p align="center" class="MsoNormal" style="margin-top:0cm;margin-right:14.15pt;
+  margin-bottom:10.0pt;margin-left:0cm;text-align:center"><b><span style="color:#010000">KARAR</span></b></p>
+			</td>
+		</tr>
+	</tbody>
+</table>
+</div>
+</div>
+
+<p> </p>
+
+<p><b><span new="" roman="" style="font-size:12.0pt;font-family:" times=""></span></b></p>
+
+<p> </p>
+
+<div class="WordSection2">
+<p align="right" class="MsoNormal" style="margin-top:0cm;margin-right:14.15pt;
+margin-bottom:10.0pt;margin-left:14.15pt;text-align:right;text-indent:1.0cm"><b><u><span style="color:#010000">RESEN GİZLİLİK KARARI VERİLDİ</span></u></b></p>
+
+<table border="0" cellpadding="0" cellspacing="0" class="MsoNormalTable" style="margin-left:40.0pt;border-collapse:collapse">
+	<tbody>
+		<tr style="height:22.7pt">
+			<td style="width:120.0pt;padding:0cm 3.5pt 0cm 3.5pt;
+  height:22.7pt" valign="top" width="160">
+			<p class="edf1393440552765"><b><span style="color:#010000">Başkan</span></b></p>
+			</td>
+			<td style="width:11.0pt;padding:0cm 3.5pt 0cm 3.5pt;
+  height:22.7pt" valign="top" width="15">
+			<p class="edf1393440552765"><b><span style="color:#010000">:</span></b></p>
+			</td>
+			<td style="width:270.0pt;padding:0cm 3.5pt 0cm 3.5pt;
+  height:22.7pt" valign="top" width="360">
+			<p class="edf1393440552765"><span style="color:#010000">Hasan Tahsin GÖKCAN</span></p>
+			</td>
+		</tr>
+		<tr style="height:22.7pt">
+			<td style="width:120.0pt;padding:0cm 3.5pt 0cm 3.5pt;
+  height:22.7pt" valign="top" width="160">
+			<p class="edf1393440552765"><b><span style="color:#010000">Üyeler</span></b></p>
+			</td>
+			<td style="width:11.0pt;padding:0cm 3.5pt 0cm 3.5pt;
+  height:22.7pt" valign="top" width="15">
+			<p class="edf1393440552765"><b><span style="color:#010000">:</span></b></p>
+			</td>
+			<td style="width:270.0pt;padding:0cm 3.5pt 0cm 3.5pt;
+  height:22.7pt" valign="top" width="360">
+			<p class="edf1393440552765"><span style="color:#010000">Recai AKYEL</span></p>
+			</td>
+		</tr>
+		<tr style="height:22.7pt">
+			<td style="width:120.0pt;padding:0cm 3.5pt 0cm 3.5pt;
+  height:22.7pt" valign="top" width="160">
+			<p class="edf1393440552765"><b><span style="color:#010000"> </span></b></p>
+			</td>
+			<td style="width:11.0pt;padding:0cm 3.5pt 0cm 3.5pt;
+  height:22.7pt" valign="top" width="15">
+			<p class="edf1393440552765"><b><span style="color:#010000"> </span></b></p>
+			</td>
+			<td style="width:270.0pt;padding:0cm 3.5pt 0cm 3.5pt;
+  height:22.7pt" valign="top" width="360">
+			<p class="edf1393440552765"><span style="color:#010000">Selahaddin MENTEŞ</span></p>
+			</td>
+		</tr>
+		<tr style="height:22.7pt">
+			<td style="width:120.0pt;padding:0cm 3.5pt 0cm 3.5pt;
+  height:22.7pt" valign="top" width="160">
+			<p class="edf1393440552765"><b><span style="color:#010000"> </span></b></p>
+			</td>
+			<td style="width:11.0pt;padding:0cm 3.5pt 0cm 3.5pt;
+  height:22.7pt" valign="top" width="15">
+			<p class="edf1393440552765"><b><span style="color:#010000"> </span></b></p>
+			</td>
+			<td style="width:270.0pt;padding:0cm 3.5pt 0cm 3.5pt;
+  height:22.7pt" valign="top" width="360">
+			<p class="edf1393440552765"><span style="color:#010000">İrfan FİDAN</span></p>
+			</td>
+		</tr>
+		<tr style="height:22.7pt">
+			<td style="width:120.0pt;padding:0cm 3.5pt 0cm 3.5pt;
+  height:22.7pt" valign="top" width="160">
+			<p class="edf1393440552765"><b><span style="color:#010000"> </span></b></p>
+			</td>
+			<td style="width:11.0pt;padding:0cm 3.5pt 0cm 3.5pt;
+  height:22.7pt" valign="top" width="15">
+			<p class="edf1393440552765"><b><span style="color:#010000"> </span></b></p>
+			</td>
+			<td style="width:270.0pt;padding:0cm 3.5pt 0cm 3.5pt;
+  height:22.7pt" valign="top" width="360">
+			<p class="edf1393440552765"><span style="color:#010000">Muhterem İNCE</span></p>
+			</td>
+		</tr>
+		<tr style="height:22.7pt">
+			<td style="width:120.0pt;padding:0cm 3.5pt 0cm 3.5pt;
+  height:22.7pt" valign="top" width="160">
+			<p class="edf1393440552765"><b><span style="color:#010000">Raportör</span></b></p>
+			</td>
+			<td style="width:11.0pt;padding:0cm 3.5pt 0cm 3.5pt;
+  height:22.7pt" valign="top" width="15">
+			<p class="edf1393440552765"><b><span style="color:#010000">:</span></b></p>
+			</td>
+			<td style="width:270.0pt;padding:0cm 3.5pt 0cm 3.5pt;
+  height:22.7pt" valign="top" width="360">
+			<p class="edf1393440552765"><span style="color:#010000">Tuğçe TAKCI</span></p>
+			</td>
+		</tr>
+		<tr style="height:22.7pt">
+			<td style="width:120.0pt;padding:0cm 3.5pt 0cm 3.5pt;
+  height:22.7pt" valign="top" width="160">
+			<p class="edf1393440552765"><b><span style="color:#010000">Başvurucu</span></b></p>
+			</td>
+			<td style="width:11.0pt;padding:0cm 3.5pt 0cm 3.5pt;
+  height:22.7pt" valign="top" width="15">
+			<p class="edf1393440552765"><b><span style="color:#010000">:</span></b></p>
+			</td>
+			<td style="width:270.0pt;padding:0cm 3.5pt 0cm 3.5pt;
+  height:22.7pt" valign="top" width="360">
+			<p class="edf1393440552765"><span style="color:#010000">E.E.T.</span></p>
+			</td>
+		</tr>
+		<tr style="height:22.7pt">
+			<td style="width:120.0pt;padding:0cm 3.5pt 0cm 3.5pt;
+  height:22.7pt" valign="top" width="160">
+			<p class="edf1393440552765"><b><span style="color:#010000">Vekili</span></b></p>
+			</td>
+			<td style="width:11.0pt;padding:0cm 3.5pt 0cm 3.5pt;
+  height:22.7pt" valign="top" width="15">
+			<p class="edf1393440552765"><b><span style="color:#010000">:</span></b></p>
+			</td>
+			<td style="width:270.0pt;padding:0cm 3.5pt 0cm 3.5pt;
+  height:22.7pt" valign="top" width="360">
+			<p class="edf1393440552765"><span style="color:#010000">Av. Mehmet BAĞLARS</span></p>
+			</td>
+		</tr>
+	</tbody>
+</table>
+
+<p class="edf1393440552765" style="margin-top:0cm;margin-right:14.15pt;
+margin-bottom:10.0pt;margin-left:14.15pt;text-align:justify;text-indent:1.0cm"><b><span style="color:#010000"> </span></b></p>
+
+<p class="edf1393440552765" style="margin-top:0cm;margin-right:14.15pt;
+margin-bottom:10.0pt;margin-left:14.15pt;text-align:justify;text-indent:1.0cm"><b><span style="color:#010000">I.</span></b><span style="color:#010000"> <b>BAŞVURUNUN ÖZETİ</b></span></p>
+
+<p class="edf1393440552765" style="margin-top:0cm;margin-right:14.15pt;
+margin-bottom:10.0pt;margin-left:14.15pt;text-align:justify;text-indent:1.0cm"><span style="color:#010000">1. Başvuru, suç tarihinde çocuk olan başvurucunun hakkında suç tarihinden uzun süre geçtikten sonra kovuşturmanın duruşma devresinde uygulanan tutuklama tedbirinin hukuki olmaması nedeniyle kişi hürriyeti ve güvenliği hakkının ihlal edildiği iddiasına ilişkindir.</span></p>
+
+<p class="edf1393440552765" style="margin-top:0cm;margin-right:14.15pt;
+margin-bottom:10.0pt;margin-left:14.15pt;text-align:justify;text-indent:1.0cm"><span style="color:#010000">2. İstanbul Anadolu Cumhuriyet Başsavcılığı (Başsavcılık) tarafından olay tarihi olan 9/7/2020 tarihinde on üç yaşında olan mağdurenin kanuni temsilcisinin şikâyeti üzerine 17/8/2004 doğumlu olup olay tarihinde on beş yaşında olan başvurucu ve diğer iki şüpheli hakkında cinsel saldırı suçundan soruşturma başlatılmıştır. Mağdurenin soruşturma kapsamında temin edilen jinekolojik ve psikiyatrik raporlarında cinsel saldırı eyleminin organ sokma suretiyle gerçekleştiği ve eylem neticesinde mağdurenin psikolojisinin bozulduğu tespitleri bulunmaktadır.</span></p>
+
+<p class="edf1393440552765" style="margin-top:0cm;margin-right:14.15pt;
+margin-bottom:10.0pt;margin-left:14.15pt;text-align:justify;text-indent:1.0cm"><span style="color:#010000">3. Soruşturma kapsamında ifadesi alınan mağdure, başvurucu ile rızasıyla ilişkiye girdiğini beyan etmiştir. Çocuğun nitelikli cinsel istismarı suçu isnadıyla başvurucunun ifadesi alınmış, başvurucu üzerine atılı suçlamaları reddetmiştir.</span></p>
+
+<p class="edf1393440552765" style="margin-top:0cm;margin-right:14.15pt;
+margin-bottom:10.0pt;margin-left:14.15pt;text-align:justify;text-indent:1.0cm"><span style="color:#010000">4. Başsavcılık, başvurucu hakkında tutuklama sebeplerinin bulunduğunu fakat atılı suça ilişkin tutuklama yasağının öngörülmesi nedeniyle başvurucu hakkında çocuğun cinsel istismarı suçunu işlediği isnadı nedeniyle adli kontrol tedbiri uygulanmasına karar verilmesi talebinde bulunmuştur. 13/7/2020 tarihinde İstanbul Anadolu 4. Sulh Ceza Hâkimliği (Sulh Ceza Hâkimliği) suça sürüklenen çocuğun üzerine atılı suçun vasfı, mevcut delil durumu, işin önemi ve verilmesi beklenen ceza gözetilerek başvurucu hakkında yurt dışına çıkamama ve haftada bir gün imza atma şeklinde<b> </b>adli kontrol tedbirlerinin uygulanmasına karar vermiştir.</span></p>
+
+<p class="edf1393440552765" style="margin-top:0cm;margin-right:14.15pt;
+margin-bottom:10.0pt;margin-left:14.15pt;text-align:justify;text-indent:1.0cm"><span style="color:#010000">5. Başvurucu hakkında 24/11/2020 tarihinde çocuğun nitelikli cinsel istismarı suçundan kamu davası açılmıştır. İddianamenin ilgili kısmı şöyledir:</span></p>
+
+<p class="edf1391432591322" style="margin-top:0cm;margin-right:14.15pt;
+margin-bottom:10.0pt;margin-left:14.15pt;text-align:justify;text-indent:1.0cm"><i><span style="font-size:11.0pt;color:#010000">"... mağdur hakkındaki 12/07/2020 tarih... adli raporda hymende... yırtık olduğunun tespit edildiği, çocuğun savunmasında iddiaları kabul etmediği, mağdur beyanı ile hakkındaki adli raporun örtüşmesi sebebiyle çocuğun suçtan kurtulmaya yönelik beyanına itibar edilmediği, söz konusu kafe müdürü alınan beyanında olay günü lavaboda tartışma sesleri duyduğunu, mağdur ve çocuğun onu fark etmeleri üzerine kafeden ayrıldığını beyan ettiği, kamera araştırmasında tuvaletin giriş ve çıkışlarını gösterir kamera tespit edilemediğinin belirtildiği, eylemin 5237 sayılı Türk Ceza Kanunu'nun 103/1-a delaletiyle 103/2 maddelerinde düzenlenen çocuğun nitelikli cinsel istismarı suçlarına vücut verdiği, mağdurun çocuktan şikayetçi olmadığı, ancak müştekinin çocuktan şikayetçi olduğu, mağdurun beyanında geçen yetişkin şüphelilere ilişkin ... sayılı ayrı bir soruşturma yürütüldüğü..."</span></i></p>
+
+<p class="edf1393440552765" style="margin-top:0cm;margin-right:14.15pt;
+margin-bottom:10.0pt;margin-left:14.15pt;text-align:justify;text-indent:1.0cm"><span style="color:#010000">6. Çocuk Ağır Ceza Mahkemesindeki yargılama 11/2/2021 tarihinde İstanbul Anadolu 2. Ağır Ceza Mahkemesinde (Ağır Ceza Mahkemesi) aynı olayla ilgili olarak diğer iki sanık hakkında yürütülen yargılama ile birleştirilmiştir. Birleştirmeye Ağır Ceza Mahkemesinin 9/2/2021 tarihli müzekkere ile onay vermesi sonrasında 11/2/2021 tarihinde karar verilmiştir.</span></p>
+
+<p class="edf1393440552765" style="margin-top:0cm;margin-right:14.15pt;
+margin-bottom:10.0pt;margin-left:14.15pt;text-align:justify;text-indent:1.0cm"><span style="color:#010000">7. Ağır Ceza Mahkemesince 9/2/2021 tarihli duruşmada, birleşen yargılamada suça sürüklenen çocuk olan başvurucunun gelecek duruşmada ifadesinin alınması için -yargılamada tutuklu iki sanık bulunması nedeniyle- başvurucu hakkında zorla getirme emri düzenlenmesine karar verilmiştir. Dosyaların birleştirilmesi sonrasında gerçekleşen 6/4/2021 tarihli duruşmada Ağır Ceza Mahkemesi "<i>atılı suçun vasıf ve mahiyeti, adli kontrol hükümlerinin yetersiz kalacağı, mevcut delil durumu ve atılı suçun katalog suçlardan olduğu"</i>gerekçesiyle başvurucunun tutuklanmasına karar vermiştir. Başvurucunun itirazı İstanbul Anadolu 3. Ağır Ceza Mahkemesince dosya kapsamına göre tutuklama kararının orantılı olduğu belirtilerek 16/4/2021 tarihinde reddedilmiştir.</span></p>
+
+<p class="edf1393440552765" style="margin-top:0cm;margin-right:14.15pt;
+margin-bottom:10.0pt;margin-left:14.15pt;text-align:justify;text-indent:1.0cm"><span style="color:#010000">8. Başvurucu, ret kararını 20/4/2021 tarihinde öğrendiğini bildirmiş olup 6/5/2021 tarihinde bireysel başvuruda bulunmuştur.</span></p>
+
+<p class="edf1393440552765" style="margin-top:0cm;margin-right:14.15pt;
+margin-bottom:10.0pt;margin-left:14.15pt;text-align:justify;text-indent:1.0cm"><span style="color:#010000">9. Ağır Ceza Mahkemesi 14/9/2021 tarihinde başvurucunun çocuğun nitelikli cinsel istismarı<b> </b>suçundan neticeten 8 yıl 10 ay 20 gün hapis cezasıyla cezalandırılmasına ve<i> </i>tutuklu kaldığı süre gözetilerek tahliyesine, hakkında yurt dışına çıkamama adli kontrol tedbiri uygulanmasına karar vermiştir.</span></p>
+
+<p class="edf1393440552765" style="margin-top:0cm;margin-right:14.15pt;
+margin-bottom:10.0pt;margin-left:14.15pt;text-align:justify;text-indent:1.0cm"><span style="color:#010000">10. İstanbul Bölge Adliye Mahkemesi 20. Ceza Dairesi başvurucu yönünden istinaf kanun yolu başvurusunun esastan reddine, Yargıtay 9. Ceza Dairesi ise 7/11/2022 tarihinde, eylemin çocuğun cinsel istismarı suçunu oluşturduğu gerekçesiyle başvurucu yönünden hükmün bozulmasına karar vermiştir.</span></p>
+
+<p class="edf1393440552765" style="margin-top:0cm;margin-right:14.15pt;
+margin-bottom:10.0pt;margin-left:14.15pt;text-align:justify;text-indent:1.0cm"><span style="color:#010000">11. Ağır Ceza Mahkemesi 4/5/2023 tarihinde başvurucunun çocuğun cinsel istismarı suçundan neticeten 4 yıl 5 ay 10 gün hapis cezasıyla cezalandırılmasına karar vermiştir. Temyiz incelemesi devam etmektedir.</span></p>
+
+<p class="edf1393440552765" style="margin-top:0cm;margin-right:14.15pt;
+margin-bottom:10.0pt;margin-left:14.15pt;text-align:justify;text-indent:1.0cm"><span style="color:#010000">12. Komisyon, başvurunun kabul edilebilirlik ve esas incelemesinin Bölüm tarafından yapılmasına karar vermiştir.</span></p>
+
+<p class="edf1393440552765" style="margin-top:0cm;margin-right:14.15pt;
+margin-bottom:10.0pt;margin-left:14.15pt;text-align:justify;text-indent:1.0cm"><b><span style="color:#010000">II.</span></b><span style="color:#010000"> <b>DEĞERLENDİRME</b></span></p>
+
+<p class="edf1393440552765" style="margin-top:0cm;margin-right:14.15pt;
+margin-bottom:10.0pt;margin-left:14.15pt;text-align:justify;text-indent:1.0cm"><span style="color:#010000">13. Başvurucu; adli kontrol tedbirine uyduğu, duruşmaya kendiliğinden katıldığı ve hakkında kaçma şüphesi bulunduğuna dair delil olmadığı hâlde kaçma şüphesi olduğundan bahisle adli kontrol tedbiri uygulanmasına dair karardan bir yıl sonra tutuklanmasına karar verilmesinin hukuka aykırı olduğunu belirterek kişi hürriyeti ve güvenliği hakkının, iddia edilen olayın gerçek olmadığına dair adli rapor olduğu ve kaçma şüphesine dair bir veri olmadığı hâlde kaçma şüphesi bulunduğu kanaatine ne şekilde varıldığına ilişkin bir gerekçe sunulmadan tutuklama kararı verilmesi nedeniyle adil yargılanma hakkının güvencelerinden olan gerekçeli karar hakkının ihlal edildiğini ileri sürmüştür.</span></p>
+
+<p class="edf1393440552765" style="margin-top:0cm;margin-right:14.15pt;
+margin-bottom:10.0pt;margin-left:14.15pt;text-align:justify;text-indent:1.0cm"><span style="color:#010000">14. Adalet Bakanlığı (Bakanlık) görüşünde; başvurucunun tahliye olması nedeniyle tazminat davası açma imkânı olduğunun kabul edilebilirlik incelemesinde gözetilmesi gerektiği, iddianın esası bakımından yapılacak incelemede Mahkemenin olaya ilişkin adli raporları ve isnat edilen suçun katalog suçlardan olduğunu gözeterek tutuklama kararı verdiğinin dikkate alınması gerektiği bildirilmiştir. Başvurucu; Bakanlık görüşüne karşı beyanında, nitelikli cinsel istismar suçundan mahkûmiyet kararı verilmesinde dikkate alınan raporun delil niteliği taşımadığını, nitekim Yargıtayın da bu rapora itibar etmeyerek ve suç vasfını farklı nitelendirerek hükmün bozulmasına karar verdiğini belirttikten sonra başvuru formundaki iddialarını yinelemiştir.</span></p>
+
+<p class="edf1393440552765" style="margin-top:0cm;margin-right:14.15pt;
+margin-bottom:10.0pt;margin-left:14.15pt;text-align:justify;text-indent:1.0cm"><span style="color:#010000">15. Başvuru, kişi hürriyeti ve güvenliği hakkı kapsamında incelenmiştir.</span></p>
+
+<p class="edf1393440552765" style="margin-top:0cm;margin-right:14.15pt;
+margin-bottom:10.0pt;margin-left:14.15pt;text-align:justify;text-indent:1.0cm"><span style="color:#010000">16. Anayasa Mahkemesi içtihadına göre tutuklama tedbirinin uygulandığı yargılama neticesinde verilen kararın kesinleşmesi hâlinde başvurucunun tutuklamanın hukuka aykırı olduğu iddiasına yönelik olarak 4/12/2004 tarihli ve 5271 sayılı Ceza Muhakemesi Kanunu'nun 141. maddesinin (1) numaralı fıkrasının (a) bendi kapsamında tazminat davası açabileceği kabul edildiğinden (<i>Reşat Ertan,</i> B. No: 2013/5700, 15/4/2015, § 26; <i>Ömer Köse</i>, B. No: 2014/12036, 16/11/2016, § 34; <i>Eyyüp Güneş</i> [GK], B. No: 2017/28308, 21/10/2021, § 88; <i>Murat Ağırel ve diğerleri</i> [GK], B. No: 2020/11655, 7/4/2022, §§ 23-26) somut olayda başvurucu hakkındaki hüküm henüz kesinleşmemiş olmakla başvuru yollarının tüketildiği sonucuna varılan ve açıkça dayanaktan yoksun olmayıp kabul edilemezliğine karar verilmesini gerektirecek başka bir neden de bulunmadığı anlaşılan başvurunun kabul edilebilir olduğuna karar verilmesi gerekir.</span></p>
+
+<p class="edf1393440552765" style="margin-top:0cm;margin-right:14.15pt;
+margin-bottom:10.0pt;margin-left:14.15pt;text-align:justify;text-indent:1.0cm"><span style="color:#010000">17. Kişi hürriyeti ve güvenliği hakkına yönelik bir müdahale, temel hak ve özgürlüklerin sınırlandırılmasına ilişkin ölçütlerin belirlendiği Anayasa'nın 13. maddesinde belirtilen koşullara uygun olmadığı müddetçe Anayasa'nın 19. maddesinin ihlalini teşkil edecektir. Bu sebeple sınırlamanın Anayasa'nın 13. maddesinde öngörülen ve tutuklama tedbirinin niteliğine uygun düşen, kanun tarafından öngörülme, Anayasa'nın ilgili maddelerinde belirtilen haklı sebeplerden bir veya daha fazlasına dayanma ve ölçülülük ilkesine aykırı olmama koşullarına uygun olup olmadığının belirlenmesi gerekir (<i>Halas Aslan</i>, B. No: 2014/4994, 16/2/2017, §§ 53, 54). Dahası kişi hürriyeti ve güvenliği hakkına yapılan bir müdahalenin Anayasa’ya uygun olabilmesi için Anayasa’nın 13. maddesinde belirtilen ölçütlerden biri olan Anayasa’nın sözüne aykırı olmama kriterini de karşılamalıdır.</span></p>
+
+<p class="edf1393440552765" style="margin-top:0cm;margin-right:14.15pt;
+margin-bottom:10.0pt;margin-left:14.15pt;text-align:justify;text-indent:1.0cm"><span style="color:#010000">18. Somut olayda öncelikle başvurucunun tutuklanmasının kanuni dayanağı olup olmadığı belirlenmelidir. Başvurucu, çocuğun cinsel istismarı suçundan 5271 sayılı Kanun'un 100. maddesi uyarınca tutuklanmıştır. Diğer yandan başvurucu, adli kontrol tedbirlerine uymasına rağmen yargılama aşamasında tutuklanmasının hukuka aykırı olduğunu ileri sürmüştür. Adli kontrol tedbirlerine uyulsa bile soruşturma veya kovuşturma aşamasında şüpheli ya da sanıklar hakkında tutuklama tedbirine başvurulmasının önünde kanundan kaynaklanan bir engelin bulunduğu tespit edilmemiştir (aynı yöndeki değerlendirme için bkz. <i>Eren</i> <i>Erdem</i>, B. No: 2019/9120, 9/6/2020, §§ 138, 143; <i>Ahmet Ali Ala</i>, B. No: 2020/5156, 10/3/2021, § 38). Tüm bu verilere göre başvurucu hakkında uygulanan tutuklama tedbirinin kanuni dayanağının bulunduğu anlaşılmaktadır.</span></p>
+
+<p class="edf1393440552765" style="margin-top:0cm;margin-right:14.15pt;
+margin-bottom:10.0pt;margin-left:14.15pt;text-align:justify;text-indent:1.0cm"><span style="color:#010000">19. Kişinin tutuklanması için ön koşul olan suçluluğu hakkında kuvvetli belirti bulunması hususu ise Anayasa’nın 19. maddesinin üçüncü fıkrasının <i>sözünden</i> kaynaklanan ek bir güvencedir (AYM, E.2021/96, K.2022/8, 26/1/2022, § 14).</span></p>
+
+<p class="edf1393440552765" style="margin-top:0cm;margin-right:14.15pt;
+margin-bottom:10.0pt;margin-left:14.15pt;text-align:justify;text-indent:1.0cm"><span style="color:#010000">20. Suçun işlendiğine dair kuvvetli belirti olup olmadığı yönünden yapılan incelemede -dosyadaki mağdure ve tanık beyanları ile sağlık raporları gözetildiğinde- derece mahkemesinin başvurucuya isnat edilen suçun işlendiğine dair kuvvetli belirti olduğunun kabulünden ayrılmayı gerektirecek bir husus bulunmadığı değerlendirilmiştir.</span></p>
+
+<p class="edf1393440552765" style="margin-top:0cm;margin-right:14.15pt;
+margin-bottom:10.0pt;margin-left:14.15pt;text-align:justify;text-indent:1.0cm"><span style="color:#010000">21. Diğer taraftan başvurucu hakkında uygulanan tutuklama tedbirinin meşru bir amacı olup olmadığının değerlendirilmesi gerekmektedir.</span></p>
+
+<p class="edf1393440552765" style="margin-top:0cm;margin-right:14.15pt;
+margin-bottom:10.0pt;margin-left:14.15pt;text-align:justify;text-indent:1.0cm"><span style="color:#010000">22. Başsavcılık tutuklama yasağı bulunması nedeniyle başvurucu hakkında tutuklama talep edilemediğini belirtmişse de başvurucu suç tarihi itibarıyla 15 yaşını doldurmuştur ve isnat edilen suçun üst sınırı beş yıldan fazladır. Dolayısıyla bir tutuklama yasağı bulunmamaktadır. Sulh Ceza Hâkimliği de suçun vasfını, mevcut delil durumunu ve verilmesi beklenen cezayı<i> </i>gözeterek 13/7/2020 tarihinde başvurucu hakkında yurt dışına çıkamama ve haftada bir gün imza atma şeklinde<b> </b>adli kontrol tedbirlerinin uygulanmasına karar vermiştir.</span></p>
+
+<p class="edf1393440552765" style="margin-top:0cm;margin-right:14.15pt;
+margin-bottom:10.0pt;margin-left:14.15pt;text-align:justify;text-indent:1.0cm"><span style="color:#010000">23. Ağır Ceza Mahkemesi ilk celsede, gelecek duruşmada ifadesinin alınması için -yargılamada tutuklu iki sanık bulunması nedeniyle- başvurucu hakkında zorla getirme emri düzenlenmesine karar vermiş; 6/4/2021 tarihli ikinci celsede ise atılı suçun vasıf ve mahiyeti, adli kontrol hükümlerinin yetersiz kalacağı, mevcut delil durumu ve atılı suçun katalog suçlardan olduğu<i> </i>gerekçesiyle başvurucunun tutuklanmasına karar vermiştir.</span></p>
+
+<p class="edf1393440552765" style="margin-top:0cm;margin-right:14.15pt;
+margin-bottom:10.0pt;margin-left:14.15pt;text-align:justify;text-indent:1.0cm"><span style="color:#010000">24. Ağır Ceza Mahkemesi tutuklama kararında, adli kontrol tedbirinin yetersiz kalacağına ve isnat edilen suçun 5271 sayılı Kanun'un 100. maddesinin (3) numaralı fıkrasında yer alan ve Kanun gereği tutuklama nedeni varsayılabilen suçlar arasında olmasına değinmiş; tutuklama nedenleri olarak başvurucunun kaçma şüphesinin ya da delilleri yok etme veya değiştirme riskinin varlığına yahut başvurucunun adli kontrol tedbirlerine uymadığına değinmemiştir.</span></p>
+
+<p class="edf1393440552765" style="margin-top:0cm;margin-right:14.15pt;
+margin-bottom:10.0pt;margin-left:14.15pt;text-align:justify;text-indent:1.0cm"><span style="color:#010000">25. Somut olayda tutuklama kararında kaçma şüphesini uyandıran somut olgularla bağlantı kurulmadan suçun niteliğine (katalog suçlar arasında yer almasına) atıf yapılmış ise de bir suçun niteliği veya bu suça ilişkin olarak verilebilecek cezanın ağırlığı her zaman kaçma tehlikesinin bulunduğunu ortaya koyan bir durum olarak kabul edilemez. Bir ceza soruşturması veya kovuşturması bağlamında uygulanan tutuklama tedbirleri bakımından kaçma şüphesinin bulunup bulunmadığının veya devam edip etmediğinin belirlenmesinde -suçun ya da cezanın niteliğine ilişkin olanların yanı sıra- şüphelinin veya sanığın durumunun da özellikle dikkate alınması gerekir. Bu bağlamda şüpheli veya sanığın sabit bir yerleşim yerinin olup olmadığı, mesleği, mal varlığı, ailesinden veya işinden kaynaklanan bağlantıları, yakalanma şekli, süreç içindeki tavır ve davranışları, başka bir ülkeye gitmesini veya orada barınmasını kolaylaştıran bazı özel şartların olup olmadığı, kişilik özelliklerini ortaya koyan olgular, ahlaki durumunu gösteren tutum ve eylemleri gibi kişisel (subjektif) unsurlar birlikte değerlendirilerek bir kanaate ulaşılmalıdır (<i>Eren Erdem, </i>§ 135).</span></p>
+
+<p class="edf1393440552765" style="margin-top:0cm;margin-right:14.15pt;
+margin-bottom:10.0pt;margin-left:14.15pt;text-align:justify;text-indent:1.0cm"><span style="color:#010000">26. Nitekim buna paralel olarak 5271 sayılı Kanun’un 100. maddesinin (2) numaralı fıkrasının (a) bendinde şüpheli veya sanığın kaçması, saklanması veya kaçacağı şüphesini uyandıran somut olgular varsa bu tutuklama nedenine dayanılabileceği belirtilmiştir. Yine 5271 sayılı Kanun’un 101. maddesinin (2) numaralı fıkrasının (b) bendinde tutuklama kararında tutuklama nedenlerinin (kaçma şüphesinin) varlığını gösteren delillerin somut olgularla gerekçelendirilerek açıkça gösterileceği belirtilmiş ancak tutuklama kararında kaçma şüphesinin dayanağı somut olgularla ortaya konulmamıştır.</span></p>
+
+<p class="edf1393440552765" style="margin-top:0cm;margin-right:14.15pt;
+margin-bottom:10.0pt;margin-left:14.15pt;text-align:justify;text-indent:1.0cm"><span style="color:#010000">27. Sekiz ayı aşkın süredir hakkında adli kontrol tedbiri uygulanan başvurucunun kaçacağına dair bir şüphenin ya da delilleri yok etme veya değiştirme riskinin varlığına veya başvurucunun adli kontrol tedbirine uymadığına ilişkin olarak dosyaya yansıyan bir veri de yoktur. Bu nedenle somut olayın şartlarında suçun katalog suç olmasına ve adli kontrol tedbirinin yetersiz kalacağına dayanılması, suç tarihinden sekiz ayı geçen bir süre sonra verilen tutuklama kararı açısından yeterli görülmemiştir. Tutuklama kararının tedbirin meşru amacını ortaya koyma yönünden yeterli gerekçe içermediği değerlendirilmiştir. Varılan sonuç karşısında tedbirin ölçülülüğü yönünden ayrıca inceleme yapılmasına gerek yoktur.</span></p>
+
+<p class="edf1393440552765" style="margin-top:0cm;margin-right:14.15pt;
+margin-bottom:10.0pt;margin-left:14.15pt;text-align:justify;text-indent:1.0cm"><span style="color:#010000">28. Sonuç olarak tutuklama nedenlerinin bulunduğuna dair olgular yeterli gerekçeyle ortaya konulmadan başvurucu hakkında tutuklama tedbiri uygulanmasının kişi hürriyeti ve güvenliği hakkına ilişkin olarak Anayasa'nın 13. maddesi ile 19. maddesinin üçüncü fıkrasında yer alan güvencelere aykırı olduğu sonucuna varılmıştır.</span></p>
+
+<p class="edf1393440552765" style="margin-top:0cm;margin-right:14.15pt;
+margin-bottom:10.0pt;margin-left:14.15pt;text-align:justify;text-indent:1.0cm"><span style="color:#010000">29. Açıklanan gerekçelerle Anayasa'nın 19. maddesinin üçüncü fıkrası bağlamında kişi hürriyeti ve güvenliği hakkının ihlal edildiğine karar verilmesi gerekir.</span></p>
+
+<p class="edf1393440552765" style="margin-top:0cm;margin-right:14.15pt;
+margin-bottom:10.0pt;margin-left:14.15pt;text-align:justify;text-indent:1.0cm"><b><span style="color:#010000">III.</span></b><span style="color:#010000"> <b>GİDERİM</b></span></p>
+
+<p class="edf1393440552765" style="margin-top:0cm;margin-right:14.15pt;
+margin-bottom:10.0pt;margin-left:14.15pt;text-align:justify;text-indent:1.0cm"><span style="color:#010000">30. Başvurucu; ihlalin tespiti, yeniden yargılama ve 50.000 TL manevi tazminat ödenmesi talebinde bulunmuştur.</span></p>
+
+<p class="edf1393440552765" style="margin-top:0cm;margin-right:14.15pt;
+margin-bottom:10.0pt;margin-left:14.15pt;text-align:justify;text-indent:1.0cm"><span style="color:#010000">31. Anayasa Mahkemesince yapılan inceleme sonucunda tutuklamanın hukuki olmaması nedeniyle Anayasa'nın 19. maddesinin üçüncü fıkrasının ihlal edildiğine karar verilmiştir. Bu itibarla ihlalin mahkeme kararından kaynaklandığı anlaşılmıştır. Ancak bireysel başvuruda bulunduktan sonra başvurucunun tahliye olduğu ve tutukluluk hâlinin sona erdiği tespit edilmiştir. Dolayısıyla kararın yeniden yargılama yapılmak üzere derece mahkemesine gönderilmesinde hukuki yarar bulunmadığı sonucuna varılmıştır. Öte yandan somut olayda ihlalin tespit edilmesinin başvurucunun uğradığı zararların giderilmesi bakımından yetersiz kalacağı açıktır. Başvurucunun kişi hürriyeti ve güvenliği hakkına yönelik müdahale nedeniyle yalnızca ihlal tespitiyle giderilemeyecek olan manevi zararları karşılığında başvurucuya talebiyle bağlı olarak net 50.000 TL manevi tazminat ödenmesine karar verilmesi gerekir.</span></p>
+
+<p class="edf1393440552765" style="margin-top:0cm;margin-right:14.15pt;
+margin-bottom:10.0pt;margin-left:14.15pt;text-align:justify;text-indent:1.0cm"><b><span style="color:#010000">IV.</span></b><span style="color:#010000"> <b>HÜKÜM</b></span></p>
+
+<p class="edf1393440552765" style="margin-top:0cm;margin-right:14.15pt;
+margin-bottom:10.0pt;margin-left:14.15pt;text-align:justify;text-indent:1.0cm"><span style="color:#010000">Açıklanan gerekçelerle;</span></p>
+
+<p class="edf1393440552765" style="margin-top:0cm;margin-right:14.15pt;
+margin-bottom:10.0pt;margin-left:14.15pt;text-align:justify;text-indent:1.0cm"><span style="color:#010000">A. Başvurunun niteliği gereği kamuya açık belgelerde başvurucunun kimliğinin RESEN GİZLİ TUTULMASINA,</span></p>
+
+<p class="edf1393440552765" style="margin-top:0cm;margin-right:14.15pt;
+margin-bottom:10.0pt;margin-left:14.15pt;text-align:justify;text-indent:1.0cm"><span style="color:#010000">B. Tutuklamanın hukuki olmaması nedeniyle kişi hürriyeti ve güvenliği hakkının ihlal edildiğine ilişkin iddianın KABUL EDİLEBİLİR OLDUĞUNA,</span></p>
+
+<p class="edf1393440552765" style="margin-top:0cm;margin-right:14.15pt;
+margin-bottom:10.0pt;margin-left:14.15pt;text-align:justify;text-indent:1.0cm"><span style="color:#010000">C. Tutuklamanın hukuki olmaması nedeniyle Anayasa'nın 19. maddesinin üçüncü fıkrası kapsamındaki kişi hürriyeti ve güvenliği hakkının İHLAL EDİLDİĞİNE,</span></p>
+
+<p class="edf1393440552765" style="margin-top:0cm;margin-right:14.15pt;
+margin-bottom:10.0pt;margin-left:14.15pt;text-align:justify;text-indent:1.0cm"><span style="color:#010000">D. Başvurucuya net 50.000 TL manevi tazminat ÖDENMESİNE,</span></p>
+
+<p class="edf1393440552765" style="margin-top:0cm;margin-right:14.15pt;
+margin-bottom:10.0pt;margin-left:14.15pt;text-align:justify;text-indent:1.0cm"><span style="color:#010000">E. 487,60 TL harç ve 18.800 TL vekâlet ücretinden oluşan toplam 19.287,60 TL yargılama giderinin başvurucuya ÖDENMESİNE,</span></p>
+
+<p class="edf1393440552765" style="margin-top:0cm;margin-right:14.15pt;
+margin-bottom:10.0pt;margin-left:14.15pt;text-align:justify;text-indent:1.0cm"><span style="color:#010000">F. Ödemenin kararın tebliğini takiben başvurucunun Hazine ve Maliye Bakanlığına başvuru tarihinden itibaren dört ay içinde yapılmasına, ödemede gecikme olması hâlinde bu sürenin sona erdiği tarihten ödeme tarihine kadar geçen süre için yasal FAİZ UYGULANMASINA,</span></p>
+
+<p class="edf1393440552765" style="margin-top:0cm;margin-right:14.15pt;
+margin-bottom:10.0pt;margin-left:14.15pt;text-align:justify;text-indent:1.0cm"><span style="color:#010000">G. Kararın bir örneğinin bilgi için İstanbul Anadolu 2. Ağır Ceza Mahkemesine (E.2023/45, K.2023/291) GÖNDERİLMESİNE,</span></p>
+
+<p class="edf1393440552765" style="margin-top:0cm;margin-right:14.15pt;
+margin-bottom:10.0pt;margin-left:14.15pt;text-align:justify;text-indent:1.0cm"><span style="color:#010000">H. Kararın bir örneğinin Adalet Bakanlığına GÖNDERİLMESİNE 11/7/2024 tarihinde OYBİRLİĞİYLE karar verildi.</span></p>
+</div>
