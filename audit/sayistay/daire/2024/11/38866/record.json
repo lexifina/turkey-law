@@ -1,0 +1,17 @@
+{
+  "kind": "decision",
+  "issuer": "Sayıştay 1. Dairesi",
+  "number": "10945",
+  "decision_date": "2024-11-07",
+  "source_id": 38866,
+  "chamber": "1",
+  "ilam_number": "186",
+  "item_number": 1,
+  "public_body_type": "Diğer Özel Bütçeli İdareler",
+  "account_year": 2021,
+  "subject": "İhale Mevzuatı ile İlgili Kararlar",
+  "source": "https://www.sayistay.gov.tr/KararlarDaire/Detay/38866/",
+  "source_sha256": "a35a744a718b04244f618a5971a6f7fdf0012c559da6f48686e77bbb719b7faf",
+  "text_status": "as-enacted",
+  "text_file": "metin.md"
+}
