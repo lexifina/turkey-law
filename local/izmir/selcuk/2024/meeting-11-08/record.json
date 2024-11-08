@@ -1,0 +1,25 @@
+{
+  "number": "meeting-11-08",
+  "number_as_published": "meeting-11-08",
+  "year": 2024,
+  "title": "8 Kasım 2024 Tarihli Meclis Kararları",
+  "decision_date": "2024-11-08",
+  "source": "https://www.selcuk.bel.tr/siteApi/services/meclisGundemVeKararlari.json?month=0&year=2024&type=karar",
+  "official_document": "https://www.selcuk.bel.tr/fileserver/uploads/vbnro5.pdf",
+  "source_sha256": "2b573d862c9d9fa1155719d3c01b4835f99bd7ce4756205a4d3a009e64fc3871",
+  "issuer": "Selçuk Belediye Meclisi",
+  "history_type": "metadata",
+  "text_status": "metadata-only: listing fields as published; complete decision text is in the linked official document, not transcribed",
+  "in_force": "2024-11-08",
+  "in_force_basis": "Decision date as printed in the official council listing: 8 KASIM 2024; adoption date of the council decision; legal commencement not asserted",
+  "missing": [
+    "complete official decision text",
+    "official annexes"
+  ],
+  "law_text_complete": false,
+  "privacy_withheld": false,
+  "listing_label": "8 Kasım 2024 Tarihli Meclis Kararları",
+  "record_scope": "one official file of council decisions (meeting)",
+  "list_date": "8 Kasım 2024",
+  "list_year": 2024
+}
