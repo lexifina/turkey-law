@@ -1,0 +1,20 @@
+{
+  "record_type": "gazette-item",
+  "gazette": "Resmî Gazete",
+  "jurisdiction": "TR",
+  "date": "2024-11-10",
+  "issue": "32718",
+  "edition": "regular",
+  "item": 3,
+  "section": "YÜRÜTME VE İDARE BÖLÜMÜ",
+  "heading": "TEBLİĞ",
+  "title": "Ulusal Meslek Standartlarına Dair Tebliğ (No: 2024/32)",
+  "official_link": "https://www.resmigazete.gov.tr/eskiler/2024/11/20241110-3.htm",
+  "link_format": "htm",
+  "index_url": "https://www.resmigazete.gov.tr/eskiler/2024/11/20241110.htm",
+  "index_sha256": "2f5614bf5b1256a38425e5abec373613091e8121c3be655af41147c8698a270b",
+  "index_header": "10 Kasım 2024 ... 32718 Sayılı Resmî Gazete",
+  "issue_pdf": "https://www.resmigazete.gov.tr/eskiler/2024/11/20241110.pdf",
+  "in_force_basis": "Resmî Gazete publication date; not a commencement reading.",
+  "text_status": "metadata-only; text not yet fetched (follow-up pass adds it as its own commit)"
+}
