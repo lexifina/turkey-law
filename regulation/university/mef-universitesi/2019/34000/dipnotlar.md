@@ -1,0 +1,1 @@
+[1] 10/11/2024 tarihli ve 32718 sayılı Resmî Gazete’de yayımlanan değişiklik ile Yönetmeliğin 13 üncü maddesine altıncı fıkradan sonra gelmek üzere fıkralar eklenmiş ve diğer fıkralar buna göre teselsül ettirilmiştir.

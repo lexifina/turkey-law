@@ -1,0 +1,2 @@
+Öğrenim dili ve İngilizce yeterlik
+MADDE 29 – (1) Öğrenim dili İngilizce olan programlara öğrenci kabulünde adayların MEF Üniversitesi tarafından düzenlenen veya Senato tarafından kabul edilen ulusal ve/veya uluslararası İngilizce dil sınavlarından birinden ilgili Enstitü Kararı ve Senato onayıyla belirlenen puanı almış olmaları gereklidir. Bir yükseköğretim kurumunun öğrenim dili %100 İngilizce olan programlarından veya resmi dili İngilizce olan ülkelerde öğrenim dili İngilizce olan yükseköğretim kurumlarından mezun olan adaylar, İngilizce yeterlik koşulundan muaf olur.

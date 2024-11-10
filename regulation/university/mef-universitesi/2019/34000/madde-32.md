@@ -1,0 +1,3 @@
+Derslerin kredi değerleri
+MADDE 32 – (1) Derslerin AKTS değerleri, programın yer aldığı diploma düzeyi ve alan için Türkiye Yükseköğretim Yeterlilikler Çerçevesine göre belirlenen öğrenim kazanımları ve öğrencilerin çalışma saati göz önünde tutularak Enstitü Kurulu Kararı ve Senato onayı ile belirlenir.
+(2) İlgili programı tamamlayan öğrencinin kazanacağı bilgi, beceri ve yetkinliklere o dersin katkısını ifade eden öğrenim kazanımları ile açıkça belirlenmiş teorik veya uygulamalı ders saatleri ve öğrenciler için öngörülen diğer faaliyetler için gerekli çalışma saatleri de göz önünde bulundurularak Enstitü Kurulu kararı ve Senato onayı ile belirlenen ilkeler çerçevesinde derslerin AKTS değerleri hesaplanır.

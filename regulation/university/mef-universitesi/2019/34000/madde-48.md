@@ -1,0 +1,3 @@
+Öğrenim ücretleri ve burslar
+MADDE 48 – (1) Üniversitede eğitim-öğretim ücretlidir. Programlara devam edebilmek için ödenecek yıllık eğitim-öğretim ücretleri, Mütevelli Heyeti tarafından belirlenir. Öğrenciler, öğrenim ücretlerini kayıt olduğu dönemin başında, akademik takvimde belirtilen süreler içinde ödemekle yükümlüdürler. Ödeme usulü her akademik dönemin başında Senato tarafından karara bağlanır. Mali yükümlülüklerini yerine getirmeyen öğrencilerin kayıtları yenilenmez veya dondurulmaz. Bu öğrenciler, hiçbir şekilde öğrencilik haklarından yararlanamazlar.
+(2) Lisansüstü öğrencilerine verilecek burslar Üniversite Yönetim Kurulu tarafından belirlenir.

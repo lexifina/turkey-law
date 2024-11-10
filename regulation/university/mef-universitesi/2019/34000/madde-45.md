@@ -1,0 +1,7 @@
+DOKUZUNCU BÖLÜM
+Çeşitli ve Son Hükümler
+Özel öğrenci kabulü
+MADDE 45 – (1) (Değişik:RG-13/3/2023-32131) Bir yüksek lisans, doktora ya da sanatta yeterlik programına kayıtlı olan öğrenciler, diğer yükseköğretim kurumlarındaki lisansüstü derslere kayıtlı olduğu enstitü anabilim/anasanat dalı başkanlığının onayı ile özel öğrenci olarak kabul edilebilir. Özel öğrencilik başvurusu ilgili Enstitüye yapılır. Başvurular Enstitü Yönetim Kurulu tarafından en geç akademik takvimde ilan edilen ders ekleme-bırakma dönemi içinde karara bağlanır. Özel öğrencilik başvurusu kabul edilen öğrenci, Üniversite tarafından belirlenen öğrenim ücretini ödeyerek en geç ders ekleme-bırakma dönemi içinde kabul edildiği program için Üniversiteye kaydını tamamlar ve yine aynı süre içinde ders kaydını gerçekleştirir. Lisansüstü derslere kabul edilen öğrencilerin özel öğrenci olarak aldığı ve başarılı olduğu derslerin muafiyet işlemleri kayıtlı olduğu enstitü anabilim/anasanat dalı başkanlığı tarafından yürütülür.
+(2) Özel öğrenci statüsünde ders alanlar öğrencilik haklarından yararlanamaz. Bu statüdeki öğrenciler Üniversitenin diğer öğrencilerine uygulanan akademik ve idari kurallarına uymakla yükümlüdürler. Özel öğrenci olarak ders alanlara diploma veya derece verilmez; ancak, talep etmeleri durumunda kendilerine aldıkları dersleri ve notları gösteren bir belge verilir.
+(3) Özel öğrencilik ilgili programda doğrudan derece elde etmeye yönelik bir eğitim olmayıp süresi iki yarıyılı geçemez. Yaz okulu bu süreye dâhil edilmez.
+(4) (Mülga:RG-13/3/2023-32131)

@@ -1,0 +1,4 @@
+Not ortalamaları
+MADDE 43 – (1) Öğrencilerin başarı durumu her yarıyıl sonunda not ortalamaları hesaplanarak belirlenir. Öğrencinin bir dersten aldığı toplam kredi, o dersin AKTS değeri ile öğrenciye takdir edilen ders notu katsayısının çarpılması ile bulunur. Yarıyıl not ortalaması, öğrencinin o yarıyıl aldığı derslerden sağladığı toplam kredinin, aldığı derslerin AKTS değerleri toplamına bölünmesiyle hesaplanır.
+(2) Genel not ortalaması öğrencinin programa girişinden itibaren aldığı derslerin tümü dikkate alınarak elde edilir. Öğrencinin tekrar ettiği dersler olması halinde, o derslerden alınan en son not, önceki notlar yerine genel not ortalamasına dâhil edilir.
+(3) Gerek yarıyıl gerekse genel not ortalamaları virgülden sonra iki hane olarak hesaplanır; ilgili notta virgülden sonraki üçüncü hane 5 veya daha fazla olduğunda yukarıya, 4 veya daha az olduğunda aşağıya yuvarlanır.

@@ -1,0 +1,4 @@
+Ders tekrarı
+MADDE 40 – (1) Öğrenciler, daha önce alıp başarısız oldukları veya çekildikleri zorunlu dersleri tekrarlamakla yükümlüdür. Başarısız olunan ders seçmeli ise öğrenciler bu dersi, aynı ders veya enstitü tarafından bu ders yerine sayılan başka bir seçmeli ders ile tekrarlayabilirler.
+(2) Kayıtlı olduğu diploma programının mezuniyet yükümlülüklerinin tümünü yerine getirmiş öğrencinin fazladan aldığı seçmeli dersler için tekrarlama şartı aranmaz ve bu dersler genel not ortalamasında kullanılarak (Değişik ibare:RG-10/11/2024-32718) not dökümü belgesinde (transkript) gösterilir.
+(3) Öğrenciler genel not ortalamalarını yükseltmek amacıyla aynı program içerisinde daha önce alıp başarılı oldukları dersleri tekrarlayabilir; bu durumda sadece son alınan not genel not ortalamasına katılır.
