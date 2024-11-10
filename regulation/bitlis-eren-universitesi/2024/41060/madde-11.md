@@ -1,0 +1,2 @@
+Sınav türleri
+MADDE 11- (1) Ara sınavlar her dönemde beş adet olmak üzere bir akademik yılda toplam on adet yapılır. Ara sınavların tarihleri öğrenciye sınavlardan önce duyurulur ve herhangi bir ders saati içinde veya dışında uygulanabilir. Ara sınavlar, yüz yüze veya internet tabanlı sınıf üzerinden test, proje veya ödev şeklinde yapılabilir. Mazereti resmî belge ile kanıtlanması şartı ile ara sınava giremeyen öğrenci için mazeret sınavı yapılabilir.

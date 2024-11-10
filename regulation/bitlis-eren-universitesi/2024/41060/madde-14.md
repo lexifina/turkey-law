@@ -1,0 +1,3 @@
+Mazeret sınavları
+MADDE 14- (1) Öğrencilerin mazeretleri nedeniyle ara sınavlara katılmaması durumunda mazeretli sayılmasına Senato tarafından belirlenen esaslara göre BEÜYADYO Yabancı Diller Bölüm Başkanlığınca karar verilir. Mazeretleri kabul edilip sınava girmesi uygun görülen öğrenciler BEÜYADYO Yabancı Diller Bölüm Başkanlığınca belirlenen gün, yer ve saatte sınava girebilirler.
+(2) Mazeretlere ilişkin başvurular, belgeleriyle birlikte mazeretin bitimini izleyen beş iş günü içerisinde yazılı olarak BEÜYADYO Yabancı Diller Bölüm Başkanlığına yapılır. Bu süre geçtikten sonra yapılan mazeret başvuruları hakkında işlem yapılmaz.

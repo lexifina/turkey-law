@@ -1,0 +1,3 @@
+Başarılı öğrenciler
+MADDE 15- (1) Hazırlık sınıfı dil öğretiminde yıl içinde yapılan ara sınavlar ve yıl sonu yeterlik sınavı esas alınarak başarı ölçümü yapılır. Yıl içinde yapılan ara sınavların toplamının puan ortalaması 60 ve üzeri olanlar yıl sonu sınavına girmeye hak kazanır. Hazırlık sınıfı ara sınav puanlarının aritmetik ortalamasının % 50’si ve yıl sonu sınavı puanının % 50’si alınarak başarı ölçümü yapılır. Ortalaması 70 puan ve üzeri olan öğrenciler hazırlık sınıfından başarılı olma yeterliğini sağlamış olur ve bir üst sınıfa geçmeye hak kazanır.
+(2) Yabancı dil hazırlık sınıfı ara sınavlarının yıl sonu puan ortalamasına bakılmaksızın öğrencilerin yıl sonu sınavından en az 70 puan alması gerekir.

@@ -1,0 +1,7 @@
+Muafiyet
+MADDE 8- (1) Zorunlu yabancı dil hazırlık eğitimi öngörülen öğrencilerin hazırlık sınıflarından muaf sayılabilmeleri için aşağıda sayılan şartlardan en az birini yerine getirmiş olmaları gerekir:
+a) Öğretim yılı başında BEÜYADYO Yabancı Diller Bölüm Başkanlığı tarafından yapılan yabancı dil yeterlik sınavından 100 puan üzerinden 70 veya üstü puan almış olmak.
+b) ÖSYM tarafından yapılan yabancı dil sınavlarından Yabancı Dil Bilgisi Seviye Tespit Sınavı veya Yükseköğrenim Kurumları Yabancı Dil Sınavından en az 70 puan almak.
+c) İnternet tabanlı TOEFL IBT 84, bilgisayar tabanlı TOEFL CBT 222, IELTS 6,5 veya üstü puan almak ya da CEFR çerçevesinde sınav yapan uluslararası geçerliliği olan ve BEÜYADYO Yabancı Diller Bölüm Başkanlığının onayladığı merkezi sınavlardan C1 düzeyinde başarı göstermiş olmak.
+ç) Daha önce Üniversitenin veya başka bir yükseköğretim kurumunun yabancı dil hazırlık programına devam etmiş ve başarıyla tamamlamış olmak veya eşdeğerliği BEÜYADYO Yabancı Diller Bölüm Kurulu tarafından kabul edilen başka bir yükseköğretim kurumunun yaptığı yabancı dil yeterlik sınavını başarmış olmak ve bunu belgelemek.
+(2) Eşdeğerliği kabul edilen ulusal ve uluslararası sınavlardan alınan sınav sonuç belgelerinin son üç yılda alınmış olması zorunludur. Bu belgelerin akademik takvimde belirlenen ders alma-ders bırakma tarihleri bitimine kadar BEÜYADYO Yabancı Diller Bölüm Başkanlığına teslim edilmesi ve bölüm başkanlığı tarafından onaylanması gerekir.
