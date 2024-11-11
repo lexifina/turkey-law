@@ -1,0 +1,21 @@
+{
+  "record_type": "parliament-written-question",
+  "term": 28,
+  "legislative_year": 3,
+  "esas_no": "7/19197",
+  "submitted": "2024-11-11",
+  "submitted_as": "Başkanlığa geliş tarihi",
+  "mp": "İbrahim AKIN",
+  "province": "İzmir",
+  "summary": "Yükseköğrenim öğrencilerinin barınma ihtiyacına ilişkin",
+  "status": "Cevaplanmadığı Gelen Kağıtlarda İlan Edildi",
+  "status_as_of": "2026-11-16",
+  "official_record": "https://www.tbmm.gov.tr/Denetim/Yazili-Soru-Onergesi-Detay/713e33e5-d405-46bf-a162-0193207ac9cb",
+  "source": "https://tbmm.gov.tr/Denetim/YaziliSoruOnergesiTable",
+  "source_form": "https://tbmm.gov.tr/Denetim/Yazili-Soru-Onergeleri",
+  "source_sha256": "d3fb6da268df9454fafc6b517d36db72af5ae86759262bc858bc38314e78e4d3",
+  "in_force": "2024-11-11",
+  "in_force_basis": "Date the question reached the Speaker (Başkanlığa geliş tarihi) in the official TBMM written-question record; parliamentary oversight record, not law",
+  "history_type": "metadata",
+  "text_status": "metadata-only: question text, addressee and answers are in the linked official record (PDFs on cdn.tbmm.gov.tr); not transcribed here"
+}
