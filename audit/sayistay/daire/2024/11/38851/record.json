@@ -1,0 +1,17 @@
+{
+  "kind": "decision",
+  "issuer": "Sayıştay 3. Dairesi",
+  "number": "506",
+  "decision_date": "2024-11-12",
+  "source_id": 38851,
+  "chamber": "3",
+  "ilam_number": "169",
+  "item_number": 2,
+  "public_body_type": "Belediyeler ve Bağlı İdareler",
+  "account_year": 2020,
+  "subject": "İhale Mevzuatı ile İlgili Kararlar",
+  "source": "https://www.sayistay.gov.tr/KararlarDaire/Detay/38851/",
+  "source_sha256": "aee1cc2c550cebf3cbdb8985451a4844cdd4807abfdd2bb00fec46c2a299e6e5",
+  "text_status": "as-enacted",
+  "text_file": "metin.md"
+}
