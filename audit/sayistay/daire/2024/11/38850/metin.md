@@ -1,0 +1,27 @@
+Bütçe içi işletmeye Ait Vergi Cezalarının Belediye Bütçesinden Ödenmesine Rağmen Zarara Sebep Olanlara Rücu Edilmemesi
+
+Bütçe içi işletme olarak kurulan ………. Belediyesi ………. İşletmesi ile ………. Belediyesinin sermaye payının %99 olduğu ………. Limited Şirketi’ne ait vergi ziyaı cezaları ile vergi ve cezalara bağlı zam ve faizlerin, ………. Belediyesinin genel bütçe vergi gelirlerindeki payına ait alacaklarından mahsup edilerek ödenmesine karşın, söz konusu tutarın ilgili işletme ve şirket ile sorumlularına rücu edilmemesi sonucu ………. TL tutarında kamu zararına sebebiyet verildiği iddiasıyla ilgili olarak dosyada mevcut bilgi ve belgeler değerlendirilmiştir.
+
+10.01.1961 tarih ve 10705 sayılı Resmi Gazete’de yayımlanan 213 sayılı Vergi Usul Kanununun “Kanuni temsilcilerin ödevi” başlıklı 10 uncu maddesinde; tüzel kişilerin mükellef veya vergi sorumlusu olmaları halinde bunlara düşen ödevlerin kanuni temsilciler tarafından, tüzel kişiliği olmayan teşekkülleri idare edenler ve varsa bunların temsilcileri tarafından yerine getirileceği, bu ödevleri yerine getirmemeleri yüzünden mükelleflerin veya vergi sorumlularının varlığından tamamen veya kısmen alınamayan vergi ve buna bağlı alacakların, kanunî ödevleri yerine getirmeyenlerin varlıklarından alınacağı ifade edilmiştir.
+
+Aynı Kanun’un “Tüzel kişilerin sorumluluğu” başlıklı 333 üncü maddesinde; tüzel kişilerin idare ve tasfiyesinde vergi kanununa aykırı hareketlerden tevellüt edecek vergi cezalarının tüzel kişiler adına kesileceği, tüzel kişilerin kanuni temsilcilerinin vergi sorumluluğu hakkında Kanun’un 10 uncu maddesi hükmünün vergi cezaları hakkında da uygulanacağı, Kanun’un 359 uncu maddesinde yazılı fiillerin işlenmesi halinde bu fiiller için 359 ve 360 ıncı maddelerde öngörülen cezaların bu fiilleri işleyenler hakkında hükmolunacağı belirtilmiştir. Yine aynı Kanun’un;
+
+“Vergi ziyaı” başlıklı 341 inci maddesinde; vergi ziyaı, mükellefin veya sorumlunun vergilendirme ile ilgili ödevlerini zamanında yerine getirmemesi veya eksik yerine getirmesi yüzünden verginin zamanında tahakkuk ettirilmemesi veya eksik tahakkuk ettirilmesi olarak tanımlanmış,
+
+“Vergi ziyaı cezası” başlıklı 344 üncü maddesinde; 341 inci maddede yazılı hallerde vergi ziyaına sebebiyet verildiği takdirde, mükellef veya sorumlu hakkında ziyaa uğratılan verginin bir katı tutarında vergi ziyaı cezası kesileceği, vergi ziyaına 359 uncu maddede gösterilen kaçakçılık suçunu oluşturan fiillerle sebebiyet verilmesi halinde bu cezanın üç kat uygulanacağı belirtilmiştir.
+
+Kamu Zararlarının Tahsiline İlişkin Usul ve Esaslar Hakkındaki Yönetmeliğin “Kamu zararının belirlenmesi” başlıklı 6 ncı maddesinde; kamu idaresinin yükümlülüklerinin mevzuatına uygun bir şekilde yerine getirilmemesi nedeniyle kamu idaresine faiz, tazminat, gecikme zammı, para cezası gibi ek malî külfet getirilmesinin, kamu zararının belirlenmesinde esas alınacağı belirtilmiştir.
+
+İlişikli muhasebe işlem fişleri ve ekleri incelendiğinde; ………. Belediyesinin genel bütçe vergi gelirlerindeki payından ………. İşletmesi ile ………. Belediyesinin sermaye payının %99 olduğu ………. Limited Şirketi’ne ait vergi aslı, vergi ziyaı, gecikme zammı ve gecikme faizi borçlarının kesinti yapılarak ödendiği görülmektedir.
+
+Ayrıca, ödemeye ilişkin Vergi Dairesinden alınan ve muhasebe işlem fişinin ekinde yer alan mahsup alındılarında vergi aslının üç katı tutarında vergi ziyaı cezasına ait borçlar bulunmaktadır. Bu durum kaçakçılık fiilinin tespiti sonucunda vergi ziyaı cezasının uygulandığını göstermektedir. Ayrıca Belediye tüzel kişiliğinin kaçakçılık fiilini bizzat kendisinin gerçekleştiremeyeceği, bu fiilin ancak gerçek bir kişinin kusuru neticesinde ortaya çıkabileceği açıktır. 5018 sayılı Kanun’a göre Belediye tüzel kişiliğinin sorumluluğu vergi aslı ile sınırlı olduğundan, ceza, zam ve faizlerden, bu ek mali külfetlerin ortaya çıkmasında ihmali bulunan görevli kişilerin sorumluluğu bulunmaktadır.
+
+Bu durum karşısında, bütçe içi işletme olarak kurulan ………. İşletmesi ile ………. Belediyesinin sermaye payının %99 olduğu ………. Limited Şirketi’ne ait vergi ziyaı cezaları ile vergi ve cezalara bağlı zam ve faizlerin Belediyenin genel bütçe vergi gelirlerindeki payından kesilerek ödenmesine karşın bu ödemelerin ilgili işletme, şirket ile sorumlularına rücu edilmemesi sonucu ………. TL kamu zararı oluşmuştur.
+
+Oluşan kamu zararından; 5018 sayılı Kamu Mali Yönetimi ve Kontrol Kanununun 61 inci maddesi gereğince, muhasebe işlem fişi ve eki belgelerinde imza bulunmaksızın mahsup işlemi yapılması nedeniyle Muhasebe Yetkilisi ……….’nın (……….), 5393 sayılı Kanun’un 38 inci maddesi gereğince de belediyenin gelir ve alacaklarını takip ve tahsil etmekle sorumlu ve aynı zamanda Harcama Yetkilisi olan Üst Yönetici ……….’un (……….) sorumluluğu bulunmaktadır.
+
+Yukarıda yazılı sebeplerle; toplam ………. TL kamu zararı ile ilgili hüküm dışı kararının kaldırılmasına,
+
+………. TL’lik kamu zararının sorumluları Muhasebe Yetkilisi ………. ile Harcama Yetkilisi ……….’a müştereken ve mütelselsilen ödettirilmesi gerekmekte ise de, İşletme ve Şirket sorumlusu ………. eski ………. ………. hakkında söz konusu tutarla ilgili ………. İcra Müdürlüğünde ………. Esas No.lu icra takibi, başka bir ifade ile rücu işlemi başlatıldığından, konuyla ilgili ilişilecek husus kalmadığına, 6085 sayılı Sayıştay Kanununun 55 inci maddesi uyarınca ilamın tebliğ tarihinden itibaren altmış gün içerisinde Sayıştay Temyiz Kurulu nezdinde temyiz yolu açık olmak üzere
+
+Oy birliğiyle karar verildi.
