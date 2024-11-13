@@ -1,0 +1,16 @@
+{
+  "kind": "decision",
+  "issuer": "Sayıştay Temyiz Kurulu",
+  "number": "57488",
+  "decision_date": "2024-11-13",
+  "source_id": 32276,
+  "chamber": "2",
+  "file_number": "53825",
+  "public_body_type": "Diğer Özel Bütçeli İdareler",
+  "account_year": "2021",
+  "subject": "Personel Mevzuatı ile İlgili Kararlar",
+  "source": "https://www.sayistay.gov.tr/KararlarTemyiz/Detay/32276/",
+  "source_sha256": "fb30b755646898fe8e41371749c7c20fc97f26feb9a28ac2e475d5317d851161",
+  "text_status": "as-enacted",
+  "text_file": "metin.md"
+}
