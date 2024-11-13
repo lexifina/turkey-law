@@ -1,0 +1,1 @@
+[1] 13/11/2024 tarihli ve 32721 sayılı Resmî Gazete’de yayımlanan değişiklik ile Yönetmeliğe 7 nci maddesinin dördüncü fıkranın (a) bendinden sonra gelmek üzere (b) bendi eklenmiş ve diğer bentler buna göre teselsül ettirilmiştir.

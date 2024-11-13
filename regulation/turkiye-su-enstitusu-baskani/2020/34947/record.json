@@ -1,0 +1,46 @@
+{
+  "source_id": "7.5.34947",
+  "kind": "regulation",
+  "register_kind": "Kurum ve Kuruluş Yönetmelikleri",
+  "title": "TÜRKİYE SU ENSTİTÜSÜ SÖZLEŞMELİ PERSONEL YÖNETMELİĞİ",
+  "number": "34947",
+  "issuer": "Türkiye Su Enstitüsü Başkanı",
+  "issuer_slug": "turkiye-su-enstitusu-baskani",
+  "path": "regulation/turkiye-su-enstitusu-baskani/2020/34947",
+  "source": "https://www.mevzuat.gov.tr/anasayfa/MevzuatFihristDetayIframe?MevzuatTur=7&MevzuatNo=34947&MevzuatTertip=5",
+  "source_sha256": "fe5e4599f6b53553222fa5ec949a0a5d6e98565a71b58beef47e25dec3fbf312",
+  "source_bytes": 97665,
+  "published": "2020-10-22",
+  "gazette": "31282",
+  "in_force": "2024-11-13",
+  "in_force_basis": "latest Resmî Gazete date printed in the source amendment notes/table (\"RG-13/11/2024\") for the current consolidated text",
+  "date_evidence": [
+    [
+      "2024-11-13",
+      "RG-13/11/2024",
+      "Resmî Gazete date printed in the source amendment note"
+    ],
+    [
+      "2024-11-13",
+      "13/11/2024",
+      "Resmî Gazete date in the source amendment table"
+    ]
+  ],
+  "commencement_clauses": [
+    "Bu Yönetmelik yayımı tarihinde yürürlüğe girer"
+  ],
+  "history": "current-text",
+  "label": "oldest version available",
+  "checked_on": "2026-11-15",
+  "word_count": 4833,
+  "text_status": "current-consolidated",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  },
+  "source_links": [
+    "7.5.34947-Ek.docx"
+  ],
+  "completeness": "html-text-complete; linked annexes not fetched"
+}
