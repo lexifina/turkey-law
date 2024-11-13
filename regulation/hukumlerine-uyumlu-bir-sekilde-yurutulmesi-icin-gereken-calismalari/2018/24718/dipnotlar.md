@@ -1,0 +1,1 @@
+[1] 13/11/2024 tarihli ve 32721 sayılı Resmî Gazete’de yayımlanan değişiklik ile Yönetmeliğin sekizinci bölümünün başlığı “BKMYBS Yönlendirme Komitesi ve Koordinasyon” iken Yönetmeliğe işlendiği şekilde değiştirilmiştir.
