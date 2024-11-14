@@ -1,5 +1,17 @@
 Yürütme
 MADDE 48 – (1) Bu Kanun hükümlerini Bakanlar Kurulu yürütür.
-–––––––––––––––––
-(1) Bu fıkra, Anayasa Mahkemesi’nin 10/4/2014 tarihli ve E.: 2014/57, K.: 2014/81 sayılı Kararı ile iptal edilmiş olup, Kararın Resmi Gazete’de yayımlandığı 14/5/2014 tarihinden başlayarak üç ay sonra yürürlüğe girmesi hüküm altına alınmıştır.
-10706-1
+(I) SAYILI KADRO CETVELİ
+(Ek cetvel:7/11/2024-7531/21 md.)
+KURUMU: HÂKİMLER VE SAVCILAR KURULU
+TEŞKİLATI: MERKEZ
+ÜNVANI | DERECESİ | ADEDİ
+Üye | 1 | 11
+Genel Sekreter | 1 | 1
+Genel Sekreter Yardımcısı | 1 | 5
+Teftiş Kurulu Başkanı | 1 | 1
+Teftiş Kurulu Başkan Yardımcısı | 1 | 3
+Kurul Başmüfettişi | 1 | 300
+Kurul Müfettişi | 1-5 | 250
+Tetkik Hâkimi | 1-5 | 100
+İç Denetçi | 1-5 | 3
+TOPLAM |  | 674

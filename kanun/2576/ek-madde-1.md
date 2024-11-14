@@ -1,3 +1,4 @@
-Ek Madde 1 – (Ek: 24/2/1988 - 3410/4. md., Değişik : 8/6/2000 - 4577/4 md.)
-Bu Kanunun tek hakimle çözümlenecek davalara ilişkin 7 nci maddesindeki parasal sınırlar; her takvim yılı başından geçerli olmak üzere, önceki yılda uygulanan parasal sınırların, o yıl için 213 sayılı Vergi Usul Kanununun mükerrer 298 inci maddesi hükümleri uyarınca Maliye Bakanlığınca her yıl tespit ve ilan edilen yeniden değerleme oranında artırılması suretiyle uygulanır. Bu şekilde belirlenen sınırların onmilyon lirayı aşmayan kısımları dikkkate alınmaz.
-Yukarıdaki fıkra uyarınca her takvim yılı başından geçerli olmak üzere uygulanan parasal sınırların artışı, artışın yürürlüğe girdiği tarihten önce idare ve vergi mahkemelerince nihaî olarak karara bağlanmış davalar ile Danıştayın bozma kararı üzerine bozulan mahkemece yeniden bakılan davalarda uygulanmaz.
+Parasal sınırların artırılması:[11]
+Ek Madde 1 – (Ek: 24/2/1988 - 3410/4. md.) (Değişik:7/11/2024-7531/5 md.)
+1. Bu Kanunun tek hâkimle çözümlenecek davalara ilişkin 7 nci maddesindeki parasal sınırlar; her yıl, bir önceki yıla ilişkin olarak 4/1/1961 tarihli ve 213 sayılı Vergi Usul Kanununun mükerrer 298 inci maddesi hükümleri uyarınca tespit ve ilan edilen yeniden değerleme oranında, takvim yılı başından geçerli olmak üzere artırılmak suretiyle uygulanır. Bu şekilde belirlenen sınırların bin Türk lirasını aşmayan kısımları dikkate alınmaz.
+2. Tek hâkimle çözümlenecek davaların belirlenmesinde dava tarihindeki, miktar artırımı yapılan hâllerde ise artırımın yapıldığı tarihteki parasal sınır esas alınır.

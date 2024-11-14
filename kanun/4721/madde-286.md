@@ -1,6 +1,6 @@
 B. Soybağının reddi
 I. Dava hakkı
-Madde 286 - Koca, soybağının reddi davasını açarak babalık karinesini çürütebilir. Bu dava ana ve çocuğa karşı açılır.
-Çocuk da dava hakkına sahiptir. Bu dava ana ve kocaya karşı açılır.
+Madde 286 – (Değişik:7/11/2024-7531/9 md.)
+Koca, ana veya çocuk soybağının reddi davasını açarak babalık karinesini çürütebilir. Bu dava, dava açma hakkına sahip diğer kişilere karşı açılır.
 II. İspat
 1. Evlilik içinde ana rahmine düşme
