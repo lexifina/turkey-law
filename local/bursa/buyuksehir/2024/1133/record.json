@@ -1,0 +1,18 @@
+{
+  "issuer": "Bursa Büyükşehir Belediye Meclisi",
+  "number": "1133",
+  "decision_date": "2024-11-14",
+  "version_label": "as-enacted",
+  "source_url": "https://www.bursa.bel.tr/storage/medya/meclis_karar_yeni/2024-1133.pdf",
+  "source_sha256": "6c63f01845be2859fb0a0f4a20be16d3fed6e70959d18dbd556273ee09c3e665",
+  "normative_images": 0,
+  "source_image_inventory": [
+    {
+      "page": 1,
+      "source_images": 2,
+      "decorative_logos": 2,
+      "normative_images": 0
+    }
+  ],
+  "annex_status": "Only the decision PDF linked by the official register is held; referenced supporting plans or annexes not separately linked are not included."
+}
