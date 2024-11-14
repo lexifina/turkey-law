@@ -1,0 +1,25 @@
+{
+  "kind": "norm",
+  "issuer": "Enerji Piyasası Düzenleme Kurumu",
+  "market": "petroleum",
+  "document_type": "board-decision",
+  "number": "13004",
+  "decision_date": "2024-11-14",
+  "title": "29.07.2021 tarihli ve 10338 sayılı Bayi Denetim Sisteminin Kurulması ve Uygulanması için Tüzel Kişilerin Yetkilendirilmesi Hakkında Kararda Değişiklik Yapılmasına İlişkin Karar",
+  "resmi_gazete_date": "2024-11-16",
+  "resmi_gazete_number": "32724",
+  "categories": [
+    "Bayi Denetim Sisteminin Kurulması ve Uygulanması için Tüzel Kişilerin Yetkilendirilmesi Hakkında Karar"
+  ],
+  "source": "https://www.epdk.gov.tr/Detay/DownloadDocument?id=gTeG/dd4Zh8=",
+  "documents": [
+    "https://www.epdk.gov.tr/Detay/DownloadDocument?id=gTeG/dd4Zh8="
+  ],
+  "source_sha256": "f180ac27800cc448e977ec7468d192595dc4cd81d99917a578a9932de18d1226",
+  "official_list": "https://www.epdk.gov.tr/Detay/Icerik/3-0-100/kurul-kararlari",
+  "official_list_leaf": 27578,
+  "text_status": "as-enacted",
+  "text_file": "metin.md",
+  "in_force": "2024-11-14",
+  "law_text_complete": true
+}
