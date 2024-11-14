@@ -1,0 +1,4 @@
+Soruların belirlenmesi
+MADDE 29- (1) Temel, ara ve son eğitim dönemlerinde ders veren öğretim elemanları en geç her bir eğitim döneminin bitimine kadar Başkan tarafından belirlenen usule göre kendi alanlarıyla ilgili hazırlayacakları en az dört sınav sorusunu cevaplarıyla birlikte fiziki ve elektronik ortamda imzalı, kapalı zarf içinde Yazılı Sınav Kurulu Başkanına ulaştırılmak üzere Akademiye teslim eder.
+(2) Sorular, eğitim programında yer alan derslerin veya modüllerin içeriği esas alınarak öğrenilen bilgileri veya muhakeme becerilerini değerlendirecek şekilde hazırlanır.
+(3) Yazılı Sınav Kurulu, sınav sorularını eğitim programında yer alan derslerin ve konuların işleniş süresi ve içeriğini esas alarak öğretim elemanları tarafından teslim edilen sorular içerisinden seçebileceği gibi, bu sorular üzerinde değişiklik yapmak veya 28 inci madde kapsamında yeni soru hazırlamak suretiyle de belirleyebilir.

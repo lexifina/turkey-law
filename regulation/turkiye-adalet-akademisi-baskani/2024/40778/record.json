@@ -1,0 +1,43 @@
+{
+  "source_id": "7.5.40778",
+  "kind": "regulation",
+  "register_kind": "Kurum ve Kuruluş Yönetmelikleri",
+  "title": "TÜRKİYE ADALET AKADEMİSİ HÂKİM VE SAVCI YARDIMCILARI EĞİTİM VE SINAV YÖNETMELİĞİ",
+  "number": "40778",
+  "issuer": "Türkiye Adalet Akademisi Başkanı",
+  "issuer_slug": "turkiye-adalet-akademisi-baskani",
+  "path": "regulation/turkiye-adalet-akademisi-baskani/2024/40778",
+  "source": "https://www.mevzuat.gov.tr/anasayfa/MevzuatFihristDetayIframe?MevzuatTur=7&MevzuatNo=40778&MevzuatTertip=5",
+  "source_sha256": "fb0f202721e28b1866a96244210581d3689fa4fd5d4144ec335634a2c3e3f8ef",
+  "source_bytes": 168919,
+  "published": "2024-05-07",
+  "gazette": "32539",
+  "in_force": "2024-11-14",
+  "in_force_basis": "latest Resmî Gazete date printed in the source amendment notes/table (\"RG-14/11/2024\") for the current consolidated text",
+  "date_evidence": [
+    [
+      "2024-11-14",
+      "RG-14/11/2024",
+      "Resmî Gazete date printed in the source amendment note"
+    ],
+    [
+      "2024-11-14",
+      "14/11/2024",
+      "Resmî Gazete date in the source amendment table"
+    ]
+  ],
+  "commencement_clauses": [
+    "Bu Yönetmelik yayımı tarihinde yürürlüğe girer"
+  ],
+  "history": "current-text",
+  "label": "oldest version available",
+  "checked_on": "2026-11-15",
+  "word_count": 3754,
+  "text_status": "current-consolidated",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  },
+  "completeness": "html-text-complete"
+}

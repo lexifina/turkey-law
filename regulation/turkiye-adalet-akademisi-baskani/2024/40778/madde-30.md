@@ -1,0 +1,3 @@
+Yazılı Sınav Kurulunun oluşumu
+MADDE 30- (1) Yapılacak sınavları yönetmek ve sonuçlandırmak üzere her sınav için bir başkan, dört asıl ve iki yedek üyeden oluşan Yazılı Sınav Kurulu oluşturulur. Yazılı Sınav Kurulunun başkan ve üyeleri, Akademide ders veren öğretim elemanları arasından Başkan tarafından seçilir.
+(2) Yazılı Sınav Kurulu, asıl üyelerinin tamamının katılımı ile toplanır ve salt çoğunlukla karar verir. Yazılı Sınav Kurulu Başkanının toplantılara katılamaması durumunda yerine mesleki olarak en kıdemli asıl üye vekâlet eder. Asıl üyelerden birinin mazereti nedeniyle katılamaması veya Yazılı Sınav Kurulu Başkanına vekâlet etmesi hâlinde Başkanın uygun göreceği yedek üye Yazılı Sınav Kuruluna katılır.
