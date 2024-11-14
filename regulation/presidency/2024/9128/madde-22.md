@@ -1,0 +1,6 @@
+Teminat olarak kabul edilecek değerler
+MADDE 22- (1) Bu Usul ve Esasların uygulanmasında, tedavüldeki Türk parası ve banka teminat mektubu teminat olarak kabul edilir.
+(2) İlgili mevzuatına göre Türkiye’de faaliyette bulunmasına izin verilen yabancı bankaların düzenleyecekleri teminat mektupları ile Türkiye dışında faaliyette bulunan banka veya benzeri kredi kuruluşlarının kontrgarantisi üzerine Türkiye’de faaliyette bulunan bankaların düzenleyecekleri teminat mektupları da teminat olarak kabul edilir.
+(3) Teminat mektupları dışındaki teminatlar ihale komisyonlarınca teslim alınamaz. Bunların saymanlık ya da muhasebe müdürlüğüne yatırılması zorunlu olup teklif dosyasında ödeme alındı belgesinin bulunması gerekmektedir.
+(4) İhale üzerinde kalan istekli ile ekonomik açıdan en avantajlı ikinci teklif sahibi istekliye ait teminat mektupları ihaleden sonra saymanlık müdürlüğüne ya da muhasebe müdürlüğüne teslim edilir. Diğer isteklilere ait teminatlar ise hemen iade edilir. İhale üzerinde kalan istekli ile sözleşme imzalanması hâlinde, ekonomik açıdan en avantajlı ikinci teklif sahibine ait teminat, sözleşme imzalandıktan hemen sonra iade edilir.
+(5) Her ne suretle olursa olsun, İdarece alınan teminatlar haczedilemez ve üzerine ihtiyati tedbir konulamaz.
