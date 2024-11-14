@@ -1,0 +1,12 @@
+{
+  "issuer": "Bursa Büyükşehir Belediye Meclisi",
+  "number": "1137",
+  "decision_date": "2024-11-14",
+  "record_type": "metadata-only",
+  "version_label": "metadata-only",
+  "source_record_label": "as-enacted",
+  "source_url": "https://www.bursa.bel.tr/storage/medya/meclis_karar_yeni/2024-1137.pdf",
+  "source_sha256": "60e0172f8ed1bc5178df6a22c417a92f7dd51efcd407c544e4923f359adb4b67",
+  "text_status": "withheld-personal-data",
+  "note": "Only record identifiers and the official link are held; full text is withheld pending classification of individual-person content."
+}
