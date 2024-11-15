@@ -1,0 +1,21 @@
+{
+  "record_type": "parliament-written-question",
+  "term": 28,
+  "legislative_year": 3,
+  "esas_no": "7/19601",
+  "submitted": "2024-11-15",
+  "submitted_as": "Başkanlığa geliş tarihi",
+  "mp": "Ceylan AKÇA CUPOLO",
+  "province": "Diyarbakır",
+  "summary": "Diyarbakır'ın Dicle ilçesindeki bazı köylerde yapılan maden arama faaliyetinin çevreye etkilerine ilişkin",
+  "status": "Süresi Geçtikten Sonra Cevaplandı",
+  "status_as_of": "2026-11-16",
+  "official_record": "https://www.tbmm.gov.tr/Denetim/Yazili-Soru-Onergesi-Detay/c7e69dca-e59c-42f9-9cd4-01933e5366fc",
+  "source": "https://tbmm.gov.tr/Denetim/YaziliSoruOnergesiTable",
+  "source_form": "https://tbmm.gov.tr/Denetim/Yazili-Soru-Onergeleri",
+  "source_sha256": "22bed64d45eb1ca5aebdd47b2dc4df1df7c3afd5e52718cf7cf7b2d65f0e7cbf",
+  "in_force": "2024-11-15",
+  "in_force_basis": "Date the question reached the Speaker (Başkanlığa geliş tarihi) in the official TBMM written-question record; parliamentary oversight record, not law",
+  "history_type": "metadata",
+  "text_status": "metadata-only: question text, addressee and answers are in the linked official record (PDFs on cdn.tbmm.gov.tr); not transcribed here"
+}
