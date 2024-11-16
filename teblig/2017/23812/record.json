@@ -1,0 +1,79 @@
+{
+  "source_id": "9.5.23812",
+  "kind": "communique",
+  "register_kind": "Tebliğler",
+  "title": "GÜMRÜK GENEL TEBLİĞİ (TRANSİT REJİMİ) (SERİ NO: 4)",
+  "number": "23812",
+  "path": "teblig/2017/23812",
+  "source": "https://www.mevzuat.gov.tr/anasayfa/MevzuatFihristDetayIframe?MevzuatTur=9&MevzuatNo=23812&MevzuatTertip=5",
+  "source_sha256": "bd2c7cc4c113febcb34a8754785ed4a6388680907ff7e52a0f04c76bd966103c",
+  "source_bytes": 185445,
+  "published": "2017-08-01",
+  "gazette": "30141",
+  "in_force": "2024-11-16",
+  "in_force_basis": "latest Resmî Gazete date printed in the source amendment notes/table (\"RG-16/11/2024\") for the current consolidated text",
+  "date_evidence": [
+    [
+      "2024-11-16",
+      "RG-16/11/2024",
+      "Resmî Gazete date printed in the source amendment note"
+    ],
+    [
+      "2024-11-16",
+      "16/11/2024",
+      "Resmî Gazete date in the source amendment table"
+    ],
+    [
+      "2023-12-31",
+      "RG-31/12/2023",
+      "Resmî Gazete date printed in the source amendment note"
+    ],
+    [
+      "2023-12-31",
+      "31/12/2023",
+      "Resmî Gazete date in the source amendment table"
+    ],
+    [
+      "2021-07-08",
+      "8/7/2021",
+      "Resmî Gazete date in the source amendment table"
+    ],
+    [
+      "2021-06-19",
+      "RG-19/6/2021",
+      "Resmî Gazete date printed in the source amendment note"
+    ],
+    [
+      "2021-06-19",
+      "19/6/2021",
+      "Resmî Gazete date in the source amendment table"
+    ],
+    [
+      "2020-06-18",
+      "RG-18/6/2020",
+      "Resmî Gazete date printed in the source amendment note"
+    ],
+    [
+      "2020-06-18",
+      "18/6/2020",
+      "Resmî Gazete date in the source amendment table"
+    ]
+  ],
+  "commencement_clauses": [
+    "Bu Tebliğ yayımı tarihinde yürürlüğe girer"
+  ],
+  "history": "current-text",
+  "label": "oldest version available",
+  "checked_on": "2026-11-15",
+  "word_count": 11036,
+  "text_status": "current-consolidated",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  },
+  "source_links": [
+    "9.5.23812-Ek.zip"
+  ],
+  "completeness": "html-text-complete; linked annexes not fetched"
+}
