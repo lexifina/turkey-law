@@ -1,0 +1,252 @@
+16 Kasım 2024 CUMARTESİ
+Resmî Gazete
+Sayı : 32724
+TEBLİĞ
+Ticaret Bakanlığından:
+GÜMRÜK GENEL TEBLİĞİ (TRANSİT REJİMİ) (SERİ NO:
+4)’NDE
+DEĞİŞİKLİK YAPILMASINA DAİR TEBLİĞ
+(TRANSİT
+REJİMİ) (SERİ NO: 16)
+MADDE 1- 1/8/2017 tarihli ve 30141
+sayılı Resmî Gazete’de yayımlanan Gümrük Genel Tebliği (Transit Rejimi)
+(Seri No: 4)’nin 17 nci
+maddesi aşağıdaki şekilde değiştirilmiştir.
+“MADDE 17- (1) Transit beyanı Türkçe yapılır ve
+ilgili hareket gümrük idaresine sistem üzerinden elektronik imzalı olarak
+gönderilir [DEC_DAT (IE015)]. Gönderilen transit beyanı, geçerliliği sistem
+tarafından kontrol edilerek hareket gümrük idaresi tarafından alındığında,
+bir yerel referans numarası (LRN) tahsis edilir [POS_ACK (IE928)]. Beyan,
+bu durumda hareket gümrük idaresine sunulmuş kabul edilir.
+(2) Beyanın eşyanın gümrüğe sunulmasından sonra
+verildiği ve Ek Beyan Türü’nün “A” seçildiği durumda, beyanın hareket
+gümrük idaresince kabul edilebilmesi için LRN numarasının 18 inci maddenin
+birinci fıkrasındaki belgelerle birlikte hareket gümrük idaresine ibraz
+edilmesi gerekir.
+(3) Beyanın eşyanın gümrüğe
+sunulmasından önce verildiği ve Ek Beyan Türü’nün “D” seçildiği durumda,
+beyanın hareket gümrük idaresince kabul edilebilmesi için eşyanın gümrüğe
+sunulduğunun, beyanın sunulduğu tarihten itibaren otuz gün içerisinde
+hareket gümrük idaresine bildirilmesi [PRE_NOT (IE170)] ve LRN numarasının
+18 inci maddenin birinci fıkrasındaki belgelerle birlikte hareket gümrük
+idaresine ibraz edilmesi gerekir.
+(4) Transit beyanında ortak transit rejimi için
+duruma uygun “T1” veya “T2” sembolü kullanılır. Sevkiyatın T1 rejimi
+kapsamında taşınması gereken eşya ile T2 rejimi kapsamında taşınması
+gereken eşyayı içermesi durumunda, “T” sembolü kullanılır ve her bir eşya
+kalemi için “T1” veya “T2” sembolü belirtilir.
+(5) Ulusal transit rejiminde, transit beyanında
+eşya serbest dolaşımda olsun veya olmasın “TR” sembolü kullanılır.
+(6) Taşınan eşyanın birlikte sevk edilmesi
+koşuluyla aşağıdakiler tek bir taşıma aracı olarak kabul edilir:
+a) Römork(lar)ı veya yarı
+römork(lar)ı ile birlikte bir karayolu taşıtı,
+b) Demiryolu yolcu veya yük vagonları dizisi,
+c) Tek bir zincir oluşturan gemiler,
+ç) Tek bir taşıma aracına yüklenmiş konteynerler.
+(7) Her bir transit beyanı, yalnız bir hareket
+gümrük idaresinden bir varış gümrük idaresine yapılacak taşıma için tek bir
+taşıma aracına yüklenen eşyayı kapsar. Bir taşıma aracına birden fazla
+hareket gümrük idaresinde eşya yüklenmesi durumunda her bir hareket gümrük
+idaresinde, bu idarede yüklenen eşyayı kapsayacak şekilde transit beyanında
+bulunulur. Bir taşıma aracında farklı varış gümrük idarelerine gönderilecek
+eşya bulunması halinde de her bir varış gümrük idaresi için ayrı transit
+beyanı verilir.
+(8) Bir sevkiyatın iki veya daha fazla taşıma
+aracına bölünmesi halinde eşyanın tamamı aynı hareket ve varış gümrük
+idareleri arasında taşınsa bile her bir taşıma aracı için ayrı transit
+beyanı verilir.
+(9) Türkiye Gümrük Bölgesindeki bir hareket gümrük
+idaresinden başlayacak taşımaya ilişkin transit beyanında, 33 no.lu kutuya
+eşyanın asgari tarife alt pozisyonunun yazılması zorunludur. Bakanlık,
+taşımanın niteliğine ve eşyanın cinsine göre gümrük tarife istatistik
+pozisyonunun ve eşyanın kıymetinin transit beyanında beyan edilmesi gereken
+durumları belirlemeye yetkilidir.
+(10) Transit beyanında taşıyıcı bilgisinin
+kaydedilmesi zorunludur. Ortak transit rejimi kapsamındaki taşımalarda
+yabancı taşıyıcıların EORI (Ekonomik Operatör Kayıt Tanımlama Sistemi)
+numarasının bulunması, ülkemizde yerleşik taşıyıcılar için ise EORI
+numarası ve vergi numarası eşleştirilmesinin yapılmış olması gerekir.”
+MADDE 2- Aynı Tebliğin 19 uncu maddesinin ikinci fıkrasında
+yer alan “DEC_REJ” ibaresi “DEP_REJ” şeklinde değiştirilmiştir.
+MADDE 3- Aynı Tebliğin 20 nci
+maddesinin birinci fıkrasında yer alan “DEC_REJ” ibaresi “DEP_REJ” şeklinde
+değiştirilmiştir.
+MADDE 4- Aynı Tebliğin 21 inci maddesinin birinci fıkrası
+aşağıdaki şekilde değiştirilmiştir.
+“(1) Beyanın eşyanın gümrüğe sunulmasından önce
+verildiği ve Ek Beyan Türü’nün “D” seçildiği durumda, eşyanın gümrüğe
+sunulduğunun hareket gümrük idaresine bildirilmesi [PRE_NOT (IE170)]
+öncesinde beyan sahibi tarafından beyanda düzeltme yapılabilir. Beyanda
+yapılan düzeltmenin kabul edilip edilmediği beyan sahibine bildirilir
+[DEC_AMD (IE013)].”
+MADDE 5- Aynı Tebliğin 22 nci
+maddesinin birinci fıkrası aşağıdaki şekilde değiştirilmiştir.
+“(1) Gümrük idaresince kabul edilmiş transit
+beyanı, eşyanın serbest bırakılmamış olması koşuluyla rejim hak sahibinin
+talebi üzerine [DEC_INV (IE014)] hareket gümrük idaresi tarafından iptal
+edilebilir. İptal işlemi ile birlikte rejim hak sahibine hareket gümrük
+idaresi tarafından sistem üzerinden bilgi verilir [INV_DEC (IE009)].
+Beyanın eşyanın gümrüğe sunulmasından önce verildiği ve Ek Beyan Türü’nün
+“D” seçildiği durumda, eşyanın gümrüğe sunulduğunun hareket gümrük
+idaresine bildirilmesi [PRE_NOT (IE170)] öncesinde yapılan beyanname iptal
+talebi otomatik olarak olumlu cevaplanır. Diğer durumlarda beyanın iptal
+talebi Kanunun 64 üncü maddesi çerçevesinde hareket gümrük idaresince
+değerlendirilerek sonuçlandırılır.”
+MADDE 6- Aynı Tebliğin 23 üncü maddesinin ikinci fıkrasında
+yer alan “transit beyanının 52 no.lu kutusuna” ibaresi “transit beyanına”
+şeklinde değiştirilmiştir.
+MADDE 7- Aynı Tebliğin 27 nci
+maddesinin üçüncü fıkrası yürürlükten kaldırılmıştır.
+MADDE 8- Aynı Tebliğin İkinci Kitapta yer alan İkinci Kısım
+başlığı “Taşıma Sırasındaki Olaylar, Çok Modlu
+Taşımacılık İşlemleri, Olay Kaydı, Transit ve Çıkış Gümrük İdaresi
+İşlemleri” şeklinde değiştirilmiştir.
+MADDE 9- Aynı Tebliğin 30 uncu maddesi başlığı ile birlikte
+aşağıdaki şekilde değiştirilmiştir.
+“Taşıma sırasındaki olaylar ve olay kaydı gümrük
+idaresi
+MADDE 30- (1) Taşıma sırasında aşağıdaki
+durumlardan herhangi birinin ortaya çıkması halinde taşıyıcının derhal en
+yakın gümrük idaresini bilgilendirmesi gerekir:
+a) Aracın kaza yapması veya bozulması sebebiyle
+eşyanın başka bir taşıma aracına veya konteynere
+aktarılmasının gerekmesi.
+b) Taşıyıcının kontrolü dışında meydana gelen
+nedenlerle, araca takılmış olan mührün kırılması, kopması ya da zarar
+görmesi.
+c) Taşıyıcının kontrolü dışında meydana gelen
+nedenlerle, belirlenen güzergahın dışına
+çıkılmasının gerekmesi.
+ç) Mühürlenmiş taşıma aracının tehlike arz eden
+durumlar nedeniyle ivedilikle kısmen ya da tamamen boşaltılmasının
+gerekmesi.
+d) Taşıyıcının ya da rejim hak sahibinin
+yükümlülüklerinin yerine getirilmesine engel olabilecek bir durumun meydana
+gelmesi.
+(2) Birinci fıkrada belirtilen olaylardan biri
+yaşandığında, taşıyıcının, olayın gerçekleşmesinden sonra gecikmeksizin
+eşyayı ve transit beyanının MRN numarasını, o anda taşıma aracının
+bulunduğu bölgedeki en yakın gümrük idaresine sunması gerekir. Bu gümrük
+idaresi, “olay kaydı gümrük idaresi” olarak adlandırılır. Olay kaydını
+gerçekleştirecek en yakın gümrük idaresi aynı zamanda taşımada transit ya
+da varış gümrük idaresi olarak kayıtlı ise, bu idare önce olay kaydı gümrük
+idaresi olarak hareket eder ve ardından taşımada kayıtlı olduğu idare
+olarak işlem yapar.
+(3) Olay kaydı gümrük idaresi, ilgili beyana ilişkin
+olay bilgilerini sisteme kaydederek hareket gümrük idaresine durumu
+bildirir [INC_NOT (IE180)]. Olay kaydı gümrük idaresi taşımanın devam
+edebileceğine karar verirse eşyanın sevkine izin verir. Taşımanın devam
+edemeyeceği yönünde karar verilirse olay kaydı gümrük idaresi, varış gümrük
+idaresi olarak işlem yapar.
+(4) Taşıma sırasında sadece çekicinin değiştiği
+(eşyanın bulunduğu bölüme müdahale edilmediği veya aktarma yapılmadığı ya
+da eşyanın mühürlü konteyner içinde taşındığı
+durumlarda mühür kırılmaksızın konteynerin başka
+bir araca yüklendiği) hallerde, yeni çekicinin plaka numarası ve kimlik
+bilgisi TRB ve/veya taşımaya ilişkin belgeler üzerine taşıyıcı tarafından
+kaydedilir. Bu durumda TRB ve/veya taşımaya ilişkin belgeler üzerinde
+yetkili makamın onayı ve mührü zorunlu değildir ancak değişikliğe ilişkin
+bilgi transit veya varış gümrük idaresi tarafından olay kaydı gümrük
+idaresi rolü ile sonradan sisteme kaydedilir.”
+MADDE 10-
+Aynı Tebliğin 31 inci maddesinin
+birinci fıkrasının (c) ve (ç) bentleri aşağıdaki şekilde değiştirilmiştir.
+“c) Konteynerin
+demiryolundan karayoluna veya karayolundan demiryoluna aktarılacağı
+demiryolu istasyonu veya aktarma noktalarında, konteyner
+açılmaksızın diğer taşıta yüklenir. Taşıt değiştirme işlemine ilişkin
+olarak rejim hak sahibi ya da taşıyıcı tarafından TRB ve/veya taşımaya
+ilişkin belgeler üzerine yeni taşıtın kimlik bilgileri kaydedilir ve eşya
+varış gümrük idaresine sevk edilir. Bu durumda TRB ve/veya taşımaya ilişkin
+belgeler üzerinde yetkili makamın onayı ve mührü zorunlu değildir ancak
+değişikliğe ilişkin bilgi transit veya varış gümrük idaresi tarafından olay
+kaydı gümrük idaresi rolü ile sonradan sisteme kaydedilir.
+ç) Konteynerin denizyolundan
+karayoluna veya demiryoluna ya da tersi yönünde aktarılacağı durumlarda transit
+beyanında aktarmanın yapılacağı limandan sorumlu gümrük idaresinin beyanda
+belirtilmesi kaydıyla söz konusu limanlarda, konteyner
+açılmaksızın yeni taşıta yükleme işlemi gerçekleştirilir. Taşıt değiştirme
+işlemine ilişkin olarak rejim hak sahibi ya da taşıyıcı tarafından TRB
+ve/veya taşımaya ilişkin belgeler üzerine yeni taşıtın kimlik bilgileri
+kaydedilir; limandan sorumlu gümrük idaresi tarafından olay kaydı gümrük idaresi
+rolü ile bu değişiklik sisteme kaydedilir ve eşya varış gümrük idaresine
+sevk edilir. Limanda Konteyner ve Liman Takip
+Sistemi bulunması halinde söz konusu sisteme de gerekli kayıt işlemleri
+gerçekleştirilir. Bu bent kapsamında yapılan aktarmalarda, limandan sorumlu
+gümrük idaresince, şüphe ve ihbar durumunda kontrol ve muayene
+yapılabilir.”
+MADDE 11-
+Aynı Tebliğin 33 üncü maddesinin
+birinci fıkrasında yer alan “TRB,” ibaresi “MRN,” şeklinde, dördüncü
+fıkrasında yer alan “TRB’nin” ibaresi “MRN’nin” şeklinde ve aynı maddenin beşinci fıkrası
+aşağıdaki şekilde değiştirilmiştir.
+“(5) Transit idaresince, “Vazgeçme – 99201” ibaresi
+bulunan veya bu alanın boş bırakıldığı MRN’ye
+konu eşyaya ilişkin bilgilerin, 27 nci maddede
+belirtildiği üzere eşyayı kolay bir şekilde tanımlamaya yeterli olup
+olmadığı kontrol edilir. Bu kapsamda olduğuna kanaat getirilmesi halinde
+mühür tatbik edilmeksizin araç sevk edilebilir. Yapılan kontrol neticesinde
+beyanda yer alan bilgilerin eşyanın kolay bir şekilde tanınmasına imkan vermemesi, araç veya kapların mühürlerinin
+bulunmaması, koparılmış ya da kırılmış olması durumunda araçtaki eşyanın
+muayenesi yapılır. Muayene neticesinde uygun sonuç alınırsa araca mühür
+tatbik edilerek varış gümrük idaresine sevk edilir. Muayene sonucunun
+olumsuz olması durumunda tespitin niteliğine göre gerekli işlem yapılır.
+Şüphe veya ihbar durumunda ya da transit idaresince gerekli görülmesi
+halinde, beyanda yer alan bilgiler 27 nci maddede
+belirtildiği üzere eşyayı kolay bir şekilde tanımlamaya yeterli olsa bile,
+“Vazgeçme – 99201” ibaresi bulunan veya ilgili alanı boş bırakılan MRN’ye konu araç/eşya da mühürlenir. Bu durumda,
+takılan mühür adedi ve bilgileri olay kaydı gümrük idaresi rolü ile sisteme
+kaydedilir.”
+MADDE 12-
+Aynı Tebliğin 34 üncü maddesine
+aşağıdaki fıkra eklenmiştir.
+“(2) Taşıma sırasında sadece
+çekicinin değiştiği (eşyanın bulunduğu bölüme müdahale edilmediği veya aktarma
+yapılmadığı ya da eşyanın mühürlü konteyner
+içinde taşındığı durumlarda mühür kırılmaksızın konteynerin
+başka bir araca yüklendiği) ve yeni çekicinin plaka numarası ve kimlik
+bilgisinin TRB ve/veya taşımaya ilişkin belgeler üzerine taşıyıcı
+tarafından kaydedildiği hallerde, değişikliğe ilişkin bilgi çıkış gümrük
+idaresi tarafından olay kaydı gümrük idaresi rolü ile sisteme kaydedilir.”
+MADDE 13-
+Aynı Tebliğin 35 inci maddesinin
+birinci fıkrasında yer alan “TRB” ibaresi “MRN” şeklinde, ikinci fıkrasında
+yer alan “(YGM_NOT)” ibaresi “(ARR_NOT)” şeklinde ve üçüncü fıkrasında yer
+alan “ilgili TRB’ler üzerine” ibaresi “sisteme”
+şeklinde değiştirilmiştir.
+MADDE 14-
+Aynı Tebliğin 37 nci maddesinin birinci, yedinci ve dokuzuncu fıkraları
+aşağıdaki şekilde değiştirilmiştir.
+“(1) Varış gümrük idaresi, eşya ve MRN’nin sunulmasından sonra beyanı kontrol eder ve
+eşyanın muayene edilip edilmeyeceğine karar verir.”
+“(7) Kontrol sonuçları girilmeden önce, varsa 30
+uncu ve 31 inci maddeler kapsamında sisteme kaydedilmesi gereken
+değişiklikler, olay kaydı gümrük idaresi rolü ile sistemde
+gerçekleştirilir.”
+“(9) YGM bulunan antrepolarda boşaltma sonuçları
+YGM veya YGM’nin antrepodaki çalışanı tarafından
+sisteme girilir. Boşaltma sonuçları uygun olan MRN’ler,
+boşaltmanın yapıldığı antrepodan sorumlu YGM tarafından, aynı gümrük
+idaresine bağlı birden fazla antrepoya eşya boşaltılması durumunda ise son
+antrepodan sorumlu YGM tarafından, bir liste halinde boşaltmayı takip eden
+en geç üç iş günü içerisinde varış gümrük idaresine iletilir. Boşaltma
+sonucunun uygun olmaması halinde uyuşmazlığın tespit edildiği antrepodan
+sorumlu YGM tarafından en geç takip eden iş günü mesai bitimine kadar
+gümrük idaresine MRN numarasını da içerecek şekilde bilgi verilmesi
+zorunludur. YGM tarafından bu fıkra hükümlerine uygun hareket edilmemesi
+halinde her bir transit beyanı için YGM’ye
+Kanunun 241 inci maddesinin birinci fıkrası uyarınca usulsüzlük cezası uygulanır.”
+MADDE 15-
+Aynı Tebliğin 39 uncu maddesinin
+birinci fıkrasında yer alan “TRB” ibaresi “MRN” şeklinde değiştirilmiştir.
+MADDE 16-
+Aynı Tebliğin 45 inci maddesinin
+birinci ve ikinci fıkralarında yer alan “(IE904)” ibareleri “(IE094)”
+şeklinde, “(IE905)” ibareleri “(IE095)” şeklinde değiştirilmiştir.
+MADDE 17-
+Bu Tebliğ 17/11/2024
+tarihinde yürürlüğe girer.
+MADDE 18-
+Bu Tebliğ hükümlerini Ticaret
+Bakanı yürütür.
