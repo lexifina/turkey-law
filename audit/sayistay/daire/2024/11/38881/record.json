@@ -1,0 +1,17 @@
+{
+  "kind": "decision",
+  "issuer": "Sayıştay 8. Dairesi",
+  "number": "330",
+  "decision_date": "2024-11-19",
+  "source_id": 38881,
+  "chamber": "8",
+  "ilam_number": "237",
+  "item_number": 1,
+  "public_body_type": "Belediyeler ve Bağlı İdareler",
+  "account_year": 2019,
+  "subject": "Sorumluluk ve Yargılama Usulleri ile İlgili Kararlar",
+  "source": "https://www.sayistay.gov.tr/KararlarDaire/Detay/38881/",
+  "source_sha256": "c214d02e6746e01b18054dcdc79d48cdc1822f681f7aa8a9d4c9bcb5e37529be",
+  "text_status": "as-enacted",
+  "text_file": "metin.md"
+}
