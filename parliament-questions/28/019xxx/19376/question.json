@@ -1,0 +1,21 @@
+{
+  "record_type": "parliament-written-question",
+  "term": 28,
+  "legislative_year": 3,
+  "esas_no": "7/19376",
+  "submitted": "2024-11-19",
+  "submitted_as": "Başkanlığa geliş tarihi",
+  "mp": "Selçuk ÖZDAĞ",
+  "province": "Muğla",
+  "summary": "2014-2024 yılları arasında büyükşehir belediyelerinin düzenledikleri etkinlikler için ayırdıkları bütçeye ilişkin",
+  "status": "Cevaplandı",
+  "status_as_of": "2026-11-16",
+  "official_record": "https://www.tbmm.gov.tr/Denetim/Yazili-Soru-Onergesi-Detay/040514f7-75fe-4e65-aae9-01934a26a495",
+  "source": "https://tbmm.gov.tr/Denetim/YaziliSoruOnergesiTable",
+  "source_form": "https://tbmm.gov.tr/Denetim/Yazili-Soru-Onergeleri",
+  "source_sha256": "67d7c77d37c3e0ae723c092984a2e8b362e8d8a972e19d15d297179267f3ece4",
+  "in_force": "2024-11-19",
+  "in_force_basis": "Date the question reached the Speaker (Başkanlığa geliş tarihi) in the official TBMM written-question record; parliamentary oversight record, not law",
+  "history_type": "metadata",
+  "text_status": "metadata-only: question text, addressee and answers are in the linked official record (PDFs on cdn.tbmm.gov.tr); not transcribed here"
+}
