@@ -1,0 +1,21 @@
+{
+  "record_type": "parliament-written-question",
+  "term": 28,
+  "legislative_year": 3,
+  "esas_no": "7/19733",
+  "submitted": "2024-11-19",
+  "submitted_as": "Başkanlığa geliş tarihi",
+  "mp": "İskender BAYHAN",
+  "province": "İstanbul",
+  "summary": "İstanbul Aydın Üniversitesinde kapatılan bir öğrenci kulübüne ilişkin",
+  "status": "Süresi Geçtikten Sonra Cevaplandı",
+  "status_as_of": "2026-11-16",
+  "official_record": "https://www.tbmm.gov.tr/Denetim/Yazili-Soru-Onergesi-Detay/2a323da6-b9bc-49a6-bcd4-019348894ca8",
+  "source": "https://tbmm.gov.tr/Denetim/YaziliSoruOnergesiTable",
+  "source_form": "https://tbmm.gov.tr/Denetim/Yazili-Soru-Onergeleri",
+  "source_sha256": "7c9f278b769a84248de90d46e5023893926be890c1fd245e40be52386b9dd338",
+  "in_force": "2024-11-19",
+  "in_force_basis": "Date the question reached the Speaker (Başkanlığa geliş tarihi) in the official TBMM written-question record; parliamentary oversight record, not law",
+  "history_type": "metadata",
+  "text_status": "metadata-only: question text, addressee and answers are in the linked official record (PDFs on cdn.tbmm.gov.tr); not transcribed here"
+}
