@@ -1,0 +1,16 @@
+{
+  "kind": "decision",
+  "issuer": "Sayıştay Temyiz Kurulu",
+  "number": "57511",
+  "decision_date": "2024-11-20",
+  "source_id": 32171,
+  "chamber": "1",
+  "file_number": "53971",
+  "public_body_type": "Belediyeler ve Bağlı İdareler",
+  "account_year": "2019",
+  "subject": "İhale Mevzuatı ile İlgili Kararlar",
+  "source": "https://www.sayistay.gov.tr/KararlarTemyiz/Detay/32171/",
+  "source_sha256": "b476e433a519d97117f533dc13bc8db65e118f364747846ed6121bbf724f207b",
+  "text_status": "as-enacted",
+  "text_file": "metin.md"
+}
