@@ -1,0 +1,16 @@
+{
+  "kind": "decision",
+  "issuer": "Sayıştay Temyiz Kurulu",
+  "number": "57504",
+  "decision_date": "2024-11-20",
+  "source_id": 32164,
+  "chamber": "5",
+  "file_number": "53425",
+  "public_body_type": "Belediyeler ve Bağlı İdareler",
+  "account_year": "2021",
+  "subject": "İhale Mevzuatı ile İlgili Kararlar",
+  "source": "https://www.sayistay.gov.tr/KararlarTemyiz/Detay/32164/",
+  "source_sha256": "2961964d494ec58ece354e0b7079a9ce7b5ef7a2af4b370e58950d76542fa5ea",
+  "text_status": "as-enacted",
+  "text_file": "metin.md"
+}
