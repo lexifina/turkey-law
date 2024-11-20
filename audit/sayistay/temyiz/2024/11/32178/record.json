@@ -1,0 +1,16 @@
+{
+  "kind": "decision",
+  "issuer": "Sayıştay Temyiz Kurulu",
+  "number": "57518",
+  "decision_date": "2024-11-20",
+  "source_id": 32178,
+  "chamber": "5",
+  "file_number": "54360",
+  "public_body_type": "Belediyeler ve Bağlı İdareler",
+  "account_year": "2015",
+  "subject": "Çeşitli Konuları İlgilendiren Kararlar",
+  "source": "https://www.sayistay.gov.tr/KararlarTemyiz/Detay/32178/",
+  "source_sha256": "e35f68beb73be6f1547dd5473daf1569638d817c5d04766b0fb3bee861936c80",
+  "text_status": "as-enacted",
+  "text_file": "metin.md"
+}
