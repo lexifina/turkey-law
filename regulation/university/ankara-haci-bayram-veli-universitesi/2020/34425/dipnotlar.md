@@ -1,0 +1,1 @@
+[1] 20/11/2024 tarihli ve 32728 sayılı Resmî Gazete’de yayımlanan değişiklik ile Yönetmeliğin adı “Ankara Hacı Bayram Veli Üniversitesi Avrasya ve Türk Dünyası Uygulama ve Araştırma Merkezi Yönetmeliği” iken metne işlendiği şekilde değiştirilmiştir.
