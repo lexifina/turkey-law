@@ -1,0 +1,21 @@
+{
+  "record_type": "parliament-written-question",
+  "term": 28,
+  "legislative_year": 3,
+  "esas_no": "7/19712",
+  "submitted": "2024-11-20",
+  "submitted_as": "Başkanlığa geliş tarihi",
+  "mp": "Sümeyye BOZ ÇAKI",
+  "province": "Muş",
+  "summary": "Geri gönderme merkezlerinde yaşandığı iddia edilen hak ihlallerine ilişkin",
+  "status": "Süresi Geçtikten Sonra Cevaplandı",
+  "status_as_of": "2026-11-16",
+  "official_record": "https://www.tbmm.gov.tr/Denetim/Yazili-Soru-Onergesi-Detay/c1a8414b-4132-487d-a6cf-01934dad92c6",
+  "source": "https://tbmm.gov.tr/Denetim/YaziliSoruOnergesiTable",
+  "source_form": "https://tbmm.gov.tr/Denetim/Yazili-Soru-Onergeleri",
+  "source_sha256": "7c9f278b769a84248de90d46e5023893926be890c1fd245e40be52386b9dd338",
+  "in_force": "2024-11-20",
+  "in_force_basis": "Date the question reached the Speaker (Başkanlığa geliş tarihi) in the official TBMM written-question record; parliamentary oversight record, not law",
+  "history_type": "metadata",
+  "text_status": "metadata-only: question text, addressee and answers are in the linked official record (PDFs on cdn.tbmm.gov.tr); not transcribed here"
+}
