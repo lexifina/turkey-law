@@ -1,0 +1,20 @@
+{
+  "applicant": "E.G.",
+  "application_date": "2019-07-12",
+  "application_number": "2019/23814",
+  "deciding_unit": "İkinci Bölüm",
+  "decision_date": "2024-11-20",
+  "id": "980a3cdb-8276-7b82-86cc-67ecd3bb79a9",
+  "in_force": "2024-11-20",
+  "in_force_basis": "official decision date",
+  "kind": "constitutional-court-individual-application",
+  "omitted_images": 0,
+  "outcome": "Esas (İhlal Olmadığı)",
+  "published": null,
+  "referenced_images": 0,
+  "source": "https://kararlarbilgibankasi.anayasa.gov.tr/kbb/pages/search/Tumu?id=a2JiOjk4MGEzY2RiLTgyNzYtN2I4Mi04NmNjLTY3ZWNkM2JiNzlhOQ&type=BireyselBasvuru",
+  "source_api": "https://kararlarbilgibankasi.anayasa.gov.tr/api/core/public/search",
+  "source_images": 0,
+  "source_sha256": "d6cf9c82cef13caec6e431c69dceae3f31bc42bcc66194a42624db5470a53d3f",
+  "version_label": "as-enacted"
+}
