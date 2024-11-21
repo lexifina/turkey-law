@@ -1,0 +1,29 @@
+Yemek hizmeti satın alınması
+
+... sayılı ilamın 3’üncü maddesinde; …’da düzenlenen … Kongresi için yemek hizmeti satın alınması sonucu oluşan toplam … TL kamu zararının Harcama Yetkilisi (Özel Kalem Müd.) … ile Gerçekleştirme Görevlisi (Teknisyen) …'e müştereken ve müteselsilen ödettirilmesine karar verilmişti.
+
+Bu defa, Harcama Yetkilisi (Özel Kalem Müd.) … ve Gerçekleştirme Görevlisi (Tek.) ...’in … tarih ve … Sayıştay evrak kayıt numaralı dilekçesi ile başvurması üzerine Temyiz Kurulunca verilen ... tarih ve ... tutanak no.lu Kararda özetle;
+
+Temyiz dilekçesi ve ekleri incelendiğinde, ... şehrinde ... Kongresi düzenlendiği, kongrenin birçok kamu idaresinin üst düzey görevlileri ile üniversitelerden akademisyenlerin ve sivil toplum kuruluşları temsilcilerinin katılımıyla gerçekleştirilen uluslararası bir organizasyon kapsamında olduğu ve bu organizasyonun yapılmasına ilişkin giderlerin çeşitli sivil toplum kuruluşları ile kamu idareleri tarafından ortaklaşa karşılandığının anlaşıldığı;
+
+5393 sayılı Belediye Kanununun “Belediyenin giderleri” başlıklı 60’ıncı maddesinin (m) fıkrasında yurt içi ve yurt dışı kamu özel kesim ile sivil toplum örgütleriyle birlikte yapılan ortak hizmetler ve proje giderlerinin belediye giderleri arasında sayıldığı; “Yurt dışı ilişkileri” başlıklı 74’üncü maddesinde, belediyelerin belediye meclisinin kararına bağlı olarak görev alanıyla ilgili konularda faaliyet gösteren uluslararası teşekkül ve organizasyonlara, kurucu üye veya üye olabileceği; bu teşekkül, organizasyon ve yabancı mahallî idarelerle ortak faaliyet ve hizmet projeleri gerçekleştirebileceği veya kardeş kent ilişkisi kurabileceğinin hüküm altına alındığı; ... ilçesi ile ... kardeş şehir olması da göz önünde bulundurulduğunda, ... Belediyesi tarafından ...’da düzenlenen ...Kongresi için yemek hizmeti satın alınmasının 5393 sayılı Belediye Kanununun 60’ıncı maddesinin (m) fıkrasında yer alan; yurt içi ve yurt dışı kamu ve özel kesim ile sivil toplum örgütleriyle birlikte yapılan ortak hizmetler ve proje giderleri kapsamında değerlendirilmesi gerektiği;
+
+İfade edilerek,
+
+... sayılı ilamın 3’üncü maddesiyle ... TL’nin tazminine ilişkin olarak verilen hükmün 6085 sayılı Sayıştay Kanununun 55’inci maddesinin yedinci fıkrası uyarınca bozulmasına ve yukarıda belirtilen hususların tekrar değerlendirilmesini teminen yeni hüküm tesisi için dosyanın Dairemize gönderilmesine karar verilmiştir.
+
+Temyiz Kurulunun söz konusu kararı üzerine yazılan ek raporun Dairemizde görüşülmesi ve konunun yeniden incelenmesi neticesinde;
+
+…’da düzenlenen … Kongresi için yemek hizmeti satın alınması sorgu konusu edilmişse de;
+
+5393 sayılı Belediye Kanununun “Hemşehri hukuku” başlıklı 13’üncü maddesinde, belediyelerin, hemşehrileri arasında sosyal ve kültürel ilişkilerin geliştirilmesi, kültürel değerlerin korunması konusunda gerekli çalışmaları yapabileceği; “Belediyenin yetkileri ve imtiyazları” başlıklı 15’inci maddesinde, belediyelerin, belde sakinlerinin mahallî müşterek nitelikteki ihtiyaçlarını karşılamak amacıyla her türlü faaliyet ve girişimde bulunabileceği; “Belediyenin giderleri” başlıklı 60’ıncı maddesinin (m) fıkrasında yurt içi ve yurt dışı kamu özel kesim ile sivil toplum örgütleriyle birlikte yapılan ortak hizmetler ve proje giderleri belediye giderleri olarak; “Yurt dışı ilişkileri” başlıklı 74’üncü maddesinde, belediyelerin belediye meclisinin kararına bağlı olarak görev alanıyla ilgili konularda faaliyet gösteren uluslararası teşekkül ve organizasyonlara, kurucu üye veya üye olabileceği; bu teşekkül, organizasyon ve yabancı mahallî idarelerle ortak faaliyet ve hizmet projeleri gerçekleştirebileceği veya kardeş kent ilişkisi kurabileceği hükme bağlanmıştır.
+
+Bu itibarla, …’da düzenlenen … Kongresi için yemek hizmeti satın alınmasına dair harcamanın, sorumluların savunmalarından “Yurt içi ve yurt dışı kamu ve özel kesim ile sivil toplum örgütleriyle birlikte yapılan ortak hizmetler ve proje giderleri” kapsamında kamu idaresinin üst düzey görevlileri ile üniversitelerden akademisyenlerin ve sivil toplum kuruluşları temsilcilerinin katılımıyla gerçekleştirilen uluslararası bir organizasyon kapsamında olduğu ve bu organizasyonun yapılmasına ilişkin giderlerin çeşitli sivil toplum kuruluşları ile kamu idaresi tarafından ortaklaşa karşılandığı anlaşılmış olup, ... TL için kamu zararı oluşmadığından ilişilecek bir husus bulunmadığına;
+
+İşbu ilamın tebliğinden itibaren altmış gün içerisinde 6085 sayılı Sayıştay Kanununun 55’inci maddesi uyarınca Sayıştay Temyiz Kurulu nezdinde temyiz yolu açık olmak üzere oy çokluğu ile,
+
+Azınlık Görüşü:
+
+Üye … ve Üye … azınlık görüşleri:
+
+“Sorumlular savunmalarında söz konusu ödemelerin, 5393 sayılı Kanunun “Belediyenin giderleri” başlıklı 60’ıncı maddesindenin (k) bendindeki “Temsil, tören, ağırlama ve tanıtım giderleri” ve  (m) bendindeki “Yurt içi ve yurt dışı kamu ve özel kesim ile sivil toplum örgütleriyle birlikte yapılan ortak hizmetler ve proje giderleri” kapsamında yurt içi ve yurt dışı kamu özel kesim ile sivil toplum örgütleriyle birlikte yapılan ortak hizmetler ve proje giderleri niteliğinde olduğunu belirtseler de; söz konusu ödemelerin bu kapsamda olabilmesi için 5393 sayılı Kanunun “Yurt dışı ilişkileri başlıklı” 74’üncü ve “Diğer kuruluşlarla ilişkiler” başlıklı 75’inci maddelerine göre ortak faaliyet veya hizmet projelerinin mevcudiyeti gerekmekte olup, savunmalarda projeye ilişkin kanıtlayıcı evrak gönderilmemiş olması sebebiyle söz konusu alımın bir proje değil, bir hizmet alımı niteliğinde olduğu anlaşılmaktadır. Söz konusu alım, belde sakinlerinin mahallî müşterek nitelikteki ihtiyaçlarını karşılamak üzere belediye sınırları içinde yapılmış bir alım olmadığından, 5018 sayılı Kanunun “Kamu zararı” başlıklı 71’inci maddesine göre mevzuatında öngörülmediği halde ödeme yapılması nedeniyle kamu zararı olarak değerlendirilmesi gerekmektedir.”
