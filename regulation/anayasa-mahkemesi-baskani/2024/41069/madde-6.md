@@ -1,0 +1,4 @@
+Staj yapacak hâkim ve savcı yardımcılarının belirlenmesi
+MADDE 6- (1) Mahkeme, staj yapacak hâkim ve savcı yardımcılarının sayısını, staj süresini ve dönemini/dönemlerini belirledikten sonra staj başvuru duyurusunu Mahkemenin internet sitesinde ilan eder.
+(2) Staj yapmak isteyen hâkim ve savcı yardımcıları, EK-1’de yer alan başvuru formunu doldurup ilgili belgeleri ekleyerek elektronik ortam üzerinden Mahkemeye başvuruda bulunur.
+(3) Staj yapacak hâkim ve savcı yardımcıları Genel Sekreterlik tarafından Hukuk Mesleklerine Giriş Sınavı ve İdari Yargı Ön Sınavı ile hâkim ve savcı yardımcılığı yazılı sınavında aldıkları puanlar, eğitim döneminde Akademide yapılan sınavlardan aldıkları puanlar, anayasa ve insan hakları konusunda yaptıkları akademik çalışmalar, varsa yüksek lisans ve doktora çalışmaları ile yabancı dil puanları dikkate alınarak belirlenir.

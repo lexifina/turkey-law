@@ -1,0 +1,3 @@
+Hâkim ve savcı yardımcılarının stajının sona ermesi
+MADDE 9- (1) Mahkemede staj yapan hâkim ve savcı yardımcılarının görevlendirme sürelerinin sonunda stajları tamamlanır.
+(2) Staj yapan hâkim ve savcı yardımcıları, 14/7/1965 tarihli ve 657 sayılı Devlet Memurları Kanununun 125 inci maddesi ile 5/4/2017 tarihli ve 30029 sayılı Resmî Gazete’de yayımlanan Adalet Bakanlığı Disiplin Yönetmeliğine uymak zorundadır. Anılan Kanun ve Yönetmeliğe aykırılıklar üzerine Mahkemenin ilgili hâkim ve savcı yardımcısının stajının sona ermesini talep etmesi hâlinde Genel Müdürlük, ilgili hâkim ve savcı yardımcısının görevlendirmesini kaldırır.
