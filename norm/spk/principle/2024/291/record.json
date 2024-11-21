@@ -1,0 +1,60 @@
+{
+  "kind": "norm",
+  "issuer": "Sermaye Piyasası Kurulu",
+  "document_type": "principle-decision",
+  "number": "291",
+  "decision_number": "60/1696",
+  "date": "2024-11-21",
+  "title": "Kurul Karar Organı’nın i-SPK 52.4.Ak (21.11.2024 Tarihli ve 60/1696 S.K.) Sayılı ve i-SPK 54.1 (21.11.2024 Tarihli ve 60/1696 S.K.) Sayılı İlke Kararlarına İlişkin Duyuru",
+  "source": "https://mevzuat.spk.gov.tr/api/IlkeKarari/File/291",
+  "source_sha256": "82c50001503a9334a25039087974abf7e3ccd382c9bd5e78c61842e22f1a9d86",
+  "source_listing_url": "https://mevzuat.spk.gov.tr/api/Search/All",
+  "source_record_id": 291,
+  "text_status": "as-enacted",
+  "text_file": "metin.md",
+  "date_basis": "official principle-decision date printed in the source PDF and official API: 1. Kurul Karar Organı’nın i-SPK 52.4.ak (21.11.2024 tarihli ve 60/1696 s.k.) sayılı İlke Kararına İlişkin",
+  "operative_date_review": {
+    "date_type": "decision-date",
+    "decision_date": "2024-11-21",
+    "source_clauses": [
+      "1. Kurul Karar Organı’nın i-SPK 52.4.ak (21.11.2024 tarihli ve 60/1696 s.k.) sayılı İlke Kararına İlişkin"
+    ],
+    "deferred_start": "none stated in source text; no source date later than the decision"
+  },
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0,
+    "decorative_or_non_normative": 0
+  },
+  "official_listing_record": {
+    "id": "f0f86179-3676-495b-af4a-edff950f3034",
+    "contentSource": "IlkeKarari",
+    "contentID": 291,
+    "tur": "İlke Kararı",
+    "title": "Kurul Karar Organı’nın i-SPK 52.4.Ak (21.11.2024 Tarihli ve 60/1696 S.K.) Sayılı ve i-SPK 54.1 (21.11.2024 Tarihli ve 60/1696 S.K.) Sayılı İlke Kararlarına İlişkin Duyuru",
+    "no": "",
+    "sayi": "",
+    "resmiGazeteTarihi": null,
+    "resmiGazeteTarih": null,
+    "resmiGazeteSayi": null,
+    "resmiGazeteMukerrer": null,
+    "kurulKararTarihi": "2024-11-21T00:00:00",
+    "kurulKararTarih": "21.11.2024",
+    "kurulToplantiNo": "60/1696",
+    "bultenYili": null,
+    "bultenNo": null,
+    "kisimID": null,
+    "bolumID": null,
+    "kisim": "VIII. KISIM - Sermaye Piyasası Kurulu İlke Kararları",
+    "bolum": "İlke Kararları",
+    "baglantiliTebliglerStr": null,
+    "baglantiliTebligler": null,
+    "ilgiliKonularStr": ";",
+    "ilgiliKonular": null,
+    "countItems": 0,
+    "intro": "",
+    "link": "IlkeKarari/Dosya/291",
+    "linkTarget": "_blank"
+  }
+}
