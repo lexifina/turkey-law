@@ -1,0 +1,21 @@
+{
+  "record_type": "parliament-written-question",
+  "term": 28,
+  "legislative_year": 3,
+  "esas_no": "7/19735",
+  "submitted": "2024-11-22",
+  "submitted_as": "Başkanlığa geliş tarihi",
+  "mp": "Mustafa ADIGÜZEL",
+  "province": "Ordu",
+  "summary": "Ordu Üniversitesine mühendislik, mimarlık ve tasarım fakültesi açılmasına ilişkin",
+  "status": "Süresi Geçtikten Sonra Cevaplandı",
+  "status_as_of": "2026-11-16",
+  "official_record": "https://www.tbmm.gov.tr/Denetim/Yazili-Soru-Onergesi-Detay/e9c45506-7aa9-4b3e-9aa7-0193625d58d8",
+  "source": "https://tbmm.gov.tr/Denetim/YaziliSoruOnergesiTable",
+  "source_form": "https://tbmm.gov.tr/Denetim/Yazili-Soru-Onergeleri",
+  "source_sha256": "7c9f278b769a84248de90d46e5023893926be890c1fd245e40be52386b9dd338",
+  "in_force": "2024-11-22",
+  "in_force_basis": "Date the question reached the Speaker (Başkanlığa geliş tarihi) in the official TBMM written-question record; parliamentary oversight record, not law",
+  "history_type": "metadata",
+  "text_status": "metadata-only: question text, addressee and answers are in the linked official record (PDFs on cdn.tbmm.gov.tr); not transcribed here"
+}
