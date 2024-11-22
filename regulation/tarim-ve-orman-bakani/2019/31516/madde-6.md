@@ -1,0 +1,2 @@
+Şûra Yürütme Kurulunun kuruluşu
+MADDE 6 – (1) Şûra Yürütme Kurulu, Bakanın görevlendireceği Bakan yardımcısı başkanlığında; Bakanlık (Değişik ibare:RG-22/11/2024-32730) Tarım Reformu Genel Müdürü, Türkiye Ziraat Odaları Birliği Genel Sekreteri, bir öğretim üyesi ve Bakanın uygun göreceği en (Değişik ibare:RG-22/11/2024-32730) az üç bakanlık personelinden oluşur. Şûra Yürütme Kurulu, kararlarını oy çokluğu ile alır. Oyların eşitliği halinde başkanın oyu doğrultusunda karar verilmiş sayılır.
