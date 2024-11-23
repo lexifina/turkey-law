@@ -1,0 +1,2 @@
+Ödünç alma süresi
+MADDE 18- (1) Bir kitabı ödünç alma süresi on beş gündür. Kütüphaneye iadesi yapılmayan kitapların takibi kütüphaneci veya kütüphaneden sorumlu öğretmen tarafından yapılır. Öğrencilerin ve öğretmenlerin okuldan ayrılması sebebiyle otomasyon sistemindeki üyeliklerinin sonlandırılması durumunda alınan ödünç kitabın kütüphaneye iadesi sağlanır. Öğrencilere bir defasında en fazla üç, öğretmenlere en fazla beş kitap ödünç verilebilir.
