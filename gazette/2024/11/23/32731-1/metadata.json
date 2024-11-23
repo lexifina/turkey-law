@@ -1,0 +1,20 @@
+{
+  "record_type": "gazette-item",
+  "gazette": "Resmî Gazete",
+  "jurisdiction": "TR",
+  "date": "2024-11-23",
+  "issue": "32731",
+  "edition": "regular",
+  "item": 1,
+  "section": "YÜRÜTME VE İDARE BÖLÜMÜ",
+  "heading": "YÖNETMELİKLER",
+  "title": "Millî Eğitim Bakanlığı Okul Kütüphaneleri Yönetmeliği",
+  "official_link": "https://www.resmigazete.gov.tr/eskiler/2024/11/20241123-1.htm",
+  "link_format": "htm",
+  "index_url": "https://www.resmigazete.gov.tr/eskiler/2024/11/20241123.htm",
+  "index_sha256": "3d44885052d9bc386cc5a6ee24e073b2e478239d0c354e05aa9d3473e5a98cb9",
+  "index_header": "23 Kasım 2024 ... 32731 Sayılı Resmî Gazete",
+  "issue_pdf": "https://www.resmigazete.gov.tr/eskiler/2024/11/20241123.pdf",
+  "in_force_basis": "Resmî Gazete publication date; not a commencement reading.",
+  "text_status": "metadata-only; text not yet fetched (follow-up pass adds it as its own commit)"
+}
