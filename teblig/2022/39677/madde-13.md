@@ -1,0 +1,2 @@
+Numune alma ve analiz metotları
+MADDE 13- (1) Bu Tebliğ kapsamında yer alan ürünlerden, 17/12/2011 tarihli ve 28145 sayılı Resmî Gazete’de yayımlanan Gıda ve Yemin Resmi Kontrollerine Dair Yönetmelik esaslarına göre numune alınır. Numuneler, 10/4/2002 tarihli ve 24722 sayılı Resmî Gazete’de yayımlanan Türk Gıda Kodeksi İnsan Tüketimine Sunulan Şekerlerin Analiz Metotları Tebliği (Tebliğ No:2002/26)’nde yer alan kurallara göre analiz edilir.
