@@ -1,0 +1,2 @@
+Şikâyetler ve ürünün geri çekilmesi
+MADDE 32 – (1) Üretici, şikâyetlerin kaydedilmesi ve değerlendirilmesi ile birlikte ürünün herhangi bir anda piyasadan derhal geri çekilebileceği etkili bir dağıtım kayıt sistemi kurar. Şikâyete konu olan hata, üretici tarafından kaydedilir ve araştırılır. Yapılan işlemler sonucunda ürünün geri çekilmesi söz konusu ise, durum gecikmeksizin Bakanlığa bildirilir. Ürün diğer ülkelere ihraç edilmiş ise, bu ülkelere Bakanlık tarafından bildirilir.

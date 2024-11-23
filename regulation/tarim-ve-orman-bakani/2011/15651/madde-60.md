@@ -1,0 +1,3 @@
+Gizlilik
+MADDE 60 – (1) Bakanlığa yapılan bildirimlerde, hayvan sahibinin ve bildirimde bulunan sağlık mesleği mensubunun kimliği, adresi Bakanlıkça gizli tutulur. Bu kişilerin rızası olmaksızın bu bilgiler hiçbir amaçla Bakanlık personeli dışındaki kişilere açıklanamaz. İzin sahipleri, sağlık kurum ve kuruluşları ile sağlık mesleği mensupları da aynı gizlilik esaslarına uyar.
+(2) (Ek:RG-20/12/2014-29211) Yetkili farmakovijilans hizmet kurumu, çalışmalarını yürüttüğü ürün hakkında herhangi bir yoldan kendisine ulaşan bildirimin kaynağı ve içeriğine ilişkin bilgileri, pazarlama izni sahibi ve Bakanlık dışındaki kurum ve kişilere açıklayamaz.

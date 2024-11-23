@@ -1,0 +1,20 @@
+Üretim yeri, iyi üretim uygulamaları (GMP) denetimleri ve yaptırımlar (Değişik başlık:RG-1/4/2020-31086)
+MADDE 79 – (1) (Değişik:RG-1/4/2020-31086) Bakanlık, yurt içi ve yurt dışındaki üretim yerlerinde bir program dâhilinde önceden haber vermek suretiyle iyi üretim uygulamaları (GMP) denetimi gerçekleştirir. GMP denetimleri aşağıdaki esaslara göre yürütülür:
+a) GMP sertifikası başvuru ve denetim süreçleri Genel Müdürlük tarafından yürütülür.
+b) GMP denetimleri Genel Müdürlükçe belirlenen GMP denetçileri tarafından gerçekleştirilir.
+c) GMP denetim süreci, gerçekleştirilen denetimin son gününden bir sonraki sertifikalandırma denetiminin ilk gününe kadar olan süreyi kapsar.
+ç) GMP denetimlerinde, üretim yerinin Bakanlıkça yayımlanan GMP kılavuzu ve denetime konu ürünlerin pazarlama izni dosyasındaki ilgili bilgilerle uyumu esas alınır.
+d) GMP denetimleri veya yapılacak değerlendirmeler neticesinde uygun olduğu anlaşılan üretim yerleri için GMP sertifikası düzenlenir.
+e) Denetimde tespit edilen ve kapatılması için zaman gerektiren bulgular, denetçiler tarafından uygun görülmesi şartıyla üretim yeri tarafından taahhüt verilerek kapatılabilir. Ancak üretim yeri tarafından yapılacak düzeltici ve önleyici faaliyetler söz konusu denetim süreci içerisinde bitirilmek zorundadır. Verilen taahhütlerin zamanında ve/veya uygun şekilde kapatılmadığının tespit edilmesi halinde GMP sertifikası askıya alınır. Bu durumda denetimde tespit edilen eksiklikler tamamlandıktan sonra yeni bir denetim başvurusu yapılır. Yeni denetimde önceki denetimdeki konular öncelikle kontrol edilir.
+f) Bakanlıkça verilen GMP sertifikası geçerlik süresi dolduğunda, üretim yerinin GMP sertifikası iptal edilir ve geçerli bir GMP sertifikası yoksa üretim yeri izni askıya alınır.
+g) Türkiye’deki ve yurt dışındaki üretim yerlerinin GMP kapsamındaki denetimi ve sertifikalandırılması masrafları başvurana ait olmak üzere gerçekleştirilir.
+ğ) Veteriner tıbbi ürünler için sözleşmeli olarak hizmet veren üretim yerleri, analiz laboratuvarları, ambalajlama tesisleri ve serbest bırakma yerleri de Bakanlık GMP denetimlerine tabidir.
+h) Kapsam değişikliği ve genişletme başvuruları, yerinde denetim yapılarak ve/veya dosya incelemesi ile sonuçlandırılabilir.
+ı) Yurt dışındaki veteriner tıbbi ürün üretim yerleri bulundukları ülkenin yetkili otoritesi tarafından izinli olmalıdır.
+i) Üretim yeri izni sahipleri ve pazarlama izin sahipleri, yurt içinde veya yurt dışındaki bir üretim yerinin ve ürünlerinin iyi üretim uygulamalarına uygunluğunu sertifika ile tescilini talep edebilir.
+j) (Değişik:RG-9/1/2024-32424) GMP denetimlerine dair yapılacak başvuru ve denetim süreçlerindeki idari ve teknik kontroller, itirazların yönetimi ve sertifika verilmesine ilişkin usul ve esaslar Genel Müdürlükçe belirlenir.
+(2) (Değişik:RG-1/4/2020-31086) Bakanlık, yapılan denetimlerde insan ve hayvan sağlığını tehlikeye atacak ciddi bir durumun veya bu Yönetmelik hükümlerine aykırı olarak faaliyet gösterildiğinin tespit edilmesi halinde üretim yeri izinlerini, aykırılıklar giderilinceye kadar tamamen veya kısmen, belirli farmasötik şekiller için askıya alabilir veya tamamen iptal edebilir.
+(3) Bu Yönetmelik hükümlerine aykırı olarak faaliyet gösterdiği tespit edilen üretim yerlerinin sorumlu yöneticilerin yetkileri askıya alınabilir veya tamamen iptal edilebilir.
+(4) Sorumlu yöneticilik yetkisinin iptali halinde, derhal yeni bir sorumlu yönetici atanır. Sorumlu yöneticilik yetkisinin askıya alınması halinde de, askı süresince görev yapacak yeni bir sorumlu yönetici derhal atanmalıdır.
+(5) (Ek:RG-1/4/2020-31086) Bakanlık, iyi üretim uygulamaları denetimlerinden ayrı olarak gerekli görülen durumlarda önceden haber vermeksizin üretim yerlerini denetleyebilir.
+(6) (Ek:RG-23/11/2024-32731) Üretim faaliyetleri ile ilgili bilgi ve belgeleri, Bakanlıkça belirlenen usul ve esaslara göre elektronik kayıt ve izleme sistemlerine kaydetmeyen üretim yerleri hakkında Kanunun 37 nci maddesinin birinci fıkrasının (i) bendi hükmü uygulanır.

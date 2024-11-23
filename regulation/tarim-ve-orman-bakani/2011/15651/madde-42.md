@@ -1,0 +1,6 @@
+Depo kayıtları
+MADDE 42 – (1) (Değişik:RG-1/4/2020-31086) Depolar, ürünlerle ilgili alım, satım ve stok kayıtları ile gerektiğinde geri çekme işlemleri için gerekli her türlü bilgiyi izlenebilirliği sağlayacak şekilde tutmak, tüm kayıt ve belgeleri her an denetime hazır ve güncel olarak bulundurmak ve (Değişik ibare:RG-9/1/2024-32424) en az üç yıl süre ile muhafaza etmek, talep edildiğinde Bakanlığa göndermek, teftişe sunmak, Bakanlıkça uygulanacak izleme sistemlerine uymak zorundadır.
+(2) Depo, teftişlerde tespit edilen hususların kaydedilmesi amacıyla Denetim Defteri bulundurmalıdır.
+(3) (Değişik:RG-20/12/2014-29211) Tutulacak kayıtlar ve kayıtların tutulması ile ilgili usul ve esaslar Bakanlıkça yayımlanan talimat ile belirlenir. Psikotropik/narkotik ürünler için bu ürünler ile ilgili mevzuat uyarınca kayıt tutulur.
+(4) (Değişik:RG-20/12/2014-29211) Veteriner ecza deposu yılda en az bir defa iç denetim yapar. İç denetimde belirlenen uygunsuzluklar, nedenleri ve buna karşı yapılan düzeltici ve önleyici faaliyetler ayrıntılı açıklamaları ile birlikte kayıt edilir ve kayıtlar beş yıl süre denetime hazır tutulur.
+(5) Temsilci ecza depoları da, depolama veya ikincil ambalajlama yaptıkları ürünlerle ilgili tüm kayıtları bu madde hükümlerine göre tutmak zorundadır.

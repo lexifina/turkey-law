@@ -1,0 +1,5 @@
+Başvuru dosyalarının ön incelemesi
+MADDE 14 – (1) Pazarlama izni almak üzere yapılan başvuruya ait dosya, idari belgeler açısından Genel Müdürlük tarafından ön incelemeye tabi tutularak değerlendirilir.
+(2) (Değişik:RG-1/4/2020-31086) Başvuru dosyasının Bakanlığa ulaşmasından itibaren otuz gün içinde ön inceleme tamamlanır. Ön incelemesi sonucunda uygun olan dosyalar, detaylı incelemeye tabi tutulur. Bu amaçla dosyalar komisyon veya komisyonlara sevk edilir.
+(3) (Değişik:RG-16/11/2017- 30242) Başvuru dosyasında eksiklik veya uygunsuzluk bulunması halinde, durum başvuru sahibine, ön inceleme süresinden sonra en geç on beş gün içinde bildirilir. Başvuru sahibi ilk bildirimden itibaren, Bakanlıkta geçen süreler hariç, yüz yirmi gün içinde eksiklik veya uygunsuzlukları giderir. Uygun bulunan dosyalar, değerlendirilmek üzere komisyona sevk edilir. Süresi içerisinde eksiklik veya uygunsuzlukları giderilmeyen veya uygun bulunmayan dosyalar sahibine iade edilir.
+(4) (Mülga:RG-16/11/2017- 30242)

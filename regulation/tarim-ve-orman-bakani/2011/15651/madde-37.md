@@ -1,0 +1,3 @@
+Tanıtım
+MADDE 37 – (1) Satış yerleri, veteriner tıbbi ürünlerin tanıtımına ilişkin düzenlemelere göre hareket etmek zorundadır. Satış yerleri, tabela, afiş, el ilanı, internet siteleri, elektronik posta grupları ve sosyal ağlar gibi elektronik ortamlar, promosyon malzemeleri gibi araçları kullanarak, veteriner tıbbi ürün satışı yaptığına dair herhangi bir ifade kullanamaz, ilan veremez, reklam, kampanya veya tanıtım yapamaz. Ürünün tanıtım yetkisi, sadece izin sahibine aittir. Ancak depolar, sadece isim ve haberleşme adreslerini belirtmek kaydıyla ilan verebilirler.
+(2) (Mülga:RG-11/1/2013-28525)(1)

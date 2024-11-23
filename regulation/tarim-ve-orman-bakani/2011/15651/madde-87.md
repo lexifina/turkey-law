@@ -1,0 +1,4 @@
+Talimat ve kılavuzlar
+MADDE 87 – (1) Bu Yönetmelikte yer alan farmakovijilans ve üretim yerleri ile ilgili talimat ve kılavuzlar, Yönetmeliğin yayın tarihinden itibaren on iki ay, diğer talimat ve kılavuzlar ise üç ay içinde Genel Müdürlükçe hazırlanır ve Bakanlık internet sayfasında yayınlanır.
+(2) (Ek:RG-20/12/2014-29211) Bakanlıkça yayımlanan kılavuzlarda ürünlerin geliştirilmesi, ürünlere izin verilmesi ve üretilmesi gibi konularda hüküm bulunmaması halinde sırasıyla Avrupa Birliği, Dünya Sağlık Örgütü, Uluslararası Farmasötik Denetim Sözleşmesi (PIC), Veteriner Tıbbi Ürünler İçin Teknik Gerekliliklerin Uluslararası Uyumlaştırma Konferansı (VICH) ve Uluslararası Uyumlaştırma Konferansı (ICH) gibi kurum ve kuruluşların kılavuzları dikkate alınır.
+(3) (Ek:RG-1/4/2020-31086) Elektronik reçete ve veteriner tıbbi ürün takip sistemleri yoluyla gerçekleştirilen faaliyetler Bakanlık tarafından yayımlanan talimat ve kılavuzlara uygun şekilde gerçekleştirilir.

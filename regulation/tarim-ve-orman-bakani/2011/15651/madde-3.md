@@ -1,0 +1,5 @@
+Dayanak
+MADDE 3 – (1) Bu Yönetmelik,
+a) (Değişik:RG-11/1/2013-28525)(1) 11/6/2010 tarihli ve 5996 sayılı Veteriner Hizmetleri, Bitki Sağlığı, Gıda ve Yem Kanununun 3, 4, 12, 13, 14, 31, 32, 34, 36, 37, 43 ve 47 nci maddeleri, (Değişik ibare:RG-1/4/2020-31086) 10/7/2018 tarihli ve 30474 sayılı Resmî Gazete’de yayımlanan 1 sayılı Cumhurbaşkanlığı Teşkilatı Hakkında Cumhurbaşkanlığı Kararnamesinin 412 ve 413 üncü maddeleri, 9/3/1954 tarihli ve 6343 sayılı Veteriner Hekimliği Mesleğinin İcrasına, Türk Veteriner Hekimleri Birliği ile Odaların Teşekkül Tarzına ve Göreceği İşlere Dair Kanunun 5 inci maddesi ile 29/6/2001 tarihli ve 4703 sayılı Ürünlere İlişkin Teknik Mevzuatın Hazırlanması ve Uygulanmasına Dair Kanunun 4 üncü maddesine dayanılarak,
+b) Avrupa Parlamentosu ve Avrupa Konseyinin 2001/82 sayılı Veteriner Tıbbi Ürünler Direktifi, 2004/28 sayılı Veteriner Tıbbi Ürünlerle ilgili Topluluk Kodu ve Avrupa Parlamentosu ve Avrupa Konseyinin 2001/82 sayılı Veteriner Tıbbi Ürünler Direktifinin ekini değiştiren 2009/9 Sayılı Direktifi, 91/412 sayılı Veteriner Tıbbi Ürünler İçin İyi Üretim Uygulamaları Prensiplerine İlişkin Direktifine paralel olarak
+hazırlanmıştır.

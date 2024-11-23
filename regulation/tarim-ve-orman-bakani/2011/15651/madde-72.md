@@ -1,0 +1,3 @@
+Tedbir
+MADDE 72 – (1) Geri çekme duyurusundan sonra, hatalı ürünü bulunduranlar, bunun dağıtımını ve/veya satışını durdururlar. Bu kişiler geri çekme işlemi bitinceye kadar gerekli tedbirleri almakla yükümlüdürler.
+(2)(Değişik:RG-20/12/2014-29211) Bir geri çekme kararı alındığında, pazarlama izni sahibi Bakanlıkça bildirilen süre içerisinde ürünün üretimini durdurur. Yurt dışında üretilen ürünlerin ithalatı süre tanınmaksızın durdurulur. İyi üretim uygulamaları kılavuzuna uygun olarak hatanın nedeni, tekrarlanmaması için alınan düzeltici ve önleyici tedbirlere ait bilgi ve belgelerin Bakanlığa verilmesinden sonra, Bakanlık üretimin veya ithalatın devamı konusundaki kararını üretim yerine ve pazarlama izin sahibine bildirir.
