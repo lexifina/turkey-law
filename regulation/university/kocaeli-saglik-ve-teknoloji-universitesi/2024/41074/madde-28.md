@@ -1,0 +1,2 @@
+Adres bildirme ve tebligat
+MADDE 28- (1) Kesin kayıt sırasında öğrencinin yazılı olarak beyan ettiği adres ve Üniversite tarafından tahsis edilen e-posta adresi tebligat adresidir. Adres değişikliklerini öğrencinin bir ay içerisinde Öğrenci İşleri Daire Başkanlığına yazılı olarak bildirmesi gerekir. Yanlış ve eksik bildirim durumundan doğacak her türlü sonuçtan öğrenci sorumludur. Öğrencinin kayıt sırasında bildirmiş olduğu adrese ve Üniversite tarafından öğrenciye tahsis edilen e-posta adresine yapılan tebligat geçerli sayılır.

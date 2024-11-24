@@ -1,0 +1,3 @@
+Ekle-sil ve dersten çekilme işlemi
+MADDE 12- (1) Öğrenci akademik takvimde belirlenmiş olan ekle-sil tarihlerinde danışmanının onayı ile ilgili yarıyıl/yılda seçmiş olduğu dersini/derslerini bırakabilir. Öğrenci talep etmesi durumunda sadece bıraktığı dersin/derslerin AKTS miktarınca seçeceği farklı derse/derslere yazılma yapabilir.
+(2) Dersten çekilme işlemleri dönem başlangıcını takip eden yedi hafta içinde danışmanının onayı ve yönetim kurulu kararı ile yapılır. Öğrenci, dersten çekilme işlemi sonrasında başka bir derse yazılamaz. Dersten çekilme işlemi bir dönemde en fazla iki ders için yapılabilir.

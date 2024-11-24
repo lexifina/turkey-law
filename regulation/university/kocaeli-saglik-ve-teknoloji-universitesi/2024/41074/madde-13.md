@@ -1,0 +1,2 @@
+Mazeretli derse yazılma
+MADDE 13- (1) Mazereti nedeniyle süresi içerisinde ders kayıt işlemlerini tamamlayamayan öğrencilerin ders kayıt işlemlerinin yapılabilmesi için müracaatın yazılı olarak akademik takvimde belirlenen mazeretli kayıt süresi içerisinde yapılması gerekir. Mazeretin ilgili yönetim kurulunca kabul edilmesi halinde öğrencinin ders kayıt işlemleri Öğrenci İşleri Daire Başkanlığı tarafından akademik takvimde belirlenen mazeretli kayıt süreleri içerisinde yapılır. İstisnai durumlarda ilgili yönetim kurulu kararı geçerlidir.
