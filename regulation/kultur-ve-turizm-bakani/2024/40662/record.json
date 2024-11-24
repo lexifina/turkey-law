@@ -1,0 +1,46 @@
+{
+  "source_id": "7.5.40662",
+  "kind": "regulation",
+  "register_kind": "Kurum ve Kuruluş Yönetmelikleri",
+  "title": "TÜRKİYE TURİZM TANITIM VE GELİŞTİRME AJANSI PERSONELİNİN GÖREV, YETKİ VE SORUMLULUKLARI İLE İŞE ALINMALARINA İLİŞKİN USUL VE ESASLAR HAKKINDA YÖNETMELİK",
+  "number": "40662",
+  "issuer": "Kültür ve Turizm Bakanı",
+  "issuer_slug": "kultur-ve-turizm-bakani",
+  "path": "regulation/kultur-ve-turizm-bakani/2024/40662",
+  "source": "https://www.mevzuat.gov.tr/anasayfa/MevzuatFihristDetayIframe?MevzuatTur=7&MevzuatNo=40662&MevzuatTertip=5",
+  "source_sha256": "7d0b690fa5a5fd4f5b7eb7b94be9a3c3ea494807f77c4ecf548771578578981e",
+  "source_bytes": 42680,
+  "published": "2024-01-30",
+  "gazette": "32445",
+  "in_force": "2024-11-24",
+  "in_force_basis": "latest Resmî Gazete date printed in the source amendment notes/table (\"RG-24/11/2024\") for the current consolidated text",
+  "date_evidence": [
+    [
+      "2024-11-24",
+      "RG-24/11/2024",
+      "Resmî Gazete date printed in the source amendment note"
+    ],
+    [
+      "2024-11-24",
+      "24/11/2024",
+      "Resmî Gazete date in the source amendment table"
+    ]
+  ],
+  "commencement_clauses": [
+    "Bu Yönetmelik yayımı tarihinde yürürlüğe girer"
+  ],
+  "history": "current-text",
+  "label": "oldest version available",
+  "checked_on": "2026-11-15",
+  "word_count": 1964,
+  "text_status": "current-consolidated",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  },
+  "source_links": [
+    "7.5.40662%20EK.docx"
+  ],
+  "completeness": "html-text-complete; linked annexes not fetched"
+}
