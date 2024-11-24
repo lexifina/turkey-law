@@ -1,0 +1,6 @@
+Değişim programları
+MADDE 34 – (1) Üniversite ile yabancı ülkelerdeki bir yükseköğretim kurumu arasında yapılan anlaşma uyarınca öğrenci değişim programları uygulanabilir. Bu programlar çerçevesinde öğrenciler bir veya iki yarıyıl yurt dışındaki üniversitelere gönderilebilir.
+(2) Avrupa Birliği Yükseköğretim Programları (ERASMUS) çerçevesinde öğrenci değişimi ile yurt dışındaki üniversitelere öğrenim görmek üzere gönderilen öğrencilerin alacağı dersler bölüm veya program ERASMUS koordinatörü tarafından önerilir ve ilgili bölüm veya program başkanlığı tarafından belirlenir. Belirlenen bu derslerden, öğrenim gördüğü programın derslerinden birine eşdeğer olan ders varsa, bu ders, söz konusu eşdeğer ders ile birlikte; eşdeğer ders yoksa alınan ders seçmeli olarak, kendi kodu, adı ve AKTS Kredisi ile birlikte not döküm belgesine işlenir.
+(3) İkili anlaşmalar çerçevesinde çift diplomaya yönelik ortak program yürüten bölümlerin öğrencilerinin ilgili üniversitelerden aldıkları dersler olduğu gibi not döküm belgesine işlenir.
+(4) Yurt dışındaki anlaşmalı üniversitelerden Başkent Üniversitesine gelen öğrencilere, aldıkları dersleri ve başarı durumlarını gösteren bir belge Öğrenci İşleri Daire Başkanlığı tarafından verilir.
+(5) Değişim programları çerçevesinde öğrenim ücretinin nasıl ödeneceği anlaşmalarla belirlenir.

@@ -1,0 +1,4 @@
+Öğrencilerin başarı durumları
+MADDE 22 – (1) (Değişik:RG-12/11/2023-32367) GNO’su 2,00 veya üstü olan öğrenci başarılı öğrencidir. GNO’su 1,99 ve altında olan öğrenci başarısız öğrencidir.
+(2) Birinci yarıyıl hariç kayıtlı bulunduğu her yarıyıl sonunda GNO’su 1,80’den daha düşük olan öğrencinin; derslerin ön koşullarının sağlanması şartıyla Atatürk İlkeleri ve İnkılap Tarihi, Türk Dili, Seçmeli Güzel Sanatlar, Bilgisayar Okuryazarlığı, Üniversite Hayatına Giriş, Staj dersleri ve ertelenmiş dersleri hariç, daha önce almadığı bir dersi alabilmesi için GNO’sunu en az 1,80’e çıkarması gerekir. Bu durumdaki öğrenciler, GNO’larını belirtilen düzeye çıkartıncaya kadar daha önce aldıkları dersleri tekrarlarlar. Öğrencilerin ders tekrarladıkları yarıyıllar öğretim süresinden sayılır.
+(3) YNO’su ve GNO’su 3,00-3,49 arasında olan öğrenciler onur öğrencisi, 3,50-4,00 arasında olan öğrenciler ise yüksek onur öğrencisi sayılır.

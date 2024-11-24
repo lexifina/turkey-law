@@ -1,0 +1,3 @@
+Kayıt yenileme
+MADDE 10 – (Değişik:RG-24/11/2024-32732)
+(1) Kayıtlar, her yarıyıl başında akademik takvimde belirtilen tarihler arasında yenilenir. Kayıt yenileme, öğrencinin öğrenim ücretini yatırıp seçtiği derslerin danışmanı tarafından onaylanması ile tamamlanır. Öğrenciler, akademik takvimde belirlenen süreler içinde, o yarıyılda aldıkları derslere ekleme veya silme yapabilirler. Sadece mazeretleri Rektörlük tarafından kabul edilen öğrencilerin kayıtları en geç ekle-sil süresi sonuna kadar yenilenebilir. Kaydını yeniletmeyen öğrencilerin kayıtları askıya alınır ve kayda geldikleri akademik yılda geçerli olan öğrenim ücretini ödemek koşulu ile öğrenimlerine devam etmek için kayıt yaptırabilirler ve öğrencilik haklarından yararlanabilirler.

@@ -1,0 +1,2 @@
+Ön lisans diploması
+MADDE 31 – (1) Dört yarıyıllık ön lisans programlarını tamamlayan öğrencilere ön lisans diploması verilir. Ayrıca, herhangi bir lisans programına kayıtlı öğrencilerden isteyenlere, ilk dört yarıyıl derslerini en az 2,00 GNO ile tamamlamış olmaları ve ilk dört yarıyıl derslerinden en az “D” veya “Y” notu almış olmaları koşuluyla, ön lisans diploması ve diploma eki verilir. Lisans programına kayıtlı öğrencilerin ön lisans diploması almaları veya meslek yüksekokullarına intibak ettirilmeleri ile ilgili işlemler, Yükseköğretim Kurulu mevzuatına göre yapılır.

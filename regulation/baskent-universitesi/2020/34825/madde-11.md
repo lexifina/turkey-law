@@ -1,0 +1,4 @@
+Kayıt sildirme
+MADDE 11 – (Değişik:RG-12/11/2023-32367)
+(1) Kayıt sildirmek isteyen öğrenciler, kayıtlı oldukları akademik birime dilekçe ile başvururlar.
+(2) Kayıt sildirme işlemini akademik takvimde belirtilen ders kayıt günlerinin sonuna kadar yapan öğrenciye öğrenim ücretinin %90’ı, derslerin başlangıcının birinci haftasının sonuna kadar yapan öğrenciye %75’i, ikinci haftasının sonuna kadar yapan öğrenciye %50’si iade edilir. İkinci haftadan sonraki kayıt sildirme işlemlerinde ücret iadesi yapılmaz. Ek kontenjan, dikey geçiş ve diğer üniversitelerden hazırlık sınıfındaki başarısızlıktan dolayı ilişiği kesilerek Üniversiteye kayıt yaptıran öğrencilerin ders kayıt tarihlerinden itibaren bir hafta içerisinde kayıt sildirmesi halinde öğrenim ücretlerinin %90’ı iade edilir. Bir haftadan sonra ücret iadesi yapılmaz.

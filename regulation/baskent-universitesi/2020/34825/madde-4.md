@@ -1,0 +1,23 @@
+Tanımlar
+MADDE 4 – (1) Bu Yönetmelikte geçen;
+a) AKTS: Avrupa Kredi Transfer Sistemini,
+b) AKTS Kredisi: Her bir dersin Avrupa Kredi Transfer Sistemine göre değerini,
+c) Başkent Kredisi: Her bir dersin ders kataloğunda gösterilen ağırlıklı değerini,
+ç) Birim: Başkent Üniversitesi fakülte, yüksekokul, devlet konservatuvarı ve meslek yüksekokullarını,
+d) Dekan: Başkent Üniversitesi Fakülte Dekanını,
+e) Ertelenmiş ders: Öğrencinin mevcut yarıyılından önceki yarıyıllarında almadığı veya alamadığı dersi,
+f) Eşdeğer ders: Öğrencinin kayıtlı olduğu programdaki herhangi bir ders ile en az aynı Başkent Kredisi veya AKTS Kredisine sahip olan ve ilgili birimin yönetim kurulu kararı ile o dersin yerine sayılabilir nitelikte bulunan dersi,
+g) GNO: Genel not ortalamasını,
+ğ) Kaydı askıya alınmış öğrenci: Süresi içinde öğrenim ücretini ödemediği için kaydı yenilenmeyen ve hiçbir öğrencilik hakkından yararlanamayan öğrenciyi,
+h) Müdür: Başkent Üniversitesi devlet konservatuvarı, yüksekokul, meslek yüksekokulu müdürünü,
+ı) Mütevelli Heyeti: Başkent Üniversitesi Mütevelli Heyetini,
+i) Ön koşullu ders: Alınabilmesi için alt yarıyıllarda yer alan derslerden bir veya birkaçının başarılması koşulu aranan dersi,
+j) Rektör: Başkent Üniversitesi Rektörünü,
+k) Seçmeli ders: Bir programda zorunlu dersler dışındaki dersi,
+l) Senato: Başkent Üniversitesi Senatosunu,
+m) Tekrarlanacak ders: Öğrencinin daha önceki yarıyıllarda başarısız olduğu için yeniden alması gereken dersi,
+n) Uzatmalı öğrenci: Bu Yönetmelikte belirtilen azami öğrenim süresini doldurduğu halde 2547 sayılı Kanunun 44 üncü maddesi hükümleri uyarınca, ilişiği kesilmeyerek öğrenimine devam ettirilen öğrenciyi,
+o) Üniversite: Başkent Üniversitesini,
+ö) YNO: Yarıyıl not ortalamasını,
+p) Yönetim Kurulu: Başkent Üniversitesi Yönetim Kurulunu,
+ifade eder.

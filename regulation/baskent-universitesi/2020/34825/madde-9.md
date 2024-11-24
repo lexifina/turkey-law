@@ -1,0 +1,2 @@
+Üniversiteye kayıt yaptırma
+MADDE 9 – (1) Üniversiteye yeni kayıtlar ilân edilen tarihler arasında, ilgili mevzuat hükümleri uyarınca yapılır. Belgelerinde tahrifat bulunanlar ile belgelerindeki eksikliği süresi içinde gideremeyenlerin kayıtları yapılmaz; yapılmış ise geçersiz kabul edilerek silinir. İstenilen belgelerin aslı veya Üniversite tarafından onaylı örneği kabul edilir. (Mülga cümle:RG-24/11/2024-32732)

@@ -1,0 +1,2 @@
+İzinli veya raporlu geçen sürede ücret ödeme
+MADDE 29 – (1) Öğrencilerin izinli bulundukları süreler içinde öğrencilik yükümlülükleri devam eder. İzinli sayılan yarıyılın ücreti, o yarıyıl için öğrenim ücretinin %50’sidir. Yönetmeliğin 28 inci maddesinde belirtilen hastalıklar nedeniyle yapılan izin talepleri hariç, ders ekle-sil süresinin son gününden sonra yapılan izin başvurularında, o yarıyıl için öğrenim ücretinin tamamı ödenir. Öğrenim ücretini ödemeyen öğrencilerin kayıtları askıya alınır.
