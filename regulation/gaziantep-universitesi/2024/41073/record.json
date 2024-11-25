@@ -1,0 +1,39 @@
+{
+  "checked_on": "2026-11-14",
+  "commencement_clauses": [
+    "MADDE 40- (1) Bu Yönetmelik yayımı tarihinde yürürlüğe girer."
+  ],
+  "date_evidence": [
+    [
+      "2024-11-25",
+      "25.11.2024",
+      "original gazette publication date in official listing"
+    ]
+  ],
+  "date_quote": "MADDE 40- (1) Bu Yönetmelik yayımı tarihinde yürürlüğe girer.",
+  "first_law": null,
+  "gazette": "32733",
+  "history": "current-text",
+  "images": {
+    "deferred": 0,
+    "omitted": 0,
+    "referenced": 0,
+    "source": 0
+  },
+  "in_force": "2024-11-25",
+  "in_force_basis": "source commencement clause: enters into force on gazette publication",
+  "issuer": "Gaziantep Üniversitesi",
+  "issuer_slug": "gaziantep-universitesi",
+  "kind": "regulation",
+  "label": "oldest version available",
+  "path": "regulation/gaziantep-universitesi/2024/41073",
+  "published": "2024-11-25",
+  "source": "https://www.mevzuat.gov.tr/anasayfa/MevzuatFihristDetayIframe?MevzuatTur=8&MevzuatNo=41073&MevzuatTertip=5",
+  "source_bytes": 87054,
+  "source_id": "8.5.41073",
+  "source_sha256": "b3bccf2815dfc662e8a49dac4bfabe2a8f14b469be6f32f7e13f2ccf962c326f",
+  "text_status": "as-enacted",
+  "title": "GAZİANTEP ÜNİVERSİTESİ ÜÇ DÖNEM UYGULAYAN MESLEK\r\nYÜKSEKOKULLARININ ÖN LİSANS EĞİTİM-ÖĞRETİM VE SINAV YÖNETMELİĞİ",
+  "university_id": 196,
+  "word_count": 5069
+}

@@ -1,0 +1,2 @@
+Özel öğrenciler
+MADDE 37- (1) Bir yükseköğretim kurumunda kayıtlı öğrenci olup farklı bir yükseköğretim ortamı, kültürü, kazanımı edinmek isteyen veya özel durumu nedeniyle kayıtları kendi üniversitelerinde kalmak şartıyla farklı bir yükseköğretim kurumunda eğitime devam etme imkânı tanınan öğrenciye özel öğrenci denir. Özel öğrencilerle ilgili uygulama esasları ilgili mevzuat hükümleri çerçevesinde Senato tarafından belirlenir.

@@ -1,0 +1,3 @@
+Ders tekrarı ve ders alma
+MADDE 19- (1) Bir öğrenci kaldığı (NA, FF, FD, U) zorunlu dersleri döneminde açılmış ise tekrar almak zorundadır. Ancak dönem dışı açılan zorunlu derslerde bu şart aranmaz. Kalınan seçmeli bir ders ise öğrenciler kayıtlı olduğu programdaki aynı dersi veya başka bir seçmeli dersi danışman öğretim elemanının uygun görmesi durumunda alabilir.
+(2) Öğrenciler, not ortalamalarını yükseltmek amacıyla öğrenimleri süresince daha önce almış oldukları dersleri tekrarlayabilirler. Tekrarlanan derste önceki not ne olursa olsun, alınan son not geçerlidir ve not ortalaması hesaplarında son not kullanılır.
