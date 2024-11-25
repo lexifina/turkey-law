@@ -1,0 +1,4 @@
+Derslerin açılması
+MADDE 10 – (1) Yaz öğretiminde açılması öngörülen dersler, ilgili birim kurullarının önerileri doğrultusunda Senato onayından sonra öğrencilere duyurulur.
+(2) Yaz öğretiminde ders açılabilmesi için, otuz öğrenciden az olmamak kaydıyla yapılan başvuru ilgili bölüm kurulu tarafından değerlendirilir. Açılacak dersler ve görevlendirilen öğretim elemanları ilgili bölüm kurulu kararı ve (Değişik ibare:RG-25/11/2024-32733) meslek yüksekokulu/fakülte aracılığıyla Senatoya sunulur. Otuz öğrencinin altında başvuru olması durumunda, öğretim üyesinin talebi varsa ilgili kurulların uygun görüşü ve Senato onayıyla ders açılabilir.
+(3) Yönergelerinde yaz öğretimi programlarından alınamayacağı hükmü bulunan dersler ile bitirme projesi, bitirme çalışması ve laboratuvar dersleri yaz öğretiminde açılamaz.

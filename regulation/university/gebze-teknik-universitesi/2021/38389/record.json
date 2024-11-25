@@ -1,0 +1,31 @@
+{
+  "act_path": "regulation/university/gebze-teknik-universitesi/2021/38389",
+  "availability": "text",
+  "checked_on": "2026-11-14",
+  "commencement_clauses": [
+    "MADDE 16 – (1) Bu Yönetmelik yayımı tarihinde yürürlüğe girer."
+  ],
+  "date_quote": "RG-25/11/2024",
+  "first_law": null,
+  "gazette": "31416",
+  "history": "current-text",
+  "images": {
+    "deferred": 0,
+    "omitted": 0,
+    "referenced": 0,
+    "source": 0
+  },
+  "in_force": "2024-11-25",
+  "in_force_basis": "latest source-printed amendment Gazette date; current consolidated text",
+  "issuer": "Gebze Teknik Üniversitesi",
+  "issuer_slug": "gebze-teknik-universitesi",
+  "kind": "regulation",
+  "published": "2021-03-07",
+  "source": "https://www.mevzuat.gov.tr/anasayfa/MevzuatFihristDetayIframe?MevzuatTur=8&MevzuatNo=38389&MevzuatTertip=5",
+  "source_id": "8.5.38389",
+  "source_sha256": "dd42b7149255e9d4212ba9e8a3380b0fbe6d4ab0a0f2e4242045692dfa3fe364",
+  "title": "GEBZE TEKNİK ÜNİVERSİTESİ YAZ ÖĞRETİMİ YÖNETMELİĞİ",
+  "university_id": 452,
+  "version_label": "oldest version available",
+  "word_count": 1132
+}

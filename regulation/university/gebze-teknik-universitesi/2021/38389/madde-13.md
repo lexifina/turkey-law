@@ -1,0 +1,2 @@
+Sınavlar
+MADDE 13 – (1) Her ders için yaz öğretimi başında dersi veren öğretim elemanı tarafından öğrenciye bildirilen program çerçevesinde sınavlar yapılır. Final sınavı veya ara sınavlara mazeretleri nedeni ile giremeyen öğrencilere (Değişik ibare:RG-25/11/2024-32733) Gebze Teknik Üniversitesi Ön Lisans ve Lisans Eğitim-Öğretim Yönetmeliğinin ilgili maddesi çerçevesinde mazeret sınav hakkı verilir.
