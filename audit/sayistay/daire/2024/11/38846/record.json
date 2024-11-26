@@ -1,0 +1,17 @@
+{
+  "kind": "decision",
+  "issuer": "Sayıştay 3. Dairesi",
+  "number": "511",
+  "decision_date": "2024-11-26",
+  "source_id": 38846,
+  "chamber": "3",
+  "ilam_number": "12",
+  "item_number": 1,
+  "public_body_type": "Yüksek Öğretim Kurumları",
+  "account_year": 2023,
+  "subject": "Personel Mevzuatı ile İlgili Kararlar",
+  "source": "https://www.sayistay.gov.tr/KararlarDaire/Detay/38846/",
+  "source_sha256": "0e1ee561f233f8fb6a141b9fabca4f95f609a0ad16a79ccd746ca5c395ae53ae",
+  "text_status": "metadata-only",
+  "metadata_only_reason": "possible personal name in the official text"
+}
