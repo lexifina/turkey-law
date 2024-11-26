@@ -1,0 +1,17 @@
+{
+  "kind": "decision",
+  "issuer": "Sayıştay 7. Dairesi",
+  "number": "625",
+  "decision_date": "2024-11-26",
+  "source_id": 39040,
+  "chamber": "7",
+  "ilam_number": "333",
+  "item_number": 4,
+  "public_body_type": "Belediyeler ve Bağlı İdareler",
+  "account_year": 2018,
+  "subject": "Personel Mevzuatı ile İlgili Kararlar",
+  "source": "https://www.sayistay.gov.tr/KararlarDaire/Detay/39040/",
+  "source_sha256": "dc80fe7ebe62c63d7441c2a746628c88af762408067266c22b35cf85860a388d",
+  "text_status": "as-enacted",
+  "text_file": "metin.md"
+}
