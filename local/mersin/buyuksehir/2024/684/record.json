@@ -1,0 +1,18 @@
+{
+  "issuer": "Mersin Büyükşehir Belediye Meclisi",
+  "number": "684",
+  "decision_date": "2024-11-26",
+  "title": "-MEC.KAR.(NAKDİ DESTEK VERİLMESİ)",
+  "listed_as": "684-MEC.KAR.(NAKDİ DESTEK VERİLMESİ)",
+  "subject_note": "subject as the meeting page lists it (the register shortens some long subjects)",
+  "official_document": "https://www.mersin.bel.tr/dokumanlar/684-meckarnakdi-destek-verilmesi-1031827629",
+  "source_listing": "https://www.mersin.bel.tr/dokumanlar/26-kasim-2024-meclis-kararlari-872479144",
+  "listing_sha256": "44b883a6ef6dc7caf59a02d35d37d8de7f118c0f058f56f400545d32051fbbd1",
+  "meeting_title": "26 KASIM 2024 MECLİS KARARLARI",
+  "history_type": "metadata-only",
+  "capture_mode": "metadata-only",
+  "text_status": "metadata-only; official decision page linked, text not transcribed",
+  "date_basis": "meeting date in the official meeting page title (decision date of the session)",
+  "commencement_established": false,
+  "privacy_withheld": false
+}
