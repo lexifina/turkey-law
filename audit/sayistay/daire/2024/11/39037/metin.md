@@ -1,0 +1,17 @@
+Görevden ayrılan işçilere 375 sayılı KHK’nın 1’inci maddesinin (D) bendi kapsamında tazminat ödemesi yapılması
+
+Mevzuatta öngörülen şartları sağlamadığı halde görevden ayrılan işçilere 375 sayılı KHK’nın 1’inci maddesinin (D) bendi kapsamında tazminat ödemesi yapılarak kamu zararına sebebiyet verildiği iddiasına ilişkin yapılan incelemede;
+
+375 sayılı KHK’nın 1’inci maddesinin (D) bendinde;
+
+“(Ek: 31/7/2003-4969/2 md.) (A) bendi kapsamına giren personel ile 22.1.1990 tarihli ve 399 sayılı Kanun Hükmünde Kararnameye ekli (II) sayılı cetvelde yer alan personel ve kamu kurumlarında işçi olarak istihdam edilenlerden; emekliliğini isteyen veya emekliye sevk olunanlara, haklarında toptan ödeme hükümleri uygulananlara, emekli iken yeniden hizmete alındıktan sonra cezaen olmamak üzere görevlerine son verilenlere, kendi kusurları olmaksızın sözleşmesi feshedilen veya hizmet sürelerinin bitiminde ayrılan sözleşmeli subay, sözleşmeli astsubay, uzman erbaş ve sözleşmeli erbaş ve erler ile terhis olan yedek subaylara ve bunlardan görevde iken ölenlerin kanuni mirasçılarına damga vergisi hariç herhangi bir vergiye tâbi tutulmaksızın (12.105) gösterge rakamının memur aylık katsayısı ile çarpımı sonucu bulunacak tutarında tazminat ödenir.” Denilmektedir.
+
+Temyiz Kurulu’nun … tarihli bozma kararında özetle; emeklilik hakkını dolduran ve sözleşmeleri feshedilip, kendilerine 375 sayılı KHK’nin 1 inci maddesinin (D) bendi kapsamında tazminat ödemesi yapılan işçilerin; belediyece emekliliğe sevk edilmek suretiyle sözleşmelerinin feshedildiği; Söz konusu tazminat ödemesine dayanak; 375 sayılı KHK’nın 1 inci maddesinin (D) bendinde yer alan ; “... emekliğini isteyen veya emekliğe sevk olunanlar…” ifadesinden, bu işçilerin emekliliğe sevk olunanlar içerisinde yer aldığı bu nedenle yapılan ödemede mevzuata aykırılık bulunmadığı ifade edilmiştir.
+
+375 sayılı KHK’nın 1’inci maddesinin (D) bendindeki düzenleme doğrultusunda; söz konusu tazminat ödemesinin yapılabilmesi, “emekliliğini isteyen veya emekliye sevk olunanlara, haklarında toptan ödeme hükümleri uygulananlara, emekli iken yeniden hizmete alındıktan sonra cezaen olmamak üzere görevlerine son verilenlere” durumlarından herhangi biri kapsamında olma şartına bağlanmıştır.
+
+Rapor dosyası ve eki belgelere bakıldığında, emekliliği hak eden ancak emeklilik talebinde bulunmayan işçilerin sözleşmelerinin, belediyece 4857 sayılı İş Kanunu’nun “Süreli Fesih” başlıklı 17’nci maddesi hükümleri doğrultusunda feshedildiği, bu kişiler için re’sen emeklilik hükümleri işletilerek mevzuat çerçevesinde öngörülen tazminat ödemesinin yapıldığı görülmektedir. Yukarıda da ifade edildiği üzere sözleşmesi feshedilen işçilerin tamamı emekliliği hak etmiş durumdadırlar. Dolayısıyla yapılan fesih işlemleri iş akdi feshedilen işçiler açısından emekliye sevk olunma niteliği taşımaktadır. Aksi anlayışla Kanun’da yer alan “… işçi olarak istihdam edilenlerden; … emekliye sevk olunanlara ...” hükmünün uygulama imkanın olmayacağı gibi bir durum ortaya çıkmaktadır. Bu itibarla tazminat ödemelerinin 375 sayılı KHK’nın 1’inci maddesinin (D) bendi kapsamında olduğu ve mevzuata bir aykırılık teşkil etmediği değerlendirilmektedir.
+
+Açıklanan gerekçelerle Temyiz Kurulu’nun … tarih ve … tutanak numaralı bozma kararına uyulmasına ve yargılama konusu olan …. TL ödeme ile ilgili olarak;
+
+6085 sayılı Sayıştay Kanunu’nun 55’inci maddesi uyarınca işbu Ek İlamın tebliğ tarihinden itibaren altmış gün içerisinde Sayıştay Temyiz Kurulu nezdinde temyiz yolu açık olmak üzere ilişilecek bir husus bulunmadığına oy birliğiyle,
