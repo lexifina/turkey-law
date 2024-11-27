@@ -1,0 +1,2 @@
+İstihdam edilme gerekçeleri ortadan kalkan personelin ataması
+MADDE 23 – (1) İlgili mevzuat gereği yapılan özel düzenlemeler ile aile hekimliği uygulamaları hariç olmak üzere; görev yapılan sağlık kuruluşunun kapanması, PDC’de değişiklik olması, sağlık birimlerinin devri, nitelik değiştirmesi veya birleşmesi gibi nedenlerle o unvandan personele ihtiyaç kalmaması hâllerinde, ilgili personel öncelikle il içinde ihtiyaç olan birimlere atanır. Aynı hizmet birimine birden fazla tercih yapılması hâlinde hizmet puanına göre yerleştirilirler.

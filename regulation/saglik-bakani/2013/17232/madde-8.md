@@ -1,0 +1,2 @@
+Hizmet puanı
+MADDE 8 – (1) Personelin atama ve yer değiştirme işlemlerinde kullanılmak üzere, bu Yönetmelik kapsamındaki personel için her atama döneminden önce atamaya esas olmak üzere çalışılan yerin özelliklerinin göz önüne alındığı bir hizmet puanı hesaplanır. Açık bulunan ve Bakanlıkça ilan edilen kadrolara yapılacak atamalarda hizmet puanı esas alınır. Hizmet puanlarının eşitliği hâlinde ise meslekî kıdemi fazla olan personel atamaya hak kazanmış olur.

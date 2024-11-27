@@ -1,0 +1,3 @@
+Yeniden atama
+MADDE 15 – (1) (Değişik:RG-2/3/2018-30348) Kamu kurum ve kuruluşlarında sağlık hizmetleri ve yardımcı sağlık hizmetleri sınıfından bir unvanda çalışmış olup bu görevlerinden çeşitli nedenlerle ayrılmış olanlar Bakanlığın aynı hizmet sınıfı kadrolarında yeniden göreve başlatılabilirler. Bakanlık, kadro durumunun müsait olması hâlinde yeniden atama suretiyle doldurulacak kadroları ilan eder. Müracaat edenlerin yerleştirmeleri tercihlerine göre kura ile yapılır.
+(2) Uzman tabip, uzman (TUTG), tabip, uzman diş tabibi, (Değişik ibare:RG-27/11/2024-32735) diş tabibi, uzman eczacı ve eczacıların yeniden atamaları ilgili mevzuatı gereği ilk atama usul ve esaslarına göre, belirlenecek dönemlerde kur’a ile yapılır.

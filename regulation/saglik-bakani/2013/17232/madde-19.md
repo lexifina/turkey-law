@@ -1,0 +1,4 @@
+Sağlık mazeretine bağlı yer değişikliği
+MADDE 19 – (Başlığı ile birlikte değişik:RG-4/4/2015-29316)
+(1) Personelin kendisinin, eşinin, annesinin, babasının, bakmakla yükümlü olduğu çocuklarının ve yargı kararı ile vasi tayin edildiği kardeşinin hastalığının görev yaptığı yerde tehlikeye girdiğini veya görev yerinin değişmemesi hâlinde tehlikeye gireceğini, üniversiteler veya Bakanlık eğitim ve araştırma hastanelerinden alınacak sağlık kurulu raporu ile belgelendirmesi halinde tedavinin yapılabileceği bir sağlık kurum veya kuruluşunun bulunduğu veya sağlığının olumsuz etkilenmeyeceği bir ilin münhal kadrolarına sağlık mazereti değerlendirme komisyonu kararı doğrultusunda atanır.
+(2) Sağlık mazereti değerlendirme komisyonu, gerekli durumlarda bu raporların başka eğitim ve araştırma hastanelerinin sağlık kurullarınca da usule ve fenne uygunluğunun tespit edilmiş olma şartını arayabilir.
