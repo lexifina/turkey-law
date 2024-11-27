@@ -1,0 +1,15 @@
+{
+  "issuer": "Radyo ve Televizyon Üst Kurulu (RTÜK)",
+  "record_type": "Üst Kurul Kararı",
+  "meeting": "2024/46",
+  "meeting_date": "2024-11-27",
+  "meeting_date_as_published": "27.11.2024",
+  "decision_no": "26",
+  "source_id": 20251,
+  "title": "RTÜK kararı 2024/46-26",
+  "source": "https://www.rtuk.gov.tr/UstKurulKarar/Detay/20251",
+  "source_sha256": "8b7c93071ef2e98a65d978cddeb6db21f5ce2fbd6bd643f4df8f1bba9fc6f601",
+  "text_status": "metadata-only",
+  "metadata_only_reason": "possible private person name(s) in the official text (3 match(es)); full text withheld, official link only",
+  "law_text_complete": false
+}
