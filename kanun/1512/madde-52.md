@@ -1,2 +1,3 @@
-Noterlerin tatilde iş yapmak yasaklığı ve ayrık haller:
-Madde 52 – Noterler tatil günlerinde ve iş günlerinin tatil saatlerinde ancak vasiyetname tanzim ve tasdiki veya gecikmesinde zarar umulan noterlik işlemlerini yapabilirler. Tatil gün ve saatlerinde iş yapılması sebebinin evrakta gösterilmesi ve bu işlemin yevmiye defterinin tatilden sonraki ilk numarasına kaydedilmesi zorunludur.
+Noterlerin tatil gün ve saatlerinde çalışması:
+MADDE 52- (Başlığı ile Birlikte Değişik:14/11/2024-7532/3 md.)[7]
+Noterlerin tatil gün ve saatlerinde çalışmasına ilişkin usul ve esaslar, Türkiye Noterler Birliğinin mütalaası alınarak Adalet Bakanlığınca yürürlüğe konulan yönetmelikte düzenlenir.
