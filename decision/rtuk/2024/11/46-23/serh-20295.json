@@ -1,0 +1,15 @@
+{
+  "issuer": "Radyo ve Televizyon Üst Kurulu (RTÜK)",
+  "record_type": "Şerh (karşı oy yazısı)",
+  "meeting": "2024/46",
+  "meeting_date": "2024-11-27",
+  "meeting_date_as_published": "27.11.2024",
+  "decision_no": "23",
+  "source_id": 20295,
+  "title": "RTÜK kararı 2024/46-23 karşı oy yazısı",
+  "source": "https://www.rtuk.gov.tr/UstKurulKarar/Detay/20295",
+  "source_sha256": "50c9dc02dd52055e34eb0c63585a11c3563d284a4b72b610944c087122cd1de9",
+  "text_status": "metadata-only",
+  "metadata_only_reason": "possible private person name(s) in the official text (28 match(es)); full text withheld, official link only",
+  "law_text_complete": false
+}
