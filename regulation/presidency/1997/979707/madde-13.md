@@ -1,0 +1,3 @@
+Soruşturma ve görevden uzaklaştırma
+Madde 13 – Mülki idare amiri, hizmet kuruluşlarında görevli amir ve memurlar hakkında soruşturma açmaya, soruşturmaları bizzat yapmaya veya yaptırmaya, bu amaçla ilgili bakanlık veya kurum ve kuruluşlardan denetim elemanı istemeye, memurların yargılanmaları usulüne tabi olmayanların evrakını doğrudan adli mercilere intikal ettirmeye yetkilidir.
+Hizmetin gerektirdiği hallerde, görev başında kalmalarında sakınca görülen birinci derecede amir düzeyindeki personel valinin muvafakatı ile, diğerleri resen olmak üzere, mülki idare amirinci görevden uzaklaştırılır. Uzaklaştırma işlemleri valiliklerce ilgili bakanlık veya kurum ve kuruluşlara bildirilir.

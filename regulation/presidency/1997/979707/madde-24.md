@@ -1,0 +1,2 @@
+Güvenlikle ilgili diğer hususlar
+Madde 24 – Havaalanlarının karaya, denize ve havaya dönük bölümlerinde güvenlik, mülki idare amiri tarafından sağlanır. Ancak havaya dönük bölümlerinde uçuş güvenliği (ICAO) ve (ECAC) kurallarına göre uçuş tarifeleri, slot uygulamaları, havaalanlarında zorunlu tadilat ve düzenlemelerin yapılması, fiziki engellerin tesisi, diğer engeller ile yetkisiz kişilerin geçişini önleyecek tesislerin yapılması Ulaştırma ve Altyapı Bakanlığı tarafından yerine getirilir.[7]

@@ -1,0 +1,3 @@
+Disiplin kovuşturması
+Madde 11 – Mülki idare amiri, gerekli gördüğü hallerde, sivil hava meydanlarında, limanlarda ve sınır kapılarında görevli amir ve memur hakkında disiplin mevzuatına, işçi veya diğer personel hakkında ise tabi oldukları muvzuata göre işlem yapılmasını ilgili kamu kurum ve kuruluşlarına bildirir. Kuruluşlar yapılan kovuşturma sonucunda tanzim edilen raporu ve yapılan işlem sonucunu en kısa zamanda ilgili mülki idare amirlerine bildirmekle yükümlüdür.
+Mülki idare amiri, gerekirse disiplin kovuşturması yapabilir, uyarma ve kınama cezası verebilir. Mülki idare amirine göre vali bir üst disiplin amiridir. Mülki idare amirince verilen cezalara karşı valiye itiraz edilebilir.

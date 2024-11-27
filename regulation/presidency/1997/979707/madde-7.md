@@ -1,0 +1,3 @@
+Giriş çıkışlar ve giriş kartları
+Madde 7 – Sivil hava meydanlarında, limanlarda ve sınır kapılarında görevli resmi ve özel kuruluşlara bağlı tüm personel ile araçlar için verilecek giriş kartları emniyet birimlerince gerekli güvenlik tahkikatı yapıldıktan ve Gümrükler Muhafaza Genel Müdürlüğü uhdesindeki Kaçakçılık Bilgi Bankasından sorulduktan ve ilgili birimce tanzim edildikten sonra mülki idare amirliklerince onaylanarak verilir.[3]
+Düzenlenecek giriş kartlarının çeşitleri, veriliş şekli, değiştirilmesi, iptali, diğer giriş çıkışlar, park yerleri ve her türlü trafik düzenlemeleri ile sair hususlara ilişkin esaslar ilgili birimlerin görüşü alınarak mülki idare amirlerince hazırlanıp vali tarafından onaylanarak yürürlüğe girecek yönergelerle belirlenir.

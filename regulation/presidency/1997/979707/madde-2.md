@@ -1,0 +1,2 @@
+Kapsam
+Madde 2 – Bu Yönetmelik, sivil hava meydanlarında, limanlarda ve sınır kapılarında genel güvenliğin sağlanmasını, buralara giriş çıkışların düzenlenmesini, görevli kuruluşların teknik nitelikteki hizmetleri ile ticari faaliyetleri hariç, görev ve hizmetlerinin denetimini, bunlar arasında işbirliği ve koordinasyonun sağlanmasını, vali ve görevlendirilen mülki idare amirlerinin bu konulardaki görev, yetki ve sorumluluklarını kapsar.

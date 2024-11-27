@@ -1,0 +1,2 @@
+Kaldırılan hükümler
+Madde 38 – 21/12/1981 tarihli ve 8/4018 sayılı Bakanlar Kurulu Kararı ile yürürlüğe konulan "Sivil Hava Meydanları, Limanlar ve Sınır Kapılarında Görev ve Hizmetlerin Yürütülmesi Hakkında Yönetmelik", 21/1/1988 tarihli ve 88/12526 sayılı Bakanlar Kurulu Kararı ile yürürlüğe konulan "Havaalanlarında Alınacak Güvenlik Tertip ve Tedbirleri Yönetmeliği" ve 28/4/1989 tarihli ve 89/14080 sayılı Bakanlar Kurulu Kararı ile yürürlüğe konulan "Sınır Kapıları ve Gümrük Sahaları İçinde Uyulacak Esaslara Dair Yönetmelik" yürürlükten kaldırılmıştır.

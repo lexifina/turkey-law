@@ -1,0 +1,3 @@
+İhtiyaçların bildirilmesi
+Madde 35 – Mülki idare amiri, hizmetlerin yoğunlaştığı dönemlerde ilgili bakanlık ve kurumlara ek personel, ödenek ve geçici personel ihtiyaçlarını bildirir. Bu istekler öncelikle değerlendirilerek yerine getirilir.
+Sivil hava meydanı, liman ve sınır kapılarında hizmetlerin güvenliği, verimliliği ve etkinliği bağlamında mülki idare amirinin gerekli gördüğü düzenleme, personel, araç gereç konularına ilişkin istek, dilek ve önerileri ilgili bakanlık, genel müdürlük ve kuruluşlarca öncelikle değerlendirilir. Değerlendirme sonucu konusuna göre, valiliğe veya mülki idare amirine bildirilir.

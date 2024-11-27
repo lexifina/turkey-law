@@ -1,0 +1,5 @@
+Havaalanları güvenliği
+Madde 21 – Sivil havaalanlarında kanun dışı eylemlere karşı, yolcuların, mürettebatın, yer personelinin ve halkın güvenliği için alınacak tedbirler, hizmetlerin düzen içinde ve süratle yürütülmesine engel olmayacak şekilde düzenlenir.
+Alınacak güvenlik tertip ve ttedbirleri (ICAO) ve (ECAC) tarafından belirlenen standartlar çerçevesinde her havaalanının mahalli şartlarına ve eldeki imkanlara göre, maksadı en iyi sağlayacak şekilde düzenlenir ve geliştirilir.
+Yolcuların, bagajların, yolcu beraberindeki eşyaların kontrol ve denetiminden geçirilmesini sağlayacak, silah, patlayıcı madde ve uçak için tehlike arzeden maddelerin havaalanı sınırları içerisine ve uçağa girişini önleyecek, caydıracak, muhtemel saldırıyı uçağa ulaşmadan ortaya çıkaracak tedbirler alınır.
+Havayoluyla, paket, yük ve kargo nakleden posta idareleri, kargo şirketleri ve ilgili kuruluşlar; patlayıcı madde, silah ve uçuş güvenliğini tehlikeye düşürecek maddelerin, eşya ve paketlerin uçaklara yüklenmesine ve girmesine meydan vermeyecek tedbirleri alırlar.

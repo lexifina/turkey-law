@@ -1,0 +1,3 @@
+İstisnai hizmetler
+Madde 34 – Sivil hava meydanlarında, limanlarda ve sınır kapılarında görevli kuruluşların işletmecilik bakımından özellik arzeden ve teknik nitelikli hizmetleri bu Yönetmelik hükümlerine tabi olmaksızın kuruluşların özel mevzuatları uyarınca ilgili bakanlıkların, genel müdürlüklerin ve kuruluşların görevlilerince yerine getirilir. Gümrüklü saha içinde yer alsalar dahi birden fazla il ile bağlantılı olarak görev yapan bölgesel kuruluşların bu mahiyetteki hizmetleri açısından bu Yönetmelik hükümleri uygulanmaz.
+Hizmet veren kamu kuruluşlarının çalışma saatleri, mülki idare amirinin görüşü alınarak düzenlenir.
