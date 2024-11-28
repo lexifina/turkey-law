@@ -1,0 +1,17 @@
+{
+  "kind": "decision",
+  "issuer": "Sayıştay 5. Dairesi",
+  "number": "670",
+  "decision_date": "2024-11-28",
+  "source_id": 38957,
+  "chamber": "5",
+  "ilam_number": "330",
+  "item_number": 1,
+  "public_body_type": "Belediyeler ve Bağlı İdareler",
+  "account_year": 2018,
+  "subject": "İş Mevzuatı ile İlgili Kararlar",
+  "source": "https://www.sayistay.gov.tr/KararlarDaire/Detay/38957/",
+  "source_sha256": "b4ee88234cbc53c5a71c52ec7ff4dcfb4f346e520bbfd6a7a53735361624b62d",
+  "text_status": "as-enacted",
+  "text_file": "metin.md"
+}
