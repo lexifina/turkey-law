@@ -1,0 +1,26 @@
+{
+  "kind": "norm",
+  "issuer": "Enerji Piyasası Düzenleme Kurumu",
+  "market": "petroleum",
+  "document_type": "board-decision",
+  "number": "13041",
+  "decision_date": "2024-11-28",
+  "title": "T.C. Milli Savunma Bakanlığı Akaryakıt İkmal ve NATO POL Tesisleri İşletme Başkanlığı’nın; DEP/6912-1/37996 sayılı Depolama Lisansı kapsamında faaliyette bulunan TF-6 Antalya Tank Çiftliği Deposuna ilişkin",
+  "resmi_gazete_date": "2024-11-30",
+  "resmi_gazete_number": "32738",
+  "categories": [
+    "Depolama Tarifesi"
+  ],
+  "source": "https://www.epdk.gov.tr/Detay/DownloadDocument?id=48RjClqcIiY=",
+  "documents": [
+    "https://www.epdk.gov.tr/Detay/DownloadDocument?id=48RjClqcIiY=",
+    "https://www.epdk.gov.tr/Detay/DownloadDocument?id=MeZkKxnheyU="
+  ],
+  "source_sha256": "393cadea6e91b0d301aaa44bf012b04cac5b1a34c507451995f0c3e7c04df868",
+  "official_list": "https://www.epdk.gov.tr/Detay/Icerik/3-0-100/kurul-kararlari",
+  "official_list_leaf": 5140,
+  "text_status": "as-enacted",
+  "text_file": "metin.md",
+  "in_force": "2024-11-28",
+  "law_text_complete": true
+}
