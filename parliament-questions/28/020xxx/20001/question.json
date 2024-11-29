@@ -1,0 +1,21 @@
+{
+  "record_type": "parliament-written-question",
+  "term": 28,
+  "legislative_year": 3,
+  "esas_no": "7/20001",
+  "submitted": "2024-11-29",
+  "submitted_as": "Başkanlığa geliş tarihi",
+  "mp": "Gülderen VARLİ",
+  "province": "Van",
+  "summary": "2016 yılında Van ilinin Erciş ilçesinde yapılan bir gözaltı işlemine ilişkin",
+  "status": "Süresi Geçtikten Sonra Cevaplandı",
+  "status_as_of": "2026-11-16",
+  "official_record": "https://www.tbmm.gov.tr/Denetim/Yazili-Soru-Onergesi-Detay/b637f975-8980-4585-80b6-019386c90773",
+  "source": "https://tbmm.gov.tr/Denetim/YaziliSoruOnergesiTable",
+  "source_form": "https://tbmm.gov.tr/Denetim/Yazili-Soru-Onergeleri",
+  "source_sha256": "01dc093f4c404763ec33a84dbcc4735ca9bcd23efaa2676611290017e5044cae",
+  "in_force": "2024-11-29",
+  "in_force_basis": "Date the question reached the Speaker (Başkanlığa geliş tarihi) in the official TBMM written-question record; parliamentary oversight record, not law",
+  "history_type": "metadata",
+  "text_status": "metadata-only: question text, addressee and answers are in the linked official record (PDFs on cdn.tbmm.gov.tr); not transcribed here"
+}
