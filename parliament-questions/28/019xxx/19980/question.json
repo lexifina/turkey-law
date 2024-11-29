@@ -1,0 +1,21 @@
+{
+  "record_type": "parliament-written-question",
+  "term": 28,
+  "legislative_year": 3,
+  "esas_no": "7/19980",
+  "submitted": "2024-11-29",
+  "submitted_as": "Başkanlığa geliş tarihi",
+  "mp": "Mustafa BİLİCİ",
+  "province": "İzmir",
+  "summary": "Kuraklıkla mücadeleye ilişkin",
+  "status": "Süresi Geçtikten Sonra Cevaplandı",
+  "status_as_of": "2026-11-16",
+  "official_record": "https://www.tbmm.gov.tr/Denetim/Yazili-Soru-Onergesi-Detay/c94f5930-df14-4cb6-8572-01938672c0db",
+  "source": "https://tbmm.gov.tr/Denetim/YaziliSoruOnergesiTable",
+  "source_form": "https://tbmm.gov.tr/Denetim/Yazili-Soru-Onergeleri",
+  "source_sha256": "1e721e9cc68559235fb6f9fff1e0f154ddec5179c8b94fada5e0fe5a672357e9",
+  "in_force": "2024-11-29",
+  "in_force_basis": "Date the question reached the Speaker (Başkanlığa geliş tarihi) in the official TBMM written-question record; parliamentary oversight record, not law",
+  "history_type": "metadata",
+  "text_status": "metadata-only: question text, addressee and answers are in the linked official record (PDFs on cdn.tbmm.gov.tr); not transcribed here"
+}
