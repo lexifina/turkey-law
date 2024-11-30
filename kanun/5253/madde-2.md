@@ -9,5 +9,5 @@ f) Plâtform: Derneklerin kendi aralarında veya vakıf, sendika ve benzeri sivi
 g) Üst kuruluş: Derneklerin oluşturduğu tüzel kişiliği bulunan federasyonları ve federasyonların oluşturduğu konfederasyonları,
 h) Şube: Dernek faaliyetlerinin yürütülebilmesi için bir derneğe bağlı olarak açılan, tüzel kişiliği olmayan ve bünyesinde organları bulunan alt birimi,
 i) Temsilcilik: Dernek faaliyetlerinin yürütülebilmesi için bir derneğe bağlı olarak açılan, tüzel kişiliği ve bünyesinde organları bulunmayan alt birimi,
+j) (Ek:21/11/2024-7533/29 md.) Lokal: Derneklerin tüzüklerindeki amaçları gerçekleştirmek üzere mülki idare amiri izni ile açılan, üyelerinin bir araya geldiği sosyal mekânı,
 İfade eder.
-9076
