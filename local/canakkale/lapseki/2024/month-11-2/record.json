@@ -1,0 +1,28 @@
+{
+  "number": "month-11-2",
+  "year": 2024,
+  "month": 11,
+  "title": "KASIM 2024 2. MECLİS KARARI",
+  "decision_date": null,
+  "index_date": "2024-11-30",
+  "date_precision": "month",
+  "period": "Kasım 2024",
+  "source": "https://www.lapseki.bel.tr/karar/kasim-2024-2-meclis-karari",
+  "official_page": "https://www.lapseki.bel.tr/karar/kasim-2024-2-meclis-karari",
+  "official_document": "https://www.lapseki.bel.tr/tema/genel/uploads/meclis_kararlari/dosya/KASIM-AYI-İKİNCİ-BİRLEŞİMİ-KARARLARI.pdf",
+  "source_sha256": "4637c906a999a74ded6cb34c6e62e3583e458b74f8d2794d94464b2d22e7ca33",
+  "issuer": "Lapseki Belediye Meclisi",
+  "history_type": "metadata",
+  "text_status": "metadata-only: listing fields as published; the decisions are in the linked official document(s) or page, not transcribed",
+  "in_force": "2024-11-30",
+  "in_force_basis": "The official listing gives only the month of this official file (Kasım 2024); date set to the last day of that month (turkey-law date convention for month-only sources); exact adoption dates are in the linked official document; legal commencement not asserted",
+  "missing": [
+    "decision numbers, dates and subjects",
+    "complete official decision text",
+    "official annexes"
+  ],
+  "law_text_complete": false,
+  "privacy_withheld": false,
+  "listing_label": "KASIM 2024 2. MECLİS KARARI",
+  "record_scope": "one official file of council decisions (meeting or month)"
+}
