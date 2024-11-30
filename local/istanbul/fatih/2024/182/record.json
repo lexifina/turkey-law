@@ -1,0 +1,29 @@
+{
+  "number": "182",
+  "number_as_published": "2024/182",
+  "year": 2024,
+  "month": 11,
+  "title": "Kütüphane Kuralları",
+  "decision_date": null,
+  "index_date": "2024-11-30",
+  "date_precision": "month",
+  "period": "Kasım 2024",
+  "source": "https://www.fatih.bel.tr/tr/main/meclis_kararlar?yil=2024&ay=11",
+  "official_page": "https://www.fatih.bel.tr/tr/main/meclis_kararlar/2024182/906",
+  "official_document": null,
+  "source_sha256": "ef2b4554256ff13a84301b26a0351abe9461e7a117ae2f3d07e593dda422fdb6",
+  "issuer": "Fatih Belediye Meclisi",
+  "history_type": "metadata",
+  "text_status": "metadata-only: number and subject as published in the official listing; complete decision text is in the linked official page/document, not transcribed",
+  "in_force": "2024-11-30",
+  "in_force_basis": "The official listing gives only the month of this decision (Kasım 2024); date set to the last day of that month (turkey-law date convention for month-only sources); exact adoption dates are in the linked official document; legal commencement not asserted",
+  "missing": [
+    "exact decision date",
+    "complete official decision text",
+    "official annexes"
+  ],
+  "law_text_complete": false,
+  "privacy_withheld": false,
+  "record_scope": "one council decision (number and subject as listed)",
+  "listing_month": "2024-11"
+}
