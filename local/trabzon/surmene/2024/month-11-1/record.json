@@ -1,0 +1,29 @@
+{
+  "number": "month-11-1",
+  "year": 2024,
+  "month": 11,
+  "title": "Kasım 2024 10.Dönem Meclis Toplantı Kararları 3 belge: Karar Belgesi 1",
+  "decision_date": null,
+  "index_date": "2024-11-30",
+  "date_precision": "month",
+  "period": "Kasım 2024",
+  "source": "https://surmene.bel.tr/belediye-meclis-kararlari",
+  "official_page": "https://surmene.bel.tr/belediye-meclis-kararlari",
+  "official_document": "https://surmene.bel.tr/assets/uploads/2024/11/kasim-10.-donem-1.pdf",
+  "source_sha256": "ecd30043b969188f80eeb8d4725770989de8780a40df82ddbb11b210111e6ba2",
+  "issuer": "Sürmene Belediye Meclisi",
+  "history_type": "metadata",
+  "text_status": "metadata-only: listing fields as published; the decisions are in the linked official document(s) or page, not transcribed",
+  "in_force": "2024-11-30",
+  "in_force_basis": "The official listing gives only the month of this official file (Kasım 2024); date set to the last day of that month (turkey-law date convention for month-only sources); exact adoption dates are in the linked official document; legal commencement not asserted",
+  "missing": [
+    "decision numbers, dates and subjects",
+    "complete official decision text",
+    "official annexes"
+  ],
+  "law_text_complete": false,
+  "privacy_withheld": false,
+  "section": "Kasım 2024 10.Dönem Meclis Toplantı Kararları 3 belge",
+  "listing_label": "Karar Belgesi 1",
+  "record_scope": "one council decision document (listed without number/date)"
+}
