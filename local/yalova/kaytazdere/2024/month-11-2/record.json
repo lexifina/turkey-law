@@ -1,0 +1,28 @@
+{
+  "number": "month-11-2",
+  "year": 2024,
+  "month": 11,
+  "title": "MECLİS KARAR ÖZETLERİ-KASIM 2024 II",
+  "decision_date": null,
+  "index_date": "2024-11-30",
+  "date_precision": "month",
+  "period": "Kasım 2024",
+  "source": "https://www.kaytazdere.bel.tr/karar/meclis-kararlari-2024-kasim.html",
+  "official_page": "https://www.kaytazdere.bel.tr/karar/meclis-kararlari-2024-kasim.html",
+  "official_document": "https://www.kaytazdere.bel.tr/uploads/files/MECL%C4%B0S%20KARAR%20%C3%96ZETLER%C4%B0-KASIM%202024%20II.docx",
+  "source_sha256": "f5e19842050c96a7a05491f0e06b9daa8fd88a75c90090eacf2693bc52d7c25a",
+  "issuer": "Kaytazdere Belediye Meclisi",
+  "history_type": "metadata",
+  "text_status": "metadata-only: listing fields as published; the decisions are in the linked official document(s) or page, not transcribed",
+  "in_force": "2024-11-30",
+  "in_force_basis": "The official listing gives only the month of this official file (Kasım 2024); date set to the last day of that month (turkey-law date convention for month-only sources); exact adoption dates are in the linked official document; legal commencement not asserted",
+  "missing": [
+    "decision numbers, dates and subjects",
+    "complete official decision text",
+    "official annexes"
+  ],
+  "law_text_complete": false,
+  "privacy_withheld": false,
+  "listing_label": "Meclis Kararları 2024/Kasım",
+  "record_scope": "one official file of council decisions (meeting or month)"
+}
