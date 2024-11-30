@@ -1,0 +1,29 @@
+{
+  "number": "month-11",
+  "year": 2024,
+  "month": 11,
+  "title": "2024 YILI KASIM AYI OLAĞAN MECLİS TOPLANTISI KARARLARI",
+  "decision_date": null,
+  "index_date": "2024-11-30",
+  "date_precision": "month",
+  "period": "Kasım 2024",
+  "source": "https://www.suduragi.bel.tr/duyuru/2024-yili-kasim-ayi-olagan-meclis-toplantisi-kararlari/135/",
+  "official_page": "https://www.suduragi.bel.tr/duyuru/2024-yili-kasim-ayi-olagan-meclis-toplantisi-kararlari/135/",
+  "official_document": "https://www.suduragi.bel.tr/duyuru/2024-yili-kasim-ayi-olagan-meclis-toplantisi-kararlari/135/",
+  "source_sha256": "916527d329d81fc50bd1347b47b7f5662e19a20d604d733dbe324059b6ec44f4",
+  "issuer": "Sudurağı Belediye Meclisi",
+  "history_type": "metadata",
+  "text_status": "metadata-only: listing fields as published; the decisions are in the linked official document(s) or page, not transcribed",
+  "in_force": "2024-11-30",
+  "in_force_basis": "The official listing gives only the month of this official file (Kasım 2024); date set to the last day of that month (turkey-law date convention for month-only sources); exact adoption dates are in the linked official document; legal commencement not asserted",
+  "missing": [
+    "decision numbers, dates and subjects",
+    "complete official decision text",
+    "official annexes"
+  ],
+  "law_text_complete": false,
+  "privacy_withheld": false,
+  "listing_label": "2024 YILI KASIM AYI OLAĞAN MECLİS TOPLANTISI KARARLARI",
+  "record_scope": "one official file of council decisions (meeting or month)",
+  "document_note": "the decisions are published as text on the official page itself (no separate file); not transcribed here"
+}
