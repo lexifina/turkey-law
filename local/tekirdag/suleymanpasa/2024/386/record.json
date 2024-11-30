@@ -1,0 +1,29 @@
+{
+  "number": "386",
+  "number_as_published": "386",
+  "year": 2024,
+  "month": 11,
+  "title": "5393 sayılı Belediye Kanununun 48. ve 49. maddeleri gereğince, Teşkilat yapımızda Makine İkmal, Bakım ve Onarım Müdürlüğünün oluşturulmasına, Süleymanpaşa Belediyesi 2020-2024 Stratejik Planında Kurumsal Ekonomi stratejik alanına, Belediyedeki tüm kaynakları her türlü riske karşı koruyarak, etkin, verimli ve tasarruflu biçimde kullanmak stratejik amacına, Belediye mülklerinin ve sağlanan hizmetlerin takibini, onarım ve bakımlarını yapmak stratejik hedefine, Belediyemiz araçlarının ve iş makinalarının rutin bakımlarının yapılması ve Belediyemize araç ve iş makinesi temin edilmesi ve bunların rutin bakım ve onarımlarının yapılması faaliyetlerinin tanımlanmasına, genel gider yatırım kodunun eklenmesine; Süleymanpaşa Belediyesi 2025-2029 Stratejik Planında Mekansal Gelişim ve İmar Yönetimi stratejik alanına,Yaşam kalitesi yüksek, planlı ve düzenli yerleşim alanlarına sahip, yenilikçi kentsel tasarımlarla donatılmış sürdürülebilir bir kent inşa etmek stratejik amacına, üst yapıyı geliştirmek ve belediye hizmet kamu binalarının fiziki yapısını iyileştirilmelerini yapmak stratejik hedefi ve Kurumsal Yapının Geliştirilmesi stratejik alanına, Kurum kapasitesini arttırmak, kaynakları ve süreçleri iyileştirmek, paydaş memnuniyetini sağlamak ve insan kaynaklarını geliştirmek stratejik amacına, Belediyenin kaynaklarını daha iyi ve verimli kullanılabilmesi için fiziki ve teknolojik altyapısını sürekli iyileştirmek ve güncellemek stratejik hedefi altında yer alan faaliyet, göstergelerin tanımlanması, genel gider yatırım kodunun eklenmesine Belediye Meclisince oybirliği ile karar verildi.",
+  "decision_date": null,
+  "index_date": "2024-11-30",
+  "date_precision": "month",
+  "period": "Kasım 2024",
+  "source": "https://suleymanpasa.bel.tr/meclis-kararlari",
+  "official_page": "https://suleymanpasa.bel.tr/meclis-kararlari",
+  "official_document": null,
+  "source_sha256": "a3d58e794d078cdf2cdbec893458f633a8786bca6293af397d236c0d6fbd00f0",
+  "issuer": "Süleymanpaşa Belediye Meclisi",
+  "history_type": "metadata",
+  "text_status": "metadata-only: number and subject as published in the official listing; complete decision text is in the linked official page/document, not transcribed",
+  "in_force": "2024-11-30",
+  "in_force_basis": "The official listing gives only the month of this decision (Kasım 2024); date set to the last day of that month (turkey-law date convention for month-only sources); exact adoption dates are in the linked official document; legal commencement not asserted",
+  "missing": [
+    "exact decision date",
+    "complete official decision text",
+    "official annexes"
+  ],
+  "law_text_complete": false,
+  "privacy_withheld": false,
+  "record_scope": "one council decision (number and published decision summary)",
+  "sitting": "Birleşim No: 1"
+}
