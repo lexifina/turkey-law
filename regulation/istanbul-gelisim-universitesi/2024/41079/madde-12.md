@@ -1,0 +1,3 @@
+Danışma Kurulu
+MADDE 12- (1) Danışma Kurulu; Yönetim Kurulunun önerisi üzerine Merkezin faaliyet alanları ile ilgili çalışmaları bulunan öğretim elemanları ile ulusal ve uluslararası üniversiteler, enstitüler, araştırma merkezlerinde görevli diğer öğretim elemanlarından, psikoloji ve psikiyatri alanında araştırma ve yayımlar yapan tecrübeli kişiler arasından Rektör tarafından üç yıl için görevlendirilen en fazla on bir üyeden oluşur. Görev süresi sona eren üye aynı usulle yeniden görevlendirilebilir.
+(2) Danışma Kurulu yılda en az bir kez Müdürün çağrısı üzerine üye tam sayısının salt çoğunluğu ile toplanır.
