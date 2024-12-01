@@ -1,0 +1,21 @@
+Faaliyet alanları
+MADDE 6 – (1) Merkezin faaliyet alanları şunlardır:
+a) Merkezin amaçları doğrultusunda kamu, özel sektör ve uluslararası kuruluş ve kişilere ihtiyaç duydukları alanlarda eğitim ve danışmanlık hizmeti vermek,
+b) Bilimsel bilgiyi yetişkinlerle ve kurumlarla paylaşarak ve kuramsal bilgiyi uygulama ile bütünleştirerek toplum yararına sunmak ve bu süreçleri geliştirerek bireysel ve toplumsal sorunların çözümüne katkıda bulunmak,
+c) Kamu, özel sektör ve uluslararası kuruluş ve kişilere ihtiyaç duydukları alanlarda, ulusal ve uluslararası düzeyde, eğitim programları, kurslar, sertifika programları, seminerler, sempozyumlar, konferanslar, eğitim fuarları, zirve etkinlikleri ve her türlü bilimsel toplantıları planlamak ve düzenlemek, bu faaliyetlerin koordinasyonunu sağlamak ve bu alandaki üniversite olanaklarının tanıtımını yapmak; ayrıca bu tip etkinliklerin altyapı çalışmalarıyla ilgili gerekli malzeme, araç-gereç temini ve koordinasyonunu sağlamak; ulusal ve uluslararası işbirliği oluşturmak,
+ç) Sivil havacılığa yönelik her türlü eğitim programları ve/veya seminerleri planlamak ve düzenlemek, bu kapsamda sivil havacılık güvenliği, sivil havacılık işletmeciliği ve uçuşla ilgili eğitim alanlarında kurslar planlamak, düzenlemek ve her türlü bilimsel toplantıyı yapmak ve uluslararası işbirliği gerçekleştirmek,
+d) Öğrencilerin yanı sıra, sanayi ve hizmet kuruluşlarının çalışanlarına yönelik olarak, uzmanlık alanını kapsayan eğitim programları sunmak, böylelikle bireylerin iletişimde, yönetimde ve organizasyonda, sosyal yetilerde, mesleki becerilerde yeterli donamına ve mesleğe sahip olmalarını sağlamak,
+e) Üniversite bölümlerinin bağlantılı olduğu diğer programlar konusunda öğrencilerin yetişmesini sağlamak,
+f) Üniversite bölümlerine destek olacak alanlarda yapılacak sertifika programları, kurslar, seminerler ve her türlü eğitim, kültür, sanat etkinlikleri ile öğrencileri çoklu becerilerle donatmak,
+g) Tam donanımlı insan gücünü yetiştirmek için gerekli eğitim çalışmaları yapmak,
+ğ) Merkezin amaçları doğrultusundaki tüm etkinliklerini; yaşam boyu öğrenme, meslek içi eğitim, kurumlara eğitim, sertifika programları, önceden programlanmış seminerler, çeşitli kesimlere konferanslar gibi yollarla gerçekleştirmek,
+h) Kamu kuruluşlarıyla temas ederek, münferiden ya da onlar adına yetkilendirilmiş eğitim ve/veya sınav merkezi olmak,
+ı) İlgili mevzuat hükümlerine göre seçilen alanlarda personel belgelendirme kuruluşu ve/veya eğitim merkezi olmak,
+i) İlgili mevzuat hükümlerine göre iş sağlığı güvenliği konusunda yetkilendirilmiş eğitim merkezi olarak eğitim programları sunmak,
+j) Deniz, hava, kara, demiryolu ulaşımında her türlü eğitim programları ve/veya seminerleri, kurslar, sertifika programları, konferanslar ve zirve etkinlikleri planlamak, düzenlemek ve bu maksatla birlikler veya firmalar ile ulusal ve/veya uluslararası işbirlikleri gerçekleştirmek,
+k) Kamu kurum ve kuruluşları bünyesinde açılabilecek her türlü eğitimsel, kültürel ve sanatsal etkinlikleri gerçekleştirmek ve bu anlamda işbirliğinde bulunmak,
+l) İnternet yoluyla uzaktan eğitim programları sunmak,
+m) Gerekli görülen yerlerde Merkeze bağlı şube açmak ve/veya şube kapatmak,
+n) Merkezin faaliyetlerini yurt dışında yaygınlaştırmak maksadıyla çalışmalar yapmak, bu maksat ile şubeler açmak; açılmış kuruluşlarla işbirliği yapmak, ortak olmak veya üye olmak, yurt dışında açılacak üniversitelerin danışmanlığını yapmak, kurucusu veya kurucu ortaklarından olmak,
+o) Merkezin belirlediği standartlara uygun faaliyet göstermek isteyen Üniversite dışı çalışma birimlerinin denetimini yapmak ve akreditasyonunu vermek,
+ö) Sürekli eğitim kapsamında Rektörlükçe önerilen ve/veya Yönetim Kurulunca kararlaştırılan diğer faaliyetleri gerçekleştirmek.
