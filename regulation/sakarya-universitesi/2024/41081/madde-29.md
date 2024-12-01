@@ -1,0 +1,3 @@
+Tezli lisansüstü programlarda tez çalışmasından başarısız olan öğrencilere tezsiz yüksek lisans diploması verilmesi
+MADDE 29- (1) Tez çalışması jüri tarafından reddedilen tezli yüksek lisans öğrencilerine, öğrencinin talep etmesi durumunda, ilgili tezsiz yüksek lisans programının ders kredi yükü, proje yazımı, öğrenim ücreti ve diğer gereklerini yerine getirmiş olmak kaydıyla ilgili programın tezsiz yüksek lisans diploması verilebilir.
+(2) Tezsiz yüksek lisans ders kredi yükü, proje yazımı ve benzeri gereklerini yerine getirebilmesi için öğrenciye Senato tarafından belirlenen esaslar uygulanır. Bu durumda yapılan başvurular EABD/EASD başkanlığının önerisi ve EYK kararı ile sonuçlandırılır.

@@ -1,0 +1,21 @@
+Tanımlar
+MADDE 4- (1) Bu Yönetmelikte geçen;
+a) AKTS: Avrupa Kredi Transfer Sistemini,
+b) ALES: Akademik Personel ve Lisansüstü Eğitimi Giriş Sınavını,
+c) Danışman: Enstitüde kayıtlı öğrenciye ders ve tez dönemlerinde rehberlik etmek üzere EYK tarafından atanan öğretim üyesini,
+ç) EABD/EASD: Enstitü anabilim dalını/enstitü ana sanat dalını,
+d) EABD/EASD kurulu: Enstitü anabilim dalı başkanının başkanlığında o bölümdeki tüm öğretim üyelerinden oluşan kurulu,
+e) Enstitü: Sakarya Üniversitesine bağlı olarak lisansüstü eğitim-öğretim yapan enstitüleri,
+f) Enstitü Kurulu (EK): Enstitü müdürünün başkanlığında, enstitü müdür yardımcıları ve enstitüde öğretim programları bulunan ve/veya ortak öğretim programı yürüten anabilim/ana sanat dalı başkanlarından oluşan kurulu,
+g) Enstitü Yönetim Kurulu (EYK): Enstitü müdürünün başkanlığında, enstitü müdür yardımcıları ve müdürün göstereceği altı aday arasından EK tarafından seçilen üç öğretim üyesinden oluşan kurulu,
+ğ) GANO: Genel ağırlıklı not ortalamasını,
+h) İntihal: Başkalarının fikirlerini, metotlarını, verilerini veya eserlerini bilimsel kurallara uygun biçimde atıf yapmadan kısmen veya tamamen kendi eseri gibi göstermeyi,
+ı) Program: Yüksek lisans, doktora/sanatta yeterlik unvanlarına yönelik belirli sayıda ve belirli içerikte zorunlu ve seçmeli dersler ile doktora/sanatta yeterlik tez ve uygulamalarını,
+i) Proje dersi: Öğretim üyesinin, tezsiz lisansüstü programda danışmanlık yapmakta olduğu öğrencisine verdiği dersi,
+j) Rektör: Sakarya Üniversitesi Rektörünü,
+k) Senato: Sakarya Üniversitesi Senatosunu,
+l) Tez: Tezli yüksek lisans, doktora ve sanatta yeterlik programı öğrencilerince hazırlanan tez çalışmasını,
+m) Uzmanlık alanı dersi: Öğretim üyesinin, tezli yüksek lisans ve doktora programlarında danışmanlık yapmakta olduğu öğrencilerine verdiği dersi,
+n) Üniversite: Sakarya Üniversitesini,
+o) YÖK: Yükseköğretim Kurulunu,
+ifade eder.

@@ -1,0 +1,5 @@
+Başarı denetlemesi ve süre
+MADDE 49- (1) Sanatta yeterlik programı öğrencisinin; tez konusunu belirleyebilmesi için GANO’sunun en az 3,00 olması gerekir.
+(2) Doktora programı, bilimsel hazırlıkta geçen süre hariç kayıt olduğu programa ilişkin derslerin verildiği dönemden başlamak üzere, her dönem için kayıt yaptırıp yaptırmadığına bakılmaksızın tezli yüksek lisans derecesi ile kabul edilenler için sekiz yarıyıl olup azamî tamamlama süresi on iki; lisans derecesi ile kabul edilenler için on yarıyıl olup azami tamamlama süresi on dört yarıyıldır.
+(3) Doktora programı için gerekli kredili dersleri başarıyla tamamlamanın azami süresi tezli yüksek lisans derecesi ile kabul edilenler için dört yarıyıl, lisans derecesi ile kabul edilenler için altı yarıyıldır. Bu süre içinde derslerini başarıyla tamamlayamayan veya GANO’su en az 3,00 olmayan öğrencinin enstitü ile ilişiği kesilir.
+(4) Derslerini başarıyla bitiren, yeterlik sınavında başarılı bulunan ve tez önerisi kabul edilen, ancak tez çalışmasını ikinci fıkrada belirtilen on iki veya on dört yarıyıl sonuna kadar tamamlayamayan öğrencinin enstitü ile ilişiği kesilir.

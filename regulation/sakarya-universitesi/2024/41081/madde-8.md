@@ -1,0 +1,18 @@
+Lisansüstü programlara başvuru ve kabul
+MADDE 8- (1) Lisansüstü programa başvuru koşulları, kontenjanlar, ön kayıt ve kabule ilişkin süreçler, ilgili mevzuat hükümleri kapsamında Senatonun belirlediği esaslara göre düzenlenir.
+(2) EABD/EASD’ler, öğrenci kabul edecekleri lisansüstü programlar için, öğrenci talep eden öğretim üyelerini, mezuniyet, yabancı dil, ALES ve benzeri başvuru koşullarını bağlı bulundukları enstitüye sunar. Bu öneriler, ilgili EYK tarafından değerlendirildikten sonra Senato tarafından karara bağlanır ve ilgili enstitünün ve/veya EABD/EASD’nin internet sayfasında ilan edilir.
+(3) Başvurular, belirtilen süre içinde ilgili enstitü müdürlüklerine yapılır.
+(4) Başvuran adayların ilgili EABD/EASD tarafından belirlenen ve ilan edilen tüm koşulları sağlaması gerekir.
+(5) Gerçeğe aykırı veya yanıltıcı beyan ve belgelerle lisansüstü programlara başvuru yapan ve programa kabul edilen adayların kayıtları yapılmaz ve yapılan kayıtları iptal edilir.
+(6) Tezsiz yüksek lisans programlarında ALES puan şartı aranmaz.
+(7) Tezli yüksek lisans programına başvuruda bulunacak adaylarda aranacak şartlar şunlardır:
+a) Bir lisans diplomasına/YÖK tarafından denkliği kabul edilmiş bir lisans diplomasına veya geçici mezuniyet belgesine sahip olmaları gerekir.
+b) ALES’ten başvurduğu programın puan türünde en az 55 puan veya YÖK tarafından ALES’e eşdeğer sayılan bir sınavdan eşdeğer bir puana sahip olmaları gerekir.
+(8) Doktora programlarına başvuruda bulunacak adaylarda aranacak şartlar şunlardır:
+a) Tezli yüksek lisans derecesi ile doktora programına başvuranların bir mezuniyet belgesine ve başvurduğu programın puan türünde en az 55 ALES puanına veya eşdeğeri sayılan bir sınavdan eşdeğer bir puana sahip olmaları gerekir.
+b) Lisans derecesiyle doktora programına başvuranların lisans mezuniyet not ortalamalarının 4,00 üzerinden en az 3,00 veya muadili bir puan olması ve ALES’ten başvurduğu programın puan türünde en az 80 puandan az olmamak koşuluyla Senato tarafından belirlenen puan ve mezuniyet belgesine sahip olmaları gerekir.
+c) Doktora programına öğrenci kabulünde anadilleri dışında YÖK tarafından kabul edilen merkezî yabancı dil sınavları ile eşdeğerliği kabul edilen uluslararası yabancı dil sınavlarından en az 55 puan veya ÖSYM tarafından eşdeğerliği kabul edilen uluslararası yabancı dil sınavlarından bu puan muadili bir puan alınması zorunlu olup, bu asgari puanlar EABD/EASD kurulunun önerisi, EK’nın teklifi ve Senato kararı ile yükseltilebilir.
+(9) Sanatta yeterlik programına başvurabilmek için adayların lisans veya yüksek lisans diplomasına sahip olmaları ve güzel sanatlar fakülteleri ile konservatuvar mezunları ile diğer fakültelerin eşdeğer programlarından mezun olanların haricinde yüksek lisans derecesiyle başvuran adayların ALES sözel puan türünde en az 55 puandan, lisans derecesiyle başvuran adayların ise ALES sözel puan türünde en az 80 puandan az olmamak koşuluyla Senato tarafından belirlenen ALES puanına sahip olmaları gerekir. Lisans derecesiyle sanatta yeterlik programına başvuranların lisans mezuniyet not ortalamalarının 4,00 üzerinden en az 3,00 veya muadili bir puan olması gerekir.
+(10) ALES ve eşdeğeri uluslararası sınav puanlarının geçerlilik süresi, sınavın açıklandığı tarihten itibaren ilgili sınavları yapan kurumun belirlediği geçerlik süresidir. Lisansüstü programa başvurulan tarihte geçerlilik süresinin dolmamış olması gerekir. Başvuru tarihinde geçerli olan belge programa kayıt tarihinde de geçerli sayılır.
+(11) Gerekli durumlarda adaylar mülakata veya sınava çağrılabilir.
+(12) Öğrencilerin kabulü, ilgili EYK tarafından karara bağlanır ve başvuru sonuçları ilgili enstitü müdürlüğü tarafından ilan edilir.

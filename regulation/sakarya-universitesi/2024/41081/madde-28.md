@@ -1,0 +1,12 @@
+Tez savunma sınavı
+MADDE 28- (1) Tez savunma sınavıyla ilgili esaslar şunlardır:
+a) Enstitü söz konusu teze ilişkin Üniversitenin belirlemiş olduğu intihal yazılım programından alınan benzerlik raporunu danışman ve jüri üyelerine gönderir.
+b) Danışman ve jüri üyeleri rapordaki verilerde gerçek bir intihalin tespiti halinde gerekçesi ile birlikte karar verilmek üzere tezi EYK’ya gönderir.
+c) Jüri üyeleri, söz konusu tezin kendilerine teslim edildiği tarihten itibaren yedi günden erken olmamak üzere en bir ay içinde toplanarak öğrenciyi tez savunma sınavına alır.
+ç) Zorunlu nedenlerle jüriye katılamayacak üyeler, katılamama gerekçelerini tezin kendilerine teslim edildiği tarihten itibaren en geç yedi gün içinde öğrencinin danışmanına ve enstitü müdürlüğüne yazılı olarak bildirir. Gerekçesiz bir şekilde tez savunma sınavına katılmayan veya mazeretleri EYK tarafından uygun bulunmayan jüri üyesi öğretim üyelerine EABD/EASD başkanlığının önerisi ve EYK kararı ile bir yıl süre ile yeni danışmanlık ve lisansüstü ders verilmez.
+d) Tez savunma sınavı tarihi danışman tarafından belirlenerek, sınav tarihinden en az yedi gün önce enstitüye bildirilir. Sınav öğretim elemanları, lisansüstü öğrenciler ve alanın uzmanlarından oluşan dinleyicilerin katılımına açık olarak gerçekleştirilir.
+e) Tez savunma sınavı, tez çalışmasının sunulması ve bunu izleyen soru-cevap bölümlerinden oluşur. Sınav esnasında öğrenciye yalnız jüri üyeleri soru sorabilir.
+f) Tez savunma sınavının tamamlanmasından sonra jüri üyeleri, tez çalışmasını salt çoğunlukla başarılı/başarısız veya düzeltme kararı ile değerlendirir. Bu karar danışman öğretim üyesi tarafından tez savunma sınavını izleyen üç gün içinde ilgili enstitüye tutanakla bildirilir.
+g) Geçerli bir mazereti olmaksızın tez savunma sınavına katılmayan veya tezi başarısız bulunarak reddedilen öğrencinin enstitü ile ilişiği kesilir.
+ğ) Düzeltme kararının verilmesi halinde, tezin düzeltilmesi için öğrenciye en fazla üç ay süre tanınır. Danışman düzeltme sınavı tarihinden en az yedi gün önce tezin savunulabilir veya savunulamaz olduğuna ilişkin görüş yazısı ile birlikte tezi ve benzerlik raporunu enstitüye teslim eder. Enstitü benzerlik raporunu jüri üyelerine iletir. Tezin savunulabilir olduğuna dair görüş yazısı alan öğrenci aynı jüri önünde tezini yeniden savunur.
+h) Düzeltme kararı sonunda üç ay içerisinde tezi enstitüye teslim etmeyen, geçerli bir mazereti olmaksızın tez savunma sınavına katılmayan ya da savunma sınavı sonunda başarısız sayılan öğrencinin enstitü ile ilişiği kesilir.

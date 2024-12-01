@@ -1,0 +1,5 @@
+Program ve yeni ders açılması
+MADDE 7- (1) Enstitü ve bir EABD/EASD bünyesinde lisansüstü programı YÖK’ün belirlemiş olduğu lisansüstü program açma ölçütlerine uygun olmak koşuluyla, 3/3/1983 tarihli ve 17976 sayılı Resmî Gazete’de yayımlanan Lisans Üstü Eğitim Öğretim Enstitülerinin Teşkilât ve İşleyiş Yönetmeliği hükümleri çerçevesinde ilgili EABD/EASD başkanlığının teklifi, EABD/EASD kurulunun kararı, EK’nin uygun görüşü, Senatonun kabulü ve YÖK’ün onayı ile açılır.
+(2) EABD/EASD’de açılması düşünülen yeni bir ders için, dersi verecek öğretim üyesi; dersin içeriği, gerekçesi ve kaynaklarını içeren müracaatını EABD/EASD başkanlığına yapar. EABD/EASD başkanlığının teklifi ve EABD/EASD kurulunun kararı sonrasında teklif edilen dersler EK’nın uygun görüşü ve Senato onayı ile açılır.
+(3) Uzmanlık alanı dersi açılması ve yürütülmesi ile ilgili işlemler Senato tarafından belirlenen esaslara göre yürütülür.
+(4) Enstitü bünyesinde yeni lisansüstü program açılması/kapatılması, müfredat oluşturulması ve güncelleme işlemlerine ilişkin hususlar Senato tarafından belirlenir.

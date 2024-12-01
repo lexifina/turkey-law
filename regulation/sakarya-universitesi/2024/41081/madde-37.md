@@ -1,0 +1,2 @@
+Tezli yüksek lisans programlarına geçiş
+MADDE 37- (1) Tezsiz yüksek lisans programına devam edenler, Üniversitenin tezli yüksek lisans programı için belirlenmiş olan asgari şartları yerine getirmek kaydıyla, tezli yüksek lisans programına geçiş yapabilirler. Bu durumda tezsiz yüksek lisans programında alınan dersler EYK kararıyla tezli yüksek lisans programındaki derslerin yerine sayılabilir. Tezli yüksek lisans programına geçiş koşulları Senato tarafından belirlenir.

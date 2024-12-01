@@ -1,0 +1,8 @@
+Bilimsel hazırlık programına öğrenci kabulü
+MADDE 10- (1) Lisans/yüksek lisans derecesi kabul oldukları tezli yüksek lisans ve doktora programlarından farklı alanlarda olan adaylara eksikliklerini gidermek amacıyla ilgili EABD/EASD başkanlığı tarafından bilimsel hazırlık uygulanabilir.
+(2) Bilimsel hazırlık programı farklı alanlardan veya aynı alandan olsa bile farklı yükseköğretim kurumlarından gelen öğrencilere uygulanabilir.
+(3) Bilimsel hazırlık programında alınması gereken zorunlu dersler, yüksek lisans programları için lisans programlarından, doktora programları için lisans veya yüksek lisans programlarından alınabilir.
+(4) Bilimsel hazırlık programına alınan öğrenci, bilimsel hazırlık derslerinin yanı sıra ilgili EABD başkanlığının önerisi ve EYK onayı ile lisansüstü programa yönelik dersler de alabilir. Bilimsel hazırlık programına kayıtlı olup da lisansüstü programdan ders alan öğrencinin lisansüstü program süresi başlatılır. Bilimsel hazırlık programını başarı ile tamamlayamayan öğrenci, yüksek lisans programında tez aşamasına, doktora programında yeterlik aşamasına geçemez.
+(5) Bilimsel hazırlık programı ile ilgili ders kaydı, devam, sınavlar, ders notları, derslerden başarılı sayılma koşulları, ders tekrarı gibi konularda öğrenim gördüğü ilgili programa ilişkin esaslar uygulanır.
+(6) Bilimsel hazırlık programında geçirilecek süre en fazla iki yarıyıl olup, yaz öğretimi bu süreye dâhil edilmez. Bu süre sonunda bilimsel hazırlık programı derslerinden başarılı olamayan öğrencinin enstitü ile ilişiği kesilir.
+(7) Bilimsel hazırlık programında alınan dersler ilgili lisansüstü programını tamamlamak için gerekli görülen derslerin yerine geçemez, GANO’ya katılmaz ve kredi yükünden sayılmaz, not durum belgesinde gösterilir.
