@@ -1,0 +1,3 @@
+Farklı üniversiteden gelen öğrencinin derse yazılma işlemleri
+MADDE 8- (1) Diğer üniversitelerden gelen öğrenciler, kendi üniversitesi tarafından verilen yönetim kurulu kararı ile yaz öğretiminde belirlenen esaslar doğrultusunda AKTS başı ücret ödeyerek derslere kayıt olabilir. Bu öğrencilerin yaz öğretiminde aldıkları başarı notları, Kocaeli Sağlık ve Teknoloji Üniversitesi Ön Lisans, Lisans Eğitim-Öğretim ve Sınav Yönetmeliği hükümleri kapsamında değerlendirilir.
+(2) Yaz öğretimi başarı notlarını gösterir transkript, Öğrenci İşleri Daire Başkanlığı tarafından ilgili üniversitelere elektronik bilgi yönetim sistemi üzerinden yazılı olarak bildirilir.
