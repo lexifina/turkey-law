@@ -1,0 +1,4 @@
+Müdür
+MADDE 8 – (1) (Değişik: RG-2/12/2024-32740) Müdür, Merkezin faaliyet alanları ile ilgili çalışmaları bulunan tıp fakültesi mezunu Üniversitenin öğretim elemanları arasından Rektör tarafından üç yıl için görevlendirilir. Süresi biten Müdür yeniden görevlendirilebilir. Müdürün altı aydan fazla görevinin başında bulunmadığı durumlarda görevi sona erer.
+(2) (Değişik: RG-2/12/2024-32740) Müdüre çalışmalarında yardımcı olmak üzere, Merkezin faaliyet alanları ile ilgili çalışmaları bulunan tıp fakültesi mezunu Üniversitenin öğretim elemanları arasından bir kişi Müdürün önerisi üzerine Rektör tarafından üç yıllık süre için Müdür Yardımcısı olarak görevlendirilir.
+(3) Müdür görevi başında bulunmadığı zamanlarda yardımcısını vekil olarak bırakır. Vekâlet altı aydan fazla sürerse yeni Müdür görevlendirilir. Müdürün görevi sona erdiğinde yardımcısının da görevi sona erer.
