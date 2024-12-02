@@ -1,0 +1,49 @@
+{
+  "checked_on": "2026-11-14",
+  "commencement_clauses": [
+    "MADDE 16 – (1) Bu Yönetmelik yayımı tarihinde yürürlüğe girer."
+  ],
+  "date_evidence": [
+    [
+      "2012-07-18",
+      "18.07.2012",
+      "original gazette publication date in official listing"
+    ],
+    [
+      "2024-12-02",
+      "RG-2/12/2024-32740",
+      "latest source-printed gazette amendment date for current consolidated text"
+    ],
+    [
+      "2024-12-02",
+      "2/12/2024",
+      "latest gazette date in source amendment table"
+    ]
+  ],
+  "date_quote": "RG-2/12/2024-32740",
+  "first_law": null,
+  "gazette": "28357",
+  "history": "current-text",
+  "images": {
+    "deferred": 0,
+    "omitted": 0,
+    "referenced": 0,
+    "source": 0
+  },
+  "in_force": "2024-12-02",
+  "in_force_basis": "latest source-printed gazette amendment date for current consolidated text",
+  "issuer": "KTO-Karatay Üniversitesi",
+  "issuer_slug": "kto-karatay-universitesi",
+  "kind": "regulation",
+  "label": "oldest version available",
+  "path": "regulation/kto-karatay-universitesi/2012/16381",
+  "published": "2012-07-18",
+  "source": "https://www.mevzuat.gov.tr/anasayfa/MevzuatFihristDetayIframe?MevzuatTur=8&MevzuatNo=16381&MevzuatTertip=5",
+  "source_bytes": 30191,
+  "source_id": "8.5.16381",
+  "source_sha256": "382835d7e0d4a996c7a6ae2b0fbb9796421f0b39c3dc5166454e5eb227d06dd7",
+  "text_status": "current-consolidated",
+  "title": "KTO KARATAY ÜNİVERSİTESİ TÜRKÇE ÖĞRETİMİ UYGULAMA VE \r\nARAŞTIRMA MERKEZİ YÖNETMELİĞİ",
+  "university_id": 332,
+  "word_count": 1201
+}

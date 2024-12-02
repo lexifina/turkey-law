@@ -1,0 +1,2 @@
+Danışma kurulu
+MADDE 12 – (1) Danışma Kurulu; konularında uzman akademik personel ile Merkezin faaliyet alanında çalışmış veya bu konularda tecrübesi olan ve gerektiğinde bilgisine başvurulabilecek kişiler arasından, Müdürün teklifi üzerine Mütevelli Heyeti tarafından görevlendirilen en az beş üyeden oluşur. Danışma Kurulu üyelerinin görev süresi üç yıldır. Süresi dolan üyeler tekrar görevlendirilebilir. Süreleri bitmeden ayrılan üyelerin yerine, Müdürün teklifi üzerine yenileri görevlendirilir. Danışma Kurulu, Müdürün başkanlığında yılda en az iki kez toplanır.
