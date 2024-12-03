@@ -1,0 +1,17 @@
+Gebelik öncesi ve gebelik döneminde ebenin görev, yetki ve sorumlulukları
+MADDE 6- (1) Gebelik öncesi ve gebelik döneminde ebenin görev, yetki ve sorumlulukları şunlardır:
+a) Gebelik öncesi ve gebelik döneminde anne/baba adayına ve talep edilmesi halinde yakınlarına Bakanlıkça belirlenen standartlar doğrultusunda gebeliğe ve doğuma hazırlık eğitimi programlarını yürütür ve yürütülmesini sağlar.
+b) Gebeliğe sağlıklı başlanmasını sağlamak amacıyla gebelik öncesi dönemde ebelik uygulamaları kapsamında gebe adayının genel durum değerlendirmesini yapar ve gerekli durumlarda ilgili hekime yönlendirir.
+c) Gebeliği tespit eder, normal gebe izlemini ve ebelik uygulamaları kapsamında gerekli muayenelerini yapar, gebelik ile ilgili riskli durumlar tespit etmesi durumunda, gerekli önlemleri alarak ilgili hekime yönlendirir ya da hekimin olmadığı durumlarda sevk sürecini başlatır.
+ç) Gebelik öncesi ve gebelik döneminde bakım, gebelikte yapılmaması veya dikkatle yapılması gerekenler, doğum yöntemleri, egzersiz, sağlıklı ve dengeli beslenme, sigara ve diğer zararlı madde kullanımının etkisi gibi konular hakkında gebe ve ailesine eğitim ve danışmanlık verir, günlük yaşam aktivitelerini planlar ve uygulanmasını sağlar.
+d) Gebelik döneminde gerekli olan aşılama hizmetlerini sunar. Gebeye bebeklik ve çocukluk dönemi dahil olmak üzere aşı uygulamaları konusunda bilgi verir.
+e) Gebelik sürecinde tarama programları ve tanısal yöntemler hakkında gebe ve ailesini bilgilendirir, danışmanlık yapar ve test sonuçlarının değerlendirilmesi için istemde bulunan hekime yönlendirir.
+f) Gebeliğin fizyolojik değişikliklerini, olağan ve sık görülen yakınmalarını tanır, gebenin yakınmalarını azaltmak/gidermek için güvenli ve kanıta dayalı ilaç dışı yöntemleri (müzik, perineye sıcak uygulama, masaj, hareket, pozisyon değiştirme ve benzeri) tavsiye eder, danışmanlık verir, normalden sapma tespit ettiği durumlarda ilgili hekime yönlendirir.
+g) Gebelikte oluşabilecek riskli belirti ve bulguları tanır, gebelik komplikasyonları açısından değerlendirir, normalden sapma tespit etmesi durumunda ilgili hekime yönlendirir ya da sevk sürecini başlatır.
+ğ) Gebelik haftasına göre beklenen fundus yüksekliğini izler, normalden sapmayı düşündüren durumlarını belirler ve bu olguları ilgili hekime yönlendirir.
+h) Fetal kalp seslerini dinleyerek veya non-stress test uygulayarak fetal iyilik halini değerlendirir, normalden sapmaları tespit eder, gerekli önlemleri alarak ilgili hekime yönlendirir ya da sevk sürecini başlatır.
+ı) Doğum korkusu ile başa çıkılmasında uygun yaklaşımı belirleyerek gebe ve ailesine danışmanlık verir.
+i) Kanaması olan gebelerde Bakanlıkça belirlenen mevzuata uygun olarak kanama kontrolünü, takibini yapar, şok bulgularını değerlendirir, gerekli önlemleri alır ve ilgili hekime haber verir. Hekimin olmadığı durumlarda gerekli müdahaleleri uygular ve sevk sürecini başlatır.
+j) Düşük ve rahim tahliyesi sonrası komplikasyonların belirti ve bulgularını izler ve hekim ile iş birliği içerisinde ebelik uygulamalarını yapar.
+k) Plansız ve istenmeyen gebeliklerde kadının sosyal ve duygusal durumunu değerlendirip eğitim ve danışmanlık vererek destek almasını sağlar.
+l) Doğum sürecinin sağlıklı yönetimi için gebe ve ailesinin tercihlerini değerlendirerek hekim ile iş birliği içerisinde doğum planını oluşturur. Doğum çantasının hazırlanması, acil durumlarda en yakın hastaneye erişim, hastane prosedürleri, doğum ekibi ile etkili iletişim gibi konularda danışmanlık verir.
