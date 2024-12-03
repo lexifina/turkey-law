@@ -1,0 +1,2 @@
+Gizliliğin korunması
+MADDE 8- (1) Kurula gönderilen bilgi veya belgeler ile kurul tarafından edinilen görüş, değerlendirme ve incelemelerden gizlilik derecesi bulunanların korunmasında ve saklanmasında gizlilik ilkesine uyulur. Kurul başkan ve üyeleri ile birlikte bu bilgileri derleyen ve değerlendiren tüm personel bu ilkeye uymakla yükümlüdür. Bu yükümlülük, kurul başkan ve üyeleri ile teknik yardım almak ve danışmak amacıyla kurul toplantısına davet edilen uzman kişilerin görevlerinden ayrılmalarından sonra da devam eder.

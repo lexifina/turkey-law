@@ -1,0 +1,4 @@
+ÜÇÜNCÜ BÖLÜM
+Çeşitli ve Son Hükümler
+Sözleşmeye aykırılık oluşturabilecek fiillerin varlığı
+MADDE 9- (1) Kurula bildirilen yahut re’sen öğrenilen sözleşmeye aykırılık oluşturabilecek durumlar, başkanın belirleyeceği üye tarafından hazırlanan raporla tespit edilir. Kurul, raporla tespit edilen ve sözleşmeye aykırılık oluşturabilecek durumlar için en az yedi gün süre vererek personelin yazılı savunmasını ister. Süresi içinde savunma vermeyen personel savunma hakkından vazgeçmiş sayılır. Kurul, savunmayı değerlendirerek personelin sözleşmede belirtilen yükümlülüklerini haklı bir nedene dayanmaksızın ihlal edip etmediğine karar verir. Kurul, verilen gerekçeli kararı ilgili birime, üniversiteye ve personele gecikmeksizin gönderir. Sözleşmeli personel karara karşı yedi gün içinde kurula itiraz edebilir. Yapılan itiraz on beş gün içinde dosya üzerinden değerlendirilerek karar ilgilisine bildirilir.
