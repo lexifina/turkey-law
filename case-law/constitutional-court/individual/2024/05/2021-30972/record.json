@@ -1,0 +1,20 @@
+{
+  "applicant": "B.B.",
+  "application_date": "2021-04-05",
+  "application_number": "2021/30972",
+  "deciding_unit": "Genel Kurul",
+  "decision_date": "2024-05-29",
+  "id": "6230ece0-b792-5fb9-7332-9703914e428c",
+  "in_force": "2024-12-03",
+  "in_force_basis": "official Resmî Gazete date",
+  "kind": "constitutional-court-individual-application",
+  "omitted_images": 0,
+  "outcome": "Kabul Edilemezlik vd.",
+  "published": "2024-12-03",
+  "referenced_images": 0,
+  "source": "https://kararlarbilgibankasi.anayasa.gov.tr/kbb/pages/search/Tumu?id=a2JiOjYyMzBlY2UwLWI3OTItNWZiOS03MzMyLTk3MDM5MTRlNDI4Yw&type=BireyselBasvuru",
+  "source_api": "https://kararlarbilgibankasi.anayasa.gov.tr/api/core/public/search",
+  "source_images": 0,
+  "source_sha256": "549322a6c600dfb27dd7ac34d9bc0e576885edd902f62d31dcbd5c1326861bbc",
+  "version_label": "as-enacted"
+}
