@@ -1,0 +1,10 @@
+Başvurunun usulden reddi
+MADDE 14- (Değişik:RG-3/12/2024-32741)
+(1) Aşağıda sayılan durumlarda başvuru, usulden reddedilerek iptal edilir:
+a) Kurum tarafından 13 üncü madde kapsamında yapılan ilk ön değerlendirmesine ilişkin eksiklerin tamamlanarak süresi içinde ikinci başvurunun yapılmaması veya ikinci ön değerlendirme başvurusunda ilk ön değerlendirmeye ilişkin eksikliklerin tamamlanmaması.
+b) Ruhsatlandırma sürecinin tamamlanmış olduğunun başvuru sahibine resmî olarak bildirildiği tarihten sonraki altmış gün içinde ruhsat bedelinin ödenmemesi.
+c) Ön değerlendirme süreci haricinde Kurum tarafından talep edilen bilgi ve belgelerin veya sunulacağı tarih bilgisiyle birlikte, bu bilgi ve belgelerin sunulamadığına ilişkin gerekli açıklamanın en geç otuz gün içinde Kuruma sunulmaması.
+ç) İkinci fıkra uyarınca belirtilen süre sonunda gerekli bilgi ve belgelerin Kuruma sunulmaması.
+(2) Kuruma sunulacak bilgi ve belgelerin Kurum tarafından güncel bilimsel gereklilikler yönünden uygun bulunması ve birinci fıkranın (c) bendi uyarınca Kuruma sunulacak bilgi ve belgeler için sunulan tarih bilgisinin üç yılı aşmaması gerekir.
+(3) Birinci fıkranın (c) bendi kapsamında başvurusu usulden reddedilen homeopatik tıbbi ürünler için yeniden ruhsat başvurusu yapılması durumunda, söz konusu ürünler için varsa Öncelik Değerlendirme Kurulu tarafından verilmiş ruhsatlandırma ve/veya denetim süreçlerinde öncelik kararları geçerli sayılarak ilgili ürünlerin ruhsatlandırma süreçleri doğrudan başlatılır.
+(4) Birinci fıkranın (c) bendi kapsamında başvurusu usulden reddedilen homeopatik tıbbi ürünler için yeniden ruhsat başvurusu yapılması durumunda Kurum tarafından onaylanan veya talep edilen değişikliklerin yansıtılmış olduğu güncel dosya ve değişikliklerin yansıtıldığına dair taahhüt dosyada sunulur. Bu taahhüde rağmen Kurum tarafından onaylanan ve talep edilen değişikliklerin güncel dosyaya yansıtılmadığının tespiti halinde ise dosya tekrar reddedilir ve söz konusu ürüne ait Öncelik Değerlendirme Kurulu tarafından verilmiş ruhsatlandırma veya denetim süreçlerinde öncelik kararları iptal edilir.

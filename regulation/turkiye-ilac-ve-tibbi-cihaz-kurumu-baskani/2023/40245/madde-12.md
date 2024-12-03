@@ -1,0 +1,5 @@
+Ambalaj bilgileri
+MADDE 12- (1) Homeopatik tıbbi ürünün dış ambalaj, iç ambalaj ve kullanma talimatı, 33 üncü maddenin birinci fıkrasında belirtilen ilgili kılavuza göre düzenlenir.
+(2) 9 uncu maddenin birinci fıkrası kapsamında değerlendirilen homeopatik tıbbi ürünlerde kullanma talimatının, 11 inci maddenin birinci fıkrasının (a), (b), (c), (ç) bendinin (2) numaralı alt bendinde yer alan uygulama şekli, (ç) bendinin (4) numaralı alt bendi, (e), (f), (g), (ğ), (h) bentlerinde yer alan bilgilerin dış ambalajda bulunması koşuluyla, sunulması zorunlu değildir.
+(3) 9 uncu maddenin ikinci fıkrası kapsamında değerlendirilen homeopatik tıbbi ürünlerde ilgili kılavuza göre düzenlenen kullanma talimatının sunulması zorunludur.
+(4) 9 uncu maddenin birinci fıkrası kapsamında değerlendirilen homeopatik tıbbi ürünlerde dış ambalajda; 9 uncu maddenin ikinci fıkrası kapsamında değerlendirilen homeopatik tıbbi ürünlerde ise kullanma talimatı ve dış ambalajda ürünün sadece eczanelerde satılacağına dair uyarı yer alır.

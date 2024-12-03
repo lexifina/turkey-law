@@ -1,0 +1,5 @@
+ÜÇÜNCÜ BÖLÜM
+Ruhsat Başvurusunun Değerlendirilmesi ve Ruhsatlandırma
+Başvurunun ön değerlendirilmesi
+MADDE 13- (1) Homeopatik tıbbi ürün için ruhsat almak üzere Kuruma sunulan başvuru dosyasının, başvurunun niteliğine göre sunulması gereken belgeler ve elektronik ruhsat başvurusu gereklilikleri açısından eksiksiz bir başvuru olup olmadığı hususu, Kurum tarafından ön (Değişik ibare:RG-3/12/2024-32741) değerlendirmeye tabi tutularak incelenir. Bu değerlendirme başvuru tarihi sırasına göre yapılır. Ancak Kurum, Öncelik Değerlendirme Kurulu tarafından ruhsatlandırma işlemlerinde öncelikli veya yüksek öncelikli olarak değerlendirilmesi uygun bulunan başvuruların ön değerlendirme işlemleri öncelikli olarak yapılır.
+(2) Başvuru dosyasının Kuruma ulaşmasından itibaren otuz gün içinde gerekli değerlendirme yapılarak sonuç başvuru sahibine bildirilir. Başvurunun eksik bulunması hâlinde başvuru sahibi eksikliklerini otuz gün içinde tamamlar. Eksikliklerin tamamlanarak Kuruma sunulmasından sonra yapılacak ikinci ön değerlendirme de otuz gün içinde sonuçlandırılır.
