@@ -1,0 +1,23 @@
+Katlar alanı hesabına dâhil edilmeyen kullanımlar
+MADDE 22- (1) Planlı Alanlar İmar Yönetmeliğinin 5 inci maddesinin sekizinci fıkrasında belirtilen esaslar dahilinde; % 30 hesabı dahilinde emsal harici olan alanlar;
+a) Taban alanına dahil edilmeyen kullanımlar,
+b) Konutlarda ve ticaret alanlarında bina veya tesise ait olan; havalandırma sistemleri ile enerji verimliliği sistemlerinin bulunduğu alanlar, arıtma tesisi, yakıt deposu, teshin odaları, teknik odalar, tesisat şaftları, çöp toplama odaları, çamaşırhane ve sayaç odaları,
+c) Üstü sökülür-takılır hafif malzeme ile kenarları rüzgâr kesici cam panellerle kapatılmış olsa dahi açık oturma yerleri,
+ç) Bu Yönetmelik uyarınca yapılması zorunlu olan kapıcı dairelerinin toplam 70 m²’si,
+d) Atrium ve galeri boşlukları,
+e) Ortak alan niteliğindeki mescit ve müştemilat,
+f) Alışveriş merkezlerinde ve 40’tan fazla bağımsız bölümü bulunan binaların normal katlarında, binanın ortak merdiveni ile bağlantılı, dışarıdan erişimi bulunmayan, toplamda 50 m²’yi geçmeyen, ticari kullanıma konu edilemeyen, ortak alan niteliğinde kütüphane odası,
+g) Bina için gerekli minimum sığınak alanı,
+ğ) Ticari amaç içermeyen ve ortak alan niteliğindeki; sağlık, doktor, hemşire ve revir odalarının toplamda 50 m²’si ile çocuk oyun alanları ve çocuk bakım üniteleri,
+h) Otopark alanları,
+ı) Yapı yüksekliği 60.50 metreden fazla olan binalar ile özelliği gereği tesisat katı oluşturulması zorunlu binalarda sadece tesisat için oluşturulan tesisat katları,
+i) Bina veya tesise ait olan ısıtma, soğutma, tesisat alanı, su sarnıcı, havalandırma sistemleri ve enerji verimliliği sistemlerinin bulunduğu alanlar, arıtma tesisi, gri su toplama havuzu, yakıt ve su depoları, trafolar, jeneratör, ısı merkezi, enerji odası, kömürlük, eşanjör ve hidrofor bölümleri, güneş panellerinin temel ve kaidesi haricindeki kısımları,
+j) Bütün cepheleri tamamen toprağın altında kalan bodrum katlar ile kısmen açığa çıkan yol cephesi haricindeki bodrum katlarda yer alan, tek başına bağımsız bölüm oluşturmayan, bir bağımsız bölümün eklentisi olmayan, ticari amaç içermeyen, sadece binada oturanların kullanımına yönelik, toplamda emsal hesabına konu alanın % 5’ini ve 1000 m²’yi geçmeyen ortak alan niteliğindeki yönetim ve toplantı odaları ile spor ve sosyal mekânlar,
+k) Bütün cepheleri tamamen toprağın altında kalan bodrum katlarda yer alan, tek başına bağımsız bölüm oluşturmayan, bağımsız bölüm net alanının %50’sini geçmeyen depo amaçlı eklentiler,
+l) Bağımsız bölüm net alanının %20’sini geçmemek kaydıyla sökülür-takılır-katlanır cam panellerle kapatılmış olanlar da dahil açık çıkma şartlarını taşıyan balkonlar, bağımsız bölüm net alanının %10’unu geçmemek kaydıyla yapılacak olan bina cephe hattı içindeki balkonların 1.5 metre genişliğindeki kısımları, kat koridorları, kat ve ara sahanlıkları dâhil açık veya kapalı merdiven evi ile açık havuzlar,
+m) Taşıyıcı sistemi kesme taş yığma bina olarak tasarlanan zemin dâhil 3 katı geçmeyen geleneksel mimari öğeler barındıran yapıların statik tasarım gereği düşey taşıyıcılar da bulunabilen ve bağımsız bölüm net alanının %20’sini geçmeyen balkonları, bu yapıların geleneksel mimari öğesi olan; bahçe ile irtibatı olup gerektiğinde basamak ile çıkılan, binanın girişi ile beraber ya da çıkma veya balkon altında yer alabilen, düşey taşıyıcılar ile desteklenen üst örtüye sahip olabilen taşlık, dış sofa veya eyvan alanları,
+n) Çatı piyeslerinde yer alan bağımsız bölümlere ait çatı terasları,
+o) Sitelerde; bloklardan bağımsız müstakil bir bina olarak düzenlenmek, taban alanına dâhil edilmek üzere en fazla bir bodrum ve zemin kattan ibaret, toplamda katlar alanının %10’unu ve 1000 m²’yi geçmemek, bağımsız bölüm oluşturmamak, ticari amaçla kullanılmamak kaydıyla siteye ait spor salonu, toplantı odası ve benzeri sosyal tesisler,
+ö) Eğitim, sağlık, sosyal ve kültürel tesislerin bodrum katlarında yer alan; ticari amaç için kullanılmayan ve ortak alan niteliğindeki yapının ihtiyacına yönelik yemekhane, çamaşırhane, mutfak, laboratuvar, atölye, teknik servis hizmetleri gibi müştemilat alanları,
+p) Çatı katında veya bodrum katlarda düzenlenen, bina veya tesise ait olan su sarnıcı, gri su toplama havuzu, trafolar, eşanjör, hidrofor bölümleri ve makine dairesi,
+katlar alanına dâhil edilmez.

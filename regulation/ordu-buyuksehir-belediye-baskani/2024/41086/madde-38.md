@@ -1,0 +1,7 @@
+Korkuluklar
+MADDE 38- (1) Binalarda; balkon, teras, galeri boşluğu, sahanlıkların boş kenarları 1'den fazla basamağı bulunan açık merdivenlerde ve rampalarda, istinat duvarı üstünde, 0,50 metreden daha aşağıda veya yukarıda teşekkül etmiş bahçelerde, 1.10 metreden düşük düzenlenmiş bahçe duvarlarında, bulunduğu katın taban döşemesinden itibaren kotu 0.90 metreden az olan pencere boşluklarında, döşeme kotundan itibaren en az 1.10 metre yüksekliğe kadar teknik gereklere ve standartlara uygun olarak korkuluk yapılması mecburidir.
+(2) Bina son kat açık teraslarında düzenlenen korkulukların ve parapetlerin 1.10 metresi bina yüksekliğinden sayılmaz.
+(3) Korkuluklar, kırılmaz veya kırıldığında dağılmayan malzemeden ve insan çarpması dâhil, tasarım yüklerini karşılayacak taşıyıcı malzeme ve montaj sistemleri ile yapılır.
+(4) Korkuluklar düşme, kayma, yuvarlanma gibi sebeplerle insanların can güvenliğini tehlikeye atacak boşluklar içermeyecek şekilde düzenlenir. Boşluklarda, yük altındaki deformasyonlar da dâhil, en fazla 0.10 metre çapında geçişe izin verilir.
+(5) Korkuluk yüksekliği 1.10 m’dir. İstinat duvarları veya peyzaj ve çevre düzenlemesi amacıyla yapılmış olan duvarların üstünde de geçerlidir.
+(6) Otopark rampası yan duvarları, rampa dış tarafında tabii zeminden en az 1.10 m yükseklikte olmalıdır. Bu yükseklik korkulukla da sağlanabilir.
