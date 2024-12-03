@@ -1,0 +1,3 @@
+Kapsam
+MADDE 2- (1) Bu Yönetmelik, 22/12/1934 tarihli ve 2644 sayılı Tapu Kanununun 26 ncı maddesi ile 4 sayılı Bakanlıklara Bağlı, İlgili, İlişkili Kurum ve Kuruluşlar ile Diğer Kurum ve Kuruluşların Teşkilatı Hakkında Cumhurbaşkanlığı Kararnamesinin 488 inci maddesine göre tarafların farklı birimlerde bulunmaları halinde yapılacak mülkiyetin devrini amaçlayan sözleşmeler ile yetki alanı dışında kayıtlı bulunan taşınmazlarla ilgili yapılacak tapu işlemlerinin tâbi olacağı usul ve esasları kapsar.
+(2) Resmî yazışma ile yapılan tapu işlemlerinde ve tapu işlemleri öncesinde kadastro müdürlüklerince tescil bildirimi düzenlenmesi gereken işlemlerde bu Yönetmelik hükümleri uygulanmaz.

@@ -1,0 +1,6 @@
+Tescil, terkin ve arşivleme
+MADDE 12- (1) Resmî senedi hazırlayan birim tarafından işleme konu taşınmaz üzerine başvurudan sonra herhangi bir şerh, beyan ve azil gelmemesi halinde işlem derhal yevmiye defterine kaydedilir ve resmî senet üzerine yevmiye tarihi, saati ve dakikası ile yevmiye numarası yazılır. Yevmiye defterine kayıt yapılmadan önce herhangi bir şerh, beyan ve azil gelmesi halinde işlem iptal edilerek durum derhal mülkiyeti devralan tarafın bulunduğu birime bildirilir.
+(2) Yevmiye defterine kayıt yapılmasından sonra ilgili birim tarafından tapu senedi/ipotek belgesi ilgili taraflara verilir.
+(3) Resmî senedi hazırlayan görevli personel, tescili yaparak imzaları tamamlanmış resmî senette yer alan "Tescil tarafımdan yapılmıştır" cümlesinin altına adını soyadını yazarak imzalar.
+(4) İşleme katılan birimler ıslak imzalı resmî senet asıllarının üzerine yevmiye numarası ve saati yazarak Genel Müdürlükçe belirlenen şekilde fiziki olarak saklar. İmzaları tamamlanan resmî senet, tescili yapan personel tarafından elektronik imza ile elektronik ortama aktarılır ayrıca fiziki olarak saklanır.
+(5) İşlem yetki alanı dışı tapu işlemi olarak yapılmış ise, tescil, terkin ve arşivleme işlemleri 8 inci madde hükümlerine göre yapılır.
