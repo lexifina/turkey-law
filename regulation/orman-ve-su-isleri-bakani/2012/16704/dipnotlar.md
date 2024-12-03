@@ -1,0 +1,2 @@
+[1] 3/12/2024 tarihli ve 32741 sayılı Resmî Gazete’de yayımlanan değişiklik ile Yönetmeliğin Adı “Orman ve Su İşleri Bakanlığı Döner Sermayeli İşletmeler Yönetmeliği” iken metne işlendiği şekilde değiştirilmiştir.
+[2] 28/6/2014 tarihli ve 29044 sayılı Resmi Gazete’de yayımlanan yönetmelik ile bu Yönetmeliğin 7 nci maddesinin birinci fıkrasına (g) bendinden sonra gelmek üzere (ğ), (h) ve (ı) bentleri eklenmiş, mevcut (ğ) bendi buna göre teselsül ettirilmiştir.
