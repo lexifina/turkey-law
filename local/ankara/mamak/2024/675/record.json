@@ -1,0 +1,28 @@
+{
+  "number": "675",
+  "number_as_published": "675",
+  "year": 2024,
+  "title": "council decision",
+  "decision_date": "2024-12-04",
+  "source": "https://www.mamak.bel.tr/gundem/GetKararlar",
+  "official_document": "https://www.mamak.bel.tr/gundem/DosyaDownload?guid=764b87da-3504-4ae1-af3a-9c1c0862bbb2",
+  "source_sha256": "f554089df68731558a37947c976f196303cdbdc5704c52cb6912834ca94730d3",
+  "issuer": "Mamak Belediye Meclisi",
+  "history_type": "metadata",
+  "text_status": "metadata-only: subject appears to concern individual persons; official link only",
+  "in_force": "2024-12-04",
+  "in_force_basis": "Decision date as printed in the official council listing: 2024-12-04T00:00:00 (kararTarihi of the official register); adoption date of the council decision; legal commencement not asserted",
+  "missing": [
+    "complete official decision text",
+    "official annexes"
+  ],
+  "law_text_complete": false,
+  "privacy_withheld": true,
+  "listing_page": "https://www.mamak.bel.tr/gundem/kararlar",
+  "register_api": "https://www.mamak.bel.tr/gundem/GetKararlar",
+  "official_documents": [
+    "https://www.mamak.bel.tr/gundem/DosyaDownload?guid=764b87da-3504-4ae1-af3a-9c1c0862bbb2",
+    "https://www.mamak.bel.tr/gundem/DosyaDownload?guid=f1199be9-b396-44fd-a1be-ebe6a6aa7eb3",
+    "https://www.mamak.bel.tr/gundem/DosyaDownload?guid=c75dd2d8-cb76-4f2c-9d53-42e67a0c6ee2"
+  ]
+}
