@@ -1,0 +1,22 @@
+{
+  "number": "133",
+  "number_as_published": "2024/133",
+  "year": 2024,
+  "title": "Müdürlük birleştirilmesi ve kadro iptali",
+  "decision_date": "2024-12-05",
+  "source": "https://eyupsultan.bel.tr/tr/main/pages/2024-aralik-ayi-meclis-kararlari/2653",
+  "official_document": "https://eyupsultan.bel.tr/tr/main/pages/2024-133/2654",
+  "source_sha256": "20f799b0e62e3cba08fb02d2f6bf9485b02dfd00d4626577626323bb3ca21d6e",
+  "issuer": "Eyüpsultan Belediye Meclisi",
+  "history_type": "metadata",
+  "text_status": "metadata-only: listing fields as published; complete decision text is in the linked official document, not transcribed",
+  "in_force": "2024-12-05",
+  "in_force_basis": "Decision date as printed in the official council listing: 05.12.2024 (meeting date at the start of the decision page); adoption date of the council decision; legal commencement not asserted",
+  "missing": [
+    "complete official decision text",
+    "official annexes"
+  ],
+  "law_text_complete": false,
+  "privacy_withheld": false,
+  "decision_page_sha256": "747508e0dbea8a1a7460e4e336ce6173fec2e4d6534abedfa10ff89d1f7e1d76"
+}
