@@ -1,0 +1,4 @@
+Uygulanmayacak ve yürürlükten kaldırılan hükümler
+MADDE 6 – (1) Diğer yönetmelik ve düzenleyici işlemlerin resmî ve özel okul öncesi, ilkokul, ortaokul ve lise öğrencilerinin kılık ve kıyafetlerine ilişkin konulardaki bu Yönetmeliğe aykırı hükümleri uygulanmaz.
+(2) 22/7/1981 tarihli ve 8/3349 sayılı Bakanlar Kurulu Kararı ile yürürlüğe konulan Milli Eğitim Bakanlığı ile Diğer Bakanlıklara Bağlı Okullardaki Görevlilerle Öğrencilerin Kılık Kıyafetlerine İlişkin Yönetmelik yürürlükten kaldırılmıştır.
+(3) 16/7/1982 tarihli ve 8/5105 sayılı Bakanlar Kurulu Kararı ile yürürlüğe konulan Kamu Kurum ve Kuruluşlarında Çalışan Personelin Kılık ve Kıyafetine Dair Yönetmeliğin 14 üncü maddesinde yer alan "ile 22/7/1981 tarihli ve 8/3349 sayılı Bakanlar Kurulu Kararına bağlı "Milli Eğitim Bakanlığı ile Bakanlıklara Bağlı Okullardaki Görevlilerle Öğrencilerin Kılık Kıyafetlerine İlişkin Yönetmelik" hükümleri" ibaresi yürürlükten kaldırılmıştır.

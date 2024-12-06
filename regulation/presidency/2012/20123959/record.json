@@ -1,0 +1,26 @@
+{
+  "id": "presidency-regulation-20123959",
+  "number": "20123959",
+  "kind": "regulation",
+  "issuer": "presidency",
+  "title": "MİLLÎ EĞİTİM BAKANLIĞINA BAĞLI OKUL ÖĞRENCİLERİNİN KILIK VE KIYAFETLERİNE DAİR YÖNETMELİK",
+  "published": "2012-11-27",
+  "enacted": "2012-11-26",
+  "gazette_number": "28480",
+  "in_force": "2024-12-06",
+  "in_force_basis": "Source commencement table, \"Yürürlüğe Giriş Tarihi\": 6/12/2024; source row: 5/12/2024 | 9216 | 1, 2, 3, 5, 8 | 6/12/2024",
+  "history": "current-only",
+  "version_label": "oldest version available",
+  "first_law": null,
+  "source": "https://www.mevzuat.gov.tr/anasayfa/MevzuatFihristDetayIframe?MevzuatNo=20123959&MevzuatTur=21&MevzuatTertip=5",
+  "source_sha256": "496df534c1b1809e79547acb932fb7d91ccd4d7257d5719679105533eb2585a0",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  },
+  "missing_components": [],
+  "text_layout": "article-files",
+  "source_links": [],
+  "completeness": "html-text-complete"
+}
