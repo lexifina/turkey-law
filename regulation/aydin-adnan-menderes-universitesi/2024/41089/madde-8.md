@@ -1,0 +1,3 @@
+Müdür
+MADDE 8- (1) Müdür; Merkezin faaliyet alanları ile ilgili çalışmaları bulunan Üniversitenin İlahiyat Fakültesi öğretim üyeleri arasından Rektör tarafından üç yıl için görevlendirilir. Görev süresi sona eren Müdür, aynı usulle yeniden görevlendirilebilir. Müdürün altı aydan daha fazla süreyle görevinin başında bulunmaması durumunda görevi sona erer.
+(2) Müdüre çalışmalarında yardımcı olmak üzere Üniversitenin İlahiyat Fakültesi öğretim elemanları arasından en fazla iki kişi müdür yardımcısı olarak Rektör tarafından görevlendirilebilir. Müdür görevi başında bulunmadığı zamanlarda müdür yardımcısı, Müdüre vekâlet eder. Müdürün görevi sona erdiğinde müdür yardımcılarının da görevi sona erer.
