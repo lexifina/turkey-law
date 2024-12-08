@@ -1,0 +1,59 @@
+{
+  "checked_on": "2026-11-14",
+  "commencement_clauses": [
+    "MADDE 16 – (1) Bu Yönetmelik yayımı tarihinde yürürlüğe girer."
+  ],
+  "date_evidence": [
+    [
+      "2012-09-17",
+      "17.09.2012",
+      "original gazette publication date in official listing"
+    ],
+    [
+      "2024-12-08",
+      "RG-8/12/2024-32746",
+      "latest source-printed gazette amendment date for current consolidated text"
+    ],
+    [
+      "2024-12-08",
+      "RG-8/12/2024-32746",
+      "latest source-printed gazette amendment date for current consolidated text"
+    ],
+    [
+      "2024-12-08",
+      "RG-8/12/2024-32746",
+      "latest source-printed gazette amendment date for current consolidated text"
+    ],
+    [
+      "2024-12-08",
+      "8/12/2024",
+      "latest gazette date in source amendment table"
+    ]
+  ],
+  "date_quote": "RG-8/12/2024-32746",
+  "first_law": null,
+  "gazette": "28414",
+  "history": "current-text",
+  "images": {
+    "deferred": 0,
+    "omitted": 0,
+    "referenced": 0,
+    "source": 0
+  },
+  "in_force": "2024-12-08",
+  "in_force_basis": "latest source-printed gazette amendment date for current consolidated text",
+  "issuer": "İstanbul Aydın Üniversitesi",
+  "issuer_slug": "istanbul-aydin-universitesi",
+  "kind": "regulation",
+  "label": "oldest version available",
+  "path": "regulation/istanbul-aydin-universitesi/2012/16606",
+  "published": "2012-09-17",
+  "source": "https://www.mevzuat.gov.tr/anasayfa/MevzuatFihristDetayIframe?MevzuatTur=8&MevzuatNo=16606&MevzuatTertip=5",
+  "source_bytes": 32312,
+  "source_id": "8.5.16606",
+  "source_sha256": "0c9e4df57fced32858f13e3421c724e8030c75b10848a002570d309c1225f8e3",
+  "text_status": "current-consolidated",
+  "title": "İSTANBUL AYDIN ÜNİVERSİTESİ ENGELSİZ YAŞAM UYGULAMA VE ARAŞTIRMA MERKEZİ YÖNETMELİĞİ",
+  "university_id": 308,
+  "word_count": 1117
+}
