@@ -1,0 +1,59 @@
+{
+  "checked_on": "2026-11-14",
+  "commencement_clauses": [
+    "MADDE 16 – (1) Bu Yönetmelik yayımı tarihinde yürürlüğe girer."
+  ],
+  "date_evidence": [
+    [
+      "2017-05-03",
+      "03.05.2017",
+      "original gazette publication date in official listing"
+    ],
+    [
+      "2024-12-08",
+      "RG-8/12/2024-32746",
+      "latest source-printed gazette amendment date for current consolidated text"
+    ],
+    [
+      "2024-12-08",
+      "RG-8/12/2024-32746",
+      "latest source-printed gazette amendment date for current consolidated text"
+    ],
+    [
+      "2024-12-08",
+      "RG-8/12/2024-32746",
+      "latest source-printed gazette amendment date for current consolidated text"
+    ],
+    [
+      "2024-12-08",
+      "8/12/2024",
+      "latest gazette date in source amendment table"
+    ]
+  ],
+  "date_quote": "RG-8/12/2024-32746",
+  "first_law": null,
+  "gazette": "30055",
+  "history": "current-text",
+  "images": {
+    "deferred": 0,
+    "omitted": 0,
+    "referenced": 0,
+    "source": 0
+  },
+  "in_force": "2024-12-08",
+  "in_force_basis": "latest source-printed gazette amendment date for current consolidated text",
+  "issuer": "İstanbul Aydın Üniversitesi",
+  "issuer_slug": "istanbul-aydin-universitesi",
+  "kind": "regulation",
+  "label": "oldest version available",
+  "path": "regulation/istanbul-aydin-universitesi/2017/23560",
+  "published": "2017-05-03",
+  "source": "https://www.mevzuat.gov.tr/anasayfa/MevzuatFihristDetayIframe?MevzuatTur=8&MevzuatNo=23560&MevzuatTertip=5",
+  "source_bytes": 53915,
+  "source_id": "8.5.23560",
+  "source_sha256": "2165dd559a3a3582d194dc8520f803473793258a892991083d6e2f3fb569fbb6",
+  "text_status": "current-consolidated",
+  "title": "İSTANBUL AYDIN ÜNİVERSİTESİ GÖK BİLİMLERİ UYGULAMA VE ARAŞTIRMA MERKEZİ YÖNETMELİĞİ",
+  "university_id": 308,
+  "word_count": 970
+}
