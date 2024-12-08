@@ -1,0 +1,2 @@
+Danışman atanması
+MADDE 15 – (1) Tezsiz yüksek lisans programında enstitü anabilim/anasanat dalı başkanlığı her öğrenci için ders seçiminde ve dönem projesinin yürütülmesinde danışmanlık yapacak bir öğretim üyesini veya Senato tarafından belirlenen niteliklerde en az doktora derecesine sahip bir öğretim görevlisini en geç birinci yarıyılın sonuna kadar belirler. Danışman önerisinde, lisansüstü öğrenci ile danışman arasında birinci derece akrabalık bağının bulunmaması dikkate alınır.
