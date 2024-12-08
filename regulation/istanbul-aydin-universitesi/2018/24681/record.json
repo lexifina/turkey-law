@@ -1,0 +1,59 @@
+{
+  "checked_on": "2026-11-14",
+  "commencement_clauses": [
+    "MADDE 16 – (1) Bu Yönetmelik yayımı tarihinde yürürlüğe girer."
+  ],
+  "date_evidence": [
+    [
+      "2018-06-18",
+      "18.06.2018",
+      "original gazette publication date in official listing"
+    ],
+    [
+      "2024-12-08",
+      "RG-8/12/2024-32746",
+      "latest source-printed gazette amendment date for current consolidated text"
+    ],
+    [
+      "2024-12-08",
+      "RG-8/12/2024-32746",
+      "latest source-printed gazette amendment date for current consolidated text"
+    ],
+    [
+      "2024-12-08",
+      "RG-8/12/2024-32746",
+      "latest source-printed gazette amendment date for current consolidated text"
+    ],
+    [
+      "2024-12-08",
+      "8/12/2024",
+      "latest gazette date in source amendment table"
+    ]
+  ],
+  "date_quote": "RG-8/12/2024-32746",
+  "first_law": null,
+  "gazette": "30452",
+  "history": "current-text",
+  "images": {
+    "deferred": 0,
+    "omitted": 0,
+    "referenced": 0,
+    "source": 0
+  },
+  "in_force": "2024-12-08",
+  "in_force_basis": "latest source-printed gazette amendment date for current consolidated text",
+  "issuer": "İstanbul Aydın Üniversitesi",
+  "issuer_slug": "istanbul-aydin-universitesi",
+  "kind": "regulation",
+  "label": "oldest version available",
+  "path": "regulation/istanbul-aydin-universitesi/2018/24681",
+  "published": "2018-06-18",
+  "source": "https://www.mevzuat.gov.tr/anasayfa/MevzuatFihristDetayIframe?MevzuatTur=8&MevzuatNo=24681&MevzuatTertip=5",
+  "source_bytes": 29429,
+  "source_id": "8.5.24681",
+  "source_sha256": "cb0fd7700cd4b83def0ae94882d096a07fd8717d754be92920b00b45150e5d1b",
+  "text_status": "current-consolidated",
+  "title": "İSTANBUL AYDIN ÜNİVERSİTESİ SİBER GÜVENLİK UYGULAMA\r\nVE ARAŞTIRMA MERKEZİ YÖNETMELİĞİ",
+  "university_id": 308,
+  "word_count": 968
+}
