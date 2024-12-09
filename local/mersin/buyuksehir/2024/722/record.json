@@ -1,0 +1,18 @@
+{
+  "issuer": "Mersin Büyükşehir Belediye Meclisi",
+  "number": "722",
+  "decision_date": "2024-12-09",
+  "title": "-MEC.KAR.(ORTAK PROJE YETKİSİ 2025)",
+  "listed_as": "722-MEC.KAR.(ORTAK PROJE YETKİSİ 2025)",
+  "subject_note": "subject as the meeting page lists it (the register shortens some long subjects)",
+  "official_document": "https://www.mersin.bel.tr/dokumanlar/722-meckarortak-proje-yetkisi-2025-1525012237",
+  "source_listing": "https://www.mersin.bel.tr/dokumanlar/09-aralik-2024-meclis-kararlari-1901569928",
+  "listing_sha256": "d387a6044156304b194d6d2244b4857b6e86f2f47a7d80178c4462b80d2e4f73",
+  "meeting_title": "09 ARALIK 2024 MECLİS KARARLARI",
+  "history_type": "metadata-only",
+  "capture_mode": "metadata-only",
+  "text_status": "metadata-only; official decision page linked, text not transcribed",
+  "date_basis": "meeting date in the official meeting page title (decision date of the session)",
+  "commencement_established": false,
+  "privacy_withheld": false
+}
