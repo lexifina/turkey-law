@@ -1,0 +1,59 @@
+{
+  "checked_on": "2026-11-14",
+  "commencement_clauses": [
+    "MADDE 15 – (1) Bu Yönetmelik yayımı tarihinde yürürlüğe girer."
+  ],
+  "date_evidence": [
+    [
+      "2013-08-21",
+      "21.08.2013",
+      "original gazette publication date in official listing"
+    ],
+    [
+      "2024-12-09",
+      "RG-9/12/2024-32747",
+      "latest source-printed gazette amendment date for current consolidated text"
+    ],
+    [
+      "2024-12-09",
+      "RG-9/12/2024-32747",
+      "latest source-printed gazette amendment date for current consolidated text"
+    ],
+    [
+      "2024-12-09",
+      "RG-9/12/2024-32747",
+      "latest source-printed gazette amendment date for current consolidated text"
+    ],
+    [
+      "2024-12-09",
+      "9/12/2024",
+      "latest gazette date in source amendment table"
+    ]
+  ],
+  "date_quote": "RG-9/12/2024-32747",
+  "first_law": null,
+  "gazette": "28742",
+  "history": "current-text",
+  "images": {
+    "deferred": 0,
+    "omitted": 0,
+    "referenced": 0,
+    "source": 0
+  },
+  "in_force": "2024-12-09",
+  "in_force_basis": "latest source-printed gazette amendment date for current consolidated text",
+  "issuer": "İstanbul Aydın Üniversitesi",
+  "issuer_slug": "istanbul-aydin-universitesi",
+  "kind": "regulation",
+  "label": "oldest version available",
+  "path": "regulation/istanbul-aydin-universitesi/2013/18749",
+  "published": "2013-08-21",
+  "source": "https://www.mevzuat.gov.tr/anasayfa/MevzuatFihristDetayIframe?MevzuatTur=8&MevzuatNo=18749&MevzuatTertip=5",
+  "source_bytes": 23551,
+  "source_id": "8.5.18749",
+  "source_sha256": "21b0b52d9cd21530acb1e24cc056bafd348fd88e18f4e429267eac62db4201f0",
+  "text_status": "current-consolidated",
+  "title": "İSTANBUL AYDIN ÜNİVERSİTESİ AFRİKA UYGULAMA VE ARAŞTIRMA MERKEZİ YÖNETMELİĞİ",
+  "university_id": 308,
+  "word_count": 927
+}
