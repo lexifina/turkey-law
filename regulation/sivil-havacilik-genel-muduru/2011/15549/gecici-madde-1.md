@@ -1,0 +1,3 @@
+GEÇİCİ MADDE 1 – (Ek:RG-25/3/2020-31079)
+(1) COVID-19 salgını nedeniyle 5/2/2020 tarihinden itibaren uçuşun iptal edilmesi durumunda, bu iptaller sebebiyle uçuşu icra eden veya etme taahhüdünde bulunan hava taşıma işletmesi 8 inci, 9 uncu ve 10 uncu maddelerde yer alan hükümlerden uçuş yasakları kalktıktan sonraki iki ay sonuna kadar muaftır.
+(2) COVID-19 salgını nedeniyle uçuşu iptal edilen yolcunun, hava taşıma işletmesinin boş koltuk durumuna bağlı olarak istediği bir tarih için bilette değişiklik yapma veya bileti açığa alma hakkı vardır. Yolcu, açığa alınıp kullanılmayan biletin iadesini uçuş yasakları kalktıktan sonraki iki ayın sonrasında hava taşıma işletmesinden alabilir.

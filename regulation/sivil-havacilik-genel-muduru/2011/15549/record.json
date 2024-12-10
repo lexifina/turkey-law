@@ -1,0 +1,53 @@
+{
+  "source_id": "7.5.15549",
+  "kind": "regulation",
+  "register_kind": "Kurum ve Kuruluş Yönetmelikleri",
+  "title": "HAVAYOLU İLE SEYAHAT EDEN YOLCULARIN HAKLARINA DAİR YÖNETMELİK (SHY-YOLCU)",
+  "number": "15549",
+  "issuer": "Sivil Havacılık Genel Müdürü",
+  "issuer_slug": "sivil-havacilik-genel-muduru",
+  "path": "regulation/sivil-havacilik-genel-muduru/2011/15549",
+  "source": "https://www.mevzuat.gov.tr/anasayfa/MevzuatFihristDetayIframe?MevzuatTur=7&MevzuatNo=15549&MevzuatTertip=5",
+  "source_sha256": "8206e9c6315e50c305cdea8608b47741acbeb3516d000eb3b94079b160ec30f4",
+  "source_bytes": 51901,
+  "published": "2011-12-03",
+  "gazette": "28131",
+  "in_force": "2024-12-10",
+  "in_force_basis": "latest Resmî Gazete date printed in the source amendment notes/table (\"RG-10/12/2024\") for the current consolidated text",
+  "date_evidence": [
+    [
+      "2024-12-10",
+      "RG-10/12/2024",
+      "Resmî Gazete date printed in the source amendment note"
+    ],
+    [
+      "2024-12-10",
+      "10/12/2024",
+      "Resmî Gazete date in the source amendment table"
+    ],
+    [
+      "2020-03-25",
+      "RG-25/3/2020",
+      "Resmî Gazete date printed in the source amendment note"
+    ],
+    [
+      "2020-03-25",
+      "25/3/2020",
+      "Resmî Gazete date in the source amendment table"
+    ]
+  ],
+  "commencement_clauses": [
+    "Bu Yönetmelik 1/1/ 2012 tarihinde yürürlüğe girer"
+  ],
+  "history": "current-text",
+  "label": "oldest version available",
+  "checked_on": "2026-11-15",
+  "word_count": 3032,
+  "text_status": "current-consolidated",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  },
+  "completeness": "html-text-complete"
+}

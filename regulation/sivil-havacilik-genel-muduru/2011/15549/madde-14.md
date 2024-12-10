@@ -1,0 +1,4 @@
+Tazminat hakkının yerine getirilmesi
+MADDE 14 – (1) Uçuşu icra eden hava taşıma işletmesi, tazminat ödemesi veya bu Yönetmelik kapsamındaki diğer yükümlülükleri yerine getirmesi durumlarında, bu Yönetmeliğin hiçbir hükmü, uygulanacak kanuna göre, üçüncü şahıslar dahil olmak üzere, herhangi bir kişiden tazminat talep etme hakkını sınırlayıcı biçimde yorumlanamaz.
+(2) Bu Yönetmelik, özellikle, uçuşu icra eden hava taşıma işletmesinin, bir tur operatöründen veya uçuşu icra eden hava taşıma işletmesinin sözleşmesi bulunduğu başka bir kişiden tazminat talep etme hakkını hiçbir şekilde sınırlayamaz.
+(3) Bu Yönetmeliğin hiçbir hükmü, yolcular hariç olmak üzere, uçuşu icra eden hava taşıma işletmesinin sözleşmesi bulunduğu, bir tur operatörünün veya üçüncü bir şahsın uygulanacak ilgili kanunlara göre uçuşu icra eden hava taşıma işletmesinden tediye veya tazminat talep etme hakkını sınırlayıcı şekilde yorumlanamaz.
