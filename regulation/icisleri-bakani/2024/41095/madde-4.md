@@ -1,0 +1,11 @@
+İKİNCİ BÖLÜM
+Uluslararası Acil Yardım Faaliyetleri Ödeneği
+Genel ilkeler
+MADDE 4- (1) Başkanlık bütçesinde tefrik edilen uluslararası acil yardım faaliyetleri ödeneği, bütçesine gider kaydedilmek suretiyle Başkanlık Uluslararası Acil Yardım Özel Hesabına aktarılarak kullanılır.
+(2) Başkanlıkça uygun görülen hallerde, Başkanlık Uluslararası Acil Yardım Özel Hesabından, görevli kurumların uluslararası acil yardım özel hesaplarına bu Yönetmelik kapsamında yürütülecek uluslararası acil yardım faaliyetlerinde kullanılmak üzere aktarma yapılabilir. Görevli kurumlar da Başkanlık Uluslararası Acil Yardım Özel Hesabına aktarma yapabilir.
+(3) Başkanlık Uluslararası Acil Yardım Özel Hesabından aktarılarak görevli kurumların özel hesaplarından mali yıl içerisinde yapılan harcamalar, gerçekleştirilen faaliyetler ve mali yıl sonu itibarıyla özel hesaba ilişkin hesap bilgileri bir sonraki yılın mart ayı sonuna kadar bahse konu kamu kurum ve kuruluşları tarafından Başkanlığa gönderilir.
+(4) Başkanlık Uluslararası Acil Yardım Özel Hesabından ve görevli kurumların uluslararası acil yardım özel hesaplarından yapılan harcamalara ilişkin sarf belgeleri Sayıştay ve ilgili iç denetim birimi denetimine uygun olacak şekilde saklanır.
+(5) Başkanlık Uluslararası Acil Yardım Özel Hesabı ile görevli kurumların uluslararası acil yardım özel hesaplarında kalan tutarlar, kurum bütçeleriyle ilişkilendirilmeksizin bir sonraki yıl hesaplarına devredilir.
+(6) Başkanlık Uluslararası Acil Yardım Özel Hesabından ve görevli kurumların uluslararası acil yardım özel hesaplarına aktarılan tutarlardan kullanım amacı gerçekleştikten sonra kalan tutarlar ile kullanım amacı kalmadığı Başkanlıkça değerlendirilen tutarlar Başkanlık Uluslararası Acil Yardım Özel Hesabına iade edilir ve bu konuda Genel Müdürlüğün idari ve mali işlerini ifa etmekten sorumlu birimine 5 (beş) iş günü içerisinde bilgi verilir.
+(7) Afet ve acil duruma maruz kalan veya insani krizin meydana geldiği ülke için uluslararası acil yardım yapılmasında ilgili ülkenin uluslararası yardım çağrısı yapmış olması ve/veya uluslararası yardımı kabul etmesi ile ilgili ülkeye uluslararası acil yardım yapılması hususunun Dışişleri Bakanlığınca bildirilmesi veya olumlu görülmesi esastır.
+(8) Uluslararası acil yardımlar, kalkınma yardımlarını kapsamaz.

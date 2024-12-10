@@ -1,0 +1,4 @@
+Uluslararası acil yardıma ilişkin ihtiyaçların yurt içinden temin edilmesi
+MADDE 11- (1) Yurt içi alımlarda; 6/3/2011 tarihli ve 27866 sayılı Resmî Gazete’de yayımlanan Afet ve Acil Durum Harcamaları Yönetmeliğinin satın alma yöntemlerine ilişkin hükümleri uygulanır.
+(2) Doğrudan temin yönteminde 4734 sayılı Kanunun 22 nci maddesinin birinci fıkrasının (d) bendinde belirtilen parasal limit ve tutarlar için Kamu İhale Kurumunun ilgili yıl için belirlediği ve Resmî Gazete’de yayımlanan limit ve tutarlar 2,5 (iki buçuk) katı olarak uygulanır.
+(3) Bu Yönetmelik kapsamında Başkanlık tarafından yapılan teminlerde ödeme iş ve işlemleri Genel Müdürlüğün idari ve mali işlerini ifa etmekten sorumlu birimi tarafından, görevli kurumlar tarafından yapılan teminlerde ödeme iş ve işlemleri üst yöneticinin görevlendirdiği birim tarafından yürütülür.

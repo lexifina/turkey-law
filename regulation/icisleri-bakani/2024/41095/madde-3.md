@@ -1,0 +1,23 @@
+Tanımlar
+MADDE 3- (1) Bu Yönetmelikte geçen;
+a) Acil durum: Toplumun tamamının veya belli kesimlerinin normal hayat ve faaliyetlerini durduran veya kesintiye uğratan ve acil müdahaleyi gerektiren olayları ve bu olayların oluşturduğu kriz halini,
+b) Afet: Toplumun tamamı veya belli kesimleri için fiziksel, ekonomik ve sosyal kayıplar doğuran, normal hayatı ve insan faaliyetlerini durduran veya kesintiye uğratan doğal, teknolojik veya insan kaynaklı olayları,
+c) Bakan: İçişleri Bakanını,
+ç) Bakanlık: İçişleri Bakanlığını,
+d) Başkan: Afet ve Acil Durum Yönetimi Başkanını,
+e) Başkanlık: Afet ve Acil Durum Yönetimi Başkanlığını,
+f) Başkanlık Uluslararası Acil Yardım Özel Hesabı: Uluslararası acil yardım faaliyetlerinin ifası amacıyla Başkanlık adına Türkiye Cumhuriyet Merkez Bankası veya muhabiri banka nezdinde açılacak hesabı,
+g) Genel Müdür: Afetlere Müdahale Genel Müdürünü,
+ğ) Genel Müdürlük: Afetlere Müdahale Genel Müdürlüğünü,
+h) Görevli kurum: Başkanlık koordinasyonunda uluslararası acil yardım faaliyetlerinde görev alan kamu kurum ve kuruluşları ile Türkiye Kızılay Derneğini,
+ı) İnsani kriz: Meydana gelen afet ve acil durum sonrasında yaşanan afet ve acil durumun etkilerinin başka etkenlerle birleşmesi sonucunda ortaya çıkan büyük çaplı kriz halini,
+i) Komisyon: Görevli kurumların uluslararası acil yardım komisyonlarını,
+j) Komite: Başkanlık Uluslararası Acil Yardım Komitesini,
+k) Muhasebe birimi: 17/10/2017 tarihli ve 30213 sayılı Resmî Gazete’de yayımlanan Kamu İdarelerine Ait Özel Hesaplara İlişkin İşlemlerin Muhasebeleştirilmesine Dair Yönetmelikte tanımlanan muhasebe birimini,
+l) Uluslararası acil yardım: Yabancı bir ülkede meydana gelen afet ve acil durum sonucunda kaynakların yetersiz kalması nedeniyle, afet ve acil durumdan etkilenen insanlara yönelik arama-kurtarma ve benzeri acil müdahale yardımları ile uluslararası insani yardım kapsamındaki her türlü yardımı,
+m) Uluslararası acil yardım faaliyetleri: Yurt dışında meydana gelen afet ve acil durum veya insani kriz ile benzeri sonuçlar doğuran olaylar sonucunda olumsuz etkilenenler için, uluslararası acil yardım yapılması, yardımların ulaştırılmasının sağlanması, yardımların görünürlüğünün sağlanması ve benzeri faaliyetler ile bu kapsamda yapılacak her türlü faaliyeti,
+n) Uluslararası acil yardım faaliyetleri ödeneği: 5902 sayılı Kanunun 23 üncü maddesine göre Başkanlık bütçesinde tefrik edilen ödeneği,
+o) Uluslararası acil yardım özel hesabı: Görevli kurumlar tarafından Başkanlık Uluslararası Acil Yardım Özel Hesabından aktarılacak kaynaklar için ve uluslararası acil yardım faaliyetlerinin ifası amacıyla kullanılmak üzere açılacak banka hesaplarını,
+ö) Uluslararası insani yardım: Yabancı bir ülkede meydana gelen afet ve acil durum sonucunda kaynakların yetersiz kalması nedeniyle, afet ve acil durumdan etkilenen insanlara yönelik acil gıda, temizlik-hijyen, giyim, acil barınma, tıbbi yardım ve tedavi ve benzeri temel insani ihtiyaçların karşılanması için yapılacak her türlü yardımı,
+p) Üst yönetici: 10/12/2003 tarihli ve 5018 sayılı Kamu Malî Yönetimi ve Kontrol Kanununun 11 inci maddesi kapsamında olan yöneticiyi veya 5018 sayılı Kanun kapsamı dışındaki kurum veya kuruluşun en üst yetkilisini,
+ifade eder.

@@ -1,0 +1,8 @@
+Görevli kurumların uluslararası acil yardım özel hesaplarının kullanımı
+MADDE 9- (1) Uluslararası acil yardım faaliyetlerinde kullanılmak üzere görevli kurum uluslararası acil yardım özel hesabından yapılacak harcamalara ilişkin harcamanın konusunu ve tutarını içeren komisyon kararı üzerine üst yönetici onayı alınır.
+(2) Uluslararası acil yardım faaliyetleri kapsamındaki harcamalar görevli kurumların uluslararası acil yardım özel hesabından yapılır. Görevli kurumların uluslararası acil yardım özel hesaplarının kamu sermayeli bankalar nezdinde açılması esastır. Bu durumun uygulanmasının mümkün olmadığı yurt dışındaki yerlerde ilgili kurumun muhasebe biriminin uygun göreceği banka nezdinde hesap açılır.
+(3) Üst yönetici onayı alınmış olan harcama ve ödemeler komisyon başkanı ile üyelerden birinin ikili imzasıyla gerçekleştirilir.
+(4) Bu madde kapsamında yapılan harcamalara ilişkin evraklar denetime uygun olarak üst yöneticinin görevlendirdiği birim tarafından muhafaza edilir.
+(5) Görevli kurumun üst yöneticisinin harcamalara ilişkin görevlendirdiği birim, uluslararası acil yardım özel hesabının kullanımına yönelik işlemlerde görevli kurumun muhasebe birimiyle gerekli koordinasyonu sağlar.
+(6) Görevli kurumların uluslararası acil yardım özel hesaplarına Başkanlık Uluslararası Acil Yardım Özel Hesabından aktarılan kaynağın kullanılma süresi, uluslararası acil yardım gerektiren olayın meydana gelmesinden itibaren 6 (altı) aydır. Bu süre, gerektiğinde Başkanlıkça resen ya da görevli kurumun talebi üzerine uzatılabilir.
+(7) Aktarılan kaynaklar, talep konusu faaliyet dışında harcanamaz.
