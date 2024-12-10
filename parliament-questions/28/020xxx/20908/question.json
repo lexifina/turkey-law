@@ -1,0 +1,21 @@
+{
+  "record_type": "parliament-written-question",
+  "term": 28,
+  "legislative_year": 3,
+  "esas_no": "7/20908",
+  "submitted": "2024-12-10",
+  "submitted_as": "Başkanlığa geliş tarihi",
+  "mp": "Selçuk ÖZDAĞ",
+  "province": "Muğla",
+  "summary": "Cumhurbaşkanı tarafından yapılan bir konuşma sırasında yaşanan olaylara ilişkin",
+  "status": "Cevaplanmadığı Gelen Kağıtlarda İlan Edildi",
+  "status_as_of": "2026-11-16",
+  "official_record": "https://www.tbmm.gov.tr/Denetim/Yazili-Soru-Onergesi-Detay/6b3be6e1-2d51-41c2-b088-0193b4b91036",
+  "source": "https://tbmm.gov.tr/Denetim/YaziliSoruOnergesiTable",
+  "source_form": "https://tbmm.gov.tr/Denetim/Yazili-Soru-Onergeleri",
+  "source_sha256": "8ca854365c0c3fb0cf0b60842dff43eb788ba7a3cb1ab1b2e5289eafb36671e7",
+  "in_force": "2024-12-10",
+  "in_force_basis": "Date the question reached the Speaker (Başkanlığa geliş tarihi) in the official TBMM written-question record; parliamentary oversight record, not law",
+  "history_type": "metadata",
+  "text_status": "metadata-only: question text, addressee and answers are in the linked official record (PDFs on cdn.tbmm.gov.tr); not transcribed here"
+}
