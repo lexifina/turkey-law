@@ -1,0 +1,4 @@
+Gelirler, ücret ve komisyonlar
+MADDE 35 – (1) MTK’ların verdikleri temel hizmetler kapsamında olan ve bu hizmetlerin tek sunucusu olmaktan kaynaklanan statüsüne dayalı olarak bütün üyelerine uyguladıkları ücret ve komisyonlar ile bunların tahsil zaman ve şekilleri yönetim kurullarının önerisi ve Kurul’un onayı ile yürürlüğe girer.
+(2) MTK’ların temel hizmetlerinden faydalanmak için zorunlu olmayan, bu hizmetlerle ilgili olarak talep eden katılımcılara sunulan diğer hizmetlerden alınan ücretler ise MTK’larca belirlenir ve Kurulun bilgisine sunulur. MTK’lar tarafından verilen eğitim hizmetleri üyelere zorunlu tutulsa dahi bu fıkra kapsamında değerlendirilir.
+(3) Verilen temel veya yan hizmetlerle ilgisi olmayan diğer faaliyetlerden alınan ücretler ise toplu bir şekilde ve ayrıntılı olarak her hesap dönemi sonu itibariyle Kurulun bilgisine sunulur.

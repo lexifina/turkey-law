@@ -1,0 +1,4 @@
+MTK’nın MKT hizmeti vermediği hallerde alınacak teminatlar (Değişik başlık:RG-5/12/2019-30969)
+MADDE 25 – (1) MTK yapılan işlemler sonucunda nezdinde oluşacak yükümlülüklerin yerine getirilmesini sağlamak amacıyla, üyelerden MTK yönetmeliğinde belirlenecek esaslar çerçevesinde teminat talep eder.
+(2) MTK üyelerine işlem, hesap ve işlem görecek araçlar bazında değişik oranlarda teminat ve teminatlandırma yöntemleri uygulanmasına, teminat olarak kabul edilebilecek kıymetlere ve bunların temini, tahsili, tamamlanma süreleri, nemalandırılması ve kullanılmasına ilişkin esaslara MTK yönetmeliğinde yer verilir.
+(3) MTK üyeleri, asgari olarak MTK düzenlemeleri ile belirlenecek oran veya tutarı karşılayacak kadar teminatı müşterilerinden talep etmek zorundadır. Kurul, piyasa koşullarındaki gelişmeleri dikkate alarak, gerektiğinde teminat oranlarına ya da tutarlarına asgari bir sınır getirebilir.

@@ -1,0 +1,4 @@
+Kayıt tutma
+MADDE 35/A – (Ek:RG-5/12/2019-30969)
+(1) MTK; Kurul tarafından bu Yönetmelikte ve ilgili diğer düzenlemelerde yer alan hükümlere uyumunun denetlenmesini ve gözetimini teminen sağladığı tüm hizmet ve yaptığı tüm faaliyetlere ilişkin tüm kayıtları en az 10 yıl süre ile saklar.
+(2) MTK, işlem yaptığı tüm sözleşmelerin orijinal hali dâhil olmak üzere sözleşmeye ilişkin tüm bilgileri, takas sürecinin her bir adımını açıkça ortaya koyacak işlem kayıtlarını, üyeleri ve gerektiğinde müşterilerinin hesap detaylarını ve maruz kalınan riskleri ortaya koyacak pozisyon ve teminat kayıt ve bilgilerini ve veri depolama kuruluşlarına yaptıkları detaylı raporlama kayıtlarını en az 10 yıl süre ile saklar. Söz konusu bilgi; MTK tarafından takasın gerçekleştirilmesinden önce asgari olarak ilgili işlemin asıl koşul ve şartlarının belirlenmesini sağlayacak nitelikte olmalıdır.

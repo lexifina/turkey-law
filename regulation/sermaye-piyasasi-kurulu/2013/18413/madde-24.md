@@ -1,0 +1,4 @@
+Takas esasları ve takas sistemi
+MADDE 24 – (1) Takas sistemine ilişkin esaslar MTK Yönetmeliği ile düzenlenir. Söz konusu Yönetmelikte takas prensipleri her bir araç, borsa ve teşkilatlanmış diğer pazar yeri bazında veya piyasalar gibi ayrım kriterleri çerçevesinde ayrı ayrı belirlenebilir.
+(2) Gerçekleştirilen işlemlere ilişkin yükümlülüklerin zamanında ve tam olarak yerine getirilmesi ile temerrüt hali, alınacak önlemler, uygulanacak yaptırımlar ve temerrüt halinin giderilmesine ilişkin usul ve esaslar MTK Yönetmeliği ile düzenlenir.
+(3) MTK; MTK Yönetmeliğinde tanımlayacağı durumlar için mahsup işlemi yapılmadan takas yükümlülüklerinin yerine getirilmesini istemek, alım emirlerinde emrin gerçekleştirilmesi için gerekli nakdin, satım emirlerinde ise satışa konu sermaye piyasası aracının belirli bir kısmının veya tamamının emrin gerçekleştirilmesini beklemeden depo edilmesini istemek gibi tedbirleri öngörebilir.

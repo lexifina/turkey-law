@@ -1,0 +1,3 @@
+MKT hizmetinde MTK’ların mali sorumluluğu (Değişik başlık:RG-5/12/2019-30969)
+MADDE 31 – (1) Takas kuruluşlarının (Değişik ibare:RG-5/12/2019-30969) MKT görevini üstlendiği takas işlemlerinde mali sorumluluğu, tesis edilecek limitler dâhilinde ve üyelerden alınacak teminatlar ile diğer garantiler çerçevesinde belirlenir.
+(2) Yükümlülüklerin yerine getirilmesi merkezi takas kuruluşunun özsermayesinde bir azalmaya neden olmuşsa, durum gerekçeleriyle birlikte aynı gün içinde Kurula bildirilir. MTK mali durumunu eski düzeyine getirmek için sermaye artırımı dâhil gereken her türlü tedbiri ivedilikle alır. Gerekli özsermaye tutarı yeniden tesis edilene kadar, MTK, Türkiye Muhasebe Standartlarına göre hazırlayacağı özsermaye değişim tablosunu haftalık olarak Kurula gönderir.

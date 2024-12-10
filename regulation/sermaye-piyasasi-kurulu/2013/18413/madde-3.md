@@ -1,0 +1,2 @@
+Dayanak
+MADDE 3 – (1) Bu Yönetmelik, 6/12/2012 tarihli ve 6362 sayılı Sermaye Piyasası Kanununun 77 ve 78 inci maddelerine dayanılarak hazırlanmıştır.

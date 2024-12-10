@@ -1,0 +1,5 @@
+Tanınmanın genişletilmesi
+MADDE 30/D – (Ek:RG-5/12/2019-30969)
+(1) Türkiye’de MKT olarak tanınması sonrasında, ilk faaliyet iznine dâhil edilmemiş olan ve Türkiye’de yeni bir tezgahüstü türev araçta MKT olarak hizmet vermek isteyen yabancı MTK, tanınmanın genişletilmesi için izin almak üzere Kurula başvurur. Kurul tarafından tanınması sırasında Kurulca izin verilen hizmetler dışında herhangi bir hizmet verilmesi de tanınmanın genişletilmesi kapsamında değerlendirilir. Kurul; tanınmanın genişletilmesi başvurusunu; MKT olarak tanınan yabancı MTK’nın büyüklüğü, sistemik önemi, yapısı, ölçüsü ve benzeri özelliklerini göz önünde bulundurmak ve yerine getirilecek yeni faaliyetin söz konusu MTK’nın var olan faaliyetleri üzerindeki etkisini değerlendirmek suretiyle karar vermeye yetkilidir.
+(2) Kurul; yabancı MTK’nın tanınmanın genişletilmesi başvurusunu reddetmeye yetkilidir.
+(3) Yabancı MKT’ların tanınmanın genişletilmesi başvuruları 30/Ç maddesinin birinci ve ikinci fıkraları haricindeki diğer hükümleri kapsamında değerlendirilir.

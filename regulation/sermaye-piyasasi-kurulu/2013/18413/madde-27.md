@@ -1,0 +1,2 @@
+Teminatlar ve garanti fonundaki varlıkların korunması
+MADDE 27 – (1) Borsalar ve MTK’lar nezdinde Kurulca yapılan düzenlemeler uyarınca takas risklerinin önlenmesi amacıyla tutulan teminatlar ve oluşturulan garanti fonundaki varlıklar, amaçları dışında kullanılamaz, kamu alacakları için olsa dahi haczedilemez, rehnedilemez, idarî mercilerin tasfiye kararlarından etkilenmez, iflas masasına dâhil edilemez ve üzerlerine ihtiyatî tedbir konulamaz.

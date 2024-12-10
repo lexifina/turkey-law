@@ -1,0 +1,7 @@
+Genel müdür ve genel müdür yardımcıları
+MADDE 15 – (Başlığı ile Birlikte Değişik:RG-5/12/2019-30969)
+(1) Genel müdür ve genel müdür yardımcıları ilgili mevzuat ve yönetim kurulu kararları doğrultusunda kendilerine bırakılmış ve devredilmiş yönetim ve temsile ilişkin işleri yürütür.
+(2) Genel müdür ve genel müdür yardımcılarının yükseköğrenim sonrası malî piyasalar, ekonomi, maliye, işletme, sermaye piyasaları, bankacılık, bilişim veya finans alanında en az on yıl deneyim sahibi olması zorunludur.
+(3) Genel müdür ve genel müdür yardımcılarının münhasıran bu görev için atanmış olması zorunludur.
+(4) Genel müdür ve genel müdür yardımcıları, MTK’nın yönetim, denetim veya sermaye ilişkisinde bulunduğu kuruluşlar, bu kuruluşların doğrudan ya da dolaylı olarak yönetim, sermaye veya denetim kontrolüne sahip olduğu kuruluşlar ile borsalar ve teşkilatlanmış piyasalar, takas ve saklama kuruluşları ve Kurulca uygun görülecek diğer finansal kuruluşlarda, icrai nitelikte olmamak ve MTK’daki görevin ifasında zafiyete düşülmemesi kaydıyla, yönetim kurulu başkanlığı ve üyeliği gibi görevler alabilir.
+(5) Genel müdür ve genel müdür yardımcılığına atanacakların ikinci fıkrada ve 7 nci maddede aranan şartları taşıdıklarını gösteren belgelerle birlikte Kurula bildirilmesi şarttır. Genel müdürün atanması, Kurul tarafından bildirimin tebellüğ edildiği tarihten itibaren 15 işgünü içinde olumsuz bir görüş bildirilmediği takdirde yapılabilir.
