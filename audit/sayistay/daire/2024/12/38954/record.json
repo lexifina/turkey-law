@@ -1,0 +1,17 @@
+{
+  "kind": "decision",
+  "issuer": "Sayıştay 3. Dairesi",
+  "number": "514",
+  "decision_date": "2024-12-10",
+  "source_id": 38954,
+  "chamber": "3",
+  "ilam_number": "28",
+  "item_number": 1,
+  "public_body_type": "Belediyeler ve Bağlı İdareler",
+  "account_year": 2023,
+  "subject": "İhale Mevzuatı ile İlgili Kararlar",
+  "source": "https://www.sayistay.gov.tr/KararlarDaire/Detay/38954/",
+  "source_sha256": "f7897763351443dd7c8fa274056059267a3d04c42d7a3644964e29c8c6603a09",
+  "text_status": "as-enacted",
+  "text_file": "metin.md"
+}
