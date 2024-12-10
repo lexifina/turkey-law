@@ -1,0 +1,2 @@
+Tebliğ ve savunma istemi
+MADDE 6- (1) Disiplin soruşturması başlatılması halinde, eczacılardan konuyla ilgili ve gerekçesi belirtilmek koşuluyla tebliğden itibaren en az on beş gün süre verilerek savunması ve varsa delillerini bildirmesi istenir. Eczacının sözlü savunma yapmak istemesi halinde Yönetim Kurulunun toplantı halinde bulunacağı gün ve saat kendisine bildirilir. Sözlü savunma yapılması halinde bu durum bir tutanak ile kayıt altına alınır. Herhangi bir yazılı veya sözlü savunma yapılmaması halinde mevcut bilgi ve belgelere göre işlem tesis edilir.

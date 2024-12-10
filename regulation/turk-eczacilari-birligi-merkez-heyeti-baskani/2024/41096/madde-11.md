@@ -1,0 +1,5 @@
+Üyelerinin reddi
+MADDE 11- (1) Haysiyet Divanı üyelerinin tarafsızlıklarını şüpheye düşürecek bir durumun varlığı halinde reddolunabilirler. Red talebinde bulunan üye, iddiasını delilleriyle birlikte bildirmeye mecburdur. Bu takdirde reddolunan üyenin yeri yedek üye ile doldurulur. Başkan ve vekilinin birlikte reddi halinde gizli oyla geçici bir başkan seçilmek suretiyle red talebi incelenir.
+(2) Red talebi kabul edilmediği takdirde, talebin reddine karar verilmekle beraber, ayrıca red talebinde bulunan üye hakkında karar tarihinde yürürlükte olan yıllık aidatın dört katından on katına kadar para cezası ödenmesine karar verilir.
+(3) Reddedilenlerin çokluğu dolayısıyla Haysiyet Divanının yedeklerle dahi teşkiline imkan görülmezse red talebi en yakın Eczacı Odası Haysiyet Divanında incelenir. Birinci ve ikinci fıkra hükümleri bu takdirde aynen tatbik olunur.
+(4) Red talebinin reddi hakkındaki kararlara karşı disiplin soruşturmasına konu dosya ile birlikte Yüksek Haysiyet Divanına itiraz olunabilir.

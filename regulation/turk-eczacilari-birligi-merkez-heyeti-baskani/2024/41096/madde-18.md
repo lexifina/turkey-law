@@ -1,0 +1,6 @@
+DÖRDÜNCÜ BÖLÜM
+Çeşitli ve Son Hükümler
+Yüksek Haysiyet Divanı toplantıları
+MADDE 18- (1) Yüksek Haysiyet Divanında görüşülecek dosya ile ilgili olarak eczacıdan tebliğden itibaren en az on beş gün süre verilerek savunması ve varsa delillerini bildirmesi istenir. Savunma yazılı ve/veya sözlü olarak yapılabilir. Eczacının sözlü savunma yapmak istemesi halinde Yüksek Haysiyet Divanının toplantı halinde bulunacağı gün ve saat kendisine bildirilir. Savunma alınmadan ceza verilemez. Sözlü savunma yapılması halinde bu durum bir tutanak ile kayıt altına alınır. Hakkındaki iddia ve tespitleri içeren savunma isteme yazısının kendisine tebliğinden itibaren on beş gün içinde geçerli mazereti olmaksızın yazılı veya kendisine bildirilen günde sözlü savunma vermeyen üye, savunma hakkından vazgeçmiş sayılır. Herhangi bir yazılı veya sözlü savunma verilmemesi halinde mevcut bilgi ve belgelere göre karar verilir.
+(2) Yüksek Haysiyet Divanı, Haysiyet Divan tarafından gelen evrakı ve kararları inceledikten sonra uygun gördüğü takdirde ya aynen veya tadilen kabul ve tasdik eder. Mahallince verilen kararları uygun bulmazsa bu husustaki mütalaasıyla birlikte dosyaları ilgili Haysiyet Divanına iade eder.
+(3) Yüksek Haysiyet Divanının tadilen onama yetkisi cezayı artırarak onamayı da kapsar.
