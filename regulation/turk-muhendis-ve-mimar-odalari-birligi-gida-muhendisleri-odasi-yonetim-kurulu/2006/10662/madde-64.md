@@ -1,0 +1,4 @@
+Olağanüstü şube genel kurulu
+MADDE 64 – (Değişik:RG-22/11/2012-28475)
+(1) Şube genel kurulu, şube yönetim kurulunun gerekçeli kararıyla veya şubeye kayıtlı üyelerin beşte birinin Odaya yazılı başvurusu durumunda veya Oda Denetleme Kurulunun şube mali işleriyle ilgili olarak zorunlu görmeleri ve oy birliği ile karar verilmesi durumunda; Oda Yönetim Kurulunun kararı ile bir ay içerisinde olağanüstü toplanır. Olağanüstü toplantılarda Genel Kurul gündemi sadece toplantıya çağırılış nedenidir. Gündemde başka konuların görüşülmesi önerisi yapılamaz ve bu yönde karar alınamaz.
+(2) Şube yönetim kurulunu oluşturan üyelerin tümünün ve yedeklerden en az birinin birlikte çekilmesi, ayrılan üyelerin yerine geçecek yedek kalmaması veya Şube Yönetim Kurulunun herhangi bir nedenle, yapılması gereken Olağanüstü Genel Kurulu yapamaması durumunda; toplantı, Oda Yönetim Kurulunca yapılır.

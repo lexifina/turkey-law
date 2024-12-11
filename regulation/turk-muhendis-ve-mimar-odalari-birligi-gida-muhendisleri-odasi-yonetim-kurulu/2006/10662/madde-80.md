@@ -1,0 +1,2 @@
+Delegelerin masraflarının karşılanması
+MADDE 80 – (1) Oda Genel Kuruluna, Oda Danışma Kuruluna, TMMOB Danışma Kuruluna ve TMMOB Genel Kuruluna katılacak olanların, iaşe ve ibate giderleri Oda bütçesinin ilgili bölümlerinden karşılanır. Toplantının yapıldığı ilin belediye sınırları içinde oturanlara yolluk ödenmez. Toplantının yapıldığı il dışından gelerek toplantıya katılan delegelere, geldikleri iller dikkate alınarak, Oda Yönetim Kurulunca saptanacak miktarlarda yolluk ödenebilir.

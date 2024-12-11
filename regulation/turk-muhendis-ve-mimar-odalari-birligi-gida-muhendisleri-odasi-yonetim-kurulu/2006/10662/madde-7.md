@@ -1,0 +1,20 @@
+Odanın amaçları
+MADDE 7 – (1) Odanın amaçları şunlardır:
+a) Ülke, toplum ve üyelerin yararları doğrultusunda, yurdun doğal kaynaklarının işletilmesini, üretimin ve kalitenin arttırılmasını, gıda sanayinin ulusal çıkarlara uygun yönde gerçekleşmesini ve mesleğin gelişmesini sağlamak amacıyla gerekli inceleme ve araştırmaları yapmak ve önerilerde bulunmak,
+b) Meslek, ülke ve üye çıkarlarını korumak için resmi makamlar ve özel kuruluşlarla işbirliği yapmak, önerilerde ve girişimlerde bulunmak, gerektiğinde çalışma alanına ilişkin olarak yasal yollara başvurmak,
+c) Oda etkinliklerini ilgilendiren kanun, tüzük ve yönetmeliklerin hazırlanması, değiştirilmesi konusunda Birliğe ve resmi makamlara önerilerde bulunmak,
+ç) (Değişik:RG-14/04/2007-26493) Meslekle ilgili standartları, normları, teknik şartnameleri, sözleşme tiplerini, ihale dosyaları, proje, etüt, fizibilite işleri incelemek ve onaylamak; bilirkişilik, ekspertiz ve kapasite raporları gibi teknik ve benzeri tüm bilimsel evrakı hazırlamak, hazırlatmak, incelemek ve bunları onaylamak, bu konularda başka kurum ve kuruluşlarla işbirliği yapmak, üyelerce ve diğer kuruluşlarca hazırlanmış olanları incelemek, geliştirmek, değişiklikler yapmak, uygulanmasını denetlemek ve yenilerinin oluşturulması yolunda ülke ve toplum yararına çalışmalar yapmak,
+d) Oda uzmanlık alanlarına giren konularda üyelerine, gerçek ve tüzel kişilere yönelik eğitim hizmetleri sunmak, kurslar, ulusal ve uluslararası fuarlar, seminerler, kongreler, sergiler ve benzeri etkinlikler düzenlemek, katılanlara sertifika vermek,
+e) Her türlü bilimsel ve mesleki yayınlar yapmak,
+f) Bilirkişilik hizmeti yapacak üyeleri belirleyerek, ilgili resmi ve özel kuruluşlara bildirmek,
+g) Meslek alanındaki gelişme ve yenilikleri izlemek ve yaymak, bu amaçla yurt içi ve dışındaki meslek kuruluşları ile ilişki kurmak, ortak çalışmalar yapmak, yurt içi ve dışında gıda mühendisliğini ve gıda mühendislerini temsil etmek,
+ğ) Gıda mühendisliği eğitimi veren kuruluşlarla işbirliği yaparak meslek elemanlarının eğitimleri konusunda öneri ve yardımlarda bulunmak,
+h) Üyelerin meslek çalışmalarında uymak zorunda oldukları kuralları saptamak, mesleki denetimi sağlamak üzere yönetmelikler hazırlamak,
+ı) Üniversiteler ile gıda sanayi arasında işbirliği sağlamak ve bu konuda etkinlikler düzenleyerek ortak çalışmalarda bulunmak,
+i) Üyelerin iş güvenliği ve sosyal güvenliğinin sağlanması, demokratik hak ve özgürlüklerinin korunması için girişimlerde bulunmak, üyeler arasında dayanışmayı sağlamak ve üyelerin mesleki onurunun ve saygınlığının korunması için gereken önlemleri almak, aykırı davranışları izleyerek gerekli disiplin uygulamalarını yapmak,
+j) Üyelerin mesleki ve üyelik özgeçmişleri ile ilgili bilgileri toplayıp korumak,
+k) TMMOB’nin çalışmalarına katılarak, Odayı ilgilendiren amaçlarının gerçekleşmesini sağlamak,
+l) Üyelerin iş ve toplumsal güvenliklerini sağlayıcı çalışmalar yapmak, gerekli önlemleri almak ve kişisel özelliklerine göre istihdam süreçlerine katkıda bulunmak ve gıda mühendislerinin asgari ücretlerini belirleyerek yayımlamak,
+m) Toplumun gıda güvencesini ve güvenli gıdaya erişmesini sağlamak üzere her türlü girişimde bulunmak, çalışma yapmak ve politikalara yön vermek,
+n) Toplumun bilinçli gıda tüketimi konusunda bilgilendirilmesi ve eğitimi için her türlü çalışmayı yapmak,
+o) Gıda sanayi ürünlerinin üretiminde kalite anlayışının gelişmesini sağlamak amacıyla her türlü girişimde bulunmak, bu amaçla yapılacak çalışmaları yönlendirmek ve kontrol etmek, tüketicilerin korunmasına yönelik her türlü girişimde bulunmak.

@@ -1,0 +1,2 @@
+Geçici olarak meslekten men
+MADDE 46 – (1) Geçici olarak mesleği uygulamaktan uzaklaştırılanlar, bu süre içinde hiçbir biçimde mesleksel etkinlikte bulunamaz, mesleklerini uygulamak için imza kullanamazlar. Aksine davranılırsa, uygulanan ceza bir kat artırılır. Aksine davranışta ısrar edenler hakkında bu Yönetmeliğin 43 üncü maddesinin birinci fıkrasının (d) bendindeki ceza uygulanır. Verilen kararlar, uygun bir biçimde ilgili kişiye duyurulur ve uygulanmasını sağlamak üzere, ilgililere bildirilir. Kesinleşen cezalar üyenin siciline işlenir.

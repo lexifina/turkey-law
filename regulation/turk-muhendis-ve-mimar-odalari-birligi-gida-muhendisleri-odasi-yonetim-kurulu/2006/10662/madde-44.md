@@ -1,0 +1,2 @@
+Onur kurulu kararlarına itiraz edilmesi
+MADDE 44 – (1) Bu Yönetmeliğin 43 üncü maddesinin birinci fıkrasının (a) ve (b) bentlerindeki cezalar kesindir; (c), (ç) ve (d) bentlerindeki cezalara karşı, kararın bildirim tarihinden başlayarak on beş gün içinde Oda Yönetim Kurulu yoluyla veya doğrudan Yüksek Onur Kuruluna itiraz edilebilir. (c), (ç) ve (d) bentlerindeki cezaların uygulanması için kesinleşmesi gerekir. Oda Yönetim Kurulu da, Onur Kurulunun aklanma veya takipsizlik kararlarına karşı, Yüksek Onur Kurulu nezdinde itirazda bulunabilir.

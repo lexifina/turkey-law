@@ -1,0 +1,2 @@
+Oda yönetim kurulu
+MADDE 27 – (1) Oda Yönetim Kurulu, Oda Genel Kurulunca iki yıl için seçilen yedi asıl ve yedi yedek üyeden oluşur. Asıl ve yedek üyelerin sıralanmasında, aldıkları oy esas alınır, alınan oyların eşitliği durumunda, oda sicil numarası küçük olana öncelik verilir. Seçim amacıyla yapılan Olağanüstü Oda Genel Kurulunda seçilen Yönetim Kurulu Üyeleri, yapılacak ilk Olağan Genel Kurul toplantısına kadar görevde kalırlar.

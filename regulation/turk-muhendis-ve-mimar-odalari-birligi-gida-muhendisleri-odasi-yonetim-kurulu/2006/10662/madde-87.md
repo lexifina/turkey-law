@@ -1,0 +1,2 @@
+Oda hizmetlerinin yürütülmesi
+MADDE 87 – (1) Odanın hizmetleri, her türlü iş ve işlemleri Yönetim Kurulu veya görevlendireceği yetkililerce atanan genel sekreter, büro şefi, müdür, danışman, memur ve hizmetliler tarafından yürütülür. Bunların atanmaları, özlük hakları, mali ve sosyal hakları, disiplin işlemleri, görev ve yetkileri, hiyerarşik düzen ve benzeri konular, alt düzenleyici işlemlerle düzenlenir.

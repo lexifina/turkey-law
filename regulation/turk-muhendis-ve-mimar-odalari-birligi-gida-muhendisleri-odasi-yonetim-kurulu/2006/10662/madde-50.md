@@ -1,0 +1,3 @@
+Oda danışma kurulu
+MADDE 50 – (1) (Değişik:RG-22/11/2012-28475) Oda Danışma Kurulu; Oda Yönetim Kurulu asil ve yedek üyeleri, Denetleme Kurulu asıl ve yedek üyeleri, Oda Onur Kurulu asıl ve yedek üyeleri, TMMOB organlarında Oda adına görev alan asıl ve yedek üyeler, şube yönetim kurulları asıl ve yedek üyeleri ve il/ilçe temsilci ve temsilci yardımcılarından oluşur. Danışma Kurulunun gündeminin gerektirdiği durumlarda veya şubelerin istemleri doğrultusunda, Oda alt birimleri ve uzman gruplarından temsilciler de Oda Yönetim Kurulunca Danışma Kuruluna çağırılabilir.
+(2) Oda Danışma Kurulu, Oda Yönetim Kurulunca yılda en az iki kez toplantıya çağrılır.

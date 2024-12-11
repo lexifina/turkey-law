@@ -1,0 +1,4 @@
+Üyelerin adres değişikliği
+MADDE 55 – (Değişik:RG-22/11/2012-28475)
+(1) Üyeler, iş ve ev adreslerini bulundukları şube ya da il/ilçe temsilciliğine bildirmekle yükümlüdür. Üyeler, başka bir şubenin ya da il/ilçe temsilciliğinin alanına girmelerine neden olan veya aynı il içindeki işyeri ve oturma adresi değişikliklerini, bir ay içerisinde Genel Merkez, ilgili şube başkanlığı veya il/ilçe temsilciliğine bildirmek zorundadır.
+(2) Şube genel kuruluna; toplantı tarihinden kırk beş gün önce, şubenin bulunduğu ilde oturdukları veya çalıştıkları belli olan üyeler ile Odaya veya Şubeye başvurup, Şubenin bulunduğu ilde çalıştığını veya oturduğunu belgeleyen üyeler katılabilir. Bu tarihten sonra işyerlerini veya evlerini, söz konusu ile taşıyan üyeler ile yeni kaydolmuş üyeler, şube genel kuruluna katılamaz. Üyelerin oturma ve çalışma yerlerinin ayrı şubelerin bulunduğu ilde olması durumunda, işyeri adresi esas alınır.
