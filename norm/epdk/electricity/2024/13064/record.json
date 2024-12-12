@@ -1,0 +1,25 @@
+{
+  "kind": "norm",
+  "issuer": "Enerji Piyasası Düzenleme Kurumu",
+  "market": "electricity",
+  "document_type": "board-decision",
+  "number": "13064",
+  "decision_date": "2024-12-12",
+  "title": "2025 yılı için Lisans sahibi bir tüzel kişinin bir takvim yılı içerisinde lisansına kayıtlı olan yıllık elektrik enerjisi üretim miktarının piyasada satabileceği oranı",
+  "resmi_gazete_date": "2024-12-17",
+  "resmi_gazete_number": "32755",
+  "categories": [
+    "Lisansa Kayıtlı Olan Yıllık Elektrik Enerjisi Üretim Miktarının Piyasada Satılabileceği Oranına İlişkin Kurul Kararları"
+  ],
+  "source": "https://www.epdk.gov.tr/Detay/DownloadDocument?id=D9jNRWg3S98=",
+  "documents": [
+    "https://www.epdk.gov.tr/Detay/DownloadDocument?id=D9jNRWg3S98="
+  ],
+  "source_sha256": "62eb0ef59a17fc3decd978c1a5ead8b75e4187667a076c1a788ad0fb9ec6641f",
+  "official_list": "https://www.epdk.gov.tr/Detay/Icerik/3-0-39/kurul-kararlari-",
+  "official_list_leaf": 33878,
+  "text_status": "as-enacted",
+  "text_file": "metin.md",
+  "in_force": "2024-12-12",
+  "law_text_complete": true
+}
