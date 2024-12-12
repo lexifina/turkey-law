@@ -1,0 +1,17 @@
+{
+  "kind": "decision",
+  "issuer": "Sayıştay 6. Dairesi",
+  "number": "957",
+  "decision_date": "2024-12-12",
+  "source_id": 38910,
+  "chamber": "6",
+  "ilam_number": "19",
+  "item_number": 1,
+  "public_body_type": "Belediyeler ve Bağlı İdareler",
+  "account_year": 2023,
+  "subject": "Çeşitli Konuları İlgilendiren Kararlar",
+  "source": "https://www.sayistay.gov.tr/KararlarDaire/Detay/38910/",
+  "source_sha256": "e2ec24a7bfa616edb8afcb10c993529d675b846703ed0a40888e9465569a04ce",
+  "text_status": "as-enacted",
+  "text_file": "metin.md"
+}
