@@ -1,0 +1,3 @@
+Mevcut önlem
+MADDE 6- (1) 26/7/2014 tarihli ve 29072 sayılı Resmî Gazete’de yayımlanan İthalatta Haksız Rekabetin Önlemesine İlişkin Tebliğ (Tebliğ No: 2014/25) uyarınca, ÇHC menşeli “kalınlığı 0,2 mm’yi geçmeyen, haddelenmiş fakat daha ileri bir işleme tutulmamış alüminyumdan mesnetsiz yapraklar ve şeritler” ve “diğerleri” için CIF bedelin %22’si oranında dampinge karşı önlem yürürlüğe konulmuştur.
+(2) 4/1/2020 tarihli ve 30998 sayılı Resmî Gazete’de yayımlanan İthalatta Haksız Rekabetin Önlenmesine İlişkin Tebliğ (Tebliğ No: 2019/34) ile tamamlanmış NGGS sonucunda önlemin CIF bedelin %22’si oranında uygulanmaya devam edilmesine karar verilmiştir.
