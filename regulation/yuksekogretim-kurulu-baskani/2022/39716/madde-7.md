@@ -1,0 +1,2 @@
+Engelliler için ayrılmış salonda sınava alınma
+MADDE 7- (1) ESKR veya ÇÖZGER’de, Ek-3’teki tanıları, engellilik düzeyleri ve Sağlık Bakanlığı ICD-10- TRM Hastalık ve Sağlık Girişimi Sınıflandırma kodları yer alan engelli aday veya öğrenciler, talep etmeleri durumunda diğer adaylardan farklı olarak engelli salonunda sınava alınabilirler. Bu kişilere sınav süresince engellilik, hastalık veya diğer sağlık durumu göz önünde bulundurularak gerektiğinde şeker düzeyini ölçme, astım ilacını kullanma, oksijen tedavisi alma veya tuvalete çıkma gibi durumlar için izin verilir.

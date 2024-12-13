@@ -1,0 +1,81 @@
+{
+  "source_id": "7.5.39716",
+  "kind": "regulation",
+  "register_kind": "Kurum ve Kuruluş Yönetmelikleri",
+  "title": "ENGELLİ BİREYLERE YÖNELİK SINAV UYGULAMALARINDA VE ENGELLİ KONTENJANINDA ARANACAK SAĞLIK ŞARTLARINA DAİR YÖNETMELİK",
+  "number": "39716",
+  "issuer": "Yükseköğretim Kurulu Başkanı",
+  "issuer_slug": "yuksekogretim-kurulu-baskani",
+  "path": "regulation/yuksekogretim-kurulu-baskani/2022/39716",
+  "source": "https://www.mevzuat.gov.tr/anasayfa/MevzuatFihristDetayIframe?MevzuatTur=7&MevzuatNo=39716&MevzuatTertip=5",
+  "source_sha256": "212d7a9223d2ba7346770b13b9d273cbe59b9760537af4ebc68a0f050ec527d1",
+  "source_bytes": 51723,
+  "published": "2022-03-08",
+  "gazette": "31772",
+  "in_force": "2024-12-13",
+  "in_force_basis": "latest Resmî Gazete date printed in the source amendment notes/table (\"RG-13/12/2024\") for the current consolidated text",
+  "date_evidence": [
+    [
+      "2024-12-13",
+      "RG-13/12/2024",
+      "Resmî Gazete date printed in the source amendment note"
+    ],
+    [
+      "2024-12-13",
+      "13/12/2024",
+      "Resmî Gazete date in the source amendment table"
+    ],
+    [
+      "2024-02-01",
+      "RG-1/2/2024",
+      "Resmî Gazete date printed in the source amendment note"
+    ],
+    [
+      "2024-02-01",
+      "1/2/2024",
+      "Resmî Gazete date in the source amendment table"
+    ],
+    [
+      "2023-05-12",
+      "12/5/2023",
+      "Resmî Gazete date in the source amendment table"
+    ],
+    [
+      "2023-03-24",
+      "RG-24/3/2023",
+      "Resmî Gazete date printed in the source amendment note"
+    ],
+    [
+      "2023-03-24",
+      "24/3/2023",
+      "Resmî Gazete date in the source amendment table"
+    ],
+    [
+      "2022-10-13",
+      "RG-13/10/2022",
+      "Resmî Gazete date printed in the source amendment note"
+    ],
+    [
+      "2022-10-13",
+      "13/10/2022",
+      "Resmî Gazete date in the source amendment table"
+    ]
+  ],
+  "commencement_clauses": [
+    "Bu Yönetmelik 2022-2023 eğitim-öğretim yılı başında yürürlüğe girer"
+  ],
+  "history": "current-text",
+  "label": "oldest version available",
+  "checked_on": "2026-11-15",
+  "word_count": 2468,
+  "text_status": "current-consolidated",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  },
+  "source_links": [
+    "7.5.39716-ek.docx"
+  ],
+  "completeness": "html-text-complete; linked annexes not fetched"
+}

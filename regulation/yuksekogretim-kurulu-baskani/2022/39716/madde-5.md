@@ -1,0 +1,4 @@
+Okuyucu ve/veya işaretleyici veya büyük puntolu soru kitapçığı yardımı
+MADDE 5- (1) ESKR veya ÇÖZGER’de, Ek-1’deki Sağlık Bakanlığı ICD-10- TRM Hastalık ve Sağlık Girişimi Sınıflandırma kodları yer alan engelli aday veya öğrenciler, talep etmeleri durumunda okuyucu ve/veya işaretleyici yardımı alabilirler.
+(2) Okuyucu yardımı alan görme engelli bireylerin sınav kitapçığına bakmasına izin verilmez. İşaretleyici yardımı alan bireylerin kendilerinin işaretleme yapmalarına izin verilmez.
+(3) Bu madde kapsamında yer alan tanıları ve engel düzeyleri bulunan okuyucu yardımı alma hakkına sahip görme engelli aday veya öğrenciler, bunun yerine talepleri halinde büyük puntolu soru kitapçığı uygulamasından yararlanabilirler. Büyük puntolu soru kitapçığı uygulamasından yararlananlara ayrıca okuyucu yardımı verilmez.

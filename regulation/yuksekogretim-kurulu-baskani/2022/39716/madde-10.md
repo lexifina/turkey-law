@@ -1,0 +1,2 @@
+Bilgisayar destekli sınav
+MADDE 10- (1) İşitme engelliler için işaret dilinde hazırlanacak olan sınavlar veya düzeltilmiş engeli en az %40 ve üzerinde görme engelliler için sesli program yüklü bilgisayarlarla yapılacak sınav düzenlemeleri ile bu sınav uygulamalarından yararlanabilecek aday veya öğrencilerin belirlenmesine yönelik hususlarda sınavı yapan kurumun ilgili kurulları karar verir. Görme engellilerin sınavlarda sesli okuyucu kullanması için gerekli tedbirler sınavı yapan kurum tarafından alınır.
