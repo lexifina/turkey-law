@@ -1,0 +1,3 @@
+Mevcutların uyumu
+GEÇİCİ MADDE 1- (1) Bu Yönetmeliğin yayımı tarihinden önce faaliyette olan gebe okulları ile gebe bilgilendirme sınıfı/doğuma hazırlık ve danışmanlık merkezi adı altında açılan birimlerin bu Yönetmeliğin yayımı tarihinden itibaren üç ay içinde tescil işlemlerini tamamlamaları zorunludur.
+(2) Kadın hastalıkları ve doğum uzmanlık dalında faaliyet gösteren; Bakanlığa bağlı hastaneler, üniversite hastaneleri ve özel hastaneler ile tıp merkezlerinden bu Yönetmeliğin yayımı tarihi itibarıyla bünyesinde gebe okulu bulunmayanların, bu Yönetmeliğin yayımı tarihinden itibaren altı ay içerisinde gebe okulu kurması zorunludur.

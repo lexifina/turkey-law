@@ -1,0 +1,11 @@
+Gebe okullarının fiziki şartları
+MADDE 7- (1) Gebe okulları; eğitim odası, kayıt, bekleme, dinlenme ve danışma alanları ile fiziki şartların uygun olduğu hallerde aktivite ve egzersiz odasından oluşur.
+(2) Eğitim odası, en az 8 katılımcının sığabileceği büyüklükte ve her katılımcı için asgari 1,5 m² olacak şekilde gebelere uygun koltuk/minderlerin bulunduğu, pencereli, doğal ışık, elektrik, aydınlanma, havalandırma ve diğer teknik donanım açısından yeterli ihtiyaçlara yanıt verecek şekilde mahremiyet kurallarına uygun ve radyasyon kullanılan birimlerden uzak olarak düzenlenir. Eğitim odası olarak kullanılacak odanın ortak kullanım alanı olmaması ve diğer odalardan bağımsız olması gerekir.
+(3) Fiziksel şartlar mümkün olduğu takdirde ayrı bir aktivite ve egzersiz odası düzenlenir. Fiziksel şartların mümkün olmadığı hallerde eğitim odası ile aynı alanda düzenlenecek aktivite ve egzersiz alanı, odada eğitim alanı için ayrılan alana ek olarak planlanır. Aktivite ve egzersiz odası; pencereli, doğal ışık, elektrik, aydınlanma, havalandırma ve diğer teknik donanım açısından yeterli ihtiyaçlara yanıt verecek şekilde mahremiyet kurallarına uygun ve radyasyon kullanılan birimlerden uzak olarak düzenlenir.
+(4) Kayıt, bekleme ve dinlenme alanı; gebe adayı, gebe ve gebe yakınlarının karşılanarak kayıt işlemlerinin yapılabileceği, bu kişilerin bekleyebileceği ve dinlenebileceği şekilde ve gebe yoğunluğuna uygun genişlikte düzenlenir.
+(5) Danışma alanı; gebe adayı, gebe ve gebe yakınlarına yönelik verilecek bire bir veya grup danışmanlık hizmetlerine uygun bir alan olmalıdır. Danışma alanında, ortada masa bulunmayan karşılıklı oturulabilecek şekilde başvuru yoğunluğuna uygun ve yeterli sayıda sandalye veya koltuk bulundurulur.
+(6) Birinci basamak sağlık kuruluşlarında bulunan gebe okullarında eğitim odası bulunması yeterlidir.
+(7) Gebe okulları, gebe ve gebe yakınlarının kolaylıkla ulaşabileceği, mümkün ise gebe polikliniklerine yakın bir konumda olmalıdır.
+(8) Gebe okulları duvarlarının beyaz renkte olması zorunludur, duvarlarda gebelerde olumlu duygular oluşturabilecek tablo, çizim ve ibareler yer alır.
+(9) Gebe okullarında Ek-1’de yer alan araç, gereç ve malzemelerin bulundurulması zorunludur.
+(10) Gebe okullarının güncel bilgilerinin de yer aldığı resmî internet sitesi ve/veya sosyal medya hesabı bulunur.

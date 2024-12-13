@@ -1,0 +1,5 @@
+Başvuru ve tescil işlemleri
+MADDE 6- (1) Bünyesinde gebe okulu açılacak sağlık kuruluşu, Entegre Kurumsal İşlem Platformu (EKİP) üzerinden ilgili müdürlüğe başvurur. Başvurunun uygun görülmesi halinde, gebe okulunun yerinde incelenmesi için ilgili müdürlük tarafından komisyon oluşturulur.
+(2) Komisyon, ilgili müdürlük tarafından görevlendirilecek bir kadın hastalıkları ve doğum uzmanı, bir ebe olmak üzere en az üç kişiden oluşur. İhtiyaç duyulması halinde komisyona hemşire, klinik psikolog, sosyal çalışmacı/sosyal hizmet uzmanı, diyetisyen, fizyoterapist ve benzeri sağlık meslek mensubu ve teknik personel dahil edilebilir.
+(3) Komisyonun sekretaryası, ilgili müdürlüğün sağlık hizmetleri ile ilgili başkanlığı tarafından yürütülür.
+(4) Yapılan yerinde inceleme sonucunda eksiklik veya uygunsuzluk olmadığı tespit edilir ise ilgili müdürlük tarafından makam onayı alınarak gebe okulunun tescili yapılır ve bu tescil belgesi ilgili sağlık kuruluşunun faaliyet izin belgesine işlenmek üzere Bakanlığa gönderilir.
