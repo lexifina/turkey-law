@@ -1,0 +1,5 @@
+TÜRK MÜHENDİS VE MİMAR ODALARI BİRLİĞİ ELEKTRİK MÜHENDİSLERİ ODASI
+SERBEST MÜŞAVİR MÜHENDİSLİK HİZMETLERİ YÖNETMELİĞİ
+Amaç
+MADDE 1 - (Değişik:RG-13/12/2024-32751)
+Bu Yönetmeliğin amacı, 27/1/1954 tarihli ve 6235 sayılı Türk Mühendis ve Mimar Odaları Birliği Kanunu hükümleri ile 10/3/2003 tarihli ve 25044 sayılı Resmî Gazete’de yayımlanan Türk Mühendis ve Mimar Odaları Birliği Elektrik Mühendisleri Odası Ana Yönetmeliği hükümleri uyarınca serbest çalışan ve Elektrik Mühendisleri Odasına kayıtlı tüm mühendislik dallarına ait meslek alanlarında hizmet üreten kişi ve kuruluşların mesleki etkinliklerinin ve bu mühendislik dallarına ait meslek alanlarının Elektrik Mühendisleri Odası tarafından denetlenmesi, bu mühendislik dallarına ait hizmetlerin mesleki esaslarının, ülke ve meslektaş yararları bakımından gelişmesinin sağlanması ve meslektaşlar arasında haksız rekabetin önlenmesi, bu dallara ait meslek alanlarında serbest mühendislik hizmeti veren kişi ve kuruluşların kayıtlarının ve sicillerinin tutulması ile denetimlerinin sağlanmasına ilişkin usul ve esasların düzenlenmesidir.

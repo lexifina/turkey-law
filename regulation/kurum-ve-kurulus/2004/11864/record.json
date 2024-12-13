@@ -1,0 +1,92 @@
+{
+  "source_id": "7.5.11864",
+  "kind": "regulation",
+  "register_kind": "Kurum ve Kuruluş Yönetmelikleri",
+  "title": "TÜRK MÜHENDİS VE MİMAR ODALARI BİRLİĞİ ELEKTRİK MÜHENDİSLERİ ODASI SERBEST MÜŞAVİR MÜHENDİSLİK HİZMETLERİ YÖNETMELİĞİ",
+  "number": "11864",
+  "issuer_slug": "kurum-ve-kurulus",
+  "path": "regulation/kurum-ve-kurulus/2004/11864",
+  "source": "https://www.mevzuat.gov.tr/anasayfa/MevzuatFihristDetayIframe?MevzuatTur=7&MevzuatNo=11864&MevzuatTertip=5",
+  "source_sha256": "3657cf7541d27f4f6a38119ec544512c3eb550c6047f137cf42294810dfbda24",
+  "source_bytes": 77502,
+  "published": "2004-03-18",
+  "gazette": "25406",
+  "in_force": "2024-12-13",
+  "in_force_basis": "latest Resmî Gazete date printed in the source amendment notes/table (\"RG-13/12/2024\") for the current consolidated text",
+  "date_evidence": [
+    [
+      "2024-12-13",
+      "RG-13/12/2024",
+      "Resmî Gazete date printed in the source amendment note"
+    ],
+    [
+      "2024-12-13",
+      "13/12/2024",
+      "Resmî Gazete date in the source amendment table"
+    ],
+    [
+      "2019-01-22",
+      "RG-22/1/2019",
+      "Resmî Gazete date printed in the source amendment note"
+    ],
+    [
+      "2019-01-22",
+      "22/1/2019",
+      "Resmî Gazete date in the source amendment table"
+    ],
+    [
+      "2017-07-28",
+      "RG-28/7/2017",
+      "Resmî Gazete date printed in the source amendment note"
+    ],
+    [
+      "2017-07-28",
+      "28/7/2017",
+      "Resmî Gazete date in the source amendment table"
+    ],
+    [
+      "2013-01-31",
+      "RG-31/1/2013",
+      "Resmî Gazete date printed in the source amendment note"
+    ],
+    [
+      "2013-01-31",
+      "31/1/2013",
+      "Resmî Gazete date in the source amendment table"
+    ],
+    [
+      "2010-05-06",
+      "RG-6/5/2010",
+      "Resmî Gazete date printed in the source amendment note"
+    ],
+    [
+      "2010-05-06",
+      "6/5/2010",
+      "Resmî Gazete date in the source amendment table"
+    ],
+    [
+      "2009-01-08",
+      "RG-8/1/2009",
+      "Resmî Gazete date printed in the source amendment note"
+    ],
+    [
+      "2009-01-08",
+      "8/1/2009",
+      "Resmî Gazete date in the source amendment table"
+    ]
+  ],
+  "commencement_clauses": [
+    "Bu Yönetmelik yayımı tarihinde yürürlüğe girer"
+  ],
+  "history": "current-text",
+  "label": "oldest version available",
+  "checked_on": "2026-11-15",
+  "word_count": 2916,
+  "text_status": "current-consolidated",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  },
+  "completeness": "html-text-complete"
+}
