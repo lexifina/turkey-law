@@ -1,0 +1,2 @@
+Onur Kurulu kararlarının kesinleşmesi
+Madde 55 — Onur Kurulunca verilen cezalardan bu Yönetmeliğin 54 üncü maddesinin birinci fıkrasının (a) ve (b) bentlerinde yazılı olanlar kesindir, (c), (ç) ve (d) bentlerinde yazılı cezalara karşı ise kararın bildirilmesi tarihinden itibaren onbeş gün içinde, Oda Yönetim Kurulu yoluyla Birlik Yüksek Onur Kuruluna başvurulabilir. Bu kararların uygulanabilmesi için, Birlik Yüksek Onur Kurulunca onanmış olması gerekir.

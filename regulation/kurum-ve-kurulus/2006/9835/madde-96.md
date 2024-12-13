@@ -1,0 +1,2 @@
+Şube yönetim kurulu üyelerinin çekilmiş sayılması
+Madde 96 — Yazılı ve kabul edilebilir bir özrü olmaksızın ya da hangi nedenle olursa olsun haber vermeksizin, arka arkaya olağan üç toplantıya katılmayan üye çekilmiş sayılır ve yerine sıradaki yedek üye çağrılır. Şube başkanı, şube ikinci başkanı, şube yazman ya da şube sayman üyelerinden çekilen olursa, ilk toplantıda bu görevler için seçim yapılır. Şube yönetim kurulu üyelerinin yarısından çoğunun ayrılması durumunda, yerleri yedeklerle doldurulmakla beraber, ilk toplantıda yönetim kurulu görev bölümünü yeniler.

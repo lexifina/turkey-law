@@ -1,0 +1,9 @@
+Oda Genel Kuruluna çağrı
+Madde 19 — Oda Genel Kurulu aşağıdaki esaslar çerçevesinde toplantıya çağrılır.
+a) Oda Yönetim Kurulu; Genel Kurul toplantısından en az on beş gün önce, Genel Kurula katılacak doğal ve asil delegelerin üçer kopya olarak hazırlanmış listelerini, toplantının gündemini, yerini, gününü, saatini ve çoğunluk sağlanmazsa, yapılacak ikinci toplantıya ilişkin hususları belirten bir yazıyla birlikte, görevli İlçe Seçim Kurulu Başkanlığına iletir.
+b) Genel Kurul toplantısına katılamayacağı belli olan asil ve yedek delegelerin istifa yazıları da, istenmesi durumunda, görevli hakime iletilir.
+c) Gerekli incelemeden sonra, hakim tarafından onaylanan listeler ile toplantıya ilişkin diğer hususlar, Odanın ve Birliğin ilan yerlerinde üç gün süre ile asılarak duyurulur.
+ç) Askı süresince, asil ve yedek delegelikten istifa başvuruları, Oda Yönetim Kurulu aracılığıyla ya da doğrudan görevli hakime yapılır. Asil delege listesi, hakim tarafından kesinleştirilir.
+d) Yasal sürecin tamamlanması ve delege listelerinin kesinleşip, Genel Kurula ilişkin diğer konuların onaylanmasını izleyen üç gün içinde Oda Yönetim Kurulu tarafından, Genel Kurulun toplanacağı delegelere duyurulur. Ayrıca günlük bir gazetenin Türkiye baskısında ilan edilir.
+e) Oda Yönetim Kurulu, Genel Kurul toplantısının düzenli bir şekilde yapılamayacağının anlaşılması durumunda, toplantı başlamadan önce, Genel Kurulu ancak bir kez olmak ve iki ayı geçmemek üzere erteleyebilir. Bu durumda, Oda Yönetim Kurulu, yeni Genel Kurulun tarihini ve yerini, görevli hakimin onayını da alarak belirler ve toplantı tarihinden en az on gün önce asil ve doğal delegelere bildirir. Ayrıca günlük bir gazetenin Türkiye baskısında ilan edilir.
+f) Oda Genel Kurulunda alınan kararlara karşı yapılan itirazlar, TMMOB Yönetim Kurulu tarafından kesin çözüme bağlanır.

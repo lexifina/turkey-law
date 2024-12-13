@@ -1,0 +1,2 @@
+Oda Genel Kurulunun Birlik Yönetim Kurulunca olağanüstü toplanması
+Madde 27 — Oda Yönetim Kurulunu oluşturan üyelerin hepsinin birden çekilmesi ya da herhangi bir nedenle ayrılan üyelerin yerine çağrılacak yedek üye kalmaması durumunda, Oda Genel Kurulu, Oda başkanı, ikinci başkanı ya da yazman üyesi, bunlar yoksa Birlik Yönetim Kurulu tarafından olağanüstü toplantıya çağırılır. Yeniden seçilenler, ilk olağan Genel Kurul toplantısına kadar görev yaparlar.

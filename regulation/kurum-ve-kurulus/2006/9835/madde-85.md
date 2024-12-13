@@ -1,0 +1,2 @@
+Şube genel kurulu üye listelerinin kesinleştirilmesi
+Madde 85 — Şube genel kurulunun yapılacağı tarihten önceki Ocak ayında, şubeye kayıtlı asil üyelerin listesi çıkarılır. Şubeler arası geçişler listeye işlenir. Bu Yönetmelikte belirtilen disiplin cezalarından herhangi birini almış üyeler bu listelerde yer almaz. Oda Yönetim Kurulu ile uzlaşı sağlanarak, ilgili ilçe seçim kuruluna bu listeler verilir.

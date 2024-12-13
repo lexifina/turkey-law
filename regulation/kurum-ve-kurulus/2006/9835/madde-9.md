@@ -1,0 +1,2 @@
+İhtiyari üyelik
+Madde 9 — Kamu kurum ve kuruluşları ile iktisadi devlet teşekkülleri ve kamu iktisadi kuruluşlarında, asli ve (Değişik ibare:RG-23/2/2019-30695) sürekli görevlerde çalışanların üyelikleri isteklerine bağlıdır. Ancak, bunlar görevlerinin gereği olan işleri yaparken Odaya kayıtlı üyelerin mesleki yetkileri ile haklarına sahip ve onların mesleki ödevleri ile yükümlüdürler. Bu kişilerin odaya üye olmamaları yasalarla belirtilen diğer koşullara uymak kaydıyla, meslekleriyle ilgili görevlerde çalışmalarına ve etkinliklerde bulunmalarına engel teşkil etmez.

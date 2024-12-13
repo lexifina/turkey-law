@@ -1,0 +1,2 @@
+Şube kurucu kurulu
+Madde 76 — Oda Genel Kurulunda ilgili ilde şube kurulmasının onaylanmasından sonra, şube yönetim kurulu seçimine kadar hazırlık çalışmalarında bulunmak üzere yedi kişilik şube kurucu kurulu, Oda Yönetim Kurulu ataması ile oluşturulur. Üyelerin dosyaları ve yükümlülükleri şubeye devredilir. Şube bütün üye işlemlerinin bir kopyasını merkeze gönderir. Kurulan şubenin ilk genel kurulu, Oda Yönetim Kurulunca kararlaştırılan tarih ve yerde yapılır. İlk genel kurulun ilan ve gerekli hazırlıkları kurucu kurul ile birlikte, Oda Yönetim Kurulunca yerine getirilir.

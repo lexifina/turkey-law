@@ -1,0 +1,5 @@
+Odaya üye olmak için gereken belgeler
+Madde 13 — Odaya üye olmak için;
+a) (Değişik:RG-4/3/2014-28931) Türkiye Cumhuriyeti uyruklular; Türkiye sınırları içinde peyzaj mimarlığı eğitimi veren kurumlardan aldıkları diplomaların (Ek ibare:RG-10/1/2017-29944) veya geçici mezuniyet belgelerinin onaylı suretlerini; T.C. kimlik numarası beyanını, yazılı adres beyanını, yeteri kadar fotoğraf ve kayıt formunu doldurarak Oda’ya vermek zorundadır. Gerekli olan belgeleri Odaya veren ve bu suretle Odaya kayıt olan üye “Peyzaj Mimarı” unvanı ile peyzaj mimarlığı mesleğinin yetkilerini kullanmaya hak kazanır. Yurt dışındaki üniversitelerden mezun olanlar için bu belgelere ek olarak yetkili mercilerden alınan denklik belgesinin veya onaylı suretinin verilmesi gerekir.
+b) Geçici üye olarak kayıt yaptıracak yabancı uyruklu peyzaj mimarları, TMMOB Kanununun 34 üncü ve 35 inci maddelerine göre yetkili bakanlıktan almış oldukları onay belgesi, çalışma izni ve kayıt formunu yeteri kadar fotoğrafla birlikte Odaya vermek zorundadır.
+Bu maddenin (a) ve (b) bendindeki koşulları yerine getiren üyelere, süreli olarak bir kimlik kartı verilir.

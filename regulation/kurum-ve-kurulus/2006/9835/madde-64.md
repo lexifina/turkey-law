@@ -1,0 +1,2 @@
+Oda Danışma Kurulu
+Madde 64 — Oda Danışma Kurulu, Odanın yönetim birimleri arasındaki uyumlu çalışmayı sağlamak, hizmetlerin yürütülmesinde ortaya çıkacak olumsuzlukları gidermek ve önlemlerini araştırmak, Oda yükümlülüklerinin sağlıklı biçimde yerine getirilmesinde ve Odanın verdiği hizmetlerin ve yaptığı çalışmaların geliştirilmesinde yönetime yardımcı olmak amacıyla oluşturulmuş bir yardımcı organdır.

@@ -1,0 +1,2 @@
+Harcama yetkisi
+Madde 123 — TMMOB Peyzaj Mimarları Odası Bütçe Uygulama Esasları Yönetmeliğinde belirtilen miktara göre; başkan, ikinci başkan, Oda yazman üyesi ve Oda sayman üyesinden oluşan yürütme kuruluna belirli bir miktara kadar harcama yetkisi verilebilir. Ödeme emirleri; yürütme kurulu üyelerinden birisi sayman üye olmak üzere iki üye tarafından imzalanır ve aynı şekilde bankadan para çekilir.

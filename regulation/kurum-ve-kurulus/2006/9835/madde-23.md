@@ -1,0 +1,2 @@
+Oda Genel Kurulu karar yeter sayısı
+Madde 23 — Genel Kurul, kararlarını oylamaya katılanların salt çoğunluğu ile alır. Oylarda eşitlik olursa başkanın kullandığı oy yönünde çoğunluk sağlanmış sayılır. Yalnız Oda yönetmeliklerine ilişkin değişiklikler için, katılanların üçte ikisinin (2/3) olumlu oyu gerekir. Oylamaya katılanların sayısı, hazırun listesinin dörtte birinin (1/4) altına düştüğünde yönetmelik değişikliği yapılamaz.

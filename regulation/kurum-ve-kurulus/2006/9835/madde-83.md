@@ -1,0 +1,3 @@
+Şube genel kurulunun toplanmasında usul
+Madde 83 — Şube yönetim kurulu, genel kurul toplantısından en az onbeş gün önce, genel kurula katılacak üyelerin Oda Yönetim Kurulu tarafından üçer kopya hazırlanmış olarak gönderilen listelerini, toplantının yerini, gününü, saatini, gündemini ve ilk toplantıda çoğunluk olmadığı takdirde ikinci toplantıya ilişkin konuları belirten bir yazı ile birlikte görevli ilçe seçim kurulu başkanlığına iletir.
+İlçe seçim kurulu başkanlığınca incelenerek onaylanan listeler üç gün süre ile şubenin ilan yerinde üyelerin incelemesine sunulur. Askı süresince üyelerin itirazları, şube aracılığı ile ya da doğrudan görevli hakime şahsen yapılır ve üye listesi ilçe seçim kurulu başkanlığınca kesinleştirilir.

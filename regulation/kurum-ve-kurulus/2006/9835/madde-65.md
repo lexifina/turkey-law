@@ -1,0 +1,2 @@
+Oda Danışma Kurulunun oluşumu
+Madde 65 — Danışma Kurulu; Oda Yönetim Kurulu asil ve yedek üyeleri, Oda Onur Kurulu asil üyeleri, Oda Denetleme Kurulu asil üyeleri, Birlik Yönetim Kurulu asil ve yedek üyeleri ile seçilmiş Birlik Denetleme Kurulu ve Birlik Yüksek Onur Kurulu üyeleri, Şube Yönetim Kurulu üyeleri, temsilciler ve geçmiş dönem Oda başkanlarından oluşur. (Ek cümle:RG-23/2/2019-30695) Danışma Kurulunun gündeminin gerektirdiği durumlarda uzman gruplarından temsilciler de Oda Yönetim Kurulunca Danışma Kuruluna çağırılabilirler.

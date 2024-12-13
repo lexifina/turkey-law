@@ -1,0 +1,2 @@
+Onur Kuruluna çağrılacak yedek üyenin kalmaması
+Madde 47 — Yapılan üç ayrı çağrıya rağmen toplantıya katılmayan ve gerekçe bildirmeyen üye çekilmiş sayılır ve yerine sıradaki yedek üye asaleten geçer. Boşalan üyeliğe çağrılacak yedek üye kalmaması durumunda, Olağanüstü Oda Genel Kurulu yapılarak Onur Kurulu asil ve yedek üyeleri seçilir. Seçilen Onur Kurulu, ilk Genel Kurul toplantısına kadar görev yapar.

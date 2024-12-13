@@ -1,0 +1,2 @@
+İlçe temsilciliklerinin kuruluşu
+Madde 106 — Oda; en az ikisi kamu kurum ve kuruluşlarında çalışıyor olması koşulu ile en az on üyenin bulunduğu yerde, ilgili birimin önerisi ve Oda Yönetim Kurulu kararı ile il temsilciliği, şube ya da merkeze bağlı olarak ilçe temsilciliği kurabilir. Temsilcilik kurulması kararını izleyen en geç bir ay içerisinde temsilci atamaları yapılır. Oda; temsilciliğe atadığı kişilere, durumu, çalışma alanını da belirterek bir yazı ile bildirir. İlçe temsilciliği; bir asil ve bir yedek üyeden oluşur.

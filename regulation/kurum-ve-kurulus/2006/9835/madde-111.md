@@ -1,0 +1,2 @@
+İşyeri temsilciliği
+Madde 111 — İlgili birimlerin önerisi ile kamu ve özel kesimde çalışan peyzaj mimarlarının haklarının savunulması, mesleki açıdan kamu yararının korunması, söz konusu üyelerin oda ile doğrudan ilişkisinin sağlanması amacıyla Oda Yönetim Kurulu kararı ile işyeri temsilciliği kurulabilir. Temsilcilik kurulması kararını izleyen en geç bir ay içerisinde temsilci atamaları yapılır. Oda; temsilciliğe atadığı kişilere, durumu, bir yazı ile bildirir. İşyeri temsilciliği; bir asil ve bir yedek üyeden oluşur.
