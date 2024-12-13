@@ -1,0 +1,3 @@
+Toplantı gündemi
+MADDE 30- (1) Kurulun toplantı gündemi, kurul sekreteryası tarafından hazırlanır ve başkan tarafından onaylanır. Kurul üyeleri, sonraki toplantının gündemiyle ilgili önerilerde bulunabilirler. Gündemin son şekli kurul başkanı tarafından belirlenir ve kurul üyelerine, toplantı gününden en az üç gün önce bildirilir.
+(2) Gündemde yer alan konular hakkında, başkanlıkça gerekli görülmesi halinde, ilde bulunan üniversitelerin ilgili bölüm öğretim üyeleri, ilgili diğer kurum ve kuruluşların temsilcileri toplantıya davet edilerek gündemdeki konu ile ilgili görüşleri alınır veya yazılı görüş bildirmesi istenir ve alınan görüşler değerlendirilmek üzere kurul üyelerine gönderilir.

@@ -1,0 +1,3 @@
+Faaliyette olan hayvan bakımevleri ve mobil kısırlaştırma ünitelerine çalışma izni verilmesi
+GEÇİCİ MADDE 1- (1) Bu Yönetmeliğin yürürlüğe girdiği tarihte yapımı devam eden veya tamamlanmış olan yerel yönetimlere ait hayvan bakımevleri hakkında, 17 nci madde hükümleri uygulanmaz ve hayvanların barındırılacağı alanların büyüklükleri ile ilgili şartlardan muaf tutularak bu Yönetmeliğin yürürlüğe girdiği tarihten itibaren bir yıl içerisinde çalışma izni verilir.
+(2) Bu Yönetmeliğin yürürlüğe girdiği tarihten itibaren bir yıl içerisinde özel mobil kısırlaştırma ünitelerinin faaliyetleri sona erdirilir.

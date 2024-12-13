@@ -1,0 +1,2 @@
+Denetime yetkili birim
+MADDE 35- (1) 5199 sayılı Kanun ve bu Yönetmelik hükümlerine uyulup uyulmadığını denetleme yetkisi Bakanlığa aittir. Bakanlık bu yetkisini gerektiğinde mahallin en büyük mülkî amirine devredebilir. Bakanlığın yetkisini devretmesi halinde, mahallin en büyük mülkî amiri il bünyesinde veya mevcut değilse başka illerden veya kurumlardan hayvanların korunması konusunda uzman personeli de denetim ile görevlendirebilir. Bakanlık, merkez teşkilatı ilgili birim personelini de denetim ile görevlendirebilir.

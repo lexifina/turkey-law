@@ -1,0 +1,2 @@
+Dayanak
+MADDE 3- (1) Bu Yönetmelik, 24/6/2004 tarihli ve 5199 sayılı Hayvanları Koruma Kanununun 5 inci, 6 ncı, 10 uncu, 13 üncü, 15 inci, 17 nci ve 19 uncu maddelerine, 11/6/2010 tarihli ve 5996 sayılı Veteriner Hizmetleri, Bitki Sağlığı, Gıda ve Yem Kanununun 7 nci, 9 uncu ve 11 inci maddelerine ve 28/8/2003 tarihli ve 2003/6168 sayılı Bakanlar Kurulunun Kararı ile onaylanan Ev Hayvanlarının Korunmasına Dair Avrupa Sözleşmesinin 12 nci maddesine dayanılarak hazırlanmıştır.

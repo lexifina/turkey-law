@@ -1,0 +1,20 @@
+Doğal yaşam alanlarında aranacak şartlar
+MADDE 20- (1) Doğal yaşam alanlarında;
+a) Doğal yaşam alanının kurulması için ilgili mevzuat hükümlerine göre izin alınması,
+b) Çevresinin sabit yapılarla sınırlandırılmış ve hayvanların serbestçe giriş çıkışının engellenmiş nitelikte olması,
+c) Hayvan sayısıyla orantılı kulübe veya korunaklı kapalı alanların yer aldığı bölmelerin kurulması, bu bölmelerde altı aylığa kadar yavrular ve küçük ırk köpekler için hayvan başına 8 m2, büyük ırk köpekler için hayvan başına 10 m2 asgari alan sağlanması,
+ç) Hayvanların bulunduğu birimlerde temizlenebilir ve dezenfekte edilebilir malzemeden yapılmış yemliklerin ve sulukların seçilmesi,
+d) Patojen mikroorganizmalara karşı ayda en az bir kez dezenfekte edilmesi,
+e) Büyük hayvanlara günde en az bir öğün, yavrulara ise günde en az iki öğün yiyecek verilmesi, yiyeceklerin günlük hazırlanması, günlük olarak tüketilmeyen yiyeceklerin uygun saklama koşullarında saklanması, hayvanların yemek artıklarıyla beslendiği hayvan bakımevlerinde yiyeceklerin günlük olarak tüketilmesi ve gün boyunca yiyeceklerin hayvanların önünde bekletilmemesi,
+f) Çalışan tüm personelin hayvanlardan geçen hastalıklara karşı aşılanması, hayvan bakımı, eğitimi ve hastalıkları konusunda veteriner hekim tarafından bilgilendirilmesi,
+g) Şehir şebekesine bağlı su veya bu amaca yönelik yeterli kapasitede su deposunun bulunması,
+ğ) Su, şebeke suyu dışında başka bir kaynaktan temin ediliyorsa, suyun dezenfeksiyonu için gerekli tedbirlerin alınması, suyun bakteriyolojik ve kimyasal analizlerinin yaptırılması, sonuçlarının saklanması ve analiz değerlerine göre suyun kullanılması,
+h) Hayvanların sürekli sıcakta veya soğukta kalmalarını önleyici tedbirlerin alınması,
+ı) Tellerle bölünen açık alanlarda tel delik aralıklarının hayvanların yaralanmalarını önleyecek şekilde yapılması,
+i) 5996 sayılı Kanuna tâbi, ihbarı mecburî bir hastalık çıkması halinde durumun resmî makamlara en kısa sürede haber verilerek yetkililerce alınacak yasal tedbirlerin uygulanması ve uygulattırılması,
+j) Hayvan üretiminin yapılmaması,
+k) Ziyarete gelen kişilerin hayvanlara doğrudan temasının ve ulaşmasının önlenmesi için gerekli tedbirlerin alınması,
+l) Oluşacak tıbbî atıkların, 2872 sayılı Kanun ve ilgili mevzuat hükümleri çerçevesince yönetiminin sağlanması,
+m) Doğal yaşam alanlarından kaynaklanan atıkların türüne göre 2872 sayılı Kanun ve ilgili mevzuat kapsamında yönetiminin sağlanması,
+n) Hayvanların birbirlerine veya insanlara zarar vermesini engelleyecek yapısal ve idarî tedbirlerin alınması,
+zorunludur.
