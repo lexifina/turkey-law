@@ -1,0 +1,16 @@
+Sınırlandırılmış alanların oluşturulması için istisnalar
+MADDE 8- (1) Enstitü müdürlüğü, 7 nci maddeye istisna olarak başlangıçtaki zararlı organizma varlığının yayılmadığına dair yüksek derecede güvenin olması ve aşağıdaki koşulların tümünün gerçekleşmesi halinde eradikasyon amacıyla oluşturulan ve bulaşık alanı çevreleyen tampon bölgeyi, genişliği 1 km’den az olmayacak şekilde daraltabilir:
+a) Bulaşık alanda sağlık durumlarına bakılmaksızın bulunan tüm belirlenmiş bitkilerden derhal örnek alınması ve örnek alınan bu bitkilerin sökülmesi.
+b) Bulaşık alanda sürvey talimatı dikkate alınarak yıl içinde en az bir kez yapılan resmî testlere dayanarak, eradikasyon tedbirlerinin alınmasından itibaren zararlı organizma ile bulaşık başka bitkinin bulunmaması.
+c) Zararlı organizmanın tespit edildiği yılı takip eden ilk yıl içinde bulaşık alanı çevreleyen ve zararlı organizmanın varlığının olmadığı bilinen en az 2,5 km genişliğindeki bölgede en az bir kez sürvey yapılması, ilgili müdürlük tarafından o bölgede bulunan konukçu bitkilerden örnek alınması ve test yapılması için ilgili laboratuvara gönderilmesi, bu amaçla hazırlanan sürvey programı ve örnekleme planında, bulaşık bitkileri çevreleyen ilk 400 m'lik alanın, o alanın diğer kısımlarına göre daha yüksek risk taşıdığına yönelik tespit yapılması ve mezkûr program ile planın, %1 oranındaki bulaşık bitki varlığı seviyesini en az %90 güvenle tanımlayabilecek şekilde oluşturulması.
+ç) Uluslararası Bitki Sağlığı Tedbirleri Standartları uyarınca eradikasyon tedbirlerinin alınmasından itibaren zararlı organizmayı taşıyan vektörlerin uçuş sezonu boyunca iki kez gerçekleştirilen testlerine dayanılarak, bulaşık alanda ve yakın çevresinde hiçbir vektör tespit edilmemesi halinde zararlı organizmanın doğal yayılımının olmadığı sonucuna ulaşılması.
+(2) İlgili müdürlük, birinci fıkra uyarınca tampon bölgenin genişliğini azaltırken, bu azaltmanın gerekçesini Genel Müdürlüğe derhal bildirir.
+(3) İlgili enstitü müdürlüğü, 7 nci maddeye istisna olarak;
+a) Zararlı organizmanın bulaşık bitkiler ile birlikte yakın zamanda alana girdiğine veya zararlı organizmanın vektörlerine karşı fiziksel korumaya sahip bir alanda tespit edildiğine dair kanıtların bulunması,
+b) Denetim faaliyetleri sonuçlarının, bu bitkilerin ilgili alana girişlerinden önce bulaşık olduğunu göstermesi,
+c) Bu bitkilerin yakınlarında, yapılan testlere göre zararlı organizmayı taşıyan vektör tespit edilmemesi,
+şartlarının tamamının yerine getirilmesi halinde sınırlandırılmış alanı hemen oluşturmamaya karar verebilir.
+(4) Üçüncü fıkrada belirtilen durumlarda, ilgili müdürlük tarafından aşağıdaki işlemler yapılır:
+a) Zararlı organizmanın varlığının ilk teyit edildiği alanda, başka bitkilerin bulaşık olup olmadığının ve başka tedbirlerin alınmasının gerekip gerekmediğinin belirlenmesi için en az bir yıl boyunca yıllık sürvey yapılır.
+b) Genel Müdürlüğe, sınırlandırılmış alan oluşturmama gerekçesi ve bu fıkranın (a) bendinde belirtilen incelemenin sonucu hazır olur olmaz bildirilir.
+(5) Dördüncü fıkranın (a) bendinde belirtilen sürvey, Ek-4’te listelenen moleküler testlerden biri kullanılarak test edilmek üzere örneklerin toplanmasını kapsar. Bu amaçla hazırlanan sürvey programı ve örnekleme planı, %1 oranındaki bulaşık bitki varlığı seviyesini en az %90 güvenle tanımlayabilecek şekilde oluşturulur.

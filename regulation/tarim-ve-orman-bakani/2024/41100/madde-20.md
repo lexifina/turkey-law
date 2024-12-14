@@ -1,0 +1,3 @@
+Zararlı organizmanın kontrolü ile ilgili diğer tedbirler
+MADDE 20- (1) İlgili müdürlük, bulaşık veya bulaşıklığı şüpheli tüm bitkilerin uygun şekilde eradike edilmesinde veya bu bitkilerin bulundukları yerlerin, kamu veya özel mülkiyete ait olması halinde bunlardan sorumlu kişi veya kuruluşlara erişilememesi gibi nedenlerle eradikasyonun engellenmesi, aksatılması veya geciktirilmesinin beklenebileceği özel durumlarda gerekli önlemleri alır.
+(2) İhraç ve ithal edilecek bitki ve bitkisel ürünlere ait bitki sağlığı kontrolleri, 3/12/2011 tarihli ve 28131 sayılı Resmî Gazete’de yayımlanan Bitki Karantinası Yönetmeliği kapsamında yapılır.

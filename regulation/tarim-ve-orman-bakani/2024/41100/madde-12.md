@@ -1,0 +1,4 @@
+Eradikasyon tedbirleri kapsamında bitkilerin imhası
+MADDE 12- (1) 10 uncu maddenin birinci fıkrasında belirtilen bitki ve bitki kısımları, zararlı organizmanın yayılmasını önleyecek şekilde yerinde veya bulaşık alan içinde bu amaç için belirlenmiş özel bir yerde veya bu bitki veya bitki kısımlarının vektörlere karşı tül ile örtülmesi şartıyla bulundukları konuma en kısa mesafede, ilgili müdürlük kontrolünde üreticiye imha ettirilir.
+(2) İlgili müdürlük, risk düzeyine bağlı olarak yalnızca dallar ve yaprakları ağaçtan alarak imha ettirebilir ve geride kalan odunun 11 inci maddenin birinci fıkrasında belirtilen şekilde bitki sağlığı uygulamalarına tabi tutulmasına karar verebilir. Bu bitkilerin kök sistemi, yeniden filizlenmeyi engellemek için ya uygun bir bitki sağlığı uygulamasına tabi tutulur ya da canlılığı yok edilir.
+(3) İlgili müdürlük, ikinci fıkrada belirtilen odunun imha edilmemesine karar verirse odunun yaprak ve dallarından arındırılmış olduğunu doğrular.

@@ -1,0 +1,33 @@
+YEDİNCİ BÖLÜM
+Belirlenmiş Bitkilerin Ülke İçindeki Hareketi
+Sınırlandırılmış alanlarda yetiştirilen belirlenmiş bitkilerin ülke içindeki hareketi
+MADDE 22- (1) Sınırlandırılmış alanda bulunan yetkilendirilmiş üretim yerinde yetiştirilen belirlenmiş bitkilerin, sınırlandırılmış alandan dışarıya ve ilgili bulaşık alanlardan tampon bölgelerine hareketine;
+a) Belirlenmiş bitkilerin tüm üretim döngüleri boyunca 23 üncü madde kapsamında yetkilendirilmiş bir tesiste yetiştirilmiş olması veya bu tür bir tesiste en az son bir yıldır bulunması,
+b) Belirlenmiş bitkilerin büyüme süresi boyunca, zararlı organizmanın ve vektörlerinin sahada bulunmaması,
+c) Belirlenmiş bitkilerin zararlı organizmanın vektörlerinden ariliğini korumak için yılın uygun zamanlarında, vektör popülasyonuna karşı yerel koşullar dikkate alınarak uygun olduğu şekilde etkili kimyasal, biyolojik veya mekanik yöntemleri içeren bitki sağlığı uygulamalarına tabi tutulması,
+ç) Belirlenmiş bitkilerin, sınırlandırılmış alan içerisinde veya sınırlandırılmış alandan dışarıya zararlı organizma veya vektörlerinden herhangi biri ile bulaşıklığını önleyecek şekilde kapalı konteynerler veya ambalajlar içinde nakledilmesi,
+d) Belirlenmiş bitkilerin, hareket zamanına mümkün olduğunca en yakın zamanda, EK-4’te listelenen bir teste dayalı olarak % 1 oranındaki bulaşık bitkilerin varlığını en az % 80 güvenle tanımlayabilen bir örnekleme planı kullanılarak zararlı organizmanın varlığı için moleküler teste tabi tutulması,
+şartlarının tamamının yerine getirilmesi halinde izin verilebilir.
+(2) Sınırlandırılmış alanda hiç bulaşıklık tespit edilmemiş belirlenmiş bitkilerin, sınırlandırılmış alan dışına ve ilgili bulaşık alanlardan tampon bölgelere hareketine;
+a) Belirlenmiş bitkilerin, Bitki Pasaportu Sistemi ve Operatörlerin Kayıt Altına Alınması Hakkında Yönetmeliğe göre kayıtlı profesyonel bir operatöre ait bir alanda yetiştirilmesi,
+b) Belirlenmiş bitkilerin, yaşamlarının en azından bir kısmı boyunca sınırlandırılmış bir alanda yetiştirilmiş ve sınırlandırılmış alanın oluşturulmasından itibaren üç yıl boyunca 13 üncü ve 18 inci maddelerde belirtilen sürvey faaliyetlerine tabi tutulmuş bitki türlerine ait olması ve zararlı organizma ile bulaşıklığının tespit edilmemiş olması,
+c) Bu fıkranın (b) bendinde belirtilen belirlenmiş bitki türlerinin, belirli bir sınırlandırılmış alanda bulaşık olduğu bilinmeyen konukçu bitkiler olarak Bakanlığın internet sitesinde yayımlanmış olması,
+ç) Belirlenmiş bitkilerin, zararlı organizmanın vektörlerinden ariliğini sürdürmek için vektör popülasyonuna karşı yılın uygun zamanlarında, uygun olduğu şekilde yerel koşullar dikkate alınarak etkili kimyasal, biyolojik veya mekanik yöntemleri içeren bitki sağlığı uygulamalarına tabi tutulması,
+d) Belirlenmiş bitkilerin birçoğunda, hareket zamanına mümkün olan en yakın zamanda %1 oranındaki bulaşık bitkilerin varlığını en az %95 güvenle tanımlayabilen bir örnekleme şeması kullanılması neticesinde anılan bitkilerin ilgili müdürlük tarafından inceleme ve ilgili laboratuvar tarafından moleküler teste tabi tutulması,
+e) Belirlenmiş bitkilerin hareket zamanına mümkün olduğunca en yakın zamanda, belirlenmiş bitki lotlarının zararlı organizmanın tüm vektörlerine karşı bitki sağlığı uygulamalarına tabi tutulması,
+şartlarının tamamının yerine getirilmesi halinde izin verilebilir.
+(3) Sınırlandırılmış alanda tüm yaşam döngüsü boyunca in vitro ortamda yetiştirilmiş belirlenmiş bitkilerin, sınırlandırılmış alan dışına ve bulaşık alanlardan tampon bölgelerine hareketine aşağıdaki koşulların tümü yerine getirildiğinde izin verilir:
+a) Belirlenmiş bitkilerin, tüm yaşam döngüleri boyunca 23 üncü madde kapsamında yetkilendirilmiş bir yerde yetiştirilmesi halinde.
+b) Belirlenmiş bitkilerin, steril koşullar altında şeffaf bir kapta yetiştirilmiş ve aşağıdaki koşullardan birinin karşılanmış olması halinde;
+1) Tohumdan yetiştirilmiş olmak.
+2) Tüm yaşamlarını zararlı organizmadan ari bir alanda geçirmiş ve zararlı organizmadan ari olduğu test edilerek tespit edilmiş damızlık bitkilerden, steril koşullar altında çoğaltılmış olmak.
+3) 22 nci maddenin birinci fıkrasında belirtilen şartları sağlayan bir yerde yetiştirilen ve % 1 bulaşık bitki varlığını en az % 95 güvenle tanımlayabilen bir örnekleme planı kullanılarak test edilmiş ve zararlı organizmadan ari bulunmuş ana bitkilerden, steril koşullar altında çoğaltılmış olmak.
+c) Belirlenmiş bitkilerin, sınırlandırılmış alandan geçişte veya içerisinde, vektörleri aracılığıyla zararlı organizmanın bulaşması olasılığını ortadan kaldıran steril koşullar altında bir konteyner içinde taşınması halinde.
+(4) Yaşamlarının bir bölümünde bir sınırlandırılmış alanda yetiştirilen ve bu alan için belirlenmiş bitki olarak listelenmiş olan, tohumları hariç dikim amaçlı dormant haldeki Vitis bitkilerinin, sınırlandırılmış alanın dışına ve ilgili bulaşık alanlardan tampon bölgelere hareketine, bu bitkilerin Bitki Pasaportu Sistemi ve Operatörlerin Kayıt Altına Alınması Hakkında Yönetmeliğe göre kayıtlı profesyonel bir operatöre ait bir alanda yetiştirilmesi ve hareket zamanına mümkün olduğunca yakın zamanda, ilgili müdürlük tarafından yetkilendirilmiş ve denetlenmiş bir uygulama tesisinde uygun bir termoterapi işlemine tabi tutulması ve bu amaçla uyku halindeki bitkilerin 45 dakika süreyle 50° C ısıtılmış suya batırılması şartlarının tamamının yerine getirilmesi halinde izin verilir.
+(5) Yaşamlarının bir bölümünde sınırlandırılmış bir alanda yetiştirilen belirlenmiş bitkilerin, bulaşık alan içinde, tampon bölgeler içerisinde ve tampon bölgelerden ilgili bulaşık alanlara hareketine;
+a) Belirlenmiş bitkilerin, Bitki Pasaportu Sistemi ve Operatörlerin Kayıt Altına Alınması Hakkında Yönetmeliğe göre kayıtlı profesyonel bir operatöre ait bir alanda yetiştirilmiş olması ve 21 inci maddede düzenlenen gerekliliklerin yerine getirilmesi,
+b) Bu fıkranın (a) bendinde belirtilen alanın, sürvey talimatında belirtilen bilgiler dikkate alınarak, zararlı organizmanın varlığı için ilgili müdürlük tarafından yıllık örneklemeye ve teste tabi tutulması,
+c) Yıllık denetimin ve temsili bir örneğe ait test sonuçlarının, zararlı organizmanın bulunmadığını teyit etmesi,
+ç) Belirlenmiş bitkilerin, zararlı organizmanın vektörlerinden ariliğini korumak için vektör popülasyonuna karşı yılın uygun zamanlarında, uygun olduğu şekilde, yerel koşulları dikkate alarak etkili kimyasal, biyolojik veya mekanik yöntemleri içeren bitki sağlığı uygulamalarına tabi tutulması,
+d) Profesyonel operatörlerin, bu bitkileri alan kişilere, bitkilerin bu bölgenin dışına taşınmayacağına dair bir taahhütname imzalatması,
+koşullarının tamamının yerine getirilmesi halinde izin verilebilir.
