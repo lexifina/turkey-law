@@ -1,0 +1,56 @@
+{
+  "source_id": "7.5.39749",
+  "kind": "regulation",
+  "register_kind": "Kurum ve Kuruluş Yönetmelikleri",
+  "title": "AĞIZ VE DİŞ SAĞLIĞI HİZMETİ SUNULAN ÖZEL SAĞLIK KURULUŞLARI HAKKINDA YÖNETMELİK",
+  "number": "39749",
+  "issuer": "Sağlık Bakanı",
+  "issuer_slug": "saglik-bakani",
+  "path": "regulation/saglik-bakani/2022/39749",
+  "source": "https://www.mevzuat.gov.tr/anasayfa/MevzuatFihristDetayIframe?MevzuatTur=7&MevzuatNo=39749&MevzuatTertip=5",
+  "source_sha256": "15ed3b5d0ea2f40750ab5f8c412b99e3e856cfafbed0a210f11c5e3e36452728",
+  "source_bytes": 93163,
+  "published": "2022-10-06",
+  "gazette": "31975",
+  "in_force": "2024-12-15",
+  "in_force_basis": "latest Resmî Gazete date printed in the source amendment notes/table (\"RG-15/12/2024\") for the current consolidated text",
+  "date_evidence": [
+    [
+      "2024-12-15",
+      "RG-15/12/2024",
+      "Resmî Gazete date printed in the source amendment note"
+    ],
+    [
+      "2024-12-15",
+      "15/12/2024",
+      "Resmî Gazete date in the source amendment table"
+    ],
+    [
+      "2024-03-05",
+      "RG-5/3/2024",
+      "Resmî Gazete date printed in the source amendment note"
+    ],
+    [
+      "2024-03-05",
+      "5/3/2024",
+      "Resmî Gazete date in the source amendment table"
+    ]
+  ],
+  "commencement_clauses": [
+    "Bu Yönetmelik yayımı tarihinde yürürlüğe girer"
+  ],
+  "history": "current-text",
+  "label": "oldest version available",
+  "checked_on": "2026-11-15",
+  "word_count": 5627,
+  "text_status": "current-consolidated",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  },
+  "source_links": [
+    "7.5.39749-Ek.zip"
+  ],
+  "completeness": "html-text-complete; linked annexes not fetched"
+}
