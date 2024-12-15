@@ -1,0 +1,3 @@
+Danışma Kurulu
+MADDE 14- (1) Danışma Kurulu; Müdür ile ölçüm teknolojileri uygulamaları konularında bilgi, deneyim ve beceri sahibi, Üniversite içi veya dışından özel sektör, sivil toplum, diğer kamu kurum ve kuruluş temsilcileri arasından Müdürün önerisi üzerine Rektör tarafından üç yıl süreyle görevlendirilen dokuz üyeden oluşur. Süresi biten üye yeniden görevlendirilebilir.
+(2) Danışma Kurulu, Müdürün yazılı daveti üzerine altı ayda bir toplanır. Toplantıda çoğunluk şartı aranmaz. Toplantı daveti ve gündemi en az bir ay öncesinden Danışma Kurulu üyelerine ulaştırılır. Danışma Kurulu kararları tavsiye niteliğindedir.
