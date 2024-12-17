@@ -1,0 +1,20 @@
+{
+  "applicant": "E.M.İ.",
+  "application_date": "2020-01-22",
+  "application_number": "2020/3061",
+  "deciding_unit": "İkinci Bölüm",
+  "decision_date": "2024-12-17",
+  "id": "07adb46e-bd03-5a65-294d-3791fc87604f",
+  "in_force": "2024-12-17",
+  "in_force_basis": "official decision date",
+  "kind": "constitutional-court-individual-application",
+  "omitted_images": 0,
+  "outcome": "Esas (İhlal Olmadığı)",
+  "published": null,
+  "referenced_images": 0,
+  "source": "https://kararlarbilgibankasi.anayasa.gov.tr/kbb/pages/search/Tumu?id=a2JiOjA3YWRiNDZlLWJkMDMtNWE2NS0yOTRkLTM3OTFmYzg3NjA0Zg&type=BireyselBasvuru",
+  "source_api": "https://kararlarbilgibankasi.anayasa.gov.tr/api/core/public/search",
+  "source_images": 0,
+  "source_sha256": "8bbf0e387b2ce1d5419340d5b0011356b3dbb0736c07e2b18b7932498917cdd2",
+  "version_label": "as-enacted"
+}
