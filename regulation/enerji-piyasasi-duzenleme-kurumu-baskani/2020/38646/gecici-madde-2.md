@@ -1,0 +1,3 @@
+Geçiş dönemi ihraç işlemleri
+GEÇİCİ MADDE 2 – (Ek:RG-21/5/2021-31487)(1)
+(1) Piyasa İşletmecisi, 1/3/2021-31/5/2021 tarihleri arasında YEK-G sistem kullanıcıları tarafından gerçekleştirilen üretimler için belgelendirilebilir üretim miktarını DUY kapsamındaki Mayıs 2021 nihai uzlaştırma bildiriminin yayımlanma tarihinden itibaren hesaplar ve PYS aracılığıyla ilgili YEK-G sistem kullanıcılarına duyurur. YEK-G sistem kullanıcıları, bu fıkra kapsamında Piyasa İşletmecisi tarafından hesaplanan belgelendirilebilir üretim miktarlarının bildirimini müteakip Piyasa İşletmecisine YEK-G belgesi ihraç talebinde bulunabilirler.

@@ -1,0 +1,3 @@
+Kapsam
+MADDE 2 – (1) (Değişik:RG-17/12/2024-32755)(5) Bu Yönetmelik; üretim, tedarik, toplayıcı ve şarj ağı işletmeci lisansı sahibi tüzel kişilerin yenilenebilir enerji kaynak garanti sistemine katılımına ilişkin hükümleri, yenilenebilir enerji kaynak garanti sistemi ile organize yenilenebilir enerji kaynak garanti piyasasının oluşturulması ve işletilmesine ilişkin esasları, Piyasa İşletmecisinin görev ve yetkileri ile lisans sahibi tüzel kişilerin hak ve yükümlülüklerini kapsar.
+(2) Bu Yönetmelik, 12/5/2019 tarihli ve 30772 sayılı Resmî Gazete’de yayımlanan Elektrik Piyasasında Lisanssız Elektrik Üretim Yönetmeliği kapsamındaki üreticileri kapsamaz.

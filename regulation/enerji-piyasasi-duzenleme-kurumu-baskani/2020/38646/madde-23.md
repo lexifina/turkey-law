@@ -1,0 +1,2 @@
+Faturalama işlemleri
+MADDE 23 – (1) YEK-G sistem kullanıcılarının Piyasa İşletmecisine ödeyecekleri ya da Piyasa İşletmecisi tarafından YEK-G sistem kullanıcılarına ödenecek tutarlara ilişkin faturalarda bulunacak asgari fatura kalemleri, faturaların düzenlenme süreleri, fatura tebliğ tarihi, faturalara istinaden borç/alacak bilgilerinin merkezi uzlaştırma kuruluşuna bildirimi, tahakkuktan vazgeçme sınırı ile faturalara ilişkin diğer hususlar Usul ve Esaslarda düzenlenir.

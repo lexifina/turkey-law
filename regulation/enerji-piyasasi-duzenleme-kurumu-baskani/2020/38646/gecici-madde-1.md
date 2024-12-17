@@ -1,0 +1,3 @@
+Yeşil tarife kapsamında YEK-G belgesi itfa işlemleri
+GEÇİCİ MADDE 1 – (1) 1/8/2020 tarihinden organize YEK-G piyasasının faaliyete geçeceği tarihe kadar yeşil tarifeden yararlanan tüketicilerin tüketimleri sebebiyle itfa edilecek YEK-G belgeleri, ilgili dönemde portföyünde yer aldıkları görevli tedarik şirketleri tarafından YEK-G sisteminin işletmeye girmesini müteakip toplu olarak en geç bir ay içerisinde itfa edilir.
+(2) Birinci fıkra kapsamında itfa edilecek YEK-G belgeleri, Piyasa İşletmecisi tarafından bir defaya mahsus olmak üzere Elektrik Üretim Anonim Şirketi mülkiyetindeki yenilenebilir enerji kaynaklarına dayalı üretim santrallerinden ihraç edilir ve ilgili görevli tedarik şirketinin hesabına ücretsiz olarak transfer edilir.

@@ -1,0 +1,5 @@
+YEK-G belgesi ihracı
+MADDE 10 – (1) Elektrik enerjisi üretimini yenilenebilir enerji kaynaklarına dayalı olarak gerçekleştiren ve YEK-G sistem kayıt sürecini tamamlamış olan lisanslı üretim tesisi sahibi tüzel kişilerin bu üretim tesislerinde üretilen belgelendirilebilir üretim miktarı için YEK-G belgesi ihraç talebinde bulunmaları halinde, DUY kapsamındaki nihai uzlaştırma bildiriminin yayımlanma tarihinden itibaren Usul ve Esaslarda belirtilen süre içerisinde, ilgili fatura dönemi için Piyasa İşletmecisi tarafından YEK-G belgesi ihraç edilir.
+(2) Birinci fıkra kapsamında yapılan başvurularda, DUY kapsamındaki geçmişe dönük düzeltme işlemlerine ilişkin hükümler de dikkate alınır.
+(3) Piyasa İşletmecisi tarafından ihraç edilen YEK-G belgeleri, kayıt veri tabanında yer alan ve YEK-G belgesi ihraç talebinde bulunan ilgili üretim lisansı sahibi tüzel kişiye ait hesaba aktarılır.
+(4) YEK-G belgesi ihracı için Piyasa İşletmecisine yapılacak başvuru usulü, talep edilecek bilgi ve belgeler, başvuruların değerlendirilmesi, süreler ve YEK-G belgelerinin ihracına ilişkin diğer hususlar Usul ve Esaslarda düzenlenir.
