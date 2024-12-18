@@ -1,0 +1,5 @@
+Katlar alanı
+MADDE 21- (1) Katlar alanı; bodrum kat, asma kat, çatı arası piyesi ve açık/kapalı çıkmalar dâhil, kullanılabilen bütün katların, katlar alanına dâhil edilmeyen alanları çıktıktan sonraki alanları toplamıdır. Kullanılabilen alanlar deyiminden; konut, işyeri, eğlence ve dinlenme yerleri gibi oturmaya, çalışmaya, eğlenmeye, dinlenmeye veya ibadet etmeye ayrılan alanlar anlaşılır.
+(2) Tamamen toprağın altında kalması nedeniyle; 22 nci madde uyarınca emsal hesabına konu edilmeyen alanlar ile kat adedine konu edilmeyen katların hiç bir cephesi kazı ve tesviye yapılarak açığa çıkarılamaz.
+(3) Emsal hesabına dâhil edilmeyen alanlar, proje değişikliği ile imar planındaki veya bu Yönetmelikle belirlenen emsal değerini aşacak şekilde emsal hesabına konu alan haline getirilemez, müstakil bağımsız bölüm haline dönüştürülemez ve kat mülkiyeti tesis edilemez.
+(4) Uygulama imar planında emsal verilmeyen parsellerde katlar alanı, planla veya bu Yönetmelikle belirlenen; taban alanı katsayısı ile kat adedinin çarpılmasıyla hesaplanır.

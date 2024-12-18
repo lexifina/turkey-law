@@ -1,0 +1,13 @@
+Yapılaşmada idarenin yükümlülükleri
+MADDE 26- (1) İdareler; tasarrufu altındaki yol, meydan, otopark, park, yaya bölgesi, kaldırım gibi yerler ile bunlar üzerindeki kamu hizmetlerinin yürütülebilmesi için, TSE standartlarına ve ilgili mevzuatına göre;
+a) Bisiklet yolu, otopark, yönlendirme, sinyalizasyon, aydınlatma ve ağaçlandırma uygulamalarıyla ve kent mobilyalarıyla beraber kaldırım ve kavşak düzenlemelerini yapmak veya yaptırmakla,
+b) Reklam ve bilgilendirme levha ile pano düzenlemelerini yapmak veya yaptırmakla,
+c) Topluma açık yerlerde ihtiyaçların karşılanması amacıyla; Kent Estetik Kurullarınca tespit edilecek fonksiyonların, bulunduğu çevreyi geliştirmeye yönelik hazırlanan Kentsel Tasarım Projeleri doğrultusunda tesis edilmesine ilişkin iş ve işlemleri yürütmekle,
+ç) Belirli bir süre için düzenlenen sosyal ve kültürel etkinlikler için geçici olarak ihtiyaç duyulan altyapıyı ve geçici olarak talep edilen hafif ve sökülüp takılır malzemeden yapılan fuar, sergi, sahne ve çadır gibi üstyapının kurulması ve kaldırılması için gereken izinlerin verilmesine ilişkin iş ve işlemleri yürütmekle ve güvenlik tedbirlerinin alınmasını sağlamakla,
+yükümlüdür.
+(2) Belediyeler kendi sorumluluk alanlarında yapıların estetiği ile ilgili kurallar getirmeye; mahallin ve çevrenin özelliklerine göre yapılar arasında uyum sağlamak, güzel bir görünüm elde etmek amacıyla dış cephe şeklini boya ve kaplamaları ile çatısının malzemesini ve rengini tayin etmeye yetkilidir.
+(3) Güneş enerjisi panellerinin ve su depolarının çatı üzerindeki konumlandırılması konusunda düzenleme getirmeye ilgili idare yetkilidir.
+(4) Birinci fıkrada belirtilenlerin ve her türlü altyapının yapımı ve kullanımı ile bakım ve onarımı sırasında yaya sirkülasyonunun engellenmemesi, engellilerin erişiminin, can ve mal güvenliğinin sağlanması zorunludur.
+(5) Bu madde kapsamında yürütülen çalışmalarda tescilli ve tarihi yapılar ile doğal dokunun korunması esas alınır.
+(6) Bina cephelerine doğrudan klima üniteleri, çanak anten, muhtelif kablo sistemleri gibi binaya ait olmayan dış elemanlar monte edilemez. Klima dış üniteleri; projesinde belirlenmek üzere sökülebilir malzemelerden oluşturulan platformlar üzerinde çıkma koşullarını aşmamak ve asgari servis ölçülerini sağlamak üzere düzenlenebilir ve bina cephesi ile uyumlu olarak gizlenebilir. Bu tür uygulamalarda idarenin onayı alınmak zorundadır.
+(7) Yeni başlayacak inşaatlarda, devam eden inşaatlarda ve eski binalarda yapılacak tadilatlarda gerekli tedbirlerin alınması kaydıyla şantiye sınırı parsel sınırına taşamaz. Ancak zorunluluk arz eden parsel sınırını aştığı durumlarda yaya geçişlerinin güvenliğini sağlamak ve ilgili mevzuata uygun olmak kaydıyla ilgili idare izin vermeye yetkilidir.
