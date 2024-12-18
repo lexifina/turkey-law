@@ -1,0 +1,3 @@
+Mevcut önlem
+MADDE 6- (1) 11/7/2014 tarihli ve 29057 sayılı Resmî Gazete’de yayımlanan İthalatta Haksız Rekabetin Önlenmesine İlişkin Tebliğ (Tebliğ No: 2014/16) uyarınca, ÇHC menşeli “gazla çalışan anında su ısıtıcılar” ithalatında CIF bedelin %20,12’si ila %59,65’i arasında firma bazında değişen oranlarda dampinge karşı kesin önlem yürürlüğe konulmuştur.
+(2) 4/1/2020 tarihli ve 30998 sayılı Resmî Gazete’de yayımlanan İthalatta Haksız Rekabetin Önlenmesine İlişkin Tebliğ (Tebliğ No: 2019/33) ile sonuçlanan NGGS neticesinde, dampinge karşı kesin önlemin aynen uygulanmaya devam edilmesine karar verilmiştir.
