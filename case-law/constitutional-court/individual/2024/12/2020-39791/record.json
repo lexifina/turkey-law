@@ -1,0 +1,20 @@
+{
+  "applicant": "Y.Ö.",
+  "application_date": "2020-12-18",
+  "application_number": "2020/39791",
+  "deciding_unit": "Birinci Bölüm",
+  "decision_date": "2024-12-18",
+  "id": "0fcfe5c6-91d9-4013-4406-c3b9ec85ab22",
+  "in_force": "2024-12-18",
+  "in_force_basis": "official decision date",
+  "kind": "constitutional-court-individual-application",
+  "omitted_images": 0,
+  "outcome": "Esas (İhlal)",
+  "published": null,
+  "referenced_images": 0,
+  "source": "https://kararlarbilgibankasi.anayasa.gov.tr/kbb/pages/search/Tumu?id=a2JiOjBmY2ZlNWM2LTkxZDktNDAxMy00NDA2LWMzYjllYzg1YWIyMg&type=BireyselBasvuru",
+  "source_api": "https://kararlarbilgibankasi.anayasa.gov.tr/api/core/public/search",
+  "source_images": 0,
+  "source_sha256": "bf45d0a4b8e78a475a199886d0adf3aa017f25f4df8a875be9dc11a5196e710b",
+  "version_label": "as-enacted"
+}
