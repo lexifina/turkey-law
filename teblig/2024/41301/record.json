@@ -1,0 +1,33 @@
+{
+  "source_id": "9.5.41301",
+  "kind": "communique",
+  "register_kind": "Tebliğler",
+  "title": "İNSANLARDA BELİRLİ ENFEKSİYONLARIN TEDAVİSİ İÇİN AYRILMIŞ ANTİMİKROBİYALLERİN VEYA ANTİMİKROBİYAL GRUPLARININ BELİRLENMESİ HAKKINDA TEBLİĞ (TEBLİĞ NO: 2024/33)",
+  "number": "41301",
+  "issuer": "Tarım ve Orman Bakanı",
+  "path": "teblig/2024/41301",
+  "source": "https://www.mevzuat.gov.tr/anasayfa/MevzuatFihristDetayIframe?MevzuatTur=9&MevzuatNo=41301&MevzuatTertip=5",
+  "source_sha256": "a30a45acfa42bf248e22a8f7d39acb540489323393fbca4ed9e1e39099773ada",
+  "source_bytes": 11399,
+  "published": "2024-12-18",
+  "gazette": "32756",
+  "in_force": "2024-12-18",
+  "in_force_basis": "Resmî Gazete publication date in the official listing (18.12.2024); own commencement article: \"Bu Tebliğ yayımı tarihinden iki ay sonra yürürlüğe girer\"",
+  "commencement_clauses": [
+    "Bu Tebliğ yayımı tarihinden iki ay sonra yürürlüğe girer"
+  ],
+  "history": "current-text",
+  "label": "oldest version available",
+  "checked_on": "2026-11-15",
+  "word_count": 323,
+  "text_status": "current-consolidated",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  },
+  "source_links": [
+    "9.5.41301-Ek.docx"
+  ],
+  "completeness": "html-text-complete; linked annexes not fetched"
+}

@@ -1,0 +1,2 @@
+Avrupa Birliği mevzuatına uyum
+MADDE 6- (1) Bu Tebliğ, Veteriner Tıbbi Ürünlere İlişkin 7/1/2019 tarihli ve (AB) 2019/6 sayılı Avrupa Parlamentosu ve Konsey Tüzüğü gereğince yayımlanan İnsanlarda Belirli Enfeksiyonların Tedavisi İçin Ayrılmış Antimikrobiyaller veya Antimikrobiyal Gruplarının Belirlenmesine İlişkin 19/7/2022 tarihli ve (AB) 2022/1255 sayılı Komisyon Uygulama Tüzüğüne uyum amacıyla hazırlanmıştır.
