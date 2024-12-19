@@ -1,0 +1,17 @@
+{
+  "kind": "decision",
+  "issuer": "Sayıştay 1. Dairesi",
+  "number": "10947",
+  "decision_date": "2024-12-19",
+  "source_id": 38947,
+  "chamber": "1",
+  "ilam_number": "25",
+  "item_number": 7,
+  "public_body_type": "Belediyeler ve Bağlı İdareler",
+  "account_year": 2023,
+  "subject": "Çeşitli Konuları İlgilendiren Kararlar",
+  "source": "https://www.sayistay.gov.tr/KararlarDaire/Detay/38947/",
+  "source_sha256": "9f14db990c5e33619fe3acbce6c929a78e12505fa6ac6ee94e08ff9fda97d2f0",
+  "text_status": "as-enacted",
+  "text_file": "metin.md"
+}
