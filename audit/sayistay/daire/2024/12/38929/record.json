@@ -1,0 +1,17 @@
+{
+  "kind": "decision",
+  "issuer": "Sayıştay 7. Dairesi",
+  "number": "630",
+  "decision_date": "2024-12-19",
+  "source_id": 38929,
+  "chamber": "7",
+  "ilam_number": "193",
+  "item_number": 1,
+  "public_body_type": "Belediyeler ve Bağlı İdareler",
+  "account_year": 2021,
+  "subject": "Çeşitli Konuları İlgilendiren Kararlar",
+  "source": "https://www.sayistay.gov.tr/KararlarDaire/Detay/38929/",
+  "source_sha256": "d347c41d32e4002f5600f03f16b866f6fe4685cf327f9f6b39d649fdf849e566",
+  "text_status": "as-enacted",
+  "text_file": "metin.md"
+}
