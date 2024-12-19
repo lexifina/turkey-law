@@ -1,0 +1,17 @@
+{
+  "kind": "decision",
+  "issuer": "Sayıştay 6. Dairesi",
+  "number": "960",
+  "decision_date": "2024-12-19",
+  "source_id": 38964,
+  "chamber": "6",
+  "ilam_number": "241",
+  "item_number": 2,
+  "public_body_type": "Belediyeler ve Bağlı İdareler",
+  "account_year": 2019,
+  "subject": "Personel Mevzuatı ile İlgili Kararlar",
+  "source": "https://www.sayistay.gov.tr/KararlarDaire/Detay/38964/",
+  "source_sha256": "86f3f4036060be48a8ffb4aa093276a29e95039e8471fa7ea507da9084e6fd49",
+  "text_status": "metadata-only",
+  "metadata_only_reason": "possible personal name in the official text"
+}
