@@ -1,0 +1,79 @@
+{
+  "checked_on": "2026-11-14",
+  "commencement_clauses": [
+    "MADDE 16 – (1) Bu Yönetmelik yayımı tarihinde yürürlüğe girer."
+  ],
+  "date_evidence": [
+    [
+      "2017-08-15",
+      "15.08.2017",
+      "original gazette publication date in official listing"
+    ],
+    [
+      "2024-12-19",
+      "RG-19/12/2024-32757",
+      "latest source-printed gazette amendment date for current consolidated text"
+    ],
+    [
+      "2024-12-19",
+      "RG-19/12/2024-32757",
+      "latest source-printed gazette amendment date for current consolidated text"
+    ],
+    [
+      "2024-12-19",
+      "RG-19/12/2024-32757",
+      "latest source-printed gazette amendment date for current consolidated text"
+    ],
+    [
+      "2024-12-19",
+      "19/12/2024",
+      "latest gazette date in source amendment table"
+    ],
+    [
+      "2024-12-19",
+      "19/12/2024",
+      "latest gazette date in source amendment table"
+    ],
+    [
+      "2024-12-19",
+      "19/12/2024",
+      "latest gazette date in source amendment table"
+    ],
+    [
+      "2024-12-19",
+      "19/12/2024",
+      "latest gazette date in source amendment table"
+    ],
+    [
+      "2024-12-19",
+      "19/12/2024",
+      "latest gazette date in source amendment table"
+    ]
+  ],
+  "date_quote": "RG-19/12/2024-32757",
+  "first_law": null,
+  "gazette": "30155",
+  "history": "current-text",
+  "images": {
+    "deferred": 0,
+    "omitted": 0,
+    "referenced": 0,
+    "source": 0
+  },
+  "in_force": "2024-12-19",
+  "in_force_basis": "latest source-printed gazette amendment date for current consolidated text",
+  "issuer": "İstanbul Aydın Üniversitesi",
+  "issuer_slug": "istanbul-aydin-universitesi",
+  "kind": "regulation",
+  "label": "oldest version available",
+  "path": "regulation/istanbul-aydin-universitesi/2017/23853",
+  "published": "2017-08-15",
+  "source": "https://www.mevzuat.gov.tr/anasayfa/MevzuatFihristDetayIframe?MevzuatTur=8&MevzuatNo=23853&MevzuatTertip=5",
+  "source_bytes": 29807,
+  "source_id": "8.5.23853",
+  "source_sha256": "7f47c058d12a7ff4a83c81937d8bdc113de7f108bf453fad59c9db7baea4f7a5",
+  "text_status": "current-consolidated",
+  "title": "İSTANBUL AYDIN ÜNİVERSİTESİ SAVUNMA SANAYİ TEKNOLOJİLERİ\r\nUYGULAMA VE ARAŞTIRMA MERKEZİ YÖNETMELİĞİ",
+  "university_id": 308,
+  "word_count": 957
+}
