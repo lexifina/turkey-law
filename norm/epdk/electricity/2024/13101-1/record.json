@@ -1,0 +1,26 @@
+{
+  "kind": "norm",
+  "issuer": "Enerji Piyasası Düzenleme Kurumu",
+  "market": "electricity",
+  "document_type": "board-decision",
+  "number": "13101-1",
+  "decision_date": "2024-12-19",
+  "title": "Elektrik Piyasası İşletim Gelir Tavanının Karşılanması İçin Uygulanacak Bedel ve Komisyonlar İle Uygulamaya İlişkin Yöntem Bildirimi hk.",
+  "resmi_gazete_date": "2024-12-24",
+  "resmi_gazete_number": "32762",
+  "categories": [
+    "EPİAŞ"
+  ],
+  "source": "https://www.epdk.gov.tr/Detay/DownloadDocument?id=ttp9o+HGTB0=",
+  "documents": [
+    "https://www.epdk.gov.tr/Detay/DownloadDocument?id=ttp9o+HGTB0=",
+    "https://www.epdk.gov.tr/Detay/DownloadDocument?id=8UQ7Odv+P2g="
+  ],
+  "source_sha256": "58c0991f3f9ce8af5569188ca84fbd9a89a9dfeaa1e6c2d0a5a1c88d5781b6bc",
+  "official_list": "https://www.epdk.gov.tr/Detay/Icerik/3-0-39/kurul-kararlari-",
+  "official_list_leaf": 1521,
+  "text_status": "as-enacted",
+  "text_file": "metin.md",
+  "in_force": "2024-12-19",
+  "law_text_complete": true
+}
