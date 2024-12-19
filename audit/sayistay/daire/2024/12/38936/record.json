@@ -1,0 +1,17 @@
+{
+  "kind": "decision",
+  "issuer": "Sayıştay 7. Dairesi",
+  "number": "631",
+  "decision_date": "2024-12-19",
+  "source_id": 38936,
+  "chamber": "7",
+  "ilam_number": "27",
+  "item_number": 3,
+  "public_body_type": "Belediyeler ve Bağlı İdareler",
+  "account_year": 2023,
+  "subject": "Personel Mevzuatı ile İlgili Kararlar",
+  "source": "https://www.sayistay.gov.tr/KararlarDaire/Detay/38936/",
+  "source_sha256": "34de6b4024cd31e10cb048056509731d887df011cf2ce866ec378cb7d3eb72e2",
+  "text_status": "metadata-only",
+  "metadata_only_reason": "possible personal name in the official text"
+}
