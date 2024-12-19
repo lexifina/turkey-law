@@ -1,0 +1,26 @@
+{
+  "kind": "norm",
+  "issuer": "Enerji Piyasası Düzenleme Kurumu",
+  "market": "electricity",
+  "document_type": "board-decision",
+  "number": "13101-2",
+  "decision_date": "2024-12-19",
+  "title": "Spot Doğal Gaz Piyasası İşletim Gelir Tavanının Karşılanması İçin Uygulanacak Bedel ve Komisyonlar İle Uygulamaya İlişkin Yöntem Bildirimi",
+  "resmi_gazete_date": "2024-12-24",
+  "resmi_gazete_number": "32762",
+  "categories": [
+    "EPİAŞ"
+  ],
+  "source": "https://www.epdk.gov.tr/Detay/DownloadDocument?id=ezr+bqNgvPA=",
+  "documents": [
+    "https://www.epdk.gov.tr/Detay/DownloadDocument?id=ezr+bqNgvPA=",
+    "https://www.epdk.gov.tr/Detay/DownloadDocument?id=TzwwBwBDh7g="
+  ],
+  "source_sha256": "dd6334ba55aedb0d21828a0d4b3f4d7ab7d70be9ba3d39339621e493f054bda1",
+  "official_list": "https://www.epdk.gov.tr/Detay/Icerik/3-0-39/kurul-kararlari-",
+  "official_list_leaf": 1521,
+  "text_status": "as-enacted",
+  "text_file": "metin.md",
+  "in_force": "2024-12-19",
+  "law_text_complete": true
+}
