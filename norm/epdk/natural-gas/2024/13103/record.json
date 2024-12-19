@@ -1,0 +1,23 @@
+{
+  "kind": "norm",
+  "issuer": "Enerji Piyasası Düzenleme Kurumu",
+  "market": "natural-gas",
+  "document_type": "board-decision",
+  "number": "13103",
+  "decision_date": "2024-12-19",
+  "title": "Spot Doğal Gaz Piyasası İşletim Gelir Tavanının Karşılanması İçin Uygulanacak Bedeller ve Uygulamaya İlişkin Yöntem Bildirimi",
+  "categories": [
+    "Doğal Gaz Piyasası Kurul Kararları"
+  ],
+  "source": "https://www.epdk.gov.tr/Detay/DownloadDocument?id=i/gT3hh00OU=",
+  "documents": [
+    "https://www.epdk.gov.tr/Detay/DownloadDocument?id=i/gT3hh00OU="
+  ],
+  "source_sha256": "1ee1597d04edf920a9be0d7cbc5fc8cab4f50d9189caed403b154366cf9599a9",
+  "official_list": "https://www.epdk.gov.tr/Detay/Icerik/3-0-19/kurul-kararlari",
+  "official_list_leaf": 14708,
+  "text_status": "as-enacted",
+  "text_file": "metin.md",
+  "in_force": "2024-12-19",
+  "law_text_complete": true
+}
