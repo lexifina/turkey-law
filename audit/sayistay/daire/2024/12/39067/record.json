@@ -1,0 +1,17 @@
+{
+  "kind": "decision",
+  "issuer": "Sayıştay 1. Dairesi",
+  "number": "10948",
+  "decision_date": "2024-12-19",
+  "source_id": 39067,
+  "chamber": "1",
+  "ilam_number": "34",
+  "item_number": 2,
+  "public_body_type": "Yüksek Öğretim Kurumları",
+  "account_year": 2023,
+  "subject": "Personel Mevzuatı ile İlgili Kararlar",
+  "source": "https://www.sayistay.gov.tr/KararlarDaire/Detay/39067/",
+  "source_sha256": "8f1553358841376aeadaf46ebae05ff60a19b24b0691ffd0f9571de5c17fa05e",
+  "text_status": "as-enacted",
+  "text_file": "metin.md"
+}
