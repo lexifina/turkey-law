@@ -1,0 +1,25 @@
+{
+  "kind": "norm",
+  "issuer": "Enerji Piyasası Düzenleme Kurumu",
+  "market": "natural-gas",
+  "document_type": "board-decision",
+  "number": "13104",
+  "decision_date": "2024-12-19",
+  "title": "Vadeli Doğal Gaz Piyasası İşletim Gelir Tavanının Karşılanması İçin Uygulanacak Bedel ve Komisyonlar ile Uygulamaya İlişkin Yöntem Bildirimi",
+  "resmi_gazete_date": "2024-12-24",
+  "resmi_gazete_number": "32762",
+  "categories": [
+    "Doğal Gaz Piyasası Kurul Kararları"
+  ],
+  "source": "https://www.epdk.gov.tr/Detay/DownloadDocument?id=MFtD8gj3yTU=",
+  "documents": [
+    "https://www.epdk.gov.tr/Detay/DownloadDocument?id=MFtD8gj3yTU="
+  ],
+  "source_sha256": "487909d575902e1171806d606b588922d2eb0403d2311694ddcabbf9ba1c0bfb",
+  "official_list": "https://www.epdk.gov.tr/Detay/Icerik/3-0-19/kurul-kararlari",
+  "official_list_leaf": 14708,
+  "text_status": "as-enacted",
+  "text_file": "metin.md",
+  "in_force": "2024-12-19",
+  "law_text_complete": true
+}
