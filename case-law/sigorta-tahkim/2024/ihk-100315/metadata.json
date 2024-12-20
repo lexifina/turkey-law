@@ -1,0 +1,15 @@
+{
+  "number": "İHK-2024/100315",
+  "award_date": "2024-12-20",
+  "heading_as_published": "20/12/2024 Tarih ve 2024/İHK-100315 Sayılı İtiraz Hakem Heyeti Kararı",
+  "issue": "Hakem Karar Dergisi 60 Ekim - Aralık 2024",
+  "source_url": "https://www.sigortatahkim.org/content/CmsFiles/revizekd60.pdf",
+  "source_sha256": "572455ecd384f5a2b4b1df9a6aea5c9080401ed3de32031c1680a412e3bf3dd0",
+  "text_status": "metadata-only",
+  "metadata_only_reason": "award heading not found in the second text extraction",
+  "source_images": 1,
+  "images_status": "issue contains images; award text taken from the text layer only",
+  "missing_components": [
+    "award text (see official issue PDF)"
+  ]
+}
