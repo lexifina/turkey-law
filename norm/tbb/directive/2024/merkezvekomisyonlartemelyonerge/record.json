@@ -1,0 +1,15 @@
+{
+  "kind": "directive",
+  "issuer": "Türkiye Barolar Birliği",
+  "title": "TÜRKİYE BAROLAR BİRLİĞİ MERKEZ VE KOMİSYONLAR TEMEL YÖNERGESİ",
+  "date": "2024-12-21",
+  "date_source": "official-acceptance-date",
+  "in_force_basis": "Acceptance date printed in the official TBB PDF heading.",
+  "commit_kind": "enacted",
+  "source": "https://d.barobirlik.org.tr/2024/merkezvekomisyonlartemelyonerge.pdf",
+  "source_sha256": "7e797ce60fe2e72f34647e1de0158a8dd292b147481ba92d44d6ae1d20809211",
+  "text_status": "as-enacted",
+  "version_label": "as-enacted",
+  "text_file": "text.txt",
+  "personal_data": "general professional rule; no case-party publication in this record"
+}
