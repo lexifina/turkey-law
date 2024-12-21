@@ -1,0 +1,29 @@
+{
+  "source_id": "9.5.41129",
+  "kind": "communique",
+  "register_kind": "Tebliğler",
+  "title": "LİSANSLI YEDİEMİN DEPOLARI YÖNETMELİĞİ ÜCRET TARİFESİ",
+  "number": "41129",
+  "path": "teblig/2024/41129",
+  "source": "https://www.mevzuat.gov.tr/anasayfa/MevzuatFihristDetayIframe?MevzuatTur=9&MevzuatNo=41129&MevzuatTertip=5",
+  "source_sha256": "752b8b71c680a7ab8ced108c05d46d472e054b6a98bf7a941e0a040adb71a818",
+  "source_bytes": 12852,
+  "published": "2024-12-21",
+  "gazette": "32759",
+  "in_force": "2024-12-21",
+  "in_force_basis": "Resmî Gazete publication date in the official listing (21.12.2024)",
+  "history": "current-text",
+  "label": "oldest version available",
+  "checked_on": "2026-11-15",
+  "word_count": 533,
+  "text_status": "current-consolidated",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  },
+  "source_links": [
+    "9.5.41129-Ek.xlsx"
+  ],
+  "completeness": "html-text-complete; linked annexes not fetched"
+}
