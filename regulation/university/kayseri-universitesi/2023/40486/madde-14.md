@@ -1,0 +1,2 @@
+Yan dal ve çift anadal programları
+MADDE 14- (1) Yan dal ve çift anadal programları; 24/4/2010 tarihli ve 27561 sayılı Resmî Gazete’de yayımlanan Yükseköğretim Kurumlarında Önlisans ve Lisans Düzeyindeki Programlar Arasında Geçiş, Çift Anadal, Yan Dal ile Kurumlar Arası Kredi Transferi Yapılması Esaslarına İlişkin Yönetmelik hükümlerine ve Senato tarafından belirlenen usul ve esaslara göre yürütülür.

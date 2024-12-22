@@ -1,0 +1,2 @@
+Yatay geçiş ve kurum içi geçiş
+MADDE 28- (1) Üniversitenin diploma programlarına diğer yükseköğretim kurumlarından yapılacak yatay geçişler ile Üniversitedeki eşdeğer diploma programları arasındaki kurum içi yatay geçişler; Yükseköğretim Kurumlarında Önlisans ve Lisans Düzeyindeki Programlar Arasında Geçiş, Çift Anadal, Yan Dal ile Kurumlar Arası Kredi Transferi Yapılması Esaslarına İlişkin Yönetmelik hükümleri ve Senato tarafından belirlenen esaslara uygun olarak yapılır.
