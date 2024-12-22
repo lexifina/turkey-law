@@ -1,0 +1,54 @@
+{
+  "checked_on": "2026-11-14",
+  "commencement_clauses": [
+    "MADDE 15 – (1) Bu Yönetmelik yayımı tarihinde yürürlüğe girer."
+  ],
+  "date_evidence": [
+    [
+      "2021-03-15",
+      "15.03.2021",
+      "original gazette publication date in official listing"
+    ],
+    [
+      "2024-12-22",
+      "RG-22/12/2024-32760",
+      "latest source-printed gazette amendment date for current consolidated text"
+    ],
+    [
+      "2024-12-22",
+      "RG-22/12/2024-32760",
+      "latest source-printed gazette amendment date for current consolidated text"
+    ],
+    [
+      "2024-12-22",
+      "22/12/2024",
+      "latest gazette date in source amendment table"
+    ]
+  ],
+  "date_quote": "RG-22/12/2024-32760",
+  "first_law": null,
+  "gazette": "31424",
+  "history": "current-text",
+  "images": {
+    "deferred": 0,
+    "omitted": 0,
+    "referenced": 0,
+    "source": 0
+  },
+  "in_force": "2024-12-22",
+  "in_force_basis": "latest source-printed gazette amendment date for current consolidated text",
+  "issuer": "Marmara Üniversitesi",
+  "issuer_slug": "marmara-universitesi",
+  "kind": "regulation",
+  "label": "oldest version available",
+  "path": "regulation/marmara-universitesi/2021/38411",
+  "published": "2021-03-15",
+  "source": "https://www.mevzuat.gov.tr/anasayfa/MevzuatFihristDetayIframe?MevzuatTur=8&MevzuatNo=38411&MevzuatTertip=5",
+  "source_bytes": 54159,
+  "source_id": "8.5.38411",
+  "source_sha256": "27564c261936893dcce1950197476234d6618dc7975bd444f43a3b4dcfc70d90",
+  "text_status": "current-consolidated",
+  "title": "MARMARA ÜNİVERSİTESİ TÜRKÇE ÖĞRETİMİ UYGULAMA\r\nVE ARAŞTIRMA MERKEZİ YÖNETMELİĞİ",
+  "university_id": 210,
+  "word_count": 1042
+}
