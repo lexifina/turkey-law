@@ -1,0 +1,50 @@
+{
+  "source_id": "9.5.23692",
+  "kind": "communique",
+  "register_kind": "Tebliğler",
+  "title": "ULUSAL MESLEK STANDARTLARINA DAİR TEBLİĞ (TEBLİĞ NO: 2017/6)",
+  "number": "23692",
+  "issuer": "Meslekî Yeterlilik Kurumu Başkanı",
+  "path": "teblig/2017/23692",
+  "source": "https://www.mevzuat.gov.tr/anasayfa/MevzuatFihristDetayIframe?MevzuatTur=9&MevzuatNo=23692&MevzuatTertip=5",
+  "source_sha256": "97e08286bb4b8345c9d7fde3d10a69c4f6e129ab9bd09b219e5425cba86220d7",
+  "source_bytes": 18806,
+  "published": "2017-06-22",
+  "gazette": "30104 Mükerrer",
+  "in_force": "2024-12-22",
+  "in_force_basis": "latest Resmî Gazete date printed in the source amendment notes/table (\"22/12/2024\") for the current consolidated text",
+  "date_evidence": [
+    [
+      "2024-12-22",
+      "22/12/2024",
+      "Resmî Gazete date in the source amendment table"
+    ],
+    [
+      "2024-08-04",
+      "4/8/2024",
+      "Resmî Gazete date in the source amendment table"
+    ],
+    [
+      "2022-10-30",
+      "30/10/2022",
+      "Resmî Gazete date in the source amendment table"
+    ]
+  ],
+  "commencement_clauses": [
+    "Bu Tebliğ yayımı tarihinde yürürlüğe girer"
+  ],
+  "history": "current-text",
+  "label": "oldest version available",
+  "checked_on": "2026-11-15",
+  "word_count": 318,
+  "text_status": "current-consolidated",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  },
+  "source_links": [
+    "9.5.23692%20EK.zip"
+  ],
+  "completeness": "html-text-complete; linked annexes not fetched"
+}
