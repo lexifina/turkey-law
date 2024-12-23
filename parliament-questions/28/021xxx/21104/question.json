@@ -1,0 +1,21 @@
+{
+  "record_type": "parliament-written-question",
+  "term": 28,
+  "legislative_year": 3,
+  "esas_no": "7/21104",
+  "submitted": "2024-12-23",
+  "submitted_as": "Başkanlığa geliş tarihi",
+  "mp": "Süreyya ÖNEŞ DERİCİ",
+  "province": "Muğla",
+  "summary": "Muğla'nın Bodrum ilçesinde yapımına başlanan Sahil Güvenlik Askeri Limanına ilişkin",
+  "status": "Süresi Geçtikten Sonra Cevaplandı",
+  "status_as_of": "2026-11-16",
+  "official_record": "https://www.tbmm.gov.tr/Denetim/Yazili-Soru-Onergesi-Detay/d391f819-d4df-4cbf-8a4d-0193f77be8e7",
+  "source": "https://tbmm.gov.tr/Denetim/YaziliSoruOnergesiTable",
+  "source_form": "https://tbmm.gov.tr/Denetim/Yazili-Soru-Onergeleri",
+  "source_sha256": "12054d5857e206f50d3397363483095ce85a26358864233e27ca50aaf6c19567",
+  "in_force": "2024-12-23",
+  "in_force_basis": "Date the question reached the Speaker (Başkanlığa geliş tarihi) in the official TBMM written-question record; parliamentary oversight record, not law",
+  "history_type": "metadata",
+  "text_status": "metadata-only: question text, addressee and answers are in the linked official record (PDFs on cdn.tbmm.gov.tr); not transcribed here"
+}
