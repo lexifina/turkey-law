@@ -1,0 +1,21 @@
+{
+  "record_type": "parliament-written-question",
+  "term": 28,
+  "legislative_year": 3,
+  "esas_no": "7/21147",
+  "submitted": "2024-12-23",
+  "submitted_as": "Başkanlığa geliş tarihi",
+  "mp": "Tahsin OCAKLI",
+  "province": "Rize",
+  "summary": "Rize-Artvin Havalimanında hizmet veren iş yerlerinin ödedikleri kira bedellerine ilişkin",
+  "status": "Süresi Geçtikten Sonra Cevaplandı",
+  "status_as_of": "2026-11-16",
+  "official_record": "https://www.tbmm.gov.tr/Denetim/Yazili-Soru-Onergesi-Detay/0dd2dc1e-1fc9-4560-a906-0193f7d27565",
+  "source": "https://tbmm.gov.tr/Denetim/YaziliSoruOnergesiTable",
+  "source_form": "https://tbmm.gov.tr/Denetim/Yazili-Soru-Onergeleri",
+  "source_sha256": "12054d5857e206f50d3397363483095ce85a26358864233e27ca50aaf6c19567",
+  "in_force": "2024-12-23",
+  "in_force_basis": "Date the question reached the Speaker (Başkanlığa geliş tarihi) in the official TBMM written-question record; parliamentary oversight record, not law",
+  "history_type": "metadata",
+  "text_status": "metadata-only: question text, addressee and answers are in the linked official record (PDFs on cdn.tbmm.gov.tr); not transcribed here"
+}
