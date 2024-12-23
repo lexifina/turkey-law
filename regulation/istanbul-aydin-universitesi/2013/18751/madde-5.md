@@ -1,0 +1,4 @@
+İKİNCİ BÖLÜM
+Merkezin Amacı ve Faaliyet Alanları
+Merkezin amacı
+MADDE 5 – (1) Merkezin amacı; içinde bulunulan toplumun kültür yapısının bilimsel verilere dayalı olarak araştırılıp incelenmesi, tarihi seyir içinde çeşitli kültürlerin birbirleriyle ilişkilerinde etkileşimlerinin tespiti, her tür inanç, din, dil, ırk gibi faktörlerin bu oluşum içindeki rollerinin izlenmesi, çağdaş dünyada iç ve dış olmak üzere felsefi-düşünsel, ideolojik, bilimsel, teknolojik ve benzeri akımların toplum kültürümüz üzerindeki tesirlerinin ortaya çıkarılabilmesi için, akademik çalışmalar ve araştırmalar yapılması, yayınlanması ve ortaya çıkacak ürünlerin seminer, sempozyum, konferans gibi bilimsel ve kültürel etkinlikler aracılığıyla topluma aktarılması ve böylece oluşacak özgür düşünce ve bilgi birikiminin evrensel değerlerle birlikte en geniş anlamda üniversitede yaygınlaşmasının sağlanmasıdır.
