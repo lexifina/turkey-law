@@ -1,0 +1,21 @@
+{
+  "record_type": "parliament-written-question",
+  "term": 28,
+  "legislative_year": 3,
+  "esas_no": "7/21339",
+  "submitted": "2024-12-23",
+  "submitted_as": "Başkanlığa geliş tarihi",
+  "mp": "Çiçek OTLU",
+  "province": "İstanbul",
+  "summary": "Bazı iş yerlerinde Birleşik Metal-İş Sendikası tarafından alınan grev kararlarının ertelenmesine dair Cumhurbaşkanı Kararı'na ilişkin",
+  "status": "Süresi Geçtikten Sonra Cevaplandı",
+  "status_as_of": "2026-11-16",
+  "official_record": "https://www.tbmm.gov.tr/Denetim/Yazili-Soru-Onergesi-Detay/2906f74a-25e2-48a9-9970-0193f8725905",
+  "source": "https://tbmm.gov.tr/Denetim/YaziliSoruOnergesiTable",
+  "source_form": "https://tbmm.gov.tr/Denetim/Yazili-Soru-Onergeleri",
+  "source_sha256": "f1921c9a93184767e86162bfeda3695a7bd93f0d797c98a6814e6270dc971b5c",
+  "in_force": "2024-12-23",
+  "in_force_basis": "Date the question reached the Speaker (Başkanlığa geliş tarihi) in the official TBMM written-question record; parliamentary oversight record, not law",
+  "history_type": "metadata",
+  "text_status": "metadata-only: question text, addressee and answers are in the linked official record (PDFs on cdn.tbmm.gov.tr); not transcribed here"
+}
