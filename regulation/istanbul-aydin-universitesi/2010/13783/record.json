@@ -1,0 +1,59 @@
+{
+  "checked_on": "2026-11-14",
+  "commencement_clauses": [
+    "MADDE 15 – (1) Bu Yönetmelik yayımı tarihinde yürürlüğe girer."
+  ],
+  "date_evidence": [
+    [
+      "2010-02-09",
+      "09.02.2010",
+      "original gazette publication date in official listing"
+    ],
+    [
+      "2024-12-23",
+      "RG-23/12/2024-32761",
+      "latest source-printed gazette amendment date for current consolidated text"
+    ],
+    [
+      "2024-12-23",
+      "RG-23/12/2024-32761",
+      "latest source-printed gazette amendment date for current consolidated text"
+    ],
+    [
+      "2024-12-23",
+      "RG-23/12/2024-32761",
+      "latest source-printed gazette amendment date for current consolidated text"
+    ],
+    [
+      "2024-12-23",
+      "23/12/2024",
+      "latest gazette date in source amendment table"
+    ]
+  ],
+  "date_quote": "RG-23/12/2024-32761",
+  "first_law": null,
+  "gazette": "27488",
+  "history": "current-text",
+  "images": {
+    "deferred": 0,
+    "omitted": 0,
+    "referenced": 0,
+    "source": 0
+  },
+  "in_force": "2024-12-23",
+  "in_force_basis": "latest source-printed gazette amendment date for current consolidated text",
+  "issuer": "İstanbul Aydın Üniversitesi",
+  "issuer_slug": "istanbul-aydin-universitesi",
+  "kind": "regulation",
+  "label": "oldest version available",
+  "path": "regulation/istanbul-aydin-universitesi/2010/13783",
+  "published": "2010-02-09",
+  "source": "https://www.mevzuat.gov.tr/anasayfa/MevzuatFihristDetayIframe?MevzuatTur=8&MevzuatNo=13783&MevzuatTertip=5",
+  "source_bytes": 34370,
+  "source_id": "8.5.13783",
+  "source_sha256": "e1e6c93b17d4e0e589bdb699a0998a50025b174fe21562d578c75cf928f08e63",
+  "text_status": "current-consolidated",
+  "title": "İSTANBUL AYDIN ÜNİVERSİTESİ ENERJİ POLİTİKALARI VE PİYASALARI UYGULAMA VE ARAŞTIRMA MERKEZİ YÖNETMELİĞİ",
+  "university_id": 308,
+  "word_count": 946
+}
