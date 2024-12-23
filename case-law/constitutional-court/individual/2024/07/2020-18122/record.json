@@ -1,0 +1,20 @@
+{
+  "applicant": "N.S.M.M.",
+  "application_date": "2020-06-30",
+  "application_number": "2020/18122",
+  "deciding_unit": "Birinci Bölüm",
+  "decision_date": "2024-07-17",
+  "id": "4f8aea66-619a-3667-6d00-07c86c7dcf32",
+  "in_force": "2024-12-23",
+  "in_force_basis": "official Resmî Gazete date",
+  "kind": "constitutional-court-individual-application",
+  "omitted_images": 0,
+  "outcome": "Esas (İhlal Olmadığı)",
+  "published": "2024-12-23",
+  "referenced_images": 0,
+  "source": "https://kararlarbilgibankasi.anayasa.gov.tr/kbb/pages/search/Tumu?id=a2JiOjRmOGFlYTY2LTYxOWEtMzY2Ny02ZDAwLTA3Yzg2YzdkY2YzMg&type=BireyselBasvuru",
+  "source_api": "https://kararlarbilgibankasi.anayasa.gov.tr/api/core/public/search",
+  "source_images": 0,
+  "source_sha256": "5577fe2065b2a45b15036ba717ba23267fba5fbf07fb5fbeb78d68cc614e3e6e",
+  "version_label": "as-enacted"
+}
