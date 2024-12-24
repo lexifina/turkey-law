@@ -1,0 +1,2 @@
+Kamu teşebbüsleri arası devirler
+MADDE 14- (1) Tesis veya birimlerin kamu teşebbüsleri arasında devri durumlarında toplam hizmet alımı harcama tavanı ile fazla çalışma izninin kamu teşebbüsleri arasındaki dağılımı, taraflarca yapılacak bir protokolle belirlenerek ilgisine göre Bakanlığa veya ÖİB’ye iletilir. Anlaşmaya varılamaması halinde dağılım ilgisine göre Bakanlık veya ÖİB tarafından belirlenir.

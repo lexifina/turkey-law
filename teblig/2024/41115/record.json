@@ -1,0 +1,33 @@
+{
+  "source_id": "9.5.41115",
+  "kind": "communique",
+  "register_kind": "Tebliğler",
+  "title": "2025 YILINA AİT GENEL YATIRIM VE FİNANSMAN PROGRAMININ UYGULANMASINA İLİŞKİN USUL VE ESASLARIN BELİRLENMESİNE DAİR TEBLİĞ",
+  "number": "41115",
+  "issuer": "Hazine ve Maliye Bakanı",
+  "path": "teblig/2024/41115",
+  "source": "https://www.mevzuat.gov.tr/anasayfa/MevzuatFihristDetayIframe?MevzuatTur=9&MevzuatNo=41115&MevzuatTertip=5",
+  "source_sha256": "cd8e26373dbd4491f7cd95b86ec8155400e1f13f6a597d5dd9aa9d179c61085a",
+  "source_bytes": 55770,
+  "published": "2024-12-24",
+  "gazette": "32762",
+  "in_force": "2024-12-24",
+  "in_force_basis": "Resmî Gazete publication date in the official listing (24.12.2024); own commencement article: \"Bu Tebliğin 1 inci, 2 nci, 3 üncü, 4 üncü, 11 inci, 15 inci, 22 nci ve 23 üncü maddeleri yayımı tarihinde, diğer maddeleri ise 1/1/2025 tarihinde yürürlüğe girer\"",
+  "commencement_clauses": [
+    "Bu Tebliğin 1 inci, 2 nci, 3 üncü, 4 üncü, 11 inci, 15 inci, 22 nci ve 23 üncü maddeleri yayımı tarihinde, diğer maddeleri ise 1/1/2025 tarihinde yürürlüğe girer"
+  ],
+  "history": "current-text",
+  "label": "oldest version available",
+  "checked_on": "2026-11-15",
+  "word_count": 3869,
+  "text_status": "current-consolidated",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  },
+  "source_links": [
+    "9.5.41115-Ek.xlsx"
+  ],
+  "completeness": "html-text-complete; linked annexes not fetched"
+}
