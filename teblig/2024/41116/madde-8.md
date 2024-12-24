@@ -1,0 +1,3 @@
+Yaptırımlar
+MADDE 8- (1) Bu Tebliğ hükümlerine aykırı davrananlar hakkında, 3/1/2002 tarihli ve 4733 sayılı Tütün, Tütün Mamulleri ve Alkol Piyasasının Düzenlenmesine Dair Kanunun ve 8/6/1942 tarihli ve 4250 sayılı İspirto ve İspirtolu İçkiler İnhisarı Kanununun ilgili maddelerinde hüküm altına alınan idari yaptırımlar uygulanır.
+(2) Dağıtım uygunluk belgesini haiz ithalatçı ve üretici firmalar tarafından üretilen veya ithal edilen tıbbi kullanım amaçlı etil alkolün toptan satış belgesini haiz beşeri ecza deposu ve ecza ticarethanesi dışındaki kişilere satılması, Yönetmeliğin 33 üncü maddesinin üçüncü fıkrasının (d) bendi kapsamında aykırılığın giderilmesinin mümkün olmadığı hallerden kabul edilir.
