@@ -1,0 +1,21 @@
+{
+  "record_type": "parliament-written-question",
+  "term": 28,
+  "legislative_year": 3,
+  "esas_no": "7/21461",
+  "submitted": "2024-12-25",
+  "submitted_as": "Başkanlığa geliş tarihi",
+  "mp": "Gökçe GÖKÇEN",
+  "province": "İzmir",
+  "summary": "Konya'da bir lisede düzenlenen müsamereye ilişkin",
+  "status": "Süresi Geçtikten Sonra Cevaplandı",
+  "status_as_of": "2026-11-16",
+  "official_record": "https://www.tbmm.gov.tr/Denetim/Yazili-Soru-Onergesi-Detay/5af5ede3-5acc-46b2-870e-019402ab2f48",
+  "source": "https://tbmm.gov.tr/Denetim/YaziliSoruOnergesiTable",
+  "source_form": "https://tbmm.gov.tr/Denetim/Yazili-Soru-Onergeleri",
+  "source_sha256": "77d4f116513d99846319ae0284e9ed5163a4b32e4c26b10cf1f259307ef7532a",
+  "in_force": "2024-12-25",
+  "in_force_basis": "Date the question reached the Speaker (Başkanlığa geliş tarihi) in the official TBMM written-question record; parliamentary oversight record, not law",
+  "history_type": "metadata",
+  "text_status": "metadata-only: question text, addressee and answers are in the linked official record (PDFs on cdn.tbmm.gov.tr); not transcribed here"
+}
