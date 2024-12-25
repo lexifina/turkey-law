@@ -1,0 +1,4 @@
+Hizmetin gereği olarak yapılabilecek yer değiştirmeler
+MADDE 9 – (Değişik:RG-13/7/2021-31540)(1)
+(1) Haklarında adli veya idari bir soruşturma yapılmış ve bu soruşturma sonucunda görev yerlerinde kalmasında sakınca görülmüş olan personelin hizmet bölgelerindeki ve/veya hizmet alanlarındaki zorunlu çalışma sürelerini tamamlamadan ve yer değiştirme suretiyle atanma dönemi beklenmeksizin hizmetin gereği olarak yer değiştirme suretiyle ataması yapılabilir.
+(2) Hizmet gereği yer değişikliği yapılan personelin ayrıldığı hizmet bölgesindeki eksik hizmetleri aynı hizmet bölgesi içindeki başka bir hizmet alanında tamamlattırılır. Personelin görev yaptığı hizmet bölgesinde ihtiyaç bulunmaması halinde diğer hizmet bölgelerine de ataması yapılabilir. Bu şekilde ataması yapılan personelin ayrıldığı hizmet bölgesindeki eksik hizmetleri daha sonra tamamlattırılır.

@@ -1,0 +1,3 @@
+Emeklilik talebiyle yerinde bırakılma
+MADDE 10 – (1) Bulunduğu hizmet bölgesinde zorunlu çalışma süresini tamamlamış olmaları nedeniyle yer değiştirme suretiyle atamaya tabi olacaklardan, emeklilik hakkını kazanmış olanlar ile bir sonraki yılın Temmuz ayına kadar kazanacak olanlar, en geç 17 Temmuzda emekli olacaklarına ilişkin dilekçelerini bağlı oldukları birim aracılığıyla Başkanlığa göndermeleri ve idari yönden bir sakınca görülmemesi halinde, emekli olacakları tarihe kadar bulundukları hizmet alanında bırakılırlar.
+(2) Birinci fıkra uyarınca yerinde bırakılanlardan emekli olma isteğinden vazgeçenler, yer değiştirme suretiyle atama dönemi beklenilmeksizin atamaya tabi tutulurlar ve bunlar ikinci kez anılan fıkra hükmünden yararlanamazlar.

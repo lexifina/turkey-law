@@ -1,0 +1,4 @@
+Bakanlıkta geçmiş hizmetlerin değerlendirilmesi ve intibak
+GEÇİCİ MADDE 7- (Ek:RG-25/12/2024-32763)
+(1) 1 sayılı Cumhurbaşkanlığı Teşkilatı Hakkında Cumhurbaşkanlığı Kararnamesinin Altıncı Kısmının Sekizinci Bölümünün geçici 3 üncü maddesi uyarınca Gelir İdaresi Başkanlığında yer değiştirmeye tabi unvanlardaki kadrolara atanan personelin Bakanlıkta yer değiştirmeye tabi olarak 1/9/2024 tarihine kadar çalıştıkları sürelerin tamamı, 22/9/2000 tarihli ve 24178 sayılı Resmî Gazete’de yayımlanan Maliye Bakanlığı Personelinin Yer Değiştirme Suretiyle Atanmalarına İlişkin Yönetmeliğin eki 1 sayılı Cetvelde belirlenen bölgelerdeki hizmet süreleri esas alınarak Ek-1’de yer alan hizmet bölgelerine intibak ettirilir.
+(2) Maliye Bakanlığı Personelinin Yer Değiştirme Suretiyle Atanmalarına İlişkin Yönetmeliğin eki 1 sayılı Cetvelde yer alan 6 ncı hizmet bölgesinde geçen zorunlu çalışma süreleri, Ek-1’de yer alan 5 inci hizmet bölgesinde geçmiş sayılır.

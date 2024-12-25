@@ -1,0 +1,3 @@
+Gelir idaresi grup müdürlerinin ataması
+MADDE 21 – (1) (Değişik:RG-25/12/2024-32763) Gelir idaresi grup müdürlerinin görev yaptıkları Defterdarlıklarda dört yıl hizmet süresini tamamlamaları esastır. Göreve başladıktan sonra mazeretleri ortaya çıkanlar ile bulundukları yerde dört yıllık hizmet süresini dolduranların durumu; kadro ve ihtiyaç, hizmetin gereği ve ilgililerin mazeretleri doğrultusunda her yıl Başkanlıkça değerlendirilir. Mazeretlerin değerlendirilmesinde Genel Yönetmelik hükümleri uygulanır. Grup müdürü ihtiyacı olan illerde bulunanların görev süreleri birer yıllık dönemler halinde uzatılabilir.
+(2) (Mülga:RG-13/7/2021-31540)(1)

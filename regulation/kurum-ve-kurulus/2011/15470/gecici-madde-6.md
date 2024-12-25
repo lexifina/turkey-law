@@ -1,0 +1,5 @@
+Hizmet bölgesinin değişmesi ve intibak
+GEÇİCİ MADDE 6- (Ek:RG-1/11/2023-32356)
+(1) Bu Yönetmeliğin 7 nci maddesinin birinci fıkrasının (f) bendi ve 12 nci maddesindeki hükümler saklı kalmak üzere, bu maddeyi ihdas eden Yönetmelikle yapılan intibaklar sonucunda, halen görev yapılan hizmet alanının bulunduğu hizmet bölgesi değişen personelin, bu hizmet alanındaki toplam çalışma süresi, Ek-1’de belirlenen hizmet bölgesinin zorunlu çalışma süresini aşamaz.
+(2) Yer değiştirmeye tabi personelin bu maddeyi ihdas eden Yönetmeliğin yürürlüğe girmesi ile birlikte bölgesi değişen hizmet alanlarındaki çalıştıkları süreler, değişikliklerin yürürlüğe girdiği tarihten önceki bölgesi esas alınarak intibak ettirilir.
+(3) Bölgesi değişen hizmet alanlarında görev yapan personelin 6/2/2023 tarihinden bu maddeyi ihdas eden Yönetmeliğin yürürlüğe girdiği tarihe kadar çalıştıkları süreler Ek-1’de yer alan hizmet alanları esas alınarak intibak ettirilir. Yapılan intibak sonucu, Ek-1’de yer alan her bir hizmet bölgesi için belirlenen zorunlu çalışma süresini aşan süreler, sadece bir üst bölgedeki zorunlu çalışma süresinden sayılır.

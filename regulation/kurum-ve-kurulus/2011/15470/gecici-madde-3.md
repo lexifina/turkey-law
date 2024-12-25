@@ -1,0 +1,3 @@
+Hizmet bölgesinin değişmesi
+GEÇİCİ MADDE 3 – (1) Yapılan intibaklar sonucunda, halen görev yapılan hizmet alanının bulunduğu hizmet bölgesi değişen personelin, bu hizmet alanındaki toplam çalışma süresi, bu Yönetmeliğin Ek-1’inde belirlenen hizmet bölgesinin zorunlu çalışma süresini aşamaz.
+(2) Halen görev yapılan hizmet alanının bulunduğu hizmet bölgesi değişen veya Geçici 1 inci ve Geçici 2 nci maddeler uyarınca yapılan intibaklar neticesinde, görev yapılmakta olan hizmet bölgesindeki zorunlu çalışma süresi dolan personelin, bu Yönetmeliğin Ek-3’ünde yer alan Yer Değiştirme Suretiyle Atanma İstek Formunda belirtmeleri halinde 2012 yılı yer değiştirme döneminde atamaları yapılmaz.

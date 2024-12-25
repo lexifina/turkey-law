@@ -1,0 +1,3 @@
+İntibak
+GEÇİCİ MADDE 1 – (1) Yönetmeliğin yayımı tarihinden önce yer değiştirme suretiyle atamaya tabi görevlerde bulunanların her bir hizmet alanında fiilen çalıştıkları sürelerin tamamı, bu Yönetmeliğin Ek-1’inde yer alan hizmet alanları esas alınarak intibak ettirilir.
+(2) Birinci fıkra uyarınca yapılan intibak sonucu bu Yönetmeliğin Ek-1’indeki her bir hizmet bölgesi için belirlenen zorunlu çalışma süresini aşan süreler, ilgili personelin bu Yönetmeliğin yürürlüğe girdiği tarihten itibaren 30 gün içinde görev yaptıkları birimler aracılığı ile Başkanlığa yazılı olarak başvurmaları halinde talep ettikleri hizmet bölgelerinin zorunlu çalışma sürelerinden indirilir.

@@ -1,0 +1,75 @@
+{
+  "source_id": "7.5.15470",
+  "kind": "regulation",
+  "register_kind": "Kurum ve Kuruluş Yönetmelikleri",
+  "title": "GELİR İDARESİ BAŞKANLIĞI PERSONELİ YER DEĞİŞTİRME YÖNETMELİĞİ",
+  "number": "15470",
+  "issuer_slug": "kurum-ve-kurulus",
+  "path": "regulation/kurum-ve-kurulus/2011/15470",
+  "source": "https://www.mevzuat.gov.tr/anasayfa/MevzuatFihristDetayIframe?MevzuatTur=7&MevzuatNo=15470&MevzuatTertip=5",
+  "source_sha256": "1e879fefaa96538401dbd233375ce8fd5bd6fc13bb3117b2076986be792ccb93",
+  "source_bytes": 60804,
+  "published": "2011-11-03",
+  "gazette": "28104",
+  "in_force": "2024-12-25",
+  "in_force_basis": "latest Resmî Gazete date printed in the source amendment notes/table (\"RG-25/12/2024\") for the current consolidated text",
+  "date_evidence": [
+    [
+      "2024-12-25",
+      "RG-25/12/2024",
+      "Resmî Gazete date printed in the source amendment note"
+    ],
+    [
+      "2024-12-25",
+      "25/12/2024",
+      "Resmî Gazete date in the source amendment table"
+    ],
+    [
+      "2023-11-01",
+      "RG-1/11/2023",
+      "Resmî Gazete date printed in the source amendment note"
+    ],
+    [
+      "2023-11-01",
+      "1/11/2023",
+      "Resmî Gazete date in the source amendment table"
+    ],
+    [
+      "2022-01-21",
+      "RG-21/1/2022",
+      "Resmî Gazete date printed in the source amendment note"
+    ],
+    [
+      "2022-01-21",
+      "21/1/2022",
+      "Resmî Gazete date in the source amendment table"
+    ],
+    [
+      "2021-07-13",
+      "RG-13/7/2021",
+      "Resmî Gazete date printed in the source amendment note"
+    ],
+    [
+      "2021-07-13",
+      "13/7/2021",
+      "Resmî Gazete date in the source amendment table"
+    ]
+  ],
+  "commencement_clauses": [
+    "Bu Yönetmelik yayımı tarihinde yürürlüğe girer"
+  ],
+  "history": "current-text",
+  "label": "oldest version available",
+  "checked_on": "2026-11-15",
+  "word_count": 3280,
+  "text_status": "current-consolidated",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  },
+  "source_links": [
+    "7.5.15470-EK.zip"
+  ],
+  "completeness": "html-text-complete; linked annexes not fetched"
+}

@@ -1,0 +1,4 @@
+Unvan değişikliğinde atama usulü
+MADDE 11 – (1) (Değişik:RG-13/7/2021-31540)(1) Gelir idaresi grup müdürü unvanına atanacaklar ile 5 inci maddede sayılan unvanlara atanacakların ilk görev yerleri 5 inci veya 4 üncü hizmet bölgeleridir. Bu şekilde ataması yapılanların anılan bölgelerdeki hizmet süresi iki yılı doldurmadığı sürece diğer bölgelere atamaları yapılmaz. Ancak, yer değiştirmeye tabi unvanlarda bu bölgelerdeki hizmetlerini tamamlayanların anılan bölgelere atanmaları zorunlu değildir.
+(2) 5 inci veya 4 üncü bölgelerde birinci fıkrada sayılan unvanlara ihtiyaç bulunmaması halinde, sırasıyla 3 üncü veya daha üst bölgelere atama yapılabilir.
+(3) (Değişik:RG-13/7/2021-31540)(1) 5 inci maddede sayılan unvanlara yapılan ilk atamalarda, 8 inci maddede yer alan hükümler iki yıl süre ile uygulanmaz. Ancak, göreve başladıktan sonra 8 inci maddede belirtilen mazeretleri ortaya çıkanlar, bu süreyi tamamlamadan durumlarına uygun yerlere atanabilirler.
