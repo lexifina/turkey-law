@@ -1,0 +1,16 @@
+{
+  "kind": "decision",
+  "issuer": "Sayıştay Temyiz Kurulu",
+  "number": "57604",
+  "decision_date": "2024-12-25",
+  "source_id": 31790,
+  "chamber": "8",
+  "file_number": "49202",
+  "public_body_type": "Diğer Özel Bütçeli İdareler",
+  "account_year": "2017",
+  "subject": "İhale Mevzuatı ile İlgili Kararlar",
+  "source": "https://www.sayistay.gov.tr/KararlarTemyiz/Detay/31790/",
+  "source_sha256": "d1c3ce99e5b2f907e12b0bfe45b98770e410e176aa2bf52f6e9ac9fbb860b9ea",
+  "text_status": "metadata-only",
+  "metadata_only_reason": "possible personal name in the official text"
+}
