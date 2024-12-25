@@ -1,0 +1,5 @@
+Hesap açılması
+MADDE 8 – (1) Bu Yönetmelik kapsamında kendilerine elektronik tebligat yapılacak kişi, kurum ve kuruluşlar Başkanlığa hesap açılması için başvuruda bulunur.
+(2) Başvuru esnasında beyan edilen bilgi ve belgeler Başkanlık tarafından değerlendirildikten sonra uygun görülmesi halinde sistem içerisinde hesap oluşturulur. Başvuru belgelerinde eksiklik olması halinde muhataba bilgi verilir ve eksikliklerin giderilmesi için on beş günden az olmamak üzere süre verilir.
+(3) Başvuru, bu Yönetmelik ekinde yer alan gerçek veya tüzel kişiler için elektronik tebligat hesabı başvuru formları kullanılarak yapılır. Başvuru formu elden teslim edilebileceği gibi Başkanlığın resmi internet sitesinde yer alan posta adresine taahhütlü posta ile de gönderilebilir.
+(4) Oluşturulan hesaba ilişkin erişim bilgileri Başkanlık tarafından muhataba güvenli bir şekilde iletilir. Hesaba erişim bilgilerinin iletimi ile sisteme erişimin güvenli bir şekilde yapılması için gerekli tedbirler Başkanlık tarafından alınır.
