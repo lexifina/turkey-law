@@ -1,0 +1,3 @@
+Kararların Başkanlığa bildirilmesi
+MADDE 16 – (1) Konunun Başkanlıkça intikal ettirilip ettirilmediğine bakılmaksızın aklama suçundan dolayı yapılan tüm soruşturmalar sonucunda verilen kovuşturmaya yer olmadığına dair karar veya düzenlenen iddianame, kovuşturmalar sonucunda verilen hüküm veya verilen elkoyma kararlarının bir örneği izleyen ayın sonuna kadar ilgili Cumhuriyet başsavcılığı ve mahkemelerce Başkanlığa gönderilir.
+(2) (Ek: 4/1/2010-2010/1 K.) Başkanlık, aklama ve terörün finansmanı suçu kapsamında kendisine intikal ettirilen kararlar ve alınan bildirimlerden hareketle, aklama ve terörün finansmanıyla mücadele sisteminin etkinliğini ölçmeye yönelik oluşturulacak istatistiki verileri yayımlamaya yetkilidir.
