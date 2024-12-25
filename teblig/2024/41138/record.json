@@ -1,0 +1,29 @@
+{
+  "source_id": "9.5.41138",
+  "kind": "communique",
+  "register_kind": "Tebliğler",
+  "title": "2025 YILI ARABULUCULUK ASGARİ ÜCRET TARİFESİ",
+  "number": "41138",
+  "path": "teblig/2024/41138",
+  "source": "https://www.mevzuat.gov.tr/anasayfa/MevzuatFihristDetayIframe?MevzuatTur=9&MevzuatNo=41138&MevzuatTertip=5",
+  "source_sha256": "d6a75b8ff21f9e2c6f47731604e504dd19a48bd4b5977c4bd79e07e0f0a8d431",
+  "source_bytes": 18112,
+  "published": "2024-12-25",
+  "gazette": "32763",
+  "in_force": "2024-12-25",
+  "in_force_basis": "Resmî Gazete publication date in the official listing (25.12.2024)",
+  "history": "current-text",
+  "label": "oldest version available",
+  "checked_on": "2026-11-15",
+  "word_count": 917,
+  "text_status": "current-consolidated",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  },
+  "source_links": [
+    "9.5.41138-Ek.docx"
+  ],
+  "completeness": "html-text-complete; linked annexes not fetched"
+}
