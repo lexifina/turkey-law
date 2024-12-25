@@ -1,0 +1,2 @@
+Amaç ve kapsam
+MADDE 1- (1) Bu Tebliğin amacı, yerli üretici Aksa Akrilik Kimya Sanayii A.Ş. firması tarafından yapılan başvuruya istinaden Çin Halk Cumhuriyeti menşeli 5501.30.00.00.00 gümrük tarife istatistik pozisyonu altında sınıflandırılan “akrilik veya modakrilik olanlar” eşya tanımlı “akrilik elyaf” ürününe yönelik bir damping soruşturması açılması ve açılan soruşturmanın usul ve esaslarının belirlenmesidir.
