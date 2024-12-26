@@ -1,0 +1,25 @@
+{
+  "kind": "norm",
+  "issuer": "Enerji Piyasası Düzenleme Kurumu",
+  "market": "electricity",
+  "document_type": "board-decision",
+  "number": "13156-4",
+  "decision_date": "2024-12-26",
+  "title": "1/1/2025 tarihinden itibaren uygulanan ödeme bildirimi ve ikinci bildirim bırakma hizmetlerine ilişkin bedeller",
+  "resmi_gazete_date": "2024-12-31",
+  "resmi_gazete_number": "32769 (5. Mükerrer)",
+  "categories": [
+    "Ödeme Bildirimi ve İkinci İhbar Bırakma Bedelleri"
+  ],
+  "source": "https://www.epdk.gov.tr/Detay/DownloadDocument?id=rdMjaXDZmoI=",
+  "documents": [
+    "https://www.epdk.gov.tr/Detay/DownloadDocument?id=rdMjaXDZmoI="
+  ],
+  "source_sha256": "8186f35f5770961949d91ffcc4d4a0e517125b8426524ffd90a38a540872cfdb",
+  "official_list": "https://www.epdk.gov.tr/Detay/Icerik/3-0-39/kurul-kararlari-",
+  "official_list_leaf": 1855,
+  "text_status": "as-enacted",
+  "text_file": "metin.md",
+  "in_force": "2024-12-26",
+  "law_text_complete": true
+}
