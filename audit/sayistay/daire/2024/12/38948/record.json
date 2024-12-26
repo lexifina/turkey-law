@@ -1,0 +1,17 @@
+{
+  "kind": "decision",
+  "issuer": "Sayıştay 7. Dairesi",
+  "number": "633",
+  "decision_date": "2024-12-26",
+  "source_id": 38948,
+  "chamber": "7",
+  "ilam_number": "196",
+  "item_number": 1,
+  "public_body_type": "Genel Bütçe Kapsamındaki İdareler",
+  "account_year": 2021,
+  "subject": "Çeşitli Konuları İlgilendiren Kararlar",
+  "source": "https://www.sayistay.gov.tr/KararlarDaire/Detay/38948/",
+  "source_sha256": "128a227ff76ee120a9d6d044c11450d0cbdd46bbf767330964cbea0eaac649ac",
+  "text_status": "metadata-only",
+  "metadata_only_reason": "possible personal name in the official text"
+}
