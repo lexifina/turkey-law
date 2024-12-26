@@ -1,0 +1,25 @@
+{
+  "kind": "norm",
+  "issuer": "Enerji Piyasası Düzenleme Kurumu",
+  "market": "electricity",
+  "document_type": "board-decision",
+  "number": "13156-7",
+  "decision_date": "2024-12-26",
+  "title": "2025 yılına ilişkin şebeke işletmecisinin tahsil edeceği yıllık işletim bedeli",
+  "resmi_gazete_date": "2024-12-31",
+  "resmi_gazete_number": "32769 (5. Mükerrer)",
+  "categories": [
+    "Lisanssız Elektrik Üretim Yönetmeliği Kapsamındaki Bedeller"
+  ],
+  "source": "https://www.epdk.gov.tr/Detay/DownloadDocument?id=lbbvVDt5rOU=",
+  "documents": [
+    "https://www.epdk.gov.tr/Detay/DownloadDocument?id=lbbvVDt5rOU="
+  ],
+  "source_sha256": "1eff4f88fa026b0e9925ed3225e65be20f937260e73a244189a883f28af4c740",
+  "official_list": "https://www.epdk.gov.tr/Detay/Icerik/3-0-39/kurul-kararlari-",
+  "official_list_leaf": 1853,
+  "text_status": "as-enacted",
+  "text_file": "metin.md",
+  "in_force": "2024-12-26",
+  "law_text_complete": true
+}
