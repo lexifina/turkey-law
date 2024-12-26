@@ -1,0 +1,25 @@
+{
+  "kind": "norm",
+  "issuer": "Enerji Piyasası Düzenleme Kurumu",
+  "market": "electricity",
+  "document_type": "board-decision",
+  "number": "13156-8",
+  "decision_date": "2024-12-26",
+  "title": "2025 yılına ilişkin şebeke işletmecisi ve görevli tedarik şirketlerinin tahsil edeceği işlem bedeli",
+  "resmi_gazete_date": "2024-12-31",
+  "resmi_gazete_number": "32769 (5. Mükerrer)",
+  "categories": [
+    "Lisanssız Elektrik Üretim Yönetmeliği Kapsamındaki Bedeller"
+  ],
+  "source": "https://www.epdk.gov.tr/Detay/DownloadDocument?id=ZkhZAuiYpNI=",
+  "documents": [
+    "https://www.epdk.gov.tr/Detay/DownloadDocument?id=ZkhZAuiYpNI="
+  ],
+  "source_sha256": "fd4833d9cf3885f8a780d226ba01d331b548a5a36d56328f7aa182cdd25f272b",
+  "official_list": "https://www.epdk.gov.tr/Detay/Icerik/3-0-39/kurul-kararlari-",
+  "official_list_leaf": 1853,
+  "text_status": "as-enacted",
+  "text_file": "metin.md",
+  "in_force": "2024-12-26",
+  "law_text_complete": true
+}
