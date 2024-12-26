@@ -1,0 +1,2 @@
+Geçiş hükümleri
+GEÇİCİ MADDE 1 – (1) Elektronik ürün senedi oluşturmak üzere gerekli olan sistem, Elektronik Kayıt Kuruluşu tarafından kurulana kadar, depolanmak amacıyla teslim ve kabul edilen ürünler için lisanslı depo işletmelerince basılı ürün senedi düzenlenebilir (Ek ibare:RG-18/1/2013-28532) ve ürün senedi defteri tutulabilir. Düzenlenen bu ürün senetlerinin elektronik ortama aktarılması ile matbu olarak basılıp kullanılmayan ürün senetlerinin imhasına ilişkin usul ve esaslar Bakanlıkça belirlenir.

@@ -1,0 +1,2 @@
+GEÇİCİ MADDE 2 – (Ek:RG-18/1/2013-28532)
+(1) Elektronik ürün senedi işlemlerinde; alıcı karşısında satıcı, satıcı karşısında alıcı konumuna geçerek piyasa katılımcılarının hak ve yükümlülüklerini teminat altına alan, işlemlerin eşleştirilmesi, işlem gören elektronik ürün senedinin teslimatı gibi işleri yürütmek üzere, yetkilendirilen ticaret borsası bünyesinde bir takas merkezi oluşturulur veya bu borsanın takas işlemlerinden doğan sorumluluğu saklı kalmak kaydıyla takas hizmetleri konusunda faaliyet gösteren bir kuruluşla anlaşma yapılır.

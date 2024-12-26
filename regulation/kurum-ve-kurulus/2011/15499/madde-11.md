@@ -1,0 +1,2 @@
+Elektronik kayıt kuruluşu ortaklık yapısı (Değişik başlık:RG-2/7/2019-30819)
+MADDE 11 – (1) Türkiye Odalar ve Borsalar Birliği, (Ek ibare:RG-2/7/2019-30819) Borsa, (Değişik ibare:RG-2/7/2019-30819) ticaret borsaları, lisanslı depo işletmeleri, yetkili sınıflandırıcılar, bankalar ve diğer kamu tüzelkişileri ile gerçek ve tüzel kişiler ilgili mevzuatta öngörülen koşulları taşımak kaydıyla kurulmuş veya kurulacak EKK anonim şirketine ortak olabilir veya aralarındaki sözleşme uyarınca bunlarla birlikte çalışabilir.

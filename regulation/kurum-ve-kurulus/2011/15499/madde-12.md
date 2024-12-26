@@ -1,0 +1,3 @@
+Elektronik kayıt kuralları ve hüküm bulunmayan haller
+MADDE 12 – (1) Bakanlık, EKK'nın önerisi üzerine, elektronik ürün senetlerinin şekline, içeriğine, oluşturulmasına, alım satımına, devrine, iptaline, haczine, hapis hakkının kullanımına, ilgi tarafların kayıt ve bilgilere erişimine ve işlem yapmasına, kayıt ve işlemlerin saklanmasına, EKK üyeliğine ve ücret tarifesine, Kanun ve bu Yönetmelik kapsamında faaliyet gösteren tarafların onaylı ücret tarifeleri çerçevesinde ücretlerin tahsil edilmesine ve bu Yönetmelikte öngörülen diğer hususlara ilişkin olarak Elektronik Kayıt Kurallarını çıkarmaya yetkilidir.
+(2) Elektronik ürün senetlerine ilişkin bu Yönetmelikte hüküm bulunmayan hallerde, basılı ürün senetlerine ilişkin Kanun ve ilgili yönetmelik hükümleri uygulanır.
