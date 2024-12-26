@@ -1,0 +1,3 @@
+Doğrudan temin işlemleri
+MADDE 16- (1) Doğrudan temin yöntemiyle yapılan alımların EKAP’a kaydedilerek DTN alınması ve alım sonucuna ilişkin bilgilerin en geç alımın yapıldığı ayı takip eden ayın onuncu gününe kadar Kuruma bildirilmesi zorunludur.
+(2) Doğrudan temin yöntemiyle yapılan alımlarda; onay belgesi, piyasa fiyat araştırması, ilan/davet, dokümanın (şartname, sözleşme taslağı ve benzeri belgeler) yüklenmesi, fiyat tekliflerinin kaydı, e-teklif, e-eksiltme, teminat, sözleşme işlemleri, bildirim ve tebligatlar ile benzeri hususlara ilişkin işlemlerden Kurumca belirlenenler EKAP üzerinden yürütülür.

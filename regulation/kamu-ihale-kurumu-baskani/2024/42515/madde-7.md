@@ -1,0 +1,3 @@
+Tebligatlara ilişkin esaslar
+MADDE 7- (1) Tebligat, iş günlerinde ve 09.00-18.00 saatleri arasında (yarım mesai günlerinde 09.00-13.00) yapılır. Bu süreler dışında gönderilen tebligatlar, kaydedildiği tarihi takip eden ilk iş günü içinde ilgililerin EKAP’ta yer alan bildirim kutusuna ulaştırılır. Tebligatın ilgililerin bildirim kutusuna ulaştığı tarih tebliğ tarihi sayılır.
+(2) Kendisine tebligat yapılan ilgilinin EKAP’ta kayıtlı e-posta adresine ve/veya mobil telefon numarasına, tebligatın yapıldığına dair bilgilendirme mesajı gönderilebilir. Bilgilendirme mesajının herhangi bir nedenle ilgiliye geç ulaşması veya ulaşmaması, tebligatın zamanını ve geçerliliğini etkilemez.
