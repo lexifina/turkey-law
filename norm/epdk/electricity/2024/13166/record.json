@@ -1,0 +1,25 @@
+{
+  "kind": "norm",
+  "issuer": "Enerji Piyasası Düzenleme Kurumu",
+  "market": "electricity",
+  "document_type": "board-decision",
+  "number": "13166",
+  "decision_date": "2024-12-26",
+  "title": "Son Kaynak Tedarik Tarifesinin Düzenlenmesi Hakkında Tebliğ’in 6 ncı maddelerinde yer alan Kurulca belirlenen katsayıya ilişkin",
+  "resmi_gazete_date": "2024-12-28",
+  "resmi_gazete_number": "32766",
+  "categories": [
+    "Son Kaynak Tedarik Tarifesine İlişkin Kurul Kararları"
+  ],
+  "source": "https://www.epdk.gov.tr/Detay/DownloadDocument?id=8MCQRVZDsjU=",
+  "documents": [
+    "https://www.epdk.gov.tr/Detay/DownloadDocument?id=8MCQRVZDsjU="
+  ],
+  "source_sha256": "b7b2d2ad52b214ae9e62a8dc1f2a7761790cbc4d81bf803df73096016836d8ef",
+  "official_list": "https://www.epdk.gov.tr/Detay/Icerik/3-0-39/kurul-kararlari-",
+  "official_list_leaf": 15595,
+  "text_status": "as-enacted",
+  "text_file": "metin.md",
+  "in_force": "2024-12-26",
+  "law_text_complete": true
+}
