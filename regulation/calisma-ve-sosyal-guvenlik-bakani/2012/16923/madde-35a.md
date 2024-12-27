@@ -1,0 +1,5 @@
+Tebligatların bildirimi ve elektronik tebligat
+MADDE 35/A –(Ek:RG-30/4/2015-29342)(4)
+(1) Genel Müdürlükçe kişi, kurum veya kuruluşlara yazılacak yazı ve yapılacak bildirimlerin tebliğinde, İSG-KATİP sisteminde veya Sosyal Güvenlik Kurumunda işyeri sicil sistemine beyan edilen adres ve/veya elektronik posta dikkate alınır. Adres ve/veya elektronik posta değişikliği olması halinde bu değişikliğin bir ay içinde İSG-KATİP sistemi üzerinden beyan edilmesi zorunludur. Değişikliği zamanında beyan etmeyenlerin daha önce beyan ettiği adrese ve elektronik postaya yapılan yazışma ve bildirimler geçerlidir.
+(2) Elektronik Tebligat Yönetmeliği kapsamında şirket veya kurumlar, bu Yönetmeliğin 19 uncu maddesine göre yapılacak tebligatlara esas olmak üzere elektronik tebligat adresinin İSG-KATİP sistemine kayıt edilmesi zorunludur. (4)
+(3) Elektronik posta adresi zorunluluğu bulunmayan kişi ve kurumlar ise 28/A, 31, 32, 33 ve 34 üncü maddeleri çerçevesinde kendilerine elektronik tebligat yapılmasını istemeleri halinde elektronik tebligat adreslerinin İSG-KATİP sistemine kayıt edilmesi zorunludur. (4)
