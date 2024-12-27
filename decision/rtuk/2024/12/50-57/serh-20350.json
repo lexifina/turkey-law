@@ -1,0 +1,15 @@
+{
+  "issuer": "Radyo ve Televizyon Üst Kurulu (RTÜK)",
+  "record_type": "Şerh (karşı oy yazısı)",
+  "meeting": "2024/50",
+  "meeting_date": "2024-12-27",
+  "meeting_date_as_published": "27.12.2024",
+  "decision_no": "57",
+  "source_id": 20350,
+  "title": "RTÜK kararı 2024/50-57 karşı oy yazısı",
+  "source": "https://www.rtuk.gov.tr/UstKurulKarar/Detay/20350",
+  "source_sha256": "ea6e0fe3960d0dd123de9af58d966dab398a1d9c990b1a58fd45520c281b3078",
+  "text_status": "metadata-only",
+  "metadata_only_reason": "possible private person name(s) in the official text (20 match(es)); full text withheld, official link only",
+  "law_text_complete": false
+}
