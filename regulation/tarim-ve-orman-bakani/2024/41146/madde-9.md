@@ -1,0 +1,7 @@
+Su verimliliği belgesinin kullanımı, izlenmesi, belgede değişiklikler ve belgenin iptali
+MADDE 9- (1) Su verimliliği belgelerinin geçerlilik süresi beş yıldır.
+(2) Belge alma yükümlülüğü bulunanlar, belgenin geçerlilik süresi dolmadan üç ay önce belgenin yenilenmesi için başvuruda bulunurlar ve bu durumda belgelendirme süreci yeniden başlar.
+(3) Su verimliliği bilgi sistemi üzerinden yapılması gereken beyanları yapmayanlar ile yerinde incelemeler sırasında su verimliliği sistemini uygulamadığı ve verilen belgenin sürekliliğini sağlamadığı tespit edilen belge sahiplerine doksan gün iyileştirme süresi verilir. Doksan günlük süre sonunda; gerekli iyileştirmenin belge seviyesinin sürekliliğini sağlayacak düzeyde olduğu tespit edilenlerin su verimliliği belgesi geçerliliğini sürdürür. Aksi halde su verimliliği belgesi iptal edilir.
+(4) Bakanlık tarafından yerinde inceleme yapılarak faaliyetlerin su verimliliği belge şartlarına uygunluğu kontrol edilir.
+(5) Su verimliliği belge kriterlerinin sağlanmasında değişiklik olması halinde, değişikliği takip eden altmış gün içerisinde su verimliliği bilgi sistemi üzerinden Bakanlığa bildirimde bulunulur. Verilen süre içerisinde bildirim yapılmadığının tespiti halinde, su verimliliği belgesi iptal edilerek belge sahibine tebliğ edilir.
+(6) Belge alma yükümlülüğü bulunanlardan belgesi iptal edilenlerin belge iptal tarihini takip eden doksan gün içerisinde yeniden belge başvurusunda bulunmaları zorunludur.
