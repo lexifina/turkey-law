@@ -1,0 +1,20 @@
+{
+  "record_type": "gazette-item",
+  "gazette": "Resmî Gazete",
+  "jurisdiction": "TR",
+  "date": "2024-12-28",
+  "issue": "32766",
+  "edition": "regular",
+  "item": 24,
+  "section": "YÜRÜTME VE İDARE BÖLÜMÜ",
+  "heading": "TEBLİĞLER",
+  "title": "Yurt Dışına Çıkış Harcı Uygulama Genel Tebliği",
+  "official_link": "https://www.resmigazete.gov.tr/eskiler/2024/12/20241228-24.htm",
+  "link_format": "htm",
+  "index_url": "https://www.resmigazete.gov.tr/eskiler/2024/12/20241228.htm",
+  "index_sha256": "415754f0c256485d202198a5ab44ad8d772e73ce0815156a990b633bb74a6570",
+  "index_header": "28 Aralık 2024 ... 32766 Sayılı Resmî Gazete",
+  "issue_pdf": "https://www.resmigazete.gov.tr/eskiler/2024/12/20241228.pdf",
+  "in_force_basis": "Resmî Gazete publication date; not a commencement reading.",
+  "text_status": "metadata-only; text not yet fetched (follow-up pass adds it as its own commit)"
+}
