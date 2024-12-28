@@ -1,0 +1,77 @@
+{
+  "source_id": "9.5.11220",
+  "kind": "communique",
+  "register_kind": "Tebliğler",
+  "title": "VAKIFLARA VERGİ MUAFİYETİ TANINMASI HAKKINDA GENEL TEBLİĞ (SERİ NO:1)",
+  "number": "11220",
+  "path": "teblig/2007/11220",
+  "source": "https://www.mevzuat.gov.tr/anasayfa/MevzuatFihristDetayIframe?MevzuatTur=9&MevzuatNo=11220&MevzuatTertip=5",
+  "source_sha256": "ec19b96f25df717c78f3adde36552dfd363b8e1267d8e78036c861b7e1ee7cca",
+  "source_bytes": 57657,
+  "published": "2007-04-03",
+  "gazette": "26482",
+  "in_force": "2024-12-28",
+  "in_force_basis": "latest Resmî Gazete date printed in the source amendment notes/table (\"RG-28/12/2024\") for the current consolidated text",
+  "date_evidence": [
+    [
+      "2024-12-28",
+      "RG-28/12/2024",
+      "Resmî Gazete date printed in the source amendment note"
+    ],
+    [
+      "2024-12-28",
+      "28/12/2024",
+      "Resmî Gazete date in the source amendment table"
+    ],
+    [
+      "2021-04-20",
+      "RG-20/4/2021",
+      "Resmî Gazete date printed in the source amendment note"
+    ],
+    [
+      "2021-04-20",
+      "20/4/2021",
+      "Resmî Gazete date in the source amendment table"
+    ],
+    [
+      "2013-03-23",
+      "RG-23/3/2013",
+      "Resmî Gazete date printed in the source amendment note"
+    ],
+    [
+      "2013-03-23",
+      "23/3/2013",
+      "Resmî Gazete date in the source amendment table"
+    ],
+    [
+      "2012-08-15",
+      "RG-15/8/2012",
+      "Resmî Gazete date printed in the source amendment note"
+    ],
+    [
+      "2012-08-15",
+      "15/8/2012",
+      "Resmî Gazete date in the source amendment table"
+    ]
+  ],
+  "history": "current-text",
+  "label": "oldest version available",
+  "checked_on": "2026-11-15",
+  "word_count": 2729,
+  "text_status": "current-consolidated",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  },
+  "source_links": [
+    "http://www.gelirler.gov.tr/gelir2.nsf/a48a62bb6aac107d80256d7b0030ba02/d0d8fcc15fc69ce680256d7b0037fa6e?OpenDocument",
+    "http://www.gelirler.gov.tr/gelir2.nsf/vergiusultum?OpenPage",
+    "http://www.gelirler.gov.tr/gelir2.nsf/SM3568?OpenFrameSet",
+    "http://www.gelirler.gov.tr/gelir2.nsf/0fe7ea4c08e2e86e86256aa4002edc73/02a87c819d9a28a686256aa8003f0332?OpenDocument",
+    "http://www.gelirler.gov.tr/gelir2.nsf/668add3fecabb65386256aa4002edcc0/05061ae7eb36f22986256aa8004e7e13?OpenDocument",
+    "http://www.gelirler.gov.tr/gelir2.nsf/90a6dfc8b781167d86256aa4002edc61/98da287936173f4786256aa900356260?OpenDocument",
+    "http://www.gelirler.gov.tr/gelir2.nsf/de7cc8d86ecfeb2e86256aa4002edc7b/e54468909d1870a986256aa8003966ec?OpenDocument"
+  ],
+  "completeness": "html-text-complete; linked annexes not fetched"
+}

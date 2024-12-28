@@ -1,0 +1,1 @@
+[1] 28/12/2024 tarihli ve 32766 sayılı Resmî Gazete’de yayımlanan değişiklik ile Tebliğe “3.2. Gönderilecek mali tablolar ve raporlar” başlıklı bölümünden sonra gelmek üzere bu bölüm eklenmiş ve sonraki bölüm numarası buna göre teselsül ettirilmiştir.
