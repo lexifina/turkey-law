@@ -1,0 +1,2 @@
+Amaç ve kapsam
+MADDE 1- (1) Bu Tebliğin amacı, 10/10/2023 tarihli ve 32335 sayılı Resmî Gazete’de yayımlanan İthalatta Haksız Rekabetin Önlenmesine İlişkin Tebliğ (Tebliğ No: 2023/28) ile Çin Halk Cumhuriyeti menşeli 2918.14.00.00.00 gümrük tarife istatistik pozisyonu altında kayıtlı “sitrik asit” ürününe yönelik başlatılan ve Ticaret Bakanlığı İthalat Genel Müdürlüğü tarafından yürütülen damping soruşturmasının tamamlanması neticesinde alınan kararın yürürlüğe konulmasıdır.
