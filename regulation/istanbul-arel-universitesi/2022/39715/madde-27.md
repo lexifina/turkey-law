@@ -1,0 +1,4 @@
+Zorunlu ders tekrarı
+MADDE 27 – (1) Öğrenciler, yarıyıl başında bir önceki akademik yılın aynı yarıyıl sonu sınavlarında FF, FD, NA, I, W, U alarak başarısız oldukları dersleri öncelikle almak zorundadır. GNO su 1,85’in altında olan öğrenciler ikinci öncelikle bir önceki dönemde DC ve DD notları aldıkları dersleri tekrar almak zorundadır.
+(2) Öğrenciler, yarıyıl başında bir önceki akademik yılın aynı yarıyılın derslerinden herhangi bir nedenle almadığı dersleri varsa azami iş yükünü 36 AKTS’yi aşmamak kaydı ile üçüncü öncelikli bu dersleri almak zorundadır.
+(3) Öğrencinin alttan aldığı derslerde daha önce devamsızlıktan kalmadıysa devam zorunluluğu yoktur. Ancak, bu durumdaki öğrenciler, yıl içi ölçme değerlendirme etkinliklerine katılmak, dersin uygulama, laboratuvar, atölye ve benzeri çalışmalarına devam etmek zorundadır.

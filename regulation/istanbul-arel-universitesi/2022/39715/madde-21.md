@@ -1,0 +1,5 @@
+Öğrenim programları
+MADDE 21 – (1) Bölüm ve programlara ait öğrenim programı, ilgili fakülte/yüksekokul/MYO kurulunun kararı üzerine Senato onayıyla kesinleşir. Öğrenim programlarında, mezuniyet için tamamlanması öngörülen ders, laboratuvar, uygulama, staj/işletmede mesleki eğitim ve benzeri çalışmalar, haftalık saat ve kredileri, varsa ön koşullar, dönem başına toplam 30 AKTS kredilik derslerin öğrenim süresine dağılımı belirtilir. Öğrenim programlarında öngörülen değişiklikler yine aynı usulle belirlenir. Kararlarda, değişikliklerden etkilenecek öğrenciler için geçerli olacak uygulamalara da yer verilir. Değişiklikler en erken, izleyen dönemin başından itibaren uygulamaya konulur.
+(2) Ders programları içerisinde yer alan tüm derslerin ve diğer öğrenme faaliyetlerinin tanımları, ÖBS’de belirtilmiş olan formata uygun olarak yapılır.
+(3) Ders programlarında yer alan ve Senato tarafından uygun görülen bazı dersler, ilgili mevzuat hükümleri esasına göre uzaktan eğitim yoluyla verilebilir.
+(4)Yaz öğretimi, 3/11/2017 tarihli ve 30229 sayılı Resmî Gazete’de yayımlanan İstanbul Arel Üniversitesi Yaz Okulu Yönetmeliğinde belirlenen esaslar çerçevesinde yürütülür.

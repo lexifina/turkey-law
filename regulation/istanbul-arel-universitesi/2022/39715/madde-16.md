@@ -1,0 +1,4 @@
+Burslar
+MADDE 16 – (1) ÖSYM kılavuzunda yer alan burslu ve indirimli programlara yerleşen öğrencilerin bursları ve indirimleri başarı durumuna bakılmaksızın, zorunlu hazırlık sınıfı hariç, ön lisans programlarında 2+1 yıl, lisans bölümlerinde 4+1 yıl, Tıp Fakültesi için 6+1 yıl boyunca devam eder. Hazırlık sınıfı olan programlarda belirlenen sürelere 1 yıl eklenir. Kayıt yenilenmeyen ve ders kaydı yapılmayan süreler, bu süreye dâhildir. Yaz Okulu burs kapsamı dışındadır.
+(2) Üniversiteye girişte veya eğitime devam ederken sağlanacak öğrenim ücreti muafiyet bursları ve ek bursların, kapsam, koşul ve sürelerine ilişkin esaslar, Yönerge ile belirlenir.
+(3) Öğrencilere sağlanan burslar, disiplin cezası alınması durumunda ve kendilerine tanınan sürelerde öğrenimini tamamlayamadıkları durumda kesilir. Bu durumda olan öğrenciler diledikleri takdirde öğretim ücretini yatırmak koşulu ile öğrenimlerine devam edebilirler.

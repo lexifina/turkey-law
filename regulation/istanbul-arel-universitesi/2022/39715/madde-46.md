@@ -1,0 +1,3 @@
+Mezuniyet, diploma ve diploma eki
+MADDE 46 – (1) Kayıtlı olduğu programın tüm derslerini başarı ile bitirerek ön lisansta 120 AKTS, lisansta 240 AKTS’yi tamamlayan, GNO’su en az 2,00 olan, varsa staj, İşletmede Mesleki Eğitim, bitirme projesi gibi yükümlülüklerini yerine getiren ve mezuniyetlerine ilgili yönetim kurullarınca karar verilen öğrencilere, ilgili yönerge hükümlerine uygun olarak hazırlanan diploması ve diploması ile birlikte İngilizce yazılmış bir diploma eki verilir.
+(2) Kayıtlı olduğu lisans programını tamamlayamayan, ancak dördüncü yarıyıl sonuna kadar ders programında bulunan tüm dersleri bu Yönetmelik hükümlerine göre tamamlayan ve GNO’su en az 2,00 olan öğrenciye istemesi durumunda önlisans diploması verilir.

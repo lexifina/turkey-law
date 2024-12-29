@@ -1,0 +1,9 @@
+Ders yükü
+MADDE 23 – (1) Ders yükü, bir öğrencinin herhangi bir dönemde aldığı derslerin toplam AKTS kredisidir.
+(2) Bir öğrencinin yarıyıl başına normal ders yükü 30 AKTS kredisidir. Öğrencilerin akademik başarı durumlarına göre alabilecekleri en fazla ders yükleri aşağıdaki esaslara göre belirlenir:
+a) Lisans ve önlisans diploma programlarının birinci sınıfına kaydolan öğrencilerin birinci yıldaki ders yükü yarıyıl başına 30 AKTS olup öğrenciler bunun üzerinde ders alamazlar.
+b) Üçüncü yarıyılından itibaren danışmanın uygun bulması ve devam zorunluluğu olan derslerin çakışmaması halinde; GNO’su en az 1,85’den az olan öğrenciler bir önceki yılın aynı döneminde FF, FD, NA, I, U alarak başarısız oldukları dersleri ve DC ve DD notu aldığı dersleri öncelikle tekrar almak kaydı ile yarıyıl başına en fazla 36 AKTS’ye kadar ders alabilir.
+c) Bulunduğu dönemin dışındaki yarıyıllardan ders almak zorunda olan öğrenciler derslerin açılmış olması kaydıyla normal iş yükünden fazla olarak AKTS’sine bakılmaksızın bir ders ya da ders adedine bakılmaksızın 6 AKTS’lik daha ders alabilirler.
+ç) Dikey, yatay geçiş ve benzeri nedenlerle muafiyet ve intibak işlemleri yapılmış olan ön lisans ve lisans öğrencileri öncelikli olarak önceki yarıyıllardan olmak kaydı ile ilgili yarıyılda açılmış olan derslerden yarıyıl başına en fazla 36 AKTS ders alabilir.
+d) Dört yarıyıllık önlisans veya sekiz yarıyıllık lisans eğitimini başarı ile tamamlayan ve GNO’su 2.00 ve üzeri olan öğrenciler istedikleri takdirde, not ortalamasını yükseltmek amacıyla danışmanın onayı ile DC ve DD notu aldıkları dersleri azami iş yükünü 36 AKTS aşmamak koşulu ile tekrar alabilirler. Bu öğrencilerin En son aldığı not geçerlidir.
+e) Üniversite veya başka bir yükseköğretim kurumu yaz okulundan 18 AKTS’yi aşmamak üzere en çok üç ders alınabilir.

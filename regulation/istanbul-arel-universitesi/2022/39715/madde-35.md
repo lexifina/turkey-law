@@ -1,0 +1,6 @@
+Sınavlarla ilgili uygulama esasları
+MADDE 35 – (1) Sınavlara girmek için öğrenci kimlik kartlarının gösterilmesi zorunludur. Sınavlarda kopya çeken, kopya girişiminde bulunan veya kopyaya yardım eden öğrenciler o sınavdan sıfır almış sayılır ve bunlar hakkında 18/8/2012 tarihli ve 28388 Resmî Gazete’de yayımlanan Yükseköğretim Kurumları Öğrenci Disiplin Yönetmeliği hükümleri uygulanır.
+(2) Her bir ölçme ve değerlendirme yönteminin başarı notuna etki oranı, öğretim elemanı tarafından belirlenir ve yarıyıl başında öğrencilere duyurulur.
+(3) Ara sınavların ve varsa laboratuvar ve benzeri derse bağlı çalışmaların, ödev, devam ve kısa süreli sınavların ortalamasının başarı notuna katkısı %30-%70, yarıyıl sonu sınavının etkisi ise %70-%30 aralığındadır. İlgili öğretim elemanı, kendi dersi ile ilgili etki oranlarını ÖBS’den ilan eder.
+(4) Sınav kâğıtları ve bunlara ilişkin kayıtlar, evrakın teslim tarihinden itibaren beş yıl süreyle ilgili fakülte dekanlığında/yüksekokul/MYO müdürlüğünde saklanır, beşinci yılın sonunda imha edilir.
+(5) Uzaktan eğitimle verilen derslerin başarı notlarının hesaplanmasında YÖK tarafından uzaktan öğretime ilişkin belirlenen usul ve esaslara göre değerlendirme yapılır.

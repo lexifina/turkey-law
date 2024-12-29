@@ -1,0 +1,11 @@
+BEŞİNCİ BÖLÜM
+Kayıt Dondurma, Kayıt Silme, İlişik Kesme, Ayrılma ve Mezuniyet ve Diplomalar
+Kayıt dondurma
+MADDE 43 – (1) Öğrenciler, belgelemek koşulu ile sağlık, askerlik, doğal afetler gibi eğitimine devamını imkânsız kılan gerekçelerle veya eğitimlerine katkıda bulunacak üniversite dışı burs, staj ve araştırma imkânlarının doğması, uluslararası anlaşmalardan doğan eğitim olanaklarının sağlanması durumunda kayıt dondurma talebinde bulunabilirler.
+(2) Önlisans programlarında en az bir yarıyıl, en çok iki yarıyıl, lisans programlarında ise bir kerede iki yarıyılı geçmemek üzere en çok dört yarıyıl kayıt dondurulabilir.
+(3) Kayıt dondurmak isteyen öğrenciler, yarıyıl başında ders kayıt süresi bitmeden, gerekçeli bir dilekçe ve gerekçelerini destekleyen belgeler ile kayıtlı oldukları fakülte dekanlığı/ yüksekokul/MYO müdürlüğüne başvururlar. Başvurular ilgili fakülte/yüksekokul/MYO yönetim kurulu tarafından incelenir ve karara bağlanır.
+(4) Başvurusu olumlu sonuçlanan öğrencinin kayıt dondurma işleminin tamamlanabilmesi için kayıt dondurduğu yıla ait ödemekle yükümlü olduğu öğrenim ücretinin ödenmesi zorunludur. Ödenen bu ücret, bir sonraki eğitim öğretim yılı ücretinden düşülür. (Ek cümle:RG-29/12/2024-32767) Ancak müteakip dönemlerde kayıt yenileme yapmadan ilişik kesilmesi halinde ödenen bu ücret geri ödenmez.
+(5) Derslerin başlamasını izleyen beşinci haftanın son iş gününden sonra kayıt dondurma başvurusu yapan ve başvurusu ilgili kurullarca kabul edilen öğrenciler ilgili yarıyıla ait öğrenim ücretinin tamamını öderler. Güz/bahar yarıyılına ait ödenmiş olan ücret, kaydını yenilediği eğitim öğretim yılı ücretinden düşülür. Kayıt dondurma işlemi tamamlanan öğrencilerin ilgili dönemde almış oldukları derslerin kayıtları silinir.
+(6) Kaydı dondurulan öğrenciler, eğitim-öğretim faaliyetlerine katılamaz ve o dönemdeki ara sınav ve yarıyıl sonu sınavlarına giremezler.
+(7) Kayıt dondurmada geçen süreler, azami öğrenim süresine dâhil değildir.
+(8) Öğrenciler, kayıt dondurma süresinin bitiminde dönem kayıtlarını yaptırmak suretiyle öğrenimlerine devam ederler. Bir dönemden fazla süreyle kayıt dondurmuş öğrencilerden; ilk dönem sonunda Üniversiteye dönmek isteyen öğrencilerin ders kayıtları başlamadan önce, yazılı olarak ilgili fakülte dekanlığına/yüksekokul müdürlüğüne/MYO müdürlüğüne başvuruda bulunması gerekir.

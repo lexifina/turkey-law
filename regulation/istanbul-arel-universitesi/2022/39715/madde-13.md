@@ -1,0 +1,2 @@
+Kayıt yenileme
+MADDE 13 – (1) Öğrenciler ilgili akademik takvimde belirlenen tarih aralıklarında mali kayıtlarını yenilemek ve ders seçimlerini yapmak zorundadır. Mali kayıtlarını akademik takvimde tanımlanan sürelerde yenilemeyen öğrencilerin ders seçimleri iptal edilir ve bu öğrenciler öğrencilik haklarından yararlanamaz. Belirlenen tarihten sonra mali kaydını tamamlayarak ders seçimini tekrar yapmak isteyen öğrencilerde, akademik takvim dahilinde, ilgili akademik birimin yetkili kurul kararı aranır.

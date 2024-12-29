@@ -1,0 +1,7 @@
+Özel öğrenci kabulü
+MADDE 12 – (1) Özel öğrenciler, yurt içinde veya dışında bir yükseköğretim kurumuna kayıtlı olup, Üniversitede bazı dersleri almalarına izin verilen öğrencilerdir. Özel öğrenciler, Üniversitesinin öğrencisi sayılmazlar ve öğrencilik haklarından yararlanamazlar.
+(2) Özel öğrencilerin herhangi bir yarıyıl için başvuruları, ilgili bölümün görüşü alınarak Üniversite Yönetim Kurulu tarafından incelenir ve karara bağlanır.
+(3) Özel öğrencilere diploma ve unvan verilmez. Ancak kayıtlı oldukları dersleri ve varsa aldıkları notları ve AKTS kredisini gösteren bir belge verilir.
+(4) Yabancı dil bilgilerini geliştirmek üzere hazırlık okuluna alınan ve en az lise diplomasına sahip olan özel öğrenciler, eğitimleri sonunda ARELİYES eşdeğeri bir sınava tabi tutulur. Bu sınavdan 100 üzerinden en az 70 puan alan öğrenciler başarılı kabul edilir. Bu öğrenciler, Üniversiteye ÖSYM tarafından yerleştirilmeleri halinde hazırlık sınıfından muaf tutulurlar.
+(5) Özel öğrenci olarak Üniversiteden ders alan öğrencilerden, Üniversiteye ÖSYM tarafından yerleştirilen veya özel yetenek sınavıyla kayıt yaptırma hakkına sahip olanlar ve kesin kayıt yaptıranlar, özel öğrenci statüsünde aldıkları derslerden ve öğrenim gördükleri programda yer alan eşdeğer derslerden ilgili yönetim kurulu kararı ile muaf sayılabilirler.
+(6) Özel öğrenciler, Mütevelli Heyeti tarafından belirlenen öğretim ücretini İstanbul Arel Üniversitesine öder.
