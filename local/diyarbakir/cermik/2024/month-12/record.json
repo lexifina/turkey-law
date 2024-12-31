@@ -1,0 +1,28 @@
+{
+  "number": "month-12",
+  "year": 2024,
+  "month": 12,
+  "title": "Belediye Meclisinin 2024 Yılı Aralık Ayı Meclis Kararları",
+  "decision_date": null,
+  "index_date": "2024-12-31",
+  "date_precision": "month",
+  "period": "Aralık 2024",
+  "source": "https://www.cermik.bel.tr/karar/belediye-meclisinin-2024-yılı-aralık-ayı-meclis-kararları.html",
+  "official_page": "https://www.cermik.bel.tr/karar/belediye-meclisinin-2024-yılı-aralık-ayı-meclis-kararları.html",
+  "official_document": "https://www.cermik.bel.tr/tema/genel/uploads/meclis_kararlari/dosya/AralYk.pdf",
+  "source_sha256": "379c188e5aa684a644a1b1fb0c9f7c7587cc3b88fcbb16c94f6e6fae9bb971ef",
+  "issuer": "Çermik Belediye Meclisi",
+  "history_type": "metadata",
+  "text_status": "metadata-only: listing fields as published; the decisions are in the linked official document(s) or page, not transcribed",
+  "in_force": "2024-12-31",
+  "in_force_basis": "The official listing gives only the month of this official file (Aralık 2024); date set to the last day of that month (turkey-law date convention for month-only sources); exact adoption dates are in the linked official document; legal commencement not asserted",
+  "missing": [
+    "decision numbers, dates and subjects",
+    "complete official decision text",
+    "official annexes"
+  ],
+  "law_text_complete": false,
+  "privacy_withheld": false,
+  "listing_label": "Belediye Meclisinin 2024 Yılı Aralık Ayı Meclis Kararları",
+  "record_scope": "one official file of council decisions (meeting or month)"
+}
