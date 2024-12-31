@@ -1,0 +1,20 @@
+{
+  "record_type": "gazette-item",
+  "gazette": "Resmî Gazete",
+  "jurisdiction": "TR",
+  "date": "2024-12-31",
+  "issue": "32769",
+  "edition": "mükerrer 4",
+  "item": 11,
+  "section": "YÜRÜTME VE İDARE BÖLÜMÜ",
+  "heading": "TEBLİĞLER",
+  "title": "Kişisel Koruyucu Donanımların İthalat Denetimi Tebliği (Ürün Güvenliği ve Denetimi: 2025/11)",
+  "official_link": "https://www.resmigazete.gov.tr/eskiler/2024/12/20241231M4-11.htm",
+  "link_format": "htm",
+  "index_url": "https://www.resmigazete.gov.tr/eskiler/2024/12/20241231M4.htm",
+  "index_sha256": "539e4c7fc32bafa86992e6e52156a59bd942ead181d613b3d28336c5084f3563",
+  "index_header": "31 Aralık 2024 ... 32769 Sayılı Resmî Gazete",
+  "issue_pdf": "https://www.resmigazete.gov.tr/eskiler/2024/12/20241231M4.pdf",
+  "in_force_basis": "Resmî Gazete publication date; not a commencement reading.",
+  "text_status": "metadata-only; text not yet fetched (follow-up pass adds it as its own commit)"
+}
