@@ -1,0 +1,21 @@
+Tanımlar
+MADDE 4 – (1) Bu Yönetmeliğin uygulanmasında;
+a) Akdi faiz oranı: Sabit faizi içeren konut finansmanı sözleşmelerinde yer alan ve ödeme planı oluşturulmasına esas teşkil eden ve varsa tüketici tarafından ödenen peşin faiz tutarı da dikkate alınarak hesaplanan faiz oranını,
+b) Cari faiz oranı: Değişken faizi içeren konut finansmanı sözleşmelerinde ilgili işlem tarihindeki faiz oranını,
+c) Değişken faiz: Türkiye Cumhuriyet Merkez Bankası tarafından belirlenen referans faiz ve endekslere konut finansmanı kuruluşunca uygulanacak marj oranı eklenerek bulunan faiz oranını,
+ç) Erken ödeme: Tüketicinin, konut finansmanı kuruluşuna borçlandığı tutarın tamamını veya bir taksit tutarından az olmamak üzere herhangi bir tutarı vadesinden önce ödemesini,
+d) Finansal kiralama sözleşmesi: 21/11/2012 tarihli ve 6361 sayılı Finansal Kiralama, Faktoring ve Finansman Şirketleri Kanununun 3 üncü maddesinin birinci fıkrasının (ç) bendinde tanımlanan finansal kiralamalara ilişkin sözleşmeyi,
+e) Gecikme faiz oranı: Sabit faizi içeren konut finansmanı sözleşmeleri için akdi faiz oranının, değişken faizi içeren konut finansmanı sözleşmelerinde ise cari faiz oranının yüzde otuz fazlasını geçmeyecek şekilde belirlenen oranı,
+f) Kalıcı veri saklayıcısı: Tüketicinin gönderdiği veya kendisine gönderilen bilgiyi, bu bilginin amacına uygun olarak makul bir süre incelemesine elverecek şekilde kaydedilmesini ve değiştirilmeden kopyalanmasını sağlayan ve bu bilgiye aynen ulaşılmasına imkan veren kısa mesaj, elektronik posta, internet, disk, CD, DVD, hafıza kartı ve benzeri her türlü araç veya ortamı,
+g) Kanun: Tüketicinin Korunması Hakkında Kanunu,
+ğ) Konut finansmanı kuruluşu: 6/12/2012 tarihli ve 6362 sayılı Sermaye Piyasası Kanununun 57 nci maddesinin ikinci fıkrasında sayılan kuruluşları,
+h) Konut finansmanı sözleşmesi: Konut edinmeleri amacıyla tüketicilere kredi kullandırılması, konutların finansal kiralama yoluyla tüketicilere kiralanması, sahip oldukları konutların teminatı altında tüketicilere kredi kullandırılması ve bu kredilerin yeniden finansmanı amacıyla kredi kullandırılmasına yönelik sözleşmeyi,
+ı) Kredinin toplam maliyeti: Tapu devri sırasında alınan harç ve diğer yasal yükümlülükler ile konut finansmanı sözleşmesinde belirlenen cezai şartlar hariç olmak üzere, faiz, vergi, harç ve benzeri yasal yükümlülükler ile varsa değişik isimler altında alınan her türlü ücretin de dahil olduğu toplam tutarı,
+i) Ödeme planı: Konut finansmanı sözleşmesinde tüketicinin yapacak olduğu ödemede esas alınacak taksit, tutar ve vadeleriyle birlikte anapara, faiz, vergi, harç ve benzeri yasal yükümlülükler ve varsa ücretlerin ayrı ayrı belirtildiği tabloyu,
+j) Taksit: Ödeme planında her bir vade için hesaplanan anapara, faiz, vergi, harç ve benzeri yasal yükümlülükler toplamından oluşan her bir ödeme tutarını,
+k) Taksit vadesi: Ödeme planında belirtilmiş olan taksitlerin ödeneceği tarihi,
+l) Tüketici: Ticari veya mesleki olmayan amaçlarla hareket eden gerçek veya tüzel kişiyi,
+m) Ücret: Faiz, vergi, fon ve benzeri yasal giderler dışında kalan ücret, komisyon, masraf ve benzeri adlar altında tüketiciden talep edilen her türlü parasal tutarı,
+n) Yıllık maliyet oranı: Kredinin toplam maliyetinin, kredinin yıllık yüzde değeri olarak hesaplanması sonucu ortaya çıkan oranı,
+o) (Ek:RG-23/9/2022-31962)(2) Yan finansal ürün ve hizmet: Konut finansmanı sözleşmesinin faiz, kâr payı, vergi, fon ve benzeri yasal giderler dışında tüketiciye sunulan her türlü ürün veya hizmet ile kredi bağlantılı sigorta hariç olmak üzere sigortayı,
+ifade eder.

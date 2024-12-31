@@ -1,0 +1,7 @@
+Diğer hükümler
+MADDE 18 – (1) Konut finansmanı sözleşmesine ilişkin bir hesap açılması ve bu hesaptan sadece kredi ile ilgili işlemler yapılması durumunda, tüketiciden bu hesaba ilişkin herhangi bir isim altında ücret veya masraf talep edilemez. Bu hesap, tüketicinin aksine yazılı (Ek ibare:RG-31/12/2024-32769) veya kalıcı veri saklayıcısıyla talebi olmaması hâlinde kredinin ödenmesi ile kapanır.
+(2) Tüketicinin açık talimatı olmaksızın konut finansmanı sözleşmesi ile ilişkili bir kredili mevduat hesabı sözleşmesi yapılamaz.
+(3) (Değişik:RG-31/12/2024-32769) Konut finansmanı sözleşmesine istinaden tüketiciden talep edilecek her türlü ücrete ilişkin bilgilerin, sözleşmenin eki olarak kâğıt üzerinde yazılı şekilde tüketiciye verilmesi zorunludur. Uzaktan iletişim aracıyla kurulan sözleşmelerde ise, bu bilgiler kullanılan uzaktan iletişim aracına uygun şekilde verilir. Bu bilgilerin tüketiciye verildiğinin ispatı konut finansmanı kuruluşuna aittir.
+(4) Taksit vadesi, kanunlarda tatil olarak kabul edilen bir güne rastlarsa kendiliğinden bu günü izleyen ve tatil olmayan ilk güne geçer.
+(5) Kurulmuş olan sözleşmeye ilişkin olarak tüketicilerin iletişime geçebilmesi için konut finansmanı kuruluşu tarafından bir telefon hattı tahsis edilmesi durumunda, bu hat ile ilgili olarak konut finansmanı kuruluşu olağan ücret tarifesinden daha yüksek bir tarife seçemez.
+(6) Tüketicinin talep etmesi halinde varsa konuta ilişkin ekspertiz raporunun bir örneği tüketiciye verilir.

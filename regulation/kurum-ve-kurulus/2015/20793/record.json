@@ -1,0 +1,55 @@
+{
+  "source_id": "7.5.20793",
+  "kind": "regulation",
+  "register_kind": "Kurum ve Kuruluş Yönetmelikleri",
+  "title": "KONUT FİNANSMANI SÖZLEŞMELERİ YÖNETMELİĞİ",
+  "number": "20793",
+  "issuer_slug": "kurum-ve-kurulus",
+  "path": "regulation/kurum-ve-kurulus/2015/20793",
+  "source": "https://www.mevzuat.gov.tr/anasayfa/MevzuatFihristDetayIframe?MevzuatTur=7&MevzuatNo=20793&MevzuatTertip=5",
+  "source_sha256": "34cde06d42a80c31a24bd96e90f4d066a17a92cef5129312b4f2cf621fde2226",
+  "source_bytes": 64957,
+  "published": "2015-05-28",
+  "gazette": "29369",
+  "in_force": "2024-12-31",
+  "in_force_basis": "latest Resmî Gazete date printed in the source amendment notes/table (\"RG-31/12/2024\") for the current consolidated text",
+  "date_evidence": [
+    [
+      "2024-12-31",
+      "RG-31/12/2024",
+      "Resmî Gazete date printed in the source amendment note"
+    ],
+    [
+      "2024-12-31",
+      "31/12/2024",
+      "Resmî Gazete date in the source amendment table"
+    ],
+    [
+      "2022-09-23",
+      "RG-23/9/2022",
+      "Resmî Gazete date printed in the source amendment note"
+    ],
+    [
+      "2022-09-23",
+      "23/9/2022",
+      "Resmî Gazete date in the source amendment table"
+    ]
+  ],
+  "commencement_clauses": [
+    "Bu Yönetmelik yayımı tarihinden itibaren altı ay sonra yürürlüğe girer"
+  ],
+  "history": "current-text",
+  "label": "oldest version available",
+  "checked_on": "2026-11-15",
+  "word_count": 4035,
+  "text_status": "current-consolidated",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  },
+  "source_links": [
+    "7.5.20793-ek.doc"
+  ],
+  "completeness": "html-text-complete; linked annexes not fetched"
+}

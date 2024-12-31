@@ -1,0 +1,8 @@
+BEŞİNCİ BÖLÜM
+Çeşitli ve Son Hükümler
+Faiz oranı
+MADDE 14 – (1) Kredilerde geri ödeme tutarlarının, finansal kiralama işlemlerinde ise kira bedellerinin anaparayı aşan kısmı bu madde kapsamında faiz olarak kabul edilir.
+(2) Sözleşmede belirtilmek suretiyle konut finansmanına yönelik kredilerde ve finansal kiralama işlemlerinde faiz oranı sabit veya değişken olarak ya da aynı kredi için her iki yöntem esas alınmak suretiyle belirlenebilir. Faiz oranının sabit olarak belirlenmesi hâlinde, sözleşmenin kurulduğu tarihte belirlenen oran tarafların rızası dışında değiştirilemez. Oranın değişken olarak belirlenmesi hâlinde ise, başlangıçta sözleşmede belirlenen oran, dönemsel geri ödeme tutarı başlangıçta sözleşmede belirlenen azami dönemsel geri ödeme tutarını aşmamak koşuluyla ve sözleşmede belirlenecek yurt içinde veya yurt dışında genel kabul görmüş ve yaygın olarak kullanılan endekslerden en düşük olanı baz alınarak değiştirilebilir. Bu durumda Türkiye Cumhuriyet Merkez Bankası tarafından belirlenen referans faizler ve endeksler kullanılır. Oranların değişken olarak belirlenmesi hâlinde, bu yöntemin muhtemel etkileri konusunda tüketicilerin bilgilendirilmesi şarttır.
+(3) Sabit faizi içeren konut finansmanı sözleşmelerinde tek bir akdi faiz oranına yer verilir. Erken ödeme, temerrüt veya benzeri durumlarda bu akdi faiz oranı dikkate alınır.
+(4) Temerrüt hâli de dâhil olmak üzere, tüketici işlemlerinde bileşik faiz uygulanmaz.
+(5) Değişken faizi içeren konut finansmanı sözleşmelerinde faiz oranında değişiklik olması durumunda, bu değişikliğin, oluşacak yeni faiz oranları doğrultusunda hazırlanacak yeni bir ödeme planı ile birlikte değişiklik gerçekleşmeden önce tüketiciye yazılı olarak veya kalıcı veri saklayıcısı ile bildirilmesi zorunludur.
