@@ -1,0 +1,7 @@
+Herhangi bir aracın emisyonlara ilişkin AB tip onayı başvurusu (Değişik başlık:RG-15/10/2021-31629)(2)
+MADDE 18 – (1) (Değişik:RG-15/10/2021-31629)(2) İmalatçı, herhangi bir aracın emisyonlara ilişkin AT tip onayı başvurusunu, onay kuruluşuna yapar.
+(2) Birinci fıkrada atıfta bulunulan başvuru Ek I İlave 4’te belirtilen bilgi belgesi örneğine uygun şekilde hazırlanır. Buna ilişkin olarak aynı İlavenin 1 inci bölümü ve 2 nci bölümü geçerlidir.
+(3) İmalatçı, emisyonları etkileyen tüm tasarım unsurlarını, motor sisteminin emisyon kontrol stratejisini, motor sisteminin gerek doğrudan gerekse dolaylı olarak, emisyonlar üzerinde etkisi olan çıktı değişkenlerini kontrol ettiği araçları ve Ek XIII’ün gerektirdiği uyarı ve ikna sistemini eksiksiz şekilde açıklayan bir belge paketi sunar. Bu belge paketi 14 üncü maddenin üçüncü fıkrası uyarınca sağlanır.
+(4) Üçüncü fıkrada atıfta bulunulan bilgilere ek olarak, imalatçı 14 üncü maddenin dördüncü fıkrasının (a) bendi ila (ğ) bendinin ve 16 ncı maddenin dördüncü fıkrasının (a) bendi ila (d) bendinin gerektirdiği bilgileri de sunar.
+(5) İmalatçı, tip onayı deneylerinden sorumlu teknik servise onaylanacak tipi temsil eden bir motoru sunar.
+(6) Herhangi bir sistemin, aksamın veya ayrı teknik ünitenin markasında, tip onayından sonra gerçekleştirilen değişiklikler; orijinal özellikler veya teknik parametreler motorun işlevselliği veya kirlilik kontrol sistemi etkilenecek şekilde değiştirilmediği müddetçe, tip onayını kendiliğinden geçersiz hale getirmez.

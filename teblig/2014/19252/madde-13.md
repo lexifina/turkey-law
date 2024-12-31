@@ -1,0 +1,10 @@
+Araç üzeri teşhis
+MADDE 13 – (1) İmalatçılar, bütün motor sistemlerinde ve araçlarında bir OBD sistemi bulunmasını sağlamak zorundadır.
+(2) OBD sistemi, aracın tüm ömrü boyunca Ek X’da belirtilen bozulma veya arıza tiplerinin belirlenmesine, kaydedilmesine ve iletilmesine imkan vermek üzere söz konusu Ek uyarınca tasarımlanır, imal edilir ve araca monte edilir.
+(3) İmalatçı, OBD sisteminin, Ek X’da belirtilen normal kullanım koşulları dahil AB veya Türkiye dahilinde rastlanan normal ve makul derecede öngörülebilir sürüş koşullarında, OBD kullanım sırasındaki performans şartları da dahil olmak üzere Ek X’da belirtilen şartlara uygun olmasını sağlamak zorundadır.
+(4) Yeterli nitelikteki kusurlu bir aksam ile deney yapıldığında, OBD sistemi arıza göstergesi Ek X’a uygun şekilde devreye girmelidir. OBD sistemi arıza göstergesi, Ek X’da belirtilen OBD eşik sınırlarının altındaki emisyon seviyelerinde de devreye girebilir.
+(5) İmalatçı, Ek X’da belirtilen bir OBD motor ailesinin kullanım sırasındaki performansına ilişkin hükümlere uygunluğunu sağlamak zorundadır.
+(6) OBD kullanım sırasındaki performansla ilişkili veriler, Ek X’un hükümlerine uygun şekilde OBD sistemi tarafından, standart OBD iletişim protokolü aracılığıyla herhangi bir şifreleme yapılmaksızın kaydedilir ve kullanıma sunulur.
+(7) (AT) 595/2009 Yönetmeliğinin 9 uncu maddesinin birinci ve ikinci fıkrasında belirtilen tarihlerden sonraki 1 yıl içerisinde imalatçının kendi tercihine tabi olmak üzere, OBD sistemleri Ek X’da belirtilen ve bu fıkraya atıfta bulunan alternatif hükümlere uygun olabilir.
+(8)(Değişik:RG-14/8/2014-29088) Yeni araç veya motor tiplerine ilişkin olarak 1/1/2016 tarihine kadar, ve Türkiye dahilinde satılan, tescil edilen veya hizmete giren mevcut tip onaylı tüm yeni araçlar için 1/1/2017 tarihine kadar imalatçı, kendi tercihine bağlı olarak Ek X’un 2.3.3.3 maddesinde belirtilen DPF’nin izlemesine ilişkin alternatif hükümleri kullanabilir.
+Ayrı teknik ünite olarak herhangi bir motor sisteminin veya motor ailesinin emisyonlara ilişkin AB tip onayı başvurusu (Değişik başlık:RG-15/10/2021-31629)(2)

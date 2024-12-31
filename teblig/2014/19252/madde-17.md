@@ -1,0 +1,8 @@
+Onaylı bir motor sistemine sahip bir aracın emisyonlar ile ilgili AB tip onayına ilişkin idari hükümler (Değişik başlık:RG-15/10/2021-31629)(2)
+MADDE 17 – (Değişik:RG-14/8/2014-29088)
+(1) (Değişik:RG-15/10/2021-31629)(2) Tüm ilgili şartlar karşılandığında, onay kuruluşu onaylı bir motor sistemine sahip bir araç için emisyonlara ilişkin bir AB tip onayı ve AB/2018/858 Yönetmeliğinin 28 inci maddesinin üçüncü fıkrası uyarınca kabul edilen uygulama mevzuatında belirtilen numaralama sistemine uygun olarak bir tip onayı numarası verir. İlgili uygulama mevzuatının hükümleri saklı kalmak kaydıyla, tip onayı numarasının üçüncü bölümü Ek I’in İlave 9’una uygun olarak düzenlenir. Onay kuruluşu aynı numarayı başka bir araç tipine veremez.
+a) Yukarıdaki paragrafta belirtilen prosedüre alternatif olarak, onay kuruluşu, onaylı bir motor sistemine sahip bir aracın emisyonlara ilişkin bir AB tip onayını aşağıdaki şartların hepsi sağlandığı takdirde verir.
+1) AB tip onayı için başvurulduğunda, 49 sayılı BM/AEK Regülasyonu çerçevesinde onaylı bir motor sisteminin tip onayı hali hazırda verilmiş durumdadır.
+2) 13 üncü maddenin yedinci fıkrasında belirtilen geçiş döneminde Ek X’un 6.2 maddesinde belirtilen şartlar karşılanmaktadır.
+3) Ek VII’nin 3.1 maddesinde, Ek X’un 2.1 ve 6.1 inci maddelerinde, Ek XIII’ün 2, 4.1, 5.1, 7.1, 8.1 ve 10 uncu maddelerinde ve Ek XIII’ün İlave 6’sındaki 1 inci maddede belirtilen tüm diğer istisnalar geçerlidir.
+(2) Onay kuruluşu bu maddedeki birinci fıkra çerçevesinde AT tip onayı verirken, Ek I İlave 6’da belirtilen modeli kullanarak bir AT tip onayı belgesi düzenler.

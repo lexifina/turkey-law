@@ -1,0 +1,82 @@
+{
+  "source_id": "9.5.19252",
+  "kind": "communique",
+  "register_kind": "Tebliğler",
+  "title": "AĞIR HİZMET ARAÇLARINDAN ÇIKAN EMİSYONLAR (EURO VI) BAKIMINDAN VE ARAÇ TAMİR VE BAKIM BİLGİLERİNE ERİŞİM KONUSUNDA MOTORLU ARAÇLARIN TİP ONAYI İLE İLGİLİ UYGULAMA USUL VE ESASLARINA İLİŞKİN TEBLİĞ (TEBLİĞ NO: SGM-2013/5)",
+  "number": "19252",
+  "issuer": "Bilim, Sanayi ve Teknoloji Bakanı",
+  "path": "teblig/2014/19252",
+  "source": "https://www.mevzuat.gov.tr/anasayfa/MevzuatFihristDetayIframe?MevzuatTur=9&MevzuatNo=19252&MevzuatTertip=5",
+  "source_sha256": "9098024841843e78759e044b069fbea932d088784328b8981f0ebd1d721f1e3d",
+  "source_bytes": 104879,
+  "published": "2014-01-10",
+  "gazette": "28878",
+  "in_force": "2024-12-31",
+  "in_force_basis": "latest Resmî Gazete date printed in the source amendment notes/table (\"31/12/2024\") for the current consolidated text",
+  "date_evidence": [
+    [
+      "2024-12-31",
+      "31/12/2024",
+      "Resmî Gazete date in the source amendment table"
+    ],
+    [
+      "2021-10-15",
+      "RG-15/10/2021",
+      "Resmî Gazete date printed in the source amendment note"
+    ],
+    [
+      "2021-10-15",
+      "15/10/2021",
+      "Resmî Gazete date in the source amendment table"
+    ],
+    [
+      "2019-12-31",
+      "31/12/2019",
+      "Resmî Gazete date in the source amendment table"
+    ],
+    [
+      "2017-12-30",
+      "RG-30/12/2017",
+      "Resmî Gazete date printed in the source amendment note"
+    ],
+    [
+      "2017-12-30",
+      "30/12/2017",
+      "Resmî Gazete date in the source amendment table"
+    ],
+    [
+      "2016-12-30",
+      "30/12/2016",
+      "Resmî Gazete date in the source amendment table"
+    ],
+    [
+      "2016-10-22",
+      "22/10/2016",
+      "Resmî Gazete date in the source amendment table"
+    ],
+    [
+      "2014-08-14",
+      "RG-14/8/2014",
+      "Resmî Gazete date printed in the source amendment note"
+    ],
+    [
+      "2014-08-14",
+      "14/8/2014",
+      "Resmî Gazete date in the source amendment table"
+    ]
+  ],
+  "history": "current-text",
+  "label": "oldest version available",
+  "checked_on": "2026-11-15",
+  "word_count": 7888,
+  "text_status": "current-consolidated",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  },
+  "source_links": [
+    "9.5.19252-ek.pdf"
+  ],
+  "completeness": "html-text-complete; linked annexes not fetched"
+}

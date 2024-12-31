@@ -1,0 +1,4 @@
+BİRİNCİ BÖLÜM
+Amaç, Kapsam ve Tanımlar
+Amaç ve kapsam
+MADDE 1 – (1) Bu Tebliğ, 3/8/2011 tarihli ve 28014 sayılı Resmî Gazete’de yayımlanan Ağır Hizmet Araçlarından Çıkan Emisyonlar (Euro 6) Bakımından ve Araç Tamir ve Bakım Bilgilerine Erişim Konusunda Motorlu Araçların Tip Onayına İlişkin Yönetmelik ((AT) 595/2009)’in uygulanmasını teminen, söz konusu Yönetmelik kapsamındaki araçların; yeni emisyon sınırları ve araç tamir ve bakım bilgileri bakımından AT tip onayı için idari hükümleri, üretimin uygunluğu ve kullanım sırasındaki uygunluğu için hükümleri, araç üzerinde teşhis (OBD) ve tamir ve bakım bilgilerine erişim hususları ve emisyonların kontrolü ile ilgili özel teknik şartları ve ayrı teknik ünite olarak değiştirilebilir kirlilik kontrol cihazlarının tip onayı şartlarının uygulama usul ve esaslarını belirler.
