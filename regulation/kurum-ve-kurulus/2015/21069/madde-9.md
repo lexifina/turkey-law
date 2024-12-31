@@ -1,0 +1,12 @@
+İdari tedbirler
+MADDE 9 – (1) Özsermaye, gerekli özsermayeden düşük olmamalıdır.
+(2) (Değişik:RG-31/12/2024-32769 5. Mükerrer) Sermaye yeterliliği hesaplama dönemleri itibarıyla özsermaye/gerekli özsermaye oranının;
+a) %100 ile %115 arasında olması “öz değerlendirme” aşamasıdır. Bu durumda şirket, sermaye yeterliliği tablolarının Kuruma gönderilmesi gereken tarihten itibaren 30 gün içinde risk bazında kendi değerlendirmesini yapar ve özsermaye/gerekli özsermaye oranının belirtilen oranlar arasında gerçekleşmesinin nedenleri ile birlikte gelecek dönemlere dair beklentilerini de içeren bir raporu Kuruma gönderir.
+b) %70 ile %99,99 arasında olması “tedbir alma” aşamasıdır. Bu durumda şirketin, sermaye yeterliliği tablolarının Kuruma gönderilmesi gereken tarihten itibaren 15 gün içinde sermaye açığının riskin azaltılması veya sermaye ilavesi başta olmak üzere Kurumca uygun görülecek yöntemlerle kapatılmasına dair bir planı Kuruma sunması ve takip eden 6 ay içinde sermaye açığını kapatması veya eksik kalan sermaye açığı tutarını telafi edecek şekilde sermayeye mahsuben avans ödemesi gerekir.
+c) %33 ile %69,99 arasında olması “acil tedbir alma” aşamasıdır. Bu durumda şirketin, sermaye yeterliliği tablolarının Kuruma gönderilmesi gereken tarihten itibaren 10 gün içinde sermaye açığının riskin azaltılması veya sermaye ilavesi başta olmak üzere Kurumca uygun görülecek yöntemlerle kapatılmasına dair bir planı Kuruma sunması ve özsermaye / gerekli özsermaye oranını takip eden 3 ay içinde en az %70’e, 6 ay içinde ise en az %100’e çıkarması gerekir.
+ç) %33’ün altına düşmesi “müdahale” aşamasıdır. Bu durumda, 5684 sayılı Kanunun 20 nci maddesi ile 4632 sayılı Kanunun 14 üncü maddesi hükümleri çerçevesinde derhal işlem yapılır.
+(3) Bu maddeye göre yapılacak sermaye veya sermayeye mahsuben avans ödemelerinin nakit veya nakit benzeri varlıklarla gerçekleştirilmesi esastır.
+(4) (Değişik:RG-11/7/2017- 30121)(1) (Değişik ibare:RG-26/5/2023-32202) Kurum, gerekli görülen hallerde bu maddede geçen süreleri başvuru üzerine uzatabilir.
+(5) (Değişik:RG-31/12/2024-32769 5. Mükerrer) Bu maddede yer alan hükümler Mart, Haziran, Eylül ve Aralık ayları sermaye yeterliliği sonuçları için uygulanır.
+(6) (Değişik ibare:RG-26/5/2023-32202) Kurum, şirketin mali yapısını göz önünde bulundurarak eksik kalan sermayenin ikinci fıkrada belirtilen sürelerden daha kısa bir süre içerisinde tamamlanmasını talep edebilir.
+(7) Şirket, özsermayenin gerekli özsermayenin altına düşmesi ile sonuçlanacak şekilde kâr dağıtımı yapamaz.
