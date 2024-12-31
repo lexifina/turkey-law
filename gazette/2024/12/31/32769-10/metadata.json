@@ -1,0 +1,20 @@
+{
+  "record_type": "gazette-item",
+  "gazette": "Resmî Gazete",
+  "jurisdiction": "TR",
+  "date": "2024-12-31",
+  "issue": "32769",
+  "edition": "regular",
+  "item": 10,
+  "section": "YÜRÜTME VE İDARE BÖLÜMÜ",
+  "heading": "TEBLİĞLER",
+  "title": "Elektronik Defter Genel Tebliği (Sıra No: 1)’nde Değişiklik Yapılmasına Dair Tebliğ (Sıra No: 6)",
+  "official_link": "https://www.resmigazete.gov.tr/eskiler/2024/12/20241231-10.htm",
+  "link_format": "htm",
+  "index_url": "https://www.resmigazete.gov.tr/eskiler/2024/12/20241231.htm",
+  "index_sha256": "2b43860ec2b71b1d4c49f6310568778d181275101972fef9d26bed73c83fede0",
+  "index_header": "31 Aralık 2024 ... 32769 Sayılı Resmî Gazete",
+  "issue_pdf": "https://www.resmigazete.gov.tr/eskiler/2024/12/20241231.pdf",
+  "in_force_basis": "Resmî Gazete publication date; not a commencement reading.",
+  "text_status": "metadata-only; text not yet fetched (follow-up pass adds it as its own commit)"
+}
