@@ -1,0 +1,2 @@
+Avrupa Birliği mevzuatına uyum
+MADDE 8- (1) Bu Yönetmelik, Olay Veri Kaydedicileri ile İlgili Olarak Motorlu Araçların Tip Onayına ve Bu Sistemlerin Ayrı Teknik Üniteler Olarak Tip Onayına İlişkin Özel Test Prosedürleri ve Teknik Gerekliliklere Yönelik Ayrıntılı Kurallar Belirleyen (AB) 2019/2144 sayılı Avrupa Parlamentosu ve Konsey Tüzüğünü Tamamlayan 26/1/2022 tarihli ve (AB) 2022/545 sayılı Yetki Devrine Dayanan Komisyon Tüzüğü dikkate alınarak Avrupa Birliği mevzuatına uyum çerçevesinde hazırlanmıştır.
