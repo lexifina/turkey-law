@@ -1,0 +1,3 @@
+Cayma hakkının kullanımı
+MADDE 9 – (1) Cayma hakkının kullanıldığına dair bildirimin cayma hakkı süresi içinde, yazılı olarak veya kalıcı veri saklayıcısı ile sağlayıcıya yöneltilmiş olması yeterlidir.
+(2) Cayma hakkının kullanılmasında tüketici, Ek’te yer alan formu kullanabileceği gibi cayma kararını bildiren açık bir beyanda da bulunabilir. Sağlayıcı, tüketicinin bu formu doldurabilmesi veya cayma beyanını gönderebilmesi için internet sitesi üzerinden seçenek de sunabilir. İnternet sitesi üzerinden tüketiciye cayma hakkı sunulması durumunda sağlayıcı, tüketicilerin cayma taleplerinin kendisine ulaştığına ilişkin teyit bilgisini, tüketiciye derhal iletmek zorundadır.

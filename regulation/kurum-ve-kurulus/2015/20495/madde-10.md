@@ -1,0 +1,4 @@
+Sağlayıcının yükümlülükleri
+MADDE 10 – (1) Sağlayıcı, cayma hakkının kullanıldığına ilişkin bildirimin kendisine ulaştığı tarihten itibaren otuz gün içinde, 11 inci maddenin birinci fıkrasında belirtilen masraf ve bedeller hariç tüm ödemeleri tüketiciye iade etmekle yükümlüdür. Sigorta ve bireysel emekliliğe ilişkin sözleşmelerde ise iade süresi hakkında diğer mevzuatta yer alan tüketici lehine olan hükümler uygulanır.
+(2) Sağlayıcı, birinci fıkrada belirtilen tüm geri ödemeleri, tüketicinin satın alırken kullandığı ödeme aracına uygun bir şekilde ve tüketiciye herhangi bir masraf veya yükümlülük getirmeden tek seferde yapmak zorundadır.
+(3) Tüketicinin sözleşmenin kurulmasına dair kabul beyanı kullanılan iletişim araçlarına uygun olarak fiziki veya elektronik ortamda tespit veya kayıt edilir. Sağlayıcı, cayma hakkının iletilmesi ile fiziki veya elektronik ortamda yapılacak tespit veya kayıtlar için gerekli önlemleri almakla yükümlüdür.

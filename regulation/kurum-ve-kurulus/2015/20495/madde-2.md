@@ -1,0 +1,6 @@
+Kapsam
+MADDE 2 – (1) Bu Yönetmelik, finansal hizmetlere ilişkin mesafeli sözleşmeleri kapsar.
+(2) Bir finansal hizmetin sunulmasına ilişkin sözleşmenin, hizmet tedarikine ilişkin ilk anlaşma ile buna bağlı ardışık işlemleri veya zaman içinde gerçekleşen aynı nitelikteki farklı işlemleri kapsaması halinde, bu Yönetmelik hükümleri sadece ilk anlaşmaya uygulanır.
+(3) Taraflar arasında hizmet tedarikine ilişkin ilk anlaşmanın olmadığı ancak ardışık işlemlerin veya zaman içinde aynı nitelikteki farklı işlemlerin gerçekleştiği durumlarda 5 inci madde sadece ilk işleme uygulanır. Bir yıldan daha uzun süre aynı türden işlemlerin gerçekleştirilmemesi halinde ise sonraki ilk işlem, bunu takip edecek yeni işlemlerin ilki sayılır ve 5 inci madde ilk işleme uygulanır.
+(4) İlgili mevzuatında yer alan ön bilgilendirmeye, sözleşmenin şekli ile zorunlu içeriğine ve sözleşmenin sona erdirilmesine ilişkin hükümler saklı kalmak kaydıyla mesafeli olarak kurulan tüketici kredisi (Ek ibare:RG-31/12/2024-32769) ve konut finansmanı sözleşmelerine; 5 inci madde, 6 ncı maddenin birinci fıkrası, 7 nci maddenin birinci fıkrası ve 14 üncü madde uygulanmaz.
+(5) (Değişik:RG-31/12/2024-32769) Bankacılık, kredi, sigorta, bireysel emeklilik ve yatırım hizmetleri ile ilgili olanlar dışındaki ödemelere bu Yönetmelik hükümleri uygulanmaz.
