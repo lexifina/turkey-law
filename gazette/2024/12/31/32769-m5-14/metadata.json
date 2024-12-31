@@ -1,0 +1,20 @@
+{
+  "record_type": "gazette-item",
+  "gazette": "Resmî Gazete",
+  "jurisdiction": "TR",
+  "date": "2024-12-31",
+  "issue": "32769",
+  "edition": "mükerrer 5",
+  "item": 14,
+  "section": "YÜRÜTME VE İDARE BÖLÜMÜ",
+  "heading": "TEBLİĞLER",
+  "title": "2920 Sayılı Türk Sivil Havacılık Kanunu Uyarınca Verilecek İdari Para Cezalarına İlişkin Tebliğ (2025/1)",
+  "official_link": "https://www.resmigazete.gov.tr/eskiler/2024/12/20241231M5-14.htm",
+  "link_format": "htm",
+  "index_url": "https://www.resmigazete.gov.tr/eskiler/2024/12/20241231M5.htm",
+  "index_sha256": "04f44070c31e93d20b12effeddd89aac449b954d4767af921db9c6613f3793a3",
+  "index_header": "31 Aralık 2024 ... 32769 Sayılı Resmî Gazete",
+  "issue_pdf": "https://www.resmigazete.gov.tr/eskiler/2024/12/20241231M5.pdf",
+  "in_force_basis": "Resmî Gazete publication date; not a commencement reading.",
+  "text_status": "metadata-only; text not yet fetched (follow-up pass adds it as its own commit)"
+}
