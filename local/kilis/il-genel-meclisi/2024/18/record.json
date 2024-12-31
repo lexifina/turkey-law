@@ -1,0 +1,27 @@
+{
+  "number": "18",
+  "year": 2024,
+  "title": "Imar Plani degisikligi bagarasi koyu",
+  "decision_date": null,
+  "index_date": "2024-12-31",
+  "date_precision": "year",
+  "period": "2024",
+  "source": "https://www.kilisozelidare.gov.tr/2024-meclis-kararlari",
+  "official_page": "https://www.kilisozelidare.gov.tr/2024-meclis-kararlari",
+  "official_document": "https://www.kilisozelidare.gov.tr/kurumlar/kilisozelidare.gov.tr/Meclis_Karları/2024-meclis-kararlari/KARAR--18_-Imar-Plani-degisikligi-bagarasi-koyu.doc",
+  "source_sha256": "29ec932aae695192e8a64c2bf40f00d93894983d2c38c2c1960cd4cb5da44b49",
+  "issuer": "Kilis İl Genel Meclisi",
+  "history_type": "metadata",
+  "text_status": "metadata-only: number/subject as published (official list or file name); complete decision text is in the linked official document, not transcribed",
+  "in_force": "2024-12-31",
+  "in_force_basis": "The official source prints only the year of this decision (2024); date set to 31 December of that year (turkey-law date convention for year-only sources, Alan 2026-11-16); exact adoption dates are in the linked official document; legal commencement not asserted",
+  "missing": [
+    "exact decision date",
+    "complete official decision text",
+    "official annexes"
+  ],
+  "law_text_complete": false,
+  "privacy_withheld": false,
+  "listing_label": "KARAR--18_-Imar-Plani-degisikligi-bagarasi-koyu",
+  "item_title": "2024 Meclis Kararları"
+}
