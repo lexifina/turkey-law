@@ -1,0 +1,16 @@
+DOKUZUNCU BÖLÜM
+Üreme Ürünlerinin İthalatı, İhracatı ve Piyasaya Arzı
+Üreme ürünlerinin ithalatı, ihracatı ve piyasaya arzı
+MADDE 35- (1) İthal edilecek üreme ürünlerinin Bakanlık tarafından belirlenen sağlık ve teknik kriterlere uygun olması zorunludur.
+(2) Üreme ürünlerinin ithalatını yapmak isteyen kişi, kurum ve kuruluşlar Bakanlıktan kontrol belgesi almakla yükümlüdür. İthalat yeterlilik belgesi olmadan kontrol belgesi başvurusu yapılamaz. İthalat yeterlilik belgesi için Bakanlık tarafından belirlenen bilgi ve belgelerin Bakanlığa sunulması zorunludur.
+(3) Kontrol belgesi ile yapılan ithalatı müteakip kırk beş gün içinde Bakanlık tarafından belirlenmiş olan laboratuvarlarda; spermalarda DNA testi ile kalite analizi yaptırılması ve sonuçların uygun bulunması durumunda veteriner sınır kontrol noktası müdürlüğü/yetkili il müdürlüğünden uygunluk yazısı alınması zorunludur. Uygunluk yazısının gümrük müdürlüğüne ibrazına kadar olan sürede ithalatı yapılacak olan üreme ürünleri gümrük müdürlüğü denetiminde yediemine alınır.
+(4) İthal edilecek olan üreme ürünleri için veteriner sınır kontrol noktası müdürlükleri/yetkili il müdürlüklerinden alınmış olan uygunluk yazısı gümrük müdürlüğüne bildirilir.
+(5) Uygunluk yazısının Bakanlığa ulaşmasına müteakip üreme ürünlerinin; piyasaya arzına izin verilir ve Bakanlık ıslah programlarına kaydı yapılarak Bakanlık internet sitesinde yayımlanır.
+(6) Üreme ürünlerini ithal edecek kişi, kurum ve kuruluşların; üreme ürünlerini depolayacağı yerler için Bakanlık tarafından belirlenen fiziki ve teknik şartları sağlayarak il müdürlüğünden altyapı uygunluk belgesi alması zorunludur.
+(7) İthal edilen ve/veya yurt içinde üretilen üreme ürünlerini piyasaya arz etmek üzere depolayan bayi konumundaki kişi, kurum ve kuruluşların; üreme ürünlerini depolayacağı yerler için Bakanlık tarafından belirlenen fiziki ve teknik şartları sağlayarak il müdürlüğünden uygunluk belgesi alması zorunludur.
+(8) Dondurulmuş üreme ürünlerinin piyasaya arzını yapan kişi, kurum ve kuruluşlar; üreme ürünlerinin kalitesini olumsuz etkilemeyecek şekilde Bakanlık tarafından belirlenen standartlara uygun niteliklere sahip ve içerisinde yeterli sıvı azot bulunan azot tankları içerisinde bu ürünleri depolamak ve bu ürünlerin naklini sağlamak zorundadır.
+(9) İthalat yeterlilik belgesi ve uygunluk belgesi alan kişi, kurum ve kuruluşların vergi numarası ile Bakanlık veri tabanına kayıt işleminin yapılması sağlanır.
+(10) İthalat yeterlilik belgesi ve uygunluk belgesi verilen kişi, kurum ve kuruluşlar Bakanlık internet sitesinde yayımlanır.
+(11) İthal edilecek olan üreme ürünlerinde gerek görülmesi halinde Bakanlık tarafından ilave analizler istenilebilir. Analiz sonucu uygun olmayan üreme ürünleri hakkında yapılacak işlemlere dair hususlar, Bakanlıkça belirlenir.
+(12) İthalat yeterlilik belgesi, uygunluk belgesi, altyapı uygunluk belgesi, kontrol belgesi ile ithalatta aranılan diğer teknik ve sağlık şartlarına dair usul ve esaslar, Bakanlık tarafından belirlenir.
+(13) Üreme ürünlerinin ithalatı, ihracatı, depolanması, nakil koşulları, piyasaya arzı, resmi kontrolleri, tutulması gereken kayıtlar ile izlenebilirliğe dair diğer hususlar, Bakanlık tarafından belirlenir.

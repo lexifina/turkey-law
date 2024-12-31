@@ -1,0 +1,9 @@
+Mobil embriyo üretim aracı
+MADDE 22- (1) Mobil embriyo üretim aracı ile embriyo üretimini; embriyo üretim işletmeleri dışındaki 14 üncü maddede belirtilen kişi, kurum ve kuruluşlar yapabilir ve mobil embriyo üretim aracı için il müdürlüğünden çalışma izni alınır.
+(2) Mobil embriyo üretim aracı çalışma izni başvurusu birden fazla araç için yapılabilir.
+(3) Mobil embriyo üretim aracında; in vivo yöntemle üretilmiş embriyoların inceleme, işleme, payetleme ve dondurulması işlemleri yapılabilir, in vitro yöntemle embriyo üretimi yapılamaz. Ancak; embriyo üretim ekipleri tarafından donörlerden oosit toplama faaliyetleri için mobil embriyo üretim aracı kullanılabilir.
+(4) Üretim merkezi veya embriyo üretim ve satış işletmelerine ait mobil embriyo üretim araçları; kullanılan alet ve ekipmanların temizlik, dezenfeksiyon ve sterilizasyonu, embriyoların toplanması ve işlenmesi için kullanılacak sıvılar ile gerekli diğer ürünlerin temin edilmesi ve muhafazaları için kendi üretim ünitelerine bağlı olarak çalışır.
+(5) Üretim merkezi ile embriyo üretim ve satış işletmeleri dışındaki kişi, kurum ve kuruluşlara bağlı mobil embriyo üretim araçları; kullanılan alet ve ekipmanların temizlik, dezenfeksiyon ve sterilizasyonu, embriyoların toplanması ve işlenmesi için kullanılacak sıvılar ile gerekli diğer ürünlerin temini ve muhafazasını, mobil embriyo üretim aracı çalışma iznine esas kendi işyeri/kurum/kuruluş/üniversitede bulunan ayrı bölüm/odada yapar.
+(6) Üretim merkezine bağlı mobil embriyo üretim araçlarında ayrı bir ekip sorumlusu veteriner hekim istihdam edilir. Donör hayvan bulundurmayan embriyo üretim merkezlerinde, bu görevi sorumlu veteriner hekim yapabilir.
+(7) Embriyo üretim ve satış işletmelerine bağlı mobil embriyo üretim araçlarında ayrı bir ekip sorumlusu veteriner hekim istihdam edilir.
+(8) Mobil embriyo üretim araçlarında aranacak teknik ve diğer özellikler, Bakanlık tarafından belirlenir.

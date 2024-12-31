@@ -1,0 +1,2 @@
+Avrupa Birliği mevzuatına uyum
+MADDE 37- (1) Bu Yönetmelik, Üreme Ürünü İşletmelerinin Onayı ve Yetiştirilen Belirli Kara Hayvanlarının Üreme Ürünlerinin Birlik İçerisinde Hareketlerinin İzlenebilirliği ve Hareketlerinde Aranan Hayvan Sağlığı Koşulları ile İlgili Olarak (AB) 2016/429 sayılı Tüzüğü tamamlayan 17/12/2019 tarihli ve (AB) 2020/686 sayılı Yetki Devrine Dayanan Komisyon Tüzüğü dikkate alınarak Avrupa Birliği mevzuatına uyum çerçevesinde hazırlanmıştır.

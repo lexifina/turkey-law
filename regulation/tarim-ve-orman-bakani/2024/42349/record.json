@@ -1,0 +1,34 @@
+{
+  "source_id": "7.5.42349",
+  "kind": "regulation",
+  "register_kind": "Kurum ve Kuruluş Yönetmelikleri",
+  "title": "ÜREME ÜRÜNLERİNİN ÜRETİMİ, İTHALAT VE İHRACATI İLE PİYASAYA ARZINA DAİR YÖNETMELİK",
+  "number": "42349",
+  "issuer": "Tarım ve Orman Bakanı",
+  "issuer_slug": "tarim-ve-orman-bakani",
+  "path": "regulation/tarim-ve-orman-bakani/2024/42349",
+  "source": "https://www.mevzuat.gov.tr/anasayfa/MevzuatFihristDetayIframe?MevzuatTur=7&MevzuatNo=42349&MevzuatTertip=5",
+  "source_sha256": "ef5b6f1911399c4041770543e516bc1e271dbb31cb5de86e84304fdafbd7478a",
+  "source_bytes": 272786,
+  "published": "2024-12-31",
+  "gazette": "32769",
+  "in_force": "2024-12-31",
+  "in_force_basis": "Resmî Gazete publication date in the official listing (31.12.2024); own commencement article: \"Bu Yönetmelik yayımı tarihinden doksan gün sonra yürürlüğe girer\"",
+  "commencement_clauses": [
+    "Bu Yönetmelik yayımı tarihinden doksan gün sonra yürürlüğe girer"
+  ],
+  "history": "current-text",
+  "label": "oldest version available",
+  "checked_on": "2026-11-15",
+  "word_count": 14353,
+  "text_status": "current-consolidated",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  },
+  "source_links": [
+    "7.5.42349-ek.doc"
+  ],
+  "completeness": "html-text-complete; linked annexes not fetched"
+}

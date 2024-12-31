@@ -1,0 +1,4 @@
+Çalışma izni verilmesi
+MADDE 9- (1) Üretim merkezinin komisyon tarafından incelenmesi sonucunda üreme ürünü üretilen her hayvan türü ve üreme ürünü için ayrı olmak üzere EK-3’te yer alan inceleme raporu düzenlenir.
+(2) Komisyon tarafından incelenen üretim merkezinin uygun bulunmaması halinde, bu durumun gerekçesi inceleme raporunun değerlendirme bölümüne yazılır ve bu inceleme raporu, Bakanlık tarafından il müdürlüğü aracılığıyla başvuru sahibine resmî yazı ile bildirilir. İnceleme raporunda belirtilen eksikliklerin veya olumsuzlukların giderilmesi halinde başvuru sahibi, en fazla yüz seksen gün içerisinde Bakanlığa tekrar başvuruda bulunabilir. Bu süreden sonra yapılan başvurular yeni başvuru olarak değerlendirilir.
+(3) Bu Yönetmelik kapsamında istenen şartları taşıyan üretim merkezine Bakanlık tarafından üreme ürünü üretilen her hayvan türü için ayrı olmak üzere çalışma izin belgesi verilir.
