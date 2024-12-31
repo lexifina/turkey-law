@@ -1,0 +1,2 @@
+Mevcut Özel Binalar Tasarım Gözetmenliği Belgeleri
+GEÇİCİ MADDE 1- (1) Bu Yönetmeliğin yayımı tarihinde 18/3/2018 tarihli ve 30364 mükerrer sayılı Resmî Gazete’de yayımlanan Türkiye Bina Deprem Yönetmeliği ekinde yer alan Deprem Etkisi Altında Binaların Tasarımı İçin Esasların 1.3 maddesi kapsamında hizmet vermek üzere daha önce Bakanlıktan belge almış olanlar hiçbir işleme gerek kalmaksızın ihraz ettikleri uzmanlık alanında listeye kaydedilirler.

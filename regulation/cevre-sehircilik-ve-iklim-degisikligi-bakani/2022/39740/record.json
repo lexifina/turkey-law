@@ -1,0 +1,53 @@
+{
+  "source_id": "7.5.39740",
+  "kind": "regulation",
+  "register_kind": "Kurum ve Kuruluş Yönetmelikleri",
+  "title": "ÖZELLİK ARZ EDEN BİNALARIN TASARIM GÖZETİMİ VE KONTROLÜ HİZMETLERİNE DAİR YÖNETMELİK",
+  "number": "39740",
+  "issuer": "Çevre, Şehircilik ve İklim Değişikliği Bakanı",
+  "issuer_slug": "cevre-sehircilik-ve-iklim-degisikligi-bakani",
+  "path": "regulation/cevre-sehircilik-ve-iklim-degisikligi-bakani/2022/39740",
+  "source": "https://www.mevzuat.gov.tr/anasayfa/MevzuatFihristDetayIframe?MevzuatTur=7&MevzuatNo=39740&MevzuatTertip=5",
+  "source_sha256": "fdc54fbd97135264885dd3c0ce25a163f53f3b7698aec47f8f5948f8620c6b21",
+  "source_bytes": 74930,
+  "published": "2022-09-28",
+  "gazette": "31967",
+  "in_force": "2024-12-31",
+  "in_force_basis": "latest Resmî Gazete date printed in the source amendment notes/table (\"RG-31/12/2024\") for the current consolidated text",
+  "date_evidence": [
+    [
+      "2024-12-31",
+      "RG-31/12/2024",
+      "Resmî Gazete date printed in the source amendment note"
+    ],
+    [
+      "2024-12-31",
+      "31/12/2024",
+      "Resmî Gazete date in the source amendment table"
+    ],
+    [
+      "2023-12-01",
+      "RG-1/12/2023",
+      "Resmî Gazete date printed in the source amendment note"
+    ],
+    [
+      "2023-12-01",
+      "1/12/2023",
+      "Resmî Gazete date in the source amendment table"
+    ]
+  ],
+  "history": "current-text",
+  "label": "oldest version available",
+  "checked_on": "2026-11-15",
+  "word_count": 3906,
+  "text_status": "current-consolidated",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  },
+  "source_links": [
+    "7.5.39740-ek.docx"
+  ],
+  "completeness": "html-text-complete; linked annexes not fetched"
+}
