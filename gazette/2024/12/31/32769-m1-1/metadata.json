@@ -1,0 +1,20 @@
+{
+  "record_type": "gazette-item",
+  "gazette": "Resmî Gazete",
+  "jurisdiction": "TR",
+  "date": "2024-12-31",
+  "issue": "32769",
+  "edition": "mükerrer 1",
+  "item": 1,
+  "section": "YASAMA BÖLÜMÜ",
+  "heading": "KANUN",
+  "title": "7535 2025 Yılı Merkezi Yönetim Bütçe Kanunu",
+  "official_link": "https://www.resmigazete.gov.tr/eskiler/2024/12/20241231M1-1.htm",
+  "link_format": "htm",
+  "index_url": "https://www.resmigazete.gov.tr/eskiler/2024/12/20241231M1.htm",
+  "index_sha256": "7f2d5e1f87e623b7a73aa6eb086788d394f61f98c83cbc6bb21de0a40d5247eb",
+  "index_header": "31 Aralık 2024 ... 32769 Sayılı Resmî Gazete",
+  "issue_pdf": "https://www.resmigazete.gov.tr/eskiler/2024/12/20241231M1.pdf",
+  "in_force_basis": "Resmî Gazete publication date; not a commencement reading.",
+  "text_status": "metadata-only; text not yet fetched (follow-up pass adds it as its own commit)"
+}
