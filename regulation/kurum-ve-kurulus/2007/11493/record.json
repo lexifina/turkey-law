@@ -1,0 +1,89 @@
+{
+  "source_id": "7.5.11493",
+  "kind": "regulation",
+  "register_kind": "Kurum ve Kuruluş Yönetmelikleri",
+  "title": "SİGORTA VE REASÜRANS İLE EMEKLİLİK ŞİRKETLERİNİN TEKNİK KARŞILIKLARINA VE BU KARŞILIKLARIN YATIRILACAĞI VARLIKLARA İLİŞKİN YÖNETMELİK",
+  "number": "11493",
+  "issuer_slug": "kurum-ve-kurulus",
+  "path": "regulation/kurum-ve-kurulus/2007/11493",
+  "source": "https://www.mevzuat.gov.tr/anasayfa/MevzuatFihristDetayIframe?MevzuatTur=7&MevzuatNo=11493&MevzuatTertip=5",
+  "source_sha256": "4ce650441cd5270e426c5a4a1e187596893f14ee7617be936c344d18d9edc3a0",
+  "source_bytes": 95961,
+  "published": "2007-08-07",
+  "gazette": "26606",
+  "in_force": "2024-12-31",
+  "in_force_basis": "latest Resmî Gazete date printed in the source amendment notes/table (\"RG-31/12/2024\") for the current consolidated text",
+  "date_evidence": [
+    [
+      "2024-12-31",
+      "RG-31/12/2024",
+      "Resmî Gazete date printed in the source amendment note"
+    ],
+    [
+      "2024-12-31",
+      "31/12/2024",
+      "Resmî Gazete date in the source amendment table"
+    ],
+    [
+      "2021-11-10",
+      "RG-10/11/2021",
+      "Resmî Gazete date printed in the source amendment note"
+    ],
+    [
+      "2021-11-10",
+      "10/11/2021",
+      "Resmî Gazete date in the source amendment table"
+    ],
+    [
+      "2015-08-23",
+      "RG-23/8/2015",
+      "Resmî Gazete date printed in the source amendment note"
+    ],
+    [
+      "2015-08-23",
+      "23/8/2015",
+      "Resmî Gazete date in the source amendment table"
+    ],
+    [
+      "2012-07-17",
+      "RG-17/7/2012",
+      "Resmî Gazete date printed in the source amendment note"
+    ],
+    [
+      "2012-07-17",
+      "17/7/2012",
+      "Resmî Gazete date in the source amendment table"
+    ],
+    [
+      "2010-07-28",
+      "RG-28/7/2010",
+      "Resmî Gazete date printed in the source amendment note"
+    ],
+    [
+      "2010-07-28",
+      "28/7/2010",
+      "Resmî Gazete date in the source amendment table"
+    ],
+    [
+      "2007-10-18",
+      "RG-18/10/2007",
+      "Resmî Gazete date printed in the source amendment note"
+    ],
+    [
+      "2007-10-18",
+      "18/10/2007",
+      "Resmî Gazete date in the source amendment table"
+    ]
+  ],
+  "history": "current-text",
+  "label": "oldest version available",
+  "checked_on": "2026-11-15",
+  "word_count": 5236,
+  "text_status": "current-consolidated",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  },
+  "completeness": "html-text-complete"
+}

@@ -1,0 +1,4 @@
+İkramiye ve indirimler karşılığı
+MADDE 10 – (Değişik:RG-28/7/2010-27655)(1)
+(1) İkramiye ve indirimler karşılığı, cari dönemde yaşayan poliçelere ilişkin olarak sigortalıya müteakip dönemlerde yenilemeye bağlı olmaksızın bir ikramiye veya indirim taahhüdünde bulunulduğu takdirde ayrılması gereken karşılıktır. Sigorta şirketlerinin ikramiye ve indirim uygulamasına gitmesi durumunda, cari yılın teknik sonuçlarına göre sigortalılar ve lehdarlar için ayrılan ikramiye ve indirim tutarlarından oluşur.
+(2) (Değişik:RG-23/8/2015-29454) İkramiyeler ve indirimler cari hesap dönemi içinde lehtar veya sigortalının lehine tahakkuk etmiş ve ödenmiş ya da ödenecek tüm tutarları kapsar. Bu ödeme, sigortalının ilerideki primlerinden indirim veya matematik karşılıklarında artırım yapılarak ya da nakden gerçekleştirilir. Şirketler, taahhütte bulundukları ikramiye ve indirime ilişkin esasları sözleşmede belirtmek zorundadır.
