@@ -1,0 +1,2 @@
+Onay belgelerine yönelik numaralandırma sistemi
+MADDE 7- (1) Motorlu Araçlar ve Römorkları ile Bunların Aksam, Sistem ve Ayrı Teknik Ünitelerinin Tip Onayı ve Piyasa Gözetimi ve Denetimi Hakkında Yönetmelik (AB/2018/858)’in 28 inci maddesinin ikinci fıkrası, 41 inci maddesinin üçüncü fıkrası, 42 nci maddesinin dördüncü fıkrası, 44 üncü maddesinin dördüncü fıkrası ve 45 inci maddesinin altıncı fıkrasında belirtilen onay belgeleri bu Yönetmeliğin Ek IV’ünde belirtilen yönteme uygun olarak numaralandırılır.

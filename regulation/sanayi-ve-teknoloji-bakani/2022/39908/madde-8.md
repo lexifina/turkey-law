@@ -1,0 +1,2 @@
+Aksam ve ayrı teknik ünitelere yönelik AB tip onay işareti modeli
+MADDE 8- (1) Yönetmeliğin Ek V'inde yer alan model, Motorlu Araçlar ve Römorkları ile Bunların Aksam, Sistem ve Ayrı Teknik Ünitelerinin Tip Onayı ve Piyasa Gözetimi ve Denetimi Hakkında Yönetmelik (AB/2018/858)’in 38 inci maddesinin ikinci fıkrasında belirtilen aksam ve ayrı teknik ünitelere yönelik AB tip onay işareti için kullanılır.

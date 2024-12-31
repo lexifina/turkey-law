@@ -1,0 +1,3 @@
+Küçük seriler halinde üretilen araçlara yönelik ulusal tip onay belgeleri ile ulusal münferit araç onay belgelerine yönelik şablonlar
+MADDE 6- (1) Yönetmeliğin Ek III'ünde yer alan A Modeli, Motorlu Araçlar ve Römorkları ile Bunların Aksam, Sistem ve Ayrı Teknik Ünitelerinin Tip Onayı ve Piyasa Gözetimi ve Denetimi Hakkında Yönetmelik (AB/2018/858)’in 42 nci maddesinin dördüncü fıkrasında belirtilen tip onay belgesi için kullanılır.
+(2) Yönetmeliğin Ek III'ünde yer alan E Modeli, Motorlu Araçlar ve Römorkları ile Bunların Aksam, Sistem ve Ayrı Teknik Ünitelerinin Tip Onayı ve Piyasa Gözetimi ve Denetimi Hakkında Yönetmelik (AB/2018/858)’in 45 inci maddesinin beşinci fıkrasında belirtilen ulusal münferit araç onay belgesi için kullanılır.

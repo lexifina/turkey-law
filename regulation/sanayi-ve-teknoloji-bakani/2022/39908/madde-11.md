@@ -1,0 +1,2 @@
+Uygunluk belgelerine yönelik şablonlar ve diğer gereklilikler
+MADDE 11- (1) Yönetmeliğin Ek VIII'inde yer alan şablon ve gereklilikler, Motorlu Araçlar ve Römorkları ile Bunların Aksam, Sistem ve Ayrı Teknik Ünitelerinin Tip Onayı ve Piyasa Gözetimi ve Denetimi Hakkında Yönetmelik (AB/2018/858)’in 36 ncı maddesinin birinci fıkrasında belirtilen uygunluk belgesinin basılı (kağıt) formatı için kullanılır.
