@@ -1,0 +1,2 @@
+Avrupa Birliği mevzuatına uyum
+MADDE 4- (1) Bu Yönetmelik, motorlu araçlarda gelişmiş sürücü dikkat dağınıklığı uyarı sistemine ilişkin gereklilikleri belirleyen 27/11/2019 tarihli ve (AB) 2019/2144 sayılı Avrupa Parlamentosu ve Konsey Tüzüğünü Tamamlayan 13/7/2023 tarihli ve (AB) 2023/2590 sayılı Yetki Devrine Dayanan Komisyon Tüzüğü dikkate alınarak Avrupa Birliği mevzuatına uyum çerçevesinde hazırlanmıştır.
