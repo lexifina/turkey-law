@@ -1,0 +1,8 @@
+Ara ödeme
+MADDE 17 – (1) Tüketicinin ödeme planında yer alan bir taksit tutarından az olmamak üzere, herhangi bir tutarı vadesinden önce ödemesi ara ödeme olarak kabul edilir.
+(2) Tüketicinin ara ödemede bulunması durumunda kalan anapara borcu üzerinden, akdi faiz oranı ile bir önceki taksit tarihinden itibaren işleyen gün sayısı dikkate alınarak bulunacak faiz ve faiz üzerinden hesaplanacak vergi, harç ve benzeri yasal yükümlülükler toplamı tüketiciden tahsil edilir. Tahsil edilen bu tutar dışında kalan kısım anapara borcundan düşülür. Bu durumda kalan taksit sayısı ve ödeme tarihleri değişmeden yeni taksit tutarı ve yeni ödeme planı oluşturulur. Ancak tüketicinin talep etmesi halinde taksit sayısı değişmeyecek şekilde erken ödemesi yapılan taksit sayısına göre ödemesiz dönem veya tüketicinin yazılı veya kalıcı veri saklayıcısı aracılığıyla talep etmesi ve tarafların mutabakatı ile mevcut ödeme planından farklı taksit sayısı ve ödeme tarihleri de belirlenebilir.
+(3) Tarafların mutabakatı halinde yeni ödeme planında yer alan taksit tutarı erken ödeme öncesi taksit tutarından fazla olabilir.
+(4) Faizin tamamının veya bir kısmının tüketiciden peşin olarak tahsil edildiği kredilerde, ara ödeme yapılması durumunda, ödeme yapılan tarih ve tutar esas alınarak akdi faiz oranı üzerinden gerekli faiz iadesi yapılır.
+(5) Yeni ödeme planı, herhangi bir isim altında ücret talep edilmeksizin yazılı olarak veya kalıcı veri saklayıcısı ile tüketiciye verilir.
+(6) Bu maddede yer alan tüketicinin taleplerine ilişkin ispat yükü kredi verene aittir.
+(7) Ara ödeme işlemlerinde Ek-4’te yer alan hususlar esas alınır.

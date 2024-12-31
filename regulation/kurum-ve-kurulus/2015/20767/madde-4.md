@@ -1,0 +1,23 @@
+Tanımlar
+MADDE 4 – (1) Bu Yönetmeliğin uygulanmasında;
+a) Akdi faiz oranı: Tüketici kredisi sözleşmesinde yer alan ve ödeme planı oluşturulmasına esas teşkil eden ve varsa tüketici tarafından ödenen peşin faiz tutarı da dikkate alınarak hesaplanan faiz oranını,
+b) Belirli süreli tüketici kredisi sözleşmesi: Sözleşmenin kurulduğu tarihte, kredi ilişkisinin sona erme tarihinin taraflarca sözleşmede açıkça kararlaştırıldığı tüketici kredisi sözleşmelerini,
+c) Belirsiz süreli tüketici kredisi sözleşmesi: Sözleşmenin kurulduğu tarihte, kredi ilişkisinin sona erme tarihinin taraflarca sözleşmede kararlaştırılmadığı tüketici kredisi sözleşmelerini,
+ç) Efektif yıllık faiz oranı: Kredinin toplam maliyetinin yıllık yüzde değeri olarak hesaplanması sonucu ortaya çıkan yıllık maliyet oranını,
+d) Erken ödeme: Tüketicinin, kredi verene borçlandığı tutarın tamamını veya bir taksit tutarından az olmamak üzere herhangi bir tutarı vadesinden önce ödemesini,
+e) Gecikme faiz oranı: Belirli süreli tüketici kredisi sözleşmelerinde akdi faiz oranının yüzde otuz fazlasını geçmemek üzere belirlenen oranı, belirsiz süreli tüketici kredisi sözleşmelerinde ise ilgili mevzuat gereği belirlenen oranı,
+f) Kalıcı veri saklayıcısı: Tüketicinin gönderdiği veya kendisine gönderilen bilgiyi, bu bilginin amacına uygun olarak makul bir süre incelemesine elverecek şekilde kaydedilmesini ve değiştirilmeden kopyalanmasını sağlayan ve bu bilgiye aynen ulaşılmasına imkan veren kısa mesaj, elektronik posta, internet, disk, CD, DVD, hafıza kartı ve benzeri her türlü araç veya ortamı,
+g) Kanun: Tüketicinin Korunması Hakkında Kanunu,
+ğ) Kredi aracısı: Ticari veya mesleki amaçlarla tüketicilere kredi sözleşmesi sunan veya teklif eden, kredi sözleşmeleri için hazırlık çalışmaları yaparak tüketicilere yardım eden ya da kredi veren adına tüketicilerle kredi sözleşmesi kuran gerçek ya da tüzel kişiyi,
+h) Kredi veren: İlgili mevzuat gereği tüketicilere kredi vermeye yetkili olan gerçek veya tüzel kişiyi,
+ı) Kredili mevduat hesabı sözleşmesi: Kredi verenin önceden tüketiciyle açıkça kararlaştırarak belirli bir limit dahilinde tüketicinin mevduat hesabında var olan aktiften fazlasını kullanmasına izin verdiği sözleşmeyi,
+i) Kredinin toplam maliyeti: Noter masrafları hariç olmak üzere, tüketicinin ödemesi gereken akdi faiz, vergi, harç ve benzeri yasal yükümlülükler ile varsa değişik isimler altında alınan her türlü ücretin de dahil olduğu toplam tutarı,
+j) Limit aşımı: Tüketici için tanımlanmış kredili mevduat hesabı limitinin aşılması hali veya tüketicinin mevduat hesabındaki mevcut bakiyenin üzerinde para temin ettiği ve tüketici tarafından zımnen kabul edilen hali,
+k) Ödeme planı: Tüketici kredisi sözleşmesinde tüketicinin yapacak olduğu ödemede esas alınacak taksit, tutar ve vadeleriyle birlikte anapara, faiz, vergi, harç ve benzeri yasal yükümlülükler ve varsa ücretlerin ayrı ayrı belirtildiği tabloyu,
+l) Taksit: Ödeme planında her bir vade için hesaplanan anapara, faiz, vergi, harç ve benzeri yasal yükümlülükler toplamından oluşan her bir ödeme tutarını,
+m) Taksit vadesi: Ödeme planında belirtilmiş olan taksitlerin ödeneceği tarihi,
+n) Tüketici: Ticari veya mesleki olmayan amaçlarla hareket eden gerçek veya tüzel kişiyi,
+o) Tüketici kredisi sözleşmesi: Kredi verenin tüketiciye faiz, ücret veya benzeri bir menfaat karşılığında ödemenin ertelenmesi, ödünç veya benzeri finansman şekilleri aracılığıyla kredi verdiği veya kredi vermeyi taahhüt ettiği sözleşmeyi,
+ö) Ücret: Faiz, vergi, fon ve benzeri yasal giderler dışında kalan ücret, komisyon, masraf ve benzeri adlar altında tüketiciden talep edilen her türlü parasal tutarı,
+p) (Ek:RG-23/9/2022-31962)(1) Yan finansal ürün ve hizmet: Kredi sözleşmesinin faiz, kâr payı, vergi, fon ve benzeri yasal giderler dışında tüketiciye sunulan her türlü ürün veya hizmet ile kredi bağlantılı sigorta hariç olmak üzere sigortayı,
+ifade eder.

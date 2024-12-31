@@ -1,0 +1,4 @@
+Erken ödeme
+MADDE 15 – (1) Tüketici, vadesi gelmemiş bir veya birden çok taksit ödemesinde bulunabilir veya kredi borcunun tamamını ya da bir kısmını erken ödeyebilir. Bu hâllerde kredi veren 16 ve 17 nci maddelerde belirtilen hükümlere uygun olarak faizin tamamının veya bir kısmının peşin olarak tahsil edildiği durumlar da dahil olmak üzere gerekli indirimi yapmakla yükümlüdür.
+(2) Tüketicinin, vadesi gelmemiş bir veya birden çok taksit ödemesinde bulunması veya kredi borcunun tamamını ya da bir kısmını vadesinden önce ödemesi durumunda, erken ödeme indirimi hesaplanırken tüketicinin ödemeyi yaptığı tarih esas alınır. Bu tarih tüketici aleyhine olacak şekilde değiştirilemez.
+(3) Kredi veren, faizin tamamının veya bir kısmının tüketiciden peşin olarak tahsil edildiği kredilerde, tüketicinin erken ödeme yapması halinde akdi faiz oranı üzerinden gerekli indirimi yapmak üzere bir sistem kurmakla yükümlüdür. Bu durumda, Ek-3’te yer alan hususlar esas alınır.
