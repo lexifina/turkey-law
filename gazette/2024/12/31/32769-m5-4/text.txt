@@ -1,0 +1,144 @@
+31 Aralık 2024 SALI
+Resmî Gazete
+Sayı : 32769 (5.
+Mükerrer)
+YÖNETMELİK
+Sanayi ve Teknoloji Bakanlığından:
+OLAY VERİ
+KAYDEDİCİ SİSTEMİNE İLİŞKİN MOTORLU ARAÇLARIN
+TİP ONAYI HAKKINDA YÖNETMELİK
+(AB/2022/545)
+BİRİNCİ BÖLÜM
+Başlangıç Hükümleri
+Amaç ve
+kapsam
+MADDE 1- (1) Bu Yönetmeliğin amacı; M1
+ve N1 kategorisindeki motorlu
+araçların olay veri kaydedici sistemi ile donatılmasına ve bu sistemlere
+ilişkin tip onayı için özel test prosedürleri ve
+teknik gerekliliklere ilişkin hükümleri ve bunların uygulanmasına ait usul
+ve esasları belirlemektir.
+(2) Bu Yönetmelik; 19/4/2020
+tarihli ve 31104 sayılı Resmî Gazete’de yayımlanan Motorlu Araçlar ve Römorkları
+ile Bunların Aksam, Sistem ve Ayrı Teknik Ünitelerinin Tip Onayı ve Piyasa
+Gözetimi ve Denetimi Hakkında Yönetmelik (AB/2018/858)’in 4 üncü maddesinin
+birinci fıkrasının (a) ve (b) bentlerinde tanımlandığı şekilde, M1 ve N1
+kategorisindeki motorlu araçlar için geçerlidir.
+Dayanak
+MADDE 2- (1) Bu Yönetmelik; 13/10/1983
+tarihli ve 2918 sayılı Karayolları Trafik Kanununun 29 uncu maddesi,
+5/3/2020 tarihli ve 7223 sayılı Ürün Güvenliği ve Teknik Düzenlemeler
+Kanununun 4 üncü maddesi, 1 sayılı Cumhurbaşkanlığı Teşkilatı Hakkında
+Cumhurbaşkanlığı Kararnamesinin 388 inci maddesine dayanılarak hazırlanmıştır.
+İKİNCİ BÖLÜM
+İdari ve Teknik
+Gereklilikler
+Olay veri
+kaydedici sistemi için uygulanabilir teknik gereklilikler
+MADDE 3- (1) Bir aracın olay veri kaydedici sistemi aşağıda
+belirtilen teknik gerekliliklere uygun olur:
+a) 160 Sayılı BM/AEK Regülasyonu.
+b) Bu Yönetmeliğin 4 üncü, 5 inci ve 6 ncı maddeleri.
+(2) Ayrı teknik ünite olarak onaylanacak olay veri
+kaydedici sistemi 160 Sayılı BM/AEK Regülasyonunun 5.3
+üncü giriş maddesi, 5.3.3 ila 5.3.5 maddeleri ile 5.5 maddesine uygun olur.
+(3) Bir motorlu aracın, ayrı teknik ünite olarak
+tip onaylı bir olay veri kaydedici sistemi ile donatıldığı durumda, araç ve
+aracın olay veri kaydedicisi sistemi, 1 inci fıkrada belirtilen teknik
+gerekliliklere uygun olur. Ancak 160 Sayılı BM/AEK Regülasyonunun 5 inci
+maddesinin amaçları bakımından 5.1, 5.2, 5.3.1,
+5.3.2 ve 5.4 maddelerine uygunluk aranır.
+Veri
+güvenliği
+MADDE 4- (1) Olay veri kaydedici sisteminin kaydettiği ve
+depoladığı çarpışma ile ilgili veriler, 155 Sayılı BM/AEK Regülasyonunun orijinal serisi veya sonraki herhangi bir
+değişiklik serisinde belirtilen teknik gereklilikler ve geçiş hükümlerine
+uygun olarak manipülasyona karşı korunur.
+(2) Olay veri kaydedici sisteminde gerçekleştirilen
+yazılım güncellemeleri, bunların tehlikeye atılmasını ve geçersiz
+güncellemeleri makul ölçüde önlemek için korunur.
+Verilerin
+alınması
+MADDE 5- (1) Olay veri kaydedici sistemleri tarafından
+kaydedilen çarpışma ile ilgili veriler, AB/2018/858 Yönetmeliğinin Ek X’unun 2.9 uncu maddesinde
+belirtilen standart hale getirilmiş veri link bağlantı elemanı üzerinde
+seri veri kapısı vasıtasıyla sağlanır. Seri veri kapısının bir çarpışmadan
+sonra artık işlevsel olmadığı durumlarda, veriler olay veri kaydedici
+sistemine doğrudan bağlanarak alınabilir olur.
+(2) Araç imalatçısı, tip onay kuruluşuna ve tip
+onay kuruluşunun talebi üzerine, ilgili aksam, teşhis aracı veya test ekipmanı imalatçısına veya tamircisine, olay verilerine
+nasıl erişilebileceği, bunların nasıl alınabileceği ve yorumlanabileceği
+hakkında bilgi sağlar.
+(3) Araçlar ve olay veri kaydedici sistemleri, bir
+veri alma aracının aşağıdaki veri öğelerini içeren olay raporları
+üretmesine olanak verecek şekilde tasarlanır. (b) bendinde belirtilen
+veriler, aynı zamanda 160 Sayılı BM/AEK Regülasyonunun
+5.4.3 maddesinde belirtilen çarpışma testinin tamamlanmasından sonra da
+mevcut olur.
+a) 160 Sayılı BM/AEK Regülasyonu
+uyarınca gerekli olan zorunlu veri öğelerinin her biri.
+b) Olay veri kaydedici sisteminin bulunduğu aracın
+belirli araç tipi, varyant ve versiyonu (takılı aktif güvenlik ve kaza
+önleme sistemleri dahil).
+(4) Olay veri kaydedici sistemi tarafından
+kaydedilen veriler, aracın kilidini açmaya veya alet kullanmaya gerek
+kalmadan erişilebilen arayüzler üzerinden veya
+kablosuz bağlantılar için araç arayüzleri
+üzerinden erişime açılmaz.
+(5) Birinci fıkraya göre erişime açılan olay veri
+kaydedici sisteminin verileri;
+a) Makine tarafından okunabilir bir formatta mevcut
+olur.
+b) Gerçek bir kişiyle ilişkilendirilmesine olanak
+verecek hiçbir bilgiyi içeremez veya bu bilgilerle birlikte sunulamaz.
+Yola
+uygunluk testi için hükümler
+MADDE 6- (1) Araçların periyodik yola uygunluk testleri
+amacıyla, olay veri kaydedici sisteminin aşağıdaki özelliklerinin
+doğrulanması mümkün olur:
+a) Aracın ana kontrol anahtarının etkinleştirilmesi
+ve herhangi bir ampul kontrolünün ardından arıza uyarı sinyali durumunun
+gözle görülür şekilde gözlemlenmesiyle doğru çalışma durumu kontrol edilir.
+Arıza uyarı sinyalinin ortak bir alanda görüntülendiği durumlarda (iki veya
+daha fazla bilgi fonksiyonunun/sembolünün aynı anda görüntülenemeyeceği
+alan), arıza uyarı sinyali durumundan önce ilk olarak ortak alanın işlevsel
+olup olmadığı kontrol edilir.
+b) Aracın teknik özelliklerinin buna izin verdiği
+ve gerekli verilerin mevcut olduğu durumda bir elektronik araç arayüzünün kullanılmasıyla doğru işlevsellik ve yazılım
+bütünlüğü kontrol edilebilir. İmalatçılar, yola uygunluk testine yetkili
+kurum tarafından talep edilmesi halinde, elektronik araç arayüzünün kullanımına ilişkin teknik bilgilerin mevcut
+olmasını sağlar.
+160
+Sayılı BM/AEK Regülasyonu kapsamındaki onaylara
+ilişkin geçiş hükümleri
+MADDE 7- (1) Bakanlık, 14/5/2020
+tarihli ve 31127 sayılı Resmî Gazete’de yayımlanan Motorlu Araçlar ve
+Römorkları ile Bunlar İçin Tasarlanan Aksam, Sistem ve Ayrı Teknik
+Ünitelerin Genel Güvenliği ve Korunmasız Karayolu Kullanıcılarının ve
+Yolcuların Korunması ile İlgili Tip Onayı Yönetmeliği (AB/2019/2144)’ nin Ek II’sinde yer alan olay
+veri kaydedici sistemine ilişkin geçiş tarihi itibarıyla bu Yönetmelik ve
+160 Sayılı BM/AEK Regülasyonunun 01 numaralı değişiklik serisinde yer alan
+teknik gerekliliklerine uymayan yeni araçların tescilini, satışını ve
+hizmete girmesini yasaklar. Ancak Bakanlık, 1/7/2026
+tarihine kadar, AB/2018/858 Yönetmeliğinin 48 inci, 49 uncu ve 50 nci maddeleri uyarınca bu tür araçların tescili, satışı
+ve hizmete girmesi amacıyla 160 Sayılı BM/AEK Regülasyonunun 01 numaralı
+değişiklik serisine uygun bir onaya alternatif olarak AB ve Türkiye dışında
+verilen 160 Sayılı BM/AEK Regülasyonuna uygun onayları kabul edebilir.
+Avrupa
+Birliği mevzuatına uyum
+MADDE 8- (1) Bu Yönetmelik, Olay Veri Kaydedicileri ile
+İlgili Olarak Motorlu Araçların Tip Onayına ve Bu Sistemlerin Ayrı Teknik
+Üniteler Olarak Tip Onayına İlişkin Özel Test Prosedürleri ve Teknik
+Gerekliliklere Yönelik Ayrıntılı Kurallar Belirleyen (AB) 2019/2144 sayılı
+Avrupa Parlamentosu ve Konsey Tüzüğünü Tamamlayan 26/1/2022
+tarihli ve (AB) 2022/545 sayılı Yetki Devrine Dayanan Komisyon Tüzüğü
+dikkate alınarak Avrupa Birliği mevzuatına uyum çerçevesinde
+hazırlanmıştır.
+ÜÇÜNCÜ BÖLÜM
+Son Hükümler
+Yürürlük
+MADDE 9- (1) Bu Yönetmelik yayımı tarihinde yürürlüğe
+girer.
+Yürütme
+MADDE 10- (1) Bu Yönetmelik hükümlerini Sanayi ve Teknoloji
+Bakanı yürütür.
