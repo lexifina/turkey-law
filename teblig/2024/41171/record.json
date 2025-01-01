@@ -1,0 +1,37 @@
+{
+  "checked_on": "2026-11-15",
+  "commencement_quote": "Bu Tebliğ 1/1/2025 tarihinde yürürlüğe girer",
+  "date_gazette": "32768 (2.Mükerrer)",
+  "date_quote": "Bu Tebliğ 1/1/2025 tarihinde yürürlüğe girer",
+  "first_law": null,
+  "gazette": "32768 (2.Mükerrer)",
+  "history": "current-text",
+  "images": {
+    "deferred": 0,
+    "omitted": 0,
+    "referenced": 0,
+    "source": 0
+  },
+  "in_force": "2025-01-01",
+  "in_force_basis": "Own commencement clause: Bu Tebliğ 1/1/2025 tarihinde yürürlüğe girer",
+  "issuer": "Hazine ve Maliye Bakanlığı",
+  "issuer_catalog_evidence": [
+    {
+      "evidence": "issuer-578-0.json",
+      "id": "578",
+      "label": "Hazine ve Maliye Bakanlığı",
+      "listing_url": "https://www.mevzuat.gov.tr/Anasayfa/MevzuatDatatable?MevzuatTur=Teblig&KurumId=578&start=0&length=100"
+    }
+  ],
+  "issuer_slug": "hazine-ve-maliye-bakanligi",
+  "kind": "communique",
+  "label": "oldest version available",
+  "notes": [],
+  "published": "2024-12-30",
+  "source": "https://www.mevzuat.gov.tr/anasayfa/MevzuatFihristDetayIframe?MevzuatTur=9&MevzuatNo=41171&MevzuatTertip=5",
+  "source_bytes": 14461,
+  "source_id": "9.5.41171",
+  "source_sha256": "b4be9c9fb013d1d8f04c1cf6bdbd4268f933d34913a4bc7179570e57f31822c4",
+  "title": "TÜTÜN MAMULLERİNİN ÜRETİM VE TİCARETİNE İLİŞKİN USUL VE ESASLAR HAKKINDA YÖNETMELİĞİN 23 ÜNCÜ MADDESİNİN, PURO VE SİGARİLLO İTHALATI, FİYATININ BELİRLENMESİ VE YURT İÇİNDE PAZARLANMASINA İLİŞKİN USUL VE ESASLAR HAKKINDA KARARIN 6 NCI MADDESİNİN, MAKARON ÜRETİMİ VE TİCARETİNE İLİŞKİN USUL VE ESASLAR HAKKINDA YÖNETMELİĞİN 23 ÜNCÜ MADDESİNİN, YAPRAK SİGARA KAĞIDI ÜRETİMİ VE TİCARETİNE İLİŞKİN USUL VE ESASLAR HAKKINDA YÖNETMELİĞİN 23 ÜNCÜ MADDESİNİN UYGULANMASI İLE İLGİLİ TEBLİĞ (TEBLİĞ NO: 2024/48)",
+  "word_count": 652
+}
