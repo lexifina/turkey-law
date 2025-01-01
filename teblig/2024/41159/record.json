@@ -1,0 +1,37 @@
+{
+  "checked_on": "2026-11-15",
+  "commencement_quote": "Bu Tebliğ 1/1/2025 tarihinde yürürlüğe girer",
+  "date_gazette": "32768 (2.Mükerrer)",
+  "date_quote": "Bu Tebliğ 1/1/2025 tarihinde yürürlüğe girer",
+  "first_law": null,
+  "gazette": "32768 (2.Mükerrer)",
+  "history": "current-text",
+  "images": {
+    "deferred": 0,
+    "omitted": 0,
+    "referenced": 0,
+    "source": 0
+  },
+  "in_force": "2025-01-01",
+  "in_force_basis": "Own commencement clause: Bu Tebliğ 1/1/2025 tarihinde yürürlüğe girer",
+  "issuer": "Hazine ve Maliye Bakanlığı",
+  "issuer_catalog_evidence": [
+    {
+      "evidence": "issuer-578-0.json",
+      "id": "578",
+      "label": "Hazine ve Maliye Bakanlığı",
+      "listing_url": "https://www.mevzuat.gov.tr/Anasayfa/MevzuatDatatable?MevzuatTur=Teblig&KurumId=578&start=0&length=100"
+    }
+  ],
+  "issuer_slug": "hazine-ve-maliye-bakanligi",
+  "kind": "communique",
+  "label": "oldest version available",
+  "notes": [],
+  "published": "2024-12-30",
+  "source": "https://www.mevzuat.gov.tr/anasayfa/MevzuatFihristDetayIframe?MevzuatTur=9&MevzuatNo=41159&MevzuatTertip=5",
+  "source_bytes": 18222,
+  "source_id": "9.5.41159",
+  "source_sha256": "f45b17dc024982251689fcbd4393a3ae983c62da3964917542ba89834b2b7773",
+  "title": "VERASET VE İNTİKAL VERGİSİ KANUNU GENEL TEBLİĞİ (SERİ NO: 56)",
+  "word_count": 418
+}
