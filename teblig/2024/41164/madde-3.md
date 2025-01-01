@@ -1,0 +1,4 @@
+Harç miktarlarının hesaplanması
+MADDE 3- (1) 27/11/2024 tarihli ve 32735 sayılı Resmî Gazete’de yayımlanan Vergi Usul Kanunu Genel Tebliği (Sıra No: 574) ile 2024 yılı için yeniden değerleme oranı %43,93 (kırk üç virgül doksan üç) olarak tespit ve ilan edilmiştir.
+(2) 492 sayılı Kanuna bağlı tarifelerde yer alan ve 2024 yılında uygulanan maktu harçlar (maktu ve nispî harçların asgarî ve azamî miktarlarını belirleyen hadler dahil) yeniden değerleme oranında artırılmıştır. Artırılan bu tutarlar 1/1/2025 tarihinden itibaren uygulanmak üzere Tebliğ ekindeki tarifelerde gösterilmiştir.
+(3) 492 sayılı Kanuna bağlı 2, 5 ve 7 sayılı tarifelerin bazı pozisyonlarında beher rüsum tonilatosundan gibi birim değer üzerinden alınacak maktu harç tutarları yer almaktadır. Sözü edilen maktu harç tutarlarının, birim değerler toplamına tatbiki sonucu bulunacak olan ve asgari ve azami hadler arasında kalan harcın 10 Kuruşa kadarki kesirleri de tahsil edilmeyecektir.
