@@ -1,0 +1,2 @@
+Amaç ve konu
+MADDE 1- (1) 213 sayılı Vergi Usul Kanununun mükerrer 413 üncü maddesinin Hazine ve Maliye Bakanlığına verdiği yetkiye istinaden, Gelir İdaresi Başkanlığı sistemlerinde yer alan ve mezkûr Kanunun 5 inci maddesi kapsamında üçüncü kişilerle paylaşılabilecek bilgilerin; söz konusu 5 inci madde hükümleri çerçevesinde genel yönetim kapsamındaki kamu idareleri dışındaki kamu kurum ve kuruluşları ve tüzel kişilerle paylaşılması karşılığında katılma payı ödenmesine ilişkin usul ve esasların belirlenmesi bu Tebliğin amaç ve konusunu oluşturmaktadır.

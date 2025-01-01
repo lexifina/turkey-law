@@ -1,0 +1,4 @@
+Katılma payının hesaplanması ve bildirilmesi
+MADDE 7- (1) Katılma payları, takvim yılının üçer aylık dönemleri itibarıyla Başkanlık tarafından paylaşılan veriler üzerinden hesaplanır ve üç aylık dönemi takip eden ayın sonuna kadar veri paylaşılanlardan 213 sayılı Kanunun 107/A maddesi kapsamında elektronik tebligat adresi bulunanlara elektronik ortamda, diğerlerine ise iadeli taahhütlü mektupla tebliğ edilmek suretiyle bildirilir.
+(2) Kamu kurumu niteliğindeki meslek kuruluşları ve üst kuruluşlarıyla mesleki müşterek ihtiyaçların karşılanması amacı dışındaki amaçlarla yapılan paylaşımlara ilişkin katılma payları, kamu kurumu niteliğindeki meslek kuruluşları ve üst kuruluşlarının talebine istinaden, bunlar tarafından ödenmek üzere bu kuruluşlara bildirilebilir.
+(3) İlgililerine yapılan tebligatı müteakip söz konusu katılma payları ile tebliğ tarihleri Bakanlık merkez muhasebe birimine gönderilir.

@@ -1,0 +1,5 @@
+Ödeme
+MADDE 8- (1) Katılma payları bildirimin yapıldığı ayı izleyen ayın sonuna kadar Bakanlık merkez muhasebe birimine ödenir.
+(2) Süresi içerisinde ödeme yapmayanlara yeniden bir bildirimde bulunulmaz. Bakanlık merkez muhasebe birimi, süresi içinde ödeme yapmayanların listesini, katılma payının vadesini takip eden 5 iş günü içerisinde, bilgi paylaşımının durdurulması amacıyla Başkanlığa bildirir.
+(3) Bilgi paylaşımı durdurulan kamu kurum ve kuruluşları ve tüzel kişilerin bilgi paylaşımının durdurulduğu tarihe kadar ayrıca hesaplanan katılma payları, Başkanlık tarafından ilgililerine ve Bakanlık merkez muhasebe birimine bildirilir. Bu şekilde bildirilen tutarlar bildirimin yapıldığı ayı izleyen ayın sonuna kadar ödenir.
+(4) Süresinde ödenmeyen katılma payı tutarları ve vade tarihleri, katılma payının vadesini takip eden 5 iş günü içerisinde, Bakanlık merkez muhasebe birimi tarafından, 21/7/1953 tarihli ve 6183 sayılı Amme Alacaklarının Tahsil Usulü Hakkında Kanun hükümlerine göre takip ve tahsili için ilgililerin bağlı olduğu vergi dairesine gönderilir.

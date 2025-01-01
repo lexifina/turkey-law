@@ -1,0 +1,3 @@
+Katılma payı alınma esasları
+MADDE 5- (1) Başkanlık sistemlerinde yer alan ve 213 sayılı Kanunun 5 inci maddesi kapsamında üçüncü kişilerle paylaşılabilecek bilgilerin; anılan madde hükümleri çerçevesinde genel yönetim kapsamındaki kamu idareleri dışındaki kamu kurum ve kuruluşları ve tüzel kişilerle paylaşılması karşılığında sorgu veya dönen kayıt başına katılma payı alınır.
+(2) Katılma payı; sorgu ile yapılan paylaşımlarda sorgu veya dönen verinin içeriği, toplu olarak yapılan paylaşımlarda paylaşılan verinin içeriği ve paylaşıma konu edilen mükellef sayısı göz önünde bulundurularak belirlenir.
