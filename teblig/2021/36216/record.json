@@ -1,0 +1,55 @@
+{
+  "source_id": "9.5.36216",
+  "kind": "communique",
+  "register_kind": "Tebliğler",
+  "title": "ENERJİ KİMLİK BELGESİ UZMANLARININ EĞİTİM VE DENETİMLERİNE DAİR TEBLİĞ",
+  "number": "36216",
+  "issuer": "Çevre ve Şehircilik Bakanı",
+  "path": "teblig/2021/36216",
+  "source": "https://www.mevzuat.gov.tr/anasayfa/MevzuatFihristDetayIframe?MevzuatTur=9&MevzuatNo=36216&MevzuatTertip=5",
+  "source_sha256": "44e65ee1f803c9c5fd2d7922625b1e265233fcd66b7b0ad3685e23bb8f037453",
+  "source_bytes": 39286,
+  "published": "2021-01-07",
+  "gazette": "31357",
+  "in_force": "2025-01-01",
+  "in_force_basis": "latest Resmî Gazete date printed in the source amendment notes/table (\"1/1/2025\") for the current consolidated text",
+  "date_evidence": [
+    [
+      "2025-01-01",
+      "1/1/2025",
+      "Resmî Gazete date in the source amendment table"
+    ],
+    [
+      "2024-12-27",
+      "RG-27/12/2024",
+      "Resmî Gazete date printed in the source amendment note"
+    ],
+    [
+      "2024-11-27",
+      "RG-27/11/2024",
+      "Resmî Gazete date printed in the source amendment note"
+    ],
+    [
+      "2024-11-27",
+      "27/11/2024",
+      "Resmî Gazete date in the source amendment table"
+    ]
+  ],
+  "commencement_clauses": [
+    "Bu Tebliğ yayımı tarihinde yürürlüğe girer"
+  ],
+  "history": "current-text",
+  "label": "oldest version available",
+  "checked_on": "2026-11-15",
+  "word_count": 1905,
+  "text_status": "current-consolidated",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  },
+  "source_links": [
+    "9.5.36216-Ek.doc"
+  ],
+  "completeness": "html-text-complete; linked annexes not fetched"
+}
