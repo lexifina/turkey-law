@@ -1,0 +1,37 @@
+{
+  "checked_on": "2026-11-15",
+  "commencement_quote": "Bu Tebliğ 1/1/2025 tarihinde yürürlüğe girer",
+  "date_gazette": "32768 (2.Mükerrer)",
+  "date_quote": "Bu Tebliğ 1/1/2025 tarihinde yürürlüğe girer",
+  "first_law": null,
+  "gazette": "32768 (2.Mükerrer)",
+  "history": "current-text",
+  "images": {
+    "deferred": 0,
+    "omitted": 0,
+    "referenced": 0,
+    "source": 0
+  },
+  "in_force": "2025-01-01",
+  "in_force_basis": "Own commencement clause: Bu Tebliğ 1/1/2025 tarihinde yürürlüğe girer",
+  "issuer": "Hazine ve Maliye Bakanlığı",
+  "issuer_catalog_evidence": [
+    {
+      "evidence": "issuer-578-0.json",
+      "id": "578",
+      "label": "Hazine ve Maliye Bakanlığı",
+      "listing_url": "https://www.mevzuat.gov.tr/Anasayfa/MevzuatDatatable?MevzuatTur=Teblig&KurumId=578&start=0&length=100"
+    }
+  ],
+  "issuer_slug": "hazine-ve-maliye-bakanligi",
+  "kind": "communique",
+  "label": "oldest version available",
+  "notes": [],
+  "published": "2024-12-30",
+  "source": "https://www.mevzuat.gov.tr/anasayfa/MevzuatFihristDetayIframe?MevzuatTur=9&MevzuatNo=41170&MevzuatTertip=5",
+  "source_bytes": 7541,
+  "source_id": "9.5.41170",
+  "source_sha256": "d4ae71958a98fb72f702699df87b2d62fc8ccb126ac6d6890a8f9c5d8608d192",
+  "title": "TÜTÜN ÜRETİMİ, İŞLENMESİ, İÇ VE DIŞ TİCARETİ İLE İLGİLİ USUL VE\r\nESASLAR HAKKINDA YÖNETMELİĞİN EK 2 NCİ MADDESİNİN\r\nUYGULANMASI İLE İLGİLİ TEBLİĞ",
+  "word_count": 139
+}
