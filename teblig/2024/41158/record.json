@@ -1,0 +1,37 @@
+{
+  "checked_on": "2026-11-15",
+  "commencement_quote": "Bu Tebliğ 1/1/2025 tarihinde yürürlüğe girer",
+  "date_gazette": "32768 (2.Mükerrer)",
+  "date_quote": "Bu Tebliğ 1/1/2025 tarihinde yürürlüğe girer",
+  "first_law": null,
+  "gazette": "32768 (2.Mükerrer)",
+  "history": "current-text",
+  "images": {
+    "deferred": 0,
+    "omitted": 0,
+    "referenced": 0,
+    "source": 0
+  },
+  "in_force": "2025-01-01",
+  "in_force_basis": "Own commencement clause: Bu Tebliğ 1/1/2025 tarihinde yürürlüğe girer",
+  "issuer": "Hazine ve Maliye Bakanlığı",
+  "issuer_catalog_evidence": [
+    {
+      "evidence": "issuer-578-0.json",
+      "id": "578",
+      "label": "Hazine ve Maliye Bakanlığı",
+      "listing_url": "https://www.mevzuat.gov.tr/Anasayfa/MevzuatDatatable?MevzuatTur=Teblig&KurumId=578&start=0&length=100"
+    }
+  ],
+  "issuer_slug": "hazine-ve-maliye-bakanligi",
+  "kind": "communique",
+  "label": "oldest version available",
+  "notes": [],
+  "published": "2024-12-30",
+  "source": "https://www.mevzuat.gov.tr/anasayfa/MevzuatFihristDetayIframe?MevzuatTur=9&MevzuatNo=41158&MevzuatTertip=5",
+  "source_bytes": 7242,
+  "source_id": "9.5.41158",
+  "source_sha256": "4591f66d878c1eff516091024aa7b85c48871d4b27100f44224bef1a0b89acbb",
+  "title": "ÖZEL İLETİŞİM VERGİSİ GENEL TEBLİĞİ (SERİ NO: 23)",
+  "word_count": 176
+}
