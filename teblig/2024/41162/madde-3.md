@@ -1,0 +1,4 @@
+Maktu damga vergisi tutarları ile azami tutarın belirlenmesi
+MADDE 3- (1) 27/11/2024 tarihli ve 32735 sayılı Resmî Gazete’de yayımlanan Vergi Usul Kanunu Genel Tebliği (Sıra No: 574) ile 2024 yılı için yeniden değerleme oranı %43,93 (kırk üç virgül doksan üç) olarak tespit ve ilan edilmiştir.
+(2) 488 sayılı Kanunun mükerrer 30 uncu maddesinin birinci fıkrası hükmü gereğince, Kanuna ekli (1) sayılı tabloda yer alan ve 68 Seri No’lu Damga Vergisi Kanunu Genel Tebliği ile tespit edilen maktu vergiler (maktu ve nispi vergilerin asgari ve azami miktarlarını belirleyen hadler dahil), yeniden değerleme oranında artırılmış ve 1/1/2025 tarihinden itibaren uygulanacak miktarlar Tebliğ ekindeki (1) sayılı tabloda gösterilmiştir.
+(3) 488 sayılı Kanunun 14 üncü maddesinin birinci fıkrasında yer alan her bir kağıttan alınacak damga vergisine ilişkin üst sınır yeniden değerleme oranında artırılmış ve 1/1/2025 tarihinden itibaren 24.477.478,90 Türk Lirası olmuştur.
