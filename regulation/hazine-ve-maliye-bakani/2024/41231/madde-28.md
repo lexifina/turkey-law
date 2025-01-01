@@ -1,0 +1,2 @@
+Gözetim, kontrol ve etki değerlendirme faaliyetleri
+MADDE 28- (1) Bakanlık, kamu kaynaklarında etkinlik ve verimliliğin sağlanmasını teminen yapılacak etki değerlendirme çalışmalarında ihtiyaç duyulacak verileri BKY’ler, girişim şirketleri ve BKY ağlarından istemeye yetkilidir. Ayrıca Bakanlık, bu Yönetmelik hükümlerine uygun hareket edildiğinin tespiti amacıyla yerinde kontrol faaliyeti yürütebilir ve bu kapsamda ilgililerden bilgi ve belge talebinde bulunabilir.

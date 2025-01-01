@@ -1,0 +1,2 @@
+Akreditasyonun süresi
+MADDE 6- (1) Akreditasyon süresi beş yıldır. Beşinci yılın sonunda akreditasyonunu yenilemek isteyen BKY ağı tarafından Bakanlığa yeniden başvuru yapılabilir. Bu durumda, Bakanlıkça 5 inci maddede yer alan akreditasyon ölçütlerinin BKY ağı tarafından yerine getirilip getirilmediği kontrol edilerek, uygun görülmesi durumunda akreditasyon yenilenir. Bakanlıkça gerekli görülmesi halinde yeni bir protokol imzalanabilir.

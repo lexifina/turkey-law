@@ -1,0 +1,2 @@
+Asgari yatırım tutarı
+MADDE 19- (1) BKY’nin girişim şirketine bireysel ya da ortak yatırım suretiyle koyduğu sermaye ile ilgili olarak vergi desteğinden yararlanabilmesi için BKY’ler tarafından her bir girişim şirketinde iktisap edilen şirket hisselerinin bedeli emisyon primi dahil 200.000 TL’den az olamaz. Bu tutar ortak yatırımlarda her bir BKY için ayrı ayrı uygulanır. Ortak yatırımlarda sadece asgari yatırım tutarını sağlayan BKY’lere vergi desteği uygulanır.

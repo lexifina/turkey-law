@@ -1,0 +1,3 @@
+Vergi desteğinden yararlanma
+MADDE 17- (1) Bu Yönetmelikte düzenlenen koşulları yerine getiren ve BKY lisansına sahip BKY’ler 193 sayılı Kanunun geçici 82 nci maddesinde hükme bağlanan esaslar çerçevesinde vergi desteğinden yararlanabilirler.
+(2) 193 sayılı Kanunun geçici 82 nci maddesinin birinci fıkrasında düzenlenen iktisap edilen tam mükellef anonim şirketlere ait iştirak hisselerinin elde tutulması için gerekli olan iki tam yıllık süre, girişim şirketi adına 20 nci madde kapsamında açılan girişim şirketinin banka hesabına nakdi sermayenin yatırıldığı tarihte başlar. İki yıllık sürenin başlaması ve BKY’nin vergi desteğinden yararlanabilmesi için nakdi sermayenin girişim şirketinin banka hesabına yatırılması zorunludur.

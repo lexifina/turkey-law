@@ -1,0 +1,7 @@
+Yatırım yapılacak faaliyet alanları ve sınırlamalar
+MADDE 18- (1) Vergi desteğinden faydalanmak isteyen BKY’ler tarafından yapılacak yatırımlar aşağıdaki sınırlamalara tabidir:
+a) Vergi desteği Bakanlık tarafından belirlenen sektör ve faaliyetler kapsamında yapılan yatırımlar için uygulanır.
+b) BKY’lerin girişim şirketi yönetimine katılımı genel kurul, yönetim kurulu yahut danışma kurulu veya komitesine katılımla sınırlıdır. BKY girişim şirketinde yönetim kurulu dışında idari görev alamaz ve şirket personeli olarak çalışamaz. BKY girişim şirketinden herhangi bir şekilde ücret ya da maaş alamaz.
+c) BKY’ler ya da BKY ortaklıkları girişim şirketinde hakim ortak olamaz, doğrudan ya da dolaylı olarak, tek başına veya birlikte girişim şirketini kontrol edemez.
+ç) BKY’ler tek başlarına veya birlikte veya eşi ya da kendisinin veya eşinin altsoyu ve üstsoyu ile üçüncü derece dahil yansoy hısımları ve kayın hısımları ile birlikte doğrudan veya dolaylı olarak sermayeyi temsil eden payların ve payların temsil ettiği toplam oy hakkının %50’sinden fazlasına sahip olamaz ve yönetim kurulu üyelerinin %50’sinden fazlasını atayamaz.
+d) BKY’ler girişim şirketinin yönetim kurulunda temsil edilme hakkı sağlayan imtiyazlı paylara sahip olabilir. Bu madde hükümleri saklı kalmak kaydıyla BKY ve girişimci, önem arz eden konular için BKY’ye girişim şirketinin yönetiminde veto hakkı veren imtiyazların ve girişimciye getirilebilecek kısıtlamaların kapsamını serbestçe belirleyebilir.
