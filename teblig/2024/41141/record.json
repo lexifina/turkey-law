@@ -1,0 +1,37 @@
+{
+  "checked_on": "2026-11-15",
+  "commencement_quote": "Bu Tebliğ 1/1/2025 tarihinde yürürlüğe girer",
+  "date_gazette": "32764",
+  "date_quote": "Bu Tebliğ 1/1/2025 tarihinde yürürlüğe girer",
+  "first_law": null,
+  "gazette": "32764",
+  "history": "current-text",
+  "images": {
+    "deferred": 0,
+    "omitted": 0,
+    "referenced": 0,
+    "source": 0
+  },
+  "in_force": "2025-01-01",
+  "in_force_basis": "Own commencement clause: Bu Tebliğ 1/1/2025 tarihinde yürürlüğe girer",
+  "issuer": "Enerji ve Tabii Kaynaklar Bakanlığı",
+  "issuer_catalog_evidence": [
+    {
+      "evidence": "issuer-122-0.json",
+      "id": "122",
+      "label": "Enerji ve Tabii Kaynaklar Bakanlığı",
+      "listing_url": "https://www.mevzuat.gov.tr/Anasayfa/MevzuatDatatable?MevzuatTur=Teblig&KurumId=122&start=0&length=100"
+    }
+  ],
+  "issuer_slug": "enerji-ve-tabii-kaynaklar-bakanligi",
+  "kind": "communique",
+  "label": "oldest version available",
+  "notes": [],
+  "published": "2024-12-26",
+  "source": "https://www.mevzuat.gov.tr/anasayfa/MevzuatFihristDetayIframe?MevzuatTur=9&MevzuatNo=41141&MevzuatTertip=5",
+  "source_bytes": 14186,
+  "source_id": "9.5.41141",
+  "source_sha256": "ba4f65de5a50d7c6c94814a534d645173c7fb4c3ee4db7364813b62ea105aa56",
+  "title": "4646 SAYILI DOĞAL GAZ PİYASASI KANUNUNUN (ELEKTRİK PİYASASI\r\nKANUNUNDA DEĞİŞİKLİK YAPILMASI VE DOĞAL GAZ PİYASASI\r\nHAKKINDA KANUN) 9 UNCU MADDESİ UYARINCA 2025 YILINDA\r\nUYGULANACAK İDARİ PARA CEZALARI HAKKINDA TEBLİĞ",
+  "word_count": 246
+}
