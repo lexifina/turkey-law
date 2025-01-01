@@ -1,0 +1,1 @@
+[1] Bu değişikliklerin tasarruf finansman şirketlerine ilişkin hükümleri Tebliğin yayımını izleyen ayın başında (1/7/2024), ödeme ve elektronik para kuruluşlarına ilişkin hükümleri 1/1/2025 tarihinde yürürlüğe girer.

@@ -1,0 +1,64 @@
+{
+  "source_id": "9.5.19543",
+  "kind": "communique",
+  "register_kind": "Tebliğler",
+  "title": "VERGİ USUL KANUNU GENEL TEBLİĞİ (SIRA NO: 435)",
+  "number": "19543",
+  "path": "teblig/2014/19543",
+  "source": "https://www.mevzuat.gov.tr/anasayfa/MevzuatFihristDetayIframe?MevzuatTur=9&MevzuatNo=19543&MevzuatTertip=5",
+  "source_sha256": "d470e8b72e228681ed4b06c47338f2ed3592599640d72aa967345b79fccb5bba",
+  "source_bytes": 38551,
+  "published": "2014-04-03",
+  "gazette": "28961",
+  "in_force": "2025-01-01",
+  "in_force_basis": "latest Resmî Gazete date printed in the source amendment notes/table (\"1/1/2025\") for the current consolidated text",
+  "date_evidence": [
+    [
+      "2025-01-01",
+      "1/1/2025",
+      "Resmî Gazete date in the source amendment table"
+    ],
+    [
+      "2024-07-01",
+      "1/7/2024",
+      "Resmî Gazete date in the source amendment table"
+    ],
+    [
+      "2024-06-12",
+      "RG-12/6/2024",
+      "Resmî Gazete date printed in the source amendment note"
+    ],
+    [
+      "2024-06-12",
+      "12/6/2024",
+      "Resmî Gazete date in the source amendment table"
+    ],
+    [
+      "2015-06-03",
+      "RG-3/6/2015",
+      "Resmî Gazete date printed in the source amendment note"
+    ],
+    [
+      "2015-06-03",
+      "3/6/2015",
+      "Resmî Gazete date in the source amendment table"
+    ]
+  ],
+  "commencement_clauses": [
+    "Bu Tebliğin birinci bölümü yayımı tarihinde, ikinci bölümü ise 1/4/2014 tarihinden geçerli olmak üzere yayımı tarihinde yürürlüğe girer"
+  ],
+  "history": "current-text",
+  "label": "oldest version available",
+  "checked_on": "2026-11-15",
+  "word_count": 2049,
+  "text_status": "current-consolidated",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  },
+  "source_links": [
+    "9.5.19543-EK.doc"
+  ],
+  "completeness": "html-text-complete; linked annexes not fetched"
+}
