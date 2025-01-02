@@ -1,0 +1,23 @@
+{
+  "number": "meeting-01-02",
+  "number_as_published": "meeting-01-02",
+  "year": 2025,
+  "title": "02.01.2025 Meclis Karar Meclis Kararı",
+  "decision_date": "2025-01-02",
+  "source": "https://www.edremit.bel.tr/Guncel/MeclisKarar?sayfa=3",
+  "official_document": "https://edremit.bel.tr:8081/Upload/Mevzuat/95a29a27-9b9a-426b-b757-de866a1ead24.pdf",
+  "source_sha256": "fdafccd2e588004a1d5487dad169a100e9e48dabfe56a9ccd86b0e03ec3848b5",
+  "issuer": "Edremit Belediye Meclisi",
+  "history_type": "metadata",
+  "text_status": "metadata-only: listing fields as published; complete decision text is in the linked official document, not transcribed",
+  "in_force": "2025-01-02",
+  "in_force_basis": "Decision date as printed in the official council listing: 02.01.2025; adoption date of the council decision; legal commencement not asserted",
+  "missing": [
+    "complete official decision text",
+    "official annexes"
+  ],
+  "law_text_complete": false,
+  "privacy_withheld": false,
+  "listing_label": "02.01.2025 Meclis Karar Meclis Kararı",
+  "record_scope": "one official file of council decisions (meeting)"
+}
