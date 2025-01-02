@@ -1,0 +1,2 @@
+Şube Sekreter üyesinin görev ve yetkileri
+Madde 66 — Şube Sekreter üyesi, Yönetim Kurulu kararına uygun olarak çalışmalarını yürütür. Kararların uygulanmasını sağlar. Şube Yönetim Kurulunun toplantı gündemini Başkanla birlikte düzenler. Görevlilere ait sicillerin tutulması ve Yönetim Kurulu kararlarının uygulanması için gerekli tüm önlemleri alır. Şubenin işlerini yürütür ve imzalar. Gerektiğinde, görevliler için Yönetim Kuruluna önerilerde bulunur.

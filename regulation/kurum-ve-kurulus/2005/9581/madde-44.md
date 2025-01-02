@@ -1,0 +1,3 @@
+Denetleme Kurulu üyeliğinin düşmesi
+Madde 44 — Nedeni ne olursa olsun, üst üste üç (3) kez toplantıya ve/veya denetimlere katılmayan veya katılamayacağını bildiren Denetleme Kurulu üyesi çekilmiş sayılır ve yerine sırada bulunan yedek üye geçer.
+Görevden ayrılan ve çekilmiş sayılan Denetleme Kurulu üyeleri yerine gelecek yedek üye kalmadığı ve kurul üye sayısı üye tam sayısının salt çoğunluğunun altına düştüğünde Olağanüstü Oda Genel Kurul yapılarak yeniden Denetleme Kurulu asil ve yedek üyeleri seçilir. Yeniden seçilen Denetleme Kurulu üyeleri ilk olağan Genel Kurul toplantısına kadar görev yapar.

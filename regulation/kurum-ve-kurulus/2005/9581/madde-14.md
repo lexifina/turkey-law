@@ -1,0 +1,5 @@
+Oda Genel Kurulunun toplanma şekli ve zamanı
+Madde 14 — Oda Genel Kurulu, iki yılda bir, Şubat ayı içinde Oda Yönetim Kurulunca belirlenen gün ve yerde toplanır. Toplantı tarihinin, görüşmeler cumartesi akşamına kadar tamamlanacak ve pazar günü seçimler yapılacak biçimde saptanması zorunludur.
+Oda Genel Kurulu, delege tam sayısının salt çoğunluğu ile toplanır. Birinci, toplantıda çoğunluk sağlanamaması durumunda, ikinci toplantı için çoğunluk aranmaz.
+Ancak ikinci toplantıya katılan delege sayısı, Oda Yönetim, Denetim ve Onur Kurulları asil üye tamsayıları ile TMMOB Genel Kurulunca TMMOB Yönetim Yüksek Onur ve Denetleme Kurulları asil üyeliğine seçilmiş üyelerin toplamının iki katından az olamaz.
+Toplantı yeter sayısının sağlanamaması halinde Genel Kurul ancak bir kez altmış (60) günü geçmemek üzere ertelenir. Bu durumda Oda Yönetim Kurulu yeni Genel Kurul tarihini ve yerini; gündeminde seçim olması halinde görevli hakimin onayını da alarak belirler ve toplantı tarihinden en az on beş (15) gün önce delegelere bildirir. Genel Kurul, Oda merkezinin bulunduğu yerde ve günlük bir gazetenin Türkiye baskısında duyurulur.

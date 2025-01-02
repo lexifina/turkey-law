@@ -1,0 +1,3 @@
+Oda Danışma Kurulu
+Madde 46 — Oda Danışma Kurulu; Odanın TMMOB Yönetim, Yüksek Denetleme ve Yüksek Onur Kurulu Üyeleri, Oda Yönetim, Oda Onur, Oda Denetleme Kurulu, Şube Yönetim Kurulu üyeleri, Oda organlarında görev yapmış üyeler, Oda Yönetim Kurulunun gerekli gördüğü Oda uzmanlık komisyonları üyeleri ve Oda Müdüründen oluşur. Oda Yönetim Kurulunca yılda en az 1 (bir) kez toplantıya çağırılır.
+(Değişik fıkra:RG-27/6/2015-29399) Oda Danışma Kurulunun toplanamayacağı durumlarda, Oda Yönetim Kurulu, gerekli konuları danışmak için şube başkanlarını, sekreterlerini ve saymanlarını yılda en az 1 (bir kez) toplantıya çağırır.

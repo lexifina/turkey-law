@@ -1,0 +1,2 @@
+Genel Kurul kararlarının duyurulması
+Madde 21 — Genel Kurul görüşmeleri ve kararları, bir tutanağa bağlanarak; Başkan, Başkan yardımcıları ve yazmanlarca imzalanıp, tutulan tüm notlar ve ekleriyle birlikte dosyasında saklanmak ve bir örneği TMMOB a iletilmek üzere Oda Yönetim Kuruluna verilir. Tutanaklar veya özetleri, Genel Kurul toplantı tarihinden başlayarak üç (3) ay içinde, üyelere gönderilir veya Oda süreli yayınlarında yayımlanır.

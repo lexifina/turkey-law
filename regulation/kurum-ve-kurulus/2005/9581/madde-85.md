@@ -1,0 +1,2 @@
+Harcama yetkisi, yetkililer
+Madde 85 — Her çalışma yılının başında Yönetim Kurulu; Başkan, ikinci Başkan, Sekreter üye, Sayman üye ve Örgütlenme Sekreterinden oluşan yürütme kuruluna belirli bir miktara kadar harcama yetkisi verebilir. Ödeme emirleri, Oda bütçesi ve Yönetim Kurulunun prensip kararları dahilinde Yürütme Kurulu üyelerinden birisi Genel sayman olmak üzere iki üye tarafından imzalanır ve aynı şekilde bankadan para çekilir.

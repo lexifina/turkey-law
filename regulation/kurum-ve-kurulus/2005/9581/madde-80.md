@@ -1,0 +1,2 @@
+Bütçenin uygulanması
+Madde 80 — Bütçe kabul edildikten sonra uygulanır. Oda Yönetim Kurulu, Olağan Genel Kurulunun yapılacağı takvim yılı başından bütçenin kabul edileceği Genel Kurul toplantısına kadar geçecek süre içinde, her ay için bir önceki yıl bütçesinin onikide biri (1/12)i oranında harcama yapabilir. Ancak, niteliği bakımından bir defada yapılacak giderlerin bu dönemde yapılması gerekirse Oda Yönetim Kurulunca bu gibi harcamalar onikide bir (1/12) oranı aranmadan yapılabilir.

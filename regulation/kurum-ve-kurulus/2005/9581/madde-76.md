@@ -1,0 +1,3 @@
+Aday gösterme
+Madde 76 — Oda Yönetim, Oda Onur ve Oda Denetleme kurulları seçimlerinde en az asil ve yedek üyelerin toplamı kadar, diğer organların seçiminde ise, seçilecek üye sayısı kadar üyenin aday gösterilmesi gereklidir. Asil ve yedek üye sayısı kadar adayların ad ve soyadları, oy pusulalarının ayrılmış bölümlerine yazılır. Oy pusulalarına yazılı isimler asil ve yedek üye sayısından fazla olamaz.
+Seçileceklerin sayısından daha az adayın adı yazılan oy pusulaları da geçerli sayılır. Delege seçimlerinde basılı aday listeleri kullanılabilir. Oy sayımında asil ve yedek üyeler, ayrı ayrı aldıkları oy sayısına göre sıralanır.

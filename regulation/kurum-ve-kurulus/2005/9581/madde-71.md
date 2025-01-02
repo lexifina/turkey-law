@@ -1,0 +1,4 @@
+Temsilcilikler
+Madde 71 — Oda çalışmalarının gerektirdiği durumlarda Şube Yönetim Kurulunun önerisi ve Oda Yönetim Kurulu kararıyla, Şube etkinlik alanı içerisinde İl/İlçe Temsilcilikleri kurulabilir.
+(Mülga ikinci fıkra:RG-11/8/2021-31565)
+Oda Yönetim Kurulu temsilci atamasını da yapar, durumu atadığı temsilciye, yörenin en büyük Mülki Amirine, Belediye Başkanına, Cumhuriyet Savcılığına, ilgili Şube Yönetim Kuruluna etkinlik alanı da belirtilerek yazı ile bildirir. Gerektiğinde yörenin özelliği, yöredeki üye sayısı ve Harita ve Kadastro Mühendisliği hizmetlerinin yoğunluğuna göre temsilci ile birlikte temsilci yardımcısı da atanabilir. (Ek cümleler:RG-27/6/2015-29399) Temsilci ve temsilci yardımcılarının görev süresi görevlendirildikleri tarihi takip eden ilk Oda genel kurulunun yapılmasına kadar devam eder. Oluşan Oda Yönetim Kurulu yukarıda belirtilen usule göre temsilci ve temsilci yardımcılarını atar.

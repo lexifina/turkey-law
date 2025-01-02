@@ -1,0 +1,2 @@
+Yabancı uyruklu HKM lerin hak ve sorumlulukları
+Madde 96 — Yabancı uyruklu Yüksek Mühendis ve Mühendis veya mühendislik kuruluşları hakkında, 1/2/2005 tarihli ve 25714 sayılı Resmî Gazete'de yayımlanarak yürürlüğe giren Türk Mühendis ve Mimar Odaları Birliği Yabancı Mühendis, Mimar ve Şehir Plancılarının Çalışma İznine Esas Değerlendirilmesi ve Geçici Üyelik Müracaatları Hakkında Yönetmelik hükümleri uygulanır.

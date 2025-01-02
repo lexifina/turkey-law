@@ -1,0 +1,2 @@
+Üyelikten ayrılma
+Madde 10 — Herhangi bir nedenle mesleki etkinliğini sürdürmek istemeyen, kamu kurum ve kuruluşları ile iktisadi devlet teşekkülleri veya kamu iktisadi kuruluşlarında asil ve sürekli görevde çalışırken üyelikten ayrılmak isteyen üyeler, bu durumu Odaya yazılı olarak bildirmek, belgelemek, Oda üye kimlik kartını geri vermek ve o tarihe kadar olan üyelik ödentilerinin tümünü ödemek koşullarıyla, Oda Yönetim Kurulu kararıyla üyelikten ayrılabilir. Ayrılma isteği kabul edilmeyen üyenin Oda Genel Kuruluna itiraz hakkı vardır.

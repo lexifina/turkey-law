@@ -1,0 +1,1 @@
+[1] 2/1/2025 tarihli ve 32770 sayılı Resmî Gazete’ de yayımlanan değişiklikle maddenin birinci fıkrasına (f) bendinden sonra gelmek üzere (g) ve (ğ) bentleri eklenmiş ve diğer bent buna göre teselsül ettirilmiştir.

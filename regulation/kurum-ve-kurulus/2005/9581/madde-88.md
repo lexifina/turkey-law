@@ -1,0 +1,3 @@
+Üye ödentisi
+Madde 88 — Yıllık üye ödentisi, her takvim yılı içinde, peşin olarak veya Oda Yönetim Kurulunca saptanarak duyurulan belirli aylarda olmak üzere en çok dört (4) eşit taksitte ödenir. Emekli veya maluliyet aylığı alıp çalışmayanlardan, (Ek ibare:RG-11/8/2021-31565) bir defaya mahsus başvurmaları ve çalışmadıklarına dair belgeleri sunmaları halinde bu Yönetmelik gereklerini yerine getirmek koşuluyla üyelik ödentisi alınmaz.
+Geçmiş yıllara ait üye ödenti borçları, borcun ödendiği tarihteki üye ödentisi miktarı üzerinden alınır. Üye ödentisi ile para cezalarını ödemeyenlere yazılı bildirim yapılır. Yazılı bildirim tarihinden başlayarak otuz (30) gün içinde ödemeyenlere, 9/6/1932 tarihli ve 2004 sayılı İcra ve İflas Kanununun ilgili hükümleri uygulanır.
