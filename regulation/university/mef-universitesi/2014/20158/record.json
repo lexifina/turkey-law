@@ -1,0 +1,31 @@
+{
+  "act_path": "regulation/university/mef-universitesi/2014/20158",
+  "availability": "text",
+  "checked_on": "2026-11-14",
+  "commencement_clauses": [
+    "MADDE 46 – (1) Bu Yönetmelik 2014-2015 Eğitim-Öğretim Yılı başından geçerli olmak üzere yayımı tarihinde yürürlüğe girer."
+  ],
+  "date_quote": "RG-2/1/2025",
+  "first_law": null,
+  "gazette": "29152",
+  "history": "current-text",
+  "images": {
+    "deferred": 0,
+    "omitted": 0,
+    "referenced": 0,
+    "source": 0
+  },
+  "in_force": "2025-01-02",
+  "in_force_basis": "latest source-printed amendment Gazette date; current consolidated text",
+  "issuer": "MEF Üniversitesi",
+  "issuer_slug": "mef-universitesi",
+  "kind": "regulation",
+  "published": "2014-10-21",
+  "source": "https://www.mevzuat.gov.tr/anasayfa/MevzuatFihristDetayIframe?MevzuatTur=8&MevzuatNo=20158&MevzuatTertip=5",
+  "source_id": "8.5.20158",
+  "source_sha256": "554b26b5a19428e80d910122097fea2aa5a3bbcc5c62be39f26703e4ed420ade",
+  "title": "MEF ÜNİVERSİTESİ LİSANS VE ÖNLİSANS EĞİTİM-ÖĞRETİM YÖNETMELİĞİ",
+  "university_id": 426,
+  "version_label": "oldest version available",
+  "word_count": 5329
+}

@@ -1,0 +1,9 @@
+ÜÇÜNCÜ BÖLÜM
+Eğitim-Öğretim Dili ve İngilizce Yeterliği ile İlgili Esaslar
+Eğitim-öğretim dili
+MADDE 14 – (1) Üniversitede eğitim-öğretim dili İngilizcedir. Bazı programlar veya dersler, özellikleri gereği Senato onayı ile İngilizce-Türkçe veya sadece Türkçe veya başka bir dilde yapılabilir.
+(2) Önlisans ve lisans programlarına kabul edilen öğrencilerin İngilizce dil yeterlikleri, Yabancı Diller Bölümü tarafından yapılan İngilizce yeterlik sınavı ile tespit edilir.
+(3) (Değişik:RG-2/1/2025-32770) Orta öğretimini, anadili İngilizce olan devletlerin eğitim dili İngilizce olan kurumlarında tamamlamış olanlarla, uluslararası nitelikteki dil sınavlarına katılan öğrencilerin İngilizce yeterlik düzeylerinde aranan şartlar ve bu öğrencilerin Yabancı Diller Bölümünce yapılan yeterlik sınavına girip girmeyecekleri Senato tarafından belirlenir.
+(4) Yabancı Diller Bölümünce yapılan İngilizce yeterlik sınavında başarılı olamayanlar, İngilizce Hazırlık Programına alınırlar. İlk akademik yılsonunda yeterlik sınavında başarısız olan öğrenciler, bir yıl daha İngilizce Hazırlık Programına devam edebilirler.
+(5) İkinci yılın sonunda da başarısız olan öğrencilerin Üniversite ile ilişiği kesilir. Derslere devam yükümlülüklerini yerine getirdikleri halde, İngilizce Hazırlık Programında başarılı olamayan ve bu nedenle ikinci senenin sonunda ilişiği kesilen öğrenciler, sınava girecekleri dönemin eğitim-öğretim ücretinin % 25'ini ödemek koşulu ile açılan İngilizce yeterlik sınavına katılmak veya Senato tarafından kabul edilen başka eşdeğer yeterlik belgesi sunmak sureti ile başarılı oldukları takdirde, kabul edildikleri programa takip eden ilk yarıyıl/yıl başlangıcında kayıt yaptırabilirler.
+(6) Üniversite İngilizce Hazırlık Programından alınan yeterlik belgesinin geçerlik süresi iki yıldır. Üniversitedeki öğretimlerine devam etmeden bu süreyi aşan ve tekrar öğrenimlerine devam etmek isteyen öğrencilerden, yabancı dil yeterlik belgesi istenir.

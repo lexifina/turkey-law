@@ -1,0 +1,6 @@
+Öğrenim süresi
+MADDE 18 – (Değişik:RG-21/2/2023-32111)
+(1) Üniversitede normal öğrenim süresi ön lisans programlarında iki, lisans programlarında dört akademik yıldır. Tam zamanlı öğrenci statüsünde azami öğrenim süresi ön lisans programlarında dört, lisans programlarında yedi akademik yıldır. Yabancı dil hazırlık programlarında geçirilecek süre bu sürelere dâhil değildir.
+(2) Yatay veya dikey geçiş yoluyla Üniversiteye kayıt yaptıranlar ile Üniversite içinde bölüm değiştiren öğrencilerin önceki programlarında geçirdikleri süre, yabancı dil hazırlık programlarında geçirilen süre hariç, öğrenim sürelerine dâhil edilir.
+(3) 24/4/2010 tarihli ve 27561 sayılı Resmî Gazete’de yayımlanan Yükseköğretim Kurumlarında Önlisans ve Lisans Düzeyindeki Programlar Arasında Geçiş, Çift Ana Dal, Yan Dal ile Kurumlar Arası Kredi Transferi Yapılması Esaslarına İlişkin Yönetmeliğin ek 1 inci maddesinin ikinci fıkrası kapsamında yatay geçiş yapan öğrenciler hakkında birinci ve ikinci fıkralarda yer alan hükümler uygulanmaz; öğrenim süreleri, programın azami süresinden kabul edildiği sınıf çıkartılarak hesaplanır.
+(4) Azami süre sonunda mezun olamayan öğrencilere ilgili mevzuata uygun olarak ek süre ve haklar tanınır.

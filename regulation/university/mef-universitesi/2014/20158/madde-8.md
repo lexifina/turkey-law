@@ -1,0 +1,5 @@
+Kayıt İşlemleri
+MADDE 8 – (1) Üniversitede bir programa kesin kayıt hakkı kazananların ilk kayıt işlemleri Öğrenci İşleri Direktörlüğünce ilan edilen tarihlerde ve istenilen belgelerle yapılır. Üniversitenin herhangi bir eğitim-öğretim programına kabul edilen öğrencilerin, ders kayıtlarının yapılabilmesi için gerekli mali sorumlulukların yerine getirilmiş olması gerekir.
+(2) Belgelerinde eksiklik ya da tahrifat olanlarla bir yükseköğretim kurumundan 18/8/2012 tarihli ve 28388 sayılı Resmî Gazete’de yayımlanan Yükseköğretim Kurumları Öğrenci Disiplin Yönetmeliğine göre çıkarılmış olanlar Üniversiteye kayıt yaptıramazlar, kayıtları yapılmış olsa bile durum ortaya çıkınca kayıtlar iptal edilir.
+(3) Kayıt için zamanında başvurmayan veya gerekli belgeleri sağlamayan öğrenciler, kayıt haklarını kaybederler. Süresi içinde kayıt yaptırmayanların resmi belge ile kanıtlanan mazeretlerinin kabulüne ve kayıtlarının yapılıp yapılmayacağına Rektörlük karar verir.
+(4) İletişim bilgileri değişen öğrenciler, değişikliği takiben en geç on beş gün içinde Öğrenci İşleri Direktörlüğüne yazılı olarak başvurarak bilgilerini güncellemekle yükümlüdürler.

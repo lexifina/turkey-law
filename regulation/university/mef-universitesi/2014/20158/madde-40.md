@@ -1,0 +1,5 @@
+Ders tekrarı ile ilgili esaslar
+MADDE 40 – (1) Program müfredatında bulunan bir dersten bir yarıyılda F, FX, FZ veya U notlarından birini alan öğrenciler bu dersleri takip eden iki yarıyıl içerisinde tekrar almak zorundadır. Birinci sınıf İngilizce derslerinde başarılı olamayan öğrencilerin, ilgili dersi verildiği ilk yarıyılda almaları zorunludur.
+(2) Gözetim durumundaki öğrenciler, önceki yarıyıllarda C-, D+ veya D notu aldıkları derslerden istediklerini tekrarlayabilirler.
+(3) (Değişik:RG-22/11/2021-31667) Uzatmalı statüdeki öğrenciler hariç, başarılı durumdaki öğrenciler bulundukları yarıyılda almaları gereken derslere ek olarak, önceki yarıyıllarda ders kaydı yaptırıp A-, B+, B-, C+, C, C-, D+ veya D notu almış oldukları dersleri, söz konusu derslerde yer bulunması kaydıyla tekrar alabilirler.
+(4) Tekrarlanacak dersin seçmeli bir ders olması durumunda, söz konusu dersin yerine aynı seçmeli ders kümesinden başka bir ders alınabilir; bu durumda önce alınan ders not çizelgesinde yer alır ancak genel not ortalamasına dahil edilmez.

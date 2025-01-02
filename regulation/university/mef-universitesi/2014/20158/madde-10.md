@@ -1,0 +1,4 @@
+Ücretler
+MADDE 10 – (1) Üniversitede eğitim-öğretim ücretlidir. Programlara devam edebilmek için ödenecek yıllık eğitim-öğretim ücretleri, Mütevelli Heyeti tarafından belirlenir.
+(2) Yurt dışından öğrenciler, Mütevelli Heyeti tarafından belirlenen uluslararası öğrenci eğitim-öğretim ücretine tabi olurlar. Özel öğrenciler, misafir öğrenciler ve uzatmalı öğrenciler, katıldıkları derslerin sayısı ve kredi saati esas alınarak Mütevelli Heyeti tarafından belirlenen esaslara göre eğitim-öğretim ücreti öderler. Bu fıkra uyarınca ödenecek öğrenim bedeline yaz öğretiminde alınan dersler dâhil değildir.
+(3) Ücretler iki taksitte, her yarıyıl için akademik takvimde ilan edilen son ödeme tarihine kadar ödenir. Eğitim-öğretim ücreti borcu bulunan öğrencilerin kayıtları yenilenmez. Ödeme usulü her akademik yılbaşında Senato tarafından karara bağlanır.

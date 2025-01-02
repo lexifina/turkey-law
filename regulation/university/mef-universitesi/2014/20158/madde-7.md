@@ -1,0 +1,5 @@
+Yatay veya dikey geçiş yolu ile kabul
+MADDE 7 – (1) (Değişik:RG-25/12/2017-30281) Üniversite içinden veya dışından Üniversite programlarına yapılacak her türlü yatay geçiş, ilgili mevzuat hükümleri ile Senato kararlarına göre yürütülür.
+(2) ÖSYM tarafından Üniversiteye yerleştirildiği takvim yılı içerisinde, Üniversitenin kayıtlı lisans öğrencisi olan ve tekrar Üniversitede bir lisans programına yerleşen öğrenciler, yerleştikleri program kayıtlı oldukları programdan farklı ise yatay geçiş öğrencisi gibi değerlendirilir.
+(3) Yatay veya dikey geçiş yoluyla Üniversiteye kesin kayıt yaptıran öğrencilerin intibakları, ilgili fakülte veya yüksekokul yönetim kurulu tarafından yapılır. Bu öğrencilerin önceki diploma programından aldığı ve başarılı olduğu derslerin intibakının yapılarak, bu derslere ilişkin daha önce alınan notları transkripte işlenir.
+(4) Transfer edilen dersler, fakülte veya yüksekokul yönetim kurulu kararıyla, öğrencinin Üniversitede kayıtlı olduğu eğitim programında yer alan derslerden bazıları için muafiyet sağlayabilir. Muafiyet sağlanan derslerin toplam kredisi muafiyet sağlayan derslerin toplam kredisinden yüksek olamaz.
