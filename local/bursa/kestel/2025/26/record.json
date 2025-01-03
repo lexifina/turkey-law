@@ -1,0 +1,24 @@
+{
+  "number": "26",
+  "number_as_published": "26",
+  "year": 2025,
+  "title": "İlçemiz Kozluören Mahallesi, 141 ada, 11 parsel; 128 ada, 1 parsel; 124 ada, 3 parsel ile Kazancı Mahallesi, 101 ada, 2 ve 4 parsellerin imar planlarının yapılması konusunun İmar Komisyonuna havale edilmesine karar verildi.",
+  "decision_date": "2025-01-03",
+  "source": "https://www.kestel.bel.tr/mecliskararlari",
+  "official_document": null,
+  "source_sha256": "fa2b611da6091117c597058a893f37368b9199376657c7eea64368aff17c7955",
+  "issuer": "Kestel Belediye Meclisi",
+  "history_type": "metadata",
+  "text_status": "metadata-only: listing fields as published; the listing links no decision document",
+  "in_force": "2025-01-03",
+  "in_force_basis": "Decision date as printed in the official council listing: 03.01.2025 (KARAR TARİHİ in the official list); adoption date of the council decision; legal commencement not asserted",
+  "missing": [
+    "complete official decision text",
+    "official annexes"
+  ],
+  "law_text_complete": false,
+  "privacy_withheld": false,
+  "record_scope": "one council decision (number, date, decision summary as listed in the meeting's table)",
+  "listing_item": "03.01.2025 TARİHİ CUMA GÜNÜ BELEDİYE MECLİSİNDE GÖRÜŞÜLEN KONULARIN KARAR ÖZETLERİ",
+  "official_page": "https://www.kestel.bel.tr/mecliskararlari"
+}
