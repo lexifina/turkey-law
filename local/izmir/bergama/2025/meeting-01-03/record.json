@@ -1,0 +1,24 @@
+{
+  "number": "meeting-01-03",
+  "number_as_published": "meeting-01-03",
+  "year": 2025,
+  "title": "03.01.2025 Tarihli Bergama Belediye Meclisi Toplantı Karar Özetleri",
+  "decision_date": "2025-01-03",
+  "source": "https://bergama.bel.tr/meclis/meclis-karar-ozetleri/",
+  "official_document": "https://bergama.bel.tr/wp-content/uploads/2025/01/Ocak-Karar-Ozetleri.pdf",
+  "source_sha256": "f634559329c4823c5d4bee8561aee020021b7ee10131db57ac2cdd7cce7c2cf5",
+  "issuer": "Bergama Belediye Meclisi",
+  "history_type": "metadata",
+  "text_status": "metadata-only: listing fields as published; complete decision text is in the linked official document, not transcribed",
+  "in_force": "2025-01-03",
+  "in_force_basis": "Decision date as printed in the official council listing: 03.01.2025; adoption date of the council decision; legal commencement not asserted",
+  "missing": [
+    "complete official decision text",
+    "official annexes"
+  ],
+  "law_text_complete": false,
+  "privacy_withheld": false,
+  "listing_label": "03.01.2025 Tarihli Bergama Belediye Meclisi Toplantı Karar Özetleri",
+  "record_scope": "one official file of council decisions (meeting)",
+  "official_page": "https://bergama.bel.tr/meclis/meclis-karar-ozetleri/"
+}
