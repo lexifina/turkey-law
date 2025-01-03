@@ -1,0 +1,29 @@
+{
+  "source_id": "9.5.41238",
+  "kind": "communique",
+  "register_kind": "Tebliğler",
+  "title": "2025 YILI SERBEST MUHASEBECİLİK, SERBEST MUHASEBECİ MALİ MÜŞAVİRLİK VE YEMİNLİ MALİ MÜŞAVİRLİK ASGARİ ÜCRET TARİFESİ",
+  "number": "41238",
+  "path": "teblig/2025/41238",
+  "source": "https://www.mevzuat.gov.tr/anasayfa/MevzuatFihristDetayIframe?MevzuatTur=9&MevzuatNo=41238&MevzuatTertip=5",
+  "source_sha256": "e6d036bfbc46494a4262134809f5a19c096ccd8737472d2cf948cf0597d46f28",
+  "source_bytes": 10143,
+  "published": "2025-01-03",
+  "gazette": "32771",
+  "in_force": "2025-01-03",
+  "in_force_basis": "Resmî Gazete publication date in the official listing (03.01.2025)",
+  "history": "current-text",
+  "label": "oldest version available",
+  "checked_on": "2026-11-15",
+  "word_count": 90,
+  "text_status": "current-consolidated",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  },
+  "source_links": [
+    "9.5.41238-Ek.xlsx"
+  ],
+  "completeness": "html-text-complete; linked annexes not fetched"
+}
