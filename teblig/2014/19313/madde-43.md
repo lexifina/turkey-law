@@ -1,0 +1,2 @@
+Kanun veya Cumhurbaşkanı Kararı ile getirilen muafiyet hükümlerinin uygulanması[1]
+MADDE 43 – (1) Kanun veya (Değişik ibare:RG-4/1/2025-32772) Cumhurbaşkanı Kararı ile getirilen muafiyetlerin kanun veya kararın yürürlük tarihinden önceki işlemleri kapsaması halinde, Gümrük Yönetmeliğinin ek-78’indeki form ile müracaat edilmesi beklenilmeksizin ve Gümrük Yönetmeliğinin 500 üncü maddesinde belirtilen limitler dikkate alınmaksızın, ilgili yasal hükümler gerekçe gösterilerek düzenlenecek bir karar ile geri verme veya kaldırma işlemleri sonuçlandırılır.

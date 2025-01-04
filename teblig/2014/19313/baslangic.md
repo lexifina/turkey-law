@@ -1,0 +1,3 @@
+GÜMRÜK GENEL TEBLİĞİ
+(TAHSİLAT İŞLEMLERİ)
+(SERİ NO: 2)

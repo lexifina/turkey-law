@@ -1,0 +1,7 @@
+Gümrük vergileri ile para cezalarının takibi ve tahsili
+MADDE 14 – (1) Kesinleşen ve 6183 sayılı Kanunun 55 ve müteakip maddeleri gereğince takibi gereken alacaklara ilişkin tebligatlar, mezkur Kanunun 8 inci maddesi uyarınca 4/1/1961 tarihli ve 213 sayılı Vergi Usul Kanununun tebligat hükümlerine göre yapılır.
+(2) Düzenlenen gümrük vergileri ve para cezalarına ilişkin kararlar, tarih sırasına göre numara verilerek ilgili programlara kaydedilir.
+(3) 4 üncü maddenin üçüncü fıkrasının uygulanmasında gümrük idaresince yükümlüsüne, söz konusu alacağın, 6183 sayılı Kanunun 37 nci maddesinde belirtilen bir aylık ödeme süresi içinde ödenmesi gerektiği hususu bildirilir.
+(4) Zamanaşımına uğramış gümrük vergilerini ve para cezalarını yükümlünün ödemek istemesi durumunda rızaen yapılacak ödemeler kabul olunur.
+(5) 5326 sayılı Kanunun 17 nci maddesinin üçüncü fıkrası uyarınca idarî para cezalarının, ilk taksitinin peşin ödenmesi koşuluyla, bir yıl içinde ve dört eşit taksit halinde ödenmesine ceza kararını veren gümrük idaresince, bu konuda ödeme süresi içerisinde yapılacak yazılı başvuru üzerine karar verilebilir.
+(6) (Ek:RG-4/1/2025-32772) Yükümlülerin ölümü halinde gümrük vergi borçları, mirası reddetmemiş kanuni ve mansup mirasçılarına geçer. Ancak, mirasçılardan her biri bu vergi borçlarından miras hisseleri nispetinde sorumlu olurlar. İdari para cezasına muhatap olan yükümlünün ölümü halinde ise cezaların şahsiliği ilkesi uyarınca, bu cezalar mirasçılarından takip edilmez ve cezaların tahsilinden vazgeçilir.

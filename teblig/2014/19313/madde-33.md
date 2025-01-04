@@ -1,0 +1,17 @@
+Telafi edici verginin geri verilmesi
+MADDE 33 – (1) Gümrük Kanununun 212 nci maddesine göre, dahilde işleme rejimi kapsamında işlem gören ihracat beyannamesinin iptali üzerine, bu beyannameyle ilgili tahakkuk veya tahsil edilen telafi edici verginin geri verilmesi veya kaldırılması için, Gümrük Yönetmeliğinin 417 nci maddesindeki beyanname iptali için belirlenen süre içerisinde talepte bulunulması gerekir.
+(2) Dahilde işleme izin belgesi ile irtibatlandırılarak ihraç edilen eşyaya ait ihracat beyannamesinin daha sonra ihracatçı birliklerince belge taahhüt hesabının kapatılmasında kullanılmaması halinde, bu ihracat beyannamesiyle ilgili olarak ödenen telafi edici verginin geri verilmesinin veya kaldırılmasının istenilmesi durumunda;
+a) A.TR dolaşım belgesi kapsamı eşyanın serbest dolaşımda bulunduğunun,
+1) Belge kapsamı eşyanın üretiminde kullanılan girdilerin temin ediliş belgeleri,
+2) Üçüncü ülke menşeli girdi kullanıldı ise giriş beyannameleri,
+3) Üretici firmanın kapasite raporu,
+4) Belge kapsamı eşyanın çıkış beyannamesi;
+b) EUR.1 dolaşım sertifikası kapsamı eşyanın tercihli menşe statüsüne sahip olduğunun,
+1) İhracatçı tarafından düzenlenen "ihracatçı beyanı" eki tüm belgelerin,
+2) Eğer belge kapsamı ürün tamamıyla Türkiye'de elde edilmiş ise temin ediliş faturaları veya müstahsil makbuzları,
+3) Ürün tamamıyla Türkiye'de elde edilmemiş ise ürünün bünyesine giren üçüncü ülke menşeli girdinin nereden temin edildiği ve üzerinde ne gibi bir işlem ve işçilik yapıldığına ilişkin imalatçı beyanının,
+4) Belge kapsamı eşyanın üretiminde kullanılan girdilerin Avrupa Birliği, Avrupa Serbest Ticaret Birliği üyesi ülkeler ve Serbest Ticaret Anlaşması imzalanan ülkeler menşeli olması halinde bu durumları ispat eder belgeler (EUR.1, fatura beyanı ve tedarikçi beyanı) esas alınmak ve gerekmesi halinde ek bilgi ve belge istemek suretiyle,
+tespit edilmesini müteakip geri verilir veya kaldırılır.
+(3) Dahilde işleme rejimi kapsamında yapılan ihracat sırasında yanlışlıkla (kur, vergi oranının yanlış hesaplanması ve benzeri nedenlerle) fazla alındığı anlaşılan telafi edici vergi, Gümrük Kanununun 211 inci maddesi ikinci fıkrasında belirtilen süre içerisinde talepte bulunulması halinde geri verilir.
+(4) Dahilde İşleme Rejimi kapsamında yapılan ihracat sırasında tahsil edilmiş telafi edici verginin konusu olan üçüncü ülke menşeli eşya girdisinin gerçekte beyan edilenden daha az miktarda kullanılmış olması nedeniyle, ödenmesi gerekenden daha fazla ödenmiş olan telafi edici verginin Gümrük Kanununun 211 inci maddesi uyarınca yapılacak geri verme veya kaldırma başvurularının, telafi edici vergisi ödenmiş ihracat beyannamesi bünyesindeki eşyada üçüncü ülke menşeli girdinin daha az miktarda kullanıldığı ve işlenmiş ürünün bir kısmının serbest dolaşımda bulunan eşyadan üretildiğinin ispatlanmasına bağlı olarak geri verilir veya kaldırılır.
+(5) AB ile ticarette kullanılan A.TR Dolaşım Belgesi ve serbest ticaret anlaşmaları çerçevesinde kullanılan menşe ispat belgelerinin (EUR.1, EUR.MED, fatura beyanı, menşe beyanı ve benzeri) usulüne uygun bir şekilde düzenlenmemesi ya da düzenlenmemesi gerektiği halde düzenlenmesi nedeniyle telafi edici verginin geri verilmesi veya kaldırılması için, Gümrük Kanununun 211 inci maddesinin ikinci fıkrasında belirtilen süre içerisinde talep edilmesinin yanında, bahse konu dolaşım belgelerinin asıllarının ilgili gümrük idaresine iade edilmiş olması veya ithalat sırasında kullanılmadığını belirten ithalatçı ülke gümrük idaresinden temin edilecek resmi bir yazının ibrazı gerekir.

@@ -1,0 +1,5 @@
+Tecilin geçerli sayılması
+MADDE 27 – (1) Ödenmesi gereken taksit tutarlarının süresinde ödenmemesi tecil ihlaline neden olmakla birlikte, yükümlülerin taksitlendirme süresi içerisinde tecilin geçerli sayılması yönünde talepte bulunmaları halinde, bu talep tecili yapan idarece değerlendirilerek sonuçlandırılır.
+(2) Tecilin geçerli sayılması, daha evvel tecil edilen bir borca karşılık yapılan ödemelerin geçerli sayılması ve kalan tutarın da belirlenen bir plan dahilinde ödenmesine izin verilmesidir.
+(3) Tecilin geçerli sayılması durumunda, tecil faizi hesaplanmasında ve taksitlendirme süresinin belirlenmesinde ilk müracaat tarihi esas alınır.
+(4) Tecilin ihlaline neden olan taksitin son taksit olması halinde yükümlülerin tecilin geçerli sayılmasına ilişkin taleplerini en geç son taksit ödeme süresini izleyen ayın sonuna kadar yapmaları ve ihlal edilen taksit tutarı ile hesaplanan tecil faizini tecilin geçerli sayıldığına ilişkin yazının tebliğ edildiği tarihten itibaren beş iş günü içinde ödemeleri gerekir. Bu tarihten sonra yapılacak başvurular üzerine tecil geçerli sayılmaz.

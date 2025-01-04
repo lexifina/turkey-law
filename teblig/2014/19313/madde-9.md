@@ -1,0 +1,5 @@
+Tahakkuk zamanaşımı
+MADDE 9 – (1) Gümrük yükümlülüğünün doğduğu tarihten itibaren üç yıl içinde tahakkuk ettirilmeyen gümrük vergileri, bu süre dolduktan sonra ilgilisinden istenmez. Tahakkuk zamanaşımı süreleri gümrük idarelerince re’sen dikkate alınır.
+(2) Gümrük vergilerinin, ceza gerektiren ve zamanaşımı daha uzun olan bir fiile ilişkin olması ve 5607 sayılı Kanun ve diğer ceza kanunları uyarınca mahkemeye intikal ettirilmiş ve bu fiil nedeniyle ceza davası açılmış olması kaydıyla gelir eksiği, ceza davasının sonuçlanması beklenilmeksizin, ilgili kanunlarda belirlenmiş olan zamanaşımı süreleri içerisinde takip ve tahsil edilir.
+(3) Gümrük yükümlülüğünün doğduğu olayla ilgili olarak dava açılması zamanaşımını durdurur.
+(4) Tebliğ edilen gümrük vergilerine karşı, ilk derece mahkemesinde dava açılması tahsilât takibini durdurur. İlk derece mahkemesince yükümlü aleyhine verilen karara karşı (Değişik ibare:RG-4/1/2025-32772) istinaf veya temyize gidilmesi, yürütmeyi durdurma kararı verilmediği sürece, tahsilâtı durdurmaz.

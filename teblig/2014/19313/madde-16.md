@@ -1,0 +1,4 @@
+Mahal tanımı
+MADDE 16 – (1) 6183 sayılı Kanunun 5 inci maddesi uyarınca takibat, alacaklı amme idaresinin mahalli tahsil dairesince yapılır. Borçlu veya malları başka mahallerde bulunduğu takdirde tahsil dairesi, borçlunun veya mallarının bulunduğu mahalde yapılacak takipleri o mahaldeki aynı neviden amme idaresinin tahsil dairelerine niyabeten yaptırır.
+(2) Büyükşehir belediyesi sınırları içinde bulunan gümrük idareleri için mahal, büyükşehir belediyesi sınırı, illerde bulunan gümrük idareleri için mahal, merkez ilçe sınırları, ilçelerde bulunan gümrük müdürlükleri içinse mahal, ilçe sınırlarıdır.
+(3) Büyükşehir ve ilçe belediye sınırları içinde birden fazla gümrük müdürlüğü olması durumunda bu müdürlüklerin yetki mahalleri, (Değişik ibare:RG-4/1/2025-32772) gümrük ve dış ticaret bölge müdürlükleri tarafından belirlenir.

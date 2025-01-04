@@ -1,0 +1,2 @@
+İndirimli vergi oranının uygulanmasının talep edilmemesi
+MADDE 41 – (1) Tarımsal mali yükler dışında kalan ithalat vergileri oranlarının serbest dolaşıma giriş beyannamesinin tescil tarihinden sonra, fakat eşyaya ilişkin gümrük vergilerinin ödenmesinden veya teminata bağlanmasından önce indirilmesi ve indirimli oranın uygulanmasının beyan sahibi tarafından talep edilmemesi halinde, indirimin talebe bağlı olması ve zorunlu olmaması nedeniyle Gümrük Kanununun 211 inci maddesinin uygulanması mümkün değildir.

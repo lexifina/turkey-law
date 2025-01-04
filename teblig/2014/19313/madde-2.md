@@ -1,0 +1,2 @@
+Dayanak
+MADDE 2 – (1) Bu Tebliğ, 27/10/1999 tarihli ve 4458 sayılı Gümrük Kanunu, 21/7/1953 tarihli ve 6183 sayılı Amme Alacaklarının Tahsil Usulü Hakkında Kanun, 29/9/2009 tarihli ve 2009/15481 sayılı Bakanlar Kurulu Kararı ile yürürlüğe konulan 4458 sayılı Gümrük Kanununun Bazı Maddelerinin Uygulanması Hakkında Karar ile 7/10/2009 tarihli ve mükerrer sayılı Resmî Gazete’de yayımlanan Gümrük Yönetmeliğine dayanılarak hazırlanmıştır.
