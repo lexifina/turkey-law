@@ -1,0 +1,42 @@
+{
+  "source_id": "9.5.15071",
+  "kind": "communique",
+  "register_kind": "Tebliğler",
+  "title": "KOOPERATİFLER VE ÜST KURULUŞLARININ YÖNETİM KURULU ÜYELERİ VE DENETÇİLERİ İLE BUNLARIN EŞ VE HISIMLARININ BAĞDAŞMAYAN GÖREVLERİNE İLİŞKİN TEBLİĞ (TEBLİĞ NO: TGM-2011/01",
+  "number": "15071",
+  "issuer": "Ticaret Bakanı, Çevre, Şehircilik ve İklim Değişikliği Bakanı ve Tarım ve Orman Bakanı",
+  "path": "teblig/2011/15071",
+  "source": "https://www.mevzuat.gov.tr/anasayfa/MevzuatFihristDetayIframe?MevzuatTur=9&MevzuatNo=15071&MevzuatTertip=5",
+  "source_sha256": "03e52d935792964688543cd0dcbd21dd5e60894126ad6e068a73525555081037",
+  "source_bytes": 30043,
+  "published": "2011-06-27",
+  "gazette": "27977",
+  "in_force": "2025-01-04",
+  "in_force_basis": "latest Resmî Gazete date printed in the source amendment notes/table (\"RG-4/1/2025\") for the current consolidated text",
+  "date_evidence": [
+    [
+      "2025-01-04",
+      "RG-4/1/2025",
+      "Resmî Gazete date printed in the source amendment note"
+    ],
+    [
+      "2025-01-04",
+      "4/1/2025",
+      "Resmî Gazete date in the source amendment table"
+    ]
+  ],
+  "commencement_clauses": [
+    "Bu Tebliğ, 12/4/2011 tarihinden itibaren geçerli olmak üzere yayımı tarihinde yürürlüğe girer"
+  ],
+  "history": "current-text",
+  "label": "oldest version available",
+  "checked_on": "2026-11-15",
+  "word_count": 1960,
+  "text_status": "current-consolidated",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  },
+  "completeness": "html-text-complete"
+}

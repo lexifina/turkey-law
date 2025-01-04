@@ -1,0 +1,3 @@
+Denetçilerin araştırma yükümlülüğü
+MADDE 7 – (1) Kooperatif ve üst kuruluşlarının denetçileri, kendi kuruluşlarında, Kanunun 56 ncı maddesinin birinci, 67 nci maddesinin ikinci ve Ek 3 üncü madde hükümleri çerçevesinde, Ek 3 üncü madde hükmüne aykırı uygulamaların olup olmadığını araştırmakla yükümlüdür. Bu araştırma yükümlülüğünü yerine getirmeyen denetçiler, Kanunun Ek 2 nci maddesinin üçüncü fıkrasına göre sorumlu olacaklardır.
+(2) Seçilme veya görevlendirme işlemleri ile sözleşmeleri bu Tebliğe göre hükümsüz olanlara, herhangi bir ad altında ücret, maaş, huzur hakkı gibi bir ödeme yapılmaz ve menfaat temin edilmez.
