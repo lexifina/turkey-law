@@ -1,0 +1,55 @@
+{
+  "source_id": "9.5.38456",
+  "kind": "communique",
+  "register_kind": "Tebliğler",
+  "title": "DOĞRUDAN SATIŞ İŞLEVLİ SOĞUTMA CİHAZLARININ ENERJİ ETİKETLEMESİNE DAİR TEBLİĞ (2019/2018/AB) (SGM:2021/10)",
+  "number": "38456",
+  "issuer": "Sanayi ve Teknoloji Bakanı",
+  "path": "teblig/2021/38456",
+  "source": "https://www.mevzuat.gov.tr/anasayfa/MevzuatFihristDetayIframe?MevzuatTur=9&MevzuatNo=38456&MevzuatTertip=5",
+  "source_sha256": "b01ac6ee375def0742e39ce91d6493530571090e17a2da4e7e56f3b92d38d64f",
+  "source_bytes": 40035,
+  "published": "2021-03-25",
+  "gazette": "31434 Mükerrer",
+  "in_force": "2025-01-05",
+  "in_force_basis": "latest Resmî Gazete date printed in the source amendment notes/table (\"RG-5/1/2025\") for the current consolidated text",
+  "date_evidence": [
+    [
+      "2025-01-05",
+      "RG-5/1/2025",
+      "Resmî Gazete date printed in the source amendment note"
+    ],
+    [
+      "2025-01-05",
+      "5/1/2025",
+      "Resmî Gazete date in the source amendment table"
+    ],
+    [
+      "2022-10-07",
+      "RG-7/10/2022",
+      "Resmî Gazete date printed in the source amendment note"
+    ],
+    [
+      "2022-10-07",
+      "7/10/2022",
+      "Resmî Gazete date in the source amendment table"
+    ]
+  ],
+  "commencement_clauses": [
+    "Bu Tebliğ yayımı tarihinde yürürlüğe girer"
+  ],
+  "history": "current-text",
+  "label": "oldest version available",
+  "checked_on": "2026-11-15",
+  "word_count": 2140,
+  "text_status": "current-consolidated",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  },
+  "source_links": [
+    "9.5.38456-Ek.docx"
+  ],
+  "completeness": "html-text-complete; linked annexes not fetched"
+}

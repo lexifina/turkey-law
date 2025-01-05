@@ -1,0 +1,2 @@
+AB mevzuatına uyum
+MADDE 4 – (1) Bu Tebliğ; Doğrudan Satış İşlevli Soğutma Cihazlarının Enerji Etiketlemesi Bakımından (AB) 2017/1369 sayılı Avrupa Parlamentosu ve Konsey Tüzüğünü Tamamlayan 11/3/2019 tarihli ve (AB) 2019/2018 sayılı Yetki Devrine Dayanan Komisyon Tüzüğü ile bu Tüzükte değişiklik yapan (Değişik ibare:RG-5/1/2025-32773) 17/12/2020 tarihli ve (AB) 2021/340 sayılı ve 4/7/2023 tarihli ve (AB) 2023/2048 sayılı Komisyon Tüzüğü esas alınarak AB mevzuatına uyum çerçevesinde hazırlanmıştır.

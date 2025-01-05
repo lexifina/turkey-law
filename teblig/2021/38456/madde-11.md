@@ -1,0 +1,2 @@
+Danışma kurulu işlemleri
+MADDE 11 – (1) Bakanlık, bu Tebliğ ile ilgili olarak, Avrupa Komisyonu tarafından oluşturulan doğrudan satış işlevli soğutma cihazının, enerji verimliliği sınıflarını, döngüsel ekonomi hedeflerini, bütünleşik ve erişilir (mesafeli) dolaplar arasındaki farkı göz önünde bulundurarak, ürünlerin sınıflandırmasının düzenlenmesi hususlarında çalışmalar yapmak üzere kurulan danışma kurulu toplantılarına katılım sağlar.

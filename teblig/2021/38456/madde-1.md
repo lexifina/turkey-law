@@ -1,0 +1,2 @@
+Amaç
+MADDE 1 – (1) Bu Tebliğin amacı, 1/3/2021 tarihli ve 3584 sayılı Cumhurbaşkanı Kararı ile yürürlüğe konulan Enerji Etiketlemesi Çerçeve Yönetmeliğinin uygulanmasına yönelik olarak, gıda ürünleri dışındaki ürünlerin soğutulması için satılan cihazlar da dâhil olmak üzere, doğrudan satış işlevli elektrik kaynağına bağlı olarak çalışan soğutma cihazlarının etiketleme ve bunlara ait ilave ürün bilgilerine yönelik gereklilikleri belirlemektir.
