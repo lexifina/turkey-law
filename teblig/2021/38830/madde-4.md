@@ -1,0 +1,2 @@
+AB mevzuatına uyum
+MADDE 4 – (1) Bu Tebliğ, (AB) 2017/1369 sayılı Avrupa Parlamentosu ve Konsey Tüzüğünü Tamamlayan ve (AB) 874/2012 sayılı Yetki Devrine Dayanan Komisyon Tüzüğünü Yürürlükten Kaldıran Işık Kaynaklarının Enerji Etiketlemesi Hakkında 11/3/2019 tarihli ve (AB) 2019/2015 sayılı Yetki Devrine Dayanan Komisyon Tüzüğü ile bu Tüzükte değişiklik yapan 23/2/2021 tarihli ve (Değişik ibare:RG-5/1/2025-32773) (AB) 2021/340 sayılı ve 4/7/2023 tarihli ve (AB) 2023/2048 sayılı Komisyon Tüzüğü esas alınarak AB mevzuatına uyum çerçevesinde hazırlanmıştır.
