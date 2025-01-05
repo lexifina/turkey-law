@@ -1,0 +1,8 @@
+Satıcıların yükümlülükleri
+MADDE 6 – (1) Bu Tebliğ kapsamına giren ürünlerin satıcıları;
+a) Bu Tebliğin 5 inci maddesinin birinci fıkrasının (a) bendinde belirtilen piyasaya arz eden tarafından temin edilmiş etiketin satış noktasındaki klimanın dış ön yüzünde veya üstünde ve açıkça görülebilir şekilde bulunmasını sağlamak,
+b) (Değişik:RG-16/12/2015-29564) Klimaların, nihai kullanıcının sergilenen ürünü görmesinin beklenemeyeceği bir şekilde satışa, kiralamaya veya taksitli satışa sunulduğu durumlarda, ürünün tedarikçileri Ek-IV’e ve Ek-VI’ya uygun bilgiyi temin eder. Teklifin internet üzerinden yapıldığı ve 5 inci maddenin dördüncü ve beşinci fıkraları kapsamında elektronik etiket ve ürün bilgi formunun temin edildiği durumlarda Ek-IX’u uygulamak,
+c) Belirli bir modeldeki klimaya yönelik herhangi bir reklamın enerji veya fiyata dair bilgi içerdiği durumda, enerji verimliliği sınıfını da sözkonusu reklamda belirtmek gerekir; birden fazla enerji verimliliği sınıfının sözkonusu olduğu durumda, tedarikçi/üretici en azından “ortalama” mevsim bölgesine ait enerji verimlilik sınıfını beyan etmek,
+ç) Belirli bir modeldeki klimaya yönelik özel teknik parametreleri açıklayan herhangi bir promosyon materyalinde, promosyonu yapılan modelin enerji verimliliği sınıfı ile piyasaya arz eden tarafından temin edilen kullanım talimatlarını da belirtmek ve birden fazla enerji verimliliği sınıfının sözkonusu olduğu durumlarda, tedarikçi/üretici en azından “ortalama” mevsim bölgesine ait enerji verimlilik sınıfını beyan etmek,
+d) Tek kanallı klimaları ambalaj üzerinde, ürüne ait belgelerde ve basılı veya elektronik promosyon ve reklam materyalinde “yerel klima” olarak adlandırmak
+zorundadır.

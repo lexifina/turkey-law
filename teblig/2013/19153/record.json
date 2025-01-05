@@ -1,0 +1,52 @@
+{
+  "source_id": "9.5.19153",
+  "kind": "communique",
+  "register_kind": "Tebliğler",
+  "title": "KLİMALARIN ENERJİ ETİKETLEMESİNE DAİR TEBLİĞ (SGM/2013-11)",
+  "number": "19153",
+  "issuer": "Bilim, Sanayi ve Teknoloji Bakanı",
+  "path": "teblig/2013/19153",
+  "source": "https://www.mevzuat.gov.tr/anasayfa/MevzuatFihristDetayIframe?MevzuatTur=9&MevzuatNo=19153&MevzuatTertip=5",
+  "source_sha256": "3a12824bfa1cc023dd5a6be3218db02a87f7021dd0cc98d310d6a1ef223bf099",
+  "source_bytes": 26618,
+  "published": "2013-12-24",
+  "gazette": "28861",
+  "in_force": "2025-01-05",
+  "in_force_basis": "latest Resmî Gazete date printed in the source amendment notes/table (\"RG-5/1/2025\") for the current consolidated text",
+  "date_evidence": [
+    [
+      "2025-01-05",
+      "RG-5/1/2025",
+      "Resmî Gazete date printed in the source amendment note"
+    ],
+    [
+      "2025-01-05",
+      "5/1/2025",
+      "Resmî Gazete date in the source amendment table"
+    ],
+    [
+      "2015-12-16",
+      "RG-16/12/2015",
+      "Resmî Gazete date printed in the source amendment note"
+    ],
+    [
+      "2015-12-16",
+      "16/12/2015",
+      "Resmî Gazete date in the source amendment table"
+    ]
+  ],
+  "history": "current-text",
+  "label": "oldest version available",
+  "checked_on": "2026-11-15",
+  "word_count": 1415,
+  "text_status": "current-consolidated",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  },
+  "source_links": [
+    "9.5.19153-ek.doc"
+  ],
+  "completeness": "html-text-complete; linked annexes not fetched"
+}

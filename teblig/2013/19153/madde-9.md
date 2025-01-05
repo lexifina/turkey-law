@@ -1,0 +1,9 @@
+Yürürlük
+MADDE 9 – (1) Bu Tebliğin,
+a) Tek kanallı ve çift kanallı klimalar hariç olmak üzere, A, B, C, D, E, F, G enerji verimlilik sınıfına sahip klimalardan; ısıtmalı/soğutmalı olanların Ek-III’ün 1.1 hükmü, sadece soğutma görevi görenlerin Ek-III’ün 2.1 hükmü ve sadece ısıtma görevi görenlerin Ek-III’ün 3.1 hükümleri 1/1/2014 tarihinde,
+b) Tek kanallı ve çift kanallı klimalar hariç olmak üzere, A+, A, B, C, D, E, F enerji verimlilik sınıfına sahip klimalardan; ısıtmalı/soğutmalı olanların Ek-III’ün 1.2 hükmü, sadece soğutma görevi görenlerin Ek-III’ün 2.2 hükmü ve sadece ısıtma görevi görenlerin Ek-III’ün 3.2 hükümleri 1/1/2015 tarihinde,
+c) Tek kanallı ve çift kanallı klimalar hariç olmak üzere, A++, A+, A, B, C, D, E enerji verimlilik sınıfına sahip klimalardan; ısıtmalı/soğutmalı olanların Ek-III’ün 1.3 hükmü, sadece soğutma görevi görenlerin Ek-III’ün 2.3 hükmü ve sadece ısıtma görevi görenlerin Ek-III’ün 3.3 hükümleri 1/1/2017 tarihinde,
+ç) Tek kanallı ve çift kanallı klimalar hariç olmak üzere, A+++, A++, A+, A, B, C, D enerji verimlilik sınıfına sahip klimalardan; ısıtmalı/soğutmalı olanların Ek-III’ün 1.4 hükmü, sadece soğutma görevi görenlerin Ek-III’ün 2.4 hükmü ve sadece ısıtma görevi görenlerin Ek-III’ün 3.4 hükümleri 1/1/2019 tarihinde,
+d) A+++, A++, A+, A, B, C, D enerji verimlilik sınıfına sahip çift kanallı klimalar için, ısıtmalı/soğutmalı olanların Ek-III’ün 4.1 hükmü, sadece soğutma görevi görenlerin Ek-III’ün 4.3 hükmü ve sadece ısıtma görevi görenlerin Ek-III’ün 4.5 hükümleri 1/1/2014 tarihinde,
+e) A+++, A++, A+, A, B, C, D enerji verimlilik sınıfına sahip tek kanallı klimalar için, ısıtmalı/soğutmalı olanların Ek-III’ün 5.1 hükmü, sadece soğutma görevi görenlerin Ek-III’ün 5.3 hükmü ve sadece ısıtma görevi görenlerin Ek-III’ün 5.5 hükümleri 1/1/2014 tarihinde,
+f) Diğer hükümleri yayımı tarihinde yürürlüğe girer.

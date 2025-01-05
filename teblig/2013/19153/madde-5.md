@@ -1,0 +1,14 @@
+Ürünü piyasaya arz edenlerin yükümlülükleri
+MADDE 5 – (1) Bu Tebliğ kapsamı ürünleri piyasaya arz edenler;
+a) Her bir klimada Ek-II’de belirtilen enerji verimliliği sınıfına ve Ek-III’te belirtilen şekil ve içeriğe uygun basılı etiket bulunmasını sağlamak ve tek ve çift kanallı klimalar haricindekiler için kapasite oranı “1” olan iç ve dış ünitelerinin en az bir kombinasyonunda en azından dış ünitenin ambalajının içinde basılı bir etiket temin etmek ve diğer kombinasyonlar açısından bilgilerin bu hükümde bahsedilen şekilde veya alternatif olarak ücretsiz giriş yapılabilen bir internet sayfasında yer almasını sağlamak,
+b) Ek-IV’te belirtilen ürün bilgi formunu bulundurmak ve tek ve çift kanallı klimalar haricindekiler için kapasite oranı “1” olan iç ve dış ünite birimlerinin en az bir kombinasyonunda en azından dış ünitenin ambalajının içinde ürün bilgi formunu temin etmek ve diğer kombinasyonlar açısından bilgilerin bu hükümde bahsedilen şekilde veya alternatif olarak ücretsiz giriş yapılabilen bir internet sayfasında yer almasını sağlamak,
+c) Talep halinde, Ek-V’te belirtilen teknik dosyayı elektronik ortamda Bakanlığa ve Avrupa Komisyonuna sunmak,
+ç) Belirli bir modeldeki klimaya ilişkin reklamın enerji veya fiyata dair bilgi içermesi halinde, enerji verimliliği sınıfının da reklamda belirtilmesi gerekir. Birden fazla enerji sınıfı varsa, en azından “ortalama” ısıtma mevsimindeki ısıtma açısından enerji verimliliği sınıfını beyan etmek ve nihai kullanıcının ürünü görmesinin mümkün olmadığı hallerde temin edilecek bilgi açısından Ek-VI’da belirtilenlere uymak,
+d) Belirli bir modeldeki klimaya yönelik özel teknik parametreleri açıklayan herhangi bir promosyon materyalinde, promosyonu yapılan modelin Ek-II’de yer alan enerji verimliliği sınıfını da belirtmek ve birden fazla enerji verimliliği sınıfının sözkonusu olduğu durumlarda, en azından “ortalama” mevsimdeki enerji verimliliği sınıfını beyan etmek,
+e) Kullanım talimatlarını temin etmek,
+f) Tek kanallı klimaları ambalaj üzerinde, ürüne ait belgelerde ve basılı veya elektronik promosyon ve reklam materyalinde “yerel klima” olarak adlandırmak,
+zorundadırlar.
+(2) Enerji verimliliği sınıfı Ek-VII’ye uygun şekilde belirlenir.
+(3) Tek ve çift kanallı klimalar haricindeki klimaların etiket şekli Ek-III’e uygun şekilde düzenlenir.
+(4) (Ek:RG-16/12/2015-29564) 1/1/2016 tarihinden itibaren yeni bir model tanımlayıcısı ile piyasaya arz edilecek olan her klima modeli için satıcılara Ek-III’te belirtilen şekil ve içeriğe uygun bir elektronik etiket temin edilir. Bu etiket, diğer klima modelleri için de satıcılara temin edilebilir.
+(5) (Ek:RG-16/12/2015-29564) 1/1/2016 tarihinden itibaren piyasaya arz edilecek olan her klima modeli için satıcılara Ek-IV’te belirtilen şekil ve içeriğe uygun bir elektronik ürün bilgi formu temin edilir. Bu form, diğer klima modelleri için de satıcılara temin edilebilir.
