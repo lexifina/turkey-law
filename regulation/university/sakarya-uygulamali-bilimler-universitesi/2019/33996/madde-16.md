@@ -1,0 +1,2 @@
+Sınav sonucuna itiraz
+MADDE 16 – (1) Öğrenci, sınav sonuçlarının ilanından itibaren 5 iş günü içinde ilgili birime yazılı olarak başvurarak, sınavlarının değerlendirilmesinde hata yapılıp yapılmadığına dair inceleme isteyebilir. Başvuru üzerine, yapılacak inceleme sonucunda hata tespit edilirse, ilgili ders sorumlusunun da görüşü alınarak, gerekli düzeltme yapılır. Bu sürenin bitiminden sonra hiçbir not değişikliği talebi işleme alınmaz.
