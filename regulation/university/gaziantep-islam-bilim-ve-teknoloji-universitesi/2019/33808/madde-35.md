@@ -1,0 +1,2 @@
+Genel not ortalamasının yükseltilmesi
+MADDE 35 – (1) Genel not ortalamasını (GNO) yükseltmek isteyen öğrenciler daha önce aldıkları ve başarılı oldukları dersleri o derslerin verildiği yarıyılda tekrarlayabilirler. Ancak, bu durumda öğrencilerin derse kayıt yaptırmaları şarttır. Başarılı dersin tekrarında devam şartı aranmaz, ara sınavlarına katılmak ise zorunludur. Tekrarlanan derste önceki not ne olursa olsun alınan en son not geçerlidir. Başarısızlık halinde ilgili dersi döneminde tekrarlamak zorunda kalırlar.

@@ -1,0 +1,3 @@
+Sınav sonuçlarına itiraz
+MADDE 30 – (1) Bir sınavın ya da yarıyıl/yıl içi çalışmasının sonucuna ilan tarihinden itibaren en geç beş iş günü içinde ve sadece maddi hata yönünden itiraz edilebilir. İtiraz, ilgili dekanlık/müdürlüğe verilen bir dilekçe ile yapılır. Dekanlık/müdürlük gözetiminde sınav kâğıtlarında, sınav cetvellerinde veya ilgili çalışma evrakında bir maddi hata tespit edilirse; bu hata, ilgili öğretim elemanının görüşü de alındıktan sonra birim yönetim kurulu kararı ile düzeltilir ve ilan edilir.
+(2) Öğrenciler öğretim elemanının not değerlendirmesiyle ilgili itirazda bulunamazlar.

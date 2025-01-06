@@ -1,0 +1,6 @@
+Sınavların değerlendirilmesi
+MADDE 29 – (1) Öğrencinin bir dersteki başarı durumu ders başarı notu ile belirlenir. Bir dersin başarı notu, öğrencinin o derse ait yarıyıl/yıl içinde yapılan ara sınavlar ve yarıyıl sonu veya yıl sonunda yapılan sınavda aldığı notlar birlikte değerlendirilerek elde edilir. Bu nota ara sınav notlarının katkısı %40 ve yarıyıl/yıl sonu sınavı notunun katkısı %60’tır. Ancak yarıyıl/yıl sonu sınavlarından en az 50 puan almak zorunludur.
+(2) Ara sınav not ortalamasının %40’ı ile yarıyıl/yıl sonu sınav notunun %60’ı hesaplanırken ortaya çıkan kesirler aynen korunur. %40 ve %60’ların toplamında 0.5 ve daha yukarı olan kesirler bir üst nota tamamlanır.
+(3) Bütünleme sınavları yarıyıl/yıl sonu sınavları gibi değerlendirilir.
+(4) Sınavların değerlendirilmesinde ve/veya başarı notunun yükseltilmesinde ilgili birim kurullarının önerisi ve Senatonun onayı ile yeni düzenlemeler yapılabilir. Ancak, Tıp Fakültesi ve Diş Hekimliği hariç, yarıyıl/yıl sonu sınavından alınan notun başarı notuna katkısı %60’tan az olamaz. Tıp Fakültesi ve Diş Hekimliğinde sınavların değerlendirilmesi, Senato tarafından belirlenen esaslara göre yürütülür.
+(5) Sınavların değerlendirilmesi mutlak değerlendirme ile yapılabilir. Mutlak değerlendirmede bu Yönetmelik hükümleri esas alınır.

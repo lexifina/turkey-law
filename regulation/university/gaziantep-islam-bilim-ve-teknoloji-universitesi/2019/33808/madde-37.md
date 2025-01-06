@@ -1,0 +1,3 @@
+Yatay ve dikey geçiş yoluyla gelen öğrenciler
+MADDE 37 – (1) Dikey geçiş yoluyla gelen öğrencilere yönelik Meslek Yüksekokulları ve Açıköğretim Ön Lisans Programları Mezunlarının Lisans Öğrenimine Devamları Hakkında Yönetmelik hükümleri uygulanır.
+(2) Yatay geçiş yoluyla gelen öğrencilere yönelik Üniversitenin Önlisans ve Lisans Düzeyindeki Programlar Arasında Yatay Geçiş Esaslarına İlişkin Yönerge ile Yükseköğretim Kurumlarında Önlisans ve Lisans Düzeyindeki Programlar Arasında Geçiş, Çift Anadal, Yan Dal ile Kurumlar Arası Kredi Transferi Yapılması Esaslarına İlişkin Yönetmelik hükümleri uygulanır.

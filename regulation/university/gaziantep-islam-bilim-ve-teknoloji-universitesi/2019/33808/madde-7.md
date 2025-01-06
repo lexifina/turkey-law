@@ -1,0 +1,2 @@
+Ders ekleme ve bırakma
+MADDE 7 – (1) Öğrenciler, her yarıyıl/yıl başından itibaren en geç bir hafta içinde, almak zorunda oldukları dersler dışında, kayıt yaptırdıkları derslerde danışmanın onayını alarak, istedikleri ders değişikliklerini yapabilirler. Ders değişikliği formu danışman ve öğrenci tarafından imzalanarak dekanlık/müdürlüğe bildirilir. Ancak, ders değişikliği nedeniyle öğrencinin derse girmediği günler devamsızlıktan sayılır.
