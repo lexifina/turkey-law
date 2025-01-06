@@ -1,0 +1,22 @@
+{
+  "number": "14",
+  "number_as_published": "2025/14",
+  "year": 2025,
+  "title": "Denetim Komisyonu Üye seçimi",
+  "decision_date": "2025-01-06",
+  "source": "https://eyupsultan.bel.tr/tr/main/pages/2025-ocak-ayi-meclis-kararlari/2658",
+  "official_document": "https://eyupsultan.bel.tr/tr/main/pages/2025-14/2668",
+  "source_sha256": "b5a43bfa147cb9c2a65570921230e62189366b493a58815c64f4242fac99687f",
+  "issuer": "Eyüpsultan Belediye Meclisi",
+  "history_type": "metadata",
+  "text_status": "metadata-only: listing fields as published; complete decision text is in the linked official document, not transcribed",
+  "in_force": "2025-01-06",
+  "in_force_basis": "Decision date as printed in the official council listing: 06.01.2025 (meeting date at the start of the decision page); adoption date of the council decision; legal commencement not asserted",
+  "missing": [
+    "complete official decision text",
+    "official annexes"
+  ],
+  "law_text_complete": false,
+  "privacy_withheld": false,
+  "decision_page_sha256": "65fab426e00d4a820238109bc1c5ae9f1b48b8d142fa2360ca106b3d21feadd0"
+}
