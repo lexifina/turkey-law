@@ -1,0 +1,28 @@
+{
+  "number": "meeting-01-06-16",
+  "number_as_published": "Meclis Kararı 06.01.2025",
+  "year": 2025,
+  "title": "Meclis Kararı 06.01.2025",
+  "decision_date": "2025-01-06",
+  "source": "https://www.tuzla.bel.tr/api/public/kurumsal/meclis-encumen/meclis-kararlari?page=3&limit=100",
+  "official_document": "https://www.tuzla.bel.tr/uploads/documents/meclis-kararlari/06-01-2025-16.pdf",
+  "source_sha256": "909e293879166c764ef0ff002c6d678f6eb7096d006e66bfd17e0d92e98dd15c",
+  "issuer": "Tuzla Belediye Meclisi",
+  "history_type": "metadata",
+  "text_status": "metadata-only: listing fields as published; complete decision text is in the linked official document, not transcribed",
+  "in_force": "2025-01-06",
+  "in_force_basis": "Decision date as printed in the official council listing: Meclis Kararı 06.01.2025 (official title); adoption date of the council decision; legal commencement not asserted",
+  "missing": [
+    "complete official decision text",
+    "official annexes"
+  ],
+  "law_text_complete": false,
+  "privacy_withheld": false,
+  "listing_page": "https://www.tuzla.bel.tr/kurumsal/meclis-encumen/meclis-kararlari",
+  "official_documents": [
+    "https://www.tuzla.bel.tr/uploads/documents/meclis-kararlari/06-01-2025-16.pdf"
+  ],
+  "document_filename": "06-01-2025-16.pdf",
+  "record_scope": "one decision PDF of the council meeting; the official list gives no decision number (sequence from the official page address)",
+  "official_page": "https://www.tuzla.bel.tr/kurumsal/meclis-encumen/meclis-kararlari/06-01-2025-16"
+}
