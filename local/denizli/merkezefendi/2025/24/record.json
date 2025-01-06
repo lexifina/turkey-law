@@ -1,0 +1,23 @@
+{
+  "number": "24",
+  "number_as_published": "24",
+  "year": 2025,
+  "title": "council decision",
+  "decision_date": "2025-01-06",
+  "source": "https://www.merkezefendi.bel.tr/meclis-karar.aspx?karar=2025-1-13--OCAK-AYI-MECLIS-KARAR-OZETLERI-MCL52",
+  "official_document": null,
+  "source_sha256": "1c52bc8662468e89913f73009977b965cb7de6c1466d4edfd8abb65f4986c970",
+  "issuer": "Merkezefendi Belediye Meclisi",
+  "history_type": "metadata",
+  "text_status": "metadata-only: subject appears to concern individual persons; official link only",
+  "in_force": "2025-01-06",
+  "in_force_basis": "Decision date as printed in the official council listing: 6.01.2025; adoption date of the council decision; legal commencement not asserted",
+  "missing": [
+    "complete official decision text",
+    "official annexes"
+  ],
+  "law_text_complete": false,
+  "privacy_withheld": true,
+  "official_page": "https://www.merkezefendi.bel.tr/meclis-karar.aspx?karar=2025-1-13--OCAK-AYI-MECLIS-KARAR-OZETLERI-MCL52",
+  "record_scope": "one council decision (published decision summary)"
+}
