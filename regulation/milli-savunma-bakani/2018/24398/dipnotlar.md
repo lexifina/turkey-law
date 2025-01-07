@@ -1,0 +1,2 @@
+[1] 7/1/2025 tarihli ve 32775 sayılı Resmî Gazete’de yayımlanan değişiklik ile Yönetmeliğin 10 uncu maddesinin birinci fıkrasına (d) bendinden sonra gelmek üzere (e) bendi eklenmiş ve diğer bentler buna göre teselsül ettirilmiştir.
+[2] 7/1/2025 tarihli ve 32775 sayılı Resmî Gazete’de yayımlanan değişiklik ile Yönetmeliğin 18 inci maddesine ikinci fıkrasından sonra gelmek üzere fıkralar eklenmiş, diğer fıkralar buna göre teselsül ettirilmiştir.
