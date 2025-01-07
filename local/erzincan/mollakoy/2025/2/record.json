@@ -1,0 +1,26 @@
+{
+  "number": "2",
+  "number_as_published": "02",
+  "year": 2025,
+  "title": "235 ada ,3/6/7/8 ve 15 parsel numaralı taşınmazlardaki imar plan değişikliği hk.",
+  "decision_date": "2025-01-07",
+  "source": "https://www.mollakoy.bel.tr/meclis-kararlari/sayfa/4/",
+  "official_document": "https://www.mollakoy.bel.tr/karar/235-ada-3678-ve-15-parsel-numarali-tasinmazlardaki-imar-plan-degisikligi-hk/83/",
+  "source_sha256": "68a91d8e8bed6c730574f5b2839fa7708aab50eba3835ad130f7fe087d1d598e",
+  "issuer": "Mollaköy Belediye Meclisi",
+  "history_type": "metadata",
+  "text_status": "metadata-only: listing fields as published; complete decision text is in the linked official document, not transcribed",
+  "in_force": "2025-01-07",
+  "in_force_basis": "Decision date as printed in the official council listing: 07 Ocak 2025 00:00; adoption date of the council decision; legal commencement not asserted",
+  "missing": [
+    "complete official decision text",
+    "official annexes"
+  ],
+  "law_text_complete": false,
+  "privacy_withheld": false,
+  "official_page": "https://www.mollakoy.bel.tr/karar/235-ada-3678-ve-15-parsel-numarali-tasinmazlardaki-imar-plan-degisikligi-hk/83/",
+  "listing_label": "235 ada ,3/6/7/8 ve 15 parsel numaralı taşınmazlardaki imar plan değişikliği hk.",
+  "record_scope": "one council decision (number, date, subject as published)",
+  "date_read_from": "Karar Tarihi printed on the item page",
+  "document_note": "the decision text is on the official item page; not transcribed here"
+}
