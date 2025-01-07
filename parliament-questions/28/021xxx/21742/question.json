@@ -1,0 +1,21 @@
+{
+  "record_type": "parliament-written-question",
+  "term": 28,
+  "legislative_year": 3,
+  "esas_no": "7/21742",
+  "submitted": "2025-01-07",
+  "submitted_as": "Başkanlığa geliş tarihi",
+  "mp": "Sinan ÇİFTYÜREK",
+  "province": "Van",
+  "summary": "Suriye ile diplomatik ilişkilere ilişkin",
+  "status": "Süresi Geçtikten Sonra Cevaplandı",
+  "status_as_of": "2026-11-16",
+  "official_record": "https://www.tbmm.gov.tr/Denetim/Yazili-Soru-Onergesi-Detay/3ee21bce-ddfa-4c2a-bfbd-019445b0f89b",
+  "source": "https://tbmm.gov.tr/Denetim/YaziliSoruOnergesiTable",
+  "source_form": "https://tbmm.gov.tr/Denetim/Yazili-Soru-Onergeleri",
+  "source_sha256": "9ddee2ab4042c8a82b0cc309d7b18e804dcb53703a2d474340b6c03fe4ec31c4",
+  "in_force": "2025-01-07",
+  "in_force_basis": "Date the question reached the Speaker (Başkanlığa geliş tarihi) in the official TBMM written-question record; parliamentary oversight record, not law",
+  "history_type": "metadata",
+  "text_status": "metadata-only: question text, addressee and answers are in the linked official record (PDFs on cdn.tbmm.gov.tr); not transcribed here"
+}
