@@ -1,0 +1,16 @@
+{
+  "kind": "decision",
+  "issuer": "Sayıştay Temyiz Kurulu",
+  "number": "57625",
+  "decision_date": "2025-01-08",
+  "source_id": 32194,
+  "chamber": "2",
+  "file_number": "54365",
+  "public_body_type": "Belediyeler ve Bağlı İdareler",
+  "account_year": "2018",
+  "subject": "Personel Mevzuatı ile İlgili Kararlar",
+  "source": "https://www.sayistay.gov.tr/KararlarTemyiz/Detay/32194/",
+  "source_sha256": "d066605448158b108e219e354454eb8fed152231144062aecf6d8a83d2218d11",
+  "text_status": "as-enacted",
+  "text_file": "metin.md"
+}
