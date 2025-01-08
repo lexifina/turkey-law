@@ -1,0 +1,21 @@
+{
+  "record_type": "parliament-written-question",
+  "term": 28,
+  "legislative_year": 3,
+  "esas_no": "7/21690",
+  "submitted": "2025-01-08",
+  "submitted_as": "Başkanlığa geliş tarihi",
+  "mp": "Rıdvan UZ",
+  "province": "Çanakkale",
+  "summary": "2024 yılında gerçekleştirilen bitki koruma ürünleri bayilik ve toptancılık sınavına ilişkin",
+  "status": "Süresi Geçtikten Sonra Cevaplandı",
+  "status_as_of": "2026-11-16",
+  "official_record": "https://www.tbmm.gov.tr/Denetim/Yazili-Soru-Onergesi-Detay/e872ea9a-b83d-4448-86b4-019449f965bd",
+  "source": "https://tbmm.gov.tr/Denetim/YaziliSoruOnergesiTable",
+  "source_form": "https://tbmm.gov.tr/Denetim/Yazili-Soru-Onergeleri",
+  "source_sha256": "32acc17b5a235082a7f868639f08f38aad28295ff4cac228f545062ab9e3d3be",
+  "in_force": "2025-01-08",
+  "in_force_basis": "Date the question reached the Speaker (Başkanlığa geliş tarihi) in the official TBMM written-question record; parliamentary oversight record, not law",
+  "history_type": "metadata",
+  "text_status": "metadata-only: question text, addressee and answers are in the linked official record (PDFs on cdn.tbmm.gov.tr); not transcribed here"
+}
