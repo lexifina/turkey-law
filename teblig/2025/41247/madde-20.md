@@ -1,0 +1,3 @@
+Belge ve kayıt devri
+MADDE 20- (1) Faaliyetine son verilen veya kendi isteği ile faaliyetine son veren kuruluş, otuz iş günü içerisinde uygunluk değerlendirme işlemleri ile ilgili kayıt ve belgeleri, aynı konuda faaliyette bulunan başka bir kuruluşa eksiksiz bir şekilde devrettiğine dair devir teslim tutanağını, ONTEK üzerinden Bakanlığa iletir.
+(2) Başka kuruluşa devredilemeyen belge ve kayıtlar; gerektiğinde Bakanlığa sunulmak üzere teknik düzenlemede belirtilen süre kadar, süre belirtilmediği durumlarda ise düzenlendiği tarihten itibaren en az on yıl süreyle kuruluş tarafından muhafaza edilir.

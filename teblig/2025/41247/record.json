@@ -1,0 +1,37 @@
+{
+  "checked_on": "2026-11-15",
+  "commencement_quote": "Bu Tebliğ yayımı tarihinde yürürlüğe girer",
+  "date_gazette": "32776",
+  "date_quote": "Bu Tebliğ yayımı tarihinde yürürlüğe girer",
+  "first_law": null,
+  "gazette": "32776",
+  "history": "current-text",
+  "images": {
+    "deferred": 0,
+    "omitted": 0,
+    "referenced": 0,
+    "source": 0
+  },
+  "in_force": "2025-01-08",
+  "in_force_basis": "Own commencement clause: Bu Tebliğ yayımı tarihinde yürürlüğe girer",
+  "issuer": "Sanayi ve Teknoloji Bakanlığı",
+  "issuer_catalog_evidence": [
+    {
+      "evidence": "issuer-628-0.json",
+      "id": "628",
+      "label": "Sanayi ve Teknoloji Bakanlığı",
+      "listing_url": "https://www.mevzuat.gov.tr/Anasayfa/MevzuatDatatable?MevzuatTur=Teblig&KurumId=628&start=0&length=100"
+    }
+  ],
+  "issuer_slug": "sanayi-ve-teknoloji-bakanligi",
+  "kind": "communique",
+  "label": "oldest version available",
+  "notes": [],
+  "published": "2025-01-08",
+  "source": "https://www.mevzuat.gov.tr/anasayfa/MevzuatFihristDetayIframe?MevzuatTur=9&MevzuatNo=41247&MevzuatTertip=5",
+  "source_bytes": 71253,
+  "source_id": "9.5.41247",
+  "source_sha256": "23f6653a03c582ca274ca663f6dc669a705c623ba9db0857878b930820b9c84b",
+  "title": "ONAYLANMIŞ KURULUŞLAR VE TEKNİK SERVİSLER TEBLİĞİ (SGM: 2024/12)",
+  "word_count": 3122
+}
