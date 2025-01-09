@@ -1,0 +1,21 @@
+{
+  "record_type": "parliament-written-question",
+  "term": 28,
+  "legislative_year": 3,
+  "esas_no": "7/21826",
+  "submitted": "2025-01-09",
+  "submitted_as": "Başkanlığa geliş tarihi",
+  "mp": "Selçuk ÖZDAĞ",
+  "province": "Muğla",
+  "summary": "Cumhurbaşkanlığına bağlı saray ve köşklerin yıllık bakım masraflarına ilişkin",
+  "status": "Süresi Geçtikten Sonra Cevaplandı",
+  "status_as_of": "2026-11-16",
+  "official_record": "https://www.tbmm.gov.tr/Denetim/Yazili-Soru-Onergesi-Detay/961776cf-9ff5-4076-a172-01944f2e5dea",
+  "source": "https://tbmm.gov.tr/Denetim/YaziliSoruOnergesiTable",
+  "source_form": "https://tbmm.gov.tr/Denetim/Yazili-Soru-Onergeleri",
+  "source_sha256": "dda38b2ff837463a43db32fed5fbd4d4a3d262b300e10a0ee0eb906f564a84c4",
+  "in_force": "2025-01-09",
+  "in_force_basis": "Date the question reached the Speaker (Başkanlığa geliş tarihi) in the official TBMM written-question record; parliamentary oversight record, not law",
+  "history_type": "metadata",
+  "text_status": "metadata-only: question text, addressee and answers are in the linked official record (PDFs on cdn.tbmm.gov.tr); not transcribed here"
+}
