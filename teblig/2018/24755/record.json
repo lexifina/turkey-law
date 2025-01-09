@@ -1,0 +1,50 @@
+{
+  "source_id": "9.5.24755",
+  "kind": "communique",
+  "register_kind": "Tebliğler",
+  "title": "ŞİLİ CUMHURİYETİ MENŞELİ BAZI TARIM VE İŞLENMİŞ TARIM ÜRÜNLERİ İTHALATINDA TARİFE KONTENJANI UYGULANMASINA İLİŞKİN TEBLİĞ",
+  "number": "24755",
+  "issuer": "Ekonomi Bakanı",
+  "path": "teblig/2018/24755",
+  "source": "https://www.mevzuat.gov.tr/anasayfa/MevzuatFihristDetayIframe?MevzuatTur=9&MevzuatNo=24755&MevzuatTertip=5",
+  "source_sha256": "8b5df94a37675a6c755a87be2a004d216772042e8385aca1230d469bf495fd37",
+  "source_bytes": 41189,
+  "published": "2018-07-07",
+  "gazette": "30471 Mükerrer",
+  "in_force": "2025-01-09",
+  "in_force_basis": "latest Resmî Gazete date printed in the source amendment notes/table (\"RG-9/1/2025\") for the current consolidated text",
+  "date_evidence": [
+    [
+      "2025-01-09",
+      "RG-9/1/2025",
+      "Resmî Gazete date printed in the source amendment note"
+    ],
+    [
+      "2025-01-09",
+      "9/1/2025",
+      "Resmî Gazete date in the source amendment table"
+    ],
+    [
+      "2021-12-23",
+      "RG-23/12/2021",
+      "Resmî Gazete date printed in the source amendment note"
+    ]
+  ],
+  "commencement_clauses": [
+    "Bu Tebliğ yayımı tarihinde yürürlüğe girer"
+  ],
+  "history": "current-text",
+  "label": "oldest version available",
+  "checked_on": "2026-11-15",
+  "word_count": 2051,
+  "text_status": "current-consolidated",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  },
+  "source_links": [
+    "9.5.24755-Ek.doc"
+  ],
+  "completeness": "html-text-complete; linked annexes not fetched"
+}
