@@ -1,0 +1,55 @@
+{
+  "source_id": "9.5.24747",
+  "kind": "communique",
+  "register_kind": "Tebliğler",
+  "title": "İRAN İSLAM CUMHURİYETİ MENŞELİ BAZI TARIM ÜRÜNLERİ İTHALATINDA TARİFE KONTENJANI UYGULANMASINA İLİŞKİN TEBLİĞ",
+  "number": "24747",
+  "issuer": "Ekonomi Bakanı",
+  "path": "teblig/2018/24747",
+  "source": "https://www.mevzuat.gov.tr/anasayfa/MevzuatFihristDetayIframe?MevzuatTur=9&MevzuatNo=24747&MevzuatTertip=5",
+  "source_sha256": "29fc2260e9310ab44dcc39e3135f0dcca952e02866d6ede8deedb51bad42b519",
+  "source_bytes": 41353,
+  "published": "2018-07-07",
+  "gazette": "30471 Mükerrer",
+  "in_force": "2025-01-09",
+  "in_force_basis": "latest Resmî Gazete date printed in the source amendment notes/table (\"RG-9/1/2025\") for the current consolidated text",
+  "date_evidence": [
+    [
+      "2025-01-09",
+      "RG-9/1/2025",
+      "Resmî Gazete date printed in the source amendment note"
+    ],
+    [
+      "2025-01-09",
+      "9/1/2025",
+      "Resmî Gazete date in the source amendment table"
+    ],
+    [
+      "2021-12-23",
+      "RG-23/12/2021",
+      "Resmî Gazete date printed in the source amendment note"
+    ],
+    [
+      "2021-12-23",
+      "23/12/2021",
+      "Resmî Gazete date in the source amendment table"
+    ]
+  ],
+  "commencement_clauses": [
+    "Bu Tebliğ yayımı tarihinde yürürlüğe girer"
+  ],
+  "history": "current-text",
+  "label": "oldest version available",
+  "checked_on": "2026-11-15",
+  "word_count": 2049,
+  "text_status": "current-consolidated",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  },
+  "source_links": [
+    "9.5.24747-Ek.doc"
+  ],
+  "completeness": "html-text-complete; linked annexes not fetched"
+}
