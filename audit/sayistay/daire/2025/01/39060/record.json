@@ -1,0 +1,17 @@
+{
+  "kind": "decision",
+  "issuer": "Sayıştay 7. Dairesi",
+  "number": "639",
+  "decision_date": "2025-01-09",
+  "source_id": 39060,
+  "chamber": "7",
+  "ilam_number": "37",
+  "item_number": 4,
+  "public_body_type": "Belediyeler ve Bağlı İdareler",
+  "account_year": 2023,
+  "subject": "İhale Mevzuatı ile İlgili Kararlar",
+  "source": "https://www.sayistay.gov.tr/KararlarDaire/Detay/39060/",
+  "source_sha256": "cf23b7411870c8b6633f22f2ceb64141e9efcb5ef36203f78c9ca1f7c7ce8353",
+  "text_status": "as-enacted",
+  "text_file": "metin.md"
+}
