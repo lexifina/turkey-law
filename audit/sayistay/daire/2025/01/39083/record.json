@@ -1,0 +1,17 @@
+{
+  "kind": "decision",
+  "issuer": "Sayıştay 7. Dairesi",
+  "number": "637",
+  "decision_date": "2025-01-09",
+  "source_id": 39083,
+  "chamber": "7",
+  "ilam_number": "244",
+  "item_number": 1,
+  "public_body_type": "Belediyeler ve Bağlı İdareler",
+  "account_year": 2019,
+  "subject": "Sorumluluk ve Yargılama Usulleri ile İlgili Kararlar",
+  "source": "https://www.sayistay.gov.tr/KararlarDaire/Detay/39083/",
+  "source_sha256": "cf06fe5ec82d3da30fcc1dba48750806cf7b42b72d1b97ff5d29bb97ebe69df7",
+  "text_status": "metadata-only",
+  "metadata_only_reason": "possible personal name in the official text"
+}
