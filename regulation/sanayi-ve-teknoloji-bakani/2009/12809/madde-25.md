@@ -1,0 +1,3 @@
+Rapor verme
+MADDE 25 – (1) Yurt dışına eğitime gönderilen personel, bu sürenin sonunda göreve başlama tarihinden itibaren 2 ay içerisinde lisansüstü öğrenimine ait tezini veya raporunu, staj veya ihtisasa ilişkin raporunu ve bunlara ait diploma, sertifika ve diğer belgeleri tercümeleri ile birlikte Birimine, bir örneğini de göreve başladığı tarihi takip eden 3 ay içerisinde (Değişik ibare:RG-10/1/2025-32778) ilgili kuruma gönderilmek üzere (Değişik ibare:RG-10/1/2025-32778) Genel Müdürlüğe vermek zorundadır.
+(2) Ayrıca, yurt dışına gönderilen memurun yurtdışında almış olduğu eğitime ait konular (Değişik ibare:RG-10/1/2025-32778) Genel Müdürlükçe belirlenecek bir program dâhilinde Bakanlık elemanlarına sunulur.

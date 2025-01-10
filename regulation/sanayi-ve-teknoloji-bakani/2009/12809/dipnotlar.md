@@ -1,0 +1,1 @@
+[1] 10/1/2025 tarihli ve 32778 sayılı Resmî Gazete’de yayımlanan değişiklik ile Yönetmeliğin adı “Sanayi ve Ticaret Bakanlığı Personelinin Yetiştirilmek Amacıyla Yurtdışına Gönderilmeleri Hakkında Yönetmelik” iken metne işlendiği şekilde değiştirilmiştir.
