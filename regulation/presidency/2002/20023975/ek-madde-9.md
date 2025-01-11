@@ -1,0 +1,2 @@
+Ek Madde 9- (Ek:RG-4/10/2019-30908-C.K.-1617/1 md.)
+Türkiye Adalet Akademisinin koruma ve güvenlik görevlisi kadrolarına, KPSS (B) grubu puan sırası dikkate alınarak, açıktan atama yapılacak kadro sayısının üç katına kadar belirlenecek adaylar arasından, yapılacak sözlü ve/veya uygulamalı sınavdaki başarı sırasına göre, 10/7/2003 tarihli ve 25164 sayılı Resmî Gazete’de yayımlanan Adalet Bakanlığı Memur Sınav, Atama ve Nakil Yönetmeliği hükümleri kıyasen uygulanmak suretiyle, Akademi tarafından atama yapılır.

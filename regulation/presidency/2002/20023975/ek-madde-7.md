@@ -1,0 +1,2 @@
+Ek Madde 7- (Ek: 27/5/2013-2013/4881 K.; Değişik: 1/8/2014-2014/6719 K.)
+Orman muhafaza memuru kadrolarına, ilgili mevzuatında sınav, başvuru, komisyon teşekkülü ve sınava ilişkin diğer hususlarda düzenleme yapılmak kaydıyla, KPSS (B) grubu puan sırası dikkate alınarak açıktan atama yapılacak kadro sayısının dört katına kadar belirlenecek adaylar arasından yapılacak uygulama sınavı başarı sırasına göre Orman Genel Müdürlüğünce atama yapılır.

@@ -1,0 +1,1 @@
+Ek Madde 6- (Ek: 10/9/2012-2012/3688 K.) (Danıştay Onikinci Dairesinin 8/2/2018 tarihli ve E.: 2016/9090 K.: 2018/528 sayılı kararı ile iptal madde; Danıştay İDDK’nın 21/11/2019 tarihli ve E.:2018/4657 K.: 2019/5812 sayılı Onama kararı ile mezkûr karar kesinleşmiştir.)

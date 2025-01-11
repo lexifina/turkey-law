@@ -1,0 +1,6 @@
+Yerleştirme
+Madde 23- (Değişik birinci cümle: 11/12/2006-2006/11473 K.) (Danıştay Onikinci Dairesinin 24/3/2010 tarihli ve E: 2007/256, K.: 2010/1679 sayılı Kararı ile iptal birinci cümle; Danıştay İDDK’nın 6/2/2014 tarihli ve E.:2010/2167 K.:2014/270 sayılı Onama kararı ile mezkûr karar kesinleşmiştir.) Yerleştirme işlemlerinde, diğer koşullar saklı kalmak kaydıyla, yerleştirmenin yapıldığı tarihte aynı adaya ait geçerlilik süresi bitmeyen sınavlardan alınan en yüksek KPSS puanı dikkate alınır ve aynı puanı alan adaylar arasından diploma tarihi itibariyle önce mezun olmuş olana, bunun aynı olması halinde yaşı büyük olana, her ikisinin de aynı olması durumunda ise sınav sonucu yeni açıklanan adaya öncelik tanınır.
+(Değişik ikinci fıkra: 25/12/2006-2006/11516 K.) (Danıştay Onikinci Dairesinin 31/3/2010 tarihli ve E: 2007/763, K.: 2010/1751 sayılı Kararı ile iptal fıkra; Danıştay İDDK’nın 6/2/2014 tarihli E.:2010/2164 K.:2014/269 sayılı Onama kararı ile mezkûr karar kesinleşmiştir.)
+Yerleştirmede adayların Başvurma Belgesi’nde ve Tercih Formu’nda yazıp kodladıkları beyanları esas alınır.
+Yerleştirme sonuçları, ilgili kamu kurum ve kuruluşlarına, adaylara ve DPB’ye bildirilir.
+(Mülga son fıkra: 28/3/2005-2005/8714 K.)

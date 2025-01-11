@@ -1,0 +1,1 @@
+Geçici Madde 1- Kamu kurum ve kuruluşlarınca, bu Yönetmelik kapsamına giren kadrolara atanacaklar için yürürlüğe konan düzenlemeler, bu Yönetmeliğin yürürlüğe girdiği tarihten itibaren 6 ay içinde bu Yönetmeliğe uygun hale getirilir.

@@ -1,0 +1,5 @@
+KPSS puanlarının kontrolü ve bildirim yükümlülüğü[12]
+Madde 27/C- (Ek: 11/12/2006-2006/11473 K.) (Başlığı ile Birlikte Değişik:RG-24/10/2019-30928-C.K.-1703/4 md.)
+(1) İl özel idareleri, belediyeler ve bağlı kuruluşları, bunların üyesi olduğu mahalli idare birlikleri ile döner sermayeli kuruluşlar, kendilerine başvuran adayların T.C. kimlik numaralarını, ad ve soyadlarını ve KPSS puanlarının doğruluğunu ÖSYM’ye ait internet sitesinden kontrol eder. Yapılan kontrol sonucunda sınav sonuç belgesinde tahrifat yaptığı belirlenen adaylar ilgili kurumlarca ÖSYM’ye bildirilir.
+(2) Göreve başlatılanlar ile ataması yapıldığı halde göreve başlamayanlar veya ataması iptal edilen adaylara ilişkin bilgiler, söz konusu işlemlerin sonuçlandığı tarihten itibaren on beş gün içinde kadro ve pozisyonların merkezi olarak tutulduğu kurumun “E-Uygulama” sistemine girilir.
+(3) Sınav ile ilgili basılı formlarda ve sınav sonuç belgelerinde silinti veya kazıntı yoluyla ya da teknoloji kullanılarak değişiklik yapıldığının belirlenmesi durumunda, sorumlular hakkında Cumhuriyet savcılığına suç duyurusunda bulunulur.

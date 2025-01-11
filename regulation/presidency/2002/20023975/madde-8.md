@@ -1,0 +1,2 @@
+KPSS Kılavuzu
+Madde 8- KPSS Kılavuzu’nda; personel alımı, başvuru, genel sınav, alan sınavları ve değerlendirme işlemlerine ilişkin gerekli bilgi ve kurallar ile kadrolarına usulüne uygun açıktan atama izni alınmış veya bir yıl içinde personel alınması planlanmış olan kamu kurum ve kuruluşlarının adları, kadro sayıları bunların adaylarda aradıkları nitelikler ile adayların sınav öncesi bilmesinde yararlı olabilecek diğer bilgiler yer alır.

@@ -1,0 +1,26 @@
+{
+  "id": "presidency-regulation-20023975",
+  "number": "20023975",
+  "kind": "regulation",
+  "issuer": "presidency",
+  "title": "KAMU GÖREVLERİNE İLK DEFA ATANACAKLAR İÇİN YAPILACAK SINAVLAR HAKKINDA GENEL YÖNETMELİK",
+  "published": "2002-05-03",
+  "enacted": "2002-03-18",
+  "gazette_number": "24744",
+  "in_force": "2025-01-11",
+  "in_force_basis": "Source commencement table, \"Yürürlüğe Giriş Tarihi\": 11/1/2025; source row: 10/1/2025 | 9401 | 3, 11, Ek Madde 4, Geçici Madde 12 | 11/1/2025",
+  "history": "current-only",
+  "version_label": "oldest version available",
+  "first_law": null,
+  "source": "https://www.mevzuat.gov.tr/anasayfa/MevzuatFihristDetayIframe?MevzuatNo=20023975&MevzuatTur=21&MevzuatTertip=5",
+  "source_sha256": "58958a9449f2ea1c4f6d7876810ae3857c3dc4948ecc2e1b3f62e89b282010b0",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  },
+  "missing_components": [],
+  "text_layout": "article-files",
+  "source_links": [],
+  "completeness": "html-text-complete"
+}

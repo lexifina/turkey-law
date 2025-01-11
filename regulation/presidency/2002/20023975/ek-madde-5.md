@@ -1,0 +1,1 @@
+Ek Madde 5- (Ek: 25/12/2006-2006/11516 K.) (Danıştay Onikinci Dairesinin 31/3/2010 tarihli ve E: 2007/763, K.: 2010/1751 sayılı Kararı ile iptal fıkra; Danıştay İDDK’nın 6/2/2014 tarihli E.:2010/2164 K.:2014/269 sayılı Onama kararı ile mezkûr karar kesinleşmiştir.)

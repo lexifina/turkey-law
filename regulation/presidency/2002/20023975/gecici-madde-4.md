@@ -1,0 +1,1 @@
+Geçici Madde 4- Açıktan atama izinleri ve boş kadroların bildirilmesi ile ilgili olarak bu Yönetmelikte öngörülen takvim ve süreler, 2002 yılında DPB ve ÖSYM’ce müştereken belirlenen şekilde uygulanır.

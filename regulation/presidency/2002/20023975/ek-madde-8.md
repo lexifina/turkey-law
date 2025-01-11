@@ -1,0 +1,2 @@
+Ek Madde 8- (Ek: 2/6/2014-2014/6468 K.; Değişik: 6/6/2016-2016/8942 K.)[15]
+Devlet Su İşleri Genel Müdürlüğü ve Orman Genel Müdürlüğü mühendis kadrolarına, KPSS (B) grubu puan sırası dikkate alınarak, açıktan atama yapılacak kadro sayısının üç katına kadar belinlenecek adaylar arasından, yapılacak yazılı ve/veya uygulamalı sınavdaki başarı sırasına göre ilgili Genel Müdürlüklerce atama yapılır.[16][17][18]

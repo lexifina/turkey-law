@@ -1,0 +1,3 @@
+Sınav ilişkin esaslar[11]
+Madde 27/B- (Ek: 11/12/2006-2006/11473 K.) (Başlığı ile Birlikte Değişik:RG-24/10/2019-30928-C.K.-1703/3 md.)
+(1) İl özel idareleri, belediyeler ve bağlı kuruluşları, bunların üyesi olduğu mahalli idare birlikleri ile döner sermayeli kuruluşlarca yapılacak sınava başvuru şekli, sınavın türü, sınav konuları, sınav kurulunun teşkili, kurulun çalışma usul ve esasları, sınav sonuçlarının değerlendirilmesi, başarılı olan asil ve yedek adayların belirlenmesi usulü, sınav sonuçlarına itiraz ile sınava ilişkin diğer hususlar İçişleri Bakanlığı ile Çevre ve Şehircilik Bakanlığınca müştereken yürürlüğe konulacak yönetmelikle belirlenir.

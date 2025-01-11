@@ -1,0 +1,5 @@
+Kapsam
+Madde 2- Bu Yönetmelik;
+a) A Grubu Kadrolar; Başbakanlık, bakanlıklar, bunların müsteşarlık, başkanlık ve bağımsız genel müdürlük düzeyindeki bağlı ve ilgili kuruluşları ile bağlı ortaklıklarındaki, özel yarışma sınavına tabi tutulmak suretiyle girilen ve belirli bir yetişme programı sonrası yeterlik sınavına tabi tutulan mesleklere ilişkin kadro ve görevler ile il özel idareleri ve belediyelerin teftiş kurullarına,
+b) B Grubu Kadrolar; Kadroları 190 sayılı Kanun Hükmünde Kararnamenin eki listelerde yer alan, genel ve katma bütçeli kurumlarla bunlara bağlı döner sermayeli kuruluşlar, kanunlar ile kurulan fonlar ve kefalet sandıkları, il özel idareleri ve belediyeler, il özel idareleri ve belediyelerin kurdukları birlikler ile bunlara bağlı döner sermayeli kuruluşlar ve diğer kamu kurum ve kuruluşlarında yukarıda (a) bendinde belirtilmiş olan meslekler dışında, ilk defa kamu hizmeti ve görevlerine atama yapılacak kadro ve görevlere,
+atanacaklar için yapılacak işlem ve sınavları kapsar.

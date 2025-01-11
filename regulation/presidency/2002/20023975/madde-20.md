@@ -1,0 +1,6 @@
+Atama yapılacak kadroların belirlenmesi
+Madde 20- Kamu kurum ve kuruluşları tarafından, açıktan atama yapacakları (B) grubu kadrolar için ilgili mevzuatı uyarınca yetkili makamlardan izin alındıktan sonra, bu kadroların koşullarının belirlenmesi amacıyla; yüksek öğretim kurumları ile yüksek öğretim üst kuruluşları, Yüksek Öğretim Kurulu (YÖK) Başkanlığına; (…)[7] bunların dışında kalan diğer kamu kurum ve kuruluşları DPB’ye başvurur.
+(…)7 YÖK Başkanlığı aldıkları başvuruları; unvan, sayı, sınıf ve derecesi ile aranan koşullar yönünden inceleyerek görüşlerini, bu kuruluşlara ait kadroların tümünü kapsayacak şekilde manyetik ortamda DPB’ye bildirir.
+Yerleştirme işlemine alınabilmesi için, bu kadrolara ilişkin bilgi ve aranan koşulların, sınavın yapılacağı tarihten 4 ay önce DPB’ye doğru ve eksiksiz olarak bildirilmiş olması şarttır.
+DPB bu bildirimleri, Nitelik-Kod Kılavuzu’nda yer alan hususlara uygunluk yönünden inceleyerek sonucu, sınavın yapılacağı tarihten 3 ay önce ÖSYM’ye manyetik ortamda bildirir. ÖSYM, bu kadrolarla ilgili olarak gerektiğinde kurumlarla son mutabakatı sağlar.
+Kamu kurum ve kuruluşları, DPB tarafından onaylanan Nitelik-Kod Kılavuzu’nda belirtilenler dışında ayrıca özel nitelik belirleyemez.

@@ -1,0 +1,2 @@
+Geçici Madde 2- Bu Yönetmeliğin yayımından önce bu Yönetmeliğin 29 uncu maddesi ile yürürlükten kaldırılan yönetmeliklere göre yapılmış sınavlardan kazanılmış haklar, (A) ve (B) grubu kadrolara atanacaklar için süreleri bitinceye kadar saklıdır.
+17/10/1999, 12/12/1999 tarihlerinde Devlet memurları için yapılmış olan merkezi sınavlarda yetmiş ve daha yukarı puan alarak başarılı olmuş adayların hakları, (B) grubu kadrolara yapılacak yerleştirmeler için bu Yönetmeliğin yayım tarihinden itibaren iki yıl süreyle geçerlidir.

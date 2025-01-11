@@ -1,0 +1,2 @@
+Yürürlükten kaldırılan yönetmelikler
+Madde 29- 6/12/1985 tarihli ve 85/10260 sayılı Bakanlar Kurulu Kararı ile yürürlüğe konulan İlk Defa Devlet Kamu Hizmeti ve Görevlerine Devlet Memuru Olarak Atanacaklar İçin Mecburi Yeterlik ve Yarışma Sınavları Genel Yönetmeliği ile 17/1/2001 tarihli ve 2001/2031 sayılı Bakanlar Kurulu Kararı ile yürürlüğe konulan Özel Yarışma Sınavına Tabi Tutulmak Suretiyle Girilen Meslekler İçin Yapılacak Eleme Sınavı Hakkında Yönetmelik yürürlükten kaldırılmıştır.
