@@ -1,0 +1,2 @@
+Muafiyet sınavı
+MADDE 25- (1) Yükseköğretim programına yeni kayıt yaptıran öğrencilerden isteyenler, yabancı dil ve bilgisayara giriş/temel bilgi teknolojileri ya da muadili olan derslerden akademik takvimde belirlenen tarihte, merkezi olarak yapılan muafiyet sınavına tabi tutulurlar. Sınavların değerlendirilmesi, 30 uncu maddeye göre yapılır. Yapılan sınavdan gerekli başarıyı gösteren öğrencilerin; muafiyet sınavında almış oldukları başarı notları sisteme tanımlanarak öngörülen krediyi tamamlamış sayılırlar.

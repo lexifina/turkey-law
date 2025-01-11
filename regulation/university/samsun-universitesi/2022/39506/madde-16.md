@@ -1,0 +1,2 @@
+Ders tekrarı
+MADDE 16- (1) Azami öğrenim süresi içerisinde mezun olamayan öğrenciler bakımından, öğretim programı değişikliği veya isimleri değişmemekle birlikte ders içeriğinin değişmesi ya da ders içeriği değişmemekle birlikte aradan uzun bir sürenin geçmesi nedeniyle, gerekli görülmesi halinde, daha önce başarılı olunan derslerden hangilerinin yeniden alınacağı; ilgili birim/bölüm kurulu önerisi üzerine Senato tarafından belirlenir.

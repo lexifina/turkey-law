@@ -1,0 +1,4 @@
+Mazeret sınavı
+MADDE 23- (1) Sınav döneminde izinli sayıldığı için veya ilgili yönetim kurulu tarafından kabul edilen haklı ve geçerli bir mazereti nedeniyle dönem içi sınavlara katılamayan öğrencilere, süresi içinde başvurmaları halinde, mazeret sınavı açılır.
+(2) Mazeretle ilgili her türlü müracaat, mazeretin bitimi tarihinden itibaren en geç bir hafta içinde yapılır. Haklı ve geçerli mazereti ilgili birim yönetim kurulunca kabul edilen öğrenci, mazeretli olduğu günlerde derslere devam edemez ve sınavlara giremez. Mazeretli olduğu günlerde (mazeretinin başladığı saat dikkate alınarak) girilen sınavlar geçersiz sayılır.
+(3) Mazereti ortadan kalkan öğrenci, bunu yazılı olarak bildirmesi ve ilgili birim yönetim kurulunun uygun görmesi hâlinde derslerine devam edebilir ve sınavlara girebilir.

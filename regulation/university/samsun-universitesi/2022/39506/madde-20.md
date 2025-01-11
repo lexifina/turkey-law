@@ -1,0 +1,2 @@
+Yatay geçişler, çift anadal, yan dal
+MADDE 20- (1) Diğer yükseköğretim kurumlarından Üniversiteye geçişler; 24/4/2010 tarihli ve 27561 sayılı Resmî Gazete’de yayımlanan Yükseköğretim Kurumlarında Önlisans ve Lisans Düzeyindeki Programlar Arasında Geçiş, Çift Anadal, Yan Dal ile Kurumlar Arası Kredi Transferi Yapılması Esaslarına İlişkin Yönetmelik hükümlerine, Yükseköğretim Kurulu ile Senato kararlarına göre yürütülür. Bu öğrencilerin eğitim programlarına intibakları, ilgili birim yönetim kurullarınca yapılır.
