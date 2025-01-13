@@ -1,0 +1,8 @@
+Merkezin Amaçları
+Madde 6 — Merkezin amaçları şunlardır:
+a) Modern ülkelerce benimsenmiş ve kabul edilerek uygulamaya konulmuş insan hak ve özgürlüklerini düzenleyen bildirilerin; Anayasa ve kanunlara kaynak teşkil eden hukukun genel ilkelerinden olduğu bilincinden hareketle, bu alanda gerekli her türlü bilimsel, teorik ve uygulamaya yönelik araştırma ve çalışmalar yapmak.
+b) İnsan hak ve özgürlüklerinin gelişmesi, yerleşmesi, bu alanda toplum bilincinin olgunlaşması ve yaygınlaşması için gerekli faaliyetleri yürütmek.
+c) Türkiyede insan hakları ve ceza hukukunun işleyişi ve ceza yargılaması hukukunun gerçekleştirilmesine ilişkin hakların gelişmesini sağlayacak bilimsel araştırmalar yapmak.
+d) Türk hukuk sisteminde Avrupa Birliği kurallarına uyum sağlayacak araştırmalar yapmak, kanun tasarılarının çalışmalarında bulunmak, Avrupa Birliği ve Avrupa Konseyi ile ilişkiler kurarak genel sorunlar üzerinde incelemeler yapmak.
+e) Türkiyede kriminolojinin geliştirilmesine yönelik olarak bilim mensuplarına gerekli yetişkinlik kazandıracak şekilde eğitim ve öğretimi sağlamak.
+f) Türkiyede suçluluğun sebeplerinin belirlenmesine, suçu oluşturan süreçlerin araştırılmasına, suçlulukla mücadelede uygulanacak temel suç ve ceza politikaları esaslarının tespitine, suçla mücadele bakımından halkın da katılımı ile oluşturulacak stratejilerin inşa edilmesine, ülkede suçla mücadele eden kamu ve özel kuruluşlarla işbirliği yapılmasına ve gerektiğinde bunlara danışmanlık yapılmasına, suçu ve özellikle çocuk suçluluğunu önleyici tedbir ve önerilerin geliştirilmesine yönelik araştırmalar yapılmasına ve araştırmacılara yardımda bulunulmasına, küçük çocuk ile gençlerin suça karşı korunmalarına ilişkin etkin politikalar üretmek.
