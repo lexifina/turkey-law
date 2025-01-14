@@ -1,0 +1,17 @@
+{
+  "kind": "decision",
+  "issuer": "Sayıştay 3. Dairesi",
+  "number": "522",
+  "decision_date": "2025-01-14",
+  "source_id": 39068,
+  "chamber": "3",
+  "ilam_number": "42",
+  "item_number": 1,
+  "public_body_type": "Yüksek Öğretim Kurumları",
+  "account_year": 2023,
+  "subject": "Vergi Resmi Harç ve Diğer Gelirlerle İlgili Kararlar",
+  "source": "https://www.sayistay.gov.tr/KararlarDaire/Detay/39068/",
+  "source_sha256": "fcfbdb76c0398001745cb4c70cdb9d4eccf4777a0942f74a2b5dcd6559c4f418",
+  "text_status": "as-enacted",
+  "text_file": "metin.md"
+}
