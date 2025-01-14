@@ -1,0 +1,63 @@
+{
+  "source_id": "7.5.24630",
+  "kind": "regulation",
+  "register_kind": "Kurum ve Kuruluş Yönetmelikleri",
+  "title": "ELEKTRİK PİYASASI TÜKETİCİ HİZMETLERİ YÖNETMELİĞİ",
+  "number": "24630",
+  "issuer": "Başkan",
+  "issuer_slug": "baskan",
+  "path": "regulation/baskan/2018/24630",
+  "source": "https://www.mevzuat.gov.tr/anasayfa/MevzuatFihristDetayIframe?MevzuatTur=7&MevzuatNo=24630&MevzuatTertip=5",
+  "source_sha256": "73325ee20d1df72475013d1254dde8591d6560ae030acce1801e5016d5d0cf88",
+  "source_bytes": 240425,
+  "published": "2018-05-30",
+  "gazette": "30436",
+  "in_force": "2025-01-14",
+  "in_force_basis": "latest Resmî Gazete date printed in the source amendment notes/table (\"RG-14/1/2025\") for the current consolidated text",
+  "date_evidence": [
+    [
+      "2025-01-14",
+      "RG-14/1/2025",
+      "Resmî Gazete date printed in the source amendment note"
+    ],
+    [
+      "2025-01-14",
+      "14/1/2025",
+      "Resmî Gazete date in the source amendment table"
+    ],
+    [
+      "2022-04-08",
+      "RG-8/4/2022",
+      "Resmî Gazete date printed in the source amendment note"
+    ],
+    [
+      "2022-04-08",
+      "8/4/2022",
+      "Resmî Gazete date in the source amendment table"
+    ],
+    [
+      "2021-02-20",
+      "RG-20/2/2021",
+      "Resmî Gazete date printed in the source amendment note"
+    ],
+    [
+      "2021-02-20",
+      "20/2/2021",
+      "Resmî Gazete date in the source amendment table"
+    ]
+  ],
+  "history": "current-text",
+  "label": "oldest version available",
+  "checked_on": "2026-11-15",
+  "word_count": 16208,
+  "text_status": "current-consolidated",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  },
+  "source_links": [
+    "7.5.24630-Ek.docx"
+  ],
+  "completeness": "html-text-complete; linked annexes not fetched"
+}
