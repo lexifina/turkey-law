@@ -1,0 +1,3 @@
+Sınav sonuçlarına itiraz
+MADDE 17 – (1) Sınavlara katılanlar sınav sonuçlarının Genel Müdürlük internet sitesinde ilan edildiği tarihten itibaren beş iş günü içinde Sınav Kuruluna itiraz edebilirler. İtirazlar Sınav Kurulu tarafından on iş günü içinde karara bağlanır ve ilgililere yazılı olarak bildirilir.
+(2) Yapılan sınavlarda hatalı sorulara tekabül eden puanlar eşit şekilde diğer sorulara dağıtılır. Ancak, soruların yüzde beşinden fazlasının hatalı olduğunun süresi içinde yapılan itirazlar üzerine veya herhangi bir şekilde tespit edilmesi halinde, sınav iptal edilir ve en kısa sürede yeni sınav yapılır.

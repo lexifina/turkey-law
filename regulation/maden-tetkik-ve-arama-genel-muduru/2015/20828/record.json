@@ -1,0 +1,53 @@
+{
+  "source_id": "7.5.20828",
+  "kind": "regulation",
+  "register_kind": "Kurum ve Kuruluş Yönetmelikleri",
+  "title": "MADEN TETKİK VE ARAMA GENEL MÜDÜRLÜĞÜ PERSONELİ GÖREVDE YÜKSELME VE UNVAN DEĞİŞİKLİĞİ YÖNETMELİĞİ",
+  "number": "20828",
+  "issuer": "Maden Tetkik ve Arama Genel Müdürü",
+  "issuer_slug": "maden-tetkik-ve-arama-genel-muduru",
+  "path": "regulation/maden-tetkik-ve-arama-genel-muduru/2015/20828",
+  "source": "https://www.mevzuat.gov.tr/anasayfa/MevzuatFihristDetayIframe?MevzuatTur=7&MevzuatNo=20828&MevzuatTertip=5",
+  "source_sha256": "0fab43a3da135a56d5723d7d41fc90f1890aa456eaef4334fd84bbc6524fbb4a",
+  "source_bytes": 69101,
+  "published": "2015-06-11",
+  "gazette": "29383",
+  "in_force": "2025-01-15",
+  "in_force_basis": "latest Resmî Gazete date printed in the source amendment notes/table (\"RG-15/1/2025\") for the current consolidated text",
+  "date_evidence": [
+    [
+      "2025-01-15",
+      "RG-15/1/2025",
+      "Resmî Gazete date printed in the source amendment note"
+    ],
+    [
+      "2025-01-15",
+      "15/1/2025",
+      "Resmî Gazete date in the source amendment table"
+    ],
+    [
+      "2018-04-06",
+      "RG-6/4/2018",
+      "Resmî Gazete date printed in the source amendment note"
+    ],
+    [
+      "2018-04-06",
+      "6/4/2018",
+      "Resmî Gazete date in the source amendment table"
+    ]
+  ],
+  "commencement_clauses": [
+    "Bu Yönetmelik yayımı tarihinde yürürlüğe girer"
+  ],
+  "history": "current-text",
+  "label": "oldest version available",
+  "checked_on": "2026-11-15",
+  "word_count": 3293,
+  "text_status": "current-consolidated",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  },
+  "completeness": "html-text-complete"
+}
