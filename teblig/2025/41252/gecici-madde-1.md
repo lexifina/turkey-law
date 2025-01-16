@@ -1,0 +1,2 @@
+Yürürlükten önce alınmış izinler
+GEÇİCİ MADDE 1- (1) Bu Tebliğin yürürlüğe girdiği tarihten önce alınan izinler kapsamında yetkili alkol dağıtım firmaları tarafından kullanılan alkol depoları, bu Tebliğin 3 üncü maddesinin yedinci fıkrası hariç olmak üzere bu Tebliğin yayımı tarihinden itibaren altı ay içerisinde bu Tebliğ hükümlerine uyum sağlamak zorundadır. Bu süre içerisinde bu Tebliğ hükümlerine uyumlu hale getirilmeyen alkol depolarının depo açma izinleri iptal edilmiş sayılır.

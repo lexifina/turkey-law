@@ -1,0 +1,11 @@
+Başvuru şekli ve inceleme
+MADDE 5- (1) Etil alkol veya metanol deposu açmak isteyen firmalar, taleplerine ilişkin dilekçelerini aşağıdaki bilgi ve belgeleri içeren dosya ile birlikte Tütün ve Alkol Dairesi Başkanlığı (TADAB)’na sunmak zorundadır:
+a) Depoya ait kira sözleşmesi veya deponun kendisine ait olduğunu gösterir belge.
+b) Depoya ilişkin yerleşim planı.
+c) Tankların üreticisi tarafından düzenlenmiş kapasitesini ve teknik özelliklerini gösterir belge veya proforma fatura.
+ç) Yönetmeliğin 7 nci maddesinin birinci fıkrasının (ğ) ve (h) bentleri kapsamında borcu olmadığına ilişkin belge ve beyan.
+(2) Depo açma izin başvurusu, dilekçe ve eklerinin Tütün ve Alkol Dairesi Başkanlığı (TADAB)’na sunulmasından itibaren otuz gün içinde incelenir. İnceleme sonrası tespit edilen eksiklikler yazılı olarak firmaya bildirilir. Bildirim tarihinden itibaren otuz gün içinde eksik bilgi ve belgelerin tamamlanmaması halinde başvuru işlemden kaldırılır.
+(3) Başvuru dosyasında eksiklik bulunmayan firmalara altı ay geçerli depo açma ön izni verilir. Altı aylık süre içerisinde depo açma işlemlerinin tamamlandığının firma tarafından yazılı olarak bildirilmesi halinde, depo adreslerinde Bakanlıkça tespit ve inceleme yapılır. Yerinde yapılan tespit ve inceleme neticesinde;
+a) Deponun uygun bulunması halinde faaliyet konusu etil alkol veya metanol depolanması olan, İşyeri Açma ve Çalışma Ruhsatının ibrazı kaydıyla firmaya depo açma izni verilir ve Dağıtım Uygunluk Belgesi tadil edilir.
+b) Uygunsuzluk tespit edilmesi halinde bu durum başvuru sahibine yazılı olarak bildirilir ve uygunsuzluğun doksan gün içerisinde giderilmesi istenir. Belirtilen sürede uygunsuzluğun giderilmesi durumunda firmaya depo açma izni verilir ve Dağıtım Uygunluk Belgesi tadil edilir. Belirtilen sürede uygunsuzlukların giderilmemesi durumunda depo açma ön izni iptal edilmiş sayılır.
+(4) Depo açma ön izin belgesi alan firmaların projelerini altı ay içinde tamamlayamaması durumunda, gerekçesini açıklayan dilekçe ile Tütün ve Alkol Dairesi Başkanlığı (TADAB)’na başvurması ve talebin uygun bulunması halinde bir defaya mahsus olmak üzere üç ay ek süre verilebilir. Belirtilen sürede projenin tamamlanmaması ve ek süre talep edilmemesi halinde depo açma ön izni iptal edilmiş sayılır.

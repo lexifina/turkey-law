@@ -1,0 +1,2 @@
+Amaç
+MADDE 1- (1) Bu Tebliğin amacı; etil alkol üretim tesisi dışında, ara depolama yapmak isteyen etil alkol üretim ve dağıtım yetkisini haiz firmalar ile gümrük işlemleri tamamlanıp millileşmiş etil alkol ve metanolün kullanıcı firmalara tesliminden önce ara depolama yapmak isteyen dağıtım yetkisini haiz ithalatçı firmaların, etil alkol veya metanol deposu açmasına ilişkin usul ve esasların belirlenmesidir.
