@@ -1,0 +1,20 @@
+Tanımlar ve kısaltmalar
+MADDE 3- (1) Bu Yönetmelikte geçen;
+a) Akademi: Millî Eğitim Akademisini,
+b) Alan: Öğretmen adaylarının mezun oldukları lisans düzeyindeki yükseköğretim programına bağlı olarak Bakanlığın öğretmenliğe atanacakların tespitine ilişkin kararına göre atanabilecekleri alanları,
+c) Bakan: Millî Eğitim Bakanını,
+ç) Bakanlık: Millî Eğitim Bakanlığını,
+d) Eğitim kurumu: Bakanlığa bağlı her kademe ve türdeki resmî örgün ve yaygın eğitim faaliyetlerinin yürütüldüğü kurumlar ile bu kurumlarda yürütülen eğitim öğretim etkinlikleri için program hazırlama, eğitim araç ve gereci üretme, inceleme, değerlendirme, öğrenci ve öğrenci adaylarına uygulanacak seçme ve/veya yarışma sınavları için gerekli iş ve işlemleri yürütme, rehberlik ve sosyal hizmetler verme yoluyla yardımcı ve destek olan Bakanlığa bağlı resmî kurumları,
+e) Eğitim ve uygulama merkezi: Akademinin görev alanına giren eğitim faaliyetlerinin yürütüldüğü merkezleri,
+f) EKPSS: Engelli Kamu Personel Seçme Sınavını,
+g) Görev yeri: Görevin yapıldığı eğitim kurumunu,
+ğ) Hazırlık eğitimi: Akademi tarafından teorik ve uygulamalı olarak verilen öğretmenlik mesleğine hazırlık amaçlı eğitimi,
+h) İlçe grubu: İllerde ilçe grubu belirleme komisyonu tarafından coğrafi özellikler ve ulaşım imkânları dikkate alınarak iki veya daha fazla ilçenin bir araya getirilmesiyle oluşturulan grubu,
+ı) MEB-AGS: Millî Eğitim Bakanlığı Akademi Giriş Sınavını,
+i) Norm kadro: Bakanlığa bağlı eğitim kurumlarında bulunması gereken yönetici ve öğretmen sayısını,
+j) Öğretmen adayı: Akademide hazırlık eğitimine alınanları,
+k) Öğretmen ihtiyacı: Alan bazında öğretmen norm sayısının mevcut öğretmen sayısından fazla olma durumunu,
+l) ÖSYM: Ölçme, Seçme ve Yerleştirme Merkezi Başkanlığını,
+m) Sağlık kurulu raporu: Sağlık kurullarınca ilgili mevzuatına göre düzenlenen raporları,
+n) Sözleşmeli öğretmen: Millî Eğitim Bakanlığına bağlı eğitim kurumlarında 657 sayılı Kanunun 4 üncü maddesinin (B) fıkrası kapsamında istihdam edilen öğretmenleri,
+ifade eder.
