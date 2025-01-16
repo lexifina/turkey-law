@@ -1,0 +1,17 @@
+{
+  "kind": "decision",
+  "issuer": "Sayıştay 1. Dairesi",
+  "number": "10951",
+  "decision_date": "2025-01-16",
+  "source_id": 39414,
+  "chamber": "1",
+  "ilam_number": "63",
+  "item_number": 13,
+  "public_body_type": "Diğer Özel Bütçeli İdareler",
+  "account_year": 2023,
+  "subject": "İhale Mevzuatı ile İlgili Kararlar",
+  "source": "https://www.sayistay.gov.tr/KararlarDaire/Detay/39414/",
+  "source_sha256": "d30c5015e0081f7d22bdbad3b5d7f161ed5f7973be6df55f4e12880b1f025056",
+  "text_status": "as-enacted",
+  "text_file": "metin.md"
+}
