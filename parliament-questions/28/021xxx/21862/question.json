@@ -1,0 +1,21 @@
+{
+  "record_type": "parliament-written-question",
+  "term": 28,
+  "legislative_year": 3,
+  "esas_no": "7/21862",
+  "submitted": "2025-01-16",
+  "submitted_as": "Başkanlığa geliş tarihi",
+  "mp": "Orhan SARIBAL",
+  "province": "Bursa",
+  "summary": "Bursa ilindeki Orhaneli Termik Santralinin sebep olduğu çevre kirliliği ve sağlık sorunlarına ilişkin",
+  "status": "Cevaplanmadığı Gelen Kağıtlarda İlan Edildi",
+  "status_as_of": "2026-11-16",
+  "official_record": "https://www.tbmm.gov.tr/Denetim/Yazili-Soru-Onergesi-Detay/3d3d9ae9-0b90-46a8-a6cb-0194734ba3d5",
+  "source": "https://tbmm.gov.tr/Denetim/YaziliSoruOnergesiTable",
+  "source_form": "https://tbmm.gov.tr/Denetim/Yazili-Soru-Onergeleri",
+  "source_sha256": "dda38b2ff837463a43db32fed5fbd4d4a3d262b300e10a0ee0eb906f564a84c4",
+  "in_force": "2025-01-16",
+  "in_force_basis": "Date the question reached the Speaker (Başkanlığa geliş tarihi) in the official TBMM written-question record; parliamentary oversight record, not law",
+  "history_type": "metadata",
+  "text_status": "metadata-only: question text, addressee and answers are in the linked official record (PDFs on cdn.tbmm.gov.tr); not transcribed here"
+}
