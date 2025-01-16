@@ -1,0 +1,2 @@
+Öğrenci kabulü
+MADDE 13 – (1) Üniversitenin herhangi bir düzeydeki eğitim-öğretim programına kabul edilen öğrencilerin kayıt işlemleri ilgili mevzuat hükümlerine uygun olarak, ÖSYM tarafından belirlenen tarihlerde Üniversitece kayıt için aranan tüm şartların yerine getirilmesi ve istenilen belgelerin sunulması kaydı ile yapılır. Kayıt için zamanında başvurmayan, öğretim ücretini ödemeyen, istenilen şart ve belgeleri sağlamayan öğrencilerin kayıtları yapılmaz.

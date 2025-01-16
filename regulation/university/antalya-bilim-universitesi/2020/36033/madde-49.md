@@ -1,0 +1,2 @@
+Öğrenime izinsiz ara verme
+MADDE 49 – (1) Öğrenciler izinsiz ve mazeretsiz olarak kayıt yenilememeleri halinde öğrenimlerine ara vermiş olurlar ve kayıtları askıya alınmış (pasif) öğrenci statüsüne geçerler. Bu durumdaki öğrenciler YÖKSİS Veri Tabanında beklemeli öğrenci durumunda görünürler. Kayıtları askıya alınmış statüye geçen öğrenciler hakkında 24 üncü maddenin ikinci ve üçüncü fıkralarının hükümleri uygulanır.

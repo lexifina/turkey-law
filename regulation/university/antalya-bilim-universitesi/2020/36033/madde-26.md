@@ -1,0 +1,4 @@
+Öğrenci ders programının belirlenmesi ve akademik danışmanlık
+MADDE 26 – (1) Öğrencilerin her yarıyılda izleyecekleri haftalık ders programları kayıtlı bulundukları akademik programın bölüm/program başkanlığı tarafından belirlenir. Zorunlu hallerde hafta sonunda ders/uygulama/laboratuvar/sınav yapılabilir.
+(2) Öğrencilere eğitim-öğretim programlarının düzenlenmesinde yardımcı olmak için ilgili bölüm/program başkanı tarafından yeterli sayıda akademik danışman görevlendirilir ve bu isimler ilgili fakülte dekanlığı, konservatuvar ve meslek yüksekokul müdürlüklerine bildirilir.
+(3) Danışman, öğrenciyi öğrenimi süresince izler, ön lisans/lisans öğretimi ve ilgili mevzuat hakkında yönlendirir. Öğrencinin derslere yazılma, ders ekleme-bırakma ve dersten çekilme işlemlerinde danışman onayı gerekir.

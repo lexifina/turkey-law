@@ -1,0 +1,5 @@
+Mezuniyet
+MADDE 43 – (1) Bir öğrencinin izlemekte olduğu programdan mezun olabilmesi için ilgili programın ders ve diğer yükümlülüklerini başarı ile tamamlamış olması ve GANO’sunun en az 2,00 olması gerekir.
+(2) Öğrenciler, mezun olabilmek için ön lisans programlarında 120 AKTS’ye eşdeğer ders kredisini, lisans programlarında 240 AKTS’ye eşdeğer ders kredisini tamamlamak zorundadır.
+(3) Lisans programlarında yedinci yarıyılın (yıllık eğitim veren fakülteler hariç), ön lisans programlarında üçüncü yarıyılın sonunda ilgili programın ders ve diğer yükümlülüklerini başarı ile tamamlayan ve lisans programlarında hazırlık hariç 4 yılın, ön lisans programlarında hazırlık hariç 2 yılın tüm mali hükümlülüklerini yerine getirmek koşulu ile 2,00 GANO’yu sağlayan öğrenciler erken mezuniyet hakkı kazanır.
+(4) Disiplin cezası almamış ve alttan ders almamış olmak kaydıyla mezuniyet GANO’su 4,00 üzerinden 4,00 olan öğrencilere Ankara Bilim Özel Ödülü verilir, 3,50-3,99 arasında olan öğrencilere yüksek onur belgesi, 3,00-3,49 arasında olan öğrencilere onur belgesi verilir.

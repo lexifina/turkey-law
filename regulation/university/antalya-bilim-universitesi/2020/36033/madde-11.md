@@ -1,0 +1,3 @@
+Burs ve yardımlar
+MADDE 11 – (1) Üniversitede ön lisans ve lisans düzeyindeki programlarda öğrenim gören öğrenciler için sağlanan burslar hakkındaki esaslar, ilgili mevzuat kapsamında Mütevelli Heyeti tarafından alınan kararlar doğrultusunda belirlenir.
+(2) (Değişik:RG-3/4/2023-32152) Disiplin cezası almış olan öğrenciler başarı bursundan yararlanamaz. Uyarma ve kınama cezaları alan öğrenciler, cezayı aldıkları tarihten sonraki yarıyılda; uzaklaştırma cezası alan öğrenciler cezanın bitiminden sonraki yarıyılda başarı bursundan yararlanamaz. İki tane disiplin cezası almış olan öğrenci, öğreniminin kalan süresi boyunca başarı bursundan yararlanamaz.

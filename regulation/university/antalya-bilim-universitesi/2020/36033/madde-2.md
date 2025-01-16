@@ -1,0 +1,2 @@
+Kapsam
+MADDE 2 – (1) Bu Yönetmelik; Ankara Bilim Üniversitesine bağlı fakülte, konservatuvar, yüksekokul ve meslek yüksekokullarındaki ön lisans ve lisans programları ile yabancı dilde hazırlık programlarının düzenlenmesi, sınav ve başarının belirlenmesi, öğrenci kabulü, öğrenime ara verme, diploma ve unvanlar, staj ve bitirme faaliyetleri ile akademik danışmanlık işlemlerine ilişkin hükümleri kapsar.

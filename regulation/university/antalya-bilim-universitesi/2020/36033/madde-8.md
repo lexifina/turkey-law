@@ -1,0 +1,4 @@
+Eğitim-öğretim dili
+MADDE 8 – (1) Üniversitede öğretim dili İngilizcedir. Ancak, Rektörün önerisi Senatonun gerekçeli kararı, Mütevelli Heyeti kararı ve YÖK’ün onayı ile Üniversitenin bazı fakülteleri, konservatuvar, yüksekokulları, meslek yüksekokulları, enstitüleri ile bunlara bağlı bölüm, program veya eğitim-öğretim yapan diğer alt birimlerinde kısmen veya tamamen Türkçe veya ikinci bir dilde de eğitim-öğretim yapılabilir.
+(2) Üniversitenin tamamen yabancı dilde eğitim-öğretim sunan programlara kayıt olan öğrenciler, ilk eğitim-öğretim yılı başında yabancı dil yeterlik sınavına katılmak ve bu sınavda başarısız olmaları halinde, yabancı dil hazırlık sınıfına devam etmek zorundadırlar. YÖK ve Üniversite tarafından kabul edilen yabancı dil yeterlik belgesini sunan öğrencilere bu hüküm uygulanmaz.
+(3) Öğrencinin, dil eğitimi için hazırlık sınıfında geçirdiği öğrenim süresi, kayıt olduğu ön lisans veya lisans programı için azami öğrenim sürelerinin dışında tutulur.

@@ -1,0 +1,31 @@
+{
+  "act_path": "regulation/university/antalya-bilim-universitesi/2020/36033",
+  "availability": "text",
+  "checked_on": "2026-11-14",
+  "commencement_clauses": [
+    "MADDE 55 – (1) Bu Yönetmelik yayımı tarihinde yürürlüğe girer."
+  ],
+  "date_quote": "RG-16/1/2025",
+  "first_law": null,
+  "gazette": "31323",
+  "history": "current-text",
+  "images": {
+    "deferred": 0,
+    "omitted": 0,
+    "referenced": 0,
+    "source": 0
+  },
+  "in_force": "2025-01-16",
+  "in_force_basis": "latest source-printed amendment Gazette date; current consolidated text",
+  "issuer": "Antalya Bilim Üniversitesi",
+  "issuer_slug": "antalya-bilim-universitesi",
+  "kind": "regulation",
+  "published": "2020-12-03",
+  "source": "https://www.mevzuat.gov.tr/anasayfa/MevzuatFihristDetayIframe?MevzuatTur=8&MevzuatNo=36033&MevzuatTertip=5",
+  "source_id": "8.5.36033",
+  "source_sha256": "44e0ba5a99bfffb8a25bc61c30b38d5f80e65e9da368e5c5663b213666343bec",
+  "title": "ANKARA BİLİM ÜNİVERSİTESİ ÖN LİSANS VE LİSANS EĞİTİM-ÖĞRETİM VE SINAV YÖNETMELİĞİ",
+  "university_id": 418,
+  "version_label": "oldest version available",
+  "word_count": 7757
+}

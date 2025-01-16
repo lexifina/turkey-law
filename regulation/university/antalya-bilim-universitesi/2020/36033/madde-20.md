@@ -1,0 +1,9 @@
+DÖRDÜNCÜ BÖLÜM
+Eğitim-Öğretim Esasları
+Öğrenim süresi
+MADDE 20 – (1) Öğrenciler, 2547 sayılı Kanun gereğince bir yıl süreli yabancı dil hazırlık sınıfı hariç, kayıtlı oldukları programa ilişkin derslerin verildiği dönemden başlamak üzere, her dönem için kayıt yaptırıp yaptırmadığına bakılmaksızın öğrenim süresi iki yıl olan ön lisans programlarını azami dört yıl, öğrenim süresi dört yıl olan lisans programlarını azami yedi yıl, öğrenim süresi beş yıl olan lisans programlarını azami sekiz yıl, öğrenim süresi altı yıl olan lisans programlarını azami dokuz yıl içinde tamamlamak zorundadırlar.
+(2) Hazırlık eğitim süresi azami iki yıldır. Azami süreler içinde öğrenim ücretinin ödenmemesi ile kayıt yenilenmemesi nedeniyle öğrencilerin ilişikleri kesilmez. Ancak, Üniversite yetkili kurullarının kararı ve Yükseköğretim Kurulunun onayı ile dört yıl üst üste öğrenim ücretinin ödenmemesi ile kayıt yenilenmemesi nedeniyle öğrencilerin ilişikleri kesilebilir. Yatay geçiş ve çift ana dal eğitiminin usul ve esasları ile azami öğrenim süreleri, 2547 sayılı Kanunun 44 üncü maddesi ile Yükseköğretim Kurumlarında Önlisans ve Lisans Düzeyindeki Programlar Arasında Geçiş, Çift Anadal, Yan Dal ile Kurumlar Arası Kredi Transferi Yapılması Esaslarına İlişkin Yönetmelik hükümlerine göre belirlenir.
+(3) Kayıt dondurma süresi, öğrenim süresinden sayılmaz.
+(4) Yabancı dil öğrenmek amacıyla yurt dışına gideceği için kaydı dondurulan öğrencilerin yurt dışında geçirdikleri sürenin yabancı dil öğrenim süresinden sayılıp sayılamayacağı Senato tarafından belirlenir.
+(5) Değişim programları kapsamında yurt içi veya yurt dışı yükseköğretim kurumlarında geçirilen yarıyıllar öğrenim süresine dâhildir.
+(6) Disiplin işlemleri neticesinde mevzuat gereği uzaklaştırma cezası alınan süreler öğrenim süresinden sayılır.
