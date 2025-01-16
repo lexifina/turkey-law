@@ -1,0 +1,26 @@
+{
+  "kind": "norm",
+  "issuer": "Enerji Piyasası Düzenleme Kurumu",
+  "market": "petroleum",
+  "document_type": "board-decision",
+  "number": "13212",
+  "decision_date": "2025-01-16",
+  "title": "Potas Akdeniz Akaryakıt Dağıtım Anonim Şirketi’nin; faaliyette bulunan Antalya Hava İkmal Tesisine ilişkin depolama tarifesi",
+  "resmi_gazete_date": "2025-01-18",
+  "resmi_gazete_number": "32786",
+  "categories": [
+    "Depolama Tarifesi"
+  ],
+  "source": "https://www.epdk.gov.tr/Detay/DownloadDocument?id=zNcJheglsVw=",
+  "documents": [
+    "https://www.epdk.gov.tr/Detay/DownloadDocument?id=zNcJheglsVw=",
+    "https://www.epdk.gov.tr/Detay/DownloadDocument?id=3sezfCJ5jvQ="
+  ],
+  "source_sha256": "19a72251bfd450a6fcaeb1b31dcf03b3f5e5cf22fdb5b323173e12a934778df1",
+  "official_list": "https://www.epdk.gov.tr/Detay/Icerik/3-0-100/kurul-kararlari",
+  "official_list_leaf": 5140,
+  "text_status": "metadata-only",
+  "metadata_only_reason": "official document is not .docx/.pdf (not transcribed)",
+  "in_force": "2025-01-16",
+  "law_text_complete": false
+}
