@@ -1,0 +1,17 @@
+{
+  "kind": "decision",
+  "issuer": "Sayıştay 6. Dairesi",
+  "number": "968",
+  "decision_date": "2025-01-16",
+  "source_id": 39062,
+  "chamber": "6",
+  "ilam_number": "36",
+  "item_number": 1,
+  "public_body_type": "Belediyeler ve Bağlı İdareler",
+  "account_year": 2023,
+  "subject": "Personel Mevzuatı ile İlgili Kararlar",
+  "source": "https://www.sayistay.gov.tr/KararlarDaire/Detay/39062/",
+  "source_sha256": "ce78edf8723c4f05ed202d837c5650d641d27195a90010e2ac066befbb694b6a",
+  "text_status": "metadata-only",
+  "metadata_only_reason": "possible personal name in the official text"
+}
