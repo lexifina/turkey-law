@@ -1,0 +1,2 @@
+Uygulamalı mesleki eğitim
+MADDE 15- (1) Sürdürülebilirlik alanında yetkilendirilmek isteyen bağımsız denetçilerin, sürdürülebilirlik denetimi alanında en az 8 ay süreyle uygulamalı mesleki eğitimi tamamlamış olmaları şarttır. Uygulamalı mesleki eğitim, sürdürülebilirlik denetimi faaliyetinde bulunan denetim kuruluşlarının bu alana ilişkin denetim ekiplerinde denetçi yardımcısı olarak görev almak suretiyle gerçekleştirilir.

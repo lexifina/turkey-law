@@ -1,0 +1,2 @@
+Kapsam
+MADDE 2- (1) Bu Yönetmelik; 6102 sayılı Kanun, 660 sayılı Kanun Hükmünde Kararname ve ilgili diğer mevzuat çerçevesinde veya ihtiyari olarak yapılacak sürdürülebilirlik denetimine, sürdürülebilirlik alanında faaliyette bulunacak bağımsız denetim kuruluşlarının ve bağımsız denetçilerin yetkilendirilmelerine, sicil kayıtlarının tutulmasına, yükümlülüklerine, sorumluluklarına, bunların Kurum tarafından incelenmesine, denetlenmesine ve bunlar hakkında uygulanacak idari yaptırımlara ilişkin usul ve esasları kapsar.

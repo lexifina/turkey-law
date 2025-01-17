@@ -1,0 +1,11 @@
+BEŞİNCİ BÖLÜM
+Kurumca Yapılacak İncelemeler, Denetimler ve İdari Yaptırımlar
+İnceleme ve denetimler
+MADDE 21- (1) Kurum, denetim kuruluşlarının sürdürülebilirlik denetim faaliyetlerini, seçilmiş denetim dosyaları, diğer bilgi, bildirim ve belgeler çerçevesinde inceler ve denetler. İnceleme ve denetim faaliyetleri, Kurulca her yıl hazırlanan yıllık inceleme ve denetim planı kapsamında yürütülür. İnceleme sonuçları, her yıl bir raporla kamuoyuna açıklanır.
+(2) İnceleme ve denetimler; denetim kuruluşlarınca gerçekleştirilmiş denetim çalışmalarının mevzuat çerçevesinde gözden geçirilmesi ve bu kuruluşların faaliyetlerinin mevzuata uygunluğunun denetimi ile harcanan kaynakların nitelik ve niceliğiyle ilgili değerlendirmeleri kapsar.
+(3) İncelemeler, sürdürülebilirlik raporlamasına tabi olan işletmelerin denetimini üstlenen denetim kuruluşlarının ilk denetim sözleşmesi imza tarihinden itibaren asgari altı yılda bir yapılır. İzleyen incelemelerde süre, önceki incelemeye ilişkin Kurul kararını takip eden takvim yılından itibaren yeniden başlar.
+(4) Kurum, planlanan inceleme ve denetimler yanında ihbar, şikâyet, bildirim gibi durumlarda ve gerekli gördüğü diğer hallerde de inceleme ve denetim yapar.
+(5) İnceleme ve denetimler, bağımsız denetim faaliyetlerinin incelenmesi ve denetimiyle birlikte yürütülebileceği gibi münhasıran sürdürülebilirlik denetimi faaliyetine ilişkin olarak da gerçekleştirilebilir.
+(6) İnceleme ve denetimler Kurum tarafından belirlenen usul ve esaslara uygun olarak yapılır.
+(7) Yapılan inceleme ve denetimler sonucunda mevzuata aykırılıkları tespit edilenler hakkında idari yaptırım uygulanır. Denetim kuruluşları ve denetçiler, inceleme ve denetimler sonucunda tespit edilen hususlarla ilgili olarak gerekli tedbirleri almakla yükümlüdürler.
+(8) 660 sayılı Kanun Hükmünde Kararnamenin 25 inci maddesinin yedinci fıkrası uyarınca inceleme için görevlendirilenler tarafından denetim kuruluşundan, denetçilerden, denetlenen işletmeden veya üçüncü kişilerden istenen rapor, defter, belge ve çalışma kâğıtları ile elektronik, manyetik ve benzeri ortamlarda tutulanlar dahil tüm kayıtların ve diğer bilgi ihtiva eden vasıtaların ibraz veya teslim edilmesi zorunludur.

@@ -1,0 +1,7 @@
+İdari yaptırımlarla ilgili diğer hükümler
+MADDE 28- (1) Kurumca yapılan denetim veya incelemeler neticesinde, ilgililere savunma yapılması için on günden az olmamak üzere süre verilir. Verilen süre içinde savunma yapmayanlar savunma hakkından vazgeçmiş sayılırlar.
+(2) Kurul fiilin ağırlığını dikkate alarak, gerekçesini belirtmek suretiyle daha hafif bir yaptırım uygulamaya yetkilidir.
+(3) Gerekli değerlendirmeler yapılarak Kurulca alınmış olunan karar ilgililere tebliğ edilir. Yargı yolu açık olmak üzere, Kurul kararları kesindir, itiraz edilemez. Kurul kararları ilgilinin siciline işlenir.
+(4) Denetim kuruluşlarında tespit edilen mevzuata aykırı fiillerden dolayı istihdam edilen denetçilere yaptırım uygulanması, denetim kuruluşunun hukuki ve cezai sorumluluğunu ortadan kaldırmaz.
+(5) Hakkında faaliyet iznini askıya alma kararı verilenler bu süre içinde, faaliyet izninin iptali kararı verilenler ise iptal kararı sonrasında yeni sözleşme yapamaz ve denetimlerde görev alamaz. Faaliyet izni kısıtlananlar ise kısıtlama kararına aykırı hareket edemez. Ancak, bunların devam eden denetim işlerinin tamamlanmasıyla sınırlı olarak faaliyetlerinin devamına Kurul tarafından karar verilebilir.
+(6) Faaliyet izninin iptali hali hariç olmak üzere, idari yaptırım uygulanmasına karar verilen durumlarda aykırılığı gerçekleştirenlere sürekli eğitim yükümlülüğüne ilave eğitim yükümlülüğü getirilebilir.

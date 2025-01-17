@@ -1,0 +1,4 @@
+Kurumsal sürdürülebilirlik eğitimi
+MADDE 31- (1) Kurum, TSRS’lerin benimsenmesi, uygulanması, bu konularda kamu bilincinin oluşturulması ve sürdürülebilirlik alanındaki güvence denetimlerine olan güven ile denetimin kalitesinin artırılması için TSRS’lere uygun olarak yapılacak kurumsal sürdürülebilirlik raporlaması konusunda çalışacak kişilerin bilgi ve becerilerinin artırılmasına ve geliştirilmesine yönelik olarak eğitim düzenleyebilir. Bu fıkra kapsamında eğitimler üniversiteler, eğitim kuruluşları, meslek odaları ve sivil toplum kuruluşları ile iş birliği halinde yürütülebilir.
+(2) Kurum tarafından yapılacak Kurumsal Sürdürülebilirlik Raporlama Uzmanlığı sınavında başarılı olanlara Kurumsal Sürdürülebilirlik Raporlama Uzmanı lisansı verilir.
+(3) Bu madde kapsamında gerçekleştirecek sınavlar için soruların hazırlanması ve değerlendirilmesinde Bağımsız Denetim Yönetmeliğinin 16 ncı maddesinin altıncı fıkrası hükümleri kıyasen uygulanır.

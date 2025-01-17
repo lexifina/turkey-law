@@ -1,0 +1,3 @@
+Denetim kıstası
+MADDE 8- (1) Sürdürülebilirlik denetiminde, denetim konusunun uyumunun değerlendirildiği önceden belirlenmiş kıstaslar esas alınır. Sürdürülebilirlikle ilgili riskler ve fırsatlara ilişkin bilgiler açısından TSRS; diğer mevzuattan kaynaklanan denetim konuları açısından ise denetim kıstasıyla ilgili düzenlemeler veya bunların atıf yaptığı kurallar denetim kıstasını oluşturur.
+(2) Diğer mevzuatta doğrudan veya dolaylı olarak denetim kuruluşları tarafından denetim yapılmasının öngörüldüğü ancak denetim konularının uyumunun aranacağı kıstasın açıkça belirtilmediği durumlarda, denetim kıstası Kurum tarafından belirlenir. İhtiyari olarak yaptırılan denetimlerde ise bu belirleme denetimi talep edenlerce yapılır.

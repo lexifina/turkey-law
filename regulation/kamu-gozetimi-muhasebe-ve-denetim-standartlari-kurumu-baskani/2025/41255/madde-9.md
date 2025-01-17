@@ -1,0 +1,3 @@
+Denetim kanıtı
+MADDE 9- (1) Denetim kanıtı, denetim konusunda denetim kıstası çerçevesinde önemli uyumsuzluklar bulunup bulunmadığı hususunda güvence verilmesini teminen görüş bildirmeye yönelik olarak denetçi tarafından elde edilen ve belirlenen güvence seviyesi için yeterli ve uygun bilgi, belge ve beyanlardır. Bu kanıtlar, denetimin TDS çerçevesinde ve mesleki şüphecilik içinde planlanması ve gerçekleştirilmesi suretiyle elde edilir ve tevsik edilir.
+(2) Denetim, denetimin konusunda önemli uyumsuzluklara yol açabilecek koşulların mevcut olabileceği göz önünde bulundurularak mesleki şüphecilik içinde planlanır ve yürütülür.

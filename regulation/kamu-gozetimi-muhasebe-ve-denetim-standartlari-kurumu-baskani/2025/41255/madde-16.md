@@ -1,0 +1,2 @@
+Sicile kayıt ve ilan
+MADDE 16- (1) Denetim kuruluşlarının ve denetçilerin sürdürülebilirlik denetimi alanına ilişkin yetkilendirilme işlemleri, uygulanan idari yaptırım kararları, gayri faal olarak gösterilme gibi resmi sicile kaydı gereken tüm bilgileri, Bağımsız Denetim Yönetmeliğinin 17 nci ve 18 inci maddelerinde belirlenen usul ve esaslar çerçevesinde resmi sicilde bu alana özgü olarak açılacak bölüme kaydedilir ve güncel olarak kamuoyunun erişimine açık tutmak suretiyle ilan edilir.
