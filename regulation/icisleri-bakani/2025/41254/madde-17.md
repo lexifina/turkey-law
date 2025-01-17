@@ -1,0 +1,2 @@
+Sınav belgelerinin saklanması
+MADDE 17- (1) Görevde yükselme ve ünvan değişikliği sınavlarında başarı gösterenlerin sınavla ilgili belgeleri ilgililerin özlük dosyalarında, başarısız olanların sınav belgeleri ise Başkanlık tarafından, dava açma süresinden az olmamak kaydıyla aynı ünvan için yapılacak bir sonraki sınava kadar ve dava açılması halinde dava kesin olarak karara bağlanana kadar saklanır.

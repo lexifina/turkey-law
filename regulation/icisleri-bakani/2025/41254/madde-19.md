@@ -1,0 +1,8 @@
+Görev grupları arasında veya aynı grup içerisindeki geçişler
+MADDE 19- (1) 5 inci maddede belirtilen görev grupları ve ünvan değişikliğine tabi kadrolar arasındaki geçişler aşağıdaki esaslar çerçevesinde yapılır:
+a) Aynı ana görev grubunun alt görev grubunda kalmak kaydıyla, sınav yapılmaksızın ilgili personelin isteği ve atanılacak kadronun gerektirdiği özellikleri taşımak şartıyla diğer görevlere görevde yükselme sınavına tabi tutulmadan atama yapılabilir.
+b) Gruplar arası görevde yükselme niteliğindeki geçişler ve alt gruptan üst gruplara geçişler görevde yükselme sınavına tabidir. Ancak Başkanlıkta veya diğer kamu kurum ve kuruluşlarında daha önce bulunulan görevler ile bu görevlerle aynı düzey görevlere veya alt görevlere, mevzuatta aranan diğer şartları taşımak kaydıyla görevde yükselme sınavına tabi tutulmadan atama yapılabilir.
+c) Ünvan değişikliğine tabi kadrolara geçişler ile bu kadrolar arasındaki geçişler, ilgili kadro için düzenlenen ünvan değişikliği sınavı sonucuna göre yapılır.
+ç) Bu Yönetmelik kapsamında bulunan ve doktora öğrenimini bitiren personel, atanılacak görev için aranan toplam hizmet süresine sahip olmaları ve mevzuatla aranan öğrenim ve sertifika gibi belgelere sahip olma şartlarını taşımaları kaydıyla uzman ünvanlı kadrolar ile bu kadroyla aynı düzeydeki veya daha alt düzeydeki diğer ünvanlı kadrolara görevde yükselme sınavına tabi tutulmadan genel hükümlere göre atanabilirler.
+d) Bu Yönetmelik kapsamındaki personelden doktora öğrenimini bitirmiş olanlar, ünvan değişikliği sınavına katılmaksızın öğrenim ile ihraz ettikleri görevlere atanabilirler.
+e) Avukat kadrolarından hukuk müşaviri kadrolarına yapılacak atamalarda bu Yönetmelik hükümleri uygulanmaz.
