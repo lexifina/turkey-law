@@ -1,0 +1,2 @@
+Bütçe ve harcama ilkelerinde sorumluluk
+MADDE 8- (1) Spor federasyonu başkan ve yönetim kurulu üyeleri; mevzuattan kaynaklanan yükümlülüklerini kasıt veya ihmalle ihlal ettikleri takdirde oluşabilecek zararlardan müteselsilen sorumludur. Ancak zarara sebebiyet verenlerin 7405 sayılı Kanunun 43 üncü maddesinin ikinci fıkrasına aykırılık hâllerine ilişkin sorumluluklarında kasıt veya ihmal aranmaz. Bu durumda spor federasyonu ve alacaklıları, spor federasyonunun yükümlendirildiği tutar için sorumluları doğrudan takip edebilir.

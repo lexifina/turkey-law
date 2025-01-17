@@ -1,0 +1,3 @@
+Bilirkişi görevlendirilmesi
+MADDE 16- (1) Spor federasyonlarının her türlü iş ve işlemleri ile harcamalarının denetimi, incelemesi ve soruşturulması sürecinde görevli denetim elemanları, gerek görmeleri ve çözümü uzmanlığı, özel veya teknik bilgiyi gerektiren hallerde bilirkişilerden yararlanabilirler. Bilirkişilere verilecek ücret ilgili yılın Bilirkişilik Asgari Ücret Tarifesine göre belirlenen tutarda spor federasyonunca ödenir.
+(2) Birinci fıkraya göre bilirkişi görevlendirilmesinde 3/11/2016 tarihli ve 6754 sayılı Bilirkişilik Kanunu ve bu Kanuna dayanılarak çıkarılan yönetmelikler uygulanır.
