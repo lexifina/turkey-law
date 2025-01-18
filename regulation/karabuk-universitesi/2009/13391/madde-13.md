@@ -1,0 +1,3 @@
+Danışma kurulunun görevleri
+MADDE 13 – (1) Danışma Kurulu; Müdürün daveti üzerine olağan olarak yılda en az bir kere, gerekli hallerde daha sık olmak üzere toplanır ve Merkezin faaliyetlerini gözden geçirerek ilgili konularda gerekli kararları alır. Kurul toplantısı ve kararları için salt çoğunluk aranır.
+(2) Danışma Kurulunun görevi; Müdür tarafından hazırlanmış ve Yönetim Kurulunca onaylanmış yıllık faaliyet raporunu, bütçe ile çalışma programını, eğitim faaliyetlerini değerlendirmek, yapılmış ve halen yürütülen çalışmalar hakkında görüş bildirmek, önerilerde bulunmak, bir sonraki çalışma yılına ait programı değerlendirmektir.
