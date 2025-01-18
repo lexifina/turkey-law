@@ -1,0 +1,12 @@
+Merkezin faaliyet alanları
+MADDE 6- (1) Merkezin faaliyet alanları şunlardır:
+a) Yurt içinde ve yurt dışında, alkol, madde, kumar bağımlılığı ve diğer davranışsal bağımlılıklar ile ilgili her konuda temel ve uygulamalı araştırma ve inceleme yapmak, yapılmakta olan bu gibi çalışmalara katılmak ve desteklemek.
+b) Alkol, madde, kumar bağımlılığı ve diğer davranışsal bağımlılıklar ile ilgili bilimsel gelişmeleri temel alan ulusal ve uluslararası düzeyde kurs, seminer, konferans, kongre, sempozyum ve benzeri faaliyetler düzenlemek.
+c) Bağımlılık konusunda temel ve uygulamalı araştırma yürüten ulusal ve uluslararası kuruluşlarla iletişim ağı oluşturmak.
+ç) Merkezin amacı doğrultusunda ilgili mevzuat hükümleri kapsamında ulusal ve uluslararası kamu ve özel sektör kurum ve kuruluşlarının çalışmalarına katkıda bulunmak, ortak projelerin geliştirilmesine imkân sağlamak, ihtiyaç veya talep halinde; inceleme ve araştırmalar yapmak, projeler hazırlamak, eğitim programları düzenlemek, bilimsel danışmanlık hizmeti vermek, veri bankacılığı ve benzeri hizmetleri vermek.
+d) Alkol, madde, kumar bağımlılığı ve diğer davranışsal bağımlılıklar ile ilgili ulusal sağlık politikasının oluşturulmasına katkıda bulunmak, lisans ve lisansüstü eğitimleri oluşturmak ve geliştirmek.
+e) İlgili mevzuat hükümleri kapsamında Merkezce yürütülecek deneysel, klinik ve epidemiyolojik çalışmalar ve bilimsel etkinlikler yapmak, ulusal ve uluslararası düzeyde Türkiye'yi temsil edecek referans merkezi olmak.
+f) Alkol, madde, kumar bağımlılığı ve diğer davranışsal bağımlılıklar ile ilgili bozuklukların hasta, aile ve toplum üzerinde meydana getirdiği bireysel, sosyal ve ekonomik sorunları belirlemek, çözüme yönelik projeler geliştirmek ve bu alanda oluşturulacak sosyal politikalara katkıda bulunmak.
+g) Bağımlılığın neden olduğu sağlık sorunları konusunda toplumun aydınlatılması, hastaların ve hasta yakınlarının bilgilendirilmesi ve eğitilmesi amacıyla sürekli eğitim programları düzenlemek, kitap, dergi ve broşür basımları yapmak, yazılı ve görsel yayın organlarında programlar yaparak bilimsel nitelikteki bilgilerin kamuoyuna ulaştırılmasını sağlamak.
+ğ) Alkol, madde, kumar bağımlılığı ve diğer davranışsal bağımlılıklar hakkında ilgili mevzuat hükümleri kapsamında her türlü adli olayda adli-tıbbî değerlendirme ve bilirkişilik hizmeti sunmak.
+h) Merkezin amacı ile ilgili Yönetim Kurulunun kararlaştıracağı diğer faaliyetlerde bulunmak.
