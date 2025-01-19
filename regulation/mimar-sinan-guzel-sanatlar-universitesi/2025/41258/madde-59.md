@@ -1,0 +1,4 @@
+Ders başarı notlarının ilanı
+MADDE 59- (1) Ders başarı notları, dönem sonu sınavlarını veya bütünleme sınavlarını izleyen en geç beşinci günde ilgili öğretim elemanınca öğrenci bilgi sisteminde kesinleştirilir.
+(2) Atölye, proje, tasarım, tasarlama, planlama, çalıştay, sergi ve benzeri uygulamalı derslerde ve bütünlemesi olmayan derslerde başarı notları, bütünleme sınavlarının sonunu takip eden en geç beşinci günde ilgili öğretim elemanınca öğrenci bilgi sisteminde kesinleştirilir.
+(3) Sınav sonuçlarına ilişkin maddi hatanın dersin öğretim elemanı tarafından resen tespit edilmesi halinde bir sonraki dönemin açılışına kadar yazılı olarak maddi hata gerekçesi ile ilgili bölüm/program başkanlığına yazılı olarak başvurmak suretiyle ilgili yönetim kurulu kararı ile Öğrenci İşleri Daire Başkanlığınca düzeltilir.

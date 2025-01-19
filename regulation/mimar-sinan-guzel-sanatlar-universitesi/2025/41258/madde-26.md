@@ -1,0 +1,3 @@
+Uluslararası ortak lisans programı
+MADDE 26- (1) 6/10/2016 tarihli ve 29849 sayılı Resmî Gazete’de yayımlanan Yükseköğretim Kurumlarının Yurt Dışı Yükseköğretim Kurumlarıyla Ortak Eğitim Öğretim Programlarına Dair Yönetmelik ve ilgili diğer mevzuat hükümleri kapsamında, ilgili bölüm kurulunun gerekçeli önerisi, ilgili kurul kararı ve Senatonun teklifi ve Yükseköğretim Kurulu Başkanlığı onayı ile yurt dışındaki yükseköğretim kurumları ile ortak lisans programları açılabilir.
+(2) Uluslararası ortak lisans programlarının açılması, yürütülmesi ve geliştirilmesinde uygulanacak usul ve esaslar Senato tarafından belirlenir.

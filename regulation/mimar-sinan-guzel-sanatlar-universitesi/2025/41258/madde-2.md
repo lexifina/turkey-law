@@ -1,0 +1,2 @@
+Kapsam
+MADDE 2- (1) Bu Yönetmelik, Mimar Sinan Güzel Sanatlar Üniversitesine bağlı fakülteler, konservatuvar, yüksekokullar, meslek yüksekokulu ve Rektörlüğe bağlı akademik birimlerde yürütülen ön lisans ve lisans öğretim programlarına öğrenci kabulü, kayıt esasları, ilişik kesme, öğretimle ilgili esaslar, öğrenci yükümlülükleri, başarının ölçülmesi, sınavlar ve diğer işlemlere ilişkin hükümleri kapsar.

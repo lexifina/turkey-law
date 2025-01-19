@@ -1,0 +1,3 @@
+Ders başarı notuna itiraz
+MADDE 60- (1) Öğrenci, ders başarı notu girişlerinin son gününü izleyen yedi gün içinde, ilgili dekanlığa/müdürlüğe dilekçe ile başvurarak yalnızca maddi hata yönünden sınav evrakının incelenmesini isteyebilir. İnceleme sonucu, ilgili bölüm/program başkanlığı tarafından öğretim elemanının görüşü alınarak ilgili yönetim kurulunca karara bağlanır ve öğrenciye duyurulur.
+(2) Başarı notu değişikliği gerektiren ilgili yönetim kurulu kararı, öğrenci bilgi sisteminde gerekli not düzeltmesinin yapılması için akademik takvimde belirtilen ilgili dönemin, dönem kapatma tarihinden önce Öğrenci İşleri Dairesi Başkanlığına bildirilir. Akademik takvimde belirtilen süreler içinde yapılmayan başvurular kabul edilmez.

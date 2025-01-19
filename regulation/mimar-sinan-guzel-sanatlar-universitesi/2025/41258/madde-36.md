@@ -1,0 +1,6 @@
+Öğretim planları
+MADDE 36- (1) Üniversitenin öğretim programlarındaki eğitim ve öğretim faaliyetleri, ilgili mevzuat ile bölüm/program kurulunun gerekçeli önerisi, ilgili kurulun kararı ve Senato tarafından onaylanan öğretim planına göre yapılır.
+(2) Akademik takvimde belirtilen süreler içerisinde, ilgili bölüm/program kurulunun gerekçeli önerisi, ilgili kurulun kararı ve Senatonun onayı ile öğretim planlarına yeni ders konabilir veya mevcut ders kaldırılabilir. Öğretim planlarındaki dersler ilgili kurul kararı ile açık veya kapalı tutulabilir. Mevcut planlardaki derslerin kredileri, ders kodları, adları ve türlerindeki (zorunlu, ortak zorunlu, seçmeli veya serbest seçmeli) değişiklikler ilgili bölüm kurulunun gerekçeli önerisi, ilgili kurulun kararı ve Senatonun onayı ile gerçekleştirilir. Bu değişiklikler için intibak tablosu oluşturulur.
+(3) Ortak zorunlu dersler, zorunlu dersler ve seçmeli dersler ve bu derslerin varsa ön koşulları öğretim planlarında belirtilir. Serbest seçmeli dersin ön koşulu olmaz.
+(4) Öğretim planlarında, mezuniyet için alınması gereken toplam kredinin en az %25’i seçmeli ve serbest seçmeli derslerden oluşur.
+(5) Lisans programları için programın kendi ders kodu ile açtığı en az iki serbest seçmeli ders, ön lisans programları için en az bir serbest seçmeli ders öğretim planlarında yer alır.

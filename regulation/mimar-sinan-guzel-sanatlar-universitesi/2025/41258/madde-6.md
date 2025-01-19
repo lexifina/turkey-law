@@ -1,0 +1,3 @@
+Öğrenci kontenjan ve niteliklerinin belirlenmesi
+MADDE 6- (1) Öğrenci alınacak öğretim programlarının kontenjanları ilgili kurulların görüşü alınarak, Senatonun kararı ile Yükseköğretim Kurulu Başkanlığı tarafından belirlenir.
+(2) Yetenek sınavı ile öğrenci kabul edilen öğretim programlarının özelliklerine göre açılacak yetenek sınavlarının niteliği, yürütülmesi, yapılması, değerlendirilmesi ve sonuçlarının ilanına ilişkin usul ve esaslar programın niteliğine göre bilim/sanat dalı ve anabilim/anasanat dalı kurulu görüşü eklenerek ilgili bölüm kurulunun gerekçeli görüşü, ilgili kurul kararı ve Senatonun onayı ile belirlenen kılavuza göre düzenlenir.

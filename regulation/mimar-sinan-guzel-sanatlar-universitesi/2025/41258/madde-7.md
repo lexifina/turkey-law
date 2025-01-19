@@ -1,0 +1,6 @@
+Kayıt işlemleri ve kesin kayıt
+MADDE 7- (1) Kesin kayıt işlemleri, ÖSYM ve Senato tarafından belirlenen belgeler ve esaslara göre yapılır. Yetenek sınavı ile öğrenci kabul eden bölüm ve programlarda ilgili birimler, ÖSYM’nin belirlediği belgelere ek olarak yetenek sınavı kılavuzunda belirtilen belge ve bilgiler de isteyebilir.
+(2) Ön lisans veya lisans programlarına yerleştirilen veya yetenek sınavları sonuçlarına göre kabul edilen öğrencilerin kayıt işlemleri akademik takvimde belirtilen ilgili tarihlerde Öğrenci İşleri Daire Başkanlığı tarafından yapılır.
+(3) Üniversiteye kayıt yaptırmaya hak kazanan adaylar, kesin kayıt işlemlerini Üniversite tarafından yapılan duyuruda istenen evrakları ilan edilen koşullara göre yapar.
+(4) Akademik takvimde belirlenen ve duyurulan ilgili süreler içinde kesin kaydını yaptırmayan adaylar, öğrencilik haklarından vazgeçmiş sayılır.
+(5) Gerçeğe aykırı veya yanıltıcı beyan ve belgelerle Üniversiteye kayıt hakkı kazanmış olanların belirlenmesi halinde kayıtları yapılmaz, kayıt yaptırmış olanların ise bulundukları döneme bakılmaksızın kayıtları iptal edilir, kendilerine verilmiş olan diploma dâhil tüm belgeler geçersiz sayılır ve haklarında ilgili mevzuat hükümlerine göre yasal işlem başlatılır.

@@ -1,0 +1,4 @@
+Çift ana dal programı
+MADDE 25- (1) Öğrencilerin kayıtlı oldukları ön lisans diploma programları ile diğer ön lisans diploma programları arasında veya öğrencilerin kayıtlı oldukları lisans diploma programları ile başka diploma lisans programları veya ön lisans programları arasında çift ana dal programı açılabilir. Öğrenciler kendi diploma programına ek olarak çift ana dal diploma programına kayıt olur ve başarılı olmaları halinde bu programın da diplomasını alır.
+(2) Çift ana dal programının açılması, ilgili bölüm kurulunun gerekçeli önerisi, ilgili kurulun kararı ve Senatonun onayı ile belirlenir ve Senato tarafından onaylanan öğretim planı dâhilinde yürütülür.
+(3) Çift ana dal programı ile ilgili usul ve esaslar, ilgili mevzuat hükümleri çerçevesinde ilgili kurul tarafından önerilir ve Senato tarafından belirlenir.

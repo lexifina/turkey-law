@@ -1,0 +1,2 @@
+Öğrenci iş ve işlemleri
+MADDE 35- (1) Öğrencilerin kayıt, kayıt yenileme, devam, kayıt dondurma, ilişik kesme, nakil yolu ile kabul edilme, intibak, bölüm değiştirme, derse yazılma, yatay, dikey ve kurum içi geçişler, sınav, not ve benzeri iş ve işlemleri bölüm/program başkanlıklarının görüşü alınarak ilgili yönetim kurulu tarafından karara bağlanır ve Öğrenci İşleri Daire Başkanlığınca uygulanır.

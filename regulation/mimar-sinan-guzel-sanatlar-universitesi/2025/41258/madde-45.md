@@ -1,0 +1,3 @@
+Ders yükümlülüğü
+MADDE 45- (1) Yerine başka bir ders konulmadan öğretim planından kaldırılan zorunlu bir dersten başarısız olan öğrencilerin o dersten yükümlülüğü kalkar ve bu durumdaki öğrenciler mezuniyet için gerekli toplam krediyi seçmeli ders alarak tamamlar, serbest seçmeli ders alarak tamamlamaz.
+(2) Bir dersten EE veya FF notu alan ve bu dersi tekrar eden öğrenci Teori (T) kategorisindeki derslerde devam zorunluluğu hariç dersin tüm diğer ara sınav, ödev, proje, sunum ve benzeri yükümlülüklerini yerine getirmek zorundadır. Teori+Uygulama (T+U) ve/veya Uygulama (U) kategorisindeki derslerde ise dersin devamı da dâhil olmak üzere tüm diğer ara sınav, ödev, proje, sunum ve benzeri yükümlülüklerini yerine getirmek zorundadır.
