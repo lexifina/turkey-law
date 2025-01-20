@@ -1,0 +1,4 @@
+Ders muafiyeti
+MADDE 30 – (1) ÖSYM sınavına girerek Üniversitenin bir bölümüne/programına yerleştirilmiş olan, herhangi bir yükseköğretim kurumunda kayıtlı, mezun veya herhangi bir nedenle ayrılmış olan öğrenciler ders muafiyet talebinde bulunması halinde, eskiden okumuş olduğu derslerin hangilerinden muaf sayılabileceği bölüm veya program tarafından İstanbul Galata Üniversitesi Muafiyet ve İntibak Yönergesine göre değerlendirilerek fakülte/yüksekokul yönetim kurulunca karara bağlanır ve öğrencinin muafiyeti işlenir. Ancak kayıt olduğu programda her yıl kayıt yenilemek şartı ile lisans öğrencileri en az 6 yarıyıl, ön lisans öğrencileri en az 2 yarıyıl öğrenim görmek zorundadır.
+(2) Bu dersler başarı durum belgesindeki açıklama kısmında T işareti ile gösterilir ve ortalamaya katılır.
+(3) Ders muafiyet talebinde bulunan öğrenci fakülte/yüksekokul yönetim kurulunca muaf edilen derslerden kendi isteği ile muafiyetinin iptali yapılamaz.

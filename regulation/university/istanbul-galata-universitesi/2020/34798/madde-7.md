@@ -1,0 +1,4 @@
+Kesin kayıt
+MADDE 7 – (Değişik:RG-30/9/2024-32678)
+(1) Üniversiteye kesin kayıt yaptırmaya hak kazanan öğrenci adayları, YÖK ve Üniversite Yönetim Kurulu tarafından belirlenen esaslara göre ilan edilen süreler içinde, ÖSYM ve Üniversite tarafından belirlenip duyurulan belgeler ile Öğrenci İşleri Daire Başkanlığına bizzat başvururlar. Kendisinin başvurması mümkün olmayan durumdaki öğrenci adayları, noter onaylı vekâletname ile kayıt yaptırabilirler. Posta ile gönderilen belgeler kabul edilmez ve kayıt yapılmaz.
+(2) Eksik veya yeterli olmayan belgelerle kayıt yapılmaz. İstenen belgelerin aslı veya Öğrenci İşleri Daire Başkanlığı tarafından onaylı örneği kabul edilir. Askerlik durumunda adayın evrak beyanına dayanılarak işlem yapılır. Yalan beyan veya sahte belge durumunda, 2547 sayılı Kanunun 54 üncü maddesi hükümlerince öğrencinin kaydı silinir. Belirlenen tarihler arasında kesin kaydını yaptırmayan adaylar herhangi bir hak iddia edemezler.
