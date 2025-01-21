@@ -1,0 +1,8 @@
+Yeşil Lojistik Belgesinin alınması
+MADDE 9- (1) Yeşil Lojistik Belgesi, süresiz olarak düzenlenen ücretsiz bir belgedir.
+(2) Başvurular her yılın Ocak ayı içerisinde yapılır. Bu takvim haricinde yapılan başvurular değerlendirmeye alınmaz.
+(3) (Değişik:RG-21/1/2025-32789) Yeşil Lojistik Belgesi başvuruları sadece Bakanlık KEP adresi üzerinden kabul edilir. Başvuru dilekçesinin ekindeki dokümanlar KEP adresi üzerinden gönderilebileceği gibi başvuru dilekçesinde bağlantı adresi belirtilecek herhangi bir bulut uygulaması veya Bakanlığın belirleyeceği bir elektronik platform üzerinden de gönderilebilir. Bakanlık, uygun görmesi halinde işletme tarafından kullanılan bulut uygulamasının değiştirilmesini isteyebilir.
+(4) (Değişik:RG-21/1/2025-32789) Yeşil Lojistik Belgesi başvurularına ilişkin incelemeler, Bakanlıkça en geç 90 gün içerisinde sonuçlandırılır. İncelemeler, sunulan belgeler üzerinden gıyaben yapılabileceği gibi gerekli görülmesi halinde yerinde yapılacak denetimlerle de yapılabilir.
+(5) (Değişik:RG-21/1/2025-32789) Başvuru belgelerinde herhangi bir eksiklik olması durumunda bu eksikliklerin giderilmesi için işletmeye azami inceleme süresini aşmayacak şekilde 30 güne kadar süre verilir. Bu süre içerisinde bahse konu noksanlıkların tek seferde giderilmemesi halinde söz konusu eksiklikler tamamlatılmaz ve başvuru değerlendirmeye alınmaz.
+(6) Yapılan müracaat neticesinde Yeşil Lojistik Belgesi, (Değişik ibare:RG-21/1/2025-32789) Bakanlıkça belirlenen formatta elektronik belge olarak düzenlenir.
+(7) Yeşil Lojistik Belgesi alan işletmelerin listesi (Değişik ibare:RG-21/1/2025-32789) Bakanlık tarafından ilan edilir.
