@@ -1,0 +1,17 @@
+{
+  "kind": "decision",
+  "issuer": "Sayıştay 3. Dairesi",
+  "number": "523",
+  "decision_date": "2025-01-21",
+  "source_id": 39556,
+  "chamber": "3",
+  "ilam_number": "81",
+  "item_number": 3,
+  "public_body_type": "Yüksek Öğretim Kurumları",
+  "account_year": 2023,
+  "subject": "İhale Mevzuatı ile İlgili Kararlar",
+  "source": "https://www.sayistay.gov.tr/KararlarDaire/Detay/39556/",
+  "source_sha256": "e56912d0f5a147eae9fb1e3f44b692c2430fd3081cc9538ae84caec6b2c827d0",
+  "text_status": "as-enacted",
+  "text_file": "metin.md"
+}
