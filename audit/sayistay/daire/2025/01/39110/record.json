@@ -1,0 +1,17 @@
+{
+  "kind": "decision",
+  "issuer": "Sayıştay 2. Dairesi",
+  "number": "35811",
+  "decision_date": "2025-01-21",
+  "source_id": 39110,
+  "chamber": "2",
+  "ilam_number": "45",
+  "item_number": 4,
+  "public_body_type": "Belediyeler ve Bağlı İdareler",
+  "account_year": 2023,
+  "subject": "İhale Mevzuatı ile İlgili Kararlar",
+  "source": "https://www.sayistay.gov.tr/KararlarDaire/Detay/39110/",
+  "source_sha256": "7282db8e50e7bcf0d56ed3c8d8ac9472e404f8f436731c1a905d2920e65d3626",
+  "text_status": "as-enacted",
+  "text_file": "metin.md"
+}
