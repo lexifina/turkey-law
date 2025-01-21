@@ -1,0 +1,17 @@
+{
+  "kind": "decision",
+  "issuer": "Sayıştay 3. Dairesi",
+  "number": "523",
+  "decision_date": "2025-01-21",
+  "source_id": 39593,
+  "chamber": "3",
+  "ilam_number": "81",
+  "item_number": 21,
+  "public_body_type": "Yüksek Öğretim Kurumları",
+  "account_year": 2023,
+  "subject": "Çeşitli Konuları İlgilendiren Kararlar",
+  "source": "https://www.sayistay.gov.tr/KararlarDaire/Detay/39593/",
+  "source_sha256": "1b1e3aefc0e1aeb89058d9e3193bb46975bc07ea3a959e773e309f37e4c05291",
+  "text_status": "metadata-only",
+  "metadata_only_reason": "possible personal name in the official text"
+}
