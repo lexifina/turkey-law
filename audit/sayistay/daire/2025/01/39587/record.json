@@ -1,0 +1,17 @@
+{
+  "kind": "decision",
+  "issuer": "Sayıştay 3. Dairesi",
+  "number": "523",
+  "decision_date": "2025-01-21",
+  "source_id": 39587,
+  "chamber": "3",
+  "ilam_number": "81",
+  "item_number": 17,
+  "public_body_type": "Belediyeler ve Bağlı İdareler",
+  "account_year": 2023,
+  "subject": "Çeşitli Konuları İlgilendiren Kararlar",
+  "source": "https://www.sayistay.gov.tr/KararlarDaire/Detay/39587/",
+  "source_sha256": "564a3e88f9aadbdb2bc03f1768a08313ed95a401dc6891c7099f00cde15ad73e",
+  "text_status": "metadata-only",
+  "metadata_only_reason": "possible personal name in the official text"
+}
