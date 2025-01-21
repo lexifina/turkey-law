@@ -1,0 +1,19 @@
+Revize Birim Fiyat
+
+… tarihinde … Anonim Şirketi ile sözleşmesi imzalanan, … TL sözleşme bedelli ve … ihale kayıt numaralı “… Yapım İşi”nde, imalat miktarı mevzuatta belirtilen oranın üzerinde artan imalat kalemleri için uygulanan revize birim fiyatın, resmi analiz ve rayiçler kullanılarak hesaplanan birim fiyattan fazla olduğu görülmüştür.
+
+İşe ait sözleşmenin “Sözleşmede bulunmayan veya fiyatı belli olmayan işlere ait birim fiyat tespiti ile iş kalemi miktarının değişmesi” başlıklı 28’inci maddesinde; sözleşmede yer alan ya da yeni fiyatla sözleşmeye dâhil olan iş kaleminin miktarında, işin devamı sırasında sözleşmesinde yer alan iş kalemi için sözleşmede belirtilen iş kalemi miktarında; yeni fiyatla sözleşmeye dâhil edilen iş kalemi için ise yeni fiyat oluşturulurken projesine göre tespit edilip idare tarafından onaylanan iş kalemi miktarında %20’yi aşan artış meydana gelmesi ve bu artışın aynı zamanda sözleşme bedelinin %1’ini aşması durumunda, söz konusu artışın sözleşme bedeli içindeki payı nispetinde ilgili iş kalemine ait birim fiyatın aşağıdaki formüle göre revize edileceği ve bu iş kaleminin %20’sini aşan kısmına revize birim fiyat üzerinden ödeme yapılacağı; hesaplanan revize birim fiyatın, o iş kalemine ait resmi analiz ve rayiçler de kullanılarak (%25 oranındaki kar ve genel gider dahil) hesaplanan birim fiyatı geçemeyeceği ifade edilmiştir.
+
+Sözleşmenin “Fiyat farkı ödenmesi ve hesaplanması şartları” başlıklı 14’üncü maddesinde ise fiyat farkı verileceği ifade edilmiş, aynı maddenin devamında ise fiyat farkı hesabında kullanılacak endeks ve katsayılar belirlenmiştir.
+
+Sözleşme hükümlerinden; herhangi bir iş kaleminin miktarında işin devamı sırasında %20’yi aşan artışın meydana gelmesi ve bu artışın aynı zamanda sözleşme bedelinin %1’ini aşması durumunda ilgili iş kalemine ait birim fiyatın formüle göre revize edilmesi, revize edilen birim fiyatın o iş kalemine ait resmi analiz ve rayiçler kullanılarak hesaplanan birim fiyatı geçemeyeceği anlaşılmaktadır. Ayrıca iş kapsamında fiyat farkı verildiği için revize birim fiyat hesabında üst sınır olarak kullanılacak fiyatın, ihale tarihi itibarıyla geçerli olan ve resmi analiz ve rayiçler kullanılarak hesaplanan birim fiyat olması gerekmektedir.
+
+Yapılan incelemede, sözleşme eki birim fiyat cetvelinde yer alan“…” ve  “…” imalat kalemlerinin gerçekleşme miktarında %20’den fazla artış olması ve bu artışın sözleşme bedelinin %1’ini geçmesi nedeniyle imalat kalemleri için revize birim fiyat hesaplandığı, hesaplanan revize birim fiyatın yaklaşık maliyet cetvelinde yer alan fiyatlar ile karşılaştırıldığı ve yaklaşık maliyet cetvelinde yer alan fiyatların daha düşük olması sebebiyle bu fiyatların revize fiyat olarak uygulandığı, uygulanan bu fiyatın da söz konusu imalat kalemleri için resmi analiz ve rayiçler kullanılmak suretiyle hesaplanan birim fiyatların üzerinde olduğu tespit edilmiştir.
+
+5018 sayılı Kamu Mali Yönetimi ve Kontrol Kanunu’nun “Kamu zararı” başlıklı 7’inci maddesinin ikinci fıkrasının (d) bendinde yer alan  "İş, mal veya hizmetin rayiç bedelinden daha yüksek fiyatla alınması veya yaptırılması"  hükmü gereği, belirlenen revize birim fiyatın, resmi analiz ve rayiçler kullanılarak hesaplanan birim fiyattan fazla olması kamu zararı oluşturmaktadır.
+
+Bununla birlikte sorumluların savunmaları ile ekindeki belgelerin incelenmesi sonucunda, oluşan toplam … TL kamu zararının … tarih ve … no.lu muhasebe işlem fişi ile tahsil edildiği görülmüştür.
+
+Bu itibarla, … ihale kayıt numaralı “… Yapım İşi”nde, mevzuata aykırı olarak artırımlı fiyat farkı ödenmesi sonucu oluşan toplam … TL kamu zararının tahsil edildiği anlaşıldığından ilişilecek bir husus kalmadığına,
+
+İşbu ilamın tebliğinden itibaren altmış gün içerisinde 6085 sayılı Sayıştay Kanununun 55’inci maddesi uyarınca Sayıştay Temyiz Kurulu nezdinde temyiz yolu açık olmak üzere oy birliğiyle,
