@@ -1,0 +1,5 @@
+Uygunluk belgesi ve Levhaya kayıt
+MADDE 10 – (1) Levhaya kayıt olunmadan acentelik faaliyetinde bulunulamaz. Sigorta acenteliği yapacak gerçek veya tüzel kişilerin Levhaya kayıt öncesinde (Değişik ibare:RG-22/1/2025-32790) Kurumdan uygunluk belgesi almaları gerekir.
+(2) (Değişik:RG-16/1/2016-29595)(1) Uygunluk belgesi başvurusu TOBB tarafından görevlendirilecek odalara yapılır. Başvurularda, İcra Komitesi tarafından belirlenen ve bu Yönetmelikte aranan şartları tevsik edici belgeler aranır.
+(3) (Değişik:RG-22/1/2025-32790) Belgeleri tamamlanmış olan acentelerin başvuruları TOBB tarafından değerlendirilerek elektronik ortamda Kurum onayına sunulur. Kurumca durumu uygun görülenler Levhaya kaydedilmek üzere TOBB’a bildirilir. Bu bildirim, bildirime konu acenteler bakımından uygunluk belgesi niteliğindedir. Uygunluk belgesi alan acenteler, Levhaya kayıt olmak için en geç altı ay içinde TOBB’a başvuruda bulunur.
+(4) Levhaya kayıtlı olan acenteler TOBB internet sitesinde duyurulur. Bu kapsamda yer alacak bilgiler (Değişik ibare:RG-22/1/2025-32790) Kurumun uygun görüşüyle TOBB tarafından belirlenir.

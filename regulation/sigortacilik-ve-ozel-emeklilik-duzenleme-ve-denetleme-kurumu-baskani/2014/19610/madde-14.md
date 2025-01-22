@@ -1,0 +1,7 @@
+ÜÇÜNCÜ BÖLÜM
+Faaliyete İlişkin Hükümler
+Acentelik yetkilerinin verilmesi
+MADDE 14 – (1) Acentelik yetkisi sigorta şirketlerince hususi bir vekâletnameyle verilir. Bu yetkiler acenteler tarafından başka acentelere veya kişilere devredilmez. Acentelik yetkisi verilen vekâletnamelerde faaliyette bulunulacak sigorta dalları ve bu dallar kapsamında tanınacak yetkiler belirtilir. Vekâletnameler usulü dairesinde tescil ve ilan ettirilir. Acentelik yetkilerinin kapsam ve sınırında yapılacak değişiklikler ile bu yetkilerin kısmen veya tamamen kaldırılması da aynı merasime tabidir.
+(2) Sigorta şirketleri, birinci fıkrada belirtilen hususları, tescil ve ilanı müteakip onbeş iş günü içinde, Levhaya işlenmek üzere TOBB’a bildirir. Sigorta şirketleri tarafından acentelik yetkisi verilen Levhaya kayıtlı acenteler, bu yetkinin kapsam ve sınırı belirtilmek suretiyle elektronik ortama işlenir. Bu konulardaki gerekli bilgi işlem programı TOBB tarafından oluşturulur.
+(3) Sigorta şirketleri tarafından Levha kaydı bulunmayanlara acentelik yetkisi verilmez ve bunlarla acentelik sözleşmesi yapılamaz. Acentelik sözleşmesinin tesciline ilişkin işlemlerde Levha kaydı görülmeden kayıt yapılmaz.
+(4) Levha kaydını takip eden altı ay içinde en az bir sigorta şirketiyle acentelik sözleşmesinin yapılarak poliçe düzenlemeye başlanmış olması, Kanunun 23 üncü maddesinin dördüncü fıkrasının (c) bendi uygulamasında acentelerin faaliyete geçtiğinin göstergesi olarak değerlendirilir.

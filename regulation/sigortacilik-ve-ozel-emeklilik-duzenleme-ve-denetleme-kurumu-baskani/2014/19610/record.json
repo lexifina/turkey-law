@@ -1,0 +1,81 @@
+{
+  "source_id": "7.5.19610",
+  "kind": "regulation",
+  "register_kind": "Kurum ve Kuruluş Yönetmelikleri",
+  "title": "SİGORTA ACENTELERİ YÖNETMELİĞİ",
+  "number": "19610",
+  "issuer": "Sigortacılık ve Özel Emeklilik Düzenleme ve Denetleme Kurumu Başkanı",
+  "issuer_slug": "sigortacilik-ve-ozel-emeklilik-duzenleme-ve-denetleme-kurumu-baskani",
+  "path": "regulation/sigortacilik-ve-ozel-emeklilik-duzenleme-ve-denetleme-kurumu-baskani/2014/19610",
+  "source": "https://www.mevzuat.gov.tr/anasayfa/MevzuatFihristDetayIframe?MevzuatTur=7&MevzuatNo=19610&MevzuatTertip=5",
+  "source_sha256": "be145dfdae3e1a9c07ae0c5c48071c433ffdd7203b6f849dfcfee131fb86556c",
+  "source_bytes": 59273,
+  "published": "2014-04-22",
+  "gazette": "28980",
+  "in_force": "2025-01-22",
+  "in_force_basis": "latest Resmî Gazete date printed in the source amendment notes/table (\"RG-22/1/2025\") for the current consolidated text",
+  "date_evidence": [
+    [
+      "2025-01-22",
+      "RG-22/1/2025",
+      "Resmî Gazete date printed in the source amendment note"
+    ],
+    [
+      "2025-01-22",
+      "22/1/2025",
+      "Resmî Gazete date in the source amendment table"
+    ],
+    [
+      "2016-06-09",
+      "9/6/2016",
+      "Resmî Gazete date in the source amendment table"
+    ],
+    [
+      "2016-01-16",
+      "RG-16/1/2016",
+      "Resmî Gazete date printed in the source amendment note"
+    ],
+    [
+      "2016-01-16",
+      "16/1/2016",
+      "Resmî Gazete date in the source amendment table"
+    ],
+    [
+      "2014-12-30",
+      "RG-30/12/2014",
+      "Resmî Gazete date printed in the source amendment note"
+    ],
+    [
+      "2014-12-30",
+      "30/12/2014",
+      "Resmî Gazete date in the source amendment table"
+    ],
+    [
+      "2014-10-11",
+      "RG-11/10/2014",
+      "Resmî Gazete date printed in the source amendment note"
+    ],
+    [
+      "2014-10-11",
+      "11/10/2014",
+      "Resmî Gazete date in the source amendment table"
+    ]
+  ],
+  "commencement_clauses": [
+    "Bu Yönetmelik hükümleri çerçevesinde İcra Komitesi tarafından hazırlanan genel düzenleyici işlemler, bu Yönetmeliğin yayımından itibaren 6 ay sonra yürürlüğe girer"
+  ],
+  "history": "current-text",
+  "label": "oldest version available",
+  "checked_on": "2026-11-15",
+  "word_count": 3581,
+  "text_status": "current-consolidated",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  },
+  "source_links": [
+    "7.5.19610-Ek.zip"
+  ],
+  "completeness": "html-text-complete; linked annexes not fetched"
+}
