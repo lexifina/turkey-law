@@ -1,0 +1,3 @@
+Ücret
+MADDE 13- (1) Kurul üyelerine bir ayda dört toplantıyı geçmemek üzere, görev yapılan her gün için uhdesinde kamu görevi bulunanlar bakımından (5.000), bulunmayanlar bakımından (6.000) gösterge rakamının Devlet memuruna uygulanan aylık katsayıyla çarpımı sonucunda bulunulacak miktarı geçmemek üzere huzur ücreti ödenir.
+(2) Kurul tarafından görevlendirilen bilirkişi ve uzmanlar için 3/11/2016 tarihli ve 6754 sayılı Bilirkişilik Kanununun 6 ncı maddesine göre yürürlüğe konulan ilgili yılın Bilirkişilik Asgari Ücret Tarifesinde yer alan tutarlar dahilinde belirlenen ücretler, ilgili mevzuat kapsamında Bakanlık tarafından karşılanır.
