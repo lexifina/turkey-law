@@ -1,0 +1,17 @@
+{
+  "kind": "decision",
+  "issuer": "Sayıştay 7. Dairesi",
+  "number": "643",
+  "decision_date": "2025-01-23",
+  "source_id": 39317,
+  "chamber": "7",
+  "ilam_number": "48",
+  "item_number": 1,
+  "public_body_type": "Yüksek Öğretim Kurumları",
+  "account_year": 2023,
+  "subject": "İhale Mevzuatı ile İlgili Kararlar",
+  "source": "https://www.sayistay.gov.tr/KararlarDaire/Detay/39317/",
+  "source_sha256": "e592611da78e775e659cfcdacb0e9eba2221a43a29eee9cba0e3b7e12e655ddb",
+  "text_status": "as-enacted",
+  "text_file": "metin.md"
+}
