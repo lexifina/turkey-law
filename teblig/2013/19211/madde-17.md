@@ -1,0 +1,8 @@
+Finansal raporların bağımsız denetimi
+MADDE 17 – (1) (Değişik fıkra:RG-26/2/2016-29636) Fonların yıllık finansal tabloları bağımsız denetime tabidir. Şu kadar ki bir hesap dönemi içinde bir kereden fazla katılma payı fiyatı açıklayan girişim sermayesi yatırım fonları ve gayrimenkul yatırım fonlarının altı aylık ara dönem finansal tabloları ayrıca incelemeye (sınırlı bağımsız denetim) tabidir. Bu Tebliğ uyarınca hazırlanacak finansal tabloların bağımsız denetiminde Kurulun bağımsız denetimle ilgili düzenlemelerine uyulur.
+(2) (Değişik fıkra:RG-26/2/2016-29636) Finansal tablo hazırlama yükümlülüğünün bulunduğu dönemler itibarıyla hazırlanacak portföy raporları da finansal tablolarla birlikte bağımsız denetimden/incelemeden geçirilir.
+(3) Fonlar tasfiye tarihi itibarıyla, garantili ve koruma amaçlı fonlar ise, yatırım dönemi sonu itibarıyla özel bağımsız denetime tabidir.
+(4) Garantili ve koruma amaçlı fonlarda, bağımsız denetim yapılan dönemlerde aşağıdaki her bir bent için ilgili bilgileri ve bağımsız denetçi görüşünü içeren ayrı birer rapor hazırlanır ve bağımsız denetim raporu ile birlikte Kurula gönderilir:
+a) Fon portföylerindeki varlıkların Kurulca belirlenen esaslara uygun olarak saklanıp saklanmadığı,
+b) Borsa dışında taraf olunan sözleşmelerin Kurulca belirlenen niteliklere uygunluğunun sağlanması için fon izahnamelerinde/ihraç belgelerinde belirtilen yöntemlerin uygulanıp uygulanmadığının tespiti de dahil olmak üzere, birim pay değerinin mevzuata ve Tebliğin 9 uncu maddesinde belirtilen değerleme ilkelerine uygun olarak hesaplanıp hesaplanmadığı,
+c) Risk kontrol sistemini de içeren iç kontrol sisteminin mevzuatta belirtilen asgari esas ve usulleri içerip içermediği.

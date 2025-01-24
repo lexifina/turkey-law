@@ -1,0 +1,3 @@
+Belgelerin saklanması ve saklama süresi
+MADDE 16 – (1) Fonlar, muhasebe kayıtlarının geçerliliği için VUK ve TTK’da öngörülen belgeleri temin ederek söz konusu mevzuatta öngörülen süreler boyunca saklarlar. Ancak, finansal tabloların bu Tebliğ uyarınca hazırlandığı durumlarda fonlar, ilgili mevzuatta istenmese dahi, bu Tebliğ uyarınca hazırlanacak finansal tablo kalemlerinin geçerliliği için gerekli olan belgeleri temin etmek ve bunları TTK’da öngörülen süre boyunca saklamak zorundadırlar.
+(2) Kurucu tarafından, birinci fıkrada belirtilen belgelerde yer alan bilgilerin değiştirilmemesi ve muhafaza edilmesi konusunda gerekli önlemler alınır.

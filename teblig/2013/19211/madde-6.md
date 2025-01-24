@@ -1,0 +1,5 @@
+Finansal rapor düzenleme yükümlülüğü
+MADDE 6 – (1) (Değişik fıkra:RG-26/2/2016-29636) Fonlar, bu Tebliğde yer verilen esaslara uygun olarak yıllık finansal tablo düzenlemekle yükümlüdürler. Şu kadar ki bir hesap dönemi içerisinde bir kereden fazla katılma payı fiyatı açıklayan gayrimenkul yatırım fonları ve girişim sermayesi yatırım fonları altı aylık ara dönem finansal tablo düzenlemekle de yükümlüdür.
+(2) Fonlar, bu Tebliğde yer verilen esaslara uygun olarak fiyat raporlarını günlük; portföy dağılım tablolarını ise aylık olarak hazırlamakla yükümlüdürler.
+(3) İlgili mevzuat hükümleri saklı kalmak kaydıyla, fiyat raporları günlük fiyat açıklama zorunluluğu bulunmayan fonlar için katılma payı fiyatı açıklama dönemlerinde düzenlenir.
+(4) (Ek fıkra:RG-26/2/2016-29636) Konsolide finansal tablo hazırlama yükümlülüğü bulunan girişim sermayesi yatırım fonları ve gayrimenkul yatırım fonları finansal tablo düzenleme dönemlerinde konsolide finansal tabloları ile birlikte konsolide olmayan/bireysel finansal tablolarını da hazırlamakla yükümlüdür.
