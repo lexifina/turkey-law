@@ -1,0 +1,2 @@
+Merkez danışma kurulu
+MADDE 12 – (1) Merkez Danışma Kurulu; Merkez Yönetim Kurulu tarafından önerilen ve Rektör tarafından görevlendirilen, konu ile ilgili Üniversite öğretim üyeleri ile istekleri halinde resmi veya özel sektör kurum ve kuruluşlardaki konuyla ilgili uzman kişilerden olmak üzere toplam yedi kişiden oluşur. Merkez Danışma Kurulu, yılda en az bir kere toplanarak, Merkezin çalışmaları konusunda Merkez görüşlerini bildirir ve yeni çalışma alanları üzerinde Merkez Yönetim Kuruluna önerilerde bulunur.

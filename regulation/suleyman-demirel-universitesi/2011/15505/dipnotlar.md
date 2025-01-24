@@ -1,0 +1,1 @@
+[1] 24/1/2025 tarihli ve 32792 sayılı Resmî Gazete’de yayımlanan değişiklik ile bu Yönetmeliğin adı “Süleyman Demirel Üniversitesi Motorlu Taşıtlar Uygulama ve Araştırma Merkezi Yönetmeliği” iken metne işlendiği şekilde değiştirilmiştir.
