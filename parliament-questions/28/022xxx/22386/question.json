@@ -1,0 +1,21 @@
+{
+  "record_type": "parliament-written-question",
+  "term": 28,
+  "legislative_year": 3,
+  "esas_no": "7/22386",
+  "submitted": "2025-01-24",
+  "submitted_as": "Başkanlığa geliş tarihi",
+  "mp": "Nejla DEMİR",
+  "province": "Ağrı",
+  "summary": "Kırşehir Yüksek Güvenlikli Kapalı Cezaevinde bulunan bir mahkumun sağlık durumuna ilişkin",
+  "status": "Süresi Geçtikten Sonra Cevaplandı",
+  "status_as_of": "2026-11-16",
+  "official_record": "https://www.tbmm.gov.tr/Denetim/Yazili-Soru-Onergesi-Detay/274b7cca-bea3-4a0b-986d-0194a6f6faeb",
+  "source": "https://tbmm.gov.tr/Denetim/YaziliSoruOnergesiTable",
+  "source_form": "https://tbmm.gov.tr/Denetim/Yazili-Soru-Onergeleri",
+  "source_sha256": "646ab6f8b3ec1a46a79116ecf9e1a2350362eb9c7b671ad1e7af9455b2faf7e1",
+  "in_force": "2025-01-24",
+  "in_force_basis": "Date the question reached the Speaker (Başkanlığa geliş tarihi) in the official TBMM written-question record; parliamentary oversight record, not law",
+  "history_type": "metadata",
+  "text_status": "metadata-only: question text, addressee and answers are in the linked official record (PDFs on cdn.tbmm.gov.tr); not transcribed here"
+}
