@@ -1,0 +1,4 @@
+Kayıt yenileme
+MADDE 18 – (Değişik:RG-25/2/2016-29635)
+(1) Öğrenciler her yarıyılın başlangıcında akademik takvimde belirtilen süre içinde öğrenci katkı payını veya öğretim ücretini ödemek koşuluyla ders kayıtlarını yenilemek zorundadırlar. Kayıt yenileme işlemlerinin sorumluluğu öğrenciye aittir. Belirtilen sürede, haklı ve geçerli nedenleri olmadan kayıtlarını yenilemeyen öğrenciler, o dönemin derslerini alamazlar. Akademik takvimde belirtilen süre içerisinde ders kaydını yapamayan öğrenciler, 32 nci maddede öngörülen haklı ve geçerli sayılabilecek mazeretlerini belgelendirerek yarıyılın ilk on iş günü içinde başvururlar. İlgili yönetim kurulu, başvuruları beş iş günü içerisinde değerlendirerek sonuca bağlar. Mazereti kabul edilenler beş iş günü içinde kayıt yapmak zorundadırlar. Belirtilen süreler dışında yapılan başvurular kabul edilmez ve değerlendirmeye alınmaz.
+(2) Öğrencilerin kayıtlarını yenilemedikleri dönemler öğretim süresinden sayılır.

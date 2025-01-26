@@ -1,0 +1,2 @@
+Öğrenci katkı payları ve öğrenim ücretleri
+MADDE 34 – (1) Öğrenciler her eğitim-öğretim yılında, 2547 sayılı Kanunun 46 ncı maddesi ve ilgili diğer mevzuat hükümlerine göre belirlenen katkı payını/öğrenim ücretini akademik takvimde belirlenen sürede ödemekle yükümlüdür. Katkı payını/öğrenim ücretini ödemeyen öğrencinin o dönem için kayıt ve kayıt yenileme işlemleri yapılmaz ve bu öğrenciler öğrencilik haklarından yararlanamazlar.

@@ -1,0 +1,3 @@
+Mezuniyet
+MADDE 35 – (Değişik:RG-18/6/2018-30452)
+(1) Öğrencilerin kayıtlı olduğu bölüm veya programın öğretim planındaki bütün ders, uygulama ve çalışmalardan başarılı olmaları şarttır. Eğitim-öğretim süresi 6 yıllık fakültelerde en az 360 AKTS, 5 yıllık fakültelerde en az 300 AKTS, 4 yıllık fakülte ve yüksekokullarda en az 240 AKTS, 2 yıllık meslek yüksekokullarında en az 120 AKTS kredisini tamamlayarak en az 2.00 GNO’ya sahip olan bir öğrenci mezun olma hakkını kazanmış sayılır. Mezun olma hakkını kazanmış öğrencilere 36 ncı madde hükümlerine göre diploma verilir. GNO aynı zamanda mezuniyet not ortalamasıdır.

@@ -1,0 +1,2 @@
+Genel not ortalamasının yükseltilmesi
+MADDE 30 – (1) GNO’sunu yükseltmek isteyen öğrenciler daha önce aldıkları ve başarılı oldukları dersleri o derslerin verildiği yarıyılda tekrarlayabilirler. Ancak bu durumda, öğrencilerin almak istedikleri bu derse kayıt yaptırmaları şarttır. Başarılı dersin tekrarında devam şartı aranmaz. GNO hesabında, tekrarlanan dersten alınan en son not geçerlidir. Not yükseltmek için yeniden alınan bu derslerde öğrenciler dersi ikinci kez alıyormuş gibi işlem görür.

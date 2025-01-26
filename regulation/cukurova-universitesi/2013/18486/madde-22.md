@@ -1,0 +1,4 @@
+Devam mecburiyeti
+MADDE 22 – (1) Öğrencilerin teorik derslere en az % 70, uygulamalara en az % 80 oranında devamları zorunludur. Ancak, bir dersin devam ve varsa uygulamalarında başarılı olma şartlarını bir kez yerine getiren öğrencilerden bu dersi tekrar almaları durumunda derse devam koşulu aranmaz. Bu durumdaki öğrencilerin tekrar aldıkları bir dersin yapılacak ara sınavlarına katılmaları gerekir. Tekrar edilen dersin başarı notu hesaplanırken o yarıyıldaki ara sınav notları dikkate alınır.
+(2) Tıp ve Diş Hekimliği Fakülteleri ile Devlet Konservatuvarında devam mecburiyeti ilgili birimce belirlenen esaslara göre uygulanır.
+(3) (Ek:RG-18/6/2018-30452) Eğitimin niteliğine bağlı olarak dersin uygulama eğitimlerinde ve stajlarında, öğrenim hedeflerini karşılayabilmek amacıyla öğrencilerin devam koşulları, ilgili birimin yetkili kurullarının kararı ile belirlenebilir.

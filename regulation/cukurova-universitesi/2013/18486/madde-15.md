@@ -1,0 +1,5 @@
+Yatay geçişler
+MADDE 15 – (1) Üniversiteye başka üniversitelerden yapılacak yatay geçişler, 24/4/2010 tarihli ve 27561 sayılı Resmî Gazete’de yayımlanan Yükseköğretim Kurumlarında Önlisans ve Lisans Düzeyindeki Programlar Arasında Geçiş, Çift Anadal, Yan Dal ile Kurumlar Arası Kredi Transferi Yapılması Esaslarına İlişkin Yönetmelik hükümlerine göre düzenlenir.
+(2) Yatay geçiş kontenjanları; birim yönetim kurullarınca belirlenerek, Mayıs ayı sonuna kadar ilan edilmek üzere Rektörlüğe bildirilir. Kurumlar arası yatay geçiş kontenjanları Yükseköğretim Kurumlarında Önlisans ve Lisans Düzeyindeki Programlar Arasında Geçiş, Çift Anadal, Yan Dal ile Kurumlar Arası Kredi Transferi Yapılması Esaslarına İlişkin Yönetmelik hükümlerine göre (Değişik ibare:RG-26/1/2025-32794) belirlenir.
+(3) Yabancı dilde eğitim-öğretim yapılan programlara yatay geçiş yapılabilmesi için öğrencinin YADYO yabancı dil muafiyet koşullarını yerine getirmiş olduğunu belgelendirmesi gerekir.
+(4) Üniversiteye bağlı birim ve bölümler arası yatay geçiş esasları Senato tarafından düzenlenir.

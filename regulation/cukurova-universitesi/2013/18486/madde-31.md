@@ -1,0 +1,5 @@
+Sınav sonuçlarının ilanı ve itiraz
+MADDE 31 – (1) Başarı notu yarıyıl veya yılsonu sınavlarının bitiş tarihinden en geç bir hafta sonra elektronik ortamda ilan edilir.
+(2) Sınav sonuçları, maddi hata durumunun belirlenmesi dışında değiştirilemez. Öğrenciler veya öğretim elemanları maddi hata konusunda, sınav sonuçlarının ilanından itibaren en geç beş iş günü içerisinde bağlı bulundukları ilgili birime yazılı olarak başvurabilirler. İlgili öğretim elemanınca sınav evrakının incelenmesi sonucunda maddi hata tespit edilirse, bu hata ilgili bölüm/program başkanlığının da görüşü alınarak ilgili yönetim kurulunca alınan karar doğrultusunda Öğrenci İşleri Daire Başkanlığı tarafından sonuç düzeltilerek elektronik ortamda yeniden ilan edilir. Maddi hata olmadığı anlaşılırsa, durum ilgilinin dilekçesine işlenir ve kendisine bildirilir. Belirtilen süreler dışında yapılan itirazlar kabul edilmez ve değerlendirmeye alınmaz.
+ALTINCI BÖLÜM
+Mazeretler, İzinli Sayılma, Öğrenci Katkı Payı ve Öğrenim Ücreti, Mezuniyet,
