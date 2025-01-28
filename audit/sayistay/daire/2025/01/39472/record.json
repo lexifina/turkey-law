@@ -1,0 +1,17 @@
+{
+  "kind": "decision",
+  "issuer": "Sayıştay 4. Dairesi",
+  "number": "342",
+  "decision_date": "2025-01-28",
+  "source_id": 39472,
+  "chamber": "4",
+  "ilam_number": "70",
+  "item_number": 7,
+  "public_body_type": "Diğer",
+  "account_year": 2023,
+  "subject": "İhale Mevzuatı ile İlgili Kararlar",
+  "source": "https://www.sayistay.gov.tr/KararlarDaire/Detay/39472/",
+  "source_sha256": "ce9c90c69c150e7a9b2837a6b5c9304edd0710ef39c32612a0a19e110614ffa5",
+  "text_status": "metadata-only",
+  "metadata_only_reason": "possible personal name in the official text"
+}
