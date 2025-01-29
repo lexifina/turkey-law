@@ -1,0 +1,4 @@
+Eğitim ücreti
+MADDE 9 – (1) Eğitim programları için kişi başına ödenecek eğitim ücreti, konusuna göre ilgili birimlerce belirlenir ve Bakanlığın internet sayfasında duyurulur.
+(2) Kişi başına eğitim (Ek ibare: RG-29/1/2025-32797) tavan ücreti, 11/10/1983 tarihli ve 2914 sayılı Yükseköğretim Personel Kanununun 11 inci maddesine göre doçentler için öngörülmüş ek ders ücreti göstergesinin memur aylık katsayısı ile çarpımı sonucu hesaplanan tutarın, eğitim programının Bakanlıkça belirlenmiş olan toplam (Değişik ibare: RG-29/1/2025-32797) ders saati sayısının yirmi ile çarpımı sonucu bulunur. Ortaya çıkan meblağ, o eğitim için kişi başı tavan ücreti olarak alınır ve kişi başına alınacak eğitim ücreti tavan eğitim ücretini aşamaz.
+(3) Bakanlık merkez ve bağlı kuruluşları tarafından düzenlenen sertifikalı eğitimlere görevi gereği katılması gereken kamu personelinden eğitim ücreti alınmaz.

@@ -1,0 +1,12 @@
+DÖRDÜNCÜ BÖLÜM
+Sertifika Düzenleme, Yenileme, Tescil ve Denklik İşlemleri
+Sertifika düzenleme, tescil ve yenileme
+MADDE 10 – (1) Düzenlenen sertifikalı eğitim programı sonunda, ilgili alanın standartlarında belirlenmiş usul ve esaslara göre sınav yapılır. Sınavda başarılı olanlara eğitimi düzenleyen kurum/kuruluş/özel hukuk tüzel kişileri/gerçek kişiler tarafından sertifika düzenlenir. Düzenlenen sertifikalı eğitim;
+a) Bakanlık merkez teşkilatı ve bağlı kuruluşları, diğer kamu tüzel kişiliğini haiz kurum ve kuruluşlar ile il müdürlüğüne yapılmış ise program sorumlusu ve ilgili birimce,
+b) Özel hukuk tüzel kişileri ve gerçek kişilerce düzenlenmiş ise program sorumlusu ve il müdürlüğünce,
+imzalanır.
+(2) Düzenlenecek sertifikaların formatı; eğitimi alan kişinin T.C. kimlik numarasını, yabancı uyruklu ise yabancı kimlik numarasını, ad ve soyadını, unvanını, sertifikanın adını, sertifika numarasını, eğitimin başlangıç ve bitiş tarihini, sertifikanın geçerlilik süresini, eğitimi yapan kurum/kuruluş/özel hukuk tüzel kişisi/gerçek kişinin adını ve ilgili birimin kendi ihtiyacı doğrultusunda ilave edeceği diğer bilgileri içerecek şekilde ilgili birim tarafından belirlenir.
+(3) Sertifikaların geçerlilik süresi, tescil edildikleri tarihten itibaren başlar.
+(4) Düzenlenen sertifikalara ilişkin olarak Genel Müdürlükçe Eğitim Sertifikaları Bilgi Sistemi oluşturulur. Bakanlık merkez teşkilatı ve bağlı kuruluşları, diğer kamu tüzel kişiliğine haiz kurum ve kuruluşlar ile il müdürlüğünce verilen eğitim sonucu hazırlanan sertifikalar, ilgili birimce Eğitim Sertifikaları Bilgi Sisteminde kayıt altına alınarak tescil edilir. Özel hukuk tüzel kişileri ve gerçek kişilerce düzenlenen eğitim sonucu hazırlanan sertifikalar, il müdürlüğünce Eğitim Sertifikaları Bilgi Sisteminde kayıt altına alınarak tescil edilir. Tescil edilmiş sertifikalar, eğitimi düzenleyenler tarafından sahiplerine teslim edilir.
+(5) Eğitime katılanların eğitim ve sınavla ilgili tüm belgeleri; eğitimi düzenleyen Bakanlık ve bağlı kuruluşları, il müdürlükleri, diğer kamu kurum, kuruluş, özel hukuk kişileri ve gerçek kişiler tarafından 16/5/1988 tarihli ve 19816 sayılı Resmî Gazete’de yayımlanan Devlet Arşiv Hizmetleri Hakkında Yönetmelik hükümlerine uygun olarak saklanır.
+(6) Sertifika yenileme işlemi, 5 inci madde uyarınca kurulmuş komisyonlarca belirlenen standartlar esas alınarak ilgili birim sorumluluğunda eğitimi düzenleyen kamu kurum ve kuruluşu/özel hukuk tüzel kişileri ve gerçek kişiler tarafından yapılır.
