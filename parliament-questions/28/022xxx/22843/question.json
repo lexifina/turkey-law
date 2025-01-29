@@ -1,0 +1,21 @@
+{
+  "record_type": "parliament-written-question",
+  "term": 28,
+  "legislative_year": 3,
+  "esas_no": "7/22843",
+  "submitted": "2025-01-29",
+  "submitted_as": "Başkanlığa geliş tarihi",
+  "mp": "Deniz DEMİR",
+  "province": "Ankara",
+  "summary": "Munzur Üniversitesinin bazı bölümlerinin Hozat ilçesine taşınmasına ilişkin",
+  "status": "Süresi Geçtikten Sonra Cevaplandı",
+  "status_as_of": "2026-11-16",
+  "official_record": "https://www.tbmm.gov.tr/Denetim/Yazili-Soru-Onergesi-Detay/04056a7c-f61d-4cec-a7d6-0194b6593f37",
+  "source": "https://tbmm.gov.tr/Denetim/YaziliSoruOnergesiTable",
+  "source_form": "https://tbmm.gov.tr/Denetim/Yazili-Soru-Onergeleri",
+  "source_sha256": "8d0b31c65a6ec114acbeb05beb52c4e3dca7e2a2b8e0dc517e1db295250f2635",
+  "in_force": "2025-01-29",
+  "in_force_basis": "Date the question reached the Speaker (Başkanlığa geliş tarihi) in the official TBMM written-question record; parliamentary oversight record, not law",
+  "history_type": "metadata",
+  "text_status": "metadata-only: question text, addressee and answers are in the linked official record (PDFs on cdn.tbmm.gov.tr); not transcribed here"
+}
