@@ -1,0 +1,21 @@
+{
+  "record_type": "parliament-written-question",
+  "term": 28,
+  "legislative_year": 3,
+  "esas_no": "7/22727",
+  "submitted": "2025-01-29",
+  "submitted_as": "Başkanlığa geliş tarihi",
+  "mp": "Burak DALGIN",
+  "province": "Balıkesir",
+  "summary": "Otizmli bireylere yönelik kriz müdahale hizmetlerinin geliştirilmesi için yapılan çalışmalara ilişkin",
+  "status": "Süresi Geçtikten Sonra Cevaplandı",
+  "status_as_of": "2026-11-16",
+  "official_record": "https://www.tbmm.gov.tr/Denetim/Yazili-Soru-Onergesi-Detay/8f73eb1c-c890-432c-a175-0194bbade2b1",
+  "source": "https://tbmm.gov.tr/Denetim/YaziliSoruOnergesiTable",
+  "source_form": "https://tbmm.gov.tr/Denetim/Yazili-Soru-Onergeleri",
+  "source_sha256": "516f98f9af13e40fdb0f0416a9bb54ce0d84a0535975783cd3929bd9e0c2d4fd",
+  "in_force": "2025-01-29",
+  "in_force_basis": "Date the question reached the Speaker (Başkanlığa geliş tarihi) in the official TBMM written-question record; parliamentary oversight record, not law",
+  "history_type": "metadata",
+  "text_status": "metadata-only: question text, addressee and answers are in the linked official record (PDFs on cdn.tbmm.gov.tr); not transcribed here"
+}
