@@ -1,0 +1,17 @@
+{
+  "kind": "decision",
+  "issuer": "Sayıştay 4. Dairesi",
+  "number": "343",
+  "decision_date": "2025-01-30",
+  "source_id": 39396,
+  "chamber": "4",
+  "ilam_number": "66",
+  "item_number": 7,
+  "public_body_type": "Belediyeler ve Bağlı İdareler",
+  "account_year": 2023,
+  "subject": "İhale Mevzuatı ile İlgili Kararlar",
+  "source": "https://www.sayistay.gov.tr/KararlarDaire/Detay/39396/",
+  "source_sha256": "7546dd1b8d2f8d4f125bf6760cf3a5ecc670d20412af6019b45b628b825ee214",
+  "text_status": "metadata-only",
+  "metadata_only_reason": "possible personal name in the official text"
+}
