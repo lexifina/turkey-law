@@ -1,0 +1,21 @@
+{
+  "record_type": "parliament-written-question",
+  "term": 28,
+  "legislative_year": 4,
+  "esas_no": "7/38798",
+  "submitted": "2025-01-30",
+  "submitted_as": "Başkanlığa geliş tarihi",
+  "mp": "Murat BAKAN",
+  "province": "İzmir",
+  "summary": "Son üç yılda IŞİD terör örgütüne yönelik olarak yapılan operasyonlara ilişkin",
+  "status": "Süresi Geçtikten Sonra Cevaplandı",
+  "status_as_of": "2026-11-16",
+  "official_record": "https://www.tbmm.gov.tr/Denetim/Yazili-Soru-Onergesi-Detay/62bf2e09-c6e3-4944-a53d-019b8dfa1e71",
+  "source": "https://tbmm.gov.tr/Denetim/YaziliSoruOnergesiTable",
+  "source_form": "https://tbmm.gov.tr/Denetim/Yazili-Soru-Onergeleri",
+  "source_sha256": "893fa27bef5229e62b66b3c44d9425967fa5eaba9c135c5d3482e19f9ab2d4fc",
+  "in_force": "2025-01-30",
+  "in_force_basis": "Date the question reached the Speaker (Başkanlığa geliş tarihi) in the official TBMM written-question record; parliamentary oversight record, not law",
+  "history_type": "metadata",
+  "text_status": "metadata-only: question text, addressee and answers are in the linked official record (PDFs on cdn.tbmm.gov.tr); not transcribed here"
+}
