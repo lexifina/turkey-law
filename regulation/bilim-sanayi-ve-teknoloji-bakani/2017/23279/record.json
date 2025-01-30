@@ -1,0 +1,66 @@
+{
+  "source_id": "7.5.23279",
+  "kind": "regulation",
+  "register_kind": "Kurum ve Kuruluş Yönetmelikleri",
+  "title": "İKİ VEYA ÜÇ TEKERLEKLİ ARAÇLARIN VE DÖRT TEKERLEKLİ MOTOSİKLETLERİN TİP ONAYINA YÖNELİK ÇEVRESEL VE TAHRİK ÜNİTESİ PERFORMANS ŞARTLARI HAKKINDA YÖNETMELİK (AB/134/2014)",
+  "number": "23279",
+  "issuer": "Bilim, Sanayi ve Teknoloji Bakanı",
+  "issuer_slug": "bilim-sanayi-ve-teknoloji-bakani",
+  "path": "regulation/bilim-sanayi-ve-teknoloji-bakani/2017/23279",
+  "source": "https://www.mevzuat.gov.tr/anasayfa/MevzuatFihristDetayIframe?MevzuatTur=7&MevzuatNo=23279&MevzuatTertip=5",
+  "source_sha256": "09527560e12de8c73cc384100cfc866639c43aa48c733057faba5b89d3a663da",
+  "source_bytes": 59482,
+  "published": "2017-01-26",
+  "gazette": "29960 Mükerrer",
+  "in_force": "2025-01-30",
+  "in_force_basis": "latest Resmî Gazete date printed in the source amendment notes/table (\"RG-30/1/2025\") for the current consolidated text",
+  "date_evidence": [
+    [
+      "2025-01-30",
+      "RG-30/1/2025",
+      "Resmî Gazete date printed in the source amendment note"
+    ],
+    [
+      "2025-01-30",
+      "30/1/2025",
+      "Resmî Gazete date in the source amendment table"
+    ],
+    [
+      "2024-11-16",
+      "RG-16/11/2024",
+      "Resmî Gazete date printed in the source amendment note"
+    ],
+    [
+      "2024-11-16",
+      "16/11/2024",
+      "Resmî Gazete date in the source amendment table"
+    ],
+    [
+      "2021-12-30",
+      "RG-30/12/2021",
+      "Resmî Gazete date printed in the source amendment note"
+    ],
+    [
+      "2021-12-30",
+      "30/12/2021",
+      "Resmî Gazete date in the source amendment table"
+    ]
+  ],
+  "commencement_clauses": [
+    "Bu Yönetmelik 1/1/2018 tarihinde yürürlüğe girer"
+  ],
+  "history": "current-text",
+  "label": "oldest version available",
+  "checked_on": "2026-11-15",
+  "word_count": 3540,
+  "text_status": "current-consolidated",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  },
+  "source_links": [
+    "7.5.23279-Ek.docx"
+  ],
+  "completeness": "html-text-complete; linked annexes not fetched"
+}
