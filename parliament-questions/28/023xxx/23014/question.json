@@ -1,0 +1,21 @@
+{
+  "record_type": "parliament-written-question",
+  "term": 28,
+  "legislative_year": 3,
+  "esas_no": "7/23014",
+  "submitted": "2025-01-31",
+  "submitted_as": "Başkanlığa geliş tarihi",
+  "mp": "Hasan ÖZTÜRKMEN",
+  "province": "Gaziantep",
+  "summary": "Son 10 yılda Gaziantep'te kiralanan Hazineye ait arsa ve arazilere ilişkin",
+  "status": "Süresi Geçtikten Sonra Cevaplandı",
+  "status_as_of": "2026-11-16",
+  "official_record": "https://www.tbmm.gov.tr/Denetim/Yazili-Soru-Onergesi-Detay/6b0b1d05-2cf8-48e9-ab8e-0194caab9bf3",
+  "source": "https://tbmm.gov.tr/Denetim/YaziliSoruOnergesiTable",
+  "source_form": "https://tbmm.gov.tr/Denetim/Yazili-Soru-Onergeleri",
+  "source_sha256": "747cd49e72d6c666e7fd153dc966808778bbe13417ed26e77205a6bc10baf8a8",
+  "in_force": "2025-01-31",
+  "in_force_basis": "Date the question reached the Speaker (Başkanlığa geliş tarihi) in the official TBMM written-question record; parliamentary oversight record, not law",
+  "history_type": "metadata",
+  "text_status": "metadata-only: question text, addressee and answers are in the linked official record (PDFs on cdn.tbmm.gov.tr); not transcribed here"
+}
