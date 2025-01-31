@@ -1,0 +1,29 @@
+{
+  "number": "21",
+  "number_as_published": "2025/21",
+  "year": 2025,
+  "month": 1,
+  "title": "council decision",
+  "decision_date": null,
+  "index_date": "2025-01-31",
+  "date_precision": "month",
+  "period": "Ocak 2025",
+  "source": "https://www.haliliye.bel.tr/icerik/7366/39/ocak-2025",
+  "official_page": "https://www.haliliye.bel.tr/icerik/7366/39/ocak-2025",
+  "official_document": null,
+  "source_sha256": "191ae3faa06abd06acf16825b0ae4e5dd2acc4e406b3db978f9cbf32b8e1722c",
+  "issuer": "Haliliye Belediye Meclisi",
+  "history_type": "metadata",
+  "text_status": "metadata-only: summary appears to concern individual persons; official page only",
+  "in_force": "2025-01-31",
+  "in_force_basis": "The official listing gives only the month of this decision (Ocak 2025); date set to the last day of that month (turkey-law date convention for month-only sources); exact adoption dates are in the linked official document; legal commencement not asserted",
+  "missing": [
+    "exact decision date",
+    "complete official decision text",
+    "official annexes"
+  ],
+  "law_text_complete": false,
+  "privacy_withheld": true,
+  "listing_item": "OCAK 2025",
+  "record_scope": "one council decision summary (Karar Özeti) as published"
+}
