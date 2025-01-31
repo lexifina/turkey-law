@@ -1,0 +1,28 @@
+{
+  "number": "month-01-2",
+  "year": 2025,
+  "month": 1,
+  "title": "Ocak 2025 Olağanüstü",
+  "decision_date": null,
+  "index_date": "2025-01-31",
+  "date_precision": "month",
+  "period": "Ocak 2025",
+  "source": "https://www.ibradi.bel.tr/karar/ocak-2025-olağanüstü.html",
+  "official_page": "https://www.ibradi.bel.tr/karar/ocak-2025-olağanüstü.html",
+  "official_document": "https://www.ibradi.bel.tr/tema/genel/uploads/meclis_kararlari/dosya/2025_YILI_OLAYANUSTU_MECLYS_KARARLARI.pdf",
+  "source_sha256": "0dd1d1cbcc076b0e7eddd5a44921c4e2de14fa4d32bc12ee9353a0d1f469b6c1",
+  "issuer": "İbradı Belediye Meclisi",
+  "history_type": "metadata",
+  "text_status": "metadata-only: listing fields as published; the decisions are in the linked official document(s) or page, not transcribed",
+  "in_force": "2025-01-31",
+  "in_force_basis": "The official listing gives only the month of this official file (Ocak 2025); date set to the last day of that month (turkey-law date convention for month-only sources); exact adoption dates are in the linked official document; legal commencement not asserted",
+  "missing": [
+    "decision numbers, dates and subjects",
+    "complete official decision text",
+    "official annexes"
+  ],
+  "law_text_complete": false,
+  "privacy_withheld": false,
+  "listing_label": "Ocak 2025 Olağanüstü",
+  "record_scope": "one official file of council decisions (meeting or month)"
+}
