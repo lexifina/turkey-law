@@ -1,0 +1,29 @@
+{
+  "number": "month-01",
+  "year": 2025,
+  "month": 1,
+  "title": "2025 YILI OCAK AYI İL GENEL MECLİSİ KARARLARI",
+  "decision_date": null,
+  "index_date": "2025-01-31",
+  "date_precision": "month",
+  "period": "Ocak 2025",
+  "source": "https://www.corumozelidare.gov.tr/2025-yili-ocak-ayi-il-genel-meclisi-kararlari",
+  "official_page": "https://www.corumozelidare.gov.tr/2025-yili-ocak-ayi-il-genel-meclisi-kararlari",
+  "official_document": "https://www.corumozelidare.gov.tr/kurumlar/corumozelidare.gov.tr/IGM-KARARLARI/1_Ocak-2025-meclis-kararlari.pdf",
+  "source_sha256": "a9eb6fdded6dc85ff5d7d21b6112f6df02fd1c60b131466daf2f5d65f5ee4c09",
+  "issuer": "Çorum İl Genel Meclisi",
+  "history_type": "metadata",
+  "text_status": "metadata-only: listing fields as published; the decisions are in the linked official document(s) or page, not transcribed",
+  "in_force": "2025-01-31",
+  "in_force_basis": "The official listing gives only the month of this official file (Ocak 2025); date set to the last day of that month (turkey-law date convention for month-only sources); exact adoption dates are in the linked official document; legal commencement not asserted",
+  "missing": [
+    "decision numbers, dates and subjects",
+    "complete official decision text",
+    "official annexes"
+  ],
+  "law_text_complete": false,
+  "privacy_withheld": false,
+  "listing_label": "2025 YILI OCAK AYI İL GENEL MECLİSİ KARARLARI",
+  "record_scope": "one official file of council decisions (meeting or month)",
+  "item_title": "2025 YILI OCAK AYI İL GENEL MECLİSİ KARARLARI"
+}
