@@ -1,0 +1,29 @@
+{
+  "number": "14",
+  "number_as_published": "2025/14",
+  "year": 2025,
+  "month": 1,
+  "title": "council decision",
+  "decision_date": null,
+  "index_date": "2025-01-31",
+  "date_precision": "month",
+  "period": "Ocak 2025",
+  "source": "https://www.fatih.bel.tr/tr/main/meclis_kararlar?yil=2025&ay=1",
+  "official_page": "https://www.fatih.bel.tr/tr/main/meclis_kararlar/202514/947",
+  "official_document": null,
+  "source_sha256": "21326bc2d03f3856b368b217183f64e19297a6853e3586162ff9a7484dff7c49",
+  "issuer": "Fatih Belediye Meclisi",
+  "history_type": "metadata",
+  "text_status": "metadata-only: subject appears to concern individual persons; official link only",
+  "in_force": "2025-01-31",
+  "in_force_basis": "The official listing gives only the month of this decision (Ocak 2025); date set to the last day of that month (turkey-law date convention for month-only sources); exact adoption dates are in the linked official document; legal commencement not asserted",
+  "missing": [
+    "exact decision date",
+    "complete official decision text",
+    "official annexes"
+  ],
+  "law_text_complete": false,
+  "privacy_withheld": true,
+  "record_scope": "one council decision (number and subject as listed)",
+  "listing_month": "2025-01"
+}
