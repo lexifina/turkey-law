@@ -1,0 +1,21 @@
+{
+  "record_type": "parliament-written-question",
+  "term": 28,
+  "legislative_year": 3,
+  "esas_no": "7/23057",
+  "submitted": "2025-01-31",
+  "submitted_as": "Başkanlığa geliş tarihi",
+  "mp": "Aykut KAYA",
+  "province": "Antalya",
+  "summary": "SGK tarafından gözlükler için ödenen katkı payının artırılması talebine ilişkin",
+  "status": "Cevaplanmadığı Gelen Kağıtlarda İlan Edildi",
+  "status_as_of": "2026-11-16",
+  "official_record": "https://www.tbmm.gov.tr/Denetim/Yazili-Soru-Onergesi-Detay/c9df700e-a265-446c-ae6a-0194cc41a8e1",
+  "source": "https://tbmm.gov.tr/Denetim/YaziliSoruOnergesiTable",
+  "source_form": "https://tbmm.gov.tr/Denetim/Yazili-Soru-Onergeleri",
+  "source_sha256": "747cd49e72d6c666e7fd153dc966808778bbe13417ed26e77205a6bc10baf8a8",
+  "in_force": "2025-01-31",
+  "in_force_basis": "Date the question reached the Speaker (Başkanlığa geliş tarihi) in the official TBMM written-question record; parliamentary oversight record, not law",
+  "history_type": "metadata",
+  "text_status": "metadata-only: question text, addressee and answers are in the linked official record (PDFs on cdn.tbmm.gov.tr); not transcribed here"
+}
