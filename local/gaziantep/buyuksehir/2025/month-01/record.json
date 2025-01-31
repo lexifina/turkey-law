@@ -1,0 +1,38 @@
+{
+  "number": "month-01",
+  "year": 2025,
+  "month": 1,
+  "title": "2025 YILI OCAK AYI MECLİS KARAR ÖZETLERİ",
+  "decision_date": null,
+  "index_date": "2025-01-31",
+  "date_precision": "month",
+  "period": "Ocak 2025",
+  "source": "https://www.gaziantep.bel.tr/tr/meclis-kararlari",
+  "official_page": null,
+  "official_document": "https://dosya.gaziantep.bel.tr/uploads/new/2026/10/a30c8e08-802f-46ff-ba25-826fe8c8fded_original.pdf",
+  "source_sha256": "93565fd7614a9bd8dfa7bcbfda35d24cad2ef621fb0ab67c1de4551780f4d85b",
+  "issuer": "Gaziantep Büyükşehir Belediye Meclisi",
+  "history_type": "metadata",
+  "text_status": "metadata-only: listing fields as published; the decisions are in the linked official document(s) or page, not transcribed",
+  "in_force": "2025-01-31",
+  "in_force_basis": "The official listing gives only the month of this official file (Ocak 2025); date set to the last day of that month (turkey-law date convention for month-only sources); exact adoption dates are in the linked official document; legal commencement not asserted",
+  "missing": [
+    "decision numbers, dates and subjects",
+    "complete official decision text",
+    "official annexes"
+  ],
+  "law_text_complete": false,
+  "privacy_withheld": false,
+  "official_documents": [
+    {
+      "label": null,
+      "url": "https://dosya.gaziantep.bel.tr/uploads/new/2026/10/a30c8e08-802f-46ff-ba25-826fe8c8fded_original.pdf"
+    },
+    {
+      "label": null,
+      "url": "https://dosya.gaziantep.bel.tr/uploads/new/2026/10/a30c8e08-840f-4652-9296-5dc7a4b4b9c4_original.pdf"
+    }
+  ],
+  "record_scope": "one official entry of council decision summaries (Meclis Karar Özetleri) for the month or session",
+  "listing_entry_id": "modal-18724"
+}
