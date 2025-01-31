@@ -1,0 +1,28 @@
+{
+  "number": "month-01",
+  "year": 2025,
+  "month": 1,
+  "title": "OCAK 2025 TARİHLİ MECLİS KARAR ÖZETİ",
+  "decision_date": null,
+  "index_date": "2025-01-31",
+  "date_precision": "month",
+  "period": "Ocak 2025",
+  "source": "https://www.odunpazari.bel.tr/kurumsal/liste/meclis-kararlari?page=2",
+  "official_page": "https://www.odunpazari.bel.tr/kurumsal/meclis-kararlari/ocak-2025-tarihli-meclis-karar-ozeti",
+  "official_document": "https://www.odunpazari.bel.tr/upload/files/ocak-2025-tarihli-meclis-karar-ozeti-01fb5a6a-652a-47df-80d5-5d89db34c8c7.doc",
+  "source_sha256": "7e1493bd1b1f37c85de3473b8b30c56f287be2dc4233759df175cd5b8891829f",
+  "issuer": "Odunpazarı Belediye Meclisi",
+  "history_type": "metadata",
+  "text_status": "metadata-only: listing fields as published; the decisions are in the linked official document(s) or page, not transcribed",
+  "in_force": "2025-01-31",
+  "in_force_basis": "The official listing gives only the month of this official file (Ocak 2025); date set to the last day of that month (turkey-law date convention for month-only sources); exact adoption dates are in the linked official document; legal commencement not asserted",
+  "missing": [
+    "decision numbers, dates and subjects",
+    "complete official decision text",
+    "official annexes"
+  ],
+  "law_text_complete": false,
+  "privacy_withheld": false,
+  "listing_label": "OCAK 2025 TARİHLİ MECLİS KARAR ÖZETİ",
+  "record_scope": "one official file of council decisions (meeting or month)"
+}
