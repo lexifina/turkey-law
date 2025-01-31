@@ -1,0 +1,28 @@
+{
+  "number": "month-01",
+  "year": 2025,
+  "month": 1,
+  "title": "2025 Yılı Ocak Ayı Meclis Kararları",
+  "decision_date": null,
+  "index_date": "2025-01-31",
+  "date_precision": "month",
+  "period": "Ocak 2025",
+  "source": "https://www.ovacik.bel.tr/?pnum=26&pt=2025+Y%C4%B1l%C4%B1+Meclis+Kararlar%C4%B1",
+  "official_page": null,
+  "official_document": "https://www.ovacik.bel.tr/?pnum=37&pt=2025+Y%C4%B1l%C4%B1+Ocak+Ay%C4%B1+Meclis+Kararlar%C4%B1",
+  "source_sha256": "fa0085c002cce33d5fe75763fe13a49bc2856ddad148c2d90ff4dd44eabdffbc",
+  "issuer": "Ovacık Belediye Meclisi",
+  "history_type": "metadata",
+  "text_status": "metadata-only: listing fields as published; the decisions are in the linked official document(s) or page, not transcribed",
+  "in_force": "2025-01-31",
+  "in_force_basis": "The official listing gives only the month of this official file (Ocak 2025); date set to the last day of that month (turkey-law date convention for month-only sources); exact adoption dates are in the linked official document; legal commencement not asserted",
+  "missing": [
+    "decision numbers, dates and subjects",
+    "complete official decision text",
+    "official annexes"
+  ],
+  "law_text_complete": false,
+  "privacy_withheld": false,
+  "listing_label": "2025 Yılı Ocak Ayı Meclis Kararları",
+  "record_scope": "one official file of council decisions (meeting or month)"
+}
