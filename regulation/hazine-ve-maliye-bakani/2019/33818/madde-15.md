@@ -1,0 +1,4 @@
+Yeterlik sınavından sonra görevlendirme usulü
+MADDE 15 – (Değişik:RG-7/4/2021-31447)
+(1) Vergi Müfettiş Yardımcılarından yapılan yeterlik sınavında başarılı olarak Vergi Müfettişliğine atananların ilk görevlendirilmeleri, Performans Yönetmeliğine göre Vergi Müfettiş Yardımcılarının yardımcılık dönemine ilişkin hesaplanan performans puanı ile yeterlik sınav puanının toplamından oluşan başarı sırası, tercihleri ve mazeret durumları dikkate alınarak Başkanlık tarafından ihtiyaçlar doğrultusunda tespit edilen Daire Başkanlıklarına yapılır.
+(2) Birinci fıkra kapsamında görev yapacakları Daire Başkanlığı belirlenenler, ilk görevlendirmelerinin yapıldığı yılı izleyen takvim yılı başından itibaren iki yıl geçmedikçe 6 ncı maddenin birinci fıkrası kapsamında yer değişikliği talebinde bulunamazlar. Bakanlık dışı geçici görevde ve ücretsiz izinde geçirilen süreler bu sürenin hesabında dikkate alınmaz.

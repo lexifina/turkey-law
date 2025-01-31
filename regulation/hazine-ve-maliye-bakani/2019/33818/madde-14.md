@@ -1,0 +1,10 @@
+BEŞİNCİ BÖLÜM
+Diğer Görevlendirmeler
+Hizmetin gereği olarak yapılabilecek görevlendirmeler
+MADDE 14 – (1) Haklarında yürütülen adli veya idari bir soruşturma sonucunda, yerlerinde kalmalarında sakınca görülen Vergi Müfettişlerinin durumu Başkanlıkça değerlendirilerek görev yerleri değiştirilebilir. Bu fıkra kapsamında görev yeri değiştirilen Vergi Müfettişleri, görevlendirildikleri (Değişik ibare:RG-7/4/2021-31447) Daire Başkanlığında en az 2 yıl görev yapmaları ve hizmetin gereği halinin ortadan kalkmasını müteakiben bu Yönetmeliğin genel hükümlerine tabi olurlar.
+(2) Üst üste 3 yıl performans değerlendirmesinden başarısız olan Vergi Müfettişlerinin görev yerleri Başkanlıkça değiştirilebilir.
+(3) (Değişik ibare:RG-7/4/2021-31447) Daire Başkanlığı bulunan illerde kurulacak yeni (Değişik ibare:RG-7/4/2021-31447) Daire Başkanlıklarına görevlendirilecek Vergi Müfettişleri süre kaydı aranmaksızın, Başkanlığın gerekçeli teklifi üzerine Bakan tarafından belirlenir.
+(4) Görev yaptıkları (Değişik ibare:RG-7/4/2021-31447) Daire Başkanlıkları kapatılan Vergi Müfettişleri, hizmetin gerekleri ve ihtiyaçlar dikkate alınarak görev puanı üstünlüğü esasına göre ve belirlenen kontenjan dahilinde Başkanlıkça belirlenen (Değişik ibare:RG-7/4/2021-31447) Daire Başkanlıklarında görevlendirilirler.
+(5) (Değişik:RG-7/4/2021-31447) Görev yaptıkları Daire Başkanlığı dışında farklı bir Daire Başkanlığında Daire Başkanı veya Daire Başkanına yardımcı olmak üzere görevlendirilen Vergi Müfettişlerinin görev yeri, görevlendirildikleri Daire Başkanlığı olarak değişir.
+(6) (Değişik ibare:RG-7/4/2021-31447) Daire Başkanlığı görevi sona eren Vergi Müfettişinin, görevli bulunduğu (Değişik ibare:RG-7/4/2021-31447) Daire Başkanlığı haricinde başka bir (Değişik ibare:RG-7/4/2021-31447) Daire Başkanlığında görevlendirilme talebi Başkanlıkça değerlendirilerek yerine getirilebilir.
+(7) (Ek:RG-7/4/2021-31447) Bir önceki yıl performans değerlendirmesinden başarısız olan ve görev yaptığı ilde birden fazla Daire Başkanlığı bulunan Vergi Müfettişleri, aynı ilde bulunan Daire Başkanlıklarının birinde Başkanlıkça görevlendirilebilir.

@@ -1,0 +1,9 @@
+ÜÇÜNCÜ BÖLÜM
+İsteğe Bağlı Görevlendirme İşlemleri
+İsteğe bağlı görevlendirme
+MADDE 6 – (Değişik:RG-7/4/2021-31447)
+(1) Vergi Müfettişleri, görev yapmak istedikleri farklı illerdeki Daire Başkanlıklarını her yılın Mart ayı sonuna kadar Başkanlığa bildirir. Başkanlık, yer değiştirme talebinde bulunan Vergi Müfettişlerinin durumlarını, görev puanı üstünlüğü esasına göre ve belirlenen kontenjanlar dâhilinde inceler ve görevlendirilecekleri Daire Başkanlığını Mayıs ayı sonuna kadar belirler ve ilan eder. Kontenjan veya görev puanının yetersiz olması durumunda söz konusu talepler yerine getirilmez.
+(2) Vergi Müfettişleri, aynı il içerisinde görev yapmak istedikleri Daire Başkanlıklarını Temmuz ayının sonuna kadar Başkanlığa bildirir. Başkanlık söz konusu talepleri son iki yıl performans puanı üstünlüğüne göre inceler ve Vergi Müfettişlerinin görevlendirilecekleri Daire Başkanlığını Eylül ayı sonuna kadar belirler ve ilan eder. Kontenjan veya performans puanının yetersiz olması durumunda söz konusu talepler yerine getirilmez.
+(3) İsteğe bağlı olarak görev yaptığı Daire Başkanlığı değişen Vergi Müfettişleri görevlendirmenin yapıldığı yılı izleyen takvim yılı başından itibaren iki yıl geçmedikçe birinci fıkraya istinaden yer değişikliği talebinde bulunamaz. Bakanlık dışı geçici görevde ve ücretsiz izinde geçirilen süreler bu sürenin hesabında dikkate alınmaz.
+(4) Mazeret durumuna bağlı olarak Daire Başkanlığı değişen veya yerinde kalanlardan, mazeret durumu ortadan kalkan Vergi Müfettişleri, üçüncü fıkrada belirtilen süreyi beklemeksizin birinci fıkra kapsamında talepte bulunabilirler.
+(5) Aynı il içerisinde birden fazla aynı tür Daire Başkanlığı bulunması halinde; bu Daire Başkanlıkları arasındaki yer değiştirme talepleri, ihtiyaçlar göz önünde bulundurularak Başkanlıkça yapılacak değerlendirme sonucunda yerine getirilebilir.

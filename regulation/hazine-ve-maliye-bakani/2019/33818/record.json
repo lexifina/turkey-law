@@ -1,0 +1,53 @@
+{
+  "source_id": "7.5.33818",
+  "kind": "regulation",
+  "register_kind": "Kurum ve Kuruluş Yönetmelikleri",
+  "title": "VERGİ MÜFETTİŞLERİNİN GÖREV YERLERİNİN BELİRLENMESİNE DAİR YÖNETMELİK",
+  "number": "33818",
+  "issuer": "Hazine ve Maliye Bakanı",
+  "issuer_slug": "hazine-ve-maliye-bakani",
+  "path": "regulation/hazine-ve-maliye-bakani/2019/33818",
+  "source": "https://www.mevzuat.gov.tr/anasayfa/MevzuatFihristDetayIframe?MevzuatTur=7&MevzuatNo=33818&MevzuatTertip=5",
+  "source_sha256": "8d102d912c7db9556f7d8f4d06c981dffd3ffc592aea5ff6a23a5225c201d078",
+  "source_bytes": 43401,
+  "published": "2019-09-27",
+  "gazette": "30901",
+  "in_force": "2025-01-31",
+  "in_force_basis": "latest Resmî Gazete date printed in the source amendment notes/table (\"RG-31/1/2025\") for the current consolidated text",
+  "date_evidence": [
+    [
+      "2025-01-31",
+      "RG-31/1/2025",
+      "Resmî Gazete date printed in the source amendment note"
+    ],
+    [
+      "2025-01-31",
+      "31/1/2025",
+      "Resmî Gazete date in the source amendment table"
+    ],
+    [
+      "2021-04-07",
+      "RG-7/4/2021",
+      "Resmî Gazete date printed in the source amendment note"
+    ],
+    [
+      "2021-04-07",
+      "7/4/2021",
+      "Resmî Gazete date in the source amendment table"
+    ]
+  ],
+  "commencement_clauses": [
+    "Bu Yönetmelik yayımı tarihinde yürürlüğe girer"
+  ],
+  "history": "current-text",
+  "label": "oldest version available",
+  "checked_on": "2026-11-15",
+  "word_count": 1984,
+  "text_status": "current-consolidated",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  },
+  "completeness": "html-text-complete"
+}
