@@ -1,0 +1,23 @@
+{
+  "number": "65",
+  "number_as_published": "65",
+  "year": 2025,
+  "title": "Harman Mah imarın 53211 ada 2490 m2 yüzölçümlü 18 nolu parselde bulunan 1658 m2'lik hissemizin \"Cami ve Müştemilat\" olarak 25 yıllığına bedelsiz tahsisinin yapılmasına ilişkin, Meclis Kararı",
+  "decision_date": "2025-02-03",
+  "source": "https://www.mamak.bel.tr/gundem/GetKararlar",
+  "official_document": "https://www.mamak.bel.tr/gundem/DosyaDownload?guid=533f9231-4a8d-4726-8104-51fac233c17e",
+  "source_sha256": "f554089df68731558a37947c976f196303cdbdc5704c52cb6912834ca94730d3",
+  "issuer": "Mamak Belediye Meclisi",
+  "history_type": "metadata",
+  "text_status": "metadata-only: listing fields as published; complete decision text is in the linked official document, not transcribed",
+  "in_force": "2025-02-03",
+  "in_force_basis": "Decision date as printed in the official council listing: 2025-02-03T00:00:00 (kararTarihi of the official register); adoption date of the council decision; legal commencement not asserted",
+  "missing": [
+    "complete official decision text",
+    "official annexes"
+  ],
+  "law_text_complete": false,
+  "privacy_withheld": false,
+  "listing_page": "https://www.mamak.bel.tr/gundem/kararlar",
+  "register_api": "https://www.mamak.bel.tr/gundem/GetKararlar"
+}
