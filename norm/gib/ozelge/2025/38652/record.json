@@ -1,0 +1,22 @@
+{
+  "kind": "norm",
+  "issuer": "Gelir İdaresi Başkanlığı",
+  "document_type": "ozelge",
+  "number": "51421814-120[63-2024/39]-15584",
+  "source_id": 38652,
+  "date": "2025-02-03",
+  "title": "Tamamlayıcı sağlık sigortası ödemesinin işverene süresinde bildirilmemesi halinde vergi indirimi",
+  "source": "https://gib.gov.tr/mevzuat/kanun/433/ozelge/38652",
+  "related_law": "193 sayılı GELİR VERGİSİ KANUNU",
+  "source_api": "https://gib.gov.tr/api/gibportal/mevzuat/ozelge/list",
+  "source_listing": "evidence/list/2026-11-16/ozelge-p008.json",
+  "source_listing_sha256": "292c126217cc32c3ccfa57495ce433f89ef8db5e75fa1946d5819a76f81aff4d",
+  "source_sha256": "6f596b3607594a8c5f4818d2f45d8c732a4f7a9e31624f51c3f431a578aa8979",
+  "text_status": "as-enacted",
+  "text_file": "metin.md",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  }
+}
