@@ -1,0 +1,7 @@
+Lisansüstü programlara kayıt
+MADDE 35- (1) Kayıt hakkı kazanan adaylar Enstitü tarafından ilan edilir. Değerlendirme sonucuna maddi hata için ilan tarihinden itibaren itiraz süresi beş iş günüdür.
+(2) Asıl adaylar süresi içinde kayıt yaptırmak zorundadır; kayıt yaptırmayanların yerine başarı sırasına göre yedek adaylardan öğrenci kabul edilir. Yedek adayların başvuruları için asıl adayların kayıt süresinin bitimini takip eden üç iş günü süre tanınır. Yedek adaylar puan sıralamasına göre boş kontenjanlara kayıt hakkı kazanır.
+(3) Lisansüstü öğrencilik hakkı kazanan adayların, akademik takvimde belirtilen tarihlerde Senato tarafından belirlenen belgeleri teslim ederek kesin kayıtlarını yaptırmaları gerekir. Süresi içerisinde kesin kayıt yaptırmayan adaylar kayıt hakkından vazgeçmiş sayılır. Başvuru ve kayıt için istenen belgelerin aslı veya Üniversite tarafından onaylı örneği kabul edilir. Eksik veya yeterli olmayan belgelerle kayıt yapılmaz. Askerlik durumu ve adli sicil kaydına ilişkin olarak ise adayın beyanına dayanılarak işlem yapılır. Kayıt sırasında öğrencinin yazılı olarak beyan ettiği adres, tebligat adresidir.
+(4) Lisansüstü programlara online başvuru yapıp kesin kayıt hakkı kazananlardan belgelerin asılları istenir.
+(5) Kayıt için sahte veya tahrif edilmiş belge kullanan veya giriş sınavlarında sahtecilik yaptığı belirlenen adayların kayıt işlemleri iptal edilir ve gerekli kanuni işlem yapılır.
+(6) Tezsiz yüksek lisans programları hariç, aynı anda birden fazla lisansüstü programa kayıt yaptırılamaz ve devam edilemez.
