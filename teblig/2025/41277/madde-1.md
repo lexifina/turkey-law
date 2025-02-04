@@ -1,0 +1,2 @@
+Amaç ve kapsam
+MADDE 1- (1) Bu Tebliğin amacı, 28/11/2023 tarihli ve 32383 sayılı Resmî Gazete’de yayımlanan İthalatta Haksız Rekabetin Önlenmesine İlişkin Tebliğ (Tebliğ No: 2023/33) ile Malezya menşeli/çıkışlı 4412.10, 4412.31, 4412.33, 4412.34 ve 4412.39 gümrük tarife pozisyonları altında kayıtlı ve eşya tanımları Ek’te yer alan “kontrplaklar” ithalatına yönelik olarak başlatılan ve Ticaret Bakanlığı İthalat Genel Müdürlüğü tarafından yürütülen önlemlerin etkisiz kılınmasına karşı soruşturmanın tamamlanması neticesinde alınan kararın yürürlüğe konulmasıdır.
