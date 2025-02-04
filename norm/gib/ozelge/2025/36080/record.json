@@ -1,0 +1,22 @@
+{
+  "kind": "norm",
+  "issuer": "Gelir İdaresi Başkanlığı",
+  "document_type": "ozelge",
+  "number": "97895701-140.04.01[2024.248]-175525",
+  "source_id": 36080,
+  "date": "2025-02-04",
+  "title": "Otopark ihtiyacı için belediyeye ödenecek tutara ilişkin taahhütnamenin 6306 sayılı Kanun kapsamında noter harcından istisna olup olmadığı",
+  "source": "https://gib.gov.tr/mevzuat/kanun/439/ozelge/36080",
+  "related_law": "492 sayılı HARÇLAR KANUNU",
+  "source_api": "https://gib.gov.tr/api/gibportal/mevzuat/ozelge/list",
+  "source_listing": "evidence/list/2026-11-16/ozelge-p007.json",
+  "source_listing_sha256": "aedbdf4562ba9127c242d5a565793d0bcd4fd4854c0c6fa4dc4410a5b16508b4",
+  "source_sha256": "932e286167fee69ec914fe5645b380f3f260cc456b54d3b4c0c7ce0c595358dc",
+  "text_status": "as-enacted",
+  "text_file": "metin.md",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  }
+}
