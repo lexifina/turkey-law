@@ -1,0 +1,23 @@
+{
+  "number": "94",
+  "number_as_published": "94",
+  "year": 2025,
+  "title": "Belediyemizin Sosyal Demokrat Belediyeler Derneği’ne üye olmasına ilişkin, Meclis Kararı",
+  "decision_date": "2025-02-04",
+  "source": "https://www.mamak.bel.tr/gundem/GetKararlar",
+  "official_document": "https://www.mamak.bel.tr/gundem/DosyaDownload?guid=8649837d-1228-493c-8582-116e187d5091",
+  "source_sha256": "f554089df68731558a37947c976f196303cdbdc5704c52cb6912834ca94730d3",
+  "issuer": "Mamak Belediye Meclisi",
+  "history_type": "metadata",
+  "text_status": "metadata-only: listing fields as published; complete decision text is in the linked official document, not transcribed",
+  "in_force": "2025-02-04",
+  "in_force_basis": "Decision date as printed in the official council listing: 2025-02-04T00:00:00 (kararTarihi of the official register); adoption date of the council decision; legal commencement not asserted",
+  "missing": [
+    "complete official decision text",
+    "official annexes"
+  ],
+  "law_text_complete": false,
+  "privacy_withheld": false,
+  "listing_page": "https://www.mamak.bel.tr/gundem/kararlar",
+  "register_api": "https://www.mamak.bel.tr/gundem/GetKararlar"
+}
