@@ -1,0 +1,24 @@
+{
+  "number": "37",
+  "number_as_published": "37",
+  "year": 2025,
+  "title": "council decision",
+  "decision_date": "2025-02-04",
+  "source": "https://www.battalgazi.bel.tr/wp-json/wp/v2/posts?categories=88&per_page=100&page=4&_fields=id,date,link,title,content",
+  "official_document": "https://www.battalgazi.bel.tr/2025/02/04/1-adet-kazici-yukleyici-kepce-8-adet-damperli-cift-ceker-kamyon-4-adet-cift-kabin-kamyonet-1-adet-greyder-1-adet-ust-vinc-yapili-kamyon-2-adet-panelvan-ve-2-adet-damperli-mini-cop-kamyoneti-ali/",
+  "source_sha256": "a9f8af80e3d5df7c42a95e375e64f7342369077d90b1b937c50f60b31824447c",
+  "issuer": "Battalgazi Belediye Meclisi",
+  "history_type": "metadata",
+  "text_status": "metadata-only: subject appears to concern individual persons; official link only",
+  "in_force": "2025-02-04",
+  "in_force_basis": "Decision date as printed in the official council listing: 04.02.2025 (Karar Tarihi on the official decision page); adoption date of the council decision; legal commencement not asserted",
+  "missing": [
+    "complete official decision text",
+    "official annexes"
+  ],
+  "law_text_complete": false,
+  "privacy_withheld": true,
+  "official_page": "https://www.battalgazi.bel.tr/2025/02/04/1-adet-kazici-yukleyici-kepce-8-adet-damperli-cift-ceker-kamyon-4-adet-cift-kabin-kamyonet-1-adet-greyder-1-adet-ust-vinc-yapili-kamyon-2-adet-panelvan-ve-2-adet-damperli-mini-cop-kamyoneti-ali/",
+  "post_date": "2025-02-04T14:13:51",
+  "record_scope": "one council decision (official decision page)"
+}
