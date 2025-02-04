@@ -1,0 +1,23 @@
+{
+  "applicant": "EMEKLİLER SENDİKASI",
+  "applicant_form": "entity",
+  "application_date": "2022-01-10",
+  "application_number": "2022/2677",
+  "database_publication_date": "2025-04-15",
+  "deciding_unit": "İkinci Bölüm",
+  "decision_date": "2025-02-04",
+  "gazette_number": null,
+  "history_type": "metadata",
+  "id": "9b5e38ad-8154-17fd-d121-abf5d84ae023",
+  "in_force": "2025-02-04",
+  "in_force_basis": "official decision date",
+  "kind": "constitutional-court-individual-application",
+  "law_text_complete": false,
+  "outcome": "Esas (İhlal Olmadığı)",
+  "published": null,
+  "source": "https://kararlarbilgibankasi.anayasa.gov.tr/kbb/pages/search/Tumu?id=a2JiOjliNWUzOGFkLTgxNTQtMTdmZC1kMTIxLWFiZjVkODRhZTAyMw&type=BireyselBasvuru",
+  "source_api": "https://kararlarbilgibankasi.anayasa.gov.tr/api/core/public/search",
+  "source_listing": "evidence/list/BireyselBasvuru-2025-01-01-2025-12-31-p1.json (official API answer, read 2026-11-15)",
+  "source_listing_sha256": "dcdc8479476490777c4f0c6b6b28815c38e004642eae2c8a435216f5ec914408",
+  "text_status": "metadata-only: official database listing fields; the decision text is on the linked official page, not transcribed"
+}
