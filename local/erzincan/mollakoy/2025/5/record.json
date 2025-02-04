@@ -1,0 +1,26 @@
+{
+  "number": "5",
+  "number_as_published": "5",
+  "year": 2025,
+  "title": "Tepecik Mahallesi sınırları içerisinde bulunan 185 ada, 1parsel numaralı taşınmaza ait imar plan değişikliği görüşülmesi",
+  "decision_date": "2025-02-04",
+  "source": "https://www.mollakoy.bel.tr/meclis-kararlari/sayfa/4/",
+  "official_document": "https://www.mollakoy.bel.tr/karar/tepecik-mahallesi-sinirlari-icerisinde-bulunan-185-ada-1parsel-numarali-tasinmaza-ait-imar-plan-degisikligi-gorusulmesi-/85/",
+  "source_sha256": "7b6e48b6a4fa179b264482e98b445e3a47a0a419d396129f99173173a9cd34c3",
+  "issuer": "Mollaköy Belediye Meclisi",
+  "history_type": "metadata",
+  "text_status": "metadata-only: listing fields as published; complete decision text is in the linked official document, not transcribed",
+  "in_force": "2025-02-04",
+  "in_force_basis": "Decision date as printed in the official council listing: meclisi 04.02.2025; adoption date of the council decision; legal commencement not asserted",
+  "missing": [
+    "complete official decision text",
+    "official annexes"
+  ],
+  "law_text_complete": false,
+  "privacy_withheld": false,
+  "official_page": "https://www.mollakoy.bel.tr/karar/tepecik-mahallesi-sinirlari-icerisinde-bulunan-185-ada-1parsel-numarali-tasinmaza-ait-imar-plan-degisikligi-gorusulmesi-/85/",
+  "listing_label": "Tepecik Mahallesi sınırları içerisinde bulunan 185 ada, 1parsel numaralı taşınmaza ait imar plan değişikliği görüşülmesi",
+  "record_scope": "one council decision (number, date, subject as published)",
+  "date_read_from": "meeting date in the decision text (the item's Karar Tarihi field carries a clock time)",
+  "document_note": "the decision text is on the official item page; not transcribed here"
+}
