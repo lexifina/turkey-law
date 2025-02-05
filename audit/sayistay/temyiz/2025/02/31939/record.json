@@ -1,0 +1,16 @@
+{
+  "kind": "decision",
+  "issuer": "Sayıştay Temyiz Kurulu",
+  "number": "57681",
+  "decision_date": "2025-02-05",
+  "source_id": 31939,
+  "chamber": "3",
+  "file_number": "53146",
+  "public_body_type": "Belediyeler ve Bağlı İdareler",
+  "account_year": "2019",
+  "subject": "Personel Mevzuatı ile İlgili Kararlar",
+  "source": "https://www.sayistay.gov.tr/KararlarTemyiz/Detay/31939/",
+  "source_sha256": "835f8741585d00bb1dbcbc5f15de822e5b10776c87d241e79af9ed07899dfca2",
+  "text_status": "metadata-only",
+  "metadata_only_reason": "possible personal name in the official text"
+}
