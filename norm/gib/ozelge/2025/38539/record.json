@@ -1,0 +1,22 @@
+{
+  "kind": "norm",
+  "issuer": "Gelir İdaresi Başkanlığı",
+  "document_type": "ozelge",
+  "number": "90792880-155[DMG1-679]-74330",
+  "source_id": 38539,
+  "date": "2025-02-05",
+  "title": "Lisans Sözleşmesi başlıklı kağıda uygulanacak damga vergisi oranı hk.",
+  "source": "https://gib.gov.tr/mevzuat/kanun/438/ozelge/38539",
+  "related_law": "488 sayılı DAMGA VERGİSİ KANUNU",
+  "source_api": "https://gib.gov.tr/api/gibportal/mevzuat/ozelge/list",
+  "source_listing": "evidence/list/2026-11-16/ozelge-p008.json",
+  "source_listing_sha256": "292c126217cc32c3ccfa57495ce433f89ef8db5e75fa1946d5819a76f81aff4d",
+  "source_sha256": "3c624b5e94b2d22d252dcce049647da907a5f6aaaf9b2414d9e86fc43b9e747c",
+  "text_status": "as-enacted",
+  "text_file": "metin.md",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  }
+}
