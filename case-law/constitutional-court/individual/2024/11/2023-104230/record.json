@@ -1,0 +1,20 @@
+{
+  "applicant": "M.A.",
+  "application_date": "2023-12-15",
+  "application_number": "2023/104230",
+  "deciding_unit": "İkinci Bölüm",
+  "decision_date": "2024-11-20",
+  "id": "6c0f7d2a-bdd2-21a5-edc3-42c64b965ea9",
+  "in_force": "2025-02-05",
+  "in_force_basis": "official Resmî Gazete date",
+  "kind": "constitutional-court-individual-application",
+  "omitted_images": 0,
+  "outcome": "Kabul Edilemezlik vd.",
+  "published": "2025-02-05",
+  "referenced_images": 0,
+  "source": "https://kararlarbilgibankasi.anayasa.gov.tr/kbb/pages/search/Tumu?id=a2JiOjZjMGY3ZDJhLWJkZDItMjFhNS1lZGMzLTQyYzY0Yjk2NWVhOQ&type=BireyselBasvuru",
+  "source_api": "https://kararlarbilgibankasi.anayasa.gov.tr/api/core/public/search",
+  "source_images": 0,
+  "source_sha256": "e9654785391bf2a6d903d37a237bb18d9e86be527b45367f36bbade486411069",
+  "version_label": "as-enacted"
+}
