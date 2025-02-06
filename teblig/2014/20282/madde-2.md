@@ -1,0 +1,2 @@
+Dayanak
+MADDE 2 – (1) Bu Tebliğ, 10/12/2003 tarihli ve 5018 sayılı Kamu Malî Yönetimi ve Kontrol Kanununun 61 inci maddesi, 13/12/1983 tarihli ve 178 sayılı Maliye Bakanlığının Teşkilat ve Görevleri Hakkında Kanun Hükmünde Kararnamenin Ek 18, Ek 19 ve Ek 20 nci maddeleri ile 30/12/2005 tarihli ve 2005/9912 sayılı Bakanlar Kurulu Kararı ile yürürlüğe giren Muhasebe Yetkilisi Adaylarının Eğitimi, Sertifika Verilmesi ile Muhasebe Yetkililerinin Çalışma Usul ve Esasları Hakkında Yönetmeliğin 26 ncı maddesine dayanılarak hazırlanmıştır.

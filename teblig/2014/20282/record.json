@@ -1,0 +1,42 @@
+{
+  "source_id": "9.5.20282",
+  "kind": "communique",
+  "register_kind": "Tebliğler",
+  "title": "MUHASEBAT GENEL MÜDÜRLÜĞÜ GENEL TEBLİĞİ (SIRA NO: 38) MUHASEBE YETKİLİLERİNCE YAPILACAK YETKİ DEVRİ",
+  "number": "20282",
+  "issuer": "Maliye Bakanı",
+  "path": "teblig/2014/20282",
+  "source": "https://www.mevzuat.gov.tr/anasayfa/MevzuatFihristDetayIframe?MevzuatTur=9&MevzuatNo=20282&MevzuatTertip=5",
+  "source_sha256": "abfd00b4d26e4a8bdb8669c13a3000eb0414fec45d7b16fa257b65aad9bb4d61",
+  "source_bytes": 21978,
+  "published": "2014-12-06",
+  "gazette": "29197",
+  "in_force": "2025-02-06",
+  "in_force_basis": "latest Resmî Gazete date printed in the source amendment notes/table (\"RG-6/2/2025\") for the current consolidated text",
+  "date_evidence": [
+    [
+      "2025-02-06",
+      "RG-6/2/2025",
+      "Resmî Gazete date printed in the source amendment note"
+    ],
+    [
+      "2025-02-06",
+      "6/2/2025",
+      "Resmî Gazete date in the source amendment table"
+    ]
+  ],
+  "commencement_clauses": [
+    "Bu Tebliğ yayımı tarihinde yürürlüğe girer"
+  ],
+  "history": "current-text",
+  "label": "oldest version available",
+  "checked_on": "2026-11-15",
+  "word_count": 729,
+  "text_status": "current-consolidated",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  },
+  "completeness": "html-text-complete"
+}
