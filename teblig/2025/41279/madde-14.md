@@ -1,0 +1,7 @@
+Etil alkol bandrollerinde fire uygulaması
+MADDE 14- (1) Fire bandroller, kullanım amacına uygun olarak gruplara ayrılarak üretici ve ithalatçı firmaların merkezinde muhafaza edilir.
+(2) Fire bandroller ürünün ambalajından, kaplarından ayrı olarak veya kapaklarla birlikte muhafaza edilir.
+(3) Muhafaza edilen firelere ilişkin bilgiler, aylık olarak takip eden ayın on beşinci gününe kadar EİS aracılığıyla yetkili firmaya bildirilir.
+(4) Fire bandrollerin tespit ve imhası, üretici/ithalatçı firmaların merkezlerinde veya TADAB tarafından belirlenen yerde Bakanlık, Darphane, yetkili firma ve üretici/ithalatçı firma temsilcilerinin katılımı ile oluşturulacak komisyon tarafından, Ek-1’de yer alan Fire Tespit ve İmha Tutanağı düzenlenmek suretiyle tespit edildikten sonra imha edilir. Üretici/ithalatçı firmanın söz konusu imha işlemine temsile yetkili kişi göndermemesi durumunda tutanağı kabul etmiş sayılır.
+(5) Beyan edilen bandrol fireleri, sayılmasının mümkün olması durumunda sayılarak, sayılmasının mümkün olmaması durumunda ise hassas terazide tartılarak veya komisyonun belirleyeceği başka bir yöntemle tespit edilir.
+(6) Tartılmak suretiyle fire miktarı tespit edilirken, belli bir miktar bandrol hassas terazide tartılarak toplam ağırlığı belirlenir ve bu suretle tespit edilen tahmini toplam bandrol miktarının, firmanın beyan ettiği rakama yakın olması durumunda beyan edilen rakam doğru kabul edilir. Aksi takdirde komisyon kararı esas alınır.

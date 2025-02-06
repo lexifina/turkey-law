@@ -1,0 +1,4 @@
+Bandrol taleplerinin değerlendirilmesi
+MADDE 10- (1) Üretici ve ithalatçı firmalar ürettikleri veya ithal edecekleri etil alkollerde kullanacakları bandrolleri veya benzeri vasıtaları, TADAB’dan izin aldıktan ve bedelini Darphaneye ödedikten sonra yetkili firmadan temin eder.
+(2) Firmaların bandrol taleplerine ilişkin uygulama esasları ile istenecek bilgi ve belgeler TADAB tarafından belirlenerek, TADAB’ın ve Darphanenin internet sitesinde yayımlanır.
+(3) Firmalar bandrol taleplerini EİS üzerinden bildirir. Firmaların bu şekilde bildirecekleri bandrol talepleri; mevcut bandrol stokları, önceki dönemlerde aldıkları bandrol miktarları, üretim kapasiteleri, aylık üretim miktarları, ithalat miktarları ve aylık satış miktarları dikkate alınarak TADAB tarafından başvuru tarihinden itibaren on iş günü içinde değerlendirilir ve uygun görülen miktar firmaya ve Darphaneye bildirilir.

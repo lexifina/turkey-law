@@ -1,0 +1,2 @@
+Bandrollerin zayi olması halinde yapılacak işlemler
+MADDE 13- (1) Üreticiler ve ithalatçılar tarafından teslim alınan bandrollerin çalınması, yangın ve su basması gibi çeşitli nedenlerle zayi olması halinde, bu durumu ispatlayıcı resmî belgelerle birlikte, olayın vuku bulduğu tarihi izleyen beş iş günü içinde yazılı olarak TADAB’a bildirilmesi ve söz konusu evrakın bir örneğinin de aynı süre içinde Darphaneye gönderilmesi gerekir.

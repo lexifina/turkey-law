@@ -1,0 +1,2 @@
+Dayanak
+MADDE 3- (1) Bu Tebliğ; 3/1/2002 tarihli ve 4733 sayılı Tütün, Tütün Mamulleri ve Alkol Piyasasının Düzenlenmesine Dair Kanunun 4/B maddesinin birinci fıkrasının (d) bendine ve 30/10/2011 tarihli ve 28100 sayılı Resmî Gazete’de yayımlanan Etil Alkol ve Metanolün Üretimi ile İç ve Dış Ticaretine İlişkin Usul ve Esaslar Hakkında Yönetmeliğin 20 nci maddesinin dördüncü fıkrasına dayanılarak hazırlanmıştır.

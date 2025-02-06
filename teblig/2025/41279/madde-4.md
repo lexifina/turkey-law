@@ -1,0 +1,22 @@
+Tanımlar
+MADDE 4- (1) Bu Tebliğde geçen;
+a) Aktif hale getirilme (Aktivasyon): Bandrol bilgilerinin ürün üzerine uygulandıktan sonra ürün bilgileriyle eşleştirilerek EİS üzerinden veri merkezine aktarılması işlemini,
+b) Alkol Ticaret Platformu (ATİP): Etil alkol, metanol ve suma üretiminin, ithalatının, ihracatının, yurt içi alım satımının ve sevkiyat faaliyetlerinin arz zinciri içerisinde hareketlerinin izlenmesi ve kayıt altına alınması amacıyla Bakanlık tarafından geliştirilen, Bakanlığın verdiği yetki çerçevesinde alıcı ve satıcıların e-Devlet şifresi ile erişim sağladığı ve bu faaliyetlerine ilişkin bilgileri Bakanlığa bildirdiği sistemi,
+c) Alkol Transfer Belgesi: Etil alkol, metanol ve sumanın bir yerden başka bir yere nakli öncesinde satıcı tarafından ATİP üzerinden düzenlenmesi ve nakil esnasında araçta bulundurulması zorunlu, benzersiz kod içeren belgeyi,
+ç) Bakanlık: Tarım ve Orman Bakanlığını,
+d) Bandrol: Bu Tebliğ kapsamında etil alkol ambalajları, kapları ile tankerlerin dolum ve boşaltım ekipmanlarının üzerine uygulanacak olan taklit edilemez nitelikteki, açık güvenlik unsurları çıplak gözle, gizli güvenlik unsurları özel denetim cihazlarıyla tespit edilebilir özelliklere sahip olan kıymetli damga niteliğindeki güvenlikli etiket/işaret, yüksek güvenlikli kağıt veya film bandrol, RFID etiket veya plastik kartı,
+e) Bandrol uygulanması: Bu Tebliğ kapsamında piyasaya arz edilecek etil alkol ambalajları ve kapları ile dökme olarak sevkiyatı yapılan tankerlerin dolum ve boşaltım ekipmanlarına bandrol uygulanması ve aktivasyon işlemlerinin yapılmasını,
+f) Basım merkezi: Bandrollerin basımının yapıldığı Darphane tarafından uygun görülen tesisleri,
+g) Darphane: Hazine ve Maliye Bakanlığı Darphane ve Damga Matbaası Genel Müdürlüğünü,
+ğ) Dökme etil alkol: Yetkili alkol dağıtım firmaları tarafından, 250 litreden büyük hacimli kap veya tankerler ile üretiminde girdi olarak kullanan firmalara satışı yapılan etil alkolü,
+h) Etil Alkol İzleme Sistemi (EİS): 4733 sayılı Kanunun 4/B maddesinin birinci fıkrasının (d) bendi uyarınca piyasa güvenliğini sağlamak amacıyla, üretilen veya ithal edilen etil alkollerin, kullanılmasına zorunluluk getirilen bandrol veya benzeri vasıtalarla etiketlenmesi/işaretlenmesi, etiketlenen/işaretlenen ürün bilgilerinin Darphane tarafından kurulan veya kurdurulan sistem aracılığıyla izlenmesine, ilgili bilgi sistemlerine veri aktarılmasına ve denetim cihazlarıyla saha denetimine imkân sağlanmasına dayanan işlemler bütününü,
+ı) Gizli bilgi: Yetkili firma tarafından bandrol kullanıcılarına yazılı/sözlü olarak ifşa edilen veya yetkili firma tarafından bandrol kullanıcılarından yazılı veya sözlü olarak edinilen bandrol basım işlemleri için gerekli olan ticaret ünvanı, vergi kimlik numarası, lisans belgeleri, marka, logo ve benzeri ürüne veya işletmeye ait bilgileri,
+i) GTİP: Gümrük tarife istatistik pozisyonunu,
+j) İthalatçı firma: Etil alkol ithal etmek için TADAB iznini haiz gerçek veya tüzel kişileri,
+k) Kap: 250 litreden büyük, 1.000 litre veya altındaki hacme sahip ambalajı,
+l) TADAB: Tarım ve Orman Bakanlığı Tütün ve Alkol Dairesi Başkanlığını,
+m) Üretici firma: Etil alkol üretmek veya işlemek için TADAB iznini haiz gerçek veya tüzel kişileri,
+n) Veri merkezi: Bu Tebliğ kapsamında üretilen her türlü verinin aktarıldığı ve depolandığı Darphane tarafından uygun görülen yerde kurulan merkezi,
+o) Yetki belgesi: Etil alkol üretimi ve ithalatı yapan firmalara kullanma zorunluluğu getirilen bandrol veya benzeri vasıtaları teslim etmeye; EİS’teki verileri veri merkezine aktarmaya ve fire tespit ve imha komisyonlarında yer almaya Darphane tarafından yetkilendirilmiş olduğunu gösteren belgeyi,
+ö) Yetkili firma: Darphane tarafından verilen yetki belgesini haiz firmayı,
+ifade eder.
