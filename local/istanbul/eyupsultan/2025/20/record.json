@@ -1,0 +1,22 @@
+{
+  "number": "20",
+  "number_as_published": "2025/20",
+  "year": 2025,
+  "title": "Eyüpsultan, Mithatpaşa Mahallesi, 244 ada 4 parsel ve 245 ada 2 parsel için satış yetkisi",
+  "decision_date": "2025-02-06",
+  "source": "https://eyupsultan.bel.tr/tr/main/pages/2025-subat-ayi-meclis-kararlari/2671",
+  "official_document": "https://eyupsultan.bel.tr/tr/main/pages/2025-20/2676",
+  "source_sha256": "be74a9f115905009964f893bee0a80e655ff2ecb3a011a7eb1b1cfa8fc6da663",
+  "issuer": "Eyüpsultan Belediye Meclisi",
+  "history_type": "metadata",
+  "text_status": "metadata-only: listing fields as published; complete decision text is in the linked official document, not transcribed",
+  "in_force": "2025-02-06",
+  "in_force_basis": "Decision date as printed in the official council listing: 06.02.2025 (meeting date at the start of the decision page); adoption date of the council decision; legal commencement not asserted",
+  "missing": [
+    "complete official decision text",
+    "official annexes"
+  ],
+  "law_text_complete": false,
+  "privacy_withheld": false,
+  "decision_page_sha256": "113b184700c1eb419ddf8f7b0f8d3f88d6343668dfbfa16ae4fee52d8260f313"
+}
