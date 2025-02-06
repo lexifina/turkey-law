@@ -1,0 +1,17 @@
+{
+  "kind": "decision",
+  "issuer": "Sayıştay 7. Dairesi",
+  "number": "647",
+  "decision_date": "2025-02-06",
+  "source_id": 39315,
+  "chamber": "7",
+  "ilam_number": "54",
+  "item_number": 6,
+  "public_body_type": "Genel Bütçe Kapsamındaki İdareler",
+  "account_year": 2023,
+  "subject": "İhale Mevzuatı ile İlgili Kararlar",
+  "source": "https://www.sayistay.gov.tr/KararlarDaire/Detay/39315/",
+  "source_sha256": "93f6677418f7bd6e09969d8f8af720f56069309f9792ae2960324a76844b7b6e",
+  "text_status": "as-enacted",
+  "text_file": "metin.md"
+}
