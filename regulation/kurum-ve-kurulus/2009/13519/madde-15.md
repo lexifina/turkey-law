@@ -1,0 +1,5 @@
+Tahlilden arta kalan numunelere yapılacak işlemler
+MADDE 15 – (1) Laboratuvarlara gönderilmiş olan numunelere ait etiketlerin üzerine kimyagerlerce tahlil rapor numarasının yazılması şarttır.
+(2) Tahlili yapılan numuneler, tahlil raporlarının yazılıp imzalanmasından sonra tahlili yapan kimyager tarafından mühürlenir ve laboratuvardaki numune odasında saklanır.
+(3) Numune Alma Tutanağında beyan sahibi veya temsilcisince geri alınmayacağı yazılı olarak beyan edilen numuneler tahlil sonucunun yükümlüsüne tebliğ tarihinden on beş gün sonra tasfiye edilir. Tahlil isteği, tarife sorgusu, Bağlayıcı Tarife Bilgisi başvurusu, Bağlayıcı Menşe Bilgisi başvurusu veya herhangi bir nedenle idareye verilen ve süresi içinde alınmayan numuneler (Değişik ibare:RG-28/1/2014-28896) Bakanlıkça değerlendirilir.
+(4) Numunelerin üzerlerindeki mühürlerin bozulmasından, kap içindeki numunelerin akıp dökülmesinden veya zarara uğramasından, tasfiyesi gerekenlerin tespitinden, bunların zamanında tasfiye edilmemesinden ve bunların muhafazasından doğrudan doğruya numune odası memuru veya bu işle görevlendirilen memur sorumludur.

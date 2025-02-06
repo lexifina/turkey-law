@@ -1,0 +1,52 @@
+{
+  "source_id": "7.5.13519",
+  "kind": "regulation",
+  "register_kind": "Kurum ve Kuruluş Yönetmelikleri",
+  "title": "GÜMRÜK LABORATUVARLARININ FAALİYETLERİ HAKKINDA YÖNETMELİK",
+  "number": "13519",
+  "issuer_slug": "kurum-ve-kurulus",
+  "path": "regulation/kurum-ve-kurulus/2009/13519",
+  "source": "https://www.mevzuat.gov.tr/anasayfa/MevzuatFihristDetayIframe?MevzuatTur=7&MevzuatNo=13519&MevzuatTertip=5",
+  "source_sha256": "46f8975a8c161576c15deb4a1dfff583453c2f875cb30d1ddc8dd444e2b3830f",
+  "source_bytes": 184556,
+  "published": "2009-10-31",
+  "gazette": "27392",
+  "in_force": "2025-02-06",
+  "in_force_basis": "latest Resmî Gazete date printed in the source amendment notes/table (\"RG-6/2/2025\") for the current consolidated text",
+  "date_evidence": [
+    [
+      "2025-02-06",
+      "RG-6/2/2025",
+      "Resmî Gazete date printed in the source amendment note"
+    ],
+    [
+      "2025-02-06",
+      "6/2/2025",
+      "Resmî Gazete date in the source amendment table"
+    ],
+    [
+      "2014-01-28",
+      "RG-28/1/2014",
+      "Resmî Gazete date printed in the source amendment note"
+    ],
+    [
+      "2014-01-28",
+      "28/1/2014",
+      "Resmî Gazete date in the source amendment table"
+    ]
+  ],
+  "commencement_clauses": [
+    "Bu Yönetmelik yayımı tarihinde yürürlüğe girer"
+  ],
+  "history": "current-text",
+  "label": "oldest version available",
+  "checked_on": "2026-11-15",
+  "word_count": 3217,
+  "text_status": "current-consolidated",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  },
+  "completeness": "html-text-complete"
+}

@@ -1,0 +1,2 @@
+İkinci tahlil raporları
+MADDE 19 – (1) Yükümlüler tarafından gözlemci sıfatıyla kimyager bulundurulması halinde ikinci tahlil raporlarından çıktı alınarak gözlemci kimyagerlere de imza ettirilir. İkinci tahlil raporları gözlemci kimyagerler tarafından mütalaalı olarak imza edilmiş ise, bu mütalaaya karşı laboratuvar sorumlusu veya yerine görevlendirilen kimyager, laboratuvar sorumlusu bulunmayan yerlerde de ikinci tahlili yapan kimyager tarafından fenni esaslara dayanılarak ayrı bir mütalaa yazılarak imza altına alınır.
