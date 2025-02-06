@@ -1,0 +1,17 @@
+{
+  "kind": "decision",
+  "issuer": "Sayıştay 7. Dairesi",
+  "number": "645",
+  "decision_date": "2025-02-06",
+  "source_id": 39050,
+  "chamber": "7",
+  "ilam_number": "86",
+  "item_number": 1,
+  "public_body_type": "Belediyeler ve Bağlı İdareler",
+  "account_year": 2022,
+  "subject": "İhale Mevzuatı ile İlgili Kararlar",
+  "source": "https://www.sayistay.gov.tr/KararlarDaire/Detay/39050/",
+  "source_sha256": "9358fa67b100d25e527000f31a92b1de29073ce9205e71a6658141e497ca0596",
+  "text_status": "as-enacted",
+  "text_file": "metin.md"
+}
