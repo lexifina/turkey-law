@@ -1,0 +1,27 @@
+{
+  "number": "meeting-02-07",
+  "number_as_published": "meeting-02-07",
+  "year": 2025,
+  "title": "07.02.2025 tarihli meclis kararları",
+  "decision_date": "2025-02-07",
+  "source": "https://www.susehri.bel.tr/?s=meclis_kararlari&k=335",
+  "official_document": "https://susehri.bel.tr/belge/MK-2025-02-07.doc",
+  "source_sha256": "b9a21f60c9c80d5a96c9aac54ff2233cdb9fb8ef3746b6a7a4145b3a8c757d35",
+  "issuer": "Suşehri Belediye Meclisi",
+  "history_type": "metadata",
+  "text_status": "metadata-only: listing fields as published; complete decision text is in the linked official document, not transcribed",
+  "in_force": "2025-02-07",
+  "in_force_basis": "Decision date as printed in the official council listing: 07.02.2025; adoption date of the council decision; legal commencement not asserted",
+  "missing": [
+    "complete official decision text",
+    "official annexes"
+  ],
+  "law_text_complete": false,
+  "privacy_withheld": false,
+  "listing_label": "07.02.2025 tarihli meclis kararları",
+  "record_scope": "one official file of council decisions (meeting)",
+  "official_page": "https://www.susehri.bel.tr/?s=meclis_kararlari&k=335",
+  "item_title": "2025 Subat",
+  "file_label": "MK-2025-02-07",
+  "date_read_from": "official file name (MK-yyyy-mm-dd)"
+}
