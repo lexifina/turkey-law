@@ -1,0 +1,21 @@
+{
+  "record_type": "parliament-written-question",
+  "term": 28,
+  "legislative_year": 3,
+  "esas_no": "7/23531",
+  "submitted": "2025-02-07",
+  "submitted_as": "Başkanlığa geliş tarihi",
+  "mp": "Aylin YAMAN",
+  "province": "Ankara",
+  "summary": "Acil yardım ve afet yönetimi mezunlarının sağlık meslek mensubu sayılması talebine ilişkin",
+  "status": "Cevaplanmadığı Gelen Kağıtlarda İlan Edildi",
+  "status_as_of": "2026-11-16",
+  "official_record": "https://www.tbmm.gov.tr/Denetim/Yazili-Soru-Onergesi-Detay/ce504b3c-67a8-40c7-af6a-0194eef05edf",
+  "source": "https://tbmm.gov.tr/Denetim/YaziliSoruOnergesiTable",
+  "source_form": "https://tbmm.gov.tr/Denetim/Yazili-Soru-Onergeleri",
+  "source_sha256": "28d839191bdb95d3d81046ae384be34950a2e15bb22bc92c07ab89ce9158cdba",
+  "in_force": "2025-02-07",
+  "in_force_basis": "Date the question reached the Speaker (Başkanlığa geliş tarihi) in the official TBMM written-question record; parliamentary oversight record, not law",
+  "history_type": "metadata",
+  "text_status": "metadata-only: question text, addressee and answers are in the linked official record (PDFs on cdn.tbmm.gov.tr); not transcribed here"
+}
