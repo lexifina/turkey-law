@@ -1,0 +1,2 @@
+Danışma Kurulunun görevi
+MADDE 13- (1) Danışma Kurulunun görevi; Müdür tarafından hazırlanan ve Yönetim Kurulu tarafından uygun görülen yıllık çalışma faaliyetlerini ve bir sonraki çalışma yılına ait programı değerlendirerek görüş bildirmek, yeni çalışma konularıyla ilgili önerilerde bulunmak, çalışma alanlarında gerekli görüldüğü durumlarda diğer kurum ve kuruluşlarla iş birliği ve ortak çalışmalar önermektir.
