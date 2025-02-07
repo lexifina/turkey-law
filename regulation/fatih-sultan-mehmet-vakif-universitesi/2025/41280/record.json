@@ -1,0 +1,39 @@
+{
+  "checked_on": "2026-11-14",
+  "commencement_clauses": [
+    "MADDE 18- (1) Bu Yönetmelik yayımı tarihinde yürürlüğe girer."
+  ],
+  "date_evidence": [
+    [
+      "2025-02-07",
+      "07.02.2025",
+      "original gazette publication date in official listing"
+    ]
+  ],
+  "date_quote": "MADDE 18- (1) Bu Yönetmelik yayımı tarihinde yürürlüğe girer.",
+  "first_law": null,
+  "gazette": "32806",
+  "history": "current-text",
+  "images": {
+    "deferred": 0,
+    "omitted": 0,
+    "referenced": 0,
+    "source": 0
+  },
+  "in_force": "2025-02-07",
+  "in_force_basis": "source commencement clause: enters into force on gazette publication",
+  "issuer": "Fatih Sultan Mehmet Vakıf Üniversitesi",
+  "issuer_slug": "fatih-sultan-mehmet-vakif-universitesi",
+  "kind": "regulation",
+  "label": "oldest version available",
+  "path": "regulation/fatih-sultan-mehmet-vakif-universitesi/2025/41280",
+  "published": "2025-02-07",
+  "source": "https://www.mevzuat.gov.tr/anasayfa/MevzuatFihristDetayIframe?MevzuatTur=8&MevzuatNo=41280&MevzuatTertip=5",
+  "source_bytes": 55089,
+  "source_id": "8.5.41280",
+  "source_sha256": "d74ab2074d78148d807031d4e02b330e44ac14afc994cd0284879ef1fadb8ea5",
+  "text_status": "as-enacted",
+  "title": "FATİH SULTAN MEHMET VAKIF ÜNİVERSİTESİ KADIN VE AİLE ÇALIŞMALARI UYGULAMA VE ARAŞTIRMA MERKEZİ YÖNETMELİĞİ",
+  "university_id": 359,
+  "word_count": 1402
+}
