@@ -1,0 +1,5 @@
+Değişikliği önerenin sorumlulukları
+MADDE 7- (1) Değişikliği öneren, planlanan değişikliğin getirdiği risklerin bertaraf edilmesi veya kabul edilebilir hale getirilmesi için karar verilen risk kontrol önlemlerinin uygulanmasını sağlar ve değişikliği yönetir.
+(2) Değişikliği öneren, uygulanmasına karar verilen değişikliğe ilişkin Değerlendirme kuruluşu (AsBo) raporunun düzenlenmesinden itibaren on iş günü içerisinde düzenlenen raporu, risk analizlerini ve risklerin yönetilmesi için sahada alınan önlemlere dair bilgi ve belgelerle birlikte hazırlanan veya güncellenen prosedürleri, talimatları, formları ve diğer dokümanları ilgili mevzuat doğrultusunda Genel Müdürlüğün bilgisine sunar.
+(3) Demiryolu işletmecileri, uygulanmasına karar verilen değişiklik doğrultusunda emniyet sertifikasının veya emniyet yetkilendirmesinin güncellenmesi için Genel Müdürlüğe başvuruda bulunur.
+(4) Bakımdan sorumlu kuruluşlar (ECM), uygulanmasına karar verilen değişiklik doğrultusunda demiryolu aracının tescil bilgilerinin güncellenmesi için Genel Müdürlüğe başvuruda bulunur.
