@@ -1,0 +1,6 @@
+Teknik ve idari sorumluluk
+MADDE 15 – (1) Proje paftaları ile destekleyici belge, hesap ve raporları imzalayan (Mülga ibare:RG-25/1/2019-30666)(…) mühendisler ve/veya Proje Firması yetkilisi; hazırlanan projelerin, hesap ve raporların ilgili mevzuata, standartlara uygunluğundan sorumludur.
+(2) Proje onayını yapan POB ve mühendisleri; hazırlanan projelerin, hesap ve raporların bu Yönetmeliğe kavramsal olarak uygunluğundan sorumlu olup detay, uygulama ve imalattan doğabilecek her türlü sorumluluk proje müellifi, lisans/tesis sahibi ve yüklenicinin sorumluluğundadır.
+(3) Lisans/tesis sahibi; elektrik tesisinin projelendirilmesi işlemleri ile gerekli onay, izin, ruhsat ve belgelerin alınmasından sorumludur.
+(4) Bu Yönetmelik kapsamında hazırlanan projeler için düzenlenen Tip Sertifikası, Dizayn Sertifikası, TSE Kritere Uygunluk Belgesine veya üniversiteler tarafından verilen uygunluk belgelerine ilişkin sorumluluk, belgeyi düzenleyen kurum/kuruluş ile lisans/tesis sahibine ait olup ilgili POB sorumlu tutulamaz.
+(5) 2 nci maddenin ikinci fıkrasının (c) bendi kapsamındaki elektrik tesislerine ilişkin teknik (Ek ibare:RG-25/1/2019-30666) ve idari sorumluluk proje onayını yapan kurum/kuruluştadır.

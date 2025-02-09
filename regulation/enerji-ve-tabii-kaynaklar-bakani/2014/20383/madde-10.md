@@ -1,0 +1,7 @@
+ÜÇÜNCÜ BÖLÜM
+Projelerin Hazırlanması, Sunulması ve Onayı
+Projelerin hazırlanması
+MADDE 10 – (Değişik:RG-25/1/2019-30666)
+(1) (Değişik:RG-9/2/2025-32808) Proje dosyaları, tesis tipine göre asgari olarak Elektrik Tesisleri Proje Kapsamı/Üretim Tesisi, Üretim Tesisine Bütünleşik Elektrik Depolama Ünitesi ve Depolamalı Elektrik Üretim Tesisi Ön Proje Kapsamını (EK-2/EK-4’ü) içerir. İhtiyaç olması halinde, bu proje kapsamlarına ilave pafta, hesap, rapor, bilgi ve belgeler Bakanlıkça belirlenebilir ve Bakanlığın internet sitesinde ilan edilir. Bakanlık dışındaki POB’lar, Bakanlığın olumlu görüşünü almak şartıyla, EK-2/EK-4’te belirtilen kapsamlara ilave pafta, hesap, rapor, bilgi ve belge belirleyebilir ve internet sitelerinde ilan ederler.
+(2) Bu Yönetmelik kapsamında, EK-2/EK-4’te belirtilenlerden farklı tesis tiplerine ilişkin projeler için gerekli pafta, hesap, rapor, bilgi ve belgeler Bakanlıkça belirlenir ve Bakanlığın internet sitesinde ilan edilir. Bu kapsamdaki projeler için Bakanlıkça gerekliliği ilan edilen proje kapsamına ek olarak, Bakanlık dışındaki POB’lar Bakanlığın olumlu görüşünü almak şartıyla, ilave pafta, hesap, rapor, bilgi ve belge belirleyebilir ve internet sitelerinde ilan ederler.
+(3) Projeleri, hesap ve raporları düzenleyen ve imzalayan mühendislerin tasarım yaparken; yerinde incelemenin yanında, yürürlükteki ilgili mevzuat, standartlar, uygulama kodları ile ilgili kurum/kuruluşlar tarafından yayımlanan şartname, usul ve esasları dikkate almaları gereklidir.

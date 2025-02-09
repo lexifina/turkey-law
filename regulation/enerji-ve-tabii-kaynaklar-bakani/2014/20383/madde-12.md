@@ -1,0 +1,15 @@
+Projelerin onayı
+MADDE 12 – (1) Bu Yönetmelik kapsamındaki projelerin incelenmesi ve onayı ilgili POB tarafından yapılır.
+(2) (Değişik:RG-25/1/2019-30666) İlgili mevzuat ve standartlar çerçevesinde hazırlanan projelerin bu Yönetmeliğe kavramsal olarak uygunluğu incelenir. Proje onayı için inceleme aşamasında istenen bilgi, belge, rapor, kaynak, doküman, tesiste uygulamaya esas standartların kod/no bilgileri ve paftalar, başvuru sahibi tarafından ilgili POB’a sunulur.
+(3) Elektronik ortamda sunulan projelerde ve/veya basılı doküman üzerinden yapılan detaylı inceleme sırasında tespit edilen eksik ve hatalı hususlar başvuru sahibine 15 iş günü içerisinde bildirilerek ilgili hususların 15 iş günü içerisinde düzeltilmesi istenir. Tespit edilen eksik ve hataların tamamının bu süre içerisinde giderilememesi halinde projeler yazı ile iade edilir.
+(4) Gerekli belgelerin eksiksiz olduğu görüldükten ve detaylı inceleme ile projelerin uygun olduğu anlaşıldıktan sonra, sunulan projelerin onaylandığı hususu yazılı olarak başvuru sahibine bildirilir. Bu fıkra kapsamındaki işlemlerin süresi 15 iş gününü geçemez.
+(5) Onaylanan projeler 5 yıl geçerlidir. Söz konusu projelerde herhangi bir değişiklik olmaması kaydıyla projelere ilişkin geçerlik süresi, lisans/tesis sahibinin talebi üzerine bu Yönetmelikteki şartları da taşıması halinde proje onayını yapmış olan POB tarafından uzatılabilir.
+(6) İlgili POB’a onaylatmadan elektrik tesislerinin onaylı projelerinde tadil yapılamaz.
+(7) (Değişik:RG-9/2/2025-32808) Üretim tesislerinde, üretim tesisine bütünleşik elektrik depolama ünitelerinde ve depolamalı elektrik üretim tesislerinde; elektromekanik teçhizata ilişkin akredite bir kuruluştan alınmış tip sertifikası veya dizayn sertifikası ya da Standarda/Kritere Uygunluk Belgesi, ekleriyle birlikte imalatçı veya imalatçı adına lisans/tesis sahibi tarafından ilgili POB’a sunulur. Bu belgeler;
+a) İlgili POB tarafından onay işlemine tabi tutulmaz.
+b) İlgili POB’un arşivinde muhafaza edilip kayda alınarak talep edilmesi halinde Bakanlığa sunulur.
+c) Aynı teçhizatın kullanılacağı diğer elektrik tesisi projelerinde tekrar talep edilmez.
+ç) Listelenerek senede bir defadan az olmamak üzere Bakanlığa bildirilir.
+(8) (Ek:RG-25/1/2019-30666) (Değişik:RG-9/2/2025-32808) Üretim tesislerine, üretim tesisine bütünleşik elektrik depolama ünitelerine ve depolamalı elektrik üretim tesislerine ilişkin İnşaat Uygunluk Raporu lisans/tesis sahibi tarafından ilgili POB’a ekleriyle birlikte sunulur. Bu belgeler ilgili POB tarafından onay işlemine tabi tutulmaz.
+(9) (Ek:RG-25/1/2019-30666) Proje değerlendirme sürecinde ihtiyaç olması halinde, lisans/tesis sahibi ve/veya lisans/tesis sahibini temsile yetkili kişiler, proje ile ilgili görüşme talebiyle ilgili POB’a çağrılabilir.
+(10) (Ek:RG-9/2/2025-32808) Bu Yönetmeliğe konu tesislerin proje onay işlemleri, fiziksel proje onayına imkân veren seçeneğin muhafaza edilmesi şartıyla elektronik imza mevzuatına uygun olarak elektronik ortamda da yapılabilir.

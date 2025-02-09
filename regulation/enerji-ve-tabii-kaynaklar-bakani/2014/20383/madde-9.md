@@ -1,0 +1,7 @@
+Usul ve esaslar
+MADDE 9 – (1) (Ek ibare:RG-9/2/2025-32808) Kamu kurumu/kuruluşu POB’lar bu Yönetmelik hükümlerine aykırı olmamak kaydıyla ve Bakanlığın olumlu görüşünü almalarını müteakip, proje, hesap ve raporların kapsamı, hazırlanması, sunuluşu ve onayına ilişkin usul ve esasları belirleyerek yayımlayabilir.
+(2) (Değişik:RG-25/1/2019-30666) Proje onayı yapılmayan tesislere hiçbir suretle enerji verilemez.
+(3) (Değişik:RG-25/1/2019-30666) Proje onayı yapılmayan elektrik tesisinin kabulü yapılamaz.
+(4) Proje onayı yapılmadan kurulan tesislerin işletilmesi yasaktır. Bu gibi tesisler tespit edilmeleri durumunda Bakanlıkça görevlendirilecek veya yetkilendirilecek gerçek ve/veya tüzel kişiler tarafından mühürlenerek inşaatları, montajları, çalıştırılmaları önlenir. Bakanlık gerekli görürse bu tesislerin sistemden beslenmesini önleyici tedbirler de alır veya aldırır. (Ek cümle:RG-25/1/2019-30666) Kabulü yapıldıktan sonra, tadilat projesi onaylatılmadan ya da ilgili POB’dan uygun görüş alınmadan, işletmedeki tesiste onaylı projesine uygun olmayan herhangi bir değişiklik yapıldığının tespiti durumunda bu fıkrada belirtilen iş ve işlemler işletmedeki tesisler için de uygulanır.
+(5) Bu Yönetmeliğin usul ve esaslarının uygulanmasına ilişkin anlaşılamayan bir husus ortaya çıkarsa, Bakanlığın bu konuda vereceği karar geçerlidir.
+(6) Bakanlık, gerekli görmesi halinde, bu Yönetmelik hükümlerinin uygulanmasına ilişkin usul ve esaslar yayımlayabilir.
