@@ -1,0 +1,2 @@
+Dayanak
+MADDE 3- (1) Bu Yönetmelik, 14/4/1341 tarihli ve 618 sayılı Limanlar Kanununun ek 1 inci maddesi, 19/4/1926 tarihli ve 815 sayılı Türkiye Sahillerinde Nakliyatı Bahriye (Kabotaj) ve Limanlarla Kara Suları Dahilinde İcrayı San'at ve Ticaret Hakkında Kanun, 24/11/1994 tarihli ve 4046 sayılı Özelleştirme Uygulamaları Hakkında Kanuna ve 1 sayılı Cumhurbaşkanlığı Teşkilatı Hakkında Cumhurbaşkanlığı Kararnamesinin 478 inci maddesinin birinci fıkrasının (g) bendine dayanılarak hazırlanmıştır.

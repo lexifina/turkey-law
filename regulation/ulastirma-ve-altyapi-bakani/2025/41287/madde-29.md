@@ -1,0 +1,4 @@
+Etap seyri
+MADDE 29- (1) Körfez, koy, boğaz ve kanal gibi deniz trafiğinin yoğun olduğu dar ve riskli deniz alanlarında, seyir emniyeti ile can, mal, deniz ve çevre güvenliğini artırmaya yönelik olarak İdare kılavuz kaptan ile etap seyri uygulaması belirleyebilir.
+(2) Etap seyri hizmeti, geminin yanaşacağı/kalkış yaptığı liman tesisinin bulunduğu bölgede hizmet veren kılavuzluk hizmetlerinin işleticisi tarafından, iki nokta arasında yapılacak kılavuzlu seyir ile demir atma hizmetleri geminin kalkış yaptığı liman tesisinin bulunduğu bölgede hizmet veren kılavuzluk hizmetlerinin işleticisi tarafından verilir. Demir alma hizmeti ise geminin demirden kalkıp yanaşacağı liman tesisinin bulunduğu bölgede hizmet veren kılavuzluk hizmetlerinin işleticisi tarafından verilir.
+(3) İzmit Körfezinde etap seyri uygulanır.

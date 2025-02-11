@@ -1,0 +1,5 @@
+BEŞİNCİ BÖLÜM
+Çeşitli ve Son Hükümler
+Görevlendirme
+MADDE 28- (1) Herhangi bir bölgesel hizmet sahasında veya liman tesisinde, kılavuzluk veya römorkörcülük hizmetlerinin yürütülmesine yönelik talep olmaması veya sunulan hizmetin süresinden önce herhangi bir nedenle sona ermesi veya iptal edilmesi yahut mücbir sebep durumunun gerçekleşmesi halinde; İdare bizzat veya ihale ile hizmet alımı yöntemiyle bu hizmeti verebileceği gibi geçici olarak yeterli hizmet verebilecek şartları haiz mevcut kılavuzluk veya römorkörcülük hizmeti veren gerçek veya tüzel kişileri, kamu yararı amacıyla sınırlı olmak üzere, kapasite ve coğrafi yakınlık gibi hususları gözeterek makul bir süre için görevlendirebilir.
+(2) Kılavuzluk ve/veya römorkörcülük hizmeti verenlerin 18 inci maddenin ikinci fıkrası, 23 üncü maddenin ikinci ve üçüncü fıkraları veya 24 üncü maddenin altıncı fıkrasında belirtilen nedenlerle yahut diğer bir nedenle geçici olarak hizmet verememesi/vermemesi halinde hizmetlerin aksamaması için görevlendirme dahil olmak üzere İdare her türlü önlemi alabilir veya geçici düzenleme yapabilir.
