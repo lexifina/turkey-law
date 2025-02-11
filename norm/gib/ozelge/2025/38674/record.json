@@ -1,0 +1,22 @@
+{
+  "kind": "norm",
+  "issuer": "Gelir İdaresi Başkanlığı",
+  "document_type": "ozelge",
+  "number": "E-63852321-130[9-2024/20-1975]-32996",
+  "source_id": 38674,
+  "date": "2025-02-11",
+  "title": "Lisanslı depoculuk hizmetinde KDV tevkifatı hk.",
+  "source": "https://gib.gov.tr/mevzuat/kanun/436/ozelge/38674",
+  "related_law": "3065 sayılı KATMA DEĞER VERGİSİ KANUNU",
+  "source_api": "https://gib.gov.tr/api/gibportal/mevzuat/ozelge/list",
+  "source_listing": "evidence/list/2026-11-16/ozelge-p008.json",
+  "source_listing_sha256": "292c126217cc32c3ccfa57495ce433f89ef8db5e75fa1946d5819a76f81aff4d",
+  "source_sha256": "ce8517eb58fda64d6436616e2d69a68bfd67f109431289b134797d26b731aeb6",
+  "text_status": "as-enacted",
+  "text_file": "metin.md",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  }
+}
