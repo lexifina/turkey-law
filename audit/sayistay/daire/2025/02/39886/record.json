@@ -1,0 +1,16 @@
+{
+  "kind": "decision",
+  "issuer": "Sayıştay 5. Dairesi",
+  "number": "689",
+  "decision_date": "2025-02-11",
+  "source_id": 39886,
+  "chamber": "5",
+  "ilam_number": "90",
+  "item_number": 12,
+  "account_year": 2023,
+  "subject": "İhale Mevzuatı ile İlgili Kararlar",
+  "source": "https://www.sayistay.gov.tr/KararlarDaire/Detay/39886/",
+  "source_sha256": "0e03f84f60b4d0925c0dc9d08bf6dcedd436dd098e46a80dcae6e4e7a64d7d18",
+  "text_status": "as-enacted",
+  "text_file": "metin.md"
+}
