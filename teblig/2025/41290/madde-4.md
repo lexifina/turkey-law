@@ -1,0 +1,3 @@
+Numune alma ve analiz metotları
+MADDE 4- (1) Türk Gıda Kodeksi Bulaşanlar Yönetmeliğinde yer alan kurşun, kadmiyum, cıva, inorganik kalay, inorganik arsenik, 3-monokloropropan-1,2-diol (3-MCPD), 3-MCPD yağ asidi esterleri, glisidil yağ asidi esterleri, polisiklik aromatik hidrokarbonlar (PAH) ve perklorat ve aynı Yönetmeliğin 10 uncu maddesi kapsamında akrilamid ve nikel seviyelerinin kontrolü için kullanılan numune alma ve analiz metotları Ek-1’de yer alan şekilde gerçekleştirilir.
+(2) Birinci fıkra, 17/12/2011 tarihli ve 28145 sayılı Resmî Gazete’de yayımlanan Gıda ve Yemin Resmi Kontrollerine Dair Yönetmelik hükümleri saklı kalmak kaydıyla uygulanır.
