@@ -1,0 +1,2 @@
+4046 sayılı Kanun kapsamında Türkiye Elektrik Dağıtım A.Ş. ve bağlı ortaklıklarına yapılacak bedelsiz devir işlemlerinde yetki
+MADDE 21- (1) 24/11/1994 tarihli ve 4046 sayılı Özelleştirme Uygulamaları Hakkında Kanunun 19 uncu maddesinin birinci fıkrasının (B) bendinin (a) alt bendi uyarınca, Hazine taşınmazlarının Türkiye Elektrik Dağıtım A.Ş ve bağlı ortaklıklarına yapılan bedelsiz devir işlemleri Valiliklerce (İl müdürlükleri) yürütülür.

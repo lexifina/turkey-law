@@ -1,0 +1,2 @@
+Sit alanlarında trampa işlemlerinde yetki
+MADDE 30- (1) 22/5/2010 tarihli ve 27588 sayılı Resmî Gazete’de yayımlanan Sit Alanlarında Kalan Taşınmazların Hazine Taşınmazları ile Değiştirilmesi Hakkında Yönetmelik hükümleri kapsamında tebligat işlemleri ve isteklilerin talepleri doğrultusunda trampa/ferağ işlemleri Yönetmeliğin 65 inci maddesi kapsamında Valiliklerce (İl müdürlükleri) sonuçlandırılır.

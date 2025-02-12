@@ -1,0 +1,2 @@
+Sözleşme devri ve fesih işlemlerinde yetki
+MADDE 14- (1) Devre esas kira bedeli 13 üncü maddenin birinci fıkrasında belirtilen parasal sınırları (bu bedeller dâhil) aşmayan kira sözleşmelerinin devirleri Valiliklerce (İl müdürlükleri); taşınmaz ilçede ise, Valilikten (İl müdürlüğü) izin alınmak suretiyle Kaymakamlıklarca (Milli emlak müdürlükleri/şeflikleri); kira sözleşmelerinin feshi işlemleri ise, taşınmazın kiraya verilmesine onay veren makam tarafından yapılır.

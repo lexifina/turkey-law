@@ -1,0 +1,2 @@
+6461 sayılı Kanun kapsamında yapılacak devirlerde yetki
+MADDE 11- (1) 24/4/2013 tarihli ve 6461 sayılı Türkiye Demiryolu Ulaştırmasının Serbestleştirilmesi Hakkında Kanununun 7 nci maddesinin birinci fıkrası kapsamında yapılacak devirlerde, Hazine taşınmazlarından emlak vergi değeri yılı merkezi yönetim bütçe kanununun (İ) cetvelinde Kanunun 76 ncı maddesi için belirlenen parasal sınırlara kadar olanlara (bu bedeller dâhil) ilişkin devir talepleri Valilikler (İl müdürlükleri) tarafından sonuçlandırılır.

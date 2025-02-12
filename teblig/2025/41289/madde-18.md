@@ -1,0 +1,2 @@
+Mülga 2981 sayılı Kanun kapsamındaki işlemlerde yetki
+MADDE 18- (1) Mülga 24/2/1984 tarihli ve 2981 sayılı Kanun kapsamında devri yapılan taşınmazlardan devir amacına uygun olarak kullanılmayanların bedelsiz olarak yeniden Hazine adına tescili, bu Kanun kapsamındaki uyuşmazlıklar için dava yoluna gidilmesi, açılan ve açılacak davaların takibi ve savunulması ile bu Kanun kapsamındaki taşınmazlar üzerine konulan şerhlerin tadili ve terkinine ilişkin işlemler Valiliklerce (İl müdürlüğü) değerlendirilir ve sonuçlandırılır.

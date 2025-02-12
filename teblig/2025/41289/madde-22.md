@@ -1,0 +1,2 @@
+6292 sayılı Kanunun 7 nci maddesi kapsamında yapılacak iade işlemlerinde yetki
+MADDE 22- (1) 6292 sayılı Kanunun 7 nci maddesinin birinci ve dördüncü fıkraları kapsamında hak sahiplerine yapılacak iade işlemlerinde ve iade edilemeyen taşınmazın yerine rayiç bedeline eşdeğer taşınmaz iade edilmesi işlemlerinde iade edilecek taşınmaz kısımlarının hak sahibi bazında yedi bin beş yüz m²’ye kadar olan kısmı için Valilikler (İl müdürlükleri) yetkilidir.
