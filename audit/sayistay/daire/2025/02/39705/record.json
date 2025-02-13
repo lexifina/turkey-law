@@ -1,0 +1,17 @@
+{
+  "kind": "decision",
+  "issuer": "Sayıştay 1. Dairesi",
+  "number": "10955",
+  "decision_date": "2025-02-13",
+  "source_id": 39705,
+  "chamber": "1",
+  "ilam_number": "74",
+  "item_number": 2,
+  "public_body_type": "Genel Bütçe Kapsamındaki İdareler",
+  "account_year": 2023,
+  "subject": "Personel Mevzuatı ile İlgili Kararlar",
+  "source": "https://www.sayistay.gov.tr/KararlarDaire/Detay/39705/",
+  "source_sha256": "72fe43347e76668deda753b6f279eec86e680b042318576ba4cc50ba0b5f905c",
+  "text_status": "as-enacted",
+  "text_file": "metin.md"
+}
