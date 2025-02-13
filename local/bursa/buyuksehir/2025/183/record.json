@@ -1,0 +1,30 @@
+{
+  "issuer": "Bursa Büyükşehir Belediye Meclisi",
+  "number": "183",
+  "decision_date": "2025-02-13",
+  "version_label": "as-enacted",
+  "source_url": "https://www.bursa.bel.tr/storage/medya/meclis_karar_yeni/2025-183.pdf",
+  "source_sha256": "d4daf2b4b2a3ac3458c61c6f2923e677e03a55904d47a47cc5bd0081dde59c48",
+  "normative_images": 0,
+  "source_image_inventory": [
+    {
+      "page": 1,
+      "source_images": 2,
+      "decorative_logos": 2,
+      "normative_images": 0
+    },
+    {
+      "page": 2,
+      "source_images": 2,
+      "decorative_logos": 2,
+      "normative_images": 0
+    },
+    {
+      "page": 3,
+      "source_images": 2,
+      "decorative_logos": 2,
+      "normative_images": 0
+    }
+  ],
+  "annex_status": "Only the decision PDF linked by the official register is held; referenced supporting plans or annexes not separately linked are not included."
+}
