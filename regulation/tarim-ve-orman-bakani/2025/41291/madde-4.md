@@ -1,0 +1,20 @@
+Tanımlar
+MADDE 4- (1) Bu Yönetmelikte geçen;
+a) Bağımsız sertifikalandırma kuruluşu: Alternatif metot üreten veya dağıtan kuruluştan bağımsız olan ve onaylanmış alternatif metodun; EN ISO 16140-2 veya diğer ilgili uluslararası standartlarda yer alan gerekliliklerini yerine getirdiğini kanıtlayan, sertifika şeklinde yazılı bir güvence sağlayan kuruluşu,
+b) Bakanlık: Tarım ve Orman Bakanlığını,
+c) Bebek ve küçük çocuk ek gıdaları: 2/7/2019 tarihli ve 30819 sayılı Resmî Gazete’de yayımlanan Türk Gıda Kodeksi Bebek ve Küçük Çocuklara Yönelik Gıdalar ile Vücut Ağırlığı Kontrolü İçin Diyetin Yerini Alan Gıdalar Yönetmeliğinde tanımlanan bebeklerin özel beslenme ihtiyaçlarını karşılamak amacıyla üretilen gıdaları,
+ç) EN ISO 16140-2’de atıf yapılan geniş kapsamlı gıda: Laboratuvarlar tarafından alternatif analiz yöntemlerinin doğrulanması için yapılan validasyon çalışmalarında seçilmesi gereken gıda kategorilerini ve sayılarını,
+d) Filizler: Tohumların çimlenmesi ve suda veya başka bir besi ortamında gelişirken, asıl yapraklar gelişmeden önce hasat edilmesiyle elde edilen ve tohum dahil bütün haliyle tüketilmesi amaçlanan ürünü,
+e) Gıda güvenilirliği kriteri: Piyasaya arz edilen ürünlere uygulanan ve bir ürünün veya bir gıda partisinin kabul edilebilirliğini tanımlayan kriteri,
+f) Mikroorganizma ve bunların toksin ve metabolitleri: Bakteri, virüs, maya, küf, alg, parazitik protozoa, mikroskobik parazitik helmint ve bunların toksinleri ve metabolitlerini,
+g) Mikrobiyolojik kriter: Mikroorganizmaların varlığına/yokluğuna ya da sayısına ve/veya bunların kütle, hacim, alan veya parti birimi başına toksinlerinin ve metabolitlerinin miktarına dayalı olarak bir ürünün, bir gıda partisinin veya işlemin kabul edilebilirliğini tanımlayan kriteri,
+ğ) Mikrobiyolojik kriterlere uygunluk: 5996 sayılı Kanun ve ilgili mevzuat ile Bakanlık talimatlarına göre numunelerin alınması, analizin yapılması ve düzeltici faaliyetlerin yerine getirilmesi sırasında elde edilen verilerin EK-1, EK-2 ve EK-3’te yer alan uygun veya kabul edilebilir sonuçları sağlanmasını,
+h) Numune: Bir popülasyondan veya maddenin önemli bir miktarından; incelenen popülasyon veya maddenin belirli bir özelliği hakkında bilgi sağlamak ve söz konusu popülasyon veya madde hakkında veya bunların üretim süreci hakkında alınacak karara esas teşkil etmek amacıyla farklı yöntemler kullanılarak seçilen bir veya birden fazla birimden oluşan seti veya maddenin bir kısmını,
+ı) Parti: Aynı koşullar altında belirli bir işlemden elde edilen ve tanımlı bir üretim periyodu içerisinde belirli bir yerde üretilen ürünlerin bir grubunu veya setini,
+i) Raf ömrü: 26/1/2017 tarihli ve 29960 mükerrer sayılı Resmî Gazete’de yayımlanan Türk Gıda Kodeksi Gıda Etiketleme ve Tüketicileri Bilgilendirme Yönetmeliğinde tanımlanan son tüketim tarihi veya tavsiye edilen tüketim tarihi ile uyumlu olan süreyi,
+j) Temsili numune: Alındığı partinin özelliklerini taşıyan, partinin her bir parçası veya birincil numunesinin her birinden rastgele seçilen başlangıç numunesi ile aynı olasılığa sahip numuneyi,
+k) Tüketime hazır gıda: Gıda işletmecisi tarafından; gıdanın mikrobiyal yükünü elimine edecek veya kabul edilebilir seviyeye düşürecek pişirme veya herhangi başka bir işleme ihtiyaç olmaksızın, doğrudan insan tüketimine sunulması amaçlanarak üretilen gıdayı,
+l) Üreticinin üretim işlemi güvencesi: Onaylanmış alternatif metodun EN ISO 16140-2 tarafından istenen özelliklere uygun olmasını garanti eden ve alternatif yöntemdeki hata ve kusurların önlenmesini yönetim sistemi ile sağlayan üretim sürecini,
+m) Üretim hijyeni kriteri: Üretim işleminin kabul edilebilirliğini gösteren, piyasada yer alan ürüne uygulanmayan, bu kriterin üzerindeki değerlerde 5996 sayılı Kanun ile uyumlu üretim hijyenini sağlamak için düzeltici faaliyetlere ihtiyaç duyulan, gösterge niteliğinde bulaşma değerini belirleyen kriteri,
+ifade eder.
+(2) Bu Yönetmeliğin uygulamasında bu maddede belirtilen tanımlara ilave olarak 5996 sayılı Kanunun 3 üncü maddesinde yer alan tanımlar da geçerlidir.
