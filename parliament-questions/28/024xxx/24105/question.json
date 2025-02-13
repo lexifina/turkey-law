@@ -1,0 +1,21 @@
+{
+  "record_type": "parliament-written-question",
+  "term": 28,
+  "legislative_year": 3,
+  "esas_no": "7/24105",
+  "submitted": "2025-02-13",
+  "submitted_as": "Başkanlığa geliş tarihi",
+  "mp": "Mühip KANKO",
+  "province": "Kocaeli",
+  "summary": "Kocaeli ilinde yaşanan elektrik kesintilerine ilişkin",
+  "status": "Süresi Geçtikten Sonra Cevaplandı",
+  "status_as_of": "2026-11-16",
+  "official_record": "https://www.tbmm.gov.tr/Denetim/Yazili-Soru-Onergesi-Detay/d003cd94-2f3c-47f8-ba81-01950460cffe",
+  "source": "https://tbmm.gov.tr/Denetim/YaziliSoruOnergesiTable",
+  "source_form": "https://tbmm.gov.tr/Denetim/Yazili-Soru-Onergeleri",
+  "source_sha256": "f4e984db4dd1529ddcbb6add77b7d3818dba398ba2227438b5c3bce7d68650f8",
+  "in_force": "2025-02-13",
+  "in_force_basis": "Date the question reached the Speaker (Başkanlığa geliş tarihi) in the official TBMM written-question record; parliamentary oversight record, not law",
+  "history_type": "metadata",
+  "text_status": "metadata-only: question text, addressee and answers are in the linked official record (PDFs on cdn.tbmm.gov.tr); not transcribed here"
+}
