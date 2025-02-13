@@ -1,0 +1,21 @@
+{
+  "record_type": "parliament-written-question",
+  "term": 28,
+  "legislative_year": 3,
+  "esas_no": "7/24146",
+  "submitted": "2025-02-13",
+  "submitted_as": "Başkanlığa geliş tarihi",
+  "mp": "Elvan IŞIK GEZMİŞ",
+  "province": "Giresun",
+  "summary": "Giresun Güce Devlet Hastanesinde çalışan sağlık personeline ilişkin",
+  "status": "Süresi Geçtikten Sonra Cevaplandı",
+  "status_as_of": "2026-11-16",
+  "official_record": "https://www.tbmm.gov.tr/Denetim/Yazili-Soru-Onergesi-Detay/bccee013-7156-4a99-8348-019504125d8a",
+  "source": "https://tbmm.gov.tr/Denetim/YaziliSoruOnergesiTable",
+  "source_form": "https://tbmm.gov.tr/Denetim/Yazili-Soru-Onergeleri",
+  "source_sha256": "f4e984db4dd1529ddcbb6add77b7d3818dba398ba2227438b5c3bce7d68650f8",
+  "in_force": "2025-02-13",
+  "in_force_basis": "Date the question reached the Speaker (Başkanlığa geliş tarihi) in the official TBMM written-question record; parliamentary oversight record, not law",
+  "history_type": "metadata",
+  "text_status": "metadata-only: question text, addressee and answers are in the linked official record (PDFs on cdn.tbmm.gov.tr); not transcribed here"
+}
