@@ -1,0 +1,20 @@
+{
+  "record_type": "gazette-item",
+  "gazette": "Resmî Gazete",
+  "jurisdiction": "TR",
+  "date": "2025-02-13",
+  "issue": "32812",
+  "edition": "regular",
+  "item": 1,
+  "section": "YÜRÜTME VE İDARE BÖLÜMÜ",
+  "heading": "YÖNETMELİKLER",
+  "title": "Türk Gıda Kodeksi Mikrobiyolojik Kriterler Yönetmeliği",
+  "official_link": "https://www.resmigazete.gov.tr/eskiler/2025/02/20250213-1.htm",
+  "link_format": "htm",
+  "index_url": "https://www.resmigazete.gov.tr/eskiler/2025/02/20250213.htm",
+  "index_sha256": "9f5122870f7715050bf2fd4cc14205ff4027fa075f98c0b0e5be6e1ee3e3c0d8",
+  "index_header": "13 Şubat 2025 ... 32812 Sayılı Resmî Gazete",
+  "issue_pdf": "https://www.resmigazete.gov.tr/eskiler/2025/02/20250213.pdf",
+  "in_force_basis": "Resmî Gazete publication date; not a commencement reading.",
+  "text_status": "metadata-only; text not yet fetched (follow-up pass adds it as its own commit)"
+}
