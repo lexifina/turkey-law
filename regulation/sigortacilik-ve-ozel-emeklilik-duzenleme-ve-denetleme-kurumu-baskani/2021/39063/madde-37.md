@@ -1,0 +1,2 @@
+Aktüerya fonksiyonuna ilişkin istisna
+MADDE 37 – (1) Beşinci bölüm kapsamında aktüerya fonksiyonuna ilişkin faaliyetleri gerçekleştirmek ve aktüerya birimi kurmak yalnızca şirketler ile Doğal Afet Sigortaları Kurumu, Özel Riskler Yönetim Merkezi ve Türkiye Motorlu Taşıt Bürosu için tanımlanmış bir görevdir. Belirtilen özellikli kuruluşlar haricindeki kuruluşlar ile tüzel kişiliği haiz sigorta ve reasürans brokerleri bu bölümden istisnadır.

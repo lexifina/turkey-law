@@ -1,0 +1,4 @@
+İşlevsel görev ayrımı ve sorumlulukların tesisi
+MADDE 15 – (1) Kuruluşlar nezdinde, hata ve usulsüzlüğün, menfaat çatışmalarının, bilgi kirliliğinin ve kaynakların kötüye kullanımının önlenmesi amacıyla aynı konudaki faaliyetlere ilişkin görev ayrıştırması yapılarak kuruluş içindeki tüm birimlerin ve personelin yetki ve sorumlulukları açıkça ve yazılı olarak belirlenir.
+(2) Bir işlemin yapılmasına karar verilmesi, işlemin kayda alınması ve muhasebeleştirilmesi ile işlemin fiilen gerçekleştirilmesi işlevlerinin farklı personel sorumluluğuna verilmesi sağlanır.
+(3) Kuruluş için risk yaratabilecek işlevler tespit edilerek mümkün olduğunca diğer işlevlerden ayrılır ve farklı yetkililerin sorumluluğuna verilir. İcrai yetkileri olan personelin sorumlulukları ve yetkileri dönemsel olarak incelenerek bunların kuruluş için potansiyel risk oluşturmaması hususunda gerekli tedbirler alınır.

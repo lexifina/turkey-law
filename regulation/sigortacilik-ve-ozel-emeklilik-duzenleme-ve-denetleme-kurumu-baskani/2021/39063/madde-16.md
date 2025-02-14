@@ -1,0 +1,18 @@
+Bilgi sistemlerinin ve iş süreçlerinin tesisi
+MADDE 16 – (1) Kuruluş tarafından gerçekleştirilen faaliyetlerin veya verilen hizmetlerin etkin, güvenilir ve kesintisiz bir şekilde yönetilmesine; mevzuattan kaynaklanan yükümlülüklerin yerine getirilmesine, muhasebe ve finansal raporlama ile ana faaliyetlerin yürütüldüğü sistemlerden sağlanan bilgilerin bütünlüğünün, tutarlılığının, güvenilirliğinin, zamanında elde edilebilirliğinin ve gereken durumlarda gizliliğinin sağlanmasına elverişli ve aynı zamanda bilgi sistemlerinin kullanılmasından kaynaklı risklerin izlenmesini, kontrolünü ve gerekli önlemlerin alınmasını sağlayan iş süreçlerinin ve bilgi sistemlerinin tesisi zorunludur.
+(2) Kuruluş içinde tesis edilecek iş süreçlerinin ve bilgi sistemlerinin yapısının, şirketin ölçeği, faaliyetlerinin ve sunulan ürünlerin niteliği ve karmaşıklığı ile uyumlu olması gerekir.
+(3) Bilgi sistemleri asgari olarak;
+a) Şikâyet, tahsilat, hasar ve tazminat yönetim süreci başta olmak üzere, kuruluşun iş süreçlerinin etkin ve verimli çalışmasının sağlanmasına, hak sahiplerinin taleplerinin gecikmeksizin sonuçlandırılmasına, iş sürekliliğinin sağlanmasına,
+b) Bilgi sistemleri üzerinden gerçekleşen işlemlerin, kayıtların ve verilerin doğruluğunun, bütünlüğünün ve güvenilirliğinin sağlanmasına,
+c) Bilgi sistemleri dâhilinde gerçekleşen işlem ve olaylara ilişkin etkin bir iz kayıt mekanizması oluşturulmasına,
+ç) Bilgi sistemleri kullanıcılarının görev ve sorumlulukları gereği veri tabanlarına, uygulamalara ve sistemlere erişimi için uygun bir yetkilendirme ile erişim kontrolünün oluşturulmasına ve erişimin uygun bir kimlik doğrulama mekanizmasıyla sağlanmasına,
+d) Kuruluşun faaliyetlerinin yürütülmesinde kullanılan verilerin taşındığı, iletildiği, işlendiği, saklandığı ve yedek olarak tutulduğu ortamlarda ve kendi nam ve hesabına veri işleyen kurum veya kuruluşlarda 24/3/2016 tarihli ve 6698 sayılı Kişisel Verilerin Korunması Kanunu kapsamındaki gerekliliklerin yerine getirilmesini de sağlayacak şekilde veri gizliliğinin sağlanmasına,
+e) Veri tabanlarının ve bilgi sistemlerinin; sunulan ürünler, faaliyet türleri, coğrafi, demografik, ekonomik, operasyonel, stratejik veya benzeri risk doğuran süreçler bazında analiz yapılabilecek şekilde kurgulanmasına,
+f) Devlete, kamuoyuna, Sigorta Bilgi ve Gözetim Merkezi ile Emeklilik Gözetim Merkezine ve ilgili diğer kişi ve kurumlara yapılacak bildirim ve raporlamaların zamanında, eksiksiz ve hatasız yapılabilmesine,
+g) Herhangi bir denetim veya inceleme sırasında, ilgili kişilerin ihtiyaç duyduğu bilgi ve belgelerin uygun biçimde ve kısa süre içerisinde verilebilmesine,
+ğ) Kurum tarafından belirlenecek diğer gerekliliklerin sağlanmasına,
+imkân verecek bir yapıda tesis edilir.
+(4) Kuruluş, bilgi sistemlerinin güvenilirliğini sağlamak, düzenli olarak güncelleyerek gerekli değişiklikleri yapmak ve bilgi sistemlerinin kesintisiz olarak devam ettirilmesi ile ilgili tedbirleri almakla yükümlüdür.
+(5) Kuruluşların birincil ve ikincil sistemlerini yurt içinde bulundurmaları zorunludur. Ancak, elektronik posta hizmetleri, telekonferans veya video konferans gibi hizmetler birincil ve ikincil sistemlerin yurt içinde bulundurulma zorunluluğundan istisnadır.
+(6) Birincil ve ikincil sistemler kapsamında destek hizmeti alınıp alınmadığına bakılmaksızın, bu sistemler için iş sürekliliğini sağlamaya yetecek sayıda ve nitelikte kuruluş bünyesinde personel istihdam edilmesi zorunludur.
+(7) Üçüncü fıkranın (a) bendi kapsamında hasar ve tazminat yönetim sistemi başta olmak üzere kuruluşun iş süreçlerinin ve bilgi sistemlerinin asgari unsurları ile kontrolüne ilişkin usul ve esaslar ile birincil ve ikincil sistemlerin yurt içinde bulundurulmasına ilişkin esasları belirlemeye Kurum yetkilidir.

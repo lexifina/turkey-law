@@ -1,0 +1,2 @@
+Dayanak
+MADDE 2 – (1) Bu Yönetmelik; 3/6/2007 tarihli ve 5684 sayılı Sigortacılık Kanununun 4 üncü, 14 üncü, 21 inci, 28 inci, 30 uncu, 31/B inci, 32 nci, 33/A ıncı ve ek 1 inci maddeleri; 9/5/2012 tarihli ve 6305 sayılı Afet Sigortaları Kanununun 6 ncı maddesi ile 28/3/2001 tarihli ve 4632 sayılı Bireysel Emeklilik Tasarruf ve Yatırım Sistemi Kanununun 1 inci ve 20/A maddelerine dayanılarak hazırlanmıştır.
