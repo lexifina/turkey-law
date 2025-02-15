@@ -1,0 +1,449 @@
+15 Şubat 2025 CUMARTESİ
+Resmî Gazete
+Sayı : 32814
+YÖNETMELİK
+Aile ve Sosyal Hizmetler Bakanlığından:
+AİLE VE SOSYAL
+HİZMETLER BAKANLIĞI VERİ PAYLAŞIM YÖNETMELİĞİ
+BİRİNCİ BÖLÜM
+Başlangıç Hükümleri
+Amaç
+MADDE 1- (1) Bu Yönetmeliğin amacı;
+a) Aile ve Sosyal Hizmetler Bakanlığının hizmet
+sunumu ile ilgili Merkezi Veri Tabanında tutulan kişisel verilerin; kamu
+kurum ve kuruluşları, uluslararası kurum ve kuruluşlar, mahalli idareler,
+kamu hizmeti sunan özel hukuk tüzel kişileri ve paylaşım isteğinde bulunan
+bilimsel çalışmalarda anonimleştirilerek kullanılmak üzere gerçek kişiler
+ile paylaşılmasına,
+b) Çevrim içi veya çevrim dışı olarak kişisel veri
+paylaşımının kapsamına, yöntemine ve güvenliğine dair kuralların belirlenmesine,
+c) Bakanlık bünyesinde Veri Paylaşım Kurulu
+kurulması ve işleyişine,
+ilişkin usul ve esasları düzenlemektir.
+Kapsam
+MADDE 2- (1) Bu Yönetmelik,
+Aile ve Sosyal Hizmetler Bakanlığının hizmet sunumu ile ilgili Merkezi Veri
+Tabanında tutulan kişisel verilerin; kamu kurum ve kuruluşları,
+uluslararası kurum ve kuruluşlar, mahalli idareler ve paylaşım isteğinde
+bulunan gerçek ve tüzel kişiler ile Merkezi Veri Tabanındaki verilerden
+çevrim içi veya çevrim dışı yolla yararlanmalarını, paylaşımın kapsamı ve
+yöntemine ilişkin genel usul ve esaslar ile veri paylaşımı kurulunun
+çalışma usul ve esaslarını kapsar.
+Dayanak
+MADDE 3- (1) Bu Yönetmelik, 3/6/2011
+tarihli ve 633 sayılı Sosyal Hizmetler Alanında Bazı Düzenlemeler Hakkında
+Kanun Hükmünde Kararnamenin 33 üncü maddesi, 1 sayılı Cumhurbaşkanlığı
+Kararnamesinin 65 inci maddesinin birinci fıkrasının (ı) bendi ile 81 inci
+maddesinin birinci fıkrasının (d) bendine dayanılarak hazırlanmıştır.
+Tanımlar
+MADDE 4- (1) Bu Yönetmelikte geçen;
+a) Alıcı kurum: Bakanlık Merkezi Veri Tabanında
+tutulan verilerin çevrim içi ve çevrim dışı paylaşıldığı, kamu kurum ve
+kuruluşları, uluslararası kurum ve kuruluşlar, mahalli idareler ve paylaşım
+isteğinde bulunan tüzel kişileri,
+b) Bakanlık: Aile ve Sosyal Hizmetler Bakanlığını,
+c) Bakanlık ana hizmet birimleri: Aile ve Toplum
+Hizmetleri Genel Müdürlüğünü, Çocuk Hizmetleri Genel Müdürlüğünü, Engelli
+ve Yaşlı Hizmetleri Genel Müdürlüğünü, Kadının Statüsü Genel Müdürlüğünü,
+Sosyal Yardımlar Genel Müdürlüğünü, Şehit Yakınları ve Gaziler Genel
+Müdürlüğünü,
+ç) Çevrim dışı veri paylaşımı: Merkezi Veri
+Tabanında tutulan kayıtların veri tabanından sorgulanarak harici depolama
+araçları ve Genel Müdürlükçe belirlenen yöntemler ile paylaşımını,
+d) Çevrim içi veri paylaşımı: Merkezi Veri Tabanı
+internet servisleri ile yapılan veri paylaşımını,
+e) Diğer kişiler: Alıcı kurum dışında kalan gerçek
+kişileri,
+f) Genel Müdürlük: Bilgi Teknolojileri Genel
+Müdürlüğünü,
+g) Kişisel veri: Kimliği belirli veya
+belirlenebilir bir gerçek kişiye ilişkin her türlü bilgiyi,
+ğ) Kişisel verilerin işlenmesi:
+Kişisel verilerin tamamen veya kısmen otomatik olarak ya da herhangi bir
+veri kayıt sisteminin parçası olmak kaydıyla otomatik olmayan yollarla elde
+edilmesi, kaydedilmesi, depolanması, muhafaza edilmesi, değiştirilmesi,
+yeniden düzenlenmesi, açıklanması, aktarılması, devralınması, elde
+edilebilir hâle getirilmesi, sınıflandırılması ya da kullanılmasının
+engellenmesi gibi veriler üzerinde gerçekleştirilen her türlü işlemi,
+h) Kurul: Veri Paylaşımı Kurulunu,
+ı) Merkezi Veri Tabanı: Sosyal hizmet ve yardım
+faaliyetleriyle bunlardan yararlananlara ilişkin bilgilerin elektronik
+ortamda merkezî olarak muhafaza edildiği veri tabanı sistemini,
+i) Özel nitelikli kişisel veri: 24/3/2016
+tarihli ve 6698 sayılı Kişisel Verilerin Korunması Kanununun 6 ncı maddesinin birinci fıkrasında sayılan verileri,
+j) Servis çıktı parametresi: Merkezi Veri Tabanı
+servisini oluşturan veri elemanlarının her birini,
+k) Servis çıktı yetkisi: Farklı servis
+parametrelerinin birleşiminden oluşan veri grubunu,
+l) İnternet servisi: Merkezi Veri Tabanındaki
+verilerin servisler aracılığı ile paylaşılmasını sağlayan internet
+servisini,
+ifade eder.
+İKİNCİ BÖLÜM
+Veri Paylaşımı Kurulunun Oluşumu ve Görevleri
+Kurulun
+oluşumu, toplanması ve karar alınması
+MADDE 5- (1) Merkezi Veri Tabanında yer alan bilgilerin
+paylaşımına ilişkin talepleri değerlendirerek veri paylaşımından
+yararlanacakları belirlemek, paylaşımın kapsamı ve hangi yöntemle
+yapılacağına karar vermek üzere Bakanlık bünyesinde Bakan onayı ile Veri
+Paylaşımı Kurulu oluşturulur.
+(2) Kurul, Bilgi Teknolojileri
+Genel Müdürlüğünün bağlı bulunduğu Bakan Yardımcısı veya Bakan tarafından
+görevlendirilen bir Bakan Yardımcısı başkanlığında; Bilgi Teknolojileri
+Genel Müdürü veya görevlendireceği genel müdür yardımcısı, Bakanlık ana
+hizmet birimleri genel müdürleri ve görevlendirecekleri genel müdür
+yardımcıları, Hukuk Hizmetleri Genel Müdürü veya görevlendireceği genel
+müdür yardımcısı ve kurul sekretarya hizmetleriyle görevlendirilmiş olan
+Genel Müdürlük bünyesindeki ilgili daire başkanından oluşur.
+(3) Kurul, her yıl Ocak, Nisan, Temmuz ve Ekim
+aylarının ilk haftaları içerisinde olağan olarak toplanır. Olağan toplantı
+tarihlerinin resmî veya idari tatil günlerine denk gelmesi halinde, tatil
+gününü izleyen ilk iş günü, ilgili ayın olağan kurul toplantısı
+gerçekleştirilir. Kurul Başkanının talebi halinde ise olağanüstü toplanır.
+(4) Toplantıların gündemi, yeri ve saati Kurul
+Başkanı tarafından belirlenir. Toplantıda görüşülecek konular ve gündeme
+ilişkin bilgi ve belgeler Kurul üyelerine en az bir hafta öncesinde yazılı
+veya elektronik ortamda iletilir.
+(5) Kurul gündemine, toplantı sırasında üyelerden
+herhangi birinin teklifi, Kurul Başkanının onayı üzerine madde eklenebilir.
+(6) Kurul en az beş üyenin katılımıyla toplanır.
+Kurul kararları oy çokluğu ile alınır. Oylarda eşitlik olması halinde Kurul
+Başkanının bulunduğu taraf çoğunluk sayılır.
+(7) Karara muhalif olanlar, şerh koymak suretiyle
+kararı imzalarlar. Muhalif görüş gerekçesi bir sonraki Kurul toplantısına
+kadar karar dosyasına eklenmek üzere sekretaryaya teslim edilir.
+(8) Kurul kararları, toplantıya katılan tüm üyeler
+tarafından imzalanır. İmzaların tamamlanması ile karar yürürlüğe girer.
+(9) Toplantılarda alınan kararlar her yıl birden
+başlanarak yıl sonuna kadar numaralandırılır.
+(10) Gerekli görülen hallerde Kurul Başkanının
+onayı ile toplantıya üyeler haricinde oy hakkı olmaksızın kişiler de
+katılım sağlayabilir.
+(11) Kurulun sekretarya işlemleri, Genel Müdürlük
+bünyesinde görevlendirilmiş ilgili Daire Başkanlığı tarafından yürütülür.
+Kurulun
+görevleri
+MADDE 6- (1) Kurulun görevleri şunlardır:
+a) Çevrim içi veya çevrim dışı veri paylaşım
+taleplerini karara bağlamak.
+b) Alıcı kurumlarla, hangi verilerin çevrim içi
+olarak paylaşılacağına karar vermek.
+c) Çevrim içi ek servis, servis çıktı yetkisi ve
+servis çıktı parametresi taleplerini değerlendirerek karar vermek.
+ç) Benzer konulardaki, çevrim içi veya çevrim dışı
+veri paylaşımlarına ilişkin ilke kararları almak.
+d) Veri paylaşımının kapsamını belirlemek ve hangi
+yöntemle yapılacağına karar vermek.
+e) Genel Müdürlüğün belirleyeceği yöntem ile hangi
+servislerin yer alacağına ve bu servislerin girdi ve çıktı parametrelerine
+karar vermek.
+f) Protokol/sözleşmenin iptali, feshi veya veri
+paylaşımının askıya alınmasına yönelik karar almak.
+g) Kişisel verilerin gizliliğinin, güvenliğinin ve
+bütünlüğünün sağlanmasına yönelik her türlü teknik ve idari tedbirleri
+belirlemek ve uygulanmasını sağlamak.
+Sekretaryanın
+görevleri
+MADDE 7- (1) Kurulun çalışmasına yardımcı olmak üzere
+sekretarya aşağıdaki görevleri yerine getirir:
+a) Kurulun toplantı gündemini hazırlamak.
+b) Kurul toplantılarının düzenlenmesine ilişkin
+işlem ve yazışmaları yapmak.
+c) Kurul toplantılarının tutanaklarını tutmak.
+ç) Kurulun raportörlüğünü
+yürütmek.
+d) Kurul tarafından alınan kararların ve ilke
+kararlarının uygulanması için gerekli yazışmaları yapmak.
+e) Kurul kararlarının muhafazasını sağlamak.
+f) Kurul tarafından veri paylaşımına dair verilen
+olumlu karar sonrası mukavele hazırlamak.
+g) İmzalanan protokol/sözleşmelerin muhafazasını
+sağlamak.
+ÜÇÜNCÜ BÖLÜM
+Veri Paylaşım Yöntemleri ve Taleplerin
+Değerlendirilmesi
+Veri
+paylaşım yöntemleri
+MADDE 8- (1) Merkezi Veri Tabanında tutulan veriler 6698
+sayılı Kanunda ve ilgili ikincil mevzuatta belirtilen usul ve esaslar
+çerçevesinde, Kurul tarafından uygun görülen paylaşım yöntemi ile alıcı
+kurum veya diğer kişiler ile paylaşılabilir.
+(2) Taraflar arasında gerçekleştirilecek kişisel
+veri aktarımları, 6698 sayılı Kanunun 8 inci maddesine uygun bir şekilde
+yapılır.
+Taleplerin
+değerlendirilmesi
+MADDE 9- (1) Gelen veri paylaşım ve erişim talepleri, Kurul
+tarafından değerlendirilmek amacıyla Genel Müdürlükçe işleme alınır.
+(2) Merkezi Veri Tabanından faydalanmak için
+yapılan tüm talepler Kurul tarafından değerlendirilir.
+Taleplerin
+değerlendirilmesinde uyulacak esaslar
+MADDE 10-
+(1) Merkezi Veri Tabanı üzerinden
+veri paylaşılacak alıcı kurumları, bu kurumların kullanımına açılacak
+internet servisleri ile servis parametrelerini belirlemeye Kurul
+yetkilidir. Başvuruların değerlendirilmesinde aşağıdaki kriterler
+esas alınarak başvurular kabul edilir veya reddedilir:
+a) Alıcı kurumun mevzuatında Merkezi Veri
+Tabanındaki verileri sorgulama veya doğrulamaya ilişkin görev ve
+sorumluluğunun bulunması.
+b) Kamu hizmeti sunan tüzel kişilerin,
+faaliyetlerini kamu kurum ve kuruluşlarının denetimi altında sürdürmeleri.
+c) Merkezi Veri Tabanı üzerinden veri paylaşımının
+kamu hizmetinin sunumu bakımından gereklilik arz etmesi.
+ç) İş ve işlemlerin vatandaşların toplumsal
+ihtiyaçlarını karşılamak için yapılması, hizmetlerin genel olması ve
+süreklilik göstermesi.
+d) Gerçek kişiler tarafından talep edilen verilerin
+bilimsel amaçlarda kullanılmak üzere talep edilmesi.
+(2) Kurul gerektiğinde, Merkezi Veri Tabanından
+faydalanma talebinde bulunan kamu hizmeti sunan tüzel kişiler için ilgili
+kamu kurum ve kuruluşlarından görüş isteyebilir.
+(3) Alıcı kurumlara açılacak servis, servis çıktı
+parametresi ve çıktı yetkisi Kurulca uygun görülen düzeyde karşılanır.
+(4) Merkezi Veri Tabanından faydalanan alıcı
+kurumların taşra teşkilatı, şubeleri veya alt kuruluşları tarafından
+yapılan talepler, bünyesinde bulunduğu alıcı kurum tarafından karşılanmak
+üzere Kurula sunulmaksızın reddedilir.
+(5) Uluslararası kurum ve kuruluşlarla usulüne
+uygun yürürlüğe konulmuş anlaşma, sözleşme ya da ortak yürütülen projelere
+ilişkin veri talepleri anlaşma, sözleşme veya projenin amacıyla sınırlı
+olmak üzere, 6698 sayılı Kanunun 9
+uncu maddesi ile 10/7/2024 tarihli ve 32598 sayılı
+Resmî Gazete’de yayımlanan Kişisel Verilerin Yurt Dışına Aktarılmasına
+İlişkin Usul ve Esaslar Hakkında Yönetmelik hükümlerine göre değerlendirilir.
+Çevrim
+içi veri paylaşım kuralları
+MADDE 11-
+(1) Alıcı kurumlarla internet veya
+internet servisleri vasıtasıyla çevrim içi veri paylaşımından önce
+protokol/sözleşme imzalanması zorunludur.
+(2) Alıcı kurumların ek servis taleplerinin resmî
+yazı ile yapılması zorunludur.
+(3) İnternet servis talepleri karşılanırken;
+a) Alıcı kurumun tabi olduğu mevzuat çerçevesinde
+talep ettiği veriyi alma ve işleme konusunda yetkili ve sorumlu olup
+olmadığı,
+b) Bilgi paylaşımının kişiler ve toplum için
+oluşturacağı kamusal ve toplumsal yarar bakımından gereklilik arz edip
+etmediği,
+c) Talep edilen verilerin, belirtilen amaç ve yasal
+dayanak ile orantılı olup olmadığı,
+hususlarında; ihtiyaç ve yetki analizi kriterleri kapsamında
+Kurul tarafından değerlendirme yapılır. Değerlendirme sonucunda alıcı
+kurumların uygun görülen ek servis talepleri, servis çıktı yetkisi veya
+servis çıktı parametreleri Kurulca uygun görülen düzeyde karşılanır.
+Çevrim
+dışı taleplerin değerlendirilmesine ilişkin esaslar
+MADDE 12-
+(1) Alıcı kurumlar, Merkezi Veri
+Tabanından alabilecekleri verileri çevrim dışı talep edemezler. Ancak;
+a) Çevrim dışı toplu veri taleplerini resmî yazı
+ile yapmaları,
+b) Talep yazılarında veriyi kullanma gerekçesi ile
+yasal dayanağını belirtmeleri,
+c) Kamusal hizmetin planlanması ve yürütülmesinde
+zorunlu bir ihtiyaç olması,
+ç) Kamusal ve toplumsal yarar bakımından gereklilik
+arz etmesi,
+durumlarının birlikte gerçekleşmesi halinde, belirtilen amaç ve
+yasal dayanak ile orantılı olarak veri talepleri asgari düzeyde
+karşılanabilir.
+(2) Birinci fıkranın (a) ve (b) bentlerine uygun
+olmayan talepler Kurul gündemine alınmaz. Bu durumda, Genel Müdürlükçe;
+kullanma gerekçesi ile yasal dayanağının bildirilmesi gerektiği yönünde
+alıcı kurumlara veya diğer kişilere yazılı olarak bildirim yapılır.
+(3) Merkezi Veri Tabanına ait toplu veriler, alıcı
+kurumlarla ve diğer kişilerle elektronik ortamda paylaşılır.
+(4) Alıcı kurumlarla ve diğer kişilerle çevrim dışı
+veri paylaşımından önce mukavele imzalanması zorunludur.
+(5) Yükseköğretim kurumları tarafından bünyelerinde
+yürütülen bilimsel araştırmalarda, yüksek lisans ve doktora tezi
+çalışmalarında kullanılmak üzere çevrim dışı veri talebi yapılabilir.
+Yükseköğretim kurumu ve bilimsel araştırmayı, tez çalışmasını yürüten kişi,
+alıcı kurumun yükümlülükleri bakımından müteselsilen
+sorumludur. Söz konusu kişi tarafından, ilgili yükseköğrenim kurumunun
+çalışmayı ve talep edilen verileri açıklayıcı talep yazısının teslim
+edilmesi zorunludur.
+DÖRDÜNCÜ BÖLÜM
+Veri Hazırlanması, Teslimi ve İmhası
+Verinin
+hazırlanması
+MADDE 13-
+(1) Kurul gündemine alınarak
+karara bağlanan talepler, Genel Müdürlük tarafından geliştirilen
+uygulamalar ve tanımlanmış yetkiler doğrultusunda Bakanlık ilgili ana
+hizmet birimi tarafından karşılanır. Uygulamalar üzerinden temin edilmesi
+mümkün olmayan talepler ise Genel Müdürlük tarafından karşılanır.
+(2) Genel Müdürlük, Kurul kararları çerçevesinde
+süreklilik arz eden toplu veri taleplerinin internet servisleri veya
+uygulama seviyesinde karşılanmasına yönelik gerekli tedbirleri alır.
+(3) Diğer kişilerden gelen toplu eşleştirme
+taleplerinde yer alan veriler, veri tabanı kullanım performansını arttırmak
+ve daha etkin veriye ulaşabilmek amacıyla; Genel Müdürlük tarafından
+belirlenecek veri desenine göre oluşturulmuş kurum bilgi formatına uygun
+şekilde elektronik ortamda gönderilir. Genel Müdürlük gerektiğinde kurum
+bilgi formatında yer alan veri deseninde değişiklik yapabilir.
+(4) Kurul tarafından olumlu olarak değerlendirilen,
+kişi bilgileri ile kimlik numarası eşleştirme taleplerinin, kâğıt ortamında
+olması veya belirtilen formata uygun olmaması durumunda, bu verilerin kurum
+bilgi formatına uygun şekilde Genel Müdürlüğe yeniden gönderilmesi talep
+edilir.
+(5) Kurul tarafından kabul edilen talepler, veri
+tabanının verimliliğini ve performansını düşürmeyecek şekilde 30 gün
+içerisinde hazırlanır. Bu süre talep edilen verinin niteliğine bağlı olarak
+uzatılabilir.
+(6) Çevrim dışı gönderilecek kişisel veriler; Genel
+Müdürlükçe belirlenen yöntem ve şifreleme tekniği ile iletilir.
+Verilerin
+teslimi ve imhası
+MADDE 14-
+(1) Kişisel verilerin elektronik
+ortamda toplu olarak gönderilmesi veya tesliminde gizli evraka ilişkin usul
+ve esaslar uygulanır ve veriler, hazırlanan mukavelenin taraflarca
+imzalanması sonrası teslim edilir.
+(2) Elektronik ortamda gönderilen veya teslim
+edilen kişisel veriler, işlenmesini gerektiren sebeplerin ortadan kalkması
+sonrasında, 28/10/2017 tarihli ve 30224 sayılı
+Resmî Gazete’de yayımlanan Kişisel Verilerin Silinmesi, Yok Edilmesi veya
+Anonim Hale Getirilmesi Hakkında Yönetmelik hükümleri kapsamında alıcı
+kurum ve diğer kişiler tarafından silinir veya yok edilir.
+BEŞİNCİ BÖLÜM
+İstisnalar ve Alıcı Kurumlar ile Kişilerin
+Yükümlülükleri
+İstisnalar
+MADDE 15-
+(1) Yüksek mahkemeler, Sayıştay,
+Yüksek Seçim Kurulu, mahkemeler, iç güvenlik ve istihbarat birimleri,
+savcılıklar ve 2/12/1999 tarihli ve 4483 sayılı
+Memurlar ve Diğer Kamu Görevlilerinin Yargılanması Hakkında Kanuna göre
+görevlendirilen ön incelemeciler tarafından yürütülen; dava, soruşturma ve
+incelemelere ilişkin veri talepleri Kurula sunulmaksızın Genel Müdürlükçe
+geliştirilen uygulamalar ve tanımlanmış yetkiler doğrultusunda ilgili
+Bakanlık ana hizmet birimi tarafından karşılanır. Uygulamalar üzerinden
+temin edilmesi mümkün olmayan talepler ise Genel Müdürlük tarafından
+karşılanır.
+(2) Görev ve yetkilerine uygun olmak ve görev onay
+yazılarının gönderilmesi şartıyla, 10/12/2003
+tarihli ve 5018 sayılı Kamu Malî Yönetimi ve Kontrol Kanunu kapsamındaki
+kamu kurum ve kuruluşlarınca yürütülen soruşturma, inceleme, denetim ve
+teftişlerle ilgili veri talepleri Kurula sunulmaksızın karşılanır.
+(3) 6698 sayılı Kanunun 28 inci maddesinin birinci
+fıkrasının (ç) bendi kapsamında talep edilen veriler Kurula sunulmaksızın
+karşılanabilir.
+(4) Bu maddede yer alan çevrim dışı veri
+taleplerinde, 12 nci madde hükümleri uygulanmaz.
+(5) Bakanlığın politikalarıyla ilgili olarak iş ve
+işlemleri yürüten veya bununla ilgili çalışma yapan, ayrıca Bakanlığın
+denetim ve kontrol ile görevlendirdiği Bakanlık personelinin ilgili
+mevzuatta belirtilen görevleriyle alakalı talepleri Kurula sunulmaksızın
+karşılanabilir.
+(6) 5/1/2013 tarihli ve
+28519 sayılı Resmî Gazete’de yayımlanan Kadın Konukevlerinin Açılması ve
+İşletilmesi Hakkında Yönetmelik hükümleri saklıdır.
+(7) 24/4/1930 tarihli ve
+1593 sayılı Umumi Hıfzıssıhha Kanununa istinaden Sağlık Bakanlığı
+tarafından düzenlenen ve 30/5/2007 tarihli ve 26537 sayılı Resmî Gazete’de
+yayımlanan Bulaşıcı Hastalıklar Sürveyans ve
+Kontrol Esasları Yönetmeliğinin ekinde yer alan “EK-I Bildirime Esas
+Bulaşıcı Hastalıklar Listesi”ndeki hastalık ve durumlar ile pandemi durumlarında ilgili veri talepleri Kurula
+sunulmaksızın karşılanır.
+Alıcı
+kurum ve diğer kişilerin yükümlülükleri
+MADDE 16-
+(1) Alıcı kurum ve diğer kişiler
+çevrim içi veya çevrim dışı olarak Genel Müdürlükten elde ettikleri
+verilerin; yetkisiz kişilerin eline geçmesinden veya yetkisiz kullanımından
+doğan her türlü hukuki ve cezai yaptırımdan ve mali zararın tazmininden
+sorumludur.
+(2) Alıcı kurum ve diğer kişiler;
+a) Kendi iş ve işlemlerine esas olmak üzere sadece
+gerek duyulan kişilerin bilgilerini alabilirler ve aldıkları bilgileri
+mevzuatında sayılan görev ve sorumluluklarının yerine getirilmesinin
+dışında başka hiçbir amaçla kullanamazlar.
+b) Elde ettikleri verileri üçüncü şahıslarla
+paylaşamaz ve yayımlayamazlar.
+c) Elde edilen verilerin hukuka aykırı olarak
+işlenmesi ile erişilmesini önlemek ve muhafazasını sağlamak amacıyla her
+türlü idari ve teknik tedbirleri alır. Özel nitelikli kişisel veriler için
+ise 6698 sayılı Kanunun 6 ncı maddesinin dördüncü
+fıkrasına ve 7/3/2018 tarihli ve 30353 sayılı
+Resmî Gazete’de yayımlanan Kişisel Verileri Koruma Kurulunun 31/1/2018
+tarihli ve 2018/10 sayılı Kararına uygun önlemleri alır.
+ç) Kişisel verilerin işlenmesinde her hal ve
+şartta, 6698 sayılı Kanunun 4 üncü maddesinde sayılan genel ilkelere
+uyarlar.
+d) Gerçekleştirilecek kişisel veri işleme
+faaliyetleri bakımından 6698 sayılı Kanunun 10 uncu maddesinde düzenlenen
+aydınlatma yükümlülüğüne uygun hareket ederler.
+e) Gerçekleştirilecek tüm kişisel veri işleme
+faaliyetleri ve aktarımları bakımından 6698 sayılı Kanunun 12 nci maddesinde düzenlenen veri güvenliğine ilişkin
+yükümlülüklere uygun hareket ederler.
+(3) Edinilen verilerin iş ve işlemlerde
+kullanılmasının hukuki sonuçları, veriyi alan alıcı kurumun ve diğer kişilerin
+sorumluluğundadır.
+(4) Edinilen veriler, ilgili mevzuatta yer alan
+özel hayatın gizliliğine ve kişisel verilerin korunması hükümlerine uygun
+olarak kullanılır.
+(5) Elde edilen verilere erişim sağlayan tüm
+yetkililer bu maddede sayılan kurallara uymakla yükümlüdürler. Bu
+yükümlülük ilgililerin görevden ayrılmalarından sonra da devam eder.
+ALTINCI BÖLÜM
+Çeşitli ve Son Hükümler
+Kişisel
+verilerin işlenmesi
+MADDE 17-
+(1) Bu Yönetmelik kapsamında
+yürütülen kişisel veri işleme faaliyetlerinde 6698 sayılı Kanunda ve ilgili
+ikincil mevzuatta yer alan usul ve esaslara uygun hareket edilir.
+Gizliliğin
+korunması
+MADDE 18-
+(1) Toplantılarda görüşülen ve
+gizlilik derecesi bulunan gündem maddelerinin korunması ve saklanması
+kapsamında; toplantıya katılım sağlayanlar, çalışmalar sırasında
+edindikleri sırları kanunen yetkili kılınan mercilerden başkasına
+açıklayamaz ve kendi yararlarına kullanamazlar. Kurul Başkanı ve üyeleri
+ile toplantılara katılan tüm kişiler bu gizlilik ilkesine uymakla
+yükümlüdür. Bu yükümlülük ilgili personelin görevinden ayrılmasından sonra
+da devam eder.
+Düzenleme
+yetkisi
+MADDE 19-
+(1) Bu Yönetmeliğin uygulanması
+sırasında doğacak tereddütleri ve uygulamaya ilişkin aksaklıkları
+gidermeye, ilke ve standartları belirlemeye, uygulama birliğini sağlayacak
+gerekli düzenlemeleri yapmaya, sunulacak hizmetlere ilişkin mevzuat
+kapsamında bilgi ve belgeyi istemeye ve bu Yönetmelikte yer almayan konularda
+ilgili mevzuat hükümleri çerçevesinde karar vermeye Bakanlık yetkilidir.
+Kişisel
+verilerin korunması ve gizliliğini ihlal edenler
+MADDE 20-
+(1) Kişisel verilerin korunması ve
+gizliliği ile ilgili hükümleri ihlal edenler ile gizli verileri değiştiren
+veya bütünlüğünü bozanlar hakkında; 26/9/2004
+tarihli ve 5237 sayılı Türk Ceza Kanununun ilgili hükümlerine göre
+Bakanlıkça Cumhuriyet Savcılığına suç duyurusunda bulunur.
+Yürürlükten
+kaldırılan yönetmelik
+MADDE 21-
+(1) 13/9/2014
+tarihli ve 29118 sayılı Resmî Gazete’de yayımlanan Sosyal Yardım
+Verilerinin Kaydedilmesine ve Paylaşılmasına İlişkin Yönetmelik yürürlükten
+kaldırılmıştır.
+Yürürlükte
+olan veri paylaşım protokollerinin durumu
+GEÇİCİ
+MADDE 1- (1) Bu Yönetmelik
+yürürlüğe girmeden önce yapılan veri paylaşım protokolleri geçerliliklerini
+korur.
+Yürürlük
+MADDE 22-
+(1) Bu Yönetmelik yayımı tarihinde
+yürürlüğe girer.
+Yürütme
+MADDE 23-
+(1) Bu Yönetmelik hükümlerini Aile
+ve Sosyal Hizmetler Bakanı yürütür.
