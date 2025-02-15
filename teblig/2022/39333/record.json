@@ -1,0 +1,37 @@
+{
+  "checked_on": "2026-11-15",
+  "commencement_quote": "Bu Tebliğ yayımı tarihinde yürürlüğe girer",
+  "date_gazette": "32814",
+  "date_quote": "RG-15/2/2025-32814",
+  "first_law": null,
+  "gazette": "31737",
+  "history": "current-text",
+  "images": {
+    "deferred": 0,
+    "omitted": 0,
+    "referenced": 0,
+    "source": 0
+  },
+  "in_force": "2025-02-15",
+  "in_force_basis": "Latest source-printed RG amendment date for current text: RG-15/2/2025-32814; own commencement clause: Bu Tebliğ yayımı tarihinde yürürlüğe girer",
+  "issuer": "Başbakanlık",
+  "issuer_catalog_evidence": [
+    {
+      "evidence": "issuer-3-0.json",
+      "id": "3",
+      "label": "Başbakanlık",
+      "listing_url": "https://www.mevzuat.gov.tr/Anasayfa/MevzuatDatatable?MevzuatTur=Teblig&KurumId=3&start=0&length=100"
+    }
+  ],
+  "issuer_slug": "basbakanlik",
+  "kind": "communique",
+  "label": "oldest version available",
+  "notes": [],
+  "published": "2022-02-01",
+  "source": "https://www.mevzuat.gov.tr/anasayfa/MevzuatFihristDetayIframe?MevzuatTur=9&MevzuatNo=39333&MevzuatTertip=5",
+  "source_bytes": 32956,
+  "source_id": "9.5.39333",
+  "source_sha256": "fa402920c62abd7e5d121cb60404cec64e4ca869d640a9860123d94b4e0e20b8",
+  "title": "YURT DIŞINDA YERLEŞİK VATANDAŞLAR MEVDUAT VE KATILIM SİSTEMİ (YUVAM) HESAPLARI HAKKINDA TEBLİĞ (SAYI: 2022/7)",
+  "word_count": 777
+}
