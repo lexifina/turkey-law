@@ -1,0 +1,2 @@
+Gizliliğin korunması
+MADDE 18- (1) Toplantılarda görüşülen ve gizlilik derecesi bulunan gündem maddelerinin korunması ve saklanması kapsamında; toplantıya katılım sağlayanlar, çalışmalar sırasında edindikleri sırları kanunen yetkili kılınan mercilerden başkasına açıklayamaz ve kendi yararlarına kullanamazlar. Kurul Başkanı ve üyeleri ile toplantılara katılan tüm kişiler bu gizlilik ilkesine uymakla yükümlüdür. Bu yükümlülük ilgili personelin görevinden ayrılmasından sonra da devam eder.

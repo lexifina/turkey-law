@@ -1,0 +1,10 @@
+BEŞİNCİ BÖLÜM
+İstisnalar ve Alıcı Kurumlar ile Kişilerin Yükümlülükleri
+İstisnalar
+MADDE 15- (1) Yüksek mahkemeler, Sayıştay, Yüksek Seçim Kurulu, mahkemeler, iç güvenlik ve istihbarat birimleri, savcılıklar ve 2/12/1999 tarihli ve 4483 sayılı Memurlar ve Diğer Kamu Görevlilerinin Yargılanması Hakkında Kanuna göre görevlendirilen ön incelemeciler tarafından yürütülen; dava, soruşturma ve incelemelere ilişkin veri talepleri Kurula sunulmaksızın Genel Müdürlükçe geliştirilen uygulamalar ve tanımlanmış yetkiler doğrultusunda ilgili Bakanlık ana hizmet birimi tarafından karşılanır. Uygulamalar üzerinden temin edilmesi mümkün olmayan talepler ise Genel Müdürlük tarafından karşılanır.
+(2) Görev ve yetkilerine uygun olmak ve görev onay yazılarının gönderilmesi şartıyla, 10/12/2003 tarihli ve 5018 sayılı Kamu Malî Yönetimi ve Kontrol Kanunu kapsamındaki kamu kurum ve kuruluşlarınca yürütülen soruşturma, inceleme, denetim ve teftişlerle ilgili veri talepleri Kurula sunulmaksızın karşılanır.
+(3) 6698 sayılı Kanunun 28 inci maddesinin birinci fıkrasının (ç) bendi kapsamında talep edilen veriler Kurula sunulmaksızın karşılanabilir.
+(4) Bu maddede yer alan çevrim dışı veri taleplerinde, 12 nci madde hükümleri uygulanmaz.
+(5) Bakanlığın politikalarıyla ilgili olarak iş ve işlemleri yürüten veya bununla ilgili çalışma yapan, ayrıca Bakanlığın denetim ve kontrol ile görevlendirdiği Bakanlık personelinin ilgili mevzuatta belirtilen görevleriyle alakalı talepleri Kurula sunulmaksızın karşılanabilir.
+(6) 5/1/2013 tarihli ve 28519 sayılı Resmî Gazete’de yayımlanan Kadın Konukevlerinin Açılması ve İşletilmesi Hakkında Yönetmelik hükümleri saklıdır.
+(7) 24/4/1930 tarihli ve 1593 sayılı Umumi Hıfzıssıhha Kanununa istinaden Sağlık Bakanlığı tarafından düzenlenen ve 30/5/2007 tarihli ve 26537 sayılı Resmî Gazete’de yayımlanan Bulaşıcı Hastalıklar Sürveyans ve Kontrol Esasları Yönetmeliğinin ekinde yer alan “EK-I Bildirime Esas Bulaşıcı Hastalıklar Listesi”ndeki hastalık ve durumlar ile pandemi durumlarında ilgili veri talepleri Kurula sunulmaksızın karşılanır.

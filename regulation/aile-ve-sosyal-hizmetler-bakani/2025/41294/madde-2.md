@@ -1,0 +1,2 @@
+Kapsam
+MADDE 2- (1) Bu Yönetmelik, Aile ve Sosyal Hizmetler Bakanlığının hizmet sunumu ile ilgili Merkezi Veri Tabanında tutulan kişisel verilerin; kamu kurum ve kuruluşları, uluslararası kurum ve kuruluşlar, mahalli idareler ve paylaşım isteğinde bulunan gerçek ve tüzel kişiler ile Merkezi Veri Tabanındaki verilerden çevrim içi veya çevrim dışı yolla yararlanmalarını, paylaşımın kapsamı ve yöntemine ilişkin genel usul ve esaslar ile veri paylaşımı kurulunun çalışma usul ve esaslarını kapsar.
