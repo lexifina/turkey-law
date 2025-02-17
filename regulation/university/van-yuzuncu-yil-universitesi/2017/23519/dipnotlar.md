@@ -1,0 +1,1 @@
+[1] 17/2/2025 tarihli ve 32816 sayılı Resmî Gazetede yayımlanan değişiklik ile bu yönetmeliğin adı “Yüzüncü Yıl Üniversitesi Yöresel Gıdalar Uygulama ve Araştırma Merkezi Yönetmeliği” iken metne işlendiği şekilde değiştirilmiştir.
