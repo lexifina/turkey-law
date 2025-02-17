@@ -1,0 +1,39 @@
+{
+  "checked_on": "2026-11-14",
+  "commencement_clauses": [
+    "MADDE 17- (1) Bu Yönetmelik yayımı tarihinde yürürlüğe girer."
+  ],
+  "date_evidence": [
+    [
+      "2025-02-17",
+      "17.02.2025",
+      "original gazette publication date in official listing"
+    ]
+  ],
+  "date_quote": "MADDE 17- (1) Bu Yönetmelik yayımı tarihinde yürürlüğe girer.",
+  "first_law": null,
+  "gazette": "32816",
+  "history": "current-text",
+  "images": {
+    "deferred": 0,
+    "omitted": 0,
+    "referenced": 0,
+    "source": 0
+  },
+  "in_force": "2025-02-17",
+  "in_force_basis": "source commencement clause: enters into force on gazette publication",
+  "issuer": "Türk Hava Kurumu Üniversitesi",
+  "issuer_slug": "turk-hava-kurumu-universitesi",
+  "kind": "regulation",
+  "label": "oldest version available",
+  "path": "regulation/turk-hava-kurumu-universitesi/2025/41299",
+  "published": "2025-02-17",
+  "source": "https://www.mevzuat.gov.tr/anasayfa/MevzuatFihristDetayIframe?MevzuatTur=8&MevzuatNo=41299&MevzuatTertip=5",
+  "source_bytes": 50205,
+  "source_id": "8.5.41299",
+  "source_sha256": "25ff0a65927353abc2b554896f390b67b9719c2ff578f1a1f80f74568a9acbae",
+  "text_status": "as-enacted",
+  "title": "TÜRK HAVA KURUMU ÜNİVERSİTESİ HAVACILIK VE UZAY BİLİMLERİ UYGULAMA VE ARAŞTIRMA MERKEZİ YÖNETMELİĞİ",
+  "university_id": 366,
+  "word_count": 1055
+}
