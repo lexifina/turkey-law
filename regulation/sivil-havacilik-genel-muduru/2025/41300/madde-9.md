@@ -1,0 +1,3 @@
+Sağlık şartı
+MADDE 9- (1) Genel Müdürlük, hava seyrüsefer hizmet sağlayıcısının, gerçek trafikte fiili olarak hava trafik kontrol hizmetine yönelik görev yürütebilmeleri için hava trafik başkontrolörleri, hava trafik kontrolörleri ve asistan hava trafik kontrolörlerinin ICAO Ek-1 Sınıf 3’e uygun geçerli sağlık raporlarına sahip olmaları şartına yönelik uygulamalarını denetler.
+(2) Sağlık raporları ile ilgili itiraz veya çekince ortaya çıkması halinde, hava seyrüsefer hizmet sağlayıcısı veya rapor sahibi kişi tarafından, sağlık raporunun gözden geçirilmesi veya yenilenmesi için yapılan başvurular, Genel Müdürlük tarafından sonuçlandırılır.

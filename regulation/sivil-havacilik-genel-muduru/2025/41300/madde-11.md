@@ -1,0 +1,2 @@
+Fiziki yeterlilik
+MADDE 11- (1) Genel Müdürlük, hava seyrüsefer hizmet sağlayıcısının hava trafik kontrol ünitelerinde görevlendirilmiş bulunan ve gerçek trafikte fiili olarak hava trafik kontrol hizmetine yönelik görev yürüten hava trafik kontrol personelinin ICAO Ek-1 Sınıf 3’e göre; zihinsel, ruhsal ve fiziki yeterliliklerinde azalma olması veya görevlerini emniyetli ve tam olarak yapmalarını engelleyici alkol ve psikoaktif maddelerin etkisi altında olduklarının rapor edilmesi durumunda bu kişilerin hizmete devamını engelleyici tedbirleri aldırır.

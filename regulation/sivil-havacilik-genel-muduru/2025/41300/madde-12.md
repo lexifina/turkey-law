@@ -1,0 +1,4 @@
+Görevden el çektirme
+MADDE 12- (1) Genel Müdürlük, hava seyrüsefer hizmet sağlayıcısının hava trafik kontrol personelinin; 19 uncu maddenin birinci fıkrasında belirtilen hususlara sebebiyet verdiğini tespit etmesi durumunda kişinin hizmete devam ettirilmemesi yönünde tedbirleri alıp almadığını denetler.
+(2) 19 uncu maddede belirtilen hususların tespiti durumunda Genel Müdürlükçe oluşturulacak komisyon marifetiyle ilgili personelin hava trafik kontrolörü lisansı ve/veya sahip olduğu derece veya dereceler en az 3 ay en fazla 12 ay olmak koşuluyla askıya alınır veya iptal edilir.
+(3) 19 uncu maddede belirtilen hususların tespit edildiği kişinin stajyer hava trafik kontrolörü olması durumunda Genel Müdürlükçe oluşturulacak komisyon marifetiyle ilgili personelin hava trafik kontrolörü lisans sınavına en az 6 ay en fazla 12 ay süreyle girmemesi sağlanır veya sınav hakkı iptal edilir.

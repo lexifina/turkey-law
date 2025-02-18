@@ -1,0 +1,2 @@
+Alkol ve psikoaktif madde kullanımının denetimi
+MADDE 18- (1) Hava seyrüsefer hizmet sağlayıcısı, hava trafik kontrol ünitelerinde, gerçek trafikte fiili olarak hava trafik kontrol hizmetine yönelik görev yürüten hava trafik kontrol personelinin alkol ve psikoaktif madde kullanıp kullanmadıklarını hava seyrüsefer hizmet sağlayıcısı tarafından belirlenen usuller doğrultusunda tespit eder ve Genel Müdürlükçe belirlenen kullanılamayacak ilaçlar konusunda bu kişileri bilgilendirir.
