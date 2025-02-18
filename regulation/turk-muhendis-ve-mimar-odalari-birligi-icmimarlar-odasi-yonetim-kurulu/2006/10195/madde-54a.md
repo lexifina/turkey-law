@@ -1,0 +1,4 @@
+Şube Danışma Kurulu ve komisyonlar
+MADDE 54/A- (Ek:RG-18/2/2025-32817)
+(1) Şube Danışma Kurulu; çalışma dönemi içinde görev yapmakta olan Şube Yönetim Kurulunun asıl ve yedek üyeleri ile daha önceki dönemlerde bu görevi üstlenmiş üyeleri, şubeye bağlı ilçe temsilcileri ile iş yeri temsilcileri, varsa o ilden seçilmiş Oda Denetleme ve Onur Kurulu üyeleri ile şube komisyonlarında yer alan üyelerden oluşur. Ayrıca; Şube Yönetim Kurulu gerekli gördüğünde diğer üyelerini ve üniversite temsilcilerini de bu toplantıya çağırabilir. Bu kurul yılda en az bir defa toplanır ve toplantının yeri, günü, saati ile gündemi Şube Yönetim Kurulunca hazırlanarak duyurulur. Şube Danışma Kurulu, Şube Yönetim Kurulu çalışmalarına yardımcı olmak amacı ile ancak tavsiye kararı alabilir.
+(2) Şube komisyonları, Oda tarafından yapılan düzenleyici işlemlere uygun olarak çalışır.

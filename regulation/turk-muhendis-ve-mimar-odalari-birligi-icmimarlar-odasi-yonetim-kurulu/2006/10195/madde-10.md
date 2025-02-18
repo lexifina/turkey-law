@@ -1,0 +1,2 @@
+Yeniden üyeliğe alma
+MADDE 10 – (1) Onur Kurulu kararıyla üyelikten çıkartılan üyenin yeniden başvurması üzerine durumu incelenir ve Onur Kurulu tarafından olumlu görüş bildirilmesi şartıyla Odaya yeni üye gibi kaydı yapılır. Üyelikten kendi isteğiyle ayrılan üyenin yeniden başvurması üzerine durumu Yönetim Kurulunca incelenir ve Odaya yeni üye gibi kaydı yapılır. Bunların eski üyelik kaydı hiçbir şekilde dikkate alınmaz.

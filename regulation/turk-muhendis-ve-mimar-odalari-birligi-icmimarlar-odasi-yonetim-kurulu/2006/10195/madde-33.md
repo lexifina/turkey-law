@@ -1,0 +1,2 @@
+Onur Kurulu üyelerinin çekilme nedenleri
+MADDE 33 – (1) Onur Kurulu üyelerinin ret ve çekilme nedenleri ancak 18/6/1927 tarihli ve 1086 sayılı Hukuk Usulü Muhakemeleri Kanununda belirtilen ret ve çekilme nedenleridir. Ret isteğini, Onur Kurulu inceler. Onur Kurulunun bu konuda vereceği karara karşı, esasa ait kararla birlikte Yüksek Onur Kurulunda itiraz edilebilir. Ret isteğinin kabul edilmesi hâlinde, reddedilenlerin yerine yedek üyeler çağrılır.

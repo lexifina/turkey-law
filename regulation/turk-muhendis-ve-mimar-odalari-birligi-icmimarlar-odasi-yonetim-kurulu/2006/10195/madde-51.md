@@ -1,0 +1,3 @@
+Yönetim Kurulu üyeliğinin düşmesi
+MADDE 51 – (1) (Değişik:RG-25/10/2014-29156) Kabul edilebilir bir özrü olmaksızın üç (3) olağan toplantıya ya da bir (1) yıl içinde olağan toplantıların ¼ (dörtte birine) katılamayan üye istifa etmiş sayılır. Yerine şube ve temsilcilik yönetim kurulu tarafından sıradaki yedek yönetim kurulu üyesi davet edilir. Davet edilen yedek üyenin görevi reddetmesi veya çağrıya on beş (15) gün içerisinde cevap vermemesi durumunda bu üye çekilmiş sayılır.
+(2) (Değişik:RG-23/11/2019-30957) Şube Yönetim Kurulunda yedek üye kalmaması durumunda, Şube Yönetim Kurulu Başkanı veya Yönetim Kurulu tarafından Şube Genel Kurulu olağanüstü toplantıya çağrılır. Seçilen Yönetim Kurulu ilk olağan Genel Kurul toplantısına kadar görev yapar.

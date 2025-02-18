@@ -1,0 +1,2 @@
+İl veya ilçe temsilciliklerinin malî yükümlülükleri
+MADDE 61 – (1) İl veya ilçe temsilciliklerinin her türlü geliri Odaya aittir. Temsilcilikler kendi adlarına makbuz bastıramaz ve para toplayamazlar. (Değişik ibare:RG-31/12/2010-27802) Temsilcilikler, Yönetim Kurulunun onayı ile kabul edilen yıllık bütçeye uygun olarak hareket etmek durumundadırlar. Bu bakımdan yıllık bütçelerini gösteren raporu aralık ayının yirmi beşinci gününe kadar Yönetim Kuruluna sunmak zorundadırlar.

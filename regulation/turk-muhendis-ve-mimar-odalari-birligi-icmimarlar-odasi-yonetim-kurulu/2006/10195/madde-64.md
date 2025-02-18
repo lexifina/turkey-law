@@ -1,0 +1,8 @@
+Oda bütçesi ve uygulaması
+MADDE 64 – (Başlığı ile Birlikte Değişik:RG-23/11/2019-30957)
+(1) Oda bütçesi, tüm Oda örgütünün gelir ve giderlerini kapsayacak biçimde hazırlanır ve Genel Kurulun onayıyla kesinlik kazanır. Her yıl için ayrı bir bütçe hazırlanarak Genel Kurula sunulur. Gelir ve giderler, türleri bakımından bölüm ve maddeler biçiminde gösterilerek her bölüm ve madde için uygulanacak esaslar yazılı olarak belirtilir. Bütçeye, o çalışma dönemi için kullanılacak tüm Oda örgütüne ilişkin görevli kadro cetveli eklenir.
+(2) Bütçe dönemi bir takvim yılı olup 1 Ocak-31 Aralık tarihleri arasıdır.
+(3) Genel Kurulu izleyen birinci yılın sonunda Yönetim Kurulunca gerekli görülürse birinci yılın mali aklanması yapılmamak koşuluyla Mali Genel Kurulun toplanmasına karar verilebilir.
+(4) Bütçe, Oda Genel Kurulunda kabul edildikten sonra uygulanır. Oda Yönetim Kurulu, Genel Kurulun yapılacağı takvim yılı başından bütçenin kabul edileceği Genel Kurul toplantısına kadar geçecek süre içinde, her ay için bir önceki yıl bütçesinin on ikide biri (1/12) oranında harcama yapabilir. Ancak, niteliği bakımından bir defada yapılacak giderlerin bu dönemde yapılması gerekirse bu gibi harcamalar on ikide biri (1/12) oranı aranmaksızın Oda Yönetim Kurulu kararı ile yapılabilir.
+(5) Oda ve bağlı birimleri, mali bakımdan merkezi bütçe ilkelerine göre yönetilir. Tüm gelirler Oda adına alınır ve tüm giderler Oda bütçesinden karşılanır. Oda Yönetim Kurulu bütçe gider bölümleri ya da maddeleri arasında gereksinim durumunda ödenek aktarması yapabilir. Aktarılan ödeneğin hangi maddeler için olduğu da Yönetim Kurulu kararıyla belirlenir.
+(6) Odanın bağlı birimleri, Genel Merkez Yönetim Kurulu Kararı olmadan bankalarda vadeli veya vadesiz hesap açamazlar.

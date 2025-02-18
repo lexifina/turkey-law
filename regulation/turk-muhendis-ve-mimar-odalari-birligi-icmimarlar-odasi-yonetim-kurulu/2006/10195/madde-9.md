@@ -1,0 +1,4 @@
+Üyelik vasfının sona ermesi
+MADDE 9 – (1) Onur Kurulu kararıyla üyelikten çıkartılanların ve bu Yönetmeliğin 7 nci maddesinde belirtilen koşulları yitirdikleri Yönetim Kurulu kararıyla belirlenenlerin üyelikleri sona erer.
+(2) (Değişik:RG-4/5/2023-32180) Mesleki etkinliğini sürdürmeyen, askerlik görevi hariç silahlı kuvvetler mensubu olan, meslek alanımızı ilgilendiren kurum ve kuruluşların dışında ya da kamu kurum ve kuruluşlarında asli ve sürekli görevde çalışırken üyelikten ayrılmak isteyen üyeler; bu durumu Oda Yönetim Kuruluna ıslak imzalı dilekçe ile yazılı olarak bildirmek, belgelemek, Oda kimlik belgesini geri vermek ve o tarihe kadar olan üyelik ödentilerinin tamamını ödemek koşuluyla Odadan ayrılabilirler.
+(3) Üyelikten çıkartılanlar ve ayrılanlar Oda yayın organlarında ilan edilir (Ek ibare:RG-31/12/2010-27802) ve ilgili kuruluşlara bildirilir.

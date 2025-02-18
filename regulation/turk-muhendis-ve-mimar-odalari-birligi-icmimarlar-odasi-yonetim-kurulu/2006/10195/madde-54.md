@@ -1,0 +1,8 @@
+Şube Yönetim Kurulu üyelerinin görev ve yetkileri
+MADDE 54 – (1) Şube Yönetim Kurulu Başkanı, şubeyi temsil etmek ve sözcülüğünü yapmak, Şube Yönetim Kurulunu yönetmek ve Oda amaçları doğrultusunda çalışmasını sağlamakla sorumludur.
+(2) Şube Başkan Yardımcısı, Şube Başkanı olmadığı zamanlarda Şube Başkanının görev ve yetkilerini sürdürmekle, şubeyi temsil etmekle ve birimler arası koordinasyonu sağlamakla yetkili ve sorumludur.
+(3) Şube Başkanının ve Şube Başkan Yardımcısının olmadığı hâllerde Şube Sekreteri Yönetim Kurulunun yürütme öğesi ve sözcüsüdür. Şube işlemlerini zamanında ve odanın amaçlarına uygun olarak yürütmekle görevli ve sorumludur.
+(4) Şube Sekreteri, Şube Yönetim Kurulu toplantı gündemini hazırlar. Üyelerin önerisi ile gündeme yeni maddeler eklenebilir. (Ek cümle:RG-31/12/2010-27802) Karar defterinin o aya ait alınan kararlarını içeren sayfalarından ve saymanlık raporlarından birer örneğini o ayın son gününe kadar genel merkeze gönderir.
+(5) Şube Sekreteri Oda görevlilerine ait sicillerin tutulması ve Yönetim Kurulu kararlarının uygulanması için gerekli tüm önlemleri alır. Şubenin işlemlerini yürütür ve imzalar.
+(6) Şube Saymanı, Oda ve şube yönetim kurulları kararları çerçevesinde Oda malî işleyişinin zamanında yürütülmesinden, gerekli defterlerin tutulmasından ve demirbaşların en iyi şekilde kullanılmasından görevli ve sorumludur. Yönetim Kurulu, Saymanın sorumluluğuna ortaktır.
+(7) Şube Başkanı, Başkan Yardımcısı, Sekreteri ve Saymanı, bu Yönetmelik ve Türk Mühendis ve Mimar Odaları Birliği ve Odalar Malî İşler Yönetmeliği çerçevesinde ve bütçe olanakları içinde, Şube Yönetim Kurulunca alınan kararlara göre harcama yapar.

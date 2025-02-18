@@ -1,0 +1,2 @@
+Genel Kurula kimlik ibraz etme
+MADDE 16 – (1) Genel Kurul’da bulunmak, görüşmelere katılmak ve oy kullanmak için Yönetim Kurulu tarafından hazırlanıp görevli hâkim tarafından kesinleştirilmiş (Değişik ibare:RG-23/11/2019-30957) delege listesinin imzalanması yoluyla alınmış Genel Kurul Giriş Kartının veya Oda Kimlik Kartının gösterilmesi zorunludur. Sadece oy verme sırasında, Oda Kimlik Kartı yerine, resmî kuruluşlarca verilmiş olan resimli kimlik kartları da kullanılabilir. (Ek cümle:RG-31/12/2010-27802) Vekaleten oy kullanılamaz.

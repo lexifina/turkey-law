@@ -1,0 +1,9 @@
+Oda organ seçimleri
+MADDE 20 – (1) Oda organ seçimleri, Kanunda belirtilen hükümlere uygun olarak, yargı gözetiminde ve gizli oyla yapılır. Başkanlık Divanı ile görevlendirilecek komisyon ve komite gibi kurulların üyelikleri için seçimler, aksine bir karar alınmadıkça açık oyla yapılır.
+(2) Genel Kurul’da bir göreve, en az o göreve seçilecek asil ve seçilecekse yedekler toplamı kadar aday gösterilir. Asil ve yedeklerin adları oy pusulalarında kendilerine ayrılmış bölümlere yazılır. Oy pusulalarına yazılı isimler, asil ve yedek üye toplamından fazla olamaz. Seçileceklerin sayısından az adayın ismi yazılı olan oy pusulaları ile bir ya da birkaç adayın ismi çizilmiş ya da çizildikten sonra başka adayın ismi yazılmış basılı oy pusulaları geçerlidir.
+(3) Asiller ve yedekler kendi aralarında aldıkları oy sayısına göre sıralanırlar. Oyların eşit olması durumunda, sicil numarası küçük olan üye seçilmiş sayılır.
+(4) Bir üye, Oda organlarından yalnız birinde göreve seçilebilir.
+(5) Oda organlarına seçilenler, Birlik organlarına da seçilebilirler. Ancak, Yönetim Kurulu ve Onur Kurulu üyeleri, Yüksek Onur Kurulu üyeliğine seçilemezler.
+(6) Görev süresi bitenler, aynı göreve yeniden seçilebilirler.
+(7) Genel Kurul’da yapılacak seçimler için her (Değişik ibare:RG-23/11/2019-30957) delege kendisini ya da Birlik Genel Kuruluna seçilecek delegeler dışındaki adaylıklar için (Ek ibare:RG-4/5/2023-32180) ıslak imzalı dilekçesi ile onayı alınmak kaydıyla başka bir üyeyi aday gösterebilir. Aday olmak için toplantıya katılmak zorunlu değildir.
+(8) Seçime geçmeden önce, Divan Başkanlığınca seçim yapılacak konu ve seçilecek asil ve yedek üyelerin sayısı Genel Kurula bildirilerek adaylar belirlenir ve kesin aday listesi isim okunarak duyurulur. Seçime aday listesinde ismi bulunanlar katılabilir. İsmi bulunmayanlara verilen oylar geçersiz sayılır.

@@ -1,0 +1,3 @@
+Şube yöneticilerinin görev ve yetkileri
+MADDE 52 – (1) Şubelerde, Başkan ya da Başkan Yardımcısının olmadığı hâllerde şube Sekreteri, Şube Yönetim Kurulunun yürütme öğesi ve sözcüsüdür. Şube Yönetim Kurulu kararları çerçevesinde sekreterliği yönetir ve Yönetim Kurulunu temsil eder. Oylarda eşitlik olduğu takdirde toplantı başkanının oyu çoğunluğu belirler. Başkan, şube işlemlerinin zamanında ve şube ve Odanın amaçlarına uygun olarak yürütmekle görevli ve sorumludur.
+(2) Şube Saymanı, Oda ve şube yönetim kurulları kararları çerçevesinde Şube Bütçesini ve bütçe işlemlerini zamanında yürütmekle görevli ve sorumludur. Şube Yönetim Kurulu, Sayman üyenin sorumluluğuna ortaktır.

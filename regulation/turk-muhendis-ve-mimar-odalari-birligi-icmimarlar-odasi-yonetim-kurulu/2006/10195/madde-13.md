@@ -1,0 +1,14 @@
+Oda Genel Kurulunun kuruluş ve çalışma şekli
+MADDE 13 – (Başlığı ile Birlikte Değişik:RG-23/11/2019-30957)
+(1) Genel Kurul, iki yılda bir, Birlik Genel Kurulundan en az bir ay önce, Yönetim Kurulunun belirleyeceği tarihlerde ve adreste toplanır. Toplantı tarihinin, görüşmelerin cumartesi günü akşamına kadar tamamlanacak, pazar günü seçimler yapılacak şekilde saptanması zorunludur.
+(2) Oda Genel Kurulu asıl ve doğal delegelerden oluşur.
+(3) Asıl delegeler; genel merkez, şubeler, il ve ilçe temsilciliklerine kayıtlı üye sayısının % 5’i oranında, üç kişiden az, yüz kişiden çok olmamak üzere, odaya en az bir yıl kayıtlı olan üyeler arasından delege esasına dayalı olarak yapılan delegasyon seçimlerinde seçilmiş delegelerdir. Kesirler bir üst sayı olarak dikkate alınır.
+(4) Doğal delegeler; Oda Yönetim Kurulu, Onur Kurulu, Denetleme Kurulu asıl üyeleri ile Birlik Yönetim Kurulu, Birlik Denetleme Kurulu ve Yüksek Onur Kurulunun Oda mensubu asıl üyeleridir. Doğal delegeler diğer delegeler gibi oy kullanırlar.
+(5) Bu Yönetmeliğin 7 nci maddesinin birinci fıkrasının (a) bendinin (2) ve (3) numaralı alt bentleri kapsamında olanlar ile bu Yönetmeliğin 36 ncı maddesinin birinci fıkrasının (b), (c), (ç) ve (d) bentlerinde belirtilen disiplin cezalarından herhangi birini almış ve aidat borcu olan üyeler delege olamazlar.
+(6) Oda Genel Kurulu delegelik hak ve yetkileri bir sonraki Genel Kurula kadar geçerlidir.
+(7) Genel Kurul, delege tam sayısının yarısının bir fazlası ile toplanır. Birinci toplantıda bu çoğunluk sağlanamazsa, ikinci toplantı için çoğunluk aranmaz. Ancak, ikinci toplantıya katılan delege sayısı; Yönetim Kurulu, Denetleme Kurulu ve Onur Kurulu asıl ve yedek üyeleri toplamı ile Oda temsilcisi Birlik Yönetim Kurulu, Birlik Denetleme Kurulu ve Birlik Yüksek Onur Kurulu aday adayları sayısının toplamından az olamaz.
+(8) Genel Kurulun, yasal nedenlerle toplanmasının mümkün olmaması hâlinde bu nedenin ortadan kalktığı tarihi izleyen iki ay içinde toplantıya çağırılması zorunludur.
+(9) Genel Kurul toplantısının düzenli bir biçimde yapılamayacağının anlaşılması durumunda, toplantı başlamadan önce Yönetim Kurulu, Genel Kurul toplantısını ancak bir kez olmak ve iki ayı geçmemek üzere erteleyebilir. Bu durumda Yönetim Kurulu, yeni Genel Kurul toplantı tarihini ve yerini, görevli hâkimin onayını da alarak belirler ve toplantı tarihinden en az on beş gün önce, delegelere ülke düzeyinde yayımlanan ve tirajı ilk beş içerisinde bulunan bir gazete aracılığıyla duyurur.
+(10) Seçimler hariç, Genel Kurul toplantı sonuçlarıyla ilgili her türlü anlaşmazlık ve alınan kararlara ilişkin her türlü itiraz Birlik Yönetim Kurulu tarafından kesin çözüme bağlanır.
+(11) Oda ve şube genel kurullarında TMMOB Genel Kurul Yönetmeliği uygulanır.
+(12) Genel Kurula, Genel Kurul tarihinden en az 1 yıl önce Odaya kaydolmuş delegeler katılabilir ve oy kullanabilir.

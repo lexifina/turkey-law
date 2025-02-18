@@ -1,0 +1,4 @@
+İl ve ilçe temsilcilikleri
+MADDE 56 – (1) Temsilcilikler, Oda faaliyetlerinin etkin bir şekilde yürütülmesi ve Oda örgütlenmesinin yaygınlaştırılması amacıyla bölgelerden gelen somut taleplere bağlı olarak kurulur. Bölge temsilciliklerinin kuruluşu ve etkinlik alanı coğrafî yapı ve örgütsel gereksinimler göz önünde tutularak Yönetim Kurulu tarafından belirlenir.
+(2) İl ve ilçe temsilcilik etkinlik bölgesi, kapsadığı il ya da ilçenin sınırları içinde kalan alandır. Ancak, bir il sınırları içinde birden fazla temsilcilik varsa, temsilciliklerin etkinlik bölgeleri temsilcilik ve ilgili şubenin görüşü alınarak Yönetim Kurulunca belirlenir.
+(3) İl ve ilçe temsilcilikleri Yönetim Kurulu kararına bağlı olarak ya Oda Merkezine ya da etkinlik bölgesi içinde bulunduğu Oda şubesine bağlı olarak kurulabilir.
