@@ -1,0 +1,17 @@
+{
+  "kind": "decision",
+  "issuer": "Sayıştay 3. Dairesi",
+  "number": "525",
+  "decision_date": "2025-02-18",
+  "source_id": 39483,
+  "chamber": "3",
+  "ilam_number": "76",
+  "item_number": 8,
+  "public_body_type": "Belediyeler ve Bağlı İdareler",
+  "account_year": 2023,
+  "subject": "Personel Mevzuatı ile İlgili Kararlar",
+  "source": "https://www.sayistay.gov.tr/KararlarDaire/Detay/39483/",
+  "source_sha256": "586b59d743f572eab7371b0f33f1376c83fdd87108b36aba2980a751a12b3485",
+  "text_status": "metadata-only",
+  "metadata_only_reason": "possible personal name in the official text"
+}
