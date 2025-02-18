@@ -1,0 +1,17 @@
+{
+  "kind": "decision",
+  "issuer": "Sayıştay 7. Dairesi",
+  "number": "649",
+  "decision_date": "2025-02-18",
+  "source_id": 39366,
+  "chamber": "7",
+  "ilam_number": "59",
+  "item_number": 10,
+  "public_body_type": "Belediyeler ve Bağlı İdareler",
+  "account_year": 2023,
+  "subject": "İhale Mevzuatı ile İlgili Kararlar",
+  "source": "https://www.sayistay.gov.tr/KararlarDaire/Detay/39366/",
+  "source_sha256": "eed538f33b0eef00c7712693f27ed52c4e450e3710f9072dfdd120dec0ba99b0",
+  "text_status": "as-enacted",
+  "text_file": "metin.md"
+}
