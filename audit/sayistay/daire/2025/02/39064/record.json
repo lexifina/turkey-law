@@ -1,0 +1,17 @@
+{
+  "kind": "decision",
+  "issuer": "Sayıştay 8. Dairesi",
+  "number": "340",
+  "decision_date": "2025-02-18",
+  "source_id": 39064,
+  "chamber": "8",
+  "ilam_number": "41",
+  "item_number": 1,
+  "public_body_type": "Düzenleyici ve Denetleyici Kurumlar",
+  "account_year": 2023,
+  "subject": "Personel Mevzuatı ile İlgili Kararlar",
+  "source": "https://www.sayistay.gov.tr/KararlarDaire/Detay/39064/",
+  "source_sha256": "a5616fda1a2de69fc5d63adb398389c8b543fbb0ab9b14ea6bf4cb2f93060fcb",
+  "text_status": "metadata-only",
+  "metadata_only_reason": "possible personal name in the official text"
+}
