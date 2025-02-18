@@ -1,0 +1,17 @@
+{
+  "kind": "decision",
+  "issuer": "Sayıştay 7. Dairesi",
+  "number": "649",
+  "decision_date": "2025-02-18",
+  "source_id": 39361,
+  "chamber": "7",
+  "ilam_number": "59",
+  "item_number": 5,
+  "public_body_type": "Belediyeler ve Bağlı İdareler",
+  "account_year": 2023,
+  "subject": "Personel Mevzuatı ile İlgili Kararlar",
+  "source": "https://www.sayistay.gov.tr/KararlarDaire/Detay/39361/",
+  "source_sha256": "eecb12efd70679373aaff868ba4a0133bd91b4b1afd9da760d87de944ef6026f",
+  "text_status": "as-enacted",
+  "text_file": "metin.md"
+}
