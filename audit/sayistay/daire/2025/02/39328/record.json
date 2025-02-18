@@ -1,0 +1,17 @@
+{
+  "kind": "decision",
+  "issuer": "Sayıştay 7. Dairesi",
+  "number": "648",
+  "decision_date": "2025-02-18",
+  "source_id": 39328,
+  "chamber": "7",
+  "ilam_number": "53",
+  "item_number": 2,
+  "public_body_type": "Belediyeler ve Bağlı İdareler",
+  "account_year": 2023,
+  "subject": "Personel Mevzuatı ile İlgili Kararlar",
+  "source": "https://www.sayistay.gov.tr/KararlarDaire/Detay/39328/",
+  "source_sha256": "6a0654e8cf305cc6c69e664d588e16f00fa8b39d15021a5cecaf3f2f79d036e4",
+  "text_status": "metadata-only",
+  "metadata_only_reason": "possible personal name in the official text"
+}
