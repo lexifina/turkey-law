@@ -1,0 +1,4 @@
+Yerinde inceleme
+MADDE 10- (1) Başvuru belgelerinin uygun bulunması durumunda, Kurum tarafından yerinde inceleme yapılır veya yaptırılır.
+(2) Yerinde incelemede tespit edilen eksiklikler Kuruluşa bildirilir. Söz konusu eksikliklerin tamamlanması için Kuruluşa en fazla üç ay süre verilir. Eksikliklerin verilen süre sonunda giderilmediği durumda başvuru iptal edilir ve durum Kuruluşa bildirilir. Yetkilendirme için ödenen işlem ve hizmet bedeli iade edilmez.
+(3) Kurum tarafından eksikliklerin tamamlandığının tespitine yönelik tekrar yerinde inceleme yapılabilir. Bu durumda Kuruluş yerinde inceleme için Kurum tarafından belirlenen işlem ve hizmet bedelini verilen süre içerisinde ödeyerek başvuruda bulunur. Süresi içerisinde işlem ve hizmet bedelinin ödenmemesi, tespit edilen eksikliklerin tamamlanmaması veya eksiklik tespiti durumunda başvuru iptal edilir ve ödenmiş olan işlem ve hizmet bedeli iade edilmez.

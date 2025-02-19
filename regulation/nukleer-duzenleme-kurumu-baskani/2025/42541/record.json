@@ -1,0 +1,31 @@
+{
+  "source_id": "7.5.42541",
+  "kind": "regulation",
+  "register_kind": "Kurum ve Kuruluş Yönetmelikleri",
+  "title": "RADYASYONDAN KORUNMA EĞİTİMLERİNE İLİŞKİN YÖNETMELİK",
+  "number": "42541",
+  "issuer": "Nükleer Düzenleme Kurumu Başkanı",
+  "issuer_slug": "nukleer-duzenleme-kurumu-baskani",
+  "path": "regulation/nukleer-duzenleme-kurumu-baskani/2025/42541",
+  "source": "https://www.mevzuat.gov.tr/anasayfa/MevzuatFihristDetayIframe?MevzuatTur=7&MevzuatNo=42541&MevzuatTertip=5",
+  "source_sha256": "d4496d760d095a6131a6ea3b0e3db76a30e02b6b7d29c9e8d9ed90a1ec05b698",
+  "source_bytes": 57158,
+  "published": "2025-02-19",
+  "gazette": "32818",
+  "in_force": "2025-02-19",
+  "in_force_basis": "Resmî Gazete publication date in the official listing (19.02.2025); own commencement article: \"Bu Yönetmelik yayımı tarihinden altı ay sonra yürürlüğe girer\"",
+  "commencement_clauses": [
+    "Bu Yönetmelik yayımı tarihinden altı ay sonra yürürlüğe girer"
+  ],
+  "history": "current-text",
+  "label": "oldest version available",
+  "checked_on": "2026-11-15",
+  "word_count": 3031,
+  "text_status": "current-consolidated",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  },
+  "completeness": "html-text-complete"
+}
