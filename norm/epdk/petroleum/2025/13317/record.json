@@ -1,0 +1,26 @@
+{
+  "kind": "norm",
+  "issuer": "Enerji Piyasası Düzenleme Kurumu",
+  "market": "petroleum",
+  "document_type": "board-decision",
+  "number": "13317",
+  "decision_date": "2025-02-20",
+  "title": "Çekisan Depolama Hizmetleri Limited Şirketi’nin; DEP/476-157/10877 sayılı Depolama Lisansı kapsamında faaliyette bulunan Antalya Akaryakıt Terminaline ilişkin depolama tarifesi",
+  "resmi_gazete_date": "2025-02-22",
+  "resmi_gazete_number": "32821",
+  "categories": [
+    "Depolama Tarifesi"
+  ],
+  "source": "https://www.epdk.gov.tr/Detay/DownloadDocument?id=zyC4y4M7a1I=",
+  "documents": [
+    "https://www.epdk.gov.tr/Detay/DownloadDocument?id=zyC4y4M7a1I=",
+    "https://www.epdk.gov.tr/Detay/DownloadDocument?id=vJ1KUBDRxVo="
+  ],
+  "source_sha256": "ce99ad35004982ac93bd9455c9a8b5af0a1ea2d07cf427667dd3a24da271f54a",
+  "official_list": "https://www.epdk.gov.tr/Detay/Icerik/3-0-100/kurul-kararlari",
+  "official_list_leaf": 5140,
+  "text_status": "as-enacted",
+  "text_file": "metin.md",
+  "in_force": "2025-02-20",
+  "law_text_complete": true
+}
