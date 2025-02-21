@@ -1,0 +1,1 @@
+[1] 21/2/2025 tarihli ve 32820 sayılı Resmî Gazetede yayımlanan değişiklik ile bu yönetmeliğin adı “Süleyman Demirel Üniversitesi Kadın Sorunları Araştırma ve Uygulama Merkezi Yönetmeliği” iken metne işlendiği şekilde değiştirilmiştir.
