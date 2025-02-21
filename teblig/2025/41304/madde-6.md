@@ -1,0 +1,3 @@
+Hesaplama ve talep
+MADDE 6- (1) Belediye, yılı bütçelerinde hayvan bakımevleri kurmak, rehabilitasyon işlemlerini gerçekleştirmek ve sahipsiz hayvanlara sahiplendirilinceye kadar bakmak için harcamanın yapıldığı yıl içerisinde kesinleşmiş olan en son bütçe gelirinin binde beşi oranında kaynak ayırır. Bu oran büyükşehir belediyelerinde binde üç olarak uygulanır. Bu fıkra uyarınca ayrılan ödenekler başka bir amaç için kullanılamaz.
+(2) Kanun kapsamında ayrılması gereken kaynağın üzerinde harcama yapan Belediye, fazla harcanan tutarın yüzde kırkını Bakanlıktan (Muhasebat Genel Müdürlüğü) EK-2’de yer alan hesaplama tablosu ile talep eder. Ancak, talep edilebilecek tutar hiçbir şekilde birinci fıkrada belirtilen oranların yüzde kırkını geçemez.

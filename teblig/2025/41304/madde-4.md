@@ -1,0 +1,4 @@
+Harcamaların mali tablolarda gösterilmesi
+MADDE 4- (1) Belediye, Kanun kapsamında ayırması gereken ve kullanılan kaynağa ait ödeneğini ve harcamalarını “05.9.9.10-5199 sayılı Kanun Kapsamında Sokak Hayvanlarının Rehabilitasyonuna İlişkin Hizmetler” fonksiyonel kodunda takip eder.
+(2) Gerçekleşen harcamaların muhasebe işlemleri, 27/5/2016 tarihli ve 29724 mükerrer sayılı Resmî Gazete’de yayımlanan Mahalli İdareler Bütçe ve Muhasebe Yönetmeliği hükümlerine göre yerine getirilir.
+(3) Belediyelerin, Kanunun geçici 4 üncü maddesi kapsamında yürütmekte oldukları hizmetlere ilişkin birlik kurması ya da kurulmuş olan birliğe üye olması durumunda bu birliğe aktarılacak katılma payları, üyelik aidatları ya da birlik giderine katılmak için yapılan katkı harcamaları birinci fıkrada belirtilen fonksiyonel kodda takip edilir. Bu fıkra kapsamında yapılan harcama tutarının tamamı bu Tebliğe göre hesaplamaya dahil edilir.
