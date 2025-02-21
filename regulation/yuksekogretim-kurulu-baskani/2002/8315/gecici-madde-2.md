@@ -1,0 +1,2 @@
+GEÇİCİ MADDE 2 – (Ek:RG-28/8/2015-29459 3.mükerrer)
+Açıköğretim ve meslek yüksekokullarının ön lisans programlarından mezun olanlardan Anadolu Üniversitesinin kontenjan sınırlaması bulunmayıp sonradan kontenjan sınırlaması getirilen kendi alanlarındaki açıköğretim lisans programlarına 2015 yılında yapılacak yerleştirmelerde 20/5/2015 tarihinde kabul edilen Dikey Geçiş Sınav Kılavuzu hükümleri uygulanır.

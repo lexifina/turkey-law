@@ -1,0 +1,3 @@
+Yerleştirme
+MADDE 8- (Değişik:RG-19/9/2009-27354)
+ÖSYM, başvurma koşullarını taşıyan adayları, yerleştirme puanları ve lisans programlarının kontenjan ve koşullarını göz önünde tutarak, Üniversite Seçme Sınavı sonuçları açıklandıktan sonra yapacakları tercihleri göz önüne alınarak, lisans programlarına yerleştirir. (Ek cümle:RG-29/7/2011-28009) Bir önceki yıl Dikey Geçiş Sınavı sonucunda merkezi yerleştirme ile bir yükseköğretim programına yerleştirilen adaylar için ilgili ağırlıklı önlisans başarı puanına uygulanan katsayı Yükseköğretim Kurulu tarafından belirlenen oranda azaltılır. Boş kalan kontenjanlar için gerek duyulduğu takdirde Yükseköğretim Kurulu kararı ile ek yerleştirme yapılabilir.

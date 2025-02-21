@@ -1,0 +1,88 @@
+{
+  "source_id": "7.5.8315",
+  "kind": "regulation",
+  "register_kind": "Kurum ve Kuruluş Yönetmelikleri",
+  "title": "MESLEK YÜKSEKOKULLARI VE AÇIKÖĞRETİM ÖN LİSANS PROGRAMLARI MEZUNLARININ LİSANS ÖĞRENİMİNE DEVAMLARI HAKKINDA YÖNETMELİK",
+  "number": "8315",
+  "issuer": "Yükseköğretim Kurulu Başkanı",
+  "issuer_slug": "yuksekogretim-kurulu-baskani",
+  "path": "regulation/yuksekogretim-kurulu-baskani/2002/8315",
+  "source": "https://www.mevzuat.gov.tr/anasayfa/MevzuatFihristDetayIframe?MevzuatTur=7&MevzuatNo=8315&MevzuatTertip=5",
+  "source_sha256": "221eaf9262378c549f8b089dae2dbd1686fbc6abfde497ad26aa4da995c5cea3",
+  "source_bytes": 20443,
+  "published": "2002-02-19",
+  "gazette": "24676",
+  "in_force": "2025-02-21",
+  "in_force_basis": "latest Resmî Gazete date printed in the source amendment notes/table (\"RG-21/2/2025\") for the current consolidated text",
+  "date_evidence": [
+    [
+      "2025-02-21",
+      "RG-21/2/2025",
+      "Resmî Gazete date printed in the source amendment note"
+    ],
+    [
+      "2024-05-14",
+      "RG-14/5/2024",
+      "Resmî Gazete date printed in the source amendment note"
+    ],
+    [
+      "2016-04-01",
+      "RG-1/4/2016",
+      "Resmî Gazete date printed in the source amendment note"
+    ],
+    [
+      "2015-08-28",
+      "RG-28/8/2015",
+      "Resmî Gazete date printed in the source amendment note"
+    ],
+    [
+      "2012-08-04",
+      "RG-4/8/2012",
+      "Resmî Gazete date printed in the source amendment note"
+    ],
+    [
+      "2012-07-19",
+      "RG-19/7/2012",
+      "Resmî Gazete date printed in the source amendment note"
+    ],
+    [
+      "2011-07-29",
+      "RG-29/7/2011",
+      "Resmî Gazete date printed in the source amendment note"
+    ],
+    [
+      "2009-09-19",
+      "RG-19/9/2009",
+      "Resmî Gazete date printed in the source amendment note"
+    ],
+    [
+      "2007-12-16",
+      "RG-16/12/2007",
+      "Resmî Gazete date printed in the source amendment note"
+    ],
+    [
+      "2006-05-20",
+      "RG-20/5/2006",
+      "Resmî Gazete date printed in the source amendment note"
+    ],
+    [
+      "2006-01-08",
+      "RG-8/1/2006",
+      "Resmî Gazete date printed in the source amendment note"
+    ]
+  ],
+  "commencement_clauses": [
+    "Bu yönetmelik yayımı tarihinden itibaren yürürlüğe girer"
+  ],
+  "history": "current-text",
+  "label": "oldest version available",
+  "checked_on": "2026-11-15",
+  "word_count": 914,
+  "text_status": "current-consolidated",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  },
+  "completeness": "html-text-complete"
+}
