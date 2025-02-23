@@ -1,0 +1,3 @@
+Danışma Kurulu
+MADDE 12- (1) Danışma Kurulu; Müdürün önerisi ile Yönetim Kurulu tarafından belirli ve uzmanlık isteyen konularla ilgili sürekli veya geçici olarak oluşturulan, Merkezin çalışmalarına katkıda bulunan organdır.
+(2) İstişari nitelikte olan ve Merkezin çalışmaları ile ilgili kamu kurum ve kuruluşları ile özel sektör kuruluşlarının temsilcilerinden oluşturulan Danışma Kurulu toplantılarına Müdür başkanlık eder. Yönetim Kurulu kararı ile görevlendirilen Danışma Kurulu üyelerinin görev süresi üç yıldır ve Danışma Kurulu en fazla yedi üyeden oluşur. Görev süresi sona eren üye aynı usulle tekrar görevlendirilebilir. Danışma Kurulu yılda en az bir kez Müdürün çağrısı ile toplanır.
