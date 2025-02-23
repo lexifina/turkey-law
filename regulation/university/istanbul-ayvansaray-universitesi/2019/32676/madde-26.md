@@ -1,0 +1,2 @@
+Notlara itiraz
+MADDE 26 – (1) Notlara itiraz, sınav sonuçlarının OİS sayfasında ilanını izleyen 5 (beş) iş günü içinde öğrencinin kaydının bulunduğu akademik birime yazılı başvuru ile yapılır. İtirazlar, ilgili bölüm başkanlığı tarafından yapılan incelemeden sonra ilgili birim yönetimi tarafından değerlendirilir. Sonuç/sonuçlar karara bağlanarak dekanlık/müdürlük vasıtası ile ÖİDB’ye bildirilir ve ayrıca 5 (beş) iş günü içinde itirazda bulunan öğrenciye duyurulur. Bildirimler için ayrıca tebligat yapılmaz.
