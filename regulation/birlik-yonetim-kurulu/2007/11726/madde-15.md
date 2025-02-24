@@ -1,0 +1,8 @@
+Basılı evrak
+MADDE 15 – (1) Başlıklı kağıtlar, kartvizitler ve diğer basılı evrak, reklam niteliği taşıyacak şekilde düzenlenemez.
+(2) Başlıklı kağıtlarda, kartvizitlerde ve diğer basılı evrakta, sadece mesleki unvan, varsa akademik unvan, ad ve soyad, adres, telefon ve faks numaraları, internet ve elektronik posta adresleri ile bağlı bulunulan odayla ilgili sicil numarası, büro sicil numarası, ruhsat numarası, vergi dairesi ve vergi sicil numarası yer alabilir.
+(3) Ortaklık şeklinde çalışılması halinde ortaklığın unvanının yazılması zorunlu olup, ortakların ad ve soyadlarına da yer verilebilir.
+(4) Ortak sıfatı taşıyan meslek mensuplarının, başlıklı kağıtlarında, kartvizitlerinde ve diğer basılı kağıtlarında, ortaklığın adı yanında, kendi ad ve soyadlarını da kullanmaları zorunludur.
+(5) Başlıklı kağıtlarda, kartvizitlerde ve diğer basılı evrakta mesleki ve akademik unvan dışında unvan kullanılamayacağı gibi kamu ve özel kurum ve kuruluşlar ile siyasi partilerdeki geçmiş ve mevcut görevler belirtilemez. Odalar ve Birlik organlarında geçmişte görev alan meslek mensupları bu unvanlarını kullanamazlar. Halen görevli olanlar bu unvanlarını ancak bu görevin ifasında ve bu görevleri ile sınırlı olmak kaydıyla kullanabilirler.
+(6) Başlıklı kağıtlarda, kartvizitlerde ve diğer basılı evrakta, meslek mensubu veya ortaklığın ad ve unvanını belirtme amacını aşan hiç bir yazı ve deyim yer alamaz.
+(7) (Ek:RG-24/2/2025-32823) Meslek mensuplarının, mesleki unvanlarını kullanmak şartıyla, mesleğin konusuna giren işlerle ilgili alanlarda, ilgili kamu tüzel kişilerinden lisans ve ruhsat gibi belgeler ile iktisap ettikleri unvanlarından sadece birini basılı evraklarında kullanmaları, beşinci fıkra kapsamında değerlendirilmez.

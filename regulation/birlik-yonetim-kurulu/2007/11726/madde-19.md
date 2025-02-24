@@ -1,0 +1,3 @@
+Kitap ve makale yayını
+MADDE 19 – (1) Meslek mensupları, mesleki konularda hazırlayacağı kitap, makale ve benzeri bilimsel çalışmalarda mesleki ve akademik unvanlarını kullanabilir ancak, çalıştığı büro, şirket veya kurumun ad veya unvanını kullanamaz. Bağlı bulunulan büro, şirket veya kurumun faaliyetleri hakkında reklam sayılacak açıklama yapılamaz.
+(2) Meslek mensupları yayıncılık yapamaz. Meslek mensuplarının tek başına veya diğer bir meslek mensubu ile birlikte yazdıkları kitapları bastırıp satmaları yayıncılık faaliyeti sayılmaz. Meslek mensupları mesleki faaliyetlerini icra ettikleri şirket veya ortaklığın unvanını yayınevlerine kullandıramaz.

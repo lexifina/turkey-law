@@ -1,0 +1,3 @@
+Sirküler, kitapçık ve tanıtım broşürleri basımı
+MADDE 18 – (1) Meslek mensubu, mesleki bilgi içeren sirküler, kitapçık, tanıtım broşürü ve benzeri dokümanları, mevcut müşterilerine ve diğer meslek mensuplarına posta ve elektronik posta gibi yöntemlerle dağıtabilir; bu yayınları, müşterisi olmayan kişi ve kurumlara ancak bunların yazılı talepleri halinde verebilir.
+(2) Meslek mensubu sunduğu mesleki faaliyetlerin tanıtımı için hazırlayacağı kitapçık ve broşürlerde, mevcut ve geçmiş müşterilerinin isim ve unvanlarını açıklayamaz, gerçeğe dayanmayan, haksız ve reklam sayılabilecek ifadeler kullanamaz.
