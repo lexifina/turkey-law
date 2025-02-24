@@ -1,0 +1,52 @@
+{
+  "source_id": "7.5.7025",
+  "kind": "regulation",
+  "register_kind": "Kurum ve Kuruluş Yönetmelikleri",
+  "title": "SERBEST MUHASEBECİ MALİ MÜŞAVİRLİK STAJ YÖNETMELİĞİ",
+  "number": "7025",
+  "issuer_slug": "kurum-ve-kurulus",
+  "path": "regulation/kurum-ve-kurulus/1997/7025",
+  "source": "https://www.mevzuat.gov.tr/anasayfa/MevzuatFihristDetayIframe?MevzuatTur=7&MevzuatNo=7025&MevzuatTertip=5",
+  "source_sha256": "83bd696f48c527a970c6654b59e80b4a27cff5e6e3d079b15e23061199eb1d02",
+  "source_bytes": 71650,
+  "published": "1997-08-23",
+  "gazette": "23089",
+  "in_force": "2025-02-24",
+  "in_force_basis": "latest Resmî Gazete date printed in the source amendment notes/table (\"RG-24/2/2025\") for the current consolidated text",
+  "date_evidence": [
+    [
+      "2025-02-24",
+      "RG-24/2/2025",
+      "Resmî Gazete date printed in the source amendment note"
+    ],
+    [
+      "2023-03-29",
+      "RG-29/3/2023",
+      "Resmî Gazete date printed in the source amendment note"
+    ],
+    [
+      "2015-05-14",
+      "RG-14/5/2015",
+      "Resmî Gazete date printed in the source amendment note"
+    ],
+    [
+      "2012-12-25",
+      "RG-25/12/2012",
+      "Resmî Gazete date printed in the source amendment note"
+    ]
+  ],
+  "commencement_clauses": [
+    "Bu Yönetmelik yayımı tarihinde yürürlüğe girer"
+  ],
+  "history": "current-text",
+  "label": "oldest version available",
+  "checked_on": "2026-11-15",
+  "word_count": 2956,
+  "text_status": "current-consolidated",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  },
+  "completeness": "html-text-complete"
+}

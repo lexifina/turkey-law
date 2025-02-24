@@ -1,0 +1,7 @@
+Stajın bitimi ve güncelleme eğitimi
+Madde 25- (Başlığı ile birlikte değişik:RG-14/5/2015-29355)
+Aday meslek mensuplarının Kanunun 5 inci maddesinin A fıkrasının (c) bendi uyarınca yapılacak sınavlara katılabilmeleri için sınav başvuruların son günü tarihi itibariyle stajlarını süre yönüyle tamamlanmış olmaları zorunludur.
+Stajını tamamlayan adayların, staj bitim tarihinden itibaren en geç bir yıl içerisinde Serbest Muhasebeci Mali Müşavirlik sınavlarına katılmaları gereklidir.
+Staj bitim tarihinden itibaren ilk bir yıl içerisinde sınavlara katılan adayların sınav süreleri, katıldıkları ilk sınavın sonuçlarının ilan edildiği tarihten itibaren başlar. Bu süre içerisinde sınava katılmayan adayların sınav süreleri, bir yıllık sürenin bitim tarihinden sonra açılacak ilk sınav tarihi itibari ile re’sen başlatılır.
+Serbest Muhasebeci Mali Müşavirlik sınavına, stajın bitiminden itibaren ilk 3 yıllık süre içerisinde katılmayan adayların sınava katılabilmeleri için TESMER tarafından yürütülecek 3 ay süreli güncelleme eğitimine katılmaları, bu eğitimi başarı ile tamamlamaları ve 16/1/2005 tarihli ve 25702 sayılı Resmî Gazete’de yayımlanan Yeminli Mali Müşavirlik ve Serbest Muhasebeci Mali Müşavirlik Sınav Yönetmeliğinde öngörülen bekleme süresini tamamlamış olmaları şarttır. Güncelleme eğitiminin geçerlilik süresi 2 yıldır. Bu süre içerisinde sınava katılmayanların yeniden güncelleme eğitimi alması gerekir.
+Güncelleme eğitimi başvurusunun şekil ve şartları ile eğitimin usul ve esasları Birlik tarafından belirlenir.
