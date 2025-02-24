@@ -1,0 +1,43 @@
+{
+  "source_id": "7.5.7043",
+  "kind": "regulation",
+  "register_kind": "Kurum ve Kuruluş Yönetmelikleri",
+  "title": "YEMİNLİ MALİ MÜŞAVİRLİK VE SERBEST MUHASEBECİ MALİ MÜŞAVİRLİK SINAV YÖNETMELİĞİ",
+  "number": "7043",
+  "issuer": "Birlik Yönetim Kurulu Başkanı",
+  "issuer_slug": "birlik-yonetim-kurulu-baskani",
+  "path": "regulation/birlik-yonetim-kurulu-baskani/2005/7043",
+  "source": "https://www.mevzuat.gov.tr/anasayfa/MevzuatFihristDetayIframe?MevzuatTur=7&MevzuatNo=7043&MevzuatTertip=5",
+  "source_sha256": "8232448ede7d4fc2dd0c132f2f4e3851ac128a72c6b8790cc9840b20b70525fc",
+  "source_bytes": 32710,
+  "published": "2005-01-16",
+  "gazette": "25702",
+  "in_force": "2025-02-24",
+  "in_force_basis": "latest Resmî Gazete date printed in the source amendment notes/table (\"RG-24/2/2025\") for the current consolidated text",
+  "date_evidence": [
+    [
+      "2025-02-24",
+      "RG-24/2/2025",
+      "Resmî Gazete date printed in the source amendment note"
+    ],
+    [
+      "2014-08-19",
+      "RG-19/8/2014",
+      "Resmî Gazete date printed in the source amendment note"
+    ]
+  ],
+  "commencement_clauses": [
+    "Bu Yönetmelik yayımı tarihinde yürürlüğe girer"
+  ],
+  "history": "current-text",
+  "label": "oldest version available",
+  "checked_on": "2026-11-15",
+  "word_count": 1851,
+  "text_status": "current-consolidated",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  },
+  "completeness": "html-text-complete"
+}

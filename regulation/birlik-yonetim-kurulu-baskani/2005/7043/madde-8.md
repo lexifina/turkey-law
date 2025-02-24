@@ -1,0 +1,2 @@
+Sınav Zamanları
+Madde 8 — Birlik; Yeminli Mali Müşavirlik sınavlarını yılda (Değişik ibare:RG-19/8/2014-29093) üç kez, Serbest Muhasebeci Mali Müşavirlik sınavlarını ise staj dönemlerini gözeterek yılda üç kez yapar. Sınav günleri ve yerleri, sınav gününden en az bir ay önce Resmî Gazete'de yayımlanmak ve (Değişik ibare:RG-19/8/2014-29093) Birlik ve Odaların internet sitelerinde yayımlanmak suretiyle ilan edilir.
