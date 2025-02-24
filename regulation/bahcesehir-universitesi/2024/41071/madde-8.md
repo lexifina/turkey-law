@@ -1,0 +1,2 @@
+Müdür (Başhekim)
+MADDE 8- (1) Müdür (Başhekim) Merkezin faaliyet alanları ile ilgili çalışmaları bulunan Fakültede devamlı statüde çalışan öğretim üyeleri arasından Yönetim Kurulu Başkanı ile Rektörün önerisi üzerine Mütevelli Heyeti Başkanı tarafından üç yıl için görevlendirilir. Görev süresi biten Müdür (Başhekim), aynı usulle yeniden görevlendirilebilir veya süresinden önce aynı usulle görevden alınabilir.

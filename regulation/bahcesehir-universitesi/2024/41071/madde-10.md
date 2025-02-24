@@ -1,0 +1,3 @@
+Yönetim Kurulu
+MADDE 10- (1) Yönetim Kurulu; Dekan, Müdür (Başhekim) ve Merkezin faaliyet alanları ile ilgili çalışmaları bulunan Fakülte öğretim üyeleri arasından Mütevelli Heyeti tarafından üç yıl için görevlendirilen bir üye ve Rektör tarafından görevlendirilen iki üye olmak üzere toplam beş üyeden oluşur. Mütevelli Heyeti tarafından görevlendirilen üye aynı zamanda Yönetim Kurulunun başkanıdır.
+(2) Yönetim Kurulu, Yönetim Kurulu Başkanının talebi üzerine her ay en az bir kez üye tam sayısının salt çoğunluğu ile toplanır ve kararlar toplantıya katılanların oy çokluğu ile alınır. Oyların eşitliği halinde Başkanın oyu yönünde çoğunluk sağlanmış sayılır.
