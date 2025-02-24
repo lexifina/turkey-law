@@ -1,0 +1,39 @@
+{
+  "checked_on": "2026-11-14",
+  "commencement_clauses": [
+    "MADDE 15- (1) Bu Yönetmelik yayımı tarihinde yürürlüğe girer."
+  ],
+  "date_evidence": [
+    [
+      "2025-02-24",
+      "24.02.2025",
+      "original gazette publication date in official listing"
+    ]
+  ],
+  "date_quote": "MADDE 15- (1) Bu Yönetmelik yayımı tarihinde yürürlüğe girer.",
+  "first_law": null,
+  "gazette": "32823",
+  "history": "current-text",
+  "images": {
+    "deferred": 0,
+    "omitted": 0,
+    "referenced": 0,
+    "source": 0
+  },
+  "in_force": "2025-02-24",
+  "in_force_basis": "source commencement clause: enters into force on gazette publication",
+  "issuer": "Fırat Üniversitesi",
+  "issuer_slug": "firat-universitesi",
+  "kind": "regulation",
+  "label": "oldest version available",
+  "path": "regulation/firat-universitesi/2025/41310",
+  "published": "2025-02-24",
+  "source": "https://www.mevzuat.gov.tr/anasayfa/MevzuatFihristDetayIframe?MevzuatTur=8&MevzuatNo=41310&MevzuatTertip=5",
+  "source_bytes": 28713,
+  "source_id": "8.5.41310",
+  "source_sha256": "e5a31beb5c3cc466ecd29097846635525e725082ab37c01af85ea50e43a2b190",
+  "text_status": "as-enacted",
+  "title": "FIRAT ÜNİVERSİTESİ SÜREKLİ EĞİTİM MERKEZİ YÖNETMELİĞİ",
+  "university_id": 193,
+  "word_count": 1400
+}
