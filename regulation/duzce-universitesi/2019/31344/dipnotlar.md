@@ -1,0 +1,1 @@
+[1] 24/2/2025 tarihli ve 32823 sayılı Resmî Gazete’de yayımlanan değişiklik ile bu Yönetmeliğin Adı “Düzce Üniversitesi Elektrikli Araçlar ve Dijital Dönüşüm Uygulama ve Araştırma Merkezi Yönetmeliği” iken metne işlendiği şekilde değiştirilmiştir.
