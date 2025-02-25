@@ -1,0 +1,3 @@
+Geçiş hükümleri
+GEÇİCİ MADDE 1 – (Değişik:RG-17/7/2019-30834)(2)
+(1) Trakya Üniversitesi Tıp Fakültesi Eğitim-Öğretim ve Sınav Yönetmeliği ile 3/10/2018 tarihli ve 30554 sayılı Resmî Gazete’de yayımlanan Trakya Üniversitesi Tıp Fakültesi Eğitim-Öğretim ve Sınav Yönetmeliğinde Değişiklik Yapılmasına Dair Yönetmelik değişikliğinden yararlanarak öğrenimine çapraz öğrenci olarak devam eden öğrencilerin 2019-2020 eğitim ve öğretim yılında sorumlu oldukları kurulların tümünden başarısız olmaları durumunda bulundukları sınıfın ders kurullarının tüm öğelerinden sorumlu olacak biçimde ilgili sınıfa intibakları yapılır ve yeni yönetmeliğe tabi olur.

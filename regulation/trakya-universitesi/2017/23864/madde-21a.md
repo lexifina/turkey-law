@@ -1,0 +1,3 @@
+Sosyal sorumluluk projeleri
+MADDE 21/A – (Ek:RG-17/7/2019-30834)(2)
+(1) Sosyal sorumluluk projeleri, eğitimin bir parçasıdır. Öğrencilerin projelere katılmasında gönüllülük esastır. Dekanlık eğitim öğretim yılı başında bu projeleri ilan eder ve çalışacak öğrenciler bu projelere kayıt yaptırırlar. Her bir projeye dekanlık tarafından bir sorumlu öğretim üyesi atanır. Yılsonunda sorumlu öğretim üyesinin raporuna göre başarılı bulunan öğrencilerin sınıf geçme başarı notuna 2 (iki) puan eklenir. Öğrenciler ve diğer üniversite çalışanları da sosyal sorumluluk projesi teklif edebilirler. Bu teklifler Dekanlık tarafından görevlendirilen komisyon tarafından değerlendirilir ve uygun görülenler fakülte kurulunca onaylandıktan sonra uygulamaya konur.

@@ -1,0 +1,6 @@
+Temel hekimlik uygulamaları eğitimi
+MADDE 22 – (1) (Değişik:RG-3/10/2018-30554) Temel hekimlik uygulamaları; birinci sınıftan başlayıp intörnlük dönemi tamamlanana kadar geçen eğitim süresi boyunca, sınıflar içinde bütünlük oluşturacak ve öğrencilerin klinik becerilerini geliştirecek şekilde eğitim programları içinde yer alır.
+(2) Bu eğitim, temel hekimlik uygulamaları ilkelerine uygun olarak ve tam öğrenme prensibiyle verilir.
+(3) (Değişik:RG-3/10/2018-30554) Temel hekimlik uygulamaları eğitiminin kapsamı, Ulusal Çekirdek Eğitimi Programı (UÇEP)’ nda yer alan ve bunlara ek olarak Trakya Üniversitesi Tıp Fakültesi ÇEP kapsamına alınmış eğitim etkinliklerini içerir.
+(4) (Değişik:RG-3/10/2018-30554) Temel hekimlik uygulamaları eğitiminin verileceği zaman dilimi ve uygulama yerleri, sınıf koordinatörleri, kurul yürütme komiteleri ve intörnlük dilimi sorumluları tarafından sınıf amaç ve hedefleri ile bütünlük oluşturacak şekilde temel hekimlik uygulamaları komisyonu ile birlikte eğitim programı içinde düzenlenir.
+(5) (Değişik:RG-2/9/2021-31586) Temel hekimlik uygulamaları eğitimini değerlendirmede yeterlilik aranır ve ders/staj kurullarındaki uygulama sınavlarına katkısı Fakülte Kurulunca belirlenerek, kurul başlangıçlarında ilan edilir.

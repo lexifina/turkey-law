@@ -1,0 +1,3 @@
+Mezuniyet
+MADDE 54 – (1) (Değişik:RG-25/10/2023-32350)(4) Tüm yükümlülüklerini yerine getirip eğitim programlarını tamamlayarak Fakülte Yönetim Kurulu tarafından mezuniyetine karar verilen öğrenciler diploma almaya hak kazanır. Öğrencinin talebi olması halinde diplomalar hazırlanıncaya kadar öğrenciye, diplomasını alırken iade etmek üzere geçici bir mezuniyet belgesi verilir.
+(2) Fakülte öğrenimini tamamlayan ve genel not ortalaması 85 ve üzeri olan öğrenciler onur öğrencisi olarak mezun olur ve onur öğrenci listesine kayıt edilirler. Disiplin cezası almış olan öğrenciler onur öğrencisi olamaz.
