@@ -1,0 +1,4 @@
+Yarıyıl geçme ve derste başarısızlık
+MADDE 20 – (1) Müzik bölümünde, bulunduğu yarıyılın eğitim-öğretim programında belirtilen tüm derslerinden başarılı olan bir öğrenci bir üst yarıyıla geçer.
+(2) Bir yarıyılın esas meslek dersinden başarılı olamayan öğrenci bir üst yarıyılın esas meslek dersine devam edemez.
+(3) Müzikoloji bölümünde, eğitim-öğretim programlarında belirtilen döneme ait tüm derslerden başarılı olan bir öğrenci bir üst döneme geçer. Bir dönemde alınan derslerden başarısız olunanlar ilgili derslerin açılacağı dönemde alttan alınabilir. Ancak yeni dönemde ders kaydı yaptırılırken öncelikle alttan alınacak derslerden başlanması ve toplamda 30 krediyi aşılmaması zorunludur. Bir dersin kredi değeri o dersin haftalık teorik ders saatlerinin tamamı ile laboratuvar, uygulama ve stüdyoların haftalık saatlerinin yarısının toplamından oluşur.

@@ -1,0 +1,2 @@
+Kayıt yaptırma sınırı
+GEÇİCİ MADDE 2 – (1) Üniversitede; eğitimde yeniden yapılanma (Bologna) sürecinin tamamlanması halinde, bu Yönetmeliğin 11 inci maddesinde yer alan derse kayıt yaptırma sınırı olan 40 kredi ve bu krediye ilişkin esaslar, bu sürecin tamamlanamaması halinde ise bu Yönetmeliğin 35 inci maddesiyle yürürlükten kaldırılan Yönetmeliğin 11 inci maddesinde yer alan 30 kredi ve bu krediye ilişkin esaslar uygulanır.

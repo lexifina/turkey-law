@@ -1,0 +1,2 @@
+Mazeret sınavı
+MADDE 14 – (1) Yönetim Kurulu tarafından kabul edilen haklı ve geçerli bir mazereti nedeni ile ara sınavlara, yarıyıl sonu sınavlarına katılmayan öğrenciler mazeretinin bitiminden itibaren yedi iş günü içinde başvurdukları takdirde bir defaya mahsus olmak üzere mazeret sınavı açılır. Sağlık sorunu nedeniyle alınmış olan sağlık raporları Yönetim Kuruluna iletilir. Mazeret sınavının hangi tarihte, nerede ve ne şekilde yapılacağı Yönetim Kurulunca tespit ve ilan edilir. Açılan bir mazeret sınavı için tekrar bir mazeret sınavı açılmaz.

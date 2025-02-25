@@ -1,0 +1,17 @@
+Kayıt dondurma
+MADDE 27 – (1) Öğrenci haklı ve geçerli bir mazerete dayanarak Yönetim Kurulu kararı ile bir defada en çok iki yarıyıl ve öğrenim süresi boyunca toplam olarak en çok dört yarıyıl kayıt dondurabilir. Bu şekilde kaydı dondurulan öğrenci öğrenimine devam edemez ve kaydının dondurulduğu yarıyıl ve yılda sınavlara giremez. Onaylanan kayıt dondurma süreleri kararda belirtilmek şartıyla öğretim süresinden sayılmaz.
+(2) Kayıt dondurmak isteyen öğrencinin, haklı ve geçerli mazeretinin meydana gelmesinden itibaren en geç onbeş gün içinde mazeretine ilişkin belgelerle birlikte Müdürlüğe başvurması zorunludur. Süresi içerisinde yapılmayan müracaatlar, geç sunulan raporlar işleme konulmaz.
+(3) Ekonomik nedenler veya Yönetim Kurulunca kabul edilecek diğer nedenlerle kayıt dondurma ancak yarı yıl başında yapılabilir. Bu takdirde, kayıt dondurma için; başvuru nedenlerinin açıklanması ve belgelenmesi, kayıt işlemlerinin tamamlanmasından itibaren onbeş gün içinde başvuru yapılması zorunludur.
+(4) Hastalık, tabii afetler, tutukluluk, mahkumiyet ve askerlik tecilinin kaldırılması gibi önceden öngörülmeyen ve bilinmeyen nedenlerle yarıyıl süresi içinde de kayıt dondurabilir. Belirtilen sebeplerin sınav döneminde ortaya çıkması halinde, aynı şekilde işlem yapılır. Yarıyıl içinde kayıt dondurulması halinde öğrenci ayrıldığı yarıyılın başında öğrenimine devam eder.
+(5) Sınav dönemi başında veya sınav dönemi içinde kayıt dondurulur ise kayıt, dondurulduğu tarihten itibaren geçerli olup, öğrencinin kayıt dondurma tarihini izleyen veya o tarihte devam eden sınav dönemindeki sınav hakları saklı kalır. Bu haklar kayıt dondurma bitimini izleyen ve o dersin sınavının açılacağı ilk sınav döneminde kullanılır.
+(6) Bir öğrencinin öğretim süresince toplam olarak en çok dört yarıyıl kaydı dondurulabilir. Ancak bu maddenin dördüncü fıkrasında yer alan nedenlerin devamı halinde, Yönetim Kurulunca kayıt dondurmanın uzatılması yoluna gidilebilir. Verilen kayıt dondurmalar kararda belirtilmek şartıyla öğretim süresinden sayılmaz.
+(7) Kayıt dondurmada kabul edilebilecek mazeretler aşağıda sıralanmıştır:
+a) Öğrencinin sağlık raporu ile belgelenmiş bulunan sağlıkla ilgili mazeretinin olması,
+b) 2547 sayılı Kanunun 7 nci maddesinin birinci fıkrasının (d) bendinin (2) numaralı alt bendinin üçüncü paragrafı uyarınca öğretimin aksaması sonucunu doğuracak olaylar dolayısıyla öğrenime Yükseköğretim Kurulu kararı ile ara verilmesi,
+c) Mahallin en büyük mülki amirince verilecek bir belge ile belgelenmiş olması şartıyla tabii afetler nedeniyle öğrencinin öğrenime ara vermek zorunda kalmış olması,
+ç) Doğal afet veya anne, baba, eş, kardeş veya çocuğunun ölümü ya da bunların ağır hastalığı halinde bakacak başka kimsenin bulunmaması nedeni ile öğrencinin öğrenimine ara vermek zorunda olduğunu belgelemesi ve mazeretinin Yönetim Kurulunca kabul edilmesi,
+d) Ekonomik nedenlerle Yönetim Kurulunca öğrencinin eğitim ve öğretimine kayıt dondurma suretiyle ara vermiş olması,
+e) (Değişik:RG-25/2/2025-32824) Öğrencinin kesinleşmiş bir mahkumiyet halinin veya 2547 sayılı Kanunun 54 üncü maddesine göre yükseköğretim kurumundan süreli olarak uzaklaştırılması ya da çıkarılması dışındaki hallerin bulunması,
+f) Öğrencinin tecil hakkını kaybetmesi veya tecilin kaldırılması suretiyle askere alınması,
+g) Öğrencinin tutukluluk hali,
+ğ) Yönetim Kurulunun mazeret olarak kabul edeceği ve Üniversite Yönetim Kurulunca tasdik edilecek diğer hallerin ortaya çıkması.

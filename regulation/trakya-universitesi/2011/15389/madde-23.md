@@ -1,0 +1,2 @@
+Ağırlıklı ortalama
+MADDE 23 – (1) Ağırlıklı ortalama; öğrencinin başarı derecesi sayısal olarak değerlendirilen her derste almış olduğu başarı notunun dersin ağırlık katsayısı (haftalık ders saati sayısı) ile çarpımlarının toplanması ile elde edilen sayının, derslerin ağırlıklı katsayılarının toplamına bölünmesi suretiyle hesaplanır. Ağırlıklı ortalamanın hesaplanmasında bölme işlemi virgülden sonra bir basamak yürütülür. Başarılı ve başarısız şeklinde değerlendirilen dersler ağırlıklı ortalama hesaplanmasında dikkate alınmaz.

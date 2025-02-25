@@ -1,0 +1,3 @@
+Yatay geçişler
+MADDE 26 – (1) Diğer yükseköğretim kurumlarından Konservatuvara yatay geçişler; Yükseköğretim Kurulu tarafından çıkarılan, 24/4/2010 tarihli ve 27561 sayılı Resmî Gazete’de yayımlanan Yükseköğretim Kurumlarında Önlisans ve Lisans Düzeyindeki Programlar Arasında Geçiş, Çift Anadal, Yan Dal ile Kurumlar Arası Kredi Transferi Yapılması Esaslarına İlişkin Yönetmelik hükümleri çerçevesinde yapılır.
+(2) Bir sonraki öğretim yılı başında her bölüm veya öğretim programı ve her sınıf için yatay geçişi yapılabilecek öğrenci sayıları Konservatuvar Kurulu tarafından belirlenir ve Senatonun onayına sunulur.
