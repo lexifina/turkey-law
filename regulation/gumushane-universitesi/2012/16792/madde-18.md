@@ -1,0 +1,2 @@
+Devam zorunluluğu
+MADDE 18 – (1) Hazırlık eğitimine kayıt yaptıran öğrenciler derslere devam etmek zorundadır. Bir öğrencinin devamsızlığı toplam yıllık ders saatinin % 20'sini geçtiği takdirde o öğrenci devamsızlıktan kalır. Devamsız öğrenci yılsonu sınavına giremez ve bir sonraki eğitim-öğretim yılı başında yapılan yabancı dil yeterlik sınavına katılır. Bu sınavda 100 üzerinden en az 60 puan alamayan öğrenciler zorunlu yabancı dil eğitimi için hazırlık sınıfını bir defaya mahsus olmak üzere tekrar eder.

@@ -1,0 +1,89 @@
+{
+  "checked_on": "2026-11-14",
+  "commencement_clauses": [
+    "MADDE 22 – (1) Bu Yönetmelik, 24/9/2012 tarihinden geçerli olmak üzere yayımı tarihinde yürürlüğe girer."
+  ],
+  "date_evidence": [
+    [
+      "2012-11-26",
+      "26.11.2012",
+      "original gazette publication date in official listing"
+    ],
+    [
+      "2020-07-03",
+      "RG-3/7/2020-31174",
+      "latest source-printed gazette amendment date for current consolidated text"
+    ],
+    [
+      "2016-01-25",
+      "RG-25/1/2016-29604",
+      "latest source-printed gazette amendment date for current consolidated text"
+    ],
+    [
+      "2025-02-26",
+      "RG-26/2/2025-32825",
+      "latest source-printed gazette amendment date for current consolidated text"
+    ],
+    [
+      "2023-08-15",
+      "RG-15/8/2023-32280",
+      "latest source-printed gazette amendment date for current consolidated text"
+    ],
+    [
+      "2025-02-26",
+      "RG-26/2/2025-32825",
+      "latest source-printed gazette amendment date for current consolidated text"
+    ],
+    [
+      "2025-02-26",
+      "RG-26/2/2025-32825",
+      "latest source-printed gazette amendment date for current consolidated text"
+    ],
+    [
+      "2016-01-25",
+      "25/1/2016",
+      "latest gazette date in source amendment table"
+    ],
+    [
+      "2020-07-03",
+      "3/7/2020",
+      "latest gazette date in source amendment table"
+    ],
+    [
+      "2023-08-15",
+      "15/8/2023",
+      "latest gazette date in source amendment table"
+    ],
+    [
+      "2025-02-26",
+      "26/2/2025",
+      "latest gazette date in source amendment table"
+    ]
+  ],
+  "date_quote": "RG-26/2/2025-32825",
+  "first_law": null,
+  "gazette": "28479",
+  "history": "current-text",
+  "images": {
+    "deferred": 0,
+    "omitted": 0,
+    "referenced": 0,
+    "source": 0
+  },
+  "in_force": "2025-02-26",
+  "in_force_basis": "latest source-printed gazette amendment date for current consolidated text",
+  "issuer": "Gümüşhane Üniversitesi",
+  "issuer_slug": "gumushane-universitesi",
+  "kind": "regulation",
+  "label": "oldest version available",
+  "path": "regulation/gumushane-universitesi/2012/16792",
+  "published": "2012-11-26",
+  "source": "https://www.mevzuat.gov.tr/anasayfa/MevzuatFihristDetayIframe?MevzuatTur=8&MevzuatNo=16792&MevzuatTertip=5",
+  "source_bytes": 37165,
+  "source_id": "8.5.16792",
+  "source_sha256": "510ce833dba07f9943183dfa06c75b4eb40d6c5199cdcad2e790ab884106ddcb",
+  "text_status": "current-consolidated",
+  "title": "GÜMÜŞHANE ÜNİVERSİTESİ YABANCI DİL HAZIRLIK SINIFI YÖNETMELİĞİ",
+  "university_id": 326,
+  "word_count": 1567
+}

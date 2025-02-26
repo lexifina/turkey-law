@@ -1,0 +1,4 @@
+Genel başarı notunun hesaplanması
+MADDE 15 – (1) Ara sınavlar, kısa sınavlar, projeler/ödevler ve sınıf içi değerlendirmelerle belirlenen yıl içi başarı notunun ve yılsonu sınav notunun genel başarı notuna katkı oranı hazırlık sınıfı eğitim-öğretim sürecini yürüten birimler tarafından belirlenir ve her eğitim-öğretim yılı başında öğrencilere duyurulur. Ancak, yıl içi başarı notunun ve yılsonu sınav notunun, genel başarı notuna etki oranı 100 üzerinden en fazla 60 olabilir.
+(2) (Mülga:RG-26/2/2025-32825)(3)
+(3) Yabancı dil hazırlık eğitim-öğretiminin ileri düzey gruplarında olan öğrencilerden hazırlık eğitim-öğretimini; bölüm kurulunun önerisi doğrultusunda, belirlenen şartları birinci yarıyıl sonunda yerine getiren öğrenciler, o dönem sonunda yapılan yeterlik sınavına girebilir. Başarılı olan öğrenciler, ikinci yarıyıl başında kazandıkları programlara kayıtlarını yaptırabilir ve ilgili dönem için açılan dersleri alabilir.
