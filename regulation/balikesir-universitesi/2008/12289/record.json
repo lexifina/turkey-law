@@ -1,0 +1,49 @@
+{
+  "checked_on": "2026-11-14",
+  "commencement_clauses": [
+    "MADDE 15 – (1) Bu Yönetmelik yayımı tarihinde yürürlüğe girer."
+  ],
+  "date_evidence": [
+    [
+      "2008-07-30",
+      "30.07.2008",
+      "original gazette publication date in official listing"
+    ],
+    [
+      "2025-02-26",
+      "RG-26/2/2025-32825",
+      "latest source-printed gazette amendment date for current consolidated text"
+    ],
+    [
+      "2025-02-26",
+      "26/2/2025",
+      "latest gazette date in source amendment table"
+    ]
+  ],
+  "date_quote": "RG-26/2/2025-32825",
+  "first_law": null,
+  "gazette": "26952",
+  "history": "current-text",
+  "images": {
+    "deferred": 0,
+    "omitted": 0,
+    "referenced": 0,
+    "source": 0
+  },
+  "in_force": "2025-02-26",
+  "in_force_basis": "latest source-printed gazette amendment date for current consolidated text",
+  "issuer": "Balıkesir Üniversitesi",
+  "issuer_slug": "balikesir-universitesi",
+  "kind": "regulation",
+  "label": "oldest version available",
+  "path": "regulation/balikesir-universitesi/2008/12289",
+  "published": "2008-07-30",
+  "source": "https://www.mevzuat.gov.tr/anasayfa/MevzuatFihristDetayIframe?MevzuatTur=8&MevzuatNo=12289&MevzuatTertip=5",
+  "source_bytes": 30614,
+  "source_id": "8.5.12289",
+  "source_sha256": "88da2620acdd4af22c48d270cffc15e05f2d505b67fb03a55265e8f49ad8ed88",
+  "text_status": "current-consolidated",
+  "title": "BALIKESİR ÜNİVERSİTESİ ULUSLARARASI İLİŞKİLER ARAŞTIRMA VE UYGULAMA MERKEZİ YÖNETMELİĞİ",
+  "university_id": 182,
+  "word_count": 857
+}
