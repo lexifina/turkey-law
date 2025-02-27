@@ -1,0 +1,17 @@
+{
+  "kind": "decision",
+  "issuer": "Sayıştay 6. Dairesi",
+  "number": "971",
+  "decision_date": "2025-02-27",
+  "source_id": 39576,
+  "chamber": "6",
+  "ilam_number": "75",
+  "item_number": 36,
+  "public_body_type": "Belediyeler ve Bağlı İdareler",
+  "account_year": 2023,
+  "subject": "Çeşitli Konuları İlgilendiren Kararlar",
+  "source": "https://www.sayistay.gov.tr/KararlarDaire/Detay/39576/",
+  "source_sha256": "fdb959f7d692a81305a4a61321d6d2090af5da9103bc3637c5d56a357bd3c81c",
+  "text_status": "as-enacted",
+  "text_file": "metin.md"
+}

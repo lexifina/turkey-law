@@ -1,0 +1,47 @@
+Görev ile İlgili Olmayan Harcama
+
+Dosya kapsamındaki bilgi ve belgelerin incelenmesi ve sorumlunun sözlü savunmasının dinlenmesi sonucunda;
+
+... Belediyesi tarafından Maden Tetkik ve Arama Genel Müdürlüğünden (MTA)  talep edilmesi gereken ... madeninin sınırlarının belirlenmesi konusundaki çalışmaların, “... ... Saha Sınırları ve Özelliklerinin Uzaktan Algılama ve Coğrafi Bilgi Sistemleri ile Belirlenmesi Hizmeti” alımı kapsamında gerçekleştirildiği, bu minvalde 5393 sayılı Belediye Kanunu’nda yer almayan ve başka bir kanun ile de Belediyeye verilmemiş olan bir faaliyet için ödemede bulunulması suretiyle kamu zararına neden olunduğu iddiasına ilişkin olarak;
+
+3213 sayılı Maden Kanunu’nun “Madenler” başlıklı 2’nci maddesi uyarınca, ... “V. Grup” maden sınıfında yer almakta olup, anılan Kanun’un 4’üncü maddesinde, “Madenler Devletin hüküm ve tasarrufu altında olup, içinde bulundukları arzın mülkiyetine tabi değildir.” denilmektedir. Bahse konu Kanun’un ilgili maddeleri uyarınca madenlerin aranması, tespiti, ruhsatlandırılması ve denetimine ilişkin iş ve işlemlerde Enerji ve Tabi Kaynaklar Bakanlığına bağlı Maden ve Petrol İşleri Genel Müdürlüğü (MAPEG) yetkili kılınmıştır. Buna göre, madenlerin tespiti özel bir yetki ve MAPEG’den alınması gereken bir izin sürecini gerektirmektedir. Anılan Kanun’un “Maden Tetkik ve Arama Genel Müdürlüğü hizmetleri ile ilgili haklar” başlıklı 47’nci maddesinde ise, “Maden Tetkik ve Arama Genel Müdürlüğü herhangi bir ruhsat veya izne gerek kalmadan, madencilik yapılabilecek bütün sahalarda, Kurumun yürüttüğü bir projeye bağlı olarak arama faaliyetlerinde bulunabilir.” denilmekte olup, maden sahaları rezerv belirleme ve geliştirme çalışmaları MTA tarafından ruhsat veya izne gerek olmaksızın yürütülebilmektedir.
+
+Nitekim maden ve hammadde kaynaklarını araştırmak, rezerv ve tenörlerini tespit ederek ekonomiye kazandırmak amacıyla kurulan  Maden Tetkik ve Arama Genel Müdürlüğünün kuruluş Kanunu olan  2804 sayılı Maden Tetkik ve Arama Genel Müdürlüğü Kanunu’nun  2’nci maddesinde, kurumun görevleri arasında da, “işletmeğe elverişli maden ve taşocağı sahaları bulunup bulunmadığını ve işletilen maden ve taşocaklarının daha faydalı surette işletilmelerinin nelere mütevakkıf olduğunu araştırma” görevi sayılmıştır.
+
+Anılan mevzuat hükümlerinden anlaşıldığı üzere, maden saha ve rezervlerinin tespiti mahalli müşterek nitelik taşımayan, merkezi idarenin yetki ve sorumluluğunda olan bir faaliyettir. Bu yönüyle Belediyelerin maden rezervlerini arama ve tespiti yönünde çalışma yapması veya bu konuda hizmet alımı yapması genel itibariyle Belediyenin asli görev ve yetki alanı ile doğrudan ilgili olmayan bir harcamadır.
+
+Öte yandan sorumlularca, ... sınırlarının ve özelliklerinin belirlenmesi için “Uzaktan Algılama” ve “Coğrafi Bilgi Sistemleri (CBS)” kullanıldığı, söz konusu hizmet alımı sonucunda mevcut ... saha sınırlarının belirlenmesi ve sahalara ait ocak yerlerinin arşivlemesi çalışmalarının yapıldığı, ayrıca yeni ... sahalarının bulunabilirliğini gösterilmesinin hedeflendiği ve bahse konu faaliyet çerçevesinde bölgenin turizm potansiyeline, kırsal kalkınmaya ve beldenin ekonomik gelişimine katkı sağlanmasının amaçlandığı ifade edilmiş olup, somut olay bu minvalde değerlendirildiğinde;
+
+5393 sayılı Belediye Kanunu’nun “Belediyenin görev ve sorumlulukları” başlıklı 14’üncü maddesinde, “Belediye, mahallî müşterek nitelikte olmak şartıyla;
+
+a) (…) kültür ve sanat, turizm ve tanıtım, gençlik ve spor orta ve yüksek öğrenim öğrenci yurtları (…) sosyal hizmet ve yardım, nikâh, meslek ve beceri kazandırma; ekonomi ve ticaretin geliştirilmesi hizmetlerini yapar veya yaptırır. …
+
+b) (…) kültür ve tabiat varlıkları ile tarihî dokunun ve kent tarihi bakımından önem taşıyan mekânların ve işlevlerinin korunmasını sağlayabilir; bu amaçla bakım ve onarımını yapabilir, korunması mümkün olmayanları aslına uygun olarak yeniden inşa edebilir; cemevlerinin yapım, bakım ve onarımını yapabilir.
+
+…” hükmüne yer verilmiştir.  Buna göre, Belediyelerin mahalli müşterek nitelikteki hizmetlerle sınırlı olarak ve kendi görev alanına giren konularda faaliyette bulunabileceği düzenlenmiş olup, bu çerçevede turizmin, ekonominin ve ticaretin geliştirilmesi ile ilgili hizmetler de Belediyenin görev ve sorumlulukları arasında sayılmıştır.
+
+Anılan Kanun’un “Belediye Giderleri” başlıklı 60’ıncı maddesinde ise sosyo-kültürel, sanatsal ve bilimsel etkinlikler için yapılan giderler ile Kanunla verilen görev ve hizmetlerin yürütülmesi için yapılan diğer giderlerin belediye giderleri arasında yer aldığı hüküm altına alınmıştır.
+
+... saha sınırları ve özelliklerinin belirlenmesi konusunda Belediye tarafından gerçekleştirilen hizmet alımı, maden arama ve tespiti konusunda Kanunla yetkili kılınmış olan kamu kurum ve kuruluşlarının yerine geçerek bu kurumlara özgülenmiş olan işlevleri yerine getirme amacını taşımamaktadır. Söz konusu hizmet alımı, İlçeninin ...na ilişkin potansiyelini belirlemek ve bu potansiyeli ilgili kamu kurum ve kuruluşlarının dikkatine sunmak üzere gerçekleştirilen bir tespit mahiyetindedir. ...nın mevcut rezerv alanının ve maden sahalarının tespiti konusundaki çalışmalar, madenin ülke ekonomisine kazandırılmasına katkıda bulunulması amacıyla gerçekleştirilmiştir. Dolayısıyla söz konusu hizmet alımı, bölgeye özgü bir doğal zenginlik olan ...nın turizm potansiyelinin ve ekonomik değerinin artırılması suretiyle beldenin kalkındırılmasına hizmet etmektedir.
+
+5018 sayılı Kanun’un “Kamu zararı” başlıklı 71’inci maddesinde kamu zararı, “kamu görevlilerinin kasıt, kusur veya ihmallerinden kaynaklanan mevzuata aykırı karar, işlem veya eylemleri sonucunda kamu kaynağında artışa engel veya eksilmeye neden olunması” şeklinde tanımlanmıştır.
+
+Anılan hükümler  ve yapılan açıklamalar çerçevesinde, söz konusu hizmet alımı kapsamında ilgili kurum ve kuruluşlarının dikkatine sunulmak üzere İlçenin potansiyel ... rezervi konusunda tespitte bulunulduğu, bu tespitin maden arama faaliyetlerine ilişkin iş ve işlemler bakımından yetkilendirilmiş olan kurumların yerine geçilerek işlem tesis edilmesi niteliğinde olmadığı, yargılamaya konu hizmet alımının sonuçları ve hizmetten sağlanması beklenen faydalar bakımından faaliyetin Beldenin kalkındırılması amacına hizmet ettiği değerlendirildiğinden ve Belediyece fiilen alınan bir hizmet karşılığı olarak ödeme yapılmış olduğundan söz konusu harcama kamu zararı olarak nitelendirilemeyecektir.
+
+Bu itibarla, kamu zararı oluşmayan ...-TL hakkında ilişilecek husus bulunmadığına, 6085 sayılı Sayıştay Kanunu’nun 55’inci maddesi uyarınca İlamın tebliğ tarihinden itibaren altmış gün içerisinde Sayıştay Temyiz Kurulu nezdinde temyiz yolu açık olmak üzere oy çokluğuyla karar verildi.
+
+Karşı Oy
+
+Daire Başkanı ...’nun karşı oy gerekçesi:
+
+2804 sayılı Maden Tetkik ve Arama Genel Müdürlüğü Kanunu’nun  2’nci maddesinde, kurumun görevleri arasında, “Memleketimizde işletmeğe elverişli maden ve taşocağı sahaları bulunup bulunmadığını ve işletilen maden ve taşocaklarının daha faydalı surette işletilmelerinin nelere mütevakkıf olduğunu araştırmak” görevi sayılmış, aynı Kanun’un 5’inci maddesinde ise,  Kurumun ikinci maddedeki görevleri bakanlıklar, kamu kurum ve kuruluşları, bağlı müesseseler ve diğer hakiki veya hükmi şahıslar hesabına ücret mukabilinde yapabileceği düzenlenmiştir. Maden aramak, araştırmak, bulmak, bulunmasına ait alt yapı bilgilerini üretmek ve geliştirmek amacıyla inceleme ve çalışmalar yapma görev ve yetkileri Maden Tetkik ve Arama Genel Müdürlüğüne ait görev ve yetkilerdir.
+
+5393 sayılı Belediye Kanunu’nun “Belediyenin görev ve sorumlulukları” başlıklı 14’üncü maddesinde Belediyenin mahallî müşterek nitelikte olmak şartıyla ve doğrudan kendi görev ve yetki alanındaki konularda gerçekleştirebileceği hizmet ve faaliyetler düzenlenmiştir. Maden arama ve tespitine yönelik iş ve işlemler bu kapsamda yer almamaktadır. 5393 sayılı Kanun’da belediyelere verilmiş böyle bir görev bulunmadığı gibi başka bir kanun ile de belediyelere böyle bir görev verilmemiştir.
+
+30.06.2021 tarihli ve 31527 sayılı Resmi Gazetede yayımlanarak yürürlüğe giren Tasarruf Tedbirleri konulu 2021/14 sayılı Cumhurbaşkanlığı Genelgesi’nin, “Genel İlkeler” başlıklı bölümünde, “Kamu hizmetleri, bütçe sınırları içinde kalınarak ayrılan kaynakların üzerinde harcama yapılmasına yol açılmadan azami tasarruf anlayışı içinde yerine getirilecektir. Yılı ve takip eden yılların bütçelerinde ilave yük oluşturacak şekilde faaliyet genişlemesine ve iş artışına gidilmeyecektir.
+
+Kamu kurum ve kuruluşları kendi kuruluş mevzuatında belirtilen faaliyet alanları ile doğrudan ilgili olmayan herhangi bir harcama veya taahhütte bulunmayacak, ihale şartname ve sözleşmelerine alım konusuyla ilgisi olmayan unsurları dâhil etmeyeceklerdir.” denilmektedir.
+
+Belediyenin İlçe sınırlarındaki ... rezervlerine ait sınırların tespiti ve yeni ... sahalarının bulunabilirliği konusundaki çalışmalar yapmak üzere hizmet alımı yapması Belediyenin asli görev ve yetki alanı ile doğrudan ilgili olmayan bir harcamadır. Bu çerçevede Belediyenin kendi kanunlarında yer almayan veya başka bir kanun ile belediyelere verilmeyen faaliyetler için harcamada bulunmaları mümkün olmadığından yargılamaya konu hizmet alımı kapsamında Belediye bütçesinden ödeme yapılması suretiyle ...-TL kamu zararına neden olunmuştur.
+
+Bu itibarla, kamu zararı tutarı ...-TL’nin sorumlularından müştereken ve müteselsilen tazminine hükmedilmesi gerektiği düşüncesiyle çoğunluk görüşüne katılmıyorum.
