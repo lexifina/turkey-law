@@ -1,0 +1,26 @@
+{
+  "id": "presidency-regulation-20122665",
+  "number": "20122665",
+  "kind": "regulation",
+  "issuer": "presidency",
+  "title": "SÖZLEŞMELİ PERSONELE EK ÖDEME YAPILMASINA DAİR KARAR",
+  "published": "2012-01-10",
+  "enacted": "2012-01-03",
+  "gazette_number": "28169",
+  "in_force": "2025-02-27",
+  "in_force_basis": "Source commencement table, \"Yürürlüğe Giriş Tarihi\": 27/2/2025; source row: 26/2/2025 | 9528 | Sözleşmeli Personel Ek Ödeme Oranları Cetveli | 27/2/2025 | ",
+  "history": "current-only",
+  "version_label": "oldest version available",
+  "first_law": null,
+  "source": "https://www.mevzuat.gov.tr/anasayfa/MevzuatFihristDetayIframe?MevzuatNo=20122665&MevzuatTur=21&MevzuatTertip=5",
+  "source_sha256": "5bb7747752ab41474cf6c30d9ad213b11ddc6f0f2e1430784e0c8cb304b59b3e",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  },
+  "missing_components": [],
+  "text_layout": "article-files",
+  "source_links": [],
+  "completeness": "html-text-complete"
+}

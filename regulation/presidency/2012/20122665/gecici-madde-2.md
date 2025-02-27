@@ -1,0 +1,1 @@
+Geçici Madde 2 -(1) 1/3/2006 tarihinden sonra kurulan üniversitelerin 2547 sayılı Kanunun 58 inci maddesinin (c) fıkrası kapsamındaki sözleşmeli personeline, döner sermaye gelirlerinden aynı maddeye göre ek ödeme yapılmaya başlanıncaya kadar 1 inci madde uyarınca ek ödeme yapılır.
