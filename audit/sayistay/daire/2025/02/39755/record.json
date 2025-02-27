@@ -1,0 +1,17 @@
+{
+  "kind": "decision",
+  "issuer": "Sayıştay 1. Dairesi",
+  "number": "10958",
+  "decision_date": "2025-02-27",
+  "source_id": 39755,
+  "chamber": "1",
+  "ilam_number": "80",
+  "item_number": 2,
+  "public_body_type": "Yüksek Öğretim Kurumları",
+  "account_year": 2023,
+  "subject": "Personel Mevzuatı ile İlgili Kararlar",
+  "source": "https://www.sayistay.gov.tr/KararlarDaire/Detay/39755/",
+  "source_sha256": "07aca435c95eb0ae58a4a4149099c258a8783bcdb7c38592af5bb67125841d7d",
+  "text_status": "as-enacted",
+  "text_file": "metin.md"
+}
