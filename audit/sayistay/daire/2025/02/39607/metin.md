@@ -1,0 +1,29 @@
+Fazla Ödeme
+
+Dosya kapsamındaki bilgi ve belgelerin incelenmesi sonucunda;
+
+... Belediyesi tarafından ... Ltd. Şti’ne yaptırılan “Ot Alma, Çapalama ve Sulama Çanağı Yapılması Hizmet Alımı İşi”nde, yapılan işlemin hatalı değerlendirilmesi nedeniyle “1107.2 Sulama sonrasında kaymak kırma ve sulama çanağının tamirinin yapılması işi” yerine “1107.1 Fidan çevresinde 80-100 cm çapında en az 30 cm derinliğinde sulama çanağı yapılması işi” bedelinin ödenmesi suretiyle kamu zararına neden olunduğu iddiasına ilişkin olarak;
+
+İdare ile Yüklenici arasında akdedilen 01.06.2023 tarihli Sözleşme’nin, “İş tanımı” başlıklı 4’üncü maddesinde, “4.1. Sözleşme konusu iş; ... Belediyesinin sorumluluğunda olan ... İli ... İlçesi, ..., ..., ... ve ... Mahallelerinde bulunan Ağaçlandırma Sahalarında Ot Alma, Çapa, Sulama Çanağı Yapımı ve Bakım hizmetini kapsar.
+
+4.2. İş bu sözleşme, Sözleşme imzalanmasından itibaren, 33.920 adet fidan çevresinde 60-80 cm eninde, 100 cm boyundaki alanda ot alma, çapalama ve fidan çevresinde 80-100 cm çapında, 30 cm derinliğinde sulama çanağı yapılması ve bakımı işidir. Sözleşme bitimine kadar ihtiyaç duyulan ağaçlandırma alanlarında bu işlem 1 veya 2 defa tekrar edilecektir. (…)” hükmüne yer verilmiş olup, İş kapsamında İlçe sınırlarında yer alan bazı ağaçlandırma sahalarında ağaç çevrelerinin yabani otlardan arındırılması, bakımı ve sulama çanağı yapılması işlemleri öngörülmektedir.
+
+Söz konusu hizmet alımına istinaden ilk olarak, Haziran-Temmuz döneminde 19 farklı mahalde yer alan toplam 33.920 ağaç çevresinde “1102.3 Ağır bünyeli topraklarda, ot yoğunluğu %40’a kadar olan sahalarda ot alma-çapa (60-80 cm eninde 100 cm boyutundaki alanda)” ve “1107.01 Fidan çevresinde 80-100 cm çağında 30 cm derinliğinde sulama çanağı yapılması” işleri gerçekleştirilmiş ve yapılan işler için 14.07.2023 tarihli Muayene ve Kabul Tutanağı düzenlenmiştir.
+
+Ağustos ayı içinde, Temmuz ayına kadar çalışma gerçekleştirilmiş olan toplam 19 bölgenin 9’unda yer alan 11.700 ağaç çevresinde “ot alma-çapa ve sulama çanağı yapılması” işleri tekrarlanmış ve yapılan işler için 21.08.2023 tarihinde Muayene ve Kabul Komisyonu Tutanağı düzenlenmiştir.
+
+Yargılamaya Esas Raporda, Haziran-Temmuz aylarında sulama amaçlı olarak çanak açılan ağaçlara Ağustos ayı içerisinde tekrar çanak açmanın uygun olmadığı, bu nedenle Ağustos ayı içerisinde tekrar çanak açma iş kalemi yerine “çanak onarma” iş kaleminin yapılarak ödemeye esas tutulması gerektiği ifade edilmişse de;
+
+Sorumluların savunmalarından, ağaçlandırma çalışmalarında kullanılan büyük yaş ve boydaki fidanların kök çukurunun da büyük ve derin olduğu, fidan köklerinin sudan yararlanabilmesi için kök etrafında yeterli miktarda rutubet bulunması gerektiği, bunun ancak derin ve geniş sulama çanağı yapılması ile sağlanacağı, fidanların gelişim evresinde ilk 5-7 yıllık sürede fidan çevresi çanak yapımının fidan etrafında dıştan içe doğru yapıldığı,
+
+Çanakların sulama sıklığı, su tazyiki ve yağışlar nedeniyle zamanla bozulduğu ve bazı zamanlarda  araziyle aynı düzlüğe geldiği, ağaçlandırma sahalarında yangın çıkmasını önlemek amacıyla fidan aralarının traktöre bağlı rotavatör, kazayağı gibi ekipmanlar ile çapalandığı, traktör ile yapılan ara sürümlerde de çanak yapılarının zarar gördüğü, ayrıca sulama ve bakım çalışmaları nedeniyle yabancı ot gelişimi de olduğundan bunların da çanak yapısına zarar verdiği, bu nedenle bozulan fidan çanaklarının tekrar dıştan içe doğru oluşturulmasının gerektiği, fidanın içten dışa çapalanması yani çanak tamiri işlemlerinin ise fidanların biyolojik bağımsızlığa kavuşmasından sonra yapılabildiği,
+
+Haziran-Eylül ayları arası dönemin, ...’de sıcaklığın en yüksek olduğu ve minvalde kuraklığın en şiddetli olarak yaşandığı dönem olması nedeniyle sulamanın çok sık ve yoğun biçimde yapıldığı, ağaçlandırma alanında arazöze bağlı hortumla yapılan tazyikli bu sulamaların, kısa süreli aşırı yağışların ve traktöre bağlı ekipmanların sulama çanaklarını bozduğu,  bu etkenlerin sonucunda arazi yüzeyiyle aynı düzleme gelen çanakların çanak tamiri ve kaymak kırma ile düzeltilmesi teknik olarak yeterli olmadığından çanağın yenilenmesinin zorunlu olduğu,
+
+anlaşılmıştır.
+
+Bu çerçevede, Haziran-Eylül ayları arası bölgedeki aşırı sıcaklar nedeniyle sulama çalışmalarının sık ve yoğun yapılması gerektiğinden ve biyolojik bağımsızlığa kavuşuncaya kadar sulama çanaklarının dıştan içe doğru oluşturulması zorunlu olduğundan, içten dışa çapalama şeklinde gerçekleşen çanak tamiri işlemlerinin teknik olarak yapılamaması ve yeterli olmaması dikkate alındığında, çanak tamiri işi yerine çanak yapımı işinin gerçekleştirilmesinin zorunluluk arz ettiği görülmüştür.
+
+Her ne kadar Raporda, ikinci kez çapa yapılması işinde fidanlık içerisinde çanak yapısı bozulan bazı ağaçların seçilmediği, fidanlıktaki tüm ağaçlar için işlemin tekrarlandığı, savunmaların geçerli olması halinde, bir bölgede yer alan ağaçların tamamında değil, yalnızca bir kısmında işlem yapılması gerektiği ifade edilmişse de, ilk etapta işlem gerçekleştirilmiş olan toplam 19 farklı bölgede yer alan 33.920 ağaçtan, yalnızca bu bölgelerden 9’unda bulunan 11.700 adet ağaç için ikinci kez sulama çanağı yapılmıştır. İş kapsamındaki diğer 10 bölgede yer alan ağaçlar için işlem tekrarlanmamıştır.  İkinci kez işlem yapılan bölgelerde arazi yapısı, ağaç sıklığı, sulama ve diğer işlemlerin yoğunluğu gibi hususlara bağlı olarak çanak yapılarının daha fazla bozulmuş olması kabul edilebilir. Nitekim, ikinci kez çanak yapımına ihtiyaç duyan ağaçlandırma bölgelerinin birbirine yakın ve benzer konumdaki bölgeler olması da bu durumu destekler niteliktedir.
+
+Bu itibarla, kamu zararı oluşmayan ...-TL hakkında ilişilecek husus bulunmadığına, 6085 sayılı Sayıştay Kanunu’nun 55’inci maddesi uyarınca İlamın tebliğ tarihinden itibaren altmış gün içerisinde Sayıştay Temyiz Kurulu nezdinde temyiz yolu açık olmak üzere oy birliğiyle karar verildi.
