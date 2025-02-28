@@ -1,0 +1,3 @@
+Müdür yardımcısı ve görevleri
+MADDE 9- (1) Üniversitenin kadrolu ve tam gün çalışan veya Devlet üniversitelerinden Üniversiteye tam zamanlı olarak görevlendirilen öğretim üyeleri arasından öncelikli olarak Merkezin faaliyet alanı ile ilgili kişilerden olmak üzere iki kişi, Rektör tarafından üç yıl için müdür yardımcısı olarak görevlendirilir.
+(2) Görev süresi sona eren müdür yardımcısı aynı usulle yeniden görevlendirilebilir. Müdürün fiili veya kanuni engelleri sebebiyle katılamadığı toplantılara yetki verdiği müdür yardımcısı katılır. Müdür yardımcısı, Müdür tarafından verilen görevleri yerine getirir.
