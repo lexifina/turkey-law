@@ -1,0 +1,28 @@
+{
+  "number": "month-02",
+  "year": 2025,
+  "month": 2,
+  "title": "Şubat 2025 Meclis Kararı",
+  "decision_date": null,
+  "index_date": "2025-02-28",
+  "date_precision": "month",
+  "period": "Şubat 2025",
+  "source": "https://www.akcadag.bel.tr/karar/şubat-2025-meclis-kararı.html",
+  "official_page": "https://www.akcadag.bel.tr/karar/şubat-2025-meclis-kararı.html",
+  "official_document": "https://www.akcadag.bel.tr/tema/genel/uploads/meclis_kararlari/dosya/Yubat.docx",
+  "source_sha256": "4250325255f919b298c64a4dfce7a9943156ee82c68dcfde37e3d7939cde80f9",
+  "issuer": "Akçadağ Belediye Meclisi",
+  "history_type": "metadata",
+  "text_status": "metadata-only: listing fields as published; the decisions are in the linked official document(s) or page, not transcribed",
+  "in_force": "2025-02-28",
+  "in_force_basis": "The official listing gives only the month of this official file (Şubat 2025); date set to the last day of that month (turkey-law date convention for month-only sources); exact adoption dates are in the linked official document; legal commencement not asserted",
+  "missing": [
+    "decision numbers, dates and subjects",
+    "complete official decision text",
+    "official annexes"
+  ],
+  "law_text_complete": false,
+  "privacy_withheld": false,
+  "listing_label": "Şubat 2025 Meclis Kararı",
+  "record_scope": "one official file of council decisions (meeting or month)"
+}
