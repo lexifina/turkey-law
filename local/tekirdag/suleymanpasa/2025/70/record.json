@@ -1,0 +1,29 @@
+{
+  "number": "70",
+  "number_as_published": "70",
+  "year": 2025,
+  "month": 2,
+  "title": "Sorumluluğu Belediyemize ait Tekirdağ ili, Süleymanpaşa İlçesi, 100. Yıl Mahallesi, Uğur Mumcu Caddesi, Altınova Mahallesi, Seda Sokak, Aydoğdu Mahallesi, Beşyol mevkii, Çiftlikönü Mahallesi, İsmail Yazıcıoğlu Caddesi, Çınarlı Mahallesi, Tepe Değirmenler Caddesi, Ortacami Mahallesi,Muratlı Caddesi ve Yunusbey Caddesi, Yavuz Mahallesi, Tintin Pınar Caddesi, Çınarlı Mahallesi,Hükümet Caddesi Köprübaşı mevkii ile Eskicami- Ortacami Mahallesi, Cengiz Topel Meydanı ile Değirmenaltı Mahallesinde bulunan ikram çeşmeleri bulunmaktadır. İkram Çeşmeleri için 03.12.2024 tarih ve 429 sayılı Meclis Kararı ile 2025 yılı için Ücrete Tabi İşler Tarifeleri, Vergi ve Harçlar Tarifelerinde bulunan 5 litre su için 5 TL olarak ücret belirlenmiştir. Ancak Belediyemize vatandaşlarımız tarafından gelen talep-istek ve şikayetler üzerine İkram Çeşmeleri için 03.12.2024 tarih ve 429 sayılı Meclis Kararı ile 2025 yılı Ücrete Tabi İşler Tarifeleri, Vergi ve Harçlar Tarifelerinde bulunan 5 litre su için 5 TL olarak belirlenen bedelin 01.01.2025 tarihinden itibaren yine eski tarife olan 5 litre su için 2 TL olarak belirlenmesi konusunun Plan ve Bütçe Komisyonuna havale edilmesine Belediye Meclisince oybirliği ile karar verildi.",
+  "decision_date": null,
+  "index_date": "2025-02-28",
+  "date_precision": "month",
+  "period": "Şubat 2025",
+  "source": "https://suleymanpasa.bel.tr/meclis-kararlari",
+  "official_page": "https://suleymanpasa.bel.tr/meclis-kararlari",
+  "official_document": null,
+  "source_sha256": "a3d58e794d078cdf2cdbec893458f633a8786bca6293af397d236c0d6fbd00f0",
+  "issuer": "Süleymanpaşa Belediye Meclisi",
+  "history_type": "metadata",
+  "text_status": "metadata-only: number and subject as published in the official listing; complete decision text is in the linked official page/document, not transcribed",
+  "in_force": "2025-02-28",
+  "in_force_basis": "The official listing gives only the month of this decision (Şubat 2025); date set to the last day of that month (turkey-law date convention for month-only sources); exact adoption dates are in the linked official document; legal commencement not asserted",
+  "missing": [
+    "exact decision date",
+    "complete official decision text",
+    "official annexes"
+  ],
+  "law_text_complete": false,
+  "privacy_withheld": false,
+  "record_scope": "one council decision (number and published decision summary)",
+  "sitting": "Birleşim No: 1"
+}
