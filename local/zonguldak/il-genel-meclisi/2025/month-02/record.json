@@ -1,0 +1,29 @@
+{
+  "number": "month-02",
+  "year": 2025,
+  "month": 2,
+  "title": "Şubat Ayı İl Genel Meclis 1. Olağanüstü Toplantı Kararları",
+  "decision_date": null,
+  "index_date": "2025-02-28",
+  "date_precision": "month",
+  "period": "Şubat 2025",
+  "source": "https://www.zonguldakozelidare.gov.tr/2025-yili-il-genel-meclisi-kararlari",
+  "official_page": "https://www.zonguldakozelidare.gov.tr/2025-yili-il-genel-meclisi-kararlari",
+  "official_document": "https://www.zonguldakozelidare.gov.tr/kurumlar/zonguldakozelidare.gov.tr/ilgenelmeclisikararlari/2025/olaganustu24022025.zip",
+  "source_sha256": "ae109fe89fcb07b925d5a9a0c5f5d4d556d305a44d064ef20adcbad2b7d2426c",
+  "issuer": "Zonguldak İl Genel Meclisi",
+  "history_type": "metadata",
+  "text_status": "metadata-only: listing fields as published; the decisions are in the linked official document(s) or page, not transcribed",
+  "in_force": "2025-02-28",
+  "in_force_basis": "The official listing gives only the month of this official file (Şubat 2025); date set to the last day of that month (turkey-law date convention for month-only sources); exact adoption dates are in the linked official document; legal commencement not asserted",
+  "missing": [
+    "decision numbers, dates and subjects",
+    "complete official decision text",
+    "official annexes"
+  ],
+  "law_text_complete": false,
+  "privacy_withheld": false,
+  "listing_label": "Şubat Ayı İl Genel Meclis 1. Olağanüstü Toplantı Kararları",
+  "record_scope": "one official file of council decisions (meeting or month)",
+  "item_title": "2025 Yılı İl Genel Meclisi Kararları"
+}
