@@ -1,0 +1,2 @@
+Dayanak
+MADDE 2- (1) Bu Yönetmelik, 9/11/2016 tarihli ve 6756 sayılı Olağanüstü Hal Kapsamında Bazı Tedbirler Alınması ve Milli Savunma Üniversitesi Kurulması ile Bazı Kanunlarda Değişiklik Yapılmasına Dair Kanun Hükmünde Kararnamenin Değiştirilerek Kabul Edilmesi Hakkında Kanunun 5 inci maddesinin dördüncü fıkrası ile 14/11/2016 tarihli ve 2016/9522 sayılı Bakanlar Kurulu Kararı eki Kararın 5 inci maddesinin birinci fıkrası hükümlerine dayanılarak hazırlanmıştır.

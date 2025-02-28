@@ -1,0 +1,9 @@
+İKİNCİ BÖLÜM
+Merkezin Amaçları ve Faaliyet Alanları
+Merkezin amaçları
+MADDE 4- (1) Merkezin amaçları şunlardır:
+a) Faaliyet alanlarına giren bilimsel ve teknolojik çalışmalar ile eğitim ve uzmanlığı ilgilendiren konularda Türk Silahlı Kuvvetlerinin elektronik harp ve siber güvenlik projelerinin takibinde ilgili mevzuat hükümleri kapsamında Kuvvet Komutanlıklarına danışmanlık yapmak.
+b) Kalkınma planları çerçevesinde, Türk Silahlı Kuvvetleri ile diğer kamu kurum ve kuruluşları ile özel sektör kuruluşlarının teorik ve uygulamalı teknik ve bilimsel ihtiyaçlarına cevap verebilecek nitelikte özgün çalışma ve ürünler ortaya çıkarmak.
+c) Üniversite-sanayi iş birliğinin geliştirilmesi kapsamında Üniversitede öğrenim gören lisans/yüksek lisans/doktora seviyesindeki öğrencilerin teknik ve bilimsel farkındalık, deneyim ve yeteneklerini artırmak; alanlarında düzenleyeceği fuar, çalıştay, konferans, panel ve sempozyumlarla nitelikli akademik yayınlar üretip Üniversitenin tanınırlığını artırmak.
+ç) Elektronik harp ve siber güvenlik ile ilgili konularda disiplinler arası (yapay zekâ, harekat/tatbikat alanlarını da kapsayan modelleme, simülasyon ve metaverse teknolojileri) uygulama ve araştırma projeleri yapmak, inovasyon faaliyetlerini takip etmek, ulusal ve uluslararası çevrede elektronik harp, siber güvenlik, bilgi güvenliği ve kriptoloji ile ilgili teknolojik sorunlara çözüm üretmek, kurumların isteği üzerine elektronik harp ve siber güvenlik alanlarında rapor hazırlamak, nitelikli insan gücü yetiştirmek.
+d) Elektronik harp, siber savunma ve güvenlik ile ilgili konularda disiplinler arası araştırma ve uygulama projeleri yapan, konuyla ilgili ulusal ve uluslararası bilgi birikimi, standart ve patent gelişimine katkıda bulunan, Türkiye’de ve uluslararası çevrede siber savunma ve güvenlik ile ilgili teknolojik sorunlara çözüm üreten bir merkez olmak.
