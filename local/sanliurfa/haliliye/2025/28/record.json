@@ -1,0 +1,29 @@
+{
+  "number": "28",
+  "number_as_published": "2025/28",
+  "year": 2025,
+  "month": 2,
+  "title": "06/01/2025 Tarih ve 03 Sayılı Belediye Meclis Kararıyla Madde Bağımlılığı ile Mücadele Komisyonu, Sağlık-Çevre Komisyonu’na havale edilen Meclis İhtisas Komisyon Raporu komisyondan geldiği şekliyle aynen oy birliği ile kabul edilip karara bağlanmıştır.",
+  "decision_date": null,
+  "index_date": "2025-02-28",
+  "date_precision": "month",
+  "period": "Şubat 2025",
+  "source": "https://www.haliliye.bel.tr/icerik/7391/39/subat-2025",
+  "official_page": "https://www.haliliye.bel.tr/icerik/7391/39/subat-2025",
+  "official_document": null,
+  "source_sha256": "a81aa2e02d5f23304f21c9845fc812babebb66b780baedebfe0dd7da1c6c504b",
+  "issuer": "Haliliye Belediye Meclisi",
+  "history_type": "metadata",
+  "text_status": "metadata-only: number and subject as published in the official listing; complete decision text is in the linked official page/document, not transcribed",
+  "in_force": "2025-02-28",
+  "in_force_basis": "The official listing gives only the month of this decision (Şubat 2025); date set to the last day of that month (turkey-law date convention for month-only sources); exact adoption dates are in the linked official document; legal commencement not asserted",
+  "missing": [
+    "exact decision date",
+    "complete official decision text",
+    "official annexes"
+  ],
+  "law_text_complete": false,
+  "privacy_withheld": false,
+  "listing_item": "ŞUBAT 2025",
+  "record_scope": "one council decision summary (Karar Özeti) as published"
+}
