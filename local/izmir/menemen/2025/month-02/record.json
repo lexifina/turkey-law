@@ -1,0 +1,29 @@
+{
+  "number": "month-02",
+  "year": 2025,
+  "month": 2,
+  "title": "ŞUBAT 2025 MECLİS KARARLARI",
+  "decision_date": null,
+  "index_date": "2025-02-28",
+  "date_precision": "month",
+  "period": "Şubat 2025",
+  "source": "https://www.menemen.bel.tr/meclis-kararlari?page=3",
+  "official_page": "https://www.menemen.bel.tr/meclis-kararlari",
+  "official_document": "https://www.menemen.bel.tr/uploads/pdfcatalog/subat-2025-meclis-kararlari.JPG",
+  "source_sha256": "5adbea9df08c19919221804f9cfafd54534e5ec4314f12f71f4bf2a48fd0525c",
+  "issuer": "Menemen Belediye Meclisi",
+  "history_type": "metadata",
+  "text_status": "metadata-only: listing fields as published; the decisions are in the linked official document(s) or page, not transcribed",
+  "in_force": "2025-02-28",
+  "in_force_basis": "The official listing gives only the month of this official file (Şubat 2025); date set to the last day of that month (turkey-law date convention for month-only sources); exact adoption dates are in the linked official document; legal commencement not asserted",
+  "missing": [
+    "decision numbers, dates and subjects",
+    "complete official decision text",
+    "official annexes"
+  ],
+  "law_text_complete": false,
+  "privacy_withheld": false,
+  "listing_label": "ŞUBAT 2025 MECLİS KARARLARI",
+  "record_scope": "one official file of council decisions (meeting or month)",
+  "posting_time": "14 Şubat 2025 - 16:04"
+}
