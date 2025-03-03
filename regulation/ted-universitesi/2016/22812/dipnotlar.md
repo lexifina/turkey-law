@@ -1,0 +1,1 @@
+[1] 3/3/2025 tarihli ve 32830 sayılı Resmî Gazete’de yayımlanan değişiklik ile Yönetmeliğin Adı “TED Üniversitesi Ticaret Araştırmaları Uygulama ve Araştırma Merkezi Yönetmeliği” iken metne işlendiği şekilde değiştirilmiştir.
