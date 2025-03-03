@@ -1,0 +1,25 @@
+{
+  "number": "meeting-03-03-3",
+  "number_as_published": "meeting-03-03-3",
+  "year": 2025,
+  "title": "03 MART 2025 TARİHLİ MECLİS KARARLARI",
+  "decision_date": "2025-03-03",
+  "source": "https://www.polatli.bel.tr/mecliskararlari?page=6",
+  "official_document": "https://www.polatli.bel.tr/upload/mecliskararlari/tFWD9kxjmGOareH.pdf",
+  "source_sha256": "6498933a47715e56d1566a439bdecedaf2583a822ab51d49d3eadcc85aa54f36",
+  "issuer": "Polatlı Belediye Meclisi",
+  "history_type": "metadata",
+  "text_status": "metadata-only: listing fields as published; complete decision text is in the linked official document, not transcribed",
+  "in_force": "2025-03-03",
+  "in_force_basis": "Decision date as printed in the official council listing: 03 MART 2025; adoption date of the council decision; legal commencement not asserted",
+  "missing": [
+    "complete official decision text",
+    "official annexes"
+  ],
+  "law_text_complete": false,
+  "privacy_withheld": false,
+  "listing_label": "03 MART 2025 TARİHLİ MECLİS KARARLARI",
+  "record_scope": "one official file of council decisions (meeting)",
+  "file_name": "03-mart-2025-31-kanuni-toplantı.pdf",
+  "list_date": "2025-03-03"
+}
