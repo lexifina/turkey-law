@@ -1,0 +1,21 @@
+{
+  "record_type": "parliament-written-question",
+  "term": 28,
+  "legislative_year": 3,
+  "esas_no": "7/24781",
+  "submitted": "2025-03-03",
+  "submitted_as": "Başkanlığa geliş tarihi",
+  "mp": "Nermin YILDIRIM KARA",
+  "province": "Hatay",
+  "summary": "Hatay'ın Arsuz ilçesine bağlı Madenli ve Üçgüllük mahallelerinin tarımsal sulama ihtiyacına ilişkin",
+  "status": "Süresi Geçtikten Sonra Cevaplandı",
+  "status_as_of": "2026-11-16",
+  "official_record": "https://www.tbmm.gov.tr/Denetim/Yazili-Soru-Onergesi-Detay/87bd5afd-101d-427e-931a-019560035273",
+  "source": "https://tbmm.gov.tr/Denetim/YaziliSoruOnergesiTable",
+  "source_form": "https://tbmm.gov.tr/Denetim/Yazili-Soru-Onergeleri",
+  "source_sha256": "117b8af9f5b0a7617c0e5d35f565a5b8a5ce03394459b053b41ee42fbc071858",
+  "in_force": "2025-03-03",
+  "in_force_basis": "Date the question reached the Speaker (Başkanlığa geliş tarihi) in the official TBMM written-question record; parliamentary oversight record, not law",
+  "history_type": "metadata",
+  "text_status": "metadata-only: question text, addressee and answers are in the linked official record (PDFs on cdn.tbmm.gov.tr); not transcribed here"
+}
