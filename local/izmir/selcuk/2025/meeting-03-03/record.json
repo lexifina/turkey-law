@@ -1,0 +1,25 @@
+{
+  "number": "meeting-03-03",
+  "number_as_published": "meeting-03-03",
+  "year": 2025,
+  "title": "3 Mart 2025 Tarihli Meclis Kararları",
+  "decision_date": "2025-03-03",
+  "source": "https://www.selcuk.bel.tr/siteApi/services/meclisGundemVeKararlari.json?month=0&year=2025&type=karar",
+  "official_document": "https://www.selcuk.bel.tr/fileserver/uploads/e5hy7tk.pdf",
+  "source_sha256": "3aec775b901179a7e69450c5b49aa0b50e6a75058fb182e217541397877a460d",
+  "issuer": "Selçuk Belediye Meclisi",
+  "history_type": "metadata",
+  "text_status": "metadata-only: listing fields as published; complete decision text is in the linked official document, not transcribed",
+  "in_force": "2025-03-03",
+  "in_force_basis": "Decision date as printed in the official council listing: 3 MART 2025; adoption date of the council decision; legal commencement not asserted",
+  "missing": [
+    "complete official decision text",
+    "official annexes"
+  ],
+  "law_text_complete": false,
+  "privacy_withheld": false,
+  "listing_label": "3 Mart 2025 Tarihli Meclis Kararları",
+  "record_scope": "one official file of council decisions (meeting)",
+  "list_date": "3 Mart 2025",
+  "list_year": 2025
+}
