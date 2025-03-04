@@ -1,0 +1,27 @@
+{
+  "number": "150",
+  "number_as_published": "150",
+  "year": 2025,
+  "title": "2464 Sayılı Belediye Gelirleri Kanununun 97.maddesine göre Altyapı Tesisi Açım Ruhsat Bedelli ücret tarifesinin Belediyemizce de uygulanmasına ilişkin, Meclis Kararı",
+  "decision_date": "2025-03-04",
+  "source": "https://www.mamak.bel.tr/gundem/GetKararlar",
+  "official_document": "https://www.mamak.bel.tr/gundem/DosyaDownload?guid=8cd9301b-7682-4ae9-b660-f098207b1dce",
+  "source_sha256": "f554089df68731558a37947c976f196303cdbdc5704c52cb6912834ca94730d3",
+  "issuer": "Mamak Belediye Meclisi",
+  "history_type": "metadata",
+  "text_status": "metadata-only: listing fields as published; complete decision text is in the linked official document, not transcribed",
+  "in_force": "2025-03-04",
+  "in_force_basis": "Decision date as printed in the official council listing: 2025-03-04T00:00:00 (kararTarihi of the official register); adoption date of the council decision; legal commencement not asserted",
+  "missing": [
+    "complete official decision text",
+    "official annexes"
+  ],
+  "law_text_complete": false,
+  "privacy_withheld": false,
+  "listing_page": "https://www.mamak.bel.tr/gundem/kararlar",
+  "register_api": "https://www.mamak.bel.tr/gundem/GetKararlar",
+  "official_documents": [
+    "https://www.mamak.bel.tr/gundem/DosyaDownload?guid=8cd9301b-7682-4ae9-b660-f098207b1dce",
+    "https://www.mamak.bel.tr/gundem/DosyaDownload?guid=d89d01c1-d941-4d84-a984-ffb97078fb6f"
+  ]
+}
