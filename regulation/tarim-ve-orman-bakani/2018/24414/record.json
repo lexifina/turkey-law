@@ -1,0 +1,56 @@
+{
+  "source_id": "7.5.24414",
+  "kind": "regulation",
+  "register_kind": "Kurum ve Kuruluş Yönetmelikleri",
+  "title": "KEDİ, KÖPEK VE GELİNCİKLERİN KİMLİKLENDİRİLMESİ VE KAYIT ALTINA ALINMASINA DAİR YÖNETMELİK",
+  "number": "24414",
+  "issuer": "Tarım ve Orman Bakanı",
+  "issuer_slug": "tarim-ve-orman-bakani",
+  "path": "regulation/tarim-ve-orman-bakani/2018/24414",
+  "source": "https://www.mevzuat.gov.tr/anasayfa/MevzuatFihristDetayIframe?MevzuatTur=7&MevzuatNo=24414&MevzuatTertip=5",
+  "source_sha256": "ffb862416daf4f32087660b621f1001992a03d8762e42d63a4556c37be03eab7",
+  "source_bytes": 59363,
+  "published": "2018-02-26",
+  "gazette": "30344",
+  "in_force": "2025-03-05",
+  "in_force_basis": "latest Resmî Gazete date printed in the source amendment notes/table (\"RG-5/3/2025\") for the current consolidated text",
+  "date_evidence": [
+    [
+      "2025-03-05",
+      "RG-5/3/2025",
+      "Resmî Gazete date printed in the source amendment note"
+    ],
+    [
+      "2025-03-05",
+      "5/3/2025",
+      "Resmî Gazete date in the source amendment table"
+    ],
+    [
+      "2022-04-22",
+      "RG-22/4/2022",
+      "Resmî Gazete date printed in the source amendment note"
+    ],
+    [
+      "2022-04-22",
+      "22/4/2022",
+      "Resmî Gazete date in the source amendment table"
+    ]
+  ],
+  "commencement_clauses": [
+    "Bu Yönetmelik yayımı tarihinde yürürlüğe girer"
+  ],
+  "history": "current-text",
+  "label": "oldest version available",
+  "checked_on": "2026-11-15",
+  "word_count": 2890,
+  "text_status": "current-consolidated",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  },
+  "source_links": [
+    "7.5.24414%20Ek.zip"
+  ],
+  "completeness": "html-text-complete; linked annexes not fetched"
+}
