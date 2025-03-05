@@ -1,0 +1,16 @@
+{
+  "kind": "decision",
+  "issuer": "Sayıştay Temyiz Kurulu",
+  "number": "57813",
+  "decision_date": "2025-03-05",
+  "source_id": 32476,
+  "chamber": "4",
+  "file_number": "52314",
+  "public_body_type": "Belediyeler ve Bağlı İdareler",
+  "account_year": "2020",
+  "subject": "İhale Mevzuatı ile İlgili Kararlar",
+  "source": "https://www.sayistay.gov.tr/KararlarTemyiz/Detay/32476/",
+  "source_sha256": "746d40e358a2f0611c57cee68048fb45da6e41c9507d21e48f314e0f09350e6d",
+  "text_status": "as-enacted",
+  "text_file": "metin.md"
+}
