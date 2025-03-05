@@ -1,0 +1,2 @@
+Mevzuat taslaklarının bütçeye etkisinin hesaplanması
+MADDE 23- (1) Gelir azaltıcı veya gider artırıcı ve idareye yükümlülük getirecek mevzuat taslakları için ilgili mevzuatı gereğince görüş alınması sürecinde 23/2/2022 tarihli ve 5210 sayılı Cumhurbaşkanı Kararıyla yürürlüğe konulan Mevzuat Hazırlama Usul ve Esasları Hakkında Yönetmelik kapsamında hazırlanması zorunlu olan bütçe etki formu malî hizmetler birimince kontrole tabi tutularak; orta vadeli program çerçevesinde, idarenin stratejik planı, performans programı ve bütçesi üzerindeki etkileri açısından değerlendirilir.

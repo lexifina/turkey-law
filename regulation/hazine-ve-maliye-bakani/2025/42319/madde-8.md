@@ -1,0 +1,4 @@
+Malî hizmetler biriminde kontrol yetkisi
+MADDE 8- (1) Malî hizmetler biriminde ön malî kontrol yetkisi, malî hizmetler birim yöneticisine aittir. Kontrol sonucunda düzenlenen görüş yazısı malî hizmetler birim yöneticisi tarafından imzalanır. Malî hizmetler birim yöneticisi, bu yetkisini sınırlarını açıkça belirtmek şartıyla yazılı olarak yardımcısına veya birimin ön malî kontrol görevini yürüten alt birim yöneticisine devredebilir. Ancak, mal ve hizmet alımlarında yirmi milyon Türk Lirasını, yapım işlerinde ise altmış milyon Türk Lirasını aşan taahhüt evrakı ve sözleşme tasarılarına ilişkin ön malî kontrol yetkisi devredilemez.
+(2) Malî hizmetler birim yöneticisinin harcama yetkilisi olması durumunda ön malî kontrol görevi, ön malî kontrol görevini yürüten alt birim yöneticisi tarafından yürütülür.
+(3) Malî hizmetler biriminin ön malî kontrolüne tabi malî karar ve işlemlerin kontrolü, birimin ön malî kontrol görevini yürüten alt birimi tarafından yerine getirilir.

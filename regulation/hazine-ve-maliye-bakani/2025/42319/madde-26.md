@@ -1,0 +1,2 @@
+Kontrol süresi
+MADDE 26- (1) Malî hizmetler birimi, bu Yönetmelikte yer alan süreler içinde kontrol işlemlerini sonuçlandırmak ve sonucu ilgili birime bildirmek zorundadır. Sürelerin başlangıç tarihinin belirlenmesinde, malî hizmetler biriminin evrak giriş kayıt tarihini izleyen iş günü esas alınır. Malî hizmetler biriminin talebi ve üst yöneticinin onayı üzerine bu süreler bir katına kadar artırılabilir.

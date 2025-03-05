@@ -1,0 +1,4 @@
+Yapım işlerinde hakediş ödemeleri
+MADDE 22- (1) 4/1/2002 tarihli ve 4734 sayılı Kamu İhale Kanunu kapsamında ihalesi gerçekleştirilen (bu Kanunun 2 nci ve 3 üncü maddeleri ile diğer kanunlarla bu Kanundan istisna edilenler dâhil) yapım işi sözleşmelerine ilişkin altmış milyon Türk Lirasını aşan hakediş ödemeleri, malî hizmetler biriminin ön malî kontrolüne tabidir. 10 uncu maddenin birinci fıkrasında sayılan idareler için bu tutar iki kat olarak uygulanır.
+(2) Söz konusu hakediş ödemelerine ilişkin ödeme emri belgesi harcama yetkilisince imzalanmadan önce ekleriyle birlikte malî hizmetler birimine gönderilir. Ödeme emri belgesi ve ekleri, ilgili mevzuat hükümleri çerçevesinde malî hizmetler birimi tarafından en geç on iş günü içinde kontrol edilir.
+(3) Kontrol sonucunda uygun görülmeyen talepler gerekçeli bir görüş yazısıyla ilgili harcama birimine gönderilir.

@@ -1,0 +1,2 @@
+Görevler ayrılığı ilkesi
+MADDE 9- (1) Harcama yetkilisi ile muhasebe yetkilisi görevi aynı kişide birleşemez. Malî hizmetler biriminde ön malî kontrol görevini yürütenler, onay belgesi ve ekleri ile şartname ve sözleşme tasarılarının hazırlanması, malî karar ve işlemlerin belgelendirilmesi, mal ve hizmetlerin teslim alınması gibi malî karar ve işlemlerin hazırlanması ve uygulanması aşamalarında görevlendirilemezler ve ihale komisyonu ile muayene ve kabul komisyonunda başkan ve üye olamazlar.

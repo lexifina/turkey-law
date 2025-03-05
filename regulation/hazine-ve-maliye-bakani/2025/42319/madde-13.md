@@ -1,0 +1,5 @@
+Kadro ve pozisyon dağılım cetvelleri
+MADDE 13- (1) 2 sayılı Genel Kadro ve Usulü Hakkında Cumhurbaşkanlığı Kararnamesine tabi idarelere ait kadro ve pozisyon dağılım cetvelleri, anılan Cumhurbaşkanlığı Kararnamesi hükümleri çerçevesinde kontrole tabidir.
+(2) Kadro ve pozisyon dağılım cetvelleri malî hizmetler birimince en geç beş iş günü içinde kontrol edilir. İlgililerine yapılacak ödemeler bu onaylı kadro ve pozisyon dağılım cetvellerine göre yapılır. Bu cetvellerde yapılacak değişiklikler de aynı şekilde kontrol edilir.
+(3) 2 sayılı Cumhurbaşkanlığı Kararnamesine tabi olmayan idarelerde de kadro ve pozisyon ihdas ve değişiklikleri aynı süre içinde kontrol edilir.
+(4) Türk Silahlı Kuvvetleri, Jandarma Genel Komutanlığı, Sahil Güvenlik Komutanlığı ile Jandarma ve Sahil Güvenlik Akademisinin 2 sayılı Cumhurbaşkanlığı Kararnamesine ekli (I), (IV) ve (V) sayılı cetvellerde düzenlenenler haricindeki personeli ile Jandarma Hizmetleri Sınıfı ve Sahil Güvenlik Hizmetleri Sınıfında yer alan personelinin kadro ve pozisyonları ile millî güvenlik sebebiyle gizli kalması gereken kadro ve pozisyonlar hakkında bu madde hükümleri uygulanmaz.

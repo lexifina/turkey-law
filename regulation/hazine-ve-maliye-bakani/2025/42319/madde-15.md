@@ -1,0 +1,2 @@
+Seyyar görev tazminatı cetvelleri
+MADDE 15- (1) İdarelerin teşkilat yapıları ve ihtiyaçlarına göre her birim, bölge, il ve ilçe için ayrı ayrı hazırlanan seyyar görev dağılım listeleri malî hizmetler birimi tarafından kontrol edilir. Bu dağılım listeleri 6245 sayılı Kanun, bu Kanuna dayanılarak yapılan düzenlemeler, yılı bütçesine bu amaçla konulan ödenekler ve Bakanlık tarafından vize edilen cetvellere uygunluk açısından en geç üç iş günü içinde kontrol edilir. Uygun görülmeyen talepler gerekçeli bir görüş yazısıyla ilgili birime gönderilir.

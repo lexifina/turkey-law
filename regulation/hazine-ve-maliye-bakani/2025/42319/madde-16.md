@@ -1,0 +1,3 @@
+Geçici işçi pozisyonları
+MADDE 16- (1) 4/4/2007 tarihli ve 5620 sayılı Kamuda Geçici İş Pozisyonlarında Çalışanların Sürekli İşçi Kadrolarına veya Sözleşmeli Personel Statüsüne Geçirilmeleri, Geçici İşçi Çalıştırılması ile Bazı Kanunlarda Değişiklik Yapılması Hakkında Kanun kapsamındaki idarelerde çalıştırılacak geçici işçi pozisyon (adam/ay) sayılarının aylar ve birimler itibarıyla dağılımı ilgili mevzuatında belirlenen idarelerce vizesini müteakip kontrole tabidir.
+(2) Geçici işçi pozisyonları malî hizmetler birimince en geç beş iş günü içinde kontrol edilir. Kontrol sonucunda uygun görülmeyen cetveller gerekçeli bir görüş yazısıyla ilgili birime gönderilir.
