@@ -1,0 +1,38 @@
+{
+  "source_id": "7.5.38547",
+  "kind": "regulation",
+  "register_kind": "Kurum ve Kuruluş Yönetmelikleri",
+  "title": "KAMU İDARELERİNCE HAZIRLANACAK STRATEJİK PLANLAR VE PERFORMANS PROGRAMLARI İLE FAALİYET RAPORLARINA İLİŞKİN USUL VE ESASLAR HAKKINDA YÖNETMELİK",
+  "number": "38547",
+  "issuer": "Strateji ve Bütçe Başkanı",
+  "issuer_slug": "strateji-ve-butce-baskani",
+  "path": "regulation/strateji-ve-butce-baskani/2021/38547",
+  "source": "https://www.mevzuat.gov.tr/anasayfa/MevzuatFihristDetayIframe?MevzuatTur=7&MevzuatNo=38547&MevzuatTertip=5",
+  "source_sha256": "fc92af266ee63cf052c2a68ae015d007b1d572ea99b9d5466c840fe7ff2dcaf1",
+  "source_bytes": 99828,
+  "published": "2021-04-22",
+  "gazette": "31462",
+  "in_force": "2025-03-05",
+  "in_force_basis": "latest Resmî Gazete date printed in the source amendment notes/table (\"RG-5/3/2025\") for the current consolidated text",
+  "date_evidence": [
+    [
+      "2025-03-05",
+      "RG-5/3/2025",
+      "Resmî Gazete date printed in the source amendment note"
+    ]
+  ],
+  "commencement_clauses": [
+    "Bu Yönetmelik yayımı tarihinde yürürlüğe girer"
+  ],
+  "history": "current-text",
+  "label": "oldest version available",
+  "checked_on": "2026-11-15",
+  "word_count": 5030,
+  "text_status": "current-consolidated",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  },
+  "completeness": "html-text-complete"
+}

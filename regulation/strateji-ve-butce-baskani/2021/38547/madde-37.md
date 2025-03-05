@@ -1,0 +1,2 @@
+Yürürlükten kaldırılan yönetmelikler
+MADDE 37- (1) 17/3/2006 tarihli ve 26111 sayılı Resmî Gazete’de yayımlanan Kamu İdarelerince Hazırlanacak Faaliyet Raporları Hakkında Yönetmelik, 5/7/2008 tarihli ve 26927 sayılı Resmî Gazete’de yayımlanan Kamu İdarelerince Hazırlanacak Performans Programları Hakkında Yönetmelik ve 26/2/2018 tarihli ve 30344 sayılı Resmî Gazete’de yayımlanan Kamu İdarelerinde Stratejik Planlamaya İlişkin Usul ve Esaslar Hakkında Yönetmelik yürürlükten kaldırılmıştır.

@@ -1,0 +1,5 @@
+Faaliyet raporlarının Türkiye Büyük Millet Meclisine sunulması ile görüşülmesi
+MADDE 32- (1) Mahallî idarelerin faaliyet raporları hariç olmak üzere idare faaliyet raporları, mahallî idareler genel faaliyet raporu ve genel faaliyet raporu, dış denetim sonuçlarını dikkate alarak görüşlerini de belirtmek suretiyle Sayıştay tarafından genel uygunluk bildirimi ile birlikte Türkiye Büyük Millet Meclisine sunulur.
+(2) Türkiye Büyük Millet Meclisine sunulan bu raporlar ile genel uygunluk bildirimi komisyonlarda öncelikle görüşülür.
+(3) Türkiye Büyük Millet Meclisinde, Sayıştay tarafından sunulan raporlar ve değerlendirmeler çerçevesinde, kamu kaynağının elde edilmesi ve kullanılmasına ilişkin kamu idarelerinin yönetim ve hesap verme sorumlulukları görüşülür. Bu görüşmelere ilgili bakanın diğer üst yöneticiler ve harcama yetkilileriyle birlikte katılması zorunludur.
+(4) Merkezi yönetim kapsamındaki idarelerin ve sosyal güvenlik kurumlarının idare faaliyet raporları, genel faaliyet raporu, dış denetim genel değerlendirme raporu ve kesin hesap kanun teklifi ile merkezi yönetim bütçe kanunu teklifi birlikte görüşülür.
