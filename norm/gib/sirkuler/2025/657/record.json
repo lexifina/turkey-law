@@ -1,0 +1,22 @@
+{
+  "kind": "norm",
+  "issuer": "Gelir İdaresi Başkanlığı",
+  "document_type": "sirkuler",
+  "number": "VUK-184 / 2025-5",
+  "source_id": 657,
+  "date": "2025-03-05",
+  "title": "6/2/2023 tarihinde Kahramanmaraş ilinde meydana gelen depremler nedeniyle ilan edilen mücbir sebep hali 30/11/2024 tarihi itibarıyla sona eren mükelleflerden elektronik defter (e-Defter) uygulamasına dâhil olanlar tarafından oluşturulması ve imzalanması..",
+  "source": "https://gib.gov.tr/mevzuat/kanun/434/sirkuler/657",
+  "related_law": "213 sayılı VERGİ USUL KANUNU",
+  "source_api": "https://gib.gov.tr/api/gibportal/mevzuat/sirkuler/list",
+  "source_listing": "evidence/list/2026-11-16/sirkuler-p000.json",
+  "source_listing_sha256": "60c9b519ec13187d56f9a7863ce3934a7fb9c37357209b90158ca6acfcc95b41",
+  "source_sha256": "2d3be5b0a2b45e5e8f6912c0cdda2ff7f73951a630ac65839de28d64221a5ce3",
+  "text_status": "as-enacted",
+  "text_file": "metin.md",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  }
+}
