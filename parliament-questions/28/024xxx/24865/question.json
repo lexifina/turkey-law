@@ -1,0 +1,21 @@
+{
+  "record_type": "parliament-written-question",
+  "term": 28,
+  "legislative_year": 3,
+  "esas_no": "7/24865",
+  "submitted": "2025-03-05",
+  "submitted_as": "Başkanlığa geliş tarihi",
+  "mp": "Evrim KARAKOZ",
+  "province": "Aydın",
+  "summary": "Yeraltı su kaynaklarının korunmasına yönelik çalışmalara ilişkin",
+  "status": "Süresi Geçtikten Sonra Cevaplandı",
+  "status_as_of": "2026-11-16",
+  "official_record": "https://www.tbmm.gov.tr/Denetim/Yazili-Soru-Onergesi-Detay/3fbaedb6-fafe-4f6f-bfbd-01956a468405",
+  "source": "https://tbmm.gov.tr/Denetim/YaziliSoruOnergesiTable",
+  "source_form": "https://tbmm.gov.tr/Denetim/Yazili-Soru-Onergeleri",
+  "source_sha256": "7d947b7daeeb38833a90855576d2bc44454b616488225ff0f065cfc79f80f911",
+  "in_force": "2025-03-05",
+  "in_force_basis": "Date the question reached the Speaker (Başkanlığa geliş tarihi) in the official TBMM written-question record; parliamentary oversight record, not law",
+  "history_type": "metadata",
+  "text_status": "metadata-only: question text, addressee and answers are in the linked official record (PDFs on cdn.tbmm.gov.tr); not transcribed here"
+}
