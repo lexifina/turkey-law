@@ -1,0 +1,16 @@
+{
+  "kind": "decision",
+  "issuer": "Sayıştay Temyiz Kurulu",
+  "number": "57813",
+  "decision_date": "2025-03-05",
+  "source_id": 32475,
+  "chamber": "4",
+  "file_number": "52314",
+  "public_body_type": "Belediyeler ve Bağlı İdareler",
+  "account_year": "2020",
+  "subject": "Personel Mevzuatı ile İlgili Kararlar",
+  "source": "https://www.sayistay.gov.tr/KararlarTemyiz/Detay/32475/",
+  "source_sha256": "a89039daca87eafc2760d58df277033d7a6f93bb6e2cba646bc3d63fb9c0619b",
+  "text_status": "as-enacted",
+  "text_file": "metin.md"
+}
