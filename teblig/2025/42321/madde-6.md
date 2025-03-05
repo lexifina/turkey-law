@@ -1,0 +1,4 @@
+Mahalli idarelerde harcama yetkilileri
+MADDE 6- (1) 22/2/2005 tarihli ve 5302 sayılı İl Özel İdaresi Kanununun 46 ncı maddesine göre il özel idaresi bütçesiyle ödenek tahsis edilen her bir harcama biriminin en üst yöneticisi harcama yetkilisidir. İlçelerde bu yetki kaymakam tarafından kullanılır.
+(2) 3/7/2005 tarihli ve 5393 sayılı Belediye Kanununun 63 üncü maddesine göre belediye bütçesiyle ödenek tahsis edilen her bir harcama biriminin en üst yöneticisi, 26/5/2005 tarihli ve 5355 sayılı Mahalli İdare Birlikleri Kanununun 14 üncü maddesi uyarınca da mahalli idare birliklerinde birlik başkanı harcama yetkilisidir.
+(3) Mahalli idarelerde bütçeyle ödenek tahsis edilen ana hizmet birimleri ve yardımcı hizmet birimleri ile danışma ve denetim birimlerinin en üst yöneticileri harcama yetkilisi olarak belirlenir ve yetki ve sorumluluk tesisi buna göre yapılır.
