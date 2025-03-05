@@ -1,0 +1,4 @@
+Uyum süreci
+GEÇİCİ MADDE 1- (1) Birim Kamu İç Kontrol Standartlarına uyum eylem planları, bu Yönetmeliğin yayımlanmasını takip eden yılın başından itibaren kademeli olarak her yıl idarece belirlenecek en az üç harcama biriminde olmak üzere en geç 1/1/2028 tarihine kadar idarenin tüm birimlerinde hazırlanır ve yürürlüğe konulur. Birim Kamu İç Kontrol Standartlarına uyum eylem planı hazırlanıncaya kadar birimler eylemlerini, idare Kamu İç Kontrol Standartlarına uyum eylem planına dâhil edilmek üzere malî hizmetler birimine göndermeye devam eder.
+(2) Birinci fıkra uyarınca tüm harcama birimlerinin kademeli olarak geçişine ilişkin takvim, malî hizmetler birimince hazırlanır ve üst yönetici onayı ile yürürlüğe girer.
+(3) Bu Yönetmeliğin 20 nci ve 21 inci maddelerinde geçen risk kontrol eylem planlarının hazırlanması çalışmalarına en geç 1/1/2026 tarihi itibarıyla başlanır.

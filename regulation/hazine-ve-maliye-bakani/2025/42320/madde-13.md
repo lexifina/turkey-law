@@ -1,0 +1,2 @@
+Diğer yöneticiler ve personelin görev ve sorumlulukları
+MADDE 13- (1) İdarenin hiyerarşik kademelerinde yer alan diğer yöneticiler ve personel, görev ve yetki alanları çerçevesinde, iç kontrol sisteminin gereklerinin yerine getirilmesinden ve uygulanmasından sorumludur. Bu kapsamda, yürütülen görevlere ilişkin risk değerlendirme çalışmaları yapılır, önlem alınması gereken riskler iyileştirme önerileri ile birlikte bir üst yöneticiye yılda en az bir kez bildirilir. Acil eylem gerektiren riskler ise derhal bildirilir.

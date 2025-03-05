@@ -1,0 +1,4 @@
+Bakanlık tarafından iç kontrol sisteminin izlenmesi
+MADDE 23- (1) İdarelerin Kamu İç Kontrol Standartlarına uyum çalışmaları ve uyum düzeyi; Kanun, bu Yönetmelik, Kamu İç Kontrol Standartları ve ilgili diğer düzenlemeler çerçevesinde Bakanlık tarafından izlenir ve değerlendirilir. Bakanlık tarafından yapılacak izleme ve değerlendirme çalışmaları; idarelerce hazırlanan iç kontrole ilişkin dokümanlar ve diğer bilgi kaynakları üzerinden düzenli izleme ile belirli bir plan çerçevesinde yerinde izleme ve değerlendirme yapmak suretiyle gerçekleştirilir.
+(2) Bu madde kapsamında yapılacak izleme ve değerlendirmenin planlanması, yürütülmesi, sonuçlarının raporlanması ve yayımlanmasına ilişkin araç ve yöntemler, idarelerce Bakanlığa gönderilecek bilgi ve belgeler ile diğer hususlar Bakanlıkça belirlenir.
+(3) İdareler, düzenli izleme ile yerinde izleme ve değerlendirme kapsamında Bakanlık tarafından istenen her türlü bilgi ve belgeleri sağlamakla yükümlüdür.
