@@ -1,0 +1,10 @@
+ÜÇÜNCÜ BÖLÜM
+Sertifika Verme Usul ve Esasları
+Sertifika ve yetki belgesi başvuruları
+Madde 9 – (Başlığı ile birlikte değişik:RG-10/1/2018-30297)
+Yapım ve hizmet sertifikası almak isteyen gerçek veya tüzel kişiler; EK-1’de yer alan “Sertifika Başvuru Dilekçesi”, EK-2’de yer alan “Taahhütname” ve EK-3’te belirtilen bilgi ve belgeler ile birlikte Kuruma başvuruda bulunur.
+İç tesisat ve servis hatları sertifikası almak isteyen gerçek veya tüzel kişiler; EK-7’de yer alan “Sertifika Başvuru Dilekçesi”, Ek-8’de yer alan “Taahhütname” ve EK-9’da belirtilen bilgi ve belgeler ile birlikte dağıtım lisansı sahibi şirkete ya da yetki belgesi sahibi şirketlere başvuruda bulunur.
+(Değişik üçüncü fıkra:RG-29/4/2022-31824) Kuruma yapılacak sertifika başvurularına altmış gün içinde cevap verilir. İlgili mevzuata uygun olarak yapılmadığı tespit edilen sertifika başvurularındaki eksiklik veya yanlışlıklara ilişkin birden fazla farklı konuda yapılabilecek bildirimlerin her biri bakımından tebliğ tarihinden itibaren otuz gün içinde, bildirilen eksiklik ve yanlışlıklar giderilmediği takdirde başvuru yapılmamış sayılır ve başvuru evrakı iade edilir.
+Sertifika başvurusunun inceleme ve değerlendirme sürecinin sonuçlandırılabilmesi için gereksinim duyulan her türlü ek bilgi ve belge ayrıca istenebilir ve başvuru sahibi gerçek/tüzel kişiyi temsile yetkili şahıslar doğrudan görüşme yapmak üzere çağrılabilir. Bu süreçte Kurumca talep edilen bilgi/belgelerin altmış gün içinde Kuruma ibraz edilmemesi halinde sertifika başvurusu yapılmamış sayılır ve başvuru evrakı iade edilir.
+(Ek fıkra:RG-6/4/2019-30737) Kuruma elektronik ortamda sertifika başvurusu yapılabilir. Hangi sertifika başvurularının elektronik ortamda yapılabileceği ve bu başvurularda sunulacak bilgi ve belgeler Kurul Kararı ile belirlenir. Talep edilen bilgi ve belgeler Kurul Kararında belirtilen usul ve esaslar çerçevesinde elektronik ortamda Kuruma sunulur.
+Yetki belgesi almak isteyen tüzel kişiler ise; EK-13’te yer alan “Başvuru Dilekçesi” ve ilgili dilekçede belirtilen tüm bilgi ve belgeler ile birlikte Kuruma başvuruda bulunur.
