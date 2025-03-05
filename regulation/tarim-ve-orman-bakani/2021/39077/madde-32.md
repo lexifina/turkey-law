@@ -1,0 +1,4 @@
+Kiralama, işletme hakkı devri, yap-işlet-devret modeli ile yaptırılan mevcut izinler
+MADDE 32 – (1) 6831 sayılı Kanunun ek 11 inci maddesinin yürürlük tarihi olan 13/7/2010 tarihinden önce genel bütçe kapsamındaki kamu idareleri ile diğer kamu kurum ve kuruluşlarına verilen bedelsiz izinlerin işletme hakkının devredilmiş veya izinlere konu tesislerin yap-işlet-devret modeli ile yaptırılmış olması hâlinde herhangi bir bedel alınmaz.
+(2) Kamu kurum ve kuruluşlarına verilen bedelli izinlerde ise taahhüt senedinde yer alan bedeller dışında herhangi bir bedel alınmaz. Taahhüt senedinden doğan bedeller işletmeci tarafından ödenir.
+(3) İzinler, ilgili kamu idareleri veya kamu kurum ve kuruluşları adına devam eder. Ancak taahhüt senetlerinde yer alan haklar işletme süresi içinde aynı şekilde işleticiler tarafından kullanılır ve yükümlülükler yine işletme süresi içinde işleticiler tarafından yerine getirileceğine ilişkin ek taahhüt senedi alınır.

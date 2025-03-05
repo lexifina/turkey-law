@@ -1,0 +1,6 @@
+İrtifak hakkı tesisi
+MADDE 24 – (1) Kesin iznin irtifak hakkına dönüştürülmesinin talep edilmesi halinde, Bakanlığın görüşü ile birlikte, bu talep Çevre, Şehircilik ve İklim Değişikliği Bakanlığına gönderilir. Çevre, Şehircilik ve İklim Değişikliği Bakanlığınca uygun görülmesi halinde, adına kesin izin verilen yatırımcı lehine 6831 sayılı Kanunun 115 inci maddesine ve 22/11/2001 tarihli ve 4721 sayılı Türk Medeni Kanunu hükümlerine göre kat irtifakı kurulmaması kaydıyla irtifak hakkı tesis edilir.
+(2) Çevre, Şehircilik ve İklim Değişikliği Bakanlığı irtifak hakkının tapuya tescili sırasında kesin izin sözleşmesinde gerekli gördüğü değişiklikleri yapabilir.
+(3) Kesin iznin irtifak hakkına dönüştürülmesi halinde resmî senet hükümleri uygulanır.
+(4) Bağımsız ve sürekli üst hakkı tesisine izin verilebilir. Bu hak Bakanlıktan izin alınmadan devredilebilir. Bu durumda, irtifak hakkını herhangi bir şekilde devralan kişiler, bir ay içinde orman idaresinin ve Çevre, Şehircilik ve İklim Değişikliği Bakanlığının belirleyeceği yeni bedel ve şartlarla ilgili tapu müdürlüğünde yeniden resmî senet düzenlemek ve yenilenmiş resmî senedi ve/veya taahhüt senedini idareye vermek zorundadırlar. Aksi takdirde verilen izin ve üst hakkı iptal edilir.
+(5) İznin iptal edilmesi halinde varsa tapudan irtifak hakkı terkin edilir.

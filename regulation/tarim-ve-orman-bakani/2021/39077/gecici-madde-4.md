@@ -1,0 +1,3 @@
+Büyükşehir belediyesi kurulan yerler ile mülga olan kamu kurum ve kuruluşları adına önceden verilmiş izinler
+GEÇİCİ MADDE 4 – (1) Büyükşehir belediyelerinin kuruluşundan önce il özel idareleri, kapanan belediyelere ve köy tüzel kişilikleri adına verilmiş olan izinler aynı hak ve sorumluluklar ile büyükşehir belediyeleri adına devredilmiş sayılır ve büyükşehir belediyeleri adına devam eder. Bu izinlerin taahhüt senetlerindeki yükümlülüklerden orman idaresine karşı büyükşehir belediyeleri sorumludur. Talep halinde bu Yönetmelik hükümleri uygulanır ve buna uygun yeni taahhüt senedi alınır.
+(2) Mülga kamu kurum ve kuruluşlar adına verilmiş izinler, değişen mevzuat gereği bu görevi yürütmek ile görevli kamu kurum ve kuruluşu adına aynı hak ve sorumlukla devam eder.

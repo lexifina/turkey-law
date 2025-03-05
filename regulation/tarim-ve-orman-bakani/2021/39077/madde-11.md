@@ -1,0 +1,8 @@
+Teminat ve bedellerin iadesi
+MADDE 11 – (1) İznin herhangi bir sebeple sona ermesi halinde kesin izinde alınan bedeller iade edilmez. Teminat ise, taahhüt senedinde belirtilen yükümlülüklerin yerine getirilmesi durumunda iade edilir. Aksi halde alınan teminat idarece irat kaydedilir. Teminat borca mahsup edilmez.
+(2) İzin sahibinin kesin izinden vazgeçtiğini ve faaliyetini durdurduğunu orman idaresine yazılı olarak bildirdiği durumlarda orman idaresince sahanın geri teslim alındığı tarihte tahakkuk eden bedellerin tamamı tahsil edilir, müteakip yıllara ait bedel tahakkuk ettirilmez.
+(3) Ancak;
+a) İzin sahibinin kesin izin başlangıç tarihinden itibaren bir yıl içinde vazgeçmesi nedeniyle iznin iptal edilmesi ve yatırılan bedellerin ve teminatın iptal tarihinden itibaren en geç üç ay içinde iadesinin talep edilmesi halinde; izin verilen saha içinde hiçbir noktada çalışma yapılmamış olması ve izin öncesi doğal yapının bozulmamış olmasının heyetçe düzenlenecek raporla tespiti ve bölge müdürlüğünün onayı ile arazi izin bedeli dışındaki bedeller ve teminat faizsiz olarak iade edilir.
+b) Verilen kesin iznin her ne şekilde olursa olsun izin sahibinin kusur ve/veya ihmalinin bulunmadığı durumlar nedeniyle iptal edilmesi ve iptalini müteakip altı ay içinde izin sahibinin talep etmesi halinde; izin verilen sahada çalışma yapılmadığının, izin öncesi doğal yapının bozulmadığının heyetçe düzenlenecek raporla tespiti halinde, alınan tüm bedeller ve teminat faizsiz olarak iade edilir.
+(4) Kesin izin verilen sahanın bir kısmı üzerindeki iznin iptal edilmesi halinde alınan bedeller iade edilmez. Ancak arazi izin bedeli ve teminat yeni duruma göre güncellenir.
+(5) Ön izin bedeli iade edilmez.

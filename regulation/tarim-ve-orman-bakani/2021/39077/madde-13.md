@@ -1,0 +1,7 @@
+İzin rapor eklerinin hazırlanması ve onaylanması
+MADDE 13 – (1) Genel bütçe kapsamındaki kamu idareleri ile kamu kurum ve kuruluşları bünyelerinde görevli orman mühendisi veya orman yüksek mühendislerince düzenlenenler hariç olmak üzere talep alanlarını gösterir saha analiz raporu, (Danıştay Sekizinci Dairesinin 18/11/2025 tarihli ve E.:2022/753; K.:2025/8769 sayılı kararı ile iptal ibare; koordinat özet çizelgesi), vaziyet planı kademeli kapatma planı ve ağaç röleve planı ormancılık bürosu tarafından düzenlenerek imzalanır.
+(2) Kademeli kapatma planı, ağaç röleve planı, vaziyet planı ile koordinat özet çizelgeleri heyet tarafından kontrol edilir ve uygunluğu onaylanır.
+(3) (Değişik:RG-15/2/2023-32105) Genel bütçe kapsamındaki kamu idareleri ile kamu kurum ve kuruluşlarınca onaylı keşif özetleri hariç, keşif özetleri ve keşif özetlerinin vaziyet planlarına uygunluğu kontrol edilerek bölge müdürlüğü makine ikmal şube müdürlüğünce onaylanır.
+(4) Sokak hayvanları bakımevi izinlerinde Bakanlık Doğa Koruma ve Milli Parklar Genel Müdürlüğünün uygun görüşü alınır.
+(5) Bedelsiz izinlerde metraj ve keşif özeti istenmez.
+(6) (Değişik:RG-15/2/2023-32105) Taahhüt senetleri güvenli elektronik imza ile imzalanır veya her sayfası noter tarafından onaylanır. Ancak genel bütçe kapsamındaki kamu idareleri ile kamu kurum ve kuruluşlarından alınacak taahhüt senedinin her sayfası kurum yetkilisi tarafından onaylanır, noter onayı aranmaz.

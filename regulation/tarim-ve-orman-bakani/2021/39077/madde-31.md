@@ -1,0 +1,5 @@
+Bedelli izinlerin yap-işlet-devret modeli ile yaptırılması
+MADDE 31 – (1) Kamu kurum ve kuruluşlarına verilen bedelli izinlere konu tesislerin yap-işlet-devret modeli esas alınarak yaptırılması ve işlettirilmesi halinde taahhüt senedinde yer alan bedeller dışında herhangi bir bedel alınmaz.
+(2) İzinler, ilgili kamu kurum ve kuruluşları adına devam eder. Ancak taahhüt senetlerinde yer alan haklar işletme süresi içinde aynı şekilde işleticiler tarafından kullanılır ve yükümlülükler yine işletme süresi içinde işleticiler tarafından yerine getirilir. Taahhüt senedinden doğan bedeller işletmeci tarafından yatırılır.
+(3) İzin başlangıcında alınan taahhüt senedinde, taahhüt senetlerinde yer alan hakların işletme süresi içinde aynı şekilde işleticiler tarafından kullanılacağı ve yükümlülüklerin yine işletme süresi içinde işleticiler tarafından yerine getirileceğine ilişkin hüküm bulunmaması halinde işletmeciden, ek taahhüt senedi alınır.
+(4) Ancak izinlerin birden fazla olması halinde alınacak ek taahhüt senedi her bir izin için ayrı ayrı alınabileceği gibi tüm izinler için tek bir taahhüt senedi de alınabilir.

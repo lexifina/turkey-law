@@ -1,0 +1,6 @@
+Ön izin ve ön izin süre uzatımı
+MADDE 14 – (1) Uygun görülen taleplere yirmi dört aya kadar ön izin verilebilir. Ön izin sahibinin ön izin süresi son günü mesai bitimine kadar bölge müdürlüğüne süre uzatımı talebinde bulunması ve mevcut taahhüt senedi hükümlerini kabul ettiğine dair ek taahhüt senedi vermesi halinde, ön izin süresinin bitim tarihinden itibaren on iki ay süreyle ön izin ve sorumlulukları devam eder. Ön izin süresi nükleer tesis izinlerinde toplam altmış ay, diğerlerinde ise toplam otuz altı aydır. Ancak, nükleer tesis izinlerinde mevcut ön izin süresinin yetmemesi ve talep edilmesi halinde Bakanlıkça uygun görülecek süre kadar ön izin uzatılabilir.
+(2) Ön izin süresi içinde saha teslimi yapılmaz ve hiçbir inşaat faaliyetine müsaade edilmez.
+(3) Ön izin; izin süresi son günü mesai bitimine kadar süre uzatımı talebiyle bölge müdürlüğüne müracaat edilmemesi, izin sahibinin vazgeçmesi veya istenen belgelerin süresi içinde tamamlanarak orman idaresine verilmemesi halinde resen iptal edilmiş sayılır.
+(4) Süre uzatmaları dahil, ön izin süresi içinde herhangi bir sebeple kesin izne dönüşmemiş ön izinler için herhangi bir hak iddia edilemez.
+(5) Ön izin süresi içinde mevzuatta kesin izin verilmesini engelleyen değişiklik olması halinde ön izin iptal edilir.

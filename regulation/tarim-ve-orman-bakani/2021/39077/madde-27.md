@@ -1,0 +1,11 @@
+BEŞİNCİ BÖLÜM
+6831 Sayılı Kanunun Ek 11 inci Maddesine İlişkin İşlemler
+İzne konu tesislerin kiraya verilmesi
+MADDE 27 – (1) Turizm izinleri dışında, sağlık, eğitim ve spor tesisi yapımı maksadıyla verilen izinlere konu asli tesislerin dışındaki kafeterya, kantin, otopark gibi yan ünitelerin, diğer izinlere konu tesislerin tamamının veya bir bölümünün kiralanmasının izin sahibi tarafından talep edilmesi halinde heyetçe konu incelenir. İnceleme raporu düzenlenir. Uygun görülenlere Bakanlıkça izin verilir.
+(2) Sağlık, eğitim, spor, adli hizmet ve ceza infaz kurumu tesisi yapımı maksadıyla verilen izinlere konu asli tesislerin kiralanmasına, işletme hakkının devredilmesine, yap-işlet-devret modeli ile yaptırılmasına izin verilmez. Ancak 8/11/2003 tarihinden önce genel bütçe kapsamındaki kamu idareleri adına araştırma, eğitim ve dinlenme tesisi yapılması maksadıyla verilen izinlerin üçüncü kişilere işlettirilmesine Bakanlıkça izin verilebilir.
+(3) İzne konu tesislerin tamamının veya bir bölümünün üçüncü kişilere kiralanmasına izin verilmesi halinde, izin sahibi;
+a) Kiracı ile arasındaki sözleşmenin noter onaylı bir suretini,
+b) İzin başlangıcında alınan taahhüt senedinde, kira sözleşmesinde belirtilen tarihten itibaren kira bedelinin yüzde ellisinin en geç bir ay içinde olmak üzere her yıl Genel Müdürlük özel bütçe hesabına yatırılacağına, kira sözleşmesinin sona ermesi halinde en geç bir ay içinde orman idaresine bildirileceğine, aksi halde doğacak her türlü hukuki ve mali yükümlülüklerden sorumlu olacağına ilişkin hüküm bulunmaması halinde, bu hususları içeren ek taahhüt senedini orman idaresine verir.
+c) Ancak sağlık, eğitim, yükseköğretim kurumu ve spor tesisi yapımı maksadıyla verilen izinlere konu asli tesislerin dışındaki kafeterya, kantin, otopark gibi yan ünitelerin kiralanması halinde; harp, yangın, deprem, afet, salgın hastalık gibi mücbir sebeplerden kaynaklı kiralanan tesislerin işletilemediğinin belgelendirilmesi durumunda bu süreler için kira bedeli alınmaz.
+(4) Kira bedelinin aylık ödenmesi halinde aylık kira bedeli on iki ile çarpılır bulunan bedelin yüzde ellisi kira sözleşmesinde belirtilen ilk kira ödeme tarihinden itibaren en geç bir ay içinde ödenir.
+(5) Aksi halde verilen kiralama izni resen iptal edilir.

@@ -1,0 +1,2 @@
+Aynı alana isabet eden izinler
+MADDE 22 – (1) Talep sahasının bir bölümünün veya tamamının 6831 sayılı Kanunun 16 ncı maddesi, 17 nci maddesinin üçüncü fıkrası ve 18 inci maddesine göre verilen bir başka izin alanına isabet etmesi halinde daha önce verilen izin sahibinin muvafakatı aranır, muvafakat verilmemesi halinde İdarece resen izin verilebilir. Talep sahibince mevcut izinle ilgili gerekli tedbirler alınarak çalışılır. Talep sahibinden her türlü zarar ziyandan sorumlu olacağına dair ek taahhüt senedi alınır.

@@ -1,0 +1,2 @@
+İzni iptal edilen sahaların yeniden izne konu edilmesi ve tesislerin değerlendirilmesi
+MADDE 19 – (1) Herhangi bir sebeple izni iptal edilen ancak üzerinde bina ve tesis bulunmayan sahalar bu Yönetmelik hükümlerine göre yeniden izne konu edilebilir. Üzerinde bina ve tesis bulunanlar ise eksiksiz ve bedelsiz olarak Genel Müdürlüğün tasarrufuna geçer, sabit kıymetlere alınarak orman idaresince değerlendirilir. Orman idaresinin teslim almak istemediği bina ve tesisler ise izin sahibince yerinden kaldırılarak orman sınırları dışına çıkartılır.
