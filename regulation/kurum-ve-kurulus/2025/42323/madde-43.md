@@ -1,0 +1,5 @@
+ALTINCI BÖLÜM
+Çeşitli ve Son Hükümler
+Ödül ve sponsorluk
+MADDE 43- (1) Ödül ve sponsorluk işlemleri 21/5/1986 tarihli ve 3289 sayılı Gençlik ve Spor Hizmetleri Kanununun ek 3 üncü maddesi ile 13/9/2010 tarihli ve 2010/956 sayılı Bakanlar Kurulu kararı ile yürürlüğe konulan Spor Hizmet ve Faaliyetlerinde Üstün Başarı Gösterenlerin Ödüllendirilmesi Hakkında Yönetmelik ve 16/6/2004 tarihli ve 25494 sayılı Resmî Gazete’de yayımlanan Gençlik ve Spor Genel Müdürlüğü Sponsorluk Yönetmeliği çerçevesinde yürütülür.
+(2) Spor Federasyonu, Spor Hizmet ve Faaliyetlerinde Üstün Başarı Gösterenlerin Ödüllendirilmesi Hakkında Yönetmelik kapsamında yer almayan sporcu, spor kulübü, antrenör ve teknik elemanlar için çıkaracağı talimat hükümlerine göre ödül verebilir. Ancak bu durumda verilecek ödüller Bakanlık bütçesinden ayrılacak pay ile altyapı ve eğitime ilişkin projelerin desteklenmesi için aktarılacak kaynaktan ve Spor Toto Teşkilat Başkanlığından sağlanan reklam gelirlerinden karşılanamaz.
