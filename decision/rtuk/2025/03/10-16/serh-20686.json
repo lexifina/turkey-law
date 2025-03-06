@@ -1,0 +1,15 @@
+{
+  "issuer": "Radyo ve Televizyon Üst Kurulu (RTÜK)",
+  "record_type": "Şerh (karşı oy yazısı)",
+  "meeting": "2025/10",
+  "meeting_date": "2025-03-06",
+  "meeting_date_as_published": "6.3.2025",
+  "decision_no": "16",
+  "source_id": 20686,
+  "title": "RTÜK kararı 2025/10-16 karşı oy yazısı",
+  "source": "https://www.rtuk.gov.tr/UstKurulKarar/Detay/20686",
+  "source_sha256": "6a2d8ecf50008445c4463fb63a947bc030ff9e14991bebdc513874368cac8e81",
+  "text_status": "metadata-only",
+  "metadata_only_reason": "possible private person name(s) in the official text (3 match(es)); full text withheld, official link only",
+  "law_text_complete": false
+}
