@@ -1,0 +1,24 @@
+{
+  "number": "meeting-03-06",
+  "number_as_published": "meeting-03-06",
+  "year": 2025,
+  "title": "06.03.2025 ALINAN KARARLAR",
+  "decision_date": "2025-03-06",
+  "source": "https://www.efeler.bel.tr/kurumsal/meclis-calismalari",
+  "official_document": "https://www.efeler.bel.tr/06-03-2025-alinan-kararlar",
+  "source_sha256": "2dc2fab0e5b2670241475d0fc3e267b0be4cfd510eeaf94b97a506930bb153c6",
+  "issuer": "Efeler Belediye Meclisi",
+  "history_type": "metadata",
+  "text_status": "metadata-only: listing fields as published; complete decision text is in the linked official document, not transcribed",
+  "in_force": "2025-03-06",
+  "in_force_basis": "Decision date as printed in the official council listing: 06.03.2025; adoption date of the council decision; legal commencement not asserted",
+  "missing": [
+    "complete official decision text",
+    "official annexes"
+  ],
+  "law_text_complete": false,
+  "privacy_withheld": false,
+  "listing_label": "06.03.2025 ALINAN KARARLAR",
+  "record_scope": "one official file of council decisions (meeting)",
+  "document_note": "the meeting's decisions are published as text on the official page; not transcribed here"
+}
