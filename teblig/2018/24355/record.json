@@ -1,0 +1,74 @@
+{
+  "source_id": "9.5.24355",
+  "kind": "communique",
+  "register_kind": "Tebliğler",
+  "title": "TÜRK PARASI KIYMETİNİ KORUMA HAKKINDA 32 SAYILI KARARA İLİŞKİN TEBLİĞ (TEBLİĞ NO: 2018-32/45)",
+  "number": "24355",
+  "path": "teblig/2018/24355",
+  "source": "https://www.mevzuat.gov.tr/anasayfa/MevzuatFihristDetayIframe?MevzuatTur=9&MevzuatNo=24355&MevzuatTertip=5",
+  "source_sha256": "6ba3923bb9b7d95a5d2cdab34842542d891636529614b0fd0de001665b3d08ff",
+  "source_bytes": 147795,
+  "published": "2018-01-30",
+  "gazette": "30317",
+  "in_force": "2025-03-06",
+  "in_force_basis": "latest Resmî Gazete date printed in the source amendment notes/table (\"RG-6/3/2025\") for the current consolidated text",
+  "date_evidence": [
+    [
+      "2025-03-06",
+      "RG-6/3/2025",
+      "Resmî Gazete date printed in the source amendment note"
+    ],
+    [
+      "2025-03-06",
+      "6/3/2025",
+      "Resmî Gazete date in the source amendment table"
+    ],
+    [
+      "2021-11-18",
+      "RG-18/11/2021",
+      "Resmî Gazete date printed in the source amendment note"
+    ],
+    [
+      "2021-11-18",
+      "18/11/2021",
+      "Resmî Gazete date in the source amendment table"
+    ],
+    [
+      "2021-10-12",
+      "RG-12/10/2021",
+      "Resmî Gazete date printed in the source amendment note"
+    ],
+    [
+      "2021-10-12",
+      "12/10/2021",
+      "Resmî Gazete date in the source amendment table"
+    ],
+    [
+      "2018-09-07",
+      "RG-7/9/2018",
+      "Resmî Gazete date printed in the source amendment note"
+    ],
+    [
+      "2018-09-07",
+      "7/9/2018",
+      "Resmî Gazete date in the source amendment table"
+    ]
+  ],
+  "commencement_clauses": [
+    "Bu Tebliğ yayımı tarihinde yürürlüğe girer"
+  ],
+  "history": "current-text",
+  "label": "oldest version available",
+  "checked_on": "2026-11-15",
+  "word_count": 9794,
+  "text_status": "current-consolidated",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  },
+  "source_links": [
+    "9.5.24355-Ek.docx"
+  ],
+  "completeness": "html-text-complete; linked annexes not fetched"
+}
