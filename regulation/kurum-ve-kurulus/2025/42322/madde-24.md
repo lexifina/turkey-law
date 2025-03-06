@@ -1,0 +1,5 @@
+Federasyon başkan adaylığı başvuruları
+MADDE 24- (1) Federasyon başkan aday adayları, Genel Kurulun yapılacağı tarihten en az on gün önce federasyon başkan adayı olmak istediklerini belirten yazılı dilekçelerini ve başkan adaylığı için gerekli diğer belgeleri bir dizi pusulası oluşturarak kapalı zarf içinde son başvuru günü saat 17:00’a kadar Spor Federasyonu yetkililerine teslim etmek zorundadır.
+(2) Başvuru belgelerini içeren kapalı zarf, federasyon başkan aday adayı tarafından adı ve soyadı yazılarak imzalanır; başvuru yapılan Spor Federasyonu yetkilileri tarafından açılmadan ve herhangi bir inceleme yapılmadan mühürlenerek tutanakla teslim alınır. Teslim tutanağının bir nüshası federasyon başkan aday adayına verilir.
+(3) Spor Federasyonu tarafından teslim alınan başvuru evrakı, Spor Federasyonunun üst yazısı ekinde son başvuru günü saat 18:00’a kadar Bakanlık gelen evrak biriminden kayıt altına alınarak Bakanlığa teslim edilir.
+(4) Federasyon başkan adaylığı başvurularının Bakanlığa teslim edilmesinden itibaren genel kurul takvimine uygun olarak en kısa süre içinde, federasyon başkan adaylarını tespit etmek üzere Değerlendirme Komisyonu toplanır.
