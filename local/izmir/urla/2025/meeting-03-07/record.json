@@ -1,0 +1,24 @@
+{
+  "number": "meeting-03-07",
+  "number_as_published": "meeting-03-07",
+  "year": 2025,
+  "title": "07 Mart Meclis Kararları",
+  "decision_date": "2025-03-07",
+  "source": "https://www.urla.bel.tr/ListeSayfa/4767/mart-ayi-meclis-kararlari",
+  "official_document": "https://www.urla.bel.tr/Sayfa/4769/07-mart-meclis-kararlari",
+  "source_sha256": "0d798ff03dbd6c3784b2e3c8dc19fcf1cbb27e64b9e819e7e8655725f834232c",
+  "issuer": "Urla Belediye Meclisi",
+  "history_type": "metadata",
+  "text_status": "metadata-only: listing fields as published; complete decision text is in the linked official document, not transcribed",
+  "in_force": "2025-03-07",
+  "in_force_basis": "Decision date as printed in the official council listing: 07 Mart Meclis Kararları (year 2025 from the official year list '2025 Meclis Kararları'); adoption date of the council decision; legal commencement not asserted",
+  "missing": [
+    "complete official decision text",
+    "official annexes"
+  ],
+  "law_text_complete": false,
+  "privacy_withheld": false,
+  "month_list": "Mart Ayı Meclis Kararları",
+  "official_page": "https://www.urla.bel.tr/Sayfa/4769/07-mart-meclis-kararlari",
+  "record_scope": "one council meeting page (its decisions are on the linked official page; not transcribed)"
+}
