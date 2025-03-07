@@ -1,0 +1,23 @@
+{
+  "number": "26",
+  "number_as_published": "26",
+  "year": 2025,
+  "title": "Mülkiyeti Belediye Başkanlığımıza ait Bakırköy İlçesi, Osmaniye Mah. İsmail Erez Bulvarı No:8 adresinde 267 ada 170 parsel sayılı taşın. üzerindeki Yeni Belediye Binasının giriş katında bulunan 140 m²’lik alanın, İstanbul Büyükşehir Belediyesi Genç.",
+  "decision_date": "2025-03-07",
+  "source": "https://www.bakirkoy.bel.tr/meclis-kararlari/9",
+  "official_document": "https://www.bakirkoy.bel.tr/storage/app/media/meclis%20kararlar%C4%B1/26-emlak-ve-istimlak-mudurlugu-267-ada-170-parsel-hizmet-binasi-giris-katindaki-140-m2lik-alanin-ibbye-tahsisi-07032025.pdf",
+  "source_sha256": "08534556ac6805bfe5faccc4621f8b9a281ae6ddacdb231f57d220e37a81b32c",
+  "issuer": "Bakırköy Belediye Meclisi",
+  "history_type": "metadata",
+  "text_status": "metadata-only: listing fields as published; complete decision text is in the linked official document, not transcribed",
+  "in_force": "2025-03-07",
+  "in_force_basis": "Decision date as printed in the official council listing: 07 Mart 2025 (Tarih column of the official list); adoption date of the council decision; legal commencement not asserted",
+  "missing": [
+    "complete official decision text",
+    "official annexes"
+  ],
+  "law_text_complete": false,
+  "privacy_withheld": false,
+  "record_scope": "one council decision (number, date and summary as listed; the decision is the linked official PDF)",
+  "official_page": "https://www.bakirkoy.bel.tr/meclis-kararlari"
+}
