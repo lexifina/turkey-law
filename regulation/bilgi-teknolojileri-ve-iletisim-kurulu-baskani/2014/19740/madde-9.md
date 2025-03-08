@@ -1,0 +1,4 @@
+Yetki belgesinin ücreti ve ücret alınmasını gerektirmeyen haller
+MADDE 9 – (1) Kurum tarafından verilecek yetki belgeleri için Ek-1’de yer alan Yetki Belgesi Ücret Çizelgesindeki ücretler uygulanır. Yetki belgesi ücreti, bir defada peşin olarak ödenir.
+(2) Yetki belgesi ücretleri, her takvim yılı başından geçerli olmak üzere o yıl için 4/1/1961 tarihli ve 213 sayılı Vergi Usul Kanunu uyarınca belirlenen yeniden değerleme oranında artırılarak uygulanır. Kurul söz konusu oranı iki katına kadar artırarak veya yarısına kadar indirerek uygulamaya yetkilidir.
+(3) Yetki belgesi üzerinde yer alan bilgilerin değişmesi veya birleşme ve devralma ile tüzel kişilik yapısındaki diğer değişikliklerin gerçekleşmesi veya yetki belgesinin zayi olması gibi nedenlerle geçerliliği devam eden yetki belgesinin yeniden tanzim edilmesi halinde ilave bir ücret alınmaz.
