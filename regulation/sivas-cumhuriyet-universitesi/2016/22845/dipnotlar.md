@@ -1,0 +1,1 @@
+[1] 9/3/2025 tarihli ve 32836 sayılı Resmî Gazete’de yayımlanan değişiklik ile Yönetmeliğin adı “Cumhuriyet Üniversitesi Sürekli Eğitim Merkezi Yönetmeliği” iken metne işlendiği şekilde değiştirilmiştir.
