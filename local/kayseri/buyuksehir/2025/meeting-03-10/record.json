@@ -1,0 +1,23 @@
+{
+  "number": "meeting-03-10",
+  "number_as_published": null,
+  "year": 2025,
+  "title": "10 Mart 2025 Tarihli Meclis Karar Özetleri",
+  "decision_date": "2025-03-10",
+  "source": "https://www.kayseri.bel.tr/karar-ozetleri/10-mart-2025-tarihli-meclis-karar-ozetleri",
+  "official_document": "https://www.kayseri.bel.tr/uploads//karar-ozet/10-17-03-2025-15-58.PDF",
+  "source_sha256": "65d5e87baa5eb46876f2ff3d035b5fa5d1a917e0c684967c43163dda2f658099",
+  "issuer": "Kayseri Büyükşehir Belediye Meclisi",
+  "history_type": "metadata",
+  "text_status": "metadata-only: listing fields as published; complete decision text is in the linked official document, not transcribed",
+  "in_force": "2025-03-10",
+  "in_force_basis": "Decision date as printed in the official council listing: 10 Mart 2025; adoption date of the council decision; legal commencement not asserted",
+  "missing": [
+    "complete official decision text",
+    "official annexes"
+  ],
+  "law_text_complete": false,
+  "privacy_withheld": false,
+  "record_scope": "one official PDF of decision summaries per council meeting",
+  "listing": "https://www.kayseri.bel.tr/karar-ozetleri?page=2"
+}
