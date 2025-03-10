@@ -1,0 +1,5 @@
+Başarılı ve üstün başarılı öğrenciler
+MADDE 30 – (1) Onur belgesi ve yüksek onur belgesi, Senato tarafından belirlenen esaslara ve ilgili mevzuat hükümlerine göre düzenlenir.
+(2) Ön lisans ve lisans mezunlarından; zorunlu yabancı dil hazırlık sınıfı hariç, ön lisans programlarını dört yarıyılda, lisans programlarını sekiz yarıyılda tamamlayan ve herhangi bir disiplin cezası almayan öğrenciler arasından genel ağırlıklı not ortalamasına göre Fakülte/Yüksekokul/Meslek Yüksekokulu birincisi, ikincisi, üçüncüsü belirlenir ve bu öğrencilere ilgili birim Dekanı/Müdürü tarafından imzalanan başarı belgesi verilir.
+(3) Genel ağırlıklı not ortalamasına göre en yüksek ortalamaya sahip olan lisans mezunları arasından Üniversite birincisi, ikincisi, üçüncüsü belirlenir ve bu öğrencilere Rektör tarafından imzalanan üstün başarı belgesi verilir.
+(4) Başarılı ve üstün başarılı öğrencilerin belirlenmesi aşamasında genel ağırlıklı not ortalamasında eşitlik olması halinde ilk önce tekrar edilen ders sayısına, eşitliğin devam etmesi durumunda bütünlemeye kalınan ders sayısına bakılır. Eşitliğin halen devam etmesi durumunda yaşı küçük olan öğrenciye öncelik verilir.

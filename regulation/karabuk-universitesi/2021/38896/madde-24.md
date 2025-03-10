@@ -1,0 +1,3 @@
+Başarı notları ve dereceleri
+MADDE 24 – (1) Bir dersteki başarı notu, öğrencinin yıl içerisindeki faaliyetlerinin ve/veya sınavlarının birlikte değerlendirilmesi sonucunda oluşur. Ölçme ve değerlendirme, öncelikle Bağıl Değerlendirme Sistemine (BDS) göre yapılır. Bağıl Değerlendirme Sistemi (BDS) koşullarının sağlanmadığı durumlarda Mutlak Değerlendirme Sistemine (MDS) göre değerlendirme yapılır.
+(2) Bağıl veya Mutlak Değerlendirme Sistemi ile derslerdeki başarı durumlarının ölçülmesi, değerlendirilmesi ve bu değerlendirme sonucunda oluşan ders başarı notları ve derecelerine ilişkin usul ve esaslar Senato tarafından belirlenir.

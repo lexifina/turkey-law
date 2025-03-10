@@ -1,0 +1,5 @@
+Eğitim-öğretim dönemleri
+MADDE 9 – (1) Eğitim-öğretim aşağıdaki hususlar çerçevesinde yarıyıl esasına göre düzenlenir:
+a) Bir eğitim-öğretim yılı Senatonun kararıyla yarıyıl sınavları ve resmî tatil günleri hariç en az 14 hafta (70 iş günü) olmak üzere güz ve bahar yarıyıllarından oluşur. Yetmişinci iş gününün hafta arasına rastlaması durumunda ders yılının bitim tarihi, haftanın son iş gününe kadar uzatılır. Güz ve bahar yarıyıllarına ek olarak staj ve yaz kursları veya yaz dönemi açılabilir. Bunların süresi ve uygulama şekli ilgili kurulların önerisi üzerine Senato tarafından düzenlenir.
+b) Zorunlu hallerde, ilgili yönetim kurulunun teklifi ve Senatonun onayı ile cumartesi ve pazar günleri de ders yapılabilir. Ayrıca resmî tatillere denk gelen günlerde yapılamayan dersler en az 70 iş gününün tamamlanması adına cumartesi ve pazar günleri yapılabilir ve bu tarihler ilgili eğitim-öğretim yılının akademik takviminde belirtilir.
+(2) Üniversitenin bir eğitim-öğretim yılını kapsayan akademik takvimi eğitim-öğretim yılının başlamasından önce Senato tarafından belirlenerek ilan edilir.
