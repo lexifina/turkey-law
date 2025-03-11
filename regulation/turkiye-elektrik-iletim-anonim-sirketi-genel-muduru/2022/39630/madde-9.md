@@ -1,0 +1,2 @@
+İnternet sitesinde yayımlanan malzeme, taşıt ve iş makinelerinin incelenmesi ve talep şekli
+MADDE 9- (1) Teşekkül merkez ve taşra birimleri, Teşekkülün internet sitesinde yayımlanan listelerdeki malzemeler ile taşıt ve iş makinelerini yerinde görüp tetkikini yaptıktan sonra ihtiyaç duyulan malzemelerle ilgili tahsis taleplerini Malzeme Yönetimi Dairesi Başkanlığına, taşıt veya iş makineleriyle ilgili tahsis taleplerini ise Destek Hizmetleri Dairesi Başkanlığına her yılın Nisan ayının sonuna kadar bildirir.

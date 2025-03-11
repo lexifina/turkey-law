@@ -1,0 +1,5 @@
+ÜÇÜNCÜ BÖLÜM
+Derleme ve Değerlendirme
+Tutanakların Malzeme Yönetimi Dairesi Başkanlığına ve Destek Hizmetleri Dairesi Başkanlığına gönderilmesi
+MADDE 7- (1) (Değişik:RG-11/3/2025-32838) Merkez ve taşra birimlerince, bu Yönetmeliğin ikinci bölümü çerçevesinde oluşturulan komisyonlarca düzenlenen Ambar Tespit ve Değerlendirme Tutanağı; yapılan tespitler Teşekkül tarafından kullanılmakta olan güncel stok programına işlendikten sonra ihtiyaç fazlası, ihtiyaç dışı ve hurda malzeme (taşıt ve iş makineleri hariç) ile ilgili işlemleri yapmak üzere Malzeme Yönetimi Dairesi Başkanlığına; ihtiyaç fazlası taşıt ve iş makineleri, ekonomik ömrünü doldurmuş veya hurda taşıt ve iş makineleri ile ilgili işlemleri yapmak için ise Destek Hizmetleri Dairesi Başkanlığına her yılın ocak ayı sonuna kadar gönderilir.
+(2) Birinci fıkrada belirtilen işlemlerin tamamlanmasından sonra Merkezde yapılması gereken işlemler, Malzeme Yönetimi Dairesi Başkanlığı ve Destek Hizmetleri Dairesi Başkanlığı tarafından yapılır.

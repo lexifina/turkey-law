@@ -1,0 +1,6 @@
+Tutanakların birleştirilerek duyurulması
+MADDE 8- (1) Merkez ve taşra birimlerince, bu Yönetmelik çerçevesinde oluşturulan komisyonlarca düzenlenen (Değişik ibare:RG-11/3/2025-32838) Ambar, Tespit ve Değerlendirme Tutanaklarından;
+a) Malzeme ile ilgili olanlar, Malzeme Yönetimi Dairesi Başkanlığı tarafından içeriğine göre derlenip düzenlenerek ihtiyaç fazlası malzemelere ait tüm bilgilerin Teşekkülün internet sitesinde her yılın Mart ayı sonuna kadar yayımlanması,
+b) Taşıt ve iş makineleri ile ilgili olanlar, Destek Hizmetleri Dairesi Başkanlığı tarafından içeriğine göre derlenip düzenlenerek ihtiyaç fazlası taşıt ve iş makinelerine ait tüm bilgiler liste haline getirilerek her yılın Mart ayı sonuna kadar Teşekkülün internet sitesinde yayımlanması,
+c) Teşekkül birimleri arasında tahsis işlemleri tamamlandıktan sonra diğer kamu kurum ve kuruluşlarının da istifadesine sunulması amacıyla kalan ihtiyaç fazlası ve ihtiyaç dışı malzemelere ait tüm bilgilerin Malzeme Yönetimi Dairesi Başkanlığı tarafından; ihtiyaç fazlası taşıt ve iş makineleri ile ekonomik ömrünü doldurmuş taşıt ve iş makinelerine ait tüm bilgilerin ise Destek Hizmetleri Dairesi Başkanlığı tarafından Teşekkülün internet sitesinde yayımlanması,
+sağlanır.

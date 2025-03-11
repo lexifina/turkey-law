@@ -1,0 +1,2 @@
+[1] 11/3/2025 Tarihli ve 32838 sayılı Resmî Gazete’de yayımlanan değişiklik ile bu yönetmeliğin adı “Türkiye Elektrik İletim Anonim Şirketi İhtiyaç Fazlası, İhtiyaç Dışı ve Faydalı Ömrünü Doldurmuş Malzeme, Hurda Malzeme, Ekonomik Ömrünü Doldurmuş Taşıt Ve İş Makineleri Değerlendirme Yönetmeliği” iken metne işlendiği şekilde değiştirilmiştir.
+[2] 11/3/2025 Tarihli ve 32838 sayılı Resmî Gazete’de yayımlanan değişiklik ile bu bölümün başlığı “Sayım, Tespit ve Değer Takdir Komisyonları” iken metne işlendiği şekilde değiştirilmiştir.
