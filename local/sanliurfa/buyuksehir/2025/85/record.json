@@ -1,0 +1,24 @@
+{
+  "number": "85",
+  "number_as_published": "85",
+  "year": 2025,
+  "title": "NAZIM VE UYGULAMA İMAR PLANI(VİRANŞEHİR-ALAKONAK)",
+  "decision_date": "2025-03-11",
+  "source": "https://www.sanliurfa.bel.tr/icerik/19866/106/nazim-ve-uygulama-imar-planiviransehir-alakonak",
+  "official_document": null,
+  "source_sha256": "dd2c2d924b480d97082d790fde4f52e08895c0dbcf4cdb3362f3bc32aebf8406",
+  "issuer": "Şanlıurfa Büyükşehir Belediye Meclisi",
+  "history_type": "metadata",
+  "text_status": "metadata-only: decision number, date and subject from the official announcement; the decision text is not published on the page",
+  "in_force": "2025-03-11",
+  "in_force_basis": "Decision date as printed in the official council listing: 11.03.2025 tarih ve 85 sayılı (council decision cited in the official announcement); adoption date of the council decision; legal commencement not asserted",
+  "missing": [
+    "complete official decision text",
+    "official annexes"
+  ],
+  "law_text_complete": false,
+  "privacy_withheld": false,
+  "record_scope": "one council decision, as cited in the municipality's official plan announcement (ilan)",
+  "announcement_date": "2025-03-24",
+  "listing": "https://www.sanliurfa.bel.tr/kategori/82/0/meclis-kararlari?page=1"
+}
