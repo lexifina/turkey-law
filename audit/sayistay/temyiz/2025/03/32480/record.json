@@ -1,0 +1,16 @@
+{
+  "kind": "decision",
+  "issuer": "Sayıştay Temyiz Kurulu",
+  "number": "57821",
+  "decision_date": "2025-03-12",
+  "source_id": 32480,
+  "chamber": "3",
+  "file_number": "54078",
+  "public_body_type": "Yüksek Öğretim Kurumları",
+  "account_year": "2022",
+  "subject": "Personel Mevzuatı ile İlgili Kararlar",
+  "source": "https://www.sayistay.gov.tr/KararlarTemyiz/Detay/32480/",
+  "source_sha256": "3bbb35fe3d83670679362d15b695a7a970909f28c2dd201121efd09bb4fdeb5b",
+  "text_status": "metadata-only",
+  "metadata_only_reason": "possible personal name in the official text"
+}
