@@ -1,0 +1,39 @@
+{
+  "checked_on": "2026-11-14",
+  "commencement_clauses": [
+    "MADDE 15- (1) Bu Yönetmelik yayımı tarihinde yürürlüğe girer."
+  ],
+  "date_evidence": [
+    [
+      "2025-03-12",
+      "12.03.2025",
+      "original gazette publication date in official listing"
+    ]
+  ],
+  "date_quote": "MADDE 15- (1) Bu Yönetmelik yayımı tarihinde yürürlüğe girer.",
+  "first_law": null,
+  "gazette": "32839",
+  "history": "current-text",
+  "images": {
+    "deferred": 0,
+    "omitted": 0,
+    "referenced": 0,
+    "source": 0
+  },
+  "in_force": "2025-03-12",
+  "in_force_basis": "source commencement clause: enters into force on gazette publication",
+  "issuer": "Avrasya Üniversitesi",
+  "issuer_slug": "avrasya-universitesi",
+  "kind": "regulation",
+  "label": "oldest version available",
+  "path": "regulation/avrasya-universitesi/2025/42326",
+  "published": "2025-03-12",
+  "source": "https://www.mevzuat.gov.tr/anasayfa/MevzuatFihristDetayIframe?MevzuatTur=8&MevzuatNo=42326&MevzuatTertip=5",
+  "source_bytes": 24474,
+  "source_id": "8.5.42326",
+  "source_sha256": "7f7d8856aa70d32874852559d810391fe70ef91acdb4d92919cc7dcc71132518",
+  "text_status": "as-enacted",
+  "title": "AVRASYA ÜNİVERSİTESİ TEKNOLOJİ TRANSFER OFİSİ UYGULAMA\r\nVE ARAŞTIRMA MERKEZİ YÖNETMELİĞİ",
+  "university_id": 363,
+  "word_count": 1086
+}
