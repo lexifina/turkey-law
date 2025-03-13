@@ -1,0 +1,2 @@
+Uygunluk doğrulama kontrolleri sonrasında elde edilen bulguların rapor formatı
+MADDE 6- (1) Piyasa gözetimi ve denetimi kuruluşu her iki yılda bir AB/2018/858 Yönetmeliğinin 8 inci maddesinin yedinci fıkrasında atıfta bulunulan uygunluk doğrulama kontrollerini takiben elde edilen bulgulara ilişkin raporu, bu Yönetmeliğin EK II’sinde belirtilen formatta hazırlar. Hazırlanan rapor, piyasa gözetimi ve denetimi kuruluşu tarafından her iki yılı takip eden yılda Foruma sunulabilir.

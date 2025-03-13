@@ -1,0 +1,2 @@
+Planlanan piyasa gözetimi ve denetimi kontrollerine ilişkin gözden geçirme raporu formatı
+MADDE 5- (1) Piyasa gözetimi ve denetimi kuruluşu her yıl AB/2018/858 Yönetmeliğinin 8 inci maddesinin altıncı fıkrasında atıfta bulunulan planlı piyasa gözetimi ve denetimi kontrollerine ilişkin gözden geçirme raporunu bu Yönetmeliğin EK I’inde belirtilen formatta hazırlar. Hazırlanan rapor, piyasa gözetimi ve denetimi kuruluşu tarafından Foruma sunulabilir.

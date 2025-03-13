@@ -1,0 +1,7 @@
+Olası uygunsuzlukların testi amacıyla imalatçılar tarafından üçüncü taraflara sunulacak bilgiler
+MADDE 8- (1) AB/2018/858 Yönetmeliğinin 13 üncü maddesinin onuncu fıkrası uyarınca imalatçılar tarafından üçüncü taraflara sunulacak bilgiler aşağıdakileri içerir:
+a) Tip onayı testi sırasında uygulanan test koşullarını doğru bir şekilde tekrarlamak için AB/2018/858 Yönetmeliğinin 30 uncu maddesinde atıfta bulunulan tüm test raporları dahil olmak üzere, gerekli parametreler ve ayarlar ile AB/2018/858 Yönetmeliği ve EK II'sinde listelenen mevzuat uyarınca gerekli test ve kontrolleri gerçekleştirmek için gerekli bilgiler.
+b) SGM-2021/29 Tebliğinin EK I’inin İlave 3a’sı ve 10/1/2014 tarihli ve 28878 sayılı Resmî Gazete’de yayımlanan Ağır Hizmet Araçlarından Çıkan Emisyonlar (Euro VI) Bakımından ve Araç Tamir ve Bakım Bilgilerine Erişim Konusunda Motorlu Araçların Tip Onayı ile İlgili Uygulama Usul ve Esaslarına İlişkin Tebliğ (Tebliğ No: SGM-2013/5)’in EK I’inin İlave 11’i uyarınca AES ile ilgili bilgiler dahil olmak üzere, AB/2018/858 Yönetmeliğinin EK II'sinde listelenen mevzuat kapsamında gerekli genişletilmiş bilgi paketleri.
+c) SGM-2021/29 Tebliğinin EK II’sinin 5.9 uncu maddesinde açıklanan emisyonlar açısından araçların test edilmesi için gerekli şeffaflığın test edilmesine yönelik paket.
+ç) Test edilecek her aracın uygunluk belgesinin bir kopyası.
+d) Testleri gerçekleştirmek için gerekli diğer tüm ilgili teknik bilgiler.
