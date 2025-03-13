@@ -1,0 +1,17 @@
+{
+  "kind": "decision",
+  "issuer": "Sayıştay 8. Dairesi",
+  "number": "342",
+  "decision_date": "2025-03-13",
+  "source_id": 39496,
+  "chamber": "8",
+  "ilam_number": "338",
+  "item_number": 1,
+  "public_body_type": "Belediyeler ve Bağlı İdareler",
+  "account_year": 2018,
+  "subject": "İhale Mevzuatı ile İlgili Kararlar",
+  "source": "https://www.sayistay.gov.tr/KararlarDaire/Detay/39496/",
+  "source_sha256": "08c51c22476f93add74bc60eaaf6a5c5cc26785f7f842b2e668f4a4f5f087d63",
+  "text_status": "metadata-only",
+  "metadata_only_reason": "possible personal name in the official text"
+}
