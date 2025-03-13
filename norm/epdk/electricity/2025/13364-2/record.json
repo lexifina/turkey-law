@@ -1,0 +1,26 @@
+{
+  "kind": "norm",
+  "issuer": "Enerji Piyasası Düzenleme Kurumu",
+  "market": "electricity",
+  "document_type": "board-decision",
+  "number": "13364-2",
+  "decision_date": "2025-03-13",
+  "title": "Standart sözleşme olarak düzenlenen Perakende Satış Sözleşmesine ilişkin",
+  "resmi_gazete_date": "2025-03-18",
+  "resmi_gazete_number": "32845",
+  "categories": [
+    "Diğer Kurul Kararları"
+  ],
+  "source": "https://www.epdk.gov.tr/Detay/DownloadDocument?id=4DvjrVxDhA8=",
+  "documents": [
+    "https://www.epdk.gov.tr/Detay/DownloadDocument?id=4DvjrVxDhA8=",
+    "https://www.epdk.gov.tr/Detay/DownloadDocument?id=m6RbiHuMwr8="
+  ],
+  "source_sha256": "594108f3ef307b03b80873250fe871b648516fe652886a220733feaffe937d4f",
+  "official_list": "https://www.epdk.gov.tr/Detay/Icerik/3-0-39/kurul-kararlari-",
+  "official_list_leaf": 33863,
+  "text_status": "as-enacted",
+  "text_file": "metin.md",
+  "in_force": "2025-03-13",
+  "law_text_complete": true
+}
