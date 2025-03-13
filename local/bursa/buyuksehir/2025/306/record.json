@@ -1,0 +1,12 @@
+{
+  "issuer": "Bursa Büyükşehir Belediye Meclisi",
+  "number": "306",
+  "decision_date": "2025-03-13",
+  "record_type": "metadata-only",
+  "version_label": "metadata-only",
+  "source_record_label": "as-enacted",
+  "source_url": "https://www.bursa.bel.tr/storage/medya/meclis_karar_yeni/2025-306.pdf",
+  "source_sha256": "01ab05a5a7e41034edc70526d02198ac7746a279322c21dbdec5eb398e898c37",
+  "text_status": "withheld-personal-data",
+  "note": "Only record identifiers and the official link are held; full text is withheld pending classification of individual-person content."
+}
