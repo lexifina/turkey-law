@@ -1,0 +1,1337 @@
+13 Mart 2025 PERŞEMBE
+Resmî Gazete
+Sayı : 32840
+TEBLİĞ
+Sermaye Piyasası Kurulundan:
+KRİPTO VARLIK
+HİZMET SAĞLAYICILARIN ÇALIŞMA USUL VE ESASLARI
+İLE SERMAYE YETERLİLİĞİ HAKKINDA TEBLİĞ
+(III-35/B.2)
+BİRİNCİ BÖLÜM
+Başlangıç Hükümleri
+Amaç
+MADDE 1- (1) Bu Tebliğin amacı, kripto varlık hizmet
+sağlayıcıların sunabilecekleri hizmet ve faaliyetler, bunlara ilişkin
+esaslar ile sermaye yeterliliğine ilişkin esasları düzenlemektir.
+Kapsam
+MADDE 2- (1) Bu Tebliğ, kripto varlık hizmet sağlayıcıların
+sunabilecekleri hizmet ve faaliyetler, bunlara ilişkin esaslar, kripto
+varlıkların listeleme esasları, mutabakat sistemi ile sermayelerine ve
+sermaye yeterliliklerine ilişkin ilke ve esasları düzenlemektedir.
+Dayanak
+MADDE 3- (1) Bu Tebliğ, 6/12/2012 tarihli ve 6362 sayılı
+Sermaye Piyasası Kanununun 35/B ve 35/C maddelerine dayanılarak
+hazırlanmıştır.
+Tanımlar
+ve kısaltmalar
+MADDE 4- (1) Bu Tebliğde geçen;
+a) Açık anahtar: Dağıtık defter ağı üzerinden bir
+cüzdandan diğer bir cüzdana kripto varlık gönderilebilmesi için cüzdanı
+eşsiz bir şekilde adresleyen anahtarı,
+b) Banka: 19/10/2005 tarihli ve 5411 sayılı
+Bankacılık Kanununun 3 üncü maddesinde tanımlanan mevduat ve katılım
+bankaları ile kalkınma ve yatırım bankalarını,
+c) BDDK: Bankacılık Düzenleme ve Denetleme
+Kurumunu,
+ç) BIST 100: Borsa İstanbul A.Ş. tarafından
+belirlenen endeksi,
+d) Cüzdan: Kripto varlıkların transfer edilebilmesini
+ve bu varlıkların ya da bu varlıklara ilişkin özel ve açık anahtarların
+depolanmasını sağlayan yazılım, donanım, sistem ya da uygulamaları,
+e) Çok taraflı eşik kriptografisi: Kripto varlığın
+kontrolünü sağlayan özel anahtarın kriptografik yöntemlerle birden fazla
+taraf arasında paylaştırılmasını sağlayan, belirlenmiş sayıda tarafın işlem
+yapması ile imzalama ve sair faaliyetlerin gerçekleşebildiği teknikleri,
+f) Güvenli donanım modülü: Özel anahtarların
+üretimi, veri tabanında saklanması için şifrelenmesi ile yedeklenmesi gibi
+işlemlerin; kurcalama ve yetkisiz erişim gibi tehditlere karşı fiziksel ve
+mantıksal önlemlerle oluşturulan güvenli bir ortamda yapıldığı modülü,
+g) İşlem ortamı: Platform nezdinde kripto
+varlıklara ilişkin müşteri emirlerinin diğer emirlerle eşleştirildiği ortamı,
+ğ) Kanun: 6/12/2012 tarihli ve 6362 sayılı Sermaye
+Piyasası Kanununu,
+h) KAP: Kamuyu Aydınlatma Platformunu,
+ı) Kripto varlık: Dağıtık defter teknolojisi veya
+benzer bir teknoloji kullanılarak elektronik olarak oluşturulup
+saklanabilen, dijital ağlar üzerinden dağıtımı yapılan ve değer veya hak
+ifade edebilen gayri maddi varlıkları,
+i) Kripto varlık hizmet sağlayıcı: Platformları,
+kripto varlık saklama hizmeti sağlayan kuruluşları ve bu Kanuna dayanılarak
+yapılacak düzenlemelerde kripto varlıkların ilk satış ya da dağıtımı dâhil
+olmak üzere kripto varlıklarla ilgili olarak hizmet sağlamak üzere
+belirlenmiş diğer kuruluşları,
+j) Kripto varlık saklama hizmeti: Müşterilerin
+kripto varlıklarının veya bu varlıklara ilişkin cüzdandan transfer hakkı
+sağlayan özel anahtarların saklanmasını, yönetimini veya Kurulca
+belirlenecek diğer saklama hizmetlerini,
+k) Kurul: Sermaye Piyasası Kurulunu,
+l) Kurum kaydi sistemi: Dağıtık defter ağına
+işlenmeyen, platformun işlem platformu/işlem defteri/emir defteri ve
+muhasebe sisteminde yer alan kayıtları,
+m) MASAK: Hazine ve Maliye Bakanlığı Mali Suçları
+Araştırma Kurulu Başkanlığını,
+n) MKK: Merkezi Kayıt Kuruluşu Anonim Şirketini,
+o) Özel anahtar: Cüzdanlardan transfer hakkı
+sağlayan gizli anahtarları,
+ö) Platform: Kripto varlık alım satım, ilk satış ya
+da dağıtım, takas, transfer, bunların gerektirdiği saklama ve
+belirlenebilecek diğer işlemlerin bir veya daha fazlasının
+gerçekleştirildiği kuruluşları,
+p) Proje sahibi: Bir kripto varlığın üretilmesi
+amacıyla proje geliştiren gerçek veya tüzel kişi ya da kişileri,
+r) Saklama kuruluşu: Kripto varlık saklama
+hizmetinde bulunmak üzere Kurulca yetkilendirilmiş kuruluşu,
+s) Sıcak cüzdan: Kripto varlık hizmet
+sağlayıcıların müşterilerinin kripto varlık transferlerini karşılamak için
+kullandıkları, internete bağlı olan ve soğuk cüzdan özelliği göstermeyen
+cüzdan teknolojisini,
+ş) Soğuk cüzdan: Kripto varlığın kontrolünü
+sağlayan anahtarların fiziksel, idari ve teknik bilgi güvenliği kontrolleri
+ile korunduğu, işlem onaylama ve işlem imzalama gibi kritik işlemlerin
+yetkili personel müdahalesiyle fiziki veya teknik hava boşlukları ile
+internetten izole edilmiş ortamlarda yapılmasına olanak sağlayan cüzdan
+teknolojisini,
+t) TEFAS: Türkiye Elektronik Fon Alım Satım
+Platformunu,
+u) Token: Kendine ait bir dağıtık defter ağı
+bulunmaksızın, mevcut bir dağıtık defter teknolojisi üzerinde akıllı
+sözleşmeler yardımıyla oluşturulan, belirli bir ekosistem içinde değer,
+hizmet veya hakkı temsil eden kripto varlıkları,
+ü) Transfer: Cüzdanlarda bulunan kripto varlıkların
+dağıtık defter teknolojisi üzerinden başka cüzdanlara aktarımını,
+v) TÜBİTAK: Türkiye Bilimsel ve Teknolojik
+Araştırma Kurumunu,
+y) TÜBİTAK Altyapı Kriterleri: TÜBİTAK tarafından
+kripto varlık hizmet sağlayıcıların bilgi sistemleri ve teknolojik
+altyapılarına ilişkin olarak hazırlanan dokümanı,
+z) III-35/B.1 sayılı Tebliğ: 13/3/2025 tarihli ve
+32840 sayılı Resmî Gazete’de yayımlanan Kripto Varlık Hizmet Sağlayıcıların
+Kuruluş ve Faaliyet Esasları Hakkında Tebliğ (III-35/B.1)’i,
+aa) III-37.1 sayılı Tebliğ: 11/7/2013 tarihli ve
+28704 sayılı Resmî Gazete’de yayımlanan Yatırım Hizmetleri ve Faaliyetleri
+ile Yan Hizmetlere İlişkin Esaslar Hakkında Tebliğ (III-37.1)’i,
+bb) VII-128.10 sayılı Tebliğ: 13/3/2025 tarihli ve
+32840 sayılı Resmî Gazete’de yayımlanan Bilgi Sistemleri Yönetimine İlişkin
+Usul ve Esaslar Tebliği (VII-128.10)’ni
+ifade eder.
+İKİNCİ BÖLÜM
+Kripto Varlık Hizmet Sağlayıcıların Sunabilecekleri
+Hizmet ve Faaliyetler
+Kripto
+varlık hizmet sağlayıcıların hizmet ve faaliyetleri
+MADDE 5- (1) Kuruldan izin almak kaydıyla yapılabilecek ve
+bu Tebliğ ile düzenlenen hizmet ve faaliyetler şunlardır:
+a) Kripto varlıklarla ilgili emirlerin alınması ve
+gerçekleştirilmesi, takası, kripto varlıkların transferi ile bunların
+gerektirdiği saklama hizmetleri.
+b) Kripto varlıkların ilk satış ya da dağıtımına
+aracılık edilmesi.
+c) Kripto varlıkların veya bu varlıklara ilişkin
+özel anahtarların saklanması, yönetimi veya Kurulca belirlenecek diğer
+saklama hizmetleri.
+ç) Kripto varlıklara yönelik yatırım danışmanlığı
+faaliyetinde bulunulması.
+d) Kurulca belirlenecek diğer hizmet ve
+faaliyetlerde bulunulması.
+Kripto
+varlık hizmet ve faaliyetleri için izin alma zorunluluğu
+MADDE 6- (1) Bu Tebliğ ile düzenlenen hizmet ve
+faaliyetlerin her birinin düzenli uğraşı, ticari veya mesleki faaliyet
+olarak icra edilebilmesi için Kuruldan izin alınması zorunludur.
+(2) Kripto varlık hizmet sağlayıcılarca
+sunulabilecek hizmet ve faaliyetler ancak Kanunun 35/B ve 35/C maddelerince
+yetkilendirilmiş kripto varlık hizmet sağlayıcıları tarafından yerine
+getirilebilir.
+(3) Kripto varlık hizmet sağlayıcıların müşterileri
+dışındaki taraflarla herhangi bir kripto varlık hizmeti sunma amacı
+olmaksızın kendi cüzdanları için kripto varlıklara ilişkin alım, satım ve
+transfer işlemleri yapmaları Kurul iznine tabi değildir.
+(4) Borsa İstanbul A.Ş., İstanbul Takas ve Saklama
+Bankası A.Ş., MKK ve kamu kurumları ile Kurulca belirlenecek diğer
+kurumların bu Tebliğ kapsamında sunacakları hizmet ve faaliyetler
+bakımından Kurul farklı esaslar belirleyebilir.
+Diğer
+hizmetler
+MADDE 7- (1) Kripto varlık hizmet sağlayıcıların yetkili
+oldukları hizmet ve faaliyetlere bağlı olarak sunabilecekleri diğer
+hizmetler şunlardır:
+a) Dijital varlıkların temsilini ve sahipliğini
+kaydetmek için kullanılan, misli olmayan ve benzersiz nitelikteki varlıklar
+ile sadece sanal oyunlarda çeşitli unsurlar oluşturmak ya da temin etmek
+amacıyla kullanılan varlıkların alım-satım, ilk satış ya da dağıtım, takas,
+transfer ve saklama işlemleri.
+b) Kripto varlıklara ilişkin olarak finansal analiz
+yapılması ve genel tavsiyede bulunulması hizmetleri.
+(2) Kurulca, birinci fıkrada belirtilenler dışında
+bir hizmet belirlenebilir.
+Diğer
+hizmetler için bildirim zorunluluğu
+MADDE 8- (1) Diğer hizmetler, kripto varlık hizmet
+sağlayıcılar tarafından ayrıca bir yetki belgesine tâbi olmaksızın Kurulca
+belirlenen esaslar çerçevesinde yapılır.
+(2) Kripto varlık hizmet sağlayıcılar, faaliyet
+izni başvuruları sırasında sunmayı planladıkları diğer hizmetleri de Kurula
+bildirmekle yükümlüdürler. Faaliyet izninin alınmasından sonra, başka diğer
+hizmetlerin de sunulmak istenmesi halinde, bunlar için de ayrıca Kurula
+bildirimde bulunulur.
+(3) Kurula yapılan bildirimi takiben yirmi iş günü
+içinde Kurulca aksi yönde görüş bildirilmedikçe, bildirimde bulunulan diğer
+hizmetler bu Tebliğde belirtilen esaslara uygun olarak yürütülmeye
+başlanır. Kurulca istenecek eksik bilgi ve belgelerin tamamlanması için
+geçen süreler bu sürenin hesabında dikkate alınmaz.
+Yurt
+dışında yerleşik kuruluşların faaliyetleri
+MADDE 9- (1) Türkiye’deki yerleşik kişilere yönelik tanıtım,
+reklam ve pazarlama gibi faaliyetlerde bulunulmaması şartıyla, Türkiye’de
+yerleşik kişilerin tamamen kendi inisiyatifleri doğrultusunda, yurt dışında
+yerleşik kripto varlık hizmet sağlayıcılardan aldıkları her türlü hizmet
+ile bu kuruluşlar nezdinde açtıkları hesaplar, söz konusu hesaplara
+gönderilen nakit ve kripto varlıklar ile bu hesaplar üzerinden
+gerçekleştirdikleri işlemler bu Tebliğin kapsamı dışındadır.
+(2) Yurt dışında yerleşik kuruluşlar tarafından,
+Türkiye’de iş yeri açılması, Türkçe internet sitesi oluşturulması, sunulan
+yatırım hizmet ve faaliyetlerine ilişkin olarak Türkiye’de yerleşik kişi ya
+da kurumlar aracılığıyla ve/veya doğrudan tanıtım ve pazarlama
+faaliyetlerinde bulunulması durumlarından herhangi birinin varlığı halinde
+faaliyetlerin Türkiye’de yerleşik kişilere yönelik olduğu kabul edilir ve
+ilgili mevzuat hükümleri uygulanır.
+ÜÇÜNCÜ BÖLÜM
+Platform Faaliyetlerine İlişkin Esaslar
+Platform
+faaliyetlerinin kapsamı ve genel esasları
+MADDE 10-
+(1) Platform faaliyetleri,
+platformlar tarafından; kripto varlıklara ilişkin müşteri emirlerinin
+alınması, eşleştirilerek veya karşı taraf olarak gerçekleştirilmesi ve
+takası, ilk satış ya da dağıtımı, transferi, bunların gerektirdiği saklama
+ve belirlenebilecek diğer işlemlerin birini veya birden fazlasını birlikte
+ifade eder.
+(2) Platform faaliyetlerinin yürütülmesi sırasında
+platformların aşağıdaki esaslara uymaları zorunludur:
+a) Platformlar müşteri emirlerini, emir
+gerçekleştirme politikası ve müşteriyle imzalanan çerçeve sözleşmede
+belirtilen esaslar kapsamında yerine getirir.
+b) Müşterilerin nakit alacak bakiyesi, müşteri
+talebi üzerine talebin iletildiği gün itibarıyla bankaya iletilir.
+c) Müşterinin alım, satım ve transfer işlemleri ile
+müşterilere ait nakit ve kripto varlık bakiyeleri, platformun kendi
+hesaplarından ayrı olarak, kurum kaydi sistemi üzerinde müşteri bazında,
+tam, doğru ve güncel şekilde takip edilir.
+(3) Müşteriler arasında doğrudan kripto varlıkların
+alım, satım ve takasının yapılmasına imkan sağlayan eşler arası dijital
+pazar yerlerinin işletilmesi faaliyetleri de birinci fıkra kapsamında
+değerlendirilir. Eşler arası dijital pazar yerlerinin işletilmesinde bu
+Tebliğ ile müşterinin tanınması kuralı bakımından III-35/B.1 sayılı Tebliğde
+belirlenen kural ve sınırlamalara uyulur.
+(4) Müşterilerin talep etmesi halinde platformlar
+tarafından, müşterilerle imzalanacak çerçeve sözleşme hükümleri kapsamında,
+dağıtık defter ağının yapısı gereği ağa ait kripto varlıklar kilitlenerek
+vade sonunda mislen iade edilmesi işlemleri yapılabilir.
+(5) Platformların diğer platformlara likidite
+sağlayıcılık veya piyasa yapıcılık hizmeti sunması mümkündür.
+(6) Asli faaliyeti yalnızca dijital varlıkların
+temsilini ve sahipliğini kaydetmek için kullanılan, misli olmayan ve
+benzersiz nitelikteki varlıklar ile sadece sanal oyunlarda çeşitli unsurlar
+oluşturmak ya da temin etmek amacıyla kullanılan varlıkların alım, satım,
+ilk satış ya da dağıtım, takas, transfer ve saklama işlemlerini
+gerçekleştirmek olan kuruluşların faaliyetleri platform faaliyeti olarak değerlendirilmez.
+(7) Asli faaliyeti yalnızca likidite sağlamak üzere
+platformlara fiyat vermek ve verilen fiyatlar üzerinden işlem
+gerçekleştirmek olan ve Kanunun platform tanımı kapsamına girecek şekilde
+yatırımcılara harici bir hizmet sunmayan kuruluşlar tarafından yürütülen
+faaliyetler platform faaliyeti olarak değerlendirilmez.
+Platformların
+işlem ortamı oluşturması
+MADDE 11-
+(1) Platformlar tarafından müşteri
+emirleri işlem ortamında gerçekleştirilebilir. İşlem ortamında müşteri
+emirlerinin eşleştirilmesi, müşteri emrinin karşı tarafının ilgili varlıkta
+hem alım hem satım fiyatı sağlayan yurt içi veya yurt dışında yerleşik bir
+kuruluş olması suretiyle de gerçekleştirilebilir.
+(2) Platformlar tarafından müşteri emirlerinin
+işlem ortamında gerçekleştirilmesi halinde, yurt dışında yerleşik
+kuruluşlar veya bu kuruluşların müşterileri tarafından platformun işlem
+ortamına emir girilmesi mümkündür. İşlem ortamının yurt dışında yerleşik
+kuruluşlara açılması, platformun mevzuattan doğan sorumluluğunu ortadan
+kaldırmaz.
+(3) Platformların, yurt dışı kuruluşların işlem
+ortamına emir girmesine imkan tanımadan önce bu kuruluşlardan, işlem ortamında
+emir girişi yapan müşterilerine ait 11/10/2006 tarihli ve 5549 sayılı Suç
+Gelirlerinin Aklanmasının Önlenmesi Hakkında Kanun ve ilgili mevzuat
+hükümleri çerçevesinde gerekli tüm bilgi ve belgelerin alınması zorunludur.
+Platformların, 7/2/2013 tarihli ve 6415 sayılı Terörizmin Finansmanının
+Önlenmesi Hakkında Kanun ile 27/12/2020 tarihli ve 7262 sayılı Kitle İmha
+Silahlarının Yayılmasının Finansmanının Önlenmesine İlişkin Kanun
+kapsamındaki yükümlülükleri yurt dışı kuruluşlar ile bu kuruluşların müşterileri
+açısından da uygulanır.
+(4) İkinci fıkra kapsamında yapılacak işlemlere
+ilişkin olarak platform ile yurt dışında yerleşik kuruluş arasında sözleşme
+imzalanması ve bu kuruluşlardan alınacak hizmetin hangi kripto varlıkları
+kapsadığı hususuna platformların internet sitelerinde yer verilmesi
+gerekir.
+(5) Platformların kendilerine ait işlem ortamına,
+yatırımcı ile arasında çıkar çatışmasına sebep olmayacak şekilde ve 18 inci
+madde uyarınca belirlenen esaslar çerçevesinde emir girmesi mümkündür.
+(6) Platformlar tarafından; kripto varlığın proje
+sahibi, alıcıların ve satıcıların nitelikleri, listeye alma şartları,
+likidite durumları ve benzeri ölçütler dikkate alınarak kripto varlıkların
+işlem göreceği farklı pazarlar kurulabilir. Her bir pazar için farklı
+işleyiş kuralları oluşturulabilir. Kurul gerekli görmesi halinde bu konuda
+esaslar belirleyebilir.
+Platformların
+müşteri emirlerini karşı taraf olarak gerçekleştirmesi
+MADDE 12-
+(1) Platformlar tarafından müşteri
+emirleri, işlem ortamı haricinde, doğrudan kendi cüzdanından karşılanmak
+suretiyle gerçekleştirilebilir. Müşteri emirlerinin karşı taraf olarak
+gerçekleştirilmesi durumunda, müşterinin zarar etmesinin platformun kar
+elde etmesiyle sonuçlanabileceği hususunda yatırımcılar bilgilendirilir.
+(2) Likidite sağlama ve piyasa yapıcılık
+faaliyetleri kapsamında gerçekleştirilen işlemler hariç olmak üzere,
+platformlar tarafından müşterilerine karşı taraf oldukları işlemlerde,
+platformların cüzdanlarında var olan kripto varlıklar kadar satış yapılması
+esastır. 33 üncü maddenin ikinci fıkrasında belirtilen saat itibarıyla bu
+madde kapsamındaki işlemler neticesinde oluşan bakiyeler netleştirilir.
+Platformların
+fiyat gözetim sistemi
+MADDE 13-
+(1) Platformlar fiyat gözetim
+sisteminin yürütülmesini teminen bir birim oluşturmak ve bu birimde
+çalışmak üzere münhasıran en az bir risk yönetim personelini görevlendirmek
+zorundadır. Söz konusu birim, III-35/B.1 sayılı Tebliğin 45 inci maddesi
+kapsamında oluşturulan risk yönetim sisteminin bir parçası olarak oluşturulabilir.
+(2) Fiyat gözetim birimi, platformlarda
+gerçekleştirilen, makul ve ekonomik bir gerekçeyle açıklanamayan eylem ve
+işlemler ile platformlar nezdindeki işlemlerin güven, açıklık ve istikrar
+içinde çalışmasını bozacak nitelikteki eylem ve işlemlere ilişkin
+tespitleri yapmak ve ulaşılan tespitleri rapora bağlayarak genel müdüre
+sunmakla yükümlüdür. Genel müdür bu nitelikteki eylem ve işlemleri
+gerçekleştiren hesapların kısıtlanması, durdurulması ve kapatılması dahil
+olmak üzere gerekli tedbirleri almak ve bu kapsamda derhal Kurula
+bildirmekle yükümlüdür.
+(3) Fiyat gözetim sisteminin işleyişi, kullanılacak
+araç ve yöntemler ile bunların kullanım esasları ve alınacak tedbirler
+oluşturulan ve yönetim kurulu kararına bağlanan yazılı prosedürde
+belirlenir.
+(4) Bu maddede belirtilen yükümlülükler, Kurulca
+yurt dışı piyasalarda yaygın olarak işlem gördüğü değerlendirilen ve fiyatı
+yurt dışı piyasalarda da oluşan kripto varlıklara ilişkin işlemler için
+uygulanmaz.
+Platformların
+kaldıraçlı, kredili ve türev işlemleri
+MADDE 14-
+(1) Platformlar nezdinde
+listelenmiş kripto varlıklar kaldıraçlı olarak alınıp satılamaz, türev araç
+sözleşmelerine ve Kurulun kredili işlem düzenlemeleri uyarınca kredili
+alım, açığa satış ve ödünç işlemlerine konu edilemez.
+Kripto
+varlıklara yönelik yatırım danışmanlığı ve portföy yöneticiliği
+faaliyetinde bulunulması
+MADDE 15-
+(1) Yatırım danışmanlığı,
+platformlar tarafından, müşteri talebi doğrultusunda veya müşteri talebi
+olmaksızın kripto varlıklar hakkında, belli bir kişiye veya mali durumları,
+risk ve getiri tercihleri benzer nitelikteki bir gruba yönelik olarak
+yönlendirici nitelikte yorum ve tavsiyelerde bulunulması faaliyetidir.
+Yatırım danışmanlığı faaliyeti yalnızca, hizmetin alınacağı platform
+nezdindeki kripto varlık büyüklüğünün cari değeri asgari 50.000.000 TL olan
+müşterilere yönelik olarak yapılabilir.
+(2) Platformların birinci fıkra kapsamında
+sunacakları faaliyete ilişkin olarak, dört yıllık lisans eğitimi veren
+kurumlardan mezun ve finans piyasalarında en az üç yıllık tecrübesi olan
+yeterli sayıda yatırım danışmanının istihdam edilmiş olması ve III-37.1
+sayılı Tebliğde belirlenen esaslara uygun olarak oluşturulacak araştırma
+birimini kurmuş olması gerekir. Yatırım danışmanlığı faaliyetinin
+sunulmasında, III-37.1 sayılı Tebliğde yatırım danışmanlığına ilişkin
+belirlenen esaslar kıyasen uygulanır.
+(3) Müşteri portföylerinin her bir müşteri adına,
+doğrudan veya dolaylı bir menfaat sağlamak üzere vekil sıfatıyla veya bu
+sonucu doğuracak şekilde müşterinin sözlü yetkisine istinaden yönetilmesi
+yasaktır.
+(4) Kripto varlıklara yönelik finansal analiz
+yapılması ve genel tavsiyede bulunulması yatırım danışmanlığı faaliyeti
+olarak değerlendirilmez ve bu hizmetlerin sunulmasında 50 nci maddede
+belirlenen esaslara uyulur.
+Platformların
+ilk satış ya da dağıtıma aracılık hizmeti
+MADDE 16-
+(1) Platformlar, ilk satış ya da
+dağıtımına aracılık edecekleri her bir kripto varlığın türüne ve hukuki
+niteliğine göre akıllı sözleşmelere yazılacak asgari unsurları kontrol
+etmek ve sözleşmelerin doğruluğunu incelemekle yükümlüdür.
+(2) Platformlar, bu Tebliğde belirtilen asgari
+listeleme kriterlerine uygun olmadığı değerlendirilen kripto varlıkların
+ilk satış ya da dağıtımına aracılık edemez.
+(3) Kanunun 13 üncü maddesi kapsamında Kurulun
+sermaye piyasası araçlarının kripto varlık olarak ihracına ve bunların
+oluşturulup saklandıkları kripto varlık hizmet sağlayıcılar tarafından
+sunulan elektronik ortam nezdinde kayden izlenmesine ilişkin belirleme
+yapması halinde, platformlar ihracına aracılık edecekleri sermaye piyasası
+aracı niteliğindeki kripto varlıkların, Kurulun ilgili düzenlemelerinde
+belirlenen esas ve sorumlulukların yerine getirilmesine imkan sağlayacak
+şekilde oluşturulduğunun kontrolünden sorumludur.
+(4) Konusu ve niteliği itibarıyla farklı kurum ve
+kuruluşların düzenleme alanına giren varlıkların token olarak satış ya da
+dağıtımının yapılması durumunda, platformlar ilgili kurum veya kuruluşun
+mevzuatındaki şartların yerine getirildiğini teyit etmekle ve akıllı
+sözleşmenin düzenlemelere uyum sağlayabilecek şekilde oluşturulduğunu
+kontrol etmekle yükümlüdürler.
+(5) Dördüncü fıkra kapsamında yapılacak satış ya da
+dağıtım, platformların veya kripto varlığın ilk satış ya da dağıtımını
+yapan şirkete veya proje sahibinin kendilerinin geliştirdiği dağıtık defter
+teknolojileri üzerinden yapılabileceği gibi var olan dağıtık defter
+teknolojileri üzerinden de yapılabilir. Her iki durumda da platformlar ilk
+satış ya da dağıtımına aracılık ettikleri kripto varlığın akıllı
+sözleşmesine ilişkin bu maddede belirtilen hususlarda sorumludur.
+(6) Aynı kripto varlığın her platformda ilk defa
+listeye alınması ilgili varlığın ilgili platform bakımından ilk satış ya da
+dağıtıma aracılığı kapsamında değerlendirilir. Listeden çıkarılan varlığın
+tekrar listeye alınması bu kapsama girmez.
+(7) İlk satış ya da dağıtımına aracılık edilen
+kripto varlıkların saklama altyapısının oluşturulabilir olması gerekir.
+Müşterilere
+ait kripto varlıkların platformlar nezdinde saklanması
+MADDE 17-
+(1) Platformlar tarafından
+müşterilerine ait kripto varlıklar, sermaye yeterliliği yükümlülüklerinde
+belirlenen sınırlamalara uygun olmak kaydıyla, toplu bir şekilde bir veya
+birden fazla cüzdanda saklanabilir.
+(2) Birinci fıkrada belirtilen hususun yanı sıra,
+saklama kuruluşları tarafından platformlarda listelenmiş bir kripto varlığa
+ilişkin saklama hizmeti sunulamaması halinde, sermaye yeterliliği hükümleri
+saklı kalmak kaydıyla, platformlar azami altı ay süreyle söz konusu varlığı
+saklayabilir. Bu sürenin sonunda ilgili kripto varlıkların müşterilere
+bilgi verilmek suretiyle müşterilerin bildirdiği cüzdan adreslerine
+transferi yapılır. Müşterinin cüzdan adresi bildirmemesi veya müşteriye
+ulaşılamaması durumunda, ilgili kripto varlığın çerçeve sözleşmede belirtilen
+esaslar kapsamında satılarak nakdin müşteri hesabına aktarılması veya bu
+konuda müşteriye bilgi vermek suretiyle varlıkların platformda saklanmaya
+devam edilmesi mümkündür.
+(3) Platform nezdinde saklanan kripto varlıkların,
+mutabakat işlemleri ile müşteri talepleri haricinde saklama kuruluşu
+nezdindeki cüzdanlara transfer edilmesi ihtiyaridir.
+(4) Platformlar nezdinde saklanan kripto varlıklar
+için bu Tebliğde saklamaya ilişkin belirlenen esaslara uyulur.
+Emir ve
+transfer gerçekleştirme politikası ve işlem esasları
+MADDE 18-
+(1) Platformlar müşterilerin
+fiyat, maliyet, hız, gerçekleşme olasılığı, takas, büyüklük, saklama ve
+benzeri hususlardaki tercihlerini göz önüne alarak emir gerçekleştirme
+politikası ve işlem esasları çerçevesinde müşteri için mümkün olan en iyi
+sonucu verecek şekilde emirleri yerine getirmekle yükümlüdür.
+(2) Platformlar tarafından işlemlerin güvenilir,
+şeffaf, etkin, istikrarlı, adil, dürüst ve rekabetçi bir şekilde gerçekleşmesinin
+sağlanması ve piyasa bozucu nitelikteki eylem ve işlemlerin tespit edilmesi,
+önlenmesi ve tekrarlanmamasını sağlayacak şekilde emir ve işlem esasları
+belirlenir ve buna yönelik olarak yönetim kurulu kararı ile yürürlüğe
+girecek bir emir gerçekleştirme politikası oluşturulur. Söz konusu
+politikada asgari olarak aşağıdaki hususlar yer alır:
+a) Emir tipleri, emir geçerlilik süreleri, emir
+kabul ve iptal esasları.
+b) Piyasa yapıcı ve/veya likidite sağlayıcıların
+görevlendirilme esasları ve bunların sözleşme ilişkisi kapsamında
+belirlenen hak ve yükümlülükleri.
+c) Bekleyen emirlerin veya gerçekleşen işlemlerin
+asgari olarak aşağıda yer alan kıstaslar dahilinde değiştirilme ve iptal
+edilme esasları.
+1) Sistemden ve ona bağlı çalışan uygulamalarda
+ortaya çıkabilecek platformdan kaynaklanmayan olağan dışı durumlar ve bu
+durumlara yönelik uygulama esasları.
+2) Müşteri tarafından alım satım sistemlerine
+iletilen hatalı emir veya emirler sonucunda gerçekleşen işlemler.
+3) İşlem gören kripto varlıkların işlemlerini
+durduracak diğer maddi unsurlar.
+ç) Verilecek emirlerde uygulanacak fiyat adımları
+ve listelenecek kripto varlıklarda fiyat gösterim esasları.
+(3) Emir gerçekleştirme politikaları yılda en az
+bir defa gözden geçirilir. Söz konusu politika, Kurul tarafından yapılan
+mevzuat değişikliklerinin işlenmesi ve uygulamada kazanılan deneyimler
+dikkate alınarak ayrıca gözden geçirilir ve politikada gerekli
+güncellemeler yapılır.
+(4) İşlem ortamı veya müşteri emirlerinin
+karşılanmasına yönelik politikada yapılacak değişiklikler müşterilere en
+geç on beş gün önceden bildirilir. Bildirimin yapıldığına ilişkin ispat
+yükü platformlardadır.
+(5) İletilen ve kabul edilen bütün emirlere
+platform sistemi tarafından bir emir numarası verilir. Emir numarası
+verilen emirler, birinci fıkra uyarınca hazırlanan emir politikası
+çerçevesinde geçerli olan emir, işlem ve öncelik kurallarına göre bekleyen
+diğer emirlerle eşleştirilerek işleme dönüşür ya da işleme dönüşmeden
+ilgili emir defterine kaydedilir.
+(6) Platform sistemine kaydedilen emirlerin
+eşleştirilmesinde öncelik kuralı olarak sırasıyla fiyat ve zaman önceliği
+kuralları uygulanır. Fiyat önceliği kuralı, daha düşük fiyatlı satım
+emirlerinin, daha yüksek fiyatlı satım emirlerinden; daha yüksek fiyatlı
+alım emirlerinin ise daha düşük fiyatlı alım emirlerinden önce
+karşılanmasını; zaman önceliği kuralı da fiyat eşitliği halinde sisteme
+zaman açısından daha önce kaydedilen emirlerin öncelikli karşılanmasını
+ifade eder.
+Piyasada
+oluşan özel hallerin raporlanması
+MADDE 19-
+(1) Platformlar tarafından
+aşağıdaki hallerde müşterilerin kayıtlı iletişim adresleri üzerinden yazılı
+veya elektronik olarak bildirim yapılır:
+a) Platformlar tarafından müşteri işlemlerinin
+yapılmasını engelleyecek düzeydeki teknik sorunlar.
+b) Dağıtık defter ağının kendi yapısından
+kaynaklanan ve platformlar tarafından bilinen veya bilinmesi beklenen
+değişiklikler ile bu değişikliklerin piyasaya potansiyel etkisi.
+c) Platformdan kaynaklanan kripto varlık
+kayıplarının giderilmesine ilişkin uygulama adımları.
+(2) Müşterilere yapılacak bildirimlerde bildirimin
+yapıldığına dair ispat yükü platforma aittir.
+DÖRDÜNCÜ BÖLÜM
+Listeleme Esasları
+Listeleme
+komitesi
+MADDE 20-
+(1) Platform yönetim kurulu
+tarafından oluşturulacak listeleme komitesinin;
+a) En az üç üyeden oluşması,
+b) Üye sayısının çoğunluğunun finans, hukuk, bilgi
+teknolojileri, bilgi güvenliği ve dağıtık defter ağı teknolojileri
+alanlarında en az yedi yıllık tecrübeye sahip kişilerden olması,
+c) Asgari bir üyesinin platformun yönetim kurulu
+üyesi olması,
+zorunludur.
+(2) Listeleme komitesi, kripto varlıkların
+listelenmesine ve listeden çıkarılmasına ilişkin kararların verilmesi ile
+listelenecek kripto varlıkların 21 inci maddedeki esaslar bakımından
+uygunluğunu gerekli basiret ve özeni göstererek kontrol etmekle yükümlüdür.
+(3) Listeleme komitesi, kripto varlıkların 22 nci
+madde uyarınca hazırlanacak prosedür çerçevesinde listelenebilir olup
+olmadığına veya listelenmiş bir kripto varlığın listeden çıkarılması
+gerektiğine ilişkin bir değerlendirme raporu hazırlar ve kripto varlıklar
+değerlendirme raporlarının sonucuna göre listelenir veya listeden
+çıkarılır. Söz konusu raporlar kripto varlık hizmet sağlayıcılara ilişkin
+belge kayıt düzenlemeleri çerçevesinde saklanır.
+(4) Birinci fıkranın (c) bendi haricinde, üyelerin
+platform personeli olması zorunlu değildir. Ancak bu nitelikteki komite
+üyeleri III-35/B.1 sayılı Tebliğde belirtilen personele ilişkin ilke ve
+esaslara tabidir.
+(5) Listeleme komitesi üyeliklerine yapılan
+atamalar ve üyelikten ayrılmalar, gerekçesi ile birlikte platform tarafından
+yazılı olarak iki iş günü içinde Kurula ve Sermaye Piyasası Lisanslama
+Sicil ve Eğitim Kuruluşu Anonim Şirketine bildirilir.
+Listelenebilecek
+kripto varlıklar
+MADDE 21-
+(1) 17 nci maddenin ikinci fıkrası
+hariç olmak üzere, platformlarda Kurulca yetkilendirilmiş saklama
+kuruluşlarında saklanabilen kripto varlıkların listelenmesi esastır.
+Platformlarda listelenecek kripto varlıkların aşağıda yer alan esaslara
+uygun olması gerekir:
+a) 16 ncı maddenin birinci, üçüncü ve dördüncü
+fıkralarında belirlenen esaslara uygun nitelikte olması.
+b) Kripto varlığın dayanak varlığının ihracına ve
+alım satım işlemlerine konu edilmesine ilişkin olarak ilgili otoritelerce
+sınırlama veya yasak getirilmemiş olması, yasal düzenlemeleri aşacak
+şekilde veya önemli ölçüde bu amaçla kullanılabilecek nitelikte olmaması.
+c) Proje sahibine tek taraflı olağanüstü hak
+sağlayacak şekilde oluşturulmamış olması.
+ç) Proje sahibinin suçtan kaynaklanan malvarlığı
+değerlerini aklama ve terörizmin finansmanı ile 7262 sayılı Kanun hükümleri
+kapsamında ulusal veya uluslararası yasaklı listelerinde olmaması.
+d) Cüzdan adreslerini gizleyerek transfer
+işlemlerine imkan sağlayan nitelikte olmaması.
+e) Soğuk cüzdanlarda saklanabilir özellikte olması.
+(2) Platformlar, 16 ncı maddenin üçüncü ve dördüncü
+fıkralarında belirtilen ve Kurulca belirlenen diğer kripto varlıklar
+haricinde, kendilerinin veya;
+a) Bir gerçek kişi ile eş ve velayeti altındaki
+çocuklarının, bunların sınırsız sorumlulukla katıldıkları veya yönetim
+kurulu başkanı, üyesi, genel müdür, genel müdür yardımcısı oldukları
+ortaklıkların,
+b) Kamu tüzel kişileri hariç olmak üzere bir tüzel
+kişinin veya yukarıda sayılanların, sermayelerinin veya oy haklarının
+doğrudan veya dolaylı olarak %10 veya daha fazlasına iştirak ettikleri
+ortaklıkların,
+c) Kurul tarafından aralarında istihdam ilişkisi,
+akdi ilişki ya da sair nedenlerle birlikte hareket ettiği belirlenenlerin,
+ilk satış ya da dağıtımını yaptığı kripto
+varlıkları listeleyemez.
+(3) 7 nci maddenin birinci fıkrasının (a) bendinde
+belirtilen varlıklar listeleme esasları dışındadır.
+Platformların
+listeleme ve listeden çıkarma prosedürü
+MADDE 22-
+(1) Platformlar tarafından kendi
+nezdlerinde işlem görecek kripto varlıkların belirlenmesine ve bunların
+işlem görmesinin sonlandırılmasına yönelik esasların belirlendiği yazılı
+bir prosedür oluşturulması zorunludur. Söz konusu prosedür, 21 inci maddede
+yer alan kriterlerin yanı sıra, asgari olarak aşağıda belirtilen esaslar
+dikkate alınarak hazırlanır ve yönetim kurulu kararı ile yürürlüğe girer:
+a) Kripto varlığın kullanıcısına bir hak tanıyıp
+tanımadığı ve bu hakkın niteliği.
+b) Kripto varlığın işlem hacmi ve dolaşımdaki arzı.
+c) Kripto varlığın arzının sınırlı olup olmadığı.
+ç) İşlem hızı ve ilgili varlığa özgü maliyetler.
+d) Kripto varlığın ve kripto varlıkla ilişkili
+dağıtık defter ağı dahil sistemlerinin güvenilirliği.
+e) Kripto varlık işlemlerinin takip edilebilirliği.
+f) Kripto varlığın geçmiş dönemlerdeki fiyat
+hareketleri.
+g) Kripto varlığın herhangi bir nedenle fiyat
+manipülasyonuna veya dolandırıcılığa yatkın olup olmadığı ve platform
+tarafından uygulanabilecek herhangi bir çözüm veya hafifletici önlemin
+bulunup bulunmadığı.
+ğ) Kripto varlığın değerinin algoritmik olarak
+belirlenip belirlenmediği.
+h) Proje sahibinin bilinebildiği durumlarda,
+dolandırıcılık veya Kanunda tanımlanan sermaye piyasası suçlarıyla ilgili
+olarak herhangi bir soruşturma veya iddiaya konu edilip edilmediği de dâhil
+olmak ancak bunlarla sınırlı olmamak üzere kripto varlığın ilk satış ya da
+dağıtımını yapan şirket veya proje sahibinin geçmişi.
+ı) Kripto varlık herhangi bir başka varlığın veya
+yasal hakkın sahipliğini temsil ediyorsa, bu hakların kullanılabilirliği.
+i) Kripto varlığın Türkiye’deki ve yurt dışındaki
+düzenlemelere göre durumu, özellikle de kripto varlığın ihracı için
+herhangi bir düzenleyici otoriteden onay alınıp alınmadığı veya
+düzenlemelerin ihlal edilip edilmediği.
+j) Bir kişi ya da grubun kripto varlığın sahiplik
+veya kontrolündeki ağırlığının derecesi.
+k) Kripto varlıkların çatallanma işlemleriyle
+ilgili potansiyel güvenlik riskleri.
+(2) Listeleme ve listeden çıkarma prosedürü
+çerçevesinde listelemeye uygun görülen kripto varlıklara yönelik güncel
+liste ile listeleme prosedürü, platformların internet sitesinde yayımlanır.
+Son altı ay içerisinde yayımlanan listeler tarihsel bazda geriye dönük
+tarama yapılabilecek şekilde erişime açılır.
+(3) Listeleme ve listeden çıkarma prosedürü yılda
+en az bir kez gözden geçirilir. Platformlar, listeledikleri kripto
+varlıkların ve bu kripto varlıkların ilk satış ya da dağıtımını yapan
+şirket veya proje sahibinin mali gücü, siber güvenlik açıkları, yurt içi ve
+yurt dışı mevzuata uyumu veya müşteri mağduriyetine sebep olabilecek
+nitelikteki teknolojik veya altyapısal sorunları takip etmek ve listeleme
+prosedüründe buna ilişkin gerekli güncellemeleri yapmakla yükümlüdür.
+(4) Olağanüstü bir durum sebebiyle bir kripto
+varlığın listeden çıkarılması ihtiyacının ortaya çıkması durumunda alınacak
+tedbirlere de listeleme ve listeden çıkarma prosedüründe yer verilir.
+(5) Listelenen ve listeden çıkarılan kripto
+varlıkların MKK’ya bildirilmesine ilişkin olarak MKK tarafından belirlenen
+esaslara uyulur.
+Listeden
+çıkarma
+MADDE 23-
+(1) Platformlar, listelemiş
+oldukları kripto varlıkların listeleme ve listeden çıkarma prosedüründe
+belirlediği kıstasları artık sağlanmadığını tespit etmeleri halinde, ilgili
+kripto varlıkları hazırlayacakları değerlendirme raporu çerçevesinde
+listeden çıkarabilir. Bu durumda platformlar, ikinci ve üçüncü fıkralarda
+belirtilen esaslar hariç olmak üzere, listeden çıkarmayı planladıkları
+kripto varlıkları en az yedi gün önceden müşterilerine kayıtlı iletişim
+araçları üzerinden bildirmekle yükümlüdür.
+(2) Kripto varlığın, global ölçekteki bir kripto
+varlık platformu tarafından listeden çıkarılması durumunda, platformların
+ilgili kripto varlığı yedi gün beklemeksizin yatırımcıları en az bir gün
+önceden bilgilendirmek kaydıyla listeden çıkarmaları mümkündür. Global
+piyasalarda ortaya çıkan olağanüstü durumlar sebebiyle yapılan listeden
+çıkarma işlemlerinde bir günlük süre beklenmeyebilir.
+(3) Aşağıdaki durumlarda yedi günlük süre
+beklenmeksizin kripto varlıklar listeden çıkarılabilir ve ilgili kripto
+varlıklara yönelik alım, satım ve transfer işlemlerinin tamamı durdurulur:
+a) 21 inci maddenin birinci fıkrasında belirlenen
+esaslara uygun olmadığının platform tarafından sonradan tespit edilmesi
+veya platforma bu hususta kamu otoriteleri veya adli yargı makamlarından
+talep gelmesi.
+b) İlgili kripto varlığın veya ilişkili dağıtık
+defter ağının sistemlerinin güvenilirliği hususunda makul şüphe oluşması.
+(4) Birinci ve ikinci fıkralar kapsamında listeden
+çıkarma kararı verilen kripto varlıklara yönelik olarak, platformlar
+tarafından eşler arası dijital pazar yerlerinde işlem görmesine imkan
+sağlanabilir. Her halükarda, müşteri talepleri çerçevesinde ilgili kripto
+varlıkların mislen veya nakden iade edilmesine imkan sağlanır.
+BEŞİNCİ BÖLÜM
+Saklama Hizmeti ve Transfer Esasları
+Kripto
+varlık saklama hizmetinin kapsamı
+MADDE 24-
+(1) Kanunun 35/C maddesinin
+altıncı fıkrası uyarınca platform müşterilerine ait kripto varlıkların
+müşterilerin kendi cüzdanlarında bulundurulması esastır. Kripto varlık
+saklama hizmeti, platform müşterilerinin kendi cüzdanlarında bulundurmayı
+tercih etmedikleri kripto varlıkların veya bu varlıklara ilişkin özel
+anahtarların saklanmasını, yönetimini veya Kurulca belirlenecek diğer
+saklama hizmetlerini ifade eder.
+(2) Saklama kuruluşlarının platform müşterileri
+haricinde, müşterilere doğrudan saklama hizmeti vermesi mümkündür. Ancak
+özel anahtarın bütün kontrolünün yatırımcıya bırakıldığı yöntemle cüzdan
+hizmetlerinin sunulması saklama hizmeti olarak değerlendirilmez.
+Saklama
+hizmetinde bulunabilecek kuruluşlar
+MADDE 25-
+(1) Saklama hizmeti, bu Tebliğ
+uyarınca kripto varlık saklama hizmeti vermeye yetkili kılınmış ve BDDK
+tarafından uygun görülen bankalar veya Kurulca kripto varlık saklama
+hizmeti sunma konusunda yetkilendirilmiş diğer kuruluşlar tarafından
+yapılabilir.
+Saklamaya
+ilişkin genel ilke ve esaslar
+MADDE 26-
+(1) Müşterilere ait kripto
+varlıklar saklama kuruluşunun kendi hesaplarından ayrı olarak, platform
+adına, toplu olarak saklanır.
+(2) 5549 sayılı Kanun ve ilgili mevzuat hükümleri
+saklı kalmak üzere, platformların müşterilerinin saklama kuruluşu ile
+harici bir sözleşme imzalamalarına gerek yoktur.
+(3) Saklama kuruluşlarının 24 üncü maddenin ikinci
+fıkrası kapsamında müşterilere doğrudan saklama hizmeti vermesi durumunda,
+söz konusu hizmete ilişkin olarak saklama kuruluşunun bu müşterilerle
+ayrıca bir sözleşme yapması ve bu hizmetten doğabilecek riskleri
+müşterilere açık ve detaylı bir şekilde aktarılmasını sağlaması zorunludur.
+Bu müşterilere ait kripto varlıklar saklama kuruluşu tarafından müşteri
+bazında saklanır.
+(4) Saklama kuruluşunun müşteri varlıklarının
+kontrolü için kullandığı tüm anahtar ve parçalarının güvenli donanım
+modüllerinde TÜBİTAK Altyapı Kriterlerinde belirlenen esaslar kapsamında
+tutulması zorunludur.
+(5) Saklama hizmetinin bu Tebliğde belirlenen
+esaslar kapsamında sunulmasına ilişkin esasların yer aldığı ve yönetim
+kurulu kararıyla yürürlüğe girecek yazılı bir prosedür oluşturulması ve bu
+prosedürün yılda en az bir kez gözden geçirilerek güncelliğinin sağlanması
+gerekir.
+(6) Saklama kuruluşlarının sıcak cüzdan
+büyüklüğünün toplam müşteri varlığının %5’ine kadar olması esastır.
+(7) Saklama kuruluşu tarafından platform
+müşterilerine ait kripto varlıkların tamamının saklanması halinde, bu
+kuruluşların 29 ve 30 uncu maddelerde belirlenen esaslara uygun olarak
+müşteri varlıklarına yönelik transfer emirlerini gerçekleştirmesi
+mümkündür. Bu usulde çalışan saklama kuruluşlarının sıcak cüzdan büyüklüğü,
+gün içerisindeki transfer yoğunluğu dikkate alınarak toplam müşteri
+varlığının azami %10’una kadar çıkabilir.
+(8) Altıncı ve yedinci fıkralarda belirtilen
+oranların hesaplanmasında, imzalanmış ancak dağıtık defter ağına işlenmeyi
+bekleyen transferler dikkate alınmaz.
+(9) 10 uncu maddenin dördüncü fıkrasında belirtilen
+hizmetin saklama kuruluşları tarafından da verilmesi mümkündür.
+Anahtarların
+erişimine ilişkin ilke ve esaslar
+MADDE 27-
+(1) Kripto varlık hizmet
+sağlayıcılar tarafından; özel anahtarlar ve özel anahtarların üretiminde
+kullanılan mekanizmalar ile yedeklenmeleri sürecinde kullanılan anahtarlar
+gibi varlık ve mekanizmaların yönetilmesine ve erişilmesine ilişkin olarak
+TÜBİTAK Altyapı Kriterlerinde belirlenen esaslara uyulur.
+(2) Özel anahtarların, çok taraflı eşik
+kriptografisi gibi mekanizmalarla parçalara ayrılması durumunda her bir
+parçanın ve anahtar parçalarının kullanıldığı mekanizmaların, yedekleri
+dahil olmak üzere Türkiye’de tutulması ve bunlara ilişkin kontrolün kripto
+varlık hizmet sağlayıcılarda olması gerekir.
+Cüzdan
+teknolojilerine yönelik özel esaslar
+MADDE 28-
+(1) Kripto varlık hizmet
+sağlayıcılar tarafından müşteri varlıklarının saklandığı cüzdanlara ilişkin
+güvenli donanım modülü ve kritik yazılım bileşenlerinde asgari olarak
+aşağıda yer alan şartlar aranır:
+a) Cüzdanlardaki anahtarlar veya anahtar
+parçalarının güvenli donanım modülü dışına çıkarılmaması esastır. Ancak
+bunların yedeklenmesi veya depolanması amacıyla, güvenliği
+sertifikalandırılmış bir yöntem kullanılmak suretiyle çıkarılmaları
+mümkündür.
+b) Güvenli donanım modülü ile bu modüle entegre
+çalışan bileşenlere fiziksel ve elektronik olarak gerçekleşebilecek
+yetkisiz erişimleri ve sabotaj girişimlerini engellemek için gerekli
+güvenlik önlemleri alınır.
+c) Güvenli donanım modülünün fiziksel müdahaleye
+karşı dayanıklı olması ve olası bir fiziksel müdahale girişiminde üzerinde
+tutulan gizli bilgiyi silerek erişilemez hale getirme ve/veya alarm verme
+özelliklerine sahip olması gerekir.
+(2) Kripto varlık hizmet sağlayıcılar tarafından
+cüzdan teknolojilerine ilişkin olarak, birinci fıkrada belirtilen esasların
+yanı sıra, TÜBİTAK Altyapı Kriterlerinde belirlenen esaslara uyulur.
+(3) TÜBİTAK, cüzdan mimarisinde kullanılan güvenli
+donanım modülleri ile bu modülleri kontrol eden, kimlik doğrulama ve
+politika kontrollerini yapan yazılımlara yönelik yapılacak test ve
+sertifikasyon koşullarını belirlemeye yetkilidir.
+(4) Yetkisiz kopya alınmasının engellenmesi
+amacıyla, güvenli donanım modüllerinin kullanıma hazırlanması, bu süreçte
+yedekten kurtarma anahtarlarının oluşturulması ve anahtarların yetkililere
+teslimi süreci, TÜBİTAK veya bilgi sistemleri bağımsız denetim firmalarının
+gözetiminde yapılır.
+Transfer
+emirlerinin gerçekleştirilmesi süreci
+MADDE 29-
+(1) Transfer emirlerinin
+gerçekleşmesi süreci; ikinci fıkrada tanımlanan cüzdanlara erişim denetimi
+süreci başarıyla tamamlanmış transfer emirlerinin imzalanarak dağıtık
+defter ağına iletilmesi sürecini ifade eder.
+(2) Cüzdanlara erişim denetimi; transfer emirlerinin
+yetkililerce verildiğinin ve onaylandığının doğrulanması ile sürecin Kurul
+düzenlemelerine, kripto varlık hizmet sağlayıcıların belirlediği
+politikalara ve 31 inci madde uyarınca imzalanan saklama sözleşmesine uygun
+olarak yürütüldüğüne ilişkin kontrollerin tamamını ifade eder. Söz konusu
+kontrollere yönelik olarak yönetim kurulu kararı ile yürürlüğe girecek bir
+politika oluşturulur. Cüzdanlara erişim denetiminde aşağıda yer verilen
+hususlar dikkate alınır:
+a) Kontrollerin kesintiye uğramasına ya da
+aşılmasına neden olabilecek iç veya dış kaynaklı saldırıların engellenmesini
+sağlayacak önlemler alınır.
+b) Cüzdanlara erişim denetimi mekanizmaları
+kapsamında, özel anahtarları güvenli bir şekilde üreten, tutan, işleyen ve
+çok faktörlü kimlik doğrulamayı destekleyen akıllı kart gibi teknolojilerin
+kullanılması gerekir.
+(3) Cüzdanlara erişim denetimi ile transferlerin
+gerçekleşmesi süreçleri farklı süreçler olarak değerlendirilir. Cüzdanlara
+erişim denetimi tamamlanmaksızın transferlerin gerçekleşmesi sürecine
+geçilemez.
+(4) Kripto varlık hizmet sağlayıcılar tarafından
+cüzdan teknolojilerine ilişkin olarak, ikinci ve üçüncü fıkralarda
+belirtilen esasların yanı sıra TÜBİTAK Altyapı Kriterlerinde yer verilen
+esaslara uyulur.
+Transfer
+emirlerinin gerçekleştirilmesine ilişkin esaslar
+MADDE 30-
+(1) Transfer emirlerinin
+gerçekleştirilmesinde MASAK tarafından yapılan düzenlemelere uyulur.
+(2) Transfer emirlerinde yatırımcılara, VII-128.10
+sayılı Tebliğde belirtilen çok faktörlü kimlik doğrulama mekanizmasının
+uygulanması ve bu faktörlerin kimlik doğrulama sürecinde kullanılmaları
+esnasında barındırdıkları kimlik doğrulama verilerinin gizliliğini
+sağlayacak önlemlerin alınması esastır.
+(3) Transfer emrinin iletildiği an itibarıyla,
+1.000.000 TL’nin altındaki transfer taleplerinin tam otomatik süreçlerle
+onaylanması mümkündür. Bu fıkra kapsamında platformlar tarafından, kurum
+kaydi sisteminde müşteri adına saklanan toplam kripto varlıkların cari
+değerinin; saklama kuruluşları tarafından ise müşteri saklama bakiyelerinin
+on binde üçünden yüksek olmamak kaydıyla daha yüksek bir tutar
+belirlenebilir. Bu fıkra kapsamındaki transfer emirlerinin onaylanması için
+III-35/B.1 sayılı Tebliğde tanımlanan yöneticilerden en az iki kişi yönetim
+kurulu kararı ile yetkilendirilir. Söz konusu yetkililerden en az birinin
+genel müdür yardımcısı ve/veya üzeri görevde olması gerekir.
+(4) Platform ile saklama kuruluşu arasında 41 inci
+madde kapsamında gerçekleştirilecek transferler bakımından bu madde
+hükümleri uygulanmaz.
+Saklama
+sözleşmesi
+MADDE 31-
+(1) Platformlar ile saklama
+kuruluşları arasında bir hizmet sözleşmesi imzalanması zorunludur.
+(2) Saklama kuruluşları tarafından, işlemlerin
+dağıtık defter ağı sistemine işlenmesi, dağıtık defter ağı sisteminin
+yürütülmesinden kaynaklı olarak katlanacağı maliyetin nasıl yansıtılacağı
+ve sözleşmenin feshi durumunda tarafların hak ve yükümlülükleri hususlarına
+sözleşmede yer verilir.
+(3) Saklama kuruluşunun bu Tebliğde aranan şartları
+kaybetmesi halinde platformların başka bir saklama kuruluşu ile sözleşme imzalaması
+şarttır. Yeni sözleşme yürürlüğe girene kadar eski sözleşmeye taraf olan
+saklama kuruluşunun sorumluluğu devam eder.
+ALTINCI BÖLÜM
+Mutabakat Sistemi
+MKK
+Entegrasyonu
+MADDE 32-
+(1) Platformlar ve saklama
+kuruluşları, kurum kaydi sisteminde tutulan müşteri kripto varlık bakiye
+bilgilerine yönelik MKK ile entegrasyon sağlamak ve MKK tarafından talep
+edilen raporlamaları yapmak zorundadırlar.
+(2) Platformlar ve saklama kuruluşları tarafından
+MKK’ya yapılacak raporlamalara, MKK tarafından tesis edilecek işlemlere ve
+yapılacak bildirimlere ilişkin usul ve esaslar, MKK tarafından belirlenecek
+ve Kurul tarafından onaylanacak yönergeyle belirlenir.
+(3) Birinci fıkra kapsamında platformlar ile
+saklama kuruluşları tarafından MKK’ya yapılan raporlamaların aynı sonucu
+vermesi gerekir. Platformlar ile saklama kuruluşları tarafından MKK’ya
+iletilen raporlar MKK tarafından karşılaştırılır ve karşılaştırma sonucunda
+merkezi kaydi raporlar oluşturulur. Merkezi kaydi raporlar müşteriler
+tarafından bakiye sorgusu yapılabilecek şekilde MKK’nın E-Yatırımcı
+sisteminde gösterilir.
+(4) Platform ile saklama kuruluşu tarafından
+iletilen raporlarda farklılık olması durumunda, MKK tarafından farklılığa
+ilişkin olarak ivedilikle Kurula bildirim yapılır.
+Mutabakat
+sistemine ilişkin esaslar
+MADDE 33-
+(1) Platformlar tarafından her bir
+kripto varlık bazında kurum kaydi sisteminde kayıtlı işlemler müşteri
+bazında netleştirilir ve netleştirme raporu oluşturulur. Netleştirme
+raporunun sonucunda, 41 inci maddede öngörülen esaslar uyarınca gerekli
+görülmesi halinde platform cüzdanı ile saklama kuruluşu cüzdanı arasında
+aktarım gerçekleştirilir.
+(2) Platform ve saklama kuruluşu arasında
+netleştirme raporu kapsamında yapılacak müşteri varlıklarına ilişkin
+aktarımlar, saat 23:59 itibarıyla gerçekleştirilir. Gün içerisinde, 41 inci
+maddede öngörülen esaslar uyarınca aktarım yapılması gerektiği hallerde
+veya müşteri talebi çerçevesinde aktarım için gün sonu beklenmez.
+YEDİNCİ BÖLÜM
+Sermaye Yeterliliği
+Sermaye
+MADDE 34-
+(1) Platformların kuruluş
+sermayelerinin asgari 150.000.000 Türk Lirası olması zorunludur.
+(2) Saklama kuruluşlarının kuruluş sermayelerinin
+asgari 500.000.000 Türk Lirası olması zorunludur.
+(3) 53 üncü madde kapsamında yeniden belirlenen
+sermaye tutarlarının ilgili yılın en geç altıncı ayının sonu itibarıyla
+sağlanması zorunludur.
+Özsermaye
+MADDE 35-
+(1) Kripto varlık hizmet
+sağlayıcıların özsermayeleri 34 üncü madde kapsamında belirlenen kuruluş
+sermayelerinden az olamaz.
+(2) Kripto varlık hizmet sağlayıcıların
+özsermayelerinin her yılın altıncı ayı itibarıyla en az %25’inin ödenmiş
+veya çıkarılmış sermaye olarak sağlanması zorunludur.
+(3) Platformların özsermayesi likit rezerv
+yükümlülüğünden düşük olamaz.
+(4) Saklama kuruluşlarının sakladıkları müşteri
+varlıklarının toplam tutarının 1.000.000.000 TL’ye kadar olması halinde
+ilave özsermaye aranmaz. Müşteri varlıklarının toplam tutarının
+1.000.000.000 TL’yi aşması halinde, saklama kuruluşunun kuruluş sermayesine
+ilave olarak aşan tutarın %1,5’i kadar özsermayesinin bulunması gerekir.
+Özsermaye tutarının 1.500.000.000 TL olması halinde ilave özsermaye aranmaz.
+(5) Dördüncü fıkrada yer alan yükümlülük yılın
+üçüncü, altıncı, dokuzuncu ve on ikinci ay sonları itibarıyla takip edilir.
+Yükümlülüğün hesaplanmasında, ay sonları itibarıyla hesaplanan toplam
+müşteri varlık tutarlarının üç aylık aritmetik ortalaması dikkate alınır.
+Sermaye
+yeterliliği tabanı
+MADDE 36-
+(1) Platformların sermaye
+yeterliliği tabanı, 35 inci madde uyarınca hesaplanan özsermaye tutarından
+aşağıda sayılan varlık kalemlerinin indirilmesi suretiyle bulunan tutarı
+ifade eder:
+a) Duran varlıklar;
+1) Maddi duran varlıklar (net),
+2) Maddi olmayan duran varlıklar (net),
+3) Borsalarda ve teşkilatlanmış diğer piyasalarda
+işlem görenler hariç olmak üzere, değer düşüklüğü karşılığı ve sermaye
+taahhütleri düşüldükten sonra kalan finansal duran varlıklar,
+4) Diğer duran varlıklar,
+b) Müşteri sıfatı ile olsa dahi, personelden,
+ortaklardan, iştiraklerden, bağlı ortaklıklardan ve sermaye, yönetim ve
+denetim açısından doğrudan veya dolaylı olarak ilişkili bulunulan kişi ve
+kurumlardan olan alacaklar ile bu kişi ve kurumlar tarafından ihraç edilmiş
+ve borsalarda ve teşkilatlanmış diğer piyasalarda işlem görmeyen sermaye
+piyasası araçları.
+c) Platformların, likidite sağlayıcı veya piyasa
+yapıcı konumundaki kuruluşlarla yaptığı iş birlikleri kapsamında hizmet
+sağlayıcı kuruluşlar nezdinde yatırılacak teminat tutarı ve bu
+kuruluşlardan olan alacaklar.
+ç) 17 nci maddenin ikinci fıkrası kapsamında altı
+aylık sürenin sonunda saklanmaya devam edilen kripto varlıkların, ilgili
+platform nezdinde oluşan fiyat bilgisi üzerinden hesaplanan cari değerleri.
+(2) Saklama kuruluşlarının sermaye yeterliliği
+tabanı, 35 inci madde uyarınca hesaplanan özsermaye tutarından birinci
+fıkranın (a) ve (b) bentlerinde sayılan varlık kalemlerinin indirilmesi
+suretiyle bulunan tutarı ifade eder.
+Değerleme
+ilkeleri ve raporlama tarihi
+MADDE 37-
+(1) Kripto varlık hizmet
+sağlayıcıların özsermaye ve sermaye yeterliliği tabanı hesaplamalarında
+portföylerindeki kripto varlıklar hariç olmak üzere 26/6/1998 tarihli ve
+23384 mükerrer sayılı Resmî Gazete’de yayımlanan Aracı Kurumların
+Sermayelerine ve Sermaye Yeterliliğine İlişkin Esaslar Tebliği (Seri: V,
+No: 34)’nin 5 inci maddesinde belirtilen değerleme ilkeleri dikkate alınır.
+(2) Kripto varlık hizmet sağlayıcılar tarafından bu
+Tebliğde belirlenen yükümlülüklerin sağlanıp sağlanamadığı Kurulca belirlenecek
+esaslar ve yöntemler çerçevesinde her ayın 7, 15, 23 ve son gününü takip
+eden iki iş günü içerisinde Kurula raporlanır.
+(3) Kurul, bu Tebliğde yer alan yükümlülüklerle
+ilgili tabloların hesaplama ve Kurula gönderilme zamanını değiştirebilir.
+Kurul, gerekli görmesi halinde, yükümlülüklerinden bir ya da daha fazlasını
+karşılayamadığı tespit edilmiş olan kripto varlık hizmet sağlayıcılardan,
+bu Tebliğ uyarınca hesaplanarak Kurula bildirilmesi öngörülen tabloları
+daha sık periyodlarda talep edebilir.
+Sermaye
+yeterliliği tabanı yükümlülüğü
+MADDE 38-
+(1) Kripto varlık hizmet
+sağlayıcıların sermaye yeterliliği tabanları;
+a) Risk karşılığı toplamının,
+b) Raporlama tarihinden önceki son üç ayda oluşan
+faaliyet giderlerinin,
+herhangi birinden az olamaz.
+(2) Son üç aylık faaliyet gideri; sene başından
+itibaren söz konusu ayların sonu itibarıyla oluşan kümülatif faaliyet
+giderleri toplamını değil, yalnızca bu aylar içinde oluşan faaliyet
+giderleri toplamını kapsar.
+Borçlanma
+sınırı yükümlülüğü
+MADDE 39-
+(1) Kripto varlık hizmet
+sağlayıcıların, bilançoda yer alan tüm kısa ve uzun vadeli borçları toplamı,
+sermaye yeterliliği tabanlarının üç katını aşamaz. Borçların tutarının
+belirlenmesinde, bunların cari değerleri dikkate alınır.
+Likidite
+yükümlülüğü
+MADDE 40-
+(1) Kripto varlık hizmet
+sağlayıcıların, III-35/B.1 sayılı Tebliğin 36 ncı maddesinde belirlenen
+esaslar dahilinde en az kısa vadeli borçları kadar dönen varlık
+bulundurması zorunludur.
+(2) Dönen varlıklar, cari değerleri ile dikkate
+alınır. Sermaye yeterliliği tabanı hesaplamasında indirilen kalemler ile
+pozisyon riski % 100 olarak belirlenen kalemler dönen varlık olarak dikkate
+alınmaz.
+Saklama
+limitleri ve likit rezerv yükümlülüğü
+MADDE 41-
+(1) Müşterilerin kendi
+cüzdanlarında bulundurmayı tercih etmedikleri kripto varlıkların asgari
+%95’inin bu Tebliğde belirtilen hükümler dahilinde saklama kuruluşunda
+saklanması esastır. Saklama kuruluşunda saklanmayan azami %5’lik kısım
+platform nezdindeki cüzdanlarda 26 ncı maddede belirlenen esaslar
+çerçevesinde saklanır.
+(2) Birinci fıkrada yer alan oranlar her bir kripto
+varlık bazında hesaplanmayacak olup, hesaplamada kripto varlıkların cari
+değerlerinin toplamı dikkate alınır. Bu oranlar anlık olarak takip edilir.
+Mutabakat saati itibarıyla birinci fıkrada belirtilen oranları sağlayacak
+şekilde aktarımlar yapılır. Her halükarda, platform nezdindeki cüzdanlarda
+saklanan müşterilere ait kripto varlıkların oranı gün içerisinde %10’unu
+geçemez. Belirli bir anda söz konusu %10’luk oran aşıldığı takdirde aşan
+kısmın, mutabakat saati beklenmeksizin derhal saklama kuruluşuna
+aktarılması zorunludur.
+(3) Birinci ve ikinci fıkralar kapsamında platform
+tarafından nezdinde bulunan müşteri varlıklarının %3’ü kadar likit rezerv
+bulundurulması zorunludur.
+(4) Kurul likit rezerv hesaplamalarına dahil
+edilebilecek varlıkları ve değerleme katsayılarını belirlemeye yetkilidir.
+Saklamada bulunan bazı kripto varlıkların likit rezerv hesaplamasına dahil
+edilmemesine karar verebilir.
+(5) Platform nezdinde müşteriler adına saklanan her
+bir kripto varlığın cari değeri 100.000 Amerikan Dolarına ulaşıncaya kadar,
+söz konusu varlıklar saklama limitlerinin hesaplanmasında dikkate alınmaz.
+Her halükarda, bu varlıkların toplam değerinin, toplam müşteri
+varlıklarının %10’unu aşması halinde aşan miktar, saklama limitlerinin
+hesaplanmasında dikkate alınır.
+(6) Saklama limitlerinin takibine yönelik olarak
+platformların transfer emirlerini yerine getirecekleri cüzdanlara ilişkin
+tanıtıcı bilgileri saklama kuruluşlarına vermeleri zorunludur. Saklama
+kuruluşları bu cüzdanlar aracılığıyla gerçekleşen işlemleri takip ederler.
+Her halükarda, saklama kuruluşlarının gün içerisinde piyasanın olağan
+akışına aykırı seviyede transfer gerçekleştiren platformlardan,
+transferlere yönelik müşteri emirlerinin teyidi dahil olmak üzere bu
+transferlerin gerekçelerine ilişkin açıklama almaları zorunludur. Bu fıkra
+kapsamındaki sorumluluk müteselsil olarak platform ve saklama kuruluşuna
+aittir.
+(7) Bir platformun birden fazla saklama
+kuruluşundan saklama hizmeti alması durumunda, birinci ve ikinci fıkralarda
+belirtilen oranlar her bir saklama kuruluşu için ayrı ayrı takip edilir.
+Rezerv
+kompozisyon limitleri
+MADDE 42-
+(1) Platformların likit
+rezervlerindeki belirli bir varlığın cari değerinin portföy içerisindeki
+ağırlığı %20’yi geçemez.
+(2) Son bir yıl içerisinde listelenen kripto
+varlıklar ile toplam piyasa değeri 5.000.000.000 Amerikan Dolarının altında
+olan kripto varlıklar için birinci fıkrada belirtilen oran %10 olarak
+uygulanır.
+(3) Türk Lirası veya konvertibl döviz cinsi
+mevduat, para piyasası fonu gibi nakit ve nakit benzeri finansal varlıklar
+birinci fıkra kapsamındaki hesaplamalara dahil edilmez.
+(4) Kripto varlıkların cari değer hesaplamasında,
+her bir platform nezdinde oluşan fiyat bilgisi dikkate alınır.
+(5) Birinci ve ikinci fıkralarda yer verilen
+sınırlamaların, mutabakat saati itibarıyla sağlanamadığı hallerde, aykırılık
+takip eden mutabakat saatine kadar giderilir.
+Risk
+karşılığı toplamı
+MADDE 43-
+(1) Kripto varlık hizmet
+sağlayıcıların risk karşılığı toplamı, bu Tebliğ uyarınca hesaplanan pozisyon
+riski ve döviz kuru riski karşılıklarının toplamını ifade eder.
+Pozisyon
+riski
+MADDE 44-
+(1) Pozisyon riski; kripto varlık
+hizmet sağlayıcıların kendi portföylerinde bulunan varlıkların işlem
+gördükleri piyasalarda oluşan fiyat hareketleri ile kripto varlık hizmet
+sağlayıcıların alacak ve borçlarının cari değerlerindeki değişmelerden
+kaynaklanan riskleri ifade eder.
+(2) Pozisyon riski sadece kripto varlık hizmet
+sağlayıcılara ait varlıklar ve yükümlükler için hesaplanır. Müşterilere ait
+saklanan varlıklar için pozisyon riski hesaplanmaz.
+(3) Pozisyon riski hesaplamasına konu edilen
+varlıklar ve bunlara ilişkin risk hesaplamalarında dikkate alınacak oranlar
+şu şekildedir:
+a) Kısa vadeli kamu borçlanma araçları için %2.
+b) TEFAS’ta işlem gören ve risk derecesi 1 ile 4
+arası olan yatırım fonu katılma payları için %2.
+c) Kısa vadeli borçlar için %3.
+ç) Uzun vadeli kamu borçlanma araçları için %3.
+d) TEFAS’ta işlem gören ve risk derecesi 5 ile 7
+arası olan yatırım fonu katılma payları için %5.
+e) Borsalarda ve teşkilatlanmış diğer piyasalarda
+işlem gören özel sektör borçlanma araçları için %5.
+f) Borsa İstanbul A.Ş. nezdinde işlem görmeye uygun
+nitelikteki kıymetli madenler için %5.
+g) Uzun vadeli borçlar için %5.
+ğ) Kısa vadeli alacaklar için %8.
+h) BIST 100 endeksi içerisinde işlem gören paylar
+için %10.
+ı) Uzun vadeli alacaklar için %10.
+i) Finansal duran varlıklar için %10.
+j) Elektronik ürün senetleri için %20.
+k) BIST 100 endeksi dışında işlem gören paylar için
+%20.
+l) Kripto varlıklar için %30.
+m) Borsalarda ve teşkilatlanmış diğer piyasalarda
+işlem görmeyen sermaye piyasası araçları (kamu borçlanma araçları hariç
+olmak üzere) ile bu fıkrada belirtilmemiş varlık veya yükümlülükler için
+%100.
+(4) Pozisyon riski hesaplamalarında, hesaplama
+yapılacak varlık ve yükümlülüklerin net pozisyonu dikkate alınabilir.
+(5) Pozisyon riski, sermaye yeterliliği tabanı
+hesaplanmasında özsermayeden tamamı indirilen kalemler için hesaplanmaz.
+Net
+pozisyon
+MADDE 45-
+(1) Net pozisyon, kripto varlık
+hizmet sağlayıcıların kendi portföy işlemleri çerçevesindeki yükümlülüklerinin
+aynı cinsten olmak üzere varlıklar içerisinde yer alması durumunda,
+bunların birbirlerinden mahsup edilmesi sonucunda bulunan tek kalem varlık
+veya borcu ifade eder.
+(2) Net pozisyon hesaplaması yapılması ihtiyaridir.
+(3) Pozisyon riski, mahsup sonucu bulunan tutarın
+aktif veya pasif karakterli olduğuna bakılmaksızın bu şekilde belirlenmiş
+tutarlar üzerinden hesaplanır.
+(4) Net pozisyon, ilgili kalemlerin 37 nci maddede
+öngörülen şekilde değerlenmiş tutarları dikkate alınarak hesaplanır.
+(5) Net pozisyon hesaplamasının yapılması, bu
+Tebliğde belirtilen diğer riskler için ayrıca karşılık ayrılmasını
+engellemez.
+Döviz
+kuru riski
+MADDE 46-
+(1) Kripto varlık hizmet
+sağlayıcıların döviz kuru riski, her bir döviz cinsinden varlık ve yükümlülüklerinin
+Türk Lirası karşılıklarının birbirinden mahsup edilmesi suretiyle
+hesaplanır.
+(2) Birinci fıkra kapsamında hesaplanan tutarın
+kripto varlık hizmet sağlayıcıların sermaye yeterliliği tabanının %2’sini
+aşması halinde, aşan kısmın %8’i döviz kuru riski olarak dikkate alınır.
+(3) Döviz kuru riski hesaplamaları, bu hesaplamaya
+konu varlıklar ile ilgili olarak yapılan risk hesaplamalarına ilave olarak
+ayrıca yapılır. Sermaye yeterliliği tabanı hesaplamalarında tamamı
+indirilen varlıklar döviz kuru riski hesaplamalarında dikkate alınmaz.
+(4) Kripto varlık hizmet sağlayıcıların portföyleri
+için yaptıkları türev işlemlere ilişkin döviz kuru riski hesaplamalarında
+Kurulun aracı kurumların sermaye yeterliliğine ilişkin düzenlemelerinde
+belirlenen esaslara kıyasen uyulur.
+Saklama
+kuruluşlarına ilişkin yükümlülükler
+MADDE 47-
+(1) 41 inci maddede belirlenen
+saklama limitleri ve bu limitlerin takibine ilişkin yükümlülükler hariç
+olmak üzere, bu Tebliğin yedinci bölümünde yer alan hükümler saklama
+hizmeti sunmaya yetkili bankalar bakımından uygulanmaz.
+Aykırılıklarda
+uygulanacak hükümler
+MADDE 48-
+(1) Bu Tebliğde belirtilen 35, 38,
+40 ve 41 inci maddelere aykırılık olması halinde, aykırılığın giderilmesi
+için söz konusu aykırılığın ortaya çıktığı tarihten başlamak üzere otuz iş
+günü süre verilir. Söz konusu aykırılıkların giderilmesi için aykırılığın
+tespitinden itibaren dört iş günü içinde şekli ve içeriği Kurulca
+belirlenen teminat mektubu kullanılabilir. Teminat mektubu, ilgili
+yükümlülüğün yerine getirilmesine kadar, ilgili bankada bloke edilir. Ancak
+teminat mektubunun blokaj süresi üç ayı geçemez. Kripto varlık hizmet
+sağlayıcı tarafından aykırılığın giderilmesine dair işlemlere başlanmış
+olmak kaydıyla, üç aylık süre tamamlanmadan ek süre talep edilmesi halinde,
+söz konusu süre Kurulca üç ay daha uzatılabilir.
+(2) 41 inci maddenin altıncı fıkrası kapsamında,
+saklama limitlerine bir ay içerisinde iki defadan daha fazla uyulmadığının
+tespiti halinde ilgili platform saklama kuruluşu tarafından Kurula
+bildirilir.
+(3) 39 uncu maddeye aykırılıklarda, otuz iş günü
+içerisinde borç tutarının limite kadar azaltılması gerekir.
+SEKİZİNCİ BÖLÜM
+Diğer Hizmetlerin Sunulması
+Listeleme
+esasları dışındaki varlıklara yönelik işlem hizmeti sunulması
+MADDE 49-
+(1) Platformlar tarafından,
+dijital varlıkların temsilini ve sahipliğini kaydetmek için kullanılan,
+misli olmayan ve benzersiz nitelikteki varlıklar ile sadece sanal oyunlarda
+çeşitli unsurlar oluşturmak ya da temin etmek amacıyla kullanılan
+varlıklara yönelik hizmetler sunulması halinde, bu varlıkları Kanun
+kapsamında listelenen varlıklar dışında ayrı bir pazarda işleme konu
+etmeleri gerekir.
+(2) Platformlar tarafından “Bu pazarda işlem gören
+varlıklar 6362 sayılı Sermaye Piyasası Kanununun listelenme esasları
+dışında olup Sermaye Piyasası Kurulunun gözetim ve denetimine tabi
+değildir.” metniyle birlikte, müşteri emirlerinin alındığı ortamlarda
+(internet sitesi, mobil uygulama ve benzeri) bilgilendirme yapılması ve bu
+bilgilendirme mesajının yatırımcı tarafından okunduğunun ve anlaşıldığının
+teyit edilmesi sonrasında emrin alınması gerekir.
+Kripto
+varlıklara yönelik finansal analiz yapılması ve genel tavsiyede bulunulması
+MADDE 50-
+(1) Genel tavsiyede bulunulması,
+kripto varlıklar hakkında, belli bir kişiye veya mali durumları, risk ve
+getiri tercihleri benzer nitelikteki bir gruba yönelik olmamak kaydıyla,
+müşterilere veya dağıtım kanallarına yönelik olarak hazırlanan ve kripto varlıkların
+mevcut veya gelecekteki fiyat veya değerlerine ilişkin yorum da dâhil,
+açıkça veya zımnen bir yatırım stratejisini öneren veya tavsiye eden
+yönlendirici nitelikteki her türlü araştırma veya diğer bilgi sunulmasıdır.
+(2) Kripto varlıklar ile piyasa eğilimleri hakkında
+yönlendirici nitelikte olmayan yazılı veya sözlü bilgi sunulması bu Tebliğ
+kapsamında finansal bilgi sunulmasıdır. Finansal bilginin sunulması yatırım
+danışmanlığı faaliyeti ya da genel tavsiyede bulunulması kapsamında
+sayılmaz. Ancak sunulan bilgilerin tarafsız ve dürüst olması gerekir.
+(3) Birinci ve ikinci fıkralarda belirtilen
+nitelikteki her türlü veri, bilgi seti, doküman ve benzeri belge veya bilgi
+kripto varlık hizmet sağlayıcıların internet sitesi, mobil uygulamaları
+veya müşterilerin kayıtlı elektronik posta adresleri üzerinden
+paylaşılabilir, ancak yönlendirici nitelikte olmayanlar hariç olmak üzere,
+bunlar müşterilere ait özel iletişim kanalları üzerinden iletilemez veya
+müşterilerle bire bir paylaşılamaz.
+(4) Platformlar tarafından birinci fıkra kapsamında
+yapılacak yönlendirici nitelikteki paylaşımlarda;
+a) Paylaşımın yenilenme sıklığına ve varsa
+güncellenmesine ilişkin politikaların belirlenmiş olması halinde söz konusu
+politikalara ilişkin özet bilgiler ile daha önce ilan edilen politikalarda
+ortaya çıkan önemli değişikliklere,
+b) Açık ve dikkat çekici bir şekilde, tavsiyenin
+dağıtım için ilk hazırlandığı tarih ile tavsiyede yer alan tüm fiyatların
+tarih ve zamanına,
+c) Tavsiyenin, aynı kripto varlık veya kripto
+varlığın satış ya da dağıtımını yapan proje sahibi veya şirket için aynı
+kripto varlık hizmet sağlayıcı tarafından geçmiş on iki aylık sürede
+yayımlanmış olan tavsiyeden farklı bir yatırım stratejisini içermesi
+durumunda, açıkça ve dikkat çekici şekilde, bu değişikliğe, değişikliğin
+gerekçesine ve daha önce yayımlanan tavsiyenin tarihine,
+yer verilmesi zorunludur.
+(5) Kripto varlık alım satımına ilişkin olarak
+yapılacak yönlendirici nitelikteki paylaşımlarda, III-35/B.1 sayılı
+Tebliğde belirlenen çıkar çatışmalarının açıklanmasına ilişkin esaslara
+uyulur.
+DOKUZUNCU BÖLÜM
+Diğer Hususlar
+Müşteri
+hesaplarındaki nakit alacak bakiyelerinin takibi, kullanım esasları ve
+transferi
+MADDE 51-
+(1) Platformlar tarafından müşteri
+nakitleri elden teslim alınamaz, müşteriye elden teslim edilemez ve
+platformlar nezdinde herhangi bir şekilde saklanamaz.
+(2) Platform tarafından banka nezdinde açtırılan ve
+müşteri hesabı olarak tayin edilen hesap, açıkça ilgili platform
+müşterilerine ait olduğu belirtilecek şekilde tanımlanır ve amacı dışında
+kullanılamaz. Platform tarafından banka hesabı açtırılırken, bankaya söz
+konusu hesaptaki paranın platformun müşterilerine ait olduğu ve herhangi
+bir şekilde platformun kendi hesabı ile birleştirilmemesi gerektiği
+hakkında yazılı bilgi verilmesi ve bankadan konuya ilişkin onay alınması
+zorunludur. Açılan hesabın ismi platformun banka nezdindeki diğer
+hesaplarından yeterince ayırt edilebilecek şekilde olmalıdır. Banka
+tarafından on beş iş günü içerisinde konuya ilişkin onay verilmemesi
+durumunda platform ilgili tutarı başka bir bankaya aktarmak zorundadır.
+(3) Platformlar nezdinde para transferleri ancak
+müşterilerin kendilerine ait banka hesapları üzerinden gerçekleştirilir.
+Platformlar tarafından bankalar aracılığıyla yapılacak elektronik
+transferler dışında para kabul edilemez.
+(4) Bankalar nezdinde tutulmakta olan müşteri
+nakitlerinin ilgili platform müşterileri için açılacak olan münferit hesap
+veya hesaplarda, platformun kendi nakit varlığından ayrı olarak izlenmesi
+esastır.
+(5) Müşteri hesapları kredi teminatı olarak
+gösterilemez, bu hesaplar üzerinde platformlar lehine blokaj, rehin ve
+benzeri takyidat tesis edilemez. Müşterilerin kripto varlık hizmet
+sağlayıcıların banka hesaplarında bulunan nakitleri, kripto varlık hizmet
+sağlayıcılarının borçları nedeniyle, kripto varlık hizmet sağlayıcılarının
+mal varlığı ise müşterilerin borçları nedeniyle kamu alacakları için olsa
+dahi haczedilemez, rehnedilemez, iflas masasına dâhil edilemez ve
+üzerlerine ihtiyati tedbir konulamaz.
+(6) Platformlar, çerçeve sözleşmesinde müşterinin
+verdiği yetkiye bağlı olarak, müşterinin banka nezdindeki nakitlerini,
+yetkili oldukları faaliyetler, işletme politikaları ile müşterinin tercihleri
+doğrultusunda, muhasebe sistemlerinde hesap bazında izlemek kaydıyla, toplu
+olarak veya müşteri bazında değerlendirebilirler.
+(7) Söz konusu nakitlerin toplu olarak
+değerlendirilmesi halinde elde edilen gelirlerin müşteri hesaplarına
+oransal olarak dağıtılması esastır.
+(8) Platformların, çerçeve sözleşmesinde açıkça
+belirtmek kaydıyla müşteri hesaplarındaki nakit bakiyelerinin kullanımında
+alt limit belirlemeleri mümkündür. Belirlenen bu alt limite ilişkin
+değişikliklerin de ispat yükü platformda olmak üzere müşterilere yazılı
+olarak veya elektronik posta, kısa mesaj, telefon ve benzeri ile
+bildirilmesi zorunludur. Belirlenen alt limitin altında kalan nakitlerin
+kullanımına ilişkin esaslara sözleşmede ayrıca yer verilir.
+(9) Müşterilerin hesaplarındaki nakit alacak
+bakiyeleri, müşteriler tarafından talep edildiği takdirde en geç bir iş
+günü içerisinde ödenmek ve anapara zarara uğratılmamak şartıyla, belirlenen
+limitin altında kalan müşteri nakitleri çerçeve sözleşmedeki hüküm, getiri
+talep etmeyen müşterilerin nakitleri ise çerçeve sözleşmeden ayrı olarak
+müşterilerden münferiden alınacak yazılı veya elektronik onay
+doğrultusunda, getirisi platformda kalacak şekilde değerlendirilebilir.
+Kripto
+varlık hizmet sağlayıcıların finansal rapor yükümlülükleri
+MADDE 52-
+(1) Kripto varlık hizmet
+sağlayıcılar tarafından düzenlenecek finansal raporlar ile bunların hazırlanması
+ve ilgililere sunulmasında, 13/6/2013 tarihli ve 28676 sayılı Resmî
+Gazete’de yayımlanan Sermaye Piyasasında Finansal Raporlamaya İlişkin
+Esaslar Tebliği (II-14.1)’nin 4 üncü maddesinin birinci fıkrasının (d)
+bendinde belirtilen işletmelere atfedilen ilke, usul ve esaslar kıyasen
+uygulanır.
+(2) Kripto varlık hizmet sağlayıcılar tarafından
+hazırlanacak finansal raporlara ilişkin olarak; 12/6/2006 tarihli ve 26196
+mükerrer sayılı Resmî Gazete’de yayımlanan Sermaye Piyasasında Bağımsız
+Denetim Standartları Hakkında Tebliği (Seri: X, No: 22)’nin 5 inci
+maddesinde ifade edilen işletmeler ve yatırım kuruluşları için belirlenen
+bağımsız denetim yükümlülükleri kıyasen uygulanır.
+Yeniden
+değerleme oranı
+MADDE 53-
+(1) Bu Tebliğde yer alan tutarlar,
+her yıl bir önceki yıla ilişkin olarak Hazine ve Maliye Bakanlığınca ilan
+edilen yeniden değerleme oranı dikkate alınarak Kurulca yeniden
+belirlenebilir.
+Kurulun
+denetim yetkisi
+MADDE 54-
+(1) Kurul, kripto varlık hizmet
+sağlayıcıları nezdinde, Kanun ve bu Tebliğ hükümleri ile ilgili bilgileri
+istemeye, bunların tüm defter ve belgelerini, elektronik, manyetik ve
+benzeri ortamlarda tutulanlar dâhil tüm kayıtlarını, sair bilgi ihtiva eden
+araçlarını ve bilgi işlem sistemini incelemeye, bunlara erişiminin
+sağlanmasını istemeye ve bunların örneklerini almaya, işlem ve hesaplarını
+denetlemeye, ilgililerden yazılı ve sözlü bilgi almaya, gerekli tutanakları
+düzenlemeye yetkili olup, ilgililer de istenilen bilgi, defter ve belgeler,
+elektronik, manyetik ve benzeri ortamlarda tutulanlar dâhil tüm kayıtlar,
+sair bilgi ihtiva eden araçlar ve bilgi işlem sistemine erişimi sağlamak,
+kayıtların ve bilgi ihtiva eden araçların örneklerini vermek, yazılı ve sözlü
+bilgi vermek ve tutanakları imzalamakla yükümlüdür. Kripto varlık hizmet
+sağlayıcıları yetkilileri ve çalışanları görevlerinden ayrılmış olsalar
+dahi Kurul denetimleri kapsamında kendilerinden istenen bilgi ve belgeleri
+vermek ve tutanakları imzalamakla yükümlüdürler.
+ONUNCU BÖLÜM
+Geçici ve Son Hükümler
+Tebliğ
+hükümlerine uyum sağlanması
+GEÇİCİ
+MADDE 1- (1) Kurulun i-SPK.35.B
+(8/8/2024 tarih ve 42/1259 s.k.) sayılı İlke Kararı kapsamında kuruluş
+başvurusu yapmış olanlardan; bu Tebliğin yayımı tarihi itibarıyla
+“Faaliyette Bulunanlar Listesi”nde yer alanlar ile bu Tebliğin yayımı
+tarihinden önce başvuru yapmış olan platformların saklama altyapılarının,
+saklamaya ilişkin olarak belirlenen düzenlemelerle 30/6/2025 tarihi
+itibarıyla uyumlu olması gerekir.
+(2) Birinci fıkra kapsamında yer alan kuruluşların,
+34 üncü madde ile 35 inci maddenin birinci ve dördüncü fıkralarında yer
+alan sermaye ve özsermaye yükümlülüklerine faaliyet izni almak üzere Kurula
+başvuru yaptıkları tarih itibarıyla, bu Tebliğin yedinci bölümünde yer alan
+diğer hükümlere en geç 30/6/2025 tarihine kadar uyum sağlamaları
+zorunludur.
+(3) Bu Tebliğin yayımı tarihinden önce güvenli
+donanım modüllerinin kullanıma hazırlanması aşamasını yürütmüş olan kripto
+varlık hizmet sağlayıcılar, 28 inci maddenin dördüncü fıkrası kapsamında
+azami üç yıl içinde güvenli donanım modüllerinin kullanıma hazırlanması
+işlemini TÜBİTAK Altyapı Kriterlerine uyacak şekilde tekrarlar.
+Yürürlük
+MADDE 55-
+(1) Bu Tebliğin;
+a) 7, 8, 11, 12, 13, 16, 17, 18, 19, 20, 21, 22,
+23, 32, 33, 34, 35, 36, 37, 38, 39, 40, 41, 42, 43, 44, 45, 46, 47 ve 48
+inci maddeleri 30/6/2025 tarihinde,
+b) Diğer maddeleri yayımı tarihinde,
+yürürlüğe girer.
+Yürütme
+MADDE 56-
+(1) Bu Tebliğ hükümlerini Sermaye
+Piyasası Kurulu yürütür.
