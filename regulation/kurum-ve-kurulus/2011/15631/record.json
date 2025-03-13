@@ -1,0 +1,42 @@
+{
+  "source_id": "7.5.15631",
+  "kind": "regulation",
+  "register_kind": "Kurum ve Kuruluş Yönetmelikleri",
+  "title": "EVCİL HAYVAN GENETİK KAYNAKLARININ TESCİLİNE İLİŞKİN YÖNETMELİK",
+  "number": "15631",
+  "issuer_slug": "kurum-ve-kurulus",
+  "path": "regulation/kurum-ve-kurulus/2011/15631",
+  "source": "https://www.mevzuat.gov.tr/anasayfa/MevzuatFihristDetayIframe?MevzuatTur=7&MevzuatNo=15631&MevzuatTertip=5",
+  "source_sha256": "f1aac1401a64cb2c511351f16957c79f862c3dd2f3a356189cd1f3e9f77640c1",
+  "source_bytes": 43190,
+  "published": "2011-12-22",
+  "gazette": "28150",
+  "in_force": "2025-03-13",
+  "in_force_basis": "latest Resmî Gazete date printed in the source amendment notes/table (\"RG-13/3/2025\") for the current consolidated text",
+  "date_evidence": [
+    [
+      "2025-03-13",
+      "RG-13/3/2025",
+      "Resmî Gazete date printed in the source amendment note"
+    ],
+    [
+      "2025-03-13",
+      "13/3/2025",
+      "Resmî Gazete date in the source amendment table"
+    ]
+  ],
+  "commencement_clauses": [
+    "Bu Yönetmelik yayımı tarihinde yürürlüğe girer"
+  ],
+  "history": "current-text",
+  "label": "oldest version available",
+  "checked_on": "2026-11-15",
+  "word_count": 2110,
+  "text_status": "current-consolidated",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  },
+  "completeness": "html-text-complete"
+}

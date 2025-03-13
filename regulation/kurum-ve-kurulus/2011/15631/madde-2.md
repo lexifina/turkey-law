@@ -1,0 +1,3 @@
+Kapsam
+MADDE 2 – (1) Bu Yönetmelik, Türkiye yerli evcil hayvan ırkı, tipi, yöresel tipi, hattı ve ekotipleri ile yeni oluşturulan evcil hayvan ırkı, tipi, hattı, ekotipi ve hibritlerinin tescili ile ilgili hususları ve bunlarla ilgili sınai mülkiyet haklarını kapsar.
+(2) (Ek:RG-13/3/2025-32840) 1/7/2003 tarihli ve 4915 sayılı Kara Avcılığı Kanunu kapsamında tanımlanan yaban hayvanlarının evcil hayvanlar ile melezleşmesi sonucu oluşan tipler, 4915 sayılı Kanun hükümleri kapsamında değerlendirilir. Bu çiftleşmelerden meydana gelen melez döllerin çiftlik hayvanı olarak yetiştiriciliği yapılıyor ise bu Yönetmelik hükümleri uygulanır.
