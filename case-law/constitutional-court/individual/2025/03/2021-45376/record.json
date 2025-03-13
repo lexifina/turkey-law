@@ -1,0 +1,20 @@
+{
+  "applicant": "P.B. VE Z.B.",
+  "application_date": "2021-05-17",
+  "application_number": "2021/45376",
+  "deciding_unit": "Birinci Bölüm",
+  "decision_date": "2025-03-13",
+  "id": "8d1aa745-a76c-388f-8e14-5b8cfc778857",
+  "in_force": "2025-03-13",
+  "in_force_basis": "official decision date",
+  "kind": "constitutional-court-individual-application",
+  "omitted_images": 0,
+  "outcome": "Kabul Edilemezlik vd.",
+  "published": null,
+  "referenced_images": 0,
+  "source": "https://kararlarbilgibankasi.anayasa.gov.tr/kbb/pages/search/Tumu?id=a2JiOjhkMWFhNzQ1LWE3NmMtMzg4Zi04ZTE0LTViOGNmYzc3ODg1Nw&type=BireyselBasvuru",
+  "source_api": "https://kararlarbilgibankasi.anayasa.gov.tr/api/core/public/search",
+  "source_images": 0,
+  "source_sha256": "a3bea8286cca1fb3a28601321be6cac5b2be93cd59a4e8454093ca015c4e6b39",
+  "version_label": "as-enacted"
+}
