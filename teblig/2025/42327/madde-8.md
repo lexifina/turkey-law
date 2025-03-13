@@ -1,0 +1,4 @@
+Diğer hizmetler için bildirim zorunluluğu
+MADDE 8- (1) Diğer hizmetler, kripto varlık hizmet sağlayıcılar tarafından ayrıca bir yetki belgesine tâbi olmaksızın Kurulca belirlenen esaslar çerçevesinde yapılır.
+(2) Kripto varlık hizmet sağlayıcılar, faaliyet izni başvuruları sırasında sunmayı planladıkları diğer hizmetleri de Kurula bildirmekle yükümlüdürler. Faaliyet izninin alınmasından sonra, başka diğer hizmetlerin de sunulmak istenmesi halinde, bunlar için de ayrıca Kurula bildirimde bulunulur.
+(3) Kurula yapılan bildirimi takiben yirmi iş günü içinde Kurulca aksi yönde görüş bildirilmedikçe, bildirimde bulunulan diğer hizmetler bu Tebliğde belirtilen esaslara uygun olarak yürütülmeye başlanır. Kurulca istenecek eksik bilgi ve belgelerin tamamlanması için geçen süreler bu sürenin hesabında dikkate alınmaz.

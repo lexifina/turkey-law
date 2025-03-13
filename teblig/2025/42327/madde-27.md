@@ -1,0 +1,3 @@
+Anahtarların erişimine ilişkin ilke ve esaslar
+MADDE 27- (1) Kripto varlık hizmet sağlayıcılar tarafından; özel anahtarlar ve özel anahtarların üretiminde kullanılan mekanizmalar ile yedeklenmeleri sürecinde kullanılan anahtarlar gibi varlık ve mekanizmaların yönetilmesine ve erişilmesine ilişkin olarak TÜBİTAK Altyapı Kriterlerinde belirlenen esaslara uyulur.
+(2) Özel anahtarların, çok taraflı eşik kriptografisi gibi mekanizmalarla parçalara ayrılması durumunda her bir parçanın ve anahtar parçalarının kullanıldığı mekanizmaların, yedekleri dahil olmak üzere Türkiye’de tutulması ve bunlara ilişkin kontrolün kripto varlık hizmet sağlayıcılarda olması gerekir.

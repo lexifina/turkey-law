@@ -1,0 +1,3 @@
+Mutabakat sistemine ilişkin esaslar
+MADDE 33- (1) Platformlar tarafından her bir kripto varlık bazında kurum kaydi sisteminde kayıtlı işlemler müşteri bazında netleştirilir ve netleştirme raporu oluşturulur. Netleştirme raporunun sonucunda, 41 inci maddede öngörülen esaslar uyarınca gerekli görülmesi halinde platform cüzdanı ile saklama kuruluşu cüzdanı arasında aktarım gerçekleştirilir.
+(2) Platform ve saklama kuruluşu arasında netleştirme raporu kapsamında yapılacak müşteri varlıklarına ilişkin aktarımlar, saat 23:59 itibarıyla gerçekleştirilir. Gün içerisinde, 41 inci maddede öngörülen esaslar uyarınca aktarım yapılması gerektiği hallerde veya müşteri talebi çerçevesinde aktarım için gün sonu beklenmez.

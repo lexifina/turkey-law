@@ -1,0 +1,7 @@
+Transfer emirlerinin gerçekleştirilmesi süreci
+MADDE 29- (1) Transfer emirlerinin gerçekleşmesi süreci; ikinci fıkrada tanımlanan cüzdanlara erişim denetimi süreci başarıyla tamamlanmış transfer emirlerinin imzalanarak dağıtık defter ağına iletilmesi sürecini ifade eder.
+(2) Cüzdanlara erişim denetimi; transfer emirlerinin yetkililerce verildiğinin ve onaylandığının doğrulanması ile sürecin Kurul düzenlemelerine, kripto varlık hizmet sağlayıcıların belirlediği politikalara ve 31 inci madde uyarınca imzalanan saklama sözleşmesine uygun olarak yürütüldüğüne ilişkin kontrollerin tamamını ifade eder. Söz konusu kontrollere yönelik olarak yönetim kurulu kararı ile yürürlüğe girecek bir politika oluşturulur. Cüzdanlara erişim denetiminde aşağıda yer verilen hususlar dikkate alınır:
+a) Kontrollerin kesintiye uğramasına ya da aşılmasına neden olabilecek iç veya dış kaynaklı saldırıların engellenmesini sağlayacak önlemler alınır.
+b) Cüzdanlara erişim denetimi mekanizmaları kapsamında, özel anahtarları güvenli bir şekilde üreten, tutan, işleyen ve çok faktörlü kimlik doğrulamayı destekleyen akıllı kart gibi teknolojilerin kullanılması gerekir.
+(3) Cüzdanlara erişim denetimi ile transferlerin gerçekleşmesi süreçleri farklı süreçler olarak değerlendirilir. Cüzdanlara erişim denetimi tamamlanmaksızın transferlerin gerçekleşmesi sürecine geçilemez.
+(4) Kripto varlık hizmet sağlayıcılar tarafından cüzdan teknolojilerine ilişkin olarak, ikinci ve üçüncü fıkralarda belirtilen esasların yanı sıra TÜBİTAK Altyapı Kriterlerinde yer verilen esaslara uyulur.

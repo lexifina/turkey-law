@@ -1,0 +1,8 @@
+Cüzdan teknolojilerine yönelik özel esaslar
+MADDE 28- (1) Kripto varlık hizmet sağlayıcılar tarafından müşteri varlıklarının saklandığı cüzdanlara ilişkin güvenli donanım modülü ve kritik yazılım bileşenlerinde asgari olarak aşağıda yer alan şartlar aranır:
+a) Cüzdanlardaki anahtarlar veya anahtar parçalarının güvenli donanım modülü dışına çıkarılmaması esastır. Ancak bunların yedeklenmesi veya depolanması amacıyla, güvenliği sertifikalandırılmış bir yöntem kullanılmak suretiyle çıkarılmaları mümkündür.
+b) Güvenli donanım modülü ile bu modüle entegre çalışan bileşenlere fiziksel ve elektronik olarak gerçekleşebilecek yetkisiz erişimleri ve sabotaj girişimlerini engellemek için gerekli güvenlik önlemleri alınır.
+c) Güvenli donanım modülünün fiziksel müdahaleye karşı dayanıklı olması ve olası bir fiziksel müdahale girişiminde üzerinde tutulan gizli bilgiyi silerek erişilemez hale getirme ve/veya alarm verme özelliklerine sahip olması gerekir.
+(2) Kripto varlık hizmet sağlayıcılar tarafından cüzdan teknolojilerine ilişkin olarak, birinci fıkrada belirtilen esasların yanı sıra, TÜBİTAK Altyapı Kriterlerinde belirlenen esaslara uyulur.
+(3) TÜBİTAK, cüzdan mimarisinde kullanılan güvenli donanım modülleri ile bu modülleri kontrol eden, kimlik doğrulama ve politika kontrollerini yapan yazılımlara yönelik yapılacak test ve sertifikasyon koşullarını belirlemeye yetkilidir.
+(4) Yetkisiz kopya alınmasının engellenmesi amacıyla, güvenli donanım modüllerinin kullanıma hazırlanması, bu süreçte yedekten kurtarma anahtarlarının oluşturulması ve anahtarların yetkililere teslimi süreci, TÜBİTAK veya bilgi sistemleri bağımsız denetim firmalarının gözetiminde yapılır.

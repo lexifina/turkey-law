@@ -1,0 +1,10 @@
+Saklamaya ilişkin genel ilke ve esaslar
+MADDE 26- (1) Müşterilere ait kripto varlıklar saklama kuruluşunun kendi hesaplarından ayrı olarak, platform adına, toplu olarak saklanır.
+(2) 5549 sayılı Kanun ve ilgili mevzuat hükümleri saklı kalmak üzere, platformların müşterilerinin saklama kuruluşu ile harici bir sözleşme imzalamalarına gerek yoktur.
+(3) Saklama kuruluşlarının 24 üncü maddenin ikinci fıkrası kapsamında müşterilere doğrudan saklama hizmeti vermesi durumunda, söz konusu hizmete ilişkin olarak saklama kuruluşunun bu müşterilerle ayrıca bir sözleşme yapması ve bu hizmetten doğabilecek riskleri müşterilere açık ve detaylı bir şekilde aktarılmasını sağlaması zorunludur. Bu müşterilere ait kripto varlıklar saklama kuruluşu tarafından müşteri bazında saklanır.
+(4) Saklama kuruluşunun müşteri varlıklarının kontrolü için kullandığı tüm anahtar ve parçalarının güvenli donanım modüllerinde TÜBİTAK Altyapı Kriterlerinde belirlenen esaslar kapsamında tutulması zorunludur.
+(5) Saklama hizmetinin bu Tebliğde belirlenen esaslar kapsamında sunulmasına ilişkin esasların yer aldığı ve yönetim kurulu kararıyla yürürlüğe girecek yazılı bir prosedür oluşturulması ve bu prosedürün yılda en az bir kez gözden geçirilerek güncelliğinin sağlanması gerekir.
+(6) Saklama kuruluşlarının sıcak cüzdan büyüklüğünün toplam müşteri varlığının %5’ine kadar olması esastır.
+(7) Saklama kuruluşu tarafından platform müşterilerine ait kripto varlıkların tamamının saklanması halinde, bu kuruluşların 29 ve 30 uncu maddelerde belirlenen esaslara uygun olarak müşteri varlıklarına yönelik transfer emirlerini gerçekleştirmesi mümkündür. Bu usulde çalışan saklama kuruluşlarının sıcak cüzdan büyüklüğü, gün içerisindeki transfer yoğunluğu dikkate alınarak toplam müşteri varlığının azami %10’una kadar çıkabilir.
+(8) Altıncı ve yedinci fıkralarda belirtilen oranların hesaplanmasında, imzalanmış ancak dağıtık defter ağına işlenmeyi bekleyen transferler dikkate alınmaz.
+(9) 10 uncu maddenin dördüncü fıkrasında belirtilen hizmetin saklama kuruluşları tarafından da verilmesi mümkündür.
