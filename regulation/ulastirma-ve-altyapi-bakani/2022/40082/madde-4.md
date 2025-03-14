@@ -1,0 +1,20 @@
+Tanımlar
+MADDE 4- (1) Bu Yönetmelikte yer alan;
+a) AYGM: Ulaştırma ve Altyapı Bakanlığı Altyapı Yatırımları Genel Müdürlüğünü,
+b) Bakanlık: Ulaştırma ve Altyapı Bakanlığını,
+c) Bakım onarım: Tekne bünyesinde veya donatımı kapsamında gerçekleştirilen; tekne alt yıkama, sac, boya, elektrik-elektronik, mekanik işleri, ana makine ve yardımcı makinelerin yenileme, tamir, bakım ve benzeri diğer işleri,
+ç) Destek noktası: Hareket yeteneği kısıtlı kişilere hizmet vermek amacıyla gerekli donanıma sahip olan, sesli, görsel ve dijital hizmetlerin sunulduğu ve bu maksatla görevli personelin bünyesinde barındırıldığı alanı,
+d) Gemi sanayi tesisleri: 28/6/2015 tarihli ve 29400 sayılı Resmî Gazete’de yayımlanan Tersane, Tekne İmal ve Çekek Yeri Hakkında Yönetmelik kapsamındaki tesisleri,
+e) Hak lehtarlığı: Kıyı tesisinin zilyetliğini gösteren ve bunu kullanma izni, irtifak hakkı, kira, tapu, işletme hakkı devri, geçici veya kesin devir, ön izin gibi sözleşmelerle ispatlayan belgeyi,
+f) İdare: Ulaştırma ve Altyapı Bakanlığı Tersaneler ve Kıyı Yapıları Genel Müdürlüğünü,
+g) İnceleme, Tespit ve Denetim Komisyonu (İTDK): Kıyı tesisinin bu Yönetmelik kapsamında mahallinde incelenmesi, denetlenmesi ve tespitler yapılması maksadıyla oluşturulan Komisyonu,
+ğ) Kışlama: Ek-6 kapsamında belgelendirilen kıyı tesislerinde bir deniz aracının faaliyette bulunmadığı veya kullanılmadığı dönemlerde bakım onarım da dahil olmak üzere karada park edilmesi veya denizde bağlı olmasını,
+h) Kıyı tesisi: 3621 sayılı Kanun kapsamında; deniz kıyılarında, sahil şeridinde, doldurma ve kurutma yoluyla kazanılan alan üzerinde kurulmuş olan ve bu Yönetmeliğin kapsamında belirtilmiş olan tesisleri,
+ı) Kıyı tesisi işletme izni: Kıyı tesislerine; gemi ve gemi niteliği taşımayan deniz araçlarının yanaşıp ayrılması, barınması, tahmil tahliye yapılması ve/veya yolcuların gemilere binmesi ya da gemiden indirilmesi gibi faaliyetlerin seyir emniyeti, can, mal ve çevre güvenliği açısından yeterliğine yönelik kıyı tesisinin belgelendirilmesi için verilen izni,
+i) Kıyı tesisi işletmecisi: Kıyı tesisini işletebilmek için hak lehtarı olan veya kıyı tesisini kiralayan gerçek kişiler ile kamu veya özel hukuk tüzel kişilerini,
+j) Kıyı tesisi izni: Bu Yönetmelik kapsamında düzenlenen kıyı tesisi işletme iznini veya özel izni,
+k) Liman arayüzü: Gemiye yükleme ve boşaltma operasyonlarının yürütüldüğü alanı,
+l) Özel izin: Kıyı tesisi işletme izni dışında 6 ncı madde kapsamında verilen izinleri,
+m) Yanaşma yeri: Geminin yanaştırılmasına ve barınmasına uygun olarak dizayn edilmiş rıhtımı bulunan, ancak geri sahasında sosyal ve teknik hizmet, destek, yönetim, karada bakım onarım imkânı bulunmayan ve halka açık alanlarda sadece yolculara hizmet veren kıyı tesisini,
+n) Yetkilendirilmiş klas kuruluşu: 18/1/2017 tarihli ve 29952 sayılı Resmî Gazete’de yayımlanan Gemiler İçin Yetkilendirilmiş Kuruluşlar Yönetmeliği kapsamında yetkilendirilmiş kuruluşları,
+ifade eder.

@@ -1,0 +1,2 @@
+Dayanak
+MADDE 3- (1) Bu Yönetmelik, 14/4/1925 tarihli ve 618 sayılı Limanlar Kanunu, 26/9/2011 tarihli ve 655 sayılı Ulaştırma ve Altyapı Alanına İlişkin Bazı Düzenlemeler Hakkında Kanun Hükmünde Kararnamenin 28 inci maddesi ile 1 sayılı Cumhurbaşkanlığı Teşkilatı Hakkında Cumhurbaşkanlığı Kararnamesinin 482 nci maddesinin birinci fıkrasının (e) bendi ve 497 nci maddesinin birinci fıkrasının (c) bendine dayanılarak hazırlanmıştır.

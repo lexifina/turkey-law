@@ -1,0 +1,5 @@
+Kıyı tesisi izni için belge ve hizmet bedeli
+MADDE 15- (1) Bu Yönetmelik kapsamındaki kıyı tesisi izin başvuruları ile ilgili olarak, İTDK tarafından yapılacak inceleme için kıyı tesisi işletmecisi, Bakanlık Döner Sermaye İşletmesi hesabına İdare tarafından belirlenmiş inceleme hizmet bedelini ödemekle yükümlüdür. İTDK tarafından yapılan inceleme neticesinde tespit edilen uygunsuzluk veya eksikliklere yönelik olarak, müteakip İTDK incelemesi olması durumunda her bir İTDK için inceleme hizmet bedelinin kıyı tesisi işletmecisi tarafından Bakanlık Döner Sermaye İşletmesi hesabına ödenmesi şartı aranır.
+(2) Kıyı tesisi işletme izin belgesi için İdare tarafından belirlenmiş ücret, Bakanlık Döner Sermaye İşletmesi hesabına, kıyı tesisi işletmecisi tarafından yatırılır.
+(3) İdare tarafından düzenlenen izin belgelerinde sehven yapılmış işlemlerin düzeltilmesi amacıyla yeniden düzenlenen izin belgeleri için belge ücreti talep edilmez.
+(4) 13 üncü maddenin üçüncü fıkrası nedeniyle izni askıya alınan kıyı tesisinin yeniden müracaatı üzerine tesiste yapılacak incelemeler için hizmet bedeli ve düzenlenecek izin belgesi için belge ücreti iki katı olarak alınır.
