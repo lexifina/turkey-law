@@ -1,0 +1,43 @@
+{
+  "source_id": "7.5.24679",
+  "kind": "regulation",
+  "register_kind": "Kurum ve Kuruluş Yönetmelikleri",
+  "title": "ÖLÇME, SEÇME VE YERLEŞTİRME MERKEZİ BAŞKANLIĞI PERSONELİ GÖREVDE YÜKSELME VE UNVAN DEĞİŞİKLİĞİ YÖNETMELİĞİ",
+  "number": "24679",
+  "issuer": "Başkan",
+  "issuer_slug": "baskan",
+  "path": "regulation/baskan/2018/24679",
+  "source": "https://www.mevzuat.gov.tr/anasayfa/MevzuatFihristDetayIframe?MevzuatTur=7&MevzuatNo=24679&MevzuatTertip=5",
+  "source_sha256": "55d9f367a4a851f3fd0927cee3f2b4daeb37b69bb5affab8fb6dabc4553f9c1a",
+  "source_bytes": 61570,
+  "published": "2018-06-14",
+  "gazette": "30451",
+  "in_force": "2025-03-14",
+  "in_force_basis": "latest Resmî Gazete date printed in the source amendment notes/table (\"RG-14/3/2025\") for the current consolidated text",
+  "date_evidence": [
+    [
+      "2025-03-14",
+      "RG-14/3/2025",
+      "Resmî Gazete date printed in the source amendment note"
+    ],
+    [
+      "2025-03-14",
+      "14/3/2025",
+      "Resmî Gazete date in the source amendment table"
+    ]
+  ],
+  "commencement_clauses": [
+    "Bu Yönetmelik yayımı tarihinde yürürlüğe girer"
+  ],
+  "history": "current-text",
+  "label": "oldest version available",
+  "checked_on": "2026-11-15",
+  "word_count": 2962,
+  "text_status": "current-consolidated",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  },
+  "completeness": "html-text-complete"
+}
