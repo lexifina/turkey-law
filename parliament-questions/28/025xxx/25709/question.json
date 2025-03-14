@@ -1,0 +1,21 @@
+{
+  "record_type": "parliament-written-question",
+  "term": 28,
+  "legislative_year": 3,
+  "esas_no": "7/25709",
+  "submitted": "2025-03-14",
+  "submitted_as": "Başkanlığa geliş tarihi",
+  "mp": "Kayıhan PALA",
+  "province": "Bursa",
+  "summary": "Çam ve Sakura Şehir Hastanesinde yaşandığı iddia edilen iş kazalarına ilişkin",
+  "status": "Cevaplanmadığı Gelen Kağıtlarda İlan Edildi",
+  "status_as_of": "2026-11-16",
+  "official_record": "https://www.tbmm.gov.tr/Denetim/Yazili-Soru-Onergesi-Detay/b8d38374-f3ba-4cc8-a4de-0195a303eff5",
+  "source": "https://tbmm.gov.tr/Denetim/YaziliSoruOnergesiTable",
+  "source_form": "https://tbmm.gov.tr/Denetim/Yazili-Soru-Onergeleri",
+  "source_sha256": "9f5cd7153fe2f1cc7d739612333e5018372a19dfba69993a07cfccaaf59fdd75",
+  "in_force": "2025-03-14",
+  "in_force_basis": "Date the question reached the Speaker (Başkanlığa geliş tarihi) in the official TBMM written-question record; parliamentary oversight record, not law",
+  "history_type": "metadata",
+  "text_status": "metadata-only: question text, addressee and answers are in the linked official record (PDFs on cdn.tbmm.gov.tr); not transcribed here"
+}
