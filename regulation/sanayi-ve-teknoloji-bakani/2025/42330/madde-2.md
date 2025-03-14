@@ -1,0 +1,2 @@
+Kapsam
+MADDE 2- (1) Bu Yönetmelik; 19/4/2020 tarihli ve 31104 sayılı Resmî Gazete’de yayımlanan Motorlu Araçlar ve Römorkları ile Bunların Aksam, Sistem ve Ayrı Teknik Ünitelerinin Tip Onayı ve Piyasa Gözetimi ve Denetimi Hakkında Yönetmelik (AB/2018/858)’in 4 üncü maddesinde tanımlanan, M ve N kategorisindeki motorlu araçlar ile bu araçlar için tasarlanan ve imal edilen aksam, sistem ve ayrı teknik üniteleri kapsar.
