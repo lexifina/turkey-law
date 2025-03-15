@@ -1,0 +1,11 @@
+İKİNCİ KISIM
+İtiraz
+İtiraz ve itirazın incelenmesi
+MADDE 39 – (1) Başvuru yapan, Kanunun 38 inci maddesi çerçevesinde reddedilen başvuruyla ilgili olarak, kararın bildirim tarihinden itibaren iki ay içinde, itiraza ilişkin gerekçelerin belirtildiği imzalı itiraz formunu elektronik ortamda doldurarak Kuruma itiraz edebilir.
+(2) Tescil talebinin Kanunun 33 ilâ 37 nci ve 39 uncu maddelerine uygun olmadığı iddiasıyla üçüncü kişiler veya 48 inci maddesi kapsamında önceki tarihli herhangi bir hak sahibi, başvurunun Bültende yayımlandığı tarihten itibaren üç ay içinde, itiraza ilişkin gerekçelerin belirtildiği imzalı itiraz formunu elektronik ortamda doldurarak Kuruma itiraz edebilir.
+(3) Birinci ve ikinci fıkra kapsamında yapılan itiraza ilişkin gerekçelerin veya itiraz ücretinin ödendiğine ilişkin bilginin süresi içinde Kuruma sunulmaması durumunda itiraz yapılmamış sayılır.
+(4) İkinci fıkra uyarınca yapılan itiraz hakkında başvuru yapana bilgi verilir. Başvuru yapanın, itiraza ilişkin görüşünü tebliğ tarihinden itibaren bir ay içinde Kuruma bildirmemesi halinde itiraz, mevcut bilgi ve belgeler kapsamında incelenir.
+(5) Birinci ve ikinci fıkralar uyarınca yapılan itirazlar Kurul tarafından incelenir. Kurul, inceleme sırasında gerekli görmesi halinde taraflardan ek bilgi ve belge talep eder. Ek bilgi ve belgelerin bildirim tarihinden itibaren bir ay içinde sunulmaması halinde itiraz, mevcut bilgi ve belgeler kapsamında incelenir.
+(6) Kurul, itirazda ileri sürülen hususların değerlendirilmesi için ilgili kurum veya kuruluşlardan bir ay içinde gönderilmek üzere görüş talep edebilir. Görüş için ilgili kurum ve kuruluşlar tarafından ücret talep edilmesi halinde söz konusu ücret, itiraz eden tarafından bir ay içinde ilgili kurum veya kuruluşa ödenir. Ödemeye ilişkin bilgi aynı süre içinde Kuruma sunulur. Talep edilen ücretin süresi içinde ödenmemesi ve ödemeye ilişkin bilginin Kuruma sunulmaması halinde itiraz mevcut bilgi ve belgeler kapsamında incelenir.
+(7) İtirazın incelenmesi sonucunda başvuruda değişiklik yapılması halinde başvurunun son hali, değişikliğe uğrayan kısım ayrıca belirtilmek suretiyle Bültende yayımlanır. Bu yayıma itiraz edilemez.
+(8) İtiraz üzerine başvurunun reddedilmesi halinde karar Bültende yayımlanır.

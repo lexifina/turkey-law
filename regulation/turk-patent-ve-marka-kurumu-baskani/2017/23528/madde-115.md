@@ -1,0 +1,7 @@
+Hakların yeniden tesisi
+MADDE 115 – (1) Patent başvurusu veya patent sahibi tarafından, patent başvurusu veya patentle ilgili işlemlerde şartların gerektirdiği özen gösterilmesine rağmen, uyulması gereken bir süreye uyulamamasının patent başvurusunun reddine, geri çekilmiş sayılmasına, Kanunun 99 uncu maddesi uyarınca patentin hükümsüz kılınmasına veya diğer herhangi bir hakkın kaybına yol açması halinde, hakların yeniden tesisi talep edilebilir.
+(2) Hakların yeniden tesisi talebi, uyulamamış olan sürenin bitiminden itibaren bir yılı geçmemek üzere, süreye uyulamama nedeninin ortadan kalkmasından itibaren iki ay içinde Tebliğde belirtilen ücret ödenerek yapılır. Ancak, Kanunun 93 üncü maddesinin birinci fıkrasında belirtilen on iki aylık rüçhan süresine uyulamama durumunda, bu sürenin bitiminden itibaren iki ay içinde hakların yeniden tesisi talebinde bulunulabilir.
+(3) Hakların yeniden tesisi talebine dayanak olan gerekçeler ve bunları kanıtlayıcı bilgi ve belgeler taleple birlikte sunulur.
+(4) Kurum, talebe ilişkin olarak yaptığı değerlendirme sonucunu başvuru sahibi ya da patent sahibine bildirir. Hakların yeniden tesisi talebinin kabul edilmesi halinde başvuru yayımlanmışsa bu durum Bültende yayımlanır.
+(5) 103 üncü maddenin ikinci fıkrası uyarınca yapılan bildirimlerde verilen üç aylık süreye uyulamadığı için yapılamamış olan işlemin gereğini yaparak işlemlere devam edilmesi talebi, bu madde uyarınca yapılamaz.
+(6) Bu madde hükümleri, işlemlerin devam ettirilmesi veya hakların yeniden tesisi ile ilgili süreler açısından uygulanmaz.

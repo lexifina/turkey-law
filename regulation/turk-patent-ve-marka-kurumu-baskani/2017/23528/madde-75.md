@@ -1,0 +1,10 @@
+Tarifname
+MADDE 75 – (1) Tarifname, buluş konusunun ilgili olduğu teknik alanda uzman bir kişi tarafından buluşun uygulanabilmesini sağlayacak nitelikte, açık ve ayrıntılı olarak yazılır. Başvuru konusu buluşun tüm özellikleri hiçbir şey gizlenmeden, eksiksiz olarak açıklanır. Tarifname sırasıyla aşağıdaki bölümleri kapsar:
+a) Buluş başlığı: Tarifnamenin başlangıcında başvuru formunda belirtilen buluş başlığı yer alır. Buluş başlığı, buluş konusu teknik geliştirmeyi kısaca tanımlar ve marka niteliğindeki terimleri kapsamaz.
+b) Teknik alan: Buluşun ilgili olduğu teknik alan belirtilir.
+c) Tekniğin bilinen durumu: Buluşun anlaşılması, araştırılması ve incelenmesi için başvuru sahibinin bildiği kadarıyla buluş konusunun hem yurt içi hem de yurt dışındaki benzerleri ayrıntılı olarak verilir. Buluş konusunun benzerlerine atıflar yapılarak patentle korunması istenen buluşun bunlardan farklılıkları, karşılaştırma yapmayı sağlayacak nitelikte ayrıntılı biçimde açıklanır.
+ç) Buluşun çözümünü amaçladığı teknik problemler: Buluşun hangi teknik problem ya da problemlerin çözümünü amaçladığı açıklanır. Başvuruda teknik problem açıkça ifade edilmese dahi teknik problemin ve çözümünün anlaşılabileceği şekilde buluş ortaya konulur ve tekniğin bilinen durumuna atıfta bulunularak buluşun varsa avantajları belirtilir.
+d) Resimlerin açıklanması: Varsa, resimlerin her birinin kısa tanımı yapılır, resimlerde yer alan parçaların numaraları ve tanımları açıklanır.
+e) Buluşun açıklanması: Patentle korunması istenen buluş, hiçbir şüpheye ve yanlış anlamaya yer vermeyecek şekilde, örnekler verilerek, varsa resimlere atıfta bulunularak ayrıntılı olarak açıklanır. Açıklamada resimlerdeki parçalar ve işlevleri anlatılırken her bir parçanın sonunda parça numarası parantez içinde belirtilir.
+f) Buluşun sanayiye uygulanma biçimi: Buluştan sanayide ne şekilde yararlanılabileceği ve buluşun ne şekilde uygulanabileceği veya kullanılabileceği belirtilir.
+(2) Tarifnamenin birinci fıkrada belirtilen şekil ve düzende sunulması zorunludur. Ancak, buluşun doğası gereği, farklı bir anlatım şekli buluşun daha iyi anlaşılmasını sağlıyorsa bu zorunluluk aranmaz.

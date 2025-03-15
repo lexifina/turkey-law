@@ -1,0 +1,9 @@
+Bölünmüş başvuru
+MADDE 83 – (1) İşlemleri devam eden bir başvurudan, başvuru konusunun kapsamını aşmayacak şekilde ve başvuruya ait belge verilmesi kararının Bültende yayımlandığı tarihe kadar bölünmüş başvuru yapılabilir.
+(2) Kurum tarafından buluş bütünlüğü bulunmadığına karar verilen bir patent başvurusundan yapılacak bölünmüş başvuru, bildirimde belirtilen buluş konularına ilişkin ve birinci fıkra hükmüne uygun olarak yapılır.
+(3) Buluş bütünlüğüne bakılmaksızın, başvuru sahibi kendi isteğiyle de birinci fıkra hükmüne uygun olarak bölünmüş başvuru yapabilir.
+(4) İlk başvurunun kapsamı içinde kalmak kaydıyla, bölünmüş her başvuru için başvuru tarihi, ilk başvurunun tarihidir. İlk başvuruda rüçhan hakkı talep edilmişse bu hak bölünmüş her başvuruya da tanınır.
+(5) Bölünmüş başvuruya ilişkin geçmiş yıllara ait yıllık ücretler, bölünmüş başvuru talep tarihinde veya bu talep tarihinden itibaren herhangi bir bildirime gerek olmaksızın Kanunun 95 inci maddesinin ikinci fıkrasında belirtilen iki aylık süre içinde ek ücretsiz ödenir. Geçmiş yıllara ait yıllık ücretlerin bu sürede ödenmemesi durumunda bölünmüş başvuru geri çekilmiş sayılır.
+(6) Bölünmüş patent başvurusu için araştırma talebi başvuruyla birlikte veya herhangi bir bildirime gerek olmaksızın bölünmüş başvuru talebinin Kuruma verildiği tarihten itibaren on iki ay içinde Tebliğde belirtilen araştırma ücreti ödenerek yapılır.
+(7) Bölünmüş faydalı model başvurusu için araştırma talebi başvuruyla birlikte veya herhangi bir bildirime gerek olmaksızın başvurunun şeklî şartlara uygunluk bakımından bir eksikliğinin olmadığının veya eksikliklerin süresi içinde giderildiğinin bildirildiği tarihten itibaren iki ay içinde Tebliğde belirtilen araştırma ücreti ödenerek yapılır.
+(8) Bölünmüş bir başvurudan tekrar bölünmüş başvurular yapılması durumunda, bölündüğü başvurunun durumu dikkate alınır.

@@ -1,0 +1,2 @@
+Buluş bütünlüğü olmaması durumunda araştırma raporu
+MADDE 100 – (1) Kanunun 91 inci maddesi uyarınca, patent başvurusunda buluş bütünlüğü olmadığı tespit edilirse istemlerde bahsedilen ilk buluşa ilişkin araştırma raporu düzenlenir. Başvuru sahibi buluş bütünlüğü dışında kalan ve araştırılması yapılmayan diğer istemler için bu başvuru konusunun kapsamını aşmayacak şekilde bölünmüş başvuru yapabilir.

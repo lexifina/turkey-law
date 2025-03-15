@@ -1,0 +1,10 @@
+Başvuru unsurlarının tamamlanması
+MADDE 72 – (1) 71 inci maddenin ikinci fıkrasında belirtilen unsurlarla yapılan ve işleme alınan başvuruda, aşağıda belirtilen unsurlardan en az birinin eksik olması halinde, bu eksiklikler herhangi bir bildirime gerek olmaksızın başvuru tarihinden itibaren iki ay içinde giderilir:
+a) 74 üncü maddenin birinci fıkrasında belirtilen ve başvuru sırasında verilmemiş olan bilgiler.
+b) İstemler.
+c) Varsa tarifnamede veya istemlerde atıf yapılan resimler.
+ç) Özet.
+d) Başvuru ücretinin ödendiğine ilişkin bilgi.
+(2) 71 inci maddenin ikinci fıkrası uyarınca sunulan tarifname veya tarifnameyle birlikte birinci fıkrada belirtilen diğer unsur veya unsurlar başvuru sırasında Paris Sözleşmesi veya Dünya Ticaret Örgütü Kuruluş Anlaşmasına taraf veya karşılıklılık ilkesini uygulayan devletlerin resmî dillerinden birinde verilmişse, bu unsurların Türkçe çevirileri ve bu çevirinin yabancı dilde verilen metin ile aynı olduğuna dair beyan herhangi bir bildirime gerek olmaksızın başvuru tarihinden itibaren iki ay içinde Kuruma sunulur.
+(3) Başvuru sırasında önceki başvuruya atıf yapılması durumunda atıf yapılan önceki başvurunun tarifname, istemler, özet ve varsa resimlerini içeren onaylı bir sureti ve onaylı suretin yabancı dilde olması durumunda Türkçe çevirisi ile birlikte bu çevirinin yabancı dilde verilen metinle aynı olduğuna dair beyan herhangi bir bildirime gerek olmaksızın başvuru tarihinden itibaren iki ay içinde Kuruma sunulur. Başvuru sırasında önceki başvuruya atıf yapılması ve önceki başvurunun bazı resimlerine veya kısımlarına atıfta bulunulmaması halinde sonradan tamamlanan tarifname, atıfta bulunulan başvurunun tarifnamesinden atıfta bulunulmayan resimlerle veya kısımlarla ilgili referanslar ve açıklamalar çıkarılarak düzenlenir.
+(4) Birinci, ikinci ve üçüncü fıkralarda belirtilen unsurların belirtilen sürede tamamlanmaması halinde başvuru geri çekilmiş sayılır ve bu durum başvuru sahibine bildirilir. Sonradan tamamlanan unsurlar başvurunun ilk kapsamını aşamaz.

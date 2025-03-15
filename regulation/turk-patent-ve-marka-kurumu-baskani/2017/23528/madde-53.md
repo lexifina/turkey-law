@@ -1,0 +1,9 @@
+Başvuru işlemlerine ilişkin ücretler
+MADDE 53 – (1) Başvuruya ilişkin ücretler, tasarım başvuru ve yayım ücreti ile varsa rüçhan ve yayım erteleme talebi ücretlerinden oluşur.
+(2) Her bir tasarım başvurusu için alınan ücret tasarım başvuru ücretidir. Bir tasarım içeren başvurular tekli, birden fazla tasarım içeren başvurular ise çoklu başvuru olarak değerlendirilir. Çoklu başvurularda yer alan ilave her bir tasarım için Tebliğde belirlenen ilave tasarım başvuru ücreti ödenir.
+(3) Yayımlanması istenen her 8x8 cm alan için yayım ücreti ödenir. Bir görsel anlatım boyutlarının 8x8 cm’yi aşması durumunda ilave yayım ücreti alınır. Yayım erteleme talebi varsa yayım ücreti olarak ödemenin yapıldığı yıl geçerli olan ücret ödenir.
+(4) Rüçhan hakkının talep edilmesi halinde rüçhan ücreti ödenir. Birden fazla rüçhan hakkı talebinde bulunulması durumunda yapılan her bir rüçhan hakkı talebi için ayrı ücret ödenir. Rüçhan hakkı ücretinin ödenmemesi halinde rüçhan hakkından yararlanma talebi yapılmamış sayılır.
+(5) Yayım ertelemesinin talep edilmesi halinde, yayım ertelemesi talep edilen her bir tasarım için yayım erteleme ücreti ödenir.
+(6) Tasarım başvuru ve yayıma ilişkin ücretlerin ödenmemesi ve süresi içinde ödemeye ilişkin bilginin Kuruma sunulmaması halinde başvuru yapılmamış sayılır.
+(7) Tasarım başvurusunun geri çekilmesi halinde ödenen tasarım başvuru ücreti iade edilmez ancak, başvuruya ilişkin diğer ücretler talep üzerine iade edilir. Tasarım başvurusunun reddedilmesi veya işlemden kaldırılması halinde ise tasarım başvuru ücreti yanında varsa rüçhan ücreti de iade edilmez, başvuruya ilişkin yayım ücreti ve varsa yayım erteleme ücreti talep üzerine iade edilir.
+(8) Çoklu başvuruda yer alan tasarımların Locarno Sınıflandırmasının farklı olması veya yüz adedi aşması nedeniyle bölünmesi halinde, başvurunun kapsamından çıkarılan tasarımlara ilişkin tasarım başvuru ücreti talep üzerine iade edilir.

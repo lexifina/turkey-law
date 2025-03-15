@@ -1,0 +1,6 @@
+Gen dizisi içeren buluşun açıklanması ve dizi listelerinin sunulması
+MADDE 80 – (1) Bir gen dizisinin veya kısmi gen dizisinin sanayiye uygulanabilirliği ve fonksiyonu, tarifname veya istemlerde açıklanır.
+(2) Patent başvurusunda nükleotid veya amino asit dizileri açıklanıyorsa; tarifname, Dünya Fikri Mülkiyet Teşkilatının yürürlükte olan standartlarına uygun olarak hazırlanmış bir nükleotid veya amino asit dizi listesini de içerir. Dizi listesi, tarifnameden sonra gelmek üzere “dizi listesi” başlığıyla ayrı bir sayfada başvurunun eki olarak, başvuruyla birlikte sunulur. Dizi listesi elektronik ortamda verilir.
+(3) Kurum, başvuru unsurlarına ek olarak, ikinci fıkraya uygun hazırlanmış dizi listesinin Dünya Fikri Mülkiyet Teşkilatının yürürlükte olan standartlarına uygun bir veri taşıyıcısında verilmesini isteyebilir. Bu durumda, veri taşıyıcısında kayıtlı olan bilginin yazılı dizi listesi ile aynı olduğuna dair bir beyan verilir.
+(4) Dizi listesinin 96 ncı maddenin ikinci fıkrası uyarınca yapılan bildirim üzerine düzeltilerek verilmesi halinde dizi listesi, başvurunun kapsamını aşmadığına dair bir beyanla birlikte verilir.
+(5) Başvuru tarihinden sonra verilen dizi listesi tarifnamenin bir parçası olarak kabul edilmez.

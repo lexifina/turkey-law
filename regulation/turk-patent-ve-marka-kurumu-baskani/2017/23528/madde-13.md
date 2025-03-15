@@ -1,0 +1,2 @@
+Tescilin yayımlanması
+MADDE 13 – (1) Kanunun 22 nci maddesine göre tescil edilen markalar, Sicil kaydında bulunan bilgileri içerecek şekilde Bültende yayımlanır. Kanunun 22 nci maddesinin ikinci fıkrası kapsamında kalan markalar tescilli marka olarak kabul edilmez, başvuru işlemleri tamamlanmayan aşamadan devam ettirilir ve bu durum Bültende yayımlanır. Ancak tescil tarihinden itibaren iki yıl geçmiş olması halinde, markanın tescil durumu tamamlanmayan aşamadan etkilenmez.

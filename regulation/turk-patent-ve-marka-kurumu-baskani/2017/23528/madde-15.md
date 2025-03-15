@@ -1,0 +1,6 @@
+Rüçhan hakkının talep edilmesi
+MADDE 15 – (1) Kanunun 12 nci maddesi ve bu Yönetmeliğin 6 ncı maddesi hükümleri uyarınca talep edilen rüçhan hakkının Kurumca uygun bulunması halinde, marka tescil belgesinde ve Sicilde rüçhan hakkına ilişkin bilgiye yer verilir.
+(2) Türkiye'de açılan ulusal veya uluslararası sergilerdeki teşhire dayanan rüçhan hakkı taleplerinde, yetkili mercilerden alınan, teşhir edilen mal veya hizmetin kullanıldığı markayı açık ve eksiksiz bir şekilde gösteren, bu markanın fotoğraf veya fotoğraflarını içeren, serginin resmî açılış tarihini ve malların sergiye konulduğu veya hizmetin teşhir edildiği tarihi belirten sergi rüçhanı belgesi ve markanın tasdikli örneği sunulur.
+(3) Paris Sözleşmesi veya Dünya Ticaret Örgütü Kuruluş Anlaşmasına taraf devletlerde açılan uluslararası sergilerdeki teşhire dayanan rüçhan hakkı taleplerinde, sergiyi açan yetkili merciler tarafından teşhir edilen mal veya hizmetin kullanıldığı markaya ilişkin düzenlenen ve ikinci fıkrada belirtilen hususları içeren belge ile markanın tasdikli örneği sunulur.
+(4) Rüçhan hakkı talebinde, rüçhan hakkının doğduğu başvurunun ülkesi, tarihi ve numarası belirtilir.
+(5) Birden fazla rüçhan hakkı talebinde bulunulması durumunda yapılan her bir rüçhan hakkı talebi için ayrı ücret ödenir.

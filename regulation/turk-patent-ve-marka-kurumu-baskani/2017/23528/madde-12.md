@@ -1,0 +1,2 @@
+Tescil
+MADDE 12 – (1) Bir marka başvurusu, Kanunun 22 nci maddesinde belirtilen aşamaların tamamlanması ve tescil ücretinin ödendiğine ilişkin bilginin Kurum tarafından verilen iki aylık süre içinde Kuruma sunulması ile tescil edilir. Tescil ücretinin eksik ödenmesi durumunda söz konusu eksikliğin giderilmesi için başvuru sahibine bir aylık ek süre verilir. Belirtilen süreler içinde ödemeye ilişkin bilginin sunulmaması veya ücret eksikliğinin giderilmemesi durumunda başvuru işlemden kaldırılır ve talep halinde alınan ücret iade edilir.

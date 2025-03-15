@@ -1,0 +1,2 @@
+Terminoloji ve işaretler
+MADDE 94 – (1) Değerler ve tüm veriler uluslararası standartlara uygun birimler kullanılarak, uygun olduğu yerlerde uluslararası birimler sisteminin kullanıldığı metrik sistem cinsinden ifade edilir. Bu ifadelerde alanında genel olarak kabul gören teknik terimler, formüller, işaretler ve semboller kullanılır. Terminoloji ve işaretler başvuru unsurlarının tamamında tutarlılık arz eder.

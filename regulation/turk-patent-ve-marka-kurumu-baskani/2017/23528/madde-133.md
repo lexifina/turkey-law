@@ -1,0 +1,2 @@
+Yabancı dilde sunulan belgeler
+MADDE 133 – (1) Kuruma sunulacak belgelerin yabancı dilde olması halinde, söz konusu belgelerin tamamının ya da bir kısmının yeminli bir tercüman tarafından onaylanmış Türkçe tercümesinin sunulması istenebilir. Tercümelerin süresi içinde sunulmaması halinde söz konusu belgeler dikkate alınmaz. Belgelerin onaylı tercümesinin sunulmasının zorunlu olduğu haller saklıdır.

@@ -1,0 +1,26 @@
+Tanımlar
+MADDE 3 – (1) Bu Yönetmeliğin uygulanmasında;
+a) Amblem: Coğrafi işaretler ve geleneksel ürün adlarının 6769 sayılı Kanun hükümlerine uygun olarak tescil edilmiş olduğunu gösteren ve Kurum tarafından oluşturulan; tescil edildiği adla birlikte ürün veya ambalajı üzerinde kullanılan ya da niteliği gereği ürünün kendisi veya ambalajı üzerinde kullanılamadığı durumlarda kolayca görülebilecek şekilde hak sahibi kullanıcılar tarafından uygulanan ve coğrafi işaretler bakımından kullanılması zorunlu olan işareti,
+b) Biyolojik materyal: Genetik bilgi içeren ve kendi kendine üreyebilen ya da bir biyolojik sistemde üretilebilen herhangi bir maddeyi,
+c) Budapeşte Anlaşması: 5/8/1997 tarihli ve 97/9731 sayılı Bakanlar Kurulu Kararı ile katılmamız kararlaştırılan Patent İşlemleri Amacıyla Mikroorganizmaların Tevdi Edilmesinin Uluslararası Kabulü Konusunda Budapeşte Anlaşmasını,
+ç) Bülten: Yayım ortamının türüne bakılmaksızın bu Yönetmelikte belirtilen hususların yayımlandığı ilgili yayını,
+d) Dünya Ticaret Örgütü Kuruluş Anlaşması: 26/1/1995 tarihli ve 4067 sayılı Kanunla onaylanması uygun bulunan ve 3/2/1995 tarihli ve 95/6525 sayılı Bakanlar Kurulu Kararı ile yürürlüğe konulan Dünya Ticaret Örgütü Kuruluş Anlaşmasını,
+e) İletişim bilgileri: Adres bilgileri ile varsa elektronik posta adresi, kayıtlı elektronik posta adresi ve telefon numarası gibi temasa geçilmesine elverişli bilgileri,
+f) Kanun: 22/12/2016 tarihli ve 6769 sayılı Sınai Mülkiyet Kanununu,
+g) Kimlik bilgileri: Gerçek kişiler için adı, soyadı, Türk vatandaşı ise T.C. kimlik numarası; tüzel kişi ise adı veya ticaret unvanı ile vergi numarasını, kamu kurum ve kuruluşları ile kamu kurumu niteliğindeki meslek kuruluşlarının adı ve vergi numarasını, kimlik bilgisi marka vekili veya patent vekiline ilişkin ise ayrıca vekil Sicil numarasını,
+ğ) Kurum: Türk Patent ve Marka Kurumunu,
+h) Kurul: Yeniden İnceleme ve Değerlendirme Dairesi Başkanlığı bünyesinde yer alan Kurulu,
+ı) Locarno Anlaşması: 5/8/1997 tarihli ve 97/9731 sayılı Bakanlar Kurulu Kararı ile katılmamız kararlaştırılan Endüstriyel Tasarımların Uluslararası Sınıflandırılmasına İlişkin Locarno Anlaşmasını,
+i) Madrid Protokolü: 5/8/1997 tarihli ve 97/9731 sayılı Bakanlar Kurulu Kararı ile katılmamız kararlaştırılan Markaların Uluslararası Tescili Konusundaki Madrid Sözleşmesi ile İlgili Protokolü,
+j) Marka vekili: Marka, tasarım ve coğrafi işaret ile geleneksel ürün adlarına ilişkin konularda hak sahiplerini Kurum nezdinde temsil eden kişileri,
+k) Nis Anlaşması: 12/7/1995 tarihli ve 95/7094 sayılı Bakanlar Kurulu kararı ile yürürlüğe konulan Markaların Tescili Amacıyla Mal ve Hizmetlerin Uluslararası Sınıflandırılmasına İlişkin Nis Anlaşması ve değişikliklerini,
+l) Patent İşbirliği Antlaşması: 7/7/1995 tarihli ve 4115 sayılı Kanunla katılım sağlanan patentlerin uluslararası başvuru sistemini kuran Antlaşmayı,
+m) Paris Sözleşmesi: 8/8/1975 tarihli ve 7/10464 sayılı Bakanlar Kurulu Kararı ile onaylanan Sınai Mülkiyetin Himayesine Mahsus Milletlerarası Bir İttihat İhdas Edilmesine Dair 20/3/1883 tarihli Sözleşmeyi ve Türkiye Cumhuriyeti tarafından usulüne göre yürürlüğe konulmuş bu Sözleşme ile ilgili değişiklikleri,
+n) Patent vekili: Patent, faydalı model ve tasarım haklarına ilişkin konularda hak sahiplerini Kurum nezdinde temsil eden kişileri,
+o) Sınai mülkiyet hakkı: Markayı, coğrafi işareti, tasarımı, patent ve faydalı modeli,
+ö) Sınıf: Markalar için tescile konu mallar veya hizmetlerin yer aldığı her bir sınıfı, tasarımlar için Locarno Anlaşmasına dayanılarak tasarımların uygulandığı ürün sınıfı,
+p) Sicil: Sınai mülkiyet hakları ile geleneksel ürün adlarına ilişkin bilgilerin yer aldığı kayıt ortamını,
+r) Tebliğ: 6/11/2003 tarihli ve 5000 sayılı Türk Patent ve Marka Kurumu Kuruluş ve Görevleri Hakkında Kanunun 6 ncı maddesinin ikinci fıkrasının (f) bendi ile 25 inci maddesine göre Türk Patent ve Marka Kurumunca uygulanacak olan ücret tarifesine ilişkin tebliği,
+s) Ücret: Bu Yönetmelik kapsamında yer alan hizmetlere ilişkin olarak ilgili mevzuat hükümlerine göre Kurum tarafından belirlenen varsa vergi ve harç dâhil ücreti,
+ifade eder.
+BİRİNCİ KİTAP
