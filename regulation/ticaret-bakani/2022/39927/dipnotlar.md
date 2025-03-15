@@ -1,0 +1,1 @@
+[1] 8/3/2025 tarihli ve 32835 sayılı Resmî Gazete’de yayımlanan değişiklik ile Yönetmeliğin bu maddesine altıncı fıkradan sonra gelmek üzere fıkralar eklenmiş ve diğer fıkra buna göre teselsül ettirilmiştir.

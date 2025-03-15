@@ -1,0 +1,50 @@
+{
+  "source_id": "7.5.39927",
+  "kind": "regulation",
+  "register_kind": "Kurum ve Kuruluş Yönetmelikleri",
+  "title": "ELEKTRONİK TİCARET ARACI HİZMET SAĞLAYICI VE ELEKTRONİK TİCARET HİZMET SAĞLAYICILAR HAKKINDA YÖNETMELİK",
+  "number": "39927",
+  "issuer": "Ticaret Bakanı",
+  "issuer_slug": "ticaret-bakani",
+  "path": "regulation/ticaret-bakani/2022/39927",
+  "source": "https://www.mevzuat.gov.tr/anasayfa/MevzuatFihristDetayIframe?MevzuatTur=7&MevzuatNo=39927&MevzuatTertip=5",
+  "source_sha256": "9a716df2a23d15287144d3e5856eb186f035b5fc4ef99e9c1e600a9579e2091e",
+  "source_bytes": 132571,
+  "published": "2022-12-29",
+  "gazette": "32058",
+  "in_force": "2025-03-15",
+  "in_force_basis": "latest Resmî Gazete date printed in the source amendment notes/table (\"RG-15/3/2025\") for the current consolidated text",
+  "date_evidence": [
+    [
+      "2025-03-15",
+      "RG-15/3/2025",
+      "Resmî Gazete date printed in the source amendment note"
+    ],
+    [
+      "2025-03-15",
+      "15/3/2025",
+      "Resmî Gazete date in the source amendment table"
+    ],
+    [
+      "2025-03-08",
+      "RG-8/3/2025",
+      "Resmî Gazete date printed in the source amendment note"
+    ],
+    [
+      "2025-03-08",
+      "8/3/2025",
+      "Resmî Gazete date in the source amendment table"
+    ]
+  ],
+  "history": "current-text",
+  "label": "oldest version available",
+  "checked_on": "2026-11-15",
+  "word_count": 8800,
+  "text_status": "current-consolidated",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  },
+  "completeness": "html-text-complete"
+}
