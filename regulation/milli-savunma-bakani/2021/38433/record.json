@@ -1,0 +1,63 @@
+{
+  "source_id": "7.5.38433",
+  "kind": "regulation",
+  "register_kind": "Kurum ve Kuruluş Yönetmelikleri",
+  "title": "FAKÜLTE VE YÜKSEKOKULLAR ASKERÎ ÖĞRENCİ KOMUTANLIĞI VE ÖĞRENCİLERİ İLE FAKÜLTE VE YÜKSEKOKULLARDAN YETİŞEN SUBAYLARA VE ASTSUBAYLARA İLİŞKİN YÖNETMELİK",
+  "number": "38433",
+  "issuer": "Millî Savunma Bakanı",
+  "issuer_slug": "milli-savunma-bakani",
+  "path": "regulation/milli-savunma-bakani/2021/38433",
+  "source": "https://www.mevzuat.gov.tr/anasayfa/MevzuatFihristDetayIframe?MevzuatTur=7&MevzuatNo=38433&MevzuatTertip=5",
+  "source_sha256": "25bfb2e188172b4bd0a8b207eba3176c6990c3ced0a4e858fb4a62d9cb759027",
+  "source_bytes": 129121,
+  "published": "2021-03-23",
+  "gazette": "31432",
+  "in_force": "2025-03-15",
+  "in_force_basis": "latest Resmî Gazete date printed in the source amendment notes/table (\"RG-15/3/2025\") for the current consolidated text",
+  "date_evidence": [
+    [
+      "2025-03-15",
+      "RG-15/3/2025",
+      "Resmî Gazete date printed in the source amendment note"
+    ],
+    [
+      "2025-03-15",
+      "15/3/2025",
+      "Resmî Gazete date in the source amendment table"
+    ],
+    [
+      "2024-08-01",
+      "RG-1/8/2024",
+      "Resmî Gazete date printed in the source amendment note"
+    ],
+    [
+      "2024-08-01",
+      "1/8/2024",
+      "Resmî Gazete date in the source amendment table"
+    ],
+    [
+      "2021-12-11",
+      "RG-11/12/2021",
+      "Resmî Gazete date printed in the source amendment note"
+    ],
+    [
+      "2021-12-11",
+      "11/12/2021",
+      "Resmî Gazete date in the source amendment table"
+    ]
+  ],
+  "commencement_clauses": [
+    "Bu Yönetmelik yayımı tarihinde yürürlüğe girer"
+  ],
+  "history": "current-text",
+  "label": "oldest version available",
+  "checked_on": "2026-11-15",
+  "word_count": 8170,
+  "text_status": "current-consolidated",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  },
+  "completeness": "html-text-complete"
+}
