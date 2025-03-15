@@ -1,0 +1,8 @@
+İKİNCİ BÖLÜM
+Mutemet Görevlendirilmesi ve Ön Ödemelerin Başka Mutemede Devri
+Mutemet görevlendirilmesi
+MADDE 5- (1) Kamu idarelerinin bütçesinde ödenek tahsis edilen her bir merkez harcama birimi ile ödenek gönderme belgesi düzenlemek suretiyle ödenek gönderilen her bir harcama birimi için bir mutemet görevlendirilir.
+(2) Harcama yetkilisinin gerekli gördüğü durumlarda birden fazla mutemet görevlendirilebilir. Bu durumda mutemetlere verilecek toplam avans tutarı, o harcama birimi veya harcama türü için belirlenen tutarı geçemez. Bununla birlikte;
+a) Aynı harcama birimine bağlı olmakla birlikte, ayrı ayrı hizmet yürütmekte olan veya ayrı ayrı yerlerde bulunan askerî birlik ve askerî kurumlar ile okul, yurt, enstitü, hastane, dispanser ve benzeri birim ve ünitenin her biri için ayrı mutemet görevlendirilmesi hâlinde her mutemet için avans tutarı ayrı ayrı uygulanır.
+b) Zorunluluk bulunması hâlinde; taşıtların akaryakıt, yağ, bakım, onarım ve işletme giderlerinde, bir bütün oluşturmakla birlikte alınacak mal veya yapılacak işle ilgili olarak ayrı yerlerde sonuçlandırılması gereken vergi ve benzeri ödeme yükümlülüklerinin yerine getirilmesinde, alınan mala ilişkin yükleme, boşaltma ve gümrük işlemleri gibi özellik arz eden işlere ilişkin giderlerde, birden fazla mutemet görevlendirilmesi hâlinde her mutemet için avans tutarı ayrı ayrı uygulanır.
+(3) Mutemetlerin ilk görevlendirilmelerinde ve değiştirilmeleri hâlinde; adı, soyadı, görev unvanı, T.C. kimlik numarası ve imza örneği harcama yetkilisi tarafından muhasebe birimine bildirilir. Kredi hesabında işlem yapma yetkisini haiz mutemetlerin imza örneği, kredi açılan bankaya da gönderilir.

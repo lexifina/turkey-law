@@ -1,0 +1,19 @@
+Avanslarda mahsup süresi ve sorumluluk
+MADDE 9- (1) Her mutemet, avanslardan harcadığı tutara ilişkin kanıtlayıcı belgeleri, ilgili kanunlarında ayrıca belirtilmemiş olması hâlinde bir ay içinde muhasebe yetkilisine vermek ve artan tutarı iade ederek hesabını kapatmakla yükümlüdür.
+(2) Kamu idarelerinin yurt dışı teşkilatlarının gerçekleştireceği harcamalar için gönderilen avansların mahsup süresi üç aydır.
+(3) 8 inci maddede esasları belirlenen gemi mutemedi avanslarının mahsup süresi, harp gemisinin görev bitiminde ana limanına dönüşünü müteakip bir ay olarak uygulanır.
+(4) Bakanlık, zorunlu hâllerde mahsup süresini ayrıca belirlemeye yetkilidir.
+(5) Mahsup süresi, avansın verildiği güne son ayda tekabül eden günün mesai saati bitiminde, sürenin bittiği ayda avansın verildiği güne tekabül eden bir gün yok ise süre o ayın son gününün mesai saati bitiminde sona erer. Harcama yetkilisinin talimatıyla, bu süreler içinde getirilecek harcama belgeleri tutarında yeniden avans verilebilir. Bu şekilde mahsup işlemi yapılmadıkça aynı iş için avans verilmez.
+(6) Kamu idaresinin yurt dışı teşkilatının gerçekleştireceği harcamalar için verilen avansın mahsubunda nakit iadesi yapılmaz, verilecek yeni avanstan mahsup edilir. Yurt dışı teşkilatı harcama birimi olan kamu idarelerinde ise avansa ilişkin nakit artıklarının iadesi en geç mahsup dönemi sonunda yapılır.
+(7) Avansın verildiği tarihten önceki bir tarihi taşıyan harcama belgeleri avansın mahsubunda kabul edilemez. Ancak;
+a) Harcırah ödemeleri ile kurs ve eğitim amaçlı görevlendirmelerdeki kurs, eğitim ücreti gibi harcamalara ilişkin olan ve harcama talimatından veya görevlendirme yazısından sonraki bir tarihi taşıyan belgeler,
+b) Yurt dışı görevler nedeniyle yabancı ülkelere giden hava araçları için ihtiyaç duyulacak akaryakıt, yer hizmeti, uçak geçiş ücreti gibi ödemelerine ilişkin belgeler,
+c) Kamu idarelerinin yurt dışı teşkilatlarının kira, aidat, abonelik ve benzeri aylık gerçekleşen giderlerine ilişkin olan ve avans verilmeden önceki bir tarihi taşıyan harcama belgeleri,
+ç) Yurt dışı teşkilatı harcama birimi olan kamu idarelerinde, hizmetin aksamaması bakımından zorunlu ve beklenmeyen durumlarda yapılan giderlerle ilgili olan ve avans verilmeden önceki bir tarihi taşıyan harcama belgeleri,
+avansın mahsubunda kabul edilir.
+(8) Mahsup döneminde verilen harcama belgelerinin, avansın verildiği tarih ile en geç ait olduğu bütçe yılının son günü arasındaki tarihi taşıması gerekir.
+(9) Mutemet, işin tamamlanmasından sonra mahsup süresinin bitmesini beklemeden, son harcama tarihini takip eden üç iş günü içinde avans artığını iade etmek ve süresinde mahsubunu yaparak hesabını kapatmak zorundadır.
+(10) Avansın 6 ncı madde gereğince başka mutemede devredilmesi hâlinde devralan mutemet, avansın ilk mutemede verildiği tarihten itibaren mahsup süresinde hesabını muhasebe yetkilisine vermek zorundadır.
+(11) Denetim elemanları, yollukları ve diğer giderleri karşılığı aldıkları avanslara ilişkin harcama belgelerini takip eden ayın onuncu gününe kadar idarelerine vermek ve varsa avans artığını iade etmekle, idareler de bunu aramakla yükümlüdür. Hakediş tutarının avanstan fazla olması hâlinde fark, ilgili denetim elemanının banka hesabına aktarılır.
+(12) Mutemetlerce süresi içinde mahsup edilmeyen avans tutarı, 21/7/1953 tarihli ve 6183 sayılı Amme Alacaklarının Tahsil Usulü Hakkında Kanunun 51 inci maddesine göre belirlenen gecikme zammı oranında hesaplanan faizi ile birlikte genel hükümlere göre takip ve tahsil edilir. Kanunen geçerli bir mazereti olmaksızın avanslarını süresinde mahsup etmeyen mutemetler hakkında, ayrıca tabi oldukları personel mevzuatının disiplin hükümlerine göre de işlem yapılır.
+(13) Kurum içi veya kurum dışından görevlendirilenlere yolluk ve diğer giderleri karşılığı verilen avanslardan süresinde mahsup edilmeyenler hakkında özel kanunlarındaki hükümler uygulanır.

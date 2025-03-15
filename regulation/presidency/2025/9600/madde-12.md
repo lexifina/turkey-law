@@ -1,0 +1,7 @@
+Kredilerde mahsup süresi ve sorumluluk
+MADDE 12- (1) Her mutemet kredilerde harcadığı tutara ilişkin kanıtlayıcı belgeleri, ilgili kanunlarında ayrıca belirtilmemiş olması hâlinde üç ay içinde muhasebe yetkilisine vermek ve artan tutarı iade ederek hesabını kapatmakla yükümlüdür.
+(2) Bakanlık, zorunlu hâllerde mahsup süresini ayrıca belirlemeye yetkilidir.
+(3) Mahsup süresi, kredinin açıldığı güne son ayda tekabül eden günün mesai saati bitiminde, sürenin bittiği ayda kredinin açıldığı güne tekabül eden bir gün yok ise süre o ayın son gününün mesai saati bitiminde sona erer. Kamu idarelerinin yurt dışı teşkilatının gerçekleştireceği harcamalar için açılan kredilerin mahsubu ve artıklarının iadesinde nakit iadesi yapılmaz, açılacak yeni krediden mahsup edilir. Yurt dışı teşkilatı harcama birimi olan kamu idarelerinde ise krediye ilişkin nakit artıklarının iadesi en geç mahsup dönemi sonunda yapılır.
+(4) Mahsup döneminde verilen harcama belgelerinin, kredinin açıldığı tarih ile en geç ait olduğu bütçe yılının son günü arasındaki tarihi taşıması gerekir.
+(5) Mutemet, işin tamamlanmasından sonra, üç aylık sürenin bitmesini beklemeden, son harcama tarihini takip eden üç iş günü içinde kredi artığını iade etmek ve süresinde mahsubunu yaparak hesabını kapatmak zorundadır.
+(6) Kredinin, 6 ncı madde gereğince başka mutemede devredilmesi hâlinde devralan mutemet, kredinin ilk mutemede açıldığı tarihten itibaren mahsup süresinde hesabını muhasebe yetkilisine vermek zorundadır.

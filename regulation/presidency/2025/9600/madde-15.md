@@ -1,0 +1,8 @@
+ALTINCI BÖLÜM
+Bütçe Dışı Avans İşlemleri
+Bütçe dışı avans
+MADDE 15- (1) Sözleşmesinde belirtilmek ve yüklenme tutarının yüzde otuzunu geçmemek üzere, yüklenicilere teminat karşılığında bütçe dışı avans verilebilir. İlgili kanunların veya Cumhurbaşkanlığı kararnamelerinin bütçe dışı avans ödenmesine ilişkin hükümleri saklıdır.
+(2) Sözleşmelerinde belirtilmek ve karşılığında aynı tutarda teminat alınmak koşuluyla yüklenicilere; mal ve hizmet alımlarında yüklenme tutarının yüzde onuna, yapım işlerinde ise yüklenme tutarının yüzde on beşine kadar bütçe dışı avans verilebilir. Ancak bu oranların üzerinde avans verilmesini zorunlu kılan durumlarda; üst yöneticinin kararı ile aşan kısım için Türkiye Cumhuriyet Merkez Bankasının avanslara uyguladığı oranda faiz alınmak kaydıyla, yüklenme tutarının yüzde otuzunu aşmamak üzere belirlenecek oranda bütçe dışı avans verilebilir. Bu Yönetmelik kapsamındaki kamu idarelerinin birbirlerinden veya diğer kamu kurum ve kuruluşlarından yapacakları alım ve yapım işlerinde faiz alınmaz. Verilen avanslar karşılığında alınan teminatlar, yüklenicinin talebi hâlinde mahsup edilen tutarda serbest bırakılır veya iade edilir.
+(3) Özel kanunlarında hüküm bulunması hâlinde bütçe dışı avans verilebilir.
+(4) Özel kanunlarındaki hükme göre peşin ödenmesi gereken maaş, ücret ve benzeri giderler ile 8 inci maddenin ikinci ve üçüncü fıkralarında yer alan giderlerin ertesi yıl bütçesini ilgilendiren kısmı için bütçe dışı avans verilebilir.
+(5) Bu Yönetmelik kapsamındaki kamu idarelerinin, birbirlerinden veya diğer kamu kurum ve kuruluşlarından yapacakları alımlarda verilecek bütçe dışı avans için teminat alınmaz.
