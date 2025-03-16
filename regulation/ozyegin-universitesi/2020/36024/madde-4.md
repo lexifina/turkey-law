@@ -1,0 +1,20 @@
+Tanımlar
+MADDE 4 – (1) Bu Yönetmelikte geçen;
+a) AKTS: Avrupa Kredi Transfer Sistemini,
+b) Fakülte: Özyeğin Üniversitesi fakültelerini,
+c) Fakülte kurulu: Özyeğin Üniversitesi fakültelerinin kurullarını,
+ç) Fakülte yönetim kurulu: Özyeğin Üniversitesi fakültelerinin yönetim kurullarını,
+d) Mütevelli Heyeti: Özyeğin Üniversitesi Mütevelli Heyetini,
+e) Öğrenci Hizmetleri: Özyeğin Üniversitesi Öğrenci Hizmetleri Birimini,
+f) ÖSYM: Ölçme, Seçme ve Yerleştirme Merkezini,
+g) Program: Özyeğin Üniversitesi lisans diploma programlarını,
+ğ) Rektör: Özyeğin Üniversitesi Rektörünü,
+h) Senato: Özyeğin Üniversitesi Senatosunu,
+ı) Üniversite: Özyeğin Üniversitesini,
+i) Üniversite Yönetim Kurulu: Özyeğin Üniversitesi Yönetim Kurulunu,
+j) Yabancı Diller Yüksekokulu: Özyeğin Üniversitesi Yabancı Diller Yüksekokulunu,
+k) YÖK: Yükseköğretim Kurulunu,
+l) Yüksekokul: Özyeğin Üniversitesi Yüksekokullarını,
+m) Yüksekokul kurulu: Özyeğin Üniversitesi yüksekokullarının kurullarını,
+n) Yüksekokul yönetim kurulu: Özyeğin Üniversitesi yüksekokullarının yönetim kurullarını,
+ifade eder.

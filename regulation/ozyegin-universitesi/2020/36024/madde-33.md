@@ -1,0 +1,3 @@
+Notlarda maddi hata
+MADDE 33 – (1) Bir dersin ilan edilmiş olan dönem sonu başarı notunda yer alabilecek maddi hatanın düzeltilmesi, ilgili öğretim elemanının bildirimi üzerine fakülte dekanı/yüksekokul müdürü onayı ile yapılır.
+(2) Notlarda yer alabilecek maddi hatalara yönelik düzeltmelerin, akademik takvimde belirtilen eksik notların teslimi için belirtilen son güne kadar yapılması gerekir. Bu tarihten sonra yapılacak düzeltmeler, en geç söz konusu notun verildiği dönemin dönem sonu sınavlarının bitimini izleyen onuncu haftanın sonuna kadar olmak koşuluyla fakülte/yüksekokul yönetim kurulu kararıyla olur.

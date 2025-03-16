@@ -1,0 +1,3 @@
+Başarılı ve başarısız öğrenciler
+MADDE 34 – (1) Herhangi bir dönem sonunda genel not ortalaması en az 2,00 olan öğrenci yeterli, genel not ortalaması en az 2,00’ın altında olan öğrenci ise sınamalı sayılır.
+(2) Genel not ortalaması (GNO) en az 2,00 olan ve herhangi bir disiplin cezası bulunmayan öğrencilerden ilgili dönemde NI olarak alınan dersler hariç en az 24 AKTS kredisi tamamlamış olmak ve NI olarak alınan dersler dahil kayıtlı olduğu tüm derslerden en az geçer not almış olmak koşuluyla dönem sonunda dönem not ortalaması (DNO) 3,00-3,49 arasında olanlar onur; 3,50 ve üstü olanlar ise yüksek onur öğrencisi sayılırlar.

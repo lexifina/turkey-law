@@ -1,0 +1,3 @@
+Tebligat
+MADDE 40 – (1) Öğrencilere yapılması gereken her türlü tebligat ilgili mevzuat hükümlerine göre Üniversite tarafından öğrenci için oluşturulan elektronik posta adresine yapılır. Disiplin cezası bildirimleri ayrıca, öğrencilerin Üniversiteye kayıt sırasında bildirdikleri yazışma adresine iadeli ve taahhütlü olarak yapılmak veya ilgili birimde ilan edilmek suretiyle tamamlanmış sayılır.
+(2) Üniversiteye kayıt sırasında bildirdikleri adresi değiştirdikleri halde, bunu Öğrenci Hizmetlerine en geç bir ay içinde bildirmeyen veya yanlış ya da eksik bildiren öğrencilerin, mevcut adreslerine tebligat yapılması halinde, kendilerine tebligat yapılmış sayılır.

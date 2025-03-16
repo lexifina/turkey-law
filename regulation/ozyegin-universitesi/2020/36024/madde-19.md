@@ -1,0 +1,5 @@
+Ön koşul ve yan koşul dersleri
+MADDE 19 – (1) Ön koşul, bir dersin alınabilmesi için önceden tamamlanmış olması gereken yükümlülüklerdir. Ön koşul olarak, daha önceden alınıp geçer not ile tamamlanmış ders/dersler veya başarılması/tamamlanması gereken kredi, çalışma ve benzeri yükümlülükler belirlenebilir. Ön koşul olan dersin tekrarlanmış olması durumunda o dersten alınan en son not geçerlidir.
+(2) Bir dersin alınabilmesi için birlikte alınması gereken derse o dersin yan koşul dersi denir. Bu derslere birlikte kayıt olunur, dersler birlikte bırakılır veya derslerden birlikte çekilinir. Yan koşul dersi önceki bir dönemde geçer not ile tamamlamış ise, bu ders özelinde yan koşul şartı sağlanmış kabul edilir.
+(3) Öğrenciler, ön koşulunu/yan koşulunu sağlamadıkları derslere kayıt olamazlar. Ulusal veya uluslararası değişim programlarına katılan öğrenciler, özel öğrenci olarak Üniversitede ders almak isteyen öğrenciler ile Üniversitede kayıtlı iken diğer yükseköğretim kurumlarından ders almak isteyen öğrenciler için de bu fıkra hükmü uygulanır.
+(4) Muaf olunan bir ders başka bir dersin ön koşulunu/yan koşulunu sağlamak için kullanılabilir.
