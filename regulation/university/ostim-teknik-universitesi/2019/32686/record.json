@@ -1,0 +1,32 @@
+{
+  "checked_on": "2026-11-14",
+  "commencement_quotes": [
+    "Yürürlük MADDE 16 – (1) Bu Yönetmelik yayımı tarihinde yürürlüğe girer. "
+  ],
+  "completeness": "text",
+  "date_quote": "amendment Gazette table: 17/3/2025",
+  "first_law": null,
+  "gazette": "30845",
+  "images": {
+    "deferred": 0,
+    "omitted": 0,
+    "referenced": 0,
+    "source": 0
+  },
+  "in_force": "2025-03-17",
+  "in_force_basis": "latest amendment Gazette date printed by the source for its current consolidated text",
+  "issuer": "Ostim Teknik Üniversitesi",
+  "kind": "regulation",
+  "notes": [],
+  "published": "2019-07-28",
+  "source": "https://www.mevzuat.gov.tr/anasayfa/MevzuatFihristDetayIframe?MevzuatTur=8&MevzuatNo=32686&MevzuatTertip=5",
+  "source_bytes": 30034,
+  "source_id": "8.5.32686",
+  "source_sha256": "9d3f170bef0e2000867d56bf8d77059831ea3028357f4e54f2d2e1edf35c803a",
+  "structure": "whole-act",
+  "text_status": "current-consolidated",
+  "title": "OSTİM TEKNİK ÜNİVERSİTESİ YAZ ÖĞRETİMİ YÖNETMELİĞİ",
+  "university_id": 477,
+  "version_label": "oldest version available",
+  "word_count": 1203
+}
