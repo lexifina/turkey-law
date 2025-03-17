@@ -1,0 +1,17 @@
+Merkezin faaliyet alanları
+MADDE 6- (1) Merkezin faaliyet alanları şunlardır:
+a) İlgili mevzuat hükümleri kapsamında izin verilmiş olan kişiye özgü, hastalık ve sağlık durumlarında beslenme ve besinler konusunda araştırma ve uygulamaya yönelik eğitimler vermek, bunlar için gerekli birimler kurmak.
+b) Beslenme ve besinlerle ilgili ulusal ve uluslararası düzeylerde bilimsel araştırma projeleri hazırlamak, bu projeleri gerçekleştirmek üzere çalışma grupları oluşturmak.
+c) İlgili mevzuat hükümleri kapsamında Merkezin amacı doğrultusunda yurt içi ve yurt dışındaki bilimsel çalışma ve araştırma projelerini desteklemek, ulusal ve uluslararası kongre, konferans, fuar, sempozyum, seminer, panel, kurs ve benzeri bilimsel etkinlikler düzenlemek, bunları desteklemek ve Merkezdeki araştırmacıların bu etkinliklere katılımını sağlamak.
+ç) Öncelikle beslenme ve diyetetik olmak üzere; tıp ve sağlık bilimleri fakültelerinde eğitim gören tüm öğrencilere beslenme konularını kapsayan eğitim vermek.
+d) Beslenme bilimi ile ilgili ulusal ve uluslararası kuruluşlar tarafından oluşturulan her türlü yazılı, basılı, elektronik, görsel ve işitsel eserleri rapor, bülten, kitap, dergi, broşür, makale, tebliğ, film, resim, slayt, multimedya ürünü ve benzeri şekillerde süreli veya süresiz olarak yayımlamak.
+e) Toplumun yaşam tarzı ve beslenme alışkanlıkları dikkate alınarak bireye yönelik kişisel egzersiz programı oluşturmak ve bu hususta topluma hizmet vermek.
+f) Yetersiz, dengesiz ve sağlıksız beslenmeye bağlı gelişebilen kronik hastalıkların önlenmesi konusunda beslenme rehberlerinin hazırlanmasına katkıda bulunmak.
+g) Üniversite bünyesinde sunulan yiyecek, içecek hizmetlerinin besin değeri ve kalitesinin artırılmasına yönelik çalışmalar yapmak, toplu beslenme hizmetlerinde menü planlama konusunda danışmanlık vermek.
+ğ) İlgili mevzuat hükümleri kapsamında toplum sağlığını geliştirmeye yönelik sağlıklı yaşam ile ilgili konularda etkinlikler planlamak, eğitim ve danışmanlık hizmeti vermek.
+h) Merkeze başvuran kişilerin uygun yöntemler ile değerlendirilerek, sonuçların yorumlanması ve kişiye özel beslenme ve koruyucu egzersiz yaklaşımlarının planlanmasını sağlamak.
+ı) İlgili mevzuat hükümleri kapsamında profesyonel ve amatör sporculara yönelik beslenme, sağlıklı yaşam, antrenman programları düzenlemek ve uygulamak, gelişme çağındaki çocuklara yönelik yaz-kış sağlıklı beslenme, sağlıklı yaşam ve spor okulları, sertifika programları, kurslar ve benzeri faaliyetler düzenlemek.
+i) İş gücü kaybını önlemek ve verimliliği artırmak; bu kapsamda Üniversite çalışanlarının yeterli ve dengeli beslenmesini sağlamak için toplu beslenme hizmetlerini düzenlemek, fiziksel aktivite imkânlarını artırmak ve obeziteden kaynaklanan sağlık risklerini azaltmak.
+j) Doğru beslenme, ergojenik yardım ve doping maddeleri konusunda araştırmalar planlamak, yapmak ve eğitim çalışmalarına katılmak, beslenme programları hazırlamak.
+k) Bireylerin fiziksel, duygusal ve psikolojik sağlıklarını desteklemek amacıyla müzik ve ritim terapisi uygulamalarını gerçekleştirmek, bu kapsamda, bireylerin stres yönetimi, ruhsal iyilik halleri ve genel sağlık durumlarını iyileştirmek için müzik terapisi seansları ile ritim ve müzik kullanarak duygusal denge, motor beceriler ve sağlık durumları üzerinde çalışmalar yapmak ve uygulama seansları düzenlemek.
+l) Merkezin amacı ile ilgili Yönetim Kurulunca kabul edilen diğer faaliyetlerde bulunmak.
