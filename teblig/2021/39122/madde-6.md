@@ -1,0 +1,2 @@
+Avrupa Birliği mevzuatına uyum
+MADDE 6 – (1) Bu Tebliğ, Karayolu Dışında Kullanılan Hareketli Makinalara Takılan Hizmet İçi İçten Yanmalı Motorlar için Gaz Halindeki Kirletici Emisyonların İzlenmesi Hakkında (AB) 2016/1628 sayılı Avrupa Parlamentosu ve Konsey Tüzüğünü tamamlayan, (Değişik ibare:RG-18/3/2025-32845) (AB) 2018/987 ve (AB) 2022/2387 sayılı Tüzükler ile değişik, 19/12/2016 tarihli ve (AB) 2017/655 sayılı Komisyon Tüzüğü dikkate alınarak Avrupa Birliği mevzuatına uyum çerçevesinde hazırlanmıştır.
