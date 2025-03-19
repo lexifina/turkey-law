@@ -1,0 +1,3 @@
+DEVLET SANATÇILARI VE SANATÇILARIN SÖZLEŞMELİ OLARAK ÇALIŞTIRILMALARINA DAİR ESASLAR
+Bakanlar Kurulu Kararının Tarihi: 7/5/1987 Sayısı: 87/11782
+Yayımlandığı Resmi Gazete Tarihi: 7/6/1987 Sayısı: 19480

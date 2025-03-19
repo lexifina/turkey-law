@@ -1,0 +1,30 @@
+{
+  "id": "presidency-regulation-8711782",
+  "number": "8711782",
+  "kind": "regulation",
+  "issuer": "presidency",
+  "title": "DEVLET SANATÇILARI VE SANATÇILARIN SÖZLEŞMELİ OLARAK ÇALIŞTIRILMALARINA DAİR ESASLAR",
+  "published": "1987-06-07",
+  "enacted": "1987-05-07",
+  "gazette_number": "19480",
+  "in_force": "2025-03-19",
+  "in_force_basis": "Latest source-printed amendment/correction Gazette date: 2025-03-19; official source: [5] 19/3/2025 tarihli ve 32846 sayılı Resmî Gazete’de yayımlanan 9624 sayılı Cumhurbaşkanı Kararının 1 inci maddesiyle bu fıkrada yer alan “edilenlere” ibaresi “edilenlerden; belediyelerde çalışanlara belediye başkanı kararı, diğerlerine” şeklinde değiştirilmiştir.",
+  "history": "current-only",
+  "version_label": "oldest version available",
+  "first_law": null,
+  "source": "https://www.mevzuat.gov.tr/anasayfa/MevzuatFihristDetayIframe?MevzuatNo=8711782&MevzuatTur=21&MevzuatTertip=5",
+  "source_sha256": "8e6367f9aff8d1101367682b0ff67616f9793d41113edd41874aec01305f7dac",
+  "source_links": [],
+  "missing_components": [],
+  "date_anomalies": [],
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  },
+  "images_complete": true,
+  "image_inventory": [],
+  "images_omitted": [],
+  "completeness": "html-text-complete",
+  "text_layout": "article-files"
+}
