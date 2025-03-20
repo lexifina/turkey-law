@@ -1,0 +1,17 @@
+{
+  "kind": "decision",
+  "issuer": "Sayıştay 5. Dairesi",
+  "number": "691",
+  "decision_date": "2025-03-20",
+  "source_id": 39356,
+  "chamber": "5",
+  "ilam_number": "58",
+  "item_number": 1,
+  "public_body_type": "Yüksek Öğretim Kurumları",
+  "account_year": 2023,
+  "subject": "Personel Mevzuatı ile İlgili Kararlar",
+  "source": "https://www.sayistay.gov.tr/KararlarDaire/Detay/39356/",
+  "source_sha256": "1791a51bdb6082d6d9122a0e556325ac25410d42ffb3de1f426483d1617b8350",
+  "text_status": "as-enacted",
+  "text_file": "metin.md"
+}
