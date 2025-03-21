@@ -1,0 +1,59 @@
+{
+  "checked_on": "2026-11-14",
+  "commencement_clauses": [
+    "MADDE 14 – (1) Bu Yönetmelik yayımı tarihinde yürürlüğe girer."
+  ],
+  "date_evidence": [
+    [
+      "2020-11-16",
+      "16.11.2020",
+      "original gazette publication date in official listing"
+    ],
+    [
+      "2025-03-21",
+      "RG-21/3/2025-32848",
+      "latest source-printed gazette amendment date for current consolidated text"
+    ],
+    [
+      "2025-03-21",
+      "RG-21/3/2025-32848",
+      "latest source-printed gazette amendment date for current consolidated text"
+    ],
+    [
+      "2025-03-21",
+      "RG-21/3/2025-32848",
+      "latest source-printed gazette amendment date for current consolidated text"
+    ],
+    [
+      "2025-03-21",
+      "21/3/2025",
+      "latest gazette date in source amendment table"
+    ]
+  ],
+  "date_quote": "RG-21/3/2025-32848",
+  "first_law": null,
+  "gazette": "31306",
+  "history": "current-text",
+  "images": {
+    "deferred": 0,
+    "omitted": 0,
+    "referenced": 0,
+    "source": 0
+  },
+  "in_force": "2025-03-21",
+  "in_force_basis": "latest source-printed gazette amendment date for current consolidated text",
+  "issuer": "Çanakkale Onsekiz Mart Üniversitesi",
+  "issuer_slug": "canakkale-onsekiz-mart-universitesi",
+  "kind": "regulation",
+  "label": "oldest version available",
+  "path": "regulation/canakkale-onsekiz-mart-universitesi/2020/35988",
+  "published": "2020-11-16",
+  "source": "https://www.mevzuat.gov.tr/anasayfa/MevzuatFihristDetayIframe?MevzuatTur=8&MevzuatNo=35988&MevzuatTertip=5",
+  "source_bytes": 26113,
+  "source_id": "8.5.35988",
+  "source_sha256": "5b10f7bb1bcc6b223477568637cce3a23e6e21e75d39688683f19303106791f0",
+  "text_status": "current-consolidated",
+  "title": "ÇANAKKALE ONSEKİZ MART ÜNİVERSİTESİ\r\nSÜREKLİ EĞİTİM MERKEZİ YÖNETMELİĞİ",
+  "university_id": 186,
+  "word_count": 950
+}
