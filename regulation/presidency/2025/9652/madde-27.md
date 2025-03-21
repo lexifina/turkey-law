@@ -1,0 +1,6 @@
+Tekliflerin alınması ve açılması
+MADDE 27- (1) Aday veya istekliler yeterlik belgelerini ve fiyat tekliflerini;
+a) İlan yapılması durumunda ilanda belirtilen gün ve saate kadar,
+b) İlan yapılmaması durumunda, ihale tarihinden en az beş gün önce en az üç istekli davet edilerek ihale saatinden önce,
+İdareye vermeleri istenir. İhale komisyonunca ihale dokümanında belirtilen saatte kaç teklif verilmiş olduğu bir tutanakla tespit edilerek hazır bulunanlara duyurulur ve hemen ihaleye başlanır. İhale komisyonu tarafından yapılan değerlendirme sonucunda yeterliği tespit edilen isteklilerin son fiyat tekliflerinden sonra yaklaşık maliyet isteklilere açıklanır.
+(2) İsteklilerin belgelerinin eksik olup olmadığı ve teklif mektubu ile geçici teminatların usulüne uygun olup olmadığı kontrol edilir. Belgeleri eksik veya teklif mektubu ile geçici teminatı usulüne uygun olmayan istekliler bir tutanakla tespit edilir. İstekliler ile teklif fiyatları açıklanır. Bu işlemlere ilişkin olarak hazırlanan tutanak ihale komisyonunca imzalanır. Bu aşamada; hiçbir teklifin reddine veya kabulüne karar verilemez. Teklifi oluşturan belgeler düzeltilemez veya tamamlanamaz. Teklifler ihale komisyonunca değerlendirilmek üzere ilk oturum kapatılır.

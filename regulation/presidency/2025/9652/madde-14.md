@@ -1,0 +1,3 @@
+İhaleye katılamayacak olanlar ve yasak fiil veya davranışlar
+MADDE 14- (1) 4734 sayılı Kanunun 11 inci maddesinde belirtilenler, doğrudan, dolaylı veya alt yüklenici olarak, kendileri veya başkaları adına hiçbir şekilde bu Usul ve Esaslar kapsamındaki alım ve ihalelere katılamazlar.
+(2) Bu Usul ve Esaslar kapsamında yapılacak alımlarda, 4734 sayılı Kanunun 17 nci maddesinde belirtilen fiil veya davranışlarda bulunmak yasaktır, bu yasak fiil veya davranışlarda bulunanlar hakkında 4734 sayılı Kanunun dördüncü kısmında belirtilen hükümler ile 5/1/2002 tarihli ve 4735 sayılı Kamu İhale Sözleşmeleri Kanunun ilgili hükümleri uygulanır.

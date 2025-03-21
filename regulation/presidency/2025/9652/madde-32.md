@@ -1,0 +1,3 @@
+Sözleşmeye davet
+MADDE 32- (1) 31 inci maddede belirtilen sürelerin bitimini, ön mali kontrol yapılması gereken hâllerde ise bu kontrolün tamamlandığı tarihi izleyen günden itibaren üç gün içinde ihale üzerinde bırakılan istekliye, tebliğ tarihini izleyen beş iş günü içinde kesin teminatı vermek suretiyle sözleşmeyi imzalaması hususu bildirilir. Yabancı istekliler için bu süreye on iki gün ilave edilir. Bu süre içinde İdare ile sözleşme yapmaktan kaçınan istekli için 33 üncü madde ile 4734 sayılı Kanunun 58 inci maddesi hükümleri uygulanır.
+(2) Sözleşmenin imzalanacağı tarihte, ihale üzerinde kalan isteklinin ihalelere katılmaktan yasaklı olup olmadığının teyit edilmesi zorunludur.

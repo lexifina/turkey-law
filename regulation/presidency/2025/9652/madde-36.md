@@ -1,0 +1,2 @@
+Şikâyet başvurusu
+MADDE 36- (1) İdare ve ihale komisyonları, ihalenin bu Usul ve Esaslarda belirtilen usullere uygun olarak yürütülmesinden tedarikçi veya hizmet sunucusuna karşı da sorumludur. Bu sorumlulukların ihlali sonucu bir hak kaybına veya zarara uğradığını veya zarara uğramasının muhtemel olduğunu iddia eden tedarikçi veya hizmet sunucusu, 37 nci maddedeki aşamaları takip ederek yazılı şikâyet suretiyle inceleme talebinde bulunabilir.
