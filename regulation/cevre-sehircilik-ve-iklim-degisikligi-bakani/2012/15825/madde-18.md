@@ -1,0 +1,4 @@
+Sınav sonuçlarının açıklanması ve itiraz
+MADDE 18 – (Başlığı ile birlikte değişik:RG-21/5/2014-29006)
+(1) Sınav sonuçları sınavın yapıldığı tarihten itibaren en geç otuz gün içinde sınav kurulu tarafından Bakanlığın internet sitesinde ilan edilir. İlgililer, ilan tarihinden itibaren beş iş günü içerisinde sınav sonuçlarına itiraz edebilir. (Değişik ibare:RG-13/11/2019-30947) Personel Genel Müdürlüğüne yazılı olarak yapılacak itiraz başvuruları, ilgisine göre sınav kurulunca incelenir veya sınavı yapan kuruma incelettirilir. İnceleme sonuçları en geç on iş günü içerisinde yazılı olarak ilgililere bildirilir. İtiraz üzerine verilen karar kesindir.
+(2) (Değişik:RG-31/5/2018-30437) Yazılı sınavlarda itiraz sonucu, sınav kurulunca hatalı olduğu sonucuna varılan sorular iptal edilerek tüm adaylarca doğru yapılmış kabul edilir.

@@ -1,0 +1,9 @@
+Görev grupları arasında veya aynı grup içerisindeki geçişler
+MADDE 24 – (Başlığı ile birlikte değişik:RG-21/5/2014-29006)
+(1) 5 inci maddede belirtilen hizmet grupları arasındaki geçişler aşağıdaki esaslar çerçevesinde yapılır.
+a) Aynı hizmet grubunun alt görev grubunun kendi içerisinde kalmak kaydıyla, sınav yapılmaksızın ilgili personelin isteği ve atanılacak kadronun gerektirdiği özellikleri taşımak şartıyla, Bakanlığın ihtiyaç duyması halinde diğer görevlere atanmak mümkündür.
+b) Gruplar arası görevde yükselme niteliğindeki geçişler ve alt görevden üst göreve geçişler görevde yükselme sınavına tabidir. Ancak, Bakanlıkta veya diğer kamu kurum ve kuruluşlarında daha önce bulunulan görevler ile bu görevlerle aynı düzey görevlere veya alt görevlere, bu Yönetmelikte belirlenen atanma şartlarını taşımaları kaydıyla görevde yükselme sınavına tabi tutulmadan atama yapılabilir.
+c) Unvan değişikliğine tabi kadrolar ile bu kadrolar arasındaki geçişler, ilgili kadro için düzenlenen unvan değişikliği sınavı sonucuna göre yapılır. Ancak, Bakanlık veya diğer kamu kurum ve kuruluşlarında daha önce bulunulan görevlere, bu Yönetmelikte belirlenen atanma şartlarını taşımaları kaydıyla unvan değişikliği sınavına tabi tutulmadan atama yapılabilir.
+(2) Bu Yönetmelik kapsamındaki personelden doktora öğrenimini bitirmiş olanlar, unvan değişikliği sınavına katılmaksızın öğrenimle ihraz edilen görevlere atanabilirler.
+(3) Bu Yönetmelik kapsamındaki personelden doktora öğrenimini bitirmiş olanlar görevde yükselme sınavına katılmaksızın, atanılacak görev için 7 ve 8 inci maddelerde aranan nitelik ve şartlara sahip olmak kaydıyla uzman veya aynı düzeydeki görevler ile daha alt görevlere atanabilir.
+(4) (Mülga:RG-31/5/2018-30437) (Yeniden düzenleme:RG-13/11/2019-30947) Avukat unvanlı kadrolardan hukuk müşaviri kadrolarına yapılacak atamalar görevde yükselme sınavına tabi değildir.

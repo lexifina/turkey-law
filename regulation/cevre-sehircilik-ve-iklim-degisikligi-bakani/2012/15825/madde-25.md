@@ -1,0 +1,5 @@
+Kurum içi ve kurum dışından yapılacak atamalar
+MADDE 25 – (Başlığı ile birlikte değişik:RG-21/5/2014-29006)
+(1) Herhangi bir sebeple görevlerinden ayrıldıktan sonra tekrar memuriyete dönmek isteyenler, gerekli koşulları taşımaları ve boş kadro bulunması durumunda, ihtiyaç ve hizmet gerekleri doğrultusunda ayrıldıkları göreve, aynı düzey görevlerden birine ya da bir alt göreve atanabilir.
+(2) (Değişik:RG-22/3/2025-32849) Diğer kamu kurum ve kuruluşlarında görev yapanlardan, bu Yönetmelikte belirtilen aynı unvana veya bu unvanın bulunduğu aynı alt gruptaki diğer unvanlara veya daha alt unvanlara söz konusu unvanlar için öğrenim, sertifika ve hizmet süresi gibi mevzuatta aranan şartları taşımak kaydıyla genel hükümlere göre naklen atama yapılabilir.
+(3) (Değişik:RG-22/3/2025-32849) Diğer personel kanunlarına tabi olanların bu Yönetmelik kapsamındaki görevlere atanmalarında ihraz ettikleri unvanlar, aynı unvanın bulunmaması halinde öğrenim durumu, ihraz ettikleri unvanla birlikte ilgili mevzuatı dikkate alınır.
