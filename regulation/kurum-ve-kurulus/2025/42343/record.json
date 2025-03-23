@@ -1,0 +1,27 @@
+{
+  "source_id": "7.5.42343",
+  "kind": "regulation",
+  "register_kind": "Kurum ve Kuruluş Yönetmelikleri",
+  "title": "TÜRKİYE TENİS FEDERASYONU ANA STATÜSÜ",
+  "number": "42343",
+  "issuer_slug": "kurum-ve-kurulus",
+  "path": "regulation/kurum-ve-kurulus/2025/42343",
+  "source": "https://www.mevzuat.gov.tr/anasayfa/MevzuatFihristDetayIframe?MevzuatTur=7&MevzuatNo=42343&MevzuatTertip=5",
+  "source_sha256": "689170f1e6f1be4ee557892bbc8c40840aca18afa21c037931df4d49fb6c51fe",
+  "source_bytes": 154630,
+  "published": "2025-03-23",
+  "gazette": "32850",
+  "in_force": "2025-03-23",
+  "in_force_basis": "Resmî Gazete publication date in the official listing (23.03.2025)",
+  "history": "current-text",
+  "label": "oldest version available",
+  "checked_on": "2026-11-15",
+  "word_count": 11072,
+  "text_status": "current-consolidated",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  },
+  "completeness": "html-text-complete"
+}
