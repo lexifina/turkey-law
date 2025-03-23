@@ -1,0 +1,2 @@
+Kapsam
+MADDE 2- (1) Bu Ana Statü; Türkiye Otomobil Sporları Federasyonunun Genel Kurulu, Yönetim Kurulu, Denetim Kurulu ve Disiplin Kurulu ile diğer kurullarını, spor dalında faaliyet gösteren spor kulüplerini, spor anonim şirketlerini ve ilgili diğer kuruluşları, sporcu, yarışma gözlemcisi, yönetici, temsilci, yarışma direktörü, üst düzey yarışma görevlileri, gözetmen, takım menajeri ve diğer spor elemanları ile bunların katıldığı yurt içi ve yurt dışı tüm faaliyetleri kapsar.
