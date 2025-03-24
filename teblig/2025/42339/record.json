@@ -1,0 +1,37 @@
+{
+  "checked_on": "2026-11-15",
+  "commencement_quote": "Bu Tebliğ yayımı tarihinde yürürlüğe girer",
+  "date_gazette": "32851",
+  "date_quote": "Bu Tebliğ yayımı tarihinde yürürlüğe girer",
+  "first_law": null,
+  "gazette": "32851",
+  "history": "current-text",
+  "images": {
+    "deferred": 0,
+    "omitted": 0,
+    "referenced": 0,
+    "source": 0
+  },
+  "in_force": "2025-03-24",
+  "in_force_basis": "Own commencement clause: Bu Tebliğ yayımı tarihinde yürürlüğe girer",
+  "issuer": "Çalışma ve Sosyal Güvenlik Bakanlığı",
+  "issuer_catalog_evidence": [
+    {
+      "evidence": "issuer-105-0.json",
+      "id": "105",
+      "label": "Çalışma ve Sosyal Güvenlik Bakanlığı",
+      "listing_url": "https://www.mevzuat.gov.tr/Anasayfa/MevzuatDatatable?MevzuatTur=Teblig&KurumId=105&start=0&length=100"
+    }
+  ],
+  "issuer_slug": "calisma-ve-sosyal-guvenlik-bakanligi",
+  "kind": "communique",
+  "label": "oldest version available",
+  "notes": [],
+  "published": "2025-03-24",
+  "source": "https://www.mevzuat.gov.tr/anasayfa/MevzuatFihristDetayIframe?MevzuatTur=9&MevzuatNo=42339&MevzuatTertip=5",
+  "source_bytes": 8479,
+  "source_id": "9.5.42339",
+  "source_sha256": "57dc7bd68514fd8b7e5beaa2fe9363e95c288bbe8f66b9f864c8e9b86c4b4c18",
+  "title": "ULUSAL MESLEK STANDARTLARINA DAİR TEBLİĞ (TEBLİĞ NO: 2025/1)",
+  "word_count": 148
+}
