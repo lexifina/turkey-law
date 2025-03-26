@@ -1,0 +1,16 @@
+{
+  "kind": "decision",
+  "issuer": "Sayıştay Temyiz Kurulu",
+  "number": "57850",
+  "decision_date": "2025-03-26",
+  "source_id": 32019,
+  "chamber": "5",
+  "file_number": "48959",
+  "public_body_type": "Belediyeler ve Bağlı İdareler",
+  "account_year": "2019",
+  "subject": "Personel Mevzuatı ile İlgili Kararlar",
+  "source": "https://www.sayistay.gov.tr/KararlarTemyiz/Detay/32019/",
+  "source_sha256": "5b02b7e3e54529bfe43fe4d6f3b779895aa441792f509082380332086bd4464e",
+  "text_status": "as-enacted",
+  "text_file": "metin.md"
+}
