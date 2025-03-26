@@ -1,0 +1,20 @@
+{
+  "applicant": "M.A.",
+  "application_date": "2021-05-06",
+  "application_number": "2021/43562",
+  "deciding_unit": "İkinci Bölüm",
+  "decision_date": "2025-03-26",
+  "id": "3a7c0d94-d742-d929-4252-0a1a83d19755",
+  "in_force": "2025-03-26",
+  "in_force_basis": "official decision date",
+  "kind": "constitutional-court-individual-application",
+  "omitted_images": 0,
+  "outcome": "Kabul Edilemezlik vd.",
+  "published": null,
+  "referenced_images": 0,
+  "source": "https://kararlarbilgibankasi.anayasa.gov.tr/kbb/pages/search/Tumu?id=a2JiOjNhN2MwZDk0LWQ3NDItZDkyOS00MjUyLTBhMWE4M2QxOTc1NQ&type=BireyselBasvuru",
+  "source_api": "https://kararlarbilgibankasi.anayasa.gov.tr/api/core/public/search",
+  "source_images": 0,
+  "source_sha256": "726bb7623c2a45068e311993c438dec33a967f0867b62f93ffe61ee8151582b7",
+  "version_label": "as-enacted"
+}
