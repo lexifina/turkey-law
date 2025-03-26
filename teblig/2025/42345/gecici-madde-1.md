@@ -1,0 +1,3 @@
+Geçiş hükümleri
+GEÇİCİ MADDE 1- (1) Bu Tebliğin yayımından önce faaliyet gösteren ve bu Tebliğ kapsamında yer alan ürünlerde resmî kontroller için analiz yapan kurum ve kuruluşlar, 31/12/2025 tarihine kadar bu Tebliğ hükümlerine uymak zorundadır.
+(2) Bu Tebliğ hükümlerine 31/12/2025 tarihine kadar uyum sağlamak zorunda olan kurum ve kuruluşlar, bu Tebliğ hükümlerine uyum sağlayana kadar 6 ncı madde ile yürürlükten kaldırılan Türk Gıda Kodeksi Gıdalardaki Mikotoksin Seviyelerinin Resmi Kontrolü İçin Numune Alma, Numune Hazırlama ve Analiz Metodu Kriterleri Tebliği (Tebliğ No: 2018/10) hükümlerine uymak zorundadır.
