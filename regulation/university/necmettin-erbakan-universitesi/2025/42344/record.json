@@ -1,0 +1,31 @@
+{
+  "act_path": "regulation/university/necmettin-erbakan-universitesi/2025/42344",
+  "availability": "text",
+  "checked_on": "2026-11-14",
+  "commencement_clauses": [
+    "MADDE 17- (1) Bu Yönetmelik yayımı tarihinde yürürlüğe girer."
+  ],
+  "date_quote": "MADDE 17- (1) Bu Yönetmelik yayımı tarihinde yürürlüğe girer.",
+  "first_law": null,
+  "gazette": "32853",
+  "history": "as-enacted",
+  "images": {
+    "deferred": 0,
+    "omitted": 0,
+    "referenced": 0,
+    "source": 0
+  },
+  "in_force": "2025-03-26",
+  "in_force_basis": "source commencement clause: effective on Gazette publication",
+  "issuer": "Necmettin Erbakan Üniversitesi",
+  "issuer_slug": "necmettin-erbakan-universitesi",
+  "kind": "regulation",
+  "published": "2025-03-26",
+  "source": "https://www.mevzuat.gov.tr/anasayfa/MevzuatFihristDetayIframe?MevzuatTur=8&MevzuatNo=42344&MevzuatTertip=5",
+  "source_id": "8.5.42344",
+  "source_sha256": "c4386af1d69992968e4d2d2d76e5e8c810662f85b1d9e521d94e1455f2dc5e03",
+  "title": "NECMETTİN ERBAKAN ÜNİVERSİTESİ YEREL YÖNETİM, ÇEVRE VE ŞEHİR\r\nPOLİTİKALARI UYGULAMA VE ARAŞTIRMA MERKEZİ YÖNETMELİĞİ",
+  "university_id": 416,
+  "version_label": "oldest version available",
+  "word_count": 1001
+}

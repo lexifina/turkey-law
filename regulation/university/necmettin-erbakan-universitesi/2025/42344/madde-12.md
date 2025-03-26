@@ -1,0 +1,4 @@
+Danışma Kurulu ve görevleri
+MADDE 12- (1) Danışma Kurulu; Müdürün başkanlığında, Merkezin faaliyet alanları ile ilgili çalışmaları bulunan Üniversite öğretim elemanları veya Merkeze katkısı olacağı düşünülen kamu kurum ve kuruluşları, özel sektör kurum ve kuruluşları, sivil toplum kuruluşları mensupları ile bağımsız kişiler arasından Yönetim Kurulunun teklifi üzerine Rektör tarafından üç yıl için görevlendirilen en az yedi, en fazla dokuz üyeden oluşur.
+(2) Danışma Kurulu üyelerinin görev süresi, kendi kurumlarındaki görev süreleri dikkate alınarak Müdür tarafından belirlenir. Görev süresi dolan üyeler yeniden seçilebilir.
+(3) Danışma Kurulu istişari bir organdır. Müdürün çağrısı ile yılda en az bir kez toplanır ve Merkezin faaliyet alanıyla ilgili konuları görüşür. Danışma Kurulu toplantılarında çoğunluk şartı aranmaz.
