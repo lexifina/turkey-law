@@ -1,0 +1,26 @@
+{
+  "kind": "norm",
+  "issuer": "Enerji Piyasası Düzenleme Kurumu",
+  "market": "petroleum",
+  "document_type": "board-decision",
+  "number": "13424",
+  "decision_date": "2025-03-27",
+  "title": "T.C. Milli Savunma Bakanlığı Akaryakıt İkmal ve NATO POL Tesisleri İşletme Başkanlığının; PİL/8239-5/40810 sayılı İletim Lisansı Hakkında",
+  "resmi_gazete_date": "2025-03-29",
+  "resmi_gazete_number": "32856",
+  "categories": [
+    "İletim Tarifesi"
+  ],
+  "source": "https://www.epdk.gov.tr/Detay/DownloadDocument?id=a0D4bn9j/dI=",
+  "documents": [
+    "https://www.epdk.gov.tr/Detay/DownloadDocument?id=a0D4bn9j/dI=",
+    "https://www.epdk.gov.tr/Detay/DownloadDocument?id=UHpgfsIGb5U="
+  ],
+  "source_sha256": "c4197711023358557005271b3d14b46b2c192bd0db0e180418d3887d8586e1a4",
+  "official_list": "https://www.epdk.gov.tr/Detay/Icerik/3-0-100/kurul-kararlari",
+  "official_list_leaf": 5334,
+  "text_status": "as-enacted",
+  "text_file": "metin.md",
+  "in_force": "2025-03-27",
+  "law_text_complete": true
+}
