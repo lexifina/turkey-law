@@ -1,0 +1,15 @@
+{
+  "issuer": "Radyo ve Televizyon Üst Kurulu (RTÜK)",
+  "record_type": "Üst Kurul Kararı",
+  "meeting": "2025/13",
+  "meeting_date": "2025-03-27",
+  "meeting_date_as_published": "27.3.2025",
+  "decision_no": "13",
+  "source_id": 20431,
+  "title": "RTÜK kararı 2025/13-13",
+  "source": "https://www.rtuk.gov.tr/UstKurulKarar/Detay/20431",
+  "source_sha256": "35b58d35ae9a37cb2115e1f5aaad37795c4fbbafd0cc01189a43b20a0490e63b",
+  "text_status": "metadata-only",
+  "metadata_only_reason": "possible private person name(s) in the official text (39 match(es)); full text withheld, official link only",
+  "law_text_complete": false
+}
