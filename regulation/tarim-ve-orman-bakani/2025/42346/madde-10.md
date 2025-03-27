@@ -1,0 +1,14 @@
+Raporlama
+MADDE 10- (1) Yıllık uygulama raporu, Programın uygulanmasına ilişkin faaliyetleri içerir ve TKDK ile istişare edilerek 30 Haziran tarihine kadar hazırlanır. Yıllık uygulama raporları, bir önceki takvim yılını kapsar ve Programın tüm uygulama dönemini içeren kümülatif mali verileri, izleme verilerini ve bir önceki takvim yılına ait diğer verileri içerir.
+(2) Program uygulamalarıyla ilgili nihai uygulama raporu hazırlanır. Nihai uygulama raporu, Program kapsamındaki uygun harcamaların ödenmesi için belirlenen en son tarihi takip eden altı ay içinde sunulur. Nihai uygulama raporu, Programın tüm uygulama dönemini kapsar ve son yıllık uygulama raporunu da içerebilir.
+(3) Yıllık uygulama raporları ve nihai uygulama raporu, İzleme Komitesi tarafından incelendikten ve onaylandıktan sonra, Komisyona sunulmak üzere Katılım Öncesi Yardım Ulusal Koordinatörüne ve raporların birer nüshası da Denetim Otoritesine ve Ulusal Yetkilendirme Görevlisine sunulur.
+(4) Yıllık uygulama raporları ve nihai uygulama raporu;
+a) Programın uygulanmasına ilişkin genel uygunluk koşullarında, özellikle temel sosyoekonomik eğilimlerdeki, ulusal, bölgesel veya sektörel politikalardaki değişiklikleri ve gerektiğinde bu değişikliklerin Program yardımı ile diğer Avrupa Birliği mali araçlarından gelen yardımlar arasındaki tutarlılık açısından sonuçlarını,
+b) Uygun olduğu hallerde, sonuç göstergelerinin değerlerindeki değişiklikler de dâhil olmak üzere mali veriler, ortak ve programa özgü göstergeler ile nicel hedef değerlere atıf yapılmak suretiyle, Programın amaçlarına erişilmesiyle ilgili öncelik ve tedbirlerin uygulanmasındaki ilerlemeyi,
+c) Mali taahhütler ve tedbir başına harcamaya ilişkin bilgileri ve değerlendirme planıyla ilgili olarak da gerçekleştirilmiş faaliyetlerin özetini,
+ç) Programın uygulamasında karşılaşılan önemli sorunların özetini ve yapılan düzenlemelere ilişkin tavsiyeler de dâhil olmak üzere gerçekleştirilen eylemleri, her tedbir için yapılan doğrulamaların sonuçlarının ve tespit edilen usulsüzlüklerin özetini, teknik destek tedbirinden sağlanan faydayı, yerel birimlerin daha geniş katılımı ile Programın tanıtımı için atılan adımları ve Avrupa Birliği fonlarının Türkiye Cumhuriyeti’nde mevcut bulunan finansmanını tamamladığını gösteren verileri,
+d) Tüm katılım öncesi Avrupa Birliği yardımının eşgüdümünü sağlamak için atılan adımları,
+e) Tedbir ve/veya sektör başına yapılan Avrupa Birliği harcamaları ile ulusal ve toplam harcamaları gösteren mali tabloları,
+f) Görünürlük ve iletişim faaliyetleri planının uygulanması için yürütülen faaliyetlerin açıklamasını,
+içerir.
+(5) Komisyonun yıllık uygulama raporu hakkında değerlendirmede bulunması halinde, bu değerlendirmeler doğrultusunda gerçekleştirilen eylemler hakkında Komisyon üç ay içerisinde bilgilendirilir.
