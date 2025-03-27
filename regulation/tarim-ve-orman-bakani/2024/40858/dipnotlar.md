@@ -1,0 +1,1 @@
+[1] Danıştay İkinci Dairesinin 23/10/2024 tarihli ve E.: 2024/3110 sayılı kararı ile bu fıkrada “Olağanüstü ve özel durumlarda yer değişikliği” mazeretine yer verilmemesine ilişkin eksik düzenleme nedeniyle yürütmesinin durdurulmasına karar verilmiştir.

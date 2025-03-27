@@ -1,0 +1,2 @@
+Azami çalışma süresi planlaması
+MADDE 18- (1) İl müdürü ve bölge müdürü unvanlarında bulunanların aynı il veya bölge müdürlüklerinde azami çalışma süresi beş yıl olması esasına göre planlanır. 31 Aralık itibarıyla bulundukları il veya bölgede aynı unvanda planlanan azami çalışma süresini tamamlayan il müdürü veya bölge müdürlerinin atanacakları il veya bölgelerin planlaması Cumhurbaşkanlığına arz edilir.

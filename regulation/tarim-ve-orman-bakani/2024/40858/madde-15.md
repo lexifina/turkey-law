@@ -1,0 +1,5 @@
+İl içi yer değişiklikleri
+MADDE 15- (1) Personelin, bu Yönetmelikte belirtilen hükümler çerçevesinde aile birliği, sağlık ve can güvenliği mazeretleri ile engellilik ve terör eylemleri etkisi nedenleriyle il içinde yer değişiklikleri yapılabilir.
+(2) Sağlık ve can güvenliği mazeretine dayalı olarak il içinde yapılacak yer değişikliğinde personel aynı hizmet bölgesi içinde mazeretinin karşılanabileceği başka bir hizmet alanına atanır. Bu şekilde mazeretinin karşılanamaması halinde il içinde ihtiyaç duyulan başka bir hizmet bölgesine atanabilir.
+(3) Personel, il içinde bulunduğu hizmet bölgesinden daha alt hizmet bölgesindeki hizmet alanlarına atanma talebinde bulunabilir. Bu takdirde alt hizmet bölgesinde geçen hizmet süreleri ayrıldıkları bölge hizmetinden sayılır. Personelin bu fıkra uyarınca talepte bulunabilmesi için görev yaptığı hizmet alanında bir yıl çalışması şarttır.
+(4) Bu madde kapsamında il müdürlüğü içindeki tayin talepleri valilikçe değerlendirilir. İl müdürlüğü dışında bölge ve kuruluş müdürlüklerine tayin taleplerinin ise değerlendirilmek üzere Genel Müdürlüğe intikali sağlanır.

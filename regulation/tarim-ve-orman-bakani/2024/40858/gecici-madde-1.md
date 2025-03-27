@@ -1,0 +1,5 @@
+Geçiş hükümleri
+GEÇİCİ MADDE 1- (1) 23 üncü madde ile yürürlükten kaldırılan Gıda, Tarım ve Hayvancılık Bakanlığı Taşra Teşkilatı Personelinin Yer Değiştirme Suretiyle Atanmalarına İlişkin Yönetmeliğin 18 inci maddesi hükümleri gereği önceki görev yerlerine dönebileceği düzenlenen personelden mazeretlerinin sona ermesini müteakip üç ay içinde başvuranlar hakkında mezkûr Yönetmelik hükümlerine göre işlem tesis edilir.
+(2) Personelin bu Yönetmeliğin yürürlüğe girmesinden önceki başvuruları, 23 üncü madde ile yürürlükten kaldırılan Gıda, Tarım ve Hayvancılık Bakanlığı Taşra Teşkilatı Personelinin Yer Değiştirme Suretiyle Atanmalarına İlişkin Yönetmelik hükümlerine göre tamamlanır.
+(3) Bu Yönetmelik kapsamındaki personelin hizmet süresi ve hizmet puanı, daha önce görev yaptıkları hizmet alanları ve süreleri dikkate alınarak bu Yönetmelik hükümlerine göre yeniden hesaplanır.
+(4) 17 nci ve 18 inci maddelerde sayılan unvanlarda görev yapanların bu Yönetmeliğin yürürlüğe girdiği tarihten önceki görev süreleri, azami çalışma sürelerinin hesabında dikkate alınır.
