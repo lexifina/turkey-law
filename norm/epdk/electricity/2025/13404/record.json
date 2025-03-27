@@ -1,0 +1,32 @@
+{
+  "kind": "norm",
+  "issuer": "Enerji Piyasası Düzenleme Kurumu",
+  "market": "electricity",
+  "document_type": "board-decision",
+  "number": "13404",
+  "decision_date": "2025-03-27",
+  "title": "Yan Hizmet Anlaşmaları",
+  "resmi_gazete_date": "2025-03-29",
+  "resmi_gazete_number": "32856",
+  "categories": [
+    "Yan Hizmetlere İlişkin Kurul Kararları"
+  ],
+  "source": "https://www.epdk.gov.tr/Detay/DownloadDocument?id=5j1Jy8hB1lg=",
+  "documents": [
+    "https://www.epdk.gov.tr/Detay/DownloadDocument?id=5j1Jy8hB1lg=",
+    "https://www.epdk.gov.tr/Detay/DownloadDocument?id=JcgQnSqhh8w=",
+    "https://www.epdk.gov.tr/Detay/DownloadDocument?id=hNL34ridfwg=",
+    "https://www.epdk.gov.tr/Detay/DownloadDocument?id=weV9bNSjBbc=",
+    "https://www.epdk.gov.tr/Detay/DownloadDocument?id=4t1Iqj8NCBU=",
+    "https://www.epdk.gov.tr/Detay/DownloadDocument?id=DYfsgoNJhjI=",
+    "https://www.epdk.gov.tr/Detay/DownloadDocument?id=7KW6UQP0+Sw=",
+    "https://www.epdk.gov.tr/Detay/DownloadDocument?id=ia7mCTny5HU="
+  ],
+  "source_sha256": "45484e745bb5fc10321d75006a97922bc984ac4d8313ebdda1e2fc14e47ea041",
+  "official_list": "https://www.epdk.gov.tr/Detay/Icerik/3-0-39/kurul-kararlari-",
+  "official_list_leaf": 33874,
+  "text_status": "as-enacted",
+  "text_file": "metin.md",
+  "in_force": "2025-03-27",
+  "law_text_complete": true
+}
