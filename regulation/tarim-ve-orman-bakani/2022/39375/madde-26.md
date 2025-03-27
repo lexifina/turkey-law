@@ -1,0 +1,2 @@
+Analiz ücretleri
+MADDE 26 – (1) Bakanlık tarafından gönderilen resmî kontrol numunelerinde uygulanacak analiz ücretleri 31/1/2015 tarihli ve 29253 sayılı Resmî Gazete’de yayımlanan Gıda, Tarım ve Hayvancılık Bakanlığı Döner Sermaye İşletmeleri Uygulama Yönetmeliğinde yer alan esaslara uygun olarak Bakanlıkça belirlenir. Resmî kontrol numuneleri için belirlenen fiyat tarifesine uyulması zorunludur. (Ek cümle:RG-1/8/2024-32619) (Mülga üçüncü cümle:RG-27/3/2025-32854) Belirlenen fiyatlara uymayan özel gıda kontrol laboratuvarına numune gönderimi altı ay durdurulur.
