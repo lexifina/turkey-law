@@ -1,0 +1,22 @@
+{
+  "kind": "norm",
+  "issuer": "Gelir İdaresi Başkanlığı",
+  "document_type": "ozelge",
+  "number": "E-84974990-130[KDV-2/2025/İ/28/17]-186929",
+  "source_id": 38677,
+  "date": "2025-03-28",
+  "title": "Hakedişe konu hizmetin ifası için yapılan seyahat, konaklama, uçak bileti gibi farklı harcama kalemlerindeki KDV oranı hk.",
+  "source": "https://gib.gov.tr/mevzuat/kanun/436/ozelge/38677",
+  "related_law": "3065 sayılı KATMA DEĞER VERGİSİ KANUNU",
+  "source_api": "https://gib.gov.tr/api/gibportal/mevzuat/ozelge/list",
+  "source_listing": "evidence/list/2026-11-16/ozelge-p008.json",
+  "source_listing_sha256": "292c126217cc32c3ccfa57495ce433f89ef8db5e75fa1946d5819a76f81aff4d",
+  "source_sha256": "4c6fa71a89fd1322f81a29b856575b73af4021d146332020cc918cb6a431af67",
+  "text_status": "as-enacted",
+  "text_file": "metin.md",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  }
+}
