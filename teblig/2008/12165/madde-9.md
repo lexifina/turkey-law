@@ -1,0 +1,2 @@
+Kredi hesapları
+MADDE 9 – (1) Altın, gümüş veya platin kredisi hesaplarına bankalarca tespit edilecek oranlar üzerinden tahakkuk ettirilecek faizler, altın, gümüş veya platin olarak hesaplarda izlenir. Bu kredi hesapları, müşteriler tarafından altın, gümüş veya platin teslimi suretiyle veya banka ile müşteri arasında varılacak anlaşmaya göre Türk Lirası veya döviz geri ödemesi yapılarak kapatılabilir.

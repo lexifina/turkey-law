@@ -1,0 +1,2 @@
+Geri ödeme
+MADDE 7 – (1) Depo hesaplarından hesap cüzdanında kayıtlı altın, (Değişik ibare:RG-28/3/2025-32855) gümüş, platin veya paladyum miktarının kısmen veya tamamen mudiye teslimi şeklinde ödeme yapılabilir. Banka ile mudi arasında varılacak anlaşmaya göre bankalarca (Değişik ibare:RG-28/3/2025-32855) altın, gümüş, platin veya paladyum, ödeme günündeki değeri üzerinden satın alınabilir ve karşılığında mudiye Türk Lirası veya döviz ödenebilir.

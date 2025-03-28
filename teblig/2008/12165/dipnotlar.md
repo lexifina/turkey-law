@@ -1,0 +1,1 @@
+[1] 28/3/2025 tarihli ve 32855 sayılı Resmî Gazete’de yayımlanan değişiklik ile Tebliğin 3 üncü maddesinin başlığında yer alan “gümüş ve platin” ibaresi “gümüş, platin ve paladyum” şeklinde, 4 üncü maddesinin başlığında yer alan “gümüş ve platinin” ibaresi “gümüş, platin ve paladyumun” şeklinde değiştirilmiştir.
