@@ -1,0 +1,1 @@
+[1] 21/9/2024 tarihli ve 32669 sayılı Resmî Gazete’de yayımlanan değişiklik ile Tebliğin 6 ncı maddesine birinci fıkrasından sonra gelmek üzere fıkralar eklenmiş ve diğer fıkra buna göre teselsül ettirilmiştir.

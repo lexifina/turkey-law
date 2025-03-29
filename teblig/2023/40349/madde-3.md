@@ -1,0 +1,22 @@
+Tanımlar ve kısaltmalar
+MADDE 3- (1) Bu Tebliğde geçen;
+a) 213 sayılı Kanun: 4/1/1961 tarihli ve 213 sayılı Vergi Usul Kanununu,
+b) 3100 sayılı Kanun: 6/12/1984 tarihli ve 3100 sayılı Katma Değer Vergisi Mükelleflerinin Ödeme Kaydedici Cihazları Kullanmaları Mecburiyeti Hakkında Kanunu,
+c) Akaryakıt: Benzin, motorin, LPG, doğalgaz ve benzeri ürünleri,
+ç) Akaryakıt İstasyonu: Taşıtlara perakende olarak akaryakıt satışı yapan işletmeleri,
+d) Bakanlık: Hazine ve Maliye Bakanlığını,
+e) Başkanlık/GİB: Gelir İdaresi Başkanlığını,
+f) Darphane: Darphane ve Damga Matbaası Genel Müdürlüğünü,
+g) GİB Teknoloji: Gelir İdaresi Başkanlığının bilgi teknolojilerine ilişkin süreçlerinin yürütüldüğü birimleri,
+ğ) ÖKC Fişi: YN Pompa ÖKC’den gerçekleştirilen her bir satış işlemi için gün içi müteselsil numaralı düzenlenen ve mali hafıza ile birlikte elektronik kayıt ünitesinde kayıt ve muhafaza edilen 213 sayılı Kanun kapsamındaki perakende satış vesikasını,
+h) Pompa Üreticisi: Akaryakıt pompalarından sorumlu olan üretici/ithalatçıyı,
+ı) TTB: Yakıt verilen taşıtların yakıt depo girişine monte edilebilen ve söküldüğünde tekrar kullanılamayan, (Değişik ibare:RG-7/12/2024-32745) plaka, motor ve/veya şasi numarası gibi taşıta ve/veya mükellefe ilişkin bilgileri hafızasında muhafaza eden ve bu bilgilerin akaryakıt alımı sırasında TTO (Ek ibare:RG-7/12/2024-32745) ve TİM vasıtasıyla pompa ünitelerinin bağlı olduğu YN Pompa ÖKC’lere otomatik olarak iletilmesine imkân sağlayan pasif bir devre ve anteni içeren Taşıt Tanıma Birimini,
+i) TTO: TTB üzerindeki bilgileri okuyabilen, okunan bilgilerin (Ek ibare:RG-7/12/2024-32745) TİM vasıtasıyla YN Pompa ÖKC’lere otomatik olarak iletilmesine imkân sağlayan Taşıt Tanıma Okuyucu Cihazı,
+j) UTTS: TTB ve TTO ile YN Pompa ÖKC’ler arasındaki iletişimi (Ek ibare:RG-7/12/2024-32745) TİM vasıtasıyla gerçekleştiren ve bu cihazların birlikte çalışmasını sağlayan, sistem kapsamındaki bilgilerin kaydedilmesine, saklanmasına ve paylaşılmasına imkân veren Ulusal Taşıt Tanıma Sistemini,
+k) Yetkili Firma: UTTS unsurlarının üretimi, satışı, kurulumu, değişimi ve bakım onarım hizmetlerinin yürütülmesi için Darphane tarafından yetkilendirilen firmaları,
+l) YN Pompa ÖKC: Elektronik ortamda anlık veri aktarımı yapabilen, güvenlik seviyesi yükseltilmiş ve Vergi Usul Kanunu Genel Tebliği (Sıra No: 527) ve ilgili teknik kılavuzlarla diğer özellikleri belirlenen Yeni Nesil Akaryakıt Pompa Ödeme Kaydedici Cihazı,
+m) YN Pompa ÖKC Üreticisi: YN Pompa ÖKC’lerin ithali/üretimi, satışı ve satış sonrası bakım onarım hizmetlerinin yürütülmesi için Vergi Usul Kanunu Genel Tebliği (Sıra No: 527) kapsamında Bakanlıktan onay alan firmayı,
+n) YN Pompa ÖKC Yetkili Servisi: YN Akaryakıt Pompa ÖKC’ler için Bakanlıktan onay alan üretici/ithalatçı firmaların bu cihazların bakım ve onarım hizmetlerini yapmaya yetkili kıldığı kişi veya kurumu,
+o) (Ek:RG-7/12/2024-32745) TİM: TTO’lardan gelen sinyali çözümleyip UTTS Veri Merkezi ile iletişime geçerek TTB’ye ait bilgileri alan ve bunları YN Pompa ÖKC’ye ileten, üzerinde güvenlikli haberleşme anahtarı/kodu ve özel yazılım bulunan, harici olarak YN Pompa ÖKC’ye doğrudan bağlanmış veya YN Pompa ÖKC içine entegre edilmiş Tabanca İletişim Modülünü,
+ö) (Ek:RG-7/12/2024-32745) UTTS Veri Merkezi: UTTS kapsamında oluşan verilerin kaydedilip, saklanacağı veri merkezini,
+ifade eder.
