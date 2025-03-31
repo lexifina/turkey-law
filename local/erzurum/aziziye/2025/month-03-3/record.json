@@ -1,0 +1,28 @@
+{
+  "number": "month-03-3",
+  "year": 2025,
+  "month": 3,
+  "title": "MART 2025 MECLİS KARAR ÖZETİ 3. BİRLEŞİM",
+  "decision_date": null,
+  "index_date": "2025-03-31",
+  "date_precision": "month",
+  "period": "Mart 2025",
+  "source": "https://www.aziziye.bel.tr/karar/mart-2025-meclis-karar-özeti-3-birleşim.html",
+  "official_page": "https://www.aziziye.bel.tr/karar/mart-2025-meclis-karar-özeti-3-birleşim.html",
+  "official_document": "https://www.aziziye.bel.tr/tema/genel/uploads/meclis_kararlari/dosya/MART_2025_MECLYS_KARAR_OZETLERY_3._BYRLEYYM.docx",
+  "source_sha256": "da74f14c14edd2dfee266fb87606123089bdf8e49df6963b8e3eaaa40dde4d2f",
+  "issuer": "Aziziye Belediye Meclisi",
+  "history_type": "metadata",
+  "text_status": "metadata-only: listing fields as published; the decisions are in the linked official document(s) or page, not transcribed",
+  "in_force": "2025-03-31",
+  "in_force_basis": "The official listing gives only the month of this official file (Mart 2025); date set to the last day of that month (turkey-law date convention for month-only sources); exact adoption dates are in the linked official document; legal commencement not asserted",
+  "missing": [
+    "decision numbers, dates and subjects",
+    "complete official decision text",
+    "official annexes"
+  ],
+  "law_text_complete": false,
+  "privacy_withheld": false,
+  "listing_label": "MART 2025 MECLİS KARAR ÖZETİ 3. BİRLEŞİM",
+  "record_scope": "one official file of council decisions (meeting or month)"
+}
