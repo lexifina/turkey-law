@@ -1,0 +1,28 @@
+{
+  "number": "month-03",
+  "year": 2025,
+  "month": 3,
+  "title": "2025 MART AYI OLAĞAN TOPLANTISI ALINAN KARARLARI",
+  "decision_date": null,
+  "index_date": "2025-03-31",
+  "date_precision": "month",
+  "period": "Mart 2025",
+  "source": "https://www.guce.bel.tr/sayfa/meclis-karari.html",
+  "official_page": null,
+  "official_document": "http://guce.bel.tr/uploads/images/10.pdf",
+  "source_sha256": "344fc1b508ac9b4142a374e32613da55b1e43de9150425f88729c11122123ca6",
+  "issuer": "Güce Belediye Meclisi",
+  "history_type": "metadata",
+  "text_status": "metadata-only: listing fields as published; the decisions are in the linked official document(s) or page, not transcribed",
+  "in_force": "2025-03-31",
+  "in_force_basis": "The official listing gives only the month of this official file (Mart 2025); date set to the last day of that month (turkey-law date convention for month-only sources); exact adoption dates are in the linked official document; legal commencement not asserted",
+  "missing": [
+    "decision numbers, dates and subjects",
+    "complete official decision text",
+    "official annexes"
+  ],
+  "law_text_complete": false,
+  "privacy_withheld": false,
+  "listing_label": "2025 MART AYI OLAĞAN TOPLANTISI ALINAN KARARLARI",
+  "record_scope": "one official file of council decisions (meeting or month)"
+}
