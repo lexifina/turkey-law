@@ -1,0 +1,29 @@
+{
+  "number": "month-03",
+  "year": 2025,
+  "month": 3,
+  "title": "2025 MART AYI MECLİS KARARLARI",
+  "decision_date": null,
+  "index_date": "2025-03-31",
+  "date_precision": "month",
+  "period": "Mart 2025",
+  "source": "https://www.nevsehirozelidare.gov.tr/2025-mart-ayi-meclis-kararlari",
+  "official_page": "https://www.nevsehirozelidare.gov.tr/2025-mart-ayi-meclis-kararlari",
+  "official_document": "https://www.nevsehirozelidare.gov.tr/2025-mart-ayi-meclis-kararlari",
+  "source_sha256": "08a67f15c1e7ff279df68c5a692be0dde5680c7c0d85ed70db3688b8dcc67170",
+  "issuer": "Nevşehir İl Genel Meclisi",
+  "history_type": "metadata",
+  "text_status": "metadata-only: listing fields as published; the decisions are in the linked official document(s) or page, not transcribed",
+  "in_force": "2025-03-31",
+  "in_force_basis": "The official listing gives only the month of this official file (Mart 2025); date set to the last day of that month (turkey-law date convention for month-only sources); exact adoption dates are in the linked official document; legal commencement not asserted",
+  "missing": [
+    "decision numbers, dates and subjects",
+    "complete official decision text",
+    "official annexes"
+  ],
+  "law_text_complete": false,
+  "privacy_withheld": false,
+  "listing_label": "2025 MART AYI MECLİS KARARLARI",
+  "record_scope": "one official file of council decisions (meeting or month)",
+  "document_note": "the decisions are published as text on the official page itself (no separate file); not transcribed here"
+}
