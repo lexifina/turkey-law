@@ -1,0 +1,28 @@
+{
+  "number": "month-03",
+  "year": 2025,
+  "month": 3,
+  "title": "Mart 2025 Meclis Kararları",
+  "decision_date": null,
+  "index_date": "2025-03-31",
+  "date_precision": "month",
+  "period": "Mart 2025",
+  "source": "https://www.erzin.bel.tr/2025-mart-ayi-meclis-kararlari",
+  "official_page": "https://www.erzin.bel.tr/2025-mart-ayi-meclis-kararlari",
+  "official_document": "https://www.erzin.bel.tr/kurumlar/erzin.bel.tr/Meclis-Kararlari/2025/mart2025meclis.pdf",
+  "source_sha256": "2f8b5f2f07603209fc241e78f5f5f3f65834d1f64dfbcc645d3085a997d6f97a",
+  "issuer": "Erzin Belediye Meclisi",
+  "history_type": "metadata",
+  "text_status": "metadata-only: listing fields as published; the decisions are in the linked official document(s) or page, not transcribed",
+  "in_force": "2025-03-31",
+  "in_force_basis": "The official listing gives only the month of this official file (Mart 2025); date set to the last day of that month (turkey-law date convention for month-only sources); exact adoption dates are in the linked official document; legal commencement not asserted",
+  "missing": [
+    "decision numbers, dates and subjects",
+    "complete official decision text",
+    "official annexes"
+  ],
+  "law_text_complete": false,
+  "privacy_withheld": false,
+  "listing_label": "Mart 2025 Meclis Kararları",
+  "record_scope": "one official file of council decisions (meeting or month)"
+}
