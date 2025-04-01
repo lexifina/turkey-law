@@ -1,0 +1,2 @@
+Yürürlükten kaldırılan standard
+MADDE 5- (1) 6/8/2008 tarihli ve 26979 sayılı Resmî Gazete’de yayımlanan Mecburi Standard Tebliğinde Değişiklik Yapılmasına Dair Tebliğ ile mecburi uygulamaya konulan TS 825/Mayıs 2008 "Binalarda Isı Yalıtım Kuralları" standardı ve mezkûr standarda ilişkin olarak 17/7/2009 tarihli ve 27291 sayılı Resmî Gazete’de yayımlanan Mecburi Standard Tebliğinde Değişiklik Yapılmasına Dair Tebliğ ile mecburi uygulamaya konulan tadil metni yürürlükten kaldırılmıştır.
