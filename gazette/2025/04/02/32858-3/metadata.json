@@ -1,0 +1,20 @@
+{
+  "record_type": "gazette-item",
+  "gazette": "Resmî Gazete",
+  "jurisdiction": "TR",
+  "date": "2025-04-02",
+  "issue": "32858",
+  "edition": "regular",
+  "item": 3,
+  "section": "YÜRÜTME VE İDARE BÖLÜMÜ",
+  "heading": "TEBLİĞLER",
+  "title": "Gümrük Genel Tebliği (Gümrük İşlemleri) (Seri No: 102)'nde Değişiklik Yapılmasına Dair Tebliğ (Gümrük İşlemleri) (Seri No: 214)",
+  "official_link": "https://www.resmigazete.gov.tr/eskiler/2025/04/20250402-3.htm",
+  "link_format": "htm",
+  "index_url": "https://www.resmigazete.gov.tr/eskiler/2025/04/20250402.htm",
+  "index_sha256": "e26eec560e3a9484e4135ce03392963b7f5ca4a4f201dbfa1706b2254b780e6a",
+  "index_header": "2 Nisan 2025 ... 32858 Sayılı Resmî Gazete",
+  "issue_pdf": "https://www.resmigazete.gov.tr/eskiler/2025/04/20250402.pdf",
+  "in_force_basis": "Resmî Gazete publication date; not a commencement reading.",
+  "text_status": "metadata-only; text not yet fetched (follow-up pass adds it as its own commit)"
+}
