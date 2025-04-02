@@ -1,0 +1,91 @@
+{
+  "source_id": "9.5.17060",
+  "kind": "communique",
+  "register_kind": "Tebliğler",
+  "title": "GÜMRÜK GENEL TEBLİĞİ (GÜMRÜK İŞLEMLERİ) (SERİ NO: 102)",
+  "number": "17060",
+  "path": "teblig/2013/17060",
+  "source": "https://www.mevzuat.gov.tr/anasayfa/MevzuatFihristDetayIframe?MevzuatTur=9&MevzuatNo=17060&MevzuatTertip=5",
+  "source_sha256": "39d2c8ddf05b0174056f4904853dfd861a6e839cb6257b5620013bf3f17a748a",
+  "source_bytes": 36296,
+  "published": "2013-01-28",
+  "gazette": "28542",
+  "in_force": "2025-04-02",
+  "in_force_basis": "latest Resmî Gazete date printed in the source amendment notes/table (\"RG-2/4/2025\") for the current consolidated text",
+  "date_evidence": [
+    [
+      "2025-04-02",
+      "RG-2/4/2025",
+      "Resmî Gazete date printed in the source amendment note"
+    ],
+    [
+      "2025-04-02",
+      "2/4/2025",
+      "Resmî Gazete date in the source amendment table"
+    ],
+    [
+      "2021-12-04",
+      "RG-4/12/2021",
+      "Resmî Gazete date printed in the source amendment note"
+    ],
+    [
+      "2021-12-04",
+      "4/12/2021",
+      "Resmî Gazete date in the source amendment table"
+    ],
+    [
+      "2019-11-06",
+      "RG-6/11/2019",
+      "Resmî Gazete date printed in the source amendment note"
+    ],
+    [
+      "2019-11-06",
+      "6/11/2019",
+      "Resmî Gazete date in the source amendment table"
+    ],
+    [
+      "2018-11-27",
+      "RG-27/11/2018",
+      "Resmî Gazete date printed in the source amendment note"
+    ],
+    [
+      "2018-11-27",
+      "27/11/2018",
+      "Resmî Gazete date in the source amendment table"
+    ],
+    [
+      "2016-01-24",
+      "RG-24/1/2016",
+      "Resmî Gazete date printed in the source amendment note"
+    ],
+    [
+      "2016-01-24",
+      "24/1/2016",
+      "Resmî Gazete date in the source amendment table"
+    ],
+    [
+      "2014-11-23",
+      "RG-23/11/2014",
+      "Resmî Gazete date printed in the source amendment note"
+    ],
+    [
+      "2014-11-23",
+      "23/11/2014",
+      "Resmî Gazete date in the source amendment table"
+    ]
+  ],
+  "commencement_clauses": [
+    "Bu Tebliğ yayımı tarihinde yürürlüğe girer"
+  ],
+  "history": "current-text",
+  "label": "oldest version available",
+  "checked_on": "2026-11-15",
+  "word_count": 407,
+  "text_status": "current-consolidated",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  },
+  "completeness": "html-text-complete"
+}
