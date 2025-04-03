@@ -1,0 +1,39 @@
+{
+  "checked_on": "2026-11-14",
+  "commencement_clauses": [
+    "MADDE 18- (1) Bu Yönetmelik yayımı tarihinde yürürlüğe girer."
+  ],
+  "date_evidence": [
+    [
+      "2025-04-03",
+      "03.04.2025",
+      "original gazette publication date in official listing"
+    ]
+  ],
+  "date_quote": "MADDE 18- (1) Bu Yönetmelik yayımı tarihinde yürürlüğe girer.",
+  "first_law": null,
+  "gazette": "32859",
+  "history": "current-text",
+  "images": {
+    "deferred": 0,
+    "omitted": 0,
+    "referenced": 0,
+    "source": 0
+  },
+  "in_force": "2025-04-03",
+  "in_force_basis": "source commencement clause: enters into force on gazette publication",
+  "issuer": "İstanbul Üniversitesi",
+  "issuer_slug": "istanbul-universitesi",
+  "kind": "regulation",
+  "label": "oldest version available",
+  "path": "regulation/istanbul-universitesi/2025/42351",
+  "published": "2025-04-03",
+  "source": "https://www.mevzuat.gov.tr/anasayfa/MevzuatFihristDetayIframe?MevzuatTur=8&MevzuatNo=42351&MevzuatTertip=5",
+  "source_bytes": 21573,
+  "source_id": "8.5.42351",
+  "source_sha256": "9809a5f00b8a3cf1845ac9a720659e65b5734c1577ceb156c10db2656101d3ec",
+  "text_status": "as-enacted",
+  "title": "İSTANBUL ÜNİVERSİTESİ MANTIK UYGULAMA VE ARAŞTIRMA MERKEZİ YÖNETMELİĞİ",
+  "university_id": 202,
+  "word_count": 812
+}
