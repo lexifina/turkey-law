@@ -1,0 +1,25 @@
+{
+  "number": "meeting-04-04",
+  "number_as_published": "meeting-04-04",
+  "year": 2025,
+  "title": "04.04.2025 TARİHLİ NİSAN AYI MECLİS KARARLARI",
+  "decision_date": "2025-04-04",
+  "source": "https://www.torbali.bel.tr/meclis-kararlari-1758",
+  "official_document": "https://www.torbali.bel.tr/assets/upload/a5aac2f3-8370-47f4-a8f2-e2d8d27cdd26_10042025153446_11042025_111701_7780-2805.pdf",
+  "source_sha256": "0994bf0adf492db64c8fbea26d6feb4edbcf77ec5e183cefe4b587fe9072b50c",
+  "issuer": "Torbalı Belediye Meclisi",
+  "history_type": "metadata",
+  "text_status": "metadata-only: listing fields as published; complete decision text is in the linked official document, not transcribed",
+  "in_force": "2025-04-04",
+  "in_force_basis": "Decision date as printed in the official council listing: 04.04.2025; adoption date of the council decision; legal commencement not asserted",
+  "missing": [
+    "complete official decision text",
+    "official annexes"
+  ],
+  "law_text_complete": false,
+  "privacy_withheld": false,
+  "listing_label": "04.04.2025 TARİHLİ NİSAN AYI MECLİS KARARLARI",
+  "record_scope": "one official file of council decisions (meeting)",
+  "posting_date": "11 NİSAN 2025",
+  "official_page": "https://www.torbali.bel.tr/meclis-kararlari-1758"
+}
