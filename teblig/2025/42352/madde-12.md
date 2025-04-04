@@ -1,0 +1,8 @@
+Etiketleme
+MADDE 12- (1) Bu Tebliğ kapsamında yer alan ürünlerin etiketi hakkında, 26/1/2017 tarihli ve 29960 mükerrer sayılı Resmî Gazete’de yayımlanan Türk Gıda Kodeksi Gıda Etiketleme ve Tüketicileri Bilgilendirme Yönetmeliğinde yer alan hükümlere ilave olarak aşağıdaki hükümlere de uyulur:
+a) Bu Tebliğ kapsamındaki ürünlerin etiketinde gıda adının, temel görüş alanında da yer alması zorunludur.
+b) Tuz ilave edilmemiş tereyağında "tuz ilave edilmemiştir" ifadesinin etikette belirtilmesi zorunludur. Tuz ilave edilmiş tereyağının içerdiği tuz oranı, etiketin içindekiler bölümünde ağırlıkça yüzde "%..." olarak belirtilir. Ayrıca “tuzlu” ya da “tuz ilave edilmiştir” ifadesinin etiketin temel görüş alanında belirtilmesi zorunludur.
+c) Çeşnili tereyağında kullanılan çeşni maddesi ve miktarının gıda adı ile birlikte temel görüş alanında yer alması zorunludur.
+ç) Bu Tebliğ kapsamındaki ürünlerin üretiminde tek bir hayvan türüne ait sütün veya kremanın kullanılması durumunda hayvan türünün adının etikette belirtilmesi zorunludur.
+d) Bu Tebliğ kapsamındaki ürünlerin üretiminde farklı hayvan türlerine ait sütlerin veya kremaların karıştırılarak kullanılması durumunda, sütün elde edildiği türlerin adlarının gıdanın adının yanında “inek, koyun, keçi ve manda sütlerinden/kremalarından üretilmiştir” gibi ifadelerle belirtilmesi zorunludur. Ancak bu ürünlerin etiketinde inek, koyun, keçi ve manda gibi türlere ait görsellere yer verilemez.
+e) Bu Tebliğ kapsamı dışında kalan ürünlerin etiketinde, reklam, tanıtım ve sunumunda bu Tebliğde yer alan ürün algısı oluşturacak tüketiciyi yanıltıcı ifade ve görseller kullanılamaz.
