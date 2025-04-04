@@ -1,0 +1,20 @@
+{
+  "record_type": "gazette-item",
+  "gazette": "Resmî Gazete",
+  "jurisdiction": "TR",
+  "date": "2025-04-04",
+  "issue": "32860",
+  "edition": "regular",
+  "item": 1,
+  "section": "YÜRÜTME VE İDARE BÖLÜMÜ",
+  "heading": "TEBLİĞLER",
+  "title": "Türk Gıda Kodeksi Tereyağı ve Sadeyağ Tebliği (No: 2025/9)",
+  "official_link": "https://www.resmigazete.gov.tr/eskiler/2025/04/20250404-1.htm",
+  "link_format": "htm",
+  "index_url": "https://www.resmigazete.gov.tr/eskiler/2025/04/20250404.htm",
+  "index_sha256": "67c78a96bb98e1d4e9bba994ed746928e0132418098bb0c3167aeee3a3a044db",
+  "index_header": "4 Nisan 2025 ... 32860 Sayılı Resmî Gazete",
+  "issue_pdf": "https://www.resmigazete.gov.tr/eskiler/2025/04/20250404.pdf",
+  "in_force_basis": "Resmî Gazete publication date; not a commencement reading.",
+  "text_status": "metadata-only; text not yet fetched (follow-up pass adds it as its own commit)"
+}
