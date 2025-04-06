@@ -1,0 +1,4 @@
+İKİNCİ BÖLÜM
+Merkezin Amaçları ve Faaliyet Alanları
+Merkezin amaçları
+MADDE 5- (1) Merkezin amaçları; kurslar, seminerler gibi dil öğretim yöntemlerini en etkin biçimde kullanarak bir dilin temel kurallarını, sözlü ve yazılı anlama, anlatma yöntemlerini öğretmek, çeşitli alanlardaki yayınları izleyebilme becerisi edindirmek, akademik ve sosyal yaşam için gereken dil iletişimini sağlama yeterliliğini kazandırmak, dilin kültürel yapısına ilişkin kazanımlar sunmak, Türk topluluklarının farklı coğrafyalarda oluşturdukları dil, tarih ve edebiyat eserleri gibi kültür eserlerini Türk kültürünün çevre kültürlerle olan dil ilişkilerini araştırmak ve bu alanda gerçekleştirilecek her türlü çalışmada bulunmak, Merkezin bünyesinde öğretimi yapılan Türkçe ve diğer dillere ait Merkezin amaçlarına uygun hazırlanan çalışmaları ve kitapları çeşitli yayın kolları ve organlarıyla yayımlamaktır.
