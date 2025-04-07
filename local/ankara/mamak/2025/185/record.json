@@ -1,0 +1,23 @@
+{
+  "number": "185",
+  "number_as_published": "185",
+  "year": 2025,
+  "title": "Şehit Cengiz Topel Mahallesi Akdere Bilim Sanat Merkezinde bulunan 3 ve 4 numaralı 2 adet dükkanın 2886 sayılı Devlet İhale Kanunu doğrultusunda satışının yapılmasına ilişkin, Meclis Kararı",
+  "decision_date": "2025-04-07",
+  "source": "https://www.mamak.bel.tr/gundem/GetKararlar",
+  "official_document": "https://www.mamak.bel.tr/gundem/DosyaDownload?guid=7f389ce6-3e6b-4dd1-924b-ec63c3cb0845",
+  "source_sha256": "f554089df68731558a37947c976f196303cdbdc5704c52cb6912834ca94730d3",
+  "issuer": "Mamak Belediye Meclisi",
+  "history_type": "metadata",
+  "text_status": "metadata-only: listing fields as published; complete decision text is in the linked official document, not transcribed",
+  "in_force": "2025-04-07",
+  "in_force_basis": "Decision date as printed in the official council listing: 2025-04-07T00:00:00 (kararTarihi of the official register); adoption date of the council decision; legal commencement not asserted",
+  "missing": [
+    "complete official decision text",
+    "official annexes"
+  ],
+  "law_text_complete": false,
+  "privacy_withheld": false,
+  "listing_page": "https://www.mamak.bel.tr/gundem/kararlar",
+  "register_api": "https://www.mamak.bel.tr/gundem/GetKararlar"
+}
