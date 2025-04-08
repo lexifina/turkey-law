@@ -1,0 +1,2 @@
+Dayanak
+MADDE 2- (1) Bu Tebliğ, 23/10/2014 tarihli ve 6563 sayılı Elektronik Ticaretin Düzenlenmesi Hakkında Kanunun 11 inci maddesinin birinci fıkrası, 1 sayılı Cumhurbaşkanlığı Teşkilatı Hakkında Cumhurbaşkanlığı Kararnamesinin 446 ncı maddesinin birinci fıkrasının (f) bendi ile 15/7/2015 tarihli ve 29417 sayılı Resmî Gazete’de yayımlanan Ticari İletişim ve Ticari Elektronik İletiler Hakkında Yönetmeliğe dayanılarak hazırlanmıştır.

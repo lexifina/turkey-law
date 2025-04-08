@@ -1,0 +1,3 @@
+Teknik yükümlülükler
+MADDE 9- (1) Entegratör, entegratörlük hizmetinin verilmesinde İYS’nin güvenliğini tehlikeye düşürebilecek ve/veya İYS’ye zarar verebilecek işlemlerden kaçınmak, yetkisiz erişimlere ve siber saldırılara karşı gerekli ağ ve sistem güvenliğini oluşturmak, asgari yedekleme ve felaketten kurtarma planlarına sahip olmak, her türlü işlemin kaydını tutmak ve Kuruluşun yapılmasını sağladığı sözleşmede öngörülen diğer idari ve teknik tedbirleri almakla yükümlüdür.
+(2) Bakanlık, birinci fıkrada öngörülenler dışında ilave yükümlülükler belirlemeye, ulusal ve uluslararası standartlara uyma zorunluluğu getirmeye yetkilidir.

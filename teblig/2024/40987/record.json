@@ -1,0 +1,50 @@
+{
+  "annexes": {
+    "links": [
+      {
+        "caption": "Eki için tıklayınız",
+        "official_href": "9.5.40987-Ek.docx",
+        "status": "pending"
+      }
+    ],
+    "official_html": "https://www.mevzuat.gov.tr/anasayfa/MevzuatFihristDetayIframe?MevzuatTur=9&MevzuatNo=40987&MevzuatTertip=5",
+    "status": "pending"
+  },
+  "checked_on": "2026-11-15",
+  "commencement_quote": "Bu Tebliğ yayımı tarihinde yürürlüğe girer",
+  "date_gazette": "32864",
+  "date_quote": "RG-8/4/2025-32864",
+  "first_law": null,
+  "gazette": "32666",
+  "history": "current-text",
+  "images": {
+    "deferred": 0,
+    "omitted": 0,
+    "referenced": 0,
+    "source": 0
+  },
+  "in_force": "2025-04-08",
+  "in_force_basis": "Latest source-printed RG amendment date for current text: RG-8/4/2025-32864; own commencement clause: Bu Tebliğ yayımı tarihinde yürürlüğe girer",
+  "issuer": "Ticaret Bakanlığı",
+  "issuer_catalog_evidence": [
+    {
+      "evidence": "issuer-504-200.json",
+      "id": "504",
+      "label": "Ticaret Bakanlığı",
+      "listing_url": "https://www.mevzuat.gov.tr/Anasayfa/MevzuatDatatable?MevzuatTur=Teblig&KurumId=504&start=200&length=100"
+    }
+  ],
+  "issuer_slug": "ticaret-bakanligi",
+  "kind": "communique",
+  "label": "oldest version available",
+  "notes": [
+    "Linked official annexes are not included in this version; original official links and captions are recorded in annexes."
+  ],
+  "published": "2024-09-18",
+  "source": "https://www.mevzuat.gov.tr/anasayfa/MevzuatFihristDetayIframe?MevzuatTur=9&MevzuatNo=40987&MevzuatTertip=5",
+  "source_bytes": 38212,
+  "source_id": "9.5.40987",
+  "source_sha256": "861bdb01aaaa82fd529d52f3709fd08a940fee2cce6ff3c426671161e822e8e0",
+  "title": "TİCARİ ELEKTRONİK İLETİ YÖNETİM SİSTEMİ ENTEGRATÖRLERİ HAKKINDA TEBLİĞ",
+  "word_count": 1846
+}

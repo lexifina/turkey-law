@@ -1,0 +1,4 @@
+Denetim ve ceza hükümleri
+MADDE 15- (1) Bakanlık, bu Tebliğ kapsamında yetkilendirilen entegratörlerin gerçekleştirdiği faaliyet ve işlemleri denetlemeye yetkilidir. Yönetmeliğin 16 ncı maddesinin ikinci ve üçüncü fıkraları, entegratörlerin denetiminde de uygulanır.
+(2) Entegratör, 4 üncü maddenin ikinci fıkrasının (g) bendinde belirtilen şirketlere her takvim yılı içinde en az bir defa sızma testi yaptırarak gerekli önlemleri alır ve bu önlemleri aldığına ilişkin doğrulama testi yaptırır. Kuruluş doğrudan veya Bakanlığın talebi üzerine son testin üzerinden bir yıl geçmemiş olsa dahi entegratörden söz konusu testleri yaptırmasını isteyebilir. Test sonuçları, rapor tarihinden itibaren en geç on beş gün içinde Kuruluşa gönderilir.
+(3) Bu Tebliğe aykırı hareket edenler hakkında Kanunun 12 nci maddesinde öngörülen idari para cezaları Bakanlıkça uygulanır.

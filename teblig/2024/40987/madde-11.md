@@ -1,0 +1,2 @@
+Ticari sır niteliğindeki bilgilerin korunması
+MADDE 11- (1) Entegratör, entegratörlük hizmeti sırasında öğrenmiş veya edinmiş olduğu hizmet sağlayıcıya ait ticari sır niteliğindeki bilgilerin güvenliğinden ve gizliliğinden sorumlu olup bu bilgileri, amacı dışında kullanamaz ve hizmet sağlayıcının yazılı izni olmaksızın Bakanlık ve ilgili diğer kamu kurum ve kuruluşları dışında üçüncü kişilerle paylaşamaz.
