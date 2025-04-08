@@ -1,0 +1,17 @@
+{
+  "record_type": "parliament-minutes",
+  "body": "TBMM Genel Kurulu",
+  "term": 28,
+  "legislative_year": 3,
+  "sitting": 73,
+  "sitting_date": "2025-04-08",
+  "listed_date": "08 Nisan 2025 Salı",
+  "status": "Basılmış",
+  "source": "https://cdn.tbmm.gov.tr/TbmmWeb/Tutanak/28/3/73/Tam/fa17fb98-1132-42b3-a186-5c92c667847d.html",
+  "sitting_page": "https://www.tbmm.gov.tr/Tutanaklar/Tutanak?Id=f2ae76ba-39b3-4d2d-b825-01961576824a",
+  "listing_source": "https://www.tbmm.gov.tr/Tutanaklar/DoneminTutanakMetinleri?Donem=28&YasamaYili=3",
+  "source_sha256": "7ae74b8f121245019f09bf4167e4e2a9cd5127e9a1c32b2bee2fbef447598efb",
+  "source_bytes": 629026,
+  "source_encoding": "windows-1254",
+  "text_status": "as-published"
+}
