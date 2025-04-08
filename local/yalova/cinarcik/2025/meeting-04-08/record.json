@@ -1,0 +1,25 @@
+{
+  "number": "meeting-04-08",
+  "number_as_published": "meeting-04-08",
+  "year": 2025,
+  "title": "08 Nis Nisan 2025 Olağan Meclis Toplantısı 8 Nisan 2025 Salı · 11 karar",
+  "decision_date": "2025-04-08",
+  "source": "https://www.cinarcik.bel.tr/kurumsal/meclis/2025-nisan",
+  "official_document": "https://www.cinarcik.bel.tr/kurumsal/meclis/2025-nisan",
+  "source_sha256": "25dd2537255402e57d99ed99801b47e969537eb7f5fb25ff567afa15dfb47185",
+  "issuer": "Çınarcık Belediye Meclisi",
+  "history_type": "metadata",
+  "text_status": "metadata-only: listing fields as published; complete decision text is in the linked official document, not transcribed",
+  "in_force": "2025-04-08",
+  "in_force_basis": "Decision date as printed in the official council listing: 8 NİSAN 2025; adoption date of the council decision; legal commencement not asserted",
+  "missing": [
+    "complete official decision text",
+    "official annexes"
+  ],
+  "law_text_complete": false,
+  "privacy_withheld": false,
+  "listing_label": "08 Nis Nisan 2025 Olağan Meclis Toplantısı 8 Nisan 2025 Salı · 11 karar",
+  "record_scope": "one official file of council decisions (meeting)",
+  "official_page": "https://www.cinarcik.bel.tr/kurumsal/meclis/2025-nisan",
+  "document_note": "the decisions are published as text on the official page itself (no separate file); not transcribed here"
+}
