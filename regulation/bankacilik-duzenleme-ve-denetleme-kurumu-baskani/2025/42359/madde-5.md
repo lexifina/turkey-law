@@ -1,0 +1,3 @@
+Ortaklıklardan ve ortaklardan sağlanacak fonlar
+MADDE 5- (1) Ortaklar ile iştirakler, bağlı ortaklıklar ve birlikte kontrol edilen ortaklıklardan fon sözleşmesi yapılması şartıyla fon sağlanabilir.
+(2) Bir doğrudan veya dolaylı ortaktan sağlanan fon tutarı toplamı, bu ortağın kalkınma ve yatırım bankasının sermayesindeki payı oranına karşılık gelen özkaynak tutarını aşamaz. Nitelikli pay sahipleri ve bunların dahil olduğu risk grubunda yer alan doğrudan veya dolaylı ortaklar ile kamu tüzel kişiliğini haiz doğrudan veya dolaylı pay sahiplerinden sağlanan fonlar hakkında bu sınır uygulanmaz. Nitelikli pay sahipliği kapsamında yer almayan borsadan edinilen pay sahipliğine dayalı ortaklardan fon sağlanamaz.
