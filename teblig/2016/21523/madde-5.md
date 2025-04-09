@@ -1,0 +1,2 @@
+Temel gerekler
+MADDE 5 – (1) Bu (Değişik ibare:RG-31/12/2018-30642 -4.Mükerrer) Tebliğ kapsamındaki ürünlerin, insan sağlığı, can ve mal güvenliği, hayvan ve bitki yaşam ve sağlığı, çevre ve tüketicinin korunması açısından sahip olması gereken asgari güvenlik koşullarını karşılaması zorunludur. (Değişik cümle:RG-31/12/2018-30642 -4.Mükerrer) Bu ürünlerin temel gereklere uygunluğu, üretici tarafından başka türlü ispatlanmadığı sürece Tebliğde yer alan düzenlemeler ile ekte belirtilen standartlar dikkate alınarak değerlendirilir.
