@@ -1,0 +1,24 @@
+{
+  "number": "37",
+  "number_as_published": "2025-37",
+  "year": 2025,
+  "title": "Belediyemizin 3 Eylül 2020’de imzalayarak taraf olduğu “Avrupa Birliği Belediye Başkanları İklim ve Enerji Sözleşmesi” kapsamında hazırlanan “Bodrum Belediyesi Sürdürülebilir Enerji ve İklim Eylem Planının, Çevre, Yenilenebilir Enerji ve İklim Değişikliği Komisyonunun 17.03.2025 tarih ve 2025/2 sayılı ...",
+  "decision_date": "2025-04-09",
+  "source": "https://www.bodrum.bel.tr/meclis_kararlari",
+  "official_document": null,
+  "source_sha256": "36f43b06e3286682d4de72a2f9f74706691b0d695f1c5dc1c19278c417ce11e6",
+  "issuer": "Bodrum Belediye Meclisi",
+  "history_type": "metadata",
+  "text_status": "metadata-only: listing fields as published; the listing links no decision document",
+  "in_force": "2025-04-09",
+  "in_force_basis": "Decision date as printed in the official council listing: 9.4.2025; adoption date of the council decision; legal commencement not asserted",
+  "missing": [
+    "complete official decision text",
+    "official annexes"
+  ],
+  "law_text_complete": false,
+  "privacy_withheld": false,
+  "official_page": "https://www.bodrum.bel.tr/meclis_karari.php?id=2924",
+  "summary_shortened_in_listing": true,
+  "record_scope": "one council decision (summary as listed)"
+}
