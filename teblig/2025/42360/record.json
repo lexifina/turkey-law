@@ -1,0 +1,33 @@
+{
+  "source_id": "9.5.42360",
+  "kind": "communique",
+  "register_kind": "Tebliğler",
+  "title": "ULUSAL TAŞIMACILIK FAALİYETLERİNDE KULLANILACAK ELEKTRİKLİ LOKOMOTİFLERİN TİP ONAY VE TESCİL KRİTERLERİNE İLİŞKİN TEBLİĞ",
+  "number": "42360",
+  "issuer": "Ulaştırma ve Altyapı Bakanı",
+  "path": "teblig/2025/42360",
+  "source": "https://www.mevzuat.gov.tr/anasayfa/MevzuatFihristDetayIframe?MevzuatTur=9&MevzuatNo=42360&MevzuatTertip=5",
+  "source_sha256": "21bd02670bdb5616da7b775ab8c92ed6251ac7654b849f13ecf2950ee55e8691",
+  "source_bytes": 17773,
+  "published": "2025-04-09",
+  "gazette": "32865",
+  "in_force": "2025-04-09",
+  "in_force_basis": "Resmî Gazete publication date in the official listing (09.04.2025); own commencement article: \"Bu Tebliğ yayımı tarihinde yürürlüğe girer\"",
+  "commencement_clauses": [
+    "Bu Tebliğ yayımı tarihinde yürürlüğe girer"
+  ],
+  "history": "current-text",
+  "label": "oldest version available",
+  "checked_on": "2026-11-15",
+  "word_count": 718,
+  "text_status": "current-consolidated",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  },
+  "source_links": [
+    "9.5.42360-Ek.docx"
+  ],
+  "completeness": "html-text-complete; linked annexes not fetched"
+}

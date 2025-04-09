@@ -1,0 +1,2 @@
+Kanıtların değerlendirilmesi
+MADDE 7- (1) Uygunluk değerlendirme sürecinde, NoBo veya UTP değerlendirme kuruluşu tarafından incelendiğine ve uygunluğu kabul edildiğine dair kanıt bilgi ve belgelerle birlikte sunulacak teknik dokümanlar, test sonuçları ve sonuçların uygunluğuna dair raporlar ile diğer bilgi ve belgeler, doğruluğu sunan tarafından beyan ve taahhüt edilmek üzere geçerli kabul edilir.
