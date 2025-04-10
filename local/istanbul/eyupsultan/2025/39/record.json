@@ -1,0 +1,22 @@
+{
+  "number": "39",
+  "number_as_published": "2025/39",
+  "year": 2025,
+  "title": "Mithatpaşa Mahallesi, 435 ada 4 parsele ve 507 ada 7 parsele tescil taraması eklenmesi ilişkin uygulama imar planı değişikliği",
+  "decision_date": "2025-04-10",
+  "source": "https://eyupsultan.bel.tr/tr/main/pages/2025-nisan-ayi-meclis-kararlari/2696",
+  "official_document": "https://eyupsultan.bel.tr/tr/main/pages/2025-39/2701",
+  "source_sha256": "82f6e66f8b9140b7c0d922004ea6f16b4678d7a55a502a7717ac7c733cb42d99",
+  "issuer": "Eyüpsultan Belediye Meclisi",
+  "history_type": "metadata",
+  "text_status": "metadata-only: listing fields as published; complete decision text is in the linked official document, not transcribed",
+  "in_force": "2025-04-10",
+  "in_force_basis": "Decision date as printed in the official council listing: 10.04.2025 (meeting date at the start of the decision page); adoption date of the council decision; legal commencement not asserted",
+  "missing": [
+    "complete official decision text",
+    "official annexes"
+  ],
+  "law_text_complete": false,
+  "privacy_withheld": false,
+  "decision_page_sha256": "8db585758f4fcf9733b02300ef926fda0d637745507d18bc9bfd2d0a3d0d8bb6"
+}
