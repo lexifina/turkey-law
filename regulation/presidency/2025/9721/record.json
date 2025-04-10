@@ -1,0 +1,26 @@
+{
+  "id": "presidency-regulation-9721",
+  "number": "9721",
+  "kind": "regulation",
+  "issuer": "presidency",
+  "title": "DOĞUM YARDIMI YÖNETMELİĞİ",
+  "published": "2025-04-10",
+  "enacted": "2025-04-09",
+  "gazette_number": "32866",
+  "in_force": "2025-04-10",
+  "in_force_basis": "Official commencement clause: \"Bu Yönetmelik yayımı tarihinde yürürlüğe girer.\"; Resmî Gazete 2025-04-10, no amendment annotation in this source text.",
+  "history": "current-only",
+  "version_label": "oldest version available",
+  "first_law": null,
+  "source": "https://www.mevzuat.gov.tr/anasayfa/MevzuatFihristDetayIframe?MevzuatNo=9721&MevzuatTur=21&MevzuatTertip=5",
+  "source_sha256": "0f3d22d6fbfef2b3df5750bf99af075949c87996d07969b0092b1ead70998134",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  },
+  "missing_components": [],
+  "text_layout": "article-files",
+  "source_links": [],
+  "completeness": "html-text-complete"
+}

@@ -1,0 +1,2 @@
+Veri paylaşımı
+MADDE 14- (1) Bakanlık, bu Yönetmelik kapsamında doğum yardımı yapılmasına yönelik ihtiyaç duyduğu her türlü veriyi çevrim içi veya çevrim dışı yöntemlerle ilgili kamu kurum ve kuruluşlarından talep eder. Söz konusu veriler, ilgili kamu kurum ve kuruluşları tarafından Bakanlık ile paylaşılır. Bakanlık, bu kapsamdaki verilerin temin edilmesi, işlenmesi ve kaydedilmesi de dâhil olmak üzere, verilere ilişkin her türlü işlemi elektronik ortamda yapar.

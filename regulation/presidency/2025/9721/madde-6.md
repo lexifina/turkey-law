@@ -1,0 +1,5 @@
+Başvuru
+MADDE 6- (1) Doğum yardımı başvurusu, çocuğun KPS’ye kayıt işleminin tamamlanmasını müteakip, bu Yönetmelik kapsamına girenler tarafından, sağ olması kaydıyla; ilk çocuk için doğum tarihinden sonraki 12 ay içinde, diğer çocuklar için 5 yaşını tamamlayıncaya kadar başvuru yerlerine yapılır.
+(2) Anne Türk vatandaşı ve sağ ise başvuru, anne tarafından ya da anne adına baba tarafından yapılır. Annenin Türk vatandaşı olmaması veya vefat etmiş olması hâlinde ya da Bakanlıkça belirlenecek zorunlu hâllerde başvuru, Türk vatandaşı olan baba tarafından veya çocuğun kanuni temsilcisi tarafından yapılır. Anne ve babanın her ikisinin de vefat etmiş olması hâlinde başvuru, çocuğun kanuni temsilcisi tarafından yapılır.
+(3) Başvuru; anne, baba ve çocuk ile varsa diğer çocukların Türkiye Cumhuriyeti kimlik numaralarını, doğruluk beyanını ve Bakanlıkça belirlenecek diğer bilgileri içerir.
+(4) Başvuruda yer alan doğruluk beyanında, başvuran kişinin evlat edindiği çocukları bulunması hâlinde evlat edinmeye ilişkin bilgi ve belgeler beyan edilir.

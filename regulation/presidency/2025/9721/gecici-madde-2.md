@@ -1,0 +1,2 @@
+Geçmişte yapılan doğum yardımı ödemeleri
+GEÇİCİ MADDE 2- (1) 1/1/2025 tarihinden sonra canlı doğan çocukları için bu Yönetmeliğin yürürlüğe girdiği tarihe kadar, 16 ncı madde ile yürürlükten kaldırılan yönetmelik kapsamında doğum yardımı alanlardan, bu Yönetmeliğin yürürlüğe girdiği tarihten itibaren 30 gün içinde başvurmaları ve gerekli şartları taşımaları hâlinde, daha önce ödenmiş olan tutar mahsup edilerek doğum yardımı ödemesi yapılır.
