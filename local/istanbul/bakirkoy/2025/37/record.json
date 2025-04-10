@@ -1,0 +1,23 @@
+{
+  "number": "37",
+  "number_as_published": "37",
+  "year": 2025,
+  "title": "Kartaltepe Mah., Terakki Cad., No:39 adresindeki (15 No’lu Aile Sağlığı Merkezi) yanında 936 ada 522 parsel batı kamu malı sahasında kalan 100 m² alanın 112 Acil Sağlık Hizmetleri İstasyonu olarak kullan. üzere İstanbul Valiliği İl Sağlık Müd.tahsis edil.",
+  "decision_date": "2025-04-10",
+  "source": "https://www.bakirkoy.bel.tr/meclis-kararlari/8",
+  "official_document": "https://www.bakirkoy.bel.tr/storage/app/media/meclis%20kararlar%C4%B1/37-emlak-ve-istimlak-mud-936-ada-522-parseldeki-100-metrekare-alanin-istanbul-il-saglik-mdne-5-yil-sureli-tahsisi-10042025.pdf",
+  "source_sha256": "fd0ea186f0635908d639b78db9ff5f9c70c260fbb82edc130b47ef08800bd5e4",
+  "issuer": "Bakırköy Belediye Meclisi",
+  "history_type": "metadata",
+  "text_status": "metadata-only: listing fields as published; complete decision text is in the linked official document, not transcribed",
+  "in_force": "2025-04-10",
+  "in_force_basis": "Decision date as printed in the official council listing: 10 Nisan 2025 (Tarih column of the official list); adoption date of the council decision; legal commencement not asserted",
+  "missing": [
+    "complete official decision text",
+    "official annexes"
+  ],
+  "law_text_complete": false,
+  "privacy_withheld": false,
+  "record_scope": "one council decision (number, date and summary as listed; the decision is the linked official PDF)",
+  "official_page": "https://www.bakirkoy.bel.tr/meclis-kararlari"
+}
