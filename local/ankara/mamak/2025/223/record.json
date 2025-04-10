@@ -1,0 +1,37 @@
+{
+  "number": "223",
+  "number_as_published": "223",
+  "year": 2025,
+  "title": "Belediyemizce ilçemiz sınırları içerisinde bakım-onarımı yapılan eğitim kurumları, sağlık tesisleri, dini tesisler ve müştemilatlar neler olduğuna ilişkin, Meclis Kararı",
+  "decision_date": "2025-04-10",
+  "source": "https://www.mamak.bel.tr/gundem/GetKararlar",
+  "official_document": "https://www.mamak.bel.tr/gundem/DosyaDownload?guid=4d4fdc8f-8f34-4f8c-81df-67954fc6554e",
+  "source_sha256": "f554089df68731558a37947c976f196303cdbdc5704c52cb6912834ca94730d3",
+  "issuer": "Mamak Belediye Meclisi",
+  "history_type": "metadata",
+  "text_status": "metadata-only: listing fields as published; complete decision text is in the linked official document, not transcribed",
+  "in_force": "2025-04-10",
+  "in_force_basis": "Decision date as printed in the official council listing: 2025-04-10T00:00:00 (kararTarihi of the official register); adoption date of the council decision; legal commencement not asserted",
+  "missing": [
+    "complete official decision text",
+    "official annexes"
+  ],
+  "law_text_complete": false,
+  "privacy_withheld": false,
+  "listing_page": "https://www.mamak.bel.tr/gundem/kararlar",
+  "register_api": "https://www.mamak.bel.tr/gundem/GetKararlar",
+  "official_documents": [
+    "https://www.mamak.bel.tr/gundem/DosyaDownload?guid=4d4fdc8f-8f34-4f8c-81df-67954fc6554e",
+    "https://www.mamak.bel.tr/gundem/DosyaDownload?guid=01a35acc-8264-4a9e-83ab-908a6db50ac0",
+    "https://www.mamak.bel.tr/gundem/DosyaDownload?guid=3d4b4b06-ed08-46b9-bed4-ca5807e48f2c",
+    "https://www.mamak.bel.tr/gundem/DosyaDownload?guid=22abf72c-1908-4f0f-a7bf-67f61645407c",
+    "https://www.mamak.bel.tr/gundem/DosyaDownload?guid=bc5aff0e-1805-4787-a1cb-7746af0ac3fe",
+    "https://www.mamak.bel.tr/gundem/DosyaDownload?guid=b8fe5bf7-6783-471b-900e-009d247b8515",
+    "https://www.mamak.bel.tr/gundem/DosyaDownload?guid=b8bf91f8-62f5-427a-8c84-8f2d06582e4b",
+    "https://www.mamak.bel.tr/gundem/DosyaDownload?guid=a859c3dd-1879-4607-b9df-72f361152aab",
+    "https://www.mamak.bel.tr/gundem/DosyaDownload?guid=609b70bd-7c0f-4bd4-be18-b4a80e670064",
+    "https://www.mamak.bel.tr/gundem/DosyaDownload?guid=2e022273-337f-45a6-a3cc-ad54caf5f05a",
+    "https://www.mamak.bel.tr/gundem/DosyaDownload?guid=be3b7d18-a570-4694-9f09-05e28e74bdd4",
+    "https://www.mamak.bel.tr/gundem/DosyaDownload?guid=3b6a3dfc-b8d0-445a-b6ee-e90011304e71"
+  ]
+}
