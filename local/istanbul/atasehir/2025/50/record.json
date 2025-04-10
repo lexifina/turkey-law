@@ -1,0 +1,22 @@
+{
+  "number": "50",
+  "number_as_published": "2025/050",
+  "year": 2025,
+  "title": "10.04.2025 tarihli ve 2025/050 sayılı karar",
+  "decision_date": "2025-04-10",
+  "source": "https://www.atasehir.bel.tr/kurumsal/liste/meclis-kararlari?page=11",
+  "official_document": "https://www.atasehir.bel.tr/upload/files/10042025-tarihli-ve-2025050-sayili-karar-0a2b7572-69f9-4e2a-aee5-e89106561b5e.pdf",
+  "source_sha256": "a170803fb0c583b102a7d89048c86ed661b8689247dfc2fa09554430a6d19df9",
+  "issuer": "Ataşehir Belediye Meclisi",
+  "history_type": "metadata",
+  "text_status": "metadata-only: listing fields as published; complete decision text is in the linked official document, not transcribed",
+  "in_force": "2025-04-10",
+  "in_force_basis": "Decision date as printed in the official council listing: 10.04.2025; adoption date of the council decision; legal commencement not asserted",
+  "missing": [
+    "complete official decision text",
+    "official annexes"
+  ],
+  "law_text_complete": false,
+  "privacy_withheld": false,
+  "decision_page": "https://www.atasehir.bel.tr/kurumsal/meclis-kararlari/10042025-tarihli-ve-2025050-sayili-karar"
+}
