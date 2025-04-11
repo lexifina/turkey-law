@@ -1,0 +1,5 @@
+Teknik tarama kriterleri
+MADDE 6- (1) Yeşil varlık oranının hesaplamasında uyumlu olarak dikkate alınacak varlıkların çevresel hedeflerden bir ya da daha fazlasına önemli ölçüde katkıda bulunma koşulunu yerine getirebilmesi için ilgili teknik tarama kriterlerini sağlaması şarttır.
+(2) Uyumlu varlıkların belirlenmesinde ve bunlara ilişkin tutarların hesaplanmasında Kurul tarafından belirlenecek teknik tarama kriterleri esas alınır. Kurul, çevresel hedeflere yönelik olarak yetkili kamu kurumları tarafından belirlenen teknik tarama kriterlerinin uygulanmasına karar vermeye yetkilidir.
+(3) Bankalar, teknik tarama kriterlerinin sağlandığını veya sağlanacağını bağımsız doğrulayıcı taraflarca düzenlenen emisyon raporu, fizibilite raporu, enerji verimliliği etüt raporu ve benzeri raporlarla, ulusal ya da uluslararası kabul görmüş sertifikalar, yeşil teknoloji seçim araçları veya yatırıma konu harcama belgeleri aracılığıyla tevsik etmek ve bunları denetime hazır bulundurmakla yükümlüdür.
+(4) Uyumlu olarak belirlenen vadeli varlıkların, vadeleri boyunca teknik tarama kriterlerini sağladığının teyit edilmesi ve izlenmesi esastır.

@@ -1,0 +1,6 @@
+Çevreye önemli zarar vermeme
+MADDE 7- (1) Yeşil varlık oranının hesaplamasında uyumlu olarak dikkate alınacak varlıkların çevreye önemli zarar vermeme koşulunu sağlaması zorunludur.
+(2) Ekonomik faaliyetlerin çevreye önemli zarar vermeme koşulunu karşılayıp karşılamadığı değerlendirilirken faaliyetin kendisinin ve faaliyet sonucunda ortaya çıkan ürün ve hizmetlerin yaşam döngüleri boyunca oluşacak çevresel etkileri ile ürünlerin kullanım ömrünün tamamlanmasından sonraki etkileri dikkate alınır.
+(3) Uyumlu varlıkların belirlenmesinde ve bunlara ilişkin tutarların hesaplanmasında Kurul tarafından belirlenecek çevreye önemli zarar vermeme kriterleri esas alınır. Kurul, çevresel hedeflere yönelik olarak yetkili kamu kurumları tarafından belirlenen çevreye önemli zarar vermeme kriterlerinin uygulanmasına karar vermeye yetkilidir.
+(4) Bankalar, bir varlığın çevreye önemli zarar vermeme kriterlerini karşıladığına yönelik değerlendirmelerine ilişkin gerekli belgelendirmeyi yapmak ve bunları denetime hazır bulundurmakla yükümlüdür.
+(5) Uyumlu olarak belirlenen vadeli varlıkların, vadeleri boyunca çevreye önemli zarar vermeme kriterlerini sağladığının teyit edilmesi ve izlenmesi esastır.

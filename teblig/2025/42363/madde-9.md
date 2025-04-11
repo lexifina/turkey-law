@@ -1,0 +1,2 @@
+Kullanım yeri tespit edilemeyen krediler
+MADDE 9- (1) Son mali yıl cirosunun en az yüzde doksanını uyumlu varlıklardan sağlamış ve son bir yılda yenilenemez enerji kaynaklarından herhangi bir gelir elde etmemiş işletmelere kullandırılan ve kullanım yeri tespit edilemeyen işletme sermayesi kredileri ve benzer nitelikteki diğer krediler yeşil varlık oranının hesaplamasında uyumlu varlık olarak dikkate alınır.

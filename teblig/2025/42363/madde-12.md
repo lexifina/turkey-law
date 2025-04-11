@@ -1,0 +1,3 @@
+İkincil anahtar performans göstergeleri
+MADDE 12- (1) Bankaların çevresel sürdürülebilirliğe katkısı için ikincil anahtar performans göstergeleri uyumlu varlıklar/uygun varlıklar ve uygun varlıklar/yeşil varlık oranı kapsamındaki toplam varlıklar oranlarıdır.
+(2) Kurul, ulusal taksonomiye uyuma paralel olarak; bankalar için nakit akım verileri, gelir-gider hesapları, bilanço dışı varlıklar ve alım satım hesaplarında izlenen varlıklar da dahil, farklı veriler üzerinden yeşil varlık oranı dışında yeni anahtar performans göstergeleri tanımlamaya ve bunlara dair raporlama yükümlülüğü oluşturmaya yetkilidir.
