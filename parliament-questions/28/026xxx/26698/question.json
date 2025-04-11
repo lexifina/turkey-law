@@ -1,0 +1,21 @@
+{
+  "record_type": "parliament-written-question",
+  "term": 28,
+  "legislative_year": 3,
+  "esas_no": "7/26698",
+  "submitted": "2025-04-11",
+  "submitted_as": "Başkanlığa geliş tarihi",
+  "mp": "Asu KAYA",
+  "province": "Osmaniye",
+  "summary": "Kadirli Orman İşletme Müdürlüğü hizmet binası projesinin akıbetine ilişkin",
+  "status": "Süresi Geçtikten Sonra Cevaplandı",
+  "status_as_of": "2026-11-16",
+  "official_record": "https://www.tbmm.gov.tr/Denetim/Yazili-Soru-Onergesi-Detay/996d6391-df19-4e27-9405-019633839cee",
+  "source": "https://tbmm.gov.tr/Denetim/YaziliSoruOnergesiTable",
+  "source_form": "https://tbmm.gov.tr/Denetim/Yazili-Soru-Onergeleri",
+  "source_sha256": "1a48028bc57675829b5a8d6b35add41c847f57ea98fea9a6073207d88dd411c2",
+  "in_force": "2025-04-11",
+  "in_force_basis": "Date the question reached the Speaker (Başkanlığa geliş tarihi) in the official TBMM written-question record; parliamentary oversight record, not law",
+  "history_type": "metadata",
+  "text_status": "metadata-only: question text, addressee and answers are in the linked official record (PDFs on cdn.tbmm.gov.tr); not transcribed here"
+}
