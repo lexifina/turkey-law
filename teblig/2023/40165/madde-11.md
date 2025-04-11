@@ -1,0 +1,2 @@
+Yaptırım
+MADDE 11- (1) Bu Tebliğ kapsamında yapılacak ithalat işlemlerine esas olan belgelerde tahrifat yapıldığının veya sahte belge kullanıldığının veya ithal lisansının üçüncü kişilere devredildiğinin veya ithal işlemlerinde bu Tebliğ ile belirtilen diğer hususlara aykırı davranıldığının denetim birimlerince tespiti halinde, yapılan tarife kontenjanı tahsisatı iptal edilir ve kendilerine iptal işleminden itibaren 5 yıl süreyle bu Tebliğ çerçevesinde tarife kontenjanı tahsis edilmez.
