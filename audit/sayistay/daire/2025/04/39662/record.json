@@ -1,0 +1,17 @@
+{
+  "kind": "decision",
+  "issuer": "Sayıştay 6. Dairesi",
+  "number": "973",
+  "decision_date": "2025-04-11",
+  "source_id": 39662,
+  "chamber": "6",
+  "ilam_number": "73",
+  "item_number": 58,
+  "public_body_type": "Belediyeler ve Bağlı İdareler",
+  "account_year": 2023,
+  "subject": "İhale Mevzuatı ile İlgili Kararlar",
+  "source": "https://www.sayistay.gov.tr/KararlarDaire/Detay/39662/",
+  "source_sha256": "f5651048889336a4361d84cf68378b92c4c9b03b03ed4fb3a32510c4857c9ede",
+  "text_status": "as-enacted",
+  "text_file": "metin.md"
+}
