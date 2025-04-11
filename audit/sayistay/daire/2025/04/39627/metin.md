@@ -1,0 +1,29 @@
+İhtiyaçtan Fazla Yemek Alınması
+
+Dosya kapsamındaki bilgi ve belgelerin incelenmesi ve duruşmaya katılanların açıklamalarının dinlenmesi sonucunda;
+
+.... Belediyesi Kültür ve Sosyal İşler Müdürlüğü tarafından 4734 sayılı Kamu İhale Kanunu’nun 22’nci maddesinin birinci fıkrasının (d) bendine göre .... ve ....’den temin edilen Sünnet Şöleni ve Konser Etkinliği için Yarım Ekmek Arası Köfte Alınması İş’leri ile ilgili olarak, söz konusu hizmet alımlarında sayı belirlenirken protokol sayısı sünnet şöleni için 500 kişi, konser etkinliği için ise 1.000 kişi esas alınarak ödeme yapılması sonucu kamu zararına neden olunduğu iddiası ile ilgili olarak;
+
+5393 sayılı Belediye Kanunu’nun;
+
+“Belediyenin yetkileri ve imtiyazları” başlıklı 15’inci maddesinin birinci fıkrasının (a) bendi, “Belde sakinlerinin mahallî müşterek nitelikteki ihtiyaçlarını karşılamak amacıyla her türlü faaliyet ve girişimde bulunmak.”,
+
+“Belediye başkanının görev ve yetkileri” başlıklı 38’inci maddesinin birinci fıkrasının (o) bendi, “Temsil ve ağırlama giderleri için ayrılan ödeneği kullanmak.”,
+
+“Belediyenin giderleri” başlıklı 60’ıncı maddesinin birinci fıkrasının (k) bendi, “Temsil, tören, ağırlama ve tanıtım giderleri.” (p) bendi; “Kanunla verilen görevler ve hizmetlerin yürütülmesi için yapılan diğer giderler.”,
+
+şeklinde hüküm altına alınarak temsil, tören, ağırlama ve tanıtım giderlerinin belediye giderleri arasında sayıldığı ayrıca, temsil ve ağırlama giderleri için ayrılan ödeneğin belediye başkanı tarafından kullanılacağı belirlenmiştir.
+
+Bu kapsamda belediyelerin temsil ve ağırlama giderleri kapsamında yemek, tören, hediye vb. giderlere ilişkin harcama yapma yetkileri bulunmaktadır.
+
+Diğer taraftan hangi durumlarda, kimler için temsil, ağırlama giderlerinin yapılabileceği İçişleri Bakanlığı’nın 25.04.1984 tarih ve M.İ.G.M 27302 sayılı onayı ile yürürlüğe giren Belediye Bütçesinden Yapılacak Temsil, Ağırlama ve Tören Giderleri Yönergesi kapsamında belirlenmiş ve bu giderlerin Belediye Başkanının takdiri ile yapılabileceği hüküm altına alınmıştır.
+
+Bahsi geçen Yönerge’nin 3’üncü maddesinde ise, temsil, ağırlama ve tören giderlerinin konu, kapsam ve miktarının tayininin belediye başkanının takdirine tabi olduğu belirtilmiş, 5’inci maddesinde, ağırlama giderlerinin beldenin misafiri olmak şartı ile neler olabileceği düzenlenmiş, bu maddenin son fıkrasında ise “…ile bu kişilerin eşleri ve refakatindeki görevliler için geleneklere ve davetin şumulüne göre, ağırlama, konuklama, konutlandırma ve bu işlerle ilgili olarak hazırlıkların gerektirdiği giderlerle ziyafet, kokteyl, hediye, çiçek, bahşiş ve taşıma giderleri şeklinde yapılır.” denilmiştir.
+
+.... Belediyesi Kültür ve Sosyal İşler Müdürlüğü tarafından 4734 sayılı Kamu İhale Kanunu’nun 22’nci maddesinin birinci fıkrasının (d) bendine göre .... ve ....’den temin edilen Sünnet Şöleni ve Konser Etkinliği için Yarım Ekmek Arası Köfte Alınması İş’leri ile ilgili olarak; …. tarihli ve …. numaralı ödeme emri ile ödemesi gerçekleştirilen “Yarım Ekmek Arası Köfte Alınması İşi” 06.10.2023 tarihinde düzenlenen …. ve ….’in yer aldığı konser akşamı verilen yarım ekmek arası köfte ikramı olup, …. tarihli ve …. no.lu ödeme emri ile ödemesi gerçekleştirilen “Yarım Ekmek Arası Köfte Alınması İşi” ise 07.10.2023 ve 08.10.2023 tarihlerinde düzenlenen .... Belediyesi …. Geleneksel Yağlı Pehlivan Güreşleri organizasyonunda verilen yarım ekmek arası köfte ikramıdır.
+
+Raporda hizmet alımlarının ilkinde protokol sayısı 500 olarak belirlenmiş iken ikincisinde sayı 1.000 olarak yer aldığı, Belediye kayıtlarında İlçe protokol sayısının belli olduğu, katılım oranına göre alım yapılması gerekirken doğrudan temin öncesi belirlenen sayıda katılım olduğu varsayılarak hakediş düzenlendiği belirtilmişse de, sorumluların savunmaları ve savunma ekinde sunulan belgelerden alım belgelerinde ikramda bulunulacak sayı detayları verilirken 500 kişi protokol, 1000 kişi protokol ibaresinin İlçe protokolünü kasteden bir ifade olmadığını, protokol dahil ikramdan yararlandırılması düşünülen kişi sayısı olduğunu, zira İlçe protokolünün 500 veya 1000 olmadığının izahten vareste olduğu, 07.10.2023 tarihinde düzenlenecek konser etkinliğinde 1000 kişi protokol, 20 kişi sanatçı ekibi olmak üzere 1.020 kişi için yarım ekmek arası köfte ekmek alımı yapıldığı ve 31.10.2023 tarihli muayene kabul tutanağına göre mal alımı ile ilgili olarak malzemelerin niteliklerine uygun olduğu ve kabule engel olabilecek eksik, kusur ve arızalarının bulunmadığının tespit edildiği, 06.10.2023 tarihinde düzenlenecek sünnet şöleninde 500 kişi protokol, 750 kişi sünnet olan çocuklar ve ebeveynleri, 16 kişi sanatçı ekibi olmak üzere 1.266 kişi için yarım ekmek arası köfte ekmek alımı yapıldığı ve 03.11.2023 tarihli muayene kabul tutanağına göre mal alımı ile ilgili olarak malzemelerin niteliklerine uygun olduğu ve kabule engel olabilecek eksik, kusur ve arızalarının bulunmadığının tespit edildiği, alım miktarının fazla olmasının yukarda açıklanan nedenlerle ile organizasyon öncesinde ne kadar bir katılım olacağının tam ve net olarak bilinememesinden kaynaklandığı anlaşılmıştır.
+
+Buna göre, yukarıda açıklanan gerekçelerle söz konusu hizmet alımları için yapılan ödemenin fiilen gerçekleşen sayıya göre yapılmadığı iddiasının ispatlanabilir nitelikte olmadığı ve “Belediye Bütçesinden Yapılacak Temsil, Ağırlama ve Tören Giderleri Yönergesi” kapsamında gerçekleştirildiği anlaşıldığından bahse konu alımların mevzuatına uygun olduğu kanaatine varılmıştır.
+
+Bu itibarla, mevzuatına uygun olduğu anlaşılan …. TL ödeme ile ilgili olarak ilişilecek husus bulunmadığına, 6085 sayılı Sayıştay Kanunu’nun 55’inci maddesi uyarınca İlamın tebliğ tarihinden itibaren altmış gün içerisinde Sayıştay Temyiz Kurulu nezdinde temyiz yolu açık olmak üzere oy birliğiyle karar verildi.
