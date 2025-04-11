@@ -1,0 +1,21 @@
+{
+  "record_type": "parliament-written-question",
+  "term": 28,
+  "legislative_year": 3,
+  "esas_no": "7/26723",
+  "submitted": "2025-04-11",
+  "submitted_as": "Başkanlığa geliş tarihi",
+  "mp": "Mesut DOĞAN",
+  "province": "Ankara",
+  "summary": "Otoyol ve otoban girişlerinde kullanılan bariyerli geçiş sistemi nedeniyle yaşanan kazalara ilişkin",
+  "status": "Süresi Geçtikten Sonra Cevaplandı",
+  "status_as_of": "2026-11-16",
+  "official_record": "https://www.tbmm.gov.tr/Denetim/Yazili-Soru-Onergesi-Detay/c545d3c2-7754-468c-9ea3-0196344effb3",
+  "source": "https://tbmm.gov.tr/Denetim/YaziliSoruOnergesiTable",
+  "source_form": "https://tbmm.gov.tr/Denetim/Yazili-Soru-Onergeleri",
+  "source_sha256": "c89dc89943ef6643d61372758bb1c0406945c2a40706fa407d4bc37f8c91a498",
+  "in_force": "2025-04-11",
+  "in_force_basis": "Date the question reached the Speaker (Başkanlığa geliş tarihi) in the official TBMM written-question record; parliamentary oversight record, not law",
+  "history_type": "metadata",
+  "text_status": "metadata-only: question text, addressee and answers are in the linked official record (PDFs on cdn.tbmm.gov.tr); not transcribed here"
+}
