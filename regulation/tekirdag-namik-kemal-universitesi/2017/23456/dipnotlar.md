@@ -1,0 +1,1 @@
+[1] 13/4/2025 tarihli ve 32869 sayılı Resmî Gazete’de yayımlanan değişik ile Yönetmeliğinin adı “Namık Kemal Üniversitesi Lisansüstü Eğitim-Öğretim ve Sınav Yönetmeliği” iken metne işlendiği şekilde değiştirilmiştir.
