@@ -1,0 +1,63 @@
+{
+  "source_id": "7.5.29013",
+  "kind": "regulation",
+  "register_kind": "Kurum ve Kuruluş Yönetmelikleri",
+  "title": "TÜRKİYE CUMHURİYETİ DEVLET DEMİRYOLLARI İŞLETMESİ GENEL MÜDÜRLÜĞÜNDE İSTİHDAM EDİLECEK SÖZLEŞMELİ MÜHENDİS, MİMAR, TEKNİKER, SÜRVEYAN, HAT BAKIM ONARIM MEMURU, TREN TEŞKİL MEMURU, HAREKET MEMURLARI HAKKINDA SINAV VE ATAMA YÖNETMELİĞİ",
+  "number": "29013",
+  "issuer": "Türkiye Cumhuriyeti Devlet Demiryolları İşletmesi Genel Müdürü",
+  "issuer_slug": "turkiye-cumhuriyeti-devlet-demiryollari-isletmesi-genel-muduru",
+  "path": "regulation/turkiye-cumhuriyeti-devlet-demiryollari-isletmesi-genel-muduru/2018/29013",
+  "source": "https://www.mevzuat.gov.tr/anasayfa/MevzuatFihristDetayIframe?MevzuatTur=7&MevzuatNo=29013&MevzuatTertip=5",
+  "source_sha256": "9ccd5ebdd59553c451d3d38ad031f4ad766f383c5291395d1f88945c97288849",
+  "source_bytes": 49098,
+  "published": "2018-11-29",
+  "gazette": "30610",
+  "in_force": "2025-04-15",
+  "in_force_basis": "latest Resmî Gazete date printed in the source amendment notes/table (\"RG-15/4/2025\") for the current consolidated text",
+  "date_evidence": [
+    [
+      "2025-04-15",
+      "RG-15/4/2025",
+      "Resmî Gazete date printed in the source amendment note"
+    ],
+    [
+      "2025-04-15",
+      "15/4/2025",
+      "Resmî Gazete date in the source amendment table"
+    ],
+    [
+      "2023-09-08",
+      "RG-8/9/2023",
+      "Resmî Gazete date printed in the source amendment note"
+    ],
+    [
+      "2023-09-08",
+      "8/9/2023",
+      "Resmî Gazete date in the source amendment table"
+    ],
+    [
+      "2021-04-30",
+      "RG-30/4/2021",
+      "Resmî Gazete date printed in the source amendment note"
+    ],
+    [
+      "2021-04-30",
+      "30/4/2021",
+      "Resmî Gazete date in the source amendment table"
+    ]
+  ],
+  "commencement_clauses": [
+    "Bu Yönetmelik yayımı tarihinde yürürlüğe girer"
+  ],
+  "history": "current-text",
+  "label": "oldest version available",
+  "checked_on": "2026-11-15",
+  "word_count": 2298,
+  "text_status": "current-consolidated",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  },
+  "completeness": "html-text-complete"
+}

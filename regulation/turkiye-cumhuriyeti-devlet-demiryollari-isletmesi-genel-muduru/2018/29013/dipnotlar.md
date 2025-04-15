@@ -1,0 +1,2 @@
+[1] 8/9/2023 tarihli ve 32303 sayılı Resmî Gazete’de yayımlanan değişiklikle Yönetmeliğin adı “Türkiye Cumhuriyeti Devlet Demiryolları İşletmesi Genel Müdürlüğünde İstihdam Edilecek Sözleşmeli Trafik Kontrolörü, Mühendis, Mimar, Tekniker, Sürveyan, Hareket Memurları Hakkında Sınav ve Atama Yönetmeliği” iken metne işlendiği şekilde değiştirilmiştir.
+[2] 15/4/2025 tarihli ve 32871 sayılı Resmî Gazete’de yayımlanan değişiklik ile bu maddeye birinci fıkradan sonra gelmek üzere fıkralar eklenmiş ve sonraki fıkra buna göre teselsül ettirilmiştir.
