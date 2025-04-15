@@ -1,0 +1,2 @@
+[1] 15/4/2025 tarihli ve 32871 sayılı Resmî Gazete’de yayımlanan değişiklik ile Yönetmeliğinin adı “Türkiye Şeker Fabrikaları Anonim Şirketi Genel Müdürlüğü Mal ve Hizmet Satış Yönetmeliği” iken metne işlendiği şekilde değiştirilmiştir.
+[2] 15/4/2025 tarihli ve 32871 sayılı Resmî Gazete’de yayımlanan değişiklik ile Yönetmeliğin bu bölüm başlığı “Kira Konuları” iken metne işlendiği şekilde değiştirilmiştir.

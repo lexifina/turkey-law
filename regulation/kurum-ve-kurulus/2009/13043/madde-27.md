@@ -1,0 +1,2 @@
+Yabancı ülkelerde yapılacak ilânlar
+MADDE 27 – (1) İdarece yabancı ülkelerdeki firmaların da girmesinde yarar görülen ihaleler ile yurt dışında ilân yolu ile yapılacak ihalelerde yeterli rekabeti sağlamak için yabancı ülkelerde de ilân verilebilir. İlk ilânın ihale tarihinden en az 20 gün önce yapılmasına dikkat edilir. İlanlar yabancı dilde yapılabilir. Yabancı ülkelerdeki ilânlar Genel Müdürlükçe verilir.

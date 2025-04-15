@@ -1,0 +1,5 @@
+Kesin teminat
+MADDE 31 – (1) Taahhüdün şartname ve sözleşme hükümlerine uygun olarak yerine getirilmesini sağlamak amacı ile sözleşmenin imzalanmasından önce, ihale üzerinde kalan isteklilerden ihale bedeli üzerinden hesaplanmak suretiyle %6 oranında kesin teminat alınır.
+(2) Bu Yönetmeliğin 36 ncı maddesinin birinci fıkrasında belirtilen süre içerisinde mal veya hizmetle ilgili ihale bedelinin tamamının ödenmesi ve mal ve hizmet teslimatının tamamlanarak taahhüdün ifası halinde kesin teminat aranmayabilir.
+(3) Bu Yönetmeliğin 30 uncu maddesinde geçici teminatın aranmayabileceği belirtilen durumlarda kesin teminatın da aranmamasına ihale yetkilisi karar verebilir.
+(4) İstekli ihale kararının kendisine tebliğinden itibaren tanınan süre içerisinde geçici teminatını kesin teminata çevirmek zorundadır. Aksi takdirde geçici teminatı irat kaydedilir. İhale üzerinde kalan isteklinin iş ortağı olması halinde toplam kesin teminat miktarı ortaklık oranına bakılmaksızın ortaklarından biri veya birkaçı tarafından karşılanabilir.
