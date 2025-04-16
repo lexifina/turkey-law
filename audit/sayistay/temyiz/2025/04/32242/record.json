@@ -1,0 +1,16 @@
+{
+  "kind": "decision",
+  "issuer": "Sayıştay Temyiz Kurulu",
+  "number": "57878",
+  "decision_date": "2025-04-16",
+  "source_id": 32242,
+  "chamber": "5",
+  "file_number": "53947",
+  "public_body_type": "Belediyeler ve Bağlı İdareler",
+  "account_year": "2019",
+  "subject": "İhale Mevzuatı ile İlgili Kararlar",
+  "source": "https://www.sayistay.gov.tr/KararlarTemyiz/Detay/32242/",
+  "source_sha256": "e4945aa5f4f264beee1c3ac3b52188a23f22c7dc542f477b964398653dea218d",
+  "text_status": "metadata-only",
+  "metadata_only_reason": "possible personal name in the official text"
+}
