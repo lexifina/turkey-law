@@ -1,0 +1,27 @@
+{
+  "source_id": "7.5.42365",
+  "kind": "regulation",
+  "register_kind": "Kurum ve Kuruluş Yönetmelikleri",
+  "title": "TÜRKİYE OKÇULUK FEDERASYONU ANA STATÜSÜ",
+  "number": "42365",
+  "issuer_slug": "kurum-ve-kurulus",
+  "path": "regulation/kurum-ve-kurulus/2025/42365",
+  "source": "https://www.mevzuat.gov.tr/anasayfa/MevzuatFihristDetayIframe?MevzuatTur=7&MevzuatNo=42365&MevzuatTertip=5",
+  "source_sha256": "4fe413b3dd56311124da29be049a52dbc0eb83743df81bc90f34639cd9767f3d",
+  "source_bytes": 151520,
+  "published": "2025-04-17",
+  "gazette": "32873",
+  "in_force": "2025-04-17",
+  "in_force_basis": "Resmî Gazete publication date in the official listing (17.04.2025)",
+  "history": "current-text",
+  "label": "oldest version available",
+  "checked_on": "2026-11-15",
+  "word_count": 10751,
+  "text_status": "current-consolidated",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  },
+  "completeness": "html-text-complete"
+}
