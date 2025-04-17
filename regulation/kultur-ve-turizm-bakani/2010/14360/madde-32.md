@@ -1,0 +1,4 @@
+Müze eserlerinden yararlanma
+MADDE 32 – (1) Müzede araştırma yapmak isteyen kişi, kurum ya da kuruluşlar, 25/9/1986 tarihli ve 86/11038 sayılı Bakanlar Kurulu Kararı ile yürürlüğe konulan Kamu Kurum ve Kuruluşlarına Ait Eserlerden Faydalanma Usul ve Esasları Hakkında Tüzük hükümlerine göre Genel Müdürlükten izin almak kaydıyla çalışma yapabilirler.
+(2) Yabancı araştırmacılar, müzelerdeki çalışmalarında 4/4/1988 tarihli ve 88/12839 sayılı Bakanlar Kurulu Kararı ile yürürlüğe konulan Türkiye’de İlmi Araştırma, İnceleme Yapmak ve Film Çekmek İsteyen Yabancılar Adına Müracaat Edenler ile Yabancı Basın-Yayın Mensuplarının Tabi Olacakları Esaslara uymak zorundadır.
+(3) Eserlerden yararlanma karşılığında alınacak ücretler, 19/6/1979 tarihli ve 2252 sayılı Kültür Bakanlığı Döner Sermaye Kanunu ve ilgili mevzuat göz önüne alınarak Genel Müdürlüğün teklifi, DÖSİMM Yönetim Kurulu kararı ve Bakan onayı ile tespit edilir.

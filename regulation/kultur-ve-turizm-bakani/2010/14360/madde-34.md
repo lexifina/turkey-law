@@ -1,0 +1,13 @@
+SEKİZİNCİ BÖLÜM
+Müzenin Güvenliği
+Müzenin güvenliği
+MADDE 34 – (1) Müze hizmet binasının içi ve çevresi 24 saat nöbet esasına göre aralıksız korunur.
+(2) Müze müdürlüğü; 16/10/1988 tarihli ve 88/13543 sayılı Bakanlar Kurulu Kararı ile yürürlüğe konulan Sabotajlara Karşı Koruma Yönetmeliği, 27/11/2007 tarihli ve 2007/12937 sayılı Bakanlar Kurulu Kararıyla yürürlüğe konulan Binaların Yangından Korunması Hakkında Yönetmelik ve ilgili mevzuata göre gerekli güvenlik önlemlerini alır.
+(3) Müze depo giriş-çıkış defteri ve nöbet devir-teslim defteri doğru ve düzenli tutulur. Müze teşhir salonları ile vitrin ve depo anahtarları, müdürün, müdür yoksa yerine vekâlet eden müze personelinin sorumluluğu altındaki mühürlü bir dolapta veya kasada bulundurulur. Müze teşhir salonları, depoları ve vitrinleri ile bunlara ait tüm anahtarlarının muhafaza yöntemleri gelişen teknolojik şartlara göre belirlenir.
+(4) Kapanışından sonra müzede, sadece nöbetçi personel bulunur. Bunların dışında Müdürün yazılı izni olmadan hiç kimse müzeye giremez. Adaylığı kaldırılmamış olanlar ile yardımcı hizmetler sınıfına mensup personele, zimmetle müze eseri ve müze koleksiyonu teslim edilemez. Zorunlu hallerde Genel Müdürlüğün izni ve görüşüne göre işlem yapılır.
+(5) Ziyaretçilerin, müzeye her türlü yanıcı, patlayıcı, kesici ve delici madde ile girişi engellenir.
+(6) Ziyaretçiler müzeye girişten itibaren görevlilerce rahatsız edilmeden izlenecek, şüpheli görülenler amirlere bildirilecektir. Paket, çanta ve benzeri kontrolüne müze bekçisi, özel güvenlik görevlisi ve nöbetçi memur yetkilidir. Sahibinin gözetiminde çanta ve paketlerin girişte kontrolü yapıldıktan sonra ziyaret bitimine kadar uygun bir yerde muhafaza edilir.
+(7) Müzelerde yapılacak inşaat, onarım, restorasyon çalışmaları sırasında müze müdürlüğü tarafından denetimler yapılır, çalışmayı üstlenen firma yetkilileri ile çalışanların kimlik bilgileri, çalışma saatleri, işin başlama ve bitim saatleri gibi bilgiler müzede saklanır. Mesai saatleri dışındaki zorunlu çalışmalar için Genel Müdürlükten onay alınır ve buna istinaden müze müdürlüğü her türlü güvenlik önlemlerini alır.
+(8) Güvenlikle ilgili genel mevzuat, genelge ve benzeri bilgiler her ayın ilk pazartesi günü güvenlik personeli ile yapılacak toplantılarla duyurularak, görüşülen konular ve alınan kararlar toplantıya katılanlarca imzalanıp bir nüshası Genel Müdürlüğe gönderilir.
+(9) Güvenliği sağlayan personele görev ve sorumlulukları maddeler halinde yazılı görev talimatı olarak tebliğ edilir. Güvenlik konusunda gizliliğe azami dikkat gösterilerek, Genel Müdürlükten izin alınmadan basın ve yayın kuruluşlarına bilgi aktarılamaz.
+(10) Hafta sonu ve tatil günleri müze müdürlüğünce nöbetçi memur görevlendirilir.

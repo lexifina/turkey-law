@@ -1,0 +1,3 @@
+Müze müdür yardımcıları
+MADDE 10 – (1) Müze müdür yardımcıları, Kültür ve Turizm Bakanlığı Personeli Görevde Yükselme ve Unvan Değişikliği Yönetmeliğinde resim ve heykel müzesi müdür yardımcısı olma şartını taşıyanlar arasından atanabilir ya da 2547 sayılı Yükseköğretim Kanununun 38 inci maddesine göre yükseköğretim kurumlarında görevli müzecilik veya sanat tarihi alanında ihtisas sahibi ulusal ve uluslararası çalışmaları bulunan öğretim elemanları arasından görevlendirilebilir.
+(2) Müzenin işletmecilik faaliyetlerini yürütmek, ilgili kanun ve yönetmeliklerde verilen görevler ile müze müdürü tarafından verilen diğer görevleri mevzuata ve talimatlara uygun olarak yapmak, bağlı personelinin eşgüdüm ve denetimini sağlamakla görevlidir.

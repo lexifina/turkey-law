@@ -1,0 +1,3 @@
+Eserlerin bakımı ve korunması
+MADDE 20 – (1) Müze bünyesinde kurulabilecek atölye ve laboratuvarlarda veya müze dışındaki ilgili atölye ve laboratuvarlarda, Müze Kurulunun raporla bildirdiği öneri ve önceliklere göre belirlenecek müze koleksiyonundaki eserlerin onarımı, konservasyonu ve restorasyonu müdürlük tarafından yürütülen çalışmalarla sağlanır.
+(2) Müze koleksiyonunda bulunan eserlerin bakım ve korunması için özelliklerine göre uygun altyapı, gelişen teknolojik şartlar ve Müze Kurulunun önerisi dikkate alınarak oluşturulur. Sıcaklık ve bağıl nem standartlarına uygun iklimlendirme ortamı hazırlanır.
