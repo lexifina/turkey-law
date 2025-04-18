@@ -1,0 +1,5 @@
+Pamuğun depolanması ve blok ürün senedi
+MADDE 8 – (1) Çırçırlanarak elyafları tohumdan ayrılan, bitki artıkları ile diğer yabancı maddelerden temizlenen ve balyalar halinde preselenen pamuklar depolanır. Nem içeriği, %8,5’in üzerinde ve brüt ağırlığı 190 kg’ın altında olan preselenmiş pamuklar depolanmaz.
+(2) Depolama şartları uygun olmayan, sağlığı olumsuz etkileyecek düzeyde bulunan, standart dışı olan ve mevzuatta öngörülen diğer hususlara uygun olmayan pamuklar, lisanslı depolara alınmaz.
+(3) Mevzuatına uygun olarak tartım işlemi ile analiz ve sınıflandırması yapılmış pamuklar lisanslı depoya kabul edilir. Pamuklar, tartım ve analizi yapılana kadar, depolanmış pamuklardan ayrı olarak bunlar için ayrılmış farklı bölümlere konulabilir.
+(4) Depolanan her bir balya için ayrı bir ürün senedi düzenlenir. Mudinin talebi ve lisanslı depo işletmesinin kabulü halinde, birden çok balyayı içeren parti halindeki pamuklar için blok halinde tek ürün senedi düzenlenebilir. Bu durumda, blok ürün senedi üzerine parti pamuğun kaç balyadan oluştuğu ve toplam ağırlığı yazılır.
