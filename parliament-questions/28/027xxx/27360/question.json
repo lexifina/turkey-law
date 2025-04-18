@@ -1,0 +1,21 @@
+{
+  "record_type": "parliament-written-question",
+  "term": 28,
+  "legislative_year": 3,
+  "esas_no": "7/27360",
+  "submitted": "2025-04-18",
+  "submitted_as": "Başkanlığa geliş tarihi",
+  "mp": "Semra DİNÇER",
+  "province": "Ankara",
+  "summary": "Ufuk Üniversitesinde yaşandığı iddia edilen bazı olaylara ilişkin",
+  "status": "Süresi Geçtikten Sonra Cevaplandı",
+  "status_as_of": "2026-11-16",
+  "official_record": "https://www.tbmm.gov.tr/Denetim/Yazili-Soru-Onergesi-Detay/2fbe29bd-a0c1-4472-822a-019657ab23c4",
+  "source": "https://tbmm.gov.tr/Denetim/YaziliSoruOnergesiTable",
+  "source_form": "https://tbmm.gov.tr/Denetim/Yazili-Soru-Onergeleri",
+  "source_sha256": "14154e359181213fbcb9126888ede2b0fcbe73bc2edbd4bd4c4b4b0aa0dfc402",
+  "in_force": "2025-04-18",
+  "in_force_basis": "Date the question reached the Speaker (Başkanlığa geliş tarihi) in the official TBMM written-question record; parliamentary oversight record, not law",
+  "history_type": "metadata",
+  "text_status": "metadata-only: question text, addressee and answers are in the linked official record (PDFs on cdn.tbmm.gov.tr); not transcribed here"
+}
