@@ -1,0 +1,22 @@
+{
+  "kind": "norm",
+  "issuer": "Gelir İdaresi Başkanlığı",
+  "document_type": "ozelge",
+  "number": "E-21152195-130[17-2023.5807]-214270",
+  "source_id": 38984,
+  "date": "2025-04-18",
+  "title": "Engellilerin Kullandığı Ürostomi Adaptörü, Ürostomi Torbası, Sızdırmazlık Pastası, Geceleme Torbası ve Temizleme Spreyinin KDV'den İstisna Olup Olamayacağı",
+  "source": "https://gib.gov.tr/mevzuat/kanun/436/ozelge/38984",
+  "related_law": "3065 sayılı KATMA DEĞER VERGİSİ KANUNU",
+  "source_api": "https://gib.gov.tr/api/gibportal/mevzuat/ozelge/list",
+  "source_listing": "evidence/list/2026-11-16/ozelge-p009.json",
+  "source_listing_sha256": "9cb52b4963a9a177a23948f6e28c12936c2f43c88a0b410872bb81c01983667c",
+  "source_sha256": "24a736a06631e9a1417a7c2d5f1a37956822303731cd02afda6c69b615937b71",
+  "text_status": "as-enacted",
+  "text_file": "metin.md",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  }
+}
