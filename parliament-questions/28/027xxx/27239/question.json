@@ -1,0 +1,21 @@
+{
+  "record_type": "parliament-written-question",
+  "term": 28,
+  "legislative_year": 3,
+  "esas_no": "7/27239",
+  "submitted": "2025-04-18",
+  "submitted_as": "Başkanlığa geliş tarihi",
+  "mp": "Saliha Sera KADIGİL",
+  "province": "İstanbul",
+  "summary": "İstanbul'da tutuklanan bir kişinin sağlık durumuna ilişkin",
+  "status": "Cevaplanmadığı Gelen Kağıtlarda İlan Edildi",
+  "status_as_of": "2026-11-16",
+  "official_record": "https://www.tbmm.gov.tr/Denetim/Yazili-Soru-Onergesi-Detay/705e8439-c634-489a-83e1-01965861a8ec",
+  "source": "https://tbmm.gov.tr/Denetim/YaziliSoruOnergesiTable",
+  "source_form": "https://tbmm.gov.tr/Denetim/Yazili-Soru-Onergeleri",
+  "source_sha256": "3f1758589f535b71e4bced0c46388ca5d28548c0d79ee7648767ae2ce20202bb",
+  "in_force": "2025-04-18",
+  "in_force_basis": "Date the question reached the Speaker (Başkanlığa geliş tarihi) in the official TBMM written-question record; parliamentary oversight record, not law",
+  "history_type": "metadata",
+  "text_status": "metadata-only: question text, addressee and answers are in the linked official record (PDFs on cdn.tbmm.gov.tr); not transcribed here"
+}
