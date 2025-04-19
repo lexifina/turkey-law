@@ -1,0 +1,10 @@
+Sağlık Kuruluşu Açmaya ve İşletmeye Yetkili Kişiler
+Sağlık kuruluşunun temel özellikleri
+MADDE 5- (1) Sağlık kuruluşu, bu Yönetmelikte asgari olarak öngörülen bina, hizmet ve personel standartlarını haiz olmak kaydıyla bünyesindeki mevcut uzmanlık dallarıyla hastalara ayakta teşhis ve tedavi hizmeti sunar. Sağlık kuruluşunda asgari olarak bulunması gereken tabip sayıları şunlardır:
+a) Tıp merkezi, en az iki farklı uzmanlık dalında olmak üzere en az beş uzman tabip kadrosuyla açılır ve faaliyette bulunur.
+b) Poliklinik, en az iki, en çok dört tabip kadrosu ile faaliyette bulunur.
+c) Müessesede, yalnızca fizik tedavi ve rehabilitasyon uzmanlık dalında asgari bir uzman tabip çalışır.
+(2) Tıp merkezi personeline, hastalara ve hasta yakınlarına hizmet vermek ve işletilmek üzere kafeterya, kantin gibi kısımlar kurulabilir veya bunların işletilmesi için hizmet satın alınabilir veya bu hizmetler başkalarına gördürülebilir. Bu kısımlar, tıbbi hizmet birimlerinin bulunduğu yerler ile hasta tedavi ve istirahatini engelleyecek yerlerde kurulamaz.
+(3) Sağlık kuruluşu (Danıştay Onuncu Dairesinin 17/12/2025 tarihli ve E.:2025/4140 sayılı kararı ile yürütmesi durdurulan ibare:binası) içinde hiçbir surette başka amaca yönelik işyeri bulunamaz ve içerisindeki bir bölüm, ikinci fıkrada yer alan işletmeler dışındaki bir amaçla faaliyet göstermek üzere üçüncü kişilere kiralanamaz veya herhangi bir şekilde devredilemez.
+(4) Tıp merkezi, poliklinik ve müessese binalarının ilgili mevzuatı kapsamında deprem ve itfaiye raporunun bulunması zorunludur.
+(5) (Danıştay Onuncu Dairesinin 17/12/2025 tarihli ve E.:2025/2965 sayılı kararı ile yürütmesi durdurulan fıkra: Tıp merkezi ruhsatlandırıldığı tarihten itibaren en geç üç yıl içinde TÜSKA’dan akreditasyon belgesi almak zorundadır. Akreditasyon belgesi alamayan tıp merkezine, hastaların görebileceği şekilde “Bu tıp merkezinin TÜSKA akreditasyon belgesi yoktur” ibareli Ek-16’da belirlenen standartlara uygun bilgilendirme tabelasının asılması zorunludur. Bakanlık tarafından TÜSKA akreditasyon belgesi olmayan tıp merkezi, her yıl ocak ayında Sosyal Güvenlik Kurumuna bildirilir.)

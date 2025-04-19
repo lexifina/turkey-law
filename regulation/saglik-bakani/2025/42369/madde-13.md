@@ -1,0 +1,3 @@
+Muayenehane standardı ve açılması
+MADDE 13- (1) Muayenehane açacak tabipler, Ek-1/C’de yer alan belgelerle birlikte Müdürlüğe başvurur. Müdürlük, açılmak istenen muayenehanenin Ek-15/B’de yer alan şartları taşıyıp taşımadığını yerinde inceler. Uygun görülen ve şartları sağlayan muayenehane için tabipler adına Müdürlük tarafından örneği Ek-2/Ç’de yer alan uygunluk belgesi düzenlenir.
+(2) Her tabip için Ek-15/B’de yer alan şartlarda, ayrı muayene odası bulunması ve uzmanlık dalının gerektirdiği şartların sağlanması kaydıyla, aynı dairede en fazla üç tabip muayenehane faaliyeti gösterebilir. Bu durumda her bir tabip için ayrı uygunluk belgesi düzenlenir.

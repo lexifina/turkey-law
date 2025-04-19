@@ -1,0 +1,13 @@
+Tıp merkezinde cerrahi müdahale ve gözlem hizmetleri
+MADDE 19- (1) Cerrahi uzmanlık dalında hizmet veren tıp merkezinde gerçekleştirilecek cerrahi müdahale vakasının ve bu vakaya uygulanacak yöntemin seçiminde;
+a) Cerrahi müdahale sonrası hastaya yapılacak olan gerekli tıbbi bakım süresinin yirmi dört saatte tamamlanabilir olması ve bu sağlık kuruluşunun yirmi dört saat çalışma esasına göre hizmet sunması,
+b) Cerrahi müdahale yapılacak vakanın ve bu vakaya uygulanacak yöntemin, bu cerrahi müdahale sonrasında çıkması muhtemel sağlık sorunlarının herhangi bir yataklı tedavi kuruluşunda aynı sorunun çözümü için gereken ve cerrahi müdahalenin devamı niteliğinde olan ikinci bir müdahaleyi gerektirmeyecek tür ve nitelikte olması,
+zorunludur.
+(2) Tıp merkezinde cerrahi müdahale uygulanan hastaların gözlem altında bulundurulma süresi yirmi dört saattir. Hastanın sağlık durumuna göre bu süre gözlem maksadıyla en fazla altı saat daha uzatılabilir. Gözlem altında bulundurulan hastalar ile ilgili takip bulguları ve yapılan her türlü müdahaleler ve tıbbi bakım, hasta dosyasına ilgili tabip tarafından kaydedilir.
+(3) Tıp merkezinde gözlem altında tutulan hastalar için, nöbetçi tabip bulunması gerekir. Gözlem altında hastası bulunan uzman tabipler, icapçı olarak nöbet tutar. Ayrıca, taburcu edilen hastalara, cerrahi müdahale sonrasında ortaya çıkması muhtemel sorunları bakımından, ilgili tabibine kolaylıkla ulaşabilecekleri irtibat numarası verilir.
+(4) Tıp merkezinde müdahale yapılan hastalarda müdahaleye bağlı olarak gelişen komplikasyonlar veya yoğun bakım hizmetine ihtiyaç olan durumlar ile bu Yönetmelikte izin verilen takip süresinden fazla yatış ihtiyacı doğan hastalar için tıp merkezi tarafından, önceden sözleşme ile belirlenmiş, koordineli olarak çalışılan ve bu hizmetlerin alındığı özel veya kamu hastaneleriyle gereken koordinasyon sağlanarak hasta transfer edilir.
+(5) Cerrahi müdahale biriminin faaliyet gösterebilmesi için, cerrahi müdahale uygulama izin belgesi alınması zorunludur. Sadece, bu izin belgesinde belirtilen uzmanlık dallarında cerrahi müdahale yapılabilir.
+(6) Ameliyathanenin yönetimi, alet ve malzemenin sağlanması, bakım, onarım ihtiyaçlarının saptanarak yaptırılmak üzere ilgililere bildirilmesi ve burada çalışan personelin yönetimi ve eğitimlerinin yapılması amacıyla sorumlu cerrahi dallarından bir uzman ameliyathane sorumlusu olarak görevlendirilir.
+(7) Cerrahi müdahale birimi; yalnızca en az 3000 m2 kapalı alan ve 10 uzman tabip kadrosunu haiz tıp merkez bünyesine eklenebilir.
+(8) Tıp merkezinde, ASA Skoru elektronik sistem üzerinden Bakanlığa bildirilmeyen ameliyatlar yapılamaz.
+(9) Tıp merkezinde, ASA Skoru üç ve üzerinde olan hastaların ameliyatı gerçekleştirilemez.

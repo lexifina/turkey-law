@@ -1,0 +1,3 @@
+Poliklinik
+MADDE 20- (1) Poliklinik, resmî çalışma günlerinde sekiz saatten az olmamak üzere daha uzun süreli de hizmet verebilir ancak 24 saat hizmet veremez ve acil ünitesi kuramaz. Hizmet verilmek istenen çalışma saatleri, ruhsat başvuruları sırasında Müdürlüğe bildirilir ve ruhsata bu saatler yazılır. Poliklinikte çalışma saatleri içinde, mesul müdür ve tabiplerden en az biri bulunur.
+(2) Sekiz saatten daha uzun süreli hizmet veren poliklinikte, nöbetler için mesul müdür tarafından düzenlenen Ek-3/C’de yer alan çalışma belgesi ile üstünde fotoğraflı "nöbetçi tabip" yazılı kimlik kartı bulunmak kaydıyla, kadrosunda çalışan bir tabip nöbet tutar. Ayrıca nöbetçi tabip listesi haftalık olarak hazırlanır ve mesul müdür tarafından onaylanarak dosyalanır.

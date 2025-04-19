@@ -1,0 +1,7 @@
+Sağlık kuruluşunun devri
+MADDE 11- (1) Sağlık kuruluşunun bu Yönetmelik kapsamındaki kişilere devri halinde, Ek-1/B’de yer alan belgeler ile birlikte Müdürlüğe başvurulur. Başvuru üzerine, 10 uncu maddeye göre işlem yapılarak yeni sahiplik adına ruhsat düzenlenir.
+(2) Sağlık kuruluşunun devri halinde, son dört ay içinde yapılmış denetimde eksiklik veya uygunsuzluğunun bulunmadığı ve hizmet alanlarında değişikliğin olmadığı durumlarda, teknik inceleme ekibi tarafından yerinde incelemenin tekrarlanmasına gerek olmadan Ek-1/B’deki belgeler değerlendirilerek devralan adına ruhsat düzenlenir.
+(3) Sağlık kuruluşunu devralan kişi, kesin devir tarihinden itibaren on beş iş günü içinde ruhsat almak amacıyla Müdürlüğe başvurmak zorundadır. Devralan kişi adına Bakanlık tarafından ruhsat düzenleninceye kadar sağlık kuruluşu yalnızca eski sahipliğin ve mesul müdürün sorumluluğunda faaliyetine devam edebilir.
+(4) Sağlık kuruluşunun denetimi sırasında tespit edilen eksiklik veya uygunsuzluklardan dolayı devralan, devredenin sorumluluklarını da almış sayılır. Denetim sırasında tespit edilen eksiklik veya uygunsuzluklardan dolayı devredene verilen süre, devralanın talebi halinde yeniden verilir. Sağlık kuruluşunun faaliyetinin durdurulması halinde devralan, faaliyet durdurma süresinin tamamlanmasını beklemek zorundadır.
+(5) Ruhsatı askıda olan sağlık kuruluşunun ruhsatı askı süresince sadece bir kez devredilebilir.
+(6) Bu madde hükmünce devralınan sağlık kuruluşu iki yıl içinde yeniden devredilemez.

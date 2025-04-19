@@ -1,0 +1,11 @@
+Konaklama tesislerinde sunulacak sağlık hizmetleri
+MADDE 37- (1) Beş yüz yataktan fazla yatağa sahip Kültür ve Turizm Bakanlığından belgeli konaklama tesislerinde, acil sağlık ünitesi kurulması zorunludur. Acil sağlık ünitesi açılması zorunlu olmayan konaklama tesislerinde işletenin talebi halinde acil sağlık ünitesi kurulabilir. Konaklama tesisinde kurulacak acil sağlık ünitesinin özellikleri şunlardır:
+a) Acil sağlık ünitesi, konaklama tesislerinde konaklayan kişilerin ani gelişen sağlık problemlerinde ve acil durumlarda müdahale, muayene ve sevk işlemlerinin düzenlenmesi amacıyla kurulan ünitedir. Bu ünite, konaklama tesisinde acil hasta transferine uygun, kolay erişilebilir bir bölümde kurulur. Bu ünitede; Ek-14’te belirtilen asgari ilaç ve malzemeler bulunur.
+b) Acil sağlık ünitesi, aynı il içinde faaliyet gösteren Bakanlıkça ruhsatlı planlama kapsamındaki bir özel sağlık tesisi ile iş birliği yapılarak, iş birliği yapılan özel sağlık tesisinin mevcut tabip kadro ve kapasiteleri kullanılarak açılır.
+c) Konaklama tesisleri bünyesindeki acil sağlık ünitesinde tam zamanlı çalışan asgari bir tabip ile bir sağlık personeli bulunur. Acil sağlık ünitesinde sadece acil durumlarda müdahale, muayene ve sevk işlemleri yapılır, bunun haricinde acil olmayan poliklinik hizmeti verilemez. Bu ünitelerde çalışacak personelin isimleri ve çalışma programları ilgili sağlık müdürlüğüne bildirilir. Müdürlük tarafından, bildirilen personeller için çalışma belgesi düzenlenir. Çalışma belgeleri acil sağlık ünitesinde görülecek bir yere asılır.
+ç) Acil sağlık ünitesinin tüm sorumluluğu bağlı olduğu sağlık tesisine aittir.
+(2) Acil sağlık ünitesinin çalışma saatleri, konaklama tesisinin çalışma programı ve saatleriyle uyumlu olarak düzenlenir. Acil durumlarda hasta nakline uygun düzenlemeler bulunması zorunludur.
+(3) Acil sağlık ünitesi konaklama tesislerinin dışına taşınamaz ve diğer sağlık kuruluşlarıyla birleşemez.
+(4) Konaklama tesislerinde sunulacak sağlık hizmetlerine yönelik diğer hususlarda ilgili mevzuat hükümleri uygulanır.
+(5) Acil sağlık ünitesine, Müdürlük tarafından Ek-14/C’de yer alan ünite ruhsatı düzenlenir ve veriler kayıt altına alınır.
+(6) Acil sağlık ünitesinde, muayenehanede bulunması gereken fiziki şartlar aranır.

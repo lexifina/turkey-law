@@ -1,0 +1,3 @@
+Ruhsatın iptali
+MADDE 32- (1) Denetimlerde tespit edilen eksikliklerin verilen süre içinde giderilmemesi sebebiyle bir kısmında veya tamamında faaliyeti geçici olarak durdurulan sağlık kuruluşunda, faaliyet durdurma tarihinden itibaren altı ay içinde eksiklikler giderilmezse ruhsat Bakanlıkça askıya alınır ve altı ay ek süre verilir. Bu sürenin sonunda eksikliği gidererek faaliyete geçemeyen sağlık kuruluşunun ruhsatı Bakanlık tarafından iptal edilir.
+(2) Faaliyeti geçici olarak kısmen durdurulduğu halde ilgili alanda hasta kabulüne devam eden sağlık kuruluşunun faaliyeti iki kat süreyle tamamen durdurulur. Faaliyeti herhangi bir tespit sonrası tamamen durdurulmasına rağmen hasta kabulü yapan sağlık kuruluşunun ruhsatı, Bakanlık tarafından iptal edilir.
