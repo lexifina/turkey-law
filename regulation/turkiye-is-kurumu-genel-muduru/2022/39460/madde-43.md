@@ -1,0 +1,2 @@
+Sözleşme imzalanması
+MADDE 43- (1) İşbaşı eğitim programlarından yararlanacak olan işyeri ile katılımcı arasında işbaşı eğitim programı sözleşmesi imzalanır. Ancak işbaşı eğitim programı sözleşmesinin Kurum yönünden hüküm ifade etmesi il müdürlüğünün onayına bağlıdır. Sözleşmenin içeriği, şartları ve şekli Kurum tarafından belirlenir. Taraflar sözleşmede yer alan yükümlülüklerini süresi içinde yerine getirmek zorundadırlar.

@@ -1,0 +1,7 @@
+Kurs süresi
+MADDE 25- (1) Toplam kurs süresi; kursun düzenleneceği meslek konusunda eğitim programını onaylayan üniversitenin veya MEB’in belirlediği süre kadardır.
+(2) Toplam kurs süresi yüz altmış fiili günü aşamaz.
+(3) Kursların, günlük en az beş en fazla sekiz saat ve haftada altı günü geçmemek üzere en az otuz en fazla kırk beş saat olması gerekir. Yarım günlük tatiller dâhil olmak üzere milli ve dini bayramlar ile resmi tatil olan günlerde eğitim yapılamaz ve bu süreler toplam eğitim gününe dâhil edilemez.
+(4) Kursların mesai saatleri içerisinde yapılması esastır. Ancak il müdürlüğü tarafından uygun görüldüğü takdirde, denetim imkanları da göz önünde bulundurularak il istihdam ve mesleki eğitim kurulunun onayı alınmak ve üçüncü fıkrada belirtilen sürelere aykırı olmamak kaydıyla, mesai saatleri ve günleri dışında da kurs düzenlenebilir. Kursların günlük bitiş saati, il müdürlüğü tarafından yüklenici ile imzalanacak sözleşme veya protokol ile belirlenir.
+(5) Kamu kurum ve kuruluşlarıyla protokol düzenlenmesi halinde üçüncü fıkrada yer alan günlük ve haftalık eğitim sürelerine ilişkin düzenlemeler dikkate alınmayabilir.
+(6) Günlük azami eğitimde kalabilme süreleri, günlük asgari kurs süresinin altında olan özel politika gerektiren gruplara yönelik düzenlenen kurslarda, kursiyerlerin alabilecekleri günlük azami eğitim sürelerinin belgelendirilmesi şartıyla bu süreler kadar eğitim verilir.

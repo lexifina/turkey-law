@@ -1,0 +1,5 @@
+Kurs veya programların planlanması ve uygulanması
+MADDE 7- (1) Bu Yönetmelikte belirtilen kurs ve programların uygulanması yıllık işgücü eğitim planında yer alması şartına bağlıdır.
+(2) İl müdürlükleri tarafından en geç ilgili yılın ocak ayında yıllık işgücü eğitim planı hazırlanır. İl istihdam ve mesleki eğitim kurulunun onayını müteakip on beş gün içerisinde ilan edilerek Kurumun internet sayfasında yayımlanır. Planda yıl içerisinde yapılacak değişiklikler Kurulun onayı ile uygulanır.
+(3) Planda, işverenlerden alınan talepler ve/veya işgücü piyasası araştırmaları sonucunda belirlenen meslekler ile eğitim alacak kişi sayısı yer alır. Eğitim verilecek kişi sayısı, ilgili meslekte işyerlerinden alınan talepler ve işgücü piyasası araştırmaları sonucunda tespit edilen işgücü ihtiyacından, daha önce Kurum aracılığıyla ilgili meslekte eğitim almış Kuruma kayıtlı işsizler çıkarılarak belirlenir.
+(4) Bu Yönetmelik kapsamında düzenlenen kurs ve programlar iş birliği veya hizmet alımı yöntemiyle gerçekleştirilir.

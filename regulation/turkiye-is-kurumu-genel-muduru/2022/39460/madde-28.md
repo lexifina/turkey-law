@@ -1,0 +1,6 @@
+Kursiyerlerin seçimi
+MADDE 28- (1) Kursiyerlerin seçim aşamasında iş ve meslek danışmanları aracılığı ile kursiyer adaylarına iş ve meslek danışmanlığı hizmetleri verilir.
+(2) İş ve meslek danışmanlığı hizmetinden faydalanan Kuruma kayıtlı işsizler arasından asıl ve asıl kursiyer sayısının en az yüzde yirmi beşi kadar yedek kursiyer, yüklenici ve Kurum personeli tarafından birlikte belirlenir.
+(3) Yüklenici, kursiyer seçmelerinden önce mülakatlar sırasında seçmede esas alacağı hususları il müdürlüğüne önceden bildirir.
+(4) Asıl kursiyerler ile yedek kursiyerlerin isimleri liste halinde il müdürlüğü tarafından uygun görülen yöntemle kurs başlama tarihinden önce ilan edilir. Geçerli mazereti olmaksızın kursa başlamayanların ve kursun başlangıcından itibaren geçen onda birlik fiili sürenin içerisinde olmak kaydıyla ayrılanların yerine yedek listeden yeni kursiyer alınır. Asıl kursiyer sayısının belirlenen yedek kursiyerler ile tamamlanamaması durumunda, eksik kontenjan Kuruma kayıtlı kişiler arasından tamamlanır.
+(5) Yüklenicinin mülakata katılacakların tamamını mülakat gününden önce sisteme kayıt etmesi ve kursa seçilmeyenlerin seçilmeme nedenlerini il müdürlüğüne bildirmesi gerekir.

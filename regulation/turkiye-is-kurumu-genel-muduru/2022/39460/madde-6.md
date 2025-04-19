@@ -1,0 +1,3 @@
+Ödeneklerin belirlenmesi
+MADDE 6- (1) Bu Yönetmelik kapsamındaki hizmetlerin sunulması için il müdürlüklerine tahsis edilecek ödenek miktarı, her yıl Genel Müdürlük tarafından belirlenir.
+(2) Genel Müdürlük, ortaya çıkan ihtiyaçlar doğrultusunda il müdürlüklerine tahsis edilen ödeneklerde değişiklik yapabilir, ödeneklerin bir kısmını veya tamamını merkezde tutabilir, yürütülen ve planlanan faaliyet ya da projeleri dikkate alarak ödenek tahsisi yapabilir. Genel Müdürlük tarafından il müdürlüklerine tahsis edilen ödeneklerde değişiklik yapılırken il müdürlüklerinin yıllık işgücü eğitim planı ile yapılması planlanan faaliyet ve projeleri dikkate alınır.

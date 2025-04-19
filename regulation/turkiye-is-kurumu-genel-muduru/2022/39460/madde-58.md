@@ -1,0 +1,3 @@
+Özel politikaların ve uygulamaların geliştirilmesi
+MADDE 58- (1) (Değişik:RG-20/1/2024-32435) Genel Müdürlük tarafından bu Yönetmeliğin amacına uygun olarak yüzde altmış istihdam taahhüdü azaltılmaksızın ve altmış günden az olmamak üzere en az kurs/program süresi kadar istihdam yükümlülüğüyle özel politika ve uygulamalar geliştirilerek kurs, program, uygulama, proje ve protokol uygulanabilir.
+(2) Genel Müdürlük tarafından belirlenecek usul ve esaslar kapsamında Kuruma kayıtlı kişilerin iş kurmalarını veya mevcut işlerini geliştirmelerini sağlamak üzere girişimcilik eğitim programları düzenlenebilir.

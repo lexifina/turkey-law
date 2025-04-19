@@ -1,0 +1,4 @@
+İmalat sektöründe faaliyet gösteren işyerleri ile düzenlenecek mesleki eğitim kursları ve işbaşı eğitim programlarında uygulanacak istihdam taahhüdü
+GEÇİCİ MADDE 4- (Ek:RG-19/4/2025-32875)
+(1) İmalat sektöründe faaliyet gösteren özel sektör işyerleri ile 31/12/2026 tarihine kadar başlatılacak olan mesleki eğitim kursları ve işbaşı eğitim programlarında, kursiyerlerin/katılımcıların en az yüzde ellisinin; mesleki eğitim kursları için yüz yirmi günden, işbaşı eğitim programları için altmış günden az olmamak üzere en az kurs/program süresinin bir buçuk katı kadar istihdam edileceğinin taahhüt edilmesi zorunludur.
+(2) İmalat sektöründe faaliyet gösteren özel sektör işyerleri ile 31/12/2026 tarihine kadar 58 inci maddenin birinci fıkrası kapsamında düzenlenecek olan özel politika ve uygulamalarda, en az yüzde elli istihdam taahhüdü ve altmış günden az olmamak üzere en az özel politika ve uygulamanın süresi kadar istihdam yükümlülüğü uygulanır.

@@ -1,0 +1,4 @@
+6785 sayılı Cumhurbaşkanı Kararı ile olağanüstü hâl ilan edilen illerde düzenlenen kurs/programlar
+GEÇİCİ MADDE 6- (Ek:RG-19/4/2025-32875)
+(1) 6785 sayılı Cumhurbaşkanı Kararı ile belirlenen illerden Adıyaman, Hatay, Kahramanmaraş, Malatya ve Gaziantep (sadece İslahiye ve Nurdağı ilçelerinde) illerinde 31/12/2025 tarihine kadar başlatılacak olan kurs/programlarda kursiyerlerin/katılımcıların en az yüzde otuzunun altmış günden az olmamak üzere en az kurs/program süresi kadar istihdam edileceğinin taahhüt edilmesi zorunludur.
+(2) Birinci fıkrada anılan Karar ile belirlenen illerden Adana, Diyarbakır, Gaziantep (İslahiye ve Nurdağı ilçeleri hariç), Kilis, Osmaniye, Şanlıurfa illerinde 31/12/2025 tarihine kadar başlatılacak olan kurs/programlarda kursiyerlerin/katılımcıların en az yüzde kırkının altmış günden az olmamak üzere fiili kurs/program gününün en az bir buçuk katı kadar süreyle istihdam edileceğinin taahhüt edilmesi zorunludur.

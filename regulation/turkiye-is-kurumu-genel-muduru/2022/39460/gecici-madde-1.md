@@ -1,0 +1,3 @@
+Yürürlükten kaldırılan yönetmelik kapsamındaki iş ve işlemler
+GEÇİCİ MADDE 1- (1) Bu Yönetmeliğin 63 üncü maddesiyle yürürlükten kaldırılan Aktif İşgücü Hizmetleri Yönetmeliği ve aynı Yönetmeliğe dayanılarak hazırlanan ilgili mevzuat kapsamında imzalanan sözleşme, protokol, program ve projeler ile başlatılan iş ve işlemler sonuçlanana kadar yürürlükten kaldırılan yönetmelik ve buna dayanılarak hazırlanan mevzuat uygulanmaya devam olunur.
+(2) Bu Yönetmeliğin 63 üncü maddesiyle yürürlükten kaldırılan Aktif İşgücü Hizmetleri Yönetmeliği ve aynı Yönetmeliğe dayanılarak hazırlanan ilgili mevzuat kapsamında haklarında yasaklılık işlemi uygulananlar, yasaklılıkları tamamlanıncaya kadar bu Yönetmelik kapsamındaki kurs veya programlardan yararlanamazlar.

@@ -1,0 +1,4 @@
+Olağanüstü hal ilan edilen illerde düzenlenen kurs/programlar
+GEÇİCİ MADDE 3- (Ek:RG-20/1/2024-32435)
+(1) 6785 sayılı Cumhurbaşkanı Kararı ile belirlenen illerden Adıyaman, Hatay, Kahramanmaraş, Malatya ve Gaziantep (sadece İslahiye ve Nurdağı ilçelerinde) illerinde 31/12/2024 tarihine kadar uygulanacak kurs/programlarda katılımcıların en az yüzde otuzunun altmış günden az olmamak üzere en az kurs/program süresi kadar istihdam edileceğinin taahhüt edilmesi zorunludur.
+(2) Birinci fıkrada anılan Karar ile belirlenen illerden Adana, Diyarbakır, Gaziantep (İslahiye ve Nurdağı ilçeleri hariç), Kilis, Osmaniye, Şanlıurfa illerinde 31/12/2024 tarihine kadar uygulanacak kurs/programlarda katılımcıların en az yüzde kırkının altmış günden az olmamak üzere fiili kurs/program gününün en az bir buçuk katı kadar süreyle istihdam edileceğinin taahhüt edilmesi zorunludur.

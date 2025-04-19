@@ -1,0 +1,5 @@
+Geçici teminat
+MADDE 17- (1) İsteklilerin, teklif aşamasında, hizmet alımına konu mesleğe ilişkin olarak her bir teklif için, teklifte verdikleri kursiyer başı ders saat maliyeti ile eğitilmesi öngörülen kursiyer sayısı ve eğitimin tamamlanması için öngörülen toplam ders saatinin çarpımı sonucu bulunacak tutarın en az yüzde üçü oranında geçici teminat mektubu vermeleri gerekir. Geçici teminatın süresi en az yüz yirmi gün olmak üzere teklif geçerlilik süresinden otuz gün fazla olması gerekir.
+(2) Kamu kurum ve kuruluşlarından geçici teminat mektubu istenmez.
+(3) Aynı ilde hizmet alımı yöntemiyle devam eden kursu bulunan ve farklı tarihlerdeki hizmet alımlarına teklif verecek yüklenici için geçici teminat oranı, istekli tarafından verilen bir önceki geçici teminat oranının yüzde yirmi fazlası olarak uygulanır. Geçici teminat oranı hiçbir durumda yüzde onu geçemez.
+(4) Yapılan değerlendirmeler sonrasında teklifleri geçerli puan alamayan veya 34 üncü maddenin on birinci fıkrasında sayılı durumlar haricindeki isteklilerin teminatı iade edilir.

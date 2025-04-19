@@ -1,0 +1,2 @@
+İş sağlığı ve güvenliği
+MADDE 52- (1) Kurs ve programların uygulanması sırasında iş sağlığı ve güvenliği açısından gerekli önlemleri almak, buna ilişkin tüm araç ve gereçleri bulundurmak ve iş kazası ve meslek hastalıklarında resmi kurumlara yapılması gerekli bildirimleri süresi içinde yapmak yüklenicilerin sorumluluğundadır. Yükleniciler iş kazası meydana gelmesi halinde resmî kurumlara yapılması gereken bildirimleri süresi içinde yapmakla ve durumu il müdürlüğüne bildirmekle yükümlüdür.

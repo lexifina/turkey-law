@@ -1,0 +1,3 @@
+Tekliflerin açılması
+MADDE 18- (1) İstekliler tarafından sunulan ve teklif teslim tutanakları düzenlenerek teslim alınan teklifler, alınış sırasına göre son teklif verme süresinin dolduğu andan itibaren hazır bulunanların huzurunda meslek bazında açılmaya başlanır.
+(2) Açılan tekliflerin içeriğinde yer alması gereken teknik ve mali teklif formu üzerinden; isteklinin adı soyadı varsa unvanı, personel sayısı, tecrübesi, eğitilmesi planlanan kişi sayısı, eğitim yeri kapasitesi, eğitim süresi, istihdam taahhüt oranı, kursiyer başı ders saat maliyetine ilişkin teklif formlarında yer alan bilgiler hazır bulunanların huzurunda sesli olarak okunur ve tutanak tutulur.

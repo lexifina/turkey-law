@@ -1,0 +1,5 @@
+Sözleşmenin sona ermesi ve feshi
+MADDE 44- (1) Sözleşme, sözleşmede belirtilen sürenin bitimi veya sözleşmenin feshi ile sona erer.
+(2) Taraflar, 4857 sayılı Kanunun 24 üncü ve 25 inci maddelerinin birinci fıkralarının (II) numaralı bentlerinde yer alan hükümleri (25 inci maddenin birinci fıkrasının (II) numaralı bendinin (g) alt bendi hariç olmak üzere) kıyasen uygulamak suretiyle sözleşmeyi fesih yetkisine sahiptir. Sözleşmenin feshedilebilmesi için; durumun fesih kararı alan tarafça aynı gün içinde yazılı olarak ve gerekçeleriyle birlikte sözleşmenin diğer tarafına ve en geç üç iş günü içinde il müdürlüğüne bildirmesi gerekmektedir. Fesih kararı, il müdürlüğü tarafından uygun görülmesi halinde, fesih kararının alındığı tarih itibarıyla geçerlilik kazanır.
+(3) İl müdürlüğü, sözleşmede belirtilen hususlara uyulmaması, gerçeğe aykırı beyanda bulunulmasının tespiti nedenleriyle sözleşmeyi feshedebilir ve bu durumda fesih kararını aynı gün içinde yazılı olarak taraflara bildirir.
+(4) İl müdürlüğünün de uygun görmesi şartıyla, programın dörtte birlik süresi içerisinde taraflar karşılıklı anlaşarak sözleşmeyi fesih yetkisine sahiptir.

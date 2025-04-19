@@ -1,0 +1,3 @@
+Hizmet alımının duyurulması
+MADDE 14- (1) Hizmet alımı yapılacak meslekler; eğitim verilecek kişi ve sınıf sayısı, eğitim süresi ve eğitim alınacak mesleğe ilişkin bilgileri içeren ilan metni kullanılarak, il müdürlüğü tarafından hizmet alımından ilana çıkılan gün hariç en az beş iş günü önce Kurumun internet sayfasında, il müdürlüğü ve/veya hizmet merkezi ilan panosunda yayımlanır. Ayrıca uygun görülmesi halinde diğer araç ve yöntemlerle de duyurulur.
+(2) Hizmet alımına ilişkin ilanda ve eklerinde yer alacak belgelerde; bu Yönetmeliğe ve ilgili mevzuata aykırı olmamak şartı ile teklif verilmesi, tekliflerin değerlendirilmesi, sözleşmenin uygulanması ve sonuçlandırılması ile ilgili tarafların hak ve yükümlülükleri açıkça belirlenir ve/veya ilgili mevzuata atıf yapılır.
