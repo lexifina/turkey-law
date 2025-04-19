@@ -1,0 +1,12 @@
+Aile birliği mazeretine bağlı atama
+MADDE 15- (Başlığı ile Birlikte Değişik:RG-19/4/2025-32875)
+(1) Aile birliği mazeretine bağlı atama yapılabilmesi için; personelin eşinin, atanmak istediği yerde 31/5/2006 tarihli ve 5510 sayılı Sosyal Sigortalar ve Genel Sağlık Sigortası Kanununun 4 üncü maddesi kapsamında çalışması ve bu durumu belgelendirmesi gerekir.
+(2) Aile birliği mazeretine dayanarak yer değişikliği memurun;
+a) Kamu personeli olan eşinin, kurum içi yer değiştirme suretiyle atanma imkânının olmaması veya mevzuatı uyarınca eşin zorunlu yer değiştirmeye tabi tutulan bir görevde bulunması durumunda bu kapsamdaki eşin bulunduğu yere,
+b) Eşlerin her ikisinin de Kurumda çalışıyor olması halinde, yönetici kadrosunda bulunan eşin bulunduğu yere, diğer durumlarda Kurumun daha fazla hizmet ihtiyacı duyduğu yere,
+c) Eşi farklı kurumda çalışan Kurum personelinin talebi kurumlar arasında koordinasyon sağlanmak suretiyle her iki kurumun da öncelikli hizmet ihtiyacının bulunduğu yere,
+ç) Kamu personeli olmayan eşinin, talep edilen yerde başvuru tarihi itibarıyla son iki yıl içinde 360 gün sosyal güvenlik primi ödemek suretiyle kendi adına veya bir hizmet akdi ile işverene bağlı olarak çalışmış ve halen çalışıyor olması halinde bu durumda olan eşin bulunduğu yere,
+atanması suretiyle yapılabilir.
+(3) Aile birliği mazeretine dayanarak yer değiştirme isteğinde bulunan memur, eşinin kamu kurum ve kuruluşlarında kamu personeli olarak çalıştığına veya atanmayı talep ettiği yerde eşinin başvuru tarihi itibarıyla son iki yıl içinde 360 gün sosyal güvenlik primi ödemek suretiyle kendi adına veya bir hizmet akdi ile işverene bağlı olarak halen çalıştığına ilişkin evrakı birimine ibraz etmekle yükümlüdür. Ayrıca yer değiştirme başvurusuna, evlilik durumunu kanıtlayan belgenin de eklenmesi gerekir.
+(4) Eşi, 5510 sayılı Kanunun 4 üncü maddesinin birinci fıkrasının (b) bendinin (4) numaralı alt bendi ile isteğe bağlı sigortalı olan personelin eş durumu nedeniyle atama istekleri bu kapsamda değerlendirilmez.
+(5) Personelden eşleri ülke genelinde faaliyet gösteren ancak merkezi bir ilde yerleşik olan şirketlerde çalışanların, iş merkezinin dışında bir iş yerinde çalışıyor olması halinde atanmak istediği yerde iş yerinin faaliyette olduğuna dair belgeyi anonim şirketlerde çalışanların işyerinden, diğer şirketlerde çalışanların da vergi dairesinden, belediyeden veya ilgili meslek kuruluşlarından alacağı belge ile belgelendirmeleri gerekir.

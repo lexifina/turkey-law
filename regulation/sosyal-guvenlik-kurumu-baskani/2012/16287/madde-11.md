@@ -1,0 +1,4 @@
+Başvuru ve yer değiştirme suretiyle atama dönemleri
+MADDE 11 – (1) (Değişik:RG-20/6/2013-28683) Hizmet bölgesinde zorunlu çalışma süresini tamamlamış olanlar atanma talebinde bulunabilirler. Zorunlu yer değiştirmeye tabi personelin talepte bulunmaması ya da puanının yetmemesi nedeniyle tercihlerine yerleşememesi halleri bu Yönetmelik hükümlerinin uygulanmasına engel teşkil etmez. Bunların atamaları Başkanlıkça resen yapılır.
+(2) (Değişik:RG-20/6/2013-28683) Başvurular; (Değişik ibare:RG-28/2/2015-29281) 15-30 Nisan tarihleri arasında elektronik ortamda yapılır. Birimlerin tetkikinden sonra elektronik sistemde onaylanır ve duyuruda belirtilen süre içerisinde (Değişik ibare:RG-19/4/2025-32875) Personel Daire Başkanlığına gönderilir.
+(3) Yer değiştirme suretiyle yapılacak atamalar her yılın (Değişik ibare:RG-20/6/2013-28683) Haziran ayı sonuna kadar sonuçlandırılır.

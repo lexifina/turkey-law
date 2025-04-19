@@ -1,0 +1,3 @@
+Yer Değiştirme Kurulu
+MADDE 10 – (1) Yer Değiştirme Kurulu; Yer değiştirme suretiyle yapılacak atama işlemlerini incelemek ve değerlendirmek üzere, Kurum Başkanının ya da görevlendireceği Başkan Yardımcısının başkanlığında (Değişik ibare:RG-19/4/2025-32875) Personel Daire Başkanı ile Kurum Başkanı tarafından belirlenecek diğer üç üyeden oluşur.
+(2) Kurul, Kurul Başkanının çağrısı üzerine toplanır. Kararlar oy çokluğu ile alınır. Çekimser oy kullanılamaz. Oyların eşitliği halinde Kurul Başkanının kullandığı oy yönünde çoğunluk sağlanmış sayılır. Kurul toplantıları ve alınan gerekçeli kararlar bir tutanak ile tespit edilir.

@@ -1,0 +1,3 @@
+Sağlık durumu nedeniyle atama
+MADDE 14 – (Değişik:RG-28/2/2015-29281)
+(1) Sağlık durumu nedeniyle atama yapılabilmesi için; memurun kendisi, eşi, annesi, babası, çocukları ve kardeşlerinden birinin, ağır bir kaza geçirmesi veya tedavisi uzun süren bir hastalığının bulunduğunun veya bakıma muhtaç olduğunun (Mülga ibare:RG-19/4/2025-32875) son üç ay içerisinde 22/8/2011 tarihli ve 2011/2226 sayılı Bakanlar Kurulu Kararı ile yürürlüğe konulan Devlet Memurlarına Verilecek Hastalık Raporları ile Hastalık ve Refakat İznine İlişkin Usul ve Esaslar Hakkında Yönetmeliğin ilgili hükümlerine göre alınacak sağlık kurulu raporuyla belgelendirilmesi gerekir. Ancak, süreklilik arz eden hastalıklardaki sağlık kurulu raporlarında son üç aylık süre aranmaz.

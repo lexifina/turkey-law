@@ -1,0 +1,6 @@
+Terör, olağanüstü ve özel hallerde atama
+MADDE 18 – (1) Terör eylemleri etkisi ve sebebiyle şehit olan veya çalışamayacak derecede malul olan ya da malul olup da çalışabilir durumda olan kamu personeli ile er ve erbaşların Kurumda görev yapan eş ve çocukları ile anne, baba ve kardeşlerinin atanma talepleri, bu durumlarının ilgili makamlarca belgelendirilmiş olması kaydıyla kadro imkanları da dikkate alınmak suretiyle öncelikle yerine getirilir.
+(2) Genel hayatı etkileyen savaş, sıkıyönetim, olağanüstü hal ilanı, salgın hastalık ve doğal afetler gibi hallerde, ihtiyacı karşılamak amacıyla bu Yönetmeliğin kısıtlayıcı hükümlerine bakılmaksızın atama yapılabilir.
+(3) (Mülga:RG-19/4/2025-32875)
+(4) Görev yaptığı ilde kendisinin, eşinin veya bakmakla yükümlü olduğu çocuklarından birinin can güvenliğinin tehlikeye düştüğünü adli veya mülki idare makamlarınca verilen belge ile belgelendirenlerin nakil talebi değerlendirilebilir.
+(5) (Ek:RG-28/2/2015-29281) 8/3/2012 tarihli ve 6284 sayılı Ailenin Korunması ve Kadına Karşı Şiddetin Önlenmesine Dair Kanunun 4 üncü maddesinin birinci fıkrasının (a) bendi uyarınca hakkında adli makamlarca işyerinin değiştirilmesine ilişkin koruyucu tedbir kararı alınan memurun nakil talebi değerlendirilir.
