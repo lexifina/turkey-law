@@ -1,0 +1,22 @@
+{
+  "kind": "norm",
+  "issuer": "Gelir İdaresi Başkanlığı",
+  "document_type": "ozelge",
+  "number": "49327596-120[GVK.ÖZ.2024.135]-107775",
+  "source_id": 38656,
+  "date": "2025-04-21",
+  "title": "Okçuluk eğitimi faaliyeti dolayısıyla mükellefiyet kaydı",
+  "source": "https://gib.gov.tr/mevzuat/kanun/433/ozelge/38656",
+  "related_law": "193 sayılı GELİR VERGİSİ KANUNU",
+  "source_api": "https://gib.gov.tr/api/gibportal/mevzuat/ozelge/list",
+  "source_listing": "evidence/list/2026-11-16/ozelge-p008.json",
+  "source_listing_sha256": "292c126217cc32c3ccfa57495ce433f89ef8db5e75fa1946d5819a76f81aff4d",
+  "source_sha256": "4fe4c540432143799b9c17ab8d6021e7aab1ea111bce0e77d51d8339eb44f441",
+  "text_status": "as-enacted",
+  "text_file": "metin.md",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  }
+}
