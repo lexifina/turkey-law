@@ -1,0 +1,22 @@
+{
+  "kind": "norm",
+  "issuer": "Gelir İdaresi Başkanlığı",
+  "document_type": "ozelge",
+  "number": "E-67854564-105[1741-9497]-219334",
+  "source_id": 38531,
+  "date": "2025-04-21",
+  "title": "Gelecek Aylara/Gelecek Yıllara Ait Giderler de Enflasyon Düzeltmesi",
+  "source": "https://gib.gov.tr/mevzuat/kanun/434/ozelge/38531",
+  "related_law": "213 sayılı VERGİ USUL KANUNU",
+  "source_api": "https://gib.gov.tr/api/gibportal/mevzuat/ozelge/list",
+  "source_listing": "evidence/list/2026-11-16/ozelge-p008.json",
+  "source_listing_sha256": "292c126217cc32c3ccfa57495ce433f89ef8db5e75fa1946d5819a76f81aff4d",
+  "source_sha256": "b8a565f18ebbb860e6a3e755802afa429a48ffbb12a9e198bb88836ff4f43a80",
+  "text_status": "as-enacted",
+  "text_file": "metin.md",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  }
+}
