@@ -1,0 +1,22 @@
+{
+  "kind": "norm",
+  "issuer": "Gelir İdaresi Başkanlığı",
+  "document_type": "ozelge",
+  "number": "35672403-010.01[120-01-2024]-43818",
+  "source_id": 38655,
+  "date": "2025-04-21",
+  "title": "2547 Sayılı Yükseköğretim Kanunu kapsamında kısmi zamanlı çalıştırılan ve işçi sayılmayan öğrenci ücretlerine ilişkin asgari ücret istisnası uygulaması hk.",
+  "source": "https://gib.gov.tr/mevzuat/kanun/433/ozelge/38655",
+  "related_law": "193 sayılı GELİR VERGİSİ KANUNU",
+  "source_api": "https://gib.gov.tr/api/gibportal/mevzuat/ozelge/list",
+  "source_listing": "evidence/list/2026-11-16/ozelge-p008.json",
+  "source_listing_sha256": "292c126217cc32c3ccfa57495ce433f89ef8db5e75fa1946d5819a76f81aff4d",
+  "source_sha256": "588a19a7de543dd01bd46e00039527c8f6a267efd07a1ae101fcac0049362931",
+  "text_status": "as-enacted",
+  "text_file": "metin.md",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  }
+}
