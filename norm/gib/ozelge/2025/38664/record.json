@@ -1,0 +1,22 @@
+{
+  "kind": "norm",
+  "issuer": "Gelir İdaresi Başkanlığı",
+  "document_type": "ozelge",
+  "number": "62030549-125- 508873",
+  "source_id": 38664,
+  "date": "2025-04-21",
+  "title": "Sigortacılık ve Emeklilik Faaliyetleri ile İştigal Eden Vakıf İktisadi İşletmesinin Kurumlar Vergisi Oranı",
+  "source": "https://gib.gov.tr/mevzuat/kanun/435/ozelge/38664",
+  "related_law": "5520 sayılı KURUMLAR VERGİSİ KANUNU",
+  "source_api": "https://gib.gov.tr/api/gibportal/mevzuat/ozelge/list",
+  "source_listing": "evidence/list/2026-11-16/ozelge-p008.json",
+  "source_listing_sha256": "292c126217cc32c3ccfa57495ce433f89ef8db5e75fa1946d5819a76f81aff4d",
+  "source_sha256": "69f65639c19697704755d3c9a3cf5443ab17f710d8ceff15a41c8f2fd0a212be",
+  "text_status": "as-enacted",
+  "text_file": "metin.md",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  }
+}
