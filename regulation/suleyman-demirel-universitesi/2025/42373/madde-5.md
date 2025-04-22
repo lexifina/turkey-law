@@ -1,0 +1,4 @@
+İKİNCİ BÖLÜM
+Merkezin Amacı ve Faaliyet Alanları
+Merkezin amacı
+MADDE 5- (1) Merkezin amacı; ulusal-uluslararası ilişkileri göz önünde bulundurarak Türk toplumu ve Türk Dünyasının geleceğini şekillendirecek genç liderlerin yetiştirilmesine ve bilimsel araştırma ve yayın faaliyetlerine destek olmak, mevcut insan kaynağının planlamasını yapmak, kamu kurum ve özel sektör kuruluşlarının liderlik kapasitelerinin ve yönetim süreçlerinin geliştirilmesi amacıyla çalışmalarda bulunmak ve Türkiye’nin yönetsel ve sosyoekonomik açılardan gelişimine katkı sağlamak; yaratıcı, üretken, liderlik vasıflarına sahip birey, kurum ve toplumlara ulaşmaya katkı sağlamak, Üniversite bünyesinde girişimcilik ile ilgili hem birey hem de kurumlara yönelik eğitim, araştırma ve sosyal sorumluluk programları aracılığı ile girişimcilik farkındalığı, kültürü ve becerilerinin oluşumunu ve gelişimini desteklemektir.
