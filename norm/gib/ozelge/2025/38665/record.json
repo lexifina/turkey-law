@@ -1,0 +1,22 @@
+{
+  "kind": "norm",
+  "issuer": "Gelir İdaresi Başkanlığı",
+  "document_type": "ozelge",
+  "number": "17192610-125[KV-23-339]-119198",
+  "source_id": 38665,
+  "date": "2025-04-22",
+  "title": "Belediyeye ait otel işletmesinin kiralanmasına ilişkin yapılan sözleşmede iki günde bir odanın belediye misafirlerine ücretsiz tahsis edilmesinin vergisel açıdan değerlendirilmesi.",
+  "source": "https://gib.gov.tr/mevzuat/kanun/435/ozelge/38665",
+  "related_law": "5520 sayılı KURUMLAR VERGİSİ KANUNU",
+  "source_api": "https://gib.gov.tr/api/gibportal/mevzuat/ozelge/list",
+  "source_listing": "evidence/list/2026-11-16/ozelge-p008.json",
+  "source_listing_sha256": "292c126217cc32c3ccfa57495ce433f89ef8db5e75fa1946d5819a76f81aff4d",
+  "source_sha256": "1a45f75b6b6f64ec789c5ff6ddabaf3bb3bb577e542d9e27d46255b7cdc74779",
+  "text_status": "as-enacted",
+  "text_file": "metin.md",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  }
+}
