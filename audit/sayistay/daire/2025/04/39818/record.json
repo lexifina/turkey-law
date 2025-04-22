@@ -1,0 +1,17 @@
+{
+  "kind": "decision",
+  "issuer": "Sayıştay 3. Dairesi",
+  "number": "530",
+  "decision_date": "2025-04-22",
+  "source_id": 39818,
+  "chamber": "3",
+  "ilam_number": "87",
+  "item_number": 3,
+  "public_body_type": "Özel İdareler",
+  "account_year": 2023,
+  "subject": "İhale Mevzuatı ile İlgili Kararlar",
+  "source": "https://www.sayistay.gov.tr/KararlarDaire/Detay/39818/",
+  "source_sha256": "3018c83f49d5f5d2b7004e4f09250a4a4535a1fbf20a8f35485d5370cef06223",
+  "text_status": "metadata-only",
+  "metadata_only_reason": "possible personal name in the official text"
+}
