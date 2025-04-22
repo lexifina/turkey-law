@@ -1,0 +1,22 @@
+{
+  "kind": "norm",
+  "issuer": "Gelir İdaresi Başkanlığı",
+  "document_type": "sirkuler",
+  "number": "VUK-187/2025-8/Enflasyon Düzeltmesi Uygulaması-20",
+  "source_id": 1123,
+  "date": "2025-04-22",
+  "title": "Enflasyon Düzeltmesi Uygulaması",
+  "source": "https://gib.gov.tr/mevzuat/kanun/434/sirkuler/1123",
+  "related_law": "213 sayılı VERGİ USUL KANUNU",
+  "source_api": "https://gib.gov.tr/api/gibportal/mevzuat/sirkuler/list",
+  "source_listing": "evidence/list/2026-11-16/sirkuler-p000.json",
+  "source_listing_sha256": "60c9b519ec13187d56f9a7863ce3934a7fb9c37357209b90158ca6acfcc95b41",
+  "source_sha256": "07bcbb60645d87acf8f48cc3f2262e8eadd823cfb8dac301a5d0378fb7cb36f6",
+  "text_status": "as-enacted",
+  "text_file": "metin.md",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  }
+}
