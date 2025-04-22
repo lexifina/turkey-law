@@ -1,0 +1,13 @@
+Merkezin faaliyet alanları
+MADDE 6 – (1) Merkezin faaliyet alanları şunlardır:
+a) Uzaktan eğitim öğretim konularında araştırma ve geliştirme çalışmaları yapmak,
+b) Uzaktan eğitim öğretimle ilgili her türlü eğitim, öğretim, araştırma ve uygulamaları teşvik etmek, desteklemek ve bunlardan resmî ve özel kuruluşlar ile kişilerin yararlanmasını sağlamak,
+c) Uzaktan eğitim öğretim ile ilgili bilimsel ve teknolojik araştırmaları planlamak, strateji geliştirmek, gerektiğinde merkezin amacına uygun uygulamaları gerçekleştirmek ve özendirmek,
+ç) Kamu ve özel kuruluşların ihtiyacı olan uzaktan eğitim öğretim sistemlerinin oluşturulmasında danışmanlık hizmetleri vermek ve sistem analizi yapmak, talep edilmesi halinde teknik servis ve büro hizmetleri sağlamak,
+d) Bilgi ve iletişim teknolojilerine dayalı uzaktan eğitim öğretim veya harmanlanmış eğitim öğretim şeklinde yapılan Üniversite içindeki önlisans, lisans tamamlama, lisans ve lisansüstü programlar ile uzaktan eğitim öğretim yoluyla ulusal ve uluslararası kurum, kuruluş ve kişiler için hizmet içi eğitim öğretim, dersler, kurslar, sertifika programları, seminerler, konferanslar ve benzeri faaliyetleri planlamak, açmak, yürütmek ve bu faaliyetlerin eşgüdümünü ve koordinasyonunu sağlamak,
+e) Uzaktan eğitim öğretim şeklinde verilen kurs, seminer, konferans, ders, program ve bölümler için içerik ve eğitim öğretim programları belirlemek, kredilendirmek, eğitim öğretim türüne göre sertifika, katılım belgesi, ders geçme belgesi ve benzerlerini vermek; kayıt, kabul, sınav, başarı, ders geçme ve benzeri işlemler için usul ve esasları belirlemek, düzenlemek ve sunmak, görev alacak öğretim elemanlarını belirlemek, görevlendirmek, işbirliği ve koordinasyonu sağlamak,
+f) Gerek Üniversite içi, gerekse Üniversite dışı projelerde ihtiyaç duyulan ders içeriklerini belirlemek, akreditasyonları için çalışma yapmak, bu konularda danışmanlık yapmak ve gerekli koordinasyonu sağlamak,
+g) Uzaktan eğitim öğretim ile ilgili araştırma ve uygulamalarda yerli ve yabancı kuruluşlarla işbirliği yapmak ve uluslararası ve millî organizasyonlara katılmak,
+ğ) Uzaktan eğitim öğretim ile ilgili konularda üniversitenin bütün birimlerine ait laboratuvar, kütüphane, akıllı sınıf, dershane, stüdyo ve diğer eğitim öğretim imkânlarından yararlanmak veya bunların oluşumuna katkıda bulunmak,
+h) Uzaktan eğitim öğretim ile ilgili ulusal ve uluslararası araştırmalar yapmak, bildiri, makale ve kitaplar yayınlamak, akademik dergi, konferans, kongre, sempozyum ve benzeri faaliyetler gerçekleştirmek, ulusal ve uluslararası proje desteklerine başvurmak ve bu faaliyetleri teşvik etmek,
+ı) Yönetim Kurulunun kararlaştıracağı diğer faaliyetlerde bulunmak.
