@@ -1,0 +1,2 @@
+Taşınırın gazete (Ek ibare:RG-31/3/2023-32149)(1) veya internet haber sitesi ilanı
+MADDE 9- (1) Taşınırın gazete (Ek ibare:RG-31/3/2023-32149)(1) veya internet haber sitesi ile yapılacak açık artırma ilanına satış şartnamesi eklentisiyle geçirilmeyip, satılacak şeyin cinsi, mahiyeti, önemli vasıfları, muhammen kıymeti ve bulunduğu yer, birinci ve ikinci artırmanın yapılacağı gün ve saat aralığı ile artırmaya ilişkin bilgilerin yer aldığı Elektronik Satış Portalına erişim yapılacak internet adresi yazılmakla iktifa olunur.

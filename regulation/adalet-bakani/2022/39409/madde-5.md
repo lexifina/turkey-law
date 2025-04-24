@@ -1,0 +1,2 @@
+Taşınırın açık artırma şartnamesi
+MADDE 5- (1) Taşınırın açık artırma şartnamesine; dosya numarası, alacaklı ve borçlunun adı ve soyadı, birinci ve ikinci artırmanın yapılacağı gün ve saat aralığı, taşınırın cinsi, muhammen kıymeti, artırmaya katılacakların taşınırın muhammen kıymetinin yüzde onu oranında nakit teminat veya banka teminat mektubunu tevdi etmeleri gerektiği, artırmaya çıkarılan taşınır üzerinde hakkı olan alacaklı veya ilgiliden teminat aranıp aranmayacağı, hangi giderlerin alıcıya ait olacağı ve diğer gerekli bilgiler yazılır.
