@@ -1,0 +1,21 @@
+{
+  "record_type": "parliament-written-question",
+  "term": 28,
+  "legislative_year": 3,
+  "esas_no": "7/27463",
+  "submitted": "2025-04-24",
+  "submitted_as": "Başkanlığa geliş tarihi",
+  "mp": "Beritan GÜNEŞ ALTIN",
+  "province": "Mardin",
+  "summary": "Mardin'in Derik ilçesine bağlı Kutluca köyünde yaşanan elektrik kesintilerine ilişkin",
+  "status": "Süresi Geçtikten Sonra Cevaplandı",
+  "status_as_of": "2026-11-16",
+  "official_record": "https://www.tbmm.gov.tr/Denetim/Yazili-Soru-Onergesi-Detay/f17cf823-a4a9-4c96-94b1-01966bbf87b3",
+  "source": "https://tbmm.gov.tr/Denetim/YaziliSoruOnergesiTable",
+  "source_form": "https://tbmm.gov.tr/Denetim/Yazili-Soru-Onergeleri",
+  "source_sha256": "aa73681fa56d7a750a62cf87993fcaaf3aa7185bb354166ef7bece7a3a1c908a",
+  "in_force": "2025-04-24",
+  "in_force_basis": "Date the question reached the Speaker (Başkanlığa geliş tarihi) in the official TBMM written-question record; parliamentary oversight record, not law",
+  "history_type": "metadata",
+  "text_status": "metadata-only: question text, addressee and answers are in the linked official record (PDFs on cdn.tbmm.gov.tr); not transcribed here"
+}
