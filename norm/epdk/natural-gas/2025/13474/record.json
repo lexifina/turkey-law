@@ -1,0 +1,26 @@
+{
+  "kind": "norm",
+  "issuer": "Enerji Piyasası Düzenleme Kurumu",
+  "market": "natural-gas",
+  "document_type": "board-decision",
+  "number": "13474",
+  "decision_date": "2025-04-24",
+  "title": "Sürmeli Doğal Gaz Dağıtım Sanayi ve Ticaret Anonim Şirketi’nin üçüncü tarife uygulama dönemi perakende satış tarifelerine yönelik",
+  "resmi_gazete_date": "2025-04-27",
+  "resmi_gazete_number": "32883",
+  "categories": [
+    "Şirket Bazında Kararlar"
+  ],
+  "source": "https://www.epdk.gov.tr/Detay/DownloadDocument?id=/kSzxaX9+6I=",
+  "documents": [
+    "https://www.epdk.gov.tr/Detay/DownloadDocument?id=/kSzxaX9+6I=",
+    "https://www.epdk.gov.tr/Detay/DownloadDocument?id=0TdGbau+p/w="
+  ],
+  "source_sha256": "c6430debd19a57e3b0b61d37a2add1fc0e48cd75d34f86292c4e1f9cee3aa2d4",
+  "official_list": "https://www.epdk.gov.tr/Detay/Icerik/3-0-19/kurul-kararlari",
+  "official_list_leaf": 7236,
+  "text_status": "as-enacted",
+  "text_file": "metin.md",
+  "in_force": "2025-04-24",
+  "law_text_complete": true
+}
