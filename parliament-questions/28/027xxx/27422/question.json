@@ -1,0 +1,21 @@
+{
+  "record_type": "parliament-written-question",
+  "term": 28,
+  "legislative_year": 3,
+  "esas_no": "7/27422",
+  "submitted": "2025-04-25",
+  "submitted_as": "Başkanlığa geliş tarihi",
+  "mp": "Öznur BARTİN",
+  "province": "Hakkari",
+  "summary": "Erzincan T Tipi Kapalı Cezaevinde bulunan bir mahkumun kötü muameleye maruz kaldığı iddiasına ilişkin",
+  "status": "Cevaplanmadığı Gelen Kağıtlarda İlan Edildi",
+  "status_as_of": "2026-11-16",
+  "official_record": "https://www.tbmm.gov.tr/Denetim/Yazili-Soru-Onergesi-Detay/90b94fbd-43e3-4780-b0a0-01967b68d6bd",
+  "source": "https://tbmm.gov.tr/Denetim/YaziliSoruOnergesiTable",
+  "source_form": "https://tbmm.gov.tr/Denetim/Yazili-Soru-Onergeleri",
+  "source_sha256": "aa73681fa56d7a750a62cf87993fcaaf3aa7185bb354166ef7bece7a3a1c908a",
+  "in_force": "2025-04-25",
+  "in_force_basis": "Date the question reached the Speaker (Başkanlığa geliş tarihi) in the official TBMM written-question record; parliamentary oversight record, not law",
+  "history_type": "metadata",
+  "text_status": "metadata-only: question text, addressee and answers are in the linked official record (PDFs on cdn.tbmm.gov.tr); not transcribed here"
+}
