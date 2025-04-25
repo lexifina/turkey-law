@@ -1,0 +1,2 @@
+Yandal programı tamamlama formu
+MADDE 35 – (1) Yandal programının tamamlanması aşamasında öğrencinin, yandal programında aldığı bütün dersleri, notları ve genel not ortalamasını gösteren yandal programı tamamlama formunu doldurması gerekir. Yandal tamamlama formu hem yandal ve hem de anadal bölüm başkanlarınca onaylanır ve kopyaları her iki bölüm başkanlıklarına, ilgili (Değişik ibare:RG-7/11/2022-32006) yüksekokul müdürlüklerine/fakülte dekanlıklarına ve Öğrenci Kayıt İşlemleri Müdürlüğüne verilir.

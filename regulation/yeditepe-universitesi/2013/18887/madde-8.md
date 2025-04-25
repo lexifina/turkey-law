@@ -1,0 +1,4 @@
+Ders seçme ve kayıt süresi
+MADDE 8 – (Değişik:RG-22/8/2016-29809)
+(1) Öğrenciler ders kaydını yaptırabilmek için önce Rektörlük tarafından ilan edilen süre içinde almak istedikleri derslere Üniversitenin elektronik ders kayıt sisteminden ön kayıt yaptırırlar. Ön kayıt süreci sonunda öğrenciler, açılan derslere akademik takvimde yer alan kayıt süresi içinde kesin kayıt yaptırırlar.
+(2) Mazeretleri nedeniyle bu tarihler içinde ders kaydı yaptıramayan öğrencilerin başvuruları üzerine, durumları ilgili yönetim kurulunca incelenip mazeretleri geçerli görülenlerin ders kayıtları ders ekleme-bırakma süresinin sonuna kadar yapılır. Ders ekleme-bırakma süresinin bitiminden sonra ders kaydı yapılamaz; bu sürenin bitiminden sonra mazeretlerin devam etmesi halinde, öğrenci ilgili yarıyıl için geçici olarak ayrılmış sayılır.

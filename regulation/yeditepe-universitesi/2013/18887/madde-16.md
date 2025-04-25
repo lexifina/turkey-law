@@ -1,0 +1,5 @@
+Öğretim süreleri
+MADDE 16 – (Değişik:RG-22/8/2016-29809)
+(1) (Değişik:RG-7/11/2022-32006) Normal öğretim süresi; yabancı dil hazırlık sınıfı hariç, öğretim süresi iki yıl olan önlisans programı için dört yarıyıl, öğretim süresi dört yıl olan lisans programı için sekiz yarıyıl, öğretim süresi beş yıl olan lisans programı için on yarıyıl, öğretim süresi altı yıl olan lisans programı için on iki yarıyıldır.
+(2) Azami öğretim süresi; kayıt olduğu programa ilişkin derslerin verildiği yarıyıldan başlamak üzere, her yarıyıl için kayıt yaptırıp yaptırmadığına bakılmaksızın, önlisans programlarında azami dört yıl, dört yıllık lisans programlarında azami yedi yıl, beş yıllık lisans programlarında azami sekiz ve altı yıllık lisans programlarında azami dokuz yıldır. Bu süreler içinde mezun olamayanlar hakkında 2547 sayılı Kanun ve ilgili diğer mevzuat hükümleri uygulanır.
+(3) Üniversiteden belirli bir süre uzaklaştırma cezası alan öğrencilerin ceza aldıkları süre birinci fıkrada belirtilen öğretim süresinden sayılır.

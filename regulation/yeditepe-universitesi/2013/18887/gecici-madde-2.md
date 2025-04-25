@@ -1,0 +1,2 @@
+Azami süre
+GEÇİCİ MADDE 2 – (Ek:RG-14/9/2015-29475)(Mülga:RG-22/8/2016-29809)
