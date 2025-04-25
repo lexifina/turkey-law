@@ -1,0 +1,21 @@
+{
+  "record_type": "parliament-written-question",
+  "term": 28,
+  "legislative_year": 3,
+  "esas_no": "7/27510",
+  "submitted": "2025-04-25",
+  "submitted_as": "Başkanlığa geliş tarihi",
+  "mp": "Ferit ŞENYAŞAR",
+  "province": "Şanlıurfa",
+  "summary": "Tarımsal üreticilere sağlanan su kullanım hizmet bedellerinde yaşanan bölgesel farklılıklara ilişkin",
+  "status": "Süresi Geçtikten Sonra Cevaplandı",
+  "status_as_of": "2026-11-16",
+  "official_record": "https://www.tbmm.gov.tr/Denetim/Yazili-Soru-Onergesi-Detay/92cdfc15-da01-4431-a708-01967bade1ed",
+  "source": "https://tbmm.gov.tr/Denetim/YaziliSoruOnergesiTable",
+  "source_form": "https://tbmm.gov.tr/Denetim/Yazili-Soru-Onergeleri",
+  "source_sha256": "b7460b1a7fa543b45b99bee2bb9d6620cfcdb0ff8304e69200992f093cb0d99b",
+  "in_force": "2025-04-25",
+  "in_force_basis": "Date the question reached the Speaker (Başkanlığa geliş tarihi) in the official TBMM written-question record; parliamentary oversight record, not law",
+  "history_type": "metadata",
+  "text_status": "metadata-only: question text, addressee and answers are in the linked official record (PDFs on cdn.tbmm.gov.tr); not transcribed here"
+}
