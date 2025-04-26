@@ -1,0 +1,2 @@
+Dayanak
+MADDE 3- (1) Bu Yönetmelik, 7/5/1987 tarihli ve 3359 sayılı Sağlık Hizmetleri Temel Kanununun 9 uncu maddesinin (c) bendine, ek 11 inci ve ek 19 uncu maddelerine, 11/10/2011 tarihli ve 663 sayılı Sağlık Alanında Bazı Düzenlemeler Hakkında Kanun Hükmünde Kararnamenin ek 2 nci maddesine ve 1 sayılı Cumhurbaşkanlığı Teşkilatı Hakkında Cumhurbaşkanlığı Kararnamesinin 355 inci ve 508 inci maddelerine dayanılarak hazırlanmıştır.

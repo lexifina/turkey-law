@@ -1,0 +1,3 @@
+Tanıtım ve bilgilendirme
+MADDE 13- (1) Sağlık tesisi ve aracı kuruluşlarda, 29/7/2023 tarihli ve 32263 sayılı Resmî Gazete’de yayımlanan Sağlık Hizmetlerinde Tanıtım ve Bilgilendirme Faaliyetleri Hakkında Yönetmelik hükümleri uygulanır.
+(2) Sağlık tesisi ve aracı kuruluşlar için yabancı dil seçeneği bulunan internet sitesi oluşturulması zorunludur. İnternet sitesinde yer alan kuruluş ismi ve unvanlar sağlık tesisi ve aracı kuruluş için yetki belgesindeki unvan ve sahiplik adı ile uyumlu olmak zorundadır. Sağlık tesisi bu Yönetmelik kapsamında almış olduğu akreditasyon belgesi veya sertifikayı internet sitesinde yayınlamak zorundadır.

@@ -1,0 +1,4 @@
+Denetim
+MADDE 15- (1) Sağlık tesisi ve aracı kuruluş, 17/11/2023 tarihli ve 32372 sayılı Resmî Gazete’de yayımlanan Özel Sağlık Tesislerinin Denetimi Hakkında Yönetmelik hükümlerine uygun olarak, EK-4 ve EK-5’te yer alan denetim, sorgu ve idari yaptırım formlarında belirtilen kriterlere göre denetlenir.
+(2) Bu Yönetmelikte belirtilen usul ve esaslara uymadığı için sağlık turizmi faaliyeti durdurulan, yetki belgesi askıya alınan veya iptal edilen sağlık tesisi ve aracı kuruluş, Ticaret Bakanlığı ile Kültür ve Turizm Bakanlığına Bakanlıkça bildirilir.
+(3) Aracı kuruluşlar, uluslararası sağlık turizmi kapsamında yapmış olduğu faaliyetlerle ilgili olarak bu Yönetmelikte yer alan hususlarda 663 sayılı Kanun Hükmünde Kararnamenin ek 2 nci maddesinin ikinci fıkrasının (a) bendine uygunluk yönünden USHAŞ tarafından değerlendirilir.

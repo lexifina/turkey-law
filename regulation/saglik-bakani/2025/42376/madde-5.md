@@ -1,0 +1,12 @@
+İKİNCİ BÖLÜM
+Uluslararası Sağlık Turizmi
+Yetki belgesi
+MADDE 5- (1) Sağlık tesisi ve aracı kuruluşların uluslararası sağlık turizmi hizmetlerinde faaliyet yürütebilmesi için yetki belgesi alması zorunludur. Yetki belgesi; sağlık tesisi için Bakanlık, aracı kuruluş için USHAŞ tarafından düzenlenir.
+(2) Sağlık tesisi için yetki belgesi başvurusu, EK-1/A’da yer alan başvuru evrakları ile birlikte EKİP üzerinden yapılır. İl/ilçe sağlık müdürlüğü tarafından başvuru üzerine aşağıdaki işlemler gerçekleştirilir:
+a) Başvuru evrakları incelenir ve inceleme sonucunda başvuru evraklarında eksiklik veya kriterlere uygunsuzluk tespit edilmesi hâlinde, 15 iş günü içinde başvurucuya bildirilir. Başvuru evraklarında eksiklik veya uygunsuzluk bulunduğu bildirilen başvurucunun 30 iş günü içinde eksikliklerini tamamlayamaması halinde başvurusu reddedilmiş sayılır.
+b) Başvuru evraklarında eksiklik veya kriterlere uygunsuzluk bulunmadığı anlaşılan başvurucu, il/ilçe sağlık müdürlüğünce oluşturulan inceleme ekibi tarafından yerinde incelenir. Yerinde inceleme neticesinde uygunluğuna karar verilen başvurular 15 iş günü içinde Bakanlığa gönderilir. Bakanlık tarafından uygun görülmesi halinde 15 iş günü içinde EK-3/A’da bulunan yetki belgesi düzenlenir.
+(3) Aracı kuruluş için yetki belgesi başvurusu EK-1/B’de yer alan başvuru evrakları ile birlikte USHAŞ’a yapılır. USHAŞ tarafından başvuru üzerine aşağıdaki işlemler gerçekleştirilir:
+a) Başvuru evrakları incelenir ve inceleme sonucunda başvuru evraklarında eksiklik veya kriterlere uygunsuzluk tespit edilmesi hâlinde, 15 iş günü içinde başvurucuya bildirilir. Başvuru evraklarında eksiklik veya uygunsuzluk bulunduğu bildirilen başvurucunun 30 iş günü içinde eksikliklerini tamamlayamaması halinde başvurusu reddedilmiş sayılır.
+b) Başvuru evraklarında eksiklik veya kriterlere uygunsuzluk bulunmadığı anlaşılan başvurucu USHAŞ tarafından oluşturulan inceleme ekibi tarafından yerinde incelenir. Yerinde inceleme neticesinde USHAŞ tarafından uygun görülmesi halinde 15 iş günü içinde EK-3/B’de bulunan yetki belgesi düzenlenir.
+(4) Aracı kuruluş sahibi tüzel kişi tarafından ikinci bir aracı kuruluş veya şube açılmak istenmesi durumunda, her bir aracı kuruluş veya şube için yeni yetki belgesi alınması zorunludur. Bu şekilde yetkilendirilmeyen ikinci bir aracı kuruluş veya şubede sağlık turizmi faaliyetleri yürütülemez.
+(5) Uluslararası sağlık turizmi yetki belgesi devredilemez.
