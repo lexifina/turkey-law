@@ -1,0 +1,21 @@
+Şube müdürlükleri tarafından yürütülecek hizmetler
+MADDE 7- (1) Millî eğitim müdürlüklerinde;
+a) Temel eğitim,
+b) Ortaöğretim,
+c) Mesleki ve teknik eğitim,
+ç) Din öğretimi,
+d) Özel eğitim ve rehberlik,
+e) Hayat boyu öğrenme,
+f) Özel öğretim kurumları,
+g) Yenilik ve eğitim teknolojileri,
+ğ) Mesleki gelişim,
+h) Ölçme, değerlendirme ve sınav,
+ı) Yükseköğretim ve yurt dışı eğitim,
+i) Personel,
+j) Destek,
+k) İnşaat ve emlak,
+l) Denklik ve belge doğrulama,
+m) Strateji geliştirme,
+n) Bütçe ve tahakkuk,
+o) Basın ve halkla ilişkiler,
+hizmetleri şube müdürlükleri tarafından yürütülür.
