@@ -1,0 +1,2 @@
+Kapsam
+MADDE 2- (1) Bu Ana Statü; Türkiye Herkes İçin Spor Federasyonunun Genel Kurulu, Yönetim Kurulu, Denetim Kurulu ve Disiplin Kurulu ile diğer kurullarını, spor dalında faaliyet gösteren spor kulüplerini, spor anonim şirketlerini ve ilgili diğer kuruluşları, sporcu, antrenör, gözlemci, yönetici, temsilci ve diğer spor elemanları ile bunların katıldığı yurt içi ve yurt dışı tüm faaliyetleri kapsar.
