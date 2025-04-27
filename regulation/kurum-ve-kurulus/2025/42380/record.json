@@ -1,0 +1,27 @@
+{
+  "source_id": "7.5.42380",
+  "kind": "regulation",
+  "register_kind": "Kurum ve Kuruluş Yönetmelikleri",
+  "title": "TÜRKİYE MOTOSİKLET FEDERASYONU ANA STATÜSÜ",
+  "number": "42380",
+  "issuer_slug": "kurum-ve-kurulus",
+  "path": "regulation/kurum-ve-kurulus/2025/42380",
+  "source": "https://www.mevzuat.gov.tr/anasayfa/MevzuatFihristDetayIframe?MevzuatTur=7&MevzuatNo=42380&MevzuatTertip=5",
+  "source_sha256": "8435f20ec0d851f15c1abc9701811f730f2bb15568ae723aff8a79c03edc50a3",
+  "source_bytes": 171362,
+  "published": "2025-04-27",
+  "gazette": "32883",
+  "in_force": "2025-04-27",
+  "in_force_basis": "Resmî Gazete publication date in the official listing (27.04.2025)",
+  "history": "current-text",
+  "label": "oldest version available",
+  "checked_on": "2026-11-15",
+  "word_count": 10934,
+  "text_status": "current-consolidated",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  },
+  "completeness": "html-text-complete"
+}
