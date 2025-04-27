@@ -1,0 +1,27 @@
+{
+  "source_id": "7.5.42379",
+  "kind": "regulation",
+  "register_kind": "Kurum ve Kuruluş Yönetmelikleri",
+  "title": "TÜRKİYE İZCİLİK FEDERASYONU ANA STATÜSÜ",
+  "number": "42379",
+  "issuer_slug": "kurum-ve-kurulus",
+  "path": "regulation/kurum-ve-kurulus/2025/42379",
+  "source": "https://www.mevzuat.gov.tr/anasayfa/MevzuatFihristDetayIframe?MevzuatTur=7&MevzuatNo=42379&MevzuatTertip=5",
+  "source_sha256": "5a5f402093257c2404e5446dbf0263eae86a94a0bbdd2aeb805cc1745e5671c4",
+  "source_bytes": 166638,
+  "published": "2025-04-27",
+  "gazette": "32883",
+  "in_force": "2025-04-27",
+  "in_force_basis": "Resmî Gazete publication date in the official listing (27.04.2025)",
+  "history": "current-text",
+  "label": "oldest version available",
+  "checked_on": "2026-11-15",
+  "word_count": 10601,
+  "text_status": "current-consolidated",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  },
+  "completeness": "html-text-complete"
+}
