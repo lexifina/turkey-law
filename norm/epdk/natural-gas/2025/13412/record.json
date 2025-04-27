@@ -1,0 +1,26 @@
+{
+  "kind": "norm",
+  "issuer": "Enerji Piyasası Düzenleme Kurumu",
+  "market": "natural-gas",
+  "document_type": "board-decision",
+  "number": "13412",
+  "decision_date": "2025-04-27",
+  "title": "Aksa Gümüşhane Bayburt Doğalgaz Dağıtım Anonim Şirketi’nin üçüncü tarife uygulama dönemi perakende satış tarifelerine yönelik",
+  "resmi_gazete_date": "2025-04-29",
+  "resmi_gazete_number": "32856",
+  "categories": [
+    "Şirket Bazında Kararlar"
+  ],
+  "source": "https://www.epdk.gov.tr/Detay/DownloadDocument?id=NputUne0jYo=",
+  "documents": [
+    "https://www.epdk.gov.tr/Detay/DownloadDocument?id=NputUne0jYo=",
+    "https://www.epdk.gov.tr/Detay/DownloadDocument?id=PpSWAD/L53E="
+  ],
+  "source_sha256": "a7b53f6664fcd3c995a2562d62a4399b70ae72c065bb6aa0100cec1a39d9a14d",
+  "official_list": "https://www.epdk.gov.tr/Detay/Icerik/3-0-19/kurul-kararlari",
+  "official_list_leaf": 7236,
+  "text_status": "as-enacted",
+  "text_file": "metin.md",
+  "in_force": "2025-04-27",
+  "law_text_complete": true
+}
