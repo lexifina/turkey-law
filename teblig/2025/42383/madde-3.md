@@ -1,0 +1,2 @@
+Karar
+MADDE 3- (1) İthalatta Korunma Önlemlerini Değerlendirme Kurulu 7/4/2025 tarihinde yaptığı toplantıda, soruşturma sürecinde varılan tespitler ışığında İstatistik Pozisyonlarına Bölünmüş Türk Gümrük Tarife Cetvelinin “Örme veya Kroşe Eşya” başlıklı 60 ıncı faslında yer alan eşyanın ithalatına yönelik yürütülen korunma önlemi soruşturmasının önlemsiz olarak kapatılmasına toplantıya katılan üyelerin oy çokluğu ile karar vermiştir.
