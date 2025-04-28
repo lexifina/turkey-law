@@ -1,0 +1,2 @@
+Avrupa Birliği mevzuatına uyum
+MADDE 13- (1) Bu Yönetmeliğin hazırlanmasında, her türlü sivil hava aracı ve/veya ürün, parça ve cihazın uçuşa elverişlilik ve çevresel sertifikasyonu ya da bunlara ilişkin uyum beyanı, tasarım ve üretim organizasyonları ile bu organizasyonlarda görev yapan yönetici ve ilgili personelin yetkilendirilmesi konulu 3/8/2012 tarihli ve (AB) 748/2012 sayılı Komisyon Tüzüğü dikkate alınmıştır.

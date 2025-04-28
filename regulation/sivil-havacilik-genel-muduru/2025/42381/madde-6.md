@@ -1,0 +1,2 @@
+Çevresel koruma
+MADDE 6- (1) Ürün, parça ve cihazların; ICAO tarafından yayımlanan Şikago Sözleşmesinin çevresel koruma konulu Ek-16’sının, hava aracı gürültüsü konulu Bölüm I, hava aracı motor emisyonu konulu Bölüm II ve hava aracı karbondioksit (CO2) emisyonu konulu Bölüm III içerisinde belirtilen hava aracı kategorileri için çevresel koruma gereksinmelerine uyumlu olması gerekir. Bu maddenin uygulanması kapsamında talimatlar, kabul edilebilir uyum yöntemleri ve ilave rehber dokümanlar gibi gerekli düzenlemeler, Genel Müdürlük tarafından hazırlanır.
