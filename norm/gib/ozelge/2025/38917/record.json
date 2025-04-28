@@ -1,0 +1,22 @@
+{
+  "kind": "norm",
+  "issuer": "Gelir İdaresi Başkanlığı",
+  "document_type": "ozelge",
+  "number": "E-97726449-130-73362",
+  "source_id": 38917,
+  "date": "2025-04-28",
+  "title": "İthalata Ödenen KDV'nin İndirime Konu Edilmesi hk.",
+  "source": "https://gib.gov.tr/mevzuat/kanun/436/ozelge/38917",
+  "related_law": "3065 sayılı KATMA DEĞER VERGİSİ KANUNU",
+  "source_api": "https://gib.gov.tr/api/gibportal/mevzuat/ozelge/list",
+  "source_listing": "evidence/list/2026-11-16/ozelge-p009.json",
+  "source_listing_sha256": "9cb52b4963a9a177a23948f6e28c12936c2f43c88a0b410872bb81c01983667c",
+  "source_sha256": "0363b2a257cd50b1a68809b0297613781b791464ff9defc0c97044a160afc1de",
+  "text_status": "as-enacted",
+  "text_file": "metin.md",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  }
+}
