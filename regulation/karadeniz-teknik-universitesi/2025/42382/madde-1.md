@@ -1,0 +1,7 @@
+KARADENİZ TEKNİK ÜNİVERSİTESİ TEKNOLOJİ TRANSFERİ
+UYGULAMA VE ARAŞTIRMA MERKEZİ YÖNETMELİĞİ
+BİRİNCİ BÖLÜM
+Başlangıç Hükümleri
+Amaç ve kapsam
+MADDE 1- (1) Bu Yönetmeliğin amacı, Karadeniz Teknik Üniversitesi Teknoloji Transferi Uygulama ve Araştırma Merkezinin amacına, faaliyet alanlarına, yönetim organlarına, yönetim organlarının görevlerine ve çalışma şekline ilişkin usul ve esasları düzenlemektir.
+(2) Bu Yönetmelik Karadeniz Teknik Üniversitesi Teknoloji Transferi Uygulama ve Araştırma Merkezinin amacına, faaliyet alanlarına, yönetim organlarına, yönetim organlarının görevlerine ve çalışma şekline ilişkin hükümleri kapsar.
