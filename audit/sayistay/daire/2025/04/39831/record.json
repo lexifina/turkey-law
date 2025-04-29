@@ -1,0 +1,17 @@
+{
+  "kind": "decision",
+  "issuer": "Sayıştay 5. Dairesi",
+  "number": "698",
+  "decision_date": "2025-04-29",
+  "source_id": 39831,
+  "chamber": "5",
+  "ilam_number": "341",
+  "item_number": 2,
+  "public_body_type": "Belediyeler ve Bağlı İdareler",
+  "account_year": 2018,
+  "subject": "İhale Mevzuatı ile İlgili Kararlar",
+  "source": "https://www.sayistay.gov.tr/KararlarDaire/Detay/39831/",
+  "source_sha256": "a0d9b57f5499f2181bf4d62923d0656ae67a7c2e9ed39157bc99113efbd8c8e4",
+  "text_status": "metadata-only",
+  "metadata_only_reason": "possible personal name in the official text"
+}
