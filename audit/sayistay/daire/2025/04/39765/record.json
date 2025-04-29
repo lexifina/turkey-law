@@ -1,0 +1,17 @@
+{
+  "kind": "decision",
+  "issuer": "Sayıştay 3. Dairesi",
+  "number": "531",
+  "decision_date": "2025-04-29",
+  "source_id": 39765,
+  "chamber": "3",
+  "ilam_number": "181",
+  "item_number": 6,
+  "public_body_type": "Belediyeler ve Bağlı İdareler",
+  "account_year": 2020,
+  "subject": "İş Mevzuatı ile İlgili Kararlar",
+  "source": "https://www.sayistay.gov.tr/KararlarDaire/Detay/39765/",
+  "source_sha256": "41be448546a7acb7a6f2dc227d4c3d00b9c2304a3a3aeccf50d1a694b04e0b39",
+  "text_status": "metadata-only",
+  "metadata_only_reason": "possible personal name in the official text"
+}
