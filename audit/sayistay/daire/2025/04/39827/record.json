@@ -1,0 +1,17 @@
+{
+  "kind": "decision",
+  "issuer": "Sayıştay 5. Dairesi",
+  "number": "697",
+  "decision_date": "2025-04-29",
+  "source_id": 39827,
+  "chamber": "5",
+  "ilam_number": "86",
+  "item_number": 7,
+  "public_body_type": "Belediyeler ve Bağlı İdareler",
+  "account_year": 2023,
+  "subject": "Çeşitli Konuları İlgilendiren Kararlar",
+  "source": "https://www.sayistay.gov.tr/KararlarDaire/Detay/39827/",
+  "source_sha256": "8399793c85ac17eaa56588acc27534ee6cbd48a9b303e6f616af9278e22199f2",
+  "text_status": "as-enacted",
+  "text_file": "metin.md"
+}
