@@ -1,0 +1,47 @@
+Özel hizmet tazminatı
+
+…. Belediyesinde ….. Müdürlüğünde Biyolog olarak görev yapan … ile …’a, kadrosu Teknik Hizmetler Sınıfında sayılmadığı ve çalışmaları çevresel etki değerlendirmesi kapsamında olmadığı halde ek özel hizmet tazminatı (arazi tazminatı) ödenerek …. TL kamu zararına sebebiyet verildiği kamu zararına neden olunduğu hususu ile ilgili olarak;
+
+657 sayılı Devlet Memurları Kanunu'nun “Zam ve tazminatlar” başlıklı 152 nci maddesinin II-Tazmiatlar kısmının A-Özel Hizmet Tazminatı bölümünde;
+
+“…c) Teknik Hizmetler Sınıfına dahil kadrolarda görev yapanlardan;…(Ek paragraf: 21/3/2006 – 5473/3 md.) Teknik Hizmetler Sınıfına dahil kadrolarda bulunan personelden açık çalışma mahallerinde fiilen çalışanlara, bulundukları kadrolar esas alınmak suretiyle, çalışılan her gün için belirlenecek oranlarda ve üçer aylık dönemler itibarıyla toplamı 60 puanı aşmayacak şekilde, dönem sonlarında ödenmek üzere ek özel hizmet tazminatı verilebilir…” hükmü yer almaktadır.
+
+2006/10344 sayılı Bakanlar Kurulu Kararı’nın Özel Hizmet Tazminatını düzenleyen II sayılı cetvelinin (E) Teknik Hizmetler kısmının 6 ncı sırasında, “Teknik Hizmetler Sınıfına ait kadrolarda bulunan personelden; büro, atölye, ısı santralı, laboratuar, tesis (sosyal tesisler dahil), işletme, fabrika, tersane ve hizmet binaları dışında olmak şartıyla arazi, şantiye, inşaat, baraj, park, bahçe, maden, açık alanlarda kurulu tarım ve hayvancılık uygulama birimleri ve yol gibi açık çalışma mahallerinde fiilen çalışanlara (belirtilen mahallerde yapılan kontrollük hizmetleri dahil), çalışılan her gün için aşağıda gösterilen oranlarda ayrıca özel hizmet tazminatı ödenir. Faal durumdaki hizmet binalarının tadilat, bakım ve onarımı işleri açık çalışma mahalli kapsamında değerlendirilmez…” denilmiştir.
+
+160 seri numaralı Devlet Memurları Genel Tebliği’nin “C-II Sayılı Cetvele İlişkin Açıklamalar” başlığının 6 ncı sırasında, “…Buna göre, kadroları Teknik Hizmetler Bölümünün l ila 4 üncü sırasında sayılanlara, söz konusu ek özel hizmet tazminatının ödenebilmesi için;
+
+a) Bu personelin büro, atölye, ısı santralı, laboratuar, tesis (sosyal tesisler dahil), işletme, fabrika ve hizmet binaları gibi “kapalı mahaller” dışında arazi, park, bahçe, şantiye, inşaat, maden, açık alanlarda kurulu tarım ve hayvancılık uygulama birimleri, yol, tünel, demiryolu, büyük içme suyu, köprü, kıyı yapıları, baraj v.b. açık çalışma mahallerinde görevlendirilmiş ve bu mahallerde fiilen çalışmış olmaları, … yeterli olacaktır.
+
+Faal durumdaki hizmet binalarının tadilat, bakım ve onarım işleri açık çalışma mahalli kapsamında değerlendirilmeyecektir.” düzenlemesi yer almaktadır.
+
+Yukarıdaki mevzuat hükümlerine göre ek özel hizmet tazminatı (arazi tazminatı) alabilmek için Bakanlar Kurulu Kararı’nda sayılan Teknik Hizmetler sınıfında görev yapmak ve belirtilen yerlerde fiilen çalışmak gerekmektedir.
+
+2006/10344 sayılı Bakanlar Kurulu Kararı’nın özel hizmet tazminatını düzenleyen II sayılı cetvelinin (E) Teknik Hizmetler kısmının 1, 2, 3 ve 4 üncü bölümlerinde ek özel hizmet tazminatına (arazi tazminatı) müstehak olan Teknik Hizmetler Sınıfına dahil ünvanlar sayılmakta,  Biyolog kadrosunun sayılan bu ünvanlar arasında olmadığı görülmektedir.
+
+Kamu Görevlilerinin Geneline ve Hizmet Kollarına Yönelik Mali ve Sosyal Haklara İlişkin 2022 ve 2023 Yıllarını Kapsayan 6 ncı Dönem Toplu Sözleşme’nin “Biyologlara ek özel hizmet tazminatı” başlıklı 43 üncü maddesinde ise;  “17/4/2006 tarihli ve 2006/10344 sayılı Bakanlar Kurulu Kararı ile yürürlüğe konulan Devlet Memurlarına Ödenecek Zam ve Tazminatlara İlişkin Karara ekli (II) sayılı Cetvelin “E Teknik Hizmetler bölümünün 6 ncı sırasında kimyagerler için öngörülen ek özel hizmet tazminatından, biyolog kadrolarında bulunanlardan anılan sırada yer alan personelle birlikte açık çalışma mahallerindeki çevresel etki değerlendirmesi çalışmalarına katılanlar da aynı esas ve usuller çerçevesinde yararlandırılır.” hükmü bulunmaktadır.
+
+Toplu Sözleşme’ye göre; Biyologların ek özel hizmet tazminatı alabilmesi, Bakanlar Kurulu Kararı’nda yer verilen açık çalışma mahallerinde sadece özel hizmet tazminatı almaya müstahak personelle birlikte çevresel etki değerlendirmesi çalışmalarına katılması halinde mümkündür.
+
+Çevresel Etki Değerlendirmesi Yönetmeliği’nin “Tanımlar” başlıklı 4 üncü maddesinin birinci fıkrasının altında yer alan (e) bendi, “Çevresel etki değerlendirmesi (ÇED): Gerçekleştirilmesi planlanan projelerin çevreye olabilecek olumlu ve olumsuz etkilerinin belirlenmesinde, olumsuz yöndeki etkilerin önlenmesi ya da çevreye zarar vermeyecek ölçüde en aza indirilmesi için alınacak önlemlerin, seçilen yer ile teknoloji alternatiflerinin belirlenerek değerlendirilmesinde ve projelerin uygulanmasının izlenmesi ve kontrolünde sürdürülecek çalışmaları,…” şeklinde tanımlanmıştır. Ayrıca Yönetmelik’in ekinde çevresel etki değerlendirmesi kapsamında uygulanacak projeler listesi yer almaktadır.
+
+Biyologlara projeye dayalı olarak açık çalışma mahallerinde özel hizmet tazminatı almaya müstahak personelle birlikte çevresel etki değerlendirmesi çalışmalarına katılması durumunda ek özel hizmet (arazi) tazminatı ödenmesi gerekirken; …. Müdürlüğünde Biyolog olarak görev yapan … ile ….’a sıfır atık çalışmaları kapsamında talep ve şikayetlere istinaden yürütülen alan çalışmaları ile enerji verimliliği ile ilgili alan çalışmaları, birinci sınıf atık getirme merkezi ve seyyar atık getirme merkezlerinin denetim ve kontrolleri, Müdürlük tarafından verilen eğitimlere katılmak, Müdürlükçe katılım sağlanan toplantı, organizasyon ve etkinlikler, etkinlik programları ve eğitim bilgilendirme gibi yürütülen çalışmalar sonucu özel hizmet tazminatı ödendiği anlaşılmaktadır. Bu kapsamda yapılan ödemelerde mevzuata uyarlık bulunmamaktadır.
+
+Sorumlular savunmalarında adı geçen personellerin görevlerini hangi mevzuat çerçevesinde yürüttüğünü, açık çalışma mahallinde hangi görevleri yerine getirdiğini belirtmişler ve Çevresel Etki Değerlendirmesi Yönetmeliği’ndeki çevresel etki değerlendirmesi tanımının dar yorumlandığını dolayısıyla personelin görevlerinin çevresel etki değerlendirmesi kapsamında yer aldığını ifade etmişlerse de; Puantaj cetvelleri incelendiğinde; sıfır atık çalışmaları kapsamında talep ve şikayetlere istinaden yürütülen alan çalışmaları ile enerji verimliliği ile ilgili alan çalışmaları, birinci sınıf atık getirme merkezi ve seyyar atık getirme merkezlerinin denetim ve kontrolleri, Müdürlük tarafından verilen eğitimlere katılmak, Müdürlükçe katılım sağlanan toplantı, organizasyon ve etkinlikler, etkinlik programları ve eğitim bilgilendirme gibi çalışmalar sonucunda ek özel hizmet tazminatı ödendiği görülmektedir. Yapılan bu çalışmalar bir rapor veya projeye dayanmamaktadır. Belediyenin ilgili birimlerinin yaptığı her faaliyet çıktıları itibariyle çevreye etkide bulunacaktır. Bu şekilde, personelin görev tanımından yola çıkarak dolaylı bir yöntem kullanılarak çevreye etkileri bakımından ilişki kurmak buna ilişkin mevzuat düzenlemelerini anlamsız kılacaktır. Bu kapsamda sorumlu savunmalarında belirtilen hususlara itibar edilmemiştir.
+
+Bu itibarla, …. Belediyesinde …. Müdürlüğünde Biyolog olarak görev yapan … ile ….’a, çalışmaları çevresel etki değerlendirmesi kapsamında olmadığı halde ek özel hizmet tazminatı (arazi tazminatı) ödenmesi sonucu oluşan …. TL kamu zararının;
+
+…. TL’sinin Harcama Yetkilisi (…. Müdürü) …. ile Gerçekleştirme Görevlisi (Çevre Mühendisi) ….’e,
+
+… TL’sinin Harcama Yetkilisi (…. Müdürü) … ile Gerçekleştirme Görevlisi (Memur) ….’a,
+
+…. TL’sinin Harcama Yetkilisi (…. Müdür V.) …. ile Gerçekleştirme Görevlisi (Memur) …’a,
+
+Müştereken ve müteselsilen 6085 sayılı Sayıştay Kanununun 53 üncü maddesi gereğince işleyecek faizleri ile birlikte ödettirilmesine,
+
+İş bu ilamın tebliğ tarihinden itibaren aynı Kanunun 55 inci maddesi gereğince altmış gün içerisinde Sayıştay Temyiz Kurulu nezdinde temyiz yolu açık olmak üzere oyçokluğuyla karar verildi.
+
+Azınlık Görüşü:
+
+Daire Başkanı … ve Üye ….’ ün karşı oy gerekçesi;
+
+“Sorumlular savunmalarında adı geçen personellerin açık çalışma mahallerinde; …. Müdürlüğü’nün amaç ve çalışma yönetmeliğine uygun şekilde; çevre kirliliğinin önüne geçilmesi, iklim krizine karşı olumsuz yöndeki etkilerin azaltılması ve uyum çalışmaları ile Sıfır Atık Yönetmeliği kapsamında atıkların ayrı toplanması, geri kazanımı, 1 inci sınıf atık getirme merkezinin işletilmesi vb. hususlarda sahada çalışmalar ve denetimler yaptıklarını belirtmişlerdir. Yapılan bu çalışmalar Çevresel Etki Değerlendirmesi Yönetmeliği’ndeki tanıma uygundur. Dolayısıyla yapılan ödemeler mevzuata uygundur.”
