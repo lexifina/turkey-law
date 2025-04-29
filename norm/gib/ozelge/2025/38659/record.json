@@ -1,0 +1,22 @@
+{
+  "kind": "norm",
+  "issuer": "Gelir İdaresi Başkanlığı",
+  "document_type": "ozelge",
+  "number": "38418978-120[68-2024]-237911",
+  "source_id": 38659,
+  "date": "2025-04-29",
+  "title": "Avukatın Baro Yardımlaşma Sandığına Ödediği Aidatların Gelir Vergisi Matrahından İndirilip İndirilemeyeceği",
+  "source": "https://gib.gov.tr/mevzuat/kanun/433/ozelge/38659",
+  "related_law": "193 sayılı GELİR VERGİSİ KANUNU",
+  "source_api": "https://gib.gov.tr/api/gibportal/mevzuat/ozelge/list",
+  "source_listing": "evidence/list/2026-11-16/ozelge-p008.json",
+  "source_listing_sha256": "292c126217cc32c3ccfa57495ce433f89ef8db5e75fa1946d5819a76f81aff4d",
+  "source_sha256": "2bd6c99e9d9afef87f43507856b3caabb75254c3639789ec766ea7f523d38b1a",
+  "text_status": "as-enacted",
+  "text_file": "metin.md",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  }
+}
