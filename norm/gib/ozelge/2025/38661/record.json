@@ -1,0 +1,22 @@
+{
+  "kind": "norm",
+  "issuer": "Gelir İdaresi Başkanlığı",
+  "document_type": "ozelge",
+  "number": "38418978-120[61-24/4]-237923",
+  "source_id": 38661,
+  "date": "2025-04-29",
+  "title": "Çalışmayan Eş Tarafından Yapılan Özel Sağlık Sigortası Prim Ödemelerinin Hizmet Erbabının Ücret Matrahından İndirimi",
+  "source": "https://gib.gov.tr/mevzuat/kanun/433/ozelge/38661",
+  "related_law": "193 sayılı GELİR VERGİSİ KANUNU",
+  "source_api": "https://gib.gov.tr/api/gibportal/mevzuat/ozelge/list",
+  "source_listing": "evidence/list/2026-11-16/ozelge-p008.json",
+  "source_listing_sha256": "292c126217cc32c3ccfa57495ce433f89ef8db5e75fa1946d5819a76f81aff4d",
+  "source_sha256": "aa03e8175f991c11efcc0fd6475da22ab521abfb56915007e5b80bdf35761194",
+  "text_status": "as-enacted",
+  "text_file": "metin.md",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  }
+}
