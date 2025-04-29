@@ -1,0 +1,17 @@
+{
+  "kind": "decision",
+  "issuer": "Sayıştay 3. Dairesi",
+  "number": "533",
+  "decision_date": "2025-04-29",
+  "source_id": 39505,
+  "chamber": "3",
+  "ilam_number": "78",
+  "item_number": 2,
+  "public_body_type": "Diğer",
+  "account_year": 2023,
+  "subject": "Çeşitli Konuları İlgilendiren Kararlar",
+  "source": "https://www.sayistay.gov.tr/KararlarDaire/Detay/39505/",
+  "source_sha256": "dd07e6d5b5028fe1842c5434f67bc3fe2afeba3bc97b7027d20d8cf3c5750852",
+  "text_status": "metadata-only",
+  "metadata_only_reason": "possible personal name in the official text"
+}
