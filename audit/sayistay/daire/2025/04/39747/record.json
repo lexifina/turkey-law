@@ -1,0 +1,17 @@
+{
+  "kind": "decision",
+  "issuer": "Sayıştay 5. Dairesi",
+  "number": "696",
+  "decision_date": "2025-04-29",
+  "source_id": 39747,
+  "chamber": "5",
+  "ilam_number": "83",
+  "item_number": 1,
+  "public_body_type": "Yüksek Öğretim Kurumları",
+  "account_year": 2023,
+  "subject": "Çeşitli Konuları İlgilendiren Kararlar",
+  "source": "https://www.sayistay.gov.tr/KararlarDaire/Detay/39747/",
+  "source_sha256": "1782b0399753bcf16975517ca4a71d527a31b253a143901e106ff701609042e8",
+  "text_status": "as-enacted",
+  "text_file": "metin.md"
+}
