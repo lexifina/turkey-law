@@ -1,0 +1,5 @@
+Pay devri ve esas sözleşme değişiklikleri
+MADDE 7 – (1) Pay grupları esas sözleşmede belirlenir. Paylar ancak aynı grup içinde devredilebilir. Aynı grup içinde başka ortak yoksa veya aynı gruptaki mevcut ortaklar devir almak istememişse Kurulun uygun göreceği diğer gruplardaki ortaklara veya üçüncü kişilere devir yapılabilir.
+(2) Doğrudan veya %5 ve üzeri devir sonucu doğuracak dolaylı pay devirleri ile pay devri söz konusu olmasa dahi doğrudan veya dolaylı olarak yönetim kontrolünün devri sonucunu doğuran her türlü işlem ve esas sözleşme değişiklikleri Kurulun iznine tâbidir. İmtiyazlı payların devri her halükarda Kurul iznine tabidir.
+(3) Kurulun uygun görüş vermediği esas sözleşme değişiklikleri ile izin vermediği pay devirleri veya yönetim kontrolünün devri sonucunu doğuran işlemler hükümsüzdür. Bu hükme aykırı pay devirleri ortaklık pay defterine kaydolunmaz ve bu şekilde yapılan kayıtlar hüküm ifade etmez.
+(4) Pay devirlerinde, payları devralacak gerçek ve tüzel kişiler ile tüzel kişilerin önemli etkiye sahip ortaklarının da 8 inci maddede sayılan şartları taşımaları gerekir.

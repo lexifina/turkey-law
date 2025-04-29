@@ -1,0 +1,16 @@
+Tanımlar ve kısaltmalar
+MADDE 4 – (1) Bu Yönetmelikte geçen,
+a) Borsa: Anonim şirket şeklinde kurulan, sermaye piyasası araçları, kambiyo ve kıymetli madenler ile kıymetli taşların ve Kurulca uygun görülen diğer sözleşmelerin, belgelerin ve kıymetlerin serbest rekabet şartları altında kolay ve güvenli bir şekilde alınıp satılabilmesini sağlamak ve oluşan fiyatları tespit ve ilân etmek üzere kendisi veya piyasa işleticisi tarafından işletilen ve/veya yönetilen, alım-satım emirlerini sonuçlandıracak şekilde bir araya getiren veya bu emirlerin bir araya gelmesini kolaylaştıran, Kanuna uygun olarak yetkilendirilen ve düzenli faaliyet gösteren sistemleri ve pazar yerlerini,
+b) Elektronik Ürün Senedi Yönetmeliği: 12/11/2011 tarihli ve 28110 sayılı Resmî Gazete’de yayımlanan Elektronik Ürün Senedi Yönetmeliğini,
+c) İhraççı: Sermaye piyasası araçlarını ihraç eden, ihraç etmek üzere Kurula başvuruda bulunan veya sermaye piyasası araçları halka arz edilen tüzel kişileri ve Kanuna tabi yatırım fonlarını,
+ç) Kanun: 6362 sayılı Sermaye Piyasası Kanununu,
+d) Kurul: Sermaye Piyasası Kurulunu,
+e) (Ek:RG-6/3/2019-30706)(1) Merkezi Kaydi Sistem: Kaydi sermaye piyasası araçlarının ve bunlara ilişkin hakların elektronik ortamda, üyeler ve hak sahipleri itibarıyla izlendiği sistemi,
+f) Merkezi takas kuruluşu: Kanunun 77 ve 78 inci maddelerinde belirtilen hizmetleri yerine getiren merkezi takas kuruluşunu,
+g) MKK: Merkezi Kayıt Kuruluşu Anonim Şirketini,
+ğ) Önemli etkiye sahip ortak: Kanun uyarınca kurulmuş olan borsalar ve T.C. Başbakanlık Hazine Müsteşarlığı hariç sermaye veya oy haklarının doğrudan veya dolaylı olarak %5 veya daha fazlasını temsil eden paylar ile bu oranın altında olsa dahi yönetim kurullarına üye belirleme imtiyazı veren paylara sahip olan ortağı,
+h) TTK: 13/1/2011 tarihli ve 6102 sayılı Türk Ticaret Kanununu,
+ı) Sermaye piyasası araçları: Menkul kıymetler ve türev araçlar ile yatırım sözleşmeleri de dâhil olmak üzere Kurulca bu kapsamda olduğu belirlenen diğer sermaye piyasası araçlarını,
+i) Yatırım kuruluşu: Aracı kurumlar ile yatırım hizmeti ve faaliyetinde bulunmak üzere kuruluş ve faaliyet esasları Kurulca belirlenen diğer sermaye piyasası kurumlarını ve bankaları,
+j) Yönetici: Yönetim Kurulu Başkanı ve üyeleri, Genel Müdür ve yardımcıları ile birim müdürlerini ve birim müdürlerinin bağlı olduğu unvandaki kişileri,
+ifade eder.

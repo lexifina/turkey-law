@@ -1,0 +1,3 @@
+MKK’nın bilgi ve belge isteme ve inceleme yapma yetkisi
+MADDE 30 – (1) Kurul tarafından çıkarılan düzenlemeler çerçevesinde MKK, iş ve işlemleriyle ilgili gerekli gördüğü hususlarda üyelerinden bilgi ve belge istemeye ve inceleme yapmaya yetkilidir. Bilgi ve belge istenen taraflar, MKK’nın görev alanına giren hususlarda özel mevzuatlarında yer alan gizlilik ve sır saklamaya ilişkin hükümlere dayanarak bilgi vermekten imtina edemezler. Kurulca incelenmesi gereken hususların tespiti halinde bu durum Kurula bildirilir.
+(2) Kurul tarafından belirlenen ilkelere, genel ve özel nitelikli kararlara aykırı davranılması, Kanun ve bu Yönetmelik hükümlerine aykırılık sayılır.

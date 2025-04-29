@@ -1,0 +1,3 @@
+Sır saklama yükümlülüğü
+MADDE 18 – (1) MKK yöneticileri ve tüm personeli sıfat ve görevleri dolayısıyla öğrendikleri; MKK’ya ve MKK’yla ilişkisi olan ortaklık, kurum ve diğer her türlü gerçek ve tüzel kişilere ait sırların gizliliğine uymak ve sırları kanunla görevli ve yetkili kılınmış kişi ve mercilerden başkasına herhangi bir suretle açıklamamak, kendilerinin veya üçüncü kişilerin yarar veya zararına kullanmamakla yükümlüdürler. Bu yükümlülük, ilgililerin MKK’daki görevlerinden ayrılmalarından sonra da devam eder.
+(2) 34 üncü maddenin dördüncü fıkrası kapsamında yapılan işlem ve eylemler Kanun ve diğer kanunlarda yer alan sır saklama yükümlülüğüne ve gizlilik kurallarına aykırılık oluşturmaz.

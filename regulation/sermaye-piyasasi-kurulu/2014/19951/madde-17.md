@@ -1,0 +1,4 @@
+MKK teşkilatı ve personeli
+MADDE 17 – (1) Bu Yönetmelik ve ilgili mevzuatla MKK’ya verilmiş görevlerin yerine getirilmesi ve yetkilerin kullanılmasına ilişkin olarak MKK’nın teşkilatı, hizmet birimleri, organizasyonu, görev tanımları, yetki ve sorumlulukları ile bunların devri ve görevlilerin çalışma usul ve esasları Genel Müdürün teklifi üzerine Yönetim Kurulunca yürürlüğe konulacak teşkilat yönergesiyle belirlenir.
+(2) MKK’ca belirlenecek ve MKK’nın temel faaliyetlerinin yerine getirilmesi için görevlendirilen ihtisas personelinin yükseköğrenim kurumlarından mezun olmaları gerekir.
+(3) Personelin işe alınmaları, işten çıkarılmaları, nitelikleri, ilerleme ve yükselmeleri, performans ölçütleri, ödev, sorumluluk ve yükümlülükleri, uymaları gereken yasaklar ve disiplin konuları Genel Müdürün teklifi üzerine Yönetim Kurulunca yürürlüğe konulacak personel yönergesi ile belirlenir.
