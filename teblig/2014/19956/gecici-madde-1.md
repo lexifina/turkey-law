@@ -1,0 +1,2 @@
+Takasbank nezdinde mislen saklanan hisse senetleri
+GEÇİCİ MADDE 1 – (1) Takasbank nezdinde mislen saklanmakta olan hisse senetlerinin kayden izlenmesine Kurulca karar verilmesi halinde Kurul tarafından belirlenen süre içinde hak sahibinin kendisinin doğrudan veya MKK üyesi bir yatırım kuruluşu vasıtasıyla ilettiği aksi yönde bir talebi olmadıkça topluca ve aynı tarihte MKK tarafından kaydileştirilir ve MKK nezdinde hak sahipleri bazında kayden izlenmeye başlanır.

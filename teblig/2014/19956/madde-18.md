@@ -1,0 +1,5 @@
+Mali hakların kullanılması ve kaydı
+MADDE 18 – (1) İhraççılar mali hakların kullanılmasıyla ilgili olarak, içeriği MKK tarafından belirlenecek bilgileri, yetkili organ kararının alınmasını izleyen iş günü; bu kararın bir kamu otoritesinin onayını gerektirmesi halinde onayın verilmesi veya reddi kararını, kararın verilmesini izleyen iş günü, bu kararlara ilişkin ortaya çıkan değişiklikleri, en geç işleme başlamadan bir gün önce en seri şekilde MKK’ya bildirmekle yükümlüdür.
+(2) MKK, kaydi sermaye piyasası araçlarından doğan mali hakların kullanılması nedeni ile ortaya çıkan değişikliklerin kayıtlara yansıtılmasını sağlayacak tedbirleri alır.
+(3) Kaydi sermaye piyasası araçlarına ilişkin faiz, temettü tutarları, hak edildikleri ilk gün, ilgili hesaplara dağıtılmak üzere MKK’nın muhabir bankasına aktarılır. Bu tutarlar MKK’daki kayıtlar esas alınarak ilgili üye hesaplarına ve üyeler tarafından da hak sahiplerine derhal aktarılır.
+(4) İhraççı mali hakların zamanında bildirilmemesinden veya yanlış ya da eksik bildirilmesinden sorumludur.

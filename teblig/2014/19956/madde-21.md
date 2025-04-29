@@ -1,0 +1,2 @@
+Yabancı sermaye piyasası araçlarına ilişkin kayıtlar
+MADDE 21 – (1) Kurulun yabancı sermaye piyasası araçlarının ve depo sertifikalarının Kurul kaydına alınmasına ilişkin düzenlemeleri uyarınca ihraç edilen yabancı sermaye piyasası araçlarına ilişkin olarak bu Tebliğin ihraçta bildirime ilişkin 16 ncı, mali hakların kullanılması ve kaydına ilişkin 18 inci ve yönetimsel hakların kullanılmasına ilişkin 20 nci maddesinde belirlenmiş olandan farklı usul ve esasları belirlemeye Kurul yetkilidir.

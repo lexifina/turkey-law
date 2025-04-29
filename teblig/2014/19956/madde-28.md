@@ -1,0 +1,5 @@
+BEŞİNCİ BÖLÜM
+DİBS İşlemleri
+DİBS anapara ve faiz ödemeleri
+MADDE 28 – (1) DİBS anapara ve faiz ödemelerinde, MKK, üye bazında saklama bakiyesi bilgilerini TCMB’ye iletir. Bu bakiyelere tekabül eden ödeme tutarları TCMB tarafından ilgili üye hesaplarına aktarılır. EFT üyesi olmayan MKK üyelerine ait tutarlar ise TCMB tarafından MKK’nın muhabir bankasına aktarılır ve MKK tarafından sağlanan bakiye bilgileri doğrultusunda bu muhabir banka tarafından ilgili üyelere dağıtılır. Bu işlem için sözkonusu MKK üyelerinin muhabir banka nezdinde hesap açtırmış olmaları gerekir. Yatırımcılara ait DİBS’lere tekabül eden ödeme tutarlarının yatırımcı hesaplarına aktarılması üyeler tarafından gerçekleştirilir.
+(2) DİBS anapara ve faiz ödemesi işlemlerinde ödemenin yapılacağı günden bir gün önce, EMKT sisteminin kapanmasının ardından TCMB tarafından gönderilen mesajların alınmasını takiben, ödeme yapılacak DİBS hareketsizleştirilir. Bu andan sonra söz konusu kıymetler için MKK’da herhangi bir işlem yapılmaz. Ödenecek kıymetlerin MKK sistemindeki bakiyeleri ise, TCMB’ye yapılan bildirimi takiben itfa günü ödeme işlemi başlamadan önce silinir.

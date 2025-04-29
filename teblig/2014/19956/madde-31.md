@@ -1,0 +1,2 @@
+Diğer işlemler
+MADDE 31 – (1) DİBS’ler dışındaki işlemlere ilişkin Dördüncü Bölümde yer alan maddelerden rehin ve teminata ilişkin 22 nci madde, külli halefiyet yoluyla devirlerin kaydına ilişkin 25 inci madde, kaydi sermaye piyasası araçlarına ilişkin her türlü haciz ve tedbir işlemlerinin düzenlendiği 26 ncı madde, hakların üçüncü kişilere karşı ileri sürülebilmesine ilişkin 27 nci madde DİBS’lere ilişkin işlemlerde de uygulanır.
