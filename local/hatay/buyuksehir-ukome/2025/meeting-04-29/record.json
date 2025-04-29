@@ -1,0 +1,25 @@
+{
+  "number": "meeting-04-29",
+  "number_as_published": "meeting-04-29",
+  "year": 2025,
+  "title": "29.04.2025 NİSAN AYI UKOME KARARLAR",
+  "decision_date": "2025-04-29",
+  "source": "https://www.hatay.bel.tr/api/documents?menuItemId=4bc3bb41-7c7e-4536-9103-8c5932801e2c&page=3&pageSize=10&search=",
+  "official_document": "https://www.hatay.bel.tr/icerik/dosyalar/29-04-2025-nisan-ayi-ukome-kararlar.pdf",
+  "source_sha256": "dbc812a5373a99f6cf77d3dd4ef1a849da4b0c655ad8979d72ea69e7049d7082",
+  "issuer": "Hatay Büyükşehir Belediyesi UKOME",
+  "history_type": "metadata",
+  "text_status": "metadata-only: listing fields as published; complete decision text is in the linked official document, not transcribed",
+  "in_force": "2025-04-29",
+  "in_force_basis": "Decision date as printed in the official council listing: 29.04.2025; adoption date of the council decision; legal commencement not asserted",
+  "missing": [
+    "complete official decision text",
+    "official annexes"
+  ],
+  "law_text_complete": false,
+  "privacy_withheld": false,
+  "listing_label": "29.04.2025 NİSAN AYI UKOME KARARLAR",
+  "record_scope": "one official file of council decisions (meeting or month)",
+  "listing_date": "02.06.2025",
+  "official_page": "https://www.hatay.bel.tr/ukome-kararlari"
+}
