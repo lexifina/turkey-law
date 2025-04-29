@@ -1,0 +1,22 @@
+{
+  "kind": "norm",
+  "issuer": "Gelir İdaresi Başkanlığı",
+  "document_type": "ozelge",
+  "number": "17192610-120[GV-22-989]-126870",
+  "source_id": 38658,
+  "date": "2025-04-29",
+  "title": "Birleşmiş Milletler Dünya Gıda ve Tarım Organizasyonu ile Bursa Uludağ Üniversitesi Tarafından Yürütülen Projede Görev Alan Kişilere Yapılan Ödemelerin Vergilendirilmesi",
+  "source": "https://gib.gov.tr/mevzuat/kanun/433/ozelge/38658",
+  "related_law": "193 sayılı GELİR VERGİSİ KANUNU",
+  "source_api": "https://gib.gov.tr/api/gibportal/mevzuat/ozelge/list",
+  "source_listing": "evidence/list/2026-11-16/ozelge-p008.json",
+  "source_listing_sha256": "292c126217cc32c3ccfa57495ce433f89ef8db5e75fa1946d5819a76f81aff4d",
+  "source_sha256": "b2bfd9fa9dc3ddb33ed49f9821a534e14b1f40304e32a5c54122f8523050a41f",
+  "text_status": "as-enacted",
+  "text_file": "metin.md",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  }
+}
