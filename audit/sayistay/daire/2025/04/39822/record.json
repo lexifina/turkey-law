@@ -1,0 +1,17 @@
+{
+  "kind": "decision",
+  "issuer": "Sayıştay 5. Dairesi",
+  "number": "697",
+  "decision_date": "2025-04-29",
+  "source_id": 39822,
+  "chamber": "5",
+  "ilam_number": "86",
+  "item_number": 2,
+  "public_body_type": "Belediyeler ve Bağlı İdareler",
+  "account_year": 2023,
+  "subject": "Personel Mevzuatı ile İlgili Kararlar",
+  "source": "https://www.sayistay.gov.tr/KararlarDaire/Detay/39822/",
+  "source_sha256": "d2f786e21181ac3a5c244b00e1ab6b0bc5eaf85769299a304b6756daada9740a",
+  "text_status": "as-enacted",
+  "text_file": "metin.md"
+}
