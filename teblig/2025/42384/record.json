@@ -1,0 +1,37 @@
+{
+  "checked_on": "2026-11-15",
+  "commencement_quote": "Bu Tebliğ 1/1/2025 tarihinden geçerli olmak üzere yayımı tarihinde yürürlüğe girer",
+  "date_gazette": "32885",
+  "date_quote": "Bu Tebliğ 1/1/2025 tarihinden geçerli olmak üzere yayımı tarihinde yürürlüğe girer",
+  "first_law": null,
+  "gazette": "32885",
+  "history": "current-text",
+  "images": {
+    "deferred": 0,
+    "omitted": 0,
+    "referenced": 0,
+    "source": 0
+  },
+  "in_force": "2025-04-29",
+  "in_force_basis": "Own commencement clause: Bu Tebliğ 1/1/2025 tarihinden geçerli olmak üzere yayımı tarihinde yürürlüğe girer",
+  "issuer": "Tarım ve Orman Bakanlığı",
+  "issuer_catalog_evidence": [
+    {
+      "evidence": "issuer-637-0.json",
+      "id": "637",
+      "label": "Tarım ve Orman Bakanlığı",
+      "listing_url": "https://www.mevzuat.gov.tr/Anasayfa/MevzuatDatatable?MevzuatTur=Teblig&KurumId=637&start=0&length=100"
+    }
+  ],
+  "issuer_slug": "tarim-ve-orman-bakanligi",
+  "kind": "communique",
+  "label": "oldest version available",
+  "notes": [],
+  "published": "2025-04-29",
+  "source": "https://www.mevzuat.gov.tr/anasayfa/MevzuatFihristDetayIframe?MevzuatTur=9&MevzuatNo=42384&MevzuatTertip=5",
+  "source_bytes": 207752,
+  "source_id": "9.5.42384",
+  "source_sha256": "5cc3b82f5ec62b2b66273264a4e5264c7e3d6137d0fcfb32189c82470349de27",
+  "title": "ARAŞTIRMA VE GELİŞTİRME DESTEK PROGRAMINA İLİŞKİN TEBLİĞ (TEBLİĞ NO: 2025/10)",
+  "word_count": 6140
+}

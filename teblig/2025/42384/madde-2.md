@@ -1,0 +1,2 @@
+Kapsam
+MADDE 2- (1) Bu Tebliğ, 28/8/2024 tarihli ve 8859 sayılı Cumhurbaşkanı Kararı ile yürürlüğe konulan 2025-2027 Yıllarında Yapılacak Bitkisel Üretime Yönelik Desteklemeler ile Diğer Bazı Tarımsal Desteklemelere İlişkin Kararda yer alan tarımsal araştırma ve geliştirmenin desteklenmesi kapsamında, üniversiteler, sivil toplum, meslek ve çiftçi kuruluşları, TÜBİTAK Ar-Ge birimleri ve özel sektör tarafından hazırlanan projelerin Ar-Ge Destek Programı çerçevesinde desteklenmesine ilişkin hususları kapsar.
