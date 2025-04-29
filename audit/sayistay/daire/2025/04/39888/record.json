@@ -1,0 +1,17 @@
+{
+  "kind": "decision",
+  "issuer": "Sayıştay 1. Dairesi",
+  "number": "10961",
+  "decision_date": "2025-04-29",
+  "source_id": 39888,
+  "chamber": "1",
+  "ilam_number": "95",
+  "item_number": 2,
+  "public_body_type": "Belediyeler ve Bağlı İdareler",
+  "account_year": 2022,
+  "subject": "Personel Mevzuatı ile İlgili Kararlar",
+  "source": "https://www.sayistay.gov.tr/KararlarDaire/Detay/39888/",
+  "source_sha256": "bb8083119e1df0bbf652cf7486cc34370ffd902db604149be95e3c276f00ed80",
+  "text_status": "as-enacted",
+  "text_file": "metin.md"
+}
