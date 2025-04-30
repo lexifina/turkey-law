@@ -1,0 +1,28 @@
+{
+  "number": "month-04",
+  "year": 2025,
+  "month": 4,
+  "title": "2025 YILI NİSAN AYI MECLİS KARAR ÖZETLERİ",
+  "decision_date": null,
+  "index_date": "2025-04-30",
+  "date_precision": "month",
+  "period": "Nisan 2025",
+  "source": "https://www.kendirli.bel.tr/karar/2025-yili-nisan-ayi-meclis-karar-ozetleri",
+  "official_page": "https://www.kendirli.bel.tr/karar/2025-yili-nisan-ayi-meclis-karar-ozetleri",
+  "official_document": "http://www.kendirli.bel.tr/uploads/files/212-2025%20Nisan%20Ay%C4%B1%20Meclis%20Karar%20%C3%96zetleri.pdf",
+  "source_sha256": "4b25ac81eefce91d78a1ef8a7e5f3b94eb07058010651a4da41f8063143e3c58",
+  "issuer": "Kendirli Belediye Meclisi",
+  "history_type": "metadata",
+  "text_status": "metadata-only: listing fields as published; the decisions are in the linked official document(s) or page, not transcribed",
+  "in_force": "2025-04-30",
+  "in_force_basis": "The official listing gives only the month of this official file (Nisan 2025); date set to the last day of that month (turkey-law date convention for month-only sources); exact adoption dates are in the linked official document; legal commencement not asserted",
+  "missing": [
+    "decision numbers, dates and subjects",
+    "complete official decision text",
+    "official annexes"
+  ],
+  "law_text_complete": false,
+  "privacy_withheld": false,
+  "listing_label": "2025 YILI NİSAN AYI MECLİS KARAR ÖZETLERİ",
+  "record_scope": "one official file of council decisions (meeting or month)"
+}
