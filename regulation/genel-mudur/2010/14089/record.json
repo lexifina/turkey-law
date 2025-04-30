@@ -1,0 +1,73 @@
+{
+  "source_id": "7.5.14089",
+  "kind": "regulation",
+  "register_kind": "Kurum ve Kuruluş Yönetmelikleri",
+  "title": "POSTA VE TELGRAF TEŞKİLATI GENEL MÜDÜRLÜĞÜ PERSONELİ GÖREVDE YÜKSELME VE UNVAN DEĞİŞİKLİĞİ YÖNETMELİĞİ",
+  "number": "14089",
+  "issuer": "Genel Müdür",
+  "issuer_slug": "genel-mudur",
+  "path": "regulation/genel-mudur/2010/14089",
+  "source": "https://www.mevzuat.gov.tr/anasayfa/MevzuatFihristDetayIframe?MevzuatTur=7&MevzuatNo=14089&MevzuatTertip=5",
+  "source_sha256": "ad29d3f9a2b9cdfab43b64a2222f9ec4863337bf76f60a22f31d2457faff40d2",
+  "source_bytes": 81152,
+  "published": "2010-07-10",
+  "gazette": "27637",
+  "in_force": "2025-04-30",
+  "in_force_basis": "latest Resmî Gazete date printed in the source amendment notes/table (\"30/04/2025\") for the current consolidated text",
+  "date_evidence": [
+    [
+      "2025-04-30",
+      "30/04/2025",
+      "Resmî Gazete date in the source amendment table"
+    ],
+    [
+      "2024-05-09",
+      "9/5/2024",
+      "Resmî Gazete date in the source amendment table"
+    ],
+    [
+      "2014-02-22",
+      "RG-22/2/2014",
+      "Resmî Gazete date printed in the source amendment note"
+    ],
+    [
+      "2014-02-22",
+      "22/2/2014",
+      "Resmî Gazete date in the source amendment table"
+    ],
+    [
+      "2012-08-15",
+      "RG-15/8/2012",
+      "Resmî Gazete date printed in the source amendment note"
+    ],
+    [
+      "2012-08-15",
+      "15/8/2012",
+      "Resmî Gazete date in the source amendment table"
+    ],
+    [
+      "2012-04-12",
+      "RG-12/4/2012",
+      "Resmî Gazete date printed in the source amendment note"
+    ],
+    [
+      "2012-04-12",
+      "12/4/2012",
+      "Resmî Gazete date in the source amendment table"
+    ]
+  ],
+  "commencement_clauses": [
+    "Bu Yönetmelik yayımı tarihinde yürürlüğe girer"
+  ],
+  "history": "current-text",
+  "label": "oldest version available",
+  "checked_on": "2026-11-15",
+  "word_count": 3116,
+  "text_status": "current-consolidated",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  },
+  "completeness": "html-text-complete"
+}

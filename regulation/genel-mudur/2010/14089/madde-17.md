@@ -1,0 +1,6 @@
+Sınav kurulu
+MADDE 17 – (1) (Değişik:RG-12/4/2012-28262) Sınav kurulu, merkez teşkilatında; Genel Müdürün görevlendireceği Genel Müdür Yardımcısının veya İnsan Kaynakları Daire Başkanının başkanlığında, (Değişik ibare:RG-22/2/2014-28921) en az bir tanesi insan kaynakları birimi sorumlusu olmak üzere toplam beş üyeden, taşra teşkilatında ise; Başmüdürün başkanlığında insan kaynakları birimi sorumlusu ile Başmüdürün belirleyeceği üç kişi olmak üzere toplam beş üyeden oluşur. Aynı usulle yedek üyeler de belirlenir.
+(2) Taşra teşkilatında, Genel Müdürlükçe personel görevlendirilmek suretiyle sınav kurulu oluşturulabilir.
+(3) Sınav kurulunu oluşturan üyeler görevde yükselme sınavına alınacak personelden öğrenim ve ihraz ettikleri unvanlar itibariyle daha düşük seviyede olamazlar.
+(4) Sınav kurulunun başkan ve üyeleri; eşlerinin, üçüncü dereceye kadar (bu derece dahil) kan ve ikinci dereceye kadar (bu derece dahil) kayın hısımlarının katıldıkları sınavda görev alamazlar; aksi halde sınav kurulu üyelikleri sona erer, yerine yedek üye katılır. (Ek cümle:RG-22/2/2014-28921) Sınav kurulu, üye tamsayısı ile toplanır ve kararlar oy çokluğu ile alınır.
+(5) (Değişik:RG-12/4/2012-28262) Sınav kurulunun sekretarya hizmetleri insan kaynakları birimlerince yürütülür.

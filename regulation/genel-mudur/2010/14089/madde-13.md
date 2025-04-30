@@ -1,0 +1,4 @@
+Duyuru ve başvuru
+MADDE 13 – (Başlığı ile birlikte değişik:RG-22/2/2014-28921)
+(1) Görevde yükselme suretiyle atama yapılacak kadro veya pozisyonlar yazılı sınavlardan en az bir ay önce duyurulur. Başvuru süresi, 5 günden az olmamak şartıyla Sınav Kurulunca belirlenir. Sınav Kurulunca, asıl aday sayısını aşmamak kaydıyla tespit edilecek yedek aday sayısı duyuruda belirtilir. İlan edilen kadro veya pozisyonlar için belirlenen başvuru tarihinin son günü itibarıyla aranan nitelikleri taşıyan personel, başvuru şartlarını taşıdığı farklı unvanlı kadro veya pozisyonlardan sadece biri için duyuruda belirtilen şekilde başvuruda bulunabilir. Aylıksız izinde bulunanlar dâhil olmak üzere, ilgili mevzuatı uyarınca verilen izinleri kullanmakta olanların da sınava katılmaları mümkündür.
+(2) Yapılan başvurular insan kaynakları birimlerince incelenerek, aranan şartları taşıyanlar internet sitesinde ilan edilir.
