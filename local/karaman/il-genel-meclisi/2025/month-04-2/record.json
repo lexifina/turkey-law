@@ -1,0 +1,28 @@
+{
+  "number": "month-04-2",
+  "year": 2025,
+  "month": 4,
+  "title": "04 Nisan",
+  "decision_date": null,
+  "index_date": "2025-04-30",
+  "date_precision": "month",
+  "period": "Nisan 2025",
+  "source": "https://www.karamanozelidare.gov.tr/il-genel-meclisi-karar-ozetleri",
+  "official_page": null,
+  "official_document": "https://www.karamanozelidare.gov.tr/kurumlar/karamanozelidare.gov.tr/04-Meclis/03-Meclis-KararOzet/2025/NISAN-AYI-KARAR-OZETLERI.doc",
+  "source_sha256": "83223a7c744b0a6c849394423bfad1ed63b371a4c37e03e465313db15cf879ec",
+  "issuer": "Karaman İl Genel Meclisi",
+  "history_type": "metadata",
+  "text_status": "metadata-only: listing fields as published; the decisions are in the linked official document(s) or page, not transcribed",
+  "in_force": "2025-04-30",
+  "in_force_basis": "The official listing gives only the month of this official file (Nisan 2025); date set to the last day of that month (turkey-law date convention for month-only sources); exact adoption dates are in the linked official document; legal commencement not asserted",
+  "missing": [
+    "decision numbers, dates and subjects",
+    "complete official decision text",
+    "official annexes"
+  ],
+  "law_text_complete": false,
+  "privacy_withheld": false,
+  "listing_label": "04 Nisan",
+  "record_scope": "one official file of council decisions (meeting or month)"
+}
