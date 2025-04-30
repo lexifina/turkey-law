@@ -1,0 +1,29 @@
+{
+  "number": "60",
+  "number_as_published": "2025/60",
+  "year": 2025,
+  "month": 4,
+  "title": "council decision",
+  "decision_date": null,
+  "index_date": "2025-04-30",
+  "date_precision": "month",
+  "period": "Nisan 2025",
+  "source": "https://www.haliliye.bel.tr/icerik/7456/39/nisan-2025",
+  "official_page": "https://www.haliliye.bel.tr/icerik/7456/39/nisan-2025",
+  "official_document": null,
+  "source_sha256": "d24345cf208717c0e6762630e7a55ab4ed9a3f4766a2c6ef910c719ca1a8df18",
+  "issuer": "Haliliye Belediye Meclisi",
+  "history_type": "metadata",
+  "text_status": "metadata-only: summary appears to concern individual persons; official page only",
+  "in_force": "2025-04-30",
+  "in_force_basis": "The official listing gives only the month of this decision (Nisan 2025); date set to the last day of that month (turkey-law date convention for month-only sources); exact adoption dates are in the linked official document; legal commencement not asserted",
+  "missing": [
+    "exact decision date",
+    "complete official decision text",
+    "official annexes"
+  ],
+  "law_text_complete": false,
+  "privacy_withheld": true,
+  "listing_item": "NİSAN 2025",
+  "record_scope": "one council decision summary (Karar Özeti) as published"
+}
