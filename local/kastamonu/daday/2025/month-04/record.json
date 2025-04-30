@@ -1,0 +1,30 @@
+{
+  "number": "month-04",
+  "year": 2025,
+  "month": 4,
+  "title": "Nisan 2025 Meclis Kararları",
+  "decision_date": null,
+  "index_date": "2025-04-30",
+  "date_precision": "month",
+  "period": "Nisan 2025",
+  "source": "https://www.daday.bel.tr/wp-json/wp/v2/posts?categories=53&per_page=100&page=1&_fields=id,date,link,title",
+  "official_page": "https://www.daday.bel.tr/nisan-2025-meclis-kararlari.html",
+  "official_document": "https://www.daday.bel.tr/nisan-2025-meclis-kararlari.html",
+  "source_sha256": "065c18bced4359ebc90553d172a7c8bacfe81f0a5e294f55952465a73281a561",
+  "issuer": "Daday Belediye Meclisi",
+  "history_type": "metadata",
+  "text_status": "metadata-only: listing fields as published; the decisions are in the linked official document(s) or page, not transcribed",
+  "in_force": "2025-04-30",
+  "in_force_basis": "The official listing gives only the month of this official file (Nisan 2025); date set to the last day of that month (turkey-law date convention for month-only sources); exact adoption dates are in the linked official document; legal commencement not asserted",
+  "missing": [
+    "decision numbers, dates and subjects",
+    "complete official decision text",
+    "official annexes"
+  ],
+  "law_text_complete": false,
+  "privacy_withheld": false,
+  "listing_label": "Nisan 2025 Meclis Kararları",
+  "record_scope": "one official file of council decisions (meeting or month)",
+  "post_date": "2025-06-13T20:20:04",
+  "document_note": "the decisions are published on the linked official page; not transcribed here"
+}
