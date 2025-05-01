@@ -1,0 +1,22 @@
+Tanımlar
+MADDE 4 – (1)(Değişik:RG-29/4/2015-29341) Bu Yönetmelikte geçen;
+a) Analog takograf cihazı: 21/5/2010 tarihli ve 27587 sayılı Resmî Gazete’de yayımlanan Uluslararası Karayolu Taşımacılığı Yapan Araçlarda Kullanılan Takograf Cihazları Hakkında Yönetmeliğin EK-I’ine uygun takograf cihazını,
+b) Bakanlık: Bilim, Sanayi ve Teknoloji Bakanlığını,
+c) Damga: Üzerinde damga yapmaya yetkili yerlerin bilgilerinin yer aldığı; yakma, asitle aşındırma, yapıştırma, basma, vurma veya tele takılan kurşunun sıkılması suretiyle yapılan veya plastik malzemeden imal edilmiş olan veya kendinden yapışma özelliğine sahip, çıkartıldığında tahrip olan özel olarak hazırlanmış etiketi veya elektronik olarak emniyet tedbirlerinin alınmasını sağlayan aracı,
+ç) Dijital takograf cihazı: Uluslararası Karayolu Taşımacılığı Yapan Araçlarda Kullanılan Takograf Cihazları Hakkında Yönetmeliğin EK-IB’sine uygun takograf cihazını,
+d) Elektronik takograf cihazı: Uluslararası Karayolu Taşımacılığı Yapan Araçlarda Kullanılan Takograf Cihazları Hakkında Yönetmeliğin EK-I veya EK-IB’sinde yer alan gereklilikleri karşılamayan takograf cihazını,
+e) İl müdürlüğü: Bakanlık il müdürlüklerini,
+f) Kalibrasyon: Takograf cihazının montajı, tamiri veya yeniden ayarlanmasını müteakip ilgili teknik düzenlemesine uygun çalışıp çalışmadığının güncellenmesi veya doğrulanmasını,
+g) Kanun: 3516 sayılı Ölçüler ve Ayar Kanununu,
+ğ) Mekanik dönüştürücü: Dijital takograf cihazı kullanan veya kullanacak olan araçların şanzımanına hareket sensörünün doğrudan bağlanmasının mümkün olmadığı durumlarda, bağlantıya imkan sağlayan ve TSE K 246 Belgelendirme Kriterine uygun dönüştürücüyü,
+h) Montaj: Takograf cihazının bir araca takılması işlemini,
+ı) Montaj etiketi: Takograf cihazının kalibrasyonunun yapılmasını müteakip, araç sürücü kabini içerisine ve kolayca görünebilecek bir yere servis tarafından iliştirilecek olan ve takograf cihazı kalibrasyon belgesi ile aynı seri numarasını haiz, taklit edilmeyi önleyici hologram bulunan etiketi,
+i) Muayene: Takograf cihazının bu Yönetmelikte belirtildiği şekilde kontrolü ile gerektiğinde kalibrasyonunun yapılması işlemlerinin tamamını,
+j) Servis: 14/2/2012 tarihli ve 28204 sayılı Resmî Gazete’de yayımlanan Takograf Cihazları Servis Hizmetleri Hakkında Yönetmelik hükümlerine göre Bakanlık tarafından belgelendirilen gerçek veya tüzel kişileri,
+k) Şirket: Kiralık, ücret karşılığı veya kendi hesabına karayolunda taşımacılıkla meşgul olan; herhangi bir gerçek kişi, tüzel kişi, kâr amaçlı olsun olmasın kendi tüzel kişiliği olan veya bu tür kişiliğe sahip bir otoriteye bağımlı olan kuruluşu,
+l) Takograf cihazı: Analog ve dijital takograf cihazlarını,
+m) Tamir: Hareket sensörünün veya araç ünitesinin güç kaynağı ile bağlantısının kesilmesi veya diğer takograf cihazı aksamından ayrılması veya açılmasını gerektirecek servisler tarafından yapılan herhangi bir tamir işlemini,
+n) Tip onay belgesi: Analog ve dijital takograf cihazları için Uluslararası Karayolu Taşımacılığı Yapan Araçlarda Kullanılan Takograf Cihazları Hakkında Yönetmeliğe göre alınmış AT tip onay belgesini,
+o) Üretici etiketi: Takograf cihazının ilgili teknik düzenlemesinde belirtildiği şekilde cihazla ilgili bilgiler içeren, okunaklı ve tahrip edilmeden silinemez veya sökülemez bir şekilde tasarlanmış ve takograf cihazının üreticisi tarafından takograf cihazına iliştirilmiş açıklayıcı etiketi,
+ö) (Ek:RG-16/11/2017-30242) Takograf modülü: Bakanlık tarafından oluşturulan veri tabanı yazılımı içerisinde takograf hizmetlerine ilişkin belgelendirme, denetim, eğitim işlemlerinin giriş ve takibinin yapıldığı ve takograf cihazı kalibrasyon belgelerinin düzenlenerek kayıt altına alındığı çevrimiçi yazılım sistemini,
+ifade eder.

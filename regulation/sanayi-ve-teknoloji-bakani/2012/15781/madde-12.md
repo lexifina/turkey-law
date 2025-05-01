@@ -1,0 +1,5 @@
+Şikayet muayenesi, tespit edilen uygunsuzluklar ve yapılacak işlemler
+MADDE 12 – (1) Şikayet muayenesi; takograf cihazının doğru çalışıp çalışmadığını tespit etmek üzere, şirketin veya diğer bir kimsenin yazılı başvurusu üzerine yapılan muayenedir.
+(2) Şirket tarafından yapılan şikayette, başvuru servise yapılır ve periyodik muayene işlemleri uygulanır.
+(3) (Değişik:RG-16/11/2017- 30242) Diğer kişilerin yapacağı şikâyette, başvuru; başvuru sahibinin adı, soyadı, T.C. kimlik numarası ve adres bilgilerini içerecek şekilde il müdürlüğüne yapılır. İl müdürlüğü şikâyete konu aracı tespit ettiği durumlarda gerekmesi halinde yetkili bir serviste şikâyet edilen takograf cihazını periyodik muayene işlemine tabi tutar. Muayene ücretleri, olumsuzluk tespit edilenlerde şirket, edilmeyenlerde 19 uncu maddenin birinci fıkrası dikkate alınmaksızın şikâyet başvurusu yapan tarafından servise ödenir.
+(4) Takograf cihazının piyasaya arzıyla ilgili bir şikayette, başvuru il müdürlüklerine yapılır. İl müdürlüğü tarafından, mevzuata aykırı bir durumun tespiti halinde gerekli yasal işlemler yapılır.
