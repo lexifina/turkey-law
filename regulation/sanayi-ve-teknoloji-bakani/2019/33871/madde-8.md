@@ -1,0 +1,7 @@
+Periyodik muayene
+MADDE 8 – (1) Periyodik muayene; belli sürelerde olmak üzere ölçü aletleri için servis tarafından yapılan genel muayenedir.
+(2) (Değişik:RG-26/6/2020-31167) Ölçü aletlerinin periyodik muayene süreleri Ek-9’da belirtilmiştir. Periyodik muayene geçerlilik süreleri muayene etiketi üzerinde yer alır. Periyodik muayene süresi, tarih olarak değil yıl olarak izlenir ve yıl içerisinde hangi tarihte damgalanmış olursa olsun damgalandığı yıl birinci yıl olarak sayılır. Periyodik muayene süresinin hesaplanmasında muayene raporunda belirtilen damga yılı veya ölçü aleti üzerindeki damgada bulunan yıl esas alınır.
+(3) Ölçü aletlerinin periyodik muayene müracaatı periyodik muayene süresinin dolduğu yılı takip eden yılın ocak ayının başından şubat ayının son gününe kadar servise başvurularak yapılır. Şubat ayının son gününün tatile rastlaması halinde müracaat, sonraki ilk iş günü de yapılabilir. Ölçü aleti muayene ücretinin başvurudan önce yatırılmış olması gerekir. Muayene ücretinin yatırılmaması durumunda müracaat geçersiz sayılır.
+(4) Periyodik muayene sonucunda doğru çalışmadığı tespit edilen ölçü aletlerine herhangi bir cezai işlem uygulanmaz.
+(5) Periyodik muayene için zamanında müracaat etmeyenler hakkında, daha sonra müracaat etmiş olsalar dahi, o ölçü aletinin kullanımda olduğunun tespit edilmesi halinde, damga süresi dolmuş ölçü aleti kullanma fiilinden dolayı, Kanun hükümlerine göre Bakanlıkça gerekli yaptırımlar uygulanır.
+(6) Periyodik muayene ücreti kullanıcı tarafından servise ödenir.

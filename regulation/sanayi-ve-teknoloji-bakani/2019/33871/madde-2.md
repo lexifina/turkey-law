@@ -1,0 +1,2 @@
+Kapsam
+MADDE 2 – (1) Bu Yönetmelik, su dışındaki sıvıların miktarlarının sürekli ve dinamik ölçümü için ölçme sistemlerini, sıkıştırılmış doğal gaz (CNG) ölçme sistemlerini, akaryakıt hacim ölçek kaplarını, motorlu taşıt lastiklerinin hava basıncı ölçümünde kullanılan cihazları, hassas kütle ölçülerini (Mülga ibare:RG-27/12/2019-30991)(1) (…), 5 kg'dan yukarı kütle ölçülerini, demiryolu yük ve sarnıçlı vagonlarını, maksimum kapasitesi 2000 kg’ın üzerinde olan otomatik olmayan tartı aletlerini ve aks kantarlarını kapsar.
