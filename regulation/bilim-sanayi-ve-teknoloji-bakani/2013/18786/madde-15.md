@@ -1,0 +1,4 @@
+Kontrol ve denetim
+MADDE 15 – (1) İl Müdürlüğü, bu Yönetmelik hükümlerinin yerine getirilip getirilmediğini kontrol etmek için yılda en az bir kez muayene servislerinin faaliyetleri ile bunlara ait evrak ve kayıtları, kontrol ve denetime yetkilidir. İl Müdürlükleri yaptıkları denetimlerin sonuçlarını on beş gün içerisinde Bakanlığa bildirir. Bakanlık gerekli gördüğü durumlarda muayene servislerini denetler.
+(2) Muayene servisi, denetimle ilgili bilgi ve belgeleri, istenildiğinde denetimde bulunan kişilere göstermek, incelenmesine yardımcı olmak, istenilen bilgileri gerçeğe uygun, eksiksiz olarak vermek ve doğru beyanda bulunmakla yükümlüdür.
+(3) Yapılan denetimlerde, bu Yönetmelik hükümlerine veya yürürlükteki mevzuata aykırı bir durumun tespit edilmesi halinde, ilgili mevzuat hükümlerine göre işlem yapılır.

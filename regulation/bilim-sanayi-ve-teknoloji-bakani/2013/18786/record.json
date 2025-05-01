@@ -1,0 +1,93 @@
+{
+  "source_id": "7.5.18786",
+  "kind": "regulation",
+  "register_kind": "Kurum ve Kuruluş Yönetmelikleri",
+  "title": "TAKSİMETRE MUAYENE YÖNETMELİĞİ",
+  "number": "18786",
+  "issuer": "Bilim, Sanayi ve Teknoloji Bakanı",
+  "issuer_slug": "bilim-sanayi-ve-teknoloji-bakani",
+  "path": "regulation/bilim-sanayi-ve-teknoloji-bakani/2013/18786",
+  "source": "https://www.mevzuat.gov.tr/anasayfa/MevzuatFihristDetayIframe?MevzuatTur=7&MevzuatNo=18786&MevzuatTertip=5",
+  "source_sha256": "7ad1ed4e0b138932ccd89962d572792602d0175b9cf33765181bb0cedac68248",
+  "source_bytes": 82061,
+  "published": "2013-09-03",
+  "gazette": "28754",
+  "in_force": "2025-05-01",
+  "in_force_basis": "latest Resmî Gazete date printed in the source amendment notes/table (\"RG-1/5/2025\") for the current consolidated text",
+  "date_evidence": [
+    [
+      "2025-05-01",
+      "RG-1/5/2025",
+      "Resmî Gazete date printed in the source amendment note"
+    ],
+    [
+      "2025-05-01",
+      "1/5/2025",
+      "Resmî Gazete date in the source amendment table"
+    ],
+    [
+      "2022-05-28",
+      "RG-28/5/2022",
+      "Resmî Gazete date printed in the source amendment note"
+    ],
+    [
+      "2022-05-28",
+      "28/5/2022",
+      "Resmî Gazete date in the source amendment table"
+    ],
+    [
+      "2021-09-14",
+      "RG-14/9/2021",
+      "Resmî Gazete date printed in the source amendment note"
+    ],
+    [
+      "2021-09-14",
+      "14/9/2021",
+      "Resmî Gazete date in the source amendment table"
+    ],
+    [
+      "2021-02-05",
+      "RG-5/2/2021",
+      "Resmî Gazete date printed in the source amendment note"
+    ],
+    [
+      "2021-02-05",
+      "5/2/2021",
+      "Resmî Gazete date in the source amendment table"
+    ],
+    [
+      "2019-10-11",
+      "RG-11/10/2019",
+      "Resmî Gazete date printed in the source amendment note"
+    ],
+    [
+      "2019-10-11",
+      "11/10/2019",
+      "Resmî Gazete date in the source amendment table"
+    ],
+    [
+      "2019-02-19",
+      "19/2/2019",
+      "Resmî Gazete date in the source amendment table"
+    ],
+    [
+      "2016-05-15",
+      "RG-15/5/2016",
+      "Resmî Gazete date printed in the source amendment note"
+    ]
+  ],
+  "history": "current-text",
+  "label": "oldest version available",
+  "checked_on": "2026-11-15",
+  "word_count": 5397,
+  "text_status": "current-consolidated",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  },
+  "source_links": [
+    "7.5.18786%20EK.doc"
+  ],
+  "completeness": "html-text-complete; linked annexes not fetched"
+}

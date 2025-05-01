@@ -1,0 +1,2 @@
+Muayene servis hizmeti verilmeyen iller
+GEÇİCİ MADDE 1 – (1) Bu Yönetmelik hükümlerine göre muayene servis hizmeti verilmeyen illerde bu hizmetler, İl Müdürlükleri veya diğer illerde yetkilendirilen muayene servisleri tarafından yürütülür. Muayene hizmetlerinin İl Müdürlüğü tarafından yürütülmesi durumunda muayene işlemleri bu Yönetmelik hükümlerine göre, damgalama işlemleri ise Ölçü ve Ölçü Aletleri Damga Yönetmeliği hükümlerine göre yürütülür.

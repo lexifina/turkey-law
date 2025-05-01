@@ -1,0 +1,2 @@
+Muayenesi yapılan taksimetreler
+GEÇİCİ MADDE 2 – (1) Bu Yönetmeliğin yürürlük tarihinden önce muayenesi yapılan taksimetrelerin muayene sürelerinin takibinde, 24/7/1994 tarihli ve 22000 sayılı Resmî Gazete’de yayımlanan Ölçü ve Ölçü Aletleri Muayene Yönetmeliğinin 225 inci madde hükümlerine göre İl Müdürlükleri tarafından düzenlenen ve takside muhafaza edilen taksimetre sicil ve muayene kartındaki tarihler esas alınır.

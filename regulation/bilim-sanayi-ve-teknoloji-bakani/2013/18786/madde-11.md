@@ -1,0 +1,8 @@
+Şikâyet muayenesi
+MADDE 11 – (1) Taksimetrenin doğru çalışıp çalışmadığını tespit etmek üzere, kullanıcının, diğer bir kişi veya kuruluşun yazılı başvurusu üzerine yapılan muayenedir.
+(2) Kullanıcı tarafından yapılan şikâyette, başvuru muayene servislerine yapılır ve muayenesi, 9 uncu maddede belirtilen periyodik muayene hükümlerine göre gerçekleştirilir. Muayene ücreti, şikâyette bulunan kullanıcı tarafından karşılanır.
+(3) Kullanıcısı dışında diğer kişilerce yapılacak şikâyette, kullanıcıya önceden haber verilmez. Başvuru ve muayene işlemleri aşağıdaki şekilde yapılır.
+a) Başvurular; başvuruyu yapanın adı, soyadı, T.C. kimlik numarası, adres bilgileri ile birlikte şikâyete konu taksimetrenin kullanıldığı taksinin plaka numarasını içeren bir dilekçe ile İl Müdürlüğüne yapılır. Ayrıca diğer kurum ve kuruluşlara yapılan başvurular, gereğinin yapılması için İl Müdürlüğüne gönderilir.
+b) (Değişik:RG-28/5/2022-31849) Şikâyet muayenesi, uygun görülen bir muayene servisinde veya mahalde 9 uncu maddede belirtilen periyodik muayene hükümleri de dikkate alınarak yapılır ve Ek-4’te yer alan form üç nüsha olarak il müdürlüğü tarafından düzenlenir. Muayenenin, bir muayene servisinde yapılması durumunda ilgili form muayene servisi yetkilisi tarafından da imzalanır. Bu durumda formun bir nüshası il müdürlüğünde kalmak üzere bir nüshası muayene servisine teslim edilir, bir nüshası da başvuru sahibine iletilir.
+c) Muayene sonucu uygun bulunmayan taksimetreler için İl Müdürlüğünce gerekli yasal işlem tesis edilir.
+ç) İl Müdürlüğü şikâyet muayenelerinde muayene servislerini kullanabilir. Bu muayene için muayene servisleri tarafından Bakanlık, İl Müdürlüğü, kullanıcı veya şikâyet sahibinden ücret talep edilemez.

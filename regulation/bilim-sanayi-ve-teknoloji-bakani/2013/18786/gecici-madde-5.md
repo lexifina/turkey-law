@@ -1,0 +1,5 @@
+Mevcut muayenelere ilişkin geçiş işlemleri
+GEÇİCİ MADDE 5- (Ek:RG-28/5/2022-31849)
+(1) Bu maddenin yayımı tarihi itibarıyla geçerliliği devam eden metrolojik muayene belgeleri, ilgili aracın 2023 yılı içerisindeki ilk araç muayenesi tarihine kadar geçerlidir.
+(2) Bu maddenin yayımı tarihinden 20 iş günü öncesine kadar olan dönemde, tamir, ayar veya tarife değişikliği yapılarak kelebek mühür veya sitikır mühür uygulanmış durumdaki taksimetrelerin muayeneleri bu maddenin yayımı tarihinden itibaren 20 iş günü içerisinde tamamlanır. Bu kapsamda düzenlenen metrolojik muayene belgeleri, ilgili aracın 2023 yılı içerisindeki ilk araç muayenesi tarihine kadar geçerlidir.
+(3) Bu maddenin yayımı tarihi itibarıyla geçerliliği devam eden metrolojik muayene belgesi olan ya da ikinci fıkra kapsamında metrolojik muayene belgesi düzenlenmiş olan taksimetrelerin, 2023 yılı içerisindeki ilk araç muayenesi tarihine kadar olan dönemde tamir ve/veya ayar görmesi veya aracın lastik ebadının değişmesi durumunda birinci ve ikinci fıkra hükümleri uygulanmaz; bu durumdaki taksimetrelerin muayenesi bu Yönetmeliğin ilgili hükümlerine göre yaptırılır.
