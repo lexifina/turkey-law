@@ -1,0 +1,2 @@
+Halen çalışan personel için idari eğitim alma zorunluluğu
+GEÇİCİ MADDE 2 – (1) Bu Yönetmeliğin yürürlüğe girdiği tarihte hali hazırda servis sorumlusu ve teknik personel olarak görev yapan kişiler bu Yönetmeliğin yürürlüğe girdiği tarihten itibaren bir yıl içinde 10 uncu maddede belirtilen idari eğitime katılarak eğitim belgelerini yenilemek zorundadır. Bu maddedeki sorumluluğu yerine getirmeyen servislere 7 nci maddenin onüçüncü fıkrasındaki hükümler uygulanır.

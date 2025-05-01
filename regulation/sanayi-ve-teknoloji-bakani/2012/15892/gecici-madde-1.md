@@ -1,0 +1,5 @@
+Teknik personel istisnası
+GEÇİCİ MADDE 1 – (1) 30/6/2012 tarihine kadar, analog takograf cihazları için, bu Yönetmelik kapsamında yapılacak belgelendirme işlemlerinde, servis hizmeti verilecek takograf cihazı imalatçısından 2/10/2010 tarihinden önce eğitim almış ve bu eğitimini belgelendirmiş olanlar ayrıca bir eğitim diploması aranmadan teknik personel olarak kabul edilir.
+(2) Birinci fıkradaki istisnaya göre yetki belgesi alan teknik personelin, çalıştığı servisi değişmesi durumunda, yetki belgesinin yenilenmesi talebinde aynı istisna uygulaması devam eder.
+(3) Bu Yönetmeliğin yürürlüğe girdiği tarihten sonra bu maddeye göre yetkilendirilen teknik personel, il müdürlüğü tarafından yetkilendirildiği tarihten itibaren bir yıl içinde 10 uncu maddede belirtilen idari eğitime katılarak eğitim belgesini yenilemek zorundadır.
+(4) 10 uncu maddede belirtilen teknik eğitim sonrasında alınan teknik eğitim belgesi yerine, 30/6/2012 tarihine kadar takograf cihazı imalatçısından veya imalatçının uygun gördüğü yerden alınan diğer eğitim belgeleri de geçerlidir.
