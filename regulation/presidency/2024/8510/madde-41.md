@@ -1,0 +1,2 @@
+Çağrıya uymayanların izlenmesi
+MADDE 41- (1) Seferberlik ve savaş hâlinde muhtarlar, çağrıya uymayanların durumlarını yakından izlemekle görevlidirler. Askerlik şubesince bildirilenlerden muhtarlık bölgesinde bulundukları hâlde çağrıya uymadığı anlaşılanlar, kolluk kuvvetlerine bildirilir. Kolluk kuvvetlerince ele geçirilenler, birliklerine sevk edilmek üzere askerlik şubesi başkanlıklarına teslim edilir.

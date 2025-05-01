@@ -1,0 +1,4 @@
+Bakanlık ve illerin mal ve hizmet ihtiyaçlarının tespit edilmesi ve bildirilmesi
+MADDE 63- (1) İhtiyaçların tespitinde, seferberlik planlamasına tabi kurum ve kuruluşların barış dönemindeki etkinliklerinin artırılarak devam ettirilmesi ve halkın hayatının idamesinin sağlanması esas alınır.
+(2) Kaynak sahibi bakanlıkların ihtiyaçlarının tespiti aşamasında, ihtiyaç makamları tarafından bildirilen ihtiyaçların karşılanabilmesi için bakanlık tarafından alınması gereken ilave tedbirler ve yapılabilecek ilave planlar da göz önünde bulundurulur.
+(3) Kamu kurum ve kuruluşları ile planlamaya alınan kurum ve kuruluşların ve halkın ihtiyaçlarının karşılanması kapsamında valiliklerin mal ve hizmet ihtiyaçlarının bildirilmesi ile bunların ne suretle karşılanacağına ilişkin usul ve esaslar Seferberlik ve Savaş Hâli Hazırlıkları Direktifinde belirlenir.

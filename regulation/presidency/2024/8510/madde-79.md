@@ -1,0 +1,6 @@
+Araçların sevkinde görevli personelin yükümlülükleri
+MADDE 79- (1) Kara nakil araçları ve iş makineleri sürücüleriyle, deniz, su yolu ve hava araçları, mürettebat ve hizmetlileriyle birlikte sevk edilir.
+(2) Teslim alınan kara nakil araçları ve iş makinelerinin sürücüsü yoksa, sevk işlemi Millî Müdafaa Mükellefiyeti Komisyonlarınca sağlanacak personel tarafından yapılır.
+(3) Kara nakil araçları ve iş makinelerini kullanan personel, aracını tahsis edildiği birlik veya kuruma götürmek ve kullanabilecek personele teslim edinceye kadar görev yapmak zorundadır. Bunlardan askerlik mükellefiyeti haricinde bulunanlara, görev yaptıkları süre için 3634 sayılı Kanun hükümleri gereğince ödeme yapılır.
+(4) Kara nakil araçları ve iş makinelerini kullanan personel, başka bir birliğe gitmek üzere sefer görev emri almışsa önce aracını tahsis edildiği birlik veya kuruma teslim eder, buradan alacağı belgeyle görevlendirildiği birliğe gider.
+(5) Seferberlik ve savaş hâli hazırlıkları kapsamında yükümlülük verilen ve birliğe getirilen kara nakil aracını veya iş makinesini kullanabilecek uygun nitelikli personel yoksa, aracı getiren personelin sefer görev emrinin bulunmaması hâlinde söz konusu aracı getirenlere 3634 sayılı Kanunun ilgili hükümleri uygulanabilir, bu durumda ilgilinin askerlik şubesi başkanlığına bilgi verilir.

@@ -1,0 +1,2 @@
+Tugay, eşiti ve daha üst birliklerin mahallî tedarik planlaması
+MADDE 91- (1) Bakanlıklar aracılığıyla tedarik edilemeyen ikmal maddeleriyle iskân, işletme, bakım, onarım, tesis, hizmet ihtiyaçları ve savaşta ortaya çıkabilecek acil ihtiyaçların, gerektiğinde 3634 sayılı Kanun hükümlerine göre karşılanması için, tugay, eşiti ve daha üst birlik ve kurumlar düzeyinde, barıştan itibaren gerekli önlemler alınır. Bu komutanlıklarca tespit edilecek ihtiyaçlar barış döneminde mülki idare amirliğine bildirilir.

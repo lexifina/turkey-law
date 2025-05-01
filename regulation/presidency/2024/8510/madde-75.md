@@ -1,0 +1,3 @@
+Araç ihtiyaçlarının tespit edilmesi
+MADDE 75- (1) Seferberlik ve savaş hâllerinde Türk Silahlı Kuvvetlerinin, yurt içi kaynaklarından karşılanacak araç ihtiyaçları, barıştan itibaren tespit edilir ve Türk Silahlı Kuvvetleri ihtiyaç makamlarınca Millî Savunma Bakanlığına gönderilir. İhtiyaçların tespit edilmesi ve bildirilmesine ilişkin usul ve esaslar Millî Savunma Bakanlığı tarafından belirlenir.
+(2) Kamu kurum ve kuruluşları, bağlı, ilgili, ilişkili veya koordineli oldukları bakanlıkların seferberlik ve savaş hâli hazırlıkları planları ile faaliyet sahalarına uygun olarak araç ihtiyaçlarını bakanlıklarına bildirir.

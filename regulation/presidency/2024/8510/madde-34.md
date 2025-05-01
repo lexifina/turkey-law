@@ -1,0 +1,5 @@
+Birlik ve kurumların personel ihtiyaçlarının tespit edilmesi
+MADDE 34- (1) Kurulu, seferde kurulacak ve bütünleme birlikleri ile kurumların personel ihtiyaçları, bağımsız takım ve bölük seviyesinde subay, astsubay, uzman jandarma, uzman erbaş, sözleşmeli erbaş ve er ile erbaş ve er olmak üzere ayrı ayrı tespit edilir. İhtiyaçlar, sıralı komutanlıklar yoluyla kuvvet komutanlıklarına gönderilir.
+(2) Birlik ve kurumların personel ihtiyaçları, Türk Silahlı Kuvvetleri ihtiyaç makamları tarafından Millî Savunma Bakanlığına bildirilir.
+(3) Seferberlik ve savaş hâllerinde Cumhurbaşkanı kararıyla belirlenecek bölümleriyle kuvvet komutanlıkları emrine girecek olan Jandarma Genel Komutanlığı ve Sahil Güvenlik Komutanlığı birlik ve unsurlarına ilişkin personel ihtiyaçları tespit edilerek Millî Savunma Bakanlığına bildirilir.
+(4) Birlik ve kurumların personel ihtiyaçlarının tespit edilmesi ve bildirilmesine ilişkin usul ve esaslar, gerektiğinde ilgili bakanlık görüşü alınarak Millî Savunma Bakanlığı tarafından belirlenir.

@@ -1,0 +1,4 @@
+Deniz ve hava araçları ile su yolu araçları kaynağının tespit edilmesi
+MADDE 73- (1) Liman başkanlıklarınca tutulan deniz araçlarına ait kaynak bilgileri ve Sivil Havacılık Genel Müdürlüğünce tutulan hava araçlarına ait kaynak bilgileri ile bu bilgilerde meydana gelen değişiklikler Ulaştırma ve Altyapı Bakanlığınca Millî Savunma Bakanlığı ile Millî Güvenlik Kurulu Genel Sekreterliğine gönderilir.
+(2) Göl, gölet ve nehirlerde çalışan su yolu araçlarının kaydı, sınırları içinde bulundukları belediyelerin veya muhtarlıkların bildirimi üzerine mülki idare amirliğinin kontrolünde Millî Müdafaa Mükellefiyeti Komisyonlarınca tutulur, il ve ilçe kaynak sayım cetvellerinde gösterilir.
+(3) Ulaştırma ve Altyapı Bakanlığınca, seferde Deniz Kuvvetleri Komutanlığı harekât kontrolüne alınması planlanan gemilerin otomatik tanımlama sistemi bilgileri barıştan itibaren denizde durumsal farkındalık kapsamında Deniz Kuvvetleri Komutanlığı gözetleme sistemlerine aktarılır.

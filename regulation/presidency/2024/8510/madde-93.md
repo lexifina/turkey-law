@@ -1,0 +1,2 @@
+Millî Müdafaa Mükellefiyeti Komisyonu kararının uygulanma zamanı
+MADDE 93- (1) Barış döneminde alınan ve tebliğ edilen Millî Müdafaa Mükellefiyeti Komisyonu kararlarının uygulanmasına gerginlik ve buhran dönemleri ile seferberlik ve savaş hâllerinde Cumhurbaşkanı kararı ile başlanır. Seferberlik ve savaş hâllerinde alınan Millî Müdafaa Mükellefiyeti Komisyonu kararlarının uygulanmasına, Cumhurbaşkanı kararına istinaden Millî Müdafaa Mükellefiyeti Komisyonu kararının tebliğinden sonra başlanır.

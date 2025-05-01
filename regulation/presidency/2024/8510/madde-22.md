@@ -1,0 +1,3 @@
+Tedarik planları
+MADDE 22- (1) Stokların durumu dikkate alınarak seferberlik ve savaş hâli ihtiyaçlarını karşılayacak kritik ikmal maddeleri barış döneminden itibaren ilgili kuruluşlarca tedarik edilerek depolanır.
+(2) Seferberlik ve savaş hâli hazırlıkları için yurt dışından tedarik edilmesi gereken kritik ikmal maddeleri, bakanlıklar tarafından Millî Savunma Bakanlığının uygun görüşü alınarak tespit edilir. Ticaret Bakanlığına bildirilir ve bir program çerçevesinde ithalat rejimine uygun olarak karşılanmasını sağlayacak planlar, Ticaret Bakanlığınca hazırlanarak Cumhurbaşkanı tarafından onaylanır.

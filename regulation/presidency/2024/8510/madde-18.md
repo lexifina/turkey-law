@@ -1,0 +1,15 @@
+Seferberlik ve savaş hâli planları
+MADDE 18- (1) Seferberlik ve savaş hâli planları, Devletin tüm güç ve kaynaklarının en kısa sürede seferberlik ve savaş durumuna getirilmesi amacını güder ve sistemin kapsadığı her faaliyet gereklilik, sadelik, esneklik ve sürat ilkelerine dayanır.
+(2) Seferberlik ve savaş hâli planları; barış döneminden itibaren gerginlik ve buhran dönemleri ile kısmi seferberlik veya özel çağrı durumlarında da uygulanabilecek ve genel seferberlik ile savaş hâli ihtiyaçlarını karşılayacak biçimde yapılır.
+(3) Bakanlıklarca yapılacak seferberlik ve savaş hâli planları; öncelikle Türk Silahlı Kuvvetlerinin ihtiyacı olan her türlü araç, mal ve hizmetlerle, daha sonra sırasıyla kamu kurum ve kuruluşları ile halkın seferberlik ve savaş hâli ihtiyaçlarını yeterli ve sürekli olarak sağlayacak plan ve projeleri kapsayacak biçimde ilgili makam ve kuruluşlar arasında iş birliği yapılarak hazırlanır.
+(4) Ülke kaynaklarını kapsayacak şekilde ve topyekûn savunmanın gerekeceği hâller de dikkate alınarak yapılacak planların;
+a) Barış döneminden itibaren yapılması,
+b) Ayrıntılı ve birbiriyle uyumlu olması,
+c) Tatbikatlarda denenmesi ve geliştirilmesi,
+ç) Gerektiğinde çok kısa sürede uygulanmasına başlanması,
+esastır. Planlamaların uygulanmasında, hizmet ve faaliyetlerin kesintisiz sürdürülmesine ve ihtiyaçların eksiksiz ve azaltılmadan karşılanmasına yönelik gerekli tedbirler alınır.
+(5) Hazırlanan plan ve projelerde, verilecek hasar ve zayiatla savaşın devam süresi dikkate alınarak, barış döneminde çeşitli nedenlerle sağlanamayan, barışta gerekli olmadığı hâlde seferberlik ve savaş hâllerinde ihtiyaç duyulacak malzeme, hizmet, tesis ve kolaylıkların ve millî sanayiinin harp sanayiine dönüştürülmesiyle sağlanabilecek imkânların, seferberlik ve savaş hâllerinde yurt içi veya gerektiğinde yurt dışı kaynaklardan ne zaman, nasıl, nereden, ne miktarda sağlanacağı gösterilir.
+(6) Düşman saldırıları veya sabotajlar sonucunda hasar görecek kritik askerî altyapı ve tesisler ile Genelkurmay Başkanlığı tarafından tespit edilecek olan sivil sektöre dâhil resmî ve/veya özel altyapı ve tesisler ile birlikte sivil olağanüstü hâl planlaması ile ilgili hayati önemi haiz görülen sivil altyapı ve tesislerin en kısa sürede işler hâle getirilmesi için yapılacak planlamalara ilişkin esaslar, Millî Savunma Bakanlığınca belirlenir.
+(7) Personel, insan gücü, araç, mal ve hizmet ile harp sanayii seferberliğine ilişkin planlama faaliyetlerinin elektronik ortamda yürütülmesi esastır. Bu kapsamda;
+a) İnsan gücü, araç, mal ve hizmet ile harp sanayii seferberliğine ilişkin kaynak ve ihtiyaç bilgilerinin toplanması, kaynağın ihtiyaca tahsis işlemleri, Millî Güvenlik Kurulu Genel Sekreterliğince tesis edilen elektronik bilgi sistemi vasıtasıyla ilgili makamlar tarafından yürütülür.
+b) Türk Silahlı Kuvvetlerinin personel seferberliğine yönelik ihtiyaç bilgilerinin toplanması ve kaynağın ihtiyaca tahsis işlemleri, Millî Savunma Bakanlığı tarafından tesis edilen elektronik bilgi sistemi vasıtasıyla yürütülür.

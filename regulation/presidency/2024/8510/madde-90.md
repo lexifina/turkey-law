@@ -1,0 +1,6 @@
+Millî müdafaa mükellefiyeti yoluyla tedarik için kaynak tespit edilmesi
+MADDE 90- (1) Türk Silahlı Kuvvetlerinin ihtiyaçlarının karşılanması için il/ilçe Millî Müdafaa Mükellefiyeti Komisyonları; Millî Savunma Bakanlığı tarafından belirlenen usul ve esaslara göre mal, hizmet, araç ve benzeri maddelerin sayımının her yıl yapılmasını sağlar.
+(2) İl ve ilçe kaynak sayım cetvellerinin gerçeğe uygun olarak hazırlanmasından Millî Müdafaa Mükellefiyeti Komisyonları sorumludur.
+(3) Sayım sonunda dört nüsha olarak kaynak sayım cetvelleri hazırlanır. İlçelerde hazırlanan kaynak sayım cetvellerinin, bir nüshası kaymakamlıkta tutulur, bir nüshası garnizon komutanlığına, iki nüshası da il afet ve acil durum müdürlüğüne gönderilir. Merkez ilçe Millî Müdafaa Mükellefiyeti Komisyonları da hazırlanan iki nüsha kaynak sayım cetvellerini il afet ve acil durum müdürlüğüne gönderirler.
+(4) İl afet ve acil durum müdürlüklerince, ilçelerden gelen ikişer nüsha kaynak sayım cetvellerinin birer nüshası tutulur, diğer nüshası garnizon komutanlığına gönderilir. Kaynakta meydana gelen değişiklikler de aynı usule göre bildirilir ve kaynak bilgilerinin güncelliği sağlanır.
+(5) İl afet ve acil durum müdürlüklerince, il ve ilçe kaynak sayım cetvelleri her yıl Millî Savunma Bakanlığına gönderilir.

@@ -1,0 +1,3 @@
+Seferberlik duyuru ve sevk planı kapsamında askerlik şubesi başkanlıklarının görevleri
+MADDE 45- (1) Askerlik şubesi başkanlıkları, sefer görev emirli personelden bölgesinde ikamet edenlerin sayılarını, ikamet ettikleri köy/mahalle bilgilerini ve görevlendirildikleri il/ilçeleri, duyuru ve sevk planlarının hazırlanmasında dikkate alınmak üzere her yıl aralık ayında mülki idare amirliğine bildirilir. Seferberliğin ilanında personel kimlikleri ve ikamet adresleri ayrıca bildirilir.
+(2) Birliklerine gitmek için askerlik şubesi başkanlıklarına başvuran sefer görev emirli personel, mülki idare amirliğine bildirilir.

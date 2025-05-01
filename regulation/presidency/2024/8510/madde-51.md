@@ -1,0 +1,4 @@
+Erteleme faaliyetlerinin kontrolü
+MADDE 51- (1) Kurum veya kuruluşlar, personel erteleme teklif ve iptal teklif belgelerini istenildiği zamanda yetkililere bildirmek veya göstermekle sorumludur.
+(2) Kurum ve kuruluşların erteleme işlemleri, bu kurum ve kuruluşların erteleme işlemlerinden sorumlu birim amirleri tarafından her yıl bir kez denetlenir ve denetlemeyi müteakip bir ay içinde denetleme sonuç raporu, erteleme teklif ve iptal teklif belgeleri silsile takip etmek suretiyle ilgili bakanlık veya kuruma gönderilir. İlgili bakanlık veya kurum denetleme sonuç raporunu inceleyerek aksayan hususlarla ilgili gerekli tedbirleri alır.
+(3) Kurum ve kuruluşlar, yedek personelin ertelemesine esas görevine devam edip etmediğini araştırır, görevinden ayrılmış olanların ertelemesinin iptali için bağlı, ilgili, ilişkili veya koordineli olduğu bakanlık veya kurum aracılığıyla her yıl kasım ayında Millî Savunma Bakanlığına bildirir.

@@ -1,0 +1,6 @@
+Araçların getirtilmesi, teslim alınması ve sevki
+MADDE 77- (1) Seferberliğin ilanı ile ilgili olarak yapılacak duyuruyla birlikte, araç sahipleri veya sürücüleri için araç sefer görev emri veya görevlendirme belgesi “getir emri” yerine geçer. Araç sahipleri veya sürücüleri, aracı; malzeme, avadanlık ve yedek parçalarıyla birlikte duyurudan sonraki altı saat içinde, araç toplanma bölgelerinin bulunduğu yerde kurulacak olan Millî Müdafaa Mükellefiyeti Komisyonuna getirir.
+(2) Araç toplanma bölgeleri, barıştan itibaren belirlenir.
+(3) Millî Müdafaa Mükellefiyeti Komisyonlarınca, gelen araçların muayenesi yaptırılır. Aracın o andaki durumuna göre kiralama ve satın alma değeri belirlenir ve gerekli işlemler tamamlanarak aynı gün tahsis edildikleri birlik veya kuruma gönderilir.
+(4) Tahsisli limanda bulunamayacak gemiler için sahipleri, sefer görevli geminin yerine, sefer görevi bulunmayan aynı nitelikte başka bir gemiyi tahsis edebilir. Bu mümkün olmazsa, ihtiyacın karşılanması için Millî Müdafaa Mükellefiyeti Komisyonu tarafından alınacak kararla, yeni görevlendirme yapılır.
+(5) Kara, deniz, su yolu ve hava araçları ile iş makinelerinin sevk işlemi aracın kayıtlı olmadığı bir komisyonca yapılırsa durum, aracın kayıtlı olduğu Millî Müdafaa Mükellefiyeti Komisyonuna bildirilir.

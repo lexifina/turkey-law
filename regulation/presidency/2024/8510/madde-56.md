@@ -1,0 +1,3 @@
+Türk Silahlı Kuvvetlerinin mal ve hizmet ihtiyaçlarının tespit edilmesi ve bildirilmesi
+MADDE 56- (1) Türk Silahlı Kuvvetlerinin mal ve hizmet ihtiyaçlarının tespit edilmesi ve bildirilmesine ilişkin usul ve esaslar Millî Savunma Bakanlığı tarafından belirlenir.
+(2) Türk Silahlı Kuvvetleri ihtiyaç makamları tarafından tespit edilen mal ve hizmet ihtiyaçları Millî Savunma Bakanlığına gönderilir. Millî Savunma Bakanlığında toplanan ihtiyaçlar, kontrol edilerek onaylanmasını müteakip, tahsise esas olmak üzere ilgili bakanlıklara gönderilir ve bu husus Türk Silahlı Kuvvetleri ihtiyaç makamları ile Millî Güvenlik Kurulu Genel Sekreterliğine bildirilir.

@@ -1,0 +1,4 @@
+Çağrıya uyma ve sevk işlemleri
+MADDE 40- (1) Genel seferberlik, kısmi seferberlik veya özel çağrı duyurularını öğrenen sefer görev emirli personel, duyurudaki çağrı işareti ve birlik seferberlik numarası ile kendi sefer görevlendirmesinin kontrolünü yapar. Çağrı işareti aynı ve birlik seferberlik numarası duyuruda belirtilenlere uyanlar başkaca bir uyarı beklemeden, çağrı için yapılan ilan saatinden itibaren en geç altı saat içerisinde yola çıkar ve kırk sekiz saat içerisinde birliklerine veya yönlendirilmesi hâlinde toplanma merkezine katılırlar.
+(2) Yurt içinde bulunanlar doğrudan birliklerine veya en yakın askerlik şubesine, yurt dışında bulunanlar ise büyükelçilik veya konsolosluklara başvururlar.
+(3) Birliğine kendi olanakları ile katılamayacak olanlar, en yakın askerlik şubesine başvurarak birliklerine yollanmalarını talep ederler.

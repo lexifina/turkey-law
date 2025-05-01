@@ -1,0 +1,3 @@
+Seferberlik tatbikatlarına araçların getirtilmesi, yollanması ve ödeme işlemleri
+MADDE 97- (1) Seferberlik tatbikatına görevlendirilen araçların sahibi veya sürücüleri silahaltı davetiyelerinde belirtilen tarihte araçları ile birlikte bulunduğu mahallin Millî Müdafaa Mükellefiyeti Komisyonuna başvururlar. Bu komisyonlar tarafından seferberlik ve savaş hâllerinde yapılacak işlemlerin benzeri yapılarak, araçlar tahsis edildikleri birliklere sevk edilir.
+(2) Tatbikata çağrılan araçların tatbikat süresi kadar kiralama bedelleri ile bunlarla birlikte gelen personelin giderleri, Millî Savunma Bakanlığı bütçesinden karşılanır.

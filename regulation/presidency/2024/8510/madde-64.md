@@ -1,0 +1,5 @@
+Bakanlıkların mal ve hizmet tahsis planlaması
+MADDE 64- (1) Bakanlıklar, bağlı, ilgili, ilişkili kuruluşlar ve kontrolünde bulunan kurum ve kuruluşlarda üretilen mal ve hizmetlerle, bakanlık birimleri veya diğer bakanlıklar tarafından bildirilen ihtiyaçların karşılanması için bu Yönetmelikte belirtilen esas ve önceliklere göre kaynakların tahsis planlamasını yapar.
+(2) Bakanlıklar, mevcut kaynaklarından, Türk Silahlı Kuvvetlerine öncelik tanıyarak tahsis planlamasını yaparlar. Yapılan tahsisler bakanlık tahsis çizelgelerinde gösterilir.
+(3) Bakanlıklarca yapılan tahsis planlamalarında Seferberlik ve Savaş Hâli Hazırlıkları Direktifiyle verilen görevler ve kamu kurum ve kuruluşları için belirlenen öncelikler de dikkate alınır.
+(4) Bakanlıkça yapılan tahsislere ilişkin çizelgeler; Millî Savunma Bakanlığına, ihtiyaç bildiren bakanlıklara, valiliklere ve bakanlığın bağlı, ilgili, ilişkili kuruluşlarına veya kontrolündeki birimlere gönderilir. Bakanlık tahsisleri, bilgi olarak Millî Güvenlik Kurulu Genel Sekreterliğine de bildirilir.

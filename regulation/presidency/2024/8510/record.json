@@ -1,0 +1,26 @@
+{
+  "id": "presidency-regulation-8510",
+  "number": "8510",
+  "kind": "regulation",
+  "issuer": "presidency",
+  "title": "SEFERBERLİK VE SAVAŞ HÂLİ YÖNETMELİĞİ",
+  "published": "2024-05-22",
+  "enacted": "2024-05-21",
+  "gazette_number": "32553",
+  "in_force": "2025-05-01",
+  "in_force_basis": "Source commencement table, \"Yürürlüğe Giriş Tarihi\": 1/5/2025; source row: 30/4/2025 | 9783 | 95 | 1/5/2025",
+  "history": "current-only",
+  "version_label": "oldest version available",
+  "first_law": null,
+  "source": "https://www.mevzuat.gov.tr/anasayfa/MevzuatFihristDetayIframe?MevzuatNo=8510&MevzuatTur=21&MevzuatTertip=5",
+  "source_sha256": "a4e972a3620e8d6879e46be38d89a80449f8c2e8f83fe3a89d49c48db937bde2",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  },
+  "missing_components": [],
+  "text_layout": "article-files",
+  "source_links": [],
+  "completeness": "html-text-complete"
+}

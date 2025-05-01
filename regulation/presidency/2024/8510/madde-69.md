@@ -1,0 +1,3 @@
+İllerde seferberlik ve savaş hâli hazırlıkları planlaması
+MADDE 69- (1) İllerde seferberlik ve savaş hâli hazırlıkları planları, barıştan itibaren hazırlanır. Taşra teşkilatına dâhil olan bakanlık kuruluşlarının hazırlıklarının birbiriyle ve il planıyla uyumu sağlanır. Ayrıca ilde bulunan özel kuruluşların seferberlik ve savaş hâli hazırlıkları, ilgili bakanlığın istek ve direktifleri de dikkate alınarak planlanır ve her an uygulanabilir hâlde bulundurulur.
+(2) İlin seferberlik ve savaş hâline ilişkin ihtiyaçlarının ne suretle karşılanacağı Seferberlik ve Savaş Hâli Hazırlıkları Direktifinde belirlenir.

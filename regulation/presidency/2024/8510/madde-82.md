@@ -1,0 +1,4 @@
+Araç sefer görev emrinin veya görevlendirme belgesinin kontrolü
+MADDE 82- (1) Araç muayeneleri yapılırken, araç sefer görev emri veya görevlendirme belgesinin kontrol edilmesinden araç muayenesini yapan makamlar sorumludur.
+(2) Araç sefer görev emri veya görevlendirme belgesinin oluşturulmasını müteakip altmış gün içinde tebliği yapılamayan araçların listeleri, tebliğden sorumlu makamlarca tüm araç muayene istasyonlarına bildirilmek üzere bu istasyonlardan sorumlu bakanlığa iletilir, Millî Savunma Bakanlığı ile Millî Güvenlik Kurulu Genel Sekreterliğine ve ilgili kamu kurum ve kuruluşlarına bilgi verilir. Bu tür araçların muayenesi araç sefer görev emirlerinin veya görevlendirme belgelerinin tebliğini müteakip yapılır.
+(3) Deniz, su yolu ve hava araçlarıyla, iş makineleri için de benzeri işlemler uygulanır.
