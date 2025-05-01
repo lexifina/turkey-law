@@ -1,0 +1,3 @@
+Geçiş hükümleri
+GEÇİCİ MADDE 1- (1) 1/1/2014-31/12/2019 tarihleri arasında piyasaya arz edilmiş veya en son muayenesi bu tarihler arasında yapılmış gaz iletim şebekesinde ve/veya iletim şebekesine doğrudan bağlı olan gaz sayaçları listesinin, kullanıcı tarafından ilgili il müdürlüğüne 2024 yılının şubat ayının son gününe kadar iletilmesi ve 2025 yıl sonuna kadar tüketiciden sökülerek yerine geçerli muayenesi olan bir sayaç takılması gerekir. Aksi takdirde sayacın kullanıcısı hakkında damga süresi geçmiş ölçü aleti kullanma fiilinden dolayı Kanunda belirtilen idari işlemler uygulanır.
+(2) Birinci fıkradaki listeyi belirtilen süre içinde bildirmeyen, eksik veya hatalı bildiren kullanıcılar hakkında (Mülga ibare:RG-1/5/2025-32887) Kanun uyarınca idari yaptırım uygulanır.
