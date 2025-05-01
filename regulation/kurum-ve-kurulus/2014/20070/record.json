@@ -1,0 +1,34 @@
+{
+  "source_id": "7.5.20070",
+  "kind": "regulation",
+  "register_kind": "Kurum ve Kuruluş Yönetmelikleri",
+  "title": "ET VE SÜT KURUMU GENEL MÜDÜRLÜĞÜ ANA STATÜSÜ",
+  "number": "20070",
+  "issuer_slug": "kurum-ve-kurulus",
+  "path": "regulation/kurum-ve-kurulus/2014/20070",
+  "source": "https://www.mevzuat.gov.tr/anasayfa/MevzuatFihristDetayIframe?MevzuatTur=7&MevzuatNo=20070&MevzuatTertip=5",
+  "source_sha256": "3e0c222750425fd4902ad8401b912102710094035a3a423a6cd2162400bacabc",
+  "source_bytes": 49444,
+  "published": "2014-09-25",
+  "gazette": "29130",
+  "in_force": "2025-05-01",
+  "in_force_basis": "latest Resmî Gazete date printed in the source amendment notes/table (\"RG-1/5/2025\") for the current consolidated text",
+  "date_evidence": [
+    [
+      "2025-05-01",
+      "RG-1/5/2025",
+      "Resmî Gazete date printed in the source amendment note"
+    ]
+  ],
+  "history": "current-text",
+  "label": "oldest version available",
+  "checked_on": "2026-11-15",
+  "word_count": 2982,
+  "text_status": "current-consolidated",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  },
+  "completeness": "html-text-complete"
+}

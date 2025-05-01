@@ -1,0 +1,23 @@
+Teşekkülün amaç ve faaliyet konuları
+MADDE 5 – (1) Teşekkülün temel amacı; hayvansal ürünler, et, süt ve balık piyasasında ekonomik gereklere uygun olarak, verimlilik ve kârlılık ilkeleri çerçevesinde, kamu yararını da gözeterek faaliyette bulunmak, sektörde tam rekabet koşullarının oluşmasına katkı sağlamaktır.
+(2) KHK’nın 35 inci maddesine dayanarak (Değişik ibare:RG-1/5/2025-32887-C.K-9773/3 md.) Cumhurbaşkanı tarafından verilen görevler saklı kalmak kaydıyla, Teşekkül; gerektiğinde et, süt ve balık fiyatlarındaki dengenin üretici ve tüketici aleyhine bozulmasını önleyecek tedbirlerin uygulanması veya sektörün desteklenmesi çerçevesinde işletmecilik gereklerinin dışında kalan ve Teşekküle ilave mali yük getirecek mahiyetteki görevleri (Değişik ibare:RG-1/5/2025-32887-C.K-9773/3 md.) Hazine ve Maliye Bakanı ile Tarım ve Orman Bakanının teklifi üzerine çıkarılan Cumhurbaşkanı Kararları uyarınca tarımsal destekleme bütçesinden aktarılacak kaynak ile yerine getirir.
+Bu çerçevede, Et ve Süt Kurumunun faaliyet konuları aşağıda gösterilmiştir:
+a) (Değişik ibare:RG-1/5/2025-32887-C.K-9773/3 md.) Kesimlik, besilik ve damızlık hayvan satın almak, satmak, kesim öncesi beslemek/besletmek, gerektiğinde ithal veya ihraç etmek, kırmızı et, balık, kümes hayvanları, süt ve süt ürünlerini satın almak veya satmak, gerektiğinde ithal veya ihraç etmek, işleyerek mamul hale getirmek, yan ürünlerini üretmek ve bunları muhafaza etmek, iç ve dış piyasada satmak.
+b) Erken/geç kesim imkânı verecek kademeli fiyat uygulaması yapmak.
+c) Hayvansal ürünler, et, süt ve balık piyasasında, gıda güvenliği çerçevesinde, kalite standardını ve/veya belirli vasıfta hayvan ırklarını teşvik edici kademeli fiyat uygulamalarına yönelik politikalar uygulamak.
+ç) Kamuya veya özel sektöre ait firmalarla teknik işbirliği ve her türlü sınaî mülkiyete dair anlaşmalar yapmak, yurt içinde ve yurt dışında faaliyet konularıyla ilgili tesislerin kurulması ve işletilmesi için taahhütlere girmek, yerli ve yabancı gerçek ve tüzel kişilerle kendi faaliyet konuları ile ilgili işbirliği ve ortaklık anlaşmaları yapmak, kurulmuş olan şirketlere iştirak etmek veya yeni şirketler kurmak.
+d) Ulusal ve Bakanlıkça uygun görülen uluslararası örgütlere üye olmak.
+e) Teşekkülün temel amacı çerçevesinde; bütün sektör paydaşlarının ve sivil toplum kuruluşlarının piyasadaki gelişmeler ve alınacak tedbirlere yönelik olarak talep ve önerilerinin değerlendirileceği istişare toplantıları yapmak, sektörün gelişmesine katkı sağlamak.
+f) Kamu kurum ve kuruluşlarının hayvancılık, et, süt ve balık üretimi ve ticaretine yönelik teşvik ve destekleme faaliyetlerinde işbirliği yapmak, bu kurumların teşvik ve destek içeren program ve projelerinin hazırlanmasında ve uygulanmasında görev almak.
+g) Faaliyet konuları ile ilgili yurt içinde veya yurt dışında;
+1) Her türlü müşavirlik hizmeti vermek veya almak, eğitim, yayım, etüt, araştırma ve geliştirme faaliyetlerinde bulunmak, ulusal ve uluslararası piyasa ve borsaları takip edebilmek için her türlü teknik altyapıyı kurmak veya kurdurmak.
+2) Tesisler kurmak, işletmek, satın almak, satmak, kiraya vermek, mevcut veya yeni inşa edilecek tesisleri kısa veya uzun süreli kiralamak, bunlarla ilgili taahhüt ve müşavirlik hizmetlerini yapmak ve yaptırmak.
+3) Gerekli her türlü malzemeyi temin ve tedarik etmek.
+4) Ticaretle iştigal etmek, alım ve pazarlama faaliyetleri kapsamında mümessillikler, irtibat büroları, satış mağazaları, pazarlama şirketleri kurmak, ana bayilik ile bayilikler vermek.
+5) Müesseseler, bağlı ortaklıklar ve iştirakler kurmak.
+6) Her türlü taşımacılık, tahmil-tahliye, kesim, parçalama veya işleme, bakım-onarım ve benzeri hizmetleri yapmak veya yaptırmak, bunlar ile ilgili hizmet satın almak.
+7) Hurda ve atıl vaziyetteki taşınır ve taşınmazları satmak.
+ğ) Yukarıda yazılı işlerden herhangi birinin yapılması amacıyla tesisler kurmak, işletmek, taşınır ve taşınmaz mallar satın almak ve satmak, kiraya vermek veya kiralamak, kendisinin veya iştiraklerinin borç ve alacakları için leh ve aleyhte ipotek, rehin vermek ve almak, gayrimenkulleri üzerinde diğer ayni hakları tesis etmek, iştiraklerine kefil olmak, bu amaçlar için gerekli olan her türlü işlemi yapmak.
+h) Faaliyet konuları ile ilgili, (Değişik ibare:RG-1/5/2025-32887-C.K-9773/3 md.) Cumhurbaşkanı Kararı ile hayvansal ürünler, et, süt ve balık piyasasına ilişkin verilecek diğer görevleri yapmak.
+(3) Teşekkül, yukarıda sayılan her türlü iş ve işlemleri bizzat veya müessese, bağlı ortaklık, iştirakler, ortaklık anlaşmaları ile ve/veya mal ve hizmet alımı yöntemi ile yapar veya yaptırır.
+(4) (Mülga:RG-1/5/2025-32887-C.K-9773/3 md.)
