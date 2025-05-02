@@ -1,0 +1,21 @@
+{
+  "record_type": "parliament-written-question",
+  "term": 28,
+  "legislative_year": 3,
+  "esas_no": "7/27744",
+  "submitted": "2025-05-02",
+  "submitted_as": "Başkanlığa geliş tarihi",
+  "mp": "Mehmet KAMAÇ",
+  "province": "Diyarbakır",
+  "summary": "Çocuk işçiliğinin önlenmesi için yapılan çalışmalara ilişkin",
+  "status": "Süresi Geçtikten Sonra Cevaplandı",
+  "status_as_of": "2026-11-16",
+  "official_record": "https://www.tbmm.gov.tr/Denetim/Yazili-Soru-Onergesi-Detay/98f5b75f-dbeb-439f-acf8-0196a459fa43",
+  "source": "https://tbmm.gov.tr/Denetim/YaziliSoruOnergesiTable",
+  "source_form": "https://tbmm.gov.tr/Denetim/Yazili-Soru-Onergeleri",
+  "source_sha256": "bc8c2e4b55b2b281f4b9197dc4e9740f2b5d673f140b927a6eddb73d6425c229",
+  "in_force": "2025-05-02",
+  "in_force_basis": "Date the question reached the Speaker (Başkanlığa geliş tarihi) in the official TBMM written-question record; parliamentary oversight record, not law",
+  "history_type": "metadata",
+  "text_status": "metadata-only: question text, addressee and answers are in the linked official record (PDFs on cdn.tbmm.gov.tr); not transcribed here"
+}
