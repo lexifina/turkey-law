@@ -1,0 +1,2 @@
+Yürürlükte bulunan Devlet yardımları
+GEÇİCİ MADDE 1- (1) Bu maddenin yürürlüğe girdiği tarih itibarıyla uygulanmakta bulunan Devlet yardımlarının 31/12/2022 tarihine kadar olan uygulama dönemi etkileri ile üç yıllık etki tahminlerine ilişkin Başkanlık tarafından belirlenen formata uygun olarak hazırlanan Mevcut Devlet Yardımı Etki Değerlendirme İzleme Raporu, bu maddenin yürürlüğe girdiği tarihi izleyen yüz seksen gün içinde uygulayıcı kurum tarafından hazırlanarak resmi yazıyla Başkanlığa iletilir.

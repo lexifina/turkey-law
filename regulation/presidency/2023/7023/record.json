@@ -1,0 +1,26 @@
+{
+  "id": "presidency-regulation-7023",
+  "number": "7023",
+  "kind": "regulation",
+  "issuer": "presidency",
+  "title": "DEVLET YARDIMLARININ UYGULANMASI, KOORDİNASYONU, İZLENMESİ VE DEĞERLENDİRİLMESİNE İLİŞKİN USUL VE ESASLAR HAKKINDA YÖNETMELİK",
+  "published": "2023-03-31",
+  "enacted": "2023-03-30",
+  "gazette_number": "32149",
+  "in_force": "2025-05-03",
+  "in_force_basis": "Source commencement table, \"Yürürlüğe Giriş Tarihi\": 3/5/2025; source row: 2/5/2025 | 9789 | 2 | 3/5/2025",
+  "history": "current-only",
+  "version_label": "oldest version available",
+  "first_law": null,
+  "source": "https://www.mevzuat.gov.tr/anasayfa/MevzuatFihristDetayIframe?MevzuatNo=7023&MevzuatTur=21&MevzuatTertip=5",
+  "source_sha256": "4e30d33536bb2975c161187976493e733360b6bce6daa12735005d9a243d89b9",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  },
+  "missing_components": [],
+  "text_layout": "article-files",
+  "source_links": [],
+  "completeness": "html-text-complete"
+}
