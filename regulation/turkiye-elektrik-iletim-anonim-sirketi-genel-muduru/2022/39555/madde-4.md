@@ -1,0 +1,28 @@
+Tanımlar
+MADDE 4- (Değişik:RG-3/5/2025-32889)
+(1) Bu Yönetmelikte geçen;
+a) Ambar: Teşekkül merkez ve taşra teşkilatlarının yatırım ve işletme faaliyetleri için gerekli olan malzeme ile taşıt, iş makinesi ve bunlara ait yedeklerin toplu halde korunduğu açık ve kapalı alanları,
+b) Ambar işlemleri: Malzemelerin tesellümü, ambara girişi, stok takibi ve ambardan çıkışını kapsayan her türlü işlemleri,
+c) Ambar sorumlusu: Ambarın bağlı olduğu birim amiri tarafından görevlendirilerek malzemelerin ambar işlemlerinden birinci derecede sorumlu olan personeli,
+ç) Arızalı malzeme ile taşıt ve iş makinesi: Üretim amacına uygun olarak kullanılamayacak ancak onarımla kullanılabilecek durumda olan malzemeler ile taşıt ve iş makinelerini,
+d) Birim: Teşekküle bağlı merkez ve taşra teşkilatlarında yer alan müstakil üniteleri,
+e) Demonte malzeme: İletim sisteminde üretim amacına uygun olarak kullanılmış ve herhangi bir sebeple servis harici edilmiş ve tekrar kullanılıp kullanılamayacağı tespite muhtaç malzemeleri,
+f) Ekonomik ömrünü doldurmuş taşıt ve iş makinesi: 18/7/1997 tarihli ve 23053 mükerrer sayılı Resmî Gazete’de yayımlanan Karayolları Trafik Yönetmeliğinin 40 ıncı maddesi hükümleri doğrultusunda trafikten çekme işlemine tabi tutulan, onarımla yenileştirildikleri takdirde tekrar tescili yapılabilen taşıt ve iş makinelerini,
+g) Faydalı ömrünü doldurmuş malzeme: 4/1/1961 tarihli ve 213 sayılı Vergi Usul Kanunu hükümlerine dayanılarak Hazine ve Maliye Bakanlığınca yayımlanan Amortisman Oranları Tablosundaki ömrünü tamamlamış malzemeleri,
+ğ) Hibe malzeme ile taşıt ve iş makinesi: Bir kimsenin, kuruluşun veya ülkenin karşılıksız olarak Teşekküle devrettiği veya Teşekkülün kamu hizmeti veren genel yönetim kapsamındaki kamu idareleri ve diğer kamu kurum kuruluşları ile kamu iktisadi teşebbüslerine karşılıksız olarak devrettiği malzemeler ile taşıt ve iş makinelerini,
+h) Hurda malzeme: Atık trafo yağları hariç olmak üzere, faydalı ömrünü dolduran, bakım ve onarımla dahi kullanılmasına imkân bulunmayan bozulmuş, hasarlanmış, yıpranmış veya eskimiş her türlü malzemeleri,
+ı) Hurda taşıt ve iş makinesi: Karayolları Trafik Yönetmeliğinin 39 uncu maddesi hükümleri doğrultusunda hurda olarak tefrik edilen ve hurda işlemine tabi tutulan onarımla yenilenseler bile tekrar tescili yapılamayan taşıt ve iş makinelerini,
+i) İhtiyaç dışı malzeme ile taşıt ve iş makinesi: Kullanılabilecek durumda olduğu halde bulunduğu birimde, kullanım alanı kalmayan malzemeler ile taşıt ve iş makinelerini,
+j) İhtiyaç fazlası malzeme ile taşıt ve iş makinesi: Bulunduğu birimde, ihtiyacın üzerinde olan malzemeler ile taşıt ve iş makinelerini,
+k) İş makinesi: Yol inşaat makineleri ile benzeri tarım, sanayi, bayındırlık, milli savunma ile çeşitli kuruluşların iş ve hizmetlerinde kullanılan; iş amacına göre üzerine çeşitli ekipmanlar monte edilmiş; karayolunda insan, hayvan, yük taşımasında kullanılamayan motorlu araçları,
+l) İşletme malzemesi: İşletme faaliyetleri için işletme bütçesinden temin edilen malzemeleri,
+m) Kullanılmış malzeme ile taşıt ve iş makinesi: Üretim amacına uygun olarak kullanılmış, herhangi bir sebeple servis harici edilmiş ve bulunduğu haliyle kullanılabilecek nitelikte olduğu belirlenen sağlam malzemeler ile taşıt ve iş makinelerini,
+n) Malzeme: Teşekkül ihtiyaçlarını karşılamak ve belli bir amacı gerçekleştirmek için kullanılan, taşıt ve iş makineleri hariç her türlü maddeyi,
+o) Merkez teşkilatı: Teşekkül merkezinde yer alan birimleri,
+ö) Taşıt: Karayolunda insan, hayvan ve yük taşımaya yarayan araçlardan; makine gücü ile yürütülenler motorlu taşıtı, insan ve hayvan gücü ile yürütülenler ise motorsuz taşıtı,
+p) Taşra teşkilatı: Teşekkül merkezi dışında kalan birimleri,
+r) Teşekkül: Türkiye Elektrik İletim Anonim Şirketi Genel Müdürlüğünü,
+s) Yatırım malzemesi: Yıl içinde ödeneği ve proje numarası belirlenerek yatırım bütçesinden alımı yapılan malzemeleri,
+ş) Yedek parça: Bir malzemenin işlemez duruma gelen bölümünün yerine konacak yeni parçayı,
+t) Yeni malzeme ile taşıt ve iş makinesi: Hiçbir şekilde kullanılmamış ve amacına yönelik kullanıma hazır malzemeler ile taşıt ve iş makinelerini,
+ifade eder.

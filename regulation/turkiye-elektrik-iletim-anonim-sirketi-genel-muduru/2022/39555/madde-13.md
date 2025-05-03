@@ -1,0 +1,8 @@
+Malzemenin çıkışı
+MADDE 13- (1) Malzeme çıkışı; malzemenin gerekli belgeler karşılığında ilgililere teslim edilmesidir. Ambardan çıkışı yapılacak bütün malzemeler için Teşekkülde kullanılmakta olan güncel stok programında çıkış işlemi yapılarak ambar çıkış formu düzenlenir.
+(2) Ambar çıkış formu düzenlenmeden hiçbir malzeme ambardan çıkarılmaz. Ancak, acil durumlarda ambarların bağlı bulunduğu birim tarafından kullanılmak üzere ambardan alınacak malzemeler için malzeme teslim-tesellüm tutanağı (Ek-6) düzenlenir, malzeme farklı bir birime gönderilecek ise ambar sevk pusulası (Ek-7) düzenlenerek verilir. Bu durumda;
+a) Teslim-tesellüm tutanağı ve sevk pusulası kendi içlerinde birbirini takip eden sıra numaralı olarak düzenlenir ve anılan formlar üzerindeki istenen bilgiler eksiksiz ve açık olarak yazılarak imzalanır.
+b) Düzenlenen malzeme teslim-tesellüm tutanağı veya ambar sevk pusulası saklanır ve Teşekkülce kullanılmakta olan güncel stok programı kayıtlarına üç iş günü içerisinde işlenerek ambar çıkış işlemi tamamlanır.
+c) Ambardan teslim-tesellüm tutanağı ile alınarak kullanılan ve iade edilmeyecek olan malzemeler için çıkış formu düzenlenir. Ambardan teslim-tesellüm tutanağı ile alınarak kullanılmadan iade edilen veya numune olarak alınarak iade edilen malzemeler için çıkış ve giriş işlemi yapılmaz, teslim-tesellüm tutanağı düzenlenir.
+(3) Ambardan malzeme verilebilmesi için ambarın bağlı olduğu birim tarafından belirlenen usuller dâhilinde sevk talimatının verilmesi gerekir. Ambar çıkış formu üzerinde bulunması gereken bütün bilgiler eksiksiz olarak doldurulur.
+(4) İşlemleri tamamlanan malzemelerin ambar çıkış formunun bir nüshası ekleri ile birlikte bekletilmeden muhasebe ünitesine gönderilir.

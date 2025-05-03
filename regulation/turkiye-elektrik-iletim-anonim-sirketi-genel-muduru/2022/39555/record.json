@@ -1,0 +1,46 @@
+{
+  "source_id": "7.5.39555",
+  "kind": "regulation",
+  "register_kind": "Kurum ve Kuruluş Yönetmelikleri",
+  "title": "TÜRKİYE ELEKTRİK İLETİM ANONİM ŞİRKETİ AMBAR YÖNETMELİĞİ",
+  "number": "39555",
+  "issuer": "Türkiye Elektrik İletim Anonim Şirketi Genel Müdürü",
+  "issuer_slug": "turkiye-elektrik-iletim-anonim-sirketi-genel-muduru",
+  "path": "regulation/turkiye-elektrik-iletim-anonim-sirketi-genel-muduru/2022/39555",
+  "source": "https://www.mevzuat.gov.tr/anasayfa/MevzuatFihristDetayIframe?MevzuatTur=7&MevzuatNo=39555&MevzuatTertip=5",
+  "source_sha256": "fab6be9432e6c47646c497ac5d3a69229dc22e12da908b739fffa6108133bcb1",
+  "source_bytes": 63061,
+  "published": "2022-06-04",
+  "gazette": "31856",
+  "in_force": "2025-05-03",
+  "in_force_basis": "latest Resmî Gazete date printed in the source amendment notes/table (\"RG-3/5/2025\") for the current consolidated text",
+  "date_evidence": [
+    [
+      "2025-05-03",
+      "RG-3/5/2025",
+      "Resmî Gazete date printed in the source amendment note"
+    ],
+    [
+      "2025-05-03",
+      "3/5/2025",
+      "Resmî Gazete date in the source amendment table"
+    ]
+  ],
+  "commencement_clauses": [
+    "Bu Yönetmelik yayımı tarihinde yürürlüğe girer"
+  ],
+  "history": "current-text",
+  "label": "oldest version available",
+  "checked_on": "2026-11-15",
+  "word_count": 3677,
+  "text_status": "current-consolidated",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  },
+  "source_links": [
+    "7.5.39555-Ek.zip"
+  ],
+  "completeness": "html-text-complete; linked annexes not fetched"
+}
