@@ -1,0 +1,1 @@
+Geçici Madde 1— (Ek: RG-12/04/2005-25784) 4342 sayılı Mera Kanununun geçici 3 üncü maddesinde belirtilen yerlerin tahsis amacı değişikliği talepleri, bu Yönetmeliğin Resmî Gazete’de yayımı tarihinden itibaren en geç iki yıl içerisinde il müdürlüklerine yapılır.

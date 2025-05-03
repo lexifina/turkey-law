@@ -1,0 +1,2 @@
+Mera Araştırma Bölümlerinin Kurulması
+Madde 10 - Mera, yaylak ve kışlakların bakim, ıslah, koruma, kontrol ve uygun kullanımını sağlamak için araştırma, planlama, ıslah projeleri, otlatma zamanı, kullanma sistemi, koruma ve kontrol tedbirlerini tespit etmek ve yem bitkileri tarımı ile diğer yem kaynaklarını geliştirmek üzere; Üniversitelerde, Bakanlıkça uygun görülen yerlerde veya mevcut zirai araştırma enstitüleri bünyelerinde mera araştırma bölümleri kurulur ve mevcut bulunanlar yukarıdaki amaçlara hizmet edebilecek şekilde yeniden düzenlenebilir.
