@@ -1,0 +1,27 @@
+{
+  "source_id": "7.5.42391",
+  "kind": "regulation",
+  "register_kind": "Kurum ve Kuruluş Yönetmelikleri",
+  "title": "TÜRKİYE GÖRME ENGELLİLER SPOR FEDERASYONU ANA STATÜSÜ",
+  "number": "42391",
+  "issuer_slug": "kurum-ve-kurulus",
+  "path": "regulation/kurum-ve-kurulus/2025/42391",
+  "source": "https://www.mevzuat.gov.tr/anasayfa/MevzuatFihristDetayIframe?MevzuatTur=7&MevzuatNo=42391&MevzuatTertip=5",
+  "source_sha256": "ed325708f3cf5bcb50e11427bd80181395ef73bbe53cb7165c98d4bf46fc85b3",
+  "source_bytes": 171434,
+  "published": "2025-05-04",
+  "gazette": "32890",
+  "in_force": "2025-05-04",
+  "in_force_basis": "Resmî Gazete publication date in the official listing (04.05.2025)",
+  "history": "current-text",
+  "label": "oldest version available",
+  "checked_on": "2026-11-15",
+  "word_count": 10911,
+  "text_status": "current-consolidated",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  },
+  "completeness": "html-text-complete"
+}
