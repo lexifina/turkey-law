@@ -1,0 +1,27 @@
+{
+  "source_id": "7.5.42389",
+  "kind": "regulation",
+  "register_kind": "Kurum ve Kuruluş Yönetmelikleri",
+  "title": "TÜRKİYE BEDENSEL ENGELLİLER SPOR FEDERASYONU ANA STATÜSÜ",
+  "number": "42389",
+  "issuer_slug": "kurum-ve-kurulus",
+  "path": "regulation/kurum-ve-kurulus/2025/42389",
+  "source": "https://www.mevzuat.gov.tr/anasayfa/MevzuatFihristDetayIframe?MevzuatTur=7&MevzuatNo=42389&MevzuatTertip=5",
+  "source_sha256": "7ec48350238f1912527f63200bb744dc9c91c43b7eb6a0dcc3a189b589b75799",
+  "source_bytes": 168954,
+  "published": "2025-05-04",
+  "gazette": "32890",
+  "in_force": "2025-05-04",
+  "in_force_basis": "Resmî Gazete publication date in the official listing (04.05.2025)",
+  "history": "current-text",
+  "label": "oldest version available",
+  "checked_on": "2026-11-15",
+  "word_count": 10748,
+  "text_status": "current-consolidated",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  },
+  "completeness": "html-text-complete"
+}
