@@ -1,0 +1,20 @@
+{
+  "record_type": "gazette-item",
+  "gazette": "Resmî Gazete",
+  "jurisdiction": "TR",
+  "date": "2025-05-04",
+  "issue": "32890",
+  "edition": "regular",
+  "item": 5,
+  "section": "YÜRÜTME VE İDARE BÖLÜMÜ",
+  "heading": "ANA STATÜLER",
+  "title": "Türkiye Görme Engelliler Spor Federasyonu Ana Statüsü",
+  "official_link": "https://www.resmigazete.gov.tr/eskiler/2025/05/20250504-5.htm",
+  "link_format": "htm",
+  "index_url": "https://www.resmigazete.gov.tr/eskiler/2025/05/20250504.htm",
+  "index_sha256": "af5d1c91428b8b451fccabfc6ab769b5aa2ad0a10ae36fa7d62b0630f0c73c6c",
+  "index_header": "4 Mayıs 2025 ... 32890 Sayılı Resmî Gazete",
+  "issue_pdf": "https://www.resmigazete.gov.tr/eskiler/2025/05/20250504.pdf",
+  "in_force_basis": "Resmî Gazete publication date; not a commencement reading.",
+  "text_status": "metadata-only; text not yet fetched (follow-up pass adds it as its own commit)"
+}
