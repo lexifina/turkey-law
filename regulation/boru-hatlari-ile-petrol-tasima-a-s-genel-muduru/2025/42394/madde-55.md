@@ -1,0 +1,2 @@
+Sözleşme yapılmasında İdarenin görev ve sorumluluğu
+MADDE 55- (1) İdare, sözleşme yapılması hususunda kendisine düşen görevleri yapmakla yükümlüdür. İdarenin bu yükümlülüğü yerine getirmemesi halinde, istekli sözleşme imzalaması için verilen sürenin bitmesini izleyen günden itibaren en geç beş iş günü içinde, on gün süreli bir noter ihbarnamesi ile bildirmek şartı ile taahhüdünden vazgeçebilir. Bu takdirde geçici teminatı geri verilir.

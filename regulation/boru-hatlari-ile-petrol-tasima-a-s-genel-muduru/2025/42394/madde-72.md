@@ -1,0 +1,11 @@
+DOKUZUNCU BÖLÜM
+Çeşitli ve Son Hükümler
+Ceza ve yasaklar
+MADDE 72- (1) Bu Yönetmelik kapsamında yapılan ihalelerde; aday ve istekliler ile İdare görevlileri ilgisine göre, 4734 sayılı Kanun ve ilgili mevzuatında yer alan ceza ve yasaklar ile sorumluluk hükümlerine tabidir.
+(2) 4734 sayılı Kanunun 11 inci maddesinde belirtilenler ihalelere katılamazlar. Bu yasaklara rağmen ihaleye katılan istekliler ihale dışı bırakılarak geçici teminatları gelir kaydedilir. Ayrıca, bu durumun tekliflerin değerlendirmesi aşamasında tespit edilememesi nedeniyle bunlardan biri üzerine ihale yapılmışsa, teminatı gelir kaydedilerek ihale iptal edilir.
+(3) İhalelerde 4734 sayılı Kanunun 17 nci maddesinde belirtilen fiil ve davranışlarda bulunulması yasaktır. Bu fiil ve davranışlarda bulunanlar hakkında 4734 sayılı Kanunun dördüncü kısmında belirtilen hükümler uygulanır.
+(4) İhale sırasında veya sonrasında yasak fiil veya davranışlarda bulundukları tespit edilenler, ihaleye iştirak ettirilmeyecekleri gibi yasaklama kararının yürürlüğe gireceği tarihe kadar İdare tarafından yapılacak sonraki ihalelere de iştirak ettirilmezler.
+(5) Bu Yönetmelik kapsamında yapılan ihaleler sonucunda imzalanan sözleşmelerde; 4735 sayılı Kanunun 25 inci maddesinde belirtilen fiil ve davranışlarda bulunulması yasak olup bu fiil ve davranışlarda bulunanlar hakkında 4735 sayılı Kanunun 26 ncı maddesi hükümleri uygulanır.
+(6) Bu Yönetmelik kapsamında yapılan ihaleler sonucunda imzalanan sözleşmelerde; yükleniciler, alt yükleniciler, danışmanlar ve İdare görevlileri ilgisine göre 4735 sayılı Kanun ve ilgili mevzuatında yer alan ceza ve yasaklar ile sorumluluk hükümlerine tabidir.
+(7) Yasaklama kararı İdarenin ilgili olduğu Bakanlık tarafından verilir.
+(8) Bu Yönetmeliğin uygulanmasında görevliler ile danışmanlık hizmeti sunanlar; ihale süreci ile ilgili bütün işlemlere, isteklilerin iş ve işlemleri ile tekliflerin teknik ve mali yönlerine, yüklenicilerin iş ve işlemlerine, teknik ve mali yapılarına ilişkin olarak gizli kalması gereken bilgi ve belgelerle işin ihale dokümanı veya kısımlarını ve yaklaşık maliyetini ifşa edemezler, kendilerinin veya üçüncü şahısların yararına kullanamazlar. Aksine hareket edenler hakkında ilgisine göre; 4734 sayılı Kanunun 58 inci ve 60 ncı maddelerinde ya da 4735 sayılı Kanunun 26 ncı veya 28 inci maddelerinde belirtilen müeyyideler uygulanır.

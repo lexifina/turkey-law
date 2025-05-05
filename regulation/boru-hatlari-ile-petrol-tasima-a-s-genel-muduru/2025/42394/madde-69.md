@@ -1,0 +1,2 @@
+İade edilemeyen teminatlar
+MADDE 69- (1) 68 inci maddeye göre mahsup işlemi yapılmasına gerek bulunmayan hallerde; yapım işlerinde kesin hesap ve kesin kabul tutanağının onaylanmasından, diğer işlerde ise işin kabul tarihinden veya varsa garanti süresinin bitim tarihinden itibaren iki yıl içinde İdarenin yazılı uyarısına rağmen talep edilmemesi nedeniyle iade edilemeyen kesin teminat mektupları hükümsüz kalır ve bankasına iade edilir. Teminat mektubu dışındaki teminatlar sürenin bitiminde İdareye gelir kaydedilir.

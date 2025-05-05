@@ -1,0 +1,2 @@
+İhale işlem dosyası
+MADDE 15- (1) Tüm ihaleler için bir işlem dosyası düzenlenir. Bu dosyada satın alma talep formu, ihale onay belgesi, yaklaşık maliyete ilişkin hesap cetveli, ihale dokümanı, ilan ve davet metinleri, adaylar veya istekliler tarafından sunulan başvurular ve teklifler, ihale komisyonu tutanak ve kararları, şikâyetler, ön mali kontrol işlemlerine ilişkin belgeler, imzalanan sözleşme gibi ihale süreci ile ilgili bütün bilgi ve belgeler bulunur. İhale işlem dosyasının bir bölümü veya tamamı elektronik ortamda hazırlanabilir ve/veya saklanabilir.

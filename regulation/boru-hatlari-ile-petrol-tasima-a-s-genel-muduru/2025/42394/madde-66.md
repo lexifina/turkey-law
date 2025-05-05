@@ -1,0 +1,6 @@
+Kontrol, muayene ve kabul işlemleri
+MADDE 66- (1) Kontrol, muayene ve kabul işlemlerine ilişkin detaylar ihale dokümanında düzenlenir.
+(2) Muayene ve kabul işlemleri, İdare tarafından kurulacak ikisi konunun uzmanı en az üç kişilik muayene ve kabul komisyonları tarafından yapılır. Sözleşme hükümlerine uygun olarak mallar teslim edilmedikçe ve hizmetler ile yapım işleri tamamlanmadan muayene ve kabul işlemleri yapılamaz.
+(3) Sözleşmesinde hüküm bulunması halinde; imalat veya üretim süreci gerektiren işler, muayene ve kabul komisyonlarının yetki ve sorumluluğunu kaldırmaması şartıyla, istenen kalite ve özelliklere göre yapılıp yapılmadığı hususunda, İdare tarafından belirli aşamalarda ve aralıklarla denetlenebilir.
+(4) Sözleşmesinde taahhüdün tamamlanan ve müstakil kullanıma elverişli kısımları için kısmi kabul yapılacağı belirtilen işlerde veya sözleşmesinde kısmi kabul yapılması öngörülmemekle birlikte, işin yürütülmesi sırasında önceden öngörülemeyen zorunlu nedenlerle ihtiyaç görülmesi durumunda tamamlanmış ve müstakil kullanıma elverişli bölümler için; kısmi geçici veya ön kabul veya kabuller yapılabilir. İşin kısmi kabulünün yapılmış olması işin bütününün geçici veya ön kabulü yapıldığı anlamına gelmez.
+(5) İşin yürütümünde görev alan denetim personeli, işin kabul komisyonlarında görev alamaz.

@@ -1,0 +1,7 @@
+Şikâyet
+MADDE 51- (1) Bu Yönetmelik kapsamındaki ihalelerde, gerçekleştirilen işlem veya eylemlerin hukuka aykırılığı nedeniyle bir hak kaybına veya zarara uğradığını iddia eden aday ve istekliler ihalenin iptali kararları hariç ihale kararının tebliğini izleyen beş iş günü içinde ve sözleşmenin imzalanmasından önce İdareye yazılı olarak şikâyet başvurusunda bulunabilir.
+(2) İhale dokümanına ilişkin şikâyetler, ihale ilanının yayımlandığı veya ihaleye davetin bildirildiği tarihi izleyen üç iş günü içinde yapılabilir. Bu yöndeki başvuruların ihale veya son başvuru tarihinden önce sonuçlandırılması esastır.
+(3) Birinci ve ikinci fıkralardaki aşamalarda şikâyetlerini iletmeyenler daha sonra şikâyette bulunamazlar. Şikâyet başvurusunda bulunulması halinde ise İdare tarafından nihai karar verilmeden sözleşme imzalanamaz.
+(4) Yeterlik sistemine kayıt için başvuranlardan başvurusu uygun bulunmayanlar, yeterli bulunmadıklarına dair karara karşı İdareye şikâyet başvurusunda bulunabilir.
+(5) Yapılan şikâyet başvurusu üzerine İdare, gerekli incelemeyi yaparak beş iş günü içinde başvurunun reddi, düzeltici işlem belirlenmesi veya ihalenin iptali yönünde gerekçeli bir karar alır. Alınan karar, tüm aday ve isteklilere karar tarihini izleyen üç iş günü içinde bildirilir. Düzeltici işlem belirlenmesi kararı alınması halinde bu karar, ihale komisyonuna uygulanmak üzere iletilir.
+(6) Bu Yönetmelik kapsamında yapılan ihalelere yönelik olarak Kamu İhale Kurumuna itirazen şikâyet başvurusunda bulunulamaz.

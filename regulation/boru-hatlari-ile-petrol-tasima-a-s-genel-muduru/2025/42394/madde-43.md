@@ -1,0 +1,4 @@
+Geçici teminat
+MADDE 43- (1) Geçici teminat istenmesi durumunda, teklif edilen bedelin %3’ünden az olmamak üzere istekli tarafından belirlenecek tutarda geçici teminat alınır.
+(2) Geçici teminat istenmeyen hallerde, teminatın irat kaydedilmesi gereken durumlara ilişkin olarak kamu kurum ve kuruluşları dışındaki isteklilerden geçici teminat taahhütnamesi alınır.
+(3) İhale üzerinde kalan istekli ile ekonomik açıdan en avantajlı ikinci teklif sahibi istekliye ait geçici teminatlar dışında diğer isteklilere ait geçici teminatlar iade edilir. İhale üzerinde kalan istekli ile sözleşme imzalanması halinde, ekonomik açıdan en avantajlı ikinci teklif sahibine ait geçici teminat iade edilir. Kesin teminatın İdareye sunulması ve teyidinin alınması sonrasında sözleşmenin imzalanmasını müteakip ihaleyi kazanan isteklinin geçici teminatı iade edilir.

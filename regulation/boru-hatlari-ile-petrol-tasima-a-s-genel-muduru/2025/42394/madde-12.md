@@ -1,0 +1,7 @@
+İhale komisyonunun kurulması
+MADDE 12- (1) İhale yetkilisi, ihaleyi gerçekleştirmek üzere ihale komisyonunu görevlendirir.
+(2) İhale komisyonu, tek sayıda olmak üzere başkan dâhil en az beş ve en fazla dokuz kişiden oluşur. Üyelerden en az ikisinin ihale konusu işin uzmanı ve diğer bir üyenin muhasebe veya mali işlerden sorumlu personel olması zorunludur. İhaleyi gerçekleştiren birimde görevli üyelerden biri raportör üye olarak belirlenir. İhale komisyonunun görevlendirilmesi sırasında komisyonun eksiksiz toplanacağı dikkate alınarak, asıl üyeler ile bu üyelerin yerine geçecek aynı niteliklere sahip yeterli sayıda yedek üyenin isimleri ve bu üyelerin komisyonda hangi sıfatla yer alacakları belirtilir.
+(3) İhale komisyonunun ihaleyi gerçekleştirecek birim, talep sahibi birim ve ilgili diğer birimlerin personelinden oluşturulması esastır. Ancak; ihaleyi yapan idarede yeterli sayıda veya nitelikte personel bulunmaması halinde, başka idarelerden komisyona üye alınabilir.
+(4) İhale sürecindeki değerlendirmeleri yapmak üzere oluşturulan ihale komisyonu dışında, başka adlar altında komisyonlar kurulamaz.
+(5) İhale yetkilisi komisyon üyesi olamaz. Yönetim Kurulunun ihale yetkilisi olması halinde, Yönetim Kurulu üyeleri ihale komisyonlarında görev alamazlar.
+(6) İhale komisyonu karar ve tutanaklarının hazırlanması dâhil tüm idari işlem ve yazışmalar, ihaleyi gerçekleştiren birimde görevli raportör üye tarafından yürütülür.

@@ -1,0 +1,7 @@
+Taleplerin bildirilmesi
+MADDE 8- (1) Mal ve hizmet alımları ile yapım işleri, onaylanmış ihale planı doğrultusunda satın alma talep formu ile talep edilir.
+(2) Talep sahibi birim tarafından hazırlanan satın alma talep formu ve ekleri, yetki limitlerine göre onaylanarak ihale birimine gönderilir. Satın alma talep formu ve ekleri; talep edilen mal ve hizmet alımları ile yapım işlerinin konusu, niteliği, miktarı, yaklaşık maliyeti, uygulanacak mevzuat, ihale usulü ve gerekçesi, ihale usulünün belirlenmesinde dikkate alınacak şartlara ilişkin bilgi ve belgeler, davet edilecek firmalar listesi veya bunların belirlenmesinde kullanılacak yeterlik şartları, ödenek kalemi ve tutarı, sözleşme tasarısına konulması istenen avans ve fiyat farkı ve benzeri özel hükümler, teknik şartname ve projeler gibi ihale onayı için gereken bilgi ve belgeleri içermelidir. Talep sahibi birimin ihale usulü ile ilgili teklifi tavsiye niteliğinde olup, ihale usulünü ihale yetkilisi belirler.
+(3) Tip teknik şartnameler hariç, teknik şartnameler hazırlayanlar tarafından tarafsızlık ve gizlilik beyanı imzalanarak gönderilir.
+(4) Talep edilen mal ve hizmet alımı ile yapım işinin tek kaynaktan temin edilmesi zorunlu ise hazırlanan gerekçe raporu yetkililerce imzalanarak satın alma talep formunun ekinde ihale birimine gönderilir.
+(5) İhale usulünün belirlenmesinde dikkate alınacak şartların mevcudiyeti konusundaki sorumluluk talep sahibi birime aittir.
+(6) Satın alma taleplerinde varsa ihalenin diğer ihalelerle ilişkisi ve etkisine de yer verilir.

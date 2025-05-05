@@ -1,0 +1,6 @@
+İş artışı ve eksilişi
+MADDE 62- (1) Sözleşme kapsamında öngörülemeyen durumlar nedeniyle veya zorunlu hallerde iş artışı veya eksilişi yapılabilir.
+(2) Artışa konu olan iş, sözleşmeye esas işin kapsamında kalması ve İdareyi külfete sokmaksızın asıl işten ayrılmasının teknik veya ekonomik olarak mümkün olmaması şartlarıyla sözleşme bedelinin; anahtar teslimi götürü bedel yapım işlerinde %10 oranına, birim fiyatlı yapım işleri ile mal ve hizmet alımlarında ise %20 oranına kadar aynı yükleniciye sözleşmedeki hükümler çerçevesinde yaptırılabilir.
+(3) Sözleşmeyi yürütmekle görevli birim, artırma veya eksiltme ile ilgili talebi için gerekçeli bir rapor hazırlar, ilave iş için ek süre verilecekse raporunda belirtir ve sözleşmeyi imzalamaya yetkili makamdan onay alır.
+(4) Ek sipariş veya miktar artırımlarında yükleniciye ek süre verilebilir.
+(5) Sözleşme bedelinin %70’inden daha düşük bedelle tamamlanacağı anlaşılan işlerde, yüklenici işi bitirmek zorundadır. Bu durumda yükleniciye, yapmış olduğu gerçek giderleri ve kârına karşılık olarak, sözleşme bedelinin %70’i ile sözleşme fiyatlarıyla yaptığı işin tutarı arasındaki bedel farkının %5’i geçici kabul tarihindeki fiyatlar üzerinden ödenir.
