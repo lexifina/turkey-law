@@ -1,0 +1,23 @@
+{
+  "number": "meeting-05-05",
+  "number_as_published": null,
+  "year": 2025,
+  "title": "05.05.2025 - MECLİS KARAR ÖZETLERİ",
+  "decision_date": "2025-05-05",
+  "source": "https://www.kepez-bld.gov.tr/parliament_538_05-05-2025---meclis-karar-ozetleri",
+  "official_document": "https://www.kepez-bld.gov.tr/file_parliament_2847_05-05-2025---meclis-karar-ozetleri.pdf",
+  "source_sha256": "9d541a0852441068fd4dcb4316a2f8db8fa967d3ac012a62a49f7dae8da10d63",
+  "issuer": "Kepez Belediye Meclisi",
+  "history_type": "metadata",
+  "text_status": "metadata-only: listing fields as published; complete decision text is in the linked official document, not transcribed",
+  "in_force": "2025-05-05",
+  "in_force_basis": "Decision date as printed in the official council listing: 05.05.2025 - MECLİS KARAR ÖZETLERİ (official title); adoption date of the council decision; legal commencement not asserted",
+  "missing": [
+    "complete official decision text",
+    "official annexes"
+  ],
+  "law_text_complete": false,
+  "privacy_withheld": false,
+  "record_scope": "one official PDF of decision summaries per council meeting",
+  "listing": "https://www.kepez-bld.gov.tr/page_53_meclis-kararlari?&page=2"
+}
