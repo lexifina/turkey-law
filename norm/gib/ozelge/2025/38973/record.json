@@ -1,0 +1,22 @@
+{
+  "kind": "norm",
+  "issuer": "Gelir İdaresi Başkanlığı",
+  "document_type": "ozelge",
+  "number": "E-49327596-120[GVK.ÖZ.2024.127]-122355",
+  "source_id": 38973,
+  "date": "2025-05-05",
+  "title": "Gelir Vergisi Kanununun Mükerrer 20/B Maddesi Kapsamında İstisna Uygulaması",
+  "source": "https://gib.gov.tr/mevzuat/kanun/436/ozelge/38973",
+  "related_law": "3065 sayılı KATMA DEĞER VERGİSİ KANUNU",
+  "source_api": "https://gib.gov.tr/api/gibportal/mevzuat/ozelge/list",
+  "source_listing": "evidence/list/2026-11-16/ozelge-p009.json",
+  "source_listing_sha256": "9cb52b4963a9a177a23948f6e28c12936c2f43c88a0b410872bb81c01983667c",
+  "source_sha256": "a0a69b9a6348be50e58e71c64d55ef392cfbfcf4c21316f70c71f2d49b287147",
+  "text_status": "as-enacted",
+  "text_file": "metin.md",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  }
+}
