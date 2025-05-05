@@ -1,0 +1,23 @@
+{
+  "number": "78",
+  "number_as_published": "78",
+  "year": 2025,
+  "title": "78 Sayılı Meclis Kararı",
+  "decision_date": "2025-05-05",
+  "source": "https://www.yenisehir.bel.tr/dokumanlar?slug=meclis-kararlari",
+  "official_document": "https://www.yenisehir.bel.tr/uploads/mk-2025-212.docx",
+  "source_sha256": "a5c74ef62c1a6ccf81f131ec6759bebb7f8d411f40ba74e4081941883cc14e96",
+  "issuer": "Yenişehir Belediye Meclisi",
+  "history_type": "metadata",
+  "text_status": "metadata-only: listing fields as published; complete decision text is in the linked official document, not transcribed",
+  "in_force": "2025-05-05",
+  "in_force_basis": "Decision date as printed in the official council listing: 05.05.2025 (date on the official list); adoption date of the council decision; legal commencement not asserted",
+  "missing": [
+    "complete official decision text",
+    "official annexes"
+  ],
+  "law_text_complete": false,
+  "privacy_withheld": false,
+  "listing_section": "2025/10",
+  "record_scope": "one council decision"
+}
