@@ -1,0 +1,21 @@
+{
+  "record_type": "parliament-written-question",
+  "term": 28,
+  "legislative_year": 3,
+  "esas_no": "7/28032",
+  "submitted": "2025-05-05",
+  "submitted_as": "Başkanlığa geliş tarihi",
+  "mp": "Ali GÖKÇEK",
+  "province": "İstanbul",
+  "summary": "Ülkemizdeki çakarlı araç sayısına ilişkin",
+  "status": "Süresi Geçtikten Sonra Cevaplandı",
+  "status_as_of": "2026-11-16",
+  "official_record": "https://www.tbmm.gov.tr/Denetim/Yazili-Soru-Onergesi-Detay/29cc6567-fe08-471d-9e3d-0196a9eb6144",
+  "source": "https://tbmm.gov.tr/Denetim/YaziliSoruOnergesiTable",
+  "source_form": "https://tbmm.gov.tr/Denetim/Yazili-Soru-Onergeleri",
+  "source_sha256": "9c2124d4362c768b902e4a646975a2b31189c8c4309d75245fcce93cd772c52c",
+  "in_force": "2025-05-05",
+  "in_force_basis": "Date the question reached the Speaker (Başkanlığa geliş tarihi) in the official TBMM written-question record; parliamentary oversight record, not law",
+  "history_type": "metadata",
+  "text_status": "metadata-only: question text, addressee and answers are in the linked official record (PDFs on cdn.tbmm.gov.tr); not transcribed here"
+}
