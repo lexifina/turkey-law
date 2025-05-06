@@ -1,0 +1,17 @@
+{
+  "kind": "decision",
+  "issuer": "Sayıştay 7. Dairesi",
+  "number": "650",
+  "decision_date": "2025-05-06",
+  "source_id": 39512,
+  "chamber": "7",
+  "ilam_number": "407",
+  "item_number": 3,
+  "public_body_type": "Belediyeler ve Bağlı İdareler",
+  "account_year": 2017,
+  "subject": "Personel Mevzuatı ile İlgili Kararlar",
+  "source": "https://www.sayistay.gov.tr/KararlarDaire/Detay/39512/",
+  "source_sha256": "23b296a49a58d29787b435c96af3064b8d1df04254586390fb7d13b8807bdcb3",
+  "text_status": "as-enacted",
+  "text_file": "metin.md"
+}
