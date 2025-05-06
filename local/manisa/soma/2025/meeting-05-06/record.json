@@ -1,0 +1,24 @@
+{
+  "number": "meeting-05-06",
+  "number_as_published": "meeting-05-06",
+  "year": 2025,
+  "title": "06.05.2025 77-110 2025 Mayıs Ayı Meclis Karar Özetleri",
+  "decision_date": "2025-05-06",
+  "source": "https://www.soma.bel.tr/karar-detay/2025-mayis-ayi-meclis-karar-oezetleri/72",
+  "official_document": "https://www.soma.bel.tr/media/meclis_kararlari/1747381460MayisMeclisKararOzetleri.pdf",
+  "source_sha256": "d3324b6722e3a25462532dcda18eab31fcfc4e1e4558f3efb71ee8997989dbe2",
+  "issuer": "Soma Belediye Meclisi",
+  "history_type": "metadata",
+  "text_status": "metadata-only: listing fields as published; complete decision text is in the linked official document, not transcribed",
+  "in_force": "2025-05-06",
+  "in_force_basis": "Decision date as printed in the official council listing: 06.05.2025; adoption date of the council decision; legal commencement not asserted",
+  "missing": [
+    "complete official decision text",
+    "official annexes"
+  ],
+  "law_text_complete": false,
+  "privacy_withheld": false,
+  "listing_label": "06.05.2025 77-110 2025 Mayıs Ayı Meclis Karar Özetleri",
+  "record_scope": "one official file of council decisions (meeting)",
+  "official_page": "https://www.soma.bel.tr/karar-detay/2025-mayis-ayi-meclis-karar-oezetleri/72"
+}
