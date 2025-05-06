@@ -1,0 +1,30 @@
+Tanımlar
+MADDE 4 – (Değişik:RG-6/5/2025-32892)
+(1) Bu Yönetmelikte geçen;
+a) Bağlı muamele: İkiden fazla taraf arasında yapılan takas işlemini,
+b) Bakanlık: Ticaret Bakanlığını,
+c) Basitleştirilmiş Gümrük Beyannamesi: Posta veya hızlı kargo yoluyla taşınan ve 29/9/2009 tarihli ve 2009/15481 sayılı Bakanlar Kurulu Kararı ile yürürlüğe konulan 4458 Sayılı Gümrük Kanununun Bazı Maddelerinin Uygulanması Hakkında Kararın 126 ncı maddesinin birinci fıkrasının (a) ve (c) bentleri kapsamı eşyanın operatör tarafından beyan edilmesinde kullanılan, basitleştirilmiş veri setine sahip elektronik gümrük beyannamesini,
+ç) Başlamış işlem:
+1) Açılan uluslararası ihalelere istinaden yapılan yabancı devlet bağlantılarında, alıcı kuruluş ile bağlantının yapıldığını gösteren yazılı sözleşmenin taraflarca imzalanmış olmasını,
+2) Bedelsiz ihracatta, gümrük mevzuatı uyarınca gümrük beyannamesi düzenlenmesi gereken hâllerde gümrük beyannamesinin tescil edilmiş olmasını,
+3) Genel esaslar çerçevesinde, gümrük beyannamesinin İhracatçı Birlikleri Genel Sekreterliğine onaylatılmış olmasını,
+4) Kayda bağlı ihracatta, İhracatçı Birlikleri Genel Sekreterliğince kaydın verilmiş olmasını,
+5) Konsinye ihracat ile yurt dışı müteahhitlik ve teknik müşavirlik kapsamındaki ihracatta, iznin verilmiş olmasını,
+6) Müsaadeye bağlı ihracatta müsaadenin verilmiş olmasını,
+7) Offset kapsamında ihracatta offset anlaşmasının imzalanmış olmasını,
+d) Bedelsiz ihracat: Karşılığında yurt dışından bir ödeme yapılmaksızın yurt dışına mal çıkarılmasını,
+e) Elektronik İhracat (e-ihracat): Uzaktan iletişim araçlarıyla, yürürlükteki ihracat mevzuatı ile gümrük mevzuatına uygun şekilde başka bir ülkeye yönelik olarak gerçekleştirilen ve e-ticaret olarak beyan edilen mesafeli mal satışını,
+f) Gün: Aksi belirtilmedikçe takvim gününü,
+g) İhracat: Bir malın, yürürlükteki ihracat mevzuatı ile gümrük mevzuatına uygun şekilde Türkiye gümrük bölgesi dışına veya serbest bölgelere çıkarılmasını veyahut Bakanlıkça ihracat olarak kabul edilecek sair çıkış ve işlemleri,
+ğ) İhracatçı: İhraç edeceği mala göre ilgili İhracatçı Birlikleri Genel Sekreterliğine üye olan, vergi numarasına sahip gerçek veya tüzel kişiler ile tüzel kişilik statüsüne sahip olmamakla birlikte ilgili mevzuat hükümlerine istinaden hukuki tasarruf yapma yetkisi tanınan ortaklıkları,
+h) İhracatçı Birlikleri Genel Sekreterliği onayı/kaydı: İhracatçı Birlikleri Genel Sekreterliği tarafından gümrük beyannamesi onay/kayıt işlemleriyle ilgili olarak verilecek onay, kayıt ve/veya elektronik onayı/kaydı,
+ı) İhraç müsaadesi: Ülke ekonomisinin ihtiyaçları, iç ve dış piyasa arz ve talep durumu, satış şekli ile alıcı ülke ve firmaların Ülkemiz ile olan ticari ve ekonomik ilişkileri gibi hususlar göz önünde tutularak Bakanlıkça verilen ihraç iznini,
+i) Kayda bağlı ihracat: Gümrük beyannamesinin, ihracattan önce İhracatçı Birlikleri Genel Sekreterliğince kayda alındığı ihracat şeklini,
+j) Kesin satış: Konsinye ihracatta malın nihai kullanıcıya satılmasını,
+k) Konsinye ihracat: Kesin satışı daha sonra yapılmak üzere yurt dışındaki alıcılara, komisyonculara, ihracatçının yurt dışındaki şube veya temsilciliklerine ve/veya e-ihracat kapsamında yurt dışı pazaryerlerine, e-ticaret sitelerine veya diğer e-ticaret platformlarına mal gönderilmesini,
+l) Mal: Her türlü eşya, madde, ürün veya değeri,
+m) Offset: Kamu kuruluşları tarafından açılan uluslararası ihaleler çerçevesinde, ihaleyi kazanan firma veya kuruluş tarafından, Türkiye’de üretilen malların, gelir ve giderleri Türkiye’de kaydedilen yurt dışı müteahhitlik hizmetlerinin ve diğer hizmetlerin yeni alıcılara ihracatı veya mevcut alıcılara yönelik ihracat artışı ile taahhüt gereğince Türkiye’nin mevcut ihracat potansiyelinin geliştirilmesine yönelik Bakanlıkça onaylanan diğer işlemleri,
+n) Takas: İhraç veya ithal edilen mal veya hizmet bedelinin, kısmen veya tamamen mal, hizmet veya döviz ile karşılanması işlemini,
+o) Ticari kiralama: Malların kira bedeli karşılığı belirli bir süre kullanılmak üzere geçici olarak Türkiye gümrük bölgesi dışına veya serbest bölgelere çıkarılmasını,
+ö) Transit ticaret: Yurt dışında veya serbest bölgede yerleşik bir firmadan ya da antrepodan satın alınan malın, Ülkemiz üzerinden transit olarak veya doğrudan doğruya yurt dışında veya serbest bölgede yerleşik bir firmaya ya da antrepoya satılmasını,
+ifade eder.

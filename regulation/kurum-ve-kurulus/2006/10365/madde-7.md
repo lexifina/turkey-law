@@ -1,0 +1,4 @@
+Kayda bağlı ihracat
+MADDE 7 – (1) İhracı kayda bağlı mallar, (Değişik ibare:RG-6/5/2025-32892) Bakanlıkça yayımlanacak Tebliğ ile belirlenir.
+(2) İhracı Kayda Bağlı Mallara İlişkin Tebliğ kapsamındaki malların ihracından önce gümrük beyannamelerinin İhracatçı Birlikleri Genel Sekreterliğince kayda alınması gerekir.
+(3) İhracatçı Birlikleri Genel Sekreterliğince kayda alınmış gümrük beyannamesinin gümrük idarelerine sunulma süresi, İhracatçı Birlikleri Genel Sekreterliğinin onay tarihinden itibaren uzatılmamak üzere otuz gündür. Ancak, ülkemiz ihraç ürünlerine miktar kısıtlaması uygulayan ülkelere yapılan, kısıtlama kapsamındaki malın ihracına ait kayıt meşruhatı düşülerek onaylanmış gümrük beyannamelerinin gümrük idarelerine sunulma süresi, otuz günden daha kısa veya daha uzun olarak (Değişik ibare:RG-6/5/2025-32892) Bakanlıkça belirlenebilir.

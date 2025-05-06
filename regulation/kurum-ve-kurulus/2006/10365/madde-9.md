@@ -1,0 +1,9 @@
+Konsinye ihracat
+MADDE 9 – (Değişik:RG-6/5/2025-32892)
+(1) Konsinye ihracat başvuruları ilgili İhracatçı Birlikleri Genel Sekreterliğine yapılır ve doğrudan İhracatçı Birlikleri Genel Sekreterliğince sonuçlandırılır.
+(2) İhracatçı Birlikleri Genel Sekreterliğince konsinye ihracat olarak onaylanmış gümrük beyannamelerinin otuz gün içinde gümrük idarelerine sunulması gerekir.
+(3) İhracatçılar, konsinye olarak gönderilen malların kesin satışının yapılmasından sonraki yüz yirmi gün içinde durumu, kendileri tarafından düzenlenmiş kesin satış faturası veya örneği ve gerekli diğer belgeler ile birlikte izni veren İhracatçı Birlikleri Genel Sekreterliğine ve aracı bankaya bildirir.
+(4) İhracatçı Birlikleri Genel Sekreterliği, verdikleri konsinye ihracat izinlerine ait bilgileri, malın kesin satışının kendilerine bildirilmesinden itibaren beş gün içinde aracı bankaya ve konsinye ihracata ilişkin gümrük beyannamesinin tescil edildiği gümrük idaresine bildirir.
+(5) Konsinye olarak gönderilen malın ihraç tarihinden itibaren bir yıl içinde kesin satışının yapılması gerekir. Bu süre, haklı ve zorunlu nedenlere istinaden müracaat edilmesi halinde, izni veren İhracatçı Birlikleri Genel Sekreterliğince iki yıl daha uzatılabilir.
+(6) Konsinye olarak gönderilen malın, konsinye ihraç izin süresi içinde satılamaması halinde, malın gümrük mevzuatı çerçevesinde beşinci fıkrada belirtilen süre içinde yurda getirilmesi gerekir.
+(7) Basitleştirilmiş gümrük beyannamesi kapsamında konsinye ihracat yapılmasına ilişkin usul ve esaslar 22/4/2022 tarihli ve 31817 sayılı Resmî Gazete’de yayımlanan Posta ve Hızlı Kargo Yoluyla Taşınan Eşyanın Gümrük İşlemlerine İlişkin Tebliğ (Seri No: 1)’e tabidir. Bu kapsamda gerçekleştirilen konsinye ihracat işlemlerinde konsinye olarak gönderilen malın ihraç tarihinden itibaren bir yıl içinde kesin satışının yapılması gerekir. Bu süre uzatılmaz.

@@ -1,0 +1,5 @@
+Gümrük idarelerince yapılacak işlemler
+MADDE 17 – (1) Otomasyona geçmiş gümrük idareleri, ihracat işlemlerinde tescil onayı yapılmadan önce, gümrük beyannamesi üzerinde İhracatçı Birlikleri Genel Sekreterliğinin elektronik ortamda oluşturdukları "Birlik Onay Kodu"nu ararlar. "Birlik Onay Kodu" doğrulanmayan gümrük beyannamelerine istinaden mal çıkışı yapılmaz.
+(2) Otomasyona geçmemiş gümrük idareleri ise, ihracat işlemlerinde gümrük beyannamesi üzerinde İhracatçı Birlikleri Genel Sekreterliğinin onayını/kaydını ararlar. İhracatçı Birlikleri Genel Sekreterliği onayı/kaydı bulunmayan gümrük beyannamelerine istinaden mal çıkışı yapılmaz.
+(3) Gümrük idareleri, ihracatı müteakip durumu ilgili İhracatçı Birlikleri Genel Sekreterliğine bildirir.
+(4) (Değişik:RG-12/7/2008-26934) Gümrük idarelerince tescil edilen gümrük beyannameleri üzerinde herhangi bir değişiklik yapılması veya gümrük beyannamelerinin iptal edilmesi halinde, bu husus işlemi yapan gümrük idaresi tarafından onayı/kaydı veren İhracatçı Birlikleri Genel Sekreterliğine, mükellefin bağlı bulunduğu vergi dairesine ve Türkiye İstatistik Kurumuna bildirilir.
