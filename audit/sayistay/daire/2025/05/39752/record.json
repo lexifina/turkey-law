@@ -1,0 +1,17 @@
+{
+  "kind": "decision",
+  "issuer": "Sayıştay 3. Dairesi",
+  "number": "537",
+  "decision_date": "2025-05-06",
+  "source_id": 39752,
+  "chamber": "3",
+  "ilam_number": "180",
+  "item_number": 1,
+  "public_body_type": "Belediyeler ve Bağlı İdareler",
+  "account_year": 2020,
+  "subject": "Personel Mevzuatı ile İlgili Kararlar",
+  "source": "https://www.sayistay.gov.tr/KararlarDaire/Detay/39752/",
+  "source_sha256": "04e21c542a88827b9e448f7e9b8b60208cd35806c6c7c25f8b2fec1d8cdbc24e",
+  "text_status": "as-enacted",
+  "text_file": "metin.md"
+}
