@@ -1,0 +1,21 @@
+{
+  "record_type": "parliament-written-question",
+  "term": 28,
+  "legislative_year": 3,
+  "esas_no": "7/27946",
+  "submitted": "2025-05-06",
+  "submitted_as": "Başkanlığa geliş tarihi",
+  "mp": "Ferit ŞENYAŞAR",
+  "province": "Şanlıurfa",
+  "summary": "ÇKS kayıt ve yenileme işlemlerine ilişkin",
+  "status": "Süresi Geçtikten Sonra Cevaplandı",
+  "status_as_of": "2026-11-16",
+  "official_record": "https://www.tbmm.gov.tr/Denetim/Yazili-Soru-Onergesi-Detay/b6f46c85-8f97-48b7-9ca2-0196aaa1c9b1",
+  "source": "https://tbmm.gov.tr/Denetim/YaziliSoruOnergesiTable",
+  "source_form": "https://tbmm.gov.tr/Denetim/Yazili-Soru-Onergeleri",
+  "source_sha256": "f7a239d3e0464327946f9b2e58c3309662d41ab36e1015200253b46582a9439d",
+  "in_force": "2025-05-06",
+  "in_force_basis": "Date the question reached the Speaker (Başkanlığa geliş tarihi) in the official TBMM written-question record; parliamentary oversight record, not law",
+  "history_type": "metadata",
+  "text_status": "metadata-only: question text, addressee and answers are in the linked official record (PDFs on cdn.tbmm.gov.tr); not transcribed here"
+}
