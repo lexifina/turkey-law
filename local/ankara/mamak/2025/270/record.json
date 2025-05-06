@@ -1,0 +1,29 @@
+{
+  "number": "270",
+  "number_as_published": "270",
+  "year": 2025,
+  "title": "Belediyemizce 2025 yılı ilk üç ayda gerçekleştirilen yatırım çalışmaları ve sonuçlarına ilişkin, Meclis Kararı",
+  "decision_date": "2025-05-06",
+  "source": "https://www.mamak.bel.tr/gundem/GetKararlar",
+  "official_document": "https://www.mamak.bel.tr/gundem/DosyaDownload?guid=63748ccb-5466-4254-b2e7-8e01660d7e14",
+  "source_sha256": "f554089df68731558a37947c976f196303cdbdc5704c52cb6912834ca94730d3",
+  "issuer": "Mamak Belediye Meclisi",
+  "history_type": "metadata",
+  "text_status": "metadata-only: listing fields as published; complete decision text is in the linked official document, not transcribed",
+  "in_force": "2025-05-06",
+  "in_force_basis": "Decision date as printed in the official council listing: 2025-05-06T00:00:00 (kararTarihi of the official register); adoption date of the council decision; legal commencement not asserted",
+  "missing": [
+    "complete official decision text",
+    "official annexes"
+  ],
+  "law_text_complete": false,
+  "privacy_withheld": false,
+  "listing_page": "https://www.mamak.bel.tr/gundem/kararlar",
+  "register_api": "https://www.mamak.bel.tr/gundem/GetKararlar",
+  "official_documents": [
+    "https://www.mamak.bel.tr/gundem/DosyaDownload?guid=63748ccb-5466-4254-b2e7-8e01660d7e14",
+    "https://www.mamak.bel.tr/gundem/DosyaDownload?guid=123f8bac-8389-4f40-9864-8e7751106849",
+    "https://www.mamak.bel.tr/gundem/DosyaDownload?guid=e2e74cc2-a93e-4cc8-92a5-6cb3fb7208b1",
+    "https://www.mamak.bel.tr/gundem/DosyaDownload?guid=8750e12e-f108-4750-addf-d37eea6920f7"
+  ]
+}
