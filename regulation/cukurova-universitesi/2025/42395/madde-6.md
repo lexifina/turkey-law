@@ -1,0 +1,14 @@
+Merkezin faaliyet alanları
+MADDE 6- (1) Merkezin faaliyet alanları şunlardır:
+a) Kadın ve aile çalışmaları ve/veya toplumsal cinsiyet ile ilgili lisans ve lisansüstü düzeylerde yürütülen eğitim çalışmalarını desteklemek.
+b) Üniversite bünyesinde faaliyet gösteren tüm akademik birimler, uygulama ve araştırma merkezleri ile iş birliği içinde çalışmalar yürütmek.
+c) Kadınların kişisel ve mesleki bilgi, yetenek ve becerilerini geliştirecek kurumsal yapı ve mekanizmaların kapasitelerini ve niteliklerini iyileştirecek, kadınların sosyal, siyasi ve ekonomik alanda karar mekanizmalarına katılımlarını güçlendirecek, sosyal ve ekonomik kalkınmaya katkı sağlayacak çalışmalarda bulunmak.
+ç) Kadınların ekonomik, teknolojik ve dijital temelli gelişmeler karşısında kapasitesini ve becerilerini geliştirici faaliyet ve etkinliklerde bulunmak ve/veya bu etkinliklere katkı sağlamak ve aile içi şiddetle mücadeleye ilişkin faaliyetler yürütmek.
+d) Kadın çalışmaları ve toplumsal cinsiyet konularıyla ilgili Üniversitede yayın yapılmasını teşvik etmek, kadın çalışmaları ve toplumsal cinsiyet ile ilgili alanlarda ulusal ve/veya uluslararası bilimsel dergi faaliyetlerini yürütmek.
+e) İlgili mevzuat hükümleri kapsamında toplumsal cinsiyet üzerine uzmanlara, araştırmacılara, öğrencilere ve kurumlara eğitim programları düzenlemek veya düzenlenen eğitim programlarına paydaş olmak, ilgili birimlerle sertifika programı düzenlemek.
+f) Kadın istihdamı ve girişimciliğinin desteklenmesini sağlayıcı, kadının ekonomik alanda varlığını, katkısını, etkinliğini artırıcı ve ekonomik gücünü iyileştirecek çalışmalar yapmak, iş yaşamına etkin katılamayan aile bireylerinin iş hayatında varlığını artırıcı çalışmalar yapmak.
+g) Engelli, şiddet görmüş, istismara uğramış, madde bağımlısı, sığınmacı, hükümlü ve benzeri grupların ve aile bireylerinin yaşadıkları sorunların ve risklerin etkin bir şekilde araştırılması ve bu sorunların çözülmesine yönelik çalışmalarda bulunmak, strateji ve politikalar geliştirilmesine katkı sağlamak.
+ğ) Kadınların, kız çocuklarının ve diğer aile bireylerinin aile içinde ve yaşamın tüm alanlarında karşılaşabilecekleri temel sorunların erken dönemde tespit edilmesi, önlenmesi ve azaltılmasına yönelik önleyici, bireysel, sosyal, ekonomik, hukuki stratejilere, politikalara ve kurumsal mekanizmalara destek olmak.
+h) Merkezin, amaçları doğrultusunda bağımsız veya diğer bilim kuruluşlarıyla iş birliği yaparak kongre, sempozyum, panel, atölye çalışmaları ve kurslar düzenlemek, kamu ve özel kuruluşlarla ortak projeler yürütmek ve bilimsel araştırma projelerinde iş birliğine girmek.
+ı) Merkeze bağlı inceleme, araştırma, uygulama birimleri kurmak, koordinatörün görev, yetki ve sorumluluklarını belirlemek.
+i) Merkezin kuruluş amacına ve Yükseköğretim Kanununun amaç ve ilkelerine uygun diğer faaliyetleri düzenlemek ve yürütmek.
