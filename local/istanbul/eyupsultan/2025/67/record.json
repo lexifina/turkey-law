@@ -1,0 +1,22 @@
+{
+  "number": "67",
+  "number_as_published": "2025/67",
+  "year": 2025,
+  "title": "Alibeyköy Mahallesi, 53/11-12 parsel ve tescil harici alanda bulunan sağlık tesisi alanına ilişkin Uygulama İmar Planı değişikliği",
+  "decision_date": "2025-05-08",
+  "source": "https://eyupsultan.bel.tr/tr/main/pages/2025-mayis-ayi-meclis-kararlari/2719",
+  "official_document": "https://eyupsultan.bel.tr/tr/main/pages/2025-67/2728",
+  "source_sha256": "3a52e1579002a497f841c61adac2d29d5bb059fb48b3aea44da247d55c4244c6",
+  "issuer": "Eyüpsultan Belediye Meclisi",
+  "history_type": "metadata",
+  "text_status": "metadata-only: listing fields as published; complete decision text is in the linked official document, not transcribed",
+  "in_force": "2025-05-08",
+  "in_force_basis": "Decision date as printed in the official council listing: 08.05.2025 (meeting date at the start of the decision page); adoption date of the council decision; legal commencement not asserted",
+  "missing": [
+    "complete official decision text",
+    "official annexes"
+  ],
+  "law_text_complete": false,
+  "privacy_withheld": false,
+  "decision_page_sha256": "c148277a8045d21826e51ef3209f190c5cae2fb5ac9d481b3139cdbce4eca149"
+}
