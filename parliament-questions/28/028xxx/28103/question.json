@@ -1,0 +1,21 @@
+{
+  "record_type": "parliament-written-question",
+  "term": 28,
+  "legislative_year": 3,
+  "esas_no": "7/28103",
+  "submitted": "2025-05-08",
+  "submitted_as": "Başkanlığa geliş tarihi",
+  "mp": "Yüksel Selçuk TÜRKOĞLU",
+  "province": "Bursa",
+  "summary": "Bursa'nın Gemlik ilçesinde bulunan bir sanayi tesisinde yapılması planlanan kapasite artışının çevreye etkilerine ilişkin",
+  "status": "Süresi Geçtikten Sonra Cevaplandı",
+  "status_as_of": "2026-11-16",
+  "official_record": "https://www.tbmm.gov.tr/Denetim/Yazili-Soru-Onergesi-Detay/116468c3-076f-4284-b694-0196b4b5c867",
+  "source": "https://tbmm.gov.tr/Denetim/YaziliSoruOnergesiTable",
+  "source_form": "https://tbmm.gov.tr/Denetim/Yazili-Soru-Onergeleri",
+  "source_sha256": "fa9853b9f8060e354789fa2501ff32dbbe8e866832ee20392f4e7c6d2a954fcb",
+  "in_force": "2025-05-08",
+  "in_force_basis": "Date the question reached the Speaker (Başkanlığa geliş tarihi) in the official TBMM written-question record; parliamentary oversight record, not law",
+  "history_type": "metadata",
+  "text_status": "metadata-only: question text, addressee and answers are in the linked official record (PDFs on cdn.tbmm.gov.tr); not transcribed here"
+}
