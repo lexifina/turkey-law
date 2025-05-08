@@ -1,0 +1,3 @@
+Bebek bakım odası ve çocuk oyun alanı
+MADDE 9 – (1) Alışveriş merkezinde kolay ulaşılabilir yerlerde, her katta on metrekareden az olmamak üzere yeterli büyüklükte ve sayıda, içinde lavabosu, alt değiştirme ünitesi, emzirme koltuğu ve sehpa bulunan, yeterli iklimlendirme ve hijyen şartlarına sahip yeterli sayıda bebek bakım odası oluşturulur.
+(2) Alışveriş merkezinde 0-10 yaş grubu çocukların oyun oynaması için yaş gruplarına göre ayrıştırılmış biçimde, ebeveynlerin çocuklarının gözetimini sağlayabileceği oturma yerleri bulunan, yaralanma ve kazalara karşı güvenlik tedbirleri alınmış, yeterli sayıda çocuk oyun alanı oluşturulur.

@@ -1,0 +1,7 @@
+Acil tıbbi müdahale ünitesi
+MADDE 8 – (1) Acil tıbbi durumlarda ilk müdahalenin yapılabilmesi ve ihtiyaç halinde en yakın hastaneye sevkin sağlanabilmesi amacıyla, alışveriş merkezinin kolay ulaşılabilir bir yerinde en az yirmi metrekare büyüklüğünde acil tıbbi müdahale ünitesi oluşturulur.
+(2) Acil tıbbi müdahale ünitesinin girişinde “Acil Tıbbi Müdahale Ünitesi” yazısı ve işareti yer alır. Acil tıbbi müdahale ünitesinin yeri yönlendirme levhalarıyla gösterilir.
+(3) Satış alanı yirmi bin metrekarenin altında olan alışveriş merkezinde en az bir acil tıp teknisyeni veya acil tıp teknikeri, yirmi bin ila elli bin metrekare olan alışveriş merkezinde en az birer acil tıp teknisyeni ve acil tıp teknikeri veya acil tıp teknikeri bulunamayan hallerde en az iki acil tıp teknisyeni, satış alanı elli bin ila yüz bin metrekare olan alışveriş merkezinde en az birer acil tıp teknisyeni ve acil tıp teknikeri, satış alanı yüz bin metrekare ve üzerinde olan alışveriş merkezinde ise en az birer acil tıp teknisyeni ve tıp doktoru bulundurulur.
+(4) Acil tıbbi müdahale ünitesinde Sağlık Bakanlığı tarafından belirlenen nitelik ve miktarda ilk yardım malzemesi ve ekipmanı bulundurulur.
+(5) Alışveriş merkezindeki ortak kullanım alanlarının ve dört yüz metrekareden büyük perakende işletmelerin görünür kısımlarına acil tıbbi müdahale ünitesiyle iletişimi sağlamak amacıyla yeterli sayıda acil tıbbi durum butonu yerleştirilir.
+(6) Bu maddede öngörülen hizmetler, özel sağlık hizmeti veren kuruluşlardan hizmet satın alınmak suretiyle de verilebilir.

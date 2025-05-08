@@ -1,0 +1,23 @@
+Ortak gider paylaşımı
+MADDE 11- (Başlığı ile Birlikte Değişik:RG-18/8/2022-31927)
+(1) Ortak giderler, alışveriş merkezindeki perakende işletmelerin satış alanlarının alışveriş merkezinin satış alanına oranı ölçüsünde paylaştırılır.
+(2) Alışveriş merkezindeki perakende işletmelerden reklam, pazarlama ve danışmanlık giderleri gibi ortak gider niteliğini haiz olmayan giderler ile belgelendirilmeyen giderler için herhangi bir bedel tahsil edilemez.
+(3) Ortak giderler için, bir önceki yılın kesinleşen ortak giderlerinin yeniden değerleme oranında artırılması suretiyle hesaplanan tutar üzerinden avans alınabilir. Avans alınması halinde, avansın ait olduğu yılı izleyen şubat ayı sonuna kadar mahsup işlemi gerçekleştirilir.
+(4) Ortak gider katılım payları Türk Lirası üzerinden hesaplanır ve ödenir.
+(5) Ortak gider katılım payları perakende işletmelerden yazılı olarak talep edilir ve bu yazıda giderlerin tür ve tutarları ayrı ayrı belirtilir.
+(6) (Değişik:RG-8/5/2025-32894) Her yıl bir önceki takvim yılına ilişkin ortak gelir ve gider raporu hazırlanarak nisan ayı sonuna kadar alışveriş merkezindeki perakende işletmelere gönderilir. Bu rapor, mayıs ayı sonuna kadar gönderime ilişkin kanıtlayıcı bilgi ve belgelerin alışveriş merkezi maliki veya yönetimi tarafından onaylanmış örneği ile birlikte, Bakanlığın internet sitesinde ilan edilen KEP adresine de iletilir. Raporun hazırlanmasına esas teşkil eden gelir ve gider belgeleri ile hizmet sözleşmelerinin birer örneği, ortak gider katılım payı tahsil edilen perakende işletmelere talepleri halinde on beş gün içinde verilir. Ortak gelir ve gider raporunda asgari olarak aşağıdaki hususlar yer alır:
+a) Alışveriş merkezinin adı ve iletişim bilgileri ile rapor dönemi.
+b) Alışveriş merkezi maliki ve yönetiminin ad, ünvan ve iletişim bilgileri ile vergi dairesi ve vergi numarası.
+c) Alışveriş merkezinin satış alanı.
+ç) Büyük mağaza sayısı ile boş ve dolu olanlar belirtilmek suretiyle iş yeri sayısı ve bu iş yerlerinin satış alanları.
+d) Ortak kullanım alanlarının niteliği ve sayısı ile bu alanların ayrı ayrı ve toplam büyüklükleri.
+e) Tür ve tutarları ayrı ayrı belirtilmek suretiyle ortak gelir ve giderler.
+f) Birim satış alanına düşen ortak gider tutarı.
+g) Ortak gider katılım payı dağıtımına esas ortak gider tutarı, perakende işletmeler tarafından karşılanan ortak gider tutarı ve boş iş yerleri ile perakende işletmeler adına malik tarafından karşılanan ortak gider tutarları.
+ğ) Alışveriş merkezi içindeki her bir perakende işletmenin adı, unvanı, satış alanı, hesaplanan ortak gider katılım payı, malik tarafından karşılanan katılım payı ile bu işletmelerden alınan avans ve yapılan mahsup işlemi neticesinde işletmelerce ödenen veya işletmelere iade edilen tutarları gösteren ortak gider katılım payı tablosu.
+h) Elektrik, su, doğalgaz gibi ortak giderlere ilişkin sayaçları numaralarıyla birlikte gösteren sayaç düzen krokisi.
+(7) (Değişik:RG-8/5/2025-32894) Ortak gider katılım payı tahsil edilmeyen alışveriş merkezleri hariç olmak üzere, alışveriş merkezi yönetiminin avans, ortak gelir ve gider hesaplama ve raporlama işlemleri ile ortak gider paylaşımına ilişkin diğer işlemlerinin bu maddeye uygunluğu, Kamu Gözetimi, Muhasebe ve Denetim Standartları Kurumu tarafından yetkilendirilen bağımsız denetim kuruluşunca denetlenerek rapora bağlanır. Bu maddeye aykırı uygulamaların ayrı ayrı ve ayrıntılı olarak belirtildiği bu rapor, ortak gider katılım payı tahsil edilen perakende işletmelere her yıl temmuz ayı sonuna kadar gönderilir. Bu rapor, her yıl ağustos ayı sonuna kadar gönderime ilişkin kanıtlayıcı bilgi ve belgelerin alışveriş merkezi maliki veya yönetimi tarafından onaylanmış örneği ile birlikte, Bakanlığın internet sitesinde ilan edilen KEP adresine de iletilir. Denetimi yapacak bağımsız denetim kuruluşu, alışveriş merkezi maliki veya yönetimince belirlenir. Bağımsız denetim gideri, alışveriş merkezindeki perakende işletmelerden tahsil edilemez.
+(8) Ortak gider katılım payları tahsilat amacı dışında kullanılamaz. Ortak gelirler, tahsil edildikleri yılın ortak giderlerinin karşılanmasında kullanılır. Bir takvim yılındaki ortak gelir tahsilatının ortak gider toplamından fazla olması durumunda, ortak gider toplamını aşan kısım, bir sonraki yılın ortak giderlerinin karşılanmasında kullanılır.
+(9) Alışveriş merkezi içindeki perakende işletmeden, bu maddeye göre tahsil edilmesi gerekenden daha az ortak gider katılım payı tahsil edilmesi durumunda, tahsil edilmeyen kısım iş yeri malikince karşılanır.
+(10) Kiraya verilmemiş iş yerlerine ait ortak gider katılım payları bu iş yerlerinin maliklerince karşılanır.
+(11) Bu maddenin uygulanmasından alışveriş merkezi maliki ile yönetimi müştereken sorumludur.

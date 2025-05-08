@@ -1,0 +1,4 @@
+Diğer ortak kullanım alanları
+MADDE 10 – (1) Satış alanı yüz bin metrekarenin altında olan alışveriş merkezinde en az otuz metrekare, yüz bin metrekare ve üstünde olan alışveriş merkezinde ise en az elli metrekare büyüklüğünde, içinde lavabosu bulunan, yeterli iklimlendirmeye ve ihtiyacı karşılayacak diğer niteliklere sahip, kadın ve erkekler için ayrı ayrı olacak şekilde, otopark haricinde olmak üzere ve alışveriş merkezinin kolay ulaşılabilir bir yerinde ibadet yeri oluşturulur.
+(2) Alışveriş merkezinde, ihtiyacı karşılayacak nitelik ve sayıda dinlenme yeri oluşturulur.
+(3) Alışveriş merkezinde yaşlı ve engelliler, kadın, erkek ve çocuklar için ayrı ayrı olacak şekilde, gerekli hijyen şartlarına sahip ve yeterli sayıda alaturka ve alafranga tuvalet oluşturulur. Ebeveynlerin, çocuklarının tuvalet ihtiyaçlarını karşılamalarına yardımcı olmalarını sağlamak amacıyla en az bir adet bağımsız tuvalet oluşturulur.
