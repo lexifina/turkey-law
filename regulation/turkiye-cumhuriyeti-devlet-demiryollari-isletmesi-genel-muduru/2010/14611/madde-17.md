@@ -1,0 +1,3 @@
+İhale işlem dosyasının düzenlenmesi
+MADDE 17 – (1) İhale suretiyle yapılacak işler için bir işlem dosyası oluşturulur. İhale işlem dosyası, ihale ön onayı belgesi, varsa tahmin edilen bedellere ilişkin belgeler, ihale ile ilgili şartnameler, sözleşme taslağı ve ekleri, varsa imar durumu, vaziyet planı ve projeler, ihale ilanına ilişkin belgeler, dosyada olmasında yarar görülen diğer belge ve bilgiler konularak hazırlanır.
+(2) Şartnamelerde tekniğe uygun olmayan veya gerçekleşmesi mümkün bulunmayan kayıt ve şartların bulunduğu anlaşıldığı takdirde; ihale, yeniden düzenlenecek şartnameye ve 21 inci madde uyarınca yapılacak ilana göre yürütülür.

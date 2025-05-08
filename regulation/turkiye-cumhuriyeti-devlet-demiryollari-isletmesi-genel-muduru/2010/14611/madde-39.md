@@ -1,0 +1,6 @@
+İç zarfların açılması ve son tekliflerin alınması
+MADDE 39 – (1) Teklif mektuplarını taşıyan iç zarflar açılmadan önce, ihaleye katılacaklardan başkası ihale odasından çıkarılır. Bundan sonra zarflar numara sırası ile açılarak, teklifler komisyon başkanı tarafından okunur veya okutulur ve bir listesi yapılır. Bu liste komisyon başkanı ve üyeleri tarafından imzalanır.
+(2) Şartnameye uymayan veya başka şartlar taşıyan veya 36 ncı maddenin ikinci fıkrası hükmüne uygun olmayan teklif mektupları kabul edilmez.
+(3) Kapalı teklif usulü ile yapılan artırma ihalelerinde; geçerli en yüksek teklifin altında olmamak üzere, oturumda hazır bulunan isteklilerden sözlü veya yazılı teklif alınmak suretiyle ihale sonuçlandırılır.
+(4) Ancak, geçerli teklif sayısının üçten fazla olması durumunda bu işlem, geçerli en yüksek teklif üzerinden, oturumda hazır bulunan en yüksek üç teklif sahibi istekliyle, bu üç teklif ile aynı olan birden fazla teklifin bulunması halinde ise bu istekliler dahil edilmek suretiyle yapılır.
+(5) Komisyon, uygun gördüğü her aşamada oturumda hazır bulunan isteklilerden yazılı son tekliflerini alarak ihaleyi sonuçlandırabilir. Bu husus, ihale komisyonunca ikinci bir tutanakla tespit edilir.

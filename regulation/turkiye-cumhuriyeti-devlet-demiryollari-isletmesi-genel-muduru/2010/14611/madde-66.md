@@ -1,0 +1,3 @@
+Ecrimisil
+MADDE 66 – (1) Hazinenin özel mülkiyetinde veya Devletin hüküm ve tasarrufu altında bulunan taşınmazlar hariç, İdarenin mülkiyetinde veya tasarrufu altında bulunan taşınmazların gerçek ve tüzel kişilerce işgali halinde, fuzuli işgalden dolayı İdarenin belirleyeceği bedel üzerinden ecrimisil alınır. Ecrimisil talep edilebilmesi için, İdarenin işgalden dolayı bir zarara uğramış olması gerekmez ve fuzuli şagilin kusuru aranmaz.
+(2) Kira sözleşmesinin sona ermesi tarihinden itibaren, işgalin devam etmesi halinde, sözleşmede hüküm varsa ona göre hareket edilir. Aksi halde ecrimisil alınır.

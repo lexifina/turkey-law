@@ -1,0 +1,4 @@
+Onay belgesi
+MADDE 13 – (1) İhalesi yapılacak iş için ihale yetkilisinden onay alınır. Bu onay belgesinde, ihale konusu olan işin niteliği, tahmin edilen bedeli, ihalede uygulanacak usul, yapılacaksa ilanın şekli, geçici teminat miktarı, şartname ve eklerinin bir bedel karşılığında verilip verilmeyeceği, bedel karşılığı verilecekse bedelin ne kadar olacağı gösterilir.
+(2) Onay belgesinde; en avantajlı birinci teklif sahibi ile sözleşme yapılamaması halinde ihale en avantajlı ikinci teklif sahibine verilecekse bu husus belirtilir.
+(3) Öncelikle kiraya verilecek yer ile ilgili İdarenin ihtiyacı olup olmadığı, imar, mülkiyet, izin, kültürel tescil ve kısıtlayıcı unsurlar olup olmadığı, çevresel kullanımlar, en uygun kiralama şekli ve modeli gibi hususlar dikkate alınarak rapor tanzim edilir. Onay talebinde bu rapor da sunulur.

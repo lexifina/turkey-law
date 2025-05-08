@@ -1,0 +1,2 @@
+İdarenin görev ve sorumluluğu
+MADDE 56 – (1) İdare, 53 üncü maddede belirtilen süre içinde sözleşme yapılması hususunda kendisine düşen görevleri yapmakla yükümlüdür. İdarenin bu yükümlülüğü yerine getirmemesi hâlinde, istekli sürenin bitmesini izleyen günden itibaren onbeş gün içinde, on gün süreli bir noter ihbarnamesi ile idareye bildirmek şartıyla, taahhüdünden vazgeçebilir. Bu takdirde geçici teminat geri verilir.

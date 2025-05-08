@@ -1,0 +1,2 @@
+Şartname ve eklerinde değişiklik halinde ilan
+MADDE 21 – (1) İlan yapıldıktan sonra şartname ve eklerinde değişiklik yapılmaması esastır. Ancak, değişiklik yapılması zorunlu olursa, bunu gerektiren sebep ve zorunluluklar bir tutanakla tespit edilerek önceki ilanlar geçersiz sayılır ve makul bir süre ertelendikten sonra yeni bir ihale tarihi belirlenerek ilan olunur. Şartnameyi almış olan isteklilere ayrıca duyuru yapılıp değişen şartname bedelsiz verilir.

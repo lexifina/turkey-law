@@ -1,0 +1,2 @@
+Sözleşme yapılmasında isteklinin görev ve sorumluluğu
+MADDE 53 – (1) İstekli; 30 uncu maddeye göre onaylanan ihale kararının bildirilmesini izleyen günden itibaren beş iş günü içinde geçici teminatı kesin teminata çevirerek gerekli hallerde noterlikçe tasdik edilmiş sözleşmeyi, idareye vermek zorundadır. Belirtilen sürede sözleşmeyi imzalamadığı ve belirtilen diğer hususları yerine getirmediği takdirde protesto çekmeye ve hüküm almaya gerek kalmaksızın ihale bozulur ve varsa geçici teminatı gelir kaydedilir.

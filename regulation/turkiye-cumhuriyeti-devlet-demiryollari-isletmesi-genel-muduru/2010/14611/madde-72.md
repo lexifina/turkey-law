@@ -1,0 +1,2 @@
+Bilgi ve belgeleri açıklama yasağı
+MADDE 72 – (1) İdarenin ihale edeceği taşınmazlarla ilgili olarak gelecek teklif mektupları ile diğer belgeler ve bunlar üzerinde verilecek kararlar, yapılacak yazışmalar, bilgi ve belgeleri ifşa edemezler, kendilerinin veya üçüncü şahısların yararına kullanamazlar. Aksine hareket edenler hakkında ilgisine göre, 70 ve 71 inci madde hükümlerine göre cezalandırılır.

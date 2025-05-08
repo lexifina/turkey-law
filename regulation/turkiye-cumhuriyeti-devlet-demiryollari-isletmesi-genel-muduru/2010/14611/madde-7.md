@@ -1,0 +1,2 @@
+İhaleye katılabilme şartları
+MADDE 7 – (1) Bu Yönetmeliğe göre yapılacak ihalelere katılabilmek için kanunî ikametgâh sahibi olmak, gerekli nitelik ve yeterliği haiz bulunmak, istenilen teminat ve belgeleri vermek zorunludur. İhaleye katılanların sahte veya yanıltıcı belge vererek ihaleye katıldıklarının sonradan anlaşılması hâlinde, teklifi verenin üzerine ihale yapılmış olsa bile teklifleri geçersiz sayılır ve geçici teminatları irat kaydedilir.

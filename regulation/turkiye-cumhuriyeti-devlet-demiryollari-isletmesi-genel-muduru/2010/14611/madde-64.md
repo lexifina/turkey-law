@@ -1,0 +1,4 @@
+Kiracının birden fazla olması hali
+MADDE 64 – (1) Birden fazla gerçek veya tüzelkişi tarafından bir yerin kiralanması durumunda, kiracının birinin ölümü, iflası, tutuklu veya mahkûm olması gibi haller sözleşmenin devamına engel olmaz.
+(2) Bu durumda kiracılardan biri idareye pilot firma olarak bildirilmiş ise, pilot firmanın gerçek kişi olması durumunda bunun ölümü halinde 61 inci madde hükümlerine göre, pilot firmanın tüzel kişi olması durumunda iflas veya tasfiye halinde 62 nci madde hükümlerine göre, işlem yapılır. Ancak, diğer kiracının teklifi ve idarenin uygun görmesi halinde sözleşme yenilenerek kiracılığa devam edilir.
+(3) Birlikte yapılan kiralamalarda gruba dahil pilot firmadan başka herhangi bir ortak şahsın ölümü veya ortak şirketin herhangi bir sebeple dağılması halinde, pilot firma ve grubun diğer ortakları, teminat dahil işin o ortağa yüklediği sorumlulukları da üzerlerine alarak kiracılığa devam edebilir.

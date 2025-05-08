@@ -1,0 +1,4 @@
+Tekliflerin verilmesi
+MADDE 37 – (1) Teklifler ilanda belirtilen saate kadar, ihaleyi yapan idarece görevlendirilmiş birime verilir. Teklifi alan birim tarafından alındı sıra numarası zarfın üzerine yazılır.
+(2) Teklifler iadeli taahhütlü olarak da gönderilebilir. Bu takdirde dış zarfın üzerine ihaleyi yapan idarenin ve ilgili komisyonun adı, açık adresi ile teklifin hangi işe ait olduğunun belirtilmesi gerekir. Posta ile gönderilecek tekliflerin ilanda belirtilen saate kadar görevli birime ulaşması şarttır. Postadaki gecikme nedeniyle işleme konulmayacak olan tekliflerin alınma zamanı bir tutanakla tespit edilir.
+(3) Verilen teklifler herhangi bir sebeple geri alınamaz. İstekli teklifini vermekle taşınmazı görmüş, yerin mevsim, iklim, inşaat ve işletmecilikle ilgili her türlü uygulama koşullarını incelemiş ve kabul etmiş sayılır.

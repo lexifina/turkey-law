@@ -1,0 +1,21 @@
+Tanımlar
+MADDE 3 – (1) Bu Yönetmeliğin uygulanmasında;
+a) Bölge müdürlüğü: Genel Müdürlüğe bağlı bölge müdürlüklerini,
+b) İdare: TCDD İşletmesi Genel Müdürlüğü ile bölge müdürlükleri ve taşra birimlerini,
+ç) İhale işlem dosyası: İhaleye esas olmak üzere teknik, idarî ve özel şartname, sözleşme taslağı, plan, proje varsa keşif gibi belge ve dokümanları ihtiva eden dosyayı,
+ç) İhale komisyonu: Bu Yönetmelikte belirtilen işlemlerle ilgili ihaleyi gerçekleştirmek ve karara bağlamak üzere yetki limitlerine göre oluşturulan komisyonu,
+d) İhale onay tarihi: TCDD İşletmesi Genel Müdürlüğü yetkili organlarının ihale sonucunu onayladığı tarihi,
+e) İstekli: Teklif veren gerçek veya tüzel kişileri,
+f) İşletici: Belli bir amacı gerçekleştirmek üzere TCDD İşletmesi Genel Müdürlüğüne ait bir taşınmazın işletme hakkını yükümlenen istekliyi,
+g) Kira bedeli: Kiralanan taşınmaz için ödenen bedeli,
+ğ) Kiracı: Kira sözleşmesinin taraflarından olan, bir taşınmaz veya hakkı belli bir ücret karşılığında kiralayan gerçek veya tüzel kişiyi,
+h) Kiralama: Taşınmazların ve bunlarla ilgili hakların belli bir bedel ve süre karşılığı kullandırılmasını,
+ı) Proje: Kiralanacak taşınmazların üzerinde yapılacak yapı ve tesislerin inşa ve kullanımına ilişkin gerekli hesap, çizim ve diğer dokümanları,
+i) Sözleşme: TCDD İşletmesi Genel Müdürlüğü ile kiracı arasındaki yazılı anlaşmayı,
+j) Şartname: Yapılacak işlerin genel, özel, teknik ve idarî esas ve usullerini gösteren belge veya belgeleri,
+k) Tahmini bedel: Kiralanacak yerin ihale öncesi tahmini rayiç bedelini,
+l) Taşra: Bölge müdürlüklerine bağlı birimler ile doğrudan Genel Müdürlüğe bağlı diğer birimleri,
+m) TCDD İşletmesi Genel Müdürlüğü: Türkiye Cumhuriyeti Devlet Demiryolları İşletmesi Genel Müdürlüğünü,
+n) Teklif tarihi: Teklifin son verilme gününü,
+o) Yönetim Kurulu: TCDD İşletmesi Yönetim Kurulunu,
+ifade eder.
