@@ -1,0 +1,6 @@
+İhraç edildikten sonra geri dönen gıda ve yem
+MADDE 29 – (1) Ürünlerin Ülkeye Girişinde Veteriner Kontrollerinin Düzenlenmesine Dair Yönetmelik hükümleri saklı kalmak kaydıyla, ihraç edilen ancak çeşitli nedenlerle geri dönen gıda ve yem geri dönme sebebi de dikkate alınarak, ihraç edilen gıda ve yemle aynı olduğuna dair ayniyat tespiti yapıldıktan sonra Bakanlıkça resmi kontrole tabi tutulur. Kontrol sonucu ilgili mevzuata uygun olan gıda ve yemin girişine izin verilir. Uygun olmayan gıda ve yem için aşağıdaki tedbirlerden biri uygulanır:
+a) Sağlık için tehlike oluşturanlar hariç, Kanun hükümlerine uygun olmayan ürünler, alıcı ülkenin mevzuatına uygun olması ya da alıcı ülkeye ürünle ilgili açıklamalar yapılması ve alıcı ülkenin kabul etmesi durumunda yeniden ihraç edilebilir. İhracatçı, Bakanlığın alacağı her türlü tedbire uymakla yükümlüdür.
+b) 21 inci maddeye uygun olarak özel işleme tabi tutma uygulanabilir.
+c) İlgili mevzuatında belirtilen şartları karşılaması halinde, ürün özelliği ve kullanım amacı dikkate alınarak ürünün ilk kullanım amacı dışında başka bir kullanım amaçlı girişine izin verilebilir. Bu durumda gıdanın gıda olarak yemin yem olarak kullanım amaçlı girişine izin verilmez.
+ç) Bu fıkranın (a), (b) ve (c) bentlerinde belirtilen şekilde değerlendirilmesi mümkün olmayan ürünler, Bakanlık gözetiminde işletmeci tarafından imha edilir.

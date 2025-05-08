@@ -1,0 +1,4 @@
+Kontrol ve doğrulama prosedürleri
+MADDE 9 – (1) Bakanlık, resmi kontrolleri yazılı prosedürlere uygun olarak yürütür. Bu prosedürler, EK-1’in B bölümünde yer alanlar da dâhil olmak üzere kontrol görevlisi için gerekli bilgileri ve talimatları içerir.
+(2) Gıda ve yem işletmecisi denetim sırasında kontrol görevlisine yardımcı olmak, işletmenin ve tutulan kayıtların tamamına erişimlerini sağlamakla yükümlüdür. Denetimlerde gerekli kolaylığı göstermeyenler tutanak ile tespit edilir, denetim gerektiğinde kolluk kuvvetlerinin katılımı ile tekrarlanır ve ilgililer hakkında Kanun uyarınca gerekli yasal işlem uygulanır.
+(3) Bakanlık, yürütülen resmi kontrollerin etkinliğinin sağlanması, gerektiğinde düzeltilmesi ve birinci fıkrada belirtilen prosedürlerin uygun şekilde güncellenmesi için gerekli çalışmaları yapar ve uygular.

@@ -1,0 +1,5 @@
+Laboratuvarlar
+MADDE 13 – (1) Bakanlık, resmi kontroller sırasında alınan numunelerin analizlerini yürütebilecek olan laboratuvarları belirler. Bakanlık, gerek gördüğü analizler için konularında akredite ulusal veya uluslararası laboratuvarlara numune göndermek suretiyle hizmet alabilir.
+(2) Bakanlık resmi kontrollere ilişkin numune gönderimi için TS EN ISO/IEC 17011 standardına göre öncelikli olarak ulusal yetkilendirilmiş bir kuruluş veya kapsamının yetersizliğinde ise uluslararası yetkilendirilmiş bir kuruluş tarafından, uluslararası kabul görmüş EN ISO/IEC 17025 veya destekleyici alt referanslar ile teknik kriterlere göre değerlendirilmiş ve yeterliliği onaylanmış akredite laboratuvarlara öncelik tanıyabilir ve numune gönderme planını buna göre hazırlar. Bakanlık belirlemiş olduğu laboratuvarların akreditasyon şartlarının devam etmemesi durumunda numune gönderimini yeniden planlar.
+(3) Laboratuvarların akreditasyonunun değerlendirilmesi tek bir analiz veya analiz grubu için olabilir.
+(4) Bakanlıkça, bu Yönetmelik çerçevesinde yer alan konularda ulusal referans laboratuvarı olarak Ulusal Gıda Referans Laboratuvar Müdürlüğü görevlendirilmiştir.

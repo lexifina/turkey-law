@@ -1,0 +1,7 @@
+ONUNCU BÖLÜM
+Resmi Kontrollerin Finansmanı
+Resmi kontrollerin finansmanı
+MADDE 41 – (1) Gıda zehirlenmelerinde ya da zehirlenme şüphesi bulunan durumlarda zehirlenmeye neden olabilecek gıda ve gıda ile temasta bulunan madde ve malzemelerden alınan numunelere ait her türlü muayene ve analiz ücretleri dahil tüm masraflar ilgili faaliyetten sorumlu gerçek veya tüzel kişilerce ödenir.
+(2) Bir uygunsuzluğun tespiti, Bakanlığın normal kontrol faaliyetlerini aşan resmi kontrolleri gerektiriyorsa, ek kontrollerden doğan masraflar, ürünlerin sahibi olan veya ek kontroller yürütülürken ürünleri elinde bulunduran gerçek veya tüzel kişiler tarafından ödenir. Normal kontrol faaliyetleri; Bakanlığın çok yıllık ulusal kontrol planı ile belirlenenler dahil olmak üzere, Kanun kapsamında gerekli görülen rutin kontrol faaliyetleridir. Normal kontrol faaliyetlerini aşan faaliyetler ise sorunun kapsamının tespiti için veya düzeltici faaliyetlerin yürütüldüğünün onaylanması için gerekli olan çalışmalardır; bu amaçla bir uygunsuzluğu tespit etmek veya kanıtlamak için yürütülmesi gereken numune alma ve analiz dahil diğer kontrolleri de kapsamaktadır.
+(3) İtiraz durumunda, şahit numunenin analizi de dahil olmak üzere tüm masraflar gerçek veya tüzel kişiler tarafından karşılanır.
+(4) Resmi kontrollerin hangi faaliyetlerinden ne miktarda ücret alınacağı, 28/12/2006 tarihli ve 26390 sayılı Resmî Gazete’de yayımlanan Tarım ve Köyişleri Döner Sermaye İşletmeleri Uygulama Yönetmeliğine göre belirlenir.

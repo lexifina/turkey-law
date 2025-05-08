@@ -1,0 +1,14 @@
+Resmi kontrollere ilişkin belirli görevlerin devredilmesi
+MADDE 6 – (1) Bakanlık, Kanun kapsamındaki kamu hizmetlerinin gerektirdiği asli ve sürekli görevler hariç olmak üzere gıda ve yemin resmi kontrollerine ilişkin görevlerinin tamamını veya bir kısmını kamu kurum ve kuruluşları, kamu kurumu niteliğindeki meslek kuruluşları, gerçek kişiler, özel hukuk tüzel kişileri, birlikler, kooperatifler, vakıf ve üniversitelere tamamen veya kısmen aşağıdaki koşullar kapsamında devredebilir veya hizmet alımı yolu ile yerine getirebilir. Ancak ithalat ve ihracatın resmi kontrolleri ile tüm yasal yaptırımlar bu kapsamın dışındadır.
+a) Yetki devri veya hizmet alımı yapılan kuruluşun,
+1) Kendisine devredilen görevleri yürütmek için gerekli olan uzmanlık, ekipman, donanım ve altyapıya sahip olduğunu,
+2) İşi yürütmek için yeterli sayıda uygun nitelikli ve tecrübeli personeli olduğunu,
+3) Kendisine devredilen yetkilerin gerçekleştirilmesi ile ilgili olarak tarafsız olduğu ve herhangi bir çıkar çatışmasının bulunmadığını,
+4) Yetki Devri veya Hizmet Alımı Yapılan Kuruluşların İşleyişi ile İlgili Genel Kriterler TS EN ISO/IEC 17020 standardına ve/veya özel bir standarda uygun olarak çalıştığına ve buna göre akredite olduğunu,
+5) Laboratuvarların, Gıda Kontrol Laboratuvarlarının Kuruluş, Görev, Yetki ve Sorumlulukları ile Çalışma Usul ve Esaslarının Belirlenmesine Dair Yönetmelikte yer alan hükümlere uygun faaliyet gösterdiğini,
+6) Kendisine devredilen görevleri Kanunun Ek-2’sinde yer alan meslek mensupları vasıtasıyla yerine getirdiğini,
+kanıtlaması gerekir.
+b) Yetki devri veya hizmet alımı yapılan kuruluş, gerçekleştirdiği kontrollerin sonuçlarını aylık olarak Bakanlık il/ilçe müdürlüğüne bildirir. Ancak kontrollerin sonuçları, uygunsuzluk durumunu ya da uygunsuzluk ihtimalini gösteriyorsa yetki devri veya hizmet alımı yapılan kuruluş, Bakanlık il/ilçe müdürlüğünü derhal bilgilendirir. Yapılan değerlendirme sonucunda Bakanlık il/ilçe müdürlüğü Kanun kapsamında işlem uygular.
+c) Bakanlık il/ilçe müdürlüğü, yetki devri veya hizmet alımı yapılan kuruluş tarafından denetim yapılan işletmeyi ayrıca denetleyebilir.
+ç) Yetki devri veya hizmet alımı yapılan kuruluş ile yetki devri yapan Bakanlık arasında etkin ve yeterli koordinasyon Bakanlıkça sağlanır.
+(2) Bakanlık, yetki devri veya hizmet alımı yaptığı kuruluşların denetimini veya tetkikini yapar. Yapılan denetim veya tetkik sonucunda bu kuruluşların devredilen görevleri gereği gibi yürütemedikleri görüldüğünde, yetki devri veya hizmet alımı Bakanlıkça iptal edilir veya verilen süre içerisinde eksiklikler giderilinceye kadar askıya alınır. Bu süre altı ayı geçemez. Bakanlıkça verilen süre sonunda, eksikliklerin giderilmemesi durumunda yetki devri veya hizmet alımı iptal edilir. Bu fıkranın uygulanmasından doğan tüm masraflar yetki devri veya hizmet alımı yapılan kuruluş tarafından karşılanır.

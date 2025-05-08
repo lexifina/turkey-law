@@ -1,0 +1,4 @@
+Gümrük hizmetleri
+MADDE 25 – (1) Bu bölümde belirtilen resmi kontrollerin yürütülmesinde Bakanlık ve gümrük idareleri işbirliği yapar.
+(2) Gümrük idarelerince veya ilgili olduğunda serbest bölge müdürlüklerince, Bakanlığın onayı olmadan hayvansal gıda ve yem ile 16 ncı maddenin beşinci fıkrasında belirtilen gıda ve yemin girişine veya serbest bölgelerde veya gümrük antrepolarında muamelesine izin verilmez.
+(3) Numune alınması durumunda, Bakanlık, gümrük idarelerini ve ilgili işletmecileri bilgilendirir ve sevkiyatın izlenebilirliğinin temin edilmesi şartıyla, numunelerin analiz sonuçlarının gelmesinden önce ürünlerin serbest bırakılıp bırakılmayacağını da bildirir. Serbest dolaşıma bırakılması durumunda, Bakanlık ve gümrük idareleri ilgili mevzuatta ortaya konulan şartlara uygun olarak birlikte çalışır.

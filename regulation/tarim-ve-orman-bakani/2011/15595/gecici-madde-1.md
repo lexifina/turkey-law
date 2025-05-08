@@ -1,0 +1,2 @@
+Geçiş hükümleri
+GEÇİCİ MADDE 1 – (1) 27/5/2004 tarihli ve 5179 sayılı Gıdaların Üretimi, Tüketimi ve Denetlenmesine Dair Kanun Hükmünde Kararnamenin Değiştirilerek Kabulü Hakkında Kanun ve 29/5/1973 tarihli ve 1734 sayılı Yem Kanununa göre; gıda, gıda ile temas eden madde ve malzeme ile yemin resmi kontrollerinde görev yapan personel, resmi kontrol görevlerine 5996 sayılı Kanunun Ek-2’sinde belirtilen şekilde devam eder.
