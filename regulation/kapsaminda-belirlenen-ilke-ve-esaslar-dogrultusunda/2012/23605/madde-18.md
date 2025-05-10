@@ -1,0 +1,2 @@
+Özel çevre koruma bölgeleri tescil, onay ve ilan usul ve esasları
+MADDE 18 – (1) 13 üncü maddede belirtilen kriterler çerçevesinde tespit edilen alanlar ilgili kurum ve kuruluşların görüşleri ile birlikte Genel Müdürlük tarafından Bakanlık Makamına ve Bakanın teklifi ile de (Değişik ibare:RG-16/3/2020-31070) Cumhurbaşkanına sunulur. Konu hakkındaki (Değişik ibare:RG-16/3/2020-31070) Cumhurbaşkanı kararının Resmî Gazete’de yayımı ile tescil işlemi tamamlanır.

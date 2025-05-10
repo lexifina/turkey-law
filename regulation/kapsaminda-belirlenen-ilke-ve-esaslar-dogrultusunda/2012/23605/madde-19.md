@@ -1,0 +1,11 @@
+DÖRDÜNCÜ BÖLÜM
+Milli Parklar, Tabiat Parkları, Tabiat Anıtları, Tabiatı Koruma Alanları ve
+Sulak Alanların Tescil, Onay ve İlanına İlişkin Esas ve İlkeler
+Milli parklar, tabiat parkları, tabiat anıtları, tabiatı koruma alanları için tescil, onay ve ilanına ilişkin usul ve esaslar
+MADDE 19 – (1) Milli parklar, tabiat parkları, tabiat anıtları, tabiatı koruma alanları için tescil, onay ve ilanında aşağıda yer alan usul ve esaslara uyulur.
+a) 12/12/1986 tarihli ve 19309 sayılı Resmî Gazete’de yayımlanan Millî Parklar Yönetmeliğinin 6 ncı ve 7 nci maddelerinde belirtilen ilkeler doğrultusunda (Değişik ibare:RG-16/3/2020-31070) Tarım ve Orman Bakanlığı Doğa Koruma ve Milli Parklar Genel Müdürlüğünce tespit edilen Milli Parklar, Tabiat Parkları, Tabiat Anıtları ve Tabiatı Koruma Alanlarına ilişkin rapor Genel Müdürlüğe iletilir.
+b) (Değişik ibare:RG-16/3/2020-31070) Tarım ve Orman Bakanlığınca orman ve orman rejimi içerisinde bulunan alanlarda tespiti yapılan Tabiat Parkları, Tabiat Anıtları ve Tabiatı Koruma Alanları (Değişik ibare:RG-16/3/2020-31070) Tarım ve Orman Bakanı onayı ile tescil edilir.
+c) Tespiti (Değişik ibare:RG-16/3/2020-31070) Tarım ve Orman Bakanlığı tarafından yapılan Milli Park alanlarına ait rapor, sahanın (Değişik ibare:RG-16/3/2020-31070) Cumhurbaşkanı kararı ile Milli Park ilan edilmesi amacı ile Genel Müdürlük tarafından Bakanlık Makamına ve Bakanın teklifi ile de (Değişik ibare:RG-16/3/2020-31070) Cumhurbaşkanına sunulur.
+ç) (Değişik:RG-16/3/2020-31070) Orman ve orman rejimi dışında kalan yerlerde; tabiat parkı, tabiat anıtı ve tabiatı koruma alanı belirlenmesi Tarım ve Orman Bakanlığınca uygun görülerek ilgili Bakanlıkların görüşü alınır ve görüşleri ile birlikte Genel Müdürlük tarafından tescil için Bakanlık Makamına sunulur. Bakanlıkça yapı yasağı önerilen tabiat varlıkları ve doğal sit alanları dahil orman rejimine tabi olmayan bütün koruma alanları Cumhurbaşkanınca tescil ve ilan edilir.
+d) (Değişik:RG-16/3/2020-31070) Tescil işleminin Resmî Gazete'de ilan edilmesi ile süreç tamamlanır.
+e) Tescil edilen alanlara ilişkin alınan karar ilgili kuruluşlara dağıtımının yapılması ve uygulamaya aktarılması için (Değişik ibare:RG-16/3/2020-31070) Tarım ve Orman Bakanlığına gönderilir.

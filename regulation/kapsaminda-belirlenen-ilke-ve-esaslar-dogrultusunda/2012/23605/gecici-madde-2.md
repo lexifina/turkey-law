@@ -1,0 +1,2 @@
+Bilimsel temelli rapor hazırlamada istisna
+GEÇİCİ MADDE 2 – (1) Korunan alanlar ile ilgili olarak yeniden değerlendirme talepleri; bilimsel temelli rapora dayanması ve Bakanlıkça hazırlanacak olan teknik esaslara uygun olması kaydıyla bu Yönetmelik kapsamında değerlendirilir. Koruma amaçlı imar planı bulunan alanlarda 5 inci maddenin birinci fıkrasının (c) bendinde geçen ekolojik temelli bilimsel araştırma yapılmasına, bilimsel araştırma içeriğine ve süresine bölge komisyonlarınca karar verilir.

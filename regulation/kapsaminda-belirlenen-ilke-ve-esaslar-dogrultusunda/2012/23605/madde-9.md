@@ -1,0 +1,10 @@
+Sürdürülebilir koruma ve kontrollü kullanım alanlarının ayırt edici özellikleri
+MADDE 9 – (1) (Değişik:RG-5/3/2022-31769) Sürdürülebilir koruma ve kontrollü kullanım alanları; bölgenin doğal yapısı, ekolojik değerleri, silueti, doğal peyzajı ve benzeri ayırt edici özellikleri göz önünde bulundurularak faaliyetlerin niteliğine ve içeriğine ilişkin Bölge Komisyonu tarafından yapılacak değerlendirmeye göre; kesin korunacak hassas alanlarda ve nitelikli doğal koruma alanlarında izin verilen faaliyetlere ek olarak doğal ve kültürel bakımdan uyumlu düşük yoğunlukta faaliyetlere, tarım ve hayvancılık amaçlı entegre tesislere, (Mülga ibare:RG-10/5/2025-32896), (Değişik ibare:RG-10/5/2025-32896) rüzgâr ve güneş enerji santrallerine, mevcut baraj veya isale hatları üzerinde kurulacak olan hidroelektrik enerji santrallerine, turizme ve yerleşimlere izin verilen alanlardır. Bu alanlarda izin verilen faaliyetler, 7 nci maddenin üçüncü fıkrası ile 8 inci maddenin ikinci fıkrasında yer alan sınırlamalara tabi değildir.
+(2) Bu alanlar aşağıdaki özelliklerden bir veya birkaçını bünyesinde bulundurur.
+a) Peyzajı ile uyumlu insan yerleşimlerini içinde bulundurur.
+b) Doğal kaynak yönetim sistemleri ve ilgili kültürel değerleri, ekosistemleri ve habitatları içerir veya korunmasına katkı sağlar.
+c) İnsanlar ve doğa arasında dengeli ilişkilerin geliştirilmesine ve muhafaza edilmesine katkıda bulunur.
+ç) Uygulanabilir durumlarda yerel halkın sosyal ve ekonomik kazançlarına katkı sağlar.
+d) Ulusal, bölgesel ve yerel seviyelerde doğal kaynakların sürdürülebilir kullanımına ve kalkınmaya destek olur.
+e) Ekolojik, ekonomik ve sosyal boyutları dikkate alarak doğal kaynakların sürdürülebilir koruma ve kontrollü kullanımına elverişli alanlardır.
+(3) (Ek:RG-16/3/2020-31070) Sürdürülebilir koruma ve kontrollü kullanım alanlarında bulunan madenlerin milli menfaatlere uygun olarak aranması, hangi şartlarda ve ölçülerde işletileceği, kapatılması ve alanın rehabilitasyonu ilke kararları doğrultusunda alınacak olan Bölge Komisyonlarının kararları doğrultusunda yapılır.
