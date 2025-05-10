@@ -1,0 +1,2 @@
+Henüz anlaşması imzalanmamış izinler
+GEÇİCİ MADDE 1 – (1) 12/4/2002 tarih ve 24724 sayılı Resmî Gazete’de yayımlanan Kamu Kurum ve Kuruluşlarınca Hazine Garantisi Olmaksızın Temin Edilen Kredilere İzin Verilmesi ve İzlenmesi Esas ve Usullerine İlişkin Yönetmeliğin yürürlükte olduğu dönemde verilen ancak henüz anlaşması imzalanmamış izinler verildiği tarihte yürürlükte olan Yönetmelik hükümlerine tabi olacaktır. Bahse konu Yönetmelikte hüküm bulunmayan hallerde bu Yönetmelik hükümleri uygulanır.

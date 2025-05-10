@@ -1,0 +1,1 @@
+[1] 10/5/2025 tarihli ve 32896 sayılı Resmî Gazete’de yayımlanan değişiklik ile bu maddenin dördüncü fıkrasına (b) bendinden sonra gelmek üzere bent eklenmiş ve diğer bentler buna göre teselsül ettirilmiş, dördüncü fıkradan sonra gelmek üzere fıkra eklenmiş, diğer fıkralar buna göre teselsül ettirilmiştir.
