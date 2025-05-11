@@ -1,0 +1,5 @@
+Notlarda maddi hata ve sınav sonuçlarına itiraz
+MADDE 23- (1) Not düzeltme işlemleri aşağıda ifade edilen durumlarda gerçekleştirilir:
+a) Öğrenci, sınav sonuçlarının duyurulmasından itibaren yedi gün içinde bağlı olduğu meslek yüksekokulu müdürlüğüne bir dilekçe ile başvurarak sınav kağıdının yeniden incelenmesini isteyebilir. Müdürlük maddi bir hata yapılıp yapılmadığının belirlenmesi için sınav kağıdını ilgili bölüm başkanı aracılığıyla dersin sorumlu öğretim elemanına inceletir. Bu inceleme sonucunda öğretim elemanının sınav kağıdında maddi hata bulunduğunu tespit etmesi durumunda not düzeltme işlemi için bir form düzenlenir.
+b) Öğrenci bilgi sisteminde açıklanan başarı notları ile ilişkili herhangi bir maddi hatanın yapılmış olduğunun belirlenmesi halinde ise, ilgili öğretim elemanı ilgili bölüm başkanlığına başvurarak düzeltme talebinde bulunur.
+(2) Her iki durumda da not düzeltme talebi, notun ilanından sonraki on beş gün içinde ilgili meslek yüksekokulu bölüm başkanlığı tarafından, on beş günü geçmesi durumunda ise ilgili yönetim kurulu tarafından karara bağlanarak, gerekli değişiklik yapılmak üzere Öğrenci İşleri Daire Başkanlığına bildirilir.

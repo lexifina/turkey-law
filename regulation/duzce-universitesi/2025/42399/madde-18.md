@@ -1,0 +1,4 @@
+Öğrenim süresi ve ek sınavlar
+MADDE 18- (1) Üniversitede ön lisans öğreniminin normal süresi iki yıldır.
+(2) Öğrenciler, bir yıl süreli yabancı dil hazırlık sınıfı hariç, kayıt olduğu programa ilişkin derslerin verildiği dönemden başlamak üzere, her dönem için kayıt yaptırıp yaptırmadığına bakılmaksızın öğrenim süresi iki yıl olan ön lisans programlarını azami dört yıl içinde tamamlamak zorundadır. Hazırlık sınıfı azami süresi iki yıldır. Bu süreye kayıt dondurma ve izinli sayılma süreleri dâhil edilmez. Üniversiteden uzaklaştırma cezası alan öğrencilerin bu süreleri ise öğrenim süresinden sayılır. Azami süreler içinde katkı payı veya öğrenim ücretinin ödenmemesi ile kayıt yenilenmemesi nedeniyle öğrencilerin ilişikleri kesilmez.
+(3) Azami sürede mezun olamayan öğrencilerle ilgili yürütülecek iş ve işlemler; 2547 sayılı Kanunun 44 üncü maddesinin (c) fıkrası, Yükseköğretim Kurulu ve Senato tarafından belirlenen usul ve esaslara göre yürütülür.

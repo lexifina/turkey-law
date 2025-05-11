@@ -1,0 +1,2 @@
+Derslerin kredi değeri
+MADDE 12- (1) Eğitim-öğretim çalışmalarının değerlendirilmesi kredi esasına göre yapılır. Ders kredilerinin hesaplanmasında; öğrencinin kazanacağı bilgi, beceri ve yetkinliklere o dersin katkısını ifade eden öğrenim kazanımları ile açıkça belirlenmiş teorik veya uygulamalı derslerle birlikte öğrenciler için öngörülen diğer faaliyetler için gerekli çalışma saatlerini göz önünde bulunduran öğrenci iş yükü esas alınır.

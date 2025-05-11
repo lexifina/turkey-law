@@ -1,0 +1,5 @@
+Derse devam
+MADDE 13- (1) Öğrenciler ilk defa aldıkları derslerin teorik bölümüne %70 oranında, uygulama bölümüne %80 oranında devam etmek zorundadır. Öğrencinin raporlu olduğu süre devamsızlık süresinden sayılır.
+(2) Daha önce alınıp devam koşulu yerine getirilen bir dersin tekrarında devam zorunluluğunun aranıp aranmaması; meslek yüksekokulunun fiziki kapasitesi, öğretim elemanı ve öğrenci sayısı da göz önüne alınarak, ders sorumlusunun uygun görüşü, bölüm başkanlığının önerisi ile ders kaydının başlangıç tarihinden önce ilgili yönetim kurulunda kararlaştırılır. Devam zorunluluğunun aranmaması halinde de öğrenci o derse kayıt olmak, varsa ödevleri yapmak, atölye ve uygulamalı derslerde uygulamalara ve ara sınavlara katılmak zorundadır.
+(3) Öğrencilerin; bilimsel, sosyal, kültürel ve sportif etkinlikler ve karşılaşmalar sebebiyle bölüm başkanlığının önerisi ve ilgili yönetim kurulunun kararı ile izinli oldukları süreler devamsızlıktan sayılmaz.
+(4) Ders sorumluları öğrencilerin derse devamlarını izlemekle yükümlü ve bölüm başkanlığına karşı sorumludur. Öğrencilerin derse devamlılıkları ıslak imzalı olarak ya da elektronik ortamda alınabilir.

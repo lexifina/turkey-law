@@ -1,0 +1,2 @@
+Sınav evrakının saklanması
+MADDE 24- (1) Sınavlara itiraz süresi tamamlandıktan sonra sınav evrakı öğretim elemanları tarafından üzerinde dersin adını, sınav türünü, sınav tarihini, teslim tarihini ve teslim edenin unvanını, adını-soyadını ve imzasını taşıyan zarf içerisinde ilgili bölüm başkanlığına teslim edilir. Bölüm başkanlığında bir yıl saklanan sınav evrakı, dört yıl daha saklanmak üzere meslek yüksekokulu arşivine kaldırılır.
