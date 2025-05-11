@@ -1,0 +1,2 @@
+Sınav evrakının saklanması
+MADDE 35- (1) Sınavlara itiraz süresi tamamlandıktan sonra sınav evrakı; öğretim elemanları tarafından, üzerinde dersin adı, sınav türü, sınav tarihi, teslim tarihi ve teslim edenin unvanı, adı-soyadı ve imzası olan zarf içerisinde ilgili bölüm başkanlığına teslim edilir. Sınav evrakı, bölüm başkanlığında bir yıl saklanır ve dört yıl daha saklanmak üzere ilgili birimin arşivine kaldırılır.

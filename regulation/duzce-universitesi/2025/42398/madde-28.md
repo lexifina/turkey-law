@@ -1,0 +1,5 @@
+Tek/çift ders sınav hakkı
+MADDE 28- (1) Kaydoldukları dersleri başarmaları halinde mezun olabilecek öğrencilere son yarıyıl öğrencileri denir. Yarıyıl sonu sınavları sonunda başarısız olduğu bir veya iki dersi kalan ya da AGNO’su 2.50’nin altında olup başarısız dersi bulunmayan, mezun şartını sağlayabilecek durumda olan öğrencilere bu derslerin devam ve diğer koşullarını sağlamaları koşuluyla tek/çift ders sınav hakkı verilir.
+(2) Hiç alınmamış dersler için tek/çift ders sınav hakkı verilmez.
+(3) Tek/çift ders sınav hakkı kullanmak durumunda olan öğrencilerin, yarıyıl sonu sınavları sonuçlarının ilanından itibaren bir hafta içerisinde dilekçe ile bölüm başkanlığına başvurmaları gerekir. Bölüm başkanı, ilgili alandan öğretim elemanlarını görevlendirir ve sınavların akademik takvimde belirtilen süre içinde yapılmasını sağlar.
+(4) Tek/çift ders sınavından alınan puanın 100 üzerinden 50 puan ve daha yukarısı olması halinde öğrenci başarılı sayılır. Ara sınav notu ve diğer etkinliklerin katkısı olmadan tek/çift ders sınavının puanı, harf notuna çevrilir.

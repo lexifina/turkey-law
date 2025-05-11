@@ -1,0 +1,5 @@
+Akademik danışmanlık
+MADDE 21- (1) Kaydını yaptıran her öğrenci için ilgili bölüm başkanlığınca, bölümün öğretim elemanları arasından bir akademik danışman atanır.
+(2) Danışman; lisans öğretimi boyunca öğrencinin başarı durumunu ve gelişimini izler, öğretim programları çerçevesinde öğrencinin alması gereken zorunlu ve seçmeli derslerle ilgili olarak öğrenciye önerilerde bulunur, öğrenciyi yönlendirir, mezuniyet için gerekli olan dersleri ilgili mevzuat hükümleri çerçevesinde almasına yardımcı olur ve aldığı dersleri onaylar, bölümler tarafından müfredatta yapılan değişiklikler nedeni ile uygulanan intibaklarda öğrencileri yönlendirir, daha iyi çalışmasına ve yetişmesine yönelik olarak öğrencilerin karşılaştığı problemlerin çözümüne yardımcı olur ve gerektiğinde ilgili mercilere iletir.
+(3) Öğrencilerle ilgili alınan her türlü karardan akademik danışmanlar da bilgilendirilir.
+(4) Akademik danışmanlar, danışmanlık hizmetlerini Rektörlükçe belirlenen esaslar ve ilgili mevzuat hükümlerine göre yürütür.

@@ -1,0 +1,2 @@
+Başarı denetimi
+MADDE 33- (1) Normal öğrenim süresi sonunda bütün derslerden başarılı olsalar dahi AGNO'su 2.50'nin altında olan öğrenciler mezun olamaz, bu durumdaki öğrenciler AGNO'larını 2.50'nin üzerine çıkartıncaya kadar derslere yeniden kayıt yaptırmak, derslerin ara ve dönem sonu sınavlarına girmek durumundadır. Bu öğrenciler için ayrıca 28 inci maddenin birinci fıkrası hükmü de uygulanabilir.

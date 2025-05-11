@@ -1,0 +1,3 @@
+Staj
+MADDE 16- (1) Eğitim-öğretim programlarının özelliklerine göre zorunlu görülecek meslek stajları ve endüstriye dayalı eğitime ilişkin esaslar, Yükseköğretim Kurulu tarafından alınan kararlar çerçevesinde Senato tarafından düzenlenir. Staj zorunluluğu olan programlarda stajlar, ilgili kurulca belirlenen staj programı esaslarına göre yapılır. Bazı programlarda ise isteğe bağlı staj uygulaması Senato tarafından düzenlenir.
+(2) Staj yerleri daha önceden belirlenmiş ve birimleri tarafından onaylanmış öğrencilerin, staj yerlerini birimlerinin haberi olmadan değiştirmeleri halinde yapmış oldukları staj geçersiz sayılır.

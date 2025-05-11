@@ -1,0 +1,3 @@
+Yatay-dikey geçişler ve intibak
+MADDE 20- (1) Üniversite içinden veya dışından fakülte ve yüksekokullara yapılacak yatay geçişler, Yükseköğretim Kurumlarında Önlisans ve Lisans Düzeyindeki Programlar Arasında Geçiş, Çift Anadal, Yan Dal ile Kurumlar Arası Kredi Transferi Yapılması Esaslarına İlişkin Yönetmelik ile Senato tarafından belirlenen usul ve esaslara göre yürütülür. Fakülte ve yüksekokullara yapılacak dikey geçişler, 19/2/2002 tarihli ve 24676 sayılı Resmî Gazete’de yayımlanan Meslek Yüksekokulları ve Açıköğretim Ön Lisans Programları Mezunlarının Lisans Öğrenimine Devamları Hakkında Yönetmelik hükümlerine göre yürütülür.
+(2) Yatay ve dikey geçiş kontenjanları ilgili kurul tarafından, ilgili mevzuat hükümlerine göre belirlenir ve Rektörlüğe bildirilir.

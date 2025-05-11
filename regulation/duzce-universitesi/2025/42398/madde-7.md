@@ -1,0 +1,6 @@
+Kayıt yenileme ve ders kaydı işlemleri
+MADDE 7- (1) Öğrenciler, akademik takvimde belirtilen süre içerisinde öğrenim katkı paylarının yarıyıl taksitini yatırarak ve alacakları dersleri seçerek internet üzerinden kayıt yenileme işlemlerini yapar. Ders kaydı danışmanın onayından sonra kesinleşir.
+(2) Öğrenciler, akademik takvimde belirtilen süre içinde kayıt yenilemek zorundadır. Bu süre içerisinde ders kaydını tamamlayamayan ve belgelemek koşuluyla geçerli bir mazereti (doğal afet, birinci derece yakınının ölümü, maddi durum yetersizliği, sağlık problemi ve benzeri diğer sebepler) olan öğrencilerin başvurusu, ilgili yönetim kurulu tarafından değerlendirilir ve karara bağlanır. Geç kayıt sebebiyle ilgili yönetim kurulu kararından önce geçen süre devamsızlıktan sayılır.
+(3) Belirlenen süreler içinde kayıt yenileme işlemini ve ders kaydını yaptırmayan öğrenciler o yarıyılda derslere devam edemez, sınavlara alınmaz ve öğrencilik haklarından yararlanamazlar.
+(4) Öğrencinin kayıt yenilememesi sebebiyle geçen süreler, azami öğrenim süresi hesabına katılır.
+(5) 2547 sayılı Kanunun 46 ncı maddesine göre hesaplanan öğrenim katkı paylarının yarıyıl taksitini akademik takvimde belirtilen kayıt yenileme ve ders kaydı süresi içinde yatırmayan öğrencilerin kayıtları yapılmaz ve yenilenmez.

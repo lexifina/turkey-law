@@ -1,0 +1,2 @@
+Özel öğrenci
+MADDE 25- (1) Bir yükseköğretim kurumunda öğrenci olarak kayıtlı olup, kayıtları bu yükseköğretim kurumunda kalmak kaydıyla, farklı bir yükseköğretim kurumu ortamı, kültürü, kazanımı edinmek isteyen veya özel durumu, sağlık ve benzeri diğer nedenlerle diğer bir yükseköğretim kurumunda eğitime devam etme imkanı tanınan öğrenciye özel öğrenci denir. Özel öğrencilere ilişkin usul ve esaslar Senato tarafından belirlenir.
