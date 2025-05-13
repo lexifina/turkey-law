@@ -1,0 +1,2 @@
+Devam eden iş ve işlemler
+GEÇİCİ MADDE 1 – (1) Bu Yönetmeliğin yürürlüğe girdiği tarihten önce ilgili POB’lara yapılmış olan kabul başvuruları, 6/11/2015 tarihli ve 29524 sayılı Resmî Gazete’de yayımlanan Elektrik Üretim Tesisleri Kabul Yönetmeliği hükümlerine göre ilgili POB’larca sonuçlandırılır. Söz konusu kabul başvuru kapsamlarının içeriğindeki eksik ve/veya yanlışlıklar nedeniyle bu maddenin yürürlüğe girdiği tarihten sonra iade edilmesinin akabinde tekrar tesis kabul başvurusunda bulunulması halinde bahsi geçen tesisler için bu Yönetmelik hükümleri uygulanır.

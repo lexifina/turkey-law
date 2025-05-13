@@ -1,0 +1,51 @@
+{
+  "source_id": "7.5.34288",
+  "kind": "regulation",
+  "register_kind": "Kurum ve Kuruluş Yönetmelikleri",
+  "title": "ELEKTRİK ÜRETİM VE ELEKTRİK DEPOLAMA TESİSLERİ KABUL YÖNETMELİĞİ",
+  "number": "34288",
+  "issuer": "Enerji ve Tabii Kaynaklar Bakanı",
+  "issuer_slug": "enerji-ve-tabii-kaynaklar-bakani",
+  "path": "regulation/enerji-ve-tabii-kaynaklar-bakani/2020/34288",
+  "source": "https://www.mevzuat.gov.tr/anasayfa/MevzuatFihristDetayIframe?MevzuatTur=7&MevzuatNo=34288&MevzuatTertip=5",
+  "source_sha256": "0f36783c507a7a7e90b67963db0579307d807f8840f1bfce5bb9a7dd7ad38629",
+  "source_bytes": 51708,
+  "published": "2020-02-19",
+  "gazette": "31044",
+  "in_force": "2025-05-13",
+  "in_force_basis": "latest Resmî Gazete date printed in the source amendment notes/table (\"RG-13/5/2025\") for the current consolidated text",
+  "date_evidence": [
+    [
+      "2025-05-13",
+      "RG-13/5/2025",
+      "Resmî Gazete date printed in the source amendment note"
+    ],
+    [
+      "2025-05-13",
+      "13/5/2025",
+      "Resmî Gazete date in the source amendment table"
+    ],
+    [
+      "2021-04-09",
+      "9/4/2021",
+      "Resmî Gazete date in the source amendment table"
+    ]
+  ],
+  "commencement_clauses": [
+    "Bu Yönetmelik 1/4/2020 tarihinde yürürlüğe girer"
+  ],
+  "history": "current-text",
+  "label": "oldest version available",
+  "checked_on": "2026-11-15",
+  "word_count": 2854,
+  "text_status": "current-consolidated",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  },
+  "source_links": [
+    "7.5.34288-Ek.docx"
+  ],
+  "completeness": "html-text-complete; linked annexes not fetched"
+}

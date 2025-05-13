@@ -1,0 +1,4 @@
+Atıflar ve yürürlükten kaldırılan yönetmelik
+MADDE 17 – (1) Elektrik üretim tesisleri için 7/5/1995 tarihli ve 22280 sayılı Resmî Gazete’de yayımlanan Elektrik Tesisleri Kabul Yönetmeliğinde bulunan hükümler uygulanmaz. Elektrik üretim tesisleri için anılan Yönetmeliğe yapılmış atıflar bu Yönetmeliğe yapılmış sayılır.
+(2) 6/11/2015 tarihli ve 29524 sayılı Resmî Gazete’de yayımlanan Elektrik Üretim Tesisleri Kabul Yönetmeliği yürürlükten kaldırılmıştır. Söz konusu Yönetmeliğe yapılmış atıflar bu Yönetmeliğe yapılmış sayılır.
+(3) İlgili mevzuatta “Geçici Kabul” ve “Kesin Kabul” ibarelerine yapılan tüm atıflar, 6446 sayılı Kanun kapsamında özel hukuk tüzel kişileri tarafından yatırımı gerçekleştirilen elektrik üretim ve elektrik depolama tesisleri için, bu Yönetmelikteki “Kabul” ibaresine yapılmış sayılır.

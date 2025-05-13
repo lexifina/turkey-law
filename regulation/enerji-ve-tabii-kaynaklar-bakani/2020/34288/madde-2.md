@@ -1,0 +1,5 @@
+Kapsam
+MADDE 2 – (1) Bu Yönetmelik, elektrik üretim ve elektrik depolama (Değişik ibare:RG-13/5/2025-32899) tesislerinin/ünitelerinin kabul süreçleri ile tesislerin işletme döneminde uyulması gereken hususlara ilişkin esasları kapsar.
+(2) Bu Yönetmelik, 30/12/2014 tarihli ve 29221 mükerrer sayılı Resmî Gazete’de yayımlanan Elektrik Tesisleri Proje Yönetmeliği kapsamındaki elektrik üretim tesisleri ile elektrik depolama (Değişik ibare:RG-13/5/2025-32899) tesislerini/ünitelerini kapsar.
+(3) Kamu kurum ve kuruluşlarınca yatırım programına alınarak yapılan ya da yaptırılan elektrik üretim ve elektrik depolama (Değişik ibare:RG-13/5/2025-32899) tesislerinin/ünitelerinin kabul işlemleri yürütülürken kamu kurum ve kuruluşları tarafından düzenlenen şartnameler, sözleşmeler, usul ve esaslar ile kamu ihale mevzuatı hükümleri öncelikli olarak uygulanır.
+(4) Herhangi bir tesisin bu Yönetmelik kapsamına girip girmeyeceği konusunda bir tereddüt ortaya çıkarsa Bakanlığın bu konuda vereceği karar geçerlidir.

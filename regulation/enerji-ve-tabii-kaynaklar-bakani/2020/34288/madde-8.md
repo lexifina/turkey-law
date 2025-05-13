@@ -1,0 +1,11 @@
+Kabul Çalışmaları ve Tutanak Teslimi
+Kabul başvuru değerlendirme süreci
+MADDE 8 – (1) Projesi ilgili POB tarafından onaylanmamış veya yapımı tamamlanmamış ünite/üniteler için kabul başvurusu yapılamaz.
+(2) Elektrik üretim tesisleri için ünitenin/ünitelerin kurulumu ile senkronizasyon öncesi ve sonrası tüm saha test ve gerekli izin süreçlerinin tamamlanmasını müteakip kabulünün yapılabilmesi için lisans/tesis sahibi tarafından Ek-1’de yer alan dilekçe örneği ve Ek-2’de yer alan (Değişik ibare:RG-13/5/2025-32899) “Üretim ve Elektrik Depolama Tesisleri Kabul Kapsamı”nda belirtilen bilgi ve belgeler ile ilgili POB’a müracaat edilir.
+(3) İlgili POB’a sunulan bilgi ve belgeler 5 iş günü içerisinde incelenir.
+a) Ek-1’de yer alan dilekçe örneği ve Ek-2’de yer alan bilgi ve belgelerin eksiksiz sunulduğunun tespit edilmesi durumunda; ilgili POB tarafından başvuru sahibine ve kabul heyetinde temsil edilecek kamu kurum ve kuruluşları ile sistem işletmecisine belirlenecek tarihte hazır olunması için yazılı bildirimde bulunulur. Kabul heyeti, başvuru tarihinden itibaren en geç 10 iş günü içerisinde tesis mahallinde toplanır. Yazının bildirilmesini müteakip POB dışında kabul heyetine katılacak üyeler ilgili POB’a bildirilir.
+b) Ek-1’de yer alan dilekçe örneği ve Ek-2’de başvuru kapsamında belirtilen bilgi ve belgelerde eksik ve/veya hatalı hususların tespit edilmesi durumunda, bu hususlar lisans/tesis sahibine bildirilir ve düzeltilerek ilgili POB’a sunulması istenir.
+(4) Kabul başvuru değerlendirme sürecinde Bakanlık tarafından ilave bilgi ve belgeler talep edilebilir.
+(5) (Değişik:RG-13/5/2025-32899) Ek-2’de belirtilenlerden farklı tesis tipleri için kabul başvurusu ve kabul işlemlerine yönelik bilgi ve belgeler Bakanlık tarafından belirlenir ve Bakanlığın internet sitesinde ilan edilir.
+(6) Kabul başvurusu değerlendirme sürecinde lisans/tesis sahibi ve/veya lisans/tesis sahibini temsile yetkili kişiler, tesise ilişkin görüşme talebiyle ilgili POB’a çağrılabilir. Bu durumda, başvuru sürecine ilişkin bu maddede belirtilen sürelerde herhangi bir değişikliğe gidilmez.
+(7) (Ek:RG-13/5/2025-32899) Bu Yönetmeliğe konu tesislerin kabul başvurusu ve değerlendirme süreci fiziksel başvurulara imkân veren seçeneğin muhafaza edilmesi şartıyla, elektronik imza mevzuatına uygun olarak elektronik ortamda da yapılabilir.
