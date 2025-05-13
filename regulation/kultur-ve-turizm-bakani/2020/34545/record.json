@@ -1,0 +1,63 @@
+{
+  "source_id": "7.5.34545",
+  "kind": "regulation",
+  "register_kind": "Kurum ve Kuruluş Yönetmelikleri",
+  "title": "ÖZEL TİYATROLARIN KAYIT İŞLEMLERİNE DAİR YÖNETMELİK",
+  "number": "34545",
+  "issuer": "Kültür ve Turizm Bakanı",
+  "issuer_slug": "kultur-ve-turizm-bakani",
+  "path": "regulation/kultur-ve-turizm-bakani/2020/34545",
+  "source": "https://www.mevzuat.gov.tr/anasayfa/MevzuatFihristDetayIframe?MevzuatTur=7&MevzuatNo=34545&MevzuatTertip=5",
+  "source_sha256": "80f587d3fd6704feb8ec653460220eb6e8f9a83842479bc76676739bb591387d",
+  "source_bytes": 23169,
+  "published": "2020-05-23",
+  "gazette": "31135",
+  "in_force": "2025-05-13",
+  "in_force_basis": "latest Resmî Gazete date printed in the source amendment notes/table (\"RG-13/5/2025\") for the current consolidated text",
+  "date_evidence": [
+    [
+      "2025-05-13",
+      "RG-13/5/2025",
+      "Resmî Gazete date printed in the source amendment note"
+    ],
+    [
+      "2025-05-13",
+      "13/5/2025",
+      "Resmî Gazete date in the source amendment table"
+    ],
+    [
+      "2021-07-08",
+      "RG-8/7/2021",
+      "Resmî Gazete date printed in the source amendment note"
+    ],
+    [
+      "2021-07-08",
+      "8/7/2021",
+      "Resmî Gazete date in the source amendment table"
+    ],
+    [
+      "2021-04-07",
+      "RG-7/4/2021",
+      "Resmî Gazete date printed in the source amendment note"
+    ],
+    [
+      "2021-04-07",
+      "7/4/2021",
+      "Resmî Gazete date in the source amendment table"
+    ]
+  ],
+  "commencement_clauses": [
+    "Bu Yönetmelik yayımı tarihinde yürürlüğe girer"
+  ],
+  "history": "current-text",
+  "label": "oldest version available",
+  "checked_on": "2026-11-15",
+  "word_count": 731,
+  "text_status": "current-consolidated",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  },
+  "completeness": "html-text-complete"
+}
