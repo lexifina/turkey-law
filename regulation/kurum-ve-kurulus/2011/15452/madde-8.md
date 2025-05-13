@@ -1,0 +1,6 @@
+İnceleme dosyası
+MADDE 8 − (1) Vergi incelemesi yapmaya yetkili olanlar, işe başlama ve incelemeye hazırlık evresi dâhil, inceleme görevi sırasında tespit ettikleri hususları ihtiva eden bir inceleme dosyası oluştururlar.
+(2) İnceleme dosyasında; görevlendirme yazısı, işe başlama ve incelemeye hazırlık evresinde tespit edilen hususlar, mükellefin vergi incelemesi kapsamında incelenen hesapları, harici olarak yapılan araştırmalarda tespit edilen konular, mevzuata aykırı işlemleri, bulunan matrah farkı, vergi farkı ve bunların hesaplanma yöntemlerine ilişkin bilgiler ile bu kapsamda yapılan yazışmalar, düzenlenen tutanaklar ve ilgili diğer belgeler yer alır.
+(3) (Değişik:RG-6/11/2015-29524) İnceleme görevini veren ilgili birim tarafından görevin devredilmesinin uygun görülmesi halinde inceleme dosyası, yazı ile (Değişik ibare:RG-7/4/2021-31447) Daire Başkanlığına gönderilir.
+(4) İnceleme dosyasında yer alacak bilgilerin kısmen veya tamamen elektronik ortamda tutulması mümkündür.
+(5) İnceleme dosyası, ilgili rapor değerlendirme komisyonunun rapora ilişkin nihai değerlendirmesinin incelemeyi yapana iletildiği tarihi takip eden 15 gün içerisinde ilgili inceleme ve denetim birimine iletilir.

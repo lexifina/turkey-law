@@ -1,0 +1,6 @@
+ÜÇÜNCÜ BÖLÜM
+Vergi İncelemesine Yetkili Olanlar Tarafından Uyulması Gereken Usuller
+İşe başlama ve incelemeye hazırlık
+MADDE 7 − (1) Vergi incelemesi yapmaya yetkili olanlar, inceleme görevinin verilmesinden itibaren en geç (Değişik ibare:RG-28/6/2022-31880)(2) beş gün içinde işe başlarlar. Bu süre içinde işe başlanılamaması halinde durum gerekçeli bir yazı ile bağlı bulunulan birime bildirilir. İlgili birim, işe başlanılamamasını haklı kılan bir mazeretin varlığı halinde en fazla (Değişik ibare:RG-28/6/2022-31880)(2) beş gün ilave süre verebileceği gibi inceleme görevini başka bir inceleme elemanına da verebilir.
+(2) Vergi incelemesi yapmaya yetkili olanlar tarafından mükellefin kendisine veya bulunduğu sektöre yönelik olarak yapılan her türlü araştırma, inceleme, bilgi isteme ve yazışma gibi faaliyetler işe başlandığını gösterir.
+(3) Vergi incelemesi yapmaya yetkili olanlar, incelemeye başlamadan önce, nezdinde inceleme yapacakları kişilere ve konulara ilişkin olarak görev yazısı ekinde verilen belgeler ile ilgililerin vergi dairesindeki dosyalarını tetkik ederler. Ayrıca, gerekirse harici araştırmalar da yapmak suretiyle bunların faaliyetleri, iş ve iş kolları ile çalışma şekilleri hakkında bilgi edinirler.

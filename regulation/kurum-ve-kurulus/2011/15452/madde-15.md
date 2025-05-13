@@ -1,0 +1,2 @@
+Vergi mahremiyetinin korunması
+MADDE 15 − (1) Vergi incelemesi yapmaya yetkili olanlar, görevleri dolayısıyla, mükellefin ve mükellefle ilgili kimselerin şahıslarına, muamele ve hesap durumlarına, işlerine, işletmelerine, servetlerine veya mesleklerine ilişkin olarak öğrendikleri sırları veya gizli kalması gerekli diğer hususları ifşa edemezler ve kendilerinin veya üçüncü şahısların yararına kullanamazlar. Bu yasak, vergi incelemesi yapmaya yetkili olanlar görevlerinden ayrılsalar dahi devam eder.

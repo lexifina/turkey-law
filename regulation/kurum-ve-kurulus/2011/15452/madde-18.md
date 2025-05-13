@@ -1,0 +1,5 @@
+Raporların mevzuata uygun olması
+MADDE 18 − (1) Vergi incelemesi yapmaya yetkili olanlar, vergi kanunlarıyla ilgili (Değişik ibare:RG-7/4/2021-31447) Cumhurbaşkanı Kararı, yönetmelik, genel tebliğ ve sirkülere aykırı vergi inceleme raporu düzenleyemezler.
+(2) (Ek:RG-6/11/2015-29524)(1) Mükelleflerin, inceleme sırasında vergi kanunlarına göre eleştiri konusu yapılacak hususlarla ilgili olarak inceleme elemanına özelge ibraz etmesi durumunda, özelge inceleme tutanağına dâhil edilir. Özelgenin mükellefin durumunu açıklayıp açıklamadığı hususu, inceleme elemanı tarafından düzenlenen raporda değerlendirilir.
+(3) Vergi incelemesi yapmaya yetkili olanlar, inceleme sırasında, vergi kanunlarıyla ilgili (Değişik ibare:RG-7/4/2021-31447) Cumhurbaşkanı Kararı, yönetmelik, genel tebliğ ve sirkülerin vergi kanunlarına aykırı olduğu kanaatine varırlarsa, bu hususu bağlı oldukları birim aracılığıyla Gelir İdaresi Başkanlığına bir rapor ile bildirirler.
+(4) Gelir İdaresi Başkanlığı, en geç yirmi iş günü içerisinde görüşünü ilgili birime yazılı olarak bildirir.

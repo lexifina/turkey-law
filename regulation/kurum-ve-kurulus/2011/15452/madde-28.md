@@ -1,0 +1,2 @@
+Yürürlükten kaldırılan yönetmelikler
+MADDE 28 − (1) 31/12/2010 tarihli ve 27802 sayılı Resmî Gazete’de yayımlanan Vergi İncelemelerinde Uyulacak Usul ve Esaslar Hakkında Yönetmelik, Vergi İnceleme ve Denetim Planının Hazırlanması, Uygulanması ve Sonuçlarının İzlenmesine İlişkin Usul ve Esaslar Hakkında Yönetmelik ile Vergi İnceleme ve Denetim Koordinasyon Kurulunun Çalışma Usul ve Esasları Hakkında Yönetmelik yürürlükten kaldırılmıştır.

@@ -1,0 +1,3 @@
+Defter ve belgelerin iadesi
+MADDE 22 − (1) Mükellefin defter ve belgeleri, ilgili rapor değerlendirme komisyonunun rapora ilişkin nihai değerlendirmesinin incelemeyi yapana iletildiği tarihten itibaren en geç on beş gün içerisinde bir tutanak ile iade edilir. (Ek cümle:RG-28/6/2022-31880)(2) Şu kadar ki, Bakanlık tarafından oluşturulan sistem üzerinden ibraz edilen elektronik defter ve belgeler, ilgili rapor değerlendirme komisyonunun rapora ilişkin nihai değerlendirmesini müteakip en geç otuz gün içerisinde sistemden silinir.
+(2) (Değişik:RG-13/5/2025-32899) 16 ncı maddenin altı, yedi ve sekizinci fıkrası hükümleri saklıdır.

@@ -1,0 +1,87 @@
+{
+  "source_id": "7.5.15452",
+  "kind": "regulation",
+  "register_kind": "Kurum ve Kuruluş Yönetmelikleri",
+  "title": "VERGİ İNCELEMELERİNDE UYULACAK USUL VE ESASLAR HAKKINDA YÖNETMELİK",
+  "number": "15452",
+  "issuer_slug": "kurum-ve-kurulus",
+  "path": "regulation/kurum-ve-kurulus/2011/15452",
+  "source": "https://www.mevzuat.gov.tr/anasayfa/MevzuatFihristDetayIframe?MevzuatTur=7&MevzuatNo=15452&MevzuatTertip=5",
+  "source_sha256": "d72d93650ecd8c0a7f04a0bacee8446431b5411964fa3d245cf97642c1d75b8a",
+  "source_bytes": 67230,
+  "published": "2011-10-31",
+  "gazette": "28101",
+  "in_force": "2025-05-13",
+  "in_force_basis": "latest Resmî Gazete date printed in the source amendment notes/table (\"RG-13/5/2025\") for the current consolidated text",
+  "date_evidence": [
+    [
+      "2025-05-13",
+      "RG-13/5/2025",
+      "Resmî Gazete date printed in the source amendment note"
+    ],
+    [
+      "2025-05-13",
+      "13/5/2025",
+      "Resmî Gazete date in the source amendment table"
+    ],
+    [
+      "2022-06-28",
+      "RG-28/6/2022",
+      "Resmî Gazete date printed in the source amendment note"
+    ],
+    [
+      "2022-06-28",
+      "28/6/2022",
+      "Resmî Gazete date in the source amendment table"
+    ],
+    [
+      "2021-04-07",
+      "RG-7/4/2021",
+      "Resmî Gazete date printed in the source amendment note"
+    ],
+    [
+      "2021-04-07",
+      "7/4/2021",
+      "Resmî Gazete date in the source amendment table"
+    ],
+    [
+      "2016-10-25",
+      "RG-25/10/2016",
+      "Resmî Gazete date printed in the source amendment note"
+    ],
+    [
+      "2016-10-25",
+      "25/10/2016",
+      "Resmî Gazete date in the source amendment table"
+    ],
+    [
+      "2015-11-06",
+      "RG-6/11/2015",
+      "Resmî Gazete date printed in the source amendment note"
+    ],
+    [
+      "2015-11-06",
+      "6/11/2015",
+      "Resmî Gazete date in the source amendment table"
+    ],
+    [
+      "2012-08-08",
+      "8/8/2012",
+      "Resmî Gazete date in the source amendment table"
+    ]
+  ],
+  "commencement_clauses": [
+    "Bu Yönetmelik yayımı tarihinde yürürlüğe girer"
+  ],
+  "history": "current-text",
+  "label": "oldest version available",
+  "checked_on": "2026-11-15",
+  "word_count": 3518,
+  "text_status": "current-consolidated",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  },
+  "completeness": "html-text-complete"
+}
