@@ -1,0 +1,20 @@
+{
+  "applicant": "Y.K.",
+  "application_date": "2020-07-21",
+  "application_number": "2020/25833",
+  "deciding_unit": "Birinci Bölüm",
+  "decision_date": "2025-05-14",
+  "id": "72d11f04-4fef-421a-093d-fd64449297ba",
+  "in_force": "2025-05-14",
+  "in_force_basis": "official decision date",
+  "kind": "constitutional-court-individual-application",
+  "omitted_images": 0,
+  "outcome": "Esas (İhlal)",
+  "published": null,
+  "referenced_images": 0,
+  "source": "https://kararlarbilgibankasi.anayasa.gov.tr/kbb/pages/search/Tumu?id=a2JiOjcyZDExZjA0LTRmZWYtNDIxYS0wOTNkLWZkNjQ0NDkyOTdiYQ&type=BireyselBasvuru",
+  "source_api": "https://kararlarbilgibankasi.anayasa.gov.tr/api/core/public/search",
+  "source_images": 0,
+  "source_sha256": "2042047a9e7ac46086cd692dbd9755dbab1a7b48c568799b10455248dd44e1a0",
+  "version_label": "as-enacted"
+}
