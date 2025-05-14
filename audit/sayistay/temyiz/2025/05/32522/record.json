@@ -1,0 +1,15 @@
+{
+  "kind": "decision",
+  "issuer": "Sayıştay Temyiz Kurulu",
+  "number": "58041",
+  "decision_date": "2025-05-14",
+  "source_id": 32522,
+  "chamber": "1",
+  "file_number": "53708",
+  "public_body_type": "Genel Bütçe Kapsamındaki İdareler",
+  "account_year": "2021",
+  "source": "https://www.sayistay.gov.tr/KararlarTemyiz/Detay/32522/",
+  "source_sha256": "5c9c7b094ddc67fdd34d61ce5f2bce4c2f0a33080940ac4dda07490f9afd6af5",
+  "text_status": "metadata-only",
+  "metadata_only_reason": "possible personal name in the official text"
+}
