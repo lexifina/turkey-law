@@ -1,0 +1,4 @@
+Sanatta yeterlik süresi
+MADDE 31- (1) Sanatta yeterlik programını tamamlama süresi, bilimsel hazırlıkta geçen süre hariç, öğrencinin kaydolduğu programa ilişkin derslerin verildiği dönemden başlamak üzere, her dönem için kayıt yaptırıp yaptırmadığına bakılmaksızın sekiz yarıyıl olup azami tamamlama süresi on iki yarıyıldır.
+(2) Sanatta yeterlik programı için gerekli kredili dersleri başarıyla tamamlamanın azami süresi dört yarıyıldır. Bu süre içinde kredili derslerini başarıyla tamamlayamayan veya 4,00 üzerinden en az 3,00 genel not ortalamasını sağlayamayan öğrencinin Üniversite ile ilişiği kesilir.
+(3) Kredili derslerini ve uygulamalarını başarı ile bitiren, ancak tez, sergi, proje, resital, konser, temsil gibi çalışmalarını birinci fıkrada belirtilen azami on iki yarıyıl sonuna kadar tamamlayamayan öğrencinin Üniversite ile ilişiği kesilir.

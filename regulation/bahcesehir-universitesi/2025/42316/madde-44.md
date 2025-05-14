@@ -1,0 +1,3 @@
+Lisansüstü derslerin kredi değerleri
+MADDE 44- (1) Bir lisansüstü öğretim programının dersleri, bu derslerin içerikleri, kredi/saat ve AKTS kredileri, programın mezuniyet koşulları, ilgili anabilim/anasanat dalı koordinatörü tarafından hazırlanır ve Enstitüye önerilir. Lisansüstü programları, Enstitü Kurulu tarafından kabul edildikten sonra Senatonun onayı ile kesinleşir. Bir öğretim programında yer alan derslerin yürütülmesine ilişkin hususlar, Enstitü Yönetim Kurulu tarafından karara bağlanır.
+(2) Proje, seminer ve tez çalışması dersleri ulusal kredisiz derslerdir ve AKTS kredileri sistemde belirtilmiştir.

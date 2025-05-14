@@ -1,0 +1,22 @@
+Tanımlar
+MADDE 4- (1) Bu Yönetmelikte geçen;
+a) AKTS: Avrupa Kredi Transfer Sistemini,
+b) ALES: Akademik Personel ve Lisansüstü Eğitimi Giriş Sınavını,
+c) Enstitü: Bahçeşehir Üniversitesi Lisansüstü Eğitim Enstitüsünü,
+ç) Enstitü Anabilim Dalı Başkanı (EADB): Enstitü Anabilim Dalı Başkanını,
+d) Enstitü Kurulu: Enstitü Müdürü başkanlığında, müdür yardımcıları ve Enstitü Anabilim ve Anasanat Dalı Program Koordinatörlerinden oluşan Kurulu,
+e) Enstitü Müdürü: Lisansüstü Eğitim Enstitüsü Müdürünü,
+f) Enstitü Yönetim Kurulu: Enstitü Müdürü başkanlığında, müdür yardımcıları ve müdür tarafından gösterilecek altı aday arasından Enstitü Kurulu tarafından üç yıl için seçilen üç öğretim üyesinden oluşan kurulu,
+g) İntihal: Başkalarının fikirlerini, metotlarını, verilerini veya eserlerini bilimsel kurallara uygun biçimde atıf yapmadan kısmen veya tamamen kendi eseri gibi göstermeyi,
+ğ) Mütevelli Heyeti: Bahçeşehir Üniversitesi Mütevelli Heyetini,
+h) ÖSYM: Ölçme, Seçme ve Yerleştirme Merkezi Başkanlığını,
+ı) Program Koordinatörü: Bahçeşehir Üniversitesi lisansüstü programlarında Enstitü anabilim/anasanat dalı başkanının görevlerini yürütmek üzere Enstitü Müdürü tarafından, atanan ve lisansüstü programlarla ilgili tüm akademik işlerden sorumlu ve yetkili öğretim elemanını,
+i) Rektör: Bahçeşehir Üniversitesi Rektörünü,
+j) Senato: Bahçeşehir Üniversitesi Senatosunu,
+k) Tez İzleme Komitesi: Doktora programında kayıtlı öğrencinin tez çalışmasını izleyen komiteyi,
+l) Üniversite: Bahçeşehir Üniversitesini,
+m) Üst yönetim: Rektör Başkanlığında, Rektör yardımcıları ve Genel Sekreteri,
+n) YDS: Yabancı Dil Bilgisi Seviye Tespit Sınavını,
+o) Yeterlik sınavı: Derslerini ve seminerini tamamlayan doktora/sanatta yeterlik öğrencisinin, alanındaki temel bilgi ile bağımsız bir araştırmayı yürütebilme yeterliliğini değerlendirmeye yönelik sınavı,
+ö) YÖK: Yükseköğretim Kurulunu,
+ifade eder.

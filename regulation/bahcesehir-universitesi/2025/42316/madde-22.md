@@ -1,0 +1,4 @@
+Doktora eğitiminin süresi
+MADDE 22- (1) Doktora programı, bilimsel hazırlıkta geçen süre hariç öğrencinin kaydolduğu programa ilişkin derslerin verildiği dönemden başlamak üzere, her dönem için kayıt yaptırıp yaptırmadığına bakılmaksızın sekiz yarıyıl olup azami tamamlanma süresi ise on iki yarıyıldır.
+(2) Doktora programı için gerekli kredili dersleri başarıyla tamamlamanın azami süresi dört yarıyıldır. Bu süre içinde kredili derslerini başarıyla tamamlayamayan veya 4,00 üzerinden en az 3,00 genel not ortalamasını sağlayamayan öğrencinin Üniversite ile ilişiği kesilir.
+(3) Kredili derslerini başarıyla bitiren, yeterlik sınavında başarılı bulunan ve tez önerisi kabul edilen, ancak tez çalışmasını birinci fıkrada belirtilen on iki yarıyıl sonuna kadar tamamlayamayan öğrencinin Üniversite ile ilişiği kesilir.
