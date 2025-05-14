@@ -1,0 +1,23 @@
+{
+  "number": "meeting-05-14",
+  "number_as_published": "meeting-05-14",
+  "year": 2025,
+  "title": "2025 Mayıs Meclis Kararları 14 Mayıs 2025",
+  "decision_date": "2025-05-14",
+  "source": "https://datca.bel.tr/belgeler/meclis_karari?page=2",
+  "official_document": "https://datca.bel.tr/storage/documents/meclis_karari/20260811-fjVcAmDg.pdf",
+  "source_sha256": "4d2883be019cefffca9250cd0476d0debf2dcff92ef028d60c90d7dfeec4701e",
+  "issuer": "Datça Belediye Meclisi",
+  "history_type": "metadata",
+  "text_status": "metadata-only: listing fields as published; complete decision text is in the linked official document, not transcribed",
+  "in_force": "2025-05-14",
+  "in_force_basis": "Decision date as printed in the official council listing: 14 MAYIS 2025; adoption date of the council decision; legal commencement not asserted",
+  "missing": [
+    "complete official decision text",
+    "official annexes"
+  ],
+  "law_text_complete": false,
+  "privacy_withheld": false,
+  "listing_label": "2025 Mayıs Meclis Kararları 14 Mayıs 2025",
+  "record_scope": "one official file of council decisions (meeting)"
+}
