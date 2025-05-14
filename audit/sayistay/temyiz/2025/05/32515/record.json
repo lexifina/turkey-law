@@ -1,0 +1,16 @@
+{
+  "kind": "decision",
+  "issuer": "Sayıştay Temyiz Kurulu",
+  "number": "58033",
+  "decision_date": "2025-05-14",
+  "source_id": 32515,
+  "chamber": "1",
+  "file_number": "53832",
+  "public_body_type": "Genel Bütçe Kapsamındaki İdareler",
+  "account_year": "2021",
+  "subject": "Personel Mevzuatı ile İlgili Kararlar",
+  "source": "https://www.sayistay.gov.tr/KararlarTemyiz/Detay/32515/",
+  "source_sha256": "a7f5cacf318afd69c5c1b3883756e4018815c94319d8162ae2d68de8282d64ff",
+  "text_status": "metadata-only",
+  "metadata_only_reason": "possible personal name in the official text"
+}
