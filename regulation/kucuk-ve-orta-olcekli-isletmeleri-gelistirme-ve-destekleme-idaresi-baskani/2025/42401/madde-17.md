@@ -1,0 +1,2 @@
+Başkan yardımcıları
+MADDE 17- (1) Başkan yardımcıları, Başkana karşı sorumludurlar. Başkan yardımcıları, Başkanlığın hedef ve politikaları doğrultusunda Başkan tarafından yapılan iş bölümüne göre kendisine bağlı birimleri yönetir ve gerekli denetimleri yapar. Başkanın olmadığı durumlarda ve gerektiğinde Başkana vekâlet eder. Kendisine bağlı birimler ile ilgili olarak Başkanlık içinde ve gerektiğinde Başkanlık dışındaki kurum/kuruluş ve kişilerle Başkanın bilgisi dâhilinde üst düzeydeki ilişkileri yürütür.

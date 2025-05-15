@@ -1,0 +1,2 @@
+İcra komitesinin toplantı zamanı, gündemi ve davet
+MADDE 11- (1) İcra Komitesi, İcra Komitesi Başkanının daveti üzerine en geç iki ayda bir toplanır. Başkanlık birimleri, İcra Komitesi gündemine alınmasını istedikleri konu ve çalışmaların müzekkerelerini ve varsa eklerini hazırlayarak Başkanlık Makamına sunarlar. Başkanlık Makamı tarafından uygun bulunan müzekkereler İcra Komitesi gündemine alınır. İcra Komitesinin toplantı gündemi, zamanı ile yeri önceden üyelere bildirilir.

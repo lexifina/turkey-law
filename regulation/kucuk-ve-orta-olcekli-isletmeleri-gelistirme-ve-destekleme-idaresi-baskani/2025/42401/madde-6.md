@@ -1,0 +1,2 @@
+Genel kurulun görev ve yetkileri
+MADDE 6- (1) Genel Kurulun görevleri, kalkınma plan ve programları doğrultusunda işletmelerin teknolojik gelişmelere ve serbest rekabet ortamına uyumunu sağlamak maksadıyla işletmelere ilişkin geliştirme ve destekleme kararlarının alınması, uygulamaların plânlanması ve koordinasyonunun sağlanması bakımından tedbirler almak, düzenleyici direktiﬂer vermek, Başkanlığın faaliyet raporu ile performans programını incelemek ve önerilerde bulunmaktır.

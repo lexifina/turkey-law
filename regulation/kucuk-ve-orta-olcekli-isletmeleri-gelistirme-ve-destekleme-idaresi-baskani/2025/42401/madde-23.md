@@ -1,0 +1,9 @@
+AB ve Dış İlişkiler Dairesi Başkanlığı
+MADDE 23- (1) AB ve Dış İlişkiler Dairesi Başkanlığının görevleri şunlardır:
+a) Hükümet programlarında, kalkınma planlarında, yıllık ve orta vadeli programlarda yer alan ve Başkanlığın görev alanına giren konular ile ilgili yabancı ülke, uluslararası kuruluşlar ve bu kapsamdaki ulusal kuruluşlar ile olan ilişkilerde, gerekli çalışmaları etkin, verimli ve sürekli bir şekilde koordinasyon içerisinde yürütmek.
+b) Avrupa Birliği ile ilgili süreçlerde Başkanlığın görev alanına giren konularda program hazırlıkları, yürütülmesi ve raporlama süreçlerini, ilgili KOSGEB birimleri ile koordineli olarak gerçekleştirmek, KOSGEB birimleri ve ilgili kurum ve kuruluşlar arasında koordinasyonu sağlamak.
+c) Başkanlık tarafından yürütülmekte olan veya hazırlanacak destek programları veya projelerin uluslararası kuruluşlar tarafından finanse edilmesinin sağlanmasına yönelik çalışmaların kurumsal koordinasyonunu yapmak.
+ç) Başkanlığın görev alanına giren konularda uluslararası ve ulusal kuruluşlarla, yabancı ülkelerdeki muadil kuruluşlarla iş birliği içinde ya da KOSGEB olarak kongre, konferans, toplantı ve eğitim programları düzenlemek ya da katılım ile ilgili koordinasyonu sağlamak.
+d) Başkanlığın faaliyet alanları çerçevesinde birimler tarafından önerilen ülkelere, ülke gruplarına ya da uluslararası örgütlere yönelik iş birliği projelerinin hazırlanmasında ve ilgili makamlara sunulmasında, teknik bilgilendirme programlarının ve protokollerinin hazırlanması ve yürütülmesinde koordinasyonu sağlamak.
+e) Başkanlığın faaliyet alanları çerçevesinde, Ülkemizin faydalanabildiği ve katılım sağladığı AB program ve mali olanakları ile ilgili olarak, bilgilendirmeler yapmak, Başkanlık tarafından yürütülmekte olan veya hazırlanacak projelere yönelik çalışmaların koordinasyonunu yapmak.
+f) Başkan tarafından verilen diğer görevleri yürütmek.
