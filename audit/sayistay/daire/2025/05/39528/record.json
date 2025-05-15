@@ -1,0 +1,17 @@
+{
+  "kind": "decision",
+  "issuer": "Sayıştay 6. Dairesi",
+  "number": "977",
+  "decision_date": "2025-05-15",
+  "source_id": 39528,
+  "chamber": "6",
+  "ilam_number": "339",
+  "item_number": 1,
+  "public_body_type": "Yüksek Öğretim Kurumları",
+  "account_year": 2018,
+  "subject": "Personel Mevzuatı ile İlgili Kararlar",
+  "source": "https://www.sayistay.gov.tr/KararlarDaire/Detay/39528/",
+  "source_sha256": "8ece0e0c0e0fd0e4d6029f0e188bf17034e9771555a44543635e9500ad9de281",
+  "text_status": "metadata-only",
+  "metadata_only_reason": "possible personal name in the official text"
+}
