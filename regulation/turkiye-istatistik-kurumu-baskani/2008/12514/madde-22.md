@@ -1,0 +1,4 @@
+Ambarın kontrolü
+MADDE 22 – (1) İşletmenin ambarı her malî yıl sonunda ve harcama yetkilisinin gerekli gördüğü durum ve zamanlarda, 1/5/2007 tarihli ve 26509 sayılı Resmî Gazete’de yayımlanan Döner Sermayeli İşletmeler Bütçe ve Muhasebe Yönetmeliğinin 570 inci maddesine göre Harcama Yetkilisince görevlendirilecek bir komisyon tarafından sayılır ve sayım sonuçları cetvellere yazılır.
+(2) Taşınırların muhafazasından ve yönetilmesinden sorumlu olanların normal fireler dışında, gerekli tedbirlerin alınmaması veya özenin gösterilmemesi nedeniyle taşınırın eksilmesi, kullanılamaz hâle gelmesi veya yok olması sonucunda ortaya çıkan zararlar hakkında, 27/9/2006 tarihli ve 2006/11058 sayılı Bakanlar Kurulu Kararıyla yürürlüğe konulan Kamu Zararlarının Tahsiline İlişkin Usul ve Esaslar Hakkında Yönetmelik hükümleri uygulanır.
+(3) Yapılan sayım sonucunda fazla bulunan taşınırlar, taşınır işlem fişi düzenlenerek kayıtlara alınır.

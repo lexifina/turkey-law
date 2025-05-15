@@ -1,0 +1,2 @@
+Devir teslim işleri
+MADDE 30 – (1) Muhasebe Yetkilisi, muhasebe yetkilisi mutemedi, veznedar, taşınır kayıt ve kontrol yetkilisi gibi para ve malî işler ile ilgili görevli memurlar arasındaki devir teslim işlemlerinde 1/5/2007 tarihli ve 26509 sayılı Resmî Gazete’de yayımlanan Döner Sermayeli İşletmeler Bütçe ve Muhasebe Yönetmeliği hükümleri, devir teslim süreleri yönünden de 12/11/1974 tarihli ve 7/9044 sayılı Bakanlar Kurulu Kararıyla yürürlüğe konulan Devlet Memurlarının Çekilmelerinde Devir ve Teslim Süreleri Hakkında Yönetmelik hükümleri uygulanır.

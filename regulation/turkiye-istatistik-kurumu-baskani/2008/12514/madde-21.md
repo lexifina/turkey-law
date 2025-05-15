@@ -1,0 +1,7 @@
+Taşınır kayıt yetkilileri ve taşınır kontrol yetkilileri
+MADDE 21- (Başlığı ile Birlikte Değişik:RG-15/5/2025-32901)
+(1) Taşınır kayıt yetkilisi, taşınırları teslim alan, sorumluluğundaki ambarlarda muhafaza eden, kullanıcılarına ve kullanım yerlerine teslim eden, Taşınır Mal Yönetmeliğinde belirtilen usul ve esaslara göre kayıtları tutan, bunlara ilişkin belge ve cetvelleri düzenleyen ve bu hususlarda hesap verme sorumluluğu çerçevesinde taşınır kontrol yetkilisi ve harcama yetkilisine karşı sorumlu olan görevlidir.
+(2) Taşınır kontrol yetkilisi, taşınır kayıt yetkilisinin hazırlamış olduğu taşınır mal yönetim hesabına ilişkin belge ve cetvellerin mevzuata ve mali tablolara uygunluğunu kontrol eden, Harcama Birimi Taşınır Mal Yönetim Hesabı Cetvelini imzalayan ve bu konularda harcama yetkilisine karşı sorumlu olan görevlidir.
+(3) Taşınır kayıt yetkilileri, harcama yetkilisince, memuriyet veya çalışma ünvanına bağlı kalmaksızın, taşınır kayıt ve işlemlerini Taşınır Mal Yönetmeliğinde belirtilen usule uygun şekilde yapabilecek bilgi ve niteliklere sahip personel arasından görevlendirilir.
+(4) Taşınır kontrol yetkilileri, harcama yetkililerince, yardımcılarından veya bunların bir alt kademesindeki yöneticileri arasından görevlendirilir. Harcama yetkilisi dışında yönetici ünvanını haiz personel bulunmayan harcama birimlerinde ise bu görev harcama yetkilisi tarafından yerine getirilir.
+(5) Taşınır kontrol yetkilisi ile taşınır kayıt yetkilisi görevi aynı kişide birleşemez.

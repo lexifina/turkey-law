@@ -1,0 +1,53 @@
+{
+  "source_id": "7.5.12514",
+  "kind": "regulation",
+  "register_kind": "Kurum ve Kuruluş Yönetmelikleri",
+  "title": "TÜRKİYE İSTATİSTİK KURUMU DÖNER SERMAYE İŞLETMESİ YÖNETMELİĞİ",
+  "number": "12514",
+  "issuer": "Türkiye İstatistik Kurumu Başkanı",
+  "issuer_slug": "turkiye-istatistik-kurumu-baskani",
+  "path": "regulation/turkiye-istatistik-kurumu-baskani/2008/12514",
+  "source": "https://www.mevzuat.gov.tr/anasayfa/MevzuatFihristDetayIframe?MevzuatTur=7&MevzuatNo=12514&MevzuatTertip=5",
+  "source_sha256": "aef2972e4104d0d893f47641b09cc6bb9868422da577d180c04e1c1aa6148022",
+  "source_bytes": 60652,
+  "published": "2008-10-14",
+  "gazette": "27024",
+  "in_force": "2025-05-15",
+  "in_force_basis": "latest Resmî Gazete date printed in the source amendment notes/table (\"RG-15/5/2025\") for the current consolidated text",
+  "date_evidence": [
+    [
+      "2025-05-15",
+      "RG-15/5/2025",
+      "Resmî Gazete date printed in the source amendment note"
+    ],
+    [
+      "2025-05-15",
+      "15/5/2025",
+      "Resmî Gazete date in the source amendment table"
+    ],
+    [
+      "2012-08-18",
+      "RG-18/8/2012",
+      "Resmî Gazete date printed in the source amendment note"
+    ],
+    [
+      "2012-08-18",
+      "18/8/2012",
+      "Resmî Gazete date in the source amendment table"
+    ]
+  ],
+  "commencement_clauses": [
+    "bu Yönetmelik yayımı tarihinde yürürlüğe girer"
+  ],
+  "history": "current-text",
+  "label": "oldest version available",
+  "checked_on": "2026-11-15",
+  "word_count": 2323,
+  "text_status": "current-consolidated",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  },
+  "completeness": "html-text-complete"
+}
