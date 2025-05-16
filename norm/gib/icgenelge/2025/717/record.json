@@ -1,0 +1,22 @@
+{
+  "kind": "norm",
+  "issuer": "Gelir İdaresi Başkanlığı",
+  "document_type": "icgenelge",
+  "number": "E-73305916-105[344-1140]-43058",
+  "source_id": 717,
+  "date": "2025-05-16",
+  "title": "VERGİ USUL KANUNU İÇ GENELGESİ SIRA NO: 2025/1",
+  "source": "https://gib.gov.tr/mevzuat/kanun/434/icgenelge/717",
+  "related_law": "213 sayılı VERGİ USUL KANUNU",
+  "source_api": "https://gib.gov.tr/api/gibportal/mevzuat/icGenelge/list",
+  "source_listing": "evidence/list/2026-11-16/icGenelge-p000.json",
+  "source_listing_sha256": "f67e0a2102f72bb235e1a5040899d9489b05b3d457ed0145b7ee616be10187e7",
+  "source_sha256": "da3e7e84efe53a34aa86cc3679366fabcf256eda450a2e33fc72d30314e55021",
+  "text_status": "as-enacted",
+  "text_file": "metin.md",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  }
+}
