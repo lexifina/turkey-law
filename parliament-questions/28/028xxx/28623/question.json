@@ -1,0 +1,21 @@
+{
+  "record_type": "parliament-written-question",
+  "term": 28,
+  "legislative_year": 3,
+  "esas_no": "7/28623",
+  "submitted": "2025-05-16",
+  "submitted_as": "Başkanlığa geliş tarihi",
+  "mp": "İskender BAYHAN",
+  "province": "İstanbul",
+  "summary": "Bir siyasi partinin gençlik örgütüne üye olan öğrencilerin tehdit edildiği iddiasına ilişkin",
+  "status": "Cevaplanmadığı Gelen Kağıtlarda İlan Edildi",
+  "status_as_of": "2026-11-16",
+  "official_record": "https://www.tbmm.gov.tr/Denetim/Yazili-Soru-Onergesi-Detay/012860b9-dea5-46a3-b0e3-0196ec99b85b",
+  "source": "https://tbmm.gov.tr/Denetim/YaziliSoruOnergesiTable",
+  "source_form": "https://tbmm.gov.tr/Denetim/Yazili-Soru-Onergeleri",
+  "source_sha256": "0cca2eff0f567aceb9f1e7c5fad8b0984ffa7f2ec4bdab31b0cf97dc0b5f150b",
+  "in_force": "2025-05-16",
+  "in_force_basis": "Date the question reached the Speaker (Başkanlığa geliş tarihi) in the official TBMM written-question record; parliamentary oversight record, not law",
+  "history_type": "metadata",
+  "text_status": "metadata-only: question text, addressee and answers are in the linked official record (PDFs on cdn.tbmm.gov.tr); not transcribed here"
+}
