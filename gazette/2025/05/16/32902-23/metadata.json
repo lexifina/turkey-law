@@ -1,0 +1,20 @@
+{
+  "record_type": "gazette-item",
+  "gazette": "Resmî Gazete",
+  "jurisdiction": "TR",
+  "date": "2025-05-16",
+  "issue": "32902",
+  "edition": "regular",
+  "item": 23,
+  "section": "YÜRÜTME VE İDARE BÖLÜMÜ",
+  "heading": "TEBLİĞLER",
+  "title": "İthalatta Korunma Önlemlerine İlişkin Tebliğ (No: 2025/3)",
+  "official_link": "https://www.resmigazete.gov.tr/eskiler/2025/05/20250516-23.htm",
+  "link_format": "htm",
+  "index_url": "https://www.resmigazete.gov.tr/eskiler/2025/05/20250516.htm",
+  "index_sha256": "4d6d852dfe16b2106d53344b900877c191208bba00e9dd971d138761de3ab0b5",
+  "index_header": "16 Mayıs 2025 ... 32902 Sayılı Resmî Gazete",
+  "issue_pdf": "https://www.resmigazete.gov.tr/eskiler/2025/05/20250516.pdf",
+  "in_force_basis": "Resmî Gazete publication date; not a commencement reading.",
+  "text_status": "metadata-only; text not yet fetched (follow-up pass adds it as its own commit)"
+}
