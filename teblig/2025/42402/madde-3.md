@@ -1,0 +1,8 @@
+Karar
+MADDE 3- (1) İthalatta Korunma Önlemlerini Değerlendirme Kurulu soruşturma sonucunda varılan tespitler ışığında 70.04, 70.05 ve 70.06 Gümrük Tarife Pozisyonu (GTP) altında sınıflandırılan eşyanın İran İslam Cumhuriyeti menşeli olanlarının ithalatında geçici önlemin uygulama süresi de dahil olmak üzere 3 (üç) yıl süreyle ek mali yükümlülük şeklinde korunma önlemi uygulanmasına, ek mali yükümlülüğün aşağıdaki tabloda gösterildiği şekilde birinci yıl 36 ABD Doları/Ton, ikinci yıl 35 ABD Doları/Ton ve üçüncü yıl 34 ABD Doları/Ton olarak belirlenmesine ve önlemin istihsali hususunda Cumhurbaşkanlığına öneride bulunulmasına toplantıya katılan üyelerin oy birliğiyle karar vermiştir.
+GTP | EŞYANIN TANIMI | MENŞE ÜLKE | EK MALİ YÜKÜMLÜLÜK
+1. Dönem (12/12/2024 -11/12/2025) | 2.Dönem (12/12/2025 -11/12/2026) | 3.Dönem (12/12/2026 -11/12/2027)
+70.04 | Çekme ve üfleme cam (plaka halinde), absorblayıcı (emici) veya yansıtıcı ya da yansıtıcı olmayan bir tabakası olsun olmasın, fakat başka şekilde işlenmemiş): | İran İslam Cumhuriyeti | 36 ABD Doları/Ton | 35 ABD Doları/Ton | 34 ABD Doları/Ton
+70.05 | Float cam ve yüzeyi taşlanmış veya parlatılmış cam (plakalar halinde) absorblayıcı (emici) veya yansıtıcı ya da yansıtıcı olmayan bir tabakası 'olsun olmasın, fakat başka şekilde işlenmemiş:
+70.06 | 70.03, 70.04 veya 70.05 Pozisyonlarındaki camların bombelendirilmiş, kenar işlemeli, aşındırılmış, delinmiş, emaye baskı uygulanmış veya başka şekilde işlenmiş, fakat diğer malzemelerle çerçevelenmemiş veya donatılmamış olanlar:
+(2) Birinci fıkrada belirtilen önlem, ilgili Cumhurbaşkanı Kararının yürürlüğe girmesiyle uygulanmaya başlar.
