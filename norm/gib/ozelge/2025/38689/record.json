@@ -1,0 +1,22 @@
+{
+  "kind": "norm",
+  "issuer": "Gelir İdaresi Başkanlığı",
+  "document_type": "ozelge",
+  "number": "E-37538499-140-21964",
+  "source_id": 38689,
+  "date": "2025-05-16",
+  "title": "Lojman Satışlarının Tapu Harcından Muafiyeti Hk.",
+  "source": "https://gib.gov.tr/mevzuat/kanun/439/ozelge/38689",
+  "related_law": "492 sayılı HARÇLAR KANUNU",
+  "source_api": "https://gib.gov.tr/api/gibportal/mevzuat/ozelge/list",
+  "source_listing": "evidence/list/2026-11-16/ozelge-p008.json",
+  "source_listing_sha256": "292c126217cc32c3ccfa57495ce433f89ef8db5e75fa1946d5819a76f81aff4d",
+  "source_sha256": "82b6461b4b2f33b8eb55dd08b0a7d600f2e9f36dcfbb412501dad321ac947dd2",
+  "text_status": "as-enacted",
+  "text_file": "metin.md",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  }
+}
