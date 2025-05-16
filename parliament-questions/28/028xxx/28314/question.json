@@ -1,0 +1,21 @@
+{
+  "record_type": "parliament-written-question",
+  "term": 28,
+  "legislative_year": 3,
+  "esas_no": "7/28314",
+  "submitted": "2025-05-16",
+  "submitted_as": "Başkanlığa geliş tarihi",
+  "mp": "İnan Akgün ALP",
+  "province": "Kars",
+  "summary": "31 Mart 2024 tarihli yerel seçimler sonrasında Kars'ın Selim Belediyesinde işe alınan ve işten çıkarılan personele ilişkin",
+  "status": "Süresi Geçtikten Sonra Cevaplandı",
+  "status_as_of": "2026-11-16",
+  "official_record": "https://www.tbmm.gov.tr/Denetim/Yazili-Soru-Onergesi-Detay/35352e65-5eda-4141-9109-0196ecaeddac",
+  "source": "https://tbmm.gov.tr/Denetim/YaziliSoruOnergesiTable",
+  "source_form": "https://tbmm.gov.tr/Denetim/Yazili-Soru-Onergeleri",
+  "source_sha256": "4ffb3d6d8e4b72fa1fad05d323e19fadb92da8a4ebfba83b327f49a72476e806",
+  "in_force": "2025-05-16",
+  "in_force_basis": "Date the question reached the Speaker (Başkanlığa geliş tarihi) in the official TBMM written-question record; parliamentary oversight record, not law",
+  "history_type": "metadata",
+  "text_status": "metadata-only: question text, addressee and answers are in the linked official record (PDFs on cdn.tbmm.gov.tr); not transcribed here"
+}
