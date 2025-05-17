@@ -1,0 +1,7 @@
+Kantin Heyetinin Seçimi
+Madde 8 - Askerî kantin heyetinin seçiminde dikkate alınacak esaslar aşağıda belirtilmiştir :
+a) (Değişik:RG-17/5/2025-32903) Asil ve yedek üyeler; kışla komutanlığı/kurum amirliği tarafından gösterilen adaylar arasından, kışlada görev yapan subay, astsubay, uzman erbaş ve sivil personel mevcudunun en az yarıdan bir fazlasının katılacağı toplantıda, toplantıya katılanların oy çokluğuyla, gizli oy ve açık ayrımla seçilir. İlk toplantıda çoğunluk sağlanamadığı takdirde, müteakip toplantıda herhangi bir yeter sayı aranmaz.
+b) (Mülga:RG-8/10/2009-27370)
+c) (Değişik:RG-17/5/2025-32903) Seçim, bir tutanakla tespit edilir. Tutanağın bir nüshası kışla komutanlığı/kurum amirliği personel şubesinde, bir nüshası da kantinin teftişinde ibraz edilmek üzere kantin başkanlığında saklanır.
+ç) (Değişik:RG-17/5/2025-32903) Kantin heyetinin seçimi, her yılın Kasım ayının ilk haftasında yapılır. Yeni kantin heyeti, devreden kıymetleri teslim alarak 1 Ocak tarihinde göreve başlar. Yeni heyet göreve başlarken mal beyanında bulunur. Bu husus kışla komutanlığınca/kurum amirliğince takip edilir. Kışla komutanlığı/kurum amirliği tarafından yeni heyetin tecrübe kazanması için, eski heyet ile birlikte Aralık ayı sonuna kadar bir ayı geçmeyecek şekilde, çalışmaları sağlanır. Ancak, 31 Aralık tarihine kadar muhasebe kayıtlarındaki imza yetkisi eski heyete aittir.
+d) (Değişik:RG-26/12/2014-29217) Kantin heyetinde görev alanlar, gelecek dönemlerde tekrar seçilebilir. Ancak aynı garnizonda olmak üzere en fazla üç dönem görev yapabilirler.

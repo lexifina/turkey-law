@@ -1,0 +1,8 @@
+İKİNCİ BÖLÜM
+Teşkilât ve Görevler
+Kuruluş
+Madde 5- Askerî kantinlerin kuruluş ve işletilmesine ilişkin esaslar aşağıda belirtilmiştir :
+a) (Değişik:RG-26/12/2014-29217) Türk Silahlı Kuvvetleri personelinin dayanıklı tüketim malları hariç zaruri ihtiyaçlarının daha ucuz ve kolaylıkla sağlanmasını temin maksadıyla her kışlada kantin kurulabilir. İhtiyaç halinde bu kantinlerin kışla içinde veya dışında şubeleri açılabilir. Aynı kışla içerisinde birden fazla kantin başkanlığı kurulamaz.
+b) (Değişik:RG-17/5/2025-32903) Kantinler, askerî kantinin kurulacağı kışlada konuşlanmış birlik veya kurumun aynı garnizonda bağlı bulunduğu en üst seviyedeki komutanın/amirin teklifi üzerine Millî Savunma Bakanlığının izni ile kurulur ve kışlada konuşlu karargâh, birlik veya kurum tarafından işletilir. Kantinlerin işletilmesi yetkisinin, aynı kışla içerisinde başka bir komutanlığa bağlı diğer bir birlik veya kuruluşa devri mümkündür. Askerî kantinlerin kuruluşu bir ay içinde silsileler yolu ile bağlı bulunulan kuvvet komutanlığı ve Millî Savunma Bakanlığına bildirilir.
+c) (Değişik:RG-26/12/2014-29217) Askerî kantinler ve şubeleri, kışla içi ve dışında hizmet vermeye uygun, kapalı ve emniyetli yerlerde kurulur. Çeşitli nedenlerle araziye çıkılması halinde, kantin faaliyetleri araç veya çadır içerisinde devam edebilir.
+ç) (Ek:RG-26/12/2014-29217) (Değişik:RG-17/5/2025-32903) Yurt dışında birlik halinde bulunulan kışlalarda kantin açılması halinde, yurt dışında açılan kantinin gelirleri, teşkil, idare, murakabe, işletme ve kontrol şekilleri bu Yönetmelik esaslarına göre yürütülür. Alım usulleri ve gelirlerin harcanması gibi usuller Millî Savunma Bakanlığının belirlediği esaslara göre yürütülür.

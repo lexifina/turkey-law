@@ -1,0 +1,6 @@
+Kiralama işlemleri
+Madde 27 – (Başlığı ile birlikte değişik:RG-26/12/2014-29217)
+(Değişik birinci fıkra:RG-17/5/2025-32903) Askerî kantinlerin tamamı, bir kısmı, bazı şubeleri veya reyonları ilgili kışla komutanının/kurum amirinin onayı ile kiraya verilebilir ya da üçüncü şahıslara işlettirilebilir. Özel bir ihtisas gerektiren hizmetlerin; personel yetersizliği veya maliyeti nedeniyle verilememesi durumunda bu hizmetler, hizmet alınması yoluyla da dışarıdan karşılanabilir. Aralarında kabul edilebilir doğal bir bağlantı olması halinde mal ve hizmet alımları birlikte yapılabilir.
+(Değişik ikinci fıkra:RG-17/5/2025-32903) Kantinlerin kiraya verilmesi işlemleri 8/9/1983 tarihli ve 2886 sayılı Devlet İhale Kanununa uygun olarak, Millî Savunma Bakanlığı tarafından yayımlanacak Orduevleri, Askerî Gazinolar, Kışla Gazinoları ve Vardiya Yatakhaneleri ile Eğitim Merkezlerine ilişkin Yönerge ve/veya Tip Sözleşmede belirtilen hükümler doğrultusunda gerçekleştirilir.
+(Değişik üçüncü fıkra:RG-17/5/2025-32903) Askerî kantinlerin işletilmesi, işlettirilmesi veya kiraya verilmesi kışla komutanlıklarınca/kurum amirliklerince yerine getirilir. Bu şekilde elde edilen gelirler, genel bütçe gelirleri ile ilişkilendirilmeksizin kantin gelirlerine dâhil edilir.
+Kiraya verilen tesis, ünite veya işletmelerin elektrik, su ve yakacak giderleri kiralayan firma tarafından ödenir.

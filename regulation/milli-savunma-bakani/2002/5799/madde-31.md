@@ -1,0 +1,4 @@
+Günlük Hasılatın Toplanması
+Madde 31 – (Değişik:RG-26/12/2014-29217)
+Günlük hasılat, mesai saatleri içerisinde ilgili personelce kantin kapatılmadan önce, mesai sonrası ve tatil günlerde ise kantin heyetinde görevli bir personel tarafından para teslim defteri ile imza karşılığında teslim alınır. Para teslim defteri iki nüsha tutulur. Bir tanesi kasa sorumlusunda, diğeri ise parayı teslim eden sorumluda bulunur. Teslim alınan para her iki deftere de yazılır ve defterler karşılıklı olarak imzalanır.
+İşletmenin bulunduğu yerlerde kantin heyetinden kimsenin olmaması durumunda ise, tatil günlerinin hasılatı, nöbetçi amirinin görevlendireceği bir nöbetçi subayı tarafından teslim alınır. Teslim alınan hasılat, bir tutanakla ertesi gün nöbeti teslim alan nöbetçi subayına teslim edilir. Tatil günlerinde toplanan kantin hasılatı, tatilin bitiminde kantin heyetine tutanakla teslim edilir. Bu durum, nöbet defterine ve ayrıca para teslim defterlerine işlenip, imza edilir.

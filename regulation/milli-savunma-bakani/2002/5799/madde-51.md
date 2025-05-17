@@ -1,0 +1,5 @@
+Hesap teftişi, iç denetim ve tasfiye teftişi (Değişik başlık:RG-26/12/2014-29217)
+Madde 51 – (Değişik:RG-17/5/2025-32903)
+Hesap teftişi, askerî kantinin bir hesap yılı içerisindeki faaliyetlerinin ve bütün gelir gider belgelerinin incelenerek kesin sonuca varılması amacı ile Millî Savunma Bakanlığı Teftiş Kurulu Başkanlığına bağlı müfettişler tarafından 29/9/2021 tarihli ve 31613 sayılı Resmî Gazete’de yayımlanan Millî Savunma Bakanlığı Teftiş Kurulu Başkanlığı Yönetmeliğine göre yapılır.
+İç denetim; kaynakların ekonomiklik, etkililik ve verimlilik esaslarına göre yönetilip yönetilmediğini değerlendirmek ve rehberlik etmek maksadıyla Millî Savunma Bakanlığı İç Denetim Birimi Başkanlığı tarafından, kendi talimatlarına uygun olarak yapılır.
+Tasfiye teftişi; kantin başkanlığının faaliyetine son vermesi, bu amaçla teftişe tabi kantinlerin zimmetindeki taşınır veya taşınmaz ordu malını, sermayelerini ve varlıklarını başka bir kantine veya kantinlere; tamamen devretmesi, zimmet veya sermaye yönünden sıfıra indirilmesi maksadıyla, Millî Savunma Bakanlığı Teftiş Kurulu Başkanlığınca teftiş hizmetlerine ilişkin mevzuat esaslarına göre yapılır.

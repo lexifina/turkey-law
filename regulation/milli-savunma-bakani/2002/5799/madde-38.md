@@ -1,0 +1,7 @@
+Gider Belgeleri
+Madde 38 - Gider belgelerinin; alınan malzemelerin nerede kullanılacağının açıkça belirtecek şekilde hazırlanması ve kışla komutanı (Ek ibare:RG-17/5/2025-32903) /kurum amiri tarafından, "Kantin gelirlerinden ödenmesi uygundur." kaydı ile onaylaması gereklidir. Ayrıca, aylık döküm listeleri de kışla komutanı (Ek ibare:RG-17/5/2025-32903) /kurum amiri tarafından onaylanır. Giderin niteliklerine göre belgeler, aşağıdaki gibi düzenlenir:
+a) (Değişik:RG-26/12/2014-29217) Bir süre kullanılması mümkün olan kalıcı mallarda, ilgili saymanlıktan teslimat karşılığı alınan taşınır mal işlem belgesi faturaya bağlanır.
+b) (Değişik:RG-26/12/2014-29217) Sarf edilen mallarda:
+1) Bakım ve onarım için sarf edilerek yok olan mallara ilişkin faturaların arkasının, kullanıldığı yerler belirtilerek, yetkililerce imzalanması ile sarf işlemi tamamlanmış olur. Ayrıca bir sarf belgesi düzenlemesine gerek yoktur. Ancak, kayıt altına alınmış emakinin, bakım, onarım veya tadilatı amacıyla inşaat malzemesi alınması halinde bunların sarfı idarece yayımlanacak yönergelerle belirlenir.
+2) İnşaat malzemesi de olsa, alınan sarf malzemelerinin sarfiyatı sonucunda yeni bir mal elde edilmiş ise, “Tüketim, Üretim ve Elde Edilenler Belgesi” düzenlenir. Harcama yetkilisinin onayını müteakip, ait olduğu mal saymanlığının kayıtlarına intikal ettirilerek irada alınır.
+c) Taşıma, ambalaj ve kantinle ilgili (Değişik ibare:RG-17/5/2025-32903) işletme giderleri için fatura, tutanak ve benzeri belgeler yeterlidir.

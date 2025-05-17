@@ -1,0 +1,4 @@
+Yedek Üyelere Görev Verilmesi
+Madde 10 - (Değişik:RG-8/10/2009-27370)
+Bu Yönetmeliğin 9 uncu maddesinde belirtilen sebeplerle boşalan üyeliklere, seçim sonu tutanaklarındaki sıraya göre yedek üyeler görevlendirilir. Yedek üyelerin görevlendirilmesinde öncelik, aday olarak belirlendiği görev yerindedir. Bir görev yerinde yedek üye bulunmaması halinde seçime katılan diğer yedek üyelerden biri kışla komutanı (Ek ibare:RG-17/5/2025-32903) /kurum amiri tarafından yazılı emirle görevlendirilir. Kantin heyetinin, üye sayısındaki eksiklik nedeniyle oluşturulamaması halinde, seçim derhal yenilenir.
+İzin, istirahat ve benzeri nedenlerle iki aydan kısa süreli olarak görevden ayrılan asıl üyenin yerine, kasa ve muhasebe görevleri aynı üyede olmamak şartıyla kantin başkanının uygun göreceği üye görevlendirilir. Kantin başkanının ayrılması halinde ise, üyelerden en kıdemlisi ikiz görevli olarak kantin başkanlığı görevini yürütür.

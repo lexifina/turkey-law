@@ -1,0 +1,56 @@
+{
+  "source_id": "7.5.5799",
+  "kind": "regulation",
+  "register_kind": "Kurum ve Kuruluş Yönetmelikleri",
+  "title": "ASKERÎ KANTİN YÖNETMELİĞİ",
+  "number": "5799",
+  "issuer": "Millî Savunma Bakanı",
+  "issuer_slug": "milli-savunma-bakani",
+  "path": "regulation/milli-savunma-bakani/2002/5799",
+  "source": "https://www.mevzuat.gov.tr/anasayfa/MevzuatFihristDetayIframe?MevzuatTur=7&MevzuatNo=5799&MevzuatTertip=5",
+  "source_sha256": "23c4734ca423c08b9571f802f0e438cf2b11f7973865b6e79ab0b7fedac61644",
+  "source_bytes": 155861,
+  "published": "2002-03-22",
+  "gazette": "24703",
+  "in_force": "2025-05-17",
+  "in_force_basis": "latest Resmî Gazete date printed in the source amendment notes/table (\"RG-17/5/2025\") for the current consolidated text",
+  "date_evidence": [
+    [
+      "2025-05-17",
+      "RG-17/5/2025",
+      "Resmî Gazete date printed in the source amendment note"
+    ],
+    [
+      "2014-12-26",
+      "RG-26/12/2014",
+      "Resmî Gazete date printed in the source amendment note"
+    ],
+    [
+      "2009-10-08",
+      "RG-8/10/2009",
+      "Resmî Gazete date printed in the source amendment note"
+    ],
+    [
+      "2006-04-28",
+      "RG-28/04/2006",
+      "Resmî Gazete date printed in the source amendment note"
+    ]
+  ],
+  "commencement_clauses": [
+    "bu Yönetmelik yayımı tarihinde yürürlüğe girer"
+  ],
+  "history": "current-text",
+  "label": "oldest version available",
+  "checked_on": "2026-11-15",
+  "word_count": 8175,
+  "text_status": "current-consolidated",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  },
+  "source_links": [
+    "7.5.5799%20ek.doc"
+  ],
+  "completeness": "html-text-complete; linked annexes not fetched"
+}
