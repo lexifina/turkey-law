@@ -1,0 +1,21 @@
+{
+  "record_type": "parliament-written-question",
+  "term": 28,
+  "legislative_year": 3,
+  "esas_no": "7/28667",
+  "submitted": "2025-05-20",
+  "submitted_as": "Başkanlığa geliş tarihi",
+  "mp": "Meral DANIŞ BEŞTAŞ",
+  "province": "Erzurum",
+  "summary": "6-8 Ekim olayları nedeniyle yapılan yargılama sonucu verilen karara ilişkin",
+  "status": "Cevaplanmadığı Gelen Kağıtlarda İlan Edildi",
+  "status_as_of": "2026-11-16",
+  "official_record": "https://www.tbmm.gov.tr/Denetim/Yazili-Soru-Onergesi-Detay/52ddb0e6-d1f1-46a3-ad36-0196f3d977b7",
+  "source": "https://tbmm.gov.tr/Denetim/YaziliSoruOnergesiTable",
+  "source_form": "https://tbmm.gov.tr/Denetim/Yazili-Soru-Onergeleri",
+  "source_sha256": "0cca2eff0f567aceb9f1e7c5fad8b0984ffa7f2ec4bdab31b0cf97dc0b5f150b",
+  "in_force": "2025-05-20",
+  "in_force_basis": "Date the question reached the Speaker (Başkanlığa geliş tarihi) in the official TBMM written-question record; parliamentary oversight record, not law",
+  "history_type": "metadata",
+  "text_status": "metadata-only: question text, addressee and answers are in the linked official record (PDFs on cdn.tbmm.gov.tr); not transcribed here"
+}
