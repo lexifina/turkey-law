@@ -1,0 +1,2 @@
+Karar ve işlemler
+MADDE 8- (1) Yapılan inceleme sonucunda, bir NGGS açılabilmesi için yeterli bilgi, belge ve delillerin bulunduğu anlaşıldığından, İthalatta Haksız Rekabeti Değerlendirme Kurulu Kararı ile ÇHC, Endonezya, Hindistan, Malezya, Pakistan, Tayland ve Vietnam menşeli, 55.08, 55.09 (5509.52, 5509.61, 5509.91 GTP’leri hariç), 55.10 (5510.20 GTP hariç) ve 55.11 GTP’leri altında kayıtlı önlem konusu ürüne yönelik olarak Yönetmeliğin 35 inci maddesi çerçevesinde bir NGGS açılmasına karar verilmiştir.
