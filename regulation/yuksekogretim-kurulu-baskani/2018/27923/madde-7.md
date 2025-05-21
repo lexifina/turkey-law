@@ -1,0 +1,3 @@
+Birim birleştirme, kapatma ve yeniden yapılandırma hali
+MADDE 7 – (1) Birim birleştirme, kapatma ve yeniden yapılandırma halinde ilgili birimde görev yapan öğretim elemanlarının kadroları yükseköğretim kurumu yönetim kurulunun kararı ve rektörün teklifi üzerine Yükseköğretim Kurulunca uygun görülen birimlere tahsis edilir; bu birimlerdeki boş ve saklı kadrolar ise doğrudan rektörlüğe aktarılır.
+(2) Araştırma Üniversitesi veya Bölgesel Kalkınma Odaklı Misyon Farklılaşması kapsamında belirlenen bir yükseköğretim kurumunun Yükseköğretim Kurulu kararıyla bu vasfını kaybetmesi halinde, mevcut öğretim elemanları bulundukları kadrolarda görev yapmaya devam eder.

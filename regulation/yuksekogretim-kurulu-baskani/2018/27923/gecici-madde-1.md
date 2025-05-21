@@ -1,0 +1,3 @@
+Geçiş hükümleri
+GEÇİCİ MADDE 1 – (1) Bu Yönetmeliğin yürürlüğe girdiği tarihte bir bölüm, anabilim/anasanat dalı veya meslek yüksekokulu programındaki norm kadro fazlası öğretim elemanları bulundukları kadrolarda görev yapmaya devam eder. Boş ve saklı öğretim elemanı kadroları ise rektörlüğe aktarılır.
+(2) Bu Yönetmeliğin yürürlüğe girdiği tarihten önce ilan edilen öğretim elemanı kadrolarına atama işlemleri bu Yönetmelik hükümleri dikkate alınmadan yürürlükteki mevzuat hükümleri uyarınca sonuçlandırılır. Bu kadrolara atananlar norm kadro fazlası oluşturması durumunda dahi bulundukları kadrolarda görev yapmaya devam ederler.
