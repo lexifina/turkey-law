@@ -1,0 +1,96 @@
+{
+  "source_id": "7.5.31033",
+  "kind": "regulation",
+  "register_kind": "Kurum ve Kuruluş Yönetmelikleri",
+  "title": "ÖZEL TİYATROLARIN PROJELERİNE YAPILACAK YARDIMLARA İLİŞKİN YÖNETMELİK",
+  "number": "31033",
+  "issuer": "Kültür ve Turizm Bakanı",
+  "issuer_slug": "kultur-ve-turizm-bakani",
+  "path": "regulation/kultur-ve-turizm-bakani/2018/31033",
+  "source": "https://www.mevzuat.gov.tr/anasayfa/MevzuatFihristDetayIframe?MevzuatTur=7&MevzuatNo=31033&MevzuatTertip=5",
+  "source_sha256": "e497337d36c9f0e0daab53b3b91d853423df1b972e2436179cef71ce43532d70",
+  "source_bytes": 52569,
+  "published": "2018-12-08",
+  "gazette": "30619",
+  "in_force": "2025-05-22",
+  "in_force_basis": "latest Resmî Gazete date printed in the source amendment notes/table (\"RG-22/5/2025\") for the current consolidated text",
+  "date_evidence": [
+    [
+      "2025-05-22",
+      "RG-22/5/2025",
+      "Resmî Gazete date printed in the source amendment note"
+    ],
+    [
+      "2025-05-22",
+      "22/5/2025",
+      "Resmî Gazete date in the source amendment table"
+    ],
+    [
+      "2025-05-13",
+      "RG-13/5/2025",
+      "Resmî Gazete date printed in the source amendment note"
+    ],
+    [
+      "2025-05-13",
+      "13/5/2025",
+      "Resmî Gazete date in the source amendment table"
+    ],
+    [
+      "2023-07-18",
+      "RG-18/7/2023",
+      "Resmî Gazete date printed in the source amendment note"
+    ],
+    [
+      "2023-07-18",
+      "18/7/2023",
+      "Resmî Gazete date in the source amendment table"
+    ],
+    [
+      "2021-04-29",
+      "RG-29/4/2021",
+      "Resmî Gazete date printed in the source amendment note"
+    ],
+    [
+      "2021-04-29",
+      "29/4/2021",
+      "Resmî Gazete date in the source amendment table"
+    ],
+    [
+      "2021-04-07",
+      "RG-7/4/2021",
+      "Resmî Gazete date printed in the source amendment note"
+    ],
+    [
+      "2021-04-07",
+      "7/4/2021",
+      "Resmî Gazete date in the source amendment table"
+    ],
+    [
+      "2020-05-05",
+      "RG-5/5/2020",
+      "Resmî Gazete date printed in the source amendment note"
+    ],
+    [
+      "2020-05-05",
+      "5/5/2020",
+      "Resmî Gazete date in the source amendment table"
+    ]
+  ],
+  "commencement_clauses": [
+    "Bu Yönetmelik yayımı tarihinde yürürlüğe girer"
+  ],
+  "history": "current-text",
+  "label": "oldest version available",
+  "checked_on": "2026-11-15",
+  "word_count": 2422,
+  "text_status": "current-consolidated",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  },
+  "source_links": [
+    "7.5.31033-Ek.docx"
+  ],
+  "completeness": "html-text-complete; linked annexes not fetched"
+}

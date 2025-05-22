@@ -1,0 +1,4 @@
+Protokol, Yardımın Gönderilme Şekli
+Yapılabilecek yardım miktarı ve teminat
+MADDE 9 – (1) Bakanlıkça özel tiyatroların projelerine, başvuruda sunacakları toplam tahmini maliyetin (Değişik ibare:RG-5/5/2020-31118) %70’ine kadar yardım yapılabilir. Yardım tutarları profesyonel tiyatrolar için yıllık (Değişik ibare:RG-5/5/2020-31118) 150.000 TL, (Mülga ibare:RG-5/5/2020-31118) (…) ve geleneksel tiyatrolar için yıllık (Değişik ibare:RG-5/5/2020-31118) 30.000 TL’yi geçemez. Söz konusu yardım tutarları, her yıl Ocak ayında bir önceki yılın yıllık Tüketici Fiyat Endeksinde meydana gelen artış oranında güncellenir.
+(2) Başvuru sahibinin bu desteği alabilmesi için 21/7/1953 tarihli ve 6183 sayılı Amme Alacaklarının Tahsil Usulü Hakkında Kanunun 10 uncu maddesinde sayılan değerlerden herhangi birini teminat olarak göstermesi ve/veya muteber bir şahsı müteselsil kefil olarak göstermesi gereklidir.
