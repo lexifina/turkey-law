@@ -1,0 +1,17 @@
+{
+  "kind": "decision",
+  "issuer": "Sayıştay 8. Dairesi",
+  "number": "347",
+  "decision_date": "2025-05-22",
+  "source_id": 39679,
+  "chamber": "8",
+  "ilam_number": "91",
+  "item_number": 1,
+  "public_body_type": "Yüksek Öğretim Kurumları",
+  "account_year": 2022,
+  "subject": "İhale Mevzuatı ile İlgili Kararlar",
+  "source": "https://www.sayistay.gov.tr/KararlarDaire/Detay/39679/",
+  "source_sha256": "c8e4bb73784c11ebdf1c89e9810fd3260e6b76dbef983ba24c9f80913f8777e2",
+  "text_status": "as-enacted",
+  "text_file": "metin.md"
+}
