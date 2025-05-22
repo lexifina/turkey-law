@@ -1,0 +1,86 @@
+{
+  "source_id": "7.5.14838",
+  "kind": "regulation",
+  "register_kind": "Kurum ve Kuruluş Yönetmelikleri",
+  "title": "İHRACATA YÖNELİK DEVLET YARDIMLARI KAPSAMINDA DESTEKLEME VE FİYAT İSTİKRAR FONUNDAN YAPILAN ÖDEMELERE İLİŞKİN USUL VE ESASLAR HAKKINDA YÖNETMELİK",
+  "number": "14838",
+  "issuer": "Ticaret Bakanı",
+  "issuer_slug": "ticaret-bakani",
+  "path": "regulation/ticaret-bakani/2011/14838",
+  "source": "https://www.mevzuat.gov.tr/anasayfa/MevzuatFihristDetayIframe?MevzuatTur=7&MevzuatNo=14838&MevzuatTertip=5",
+  "source_sha256": "583b85648f1e037eb96779935a5766570dc0c6e4f8a3b263fcdc35ae1db7c2bf",
+  "source_bytes": 43772,
+  "published": "2011-03-19",
+  "gazette": "27879",
+  "in_force": "2025-05-22",
+  "in_force_basis": "latest Resmî Gazete date printed in the source amendment notes/table (\"RG-22/5/2025\") for the current consolidated text",
+  "date_evidence": [
+    [
+      "2025-05-22",
+      "RG-22/5/2025",
+      "Resmî Gazete date printed in the source amendment note"
+    ],
+    [
+      "2025-05-22",
+      "22/5/2025",
+      "Resmî Gazete date in the source amendment table"
+    ],
+    [
+      "2020-09-23",
+      "RG-23/9/2020",
+      "Resmî Gazete date printed in the source amendment note"
+    ],
+    [
+      "2020-09-23",
+      "23/9/2020",
+      "Resmî Gazete date in the source amendment table"
+    ],
+    [
+      "2020-09-02",
+      "RG-2/9/2020",
+      "Resmî Gazete date printed in the source amendment note"
+    ],
+    [
+      "2020-09-02",
+      "2/9/2020",
+      "Resmî Gazete date in the source amendment table"
+    ],
+    [
+      "2017-11-26",
+      "26/11/2017",
+      "Resmî Gazete date in the source amendment table"
+    ],
+    [
+      "2017-07-07",
+      "7/7/2017",
+      "Resmî Gazete date in the source amendment table"
+    ],
+    [
+      "2011-12-06",
+      "RG-6/12/2011",
+      "Resmî Gazete date printed in the source amendment note"
+    ],
+    [
+      "2011-12-06",
+      "6/12/2011",
+      "Resmî Gazete date in the source amendment table"
+    ]
+  ],
+  "commencement_clauses": [
+    "Bu Yönetmelik 25/2/2011 tarihinden itibaren geçerli olmak üzere yayımı tarihinde yürürlüğe girer"
+  ],
+  "history": "current-text",
+  "label": "oldest version available",
+  "checked_on": "2026-11-15",
+  "word_count": 1859,
+  "text_status": "current-consolidated",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  },
+  "source_links": [
+    "7.5.14838-Ek.xls"
+  ],
+  "completeness": "html-text-complete; linked annexes not fetched"
+}
