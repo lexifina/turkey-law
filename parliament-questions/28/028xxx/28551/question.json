@@ -1,0 +1,21 @@
+{
+  "record_type": "parliament-written-question",
+  "term": 28,
+  "legislative_year": 3,
+  "esas_no": "7/28551",
+  "submitted": "2025-05-22",
+  "submitted_as": "Başkanlığa geliş tarihi",
+  "mp": "Müzeyyen ŞEVKİN",
+  "province": "Adana",
+  "summary": "Son 20 yılda Adana'nın Seyhan ilçesinde açılan ve kapanan fabrikalara ilişkin",
+  "status": "Cevaplanmadığı Gelen Kağıtlarda İlan Edildi",
+  "status_as_of": "2026-11-16",
+  "official_record": "https://www.tbmm.gov.tr/Denetim/Yazili-Soru-Onergesi-Detay/48e9e3fe-1994-4c0e-9864-0196f7ece3ba",
+  "source": "https://tbmm.gov.tr/Denetim/YaziliSoruOnergesiTable",
+  "source_form": "https://tbmm.gov.tr/Denetim/Yazili-Soru-Onergeleri",
+  "source_sha256": "aac4a9f0fcbaa6866c4a45df8cb46694bc025e6a82b2bb4f40e7644ba9f77eb9",
+  "in_force": "2025-05-22",
+  "in_force_basis": "Date the question reached the Speaker (Başkanlığa geliş tarihi) in the official TBMM written-question record; parliamentary oversight record, not law",
+  "history_type": "metadata",
+  "text_status": "metadata-only: question text, addressee and answers are in the linked official record (PDFs on cdn.tbmm.gov.tr); not transcribed here"
+}
