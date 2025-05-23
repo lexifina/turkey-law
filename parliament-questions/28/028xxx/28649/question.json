@@ -1,0 +1,21 @@
+{
+  "record_type": "parliament-written-question",
+  "term": 28,
+  "legislative_year": 3,
+  "esas_no": "7/28649",
+  "submitted": "2025-05-23",
+  "submitted_as": "Başkanlığa geliş tarihi",
+  "mp": "Yılmaz HUN",
+  "province": "Iğdır",
+  "summary": "Iğdırlı hayvan üreticilerinin başka illerde bulunan mera alanlarını kullanmalarının yasaklanmasına ilişkin",
+  "status": "Süresi Geçtikten Sonra Cevaplandı",
+  "status_as_of": "2026-11-16",
+  "official_record": "https://www.tbmm.gov.tr/Denetim/Yazili-Soru-Onergesi-Detay/0d1820e8-5bca-4b14-90bd-01970cc68365",
+  "source": "https://tbmm.gov.tr/Denetim/YaziliSoruOnergesiTable",
+  "source_form": "https://tbmm.gov.tr/Denetim/Yazili-Soru-Onergeleri",
+  "source_sha256": "0cca2eff0f567aceb9f1e7c5fad8b0984ffa7f2ec4bdab31b0cf97dc0b5f150b",
+  "in_force": "2025-05-23",
+  "in_force_basis": "Date the question reached the Speaker (Başkanlığa geliş tarihi) in the official TBMM written-question record; parliamentary oversight record, not law",
+  "history_type": "metadata",
+  "text_status": "metadata-only: question text, addressee and answers are in the linked official record (PDFs on cdn.tbmm.gov.tr); not transcribed here"
+}
