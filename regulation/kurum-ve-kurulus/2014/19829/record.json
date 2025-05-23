@@ -1,0 +1,62 @@
+{
+  "source_id": "7.5.19829",
+  "kind": "regulation",
+  "register_kind": "Kurum ve Kuruluş Yönetmelikleri",
+  "title": "MAKARON ÜRETİMİ VE TİCARETİNE İLİŞKİN USUL VE ESASLAR HAKKINDA YÖNETMELİK",
+  "number": "19829",
+  "issuer_slug": "kurum-ve-kurulus",
+  "path": "regulation/kurum-ve-kurulus/2014/19829",
+  "source": "https://www.mevzuat.gov.tr/anasayfa/MevzuatFihristDetayIframe?MevzuatTur=7&MevzuatNo=19829&MevzuatTertip=5",
+  "source_sha256": "93dcc9104dc23de94890655e5633c58d9ff5f3981697c1703ac614e10d334457",
+  "source_bytes": 135298,
+  "published": "2014-06-28",
+  "gazette": "29044",
+  "in_force": "2025-05-23",
+  "in_force_basis": "latest Resmî Gazete date printed in the source amendment notes/table (\"RG-23/5/2025\") for the current consolidated text",
+  "date_evidence": [
+    [
+      "2025-05-23",
+      "RG-23/5/2025",
+      "Resmî Gazete date printed in the source amendment note"
+    ],
+    [
+      "2025-05-23",
+      "23/5/2025",
+      "Resmî Gazete date in the source amendment table"
+    ],
+    [
+      "2023-11-03",
+      "RG-3/11/2023",
+      "Resmî Gazete date printed in the source amendment note"
+    ],
+    [
+      "2023-11-03",
+      "3/11/2023",
+      "Resmî Gazete date in the source amendment table"
+    ],
+    [
+      "2014-10-02",
+      "RG-2/10/2014",
+      "Resmî Gazete date printed in the source amendment note"
+    ],
+    [
+      "2014-10-02",
+      "2/10/2014",
+      "Resmî Gazete date in the source amendment table"
+    ]
+  ],
+  "commencement_clauses": [
+    "Bu Yönetmelik, yayımlandığı tarihten itibaren doksan gün sonra yürürlüğe girer"
+  ],
+  "history": "current-text",
+  "label": "oldest version available",
+  "checked_on": "2026-11-15",
+  "word_count": 9238,
+  "text_status": "current-consolidated",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  },
+  "completeness": "html-text-complete"
+}

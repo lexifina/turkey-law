@@ -1,0 +1,14 @@
+Başvuru, uygunluk belgesi ve satış hizmet bedelleri ile teminat belirlenmesi(1)(7)
+MADDE 23 – (Değişik:RG-23/5/2025-32908)
+(1) 6 ncı madde kapsamında yapılan makaron üretim tesisi kurma izni başvuruları için yüzellibin Türk Lirası başvuru bedeli alınır. Bu bedel ikinci fıkra kapsamında tahsil edilecek Tesis Kurma Uygunluk Belgesi için hesaplanacak bedelden mahsup edilir.
+(2) 6 ncı madde kapsamında verilecek olan Tesis Kurma Uygunluk Belgesi bedeli olarak, her yüz milyon adet makaron üretim kapasitesi başına yüzaltmışsekizbinüçyüzotuzbir Türk Lirası alınır.
+(3) 7 nci madde kapsamında verilecek olan Üretim ve Faaliyet Uygunluk Belgesi bedeli olarak, Tesis Kurma Uygunluk Belgesi bedelinin iki katı alınır.
+(4) 9 uncu madde kapsamında verilecek olan Proje Tadilatı Uygunluk Belgesi bedeli olarak, her yüz milyon adetlik makaron üretim kapasitesi artışına neden olan proje değişiklikleri için yüzaltmışsekizbinüçyüzotuzbir Türk Lirası alınır.
+(5) 12 nci madde kapsamında verilecek olan Piyasaya Arz Uygunluk Belgesi bedeli olarak, otuzbirbinbeşyüzyetmişbir Türk Lirası alınır.
+(6) 15 inci madde kapsamında verilecek olan Makaron İthalatı Uygunluk Belgesi bedeli olarak otuzbirbinbeşyüzyetmişbir Türk Lirası alınır.
+(7) İkinci ve dördüncü fıkralarda belirtilen yüz milyon adet makaron üretim kapasitesinden küçük miktarlar için bedel hesaplaması kıstelyevm esasına göre yapılır.
+(8) 16 ncı madde uyarınca temin edilerek üretilen makaron birim paketleri üzerinde yer alan bandrollerin her bin adedi için yüzellisekiz Türk lirası satış hizmet bedeli alınır.
+(9) 6 ncı, 7 nci, 8 inci, 9 uncu ve 18 inci maddeler kapsamında alınacak teminatın miktarı ile usul ve esasları 30/4/2024 tarihli ve 32532 sayılı Resmî Gazete’de yayımlanan Tütün, Tütün Mamulleri, Makaron, Yaprak Sigara Kâğıdı, Sigara Filtresi, Alkol ve Alkollü İçkilerin Üretim ve/veya Ticareti Faaliyetinde Bulunanlardan Teminat Alınmasına İlişkin Usul ve Esaslar Hakkında Yönetmelik ile belirlenir.
+(10) Birinci fıkrada belirtilen başvuru bedeli, ikinci, dördüncü, beşinci ve altıncı fıkralarda belirtilen uygunluk belgesi başına alınacak bedeller ile sekizinci fıkrada belirtilen satış hizmet bedeli, her yıl bir önceki yıla ilişkin olarak 213 sayılı Kanunun mükerrer 298 inci maddesinin (B) fıkrası uyarınca tespit ve ilan edilen yeniden değerleme oranını geçmemek üzere, Bakanlık kararıyla artırılmak suretiyle yeniden belirlenir.
+(11) Birinci, ikinci, dördüncü, beşinci, altıncı ve sekizinci fıkralarda belirtilen bedellerin yeniden değerleme oranını geçmemek üzere arttırılması, bu bedellerin Bakanlığın Kanundan kaynaklanan yeniden tespiti yetkisini ortadan kaldırmaz.
+(12) Uygunluk Belgesi başına alınacak bedellerin belirlenmesinde esas alınan kapasite; makaron imalat makinelerinin, bir saatlik toplam teorik üretim kapasitesinin mer’i mevzuata göre belirlenen haftalık çalışma saatiyle çarpımı sonucu bulunacak rakamın bir yıla tamamlanması ile hesaplanır.

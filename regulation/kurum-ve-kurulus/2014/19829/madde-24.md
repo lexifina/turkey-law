@@ -1,0 +1,5 @@
+Makaron imhası ile geri kazanım işlemleri
+MADDE 24- (Başlığı ile Birlikte Değişik:RG-3/11/2023-32358)
+(1) Firmalarca ticarete konu edilemeyeceği beyan edilen makaron, (Değişik ibare:RG-23/5/2025-32908) filtre çubuğu ve hammaddelerin imhası ile geri kazanım işlemleri, Bakanlık izni ve gerektiğinde nezaretinde veya Bakanlığın tespiti sonrasında 9/8/1983 tarihli ve 2872 sayılı Çevre Kanunu ve diğer ilgili mevzuatına göre yapılır.
+(2) Birinci fıkra uyarınca Bakanlıktan izin alınmasını müteakiben imha edilecek makaron, (Değişik ibare:RG-23/5/2025-32908) filtre çubuğu ve hammaddeler ile bunların atıkları, üretim tesisinde parçalanması, kıyılması ve/veya kullanılamayacak hale getirilmesi sonrasında imha mahalline sevk edilir.
+(3) Makine çalışma testleri, ürün denemeleri veya deneme üretimi kapsamında üretilen makaronların üretimden itibaren en geç beş iş günü içinde üretim tesisinde parçalanması, kıyılması ve/veya kullanılamayacak hale getirilmesi suretiyle imhası gerçekleştirilerek Bakanlığa bildirimi zorunludur.

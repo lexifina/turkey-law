@@ -1,0 +1,31 @@
+Tanımlar
+MADDE 4 – (Değişik:RG-3/11/2023-32358)
+(1) Bu Yönetmelikte geçen;
+a) Bakanlık: Tarım ve Orman Bakanlığını,
+b) (Değişik:RG-23/5/2025-32908) Birim paket: Ek şeffaf ambalaj hariç olmak üzere, makaronun piyasaya arzında kullanılan ve herhangi bir malzemeden yapılmış en küçük ambalajı,
+c) Deneme üretimi: Tesisin, projeye ve üretilmesi planlanan makaronun üretimine uygunluğunun belirlenmesi amacıyla Üretim ve Faaliyet Uygunluk Belgesi verilmesi öncesinde Bakanlık tarafından görevlendirilen teknik heyet gözetiminde yapılan üretimi,
+ç) Ek şeffaf ambalaj: (Değişik ibare:RG-23/5/2025-32908) Piyasaya arz edilen makaronların birim paketinin üzerinde yer alan, tüm etiketleme bilgilerinin görünürlüğünü ve okunurluğunu engellemeyen şeffaf dış ambalajı,
+d) Fire: Makaronun üretim faaliyetleri esnasında makinenin üretime hazırlanması sürecinde meydana gelen ya da yapışma, ütüleme ve ezilme hataları nedeniyle oluşan atıkları,
+e) Firma: Makaron üretimiyle ilgili olarak Tesis Kurma Uygunluk Belgesi ile Üretim ve Faaliyet Uygunluk Belgesi alan gerçek ve tüzel kişileri,
+f) Girdi: Makaron üretiminde kullanılan kağıt, filtre, mürekkep ve yapıştırıcılar dahil her tür madde veya ögeyi,
+g) Hammadde: (Değişik ibare:RG-23/5/2025-32908) Makaron ve filtre çubuğu üretiminde kullanılan sigara kağıdı, filtre kağıdı, uç kağıdı ve selüloz asetatı (tow),
+ğ) Kanun: 3/1/2002 tarihli ve 4733 sayılı Tütün, Tütün Mamulleri ve Alkol Piyasasının Düzenlenmesine Dair Kanunu,
+h) Kodlama bilgisi: Piyasaya arz ambalajı üzerindeki asgari gün, ay ve yıl olarak üretim zamanını, üretim yerini, üretime ait hat/makine ve vardiya numarasını belirten işaretleme bilgisini,
+ı) Makaron: Sarmalık kıyılmış tütün mamulü tüketiminde kullanılan içi boş sigara tüpünü,
+i) Makine: Ana gövde, sabit ve hareketli mekanik parçalar ile pnömatik, hidrolik, elektrik, elektronik ve kumanda gibi elemanlardan oluşan her bir düzenekler bütününü,
+j) Makine çalışma testi: Tesis Kurma Uygunluk Belgesi alınmasından sonra Üretim ve Faaliyet Uygunluk Belgesi alınması aşamasına kadar geçen süre içinde ya da Üretim ve Faaliyet Uygunluk Belgesi alınması sonrasında, Bakanlıktan alınan izin kapsamında tesise kurulumu tamamlanan makinelerin boşta veya hammadde, filtre çubuğu ve/veya ambalaj malzemesi yüklenmek suretiyle yükte çalıştırılarak istenilen kapasite ve verimde makinelerin çalışabilirliğinin belirlenmesi amacıyla makaron üreticisi ile makine üreticisi şirket teknik personeli tarafından yapılan çalışma testini,
+k) Malzeme: Makaron üretiminde kullanılan hammadde dışındaki diğer maddeleri,
+l) Mamulat çeşidi: Aynı veya farklı marka altında üretilen makaronun fiziksel özellikleri ve girdileri ile birim paket tipi ya da tasarımı yönünden farklılık arz eden her bir çeşidini,
+m) Marka: Firmanın üretimini ve/veya ticaretini yaptığı mamulleri, diğer mamullerden ayırt etmeye yarayan ve ilgili kuruluşlarca tescil edilen işareti,
+n) Teminat: 21/7/1953 tarihli ve 6183 sayılı Amme Alacaklarının Tahsil Usulü Hakkında Kanunun 10 uncu maddesinin birinci fıkrasının (1), (2) ve (3) numaralı bentlerinde sayılanları,
+o) Uzman: Tarım ve Orman Uzmanını,
+ö) Ürün denemesi: Tesis Kurma Uygunluk Belgesi alınmasından sonra Üretim ve Faaliyet Uygunluk Belgesi alınması aşamasına kadar geçen süre içinde ya da Üretim ve Faaliyet Uygunluk Belgesi alınması sonrasında üretilmesi planlanan makaronun hedeflenen ürün tasarımına uygun olarak üretilebilmesi amacıyla (Mülga ibare:RG-23/5/2025-32908) yapılan deneme amaçlı ürün üretimini,
+p) Yardımcı teknik ünite: Üretim hattında kullanılanlar hariç, tesisin elektrik, su, basınçlı hava, vakum, buhar, ısıtma, soğutma, havalandırma, kalite kontrol, yük taşıma, yangın algılama ve söndürme ile yıldırımdan korunma sistemleri ihtiyacı için kullanılan teknik üniteleri,
+r) (Mülga:RG-23/5/2025-32908)
+s) (Ek:RG-23/5/2025-32908) Filtre: Değişik yoğunluk, çap, uzunluk ve tipte üretilebilen ve dumanda yer alan nikotin ile diğer bileşenlerin bir kısmını tutan, makaronun içilen uç kısmında bulunan bölümü,
+ş) (Ek:RG-23/5/2025-32908) Filtre çubuğu: Sigara, makaron ve sigara filtresi üretiminde kullanmak amacıyla filtre çubuğu imalat makinelerinde, belli uzunluklarda üretilen çubuk haldeki filtreyi,
+t) (Ek:RG-23/5/2025-32908) Kamera izleme sistemi: Tesis sahasındaki üretim, hammadde, malzeme ve mamul hareketlerini kesintisiz izleyecek ve kayıt dışı makaron üretimine yönelik somut bulguların varlığı durumunda kayıtların Darphane ve Damga Matbaası Genel Müdürlüğü ile paylaşılmasını mümkün kılacak altyapıya sahip, masrafları ve maliyetleri tesis kuracak gerçek ve tüzel kişilerce karşılanmak üzere kurulan kamera ve kayıt sistemini,
+u) (Ek:RG-23/5/2025-32908) Koli: Birden fazla birim paketin konulduğu kutuyu,
+ü) (Ek:RG-23/5/2025-32908) Piyasaya arz: Makaronun tedarik veya kullanım amacıyla piyasada yer alması için yapılan ilk faaliyeti,
+v) (Ek:RG-23/5/2025-32908) Piyasaya arz ambalajı: Makaronun piyasaya arzında kullanılan birim paket, koli ve koli etiketinden oluşan ambalajlar bütününü,
+ifade eder.

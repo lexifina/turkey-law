@@ -1,0 +1,6 @@
+Piyasaya arz izni güncellemesi
+MADDE 13- (Değişik:RG-3/11/2023-32358)(6)
+(1) Firmalar, Bakanlık tarafından verilmiş Piyasaya Arz Uygunluk Belgesi bulunan bir mamulat çeşidinin fiziksel özellikleri, girdileri veya (Değişik ibare:RG-23/5/2025-32908) birim paket ambalajında herhangi bir değişiklik yapmak istediklerinde piyasaya arzdan önce Bakanlıktan güncelleme kapsamında gerekli izni almak zorundadırlar. Kodlama bilgisindeki (Ek ibare:RG-23/5/2025-32908) , koli ve koli etiketindeki değişiklikler işlem öncesi Bakanlığa bildirilir.
+(2) Firmalarca (Mülga ibare:RG-23/5/2025-32908) kullanılan ayırt edici ibarenin değiştirilmesine yönelik güncelleme kapsamında başvuruda bulunulamaz.
+(3) Piyasaya Arz Uygunluk Belgesi güncelleme başvurusunda, 12 nci maddenin ikinci fıkrasının (e) ve (f) bentlerinde sayılan belgeler ile birlikte değişikliğe konu olan belgeler Bakanlığa ibraz edilir. Güncelleme başvurusunun değerlendirilmesinde (Ek ibare:RG-23/5/2025-32908) ve sonuçlandırılmasında 12 nci madde uygulanır. (Ek cümle:RG-23/5/2025-32908) Başvurudan vazgeçilmesi ya da firmanın başvuru kapsamındaki yükümlülüklerini yerine getirmemesi halinde belge bedeli iade edilmez.
+(4) (Mülga:RG-23/5/2025-32908)
