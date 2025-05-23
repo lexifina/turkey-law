@@ -1,0 +1,7 @@
+Karar
+MADDE 3 – (1) İthalatta Korunma Önlemlerini Değerlendirme Kurulu soruşturma sürecinde varılan tespitler ışığında 2915.31.00.00.00 gümrük tarife istatistik pozisyonunda (GTİP) yer alan eşyanın ithalatında 3 yıl süreyle ek mali yükümlülük şeklinde korunma önlemi uygulanmasına, korunma önleminden muafiyet sağlamak üzere tüm ülkelere tarife kontenjanı açılmasına, korunma önlemi kapsamındaki ek mali yükümlülük ile tarife kontenjanı miktarının aşağıdaki tabloda gösterildiği şekilde belirlenmesine, ayrıca Dünya Ticaret Örgütü Korunma Önlemleri Anlaşmasının (Anlaşma) 9.1 maddesi gereğince gelişmekte olan ülkelere muafiyet tanınmasına, Anlaşmanın 12.3 maddesi gereğince önlem konusu eşyanın ihracatçıları olarak önemli bir menfaati olan DTÖ üyeleri ile talep olması halinde, istişarelerde bulunulmasına ve önlemin istihsali hususunda Cumhurbaşkanlığına öneride bulunulmasına toplantıya katılan üyelerin oy birliğiyle karar vermiştir.
+GTİP | Eşyanın Tanımı | Korunma Önlemi | 1. Dönem* | 2. Dönem* | 3. Dönem*
+2915.31.00.00.00 | Etil Asetat | Ek Mali Yükümlülük | 110 ABD Doları /Ton | 104 ABD Doları /Ton | 99 ABD Doları /Ton
+Tarife Kontenjanı | 10.000 ton | 10.000 ton | 10.000 ton
+*Korunma önleminin uygulanacağı her bir dönem, Etil Asetat İthalatında Korunma Önlemi Uygulanmasına İlişkin Karar’ın yürürlüğe giriş tarihinden itibaren başlamak üzere birbirini takip eden birer yıllık süreleri ifade eder.
+(2) Birinci fıkrada belirtilen önlem, ilgili Cumhurbaşkanı Kararının yürürlüğe girmesiyle uygulanmaya başlar.
