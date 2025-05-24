@@ -1,0 +1,4 @@
+Bilgilerin saklanması ve ispat yükümlülüğü
+MADDE 20 − (1) Satıcı veya sağlayıcı, bu Yönetmelik kapsamında düzenlenen cayma hakkı, bilgilendirme, teslimat ve diğer hususlardaki yükümlülüklerine dair her bir işleme ilişkin bilgi ve belgeyi üç yıl boyunca saklamak zorundadır.
+(2) (Değişik cümle:RG-23/8/2022-31932)(1) Aracı hizmet sağlayıcı, bu Yönetmelikte yer alan hususlardan dolayı satıcı veya sağlayıcı ile yapılan işlemlere ilişkin kayıtları üç yıl boyunca tutmak ve istenilmesi halinde bu bilgileri ilgili kurum, kuruluş ve tüketicilere vermekle yükümlüdür. (Ek cümle:RG-9/2/2019-30681) Ancak abonelik sözleşmesinin kamu hizmetlerinin tek noktadan sunulduğu ortak kamu elektronik platformu üzerinden kurulması halinde, kayıtların tutulması ve bilgilerin sunulmasına ilişkin yükümlülük satıcı veya sağlayıcıya aittir.
+(3) Satıcı veya sağlayıcı elektronik ortamda tüketiciye teslim edilen gayrimaddi malların veya ifa edilen hizmetlerin ayıpsız olduğunu ispatla yükümlüdür.

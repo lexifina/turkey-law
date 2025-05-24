@@ -1,0 +1,82 @@
+{
+  "source_id": "7.5.20237",
+  "kind": "regulation",
+  "register_kind": "Kurum ve Kuruluş Yönetmelikleri",
+  "title": "MESAFELİ SÖZLEŞMELER YÖNETMELİĞİ",
+  "number": "20237",
+  "issuer_slug": "kurum-ve-kurulus",
+  "path": "regulation/kurum-ve-kurulus/2014/20237",
+  "source": "https://www.mevzuat.gov.tr/anasayfa/MevzuatFihristDetayIframe?MevzuatTur=7&MevzuatNo=20237&MevzuatTertip=5",
+  "source_sha256": "7304421c442933856300b86b3c16ca27812003b33930f4b40256d1e62e0c05a5",
+  "source_bytes": 63804,
+  "published": "2014-11-27",
+  "gazette": "29188",
+  "in_force": "2025-05-24",
+  "in_force_basis": "latest Resmî Gazete date printed in the source amendment notes/table (\"RG-24/5/2025\") for the current consolidated text",
+  "date_evidence": [
+    [
+      "2025-05-24",
+      "RG-24/5/2025",
+      "Resmî Gazete date printed in the source amendment note"
+    ],
+    [
+      "2025-05-24",
+      "24/5/2025",
+      "Resmî Gazete date in the source amendment table"
+    ],
+    [
+      "2024-08-10",
+      "RG-10/8/2024",
+      "Resmî Gazete date printed in the source amendment note"
+    ],
+    [
+      "2024-08-10",
+      "10/8/2024",
+      "Resmî Gazete date in the source amendment table"
+    ],
+    [
+      "2023-11-04",
+      "RG-4/11/2023",
+      "Resmî Gazete date printed in the source amendment note"
+    ],
+    [
+      "2023-11-04",
+      "4/11/2023",
+      "Resmî Gazete date in the source amendment table"
+    ],
+    [
+      "2022-08-23",
+      "RG-23/8/2022",
+      "Resmî Gazete date printed in the source amendment note"
+    ],
+    [
+      "2022-08-23",
+      "23/8/2022",
+      "Resmî Gazete date in the source amendment table"
+    ],
+    [
+      "2019-02-09",
+      "RG-9/2/2019",
+      "Resmî Gazete date printed in the source amendment note"
+    ],
+    [
+      "2019-02-09",
+      "9/2/2019",
+      "Resmî Gazete date in the source amendment table"
+    ]
+  ],
+  "commencement_clauses": [
+    "Bu Yönetmelik yayımı tarihinden itibaren üç ay sonra yürürlüğe girer"
+  ],
+  "history": "current-text",
+  "label": "oldest version available",
+  "checked_on": "2026-11-15",
+  "word_count": 4226,
+  "text_status": "current-consolidated",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  },
+  "completeness": "html-text-complete"
+}

@@ -1,0 +1,3 @@
+Eksik bilgilendirme
+MADDE 10 – (1) Satıcı veya sağlayıcı (Ek ibare:RG-23/8/2022-31932)(1) ile aracı hizmet sağlayıcı, cayma hakkı konusunda tüketicinin bilgilendirildiğini ispat etmekle yükümlüdür. Tüketici, cayma hakkı konusunda gerektiği şekilde bilgilendirilmezse, cayma hakkını kullanmak için on dört günlük süreyle bağlı değildir. Bu süre her halükarda cayma süresinin bittiği tarihten itibaren bir yıl sonra sona erer.
+(2) Cayma hakkı konusunda gerektiği şekilde bilgilendirmenin bir yıllık süre içinde yapılması halinde, on dört günlük cayma hakkı süresi, bu bilgilendirmenin gereği gibi yapıldığı günden itibaren işlemeye başlar.

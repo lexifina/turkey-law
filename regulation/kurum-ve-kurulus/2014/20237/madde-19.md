@@ -1,0 +1,3 @@
+İlave ödemeler
+MADDE 19 – (1) Sözleşme kurulmadan önce, sözleşme yükümlülüğünden kaynaklanan ve üzerinde anlaşılmış esas bedel dışında herhangi bir ilave bedel talep edilebilmesi için tüketicinin açık onayının ayrıca alınması zorunludur.
+(2) Tüketicinin açık onayı alınmadan ilave ödeme yükümlülüğü doğuran seçeneklerin kendiliğinden seçili olarak sunulmuş olmasından dolayı tüketici bir ödemede bulunmuş ise, satıcı veya sağlayıcı (Ek ibare:RG-23/8/2022-31932)(1) ile platform üzerinden kurulan mesafeli sözleşmelerde satıcı veya sağlayıcı adına bedel tahsil etmesi halinde aracı hizmet sağlayıcı bu ödemelerin iadesini derhal yapmak zorundadır.

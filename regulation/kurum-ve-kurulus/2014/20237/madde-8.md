@@ -1,0 +1,3 @@
+Ön bilgilendirmeye ilişkin diğer yükümlülükler
+MADDE 8 – (1) Satıcı veya sağlayıcı (Ek ibare:RG-23/8/2022-31932)(1) ile aracı hizmet sağlayıcı, tüketici siparişi onaylamadan hemen önce, verilen siparişin ödeme yükümlülüğü anlamına geldiği hususunda tüketiciyi açık ve anlaşılır bir şekilde bilgilendirmek zorundadır. Aksi halde tüketici siparişi ile bağlı değildir.
+(2) Tüketicinin mesafeli sözleşme kurulması amacıyla satıcı veya sağlayıcı tarafından telefonla aranması durumunda, her görüşmenin başında satıcı veya sağlayıcı kimliğini, eğer bir başkası adına veya hesabına arıyorsa bu kişinin kimliğini ve görüşmenin ticari amacını açıklamalıdır.

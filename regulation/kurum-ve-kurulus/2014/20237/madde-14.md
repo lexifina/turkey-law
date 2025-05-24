@@ -1,0 +1,3 @@
+Cayma hakkının kullanımının yan sözleşmelere etkisi
+MADDE 14 – (1) Kanunun 30 uncu maddesi hükümleri saklı kalmak koşuluyla, tüketicinin cayma hakkını kullanması durumunda yan sözleşmeler de kendiliğinden sona erer. Bu durumda tüketici, 13 üncü maddenin ikinci fıkrasında belirtilen haller dışında herhangi bir masraf, tazminat veya cezai şart ödemekle yükümlü değildir.
+(2) Satıcı veya sağlayıcı, tüketicinin cayma hakkını kullandığını yan sözleşmenin tarafı olan üçüncü kişiye derhal bildirmelidir. (Ek cümle:RG-23/8/2022-31932)(1) Platform üzerinden kurulan mesafeli sözleşmelerde yan sözleşmeye aracılık edilmesi halinde bu bildirimin yapılmasından aracı hizmet sağlayıcı da sorumludur.
