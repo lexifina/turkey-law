@@ -1,0 +1,2 @@
+Amaç ve kapsam
+MADDE 1- (1) Bu Tebliğin amacı, yerli üreticiler Arslan Alüminyum A.Ş., Lazer Solar Enerji Alüminyum Sistemleri A.Ş. ve Pantech Alüminyum A.Ş. firmaları adına Türkiye Alüminyum Sanayicileri Derneği tarafından yapılan başvuruya istinaden Çin Halk Cumhuriyeti menşeli 8541.90.00.00.11 gümrük tarife istatistik pozisyonu altında sınıflandırılan “fotovoltaik paneller için alüminyum çerçeveler” eşya tanımlı ürüne yönelik bir damping soruşturması açılması ve açılan soruşturmanın usul ve esaslarının belirlenmesidir.
