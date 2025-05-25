@@ -1,0 +1,2 @@
+Amaç ve kapsam
+MADDE 1- (1) Bu Tebliğin amacı, yerli üretici Sunar Mısır Entegre Tesisleri San. ve Tic. A.Ş. firması tarafından yapılan başvuruya istinaden Çin Halk Cumhuriyeti menşeli 2918.16.00.00.13 gümrük tarife istatistik pozisyonu altında sınıflandırılan “sodyum glukonat” eşya tanımlı ürüne yönelik bir damping soruşturması açılması ve açılan soruşturmanın usul ve esaslarının belirlenmesidir.
