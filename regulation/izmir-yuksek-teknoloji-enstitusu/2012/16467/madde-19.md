@@ -1,0 +1,3 @@
+Başarı değerlendirilmesi
+MADDE 19 – (Değişik:RG-21/3/2019-30721)
+(1) Yaz Öğretiminde ders alan öğrencilerin başarı durumlarının değerlendirilmesi, dersi veren öğretim elemanı tarafından 22/1/2017 tarihli ve 29956 sayılı Resmî Gazete’de yayımlanan İzmir Yüksek Teknoloji Enstitüsü Lisansüstü Eğitim-Öğretim Yönetmeliği ile 23/9/2018 tarihli ve 30544 sayılı Resmî Gazete’de yayımlanan İzmir Yüksek Teknoloji Enstitüsü Lisans Eğitim Öğretim Yönetmeliği çerçevesinde yapılır. Yaz Öğretiminde alınan dersler ve notları, not döküm belgesinde “Yaz Öğretimi” adı altında açılacak bir bölümde gösterilerek bir önceki yarıyılın genel not ortalaması ile birleştirilir. Yaz Öğretimi yarıyıldan ve azami süreden sayılmaz.
