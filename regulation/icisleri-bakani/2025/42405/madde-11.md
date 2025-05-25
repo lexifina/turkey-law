@@ -1,0 +1,2 @@
+Köpekli arama timi denetim komisyonunun oluşumu
+MADDE 11- (1) Köpekli arama timi denetim komisyonu Daire Başkanlığı tarafından Daire Başkanı başkanlığında oluşturulur. Köpekli arama timi denetim komisyonu Daire Başkanı başkanlığında; iki Başkanlık personeli, iki birlik müdürü, üç köpek eğitmeni, bir veteriner hekim ve bu konuda değerlendirme yapabilecek bilgi ve tecrübeye sahip Başkanlık personelinden oluşur. Daire Başkanı kararı ile ihtiyaç halinde köpekli arama timi denetim komisyonunda görev alan üyeler değiştirilebilir.
