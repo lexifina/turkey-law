@@ -1,0 +1,55 @@
+{
+  "source_id": "9.5.20479",
+  "kind": "communique",
+  "register_kind": "Tebliğler",
+  "title": "GÜMRÜK GENEL TEBLİĞİ (TARİFE-SINIFLANDIRMA KARARLARI) (SERİ NO: 18)",
+  "number": "20479",
+  "issuer": "Gümrük ve Ticaret Bakanı",
+  "path": "teblig/2015/20479",
+  "source": "https://www.mevzuat.gov.tr/anasayfa/MevzuatFihristDetayIframe?MevzuatTur=9&MevzuatNo=20479&MevzuatTertip=5",
+  "source_sha256": "70ac08170f369fc79e6079ed93db453a28ef6cf936acad6521f3c5018229e2a9",
+  "source_bytes": 17766,
+  "published": "2015-01-24",
+  "gazette": "29246",
+  "in_force": "2025-05-27",
+  "in_force_basis": "latest Resmî Gazete date printed in the source amendment notes/table (\"27/5/2025\") for the current consolidated text",
+  "date_evidence": [
+    [
+      "2025-05-27",
+      "27/5/2025",
+      "Resmî Gazete date in the source amendment table"
+    ],
+    [
+      "2023-03-10",
+      "10/3/2023",
+      "Resmî Gazete date in the source amendment table"
+    ],
+    [
+      "2020-10-17",
+      "17/10/2020",
+      "Resmî Gazete date in the source amendment table"
+    ],
+    [
+      "2018-02-03",
+      "3/2/2018",
+      "Resmî Gazete date in the source amendment table"
+    ]
+  ],
+  "commencement_clauses": [
+    "Bu Tebliğ yayımı tarihinde yürürlüğe girer"
+  ],
+  "history": "current-text",
+  "label": "oldest version available",
+  "checked_on": "2026-11-15",
+  "word_count": 322,
+  "text_status": "current-consolidated",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  },
+  "source_links": [
+    "9.5.20479-EK.docx"
+  ],
+  "completeness": "html-text-complete; linked annexes not fetched"
+}
