@@ -1,0 +1,20 @@
+{
+  "applicant": "Ö.K.",
+  "application_date": "2023-02-13",
+  "application_number": "2023/12699",
+  "deciding_unit": "Birinci Bölüm",
+  "decision_date": "2025-05-27",
+  "id": "80658c75-1da3-abd9-927e-432681088688",
+  "in_force": "2025-05-27",
+  "in_force_basis": "official decision date",
+  "kind": "constitutional-court-individual-application",
+  "omitted_images": 0,
+  "outcome": "Esas (İhlal Olmadığı)",
+  "published": null,
+  "referenced_images": 0,
+  "source": "https://kararlarbilgibankasi.anayasa.gov.tr/kbb/pages/search/Tumu?id=a2JiOjgwNjU4Yzc1LTFkYTMtYWJkOS05MjdlLTQzMjY4MTA4ODY4OA&type=BireyselBasvuru",
+  "source_api": "https://kararlarbilgibankasi.anayasa.gov.tr/api/core/public/search",
+  "source_images": 0,
+  "source_sha256": "dbf5d1c1d2f4076bac059adc7210efbda79d0b025dbe1ac158f79ce1b12a092e",
+  "version_label": "as-enacted"
+}
