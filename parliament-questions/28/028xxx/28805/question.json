@@ -1,0 +1,21 @@
+{
+  "record_type": "parliament-written-question",
+  "term": 28,
+  "legislative_year": 3,
+  "esas_no": "7/28805",
+  "submitted": "2025-05-27",
+  "submitted_as": "Başkanlığa geliş tarihi",
+  "mp": "Ferit ŞENYAŞAR",
+  "province": "Şanlıurfa",
+  "summary": "Şanlıurfa'nın Eyyübiye ilçesinde bulunan Uğurlu Sanayi Sitesi'ndeki içme ve kullanma suyu sorununa ilişkin",
+  "status": "Süresi Geçtikten Sonra Cevaplandı",
+  "status_as_of": "2026-11-16",
+  "official_record": "https://www.tbmm.gov.tr/Denetim/Yazili-Soru-Onergesi-Detay/49ba956e-1740-4be8-a991-019715c7bf09",
+  "source": "https://tbmm.gov.tr/Denetim/YaziliSoruOnergesiTable",
+  "source_form": "https://tbmm.gov.tr/Denetim/Yazili-Soru-Onergeleri",
+  "source_sha256": "9e51d93ac7a4f120aefbea3d754dab8ea51ceb2d2228f1c49926e0f004683357",
+  "in_force": "2025-05-27",
+  "in_force_basis": "Date the question reached the Speaker (Başkanlığa geliş tarihi) in the official TBMM written-question record; parliamentary oversight record, not law",
+  "history_type": "metadata",
+  "text_status": "metadata-only: question text, addressee and answers are in the linked official record (PDFs on cdn.tbmm.gov.tr); not transcribed here"
+}
