@@ -1,0 +1,3 @@
+Uygunluk yazılarının ilanı
+GEÇİCİ MADDE 1 – (Ek:RG-1/7/2016-29759)
+(1) 31/12/2016 tarihine kadar uygunluk yazıları Kurum internet sayfasından ilan edilerek başvuru sahibine gönderilmeye devam edilir. 1/1/2017 tarihinden itibaren gerek yurt içi temin için verilen uygunluk yazıları gerekse yurt dışı temin için verilen ve elektronik ortamda Gümrük ve Ticaret Bakanlığının, “Tek Pencere Sistemi” ne gönderilen uygunluk yazıları ayrıca başvuru sahibine gönderilmez. Bu Tebliğ kapsamı ürünlerin serbest dolaşıma girişine ilişkin gümrük beyannamelerinin tescilinde, Gümrük ve Ticaret Bakanlığının, “Tek Pencere Sistemi” çerçevesinde elektronik ortamda vereceği 23 haneli kod aranır.

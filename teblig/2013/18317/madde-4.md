@@ -1,0 +1,11 @@
+Uygunluk yazısı yükümlülüğü
+MADDE 4 – (1) (Değişik fıkra:RG-28/12/2014-29219)(2) Akaryakıt haricinde kalan petrol ürünlerinin, 5 inci maddede yer alan durumlar hariç olmak üzere, yurt içi kaynaklardan temin edilebilmesi ve serbest dolaşıma girebilmesi için Kurumdan uygunluk yazısı alınması gerekir. Uygunluk yazısı alınması kaydıyla akaryakıt haricinde kalan petrol ürünlerinin;
+a) Yurt içinden temini sanayiciler,
+b) Yurt dışından ithali doğrudan sanayiciler ya da sanayiciler adına ithalatçılar,
+tarafından yapılabilir.
+(2) Ek-1’de gümrük tarife istatistik pozisyonu ve tanımı verilen ürünleri yurt içinde üreten kişiler, bu ürünleri yurt içinde sadece Kurumdan uygunluk yazısı alan kişilere satabilir.
+(3) (Değişik:RG-5/6/2014-29021) 5 inci maddenin dördüncü fıkrasında sayılan lisans sahipleri hariç olmak üzere aynı kişiye hem sanayici hem de ithalatçı sıfatıyla uygunluk yazısı verilmez.
+(4) (Değişik:RG-28/12/2014-29219)(2) Sanayiciler, en fazla iki ithalatçıya yetki vermek suretiyle, uygunluk yazısı talebinde bulunabilirler.
+(5) İthalatçıların, 13/1/2011 tarihli ve 6102 sayılı Türk Ticaret Kanununa göre sermaye şirketi olması zorunludur.
+(6) (Değişik:RG-1/7/2016-29759) (Değişik cümle:RG-10/3/2017-30003) Sanayiciler üretim amacıyla, ithalatçılar ise üreticiler adına temin ettikleri akaryakıt haricinde kalan petrol ürünlerini Kurumdan izin almaksızın üçüncü kişilere teslim edemez, bu maddeler üçüncü kişilerce teslim alınamaz. Yurt içi veya yurt dışı kaynaklardan akaryakıt haricinde kalan petrol ürünü temin etmek için kendisine ya da kendisi adına ithalatçıya uygunluk yazısı verilen sanayicinin iflasının kesinleştiği, tesisini devrettiği veya Kurum tarafından uygun görülen diğer hallerde, sanayici stokunda bulunan ya da sanayici adına (Değişik ibare:RG-24/7/2020-31195)(5) ithalat işlemleri tamamlanmasına rağmen ithalatçı stokunda kalan ürünler, durumun belgelendirilmesi ve Kurumdan izin alınması kaydıyla başka sanayicilere devredilebilir.
+(7) (Ek:RG-1/7/2016-29759) İthalatçı tarafından ithalat işlemleri tamamlanan; ancak, yılsonunda uygunluk yazısı sürelerinin dolması nedeniyle sanayiciye teslim edilemeyen ürünler, takip eden yılın Ocak ayı sonuna kadar yeni bir izne gerek olmaksızın adına ithalat yapılan sanayiciye teslim edilebilir. (Mülga Cümle:RG-31/12/2016-29935 (3.Mükerrer) (…)

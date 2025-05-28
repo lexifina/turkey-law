@@ -1,0 +1,95 @@
+{
+  "source_id": "9.5.18317",
+  "kind": "communique",
+  "register_kind": "Tebliğler",
+  "title": "AKARYAKIT HARİCİNDE KALAN PETROL ÜRÜNLERİNİN YURT İÇİ VE YURT DIŞI KAYNAKLARDAN TEMİNİNE İLİŞKİN USUL VE ESASLAR HAKKINDA TEBLİĞ",
+  "number": "18317",
+  "issuer": "Başkan",
+  "path": "teblig/2013/18317",
+  "source": "https://www.mevzuat.gov.tr/anasayfa/MevzuatFihristDetayIframe?MevzuatTur=9&MevzuatNo=18317&MevzuatTertip=5",
+  "source_sha256": "5f99f7214014421e9dde21d4b5b5d6b5605819be78c513fe1acf55b4f2aa08f7",
+  "source_bytes": 55906,
+  "published": "2013-04-24",
+  "gazette": "28627",
+  "in_force": "2025-05-28",
+  "in_force_basis": "latest Resmî Gazete date printed in the source amendment notes/table (\"28/5/2025\") for the current consolidated text",
+  "date_evidence": [
+    [
+      "2025-05-28",
+      "28/5/2025",
+      "Resmî Gazete date in the source amendment table"
+    ],
+    [
+      "2024-12-20",
+      "20/12/2024",
+      "Resmî Gazete date in the source amendment table"
+    ],
+    [
+      "2024-07-25",
+      "25/7/2024",
+      "Resmî Gazete date in the source amendment table"
+    ],
+    [
+      "2020-07-24",
+      "RG-24/7/2020",
+      "Resmî Gazete date printed in the source amendment note"
+    ],
+    [
+      "2020-07-24",
+      "24/7/2020",
+      "Resmî Gazete date in the source amendment table"
+    ],
+    [
+      "2019-12-27",
+      "27/12/2019",
+      "Resmî Gazete date in the source amendment table"
+    ],
+    [
+      "2019-02-22",
+      "RG-22/2/2019",
+      "Resmî Gazete date printed in the source amendment note"
+    ],
+    [
+      "2019-02-22",
+      "22/2/2019",
+      "Resmî Gazete date in the source amendment table"
+    ],
+    [
+      "2017-09-08",
+      "8/9/2017",
+      "Resmî Gazete date in the source amendment table"
+    ],
+    [
+      "2017-03-10",
+      "RG-10/3/2017",
+      "Resmî Gazete date printed in the source amendment note"
+    ],
+    [
+      "2017-03-10",
+      "10/3/2017",
+      "Resmî Gazete date in the source amendment table"
+    ],
+    [
+      "2016-12-31",
+      "RG-31/12/2016",
+      "Resmî Gazete date printed in the source amendment note"
+    ]
+  ],
+  "commencement_clauses": [
+    "Bu Tebliğ 1/1/2014 tarihinde yürürlüğe girer"
+  ],
+  "history": "current-text",
+  "label": "oldest version available",
+  "checked_on": "2026-11-15",
+  "word_count": 2206,
+  "text_status": "current-consolidated",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  },
+  "source_links": [
+    "9.5.18317-ek.doc"
+  ],
+  "completeness": "html-text-complete; linked annexes not fetched"
+}
