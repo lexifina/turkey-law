@@ -1,0 +1,22 @@
+{
+  "kind": "norm",
+  "issuer": "Gelir İdaresi Başkanlığı",
+  "document_type": "ozelge",
+  "number": "E-27575268-105[Mük.298-2024-1048]-301648",
+  "source_id": 38855,
+  "date": "2025-05-29",
+  "title": "Verilen Avanslarda Enflasyon Düzeltmesi Hk.",
+  "source": "https://gib.gov.tr/mevzuat/kanun/434/ozelge/38855",
+  "related_law": "213 sayılı VERGİ USUL KANUNU",
+  "source_api": "https://gib.gov.tr/api/gibportal/mevzuat/ozelge/list",
+  "source_listing": "evidence/list/2026-11-16/ozelge-p009.json",
+  "source_listing_sha256": "9cb52b4963a9a177a23948f6e28c12936c2f43c88a0b410872bb81c01983667c",
+  "source_sha256": "11a0e543846bbfe9ea542ef066d45315c81f8ca3322129c9a414c542f8c00c37",
+  "text_status": "as-enacted",
+  "text_file": "metin.md",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  }
+}
