@@ -1,0 +1,21 @@
+{
+  "record_type": "parliament-written-question",
+  "term": 28,
+  "legislative_year": 3,
+  "esas_no": "7/28981",
+  "submitted": "2025-05-30",
+  "submitted_as": "Başkanlığa geliş tarihi",
+  "mp": "Özgür KARABAT",
+  "province": "İstanbul",
+  "summary": "Genç nüfusta işsizliğin azaltılması için yapılan çalışmalara ilişkin",
+  "status": "Süresi Geçtikten Sonra Cevaplandı",
+  "status_as_of": "2026-11-16",
+  "official_record": "https://www.tbmm.gov.tr/Denetim/Yazili-Soru-Onergesi-Detay/e3748ac7-e90a-4499-b14c-0197213fcd44",
+  "source": "https://tbmm.gov.tr/Denetim/YaziliSoruOnergesiTable",
+  "source_form": "https://tbmm.gov.tr/Denetim/Yazili-Soru-Onergeleri",
+  "source_sha256": "9693057bf4219a48de78b2e748e738ce8cb782f9dd6fd5060c14f8c6c69684ea",
+  "in_force": "2025-05-30",
+  "in_force_basis": "Date the question reached the Speaker (Başkanlığa geliş tarihi) in the official TBMM written-question record; parliamentary oversight record, not law",
+  "history_type": "metadata",
+  "text_status": "metadata-only: question text, addressee and answers are in the linked official record (PDFs on cdn.tbmm.gov.tr); not transcribed here"
+}
