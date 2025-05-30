@@ -1,0 +1,2 @@
+Branşlı personel planlaması
+MADDE 15 – (1) Personel politikasının tespiti ve branşlı personel planlama uygulamaları ile atama işlemleri Personel Dairesi Başkanlığınca kamu yararı ve hizmet gerekleri doğrultusunda belirlenecek ölçütler çerçevesinde yürütülür. Her branş için branşlı personel sayısı her yıl Personel Dairesi Başkanlığınca belirlenir. Genel atama döneminde branşlı personelin ön planlamasını Personel Dairesi Başkanlığının koordinesinde ilgili daire başkanlıkları; atamasını ise Personel Dairesi Başkanlığı yapar.

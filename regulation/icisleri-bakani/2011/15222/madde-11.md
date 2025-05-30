@@ -1,0 +1,2 @@
+Başarı değerlendirme ölçütlerinin kullanılması
+MADDE 11 – (1) Genel Müdürlükçe, yürütülmekte olan hizmetlerin özellikleri göz önünde bulundurarak memurlarının başarı, verimlilik ve gayretlerini ölçmek üzere, değerlendirme ölçütleri ve sistemi oluşturulduğunda, branş yönergelerinde belirtilmek suretiyle branşa alma ve branştan çıkarma işlemlerinde, bu sistem sonucu oluşan değerlendirme notu kullanılabilir.

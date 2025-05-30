@@ -1,0 +1,3 @@
+Yönergeler
+MADDE 17 – (1) Yeni branş oluşturulduğunda, onayın alındığı tarihten itibaren altı ay içerisinde, bu branşa sahip daire başkanlığı, Personel Dairesi Başkanlığının uygun görüşünü alarak branş yönergesini çıkarır.
+(2) Yönergelerde, branşlı personelin sahip olacağı nitelikler, branşlı personelin hangi hallerde branştan çıkarılacağı, sınav ve branş kursları, branşlı personelin başarı kriterleri ve ölçüm zamanları, branş komisyonlarının çalışma şartları ile bu Yönetmelikle kendilerine verilen diğer görevlerin uygulaması belirtilir. Ayrıca, yönergelerde branşların özelliğine göre branşta çalışma alt ve/veya üst süresi belirlenebilir.

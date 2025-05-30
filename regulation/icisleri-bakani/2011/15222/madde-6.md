@@ -1,0 +1,2 @@
+Genel hizmet statülü personel
+MADDE 6 – (1) Kanunların verdiği yetkiler çerçevesinde kamu düzeninin sağlanması amacıyla koruyucu, önleyici, caydırıcı güvenlik tedbirlerini alma, suça el koyma, suç araştırması yapma, delilleri tespit etme, failleri yakalama ve adli mercilere sevk işlemlerini yürütme ile kendisine verilen diğer adli ve idari görevleri yapma bilgi ve becerisine sahip nitelikte, herhangi bir branşta bulunmayan personeli kapsar.

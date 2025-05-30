@@ -1,0 +1,2 @@
+Branştan ayrılma
+MADDE 12 – (1) Bulunduğu branştan ayrılmak isteyen personel, ilgili branş komisyonunun kararı ve birimin bağlı bulunduğu Genel Müdür yardımcısının onayı, Genel Müdüre doğrudan bağlı daire başkanlıklarında ise Genel Müdürün onayıyla branştan ayrılabilir. Branştan ayrılan personelin branştan ayrılma onayının bir sureti onay tarihinden itibaren en geç on beş gün içerisinde Personel Dairesi Başkanlığına gönderilir.
