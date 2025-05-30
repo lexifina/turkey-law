@@ -1,0 +1,15 @@
+ÜÇÜNCÜ BÖLÜM
+Kurumsal Yönetim
+Yönetim kurulu üyeleri ile genel müdür ve yardımcılarına ilişkin bildirimler
+MADDE 11 – (1) Şirket yönetim kurulu üyelerinin, genel müdürlerinin ve genel müdür yardımcılarının, atanmalarından veya seçilmelerinden sonra on beş gün içinde, şirket tarafından Kuruma hitaben düzenlenecek bir yazı ekinde;
+a) Mesleki tecrübelerini ve aldıkları eğitimleri içeren Ek-8’de yer alan örneğe uygun olarak düzenlenecek ayrıntılı öz geçmişleri ile lisans ve varsa lisansüstü diplomalarının noter onaylı halinin ve 5490 sayılı Kanun kapsamında oluşturulan sistemler vasıtasıyla kimlik ve adres bilgilerine elektronik ortamda ulaşılabilenler hariç, yabancı uyruklu kişiler için kimlik belgesi veya pasaportlarının noter onaylı örnekleri,
+b) Müflis olmadıklarına ve konkordato ilan etmiş olmadıklarına ilişkin (Değişik ibare:RG-29/12/2023-32414) asliye ticaret mahkemelerinden alınacak belgeler,
+c) 5411 sayılı Kanunun 71 inci maddesi uygulanan bankalarda veya 5411 sayılı Kanunun yürürlüğe girmesinden önce Tasarruf Mevduatı Sigorta Fonuna devredilmiş olan bankalarda doğrudan veya dolaylı olarak yüzde on veya daha fazla paya sahip olmadığına veya kontrolü elinde bulundurmadığına dair noter huzurunda imza edecekleri birer taahhütname (EK-5) ile bu hususlara ilişkin olarak Tasarruf Mevduatı Sigorta Fonundan temin edecekleri belgeler,
+ç) Tasfiyeye tabi tutulan bankerler ile iradi tasfiye haricinde faaliyet izni kaldırılan faktoring, finansal kiralama, finansman, tasarruf finansman ve sigorta şirketleri ile para ve sermaye piyasalarında faaliyet gösteren kurumlarda doğrudan veya dolaylı olarak yüzde on veya daha fazla paya sahip olmadığına veya kontrolü elinde bulundurmadığına ilişkin noter huzurunda imza edecekleri birer taahhütname (EK-6),
+d) Arşiv kaydını da içeren son altı ay içinde alınmış adli sicil belgeleri,
+e) Atanmalarına veya seçilmelerine ilişkin genel kurul ya da yönetim kurulu kararının noter onaylı bir örneği,
+Kuruma gönderilir.
+(2) Kanunun 13 üncü maddesinin ikinci fıkrası uyarınca, genel müdürün bulunmadığı hallerde genel müdür ile aynı nitelikleri haiz olmak kaydıyla yönetim kurulu toplantılarına genel müdür vekili olarak katılacak kişiler ve bu kişilerin hangi hallerde toplantılara katılacakları yönetim kurulunca belirlenir.
+(3) (Değişik:RG-30/5/2025-32915) Şirket yönetim kurulu üyesi, genel müdür ve genel müdür yardımcısı olarak görev yapanların herhangi bir nedenle görevden ayrılması halinde ilgili şirket tarafından görevden ayrılma nedenlerinin ayrılış tarihinden itibaren on beş gün içinde Kuruma yazılı olarak bildirilmesi zorunludur. Görevden ayrılan bu kişilerin yerine en fazla üç ay içerisinde asaleten atama yapılması gerekir. Kurum, bu süreyi iki katına kadar artırmaya yetkilidir.
+(4) (Ek:RG-30/5/2025-32915) Kanunda genel müdür için öngörülen mesleki tecrübe ve eğitim şartı, yönetim kurulu üyelerinin yarıdan bir fazlası için de aranır.
+(5) (Ek:RG-30/5/2025-32915) Şirketler tarafından hazine/mali işler, satış ve operasyondan sorumlu olmak üzere en az üç genel müdür yardımcısı atanması zorunludur.

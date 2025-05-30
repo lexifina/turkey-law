@@ -1,0 +1,2 @@
+Yıllık faaliyet raporu
+MADDE 14 – (1) Şirketler, statülerine, yönetim ve organizasyon yapılarına, insan kaynaklarına, faaliyetlerine, finansal durumlarına, yönetimin değerlendirmeleri ve geleceğe yönelik beklentilerine ilişkin bilgileri, finansal tablolarını, özet yönetim kurulu raporunu ve bağımsız denetim raporunu da içeren yıllık faaliyet raporu hazırlamak ve en geç devam eden yılın Nisan ayı sonuna kadar Kuruma göndermek ve internet sitelerinde yayımlamak zorundadırlar.

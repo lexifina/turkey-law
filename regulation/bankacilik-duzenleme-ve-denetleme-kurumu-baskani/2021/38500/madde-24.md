@@ -1,0 +1,5 @@
+Gayrimenkul edinilmesine ilişkin sınırlamalar
+MADDE 24 – (1) Bir şirketin gayrimenkullerinin net defter değerleri toplamı özkaynaklarının yüzde (Değişik ibare:RG-30/5/2025-32915) yirmi beşini aşamaz. Bu hesaplamada, değerleme veya enflasyon düzeltmesine bağlı olarak oluşan ve gayrimenkul hesabına eklenen değer artışları yüzde elli oranında dikkate alınır.
+(2) Sözleşmeler kapsamındaki finansman alacaklarından dolayı edinilmek zorunda kalındığı tevsik edilen gayrimenkuller birinci fıkradaki sınırın hesaplamasında dikkate alınmaz. Alacaklardan dolayı edinilmek zorunda kalınan gayrimenkullerin ve diğer varlıkların, Kurulca farklı bir süre belirlenmediği müddetçe, üç yıl içerisinde elden çıkarılması zorunludur.
+(3) Birinci fıkrada zikredilen sınırların aşılması hâlinde, aşım tutarı özkaynak hesaplamasında indirim kalemi olarak dikkate alınır.
+(4) (Ek:RG-30/5/2025-32915) Şirketler ana faaliyetlerin yürütülmesi amacıyla edinilen gayrimenkuller ile alacaklarından dolayı edinilenler hariç olmak üzere gayrimenkul edinemezler.

@@ -1,0 +1,4 @@
+İntibak
+GEÇİCİ MADDE 6- (Ek:RG-29/12/2023-32414)
+(1) Bu maddenin yayımı tarihi itibarıyla 22/A maddesinin birinci ve ikinci fıkralarında belirlenen sınırlardan herhangi birini aşan şirketler, bu gerçek ya da tüzel kişi veya risk grubuyla hiçbir şekil ve surette yeni sözleşme imzalayamaz. Şirketlerin, 22/A maddesine olan aykırılıkları 1/1/2025 tarihine kadar gidermesi şarttır. Kurul, bu tarihi bir yıla kadar uzatmaya yetkilidir.
+(2) Bu maddenin yayımı tarihi itibarıyla şirket yönetim kurulu üyeleri ve ortaklar hariç olmak üzere şirket mensuplarının, bunların eş ve velâyet altındaki çocuklarının ve tek başlarına ya da birlikte sermayesinin yüzde yirmi beş veya fazlasına sahip oldukları ortaklıkların taraf olduğu mevcut sözleşmeler 22/A maddesine aykırılık olarak değerlendirilmez. Mevcut sözleşmelerin süresi uzatılamaz, tutarı artırılamaz veya bu kişiler ile 22/A maddesine aykırı olarak yeni sözleşme düzenlenemez.

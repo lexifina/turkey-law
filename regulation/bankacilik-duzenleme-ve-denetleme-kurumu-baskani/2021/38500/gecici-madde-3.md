@@ -1,0 +1,4 @@
+Sözleşmeler
+GEÇİCİ MADDE 3 – (1) Şirketler, 16 ncı maddenin ikinci fıkrasında düzenlenen çerçeve sözleşmeler yürürlüğe girene kadar, Kanun ve Yönetmelik hükümlerine aykırı olmamak kaydıyla, sözleşme yapmaya devam ederler.
+(2) 17 nci maddenin üçüncü fıkrasında yer alan asgari yüzde kırk oranı, kalan yüzde yirmi oranının çekiliş grubunda yer alan müşterilerin aylık tasarruf ödemelerinin basit aritmetik ortalaması kullanılarak hesaplanan tutarın şirket özkaynaklarından karşılanması kaydıyla, 1/1/2022 tarihine kadar imzalanan tasarruf finansman sözleşmeleri için yüzde yirmi olarak uygulanabilir.
+(3) 21 inci maddenin ikinci fıkrasının (a) bendinde yer alan beşte iki oranı, 1/1/2022 tarihine kadar imzalanan tasarruf finansman sözleşmeleri için beşte bir olarak uygulanabilir. Bu hüküm, 21 inci maddenin üçüncü fıkrası ile birlikte uygulanamaz.

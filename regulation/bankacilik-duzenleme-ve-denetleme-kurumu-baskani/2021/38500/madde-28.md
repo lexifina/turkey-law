@@ -1,0 +1,9 @@
+Likidite yönetimi
+MADDE 28 – (1) Şirketler, müşterilerine olan yükümlülüklerini vadesinde veya yasal süreleri içerisinde yerine getirebilecek düzeyde nakde veya en fazla iki gün valörlü olarak nakde dönüştürülebilir yatırım araçlarına sürekli olarak sahip olmak zorundadır.
+(2) Şirketler, ürün tarifesinin oluşturulması, tahsisat tarihi belirleme, ihtiyat fonu tutma, tasarruf fon havuzunun yatırım olarak değerlendirilecek kısmının belirlenmesi, şube açma, personel istihdamı, reklam ve tutundurma faaliyetleri de dâhil olmak üzere tüm faaliyetlerini birinci fıkra kapsamındaki likidite düzeyini koruyacak şekilde gerçekleştirmek zorundadır.
+(3) Şirketler, likidite düzeylerini en az 10 yıllık bir vade dilimini kapsayacak şekilde hesaplamakla ve Kuruma raporlamakla yükümlüdür. 21 ve 22 nci maddelerde yer verilenler ile Kurul tarafından belirlenen diğer sınırlara aykırılık oluşması halinde şirket, durumu derhal Kuruma bildirmek zorundadır.
+(4) Şirketler likidite düzeyini, her bir müşteri, çekiliş grubu ve şirketin toplam likidite düzeyi bazında olmak üzere, ayrı ayrı hesaplamakla yükümlüdür.
+(5) Likidite hesaplamasında vadeler itibariyle gelecekteki yeni müşteri girişleri, sözleşmelerden cayma yoluyla çıkışlar, tahsisat ödemeleri ve daha önce yapılan tahsisatlardan geri ödemeler, yatırımların vadeleri veya nakit varlıklara dönüşme süreleri bilimsel yöntemler kullanılarak tahmin edilir.
+(6) Şirketler likidite hesaplama ve yönetimini gerçekleştirmek üzere yeterli sayıda personel istihdam etmek ve uygun bilgi sistemi altyapısını kurmakla yükümlüdür.
+(7) Likidite hesaplama, raporlama ve yönetimi şirket yönetim kurullarının sorumluluğundadır.
+(8) (Ek:RG-29/12/2023-32414) Kurul, likidite yönetimine ilişkin usul ve esasları belirlemeye, şirketlerin likidite yapısını ve mali bünyesini dikkate alarak sınırlama ve oranları şirket bazında artırmaya ve farklılaştırmaya yetkilidir.

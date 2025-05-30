@@ -1,0 +1,3 @@
+İhtiyat fonu
+MADDE 30 – (1) Şirketler, müşteri giriş veya çıkışları dolayısıyla karşı karşıya kalabilecekleri öngörülmeyen yükümlülüklerini karşılamak üzere tasarruf fon havuzu toplamının asgari yüzde (Değişik ibare:RG-30/5/2025-32915) beşini, tasarruf fon havuzunun içinde ihtiyat fonu olarak tutmakla yükümlüdür. Kurul, asgari ihtiyat fonu oranını yüzde (Değişik ibare:RG-30/5/2025-32915) üçe kadar azaltmaya veya iki katına kadar arttırmaya yetkilidir.
+(2) İhtiyat fonunun tutulabileceği yatırım araçları, yalnızca katılım hesaplarından veya en fazla iki gün valörlü olarak nakde dönüştürülebilir (Değişik ibare:RG-30/5/2025-32915) katılım esasına uygun yatırım araçlarından oluşabilir.

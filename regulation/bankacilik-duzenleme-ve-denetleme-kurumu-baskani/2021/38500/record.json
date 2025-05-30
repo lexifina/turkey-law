@@ -1,0 +1,53 @@
+{
+  "source_id": "7.5.38500",
+  "kind": "regulation",
+  "register_kind": "Kurum ve Kuruluş Yönetmelikleri",
+  "title": "TASARRUF FİNANSMAN ŞİRKETLERİNİN KURULUŞ VE FAALİYET ESASLARI HAKKINDA YÖNETMELİK",
+  "number": "38500",
+  "issuer": "Bankacılık Düzenleme ve Denetleme Kurumu Başkanı",
+  "issuer_slug": "bankacilik-duzenleme-ve-denetleme-kurumu-baskani",
+  "path": "regulation/bankacilik-duzenleme-ve-denetleme-kurumu-baskani/2021/38500",
+  "source": "https://www.mevzuat.gov.tr/anasayfa/MevzuatFihristDetayIframe?MevzuatTur=7&MevzuatNo=38500&MevzuatTertip=5",
+  "source_sha256": "06f8351e60ee1c4965a245d8106ed419df48a276d64ce3882f1258fb0d26c932",
+  "source_bytes": 123304,
+  "published": "2021-04-07",
+  "gazette": "31447",
+  "in_force": "2025-05-30",
+  "in_force_basis": "latest Resmî Gazete date printed in the source amendment notes/table (\"RG-30/5/2025\") for the current consolidated text",
+  "date_evidence": [
+    [
+      "2025-05-30",
+      "RG-30/5/2025",
+      "Resmî Gazete date printed in the source amendment note"
+    ],
+    [
+      "2025-05-30",
+      "30/5/2025",
+      "Resmî Gazete date in the source amendment table"
+    ],
+    [
+      "2023-12-29",
+      "RG-29/12/2023",
+      "Resmî Gazete date printed in the source amendment note"
+    ],
+    [
+      "2023-12-29",
+      "29/12/2023",
+      "Resmî Gazete date in the source amendment table"
+    ]
+  ],
+  "history": "current-text",
+  "label": "oldest version available",
+  "checked_on": "2026-11-15",
+  "word_count": 8041,
+  "text_status": "current-consolidated",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  },
+  "source_links": [
+    "7.5.38500-Ek.doc"
+  ],
+  "completeness": "html-text-complete; linked annexes not fetched"
+}
