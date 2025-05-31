@@ -1,0 +1,28 @@
+{
+  "number": "month-05-encumen",
+  "year": 2025,
+  "month": 5,
+  "title": "2025 Yılı Mayıs Ayı Meclis Sıfatlı Encümen Karar Özetleri",
+  "decision_date": null,
+  "index_date": "2025-05-31",
+  "date_precision": "month",
+  "period": "Mayıs 2025",
+  "source": "https://www.sisli.bel.tr/kurumsal/meclis-kararlari?page=2&categoryId=5",
+  "official_page": null,
+  "official_document": "https://www.sisli.bel.tr/Content/council-resolution/file-1c3be39a.pdf",
+  "source_sha256": "06099a5ee6929b89bc884edd53c8c716c19eaa84fba29a0ca501ee24b6d1a3a5",
+  "issuer": "Şişli Belediye Meclisi",
+  "history_type": "metadata",
+  "text_status": "metadata-only: listing fields as published; the decisions are in the linked official document(s) or page, not transcribed",
+  "in_force": "2025-05-31",
+  "in_force_basis": "The official listing gives only the month of this official file (Mayıs 2025); date set to the last day of that month (turkey-law date convention for month-only sources); exact adoption dates are in the linked official document; legal commencement not asserted",
+  "missing": [
+    "decision numbers, dates and subjects",
+    "complete official decision text",
+    "official annexes"
+  ],
+  "law_text_complete": false,
+  "privacy_withheld": false,
+  "record_scope": "one official monthly file: Meclis Sıfatlı Encümen Karar Özetleri",
+  "listing_category": "Meclis Sıfatlı Encümen Karar Özetleri"
+}
