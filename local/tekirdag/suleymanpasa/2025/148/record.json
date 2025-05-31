@@ -1,0 +1,29 @@
+{
+  "number": "148",
+  "number_as_published": "148",
+  "year": 2025,
+  "month": 5,
+  "title": "UKOME kararında belirtilen hükümlerle belirlenen ağır tonajlı taşıtlara ait gerekli evrak ve belgelerin ilgilileri tarafından tamamlanarak kurumumuza sunulduktan sonra, a) Şehir içine günlük araç giriş izni, araç başı KDV Hariç 625,00 TL olarak alınması, b) Yerleşim Yeri içerisine her türlü eşya, gıda ve ihtiyaç maddesi taşıyan ve yapılacak dağıtımlarda kullanılan kamyon ve kamyonet Yıllık araç başı KDV hariç 2.750,00 TL olarak alınması, c) Her Türlü Gıda Maddeleri taşıyan ve dağıtan kamyon ve kamyonetlerin haricinde; Ağır tonajlı taşıt, beton mikseri, hafriyat kamyonu, vb. yük taşıyan her nevi ağır vasıta araçların şehir içine girebilmeleri için araç başına yıllık olarak KDV hariç 5.000,00 TL ücret bedeli alınarak gerekli olan şehir İçine giriş belgesi düzenlenmesi uygun görülmüştür. Yukarıda belirlenen hizmet kaleminin 2025 yılına ilişkin ücrete tabi işler tarifesinde yer alan zabıta müdürlüğüne ait uygulanacak hizmet grubuna; (a) maddesinin 9,31 (b) maddesinin 9,32 ve (c) maddesinin 9,33 nosu ile eklenmesi konusunun Plan ve Bütçe Komisyonuna havale edilmesine Belediye Meclisince oybirliği ile karar verildi.",
+  "decision_date": null,
+  "index_date": "2025-05-31",
+  "date_precision": "month",
+  "period": "Mayıs 2025",
+  "source": "https://suleymanpasa.bel.tr/meclis-kararlari",
+  "official_page": "https://suleymanpasa.bel.tr/meclis-kararlari",
+  "official_document": null,
+  "source_sha256": "a3d58e794d078cdf2cdbec893458f633a8786bca6293af397d236c0d6fbd00f0",
+  "issuer": "Süleymanpaşa Belediye Meclisi",
+  "history_type": "metadata",
+  "text_status": "metadata-only: number and subject as published in the official listing; complete decision text is in the linked official page/document, not transcribed",
+  "in_force": "2025-05-31",
+  "in_force_basis": "The official listing gives only the month of this decision (Mayıs 2025); date set to the last day of that month (turkey-law date convention for month-only sources); exact adoption dates are in the linked official document; legal commencement not asserted",
+  "missing": [
+    "exact decision date",
+    "complete official decision text",
+    "official annexes"
+  ],
+  "law_text_complete": false,
+  "privacy_withheld": false,
+  "record_scope": "one council decision (number and published decision summary)",
+  "sitting": "Birleşim No: 1"
+}
