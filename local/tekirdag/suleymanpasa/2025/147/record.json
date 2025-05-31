@@ -1,0 +1,29 @@
+{
+  "number": "147",
+  "number_as_published": "147",
+  "year": 2025,
+  "month": 5,
+  "title": "08.04.2025 tarih ve 132 sayılı meclis kararında belirtilen Topağaç Mahallesinde bulunan isimsiz 50. Sokağa Behice Boran, isimsiz 51. Sokağa Sebahattin Ali ve isimsiz 52.sokağa Şehit Reşat Al olarak verilen sokak isimlerinin iptaline, Topağaç Mahallesinde Bulunan İsimsiz 10. Sokak – Şehit İlker Bağdatlı, İsimsiz 100. Sokak – Dr. Safiye Ali, İsimsiz 200. Sokak – Dr.Saadet Ergene, İsimsiz 210. Sokak – Şehit Hüseyin Çakmak, İsimsiz 300.Sokak Mv. Ömer Kahraman, İsimsiz 400. Sokak – Başöğretmen, İsimsiz 9. Sokak – Nezihe Muhiddin, Değirmenaltı Mahallesinde Bulunan İsimsiz 59. Sokak – Halet Çambel Çiftlikönü Mahallesinde Bulunan İsimsiz 1. Sokak – Prof. Dr. Semahat Geldiay Banarlı Mahallesinde Bulunan İsimsiz 4. Sokak – 1747. İsimsiz 6. Sokak – 1748. Karadeniz Mahallesinde Bulunan İsimsiz 8, Sokak – 7205. Yağcı Mahallesinde Bulunan İsimsiz 61. Sokak – 6245. Yenice Mahallesinde Bulunan İsimsiz 1. Sokak – 6515 olarak belirtilen sokak isimlerinin geçerliliği ile ilgili konusunun Çevre Sağlık ve Diğer İşler Komisyonuna havale edilmesine Belediye Meclisince oybirliği ile karar verildi.",
+  "decision_date": null,
+  "index_date": "2025-05-31",
+  "date_precision": "month",
+  "period": "Mayıs 2025",
+  "source": "https://suleymanpasa.bel.tr/meclis-kararlari",
+  "official_page": "https://suleymanpasa.bel.tr/meclis-kararlari",
+  "official_document": null,
+  "source_sha256": "a3d58e794d078cdf2cdbec893458f633a8786bca6293af397d236c0d6fbd00f0",
+  "issuer": "Süleymanpaşa Belediye Meclisi",
+  "history_type": "metadata",
+  "text_status": "metadata-only: number and subject as published in the official listing; complete decision text is in the linked official page/document, not transcribed",
+  "in_force": "2025-05-31",
+  "in_force_basis": "The official listing gives only the month of this decision (Mayıs 2025); date set to the last day of that month (turkey-law date convention for month-only sources); exact adoption dates are in the linked official document; legal commencement not asserted",
+  "missing": [
+    "exact decision date",
+    "complete official decision text",
+    "official annexes"
+  ],
+  "law_text_complete": false,
+  "privacy_withheld": false,
+  "record_scope": "one council decision (number and published decision summary)",
+  "sitting": "Birleşim No: 1"
+}
