@@ -1,0 +1,27 @@
+{
+  "source_id": "7.5.42414",
+  "kind": "regulation",
+  "register_kind": "Kurum ve Kuruluş Yönetmelikleri",
+  "title": "TÜRKİYE BİNİCİLİK FEDERASYONU ANA STATÜSÜ",
+  "number": "42414",
+  "issuer_slug": "kurum-ve-kurulus",
+  "path": "regulation/kurum-ve-kurulus/2025/42414",
+  "source": "https://www.mevzuat.gov.tr/anasayfa/MevzuatFihristDetayIframe?MevzuatTur=7&MevzuatNo=42414&MevzuatTertip=5",
+  "source_sha256": "f06d65f2d065e85cfcb675ac12b4d30ba2efe378f36e1a156dc580ef95bddbe5",
+  "source_bytes": 153032,
+  "published": "2025-06-01",
+  "gazette": "32917",
+  "in_force": "2025-06-01",
+  "in_force_basis": "Resmî Gazete publication date in the official listing (01.06.2025)",
+  "history": "current-text",
+  "label": "oldest version available",
+  "checked_on": "2026-11-15",
+  "word_count": 10945,
+  "text_status": "current-consolidated",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  },
+  "completeness": "html-text-complete"
+}
