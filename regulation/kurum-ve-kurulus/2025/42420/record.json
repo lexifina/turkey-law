@@ -1,0 +1,27 @@
+{
+  "source_id": "7.5.42420",
+  "kind": "regulation",
+  "register_kind": "Kurum ve Kuruluş Yönetmelikleri",
+  "title": "TÜRKİYE TRİATLON FEDERASYONU ANA STATÜSÜ",
+  "number": "42420",
+  "issuer_slug": "kurum-ve-kurulus",
+  "path": "regulation/kurum-ve-kurulus/2025/42420",
+  "source": "https://www.mevzuat.gov.tr/anasayfa/MevzuatFihristDetayIframe?MevzuatTur=7&MevzuatNo=42420&MevzuatTertip=5",
+  "source_sha256": "28967619d6bbae53b181d135c7e71a861d8d2d67892e45b78ed82c42f032c0c1",
+  "source_bytes": 152851,
+  "published": "2025-06-01",
+  "gazette": "32917",
+  "in_force": "2025-06-01",
+  "in_force_basis": "Resmî Gazete publication date in the official listing (01.06.2025)",
+  "history": "current-text",
+  "label": "oldest version available",
+  "checked_on": "2026-11-15",
+  "word_count": 10936,
+  "text_status": "current-consolidated",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  },
+  "completeness": "html-text-complete"
+}
