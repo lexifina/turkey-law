@@ -1,0 +1,27 @@
+{
+  "source_id": "7.5.42415",
+  "kind": "regulation",
+  "register_kind": "Kurum ve Kuruluş Yönetmelikleri",
+  "title": "TÜRKİYE KÜREK FEDERASYONU ANA STATÜSÜ",
+  "number": "42415",
+  "issuer_slug": "kurum-ve-kurulus",
+  "path": "regulation/kurum-ve-kurulus/2025/42415",
+  "source": "https://www.mevzuat.gov.tr/anasayfa/MevzuatFihristDetayIframe?MevzuatTur=7&MevzuatNo=42415&MevzuatTertip=5",
+  "source_sha256": "9621d0da13618249f48bc5d10a0ec8407596a97dfdee004563ef5ee42df8992a",
+  "source_bytes": 153870,
+  "published": "2025-06-01",
+  "gazette": "32917",
+  "in_force": "2025-06-01",
+  "in_force_basis": "Resmî Gazete publication date in the official listing (01.06.2025)",
+  "history": "current-text",
+  "label": "oldest version available",
+  "checked_on": "2026-11-15",
+  "word_count": 10992,
+  "text_status": "current-consolidated",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  },
+  "completeness": "html-text-complete"
+}
