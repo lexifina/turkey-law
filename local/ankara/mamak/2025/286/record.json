@@ -1,0 +1,28 @@
+{
+  "number": "286",
+  "number_as_published": "286",
+  "year": 2025,
+  "title": "Destek Hizmetleri Müd. ve Afet İşleri Müd. Teşkilat, Kuruluş, Görev, Yetki, Sorumluluk ve Çalışma Esaslarına Dair Yönetmeliğine ilişkin Meclis Kararı",
+  "decision_date": "2025-06-02",
+  "source": "https://www.mamak.bel.tr/gundem/GetKararlar",
+  "official_document": "https://www.mamak.bel.tr/gundem/DosyaDownload?guid=46fd8c92-8359-4464-8ae1-2b40f8296f59",
+  "source_sha256": "f554089df68731558a37947c976f196303cdbdc5704c52cb6912834ca94730d3",
+  "issuer": "Mamak Belediye Meclisi",
+  "history_type": "metadata",
+  "text_status": "metadata-only: listing fields as published; complete decision text is in the linked official document, not transcribed",
+  "in_force": "2025-06-02",
+  "in_force_basis": "Decision date as printed in the official council listing: 2025-06-02T00:00:00 (kararTarihi of the official register); adoption date of the council decision; legal commencement not asserted",
+  "missing": [
+    "complete official decision text",
+    "official annexes"
+  ],
+  "law_text_complete": false,
+  "privacy_withheld": false,
+  "listing_page": "https://www.mamak.bel.tr/gundem/kararlar",
+  "register_api": "https://www.mamak.bel.tr/gundem/GetKararlar",
+  "official_documents": [
+    "https://www.mamak.bel.tr/gundem/DosyaDownload?guid=46fd8c92-8359-4464-8ae1-2b40f8296f59",
+    "https://www.mamak.bel.tr/gundem/DosyaDownload?guid=a4ca2661-b1c2-440f-a99f-4ed866f6ecea",
+    "https://www.mamak.bel.tr/gundem/DosyaDownload?guid=f2a892f2-8dbf-4d62-bc54-e5f888b9dcf5"
+  ]
+}
