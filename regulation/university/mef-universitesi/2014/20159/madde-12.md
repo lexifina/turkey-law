@@ -1,0 +1,9 @@
+DÖRDÜNCÜ BÖLÜM
+Kayıtlarla İlgili Esaslar
+Kayıt yenileme
+MADDE 12 – (1) Öğrenciler, her yıl güz ve bahar dönemi başında, akademik takvimde ilan edilen süreler içinde, ödemekle yükümlü oldukları dönem öğrenim ücretini ödeyerek ve Üniversiteye karşı varsa diğer yükümlülüklerini tamamlayarak kayıtlarını yenilemek zorundadırlar.
+(2) Süresi içinde kayıtlarını yenilemeyen öğrenciler, ilgili dönem derslerinin başlamasını izleyen ikinci haftanın son iş gününe kadar, mazeretlerinin Yabancı Diller Bölümü tarafından uygun görülmesi koşuluyla, gecikmeli olarak kayıtlarını yenileyebilirler. Gecikmeli olarak kayıt yenileyecek öğrencilerin, Üniversite tarafından belirlenebilecek ek yükümlülükleri yerine getirmeleri gerekir.
+(3) Kayıtlarını yenilemeyen öğrenciler, kayıtsız öğrenci statüsüne geçerler. Kayıtsız öğrenciler, kayıtsız kaldıkları süreler içinde derslere ve sınavlara katılamaz, derslerden not alamaz ve diğer öğrencilik haklarından yararlanamaz. Kayıtsız öğrenci statüsünde geçirilen süreler öğrenim süresine dâhil edilir.
+(4) Kayıtsız öğrenciler, İngilizce Hazırlık Programında derslere devam etmek için tekrar başvuramazlar. Kayıtsız öğrenciler, ilan edilen başvuru süresi içinde başvurmak ve Üniversite tarafından belirlenen sınav ücretini ödemek koşuluyla düzenlenen İngilizce (Değişik ibare:RG-2/6/2025-32918) Yeterlilik Sınavlarına girebilirler.
+(5) Kayıtsız öğrenciler, herhangi bir dönem, dersler başlamadan önce, İngilizce (Değişik ibare:RG-2/6/2025-32918) Yeterlilik Sınavında başarılı olarak veya bu Yönetmeliğin 11 inci maddesinde belirtilen sınavlarda belirlenen düzeyde başarılı olduklarını belgeleyerek Öğrenci İşleri Direktörlüğüne başvurdukları takdirde, kabul edildikleri lisans programında öğrenimlerine başlarlar.
+(6) Kayıtsız öğrenci statüsüne geçtikten sonra lisans diploma programlarında öğrenime başlayan öğrenciler, yeni öğrenciler için geçerli öğrenim ücretlerini öderler ve Üniversiteye girişte hak kazandıkları burslardan yararlanamazlar.

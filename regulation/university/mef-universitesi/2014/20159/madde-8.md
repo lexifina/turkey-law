@@ -1,0 +1,2 @@
+Yaz okulu
+MADDE 8 – (1) Öğrenciler yaz okulunda sadece bir düzeyde ders alabilirler. Yaz okulunda açılacak düzeyler, Yabancı Diller Bölümü tarafından belirlenir. Yaz okuluna, İngilizce Hazırlık Programında derslere kayıtlı olarak öğrenime devam eden Üniversite öğrencileri katılabilir. Yaz okulu öğrenim ücreti, öğrencinin ödemekle yükümlü olduğu dönem öğrenim ücretinin yarısıdır. (Ek cümle:RG-2/6/2025-32918) 1 inci düzeyden 4 üncü düzeye kadar tekrarsız başarılı olan öğrenciler yaz okulunda fakülte hazırlık düzeyini ücretsiz olarak alırlar.

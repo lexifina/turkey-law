@@ -1,0 +1,31 @@
+{
+  "act_path": "regulation/university/mef-universitesi/2014/20159",
+  "availability": "text",
+  "checked_on": "2026-11-14",
+  "commencement_clauses": [
+    "MADDE 27 – (1) Bu Yönetmelik yayımı tarihinde yürürlüğe girer."
+  ],
+  "date_quote": "RG-2/6/2025",
+  "first_law": null,
+  "gazette": "29152",
+  "history": "current-text",
+  "images": {
+    "deferred": 0,
+    "omitted": 0,
+    "referenced": 0,
+    "source": 0
+  },
+  "in_force": "2025-06-02",
+  "in_force_basis": "latest source-printed amendment Gazette date; current consolidated text",
+  "issuer": "MEF Üniversitesi",
+  "issuer_slug": "mef-universitesi",
+  "kind": "regulation",
+  "published": "2014-10-21",
+  "source": "https://www.mevzuat.gov.tr/anasayfa/MevzuatFihristDetayIframe?MevzuatTur=8&MevzuatNo=20159&MevzuatTertip=5",
+  "source_id": "8.5.20159",
+  "source_sha256": "49ed884eb966c62e2c9038f741b65c9fb1c68a77ab883702de34fba1315f897f",
+  "title": "MEF ÜNİVERSİTESİ İNGİLİZCE HAZIRLIK PROGRAMI EĞİTİM-ÖĞRETİM VE SINAV YÖNETMELİĞİ",
+  "university_id": 426,
+  "version_label": "oldest version available",
+  "word_count": 1684
+}
