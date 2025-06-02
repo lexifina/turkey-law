@@ -1,0 +1,22 @@
+{
+  "kind": "norm",
+  "issuer": "Gelir İdaresi Başkanlığı",
+  "document_type": "ozelge",
+  "number": "E-27575268-105[Mük.298-2025-449]-308257",
+  "source_id": 38857,
+  "date": "2025-06-02",
+  "title": "Öz Sermaye Kalemlerine Ait Enflasyon Farklarının Dönem Zararına Mahsup Edilmesi, Geçmiş Yıllar Karları Hesabına Alınması ve Kar Dağıtımına Konu Edilmesi Halinde Vergilendirme hk.",
+  "source": "https://gib.gov.tr/mevzuat/kanun/434/ozelge/38857",
+  "related_law": "213 sayılı VERGİ USUL KANUNU",
+  "source_api": "https://gib.gov.tr/api/gibportal/mevzuat/ozelge/list",
+  "source_listing": "evidence/list/2026-11-16/ozelge-p009.json",
+  "source_listing_sha256": "9cb52b4963a9a177a23948f6e28c12936c2f43c88a0b410872bb81c01983667c",
+  "source_sha256": "f787f4ea950bdd4cbf9bb78a336b55a4be3b7f2e9e0d088fb6a8483296ca33d1",
+  "text_status": "as-enacted",
+  "text_file": "metin.md",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  }
+}
