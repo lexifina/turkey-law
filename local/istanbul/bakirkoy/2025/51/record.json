@@ -1,0 +1,23 @@
+{
+  "number": "51",
+  "number_as_published": "51",
+  "year": 2025,
+  "title": "Memur boş kadro değişikliği.",
+  "decision_date": "2025-06-02",
+  "source": "https://www.bakirkoy.bel.tr/meclis-kararlari/7",
+  "official_document": "https://www.bakirkoy.bel.tr/storage/app/media/meclis%20kararlar%C4%B1/51-insan-kaynaklari-ve-egitim-mud-bos-kadro-degisikligi-02062025.pdf",
+  "source_sha256": "dbaf2cfb3733c19f17711c59bf491f1709747493e96e737021fe2dd5df841468",
+  "issuer": "Bakırköy Belediye Meclisi",
+  "history_type": "metadata",
+  "text_status": "metadata-only: listing fields as published; complete decision text is in the linked official document, not transcribed",
+  "in_force": "2025-06-02",
+  "in_force_basis": "Decision date as printed in the official council listing: 02 Haziran 2025 (Tarih column of the official list); adoption date of the council decision; legal commencement not asserted",
+  "missing": [
+    "complete official decision text",
+    "official annexes"
+  ],
+  "law_text_complete": false,
+  "privacy_withheld": false,
+  "record_scope": "one council decision (number, date and summary as listed; the decision is the linked official PDF)",
+  "official_page": "https://www.bakirkoy.bel.tr/meclis-kararlari"
+}
