@@ -1,0 +1,2 @@
+Dayanak
+MADDE 3 – (1) Bu Yönetmelik, 9/11/2016 tarihli ve 6756 sayılı Olağanüstü Hal Kapsamında Bazı Tedbirler Alınması ve Milli Savunma Üniversitesi Kurulması ile Bazı Kanunlarda Değişiklik Yapılmasına Dair Kanun Hükmünde Kararnamenin Değiştirilerek Kabul Edilmesi Hakkında Kanun, 11/5/2000 tarihli ve 4566 sayılı Harp Okulları Kanunu ve 27/7/1967 tarihli ve 926 sayılı Türk Silahlı Kuvvetleri Personel Kanunu ve 11/4/2002 tarihli ve 4752 sayılı Astsubay Meslek Yüksek Okulları Kanununa dayanılarak hazırlanmıştır.

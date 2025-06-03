@@ -1,0 +1,7 @@
+İKİNCİ BÖLÜM
+Öğretim Elemanlarının Seçimi, Atanması ve Yükseltilmesi
+Öğretim elemanlarının seçimi ve atanması
+MADDE 5 – (1) Öğretim elemanlarının seçim ve atamaları; ilgili akademik birimin ihtiyaç durumu dikkate alınarak yapılır.
+(2) Asker öğretim elemanlarının seçim ve atamaları; akademik birimlerin ihtiyaç durumunun yanında, Türk Silahlı Kuvvetlerinde bu ihtiyaca cevap verecek uygun personelin mevcudu dikkate alınarak, bu Yönetmelikte belirlenen esaslara, yürürlükteki atama usul ve esaslarına ve Kuvvet Komutanlıklarınca yayımlanacak öğretim elemanı yetiştirme plan/programına uygun olarak yapılır.
+(3) (Değişik ibare:RG-20/12/2018-30631) Doktor öğretim üyeliği, doçentlik ve profesörlüğe atanabilmek için 14/7/1965 tarihli ve 657 sayılı Devlet Memurları Kanunun 48 inci maddesindeki genel şartlara sahip olmak gerekir. (Mülga ibare:RG-10/9/2020-31240) (…) 2547 sayılı Kanunun yabancı uyruklu öğretim elemanları hakkındaki 34 üncü madde hükmü saklıdır.
+(4) (Değişik:RG-27/11/2023-32382) Açıktan ve dış kaynaktan başvuran sivil öğretim elemanlarının Üniversite kadrolarında çalıştırılabilmesi için, haklarında 7/4/2021 tarihli ve 7315 sayılı Güvenlik Soruşturması ve Arşiv Araştırması Kanunu ile 2/6/2022 tarihli ve 5649 sayılı Cumhurbaşkanı Kararı ile yürürlüğe konulan Güvenlik Soruşturması ve Arşiv Araştırması Yapılmasına Dair Yönetmelik hükümlerine göre güvenlik soruşturması ve arşiv araştırmasının yapılmış olması gereklidir.

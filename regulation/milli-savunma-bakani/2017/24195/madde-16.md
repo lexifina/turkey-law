@@ -1,0 +1,6 @@
+Yurt içinde ve yurt dışında görevlendirme
+MADDE 16 – (1) Öğretim elemanlarının yolluklu veya yolluk olmaksızın yurt içinde ve yurt dışında kongre, konferans, seminer ve benzeri bilimsel toplantılarla bilim ve meslekleri ile ilgili diğer toplantılara katılmaları, yurt içinde araştırma ve inceleme görevleri yapmaları, Rektörün onayına tabidir. Ancak yurt dışı araştırma ve inceleme görevlerine Rektörün teklifi üzerine Bakan onayıyla katılım sağlanabilir. Yurt içinde yapılacak bilimsel toplantılara katılmak üzere öğretim elemanlarınca yapılan 5 iş gününe kadar yolluksuz izin taleplerine, ilgili akademik birim yöneticisi izin verir. Bu süreyi geçen izin taleplerinde Rektör onayı gereklidir.
+(2) Yurt içi ve yurt dışında görevlendirilecek öğretim üyelerine 10/2/1954 tarihli ve 6245 sayılı Harcırah Kanunu hükümlerine göre harcırah ödenir.
+(3) Yurt dışında bu maksatla görevlendirilen öğretim elemanlarına yabancı kuruluşlardan burs veya benzeri katkı sağlanmışsa bile, bunlar görev yapacakları sürece maaşlı izinli sayılırlar.
+(4) Dış ülkede kalınacak sürenin uzatılması, Rektörün teklifi üzerine Bakan onayına bağlıdır.
+(5) Akademik birimler, Rektörlüğün teklifi üzerine Bakanlık onayıyla yurt dışındaki üniversiteler ve muadil yükseköğretim kurumlarıyla öğretim üyesi değişim programları gerçekleştirebilirler.
