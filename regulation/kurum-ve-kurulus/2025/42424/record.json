@@ -1,0 +1,27 @@
+{
+  "source_id": "7.5.42424",
+  "kind": "regulation",
+  "register_kind": "Kurum ve Kuruluş Yönetmelikleri",
+  "title": "TÜRKİYE HALTER FEDERASYONU ANA STATÜSÜ",
+  "number": "42424",
+  "issuer_slug": "kurum-ve-kurulus",
+  "path": "regulation/kurum-ve-kurulus/2025/42424",
+  "source": "https://www.mevzuat.gov.tr/anasayfa/MevzuatFihristDetayIframe?MevzuatTur=7&MevzuatNo=42424&MevzuatTertip=5",
+  "source_sha256": "9cb4ac691e92437750e08ca414305ef9bd5a416c77a0381bcc0c9eec174a08fa",
+  "source_bytes": 170976,
+  "published": "2025-06-03",
+  "gazette": "32919",
+  "in_force": "2025-06-03",
+  "in_force_basis": "Resmî Gazete publication date in the official listing (03.06.2025)",
+  "history": "current-text",
+  "label": "oldest version available",
+  "checked_on": "2026-11-15",
+  "word_count": 10864,
+  "text_status": "current-consolidated",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  },
+  "completeness": "html-text-complete"
+}
