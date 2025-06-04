@@ -1,0 +1,22 @@
+{
+  "kind": "norm",
+  "issuer": "Gelir İdaresi Başkanlığı",
+  "document_type": "ozelge",
+  "number": "67854564-105[1741/6698]-….",
+  "source_id": 38712,
+  "date": "2025-06-04",
+  "title": "Tüzel kişiliği bulunmayan kooperatif iktisadi işletmesi hk.",
+  "source": "https://gib.gov.tr/mevzuat/kanun/433/ozelge/38712",
+  "related_law": "193 sayılı GELİR VERGİSİ KANUNU",
+  "source_api": "https://gib.gov.tr/api/gibportal/mevzuat/ozelge/list",
+  "source_listing": "evidence/list/2026-11-16/ozelge-p009.json",
+  "source_listing_sha256": "9cb52b4963a9a177a23948f6e28c12936c2f43c88a0b410872bb81c01983667c",
+  "source_sha256": "5da9d04f87760431c02cefa023349c9283dfc32cdd208253b197b0f35a03852f",
+  "text_status": "as-enacted",
+  "text_file": "metin.md",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  }
+}
