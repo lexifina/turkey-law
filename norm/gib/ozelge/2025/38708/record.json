@@ -1,0 +1,22 @@
+{
+  "kind": "norm",
+  "issuer": "Gelir İdaresi Başkanlığı",
+  "document_type": "ozelge",
+  "number": "E-31315688-140.09.04[2025]-17856",
+  "source_id": 38708,
+  "date": "2025-06-04",
+  "title": "….. Köylere Hizmet Götürme Birliği Hizmetinde Kullanılan Araçların Geçici Trafik Yol Belgesi Harcından Muaf Olup Olmadığı Hk.",
+  "source": "https://gib.gov.tr/mevzuat/kanun/439/ozelge/38708",
+  "related_law": "492 sayılı HARÇLAR KANUNU",
+  "source_api": "https://gib.gov.tr/api/gibportal/mevzuat/ozelge/list",
+  "source_listing": "evidence/list/2026-11-16/ozelge-p009.json",
+  "source_listing_sha256": "9cb52b4963a9a177a23948f6e28c12936c2f43c88a0b410872bb81c01983667c",
+  "source_sha256": "650dd0f5c15f93fdf3336034a1721b95cf5e00ef9d04eeab4874bfc6c2632e50",
+  "text_status": "as-enacted",
+  "text_file": "metin.md",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  }
+}
