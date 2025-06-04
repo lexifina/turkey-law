@@ -1,0 +1,3 @@
+Öğretim elemanları ile idari personelin hak ve yükümlülükleri
+MADDE 21 – (1) Enstitü Müdürü ile Enstitüde görevli öğretim elemanları, akademik unvanlarının korunması, emeklilik yaş haddi ve diğer hakları yönünden 2547 sayılı Kanuna tabi öğretim üyelerine tanınan haklara ilaveten harp okullarında görevli öğretim elemanlarının haklarından aynen istifade ederler. Sivil öğretim elemanlarının özlük hakları, 6756 sayılı Kanun, 2547 sayılı Kanun ile 11/10/1983 tarihli ve 2914 sayılı Yükseköğretim Personel Kanunu hükümlerine göre verilir.
+(2) İdari personelin hak ve yükümlülükleri, 926 sayılı Kanun ile 23/7/1965 tarihli ve 657 sayılı Devlet Memurları Kanununa göre düzenlenir.

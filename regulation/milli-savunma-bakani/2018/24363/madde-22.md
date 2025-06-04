@@ -1,0 +1,5 @@
+Yöneticilerle ilgili ortak hükümler
+MADDE 22 – (1) Gerektiğinde, bir kişiye birden fazla yöneticilik görevi, Rektörün onayı ile verilebilir.
+(2) Enstitü Müdürü gerekli gördüğü hallerde değişik eğitim-öğretim birimlerinin koordinatörlüğünü yapar. Enstitüde yeterli sayıda kadrolu öğretim elemanı bulunmaması durumunda Enstitü Müdürü kendi akademik uzmanlık alanı dışında kalan ana bilim dalı başkanlıkları görevlerini vekâleten yürütebilir.
+(3) (Değişik:RG-20/12/2018-30631) Enstitü Anabilim Dalı Başkanlığı görevinde bir doçentin bulunması halinde bir profesörün, bir doktor öğretim üyesinin bulunması halinde profesör veya doçentin, bir öğretim görevlisinin bulunması halinde ise bir öğretim üyesinin aynı birimde görevlendirilmesi ile başkanlık görevi sona erer. Boşalan başkanlık görevine usulüne göre yeni başkan atanır. Aynı zamanda birim başkanı olan doktor öğretim üyesi veya öğretim görevlisinin başkanlık görevi, görev süresinin bitiminde sona erer.
+(4) Enstitü Anabilim Dalı Başkanı görevi başında bulunamayacağı süreler için yardımcısı veya öğretim elemanlarından birini vekâleten görevlendirir.
