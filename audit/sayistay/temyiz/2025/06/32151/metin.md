@@ -1,0 +1,11 @@
+Konu: Fiili metrajı aşan tutarda ödeme yapılması.
+
+2-151 sayılı İlamın 1/B’inci maddesi ile, Özel-4 poz no.lu “Su Altında Kayada Foraj Yapılması” iş kaleminin bedelinin ödenmesinde fore kazık föylerinde belirtilen metrajlarından daha fazla metrajdan ödeme yapılması sonucu oluşan … TL kamu zararı iddiası hakkında, (KDV istisnası olan işte ödenmeyen KDV nedeniyle) kamu zararı oluşturmayan … TL’si için ilişilecek husus bulunmadığına, kalan … TL kamu zararının ise sorumlularından tazminine karar verilmiştir.
+
+Temyize konu ilam maddesinde, işe ait geçici hakkedişler (9 ve 10 no.lu hakkedişler) ile Özel-4 pozu kapsamında ödemeye esas bazı foraj miktarlarının kazık föylerinde belirtilen miktarlardan fazla olması sonucu oluşan … TL kamu zararının tazminine karar verilmiş olup, sorumlular temyiz dilekçelerinde ara hakkedişlere hatalı girilen foraj miktarlarının kesin hakkediş raporunda düzeltildiği, eksiltilen miktarın fiyat farkının son ay üzerinden hesaplandığı, kesin hakkediş raporunun … Genel Müdürlüğünün 28.09.2022 tarih ve E-99500141-755.07.01-664092 sayılı yazısı ile onaylanarak ödemesinin yapıldığı, kamu zararının kesin hakkediş ile ortadan kaldırıldığı belirtilerek kesin hakedişe ekli kesin metraj cetvelleri, yapılan işler listesi, kesin hakkediş özeti, tahakkuk evrakı ve ödeme emri belgesi ilgili sayfaları dilekçe ekinde sunulmuştur.
+
+Temyiz dilekçeleri ve eklerinin incelenmesinde; Özel-4 pozu kapsamında ara hakkedişlerle fazla ödenen 164,57 m. foraj miktarının işe ait kesin hakkediş raporunda kesin metrajlardan minha edildiği, minha edilen miktara denk gelen tutarın da kesin hakedişe esas fiyat farkı katsayısı ile fiyat farkı hesap edilerek fiyat farkı ile birlikte yüklenici hakkedişinden kesinti yapılmak suretiyle 06.10.2022 tarihli ve HYS-2022-35297487 sayılı ödeme emri belgesi ile tahsil edildiği görülmüştür. Bu durumda kamu zararına ilişkin tahsilatın Daire’nin hüküm tarihinden (25.05.2023’den) önce yapıldığı anlaşılmaktadır.
+
+Bu itibarla; Dairenin yargılama esnasında kamu zararının tahsil edildiği hususunu dikkate almadan tazmin hükmü kurduğu görüldüğünden, 151 sayılı İlamın 1/B maddesi ile verilen … TL’lik tazmin hükmü BOZULARAK, yeni bir hüküm tesisi için DOSYANIN DAİRESİNE GÖNDERİLMESİNE, oy birliğiyle,
+
+Karar verildiği 04.06.2025 tarih ve 58063 sayılı tutanakta yazılı olmakla işbu ilam tanzim kılındı.
