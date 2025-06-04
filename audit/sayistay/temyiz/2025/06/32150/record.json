@@ -1,0 +1,16 @@
+{
+  "kind": "decision",
+  "issuer": "Sayıştay Temyiz Kurulu",
+  "number": "58063",
+  "decision_date": "2025-06-04",
+  "source_id": 32150,
+  "chamber": "1",
+  "file_number": "53882",
+  "public_body_type": "Genel Bütçe Kapsamındaki İdareler",
+  "account_year": "2021",
+  "subject": "İhale Mevzuatı ile İlgili Kararlar",
+  "source": "https://www.sayistay.gov.tr/KararlarTemyiz/Detay/32150/",
+  "source_sha256": "43f57cb2223b16df941f96dc4050c85d80e34d3b415eae6ab489ac19d6061680",
+  "text_status": "metadata-only",
+  "metadata_only_reason": "possible personal name in the official text"
+}
