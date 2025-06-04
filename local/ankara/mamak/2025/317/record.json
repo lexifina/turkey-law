@@ -1,0 +1,30 @@
+{
+  "number": "317",
+  "number_as_published": "317",
+  "year": 2025,
+  "title": "Belediyemizce mahallelerimizde bulunan muhtarlık binalarımıza yönelik yapılan yatırım çalışmalarına ilişkin Meclis Kararı",
+  "decision_date": "2025-06-04",
+  "source": "https://www.mamak.bel.tr/gundem/GetKararlar",
+  "official_document": "https://www.mamak.bel.tr/gundem/DosyaDownload?guid=09d4556f-59ff-4b39-b917-2b7cd4e71e8e",
+  "source_sha256": "f554089df68731558a37947c976f196303cdbdc5704c52cb6912834ca94730d3",
+  "issuer": "Mamak Belediye Meclisi",
+  "history_type": "metadata",
+  "text_status": "metadata-only: listing fields as published; complete decision text is in the linked official document, not transcribed",
+  "in_force": "2025-06-04",
+  "in_force_basis": "Decision date as printed in the official council listing: 2025-06-04T00:00:00 (kararTarihi of the official register); adoption date of the council decision; legal commencement not asserted",
+  "missing": [
+    "complete official decision text",
+    "official annexes"
+  ],
+  "law_text_complete": false,
+  "privacy_withheld": false,
+  "listing_page": "https://www.mamak.bel.tr/gundem/kararlar",
+  "register_api": "https://www.mamak.bel.tr/gundem/GetKararlar",
+  "official_documents": [
+    "https://www.mamak.bel.tr/gundem/DosyaDownload?guid=09d4556f-59ff-4b39-b917-2b7cd4e71e8e",
+    "https://www.mamak.bel.tr/gundem/DosyaDownload?guid=6b6da3d0-074a-4d6c-ba7c-79fafd480428",
+    "https://www.mamak.bel.tr/gundem/DosyaDownload?guid=713e7228-c081-4fe2-8043-aa34ef4131b7",
+    "https://www.mamak.bel.tr/gundem/DosyaDownload?guid=03bd2f7c-ac66-4f4d-a947-432855a503bf",
+    "https://www.mamak.bel.tr/gundem/DosyaDownload?guid=9f7969c2-7abe-4c55-9864-38191ef2fcdb"
+  ]
+}
