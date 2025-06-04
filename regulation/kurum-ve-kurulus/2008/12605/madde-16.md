@@ -1,0 +1,2 @@
+İşçiye yapılan ödemelerin bankalar aracılığıyla yapılmaması hâlinde uygulanacak idarî para cezası
+MADDE 16 – (1) İşçiye, İş Kanunundan veya toplu iş sözleşmesinden veyahut iş sözleşmesinden doğan alacaklarını, bu Yönetmelik kapsamında zorunlu tutulduğu hâlde bankalar aracılığıyla ödemeyen işverene veya işveren vekiline veyahut üçüncü kişiye, İş Kanununun 102 nci maddesinin birinci fıkrasının (a) bendi uyarınca, Çalışma ve Sosyal Güvenlik Bakanlığının ilgili birimi tarafından idarî para cezası verilir.

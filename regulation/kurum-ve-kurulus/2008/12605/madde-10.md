@@ -1,0 +1,2 @@
+İş Kanununa tabi olarak çalışan işçiye yapılan ödemeler
+MADDE 10 – (1) İşyerleri ve işletmelerinde İş Kanunu hükümlerinin uygulandığı işverenler ile üçüncü kişiler, Türkiye genelinde çalıştırdıkları işçi sayısının (Değişik ibare:RG-4/6/2025-32920)(2) en az üç olması halinde, çalıştırdıkları işçiye o ay içinde yapacakları her türlü ödemenin kanunî kesintiler düşüldükten sonra kalan net tutarını, bankalar aracılığıyla ödemekle yükümlüdürler.

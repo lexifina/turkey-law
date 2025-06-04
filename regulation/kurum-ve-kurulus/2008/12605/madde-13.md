@@ -1,0 +1,2 @@
+Ödemelerin brüt olarak hesaba yatırılma zorunluluğunun getirilmesi
+MADDE 13 – (1) Bu Yönetmelikte belirtilen işverenleri veya işveren vekillerini veyahut üçüncü kişileri, yapacakları ödemeleri bankalar nezdinde açılacak hesaplara brüt olarak yatırmaları hususunda zorunlu tutmaya Çalışma ve Sosyal Güvenlik Bakanlığı, Maliye Bakanlığı ile Hazine Müsteşarlığının bağlı olduğu Bakanlık müştereken yetkilidir.

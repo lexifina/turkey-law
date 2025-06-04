@@ -1,0 +1,2 @@
+Gemi adamına yapılan ödemelerin bankalar aracılığıyla yapılmaması hâlinde uygulanacak idarî para cezası
+MADDE 15 – (1) Bu Yönetmelik kapsamında zorunlu tutulduğu hâlde gemi adamına yapılan ödemeleri bankalar aracılığıyla yapmayan işverene veya işveren vekiline, Deniz İş Kanununun 51 inci maddesinin ikinci fıkrası uyarınca, Çalışma ve Sosyal Güvenlik Bakanlığının geminin bağlama limanının bulunduğu yer ilgili birimince idarî para cezası verilir.

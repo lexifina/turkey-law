@@ -1,0 +1,2 @@
+Deniz İş Kanununa tabi olarak çalışan gemi adamına yapılan ödemeler
+MADDE 8 – (1) Deniz İş Kanununa tabi olarak Türkiye genelinde (Değişik ibare:RG-4/6/2025-32920)(2) en az üç gemi adamı çalıştıran işverenler veya işveren vekilleri, çalıştırdıkları gemi adamına, o ay içinde yapacakları her türlü ödemenin kanunî kesintiler düşüldükten sonra kalan net tutarını, bankalar aracılığıyla ödemekle yükümlüdürler.
