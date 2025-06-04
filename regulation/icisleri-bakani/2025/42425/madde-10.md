@@ -1,0 +1,4 @@
+Durum bildirir ve dilim belirtir sağlık raporlarının Başkanlıkça görevlendirilecek olan hekim veya hekimler tarafından incelenmesi
+MADDE 10- (1) Personele ait durum bildirir ve dilim belirtir sağlık kurulu raporları ve diğer belgeler, Başkanlıkça görevlendirilecek olan hekim veya hekimler tarafından bu Yönetmelik hükümlerine göre değerlendirilir. Yapılacak bu değerlendirmeye göre;
+a) A, B ve C dilimi sağlık şartlarını taşıdıkları tespit edilen personel aktif görevlerde çalışmaya devam eder ve bu personel hakkında “aktif görevlerde çalışmaya devam eder” kararı verilir.
+b) D dilimi sağlık şartlarını taşıdıkları tespit edilen personel aktif görevlerde çalışmaya devam edemez. Bu personelin aktif olmayan görevlerde çalışıp çalışamayacağı değerlendirilir. Bu personel hakkında “aktif görevlerde çalışamaz, aktif olmayan görevlerde çalışır” veya “aktif görevlerde ve aktif olmayan görevlerde çalışamaz” kararı verilir.

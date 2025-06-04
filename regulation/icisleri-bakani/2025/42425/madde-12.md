@@ -1,0 +1,4 @@
+DÖRDÜNCÜ BÖLÜM
+Çeşitli ve Son Hükümler
+Sağlık kurulu raporlarında hastalık dilimine uymayan vakaların değerlendirilmesi
+MADDE 12- (1) Giriş sağlık raporu veya durum bildirir ve dilim belirtir sağlık kurulu raporu düzenlenmesi aşamasında; kişinin hastalığı ile mevcut sağlık durumu, hastalık branşlarının sınıflandırılmasındaki dilimlerden hiçbirine uymadığında, sınır vakalarda, hastalığın seyri ve derinliği dikkate alınarak, kişinin mevcut durumuna göre uygun olabilecek en yakın dilime, muayeneyi yapan, hastanın sonuçlarını değerlendiren tam teşekküllü hastane ilgili uzman doktoru ve sağlık kurulu doktorları karar verir. Sağlık kurulu bu kararı, kişinin yapacağı görevi bilerek ve değerlendirerek verir. Tam teşekküllü hastane sağlık kurulunun uygun gördüğü dilim ve karara göre Başkanlıkça gereken işlem yapılır.

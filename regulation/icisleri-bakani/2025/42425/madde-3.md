@@ -1,0 +1,2 @@
+Dayanak
+MADDE 3- (1) Bu Yönetmelik; 29/5/2009 tarihli ve 5902 sayılı Afet ve Acil Durum Yönetimi Başkanlığı ile İlgili Bazı Düzenlemeler Hakkında Kanunun ek 1 inci maddesine, 14/7/1965 tarihli ve 657 sayılı Devlet Memurları Kanununun 48 inci maddesinin birinci fıkrasının (B) bendinin (2) numaralı alt bendine ve 6/6/1978 tarihli ve 7/15754 sayılı Bakanlar Kurulu Kararı ile yürürlüğe konulan Sözleşmeli Personel Çalıştırılmasına İlişkin Esasların 12 nci maddesine dayanılarak hazırlanmıştır.
