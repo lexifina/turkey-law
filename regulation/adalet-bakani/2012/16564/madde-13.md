@@ -1,0 +1,5 @@
+Yeniden açık kuruma ayrılma
+MADDE 13 – (Değişik:RG-22/8/2015-29453)
+(1) (Değişik:RG-22/2/2017-29987) Açık kurumda cezası infaz edilmekte iken; firar suçu hariç kınama dışında disiplin cezası verilmek suretiyle kapalı kuruma iade edilenler disiplin cezasının kaldırılma tarihinden itibaren, Yönetmelikte aranan diğer şartlara uyduğu takdirde açık kuruma ayrılabilir.
+(2) (Değişik:RG-22/2/2017-29987) Açık kurumda cezası infaz edilmekte iken ilk kez firar edip yakalanan ve hücreye koyma disiplin cezası verilmek suretiyle kapalı kuruma iade edilen hükümlüler, disiplin cezasının kaldırılmasından itibaren Yönetmelikte aranan diğer şartlara uyduğu ve bir daha firar etmeyeceği değerlendirildiği takdirde açık kuruma ayrılabilir. Açık kurumdan ikinci kez firar eden hükümlüler hakkında ise bu Yönetmeliğin 8 inci maddesinin ikinci fıkrasının (c) bendi hükmü uygulanır.
+(3) Yaş, sağlık durumu, bedensel veya zihinsel yetenekleri bakımından veya güvenlik nedeniyle kapalı kuruma gönderilen hükümlüler, altı aylık süre geçtikten sonra şartları uyması halinde yeniden açık kuruma ayrılabilir.

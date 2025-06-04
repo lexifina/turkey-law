@@ -1,0 +1,2 @@
+GEÇİCİ MADDE 1 – (Ek:RG-7/9/2016-29824)
+5275 sayılı Kanunun Geçici 6 ncı maddesi gereğince istisna tutulan suçlardan hükümlü olanlar hariç olmak üzere, 1/7/2016 tarihine kadar işlenen suçlar bakımından, beş yıldan az hapis cezasının infazı için kapalı ceza infaz kurumuna alınan hükümlüler, en geç üç gün içerisinde yapılacak ilk gözlem sonucu iyi halli oldukları tespit edildiği takdirde bu Yönetmeliğin 10 ncu maddesine göre açık kuruma ayrılabilir.

@@ -1,0 +1,2 @@
+Çocuk eğitimevinden açık kuruma ayrılacak hükümlüler
+MADDE 7 – (1) Çocuk eğitimevinde cezası infaz edildiği sırada eğitime devam etmeyenler on sekiz yaşını bitirdiklerinde, eğitime devam edenler ise yirmi bir yaşını bitirdiklerinde suç türüne bakılmaksızın açık kuruma gönderilir. (Ek cümle:RG-22/8/2015-29453) Açık kuruma gönderilenlerin on sekiz yaşını doldurmadan önce işlediği diğer suçların cezaları da açık kurumlarda infaz edilir.

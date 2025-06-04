@@ -1,0 +1,93 @@
+{
+  "source_id": "7.5.16564",
+  "kind": "regulation",
+  "register_kind": "Kurum ve Kuruluş Yönetmelikleri",
+  "title": "AÇIK CEZA İNFAZ KURUMLARINA AYRILMA YÖNETMELİĞİ",
+  "number": "16564",
+  "issuer": "Adalet Bakanı",
+  "issuer_slug": "adalet-bakani",
+  "path": "regulation/adalet-bakani/2012/16564",
+  "source": "https://www.mevzuat.gov.tr/anasayfa/MevzuatFihristDetayIframe?MevzuatTur=7&MevzuatNo=16564&MevzuatTertip=5",
+  "source_sha256": "c91e5db8a4aadaa6c8a9996eb8900ecb17809390cd31c570f9835f49fd400a64",
+  "source_bytes": 55598,
+  "published": "2012-09-02",
+  "gazette": "28399",
+  "in_force": "2025-06-04",
+  "in_force_basis": "latest Resmî Gazete date printed in the source amendment notes/table (\"RG-4/6/2025\") for the current consolidated text",
+  "date_evidence": [
+    [
+      "2025-06-04",
+      "RG-4/6/2025",
+      "Resmî Gazete date printed in the source amendment note"
+    ],
+    [
+      "2025-06-04",
+      "4/6/2025",
+      "Resmî Gazete date in the source amendment table"
+    ],
+    [
+      "2019-04-11",
+      "RG-11/4/2019",
+      "Resmî Gazete date printed in the source amendment note"
+    ],
+    [
+      "2019-04-11",
+      "11/4/2019",
+      "Resmî Gazete date in the source amendment table"
+    ],
+    [
+      "2017-02-22",
+      "RG-22/2/2017",
+      "Resmî Gazete date printed in the source amendment note"
+    ],
+    [
+      "2017-02-22",
+      "22/2/2017",
+      "Resmî Gazete date in the source amendment table"
+    ],
+    [
+      "2016-09-07",
+      "RG-7/9/2016",
+      "Resmî Gazete date printed in the source amendment note"
+    ],
+    [
+      "2016-09-07",
+      "7/9/2016",
+      "Resmî Gazete date in the source amendment table"
+    ],
+    [
+      "2016-08-18",
+      "RG-18/8/2016",
+      "Resmî Gazete date printed in the source amendment note"
+    ],
+    [
+      "2016-08-18",
+      "18/8/2016",
+      "Resmî Gazete date in the source amendment table"
+    ],
+    [
+      "2015-08-22",
+      "RG-22/8/2015",
+      "Resmî Gazete date printed in the source amendment note"
+    ],
+    [
+      "2015-08-22",
+      "22/8/2015",
+      "Resmî Gazete date in the source amendment table"
+    ]
+  ],
+  "commencement_clauses": [
+    "Bu Yönetmelik yayımı tarihinde yürürlüğe girer"
+  ],
+  "history": "current-text",
+  "label": "oldest version available",
+  "checked_on": "2026-11-15",
+  "word_count": 2365,
+  "text_status": "current-consolidated",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  },
+  "completeness": "html-text-complete"
+}
