@@ -1,0 +1,2 @@
+Millî Savunma ve Güvenlik Eğitimine katılmama ve çıkarılma esasları
+MADDE 55- (1) Millî Savunma ve Güvenlik Eğitimi görmekte olan asker ve sivil kişilerden, öğrenimleri esnasında giriş ve kabul şartlarını taşımadıkları sonradan tespit edilenler ile bu şartları sonradan kaybedenlerin, Alparslan Savunma Bilimleri ve Millî Güvenlik Enstitüsü Yönetim Kurulunun teklifi ve Üniversite Yönetim Kurulunun kararı üzerine Enstitüden ilişikleri kesilir.

@@ -1,0 +1,3 @@
+Millî Savunma ve Güvenlik Eğitimine katılacak kursiyerlerin seçilmesi
+MADDE 52- (1) Millî Savunma Bakanlığı kadro ve kuruluşunda yer alan kurumlarda görevli personelin seçimi Bakanlıkça belirlenir.
+(2) Diğer personelin seçimine ilişkin Bakanlıkça her yıl ilgili bakanlıklar, kurum ve kuruluşlar ile eğitime katılacak aday medya mensupları için Cumhurbaşkanlığı İletişim Başkanlığından, özel sektör temsilcileri için Türkiye Odalar ve Borsalar Birliği Başkanlığından, akademik personel için ise Yükseköğretim Kurulu tarafından kendilerine tanınan kontenjanın iki katı kadar adayın bildirilmesi istenir. Millî Savunma ve Güvenlik Eğitimine katılacak kursiyerler; bildirilen bu adaylar arasından Bakanlıkça belirlenir.

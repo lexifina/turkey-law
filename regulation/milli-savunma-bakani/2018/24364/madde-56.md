@@ -1,0 +1,6 @@
+YEDİNCİ BÖLÜM
+Çeşitli ve Son Hükümler
+İzinler
+MADDE 56 – (1) Enstitü Kurulunca belirlenen nedenlerle öğrenimine ara vermek zorunda kalan veya öğrenimine katkıda bulunacak Üniversite dışı burs, araştırma gibi olanakların ortaya çıkması hâlinde, öğrenciye, danışmanı ve Enstitü anabilim dalı başkanlığının uygun görmesi şartıyla, Enstitü Yönetim Kurulu kararı ve Üniversite Yönetim Kurulunun onayı ile bir yıla kadar izin verilmesi Bakanlığa teklif edilir. Zaruri hâllerde, danışmanın talebi, Enstitü anabilim dalı başkanlığının teklifi üzerine, bu sürenin bir yıl daha uzatılması aynı usulle teklif edilebilir. Teklifin Bakanlıkça uygun bulunması durumunda öğrencinin bu izni, karar tarihini takip eden yarıyıldan itibaren başlar. İzin süresi sonunda öğrenci, takip eden ilk yarıyılda Anabilim Dalı Başkanlığı vasıtasıyla Enstitü Yönetim Kuruluna başvurarak kaydını yenilemek zorundadır.
+(2) Lisansüstü öğretim görmek üzere yurt dışına gönderilen ve geçerli mazereti nedeniyle süresi içinde öğrenimini tamamlayamadan geri dönenler, ilgili Anabilim Dalı Başkanlığının teklifi ve Enstitü Yönetim Kurulunun kararı ve Üniversite Yönetim Kurulunun onayı ile öğrenciliklerine devam edebilirler.
+(3) İzin süresi sonunda dönmeyenlerin veya kaydını yenilemeyenlerin, Enstitü ile ilişiği kesilir.

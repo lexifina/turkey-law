@@ -1,0 +1,2 @@
+Ders saydırma
+MADDE 34 – (1) Öğrencilerin yatay geçiş sureti ile daha önceki lisansüstü programından veya özel öğrenci statüsü ile yurt içi veya yurt dışı yükseköğretim kurumlarından aldığı ve başardığı lisansüstü dersleri saydırma, muafiyet sınavı sonucunda bir veya daha fazla dersten muaf olma ve buna bağlı olarak süre eksiltme koşulları Enstitü Yönetim Kurulu tarafından belirlenir. Gerek yüksek lisans programlarında, gerekse doktora programlarında bir yarıyılda saydırılabilecek ders sayısı 1/2 oranından fazla olamaz.

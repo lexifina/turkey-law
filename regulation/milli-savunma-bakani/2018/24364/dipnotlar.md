@@ -1,0 +1,1 @@
+[1] 27/11/2023 tarihli ve 32382 sayılı Resmi Gazete’de yayımlanan değişiklik ile bu yönetmeliğe beşinci bölümden sonra gelmek üzere altıncı bölüm eklenmiş ve diğer bölüm ve maddeler buna göre teselsül ettirilmiştir.

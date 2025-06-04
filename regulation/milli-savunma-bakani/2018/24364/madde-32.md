@@ -1,0 +1,4 @@
+Özel öğrenci kabulü
+MADDE 32 – (1) (Değişik ibare:RG-27/11/2023-32382) Bir yüksek lisans ya da doktora programına kayıtlı olup, belirli bir konuda bilgisini artırmak isteyen (Değişik ibare:RG-27/11/2023-32382) öğrenciler, sınıf mevcudu, fiziksel alt yapı, öğretim elemanı sayısı yeterliliği ve eğitim-öğretim sisteminin uygunluğu gibi hususlar göz önünde bulundurulmak koşuluyla, ilgili Anabilim Dalı Başkanlığının görüşü ve Enstitü Yönetim Kurulunun onayı ile lisansüstü derslere özel öğrenci olarak kabul edilebilir. Özel öğrencilik ilgili programda doğrudan derece elde etmeye yönelik bir öğretim olmayıp süresi iki yarıyılı geçemez. Özel öğrenci statüsünde ders alanlar, öğrencilik haklarından yararlanamaz.
+(2) Özel öğrenci kontenjanları ve kabulüne ilişkin diğer usul ve esaslar Senato tarafından belirlenir.
+(3) Özel öğrenci statüsünde ders alan öğrencilere diploma verilmez, bunun yerine izledikleri dersleri ve bu derslerden aldıkları notları gösterir bir belge verilir.

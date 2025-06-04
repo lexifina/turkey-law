@@ -1,0 +1,2 @@
+Doktora programından yüksek lisans programına geçiş
+MADDE 31 – (1) Lisans derecesiyle doktora programına başlamış ve en az yedi dersini başarmış bulunan öğrenciler, talep ettikleri takdirde, Enstitü anabilim dalı başkanlığının görüşü ve Enstitü Yönetim Kurulu kararıyla yüksek lisans programı tez aşamasına geçiş yapabilirler. Bu durumdaki öğrencilerin varsa eksik dersleri, kredileri/Avrupa Kredi Transfer Sistemi kredileri tamamlatılır. Doktora programından yüksek lisans programına geçişte öğrenci kontenjanı şartı aranmaz.

@@ -1,0 +1,8 @@
+Bilimsel hazırlık programına öğrenci kabulü
+MADDE 37 – (1) Yüksek lisans ve doktora programlarında, adayların eksikliklerini gidermek amacıyla esasları bu Yönetmeliğe uygun olarak belirlenen bilimsel hazırlık programı uygulanabilir.
+(2) Bu programa alınacak öğrenciler ilgili Anabilim Dalı Başkanlığı tarafından, adayların lisans ve/veya lisansüstü başarı düzeyleri ile izledikleri lisans ve/veya lisansüstü programların yapısı değerlendirilerek Enstitü Yönetim Kuruluna önerilir ve bu Kurul tarafından belirlenir. Bilimsel hazırlık programı toplam 18 krediyi geçemez.
+(3) Bilimsel hazırlık programına kabul edilen yüksek lisans öğrencisinin bilimsel hazırlık dersleri lisans seviyesindeki derslerden oluşur. Bu dersler yüksek lisans programında alınması gereken derslerin yerine geçemez.
+(4) Bilimsel hazırlık programına kabul edilen bir doktora öğrencisinin bilimsel hazırlık dersleri lisans veya yüksek lisans derslerinden oluşur. Lisans ders sayısı ikiyi aşamaz. Bu dersler, doktora programında alınması gereken derslerin yerine geçemez.
+(5) Bu programdaki bir öğrenci, bilimsel hazırlık derslerinin yanı sıra ilgili Anabilim Dalı Başkanlığının teklifi ve Enstitü Yönetim Kurulu onayı ile lisansüstü programından ders alabilir.
+(6) Bilimsel hazırlık programında geçirilecek süre en çok iki yarıyıldır. Yaz öğretimi bu süreye dâhil edilmez. Bu süre dönem izinleri dışında uzatılamaz ve süre sonunda başarılı olamayan öğrencinin ilişiği kesilir. Programda geçirilen süre, yüksek lisans veya doktora programı sürelerine dâhil edilmez. Bilimsel hazırlık programında alınan derslere devam zorunludur.
+(7) Herhangi bir dersten başarısız olanlara ikinci bir sınav hakkı verilmez ve öğrencinin kayıtlı olduğu programla ilişiği kesilir.

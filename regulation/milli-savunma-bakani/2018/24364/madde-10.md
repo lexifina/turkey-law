@@ -1,0 +1,4 @@
+Süre
+MADDE 10 – (1) Tezli yüksek lisans programının süresi bilimsel hazırlıkta geçen süre hariç, kayıt olduğu programa ilişkin derslerin verildiği dönemden başlamak üzere, her dönem için kayıt yaptırıp yaptırmadığına bakılmaksızın dört yarıyıl olup, program en çok altı yarıyılda tamamlanır.
+(2) (Değişik:RG-10/9/2020-31240) Dört yarıyıl sonunda öğretim planında yer alan kredili derslerini ve seminer dersini başarıyla tamamlayamayan veya bu süre içerisinde yükseköğretim kurumunun öngördüğü başarı koşullarını/ölçülerini yerine getirmeyen, azami süreler içerisinde ise tez çalışmasında başarısız olan veya tez savunmasına girmeyen öğrencinin yükseköğretim kurumu ile ilişiği kesilir.
+(3) Yüksek lisans programından daha kısa sürede mezun olabilecek öğrencilerle ilgili düzenlemeler Enstitü Kurulu tarafından belirlenir. Bilimsel hazırlıkta geçen süre hariç en erken üçüncü yarıyıl sonunda mezuniyet için tüm koşulları yerine getiren öğrenciler tez sınavına alınabilir.
