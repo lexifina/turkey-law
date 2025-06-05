@@ -1,0 +1,27 @@
+{
+  "source_id": "7.5.42427",
+  "kind": "regulation",
+  "register_kind": "Kurum ve Kuruluş Yönetmelikleri",
+  "title": "TÜRKİYE BRİÇ FEDERASYONU ANA STATÜSÜ",
+  "number": "42427",
+  "issuer_slug": "kurum-ve-kurulus",
+  "path": "regulation/kurum-ve-kurulus/2025/42427",
+  "source": "https://www.mevzuat.gov.tr/anasayfa/MevzuatFihristDetayIframe?MevzuatTur=7&MevzuatNo=42427&MevzuatTertip=5",
+  "source_sha256": "318608fb0c7799aaa3d77f1b98d975639a4d6e832bdd676976b22cd848bc3a65",
+  "source_bytes": 170794,
+  "published": "2025-06-05",
+  "gazette": "32921",
+  "in_force": "2025-06-05",
+  "in_force_basis": "Resmî Gazete publication date in the official listing (05.06.2025)",
+  "history": "current-text",
+  "label": "oldest version available",
+  "checked_on": "2026-11-15",
+  "word_count": 10847,
+  "text_status": "current-consolidated",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  },
+  "completeness": "html-text-complete"
+}
