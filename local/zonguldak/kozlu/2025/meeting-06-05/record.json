@@ -1,0 +1,23 @@
+{
+  "number": "meeting-06-05",
+  "number_as_published": "meeting-06-05",
+  "year": 2025,
+  "title": "05.06.2025 Meclis Kararları 1. oturumda herhangi bir karar alınmamıştır.",
+  "decision_date": "2025-06-05",
+  "source": "https://www.kozlu.bel.tr/meclis-kararlari",
+  "official_document": "https://www.kozlu.bel.tr/Content/Theme/Site/Files/Editor/files/6_%20ay%202%20nci%20%20Meclis%20Kararlar%c4%b1%202025.docx",
+  "source_sha256": "37663390dee5a1404a9ce7c9c355d817cb5a1053465300727d0ad245b09b5946",
+  "issuer": "Kozlu Belediye Meclisi",
+  "history_type": "metadata",
+  "text_status": "metadata-only: listing fields as published; complete decision text is in the linked official document, not transcribed",
+  "in_force": "2025-06-05",
+  "in_force_basis": "Decision date as printed in the official council listing: 05.06.2025; adoption date of the council decision; legal commencement not asserted",
+  "missing": [
+    "complete official decision text",
+    "official annexes"
+  ],
+  "law_text_complete": false,
+  "privacy_withheld": false,
+  "listing_label": "05.06.2025 Meclis Kararları 1. oturumda herhangi bir karar alınmamıştır.",
+  "record_scope": "one official file of council decisions (meeting)"
+}
