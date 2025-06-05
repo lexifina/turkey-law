@@ -1,0 +1,3 @@
+Bilgilerin kaydedilmesi, işlenmesi, yönetimi ve saklanması
+MADDE 42- (1) Tüm klinik araştırma bilgileri, destekleyici veya araştırma ekibi tarafından doğru bir şekilde raporlanabilecek, yorumlanabilecek ve doğrulanabilecek şekilde kaydedilmeli, işlenmeli, ele alınmalı ve saklanmalıdır. Kayıtların gizliliği ve gönüllülerin kişisel verileri, kişisel verilerin korunmasına ilişkin yürürlükteki mevzuata uygun olarak korunmalıdır.
+(2) Destekleyici ve araştırma ekibi tarafından klinik araştırma bilgilerine ve kişisel verilere yetkisiz veya hukuka aykırı olarak erişilmesini, ifşasını, dağıtımını, değiştirilmesini veya imhasını ya da özellikle işlemenin bir ağ üzerinden iletimi içerdiği durumlarda kazara kaybını önlemek amacıyla uygun teknik ve idari tedbirler alınmalıdır.

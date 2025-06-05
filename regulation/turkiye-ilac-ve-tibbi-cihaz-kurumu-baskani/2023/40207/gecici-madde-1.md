@@ -1,0 +1,4 @@
+Geçiş hükmü
+GEÇİCİ MADDE 1- (Değişik:RG-29/12/2023-32414)
+(1) 27/5/2023 tarihinden önce adına uygunluk belgesi düzenlenmiş olan Faz I merkezleri ile biyoyararlanım ve biyoeşdeğerlik merkezlerinin, 1/1/2024 tarihi itibari ile izin belgelerini bu Yönetmeliğe uygun hale getirmek için Kuruma başvuru yapmaları gerekmektedir.
+(2) 72 nci madde ile yürürlükten kaldırılan İlaç ve Biyolojik Ürünlerin Klinik Araştırmaları Hakkında Yönetmelik kapsamında kurulan klinik araştırma etik kurullarının ve biyoyararlanım ve biyoeşdeğerlik etik kurullarının, 1/1/2024 tarihine kadar etik kurul üye yapılarını bu Yönetmelik gerekliliklerine uygun olarak yeniden düzenlemesi ve Kuruma başvuru yapması gerekmektedir. Başvuru yapmayan etik kurullar, 1/1/2024 tarihine kadar mevcut etik kurul yapıları ile faaliyetlerine devam edebilirler.

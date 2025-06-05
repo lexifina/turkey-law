@@ -1,0 +1,2 @@
+Avrupa Birliği mevzuatına uyum
+MADDE 71- (1) Bu Yönetmeliğin hazırlanmasında, 16 Nisan 2014 tarihli ve (AB) 536/2014 sayılı Beşeri Tıbbi Ürünlerin Klinik Araştırmaları Hakkında Avrupa Parlamentosu ve Konsey Tüzüğü ile 8 Nisan 2005 tarihli ve 2005/28/AT sayılı Araştırmalarda Kullanılan Beşeri Tıbbi Ürünler ve Bu Ürünlerin Üretim veya İthalatına Dair İyi Klinik Uygulamalarını Belirleyen Komisyon Direktifi dikkate alınarak Avrupa Birliği mevzuatına uyum çerçevesinde hazırlanmıştır.

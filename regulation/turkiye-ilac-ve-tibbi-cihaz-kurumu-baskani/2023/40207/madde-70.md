@@ -1,0 +1,2 @@
+Hüküm bulunmayan haller
+MADDE 70- (1) Bu Yönetmelikte hüküm bulunmayan hallerde; Biyoloji ve Tıbbın Uygulanması Bakımından İnsan Hakları ve İnsan Haysiyetinin Korunması Sözleşmesi, 13/1/1960 tarihli ve 4/12578 sayılı Bakanlar Kurulu kararıyla yürürlüğe konulan Tıbbi Deontoloji Nizamnamesi, araştırmaya iştirak eden gönüllülerin hakları ile ilgili olarak 1/8/1998 tarihli ve 23420 sayılı Resmî Gazete’de yayımlanan Hasta Hakları Yönetmeliğinde belirtilen hükümler ile diğer ilgili mevzuat hükümleri uygulanır.

@@ -1,0 +1,5 @@
+Araştırma ekibinin uygunluğu
+MADDE 35- (1) Bu Yönetmelik kapsamındaki klinik araştırmalar, sorumlu araştırmacının başkanlığında, araştırmanın niteliğine uygun bir ekiple yürütülür. Sorumlu araştırmacının gözetiminde uygun niteliklere haiz ve yeterli sayıda araştırmacı, klinik araştırma hemşiresi, saha görevlisi ve tercihen klinik araştırma eczacısı ile diğer yardımcı araştırma personeli görevlendirilir.
+(2) Bir klinik araştırmanın yürütülmesinde görev alan kişiler, görevlerini yerine getirmek için eğitim, öğretim ve deneyim açısından uygun niteliklere sahip olmalıdır.
+(3) Faz I klinik araştırmaları ile biyoyararlanım ve biyoeşdeğerlik çalışmalarında araştırma ekibinde uzmanlığını veya doktorasını yapmış tıp doktoru bir farmakolog bulunması zorunludur.
+(4) (Değişik:RG-5/6/2025-32921) Araştırma ekibinde görevlendirilmelerinden önce; araştırmacılara ait bilgiler etik kurul ve Kuruma, yardımcı klinik araştırma personeline ait bilgiler ise etik kurula bildirilir. Yardımcı klinik araştırma personeline ait bilgiler Kurum tarafından talep edilmesi durumunda ayrıca Kuruma da sunulur.

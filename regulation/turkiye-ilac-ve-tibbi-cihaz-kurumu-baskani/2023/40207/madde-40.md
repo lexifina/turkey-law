@@ -1,0 +1,3 @@
+Acil güvenlik tedbirleri
+MADDE 40- (1) 17 nci maddenin ikinci fıkrası ve onuncu bölümde belirtilen hususlar saklı kalmak kaydıyla, destekleyici, sorumlu araştırmacı ya da araştırmacı, araştırmanın yürütülmesi sırasında veya araştırma ürünü geliştirilmesiyle ilgili gönüllü güvenliğini etkileyebilecek yeni bir durumun ortaya çıkması hâlinde, bu tehlikelere karşı gönüllüleri koruyacak gerekli acil güvenlik tedbirlerini alır.
+(2) Sorumlu araştırmacı veya destekleyici bu yeni durum ve alınan tedbirler hakkındaki bilgileri tedbirlerin alındığı tarihten itibaren en geç yedi gün içinde etik kurula ve Kuruma bildirir. Aksi takdirde Kurum araştırmayı durdurur.

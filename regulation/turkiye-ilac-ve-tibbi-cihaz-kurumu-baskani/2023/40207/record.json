@@ -1,0 +1,50 @@
+{
+  "source_id": "7.5.40207",
+  "kind": "regulation",
+  "register_kind": "Kurum ve Kuruluş Yönetmelikleri",
+  "title": "BEŞERİ TIBBİ ÜRÜNLERİN KLİNİK ARAŞTIRMALARI HAKKINDA YÖNETMELİK",
+  "number": "40207",
+  "issuer": "Türkiye İlaç ve Tıbbi Cihaz Kurumu Başkanı",
+  "issuer_slug": "turkiye-ilac-ve-tibbi-cihaz-kurumu-baskani",
+  "path": "regulation/turkiye-ilac-ve-tibbi-cihaz-kurumu-baskani/2023/40207",
+  "source": "https://www.mevzuat.gov.tr/anasayfa/MevzuatFihristDetayIframe?MevzuatTur=7&MevzuatNo=40207&MevzuatTertip=5",
+  "source_sha256": "1c30dacb47d2cd6562fcb455a2dca9421f0252d0479a7d86225eee6960d9a8c5",
+  "source_bytes": 210616,
+  "published": "2023-05-27",
+  "gazette": "32203",
+  "in_force": "2025-06-05",
+  "in_force_basis": "latest Resmî Gazete date printed in the source amendment notes/table (\"RG-5/6/2025\") for the current consolidated text",
+  "date_evidence": [
+    [
+      "2025-06-05",
+      "RG-5/6/2025",
+      "Resmî Gazete date printed in the source amendment note"
+    ],
+    [
+      "2025-06-05",
+      "5/6/2025",
+      "Resmî Gazete date in the source amendment table"
+    ],
+    [
+      "2023-12-29",
+      "RG-29/12/2023",
+      "Resmî Gazete date printed in the source amendment note"
+    ],
+    [
+      "2023-12-29",
+      "29/12/2023",
+      "Resmî Gazete date in the source amendment table"
+    ]
+  ],
+  "history": "current-text",
+  "label": "oldest version available",
+  "checked_on": "2026-11-15",
+  "word_count": 12863,
+  "text_status": "current-consolidated",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  },
+  "completeness": "html-text-complete"
+}

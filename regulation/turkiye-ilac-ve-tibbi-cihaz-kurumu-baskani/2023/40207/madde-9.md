@@ -1,0 +1,3 @@
+Karar ve rapor kullanımı ile görüş alınması
+MADDE 9- (1) Kurum, araştırmaların incelenmesi ve değerlendirilmesi sırasında ve yetkilerini kullanırken karşılaştırılabilir standartlara sahip diğer ilaç otoriteleri veya bölgesel veya uluslararası kuruluşlar tarafından verilmiş ilgili kararlardan ve/veya yayımlanmış raporlardan yararlanabilir.
+(2) Kurum, araştırmaların incelenmesi ve değerlendirilmesi sırasında ve yetkilerini kullanırken 1/8/2019 tarihli ve 30849 sayılı Resmî Gazete’de yayımlanan Türkiye İlaç ve Tıbbi Cihaz Kurumu Bilimsel Danışma Komisyonları ile Kurullarının Teşkili ve Görevleri Hakkında Yönetmeliğe istinaden kurulan bilimsel danışma komisyonlarından ve üyelerinden görüş alabilir.

@@ -1,0 +1,7 @@
+YEDİNCİ BÖLÜM
+Klinik Araştırma ve Bilimsel Çalışma Başvuru Dosyası
+Başvuru dosyasında sunulan veriler
+MADDE 18- (1) Başvuru dosyaları, İyi Klinik Uygulamaları Kılavuzu ve Kurumun başvuru şekline ilişkin yayımladığı kılavuzlar çerçevesinde, Kurumun internet sitesinde yayımlanan üst yazı örnekleri, başvuru formu ve diğer formlar kullanılarak hazırlanır.
+(2) Başvuru dosyalarında sunulan klinik dışı verilerin elde edildiği preklinik farmakolojik ve toksikolojik çalışmalar, 9/3/2010 tarihli ve 27516 sayılı Resmî Gazete’de yayımlanan İyi Laboratuvar Uygulamaları Prensipleri, Test Birimlerinin Uyumlaştırılması, İyi Laboratuvar Uygulamalarının ve Çalışmaların Denetlenmesi Hakkında Yönetmelikte belirtilen hükümlere uyumlu olarak yürütülür.
+(3) Başvuru dosyalarında daha önce Türkiye dışında yapılan klinik araştırmalardan elde edilen verilere atıfta bulunuluyorsa, bu klinik araştırmaların bu Yönetmelikte belirtilen esaslar uyarınca belirlenmiş iyi klinik uygulamaları ve etik ilkelerin temelinde tasarlanmış, uygulanmış ve rapor edilmiş olması gerekir.
+(4) Başvuru sırasında risk yönetim planı, geçerli olduğu durumlarda pediatrik araştırma planı ve mevcutsa Uluslararası Harmonizasyon Komitesi (ICH) kurucu veya daimi üyesi yetkili otoriteleri, Avustralya İlaç Otoritesi (TGA) veya İngiltere İlaç Otoritesi (MHRA) tarafından verilen araştırmaya yönelik tavsiye mektubu, değerlendirme raporu veya araştırmanın yürütülmesine ilişkin yukarıda adı geçen otoritelerden alınan onayı veya izni gösterir bilgi ve belgeler sunulur.

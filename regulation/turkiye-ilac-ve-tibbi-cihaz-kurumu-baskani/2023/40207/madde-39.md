@@ -1,0 +1,3 @@
+Gönüllü güvenliğiyle ilgili diğer bildirim yükümlülükleri
+MADDE 39- (1) Destekleyici, 30 uncu maddede atıfta bulunulan SUSAR’lar dışında klinik araştırmanın fayda ve risk dengesini etkileyen tüm beklenmeyen olayları, etik kurul ve Kuruma bildirir. Bu bildirim en kısa sürede, ancak destekleyicinin bu olaydan haberdar olduğu tarihten itibaren en geç on beş gün içinde yapılmalıdır.
+(2) Destekleyici, diğer ülkelerin yetkili otoriteleri tarafından ülkemizde gerçekleştirilen klinik araştırmayla ilgili tüm denetim raporlarını ve bu raporların tercümesini etik kurul ve Kuruma bildirir. Bu bildirim, destekleyiciye raporun iletildiği tarihten itibaren en geç otuz gün içinde yapılır.
