@@ -1,0 +1,93 @@
+{
+  "source_id": "7.5.20344",
+  "kind": "regulation",
+  "register_kind": "Kurum ve Kuruluş Yönetmelikleri",
+  "title": "AİLE VE SOSYAL HİZMETLER BAKANLIĞI PERSONELİ GÖREVDE YÜKSELME VE UNVAN DEĞİŞİKLİĞİ YÖNETMELİĞİ",
+  "number": "20344",
+  "issuer": "Aile ve Sosyal Hizmetler Bakanı",
+  "issuer_slug": "aile-ve-sosyal-hizmetler-bakani",
+  "path": "regulation/aile-ve-sosyal-hizmetler-bakani/2014/20344",
+  "source": "https://www.mevzuat.gov.tr/anasayfa/MevzuatFihristDetayIframe?MevzuatTur=7&MevzuatNo=20344&MevzuatTertip=5",
+  "source_sha256": "1d915598f3190e076e44c222d48bb66aaee86ea9823f466b9ed60ad0d76c71bb",
+  "source_bytes": 74677,
+  "published": "2014-12-28",
+  "gazette": "29219",
+  "in_force": "2025-06-05",
+  "in_force_basis": "latest Resmî Gazete date printed in the source amendment notes/table (\"RG-5/6/2025\") for the current consolidated text",
+  "date_evidence": [
+    [
+      "2025-06-05",
+      "RG-5/6/2025",
+      "Resmî Gazete date printed in the source amendment note"
+    ],
+    [
+      "2025-06-05",
+      "5/6/2025",
+      "Resmî Gazete date in the source amendment table"
+    ],
+    [
+      "2023-04-25",
+      "RG-25/4/2023",
+      "Resmî Gazete date printed in the source amendment note"
+    ],
+    [
+      "2023-04-25",
+      "25/4/2023",
+      "Resmî Gazete date in the source amendment table"
+    ],
+    [
+      "2021-12-17",
+      "RG-17/12/2021",
+      "Resmî Gazete date printed in the source amendment note"
+    ],
+    [
+      "2021-12-17",
+      "17/12/2021",
+      "Resmî Gazete date in the source amendment table"
+    ],
+    [
+      "2017-11-03",
+      "RG-3/11/2017",
+      "Resmî Gazete date printed in the source amendment note"
+    ],
+    [
+      "2017-11-03",
+      "3/11/2017",
+      "Resmî Gazete date in the source amendment table"
+    ],
+    [
+      "2016-02-04",
+      "4/2/2016",
+      "Resmî Gazete date in the source amendment table"
+    ],
+    [
+      "2015-12-12",
+      "RG-12/12/2015",
+      "Resmî Gazete date printed in the source amendment note"
+    ],
+    [
+      "2015-12-12",
+      "12/12/2015",
+      "Resmî Gazete date in the source amendment table"
+    ],
+    [
+      "2015-08-20",
+      "20/8/2015",
+      "Resmî Gazete date in the source amendment table"
+    ]
+  ],
+  "commencement_clauses": [
+    "Bu Yönetmelik yayımı tarihinde yürürlüğe girer"
+  ],
+  "history": "current-text",
+  "label": "oldest version available",
+  "checked_on": "2026-11-15",
+  "word_count": 4752,
+  "text_status": "current-consolidated",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  },
+  "completeness": "html-text-complete"
+}

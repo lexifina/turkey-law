@@ -1,0 +1,2 @@
+Yazılı sınavın duyurulması
+MADDE 12 ‒ (1) Yazılı sınav, sınav kurulunca alınan kararlara uygun olarak Personel (Değişik ibare:RG-17/12/2021-31692) Genel Müdürlüğü tarafından yazılı sınav tarihinden en az otuz gün önce Bakanlığın internet sitesinde duyurulur. Duyuruda; atama yapılacak kadroların sınıfı, unvanı, derecesi ve sayısı ile başvuru tarihi, süresi, sınav yerleri ile sınav konu başlıkları belirtilir.
