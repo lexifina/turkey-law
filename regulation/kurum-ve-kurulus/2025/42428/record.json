@@ -1,0 +1,27 @@
+{
+  "source_id": "7.5.42428",
+  "kind": "regulation",
+  "register_kind": "Kurum ve Kuruluş Yönetmelikleri",
+  "title": "TÜRKİYE GELENEKSEL ATLI SPOR DALLARI FEDERASYONU ANA STATÜSÜ",
+  "number": "42428",
+  "issuer_slug": "kurum-ve-kurulus",
+  "path": "regulation/kurum-ve-kurulus/2025/42428",
+  "source": "https://www.mevzuat.gov.tr/anasayfa/MevzuatFihristDetayIframe?MevzuatTur=7&MevzuatNo=42428&MevzuatTertip=5",
+  "source_sha256": "0078af863bac792c221425e2f5f64ea419276838e5622e357927c414f5e2f890",
+  "source_bytes": 171069,
+  "published": "2025-06-05",
+  "gazette": "32921",
+  "in_force": "2025-06-05",
+  "in_force_basis": "Resmî Gazete publication date in the official listing (05.06.2025)",
+  "history": "current-text",
+  "label": "oldest version available",
+  "checked_on": "2026-11-15",
+  "word_count": 10879,
+  "text_status": "current-consolidated",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  },
+  "completeness": "html-text-complete"
+}
