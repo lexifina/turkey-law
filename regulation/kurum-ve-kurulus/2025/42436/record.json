@@ -1,0 +1,27 @@
+{
+  "source_id": "7.5.42436",
+  "kind": "regulation",
+  "register_kind": "Kurum ve Kuruluş Yönetmelikleri",
+  "title": "TÜRKİYE ORYANTİRİNG FEDERASYONU ANA STATÜSÜ",
+  "number": "42436",
+  "issuer_slug": "kurum-ve-kurulus",
+  "path": "regulation/kurum-ve-kurulus/2025/42436",
+  "source": "https://www.mevzuat.gov.tr/anasayfa/MevzuatFihristDetayIframe?MevzuatTur=7&MevzuatNo=42436&MevzuatTertip=5",
+  "source_sha256": "7a14d86c536d07ac71f87dd103ea647f12286dbb2c69ad69eeca84b2e3b3bba7",
+  "source_bytes": 171614,
+  "published": "2025-06-10",
+  "gazette": "32922",
+  "in_force": "2025-06-10",
+  "in_force_basis": "Resmî Gazete publication date in the official listing (10.06.2025)",
+  "history": "current-text",
+  "label": "oldest version available",
+  "checked_on": "2026-11-15",
+  "word_count": 10799,
+  "text_status": "current-consolidated",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  },
+  "completeness": "html-text-complete"
+}
