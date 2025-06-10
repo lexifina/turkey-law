@@ -1,0 +1,27 @@
+{
+  "source_id": "7.5.42435",
+  "kind": "regulation",
+  "register_kind": "Kurum ve Kuruluş Yönetmelikleri",
+  "title": "TÜRKİYE MODERN PENTATLON FEDERASYONU ANA STATÜSÜ",
+  "number": "42435",
+  "issuer_slug": "kurum-ve-kurulus",
+  "path": "regulation/kurum-ve-kurulus/2025/42435",
+  "source": "https://www.mevzuat.gov.tr/anasayfa/MevzuatFihristDetayIframe?MevzuatTur=7&MevzuatNo=42435&MevzuatTertip=5",
+  "source_sha256": "6c40d8bd4b7d47893a95c867747a3122b052539ce3b47b21d3bae1d1b73e728f",
+  "source_bytes": 174027,
+  "published": "2025-06-10",
+  "gazette": "32922",
+  "in_force": "2025-06-10",
+  "in_force_basis": "Resmî Gazete publication date in the official listing (10.06.2025)",
+  "history": "current-text",
+  "label": "oldest version available",
+  "checked_on": "2026-11-15",
+  "word_count": 10921,
+  "text_status": "current-consolidated",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  },
+  "completeness": "html-text-complete"
+}
