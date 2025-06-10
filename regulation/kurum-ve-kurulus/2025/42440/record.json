@@ -1,0 +1,27 @@
+{
+  "source_id": "7.5.42440",
+  "kind": "regulation",
+  "register_kind": "Kurum ve Kuruluş Yönetmelikleri",
+  "title": "TÜRKİYE YELKEN FEDERASYONU ANA STATÜSÜ",
+  "number": "42440",
+  "issuer_slug": "kurum-ve-kurulus",
+  "path": "regulation/kurum-ve-kurulus/2025/42440",
+  "source": "https://www.mevzuat.gov.tr/anasayfa/MevzuatFihristDetayIframe?MevzuatTur=7&MevzuatNo=42440&MevzuatTertip=5",
+  "source_sha256": "ddd3c7459dc7d3122a729a6ffa1b2eca101d0a25fbda08eaf4212c6d38627eac",
+  "source_bytes": 172490,
+  "published": "2025-06-10",
+  "gazette": "32922",
+  "in_force": "2025-06-10",
+  "in_force_basis": "Resmî Gazete publication date in the official listing (10.06.2025)",
+  "history": "current-text",
+  "label": "oldest version available",
+  "checked_on": "2026-11-15",
+  "word_count": 10817,
+  "text_status": "current-consolidated",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  },
+  "completeness": "html-text-complete"
+}
