@@ -1,0 +1,27 @@
+{
+  "source_id": "7.5.42434",
+  "kind": "regulation",
+  "register_kind": "Kurum ve Kuruluş Yönetmelikleri",
+  "title": "TÜRKİYE KAYKAY FEDERASYONU ANA STATÜSÜ",
+  "number": "42434",
+  "issuer_slug": "kurum-ve-kurulus",
+  "path": "regulation/kurum-ve-kurulus/2025/42434",
+  "source": "https://www.mevzuat.gov.tr/anasayfa/MevzuatFihristDetayIframe?MevzuatTur=7&MevzuatNo=42434&MevzuatTertip=5",
+  "source_sha256": "e69d19be25def31fd9713e7c32767793077bf347624a8704716bf8fb21054b60",
+  "source_bytes": 173953,
+  "published": "2025-06-10",
+  "gazette": "32922",
+  "in_force": "2025-06-10",
+  "in_force_basis": "Resmî Gazete publication date in the official listing (10.06.2025)",
+  "history": "current-text",
+  "label": "oldest version available",
+  "checked_on": "2026-11-15",
+  "word_count": 10895,
+  "text_status": "current-consolidated",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  },
+  "completeness": "html-text-complete"
+}
