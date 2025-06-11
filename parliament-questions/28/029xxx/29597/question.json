@@ -1,0 +1,21 @@
+{
+  "record_type": "parliament-written-question",
+  "term": 28,
+  "legislative_year": 3,
+  "esas_no": "7/29597",
+  "submitted": "2025-06-11",
+  "submitted_as": "Başkanlığa geliş tarihi",
+  "mp": "Çiçek OTLU",
+  "province": "İstanbul",
+  "summary": "9 Haziran 2025 tarihinde Mersin Limanına ulaşan bir geminin İsrail'e çelik taşıdığı iddiasına ilişkin",
+  "status": "Cevaplandı",
+  "status_as_of": "2026-11-16",
+  "official_record": "https://www.tbmm.gov.tr/Denetim/Yazili-Soru-Onergesi-Detay/52cfe90d-37c5-4bb8-a628-01976331ccf7",
+  "source": "https://tbmm.gov.tr/Denetim/YaziliSoruOnergesiTable",
+  "source_form": "https://tbmm.gov.tr/Denetim/Yazili-Soru-Onergeleri",
+  "source_sha256": "0f40921ce348110126f408cf64c4bf8ab77ec41ff0b602ec8090607a8b04d300",
+  "in_force": "2025-06-11",
+  "in_force_basis": "Date the question reached the Speaker (Başkanlığa geliş tarihi) in the official TBMM written-question record; parliamentary oversight record, not law",
+  "history_type": "metadata",
+  "text_status": "metadata-only: question text, addressee and answers are in the linked official record (PDFs on cdn.tbmm.gov.tr); not transcribed here"
+}
