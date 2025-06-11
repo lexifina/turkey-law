@@ -1,0 +1,22 @@
+{
+  "kind": "norm",
+  "issuer": "Gelir İdaresi Başkanlığı",
+  "document_type": "ozelge",
+  "number": "E-38418978-125.05[4691-2024]-…",
+  "source_id": 38714,
+  "date": "2025-06-11",
+  "title": "Teknoloji Geliştirme Bölgesinde Ar-Ge ve Yazılım Faaliyeti Gösteren Şirketin Elde Ettiği Kazancın İstisna Olup Olmadığı hk.",
+  "source": "https://gib.gov.tr/mevzuat/kanun/433/ozelge/38714",
+  "related_law": "193 sayılı GELİR VERGİSİ KANUNU",
+  "source_api": "https://gib.gov.tr/api/gibportal/mevzuat/ozelge/list",
+  "source_listing": "evidence/list/2026-11-16/ozelge-p009.json",
+  "source_listing_sha256": "9cb52b4963a9a177a23948f6e28c12936c2f43c88a0b410872bb81c01983667c",
+  "source_sha256": "408415b11ebb7bb29b91fa86e2eb5f0b5da191da0a8d73800ff8a0f7514525da",
+  "text_status": "as-enacted",
+  "text_file": "metin.md",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  }
+}
