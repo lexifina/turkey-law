@@ -1,0 +1,22 @@
+{
+  "kind": "norm",
+  "issuer": "Gelir İdaresi Başkanlığı",
+  "document_type": "ozelge",
+  "number": "E-18008620-120[2023-720-39]-119534",
+  "source_id": 38697,
+  "date": "2025-06-11",
+  "title": "Yurt Dışına Verilen Tasarım Hizmetinden Elde Edilen Kazancın Gelir Vergisi Matrahının Tespitinde İndirim Konusu Yapılabilmesi İçin Döviz Alım Belgesi İbrazının Gerekip Gerekmediği hk.",
+  "source": "https://gib.gov.tr/mevzuat/kanun/433/ozelge/38697",
+  "related_law": "193 sayılı GELİR VERGİSİ KANUNU",
+  "source_api": "https://gib.gov.tr/api/gibportal/mevzuat/ozelge/list",
+  "source_listing": "evidence/list/2026-11-16/ozelge-p008.json",
+  "source_listing_sha256": "292c126217cc32c3ccfa57495ce433f89ef8db5e75fa1946d5819a76f81aff4d",
+  "source_sha256": "5cdcdadb8d2953290963419405fe65f44e8f84b5dc43cea0a976b298a7c0f927",
+  "text_status": "as-enacted",
+  "text_file": "metin.md",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  }
+}
