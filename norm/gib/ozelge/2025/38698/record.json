@@ -1,0 +1,22 @@
+{
+  "kind": "norm",
+  "issuer": "Gelir İdaresi Başkanlığı",
+  "document_type": "ozelge",
+  "number": "E-38418978-120[18-24/14-İ]-320202",
+  "source_id": 38698,
+  "date": "2025-06-11",
+  "title": "Maden, Taş, Ağaç veya Diğer Maddelerle Çizilen veya Tespit Edilen Eserler, Heykeller, Fotoğrafik Eserler ve Slayt Çalışmaları Sebebiyle GVK 18. Maddesinde yer alan İstisnadan Faydalanıp Faydalanılamayacağı hk.",
+  "source": "https://gib.gov.tr/mevzuat/kanun/433/ozelge/38698",
+  "related_law": "193 sayılı GELİR VERGİSİ KANUNU",
+  "source_api": "https://gib.gov.tr/api/gibportal/mevzuat/ozelge/list",
+  "source_listing": "evidence/list/2026-11-16/ozelge-p008.json",
+  "source_listing_sha256": "292c126217cc32c3ccfa57495ce433f89ef8db5e75fa1946d5819a76f81aff4d",
+  "source_sha256": "ba70fad23201c27e9633a9257ce8831978d73a9a0f9c0c9f203f7740eb4f6c80",
+  "text_status": "as-enacted",
+  "text_file": "metin.md",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  }
+}
