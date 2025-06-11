@@ -1,0 +1,22 @@
+{
+  "kind": "norm",
+  "issuer": "Gelir İdaresi Başkanlığı",
+  "document_type": "ozelge",
+  "number": "E-49327596-120[GVK.ÖZ.2024.131]-161854",
+  "source_id": 38693,
+  "date": "2025-06-11",
+  "title": "Yurt Dışına Verilen Sağlık Hizmetlerinde Gelir Vergisi İstisnası hk.",
+  "source": "https://gib.gov.tr/mevzuat/kanun/433/ozelge/38693",
+  "related_law": "193 sayılı GELİR VERGİSİ KANUNU",
+  "source_api": "https://gib.gov.tr/api/gibportal/mevzuat/ozelge/list",
+  "source_listing": "evidence/list/2026-11-16/ozelge-p008.json",
+  "source_listing_sha256": "292c126217cc32c3ccfa57495ce433f89ef8db5e75fa1946d5819a76f81aff4d",
+  "source_sha256": "263db5d2feaa28b7f179e761c2cfc3f9da956f4e4aaf68d9438c0094ddc8acf9",
+  "text_status": "as-enacted",
+  "text_file": "metin.md",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  }
+}
