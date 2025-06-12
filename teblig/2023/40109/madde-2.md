@@ -1,0 +1,2 @@
+Kapsam
+MADDE 2- (1) Bu Tebliğ, 4708 sayılı Kanun uyarınca Çevre, Şehircilik ve İklim Değişikliği Bakanlığından izin belgesi alan yapı denetim kuruluşlarını, bu kuruluşların mimar ve mühendisleri ile teknik personelini ve bunlar hakkında 4708 sayılı Kanunun 8 inci maddesinin bir ila yirmi ikinci fıkraları (Ek ibare:RG-12/6/2025-32924) ile yirmi altı ila yirmi sekizinci fıkraları ve 10 uncu maddesi uyarınca yürütülen iş ve işlemleri kapsar.

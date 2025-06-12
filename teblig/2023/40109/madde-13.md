@@ -1,0 +1,2 @@
+İdari para cezasının kesinleşmesi
+MADDE 13- (1) 4708 sayılı Kanun kapsamında verilen idari para cezalarına ilişkin idari müeyyide kararları, karara karşı tebliğ tarihinden itibaren on beş gün içinde yetkili idare mahkemesine itiraz yoluna başvurulmaması veya itiraz yoluna başvurulması halinde yargılama aşamalarının son bulması neticesinde kesinleşir. Kesinleşme tarihi idari müeyyide kararına işlenir.
