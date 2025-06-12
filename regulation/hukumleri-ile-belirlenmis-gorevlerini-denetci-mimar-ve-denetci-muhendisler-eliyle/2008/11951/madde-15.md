@@ -1,0 +1,20 @@
+Teknik personelin denetim yetkisi
+MADDE 15 – (1) Yapı denetim kuruluşunda görev alacak denetçi personelin unvanlarına göre denetim yetkisi sınırları ve görevleri aşağıda gösterilmiştir:
+a) Proje ve uygulama denetçisi mimar, mimari projenin ilgili mevzuata uygunluğunun ve yapının her safhasında bu projelere uygun yapılıp yapılmadığının denetimini yapar. Denetim yetkisi sınırı 360.000 m2 toplam inşaat alanıdır.
+b) Proje ve uygulama denetçisi inşaat mühendisi, zemin etüdü raporuyla birlikte yapı statiği, betonarme-çelik-ahşap-yığma yapı hesabı, projelerin ve yapının denetimi ile görevlidir. Denetim yetkisi sınırı 360.000 m2 toplam inşaat alanıdır.
+c) Uygulama denetçisi inşaat mühendisi, yapı denetimini yapar. Denetim yetkisi sınırı 120.000 m2’dir.
+ç) (Değişik:RG-5/2/2013-28550) Proje ve uygulama denetçisi makine mühendisi, proje ve yapı denetimini yapar. Denetim yetkisi sınırı 180.000 m2’dir.
+d ) (Değişik:RG-5/2/2013-28550) Proje ve uygulama denetçisi elektrik mühendisi, proje ve yapı denetimini yapar. Denetim yetkisi sınırı 180.000 m2’dir.
+(2) (Değişik:RG-23/12/2022-32052) Yapı denetim kuruluşunda görev alan yukarıda yetki sınırları verilmiş proje ve uygulama denetçisi inşaat mühendislerinden 75 yaşını doldurmayan ve şantiyelerde iş görebileceklerine ilişkin olarak, görevini devamlı olarak yapmaya engel bir durumu olmadığı ilgili sağlık kurum veya kuruluşunca belirlenenler denetimi üstlenilen yapıda aynı zamanda uygulama denetçisi olarak görevlendirilebilir.
+(3) (Mülga:RG-29/12/2018-30640)(4)
+(4) (Değişik:RG-29/12/2018-30640)(4) Yardımcı kontrol elemanı: Yapı denetim kuruluşunda (Değişik ibare:RG-23/12/2022-32052) 75 yaşını doldurmamak ve şantiyelerde iş görebileceklerine ilişkin olarak, görevini devamlı olarak yapmaya engel bir durumu olmadığı ilgili sağlık kurum veya kuruluşunca belirlenmek şartıyla görev alan yardımcı kontrol elemanı, denetçi mimar ve denetçi mühendisin sevk ve idaresi altında görev yapar. Görevlendirildikleri yapılarda denetçi mimar ve mühendislerin vereceği görevi yerine getirir ve sorumluluğu altında bulunan işlerden dolayı denetçi mimar ve mühendisler ile birlikte müteselsilen sorumludur. Teknik öğretmen, yüksek tekniker, tekniker ve teknisyenler her yıl Bakanlık tarafından yayımlanan Mimarlık ve Mühendislik Hizmet Bedellerinin Hesabında Kullanılacak Yapı Yaklaşık Birim Maliyetleri Hakkında Tebliğe göre III. Sınıf B Grubuna (dâhil) kadar olan ve inşaat alanı 13.500 m2’yi geçmeyen bir yapının denetimi üstlenildiğinde, yapı denetim kuruluşunda yardımcı kontrol elemanı olarak görevlendirilebilir. Denetim yetkisi sınırları, inşaat alanı itibarı ile aşağıdaki tabloda belirtilmiştir:
+İnşaat mühendisi ve mimar | 30.000 m²
+Makine mühendisi | 60.000 m²
+Elektrik mühendisi | 120.000 m²
+Teknik Öğretmen (İnşaat, Makine, Elektrik) | 13.500 m2
+Tekniker (İnşaat, Makine, Elektrik, Yapı Denetimi) | 8.500 m2
+Teknisyen (İnşaat, Makine, Elektrik) | 3.500 m2
+(5) (Ek:RG-22/8/2015-29453) Aynı alanda ve aynı proje dahilinde olmak üzere denetçi mimarlar ve mühendisler ile (Değişik ibare:RG-29/12/2018-30640)(4) yardımcı kontrol elemanı mimar ve mühendisler üzerlerinde başka bir iş olmamak koşuluyla denetleme yetkisine sahip oldukları inşaat alanı sınırını aşabilir ancak kendileri için belirlenen yetki sınırının altına düşene kadar başkaca bir yapının denetim işini üstlenemezler.
+(6) (Ek:RG-23/12/2022-32052) 75 yaşını dolduran veya şantiyelerde iş görebileceklerine ilişkin olarak, görevini devamlı olarak yapmaya engel bir durumu olmadığını sağlık kurum veya kuruluşunca belgelendiremeyen denetçi mimar ve mühendisler yapı denetim kuruluşu adına şantiye mahallinde yapının denetimi görevini yürütemezler.
+(7) (Ek:RG-23/12/2022-32052) Birden fazla meslek disiplinine ilişkin diploması olan kişiler, yapı denetim kuruluşu bünyesinde aynı anda yalnızca bir diplomasına ilişkin olarak denetçi veya yardımcı kontrol elemanı olarak görev yürütebilir.
+(8) (Ek:RG-23/12/2022-32052) Yapı denetim kuruluşunca denetim sorumluluğu üstlenilen bir yapıda görevlendirilen bütün proje ve uygulama denetçileri ilgi alanlarında kalan projelerin ve bunlara altlık teşkil eden raporların denetiminden sorumludur.

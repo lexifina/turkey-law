@@ -1,0 +1,4 @@
+Kanunun uygulandığı il sayısının artırılması
+GEÇİCİ MADDE 9 – (Ek:RG-7/8/2010-27665)
+(1) Kanunun uygulandığı illerin Kanunun 11 inci maddesi doğrultusunda artırılması halinde, kapsama yeni giren iller için 12 nci maddenin üçüncü fıkrasının ikinci cümlesinde yer alan hesap yöntemi yerine, bu maddenin yürürlüğe girdiği tarihten itibaren bir yıl süre ile Türkiye İstatistik Kurumundan temin edilen nüfus istatistikleri kullanılarak, il bazında faaliyet gösterebilecek kuruluş sayısı belirlenir.
+(2) Kapsama yeni alınan illerde faaliyet göstermek üzere Bakanlığa izin belgesi başvurusunda bulunacak kuruluşların son başvuru tarihi ile bir ilde faaliyet gösterebilecek kuruluş sayısı, Bakanlık uygun görüşünü müteakip, Yapı Denetim Komisyonu tarafından ilgililere duyurulur. Herhangi bir ilde başvuru sayısının Bakanlık tarafından duyurusu yapılan sayıdan fazla olması halinde, o ilde izin belgesi verilecek kuruluşlar noter huzurunda çekilecek kura ile belirlenir.

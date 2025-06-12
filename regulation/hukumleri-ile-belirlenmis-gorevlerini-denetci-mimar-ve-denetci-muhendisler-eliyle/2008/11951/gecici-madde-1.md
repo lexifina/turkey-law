@@ -1,0 +1,2 @@
+Hizmet sözleşmelerinin yenilenmesi
+GEÇİCİ MADDE 1 – (1) Bu Yönetmeliğin yürürlüğe girdiği tarihten önce yapı denetimi hizmet sözleşmeleri akdedilerek ruhsat müracaatı yapılmış olan işlere ait sözleşmeler, Yönetmeliğin yürürlüğe girdiği tarihten sonra da geçerlidir. Hizmet süresi herhangi bir nedenle uzayan denetim işlerine ait sözleşmeler ise ek-6’da gösterilen form-4’e uygun tip sözleşme kullanılarak yenilenir.

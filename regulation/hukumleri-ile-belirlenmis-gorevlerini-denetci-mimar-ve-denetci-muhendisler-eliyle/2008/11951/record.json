@@ -1,0 +1,96 @@
+{
+  "source_id": "7.5.11951",
+  "kind": "regulation",
+  "register_kind": "Kurum ve Kuruluş Yönetmelikleri",
+  "title": "YAPI DENETİMİ UYGULAMA YÖNETMELİĞİ",
+  "number": "11951",
+  "issuer": "hükümleri ile belirlenmiş görevlerini denetçi mimar ve denetçi mühendisler eliyle",
+  "issuer_slug": "hukumleri-ile-belirlenmis-gorevlerini-denetci-mimar-ve-denetci-muhendisler-eliyle",
+  "path": "regulation/hukumleri-ile-belirlenmis-gorevlerini-denetci-mimar-ve-denetci-muhendisler-eliyle/2008/11951",
+  "source": "https://www.mevzuat.gov.tr/anasayfa/MevzuatFihristDetayIframe?MevzuatTur=7&MevzuatNo=11951&MevzuatTertip=5",
+  "source_sha256": "9461c06d30954881464f28e671d8257d31b146e8db34e8223ad1b12095ce8531",
+  "source_bytes": 232289,
+  "published": "2008-02-05",
+  "gazette": "26778",
+  "in_force": "2025-06-12",
+  "in_force_basis": "latest Resmî Gazete date printed in the source amendment notes/table (\"RG-12/6/2025\") for the current consolidated text",
+  "date_evidence": [
+    [
+      "2025-06-12",
+      "RG-12/6/2025",
+      "Resmî Gazete date printed in the source amendment note"
+    ],
+    [
+      "2025-06-12",
+      "12/6/2025",
+      "Resmî Gazete date in the source amendment table"
+    ],
+    [
+      "2023-09-07",
+      "RG-7/9/2023",
+      "Resmî Gazete date printed in the source amendment note"
+    ],
+    [
+      "2023-09-07",
+      "7/9/2023",
+      "Resmî Gazete date in the source amendment table"
+    ],
+    [
+      "2022-12-23",
+      "RG-23/12/2022",
+      "Resmî Gazete date printed in the source amendment note"
+    ],
+    [
+      "2022-12-23",
+      "23/12/2022",
+      "Resmî Gazete date in the source amendment table"
+    ],
+    [
+      "2022-02-12",
+      "RG-12/2/2022",
+      "Resmî Gazete date printed in the source amendment note"
+    ],
+    [
+      "2022-02-12",
+      "12/2/2022",
+      "Resmî Gazete date in the source amendment table"
+    ],
+    [
+      "2021-08-01",
+      "1/8/2021",
+      "Resmî Gazete date in the source amendment table"
+    ],
+    [
+      "2021-06-23",
+      "RG-23/6/2021",
+      "Resmî Gazete date printed in the source amendment note"
+    ],
+    [
+      "2021-06-23",
+      "23/6/2021",
+      "Resmî Gazete date in the source amendment table"
+    ],
+    [
+      "2020-12-11",
+      "RG-11/12/2020",
+      "Resmî Gazete date printed in the source amendment note"
+    ]
+  ],
+  "commencement_clauses": [
+    "Bu Yönetmelik yayımı tarihinde yürürlüğe girer"
+  ],
+  "history": "current-text",
+  "label": "oldest version available",
+  "checked_on": "2026-11-15",
+  "word_count": 11809,
+  "text_status": "current-consolidated",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  },
+  "source_links": [
+    "7.5.11951-EK.doc"
+  ],
+  "completeness": "html-text-complete; linked annexes not fetched"
+}

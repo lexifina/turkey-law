@@ -1,0 +1,9 @@
+Yapı denetimi çalışma birimleri
+MADDE 20 – (Değişik:RG-23/12/2022-32052)
+(1) Kanunun uygulanmasına ilişkin olarak ortaya çıkabilecek ihtilaflar, tarafların yapı denetimi konusundaki her türlü müracaatları, öncelikle yapının bulunduğu yerdeki Çevre, Şehircilik ve İklim Değişikliği İl Müdürlüğü bünyesinde görev yapan personelden müteşekkil yapı denetimi çalışma birimi tarafından incelenerek sonuçlandırılır. İtiraz halinde konu, Çevre, Şehircilik ve İklim Değişikliği İl Müdürlüğünce İl Yapı Denetim Komisyonuna intikal ettirilir.
+(2) Çevre, Şehircilik ve İklim Değişikliği İl Müdürlüğü, bu görevlerin yürütülmesi için personelin eğitimi ve gerekli donanımın sağlanması da dâhil olmak üzere gereken her türlü tedbiri alır.
+(3) Çevre, Şehircilik ve İklim Değişikliği İl Müdürlükleri bünyesinde görev alan teknik elemanlardan teşkil edilen yapı denetimi çalışma birimlerinin görev ve yetkileri şunlardır:
+a) Yapı denetim kuruluşlarının ve laboratuvarların faaliyetlerini inceleyerek sonuçlarını İl Yapı Denetim Komisyonuna (Ek ibare:RG-12/6/2025-32924) , Kanunun 8 inci maddesinin birinci fıkrasının (h) bendinin (2) numaralı alt bendi ile onuncu fıkrasının (e) bendinin (2) numaralı alt bendine ilişkin yaptığı incelemelerin sonuçlarını Merkez Yapı Denetim Komisyonuna bildirmek.
+b) Yapı denetim kuruluşlarının ve laboratuvarların Kanun ve ilgili mevzuat hükümlerine uygun olarak görevlerini yürütmelerini temin etmek üzere inceleme, araştırma ve bilgilendirme faaliyetlerinde bulunmak.
+c) Yapı denetimi faaliyeti sebebiyle yapı denetim kuruluşu, yapı sahibi, denetçi mimar ve denetçi mühendis, yardımcı kontrol elemanları, yapı müteahhidi, şantiye şefi, laboratuvar sahibi ve sorumluları ile ilgili olarak ortaya çıkabilecek ihtilafların hâlline yardımcı olmak.
+ç) Merkez veya İl Yapı Denetim Komisyonunca Kanun, bu Yönetmelik ve ilgili diğer mevzuat çerçevesinde verilebilecek diğer görevleri yerine getirmek.

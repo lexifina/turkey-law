@@ -1,0 +1,28 @@
+Tanımlar2
+MADDE 3 – (1) Bu Yönetmelikte geçen;
+a) (Değişik:RG-23/12/2022-32052) Bakanlık: Çevre, Şehircilik ve İklim Değişikliği Bakanlığını,
+b) Denetçi mimar ve mühendis: İlgili mühendis ve mimar meslek odalarına üyeliği devam eden ve Bakanlıkça denetçi belgesi verilmiş mühendis ve mimarları,
+c) İlgili idare: Belediye ve mücavir alan sınırları içindeki uygulamalar için büyükşehir belediyeleri ile diğer belediyeleri, bu alanlar dışında kalan alanlarda valilikleri, yapı ruhsatı ve kullanma izin belgesi verme yetkisine sahip diğer idareleri,
+ç) İlgili meslek odaları: 27/1/1954 tarihli ve 6235 sayılı Türk Mühendis ve Mimar Odaları Birliği Kanununa göre kurulmuş olan mühendis veya mimar odalarını,
+d) İş bitirme tutanağı: İnşaatın kısmen veya tamamen fen ve sanat kurallarına, ruhsata ve eklerine, ilgili standartlara, teknik şartnamelere ve diğer mevzuata uygun olarak tamamlandığını göstermek üzere yapı denetim kuruluşu tarafından tanzim ve ilgili idaresi tarafından tasdik edilen tutanağı,
+e) İşyeri teslim tutanağı: İnşaatın fiilen başladığını belgelemek üzere, yapı ruhsatının alınmasını takiben yapı sahibi, yapı denetim kuruluşu, yapı müteahhidi veya yapı müteahhidi adına şantiye şefi tarafından imza altına alınıp ilgili idareye sunulan tutanağı,
+f) Kanun: 4708 sayılı Yapı Denetimi Hakkında Kanunu,
+g) Komisyon: Kanunun 4’üncü maddesinde belirtilen (Değişik ibare:RG-5/2/2013-28550) Merkez veya İl Yapı Denetim Komisyonunu,
+ğ) (Mülga:RG-29/12/2018-30640)(4)
+h) Laboratuvar: İnşaat ve yapı malzemeleri ile ilgili ham madde ve mamul madde üzerinde ilgili standartlarına veya teknik şartnamelerine göre ölçüm, muayene, kalibrasyon yapabilen ve diğer özelliklerini tayin eden, Bakanlıktan izin almış tesisi,
+ı) Proje müellifi: Mimarlık, mühendislik tasarım hizmetlerini iştigal konusu olarak seçmiş, yapının etüt ve projelerini hazırlayan gerçek ve tüzel kişiyi,
+i) (Değişik:RG-29/12/2018-30640)(4) Şantiye şefi: Konusuna ve niteliğine göre yapım işlerini yapı müteahhidi adına yöneterek uygulayan, mühendis, mimar, teknik öğretmen veya tekniker diplomasına sahip teknik personeli,
+j) Taşıyıcı sistem: Yapıların temel, betonarme, ahşap, çelik karkas, duvar, döşeme ve çatı gibi yük taşıyan ve aktaran bölümlerini ve istinat yapılarını,
+k) (Ek:RG-22/8/2015-29453)2 Teminat: Kanunla verilen görev ve sorumluluklarını eksiksiz yerine getirmelerini teminen kuruluşlardan (Mülga ibare:RG-11/12/2020-31331) (…) (Mülga ibare:RG-12/6/2025-32924) alınan Tedavüldeki Türk Parası, Devlet İç Borçlanma senedi, bu senetler yerine düzenlenen belgeler ve (Mülga ibare:RG-12/6/2025-32924) teminat mektupları,
+l) Yapı: Karada ve suda, daimî veya geçici, yeraltı ve yerüstü inşaatları ile bunların ilave, değişiklik ve tamirlerini içine alan sabit ve hareketli tesisleri2,
+m) Yapı denetim kuruluşu: Bakanlıktan aldığı izin belgesi ile münhasıran yapı denetimi görevini yapan, ortaklarının tamamı mimar ve mühendislerden oluşan tüzel kişiyi2,
+n) Yapı denetleme defteri: Yapı denetim kuruluşunca, şantiyede yapılan denetim sonuçları işlenen ve şantiye şefince şantiyede muhafaza edilen defteri2,
+o) Yapı hasarı: Kullanımdan doğan hasarlar hariç, yapının fen ve sanat kurallarına aykırı, eksik, hatalı ve kusurlu yapılması nedeniyle yapıda meydana gelen ve yapının kullanımını engelleyen veya yapıda değer kaybı oluşturan her türlü hasarı2,
+ö) Yapı inşaat alanı: Işıklıklar hariç, bodrum kat, asma kat ve çatı arasında yer alan mekanlar ve ortak alanlar dahil yapının inşa edilen tüm katlarının alanını2,
+p) Yapı müteahhidi: Yapım işini, yapı sahibine karşı taahhüt eden veya ticari amaçla veya kendisi için şahsi finans kaynaklarını kullanarak üstlenen, ilgili meslek odasına kayıtlı, gerçek ve tüzel kişiyi2,
+r) Yapı sahibi: Yapı üzerinde mülkiyet hakkına sahip olan gerçek ve tüzel kişileri2,
+s) (Değişik:RG-29/12/2018-30640)(4) Hizmet bedeline esas yapı yaklaşık maliyeti: Binalarda, yapı inşaat alanının, Bakanlıkça bu Yönetmelik ile belirlenen birim maliyet veya birim maliyetleri ile çarpımından elde edilen bedeli,
+ş) Yapım süresi: Yapı sahibinin, yapı ruhsatını aldığı tarih ile yapı kullanma iznini aldığı tarih arasındaki dönemi2,
+t) (Değişik:RG-29/12/2018-30640)(4) Yardımcı kontrol elemanı: Denetçi mimar ve mühendislerin sevk ve idaresi altında görev yapacak olan mimar ve mühendisler ile Bakanlıkça sınırları belirlenen yapı grubu ve inşaat alanına kadar olan yapılarda mimar ve mühendisler yerine yapı denetimi faaliyetlerine katılabilen teknik öğretmen, yüksek tekniker, tekniker ve teknisyenleri,
+u) (Ek:RG-12/6/2025-32924) Teminat mektubu: Bankalar tarafından verilen teminat mektupları ile Türkiye’de yerleşik sigorta şirketleri tarafından kefalet sigortası kapsamında düzenlenen kefalet senetlerini,
+ifade eder.

@@ -1,0 +1,2 @@
+Faaliyeti devam eden yapı denetim kuruluşlarının donanım yönünden eksiklerini tamamlaması
+GEÇİCİ MADDE 5 – (1) Bu Yönetmeliğin yürürlüğe girdiği tarihten önce izin belgesi almış olan yapı denetim kuruluşları, 12’nci maddenin beşinci fıkrasında sayılan asgari donanımı ve şartları Yönetmeliğin yürürlüğe girdiği tarihten itibaren en geç üç ay içerisinde sağlamak ve bu konuda ilgili Bayındırlık ve İskân Müdürlüğüne yazılı olarak bilgi vermekle yükümlüdür.

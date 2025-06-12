@@ -1,0 +1,16 @@
+Merkez ve İl Yapı Denetim Komisyonlarının çalışma usul ve esasları
+MADDE 19 – (Başlığı ile birlikte değişik:RG-5/2/2013-28550)
+(1) Merkez Yapı Denetim Komisyonu;
+a) Başkanın yazılı veya sözlü daveti üzerine üye tam sayısının salt çoğunluğu ile toplanır. Kararlar çoğunlukla alınır. Çekimser oy kullanılamaz. Oyların eşitliği halinde, başkanın bulunduğu taraf çoğunlukta sayılır.
+b) (Değişik:RG-23/6/2021-31520) Yapı denetim kuruluşları ve laboratuvarları donanım ve teknik altyapı açısından inceletmek ve değerlendirmek, yapı denetim kuruluşlarının ve laboratuvarların faaliyetlerinin denetlenmesini sağlamak, denetçi belgeleri ile yapı denetim kuruluşlarına ve laboratuvarlara izin belgesi düzenlemek ve bu belgeleri iptal etmek için karar almak ile görevlidir.
+c) İhtilaflı konuların, şikâyetlerin ve yapı denetim kuruluşlarının ve laboratuvarların faaliyetlerinin mahallinde incelenmesini ister.
+ç) Yapı denetim kuruluşlarının ve laboratuvarların denetçi mimar ve mühendisleri ile (Mülga ibare:RG-29/12/2018-30640)(4) (…) yardımcı kontrol elemanlarının meslek içi eğitim faaliyetlerine ilişkin karar alabilir. Bu eğitimler için, kamu veya özel sektör kuruluşları ile işbirliği yapılabilir.
+(2) Merkez Yapı Denetim Komisyonunun yapı denetim izin belgesi, laboratuvar izin belgesi ve denetçi belgesi verilmesi ile ilgili iş ve işlemlerinin sekretarya hizmetleri, Bakanlıkça uygun görülen birim tarafından yürütülür.
+(3) İl Yapı Denetim Komisyonları;
+a) İl Yapı Denetim Komisyonu başkanın yazılı veya sözlü daveti üzerine üye tam sayısının salt çoğunluğu ile toplanır. Kararları çoğunlukla alınır. Çekimser oy kullanılamaz. Oyların eşitliği halinde, başkanın bulunduğu taraf çoğunlukta sayılır.
+b) (Değişik:RG-29/12/2018-30640)(4) İl Yapı Denetim Komisyonu, (Değişik ibare:RG-23/6/2021-31520) yapı denetim kuruluşları ve laboratuvarların donanım ve teknik alt yapı açısından yeterliliğini ve bunların faaliyetlerini denetlemek ve denetçi ile yardımcı kontrol elemanlarının adres değişikliği işlemlerini gerçekleştirmek ile görevlidir.
+c) İl Yapı Denetim Komisyonu, ihtilaflı konuları, şikayetleri ve yapı denetim kuruluşlarının ve laboratuvarların faaliyetlerini mahallinde inceler; bunun için gerektiğinde eleman veya elemanlar görevlendirebilir.
+ç) İl Yapı Denetim Komisyonu üç ayda bir çalışma faaliyetleri ile ilgili istatistik bilgilerini Merkez Yapı Denetim Komisyonuna gönderir.
+d) (Değişik:RG-22/8/2015-29453) Yapı denetim kuruluşlarının, (Değişik ibare:RG-29/12/2018-30640)(4) denetçilerinin ve yardımcı kontrol elemanlarının Yapı Denetimi Hakkında Kanun ve ilgili mevzuata aykırı uygulamalarına ilişkin olarak inşaatın bulunduğu ilin çalışma birimlerince hazırlanan raporlar, aynı ilin komisyonunca değerlendirilerek karara bağlanır. (Değişik ibare:RG-23/12/2022-32052) Kanunun 8 inci maddesinin birinci fıkrası uyarınca yeni iş almaktan men cezasının uygulanmasının gerektiğine karar verilmesi halinde Bakanlığa teklifte bulunulur.
+e) Denetçi belgeleri ile yapı denetim kuruluşu ve laboratuvar izin belgelerinin vize işlemlerini gerçekleştirmek ile görevlidir.
+(4) Merkez veya İl Yapı Denetim Komisyonu üyeliği yapanlar, bu üyelik sona erdikten sonraki iki yıl içinde, herhangi bir yapı denetim veya laboratuvar kuruluşunun ortağı olamaz.

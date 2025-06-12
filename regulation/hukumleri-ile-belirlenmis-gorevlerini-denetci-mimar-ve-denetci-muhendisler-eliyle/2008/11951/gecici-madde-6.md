@@ -1,0 +1,2 @@
+Şubeler aracılığıyla faaliyet gösteren yapı denetim kuruluşlarının durumu
+GEÇİCİ MADDE 6 – (1) Bu Yönetmeliğin yürürlüğe girdiği tarihten önce şube aracılığıyla bir denetim hizmeti üstlenmiş olan yapı denetim kuruluşları, söz konusu işin sözleşmesine göre denetim hizmeti tamamlanana kadar o ildeki faaliyetini sürdürebilir. Şube aracılığıyla bir başka ildeki tüm işlerini tamamlayan yapı denetim kuruluşlarının o ilde faaliyetine devam edebilmesi için 17’nci madde hükümlerine uygun biçimde belge alması şarttır.
