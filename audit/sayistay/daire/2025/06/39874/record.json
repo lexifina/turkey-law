@@ -1,0 +1,17 @@
+{
+  "kind": "decision",
+  "issuer": "Sayıştay 5. Dairesi",
+  "number": "701",
+  "decision_date": "2025-06-12",
+  "source_id": 39874,
+  "chamber": "5",
+  "ilam_number": "94",
+  "item_number": 1,
+  "public_body_type": "Belediyeler ve Bağlı İdareler",
+  "account_year": 2022,
+  "subject": "İhale Mevzuatı ile İlgili Kararlar",
+  "source": "https://www.sayistay.gov.tr/KararlarDaire/Detay/39874/",
+  "source_sha256": "3160bdffc235930fe5a680c5683be97c22ab370877a60ade5e59fc115531c452",
+  "text_status": "as-enacted",
+  "text_file": "metin.md"
+}
