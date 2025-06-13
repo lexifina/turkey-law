@@ -1,0 +1,22 @@
+{
+  "kind": "norm",
+  "issuer": "Gelir İdaresi Başkanlığı",
+  "document_type": "ozelge",
+  "number": "E-84974990-130[KDV/5 -İ- 1-2024/95]-324876",
+  "source_id": 38931,
+  "date": "2025-06-13",
+  "title": "Türkiye Cumhuriyeti İle Azerbaycan Cumhuriyeti Arasında İmzalanan Hibe Anlaşması Kapsamında Verilen Teknik Müşavirlik ve Mesleki Kontrollük Hizmetinde Kurumlar Vergisi ve KDV Uygulaması hk.",
+  "source": "https://gib.gov.tr/mevzuat/kanun/436/ozelge/38931",
+  "related_law": "3065 sayılı KATMA DEĞER VERGİSİ KANUNU",
+  "source_api": "https://gib.gov.tr/api/gibportal/mevzuat/ozelge/list",
+  "source_listing": "evidence/list/2026-11-16/ozelge-p009.json",
+  "source_listing_sha256": "9cb52b4963a9a177a23948f6e28c12936c2f43c88a0b410872bb81c01983667c",
+  "source_sha256": "1fb237fad317635402a6126c377ce802a32989d80851aa948e79a1e9e8559b96",
+  "text_status": "as-enacted",
+  "text_file": "metin.md",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  }
+}
