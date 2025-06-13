@@ -1,0 +1,2 @@
+Yürürlükten kaldırılan yönetmelikler
+MADDE 28 – (1) 29/11/2014 tarihli ve 29190 sayılı Resmî Gazete’de yayımlanan Gençlik ve Spor Bakanlığı Personeli Görevde Yükselme ve Unvan Değişikliği Yönetmeliği, Spor Genel Müdürlüğü Personeli Görevde Yükselme ve Unvan Değişikliği Yönetmeliği ve Yüksek Öğrenim Kredi ve Yurtlar Kurumu Genel Müdürlüğü Personeli Görevde Yükselme ve Unvan Değişikliği Yönetmeliği yürürlükten kaldırılmıştır.
