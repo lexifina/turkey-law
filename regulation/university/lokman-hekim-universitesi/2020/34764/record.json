@@ -1,0 +1,32 @@
+{
+  "checked_on": "2026-11-14",
+  "commencement_quotes": [
+    "Yürürlük\nMADDE 16 – (1) Bu Yönetmelik yayımı tarihinde yürürlüğe girer.\n"
+  ],
+  "completeness": "text",
+  "date_quote": "amendment Gazette table: 13/6/2025",
+  "first_law": null,
+  "gazette": "31216",
+  "images": {
+    "deferred": 0,
+    "omitted": 0,
+    "referenced": 0,
+    "source": 0
+  },
+  "in_force": "2025-06-13",
+  "in_force_basis": "latest amendment Gazette date printed by the source for its current consolidated text",
+  "issuer": "Lokman Hekim Üniversitesi",
+  "kind": "regulation",
+  "notes": [],
+  "published": "2020-08-17",
+  "source": "https://www.mevzuat.gov.tr/anasayfa/MevzuatFihristDetayIframe?MevzuatTur=8&MevzuatNo=34764&MevzuatTertip=5",
+  "source_bytes": 53917,
+  "source_id": "8.5.34764",
+  "source_sha256": "77f76f4a924e103a96d640c1d4f8cc87f8f6945f1df25a946f1677155bea34b7",
+  "structure": "article-files",
+  "text_status": "current-consolidated",
+  "title": "LOKMAN HEKİM ÜNİVERSİTESİ SAĞLIKTA İNOVASYON VE\r\nSİMÜLASYONLA EĞİTİM, UYGULAMA VE ARAŞTIRMA MERKEZİ YÖNETMELİĞİ",
+  "university_id": 482,
+  "version_label": "oldest version available",
+  "word_count": 1167
+}
