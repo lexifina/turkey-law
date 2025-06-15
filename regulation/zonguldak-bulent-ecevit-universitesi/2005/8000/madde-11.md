@@ -1,0 +1,2 @@
+Danışma kurulunun görevleri
+Madde 11 — Danışma Kurulu; Üniversite, sanayi, ticaret ve hizmet çevreleri arasında ilişkilerin düzenlenmesi ve geliştirilmesi için Yönetim Kuruluna önerilerde bulunur. Sanayiciler, ticaret erbabı ile Merkez arasında belirli tarihlerde (yılda en az bir defa) işbirliği konusunda yapılan çalışmaları değerlendirmeye yönelik toplantılar yapar, problemleri belirler ve muhtemel çözüm yollarını araştırır.
