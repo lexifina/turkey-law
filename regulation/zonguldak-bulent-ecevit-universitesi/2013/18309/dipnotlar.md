@@ -1,0 +1,1 @@
+[1] 15/6/2025 tarihli ve 32927 sayılı Resmî Gazete’de yayımlanan değişiklik ile Yönetmeliğin adı “Bülent Ecevit Üniversitesi İşçi Sağlığı ve İş Güvenliği Uygulama ve Araştırma Merkezi Yönetmeliği” iken metne işlendiği şekilde değiştirilmiştir.
