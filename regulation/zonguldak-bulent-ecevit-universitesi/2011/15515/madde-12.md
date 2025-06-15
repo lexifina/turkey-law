@@ -1,0 +1,2 @@
+Merkez danışma kurulu
+MADDE 12 – (1) Merkez Danışma Kurulu; Üniversite içinden veya dışından Karadeniz bölgesi tarihini, jeopolitiğini ve stratejisini araştıran bu konularda çalışma ve yayınlar yapmış bilgi ve deneyim sahibi kişiler arasından Rektör tarafından seçilecek en az beş kişiden oluşur. Merkez Danışma Kurulu üyelerinin görev süresi üç yıldır. Süresi biten üyeler yeniden görevlendirilebilir.
