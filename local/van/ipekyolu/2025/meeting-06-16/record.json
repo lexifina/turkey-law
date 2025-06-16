@@ -1,0 +1,25 @@
+{
+  "number": "meeting-06-16",
+  "number_as_published": "meeting-06-16",
+  "year": 2025,
+  "title": "2025 Yılı Haziran Ayı Meclis Olağan Toplantısı Karar Özetleri",
+  "decision_date": "2025-06-16",
+  "source": "https://www.ipekyolu.bel.tr/meclis-kararlari",
+  "official_document": "https://www.ipekyolu.bel.tr/upload/files/2025_Haziran_Olagan_Meclis_Karar_Ozetleri_LCHZLCHX_3956.pdf",
+  "source_sha256": "04360741cd0122870776659a1bed34a8ea04b6989e758cc72978adea6612f7e4",
+  "issuer": "İpekyolu Belediye Meclisi",
+  "history_type": "metadata",
+  "text_status": "metadata-only: listing fields as published; complete decision text is in the linked official document, not transcribed",
+  "in_force": "2025-06-16",
+  "in_force_basis": "Decision date as printed in the official council listing: Karar Tarih: 2025-06-16; adoption date of the council decision; legal commencement not asserted",
+  "missing": [
+    "complete official decision text",
+    "official annexes"
+  ],
+  "law_text_complete": false,
+  "privacy_withheld": false,
+  "listing_label": "2025 Yılı Haziran Ayı Meclis Olağan Toplantısı Karar Özetleri",
+  "record_scope": "one official file of council decisions (meeting)",
+  "date_read_from": "date printed with the file in the official listing",
+  "official_page": "https://www.ipekyolu.bel.tr/meclis-kararlari"
+}
