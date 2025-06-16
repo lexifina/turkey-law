@@ -1,0 +1,20 @@
+{
+  "record_type": "gazette-item",
+  "gazette": "Resmî Gazete",
+  "jurisdiction": "TR",
+  "date": "2025-06-16",
+  "issue": "32928",
+  "edition": "regular",
+  "item": 3,
+  "section": "YÜRÜTME VE İDARE BÖLÜMÜ",
+  "heading": "YÖNETMELİKLER",
+  "title": "İstanbul 29 Mayıs Üniversitesi Kudüs Çalışmaları Uygulama ve Araştırma Merkezi (KUDAM) Yönetmeliği",
+  "official_link": "https://www.resmigazete.gov.tr/eskiler/2025/06/20250616-3.htm",
+  "link_format": "htm",
+  "index_url": "https://www.resmigazete.gov.tr/eskiler/2025/06/20250616.htm",
+  "index_sha256": "944bc5fbffc9a1f0f1da3a0a9c746fdc38f1a409b7af8440a1067fb63d89ba55",
+  "index_header": "16 Haziran 2025 ... 32928 Sayılı Resmî Gazete",
+  "issue_pdf": "https://www.resmigazete.gov.tr/eskiler/2025/06/20250616.pdf",
+  "in_force_basis": "Resmî Gazete publication date; not a commencement reading.",
+  "text_status": "metadata-only; text not yet fetched (follow-up pass adds it as its own commit)"
+}
