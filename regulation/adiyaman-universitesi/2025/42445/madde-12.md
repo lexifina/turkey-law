@@ -1,0 +1,2 @@
+Danışma Kurulu
+MADDE 12- (1) Danışma Kurulu, Merkezin amaçları doğrultusunda kadın ve aile çalışmaları konusunda bilgi ve deneyimi olan öğretim elemanları ile Merkezin çalışmaları ile ilgili kamu ve özel kuruluşlardaki temsilciler arasından Müdürün önerisi üzerine Rektör tarafından üç yıl için görevlendirilen en fazla yedi üyeden oluşur. Süresi biten üyeler yeniden görevlendirilebilir. Danışma Kurulu üç ayda bir kez Müdürün daveti üzerine toplanır. Danışma Kurulunun kararları oy çokluğu ile alınır.
