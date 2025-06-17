@@ -1,0 +1,11 @@
+Merkezin faaliyet alanları
+MADDE 6- (1) Merkezin faaliyet alanları şunlardır:
+a) Ağız ve diş sağlığı ile ilgili tüm fakülte, enstitü ve yüksekokulların lisans, lisansüstü, doktora ve uzmanlık öğrencilerine uygulamalı eğitim ve öğretim olanakları sağlayarak ağız ve diş sağlığı eğitiminin bütün alanlarında deneyim kazanmış sağlık personeli yetiştirmek, öğretim elemanları ile öğrencilere bilimsel araştırma yapma koşullarını hazırlayarak kendilerini geliştirmelerini ve bilime katkılarını sağlamak.
+b) Merkez bünyesinde; diş hekimliği tedavi protokolleri kapsamında gerekli teknikleri uygulayarak, lokal ve genel ameliyathaneleri ile hastaların ayaktan veya yatarak müşahede, muayene, teşhis, tedavi ve rehabilite edilmelerini sağlamak.
+c) Merkez bünyesinde genel ameliyathane koşullarının ve yataklı servis hizmetlerinin yerine getirilemediği hallerde gerekli protokollerin yapılmasını sağlamak.
+ç) İlgili mevzuat hükümleri kapsamında ağız ve diş sağlığı hususunda toplumun bilinçlendirilmesi için gerektiğinde kamu kurumları ve özel kuruluşlarla iş birliği yaparak ortak projelerin geliştirilmesine imkân sağlamak, bilim ve toplum arasında köprü oluşturmak.
+d) Tıbbi araştırma ve uygulamaların en üst düzeyde gerçekleştirilmesi için bilimsel araştırma koşullarını hazırlamak.
+e) İlgili mevzuat hükümleri kapsamında ulusal ve uluslararası, kamu kurum ve kuruluşları ile özel kuruluşlara merkezin amaçları doğrultusunda projeler hazırlamak, eğitim programları düzenlemek, bilimsel görüş ve benzeri hizmetleri vermek.
+f) Üniversite öğrencilerinin sağlıklı yaşam bilinci kazanmalarını ve Merkez projelerinde etkin görev almalarını sağlamak, bu amaçla özendirici eğitsel faaliyetlerde bulunmak ve bu alanda çalışmak isteyenleri desteklemek.
+g) İlgili mevzuat hükümleri kapsamında Merkez personelini yetiştirmek ve bilimsel eğitim-öğretim, uygulama ve araştırma yapma olanağı sağlamak amacıyla; başta Diş Hekimliği Fakültesi olmak üzere Üniversite bünyesindeki diğer fakülte, enstitü, yüksekokul, araştırma ve eğitim merkezleri ile yurt içinde ve yurt dışındaki diğer kurumlarla iş birliği yaparak sağlık hizmetlerinin kaliteli ve verimli düzeyde yürütülmesini sağlamak.
+ğ) Yönetim Kurulunun kararlaştıracağı Merkezin amaçlarına uygun diğer faaliyetlerde bulunmak.
