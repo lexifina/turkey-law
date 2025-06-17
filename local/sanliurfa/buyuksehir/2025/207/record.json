@@ -1,0 +1,24 @@
+{
+  "number": "207",
+  "number_as_published": "207",
+  "year": 2025,
+  "title": "NAZIM VE UYGULAMA İMAR PLANI(HİLVAN-ÜÇÜZLER)",
+  "decision_date": "2025-06-17",
+  "source": "https://www.sanliurfa.bel.tr/icerik/20721/106/nazim-ve-uygulama-imar-planihilvan-ucuzler",
+  "official_document": null,
+  "source_sha256": "5b8e63ea6546d07f86ae4639d9fb462f7984ec0f74241b98dd70df41697e9e06",
+  "issuer": "Şanlıurfa Büyükşehir Belediye Meclisi",
+  "history_type": "metadata",
+  "text_status": "metadata-only: decision number, date and subject from the official announcement; the decision text is not published on the page",
+  "in_force": "2025-06-17",
+  "in_force_basis": "Decision date as printed in the official council listing: 17.06.2025 tarih ve 207 sayılı (council decision cited in the official announcement); adoption date of the council decision; legal commencement not asserted",
+  "missing": [
+    "complete official decision text",
+    "official annexes"
+  ],
+  "law_text_complete": false,
+  "privacy_withheld": false,
+  "record_scope": "one council decision, as cited in the municipality's official plan announcement (ilan)",
+  "announcement_date": "2025-07-02",
+  "listing": "https://www.sanliurfa.bel.tr/kategori/82/0/meclis-kararlari?page=1"
+}
