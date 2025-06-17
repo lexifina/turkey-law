@@ -1,0 +1,24 @@
+{
+  "number": "203",
+  "number_as_published": "203",
+  "year": 2025,
+  "title": "NAZIM İMAR PLANI(HALİLİYE-SULTAN FATİH)",
+  "decision_date": "2025-06-17",
+  "source": "https://www.sanliurfa.bel.tr/icerik/20657/106/nazim-imar-planihaliliye-sultan-fatih",
+  "official_document": null,
+  "source_sha256": "66aac9074b960b75f1c382f5138be70913a407721f9c7425a54b202f011066aa",
+  "issuer": "Şanlıurfa Büyükşehir Belediye Meclisi",
+  "history_type": "metadata",
+  "text_status": "metadata-only: decision number, date and subject from the official announcement; the decision text is not published on the page",
+  "in_force": "2025-06-17",
+  "in_force_basis": "Decision date as printed in the official council listing: 17.06.2025 tarih ve 203 sayılı (council decision cited in the official announcement); adoption date of the council decision; legal commencement not asserted",
+  "missing": [
+    "complete official decision text",
+    "official annexes"
+  ],
+  "law_text_complete": false,
+  "privacy_withheld": false,
+  "record_scope": "one council decision, as cited in the municipality's official plan announcement (ilan)",
+  "announcement_date": "2025-06-27",
+  "listing": "https://www.sanliurfa.bel.tr/kategori/82/0/meclis-kararlari?page=1"
+}
