@@ -1,0 +1,2 @@
+Danışma Kurulu
+MADDE 12- (1) Danışma Kurulu; Müdürün başkanlığında ve müdür yardımcıları ve bilim tarihi konusunda çalışmaları bulunan kamu kurum ve kuruluşları ve özel sektör kurum ve kuruluş temsilcileri ile uzmanlar arasından istekleri halinde, üç yıllık süre ile Rektör tarafından görevlendirilen en fazla on beş üyeden oluşur. Danışma Kurulu, Müdürün çağrısı üzerine yılda en az bir kez toplanır.
