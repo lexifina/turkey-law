@@ -1,0 +1,22 @@
+{
+  "kind": "norm",
+  "issuer": "Gelir İdaresi Başkanlığı",
+  "document_type": "ozelge",
+  "number": "E-38418978-120[42-2025/4]-",
+  "source_id": 38718,
+  "date": "2025-06-18",
+  "title": "Yapılan İşin Yıllara Sari İnşaat İşi Olarak Değerlendirilip Değerlendirilemeyeceği ve Yapılacak Ödemeler Üzerinden Vergi Kesintisi Yapılıp Yapılmayacağı hk.",
+  "source": "https://gib.gov.tr/mevzuat/kanun/433/ozelge/38718",
+  "related_law": "193 sayılı GELİR VERGİSİ KANUNU",
+  "source_api": "https://gib.gov.tr/api/gibportal/mevzuat/ozelge/list",
+  "source_listing": "evidence/list/2026-11-16/ozelge-p009.json",
+  "source_listing_sha256": "9cb52b4963a9a177a23948f6e28c12936c2f43c88a0b410872bb81c01983667c",
+  "source_sha256": "10553f7140a35658d9dbe2cd908ead75f5caaa0f844e71090bea2e948e1fb240",
+  "text_status": "as-enacted",
+  "text_file": "metin.md",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  }
+}
