@@ -1,0 +1,16 @@
+{
+  "kind": "decision",
+  "issuer": "Sayıştay Temyiz Kurulu",
+  "number": "58127",
+  "decision_date": "2025-06-18",
+  "source_id": 32322,
+  "chamber": "1",
+  "file_number": "53418",
+  "public_body_type": "Genel Bütçe Kapsamındaki İdareler",
+  "account_year": "2019",
+  "subject": "İhale Mevzuatı ile İlgili Kararlar",
+  "source": "https://www.sayistay.gov.tr/KararlarTemyiz/Detay/32322/",
+  "source_sha256": "f82030cc8a40dcf3fd9168901ce13ad2168e715ec104cd1d3ce1e9d9025cf115",
+  "text_status": "as-enacted",
+  "text_file": "metin.md"
+}
