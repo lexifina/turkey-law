@@ -1,0 +1,7 @@
+Mazerete Dayalı Naklen Atamalar
+Madde 24 — (Değişik birinci fıkra:RG-30/5/2025-32915) Bu Yönetmelik kapsamındaki personel; sağlık, aile birliği ve can güvenliği mazeretlerini belgelendirmeleri halinde 22 nci ve 22/C maddelerindeki şartlar aranmaksızın istekleri üzerine naklen atanabilirler.
+(Ek ikinci fıkra:RG-9/5/2006-26163) (Değişik:RG-14/5/2016-29712) Bu şekilde atananlar mazeretlerinin herhangi bir nedenle ortadan kalkması durumunda, süre şartına bakılmaksızın uygun bir kadro ve ihtiyaç bulunması halinde önceki görev yerlerine atanabilirler.
+(Ek üçüncü fıkra:RG-9/10/2010-27724) Görev yapılan yere atanmadan önce var olan bir mazerete dayalı olarak nakil talebinde bulunulamaz.
+(Ek dördüncü fıkra:RG-9/10/2010-27724) (Değişik fıkra:RG-21/11/2015-29539) Bu madde kapsamındaki aile birliği mazeretine dayalı naklen atamalarda, 22 nci maddenin beşinci fıkrasındaki toplu atama usulü de uygulanabilir. (Ek cümle:RG-30/6/2018-30464) Toplu atama usulü uygulanması durumunda aile birliği mazeretine dayalı naklen atama işlemleri yılda iki kez gerçekleştirilir.
+(Ek beşinci fıkra:RG-21/11/2015-29539) Sağlık ve aile birliği mazeretlerine dayalı olarak yer değiştirmeye tabi tutulan memur, mazeretinin devam ettiğini her yıl Ocak ayında alacağı belgeyle belgelendirmek zorundadır.
+(Ek altıncı fıkra:RG-21/11/2015-29539) Sağlık ve can güvenliği mazeretlerine dayalı olarak yapılacak yer değiştirme suretiyle atamalar, atanma dönemine tabi değildir.

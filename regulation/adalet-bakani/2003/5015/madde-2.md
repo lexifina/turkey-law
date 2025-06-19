@@ -1,0 +1,3 @@
+Kapsam
+Madde 2 — (Değişik birinci fıkra:RG-30/5/2025-32915) Bu Yönetmelik, adlî ve idarî yargı hâkim ve Cumhuriyet savcıları, hâkim ve savcı yardımcıları, icra müdürleri, icra müdür yardımcıları, icra kâtipleri, adalet uzmanları, adalet uzman yardımcıları ile ceza infaz kurumları ve tutukevleri kontrolör ve stajyer kontrolörleri hariç olmak üzere Adalet Bakanlığı merkez ve taşra teşkilâtı ile bağlı kuruluşlarına ilk defa Devlet memuru olarak atanacakların sınavlarında, atanmalarında ve görevde bulunan memurların nakillerinde uygulanır.
+Haklarında özel düzenlemeler bulunan personele ilişkin hükümler saklıdır.

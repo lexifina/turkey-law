@@ -1,0 +1,6 @@
+Sınavı Kazananların Atanması
+Madde 18 — (Değişik birinci fıkra:RG-8/12/2020-31328) Sınavı kazananların atamaları, ilân edilen kadro sayısını geçmeyecek şekilde başarı listesinin kesinleşmesini müteakip başarı listesindeki sıraya göre yapılır.
+Atama şartlarını taşımayanların atamaları yapılmaz. Bu şekilde yapılan atamalar iptal edilir.
+Haklarında atama şartlarının kaybedilmesini gerektirecek nitelikteki eylemlerinden dolayı adlî bir soruşturma veya kovuşturma bulunanlardan sınavda başarılı sayılanların atamaları soruşturma veya kovuşturma sonuçlanıncaya kadar bekletilir.
+Ataması yapılanlardan, geçerli bir mazereti olmaksızın süresi içerisinde görevine başlamayanların veya atanma hakkından vazgeçenlerin ataması iptal edilir.
+(Değişik beşinci fıkra:RG-8/12/2020-31328) İlan edilen kadrolardan; bu maddede yer alan nedenlerle atamaların iptal edilmesi, ölüm, memurluktan çekilme veya çıkarılma, başka unvanlı kadro veya pozisyonlara ya da başka bir kuruma naklen atanma sebepleriyle boş kalan veya boşalanlara, başarı sıralamasının kesinleştiği tarihten itibaren bir yıllık süreyi aşmamak üzere aynı unvanlı kadrolar için yapılacak müteakip sınava ilişkin duyuruya kadar başarı listesindeki sıralamaya göre atama yapılabilir. Bunlar dışında kalanlar herhangi bir hak iddiasında bulunamazlar.

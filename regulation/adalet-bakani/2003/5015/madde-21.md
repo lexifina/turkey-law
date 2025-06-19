@@ -1,0 +1,3 @@
+Özel Düzenlemeler
+Madde 21 — (Değişik:RG-8/12/2020-31328)
+Bu Yönetmeliğin uygulanmasında, 12/6/2014 tarihli ve 29028 sayılı Resmî Gazete’de yayımlanan Sosyal Hizmetler Kanunu Kapsamında Tanınan İstihdam Hakkının Kullanımına İlişkin Yönetmelik, 2/1/2014 tarihli ve 2014/5780 sayılı Bakanlar Kurulu Kararı ile yürürlüğe konulan Engelli Kamu Personel Seçme Sınavı ve Engellilerin Devlet Memurluğuna Alınmaları Hakkında Yönetmelik ve 18/4/2014 tarihli ve 2014/6289 sayılı Bakanlar Kurulu Kararı ile yürürlüğe konulan Terörle Mücadele Kanunu Kapsamında Kamu Kurum ve Kuruluşlarında İstihdam Edilecekler Hakkında Yönetmelik ile diğer özel düzenlemelere göre yapılacak atamalara dair hükümler saklıdır.

@@ -1,0 +1,3 @@
+Ek Madde 3 – (Ek:RG-30/6/2018-30464)
+Terör eylemleri etkisi ve sebebiyle şehit olan veya çalışamayacak derecede malul olan ya da malul olup da çalışabilir durumda olan kamu görevlileri ile er ve erbaşların, Devlet memuru olarak görev yapan eş ve çocukları ile anne, baba ve kardeşlerinin; yer değiştirme suretiyle atanma talepleri, bu durumlarının ilgili makamlarca belgelendirilmiş olması kaydıyla, kadro imkanları da dikkate alınmak suretiyle bu Yönetmelikteki kısıtlayıcı hükümlere bakılmaksızın öncelikle yerine getirilir.
+Bu madde kapsamındaki naklen atamalarda 22 nci maddenin beşinci fıkrasındaki toplu atama usulü de uygulanabilir. Toplu atama usulü uygulanması durumunda naklen atama işlemleri yılda iki kez gerçekleştirilir.

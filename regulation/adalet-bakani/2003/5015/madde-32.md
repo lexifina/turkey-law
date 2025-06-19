@@ -1,0 +1,2 @@
+Atamaları Adalet Komisyonlarınca Teklif Edilenler Dışındaki Memurların Atamalarında İstenecek Belgeler
+Madde 32 — Atamaları adalet komisyonlarınca teklif edilenler dışındaki memurların atamalarında, adalet komisyonu muvafakat kararı, hizmet cetveli, sicil özeti, önceki atama kararları ile sicil ve denetim elemanları raporları hariç bu Yönetmeliğin 30 ve 31 inci maddelerinde sayılan diğer belgeler istenir.

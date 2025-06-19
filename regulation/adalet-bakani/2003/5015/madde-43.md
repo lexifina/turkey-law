@@ -1,0 +1,2 @@
+Muvazzaf Askerliğe Ayrılan Memurların Terhislerinde Göreve Başlatılmaları
+Madde 43 — Bu Yönetmelik kapsamında bulunup askerlik hizmetini yapmak üzere silah altına alınanlardan, askerlik görevini tamamlayıp memuriyete dönmek isteyenlerin terhis tarihinden itibaren 30 gün içinde ilgisine göre Bakanlık merkez ve taşra teşkilâtı ile bağlı kuruluşlarına başvurmaları ve başvurma tarihinden itibaren azamî otuz gün içinde göreve başlatılmaları zorunludur.

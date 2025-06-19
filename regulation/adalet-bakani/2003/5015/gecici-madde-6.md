@@ -1,0 +1,1 @@
+Geçici Madde 6 – (Ek:RG-29/8/2024-32647) Bu maddenin yayımı tarihinden önce duyurusu yapılmış personel alımına ilişkin işlemler, duyurunun yapıldığı tarihte yürürlükte bulunan hükümlere göre tamamlanır.

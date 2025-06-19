@@ -1,0 +1,2 @@
+Bakanlık Onayına Tâbi Olmayan Adalet Komisyonları Kararları
+Madde 45 — Adalet komisyonlarınca yargı çevresi içinde unvan veya sınıf değişikliği olmadan yapılan naklen atama ve kademe ilerlemesi ve derece yükselmesine ilişkin verilen kararlar (Ek ibare:RG-9/5/2006-26163) izin ve aslî memurluğa atanmaya ilişkin kararlar Bakanlık onayına tâbi olmayıp Bakanlıktaki kayıtlara işlenmek üzere ilgilinin dilekçesi ve hizmet cetveli ile birlikte ilgisine göre Personel Genel Müdürlüğüne veya Ceza ve Tevkifevleri Genel Müdürlüğüne gönderilir.

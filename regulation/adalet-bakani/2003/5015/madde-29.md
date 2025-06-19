@@ -1,0 +1,13 @@
+Hizmet Gereği Atama
+Madde 29 — (Değişik birinci fıkra:RG-14/7/2012-28353) Adlî veya idarî soruşturma ya da denetim elemanlarınca düzenlenen raporlara göre olumsuzluğu tespit edilmiş olanlar veya tutum ve davranışları nedeniyle o yerde kalmaları, ilgisine göre Bakanlıktaki birim amiri, Cumhuriyet başsavcısı, bölge idare mahkemesi başkanı veya Adlî Tıp Kurumu Başkanınca uygun görülmeyip gerekçeli olarak atanmaları teklif edilenler, bu Yönetmelikte belirtilen zorunlu çalışma sürelerini tamamlamadan (Değişik ibare:RG-21/11/2015-29539) ve yer değiştirme sureti ile atanma dönemi beklenmeksizin hizmet gereği olarak başka bir yere atanabilirler. Memurun görev yaptığı yerde ihtiyaç bulunmaması halinde diğer yerlere de ataması yapılabilir.
+Atamaları adalet komisyonlarınca teklif edilenler komisyonlarca komisyon merkez veya mülhakatlarına atanabilecekleri gibi komisyonların teklifi üzerine Bakanlık onayı ile başka yerlere de atanabilirler.
+Bakanlık ve Adlî Tıp Kurumu merkez kadrolarında görev yapan personel birinci fıkrada belirtilen nedenlerle durumlarına uygun taşra kadrolarına atanabilirler.
+Yüksek mahkemelerde görev yapan 657 sayılı Devlet Memurları Kanununa tâbi personel, ilgili yüksek mahkemenin teklifi üzerine iktisap ettikleri kadro ve aylığa uygun taşra teşkilâtı kadrolarına Bakanlıkça atanabilirler.
+Bu maddeye göre hizmet gereği naklen ataması yapılanlar,
+a) Atandığı yerde göreve başladığı tarihten itibaren en az üç yıl görev yapması,
+b) Atandığı yerdeki son üç yıla ait sicil raporları ile denetim elemanlarınca düzenlenen gizli raporlarının iyi olması,
+c) Atandığı yerdeki herhangi bir eylemi ile ilgili olarak son üç yıl içerisinde uyarma dışında herhangi bir disiplin cezası almamış bulunması,
+d) Atandığı yerdeki herhangi bir eylemi ile ilgili olarak son üç yıl içerisinde taksirli suçlar dışında paraya çevrilmiş veya tecil edilmiş olsa bile hükümlülüğü ile adlî ve idarî soruşturması veya ceza davasının bulunmaması,
+e) Atanmak istediği yerde durumuna uygun boş kadro ve ihtiyaç bulunması
+şartıyla kendi isteği ile naklen atanma talebinde bulunabilirler. (Değişik cümle:RG-8/12/2020-31328) Ancak askerlikte, açıkta ve aylıksız izinde geçirilen sürelerin tamamı ile hastalık raporlarının üç aydan fazlası üç yıllık süreden sayılmaz.
+(Değişik altıncı fıkra:RG-8/12/2020-31328) Hizmet gereği olarak atananlardan; aynı komisyon içinde bir yere atananlar önceki görev yerine, komisyon dışı bir yere atananlar önceki görev yerinin bağlı olduğu merkez ve mülhakatına, atamaları komisyonlarca teklif edilenler dışında kalanlar önceki görev yerinin il ve ilçelerine beş yıl dolmadan atanamazlar.
