@@ -1,0 +1,7 @@
+Özel öğrenciler
+MADDE 13- (1) Üniversiteye kayıtlı olan öğrenci, resmî sağlık kurumlarından alınacak olan sağlık kurulu raporu ile kanıtlanan sağlık nedenleriyle veya Senato tarafından belirlenen nedenlerle toplamda en fazla iki yarıyıl ilgili yönetim kurulu kararı ile aynı düzeyde başka bir yükseköğretim kurumundan özel öğrenci olarak ders alabilir. Bu süre, öğrencinin talebi ve ancak aşağıdaki şartlar çerçevesinde Yükseköğretim Kurulunun kararıyla uzatılabilir:
+a) Öğrencinin, yükseköğretim kurumuna yerleşmesinden sonra eğitimi sebebiyle ikamet edilen ilde tedavisi mümkün olmayan ciddi bir hastalık teşhisi konulduğunun ya da var olan hastalığın ilerlediğinin Devlet hastanesi veya Devlet üniversitesi hastanesinden alınmış sağlık kurulu raporu ile belgelenmiş olması.
+b) Öğrencinin, maruz kaldığı darp, şiddet gibi fiiller sebebiyle öğrenimini kayıtlı olduğu yükseköğretim kurumunda devam ettirmesinin mümkün olmadığına ilişkin Üniversite Yönetim Kurulunun teklifinin olması.
+(2) Yurt dışındaki yükseköğretim kurumlarında eğitim alan Türk vatandaşı öğrenciler, özel öğrencilik imkânından en fazla iki dönem yararlanabilir.
+(3) Özel öğrencilikte geçirilen süreler normal ve azami öğretim süresine dâhildir.
+(4) Aynı düzeyde başka bir yükseköğretim kurumundan gelerek Üniversitede özel öğrenci olarak ders almak isteyen öğrenciler, resmî sağlık kurumlarından alınacak sağlık kurulu raporu ile kanıtlanan sağlık nedenlerine veya Senato tarafından belirlenen nedenlere dayalı olarak ilgili birim yönetim kurulu kararı ile Üniversitede ders alabilirler.

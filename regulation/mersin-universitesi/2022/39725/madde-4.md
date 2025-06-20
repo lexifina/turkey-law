@@ -1,0 +1,27 @@
+Tanımlar
+MADDE 4- (1) Bu Yönetmelikte geçen;
+a) Alt birim: Birimler içinde faaliyet gösteren bölümü, anabilim/anasanat dalını veya programı,
+b) Alt birim kurulu: Bölüm veya anabilim/anasanat dalı kurulunu,
+c) (Değişik ibare:RG-23/4/2025-32879) Avrupa Kredi Transfer Sistemi (AKTS): Öğrencinin bir dersi başarıyla tamamlayabilmesi için yapması gereken çalışmaların tamamını kapsayan ve öğrencilere kazandırılacak bilgi, beceri ve yetkinlikleri elde etmek için gerekli olan toplam iş yükünü temel alan sayısal değeri,
+ç) Akademik takvim: Eğitim-öğretim dönemlerinin başlama ve bitiş tarihleri ile başvuru, kayıt, sınav ve diğer önemli tarihleri içeren ve Senato tarafından onaylanan takvimi,
+d) Birim: Mersin Üniversitesine bağlı fakülte, yüksekokul ve meslek yüksekokulunu,
+e) Birim kurulu: Fakültelerde fakülte kurulunu, yüksekokullarda yüksekokul kurulunu, meslek yüksekokullarında meslek yüksekokul kurulunu,
+f) Birim yönetim kurulu: Fakültelerde fakülte yönetim kurulunu, yüksekokullarda yüksekokul yönetim kurulunu, meslek yüksekokullarında meslek yüksekokul yönetim kurulunu,
+g) Danışman: Bir öğrenciye, üniversite hayatı süresince, ders kaydı, eğitim-öğretim çalışmaları ve üniversite yaşamı ile ilgili konularda yardımcı olmak ve yönlendirmek üzere, ilgili alt birim tarafından önerilen ve ilgili birim yönetim kurulu tarafından görevlendirilen öğretim üyesi, öğretim görevlisi ve doktora/sanatta yeterlik derecesine sahip araştırma görevlilerini,
+ğ) Ders kredisi: Bir kredi, bir yarıyıl içinde haftada bir ders saatlik teorik ders ve/veya seminer, iki ders saatlik stüdyo, atölye, laboratuvar, klinik, arazi çalışması ve benzeri uygulamalı çalışmalara ilişkin ulusal krediyi ifade eden sayısal değeri,
+h) Diploma eki: Uluslararası saydamlığı pekiştirmeyi hedefleyen ve elde edilmiş yetkinlik ve beceriler ile bunların ifade edildiği diploma, derece, sertifika gibi belgelerin akademik ve mesleki tanınmasını sağlamaya yönelik ve yükseköğretim diplomasına ek olarak verilen belgeyi,
+ı) (Değişik:RG-23/4/2025-32879) Eğitim-öğretim dönemi: Sınavlar hariç 14 (on dört) haftalık (70 iş günü) güz ve 14 (on dört) haftalık (70 iş günü) bahar yarıyıllarından oluşan dönemi,
+i) Katkı payı/öğrenim ücreti: 2547 sayılı Kanun gereği; birinci öğretim, ikinci öğretim ve uzaktan öğretim öğrencileri ile yabancı uyruklu öğrencilerin ödemesi gereken ücreti,
+j) Ortak zorunlu dersler: 2547 sayılı Kanunun 5 inci maddesinin birinci fıkrasının (ı) bendinde yer alan dersler ile Rektörlük Enformatik Bölümü tarafından yürütülen temel bilişim derslerini,
+k) ÖBS: Mersin Üniversitesi Öğrenci Bilgi Sistemini,
+l) (Mülga:RG-6/2/2024-32452)
+m) Öğrenci: Fakülte, yüksekokul ve meslek yüksekokuluna kayıtlı öğrenciyi,
+n) ÖSYM: Ölçme, Seçme ve Yerleştirme Merkezi Başkanlığını,
+o) Rektör: Mersin Üniversitesi Rektörünü,
+ö) Rektörlük: Mersin Üniversitesi Rektörlüğünü,
+p) Senato: Mersin Üniversitesi Senatosunu,
+r) Staj: Yükseköğretim kurumlarında verilen ve programa özgü olarak belirlenmiş teorik ve uygulamalı dersler dışında, öğrencilerin öğretim programlarıyla kazandırılması öngörülen mesleki bilgi, beceri, tutum ve davranışlarını geliştirmeleri, sektörü tanımaları, iş hayatına uyum sağlamaları, tecrübe edinmeleri ve gerçek üretim ve hizmet ortamında yetişmeleri amacıyla işletmelerde yaptıkları mesleki çalışmayı,
+s) Uzaktan öğretim: Öğretim etkinliklerinin bilişim teknolojilerine dayalı olarak planlandığı ve yürütüldüğü, öğrenci ile öğretim elemanı ve öğrencilerin kendi aralarında karşılıklı etkileşimine dayalı olarak derslerin öğretim elemanı tarafından aynı mekânda bulunma zorunluluğu olmaksızın eşzamanlı/eşzamansız biçimde verildiği öğretimi,
+ş) Üniversite: Mersin Üniversitesini,
+t) Üniversite Yönetim Kurulu: Mersin Üniversitesi Yönetim Kurulunu,
+ifade eder.

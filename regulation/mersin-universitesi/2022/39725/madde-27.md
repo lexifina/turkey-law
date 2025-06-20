@@ -1,0 +1,9 @@
+Ders alma ve bırakma koşulları
+MADDE 27- (1) Ön lisans/lisans programlarındaki dersler zorunlu ve seçmeli derslerden oluşur.
+(2) Birinci ve ikinci yarıyıl öğrencisi, kayıtlı olduğu programdaki sorumlu olduğu bütün dersleri almakla yükümlüdür.
+(3) Öğrencinin bir yarıyılda alabileceği toplam AKTS kredisi 45’ten fazla olamaz.
+(4) Öğrenci üçüncü yarıyıldan itibaren, üçüncü fıkrada belirtilen AKTS kredi sınırını aşmamak üzere bir üst sınıfın ilgili yarıyıllarından ders alabilir. Buna göre bir öğrenci alt yarıyıllardan başaramamış ve alamamış olduğu dersi olmamak koşulu ile genel akademik başarı not ortalaması 70 ve üzerinde ise bir üst sınıfın ilgili yarıyıllarından danışmanının onayıyla ders alabilir.
+(5) Öğrenciler, mezun olabilmek için ilgili kurullarca belirlenmiş eğitim-öğretim programındaki zorunlu dersleri ve asgari krediyi sağlayacak seçmeli dersleri başarmak zorundadır. Öğrenciler, daha önce alıp başarısız oldukları bir ders, bulunduğu programdan çıkarıldığında, yerine alt birim kurullarınca uygun görülen bir dersi almalıdır. Mezun olunabilmesi için alınmış olan tüm derslerin başarılması gerekir. Öğrenci, kayıtlı olduğu programın özelliklerine göre başarısız olduğu bir seçmeli dersin yerine yeni bir seçmeli ders alabilir.
+(6) Öğrenci, alt birim onayıyla diğer alt birimlerden de Senato tarafından belirlenen esaslara göre eşdeğer ders alabilir.
+(7) (Değişik:RG-6/2/2024-32452) Öğrenci, eğitim-öğretimin başladığı ilk hafta içerisinde tekrar etmek zorunda olduğu dersler dışında almış olduğu herhangi bir dersi danışmanının onayıyla değiştirebilir veya bırakabilir.
+(8) (Değişik:RG-6/2/2024-32452) Öğrenci, öğretim programının ilk iki yarıyılında aldığı, genel akademik başarı not ortalamasını yükseltmek amacıyla aldığı veya devam şartını yerine getirip başarısız olduğu dersin tekrarında aldığı dersleri bırakamaz.
