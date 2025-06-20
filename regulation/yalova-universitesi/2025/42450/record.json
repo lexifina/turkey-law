@@ -1,0 +1,39 @@
+{
+  "checked_on": "2026-11-14",
+  "commencement_clauses": [
+    "MADDE 16- (1) Bu Yönetmelik yayımı tarihinde yürürlüğe girer."
+  ],
+  "date_evidence": [
+    [
+      "2025-06-20",
+      "20.06.2025",
+      "original gazette publication date in official listing"
+    ]
+  ],
+  "date_quote": "MADDE 16- (1) Bu Yönetmelik yayımı tarihinde yürürlüğe girer.",
+  "first_law": null,
+  "gazette": "32932",
+  "history": "current-text",
+  "images": {
+    "deferred": 0,
+    "omitted": 0,
+    "referenced": 0,
+    "source": 0
+  },
+  "in_force": "2025-06-20",
+  "in_force_basis": "source commencement clause: enters into force on gazette publication",
+  "issuer": "Yalova Üniversitesi",
+  "issuer_slug": "yalova-universitesi",
+  "kind": "regulation",
+  "label": "oldest version available",
+  "path": "regulation/yalova-universitesi/2025/42450",
+  "published": "2025-06-20",
+  "source": "https://www.mevzuat.gov.tr/anasayfa/MevzuatFihristDetayIframe?MevzuatTur=8&MevzuatNo=42450&MevzuatTertip=5",
+  "source_bytes": 34078,
+  "source_id": "8.5.42450",
+  "source_sha256": "858adec7323150bb3882118b68ec4ed9b3a0613cac16ef617fd2be4237997858",
+  "text_status": "as-enacted",
+  "title": "YALOVA ÜNİVERSİTESİ TEKNOLOJİ TRANSFER OFİSİ UYGULAMA VE ARAŞTIRMA MERKEZİ YÖNETMELİĞİ",
+  "university_id": 343,
+  "word_count": 1302
+}
