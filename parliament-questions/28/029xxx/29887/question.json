@@ -1,0 +1,21 @@
+{
+  "record_type": "parliament-written-question",
+  "term": 28,
+  "legislative_year": 3,
+  "esas_no": "7/29887",
+  "submitted": "2025-06-20",
+  "submitted_as": "Başkanlığa geliş tarihi",
+  "mp": "Keziban KONUKCU KOK",
+  "province": "İstanbul",
+  "summary": "Kamuda çalışan mühendislik fakültesi mezunu işçilerin mühendis kadrolarına geçirilmesi talebine ilişkin",
+  "status": "Cevaplandı",
+  "status_as_of": "2026-11-16",
+  "official_record": "https://www.tbmm.gov.tr/Denetim/Yazili-Soru-Onergesi-Detay/2b4962e2-c2fb-42b6-b282-01979c90656f",
+  "source": "https://tbmm.gov.tr/Denetim/YaziliSoruOnergesiTable",
+  "source_form": "https://tbmm.gov.tr/Denetim/Yazili-Soru-Onergeleri",
+  "source_sha256": "3d825fafadc57fcf4ceccadc1b30a3941a46926e77cc741080a090c1976e45c6",
+  "in_force": "2025-06-20",
+  "in_force_basis": "Date the question reached the Speaker (Başkanlığa geliş tarihi) in the official TBMM written-question record; parliamentary oversight record, not law",
+  "history_type": "metadata",
+  "text_status": "metadata-only: question text, addressee and answers are in the linked official record (PDFs on cdn.tbmm.gov.tr); not transcribed here"
+}
