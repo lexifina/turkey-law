@@ -1,0 +1,3 @@
+Bildirme ve ilan
+MADDE 6 – (1) Bankalarca serbestçe belirlenen mevduat ve kredi işlemlerinde uygulanacak azami faiz oranları ile katılma hesaplarında uygulanacak kâr ve zarara katılma azami oranları, uygulamaya konulmadan önce Türkiye Cumhuriyet Merkez Bankasına tespit edilecek esaslar çerçevesinde bildirilir.
+(2) Bankalar, Türkiye Cumhuriyet Merkez Bankasına bildirdikleri azami oranları aşmamak kaydıyla, mevduat ve kredi işlemlerinde uygulayacakları faiz oranlarını ve katılma hesaplarında uygulayacakları kâr ve zarara katılma oranlarını, vadelerine göre tüm şubelerinde halkın görebileceği şekilde ilan eder ve bu oranları internet sitelerinde yayımlar.
