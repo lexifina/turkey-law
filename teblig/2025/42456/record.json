@@ -1,0 +1,50 @@
+{
+  "annexes": {
+    "links": [
+      {
+        "caption": "Ekleri için tıklayınız.",
+        "official_href": "9.5.42456%20EK.docx",
+        "status": "pending"
+      }
+    ],
+    "official_html": "https://www.mevzuat.gov.tr/anasayfa/MevzuatFihristDetayIframe?MevzuatTur=9&MevzuatNo=42456&MevzuatTertip=5",
+    "status": "pending"
+  },
+  "checked_on": "2026-11-15",
+  "commencement_quote": "Bu Tebliğ yayımı tarihinde yürürlüğe girer",
+  "date_gazette": "32933",
+  "date_quote": "Bu Tebliğ yayımı tarihinde yürürlüğe girer",
+  "first_law": null,
+  "gazette": "32933",
+  "history": "current-text",
+  "images": {
+    "deferred": 0,
+    "omitted": 0,
+    "referenced": 0,
+    "source": 0
+  },
+  "in_force": "2025-06-21",
+  "in_force_basis": "Own commencement clause: Bu Tebliğ yayımı tarihinde yürürlüğe girer",
+  "issuer": "Sanayi ve Teknoloji Bakanlığı",
+  "issuer_catalog_evidence": [
+    {
+      "evidence": "issuer-628-0.json",
+      "id": "628",
+      "label": "Sanayi ve Teknoloji Bakanlığı",
+      "listing_url": "https://www.mevzuat.gov.tr/Anasayfa/MevzuatDatatable?MevzuatTur=Teblig&KurumId=628&start=0&length=100"
+    }
+  ],
+  "issuer_slug": "sanayi-ve-teknoloji-bakanligi",
+  "kind": "communique",
+  "label": "oldest version available",
+  "notes": [
+    "Linked official annexes are not included in this version; original official links and captions are recorded in annexes."
+  ],
+  "published": "2025-06-21",
+  "source": "https://www.mevzuat.gov.tr/anasayfa/MevzuatFihristDetayIframe?MevzuatTur=9&MevzuatNo=42456&MevzuatTertip=5",
+  "source_bytes": 86476,
+  "source_id": "9.5.42456",
+  "source_sha256": "a81b91e1015d75e30eebb713e5affc9b7f6eeab67ed6ddc3b499152cc043ca44",
+  "title": "YATIRIMLARDA DEVLET YARDIMLARI HAKKINDA KARARIN\r\nUYGULANMASINA İLİŞKİN TEBLİĞ\r\n(TEBLİĞ NO: 2025/1)",
+  "word_count": 5108
+}
