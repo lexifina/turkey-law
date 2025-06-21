@@ -1,0 +1,4 @@
+Danışma Kurulu
+MADDE 11- (1) Danışma Kurulu; üniversite-sanayi iş birliği, kariyer danışmanlığı, kariyer yönetimi ve insan kaynakları yönetimi alanlarında çalışmalar yapmış ve deneyimli Üniversite öğretim elemanları, mezunları ve Merkezin faaliyetleri ile ilgili kuruluş temsilcileri arasından Yönetim Kurulunca önerilen ve üç yıl için Rektör tarafından görevlendirilen toplam yedi üyeden oluşur. Danışma Kurulu üyeleri, üyeler arasından bir başkan, başkan yardımcısı ve raportör belirler.
+(2) Danışma Kurulu, ihtiyaç duyulması halinde görüşlerine başvurmak üzere, diğer kamu kurum ve kuruluşlarından oy hakları olmaksızın toplantılarına temsilci davet edebilir.
+(3) Danışma Kurulu, Müdürün çağrısı üzerine yılda en az bir kez salt çoğunlukla toplanır. Müdür, gerekli gördüğü takdirde Danışma Kurulunu toplantıya çağırabilir.
