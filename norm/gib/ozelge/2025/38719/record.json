@@ -1,0 +1,22 @@
+{
+  "kind": "norm",
+  "issuer": "Gelir İdaresi Başkanlığı",
+  "document_type": "ozelge",
+  "number": "E-84974990-130[KDV-2/İ/29-2022/42]-…",
+  "source_id": 38719,
+  "date": "2025-06-22",
+  "title": "Sözleşmeye İlişkin Olarak Yapılan Araç Kiralamalarına Ait Gider Kısıtlaması Uygulaması hk.",
+  "source": "https://gib.gov.tr/mevzuat/kanun/433/ozelge/38719",
+  "related_law": "193 sayılı GELİR VERGİSİ KANUNU",
+  "source_api": "https://gib.gov.tr/api/gibportal/mevzuat/ozelge/list",
+  "source_listing": "evidence/list/2026-11-16/ozelge-p009.json",
+  "source_listing_sha256": "9cb52b4963a9a177a23948f6e28c12936c2f43c88a0b410872bb81c01983667c",
+  "source_sha256": "801284089a41fd5db77481264318930e1e4b1805a4ae5ec4d3297811cfbfc192",
+  "text_status": "as-enacted",
+  "text_file": "metin.md",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  }
+}
