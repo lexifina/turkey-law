@@ -1,0 +1,21 @@
+{
+  "record_type": "parliament-written-question",
+  "term": 28,
+  "legislative_year": 3,
+  "esas_no": "7/29675",
+  "submitted": "2025-06-23",
+  "submitted_as": "Başkanlığa geliş tarihi",
+  "mp": "Mehmet Emin EKMEN",
+  "province": "Mersin",
+  "summary": "Uyuşturucu madde kullanımı nedeniyle örgün eğitimden uzaklaştırılan öğrencilere ilişkin",
+  "status": "Süresi Geçtikten Sonra Cevaplandı",
+  "status_as_of": "2026-11-16",
+  "official_record": "https://www.tbmm.gov.tr/Denetim/Yazili-Soru-Onergesi-Detay/76a3c5b8-68f7-4ceb-800f-0197a0ed5138",
+  "source": "https://tbmm.gov.tr/Denetim/YaziliSoruOnergesiTable",
+  "source_form": "https://tbmm.gov.tr/Denetim/Yazili-Soru-Onergeleri",
+  "source_sha256": "135f84e75bccc78589c41458f75f6306b4b580f5ff40f8ba2c1d1d40f3f8a133",
+  "in_force": "2025-06-23",
+  "in_force_basis": "Date the question reached the Speaker (Başkanlığa geliş tarihi) in the official TBMM written-question record; parliamentary oversight record, not law",
+  "history_type": "metadata",
+  "text_status": "metadata-only: question text, addressee and answers are in the linked official record (PDFs on cdn.tbmm.gov.tr); not transcribed here"
+}
