@@ -1,0 +1,24 @@
+{
+  "issuer": "Bursa Büyükşehir Belediye Meclisi",
+  "number": "789",
+  "decision_date": "2025-06-24",
+  "version_label": "as-enacted",
+  "source_url": "https://www.bursa.bel.tr/storage/medya/meclis_karar_yeni/2025-789.pdf",
+  "source_sha256": "ab6bb9c99d1f34210b045e4fa4692f73714b67e781bdc0b921dcfe2a4db5ad00",
+  "normative_images": 0,
+  "source_image_inventory": [
+    {
+      "page": 1,
+      "source_images": 2,
+      "decorative_logos": 2,
+      "normative_images": 0
+    },
+    {
+      "page": 2,
+      "source_images": 2,
+      "decorative_logos": 2,
+      "normative_images": 0
+    }
+  ],
+  "annex_status": "Only the decision PDF linked by the official register is held; referenced supporting plans or annexes not separately linked are not included."
+}
