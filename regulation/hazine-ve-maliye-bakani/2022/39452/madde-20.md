@@ -1,0 +1,4 @@
+Zorunlu unvan değişimi
+MADDE 20- (1) Adli veya idari soruşturma ya da teftiş veya denetim sonucunda düzenlenen raporlara istinaden veya sağlık nedenleriyle görevini yürütemeyeceği anlaşılanlar, daha alt unvanlara kazanılmış hak aylık derecesi ile atanabilir.
+(2) 5188 sayılı Kanunda belirtilen şartlar ile Özel Güvenlik Hizmetlerine Dair Kanunun Uygulanmasına İlişkin Yönetmeliğin 18 inci maddesinde belirtilen sağlık şartlarını kaybeden koruma ve güvenlik görevlileri, önceki unvanlarına veya diğer şartları taşımak kaydıyla aynı düzeyde ya da daha alt düzeydeki diğer unvanlara atanır. Bu şartları yeniden kazananlar eski unvanlarına atanabilirler.
+(3) 13/10/1983 tarihli ve 2918 sayılı Karayolları Trafik Kanunu ve ilgili diğer mevzuat hükümlerine göre sürücü belgesi iptal edilen veya iki aydan fazla süreyle geçici olarak veya tedbiren alınan şoförler, önceki unvanlarına veya diğer şartları taşımak kaydıyla aynı düzeyde ya da daha alt düzeydeki diğer unvanlara atanır.
