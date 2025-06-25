@@ -1,0 +1,1 @@
+[1] 25/6/2025 tarihli ve 32937 sayılı Resmî Gazete’de yayımlanan değişiklik ile Yönetmeliğin adı “Türk Silahlı Kuvvetleri, Jandarma Genel Komutanlığı ve Sahil Güvenlik Komutanlığı Besleme Kanunu Temizlik Maddeleri Kullanım Esasları ve Usullerine Dair Yönetmelik” iken metne işlendiği şekilde değiştirilmiştir.
