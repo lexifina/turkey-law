@@ -1,0 +1,22 @@
+{
+  "kind": "norm",
+  "issuer": "Gelir İdaresi Başkanlığı",
+  "document_type": "ozelge",
+  "number": "E-49327596-120[GVK.ÖZ.2023.61]-178014",
+  "source_id": 38704,
+  "date": "2025-06-25",
+  "title": "Kamu görevinden geçici olarak uzaklaştırıldıktan sonra, yeniden görevine iade edilen personele yapılan toplu ödemelerin vergilendirilmesi uygulaması hk.",
+  "source": "https://gib.gov.tr/mevzuat/kanun/433/ozelge/38704",
+  "related_law": "193 sayılı GELİR VERGİSİ KANUNU",
+  "source_api": "https://gib.gov.tr/api/gibportal/mevzuat/ozelge/list",
+  "source_listing": "evidence/list/2026-11-16/ozelge-p009.json",
+  "source_listing_sha256": "9cb52b4963a9a177a23948f6e28c12936c2f43c88a0b410872bb81c01983667c",
+  "source_sha256": "7aa7956632a2c6b0b2c68eb149f06ce1c1e5bd25671ac9dc090c4634e1bd80c9",
+  "text_status": "as-enacted",
+  "text_file": "metin.md",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  }
+}
