@@ -1,0 +1,21 @@
+{
+  "record_type": "parliament-written-question",
+  "term": 28,
+  "legislative_year": 3,
+  "esas_no": "7/29969",
+  "submitted": "2025-06-25",
+  "submitted_as": "Başkanlığa geliş tarihi",
+  "mp": "Gökan ZEYBEK",
+  "province": "İstanbul",
+  "summary": "İstanbul Yenişehir Rezerv Yapı Alanı'nda yapılaşmaya açılan bir araziye ilişkin",
+  "status": "Cevaplanmadığı Gelen Kağıtlarda İlan Edildi",
+  "status_as_of": "2026-11-16",
+  "official_record": "https://www.tbmm.gov.tr/Denetim/Yazili-Soru-Onergesi-Detay/86ff677d-ed51-4338-8e5d-0197ab37a168",
+  "source": "https://tbmm.gov.tr/Denetim/YaziliSoruOnergesiTable",
+  "source_form": "https://tbmm.gov.tr/Denetim/Yazili-Soru-Onergeleri",
+  "source_sha256": "6ba7f5ef5af48da3b28a3df0944e94655953b1e7704361a362f31018672f1d70",
+  "in_force": "2025-06-25",
+  "in_force_basis": "Date the question reached the Speaker (Başkanlığa geliş tarihi) in the official TBMM written-question record; parliamentary oversight record, not law",
+  "history_type": "metadata",
+  "text_status": "metadata-only: question text, addressee and answers are in the linked official record (PDFs on cdn.tbmm.gov.tr); not transcribed here"
+}
