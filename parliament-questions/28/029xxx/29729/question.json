@@ -1,0 +1,21 @@
+{
+  "record_type": "parliament-written-question",
+  "term": 28,
+  "legislative_year": 3,
+  "esas_no": "7/29729",
+  "submitted": "2025-06-25",
+  "submitted_as": "Başkanlığa geliş tarihi",
+  "mp": "Mesut DOĞAN",
+  "province": "Ankara",
+  "summary": "Aile Okulu Projesi'ne ilişkin",
+  "status": "Süresi Geçtikten Sonra Cevaplandı",
+  "status_as_of": "2026-11-16",
+  "official_record": "https://www.tbmm.gov.tr/Denetim/Yazili-Soru-Onergesi-Detay/1ce4926f-0070-41fc-9366-0197abd84f80",
+  "source": "https://tbmm.gov.tr/Denetim/YaziliSoruOnergesiTable",
+  "source_form": "https://tbmm.gov.tr/Denetim/Yazili-Soru-Onergeleri",
+  "source_sha256": "13c02b4835fa89e30a1c884c748864a848645f013b3e4b0cc4a1d0d51a288f1e",
+  "in_force": "2025-06-25",
+  "in_force_basis": "Date the question reached the Speaker (Başkanlığa geliş tarihi) in the official TBMM written-question record; parliamentary oversight record, not law",
+  "history_type": "metadata",
+  "text_status": "metadata-only: question text, addressee and answers are in the linked official record (PDFs on cdn.tbmm.gov.tr); not transcribed here"
+}
