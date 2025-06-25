@@ -1,0 +1,3 @@
+Taşra teşkilatının yeniden yapılanması nedeniyle atama
+GEÇİCİ MADDE 2- (Ek:RG-25/6/2025-32937)
+(1) Bu maddeyi ihdas eden Yönetmeliğin yürürlüğe girdiği tarih itibarıyla atandıkları yerlerde üç yıllık zorunlu çalışma süresini doldurmamış olan avukatlardan talepte bulunanlar, EK-5’teki 3 sayılı cetvelde yer alan ve idarenin avukat ihtiyacı olan illere zorunlu çalışma sürelerinin kalan kısmını tamamlamak üzere atanabilir. Başvurular, bu maddeyi ihdas eden Yönetmeliğin yürürlüğe girdiği tarihten itibaren otuz gün içinde görev yaptıkları birimler aracılığı ile Başkanlığa yazılı olarak yapılır ve süresinde yapılmayan başvurular dikkate alınmaz.

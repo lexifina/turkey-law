@@ -1,0 +1,70 @@
+{
+  "source_id": "7.5.15204",
+  "kind": "regulation",
+  "register_kind": "Kurum ve Kuruluş Yönetmelikleri",
+  "title": "GELİR İDARESİ BAŞKANLIĞI HUKUK MÜŞAVİRLİĞİ GÖREVLERİ İLE AVUKATLARIN MESLEĞE ALINMALARI, DAVALARIN TAKİP USULÜ VE ÇALIŞMALARI HAKKINDA YÖNETMELİK",
+  "number": "15204",
+  "issuer_slug": "kurum-ve-kurulus",
+  "path": "regulation/kurum-ve-kurulus/2011/15204",
+  "source": "https://www.mevzuat.gov.tr/anasayfa/MevzuatFihristDetayIframe?MevzuatTur=7&MevzuatNo=15204&MevzuatTertip=5",
+  "source_sha256": "9e3d4a1b364a9ec00116fee34c6e2683dd50a4c39c4bd4e078e2e2950e652f27",
+  "source_bytes": 57558,
+  "published": "2011-08-20",
+  "gazette": "28031",
+  "in_force": "2025-06-25",
+  "in_force_basis": "latest Resmî Gazete date printed in the source amendment notes/table (\"RG-25/6/2025\") for the current consolidated text",
+  "date_evidence": [
+    [
+      "2025-06-25",
+      "RG-25/6/2025",
+      "Resmî Gazete date printed in the source amendment note"
+    ],
+    [
+      "2025-06-25",
+      "25/6/2025",
+      "Resmî Gazete date in the source amendment table"
+    ],
+    [
+      "2021-07-13",
+      "RG-13/7/2021",
+      "Resmî Gazete date printed in the source amendment note"
+    ],
+    [
+      "2021-07-13",
+      "13/7/2021",
+      "Resmî Gazete date in the source amendment table"
+    ],
+    [
+      "2015-02-20",
+      "20/2/2015",
+      "Resmî Gazete date in the source amendment table"
+    ],
+    [
+      "2013-04-17",
+      "RG-17/4/2013",
+      "Resmî Gazete date printed in the source amendment note"
+    ],
+    [
+      "2013-04-17",
+      "17/4/2013",
+      "Resmî Gazete date in the source amendment table"
+    ]
+  ],
+  "commencement_clauses": [
+    "Bu Yönetmelik yayımı tarihinde yürürlüğe girer"
+  ],
+  "history": "current-text",
+  "label": "oldest version available",
+  "checked_on": "2026-11-15",
+  "word_count": 2286,
+  "text_status": "current-consolidated",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  },
+  "source_links": [
+    "7.5.15204-Ek.zip"
+  ],
+  "completeness": "html-text-complete; linked annexes not fetched"
+}

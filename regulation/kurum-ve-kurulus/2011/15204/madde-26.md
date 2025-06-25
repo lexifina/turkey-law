@@ -1,0 +1,5 @@
+Adli ve idari uyuşmazlıkların sulh yoluyla halli, uzlaşma ve vazgeçme
+MADDE 26 – (Başlığı ile birlikte değişik:RG-17/4/2013-28621)
+(1) 659 sayılı Kanun Hükmünde Kararnamede yer alan sulh, uzlaşma ve vazgeçmeye ilişkin yetkiler, mezkur Kanun Hükmünde Kararnamede belirtilen makamlar tarafından kullanılır. Bu yetkilerden devredilenler, ilgisine göre kendisine yetki devri yapılanlar tarafından Kanunda belirtilen usuller dairesinde kullanılır.
+(2) Başkanlık merkez ve taşra birimlerinin taraf olduğu uyuşmazlıklar bakımından sulh veya uzlaşma yoluyla halli mümkün olmayanlar için dava açılır veya icra takibine başlanılır. Maddi veya hukuki sebeplerle dava açılmasında veya icra takibine başlanmasında Başkanlık yararı bulunmaması halinde 659 sayılı Kanun Hükmünde Kararnamede belirtilen usuller dairesinde dava açılmasından veya icra takibine başlanılmasından vazgeçilir.
+(3) Başkanlık merkez ve taşra birimlerinin taraf olduğu davaların takibi esnasında Başkanlık menfaatlerinin korunması için her türlü tedbir alınır. Bu kapsamda Kanunda belirtilen usuller dairesinde yetkili makamdan vazgeçme alınmaması halinde kanun yollarına başvurulması zorunludur.

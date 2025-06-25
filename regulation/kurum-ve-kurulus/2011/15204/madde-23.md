@@ -1,0 +1,21 @@
+ÜÇÜNCÜ BÖLÜM
+Görev, Çalışma ve Dava Takip Usul ve Esasları
+Hukuk müşavirliğinin görevleri
+MADDE 23 – (Değişik:RG-17/4/2013-28621)
+(1) Hukuk Müşavirliği; Başkanlığın muhakemat hizmetleri ile hukuk danışmanlığına ilişkin iş ve işlemleri yürütmekle görevli ve sorumlu olup, Hukuk Müşavirliğinin görevleri aşağıda belirtilmiştir:
+a) Başkanlığın merkez ve taşra birimlerinin taraf olduğu davalarda, iç ve dış tahkim yargılamasında, icra işlemlerinde ve yargıya intikal eden diğer her türlü hukuki uyuşmazlıklarda, bu birimleri avukat sıfatını haiz hukuk müşavirleri ve avukatları vasıtasıyla ait olduğu makam ve mercilerde temsil ettirmek, bu mercilerdeki işlemleri ikame, takip ve müdafaa ettirmek.
+b) 26/9/2011 tarihli ve 659 sayılı Kanun Hükmünde Kararnamenin 5 inci maddesi uyarınca Bakanlıktan hizmet alınması halinde dosyaları, ispata yarayacak her türlü bilgi ve belgeyi ihtiva edecek şekilde ilgili birimle koordineli olarak hazırlamak ve gereği yapılmak üzere hukuki görüşü ile birlikte Başhukuk Müşavirliği ve Muhakemat Genel Müdürlüğüne göndermek suretiyle bu davaların takibini sağlamak, aynı usulle hizmet verilmesi halinde dosyaların takibine ilişkin işlemleri yapmak veya yaptırmak.
+c) Başkanlık işlemlerinden dolayı Bakanlık husumetiyle görülecek davaların savunmasına yarayacak her türlü bilgi ve belgeyi ihtiva edecek şekilde ilgili birim tarafından hazırlanıp hukuk birimine aktarılan işlem dosyalarını hukuki görüşüyle birlikte ilgisine göre Başhukuk Müşavirliği ve Muhakemat Genel Müdürlüğüne veya mahalli birimine göndermek.
+ç) İhtisas gerektiren ve ihtiyaç duyulan hâllerde, Bakanın onayı üzerine Başkanlıkça 4/1/2002 tarihli ve 4734 sayılı Kamu İhale Kanununun 22 nci maddesinin birinci fıkrasının (h) bendine göre serbest avukatlardan veya avukatlık ortaklıklarından hizmet satın almaya ilişkin işlemleri yürütmek ve hizmet satın alma yoluyla temsil ettirilen dava ve icra takipleri ve tahkim ile ilgili işlemleri koordine etmek, izlemek ve denetlemek.
+d) Başkanlık hizmetleriyle ilgili olarak diğer kamu kurum ve kuruluşları tarafından hazırlanan mevzuat taslaklarını, idare birimleri tarafından hazırlanan mevzuat taslakları ile düzenlenecek her türlü sözleşme ve şartname taslaklarını, Başkanlık ile üçüncü kişiler arasında çıkan uyuşmazlıklara ilişkin işleri ve idare birimlerince sorulacak diğer işleri inceleyip hukuki mütalaasını bildirmek.
+e) Anlaşmazlıkları önleyici hukuki tedbirleri zamanında almak, uyuşmazlıkların sulh yoluyla çözümü konusunda mütalaa vermek.
+f) Başkanlığın amaçlarını daha iyi gerçekleştirmek, mevzuata, plan ve programa uygun çalışmalarını temin etmek amacıyla gerekli hukuki teklifleri hazırlamak.
+g) Yargı mercilerinden, hakemlerden, icra dairelerinden, noterlerden gönderilen tebligatları almak ve hukuki gereklerini ilgili birimle koordineli olarak yerine getirmek.
+ğ) Başkanlığın taraf olduğu davaların gerektirdiği yargılama giderleri ile yargı mercileri tarafından bu davalarda aleyhe hükmedilen ve bütçede tertibi bulunmayan ödemeleri yapmak veya yaptırmak.
+h) Başkanlık merkez ve taşra birimlerinin taraf olduğu davalarla ilgili olarak analizler yapmak ve ihtilafların en aza indirilmesi hususunda önerilerde bulunmak.
+ı) (Değişik ibare:RG-25/6/2025-32937) Hukuk işleri müdürlüklerinin işlemlerini hukuki açıdan değerlendirmek ve ihtiyaç duyulan bilgileri ilgili yerlerden istemek, gereken hukuki işlemleri yapmak veya yapılmasını sağlamak, davaların takibi hususunda talimat vermek.
+i) Başkanın onayı ile veya mevzuat gereği oluşturulan heyet, kurul veya komisyon çalışmalarına katılmak.
+j) Hukuk Müşavirliğine intikal ettirilen teftiş, inceleme ve soruşturma raporları hakkında gereken işlemleri yapmak.
+k) Hukuk ve yargı uygulamalarının izlenmesi veya personelin eğitiminin sağlanması için Başkanın onayına istinaden üniversiteler, mesleki veya bilimsel kurum ve kuruluşlarla işbirliği yapmak, ilgili birimlerle koordineli olarak hukuki veya mesleki seminer veya toplantılar düzenlemek, mesleki veya bilimsel kurum veya kuruluşlar tarafından düzenlenen seminer, kurs ve benzeri toplantılara katılımı sağlamak.
+l) Hukuki uyuşmazlık değerlendirme komisyonunun sekretarya hizmetlerini yürütmek.
+m) Mevzuatta yer alan veya Başkan tarafından verilecek benzeri görevleri yapmak.
