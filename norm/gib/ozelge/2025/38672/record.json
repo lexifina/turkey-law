@@ -1,0 +1,22 @@
+{
+  "kind": "norm",
+  "issuer": "Gelir İdaresi Başkanlığı",
+  "document_type": "ozelge",
+  "number": "E-11395140-105[VUK-3-4253]-798105",
+  "source_id": 38672,
+  "date": "2025-06-27",
+  "title": "Serbest Meslek Erbabının e-Fatura Uygulamasına Geçme Zorunluluğu Hakkında",
+  "source": "https://gib.gov.tr/mevzuat/kanun/434/ozelge/38672",
+  "related_law": "213 sayılı VERGİ USUL KANUNU",
+  "source_api": "https://gib.gov.tr/api/gibportal/mevzuat/ozelge/list",
+  "source_listing": "evidence/list/2026-11-16/ozelge-p008.json",
+  "source_listing_sha256": "292c126217cc32c3ccfa57495ce433f89ef8db5e75fa1946d5819a76f81aff4d",
+  "source_sha256": "aa97f32832bbb3144279d96e7baed3598c5674d6f9650e30f962b369c56f86f3",
+  "text_status": "as-enacted",
+  "text_file": "metin.md",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  }
+}
