@@ -1,0 +1,22 @@
+{
+  "kind": "norm",
+  "issuer": "Gelir İdaresi Başkanlığı",
+  "document_type": "ozelge",
+  "number": "E-60938891-125[KVK:1-2]-29924",
+  "source_id": 38707,
+  "date": "2025-06-27",
+  "title": "Kooperatifin Bankada Bulunan Parasının Fon Hesabında Değerlendirilmesi Durumunda Vergi İstisnası hk.",
+  "source": "https://gib.gov.tr/mevzuat/kanun/433/ozelge/38707",
+  "related_law": "193 sayılı GELİR VERGİSİ KANUNU",
+  "source_api": "https://gib.gov.tr/api/gibportal/mevzuat/ozelge/list",
+  "source_listing": "evidence/list/2026-11-16/ozelge-p009.json",
+  "source_listing_sha256": "9cb52b4963a9a177a23948f6e28c12936c2f43c88a0b410872bb81c01983667c",
+  "source_sha256": "c2be023ee1f47591e6ad282dbc6518dacd80f1a368512bab55b0f6b7700bbce5",
+  "text_status": "as-enacted",
+  "text_file": "metin.md",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  }
+}
