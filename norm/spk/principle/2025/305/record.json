@@ -1,0 +1,64 @@
+{
+  "kind": "norm",
+  "issuer": "Sermaye Piyasası Kurulu",
+  "document_type": "principle-decision",
+  "number": "305",
+  "decision_number": "37/117",
+  "date": "2025-06-27",
+  "title": "Kurul Karar Organı’nın 27/06/2025 Tarih ve 37/1177 Sayılı Kararı Uyarınca Yapılan Duyuru",
+  "source": "https://mevzuat.spk.gov.tr/api/IlkeKarari/File/305",
+  "source_sha256": "ceae1b4d6bc195b0cf2b48a9ffdcaa58b4412ed47cf69d27943967f00236e1f6",
+  "source_listing_url": "https://mevzuat.spk.gov.tr/api/Search/All",
+  "source_record_id": 305,
+  "text_status": "as-enacted",
+  "text_file": "metin.md",
+  "date_basis": "official principle-decision date printed in the source PDF and official API: 1. Kurul Karar Organı’nın 27/06/2025 tarih ve 37/1177 sayılı Kararı Uyarınca Yapılan Duyuru:",
+  "operative_date_review": {
+    "date_type": "decision-date",
+    "decision_date": "2025-06-27",
+    "source_clauses": [
+      "1. Kurul Karar Organı’nın 27/06/2025 tarih ve 37/1177 sayılı Kararı Uyarınca Yapılan Duyuru:",
+      "29.08.2025 tarihi seans sonuna kadar"
+    ],
+    "deferred_start": "none accepted; later dates are explicit end/deadline clauses",
+    "source_deadline_dates": [
+      "2025-08-29"
+    ]
+  },
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0,
+    "decorative_or_non_normative": 0
+  },
+  "official_listing_record": {
+    "id": "37469c56-84c6-44a1-b6df-1bdca8180970",
+    "contentSource": "IlkeKarari",
+    "contentID": 305,
+    "tur": "İlke Kararı",
+    "title": "Kurul Karar Organı’nın 27/06/2025 Tarih ve 37/1177 Sayılı Kararı Uyarınca Yapılan Duyuru",
+    "no": "",
+    "sayi": "",
+    "resmiGazeteTarihi": null,
+    "resmiGazeteTarih": null,
+    "resmiGazeteSayi": null,
+    "resmiGazeteMukerrer": null,
+    "kurulKararTarihi": "2025-06-27T00:00:00",
+    "kurulKararTarih": "27.06.2025",
+    "kurulToplantiNo": "37/117",
+    "bultenYili": 2025,
+    "bultenNo": 36,
+    "kisimID": null,
+    "bolumID": null,
+    "kisim": "VIII. KISIM - Sermaye Piyasası Kurulu İlke Kararları",
+    "bolum": "İlke Kararları",
+    "baglantiliTebliglerStr": null,
+    "baglantiliTebligler": null,
+    "ilgiliKonularStr": ";",
+    "ilgiliKonular": null,
+    "countItems": 0,
+    "intro": "",
+    "link": "IlkeKarari/Dosya/305",
+    "linkTarget": "_blank"
+  }
+}
