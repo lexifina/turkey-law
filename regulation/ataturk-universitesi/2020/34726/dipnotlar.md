@@ -1,0 +1,1 @@
+[1] 28/6/2025 tarihli ve 32940 sayılı Resmî Gazete’de yayımlanan değişiklik ile Yönetmeliğin adı ‘‘Atatürk Üniversitesi Açıköğretim Fakültesi Yaz Okulu Yönetmeliği” iken metne işlendiği şekilde değiştirilmiştir.
