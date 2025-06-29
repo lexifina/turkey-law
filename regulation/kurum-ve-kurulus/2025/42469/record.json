@@ -1,0 +1,27 @@
+{
+  "source_id": "7.5.42469",
+  "kind": "regulation",
+  "register_kind": "Kurum ve Kuruluş Yönetmelikleri",
+  "title": "TÜRKİYE DAĞCILIK FEDERASYONU ANA STATÜSÜ",
+  "number": "42469",
+  "issuer_slug": "kurum-ve-kurulus",
+  "path": "regulation/kurum-ve-kurulus/2025/42469",
+  "source": "https://www.mevzuat.gov.tr/anasayfa/MevzuatFihristDetayIframe?MevzuatTur=7&MevzuatNo=42469&MevzuatTertip=5",
+  "source_sha256": "83575521d95cb32bcc2d393b989b04a27e9f435f1903231773f53c636eb4210c",
+  "source_bytes": 172216,
+  "published": "2025-06-29",
+  "gazette": "32941",
+  "in_force": "2025-06-29",
+  "in_force_basis": "Resmî Gazete publication date in the official listing (29.06.2025)",
+  "history": "current-text",
+  "label": "oldest version available",
+  "checked_on": "2026-11-15",
+  "word_count": 10959,
+  "text_status": "current-consolidated",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  },
+  "completeness": "html-text-complete"
+}
