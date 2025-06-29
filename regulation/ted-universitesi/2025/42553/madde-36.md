@@ -1,0 +1,5 @@
+Kayıt sildirme
+MADDE 36- (1) Üniversiteden ayrılmak isteyen öğrenciler, elektronik ortamda kayıt sildirme işlemlerini yaparlar.
+(2) Üniversiteden kaydını sildirmek isteyen öğrencilerin kendilerine ait belgeleri alabilmeleri için kayıt sildirme işlemlerini tamamlamaları ve mali yükümlülüklerini (öğrenim ücreti, yurt, kütüphane borcu ve benzeri) yerine getirmeleri zorunludur.
+(3) Ön lisans diploması alarak veya mezuniyet koşullarını sağlamadan kayıtlı oldukları programdan kayıt sildiren öğrenciler, Üniversitedeki tüm öğrencilik haklarını kaybederler.
+(4) Dersler başlamadan önce Üniversiteden ayrılma başvurusu yapan öğrenciden ilgili yarıyıl için ödemekle yükümlü oldukları ücretler talep edilmez. Güz ve bahar yarıyıllarında derslerin başlamasını izleyen dördüncü haftanın son iş gününe kadar, yaz okulunda ikinci haftanın son iş gününe kadar yapılan başvurularda öğrencilere ödemekle yükümlü oldukları öğrenim ücretinin yarısı iade edilir. Bu tarihten sonra başka bir yükseköğretim kurumuna yatay geçişi kabul edilen öğrenciler hariç olmak üzere Üniversiteden ayrılma başvurusunda bulunan öğrencilere ücret iadesi yapılmaz.

@@ -1,0 +1,5 @@
+Lisans programları ve kontenjanlar
+MADDE 8- (1) Lisans programları ilgili bölümler tarafından hazırlanır. Üniversitede lisans programı; ilgili fakültenin önerisi, Senato kararı ve Mütevelli Heyet onayı üzerine Yükseköğretim Kurulunun kararı ile açılır. Mevcut bir programın adında değişiklik yapılabilmesi için aynı süreç takip edilir.
+(2) Lisans programlarına bir sonraki akademik yılda kabul edilecek burslu ve burssuz öğrenci kontenjanları ilgili kurulun önerisi, Senatonun kararı ve Mütevelli Heyet onayı ile belirlenir. Bu kontenjanlar Yükseköğretim Kurulu Başkanlığının onayından sonra kesinleşir.
+(3) Bir diploma programından mezun olan öğrencilerin kazanmaları beklenen yeterlilikler ve mezuniyet için öngörülen ders, laboratuvar, staj ve benzeri çalışmalardan oluşan öğretim programları ve bu programlarda yapılan değişiklikler ilgili kurullarca değerlendirilir. Yapılacak intibakların ilkeleri ilgili bölümler tarafından hazırlanarak ilgili kurulun onayı ile PEK’e sunulur ve Senato tarafından karara bağlanır.
+(4) Staj zorunluluğu olan programlarda staj ilke ve esasları Senato tarafından belirlenir.
