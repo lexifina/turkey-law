@@ -1,0 +1,2 @@
+İhtilafların çözümü
+MADDE 45- (1) Spor Federasyonunun denetimine ilişkin hususlar hariç olmak üzere, Bakanlık ile Spor Federasyonu arasında doğan ihtilaflar Tahkim Kurulunca belirlenecek bir üyenin başkanlığında Bakanlık ve Spor Federasyonu temsilcilerinin katılımıyla oluşturulacak komisyon marifetiyle çözümlenir. Bu komisyon kararlarına yapılacak itiraz, Tahkim Kurulunca incelenerek sonuçlandırılır.
