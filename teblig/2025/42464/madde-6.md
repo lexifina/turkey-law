@@ -1,0 +1,4 @@
+Bilgi güvenliği politikası
+MADDE 6- (1) Bilgi sistemlerinin kurulması, işletilmesi, yönetilmesi ve kullanılmasına ilişkin; bilginin gizliliğinin, bütünlüğünün ve gerektiğinde erişilebilir olmasının sağlanmasına yönelik olarak bilgi güvenliği politikası üst yönetim tarafından hazırlanır ve yönetim kurulu tarafından onaylanır. Onaylanan bilgi güvenliği politikası personele ve ilgili diğer taraflara duyurulur.
+(2) Bilgi güvenliği politikası, bilgi güvenliği süreçlerinin işletilmesi için gerekli rollerin, sorumlulukların belirlenmesini ve görev tanımlarının yapılmasını, hedeflerin belirlenmesini, bilgi sistemlerine ilişkin risklerin yönetilmesine dair süreçlerin oluşturulmasını, kontrollerin tesis edilmesini, değerlendirilmesini ve gözetimini kapsar.
+(3) Bilgi güvenliği politikası yılda en az bir defa gözden geçirilir; iş ihtiyaçları, değişen tehdit ve risklere göre güncellenir.

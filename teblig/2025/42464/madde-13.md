@@ -1,0 +1,17 @@
+Ağ güvenliği
+MADDE 13- (1) Kurumsal ağın iç ve dış tehditlere karşı korunması ve ağı kullanan sistem, veri tabanı ve uygulamaların güvenliğinin sağlanması için kontroller tesis edilir ve etkin bir şekilde yönetilir. Kurumsal ağın ve ağda bulunan bilgi sistemlerinin güvenliğinin sağlanmasında katmanlı güvenlik yaklaşımı esas alınır. Bu yaklaşımda ağ altyapısı, işletim sistemi, uygulama savunmaları şeklinde birden çok koruma katmanı bir bütünün parçası olarak tasarlanıp devreye alınır.
+(2) Kurumsal ağın fiziksel ve mantıksal topolojisi; tüm alt ağları, güvenlik cihazlarını, erişim noktalarını ve bağlantı yollarını içerecek şekilde yazılı hale getirilir, güncel tutulur ve güvenli saklanır.
+(3) İletişim altyapıları dinlemeye ve fiziksel hasarlara karşı korunur.
+(4) Mobil cihazların kurumsal ağa erişimine ilişkin risklere yönelik güvenlik önlemleri alınır ve uygulanır.
+(5) Ağ altyapısına yönelik yetkisiz erişimler engellenir ve gözetim süreçleri tesis edilir.
+(6) İç kaynak yoluyla sağlanan veya dışarıdan hizmet olarak alınan her türlü ağ hizmetinin güvenlik kriterleri, hizmet düzeyleri ve yönetim gereksinimleri tanımlanır ve hizmet anlaşmalarına dâhil edilir.
+(7) Uzaktan erişim hizmetinde çok faktörlü kimlik doğrulama kullanılır. Uzaktan erişim yetkilendirmeleri bilgi güvenliği sorumlusunun onayı da alınarak yapılır. Uzaktan erişim, yalnızca uygulamaları ve işletim sistemleri güncel cihazlardan yapılır. Uzaktan erişime ilişkin denetim izleri tutulur.
+(8) Uzaktan erişim bağlantıları, güncel ve güvenilir kararlı sürüme sahip iletişim protokolleri ile sağlanır. İnternet üzerinden erişimlerde uçtan uca güvenli iletişim teknolojileri kullanılır. Uzaktan erişim oturumları, tanımlanan süre boyunca işlem yapılmadığında otomatik olarak sonlandırılır ve yeniden erişim sağlanması gerektiğinde kimlik doğrulama tekrarlanır.
+(9) Kurumsal ağın dış ağlarla olan iletişiminde dış ağlardan gelebilecek tehditler için sürekli gözetim altında tutulan güvenlik duvarı ile ağdaki anormal aktiviteleri ve saldırı girişimlerini tespit etmek ve engellemek için günün teknolojisine uygun çözümler kullanılır. Hassas veri içeren bilgi sistemlerine, internet üzerinden doğrudan erişim engellenir.
+(10) İnternet üzerinden sunulan hizmetler hizmet dışı bırakma saldırılarına karşı korunur.
+(11) İç ağ bağlantı noktalarında ağ erişim kontrolü uygulanır ve sadece bağlanmasına onay verilen cihazların ağa dâhil olması sağlanır.
+(12) İç ağın farklı güvenlik gereksinimlerine sahip alt bölümleri birbirinden ayrılarak denetimli geçişi temin eden kontroller tesis edilir. Bu kapsamda asgari olarak; istemciler, sunucular ve yönetimsel işlemler için ayrı alt ağlar oluşturulur. Kablolu ve kablosuz ağlar birbirinden ayrılır.
+(13) Gelen ve giden ağ trafiği analiz edilir, zararlı veya olağan dışı trafik tespit edildiğinde ilgili ağ bölümü izole edilir.
+(14) Bilgi güvenliği gereksinimlerine ve yasal gerekliliklere uygun olmayan internet sitelerine erişim uygun araçlarla engellenir.
+(15) Ağ erişimleri beyaz liste veya kara liste yapıları kullanılarak sınırlandırılır, güvenilmeyen bağlantılar engellenir.
+(16) Kablosuz ağlarda güçlü şifreleme protokolleri kullanılır. Kablosuz ağlar için kimlik doğrulama ve erişim kontrolleri uygulanır. Kimlik doğrulama işlemleri, güvenilir ve güncel protokollerle gerçekleştirilir. Misafir ağları kurumsal ağlardan ayrı tutulur, misafir ağı kullanıcılarına geçici ve kısıtlı erişim hakkı verilir.

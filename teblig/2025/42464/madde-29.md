@@ -1,0 +1,8 @@
+İç denetim
+MADDE 29- (1) Kurum, Kuruluş ve Ortaklıklar, yılda en az bir kez olmak kaydıyla bilgi sistemlerine yönelik iç denetim gerçekleştirir.
+(2) İç denetim faaliyeti dışarıdan hizmet alımı yoluyla icra edilemez.
+(3) İç denetim faaliyeti, bilgi sistemlerinin tasarımı ve işleyişine yönelik görevi bulunmayan kişilerce gerçekleştirilir. İç denetimi gerçekleştirecek kişilerin 14/8/2014 tarihli ve 29088 sayılı Resmî Gazete’de yayımlanan Sermaye Piyasasında Faaliyette Bulunanlar İçin Lisanslama ve Sicil Tutmaya İlişkin Esaslar Hakkında Tebliğ (VII-128.7)’in 5 inci maddesinde belirtilen Bilgi Sistemleri Bağımsız Denetim Lisansına sahip olmaları zorunludur.
+(4) İç denetim sonrası ulaşılan tespit ve sonuçlar bir rapor haline getirilir ve yönetim kuruluna sunulur.
+(5) Bilgi güvenliği sorumlusu tarafından, iç denetim raporunda yer alan tespitlere göre yapılacaklar gerçekleştirme tarihleriyle beraber bir aksiyon planına dönüştürülür, üst yönetime onaylatılır. Aksiyon planına uyum üst yönetim tarafından takip edilir ve bir sonraki iç denetim faaliyetinde dikkate alınır.
+(6) İç denetim dönemi bitiminde iç denetim faaliyet raporu hazırlanır ve yönetim kuruluna sunulur. Söz konusu faaliyet raporunda asgari olarak; tamamlanan, devam eden, ertelenen ve iptal edilen denetim faaliyetlerine, denetim planına uyum düzeyine, bulguların nihai durumu ile bulguların kapatılmasına yönelik olarak aksiyon planında hedef tamamlanma tarihi atanmayan, aşılan, aşma süresi bir seneden fazla uzatılan veya iptal edilen bulgulara yer verilir.
+(7) Kurum, Kuruluş ve Ortaklıklar bilgi sistemleri yönetimine ilişkin olarak iç denetim gerçekleştirecek kişileri, göreve başlamalarını takiben 10 iş günü içinde Sermaye Piyasası Lisanslama Sicil ve Eğitim Kuruluşu A.Ş.’ye bildirir.

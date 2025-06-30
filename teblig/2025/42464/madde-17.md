@@ -1,0 +1,3 @@
+İşlemlerin, kayıtların ve verilerin bütünlüğü
+MADDE 17- (1) Kurum, Kuruluş ve Ortaklıklar, bilgi sistemleri üzerinden gerçekleşen işlemlerin, kayıtların ve verilerin bütünlüğünün sağlanmasına yönelik gerekli önlemleri alır. Bütünlüğü sağlamaya yönelik önlemler verinin iletimi, işlenmesi ve saklanması aşamalarının tamamını kapsayacak şekilde tesis edilir. Bilgi sistemlerine ilişkin dışarıdan hizmet alınan kuruluşlar nezdinde gerçekleşen işlemler için de aynı yaklaşım gösterilir.
+(2) Kritik işlemler, kayıtlar ve verilerde meydana gelebilecek bozulmaları saptayacak ve zamanında gerekli bildirimleri yapacak teknikler kullanılır.

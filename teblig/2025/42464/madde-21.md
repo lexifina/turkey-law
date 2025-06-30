@@ -1,0 +1,3 @@
+Üçüncü taraflarla bilgi değişimi
+MADDE 21- (1) Üçüncü taraflara Kurum, Kuruluş ve Ortaklıkların bilgi sistemine erişim hakkı verilmeden önce gerekli güvenlik gereksinimleri tanımlanır ve uygulanır. Kurum, Kuruluş ve Ortaklıkların bilgi içeren ortamları, üçüncü taraflar ile yapılan veri aktarımları sırasında gerçekleşebilecek kötüye kullanım veya bozulmaya karşı korunur. Bu kapsamda yapılan çalışmalar yazılı hale getirilir ve veri aktarımlarına ilişkin denetim izi tutulur.
+(2) Kurum, Kuruluş ve Ortaklıkların birinci fıkra kapsamında alacağı tedbirler Kurulun bilgi alımı, denetim ve gözetim faaliyetlerine engel teşkil edemez.
