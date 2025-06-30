@@ -1,0 +1,29 @@
+{
+  "number": "177",
+  "number_as_published": "177",
+  "year": 2025,
+  "month": 6,
+  "title": "Başkanlığımızın 03.12.2024 tarihli 429 sayılı Belediye Meclis Kararındaki Müdürlüğümüz 2025 yılı Ücrete tabi işler tarifelerinin 4’üncü maddesinin 4.1. “işyeri teknik kontrol ve rapor hizmet ücreti” bendinin 4.1. açıklamalar kısmına “Süleymanpaşa Belediye Başkanlığı Kent Estetik Komisyonunca izin verilen kullanım alanları (açılır kapanır, hareketli portatif tente vb.) işyerinin kullanımı alanına dahil edilerek 4.1.&#039;inci maddedeki faaliyet konularıyla ilgili ücretler esas alınarak hesaplanır.” İfadesinin eklenmesi konusunun Plan ve Bütçe Komisyonuna havale edilmesine Belediye Meclisince oybirliği ile karar verildi.",
+  "decision_date": null,
+  "index_date": "2025-06-30",
+  "date_precision": "month",
+  "period": "Haziran 2025",
+  "source": "https://suleymanpasa.bel.tr/meclis-kararlari",
+  "official_page": "https://suleymanpasa.bel.tr/meclis-kararlari",
+  "official_document": null,
+  "source_sha256": "a3d58e794d078cdf2cdbec893458f633a8786bca6293af397d236c0d6fbd00f0",
+  "issuer": "Süleymanpaşa Belediye Meclisi",
+  "history_type": "metadata",
+  "text_status": "metadata-only: number and subject as published in the official listing; complete decision text is in the linked official page/document, not transcribed",
+  "in_force": "2025-06-30",
+  "in_force_basis": "The official listing gives only the month of this decision (Haziran 2025); date set to the last day of that month (turkey-law date convention for month-only sources); exact adoption dates are in the linked official document; legal commencement not asserted",
+  "missing": [
+    "exact decision date",
+    "complete official decision text",
+    "official annexes"
+  ],
+  "law_text_complete": false,
+  "privacy_withheld": false,
+  "record_scope": "one council decision (number and published decision summary)",
+  "sitting": "Birleşim No: 1"
+}
