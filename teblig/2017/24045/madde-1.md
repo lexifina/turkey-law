@@ -1,0 +1,2 @@
+Amaç ve kapsam
+MADDE 1 – (1) Bu Tebliğ; 5/12/2008 tarihli ve 27075 sayılı Resmî Gazete’de yayımlanan Binalarda Enerji Performansı Yönetmeliği kapsamında, binanın enerji tüketimine etki eden tüm parametrelerin, konut, ofis, eğitim, sağlık, otel, alışveriş ve ticaret merkezleri gibi mevcut ve yeni binaların enerji verimliliğine etkisini değerlendirmek ve enerji performans sınıfını belirlemek için geliştirilen bina enerji performansı hesaplama yönteminin yayımlanmasını sağlamak amacıyla hazırlanmıştır.
