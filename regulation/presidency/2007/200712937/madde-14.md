@@ -1,0 +1,2 @@
+Endüstriyel yapılar
+MADDE 14- (1) Endüstriyel yapılar; her çeşit ürünün yapıldığı fabrika ve işleme, montaj, karıştırma, temizleme, yıkama, paketleme, depolama, dağıtım ve onarım gibi işlemlere mahsus bina ve yapılardır. Her türlü fabrika, bıçkıhaneler, çamaşırhaneler, tekstil üretim tesisleri, enerji üretim tesisleri, gıda işleme tesisleri, dolum ve boşaltım tesisleri, kuru temizleme tesisleri, maden işleme tesisleri, rafineriler ve benzeri yerler bu sınıfa girer.

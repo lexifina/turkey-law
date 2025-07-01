@@ -1,0 +1,2 @@
+Karışık kullanım amaçlı binalar
+MADDE 18- (1) Bir binada iki veya daha fazla kullanım sınıflandırılmasına tabi olacak bölümler var ise ve bu bölümler birbirinden, daha yüksek tehlike sınıfına uygun bir yangın bölmesi ile ayrılamıyor veya iç içe olması sebebiyle ayrı korunma tedbirlerini uygulamak mümkün değil ise, daha yüksek koruma tedbirleri gerektiren sınıflandırmaya ilişkin kurallar bütün bina için uygulanır.

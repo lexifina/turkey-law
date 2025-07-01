@@ -1,0 +1,21 @@
+Oteller, moteller ve yatakhaneler
+MADDE 50- (1) Otellerin, motellerin ve diğer binaların yatakhane olarak kullanılan bölümlerinin aşağıda belirtilen şartlara uygun olması gerekir:
+a) Yatak odaları, iç koridordan en az 60 dakika yangına karşı dayanıklı bir duvar ile ayrılır. Toplam yatak sayısı 20’den fazla veya kat sayısı ikiden fazla olan otellerde her katta en az 2 çıkış sağlanır. Yatak sayısı 20’den az ve yapı yüksekliği 15.50 m’den az olan bina veya bloklarda ise, merdiven korunumlu yapıldığı veya basınçlandırıldığı takdirde, tek merdiven yeterli kabul edilir.
+b) İç koridora açılan kapıların yangına karşı en az 30 dakika dayanıklı olması ve kendiliğinden kapatan düzenekler ile donatılması gerekir.
+c) İç koridorlar, bir dış duvarda yer alan boşluklar ile doğal yolla havalandırılır veya mekanik duman tahliyesi yapılır.
+ç) Yatak odası koridoruna açılan diğer odaların veya koridorun bir parçasını oluşturup kaçışları tehlikeye sokabilecek diğer mekânlar için, yatak odalarıyla aynı düzeyde bir kompartıman özelliğinin sağlanması şarttır.
+(2) Bir dış koridor ile erişilen otel yatak odalarının aşağıda belirtilen şartlara uygun olması gerekir.
+a) Yatak odalarının, yangına en az 60 dakika dayanıklı bir duvar ile dış koridordan ayrılması gerekir. Ancak, parapet üst kotu koridor bitmiş döşeme üst kotundan 1.1 m veya daha yukarda konumlandırılan yanmaz malzemeden yapılmış havalandırma boşlukları için bu şart aranmaz.
+b) Dış koridora açılan kapıların yangına karşı en az 30 dakika dayanıklı olması ve kendiliğinden kapatan düzenekler ile donatılması gerekir.
+c) Dış koridorlarda dış kaçış geçitlerine ilişkin en az genişlik, döşemede kot değişimleri, çatı korunumu koridor dış kenarı boyunca korkuluk yapılması ve benzeri şartlara uyulması gerekir.
+(3) Otel yatak odasında veya süit odada en uzak bir noktadan çıkış kapısına kadar ölçülen uzaklığın 15 m’yi aşmaması hâlinde, tek kaçış kapısı bulunması yeterli kabul edilir. Ancak:
+a) Otel yatak odasında veya süit odada en uzak bir noktadan çıkış kapısına kadar ölçülen uzaklığın 15 m’yi aşması hâlinde, birbirinden uzakta konuşlandırılmış en az 2 çıkış kapısı bulunması gerekir.
+b) Tamamı yağmurlama sistemi ile donatılmış otellerin yatak odalarında veya süit odalarında, en uzak bir noktadan kapıya kadar ölçülen uzaklığın 20 m’yi aşmaması gerekir.
+(4) Kaçış uzaklığı, yatak odası veya süit odanın çıkış kapısından başlayarak bir kaçış merdivenine, dış kaçış geçidine veya dış açık alana açılan çıkış kapısına kadar olan ölçüdür.
+(5) Koridor boyunca yalnızca tek yönde kaçış imkânı var ise, kaçış uzaklığı en uzaktaki yatak odası çıkış kapısından itibaren ölçülür. İki yönde kaçış sağlanabiliyor ise, kaçış uzaklığı her bir yatak odasının çıkış kapılarından ölçülür.
+(6) Doğal veya mekanik yolla havalandırılmayan iç koridorlar; yağmurlama sistemi olan binalarda 45 m ve yağmurlama sistemi bulunmayan binalarda 30 m aralıklarla duman kesicileri ile bölümlendirilir ve buralarda aşağıdaki şartlara uyulur:
+a) Duman kesicileri yangına en az 60 dakika dayanıklı olur. Bölme içinde yer alan kaçış kapılarının yangına en az 60 dakika dayanıklı ve duman sızdırmaz nitelikte olması şarttır. Duman kesicilerin, koridoru kuşatan duvar da dâhil olmak üzere, bütün kat yüksekliğince tavana veya çatı örtüsünün altına kadar devam etmesi ve ara kesitleri sıkıca kapatması gerekir.
+b) Duman kesicileri ile oluşturulan bölmelerin her birinden bir çıkışa, kaçış merdivenine, dış kaçış geçidine veya kaçış rampasına doğrudan engelsiz erişim imkânı sağlanması gerekir.
+c) Duman sızdırmaz kapılara, camlı kapılar hariç olmak üzere, alanı her bir kanat yüzey alanının en az % 25’i değerinde net görüş sağlayan cam paneller konulur.
+ç) Duman sızdırmaz kapılar tek veya çift kanatlı olabilir. Ancak, kendiliğinden kapatan düzenekler ile donatılması ve kanatların, içinde yer aldığı boşluğu bütünüyle kapatması şarttır. Kasaların duvar boşluğuna sıkıca yerleştirilmesi ve kanat ile döşeme arasındaki aralığın 4 mm’yi aşmaması gerekir.
+d) Duman sızdırmaz kapıların normal olarak kapalı durumda tutulması gerekir. Ancak, bu kapılar algılama sistemi yolu ile çalışan elektro-manyetik veya elektro-mekanik düzenekler ile otomatik olarak kapatılabiliyor ise açık durumda tutulabilir.

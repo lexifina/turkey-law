@@ -1,0 +1,5 @@
+Acil çıkış zorunluluğu
+MADDE 39- (1) Bütün yapılarda, aksi belirtilmedikçe, en az 2 çıkış tesis edilmesi ve çıkışların korunmuş olması gerekir.
+(2) (Değişik: 10/8/2009-2009/15316 K.) Çıkış sayısı, 33 üncü madde esas alınarak belirlenecek sayıdan az olamaz. Aksi belirtilmedikçe, 25 kişinin aşıldığı yüksek tehlikeli mekânlar ile 50 kişinin aşıldığı her mekânda en az 2 çıkış bulunması şarttır. Kişi sayısı 500 kişiyi geçer ise en az 3 çıkış ve 1000 kişiyi geçer ise en az 4 çıkış bulunmak zorundadır.
+(3) (Değişik: 10/8/2009-2009/15316 K.) Çıkışların birbirinden olabildiğince uzakta olması gerekir. Bölünmemiş tek mekânlarda 2 çıkış gerekiyor ise çıkışlar arasındaki mesafe yağmurlama sistemi bulunmadığı takdirde diyagonal mesafenin 1/2’sinden ve yağmurlama sistemi mevcut ise diyagonal mesafenin 1/3’ünden az olamaz.
+(4) (Değişik: 10/8/2009-2009/15316 K.) Çıkış mesafelerinin kapıdan alındığı bina kullanım sınıflarında, bir koridor içindeki 2 kaçış merdiveni arasındaki mesafe, yağmurlama sistemi olmayan yapılarda koridor uzunluğunun yarısından ve yağmurlama sistemi olan yapılarda ise koridor uzunluğunun 1/3’ünden az olamaz.

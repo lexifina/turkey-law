@@ -1,0 +1,2 @@
+Yağmurlama sistemi alarm istasyonları
+MADDE 78- (1) Bir binada yağmurlama sistemi ve otomatik algılama sistemi kurulması hâlinde, yağmurlama sistemi alarm istasyonları ve akış anahtarları yangın alarm sistemine bağlanır. Yağmurlama sisteminden gelen alarm uyarıları ayrı bir bölgesel izleme panelinde veya yangın kontrol panelinde ayrı bölgesel alarm göstergeleri oluşturularak izlenir. Hat kesme vanalarının izleme anahtarlarının ve yağmurlama sistemine ilişkin diğer arıza kontaklarının da aynı şekilde yangın alarm sistemi tarafından sürekli olarak denetlenmesi gerekir.

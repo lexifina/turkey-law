@@ -1,0 +1,10 @@
+ÜÇÜNCÜ KISIM
+Kaçış Yolları, Kaçış Merdivenleri ve Özel Durumlar
+BİRİNCİ BÖLÜM
+Genel Hükümler
+Kaçış güvenliği esasları
+MADDE 30- (1) İnsanlar tarafından kullanılmak üzere tasarlanan her yapı, yangın veya diğer acil durumlarda kullanıcıların hızla kaçışlarını sağlayacak yeterli kaçış yolları ile donatılır. Kaçış yolları ve diğer tedbirler, yangın veya diğer acil durumlarda can güvenliğinin yalnızca tek bir tedbire dayandırılmayacağı biçimde tasarlanır.
+(2) Her yapının, yangın veya diğer acil durumlarda yapıdan kaçış sırasında kullanıcıları, ısı, duman veya panikten doğan tehlikelerden koruyacak şekilde yapılması, donatılması, bakım görmesi ve işlevini sürdürmesi gerekir.
+(3) Her yapıda, bütün kullanıcılara elverişli kaçış imkânı sağlayacak şekilde, yapının kullanım sınıfına, kullanıcı yüküne, yangın korunum düzeyine, yapısına ve yüksekliğine uygun tip, sayı, konum ve kapasitede kaçış yolları düzenlenir.
+(4) Her yapının içinde, yapının kullanıma girmesiyle her kesimden serbest ve engelsiz erişilebilen şekilde kaçış yollarının düzenlenmesi ve bakım altında tutulması gerekir. Herhangi bir yapının içinden serbest kaçışları engelleyecek şekilde çıkışlara veya kapılara kilit, sürgü ve benzeri bileşenler takılamaz. Zihinsel engelli, tutuklu veya ıslah edilenlerin barındığı, yetkili personeli sürekli görev başında olan ve yangın veya diğer acil durumlarda kullanıcıları nakledecek yeterli imkânları bulunan yerlerde kilit kullanılmasına izin verilir.
+(5) Her çıkışın açıkça görünecek şekilde yapılması, ayrıca, çıkışa götüren yolun, sağlıklı her kullanıcının herhangi bir noktadan kaçacağı doğrultuyu kolayca anlayabileceği biçimde görünür olması gerekir. Çıkış niteliği taşımayan herhangi bir kapı veya bir çıkışa götüren yol gerçek çıkışla karıştırılmayacak şekilde düzenlenir veya işaretlenir. Bir yangın hâlinde veya herhangi bir acil durumda, kullanıcıların yanlışlıkla çıkmaz alanlara girmemeleri ve kullanılan odalardan ve mekânlardan geçmek zorunda kalmaksızın bir çıkışa veya çıkışlara doğrudan erişmeleri için gerekli tedbirler alınır.

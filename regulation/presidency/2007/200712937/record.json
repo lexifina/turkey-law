@@ -1,0 +1,43 @@
+{
+  "id": "presidency-regulation-200712937",
+  "number": "200712937",
+  "kind": "regulation",
+  "issuer": "presidency",
+  "title": "BİNALARIN YANGINDAN KORUNMASI HAKKINDA YÖNETMELİK",
+  "published": "2007-12-19",
+  "enacted": "2007-11-27",
+  "gazette_number": "26735",
+  "in_force": "2025-07-01",
+  "in_force_basis": "Latest source commencement-table date: 2025-07-01; official source: 30/6/2025 | 10026 | Geçici Madde 4 | 1/7/2025 | ",
+  "history": "current-only",
+  "version_label": "oldest version available",
+  "first_law": null,
+  "source": "https://www.mevzuat.gov.tr/anasayfa/MevzuatFihristDetayIframe?MevzuatNo=200712937&MevzuatTur=21&MevzuatTertip=5",
+  "source_sha256": "b8c8a25ae5f6a122d08b6a0718c9bb722c128f8952faaf4ab6ea118681838cd2",
+  "source_links": [],
+  "missing_components": [],
+  "date_anomalies": [
+    {
+      "table": 0,
+      "row": 6,
+      "reason": "date-bearing row lacks an explicit commencement date",
+      "cells": [
+        "14/6/2017",
+        "2017/10459",
+        "138",
+        "29/62017",
+        ""
+      ]
+    }
+  ],
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  },
+  "images_complete": true,
+  "image_inventory": [],
+  "images_omitted": [],
+  "completeness": "html-text-complete",
+  "text_layout": "article-files"
+}

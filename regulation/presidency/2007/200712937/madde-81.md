@@ -1,0 +1,18 @@
+Sesli ve ışıklı uyarı cihazları
+MADDE 81- (1) Bir binanın kullanılan bütün bölümlerinde yaşayanları yangından veya benzeri acil hâllerden haberdar etme işlemleri, sesli ve ışıklı uyarı cihazları ile gerçekleştirilir. Yangın uyarı butonunun mecburi olduğu yerlerde uyarı sistemi de mecburidir.
+–––––––––––––
+(1) Bu madde başlığı “Yangın bölgeleri ve kontrol panelleri” iken, 10/8/2009 tarihli ve 2009/15316 sayılı Bakanlar Kurulu Kararı Eki Yönetmeliğin 29 uncu maddesiyle metne işlendiği şekilde değiştirilmiştir.
+(2) Yangın alarm sinyali gecikmesiz olarak, yangın mücadele ekipleri ve yangına müdahale konusunda eğitilmiş personele ulaştırılmak şartıyla, yangın alarm sinyalinin gerçekliğinin araştırılmasına imkân verecek şekilde bir ön uyarı sistemine izin verilir. Tehlikeli maddelerin bulundurulduğu veya işlendiği endüstriyel binalarda ve depolama amaçlı yapılarda herhangi bir yangın algılamasının otomatik olarak bina tahliye uyarı sistemlerini harekete geçirmesi gerekir. Bu bina ve yapılarda ön uyarı sistemine izin verilmez.
+(3) Tahliye uyarıları, aşağıda belirtilen istisnalar dışında, hem sesli ve hem de ışıklı olarak yapılır:
+a) İşitme engelli kişilerin bulunma ihtimali olmayan alanlarda ışıklı uyarı cihazı kullanılması mecburi değildir.
+b) Sağlık hizmeti amaçlı binalar için öngörüldüğü takdirde sadece ışıklı uyarı cihazları kullanılmasına izin verilir.
+(4) Tahliye uyarı sistemlerinin, aşağıda belirtilen istisnalar dışında, yapının tamamında devreye girmesi gerekir:
+a) Yapısı itibarıyla tamamının birden boşaltılması mümkün olmayan binalarda, başlangıçta sadece yangından etkilenen ve etkilenecek olan bölgelerde uyarı sistemleri devreye girer. Böyle bir hâlde, binanın düzenli bir şekilde boşaltılabilmesi için, uyarı sistemi, diğer bölgelerde kademeli olarak devreye sokulacak şekilde tesis edilir.
+b) Yaşlılık, fiziksel veya zihinsel yetersizlik ve benzeri sebeplerle kendi başlarına dışarı çıkamayacak kişiler bulunan binalarda, sadece bu kişilerin bakımları ve binadan tahliyeleri ile görevli personele yangın uyarısı verilmesine izin verilir.
+(5) (Değişik: 10/8/2009-2009/15316 K.) Sesli uyarı cihazları binanın her yerinde, yerden 150 cm yükseklikte ölçülecek ve ses seviyesi ortalama ortam ses seviyesinin en az 15 dBA üzerinde olacak şekilde yerleştirilir. Uyuma maksatlı bölümler ile banyo ve duşlarda, ses seviyesinin en az 75 dBA olması gerekir. Sesli uyarı cihazlarının 3 m uzaklıkta en az 75 dBA ve en çok 120 dBA ses seviyesi elde edilecek özellikte olması şarttır. Acil anons sistemi hoparlörü olan hacimlerde ayrıca siren sistemi konulması gerekli değildir.
+(6) Sesli yangın uyarı cihazlarının seslerinin, binada başka amaçlarla kullanılan sesli uyarıcılardan ayırt edilebilecek özellikte olması gerekir.
+(7) Aşağıda belirtilen yerlerde, otomatik olarak yayınlanan ses mesajları ve yangın merkezinden mikrofonla yayınlanan canlı ses mesajları ile binada yaşayanların tahliyesini veya bina içerisinde yer değiştirmelerini sağlayacak şekilde anons sistemleri kurulması mecburidir:
+a) Binadaki yatak sayısı 200’den fazla olan otel, motel ve yatakhanelerde,
+b) Yapı inşaat alanı 5000 m2’den büyük olan veya toplam kullanıcı sayısı 1000 kişiyi aşan topluma açık binalarda, alışveriş merkezlerinde, süpermarketlerde, endüstri tesislerinde ve benzeri binalarda,
+c) (Değişik: 10/8/2009-2009/15316 K.) Yapı yüksekliği 51.50 m’yi geçen bütün binalarda.
+(8) Sesli ve ışıklı uyarı cihazları, sadece yangın uyarı sistemi ve diğer acil durum uyarıları için kullanılır. Anons sistemleri ise, yangın uyarı sistemi ve diğer acil durum anonsları öncelik almak ve otomatik olarak diğer kullanım amaçlarını devre dışı bırakmak şartıyla, genel anons ve fon müziği yayını gibi başka amaçlar ile de kullanılabilir.

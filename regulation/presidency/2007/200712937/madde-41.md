@@ -1,0 +1,10 @@
+Kaçış merdiveni özellikleri
+MADDE 41- (1) Kaçış merdivenlerinin kapasite ve sayı bakımından en az yarısının doğrudan bina dışına açılması gerekir.
+(2) Kaçış merdiveninin, zemin düzeyindeki dışarı çıkışın görülebildiği ve engellenmediği hol, koridor, fuaye, lobi gibi bir dolaşım alanına inmesi hâlinde, kaçış merdiveninin indiği nokta ile dış açık alan arasındaki uzaklık, kaçış merdiveni bir kattan daha fazla kata hizmet veriyor ise 10 m’yi aşamaz. Yağmurlama sistemi olan yapılarda bu uzaklık en fazla 15 m olabilir. Dışa açık alanın, kaçış merdiveninin indiği noktadan açıkça görülmesi ve güvenlikli bir şekilde doğrudan erişilebilir olması gerekir. İç kaçış merdivenlerinden boşalan kullanıcı yükünü karşılayacak yeterli genişlikte dışa açık kapı bulunması şarttır.
+(3) (Değişik: 10/8/2009-2009/15316 K.) Kaçış merdivenlerinde her döşeme düzeyinde 17 basamaktan çok olmayan ve 4 basamaktan az olmayan aralıkla sahanlıklar düzenlenir. Bina yüksekliği 15.50 m’den veya bir kattaki kullanıcı sayısı 100 kişiden fazla olan binalarda dengelenmiş kaçış merdivenlerine izin verilmez.
+(4) Sahanlığın en az genişliği ve uzunluğu, merdivenin genişliğinden az olamaz. Basamakların kaymayı önleyen malzemeden olması şarttır.
+(5) Kaçış merdiveni sahanlığına açılan kapılar hiçbir zaman kaçış yolunun 1/3’ nden fazlasını daraltacak şekilde konumlandırılamaz.
+(6) Merdivenlerde baş kurtarma yüksekliğinin, basamak üzerinden en az 210 cm ve sahanlıklar arası kot farkının en çok 300 cm olması gerekir.
+(7) Herhangi bir kaçış merdiveninde basamak yüksekliği 175 mm’den çok ve basamak genişliği 250 mm’den az olamaz.
+(8) Kaçış için kullanılmasına izin verilen merdivenlerde, basamağın kova hattındaki en dar basamak genişliği, konutlarda 100 mm’den ve diğer yapılarda 125 mm' den az olamaz. Her kaçış merdiveninin her iki yanında duvar, korkuluk veya küpeşte bulunması gerekir.
+(9) (Değişik: 10/8/2009-2009/15316 K.) Kaçış merdiveni yuvasına ve yangın güvenlik holüne elektrik ve mekanik tesisat şaftı kapakları açılamaz, kombi kazanı, iklimlendirme dış ünitesi, sayaç ve benzeri cihaz konulamaz.

@@ -1,0 +1,4 @@
+Kaçış merdiveni yuvalarının yeri ve düzenlenmesi
+MADDE 40- (1) Yangın hangi noktada çıkarsa çıksın, o kotta bütün insanların çıkışlarının sağlanması için kaçış yollarının ve kaçış merdivenlerinin birbirlerinin alternatifi olacak şekilde konumlandırılması gerekir. Kaçış yolları ve kaçış merdivenleri, yan yana yapılamaz. Kaçış merdivenine giriş ile kat sahanlığının aynı kotta olması gerekir. Genel merdivenlerden geçilerek kaçış merdivenine ulaşılamaz. Kaçış merdiveni yuvalarının yerinin belirlenmesinde, en uzak kaçış mesafesi ve kullanıcı yükü esas alınır.
+(2) Merdiven yuvalarının yeri, binadaki insanların güvenlikle bina dışına kaçışlarını kolaylaştıracak şekilde seçilir. Kaçış merdivenlerinin, başladıkları kottan çıkış kotuna kadar süreklilik göstermesi gerekir.
+(3) (Mülga: 10/8/2009-2009/15316 K.)

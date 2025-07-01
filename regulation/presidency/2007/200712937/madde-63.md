@@ -1,0 +1,7 @@
+Acil durum asansörü
+MADDE 63- (1) Acil durum asansörü; bir yapı içinde yangına müdahale ekiplerinin ve bunların kullandıkları ekipmanın üst ve alt katlara makul bir emniyet tedbiri dâhilinde hızlı bir şekilde taşınmasını sağlamak, gerekli kurtarma işlemlerini yapmak ve aynı zamanda engelli insanları tahliye edilebilmek üzere tesis edilir. Asansör, aynı zamanda normal şartlarda binada bulunanlar tarafından da kullanılabilir. Ancak, bir yangın veya acil durumda, asansörün kontrolü acil durum ekiplerine geçer.
+(2) Yapı yüksekliği 51.50 m'den daha fazla olan yapılarda, en az 1 asansörün acil hâllerde kullanılmak üzere acil durum asansörü olarak düzenlenmesi şarttır.
+(3) Acil durum asansörleri önünde, aynı zamanda kaçış merdivenine de geçiş sağlayacak şekilde, her katta 6 m2’den az, 10 m2’den çok ve herhangi bir boyutu 2 m’den az olmayacak yangın güvenlik holü oluşturulur.
+(4) (Değişik: 10/8/2009-2009/15316 K.) Acil durum asansörünün kabin alanının en az 1.8 m², hızının zemin kattan en üst kata 1 dakikada erişecek hızda olması ve enerji kesilmesi hâlinde, otomatik olarak devreye girecek özellikte ve 60 dakika çalışır durumda kalmasını sağlayacak bir acil durum jeneratörüne bağlı bulunması gerekir.
+(5) Acil durum asansörlerinin elektrik tesisatının ve kablolarının yangına karşı en az 60 dakika dayanıklı olması ve asansör boşluğu içindeki tesisatın sudan etkilenmemesi gerekir.
+(6) Acil durum asansörünün makina dairesi ayrı olur ve asansör kuyusu basınçlandırılır.
