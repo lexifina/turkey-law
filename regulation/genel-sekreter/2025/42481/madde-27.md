@@ -1,0 +1,2 @@
+Tezin hazırlanmasına ilişkin esaslar
+MADDE 27- (1) Cumhurbaşkanlığı Raportörlüğü tezinin, tez danışmanının rehberliğinde bilimsel esaslara uygun olarak hazırlanması, Cumhurbaşkanlığı Raportör Yardımcısının kendi görüş ve değerlendirmeleri ile önerilerini içermesi, bu Yönetmeliğe göre çıkartılan Tez Hazırlama Yönergesine uygun hazırlanması ve bilimsel çalışma etiğine uygun olması, daha önce yüksek lisans, doktora tezi veya başka bir amaçla ya da benzer tarzda hazırlanmamış ve kullanılmamış olması gerekir.

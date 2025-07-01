@@ -1,0 +1,2 @@
+Başarısızlık hâli
+MADDE 39- (1) Verilen ek süre içinde tezlerini sunmayan veya ikinci defa hazırladıkları tezleri de kabul edilmeyenler, ikinci yeterlik sınavında da başarı gösteremeyen veya sınav hakkını kullanmayanlar ile süresi içinde yabancı dil yeterliği şartını yerine getirmeyenler, Cumhurbaşkanlığı Raportör Yardımcısı ünvanını kaybederler ve Genel Sekreterlikte durumlarına uygun memur ünvanlı kadrolara atanırlar.

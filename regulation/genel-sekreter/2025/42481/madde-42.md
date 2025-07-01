@@ -1,0 +1,4 @@
+Mesleki kıdem ve koordinasyon
+MADDE 42- (1) Mesleki kıdem, Cumhurbaşkanlığı Raportörlerinin sevk ve idaresinde, görevlendirilmelerinde ve çalışmalarına ilişkin diğer konularda dikkate alınır.
+(2) Mesleki kıdemin belirlenmesinde, mesleğe giriş tarihi esastır. Mesleğe giriş tarihi aynı olanların kıdemi, yeterlik sınavındaki başarı sırasına göre belirlenir.
+(3) Birden fazla Cumhurbaşkanlığı Raportörü veya Cumhurbaşkanlığı Raportör Yardımcısının görev yapması gerekli görülen işlerde, kıdem ve liyakat ilkeleri esas alınmak üzere; Daire Başkanı tarafından, konu birden fazla daireyi ilgilendiriyorsa Genel Müdür tarafından; konu birden fazla Genel Müdürlüğü ilgilendiriyorsa Genel Sekreter tarafından bir Cumhurbaşkanlığı Raportörü, işlerin yürütülmesinde koordinasyonu sağlamak üzere görevlendirilebilir.

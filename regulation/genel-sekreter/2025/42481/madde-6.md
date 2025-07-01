@@ -1,0 +1,2 @@
+Giriş sınavı duyurusu
+MADDE 6- (1) Giriş sınavı; başvuru şartları, KPSS puan türleri ve asgari puanlar, sınavın şekli, sınav konuları, sınava çağrılacak aday sayısı, son başvuru tarihi, başvuru yeri ve başvuru şekli, sınav tarihi ve sınav yeri, gerekli görülmesi hâlinde öğrenim programları ve kontenjanları ile diğer hususları içerecek şekilde son başvuru tarihinden en az otuz gün önce Resmî Gazete ile Cumhurbaşkanlığının internet sitesinde ilan edilmek suretiyle duyurulur.

@@ -1,0 +1,3 @@
+Tezin teslimi
+MADDE 29- (1) Cumhurbaşkanlığı Raportörlüğü tezi, tez konusunun kesinleşmesini takip eden bir yıl içinde hazırlanarak tez değerlendirme raporu ile birlikte teslim edilir. Bu bir yıllık sürenin hesabında aylıksız izin ile toplamı üç ayı aşan hastalık ve refakat izinleri dikkate alınmaz.
+(2) Belgeyle ispatı mümkün geçerli bir mazereti olmaksızın süresi içinde tezini teslim etmeyen Cumhurbaşkanlığı Raportör Yardımcılarına, bir defaya mahsus olmak üzere altı ayı aşmamak üzere ek süre verilir. Verilen ilave süre içinde de tezlerini sunmayanlar hakkında 39 uncu madde hükümleri uygulanır.
