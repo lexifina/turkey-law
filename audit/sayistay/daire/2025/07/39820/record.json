@@ -1,0 +1,17 @@
+{
+  "kind": "decision",
+  "issuer": "Sayıştay 4. Dairesi",
+  "number": "345",
+  "decision_date": "2025-07-01",
+  "source_id": 39820,
+  "chamber": "4",
+  "ilam_number": "255",
+  "item_number": 1,
+  "public_body_type": "Yüksek Öğretim Kurumları",
+  "account_year": 2019,
+  "subject": "Personel Mevzuatı ile İlgili Kararlar",
+  "source": "https://www.sayistay.gov.tr/KararlarDaire/Detay/39820/",
+  "source_sha256": "7405db484bfbe6f5e61038202cfe1026d7d8ad10ecdfe2f0c208a655093c9c3c",
+  "text_status": "metadata-only",
+  "metadata_only_reason": "possible personal name in the official text"
+}
