@@ -1,0 +1,25 @@
+{
+  "number": "meeting-07-01",
+  "number_as_published": "meeting-07-01",
+  "year": 2025,
+  "title": "01.07.2025 TARİHLİ BELEDİYE MECLİS KARAR ÖZETLERİ",
+  "decision_date": "2025-07-01",
+  "source": "https://www.sehzadeler.bel.tr/tr/raporbelge/index",
+  "official_document": "https://www.sehzadeler.bel.tr/uploads/images/01.07.2025_Tarihli_Meclis_Karar_yozeti.pdf",
+  "source_sha256": "6507a89257c55501a0d2d306a0a5a5e9d644d72eb5547188a808e1254d29fe1c",
+  "issuer": "Şehzadeler Belediye Meclisi",
+  "history_type": "metadata",
+  "text_status": "metadata-only: listing fields as published; complete decision text is in the linked official document, not transcribed",
+  "in_force": "2025-07-01",
+  "in_force_basis": "Decision date as printed in the official council listing: 01.07.2025; adoption date of the council decision; legal commencement not asserted",
+  "missing": [
+    "complete official decision text",
+    "official annexes"
+  ],
+  "law_text_complete": false,
+  "privacy_withheld": false,
+  "listing_label": "01.07.2025 TARİHLİ BELEDİYE MECLİS KARAR ÖZETLERİ",
+  "record_scope": "one official file of council decisions (meeting)",
+  "posting_date": "17.07.2025",
+  "official_page": "https://www.sehzadeler.bel.tr/tr/raporbelge/index"
+}
