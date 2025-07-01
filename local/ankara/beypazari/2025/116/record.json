@@ -1,0 +1,23 @@
+{
+  "number": "116",
+  "number_as_published": "116",
+  "year": 2025,
+  "title": "council decision",
+  "decision_date": "2025-07-01",
+  "source": "https://beypazari.bel.tr/mecliskararlari",
+  "official_document": null,
+  "source_sha256": "0047c1898c8e2edf946449021419bfb93dd59147dd4d39eba16e78ba44622fdc",
+  "issuer": "Beypazarı Belediye Meclisi",
+  "history_type": "metadata",
+  "text_status": "metadata-only: the published decision summary appears to name private persons; official link only",
+  "in_force": "2025-07-01",
+  "in_force_basis": "Decision date as printed in the official council listing: 2025-07-01 (TARİH in the official list); adoption date of the council decision; legal commencement not asserted",
+  "missing": [
+    "complete official decision text",
+    "official annexes"
+  ],
+  "law_text_complete": false,
+  "privacy_withheld": true,
+  "record_scope": "one council decision (subject, number, date and decision text as published in the official list)",
+  "official_page": "https://beypazari.bel.tr/mecliskararlari"
+}
