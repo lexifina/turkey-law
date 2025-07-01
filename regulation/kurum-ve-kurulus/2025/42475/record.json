@@ -1,0 +1,27 @@
+{
+  "source_id": "7.5.42475",
+  "kind": "regulation",
+  "register_kind": "Kurum ve Kuruluş Yönetmelikleri",
+  "title": "TÜRKİYE ATICILIK FEDERASYONU ANA STATÜSÜ",
+  "number": "42475",
+  "issuer_slug": "kurum-ve-kurulus",
+  "path": "regulation/kurum-ve-kurulus/2025/42475",
+  "source": "https://www.mevzuat.gov.tr/anasayfa/MevzuatFihristDetayIframe?MevzuatTur=7&MevzuatNo=42475&MevzuatTertip=5",
+  "source_sha256": "80b62818319208a67f3703795cdd0498cbfdc28f177b6328f3e04669457cd69c",
+  "source_bytes": 174656,
+  "published": "2025-07-01",
+  "gazette": "32943",
+  "in_force": "2025-07-01",
+  "in_force_basis": "Resmî Gazete publication date in the official listing (01.07.2025)",
+  "history": "current-text",
+  "label": "oldest version available",
+  "checked_on": "2026-11-15",
+  "word_count": 10938,
+  "text_status": "current-consolidated",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  },
+  "completeness": "html-text-complete"
+}
