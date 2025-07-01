@@ -1,0 +1,2 @@
+Yürürlükten kaldırılan tebliğler
+MADDE 11- (1) 18/1/2012 tarihli ve 28177 sayılı Resmî Gazete’de yayımlanan Damızlık Harici Hayvanların İthalatında Kontrol Belgesi Düzenlenmesi İçin Aranacak Belgeler Hakkında Tebliğ (Tebliğ No: 2012/8) ve 21/4/2018 tarihli ve 30398 sayılı Resmî Gazete’de yayımlanan Büyükbaş, Küçükbaş, Damızlık Kanatlı Hayvanlar, Tek Tırnaklı Hayvanlar, Arı ve Diğer Hayvanlar ile Üreme Ürünleri İthalatı İçin Kontrol Belgesi Düzenlenmesi Hakkında Tebliğ (Tebliğ No: 2018/15) yürürlükten kaldırılmıştır.

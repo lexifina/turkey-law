@@ -1,0 +1,37 @@
+{
+  "checked_on": "2026-11-15",
+  "commencement_quote": "Bu Tebliğ yayımı tarihinde yürürlüğe girer",
+  "date_gazette": "32943",
+  "date_quote": "RG-1/7/2025-32943",
+  "first_law": null,
+  "gazette": "32175",
+  "history": "current-text",
+  "images": {
+    "deferred": 0,
+    "omitted": 0,
+    "referenced": 0,
+    "source": 0
+  },
+  "in_force": "2025-07-01",
+  "in_force_basis": "Latest source-printed RG amendment date for current text: RG-1/7/2025-32943; own commencement clause: Bu Tebliğ yayımı tarihinde yürürlüğe girer",
+  "issuer": "Tarım ve Orman Bakanlığı",
+  "issuer_catalog_evidence": [
+    {
+      "evidence": "issuer-637-0.json",
+      "id": "637",
+      "label": "Tarım ve Orman Bakanlığı",
+      "listing_url": "https://www.mevzuat.gov.tr/Anasayfa/MevzuatDatatable?MevzuatTur=Teblig&KurumId=637&start=0&length=100"
+    }
+  ],
+  "issuer_slug": "tarim-ve-orman-bakanligi",
+  "kind": "communique",
+  "label": "oldest version available",
+  "notes": [],
+  "published": "2023-04-29",
+  "source": "https://www.mevzuat.gov.tr/anasayfa/MevzuatFihristDetayIframe?MevzuatTur=9&MevzuatNo=40169&MevzuatTertip=5",
+  "source_bytes": 53029,
+  "source_id": "9.5.40169",
+  "source_sha256": "ff6d83fa5079d3ccab6fd615f0d6311c8da1c181305b8a3680e69a50f348b3f0",
+  "title": "DAMIZLIK VE DAMIZLIK HARİCİ HAYVANLAR İLE ÜREME ÜRÜNLERİ İTHALATI HAKKINDA TEBLİĞ (TEBLİĞ NO: 2023/22)",
+  "word_count": 1435
+}

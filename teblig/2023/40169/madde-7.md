@@ -1,0 +1,4 @@
+Kontrol belgesinin onaylanmasını kısıtlayan haller
+MADDE 7- (1) Hayvan hastalıkları yönünden kısıt bulunan ülke ya da ülkenin bir bölümünden hayvan ve üreme ürünleri ithalatı için yapılan kontrol belgesi başvuruları reddedilir.
+(2) İthal edilecek hayvanların veya üreme ürünlerinin gümrüğe gelmiş ya da çıkış ülkesinde ihracat işlemleri tamamlanmış olması durumları hariç, kontrol belgesi onaylanan, ancak daha sonraki süreçte ithalatın gerçekleştirileceği ülke/bölgede ithalatı kısıtlayan bir hayvan hastalığı çıkması durumunda, hastalık sönüşü yapılıncaya kadar onaylanmış olan kontrol belgeleri ile işlem yapılamaz.
+(3) Bakanlık, yerli gen kaynaklarının korunması amacıyla veya ithal edilecek hayvan ve üreme ürünlerinin verim ve kalite unsurları gibi hususlarla ilgili olarak kontrol belgesi düzenlemelerinde ilave tedbir alabilir. İlgililer, Bakanlık tarafından alınan bu tedbirleri yerine getirmekle yükümlüdürler.

@@ -1,0 +1,2 @@
+Dayanak
+MADDE 3- (1) Bu Tebliğ; 11/6/2010 tarihli ve 5996 sayılı Veteriner Hizmetleri, Bitki Sağlığı, Gıda ve Yem Kanununa, 1 sayılı Cumhurbaşkanlığı Teşkilatı Hakkında Cumhurbaşkanlığı Kararnamesinin 413 üncü ve 508 inci maddelerine ve 17/12/2011 tarihli ve 28145 sayılı Resmî Gazete’de yayımlanan Ülkeye Giriş Yapan Canlı Hayvanlarda Yürütülecek Veteriner Kontrollerinin Düzenlenmesine Dair Yönetmeliğe dayanılarak hazırlanmıştır.
