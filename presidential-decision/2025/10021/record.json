@@ -1,0 +1,31 @@
+{
+  "number": "10021",
+  "title": "İTHALAT REJİMİ KARARINDA DEĞİŞİKLİK YAPILMASINA İLİŞKİN KARAR (KARAR SAYISI: 10021)",
+  "official_url": "https://www.mevzuat.gov.tr/anasayfa/MevzuatFihristDetayIframe?MevzuatTur=20&MevzuatNo=10021&MevzuatTertip=5",
+  "listing_url": "https://www.mevzuat.gov.tr/MevzuatMetin/20.5.10021.pdf",
+  "gazette_date": "2025-07-01",
+  "gazette_number": "32943",
+  "in_force": "2025-07-01",
+  "in_force_basis": "Official own commencement article: MADDE 2- Bu Karar yayımı tarihinde yürürlüğe girer.; official MBS publication date 01.07.2025",
+  "publication_evidence": {
+    "published": "2025-07-01",
+    "gazette": "32943",
+    "basis": "official MBS listing resmiGazeteTarihi/resmiGazeteSayisi",
+    "listed_published": "01.07.2025",
+    "listed_gazette": "32943"
+  },
+  "first_law": null,
+  "text_status": "current-text",
+  "version_label": "oldest version available",
+  "source_sha256": "5fcfe1030dcce540ec0a8da75e3a4d10c851fac1acc6a58f42abe10c754c8f19",
+  "source_images": 0,
+  "referenced_images": 0,
+  "omitted_images": 0,
+  "held_annexes": [
+    {
+      "title": "Eki için tıklayınız.",
+      "official_url": "https://www.mevzuat.gov.tr/anasayfa/20.5.10021-Ek.xlsx",
+      "status": "not included; linked annex remains to be added"
+    }
+  ]
+}
