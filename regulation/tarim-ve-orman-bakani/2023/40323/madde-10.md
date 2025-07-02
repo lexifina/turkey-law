@@ -1,0 +1,4 @@
+İl/ilçe keşif komisyonlarının görevleri
+MADDE 10- (1) İl/ilçe keşif komisyonları üretim izni başvurusu yapan çiftçilerin Bakanlık kayıt sistemlerine kayıtlı olmayıp kadastro geçmemiş alanlarda beyan ettiği yeni araziler, ağaçlandırma amacıyla ormandan tahsis edilen alanlar ile daha önce arazi keşfi yapıldığı halde tahkim komisyonunca yeniden keşif yapılmasına lüzum görülen arazilerde yerinde keşif yapar ve keşif raporu düzenler.
+(2) Yapılacak keşif çalışmalarında; Tapu ve Kadastro Genel Müdürlüğünün bu alanlara yönelik çalışmalarından, uydu görüntülerinden, hava fotoğraflarından, orman amenajman planları veya her nevi haritalardan, köy sınırları kayıt defterlerinden ve diğer kamu kurumlarından elde edilecek her türlü bilgi ve belgelerden, coğrafi bilgi sistemlerinden ve diğer elektronik kayıt sistemlerinden faydalanılır.
+(3) Tarımsal üretim planlamasına esas olmak üzere il/ilçe müdürlükleri tarafından verilen görevleri yapar.

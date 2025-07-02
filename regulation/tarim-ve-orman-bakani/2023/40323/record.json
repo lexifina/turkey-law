@@ -1,0 +1,43 @@
+{
+  "source_id": "7.5.40323",
+  "kind": "regulation",
+  "register_kind": "Kurum ve Kuruluş Yönetmelikleri",
+  "title": "TARIMSAL ÜRETİMİN PLANLANMASI HAKKINDA YÖNETMELİK",
+  "number": "40323",
+  "issuer": "Tarım ve Orman Bakanı",
+  "issuer_slug": "tarim-ve-orman-bakani",
+  "path": "regulation/tarim-ve-orman-bakani/2023/40323",
+  "source": "https://www.mevzuat.gov.tr/anasayfa/MevzuatFihristDetayIframe?MevzuatTur=7&MevzuatNo=40323&MevzuatTertip=5",
+  "source_sha256": "b235e907f1a497d1d74c0a811eb130eb3367a3934ef920d06b56c332193f79ba",
+  "source_bytes": 69108,
+  "published": "2023-09-14",
+  "gazette": "32309",
+  "in_force": "2025-07-02",
+  "in_force_basis": "latest Resmî Gazete date printed in the source amendment notes/table (\"RG-2/7/2025\") for the current consolidated text",
+  "date_evidence": [
+    [
+      "2025-07-02",
+      "RG-2/7/2025",
+      "Resmî Gazete date printed in the source amendment note"
+    ],
+    [
+      "2025-07-02",
+      "2/7/2025",
+      "Resmî Gazete date in the source amendment table"
+    ]
+  ],
+  "commencement_clauses": [
+    "Bu Yönetmelik yayımı tarihinde yürürlüğe girer"
+  ],
+  "history": "current-text",
+  "label": "oldest version available",
+  "checked_on": "2026-11-15",
+  "word_count": 3242,
+  "text_status": "current-consolidated",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  },
+  "completeness": "html-text-complete"
+}
