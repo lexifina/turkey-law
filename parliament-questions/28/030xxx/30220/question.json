@@ -1,0 +1,21 @@
+{
+  "record_type": "parliament-written-question",
+  "term": 28,
+  "legislative_year": 3,
+  "esas_no": "7/30220",
+  "submitted": "2025-07-02",
+  "submitted_as": "Başkanlığa geliş tarihi",
+  "mp": "Evrim RIZVANOĞLU EMİR",
+  "province": "İstanbul",
+  "summary": "İzmir'in Aliağa ilçesinde sökümü yapılacak İngiliz menşeli bir geminin asbest içerdiği iddialarına ve bu sökümün çevresel etkilerine ilişkin",
+  "status": "Süresi Geçtikten Sonra Cevaplandı",
+  "status_as_of": "2026-11-16",
+  "official_record": "https://www.tbmm.gov.tr/Denetim/Yazili-Soru-Onergesi-Detay/f747a887-c91f-4a63-b8f6-0197cf09c4d7",
+  "source": "https://tbmm.gov.tr/Denetim/YaziliSoruOnergesiTable",
+  "source_form": "https://tbmm.gov.tr/Denetim/Yazili-Soru-Onergeleri",
+  "source_sha256": "297e46cf5b69182dc8c68b7f6b18507262a544ae9ea0d587b21d991448a075dd",
+  "in_force": "2025-07-02",
+  "in_force_basis": "Date the question reached the Speaker (Başkanlığa geliş tarihi) in the official TBMM written-question record; parliamentary oversight record, not law",
+  "history_type": "metadata",
+  "text_status": "metadata-only: question text, addressee and answers are in the linked official record (PDFs on cdn.tbmm.gov.tr); not transcribed here"
+}
