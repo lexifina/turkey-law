@@ -1,0 +1,23 @@
+{
+  "applicant": "UĞURLU GAZETECİLİK BASIN YAYIN MATBAACILIK REKLAMCILIK LTD. ŞTİ. (6)",
+  "applicant_form": "entity",
+  "application_date": "2023-02-24",
+  "application_number": "2023/14121",
+  "database_publication_date": "2025-10-20",
+  "deciding_unit": "Birinci Bölüm",
+  "decision_date": "2025-07-03",
+  "gazette_number": null,
+  "history_type": "metadata",
+  "id": "d9d0f565-5d71-345c-3313-3e260b57a932",
+  "in_force": "2025-07-03",
+  "in_force_basis": "official decision date",
+  "kind": "constitutional-court-individual-application",
+  "law_text_complete": false,
+  "outcome": "Esas (İhlal Olmadığı)",
+  "published": null,
+  "source": "https://kararlarbilgibankasi.anayasa.gov.tr/kbb/pages/search/Tumu?id=a2JiOmQ5ZDBmNTY1LTVkNzEtMzQ1Yy0zMzEzLTNlMjYwYjU3YTkzMg&type=BireyselBasvuru",
+  "source_api": "https://kararlarbilgibankasi.anayasa.gov.tr/api/core/public/search",
+  "source_listing": "evidence/list/BireyselBasvuru-2025-01-01-2025-12-31-p2.json (official API answer, read 2026-11-15)",
+  "source_listing_sha256": "98f835bd85894d17b7b0d62cfa67499b05fd9f2d4ad4e54c4cddc96db9eb3c76",
+  "text_status": "metadata-only: official database listing fields; the decision text is on the linked official page, not transcribed"
+}
