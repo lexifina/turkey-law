@@ -1,0 +1,43 @@
+{
+  "source_id": "7.5.16199",
+  "kind": "regulation",
+  "register_kind": "Kurum ve Kuruluş Yönetmelikleri",
+  "title": "TİKA UZMANLIĞI YÖNETMELİĞİ",
+  "number": "16199",
+  "issuer": "Türk İşbirliği ve Koordinasyon Ajansı Başkanı",
+  "issuer_slug": "turk-isbirligi-ve-koordinasyon-ajansi-baskani",
+  "path": "regulation/turk-isbirligi-ve-koordinasyon-ajansi-baskani/2012/16199",
+  "source": "https://www.mevzuat.gov.tr/anasayfa/MevzuatFihristDetayIframe?MevzuatTur=7&MevzuatNo=16199&MevzuatTertip=5",
+  "source_sha256": "0c073e18788c5ab2bef6908623078a26f1f15a6f9d4ef763e7803460512f0485",
+  "source_bytes": 61971,
+  "published": "2012-06-05",
+  "gazette": "28314",
+  "in_force": "2025-07-03",
+  "in_force_basis": "latest Resmî Gazete date printed in the source amendment notes/table (\"RG-3/7/2025\") for the current consolidated text",
+  "date_evidence": [
+    [
+      "2025-07-03",
+      "RG-3/7/2025",
+      "Resmî Gazete date printed in the source amendment note"
+    ],
+    [
+      "2025-07-03",
+      "3/7/2025",
+      "Resmî Gazete date in the source amendment table"
+    ]
+  ],
+  "commencement_clauses": [
+    "Bu Yönetmelik yayımı tarihinde yürürlüğe girer"
+  ],
+  "history": "current-text",
+  "label": "oldest version available",
+  "checked_on": "2026-11-15",
+  "word_count": 3500,
+  "text_status": "current-consolidated",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  },
+  "completeness": "html-text-complete"
+}

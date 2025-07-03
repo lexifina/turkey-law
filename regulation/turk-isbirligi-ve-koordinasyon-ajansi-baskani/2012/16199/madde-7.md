@@ -1,0 +1,8 @@
+Yarışma sınavı katılma şartları
+MADDE 7 – (1) Yarışma sınavına katılabilmek için aşağıdaki şartlar aranır:
+a) 14/7/1965 tarihli ve 657 sayılı Devlet Memurları Kanununun 48 inci maddesinin birinci fıkrasının (A) bendinde yer alan genel şartları taşımak,
+b) En az dört yıllık lisans eğitimi veren hukuk, siyasal bilgiler, iktisat, işletme, iktisadî ve idarî bilimler fakültelerinden veya Başkanlığın ihtiyacına göre tespit edilecek en az dört yıllık lisans eğitimi veren fakülte ya da bunlara denkliği Yükseköğretim Kurulu tarafından kabul edilen yurtiçinde ve yurtdışındaki yükseköğretim kurumlarından mezun olmak,
+c) Başkanlıkça belirlenen yabancı dillerden (Değişik ibare:RG-3/7/2025-32945) YDS/e-YDS’den en az (B) düzeyinde puan almak veya Yükseköğretim Kurulunca buna denk kabul edilen ve uluslararası geçerliliği bulunan bir belgeye sahip olmak, (Değişik ibare:RG-3/7/2025-32945) YDS/e-YDS veya Yükseköğretim Kurulunca bu sınava denk kabul edilen ve uluslararası geçerliliği bulunan sınavlarla ölçülmeyen yabancı diller için; ilgili dilde en az üç yıllık ortaöğretim veya ön lisans, lisans veya yüksek lisans diploması almış olmak ya da o dilin resmi dil olarak konuşulduğu ülke resmi makamları tarafından düzenlenen sınavda %80 oranında başarılı olmak,
+ç) Sınavın yapıldığı tarihte otuzbeş yaşını doldurmamış olmak,
+d) Son başvuru tarihi itibarıyla, geçerlik süresi dolmamış KPSS’den, yarışma sınavı duyurusunda belirtilen puan türlerine göre asgari puanı almış olmak.
+(2) Başkanlık, birinci fıkranın (b) bendinde belirtilen mezuniyet koşulunun yerine getirilmesi kaydıyla, ihtiyaç duyulan öğrenim dallarına göre ve yabancı dillere ayrı ayrı kontenjan belirleyebilir.

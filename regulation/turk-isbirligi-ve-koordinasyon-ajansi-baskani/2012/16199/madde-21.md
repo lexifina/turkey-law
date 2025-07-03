@@ -1,0 +1,6 @@
+Tez değerlendirme ve tez savunması
+MADDE 21 – (1) Yeterlik sınav komisyonu, teslim aldığı tez ve raporları en geç iki ay içinde inceler. Tezi uygun görülen uzman yardımcısı tezini savunmak üzere bir ay içerisinde çağrılır.
+(2) Yeterlik sınav komisyonu, uzman yardımcısının hazırlamış olduğu tezi, tezin sözlü savunmasını da göz önüne alarak değerlendirir.
+(3) Yeterlik sınav komisyonu üyelerinin her biri, tez savunmasının ardından teze ilişkin puanlamasını yapar. Yüz tam puan üzerinden yapılacak değerlendirmede, verilen notların aritmetik ortalaması en az yetmiş puan olan tez, başarılı kabul edilir. Yeterlik sınav komisyonu, her bir üyenin vermiş olduğu puanları ve tezin başarılı veya yetersiz sayılma nedenlerini içeren bir değerlendirme raporu hazırlar.
+(4) Uzman yardımcısı, tezinin yetersiz bulunması halinde, başarısız olma gerekçesinin yer aldığı yeterlik sınav komisyonu raporunu dikkate almak suretiyle altı aydan fazla olmamak üzere verilen süre içinde yeniden bir tez hazırlamak veya aynı tezi düzelterek sunmak zorundadır.
+(5) Yeterlik sınavı komisyonunca, tezi ve savunması yeterli bulunduğu halde tezde düzeltmeye gidilmesi gerektiğinin belirlenmesi durumunda, uzman yardımcısı iki ayı aşmamak üzere verilecek ilave süre içerisinde istenilen düzeltmeleri yaparak tezini teslim eder.

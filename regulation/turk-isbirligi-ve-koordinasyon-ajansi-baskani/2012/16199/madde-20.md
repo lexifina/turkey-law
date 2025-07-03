@@ -1,0 +1,5 @@
+Tez hazırlama süresi ve tezin teslimi
+MADDE 20 – (1) Uzman yardımcısı, tez konusunun (Değişik ibare:RG-3/7/2025-32945) Personel ve Destek Hizmetleri Dairesi Başkanlığınca bildirildiği tarihten itibaren en geç bir yıl içerisinde, hazırladığı tezini teslim etmek zorundadır.
+(2) Tezini süresinde teslim etmeyen uzman yardımcısına, bir defaya mahsus olmak üzere yeterlik sınav komisyonunun kararı ile altı ayı aşmamak üzere ilave süre verilir.
+(3) Uzman yardımcısınca hazırlanan tez, belirlenen sürenin sonunda tez danışmanının tez hakkındaki yazılı görüşünü içeren raporu ile birlikte istenilen sayıda (Değişik ibare:RG-3/7/2025-32945) Personel ve Destek Hizmetleri Dairesi Başkanlığına iletilmesini sağlamak üzere, bağlı bulunduğu birim amirine sunulmak zorundadır. Teslim edilen tez ve raporlar, (Değişik ibare:RG-3/7/2025-32945) Personel ve Destek Hizmetleri Dairesi Başkanlığı tarafından yeterlik sınav komisyonu üyelerine gönderilir.
+(4) Uzman yardımcısının tezini hazırlayabilmesi maksadıyla Başkanlıkça gereken imkân ve kolaylıklar sağlanır.

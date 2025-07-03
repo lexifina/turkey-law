@@ -1,0 +1,9 @@
+ÜÇÜNCÜ BÖLÜM
+Uzmanlık Tezi, Uzmanlık Yeterlik Sınavı ve Uzmanlığa Atanma
+Tez konusunun belirlenmesi
+MADDE 17 – (1) Uzman yardımcıları; aylıksız izin ile toplamı üç ayı aşan hastalık ve refakat izinleri hariç olmak üzere, adaylıkta geçen süre dâhil iki yılı tamamladıklarında, Başkanlığa tez konusunu belirlemek üzere bir ay içinde müracaat ederler.
+(2) Yeterlik sınav komisyonu, Başkanlığın ilgili birimlerince kendi faaliyet alanlarına göre belirlediği tez konularının listesini oluşturur. Komisyon, bu liste içerisinden öncelikli konuları, uzman yardımcılarına tebliğ edilmek üzere (Değişik ibare:RG-3/7/2025-32945) Personel ve Destek Hizmetleri Dairesi Başkanlığına bildirir.
+(3) Uzman yardımcıları bu listede yer alan tez konuları arasından üç tez konusunu tercih sırasına göre, birim amirleri aracılığıyla (Değişik ibare:RG-3/7/2025-32945) Personel ve Destek Hizmetleri Dairesi Başkanlığına bildirirler. Uzman yardımcılarına öncelikli konular tebliğ edilmesi durumunda, uzman yardımcılarının tez konusu tercihlerini bu konular arasından belirlemeleri esastır.
+(4) Uzman yardımcılarının belirledikleri tez konuları, (Değişik ibare:RG-3/7/2025-32945) Personel ve Destek Hizmetleri Dairesi Başkanlığı tarafından yeterlik sınav komisyonu onayına sunulur. Komisyon, üç tez konusundan bir tanesini veya gerekli görülen hallerde başka bir tez konusunu uzman yardımcısının hazırlayacağı tez olarak belirleyebilir. Onaylanan tez konuları, (Değişik ibare:RG-3/7/2025-32945) Personel ve Destek Hizmetleri Dairesi Başkanlığınca uzman yardımcılarına bildirilir.
+(5) Tez konuları, uzman yardımcısının müracaatını takip eden bir ay içinde kesinleşir.
+(6) (Ek:RG-3/7/2025-32945) Belirlenen tez konusu, uzman yardımcısının talebi ve Komisyonun onayı ile bir defaya mahsus olmak üzere değiştirilebilir. Tez konusunun değiştirilmesi ek süre verilmesi sonucunu doğurmaz.

@@ -1,0 +1,3 @@
+Tez danışmanı
+MADDE 18 – (1) Yeterlik sınav komisyonu tarafından, uzmanlık tez konusunun kesinleşmesinden itibaren en geç bir ay içerisinde, uzman yardımcısına rehberlik etmek ve tezin bilimsel tez yazım usul ve esaslarına, seçilen konunun niteliğine, Başkanlığın görev alanı ile ilgili hususlara uygunluğunu temin etmek maksadıyla bir danışman belirlenir.
+(2) Tez danışmanı, uzmanlar ile Başkanlık teşkilatı veya diğer kamu kuruluşlarında görev yapan ve daha önce lisansüstü programlarda akademik çalışma yapmış, konusunda uzman kamu görevlileri arasından belirlenir. Gerektiğinde yükseköğretim kurumlarında görevli öğretim üyelerinden de danışman belirlenebilir.
