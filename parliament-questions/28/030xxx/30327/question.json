@@ -1,0 +1,21 @@
+{
+  "record_type": "parliament-written-question",
+  "term": 28,
+  "legislative_year": 3,
+  "esas_no": "7/30327",
+  "submitted": "2025-07-03",
+  "submitted_as": "Başkanlığa geliş tarihi",
+  "mp": "Sibel SUİÇMEZ",
+  "province": "Trabzon",
+  "summary": "Trabzon'un Maçka ilçesindeki internet altyapısına ilişkin",
+  "status": "Süresi Geçtikten Sonra Cevaplandı",
+  "status_as_of": "2026-11-16",
+  "official_record": "https://www.tbmm.gov.tr/Denetim/Yazili-Soru-Onergesi-Detay/6d6acfcb-8101-4a1b-bc81-0197d0a63d59",
+  "source": "https://tbmm.gov.tr/Denetim/YaziliSoruOnergesiTable",
+  "source_form": "https://tbmm.gov.tr/Denetim/Yazili-Soru-Onergeleri",
+  "source_sha256": "6a7e34436dd2719ad9798f7e9a4dc8b180e752642ad6272412875f09d74c1541",
+  "in_force": "2025-07-03",
+  "in_force_basis": "Date the question reached the Speaker (Başkanlığa geliş tarihi) in the official TBMM written-question record; parliamentary oversight record, not law",
+  "history_type": "metadata",
+  "text_status": "metadata-only: question text, addressee and answers are in the linked official record (PDFs on cdn.tbmm.gov.tr); not transcribed here"
+}
