@@ -1,0 +1,24 @@
+{
+  "number": "87",
+  "number_as_published": "2025-87",
+  "year": 2025,
+  "title": "18.10.2024 tarih ve 2024/118 sayılı Meclis Kararı ile kabul edilen “Bodrum Belediyesi 2025 Yılı Vergi ve Harçlar ile Ücret Tarifesi’ne, Belediyemiz İşletme ve İştirakler Müdürlüğü’nün 2025 yılı Ücret Tarifesinin, Plan ve Bütçe Komisyonunun 23.06.2025 tarih ve 2025/5 sayılı ve Gençlik ve Spor Komisyonunun 26.06.2025 t ...",
+  "decision_date": "2025-07-03",
+  "source": "https://www.bodrum.bel.tr/meclis_kararlari",
+  "official_document": null,
+  "source_sha256": "36f43b06e3286682d4de72a2f9f74706691b0d695f1c5dc1c19278c417ce11e6",
+  "issuer": "Bodrum Belediye Meclisi",
+  "history_type": "metadata",
+  "text_status": "metadata-only: listing fields as published; the listing links no decision document",
+  "in_force": "2025-07-03",
+  "in_force_basis": "Decision date as printed in the official council listing: 3.7.2025; adoption date of the council decision; legal commencement not asserted",
+  "missing": [
+    "complete official decision text",
+    "official annexes"
+  ],
+  "law_text_complete": false,
+  "privacy_withheld": false,
+  "official_page": "https://www.bodrum.bel.tr/meclis_karari.php?id=2977",
+  "summary_shortened_in_listing": true,
+  "record_scope": "one council decision (summary as listed)"
+}
