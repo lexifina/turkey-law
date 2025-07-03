@@ -1,0 +1,21 @@
+{
+  "record_type": "parliament-written-question",
+  "term": 28,
+  "legislative_year": 3,
+  "esas_no": "7/30269",
+  "submitted": "2025-07-03",
+  "submitted_as": "Başkanlığa geliş tarihi",
+  "mp": "Gizem ÖZCAN",
+  "province": "Muğla",
+  "summary": "Muğla ilinde kıyı kenar çizgisini belirleme esaslarına ilişkin",
+  "status": "Süresi Geçtikten Sonra Cevaplandı",
+  "status_as_of": "2026-11-16",
+  "official_record": "https://www.tbmm.gov.tr/Denetim/Yazili-Soru-Onergesi-Detay/cda2c26e-5738-4635-9aa7-0197d5ed6e70",
+  "source": "https://tbmm.gov.tr/Denetim/YaziliSoruOnergesiTable",
+  "source_form": "https://tbmm.gov.tr/Denetim/Yazili-Soru-Onergeleri",
+  "source_sha256": "297e46cf5b69182dc8c68b7f6b18507262a544ae9ea0d587b21d991448a075dd",
+  "in_force": "2025-07-03",
+  "in_force_basis": "Date the question reached the Speaker (Başkanlığa geliş tarihi) in the official TBMM written-question record; parliamentary oversight record, not law",
+  "history_type": "metadata",
+  "text_status": "metadata-only: question text, addressee and answers are in the linked official record (PDFs on cdn.tbmm.gov.tr); not transcribed here"
+}
