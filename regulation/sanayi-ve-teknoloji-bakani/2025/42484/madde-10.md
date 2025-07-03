@@ -1,0 +1,3 @@
+İzleme ve denetim
+MADDE 10- (1) Genel Müdürlük, teknogirişim rozeti sahiplerinin yükümlülüklerini yerine getirip getirmediğini denetlemeye yetkilidir. Bu kapsamda Bakanlık girişimlerden ek bilgi ve/veya belge talep edebilir, diğer kamu kurumları nezdinde girişime dair ya da başvuru formu ile ilişkili tüm verilere ulaşabilir.
+(2) Genel Müdürlük, teknogirişim rozetine sahip girişimlerin yenilikçi ve ölçeklenebilir bir iş modeline sahip olma durumunu gerekli gördüğü hallerde denetleyebilir. Denetimler sonucunda girişimin bu nitelikleri taşımadığına kanaat getirilmesi durumunda, Genel Müdürlük teknogirişim rozetinin iptaline karar verebilir.

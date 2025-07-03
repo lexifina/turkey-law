@@ -1,0 +1,5 @@
+İtiraz
+MADDE 8- (1) Girişimler; Genel Müdürlük tarafından olumsuz yönde verilen kararlara karşı bir kereye mahsus olmak üzere itiraz edebilir.
+(2) Girişimin, itirazını gerekçeleri ile birlikte kararın kendisine bildirildiği tarihten itibaren on beş iş günü içinde Genel Müdürlüğe yazılı olarak yapması gerekir. Aksi taktirde itiraz başvurusu geçerli sayılmaz.
+(3) İtiraz değerlendirme komisyonu, girişimler tarafından yapılan itirazları değerlendirerek teknogirişim rozeti verilmesi amacıyla olumlu veya olumsuz yönde karar verme yetkisine sahiptir. İtiraz değerlendirme komisyonu tarafından verilen karar nihaidir. Bu karara itiraz edilemez.
+(4) İtirazda bulunan girişimin çalışanı, danışmanı, ortağı ile bunların eşleri ve üçüncü dereceye kadar kan ve ikinci dereceye kadar kayın hısımları ile evlatlıkları ve evlat edinenleri itiraz değerlendirme komisyonu üyesi olarak görevlendirilemez. Başvurunun reddine ilişkin görüş veya karar veren komitelerde yer alan üyeler itiraz değerlendirme komisyonunda görev alamaz.
