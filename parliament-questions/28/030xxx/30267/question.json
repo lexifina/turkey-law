@@ -1,0 +1,21 @@
+{
+  "record_type": "parliament-written-question",
+  "term": 28,
+  "legislative_year": 3,
+  "esas_no": "7/30267",
+  "submitted": "2025-07-03",
+  "submitted_as": "Başkanlığa geliş tarihi",
+  "mp": "İnan Akgün ALP",
+  "province": "Kars",
+  "summary": "Kars'ta bulunan Ani Tarihi Kenti'nin korunması amacıyla yürütülen çalışmalara ilişkin",
+  "status": "Süresi Geçtikten Sonra Cevaplandı",
+  "status_as_of": "2026-11-16",
+  "official_record": "https://www.tbmm.gov.tr/Denetim/Yazili-Soru-Onergesi-Detay/15f165f2-d05b-425a-8166-0197e3cbdf4d",
+  "source": "https://tbmm.gov.tr/Denetim/YaziliSoruOnergesiTable",
+  "source_form": "https://tbmm.gov.tr/Denetim/Yazili-Soru-Onergeleri",
+  "source_sha256": "297e46cf5b69182dc8c68b7f6b18507262a544ae9ea0d587b21d991448a075dd",
+  "in_force": "2025-07-03",
+  "in_force_basis": "Date the question reached the Speaker (Başkanlığa geliş tarihi) in the official TBMM written-question record; parliamentary oversight record, not law",
+  "history_type": "metadata",
+  "text_status": "metadata-only: question text, addressee and answers are in the linked official record (PDFs on cdn.tbmm.gov.tr); not transcribed here"
+}
