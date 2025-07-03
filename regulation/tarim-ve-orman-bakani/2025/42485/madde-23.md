@@ -1,0 +1,6 @@
+Denetim
+MADDE 23- (1) Sigara filtresi sektöründe faaliyet gösteren gerçek ve tüzel kişilerin; üretim tesislerinin kurulması, üretim ve faaliyet izni, proje tadilatı, tesisin yer değişikliği, faaliyetinin sona erdirilmesi, kapatılması, her türlü devir işlemleri, sigara filtrelerinin üretimi, iç ve dış ticareti ile ilgili tüm işlemleri Bakanlığın denetimine tabidir.
+(2) Firmaların üretim tesisleri Bakanlık tarafından teknik denetime tabi tutulur.
+(3) Kanun veya ilgili mevzuat gereğince Bakanlık tarafından gerek görülen bilgi, belge ve numune istemlerine, denetim ve gözlemlere sınai veya ticari gizlilik mülahazalarıyla dahi olsa firmalarca engeller konulamaz.
+(4) Kanun veya ilgili mevzuat hükümleri gereğince Bakanlık tarafından istenen her türlü bilgi ve belgelerin en geç on beş gün içinde verilmesi ile gerekli görülen tesis ve yerlerin talep edilen süre içinde inceleme ve denetime açılması zorunludur.
+(5) Kanuna, 5607 sayılı Kanuna veya bu Kanunlara göre yürürlüğe konulmuş yönetmeliklere aykırılıktan dolayı Tesis Kurma Uygunluk Belgesi veya Üretim ve Faaliyet Uygunluk Belgesi iptal edilen ya da belgesi temdit edilmeyen üretim tesisleri, tasfiye işlemleri bitirilinceye kadar Bakanlık tarafından inceleme ve denetime tabi tutulur.

@@ -1,0 +1,4 @@
+Piyasaya arz izni güncellemesi
+MADDE 14- (1) Firmalar, Bakanlık tarafından verilmiş Piyasaya Arz Uygunluk Belgesi bulunan bir mamulat çeşidinin fiziksel özellikleri, girdileri veya piyasaya arz ambalajında herhangi bir değişiklik yapmak istediklerinde piyasaya arzdan önce Bakanlıktan güncelleme kapsamında gerekli izni almak zorundadırlar. Kodlama bilgisindeki değişiklikler işlem öncesi Bakanlığa bildirilir.
+(2) Firmalarca piyasaya arz ambalajında kullanılan ayırt edici ibarenin değiştirilmesine yönelik güncelleme kapsamında başvuruda bulunulamaz.
+(3) Piyasaya Arz Uygunluk Belgesi güncelleme başvurusunda, 13 üncü maddenin ikinci fıkrasının (d) ve (e) bentlerinde sayılan belgeler ile birlikte değişikliğe konu olan belgeler Bakanlığa ibraz edilir. Güncelleme başvurusunun değerlendirilmesinde ve sonuçlandırılmasında 13 üncü madde uygulanır.

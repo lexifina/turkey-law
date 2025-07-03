@@ -1,0 +1,2 @@
+Hüküm bulunmayan haller
+MADDE 29- (1) Sigara filtresi üretim ve ithalatı faaliyetleri kapsamında faaliyette bulunanlar veya bulunmak üzere Bakanlığa başvuru yapanlar ile belge tadili veya süre uzatımına ilişkin talepleri olanlardan teminat alınmasına yönelik bu Yönetmelikte hüküm bulunmayan hallerde Tütün, Tütün Mamulleri, Makaron, Yaprak Sigara Kâğıdı, Sigara Filtresi, Alkol ve Alkollü İçkilerin Üretim ve/veya Ticareti Faaliyetinde Bulunanlardan Teminat Alınmasına İlişkin Usul ve Esaslar Hakkında Yönetmelik hükümleri uygulanır.

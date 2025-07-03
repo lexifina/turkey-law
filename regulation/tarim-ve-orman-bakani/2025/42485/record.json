@@ -1,0 +1,28 @@
+{
+  "source_id": "7.5.42485",
+  "kind": "regulation",
+  "register_kind": "Kurum ve Kuruluş Yönetmelikleri",
+  "title": "SİGARA FİLTRESİ ÜRETİMİ VE TİCARETİNE İLİŞKİN USUL VE ESASLAR HAKKINDA YÖNETMELİK",
+  "number": "42485",
+  "issuer": "Tarım ve Orman Bakanı",
+  "issuer_slug": "tarim-ve-orman-bakani",
+  "path": "regulation/tarim-ve-orman-bakani/2025/42485",
+  "source": "https://www.mevzuat.gov.tr/anasayfa/MevzuatFihristDetayIframe?MevzuatTur=7&MevzuatNo=42485&MevzuatTertip=5",
+  "source_sha256": "0bbef7bdb40126b908eead4105e3032b4cd11e2fe3c67b1ba5dd7ef714abea8d",
+  "source_bytes": 110543,
+  "published": "2025-07-03",
+  "gazette": "32945",
+  "in_force": "2025-07-03",
+  "in_force_basis": "Resmî Gazete publication date in the official listing (03.07.2025)",
+  "history": "current-text",
+  "label": "oldest version available",
+  "checked_on": "2026-11-15",
+  "word_count": 8516,
+  "text_status": "current-consolidated",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  },
+  "completeness": "html-text-complete"
+}
