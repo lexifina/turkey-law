@@ -1,0 +1,26 @@
+{
+  "number": "13",
+  "number_as_published": "13",
+  "year": 2025,
+  "title": "06 BP 349 plakalı damperli kamyonun hibe olarak kabul edilmesinin hk.",
+  "decision_date": "2025-07-04",
+  "source": "https://www.mollakoy.bel.tr/meclis-kararlari/sayfa/3/",
+  "official_document": "https://www.mollakoy.bel.tr/karar/06-bp-349-plakali-damperli-kamyonun-hibe-olarak-kabul-edilmesinin-hk/93/",
+  "source_sha256": "b7eeab64e26ee026e22196a335bfc18bd91cbfcf5f952062525867f848191310",
+  "issuer": "Mollaköy Belediye Meclisi",
+  "history_type": "metadata",
+  "text_status": "metadata-only: listing fields as published; complete decision text is in the linked official document, not transcribed",
+  "in_force": "2025-07-04",
+  "in_force_basis": "Decision date as printed in the official council listing: meclisi 04.07.2025; adoption date of the council decision; legal commencement not asserted",
+  "missing": [
+    "complete official decision text",
+    "official annexes"
+  ],
+  "law_text_complete": false,
+  "privacy_withheld": false,
+  "official_page": "https://www.mollakoy.bel.tr/karar/06-bp-349-plakali-damperli-kamyonun-hibe-olarak-kabul-edilmesinin-hk/93/",
+  "listing_label": "06 BP 349 plakalı damperli kamyonun hibe olarak kabul edilmesinin hk.",
+  "record_scope": "one council decision (number, date, subject as published)",
+  "date_read_from": "meeting date in the decision text (the item's Karar Tarihi field carries a clock time)",
+  "document_note": "the decision text is on the official item page; not transcribed here"
+}
