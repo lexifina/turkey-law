@@ -1,0 +1,31 @@
+{
+  "number": "373",
+  "number_as_published": "373",
+  "year": 2025,
+  "title": "Belediyemiz ile Sağlık Kuruluşları arasında yapılan protokoller var mıdır? var ise içeriklerinin neler olduğuna ilişkin, Meclis Kararı",
+  "decision_date": "2025-07-04",
+  "source": "https://www.mamak.bel.tr/gundem/GetKararlar",
+  "official_document": "https://www.mamak.bel.tr/gundem/DosyaDownload?guid=c00b502d-366f-4993-a509-b122a7bdd8e9",
+  "source_sha256": "f554089df68731558a37947c976f196303cdbdc5704c52cb6912834ca94730d3",
+  "issuer": "Mamak Belediye Meclisi",
+  "history_type": "metadata",
+  "text_status": "metadata-only: listing fields as published; complete decision text is in the linked official document, not transcribed",
+  "in_force": "2025-07-04",
+  "in_force_basis": "Decision date as printed in the official council listing: 2025-07-04T00:00:00 (kararTarihi of the official register); adoption date of the council decision; legal commencement not asserted",
+  "missing": [
+    "complete official decision text",
+    "official annexes"
+  ],
+  "law_text_complete": false,
+  "privacy_withheld": false,
+  "listing_page": "https://www.mamak.bel.tr/gundem/kararlar",
+  "register_api": "https://www.mamak.bel.tr/gundem/GetKararlar",
+  "official_documents": [
+    "https://www.mamak.bel.tr/gundem/DosyaDownload?guid=c00b502d-366f-4993-a509-b122a7bdd8e9",
+    "https://www.mamak.bel.tr/gundem/DosyaDownload?guid=34a001d3-b9f1-40bd-b777-672cf274b719",
+    "https://www.mamak.bel.tr/gundem/DosyaDownload?guid=910a5d02-88fc-4462-ad30-d9b9d54f807a",
+    "https://www.mamak.bel.tr/gundem/DosyaDownload?guid=a174c0f4-cd98-48a0-83d3-72520024f45d",
+    "https://www.mamak.bel.tr/gundem/DosyaDownload?guid=80f11360-45c5-48e9-96af-11d618c1da31",
+    "https://www.mamak.bel.tr/gundem/DosyaDownload?guid=75101f2f-743e-486b-b8f9-7df3cf636508"
+  ]
+}
