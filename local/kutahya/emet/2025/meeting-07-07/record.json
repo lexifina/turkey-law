@@ -1,0 +1,24 @@
+{
+  "number": "meeting-07-07",
+  "number_as_published": "meeting-07-07",
+  "year": 2025,
+  "title": "07.07.2025 / Saat 15:00 Meclis Toplantısı ve Kararlar",
+  "decision_date": "2025-07-07",
+  "source": "https://www.emet.bel.tr/karar/07072025--saat-1500-meclis-toplantisi-ve-kararlar/91/",
+  "official_document": "https://www.emet.bel.tr/dosya/meclis/dosyalar/temmuz-2025-karar-ozetleri.doc",
+  "source_sha256": "b03b39b16ae1bb6f9c8af308c5802c4c0d0929852673ef3af73cf0c770f0874f",
+  "issuer": "Emet Belediye Meclisi",
+  "history_type": "metadata",
+  "text_status": "metadata-only: listing fields as published; complete decision text is in the linked official document, not transcribed",
+  "in_force": "2025-07-07",
+  "in_force_basis": "Decision date as printed in the official council listing: 07.07.2025; adoption date of the council decision; legal commencement not asserted",
+  "missing": [
+    "complete official decision text",
+    "official annexes"
+  ],
+  "law_text_complete": false,
+  "privacy_withheld": false,
+  "listing_label": "07.07.2025 / Saat 15:00 Meclis Toplantısı ve Kararlar",
+  "record_scope": "one official file of council decisions (meeting)",
+  "official_page": "https://www.emet.bel.tr/karar/07072025--saat-1500-meclis-toplantisi-ve-kararlar/91/"
+}
