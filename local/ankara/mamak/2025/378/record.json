@@ -1,0 +1,27 @@
+{
+  "number": "378",
+  "number_as_published": "378",
+  "year": 2025,
+  "title": "Belediyemizce 19 Mayıs Gençlik ve Spor Bayramında yapılan proğramlar ve etkinliklere ilişkin, Meclis Kararı",
+  "decision_date": "2025-07-07",
+  "source": "https://www.mamak.bel.tr/gundem/GetKararlar",
+  "official_document": "https://www.mamak.bel.tr/gundem/DosyaDownload?guid=418d36a1-b181-47f4-94bc-612def7ef4bc",
+  "source_sha256": "f554089df68731558a37947c976f196303cdbdc5704c52cb6912834ca94730d3",
+  "issuer": "Mamak Belediye Meclisi",
+  "history_type": "metadata",
+  "text_status": "metadata-only: listing fields as published; complete decision text is in the linked official document, not transcribed",
+  "in_force": "2025-07-07",
+  "in_force_basis": "Decision date as printed in the official council listing: 2025-07-07T00:00:00 (kararTarihi of the official register); adoption date of the council decision; legal commencement not asserted",
+  "missing": [
+    "complete official decision text",
+    "official annexes"
+  ],
+  "law_text_complete": false,
+  "privacy_withheld": false,
+  "listing_page": "https://www.mamak.bel.tr/gundem/kararlar",
+  "register_api": "https://www.mamak.bel.tr/gundem/GetKararlar",
+  "official_documents": [
+    "https://www.mamak.bel.tr/gundem/DosyaDownload?guid=418d36a1-b181-47f4-94bc-612def7ef4bc",
+    "https://www.mamak.bel.tr/gundem/DosyaDownload?guid=4a497a04-1d67-47ac-b061-7cd869352285"
+  ]
+}
