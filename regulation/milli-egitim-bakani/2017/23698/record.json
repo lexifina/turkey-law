@@ -1,0 +1,96 @@
+{
+  "source_id": "7.5.23698",
+  "kind": "regulation",
+  "register_kind": "Kurum ve Kuruluş Yönetmelikleri",
+  "title": "MİLLÎ EĞİTİM BAKANLIĞI KURUM AÇMA, KAPATMA VE AD VERME YÖNETMELİĞİ",
+  "number": "23698",
+  "issuer": "Millî Eğitim Bakanı",
+  "issuer_slug": "milli-egitim-bakani",
+  "path": "regulation/milli-egitim-bakani/2017/23698",
+  "source": "https://www.mevzuat.gov.tr/anasayfa/MevzuatFihristDetayIframe?MevzuatTur=7&MevzuatNo=23698&MevzuatTertip=5",
+  "source_sha256": "12246ffc654bffd83c410370ca786bf18f45c52f742f505bce1fcc5d44a74c49",
+  "source_bytes": 118898,
+  "published": "2017-06-24",
+  "gazette": "30106",
+  "in_force": "2025-07-08",
+  "in_force_basis": "latest Resmî Gazete date printed in the source amendment notes/table (\"RG-8/7/2025\") for the current consolidated text",
+  "date_evidence": [
+    [
+      "2025-07-08",
+      "RG-8/7/2025",
+      "Resmî Gazete date printed in the source amendment note"
+    ],
+    [
+      "2025-07-08",
+      "8/7/2025",
+      "Resmî Gazete date in the source amendment table"
+    ],
+    [
+      "2024-06-28",
+      "RG-28/6/2024",
+      "Resmî Gazete date printed in the source amendment note"
+    ],
+    [
+      "2024-06-28",
+      "28/6/2024",
+      "Resmî Gazete date in the source amendment table"
+    ],
+    [
+      "2022-05-14",
+      "RG-14/5/2022",
+      "Resmî Gazete date printed in the source amendment note"
+    ],
+    [
+      "2022-05-14",
+      "14/5/2022",
+      "Resmî Gazete date in the source amendment table"
+    ],
+    [
+      "2020-10-02",
+      "RG-2/10/2020",
+      "Resmî Gazete date printed in the source amendment note"
+    ],
+    [
+      "2020-10-02",
+      "2/10/2020",
+      "Resmî Gazete date in the source amendment table"
+    ],
+    [
+      "2019-11-22",
+      "RG-22/11/2019",
+      "Resmî Gazete date printed in the source amendment note"
+    ],
+    [
+      "2019-11-22",
+      "22/11/2019",
+      "Resmî Gazete date in the source amendment table"
+    ],
+    [
+      "2019-02-14",
+      "RG-14/2/2019",
+      "Resmî Gazete date printed in the source amendment note"
+    ],
+    [
+      "2019-02-14",
+      "14/2/2019",
+      "Resmî Gazete date in the source amendment table"
+    ]
+  ],
+  "commencement_clauses": [
+    "Bu Yönetmelik yayımı tarihinde yürürlüğe girer"
+  ],
+  "history": "current-text",
+  "label": "oldest version available",
+  "checked_on": "2026-11-15",
+  "word_count": 5956,
+  "text_status": "current-consolidated",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  },
+  "source_links": [
+    "7.5.23698-Ek.zip"
+  ],
+  "completeness": "html-text-complete; linked annexes not fetched"
+}
