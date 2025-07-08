@@ -1,0 +1,51 @@
+{
+  "source_id": "7.5.40451",
+  "kind": "regulation",
+  "register_kind": "Kurum ve Kuruluş Yönetmelikleri",
+  "title": "TARIMSAL AMAÇLI ÖRGÜTLERİN DERECELENDİRİLMESİNE İLİŞKİN YÖNETMELİK",
+  "number": "40451",
+  "issuer": "Tarım ve Orman Bakanı",
+  "issuer_slug": "tarim-ve-orman-bakani",
+  "path": "regulation/tarim-ve-orman-bakani/2023/40451",
+  "source": "https://www.mevzuat.gov.tr/anasayfa/MevzuatFihristDetayIframe?MevzuatTur=7&MevzuatNo=40451&MevzuatTertip=5",
+  "source_sha256": "6ae6f18b2f07c4a3e12ccbe0c7df0e3b0574ae3668a6dcc41e450eb61f4ea1fd",
+  "source_bytes": 72408,
+  "published": "2023-11-28",
+  "gazette": "32383",
+  "in_force": "2025-07-08",
+  "in_force_basis": "latest Resmî Gazete date printed in the source amendment notes/table (\"RG-8/7/2025\") for the current consolidated text",
+  "date_evidence": [
+    [
+      "2025-07-08",
+      "RG-8/7/2025",
+      "Resmî Gazete date printed in the source amendment note"
+    ],
+    [
+      "2025-07-08",
+      "8/7/2025",
+      "Resmî Gazete date in the source amendment table"
+    ],
+    [
+      "2024-08-15",
+      "15/8/2024",
+      "Resmî Gazete date in the source amendment table"
+    ]
+  ],
+  "commencement_clauses": [
+    "Bu Yönetmelik yayımı tarihinde yürürlüğe girer"
+  ],
+  "history": "current-text",
+  "label": "oldest version available",
+  "checked_on": "2026-11-15",
+  "word_count": 1358,
+  "text_status": "current-consolidated",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  },
+  "source_links": [
+    "7.5.40451%20Ek.docx"
+  ],
+  "completeness": "html-text-complete; linked annexes not fetched"
+}
