@@ -1,0 +1,16 @@
+{
+  "kind": "decision",
+  "issuer": "Sayıştay Temyiz Kurulu",
+  "number": "58185",
+  "decision_date": "2025-07-09",
+  "source_id": 32603,
+  "chamber": "7",
+  "file_number": "55205",
+  "public_body_type": "Belediyeler ve Bağlı İdareler",
+  "account_year": "2019",
+  "subject": "Sorumluluk ve Yargılama Usulleri ile İlgili Kararlar",
+  "source": "https://www.sayistay.gov.tr/KararlarTemyiz/Detay/32603/",
+  "source_sha256": "5922aa101f441db7b752db4df62cda889d154d81b9e16d1f19a523182394301e",
+  "text_status": "as-enacted",
+  "text_file": "metin.md"
+}
