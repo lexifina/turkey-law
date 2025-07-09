@@ -1,0 +1,3 @@
+Yerel Yatırım Konuları Listesi
+MADDE 3- (1) Yerel Yatırım Konuları Listesi bölgeler arası gelişmişlik farklarını azaltmak ve bölgelerin rekabet güçlerini artırmak temel amaçları doğrultusunda; yerel ihtiyaçların karşılanması, âtıl kaynakların değerlendirilmesi, bölgede üretimi olmayan ancak başarı olasılığı yüksek sektörlerin geliştirilmesi, bölgelerin sektörel öncelikleri doğrultusunda ileri-geri bağlantılı sektörlerin desteklenmesi, kümelenme imkanlarının oluşturulması, istihdam seviyesinin yükseltilmesi, yetkinliklerin harekete geçirilmesi, teknoloji üretim seviyesinin yükseltilmesi ve illerin sosyo-ekonomik gelişmişlik seviyelerinin yükseltilmesi gibi kriterler çerçevesinde belirlenir.
+(2) Yerel Yatırım Konuları Listesi Ek-1’dedir.
