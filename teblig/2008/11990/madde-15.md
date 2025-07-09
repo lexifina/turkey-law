@@ -1,0 +1,5 @@
+Süreler
+MADDE 15 – (1) Türk Parası Kıymetini Koruma Hakkındaki 32 sayılı Karar ile söz konusu Karara ek olarak yayımlanacak kararlarda ve bunlara ilişkin tebliğlerde belirtilen hak doğurucu ve hak düşürücü ve uyulmaması aykırılık oluşturan sürelerin hesaplanmasında işlemin yapıldığı gün hesaba katılmaz. Ancak, hesaplanacak sürelerin son günü resmi tatile rastlarsa, süreler izleyen ilk iş günü çalışma saati sonunda biter.
+(2) Süreler gün olarak ifade edilmiş bulunduğu takdirde ilk gün (işlemin yapıldığı gün) hesaba katılmaz. Günler ertesi günden hesaplanmaya başlanır ve süre son günün çalışma saati sonunda biter.
+(3) Süreler ay olarak gösterildiği takdirde sürenin bitimi, izleyen ayların işlem tarihine tekabül eden tarihteki günün mesai saati sonudur. O ayda işlem tarihine tekabül eden bir gün bulunmuyor ise sürenin bitimi ayın son günüdür.
+(4) Süreler yıl olarak belirlendiği takdirde ise sürenin bitimi, izleyen yılların işlemin yapıldığı ay ve tarihe tekabül eden ay ve tarihteki günün çalışma saati sonudur.

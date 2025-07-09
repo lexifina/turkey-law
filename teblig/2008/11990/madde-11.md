@@ -1,0 +1,20 @@
+Krediler
+MADDE 11 – (1) (Değişik:RG-24/1/2025-32792) Türkiye’de yerleşik kişiler, yurt dışından sağladıkları kredileri bankalar aracılığı ile kullanırlar. Yurt dışından sağlanan kredilerin Türkiye’deki bir banka aracılığı ile yurda getirilerek kullanılmasına ilişkin usul ve esaslar Bakanlıkça belirlenir.
+(2) Türkiye’de yerleşik kişilerce yurt dışından temin edilen kredilerin kullanımı için borçlunun, kredinin vadesi, faiz oranı ve benzeri bilgileri içeren kredi sözleşmesi ile birlikte kullanıma aracılık eden bankaya başvurması gereklidir.
+(3) Türkiye Cumhuriyeti adına (Değişik ibare:RG-7/9/2018-30528) Hazine ve Maliye Bakanlığınca borçlu veya garantör sıfatıyla yurt dışından sağlanan kredilerin yurt içi veya yurt dışında kullanımına ilişkin esas ve usuller (Değişik ibare:RG-7/9/2018-30528) Bakanlıkça belirlenir.
+(4) Döviz kredilerinin alınma ve verilmesinde lehte ve aleyhte doğacak kur farkları ilgililere aittir.
+(5) (Mülga:RG-11/7/2009-27285) (Yeniden Düzenleme:RG-25/1/2018-30312)(1) 32 sayılı Kararın 17 nci maddesinin dördüncü fıkrası ile 17/A maddesinin dördüncü fıkrası uyarınca Türkiye’de yerleşik kişilerce yurt içi ve yurt dışından temin edilen döviz kredilerinde;
+a) Kullanım tarihinde, krediyi kullananın kredi bakiyesinin 15 milyon ABD Dolarının altında olması durumunda, kullanılmak istenen kredi tutarı ile mevcut kredi bakiyesi toplamı son üç mali yılın döviz gelirleri toplamını aşamaz.
+b) Kredi bakiyesi 15 milyon ABD Dolarının altında olan Türkiye’de yerleşik kişilerin döviz kredisi kullanım talepleri sırasında son üç mali yıla ilişkin döviz gelirlerini mali müşavirler tarafından onaylanmış belgelerle tevsik etmeleri zorunludur.
+c) Kredi bakiyesinin son üç mali yılın döviz gelirleri toplamını aştığının sonradan tespit edilmesi durumunda yurt içinde bankalardan (serbest bölge şubeleri dâhil), finansal kiralama şirketlerinden, aktöring şirketlerinden ve finansman şirketlerinden kullanılan kredilerin aşıma neden olan kısmı geri çağırılır veya Türk Lirası krediye dönüştürülür.
+Ç) Kredi bakiyesinin son üç mali yılın döviz gelirleri toplamını aştığının sonradan tespit edilmesi durumunda bankaların, finansal kiralama şirketlerinin, aktöring şirketlerinin ve finansman şirketlerinin yurt dışındaki şubeleri (bankaların off-shore şubeleri dâhil, serbest bölge şubeleri hariç) tarafından kullandırılan kredilerin aşıma neden olan kısmı geri çağırılır veya Türk Lirası krediye dönüştürülür.
+(6) (Mülga:RG-11/7/2009-27285)
+(7) (Mülga:RG-11/7/2009-27285)
+(8) (Değişik:RG-25/1/2018-30312)(1) Bankalar ile Türkiye’de yerleşik finansal kiralama şirketleri, aktöring şirketleri ve finansman şirketleri birbirlerine, ilgili mevzuat hükümleri saklı kalmak kaydıyla kendi teamülleri çerçevesinde doğrudan veya uluslararası sendikasyona katılım yoluyla, vade sınırı bulunmaksızın döviz kredisi açabilirler.
+(9) (Mülga:RG-25/1/2018-30312) (1)
+(10) Bankalar, Türkiye’de yerleşik kişilere, kredi kartlarını yurt dışındaki harcamaları için $50.000.-lık limit içerisinde rotatif kullandırabilirler. Ancak hesap bakiyelerinde $50.000.- lık limit üzerinde oluşacak depasmanın 30 gün içerisinde kapatılması gerekir.
+(11) (Değişik:RG-26/9/2012-28423) Bankalar ve aktöring şirketleri tarafından ihracat ve transit ticaret işlemlerine ilişkin doğmuş veya doğacak alacakların devralınması suretiyle ihracatçılara ve transit ticaret tacirlerine döviz üzerinden fon kullandırılabilir.
+(12) Türkiye’de yerleşik kişilerce yurt dışında pay sahibi olduğu ortaklıklara, yurt dışındaki ana şirkete ve grup şirketlerine döviz veya Türk Lirası kredi açılabilir.
+(13) Bankalarca yurt dışında yerleşik kişilere açılacak döviz ve Türk Lirası krediler Türkiye’deki mevduat hesaplarına yatırılmak suretiyle de kullanılabilir.
+(14) Özelleştirme ihalelerine katılan Türkiye’de yerleşik kişiler veya yurtdışında yerleşik kişiler ile Türk ve yabancı firmaların katılımı ile oluşturulan ortak girişim gruplarına, ihale bedelinin finansmanı amacıyla bankalarca döviz kredisi açılabilir.
+(15) (Ek:RG-11/7/2009-27285) (Mülga:RG-25/1/2018-30312)(1)

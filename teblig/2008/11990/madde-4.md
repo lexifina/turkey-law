@@ -1,0 +1,7 @@
+Efektif ve dövizi natık çekler
+MADDE 4 – (1) Bankalar, yetkili müesseseler, PTT ve kıymetli maden aracı kuruluşları;
+a) Kendilerine ibraz edilen dövizi natık çekler karşılığında bankacılık teamüllerine uygun olarak kısmen Türk parası ve kısmen efektif veya tamamen efektif ödemesinde bulunabilirler.
+b) Efektif veya dövizi natık çekleri bankacılık teamüllerine uygun olarak aynı ve ayrı cins efektiflerle değiştirebilirler. Bankalar ve PTT bunları döviz olarak yurt dışına havale edebilirler.
+(2) (Ek:RG-30/12/2015-29578) Yolcu beraberi yapılan 10.000 Avro veya eşitini aşan döviz çıkışlarında gümrük idarelerine (Değişik ibare:RG-7/9/2018-30528) Ticaret Bakanlığı tarafından yayımlanan nakit beyan formu ile beyanda bulunulur.
+(3) (Ek:RG-30/12/2015-29578) Yolcu beraberi yapılan 10.000 Avro veya eşitini aşan döviz çıkışlarında beyanda bulunulmaması veya yanlış ya da yanıltıcı beyanda bulunulduğunun tespiti halinde söz konusu değerler gümrük idaresince muhafaza altına alınır ve durum şüpheli kabul edilerek Mali Suçları Araştırma Kurulu Başkanlığına bildirilir. Ayrıca, gümrük idarelerince Türk Parasının Kıymetini Koruma Hakkında Kanunun 3 üncü maddesinin birinci fıkrası uyarınca işlem yapılabilmesini teminen Cumhuriyet Savcılıklarına bildirimde bulunulur.
+(4) (Ek:RG-30/12/2015-29578) Gümrük idareleri, yurt dışına yapılan 50.000 ABD Doları veya eşitini aşan efektif çıkışlarına ilişkin bilgileri aylık olarak Merkez Bankasına bildirirler.

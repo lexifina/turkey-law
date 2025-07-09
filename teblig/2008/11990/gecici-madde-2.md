@@ -1,0 +1,3 @@
+GEÇİCİ MADDE 2- (Ek:RG-9/7/2025-32951) (7)
+(1) 31/12/2026 tarihine kadar işlenmiş altının ithalatı yalnızca “mal mukabili”, “vadeli akreditifli” ve “kabul kredili” ödeme şekilleri ile mümkündür. Bakanlıkça belirlenecek usul ve esaslar dâhilinde “bedelsiz” ödeme şekli ile işlenmiş altın ithalatı gerçekleştirilebilir.
+(2) Bu maddenin yürürlüğe girdiği tarihten önce bedeli yurt dışına transfer edilmiş işlenmiş altının ithalatına ilişkin gümrük beyannamesinin bu maddenin yürürlüğe girdiği tarihten itibaren 60 gün içinde tescil edilmesi halinde, ithalatın 6 ncı maddenin on ikinci fıkrasında düzenlenen tüm ödeme şekilleri ile gerçekleştirilmesi mümkündür.
