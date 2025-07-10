@@ -1,0 +1,22 @@
+{
+  "kind": "norm",
+  "issuer": "Gelir İdaresi Başkanlığı",
+  "document_type": "ozelge",
+  "number": "13649056-155[2025-ÖZE-9]-87585",
+  "source_id": 38797,
+  "date": "2025-07-10",
+  "title": "Memur maaş katsayısına gelecek zam oranında artırılacak promosyon ödemelerine ilişkin düzenlenen kağıtlarda damga vergisi",
+  "source": "https://gib.gov.tr/mevzuat/kanun/438/ozelge/38797",
+  "related_law": "488 sayılı DAMGA VERGİSİ KANUNU",
+  "source_api": "https://gib.gov.tr/api/gibportal/mevzuat/ozelge/list",
+  "source_listing": "evidence/list/2026-11-16/ozelge-p009.json",
+  "source_listing_sha256": "9cb52b4963a9a177a23948f6e28c12936c2f43c88a0b410872bb81c01983667c",
+  "source_sha256": "40ceedf7dfade43818affc4ec4f29662edaf6e284eafd60f19f94e4dad643fdb",
+  "text_status": "as-enacted",
+  "text_file": "metin.md",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  }
+}
