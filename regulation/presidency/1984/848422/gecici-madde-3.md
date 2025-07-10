@@ -1,0 +1,1 @@
+Geçici Madde 3 – Yönetmeliğin yürürlüğe girdiği tarihe kadar resmi mühür kullanmakta iken mühür kullanmasına gerek görülmeyen birim amirleri ellerindeki mühürleri iptal edilmek üzere en geç 6 ay ve her halde iadenin istendiği yazının tebliğ edildiği tarihten itibaren 1 ay içinde Darphane ve Damga Matbaası Genel Müdürlüğüne iade etmek zorundadırlar.

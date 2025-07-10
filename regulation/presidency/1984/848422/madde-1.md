@@ -1,0 +1,1 @@
+Madde 1 – Bu Yönetmelik, kamu kurum ve kuruluşları ile kamu kurumu niteliğindeki meslek kuruluşlarında kullanılan resmi mühürlerin hangi birim ve kişilerce kullanılacağını, bunların yazı, karakter ve standardının tesbit edilmesini ve yaptırılmasında ve kaybolmasında uygulanacak esasları belirlemek amacı ile düzenlenmiştir.[1]

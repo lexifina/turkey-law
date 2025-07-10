@@ -1,0 +1,61 @@
+{
+  "id": "presidency-regulation-848422",
+  "number": "848422",
+  "kind": "regulation",
+  "issuer": "presidency",
+  "title": "RESMİ MÜHÜR YÖNETMELİĞİ",
+  "published": "1984-09-12",
+  "enacted": "1984-08-08",
+  "gazette_number": "18513",
+  "in_force": "2025-07-10",
+  "in_force_basis": "Latest source commencement-table date: 2025-07-10; official source: 9/7/2025 | 10059 | 3 | 10/7/2025",
+  "history": "current-only",
+  "version_label": "oldest version available",
+  "first_law": null,
+  "source": "https://www.mevzuat.gov.tr/anasayfa/MevzuatFihristDetayIframe?MevzuatNo=848422&MevzuatTur=21&MevzuatTertip=5",
+  "source_sha256": "1a05caa122ae4709fb1587dd774f6349ff0dd55c4cc02ce479a4d787a8cdb689",
+  "source_links": [],
+  "missing_components": [],
+  "date_anomalies": [],
+  "images": {
+    "source": 3,
+    "referenced": 0,
+    "omitted": 3
+  },
+  "images_complete": false,
+  "image_inventory": [],
+  "images_omitted": [
+    {
+      "source_ref": "https://www.mevzuat.gov.tr/anasayfa/21.5.848422_dosyalar/image001.jpg",
+      "description": "Official embedded image 1 (source supplies no caption)",
+      "reason": "not extractable",
+      "normative": true,
+      "position": 1,
+      "failure": "Exact source image URL returns an HTML page instead of image bytes",
+      "response_sha256": "a6e315d4ccccc4b1c7585b1315edbf8f5c07906affa30bddb512c648b9646842",
+      "response_bytes": 64854
+    },
+    {
+      "source_ref": "https://www.mevzuat.gov.tr/anasayfa/21.5.848422_dosyalar/image002.jpg",
+      "description": "Official embedded image 2 (source supplies no caption)",
+      "reason": "not extractable",
+      "normative": true,
+      "position": 2,
+      "failure": "Exact source image URL returns an HTML page instead of image bytes",
+      "response_sha256": "e421e31888c3ab242aef708588a08db105562c4d211f7f10a682a5b3ef22457d",
+      "response_bytes": 64854
+    },
+    {
+      "source_ref": "https://www.mevzuat.gov.tr/anasayfa/21.5.848422_dosyalar/image003.jpg",
+      "description": "Official embedded image 3 (source supplies no caption)",
+      "reason": "not extractable",
+      "normative": true,
+      "position": 3,
+      "failure": "Exact source image URL returns an HTML page instead of image bytes",
+      "response_sha256": "98d3728b1add9428e6142ffe08c68a7076460d1df45c891d92469a0d5d251950",
+      "response_bytes": 64854
+    }
+  ],
+  "completeness": "pending-images",
+  "text_layout": "article-files"
+}

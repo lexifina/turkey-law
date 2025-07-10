@@ -1,0 +1,3 @@
+Madde 4 – Resmi mühürleri kullanacak birimlerin tesbitinde kuruluş mevzuatında yazılı hiyerarşik kademelerden müdürlük ve daha üst kademeler esas alınır. Bir birim oluşturmayan alt kuruluşlar ile birimlere bağlı yardımcılıklar için ayrıca mühür yapılmaz.[4]
+Mahkemeler ve Türk Silahlı Kuvvetlerine dahil kuruluşlarda kademelerin tesbiti özel hükümlerine tabidir.
+Aynı birim içinde birden fazla kişi ile görevleri gereği tek başına bir birim gibi düşünülmesi gereken (Müfettiş, Tapu Kadastro memuru, icra memuru gibi) kişilerin mühür kullanması gerektiğinde bu ihtiyacı belirleyen onay ile bu birim için 1 numaradan başlamak üzere ve sıra takip eden numaralı birden fazla mühür yapılabilir.

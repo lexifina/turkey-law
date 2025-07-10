@@ -1,0 +1,1 @@
+Madde 10 – Görev değişikliği nedeni ile resmi mühürünü devretmesi gereken memurlar mühürü beratı ile birlikte devrederler. Devir anında devir teslim tutanağı tanzim edilerek bir örneği bağlı bulunulan bakanlık veya kuruluş başkanlığına gönderilir.

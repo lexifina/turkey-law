@@ -1,0 +1,1 @@
+Madde 15 – Resmi mühürlerin bu Yönetmelik hükümlerine aykırı kullanıldığını, taklit edildiğini veya Darphane ve Damga Matbaası dışında imal edildiğini öğrenen kamu görevlileri durumu en yakın mülki amire bildirmek zorundadırlar.
