@@ -1,0 +1,22 @@
+{
+  "number": "51",
+  "number_as_published": "51",
+  "year": 2025,
+  "title": "Sadabad Sarayı Restorasyon",
+  "decision_date": "2025-07-10",
+  "source": "https://www.kagithane.istanbul/kagithane_belediyesi/meclis-2025/2025-Meclis-Kararlari/667/0/0",
+  "official_document": "https://www.kagithane.istanbul/images/meclisler/Meclis-kararlari/2025/Meclis-karari-51.jpg",
+  "source_sha256": "ed4cfa490e858894e367295ddeca10a34361b8bf5f7b0b7b73cedbb4bac38ea6",
+  "issuer": "Kağıthane Belediye Meclisi",
+  "history_type": "metadata",
+  "text_status": "metadata-only: listing fields as published; complete decision text is in the linked official document, not transcribed",
+  "in_force": "2025-07-10",
+  "in_force_basis": "Decision date as printed in the official council listing: 10 Temmuz 2025; adoption date of the council decision; legal commencement not asserted",
+  "missing": [
+    "complete official decision text",
+    "official annexes"
+  ],
+  "law_text_complete": false,
+  "privacy_withheld": false,
+  "subject_note": "subject (KARAR ÖZET) as the official list prints it; the list shows only its first ~30 characters"
+}
