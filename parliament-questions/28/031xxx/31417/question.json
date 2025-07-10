@@ -1,0 +1,21 @@
+{
+  "record_type": "parliament-written-question",
+  "term": 28,
+  "legislative_year": 3,
+  "esas_no": "7/31417",
+  "submitted": "2025-07-10",
+  "submitted_as": "Başkanlığa geliş tarihi",
+  "mp": "Hakan Şeref OLGUN",
+  "province": "Afyonkarahisar",
+  "summary": "Eskişehir ilinin İnönü ilçesinde şap hastalığı ile mücadeleye ilişkin",
+  "status": "Cevaplandı",
+  "status_as_of": "2026-11-16",
+  "official_record": "https://www.tbmm.gov.tr/Denetim/Yazili-Soru-Onergesi-Detay/7f8bae83-2d7a-4d23-8173-019807ff03ad",
+  "source": "https://tbmm.gov.tr/Denetim/YaziliSoruOnergesiTable",
+  "source_form": "https://tbmm.gov.tr/Denetim/Yazili-Soru-Onergeleri",
+  "source_sha256": "2a702c51d9fbcb664adb508a2220f73fe0725af4fc3c82946bfdbfa198e4cb84",
+  "in_force": "2025-07-10",
+  "in_force_basis": "Date the question reached the Speaker (Başkanlığa geliş tarihi) in the official TBMM written-question record; parliamentary oversight record, not law",
+  "history_type": "metadata",
+  "text_status": "metadata-only: question text, addressee and answers are in the linked official record (PDFs on cdn.tbmm.gov.tr); not transcribed here"
+}
