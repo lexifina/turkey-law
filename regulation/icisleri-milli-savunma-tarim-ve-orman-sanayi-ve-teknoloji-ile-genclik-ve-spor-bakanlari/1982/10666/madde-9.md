@@ -1,0 +1,3 @@
+Satışta Aranacak Belgeler
+Madde 9 - (Değişik birinci fıkra:RG-22/4/2009-27208) Fabrika ve İmalathanelerde yivsiz tüfeklerin satışında; satıcıdan (bayilerden) satıcılık belgesi, alıcıdan yivsiz tüfek satın alma belgesi aranır. Hava ve gaz basıncı ile çalışan ateşsiz tüfek ve tabanca satışlarında bu belge aranmaz.
+Satıcılar (Bayiler) bir ay içinde, önceki ay sattıkları tüfek ve nişan tabancalarının cins, marka, çap ve seri numaraları ile alıcının açık adresini, yivsiz av tüfekleri alıcıları tarafından ibraz edilen (Değişik ibare:RG-22/4/2009-27208) yivsiz tüfek satın alma belgesinin tarih ve numarasını da gösteren (Örnek 2) deki listeleri, Yönetmeliğin 8 inci maddesinde belirtilen şekilde mahallin en büyük mülki amirliğine vermek zorundadırlar.

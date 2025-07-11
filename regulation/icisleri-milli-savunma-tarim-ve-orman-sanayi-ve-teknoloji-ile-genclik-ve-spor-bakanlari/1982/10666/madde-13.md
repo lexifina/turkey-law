@@ -1,0 +1,4 @@
+Yivsiz Av Tüfeği Satın Alma
+Madde 13 – (Değişik:RG-22/4/2009-27208)
+Bu Yönetmelik hükümlerine göre av tüfeği taşıma ve bulundurmalarında engel bulunmayanlara mahalli mülki amirliklerce yivsiz tüfek ruhsatnamesi düzenlenir. Bu silahları satın almak isteyenler silah imal eden ya da satan kişi ve kuruluşlardan yivsiz tüfek satın alma belgesi ile bu silahları satın alabilir. Bu şekilde satın alınan av tüfeklerinin en geç bir ay içerisinde belgenin alındığı makama müracaatla cins, marka, çap ve seri numarasının kaydettirilmesi zorunludur. Ruhsatname üzerine tüfeklerin kaydedilmesi işlemi esnasında tüfeklerin görülerek tespitinin yapılması esastır.
+Avda ve Sporda Kullanılan Tüfekler, Nişan Tabancaları ve Av Bıçaklarının Yapımı, Alımı, Satımı ve Bulundurulmasını Engelleyen ve Verilen İzinlerin İptalini Gerektiren Haller

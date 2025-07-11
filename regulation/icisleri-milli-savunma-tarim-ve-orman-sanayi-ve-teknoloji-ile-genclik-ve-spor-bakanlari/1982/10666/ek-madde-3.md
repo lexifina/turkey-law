@@ -1,0 +1,2 @@
+Ek Madde 3 – (Ek:RG-22/4/2009-27208)
+Bu Yönetmelik hükümlerine göre verilen yivsiz tüfek ruhsatnamesi, yivsiz tüfek satın alma belgesi, satıcılık (bayilik) belgesi, yivsiz av tüfekleri ile sporda kullanılan nişan tüfek ve tabancaları ile bunların aksamını yapmak üzere kurulacak fabrika veya imalathaneler için faaliyet izin belgesi, yivsiz av tüfekleri ile nişan tüfek ve tabancaları satış bildirim belgesi ve yivsiz av tüfekleri ile nişan tüfek ve tabancaları imalat bildirim belgesinde “adı”ndan önce gelmek üzere T.C. Kimlik Numarasına yer verilir

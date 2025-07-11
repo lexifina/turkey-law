@@ -1,0 +1,2 @@
+Kapsam:
+Madde 2 - Bu Yönetmelik; yivsiz av tüfekleri ile sporda kullanılan nişan tüfek ve tabancaları ve bunların aksamını imal eden fabrika ve imalathanelerin kurulması ve işletilmesine izin verilmesi, mamüllerinin standardizasyonu ve denetlenmesine ilişkin hükümler ile 2521 sayılı Kanun kapsamına giren tüfeklerin alımı satımı, bulundurulması ve bunlar için düzenlenecek belge ve kayıtların tesisiyle ilgili esas ve usülleri kapsar.

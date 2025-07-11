@@ -1,0 +1,2 @@
+Fabrika ve İmalathanelerin Denetlenmesi Sonunda Yapılacak İşlem
+Madde 17 - Bu Yönetmelik hükümlerine göre, yivsiz av tüfekleri veya sporda kullanılan nişan tüfek ve tabancaları ve bunların aksamını yapmak üzere kurulmalarına ve çalışmalarına izin verilmiş olan fabrika veya imalathanelerin teftiş ve denetleme ve muayeneleri sonunda yönetmelik hükümlerine göre aykırı hareketleri ve riayetsizlikleri görüldüğü taktirde, bu fiil ve hareketlerinin mahiyet ve derecesine göre kendilerine ihtarda bulunur veya İçişleri Bakanlığınca işletme izinleri geçici veya daimi iptal olunur.
