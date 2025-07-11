@@ -1,0 +1,72 @@
+{
+  "source_id": "7.5.23366",
+  "kind": "regulation",
+  "register_kind": "Kurum ve Kuruluş Yönetmelikleri",
+  "title": "DÖNÜŞÜM PROJELERİ ÖZEL HESABI YÖNETMELİĞİ",
+  "number": "23366",
+  "issuer_slug": "kurum-ve-kurulus",
+  "path": "regulation/kurum-ve-kurulus/2017/23366",
+  "source": "https://www.mevzuat.gov.tr/anasayfa/MevzuatFihristDetayIframe?MevzuatTur=7&MevzuatNo=23366&MevzuatTertip=5",
+  "source_sha256": "11d0b55159b2173757694b3b30495c925cfafb10f7095909dde73f96980522dd",
+  "source_bytes": 139544,
+  "published": "2017-02-25",
+  "gazette": "29990",
+  "in_force": "2025-07-11",
+  "in_force_basis": "latest Resmî Gazete date printed in the source amendment notes/table (\"RG-11/7/2025\") for the current consolidated text",
+  "date_evidence": [
+    [
+      "2025-07-11",
+      "RG-11/7/2025",
+      "Resmî Gazete date printed in the source amendment note"
+    ],
+    [
+      "2025-07-11",
+      "11/7/2025",
+      "Resmî Gazete date in the source amendment table"
+    ],
+    [
+      "2024-09-25",
+      "RG-25/9/2024",
+      "Resmî Gazete date printed in the source amendment note"
+    ],
+    [
+      "2024-09-25",
+      "25/9/2024",
+      "Resmî Gazete date in the source amendment table"
+    ],
+    [
+      "2022-07-06",
+      "RG-6/7/2022",
+      "Resmî Gazete date printed in the source amendment note"
+    ],
+    [
+      "2022-07-06",
+      "6/7/2022",
+      "Resmî Gazete date in the source amendment table"
+    ],
+    [
+      "2019-07-12",
+      "RG-12/7/2019",
+      "Resmî Gazete date printed in the source amendment note"
+    ],
+    [
+      "2019-07-12",
+      "12/7/2019",
+      "Resmî Gazete date in the source amendment table"
+    ]
+  ],
+  "history": "current-text",
+  "label": "oldest version available",
+  "checked_on": "2026-11-15",
+  "word_count": 7347,
+  "text_status": "current-consolidated",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  },
+  "source_links": [
+    "7.5.23366-Ek.docx"
+  ],
+  "completeness": "html-text-complete; linked annexes not fetched"
+}
