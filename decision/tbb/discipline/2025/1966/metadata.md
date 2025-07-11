@@ -1,0 +1,11 @@
+# T. 11.07.2025 E. 2025/309 K. 2025/426
+
+Date: 2025-07-11
+
+Official listing text: T. 11.07.2025 E. 2025/309 K. 2025/426
+
+Official summary: * Disiplin cezası verilebilmesi için, eylemin meslek kurallarına ve Avukatlık Kanunu’na aykırı olduğunun açık biçimde ortaya konulması gerekir. Eldeki dosyada şikâyetli avukatın isnat edilen fiili işlediğine dair her türlü şüpheden uzak, kesin ve inandırıcı delil bulunmamaktadır. (Av. Yas. m.34,134 TBB.Mes.Kur.m.3,4)
+
+Official detail link: https://www.barobirlik.org.tr/DisiplinKararlariDetay/1966
+
+Full decision text is not reproduced in this record because TBB disciplinary decisions can identify lawyers, complainants, clients or other private persons; this shard records metadata and the official link only.
