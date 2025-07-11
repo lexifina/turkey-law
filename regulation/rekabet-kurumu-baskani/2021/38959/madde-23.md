@@ -1,0 +1,4 @@
+Tezin teslimi
+MADDE 23 – (1) (Değişik:RG-11/7/2025-32953) Tez hazırlanması için tanınan sürenin bitiminde hazırlanan tez, benzerlik raporu ile birlikte, ilgili daire başkanlığı aracılığıyla İnsan Kaynakları Dairesi Başkanlığına teslim edilir. Tez danışmanı, tezin teslimini izleyen on beş gün içinde rehberlik ettiği tez hakkındaki görüşlerini ve uzman yardımcısının çalışmalarını rapor halinde İnsan Kaynakları Dairesi Başkanlığına sunar.
+(2) (Değişik:RG-11/7/2025-32953) Süresi içinde tezini ve/veya benzerlik raporunu teslim edemeyen veya tezi belirlenen benzerlik oranını aşan uzman yardımcısına tez değerlendirme komisyonunun uygun görüşü ve Başkanın oluru ile altı ayı aşmamak üzere ek süre verilir.
+(3) Verilen ilave süre içinde tezini teslim etmeyenler, uzman yardımcısı unvanını kaybederler ve Kurumda durumlarına uygun memur unvanlı kadrolara atanırlar.

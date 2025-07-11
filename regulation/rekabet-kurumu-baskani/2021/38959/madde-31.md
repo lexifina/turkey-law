@@ -1,0 +1,2 @@
+Başuzmanlığa atanmada sürelerin hesaplanması
+MADDE 31 – (1) 29 uncu maddede belirtilen sürelerin hesabında, aylıksız izinler ve toplamı üç ayı aşan hastalık ve refakat izinleri dikkate alınmaz. (Değişik son cümle:RG-11/7/2025-32953) Ancak askerlikte geçen süreler ile diğer kamu kurumlarında ya da Türkiye’nin üyesi bulunduğu uluslararası örgütlerde toplamda bir yılı aşmayan geçici görevlendirmeler, başuzmanlığa atanma bakımından bu unvana ilişkin görev süresine dâhil edilir.

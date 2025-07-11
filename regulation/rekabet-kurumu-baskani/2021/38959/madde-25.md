@@ -1,0 +1,4 @@
+Tezin savunulması
+MADDE 25 – (1) Uzman yardımcısı, belirlenen günde tezini sözlü olarak savunur ve tez değerlendirme komisyonunun tez ile ilgili sorularını cevaplandırır. Tez değerlendirme komisyonu gerekli görmesi halinde tez danışmanını dinlemek üzere davet edebilir.
+(2) Tez değerlendirme komisyonu üyelerinin her biri, (Değişik ibare:RG-11/7/2025-32953) tez savunmasının ardından teze ilişkin puanlamasını yapar. Yüz tam puan üzerinden yapılacak değerlendirmede, verilen notların aritmetik ortalaması en az yetmiş puan olan tez başarılı kabul edilir. Tez değerlendirme komisyonu her bir üyenin vermiş olduğu puanları ve tezin başarılı veya başarısız sayılma nedenlerini içeren bir değerlendirme raporunu İnsan Kaynakları Dairesi Başkanlığına sunar.
+(3) Geçerli bir mazereti olmaksızın (Değişik ibare:RG-11/7/2025-32953) tez savunmasına girmeyen uzman yardımcısı başarısız tez vermiş sayılır.
