@@ -1,0 +1,2 @@
+Dayanak
+MADDE 2- (1) Bu Tebliğ; 1 sayılı Cumhurbaşkanlığı Teşkilatı Hakkında Cumhurbaşkanlığı Kararnamesinin 385 inci maddesinin birinci fıkrasının (y) bendi ve 388/A maddesinin birinci fıkrasının (e) bendi ile (Değişik ibare:RG-12/7/2025-32954) 29/5/2025 tarihli ve 9903 sayılı Cumhurbaşkanı Kararı ile yürürlüğe konulan Yatırımlarda Devlet Yardımları Hakkında Kararın 11 inci maddesine dayanılarak hazırlanmıştır.

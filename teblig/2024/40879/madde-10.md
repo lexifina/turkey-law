@@ -1,0 +1,5 @@
+Tamamlama
+MADDE 10- (1) Program kapsamında düzenlenen teşvik belgesi için tamamlama işlemleri, (Değişik ibare:RG-12/7/2025-32954) 21/6/2025 tarihli ve 32933 sayılı Resmî Gazete’de yayımlanan Yatırımlarda Devlet Yardımları Hakkında Kararın Uygulanmasına İlişkin Tebliğ (Tebliğ No: 2025/1) hükümleri uyarınca TUYSGM tarafından yürütülür. Tamamlama işlemlerinin başlatılmasının uygunluğuna ilişkin MTGM görüşü alınır.
+(2) Yatırımcı, tamamlama vizesi müracaatında son 3 ay içerisinde yapılmış güncel dijital olgunluk değerlendirmesini Portale yükler.
+(3) Program kapsamında düzenlenen teşvik belgesinin tamamlama vizesi işlemlerinde, yatırımı yerinde incelemek üzere MTGM tarafından da izleyici görevlendirilebilir.
+(4) Yatırımın tamamlanmaması halinde yatırım, öncelikli yatırım (Ek ibare:RG-12/7/2025-32954) veya stratejik hamle yatırımı olma niteliğini; işletme ise dijital dönüşüm merkezi olma niteliğini kaybeder. Bu projeler için, TUYSGM tarafından değerlendirme yapılarak diğer teşvik uygulamalarından yatırımın niteliğine göre en uygun görülen program kapsamında teşvik belgesi (Değişik ibare:RG-12/7/2025-32954) düzenlenebilir.

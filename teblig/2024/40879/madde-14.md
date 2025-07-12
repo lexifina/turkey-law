@@ -1,0 +1,3 @@
+Gizlilik ve diğer hususlar
+MADDE 14- (1) Program sürecinde görev alan kişiler, görevlerini yerine getirmeleri sırasında edindikleri, kamuya, ilgililere ve üçüncü kişilere ait gizlilik taşıyan bilgileri, kişisel verileri ve diğer gizlilik taşıyan bilgileri, ticarî sırları ve bunlara ait belgeleri, bu konuda kanunen yetkili kılınan mercilerden başkasına açıklayamaz, kendilerinin veya üçüncü kişilerin yararına kullanamaz. Bu yükümlülük görevleri sona erse de devam eder.
+(2) Yatırımcının çalışanı, danışmanı, ortağı ile bunların eşleri ve üçüncü dereceye kadar kan ve kayın hısımları ile evlatlıkları ve evlat edinenleri izleyici veya değerlendirici olarak görevlendirilemez.

@@ -1,0 +1,1 @@
+[1] 12/7/2025 tarihli ve 32954 sayılı Resmî Gazete’de yayımlanan değişiklik ile Tebliğin adı “Dijital Dönüşüm Destek Programı Uygulama Esaslarına İlişkin Tebliğ” iken metne işlendiği şekilde değiştirilmiştir.
