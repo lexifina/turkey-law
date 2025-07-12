@@ -1,0 +1,2 @@
+Geçiş hükümleri
+GEÇİCİ MADDE 2- (1) İşletmeci, 10 uncu maddenin birinci fıkrasının (ı) bendinde belirtilen internet sitesini, aynı fıkranın (j) bendinde belirtilen online bilet satış sistemini ve aynı fıkranın (k) bendinde belirtilen yolcu salonlarında geminin emniyet sistemine uygun videolarla bilgilendirme yapmak üzere gerekli donanımı bu Yönetmeliğin yürürlüğe girdiği tarihten itibaren en geç dört ay içerisinde kurmak zorundadır.

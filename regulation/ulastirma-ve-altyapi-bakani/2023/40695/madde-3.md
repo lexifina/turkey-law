@@ -1,0 +1,2 @@
+Dayanak
+MADDE 3- (1) Bu Yönetmelik, (Ek ibare:RG-12/7/2025-32954)[1] 14/4/1341 tarihli ve 618 sayılı Limanlar Kanununun 10 uncu maddesi, 26/9/2011 tarihli ve 655 sayılı Ulaştırma ve Altyapı Alanına İlişkin Bazı Düzenlemeler Hakkında Kanun Hükmünde Kararnamenin 28 inci maddesi ile 1 sayılı Cumhurbaşkanlığı Teşkilatı Hakkında Cumhurbaşkanlığı Kararnamesinin 474 üncü, 478 inci ve 497 nci maddelerine dayanılarak hazırlanmıştır.

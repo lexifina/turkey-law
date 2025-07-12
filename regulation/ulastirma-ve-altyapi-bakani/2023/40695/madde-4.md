@@ -1,0 +1,20 @@
+Tanımlar
+MADDE 4- (1) Bu Yönetmelikte geçen;
+a) Bakanlık: Ulaştırma ve Altyapı Bakanlığını,
+b) Düzenli sefer: En az iki kıyı tesisi arasında ve belirli bir tarifeye bağlı olarak yapılan seferleri,
+c) Düzenli Seferler Bilgi Sistemi (DSBS): Düzenli sefer yapacak gemiler için başvuru, belgelendirme, cezai işlemlerin işlendiği ve bildirimler gibi iş ve işlemlerin yürütüldüğü İdarece hazırlanmış sistemi,
+ç) Hat izni: Kıyı tesisleri arasında ilan edilmiş sefer programına göre düzenli araç ve/veya yolcu taşımacılığı yapacak gemilere verilen izni,
+d) Hat izni belgesi: Kıyı tesisleri arasında ilan edilmiş sefer programına göre düzenli araç ve/veya yolcu taşımacılığı yapacak gemilere verilen izin belgesini,
+e) İdare: Ulaştırma ve Altyapı Bakanlığı Denizcilik Genel Müdürlüğünü,
+f) İlave hat: İlk kez veya yenileme amacıyla yapılan hat izni belgesi başvurusundaki ilk hat dışında yer alan ilave hat/hatları,
+g) İlk hat: Bir gemi için hat izni talep edilen hatlardan ilkini,
+ğ) İşletmeci: Hat izni almak için başvuran veya hat izni almak suretiyle taşımacılık faaliyetinde bulunan gerçek veya tüzel kişileri,
+h) Kabotaj hattı: Ülkemizde yer alan kıyı tesisleri arasında denizyolu ile yapılan taşımacılığı,
+ı) Kıyı tesisi: 18/11/2022 tarihli ve 32017 sayılı Resmî Gazete’de yayımlanan Kıyı Tesisi İşletme İzni ve Kıyı Tesisi İşletmecileri Hakkında Yönetmeliğin 4 üncü maddesinde belirtilen tesislerden; yolcu ve/veya araç taşımacılığı için faaliyetlerine izin verilen kıyı tesisleri veya yanaşma yerlerini,
+i) Klaslı gemi: 18/1/2017 tarihli ve 29952 sayılı Resmî Gazete’de yayımlanan Gemiler İçin Yetkilendirilmiş Kuruluşlar Yönetmeliği çerçevesinde İdare tarafından yetkilendirilen klas kuruluşlarının birinden klas sertifikası almış gemiyi,
+j) Liman başkanlığı: Ülkemizde mevzuat ile kurulmuş her bir bölge liman başkanlığı veya bağlısı liman başkanlığını,
+k) Ordino: Gemilerin ve deniz araçlarının, kıyı tesislerine kabulü amacıyla liman başkanlığınca düzenlenen yanaşma sahasını belirten izin belgesini,
+l) Sefer programı: Gemi veya gemilerin sefer planına göre düzenlenmiş programı,
+m) UKOME: Büyükşehir belediyelerinin bünyesinde bulunan Ulaşım Koordinasyon Merkezini,
+n) (Ek:RG-12/7/2025-32954)1 Durum değerlendirme denetimi: Esasları İdare tarafından belirlenmiş olan, kondisyona yönelik dizayn değerlendirmesi ve denetimini,
+ifade eder.

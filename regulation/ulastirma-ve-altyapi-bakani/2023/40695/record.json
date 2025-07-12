@@ -1,0 +1,46 @@
+{
+  "source_id": "7.5.40695",
+  "kind": "regulation",
+  "register_kind": "Kurum ve Kuruluş Yönetmelikleri",
+  "title": "GEMİLERLE YAPILAN DÜZENLİ SEFERLER HAKKINDA YÖNETMELİK",
+  "number": "40695",
+  "issuer": "Ulaştırma ve Altyapı Bakanı",
+  "issuer_slug": "ulastirma-ve-altyapi-bakani",
+  "path": "regulation/ulastirma-ve-altyapi-bakani/2023/40695",
+  "source": "https://www.mevzuat.gov.tr/anasayfa/MevzuatFihristDetayIframe?MevzuatTur=7&MevzuatNo=40695&MevzuatTertip=5",
+  "source_sha256": "bb8eba07dc01fce591a4bcef0807b9d7794b14efc48d232220560e6064a8f1ac",
+  "source_bytes": 63126,
+  "published": "2023-11-22",
+  "gazette": "32377",
+  "in_force": "2025-07-12",
+  "in_force_basis": "latest Resmî Gazete date printed in the source amendment notes/table (\"RG-12/7/2025\") for the current consolidated text",
+  "date_evidence": [
+    [
+      "2025-07-12",
+      "RG-12/7/2025",
+      "Resmî Gazete date printed in the source amendment note"
+    ],
+    [
+      "2025-07-12",
+      "12/7/2025",
+      "Resmî Gazete date in the source amendment table"
+    ]
+  ],
+  "commencement_clauses": [
+    "Bu Yönetmelik yayımı tarihinden üç ay sonra yürürlüğe girer"
+  ],
+  "history": "current-text",
+  "label": "oldest version available",
+  "checked_on": "2026-11-15",
+  "word_count": 3153,
+  "text_status": "current-consolidated",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  },
+  "source_links": [
+    "7.5.40695-Ek.docx"
+  ],
+  "completeness": "html-text-complete; linked annexes not fetched"
+}
