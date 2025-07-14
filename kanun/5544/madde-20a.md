@@ -1,5 +1,6 @@
-Hizmet satın alma ve geçici süreli çalıştırma
-MADDE 20/A - (Ek: 11/10/2011 - KHK - 665/37 md.)
-(1) Kurum, ulusal meslek standartlarının ve yeterliliklerinin hazırlanması, geliştirilmesi ve güncellenmesi, sektör komitelerinin işletilmesi, ölçme, değerlendirme, belgelendirme ve bunlara ilişkin denetim gibi Kurumun ana faaliyet alanlarında hizmet satın alabilir veya bu amaçla yetkinliğe sahip kişileri geçici süreli olarak çalıştırabilir.
-(2) Bu kişilerin niteliklerine yönelik kriterler ve bunlara ödenecek ücret miktarı ile ücretin ödenme şekline ilişkin usul ve esaslar Maliye Bakanlığının görüşü üzerine Yönetim Kurulu kararı ile belirlenir.
-(3) Bu şekilde çalışanların çalışma süreleri bir takvim yılı içerisinde altmış günü geçemez.
+Vekâlet ve istisna sözleşmesi ile yaptırılacak işler
+MADDE 20/A - (Ek: 11/10/2011 - KHK - 665/37 md.; Mülga: 2/7/2018-KHK-703/78 md.) (Başlığı ile Birlikte Yeniden Düzenleme:10/7/2025-7553/14 md.)
+(1) Özel bilgi ve uzmanlık gerektiren geçici mahiyetteki işlerde; vekâlet veya istisna sözleşmesi ile yabancı danışman ve uzmanların, istisna sözleşmesi ile de yerli danışman ve uzmanların bilgi ve deneyimlerinden yararlanılabilir.
+(2) Bunlara yapılacak ödeme tutarı bir ayda, 48.800 gösterge rakamının memur aylık katsayısı ile çarpımı sonucunda bulunacak tutarın üç katını aşmamak üzere görevin önem ve niteliği ile çalışılan gün ve saat dikkate alınmak suretiyle Çalışma ve Sosyal Güvenlik Bakanı tarafından tespit edilir.
+(3) Bu madde kapsamında özel bilgi ve uzmanlıktan yararlanılması, sözleşme bitiminde kamu kurum ve kuruluşlarında herhangi bir pozisyon, kadro veya statüde çalışma açısından kazanılmış hak teşkil etmez.
+(4) Hizmetinden yararlanılacak kişi ve gün sayısı dâhil bu maddenin uygulanmasına ilişkin usul ve esaslar Çalışma ve Sosyal Güvenlik Bakanlığı tarafından çıkarılan yönetmelikle belirlenir.
