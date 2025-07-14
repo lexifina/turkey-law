@@ -1,0 +1,33 @@
+{
+  "source_id": "9.5.42494",
+  "kind": "communique",
+  "register_kind": "Tebliğler",
+  "title": "MISIR İTHALATINDA TARİFE KONTENJANI UYGULANMASINA İLİŞKİN TEBLİĞ",
+  "number": "42494",
+  "issuer": "Ticaret Bakanı",
+  "path": "teblig/2025/42494",
+  "source": "https://www.mevzuat.gov.tr/anasayfa/MevzuatFihristDetayIframe?MevzuatTur=9&MevzuatNo=42494&MevzuatTertip=5",
+  "source_sha256": "0f94995a3ae40b7e50c3834e4fde48e0396ecc9c613af0baf08abcfcefd8345d",
+  "source_bytes": 11754,
+  "published": "2025-07-14",
+  "gazette": "32956",
+  "in_force": "2025-07-14",
+  "in_force_basis": "Resmî Gazete publication date in the official listing (14.07.2025); own commencement article: \"Bu Tebliğ yayımı tarihini takip eden gün yürürlüğe girer\"",
+  "commencement_clauses": [
+    "Bu Tebliğ yayımı tarihini takip eden gün yürürlüğe girer"
+  ],
+  "history": "current-text",
+  "label": "oldest version available",
+  "checked_on": "2026-11-15",
+  "word_count": 380,
+  "text_status": "current-consolidated",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  },
+  "source_links": [
+    "9.5.42494-Ek.doc"
+  ],
+  "completeness": "html-text-complete; linked annexes not fetched"
+}
