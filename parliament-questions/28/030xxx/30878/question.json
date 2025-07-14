@@ -1,0 +1,21 @@
+{
+  "record_type": "parliament-written-question",
+  "term": 28,
+  "legislative_year": 3,
+  "esas_no": "7/30878",
+  "submitted": "2025-07-14",
+  "submitted_as": "Başkanlığa geliş tarihi",
+  "mp": "Mehmet AKALIN",
+  "province": "Edirne",
+  "summary": "Çakmak Barajı 1. Kısım Sulama Sistemleri projesine ilişkin",
+  "status": "Cevaplanmadığı Gelen Kağıtlarda İlan Edildi",
+  "status_as_of": "2026-11-16",
+  "official_record": "https://www.tbmm.gov.tr/Denetim/Yazili-Soru-Onergesi-Detay/e8b8cf28-08bd-4d08-a7de-019817fc6562",
+  "source": "https://tbmm.gov.tr/Denetim/YaziliSoruOnergesiTable",
+  "source_form": "https://tbmm.gov.tr/Denetim/Yazili-Soru-Onergeleri",
+  "source_sha256": "2201d58aebd42be0de8679a77628978dc0c3bd409706d316665af771f49bd2f9",
+  "in_force": "2025-07-14",
+  "in_force_basis": "Date the question reached the Speaker (Başkanlığa geliş tarihi) in the official TBMM written-question record; parliamentary oversight record, not law",
+  "history_type": "metadata",
+  "text_status": "metadata-only: question text, addressee and answers are in the linked official record (PDFs on cdn.tbmm.gov.tr); not transcribed here"
+}
