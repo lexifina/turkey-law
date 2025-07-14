@@ -1,0 +1,13 @@
+{
+  "issuer": "İzmir Büyükşehir Belediye Meclisi",
+  "number": "672",
+  "decision_date": "2025-07-14",
+  "official_id": "35472",
+  "version_label": "as-enacted",
+  "text_status": "complete decision text as published in the register's KararDetay field (HTML); annexes not supplied",
+  "source_listing_url": "https://www.izmir.bel.tr/tr/IbbMeclisi/TariheGoreKararGetirJS?yil=2025&ay=&gun=&txtSozcuk=&draw=1&start=400&length=100&txtKararNo=",
+  "source_listing_sha256": "03a23ea05abfb95f6d3cb29274e3ea16ea95a948fd8097a9aa0cfa7bc9eebe40",
+  "register_page": "https://www.izmir.bel.tr/tr/MeclisKararlari/58",
+  "date_basis": "register field KararTarihi (decision date)",
+  "privacy_withheld": false
+}
