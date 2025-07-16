@@ -1,0 +1,16 @@
+{
+  "kind": "decision",
+  "issuer": "Sayıştay Temyiz Kurulu",
+  "number": "58219",
+  "decision_date": "2025-07-16",
+  "source_id": 32400,
+  "chamber": "8",
+  "file_number": "54927",
+  "public_body_type": "Belediyeler ve Bağlı İdareler",
+  "account_year": "2019",
+  "subject": "Çeşitli Konuları İlgilendiren Kararlar",
+  "source": "https://www.sayistay.gov.tr/KararlarTemyiz/Detay/32400/",
+  "source_sha256": "7410718b75a8a82f384f15d2d6b21bd39c343f79da34ac3ef397dd8a9492322e",
+  "text_status": "as-enacted",
+  "text_file": "metin.md"
+}
