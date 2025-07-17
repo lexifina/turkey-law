@@ -1,0 +1,21 @@
+{
+  "record_type": "parliament-written-question",
+  "term": 28,
+  "legislative_year": 3,
+  "esas_no": "7/30902",
+  "submitted": "2025-07-17",
+  "submitted_as": "Başkanlığa geliş tarihi",
+  "mp": "Turan Taşkın ÖZER",
+  "province": "İstanbul",
+  "summary": "2020-2025 yılları arasında cezaevlerinde hak ihlali iddiasıyla yapılan şikayet sayısına ilişkin",
+  "status": "Cevaplandı",
+  "status_as_of": "2026-11-16",
+  "official_record": "https://www.tbmm.gov.tr/Denetim/Yazili-Soru-Onergesi-Detay/db6858d4-c32f-4024-9d3d-01981d039a54",
+  "source": "https://tbmm.gov.tr/Denetim/YaziliSoruOnergesiTable",
+  "source_form": "https://tbmm.gov.tr/Denetim/Yazili-Soru-Onergeleri",
+  "source_sha256": "10d1d20d756e9a14d515ad423cec1e5cef8ed96d8b4b2cd4571a728b9e6a4b2a",
+  "in_force": "2025-07-17",
+  "in_force_basis": "Date the question reached the Speaker (Başkanlığa geliş tarihi) in the official TBMM written-question record; parliamentary oversight record, not law",
+  "history_type": "metadata",
+  "text_status": "metadata-only: question text, addressee and answers are in the linked official record (PDFs on cdn.tbmm.gov.tr); not transcribed here"
+}
