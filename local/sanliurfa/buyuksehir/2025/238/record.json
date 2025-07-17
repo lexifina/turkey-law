@@ -1,0 +1,24 @@
+{
+  "number": "238",
+  "number_as_published": "238",
+  "year": 2025,
+  "title": "NAZIM İMAR PLANI(EYYÜBİYE-ASYA)",
+  "decision_date": "2025-07-17",
+  "source": "https://www.sanliurfa.bel.tr/icerik/21054/106/nazim-imar-planieyyubiye-asya",
+  "official_document": null,
+  "source_sha256": "6af913aa10a08e24c302a0ae1e70c886d666f95e7c6ac3fb3fb6a069fe72ed93",
+  "issuer": "Şanlıurfa Büyükşehir Belediye Meclisi",
+  "history_type": "metadata",
+  "text_status": "metadata-only: decision number, date and subject from the official announcement; the decision text is not published on the page",
+  "in_force": "2025-07-17",
+  "in_force_basis": "Decision date as printed in the official council listing: 17.07.2025 tarih ve 238 sayılı (council decision cited in the official announcement); adoption date of the council decision; legal commencement not asserted",
+  "missing": [
+    "complete official decision text",
+    "official annexes"
+  ],
+  "law_text_complete": false,
+  "privacy_withheld": false,
+  "record_scope": "one council decision, as cited in the municipality's official plan announcement (ilan)",
+  "announcement_date": "2025-08-01",
+  "listing": "https://www.sanliurfa.bel.tr/kategori/82/0/meclis-kararlari?page=1"
+}
