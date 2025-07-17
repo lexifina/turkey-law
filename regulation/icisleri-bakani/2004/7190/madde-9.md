@@ -1,0 +1,6 @@
+Geçici ve Acil Durumlarda Özel Güvenlik İzni
+Madde 9- Toplantı, konser, sahne gösterileri ve benzeri etkinliklerde, para veya değerli eşya nakli veya cenaze töreni gibi geçici veya acil hallerde, özel güvenlik izni vali tarafından verilir.
+(Değişik fıkra: RG-26/9/2009-27358) Geçici ve acil hallerde özel güvenlik izni, hizmeti yerine getirecek güvenlik şirketi tarafından alınır. İzin için yapılacak başvuruda koruma ve güvenlik hizmeti verilecek alan, istihdam edilecek özel güvenlik görevlileri ve kullanılacak teçhizat belirtilir. Hizmetin özelliğine ve önemine göre, valilikçe istenebilecek ek önlemler alınır. Geçici özel güvenlik izni için valiliğe söz konusu etkinliğin başlamasından en az 48 saat önce müracaatta bulunulur. Valiliğe yapılan müracaatlar faaliyetin başlamasından en geç 24 saat öncesinde neticelendirilir. Valinin takdiri ile acil hallerde bu süreler uygulanmaz.
+Güvenliğin sağlaması için ilgili şirket tarafından öngörülen tedbirlerin yetersiz görülmesi halinde valilik ilave tedbirler alınmasını veya güvenlik planının değiştirilmesini istemeye yetkilidir.
+İznin konusu para ve değerli eşya nakli ise ayrıca, taşınacak silahlar ve kullanılacak araçlar başvuru dilekçesinde belirtilir.
+Bankaların özel güvenlik birimlerince gerçekleştirilecek para nakli için özel güvenlik izni alınmaz.

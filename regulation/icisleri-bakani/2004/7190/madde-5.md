@@ -1,0 +1,6 @@
+İKİNCİ BÖLÜM
+Özel Güvenlik Komisyonu ve Görevleri
+Özel Güvenlik Komisyonu
+Madde 5- Özel güvenlik komisyonu, her ilde valinin görevlendireceği bir vali yardımcısının başkanlığında, il emniyet müdürlüğü, il jandarma komutanlığı, ticaret odası başkanlığı ve sanayi odası başkanlığının temsilcilerinden oluşur. Sanayi odasının bulunmadığı illerde Komisyona, ticaret ve sanayi odası başkanlığının temsilcisi katılır. Özel güvenlik izni verilmesi ya da bu uygulamanın kaldırılması için başvuran kişi yada kuruluşun temsilcisi Komisyonun ilgili toplantısına üye olarak katılır.
+Komisyon, gerekli hallerde başkanın çağrısı üzerine toplanır. Komisyon, üye tam sayısının yarısının bir fazlasıyla toplanır ve oy çokluğuyla karar alır. Oyların eşitliği halinde başkanın bulunduğu taraf çoğunluk sayılır ve çekimser oy kullanılamaz. Özel güvenlik izni için başvuran kişi ya da kuruluşun temsilcisi toplantıya katılır. Komisyon kararları, başkan ve üyeler tarafından imzalanır ve (Değişik ibare:RG-11/9/2011-28051) muhafaza edilir.
+(Değişik fıkra:RG-20/12/2013-28857) Kanunun 3 üncü maddesinde belirtilen istisnai haller dışında, özel güvenlik hizmetlerinin yerine getirilmesi özel güvenlik komisyonunun kararı üzerine valinin iznine bağlıdır.

@@ -1,0 +1,2 @@
+Kapsam
+Madde 2- Bu Yönetmelik, 5188 sayılı Kanun kapsamında özel güvenlik izninin verilmesi, özel güvenlik şirketlerine ve özel eğitim kurumlarına faaliyet izni verilmesi, özel güvenlik görevlilerine çalışma izni verilmesi, özel güvenlik eğitiminin niteliği, müfredatı, eğiticilerde ve eğitim merkezlerinde aranacak şartlar ve eğitim sonucu yeterliliğin belirlenmesi, özel güvenlik hizmetlerinin denetlenmesi ve diğer hususları kapsar.

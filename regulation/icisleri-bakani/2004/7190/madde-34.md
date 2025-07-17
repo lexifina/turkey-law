@@ -1,0 +1,8 @@
+Yenileme Eğitimi
+Madde 34- (Değişik fıkra:RG-11/9/2011-28051) Özel güvenlik görevlileri ile yöneticiler kimlik kartlarının yenilenebilmesi için beş yılda bir yenileme eğitimi alır.
+(Değişik fıkra: RG-26/9/2009-27358) Yenileme eğitimi (Ek ibare:RG-4/7/2025-32946) en az altmış ders saatinden oluşur. Yenileme eğitiminin (Değişik ibare:RG-4/7/2025-32946) sekiz ders saati silah bilgisi ve atış dersine ayrılır. Yenileme eğitiminde okutulacak ders konuları ve saatleri Ek-13’de gösterilmiştir.
+Havalimanı ve deniz limanlarında görevli özel güvenlik görevlilerinin yenileme eğitimi için uluslararası sözleşmelerden kaynaklanan diğer hükümler saklıdır.
+(Ek fıkra: RG-26/9/2009-27358) Özel güvenlik yenileme eğitimi günlük sekiz saat ve haftada kırksekiz saatten fazla olamaz. Bir ders saati kırk dakikadır ve iki ders arası en az on dakika ara verilir. İhtiyaç halinde aynı ders konusunda ve ikişer dersten fazla olmayacak şekilde blok ders yapılabilir.
+(Ek fıkra: RG-26/9/2009-27358) Yenileme eğitimi, kendi bünyesinde özel güvenlik birimi olup, en az yirmi özel güvenlik görevlisi istihdam edilen yerlerde, yeterli araç-gereç ve materyal ile sınıf ortamı oluşturulması ve il valiliği tarafından yerinde yapılacak incelemede uygun değerlendirilmesi halinde, Ek-13’te belirtilen eğitim müfredatı doğrultusunda fiilen hizmet verilen yerlerde de yapılabilir. Ancak, özel güvenlik şirketlerinden koruma ve/veya güvenlik hizmeti alanlar yerinde yenileme eğitimi yapamazlar.
+(Mülga fıkra:RG-26/9/2009-27358)
+(Ek fıkra:RG-11/9/2011-28051) Yenileme eğitimine katılan özel güvenlik görevlileri ile yöneticilerin hizmet ve iş akitleri devam eder, eğitim süresince özlük haklarından yoksun bırakılamaz.

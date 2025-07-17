@@ -1,0 +1,1 @@
+Geçici Madde 3- 2495 sayılı Kanun hükümlerine göre bünyesinde özel güvenlik teşkilatı kuranlar en az bir ay önce başvurmak şartıyla, Komisyonun kararı ve Valinin onayı ile özel güvenlik uygulamasını sona erdirebilirler .

@@ -1,0 +1,96 @@
+{
+  "source_id": "7.5.7190",
+  "kind": "regulation",
+  "register_kind": "Kurum ve Kuruluş Yönetmelikleri",
+  "title": "ÖZEL GÜVENLİK HİZMETLERİNE DAİR KANUNUN UYGULANMASINA İLİŞKİN YÖNETMELİK",
+  "number": "7190",
+  "issuer": "İçişleri Bakanı",
+  "issuer_slug": "icisleri-bakani",
+  "path": "regulation/icisleri-bakani/2004/7190",
+  "source": "https://www.mevzuat.gov.tr/anasayfa/MevzuatFihristDetayIframe?MevzuatTur=7&MevzuatNo=7190&MevzuatTertip=5",
+  "source_sha256": "414bd431a0dda72a0ebe26ef1821c8e1cd58909b1a46460e813de5e9467ea25f",
+  "source_bytes": 120564,
+  "published": "2004-10-07",
+  "gazette": "25606",
+  "in_force": "2025-07-17",
+  "in_force_basis": "latest Resmî Gazete date printed in the source amendment notes/table (\"RG-17/7/2025\") for the current consolidated text",
+  "date_evidence": [
+    [
+      "2025-07-17",
+      "RG-17/7/2025",
+      "Resmî Gazete date printed in the source amendment note"
+    ],
+    [
+      "2025-07-04",
+      "RG-4/7/2025",
+      "Resmî Gazete date printed in the source amendment note"
+    ],
+    [
+      "2024-10-22",
+      "RG-22/10/2024",
+      "Resmî Gazete date printed in the source amendment note"
+    ],
+    [
+      "2024-07-05",
+      "RG-5/7/2024",
+      "Resmî Gazete date printed in the source amendment note"
+    ],
+    [
+      "2022-08-31",
+      "RG-31/8/2022",
+      "Resmî Gazete date printed in the source amendment note"
+    ],
+    [
+      "2022-06-07",
+      "RG-7/6/2022",
+      "Resmî Gazete date printed in the source amendment note"
+    ],
+    [
+      "2022-03-23",
+      "RG-23/3/2022",
+      "Resmî Gazete date printed in the source amendment note"
+    ],
+    [
+      "2021-06-26",
+      "RG-26/6/2021",
+      "Resmî Gazete date printed in the source amendment note"
+    ],
+    [
+      "2018-09-05",
+      "RG-5/9/2018",
+      "Resmî Gazete date printed in the source amendment note"
+    ],
+    [
+      "2018-03-28",
+      "RG-28/3/2018",
+      "Resmî Gazete date printed in the source amendment note"
+    ],
+    [
+      "2017-06-24",
+      "RG-24/6/2017",
+      "Resmî Gazete date printed in the source amendment note"
+    ],
+    [
+      "2016-03-02",
+      "RG-2/3/2016",
+      "Resmî Gazete date printed in the source amendment note"
+    ]
+  ],
+  "commencement_clauses": [
+    "Bu Yönetmelik yayımı tarihinde yürürlüğe girer"
+  ],
+  "history": "current-text",
+  "label": "oldest version available",
+  "checked_on": "2026-11-15",
+  "word_count": 6402,
+  "text_status": "current-consolidated",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  },
+  "source_links": [
+    "7.5.7190-Ekler.doc"
+  ],
+  "completeness": "html-text-complete; linked annexes not fetched"
+}

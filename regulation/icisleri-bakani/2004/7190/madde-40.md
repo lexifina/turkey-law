@@ -1,0 +1,2 @@
+Sınavlarda Görev Alanlara Ödenecek Ücret
+Madde 40- Sınav komisyonlarının üyelerine, sınavlarda gözetim ve değerlendirme görevi alan personele 19/9/1987 tarihli ve 87/12002 sayılı Bakanlar Kurulu kararıyla yürürlüğe giren Emniyet Genel Müdürlüğüne Bağlı Her Derecedeki Eğitim ve Öğretim Kurumları ile Hizmet İçi Eğitimlerde Aylık Karşılığı ve Ücretle Okutulacak Ders Saatlerinin Sayısı Ders Görevi Alacakların Nitelikleri ve Diğer Hususların Tespitine Dair Esaslara göre, ders ücreti ödenir.

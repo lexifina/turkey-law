@@ -1,0 +1,3 @@
+Yazılı Sınav
+Madde 37- Yazılı sınav soruları Merkezi Sınav Komisyonu tarafından hazırlanır. Yazılı sınavın yeri, tarihi, başvuru süresi, başvuru sırasında istenecek belgeler ve diğer hususlar en az on beş gün önceden Komisyon tarafından belirlenerek ilan edilir.
+(Değişik ikinci fıkra:RG-4/7/2025-32946) Eğitim modüllerinin ağırlığına göre ve konuların tamamını kapsayacak şekilde hazırlanan; temel eğitim yazılı sınavı, 80 sorudan oluşan birinci kısım ile adayların silah bilgisinin ölçüldüğü 20 sorudan oluşan ikinci kısımdan, yenileme eğitimi yazılı sınavı ise 40 sorudan oluşan birinci kısım ile adayların silah bilgisinin ölçüldüğü 20 sorudan oluşan ikinci kısım olmak üzere çoktan seçmeli sorulardan oluşan iki kısım halinde yapılır.

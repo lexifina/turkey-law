@@ -1,0 +1,4 @@
+Önleyici Arama Yapılması
+Madde 14- Görev alanında, can ve mal güvenliğinin ve kamu düzenin sağlanması, suç işlenmesinin önlenmesi, taşınması veya bulundurulması yasaklanmış her türlü silah, patlayıcı madde veya eşyanın tespit edilmesi amacıyla detektörle, x-ray cihazından geçirerek veya Kanunda belirtilen durumlarda gerektiğinde üst araması yapılabilir.
+(Değişik fıkra:RG-11/9/2011-28051) Kamuya açık alanlarda üst araması, 1/6/2005 tarihli ve 25832 sayılı Resmî Gazete’de yayımlanan Adli ve Önleme Aramaları Yönetmeliği hükümlerine göre yapılır. Bu alanlarda özel güvenlik görevlilerince yapılacak üst araması genel kolluğun gözetim ve denetiminde yapılır. Arama sırasında yakalanan kişiler veya el konulan madde ve cisimler, yasal işlemi yapılmak üzere bir tutanakla genel kolluğa teslim edilir.
+Arama kişinin aynı cinsiyetindeki görevli tarafından yapılır.

@@ -1,0 +1,1 @@
+Geçici Madde 2- 2495 sayılı Bazı Kurum ve Kuruluşların Korunması ve Güvenliklerinin Sağlanması Hakkında Kanun hükümlerine uygun olarak istihdam edilen ve bu Kanunda öngörülen şartları kaybetmemiş olan özel güvenlik görevlilerine 26/6/2009 tarihine kadar çalışma izni verilmiş sayılır.

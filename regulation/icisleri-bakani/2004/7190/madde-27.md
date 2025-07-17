@@ -1,0 +1,3 @@
+Silahların Kaydı
+Madde 27- Bulundurulmasına ve taşınmasına izin verilen her türlü ateşli silah, komisyonca bir örneği Ek-6 da bulunan “Silah Bulundurma Kayıt Defteri”ne işlenir.
+Ateşli silahlar, özel güvenlik izni verilen kişi veya kuruluş tarafından, bir örneği Ek-7 de bulunan “Silah Demirbaş Defteri”ne de kaydedilir. Görev alanında muhafaza edilen ateşli silahlar, özel güvenlik görevlilerine bir örneği Ek-8’de bulunan ve her sayfası yöneticiler tarafından onaylı “Devir Teslim ve Rapor Defteri”ne imza karşılığı devir teslim edilir. Özel güvenlik görevlileri, ateşli silahları Kanunda belirtilen istisnalar dışında görev alanı dışına çıkaramaz.

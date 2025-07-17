@@ -1,0 +1,2 @@
+Suça El Koyma
+Madde 16- Özel güvenlik birimleri ve görevlileri, görev alanında bir suçla karşılaştığında suça el koymak, suçun devamını önlemek, sanığı tespit ve yakalama ile olay yerini ve suç delillerini muhafaza ve yetkili genel kolluğa teslim etmekle görevli ve yetkilidir. Bunlar genel kolluğun olaya el koymasından itibaren araştırma ve delil toplama faaliyetine genel kolluğun talebi halinde yardımcı olur.

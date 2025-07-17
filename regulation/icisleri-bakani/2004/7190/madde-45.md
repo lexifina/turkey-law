@@ -1,0 +1,4 @@
+Denetim Sonucunun İzlenmesi
+Madde 45– Denetim sonucu düzenlenen raporun bir sureti denetlenen birimin dosyasında muhafaza edilir, diğer sureti valiliğe, ilgisine göre bir sureti de Bakanlığa sunulur.
+Denetim sonucunda tespit edilen eksiklikler ilgili kişi, kurum, kuruluş (Ek ibare:RG-11/9/2011-28051) , eğitim kurumu, alarm izleme merkezi ve şirkete yazılı şekilde bildirilerek bu eksiklikleri gidermesi için eksikliğin niteliğine göre asgari yedi gün süre verilir. Bu süre sonunda eksiklikler giderilmediği takdirde veya denetim sonucu konusu suç teşkil eden uygulamalar tespit edildiğinde Kanunun 19 uncu ve 20 nci maddesinde belirtilen cezalar uygulanır.
+Ayrıca, amacı dışında faaliyet gösterdiği veya suç kaynağına dönüştüğü tespit edilen şirketlerin veya özel eğitim kurumlarının faaliyet izni Bakanlıkça (Ek ibare:RG-11/9/2011-28051) , alarm izleme merkezlerinin yeterlilik belgesi valilikçe iptal edilir.

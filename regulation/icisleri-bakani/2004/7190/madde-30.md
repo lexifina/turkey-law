@@ -1,0 +1,4 @@
+Silah ve Fişeklerin Devri
+Madde 30- Özel güvenlik izni veya silah bulundurma ve taşıma izni iptal edilen veya ihtiyaç fazlası bildiriminde bulunan kişi ve kuruluşlara ait silah ve fişekler genel hükümlere göre devredilir. Altı ay içinde devir gerçekleştirilmez ise, takip eden iki ay içerisinde silahın ait olduğu kişi veya kurum 6136 sayılı Kanuna göre ruhsat başvurusunda bulunmak zorundadır. Süresi içerisinde ruhsatlandırılmayan silahlar müsadere edilmek üzere adli makamlara intikal ettirilir.
+Tüfekler ve tam otomatik tabancalar devredilebilir veya genel kolluk kuruluşlarına bağışlanabilir ya da imha edilmek üzere valilikçe Makine Kimya Endüstrisi Kurumuna verilir.
+Devredilecek, hibe ya da imha edilecek veya satılacak silahlar için Bölge Kriminal Polis Laboratuvarlarından ekspertiz raporu aldırılır.
