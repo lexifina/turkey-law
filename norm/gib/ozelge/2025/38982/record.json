@@ -1,0 +1,22 @@
+{
+  "kind": "norm",
+  "issuer": "Gelir İdaresi Başkanlığı",
+  "document_type": "ozelge",
+  "number": "E-84974990-130[KDV1/I/11-2024-159]-392796",
+  "source_id": 38982,
+  "date": "2025-07-17",
+  "title": "Merkezi Yurtdışında Bulunan Şirketin Türkiye Şubesinin Verdiği Lojistik, Depolama Hizmetinin Hizmet İhracı Kapsamında Olup Olmadığı Hk.",
+  "source": "https://gib.gov.tr/mevzuat/kanun/436/ozelge/38982",
+  "related_law": "3065 sayılı KATMA DEĞER VERGİSİ KANUNU",
+  "source_api": "https://gib.gov.tr/api/gibportal/mevzuat/ozelge/list",
+  "source_listing": "evidence/list/2026-11-16/ozelge-p009.json",
+  "source_listing_sha256": "9cb52b4963a9a177a23948f6e28c12936c2f43c88a0b410872bb81c01983667c",
+  "source_sha256": "7ce33bc1660acee272162b9a1d1f4a518763506114f352bf909e791149312915",
+  "text_status": "as-enacted",
+  "text_file": "metin.md",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  }
+}
