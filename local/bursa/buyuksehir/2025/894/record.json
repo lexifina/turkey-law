@@ -1,0 +1,24 @@
+{
+  "issuer": "Bursa Büyükşehir Belediye Meclisi",
+  "number": "894",
+  "decision_date": "2025-07-17",
+  "version_label": "as-enacted",
+  "source_url": "https://www.bursa.bel.tr/storage/medya/meclis_karar_yeni/2025-894.pdf",
+  "source_sha256": "b276c4ada1549b735efefb2d38794573555fa58d70a5199176b34e9df5d245a8",
+  "normative_images": 0,
+  "source_image_inventory": [
+    {
+      "page": 1,
+      "source_images": 2,
+      "decorative_logos": 2,
+      "normative_images": 0
+    },
+    {
+      "page": 2,
+      "source_images": 2,
+      "decorative_logos": 2,
+      "normative_images": 0
+    }
+  ],
+  "annex_status": "Only the decision PDF linked by the official register is held; referenced supporting plans or annexes not separately linked are not included."
+}
