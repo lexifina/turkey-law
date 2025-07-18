@@ -1,0 +1,9 @@
+Arabulucuların görevlendirilmesi ve çalışma esasları
+MADDE 9 – (1) Görevli makam; her iki tarafın arabulucuyu belirlemek için yapılan toplantıya gelmesi halinde üzerinde anlaşılan arabulucuyu, her iki tarafın anlaşamaması veya taraflardan biri ya da her iki tarafın toplantıya gelmemesi halinde, 8 inci maddenin üçüncü fıkrasında belirtilen listeden bir arabulucuyu sırasıyla görevlendirir.
+(2) Arabuluculuk görevi, görevli makamca arabulucuya yapılacak bildirim tarihinden itibaren başlar ve on beş gün sürer. Bu süre tarafların anlaşması ile en çok altı iş günü uzatılabilir ve görevli makama bildirilir.
+(3) Arabulucu, tarafları ayrı ayrı veya birlikte toplantıya çağırmak üzere bir davet yazısı düzenler ve taraflara tebliğ eder.
+(4) Arabulucu, tarafları görevli makamın bulunduğu Çalışma ve İş Kurumu İl Müdürlüğünde ya da tarafsız bir yerde bir araya getirmeye özen gösterir.
+(5) Arabulucu, görev süresi içerisinde tarafları mümkün olan en fazla sayıda bir araya getirmeye gayret eder. İlk toplantıda belirlenen uyuşmazlık konuları üzerinde her iki tarafın taleplerine uygun çözüm önerileri geliştirir ve taraflara sunar. Yapılan her toplantı sonucunda üzerinde anlaşma sağlanan veya sağlanamayan hususlar toplantıya katılanlarca düzenlenecek bir tutanakla açıkça belirtilir.
+(6) Arabulucu, Ek-1’de yer alan Arabulucu Raporunu düzenler ve beşinci fıkrada belirtilen tutanaklarla birlikte üç iş günü içinde görevli makama tevdi eder.
+(7) Görev alanı ilde, görevden ayrılma ya da herhangi bir mazeret dolayısıyla görev yapacak arabulucu kalmamışsa, durum Çalışma ve İş Kurumu İl Müdürlüğünce derhal Bakanlığa bildirilir. Bakanlık, üç iş günü içerisinde resen görevlendirme yapar.
+(8) Niteliklerini kaybedenlerin arabuluculuğu kendiliğinden sona erer. Gerekli nitelikleri taşımadığı halde veya niteliklerini kaybetmesine rağmen arabulucu olarak görevlendirilenler ise, tebliğ tarihinden itibaren üç iş günü içinde görevi iade etmek üzere görevli makama başvurur.

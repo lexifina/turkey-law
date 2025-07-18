@@ -1,0 +1,6 @@
+Kurulun toplanması ve kararlar
+MADDE 21 – (1) Kurulda işçi ve işveren temsilcileri olarak en çok işçi ve işveren mensubu olan konfederasyonlarca seçilecek ikişer üye yer alır. İşveren temsilcilerinden biri, en çok işveren mensubu olan işveren sendikaları konfederasyonunun seçeceği kamu işverenidir. Ancak uyuşmazlık konusunun tarafı olan sendikanın bağlı bulunduğu işçi veya işveren sendikaları konfederasyonlarının en çok üyeye sahip konfederasyondan farklı olması halinde, sendikanın bağlı bulunduğu konfederasyonun seçeceği bir üye, ikinci üyenin yerine Kurul üyesi olarak toplantıya katılır.
+(2) Kurul Başkanı, başvuruların alındığı günden başlayarak altı iş günü içinde toplanmak üzere Genel Sekreterden Kurulu toplantıya çağırmasını ister.
+(3) Kurul, Kurul Başkanınca belirlenen gün ve saatte, Kurul Başkanı ve en az beş üyenin katılımı ile toplanır. Mazeretli ya da izinli olan Kurul Başkanı ve üyelerinin yerini, yedek başkan ve aynı gruptan yedek üyelerden biri alır.
+(4) Kararlar toplantıya katılanların oy çokluğuyla verilir. Oyların eşitliği halinde, Kurul Başkanının bulunduğu taraf çoğunluğu sağlamış sayılır.
+(5) Kurul görüşmeleri gizli tutulur. Kararın özeti ile varsa muhalefet görüşleri karar defterine yazılır, Kurul Başkanı ve üyelerce imzalanır.

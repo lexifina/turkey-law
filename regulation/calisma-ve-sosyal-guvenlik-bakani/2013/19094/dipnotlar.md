@@ -1,0 +1,1 @@
+[1] 18/7/2025 tarihli ve 32959 sayılı Resmî Gazete’de yayımlanan değişiklik ile Yönetmeliğin 29 uncu maddesine ikinci fıkrasından sonra gelmek üzere fıkralar eklenmiş, diğer fıkralar buna göre teselsül ettirilmiştir.

@@ -1,0 +1,5 @@
+Başvurular üzerine yapılacak işlem ve ön inceleme
+MADDE 18 – (1) Kurula yapılan başvurular, Kurul Başkanı veya yetki vermesi halinde Genel Sekreterce ön incelemesi yapılmak üzere; iş yoğunluğu, uyuşmazlığın niteliği, kapsamı, işyeri ve işin özelliği gibi hususlar birlikte değerlendirilerek başvurunun Kurula ulaştığı tarihi takip eden ilk iş günü bir veya birden fazla uzman ve raportöre sırasıyla havale edilir. Sıraya uyulmadan yapılan havaleler için gerekçe belirtilir.
+(2) Uzman ve raportörler, kendilerine havale edilen başvuruları, ehliyet, yetki, süre ve mevzuat yönünden inceler ve düzenleyecekleri ön inceleme raporunu kendilerine bildirilen toplantı tarihinden en az iki iş günü önce Genel Sekretere teslim eder.
+(3) Uzman ve raportörler, talep edildiğinde Genel Sekreter tarafından belirlenen gün ve saatte ön inceleme raporunu Kurula sunar.
+(4) Uzman ve raportörler, ön inceleme sonucu başvuruyu esastan incelemeye başlar. Başvurunun esasa geçilmeden reddi halinde gerekçeli kararı hazırlayarak Kurul üyelerinin imzasına sunar.
