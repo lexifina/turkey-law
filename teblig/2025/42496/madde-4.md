@@ -1,0 +1,5 @@
+Numune alma ve analiz metotları
+MADDE 4- (1) Gıdalardaki bitki toksinleri seviyelerinin kontrolü için numune alma Ek-1’de belirtilen metotlara uygun olarak yapılır.
+(2) Ek-1’de numune alma metodu oluşturulmuş olan bir gıda kategorisinde sınıflandırılamayan bir gıda söz konusu olduğunda, numune alma metodu o gıdanın parçacık boyutuna veya o gıdanın gıda kategorilerinden birinde sınıflandırılabilen belirli bir gıda ile benzerliğine göre belirlenir.
+(3) Ek-1’de herhangi bir gıda kategorisinde sınıflandırılamayan bir gıda olması ve bitki toksininin böyle bir gıdada homojen bir şekilde dağıldığına dair kanıt bulunması koşuluyla bu gıdalardan 12/2/2025 tarihli ve 32811 sayılı Resmî Gazete’de yayımlanan Türk Gıda Kodeksi Gıdalardaki Eser Elementler ve İşleme Bulaşanlarının Resmî Kontrolü İçin Numune Alma ve Analiz Metodu Kriterleri Tebliği (Tebliğ No:2024/10)’nin Ek-1 Bölüm A'sında belirtilen numune alma metodu kullanılarak numune alınır.
+(4) Gıdalardaki bitki toksinleri seviyelerinin kontrolü için kullanılan numune hazırlama ve analiz metotları, Ek-2’de belirtilen kriterlere uygun olur.

@@ -1,0 +1,50 @@
+{
+  "annexes": {
+    "links": [
+      {
+        "caption": "Ekleri için tıklayınız.",
+        "official_href": "9.5.42496-EK.doc",
+        "status": "pending"
+      }
+    ],
+    "official_html": "https://www.mevzuat.gov.tr/anasayfa/MevzuatFihristDetayIframe?MevzuatTur=9&MevzuatNo=42496&MevzuatTertip=5",
+    "status": "pending"
+  },
+  "checked_on": "2026-11-15",
+  "commencement_quote": "Bu Tebliğ yayımı tarihinde yürürlüğe girer",
+  "date_gazette": "32959",
+  "date_quote": "Bu Tebliğ yayımı tarihinde yürürlüğe girer",
+  "first_law": null,
+  "gazette": "32959",
+  "history": "current-text",
+  "images": {
+    "deferred": 0,
+    "omitted": 0,
+    "referenced": 0,
+    "source": 0
+  },
+  "in_force": "2025-07-18",
+  "in_force_basis": "Own commencement clause: Bu Tebliğ yayımı tarihinde yürürlüğe girer",
+  "issuer": "Tarım ve Orman Bakanlığı",
+  "issuer_catalog_evidence": [
+    {
+      "evidence": "issuer-637-0.json",
+      "id": "637",
+      "label": "Tarım ve Orman Bakanlığı",
+      "listing_url": "https://www.mevzuat.gov.tr/Anasayfa/MevzuatDatatable?MevzuatTur=Teblig&KurumId=637&start=0&length=100"
+    }
+  ],
+  "issuer_slug": "tarim-ve-orman-bakanligi",
+  "kind": "communique",
+  "label": "oldest version available",
+  "notes": [
+    "Linked official annexes are not included in this version; original official links and captions are recorded in annexes."
+  ],
+  "published": "2025-07-18",
+  "source": "https://www.mevzuat.gov.tr/anasayfa/MevzuatFihristDetayIframe?MevzuatTur=9&MevzuatNo=42496&MevzuatTertip=5",
+  "source_bytes": 26366,
+  "source_id": "9.5.42496",
+  "source_sha256": "76c311f27d79ddf3acd39141c6bd23c7de31732950783fa5894b38a5da7e052c",
+  "title": "TÜRK GIDA KODEKSİ GIDALARDAKİ BİTKİ TOKSİNLERİ SEVİYELERİNİN RESMÎ KONTROLÜ İÇİN NUMUNE ALMA VE ANALİZ METODU KRİTERLERİ TEBLİĞİ (TEBLİĞ NO: 2025/8)",
+  "word_count": 572
+}
