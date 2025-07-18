@@ -1,0 +1,2 @@
+Kapsam
+MADDE 2- (1) Bu Yönetmelik, Polis Amirleri Eğitimi Merkezine alınacak adaylarda aranacak nitelikleri, adayların başvuru ve seçme sınavları esaslarını, seçme ve değerlendirme komisyonlarının kuruluşunu, öğrencilerin kayıt işlemleri ile eğitim-öğretimlerini, sınavları ve değerlendirme esaslarını, başarı durumlarını, stajlarını, öğrencilere verilecek izinleri, mazeret durumlarını, öğrenciliğin sona ermesi, öğrencilikten çıkma, çıkarılma, mezuniyet ve diploma işlemlerini kapsar.

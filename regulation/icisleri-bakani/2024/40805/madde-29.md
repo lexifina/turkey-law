@@ -1,0 +1,2 @@
+Eğitim-öğretime ara verme zamanları
+MADDE 29- (1) Eğitim-öğretime yarıyıl izninden başka ulusal bayram ve genel tatil günlerinde de ara verilir. PAEM’de eğitim-öğretim yapılmasını önemli ölçüde etkileyecek olağanüstü durumlarda Müdürün teklifi ve Başkanın onayı ile eğitim-öğretime ara verilebilir. Bu şekilde ara verme, bir haftada üç ders gününü geçerse, ara verilen süre dönem sonuna eklenir. Bu durumda PAEM akademik takvimi yeniden düzenlenir.

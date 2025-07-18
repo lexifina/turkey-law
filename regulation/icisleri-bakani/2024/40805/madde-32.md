@@ -1,0 +1,2 @@
+Sosyal faaliyetler
+MADDE 32- (1) Öğrencilerin bilgi, görgü ve kültürlerinin arttırılması amacıyla PAEM’in bulunduğu il sınırları içerisinde Öğrenci İşleri Şube Müdürlüğünden sorumlu Başkan Yardımcısından, il veya ülke sınırları dışında Başkanlıktan izin alınmak suretiyle eğitim ve kültürel amaçlı gezi, konser, seminer, konferans, panel, çalıştay, spor müsabakası ve benzeri faaliyetler düzenlenebilir.

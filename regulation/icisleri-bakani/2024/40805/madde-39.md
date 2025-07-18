@@ -1,0 +1,2 @@
+Uygulamalı mesleki eğitim
+MADDE 39- (1) PAEM’de eğitimine devam eden sivil kaynaklı öğrencilere, görmüş oldukları eğitimlerin uygulamaları ve yapılan işlemleri öğrenmelerini ve amirlik vasıflarını kazanmalarını sağlamak maksadıyla Başkanın teklifi ile Genel Müdürün onaylayacağı illerdeki uygun görülen birimlerde ve zamanda, Polis Akademisi Başkanlığı Uygulamalı Mesleki Eğitim Yönetmeliği çerçevesinde uygulamalı mesleki eğitim yaptırılır.

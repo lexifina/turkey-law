@@ -1,0 +1,9 @@
+Sınav sonuç listesinin belirlenmesi ve ilanı
+MADDE 20- (1) Adayların başarı sıralamasına esas PAEM giriş puanı;
+a) Emniyet mensubu adaylar için; yazılı sınav puanının % 25’i, fiziki yeterlilik sınavı puanının % 25’i ve mülakat sınavı puanının %50’sinin toplamıdır. Adaylar arasından başarı sıralaması puanında eşitlik olması halinde sırasıyla; yazılı sınavdan alınan puan, mülakat puanı, fiziki yeterlilik puanının yüksekliği esas alınır. Bunlarda da eşitlik olması halinde yaşı küçük olan aday tercih edilir.
+b) Sivil kaynaklı adaylar için; KPSS puanının % 25’i, fiziki yeterlilik sınavı puanının % 25’i ve mülakat sınavı puanının % 50’sinin toplamıdır. Başarı sıralaması puanında eşitlik olması halinde sırasıyla; KPSS’den alınan puan, mülakat puanı, fiziki yeterlilik puanının yüksekliği esas alınır. Bunlarda da eşitlik olması halinde yaşı küçük olan aday tercih edilir.
+(2) Sınav sonuç listelerinin ve yedek adayların belirlenmesinde aşağıda belirtilen hususlar dikkate alınır:
+a) Sivil kaynaklı adaylar için PAEM giriş puanına göre erkek ve kadın adaylar için asıl, yedek ve başarısız olmak üzere ayrı ayrı sınav sonuç listesi düzenlenir. Asıl adayların %30’una tekabül eden sayıda yedek aday listesi, en yüksek puandan başlanarak belirlenir.
+b) Emniyet mensubu adaylar için PAEM giriş puanına göre erkek ve kadın adaylar için asıl, yedek ve başarısız olmak üzere ayrı ayrı sınav sonuç listesi düzenlenir. Asıl adayların %30’una tekabül eden sayıda yedek aday listesi, en yüksek puandan başlanarak belirlenir.
+(3) Adayların sınav sonuçları, sınav ile ilgili işlemler tamamlandıktan sonra Başkanlık internet sayfasında ilan edilir.
+(4) Sınav evrakı herhangi bir itiraz olmadığı sürece Müdürlükçe bir yıl süreyle, dava konusu olmuşsa kararın kesinleşme tarihine kadar ilgili birimde saklanır ve bu sürenin bitiminde tutanakla imha edilir.

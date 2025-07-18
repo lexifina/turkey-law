@@ -1,0 +1,13 @@
+Öğrenci izinleri
+MADDE 31- (1) Öğrencilere; ulusal bayram ve genel tatil, yarıyıl, yaz tatili, evci, günübirlik, hafta sonu, mazeret, yurt dışı ve hastalık izinleri verilir. Bu izinlere ilişkin esaslar şunlardır:
+a) Ulusal bayram ve genel tatil izni: Cumartesi, pazar ve diğer resmî tatillerde gündüz verilen izindir. Görevli veya cezalı olanlar hariç bütün öğrenciler izinli sayılır. Evci izni olmayan öğrenciler Öğrenci İşleri Şube Müdürlüğünce belirlenen saatte PAEM’e dönerler.
+b) Yarıyıl izni: Öğrenciye eğitim-öğretim dönemleri arasında en az iki haftalık süre ile verilen izindir.
+c) Yaz tatili: İki eğitim-öğretim yılı arasında, uygulamalı kamp eğitimi ve uygulamalı mesleki eğitim haricindeki süreyi kapsar.
+ç) Evci izni: Anne, baba, eş veya kardeşinin PAEM’in bulunduğu şehirde ikamet ettiği tespit edilenler ile anne-babası vefat etmiş ve evli olmayan öğrencilere, PAEM’in bulunduğu şehirde ikamet ettiğinin tespit edilmesi şartıyla ders yılı boyunca cuma günü ders bitiminden pazar günü akşam yoklamasına kadar, diğer resmî tatil günlerinde tatil günü başlayıp tatilin son günü akşam yoklamasına kadar PAEM’in bulunduğu büyükşehir belediye sınırları dahilinde gece yatısına kalmak üzere verilen izindir.
+d) Günübirlik izin: Öğrenciye herhangi bir mazeretinden dolayı Öğrenci İşleri Şube Müdürlüğünce uygun görülen hallerde bütün veya yarım gün olarak verilen izindir. Ancak, bu izin toplamı akademik yıl içerisinde on ders gününü geçemez.
+e) Mazeret izni: Öğrencilerin mazeretlerinden dolayı, geçerli belgeye veya inandırıcı bilgiye dayanarak Öğrenci İşleri Şube Müdürlüğünce en fazla on güne kadar verilen izindir.
+f) Hastalık izni: Öğrencilere, hastalıklarından dolayı doktor raporuna istinaden rapor süresi kadar verilen izindir. Bu iznin Akademi dışında geçirilebilmesi ve hastalık iznine çevrilebilmesi iş ve işlemleri Öğrenci İşleri Şube Müdürlüğünce yerine getirilir.
+g) Yurt dışı izni: Eğitim-öğretim yılı içinde ve dışında öğrencilere mazeretlerinden dolayı Başkanın onayı ile ülke dışında geçirilmesi için verilen izindir. Yurt dışı iznine ek olarak verilen gidiş-dönüş yol izni süresi, yurt dışı izni kapsamı dışında değerlendirilir.
+ğ) Hafta sonu izni: Evci izni olmayan öğrencilere, mazeretlerinden dolayı uygun görülen hallerde, cuma günü ders bitiminden pazar akşam yoklamasına kadar Öğrenci İşleri Şube Müdürlüğünce verilen izindir. Öğrencilerin bu izni kullanabilmesi için, büyükşehir belediyesi sınırları içerisinde evci izninde belirtilen yakınlarından birinin yanında kalacağını belgelendirmesi zorunludur.
+(2) İzinli çıkacak öğrenciye iznin türü ve süresini gösteren bir izin belgesi verilir.
+(3) İzinli çıkacak öğrencilerin kılık-kıyafetleri kontrol edilir ve kusuru görülenlere kusur giderildikten sonra izin verilir.

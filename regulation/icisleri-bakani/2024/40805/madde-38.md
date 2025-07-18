@@ -1,0 +1,5 @@
+Uygulamalı eğitim kampı
+MADDE 38- (1) Türkiye Cumhuriyeti vatandaşı öğrencilere; dönem içerisindeki uygulama eksiklerini gidermek, mesleki disiplin kazandırmak, arkadaş ve meslek sevgisi kazandırmak, verilen kurumsal eğitimi uygulamaya çevirmek, irade, zor şartlara uyum sağlama, soğukkanlılık, fiziki kondisyon, moral, mesleki bilgi ve yüzme becerilerinin artırılması için en az bir kez uygulamalı eğitim kampı yaptırılır.
+(2) Yabancı uyruklu öğrencilerin kampa katılmaları, ilgili ülke makamlarının resmî yollardan yapacakları talepleri doğrultusunda olur. Bu öğrenciler kampa katılmaları durumunda, Türkiye Cumhuriyeti vatandaşı öğrencilere uygulanan kurallara uymak, tabi tutuldukları sınavlara girmek ve başarılı olmakla yükümlüdürler.
+(3) Uygulamalı kamp eğitimini başarıyla tamamlayamayan öğrenciye bir defaya mahsus ek kamp hakkı tanınır. Yaptırılan ek kamp eğitiminden de başarısız olan öğrenci yetersiz kabul edilerek PAEM’den ilişiği kesilir.
+(4) Uygulamalı eğitim kampının süresi, kamp yeri, kampta verilecek dersler, yeterlilik şartları ve kampa ilişkin diğer hususlar, Polis Akademisi Başkanlığı Uygulamalı Eğitim Kampı Yönetmeliğine göre belirlenir.
