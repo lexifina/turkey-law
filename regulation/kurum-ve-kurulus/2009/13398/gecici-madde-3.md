@@ -1,0 +1,2 @@
+GEÇİCİ MADDE 3 – (Ek:RG-30/12/2015-29578)
+(1) Bu maddenin yürürlüğe girdiği tarihten itibaren ihracatı kayda aldırmak, birlikler tarafından sunulan hizmetlerden yararlanmak veya üyesi olduğu birliğin genel kuruluna iştirak etmek üzere başvuranların talepleri, var ise daha önceki yıllarda tahakkuk etmiş borçları, bu borçlara ilişkin gecikme faizleri ve cari yıla ait yıllık aidat tahsil edilerek yerine getirilir.

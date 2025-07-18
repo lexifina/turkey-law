@@ -1,0 +1,5 @@
+Hazirun cetveli ve hazirun cetvelinin kapatılması
+MADDE 35 – (1) (Değişik:RG-15/6/2012-28324) Hazirun cetveli, toplantı saatinden uygun bir süre önce imzaya açılır. Delegeler (Değişik ibare:RG-5/11/2022-32004) Türkiye Cumhuriyeti Kimlik Kartı Yönetmeliğinin 4 üncü maddesinin birinci fıkrasının (n) bendinde sayılan kimlik belgelerinden birisini ibraz ederek hazirun cetvelini imzalar ve toplantıya giriş ile seçimli genel kurullarda oy kullanma kartlarını alarak toplantı salonuna girerler.
+(2) (Değişik:RG-15/6/2012-28324) Seçimli genel kurul toplantılarında, ilan edilen toplantı saati geldikten ve gerekli nisap sağlandıktan sonra toplantı açılabilir. İlk toplantıda gerekli nisap, hazirun cetvelinde yer alan delege sayısının yarıdan bir fazlasını ifade eder. Hazirun cetveli ise ilan edilen oy verme saatinin bitimine kadar açık tutulur.
+(3) Seçimsiz genel kurul toplantılarında, ilan edilen toplantı saati geldikten ve gerekli nisap sağlandıktan sonra hazirun cetveli kapatılarak toplantıya başlanır.
+(Değişik ibare:RG-11/10/2011-28081) Bakanlık temsilcisi

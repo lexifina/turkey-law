@@ -1,0 +1,17 @@
+Genel kurul
+MADDE 31 – (1) Genel kurul, her yıl birliklerin olağan genel kurul toplantılarının tamamlanmasını müteakip Haziran ayı içinde İstanbul’da veya birlik genel sekreterliği olan illerden birinde toplanır. TİM olağan ve olağanüstü genel kurul toplantıları delegelerin en az yarıdan bir fazlasının iştiraki ile toplanır. İlk toplantıda nisap sağlanamadığı takdirde, ikinci toplantı, nisap koşulu aranmadan yapılır. Ancak, her halükarda sektörler konseyi asil ve yedek üye sayısı, denetim kurulu asil ve yedek üye sayısı ile divan heyeti üye sayısının toplamından az sayıda delege ile genel kurul yapılamaz.
+(2) Birliklerin yönetim kurulu başkanları genel kurulun tabii üyesidir. Ayrıca genel kurula her birlik yönetim kurulunca tespit edilecek yönetim kurulundan bir üye ile ilgili birliğin bu maddede belirtilen son iki takvim yılındaki ihracat performansına göre birlik genel kurulunca tespit edilecek ilave birlik üyeleri katılır.
+(3) Birliklerin, TİM Genel Kurulunda temsil edilecek ilave delege sayısı aşağıdaki şekilde tespit edilir;
+a) İlave delege sayısı, her birliğin son iki takvim yılındaki ihracatının, Türkiye’nin son iki takvim yılındaki toplam ihracatındaki yüzde payının beşle çarpılması suretiyle hesaplanır. Hesaplanan sayının 0,5’ten fazla olan (0,5 dahil) ondalık kısmı yukarı, az olan ondalık kısmı aşağı yuvarlanır. Ancak bu şekilde hesaplanacak ilave delege sayısı her bir birlik için dokuzu geçemez.
+b) Ayrıca, (a) bendine göre hesaplanan delege sayısına ilaveten, birliklerin son iki takvim yılında gerçekleştirdiği ihracatın her 5 milyar (Değişik ibare:RG-5/11/2022-32004) ABD Doları için ilave 1 delege tespit edilir.
+c) (Değişik:RG-15/4/2018-30392) Ancak hizmet sektöründe faaliyet gösteren birlikler için bu fıkranın (a) ve (b) bentlerine göre hesaplanan toplam ilave delege sayısı dokuzu geçemez.
+ç) (Ek:RG-15/4/2018-30392) Bu fıkrada belirtilen oranlar ve hadler, TİM’in teklifi üzerine Bakanlık tarafından değiştirilebilir.
+(4) Her ihracatçı birliğinin delege sayısı, bu madde hükümleri çerçevesinde TİM genel sekreterliğince hesaplanarak (Değişik ibare:RG-11/10/2011-28081) Bakanlık ve birliklere bildirilir. Sektörler Konseyi seçiminde oy kullanacak delegelerinin sayısı ile TİM başkanlığı seçiminde oy kullanacak delegelerinin sayısı arasında fark olan birliklerin bu durumları, hesaplamada belirtilir. Bu birliklerin genel kurullarınca delege seçimlerinde, bu husus dikkate alınır.
+(5) Birlikler tarafından, TİM genel kuruluna katılacak birlik yönetim kurulu başkanı, birlik yönetim kurulundan bir üye ve ilave birlik üyelerinin isimleri belirlenerek en geç Mayıs ayının yirmisine kadar TİM genel sekreterliğine bildirilir.
+(6) (Değişik:RG-30/12/2017-30286 Mükerrer) TİM Genel Kurul delegeleri, kendi birliklerinin organlarında tüzel kişilikleri temsil ediyor olsalar dahi, TİM Genel Kurulunda ve TİM’in seçimle göreve gelen organlarında gerçek kişi hükmündedirler ve tüzel kişileri temsil yetkisi açısından 19 uncu maddenin dördüncü ila onuncu fıkraları hükümleri uygulanır.
+(7) TİM genel kurulunun görevleri şunlardır:
+a) TİM başkanını, sektörler konseyi ve denetim kurulu asil ve yedek üyelerini seçmek,
+b) TİM’in çalışma programını tespit etmek,
+c) Genel kurula sunulan yıllık faaliyet raporunu, hesapları ve bütçeyi müzakere ederek kabul veya reddetmek,
+ç) Yönetim Kurulunun ibrasına karar vermek,
+d) Toplantı gündeminde yer alan diğer hususları görüşmek ve karara bağlamak.

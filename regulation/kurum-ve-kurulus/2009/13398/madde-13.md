@@ -1,0 +1,2 @@
+Hazirun cetveli
+MADDE 13 – (1) Örneği TİM tarafından hazırlanacak olan hazirun cetveli, toplantı saatinden uygun bir süre önce imzaya açılır. Genel kurula katılma hakkını haiz üye ve temsilciler (Değişik ibare:RG-5/11/2022-32004) 3/12/2019 tarihli ve 30967 sayılı Resmî Gazete’de yayımlanan Türkiye Cumhuriyeti Kimlik Kartı Yönetmeliğinin 4 üncü maddesinin birinci fıkrasının (n) bendinde sayılan kimlik belgelerinden birisini ibraz ederek hazirun cetvelini imzalar ve toplantıya giriş ile seçimli genel kurullarda oy kullanma kartlarını alarak toplantı salonuna girerler.

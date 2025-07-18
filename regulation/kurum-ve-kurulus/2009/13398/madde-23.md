@@ -1,0 +1,6 @@
+Karar defteri
+MADDE 23 – (1) (Değişik:RG-12/6/2020-31153) Yönetim kurulunun, sayfaları müteselsil olarak numaralanmış noter tasdikli bir karar defteri bulunur. Alınan kararlar toplantı raportörü tarafından karar numarası, tarih ve saat belirtilmek suretiyle deftere geçirilerek, toplantıda hazır bulunan üyelere toplantıyı terk etmeden imzalattırılır. Bu mümkün olmadığı takdirde, imza işlemleri en geç bir sonraki toplantıya kadar tamamlanır. Toplantıya katılımın kısmen veya tamamen elektronik ortamda olması halinde karar elektronik imza ile imzalatılır.
+(2) Toplantıdaki görüşmelere ait muhalefet şerhlerini de ihtiva eden tutanaklar ise bilahare imzaya hazır hale getirilerek imza işlemleri bir sonraki toplantıya kadar tamamlanarak tutanağın aslı defterin ilgili sayfasına eklenir.
+(3) (Değişik:RG-15/6/2012-28324) Karar defterine ayrıca toplantıya katılmayan üyelerin isimleri ile var ise 22 nci maddenin ikinci fıkrasında belirtilen mazeretleri yazılır.
+(4) (Ek:RG-5/11/2022-32004)(5) Yönetim kurulu toplantısına katıldığı halde, Genel Sekreterlik tarafından yapılan bildirime rağmen yönetim kurulu kararını imzalamayan üye toplantıya katılmamış sayılır.
+(5) (Değişik:RG-5/11/2022-32004) Birinci, ikinci, üçüncü ve dördüncü fıkraların hükümleri, sektör kurulları için de geçerlidir.
