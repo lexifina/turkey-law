@@ -1,0 +1,26 @@
+{
+  "id": "presidency-regulation-10108",
+  "number": "10108",
+  "kind": "regulation",
+  "issuer": "presidency",
+  "title": "DEVLET MEMURLARININ YARIM ZAMANLI ÇALIŞMA HAKKININ KULLANIMINA İLİŞKİN YÖNETMELİK",
+  "published": "2025-07-18",
+  "enacted": "2025-07-17",
+  "gazette_number": "32959",
+  "in_force": "2025-07-18",
+  "in_force_basis": "Official commencement clause: \"Bu Yönetmelik yayımı tarihinde yürürlüğe girer.\"; Resmî Gazete 2025-07-18, no amendment annotation in this source text.",
+  "history": "current-only",
+  "version_label": "oldest version available",
+  "first_law": null,
+  "source": "https://www.mevzuat.gov.tr/anasayfa/MevzuatFihristDetayIframe?MevzuatNo=10108&MevzuatTur=21&MevzuatTertip=5",
+  "source_sha256": "c7b74fc35655b7b16d1aec5dfc4ee14d154d728e061d0e4724ebec8be7289ac4",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  },
+  "missing_components": [],
+  "text_layout": "article-files",
+  "source_links": [],
+  "completeness": "html-text-complete"
+}

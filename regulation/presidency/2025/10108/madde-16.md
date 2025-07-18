@@ -1,0 +1,4 @@
+Yarım zamanlı çalışma hakkının kullanımını kesmeyen durumlar
+MADDE 16- (1) Yarım zamanlı çalışma hakkını kullanmakta iken aylıksız izne veya refakat iznine ayrılan memur, bu izinlerin bitiminde yarım zamanlı çalışma hakkını kullanmaya devam eder.
+(2) Yarım zamanlı çalışma hakkını kullanmakta iken bu haktan yararlanamayacak kadro ünvanlarına vekâleten atanma veya görevlendirilme sebebiyle bu haktan yararlanması sona erdirilen memur, bu görevlerinin bitiminde yarım zamanlı çalışmaya devam eder.
+(3) Memur, yarım zamanlı çalışma hakkının 15 inci maddenin birinci fıkrasının (a) ve (b) bentlerine göre sona ermesinden sonra kadro ünvanının bu haktan yararlanamayacak kadro ünvanları arasından çıkarılması veya bu haktan yararlanabilecek bir kadro ünvanına atanması hâlinde isteği üzerine bu haktan tekrar yararlanır.
