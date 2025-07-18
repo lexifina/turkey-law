@@ -1,0 +1,21 @@
+Tanımlar
+MADDE 4 – (1) Bu Tebliğde geçen;
+a) (Değişik:RG-24/11/2017-30250) A sınıfı yumurta: Gallus gallus var. domesticus türüne ait tavuklardan elde edilen ve doğrudan insan tüketimine veya gıda sanayisinin kullanımına sunulan ve Ek-1’de yer alan kalite özelliklerini taşıyan kabuklu yumurtayı,
+b) (Değişik:RG-24/11/2017-30250) B sınıfı yumurta: Gallus gallus var. domesticus türüne ait tavuklardan elde edilen, A sınıfı yumurtanın Ek-1’de yer alan kalite özelliklerini karşılamayan, doğrudan insan tüketimine sunulmaya uygun olmayan ve işlenmek suretiyle yumurta ürünlerinin hazırlanmasına uygun kabuklu yumurtayı,
+c) Çatlak yumurta: Yumurta kabuğunun sert kısmının hasar gördüğü, ancak kabuk altı zarının bütünlüğünün bozulmadığı ve oluşan hasarın çıplak gözle görülebildiği yumurtayı,
+ç) Ekstra taze yumurta: Paketlendiği tarihte hava boşluğu 4 mm veya daha düşük olan, raf ömrü üretim tarihinden itibaren dokuz günü geçmeyen A sınıfı yumurtayı,
+d) (Değişik:RG-24/11/2017-30250) İşletme numarası: (Değişik ibare:RG-18/7/2025-32959) Tarım ve Orman Bakanlığının bilgisayar destekli veri tabanına kaydedilirken kanatlı işletmelerine Bakanlık il/ilçe müdürlükleri tarafından verilen, bir haneli yetiştirme metodu kodu, iki haneli ülke kodu ve iki haneli il trafik kodunun ardından gelen işletmeye özgü 10 rakamlı bir sayı ile birlikte toplam 15 haneden oluşan numarayı,
+e) Kırık yumurta: Yumurta kabuğunun sert kısmının ve kabuk altı zarının bütünlüğünün bozulduğu yumurtayı,
+f) Kuluçkalık yumurta: Civciv üretimi amacı ile elde edilen yumurtayı,
+g) Kuluçkalanmış yumurta: Kuluçka makinesine konmuş kuluçkalık yumurtayı,
+ğ) Kümes numarası: (Değişik ibare:RG-18/7/2025-32959) Tarım ve Orman Bakanlığının bilgisayar destekli veri tabanına kaydedilirken kanatlı işletmelerinde bulunan her bir kümesteki sürülere Bakanlık il/ilçe müdürlükleri tarafından verilen 1, 2, 3, ... gibi sıra numarasını,
+h) Temiz yumurta: Kabuk yüzeyinde hiçbir yabancı madde bulunmayan yumurtayı,
+ı) Yabancı madde: Doğal olarak yumurtanın yapısında yer almayan iç ve dış kaynaklı, organik ve inorganik maddeleri; yumurta içinde bulunabilecek kan lekeleri, kanlı oluşumlar, et benekleri ve embriyonal oluşumları,
+i) (Değişik:RG-24/11/2017-30250) Yumurta: Gallus gallus var. domesticus türüne ait tavuklardan elde edilen ve doğrudan insan tüketimine sunulmaya veya işlenmek suretiyle yumurta ürünlerinin hazırlanmasına uygun olan ve kırık, kuluçkalanmış ve pişmiş yumurtalar haricindeki kabuklu yumurtayı,
+j) Yumurta akı: Yumurta kabuğu ve yumurta sarısı arasında bulunan saydam maddeyi,
+k) Yumurta kabuğu: Yumurta içeriğini dıştan çevreleyen, dıştan içe doğru kütikula, kalsiyum tabakası ve çift katlı kabuk altı zarından oluşan yapıyı,
+l) Yumurta sarısı: Yumurtanın ortasında bulunan, vitelin zarı ile çevrilmiş sarı renkli maddeyi,
+m) (Değişik:RG-18/7/2025-32959) Yumurta ürünleri: Yumurtanın veya yumurta bileşenlerinin veya yumurta karışımlarının işlenmesinden veya bu işlenmiş ürünlerin daha ileri düzeyde işlenmesinden elde edilen işlenmiş ürünleri,
+n) (Ek:RG-24/11/2017-30250) Gıda sanayi: 17/12/2011 tarihli ve 28145 sayılı Resmî Gazete’de yayımlanan Gıda İşletmelerinin Kayıt ve Onay İşlemlerine Dair Yönetmelik hükümleri gereğince, yumurta ürünleri üretimine dair işletme onay belgesi almış sıvı yumurta ve işleme tesislerini,
+o) (Ek:RG-18/7/2025-32959) Hava boşluğu: Yumurtanın küt tarafında kabuk altındaki iç ve dış zarların arasındaki havayı,
+ifade eder.

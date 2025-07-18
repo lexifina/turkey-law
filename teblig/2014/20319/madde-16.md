@@ -1,0 +1,3 @@
+Avrupa Birliği’ne uyum
+MADDE 16 – (Değişik:RG-18/7/2025-32959)
+(1) Bu Tebliğ, Yumurta Pazarlama Standartlarına İlişkin (AB) 1308/2013 sayılı Avrupa Parlamentosu ve Konsey Tüzüğünü tamamlayan ve (AT) 589/2008 sayılı Komisyon Tüzüğünü yürürlükten kaldıran 17/8/2023 tarihli ve (AB) 2023/2465 sayılı Yetki Devrine Dayanan Komisyon Tüzüğü, Yumurta Pazarlama Standartları ile ilgili olarak (AB) 1308/2013 sayılı Avrupa Parlamentosu ve Konsey Tüzüğünün uygulamasına dair kuralları ortaya koyan 17/8/2023 tarihli ve (AB) 2023/2466 sayılı Komisyon Uygulama Tüzüğü dikkate alınarak Avrupa Birliği mevzuatına uyum çerçevesinde hazırlanmıştır.

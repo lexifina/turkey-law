@@ -1,0 +1,2 @@
+Hijyen
+MADDE 10 – (1) Bu Tebliğ kapsamında yer alan ürünlerin mikrobiyolojik kriterleri ve hijyen hususlarında, (Değişik ibare:RG-18/7/2025-32959) 13/2/2025 tarihli ve 32812 sayılı Resmî Gazete’de yayımlanan Türk Gıda Kodeksi Mikrobiyolojik Kriterler Yönetmeliği, 27/12/2011 tarihli ve 28155 sayılı Resmî Gazete’de yayımlanan Hayvansal Gıdalar İçin Özel Hijyen Kuralları Yönetmeliği ile 17/12/2011 tarihli ve 28145 sayılı Resmî Gazete’de yayımlanan Gıda Hijyeni Yönetmeliğinde yer alan hükümler uygulanır.

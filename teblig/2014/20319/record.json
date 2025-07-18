@@ -1,0 +1,54 @@
+{
+  "source_id": "9.5.20319",
+  "kind": "communique",
+  "register_kind": "Tebliğler",
+  "title": "TÜRK GIDA KODEKSİ YUMURTA TEBLİĞİ (2014/55)",
+  "number": "20319",
+  "path": "teblig/2014/20319",
+  "source": "https://www.mevzuat.gov.tr/anasayfa/MevzuatFihristDetayIframe?MevzuatTur=9&MevzuatNo=20319&MevzuatTertip=5",
+  "source_sha256": "f0c157875988e5f03cc252f0d37a9d42f0781d32e93793508ff93720dcedee1a",
+  "source_bytes": 35838,
+  "published": "2014-12-20",
+  "gazette": "29211",
+  "in_force": "2025-07-18",
+  "in_force_basis": "latest Resmî Gazete date printed in the source amendment notes/table (\"RG-18/7/2025\") for the current consolidated text",
+  "date_evidence": [
+    [
+      "2025-07-18",
+      "RG-18/7/2025",
+      "Resmî Gazete date printed in the source amendment note"
+    ],
+    [
+      "2025-07-18",
+      "18/7/2025",
+      "Resmî Gazete date in the source amendment table"
+    ],
+    [
+      "2017-11-24",
+      "RG-24/11/2017",
+      "Resmî Gazete date printed in the source amendment note"
+    ],
+    [
+      "2017-11-24",
+      "24/11/2017",
+      "Resmî Gazete date in the source amendment table"
+    ]
+  ],
+  "commencement_clauses": [
+    "Bu Tebliğ yayımı tarihinde yürürlüğe girer"
+  ],
+  "history": "current-text",
+  "label": "oldest version available",
+  "checked_on": "2026-11-15",
+  "word_count": 2097,
+  "text_status": "current-consolidated",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  },
+  "source_links": [
+    "9.5.20319-EK.doc"
+  ],
+  "completeness": "html-text-complete; linked annexes not fetched"
+}
