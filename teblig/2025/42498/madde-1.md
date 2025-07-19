@@ -1,0 +1,2 @@
+Amaç ve kapsam
+MADDE 1- (1) Bu Tebliğin amacı, 9/8/2024 tarihli ve 32627 sayılı Resmî Gazete’de yayımlanan İthalatta Haksız Rekabetin Önlenmesine İlişkin Tebliğ (Tebliğ No: 2024/27) ile Mısır Arap Cumhuriyeti menşeli 6802.23 ve 6802.93 gümrük tarife pozisyonları altında sınıflandırılan “granit” ürününe yönelik başlatılan ve Ticaret Bakanlığı İthalat Genel Müdürlüğü tarafından yürütülen damping soruşturmasının tamamlanması neticesinde alınan kararın yürürlüğe konulmasıdır.
