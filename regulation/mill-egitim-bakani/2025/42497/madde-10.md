@@ -1,0 +1,2 @@
+Başvuru şartları
+MADDE 10- (1) Eserlerinin yayımlanması için başvuruda bulunanlar; metin, imla, terim, dil, harita, resim, şekil, nota ve benzeri unsurlar açısından düzenlenmiş ve ön tasarımı yapılmış eserlerini dosya hâlinde hazırlayarak bu dosyayı, varsa telif belgelerini, öz geçmişini dijital depolama ortamında başvuru yazısı ile birlikte Genel Müdürlüğe teslim eder. Başvurusu yapılan eser hakkındaki inceleme Yayın Kurulunca en geç altı ay içerisinde tamamlanır.

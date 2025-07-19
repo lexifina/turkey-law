@@ -1,0 +1,28 @@
+Tanımlar
+MADDE 3- (1) Bu Yönetmelikte geçen;
+a) Alan editörü: Kültür eserlerinin yayım sürecini, tek eser veya kategori/bölüm bazında, içerik, tasarım ve yazarlarla ilişkiler açısından yöneten ve izleyen kişiyi,
+b) Bakan: Millî Eğitim Bakanını,
+c) Bakanlık: Millî Eğitim Bakanlığını,
+ç) Bakan Yardımcısı: İlgili Genel Müdürlüğün bağlı olduğu Bakan Yardımcısını,
+d) Daire Başkanı: İlgili Daire Başkanını,
+e) Daire Başkanlığı: İlgili Daire Başkanlığını,
+f) Danışma Kurulu: Bakan onayı ile oluşturulan istişare kurulunu,
+g) Derleme: Özgün eser üzerindeki haklar saklı kalmak kaydıyla, ansiklopediler ve antolojiler gibi muhtevası seçme ve düzenlemelerden oluşan ve bir düşünce yaratıcılığı sonucu olan eseri,
+ğ) Dijital depolama üniteleri: Yayıma hazırlanmış veya basılmış kitap ve derginin her türlü dijital ortamda umuma iletilmesi amacıyla arşivlendiği üniteleri,
+h) Dijital yayın: Yayıma hazırlanmış veya basılmış kitap ve derginin her türlü dijital ortamda umuma iletilmesi amacıyla oluşturulmuş şeklini,
+ı) Genel Müdür: Destek Hizmetleri Genel Müdürünü,
+i) Genel Müdürlük: Destek Hizmetleri Genel Müdürlüğünü,
+j) İşlenme eser: Diğer bir eserden faydalanarak oluşturulmuş, oluşturulan eserden bağımsız olmayan, işleyen yazarın özgünlüğünü taşıyan fikir ve sanat ürünlerini,
+k) Kültür eserleri: Roman, hikâye, öykü, şiir, deneme, günlük, anı, araştırma, inceleme, efsane, masal, mizah, piyes, söyleşi türü ve benzeri kitap veya süreli yayın niteliğinde matbu veya dijital yayınları,
+l) MEB Döner Sermaye İşletmesi: Millî Eğitim Bakanlığı Döner Sermaye İşletmesini,
+m) Sipariş: Bakanlığın kişi, komisyon, kurum veya kuruluşlara hazırlatacakları kültür eserini,
+n) Süreli yayın: Bakanlığın belirli aralıklarla yayımladığı dergi, bülten, mecmua ve benzerini,
+o) Telif eser: Herhangi bir şekilde dil ve yazı ile ifade olunan eserler ile doğrudan meydana getirilen fikir mahsullerini,
+ö) Tercüme eser: Yazıldığı dilden, başka bir dile çevrilen eseri,
+p) Yayım: Kitap, dergi ve benzeri eserlerin basılıp dağıtılmasını ve dijital ortamlarda umuma iletilmesini,
+r) Yayın: Kitap, dergi veya benzeri matbu ve dijital eserleri,
+s) Yayın inceleme komisyonları: Bakanlık personeli ve/veya Bakanlık dışından oluşturulan ve Bakanlıkça hazırlanan, hazırlatılan veya başvurusu yapılan eserleri inceleyerek Yayın Kuruluna görüş bildiren komisyonları,
+ş) Yayın Kurulu: Bakan onayı ile Bakanlık merkez teşkilatı personelinden oluşturulan kurulu,
+ifade eder.
+İKİNCİ BÖLÜM
+Kurulların ve İnceleme Komisyonlarının Oluşturulması, Eserlerin İncelenmesi,

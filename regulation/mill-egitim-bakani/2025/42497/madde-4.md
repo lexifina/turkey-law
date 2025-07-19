@@ -1,0 +1,5 @@
+Seçilmesi, Yayımlanması ve Temel İlkeler
+Kurulların ve inceleme komisyonlarının oluşturulması ve süresi
+MADDE 4- (1) Danışma Kurulu, Bakan onayı ile oluşturulur. Kurul üyeleri; kültür yayınları alanında tecrübesi olan Bakanlık personeli ve/veya Bakanlık dışındaki kişilerden seçilir. Bakan Yardımcısı ve Genel Müdür, Danışma Kurulunun doğal üyesi olup Danışma Kurulu, doğal üyeler hariç on üç üyeden oluşur. Danışma Kuruluna Bakan veya Bakan Yardımcısı başkanlık eder. Danışma Kurulu üyelerinin görev süresi azami dört yıldır.
+(2) Yayın Kurulu, Bakan onayı ile Bakanlık merkez teşkilatı personelinden oluşturulur. Yayın Kurulu en az on üç üyeden oluşur. Yayın Kuruluna Bakan Yardımcısı veya Genel Müdür başkanlık eder. Yayın Kurulu üyelerinin görev süresi azami dört yıldır.
+(3) Yayın inceleme komisyonları; başvurusu yapılan, hazırlatılan ya da Bakanlık tarafından satın alınacak eserleri 9 uncu maddedeki ilkeleri göz önünde bulundurarak inceler. Yayın inceleme komisyonları, eserin içeriğine göre alanında uzman en az üç kişiden oluşturulur. İlgili Komisyon üyeleri, görüşlerini bir raporla Yayın Kuruluna sunar.

@@ -1,0 +1,2 @@
+Birimlerce hazırlanan eserlerin incelenmesi
+MADDE 14- (1) Bakanlık birimleri kendi görev ve sorumluluk alanlarına ilişkin yayımlanmasını planladıkları veya önerdikleri eserleri Yayın Kuruluna inceletmek üzere Genel Müdürlüğe başvurur. Yayın Kurulu, başvurusu yapılan eserleri bu Yönetmelik hükümleri çerçevesinde inceler veya inceletir. Söz konusu eserlerin görüşüleceği toplantılara bilgi vermek üzere gerekirse ilgili Bakanlık birimi davet edilir. İnceleme sonucu basımı uygun bulunması hâlinde, yayımlayacak birim, eseri Bakan onayına sunar ve yayım sürecini takip eder.
