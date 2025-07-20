@@ -1,0 +1,1 @@
+[1] 20/7/2025 tarihli ve 32961 sayılı Resmî Gazete’de yayımlanan değişiklik ile Yönetmeliğin adı ‘‘Zonguldak Bülent Ecevit Üniversitesi Kadın Sorunları Uygulama ve Araştırma Merkezi Yönetmeliği’’ iken metne işlendiği şekilde değiştirilmiştir.
