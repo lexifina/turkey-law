@@ -1,0 +1,21 @@
+{
+  "record_type": "parliament-written-question",
+  "term": 28,
+  "legislative_year": 3,
+  "esas_no": "7/32058",
+  "submitted": "2025-07-23",
+  "submitted_as": "Başkanlığa geliş tarihi",
+  "mp": "Yüksel TAŞKIN",
+  "province": "İzmir",
+  "summary": "YÖK'ün ilgili listesinde yer alan ve FETÖ/PDY terör örgütü ile irtibat ve iltisakları olduğuna karar verilen üniversite, enstitü ve programlardan 2016-2017 akademik yılından önce mezun olan kaç kişiye denklik verildiğine ilişkin",
+  "status": "Cevaplandı",
+  "status_as_of": "2026-11-16",
+  "official_record": "https://www.tbmm.gov.tr/Denetim/Yazili-Soru-Onergesi-Detay/6ef3ef65-5f1c-48c6-9ad7-01983b8555b9",
+  "source": "https://tbmm.gov.tr/Denetim/YaziliSoruOnergesiTable",
+  "source_form": "https://tbmm.gov.tr/Denetim/Yazili-Soru-Onergeleri",
+  "source_sha256": "65917da2641ac7fa4e79faf139deed6ecdc5c3106ca42f6c73072a4910e10ac7",
+  "in_force": "2025-07-23",
+  "in_force_basis": "Date the question reached the Speaker (Başkanlığa geliş tarihi) in the official TBMM written-question record; parliamentary oversight record, not law",
+  "history_type": "metadata",
+  "text_status": "metadata-only: question text, addressee and answers are in the linked official record (PDFs on cdn.tbmm.gov.tr); not transcribed here"
+}
