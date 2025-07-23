@@ -1,0 +1,2 @@
+Kapsam
+MADDE 2- (1) Bu Yönetmelik, 6735 sayılı Kanuna aykırı bir şekilde izinsiz çalıştığı tespit edilerek il göç idaresi müdürlüğüne bildirilen yabancılardan haklarında sınır dışı etme kararı alınanları, bu yabancıları izinsiz çalıştıran işveren ve işveren vekilini, anılan yabancıların varsa eş ve çocuklarını ve bu kişiler için Göç İdaresi Başkanlığı bütçesinden yapılan ve yabancıdan tahsil edilemeyen masrafları kapsar.
