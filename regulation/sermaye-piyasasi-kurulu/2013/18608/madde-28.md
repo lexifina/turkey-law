@@ -1,0 +1,7 @@
+Borsada kotasyon ve işlem görme
+MADDE 28 – (1) İşlem görecek araçlar ancak Kanuna dayanılarak çıkarılan düzenlemelerde yer alan şartların sağlanması hâlinde borsa kotuna alınabilir veya işlem görmeye kabul edilebilir. TCMB ve Hazine Müsteşarlığı tarafından ihraç edilmiş sermaye piyasası araçlarının başvuru halinde borsa kotuna alınması zorunludur.
+(2) Borsa kotuna alıp almama veya işlem görmeye kabul edip etmeme konusunda yetkili merci, ilgili borsanın yönetim kuruludur.
+(3) Borsalar, kota alınan veya işlem gören araçları ihraç edenlerin Kurulca belirlenen kamuyu aydınlatma yükümlülüklerini yerine getirmelerini sağlamaya yönelik düzenlemeler yaparlar. Borsalar, kamuya açıklanacak bilgilere erişim konusunda Kurulca belirlenen kurallara uymak zorundadırlar.
+(4) Borsalar ve piyasa işleticileri, kotta bulunan veya işlem gören araçların ilgili şartlara uyduğunu düzenli olarak gözden geçirmeye yönelik gerekli düzenlemeleri yaparlar.
+(5) Bir borsa kotunda bulunan ya da işlem gören araç, Kanun ve ilgili düzenlemeler çerçevesinde başka bir borsada da kota alınabilir ya da işlem görebilir.
+(6) Borsa kotuna alma ya da işlem görme şartları, ihraççıların veya işlem görecek araçların türlerine göre ya da piyasa, pazar, platform veya sistemler bazında farklı kotasyon ve/veya işlem görme koşullarının belirlenmesi, kotasyon ya da işlem görme başvurusu, başvuru sırasında istenecek bilgi ve belgeler borsalar tarafından yapılacak incelemeler, borsa kotunda kalma şartları ve sair konularla ilgili usul ve esaslar Borsa Yönetmeliğinde gösterilir.

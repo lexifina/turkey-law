@@ -1,0 +1,6 @@
+Genel müdür
+MADDE 20 – (1) Genel müdür, ilgili mevzuat ve yönetim kurulu kararları doğrultusunda kendisine bırakılmış ve devredilmiş yönetim ve temsile ilişkin işleri yürütür.
+(2) Genel müdürün yükseköğrenim sonrası malî piyasalar, ekonomi, maliye, işletme, sermaye piyasaları, bankacılık veya finans alanında en az on yıl deneyim sahibi olması zorunludur.
+(3) Genel müdür olarak atanacakların bu maddenin ikinci fıkrasında ve bu Yönetmeliğin 10 uncu maddesinde aranan şartları taşıdıklarını gösteren belgelerle birlikte Kurula bildirilmesi şarttır. Genel müdürün atanması, Kurul tarafından bildirimin alındığı tarihten itibaren on beş işgünü içinde olumsuz bir görüş bildirilmediği takdirde yapılabilir.
+(4) Genel müdürün münhasıran bu görev için atanmış olması zorunludur.
+(5) Genel müdür, borsanın yönetim, denetim veya sermaye ilişkisinde bulunduğu kuruluşlar, bu kuruluşların doğrudan ya da dolaylı olarak yönetim, sermaye veya denetim kontrolüne sahip olduğu kuruluşlar ile borsalar ve teşkilatlanmış piyasalar, takas ve saklama kuruluşları ve Kurulca uygun görülecek diğer finansal kuruluşlarda, icrai nitelikte olmamak ve borsadaki görevin ifasında zafiyete düşülmemesi kaydıyla, yönetim kurulu başkanlığı ve üyeliği gibi görevler alabilir.

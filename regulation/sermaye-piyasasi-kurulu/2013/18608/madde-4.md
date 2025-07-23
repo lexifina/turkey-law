@@ -1,0 +1,16 @@
+Tanım ve kısaltmalar
+MADDE 4 – (1) Bu Yönetmelikte geçen,
+a) Borsa: Anonim şirket şeklinde kurulan, sermaye piyasası araçları, kambiyo ve kıymetli madenler ile kıymetli taşların ve Kurulca uygun görülen diğer sözleşmelerin, belgelerin ve kıymetlerin serbest rekabet şartları altında kolay ve güvenli bir şekilde alınıp satılabilmesini sağlamak ve oluşan fiyatları tespit ve ilân etmek üzere kendisi veya piyasa işleticisi tarafından işletilen ve/veya yönetilen, alım-satım emirlerini sonuçlandıracak şekilde bir araya getiren veya bu emirlerin bir araya gelmesini kolaylaştıran, Kanuna uygun olarak yetkilendirilen ve düzenli faaliyet gösteren sistemleri ve pazar yerlerini,
+b) Borsa Yönetmelikleri: 6362 sayılı Sermaye Piyasası Kanunu ve bu Yönetmelik uyarınca borsa tarafından hazırlanacak ve Kurulca onaylanacak yönetmelikleri,
+c) İlgili Bakan: Sermaye Piyasası Kurulunun ilgili olduğu Bakanı,
+ç) İşlem görecek araçlar: Kanunda tanımlanan sermaye piyasası araçlarını, kambiyo ve kıymetli madenler ile kıymetli taşları ve Kurulca uygun görülen diğer sözleşmeleri, belgeleri ve kıymetleri,
+d) Kanun: 6362 sayılı Sermaye Piyasası Kanununu,
+e) Kurul: Sermaye Piyasası Kurulunu,
+f) (Ek:RG-28/8/2015-29459) (1) Merkezi karşı taraf hizmeti: 14/8/2013 tarihli ve 28375 sayılı Resmî Gazete’de yayımlanan İstanbul Takas ve Saklama Bankası Anonim Şirketi Merkezi Karşı Taraf Yönetmeliğinde tanımlanan merkezi karşı taraf hizmetini,
+g) Önemli Etkiye Sahip Ortak : Kanun uyarınca kurulmuş olan borsalar ve T.C. Başbakanlık Hazine Müsteşarlığı hariç, bir borsa veya piyasa işleticisinde sermaye veya oy haklarının doğrudan veya dolaylı olarak %5 veya daha fazlasını temsil eden paylar ile bu oranın altında olsa dahi yönetim kurullarına üye belirleme imtiyazı veren paylara sahip olan ortağı,
+ğ) Piyasa işleticisi: Borsayı veya borsanın piyasalarını yöneten ve/veya işleten anonim ortaklıkları,
+h) TCMB: Türkiye Cumhuriyet Merkez Bankası Anonim Şirketini,
+ı) TTK: 13/1/2011 tarihli ve 6102 sayılı Türk Ticaret Kanununu,
+i) Üye: Borsada işlem yapma yetkisi verilenleri,
+j) Yönetici: Yönetim Kurulu Başkanı ve Üyeleri, Genel Müdür ve Yardımcıları ile iç kontrol, risk yönetimi, denetim ve gözetim birimlerinden sorumlu kişi veya kişileri,
+ifade eder.

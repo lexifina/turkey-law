@@ -1,0 +1,5 @@
+Borsa İstanbul Anonim Şirketine ilişkin geçiş hükümleri
+GEÇİCİ MADDE 1 – (1) Borsa İstanbul Anonim Şirketi, Kanunun 65 inci maddesinde yer alan borsaların ve piyasa işleticilerinin kuruluşuna ve faaliyetine ilişkin izni almış sayılır.
+(2) Borsa İstanbul Anonim Şirketinin mevcut yöneticileri için, Kurulca, yönetici olarak seçilme veya atanma şartlarını taşıdıklarına dair tevsik edici bilgi ve belge istenmez.
+(3) Borsa İstanbul Anonim Şirketinin hesap ve işlemlerinin denetiminde Kanunun 138 inci maddesinin onbirinci fıkra hükümleri uygulanır.
+(4) Bu Yönetmeliğin 15 inci maddesinin beş ve altıncı fıkraları, 16 ncı maddesinin bir ve üçüncü fıkraları (Değişik ibare:RG-6/10/2021-31620) , 22 nci ve 23 üncü maddeleri hariç olmak üzere üçüncü bölümü ile 8 inci maddesi Borsa İstanbul Anonim Şirketine uygulanmaz. Bu hususlarla ilgili Borsa İstanbul Anonim Şirketi esas sözleşmesi hükümleri uygulanır. Söz konusu 8 inci madde ve üçüncü bölüm hükümleri bu Yönetmeliğin yayımlanmasından sonra kurulacak borsa ve piyasa işleticileri için geçerlidir.

@@ -1,0 +1,5 @@
+İşlem görmenin durdurulması ve/veya kottan çıkarma
+MADDE 30 – (1) Borsa veya piyasa işleticisi, işlem gören araçların işlemlerinin durdurulması ve/veya kottan çıkarılması ile ilgili esasları Borsa Yönetmeliğinde düzenler. Borsa bu düzenlemelerde öngörülen şartların oluşması hâlinde, ilgili aracın işlem görmesini durdurabileceği gibi kottan da çıkarabilir. Bu durum derhâl Kurula bildirilir ve kamuya açıklanır.
+(2) Kurulun işlem görecek araçların borsada işlem görmesini durdurma ve borsa kotundan çıkarma yetkisi saklıdır.
+(3) (Değişik:RG-19/10/2014-29150) Borsalarda olağandışı olumsuz gelişmelerin olması halinde, ilgili borsalarda işlemlerin geçici olarak durdurulmasına karar verilebilir. Borsalarda işlemlerin beş işlem gününe kadar geçici olarak durdurulmasına karar almak yönetim kuruluna aittir. Bu durum derhâl Kurula bildirilir ve kamuya açıklanır.
+(4) (Değişik:RG-19/10/2014-29150) Yönetim kurulunun talebi üzerine borsalarda işlemlerin beş işlem gününden fazla durdurulmasına karar almak Kurulun yetkisindedir.

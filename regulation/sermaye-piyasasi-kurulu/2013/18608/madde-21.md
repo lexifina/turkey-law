@@ -1,0 +1,3 @@
+Borsaların teşkilatı ve personeli
+MADDE 21 – (1) Bu Yönetmelik ve ilgili mevzuatla borsalara verilmiş görevlerin yerine getirilmesi ve yetkilerin kullanılmasına ilişkin hususların düzenlenmesine yönelik olarak; borsaların teşkilatı, hizmet birimleri, organizasyonu, görev tanımları, yetki ve sorumlulukları ile görevlilerin çalışma usul ve esasları genel müdürün teklifi üzerine yönetim kurulunca karar verilerek yürürlüğe konulacak teşkilat yönergesinde gösterilir.
+(2) Borsa personelinin işe alınmaları, işten çıkarılmaları, nitelikleri, ilerleme ve yükselmeleri, performans ölçütleri, ödev, sorumluluk ve yükümlülükleri, uymaları gereken yasaklar ile disiplin konuları genel müdürün teklifi üzerine yönetim kurulunca karar verilerek yürürlüğe konulacak yönerge ile belirlenir.

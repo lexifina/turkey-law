@@ -1,0 +1,6 @@
+Yönetim kurulu yapısı
+MADDE 16 – (1) (Değişik:RG-20/3/2019-30720) Yönetim kurulu üyelerinin yükseköğretim kurumlarının dört yıllık bölümlerinden mezun tercihen işletme, iktisat, maliye, kamu yönetimi, uluslararası ilişkiler, hukuk, mühendislik, sermaye piyasaları veya bankacılık alanlarında lisans veya lisansüstü öğrenim görmüş ve yükseköğrenim sonrası en az on yıllık mesleki deneyime sahip olmaları zorunludur. Yönetim kurulu üyelerinin en az üçte birinin on yıllık sermaye piyasaları mesleki deneyimine sahip olması gerekir.
+(2) Yönetim kurulu üyeleri en fazla üç yıl için seçilirler. Süresi biten üyenin tekrar seçilmesi mümkündür. Süresi bitmeden yönetim kurulu üyeliğinin sona ermesi halinde yönetim kurulu tarafından yapılacak ilk genel kurula kadar görev yapmak üzere TTK hükümleri çerçevesinde yeni üye seçilir.
+(3) Yönetim kurulu üyelerinin seçimine ilişkin yönetim kurulu kararı alındığı tarihten itibaren beş iş günü içerisinde yönetim kurulu üyeliğine seçilen kişinin bu maddede ve bu Yönetmeliğin 10 uncu maddesinde sayılan şartları taşıdığına dair belgeler ile birlikte Kurula bildirilir.
+(4) Yönetim kurulunda Kanunun 73 üncü maddesi uyarınca borsalar için Kurulca belirlenecek olan Kurumsal Yönetim İlkeleri çerçevesinde yeterli sayıda Bağımsız Yönetim Kurulu üyesi bulunur.
+(5) Genel müdür yönetim kurulunun doğal üyesidir.
