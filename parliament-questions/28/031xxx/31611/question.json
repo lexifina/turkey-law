@@ -1,0 +1,21 @@
+{
+  "record_type": "parliament-written-question",
+  "term": 28,
+  "legislative_year": 3,
+  "esas_no": "7/31611",
+  "submitted": "2025-07-23",
+  "submitted_as": "Başkanlığa geliş tarihi",
+  "mp": "Uğur BAYRAKTUTAN",
+  "province": "Artvin",
+  "summary": "Memurlara verilen yarı zamanlı çalışma hakkına ilişkin",
+  "status": "Cevaplandı",
+  "status_as_of": "2026-11-16",
+  "official_record": "https://www.tbmm.gov.tr/Denetim/Yazili-Soru-Onergesi-Detay/a085d463-e688-4f31-8338-01983b8e481c",
+  "source": "https://tbmm.gov.tr/Denetim/YaziliSoruOnergesiTable",
+  "source_form": "https://tbmm.gov.tr/Denetim/Yazili-Soru-Onergeleri",
+  "source_sha256": "f669cdf22783977d220fcefaacb395496c5de3e8781ba053b930d5a34e21929f",
+  "in_force": "2025-07-23",
+  "in_force_basis": "Date the question reached the Speaker (Başkanlığa geliş tarihi) in the official TBMM written-question record; parliamentary oversight record, not law",
+  "history_type": "metadata",
+  "text_status": "metadata-only: question text, addressee and answers are in the linked official record (PDFs on cdn.tbmm.gov.tr); not transcribed here"
+}
