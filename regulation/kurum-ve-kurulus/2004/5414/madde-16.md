@@ -1,0 +1,3 @@
+Tutanak Düzenlenmesine Dair İşlemler
+Madde 16 — (Değişik:RG-15/3/2014-28942)
+Müfettişler, Kanuna göre suç ve kabahat sayılan fiilleri işleyenler hakkında işlem yapılması gayesi ile kendilerine verilen tutanağı Kanunun 20 nci maddesi kapsamında av koruma kontrolünde görevli olanlarla birlikte düzenleyebilecekleri gibi, ihbar niteliğinde münferiden de düzenleme yetkisine de sahiptirler. Müfettişler münferiden düzenledikleri tutanakların bir nüshasını, müfettişlik kimlik belgelerini ibraz ederek, (Değişik ibare:RG-24/7/2025-32965) doğa koruma ve milli parklar müdürlüğü, şeflik veya orman idaresine, delillerin kaybolabileceği hallerde derhal diğer hallerde ise en geç yedi gün içinde, kabahatliler hakkında yasal işlem yapılmak üzere imza karşılığı teslim ederler.

@@ -1,0 +1,8 @@
+Eğitimde Verilecek Konular ve Sınav Esasları
+Madde 9 — (Değişik:RG-15/3/2014-28942)
+Müfettiş adaylarına verilecek eğitim ile ilgili program bölge müdürlüklerince belirlenir.
+Bölge müdürlüklerince yapılacak eğitim sonunda, av ve yaban hayatı ile ilgili mevzuat konusunda otuz, halkla ilişkiler ile ilgili yirmi olmak üzere toplam elli soru sorulur. Sınavda yüz üzerinden yetmiş ve daha yukarı puan alanlar başarılı sayılırlar.
+Eğitim programına katılmayan adaylar sınava alınmaz.
+Sınav sonunda müfettiş olmaya hak kazananların sayısı o il için belirlenen ve Genel Müdürlükçe onaylanan müfettiş sayısından fazla olması halinde, sınavda alınan puanlar esas alınarak en yüksek puan alandan başlamak üzere, il için belirlenen müfettiş sayısı kadar aday asil, diğer adaylar ise yedek müfettiş olarak belirlenir.
+Sınav sonunda müfettiş olmaya hak kazananların sayısı il için belirlenen ve Genel Müdürlükçe onaylanan müfettiş sayısından az olması halinde ise sınavda başarılı olanlar asil müfettiş olarak belirlenir. İl için belirlenen müfettiş sayısından geriye kalan müfettişlik görev ve unvanı için başvurular olduğunda bölge müdürlüğünün belirleyeceği tarihte yeniden eğitim düzenlenir ve sınav yapılır. Yapılan bu sınavda başarılı olanlar, puan sıralaması esas alınarak il için belirlenen müfettiş sayısından kalan sayı kadar asil müfettiş olarak belirlenir.
+Bölge müdürlüklerince yapılan eğitim ve sınav sonucunda başarılı olanlardan, sınav sonuçları başarı sıralamasına göre asil ve yedek müfettiş listesi düzenlenerek bir tutanakla tespit edilir. Asil ve yedek müfettişlerin listeleri bölge müdürünce valiliklere onaya sunulur ve onaylanan listeler dosyasında muhafaza edilir.
