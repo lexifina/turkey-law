@@ -1,0 +1,25 @@
+{
+  "kind": "norm",
+  "issuer": "Enerji Piyasası Düzenleme Kurumu",
+  "market": "natural-gas",
+  "document_type": "board-decision",
+  "number": "13658",
+  "decision_date": "2025-07-24",
+  "title": "Akmercan Artvin Doğal Gaz Dağıtım Sanayi ve Ticaret Anonim Şirketi’nin perakende satış tarifelerine yönelik",
+  "resmi_gazete_date": "2025-07-26",
+  "resmi_gazete_number": "32967",
+  "categories": [
+    "Şirket Bazında Kararlar"
+  ],
+  "source": "https://www.epdk.gov.tr/Detay/DownloadDocument?id=A7wKF/5Bugc=",
+  "documents": [
+    "https://www.epdk.gov.tr/Detay/DownloadDocument?id=A7wKF/5Bugc="
+  ],
+  "source_sha256": "cd86ebe66ef12e51fadce9a2fc65d140d642c18bdb049491e3bc2599c5567167",
+  "official_list": "https://www.epdk.gov.tr/Detay/Icerik/3-0-19/kurul-kararlari",
+  "official_list_leaf": 7236,
+  "text_status": "as-enacted",
+  "text_file": "metin.md",
+  "in_force": "2025-07-24",
+  "law_text_complete": true
+}
