@@ -1,0 +1,26 @@
+{
+  "kind": "norm",
+  "issuer": "Enerji Piyasası Düzenleme Kurumu",
+  "market": "natural-gas",
+  "document_type": "board-decision",
+  "number": "13662",
+  "decision_date": "2025-07-24",
+  "title": "Doğugaz Kars Ardahan Doğalgaz Dağıtım Anonim Şirketi’nin üçüncü tarife uygulama dönemi perakende satış tarifelerine yönelik",
+  "resmi_gazete_date": "2025-07-26",
+  "resmi_gazete_number": "32967",
+  "categories": [
+    "Şirket Bazında Kararlar"
+  ],
+  "source": "https://www.epdk.gov.tr/Detay/DownloadDocument?id=uWGKC1WhVf4=",
+  "documents": [
+    "https://www.epdk.gov.tr/Detay/DownloadDocument?id=uWGKC1WhVf4=",
+    "https://www.epdk.gov.tr/Detay/DownloadDocument?id=YwqLCfKN79I="
+  ],
+  "source_sha256": "03a155c1a79dbfb06458331999dd8c91343464d54a22170c0638159cef3e3a0d",
+  "official_list": "https://www.epdk.gov.tr/Detay/Icerik/3-0-19/kurul-kararlari",
+  "official_list_leaf": 7236,
+  "text_status": "as-enacted",
+  "text_file": "metin.md",
+  "in_force": "2025-07-24",
+  "law_text_complete": true
+}
