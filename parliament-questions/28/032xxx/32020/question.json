@@ -1,0 +1,21 @@
+{
+  "record_type": "parliament-written-question",
+  "term": 28,
+  "legislative_year": 3,
+  "esas_no": "7/32020",
+  "submitted": "2025-07-24",
+  "submitted_as": "Başkanlığa geliş tarihi",
+  "mp": "Şahzade DEMİR",
+  "province": "Gaziantep",
+  "summary": "Kolombiya'da düzenlenen bir uluslararası konferansta İsrail'e karşı hazırlanan eylem planına yönelik ülkemizin tutumuna ilişkin",
+  "status": "Cevaplanmadığı Gelen Kağıtlarda İlan Edildi",
+  "status_as_of": "2026-11-16",
+  "official_record": "https://www.tbmm.gov.tr/Denetim/Yazili-Soru-Onergesi-Detay/2ab3508c-e797-4c82-9fc5-019840a9c8ca",
+  "source": "https://tbmm.gov.tr/Denetim/YaziliSoruOnergesiTable",
+  "source_form": "https://tbmm.gov.tr/Denetim/Yazili-Soru-Onergeleri",
+  "source_sha256": "65917da2641ac7fa4e79faf139deed6ecdc5c3106ca42f6c73072a4910e10ac7",
+  "in_force": "2025-07-24",
+  "in_force_basis": "Date the question reached the Speaker (Başkanlığa geliş tarihi) in the official TBMM written-question record; parliamentary oversight record, not law",
+  "history_type": "metadata",
+  "text_status": "metadata-only: question text, addressee and answers are in the linked official record (PDFs on cdn.tbmm.gov.tr); not transcribed here"
+}
