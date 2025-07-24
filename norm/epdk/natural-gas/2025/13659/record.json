@@ -1,0 +1,25 @@
+{
+  "kind": "norm",
+  "issuer": "Enerji Piyasası Düzenleme Kurumu",
+  "market": "natural-gas",
+  "document_type": "board-decision",
+  "number": "13659",
+  "decision_date": "2025-07-24",
+  "title": "Akmercan Hakkari Şırnak Doğal Gaz Dağıtım Sanayi ve Ticaret Anonim Şirketi’nin perakende satış tarifelerine yönelik",
+  "resmi_gazete_date": "2025-07-26",
+  "resmi_gazete_number": "32967",
+  "categories": [
+    "Şirket Bazında Kararlar"
+  ],
+  "source": "https://www.epdk.gov.tr/Detay/DownloadDocument?id=7G3goWE3C04=",
+  "documents": [
+    "https://www.epdk.gov.tr/Detay/DownloadDocument?id=7G3goWE3C04="
+  ],
+  "source_sha256": "cb9655c4770a91d68e34b474b1b90b34b2f45343318533db2361036c287fe98a",
+  "official_list": "https://www.epdk.gov.tr/Detay/Icerik/3-0-19/kurul-kararlari",
+  "official_list_leaf": 7236,
+  "text_status": "as-enacted",
+  "text_file": "metin.md",
+  "in_force": "2025-07-24",
+  "law_text_complete": true
+}
