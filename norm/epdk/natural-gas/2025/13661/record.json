@@ -1,0 +1,26 @@
+{
+  "kind": "norm",
+  "issuer": "Enerji Piyasası Düzenleme Kurumu",
+  "market": "natural-gas",
+  "document_type": "board-decision",
+  "number": "13661",
+  "decision_date": "2025-07-24",
+  "title": "Doğugaz Iğdır Doğalgaz Dağıtım Anonim Şirketi’nin üçüncü tarife uygulama dönemi perakende satış tarifelerine yönelik",
+  "resmi_gazete_date": "2025-07-26",
+  "resmi_gazete_number": "32967",
+  "categories": [
+    "Şirket Bazında Kararlar"
+  ],
+  "source": "https://www.epdk.gov.tr/Detay/DownloadDocument?id=QskQfZBRnt0=",
+  "documents": [
+    "https://www.epdk.gov.tr/Detay/DownloadDocument?id=QskQfZBRnt0=",
+    "https://www.epdk.gov.tr/Detay/DownloadDocument?id=F8jQY1DG69A="
+  ],
+  "source_sha256": "8afae6f36d27f075387b6fa22287569027a0ab5a243ec3f5d0fc8f7c4dad2b61",
+  "official_list": "https://www.epdk.gov.tr/Detay/Icerik/3-0-19/kurul-kararlari",
+  "official_list_leaf": 7236,
+  "text_status": "as-enacted",
+  "text_file": "metin.md",
+  "in_force": "2025-07-24",
+  "law_text_complete": true
+}
