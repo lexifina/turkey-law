@@ -1,0 +1,25 @@
+{
+  "kind": "norm",
+  "issuer": "Enerji Piyasası Düzenleme Kurumu",
+  "market": "natural-gas",
+  "document_type": "board-decision",
+  "number": "13657",
+  "decision_date": "2025-07-24",
+  "title": "Aksa Ağrı Doğalgaz Dağıtım Anonim Şirketi’nin perakende satış tarifelerine yönelik",
+  "resmi_gazete_date": "2025-07-26",
+  "resmi_gazete_number": "32967",
+  "categories": [
+    "Şirket Bazında Kararlar"
+  ],
+  "source": "https://www.epdk.gov.tr/Detay/DownloadDocument?id=um3Sw4z/EOI=",
+  "documents": [
+    "https://www.epdk.gov.tr/Detay/DownloadDocument?id=um3Sw4z/EOI="
+  ],
+  "source_sha256": "5ce0526fcff7b38a012a041d96b13d1a9d6af89348d34125b8f3402b82c4b8c0",
+  "official_list": "https://www.epdk.gov.tr/Detay/Icerik/3-0-19/kurul-kararlari",
+  "official_list_leaf": 7236,
+  "text_status": "as-enacted",
+  "text_file": "metin.md",
+  "in_force": "2025-07-24",
+  "law_text_complete": true
+}
