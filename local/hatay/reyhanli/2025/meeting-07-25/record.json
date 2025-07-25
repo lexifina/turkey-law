@@ -1,0 +1,24 @@
+{
+  "number": "meeting-07-25",
+  "number_as_published": "meeting-07-25",
+  "year": 2025,
+  "title": "25 TEMMUZ 2025 OLAĞANÜSTÜ MECLİS TOPLANTISI",
+  "decision_date": "2025-07-25",
+  "source": "https://www.reyhanli.bel.tr/karar/25-temmuz-2025-olaganustu-meclis-toplantisi",
+  "official_document": "https://www.reyhanli.bel.tr/tema/genel/uploads/meclis_kararlari/dosya/Adobe-Scan-29-Tem-2025.pdf",
+  "source_sha256": "6cf988c37249d73d31e8994c86d8000f66a2887002fe1690e37bd838f08a519a",
+  "issuer": "Reyhanlı Belediye Meclisi",
+  "history_type": "metadata",
+  "text_status": "metadata-only: listing fields as published; complete decision text is in the linked official document, not transcribed",
+  "in_force": "2025-07-25",
+  "in_force_basis": "Decision date as printed in the official council listing: 25 TEMMUZ 2025; adoption date of the council decision; legal commencement not asserted",
+  "missing": [
+    "complete official decision text",
+    "official annexes"
+  ],
+  "law_text_complete": false,
+  "privacy_withheld": false,
+  "listing_label": "25 TEMMUZ 2025 OLAĞANÜSTÜ MECLİS TOPLANTISI",
+  "record_scope": "one official file of council decisions (meeting)",
+  "official_page": "https://www.reyhanli.bel.tr/karar/25-temmuz-2025-olaganustu-meclis-toplantisi"
+}
