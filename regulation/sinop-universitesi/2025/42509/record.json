@@ -1,0 +1,39 @@
+{
+  "checked_on": "2026-11-14",
+  "commencement_clauses": [
+    "MADDE 19- (1) Bu Yönetmelik yayımı tarihinde yürürlüğe girer."
+  ],
+  "date_evidence": [
+    [
+      "2025-07-25",
+      "25.07.2025",
+      "original gazette publication date in official listing"
+    ]
+  ],
+  "date_quote": "MADDE 19- (1) Bu Yönetmelik yayımı tarihinde yürürlüğe girer.",
+  "first_law": null,
+  "gazette": "32966",
+  "history": "current-text",
+  "images": {
+    "deferred": 0,
+    "omitted": 0,
+    "referenced": 0,
+    "source": 0
+  },
+  "in_force": "2025-07-25",
+  "in_force_basis": "source commencement clause: enters into force on gazette publication",
+  "issuer": "Sinop Üniversitesi",
+  "issuer_slug": "sinop-universitesi",
+  "kind": "regulation",
+  "label": "oldest version available",
+  "path": "regulation/sinop-universitesi/2025/42509",
+  "published": "2025-07-25",
+  "source": "https://www.mevzuat.gov.tr/anasayfa/MevzuatFihristDetayIframe?MevzuatTur=8&MevzuatNo=42509&MevzuatTertip=5",
+  "source_bytes": 64983,
+  "source_id": "8.5.42509",
+  "source_sha256": "4b5b01f9ed8d52713928d6463cfa8a41ba78326bccefb6e60492fb424edcc97f",
+  "text_status": "as-enacted",
+  "title": "SİNOP ÜNİVERSİTESİ YAŞLI REFAHI VE YAŞLILIK ÇALIŞMALARI UYGULAMA VE ARAŞTIRMA MERKEZİ YÖNETMELİĞİ",
+  "university_id": 312,
+  "word_count": 1498
+}
