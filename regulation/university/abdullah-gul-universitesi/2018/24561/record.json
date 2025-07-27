@@ -1,0 +1,31 @@
+{
+  "act_path": "regulation/university/abdullah-gul-universitesi/2018/24561",
+  "availability": "text",
+  "checked_on": "2026-11-14",
+  "commencement_clauses": [
+    "MADDE 49 – (1) Bu Yönetmelik yayımı tarihinde yürürlüğe girer."
+  ],
+  "date_quote": "RG-27/7/2025",
+  "first_law": null,
+  "gazette": "30414",
+  "history": "current-text",
+  "images": {
+    "deferred": 0,
+    "omitted": 0,
+    "referenced": 0,
+    "source": 0
+  },
+  "in_force": "2025-07-27",
+  "in_force_basis": "latest source-printed amendment Gazette date; current consolidated text",
+  "issuer": "Abdullah Gül Üniversitesi",
+  "issuer_slug": "abdullah-gul-universitesi",
+  "kind": "regulation",
+  "published": "2018-05-07",
+  "source": "https://www.mevzuat.gov.tr/anasayfa/MevzuatFihristDetayIframe?MevzuatTur=8&MevzuatNo=24561&MevzuatTertip=5",
+  "source_id": "8.5.24561",
+  "source_sha256": "0f1a30c75b8c6cf39413ffbf8a5d02233e28f7db71295a5f4ac1f8881721efc4",
+  "title": "ABDULLAH GÜL ÜNİVERSİTESİ LİSANSÜSTÜ EĞİTİM-ÖĞRETİM\r\nVE SINAV YÖNETMELİĞİ",
+  "university_id": 415,
+  "version_label": "oldest version available",
+  "word_count": 8062
+}

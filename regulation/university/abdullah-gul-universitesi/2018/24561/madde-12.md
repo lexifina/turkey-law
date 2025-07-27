@@ -1,0 +1,2 @@
+Kayıt yenileme, derslerin durumu, kredi aktarma ve farklı üniversiteden ders alma
+MADDE 12 – (1) Lisansüstü programlara kayıt hakkı elde eden adaylar ile öğrenime devam eden öğrencilerin kayıt yenileme işlemleri, öğrencilerin kayıt yaptırdıkları ders ya da derslerin açılmaması durumu, kredi aktarma ve ders muafiyetleri, farklı üniversiteden/enstitüden ders alma durumları akademik takvimde belirlenen süre içinde EYK’nın belirlediği esaslara göre yürütülür.
