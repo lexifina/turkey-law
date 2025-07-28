@@ -1,0 +1,39 @@
+{
+  "checked_on": "2026-11-14",
+  "commencement_clauses": [
+    "MADDE 58- (1) Bu Yönetmelik yayımı tarihinde yürürlüğe girer."
+  ],
+  "date_evidence": [
+    [
+      "2025-07-28",
+      "28.07.2025",
+      "original gazette publication date in official listing"
+    ]
+  ],
+  "date_quote": "MADDE 58- (1) Bu Yönetmelik yayımı tarihinde yürürlüğe girer.",
+  "first_law": null,
+  "gazette": "32969",
+  "history": "current-text",
+  "images": {
+    "deferred": 0,
+    "omitted": 0,
+    "referenced": 0,
+    "source": 0
+  },
+  "in_force": "2025-07-28",
+  "in_force_basis": "source commencement clause: enters into force on gazette publication",
+  "issuer": "Bartın Üniversitesi",
+  "issuer_slug": "bartin-universitesi",
+  "kind": "regulation",
+  "label": "oldest version available",
+  "path": "regulation/bartin-universitesi/2025/42510",
+  "published": "2025-07-28",
+  "source": "https://www.mevzuat.gov.tr/anasayfa/MevzuatFihristDetayIframe?MevzuatTur=8&MevzuatNo=42510&MevzuatTertip=5",
+  "source_bytes": 146108,
+  "source_id": "8.5.42510",
+  "source_sha256": "1ec181242136835d5c6ad58047a575202a1bfb78613c437509df36f0ac9d477b",
+  "text_status": "as-enacted",
+  "title": "BARTIN ÜNİVERSİTESİ LİSANSÜSTÜ EĞİTİM\r\nVE ÖĞRETİM YÖNETMELİĞİ",
+  "university_id": 348,
+  "word_count": 9147
+}
