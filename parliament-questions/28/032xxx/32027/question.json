@@ -1,0 +1,21 @@
+{
+  "record_type": "parliament-written-question",
+  "term": 28,
+  "legislative_year": 3,
+  "esas_no": "7/32027",
+  "submitted": "2025-07-28",
+  "submitted_as": "Başkanlığa geliş tarihi",
+  "mp": "Fahri ÖZKAN",
+  "province": "Kırklareli",
+  "summary": "Kredi borçlarını ödemeyen emeklilerin maaşlarına haciz uygulanmasına ilişkin",
+  "status": "Süresi Geçtikten Sonra Cevaplandı",
+  "status_as_of": "2026-11-16",
+  "official_record": "https://www.tbmm.gov.tr/Denetim/Yazili-Soru-Onergesi-Detay/f0132382-f1c2-48a6-affe-01985513ae65",
+  "source": "https://tbmm.gov.tr/Denetim/YaziliSoruOnergesiTable",
+  "source_form": "https://tbmm.gov.tr/Denetim/Yazili-Soru-Onergeleri",
+  "source_sha256": "65917da2641ac7fa4e79faf139deed6ecdc5c3106ca42f6c73072a4910e10ac7",
+  "in_force": "2025-07-28",
+  "in_force_basis": "Date the question reached the Speaker (Başkanlığa geliş tarihi) in the official TBMM written-question record; parliamentary oversight record, not law",
+  "history_type": "metadata",
+  "text_status": "metadata-only: question text, addressee and answers are in the linked official record (PDFs on cdn.tbmm.gov.tr); not transcribed here"
+}
