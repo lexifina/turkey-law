@@ -1,0 +1,20 @@
+{
+  "applicant": "E.A. A.Ş.",
+  "application_date": "2020-03-09",
+  "application_number": "2020/8665",
+  "deciding_unit": "Genel Kurul",
+  "decision_date": "2025-04-17",
+  "id": "e027d366-dd90-cacf-60df-ec0e50e1cc44",
+  "in_force": "2025-07-29",
+  "in_force_basis": "official Resmî Gazete date",
+  "kind": "constitutional-court-individual-application",
+  "omitted_images": 0,
+  "outcome": "Kabul Edilemezlik vd.",
+  "published": "2025-07-29",
+  "referenced_images": 0,
+  "source": "https://kararlarbilgibankasi.anayasa.gov.tr/kbb/pages/search/Tumu?id=a2JiOmUwMjdkMzY2LWRkOTAtY2FjZi02MGRmLWVjMGU1MGUxY2M0NA&type=BireyselBasvuru",
+  "source_api": "https://kararlarbilgibankasi.anayasa.gov.tr/api/core/public/search",
+  "source_images": 0,
+  "source_sha256": "05f868fecd158411fd6773e60848755bd416f9544fe748d63046f236b3003ef3",
+  "version_label": "as-enacted"
+}
