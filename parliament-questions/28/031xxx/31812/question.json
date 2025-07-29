@@ -1,0 +1,21 @@
+{
+  "record_type": "parliament-written-question",
+  "term": 28,
+  "legislative_year": 3,
+  "esas_no": "7/31812",
+  "submitted": "2025-07-29",
+  "submitted_as": "Başkanlığa geliş tarihi",
+  "mp": "Hüseyin OLAN",
+  "province": "Bitlis",
+  "summary": "Bitlis'te bulunan bir kamu kurumunun 2023'ten bu yana doğrudan temin usulüyle yaptığı harcamalara ilişkin",
+  "status": "Cevaplanmadığı Gelen Kağıtlarda İlan Edildi",
+  "status_as_of": "2026-11-16",
+  "official_record": "https://www.tbmm.gov.tr/Denetim/Yazili-Soru-Onergesi-Detay/2e37bf6c-2ab3-48e0-834b-01985baec63f",
+  "source": "https://tbmm.gov.tr/Denetim/YaziliSoruOnergesiTable",
+  "source_form": "https://tbmm.gov.tr/Denetim/Yazili-Soru-Onergeleri",
+  "source_sha256": "f14b18e5bcd299cf571aa019b281e7093d6946988f9bc3ba8f7fc0082b851c31",
+  "in_force": "2025-07-29",
+  "in_force_basis": "Date the question reached the Speaker (Başkanlığa geliş tarihi) in the official TBMM written-question record; parliamentary oversight record, not law",
+  "history_type": "metadata",
+  "text_status": "metadata-only: question text, addressee and answers are in the linked official record (PDFs on cdn.tbmm.gov.tr); not transcribed here"
+}
