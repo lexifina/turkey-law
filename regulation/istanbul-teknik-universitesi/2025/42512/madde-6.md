@@ -1,0 +1,6 @@
+Merkezin faaliyet alanları
+MADDE 6- (1) Merkezin faaliyet alanları şunlardır:
+a) Uzay görevlerinin yürütülmesi ve hava/uzay araçları, uzay havası, altyapı ve gözlem sistemleri için bilişim sistemleri ile yaşam, lojistik, mekatronik, elektronik, enerji, malzeme, yönetim ve iletişim teknolojilerinin kullanımını gerektiren destek sistem ihtiyaçlarına yönelik konularda araştırma-geliştirme (Ar-Ge) faaliyetleri yapmak; buna yönelik bileşen ve sistemleri tasarlamak, kurmak, entegre etmek ve işletmek; bu amaçla referans uzmanlık kaynağı oluşturmak.
+b) Merkezin amaçları doğrultusunda içerik hazırlamak, derlemek, yayın ve yayım faaliyeti yapmak, toplantı, eğitim ve tanıtım faaliyetleri düzenlemek ve konuyla ilgili akademik faaliyetlere, toplantı ve organizasyonlara katılım sağlamak.
+c) Uzay görev, altyapı ve araçları ile gözlem ve yönetim sistemlerinden elde edilen verilerin derlenmesi, kıymetlendirilmesi, çevrim içi ve gerçek zamanlı hizmetlere dönüştürülmesi için gereken sistemleri araştırmak, projelendirmek, geliştirmek, kurmak, işletmek, katılımcı kurumlar ve sektörel ihtiyaçları karşılamaya yönelik bilgiye dönüştürmek için Ar-Ge çalışmaları yapmak ve uygulamaya koymak.
+ç) Faaliyetlerine destek sağlamak üzere proje üretmek, iş ve hizmet modelleri geliştirmek ve uygulamak.

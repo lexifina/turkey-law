@@ -1,0 +1,4 @@
+İKİNCİ BÖLÜM
+Merkezin Amacı ve Faaliyet Alanları
+Merkezin amacı
+MADDE 5- (1) Merkezin amacı; TUA’nın eşgüdümünde uzay görevleri için Komuta Kontrol Merkezi kurulması, milli kaynaklı bileşenlerinin geliştirilmesi ve işletilmesi; uzay görevleri ve gözlem sistemlerinde ihtiyaç duyulan veri-bilgi-hizmet dönüşümü için gerçek-zamanlı sistemler geliştirilmesi ve kurulması; insanlı ve insansız uzay araç, tesis ve altyapılarında yenilikçi enerji, uzay havası, iletişim, navigasyon, veri toplama, veri işleme, karar destek sistemleri, yapay zeka, mekatronik, modelleme, canlandırma, dijital ikiz, yönetim, yaşam, lojistik ve malzeme teknolojilerine dayalı destek sistemlerine yönelik Ar-Ge projeleri yapılması ve hayata geçirilmesi; ulusal ve uluslararası akademik, sektörel ve toplumsal yayım, eğitim ve iş birlikleri yapılmasıdır.
