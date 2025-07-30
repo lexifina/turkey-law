@@ -1,0 +1,4 @@
+İnceletme talebinden vazgeçilmesi
+MADDE 16 – (1) (Değişik:RG-15/10/2024-32693) Son başvuru tarihinden sonra; taslak ders kitabı, milletlerarası özel öğretim kurumları ve yabancılar tarafından açılmış özel okulların ders kitapları ile diğer eğitim araç ve gereçleri için inceletme talebinden vazgeçilmesi hâlinde başvuru ücretinin geri ödemesi yapılmadan inceleme süreci sonlandırılır.
+(2) Kurulca eğitim ve öğretim programında kitabın yeniden yazımını gerektirecek oranda değişiklik yapılması hâlinde, taslak ders kitabı inceletme ücreti kesinti yapılmaksızın başvuru sahibine iade edilir.
+(3) Ön inceleme sonucunda, panel değerlendirme sürecine alınması uygun görülmeyen eserler için Bakanlık Döner Sermaye İşletmesi hesabına yatırılmış olan ücretin yüzde ellisi kesilerek kalan miktarı başvuru sahibine iade edilir.

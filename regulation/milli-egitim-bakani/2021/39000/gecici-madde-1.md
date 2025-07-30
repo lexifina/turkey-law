@@ -1,0 +1,3 @@
+Uygulanacak mevzuat
+GEÇİCİ MADDE 1- (Ek:RG-15/10/2024-32693)
+(1) 2024 yılından itibaren Kurulca öğretim programı değişikliğine gidilmemiş veya öğretim programı değişikliğine gidilmiş olsa dahi uygulanmasına başlanılmamış derslere ait taslak ders kitapları ve eğitim araçları Talim ve Terbiye Kurulunun 14/9/2023 tarihli ve 83980939 sayılı mütalaasıyla kabul edilen Taslak Ders Kitabı ve Eğitim Araçları ile Bunlara Ait Elektronik İçeriklerin İncelenmesinde Değerlendirmeye Esas Olacak Kriterler ve Açıklamalarına uygun olarak hazırlanır ve ilgili taslak ders kitaplarının incelemesi ve değerlendirmesinde bu maddeyi ihdas eden Yönetmelik ile 19 uncu maddenin üçüncü fıkrasında yapılan değişikliğin yürürlüğe girdiği tarihten önce yürürlükte olan mevzuat hükümleri esas alınır.

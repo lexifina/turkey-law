@@ -1,0 +1,1 @@
+[1] 15/10/2024 tarihli ve 32693 sayılı Resmî Gazete’de yayımlanan değişiklik ile Yönetmeliğin ikinci bölüm başlığında yer alan “Aranacak Kriterler” ibaresi “Aranacak Nitelikler ve Özellikler” şeklinde değiştirilmiştir.

@@ -1,0 +1,2 @@
+Dayanak
+MADDE 3 – (1) Bu Yönetmelik; 14/6/1973 tarihli ve 1739 sayılı Millî Eğitim Temel Kanununun 52 nci, 53 üncü, 54 üncü ve 55 inci maddeleri (Ek ibare:RG-15/10/2024-32693) , 8/2/2007 tarihli ve 5580 sayılı Özel Öğretim Kurumları Kanununun 5 inci maddesi ile 10/7/2018 tarihli ve 1 sayılı Cumhurbaşkanlığı Teşkilatı Hakkında Cumhurbaşkanlığı Kararnamesinin 319 uncu maddesinin üçüncü fıkrasının (a) ve (b) bentlerine dayanılarak hazırlanmıştır.

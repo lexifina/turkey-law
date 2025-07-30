@@ -1,0 +1,4 @@
+Kitapların duyurusu
+MADDE 26 – (1) Kurulca ilk defa kabul edilen ders kitaplarının listesi Genel Müdürlüğe gönderilir.
+(2) (Değişik ibare:RG-15/10/2024-32693) Kurulca kabul edilen ve uygunluk süresi devam eden ders kitaplarının listesi Genel Müdürlüğe gönderilir. Bir sonraki eğitim ve öğretim yılında okutulacak ders kitaplarının adları, yazarı veya yazarları, başvuru sahiplerinin adları ve varsa fiyatları ile ders kitaplarının listesi Genel Müdürlüğe bildirildiği tarihten itibaren en geç 10 iş günü içinde duyurulur. Zorunlu hâllerde bu süreler gerekçeleri açıkça belirtilmek şartıyla Kurul mütalaası ile 30 iş gününe kadar uzatılabilir.
+(3) Elektronik eğitim içeriklerinin listesi ise ilgili hizmet birimlerine ve yayımlanmak üzere Bakanlık Yenilik ve Eğitim Teknolojileri Genel Müdürlüğüne gönderilir.
