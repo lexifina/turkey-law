@@ -1,0 +1,2 @@
+Disiplin hükümleri
+MADDE 26- (1) Eğitim personelinin görevden uzaklaştırılması ile disipline aykırı fiil ve hâllerin gerçekleşmesi durumunda verilmesi gereken disiplin cezaları, disiplin cezası vermeye yetkili merciler ve disiplin kurulları ile disipline dair diğer hususlarda Devlet memurlarının tabi olduğu hükümler uygulanır. Ancak, kademe ilerlemesinin durdurulması ve üstü ceza verilmesini gerektiren fiil ve hâllerde disiplin kurulunun kararı alınarak eğitim personelinin görevine Bakan onayı ile son verilir.

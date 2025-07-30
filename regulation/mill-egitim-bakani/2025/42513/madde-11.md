@@ -1,0 +1,5 @@
+Sözlü sınav komisyonunun oluşumu ve çalışma usulü
+MADDE 11- (1) Sözlü sınav komisyonu; Bakanlık merkez teşkilatında görev yapan bir birim amiri veya bir kurul üyesi veya genel müdür yardımcısının başkanlığında, istihdam yapılacak alanlara göre Bakanlık merkez teşkilatında genel müdür yardımcısı veya daire başkanı ünvanında görev yapanlar ile öğretim üyeleri arasından dört üye olmak üzere Bakan onayı ile belirlenecek beş kişiden oluşur. Aynı usulle birer yedek üye belirlenir. Gerek görülmesi hâlinde aynı usulle birden fazla sözlü sınav komisyonu kurulabilir.
+(2) Sözlü sınav komisyonu, üye tam sayısı ile toplanır. Asıl üyenin bulunmadığı toplantıya komisyon başkanının çağrısı üzerine yedek üye katılır. Komisyon kararlarını oy çokluğu ile alır.
+(3) Sözlü sınav komisyonu başkan ve üyeleri, boşanmış olsalar dahi eşlerinin, ikinci dereceye kadar (bu derece dâhil) kan ve kayın hısımlarının ve evlatlıklarının değerlendirmelerinde görev alamaz.
+(4) Sözlü sınav komisyonunun sekretarya işlemleri, Ölçme, Değerlendirme ve Sınav Hizmetleri Genel Müdürlüğünce yürütülür.

@@ -1,0 +1,4 @@
+Yazılı sınav
+MADDE 17- (1) 6 ncı maddenin birinci fıkrasının (c) bendi kapsamında bulunan ve yazılı sınav duyurusunun son günü itibarıyla 5 inci maddede belirtilen şartları taşıyanlar arasından eğitim personeli olarak istihdam edilecekleri veya sözlü sınava alınacakları belirlemek amacıyla Ölçme, Değerlendirme ve Sınav Hizmetleri Genel Müdürlüğünce yazılı sınav yapılabilir. Bu sınavda 100 puan üzerinden 60 ve üzerinde puan alanlar başarılı sayılır.
+(2) Yazılı sınavda hatalı sorunun tespit edilmesi veya yargı kararı sonucunda soruların iptal edilmesi durumunda, iptaline karar verilen sorular değerlendirme dışı bırakılarak geçerli soruların puan değerinin yeniden saptanması suretiyle puanlama yapılır.
+(3) Yazılı sınav sonuçları, kesin sonuçların açıklandığı tarihten itibaren bir sonraki sınav sonucu açıklanana kadar geçerlidir.

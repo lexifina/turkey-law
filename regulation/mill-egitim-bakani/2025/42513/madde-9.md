@@ -1,0 +1,5 @@
+Değerlendirme komisyonlarının oluşumu ve çalışma usulleri
+MADDE 9- (1) 6 ncı maddenin birinci fıkrasının (b) bendi kapsamındakiler için değerlendirme komisyonu; Bakanlık merkez teşkilatında görev yapan bir birim amiri veya bir kurul üyesi veya genel müdür yardımcısının başkanlığında, istihdam yapılacak alanlara göre Bakanlık merkez teşkilatında genel müdür yardımcısı veya daire başkanı ünvanında görev yapanlar ile öğretim üyeleri arasından dört üye olmak üzere Bakan onayı ile belirlenecek beş kişiden oluşur. Aynı usulle birer yedek üye belirlenir. Gerek görülmesi hâlinde aynı usulle birden fazla değerlendirme komisyonu kurulabilir.
+(2) Değerlendirme komisyonları, üye tam sayısı ile toplanır. Asıl üyenin bulunmadığı toplantıya komisyon başkanının çağrısı üzerine yedek üye katılır. Değerlendirme komisyonları kararlarını oy çokluğu ile alır.
+(3) Değerlendirme komisyonlarının başkan ve üyeleri, boşanmış olsalar dahi eşlerinin, ikinci dereceye kadar (bu derece dâhil) kan ve kayın hısımlarının ve evlatlıklarının değerlendirmelerinde görev alamaz.
+(4) Değerlendirme komisyonlarının sekretarya işlemleri Akademi tarafından yürütülür.

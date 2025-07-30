@@ -1,0 +1,5 @@
+Sözlü sınav
+MADDE 21- (1) 6 ncı maddenin birinci fıkrasının (b) bendi kapsamında olanlardan EK-1’de yer alan eğitim personeli değerlendirme formu üzerinden yapılacak değerlendirme sonucunda alınan puana göre en yüksek puan alandan başlamak üzere belirlenen kontenjanın üç katı aday sözlü sınava çağrılır. Son sıradaki adayla aynı puana sahip olan adaylar da sözlü sınava çağrılır.
+(2) 6 ncı maddenin birinci fıkrasının (c) bendi kapsamında olanlar için sözlü sınav yapılması durumunda yazılı sınav puanına göre en yüksek puan alandan başlamak üzere belirlenen kontenjanın üç katı aday sözlü sınava çağrılır. Son sıradaki adayla aynı puana sahip olan adaylar da sözlü sınava çağrılır. Yazılı sınav yapılmaması hâlinde başvuruda bulunan tüm adaylar sözlü sınava çağrılır.
+(3) Sözlü sınava katılmaya hak kazanan adaylar, 20 nci maddede belirtilen sözlü sınav konuları ve ağırlıkları dikkate alınarak EK-2’de yer alan sözlü sınav değerlendirme formu üzerinden sözlü sınav komisyonunca 100 tam puan üzerinden değerlendirilir.
+(4) Sözlü sınavda 70 ve üzerinde puan alanlar başarılı sayılır.
