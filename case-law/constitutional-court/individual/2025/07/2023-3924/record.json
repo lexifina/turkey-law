@@ -1,0 +1,20 @@
+{
+  "applicant": "U.K.",
+  "application_date": "2022-12-28",
+  "application_number": "2023/3924",
+  "deciding_unit": "Birinci Bölüm",
+  "decision_date": "2025-07-30",
+  "id": "7a3f16c9-3be8-849a-4ae8-95a780f18226",
+  "in_force": "2025-07-30",
+  "in_force_basis": "official decision date",
+  "kind": "constitutional-court-individual-application",
+  "omitted_images": 0,
+  "outcome": "Esas (İhlal Olmadığı)",
+  "published": null,
+  "referenced_images": 0,
+  "source": "https://kararlarbilgibankasi.anayasa.gov.tr/kbb/pages/search/Tumu?id=a2JiOjdhM2YxNmM5LTNiZTgtODQ5YS00YWU4LTk1YTc4MGYxODIyNg&type=BireyselBasvuru",
+  "source_api": "https://kararlarbilgibankasi.anayasa.gov.tr/api/core/public/search",
+  "source_images": 0,
+  "source_sha256": "6749eadddec0be99c8303d13372b2066dc4b14925ed833c0d6d9c514d50fe813",
+  "version_label": "as-enacted"
+}
