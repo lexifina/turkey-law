@@ -1,0 +1,21 @@
+{
+  "record_type": "parliament-written-question",
+  "term": 28,
+  "legislative_year": 3,
+  "esas_no": "7/32222",
+  "submitted": "2025-07-30",
+  "submitted_as": "Başkanlığa geliş tarihi",
+  "mp": "Ulaş KARASU",
+  "province": "Sivas",
+  "summary": "PTT personelinin promosyon ödemesinin akıbetine ilişkin",
+  "status": "Cevaplandı",
+  "status_as_of": "2026-11-16",
+  "official_record": "https://www.tbmm.gov.tr/Denetim/Yazili-Soru-Onergesi-Detay/f3a9d0b9-deb6-4119-b3db-01985f8b5058",
+  "source": "https://tbmm.gov.tr/Denetim/YaziliSoruOnergesiTable",
+  "source_form": "https://tbmm.gov.tr/Denetim/Yazili-Soru-Onergeleri",
+  "source_sha256": "6104542f85fbaf4d7e04c9f53f5adf08ec43ab93744edacae17bf0b8af72298b",
+  "in_force": "2025-07-30",
+  "in_force_basis": "Date the question reached the Speaker (Başkanlığa geliş tarihi) in the official TBMM written-question record; parliamentary oversight record, not law",
+  "history_type": "metadata",
+  "text_status": "metadata-only: question text, addressee and answers are in the linked official record (PDFs on cdn.tbmm.gov.tr); not transcribed here"
+}
