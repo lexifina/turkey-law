@@ -1,0 +1,45 @@
+{
+  "source_id": "7.5.18932",
+  "kind": "regulation",
+  "register_kind": "Kurum ve Kuruluş Yönetmelikleri",
+  "title": "ÖZEL HUKUK HÜKÜMLERİNE TABİ SİGORTALAR KAPSAMINDA HAK SAHİPLERİNCE ARANMAYAN PARALAR HAKKINDA YÖNETMELİK",
+  "number": "18932",
+  "issuer_slug": "kurum-ve-kurulus",
+  "path": "regulation/kurum-ve-kurulus/2013/18932",
+  "source": "https://www.mevzuat.gov.tr/anasayfa/MevzuatFihristDetayIframe?MevzuatTur=7&MevzuatNo=18932&MevzuatTertip=5",
+  "source_sha256": "0c47b40ac3568030223ced4039ba24382640a68159ece4aa7333332ee85bd191",
+  "source_bytes": 24135,
+  "published": "2013-10-08",
+  "gazette": "28789",
+  "in_force": "2025-07-30",
+  "in_force_basis": "latest Resmî Gazete date printed in the source amendment notes/table (\"RG-30/7/2025\") for the current consolidated text",
+  "date_evidence": [
+    [
+      "2025-07-30",
+      "RG-30/7/2025",
+      "Resmî Gazete date printed in the source amendment note"
+    ],
+    [
+      "2025-07-30",
+      "30/7/2025",
+      "Resmî Gazete date in the source amendment table"
+    ]
+  ],
+  "commencement_clauses": [
+    "Bu Yönetmelik yayımı tarihinde yürürlüğe girer"
+  ],
+  "history": "current-text",
+  "label": "oldest version available",
+  "checked_on": "2026-11-15",
+  "word_count": 1268,
+  "text_status": "current-consolidated",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  },
+  "source_links": [
+    "7.5.18932-ek.doc"
+  ],
+  "completeness": "html-text-complete; linked annexes not fetched"
+}
