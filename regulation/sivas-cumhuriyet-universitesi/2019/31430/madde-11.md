@@ -1,0 +1,2 @@
+Eğitim-öğretim programı
+MADDE 11 – (1) Eğitim-öğretim programı Fakülte Kurulunun kararı ve Senatonun onayı ile belirlenen akademik takvime uygun olarak hazırlanan, bir akademik yıl içerisinde uygulanacak teorik ve pratik dersleri, klinik uygulamaları, alan çalışmalarını ve benzeri uygulamaları kapsayan planlardır. Program, derslerin başlamasından en az bir hafta önce dekanlık tarafından ilan edilir.

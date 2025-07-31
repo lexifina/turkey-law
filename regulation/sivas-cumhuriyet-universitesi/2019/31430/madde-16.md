@@ -1,0 +1,4 @@
+Devam zorunluluğu
+MADDE 16 – (1) Her öğrenci teorik derslerin en az %70'ine, klinik öncesi ve klinik uygulamaların en az %80’ine katılmak zorundadır. Bu koşulu yerine getirmeyen öğrenci, o dersin final/bütünleme sınavına giremez. Ancak folklor, sportif, kültürel, bilimsel etkinlikler gibi alanlarda fakülteyi temsil eden ve milli takımların sportif müsabakalarına, hazırlık çalışmalarına katılan öğrencilerin görevli oldukları süre bu koşulun dışında tutulur.
+(2) Ders sorumluları teorik ders ve pratik uygulamalarda ad okuyarak, imza toplayarak veya bir başka yöntemle yoklama yapar. Bu yoklamalar en az iki yıl saklanır.
+(3) Sağlık raporu devam yükümlülüğünü ortadan kaldırmaz. Sağlık raporu alan öğrenci için sadece giremediği ara sınavlar için mazeret sınav hakkı verilir. Sağlık raporu final, bütünleme ve tek ders sınavları için geçerli değildir.

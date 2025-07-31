@@ -1,0 +1,4 @@
+Not ortalaması
+MADDE 20 – (1) Not ortalamaları; ağırlıklı not ortalaması ve ağırlıklı genel not ortalamasından oluşur.
+a) Ağırlıklı not ortalaması; öğrencinin yarıyıl/yıl içindeki sayısal değeri olan her bir dersin kredisinin o dersten alınan not ile çarpılarak elde edilen değerlerin toplamının bu derslere ait toplam kredi değerine bölünmesiyle elde edilen not ortalamasıdır. Ağırlıklı not ortalaması virgülden sonra iki hane ile gösterilir ve yuvarlama yapılamaz.
+b) Genel ağırlıklı not ortalaması; öğrencinin kayıt olduğu andan itibaren bulunduğu zamana kadarki sayısal değeri olan her bir dersin kredisinin o dersten alınan not ile çarpılarak elde edilen değerlerin toplamının bu derslere ait toplam kredi değerine bölünmesiyle elde edilen not ortalamasıdır. Genel ağırlıklı not ortalaması virgülden sonra iki hane ile gösterilir ve yuvarlama yapılamaz.
