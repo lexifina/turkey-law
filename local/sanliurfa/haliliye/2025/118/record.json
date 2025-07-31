@@ -1,0 +1,29 @@
+{
+  "number": "118",
+  "number_as_published": "2025/118",
+  "year": 2025,
+  "month": 7,
+  "title": "5393 Sayılı Belediye Yasası'nın 18/n Maddesine istinaden İlimiz Haliliye İlçesi Paşabağı Mahallesinde bulunan 775/1 Sokağın, Rızvaniye Sokak olarak değiştirilmesi, Belediye Meclisince görüşülerek oy birliğiyle kabul edilip karara bağlanmıştır.",
+  "decision_date": null,
+  "index_date": "2025-07-31",
+  "date_precision": "month",
+  "period": "Temmuz 2025",
+  "source": "https://www.haliliye.bel.tr/icerik/7546/39/temmuz-2025",
+  "official_page": "https://www.haliliye.bel.tr/icerik/7546/39/temmuz-2025",
+  "official_document": null,
+  "source_sha256": "6dbce8d921376d7b6eefb4bc71bfa0d73b2c4768c336d0753b2f31bc23b9fd0e",
+  "issuer": "Haliliye Belediye Meclisi",
+  "history_type": "metadata",
+  "text_status": "metadata-only: number and subject as published in the official listing; complete decision text is in the linked official page/document, not transcribed",
+  "in_force": "2025-07-31",
+  "in_force_basis": "The official listing gives only the month of this decision (Temmuz 2025); date set to the last day of that month (turkey-law date convention for month-only sources); exact adoption dates are in the linked official document; legal commencement not asserted",
+  "missing": [
+    "exact decision date",
+    "complete official decision text",
+    "official annexes"
+  ],
+  "law_text_complete": false,
+  "privacy_withheld": false,
+  "listing_item": "TEMMUZ 2025",
+  "record_scope": "one council decision summary (Karar Özeti) as published"
+}
