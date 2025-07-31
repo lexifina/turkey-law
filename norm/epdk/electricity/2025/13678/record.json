@@ -1,0 +1,23 @@
+{
+  "kind": "norm",
+  "issuer": "Enerji Piyasası Düzenleme Kurumu",
+  "market": "electricity",
+  "document_type": "board-decision",
+  "number": "13678",
+  "decision_date": "2025-07-31",
+  "title": "EPDK Kurul Kararı 13678",
+  "categories": [
+    "OSB ve EB Dağıtım Sisteminin Kullanımına İlişkin Bedeller"
+  ],
+  "source": "https://www.epdk.gov.tr/Detay/DownloadDocument?id=9l5zoiGqUWw=",
+  "documents": [
+    "https://www.epdk.gov.tr/Detay/DownloadDocument?id=9l5zoiGqUWw="
+  ],
+  "source_sha256": "359049e034b7a554ed41653974310f442dc66d88917c0e51bf4c9366d540c8a6",
+  "official_list": "https://www.epdk.gov.tr/Detay/Icerik/3-0-39/kurul-kararlari-",
+  "official_list_leaf": 1516,
+  "text_status": "metadata-only",
+  "metadata_only_reason": "no text layer (image-only PDF; no OCR)",
+  "in_force": "2025-07-31",
+  "law_text_complete": false
+}
