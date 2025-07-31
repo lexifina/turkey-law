@@ -1,0 +1,28 @@
+{
+  "number": "month-07-2",
+  "year": 2025,
+  "month": 7,
+  "title": "2025 Yılı Temmuz Ayı Meclis Kararları (2)",
+  "decision_date": null,
+  "index_date": "2025-07-31",
+  "date_precision": "month",
+  "period": "Temmuz 2025",
+  "source": "https://www.akpazar.bel.tr/karar/2025-yili-temmuz-ayi-meclis-kararlari-2",
+  "official_page": "https://www.akpazar.bel.tr/karar/2025-yili-temmuz-ayi-meclis-kararlari-2",
+  "official_document": "https://www.akpazar.bel.tr/tema/genel/uploads/meclis_kararlari/dosya/Temmuz-Ayı-İkinci-Oturum-Meclis-Kararı.pdf",
+  "source_sha256": "2fc49f9fca4ad4ae33ab2b21988046d9ba1ca922e93ecb134c30463c73c9a9ae",
+  "issuer": "Akpazar Belediye Meclisi",
+  "history_type": "metadata",
+  "text_status": "metadata-only: listing fields as published; the decisions are in the linked official document(s) or page, not transcribed",
+  "in_force": "2025-07-31",
+  "in_force_basis": "The official listing gives only the month of this official file (Temmuz 2025); date set to the last day of that month (turkey-law date convention for month-only sources); exact adoption dates are in the linked official document; legal commencement not asserted",
+  "missing": [
+    "decision numbers, dates and subjects",
+    "complete official decision text",
+    "official annexes"
+  ],
+  "law_text_complete": false,
+  "privacy_withheld": false,
+  "listing_label": "2025 Yılı Temmuz Ayı Meclis Kararları (2)",
+  "record_scope": "one official file of council decisions (meeting or month)"
+}
