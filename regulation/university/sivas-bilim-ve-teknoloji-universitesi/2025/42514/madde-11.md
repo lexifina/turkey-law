@@ -1,0 +1,4 @@
+Yönetim Kurulu
+MADDE 11- (1) Yönetim Kurulu; Tarım Bilimleri ve Teknoloji Fakültesi Dekanı başkanlığında, Müdür ile Tarım Bilimleri ve Teknoloji Fakültesinin Tarla Bitkileri ve Bitki Koruma bölümlerinden dörder üye olmak üzere toplam on üyeden oluşup bu üyeler Dekanın teklifi üzerine Rektör tarafından üç yıllık süre için görevlendirilir. Süresi biten Yönetim Kurulu üyeleri yeniden görevlendirilebilir. Herhangi bir nedenle görevinden ayrılan Yönetim Kurulu üyeleri yerine aynı usulle yeni bir üye görevlendirilir.
+(2) Yönetim Kurulu salt çoğunlukla toplanır ve katılanların salt çoğunluğu ile karar alır.
+(3) Yönetim Kurulu her yıl, Dekan veya Müdürün çağrısı üzerine en az iki kez toplanır. Bu toplantılarda Merkezin faaliyetleri hakkında bilgi alınır, çalışmalar için önerilerde bulunulur ve geleceğe ilişkin planlamalar yapılarak karara bağlanır. Gerekli hallerde Dekan veya Müdür, Yönetim Kurulunu gündemli olarak toplantıya çağırabilir.

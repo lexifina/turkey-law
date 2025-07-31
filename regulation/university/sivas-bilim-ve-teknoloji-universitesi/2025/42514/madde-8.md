@@ -1,0 +1,2 @@
+Müdür
+MADDE 8- (1) Müdür, Tarım Bilimleri ve Teknoloji Fakültesinde veya Üniversitenin tarım ile ilgili ön lisans programlarında kadrolu olarak Merkezin faaliyet alanı ile ilgili çalışmalarda bulunan öğretim elemanları arasından Rektör tarafından üç yıl süreyle görevlendirilir. Süresi biten Müdür yeniden görevlendirilebilir. Müdürün altı aydan daha fazla süreyle görevi başında bulunmaması durumunda görevi sona erer. Müdür, Merkezi temsil eder ve Rektöre karşı Merkezin tüm faaliyetlerinden sorumludur.
