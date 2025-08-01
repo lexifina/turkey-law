@@ -1,0 +1,5 @@
+ÜÇÜNCÜ BÖLÜM
+Muayene ve Kabul İşlemleri
+Kabul başvurusu
+Madde 8- Sözleşme konusu iş tamamlandığında yüklenici yapılmış olan hizmet işinin kabulün yapılması için idareye yazılı olarak başvuruda bulunur. Bu başvuru üzerine, kontrol teşkilatınca yapılan ön inceleme sonucunda işin kabule uygun bulunması halinde durum, “Hizmet İşleri Kabul Teklif Belgesi” (Mülga ibare:RG-18/5/2024-32550)[1] düzenlenmek suretiyle yetkili makama bildirilir. Hizmet İşleri Kabul Teklif Belgesinin yetkili makama sunulduğu tarihten itibaren on (10) günü geçmemek üzere idarece belirlenecek süre içinde yetkili makamca, Yönetmeliğin 5 inci maddesine göre, muayene ve kabul komisyonu oluşturulur ve durum yükleniciye yazılı olarak bildirilir.
+Kontrol teşkilatı tarafından hizmette önemli ve hizmetin fonksiyonelliğini engellediği için idarenin ihtiyacını karşılama açısından kabul edilemez eksiklik veya kusurların bulunduğu tespit edilirse durum idareye bildirilir ve kabul aşamasına geçilmeyerek Hizmet İşleri Genel Şartnamesinin 44 üncü maddesinin (a) fıkrası hükümlerine göre hareket edilir.

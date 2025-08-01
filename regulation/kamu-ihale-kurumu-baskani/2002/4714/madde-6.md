@@ -1,0 +1,3 @@
+Muayene ve kabul komisyonlarının görevleri
+Madde 6- Muayene ve kabul komisyonu, 8 inci maddede belirtilen hükümlere göre kurulduğu tarihten itibaren,on (10) günü geçmemek üzere idarece belirlenen süre içinde işyerine, işyeri öngörülmeyen işlerde ise sözleşmesinde işin kabulü için belirlenen yere giderek yüklenici tarafından gerçekleştirilen işleri Hizmet İşleri Genel Şartnamesinin 44 - 49 uncu maddelerine göre inceler, muayene eder ve işin niteliğinin ihtiyaç göstermesi halinde gerekli gördüğü kısımların incelemesini ve gerekli görürse işletme ve çalışma deneylerini yapar. Kabule engel bir durum bulunmadığı taktirde, işin kabulünü yapar.
+Yukarıda belirlenen süre, gerekmesi halinde yetkili makam tarafından uzatılabilir.

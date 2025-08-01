@@ -1,0 +1,2 @@
+Kapsam
+Madde 2- Bu Yönetmelik, 4734 sayılı Kamu İhale Kanunu kapsamındaki kamu kurum ve kuruluşlarının, bu Kanun hükümlerine göre yaptıkları ihaleler sonucunda idareye teslim edilen hizmet işlerinin muayene ve kabul işlemleri için 4735 sayılı Kamu İhale Sözleşmeleri Kanununun 11 inci maddesi uyarınca kuracakları muayene ve kabul komisyonlarının kuruluş ve çalışma esasları ile muayene ve kabul işlemlerinde uygulanacak esas ve usulleri kapsar.

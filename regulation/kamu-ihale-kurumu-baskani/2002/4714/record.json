@@ -1,0 +1,45 @@
+{
+  "source_id": "7.5.4714",
+  "kind": "regulation",
+  "register_kind": "Kurum ve Kuruluş Yönetmelikleri",
+  "title": "HİZMET ALIMLARI MUAYENE VE KABUL YÖNETMELİĞİ",
+  "number": "4714",
+  "issuer": "Kamu İhale Kurumu Başkanı",
+  "issuer_slug": "kamu-ihale-kurumu-baskani",
+  "path": "regulation/kamu-ihale-kurumu-baskani/2002/4714",
+  "source": "https://www.mevzuat.gov.tr/anasayfa/MevzuatFihristDetayIframe?MevzuatTur=7&MevzuatNo=4714&MevzuatTertip=5",
+  "source_sha256": "5fb6108fc53c70536b6a6d94f0d14f9723802a906f6a6d622a3343b31b7bf7c5",
+  "source_bytes": 28700,
+  "published": "2002-12-19",
+  "gazette": "24968",
+  "in_force": "2025-08-01",
+  "in_force_basis": "latest Resmî Gazete date printed in the source amendment notes/table (\"1/8/2025\") for the current consolidated text",
+  "date_evidence": [
+    [
+      "2025-08-01",
+      "1/8/2025",
+      "Resmî Gazete date in the source amendment table"
+    ],
+    [
+      "2024-05-18",
+      "RG-18/5/2024",
+      "Resmî Gazete date printed in the source amendment note"
+    ],
+    [
+      "2024-05-18",
+      "18/5/2024",
+      "Resmî Gazete date in the source amendment table"
+    ]
+  ],
+  "history": "current-text",
+  "label": "oldest version available",
+  "checked_on": "2026-11-15",
+  "word_count": 1109,
+  "text_status": "current-consolidated",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  },
+  "completeness": "html-text-complete"
+}

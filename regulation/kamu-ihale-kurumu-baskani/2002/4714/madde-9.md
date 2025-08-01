@@ -1,0 +1,4 @@
+Kabul tutanağının düzenlenmesi
+Madde 9- Muayene ve kabul komisyonu işyerine giderek Hizmet İşleri Genel Şartnamesinin 44- 49 uncu maddelerinde yazılı hükümlere göre işi inceler, muayene eder ve gerekli gördüğü kısımların işletme ve çalışma deneylerini yapar.
+Temizlik, yemek , taşıma gibi aynı hizmetin belli periyotlarla tekrarlanması suretiyle ifa edilen sürekli nitelikli işlerde kontrol teşkilatının , işin yürütülmesi sırasında tuttuğu kayıtlar esas alınarak Hizmet İşleri Genel Şartnamesinin 44 üncü maddesinin (b) fıkrasındaki hükümlere göre kabul işlemleri gerçekleştirilir.
+Muayene ve kabul komisyonu, yaptığı inceleme ve muayene sonunda işi kabule hazır bulduğu takdirde, “Kabul Tutanağı” nı (Mülga ibare:RG-18/5/2024-32550)1 yeterli sayıda düzenler. Bu tutanak yüklenici tarafından imzalanır.
