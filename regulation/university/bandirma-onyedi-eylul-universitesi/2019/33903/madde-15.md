@@ -1,0 +1,9 @@
+Zorunlu hazırlık sınıfında yıl içi başarı değerlendirmesi
+MADDE 15 – (1) (Değişik:RG-24/8/2021-31578) Zorunlu hazırlık eğitim-öğretimi süresince; değerlendirme amaçlı olarak gelişim sınavları, kısa sınavlar, sunumlar, portfolyolar ve dönem sonu sınavı uygulanır. İnternet üzerinde çalışma, ödev ve sunumlar da değerlendirme amaçlı kullanılabilir.
+(2) (Değişik:RG-1/8/2025-32973) Akademik yıl içinde yapılacak sınavların türü, sayısı ve etki oranları Yüksekokul Kurulu tarafından belirlenir.
+(3) (Değişik:RG-10/8/2024-32628)(1) Akademik yıl süresince yapılan sınavların katkı oranları Yüksekokul Kurulunca belirlenen ağırlıklarla 100 üzerinden hesaplanır ve ilgili akademik yılın başında öğrencilere duyurulur.
+(4) Zorunlu hazırlık sınıfında; değerlendirmeler 100 tam puan üzerinden yapılır.
+(5) Derse devam şartını yerine getirerek güz ve bahar dönemlerinde yapılan değerlendirmeler sonucu iki dönemin ortalaması (Değişik ibare:RG-1/8/2025-32973) 65-100 arası olan öğrenciler bahar dönemi sonunda yapılan yeterlilik sınavına girmeye hak kazanırlar.
+(6) (Değişik:RG-10/8/2024-32628)(1) Genel başarı puanı 75’tir; 74,5 ve üstü puanlar 75’e yuvarlanır. Mütercim ve Tercümanlık Bölümü için genel başarı puanı 85’tir; 84,5 ve üstü puanlar 85’e yuvarlanır.
+(7) (Değişik:RG-10/8/2024-32628)(1) Güz yarıyılı sonunda yapılan YYS’den 75, mütercim ve tercümanlık bölümü için 85 puanın altında puan alan ya da YYS’ye girmeyen öğrenciler, bahar yarıyılında hazırlık eğitimlerine devam ederler.
+(8) (Ek:RG-24/8/2021-31578) (Değişik:RG-10/8/2024-32628)(1) Maddi hata yönünden sınavlara itiraz, maddi hata yönünden sınav sonuçlarının ilan tarihini izleyen üç iş günü içinde Yabancı Diller Yüksekokulu Müdürlüğüne yazılı olarak yapılır. Yapılan itirazlar Yabancı Diller Yüksekokulu Müdürlüğünce oluşturulan en az üç kişilik komisyon tarafından incelenir ve itiraz süresinin bitiminden itibaren en geç 3 iş günü içinde karara bağlanarak ilan edilir.

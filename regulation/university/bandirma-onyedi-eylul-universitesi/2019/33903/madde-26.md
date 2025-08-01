@@ -1,0 +1,3 @@
+Yönetmelikte hüküm bulunmayan haller
+MADDE 26 – (Değişik:RG-10/8/2024-32628)(1)
+(1) Bu Yönetmelikte hüküm bulunmayan hâllerde Yükseköğretim Kurulunun yabancı dil eğitim-öğretimi ile ilgili yönerge ve kararları ile 23/3/2016 tarihli ve 29662 sayılı Resmî Gazete’de yayımlanan Yükseköğretim Kurumlarında Yabancı Dil Öğretimi ve Yabancı Dille Öğretim Yapılmasında Uyulacak Esaslara İlişkin Yönetmelik, Bandırma Onyedi Eylül Üniversitesi Ön Lisans ve Lisans Eğitim-Öğretim ve Sınav Yönetmeliği, Bandırma Onyedi Eylül Üniversitesi Lisansüstü Eğitim ve Öğretim Yönetmeliği hükümleri, Senato kararları ve Yüksekokul Kurulu kararları uygulanır.

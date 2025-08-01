@@ -1,0 +1,6 @@
+Devam zorunluluğu
+MADDE 14/A – (Ek:RG-24/8/2021-31578)
+(1) (Değişik:RG-1/8/2025-32973) Hazırlık öğretiminde, bir akademik yıl süresince devam zorunluluğu en az %80’dir. Her bir seviye için geçerli olacak devamsızlık süresi ilgili akademik yılın başında öğrencilere duyurulur.
+(2) (Değişik:RG-10/8/2024-32628)(1) Devamsızlıktan kalan öğrenciler sınıf listelerinden çıkarılır ve kayıtlı oldukları eğitim-öğretim yılındaki sınavlara girme haklarını kaybederler. Bu öğrencilerin girebilecekleri ilk sınav, bir sonraki akademik yılın güz yarıyılı başında düzenlenen YYS’dir.
+(3) Sportif, kültürel veya bilimsel faaliyetler gibi alanlarda; Rektörlük ile birimler tarafından görevlendirilen öğrencilerin görevli oldukları süre ile Türkiye’yi sportif, kültürel veya bilimsel faaliyetler gibi alanlarda uluslararası düzeyde temsil eden öğrencilerin bu faaliyetlerde geçirdikleri süreler, durumlarını belgelemeleri kaydıyla, devamsızlık süresi içinde değerlendirilmez. Bunlar dışındaki tüm mazeretler veya sağlık kurulu raporu hariç olmak üzere raporlu olunan süreler devamsızlık süresi içindedir.
+(4) (Değişik:RG-10/8/2024-32628)(1) Zorunlu hazırlık sınıfında; ilk yıl başarısız olan öğrencilerden, takip eden yılda öğrencinin kendi imkânlarıyla dil öğrenmek istemesi durumunda Yüksekokul Kurulu devam etme şartının aranmaması kararı alabilir.

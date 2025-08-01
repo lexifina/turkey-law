@@ -1,0 +1,6 @@
+Yatay ve dikey geçişler
+MADDE 24 – (1) Bu Yönetmelik hükümleri, yabancı dille yapılan önlisans veya lisans öğretim programına yatay veya dikey geçişle kayıt yaptıran öğrenciler hakkında da uygulanır.
+(2) Yatay ve dikey geçiş ile kayıt olan öğrencilerden yükseköğretimde yabancı dil dersi veya derslerini almış olanların ders muafiyetlerinde alınan ders saati ve kredi ile Türkiye Yükseköğretim Yeterlilikler Çerçevesinde belirtilen seviyeye uygunluğu aranır.
+(3) Yabancı dille veya kısmen yabancı dille eğitim-öğretim yapan bir programa dikey geçiş yoluyla gelen ve 13 üncü maddedeki muaf olma şartlarını taşımayan öğrenciler Üniversitenin açacağı yeterlilik sınavına girerler. Bu sınavda başarısız oldukları veya sınava girmedikleri takdirde iki yarıyıl boyunca yabancı dil hazırlık eğitimi görürler.
+(4) Yatay veya dikey geçiş yoluyla gelen öğrenciler isteğe bağlı hazırlık sınıfına devam edemezler.
+(5) Merkezi yerleştirme puanıyla ve özel durumlarda yatay geçişlerde, 24/4/2010 tarihli ve 27561 sayılı Resmî Gazete’de yayımlanan Yükseköğretim Kurumlarında Önlisans ve Lisans Düzeyindeki Programlar Arasında Geçiş, Çift Anadal, Yan Dal ile Kurumlar Arası Kredi Transferi Yapılması Esaslarına İlişkin Yönetmelik hükümleri ile Yükseköğretim Kurulu kararları uygulanır.

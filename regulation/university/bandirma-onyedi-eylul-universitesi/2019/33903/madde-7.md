@@ -1,0 +1,2 @@
+Ölçme ve değerlendirme
+MADDE 7 – (1) Zorunlu yabancı dil derslerinde ölçme ve değerlendirme için ön lisans ve lisans düzeyinde Bandırma Onyedi Eylül Üniversitesi Ön Lisans ve Lisans Eğitim-Öğretim ve Sınav Yönetmeliği, lisansüstü düzeyinde (Değişik ibare:RG-10/8/2024-32628)(1) 21/2/2021 tarihli ve 31402 sayılı Resmî Gazete’de yayımlanan Bandırma Onyedi Eylül Üniversitesi Lisansüstü Eğitim ve Öğretim Yönetmeliği hükümleri uygulanır.

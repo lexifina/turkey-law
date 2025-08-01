@@ -1,0 +1,31 @@
+{
+  "act_path": "regulation/university/bandirma-onyedi-eylul-universitesi/2019/33903",
+  "availability": "text",
+  "checked_on": "2026-11-14",
+  "commencement_clauses": [
+    "MADDE 27 – (1) Bu Yönetmelik yayımı tarihinde yürürlüğe girer."
+  ],
+  "date_quote": "RG-1/8/2025",
+  "first_law": null,
+  "gazette": "30924",
+  "history": "current-text",
+  "images": {
+    "deferred": 0,
+    "omitted": 0,
+    "referenced": 0,
+    "source": 0
+  },
+  "in_force": "2025-08-01",
+  "in_force_basis": "latest source-printed amendment Gazette date; current consolidated text",
+  "issuer": "Bandırma Onyedi Eylül Üniversitesi",
+  "issuer_slug": "bandirma-onyedi-eylul-universitesi",
+  "kind": "regulation",
+  "published": "2019-10-20",
+  "source": "https://www.mevzuat.gov.tr/anasayfa/MevzuatFihristDetayIframe?MevzuatTur=8&MevzuatNo=33903&MevzuatTertip=5",
+  "source_id": "8.5.33903",
+  "source_sha256": "dae64393944984f048b5083941fb47ee6297d14be90b656e46e1171ca4dd003e",
+  "title": "BANDIRMA ONYEDİ EYLÜL ÜNİVERSİTESİ YABANCI DİL EĞİTİM-ÖĞRETİM VE SINAV YÖNETMELİĞİ",
+  "university_id": 455,
+  "version_label": "oldest version available",
+  "word_count": 3316
+}
