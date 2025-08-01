@@ -1,0 +1,4 @@
+Muayene ve kabul komisyonlarının görevleri
+MADDE 4 – (1) Geçici kabul komisyonu, kurulmasından itibaren en geç on gün içinde işyerine giderek yüklenici tarafından gerçekleştirilen işleri Yapım İşleri Genel Şartnamesinin 41 inci maddesine göre inceler, muayene eder ve gerekli gördüğü kısımların işletme ve çalışma deneylerini yapar. Geçici kabule engel bir durum bulunmadığı taktirde, işin geçici kabulünü yapar.
+(2) Kesin kabul komisyonu, kurulmasından itibaren en geç on gün içinde işyerine giderek yüklenici tarafından gerçekleştirilen işleri Yapım İşleri Genel Şartnamesinin 41 ve 44 üncü maddelerine göre inceler, muayene eder ve gerekli gördüğü kısımların işletme ve çalışma deneylerini yapar. Kesin kabule engel bir durum bulunmadığı taktirde, işin kesin kabulünü yapar.
+(3) Yukarıda belirtilen süreler, gerekmesi halinde yetkili makam tarafından uzatılabilir.

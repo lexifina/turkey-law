@@ -1,0 +1,3 @@
+Geçici kabul başvurusu
+MADDE 6 – (1) Taahhüt edilen iş, sözleşme ve eklerinde yer alan hükümlere uygun olarak tamamlandığında yüklenici idareye geçici kabulün yapılması için yazılı olarak başvuruda bulunur.
+(2) Zorunlu bir neden olmadığı taktirde, başvuru tarihinden itibaren en geç on gün içinde iş, yapı denetim görevlisi tarafından ön incelemeye tabi tutulur. İnceleme sonucu işin sözleşme ve eklerine uygun olarak tamamlandığının ve kabul işleminin yapılmasında Yapım İşleri Genel Şartnamesine göre bir engel bulunmadığının anlaşılması durumunda, yapı denetim görevlisi (Mülga ibare:RG-18/5/2024-32550)[1] “Geçici Kabul Teklif Belgesi”ni düzenler ve yetkili makama gönderir. Yetkili makam, en geç on gün içinde Geçici Kabul Komisyonunu oluşturur.

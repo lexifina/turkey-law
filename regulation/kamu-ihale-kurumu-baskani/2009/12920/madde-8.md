@@ -1,0 +1,2 @@
+Geçici kabul itibar tarihi
+MADDE 8 – (1) Yüklenicinin, taahhüdündeki işi sözleşmesinde veya idare tarafından verilen en son süre uzatım kararında öngörülen iş bitim tarihinde tamamladığı yapı denetim görevlisi tarafından yapılan ön incelemede tespit edilmiş olması şartı ile, kabul komisyonunun iş yerine geç gitmesi ve kabul işlemini geç yapması halinde, kabul tutanağında itibar tarihi olarak işin fiilen bitmiş olduğu tarih gösterilir ve bu tarih, işin geçici kabul tarihi kabul edilir.
