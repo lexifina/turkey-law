@@ -1,0 +1,18 @@
+{
+  "kind": "norm",
+  "issuer": "Bilgi Teknolojileri ve İletişim Kurumu",
+  "document_type": "kurul-karari",
+  "number": "2025/DK-ETD/223",
+  "source_id": "2025/DK-ETD/223",
+  "date": "2025-07-04",
+  "title": "Türk Telekom EAG Ücretleri",
+  "source": "https://www.btk.gov.tr/s3/web-btk-site/7708c26c-5161-4919-8b3d-daa31d4ac8fb/2026/03/762da1bd-d11d-479c-8546-b067190eb8cf.pdf",
+  "source_sha256": "25f0502ae331ad6dc4b758d8ed0865f256a85d2ecd67af75e3dd33dca280805a",
+  "text_status": "as-enacted",
+  "text_file": "metin.md",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  }
+}
