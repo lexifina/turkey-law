@@ -1,0 +1,5 @@
+Menşe ispat belgesinin geçerliliği
+MADDE 24- (1) Bir menşe ispat belgesi, ihracatçı Taraf ülkede düzenlenme tarihinden itibaren dört ay süreyle geçerli olur ve bu süre zarfında ithalatçı Taraf ülkenin gümrük idarelerine ibraz edilmelidir.
+(2) Birinci fıkrada belirtilen son ibraz tarihinden sonra ithalatçı Taraf ülkenin gümrük idarelerine ibraz edilen menşe ispat belgeleri, bu belgelerin belirlenen son tarihe kadar ibraz edilememesinin istisnai durumlardan kaynaklanması halinde, tercihli muamele uygulanmak üzere kabul edilebilir.
+(3) Diğer geç ibraz hallerinde; ithalatçı Taraf ülkenin gümrük idareleri, ürünlerin belirtilen son tarihten önce gümrüğe sunulmuş olması kaydıyla menşe ispat belgelerini kabul edebilir.
+(4) Menşe ispat belgelerinin ibraz süresinden sonra tercihli muameleden yararlanması için bu sürenin bitiminden önce eşyanın gümrüğe gelmiş ve yine bu süreden önce ithalatçı veya onun sorumluluğu altında gümrük beyannamesini imzalamaya yetkili kanuni temsilcisi tarafından yazılı olarak ilgili gümrük idaresine başvurulmuş olması gerekmektedir.
