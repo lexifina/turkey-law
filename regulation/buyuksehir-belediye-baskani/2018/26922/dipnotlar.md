@@ -1,0 +1,2 @@
+[1] 2/8/2025 tarihli ve 32974 sayılı Resmî Gazete’de yayımlanan değişiklik ile Yönetmeliğin bu maddesine dördüncü fıkradan sonra gelmek üzere fıkra eklenmiş ve diğer fıkralar buna göre teselsül ettirilmiştir.
+[2] 2/8/2025 tarihli ve 32974 sayılı Resmî Gazete’de yayımlanan değişiklik ile Yönetmeliğin bu maddesine on yedinci fıkrasından sonra gelmek üzere fıkra eklenmiş ve diğer fıkralar buna göre teselsül ettirilmiştir.
