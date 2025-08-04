@@ -1,0 +1,22 @@
+{
+  "kind": "norm",
+  "issuer": "Gelir İdaresi Başkanlığı",
+  "document_type": "ozelge",
+  "number": "90792880-140.04.01[2025/21]-428334",
+  "source_id": 38789,
+  "date": "2025-08-04",
+  "title": "Yatırım Teşvik Belgesi Kapsamında Tapu Harcı Aranılıp Aranılmayacağı",
+  "source": "https://gib.gov.tr/mevzuat/kanun/439/ozelge/38789",
+  "related_law": "492 sayılı HARÇLAR KANUNU",
+  "source_api": "https://gib.gov.tr/api/gibportal/mevzuat/ozelge/list",
+  "source_listing": "evidence/list/2026-11-16/ozelge-p009.json",
+  "source_listing_sha256": "9cb52b4963a9a177a23948f6e28c12936c2f43c88a0b410872bb81c01983667c",
+  "source_sha256": "625d9df482562334718ca1013b73c026ea9445cccf10341a106f6aa7850cb14d",
+  "text_status": "as-enacted",
+  "text_file": "metin.md",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  }
+}
