@@ -1,0 +1,5 @@
+Ağırlıklı not ve ağırlıklı not ortalaması
+MADDE 16 – (1) Bir dersin kredisi ile o dersten alınan notun katsayısının çarpımı o dersin ağırlıklı notudur.
+(2) Dönem Ağırlıklı Not Ortalaması: Öğrencinin o yarıyıl kaydolduğu tüm derslerin ağırlıklı notlarının toplamının aynı derslerin kredi toplamına bölünmesi ile elde edilir. Bölme işlemi virgülden sonra iki basamak yürütülür. Sonuçlarda virgülden sonraki üçüncü hane beşten küçükse sıfıra, beş veya daha büyükse artırılmış şekilde yuvarlanarak iki hane olarak tespit edilir.
+(3) Genel Ağırlıklı Not Ortalaması: Öğrencinin Konservatuvara kaydolmasından itibaren aldığı bütün derslerin ağırlıklı notlarının toplamının aynı derslerin kredi toplamına bölünmesi ile elde edilir. Genel ağırlıklı not ortalaması hesaplamasında öğrencinin tekrar ettiği derslerden aldığı son harf notu esas alınır. Öğrencilerin muaf tutuldukları dersler genel ağırlıklı not ortalamasının hesaplanmasında dikkate alınmaz.
+(4) Mezuniyet Ağırlıklı Not Ortalaması: Öğrencinin mezun olmaya hak kazandığı tarih itibariyle genel ağırlıklı not ortalaması, mezuniyet ağırlıklı not ortalamasıdır.

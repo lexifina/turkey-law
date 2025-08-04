@@ -1,0 +1,14 @@
+Giriş ve kayıt şartları
+MADDE 5 – (Değişik:RG-25/7/2023-32259)(1)
+(1) Konservatuvara giriş için aşağıdaki şartlar aranır:
+a) Lise veya dengi okul mezunu olmak.
+b) Özel yetenek sınavlarında başarılı olmak.
+c) Kayıt için ÖSYM kılavuzunda belirtilen belgeleri getirmek.
+ç) Lisans programına kayıt hakkı kazanan kişi için aynı zamanda bir başka örgün ya da kontenjan sınırlaması olan açık öğretim ya da uzaktan eğitim lisans programında kayıtlı olmamak.
+(2) Konservatuvara alınacak öğrencilerde aranacak genel ve özel şartlar ile öğrenci ön kayıt ve özel yetenek sınavı tarihleri Konservatuvar Kurulu ile belirlenir ve Rektörlük tarafından ilan edilir.
+(3) Konservatuvara öğrenci olarak kabul edilebilmek için ön kayıt ve kabul şartlarını taşıyan adaylar, Yönetim Kurulunca tespit edilen komisyonlar tarafından yapılacak olan ve baraj sınavı ile kesin kabul sınavından oluşan özel yetenek sınavlarında başarılı olmak zorundadırlar. Özel yetenek sınavı uygulama yönergesi Senato tarafından belirlenir. Adaylar, Konservatuvar internet sayfasında ve binasında ilan edilen gün, saat ve yerde bu sınavlara girmek zorundadır.
+(4) Özel yetenek sınavlarında başarılı olan adaylar, puan durumuna göre ön kayıt yaptırdıkları anasanat dalları itibarıyla sıraya konulur ve kazanan adaylar kontenjan dahilinde asıl liste ve yedek liste olarak ilan edilir.
+(5) Giriş sınavları sonucuna göre başarılı olup asıl listeden Konservatuvara girmeye hak kazanan adayların kesin kayıt tarihleri Rektörlük tarafından ilan edilen tarihlerde Konservatuvar tarafından yapılır. Kesin kayıt süresi sonunda kontenjanlarda açık kaldığı takdirde, açık kalan kontenjan sayısı kadar yedek listeden kayıt hakkı kazanan adaylardan yedek kayıt süresi içinde sıra ile kayıt yapılabilir.
+(6) Kayıt hakkı kazanan adayların kayıt için bizzat başvuru yapmaları gerekir. Ancak, mazeretleri sebebiyle bizzat başvuru yapamayan adaylar, noter vekâletnamesini haiz vekilleri veya temsilcileri aracılığı ile kayıt yaptırabilir. Posta ile yapılan başvurular kabul edilmez. Kayıt yaptıracak adayların diploma ve kimlik belgeleri, ilgili birim görevlisi tarafından aslına uygunluğu kontrol edildikten sonra fotokopileri tasdik edilir ve belgelerin asılları öğrenciye teslim edilir.
+(7) Belirlenen tarihler arasında kesin kaydını yaptırmayan adaylar öğrencilik hakkından vazgeçmiş sayılır ve herhangi bir hak iddia edemez.
+(8) Eksik belge ile kayıt yapılmaz. Kesin kayıt yaptırırken sahte veya tahrif edilmiş belge kullanan, yalan beyanda bulunan veya üniversiteye giriş sınavında sahtecilik yaptığı belirlenen kişinin kaydı; kayıt tarihinden geçerli olmak üzere iptal edilir ve kişi hakkında işlem başlatılır. Bu kişi Üniversiteden ayrılmışsa bu kişiye Üniversite tarafından verilen diploma dâhil tüm belgeler iptal edilir. Bu kişilerin Üniversiteye yatırmış olduğu öğrenci katkı payı ve benzeri diğer ücretlerin geri ödemesi yapılmaz.
