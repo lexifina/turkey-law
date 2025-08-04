@@ -1,0 +1,25 @@
+{
+  "number": "meeting-08-04",
+  "number_as_published": "meeting-08-04",
+  "year": 2025,
+  "title": "04.08.2025 Tarihli 49 ve 50 Sayılı Meclis Kararları",
+  "decision_date": "2025-08-04",
+  "source": "https://araban.bel.tr/karar/04-08-2025-tarihli-49-ve-50-sayili-meclis-kararlari.html",
+  "official_document": "https://araban.bel.tr/karar/04-08-2025-tarihli-49-ve-50-sayili-meclis-kararlari.html",
+  "source_sha256": "b961531e1e267373f0dadd1eddf6b6eee7004ebaed3ec36825623e5109341dc9",
+  "issuer": "Araban Belediye Meclisi",
+  "history_type": "metadata",
+  "text_status": "metadata-only: listing fields as published; complete decision text is in the linked official document, not transcribed",
+  "in_force": "2025-08-04",
+  "in_force_basis": "Decision date as printed in the official council listing: 04.08.2025; adoption date of the council decision; legal commencement not asserted",
+  "missing": [
+    "complete official decision text",
+    "official annexes"
+  ],
+  "law_text_complete": false,
+  "privacy_withheld": false,
+  "listing_label": "04.08.2025 Tarihli 49 ve 50 Sayılı Meclis Kararları",
+  "record_scope": "one official file of council decisions (meeting)",
+  "official_page": "https://araban.bel.tr/karar/04-08-2025-tarihli-49-ve-50-sayili-meclis-kararlari.html",
+  "document_note": "the decisions are published on the official page itself as 2 scanned image(s); not transcribed here"
+}
