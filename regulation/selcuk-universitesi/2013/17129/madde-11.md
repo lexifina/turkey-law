@@ -1,0 +1,3 @@
+Staj
+MADDE 11− (1) Fakültenin eğitim-öğretim programında altıncı yarıyılını tamamlayan öğrenciler dokuzuncu yarıyılın başlangıcına kadar, ders ve sınav dönemlerinin dışında, Fakülte içinde, başka bir kurumda veya mesleki çalışma alanlarında toplam kırk iş günü staj yaparlar. Staj ile ilgili hususlar Senato tarafından belirlenen esaslar çerçevesinde düzenlenir.
+(2) Öğrenciler staj sonunda hazırlayacakları bir raporu Dekanlığa sunarlar. Dekanlık tarafından oluşturulan staj komisyonu bu raporları inceler ve yapacakları değerlendirme sonucunda öğrenciyi başarılı (G) veya başarısız (K) olarak değerlendirir. Başarısız olan öğrenciler stajı tekrarlamak ve değerlendirmeyi başarmak zorundadır.

@@ -1,0 +1,2 @@
+Diploma onur öğrencileri
+MADDE 27 – (1) Fakülteden mezun olmaya hak kazanan, hiç disiplin cezası almamış ve mezuniyet ağırlıklı not ortalaması 3.50 ve üstü olan öğrenciler diploma yüksek onur öğrencisi olarak; 3.00 ila 3.49 arasında olan öğrenciler ise, diploma onur öğrencisi olarak tanımlanır. Öğrenciye, diploması ile birlikte diploma yüksek onur/onur öğrencisi olduğunu gösterir bir belge verilir ve diploma ekinde belirtilir.

@@ -1,0 +1,5 @@
+Diplomalar
+MADDE 24 – (1) Bir öğrencinin Fakülteden mezun olabilmesi için, eğitim-öğretim programında öngörülen mezuniyeti için gerekli olan dersleri almış ve başarmış olması, stajını tamamlamış ve mezuniyet ağırlıklı not ortalamasının en az 2.00 olması gerekir. Fakültenin eğitim-öğretim programının ilk iki yılında, ilk dört yarıyılında öngörülen tüm dersleri başarı ile tamamlayan öğrenciye, Fakülteden ayrılmak istemesi halinde, ön lisans diploması verilir. Ön lisans diploması almak için yapılacak başvurular herhangi bir süre ile sınırlı değildir
+(2) Fakültenin eğitim-öğretim programında öngörülen tüm dersleri bu Yönetmelik hükümlerine göre alarak başarıyla tamamlayan öğrenciler Veteriner Fakültesi diploması ve diploma eki almaya hak kazanırlar. (Ek cümle:RG-27/9/2023-32322)(2) Öğrenci diplomasını şahsen veya noter vekâletnamesini haiz vekilleri aracılığıyla alabilir.
+(3) Diplomaların şekli ve üzerinde yer alacak bilgiler (Değişik ibare:RG-27/9/2023-32322)(2) Senato tarafından onaylanır. Diplomalar Rektör ve Dekan tarafından imzalanır ve Rektörlükçe soğuk damga ile mühürlenir.
+(4) (Mülga:RG-27/9/2023-32322)(2)

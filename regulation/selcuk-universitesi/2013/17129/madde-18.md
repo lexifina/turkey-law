@@ -1,0 +1,5 @@
+Ağırlıklı not ve ağırlıklı not ortalamaları
+MADDE 18 – (1) Bir dersin kredisi ile o dersten alınan notun katsayısının çarpımı o dersin ağırlıklı notudur.
+(2) YANO; öğrencinin o yarıyıl kaydolduğu tüm derslerin ağırlıklı notlarının toplamının aynı derslerin kredi toplamına bölünmesi ile elde edilir. Bölme işlemi virgülden sonra iki basamak yürütülür. Sonuçlarda virgülden sonraki üçüncü hane beşten küçükse sıfıra, beş veya daha büyükse artırılmış şekilde yuvarlanarak iki hane olarak tespit edilir. YANO her yarıyıl için o yarıyıl sonunda hesaplanır.
+(3) GANO; öğrencinin Fakültede eğitim-öğretime başlamasından itibaren aldığı bütün derslerin ağırlıklı notlarının toplamının aynı derslerin kredi toplamına bölünmesi ile elde edilir. GANO hesaplamasında öğrencinin tekrar ettiği derslerden aldığı son harf notu dikkate alınır. GANO her yarıyıl sonunda yeniden hesaplanır. Öğrencilerin muaf tutuldukları dersler GANO hesaplanmasında dikkate alınmaz.
+(4) Öğrencinin mezun olmaya hak kazandığı tarih itibariyle genel ağırlıklı not ortalaması mezuniyet ağırlıklı not ortalamasıdır.

@@ -1,0 +1,13 @@
+Ders alma
+MADDE 13 − (1) Ders alma ile ilgili esaslar şunlardır:
+a) Öğrenci, yarıyıl başında öncelikle alt sınıflarda hiç almadığı, devamsız kaldığı veya başarısız olduğu dersleri almak kaydıyla, ön şartlı dersler hariç, bulunduğu yarıyıl derslerinden de alır. Öğrenci, bulunduğu yarıyıldan alacağı derslerin sayısına, alt sınıflardan başarısız ve devam etmek zorunda olduğu dersler ve ders programını dikkate alarak, danışmanı ile birlikte karar verir.
+b) (Değişik:RG-27/9/2023-32322)(2) GANO’su birinci, ikinci, üçüncü ve dördüncü sınıf sonunda 2.00’ın altında olan öğrenci bir üst sınıftan ders alamaz, alt yarıyıllardan başarısız olduğu dersleri tekrar eder.
+c) Öğrenci, danışmanın olumlu görüşü ile (Değişik ibare:RG-27/9/2023-32322)(2) ikinci yarıyılın sonunda tüm derslerden başarılı olması ve GANO’su en az 3.00 olması şartı ile bulunduğu yarıyıl programında bulunan derslerin toplam kredisinin %20’sine kadar bir üst (Değişik ibare:RG-27/9/2023-32322)(2) yarıyıldan ders alabilir.
+ç) Öğrenci bir önceki eğitim-öğretim yılındaki BB’den daha düşük not aldığı ders/dersleri not yükseltmek için tekrar alabilir. Bu durumda alınan son not geçerli olur.
+d) Kayıt dondurma, uzaklaştırma veya başarısızlık nedeniyle dönem kaybeden veya ders kaydı yaptırmayan öğrenciler öğrenimlerine kaldıkları yarıyıldan devam ederler, bir üst yarıyıldan/yıldan ders alamazlar.
+e) Programdan kaldırılan ve yerine yeni bir ders konulmayan herhangi bir dersten başarısız olan öğrenci, o dersten muaf sayılır. (Ek cümle:RG-27/9/2023-32322)(2) Öğrenciye, programdan kaldırılan dersin yerine 30 AKTS kredisini tamamlamak üzere danışmanın uygun gördüğü ders ilgili kurul kararı ile verilir.
+f) Öğrenciler Fakülte Yönetim Kurulunun uygun gördüğü hallerde ulusal ve uluslararası öğrenci değişim programları ile öğrenimlerine başka üniversitelerde devam edebilirler. Ayrıca öğrenciler, eğitim programlarında yer aldığı takdirde yaygın seçmeli dersler havuzunda bulunan aynı veya başka birimlerin bölüm/programlarında yer alan dersleri alabilirler.
+g) Bazı dersleri almak için (Değişik ibare:RG-27/9/2023-32322)(2) Fakülte Kurulu tarafından ön şart belirlenebilir.
+ğ) (Ek:RG-27/9/2023-32322)(2) Bazı dersler uzaktan eğitim veya hibrit eğitim yöntemleri ile verilebilir. Uzaktan eğitim veya hibrit eğitimin esasları Senato tarafından belirlenir.
+h) (Ek:RG-27/9/2023-32322)(2) Öğrenci alacağı sağlık raporunu devamsızlıktan muaf tutulmak için beyan edemez.
+ı) (Ek:RG-27/9/2023-32322)(2) Derse devam şartını yerine getirmeyen ya da uygulamalardan başarısız olan öğrenciler o dersi, bir sonraki açıldığı yarıyılda devam etme koşuluyla tekrar almak zorundadır.
