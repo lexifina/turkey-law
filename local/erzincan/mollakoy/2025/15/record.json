@@ -1,0 +1,26 @@
+{
+  "number": "15",
+  "number_as_published": "15",
+  "year": 2025,
+  "title": "İdari iş ve işlemlerine ait 2025 yılı teftiş raporunun değerlendirilmesi hk",
+  "decision_date": "2025-08-05",
+  "source": "https://www.mollakoy.bel.tr/meclis-kararlari/sayfa/3/",
+  "official_document": "https://www.mollakoy.bel.tr/karar/idari-is-ve-islemlerine-ait-2025-yili-teftis-raporunun-degerlendirilmesi-hk/95/",
+  "source_sha256": "ea8e08a56372e3bd29c6e83992392ed1fe0f21452196e2dafd3bfddc9cf5c5a9",
+  "issuer": "Mollaköy Belediye Meclisi",
+  "history_type": "metadata",
+  "text_status": "metadata-only: listing fields as published; complete decision text is in the linked official document, not transcribed",
+  "in_force": "2025-08-05",
+  "in_force_basis": "Decision date as printed in the official council listing: Meclisi 05.08.2025; adoption date of the council decision; legal commencement not asserted",
+  "missing": [
+    "complete official decision text",
+    "official annexes"
+  ],
+  "law_text_complete": false,
+  "privacy_withheld": false,
+  "official_page": "https://www.mollakoy.bel.tr/karar/idari-is-ve-islemlerine-ait-2025-yili-teftis-raporunun-degerlendirilmesi-hk/95/",
+  "listing_label": "İdari iş ve işlemlerine ait 2025 yılı teftiş raporunun değerlendirilmesi hk",
+  "record_scope": "one council decision (number, date, subject as published)",
+  "date_read_from": "meeting date in the decision text (the item's Karar Tarihi field carries a clock time)",
+  "document_note": "the decision text is on the official item page; not transcribed here"
+}
