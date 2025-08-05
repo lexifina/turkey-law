@@ -1,0 +1,26 @@
+{
+  "number": "17",
+  "number_as_published": "17",
+  "year": 2025,
+  "title": "Toplu taşımacılıkta kullanmak üzere araç alımının görüşülmesi",
+  "decision_date": "2025-08-05",
+  "source": "https://www.mollakoy.bel.tr/meclis-kararlari/sayfa/3/",
+  "official_document": "https://www.mollakoy.bel.tr/karar/toplu-tasimacilikta-kullanmak-uzere-arac-aliminin-gorusulmesi/97/",
+  "source_sha256": "98e0ea396d2516875b2fc4a3f6941df826bc005ba4aa01fba03c17b8fa6705bd",
+  "issuer": "Mollaköy Belediye Meclisi",
+  "history_type": "metadata",
+  "text_status": "metadata-only: listing fields as published; complete decision text is in the linked official document, not transcribed",
+  "in_force": "2025-08-05",
+  "in_force_basis": "Decision date as printed in the official council listing: Meclisi 05.08.2025; adoption date of the council decision; legal commencement not asserted",
+  "missing": [
+    "complete official decision text",
+    "official annexes"
+  ],
+  "law_text_complete": false,
+  "privacy_withheld": false,
+  "official_page": "https://www.mollakoy.bel.tr/karar/toplu-tasimacilikta-kullanmak-uzere-arac-aliminin-gorusulmesi/97/",
+  "listing_label": "Toplu taşımacılıkta kullanmak üzere araç alımının görüşülmesi",
+  "record_scope": "one council decision (number, date, subject as published)",
+  "date_read_from": "meeting date in the decision text (the item's Karar Tarihi field carries a clock time)",
+  "document_note": "the decision text is on the official item page; not transcribed here"
+}
