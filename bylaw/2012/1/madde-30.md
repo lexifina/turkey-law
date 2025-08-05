@@ -1,0 +1,4 @@
+Bölümlerin çalışma usulü
+MADDE 30- (1) Bölüm toplantılarında, dava dosyası, gündem sırasına göre Bölüm raportörü tarafından ayrıntılı biçimde anlatılır.
+(2) Bölüm Başkanı konuyla ilgili söz isteyen üyelere istem sırasına göre görüşlerini açıklamak üzere söz verir. Müzakerelerin tamamlanmasından sonra kıdemsiz üyeden başlamak üzere oylama yapılarak karar verilir. Bu durum Başkan tarafından bir tutanakla tespit edilir.
+(3) Oylama sonucuna göre, hazırlanan karar taslağının incelenmesine geçilir. Bölüm Başkanı, üyelerden varsa sayfa ve paragraf numarası belirterek yapılmasını istedikleri değişiklik önerilerini bildirmelerini ister. Bu öneriler heyet tarafından oylanır. Heyetçe alınan karar doğrultusunda kabul edilen metin gerekli tashih işlemleri yapılmak üzere başraportöre gönderilir. Düzeltmelerin yapılmasının ardından karar, heyetin imzasına sunulur.
