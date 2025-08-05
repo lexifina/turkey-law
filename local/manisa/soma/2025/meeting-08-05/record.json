@@ -1,0 +1,24 @@
+{
+  "number": "meeting-08-05",
+  "number_as_published": "meeting-08-05",
+  "year": 2025,
+  "title": "05.08.2025 161-174 2025 Ağustos Meclis Karar Özetleri",
+  "decision_date": "2025-08-05",
+  "source": "https://www.soma.bel.tr/karar-detay/2025-agustos-meclis-karar-oezetleri/75",
+  "official_document": "https://www.soma.bel.tr/media/meclis_kararlari/17548916582025Agustosayimecliskararozetleri.pdf",
+  "source_sha256": "4f4457e25346bef8cee9d94647e2d7e4de122930715313f2ca9658191d8fa4a8",
+  "issuer": "Soma Belediye Meclisi",
+  "history_type": "metadata",
+  "text_status": "metadata-only: listing fields as published; complete decision text is in the linked official document, not transcribed",
+  "in_force": "2025-08-05",
+  "in_force_basis": "Decision date as printed in the official council listing: 05.08.2025; adoption date of the council decision; legal commencement not asserted",
+  "missing": [
+    "complete official decision text",
+    "official annexes"
+  ],
+  "law_text_complete": false,
+  "privacy_withheld": false,
+  "listing_label": "05.08.2025 161-174 2025 Ağustos Meclis Karar Özetleri",
+  "record_scope": "one official file of council decisions (meeting)",
+  "official_page": "https://www.soma.bel.tr/karar-detay/2025-agustos-meclis-karar-oezetleri/75"
+}
