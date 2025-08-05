@@ -1,0 +1,6 @@
+Yüksek Disiplin Kurulu
+MADDE 41- (1) Üyeler ve Kanunun 24 üncü maddesinin ikinci fıkrasının (a) ve (b) bentleri uyarınca görevlendirilen raportörler hariç olmak üzere, Mahkemede istihdam edilen personelin disiplin işleri Yüksek Disiplin Kurulu tarafından yürütülür. Ancak Kanunun 24 üncü maddesinin ikinci fıkrasının (a) ve (b) bentlerine göre görevlendirilen raportörlerin disiplin eylemlerinden dolayı Başkanın bildirmesi üzerine, bağlı bulundukları kurumlarca kendileriyle ilgili mevzuat hükümleri uyarınca işlem yapılır.
+(2) Yüksek Disiplin Kurulu, Genel Sekreterin önerisi ve Başkanın onayı ile Genel Sekreter yardımcılarından birisi ve Mahkemede en az üç yıl görev yapmış raportörler arasından belirlenen iki kişi olmak üzere üç kişiden oluşur. Kurulun başkanlığını Genel Sekreter yardımcısı yapar. Kurul üyeleri iki yıllığına atanırlar.
+(3) Yüksek Disiplin Kurulunca yapılan inceleme ve soruşturma sonucunda disiplin cezası uygulanmasına gerek olup olmadığı; disiplin cezasının gerekli görülmesi hâlinde fiilin niteliği ve ağırlık derecesine uygun olarak disiplin cezası tayin olunur.
+(4) Disiplin cezasını gerektiren hâller ve verilecek cezalar konusunda 14/7/1965 tarihli ve 657 sayılı Devlet Memurları Kanununun, Kanuna aykırı olmayan hükümleri uygulanır.
+(5) Kurulun çalışma usul ve esasları ile sair hususlar yönetmelikle düzenlenir.

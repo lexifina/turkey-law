@@ -1,0 +1,5 @@
+Başvurunun yapılabileceği yerler
+MADDE 63- (1) (Değişik: RG-6/11/2018-30587) Bireysel başvurular, Kanunda ve İçtüzükte belirtilen şartlara uygun biçimde İçtüzük ekindeki ve Mahkemenin internet sitesinde yayımlanan başvuru formu kullanılarak Mahkemeye şahsen yapılabileceği gibi diğer mahkemeler ya da yurt dışı temsilcilikler vasıtasıyla da yapılabilir.
+(2) Usulünce hazırlanan başvuru formu, harç tahsil makbuzuyla birlikte yukarıda belirtilen yerlere teslim edildiğinde başvurucu ya da temsilcisine alındı belgesi verilir ve bu tarih, başvurunun yapıldığı tarih olarak kabul edilir.
+(3) Mahkemeler ya da yurt dışı temsilciliklerine teslim edilen başvuru formu ve ekleri gerekli kayıt işlemleri yapılıp fiziki ve elektronik ortamda Mahkemeye gönderilir. Dava ve diğer yargılama işlemlerinin elektronik ortamda gerçekleştirildiği hallerde UYAP kullanılarak veriler kaydedilir ve saklanır.
+(4) Genel Kurul; elektronik ortamda, güvenli elektronik imza kullanılarak başvuru yapılabilmesine ilişkin karar alabilir.

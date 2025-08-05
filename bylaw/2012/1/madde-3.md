@@ -1,0 +1,31 @@
+Tanımlar
+MADDE 3- (1) Bu İçtüzük uygulamasında;
+a) Araştırma ve İçtihat Birimi (Ar-İç): Mahkeme kararlarını izleyerek içtihadın geliştirilmesi ve tanıtımı için çalışmalar yapmak, içtihat farklılıklarının önlenmesine yönelik önerilerde bulunmak ve bu amaçlarla istatistikler ve araştırma raporları hazırlamakla görevli birimi,
+b) Başkan: Anayasa Mahkemesi Başkanını,
+c) Başkanlık: Anayasa Mahkemesi Başkanlığını,
+ç) Başkanvekili: Bölümlerin başkanlığını yürütmek ve Başkana vekâlet etmek üzere Genel Kurulca dört yıllığına seçilen üyeleri,
+d) Başraportör: Genel Kurulda, bireysel başvuru birimlerinde ve Ar-İç’te raportörler ve raportör yardımcılarının faaliyetlerinin ve Mahkemede oluşturulan çalışma gruplarının düzenli ve verimli işleyişini sağlamak, Genel Kurul ve Bölümlerin işleyişi ile ilgili konularda Başkana ve Bölüm Başkanlarına yardımcı olmak üzere Başkan tarafından görevlendirilen raportörleri,
+e) Başvurucu: Kanunun 46 ncı maddesinde belirtilen ve Anayasanın ilgili maddesinin işaret ettiği temel hak ve özgürlüklerden birinin kamu gücü tarafından ihlal edildiği iddiasıyla Mahkemeye bireysel başvuru yapan gerçek ya da tüzel kişiyi,
+f) Bireysel başvuru raportörü: Bölümler ve Komisyonlar raportörlerini,
+g) Bölüm Başkanı: Bölümlere başkanlık eden Başkanvekillerinden her birini,
+ğ) Bölüm: Bölüm başkanının başkanlığında altı üyeden oluşan, ilgili Bölüm Başkanı ve dört üyenin katılımıyla toplanıp Komisyonlarca kabul edilebilirliğine karar verilmiş başvuruların esası, kabul edilebilirliği hususu karara bağlanmak üzere sevk edilen başvuruların ise kabul edilebilirliği ve esası hakkında karar verme yetkisine sahip olan kurulları,[1]
+h) (Değişik: RG-6/11/2018-30587) Bölümler raportörü: Başvuruların esasına ve gerektiğinde kabul edilebilirliğine ilişkin karar taslaklarını başraportörün gözetiminde hazırlamak, gerekli yazışma ve sunumları yapmakla görevli raportörleri,
+ı) Çalışma grubu: Hukukî, idari veya teknik hususlarda ortaya çıkan sorunların çözümünde uygulama birliği ve iş verimliliğinin sağlanması için çalışmalar yapmak ve görüş belirlemek amacıyla oluşturulan grubu,
+i) Genel Kurul raportörü: Genel Kurulun görev alanına giren hususlarda yargısal ve idari çalışmalar yapmak üzere Başkan tarafından görevlendirilen raportörleri,
+j) Genel Kurul: Onbeş üyeden oluşan kurulu,1
+k) Genel Sekreter: Anayasa Mahkemesi Genel Sekreterini,
+l) Genel Sekreter Yardımcısı: Anayasa Mahkemesi Genel Sekreter yardımcılarını,
+m) Gruplandırma: Benzer nitelikteki bireysel başvuruların, kabul edilebilirliği ve esası hakkındaki incelemelerin daha hızlı ve tutarlı biçimde yapılması amacıyla belli konu başlıkları altında bir araya getirilmesini,
+n) İçtüzük: Anayasa Mahkemesi İçtüzüğünü,
+o) Kanun: 30/3/2011 tarihli ve 6216 sayılı Anayasa Mahkemesinin Kuruluşu ve Yargılama Usulleri Hakkında Kanunu,
+ö) Kıdem: Anayasa Mahkemesi üyeliğine seçilme tarihinden itibaren geçen süreyi veya aynı tarihte seçilenlerden yaşça büyük olmayı; Başkanvekilliğinde kıdem, Başkanvekilliğinde geçen süreyi veya aynı tarihte seçilmişlerse üyeliğe seçilme tarihinden itibaren geçen süreyi, yeniden seçilme hâlinde Başkanvekilliğinde geçen toplam süreyi,
+p) Komisyon: Bireysel başvuruların kabul edilebilirlik incelemesini yapmak üzere iki üyeden oluşan kurulları,
+r) (Değişik: RG-6/11/2018-30587) Komisyonlar raportörü: Başvuruların kabul edilebilirliğine ve gerektiğinde esasına ilişkin karar taslaklarını başraportörün gözetiminde hazırlamak, gerekli yazışma ve sunumları yapmakla görevlendirilen raportörleri,
+s) Mahkeme: Genel Kurul, Bölümler ve Komisyonlar ile bunlardan oluşan Anayasa Mahkemesini,
+ş) Raportör: Kanunun 24 üncü ve 25 inci maddeleri uyarınca Mahkemenin yargısal ve idari çalışmalarına yardımcı olmak üzere Başkan tarafından atanan ya da görevlendirilen raportörleri,
+t) Raportör yardımcısı: Kanunun 27 nci maddesi uyarınca Mahkemenin yargısal ve idari çalışmalarına yardımcı olmak üzere Başkan tarafından atanan raportör yardımcılarını,
+u) Sözleşme: 4 Kasım 1950 tarihli, İnsan Hakları ve Temel Özgürlüklerin Korunmasına İlişkin Sözleşmeyi ve buna ek Türkiye’nin taraf olduğu Protokolleri,
+ü) Ulusal Yargı Ağı Bilişim Sistemi (UYAP): Adalet hizmetlerinin elektronik ortamda yürütülmesi amacıyla oluşturulan bilişim sistemini,
+v) Üye: Başkan ve başkanvekilleri de dâhil tüm üyeleri,
+y) Yüce Divan: Kanunun 3 üncü maddesinin birinci fıkrasının (ç) bendinde belirtilen kişilerin, görevleri ile ilgili suçlarından dolayı yargılamasını yapmakla görevli Genel Kurulu,
+İfade eder.

@@ -1,0 +1,4 @@
+Atanan raportörler ve raportör yardımcılarının yükselme ve kademe ilerlemesi
+MADDE 40- (1) Kanunun 24 üncü maddesinin ikinci fıkrasının (c) bendi ve 25 inci maddesinin sekizinci fıkrası uyarınca atanan raportörlerin kademe ve derece yükselmelerine, birinci sınıfa ayrılma ve birinci sınıf olmalarına ilişkin kararlar, iş durumları, mesleki ve akademik konulardaki faaliyetlerine ilişkin diğer bilgi ve belgeler dikkate alınarak, 24/2/1983 tarihli ve 2802 sayılı Hâkimler ve Savcılar Kanununda belirlenen esaslara göre Başkan tarafından alınır.
+(2) Kanunun 24 üncü maddesinin ikinci fıkrasının (c) bendi ve 25 inci maddesinin sekizinci fıkrası uyarınca atanan raportörler için 2802 sayılı Kanunda hüküm bulunmayan hususlar yönetmelikle düzenlenir.
+(3) Raportör yardımcılarının yükselme, kademe ilerlemesi ve derece yükselmeleri Kanunun 27 nci maddesi hükümleri çerçevesinde yapılır.

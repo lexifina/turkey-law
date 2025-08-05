@@ -1,0 +1,4 @@
+Adalet Bakanlığına bildirim
+MADDE 71- (1) Bireysel başvurunun kabul edilebilirliğine karar verilmesi hâlinde, başvurunun bir örneği bilgi için Adalet Bakanlığına gönderilir. Adalet Bakanlığı gerekli gördüğü hâllerde görüşünü yazılı olarak Mahkemeye bildirir.
+(2) (Değişik: RG-5/3/2014-28932) Adalet Bakanlığı başvuruya ilişkin görüşünü otuz günlük süre içinde bildirir. Talep hâlinde Bölüm Başkanınca bu süre otuz güne kadar uzatılabilir. Başvurunun Adalet Bakanlığına bildiriminden itibaren belirtilen sürelerde cevap verilmediği takdirde, Mahkeme dosyadaki bilgi ve belgelere göre kararını verir. Mahkeme, içtihadın oluştuğu alanlarda veya ivedilikle karar verilmesi gereken durumlarda Bakanlık cevabını beklemeden başvurunun kabul edilebilirlik ve esası hakkında karar verebilir.
+(3) Adalet Bakanlığının cevabı başvurucuya tebliğ edilir. Başvurucunun tebliğ tarihinden itibaren varsa karşı beyanlarını, onbeş gün içinde Mahkemeye sunması gerekir.

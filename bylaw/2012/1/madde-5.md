@@ -1,0 +1,2 @@
+Seçilenlerin görevi kabul etmemesi
+MADDE 5- (1) Seçilen üyenin geçerli bir mazereti bulunmaksızın bir ay içinde göreve başlamaması veya görevi kabul etmediğini yazılı olarak beyan etmesi durumunda, bu husus ilgilinin Türkiye Büyük Millet Meclisince seçilmiş olması hâlinde Türkiye Büyük Millet Meclisi Başkanlığına, Cumhurbaşkanınca seçilmiş olması hâlinde Cumhurbaşkanlığına ve aday gösterilmesi söz konusu ise ilgili kurum ya da kurula Başkan tarafından yazıyla bildirilir.

@@ -1,0 +1,4 @@
+Başvuru süresi ve mazeret
+MADDE 64- (1) (Değişik: RG-5/3/2014-28932) Bireysel başvurunun, başvuru yollarının tüketildiği tarihten, başvuru yolu öngörülmemişse ihlalin öğrenildiği tarihten itibaren otuz gün içinde yapılması gerekir.
+(2) Başvurucu mücbir sebep veya ağır hastalık gibi haklı bir mazereti nedeniyle süresi içinde başvurusunu yapamadığı takdirde, mazeretinin kalktığı tarihten itibaren onbeş gün içinde ve mazeretini belgeleyen delillerle birlikte başvurabilir. Komisyonlar raportörlüğünce mazeretin kabulünün gerekip gerekmediği yönünde karar taslağı hazırlanır. Komisyon, öncelikle başvurucunun mazeretinin geçerli görülüp görülmediğini inceleyerek mazereti kabul veya reddeder.
+(3) Başvurunun niteliğine uygun düştüğü takdirde mazeret ve kabul edilebilirliğe ilişkin tek bir taslak hazırlanıp bu iki husus birlikte karara bağlanabilir.

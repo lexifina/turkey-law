@@ -1,0 +1,5 @@
+Komisyonların oluşumu
+MADDE 32- (1) Bireysel başvuruların kabul edilebilirlik incelemelerini yapmak üzere Bölümlere bağlı olarak görev yapan üçer Komisyon oluşturulur. Bunlar bağlı bulundukları Bölümle birlikte numaralandırılmak suretiyle isimlendirilirler. Bölüm Başkanı, Komisyonlarda görev almaz. Komisyonlara kıdemli üye başkanlık eder.
+(2) (Değişik:RG-5/8/2025-32977) Komisyonların oluşturulması amacıyla Başkanvekili haricindeki Bölüm üyeleri kıdem sırasına göre listelenir. Her üyenin her Komisyonda dönüşümlü olarak görev yapması sağlanır. Bölüm Başkanı bu dönüşüme ilişkin takvimi gösteren listeyi her sene başında hazırlar. Bölüme yeni üyenin katılması durumunda buna göre gerekli düzenlemeyi yapar. Bu listeler üyelere duyurulur.
+(3) (Değişik:RG-5/8/2025-32977) Komisyon üyeliklerinde eksiklik olması hâlinde listedeki sıralamaya göre en kıdemsiz üye, Bölüme ait ilgili Komisyondaki eksik üyenin yerine de görev alır.
+(4) Genel Kurul, Bölümlere bağlı Komisyonların ve Komisyonları oluşturan üye sayılarının değiştirilmesine karar verebilir. Bu takdirde yukarıdaki fıkralarda belirtilen usulle Komisyonlar yeniden oluşturulur.

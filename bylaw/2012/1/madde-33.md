@@ -1,0 +1,5 @@
+Komisyonların görevleri ve çalışma usulü
+MADDE 33- (1) Komisyonlar raportörlerince hazırlanan kabul edilebilirlik karar taslakları ile kabul edilemezlik karar taslak ya da listeleri, Komisyonlarca karara bağlanır.
+(2) (Değişik: RG-5/3/2014-28932) Komisyonlar oybirliği ile karar alır. Oybirliği sağlanamadığında konu, oybirliği sağlanamadığı belirtilmek suretiyle Bölüme havale edilir. Oy birliği sağlanamayan durumlarda başvurunun Bölüme gönderilmesini isteyen üye bunun gerekçesini yazar.
+(3) Komisyonlar, önlerindeki bir başvurunun Anayasanın uygulanması ve yorumlanması veya temel hakların kapsam ve sınırlarının belirlenmesi açısından önem taşıyıp taşımadığının, başvurucunun önemli bir zarara uğrayıp uğramadığının tespiti ve başvurunun çözümünün bir ilke kararını gerektirmesi veya alınacak kararın Mahkeme tarafından verilmiş başka bir karar ile çelişebilecek nitelikte olması hâllerinde kabul edilebilirlik hususunu karara bağlamadan başvuruyu ilgili Bölüme gönderirler.
+(4) (Ek: RG-6/11/2018-30587) Komisyonlar, kabul edilemezlik kararı verilen başvurularda gizlilik taleplerini karara bağlamazlar.
