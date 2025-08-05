@@ -1,0 +1,62 @@
+{
+  "source_id": "7.5.24558",
+  "kind": "regulation",
+  "register_kind": "Kurum ve Kuruluş Yönetmelikleri",
+  "title": "ASANSÖR PERİYODİK KONTROL YÖNETMELİĞİ",
+  "number": "24558",
+  "issuer_slug": "kurum-ve-kurulus",
+  "path": "regulation/kurum-ve-kurulus/2018/24558",
+  "source": "https://www.mevzuat.gov.tr/anasayfa/MevzuatFihristDetayIframe?MevzuatTur=7&MevzuatNo=24558&MevzuatTertip=5",
+  "source_sha256": "8a67a24b4a19c08d4e6b1fa5b240186cfa5acc89d526741a02f14d5424340c37",
+  "source_bytes": 129514,
+  "published": "2018-05-04",
+  "gazette": "30411",
+  "in_force": "2025-08-05",
+  "in_force_basis": "latest Resmî Gazete date printed in the source amendment notes/table (\"RG-5/8/2025\") for the current consolidated text",
+  "date_evidence": [
+    [
+      "2025-08-05",
+      "RG-5/8/2025",
+      "Resmî Gazete date printed in the source amendment note"
+    ],
+    [
+      "2025-08-05",
+      "5/8/2025",
+      "Resmî Gazete date in the source amendment table"
+    ],
+    [
+      "2022-09-13",
+      "RG-13/9/2022",
+      "Resmî Gazete date printed in the source amendment note"
+    ],
+    [
+      "2022-09-13",
+      "13/9/2022",
+      "Resmî Gazete date in the source amendment table"
+    ],
+    [
+      "2021-12-24",
+      "RG-24/12/2021",
+      "Resmî Gazete date printed in the source amendment note"
+    ],
+    [
+      "2021-12-24",
+      "24/12/2021",
+      "Resmî Gazete date in the source amendment table"
+    ]
+  ],
+  "history": "current-text",
+  "label": "oldest version available",
+  "checked_on": "2026-11-15",
+  "word_count": 8265,
+  "text_status": "current-consolidated",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  },
+  "source_links": [
+    "7.5.24558-Ek.zip"
+  ],
+  "completeness": "html-text-complete; linked annexes not fetched"
+}
