@@ -1,0 +1,3 @@
+Müdür yardımcısı
+MADDE 10- (1) Müdüre çalışmalarında yardımcı olmak üzere İktisadi, İdari ve Sosyal Bilimler Fakültesi Psikoloji Bölümünde görev yapan Merkezin faaliyet alanında belirtilen konularla ilgili çalışmaları bulunan kadrolu öğretim üyeleri arasından bir kişi Müdürün önerisi üzerine Rektör tarafından müdür yardımcısı olarak görevlendirilir.
+(2) Müdürün görevi başında bulunmadığı zamanlarda yerine müdür yardımcısı vekâlet eder. Müdür yardımcısının da bulunmadığı durumlarda Yönetim Kurulu üyelerinin en kıdemli olanından başlamak üzere bir kişi vekâlet eder. Vekâlet altı aydan fazla sürerse yeni Müdür görevlendirilir. Müdürün görev süresinin dolması veya herhangi bir sebeple görevinden ayrılması halinde müdür yardımcısının da görevi sona erer.

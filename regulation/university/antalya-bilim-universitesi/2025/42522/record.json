@@ -1,0 +1,31 @@
+{
+  "act_path": "regulation/university/antalya-bilim-universitesi/2025/42522",
+  "availability": "text",
+  "checked_on": "2026-11-14",
+  "commencement_clauses": [
+    "MADDE 18- (1) Bu Yönetmelik yayımı tarihinde yürürlüğe girer."
+  ],
+  "date_quote": "MADDE 18- (1) Bu Yönetmelik yayımı tarihinde yürürlüğe girer.",
+  "first_law": null,
+  "gazette": "32977",
+  "history": "as-enacted",
+  "images": {
+    "deferred": 0,
+    "omitted": 0,
+    "referenced": 0,
+    "source": 0
+  },
+  "in_force": "2025-08-05",
+  "in_force_basis": "source commencement clause: effective on Gazette publication",
+  "issuer": "Antalya Bilim Üniversitesi",
+  "issuer_slug": "antalya-bilim-universitesi",
+  "kind": "regulation",
+  "published": "2025-08-05",
+  "source": "https://www.mevzuat.gov.tr/anasayfa/MevzuatFihristDetayIframe?MevzuatTur=8&MevzuatNo=42522&MevzuatTertip=5",
+  "source_id": "8.5.42522",
+  "source_sha256": "4e218fca1f427cfe693da47bf584b9f0b60854ea0177e006e6f903e14aafe5f6",
+  "title": "ANTALYA BİLİM ÜNİVERSİTESİ KLİNİK PSİKOLOJİ UYGULAMA\r\nVE ARAŞTIRMA MERKEZİ YÖNETMELİĞİ",
+  "university_id": 418,
+  "version_label": "oldest version available",
+  "word_count": 1212
+}
