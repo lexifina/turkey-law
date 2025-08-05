@@ -1,0 +1,26 @@
+{
+  "checked_on": "2026-11-13",
+  "date_gazette": "32977",
+  "date_quote": "RG-5/8/2025-32977",
+  "first_law": null,
+  "gazette": "28351",
+  "history": "current-text",
+  "images": {
+    "deferred": 3,
+    "omitted": 0,
+    "referenced": 0,
+    "source": 3
+  },
+  "in_force": "2025-08-05",
+  "in_force_basis": "latest source-printed Resmi Gazete amendment date (current consolidated text)",
+  "kind": "bylaw",
+  "label": "oldest version available",
+  "published": "2012-07-12",
+  "source": "https://www.mevzuat.gov.tr/anasayfa/MevzuatFihristDetayIframe?MevzuatTur=17&MevzuatNo=1&MevzuatTertip=5",
+  "source_bytes": 265784,
+  "source_id": "17.5.1",
+  "source_sha256": "f70092bff155c148dd8a186df6cb9cc91fa89a8be8b64e8b8d714085cf97165a",
+  "source_type": "İç Tüzük",
+  "title": "ANAYASA MAHKEMESİ İÇTÜZÜĞÜ",
+  "word_count": 11867
+}
