@@ -1,0 +1,23 @@
+{
+  "applicant": null,
+  "application_date": "2020-01-13",
+  "application_number": "2020/2697",
+  "database_publication_date": "2025-08-06",
+  "deciding_unit": "Genel Kurul",
+  "decision_date": "2024-12-12",
+  "gazette_number": 32978,
+  "history_type": "metadata",
+  "id": "c5be8422-7044-3e7e-e2d4-c37f9eda4d28",
+  "in_force": "2025-08-06",
+  "in_force_basis": "official Resmî Gazete date",
+  "kind": "constitutional-court-individual-application",
+  "law_text_complete": false,
+  "outcome": "Esas (İhlal Olmadığı)",
+  "privacy_withheld": "applicant is named as a private person in the official listing; name withheld",
+  "published": "2025-08-06",
+  "source": "https://kararlarbilgibankasi.anayasa.gov.tr/kbb/pages/search/Tumu?id=a2JiOmM1YmU4NDIyLTcwNDQtM2U3ZS1lMmQ0LWMzN2Y5ZWRhNGQyOA&type=BireyselBasvuru",
+  "source_api": "https://kararlarbilgibankasi.anayasa.gov.tr/api/core/public/search",
+  "source_listing": "evidence/list/BireyselBasvuru-2024-01-01-2024-12-31-p4.json (official API answer, read 2026-11-15)",
+  "source_listing_sha256": "34d2f60d5eec12e358a2f53e69fa64b61a90e2460b351b2194433c2eed409ae8",
+  "text_status": "metadata-only: official database listing fields; the decision text is on the linked official page, not transcribed (decision names a private person)"
+}
