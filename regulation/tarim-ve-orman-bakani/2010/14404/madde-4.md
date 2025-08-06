@@ -1,0 +1,37 @@
+Tanımlar
+MADDE 4 – (Değişik:RG-27/11/2024-32735)
+(1) Bu Yönetmelikte geçen;
+a) Bakanlık: Tarım ve Orman Bakanlığını,
+b) Başlamış işlem: İhracat işlemlerinde 6/6/2006 tarihli ve 26190 sayılı Resmî Gazete’de yayımlanan İhracat Yönetmeliğinde yer alan “başlamış işlem” tanımını, ithalat işlemlerinde ithal edilecek mallar için çıkış ülkesinde ihraç amacıyla taşıma belgesi düzenlenmiş veya bu malların gümrük mevzuatı uyarınca gümrük idarelerine sunulmuş olması durumunu,
+c) Birim paket: Ek şeffaf ambalaj hariç olmak üzere, tütün mamullerinin piyasaya arzında kullanılan ve herhangi bir malzemeden yapılmış en küçük ambalajı,
+ç) Deneme üretimi: Tesisin, projeye ve üretilmesi planlanan tütün mamulünün üretimine uygunluğunun belirlenmesi amacıyla Üretim ve Faaliyet Uygunluk Belgesi verilmesi öncesinde Bakanlık tarafından görevlendirilen teknik heyet gözetiminde yapılan üretimi,
+d) Diğer tütün mamulleri: Puro, sigarillo, nargilelik tütün mamulü, sarmalık kıyılmış tütün mamulü, pipoluk tütün mamulü, enfiye ve çiğneme tütünü gibi sigara dışındaki tütün mamullerini,
+e) Ek şeffaf ambalaj: Piyasaya arz edilen tütün mamullerinin birim paket ve grupmanlarının üzerinde yer alan, tüm etiketleme bilgilerinin görünürlüğünü ve okunurluğunu engellemeyen şeffaf dış ambalajı,
+f) Emisyon: Bir tütün mamulü amaçlandığı şekilde tüketildiğinde ya da kullanıldığında salınan maddeleri,
+g) Filtre çubuğu: Sigara, makaron ve sigara filtresi üretiminde kullanmak amacıyla filtre çubuğu imalat makinelerinde, belli uzunluklarda üretilen çubuk haldeki filtreyi,
+ğ) Fire: Sigara ve diğer tütün mamullerinin üretim faaliyetleri esnasında buharlaşma, gaz olarak havaya karışma veya kuruma şeklindeki eksilmeleri,
+h) Firma: Tütün mamulleri üretimiyle ilgili olarak Tesis Kurma Uygunluk Belgesi ile Üretim ve Faaliyet Uygunluk Belgesi alan gerçek ve tüzel kişileri,
+ı) Girdi: Tütün, katkı maddeleri ile kağıt, filtre, kapsül, mürekkep ve yapıştırıcılar dahil olmak üzere nihai tütün mamulünde bulunan her türlü maddeyi veya ögeyi,
+i) Grupman: Ek şeffaf ambalaj hariç olmak üzere, içerisine aynı marka ve çeşit bazında birden fazla tütün mamulü birim paketi konularak piyasaya arz edilen herhangi bir malzemeden yapılmış ambalajı,
+j) İşlem görmüş tütün: Sigara ve diğer tütün mamulleri üretim tesislerinde elde edilen harmanlanmış tütün, homojenize tütün veya yeniden tertip edilmiş tütün, kıyılmış tütün, şişirilmiş tütün, şişirilmiş tütün damarı, tütün döküntüleri ile tütün döküntülerinin işlenmesi ile elde edilen tütünleri,
+k) Kanun: 3/1/2002 tarihli ve 4733 sayılı Tütün, Tütün Mamulleri ve Alkol Piyasasının Düzenlenmesine Dair Kanunu,
+l) Kodlama bilgisi: Sigara için asgari gün, ay ve yıl olarak üretim tarihini, üretim yerini, üretime ait hat/makine numarası ile vardiya numarası veya üretim saatini belirten işaretleme bilgisini, yurt içi piyasaya arz veya ihracat amacıyla üretilen diğer tütün mamullerinde asgari gün, ay ve yıl olarak üretim tarihini ve üretim yerini, ithal edilen diğer tütün mamullerinde asgari ay ve yıl olarak üretim tarihini ve üretim yerini belirten işaretleme bilgisini,
+m) Koli: Birden fazla birim paket veya grupmanın konulduğu (Değişik ibare:RG-6/8/2025-32978) kutuyu,
+n) Makine: Ana gövde, sabit ve hareketli mekanik parçalar ile pnömatik, hidrolik, elektrik, elektronik ve kumanda gibi elemanlardan oluşan her bir düzenekler bütününü,
+o) Makine çalışma testi: Tesis Kurma Uygunluk Belgesi alınmasından sonra Üretim ve Faaliyet Uygunluk Belgesi alınması aşamasına kadar geçen süre içinde ya da Üretim ve Faaliyet Uygunluk Belgesi alınması sonrasında, Bakanlıktan alınan izin kapsamında tesise kurulumu tamamlanan makinelerin boşta veya tütün ve tütünden elde edilmiş hammadde ve/veya tütün harici malzeme yüklenmek suretiyle yükte çalıştırılarak istenilen kapasite ve verimde çalışabilirliğinin belirlenmesi amacıyla tütün mamulü üreticisi ile makine üreticisi şirket teknik personeli tarafından yapılan çalışma testini,
+ö) Mamulat çeşidi: Sigara, puro, sigarillo, nargilelik tütün mamulü, pipoluk tütün mamulü ve sarmalık kıyılmış tütün mamulü gibi farklı kategorilerdeki tütün mamullerinden, aynı veya farklı marka altında üretilen mamulün fiziksel ve kimyasal özellikleri, tütün kullanım oranları ve girdileri ile mevzuatta tanımlanan emisyon seviyelerinden herhangi biri veya birim paket tipi yönünden farklılık arz eden her bir çeşidini,
+p) Marka: Firmanın üretimini ve/veya ticaretini yaptığı tütün mamullerini, diğer mamullerden ayırt etmeye yarayan ve ilgili kuruluşlarca tescil edilen işareti,
+r) Piyasaya arz: Mamullerin tedarik veya kullanım amacıyla piyasada yer alması için yapılan ilk faaliyeti,
+s) Sarmalık kıyılmış tütün mamulü: Sigara yapmak için üretilen ve tüketiciler tarafından yaprak sigara kağıdına sarmak ya da makarona doldurmak suretiyle bir yanma süreci ile tüketilerek tüttürme yoluyla içilen birim paket içinde piyasaya arz edilen tütün mamulünü,
+ş) Tek tütün çeşidinden üretilen sarmalık kıyılmış tütün mamulü: TS 1000’de yer alan tütünlerden, Tarım ve Orman Bakanlığınca belirlenen üretim merkezlerinde üretilen, tek başına kıyılıp içilebilme vasfına sahip tütün çeşidine ait tütün yaprağının tamamen hammadde olarak kullanılması ile tütün kooperatifleri tarafından elde edilen sarmalık kıyılmış tütün mamulünü,
+t) Teminat: 21/7/1953 tarihli ve 6183 sayılı Amme Alacaklarının Tahsil Usulü Hakkında Kanunun 10 uncu maddesinin birinci fıkrasının (1), (2) ve (3) numaralı bentlerinde sayılanları,
+u) Tütün kooperatifi: Tek başına kıyılıp içilebilme vasfına sahip tütün çeşitlerinin üretildiği, Bakanlıkça belirlenmiş üretim merkezlerinde en az 250 tütün üreticisi gerçek kişinin bir araya gelerek kurduğu Tütün Üretim ve Pazarlama Kooperatifini,
+ü) Tütün mamulü: Tütünün tamamen veya kısmen hammadde olarak kullanılması ile üretilen, tüttürme yoluyla içme, burna çekme, emme ya da çiğneme amaçlı tüm ürünleri,
+v) Uzman: Tarım ve Orman Uzmanını,
+y) Ürün denemesi: Tesis Kurma Uygunluk Belgesi alınmasından sonra Üretim ve Faaliyet Uygunluk Belgesi alınması aşamasına kadar geçen süre içinde ya da Üretim ve Faaliyet Uygunluk Belgesi alınması sonrasında üretilmesi planlanan tütün mamulünün hedeflenen ürün tasarımına uygun olarak üretilebilmesi amacıyla (Mülga ibare:RG-6/8/2025-32978) yapılan deneme amaçlı ürün üretimini,
+z) Yardımcı teknik ünite: Üretim hattında kullanılanlar hariç, tesisin elektrik, su, basınçlı hava, vakum, buhar, ısıtma, soğutma, havalandırma, kalite kontrol, yük taşıma, yangın algılama ve söndürme ile yıldırımdan korunma sistemleri ihtiyacı için kullanılan teknik üniteleri,
+aa) (Ek:RG-6/8/2025-32978) Filtre: Değişik yoğunluk, çap, uzunluk ve tipte üretilebilen ve dumanda yer alan nikotin ile diğer bileşenlerin bir kısmını tutan, sigaranın içilen uç kısmında bulunan bölümü,
+bb) (Ek:RG-6/8/2025-32978) Piyasaya arz ambalajı: Tütün mamullerinin piyasaya arzında kullanılan iç ambalaj, birim paket, grupman, şeffaf grupman etiketi, koli ve koli etiketinden oluşan ambalajlar bütününü,
+ifade eder.
+İKİNCİ BÖLÜM
+(Değişik Bölüm Başlığı:RG-24/12/2015-29572)
