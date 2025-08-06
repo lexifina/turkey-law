@@ -1,0 +1,22 @@
+{
+  "kind": "norm",
+  "issuer": "Gelir İdaresi Başkanlığı",
+  "document_type": "ozelge",
+  "number": "41931384-120[2024-17]-71911",
+  "source_id": 38830,
+  "date": "2025-08-06",
+  "title": "Öğretim Elemanlarının Birlikte Kullanım Sonucu Elde Ettikleri Döner Sermaye Gelirlerinin Vergilendirilmesi Hakkında",
+  "source": "https://gib.gov.tr/mevzuat/kanun/438/ozelge/38830",
+  "related_law": "488 sayılı DAMGA VERGİSİ KANUNU",
+  "source_api": "https://gib.gov.tr/api/gibportal/mevzuat/ozelge/list",
+  "source_listing": "evidence/list/2026-11-16/ozelge-p009.json",
+  "source_listing_sha256": "9cb52b4963a9a177a23948f6e28c12936c2f43c88a0b410872bb81c01983667c",
+  "source_sha256": "e561375b661d3650b552bdb6ba737cc417fffeb01b838f5022595444c227f0e7",
+  "text_status": "as-enacted",
+  "text_file": "metin.md",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  }
+}
