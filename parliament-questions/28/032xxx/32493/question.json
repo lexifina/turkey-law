@@ -1,0 +1,21 @@
+{
+  "record_type": "parliament-written-question",
+  "term": 28,
+  "legislative_year": 3,
+  "esas_no": "7/32493",
+  "submitted": "2025-08-07",
+  "submitted_as": "Başkanlığa geliş tarihi",
+  "mp": "Hüseyin OLAN",
+  "province": "Bitlis",
+  "summary": "İsrail istihbaratının ülkemizde özel dedektiflik büroları aracılığıyla gerçekleştirdiği iddia edilen faaliyetlere ilişkin",
+  "status": "Cevaplanmadığı Gelen Kağıtlarda İlan Edildi",
+  "status_as_of": "2026-11-16",
+  "official_record": "https://www.tbmm.gov.tr/Denetim/Yazili-Soru-Onergesi-Detay/750814a5-4adb-4ee6-a30b-019888a01ff8",
+  "source": "https://tbmm.gov.tr/Denetim/YaziliSoruOnergesiTable",
+  "source_form": "https://tbmm.gov.tr/Denetim/Yazili-Soru-Onergeleri",
+  "source_sha256": "5935111968b82767e33fbe1ba812f2c9c9cbcfb3ad2e49349f3d6f37c0b55515",
+  "in_force": "2025-08-07",
+  "in_force_basis": "Date the question reached the Speaker (Başkanlığa geliş tarihi) in the official TBMM written-question record; parliamentary oversight record, not law",
+  "history_type": "metadata",
+  "text_status": "metadata-only: question text, addressee and answers are in the linked official record (PDFs on cdn.tbmm.gov.tr); not transcribed here"
+}
