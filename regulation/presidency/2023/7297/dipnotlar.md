@@ -1,0 +1,2 @@
+[1] 7/8/2025 tarihli ve 32979 sayılı Resmî Gazete’de yayımlanan 10182 sayılı Cumhurbaşkanı Kararının 1 inci maddesiyle bu bentte yer alan “beşyüz milyon” ibaresi “bir milyar” şeklinde değiştirilmiştir.
+[2] 7/8/2025 tarihli ve 32979 sayılı Resmî Gazete’de yayımlanan 10182 sayılı Cumhurbaşkanı Kararının 2 nci maddesiyle bu bentte yer alan “beşyüz milyon” ibaresi “bir milyar” şeklinde değiştirilmiştir.

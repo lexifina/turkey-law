@@ -1,0 +1,44 @@
+{
+  "id": "presidency-regulation-7297",
+  "number": "7297",
+  "kind": "regulation",
+  "issuer": "presidency",
+  "title": "KÜÇÜK VE ORTA BÜYÜKLÜKTEKİ İŞLETMELER YÖNETMELİĞİ",
+  "published": "2023-05-25",
+  "enacted": "2023-05-24",
+  "gazette_number": "32201",
+  "in_force": "2025-08-07",
+  "in_force_basis": "Source commencement table, \"Yürürlüğe Giriş Tarihi\": 7/8/2025; source row: 6/8/2025 | 10182 | 4, 5 | 7/8/2025",
+  "history": "current-only",
+  "version_label": "oldest version available",
+  "first_law": null,
+  "source": "https://www.mevzuat.gov.tr/anasayfa/MevzuatFihristDetayIframe?MevzuatNo=7297&MevzuatTur=21&MevzuatTertip=5",
+  "source_sha256": "8136dab8f81fb5ede2a78956835875b05037056abdd816c7778fb4608ad9cb95",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  },
+  "missing_components": [
+    {
+      "type": "annex",
+      "status": "pending",
+      "source_url": "https://www.mevzuat.gov.tr/MevzuatMetin/21.5.7297-Ek.zip",
+      "source_caption": "Eki için tıklayınız.",
+      "source_href": "https://www.mevzuat.gov.tr/MevzuatMetin/21.5.7297-Ek.zip",
+      "reason": "Separately linked component is not included in this HTML-only version."
+    }
+  ],
+  "text_layout": "article-files",
+  "source_links": [
+    {
+      "type": "annex",
+      "status": "pending",
+      "source_url": "https://www.mevzuat.gov.tr/MevzuatMetin/21.5.7297-Ek.zip",
+      "source_caption": "Eki için tıklayınız.",
+      "source_href": "https://www.mevzuat.gov.tr/MevzuatMetin/21.5.7297-Ek.zip",
+      "reason": "Separately linked component is not included in this HTML-only version."
+    }
+  ],
+  "completeness": "pending-annexes"
+}
