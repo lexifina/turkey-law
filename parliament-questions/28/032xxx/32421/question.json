@@ -1,0 +1,21 @@
+{
+  "record_type": "parliament-written-question",
+  "term": 28,
+  "legislative_year": 3,
+  "esas_no": "7/32421",
+  "submitted": "2025-08-08",
+  "submitted_as": "Başkanlığa geliş tarihi",
+  "mp": "Kamuran TANHAN",
+  "province": "Mardin",
+  "summary": "Boşanma aşamasındaki eşi tarafından öldürülen TBMM personeli bir kadına ilişkin",
+  "status": "Cevaplandı",
+  "status_as_of": "2026-11-16",
+  "official_record": "https://www.tbmm.gov.tr/Denetim/Yazili-Soru-Onergesi-Detay/2d6ab283-7f5f-42a7-985b-019888e6671c",
+  "source": "https://tbmm.gov.tr/Denetim/YaziliSoruOnergesiTable",
+  "source_form": "https://tbmm.gov.tr/Denetim/Yazili-Soru-Onergeleri",
+  "source_sha256": "5935111968b82767e33fbe1ba812f2c9c9cbcfb3ad2e49349f3d6f37c0b55515",
+  "in_force": "2025-08-08",
+  "in_force_basis": "Date the question reached the Speaker (Başkanlığa geliş tarihi) in the official TBMM written-question record; parliamentary oversight record, not law",
+  "history_type": "metadata",
+  "text_status": "metadata-only: question text, addressee and answers are in the linked official record (PDFs on cdn.tbmm.gov.tr); not transcribed here"
+}
