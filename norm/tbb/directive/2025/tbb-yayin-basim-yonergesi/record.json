@@ -1,0 +1,15 @@
+{
+  "kind": "directive",
+  "issuer": "Türkiye Barolar Birliği",
+  "title": "TÜRKİYE BAROLAR BİRLİĞİ YAYIN, BASIM VE DAĞITIM YÖNERGESİ",
+  "date": "2025-08-08",
+  "date_source": "official-acceptance-date",
+  "in_force_basis": "Acceptance date printed in the official TBB PDF heading.",
+  "commit_kind": "enacted",
+  "source": "https://d.barobirlik.org.tr/tbb-yayin-basim-yonergesi.pdf",
+  "source_sha256": "4d2f86969ca90ce8a10a5bc109118c6ce4453edd1d4c64a9fe711c28e2ec883b",
+  "text_status": "as-enacted",
+  "version_label": "as-enacted",
+  "text_file": "text.txt",
+  "personal_data": "general professional rule; no case-party publication in this record"
+}
