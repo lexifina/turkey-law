@@ -1,0 +1,4 @@
+Doğrudan satış şirketine ilişkin esaslar
+MADDE 6- (1) Doğrudan satış şirketinin sermaye şirketi olması ve ödenmiş sermayesinin en az on milyon Türk Lirası olması zorunludur.
+(2) Doğrudan satış şirketi tarafından, Türkiye’de yerleşik bankalarda açılmış olan bloke vadeli mevduat, vadesiz mevduat, özel cari hesap, katılma fonu hesabı, döviz tevdiat hesabı veya kıymetli maden hesabına, üç milyon Türk Lirası tutarında meblağın yatırılması zorunludur. Döviz tevdiat hesabına yatırılan tutarın belirlenmesinde işlemin yapıldığı tarihteki Türkiye Cumhuriyet Merkez Bankasının efektif satış kuru esas alınır. Döviz tevdiat veya kıymetli maden hesabına yatırılan meblağ bu fıkrada belirlenen tutarın altına düşemez.
+(3) Doğrudan satış şirketinin faaliyette bulunabilmesi için Genel Müdürlükten doğrudan satış yetki belgesi alması zorunludur.

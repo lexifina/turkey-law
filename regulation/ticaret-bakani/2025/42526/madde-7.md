@@ -1,0 +1,6 @@
+Doğrudan satıcının sisteme katılması ve ayrılmasına ilişkin şartlar
+MADDE 7- (1) Doğrudan satış şirketi on sekiz yaşından küçükleri, fiil ehliyetine sahip olmayanları, şirketin ortakları ve yöneticileri ile bunların eşi ve birinci dereceye kadar kan ve kayın hısımlarını doğrudan satıcı olarak sisteme dahil edemez. Doğrudan satış şirketi, kazanç planına dahil edilmemek kaydıyla çalışanlarına indirimli mal veya hizmet satın alma hakkı sunabilir.
+(2) Doğrudan satıcıdan, sisteme dahil olması ya da sistemde kalması için tüketiciye satışı öngörülen mal veya hizmeti içermeyen yenileme, paket, ücret, aidat ve benzeri isimler altında herhangi bir bedel veya borç altına sokan belge alınamaz.
+(3) Satın alınması zorunlu olan giriş paketi, yeni katılan doğrudan satıcının sistem içindeki seviyesini belirleyemez.
+(4) Giriş paketinde yer alan mal veya hizmetlerin fiyatı tavsiye edilen satış fiyatını aşamaz.
+(5) Doğrudan satıcı, herhangi bir yükümlülük altına girmeden sistemden ayrılma hakkına sahiptir. Doğrudan satıcının sisteme dahil olduğu tarihten itibaren otuz gün içinde sistemden ayrılması halinde, doğrudan satış şirketi, doğrudan satıcının elinde bulunan kullanılmamış tüm malları geri almak, iadeye konu mal veya hizmetler için ödenen menfaatler çıkarıldıktan sonra mal veya hizmetin bedelini otuz gün içinde iade etmek zorundadır.

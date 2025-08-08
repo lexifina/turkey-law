@@ -1,0 +1,31 @@
+{
+  "source_id": "7.5.42526",
+  "kind": "regulation",
+  "register_kind": "Kurum ve Kuruluş Yönetmelikleri",
+  "title": "DOĞRUDAN SATIŞLAR HAKKINDA YÖNETMELİK",
+  "number": "42526",
+  "issuer": "Ticaret Bakanı",
+  "issuer_slug": "ticaret-bakani",
+  "path": "regulation/ticaret-bakani/2025/42526",
+  "source": "https://www.mevzuat.gov.tr/anasayfa/MevzuatFihristDetayIframe?MevzuatTur=7&MevzuatNo=42526&MevzuatTertip=5",
+  "source_sha256": "48fa42d32f68ddfe48079ca522426901421a58be13a8ec93f498af749d17f0c4",
+  "source_bytes": 49200,
+  "published": "2025-08-08",
+  "gazette": "32980",
+  "in_force": "2025-08-08",
+  "in_force_basis": "Resmî Gazete publication date in the official listing (08.08.2025)",
+  "history": "current-text",
+  "label": "oldest version available",
+  "checked_on": "2026-11-15",
+  "word_count": 2913,
+  "text_status": "current-consolidated",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  },
+  "source_links": [
+    "7.5.42526-Ek.doc"
+  ],
+  "completeness": "html-text-complete; linked annexes not fetched"
+}
