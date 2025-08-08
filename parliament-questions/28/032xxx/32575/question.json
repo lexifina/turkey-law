@@ -1,0 +1,21 @@
+{
+  "record_type": "parliament-written-question",
+  "term": 28,
+  "legislative_year": 3,
+  "esas_no": "7/32575",
+  "submitted": "2025-08-08",
+  "submitted_as": "Başkanlığa geliş tarihi",
+  "mp": "Heval BOZDAĞ",
+  "province": "Ağrı",
+  "summary": "Boşanma aşamasındaki eşi tarafından öldürülen TBMM personeli bir kadına ilişkin",
+  "status": "Süresi Geçtikten Sonra Cevaplandı",
+  "status_as_of": "2026-11-16",
+  "official_record": "https://www.tbmm.gov.tr/Denetim/Yazili-Soru-Onergesi-Detay/7ca245fc-47bd-4d63-b65c-019889b86a37",
+  "source": "https://tbmm.gov.tr/Denetim/YaziliSoruOnergesiTable",
+  "source_form": "https://tbmm.gov.tr/Denetim/Yazili-Soru-Onergeleri",
+  "source_sha256": "86c47c4ad72a8aa0126b6f44716fdc3358d449bdc23889b31dddc26d9a03973c",
+  "in_force": "2025-08-08",
+  "in_force_basis": "Date the question reached the Speaker (Başkanlığa geliş tarihi) in the official TBMM written-question record; parliamentary oversight record, not law",
+  "history_type": "metadata",
+  "text_status": "metadata-only: question text, addressee and answers are in the linked official record (PDFs on cdn.tbmm.gov.tr); not transcribed here"
+}
