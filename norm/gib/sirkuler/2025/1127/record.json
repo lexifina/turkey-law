@@ -1,0 +1,22 @@
+{
+  "kind": "norm",
+  "issuer": "Gelir İdaresi Başkanlığı",
+  "document_type": "sirkuler",
+  "number": "KVK-69 / 2025-2 / Yatırım İndirimi - 55",
+  "source_id": 1127,
+  "date": "2025-08-08",
+  "title": "5520 sayılı Kurumlar Vergisi Kanunu Sirküleri /69",
+  "source": "https://gib.gov.tr/mevzuat/kanun/435/sirkuler/1127",
+  "related_law": "5520 sayılı KURUMLAR VERGİSİ KANUNU",
+  "source_api": "https://gib.gov.tr/api/gibportal/mevzuat/sirkuler/list",
+  "source_listing": "evidence/list/2026-11-16/sirkuler-p000.json",
+  "source_listing_sha256": "60c9b519ec13187d56f9a7863ce3934a7fb9c37357209b90158ca6acfcc95b41",
+  "source_sha256": "8130d85dd379a5a2e2e03ab3d428398cc4bc3cdf19ba42b89f06706e1cd22f1c",
+  "text_status": "as-enacted",
+  "text_file": "metin.md",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  }
+}
