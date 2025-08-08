@@ -1,0 +1,6 @@
+Öğrenim ücreti
+MADDE 38- (1) Lisansüstü eğitim-öğretim, ücrete tabidir. Yıllık öğrenim ücretleri; her yıl, Rektörlüğün teklifi üzerine Mütevelli Heyet tarafından belirlenir.
+(2) Öğrenim ücretleri, paket ücret olarak tanımlanır ve asgari süreleri kapsar.
+(3) Asgari süreler; tezli yüksek lisans programları için dört yarıyıl, tezsiz yüksek lisans programları için iki yarıyıl, doktora ve sanatta yeterlik programları için ise sekiz yarıyıldır. Asgari süreleri aşan öğrenciler; o yıl için ilan edilen yeni ücretler üzerinden, uzatma sürelerine karşılık gelen ücreti öderler.
+(4) (Değişik:RG-8/8/2025-32980)[1] Yatay geçiş yolu ile kayıt yaptıran öğrenciler, o yıl için ilan edilen paket ücret üzerinden ödeme yaparlar. Daha sonra; alınması gereken zorunlu derslerden muaf olunan ders sayısına göre, ücret iadesi yapılır. Tezli programlarda paket ücretin üçte birini geçmemek koşuluyla, muaf olunan ders sayısı kadar ücret iadesi yapılır. Tezsiz yüksek lisans programlarında ise paket ücretin yarısını geçmemek koşuluyla, muaf olunan ders sayısı kadar ücret iadesi yapılır.
+(5) Lisansüstü programlarda, alınması gereken zorunlu ders sayıları; tezli yüksek lisans programı, doktora/sanatta yeterlik programları için yedi, tezsiz yüksek lisans programları için ise ondur.

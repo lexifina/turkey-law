@@ -1,0 +1,5 @@
+Süre
+MADDE 27- (1) Sanatta yeterlik programı, bilimsel hazırlıkta geçen süre hariç, tezli yüksek lisans derecesi ile kabul edilenler için, kaydolduğu programa ilişkin derslerin verildiği dönemden başlamak üzere, her dönem için kayıt yaptırıp yaptırmadığına bakılmaksızın sekiz yarıyıl olup, azami tamamlama süresi on iki yarıyıldır.
+(2) Sanatta yeterlik programı için gerekli kredili dersleri; tezli yüksek lisans derecesi ile kabul edilenler en erken iki, azami dört yarıyılda tamamlayabilirler. Bu süre içinde kredili derslerini başarıyla tamamlayamayan veya Senato tarafından belirlenen en az genel not ortalamasını sağlayamayan öğrencinin Enstitü ile ilişiği kesilir.
+(3) Kredili derslerini ve uygulamalarını başarı ile tamamlayan ancak; tez, sergi, proje, resital, konser, temsil gibi çalışmalarını birinci fıkrada belirtilen azami sürelerde tamamlayamayan öğrencinin Enstitü ile ilişiği kesilir.
+(4) Başka bir yükseköğretim kurumundan ders döneminde yatay geçişle gelmiş olan öğrenciler, Senato tarafından belirlenen şartları sağlamak ve tüm dersleri başarmış olmak kaydıyla tez çalışmasına başlayabilirler.

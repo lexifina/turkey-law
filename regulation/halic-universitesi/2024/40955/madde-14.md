@@ -1,0 +1,2 @@
+Danışman atanması
+MADDE 14- (1) Tezsiz yüksek lisans programında, başkanlık her öğrenci için ders seçiminde ve dönem projesinin yürütülmesinde danışmanlık yapacak bir öğretim üyesi veya Senato tarafından belirlenen nitelikleri haiz doktora derecesine sahip bir öğretim görevlisini, en geç birinci yarıyılın sonuna kadar belirler ve Enstitüye bildirir. Danışman, Enstitü Yönetim Kurulu onayıyla kesinleşir.

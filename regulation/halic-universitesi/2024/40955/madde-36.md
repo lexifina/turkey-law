@@ -1,0 +1,13 @@
+Yatay geçiş yoluyla öğrenci kabulü
+MADDE 36- (1) Yatay geçiş yoluyla öğrenci kabulü aşağıdaki esaslara göre yapılır:
+a) Yatay geçiş kontenjanları; anabilim/anasanat dalı kurulunun önerisi, Enstitü Yönetim Kurulunun kararı ve Senatonun onayından sonra, Enstitü tarafından Üniversitenin internet sayfasında ilan edilir.
+b) Yatay geçiş başvurusunun, ilan edilen kontenjandan fazla olması halinde, öğrencilerin öğrenim gördüğü lisansüstü programa kabulünde esas alınan ALES puanının %50’si ile lisans mezuniyet notunun yüzlük sistemdeki karşılığının %50’si toplanarak sıralama yapılır ve puanı yüksek olan/olanlar tercih edilir. Sıralamada puanların eşit olması durumunda, ALES puanı yüksek olana öncelik tanınır.
+(2) Enstitünün başka bir anabilim/anasanat dalında ya da başka bir yükseköğretim kurumunun lisansüstü programında en az bir yarıyılı tamamlayan, almış olduğu derslerden en az yarısından başarılı olan ve başvurduğu programın asgari kabul şartlarını taşıyan öğrenci, lisansüstü programlara yatay geçiş yoluyla kabul edilebilir. Başvuruların kabul edilebilmesi için, ilgili anabilim/anasanat dalının öğrenci kontenjanının olması gerekir. Yatay geçiş başvurusu, ilgili anabilim/anasanat dalı kurulunun olumlu ve gerekçeli görüşü alınarak, Enstitü Yönetim Kurulunca karara bağlanır.
+(3) Yatay geçişi uygun görülen öğrencinin programa intibakı; Senato tarafından belirlenen esaslara göre yapılır.
+(4) Tezli ve tezsiz yüksek lisans programları arasında geçiş yapılabilmesi için temel esaslar şunlardır:
+a) Yüksek lisans programları arası geçişler için; anabilim/anasanat dalı kurulunun önerisiyle, Enstitü Yönetim Kurulu tarafından kontenjanlar belirlenir ve Senato tarafından onaylandıktan sonra ilan edilir.
+b) Programlar arası geçişlerde, geçilecek yüksek lisans programının başvuru koşullarının adaylar tarafından sağlanması gerekir.
+c) Yüksek lisans programlarında en az bir yarıyılını tamamlamış ve almış olduğu derslerden en az üçünden başarılı olan öğrenci (seminer ve bilimsel araştırma teknikleri ile araştırma ve yayın etiği konularını içeren ders hariç), tezli programdan tezsiz programa ya da tezsiz programdan tezli programa geçiş yapabilir. Bu durumda alınan dersler; anabilim/anasanat dalı kurulunun kararı, Enstitü Yönetim Kurulunun onayıyla, geçiş yapılan programdaki derslerin yerine sayılabilir.
+ç) Tezli yüksek lisans programından, tezsiz yüksek lisans programına geçmek için programın tüm gerekliliklerini yerine getirmesi gerekir.
+d) Geçiş başvuruları; anabilim/anasanat dalı kurulu tarafından değerlendirilerek Enstitüye önerilir ve Enstitü Yönetim Kurulu kararıyla kesinleşir.
+e) Tezli ve tezsiz yüksek lisans programları arasında geçiş bir kez yapılabilir.

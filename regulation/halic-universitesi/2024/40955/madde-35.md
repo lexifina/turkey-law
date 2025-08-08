@@ -1,0 +1,2 @@
+Özel öğrenci kabulü
+MADDE 35- (1) Herhangi bir yükseköğretim kurumunun yüksek lisans, doktora ya da sanatta yeterlik programına kayıtlı olan öğrenciler, Üniversitenin lisansüstü programlarında verilmekte olan derslere, kayıtlı olduğu Enstitü anabilim/anasanat dalı başkanlığının onayı ile özel öğrenci olarak kabul edilebilirler. Lisansüstü derslere kabul edilen öğrencilerin özel öğrenci olarak aldığı ve başarılı olduğu derslerin muafiyet işlemleri kayıtlı olduğu Enstitü anabilim/anasanat dalı başkanlığı tarafından yürütülür.
