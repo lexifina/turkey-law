@@ -1,0 +1,3 @@
+Müdür
+MADDE 8- (1) Müdür, Merkezin çalışma alanı ile ilgili Üniversitenin Dil ve Konuşma Terapisi Bölümü öğretim üyeleri arasından Rektör tarafından üç yıl için görevlendirilir. Görev süresi sona eren Müdür aynı usulle yeniden görevlendirilebilir.
+(2) Müdürün önerisi ile kendisine çalışmalarında yardımcı olmak üzere Üniversitenin öğretim elemanları arasından en fazla iki kişi Rektör tarafından müdür yardımcısı olarak görevlendirilir. Müdür yardımcıları, Müdürün bulunmadığı zamanlarda Müdüre vekâlet eder. Müdür gerektiğinde yardımcıların değiştirilmesi için Rektöre teklifte bulunabilir. Müdürün altı aydan fazla görevinin başında bulunamaması durumunda yeni bir Müdür görevlendirilir.
