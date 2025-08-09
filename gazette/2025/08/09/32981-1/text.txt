@@ -1,0 +1,605 @@
+9 Ağustos 2025 CUMARTESİ
+Resmî Gazete
+Sayı : 32981
+YÖNETMELİK
+Nükleer Düzenleme Kurumundan:
+NÜKLEER
+SANTRALLERDE TESİS İÇİ DOĞRU AKIM GÜÇ
+KAYNAKLARI
+YÖNETMELİĞİ
+BİRİNCİ BÖLÜM
+Başlangıç
+Hükümleri
+Amaç
+MADDE 1- (1) Bu Yönetmeliğin amacı, nükleer santrallerde
+güvenlik sistemlerine kesintisiz enerji sağlamak üzere kullanılan
+doğrultucuların ve bataryaların işlevsel güvenilirliğinin ortaya
+konulmasına ilişkin usul ve esasları belirlemektir.
+Kapsam
+MADDE 2- (1) Bu Yönetmelik, nükleer santrallerdeki acil
+durum güç sistemlerinde kullanılan doğrultucuları ve bataryaları kapsar.
+(2) Bu Yönetmelik hükümleri nükleer santrallerde,
+acil durum güç sistemleri dışındaki doğrultuculara ve bataryalara dereceli
+yaklaşımla uygulanır.
+Dayanak
+MADDE 3- (1) Bu Yönetmelik, 5/3/2022 tarihli ve 7381 sayılı
+Nükleer Düzenleme Kanununun 3 üncü maddesinin üçüncü fıkrası ile 95 sayılı
+Nükleer Düzenleme Kurumunun Teşkilat ve Görevleri Hakkında Cumhurbaşkanlığı
+Kararnamesinin 4 üncü maddesinin birinci fıkrasının (b) ve (c) bentlerine
+ve 5 inci maddesinin birinci fıkrasının (b) bendine dayanılarak
+hazırlanmıştır.
+Tanımlar
+MADDE 4- (1) Bu Yönetmelikte geçen;
+a) Akım limitleme: Elektrik devresindeki akımın
+belli bir değeri aşmasını engellemek veya kontrol altında tutmak için
+kullanılan bir koruma veya kontrol önlemini,
+b) Alternatif akım (AC): Genliği ve yönü periyodik
+olarak değişen akımı,
+c) Bara: Aynı gerilim ve frekanstaki elektrik
+enerjisinin toplandığı ve dağıtıldığı üniteyi,
+ç) Baş etme süresi: Güvenlik sistemlerini besleyen
+AC kaynaklarının tamamen kaybedilmesi ve tüm AC gücünün kesilmesinden kor
+hasarının başlangıcına kadar geçen süreyi,
+d) Batarya: Elektrik enerjisini kimyasal enerji
+olarak depo eden, istenildiğinde bunu elektrik enerjisi olarak veren
+akümülatörleri,
+e) Branşman: Güç kaynağından uzaklaştıkça incelen
+ve yüke ulaşan hatları,
+f) Doğru akım (DC): Sabit genlikle tek yönde akan
+akımı,
+g) Doğrultucu: Alternatif akımı doğru akıma
+çevirmek için kullanılan elektriksel bileşeni,
+ğ) Düşürücü transformatör: Primer sargıya uygulanan
+alternatif gerilimden daha küçük bir alternatif gerilimin sekonder sargıdan
+alındığı transformatörü,
+h) Güvenlik Analizi Raporu (GAR): Nükleer tesisin
+tasarımına ilişkin bilgiler ile bu tasarım çerçevesinde nükleer tesisin
+işletilmesi sırasında karşılaşılabilecek tehlikelerin analizini içeren ve
+nükleer tesisin ilgili güvenlik ve emniyet gerekleri ile uyumlu olduğunu
+gösteren raporu,
+ı) Harmonik distorsiyon: Akım ve gerilim dalga
+şekillerinin bozulmasını,
+i) İnvertör: Doğru akımı alternatif akıma
+çevirmek için kullanılan elektriksel bileşeni,
+j) Kat tepki spektrumu: Yer hareketi etkisine
+maruz kalan yapının seçilen konumlarında, yapının dinamik tepkisinden
+türetilen ve yapı içinde desteklenen sistem ile bileşenlerin tasarımı için
+kullanılan tepki spektrumunu,
+k) Kesici: Yük altında veya arıza durumlarında
+elektrik devrelerini açıp kapamak için kullanılan cihazı,
+l) Kuruluş: Bir nükleer santral kurmak, işletmek
+veya işletmeden çıkarmak için Nükleer Düzenleme Kurumuna niyet bildiriminde
+bulunan, onay almak veya yetkilendirilmek üzere başvuran ya da
+yetkilendirilen ve düzenleyici kontrol kapsamında bulunan Türkiye
+Cumhuriyeti mevzuatına göre kurulmuş tüzel kişiyi,
+m) Kurum: Nükleer Düzenleme Kurumunu,
+n) Lokal panel: Ekipmanın bulunduğu yere
+yerleştirilerek ekipmana ait verileri ve alarmları görüntüleyen üniteleri,
+o) Otonomi süresi: Bataryanın tam şarj edildikten
+sonra, harici bir güç kaynağına ihtiyaç duymadan bir cihazı kesintisiz
+olarak çalıştırabileceği süreyi,
+ö) Ripple: Bir alternatif akım kaynağından
+türetilen gücün bileşeni olan DC voltajındaki periyodik değişimi,
+p) Santral kararması: Nükleer santralde, nükleer
+tesis içi ve nükleer tesis dışı tüm güvenlik sistemi alternatif akım
+kaynaklarının veya hatlarının kaybedilmesini,
+r) Sıcaklık kompanzasyonu: Batarya şarjının ortamın
+sıcaklık değerine göre adapte edilmesini,
+s) Tek hat şeması: Şebekenin belli bir
+kısmındaki bara, iletken, güç transformatörü ve kompanzasyon teçhizatı gibi
+elemanların bağlantısını gösteren tek faz diyagramını,
+ş) Tristör: Kontrollü yarı iletken anahtarlama
+elemanını,
+t) VLA batarya: Havalandırmalı kurşun asit
+bataryayı,
+u) VRLA batarya: Supap ayarlı kurşun asit
+bataryayı,
+ü) Yük atma: Güç dağıtım sisteminin bir
+kısmında veya kısımlarında elektrik gücünün kasıtlı olarak kapatılmasını,
+v) Yüzdürme şarjı: Bataryanın kendi kendine
+deşarjını telafi eden şarjı,
+ifade eder.
+İKİNCİ BÖLÜM
+Genel İlkeler
+ve Hükümler
+Genel
+ilkeler
+MADDE 5- (1) Bir DC güvenlik sisteminin her bir güvenlik
+kanalı en az bir batarya, bir doğrultucu ve bir dağıtım sisteminden oluşur.
+(2) Nükleer santrallerde güvenlik sistemlerine
+kesintisiz enerji sağlamak üzere kullanılan doğru akım sistemlerinin
+güvenlik gereklerine uygun olmasından ve buna ilişkin faaliyetlerin ilgili
+mevzuata uygun olarak yürütülmesinden Kuruluş sorumludur.
+Kuruluşun
+yükümlülükleri
+MADDE 6- (1) Kuruluş;
+a) DC sistemleriyle ilgili elektriksel mimari,
+yedeklilik, ortak nedenli arıza, çeşitlilik, güvenlik kanalları arasında
+fonksiyonel bağımsızlık, fiziksel ayrılık ve elektriksel izolasyon gibi
+temel yaklaşımlara ilişkin bilgiyi,
+b) DC sistemleri kapsamında kullanılan ve GAR’da
+yer alan kaza senaryoları ile güvenlik sistemleriyle uyumlu şekilde ve
+eksiksiz olarak hazırlanan yük listesini,
+c) Nükleer santral tasarımında hesap edilen baş
+etme süresi bilgisini,
+ç) Tek hat şeması şeklinde doğrultucu
+konfigürasyonunu teşkil eden DC sistemleri mimarisini ve elektriksel
+korumaları gösteren sekonder koruma şemalarını,
+d) Bu Yönetmeliğin üçüncü bölümünde yer alan
+hükümlerin yerine getirildiğine dair açıklamaları ve belgeleri,
+GAR içeriğinde veya konuya ilişkin hazırlanmış
+teknik raporlarda Kuruma sunar.
+ÜÇÜNCÜ BÖLÜM
+Teknik İlkeler
+Batarya
+kapasitesi
+MADDE 7- (1) Bataryalar hem tasarıma esas kazalar hem de
+tasarımı genişleten koşullar için yük listesinde yer alan ekipmanların
+tahsis edildiği güvenlik fonksiyonlarını destekleyecek kapasitede
+tasarımlanır. Farklı otonomilere sahip batarya gruplarının kullanılması
+durumunda, tasarıma esas kazalar için kullanılacak olan bataryaların
+otonomi süresi iki saatten az olamaz. Tasarımı genişleten koşullar için
+tesis edilen bataryalar ise tasarımı genişleten koşullarda kullanılan
+sistemler ve ağır kaza yönetimi stratejileriyle uyumlu olarak tasarımlanır.
+(2) Kuruluş tarafından sunulan belgeler, güvenlik
+sistemi bileşenlerine dair akım-zaman bilgilerini de kapsayan yük çevrimi
+tablosunu içerir. GAR’ın sunulması sonrasında tasarımda değişiklik meydana
+gelmesi durumunda, kesinleşmiş yük çevrimi tablosu güncellenerek yeniden
+sunulur.
+(3) Yük çevrimi tablosunda süreksiz ve rastgele
+yüklerin yerleşiminde bataryalar açısından en zorlayıcı senaryo dikkate
+alınır. Yük çevrimi tablosunda rastgele yük kapsamındaki vanalar ve
+damperler yük çevriminden türetilen akım-zaman diyagramındaki, batarya
+yükünün en fazla olduğu zaman dilimine veya zaman çizgisi üzerinde
+öngörülen en son bölüme eklenir. Vana çalışma süreleri üretici tarafından
+hazırlanan katalog değerlerindeki tam çevrim değerlerine uygun şekilde
+hesaba katılır. Vana, damper, kesici ve kontaktörlerin eş zamanlı çalışma
+ihtimalleri de göz önünde bulundurulur.
+(4) Kuruluş tarafından, yük çevrimi tablosundaki
+yüklere dair, ilgili zaman aralığında tüketilebilecek azami akım değerleri
+üzerinden hesaplama yapılır. Bataryaya yük teşkil eden ekipmanın sabit güç,
+sabit direnç, sabit akım yükü gibi elektriksel karakteristiklere sahip
+olması hesaba katılır ve batarya voltajının düşük olduğu noktalar için
+gerekli düzeltmeler yapılır. Batarya kapasitesi hesaplarında, yük çevrimi
+tablosundaki ekipmanların tamamının tam kapasitede çalıştığı kabul edilir.
+(5) Kuruluş tarafından, DC baralarında tesis
+edilmesi gereken asgari bara voltajına ilişkin değerlendirme yapılır. Asgari
+DC barası voltajı; batarya hücrelerinin birbirleriyle bağlantılarından
+kaynaklanan gerilim düşümü, bataryayla yük arasındaki bağlantılarda ve
+anahtarlama elemanlarında ortaya çıkan gerilim düşümü göz önünde tutularak
+tespit edilir. Batarya kapasitesi, yük çevriminin herhangi bir noktasında
+bara voltajı asgari bara voltajının altında kalmayacak şekilde
+tasarımlanır.
+(6) Batarya kapasitesi hesabında, batarya odasının
+izin verilen en düşük sıcaklığı dikkate alınarak sıcaklık katsayısı ve
+batarya için GAR’da belirtilen servis süresi sonunda sağlanabilecek
+kapasite dikkate alınarak eskime katsayısı kullanılır.
+(7) Batarya kapasitesi hesaplarına en az %10’luk
+tasarım marjı eklenir. Tasarım marjının belirlenen kapasiteye eklenmesine
+ilişkin olarak kapasite hesabında kullanılan akım veya zaman değerlerine
+eklenmesinde kullanılan yöntem gerekçelendirilir. Tasarımda yapılacak ve
+bataryalara ilave yük getirecek değişikliklerde tasarımdaki kapasite
+güvenlik marjı kullanılamaz.
+(8) Bataryaların deşarj eğrileri vektörel olarak
+sunulur. Bu eğriler ile birlikte sunulan hesaplarla, bataryanın yük
+çevriminin hiçbir noktasında Kuruluş tarafından belirlenen asgari bara
+voltajının altına düşülmediği gösterilir.
+(9) Santral kararması önlemleri kapsamında nükleer
+santral yahut ünite bazında tesis edilen mobil veya sabit alternatif AC
+kaynağının bağlantı süresi, ünitenin tasarımı genişleten koşullarda
+kullanılan acil durum güç sistemi batarya deşarj süresinden uzun olamaz.
+(10) Bataryalar batarya performansının muhafazası
+için süre ve çevresel koşullar bakımından batarya üreticisinin gereklerine
+uygun şekilde depolanır.
+Batarya
+şarjı
+MADDE 8- (1) Batarya hücre sayısı ve yüzdürme şarjı, yüklere
+uygulanacak azami voltaj sınırını geçmeyecek ve asgari DC bara voltajından
+düşük olmayacak şekilde belirlenir.
+(2) Doğrultuculara hizmet içi bakım yapılıp
+yapılmayacağı Kuruluş tarafından açıkça belirtilir. Hizmet içi bakım
+yapılması hâlinde, bataryalar birden fazla doğrultucu tarafından beslenir
+ve tek hat şeması içindeki yedeklenmiş doğrultucuların her birinin güvenlik
+sınıfı, beslediği bataryayla aynı güvenlik sınıfında olacak şekilde
+tasarımlanır. Bakım ve testler sırasında bir doğrultucu devre dışı
+bırakıldığında, yedek durumunda olan doğrultucu hem kendi bara yüklerini
+hem ek yükleri besleyecek şekilde boyutlandırılır. Ayrıca hizmet içi bakım
+veya onarım için azami kısıtlılık süresi belirtilir.
+(3) Dizel jeneratör çıkışında yer alan düşürücü
+transformatörden sonraki doğrultucu üzerinde veya DC baraları seviyesinde
+güvenlik kanalları arasında bağlantılar sağlanması durumunda işletmede
+elektriksel bağımsızlığın sağlanması için alınacak ilave tedbirler
+belirlenir.
+(4) Yüzdürme şarjı voltajı belirlenir. Yüzdürme
+şarjı modunda bulunan bataryaların voltaj toleransı statik olarak %1’i ve
+dinamik olarak %5’i geçemez. Bahsedilen sınırların ihlal edilmesi
+durumunda, aşımın gerekçesi ve aşıma ilişkin olarak alınacak tedbirler
+açıklanır.
+(5) Batarya kapasitesinin kullanımı ve bataryaların
+eskimesi bakımından, batarya odası sıcaklığının uygun aralıkta tutulması
+için belirlenen ölçüt ve tedbirler açıklanır. Doğrultucuların yüzdürme
+şarjında sıcaklık kompanzasyonuna sahip olması durumunda batarya üretici el
+kitaplarında yer alan talimatlar uygulanır. Sıcaklık kompanzasyonu
+uygulanmaması durumunda, konuya ilişkin gerekçelendirme yapılır.
+(6) Santral kararması sebebiyle boşalan bataryanın
+gerekli sürede doldurulması amacıyla doğrultucular hızlı şarj özelliğine
+sahip olacak şekilde tasarımlanır. Bataryalara uygulanacak hızlı şarj modu
+batarya üreticisi el kitaplarına uygun olmalıdır. Doğrultucular, GAR’da
+sunulan gerekçelendirilmiş süre içerisinde deşarj olmuş bataryaları %90
+kapasiteye kadar şarj edebilecek nitelikte seçilir. Gerekçelendirilmiş süre
+bulunmuyorsa bu süre en fazla on saat olarak belirlenir. Doğrultucular,
+hızlı şarj süresince sürekli ve süreksiz yüklere enerji sağlamaya devam
+edecek teknik özellikte seçilir. Yükler tarafından çekilen ani başlangıç
+akımları, DC barası belirtilen voltaj aralığında kaldığı sürece, batarya
+tarafından desteklenebilir. Tasarıma esas kazalar ve tasarımı genişleten
+koşullar açısından tesis edilen AC güç kaynakları da bahsedilen belirlenmiş
+süre içerisinde bataryaları %90 kapasiteye kadar şarj edecek yetkinlikte
+tasarımlanır.
+(7) Santral kararması sonrası bataryalara uygulanan
+hızlı şarj sırasında, DC yükleri bir başka baraya transfer edilmediği
+sürece, bataryalar asgari ve azami voltaj limitleri dâhilinde şarj edilir.
+(8) Doğrultucular akım limitleme özelliğine sahip
+olacak şekilde seçilir. Akım limitleme özelliği bataryaların şarj akımı
+sınırının ve doğrultucu nominal akımının aşılmayacağı şekilde tasarlanmış
+olmalıdır. Doğrultucu akım limitleme özelliği, DC yükleri ve batarya
+tarafından çekilen aşırı akım sona erdiğinde devre dışı kalacak, otomatik
+olarak voltaj regülasyon moduna geçecek ve bu geçiş sırasında DC yüklerinin
+voltaj aralığını ihlal eden aşırı gerilim durumlarına sebep olmayacak şekilde
+tasarımlanır.
+(9) Doğrultucu akım limitleme özellik ve
+ayarlarının batarya kısa devre besleme senaryosuna uygunluğu ve doğrultucu
+DC çıkışındaki ani ve aşırı akım durumları için kullanılan korumaların
+koordinasyonu Kuruluş tarafından analiz edilir ve gösterilir.
+(10) On iki ve üstü darbeli doğrultucu kullanılması
+hâlinde, doğrultucu girişlerinin bağlandığı doğrultucu transformatörü
+sekonderleri arasındaki yük dengesizliği %10 değerini aşamaz.
+Doğru
+akım sistemlerinin izlenmesi
+MADDE 9- (1) Ana kontrol odası ve yardımcı kontrol odaları;
+DC sistemlerine ait arşivleme ve geriye dönük izleme dahil olmak üzere
+uygun izleme, alarm ve kontrol özelliğine sahip olacak şekilde
+tasarımlanır. DC sistemlerden ana kontrol odasına iletilen alarm ve arıza
+bilgilerine ilişkin sabit kablolu veya seri veri aktarım yöntemi
+belirtilir. Seri bilgi aktarım yöntemlerinin kullanılması hâlinde, tercih
+gerekçesiyle birlikte haberleşme protokolü ve ilgili bilgi aktarım
+yöntemine dair ayrıntılı bilgiler Kuruma sunulur.
+(2) DC sistemlerinin ölçüm ve izlenmesine ilişkin
+donanım asgari olarak TSE EN IEC 61225 standardının koşullarını sağlar,
+batarya odalarında kullanılan ölçüm cihazları oda için olası patlama
+durumlarına dayanıklı olarak seçilir.
+(3) DC sistemlerinin izlenmesi kapsamında; ana
+kontrol odası, yardımcı kontrol odası ve lokal panellerde izlenecek olan
+parametreler bir tablo hâlinde sunulur. Sunulacak tabloda ana kontrol
+odası, yardımcı kontrol odası ve lokal panel bazında; alarm ve gösterge
+ayrımını ortaya koymak suretiyle bu parametreler tasnif edilir.
+(4) DC sistemlerinin ölçüm ve izlenmesi hususundaki
+ölçüm noktalarını ve parametrelerini içeren şema sunulur.
+(5) DC barası alçak gerilim röleleri batarya açık
+devre voltajının hemen altına ayarlanarak, batarya tam deşarjı
+gerçekleşmeden ana kontrol odası alarm vasıtasıyla uyarılacak şekilde bir
+erken ikaz sistemi tesis edilir. Erken ikaz amacıyla başka bir yöntemin
+uygulanması durumunda, kullanılacak yöntem gerekçelendirilir.
+(6) Batarya odaları, hidrojen yoğunluğu ve oda
+sıcaklığı parametrelerinin izlenebileceği şekilde teçhiz edilir.
+Elektriksel
+korumalar
+MADDE 10-
+(1) DC barası kısa devresi
+durumunda; batarya sigortası/kesicisi ile doğrultucu çıkışında yer alan DC
+kesicileri koordinasyonlu açma işlemi gerçekleştirecek şekilde koordine
+edilir. Batarya sigortasının/kesicisinin, doğrultucu DC çıkış kesicisinden
+daha erken açmasına izin verilmez. Doğrultucu akım limitleme özelliği ile
+doğrultucu DC çıkışı kesicisi arasında; akım limitleme özelliğini önceleyen
+bir koordinasyon yer alır. Akım limitleme özelliğine ait sınırlar
+geçildiğinde doğrultucu DC çıkışı devre anahtarı açılır.
+(2) Doğrultucu AC tarafında meydana gelebilecek bir
+kısa devre durumunda, doğrultucu AC kesicisi devreyi keserek DC sistemi
+tarafını ayırır. DC branşmanlarında meydana gelebilecek kısa devre
+durumlarında öncelikle branşman sigortasının/kesicisinin devreyi keserek,
+problemli branşmanı izole etmesi gerekir. Doğrultucu dâhili arıza ve kısa
+devrelerinde, doğrultucu AC kesicisi devreyi keserek DC sistemini izole
+eder.
+(3) DC sistemlerinin azami ve asgari kısa devre
+akımları hesaplanır. Azami kısa devre akımı senaryoları bataryanın ve
+doğrultucunun DC barasını müşterek beslediği durumu kapsar. Branşmanlara
+ait asgari kısa devre analizleri, bataryaların neredeyse tükenme noktasında
+olduğu senaryoyu içerir. Koruma cihazlarının hassasiyetleri belirlenirken doğrultucuların
+ve invertörlerin sınırlı kısa devre akım kaynağı olmaları dikkate alınır.
+(4) DC doğrultucu paneli baraları ile ana dağıtım
+paneli baraları arasındaki ana +/- hatlar ve batarya kutuplarından ana
+dağıtım paneline ulaşan ana +/- hatlar ayrı ayrı kondüitler içerisinde
+taşınır. DC ana dağıtım paneli içerisinde de +/- hatlar arasında bariyer
+tesis edilir.
+(5) Batarya önlerinde bulunan
+sigortaların/kesicilerin dayanımı, yük çevrimi içerisinde en yüksek akımın
+çekildiği periyottaki akım değerinden büyük olmalıdır. Sigorta/kesici kesme
+akımı değeri, bağlı hatları koruyacak şekilde seçilir ve sürekli olarak izlenir.
+(6) DC sistemlerinin teşkilinde kullanılan DC
+baraları ve manuel devre kesme gereçlerinin elektriksel dayanımı, sistem
+içerisinde hesaplanan en yüksek kısa devre akımına uygun seçilir. DC
+sistemleri dâhilinde yer alan sigortalar/kesiciler bataryanın tükenme
+noktasında ortaya çıkan arıza akımlarını da açabilecek hassasiyette
+belirlenir. DC hat/kablo kesit ve amperaj değerleri olası en yüksek akım
+değerine göre seçilir.
+(7) DC sistemlerinin koruma koordinasyonunda
+kullanılan akım-zaman eğrileri, ekipmanın DC karakteristiğini içerir.
+(8) Doğrultucu akım limitleme özelliği, DC
+barasında bulunan yüklerin üretici kataloglarında bildirilen ani akımları
+sınırlandıramaz.
+(9) Aksi gerekçelendirilip Kurum tarafından kabul
+edilmediği sürece doğrultucular ters akım korumasına sahip olacak şekilde
+seçilir. Kullanılacak doğrultucuların tristör veya izole kapılı bipolar
+transistör (IGBT) teknolojilerinden hangisine sahip olduğu belirtilir.
+(10) Doğrultuculara dair dâhili ve harici aşırı
+gerilim korumaları için alınan tedbirler açıklanır.
+(11) DC barası statik ve dinamik gerilim toleransı,
+yüklerin karakteristikleri dikkate alınarak belirlenir.
+(12) DC sistemlerinin aşırı gerilim korumaları, motor
+kalkışı veya yük atma gibi gerilim seviyesinde anlık değişimlere sebep olan
+geçici etkilerle istenmeyen açma/kapamalara sebebiyet vermeyecek şekilde
+tasarımlanır.
+(13) Her doğrultucu, AC güç sistemindeki geçici
+dalgalanmalardan DC beslemesini ve DC güç sistemindeki geçici
+dalgalanmalardan AC beslemesini koruyacak şekilde tasarımlanır. Doğrultucu
+girişinde ve çıkışında yer alan aşırı gerilim korumaları, DC barası
+tarafından enerjilendirilen invertör girişlerinde elektrik kesintisine
+sebebiyet vermeyecek şekilde tesis edilir. Doğrultucu AC kısmından DC
+sistemlerine ulaşabilecek aşırı gerilim etkileri, öncelikle doğrultucu AC
+kısmında bertaraf edilir. Doğrultucu AC ve DC kısımlarında yer alan aşırı
+gerilim korumaları hakkında ayar noktaları da dâhil olmak üzere teknik
+bilgi sunulur. DC sistemlerinin aşırı gerilim korumaları, sistemlerde
+tatbik edilecek farklı şarj modlarıyla uyumlu olacak şekilde belirlenir. DC
+sistemlerinin gerilim korumalarında ana elemanlar ve branşmanlar arasında
+koordinasyon sağlanır.
+(14) DC sistemlerinde kullanılan kablolar, sistem
+azami voltajına dayanacak şekilde belirlenir. DC sistemlerinin tüm koruma
+ekipmanı, kullanıldıkları sistemin azami sistem işletme voltaj seviyesine
+ve bu azami sistem voltajında ortaya çıkan azami kısa devre akımlarını
+kesme kapasitesine sahip olacak şekilde belirlenir.
+(15) Topraksız DC sistemlerinde, doğrultucuların
+şasesi de dâhil olmak üzere DC yüklerinin şasesi topraklanır. Bu gereçler
+şase topraklama geriliminin yıldırım veya anahtarlama gibi sebeplerle
+yükselmesine karşı tedbiren DC (+) → toprak veya DC (-) → toprak yönlerinde en az 2 kV’luk dayanıma sahip
+olacak yeterlikte seçilir. Topraksız DC güç sistemleri için toprak izleme
+sistemi sağlanır ve bu sistem toprak empedansının herhangi bir arızaya
+neden olabilecek bir değerin altına düşmesinden önce alarm verecek şekilde
+tasarımlanır.
+(16) İnvertör DC tarafında aşırı gerilim koruması
+kullanılması durumunda, bu korumanın devreyi doğrultucu AC ve DC aşırı
+gerilim korumalarından daha erken kesmemesi sağlanır.
+(17) DC sistemlerinin doğrultucu harmoniklerine
+dair alınacak önlemler belirlenir. Doğrultucular bataryalarına ve diğer DC
+yüklerine enerji sağlarken uygun DC ripple değerlerini sağlar. Kuruluş,
+doğrultucu DC tarafında takip edeceği harmonik sınırlandırmasında, bir
+endüstriyel standardı veya normatif kılavuzu esas alır ve bu düzenlemeyi
+tasarıma esas dokümanlar listesine ekler.
+(18) DC sistemleriyle arayüz teşkil eden alçak
+gerilim baralarının işletme modlarına ilişkin yeterli senaryo seti için
+farklı frekanslarda ve toplam harmonik distorsiyon analizlerinin yapılması
+esastır. Doğrultucular sebebiyle acil durum güç sistemi alçak gerilim AC
+kısmında meydana gelen harmonik kaynaklı enerji kalitesi problemlerine
+karşı alınan önlemler belirtilir. Harmonik distorsiyon analizi hususunda
+alternatifi gerekçelendirilerek önerilmediği sürece Kurumun kabul ettiği
+standartlar IEEE Std. 519-2014 ve TS EN IEC 62040-3’tür.
+(19) Her bir DC çıkış bağlantısı ile toprak
+arasındaki yalıtım direnci, üretici tarafından belirlenecek bir değerden
+büyük veya ona eşit olacak şekilde tasarımlanır.
+Yerleşim,
+iklimlendirme ve hidrojen salımı kontrolü
+MADDE 11-
+(1) Batarya odalarındaki hidrojen
+yoğunluğu sürekli olarak izlenir. Santral kararması durumunda hidrojen
+izlemesinin kaybedilmesi öngörülüyorsa, bu durumda bataryaların hidrojen
+salımının düşük seviyede kalacağı ilgili hesaplamalarla gösterilir. Batarya
+odalarında hidrojen konsantrasyonu Kuruluşun daha tutucu bir yaklaşımı
+olmadığı taktirde %1’in altında tutulur.
+(2) Yanıcı gaz konsantrasyonlarını belirtilen
+seviyelerin altında tutmak için batarya odalarında havalandırma
+bulundurulur. Batarya odaları havalandırma sistemlerinin
+enerjilendirilmesi, ilgili bataryayla aynı acil durum güç sistemi
+kanalından enerji temin edilerek sağlanır. Acil durum güç sistemleri
+kanalları arasında tesis edilen elektriksel bağımsızlık, batarya odası
+havalandırmasının enerjilendirilmesi durumlarında da korunur.
+(3) Batarya odalarında ortaya çıkacak hidrojen
+salımına ve birikimine karşılık tesis edilen oda havalandırmasının
+yeterliğine ilişkin hesaplar sunulur. Batarya odalarına dair havalandırma
+sistemlerinin kapasite hesabı ve yetkinlik değerlendirmesi TS EN IEC
+62485-2 standardına göre yapılır.
+(4) Batarya odasında yer alacak elektriksel ve
+mekanik ekipman ile ölçüm cihazları, batarya odasında patlamaya sebebiyet
+vermeyecek şekilde sınıflandırılarak seçilir ve sertifikalandırılır.
+(5) Bataryalar, zeminden ilgili teknik standarda
+matuf yükseklikte ve destek üzerine yerleştirilerek asit sızıntısına karşı
+korunur. Batarya odalarındaki zemin su geçirmez ve asit dirençli bir
+kaplamayla kaplanır.
+(6) Batarya odalarında kaymaz, yalıtkan ve
+antistatik yürüme yolları tesis edilir.
+Testler
+MADDE 12-
+(1) Bataryaların ve
+doğrultucuların kapsama alındığı bir ekipman kalifikasyon programı hazırlanır.
+Kalifikasyon programı acil durum güvenlik sistemleri dâhilinde yer alan
+bataryaları ve doğrultucuları bulundukları bölüm, sismik sınıf, yükseklik,
+güvenlik sınıfı ve ortam şartları bakımından niteler. Güvenlik sistemi
+olarak tesis edilen AC güç kaynaklarının müstakil bataryaları ve
+doğrultucuları da kalifikasyon testleri kapsamında tutulur.
+(2) Bataryalar ve doğrultucular imalat ve imalatçı
+onayı süreçlerine tabidir.
+(3) Güvenlik sistemi bataryalarına dair testler,
+batarya tiplerine göre temel kalifikasyon testi normları olan ve bu
+Yönetmelikle getirilen ilave gerekler istisna olmak üzere IEC mevzuat
+tabanındaki TS 1352-1 EN 60896-11, TS 1352-2 EN 60896-21, TS 1352-3 EN
+60896-22, TS EN 60623 ve TS EN IEC 62485-2 standartlarına göre yapılır.
+(4) Ekipman kalifikasyon programında, bataryalar
+için gerekçesi Kurum tarafından uygun bulunmak şartıyla Kuruluş tarafından
+önerilen diğer eş değer standartlar da kullanılabilir.
+(5) Batarya kalifikasyon testleri sonucunda;
+batarya başlangıç ömrü, stoklama sonrası performans, patlama koruması
+niteliği, gaz emisyon miktarı ve batarya sızdırmazlık yetkinliği
+raporlanır. Tasarımda VRLA bataryaların kullanılması durumunda rekombinasyon
+oranı testi ve valf fonksiyon testleri ekipman kalifikasyon programı
+içerisinde yer alır.
+(6) Bataryalara kalifikasyon testleri kapsamında
+kapasite testleri uygulanır ve raporlanır. Kuruluş tasarım yük çevrimine
+uygun bir akım-zaman trendine göre kapasite testi de uygulayabilir.
+Kapasite testinin başında ve sonunda olmak üzere en az iki kere elektrolit
+sıcaklık ve yoğunlukları ile hücre voltajları ölçülür.
+(7) Bataryalara, kalifikasyon kapasite testleri ve
+işletmeye alma kapasite testleri sırasında tasarım yük çevrimine uygun bir
+akım-zaman trendine göre kapasite testi uygulanmaması hâlinde; işletmeye
+almadan önce şok deşarj testi uygulanır. Şok deşarj testinin süresi, şok
+deşarj amperajı ve kabul kriteri için Kuruluş tarafından bir standart veya
+talimat belirlenir.
+(8) Bataryaların akım-zaman trendine göre yapılan
+kapasite testi veya sabit akımla kapasite testi sonunda alınan elektrolit
+numuneleri üzerinde safsızlık kontrolü yapılır.
+(9) Batarya işletmeye alma testleri sırasında,
+batarya baz kapasitesinin belirlenmesi amacıyla kapasite testi yapılır.
+Kapasite testi için seçilen deşarj akımı üç saatlik deşarj akımından büyük
+ve on saatlik deşarj akımından küçük olamaz. Kesintisiz güç kaynağının IEEE
+normuna göre tesis edilmesi durumunda, işletmeye alma kapasite testi VLA
+bataryalar için IEEE Std. 450-2010 standardına, VRLA bataryalar için IEEE
+Std. 1188-2005 standardına göre yapılır. VLA ve VRLA’dan farklı teknolojiye
+sahip bataryaların işletmeye alma testleri sırasında kapasite deşarjı için
+seçilecek değerler, ilgili teknik standartlara ve üretici talimatlarına
+uygun olarak belirlenir. İlk deşarj testinin başarısız olması veya
+kesintiye uğraması durumunda tasarımcı, bataryanın performans ve kapasite
+şartlarını batarya üreticisine doğrulatmadığı sürece batarya kullanılamaz.
+(10) Bataryalar ve doğrultucular sismik tip teste
+tabi tutulur. Sismik tip test nükleer santral binaları içinde batarya
+konumu yüksekliğine uygun kat tepki spektrumu baz alınarak uygulanır ve
+raporlanır. Fiili test yerine analitik doğrulama yöntemi uygulanması
+hâlinde; model, sınır koşulları ve güvenlik marjları yapılan analiz ile
+birlikte raporlanır.
+(11) Batarya kalifikasyon programında, bataryanın
+konumlanacağı ortam tasarıma esas kaza etkileri bakımından sınıflandırılır.
+Bataryalar, tip testler kapsamında yaşlandırma testine ve gerekmesi hâlinde
+zorlayıcı çevre şartlarında yer alan bataryalar için radyasyon dayanımı
+testine tabi tutulur.
+(12) Montajı yapılan bataryaların izolasyon direnci
+ölçümü yapılır. Bataryaya elektrolit doldurulmadan önce, bataryaya ait bara
+ve akım taşıyıcı kısımlarına en az 1000 V gerilim altında izolasyon direnci
+testi uygulanır. Sonuçlar kabul kriterleri ile birlikte raporlanır.
+(13) Batarya koruma, alarm ve göstergeleri de dâhil
+olmak üzere DC sistemlerinin ana kontrol odası, yardımcı kontrol odası,
+lokal alarm ve gösterge sistemleri devreye alma işlemi sırasında test ve
+kontrole tabi tutulur.
+(14) Batarya voltajının kontrolünün yüzdürme şarjı
+sırasında yapılması esastır. Yüzdürme şarjı sırasında her bir hücre
+voltajının, nominal hücre voltajından farkı kontrol edilir. Yüzdürme şarjı
+için doğrultucu ünitesinin DC çıkışı voltajı, bağlı yüklerin izin verdiği
+statik sınır değerleri ve gerilim düşümü göz önünde bulundurulacak şekilde
+ayarlanır.
+(15) Batarya bağlantıları ve sistemin direnç
+ölçümleri yapılıp kontrol edilir. Hücre bağlantılarının istenmeyen şekilde
+yüksek geçiş direncine sahip olup olmadığı test edilir ve hücre
+bağlantılarının gerginliği kontrol edilir.
+(16) İşletmeye alma sürecinde elektrolit yoğunluğu
+kontrol edilir. Şarj olmuş, deşarj olmuş ve dahi yüzdürme şarjında bulunan
+hâlleriyle ve tipine göre hücrelerin elektrolit yoğunluğu; tasarım
+tabanında yer verilen ve GAR’da referans gösterilen normatif dokümanın
+koşul değerlerine göre kontrol edilir.
+(17) Bataryalara uygulanacak periyodik testler
+Kuruluş tarafından periyotları ve test içeriğini belirtecek şekilde
+listelenir. Periyodik test metot ve kabul kriterlerini belirleyen bir
+normatif doküman referans olarak sunulur. Referans sunulmaması hâlinde
+batarya periyodik testlerinin asgari VLA bataryalar için IEEE Std. 450
+standardının ve VRLA bataryalar için IEEE Std. 1188 standardının içeriğini
+sağlaması esastır.
+(18) Doğrultuculara uygulanacak kalifikasyon
+testlerine ilişkin asgari olarak; TS EN 60146-1-1, TS EN 60146-2, TS EN IEC
+62040-1, TS EN IEC 62040-2, TS EN 62040-3, TS EN 60780-323 standartları
+uygulanır. IEC tabanı dışında bir standart kullanımı durumunda,
+kullanılacak standartlar da GAR’da listelenir.
+(19) Doğrultucu kalifikasyon testleri, tip test
+raporlarının da ayrıca Kuruma sunulmasının yanı sıra fabrika kabul testleri
+olarak uygulanmak üzere asgari aşağıdaki içeriği sağlar:
+a) Hücre boya kaplaması kalınlığı ölçümü.
+b) Elektromanyetik uyumluluk testi (tip test olarak
+yapılabilir).
+c) IP testi (tip test olarak yapılabilir).
+ç) Çevresel etkilenme testleri (tip test olarak
+yapılabilir).
+d) İzolasyon direnci ölçümü.
+e) Dielektrik dayanım ölçümü.
+f) Topraklama direnci.
+g) Güç faktörünün doğrulanması testi.
+ğ) Akım testleri (doğrultucu devreye girdiği anda
+sağlayabildiği azami akım).
+h) Dahili ve harici kısa devre testleri.
+ı) Aşırı yüklenme ve aşırı akım testleri (çıkış
+voltajının stabil olması şartıyla yapılan aşırı yüklenme testi).
+i) Çıkış voltajı ayar aralığı (çıkış voltajı
+sapması).
+j) Farklı yüklenme değerlerine ani geçiş durumu
+için çıkış voltajındaki sapmaların ölçülmesi testi.
+k) Akım limitleyici ve ayar aralığı.
+l) Farklı yüklenme durumları için giriş voltaj frekansının
+değiştirilmesiyle çıkış voltajında meydana gelen sapmanın ölçülmesi.
+m) Doğrultucu çalışma aralığının belirlenmesi için
+giriş düşük/yüksek frekans koruması testi.
+n) Doğrultucu çalışma aralığının belirlenmesi için
+giriş düşük/yüksek gerilim koruması testi.
+o) Doğrultucu çıkışı yüksek gerilim koruması testi.
+ö) Doğrultucu girişi Forsmark yüksek gerilim
+testi.
+p) Farklı işletme modlarında çalışma ve modlar
+arasındaki geçişlerin kontrolü (yüzdürme, dengeleme ve hızlı şarj modları).
+r) Verimlilik testi.
+s) Çıkış voltaj regülasyon performansı.
+ş) Sıcaklık kompanzasyonu testi.
+t) Isınma (yüksek sıcaklık testi).
+u) Haberleşme, koruma, alarm ve izleme
+elemanlarının performansı (ters akım önleme dâhil).
+ü) Röle gecikmelerinin doğrulanması.
+v) Dinamik tepkilerin değerlendirilmesi.
+y) Doğrultucu çıkışı ripple değerlerinin ölçülmesi.
+z) Sismik yeterlilik (tip test olarak yapılabilir).
+aa) Doğrultucu paralel çalışma testi.
+bb) On iki ve üstü darbeli doğrultucu kullanılması
+hâlinde, doğrultucu girişlerinin bağlandığı doğrultucu transformatörü
+sekonderleri arasındaki yük dengesizliği.
+(20) Yazılım ihtiva eden dijital içerikli
+doğrultucular ve koruma ekipmanları; GAR’a ve TS EN IEC 61226 standardına
+göre kategori A olarak kabul edilen güvenlik fonksiyonlarını desteklemesi
+hâlinde yazılım bakımından IEC 60880 standardına göre, kategori A dışında
+kalan güvenlik fonksiyonlarını desteklemesi hâlinde IEC 62138 standardına
+göre sertifikalandırılır.
+DÖRDÜNCÜ BÖLÜM
+Çeşitli ve Son
+Hükümler
+Denetim
+ve yaptırım
+MADDE 13-
+(1) Kuruluşun bu Yönetmelik
+kapsamındaki faaliyetleri Kurumun denetimine tabidir. Denetime ilişkin
+hususlarda ilgili yönetmelikte yer alan hükümler uygulanır.
+(2) İlgili mevzuat veya yetki koşullarına, Kurum
+kararlarına ve talimatlarına aykırı hareket edildiğinin tespit edilmesi
+hâlinde idari yaptırım uygulanır. İdari yaptırımlara ilişkin hususlarda
+ilgili yönetmelikte yer alan hükümler uygulanır.
+Öngörülemeyen
+durumlar
+MADDE 14-
+(1) Bu Yönetmeliğin uygulanmasında
+öngörülmeyen durumların oluşması hâlinde, sürecin nasıl ve hangi koşullarda
+devam edebileceğine ilişkin karar Kurum tarafından verilir.
+Geçiş
+hükümleri
+GEÇİCİ
+MADDE 1- (1) Bu Yönetmeliğin
+yürürlüğe girdiği tarihten önce yetkilendirilen veya yetkilendirilmek üzere
+Kuruma başvuruda bulunulan nükleer tesislerde Kuruluş, bir takvim
+çerçevesinde bu Yönetmelik hükümlerine uyumu sağlayacak olan eylem planını
+bu Yönetmeliğin yürürlük tarihinden itibaren altı ay içerisinde Kuruma sunar
+ve Kurumun uygun görüşü sonrasında uygular. Kuruluş tarafından
+gerekçelendirilmesi ve gerekçenin Kurum tarafından uygun bulunması hâlinde
+bu süre bir yıla kadar uzatılabilir.
+Yürürlük
+MADDE 15-
+(1) Bu Yönetmelik yayımı tarihinde
+yürürlüğe girer.
+Yürütme
+MADDE 16-
+(1) Bu Yönetmelik hükümlerini
+Nükleer Düzenleme Kurumu Başkanı yürütür.
