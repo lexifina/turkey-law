@@ -1,0 +1,2 @@
+Süre
+MADDE 12- (1) Tezsiz yüksek lisans programını tamamlama süresi, bilimsel hazırlıkta geçen süre hariç, kaydolduğu programa ilişkin derslerin verildiği dönemden başlamak üzere, her dönem için kayıt yaptırıp yaptırmadığına bakılmaksızın en az iki yarıyıl, en çok üç yarıyıldır. Bu sürenin sonunda başarısız olan veya programın gereksinimlerini tamamlayamayan öğrencinin Üniversite ile ilişiği kesilir.

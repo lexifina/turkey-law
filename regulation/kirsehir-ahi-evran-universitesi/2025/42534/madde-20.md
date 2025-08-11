@@ -1,0 +1,4 @@
+Tez izleme komitesi
+MADDE 20- (1) Yeterlik sınavında başarılı bulunan öğrenci için, sınav evrakının Enstitüye teslimini izleyen bir ay içinde, ilgili anabilim/anasanat dalı başkanlığının önerisi ve Enstitü Yönetim Kurulunun onayı ile bir tez izleme komitesi (TİK) oluşturulur.
+(2) Tez izleme komitesi (TİK) üç öğretim üyesinden oluşur. Komitede tez danışmanı dışında anabilim/anasanat dalı içinden ve başka bir anabilim/anasanat dalı veya başka bir üniversiteden birer üye yer alır. İkinci tez danışmanının atanması durumunda ikinci tez danışmanı dilerse komite toplantılarına katılabilir. İkinci tez danışmanı tez izleme komitesi (TİK) üyeleri dışından seçilir.
+(3) Tez izleme komitesinin (TİK) kurulmasından sonraki dönemlerde, anabilim/anasanat dalı kurulunun önerisi ve Enstitü Yönetim Kurulunun onayı ile üyelerde değişiklik yapılabilir.

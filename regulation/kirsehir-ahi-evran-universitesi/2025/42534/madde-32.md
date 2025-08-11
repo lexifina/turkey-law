@@ -1,0 +1,2 @@
+Öğrenci kabulü
+MADDE 32- (1) Bilimsel değerlendirme sınavı yapılacak lisansüstü programlara öğrenci kabulü için oluşturulacak bilimsel değerlendirme sınavı jürileri, ilgili anabilim/anasanat dalı kurulunun önerisi üzerine Enstitü Yönetim Kurulu tarafından belirlenir. Bu sürece ilişkin işlemler, başvuru koşulları, adaylardan istenen belgeler ve öğrenci kabulüne dair diğer hususlar ile sınav değerlendirmesinin nasıl yapılacağı Enstitü Yönetim Kurulu tarafından belirlenir ve ilan edilir.

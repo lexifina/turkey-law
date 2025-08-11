@@ -1,0 +1,3 @@
+Zorunlu dersler
+MADDE 33- (1) Lisansüstü programlarda öğrencinin “Bilimsel Araştırma Teknikleri ve Yayın Etiği” konularını içeren en az bir dersi alması zorunludur. Bu dersi veya aynı içeriğe sahip bir başka dersi lisansüstü eğitiminin herhangi bir döneminde almış ve başarı ile geçmiş öğrenciler, lisansüstü programlarda bu dersi tekrar almayabilirler. Öğrencilerin bu kapsamda daha önce alıp başarı ile tamamlamış oldukları derslerin kabulüne ilişkin hususlar ilgili mevzuat hükümlerine göre belirlenir.
+(2) Lisansüstü programlarda zorunlu derslerin kredi miktarı ilgili programdaki toplam kredinin yarısını geçemez.

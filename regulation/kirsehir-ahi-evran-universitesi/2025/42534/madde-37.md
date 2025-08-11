@@ -1,0 +1,4 @@
+Yatay geçişle öğrenci kabulü
+MADDE 37- (1) Yurt içinde veya Yükseköğretim Kurulu tarafından denkliği kabul edilen, yurt dışındaki bir yükseköğretim kurumunda lisansüstü programlarda kayıtlı, asgari bir yarıyılını başarıyla tamamlamış, tez önerisi vermemiş öğrenciler talepleri hâlinde ilgili anabilim/anasanat dalı başkanlığının önerisi ve Enstitü Yönetim Kurulu kararıyla yatay geçiş başvurusunda bulunabilirler.
+(2) Araştırma görevlisi kadrosunda bulunan öğrencilerin yatay geçiş başvurularında kontenjan şartı aranmaz. Yatay geçiş ile ilgili diğer hususlar ilgili mevzuat hükümlerine göre belirlenir.
+(3) Yatay geçiş için başvuran adayın, başvurduğu lisansüstü program için bu Yönetmeliğin ilgili maddesinde düzenlenen asgari başvuru koşullarını ve başvurduğu dönemde ilgili program için çıkılmış olan ilandaki asgari şartları sağlamış olması gerekir.

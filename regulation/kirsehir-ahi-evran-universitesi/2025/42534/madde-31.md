@@ -1,0 +1,2 @@
+Kontenjanların belirlenmesi
+MADDE 31- (1) Lisansüstü program kontenjanları, Yükseköğretim Kurulu Başkanlığı tarafından belirlenen lisansüstü programlarda görev alabilecek öğretim üyesi sayısı ve mevcut öğretim üyesi başına düşen öğrenci sayısı dikkate alınarak ilgili anabilim/anasanat dallarının önerisi ile Enstitü Yönetim Kurulu tarafından belirlenir. Bu süreçlere ilişkin hususlar ilgili mevzuat hükümlerine göre belirlenir.
