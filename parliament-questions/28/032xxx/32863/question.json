@@ -1,0 +1,21 @@
+{
+  "record_type": "parliament-written-question",
+  "term": 28,
+  "legislative_year": 3,
+  "esas_no": "7/32863",
+  "submitted": "2025-08-11",
+  "submitted_as": "Başkanlığa geliş tarihi",
+  "mp": "Gökhan GÜNAYDIN",
+  "province": "İstanbul",
+  "summary": "2020-2025 yılları arasında atanan öğretmenlerden diploma doğrulama işlemi yapılan kişi sayısına ilişkin",
+  "status": "Süresi Geçtikten Sonra Cevaplandı",
+  "status_as_of": "2026-11-16",
+  "official_record": "https://www.tbmm.gov.tr/Denetim/Yazili-Soru-Onergesi-Detay/bf541b1f-c102-4156-86cc-01989d69d085",
+  "source": "https://tbmm.gov.tr/Denetim/YaziliSoruOnergesiTable",
+  "source_form": "https://tbmm.gov.tr/Denetim/Yazili-Soru-Onergeleri",
+  "source_sha256": "d7943b823ea192ae6c4eb374d3800bda6abf8da7219236cd8e2f745f614da654",
+  "in_force": "2025-08-11",
+  "in_force_basis": "Date the question reached the Speaker (Başkanlığa geliş tarihi) in the official TBMM written-question record; parliamentary oversight record, not law",
+  "history_type": "metadata",
+  "text_status": "metadata-only: question text, addressee and answers are in the linked official record (PDFs on cdn.tbmm.gov.tr); not transcribed here"
+}
