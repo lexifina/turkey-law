@@ -1,0 +1,23 @@
+{
+  "number": "meeting-08-12",
+  "number_as_published": "meeting-08-12",
+  "year": 2025,
+  "title": "2025 Ağustos meclis kararları 12 Ağustos 2025",
+  "decision_date": "2025-08-12",
+  "source": "https://datca.bel.tr/belgeler/meclis_karari",
+  "official_document": "https://datca.bel.tr/storage/documents/meclis_karari/20260922-163927-TinOEI4S.pdf",
+  "source_sha256": "b35d3bb830810b32390e5db715bbf2d343aba492b4fd9e3570ba54deb81cbea3",
+  "issuer": "Datça Belediye Meclisi",
+  "history_type": "metadata",
+  "text_status": "metadata-only: listing fields as published; complete decision text is in the linked official document, not transcribed",
+  "in_force": "2025-08-12",
+  "in_force_basis": "Decision date as printed in the official council listing: 12 AĞUSTOS 2025; adoption date of the council decision; legal commencement not asserted",
+  "missing": [
+    "complete official decision text",
+    "official annexes"
+  ],
+  "law_text_complete": false,
+  "privacy_withheld": false,
+  "listing_label": "2025 Ağustos meclis kararları 12 Ağustos 2025",
+  "record_scope": "one official file of council decisions (meeting)"
+}
