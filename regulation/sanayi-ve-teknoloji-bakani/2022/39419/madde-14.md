@@ -1,0 +1,5 @@
+İhbar ve şikâyetin değerlendirilmesi
+MADDE 14- (1) Bakanlık merkez ve taşra teşkilatına intikal eden ihbar veya şikâyetler PGD amacıyla kullanılabilir.
+(2) Asansöre ilişkin ihbar veya şikâyetin, Bakanlık ya da il müdürlüğüne ulaşmasından sonra ihbar veya şikâyet sahibinin başvurusunu geri alması durumunda PGD yapılıp yapılmayacağına il müdürlüğünce karar verilir.
+(3) İhbara veya şikâyete konu asansörün konumunu belirten açık adres bilgisinin bulunamaması durumunda, il müdürlüğünce asansörün açık adresi talep edilir ve gelen bilgilerin yeterli bulunması şartıyla PGD süreci başlatılır.
+(4) İhbar veya şikâyete ilişkin başvurunun birden fazla asansöre konu olması durumunda, söz konusu asansörlere yönelik aylık bakım faaliyeti, ilk periyodik kontrol/periyodik kontrol süreci, şikâyetin içeriği gibi hususlar göz önünde bulundurularak il müdürlüğünce yapılan değerlendirme sonucunda PGD’ye tabi tutulacak asansör sayısı belirlenebilir. Ancak, PGD’ye tabi tutulmayacak asansörler için güvenlik önlemlerinin sağlanması esastır.
