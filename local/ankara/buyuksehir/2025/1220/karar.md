@@ -1,0 +1,25 @@
+T.C.
+
+ANKARA BÜYÜKŞEHİR
+
+BELEDİYE MECLİSİ
+
+Karar No: 1220 13.08.2025
+
+K A R A R
+
+Bala İlçesi Büyükboyalık Mahallesindeki un değirmeninden Keklicek (Büyükbayat) Mahallesine kadar olan yolun genişletilmesine ilişkin Altyapı Hizmetleri Komisyonunun 21.07.2025 tarihli ve 13 sayılı Raporu Büyükşehir Belediye Meclisinin 13.08.2025 tarihli toplantısında okundu.
+
+Konu üzerinde yapılan görüşmelerde; Bala İlçesi Büyükboyalık Mahallesindeki un değirmeninden Keklicek (Büyükbayat) Mahallesine kadar olan yolun genişletilmesine ilişkin Altyapı Hizmetleri Komisyonu Raporu oylanarak oybirliği ile kabul edildi.
+
+Ertan IŞIK
+
+Meclis 1. Başkan V.
+
+Özkan DENİZ
+
+Divan Katibi
+
+Evrim KÜÇÜK
+
+Divan Katibi
