@@ -1,0 +1,3 @@
+Metanolün piyasaya arzı
+MADDE 21 – (1) İlaç sanayi girdisi olarak kullanılacak metanol ile kendi kullanımı amaçlı ithal edilen metanol hariç olmak üzere; geri kazanım amaçlı işleme tesislerinde elde edilen metanol ve ticareti yapılmak üzere sanayi girdisi olarak ithal edilen metanol denatüre edilmiş olarak piyasaya arz edilir.
+(2) Analiz amaçlı analitik saflıkta metanol: Laboratuvar kimyasalı olarak kullanılmak üzere en fazla 250 litre ambalajlı ve etiketi üzerinde kimyasal spesifikasyonları ve üreticisi veya işlemecisi belirtilen yetkili alkol dağıtım firmaları veya metanol toptan satış belgesi veya etil alkol ve metanol toptan satış belgesini haiz satıcılar eliyle kullanım amacına uygun kuruluşların tüketimine sunulur.

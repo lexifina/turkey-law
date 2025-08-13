@@ -1,0 +1,2 @@
+Belge saklama süresi
+MADDE 31 – (1) İlgili mevzuatında daha uzun bir saklama süresi öngörülmediği sürece, bu Yönetmelik uyarınca tutulması gereken tüm kayıtlar, karşılıklı yazışmalar, verilen izin ve uygunluklar, talepler, stok listeleri, raporlar ile sair bilgi ve listeler, dağıtım uygunluk belgesini haiz firmalar tarafından düzenlendikleri tarihi takip eden yılın başından itibaren beş yıl süreyle saklanmak zorundadır.
