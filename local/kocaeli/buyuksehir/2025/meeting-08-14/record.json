@@ -1,0 +1,23 @@
+{
+  "number": "meeting-08-14",
+  "number_as_published": null,
+  "year": 2025,
+  "title": "14.08.2025 TARİHLİ MECLİS KARAR ÖZETLERİ",
+  "decision_date": "2025-08-14",
+  "source": "https://www.kocaeli.bel.tr/meclis-karar/14082025-tarihli-meclis-karar-ozetleri-861.html",
+  "official_document": "https://www.kocaeli.bel.tr/files/uploads/documents/1755763457_14082025-tarihli-meclis-toplantisi-karar-ozetleri_ustyazipdf.pdf",
+  "source_sha256": "a787b7cbc2d18b79fa825c8c002cc2b3bed79335b3e8eeb5b2087687fcd615f6",
+  "issuer": "Kocaeli Büyükşehir Belediye Meclisi",
+  "history_type": "metadata",
+  "text_status": "metadata-only: listing fields as published; complete decision text is in the linked official document, not transcribed",
+  "in_force": "2025-08-14",
+  "in_force_basis": "Decision date as printed in the official council listing: 14.08.2025 TARİHLİ (meeting date in the official title); adoption date of the council decision; legal commencement not asserted",
+  "missing": [
+    "complete official decision text",
+    "official annexes"
+  ],
+  "law_text_complete": false,
+  "privacy_withheld": false,
+  "record_scope": "one official PDF of decision summaries per council meeting",
+  "listing": "https://www.kocaeli.bel.tr/meclis-karar-ozetleri.html"
+}
