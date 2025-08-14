@@ -1,0 +1,23 @@
+{
+  "kind": "norm",
+  "issuer": "Enerji Piyasası Düzenleme Kurumu",
+  "market": "natural-gas",
+  "document_type": "board-decision",
+  "number": "13705",
+  "decision_date": "2025-08-14",
+  "title": "Başkent Doğalgaz Dağıtım Gayrimenkul Yatırım Ortaklığı A.Ş.’nin dağıtım bölgesinde ön ödemeli sayaçların mekanik sayaçlar ile değişimine yönelik",
+  "categories": [
+    "Şirket Bazında Kararlar"
+  ],
+  "source": "https://www.epdk.gov.tr/Detay/DownloadDocument?id=a/17MxKltSc=",
+  "documents": [
+    "https://www.epdk.gov.tr/Detay/DownloadDocument?id=a/17MxKltSc="
+  ],
+  "source_sha256": "e119f20714e95ac6a0e07205be7d966a53fdd996f709dc3f28da54cc0af348a6",
+  "official_list": "https://www.epdk.gov.tr/Detay/Icerik/3-0-19/kurul-kararlari",
+  "official_list_leaf": 7236,
+  "text_status": "metadata-only",
+  "metadata_only_reason": "no text layer (image-only PDF; no OCR)",
+  "in_force": "2025-08-14",
+  "law_text_complete": false
+}
