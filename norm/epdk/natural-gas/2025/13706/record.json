@@ -1,0 +1,25 @@
+{
+  "kind": "norm",
+  "issuer": "Enerji Piyasası Düzenleme Kurumu",
+  "market": "natural-gas",
+  "document_type": "board-decision",
+  "number": "13706",
+  "decision_date": "2025-08-14",
+  "title": "Kargaz Doğal Gaz Dağıtım Sanayi ve Ticaret Anonim Şirketi’nin perakende satış tarifelerine yönelik",
+  "resmi_gazete_date": "2025-08-16",
+  "resmi_gazete_number": "32988",
+  "categories": [
+    "Şirket Bazında Kararlar"
+  ],
+  "source": "https://www.epdk.gov.tr/Detay/DownloadDocument?id=PSjOffbBRGs=",
+  "documents": [
+    "https://www.epdk.gov.tr/Detay/DownloadDocument?id=PSjOffbBRGs="
+  ],
+  "source_sha256": "e3c5122c5e082b51304af92664c44f5d59e440c06ba36c005cb62e9d26c9aa81",
+  "official_list": "https://www.epdk.gov.tr/Detay/Icerik/3-0-19/kurul-kararlari",
+  "official_list_leaf": 7236,
+  "text_status": "as-enacted",
+  "text_file": "metin.md",
+  "in_force": "2025-08-14",
+  "law_text_complete": true
+}
