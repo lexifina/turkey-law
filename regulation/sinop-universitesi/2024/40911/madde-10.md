@@ -1,0 +1,3 @@
+Bilimsel hazırlık programına öğrenci kabulü
+MADDE 10- (1) Yüksek lisans ve doktora programlarına kabul edilen öğrencilerden lisans veya yüksek lisans derecesini kabul edildikleri yüksek lisans veya doktora programından farklı alanlarda almış olanlar ile lisans veya yüksek lisans derecesini Üniversite dışındaki yükseköğretim kurumlarından almış olan yüksek lisans veya doktora programı adayları için eksikliklerini gidermek amacıyla bilimsel hazırlık programı uygulanabilir.
+(2) Bilimsel hazırlık programı ile ilgili devam, ders sınavları, ders notları, derslerden başarılı sayılma koşulları, ders tekrarı, kayıt silme ve bilimsel hazırlık programına ilişkin diğer esaslar Senato tarafından belirlenir.

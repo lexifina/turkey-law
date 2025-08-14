@@ -1,0 +1,7 @@
+DÖRDÜNCÜ BÖLÜM
+Dersler, Sınavlar ve Değerlendirme Esasları
+Derslerin ve ders sorumlularının belirlenmesi
+MADDE 15- (1) Diploma düzeyi ve o alan için Türkiye Yükseköğretim Yeterlikler Çerçevesine göre belirlenen kredi aralığı dikkate alınarak, her bir lisansüstü öğretim programında ilk kez açılacak dersler, anabilim/anasanat dalı kurulunun önerisi, Enstitü Kurulunun kararı ve Senatonun onayıyla belirlenir.
+(2) Bir yarıyılda hangi lisansüstü derslerin açılacağı ve bu derslerin doktora veya eşdeğeri lisansüstü eğitim mezunu hangi öğretim elemanları ile 2547 sayılı Kanunun ek 46 ncı maddesi uyarınca görevlendirilen araştırmacılar tarafından verileceği, ilgili anabilim/anasanat dalı başkanının önerisi üzerine Enstitü Yönetim Kurulu tarafından belirlenir. (Ek cümle:RG-14/8/2025-32986)1 Tezli yüksek lisans ve doktora eğitimi veren anabilim/anasanat dallarında bilimsel araştırma teknikleri ile araştırma ve yayın etiği konularını içeren zorunlu bir ders eğitim öğretime yeni başlayan öğrenciler için her dönem açılır.
+(3) Bir öğretim üyesi bir yarıyılda uzmanlık alan dersi, seminer, dönem projesi ve tez çalışması hariç, en fazla üç ders açabilir. Bir öğrenci, bir programda aynı öğretim elemanından üç dersten fazla ders alamaz.
+(4) Senato tarafından uygun görülmesi halinde bazı dersler sadece uzaktan öğretim veya hem uzaktan hem de örgün öğretim yoluyla da yürütülebilir. Bu konu ile ilgili uygulamalar 2547 sayılı Kanunun 44 üncü maddesi hükümlerine göre yapılır.

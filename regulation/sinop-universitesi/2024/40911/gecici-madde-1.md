@@ -1,0 +1,5 @@
+Geçiş hükümleri
+GEÇİCİ MADDE 1- (1) 6/2/2013 tarihinden önce tezsiz yüksek lisans programlarına kayıtlı olan veya mezun olan öğrenciler doktora programlarına başvurabilir.
+(2) 4/10/2020 tarihinden sonra ve bu Yönetmeliğin yayımı tarihinden önce kayıt yaptıran doktora öğrencilerinin, tez savunma sınavına girebilmesi için; tez konusu veya çalışma alanı ile ilgili en az bir makalesini, ulusal veya uluslararası hakemli bir dergide yayımlaması veya yayıma kabul yazısını Enstitü Yönetim Kuruluna sunması ve ilgili makalede Üniversitenin adının geçmesi gereklidir.
+(3) 2022-2023 eğitim-öğretim güz yarıyılından önce Üniversitenin tezsiz yüksek lisans programlarına kayıt yaptıran öğrenciler hakkında, 53 üncü madde ile yürürlükten kaldırılan Sinop Üniversitesi Lisansüstü Eğitim ve Öğretim Yönetmeliği hükümleri uygulanmaya devam eder.
+(4) Bu Yönetmeliğin yayımı tarihinden önce kayıt yaptıran tezsiz yüksek lisans öğrencilerine 53 üncü madde ile yürürlükten kaldırılan Sinop Üniversitesi Lisansüstü Eğitim ve Öğretim Yönetmeliğinin 30 uncu maddesi hükümleri uygulanır.

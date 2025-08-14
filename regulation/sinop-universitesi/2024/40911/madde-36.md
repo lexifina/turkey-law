@@ -1,0 +1,6 @@
+Yüksek lisans tez çalışmasının sonuçlandırılması
+MADDE 36- (1) Öğrenci, tezini Enstitünün tez yazım kılavuzuna uygun biçimde yazmak ve jüri önünde sözlü olarak savunmak zorundadır. Tez yazım kılavuzuna uygun yazılmayan tezlerin savunma jürileri oluşturulmaz.
+(2) Yüksek lisans tezinin savunmasından önce ve düzeltme verilen tezlerde ise düzeltme ile birlikte öğrenci tezini tamamlayarak danışmanına sunar. Danışman tezin savunulabilir olduğuna ilişkin görüşünü, teze ilişkin intihal yazılım programı raporunu ve tezi Enstitüye teslim eder. Rapordaki verilerde gerçek bir intihalin tespiti halinde gerekçesi ile birlikte karar verilmek üzere tez, Enstitü Yönetim Kuruluna gönderilir.
+(3) Tez savunma sınav jürisi, tez danışmanı önerisi, ilgili anabilim/anasanat dalı başkanlığının görüşü ve Enstitü Yönetim Kurulu onayı ile atanır. Jüri, biri öğrencinin tez danışmanı, en az biri de Üniversite dışından olmak üzere üç veya beş asıl ve iki yedek üyeden oluşur. Jürinin üç kişiden oluşması durumunda ikinci tez danışmanı jüri üyesi olamaz.
+(4) Tezler, Enstitü Müdürlüğü tarafından belirlenen esaslara göre jüri üyelerine gönderilir.
+(5) Yüksek lisans tez çalışmasının sonuçlandırılmasına ilişkin diğer hususlar Senato tarafından belirlenir.

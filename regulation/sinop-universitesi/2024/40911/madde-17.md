@@ -1,0 +1,6 @@
+Uzmanlık alan dersi
+MADDE 17- (1) (Değişik:RG-14/8/2025-32986)1 Uzmanlık alan dersi, açılması onaylanan tezli yüksek lisans ve doktora programları için bir defaya mahsus açılır. Daha sonra ilgili programa uzmanlık alan dersi açılması için başvuran öğretim üyeleri Enstitü Kurulu kararı ile dersi verecek öğretim üyeleri arasına eklenir. Tezli yüksek lisans ve doktora öğrencilerine, danışman öğretim üyesinin çalıştığı bilimsel alandaki özel bilgi ve deneyimleri ile bu alandaki son gelişmelerin aktarılması, akademik çalışma disiplininin verilmesi, çalışma alanı ile ilgili kaynakları izleyebilme yeteneğinin kazandırılması amacını taşıyan uzmanlık alan dersi verilir.
+(2) Öğrenciye ikinci danışman atanmış olması durumunda uzmanlık alan dersi yalnız birinci danışman tarafından verilir.
+(3) Uzmanlık alan dersi; öğretim üyesinin, ders açma isteğinin Enstitü Kurulunca kabul edildiği tarihten itibaren açılmış sayılır ve öğrenci kayıt yaptığı sürece öğretim üyesinin izinli, görevli olduğu günler ve resmî tatiller dışındaki yarıyıl ve yaz tatillerinde de devam eder.
+(4) Uzmanlık alan dersi her öğretim üyesi için, öğrenci sayısına ve programına bakılmaksızın, her yarıyıl lisansüstü öğrencileri için haftada sekiz saat olarak açılır.
+(5) Uzmanlık alan dersine ilişkin diğer hususlar Senato tarafından belirlenir.

@@ -1,0 +1,4 @@
+Kayıt yenileme, öğrenci katkı payı ve öğrenim ücreti
+MADDE 14- (1) Lisansüstü öğrenciler, her yıl ilgili mevzuat hükümlerince belirlenen katkı payı veya öğrenim ücretini ödemek ve Enstitü Müdürlüğünce istenen kayıt yenileme işlemlerini yerine getirmekle yükümlüdür.
+(2) Öğrencinin kendi isteği ile kaydını sildirmesi halinde, alınan katkı payı veya öğrenim ücreti iade edilmez.
+(3) Kaydını akademik takvimde belirtilen süre içerisinde yenileyemeyen öğrenci, ders ekleme-bırakma süresi içerisinde mazereti Enstitü Yönetim Kurulu tarafından kabul edildiği takdirde ilgili programa kayıt yaptırabilir. Mazereti Enstitü Yönetim Kurulunca kabul edilmeyen öğrencinin, ders kaydı ve öğrencilikle ilgili diğer işlemleri yapılmaz. Bu durumda geçen süreler kayıtlı bulunduğu programın azami süresinden sayılır.

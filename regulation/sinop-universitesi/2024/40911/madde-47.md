@@ -1,0 +1,5 @@
+Doktora diploması
+MADDE 47- (1) Tez sınavında başarılı olmak ve Senato tarafından belirlenen diğer koşulları da sağlamak kaydıyla doktora tezinin ciltlenmiş en az üç kopyasını tez sınavına giriş tarihinden itibaren bir ay içinde Enstitüye teslim eden ve tezi şekil yönünden uygun bulunan öğrenci doktora diploması almaya hak kazanır. Enstitü Yönetim Kurulu başvuru üzerine teslim süresini en fazla bir ay daha uzatabilir. Bu koşulları yerine getirmeyen öğrenci koşulları yerine getirinceye kadar diplomasını alamaz, öğrencilik haklarından yararlanamaz ve azami süresinin dolması halinde Üniversite ile ilişiği kesilir.
+(2) Doktora diploması üzerinde öğrencinin izlemiş olduğu anabilim/anasanat dalındaki programın YÖK tarafından onaylanmış adı bulunur.
+(3) Mezuniyet tarihi tezin sınav jüri komisyonu tarafından imzalı nüshasının Enstitüye teslim edildiği tarihtir.
+(4) Enstitü tarafından tezin tesliminden itibaren üç ay içinde doktora tezinin bir kopyası elektronik ortamda, bilimsel araştırma ve faaliyetlerin hizmetine sunulmak üzere YÖK Başkanlığına gönderilir.

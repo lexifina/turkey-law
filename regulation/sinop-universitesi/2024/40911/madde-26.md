@@ -1,0 +1,2 @@
+Notlarda maddi hata
+MADDE 26- (1) Sınav sonuçlarına itiraz öğrenci tarafından, ilgili anabilim/anasanat dalı başkanlığına yazılı olarak yapılır. Bu itiraz ders sorumlusuna iletilir. Değerlendirmede maddi hata tespit edilmesi durumunda, gerekçeli düzeltme ilgili öğretim elemanınca yapılır ve yapılan bu düzeltme anabilim/anasanat dalı başkanlığı tarafından Enstitü Müdürlüğüne ve öğrenciye bildirilir.

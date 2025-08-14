@@ -1,0 +1,3 @@
+Dönem projesi
+MADDE 30- (1) (Mülga:RG-14/8/2025-32986)1
+(2) Öğrenci, dönem projesinin alındığı yarıyılda dönem projesine kayıt yaptırmak ve yarıyıl sonunda yazılı bir rapor vermek zorundadır. Başarısız olunması halinde, öğrenci bu dersi yeniden alır. Dönem projesi, ikinci ve üçüncü yarıyılda alınan derslerle birlikte de yürütülebilir. Öğrenciler, dönem projelerini Enstitünün tez yazım kurallarına uygun biçimde hazırlamak, ilgili anabilim/anasanat dalı kurulu tarafından kurulan danışmanı dâhil üç öğretim elemanı/üyesinden oluşan bir jüri karşısında savunmak ve başarılı olduğu takdirde dönem projesini yazılı olarak anabilim/anasanat dalı başkanlığına teslim etmek zorundadır.

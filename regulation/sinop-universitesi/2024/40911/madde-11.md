@@ -1,0 +1,2 @@
+Özel öğrenci kabulü
+MADDE 11- (1) Bir yüksek lisans ya da doktora programına kayıtlı olan öğrenciler, Üniversitedeki lisansüstü derslere, kayıtlı olduğu anabilim/anasanat dalı başkanlığının onayı ile özel öğrenci olarak kabul edilebilir. Lisansüstü derslere kabul edilen öğrencilerin özel öğrenci olarak aldığı ve başarılı olduğu derslerin muafiyet işlemleri kayıtlı olduğu anabilim/anasanat dalı başkanlığı tarafından yürütülür. Özel öğrenci kabul koşulları ve bu konudaki diğer hükümler Senato tarafından belirlenir.
