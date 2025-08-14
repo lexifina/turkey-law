@@ -1,0 +1,6 @@
+Başarı notu
+MADDE 22 – (1) Bir dersin başarı notu; ara sınav ve/veya dönem içi değerlendirmelerinden alınan puanın %40’ı ile yarıyıl sonu veya bütünleme sınavından ya da dönem sonu değerlendirmelerinden alınan puanın %60’ı toplanarak hesaplanır. Hesaplama sonucu çıkacak buçuklu sayı, tam sayıya yükseltilir.
+(2) Bir dersten başarılı sayılabilmek için; yarıyıl sonu veya bütünleme sınavı ya da dönem sonu değerlendirmelerinden alınan puanın en az 50 ve dönem sonu başarı puanının da en az 50 olması zorunludur.
+(3) GANO’su 2,00’ın altında olan öğrenciler ulusal ve uluslararası değişim programından yararlanamazlar.
+(4) Yükseköğretim programına yeni kayıt olan öğrenciler, başvuruda bulunmaları halinde Üniversite bünyesinde ortak ad, kod ve kredi ile okutulmakta olan zorunlu yabancı dil ve bilgisayar derslerinden akademik takvimde belirlenen tarihlerde, seviye tespit sınavına tabi tutulur. Sınavların değerlendirilmesinde 25 inci madde hükümleri uygulanır. Gerekli başarıyı sağlamış olan öğrenciler, ortak ad, kod ve krediye sahip bu dersler için öğretim planında öngörülen krediyi kazanmış sayılarak bu dersten muaf tutulur ve notları başarı notu olarak kaydedilir.
+(5) Seviye tespit sınavına katılmayan, katıldığı halde gerekli başarıyı sağlayamayan öğrenciler, bu dersleri açıldığı yarıyılda alarak başarılı olmak zorundadır.

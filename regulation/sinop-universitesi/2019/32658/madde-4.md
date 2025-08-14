@@ -1,0 +1,21 @@
+Tanımlar
+MADDE 4 – (1) Bu Yönetmelikte geçen;
+a) Arşiv sorumlusu: Dekanlık/müdürlük tarafından birim arşivinden sorumlu olarak görevlendirilmiş personeli,
+b) Dekanlık/müdürlük: Sinop Üniversitesine bağlı ilgili fakülte dekanlığı veya yüksekokul/meslek yüksekokulu müdürlüğünü,
+c) Fakülte/yüksekokul/meslek yüksekokulu: Sinop Üniversitesinin ilgili fakülte/yüksekokul/meslek yüksekokulunu,
+ç) Genel ağırlıklı not ortalaması (GANO): Her bir dersin AKTS kredisi ile dersten alınan notun katsayısının çarpımı sonucunun, alınan toplam AKTS kredisine bölünmesi suretiyle hesaplanacak değeri,
+d) Kredi: Türkiye Yükseköğretim Yeterlilikler Çerçevesine (TYYÇ) uygun olarak ve Avrupa Kredi Transfer ve Biriktirme Sistemine (AKTS) göre öğrenci iş yüküne dayalı olarak hesaplanan krediyi,
+e) Öğrenci bilgi sistemi (ÖBS): Öğrencilerin ve mezunların iş ve işlemlerinin gerçekleştirildiği bilgisayar otomasyon yazılımını,
+f) Öğrenci İşleri Daire Başkanlığı: Sinop Üniversitesi Öğrenci İşleri Daire Başkanlığını,
+g) Önkoşullu ders: Alınabilmesi için alt yarıyıllarda yer alan derslerden bir veya birkaçının başarılması ya da devam koşulunun yerine getirilmesi gereken dersi,
+ğ) Rektör: Sinop Üniversitesi Rektörünü,
+h) Seçmeli ders: Öğrencinin, kayıtlı olduğu programdaki seçmeli ders adı ile açılmış derslerden seçebileceği gibi kendi isteği doğrultusunda aynı düzeydeki başka programların alan içinden veya alan dışından açılmış olan seçmeli dersleri arasından da seçebileceği dersi,
+ı) Senato: Sinop Üniversitesi Senatosunu,
+i) Uzaktan öğretim programı: Öğretim elemanı ve öğrencilerin aynı mekânda bulunma zorunluluğu olmadan, bilgi ve iletişim teknolojilerine dayalı olarak öğretim faaliyetlerinin planlandığı ve yürütüldüğü öğretim programlarını,
+j) Üniversite: Sinop Üniversitesini,
+k) Üniversite Yönetim Kurulu: Sinop Üniversitesi Yönetim Kurulunu,
+l) Yarıyıl: Akademik yılı oluşturan, eğitim-öğretimin güz ve bahar olarak uygulandığı her bir dönemi,
+m) Yönetim kurulu: Sinop Üniversitesine bağlı ilgili fakülte/yüksekokul/meslek yüksekokulu yönetim kurulunu,
+n) Yükseköğretim programı: Sinop Üniversitesine bağlı fakülte/yüksekokul/meslek yüksekokulunda açılmış bulunan önlisans ve lisans programlarını,
+o) Zorunlu ders: Bir programda öngörülen ve öğrencinin alması gerekli olan dersi,
+ifade eder.

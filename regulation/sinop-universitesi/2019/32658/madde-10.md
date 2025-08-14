@@ -1,0 +1,2 @@
+Yatay geçişler
+MADDE 10 – (1) Üniversitenin önlisans ve lisans düzeyindeki yükseköğretim programlarında yatay geçişler, 24/4/2010 tarihli ve 27561 sayılı Resmî Gazete’de yayımlanan Yükseköğretim Kurumlarında Önlisans ve Lisans Düzeyindeki Programlar Arasında Geçiş, Çift Anadal, Yan Dal ile Kurumlar Arası Kredi Transferi Yapılması Esaslarına İlişkin Yönetmelik ile ilgili diğer mevzuat hükümlerine göre yapılır. İlgili mevzuat uyarınca Senato ilave koşullar belirleyebilir.
