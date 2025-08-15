@@ -1,0 +1,4 @@
+Mevcut kuruluşların uyumu
+GEÇİCİ MADDE 1- (1) Bu Yönetmeliğin yürürlüğe girdiği tarihten önce açılan sağlık kabinleri hakkında fiziki standartlar bakımından açıldığı tarihteki mevzuat hükümleri uygulanmaya devam olunur. Ancak diğer standartlar bakımından 31/12/2025 tarihine kadar bu Yönetmelik hükümlerine uygun hâle getirilerek ruhsatlandırılır. Bu süre sonunda bu Yönetmelik hükümlerine uygun hâle getirilmeyen sağlık kabinleri kapatılır.
+(2) Bu Yönetmeliğin yürürlüğe girdiği tarihten önce açılan sağlık kabinlerinin sahiplik ve ortaklık durumları korunur.
+(3) (Değişik:RG-15/8/2025-32987) Bu Yönetmeliğin yayımı tarihinden önce sağlık meslek mensuplarının muhtelif adlar altında faaliyet gösterdiği iş yerlerinin en geç 31/12/2025 tarihine kadar bu Yönetmelik hükümlerine uygun hale getirilerek ruhsatlandırılması zorunludur.

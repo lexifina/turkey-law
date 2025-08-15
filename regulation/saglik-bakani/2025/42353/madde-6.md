@@ -1,0 +1,7 @@
+Ruhsat başvurusu
+MADDE 6- (1) Sağlık meslek hizmet birimi açılabilmesi için ruhsat belgesi alınması zorunludur. Ruhsat başvurusu EK-1’de yer alan belgelerle ilgili müdürlüğe yapılır.
+(2) Başvuru evrakında eksiklik veya uygunsuzluk bulunması halinde durum 10 iş günü içinde başvuru sahibine bildirilir ve eksiklik veya uygunsuzluğun giderilmesi için 30 iş günü süre verilir. Eksiklik veya uygunsuzluğun giderilmemesi halinde başvuru dosyası başvuru sahibine iade edilir.
+(3) Başvuru evrakında eksiklik ve uygunsuzluk bulunmadığının tespiti halinde, müdürlükçe oluşturulacak komisyon tarafından, başvuru tarihinden itibaren en geç 30 iş günü içinde EK-5’te yer alan Sağlık Meslek Hizmet Birimi Denetim, Sorgu ve İdari Yaptırım Formuna uygun şekilde yerinde inceleme yapılır.
+(4) Müdürlük tarafından oluşturulacak komisyon; sağlık meslek hizmet biriminin vereceği hizmete göre, tercihen aynı meslek mensubundan en az bir kişi olmak üzere toplamda en az üç kişiden oluşur.
+(5) Yapılan yerinde inceleme sonucunda eksiklik veya uygunsuzluk tespit edilmesi halinde, tespit edilen eksiklik veya uygunsuzluklar başvuru sahibine bildirilir. Eksiklik veya uygunsuzluğun giderilmesi için 30 iş günü süre verilir. Eksikliğin veya uygunsuzluğun giderildiğinin başvuru sahibi tarafından müdürlüğe bildirilmesi üzerine yeniden yerinde inceleme yapılır.
+(6) Yapılan incelemeler neticesinde, herhangi bir eksiklik ve uygunsuzluk olmadığının tespiti halinde EK-2’de yer alan ruhsat belgesi düzenlenir.

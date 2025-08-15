@@ -1,0 +1,46 @@
+{
+  "source_id": "7.5.42353",
+  "kind": "regulation",
+  "register_kind": "Kurum ve Kuruluş Yönetmelikleri",
+  "title": "SAĞLIK MESLEK MENSUPLARININ SERBEST MESLEK İCRASI HAKKINDA YÖNETMELİK",
+  "number": "42353",
+  "issuer": "Sağlık Bakanı",
+  "issuer_slug": "saglik-bakani",
+  "path": "regulation/saglik-bakani/2025/42353",
+  "source": "https://www.mevzuat.gov.tr/anasayfa/MevzuatFihristDetayIframe?MevzuatTur=7&MevzuatNo=42353&MevzuatTertip=5",
+  "source_sha256": "959513e0e6cc6651ddc7b469fcfe60f97aa15f20c1cc058339a15126dd9783f5",
+  "source_bytes": 64866,
+  "published": "2025-03-29",
+  "gazette": "32856",
+  "in_force": "2025-08-15",
+  "in_force_basis": "latest Resmî Gazete date printed in the source amendment notes/table (\"RG-15/8/2025\") for the current consolidated text",
+  "date_evidence": [
+    [
+      "2025-08-15",
+      "RG-15/8/2025",
+      "Resmî Gazete date printed in the source amendment note"
+    ],
+    [
+      "2025-08-15",
+      "15/8/2025",
+      "Resmî Gazete date in the source amendment table"
+    ]
+  ],
+  "commencement_clauses": [
+    "Bu Yönetmelik yayımı tarihinde yürürlüğe girer"
+  ],
+  "history": "current-text",
+  "label": "oldest version available",
+  "checked_on": "2026-11-15",
+  "word_count": 2979,
+  "text_status": "current-consolidated",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  },
+  "source_links": [
+    "7.5.42353-Ek.zip"
+  ],
+  "completeness": "html-text-complete; linked annexes not fetched"
+}
