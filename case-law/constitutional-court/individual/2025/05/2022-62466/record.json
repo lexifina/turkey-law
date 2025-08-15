@@ -1,0 +1,20 @@
+{
+  "applicant": "N.E.",
+  "application_date": "2022-06-07",
+  "application_number": "2022/62466",
+  "deciding_unit": "Genel Kurul",
+  "decision_date": "2025-05-29",
+  "id": "aa66d89b-94bd-f422-2b25-89ef4a9815f9",
+  "in_force": "2025-08-15",
+  "in_force_basis": "official Resmî Gazete date",
+  "kind": "constitutional-court-individual-application",
+  "omitted_images": 0,
+  "outcome": "Esas (İhlal Olmadığı)",
+  "published": "2025-08-15",
+  "referenced_images": 0,
+  "source": "https://kararlarbilgibankasi.anayasa.gov.tr/kbb/pages/search/Tumu?id=a2JiOmFhNjZkODliLTk0YmQtZjQyMi0yYjI1LTg5ZWY0YTk4MTVmOQ&type=BireyselBasvuru",
+  "source_api": "https://kararlarbilgibankasi.anayasa.gov.tr/api/core/public/search",
+  "source_images": 0,
+  "source_sha256": "ec545f8b3cba399e5f96afd100637f75aa01c1ea8546f9db03b3d99da94049ba",
+  "version_label": "as-enacted"
+}
