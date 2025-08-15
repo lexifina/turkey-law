@@ -1,0 +1,3 @@
+YDB Akademik Kurulu
+MADDE 8- (1) YDB Akademik Kurulu; YDYO Müdürü başkanlığında, Müdür Yardımcıları, Yabancı Diller Bölüm Başkanı ve tam zamanlı öğretim elemanları arasından Yabancı Diller Bölümünde bulunan/ders veren araştırma görevlileri hariç olmak üzere öğretim elemanları tarafından seçilen üyelerle birlikte en az 5 en çok 7 üyeden oluşur. Kurul, hazırlık sınıfı ve Üniversitedeki zorunlu yabancı dil derslerinin öğretim faaliyetlerinin hazırlanması, düzenlenmesi ve uygulanması ile ilgili kararlar alır. Bu kararlar YDYO Yönetim Kurulu onayına sunulur.
+(2) Farklı dilde yürütülecek olan hazırlık sınıfı akademik kurulu, birinci fıkra hükümlerine göre oluşturulur.

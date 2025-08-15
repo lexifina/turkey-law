@@ -1,0 +1,31 @@
+{
+  "source_id": "8.5.42558",
+  "kind": "regulation",
+  "register_kind": "Üniversite Yönetmelikleri",
+  "title": "FIRAT ÜNİVERSİTESİ YABANCI DİL EĞİTİM VE ÖĞRETİM YÖNETMELİĞİ",
+  "number": "42558",
+  "issuer": "FIRAT ÜNİVERSİTESİ",
+  "issuer_slug": "firat-universitesi",
+  "path": "regulation/firat-universitesi/2025/42558",
+  "source": "https://www.mevzuat.gov.tr/anasayfa/MevzuatFihristDetayIframe?MevzuatTur=8&MevzuatNo=42558&MevzuatTertip=5",
+  "source_sha256": "5a6d4768a83432d9bbce1dd0fe09432139d5b414d0d03291e7103c81e6e489c4",
+  "source_bytes": 64212,
+  "published": "2025-08-15",
+  "gazette": "32987",
+  "in_force": "2025-08-15",
+  "in_force_basis": "Resmî Gazete publication date in the official listing (15.08.2025); own commencement article: \"Bu Yönetmelik 2025-2026 eğitim-öğretim yılı başında yürürlüğe girer\"",
+  "commencement_clauses": [
+    "Bu Yönetmelik 2025-2026 eğitim-öğretim yılı başında yürürlüğe girer"
+  ],
+  "history": "current-text",
+  "label": "oldest version available",
+  "checked_on": "2026-11-15",
+  "word_count": 1504,
+  "text_status": "current-consolidated",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  },
+  "completeness": "html-text-complete"
+}

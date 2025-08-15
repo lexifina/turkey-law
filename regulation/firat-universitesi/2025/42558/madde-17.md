@@ -1,0 +1,6 @@
+Başarı durumu
+MADDE 17- (1) Zorunlu yabancı dil hazırlığı bulunan ön lisans, lisans, lisansüstü programlarına yeni kayıt yapan ve 16 ncı maddede belirtilen yeterlik şartlarını sağlamayan öğrenciler, zorunlu yabancı dil hazırlık sınıfına alınırlar.
+(2) Zorunlu hazırlık sınıfına devam şartını yerine getiren öğrenciler ve Senato tarafından belirlenen başarı kriterlerini sağlayan öğrenciler yıl sonunda YDYS’ye girme hakkı kazanırlar.
+(3) Hazırlık not ortalaması Senato tarafından belirlenen puan ve üzerinde olan öğrenciler başarılı sayılır. Hazırlık not ortalaması hesaplamasında kullanılacak etki oranları her eğitim-öğretim yılı başında YDB Akademik Kurulu tarafından belirlenir ve ilan edilir.
+(4) Başarısız olan öğrencilere bir sonraki akademik yıl başında yapılacak olan YDYS’ye girme hakkı verilir. Başarı kriterlerini sağlayan öğrenciler bölümlerine geçmeye hak kazanırlar. Başarısız olan öğrenciler zorunlu hazırlık sınıfını tekrar ederler.
+(5) Hazırlık sınıfının ilk yılında devam şartını yerine getirmiş, ancak başarısız olmuş öğrenciler YDYO tarafından ilan edilen tarihlerde dilekçe vermeleri durumunda izleyen yılda devam zorunluluğundan muaf tutulabilirler. Bu öğrenciler yapılacak olan yeterlik sınavlarına girerler.
