@@ -1,0 +1,6 @@
+Eğitim-öğretim programı, uygulama ve stajlar
+MADDE 7- (1) Fakültede dört yıllık lisans öğretimi yapılır ve ders geçme esası uygulanır. Bir sonraki akademik yıla ait eğitim-öğretim programları, ilgili bölüm kurulunun önerisi üzerine Fakülte Kurulunca karara bağlanarak en geç mayıs ayı içinde Rektörlüğe sunulur ve Senatonun onayı ile kesinleşir.
+(2) Fakültede eğitim-öğretim programı; teorik dersler ve/veya uygulamalardan, proje, ödev, seminer, atölye, laboratuvar ve benzeri çalışmalardan oluşur. Yapılması zorunlu olan staj, uygulama ve benzeri çalışmalarla ilgili esaslar, ilgili bölüm kurulunun önerisi üzerine Fakülte Kurulunun teklifi ve Senatonun onayı ile yürürlüğe girer.
+(3) Bir dersin teorik ve uygulama saatleri ile birlikte diğer çalışmalar göz önünde bulundurularak o dersin AKTS kredisi belirlenir.
+(4) Bir programdaki derslerin toplam AKTS kredisi; YÖK tarafından ilgili programın yer aldığı diploma düzeyi ve alan için yükseköğretim yeterlilikler çerçevesine göre belirlenen kredi aralığına göre, dört yıllık lisans programı için 240’tır. Seçmeli derslerin genel AKTS kredisi toplamı içerisinde oranı en az %25’tir.
+(5) Fakültede staj, uygulama ve benzeri çalışmalarla ilgili esaslar, ilgili mevzuat hükümlerine göre bölüm kurulunun önerisi üzerine Fakülte Kurulunun teklifi ile Senato tarafından belirlenir.

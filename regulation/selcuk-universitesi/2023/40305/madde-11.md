@@ -1,0 +1,2 @@
+Sınav sonucuna itiraz
+MADDE 11- (1) Öğrenciler sınav notlarının ilan edildiği tarihten itibaren en geç beş iş günü içinde ilgili Dekanlığa yazılı olarak sınav ile ilgili maddi hata itirazında bulunabilir. İtiraz üzerine, inceleme sonucunda sınavda maddi hata tespit edilirse ders sorumlusu öğretim elemanının da görüşü alınarak Fakülte Yönetim Kurulu kararı ile gerekli düzeltmeler yapılır ve sonuç öğrenciye bildirilir.

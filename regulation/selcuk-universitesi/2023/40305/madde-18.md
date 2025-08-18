@@ -1,0 +1,2 @@
+Yatay ve dikey geçişler, çift ana dal ve yan dal eğitimi
+MADDE 18- (1) Fakülte bölümlerine yapılacak olan kurum içi ve kurumlar arası yatay geçişler ile dikey geçişler, çift ana dal ve yan dal eğitimi yürürlükteki mevzuat hükümleri ve Senato kararlarına göre yapılır. Yatay ve dikey geçiş ile gelen öğrencilerin intibakları bölümlerin intibak komisyonu ve ilgili bölüm kurul kararı doğrultusunda Fakülte Yönetim Kurulu kararı ile yapılır.
