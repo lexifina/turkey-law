@@ -1,0 +1,3 @@
+Geçiş hükmü
+GEÇİCİ MADDE 1- (Ek:RG-29/6/2024-32587)
+(1) 13 üncü maddenin dördüncü fıkrasının (b) bendi ile 15 inci maddenin ikinci fıkrasında yer alan teorik ve ortak zorunlu derslerden DC notu alan öğrencinin bu derslerden başarılı sayılabilmesi için yıl ağırlıklı not ortalamasının 2,50 veya üzerinde olmasına ilişkin hükümler, 2024-2025 eğitim-öğretim yılı başına kadar uygulanmaz. Bu tarihe kadar bu maddeyi ihdas eden Yönetmelikle yapılan değişiklikten önceki, teorik ve ortak zorunlu derslerden DC notu alan öğrencinin bu derslerden başarılı sayılabilmesi için yıl ağırlıklı not ortalamasının 2,00 veya üzerinde olmasına ilişkin hükümler uygulanmaya devam olunur.

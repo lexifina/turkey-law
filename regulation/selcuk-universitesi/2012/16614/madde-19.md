@@ -1,0 +1,2 @@
+Yatay geçişler
+MADDE 19 – (1) Fakülteye yapılacak yatay geçişler ve Üniversitenin birimlerinin bölüm veya programları arasındaki geçişler, çift anadal ve yandal eğitimi, 24/4/2010 tarihli ve 27561 sayılı Resmî Gazete’de yayımlanan Yükseköğretim Kurumlarında Önlisans ve Lisans Düzeyindeki Programlar Arasında Geçiş, Çift Anadal, Yandal ile Kurumlararası Kredi Transferi Yapılması Esaslarına İlişkin Yönetmelik hükümlerine ve Senato kararlarına göre yapılır. Yatay geçiş ile gelen öğrencilerin intibakları Yönetim Kurulu kararı ile yapılır.
