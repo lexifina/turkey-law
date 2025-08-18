@@ -1,0 +1,21 @@
+{
+  "record_type": "parliament-written-question",
+  "term": 28,
+  "legislative_year": 3,
+  "esas_no": "7/32903",
+  "submitted": "2025-08-18",
+  "submitted_as": "Başkanlığa geliş tarihi",
+  "mp": "Ali KARAOBA",
+  "province": "Uşak",
+  "summary": "Afyonkarahisar ve İscehisar mermer sektörünün ihracat hacmini artırmak için yapılması gereken çalışmalara ilişkin",
+  "status": "Cevaplandı",
+  "status_as_of": "2026-11-16",
+  "official_record": "https://www.tbmm.gov.tr/Denetim/Yazili-Soru-Onergesi-Detay/a3d1b25e-df41-4bca-84a2-0198c1a3c984",
+  "source": "https://tbmm.gov.tr/Denetim/YaziliSoruOnergesiTable",
+  "source_form": "https://tbmm.gov.tr/Denetim/Yazili-Soru-Onergeleri",
+  "source_sha256": "2bc10c2c17bf15595664b5c882358249c9f94fe682359eedd22ea770197ba2ce",
+  "in_force": "2025-08-18",
+  "in_force_basis": "Date the question reached the Speaker (Başkanlığa geliş tarihi) in the official TBMM written-question record; parliamentary oversight record, not law",
+  "history_type": "metadata",
+  "text_status": "metadata-only: question text, addressee and answers are in the linked official record (PDFs on cdn.tbmm.gov.tr); not transcribed here"
+}
