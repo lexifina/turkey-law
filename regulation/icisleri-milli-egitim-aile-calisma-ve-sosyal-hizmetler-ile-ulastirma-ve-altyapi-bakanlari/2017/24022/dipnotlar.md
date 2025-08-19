@@ -1,0 +1,1 @@
+[1] 29/11/2024 tarihli ve 32737 sayılı Resmî Gazete’de yayımlanan değişiklik ile Yönetmeliğe 15 inci maddesinin birinci fıkradan önce gelmek üzere birinci fıkra eklenmiş ve diğer fıkralar buna göre teselsül ettirilmiştir.

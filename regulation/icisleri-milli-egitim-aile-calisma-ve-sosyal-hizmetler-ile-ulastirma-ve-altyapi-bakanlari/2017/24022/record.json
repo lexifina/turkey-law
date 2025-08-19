@@ -1,0 +1,96 @@
+{
+  "source_id": "7.5.24022",
+  "kind": "regulation",
+  "register_kind": "Kurum ve Kuruluş Yönetmelikleri",
+  "title": "OKUL SERVİS ARAÇLARI YÖNETMELİĞİ",
+  "number": "24022",
+  "issuer": "İçişleri, Milli Eğitim, Aile, Çalışma ve Sosyal Hizmetler ile Ulaştırma ve Altyapı Bakanları",
+  "issuer_slug": "icisleri-milli-egitim-aile-calisma-ve-sosyal-hizmetler-ile-ulastirma-ve-altyapi-bakanlari",
+  "path": "regulation/icisleri-milli-egitim-aile-calisma-ve-sosyal-hizmetler-ile-ulastirma-ve-altyapi-bakanlari/2017/24022",
+  "source": "https://www.mevzuat.gov.tr/anasayfa/MevzuatFihristDetayIframe?MevzuatTur=7&MevzuatNo=24022&MevzuatTertip=5",
+  "source_sha256": "ffca6d8bad51ab1b39177a78513dc730d05f901c6a3b0b445cffcde6a2939413",
+  "source_bytes": 82418,
+  "published": "2017-10-25",
+  "gazette": "30221",
+  "in_force": "2025-08-19",
+  "in_force_basis": "latest Resmî Gazete date printed in the source amendment notes/table (\"RG-19/8/2025\") for the current consolidated text",
+  "date_evidence": [
+    [
+      "2025-08-19",
+      "RG-19/8/2025",
+      "Resmî Gazete date printed in the source amendment note"
+    ],
+    [
+      "2025-08-19",
+      "19/8/2025",
+      "Resmî Gazete date in the source amendment table"
+    ],
+    [
+      "2024-11-29",
+      "RG-29/11/2024",
+      "Resmî Gazete date printed in the source amendment note"
+    ],
+    [
+      "2024-11-29",
+      "29/11/2024",
+      "Resmî Gazete date in the source amendment table"
+    ],
+    [
+      "2023-04-29",
+      "RG-29/4/2023",
+      "Resmî Gazete date printed in the source amendment note"
+    ],
+    [
+      "2023-04-29",
+      "29/4/2023",
+      "Resmî Gazete date in the source amendment table"
+    ],
+    [
+      "2022-08-05",
+      "5/8/2022",
+      "Resmî Gazete date in the source amendment table"
+    ],
+    [
+      "2021-08-25",
+      "RG-25/8/2021",
+      "Resmî Gazete date printed in the source amendment note"
+    ],
+    [
+      "2021-08-25",
+      "25/8/2021",
+      "Resmî Gazete date in the source amendment table"
+    ],
+    [
+      "2020-09-12",
+      "RG-12/9/2020",
+      "Resmî Gazete date printed in the source amendment note"
+    ],
+    [
+      "2020-09-12",
+      "12/9/2020",
+      "Resmî Gazete date in the source amendment table"
+    ],
+    [
+      "2019-10-12",
+      "RG-12/10/2019",
+      "Resmî Gazete date printed in the source amendment note"
+    ]
+  ],
+  "commencement_clauses": [
+    "Bu Yönetmelik yayımı tarihinde yürürlüğe girer"
+  ],
+  "history": "current-text",
+  "label": "oldest version available",
+  "checked_on": "2026-11-15",
+  "word_count": 4270,
+  "text_status": "current-consolidated",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  },
+  "source_links": [
+    "7.5.24022-Ek.docx"
+  ],
+  "completeness": "html-text-complete; linked annexes not fetched"
+}
