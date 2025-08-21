@@ -1,0 +1,1 @@
+[1] 21/8/2025 tarihli ve 32993 sayılı Resmî Gazete’de yayımlanan değişiklikle bu Yönetmeliğin adı “Erzincan Üniversitesi Lisansüstü Eğitim ve Öğretim Yönetmeliği” iken metne işlendiği şekilde değiştirilmiştir.
