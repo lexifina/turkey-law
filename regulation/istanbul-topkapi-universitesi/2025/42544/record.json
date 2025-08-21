@@ -1,0 +1,31 @@
+{
+  "source_id": "8.5.42544",
+  "kind": "regulation",
+  "register_kind": "Üniversite Yönetmelikleri",
+  "title": "İSTANBUL TOPKAPI ÜNİVERSİTESİ GİRİŞİMCİLİK UYGULAMA VE ARAŞTIRMA MERKEZİ YÖNETMELİĞİ",
+  "number": "42544",
+  "issuer": "İSTANBUL TOPKAPI ÜNİVERSİTESİ",
+  "issuer_slug": "istanbul-topkapi-universitesi",
+  "path": "regulation/istanbul-topkapi-universitesi/2025/42544",
+  "source": "https://www.mevzuat.gov.tr/anasayfa/MevzuatFihristDetayIframe?MevzuatTur=8&MevzuatNo=42544&MevzuatTertip=5",
+  "source_sha256": "70bac1559f49f6a79a70e1f60968ca8e61450eea7e8f0d8ba7c8e0d907e06157",
+  "source_bytes": 49739,
+  "published": "2025-08-21",
+  "gazette": "32993",
+  "in_force": "2025-08-21",
+  "in_force_basis": "Resmî Gazete publication date in the official listing (21.08.2025); own commencement article: \"Bu Yönetmelik yayımı tarihinde yürürlüğe girer\"",
+  "commencement_clauses": [
+    "Bu Yönetmelik yayımı tarihinde yürürlüğe girer"
+  ],
+  "history": "current-text",
+  "label": "oldest version available",
+  "checked_on": "2026-11-15",
+  "word_count": 921,
+  "text_status": "current-consolidated",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  },
+  "completeness": "html-text-complete"
+}
