@@ -1,0 +1,25 @@
+{
+  "kind": "norm",
+  "issuer": "Enerji Piyasası Düzenleme Kurumu",
+  "market": "natural-gas",
+  "document_type": "board-decision",
+  "number": "13716",
+  "decision_date": "2025-08-21",
+  "title": "Torosgaz Isparta Burdur Doğalgaz Dağıtım Anonim Şirketi’nin 2022-2026 yılları arası perakende satış tarifelerine yönelik",
+  "resmi_gazete_date": "2025-08-23",
+  "resmi_gazete_number": "32995",
+  "categories": [
+    "Şirket Bazında Kararlar"
+  ],
+  "source": "https://www.epdk.gov.tr/Detay/DownloadDocument?id=PLUBugtzOs4=",
+  "documents": [
+    "https://www.epdk.gov.tr/Detay/DownloadDocument?id=PLUBugtzOs4="
+  ],
+  "source_sha256": "61012a7d6d2de960d94d49b69232bf7fdd8e4bf953d1bca24380a5f0425a1553",
+  "official_list": "https://www.epdk.gov.tr/Detay/Icerik/3-0-19/kurul-kararlari",
+  "official_list_leaf": 7236,
+  "text_status": "as-enacted",
+  "text_file": "metin.md",
+  "in_force": "2025-08-21",
+  "law_text_complete": true
+}
