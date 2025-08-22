@@ -1,0 +1,4 @@
+Münhasıran uyum görevlisi olarak çalışanlar
+GEÇİCİ MADDE 5- (Ek:RG-22/8/2025-32994)(7)
+(1) Bu maddenin yürürlüğe girdiği tarih itibarıyla, en az altı ay süreyle 29 uncu maddeye göre uyum görevlisi olarak çalışmakta olanlardan, 17 nci maddenin birinci fıkrasının (ç) bendinde belirtilen şartı taşımayanlar, çalışmalarının Sosyal Güvenlik Kurumu kayıtlarıyla tevsik edilmesi şartıyla, bu maddenin yürürlüğe girdiği tarihten itibaren iki yıl süreyle yetkilendirme sınavına katılabilirler. Söz konusu kişilere, yetkilendirme sınavında başarılı olmaları halinde, Uyum Görevlisi Lisansı verilir. Bu şekilde Uyum Görevlisi Lisansı verilenlerin uyum görevlisi veya uyum görevlisi yardımcısı olarak atanmalarında 17 nci maddenin birinci fıkrasının (ç) bendi aranmaz.
+(2) Birinci fıkra kapsamına giren kişiler 17 nci maddenin birinci fıkrasının (ç) bendi aranmaksızın iki yıl süreyle uyum görevlisi olarak çalışabilirler.

@@ -1,0 +1,3 @@
+Kurum prosedürleri
+MADDE 8 – (1) Kurum politikası kapsamında belirlenen tüm önlem ve işleyiş kurallarından kimlerin sorumlu olduğu, belirli risk limitlerine göre işlemlerin onaylanması, gerçekleştirilmesi, raporlanması ve izlenmesinden kimlerin veya hangi birimlerin sorumlu olacağı gibi hususlar açık şekilde prosedüre bağlanır.
+(2) Prosedürlerin belirlenmesinde, yükümlünün işlemlerinin ve iş akışlarının risklere göre izlenmesi, kontrol edilmesi ve denetlenmesinde görev alacak personelin, aynı zamanda bu işlemleri gerçekleştiren personel olmamasını sağlayacak şekilde görev ve yetkilendirme yapılır.

@@ -1,0 +1,6 @@
+YEDİNCİ BÖLÜM
+İç Denetim
+İç denetim
+MADDE 26 – (1) İç denetimin amacı, uyum programının bütününün etkinliği ve yeterliği hususunda yönetim kuruluna güvence sağlamaktır.
+(2) Yükümlüler, kurum politika ve prosedürlerinin, risk yönetimi, izleme ve kontrol faaliyetleri ile eğitim faaliyetlerinin yeterli ve verimli olup olmadığı, yükümlünün risk politikasının yeterliği ve etkinliği, işlemlerin Kanun ve Kanun uyarınca çıkarılan yönetmelik ve tebliğler ile kurum politika ve prosedürlerine uygun olarak yürütülüp yürütülmediği hususlarının yıllık olarak ve risk temelli bir yaklaşımla incelenmesini ve denetlenmesini sağlarlar.
+(3) (Ek:RG-26/2/2021-31407)(2) Uyum programı kapsamındaki yükümlülerin iç denetim faaliyetleri, iç denetim birimleri ya da teftiş kurulu bulunan yükümlülerde bunlar tarafından yerine getirilir. Finansal grubun iç denetimi ana finansal kuruluşun ilgili birimince gerçekleştirilir. Diğer yükümlülerde iç denetim faaliyetleri, yönetim kurulu tarafından yetkilendirilen kişi ya da birim tarafından yerine getirilir. İç denetim faaliyetlerini yürütmek üzere yetkilendirilecek personelin, bağımsız çalışmasını teminen, uyum programı kapsamındaki diğer tedbirlerin yerine getirilmesinde görev ve yetki almamış olması gerekir.

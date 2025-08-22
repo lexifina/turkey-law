@@ -1,0 +1,3 @@
+Başkanlıkça düzenlenecek eğitim faaliyetleri
+MADDE 25 – (1) Başkanlık, yükümlü çalışanlarının eğitimi amacıyla, eğitim faaliyetleri düzenlemeye, internet üzerinden çalışan bilgisayar destekli uzaktan eğitim programları oluşturmaya ve yükümlü çalışanlarının bu programlara erişimini sağlayacak tedbirleri almaya yetkilidir.
+(2) Başkanlık ayrıca yükümlüler nezdinde eğitim verecek eğiticilerin eğitilmesine yönelik eğitim programları düzenlemeye, bu programları başarı ile tamamlayanlara eğitici sertifikası vermeye yetkilidir. Yükümlüler, eğitim faaliyetlerinde görev alacak personelin, eğitici sertifikası verilen kimselerden olmasına özen gösterirler.

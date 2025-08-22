@@ -1,0 +1,5 @@
+Münhasıran uyum görevlisi olarak atananların görevinden ayrılması
+MADDE 32 – (1) Uyum görevlisinin izin, hastalık ve benzeri nedenlerle geçici olarak görevden ayrılması halinde uyum görevlisine vekalet edecek kişinin, 30 uncu maddede sayılan şartları haiz olması aranır. Vekaleten görevlendirmeye ilişkin karar, yetkililerce talep edildiğinde ibraz edilmek üzere yazılı olarak düzenlenir, kararda vekalet edilen dönem açıkça belirtilir.
+(2) Uyum görevlisine vekalet eden kişi, uyum görevlisinin tüm görev, yetki ve sorumluluklarını haizdir. Uyum görevlisi görevinden ayrıldığı dönem itibarıyla yürütülen işlerden sorumlu olmaz.
+(3) Uyum görevlisine bir takvim yılı içinde altmış günden fazla süre ile vekalet edilemez.
+(4) Uyum görevlisinin Yönetmelikte aranan şartları kaybetmesi veya bu şartları haiz olmadığının sonradan anlaşılması veya görevinden ayrılması halinde, yeni görevlendirme, 29 uncu madde hükümlerine göre yükümlü tarafından en geç otuz gün içinde yapılır. Uyum görevlisi yeniden atanana kadar yukarıdaki fıkralarda öngörülen usuller uygulanır.

@@ -1,0 +1,6 @@
+Kurum politika ve prosedürlerinin oluşturulması
+MADDE 9 – (1) Kurum politika ve prosedürleri; Kanun ve Kanun uyarınca çıkarılan yönetmelik ve tebliğlere uygun olacak şekilde, mümkün olduğunca yükümlü nezdindeki (Ek ibare:RG-26/2/2021-31407)(2) finansal grupta grup nezdindeki, ilgili tüm birimlerin katılımının sağlanmasıyla ve uyum görevlisinin gözetim ve koordinasyonunda, yazılı bir şekilde oluşturulur.
+(2) Kurum politika ve prosedürleri oluşturulurken, Kanun ve Kanun uyarınca çıkarılan yönetmelik ve tebliğlere aykırı olmamak şartıyla diğer ulusal ve uluslararası kuruluşlarca getirilen tavsiye, ilke, standart ve rehberlerden de faydalanılabilir.
+(3) (Değişik:RG-26/2/2021-31407)(2) Yükümlüler faaliyet izninin alınmasını müteakip, uyum görevlisinin atandığı tarihten itibaren en geç otuz gün içinde kurum politikasını oluşturur. Finansal grup ise, uyum görevlisinin atandığı tarihten itibaren en geç otuz gün içinde kurum politikası oluşturur. Kurum politikası aynı süre içinde yönetim kurulu tarafından onaylanır.
+(4) (Ek:RG-26/2/2021-31407)(2) Yükümlüler ve finansal grup, ilgili personelini kurum politikaları hakkında bilgilendirir.
+(5) (Ek:RG-26/2/2021-31407)(2) Kurum politikasının Başkanlık veya denetim elemanlarınca talep edildiğinde ibrazı zorunludur.
