@@ -1,0 +1,2 @@
+Tesis ve altyapı tesis tanımları içinde yer almayan madencilik yapıları
+GEÇİCİ MADDE 4- (1) Bu Yönetmeliğin yürürlüğe girmesinden önce ruhsata dayanılarak madencilik faaliyetleri için kurulmuş, ancak kadastro çalışmaları veya mahkeme kararı ile daha sonra orman sayılan alan olduğu anlaşılan kurulu madencilik yapılarına orman olarak kesinleştiği tarihten itibaren bu Yönetmeliğe göre ruhsat/rödövans süresi sonuna kadar izin verilebilir.

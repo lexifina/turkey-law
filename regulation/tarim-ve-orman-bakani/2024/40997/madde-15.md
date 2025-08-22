@@ -1,0 +1,13 @@
+DÖRDÜNCÜ BÖLÜM
+Bedeller ve Teminat
+Bedellerin tespiti ve tahsili
+MADDE 15- (1) Bu Yönetmeliğe göre verilecek izinlerde alınacak bedeller şunlardır:
+a) Ağaçlandırma bedeli: Genel müdürlükçe, Asgari Ücret Tespit Komisyonu tarafından tespit edilen işçilerin bir günlük normal çalışma karşılığı asgari ücretlerinin 294 gün/hektar katsayısıyla çarpımı sonucu belirlenen ağaçlandırma birim hektar bedelinin izin alanı ile çarpımı sonucu alınacak bedeldir.
+b) Arazi izin bedeli: İzin alanının metrekaresi, cari yıl ağaçlandırma birim metrekare bedeli, Ek-1’de yer alan izin türü katsayısı, Ek-2’de yer alan ekolojik denge katsayısı ve Ek- 3’te yer alan il katsayısının çarpımlarının sonucu alınacak bedeldir.
+c) Ön izin bedeli: İzin alanının metrekaresi ile cari yıl ağaçlandırma birim metrekare bedelinin 30 hektara kadar olan ön izinlerde 1/10’u, 30 hektar dâhil daha büyük olan ön izinlerde ise 1/5’i ile çarpımı sonucu bulunacak bedel olup bir defaya mahsus alınır. Süre uzatımlarında ayrıca bedel alınmaz.
+(2) Ağaçlandırma bedeli izin başlangıcında bir defaya mahsus defaten izin sahibi tarafından ödenir.
+(3) Arazi izin bedeli izin başlangıç tarihi esas alınarak tebligata gerek kalmaksızın her yıl defaten izin sahibi tarafından ödenir. Müteakip yıllara ait arazi izin bedeli BAK oranında artırılmak suretiyle tespit edilerek bildirime gerek kalmaksızın izin başlangıç tarihinde defaten izin sahibi tarafından ödenir. Ancak, Bakanlıkça verilen izin süresinin veya son yıl izin süresinin bir yıldan az olması halinde arazi izin bedeli tespit ve tahsilinde kıstelyevm uygulanır. Kesin izin sahibinin tebligat tarihinden itibaren beş ay içerisinde idareye yazılı talebi halinde, ilk yıl bedeli ile birlikte izin bitim tarihi sonuna kadar tahsil edilmesi gereken toplam arazi izin bedeli izin başlangıç tarihi esas alınarak peşin ödenebilir.
+(4) Bedel hesaplarında Devlet ormanına isabet eden bölümler esas alınır.
+(5) Bu Yönetmelik hükümlerine göre alınacak; tüm bedeller ve teminat Genel Müdürlüğün özel bütçe hesabına yatırılır.
+(6) Madencilik faaliyetleri için verilen izinlerden 11/1/2017 tarihli ve 29945 sayılı Resmî Gazete’de yayımlanan Ağaçlandırma ve Erozyon Kontrolü Hizmetlerine İlişkin Yönetmeliğin 4 üncü maddesinin birinci fıkrasının (c) bendinde belirtilen gelir ile 13/6/2012 tarihli ve 28322 sayılı Resmî Gazete’de yayımlanan Orman Köylülerinin Kalkındırılmalarının Desteklenmesi Faaliyetlerine İlişkin Yönetmeliğin 5 inci maddesinin birinci fıkrasının (b) bendinde belirtilen gelir alınmaz.
+(7) Genel bütçe kapsamındaki kamu idareleri ile kamu kurum ve kuruluşlarına verilen ön izinlerden bedel alınmaz.

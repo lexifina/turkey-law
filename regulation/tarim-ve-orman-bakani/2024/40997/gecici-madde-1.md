@@ -1,0 +1,8 @@
+Mevcut izinlerin devamı
+GEÇİCİ MADDE 1- (1) Bu Yönetmeliğin yürürlüğe girmesinden önce verilen izinlerin süre uzatımında ve devirlerinde, ayrıca devam eden izinlerde izin lehtarının talebi halinde bu Yönetmelik hükümleri uygulanır ve buna uygun yeni taahhüt senedi alınır.
+(2) Bu Yönetmeliğin yürürlüğe girmesinden önce ruhsata dayanılarak izin verilmiş ve bu Yönetmeliğin maden tesis ve altyapı tesis tanımları içerisinde bulunmayan madencilik yapılarına, ruhsat/rödövans süresi sonuna kadar izin verilebilir.
+(3) Bu Yönetmeliğin yürürlüğe girmesinden önce verilmiş izinlerde arazi izin bedellerinin arttırılması için uygulanan “Deflatör” veya “ÜFE” artış oranı yerine, “BAK” artış oranı uygulanır, bildirime gerek kalmaksızın izin başlangıç tarihinde defaten tahsil edilir. Ancak bu fıkradaki artış oranı 1/1/2015 tarihinden itibaren tahakkuk edecek bedellerin artırılması için uygulanır.
+(4) Bu Yönetmeliğin yürürlüğe girmesinden önce verilmiş izinlerden bu Yönetmeliğe göre izin verilemeyecek olanların süreleri yenilenmiş ruhsat/rödövans süresi dikkate alınarak uzatılabilir.
+(5) Bu Yönetmeliğin yürürlüğe girmesinden önce veya sonra ruhsat sahibi adına verilmiş ve devam eden izinler, rödövansçının talebi halinde o ruhsata dayalı olarak rödövans süresince rödövansçı adına devredilebilir.
+(6) Bu Yönetmelik kapsamında izin verilmiş ve devam eden izinlere ait rehabilitasyon projesi ve kademeli kapatma planı ile ilgili işlemler izin süresi bitimine kadar devam eder.
+(7) Bu Yönetmeliğin yürürlüğe girmesinden önce verilen izinlerin süre uzatımı ve maden işletme iznine bitişik ilave izin taleplerinin 29 uncu maddenin beşinci ve yedinci fıkralarında belirtilen alanlarda kalması halinde, bu taleplere Bakanlıkça izin verilebilir.

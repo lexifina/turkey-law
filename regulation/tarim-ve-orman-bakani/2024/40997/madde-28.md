@@ -1,0 +1,10 @@
+İzin sahalarının kontrolü ve sorumluluk
+MADDE 28- (1) İzin sahaları takvim yılı içinde en az bir defa dosya ve arazi üzerinde heyetçe kontrol edilerek tutanak tanzim edilir. İdarenin istifadesine sunulmak üzere; izin sahalarının izin veriliş amacına uygun kullanılıp kullanılmadığı, izin sahalarında sınır değişimi olup olmadığının insansız hava aracı da kullanılarak mevcut haritalara ve planlarına işlenmesine dair işlemler idarece bütçe ödenekleri ile sınırlı olmak kaydıyla serbest yeminli ormancılık bürolarına yaptırılabilir.
+(2) Takvim yılı içinde kontrol edilen izinlerin yüzde ikisi bölge müdürlüğünce ayrıca incelemeye tabi tutulur.
+(3) İzin sahaları ayrıca koruma ekipleri tarafından ilgili mevzuat hükümlerine göre periyodik olarak kontrol edilir.
+(4) İzin sahasında her türlü hak ve yükümlülük izin sahibine aittir. Ancak, bu Yönetmelik gereği izin verilen alanlarda izin sahibi ile üçüncü kişi veya kuruluşlar arasındaki sözleşmeye dayanılarak yapılan faaliyetlerden izin sahibi üçüncü kişi ile birlikte sorumludur.
+(5) İznin dayanağı olan bilgi ve belgelerden doğacak her türlü sorumluluk izin sahibine aittir.
+(6) Ormanlık alanlarda, izin verilen proje dışında maden tesis ve altyapı tesisi yapılamaz. İzinli saha içinde yapılacak ilave maden tesis ve altyapı tesisleri için bu Yönetmelik hükümlerine göre izin alınması mecburidir. İzinsiz yapılan maden tesis ve altyapı tesislerine 6831 sayılı Kanun hükümlerine göre orman idaresince el konulur.
+(7) Verilen izinler amacı dışında kullanılamaz. Verilen izinlerde orman yangınlarına karşı her türlü tedbir izin sahibince alınır.
+(8) İzinsiz yapılan madencilik faaliyetleri ile izin verilen alanlardaki sınırı aşanlar için adli mercilere sunulmak üzere düzenlenen suç tutanağı ve eki ilgili belgeler ayrıca Maden ve Petrol İşleri Genel Müdürlüğüne bölge müdürlüğünce bildirilir.
+(9) Bu Yönetmelik kapsamında verilecek izinlere ait ormancılık büroları veya serbest yeminli ormancılık büroları tarafından yapılan iş ve işlemlerle ilgili 5531 sayılı Kanun ve ilgili mevzuatı kapsamında belirlenen usul ve esaslara aykırı davrandığı tespit edilenler hakkında ilgili meslek odasına bildirim yapılır.
