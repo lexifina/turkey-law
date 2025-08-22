@@ -1,0 +1,2 @@
+Muayenede eksik çıkan eşya
+MADDE 471 – (1) Posta gönderilerinin muayenesinde eksiklik bulunduğu takdirde durum, gümrük muayene ve posta idaresi memurları tarafından birlikte düzenlenecek iki nüsha tutanakla tespit olunur. Bu tutanaklardan bir nüshası posta idaresinde, diğeri gümrükte kalır. Kovuşturma ve soruşturmayı gerektirir bir durum tespit edildiği takdirde, gümrük idaresince gerekli inceleme ve soruşturma yapılır.

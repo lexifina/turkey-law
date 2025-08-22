@@ -1,0 +1,4 @@
+Yararlanılan menfaatlerin iadesi
+MADDE 451 – (1) İhraç edildikten sonra geri gelen eşyanın gümrük vergilerinden muaf olarak serbest dolaşıma girebilmesi için ihracat nedeniyle yararlanılan hak ve menfaat varsa bunların iade edildiğini gösteren belgenin beyannameye eklenmesi gerekir.
+(2) İhracat nedeniyle katma değer vergisi ve özel tüketim vergisi iadesinden veya istisnasından yararlanan eşyanın katma değer vergisi ve özel tüketim vergisi tahsil edilir.
+(3) (Ek:RG-30/12/2021-31705) İhraç edildikten sonra geri gelen eşyaya tekabül eden katma değer vergisi ve özel tüketim vergisi ile ihracata ilişkin diğer hak ve menfaatlere karşılık gerekli teminatın verilmesi halinde, söz konusu hak ve menfaatlerden yararlanılıp yararlanılmadığının tespit edilmesinden önce eşyanın teslimine Bakanlıkça belirlenecek usul ve esaslar çerçevesinde izin verilir.

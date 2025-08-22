@@ -1,0 +1,2 @@
+Eşyaya ilişkin bilginin gizliliği
+MADDE 106 – (1) İşlemleri durdurulan veya alıkonulan eşyaya ilişkin olarak gümrük idaresinden temin edilen 104 üncü maddenin ikinci fıkrasında sayılan bilgiler hak sahibince sadece 105 ila 107 inci maddelerde belirtilen amaçlar için kullanılır. Bilginin bu amaçlar dışında kullanıldığının tespit edilmesi halinde geri kalan başvuru geçerlilik süresi boyunca hak sahibinin başvurusu askıya alınabilir. Bu maddenin tekrar ihlali halinde talebin yenilenmesi reddedilebilir.

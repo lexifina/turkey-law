@@ -1,0 +1,9 @@
+Taşıtlara ilişkin giriş çıkış işlemleri
+MADDE 391 – (1) Türkiye Gümrük Bölgesi dışında yerleşik kişilere ait olup,
+a) TIR Karnesi (Ek ibare:RG-22/3/2018-30368) veya ortak ve ulusal transit rejimleri kapsamında eşya taşıyan taşıtlar hariç Türkiye Gümrük Bölgesine boş olarak gelen, TIR Karnesi (Ek ibare:RG-22/3/2018-30368) veya ortak ve ulusal transit rejimleri kapsamındaki yükünü boşalttıktan sonra boş olarak yurtdışına çıkacak olan veya yük almak üzere başka bir gümrük idaresine sevk edilen taşıtlar ile yolcu taşımacılığında kullanılan ticari kullanıma mahsus kara taşıtlarının,
+b) Turistik kolaylıklardan istifade edilerek getirilen özel kullanıma mahsus kara taşıtlarının,
+giriş ve çıkış işlemleri taşıt takip programlarına kaydedilerek yürütülür. Taşıt takip programlarına kayıt yapılamayan hallerde özel ve ticari kullanıma mahsus kara taşıtları için Taşıt Giriş-Çıkış Formu düzenlenir.
+(2) Yabancı veya Türk uyruklu turistler tarafından triptik veya gümrüklerden geçiş karnesi ibraz edilmediği takdirde, hava ve deniz taşıtları için de mülkiyet belgesine göre muayenesi yapılıp uygunluğu tespit edildikten sonra Taşıt Giriş – Çıkış Formu doldurulur.
+(3) Yabancı veya Türk uyruklu turistlerin Türkiye’ye getirdikleri kara, hava ve deniz taşıtlarının, giriş ayniyetine uygunlukları tespit edildikten ve Taşıt Giriş-Çıkış Formunun çıkış işlemi ile ilgili bölümü doldurulduktan sonra çıkışına izin verilir.
+(4) Türkiye Gümrük Bölgesine getirilen yabancı bayraklı yatlarla ilgili işlemler Turizmi Teşvik Kanunu ve Yat Turizmi Yönetmeliği çerçevesinde Müsteşarlıkça yayımlanacak tebliğ veya genelgelerle yürütülür.
+(5) Triptik karnesi veya gümrüklerden geçiş karnesi ibrazı halinde ayrıca taşıt giriş çıkış formu düzenlenmez. Ticari mahiyetteki kara taşıtları için tanzim edilen taşıt giriş çıkış formuna “Ticari Taşıttır” kaşesi tatbik edilir.

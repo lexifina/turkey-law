@@ -1,0 +1,2 @@
+Eşyanın kanuna aykırı olarak gümrük gözetimi dışına çıkarılmış sayılacağı haller
+MADDE 484 – (1) Kanunun 183 üncü maddesinde belirtilen eşya için yapılan gümrük beyanı veya beyanname yerine geçen başka bir belge sunulması ve yetkili gümrük idarelerinin onaylaması için bir belgenin düzenlenmesi, eşyanın gümrük statüsünün serbest dolaşımda bulunan eşya gibi değerlendirilmesine yol açabilecek yanlış niteliğe sahip ise, bu fiil, Kanunun 183 üncü maddesinin birinci fıkrası uyarınca, eşyanın gümrük gözetiminden çıkarılması hükmündedir.

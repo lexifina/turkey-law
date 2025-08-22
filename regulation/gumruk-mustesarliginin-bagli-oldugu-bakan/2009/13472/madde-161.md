@@ -1,0 +1,2 @@
+Ekonomik etkili gümrük rejimlerinde basitleştirilmiş usuller için aranacak koşullar
+MADDE 161 – (1) (Değişik ibare:RG-31/3/2010-27538) 165 inci madde hükümleri saklı kalmak üzere, gümrük antrepo rejimi beyanını basitleştirilmiş usuller çerçevesinde yapabilmek için Onaylanmış Kişi Statü Belgesi veya (Mülga ibare:RG-10/1/2013-28524) (…) yetkilendirilmiş yükümlü (Değişik ibare:RG-31/3/2010-27538) sertifikası sahibi olmak gerekir.

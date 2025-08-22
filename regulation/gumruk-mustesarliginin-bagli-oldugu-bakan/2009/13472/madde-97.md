@@ -1,0 +1,12 @@
+Geçici depolama yerlerinin bulunmadığı yerler
+MADDE 97 – (1) 79 uncu maddenin üçüncü fıkrası uyarınca geçici depolama yerlerinin bulunmadığı yerlere getirilen eşyanın konulduğu yerlerin geçici depolama yeri olarak kabul edilebilmesi için; eşyanın hacim ve ağırlık itibariyle geçici depolama yeri bulunan bir gümrük idaresine sevkinin masraflı veya külfetli olması ya da eşyanın hacim ve ağırlık itibariyle mevcut geçici depolama yerine konulmasının mümkün olmaması gerekir.
+(2) Eşyanın konulacağı yerin ilgili gümrük idaresince oluşturulacak heyet tarafından görülmesi ve görgü tutanağına bağlanarak başmüdürlüğe (Değişik ibare:RG-31/3/2010-27538) intikal ettirilmesi sağlanır.
+(3) Gümrük idarelerince;
+a) Transite konu eşyaya ilişkin ithalde alınan gümrük vergileri ve fon tutarlarına karşılık olarak teminat alınması,
+b) İthal konusu eşyanın ithalat vergileri ile fon tutarının (Mülga ibare:RG-1/4/2020-31086) (…) teminata bağlanması, gümrük vergileri ile fondan muaf olan eşya için teminat yerine taahhütname alınması,
+c) Geçici depolama yeri olarak kabul edilen yerlerin eşyanın muhafazasına elverişli olması, gümrüğün kayıt, kilit ve denetimi altında bulundurulması ve sürekli izlenmesi,
+ç) Yukarıda belirtilen şartlarla geçici depolama yeri olarak kabul edilen yerlere konulan eşyanın sahiplerinin, her ne sebeple ve suretle olursa olsun eşyanın konulduğu yerde meydana gelen zayiat ve firelerle, çalınma, yanma, kaybolma, bozulma veya değiştirme gibi eşyanın miktarına veya niteliğine tesir eden hallerden ve eşyanın bulunduğu yerlerden gümrüğün bilgisi dışında çıkarılmasından ve kullanılmasından dolayı gümrüğe karşı sorumlu tutulmaları,
+d) Zayiat, fire, çalınma, kaybolma, bozulma veya değiştirme gibi nedenlerle etkilenen eşyanın vergi ve cezalarının, alınan teminattan mahsup veya doğrudan doğruya tahsil edilmek suretiyle kendilerinden alınacağı ve duruma göre idari veya (Değişik ibare:RG-23/5/2011-27942) kaçakçılıkla mücadele mevzuatına göre işlem yapılacağının ilgililere duyurulması ve bu hususlara riayet edileceğine dair taahhütname alınması,
+e) 492 sayılı Harçlar Kanunu uyarınca açma ve işletme harçlarının usulüne uygun olarak tahsil edilmesi (Bir defada getirilmeyen komple tesise ait olan ya da değişik zamanlarda getirilerek bir beyanname ile ithal edilecek eşyanın konulduğu geçici depolama yerlerinden bir defaya mahsus açma ve işletme harcının tahsil edilmesi),
+suretiyle işlem tesis edilir.
+(4) Geçici depolama yeri olarak kabul edilen yerlere konulan eşyanın ithalini müteakip bu yerlerin geçici depolama yeri statüsü sona erer.

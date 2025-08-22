@@ -1,0 +1,9 @@
+Denizyolu ile transite ilişkin özel hükümler
+MADDE 227 – (Başlığı ile Birlikte Değişik:RG-1/8/2017-30141)
+(1) Bir Türk limanından başka bir Türk limanına transit olunacak eşyayı, yalnız Türk bandıralı gemiler nakledebilir.
+(2) Yabancı limanlara yapılacak transit isteklerinin kabulü için, özet beyan veya özet beyan yerine geçen belgelerde eşyanın gideceği yerin Türkiye Gümrük Bölgesi dışında yabancı bir liman olarak gösterilmesi gerekir.
+(3) Serbest dolaşımda bulunan ve bulunmayan eşyayı birlikte taşıyan Türk bandıralı gemilerin sahip, kaptan veya acenteleri, bu iki türlü eşyanın birbirine karışmaması için, gereğine göre, bunları ayrı yer ve bölümlere koymak veya gümrük idaresince uygun görülecek tedbirleri almak zorundadır.
+(4) Serbest dolaşımda bulunmayan eşyanın bir Türk limanına sevkine izin verilebilmesi için, eşyanın gideceği limandaki gümrük idaresinin, o eşyanın gümrük işlemlerini yapmaya yetkili olması gerekir.
+(5) Türk bandıralı geminin, kazan, makine veya teknesinde ortaya çıkan bir arıza sebebiyle yoluna devam edememesi halinde, kurtarma amacıyla, yükü, yabancı bir gemiye aktarılabilir.
+(6) Yabancı bir limana götürmek üzere Türk limanlarından eşya alan yabancı bayraklı gemilerin, kazaya uğraması, makinelerinin bozulması, haciz altına alınması, sefer değiştirmesi için emir alması gibi yoluna devamına mani sebeplerden ötürü, yükünü bir Türk limanında başka bir gemiye nakletmesine izin verilir. Yabancı bir limana sevk edilmek üzere, bir Türk limanından diğer bir Türk limanında bulunan başka gemilere taşınacak söz konusu eşya, nakliyatının deniz üstünde olmak şartıyla, yabancı bandıralı gemilerle yapılmasına da izin verilir.
+(7) Bir Türk limanına denizyolu ile gelen serbest dolaşımda olmayan eşyanın gemiden indirilmeksizin aynı gemi ile bir başka Türk limanına taşınması durumunda transit beyannamesi düzenlenmez.

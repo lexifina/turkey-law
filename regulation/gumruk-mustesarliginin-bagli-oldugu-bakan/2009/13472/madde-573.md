@@ -1,0 +1,6 @@
+Gümrük müşavirlerine ve müşavir yardımcılarına verilecek belgeler ve tutulacak sicil kayıtları
+MADDE 573 – (1) Sınavda başarı gösteren gümrük müşavirleri ve gümrük müşavir yardımcıları Müsteşarlıkça talep edilen belgelerle birlikte ilgili Gümrük Müşavirleri Derneğine başvurur. Bu belgelerin Dernek tarafından Müsteşarlığa teslimini müteakip Müsteşarlık tarafından fotoğraflı İzin Belgesi düzenlenir. Bu kişiler ancak izin belgelerini aldıktan sonra mesleki faaliyette bulunabilir.
+(2) Fotoğraflı izin belgeleri, ilgililerce gümrük idarelerinde bulundukları süre içerisinde görülebilecek şekilde üzerlerinde bulundurulur.
+(3) Müşavirlerin çalışma yeri olan başmüdürlük ve müdürlükçe gümrük müşavirleri ve gümrük müşavir yardımcıları için fotoğraflı bir sicil kütüğü tutulur.
+(4) Gümrük müşavirlerine verilecek izin belgeleri 492 sayılı Harçlar Kanunu uyarınca ruhsat harcına tabidir.
+(5) Sınavsız gümrük müşaviri ve gümrük müşavir yardımcısı olabileceklerden Gümrük Müşavirliği İzin Belgesi veya Gümrük Müşavir Yardımcılığı İzin Belgesi almak isteyenlerin İzin Belgesi müracaatları, faaliyette bulunmak istedikleri bölgedeki Gümrük Müşavirleri Derneği vasıtasıyla yapılır ve adına düzenlenen İzin Belgesi aynı dernek aracılığıyla kişiye teslim edilir.

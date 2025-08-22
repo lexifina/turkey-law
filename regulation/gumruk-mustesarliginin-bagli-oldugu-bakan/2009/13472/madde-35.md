@@ -1,0 +1,2 @@
+Diğer ürünlerde menşein belirlenmesi
+MADDE 35 – (1) Türk Gümrük Tarife Cetvelinin XI inci bölümünde yer alan tekstil ürünleri haricindeki ürünlerin birden fazla ülkede menşeli olmayan girdiler kullanılmak suretiyle gördüğü işçilik ve işlem sonucunda elde edilen ve ek-6’da yer alan listedeki ürünlerin o ülke menşeli sayılabilmesi için listenin üçüncü sütununda belirtilen işlem ve işçiliği görmesi gerekir. Listede yer almayan ürünler için yorum kurallarının 5 no.lu notunda belirtildiği şekilde işlem yapılır.

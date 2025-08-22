@@ -1,0 +1,4 @@
+Tespit edilen farklılıklara uygulanacak işlemler
+MADDE 192 – (1) Miktar noksanlıklarında, noksanlığın eşyanın telef veya kaybından veya noksan gönderildiğinin sabit olmasından veya çalınmasından ileri geldiğinin anlaşıldığı hallerde, bu noksanlığı karşılayan kıymet, beyan edilen esas kıymetten düşülerek kalan kıymet vergi matrahına esas tutulur.
+(2) Muayene sonucunda bulunan eksiklik veya fazlalığın eşyanın tabiatı icabı ek-11’de bulunan oranlarda olduğunun anlaşılması halinde, işlemler gümrük idaresince tespit edilen miktar üzerinden yapılır ve ceza uygulanmaz.
+(3) Muayene sonucunda tespit edilen gümrük tarife istatistik pozisyonu, miktar, kıymet, menşe ve/veya kullanım yeri farklılığı nedeniyle yapılacak tahakkuklarda ve idare tarafından alınacak kararlarda, yürürlükteki kaçakçılıkla mücadele mevzuatı, dış ticaret mevzuatı ve diğer mevzuat ile ticaret politikası önlemlerine ilişkin hükümler de göz önünde bulundurulur.

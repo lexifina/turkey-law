@@ -1,0 +1,6 @@
+Antrepolarda aranacak şart ve nitelikler
+MADDE 534 – (1) (Değişik:RG-1/8/2017-30141) Genel ve özel antrepo olarak kullanılacak kapalı ve/veya açık alanlarda Ek-80’in “II. ANTREPOLARDA ARANACAK ŞART VE NİTELİKLER” bölümünde belirtilen koşullar aranır.
+(2) (Mülga:RG-1/8/2017-30141)
+(3) (Ek:RG-20/11/2012-28473) Bakanlıkça verilen izin kapsamında karayolu veya demiryoluyla yapılan akaryakıt transiti ile hava taşıtlarına yakıt vermek üzere havalimanlarında açılacak antrepolar hariç olmak üzere serbest dolaşımda olmayan akaryakıtın tanklara alınması tamamen deniz yoluyla veya boru hattıyla yapılır. Deniz yoluyla gelen akaryakıtın (Değişik ibare:RG-1/8/2017-30141) iskele, platform veya şamandıradan borularla tanklara iletilmesi gerekir.
+(4) (Ek:RG-2/12/2014-29193) (Mülga:RG-1/8/2017-30141)
+(5) (Ek:RG-2/12/2014-29193) (Değişik ibare:RG-1/8/2017-30141) Ek-80’de yer alan ve asgari özellikleri belirtilen sayaç ve kameralara ilişkin teknolojik gelişmeler ile öngörülmeyen durumları inceleyerek sonuçlandırmaya Bakanlık (Tasfiye Hizmetleri Genel Müdürlüğü) yetkilidir. (Ek cümle:RG-13/2/2016-29623) Bakanlıkça (Tasfiye Hizmetleri Genel Müdürlüğü) antrepo ile antrepoya alınan eşyanın özellikleri dikkate alınarak sadece antrepo sahası giriş ve çıkışına kamera sistemi kurulması istenebilir.

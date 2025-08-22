@@ -1,0 +1,2 @@
+Basitleştirilmiş usullere ilişkin düzenleme yetkisi
+MADDE 141 – (1) Müsteşarlık, bu Yönetmelikte yer alan basitleştirilmiş usullerden yararlanacak eşya çeşitleri, söz konusu basitleştirilmiş usullerin kapsamı ve bu usullere ilişkin gümrük işlemlerini belirlemeye, basitleştirilmiş usul türlerine göre farklı kriterler koymaya ve söz konusu basitleştirilmiş usullerden yararlanma hakkının geri alınması ya da askıya alınmasına yönelik düzenleme yapmaya yetkilidir.

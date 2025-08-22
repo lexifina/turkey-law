@@ -1,0 +1,5 @@
+Fikri ve sınai hakları ihlal ettiği kesinleşen eşyaya ilişkin işlemler
+MADDE 111 – (1) Yetkili mahkemenin söz konusu eşyanın sahte veya korsan olduğuna karar verdiği hallerde, aşağıda belirtilen şekilde işlem yapılır.
+a) Eşyanın imhasına karar verildiği takdirde, masraflar eşya sahibine ait olmak üzere eşya tasfiye hükümlerine göre imha edilir.
+b) Eşyanın niteliklerinin değiştirilmesinden sonra eşya sahibine teslimine karar verilmesi halinde, eşyanın nitelikleri hiçbir şekilde ilk haline gelemeyecek şekilde değiştirilir. Marka ve etiketlerinin sökülmesi eşyanın niteliklerinin değişmesi için yeterli kabul edilmez. Bu işlemlere ilişkin masraflar eşya sahibi tarafından karşılanır. Eşyaya ilişkin, niteliklerinin değiştirilmesinden önce bir gümrük beyannamesi verilmiş olması halinde, söz konusu beyanname iptal edilir. Eşyanın nitelikleri değiştirilmeksizin yeniden ihraç edilmesi şeklindeki talepler reddedilir.
+c) Sahte veya korsan eşyanın müsaderesine karar verilmesi halinde, eşyanın tasfiye hükümlerine tabi tutulmasından önce (b) bendinde belirtildiği şekilde nitelikleri değiştirilir.

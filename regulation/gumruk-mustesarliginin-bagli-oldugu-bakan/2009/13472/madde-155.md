@@ -1,0 +1,3 @@
+İhracat rejiminde eksik beyanın tamamlanması
+MADDE 155 – (1) Gümrük idareleri tarafından eksik beyan kabul edildiğinde eksik olan bilgi veya belgelerin tamamlanması için beyan sahibine tanınan süre, beyannamenin tescil tarihinden itibaren bir ayı geçemez. Gerekli görülen durumlarda bu süre uzatılabilir. Bu şekilde verilecek ek süre üç ayı geçemez.
+(2) Eksik beyan usulüne göre tescil edilen bir beyannamede, eksik bulunan bilgi veya belgenin tamamlanması için gümrük idaresi tarafından verilen süre içinde bu eksikliklerin tamamlanmaması halinde, söz konusu beyanname kapsamı eşyanın ödenmesi gereken vergileri ertelenmez.

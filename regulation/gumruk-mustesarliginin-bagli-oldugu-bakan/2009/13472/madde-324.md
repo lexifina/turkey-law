@@ -1,0 +1,6 @@
+Rejimin kapatılması
+MADDE 324 – (1) İthal veya geçici ihraç eşyasının bir izin belgesi kapsamında iki veya daha fazla beyannameye konu olmaları durumunda, haksız vergi avantajına yol açılmayacak şekilde;
+a) Şartlı muafiyet sisteminde, eşyanın veya ürünlerin gümrükçe onaylanmış yeni bir işlem veya kullanım için tahsisi, ilk önce yapılan beyan kapsamındaki ithal eşyası için rejimin kapatılmasına sayılır.
+b) Hariçte işleme rejiminde veya geri ödeme sisteminin kullanıldığı dahilde işleme rejiminde işlem görmüş ürünler, ilk önce yapılan beyan kapsamındaki geçici ihraç veya ithal eşyasından elde edilmiş sayılır.
+(2) İzin hak sahibi rejimin kapatılmasını, belirlenebilir haldeki değişmemiş eşya veya işlem görmüş ürünlerin elde edildiği ithal veya geçici ihraç eşyası için de talep edebilir.
+(3) Rejim kapsamı eşyanın diğer eşya ile bir arada bulunması ve bunların tahrip olması veya telafisi mümkün olmayacak şekilde kaybı durumunda gümrük idareleri, izin hak sahibi tarafından, tahrip olan veya yok olan rejim kapsamındaki eşyanın miktarına ilişkin olarak sunulacak delilleri kabul edebilirler. İzin hak sahibinin bu tür bir delili sağlama imkanı yoksa, tahrip veya yok olan eşya miktarı, tahrip veya yok olma olayının gerçekleştiği zamanda rejim kapsamında bulunan bu tür eşyanın oranına göre belirlenir.

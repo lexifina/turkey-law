@@ -1,0 +1,6 @@
+ÜÇÜNCÜ KISIM
+Eşyanın Türkiye Gümrük Bölgesine Girmesi ve Gümrüğe Sunulması
+Eşya Türkiye Gümrük Bölgesine getirilmesi ve gümrüğe sunulmasına ilişkin özel düzenlemeler
+MADDE 73 – (1) Özel kanunlar veya taraf olduğumuz anlaşmalar ve sözleşmelerle veya idari düzenlemelerle Türkiye Gümrük Bölgesine girişi yasak edilmiş ve edilecek olan eşya, (Değişik ibare:RG-7/2/2013-28552) 271 inci madde saklı kalmak kaydıyla, her ne suretle olursa olsun Türkiye’ye sokulamaz.
+(2) Kanun ve uluslararası anlaşmalar ile kararname, tüzük, yönetmelik veya diğer idari düzenlemelerde Türkiye Gümrük Bölgesine belirli gümrük kapılarından getirilmesi öngörülen eşya, yalnızca bu gümrük kapılarından yurda sokulabilir.
+(3) Eşya, Kanunun 39 uncu maddesi çerçevesinde gümrüğe sunulur. Eşyanın gümrüğe sunulmasında esas alınacak tarih, taşıt aracının gümrük işlemlerinin yürütüldüğü alanlara girişine ilişkin gümrük veya gümrük muhafaza yetkililerince tutulan ilk kayıt tarihidir. 61 inci madde ile (Değişik ibare:RG-2/11/2011-28103) 67 nci maddenin dördüncü fıkrası saklı kalmak kaydıyla, eşya, gümrüğe sunan kişi tarafından daha önce ibraz olunan özet beyan ya da gümrük beyannamesi ile ilişkilendirilir ve eşyanın sunulduğu tarih söz konusu belgelere kaydedilir.

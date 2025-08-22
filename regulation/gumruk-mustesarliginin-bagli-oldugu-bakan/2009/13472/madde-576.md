@@ -1,0 +1,21 @@
+MADDE 576 –(Mülga :RG-30/6/2015-29402)(16) (Yeniden düzenleme:RG-7/10/2016-29850) (27)
+(1) Yetkilendirilmiş gümrük müşavirlerinin aşağıda belirtilen niteliklere sahip olmaları gerekir:
+a) Kanunun 228 inci maddesinin ikinci fıkrasının (a) ve (b) bentleri ile geçici 5 inci maddesinin üçüncü fıkrası uyarınca gümrük müşavirliği izin belgesine sahip olmak ya da Kanunun 228 inci maddesinin birinci fıkrası ile geçici 5 inci maddesinin birinci ve ikinci fıkrası uyarınca hak sahibi olup, en az yedi yıl süre ile gümrük müşavirliği izin belgesine sahip olmak,
+b) (Değişik:RG-11/8/2020-31210) Son yedi yıl içinde Kanunun geçici 6 ncı maddesi uyarınca (Ek ibare:RG-15/1/2025-32783) kesinleşmiş geçici olarak mesleki faaliyetten alıkoyma cezası almamış olmak,
+c) Dolaylı temsil suretiyle gümrük idarelerinde iş takip etmemek ve bu amaçla kurulmuş tüzel kişilere ortak olmamak,
+ç) Tespit işlemlerinin yapılacağı kişiler ve antrepo işleticileri ile ortaklık ve çalışan statüde ilişkisi bulunmamak,
+d) Kanunun geçici 6 ncı maddesi uyarınca birden fazla geçici olarak mesleki faaliyetten alıkoyma cezası almamış olmak,
+e) (Değişik:RG-11/8/2020-31210) Ertelenmiş, hükmün açıklanması geriye bırakılmış, para cezasına veya tedbire çevrilmiş ya da affa uğramış olsalar bile kaçakçılık, zimmet, ihtilas, irtikâp, rüşvet, hırsızlık, dolandırıcılık, sahtecilik, inancı kötüye kullanma, dolanlı iflas, yalan yere şahadet, suç tasnii, iftira gibi yüz kızartıcı suçlar ile resmi ihale ve alım satımlara fesat karıştırma, devlet sırlarını açığa vurma, suçtan kaynaklanan malvarlığı değerlerini aklama, vergi kaçakçılığı veya vergi kaçakçılığına teşebbüs suçları, uyuşturucu veya uyarıcı madde imal ve ticareti, 12/4/1991 tarihli ve 3713 sayılı Terörle Mücadele Kanunu kapsamı suçlar ile örgütlü suçlardan ceza almamış olmak,
+f) 4458 sayılı Kanunun geçici 6 ncı maddesi uyarınca son üç yıl içerisinde üçten fazla uyarma veya kınama cezası almamış olmak,
+g) (Değişik:RG-12/1/2017-29946) En az dört yıllık lisans eğitimi veren hukuk, iktisat, siyasal bilgiler, işletme, iktisadi ve idari bilimler fakülteleriyle bunlara denkliği yetkili makamlarca kabul olunan yurt içi ya da yurt dışındaki öğrenim kurumlarından birinden mezun olmak veya diğer öğretim kurumlarından lisans seviyesinde mezun olmakla beraber bu fıkrada belirtilen dallardan lisansüstü diploma almış olmak,
+ğ) (Değişik ibare:RG-15/1/2025-32783) Yetmiş beş yaşını doldurmamış olmak.
+h) (Ek:RG-11/8/2020-31210) (Mülga:RG-15/1/2025-32783)
+(2) (Değişik:RG-11/8/2020-31210) Birinci fıkrada sayılan niteliklere sahip olan gümrük müşaviri gerekli evraklarla Bakanlığa müracaat eder. Bakanlıkça yapılan değerlendirme sonucunda bu kişiler yetkilendirilebilir. (Mülga cümle:RG-9/1/2024-32424) Yetki belgesinin süresine ilişkin hususlar şunlardır:
+a) Yetki belgesinin süresi iki yıldır ve bu süre birinci fıkranın (ğ) bendinde yer alan nitelik dikkate alınarak daha kısa belirlenir.
+b) İki belge dönemi boyunca herhangi bir disiplin cezası almamış olanlar için (a) bendinde belirtilen süre ilk defasında üç yıl olarak uygulanır. Üç yıllık dönemde de herhangi bir disiplin cezası almamış olanlar için düzenlenecek belgenin süresi bir yıl artırılır. Bu bende göre artırılacak süre dört yılı geçemez.
+(3) (Değişik:RG-11/8/2020-31210) Yetkilendirilmiş gümrük müşavirliği yetkisinin verilmesi ve yetki belgesinin düzenlenmesine ilişkin olarak aşağıda yer alan işlemler yapılır:
+a) Adına yetkilendirilmiş gümrük müşavirliği yetki belgesi düzenlenen kişinin gümrük müşavirliği dolayısıyla kullandığı kodlar pasif hale getirilir.
+b) Yetki belgesi sahibi için yetkilendirilmiş gümrük müşavirliği profili oluşturulur.
+c) Düzenlenen yetki belgesi, gümrük müşavirinin kayıtlı bulunduğu Bölge Müdürlüğüne ve başvuru sahibine elektronik ortamda gönderilir.
+ç) Yetkilendirilmiş gümrük müşaviri erişim kodunun kullanımından sorumludur. Erişim kodunu başkasına kullandırdığı anlaşılan yetkilendirilmiş gümrük müşavirlerinin yetki belgesi süresiz olarak geri alınır.
+d) Yetkilendirilmiş gümrük müşavirinin adı-soyadı, tüzel kişi ticaret unvanı, faaliyet adresi, telefon ve e-posta adresi bilgileri Bakanlık internet sayfasında yayımlanır. Bu bilgilerde herhangi bir değişiklik olması durumunda, yedi gün içerisinde bilgilerin sistem aracılığıyla güncellenmesi için Bakanlığa bildirimde bulunulur.

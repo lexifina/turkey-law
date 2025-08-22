@@ -1,0 +1,3 @@
+Transit refakat belgesi ve kalem listesi
+MADDE 214 – (Başlığı ile Birlikte Değişik:RG-1/8/2017-30141)
+(1) Ortak ve ulusal transit rejimlerinde eşyanın hareket gümrük idaresince serbest bırakıldığı andan itibaren eşyaya ve taşımaya eşlik etmek üzere, transit refakat belgesi kullanılır. Transit refakat belgesine, Ek-50’deki örneğe uygun şekilde ve Ek-51’deki açıklamalar çerçevesinde düzenlenen kalem listesi eklenir ve kalem listesi transit refakat belgesinin ayrılmaz bir parçasını oluşturur. Bir transit refakat belgesi kapsamı eşyanın birden fazla alıcısı ya da göndericisi bulunması durumunda, alıcı ya da göndericilere ilişkin bilgiler kalem listesine kaydedilir.

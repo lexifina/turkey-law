@@ -1,0 +1,4 @@
+Kuryesiz gelen kaplar
+MADDE 137 – (1) Olağanüstü ve zorunlu haller dolayısıyla kuryeler yerine vapur kaptanları, uçak pilotları ve diğer taşıt hizmetlileri gibi kimseler eliyle Türkiye’ye gönderilen resmi ve gizli evrakı havi kurye kapları, getirenler tarafından gümrüklere teslim olunur.
+(2) Gümrük idareleri, bu kaplardan Dışişleri veya Milli Savunma Bakanlıklarına ait olanlarını, bu bakanlıkların yazısı, Türkiye’deki yabancı devlet elçiliklerine veya diğer misyon ve delegasyonlara ait olanları da, bunların mektup ve yazıları üzerine, muayene etmeksizin dıştan inceleme ile yetinir ve ilgililerine teslim eder.
+(3) Vapur kaptanları, uçak pilotları ve diğer taşıt hizmetlilerine tanınan geçici kuryelik vasfı, sadece bunların taşıdıkları kurye kaplarına şamil olup, kendilerine başka herhangi bir hak doğurmaz.

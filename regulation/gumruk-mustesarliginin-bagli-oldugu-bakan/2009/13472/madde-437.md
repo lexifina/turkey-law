@@ -1,0 +1,11 @@
+Çıkış bildirimi
+MADDE 437 – (Değişik:RG-12/1/2017-29946)(20)
+(1) Türkiye Gümrük Bölgesini terk ederken kullanılan taşıtın işleticisi veya temsilcisi, çıkış gümrük idaresine Türkiye Gümrük Bölgesini terk ettiği ana kadar taşıtın çıkışını bildirir. Çıkış bildirimi, taşıtta taşınan tüm eşyayı kapsayacak şekilde veri işleme tekniği yoluyla verilir.
+(2) Denizyolu taşımacılığında çıkış bildirimi eşyanın taşıta yüklenmesinden önce verilir. Çıkış bildiriminde beyan edilen eşyanın miktar bilgisi ile çıkış bildirimine konu olan beyannamede yer alan eşyanın miktar bilgisi elektronik ortamda karşılaştırılır. Farkın mevzuatta belirlenen sınırlar içerisinde olmaması halinde, eşyanın deniz taşıtına yüklenmesine izin verilmez.
+(3) Kara sınır kapılarından transit kapsamında Türkiye Gümrük Bölgesini terk edecek taşıt için birinci fıkra hükmü uygulanmaz.
+(4) Çıkış bildiriminde, gümrük beyannamesi, beyanname yerine geçen belge veya özet beyanın tespiti için gerekli bilgiler ile taşımaya ilişkin bilgiler yer alır.
+(5) Çıkış bildirimi ile birlikte manifesto bilgileri bilgisayar veri işleme tekniği yoluyla gümrük idaresine gönderilir. Orijinal manifesto ve konşimentolar gümrük kontrolleri kapsamında gerekli görüldüğünde gümrük idaresine ibraz edilmek üzere Kanunun 13 üncü maddesinde belirtilen belge saklama süresince muhafaza edilir. Çıkış bildirimi ile çıkış bildirimine konu olan beyanname ve manifesto bilgileri üzerinden Bakanlıkça belirlenecek usul ve esaslar çerçevesinde deniz taşıtının çıkışından sonra yirmi dört saat içerisinde gerekli işlem ve kontroller yapılır.
+(6) Bilgisayar sistemlerinde ortaya çıkabilecek yerel veya merkezi arıza hallerinde, çıkış bildiriminin verilmesine ilişkin usul ve esaslar Bakanlıkça belirlenir.
+(7) Çıkış bildirimini veren kişi çıkış bildiriminde yer alan bilgilerin doğruluğundan sorumludur.
+(8) (Ek:RG-13/2/2021-31394) Kanunun 225 inci maddesinin birinci fıkrası hükmü uyarınca posta idaresi tarafından dolaylı temsilci sıfatıyla elektronik beyanı yapılan posta gönderilerinin çıkış bildirimi, taşıyıcıdan bilgi alınmak suretiyle posta idaresince verilebilir. Bu durumda, eşyanın çıkışına ilişkin bilgiler gümrük idaresince kontrol edildikten sonra çıkış bildirimi onaylanır.
+ALTINCI KİTAP

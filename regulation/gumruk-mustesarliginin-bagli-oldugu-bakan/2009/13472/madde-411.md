@@ -1,0 +1,2 @@
+Tamir amaçlı hariçte işlemede vergilendirme
+MADDE 411 – (1) Eşyanın tamir amacıyla geçici ihraç edildiği ve tamiratın bedel karşılığında yapıldığı hallerde, eşyanın gümrük kıymeti olarak tamir masraflarına eşit bir tutar esas alınmakla birlikte, eşyanın Türkiye Gümrük Bölgesine gelişinde ödenen navlun, sigorta ve Türkiye Gümrük Bölgesi dışında tamir sırasında ödenen diğer masraflar da dikkate alınır.

@@ -1,0 +1,2 @@
+İşlem görmüş ürünün, işlenmiş ürünün veya değişmemiş eşyanın envanter kayıtlarına girişi
+MADDE 430 – (1) Dahilde işleme rejimi veya gümrük kontrolü altında işleme rejimi, serbest bölgede bulunan işlem görmüş ürünün, işlenmiş ürünün veya değişmemiş eşyanın, envanter kayıtlarına girişi halinde sona erer. Gerek görülmesi halinde, söz konusu kayıtlara girişe ilişkin hususlar, dahilde işleme rejimi ve gümrük kontrolü altında işleme rejimi kayıtlarında da belirtilir.

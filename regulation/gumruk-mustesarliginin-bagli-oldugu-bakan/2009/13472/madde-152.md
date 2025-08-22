@@ -1,0 +1,2 @@
+İhracat rejiminde basitleştirilmiş usuller için aranan koşullar
+MADDE 152 – (1) (Ek ibare:RG-25/5/2022-31846)(41) 153 üncü maddenin üçüncü fıkrası ve 156 ncı madde hükümleri saklı kalmak üzere, ihracat rejimi beyanını basitleştirilmiş usuller çerçevesinde yapabilmek için Onaylanmış Kişi Statü Belgesine veya (Mülga ibare:RG-10/1/2013-28524) (…) yetkilendirilmiş yükümlü sertifikasına sahip olmak gerekir.

@@ -1,0 +1,6 @@
+Kıymet ölçme yöntemi
+MADDE 362 – (1) 361 inci maddenin uygulanmadığı diğer bütün durumlarda, kıymet ölçme yöntemi uygulanır. Ancak gümrük idareleri izin sahibinin rızası ile ve basitleştirme amacıyla her iki yöntemin de benzer sonuçlar vereceği durumlarda kıymet ölçme yöntemi yerine 361 inci maddenin ikinci fıkrasında belirtilen miktar ölçme yöntemini kullanabilir.
+(2) İşlem görmüş her ürünün imalatında kullanılan ithal eşya miktarı; işlem görmüş her ürün değerinin, üçüncü fıkraya göre hesaplanan işlem görmüş ürünlerin toplam değerine oranlanması sonucu bulunacak katsayının, ithal eşyasının toplam miktarıyla çarpılması ile hesaplanır.
+(3) Kıymet ölçme yöntemini uygulamak için kullanılacak her farklı işlem görmüş ürünün değeri; alıcı ve satıcı arasındaki ilişkiden etkilenmemiş olması şartı ile aynı veya benzer ürünlerin Türkiye'de son satış fiyatı veya bu bilinmiyorsa, aynı şartla Türkiye'deki son fabrika çıkış fiyatı, esas alınarak tespit olunur.
+(4) Ürünün değerinin bu şekilde hesaplanamaması halinde, bu hesaplama ilgili gümrük idaresi tarafından uygun bir yöntem kullanılarak yapılır.
+(5) Gümrük yükümlülüğü doğan işlem görmüş ürünlerin miktarına tekabül eden ithal eşyasının miktarı, 361 inci maddenin birinci fıkrasında belirtilen yöntemle bulunan katsayının, ikinci fıkraya göre hesaplanan ithal eşyanın miktarıyla çarpılması ile hesaplanır. (Ek – 64)

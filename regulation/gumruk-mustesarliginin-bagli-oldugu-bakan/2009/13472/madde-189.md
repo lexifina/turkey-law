@@ -1,0 +1,2 @@
+Muayene giderleri
+MADDE 189 – (1) Gümrük idaresince muayenesine lüzum görülen eşyanın muayene yerlerine taşınması, buralardan tekrar kaldırılması, kapların açılıp kapatılması, eşyanın kaplardan çıkarılıp tekrar yerleştirilmesi, tartılması, numune alınması, numune kaplarının sağlanması, orijinal kapların laboratuvarlara ve diğer kontrol mercilerine gönderilmesi ve getirilmesi gibi muayenenin gerektirdiği tüm elleçleme ile numunelerin ambalajlanmasına ve gönderilmesine ilişkin giderler beyan sahipleri tarafından karşılanır.

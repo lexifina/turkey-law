@@ -1,0 +1,7 @@
+İzinle antrepoya konulabilecek eşya
+MADDE 331 – (1) Aşağıda yazılı eşya (Değişik ibare:RG-15/5/2013-28648) gümrük ve ticaret bölge müdürlüklerinin izni ile gümrük antrepolarına konulabilir:
+a) Türkiye'ye girmesi veya Türkiye'den transit geçirilmesi yasak olan yabancı ülke eşyası,
+b) Gerek üzerlerinde, gerek iç veya dış ambalajlarında üretildiği ülkeden başka bir ülke ürünü olduğu izlenimini veren isim ve simgeler taşıyan eşya,
+c) İhracatta kullanılacak olanlar hariç, yerli mamul ve mahsullerimizde kullanılmak üzere ve bunların yabancı menşeli olduğunu gösterecek veya bu izlenimi uyandıracak, üzerleri yabancı dille basılı veya yazılı her türlü boş zarf, şerit, etiket, damga ve benzeri eşya ile Türkiye'de düzenlenebilecek belgeleri yabancı ülkelerde düzenlenmiş gibi gösterebilecek yabancı firmalara ait üzerleri imzalı veya imzasız olsun proforma faturalar hariç boş faturalar,
+ç) Fikri ve sınai mülkiyet haklarının korunması mevzuatına göre marka, coğrafi işaret, endüstriyel tasarım hakları ile fikir ve sanat eserleri kanunu kapsamına giren haklarla ilgili olarak hak sahibinin yetkilerine tecavüz eder mahiyetteki eşya,
+d) Geçici depolama yerlerinde veya gümrük idaresince izin verilen yerlerde kanuni süresini doldurduğu için tasfiyesi gereken veya sahipleri tarafından geçici depolama yerlerinde gümrüğe terk edilen veya geçici depolama yerlerinde yapılan yoklamalar sonunda fazla çıkan eşya.

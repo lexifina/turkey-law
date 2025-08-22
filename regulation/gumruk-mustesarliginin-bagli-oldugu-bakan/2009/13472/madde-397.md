@@ -1,0 +1,5 @@
+İzin süresi
+MADDE 397 – (1) İşlem görmüş ürünlerin Türkiye Gümrük Bölgesine yeniden ithal edilmesi için gereken süre, işleme faaliyetlerinin gerektirdiği süre ile nakliye süresi dikkate alınarak Kanunun 80 inci maddesi uyarınca belirlenir ve verilen izinde bu süre belirtilir. İzin hak sahibinin talep etmesi ve talebin uygun bulunması halinde süre uzatılabilir.
+(2) Önceden ithalatın olmadığı standart değişim sisteminin uygulandığı durumda, ikame ürünlerin Türkiye Gümrük Bölgesine ithali için gereken süre, geçici ihraç eşyasının değiştirilmesi ve ikame ürünlerin nakliyesi için gereken süre dikkate alınarak belirlenir. Süre başlangıcı hariçte işleme rejimine ilişkin beyannamenin tescil tarihidir.
+(3) İşlem görmüş ürünler ile ikinci fıkrada bahsedilen geçici ihracat eşyasının süresi içerisinde serbest dolaşıma sokulması, antrepoya konulması veya dahilde işleme ya da transit rejimine tabi tutulması gerekir. Bu rejimlere ilişkin beyannamenin tescili eşyanın geri getirme süresini sona erdirir.
+(4) Bu süre, kabul edilebilir bir gerekçe olması ve durumun belgelenmesi halinde uzatılabilir.

@@ -1,0 +1,2 @@
+Eşyanın bir kısmının gümrükçe izin verilen işleme veya kullanıma sokulması hali
+MADDE 510 – (1) Geri verme veya kaldırma talebine konu eşyanın bir kısmının ihraç veya yeniden ihraç edilmesi veya gümrükçe izin verilen başka bir işlem veya kullanıma konu edilmesi halinde; geri verilmesi veya kaldırılması gereken tutar, eşyanın tamamına uygulanan ithalat vergileri tutarı ile eşyanın geri kalan kısmına uygulanması gereken ithalat vergileri tutarı arasındaki fark kadardır.

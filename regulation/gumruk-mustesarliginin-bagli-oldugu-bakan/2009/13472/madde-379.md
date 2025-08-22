@@ -1,0 +1,4 @@
+Eşyanın rejim altında kalma süresi
+MADDE 379 – (1) Eşyanın rejim altında kalma süresi, Kanunun 131 inci maddesi uyarınca Bakanlar Kurulu Kararında özel olarak belirlenen süreler ile 380 inci madde hükmü saklı kalmak ve 24 ayı aşmamak koşuluyla gümrük idaresince belirlenir.
+(2) Geçici ithalat rejiminin, başka bir şartlı muafiyet rejimine tabi tutulmak üzere kapatılması ve bu eşya için aynı izin hak sahibi tarafından aynı amaçla tekrar geçici ithalat izni talep edilmesi halinde, geçici ithalat rejimi için daha önce verilen süre de dahil olmak üzere, rejim altında kalma süresinin birinci fıkrada belirtilen 24 ayı aşmaması gerekir. Bununla birlikte izin hak sahibinin talebi üzerine bu süre, eşyanın rejim altında kullanılmadığı süre kadar uzatılabilir.
+(3) Sürenin hesaplanmasında Kanunun 69 uncu maddesi uyarınca eşyanın yükümlüsüne teslim edildiği tarih esas alınır.

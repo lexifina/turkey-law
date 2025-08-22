@@ -1,0 +1,8 @@
+Basitleştirilmiş usulde beyanda bulunmak için aranan koşullar
+MADDE 140 – (Değişik:RG-10/1/2013-28524)
+(1) Kanunun 71 inci maddesinin birinci fıkrasının (a) bendinde belirtilen eksik beyan usulünden yetkilendirilmiş yükümlü sertifikasına veya onaylanmış kişi statü belgesine sahip gerçek ve tüzel kişilerden 142, 143, 151, 153, 154, 160, 162 ve 163 üncü maddelerde belirtilen koşulları sağlayanlar yararlandırılabilir.
+(2) Kanunun 71 inci maddesinin birinci fıkrasının (b) bendinde belirtilen beyanname yerine ticari veya idari belge verilmesi usulünden yararlanmak için yapılan talepler yetkilendirilmiş yükümlü veya onaylanmış kişi statüsüne ilişkin koşullar aranmaksızın kabul edilir.
+(3) Kanunun 71 inci maddesinin birinci fıkrasının (c) bendinde belirtilen eşyanın kayıt yoluyla rejime girişi usulünden yetkilendirilmiş yükümlü sertifikasına sahip kişiler yararlandırılabilir.
+(4) Kanunun 71 inci maddesinin birinci fıkrasının (c) bendinde belirtilen eşyanın kayıt yoluyla rejime girişi usulünden yararlanılabilmesi, ihracat rejimi hariç olmak üzere, kapsamı ve miktarı Bakanlıkça belirlenecek teminatın verilmesi koşuluna bağlıdır.
+(5) Bu maddede belirtilen basitleştirilmiş usullerden yararlandırılan kişiler, bu usullerden yararlanılabilmesi için gerekli koşullardan bir veya daha fazlasında meydana gelecek değişiklikleri Bakanlığa bildirmek zorundadır.
+(6) Avrupa Komisyonu ile Ülkemiz arasında 11/7/2008 tarihinde imzalanan ve 5824 sayılı Kanun ile onaylanması uygun bulunan Katılım Öncesi Yardım Aracı (IPA) Çerçeve Anlaşması kapsamında ithal edilecek eşya için basitleştirilmiş usulde beyan talepleri yetkilendirilmiş yükümlü veya onaylanmış kişi statüsüne ilişkin koşullar aranmaksızın kabul edilir.

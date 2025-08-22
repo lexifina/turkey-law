@@ -1,0 +1,3 @@
+Serbest dolaşıma giriş rejiminde eksik beyanın tamamlanması ya da değiştirilmesi
+MADDE 146 – (1) Basitleştirilmiş usullere ilişkin 142 ila 145 inci maddelerde öngörülen koşullar çerçevesinde tescil edilmiş eksik beyanı içeren bir beyanname, beyan sahibi tarafından tamamlanabilir ya da gümrük idaresince uygun görülmesi halinde Kanunun 60 ıncı maddesinde belirtilen koşullara uyan yeni bir beyanname ile değiştirilebilir.
+(2) Her iki durumda da, gümrük vergilerinin hesaplanması ve eşyanın serbest dolaşıma girişini düzenleyen diğer hükümlerin uygulanmasında, eksik beyanı içeren beyannamenin tescil edildiği tarih esas alınır.

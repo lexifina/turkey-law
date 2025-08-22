@@ -1,0 +1,7 @@
+Ceza kararlarının verilmesi, tebliği ve kayda geçirilmesi
+MADDE 580 – (Değişik:RG-15/5/2013-28648)
+(1) Para cezalarına, gümrük işleminin yapıldığı gümrük idare amirleri veya yardımcıları tarafından gerekçesi de belirtilmek suretiyle karar verilir ve düzenlenen karar yükümlüsüne tebliğ edilir. İlgili memurlarca yapılacak ceza teklifleri, idare amirlerince uygun görülmediği takdirde gerekçesi gösterilmek suretiyle aynı şekilde karara bağlanır.
+(2) Kararlar tarih sırasına göre numara verilerek elektronik ortamda kayda alınır.
+(3) Konusu ve yükümlüsü ile gümrük idaresinin aynı olması, aralarında maddi veya hukuki yönden bağlılık bulunması şartıyla; birden fazla işleme veya beyannameye ilişkin para cezalarına tek ceza kararı düzenlenebilir. Bu kararlarda, ilgili işlem veya beyanname tarih ve sayıları, cezanın nev’i ve alacak miktarı ayrı ayrı belirtilir.
+(4) Ceza kararlarının Türkiye’de yerleşik olmayan kişiler adına düzenlenmesi halinde, pasaport numarası, taşıt plakası, firma unvanı ve adresi gibi ceza kararının takibini kolaylaştırmak üzere gerekli bütün bilgilere ceza kararlarında yer verilir.
+(5) Mülkiyetinin kamuya geçirilmesine ilişkin kararlar, gümrük işleminin yapıldığı gümrük idare amirleri veya yardımcıları tarafından gerekçesi belirtilmek suretiyle verilir ve düzenlenen karar yükümlüsüne tebliğ edilir. Mülkiyeti kamuya geçirilen eşyanın cinsi, miktarı ve olaya ilişkin ayrıntılar kararda detaylı olarak belirtilir.

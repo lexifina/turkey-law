@@ -1,0 +1,6 @@
+Kurye çantalarının beyanı
+MADDE 132 – (1) Türkiye Dışişleri veya Milli Savunma Bakanlıkları ile hariçteki elçiliklerimiz, misyonlarımız veya askeri misyon ve delegasyonlarımız yahut Dışişleri Bakanlıkları ile Türkiye’deki kendi elçilikleri veya misyonları tarafından bu kuruluşlar arasında resmi ve gizli evrak götürüp getiren ve kurye olarak adlandırılan askeri ve sivil memur ve şahıslara teslim olunacak evrak için her defasında bir Kurye Mektubu düzenlenir.
+(2) Bu mektup bakanlıkların, elçiliklerin veya misyon veya delegasyonların resmi mührü ile mühürlenir ve bu makamların yetkili kimseleri tarafından imza edilir.
+(3) Türkiye kuryelerine verilecek kurye mektupları Dışişleri ve Milli Savunma Bakanlıklarınca tespit edilen, ek-19’daki örneğe uygun olarak düzenlenir.
+(4) Kuryeler bu mektupları görevli gümrük memurlarına verir ve muhtevası eşyanın gümrük işlemleri beyanname addolunan bu mektuplarla yürütülür.
+(5) Türk kuryeleri diplomatik pasaport ile seyahat eder. Yabancı kuryelerin de Diplomatik Pasaport, Servis, Özel Pasaport, elçiliklerimizden verilen Lesse Passeyi taşımaları gerekir ve bu şahıslar sözü edilen belgelerden herhangi birini gümrük memurlarına göstererek kendilerini tanıtırlar.

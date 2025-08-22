@@ -1,0 +1,2 @@
+Geriye dönük izin verilmesi halinde eşyanın tesliminden sonra beyannamenin iptali
+MADDE 126 – (1) Daha önce serbest dolaşıma girmiş eşyanın tercihli tarife ya da nihai kullanım nedeniyle indirimli ya da sıfır vergi oranı ile serbest dolaşıma giriş veya ekonomik etkili bir gümrük rejimine tabi tutulabilmesini teminen, Müsteşarlıkça belirlenecek şartlar dahilinde geriye dönük izin verilmesi durumunda daha önceki beyanname iptal edilir.

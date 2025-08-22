@@ -1,0 +1,6 @@
+Eşyanın antrepoda kalabileceği süre
+MADDE 346 – (1) Eşyanın antrepo rejimi altında kalış süresi sınırsızdır.
+(2) Birinci fıkra hükmüne istisna olarak antrepoda bulunan eşyanın gümrükçe onaylanmış başka bir işlem veya kullanıma tabi tutulması yönünde beyanname tescil ettirilmesi halinde otuz gün içinde işlemlerinin bitirilmesi gerekir. Bu süre içerisinde Kanunun 64 üncü maddesinin birinci fıkrasında belirtilen koşullarda, gümrük antrepo rejimi dahil başka bir rejim beyanında bulunulması halinde, bu beyana ilişkin süre göz önüne alınır.
+(3) Müsteşarlık, özellikle beklemek suretiyle bozulabilecek eşya da dahil olmak üzere eşyanın antrepoda kalabileceği süre konusunda belirleme yapabilir.
+(4) Eşyanın antrepoda kalabileceği süre konusunda bir tahdit konulmuş ise; eşyanın antrepoya alındığı tarihten veya antrepolar arası nakil yoluyla başka bir antrepodan gelen eşyanın ilk antrepoya giriş tarihinden itibaren hesaplanır.
+(5) Antrepoda bulunan eşya için gümrükçe onaylanmış bir işlem ve kullanım tayin edilmesine ilişkin beyannamenin tescilinden itibaren otuz gün içinde işlemleri bitirilmeyen eşya ile, bir süre tayin edilmiş ise bu sürede kaldırılmayan eşya, Kanunun 177 nci maddesinin birinci fıkrasının (f) ve (g) bentleri uyarınca tasfiye edilir.

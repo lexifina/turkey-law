@@ -1,0 +1,2 @@
+Mahrecine yollanacak koliler
+MADDE 465 – (1) Yurt dışından posta yolu ile gelip listeleri gümrük idaresine verilen kolilerden, süresi içinde alıcıları tarafından alınmayanlar veya diğer sebeplerden dolayı posta idaresince geri gönderilmesi gerekenler, posta idaresince ayrıntılı bir yazı ile gümrüğe bildirilir. Gümrük idaresi, posta memurlarının huzurunda bu gibi kolileri muayene ederek Déclaration en Douane ve diğer belgeleriyle karşılaştırır. Şüpheli bir durum tespit edilmediği takdirde bunların kayıtları kapatılır.

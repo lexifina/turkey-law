@@ -1,0 +1,2 @@
+İznin geçerlilik süresi ve süre uzatımı
+MADDE 372 – (1) Gümrük kontrolü altında işleme rejimine ilişkin iznin geçerlilik süresi, ekonomik şartlar, başvuru sahibinin özel şartları ve işleme faaliyetinin özelliği dikkate alınarak, gümrük idaresince her başvuru için ve azami iki yıl olarak belirlenir. Sürenin başlangıcı izin belgesinin tarihidir. Süre sonu ise izin belgesi süresinin bittiği ayın son günüdür. Bu süreler mücbir sebep ve beklenmeyen hallerde veya izin sahibi tarafından ileri sürülen haklı gerekçelere bağlı olarak üç aya kadar uzatılabilir.

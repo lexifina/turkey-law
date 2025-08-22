@@ -1,0 +1,11 @@
+Yetkilendirilmiş gümrük müşavirlerine uygulanacak cezalar ve yetki belgesinin geri alınması
+MADDE 578 – (Mülga :RG-30/6/2015-29402)(16) (Yeniden düzenleme:RG-7/10/2016-29850) (27) (Değişik:RG-15/1/2025-32783)
+(1) Yetkilendirilmiş gümrük müşavirlerince yapılan işlemlere ilişkin olarak mevzuata aykırı durumların belirlenmesi halinde haklarında aşağıdaki şekilde işlem yapılır:
+a) Yetkilendirilmiş gümrük müşaviri olabilme şartlarından birinin kaybedilmesi halinde yetkilendirilmiş gümrük müşavirine ait yetki belgesi geri alınır ve şartların yeniden sağlandığı tespit edilene kadar bu kişiye tekrar yetki belgesi verilmez.
+b) Tespit işlemleri ile ilgili olarak Bakanlıkça belirlenen asgari ücret tarifesinin altında hizmet verildiğinin tespiti halinde yetkilendirilmiş gümrük müşavirine ait yetki belgesi 1 yıl süreyle geri alınır.
+c) Dolaylı temsil suretiyle faaliyet gösteren gümrük müşavirleriyle ya da tespit işlemini yaptıran yükümlü ile doğrudan veya dolaylı iş ilişkisi içinde olduğunun tespit edilmesi halinde yetkilendirilmiş gümrük müşavirine ait yetki belgesi geri alınır ve iş ilişkisinin sonlandığının tevsikinden itibaren bu kişiye 2 yıl süreyle yetki belgesi verilmez.
+ç) Görevin bağımsızlık, tarafsızlık ve dürüstlükle yapılmaması veya kusurlu olarak yapılması ya da Kanunda yer alan mesleğin genel prensiplerine aykırı harekette bulunulması halinde yetkilendirilmiş gümrük müşavirine ait yetki belgesi 1 yıl süreyle geri alınır.
+d) Tespit sözleşmesi kapsamında bizzat yapacağı işleri başkasına yaptırdığının tespit edilmesi halinde yetkilendirilmiş gümrük müşavirine ait yetki belgesi 2 yıl süreyle geri alınır.
+e) Mesleği icabı elde ettiği bilgi ve belgelerin yetkilendirilmiş gümrük müşavirliği dışındaki amaçlar için kullanıldığının tespit edilmesi halinde yetkilendirilmiş gümrük müşavirine ait yetki belgesi 5 yıl süreyle geri alınır.
+(2) Tüzel kişilik bünyesinde gerçekleştirilen işlemlerde, işlemi gerçekleştiren yetkilendirilmiş gümrük müşavirinin yanı sıra şirketi temsil ve ilzama yetkili yetkilendirilmiş gümrük müşaviri hakkında da birinci fıkra hükmü uygulanır.
+(3) Yetkilendirilmiş gümrük müşavirlerinin yetki belgesinin geri alınması, ayrıca Kanunun geçici 6 ncı maddesi uyarınca disiplin cezası verilmesine engel teşkil etmez.

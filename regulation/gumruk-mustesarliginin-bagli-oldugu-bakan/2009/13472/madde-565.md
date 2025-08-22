@@ -1,0 +1,2 @@
+Gümrük müşavirliği veya gümrük müşavir yardımcılığı izin belgesinin kaybedilmesi
+MADDE 565 – (1) Gümrük müşavirleri veya gümrük müşavir yardımcıları, izin belgelerini kaybetmeleri halinde, kayıp ilanını içeren gazete ve gerekli belgelerle birlikte ilgili Gümrük Müşavirleri Derneklerine bu durumu dilekçe ile bildirirler. Yeniden izin belgesi düzenlenmesi ile ilgili işlemler Dernekler aracılığıyla yürütülür.

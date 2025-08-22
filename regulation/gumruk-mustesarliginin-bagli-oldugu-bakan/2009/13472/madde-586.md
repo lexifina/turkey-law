@@ -1,0 +1,2 @@
+İtirazların karara bağlanması
+MADDE 586 – (1) İtirazlar, anlaşmazlığa konu beyanname ve sair her türlü belge ile eşyadan alınacak örnek, örnek alınması mümkün olmayan hallerde eşyanın kendisi veya fotoğraf, katalog, prospektüs gibi eşyayı görmeden fikir verecek diğer belgelerin incelenmesi veya gerek duyulması halinde ilgili gümrük idaresinin mütalaası da alınmak suretiyle otuz gün içinde karara bağlanarak ilgili kişiye tebliğ edilir. Otuz gün içerisinde karar alınamadığı durumlarda Kanunun 6 ncı maddesinin ikinci fıkrası uygulanır.

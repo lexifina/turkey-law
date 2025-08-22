@@ -1,0 +1,4 @@
+Birden fazla limana uğrayan deniz veya hava taşıtlarına ilişkin özet beyan verilmesi ve risk analizi
+MADDE 70 – (Başlığı ile birlikte değişik:RG-2/11/2011-28103) (4)
+(1) Deniz veya hava taşıtlarının Türkiye sınırları dışında herhangi bir liman veya havalimanına uğramaması koşuluyla, Türkiye Gümrük Bölgesinde birden fazla liman veya havalimanına uğraması halinde, özet beyan, eşyanın boşaltılacağı liman veya hava limanındaki gümrük idaresine verilir.
+(2) Güvenlik ve emniyet amaçlı risk analizi, eşyanın boşaltılacağı her bir liman veya hava limanındaki gümrük idaresince gerçekleştirilir. Risk analizi sonucunda, eşyanın acil müdahale gerektirecek ölçüde tehdit oluşturduğuna karar verilmesi halinde, gümrük idaresince yasaklayıcı tedbirler alınır ve ilk varış limanı veya havalimanındaki gümrük idaresine de bildirimde bulunulur.

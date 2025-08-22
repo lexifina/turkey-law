@@ -1,0 +1,3 @@
+Antrepo rejimine tabi tutulan serbest dolaşımdaki eşyaya ilişkin beyannamenin iptali
+MADDE 128 – (1) Gümrük antreposuna konulması halinde ihracata bağlı önlemlerden yararlanan serbest dolaşımdaki eşya, gümrükçe onaylanmış bir işlem veya kullanıma tabi tutulmaması halinde, ihracata bağlı önlemlere ilişkin mevzuat hükümleri ve cezai hükümler saklı kalmak kaydıyla, beyan sahibinin talebi üzerine antrepo rejimine ilişkin beyanname iptal edilir.
+(2) Eşyanın antrepo rejimi altında kalış süresi içerisinde, gümrükçe onaylanmış bir işlem veya kullanıma tahsis edilmesine ilişkin bir başvurunun yapılmamış olması halinde, gümrük idarelerince gümrük mevzuatı ve ihracata bağlı önlemlere ilişkin mevzuat hükümleri uyarınca gerekli önlemlerin alınması kaydıyla beyanname iptal edilir.

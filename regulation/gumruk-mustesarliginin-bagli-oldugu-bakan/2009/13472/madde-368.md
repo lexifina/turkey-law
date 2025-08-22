@@ -1,0 +1,3 @@
+Ürünün ve beyannamenin gümrüğe sunulması
+MADDE 368 – (1) Dahilde işleme rejimini kapatan gümrükçe onaylanmış bir işlem veya kullanımdan birine sokulacak herhangi bir işlem görmüş ürün veya gerektiğinde değişmemiş eşya ve bunların beyanına ilişkin beyanname, izinde belirtilen gümrük idaresine sunulur. Yapılan beyan, ilgili olduğu gümrükçe onaylanmış bir işlem veya kullanım hükümlerine tabi olur.
+(2) Geri ödeme sisteminin uygulandığı dahilde işleme rejimini kapatan gümrükçe onaylanmış bir işlem veya kullanımda, Kanunun 71 inci maddesinde öngörülen basitleştirilmiş usuller, serbest dolaşıma giriş, ihracat ve yeniden ihracatta, bu konulardaki özel hükümler dikkate alınarak uygulanır.

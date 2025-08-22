@@ -1,0 +1,6 @@
+İKİNCİ BÖLÜM
+Onaylanmış Kişi Statüsü
+Onaylanmış kişi statüsü verilebilecek kişiler
+MADDE 22 – (1) Gümrük mevzuatı kapsamında gümrük işlem ve uygulamalarının kolaylaştırılması amacıyla belirlenen basitleştirilmiş usul, uygulama ve yetkilerden yararlanmak üzere 23 ve 24 üncü maddelerde belirlenmiş koşulları sağlayan, Türkiye Gümrük Bölgesinde yerleşik (Ek: RG-21/11/2013-28828 Mükerrer) ve en az iki yıldır fiilen faaliyette bulunan gerçek ve tüzel kişilere talep etmeleri halinde (Mülga ibare:RG-7/10/2016-29850)(21) (...) onaylanmış kişi statüsü verilir.
+(2) (Değişik:RG-7/10/2016-29850) 24 üncü maddede belirtilen devir, birleşme veya kısmi bölünme hallerinde onaylanmış kişi statü belgesi başvurusunda bulunacak kişilerden birinci fıkrada belirtilen en az iki yıldır fiilen faaliyette bulunma koşulu aranmaz.
+(3) (Ek:RG-9/1/2024-32424) Gümrük Kanununun 5/A maddesi kapsamında yetkilendirilmiş yükümlü statüsü tanınan şirketin, malvarlığının bir veya birden fazla bölümünü yeni kurulacak bir şirkete kısmi veya tam bölünme suretiyle devretmesi halinde, idaresi ve murakabesi ve/veya sermayesi bakımından bölünen şirketle yeni kurulan şirket arasında vasıtalı veya vasıtasız şirket ilişkisi bulunması koşuluyla, devralan tüzel kişiliğin yapacağı onaylanmış kişi statü belgesi başvurusunda birinci fıkrada belirtilen en az iki yıldır fiilen faaliyette bulunma koşulu aranmaz.

@@ -1,0 +1,2 @@
+Tanktan tanka eşya nakli
+MADDE 546 – (1) Boru hatları dahil, antrepo sahası bir bütün olarak kabul edildiğinden, dökme gelen sıvıların tanklar arasında hareketi için izin almaya gerek yoktur. Ancak eşya cinslerinin karıştırılmaması gerekir. Bu hususta gümrük idaresine yazı ile bilgi verilir. Antrepo işleticisi, bu hareketin izlenebilmesi için, gümrük idaresinin talebi üzerine, tanklar arasında nakledilecek eşyanın cins, miktarı ve tank numarası gibi ayrıntılarını gösterir bir listesini gümrük idaresine verir.

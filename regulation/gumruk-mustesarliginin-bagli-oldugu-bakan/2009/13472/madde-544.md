@@ -1,0 +1,3 @@
+Tanklardan alınacak eşyanın tespiti
+MADDE 544 – (1) Tanklardan alınacak sıvının miktarının 543 üncü maddede belirtilen cihazlarla tespit edilmesi esastır. Bununla birlikte, aşağıdaki şekilde de ölçüm yapılabilir.
+(2) Tanklardan alınacak sıvının miktarını tespit için tank kapsamı, bir defa çıkış işlemine başlamadan evvel, bir defa da bu işlem bittikten sonra olmak üzere, iki defa ölçülerek iki ölçü arasındaki fark bulunur. Eğer antrepo dahilinde istiap hacmi tayin ve tespit edilmiş ve bu işe özgü küçük hacimde bir tank varsa, sıvılar bu ölçülü tanka akıtılır ve doğrudan doğruya miktarı tayin edilerek büyük tank mevcudundan düşülür.

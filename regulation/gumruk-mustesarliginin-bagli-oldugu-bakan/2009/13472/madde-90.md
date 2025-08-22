@@ -1,0 +1,2 @@
+Elleçleme faaliyetleri
+MADDE 90 – (1) Geçici depolanan eşya; görünüş ve teknik özelliklerinin değiştirilmemesi koşuluyla aynı durumda muhafazalarını sağlamak üzere, gümrük idaresinin izni ve denetlemesi altında, geçici depolama yerlerinde bulunan diğer eşyaya zarar vermeyecek şekilde kaplarının tamiri veya sağlamlaştırılması, kaplarının yenilenmesi, havalandırılması, kalburlanması gibi elleçleme faaliyetlerine tabi tutulabilir. Bu işlerin yapılabilmesi için geçici depolama yerlerinde gerekirse ayrı bir bölüm tahsis edilir.

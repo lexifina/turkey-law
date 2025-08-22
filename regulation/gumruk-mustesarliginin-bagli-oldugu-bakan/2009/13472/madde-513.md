@@ -1,0 +1,30 @@
+İzin
+MADDE 513 – (Değişik:RG-16/7/2011-27996)
+(1) (Değişik:RG-1/8/2017-30141) Geçici depolama yeri açıp işletmek isteyen kişiler izin almak için aşağıda sayılan belgelerle birlikte ilgili gümrük müdürlüğüne bir dilekçe ile başvurmaları gerekir.
+a) 512 nci maddede sayılan suçlardan mahkûm olunmadığına dair adli sicil belgesi,
+b) Geçici depolama yeri olarak açılıp işletilecek yerin mülkiyetinin veya üzerindeki sınırlı ayni hakkın başvuru sahibine ait olduğunu belgeleyen onaylı tapu sicil örneği veya kira sözleşmelerinin aslı veya örnekleri,
+c) İlgili Ticaret Sicili Gazetesinin (Değişik ibare:RG-1/4/2020-31086) (firmanın ortaklık yapısı ve sermaye dağılımının son halini gösteren) aslı veya gümrük müdürlüğünce onaylanmış örneği,
+ç) (Mülga:RG-19/6/2021-31516)
+d) Geçici depolama yeri alanının tümünü gösteren, resmi kurum ve kuruluşlar, belediyeler veya ilgili odalara kayıtlı mühendis ve mimarlarca onaylanmış plan veya kroki,
+e) Geçici depolama yeri olarak açılmak istenilen yer; belediye sınırları içerisinde ise ilgili belediye başkanlığından alınacak İşyeri Açma ve Çalışma Ruhsatı, diğer yerlerde ise ilgili yerden (valilikler ya da konusu ile ilgili yetkili Kurum veya Kuruluş) alınacak İşyeri Açma ve Çalışma Ruhsatı veya buna karşılık gelen belge,
+f) Geçici depolama yerini ve eklentilerini içten, dıştan ve her bir cepheden ayrıntılı bir şekilde gösteren ilgili gümrük müdürlüğünce onaylı fotoğraflar,
+g) Vergi mükellefiyet belgesi,
+ğ) Geçici depolama yerinde yangın ve patlamalar için gerekli önlemlerin alındığını gösteren itfaiye raporu,
+h) Ek-79’da yer alan taahhütname.
+(Mülga ibare:RG-19/6/2021-31516) yukarıda sayılan belgelerin asıllarının gümrük idaresine gösterilmesi halinde gümrükçe onaylanmış bir örneklerinin dosyasında bulundurulması yeterlidir. Gümrük idarelerince bu belgeler yanında gerekli görülen hallerde ilave bilgi ve belge istenilebilir.
+(2) Gümrük müdürlüğü talep edilen geçici depolama yerinin;
+a) Eşyanın güvenli bir şekilde muhafazasını sağlayacak nitelikte,
+b) Gümrüklü sahada veya gümrük idaresi bulunan deniz ve hava limanı içerisinde veya iç gümrük idarelerinde gümrük müdürlüğüne bitişik,
+c) Eşya giriş ve çıkışına uygun açık ve/veya kapalı alanı,
+ç) Eşya miktarının tespiti ile eşyanın boşaltılması ve yüklenilmesine yönelik gerekli teknik donanıma sahip,
+d) Yangın söndürme ve aydınlatma tesisatı,
+e) Memur çalışma yerine sahip
+olduğunun tespiti ve ilgili diğer hususların da belirtildiği görgü raporunu görüşleri ile birlikte (Değişik ibare:RG-1/8/2017-30141) bölge müdürlüğüne gönderir.
+(3) (Değişik:RG-1/8/2017-30141) İkinci fıkranın (b) bendinde belirtilen yerler dışında geçici depolama yeri açma talepleri ile ilgili olarak, açılması düşünülen geçici depolama yerinde gümrük gözetimi ve denetimini olumsuz etkileyecek bir durumun olup olmadığı, geçici depolama yeri açılmasına ekonomik yönden ihtiyaç bulunup bulunmadığı ve yatırım yapılacak yere eşya sevkiyatının gümrük denetimi altında güvenli bir şekilde yapılıp yapılamayacağı hususlarına ilişkin Bölge Müdürlüğünce yapılacak değerlendirme dikkate alınarak Bakanlıkça ön izin verilebilir. Ekonomik yönden ihtiyaç bulunup bulunmadığına dair değerlendirme; geçici depolama yeri açılacak yerdeki diğer geçici depolama yerlerinin fiziki kapasiteleri, dönemsel doluluk oranları, başvurunun yapıldığı gümrük müdürlüğünün işlem hacmi, gümrük müdürlüğünün idari kapasitesi ve geçici depolama yeri açılmasının öngörüldüğü yerdeki ticari ve sınai yatırımları da dikkate alacak şekilde yapılır. Ön izin başvuruları, dilekçe, (Değişik ibare:RG-1/4/2020-31086) birinci fıkranın (a), (c) ve (ç) bentlerinde belirtilen belgeler ile birlikte ilgili gümrük müdürlüğüne yapılır.
+(4) (Değişik ibare:RG-1/8/2017-30141) Bölge müdürlüğü durumu inceleyerek görüşü ile birlikte ilgili dosyasını Bakanlığa intikal ettirir. Müracaatlar Bakanlıkça sonuçlandırılır.
+(5) (Değişik:RG-15/1/2025-32783) Belediyeler ile kamu kurum veya kuruluşlarının taleplerinde adli sicil belgesi ve ticaret sicil gazetesi aranmaz. Kamu kurum veya kuruluşlarının görev alanı itibarıyla faaliyette bulundukları yerlerdeki geçici depolama yeri açma ve işletme taleplerinde, ayrıca iş yeri açma veya çalışma ruhsatı veya bunun yerine geçen belge aranmaz.
+(6) (Ek:RG-31/3/2012-28250) Gümrük idaresi ve diğer kamu kurum ve kuruluşlarının sorumluluğunda geçici depolama yerinin olması, mevcut geçici depolama yerlerinin ihtiyacı karşılaması ve ekonomik yönden ihtiyaç bulunmaması halinde yeni geçici depolama yeri açılışına izin verilmez.
+(7) (Ek:RG-31/3/2012-28250) İkinci fıkranın (b) bendinde belirtilen yerler dışında geçici depolama yeri olarak açılıp işletilmek istenilen yerlerin, en az 3.000 m2’si kapalı olmak üzere 10.000 m2’den küçük olmaması ve mutat yolların izlenmesi kaydıyla gümrük müdürlüğüne en fazla 10 km mesafede olması gerekir. (Ek cümle:RG-20/11/2012-28473) Taşıt depolanacak geçici depolama yerlerinde kapalı alan ile havayolu ile (Ek ibare:RG-30/6/2015-29402)17 hızlı kargo taşımacılığına ilişkin açılacak geçici depolama yerlerinde alan şartı aranmaz.
+(8) (Ek:RG-15/5/2013-28648) Ön izinle açılacak geçici depolama yerlerinde, geçici depolama yeri işleticisinin aynı gümrük müdürlüğü denetiminde kapalı alanı bulunan geçici depolama yerinin bulunması ve buranın ihtiyacı karşılaması halinde, yedinci fıkrada yer alan kapalı alan şartı aranmaz.
+(9) (Ek:RG-1/4/2020-31086) Geçici depolama yeri açma izni almak üzere başvuracak limited veya anonim şirketlerin, gümrük mevzuatı uyarınca kesinleşmiş vergi ve ceza borcu ile vergi mevzuatı uyarınca kesinleşmiş vergi borcu bulunmaması şarttır.
+(10) (Ek:RG-3/1/2023-32062) Ekonomik yönden ihtiyaç olması halinde, ön izinle açılacak geçici depolama yerlerinde geçici depolama yeri açma talebinde bulunan kişinin liman işleticisi olması, geçici depolama yeri için 10.000.000 TL tutarında teminat verilmesi, geçici depolama yerinin mutat yolların izlenmesi kaydıyla liman işleticisinin gümrük işlemlerinin gerçekleştirildiği ve limanın bağlı bulunduğu gümrük müdürlüğüne en fazla 20 km mesafede olması şartlarıyla, yedinci fıkrada belirtilen kapalı alan şartı aranmaksızın geçici depolama yeri açılmasına izin verilebilir.

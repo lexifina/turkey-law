@@ -1,0 +1,8 @@
+Beyannamede düzeltme
+MADDE 121 – (1) (Değişik:RG-7/2/2013-28552) Kanunun 63 üncü maddesinin birinci fıkrasında geçen ‘başka bir eşya’ ifadesinden, tarife alt pozisyonu değişen, değişmemesi durumunda ise her türlü vergi ile ek mali yükümlülüğün ad valorem usulde oran veya spesifik usulde miktarına ve/veya ticaret politikası önlemine ilişkin faydalanılacak hak ve menfaatlerde farklılık gösteren eşya anlaşılır.
+(2) (Değişik:RG-7/2/2013-28552) Eşyanın teslimine kadar;
+a) Eşyanın muayenesi için bilgisayar sistemi tarafından beyanın kontrolü türünün kırmızı hat olarak belirlenmesinden,
+b) Beyan edilen eşyaya ilişkin bilgilerin yanlış olduğunun tespit edilmesinden,
+önce beyannamede düzeltme yapılmasına izin verilir (Mülga ibare:RG-9/1/2024-32424).
+(3) (Mülga:RG-30/4/2011-27920) (Yeniden düzenleme:RG-7/2/2013-28552) Beyanın kontrolü türü kırmızı hat olarak belirlenen eşyaya ilişkin bilgilerin yanlış olduğunun tespit edilmesinden önce düzeltme talebinde bulunulması halinde talep Kanunun 234 üncü maddesinin üçüncü fıkrasından yararlanma talebi olarak değerlendirilerek sistemde gerekli düzeltmeler yapılır. Beyan edilen eşyaya ilişkin bilgilerin yanlış olduğunun tespit edilmesinden sonra düzeltme talebinde bulunulması halinde ise düzeltme talepleri kabul edilmeyerek 192 ve 193 üncü maddeler uygulanır.
+(4) Cezai hükümler saklı kalmak kaydıyla, beyanname tescil tarihinden itibaren üç yıllık süre içinde yükümlünün talebi üzerine Kanunun 73 üncü maddesinin ikinci fıkrası uyarınca beyannamede düzeltme yapılmasına izin verilir. (Ek cümle:RG-31/12/2010-27802) Ancak, dahilde işleme rejimi için bu sürenin üç yıldan daha uzun belirlenmesine Müsteşarlık yetkilidir.

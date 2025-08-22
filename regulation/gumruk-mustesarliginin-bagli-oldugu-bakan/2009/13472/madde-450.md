@@ -1,0 +1,6 @@
+Geçici olarak çıkarıldıktan sonra geri gelen taşıtların ve ticari nitelikte olmayan eşyanın beyanı
+MADDE 450 – (1) Türkiye Gümrük Bölgesi dışına geçici olarak çıkarılan taşıt ve ticari nitelikte olmayan eşyanın süresi içinde geri gelmesi halinde aşağıdaki işlemler uygulanır:
+a) Türkiye Gümrük Bölgesi dışına geçici olarak çıkarılan taşıtın süresi içerisinde yurda geri getirilmesi halinde, çıkış kayıtları Taşıt Takip Programından kapatılır. Çıkış işlemi sırasında yükümlü tarafından Triptik veya Gümrük Geçiş Karnesi beyanname olarak sunulmuşsa, geçici olarak çıkarılan taşıtın geri gelmesi halinde, bu belgeler beyanname olarak kabul olunur; ayrıca çıkış kayıtları Taşıt Takip Programından da kapatılır.
+b) 444 üncü maddenin birinci fıkrasının (b) bendi kapsamında çıkışı yapılan ticari nitelikte olmayan eşyanın süresi içerisinde geri getirilmesi halinde, gümrük idaresince çıkış kaydı kapatılır.
+c) 444 üncü maddenin birinci fıkrasının (c) bendindeki diplomatik statüdeki memurların geri gelen taşıtlarının yalnızca plaka numaraları ve modelleri Taşıt Takip Programından evvelce yapılmış çıkış kayıtları ile karşılaştırılarak kapatılır ve herhangi bir gümrük formalitesi uygulanmayarak gerekli sürat ve kolaylık gösterilir.
+ç) Geri gelen demiryolu araçlarının çıkış kayıtları usulü dairesinde kapatılır.

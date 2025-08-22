@@ -1,0 +1,5 @@
+Geçici depolama yerinde yapılacak değişiklikler
+MADDE 516/A- (Ek:RG-9/1/2024-32424)
+(1) Geçici depolama yerinde yapılacak genişletmenin, aynı bina veya aynı saha içerisinde, geçici depolama yerinden bağımsız olarak kullanılması mümkün bulunmayacak şekilde, geçici depolama yeri ile doğrudan irtibatlı yer, bölüm veya saha gibi açık veya kapalı alan şeklinde yapılması gerekir.
+(2) Geçici depolama yerinde yapılmak istenen ve plan değişikliği gerektirmeyen talepler, ilgili gümrük müdürlüğünün görüşü ile birlikte ilgili bölge müdürlüğüne aktarılır ve ilgili bölge müdürlüğünce sonuçlandırılarak Bakanlığa bilgi verilir. Bununla birlikte geçici depolama yerlerinde yapılmak istenen ve plan değişikliği gerektiren talepler, ilgili bölge müdürlüğünün görüşü ile birlikte Bakanlıkça sonuçlandırılır.
+(3) (Ek:RG-20/4/2024-32523) Bir gümrük müdürlüğü denetimindeki geçici depolama yerinin aynı bölge müdürlüğüne bağlı başka bir gümrük müdürlüğüne bağlanması talebine ilişkin başvuru geçici depolama yerinin bağlı bulunduğu bölge müdürlüğüne yapılır. Bölge müdürlüğü, başvuruyu görüşü ile birlikte Bakanlığa iletir. Söz konusu başvuru Bakanlıkça sonuçlandırılır.

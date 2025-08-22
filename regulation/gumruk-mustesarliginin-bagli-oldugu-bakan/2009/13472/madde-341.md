@@ -1,0 +1,9 @@
+İşleme faaliyetleri yapılabilecek antrepo tipleri
+MADDE 341 – (1) Dahilde işleme ve gümrük kontrolü altında işleme rejimleri kapsamındaki eşyanın, gümrük antrepo rejimine tabi tutulmadan antrepolarda işlenmesine izin verilebilir. Ancak bu işleme faaliyetleri;
+a) İhracat ve serbest dolaşıma giriş rejimlerinde basitleştirilmiş usul uygulanacak ise, dahilde işleme rejiminin şartlı muafiyet sistemi veya gümrük kontrolü altında işleme rejimi altında işleme faaliyetleri, A, C ve D tipi antrepolarda,
+b) (a) bendinde belirtilen basitleştirilmiş usul uygulanmıyor ise, dahilde işleme ve gümrük kontrolü altında işleme faaliyetleri, tüm antrepo tiplerinde,
+izin alınması şartıyla yapılabilir.
+(2) Dahilde işleme veya gümrük kontrolü altında işleme rejimi izni alınmadan, birinci fıkranın (a) bendinde belirtilen gümrük antrepolarında anılan rejimlere ilişkin işleme faaliyetlerine başlanılmaz. Ayrıca, alınacak izin belgesinde işleme faaliyetlerinin yapılacağı gümrük antreposunun tipi de belirtilir.
+(3) Ancak bu faaliyetlerin, eşdeğer eşya kullanılmaksızın uygulanan dahilde işleme veya gümrük kontrolü altında işleme rejimlerine ilişkin olması durumunda, serbest dolaşımda bulunan eşyanın, ortak depolamaya ilişkin 337 inci madde hükümleri çerçevesinde antrepoya konulmasına izin verilmez.
+(4) Ortak depolamaya ilişkin 337 inci madde ile dördüncü fıkra hükümlerinin saklı kalması ve işlemlerin yürütülmesini olumsuz etkilememesi kaydıyla, gümrük idareleri, antrepo rejimine tabi serbest dolaşımda bulunmayan eşya ile dahilde işleme ve gümrük kontrolü altında işleme rejimlerine tabi ithal eşya veya işlem görmüş ürünlerin birlikte depolanmasına izin verebilir.
+(5) Kayıtlar, gümrük idaresine, herhangi bir zamanda tabi tutulduğu rejim kapsamında bulunan eşya veya ürünlerin tamamının durumlarını kesin olarak izleme imkanı sağlamalıdır.

@@ -1,0 +1,6 @@
+Denetleme
+MADDE 558 – (1) Diğer gümrük mevzuatı ve bu Yönetmelik ile belirtilen esasların yerine getirilip getirilmediğini tayin edebilmek üzere (Değişik ibare:RG-31/3/2012-28250) gümrük ve ticaret müfettişi ve müfettiş yardımcıları ile gümrük idare amirleri veya yetkili kılınacak görevliler, görevlerinin gerektirdiği hallerde geçici depolama yeri ve antrepolarda işlemleri, kayıt ve belgeleri incelemeye ve teftiş etmeye, yoklama ve ilgililer hakkında denetleme yapmaya yetkilidirler.
+(2) Yukarıdaki fıkrada yazılı yerlerin sahip veya personeli, denetleme yapanlara bu yerleri hemen açmak ve her türlü kolaylığı göstermek, istenilen açıklamaları yapmak ve belgeleri vermek zorundadırlar.
+(3) Alanlar tarafından, alınan belgelerin onaylı birer örneği verilir.
+(4) Giriş ve çıkış defterleri gibi her zaman kullanılacak olan kayıtlar yerinde incelenir. İnceleme sırasında bu defterler alınması gerektiğinde imza karşılığında alınır, bu takdirde giriş veya çıkış kayıtları, yeniden açılacak defterler üzerinde yürütülür. Bu defterlerin baş tarafına, (Değişik ibare:RG-31/3/2012-28250) gümrük ve ticaret müfettişi ve müfettiş yardımcıları ile gümrük müdürlüklerince imzaları atılarak bu durum şerh edilir.
+(5) Diğer kayıt ve belgeler alınmak istenirse, imza ile verilir.

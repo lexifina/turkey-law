@@ -1,0 +1,2 @@
+Gümrük idarelerince ek bilgi ve belge istenmesi
+MADDE 503 – (1) Geri verme veya kaldırma başvurusunun, ek bilgi veya belge temin edilmesini veya talebin Yönetmelikte öngörülen geri verme veya kaldırma şartlarına uygun olduğunu kesinleştirmek için inceleme yapılmasını gerektirmesi halinde, başvuru yapılan gümrük idaresi bu amaca uygun olarak gerekli önlemleri alır, başvuru sahibinden ihtiyaç duyulan bilgi ve belgelerin ibrazını talep eder ve bu amaç doğrultusunda gerekli kontrolleri yapar.

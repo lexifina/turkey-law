@@ -1,0 +1,3 @@
+İznin geçerlilik süresi
+MADDE 353 – (1) İzin belgesinin süresi, Kanunun 80 ve 111 inci maddelerinde belirtilen esaslar çerçevesinde tespit edilir. Ancak söz konusu süre, işleme faaliyetinin özelliğine göre daha kısa olarak belirlenebilir. Sürenin başlangıcı izin belgesinin tarihidir. Süre sonu ise izin belgesi süresinin bittiği ayın son günüdür. Bu süreler mücbir sebep ve beklenmeyen hallerde veya izin sahibi tarafından ileri sürülen haklı gerekçelere bağlı olarak uzatılabilir.
+(2) Dahilde işleme rejimi kapsamında yapılacak ithalat ve ihracatların izin belgesi süresi içerisinde yapılması gerekir.

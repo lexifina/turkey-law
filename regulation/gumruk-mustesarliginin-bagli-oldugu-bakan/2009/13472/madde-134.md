@@ -1,0 +1,2 @@
+Kurye kapları kapsamının muayene edilmeyeceği
+MADDE 134 – (1) Görevli gümrük memurları, pasaport veya diğer kimlik belgelerinden kurye oldukları anlaşılan Türk ve yabancı kimselerin beraberlerinde getirip, götürdükleri resmi ve gizli evrakı içeren kurye kaplarını dıştan muayene ve inceleyerek kurye mektuplarının uygun ve resmi mühür ile mühürlenmiş olduğunu gördükleri takdirde, bunları açıp kapsamını muayene etmeksizin, üzerlerine etiket yapıştırarak veya işaret koyarak geçirilmelerine izin verir.

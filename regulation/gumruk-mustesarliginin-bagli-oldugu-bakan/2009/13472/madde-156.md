@@ -1,0 +1,4 @@
+İhracat rejiminde beyanname yerine ticari veya idari belge
+MADDE 156 – (1) Aynı gümrük idaresinden sürekli ve periyodik olarak kitap ve diğer basılı yayın ihraç edenler ile gemilere kumanya, yağ, yakıt ve diğer malzeme verme şeklinde ihracat gerçekleştirenlerin beyanname yerine ticari veya idari bir belge tescil ettirmek suretiyle işlem yapma konusundaki yazılı talepleri (Değişik ibare:RG-10/1/2013-28524) yetkilendirilmiş yükümlü veya onaylanmış kişi statüsüne ilişkin koşullar aranmaksızın kabul edilir.
+(2) Bu usulle gerçekleşen ihracata ilişkin ticari veya idari belgede; ihracat konusu eşyanın teşhisini mümkün kılacak bütün bilgilerin ve ‘Basitleştirilmiş İhracat’ ifadesinin yer alması gerekir.
+(3) Beyanname yerine kabul edilecek idari ve ticari belgelerin nitelik ve içereceği bilgileri belirlemeye Müsteşarlık yetkilidir.

@@ -1,0 +1,3 @@
+Radyasyon kontrolleri
+MADDE 72/T – (1) Kanunun 33 üncü maddesinde belirtilen yerlerde kişi, eşya ve taşıtların, radyasyon tespit sistemleri vasıtasıyla radyasyon kontrolleri yapılır.
+(2) Sistemlerin uyarı vermesi durumunda uyarıya neden olan kişi, eşya veya taşıt sistemden tekrar geçirilerek, uyarının doğruluğu test edilir. Sistemlerin tekrar uyarı vermesi durumunda uyarıya neden olan kişi, eşya veya taşıt arındırılmış güvenli bir alana sevk edilerek, taşınabilir dedektörler vasıtasıyla, gerekli önlemler alınarak ikinci seviye radyasyon kontrolü yapılır. Alınan radyasyon değerleri geciktirilmeksizin, EK-10/F’de yer alan Radyasyon Alarmı Bildirim Formu vasıtasıyla Türkiye Atom Enerjisi Kurumuna bildirilir. İlgili kurumdan gelecek cevaba göre işlem yapılır.

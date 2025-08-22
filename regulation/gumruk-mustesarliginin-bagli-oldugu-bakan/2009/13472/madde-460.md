@@ -1,0 +1,5 @@
+Muayene ve tahakkuk
+MADDE 460 – (1) Muayene ile görevli memurlar muayenesine gerek görülen kolileri, bunları muhafaza ile görevli posta idaresi memurlarının huzurunda muayene eder.
+(2) Ticari nitelikte olup gümrük beyannamesi verilmiş eşyanın muayenesi 180 ila 196 ncı madde hükümleri uyarınca; ticari nitelikte olmayan ve 172 nci maddede belirtilen beyan formu veya Déclaration en Douane kapsamı eşyanın muayenesi ise, örnekleme yöntemi ile yapılır.
+(3) Ticari nitelikte olmayan eşyanın Déclaration en Douane’larında yazılı değerleri, gümrük idaresince uygun bulunduğu takdirde, aynen kabul olunur. Uygun görülmeyenler ile Déclaration en Douane’larında kıymeti gösterilmeyen eşya için Kanununun İkinci Kısmının Eşyanın Gümrük Kıymeti başlıklı Üçüncü Bölüm maddeleri hükmü uyarınca tespit edilecek kıymetleri vergi tahakkukuna esas tutulur.
+(4) Muayene sırasında kolilerin içinden çıkan fatura ve menşe şahadetnamesi gibi belgeler gümrük idaresince alınarak muayene, tespit ve tahakkukta dikkate alınmak üzere beyannamesine eklenir.

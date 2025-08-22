@@ -1,0 +1,16 @@
+Geçici ithalat rejimi için tanımlar
+MADDE 376 – (1) 377 ila 394 üncü maddelerde bahsedilen geçici ithalat rejiminin uygulanmasında;
+a) Dahili trafik: Türkiye Gümrük Bölgesi içinde bindirilen insan veya yüklenen eşyanın yine Türkiye Gümrük Bölgesi içinde başka bir yere indirilmesi veya boşaltılmasını,
+b) Geçici Giriş Belgesi: Türkiye’deki diplomatik misyon veya uluslararası kuruluşlarda çalışan diplomatik statü dışı kişilerin taşıtları için, sahiplerinin beyanlarının bizzat ilgili ülke elçisi ya da uluslararası kuruluş temsilcilerinin imzaladığı ve Dışişleri Bakanlığının da onayladığı, Türkiye’deki yabancı işçi irtibat bürolarında çalışan kişilerin taşıtları için Türkiye İş Kurumu Genel Müdürlüğünce imzalandığı, teknik işbirliği yada benzeri anlaşmalar uyarınca gelenler için çalıştıkları kuruluş yetkililerinin imzaladığı taahhütnameyi de içeren geçici ithal işleminin yapıldığı teminat hükmünde olan belgeyi,
+c) Gümrük Bölgesi dışında yerleşik kişi: Olağan durumda Gümrük Bölgesi dışında ikamet eden gerçek kişi ya da kayıtlı işyeri bulunan tüzel kişiyi,
+ç) Kişisel kullanım: Taşıma aracının ilgili kişinin, kişisel amaçlarına yönelik, ticari kullanımın dışında kalan kullanımı;
+d) Mülkiyet Belgesi: Taşıtın kayıtlı olduğu ülkenin trafik, belediye veya diğer yetkili kuruluşlarınca verilen, taşıtın kime ait olduğunu ve üzerinde motor, şasi ve plaka numaraları ile diğer özelliklerini gösteren belgeyi,
+e) Sigorta poliçeleri: 2918 sayılı Karayolları Trafik Kanunu ve Karayolları Trafik Tüzüğü gereğince, Türkiye Gümrük Bölgesine getirilen kara taşıtlarının Türkiye’de geçerli sigortasının olmaması halinde Türkiye Gümrük Bölgesinde kalacağı süre kadar yaptırılması gereken zorunlu trafik sigortasını,
+f) Taşıma aracı: İnsan ya da eşya taşımasında kullanılan herhangi bir araç ile eşyanın istiflenmesinde, korunmasında ve emniyetinde kullanılacak takımlar da dahil olmak üzere yedek parçaları ve normal aksesuarı ve teçhizatı,
+g) Taşıt: Kara, demiryolu, hava, deniz ve iç su yolları taşıtını,
+ğ) Taşıt Giriş-Çıkış Formu: Taşıt Takip Programlarına kayıt yapılamaması durumunda özel ve ticari kullanıma mahsus taşıtlar için düzenlenen ve bir örneği ek-66’da yer alan belgeyi,
+h) Taşıt Takip Programları: Türkiye Gümrük Bölgesi dışında yerleşik kişiler tarafından getirilen özel veya ticari kullanıma mahsus taşıtların kaydedildiği bilgisayar programlarını,
+ı) Ticari kullanım: Taşıma aracının bedel karşılığında insan taşınmasında ya da bedel karşılığında olsun ya da olmasın sınai veya ticari eşya nakliyesinde kullanımı,
+i) Triptik Karnesi: Türkiye Gümrük Bölgesi dışında yerleşik kişilerin turistik amaçlı seyahatlerinde Türkiye Gümrük Bölgesine getirilen taşıtları için ulusal kefil kuruluş tarafından yalnız Türkiye için geçerli olacak şekilde düzenlenen üç parçadan ibaret teminat hükmünde olan belgeyi,
+j) Yabancı Taşıtlar Geçici Giriş Karnesi: Türkiye Gümrük Bölgesi dışında yerleşik kişilerden Türkiye’ye belirli bir süre görev yapmak veya öğrenimde bulunmak için gelenler ile Türkiye’de geçici olarak oturma iznine haiz olan yabancıların ikamet yerlerinde adlarına kayıtlı özel kullanımlarına mahsus kara taşıtları için ulusal kefil kuruluş tarafından verilen ve yalnız Türkiye için geçerli olan teminat hükmünde belgeyi,
+ifade eder.

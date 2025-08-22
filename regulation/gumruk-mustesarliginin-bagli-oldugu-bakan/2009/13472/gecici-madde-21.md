@@ -1,0 +1,3 @@
+Nihai kullanıma tabi eşya için alınmış bir teminat olmaması haline ilişkin geçiş hükmü
+GEÇİCİ MADDE 21- (Ek:RG-3/5/2023-32179)
+(1) Nihai kullanıma tabi eşyaya ilişkin alınmış bir teminat olmaması durumuyla sınırlı olarak, bu maddenin yürürlüğe girdiği tarihten önce nihai kullanım izin belgesinde öngörülen süre dolmuş ise otuz günlük gümrük idaresine başvuru süresi bu maddenin yürürlüğe girdiği tarih itibarıyla başlar. Otuz günlük süre sonuna kadar yetkilendirilmiş gümrük müşavirince düzenlenecek raporun izni veren gümrük idaresine sunulmaması halinde Yönetmeliğin 207 nci maddesinin dördüncü fıkrasında belirtilen müeyyide uygulanır.

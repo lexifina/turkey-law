@@ -1,0 +1,3 @@
+Hacim tespiti
+MADDE 59 – (1) Deniz taşıtlarının tonajlarını tayin için, belgelerinde yazılı miktarlar nazara alınır. Vergiye esas olan istiap hacmi tonilatosu belgelerinde açıkça gösterilmemiş olan veya tereddüt edilen hallerde bu durum yetkili liman makamlarından sorulur.
+(2) Gerekli görülen hallerde sıkıştırılmış gazların hacimleri gümrük laboratuvarlarında tespit olunur. Tehlikeli veya özel tedbirler alınması gerektiren bu tür eşya, yetkili resmi kuruluşlarda veya bunların bulunmadığı yerlerde özel kuruluşlarda ölçülür. Bu kuruluşlara ait olanların belgelerinde hacimleri gösterilmiş ise vergi tahakkukuna bu ölçüler esas alınır.

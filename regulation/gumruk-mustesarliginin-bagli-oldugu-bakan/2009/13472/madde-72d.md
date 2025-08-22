@@ -1,0 +1,2 @@
+Sağlık muayenesi ve pasaport işlemlerinden önce yapılacaklar
+MADDE 72/D – (1) Gemiler limana varışlarından itibaren sağlık muayenesi ve pasaport işlemleri bitinceye kadar gözetim altında bulundurulur. Gemiden eşya çıkarılmaması, gemiye eşya alınmaması, yetkililer dışında hiç kimse ile temas edilmemesi ve temas edenlerin de gümrük idaresinin bilgisi dışında gemilere eşya alıp çıkarmamaları hususunda gerekli tedbirler alınır.

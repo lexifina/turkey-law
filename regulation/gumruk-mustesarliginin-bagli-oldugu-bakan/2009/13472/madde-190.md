@@ -1,0 +1,3 @@
+Eksik muayenenin tamamlanması
+MADDE 190 – (1) Muayene ile görevli memurlar henüz gümrük gözetimi altında bulunan muayenesini yaptıkları eşyayı, bir hatanın düzeltilmesi veya muayenede eksik bırakılan hususların tamamlanması gibi geçerli sebeplerle yeniden muayene edebilir. Bu takdirde durum, görevli memurlarca beyanname üzerinde gösterilerek bilgisayar sisteminde onaylanır ve/veya altı imzalanır.
+(2) Muayene ile görevli memurlarca kendilerine havale edilmiş beyanname kapsamı eşyanın muayenesi herhangi bir nedenle tamamlanamadığı takdirde, bilgisayar sisteminde muayene ile görevli memur değişikliği yapılır ve durum nedenleri ile beyanname üzerinde belirtilmek suretiyle idare amirinin oluru alındıktan sonra muayene diğer bir memur tarafından tamamlanır.

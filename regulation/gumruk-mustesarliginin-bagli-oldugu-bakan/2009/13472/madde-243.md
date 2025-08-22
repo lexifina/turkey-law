@@ -1,0 +1,3 @@
+Belirgin bir şekilde farklı cinste eşya
+MADDE 243 – (Değişik:RG-1/4/2020-31086)
+(1) Türkiye Gümrük Bölgesine getirilen ve varış gümrük idaresine karayolu ile sevk edilmek üzere transit rejimine konu edilen serbest dolaşımda olmayan eşyanın, giriş gümrük idaresinde yapılan kontrol veya muayene sonucunda, beyan edilenden belirgin bir şekilde farklı cinste olduğunun tahlil, teknik inceleme ve araştırmaya gerek olmaksızın tespiti hâlinde fiilin niteliğine göre Kanunun 235 inci maddesinin beşinci fıkrasının (a) veya (b) bentleri uyarınca idari para cezasının uygulanmasını müteakip eşyanın sevkine izin verilir.

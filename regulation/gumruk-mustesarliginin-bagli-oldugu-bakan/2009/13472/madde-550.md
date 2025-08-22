@@ -1,0 +1,14 @@
+Rafineriler için yıl sonu muvazene işlemleri
+MADDE 550 – (1) Çıkış işlemlerine esas alınan miktarlar, gerçek çıkış miktarları olduğundan, vergilendirme yönünden ayrıca bir işlem yapılmaz.
+(2) Antrepo işleticisi tarafından tutulan stok kayıtlarının, antrepoya alınan eşya miktarı ile verimlilik oranı uygulandıktan sonra elde edilen ürün miktarını ve dolayısıyla herhangi bir zamanda mevcut eşya stokunu göstermesi gerekir. Gümrük idaresi, bu kayıtları her zaman kontrol edebilir. Ayrıca rafineri idaresinin bilanço dönemi sonunda bilançosu ile stok kayıtları karşılaştırılır.
+a) Mamul çıkışlarının karşılaştırılması:
+1) Çıkış için tartı pusulaları esas alındığına, vergilendirme bu miktarlar üzerinden yürütüldüğüne ve diğer taraftan rafineri idaresi de muhasebe kayıtlarına intikal ettirdiği miktarları aynı pusulalar uyarınca tespit ettiğine göre; rafineri idaresinin yıllık hesap dönemi sonunda düzenlediği bilanço veya imal raporlarındaki miktarlarla, gümrük idaresince vergileri tahakkuk ettirilen yıllık çıkış miktarları arasında bir fark bulunmaması gerekir.
+2) Bu nedenle rafineri idaresi yıl sonunda düzenlendiği yıllık imalat raporları, yıllık satış raporları ve bu verilerin yer aldığı yıllık mizan ve bilançolarının yetkililerce tasdik edilmiş birer örneğini gümrük idaresine verir.
+3) Gümrük idaresi, tartı pusulalarına istinaden elde ettiği ithalat neticeleriyle, rafineri idaresinin yıl sonu muhasebe işlemlerine göre bulduğu neticeyi karşılaştırır.
+4) Karşılaştırma sonucunda, vergileri ödenen ithal rakamları, rafineri idaresinin muhasebe kayıtlarında gösterdiği rakamlara uygunsa, verilen belgeler üzerinde bu husus şerh edilir ve bir dosyaya konularak saklıya kaldırılır.
+5) Şayet, muhasebeleştirilen miktar, vergileri ödenmiş olan miktardan fazla ise, onbeş gün içerisinde sebebinin izahı istenilir. Şayet cevap verilmez veya sebebi izah olunamazsa, bu takdirde aradaki farka isabet eden miktar için vergiler tahakkuk ettirilerek tahsil edilir veya teminatından mahsup edilir.
+6) Eğer muhasebeleştirilen miktar, vergileri ödenmiş olan miktardan az ise, onbeş gün içerisinde sebebinin izahı istenilir.
+7) Şayet farkın mükerrer vergilendirmeden meydana geldiği veya sair mücbir bir sebebe dayandığı kanıtlanamazsa durum ilgili mercilere intikal ettirilmek üzere Müsteşarlığa bildirilir.
+b) Rafineri mevcudunun tespiti:
+1) Antrepo işleticileri tarafından tutulan stok kayıtlarının rafineri sahasındaki mevcudu her zaman göstermesi zorunludur. Verimlilik oranı da göz önünde bulundurularak tespit edilen miktarlar, rafineri idaresinin yıl sonu envanter rakamları ile karşılaştırılır
+2) Karşılaştırma sonucunda kayden antrepo sahasında mevcut görülen miktar ile envanter miktarları arasında bulunacak ve yıllık ithal tutarının % 2’sini aşmayan eksik veya fazlalıklar verim marjı kabul edilir.

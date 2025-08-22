@@ -1,0 +1,8 @@
+Genel yorumlama kuralları
+MADDE 36 – (1) 34 ve 35 inci maddede geçen ek-5 ve ek-6’daki liste kapsamında bulunan ürünlerin imalatında kullanılan menşeli olmayan maddeler üzerinde gerçekleştirilen, ürüne menşe statüsü kazandıran işçilik veya işlemlerin yorumlanmasında, ek-4’te yer alan kurallar esas alınır.
+(2) Ek-5 ve ek-6’daki listede yer alan menşe kuralı, eşyanın imalatında eşyanın fabrika çıkış fiyatının belirli bir yüzde oranını aşmayacak şekilde menşeli olmayan madde kullanımını öngörmekte ise bu yüzde oranının hesaplanmasında;
+a) Kıymet deyimi, kullanılan menşeli olmayan maddelerin ithalatı esnasındaki gümrük kıymetini, bunun bilinmemesi veya tespit edilememesi halinde ise imalatın yapıldığı ülkede maddeler için ödenen tespiti mümkün ilk fiyatı,
+b) Fabrika çıkış fiyatı deyimi, elde edilen ürünün fabrika çıkış fiyatından ürünün ihracında geri ödenmiş veya ödenecek yurt içi vergilerin tenziliyle bulunan fiyatı,
+c) Montaj işlemleri sonucu oluşan kıymet deyimi, montaj işlemlerinin yapıldığı ülkede anılan ülke menşeli parçaların birleştirilmesinden ve her türlü tamamlayıcı ve kontrol mahiyetindeki işlemler ile birlikte montaj sonucunda oluşan, kar ve bu tür işlemlerden kaynaklanan genel giderler sonucu ortaya çıkan kıymet artışını,
+ifade eder.
+(3) Eşyanın üretildiği ülkeden doğrudan Türkiye’ye getirilmeyerek üçüncü bir ülke veya ülkeler yoluyla getirilmiş ve oralarda geçici depolama yerlerine ve antrepolara konmuş olsa dahi menşe ülkesi değişmez. Eşyanın geldiği ülkeden maksat Türkiye’ye en son gönderildiği veya getiren araca yüklendiği ülkedir. Başka bir ülkede antrepoya konmaksızın sadece araç değiştirilerek eşyanın getirilmesi halinde eşyanın geldiği ülke değişmez.

@@ -1,0 +1,6 @@
+Numunelerin miktarı, etiketlenmesi ve mühürlenmesi
+MADDE 199 – (1) Numunelerin miktarı, etiketlenmesi ve mühürlenmesi ile ilgili hususlar aşağıdaki gibidir.
+a) Numuneler, beyan edilen eşyayı temsil edecek şekilde ve en az iki tahlile yetecek miktarda (orijinal ambalajlı, kıymetli, az miktarda bulunan ve benzeri durumlardaki numuneler hariç, petrol ürünlerinde ve alkollerde en az 1 litre, diğer sıvı numunelerde en az ½ litre, toz örneklerde ise en az 250 gram) alınır.
+b) Gümrük idareleri aldıkları numuneler karşılığında herhangi bir bedel ödemekle yükümlü değildir.
+c) Her numune kabına ek-26’da yer alan örneğine uygun etiket yapıştırılır. Etiketler silinmeyecek sabit mürekkepli kalemle yazılır ve numune kabının kapağına değil, kabın kendisine yapıştırılır.
+ç) (Değişik:RG-22/1/2016-29601) Kapalı kaplar içine veya şişelere konan numunelerin ağızları numuneyi alan muayene ile görevli memur tarafından güvenlik mührü ya da eritilmiş mum üzerine okunaklı bir şekilde tatbik edilen mühürle kapatılır. Mum mühür tatbik edilecek numunelerin mühürlenmesinde Bakanlık tarafından bu amaçla temin edilerek personele teslim edilen şahsi sicil numarasını taşıyan mühür kullanılır. Ayrıca güvenlik bantlı ve numaralandırılmış torbalar kullanılabilir.

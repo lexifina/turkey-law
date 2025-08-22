@@ -1,0 +1,6 @@
+İhraç ürünü
+MADDE 340 – (1) Ortak depolamaya ilişkin 337 inci madde ile INF 8 formuna ilişkin 327 inci madde hükümleri saklı kalmak kaydıyla, Kanunun 93 üncü maddesinin birinci fıkrasının (b) bendi uyarınca, antrepolara konulması halinde ihracata ilişkin önlemlerden yararlanabilecek serbest dolaşımda bulunan eşya hakkında aşağıdaki hükümler de uygulanır:
+a) Gümrük antreposuna konulması halinde ihracata bağlı önlemlerden yararlanan serbest dolaşımda bulunan eşyanın üzerindeki gümrük gözetimi, eşya Kanunun 150 ve 151 inci maddelerinde öngörüldüğü şekilde Türkiye Gümrük Bölgesini terk edinceye kadar devam eder. Antrepoya konulan bu tür eşyanın ihraç edilmesi veya ihracat sayılan bir işlem veya kullanıma tabi tutulması zorunludur.
+b) İhracata bağlı önlemlerden yararlanan ve antrepo rejimine tabi tutulmuş serbest dolaşımda bulunan eşya, gümrük idaresinin izni ile elleçleme işlemlerine tabi tutulabilir. Elleçleme işlemleri sonunda eşyanın ihraç edilmesi konusunda (a) bendi hükümleri uygulanır.
+(2) İhraç eşyası, beyannamenin tescilinden sonra, Türkiye Gümrük Bölgesini terk edinceye kadar gümrük gözetimi altındadır.
+(3) Antrepoya alınması dahil, ihracat sayılan bir gümrük işlemine tabi tutulan eşya, Türkiye Gümrük Bölgesini terk etmiş sayılır ve bu tarih ihracat beyannamesine kaydedilir.

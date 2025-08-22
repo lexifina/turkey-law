@@ -1,0 +1,4 @@
+Basitleştirme izin başvurularının kabulü ve reddi ile iznin verilmesi
+MADDE 233 – (Başlığı ile Birlikte Değişik:RG-1/8/2017-30141)
+(1) İzin makamı, basitleştirmelerden yararlanma başvurusu üzerine 230 uncu maddede belirtilen genel koşullar ve varsa her bir basitleştirmeye ilişkin özel koşulları dikkate alarak izni verir veya başvuruyu reddeder. Başvurunun reddine ilişkin karar gerekçesiyle birlikte başvuru sahibine bildirilir.
+(2) İzin makamı, basitleştirmeye ilişkin bir başvuru aldığında, başvurunun tam olup olmadığını kontrol eder. Aranan belgelerin bir kısmının başvuru dosyasında yer almadığının veya eksik bilgi içerdiğinin tespit edilmesi halinde başvuru sahibine bildirilen eksiklikler bunlara ilişkin bildirimin yapıldığı tarihi müteakip en geç altmış gün içinde tamamlanır. Bu süre içerisinde tamamlanmayan başvuru yapılmamış sayılır.

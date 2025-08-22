@@ -1,0 +1,8 @@
+DÖRDÜNCÜ KISIM
+Gümrüğe Sunulan Eşyanın Boşaltılması
+Eşyanın boşaltılması
+MADDE 74 – (Değişik:RG-2/11/2011-28103)
+(1) Türkiye Gümrük Bölgesine getirilen eşya, gümrük gözetimi altında taşıttan boşaltılır. Boşaltmaya yetkili deniz, kara ve hava araçlarının sahipleri veya kaptan, pilot, sürücü veya acentenin yetkili personeli ile (Değişik ibare:RG-31/3/2012-28250) geçici depolama yeri işletmelerinin yetkili personeli tarafından eşyanın gümrük memurunun nezaretinde boşaltılmasını müteakip yirmidört saat içinde boşaltma listesi düzenlenerek gümrük memuru, taşıt sahibi, sürücüsü veya temsilcisi ile (Değişik ibare:RG-31/3/2012-28250) geçici depolama yeri işletme personeli tarafından imzalanmak suretiyle gümrük idaresine ibraz edilir. Üç nüsha olarak düzenlenip gümrük idaresince tasdik edilen bu listenin bir nüshası gümrük idaresinde kalır. İkinci nüshası eşyayı geçici depolama yerine teslim edenlere, üçüncü nüshası ise (Değişik ibare:RG-31/3/2012-28250) işletme personeline verilir. Bu işlem, gümrük idaresince uygun görülen yerlere alınan eşya için de geçerlidir.
+(2) Boşaltma listesinde eşyanın cinsi, brüt ağırlığı, kapların sayısı, cinsi, markası, numarası, taşıtın ismi ve sefer numarası gösterilir.
+(3) Eşyanın boşaltmadan önce veya boşaltma sırasında zarar görmüş veya kaplarının kırık veya bozuk olduğu tespit edilirse bu durum bir tutanakla tespit olunarak boşaltma listesi ekinde gümrük idaresine sunulur.
+(4) (Değişik:RG-12/1/2017-29946)(20) Boşaltma listesi, bilgisayar veri işleme tekniği yoluyla hazırlanarak geniş veya yerel alan ağıyla da gümrük idaresine gönderilebilir. Bu şekilde gönderilen boşaltma listesine ilişkin usul ve esaslar Bakanlıkça belirlenir.

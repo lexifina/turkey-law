@@ -1,0 +1,2 @@
+Posta veya hızlı kargo taşımacılığı yoluyla gelen eşyanın tesliminden sonra beyannamenin iptali
+MADDE 129 – (1) Posta veya hızlı kargo taşımacılığı yoluyla gelen eşyanın tesliminden sonra iade edilmesinin söz konusu olması halinde, Müsteşarlıkça belirlenecek usul ve esaslar dahilinde, beyan sahibinin beyannamenin tescil edildiği tarihten itibaren üç ay içerisinde başvuruda bulunması ve eşyanın gerçek tedarikçisine ya da tedarikçisi tarafından tayin edilen adrese geri gönderilmesi şartıyla beyanname iptal edilir.

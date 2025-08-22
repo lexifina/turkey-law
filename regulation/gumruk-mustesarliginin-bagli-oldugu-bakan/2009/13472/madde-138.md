@@ -1,0 +1,2 @@
+Kurye mektuplarının gümrükçe alınması
+MADDE 138 – (1) Görevli gümrük memurları, gümrük işlemine tabi tutulan kaplara ait kurye mektuplarını, altına veya arkasına içerdiği kapların uygun görülüp, işleminin yapıldığını yazarak imzaladıktan ve tarih attıktan sonra bağlı olduğu gümrük idaresine derhal teslim eder. Şerhlerin altına konacak imzaların üzerinde ayrıca memurun adı ve soyadı ile sicil numarası da gösterilir.

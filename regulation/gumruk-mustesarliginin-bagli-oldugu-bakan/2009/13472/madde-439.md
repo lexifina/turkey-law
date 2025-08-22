@@ -1,0 +1,6 @@
+Diplomatik muafiyetlerin uygulanmasında karşılıklılık şartı
+MADDE 439 – (1) Diplomatik muafiyet ve kolaylıkların uygulanabilmesi için, aynı muafiyet ve kolaylıkların yabancı devletler tarafından da karşılıklı olarak gösterilmiş bulunması şarttır.
+(2) Daha az muafiyet ve kolaylık gösteren devletler hakkında karşılıklı uygulanacak muafiyet ve kolaylıklar o nispette azaltılır.
+(3) Diplomat statüsündeki memurlarımıza kolaylık tanıyan ve muafiyet uygulayan yabancı devletlerin adları ve kabul ettikleri kolaylık ve muafiyet dereceleri ile yabancı devletlerin uygulamakta oldukları diplomatik muafiyetler ve kolaylıklara ait değişiklikler, Dışişleri Bakanlığı tarafından Müsteşarlığa düzenli olarak bildirilir ve bunlar gümrük idarelerine duyurulur.
+(4) Durumları gümrüklere bildirilmemiş olan devletlerin diplomasi memurları ve eşyası hakkında, Kanunda yazılı muafiyet ve kolaylıklar uygulanmayarak, keyfiyet Müsteşarlığa intikal ettirilir ve alınacak talimata göre gereği yapılır.
+(5) Diplomatik muafiyet kapsamında gelen eşya ile kültürel miras eserleri ve münhasıran misyon binası içerisinde düzenlenecek sergilere gelen her türlü eşyanın ithal, devir, satış, gümrüğe terk, bağış ve ihraç işlemleri ile ilgili her türlü ek düzenlemeyi Müsteşarlık ile karşılıklılık şartının varlığını tespit eden Dışişleri Bakanlığı müştereken yapabilir.

@@ -1,0 +1,2 @@
+Kontrole tabi olmayan hava ve deniz taşıtları
+MADDE 72/K – (1) Türk ve yabancı donanmasına mensup harp gemileri ile Türk Hava Kuvvetlerine mensup hava harp gemileri ve Bakanlar Kurulunun izni ile gelen yabancı devletlerin hava harp gemileri, içlerinde eşya bulunmaması halinde gümrük gözetimine tabi değildir. Ancak bu taşıtlar ile eşya getirilmesi durumunda gümrük işlemleri yapılmak üzere gemi kaptanı veya yetkilendireceği kişi tarafından eşya, liste halinde ilgili gümrük idaresine bildirilir.

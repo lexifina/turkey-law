@@ -1,0 +1,11 @@
+Rejimlere geçişlerde uygulanacak hükümler
+MADDE 344 – (1) Antrepo rejimine tabi olan veya olmayan eşyanın dahilde işleme ya da gümrük kontrolü altında işleme rejimine yahut bu rejimlerden antrepo rejimine veya dahilde işleme veya gümrük kontrolü altında işleme rejimlerini sona erdiren yeni rejimlere geçişlerinde aşağıdaki beyan usullerine ilişkin hükümler uygulanır;
+a) Antrepo rejimine tabi tutulmadan antrepoya konulan dahilde işleme veya gümrük kontrolü altında işleme rejimlerine tabi tutulacak eşya hakkında, 166 ıncı maddede belirtilen kayıt usulü uygulanır. Bu durumda eşyanın taşınmasına ilişkin belgelere, dahilde işleme veya gümrük kontrolü altında işleme kayıtlarına yapılan giriş sıra numarası ve tarihi yazılır.
+b) Antrepo rejimine tabi olarak depolanan eşyanın, dahilde işleme veya gümrük kontrolü altında işleme rejimlerine tabi tutulması halinde, 166 ıncı maddede belirtilen kayıt usulü uygulanır. Bu durumda, antrepo rejimi, dahilde işleme veya gümrük kontrolü altında işleme kayıtlarına yapılan girişle ibra edilir. Bu girişe ilişkin sıra numarası ve tarih gibi referanslar antrepo stok kayıtlarına geçirilir.
+c) Antrepo rejimine tabi tutulmadan depolanan dahilde işleme veya gümrük kontrolü altında işleme rejimlerine tabi, değişmemiş eşya veya işlem görmüş ürünlerin antrepo rejimine tabi tutulması halinde, 166 ıncı maddede belirtilen kayıt usulü uygulanır. Bu durumda dahilde işleme veya gümrük kontrolü altında işleme rejimleri antrepo stok kayıtlarına yapılan girişle ibra edilir. Bu kayıtlara girişlere ilişkin sıra no ve tarih gibi referanslar dahilde işleme veya gümrük kontrolü altında işleme kayıtlarına geçirilir. Ayrıca antrepo stok kayıtlarına, 536 ıncı maddede belirtilen ibarelerden uygun olanları yazılır.
+ç) Antrepolarda işleme tabi tutulan, dahilde işleme veya gümrük kontrolü altında işleme rejimine tabi değişmemiş eşya veya işlem görmüş ürünlerin;
+1) Yeniden ihraç işlemine tabi tutulmasında, 166 ncı maddede belirtilen kayıt usulü,
+2) (Mülga:RG-20/4/2024-32523)
+3) Yeniden ihracat (Mülga ibare:RG-20/4/2024-32523) dışında başka bir rejime tabi tutulmasında ilgili normal veya basitleştirilmiş usule ilişkin hükümler,
+uygulanır.
+(2) Birinci fıkra uyarınca antrepolardan çıkarılan değişmemiş eşya veya işlem görmüş ürünlerin antrepo stok kayıtlarına kaydedilmesine gerek yoktur.

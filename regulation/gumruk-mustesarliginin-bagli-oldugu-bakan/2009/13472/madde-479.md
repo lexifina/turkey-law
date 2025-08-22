@@ -1,0 +1,2 @@
+Türk bandıralı gemilerde yakıt ve kumanya defteri tutulması
+MADDE 479 – (1) Türkiye Gümrük Bölgesi dışına sefer yapan Türk bandıralı gemilerde, ek-76’da yer alan örneğe uygun yakıt ve kumanya defteri tutulur. Bu defterin sayfaları gümrük idaresince önceden tespit edilerek onanır. Bu deftere yakıt ve kumanyanın gümrük tarife istatistik pozisyonu, miktarı ve beyanname ile faturanın numara ve tarihi, yazılarak alt kısmı gümrük idaresince resmi mühürle mühürlenir ve imza edilir.

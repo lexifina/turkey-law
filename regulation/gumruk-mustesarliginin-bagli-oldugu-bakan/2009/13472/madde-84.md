@@ -1,0 +1,5 @@
+Rezerveli eşya
+MADDE 84 – (1) Kırık veya tamire muhtaç kaplar ile dağınık eşya geçici depolama yerine alınır alınmaz muayene ile görevli memur tarafından, boşaltma ile ilgili kuruluşun yetkilisi, (Değişik ibare:RG-31/3/2012-28250) işletme personeli ve geçici depolama yerinden sorumlu gümrük memuru huzurunda muayene edilerek bu eşyanın durumu bir tutanakla saptanır.
+(2) Eşya geçici depolama yerine alındıktan sonra hasara uğrarsa rezerve yerine kaldırılarak yukarıda yazılı işlemlerin yapılabilmesi için durum vakit geçirilmeden gümrük idaresine bildirilir.
+(3) (Değişik:RG-31/3/2012-28250) Rezerveli eşya bu husustaki tutanağın düzenlenmesinden sonra işletme personeli ve gümrük memurları tarafından geçici depolama yerinde ayrılmış kapalı ve muhafazalı rezerve yerine konulur. Bu yerler işletme personeli ve gümrük memurları tarafından çift kilit altında bulundurulur.
+(4) Altın, gümüş ve platin gibi kıymetli madenlerden yapılmış her türlü eşya ile mücevherat, antika, müze ve sanat eşyası da rezerve yerine konulur ve üzerlerine zarar vermeyecek şekilde mühür tatbik edilir. Söz konusu eşyanın özellikleri boşaltma listesinde ayrıntılı bir şekilde gösterilir.
