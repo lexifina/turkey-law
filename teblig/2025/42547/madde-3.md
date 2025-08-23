@@ -1,0 +1,25 @@
+Tanımlar
+MADDE 3- (1) Bu Tebliğde geçen;
+a) Akışkan: Donma sıcaklığı üzerindeki sıcaklıklarda sıvı olma durumunu,
+b) Çeşni maddesi: Bu Tebliğ kapsamındaki işlem görmüş kremalara ilave edilebilecek baharat, bal, meyve ve sebzeleri,
+c) İşlem görmüş kremalar: Krema, rekonstitüe krema ve/veya rekombine kremanın uygun işlem ve proseslere tabi tutulması yoluyla elde edilen ve aşağıda belirtilen kremalardan;
+1) Asitlendirilmiş krema: Krema, rekonstitüe krema ve/veya rekombine kremanın organik asit ve/veya asitlik düzenleyicilerin kullanılması sonucunda koagüle olarak veya olmaksızın pH değeri düşürülmüş kremayı,
+2) Çırpma krema: Çırpma işlemine tabi tutulması amaçlanan, tüketici tarafından kullanılması istendiğinde çırpma işlemini kolaylaştıracak şekilde hazırlanmış akışkan haldeki krema, rekonstitüe krema ve/veya rekombine kremayı,
+3) Fermente krema/ekşi krema: Krema, rekonstitüe krema ve/veya rekombine kremanın uygun starter kültür ile fermentasyonu sonucu pH değeri düşürülmüş, koagüle olan veya olmayan kremayı,
+4) Köpük krema: Yağsız sütteki süt yağı emülsiyonu bozulmadan, içerisine hava veya inert gaz eklenmiş akışkan krema, rekonstitüe krema ve/veya rekombine kremayı,
+5) Köpüren krema: Krema, rekonstitüe krema ve/veya rekombine kremaların, basınçlı püskürtücü bir kap içinde itici bir gazla ambalajlanması ile elde edilen ve kaptan çıktığında köpük krema haline gelen akışkan kremayı,
+6) Sıvı krema: Krema, rekonstitüe krema ve/veya rekombine kremadan, doğrudan tüketim ve/veya doğrudan kullanım amacıyla hazırlanarak ve ambalajlanarak elde edilen akışkan kremayı,
+7) Sürülebilir krema: Krema, rekonstitüe krema ve/veya rekombine kremadan, doğrudan tüketim ve/veya doğrudan kullanım amacıyla hazırlanarak ve ambalajlanarak elde edilen sürülebilir nitelikteki akışkan olmayan kremayı,
+ç) Kaymak: Sütün ve/veya kremanın tekniğine uygun şekilde en az 90 ºC de ısıl işleme tabi tutulması ve tekniğine uygun olarak soğutulması ile elde edilen süt ürününü,
+d) Krema: Sütten fiziksel olarak ayırmak suretiyle elde edilen, yağsız süt içinde yağ emülsiyonu formunda, yağca zengin akışkan süt ürününü,
+e) Krema tozu: Kremadan suyun uzaklaştırılması ile elde edilen toz süt ürününü,
+f) Rekombinasyon: Su ilave edilerek veya edilmeden, süt kuru maddesi ile süt yağının, elde edilecek ürün kompozisyonuna uygun oranda karıştırılmasını,
+g) Rekombine krema: Süt ürünlerinden, su eklenerek veya eklenmeden rekombinasyon işlemi ile elde edilen, (d) bendinde tanımlanan krema ile aynı nihai ürün karakteristiklerine sahip olan kremayı,
+ğ) Rekonstitüsyon: Suyu kısmen veya tamamen uzaklaştırılmış süt ürününe, elde edilecek ürüne uygun su/kuru madde oranını sağlayacak biçimde su ilave edilmesini,
+h) Rekonstitüe krema: Konsantre veya toz kremadan rekonstitüsyon işlemi ile elde edilen, (d) bendinde tanımlanan krema ile aynı nihai ürün karakteristiklerine sahip olan kremayı,
+ı) Starter kültür: Fermente/ekşi krema üretiminde esas olarak asitliği artırmak ve kremaya kendine özgü tat, aroma gibi özellikleri kazandırmak amacıyla kullanılan, içeriğinde laktik asit bakterilerini bulunduran mikroorganizma kültürlerini,
+i) Su: 17/2/2005 tarihli ve 25730 sayılı Resmî Gazete’de yayımlanan İnsani Tüketim Amaçlı Sular Hakkında Yönetmelikte yer alan özelliklere uygun olan insani tüketim amaçlı suları,
+j) Şeker: 20/8/2022 tarihli ve 31929 sayılı Resmî Gazete’de yayımlanan Türk Gıda Kodeksi Şeker Tebliği (Tebliğ No: 2022/10)’nde tanımlanan şekerleri,
+k) Tuz: 16/8/2013 tarihli ve 28737 sayılı Resmî Gazete’de yayımlanarak yürürlüğe giren Türk Gıda Kodeksi Tuz Tebliği (Tebliğ No: 2013/48)’nde tanımlanan tuzları,
+l) Yabancı madde: Krema ve kaymak üretiminde kullanımına izin verilen bileşenler dışında krema ve kaymakta bulunabilecek her türlü organik ve/veya inorganik maddeyi,
+ifade eder.

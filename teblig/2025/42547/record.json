@@ -1,0 +1,33 @@
+{
+  "source_id": "9.5.42547",
+  "kind": "communique",
+  "register_kind": "Tebliğler",
+  "title": "TÜRK GIDA KODEKSİ KREMA VE KAYMAK TEBLİĞİ (TEBLİĞ NO: 2025/18)",
+  "number": "42547",
+  "issuer": "Tarım ve Orman Bakanı",
+  "path": "teblig/2025/42547",
+  "source": "https://www.mevzuat.gov.tr/anasayfa/MevzuatFihristDetayIframe?MevzuatTur=9&MevzuatNo=42547&MevzuatTertip=5",
+  "source_sha256": "956b35db526d69d5d641cfcb1a6833f6310b045c4351b54156d5748a667b7d21",
+  "source_bytes": 69724,
+  "published": "2025-08-23",
+  "gazette": "32995",
+  "in_force": "2025-08-23",
+  "in_force_basis": "Resmî Gazete publication date in the official listing (23.08.2025); own commencement article: \"Bu Tebliğ yayımı tarihinde yürürlüğe girer\"",
+  "commencement_clauses": [
+    "Bu Tebliğ yayımı tarihinde yürürlüğe girer"
+  ],
+  "history": "current-text",
+  "label": "oldest version available",
+  "checked_on": "2026-11-15",
+  "word_count": 1880,
+  "text_status": "current-consolidated",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  },
+  "source_links": [
+    "9.5.42547-EK.doc"
+  ],
+  "completeness": "html-text-complete; linked annexes not fetched"
+}
