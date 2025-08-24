@@ -1,0 +1,4 @@
+Lisansüstü ikinci öğretim ve yaz okulu programları
+MADDE 11 – (1) Tezli ve tezsiz yüksek lisans için ikinci öğretim programı açılabilir. Doktora ve sanatta yeterlik için ikinci öğretim programı açılamaz.
+(2) İkinci öğretim tezli ve tezsiz yüksek lisans programları ücretli, birinci öğretim tezsiz yüksek lisans programı ücretli veya ücretsiz olarak açılabilir. Ücretli programlara kayıt yaptıran öğrencilerden alınacak öğrenim ücreti ile ders veren öğretim elemanlarının ders ücreti, ilgili mevzuat çerçevesinde enstitü yönetim kurulu tarafından belirlendikten sonra Üniversite Yönetim Kurulunun onayına sunulur.
+(3) Güz ve bahar yarıyılları dışında, yaz tatili döneminde talepte bulunulan programlar için, enstitü kurulunun önerisi ve Senatonun kararıyla yaz okulu açılabilir. Yaz okulu ile ilgili hususlar Senato tarafından belirlenir.
