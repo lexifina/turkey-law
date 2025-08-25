@@ -1,0 +1,2 @@
+Amaç ve kapsam
+MADDE 1- (1) Bu Tebliğin amacı, Birleşik Arap Emirlikleri, İtalya Cumhuriyeti ve Mısır Arap Cumhuriyeti menşeli/çıkışlı 5903.20 gümrük tarife pozisyonu altında sınıflandırılan “mensucat, poliüretanla emdirilmiş, sıvanmış, kaplanmış veya lamine edilmiş-deri taklidi/diğerleri” (poliüretan suni deri) ithalatına yönelik önlemlerin etkisiz kılınmasına karşı soruşturma açılması ve açılan soruşturmanın usul ve esaslarının belirlenmesidir.
