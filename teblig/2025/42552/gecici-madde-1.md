@@ -1,0 +1,2 @@
+Geçiş hükmü
+GEÇİCİ MADDE 1- (1) 9 uncu madde ile yürürlükten kaldırılan Dış Ticarette Risk Esaslı Kontrol Sistemi Tebliği (Ürün Güvenliği ve Denetimi: 2011/53) hükümlerine uygun olarak TAREKS’e kayıt olan firmaların, firma kullanıcılarının ve kamu kurumu kullanıcılarının yeni kayıt oluşturması gerekmez. Bu hüküm, Genel Müdürlük tarafından gerekli görülmesi halinde firmaların, firma kullanıcılarının ve kamu kurumu kullanıcılarının bilgilerinde güncelleme yapılması konusunda yapılacak düzenlemelere halel getirmez.

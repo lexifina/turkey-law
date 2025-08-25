@@ -1,0 +1,2 @@
+Amaç ve kapsam
+MADDE 1- (1) Bu Tebliğin amacı, ürün güvenliği mevzuatı ve teknik düzenlemeler uyarınca yapılan denetim, uygunluk ve izin işlemlerinin Dış Ticarette Risk Esaslı Kontrol Sistemi aracılığıyla yerine getirilmesi halinde, bu işlemlere konu olacak firmaların ve firmalar adına işlem yapacak kullanıcıların elektronik ortamda tanımlanmasına ve yetkilendirilmesine dair usul ve esasları belirlemektir.
