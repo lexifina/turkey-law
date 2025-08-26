@@ -1,0 +1,1 @@
+[1] 26/8/2025 tarihli ve 32998 sayılı Resmî Gazete’de yayımlanan değişiklikle Yönetmeliğin adı “Yeni Yüzyıl Üniversitesi Ağız Ve Diş Sağlığı Eğitim, Uygulama ve Araştırma Merkezi Yönetmeliği” iken metne işlendiği şekilde değiştirilmiştir.
