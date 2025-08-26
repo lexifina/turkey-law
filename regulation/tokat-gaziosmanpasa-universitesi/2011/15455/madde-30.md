@@ -1,0 +1,5 @@
+Ağırlıklı başarı ortalaması
+MADDE 30 – (1) Ağırlıklı başarı ortalaması, dönem not ortalaması ve genel not ortalaması ile tanımlanır. Dönem not ortalaması, o yarıyıla ait bütün derslerin notları ile kredilerinin çarpımları toplamının derslerin toplam krediye bölünmesiyle bulunur. Genel not ortalaması, öğrencinin öğrenimi süresince aldığı kredili tüm derslerin başarı notları ile kredilerinin çarpımından elde edilen rakamın toplam krediye bölünmesi ile bulunur. Ağırlıklı başarı ortalaması hesaplanırken bölme işleminde virgülden sonra iki basamak yürütülür.
+(2) (Değişik:RG-7/6/2016-29735) Dikey geçiş ile lisans programlarına yerleşen ve halen kayıtlı olan öğrencilerin lisans not ortalamaları, ön lisans programında alarak lisans programında intibakı yapılan dersler ile lisans eğitimi sırasında aldığı dersler üzerinden hesaplanır.
+(3) (Değişik:RG-29/6/2015-29401) Öğrencilerin başarı notu sıralamaları, her dönem için bütünleme sınavları bitimi tarihi itibariyle hesaplanır.
+(4) (Ek:RG-1/8/2014-29075) (Mülga:RG-11/3/2018-30357)

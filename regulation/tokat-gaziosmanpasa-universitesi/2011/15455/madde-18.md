@@ -1,0 +1,2 @@
+Öğrenci değişim programları
+MADDE 18 – (1) Üniversite öğrencileri ulusal veya uluslararası öğrenci değişim programı kapsamında, yurt içi veya yurt dışı yükseköğretim kurumlarının aynı düzey diploma programlarından yararlanabilirler. Bu kapsamda almış oldukları derslere ait başarı notları, ilgili yönetim kurulu tarafından, başarı notları üniversite not sistemiyle uyumluysa aynı, uyumlu değilse uyumlu hale getirilerek transkripte işlenmesine karar verilir.

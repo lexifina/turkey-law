@@ -1,0 +1,3 @@
+Yatay geçiş
+MADDE 8 – (1) Üniversiteye bağlı lisans ve önlisans diploma programları ile diğer üniversitelerin lisans ve önlisans diploma programlarına veya Üniversiteye bağlı bölüm ve programlar arası geçiş yapmak isteyenlere; 24/4/2010 tarihli ve 27561 sayılı Resmî Gazete’de yayımlanan Yükseköğretim Kurumlarında Önlisans ve Lisans Düzeyindeki Programlar Arasında Geçiş, Çift Anadal, Yandal ile Kurumlar Arası Kredi Transferi Yapılması Esaslarına İlişkin Yönetmelik ve ilgili diğer mevzuat hükümleri uygulanır.
+(2) Yükseköğretim kurumları arasında yatay geçiş kontenjanları ilgili kurullarca tespit edilir ve süresi içerisinde Rektörlüğe bildirilir.

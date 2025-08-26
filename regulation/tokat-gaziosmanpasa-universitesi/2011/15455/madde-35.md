@@ -1,0 +1,11 @@
+İlişik kesme ve kayıt silme
+MADDE 35 – (Başlığı ile birlikte değişik:RG-24/4/2017-30047)
+(1) Öğrencilerin kayıt silme ve Üniversite ile ilişiklerinin kesilme halleri aşağıda belirtilmiştir.
+a) Üniversiteden çıkarma cezası almış olanların kaydı silinir.
+b) Üniversiteye kayıt sırasında, sahte veya yanlış bilgi ve belge verdikleri sonradan anlaşılan öğrencilerin, bulundukları yarıyıla bakılmadan, ilgili yönetim kurulu kararı ile Üniversite ile ilişiği kesilir. Söz konusu öğrenciler, Üniversiteden ayrılmışlarsa, kendilerine verilen diploma dâhil belgelerin tümü iptal edilir ve haklarında ilgili mevzuat hükümlerine göre işlem yapılır.
+c) (Değişik:RG-10/11/2023-32365) Öğrenciler, kayıt silme formu ile başvuruda bulunarak kayıtlarını sildirebilirler. Öğrencinin, kayıt sildirme isteğine ilişkin formun kayda girdiği tarih ilişik kesilme tarihi olarak belirlenir ve Üniversite ile ilişiği kesilir. Bu durumdaki öğrencilere, kayıt esnasında vermiş oldukları belgeler iade edilir. Öğrencinin Üniversiteden kaydının silinmesi halinde ödemiş olduğu öğrenci katkı payı/öğrenim ücreti iade edilmez. Bu şekilde ayrılan öğrencinin yeniden kaydı yapılmaz.
+ç) Öğrencinin öğretim dili tamamen veya kısmen yabancı dil olan programların hazırlık sınıfını iki yıl içinde başarı ile tamamlayamaması halinde ilgili yönetim kurulu kararı ile ilişiği kesilir.
+d) Dört yıl üst üste katkı payı veya öğrenim ücretinin ödenmemesi ile kaydın yenilenmemesi nedeniyle, ilgili yönetim kurulu ile Senato kararı ve Yükseköğretim Kurulunun onayı ile öğrencilerin Üniversite ile ilişiği kesilir.
+e) (Değişik:RG-25/11/2021-31670) Azami öğrenim süresi sonunda, sınırsız sınav hakkı elde eden ve açılacak sınavlara, üst üste veya aralıklı olarak toplam üç eğitim-öğretim yılında hiç girmeyen öğrenci, sınırsız sınav hakkından vazgeçmiş sayılır ve Üniversite ile ilişiği kesilir.
+f) (Değişik:RG-24/1/2022-31729) Öğrencinin ek sınavlara girip girmediğine bakılmaksızın, ek sınavlar sonunda (Mülga ibare:RG-10/11/2023-32365) ders sayısını beş ve altına indiremeyen öğrencilerin Üniversite ile ilişiği kesilir.
+g) (Değişik:RG-24/1/2022-31729) Verilen ek süreler sonunda; mezuniyet için gerekli şartları yerine getirememiş olan öğrencilerin Üniversite ile ilişiği kesilir.

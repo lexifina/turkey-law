@@ -1,0 +1,22 @@
+Tanımlar
+MADDE 3 – (1) Bu Yönetmelikte geçen;
+a) Avrupa kredi transfer sistemi (AKTS): Öğrencinin bir dersi başarı ile tamamlayabilmesi için yapması gereken çalışmaların tümünü ifade eden krediyi,
+b) Devlet Konservatuarı: (Değişik ibare:RG-3/7/2022-31885) Tokat Gaziosmanpaşa Üniversitesine bağlı Devlet Konservatuarını,
+c) Dönem: Eğitim-öğretim yılının her bir yarıyılını,
+ç) (Değişik:RG-3/7/2022-31885) Fakülte: Tokat Gaziosmanpaşa Üniversitesine bağlı Tıp Fakültesi, Diş Hekimliği Fakültesi ve Hukuk Fakültesi dışındaki fakülteleri,
+d) İkinci öğretim: 19/11/1992 tarihli ve 3843 sayılı Yükseköğretim Kurumlarında İkili Öğretim Yapılması, 2547 sayılı Yükseköğretim Kanununun Bazı Maddelerinin Değiştirilmesi ve Bu Kanuna Bir Ek Madde Eklenmesi Hakkında Kanun hükümlerine göre yürütülen ikinci öğretimi,
+e) İlgili kurul: Fakültelerde fakülte kurulunu, yüksekokullarda yüksekokul kurulunu, Devlet Konservatuarında Devlet Konservatuarı Kurulunu,
+f) (Değişik:RG-22/8/2012-28389) İlgili yönetim kurulu: Fakültelerde fakülte yönetim kurulunu, yüksekokullarda yüksekokul yönetim kurulunu, Devlet Konservatuarında Devlet Konservatuarı yönetim kurulunu,
+g) Lisans: Ortaöğretim yeterliliklerine dayalı, en az sekiz yarıyıllık bir programı kapsayan yükseköğretimi,
+ğ) Meslek yüksekokulu: (Değişik ibare:RG-3/7/2022-31885) Tokat Gaziosmanpaşa Üniversitesine bağlı meslek yüksekokullarını,
+h) Önlisans: Ortaöğretim yeterliliklerine dayalı, en az dört yarıyıllık bir programı kapsayan yükseköğretimi,
+ı) Rektör: (Değişik ibare:RG-3/7/2022-31885) Tokat Gaziosmanpaşa Üniversitesi Rektörünü,
+i) Seçmeli dersler: Belli bir önlisans veya lisans öğrenimi programında yer alan ve öğrencinin seçimine bırakılan dersleri,
+j) Senato: (Değişik ibare:RG-3/7/2022-31885) Tokat Gaziosmanpaşa Üniversitesi Senatosunu,
+k) Uzaktan eğitim: Bilgi teknolojileri kullanılarak yapılan, öğrencinin derslere devamını gerektirmeyen veya kısmen gerektiren öğretim şeklini,
+l) Üniversite: (Değişik ibare:RG-3/7/2022-31885) Tokat Gaziosmanpaşa Üniversitesini,
+m) Üniversite Yönetim Kurulu: (Değişik ibare:RG-3/7/2022-31885) Tokat Gaziosmanpaşa Üniversitesi Yönetim Kurulunu,
+n) Yaz okulu programı: Bir eğitim-öğretim yılının güz ve bahar yarıyılları dışında kalan ve yaz ayları içinde uygulanan programı,
+o) Yüksekokul: (Değişik ibare:RG-3/7/2022-31885) Tokat Gaziosmanpaşa Üniversitesine bağlı yüksekokulları,
+ö) Zorunlu dersler: Bir programda öngörülen ve öğrencinin alması gerekli dersleri,
+ifade eder.

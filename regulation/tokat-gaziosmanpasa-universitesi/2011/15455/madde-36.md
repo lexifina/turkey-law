@@ -1,0 +1,2 @@
+Tebligat
+MADDE 36 – (1) Öğrencilere her türlü tebligat, İçişleri Bakanlığı Nüfus ve Vatandaşlık İşleri Genel Müdürlüğü Kimlik Paylaşım Sisteminde kayıtlı olan adrese veya Üniversitede ilan edilmek suretiyle, 11/2/1959 tarihli ve 7201 sayılı Tebligat Kanununa göre yapılır. Öğrenciler adres değişikliklerini Üniversiteye bildirmek zorundadır. Adres değişikliklerini bildirmeyen, yanlış ya da eksik bildiren öğrencilerin mevcut adreslerine tebligat yapılmış sayılır.

@@ -1,0 +1,2 @@
+Ders tekrarı
+MADDE 11 – (1) Azami sürelerde mezun olamayan öğrenciler bakımından, müfredat değişikliği veya isimleri değişmemekle birlikte ders içeriğinin değişmesi ya da ders içeriği değişmemekle birlikte aradan uzun bir sürenin geçmesi nedeniyle, gerekli görülmesi halinde, daha önce başarılı olunan derslerden hangilerinin yeniden alınacağı ilgili bölüm kurulunun önerisi ile ilgili yönetim kurulu kararı tarafından belirlenir.
