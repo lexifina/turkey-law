@@ -1,0 +1,2 @@
+Amaç ve kapsam
+MADDE 1- (1) Bu Tebliğin amacı; 7325.91.00.00.00 ve 7326.11.00.00.00 Gümrük Tarife İstatistik Pozisyonları altında sınıflandırılan eşyaların ithalatında 6/8/2025 tarihli ve 10174 sayılı Cumhurbaşkanı Kararı ile yürürlüğe konulan Öğütücü Bilya İthalatında Korunma Önlemi Uygulanmasına İlişkin Karar kapsamında, ek mali yükümlülük şeklinde uygulanan korunma önleminden muafiyet sağlanması amacıyla açılan tarife kontenjanının kullanım usul ve esaslarının düzenlenmesidir.
