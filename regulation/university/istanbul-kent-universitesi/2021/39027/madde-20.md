@@ -1,0 +1,5 @@
+Mazeretler ve İzinler, Mezuniyet Notu ve Diplomalar
+Kayıt dondurma
+MADDE 20 – (1) Öğrencilerin kaydı, ilgili yılın öğretim ücretlerini ödemek koşulu, haklı ve geçerli sebepler olması şartıyla, Fakülte Yönetim Kurulu kararı ile bir kerede iki yarıyılı geçmemek üzere en çok dört yarıyıl dondurulabilir. Bu süreler normal ve azami öğrenim süresinden sayılmaz.
+(2) Askerlik, hastalık, doğal afetler veya önceden bilinmeyen diğer sebeplerin belgelendirilmesi şartıyla kayıt dondurulabilir.
+(3) Kaydı dondurulan öğrenciler, eğitim-öğretim faaliyetlerine katılamaz ve o dönemdeki vize ve final sınavlarına giremez. Kayıt dondurma isteklerinin yarıyıl başında ve ders kayıt süresi bitmeden yapılması gerekir. Bu süreler bittikten sonra, ancak sağlık sorunları, askerlik, afet ve benzeri olağanüstü durumlarda başvuruda bulunulabilir. Bu nedenle yapılacak başvurular için, sağlık kuruluşlarından sağlık raporu alınması, bu rapor süresinin kayıt dondurulacak yarıyılın zorunlu devam süresini kapsaması ve askerlik, afet ve benzeri durumların belgelendirilmesi gerekir.

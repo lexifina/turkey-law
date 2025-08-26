@@ -1,0 +1,2 @@
+Kayıt yenileme ve ders alma
+MADDE 8 – (1) Öğrenci her yarıyıl başında, akademik takvimde belirtilen süre içinde, öğrenci katkı payını/öğrenim ücretini yatırdıktan sonra, üniversite bilgi sistemi üzerinden elektronik ortamda ders programını oluşturur ve danışmanının ders programını onaylaması ile kaydı yenilenir. Programını belirlenen tarihte oluşturmayan öğrenci, mazereti Fakülte Yönetim Kurulu tarafından kabul edildiği takdirde, ders alma-bırakma günlerinde programını oluşturabilir.

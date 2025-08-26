@@ -1,0 +1,3 @@
+Eğitim süresi
+MADDE 7 – (1) Fakültede eğitim-öğretim süresi beş yıldır. Öğrenciler, azami sekiz yıl içinde Diş Hekimliği programını tamamlamak zorundadırlar. Öğrenim süresinin hesaplanmasında, yabancı dil hazırlık programında geçen süre ile 24 üncü ve 25 inci maddelerde belirtilen süreler dikkate alınmaz. Bu süre içinde mezun olamayanlar hakkında 2547 sayılı Kanun hükümleri uygulanır.
+(2) Eğitim-öğretim yıl esasına göre yapılır. Her akademik yıl güz ve bahar olmak üzere iki yarıyıldan ve her yarıyıl en az 14 haftadan (en az yetmiş iş günü) en çok 16 haftadan (seksen iş günü) oluşur. Cumartesi, pazar ve resmi tatil günleri ile yarıyıl sonu sınavlarının günleri bu sürenin dışındadır.

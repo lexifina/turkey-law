@@ -1,0 +1,31 @@
+{
+  "act_path": "regulation/university/istanbul-kent-universitesi/2021/39027",
+  "availability": "text",
+  "checked_on": "2026-11-14",
+  "commencement_clauses": [
+    "MADDE 32 – (1) Bu Yönetmelik 2021-2022 eğitim-öğretim yılı başından geçerli olmak üzere yayımı tarihinde yürürlüğe girer."
+  ],
+  "date_quote": "RG-26/8/2025",
+  "first_law": null,
+  "gazette": "31646",
+  "history": "current-text",
+  "images": {
+    "deferred": 0,
+    "omitted": 0,
+    "referenced": 0,
+    "source": 0
+  },
+  "in_force": "2025-08-26",
+  "in_force_basis": "latest source-printed amendment Gazette date; current consolidated text",
+  "issuer": "İstanbul Kent Üniversitesi",
+  "issuer_slug": "istanbul-kent-universitesi",
+  "kind": "regulation",
+  "published": "2021-11-01",
+  "source": "https://www.mevzuat.gov.tr/anasayfa/MevzuatFihristDetayIframe?MevzuatTur=8&MevzuatNo=39027&MevzuatTertip=5",
+  "source_id": "8.5.39027",
+  "source_sha256": "22b26937bed9e7aef78a50a4c4e16d279f73c33ec76d41c043e8d03401010a99",
+  "title": "İSTANBUL KENT ÜNİVERSİTESİ DİŞ HEKİMLİĞİ FAKÜLTESİ EĞİTİM-ÖĞRETİM VE SINAV YÖNETMELİĞİ",
+  "university_id": 468,
+  "version_label": "oldest version available",
+  "word_count": 4495
+}

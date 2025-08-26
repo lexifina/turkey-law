@@ -1,0 +1,11 @@
+Dersler
+MADDE 12 – (1) Eğitim-öğretim programında, zorunlu ve seçmeli derslerin birlikte yer aldığı klasik ve bütünleşmiş eğitim sistemi uygulanır. Dersler; zorunlu ortak, zorunlu, ön şart, ön şartlı ve seçmeli dersler olarak eğitim ve öğretim planında yer alır. Fakültede ders geçme sistemi uygulanır.
+(2) Zorunlu ortak dersler; 2547 sayılı Kanunun 5 inci maddesinde yer alan Atatürk İlkeleri ve İnkılap Tarihi, Türk dili ve yabancı dil dersleridir.
+(3) Zorunlu dersler; öğrencinin mezun olabilmesi için almak ve başarılı olmak zorunda olduğu derslerdir. Bu dersler, yıllık ve yarıyıllık ders ve ders kurullarından oluşur. Zorunlu dersler ön şart ve/veya ön şartlı dersler olabilir. Bu derslere ilişkin esaslar aşağıda belirtilmiştir:
+a) Ön şart dersi; bir sonraki yılda dersin devamı niteliğinde olan teorik dersten ve dersin devamı niteliğinde olan klinik uygulamadan önce almak ve derse devam etmek şartıyla bir üst sınıfa geçilebilecek ilgili teorik ve/veya uygulama dersidir.
+b) Ön şartlı ders; öğrencinin kayıt yaptırması için bir veya birden fazla dersten başarılı olması şartını gerektiren derstir. Teorik ve uygulamalı mesleki dersler (klinik öncesi pratik uygulamalar, laboratuvar çalışmaları, klinik stajlar), bir önceki yılın tamamlayıcısı ve bir sonraki yılın hazırlayıcısı olan derslerdir.
+(4) Seçmeli dersler; ders programında üniversite seçmeli, alan içi seçmeli ve alan dışı seçmeli ders olarak açılan derslerdir. Bu derslere ilişkin esaslar aşağıda belirtilmiştir:
+a) Alan içi seçmeli derslerden başarısız olunduğunda, öğrenci, seçmeli dersi bırakma hakkını kullanılabilir ve alan içi başka bir seçmeli dersi, kaldığı dersin yerine saydırabilir. Öğrenci, yerine saydırılan yeni dersi almakla yükümlüdür.
+b) Alan dışı ve üniversite seçmeli dersler, diğer derslerle devamsızlık oluşturacak düzeyde çakışma olmaması şartıyla alınabilir.
+(5) Teorik dersler, uygulamalı dersler ve klinik uygulamalar ile ilgili hususlar, eğitim-öğretim yılı başında Eğitim Komisyonunca belirlenir ve Fakülte Yönetim Kurulunun kararını müteakip akademik takvimde belirtilen süreler içerisinde yürütülür.
+(6) Eğitim-öğretim ile ilgili ders ve plan değişiklikleri, Eğitim Komisyonunun önerisi üzerine Fakülte Kurulu kararı ve Senato onayı ile yapılır.

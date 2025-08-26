@@ -1,0 +1,9 @@
+Yatay geçiş, intibak ve muafiyet işlemleri
+MADDE 23 – (1) Fakültede; 24/4/2010 tarihli ve 27561 sayılı Resmî Gazete’de yayımlanan Yükseköğretim Kurumlarında Önlisans ve Lisans Düzeyindeki Programlar Arasında Geçiş, Çift Anadal, Yan Dal ile Kurumlar Arası Kredi Transferi Yapılması Esaslarına İlişkin Yönetmelik hükümleri ile Senato tarafından belirlenen esaslara göre yatay geçiş yapılabilir. Eğitim programına intibaklar, Eğitim Komisyonu tarafından yapılır. Yatay geçişe ve ders muafiyetine Fakülte Yönetim Kurulu karar verir. Yatay geçişler ve ders muafiyetleri aşağıdaki esaslara göre yürütülür:
+a) Üniversite içi, Üniversite dışı ve yurt dışından yapılacak yatay geçişler için kontenjanlar, ilgili mevzuat çerçevesinde Fakülte Yönetim Kurulunca belirlenir ve ilan edilir.
+b) Yatay geçişle Fakülteye kabul edilen öğrenci, daha önce aldığı ve başarılı olduğu derslerden muaf olmak için, kayıt yaptırdığı yarıyılın sonuna kadar Fakülte Yönetim Kuruluna transkripti ile başvurabilir.
+c) Muafiyet başvuruları, Eğitim Komisyonu tarafından değerlendirilir ve Fakülte Yönetim Kurulunca karara bağlanır.
+ç) Yatay geçişle kabul edilen öğrencilerin, daha önce aldıkları ve başarılı oldukları zorunlu ve alan içi seçmeli derslerin, AKTS, ders saati, kredi ve ders içeriklerinin Eğitim Komisyonu tarafından uygun bulunması sonucunda ilgili dersten muafiyetleri sağlanır.
+d) Ders kurullarında talep edilen muafiyet için, ilgili ders kurulu içindeki her bir dersin içeriğinin en az %70’inin uyumlu olması gerekir. Öğrenci, uyumsuzluk olması durumunda ilgili dersi almak zorundadır.
+e) Öğrencinin muaf sayıldığı derslerden aldığı notlar, 16 ncı madde hükümlerine uygun olarak transkriptte gösterilir ve GANO’ya dahil edilir.
+f) Yatay geçiş yapılan döneme kadar alınması gereken ders kurulları dışındaki ön koşullu derslerin alt dönemden alınmasına Fakülte Yönetim Kurulu karar verir.

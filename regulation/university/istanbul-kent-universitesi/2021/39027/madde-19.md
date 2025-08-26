@@ -1,0 +1,4 @@
+Sınav sonuçlarına itiraz
+MADDE 19 – (1) Öğrenciler; vize, final ve bütünleme sınavlarının sonuçlarına maddi hata yönünden, sonuçların ilan edildiği tarihi izleyen yedi iş günü içinde Dekanlığa yazılı olarak itiraz edebilirler. İtiraz dilekçelerinin Dekanlıkça ilgili öğretim elemanına intikal ettirilmesinden itibaren üç iş günü içerisinde ivedilikle incelemesi yapılarak sonuç ilan edilir. Bu ilandan sonra ikinci defa sınav sonucuna itiraz edilmesi halinde, Dekan, ilgili dersin öğretim elemanının da içinde bulunduğu üç kişilik komisyon kurar ve sınav belgesini yeniden inceletir. Bu inceleme bir iş günü içerisinde tamamlanarak sonuç ilan edilir. İtiraz üzerine, ilan edilen notlarda herhangi bir değişiklik olduğu takdirde, bu değişiklik Fakülte Yönetim Kurulunun kararı ile kesinleşir. Not değişikliğine ilişkin karar, Rektörlüğe ve Öğrenci İşleri Direktörlüğüne gönderilir.
+BEŞİNCİ BÖLÜM
+Kayıt Dondurma, Kayıt Silme, Disiplin, Yatay Geçiş, İntibak ve Muafiyet İşlemleri,
