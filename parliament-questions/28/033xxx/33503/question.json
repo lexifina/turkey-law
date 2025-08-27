@@ -1,0 +1,21 @@
+{
+  "record_type": "parliament-written-question",
+  "term": 28,
+  "legislative_year": 3,
+  "esas_no": "7/33503",
+  "submitted": "2025-08-27",
+  "submitted_as": "Başkanlığa geliş tarihi",
+  "mp": "Keziban KONUKCU KOK",
+  "province": "İstanbul",
+  "summary": "Bir şirket tarafından işten çıkarılan işçilerin yaşadığı mağduriyete ilişkin",
+  "status": "Süresi Geçtikten Sonra Cevaplandı",
+  "status_as_of": "2026-11-16",
+  "official_record": "https://www.tbmm.gov.tr/Denetim/Yazili-Soru-Onergesi-Detay/256dee0a-53cc-4343-b18e-0198f102a22b",
+  "source": "https://tbmm.gov.tr/Denetim/YaziliSoruOnergesiTable",
+  "source_form": "https://tbmm.gov.tr/Denetim/Yazili-Soru-Onergeleri",
+  "source_sha256": "d9a1f574f5d2538dd012ec82abefdbb6be0039906266280194a95a2e8ac6dbbf",
+  "in_force": "2025-08-27",
+  "in_force_basis": "Date the question reached the Speaker (Başkanlığa geliş tarihi) in the official TBMM written-question record; parliamentary oversight record, not law",
+  "history_type": "metadata",
+  "text_status": "metadata-only: question text, addressee and answers are in the linked official record (PDFs on cdn.tbmm.gov.tr); not transcribed here"
+}
