@@ -1,0 +1,27 @@
+{
+  "source_id": "7.5.42561",
+  "kind": "regulation",
+  "register_kind": "Kurum ve Kuruluş Yönetmelikleri",
+  "title": "TÜRKİYE BOKS FEDERASYONU ANA STATÜSÜ",
+  "number": "42561",
+  "issuer_slug": "kurum-ve-kurulus",
+  "path": "regulation/kurum-ve-kurulus/2025/42561",
+  "source": "https://www.mevzuat.gov.tr/anasayfa/MevzuatFihristDetayIframe?MevzuatTur=7&MevzuatNo=42561&MevzuatTertip=5",
+  "source_sha256": "12db4fed7eb6462b16f2f1cfa24c73f14997394440dc7e3306aca1e017cd447b",
+  "source_bytes": 208006,
+  "published": "2025-08-27",
+  "gazette": "32999",
+  "in_force": "2025-08-27",
+  "in_force_basis": "Resmî Gazete publication date in the official listing (27.08.2025)",
+  "history": "current-text",
+  "label": "oldest version available",
+  "checked_on": "2026-11-15",
+  "word_count": 11207,
+  "text_status": "current-consolidated",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  },
+  "completeness": "html-text-complete"
+}
