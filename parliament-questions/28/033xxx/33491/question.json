@@ -1,0 +1,21 @@
+{
+  "record_type": "parliament-written-question",
+  "term": 28,
+  "legislative_year": 3,
+  "esas_no": "7/33491",
+  "submitted": "2025-08-27",
+  "submitted_as": "Başkanlığa geliş tarihi",
+  "mp": "Ömer ÖCALAN",
+  "province": "Şanlıurfa",
+  "summary": "Samsun Çarşamba S Tipi Cezaevinde yaşandığı iddia edilen hak ihlallerine ilişkin",
+  "status": "Cevaplanmadığı Gelen Kağıtlarda İlan Edildi",
+  "status_as_of": "2026-11-16",
+  "official_record": "https://www.tbmm.gov.tr/Denetim/Yazili-Soru-Onergesi-Detay/d9b0b147-b50f-4a32-980b-0198ef93f600",
+  "source": "https://tbmm.gov.tr/Denetim/YaziliSoruOnergesiTable",
+  "source_form": "https://tbmm.gov.tr/Denetim/Yazili-Soru-Onergeleri",
+  "source_sha256": "d72b5942dc57cac780b10b8c249fd4f0a103ca69e7907cddfef224ffefea3771",
+  "in_force": "2025-08-27",
+  "in_force_basis": "Date the question reached the Speaker (Başkanlığa geliş tarihi) in the official TBMM written-question record; parliamentary oversight record, not law",
+  "history_type": "metadata",
+  "text_status": "metadata-only: question text, addressee and answers are in the linked official record (PDFs on cdn.tbmm.gov.tr); not transcribed here"
+}
