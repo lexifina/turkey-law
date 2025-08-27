@@ -1,0 +1,2 @@
+Dayanak
+MADDE 3- (1) Bu Yönetmelik; 4/1/2002 tarihli ve 4734 sayılı Kamu İhale Kanununun 3 üncü maddesinin birinci fıkrasının (g) bendi ile geçici 4 üncü maddesinin beşinci ve on üçüncü fıkralarına, 5/1/2002 tarihli ve 4735 sayılı Kamu İhale Sözleşmeleri Kanununa, 8/6/1984 tarihli ve 233 sayılı Kamu İktisadi Teşebbüsleri Hakkında Kanun Hükmünde Kararnameye ve 29/9/2021 tarihli ve 4518 sayılı Cumhurbaşkanı Kararı ile yürürlüğe konulan Toprak Mahsulleri Ofisi Genel Müdürlüğü Ana Statüsüne dayanılarak hazırlanmıştır.

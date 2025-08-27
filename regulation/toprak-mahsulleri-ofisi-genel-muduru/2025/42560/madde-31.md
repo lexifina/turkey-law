@@ -1,0 +1,5 @@
+Tekliflerin değerlendirilmesi
+MADDE 31- (1) Teklif mektubu ve teminat dışındaki belgelerde ihaleyi ve ihalenin esasını etkilemeyecek mahiyetteki belge ve bilgi eksikliği bulunması hâlinde ihale komisyonu tarafından belirlenecek sürede isteklilerden bu eksik belge veya bilgilerin tamamlanması istenir. Belirlenen sürede eksik belge veya bilgileri tamamlamayan istekliler değerlendirme dışı bırakılır ve geçici teminatları gelir kaydedilir. Bu ilk değerlendirme ve işlemler sonucunda belgeleri eksiksiz olan isteklilerin tekliflerinin ayrıntılı değerlendirmesine geçilir.
+(2) Yapılan değerlendirme sonucunda ihale, ekonomik açıdan en avantajlı teklifi veren isteklinin üzerinde bırakılır.
+(3) Ekonomik açıdan en avantajlı teklif, sadece fiyat esasına göre veya fiyat ile birlikte işletme ve bakım maliyeti, maliyet etkinliği, verimlilik, kalite ve teknik değer gibi fiyat dışındaki unsurlar da dikkate alınarak belirlenir.
+(4) Ekonomik açıdan en avantajlı teklifin fiyat dışındaki unsurlar da dikkate alınarak belirleneceği ihalelerde, ihale dokümanında bu unsurların parasal değerleri veya nispi ağırlıkları belirlenir.

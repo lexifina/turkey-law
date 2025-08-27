@@ -1,0 +1,2 @@
+Tekliflerin eşit çıkması hâli
+MADDE 33- (1) Birden fazla istekli tarafından aynı fiyatın teklif edildiği, koşullar ve sağlanmak istenen yararlarda eşitlik bulunduğu takdirde bu istekliler açık eksiltmeye davet edilir. İhale bu istekliler arasında yapılarak sonuçlandırılır. İhale komisyonunun ilk veya müteakip toplantılarında hazır bulunmayanlar, ihalenin yürütülme şekline ve komisyon kararlarına itiraz edemezler.

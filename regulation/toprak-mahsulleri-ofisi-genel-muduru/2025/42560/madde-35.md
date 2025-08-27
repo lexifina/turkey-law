@@ -1,0 +1,2 @@
+Protokol ile doğrudan ithalat
+MADDE 35- (1) 233 sayılı Kanun Hükmünde Kararnamenin 35 inci maddesi uyarınca Cumhurbaşkanı Kararı ile görevlendirilmesi üzerine, ilgili bakanın onayı ve Yönetim Kurulunun yetkilendirmesiyle TMO tarafından, yabancı devletlerin kendi mevzuatına göre devlet kurumu veya kuruluşu sayılanlardan, yabancı devletin ortaklığı bulunan kuruluşlardan protokol ile doğrudan ithalat yoluyla alım yapılabilir. Protokolde yer alacak hususlar ilgili bakanın onayı ile Yönetim Kurulu tarafından belirlenir.

@@ -1,0 +1,8 @@
+İhale kararının bildirilmesi ve sözleşme yapılması
+MADDE 39- (1) İhale kesinleştikten sonra sonucu, şartnamesinde belirtilen süre içerisinde ihalenin üzerinde kaldığı istekliye bildirilir. İhaleye teklif veren diğer isteklilere de ihalenin üzerinde kalıp kalmadığı ayrıca bildirilir.
+(2) Ekonomik açıdan en avantajlı teklif sahibine sözleşme yapılması için en az iki iş günü olmak üzere on iş gününe kadar süre verilir. Bu süre yabancı istekliler için beş iş günü uzatılabilir. Bu bildirim ile yüklenici şartnamede yazılı süre içinde kesin teminatını vermeye, ihale dokümanında belirtilen belgelerle birlikte ihaleyi yapan birim tarafından hazırlanan sözleşmeyi imzalamaya çağrılır. Yüklenici, şartnamedeki süre içinde idareye başvurarak kesin teminatı vermez ve/veya sözleşmeyi imzalamazsa geçici teminatı gelir kaydedilir. Bu durumda idare ekonomik açıdan en avantajlı ikinci teklif sahibiyle pazarlık yapmakta ve sözleşme imzalamakta serbesttir. İkinci sıradaki teklif sahibinin sözleşme imzalamaktan imtina etmesi hâlinde ihalenin sözleşme imzalanmayan kısmı iptal edilir.
+(3) Sözleşmenin imzalanacağı tarihte, ihale üzerinde kalan isteklinin ihalelere katılmaktan yasaklı olup olmadığının teyit edilmesi zorunludur. Yüklenicinin ortak girişim olması hâlinde sözleşme ortak girişimin bütün ortakları tarafından imzalanır.
+(4) İhale dokümanında belirtilen şartlara aykırı sözleşme düzenlenemez.
+(5) İhale dokümanında aksi belirtilmedikçe sözleşmenin notere onaylattırılması zorunlu değildir.
+(6) İhale sonucu, sözleşme imzalandıktan sonra Kamu İhale Bülteninde yayımlanmak üzere Kamu İhale Kurumuna bildirilir.
+(7) Sözleşme imzalanmadan önce idare tarafından istenilen ve şartnamesinde belirtilen belgelerin sunulması zorunludur.

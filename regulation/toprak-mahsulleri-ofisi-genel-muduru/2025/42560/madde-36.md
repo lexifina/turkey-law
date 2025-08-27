@@ -1,0 +1,3 @@
+Doğrudan temin
+MADDE 36- (1) 4734 sayılı Kanunun 22 nci maddesinin birinci fıkrasının (d) bendinde büyükşehir belediye sınırları için belirlenen ve her yıl Kamu İhale Kurumu tarafından güncellenen limitin beş katını geçmeyen hizmet alımları ihale komisyonu kurulmadan doğrudan temin yöntemi ile yapılabilir.
+(2) Bu maddeye göre yapılacak hizmet alımlarında teminat alınması, isteklilerde belli yeterlik kriterlerinin aranması ile komisyon kurulması, şartname ve sözleşme düzenlenmesi idarenin takdirindedir. Alımlarda; onay belgesi düzenlenmesi, onayı takiben ihale yetkilisince görevlendirilen personel tarafından piyasada fiyat araştırması yapılması ve buna ilişkin belgelerin dayanakları ile birlikte onay belgesine eklenmesi zorunludur.
