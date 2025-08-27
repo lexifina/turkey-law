@@ -1,0 +1,3 @@
+Soruşturma konusu eşya
+MADDE 4- (1) Soruşturma konusu eşya, 18/4/2024 tarihli ve 32521 sayılı Resmî Gazete’de yayımlanan İthalatta Haksız Rekabetin Önlenmesine İlişkin Tebliğ (Tebliğ No: 2024/10) ile 4/2/2025 tarihli ve 32803 sayılı Resmî Gazete’de yayımlanan İthalatta Haksız Rekabetin Önlenmesine İlişkin Tebliğ (Tebliğ No: 2025/2) uyarınca dampinge karşı önleme tabi olan 4412.10, 4412.31, 4412.33, 4412.34 ve 4412.39 GTP’leri altında yer alan “kontrplaklar”dır.
+(2) Önleme tabi ürünün TGTC’de yer alan tarife pozisyonunda ve/veya eşya tanımında yapılacak değişiklikler bu Tebliğ hükümlerinin uygulanmasına engel teşkil etmez.
