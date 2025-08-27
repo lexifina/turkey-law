@@ -1,0 +1,2 @@
+GEÇİCİ MADDE 4 – (Ek:RG-15/8/2018-30510)(3)
+(1) Bu maddenin yürürlük tarihinden önce kullandırılan ihtiyaç kredilerinin borç bakiyeleri, borçlu tarafından bu maddenin yürürlük tarihinden itibaren bir yıl içerisinde talep edilmesi durumunda en fazla kırk sekiz ay ile sınırlı olmak üzere yeniden yapılandırılabilir. Yeniden yapılandırma kapsamında borçluya ilave kredi kullandırılması halinde ilave kullandırılan kredinin vadesi otuz altı ayı aşamaz.

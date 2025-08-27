@@ -1,0 +1,3 @@
+Bağımsız denetim
+MADDE 16 – (1) (Değişik:RG-2/4/2015-29314) Şirketlerin bağımsız denetimi 6102 sayılı Türk Ticaret Kanunu, 26/9/2011 tarihli ve 660 sayılı Kamu Gözetimi, Muhasebe ve Denetim Standartları Kurumunun Teşkilat ve Görevleri Hakkında Kanun Hükmünde Kararname ve ilgili mevzuat çerçevesinde yapılır.
+(2) Şirketin yıl sonu konsolide olmayan mali tablolarına ilişkin bağımsız denetim raporlarının takip eden yılın 15 Nisan tarihine kadar, konut finansmanı faaliyetinde bulunmak üzere yetkilendirilen finansal kiralama ve finansman şirketlerinin yıl sonu bağımsız denetim raporuna ilaveten Haziran sonu bağımsız denetim raporlarının da 15 Ağustos tarihine kadar Kurum veritabanına raporlanması zorunludur.

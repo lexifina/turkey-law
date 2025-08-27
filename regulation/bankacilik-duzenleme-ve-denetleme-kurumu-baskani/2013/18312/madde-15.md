@@ -1,0 +1,3 @@
+Risk yönetimi
+MADDE 15 – (1) Şirket, maruz kaldığı risklerin tespiti ve değerlendirilmesi için gerekli önlemleri alır.
+(2) Konut finansmanı faaliyetinde bulunacak finansal kiralama ve finansman şirketlerinin konut finansmanı faaliyetlerinden kaynaklanabilecek riskleri yönetebilmelerini ve konut finansmanı faaliyetini etkin bir şekilde yerine getirebilmelerini teminen; münhasıran konut finansmanı faaliyetlerine yönelik risk yönetiminin şirketlerin bünyelerinde tesis edilmesi, risk yönetimi sürecinin yazılı olarak belirlenmesi ve yönetim kurullarına onaylatılması, bu konularda çalışacak uygun personel kadrosunun oluşturulması ve personelin görev tanımları ile yetki ve sorumluluklarının belirlenmiş olması gereklidir.
