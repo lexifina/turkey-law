@@ -1,0 +1,27 @@
+{
+  "source_id": "7.5.42562",
+  "kind": "regulation",
+  "register_kind": "Kurum ve Kuruluş Yönetmelikleri",
+  "title": "TÜRKİYE GELENEKSEL SPOR DALLARI FEDERASYONU ANA STATÜSÜ",
+  "number": "42562",
+  "issuer_slug": "kurum-ve-kurulus",
+  "path": "regulation/kurum-ve-kurulus/2025/42562",
+  "source": "https://www.mevzuat.gov.tr/anasayfa/MevzuatFihristDetayIframe?MevzuatTur=7&MevzuatNo=42562&MevzuatTertip=5",
+  "source_sha256": "378021b646dc7d18ae2f68e442f13865ac78aa493dd980df25ce81af40647ac0",
+  "source_bytes": 201245,
+  "published": "2025-08-27",
+  "gazette": "32999",
+  "in_force": "2025-08-27",
+  "in_force_basis": "Resmî Gazete publication date in the official listing (27.08.2025)",
+  "history": "current-text",
+  "label": "oldest version available",
+  "checked_on": "2026-11-15",
+  "word_count": 10822,
+  "text_status": "current-consolidated",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  },
+  "completeness": "html-text-complete"
+}
