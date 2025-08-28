@@ -1,0 +1,15 @@
+{
+  "number": "K-2025/383457",
+  "award_date": "2025-08-28",
+  "heading_as_published": "28.08.2025 Tarih ve K-2025/383457 Sayılı Hakem Kararı",
+  "issue": "Hakem Karar Dergisi 63 Temmuz - Eylül 2025",
+  "source_url": "https://www.sigortatahkim.org/content/CmsFiles/karardrgs63.pdf",
+  "source_sha256": "a26446748c8fda89252ceb1d6488c9450c4ca1fd548d61c44689324f15d0d6a8",
+  "text_status": "metadata-only",
+  "metadata_only_reason": "the two text extractions differ in letters/digits",
+  "source_images": 4,
+  "images_status": "issue contains images; award text taken from the text layer only",
+  "missing_components": [
+    "award text (see official issue PDF)"
+  ]
+}
