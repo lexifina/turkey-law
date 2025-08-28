@@ -1,0 +1,31 @@
+{
+  "act_path": "regulation/university/abdullah-gul-universitesi/2021/39034",
+  "availability": "text",
+  "checked_on": "2026-11-14",
+  "commencement_clauses": [
+    "MADDE 17 – (1) Bu Yönetmelik yayımı tarihinde yürürlüğe girer."
+  ],
+  "date_quote": "RG-28/8/2025",
+  "first_law": null,
+  "gazette": "31652",
+  "history": "current-text",
+  "images": {
+    "deferred": 0,
+    "omitted": 0,
+    "referenced": 0,
+    "source": 0
+  },
+  "in_force": "2025-08-28",
+  "in_force_basis": "latest source-printed amendment Gazette date; current consolidated text",
+  "issuer": "Abdullah Gül Üniversitesi",
+  "issuer_slug": "abdullah-gul-universitesi",
+  "kind": "regulation",
+  "published": "2021-11-07",
+  "source": "https://www.mevzuat.gov.tr/anasayfa/MevzuatFihristDetayIframe?MevzuatTur=8&MevzuatNo=39034&MevzuatTertip=5",
+  "source_id": "8.5.39034",
+  "source_sha256": "68712bc981b57c8ba5a04e4c2c8b8ec8d8e5cf6fabee078af5402256e4bb140b",
+  "title": "ABDULLAH GÜL ÜNİVERSİTESİ UZAKTAN EĞİTİM UYGULAMA VE ARAŞTIRMA MERKEZİ YÖNETMELİĞİ",
+  "university_id": 415,
+  "version_label": "oldest version available",
+  "word_count": 1275
+}
