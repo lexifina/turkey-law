@@ -19,26 +19,41 @@
     "referenced": 0,
     "omitted": 0
   },
-  "missing_components": [
-    {
-      "type": "annex",
-      "status": "pending",
-      "source_url": "https://www.mevzuat.gov.tr/anasayfa/21.5.10280-EK.docx",
-      "source_caption": "Ekleri için tıklayınız.",
-      "source_href": "21.5.10280-EK.docx",
-      "reason": "Separately linked component is not included in this HTML-only version."
-    }
-  ],
+  "missing_components": [],
   "text_layout": "article-files",
   "source_links": [
     {
       "type": "annex",
-      "status": "pending",
+      "status": "included-original-file",
       "source_url": "https://www.mevzuat.gov.tr/anasayfa/21.5.10280-EK.docx",
       "source_caption": "Ekleri için tıklayınız.",
       "source_href": "21.5.10280-EK.docx",
-      "reason": "Separately linked component is not included in this HTML-only version."
+      "asset": "assets/3850c73e24a57155d26931058a36cbb5af963867f0fd3c2f126b43c92fd7a602.docx",
+      "sha256": "3850c73e24a57155d26931058a36cbb5af963867f0fd3c2f126b43c92fd7a602",
+      "bytes": 26790,
+      "resolved_source_url": "https://www.mevzuat.gov.tr/MevzuatMetin/21.5.10280-EK.docx",
+      "link_source": "https://www.mevzuat.gov.tr/MevzuatMetin/21.5.10280.pdf",
+      "link_source_sha256": "080534a40befca999dbd03bd241588ecd711e3678809d40e8d64a3ab437897b8",
+      "link_source_page": 8,
+      "source_document_uri": "21.5.10280-EK.docx"
     }
   ],
-  "completeness": "pending-annexes"
+  "completeness": "complete-with-original-annex",
+  "annex_components": [
+    {
+      "type": "annex",
+      "status": "included-original-file",
+      "source_url": "https://www.mevzuat.gov.tr/anasayfa/21.5.10280-EK.docx",
+      "source_caption": "Ekleri için tıklayınız.",
+      "source_href": "21.5.10280-EK.docx",
+      "asset": "assets/3850c73e24a57155d26931058a36cbb5af963867f0fd3c2f126b43c92fd7a602.docx",
+      "sha256": "3850c73e24a57155d26931058a36cbb5af963867f0fd3c2f126b43c92fd7a602",
+      "bytes": 26790,
+      "resolved_source_url": "https://www.mevzuat.gov.tr/MevzuatMetin/21.5.10280-EK.docx",
+      "link_source": "https://www.mevzuat.gov.tr/MevzuatMetin/21.5.10280.pdf",
+      "link_source_sha256": "080534a40befca999dbd03bd241588ecd711e3678809d40e8d64a3ab437897b8",
+      "link_source_page": 8,
+      "source_document_uri": "21.5.10280-EK.docx"
+    }
+  ]
 }
