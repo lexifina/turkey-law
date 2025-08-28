@@ -1,0 +1,2 @@
+İlgili diğer kurum ve kuruluşların görev ve sorumlulukları
+MADDE 12- (1) İlgili diğer kurum ve kuruluşlar, gemi kaptanları, gemi komutanları, kılavuz kaptanlar ve tüm denizciler, denizcilerin can ve mal emniyetini doğrudan etkileyebileceğini değerlendirdikleri 5 inci maddede belirtilen hususları meri mevzuat kapsamında ilgili liman başkanlığına ve 6 ncı maddenin ikinci fıkrasına uygun olarak SHOD Başkanlığına bildirmekle görevli ve sorumludur.

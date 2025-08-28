@@ -1,0 +1,2 @@
+Dayanak
+MADDE 3- (1) Bu Yönetmelik, 14/4/1341 tarihli ve 618 sayılı Limanlar Kanunu, 10/6/1946 tarihli ve 4922 sayılı Denizde Can ve Mal Koruma Hakkında Kanun ve 5/11/2008 tarihli ve 5809 sayılı Elektronik Haberleşme Kanunu hükümleri ile 1 sayılı Cumhurbaşkanlığı Teşkilatı Hakkında Cumhurbaşkanlığı Kararnamesinin 478 inci maddesi ve 4 sayılı Bakanlıklara Bağlı, İlgili, İlişkili Kurum ve Kuruluşlar ile Diğer Kurum ve Kuruluşların Teşkilatı Hakkında Cumhurbaşkanlığı Kararnamesinin 394 üncü, 396 ncı ve 401 inci maddelerine dayanılarak hazırlanmıştır.

@@ -1,0 +1,2 @@
+Tesis yaptıran veya işleten kurum ve kuruluşların görev ve sorumlulukları
+MADDE 11- (1) Tesis yaptıran veya işleten kurum ve kuruluşlar, inşa ettikleri ve/veya işletiminden sorumlu oldukları tesisleri periyodik olarak kontrol edip izleyerek seyir emniyetine tehlike oluşturabilecek cisimlerin yerinden çıkma, kopma ve sürüklenmeleri durumunda tespit zamanı ile birlikte tehlike durumunu ayrıca seyir yardımcılarının arızalanması durumunda arıza durumunu en seri vasıta ile ilgili liman başkanlığına bildirmekle görevli ve sorumludur.

@@ -1,0 +1,12 @@
+SHOD Başkanlığının yetki, görev ve sorumlulukları
+MADDE 8- (1) Seyir duyurularının S-53 formatına uygun olarak hazırlanmasından ve tasnif edilmesinden sorumlu kurum olan Seyir Duyuruları Ulusal Koordinatörü SHOD Başkanlığının yetki, görev ve sorumlulukları aşağıda belirtilmiştir:
+a) Ülkemizin karasularında, içsularında ve çevre denizlerinde, denizcilerin can ve mal emniyetinin sağlanması amacıyla 5 inci madde kapsamında kendisine bildirilen seyir duyurusu hazırlanmasını gerektiren hususları değerlendirerek seyir duyurularını, Türkçe ve İngilizce olarak S-53’te belirtilen uluslararası standartlara uygun olarak hazırlamak.
+b) Seyir duyurularının yayım istasyonlarını, yayım periyotlarını belirlemek ve seyir duyurusu yayımlamakla sorumlu makamlara bildirmek.
+c) NAVTEX servis sahası dışındaki bölgesel duyuruları ve kıyı duyurularını, NAVAREA Saha Koordinatörüne ve/veya ilgili ülkenin ulusal koordinatörüne iletmek.
+ç) Yayımlanmak üzere ilettiği duyuruların doğru olarak yayımlandığını kontrol etmek ve hatalı olması durumunda düzeltilmesi için gerekli işlemleri yapmak.
+d) Her takvim yılı başında “0001” den başlamak üzere bölgesel duyuruları, kıyı duyurularını ve yerel duyuruları ayrı ayrı olmak üzere ayırt edici şekilde numaralandırmak.
+e) Seyir duyurularını ilgili kaynak bilgileri ile birlikte süresiz olarak arşivlemek.
+f) İnşa faaliyetleri veya tabiat olayları neticesinde sahil hattı veya derinliklerde seyir emniyetini tehlikeye düşürecek değişiklikler olması durumunda hidrografik mesaha icra ederek veya liman başkanlıkları vasıtasıyla gönderilen üçüncü şahısların yaptırdıkları mesaha çalışma sonuçlarını değerlendirerek ilgili harita ve notik yayınların güncellenmesini sağlamak ve HDİB ve/veya yeni yayın haritalar ile denizcilere duyurmak.
+g) Yeni tesis edilen, yerleri değiştirilen, faaliyetleri geçici veya sürekli durdurulan, özelliği değiştirilen, arızalanan veya önemli hasara uğrayan her türlü seyir yardımcısı bilgilerinin denizcilere duyurulmasını sağlamak ve ilgili harita ve notik yayınları güncelleyerek HDİB ile denizcilere duyurmak.
+ğ) Görev ve yetkileri dâhilinde olmak üzere, IHO veya ilgili diğer uluslararası kuruluşlar bünyesindeki seyir duyurularına yönelik gelişmeleri takip ederek gerekli düzenlemeleri yapmak.
+h) Gerekli görülen durumlarda, 5 inci maddenin birinci fıkrasında belirtilen hâller dışında kalan ve yabancı istasyonlardan yapılmış olan seyir duyurularına karşı yapılan itiraz niteliğindeki karşı seyir duyurularını SHOD resmi internet sitesinde süresiz olarak yayımlamak.

@@ -1,0 +1,44 @@
+{
+  "id": "presidency-regulation-10280",
+  "number": "10280",
+  "kind": "regulation",
+  "issuer": "presidency",
+  "title": "DENİZ VE İÇSULAR SEYİR DUYURULARI YÖNETMELİĞİ",
+  "published": "2025-08-28",
+  "enacted": "2025-08-27",
+  "gazette_number": "33000",
+  "in_force": "2025-08-28",
+  "in_force_basis": "Official commencement clause: \"Bu Yönetmelik yayımı tarihinde yürürlüğe girer.\"; Resmî Gazete 2025-08-28, no amendment annotation in this source text.",
+  "history": "current-only",
+  "version_label": "oldest version available",
+  "first_law": null,
+  "source": "https://www.mevzuat.gov.tr/anasayfa/MevzuatFihristDetayIframe?MevzuatNo=10280&MevzuatTur=21&MevzuatTertip=5",
+  "source_sha256": "24e9a73350aadabac80b108b7eb0a533e68e16936124c7ea5109ec7203fc1d62",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  },
+  "missing_components": [
+    {
+      "type": "annex",
+      "status": "pending",
+      "source_url": "https://www.mevzuat.gov.tr/anasayfa/21.5.10280-EK.docx",
+      "source_caption": "Ekleri için tıklayınız.",
+      "source_href": "21.5.10280-EK.docx",
+      "reason": "Separately linked component is not included in this HTML-only version."
+    }
+  ],
+  "text_layout": "article-files",
+  "source_links": [
+    {
+      "type": "annex",
+      "status": "pending",
+      "source_url": "https://www.mevzuat.gov.tr/anasayfa/21.5.10280-EK.docx",
+      "source_caption": "Ekleri için tıklayınız.",
+      "source_href": "21.5.10280-EK.docx",
+      "reason": "Separately linked component is not included in this HTML-only version."
+    }
+  ],
+  "completeness": "pending-annexes"
+}
