@@ -1,0 +1,33 @@
+{
+  "source_id": "9.5.42566",
+  "kind": "communique",
+  "register_kind": "Tebliğler",
+  "title": "İTHALATTA HAKSIZ REKABETİN ÖNLENMESİNE İLİŞKİN TEBLİĞ (TEBLİĞ NO: 2025/21)",
+  "number": "42566",
+  "issuer": "Ticaret Bakanı",
+  "path": "teblig/2025/42566",
+  "source": "https://www.mevzuat.gov.tr/anasayfa/MevzuatFihristDetayIframe?MevzuatTur=9&MevzuatNo=42566&MevzuatTertip=5",
+  "source_sha256": "b62744e2ed3cdf5640eea5f18930953f95b2a6eb3cbfd8fff0199e368db51d08",
+  "source_bytes": 31944,
+  "published": "2025-08-28",
+  "gazette": "33000",
+  "in_force": "2025-08-28",
+  "in_force_basis": "Resmî Gazete publication date in the official listing (28.08.2025); own commencement article: \"Bu Tebliğ yayımı tarihinde yürürlüğe girer\"",
+  "commencement_clauses": [
+    "Bu Tebliğ yayımı tarihinde yürürlüğe girer"
+  ],
+  "history": "current-text",
+  "label": "oldest version available",
+  "checked_on": "2026-11-15",
+  "word_count": 743,
+  "text_status": "current-consolidated",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  },
+  "source_links": [
+    "9.5.42566-Ek.zip"
+  ],
+  "completeness": "html-text-complete; linked annexes not fetched"
+}
