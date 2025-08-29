@@ -1,0 +1,2 @@
+Amaç ve kapsam
+MADDE 1- (1) Bu Tebliğin amacı, yerli üretici Türkiye Şişe ve Cam Fabrikaları A.Ş. firması tarafından yapılan ve Gürok Turizm ve Madencilik A.Ş. firması tarafından desteklenen başvuruya istinaden Çin Halk Cumhuriyeti ve Mısır Arap Cumhuriyeti menşeli 70.13 gümrük tarife pozisyonu altında sınıflandırılan “sofra, mutfak, tuvalet, yazıhane, ev tezyinatı ve benzeri işler için cam eşya (70.10 ve 70.18 pozisyonundakiler hariç)” eşya tanımlı “cam ev eşyası” ürününe yönelik bir damping soruşturması açılması ve açılan soruşturmanın usul ve esaslarının belirlenmesidir.
