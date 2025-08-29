@@ -1,0 +1,3 @@
+Sınav sonuçlarına itiraz
+MADDE 18 – (Değişik:RG-8/10/2021-31622)
+(1) Ders sorumlusu veya öğrenci maddi hata gerekçesiyle sınav sonuçlarının ilanından itibaren üç iş günü içerisinde bölüm başkanlığına dilekçe ile başvuru yaparak sınav sonuçlarının değiştirilmesini talep edebilir. Bölüm başkanlığının onayına istinaden not değişiklik talepleri dersi veren öğretim elemanı tarafından en geç iki iş günü içerisinde değerlendirilir ve varsa not düzeltmeleri akademik bilgi sistemine işlenir. Süresi içinde tamamlanamayan not düzeltmeleri için ilgili yönetim kurulu kararı gereklidir. Maddi hata başvuru ve değerlendirme evrakları dersi veren öğretim elemanı tarafından iki yıl süre ile saklanır.

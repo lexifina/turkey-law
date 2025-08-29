@@ -1,0 +1,3 @@
+Eğitim-öğretim yılı ve akademik takvim
+MADDE 6 – (1) (Değişik:RG-29/8/2025-33001) Bir eğitim-öğretim yılı, Senatonun kararıyla her biri en az on dört hafta (yetmiş iş günü) olmak üzere güz ve bahar yarıyıllarından oluşur. Yıllık program uygulanan akademik birimlerde ise eğitim-öğretimin süresi ilgili mevzuat hükümlerine göre belirlenir. Resmî tatil günleri ile yarıyıl/yıl içi ve yarıyıl/yıl sonu sınavlarının yapıldığı günler bu sürenin hesabında dikkate alınmaz.
+(2) Eğitim-öğretimin başlangıç tarihleri, kayıt yenileme tarihleri, yarıyıl/yıl sonu ve bütünleme sınav tarihlerini içeren akademik takvim, Yükseköğretim Kurulunca tespit edilen ilkeler çerçevesinde Senatoca belirlenir. Resmi tatil günleri eğitim-öğretim günlerinden sayılmaz. (Mülga cümle:RG-25/8/2011-28036) (…)

@@ -1,0 +1,8 @@
+Diplomalar
+MADDE 24 – (Değişik:RG-3/2/2015-29256)
+(1) (Değişik:RG-8/10/2021-31622) Mezuniyetlerine karar verilen öğrencilere, başardığı dersleri gösteren bölüm/programa göre ön lisans veya lisans diploması verilir.
+(2) Diplomaların hazır olmadığı durumlarda öğrencilere geçici mezuniyet belgesi de verilebilir.
+(3) (Değişik:RG-8/10/2021-31622) Yarıyıl sonu ve bütünleme sınavı sonuçlarına göre mezun olanların ilgili sınav döneminin bitimini izleyen ilk iş günü, üç ders sınavı sonucuna göre mezun olanların üç ders sınavını takip eden ilk iş günü, ek sınavla mezun olanların son ek sınavını takip eden ilk iş günü, staj sonunda mezun olanların ise stajın bittiği günü takip eden ilk iş günü mezuniyet tarihi olarak belirlenir. Değişim programları, özel öğrencilik veya yaz okulu intibakı sonucunda mezun olanlara ise intibakın yapıldığı yönetim kurulu karar tarihi mezuniyet tarihi olarak belirlenir.
+(4) Diplomasını kaybeden öğrenciye, üzerinde diploma bilgileri ve kaçıncı kez düzenlendiği bilgisi bulunan diplomanın ikinci nüshası düzenlenir.
+(5) Lisans öğrenimine devam eden öğrencilerden kayıtlı olduğu programın ilk dört yarıyılındaki alması gereken bütün dersleri almış ve başarıyla tamamlamış olanlara, kaydını sildirmesi şartıyla ön lisans diploması verilir. Ancak bu şekilde alınan diplomalara meslek belirtilmeden ilgili bölümde iki yıllık yükseköğrenim gördüğüne ilişkin ibare yazılır. Bu öğrencilerin mezuniyet tarihi ilgili yönetim kurulu karar tarihi olarak belirlenir.
+(6) (Ek:RG-29/8/2025-33001) Mezuniyet işlemleri Senato tarafından kabul edilen yönerge hükümlerine göre yürütülür.

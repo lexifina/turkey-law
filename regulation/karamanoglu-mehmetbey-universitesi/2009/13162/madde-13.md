@@ -1,0 +1,9 @@
+Kayıt dondurma
+MADDE 13 – (Mülga:RG-25/8/2011-28036) (Yeniden düzenleme:RG-5/7/2012-28344) (Değişik:RG-29/8/2025-33001)
+(1) Öğrenci haklı ve geçerli bir mazerete dayanarak ilgili birim yönetim kurulu kararı ile bir defada en çok iki yarıyıl ve öğrenim süresi boyunca toplamda en çok dört yarıyıl kayıt dondurabilir. Kayıt dondurulan süre azamî öğrenim süresinden sayılmaz. Hastalığı ve tedavi sürecinin devam etmesi nedeniyle kayıt dondurma talebinde bulunan öğrenci ile hükümlü öğrencinin mazereti ilgili birim yönetim kurulu tarafından değerlendirilir ve azamî öğrenim süresinden sayılmadan dört yarıyıldan fazla kayıt dondurulabilir. Kaydı dondurulan öğrenci bu süreler içerisinde öğrenimine devam edemez, öğrencilik haklarından faydalanamaz.
+(2) Kayıt dondurma işlemleri aşağıda belirtildiği şekilde yapılır:
+a) Zorunlu hazırlık sınıfları ile yıllık eğitim yapılan programlarda bu süre bir yıl (iki yarıyıl) olarak belirlenir.
+b) Kayıt dondurma talebi öğrenci tarafından eğitim-öğretimin başladığı ilk iki hafta içinde (yeni kaydolan öğrenci için Üniversiteye kayıt yaptırdığı tarihten itibaren dört hafta içinde) ilgili birime dilekçe ile yapılır ve birim yönetim kurulu tarafından değerlendirilir. Ancak kayıt dondurma başvuru süreleri geçtikten sonra sağlık problemleri, hükümlülük ve askerlik tecilinin kaldırılması durumlarının ortaya çıkması hâlinde süre kısıtlaması aranmaz. Bu durumlarda ilgili yarıyıla/yıla ait ders kayıtları ve varsa sınav notları iptal edilir.
+c) Azamî öğrenim süresini tamamlayan öğrenci kayıt dondurma talebinde bulunamaz.
+ç) Üniversiteye geçici olarak kayıt yaptıran öğrenci, kesin kayıt işlemi yapılana kadar geçen süre içinde kayıt dondurma talebinde bulunamaz.
+d) Kayıt dondurma süresi içinde mazereti sona eren öğrenci eğitim-öğretime devam edebilmek için ilgili akademik birime başvuruda bulunur. Yapılan başvuru, ilgili birim yönetim kurulu tarafından değerlendirilir.
