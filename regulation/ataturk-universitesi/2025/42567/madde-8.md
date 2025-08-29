@@ -1,0 +1,5 @@
+Müdür (Başhekim) ve yardımcıları
+MADDE 8- (1) Müdür (Başhekim); Rektör tarafından Tıp Fakültesinde devamlı statüde görev yapan tıp doktoru öğretim üyeleri arasından üç yıl süreyle görevlendirilir. Süresi biten Müdür (Başhekim) yeniden görevlendirilebilir. Rektör gerekli gördüğü hallerde Müdürü (Başhekimi) süresi bitmeden görevden alabilir.
+(2) Müdür (Başhekim), Merkezin amacına ve faaliyet alanlarına ilişkin görevleri ilgili mevzuat kapsamında yürütür.
+(3) Müdüre (Başhekime) çalışmalarında yardımcı olmak üzere, Müdürün önerisi üzerine Üniversitede devamlı statüde çalışan tıp doktoru öğretim üyeleri arasından en az iki en çok yedi öğretim üyesi müdür yardımcısı (başhekim yardımcısı) olarak Rektör tarafından görevlendirilir. Müdürün görevi sona erdiğinde, yardımcılarının görevi de kendiliğinden sona erer. Görev süresi biten müdür yardımcıları aynı usulle yeniden görevlendirilebilir veya süresinden önce aynı usulle görevden alınabilir.
+(4) Müdür yardımcıları, görevlendirildiği konularda Merkez hizmetlerinin yürütülmesinde Müdüre (Başhekime) yardımcı olurlar ve Müdürün (Başhekimin) görevi başında bulunmadığı zamanlarda yardımcılarından biri Müdüre vekâlet eder.
