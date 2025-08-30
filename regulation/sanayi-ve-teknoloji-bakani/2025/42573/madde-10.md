@@ -1,0 +1,6 @@
+Yönetim Kurulu
+MADDE 10- (1) Yönetim Kurulu; işletmenin en üst karar organı olup başkan dahil beş üyeden oluşur ve İşletme hizmetlerinin bu Yönetmelikte yer alan usul ve esaslar çerçevesinde yürütülmesini sağlar.
+(2) Genel Müdür, Yönetim Kuruluna başkanlık eder. Genel Müdür ve Genel Müdür Yardımcısı Yönetim Kurulunun daimî üyesidir. Diğer Yönetim Kurulu üyeleri; Bakanlık hizmet birim amirleri veya genel müdür yardımcıları arasından Bakan tarafından görevlendirilir ve gerektiğinde bu üyeler Bakan tarafından değiştirilebilir. Yönetim Kurulu ayda bir defadan az olmamak üzere salt çoğunluk ile toplanır ve kararlar toplantıya katılanların oy çokluğu ile alınır. Çekimser oy kullanılmaz. Oyların eşitliği halinde Başkanın bulunduğu taraf çoğunluğu sağlamış sayılır.
+(3) Yönetim Kurulu üyelerinin, görevlerinin başında bulunmadıkları durumlarda yerlerine vekâlet edenler Yönetim Kurulu üyesi olarak toplantıya katılırlar.
+(4) Yönetim Kurulu toplantılarının gündemini hazırlamak, toplantı tutanak, karar ve dosyalarını tutmak, haberleşmeyi yürütmek gibi sekretarya işleri, Daire Başkanlığı tarafından yerine getirilir.
+(5) Yönetim Kurulu, bu Yönetmelik kapsamındaki iş ve işlemlerden dolayı Bakana karşı sorumludur.

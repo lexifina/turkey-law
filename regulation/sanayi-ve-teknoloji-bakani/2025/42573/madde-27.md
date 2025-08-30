@@ -1,0 +1,4 @@
+Taşınmaz edinme ve yatırım projelerine katılma
+MADDE 27- (1) İşletme, faaliyetlerinde kullanılmak amacıyla Bakanlık yatırım programlarında yer alması şartıyla ve bedeli İşletme bütçesinden ödenmek suretiyle taşınmaz edinebilir. Ayrıca İşletme; organize sanayi bölgeleri, endüstri bölgeleri, teknoloji geliştirme bölgelerinde tahsis, iştirak, devir, hibe, temlik, takas ve benzeri yollarla taşınmaz edinebilir. Bu taşınmazlar, Hazine adına tescil edilmekle birlikte İşletmenin hesaplarında gösterilir.
+(2) İşletme; sanayi ve teknoloji yatırımlarıyla doğrudan bağlantılı olmak kaydıyla yatırım projeleri ve bunların zorunlu alt yapı hizmetlerinin yerine getirilmesine Yönetim Kurulu kararı ve Bakan onayıyla katılabilir.
+(3) İşletme, faaliyetleri ile ilgili olarak bağlı olduğu idareye tahsis edilmiş taşınmazları kullanabilir.
