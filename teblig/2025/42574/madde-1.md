@@ -1,0 +1,2 @@
+Amaç ve kapsam
+MADDE 1- (1) Bu Tebliğin amacı, yerli üretici Trakya Döküm San. ve Tic. A.Ş. firması tarafından yapılan ve Samsun Makine San. A.Ş. tarafından desteklenen başvuruya istinaden Mısır Arap Cumhuriyeti menşeli 7307.19 gümrük tarife pozisyonu altında sınıflandırılan “diğerleri” başlığı altındaki boru bağlantı parçalarına yönelik bir damping soruşturması açılması ve açılan soruşturmanın usul ve esaslarının belirlenmesidir.
