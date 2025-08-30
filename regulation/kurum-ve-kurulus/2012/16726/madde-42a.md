@@ -1,0 +1,4 @@
+Çanakkale Bölge Liman Başkanlığına özel hükümler (Değişik başlık:RG-14/4/2023-32163 Mükerrer)
+MADDE 42/A – (Ek:RG-24/9/2019-30898)
+(1) 1915 Çanakkale Köprüsü altından hava çekimi yetmiş metre ve daha fazla olan gemi ve deniz araçlarının geçiş yapması yasaktır. (Değişik ikinci cümle:RG-14/4/2023-32163 Mükerrer) Hava çekimi altmış altı metre ile yetmiş metre arasında olan gemi ve deniz araçlarının 1915 Çanakkale Köprüsü altından geçişlerine ilişkin usul ve esaslar İdare tarafından belirlenir.
+(2) (Değişik:RG-14/4/2023-32163 Mükerrer) Görüş mesafesi, ilgili mevzuatı ile belirlenmiş olan kritik bölgelerde 200 metreye diğer bölgelerde ise 500 metreye düştüğünde bölge başkanlığının bilgisi dahilinde bölge liman başkanlığı adına Gemi Trafik Hizmetleri Merkezi tarafından yerel deniz trafiği durdurulur. Talimatlara uymayanlar tespit edilerek bölge liman başkanlığına bildirilir.

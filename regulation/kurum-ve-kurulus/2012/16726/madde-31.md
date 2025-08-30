@@ -1,0 +1,5 @@
+Gemilerde bulunması gereken emniyet ve haberleşme cihazlarının kullanımı
+MADDE 31 – (Başlığı ile birlikte değişik:RG-22/10/2013-28799)
+(1) (Değişik:RG-20/10/2015-29508) Liman idari sahasında bulunan gemi ve deniz araçlarında mevzuat gereği bulundurulması gereken emniyet ve haberleşme cihazlarının açık ve çalışır durumda olması ve devamlı surette dinleme yapılması zorunludur. Anılan cihazların arıza yapması durumunda gemi/deniz aracı kaptan/donatanları, durumu ivedilikle en yakın liman başkanlığına bildirir. Ancak, senenin belirli dönemlerinde sefere çıkmayacak olan gemi ve deniz araçları, liman başkanlığına başvurmaları ve uygun görülmesi kaydıyla sadece bağlama yerlerinde bu cihazlarını kapatabilir.
+(2) Emniyet ve haberleşme teçhizatından ilgili mevzuata göre özel tescil ve kaydı gerekenler İdareye ve ilgili makamlara kayıt ettirilir. Kayıt ettirilen bilgiler güncel halde bulundurulur.
+(3) Gemi trafik hizmetleri sistemleri olan ya da trafik ayırım düzeni tesis edilmiş deniz alanlarında seyir halinde bulunan gemi ve deniz araçları, ilgili sektör kanallarını sürekli dinler ve verilen talimatlara uyar.

@@ -1,0 +1,3 @@
+Kocaeli Bölge Liman Başkanlığına özel hükümler (Değişik başlık:RG-14/4/2023-32163 Mükerrer)
+MADDE 42 – (1) (Değişik:RG-30/8/2025-33002) Osmangazi Köprüsü altından hava çekimi altmış dört metre ve daha fazla olan gemi ve deniz araçlarının geçiş yapması yasaktır. Hava çekimi altmış metre ile altmış dört metre arasında olan gemi ve deniz araçlarının Osmangazi Köprüsü altından geçişlerine ilişkin usul ve esaslar İdare tarafından belirlenir.
+(2) (Değişik:RG-14/4/2023-32163 Mükerrer) Görüş mesafesi İzmit Körfezinde 500 metreye düştüğünde bölge liman başkanlığının bilgisi dahilinde bölge liman başkanlığı adına Gemi Trafik Hizmetleri Merkezi tarafından yerel deniz trafiği durdurulur. Talimatlara uymayanlar tespit edilerek bölge liman başkanlığına bildirilir.

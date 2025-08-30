@@ -1,0 +1,95 @@
+{
+  "source_id": "7.5.16726",
+  "kind": "regulation",
+  "register_kind": "Kurum ve Kuruluş Yönetmelikleri",
+  "title": "LİMANLAR YÖNETMELİĞİ",
+  "number": "16726",
+  "issuer_slug": "kurum-ve-kurulus",
+  "path": "regulation/kurum-ve-kurulus/2012/16726",
+  "source": "https://www.mevzuat.gov.tr/anasayfa/MevzuatFihristDetayIframe?MevzuatTur=7&MevzuatNo=16726&MevzuatTertip=5",
+  "source_sha256": "ca8397293d5f4011d148c414f75ee76fdd66608abb815f87512b916caec4beef",
+  "source_bytes": 208964,
+  "published": "2012-10-31",
+  "gazette": "28453",
+  "in_force": "2025-08-30",
+  "in_force_basis": "latest Resmî Gazete date printed in the source amendment notes/table (\"RG-30/8/2025\") for the current consolidated text",
+  "date_evidence": [
+    [
+      "2025-08-30",
+      "RG-30/8/2025",
+      "Resmî Gazete date printed in the source amendment note"
+    ],
+    [
+      "2025-08-30",
+      "30/8/2025",
+      "Resmî Gazete date in the source amendment table"
+    ],
+    [
+      "2024-11-17",
+      "RG-17/11/2024",
+      "Resmî Gazete date printed in the source amendment note"
+    ],
+    [
+      "2024-11-17",
+      "17/11/2024",
+      "Resmî Gazete date in the source amendment table"
+    ],
+    [
+      "2023-04-27",
+      "RG-27/4/2023",
+      "Resmî Gazete date printed in the source amendment note"
+    ],
+    [
+      "2023-04-27",
+      "27/4/2023",
+      "Resmî Gazete date in the source amendment table"
+    ],
+    [
+      "2023-04-14",
+      "RG-14/4/2023",
+      "Resmî Gazete date printed in the source amendment note"
+    ],
+    [
+      "2023-04-14",
+      "14/4/2023",
+      "Resmî Gazete date in the source amendment table"
+    ],
+    [
+      "2019-09-24",
+      "RG-24/9/2019",
+      "Resmî Gazete date printed in the source amendment note"
+    ],
+    [
+      "2019-09-24",
+      "24/9/2019",
+      "Resmî Gazete date in the source amendment table"
+    ],
+    [
+      "2018-06-13",
+      "RG-13/6/2018",
+      "Resmî Gazete date printed in the source amendment note"
+    ],
+    [
+      "2018-06-13",
+      "13/6/2018",
+      "Resmî Gazete date in the source amendment table"
+    ]
+  ],
+  "commencement_clauses": [
+    "Bu Yönetmelik yayımı tarihinde yürürlüğe girer"
+  ],
+  "history": "current-text",
+  "label": "oldest version available",
+  "checked_on": "2026-11-15",
+  "word_count": 13424,
+  "text_status": "current-consolidated",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  },
+  "source_links": [
+    "7.5.16726-EK.doc"
+  ],
+  "completeness": "html-text-complete; linked annexes not fetched"
+}

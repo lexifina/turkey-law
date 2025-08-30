@@ -1,0 +1,3 @@
+Yakıt ikmal tankerlerinin ve seferden men edilmiş gemilerin kıyı tesislerinde barınması
+MADDE 35 – (1) Yakıt ikmal tankerlerinin kıyı tesisine yanaşmasına seyir, can, mal, çevre güvenliği ve emniyeti bakımından gerekli tedbirlerin alınması ve kıyı tesisi ilgilileri ile koordine sağlanması kaydıyla, liman başkanlığınca izin verilebilir.
+(2) Üzerinde haciz, ihtiyati haciz ve seferden men kararı olan gemi ve deniz araçlarının, ticari faaliyette bulunmamaları kaydıyla seyir, can, mal, çevre güvenliği ve emniyeti göz önünde bulundurularak aynı liman sahası içinde bulunan kıyı tesislerinden yararlanmalarına, kıyı tesislerinin ilgilileri ile koordineli olarak liman başkanlığınca izin verilebilir.
