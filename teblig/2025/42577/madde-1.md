@@ -1,0 +1,2 @@
+Amaç ve kapsam
+MADDE 1 – (1) Bu Tebliğin amacı, 18/12/2024 tarihli ve 32756 sayılı Resmî Gazete’de yayımlanan İthalatta Haksız Rekabetin Önlenmesine İlişkin Tebliğ (Tebliğ No: 2024/37) ile Çin Halk Cumhuriyeti menşeli 8419.11.00.00.00 gümrük tarife istatistik pozisyonu altında yer alan “gazla çalışan anında su ısıtıcılar” ürünü ithalatına yönelik başlatılan ve Ticaret Bakanlığı İthalat Genel Müdürlüğü tarafından yürütülen nihai gözden geçirme soruşturmasının tamamlanması neticesinde alınan kararın yürürlüğe konulmasıdır.
