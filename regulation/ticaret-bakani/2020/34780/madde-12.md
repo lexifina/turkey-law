@@ -1,0 +1,5 @@
+Ataması yapılacakların belirlenmesi
+MADDE 12 – (1) Başarı puanı, yazılı sınav ile sözlü sınav notlarının aritmetik ortalaması alınarak belirlenir. Başarı puanı en yüksek olan adaydan başlamak suretiyle giriş sınavı duyurusunda belirtilen atama yapılacak kadro sayısı kadar asıl adayın ismi, öğrenim dalları itibarıyla ayrı ayrı belirlenir ve sınav sonuçları Bakanlığın internet sitesinde ilan edilir. Ayrıca, sınav sonucu başarılı olan adaylara yazılı olarak bildirilir.
+(2) Giriş sınavında bir öğrenim dalına ayrılan kontenjan sayısı kadar adayın başarılı olamaması hâlinde Bakanlık, öğrenim dallarının kontenjanları arasında değişiklik yapabilir.
+(3) Yazılı ve sözlü sınavda başarılı olmak ve başarı puanları dikkate alınmak kaydıyla, giriş sınavı duyurusunda öğrenim dalları itibarıyla belirtilen kadro sayısının yarısını geçmemek üzere, giriş sınavı komisyonu tarafından belirlenen sayıda yedek aday Bakanlığın internet sitesinde ilan edilir.
+(4) Adayların başarı puanlarının aynı olması halinde sırasıyla yazılı puanı, giriş sınavına başvurduğu KPSS puanı ve yabancı dil puanı yüksek olana öncelik tanınır.

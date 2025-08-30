@@ -1,0 +1,2 @@
+Uzman yardımcısı unvanını kaybetme
+MADDE 29 – (1) Verilen ilave süre içinde tezlerini sunmayanlar, ikinci defa hazırladıkları tezleri de kabul edilmeyenler, ikinci yeterlik sınavında da başarı gösteremeyenler, ikinci yeterlik sınavı hakkını kullanmayanlar ile süresi içinde yabancı dil yeterliği şartını yerine getirmeyenler uzman yardımcısı unvanını kaybederler ve durumlarına uygun memur unvanlı kadrolara atanırlar.

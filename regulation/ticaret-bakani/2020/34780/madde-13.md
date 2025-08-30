@@ -1,0 +1,3 @@
+Ataması yapılacaklardan istenen belgeler
+MADDE 13 – (1) Giriş sınavını kazanan aday, talep edilen belgeleri sınav sonucunun yazılı olarak bildirildiği tarihi takip eden on beş gün içinde Genel Müdürlüğe teslim eder.
+(2) Gerçeğe aykırı beyanda bulunduğu tespit edilenlerin sınavları geçersiz sayılır ve atamaları yapılmaz. Bunların atamaları yapılmış olsa dahi iptal edilir. Bunlar hiçbir hak talep edemez ve haklarında 26/9/2004 tarihli ve 5237 sayılı Türk Ceza Kanununun ilgili hükümleri uygulanmak üzere Cumhuriyet Başsavcılığına suç duyurusunda bulunulur. Bu şekilde Bakanlığı yanıltanlar kamu görevlisi ise durumları çalıştıkları kurumlara bildirilir.

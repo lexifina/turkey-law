@@ -1,0 +1,3 @@
+Uzmanlığa atanma
+MADDE 28 – (1) Yeterlik sınavında başarılı olanların uzman kadrolarına atanabilmeleri, yeterlik sınavı tarihinde geçerli olan veya yeterlik sınavından itibaren en geç iki yıl içinde alınmış bulunan Almanca, Arapça, Çince, Fransızca, İngilizce, İspanyolca, Rusça dillerinin birinden YDS/e-YDS’den en az (C) seviyesinde veya dil yeterliği bakımından bunlara denkliği ÖSYM tarafından kabul edilen ve uluslararası geçerliliği bulunan belgeyi ibraz etme şartına bağlıdır.
+(2) Uzmanlığa aynı tarihte atananların kıdem sıralamaları, yazılı ve sözlü sınav puanlarının aritmetik ortalamasına göre yeterlik sınavı komisyonunca belirlenir. Söz konusu puanların eşit olması halinde, kıdem sıralamasında yazılı sınav puanı dikkate alınır.

@@ -1,0 +1,7 @@
+Yeterlik sınavı komisyonu
+MADDE 26 – (1) (Değişik:RG-30/8/2025-33002) Yeterlik sınavı komisyonu Bakan tarafından görevlendirilen Bakan Yardımcısı veya Genel Müdür başkanlığında toplam beş asıl ve beş yedek üyeden oluşur. Yeterlik sınavı için birden fazla yeterlik sınavı komisyonu oluşturulabilir.
+(2) Bakan Yardımcısının komisyon başkanı olduğu durumlarda, Genel Müdür veya Genel Müdür Yardımcısı komisyonun tabii üyesi olup kalan asıl ve yedek üyeler birim amirleri ve bunların yardımcıları arasından; Genel Müdürün komisyon başkanı olduğu durumlarda ise kalan asıl ve yedek üyeler birim amirleri ve bunların yardımcıları arasından Bakan tarafından belirlenir.
+(3) (Değişik:RG-30/8/2025-33002) Asıl üyelerin herhangi bir nedenle komisyona katılamamaları hâlinde, her bir üye için belirlenen yedek üyeler komisyona katılırlar.
+(4) Yeterlik sınavı komisyonu; yazılı sınav sorularının hazırlanması ve cevapların değerlendirilmesi, sözlü sınavın yapılması, sonuçların ilan edilmesi, itirazların sonuçlandırılması ve sınavla ilgili diğer işlemlerin yürütülmesiyle görevlidir.
+(5) Yeterlik sınavı komisyonu başkan ve üyeleri, boşanmış olsalar dahi eşlerinin, üçüncü dereceye kadar (bu derece dahil) kan ve ikinci dereceye kadar (bu derece dahil) kayın hısımlarının veya evlatlıklarının katıldıkları yeterlik sınavlarında görev alamazlar. Bunların yerine yedek üyeler katılır.
+(6) Yeterlik sınavı komisyonunun sekretarya görevi Genel Müdürlükçe yürütülür.

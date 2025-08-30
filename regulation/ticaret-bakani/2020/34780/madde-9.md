@@ -1,0 +1,7 @@
+Giriş sınavı komisyonu
+MADDE 9 – (1) Giriş sınavı komisyonu, Bakan tarafından görevlendirilen Bakan Yardımcısı ya da Genel Müdür başkanlığında toplam beş asıl ve beş yedek üyeden oluşur. Giriş sınavı için birden fazla giriş sınavı komisyonu oluşturulabilir.
+(2) Bakan Yardımcısının giriş sınavı komisyonu başkanı olduğu durumlarda, Genel Müdür veya Genel Müdür Yardımcısı giriş sınavı komisyonunun tabii üyesi olup kalan asıl ve yedek üyeler birim amirleri ve bunların yardımcıları arasından; Genel Müdürün giriş sınavı komisyonu başkanı olduğu durumlarda ise kalan asıl ve yedek üyeler birim amirleri ve bunların yardımcıları arasından Bakan tarafından belirlenir.
+(3) Giriş sınavı komisyonu üye tam sayısı ile toplanır. Giriş sınavı komisyonuna asıl üyelerin herhangi bir nedenle katılamamaları hâlinde, yedek üyeler tespit sırasına göre katılırlar.
+(4) Giriş sınavı komisyonu; 4 üncü maddenin ikinci fıkrası saklı kalmak üzere, yazılı sınav sorularının hazırlanması ve cevapların değerlendirilmesi, sözlü sınavın yapılması, sonuçların ilan edilmesi, itirazların sonuçlandırılması ve sınavla ilgili diğer işlemlerin yürütülmesiyle görevlidir.
+(5) Giriş sınavı komisyonu başkanı ve üyeleri, kendilerinin, boşanmış olsalar dahi eşlerinin, üçüncü dereceye kadar (bu derece dahil) kan ve ikinci dereceye kadar (bu derece dahil) kayın hısımlarının veya evlatlıklarının katıldıkları giriş sınavlarında görev alamazlar. Bunların yerine yedek üyeler katılır.
+(6) Giriş sınavı komisyonunun sekretarya görevi Genel Müdürlükçe yürütülür.

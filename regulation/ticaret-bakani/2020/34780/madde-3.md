@@ -1,0 +1,22 @@
+Tanımlar ve kısaltmalar
+MADDE 3 – (1) Bu Yönetmelikte geçen;
+a) Bakan: Ticaret Bakanını,
+b) Bakanlık: Ticaret Bakanlığını,
+c) Bakan Yardımcısı: Ticaret Bakanlığı Bakan Yardımcısını,
+ç) Birim: Ticaret uzmanı/ticaret uzman yardımcısının görev yaptığı Ticaret Bakanlığı merkez teşkilatı hizmet birimlerini,
+d) Birim amiri: Ticaret Bakanlığı merkez teşkilatı birim amirlerini,
+e) Genel Müdür: Ticaret Bakanlığı Personel Genel Müdürünü,
+f) Genel Müdürlük: Ticaret Bakanlığı Personel Genel Müdürlüğünü,
+g) Genel Müdür Yardımcısı: Ticaret Bakanlığı Personel Genel Müdür Yardımcısını,
+ğ) Giriş sınavı: Ticaret uzman yardımcılığı giriş sınavını,
+h) Giriş sınavı komisyonu: Ticaret uzman yardımcılığı giriş sınavı komisyonunu,
+ı) KPSS: Kamu Personel Seçme Sınavını,
+i) ÖSYM: Ölçme, Seçme ve Yerleştirme Merkezini,
+j) Taşra teşkilatı: Ticaret Bakanlığı gümrük ve dış ticaret bölge müdürlükleri, ticaret il müdürlükleri ile serbest bölge müdürlüklerini,
+k) Tez jürisi: Ticaret uzman yardımcısı tarafından hazırlanan tezi değerlendiren jüriyi,
+l) Uzman: Ticaret uzmanını,
+m) Uzman yardımcısı: Ticaret uzman yardımcısını,
+n) YDS/e-YDS: Yabancı Dil Bilgisi Seviye Tespit Sınavını/Elektronik Yabancı Dil Bilgisi Seviye Tespit Sınavını,
+o) Yeterlik sınavı: Ticaret uzmanlığı yeterlik sınavını,
+ö) Yeterlik sınavı komisyonu: Ticaret uzmanlığı yeterlik sınavı komisyonunu,
+ifade eder.
