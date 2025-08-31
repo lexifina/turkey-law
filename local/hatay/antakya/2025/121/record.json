@@ -1,0 +1,30 @@
+{
+  "number": "121",
+  "number_as_published": "121 NOLU KARAR",
+  "year": 2025,
+  "month": 8,
+  "title": "İMAR TADİL TEKLİFİ",
+  "decision_date": null,
+  "index_date": "2025-08-31",
+  "date_precision": "month",
+  "period": "Ağustos 2025",
+  "source": "https://www.antakya.bel.tr/mecliskarar/agustos-meclis-kararlari/108/",
+  "official_page": "https://www.antakya.bel.tr/mecliskarar/agustos-meclis-kararlari/108/",
+  "official_document": "https://www.antakya.bel.tr/files/121 NOLU KARAR İMAR TADİL TEKLİFİ_16157e.pdf",
+  "source_sha256": "8ad25dbfee714405f50cd2327ace3111a792e8b5564db3137c5c4c8b592909e2",
+  "issuer": "Antakya Belediye Meclisi",
+  "history_type": "metadata",
+  "text_status": "metadata-only: number and subject as published in the official listing; complete decision text is in the linked official page/document, not transcribed",
+  "in_force": "2025-08-31",
+  "in_force_basis": "The official listing gives only the month of this decision (Ağustos 2025); date set to the last day of that month (turkey-law date convention for month-only sources); exact adoption dates are in the linked official document; legal commencement not asserted",
+  "missing": [
+    "exact decision date",
+    "complete official decision text",
+    "official annexes"
+  ],
+  "law_text_complete": false,
+  "privacy_withheld": false,
+  "listing_label": "121 NOLU KARAR İMAR TADİL TEKLİFİ",
+  "file_name": "121 NOLU KARAR İMAR TADİL TEKLİFİ_16157e.pdf",
+  "year_page": "https://www.antakya.bel.tr/kararlar/2025-yili-meclis-kararlari/12/"
+}
