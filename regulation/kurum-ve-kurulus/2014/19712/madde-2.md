@@ -1,0 +1,2 @@
+Kapsam
+MADDE 2 – (1) Bu Yönetmelik, Çiftçi Kayıt Sisteminin kurulması, kullanılması, güncellenmesi ve geliştirilmesi ile ilgili kayıt işlemlerinin izlenmesi ve raporlanmasında görev alacak birimlerin belirlenmesini, görevlerin tanımlanmasını, tarımsal faaliyetle uğraşan çiftçilerin, kayıtlarının yapılması ve düzenlenmesini, uygulanacak destekleme programlarında Çiftçi Kayıt Sisteminin genel kullanımına ilişkin usul ve esasları kapsamaktadır.
