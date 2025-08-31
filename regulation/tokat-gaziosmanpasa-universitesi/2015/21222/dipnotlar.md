@@ -1,0 +1,1 @@
+[1] 31/8/2025 tarihli ve 33003 sayılı Resmî Gazete’ de yayımlanan değişiklik ile bu Yönetmeliğin adı “Tokat Gaziosmanpaşa Üniversitesi Kadın Çalışmaları Uygulama ve Araştırma Merkezi Yönetmeliği” iken, metne işlendiği şekilde değiştirilmiştir.
