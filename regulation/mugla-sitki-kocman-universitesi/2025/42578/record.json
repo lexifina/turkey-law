@@ -1,0 +1,31 @@
+{
+  "source_id": "8.5.42578",
+  "kind": "regulation",
+  "register_kind": "Üniversite Yönetmelikleri",
+  "title": "MUĞLA SITKI KOÇMAN ÜNİVERSİTESİ LİSANSÜSTÜ EĞİTİM-ÖĞRETİM YÖNETMELİĞİ",
+  "number": "42578",
+  "issuer": "MUĞLA SITKI KOÇMAN ÜNİVERSİTESİ",
+  "issuer_slug": "mugla-sitki-kocman-universitesi",
+  "path": "regulation/mugla-sitki-kocman-universitesi/2025/42578",
+  "source": "https://www.mevzuat.gov.tr/anasayfa/MevzuatFihristDetayIframe?MevzuatTur=8&MevzuatNo=42578&MevzuatTertip=5",
+  "source_sha256": "1197213cbee2a9619ff4f04bb782521bf34c822d243780827ef7698986b71187",
+  "source_bytes": 238956,
+  "published": "2025-09-01",
+  "gazette": "33004",
+  "in_force": "2025-09-01",
+  "in_force_basis": "Resmî Gazete publication date in the official listing (01.09.2025); own commencement article: \"Bu Yönetmelik 2025-2026 eğitim-öğretim yılı başında yürürlüğe girer\"",
+  "commencement_clauses": [
+    "Bu Yönetmelik 2025-2026 eğitim-öğretim yılı başında yürürlüğe girer"
+  ],
+  "history": "current-text",
+  "label": "oldest version available",
+  "checked_on": "2026-11-15",
+  "word_count": 15438,
+  "text_status": "current-consolidated",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  },
+  "completeness": "html-text-complete"
+}
