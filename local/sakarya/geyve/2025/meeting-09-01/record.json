@@ -1,0 +1,23 @@
+{
+  "number": "meeting-09-01",
+  "number_as_published": "meeting-09-01",
+  "year": 2025,
+  "title": "01.09.2025 (01092025_TARIHLI_TOPLANTI_karar_ozeti.pdf)",
+  "decision_date": "2025-09-01",
+  "source": "https://www.geyve.bel.tr/meclis-kararlari",
+  "official_document": "https://www.geyve.bel.tr/kurumlar/geyve.bel.tr/Kurumsal/Meclis/01092025_TARIHLI_TOPLANTI_karar_ozeti.pdf",
+  "source_sha256": "eac1c8874b4495519a2c5545df711dbb37bd23f8d0481568a9930cdb896648fd",
+  "issuer": "Geyve Belediye Meclisi",
+  "history_type": "metadata",
+  "text_status": "metadata-only: listing fields as published; complete decision text is in the linked official document, not transcribed",
+  "in_force": "2025-09-01",
+  "in_force_basis": "Decision date as printed in the official council listing: 01.09.2025; adoption date of the council decision; legal commencement not asserted",
+  "missing": [
+    "complete official decision text",
+    "official annexes"
+  ],
+  "law_text_complete": false,
+  "privacy_withheld": false,
+  "listing_label": "01.09.2025 (01092025_TARIHLI_TOPLANTI_karar_ozeti.pdf)",
+  "record_scope": "one official file of council decisions (meeting)"
+}
