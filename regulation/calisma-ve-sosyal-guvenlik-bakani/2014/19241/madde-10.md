@@ -1,0 +1,3 @@
+Proje başvurusunun yapılması
+MADDE 10 – (1) (Değişik:RG-12/7/2025-32954)1 Hizmet sağlayıcılar tarafından hazırlanan projeler, proje başvuru rehberinde belirtilen süre ve yöntemle çevrimiçi olarak internet üzerinden veya projenin uygulanacağı ilde yer alan il müdürlüğüne elden veya posta ile gönderilebilir. Başvuru süresinden sonra Kuruma ulaşan projelerin postaya verilme tarihleri dikkate alınır.
+(2) Engellilere yönelik faaliyette bulunan dernek veya vakıflar, varsa bağlı oldukları üst kuruluşlardan alacakları proje ile ilgili değerlendirme yazısını projeye ekler. Aksi halde projeler değerlendirilmeye alınmaz.

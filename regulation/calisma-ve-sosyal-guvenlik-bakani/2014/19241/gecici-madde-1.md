@@ -1,0 +1,2 @@
+Mevcut iş ve işlemler
+GEÇİCİ MADDE 1 – (1) Bu Yönetmeliğin yürürlüğe girdiği tarihten önce imzalanan sözleşme, protokol ve projeler ile başlatılan iş ve işlemler hakkında 26/9/2003 tarihli ve 25241 sayılı Resmî Gazete’de yayımlanan Özürlü ve Eski Hükümlü Çalıştırmayan İşverenlerden Ceza Olarak Kesilen Paraları Kullanmaya Yetkili Komisyonun Kuruluşu ile Çalışma Usul ve Esasları Hakkında Yönetmeliğin uygulanmasına devam olunur.

@@ -1,0 +1,3 @@
+Raporlama
+MADDE 13 – (1) Projenin gelişimini görmek, yapılan faaliyetlerin sonuçlarını değerlendirmek ve yapılacaklar hakkında bilgi sahibi olmak amacı ile proje süresinin ilk yarısının sonunu takip eden onbeş gün içinde ara rapor ve projenin bitişini takip eden en geç onbeş gün içinde ise nihai rapor yüklenici tarafından hazırlanarak il müdürlüğüne teslim edilir. İl müdürlüğünce uygun görülmesi halinde rapor teslimi için geçerli olan süreler iki katına kadar uzatılabilir.
+(2) Söz konusu raporlar, geçerli bir mazeret olmaksızın süresi içinde teslim edilmez ise il müdürlüğünce yükleniciye varsa kalan ödemeleri yapılmaz.
