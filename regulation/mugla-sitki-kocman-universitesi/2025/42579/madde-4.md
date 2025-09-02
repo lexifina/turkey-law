@@ -1,0 +1,22 @@
+Tanımlar
+MADDE 4- (1) Bu Yönetmelikte geçen;
+a) A1, A2, B1, B2, C1, C2: Yükseköğretim Kurulunun Türkiye Yükseköğretim Yeterlilikler Çerçevesinde ifade edilen dil seviyelerini,
+b) Ara sınav: Yabancı dil hazırlık sınıfı ve yaz okulu süresince Yüksekokul Yönetim Kurulunun belirlediği sayıda yapılan sınavı,
+c) Dil becerisi sınavı (DBS): Öğrencinin yabancı dil sınav sonucuyla muaf olmak için Senato tarafından eşdeğerliği kabul edilen ve seviyesi belirlenen sınavlardan, içeriğinde konuşma, yazma, okuma ve dinleme becerilerinden herhangi birinin eksik olması durumunda ilgili beceri/becerileri ölçmek için yapılan tamamlayıcı sınav ya da sınavları,
+ç) İsteğe bağlı hazırlık sınıfı: Öğretim dili Türkçe olan programa kayıtlı öğrencinin, programın ilk yarıyılından önce talebi halinde alabileceği yabancı dil eğitimini,
+d) İsteğe bağlı hazırlık sınıfı sınavı: Öğretim dili Türkçe olan programa kayıtlı ve yabancı dil eğitimi almak isteyen öğrencinin, programın ilk yarıyılından önce girmek zorunda olduğu sınavı,
+e) Kısmen yabancı dil eğitimi: Programda verilen derslerin toplam kredisinin en az %30’unun yabancı dilde verildiği eğitimi,
+f) Ortak zorunlu yabancı dil dersleri: 2547 sayılı Kanunun 5 inci maddesinin birinci fıkrasının (ı) bendine göre yürütülen ve Senato tarafından belirlenen yabancı dil derslerini,
+g) Ortak zorunlu yabancı dil dersleri muafiyet sınavı: Ortak zorunlu yabancı dil derslerinden muaf olmak isteyen öğrencinin girebildiği sınavı,
+ğ) Rektör: Muğla Sıtkı Koçman Üniversitesi Rektörünü,
+h) Senato: Muğla Sıtkı Koçman Üniversitesi Senatosunu,
+ı) Seviye tespit ve yeterlik sınavı (STYS): Zorunlu yabancı dil hazırlık sınıfına kabul edilen öğrencinin program için istenen yabancı dil düzeyi ile yeterliğini ölçen ve öğretimine hangi düzeyden devam edeceğini belirleyen sınavı,
+i) Üniversite: Muğla Sıtkı Koçman Üniversitesini,
+j) Yabancı dil hazırlık sınıfı: Üniversitenin Yabancı Diller Yüksekokulu tarafından yürütülen yabancı dil hazırlık eğitim-öğretimini,
+k) Yabancı dilde eğitim-öğretim: Programın öğretim müfredatının tamamının yabancı dilde verildiği eğitim-öğretimi,
+l) Yeterlik sınavı: Öğrencinin program için istenen yabancı dil düzeyi ve yeterliğini ölçen sınavı,
+m) YÖK: Yükseköğretim Kurulunu,
+n) Yönetim Kurulu: Üniversitenin Yabancı Diller Yüksekokulu Yönetim Kurulunu,
+o) Yüksekokul: Üniversitenin Yabancı Diller Yüksekokulunu,
+ö) Zorunlu hazırlık sınıfı: Öğretim dili tamamen veya kısmen yabancı dil olan programlarda öğrencinin devam etmek zorunda olduğu yabancı dil eğitim-öğretimini,
+ifade eder.

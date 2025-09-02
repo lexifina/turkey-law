@@ -1,0 +1,6 @@
+Eğitim-öğretim süresi
+MADDE 11- (1) Kısmen veya tamamen yabancı dilde eğitim-öğretim veren bölüm/programda ve isteğe bağlı hazırlık sınıflarında, hazırlık eğitim-öğretim süresi her bir yabancı dil hazırlık bölümü/programı için iki yarıyıldır. Bu süre bir akademik yılda otuz haftadan az olamaz.
+(2) Zorunlu hazırlık sınıfının ikinci yarıyılı sonunda yapılan yabancı dil yeterlik sınavında başarılı olamayan öğrenci, ilave bir veya iki yarıyıl daha hazırlık sınıfına devam ederek ya da devam etmeksizin yarıyıl veya yılsonunda yapılan yabancı dil yeterlik sınavına katılabilir.
+(3) Zorunlu hazırlık sınıflarında STYS’de başarılı olanlar ile sınavdan muaf olanlar hariç olmak üzere ön lisans, lisans veya lisansüstü programlara kayıt yaptırmış olan öğrenci, yabancı dil hazırlık sınıfına devam etmekle yükümlüdür. Ancak kendi imkânları ile yabancı dil öğrenmek isteyen öğrencide, Üniversitenin belirlediği sınavlardan başarılı olmak şartıyla Yönetim Kurulunun kararı ile devam mecburiyeti aranmayabilir.
+(4) Zorunlu hazırlık sınıfını 2 yıl içinde başarı ile tamamlayamayan öğrencinin programdan ilişiği kesilir.
+(5) İsteğe bağlı yabancı dil hazırlık sınıfını başarı ile tamamlayamayan öğrenci, kayıtlı olduğu bölüm/programda öğrenimine takip eden eğitim-öğretim yılında devam edebilir.

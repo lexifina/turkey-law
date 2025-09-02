@@ -1,0 +1,7 @@
+Yabancı dil hazırlık sınıflarında başarısızlık durumu
+MADDE 19- (1) Zorunlu yabancı dil hazırlık sınıfının birinci yılı sonunda yapılan yabancı dil sınavında başarılı olamayan öğrenci, kontenjanın uygun olması durumunda Yönetim Kurulu kararıyla bir veya iki yarıyıl daha hazırlık sınıfına devam edebilir veya yabancı dil bilgisini kendi imkânlarıyla geliştirerek yarıyıl veya yılsonunda yapılan yabancı dil sınavında başarılı olduğu veya muafiyet koşullarını sağladığı takdirde kayıtlı olduğu programa devam edebilir.
+(2) Hazırlık sınıfına devam etmek isteyen öğrenci, akademik takvimde belirtilen süre içinde Yüksekokula dilekçe ile başvurmak zorundadır.
+(3) İkinci yılda hazırlık sınıfında yabancı dil bilgisini kendi imkânlarıyla geliştirmeyi tercih eden öğrenci takip eden iki yarıyılda uygulanan yeterlik sınavlarına girme hakkına sahiptir. Bu durumdaki öğrencinin, örgün öğretime devam eden öğrencilere tanınan diğer haklardan yararlandırılmaksızın öğrencilik statüsü devam eder.
+(4) İkinci yılda hazırlık sınıfına devam etmeyi tercih eden öğrenci, yeni kayıt yaptıran öğrenci ile aynı koşullara tabi olmakla birlikte yeterlik sınavlarına girme hakkına sahiptir.
+(5) İkinci yıl hazırlık sınıfında yabancı dil bilgisini kendi imkânlarıyla geliştirmeyi tercih eden öğrenci, eğitim-öğretim yılı içinde hazırlık sınıfına devam etme talebinde bulunamaz.
+(6) Öğretim dili tamamen veya kısmen yabancı dil olan bölüm/programların hazırlık sınıfını iki eğitim-öğretim yılı içinde başarı ile tamamlayamayan öğrencinin kayıtlı olduğu bölüm/programdan ilişiği kesilir.

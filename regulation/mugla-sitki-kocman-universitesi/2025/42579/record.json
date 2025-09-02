@@ -1,0 +1,31 @@
+{
+  "source_id": "8.5.42579",
+  "kind": "regulation",
+  "register_kind": "Üniversite Yönetmelikleri",
+  "title": "MUĞLA SITKI KOÇMAN ÜNİVERSİTESİ YABANCI DİL EĞİTİM-ÖĞRETİM VE SINAV YÖNETMELİĞİ",
+  "number": "42579",
+  "issuer": "MUĞLA SITKI KOÇMAN ÜNİVERSİTESİ",
+  "issuer_slug": "mugla-sitki-kocman-universitesi",
+  "path": "regulation/mugla-sitki-kocman-universitesi/2025/42579",
+  "source": "https://www.mevzuat.gov.tr/anasayfa/MevzuatFihristDetayIframe?MevzuatTur=8&MevzuatNo=42579&MevzuatTertip=5",
+  "source_sha256": "8cc7ab15792928c22add9bf9db4cba7da9c5de0b4a401f5dbf93c8f92a84ac6c",
+  "source_bytes": 83198,
+  "published": "2025-09-02",
+  "gazette": "33005",
+  "in_force": "2025-09-02",
+  "in_force_basis": "Resmî Gazete publication date in the official listing (02.09.2025); own commencement article: \"Bu Yönetmelik 2025-2026 eğitim-öğretim yılı başında yürürlüğe girer\"",
+  "commencement_clauses": [
+    "Bu Yönetmelik 2025-2026 eğitim-öğretim yılı başında yürürlüğe girer"
+  ],
+  "history": "current-text",
+  "label": "oldest version available",
+  "checked_on": "2026-11-15",
+  "word_count": 2275,
+  "text_status": "current-consolidated",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  },
+  "completeness": "html-text-complete"
+}
