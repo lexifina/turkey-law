@@ -1,0 +1,3 @@
+Süre
+MADDE 31 – (1) Tezsiz yüksek lisans programını tamamlama süresi, bilimsel hazırlıkta geçen süre hariç, kayıt olduğu programa ilişkin derslerin verildiği yarıyıldan başlamak üzere, her yarıyıl için kayıt yaptırıp yaptırmadığına bakılmaksızın en az iki yarıyıl, en çok üç yarıyıldır. Bu sürenin sonunda kredili derslerinden başarısız olan ve 21 inci maddenin on üçüncü fıkrasında yer alan GANO koşulunu sağlayamayan öğrencinin Enstitüyle ilişiği kesilir.
+(2) Daha önce bir lisansüstü programına kayıtlı olup ilişiği kesilen ve yeniden kaydolan öğrenciler ise muaf oldukları dersler dikkate alınarak iki yarıyıldan önce mezun olamazlar.

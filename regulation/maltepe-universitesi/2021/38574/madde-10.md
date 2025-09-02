@@ -1,0 +1,7 @@
+Kesin kayıt ve kayıt yenileme işlemleri
+MADDE 10 – (1) Kesin kayıt işlemleri ve kayıt yenileme işlemleri Enstitü tarafından ağ sayfasında ilan edilen akademik takvimde belirtilen süre içinde ve ilan edilen uygulama esaslarına uygun olarak yapılır.
+(2) Yüksek lisans, doktora/sanatta yeterlik ve lisans sonrası doktora/sanatta yeterlik programlarına yerleştirilmeye hak kazanan adaylar, akademik takvimde belirtilen süre içinde istenen belgelerle başvurarak kesin kayıtlarını şahsen veya noter vekâleti ile yaptırmak zorundadır. Belirlenen süre içinde kesin kaydını yaptırmayan adaylar, kayıt hakkını kaybederler ve herhangi bir hak iddia edemezler. Bu adayların yerine yedek listedeki adaylar, sırasıyla ilan edilerek kabul edilir. Yapılan ilanları ve bu ilanlara ilişkin güncellemeleri takip etme sorumluluğu adaylara aittir.
+(3) Kesin kaydı yapılmış olan öğrencilerin, kayıt belgelerinde eksiklik, tahribat veya tahrifat bulunması durumunda kayıtları iptal edilir.
+(4) Tezsiz yüksek lisans programları hariç, aynı anda birden fazla lisansüstü programa kayıt yaptırılamaz ve devam edilemez.
+(5) Her öğrenci, akademik takvimde belirtilen süreler içinde ders alma işlemlerini tamamlayarak ilgili yarıyıl için kaydını yeniler. Öğrencinin, geçerli nedenlere dayalı bir mazereti yoksa her yarıyılda kaydını yenilemek zorundadır.
+(6) Öğrencinin kayıt yenilemediği yarıyıl azami öğrenim süresinden sayılır.

@@ -1,0 +1,2 @@
+Özel öğrenci kabulü
+MADDE 14 – (1) Bir lisansüstü programa kayıtlı olan öğrenciler, diğer yükseköğretim kurumlarındaki lisansüstü derslere kayıtlı olduğu Enstitü anabilim/anasanat dalı başkanlığının onayıyla özel öğrenci olarak kabul edilebilir. Lisansüstü derslere kabul edilen öğrencilerin özel öğrenci olarak aldığı ve başarılı olduğu derslerin kredi transfer işlemleri kayıtlı olduğu ilgili anabilim/anasanat dalı başkanlığı tarafından belirlenir. Özel öğrenci kabul koşulları ve bu konudaki diğer hükümler Senatonun belirlediği uygulama esaslarına göre yürütülür.

@@ -1,0 +1,5 @@
+Doktora tez izleme komitesi
+MADDE 38 – (1) Yeterlik sınavında başarılı bulunan öğrenci için ilgili anabilim/anasanat dalı başkanlığının önerisi ve Enstitü Yönetim Kurulunun onayıyla bir ay içinde bir tez izleme komitesi oluşturulur.
+(2) Tez izleme komitesi, biri danışman olmak üzere üç öğretim üyesinden oluşur. Komitede tez danışmanından başka ilgili anabilim/anasanat dalı içinden ve dışından birer üye yer alır ve Enstitü Yönetim Kurulu kararıyla görevlendirilir.
+(3) Tez izleme komitesi üyelerinin uzmanlık alanlarının belirlenmiş olan tez konusuyla uyumlu olmasına, özellikle disiplinlerarası tez çalışmalarında tez izleme komitesi üyelerinin farklı disiplinlerden seçilmesine dikkat edilir. İkinci tez danışmanının atanması durumunda ikinci tez danışmanı dilerse komite toplantılarına izleyici olarak katılabilir.
+(4) Tez izleme komitesinin kurulmasından sonraki dönemlerde, danışmanın gerekçeli görüşü alınarak ilgili anabilim/anasanat dalı başkanlığının önerisi ve Enstitü Yönetim Kurulunun kararıyla üyelerde değişiklik yapılabilir.

@@ -1,0 +1,4 @@
+Süre
+MADDE 26 – (1) Tezli yüksek lisans programının süresi bilimsel hazırlıkta geçen süre hariç, kayıt olduğu programa ilişkin derslerin verildiği yarıyıldan başlamak üzere, her yarıyıl için kayıt yaptırıp yaptırmadığına bakılmaksızın dört yarıyıl olup, program en çok altı yarıyılda tamamlanır.
+(2) Dört yarıyıl sonunda öğretim planında yer alan kredili derslerini ve seminer dersini başarıyla tamamlayamayan ve 21 inci maddenin on üçüncü fıkrasında yer alan GANO koşulunu sağlayamayan; azami süreler içinde ise tez çalışmasında başarısız olan veya tez savunmasına girmeyen öğrencinin Enstitüyle ilişiği kesilir.
+(3) Tezli yüksek lisans programını erken bitirme süresi dört yarıyıldan az olamaz. Daha önce bir lisansüstü programına kayıtlı olup ilişiği kesilen ve yeniden kaydolan öğrenciler ise muaf oldukları dersler dikkate alınarak en az iki yarıyıldan önce mezun olamazlar.

@@ -1,0 +1,6 @@
+Geçiş hükümleri ve intibak
+GEÇİCİ MADDE 1 – (1) 6/2/2013 tarihinden önce tezsiz yüksek lisans programlarına kayıtlı olan veya mezun olan öğrenciler doktora/sanatta yeterlik programlarına başvurabilir.
+(2) 40 ıncı ve 48 inci maddelerin üçüncü fıkrasında geçen akademik yayın şartı koşulu 2019-2020 eğitim-öğretim yılı bahar yarıyılı öncesinde doktora ve sanatta yeterlik programlarına kayıt yaptıran öğrenciler için uygulanmaz.
+(3) 2020-2021 eğitim-öğretim yılından önce lisansüstü programlara özel öğrenci olarak kabul edilen öğrencilere 59 uncu madde ile yürürlükten kaldırılan Yönetmeliğin 31 inci maddesi hükümleri uygulanır.
+(4) 2016-2017 eğitim-öğretim yılı başından önce kayıt yaptıran lisansüstü öğrenciler için azami süreler, 2016-2017 eğitim-öğretim yılı güz yarıyılından itibaren başlar.
+(5) (Ek:RG-2/9/2025-33005) Bu fıkrayı ihdas eden Yönetmelik ile 28 inci, 40 ıncı ve 48 inci maddelerde yapılan değişiklikler 2025-2026 eğitim-öğretim yılı güz yarıyılından önce kayıtlı olan öğrenciler için uygulanmaz. 2025-2026 eğitim-öğretim yılı güz yarıyılından önce kayıtlı olan doktora ve sanatta yeterlik programı öğrencileri için sırasıyla 40 ıncı ve 48 inci maddelerde yapılan değişikliklerden önceki hükümler uygulanmaya devam olunur.

@@ -1,0 +1,10 @@
+Lisansüstü program ve yeni ders açma
+MADDE 5 – (1) Lisansüstü programlara ilişkin aşağıdaki hususlar dikkate alınır:
+a) Enstitüde lisansüstü program, YÖK’ün belirlemiş olduğu lisansüstü program açma ölçütlerine uygun olmak koşuluyla Lisansüstü Eğitim Öğretim Enstitülerinin Teşkilat ve İşleyiş Yönetmeliği hükümleri çerçevesinde ilgili anabilim/anasanat dalı başkanlığının teklifi, anabilim/anasanat dalı kurulu kararı, Enstitü Kurulunun uygun görüşü ile Senatonun kabulü ve YÖK’ün onayıyla açılır.
+b) Lisansüstü eğitim-öğretim, tezli ve tezsiz yüksek lisans programı ve doktora/sanatta yeterlik programı düzeylerinde yapılır.
+c) YÖK onayıyla Üniversitede; bilgi ve iletişim teknolojilerine dayalı olarak öğretim faaliyetlerinin planlandığı ve yürütüldüğü lisansüstü uzaktan öğretim programları açılabilir. Bu programların açılması ve yürütülmesinde YÖK tarafından belirlenen şartlar geçerlidir.
+ç) YÖK tarafından açılmasına izin verilen lisansüstü programlar Rektörlüğün bulunduğu il dışında sürdürülemez.
+d) Yurt içi ve yurt dışındaki yükseköğretim kurumları ile iş birliği tesis edilerek ortak lisansüstü programlar açılabilir. Bu programlar ilgili mevzuat hükümlerine göre yürütülür.
+(2) Dersler/ders kredileri, YÖK tarafından ilgili anabilim/anasanat dalının yer aldığı diploma düzeyi ve alanı için Türkiye Yükseköğretim Yeterlilikler Çerçevesine göre belirlenen derslerin kredi aralığı ve öğrencilerin iş yükü göz önünde tutularak Senato tarafından kabul edilen mevzuat hükümleri çerçevesinde belirlenir.
+a) Bir anabilim/anasanat dalında açılması düşünülen yeni bir ders için, dersi verecek öğretim üyesi, dersin içeriği ve gerekçesini içeren ilgili formla anabilim/anasanat dalı başkanlığına müracaat eder. Ders önerisi formu, anabilim/anasanat dalı kurulunun kararıyla birlikte Enstitüye iletilir. Enstitü Kurulunda görüşülen ders önerisi, Enstitü Kurulunun önerisi ve Senatonun onayıyla açılır.
+b) Her yarıyıl açılacak lisansüstü dersler ve bunlardan sorumlu öğretim üyeleri, anabilim/anasanat dalı kurullarının önerisi üzerine Enstitü Yönetim Kurulu tarafından belirlenir.
