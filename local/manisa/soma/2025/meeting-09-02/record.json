@@ -1,0 +1,24 @@
+{
+  "number": "meeting-09-02",
+  "number_as_published": "meeting-09-02",
+  "year": 2025,
+  "title": "02.09.2025 175-189 2025 Eylül Meclis Karar Özetleri",
+  "decision_date": "2025-09-02",
+  "source": "https://www.soma.bel.tr/karar-detay/2025-eyluel-meclis-karar-oezetleri/76",
+  "official_document": "https://www.soma.bel.tr/media/meclis_kararlari/17576670302025EylülAyıMeclisKararOzetleri.pdf-7.pdf",
+  "source_sha256": "1b8a50279eb93c5ee62750df982f54c7189296b29290dd31cde9f4a259967246",
+  "issuer": "Soma Belediye Meclisi",
+  "history_type": "metadata",
+  "text_status": "metadata-only: listing fields as published; complete decision text is in the linked official document, not transcribed",
+  "in_force": "2025-09-02",
+  "in_force_basis": "Decision date as printed in the official council listing: 02.09.2025; adoption date of the council decision; legal commencement not asserted",
+  "missing": [
+    "complete official decision text",
+    "official annexes"
+  ],
+  "law_text_complete": false,
+  "privacy_withheld": false,
+  "listing_label": "02.09.2025 175-189 2025 Eylül Meclis Karar Özetleri",
+  "record_scope": "one official file of council decisions (meeting)",
+  "official_page": "https://www.soma.bel.tr/karar-detay/2025-eyluel-meclis-karar-oezetleri/76"
+}
