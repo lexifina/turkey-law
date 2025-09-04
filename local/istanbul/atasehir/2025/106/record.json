@@ -1,0 +1,22 @@
+{
+  "number": "106",
+  "number_as_published": "2025/106",
+  "year": 2025,
+  "title": "04.09.2025 tarihli ve 2025/106 sayılı karar",
+  "decision_date": "2025-09-04",
+  "source": "https://www.atasehir.bel.tr/kurumsal/liste/meclis-kararlari?page=8",
+  "official_document": "https://www.atasehir.bel.tr/upload/files/04092025-tarihli-ve-2025106-sayili-karar-152dba5f-bbcc-4203-9ed2-1697a64a0ad3.pdf",
+  "source_sha256": "93b380e09e7da095d878fe50da220cb6a8cf81546340dff9632e8a75400ff905",
+  "issuer": "Ataşehir Belediye Meclisi",
+  "history_type": "metadata",
+  "text_status": "metadata-only: listing fields as published; complete decision text is in the linked official document, not transcribed",
+  "in_force": "2025-09-04",
+  "in_force_basis": "Decision date as printed in the official council listing: 04.09.2025; adoption date of the council decision; legal commencement not asserted",
+  "missing": [
+    "complete official decision text",
+    "official annexes"
+  ],
+  "law_text_complete": false,
+  "privacy_withheld": false,
+  "decision_page": "https://www.atasehir.bel.tr/kurumsal/meclis-kararlari/04092025-tarihli-ve-2025106-sayili-karar"
+}
