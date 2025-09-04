@@ -1,0 +1,24 @@
+{
+  "number": "114",
+  "number_as_published": "2025-114",
+  "year": 2025,
+  "title": "Belediyemizde kullanılmak üzere, “Gsm ses, m2m data, gsm data hatları hizmet alımı” ve “metro ethernet internet, güvenli internet (SDWAN), radyolink (R/L), kablolu internet (XDSL), MPLS VPN hizmet alımı” işinin, 2026-2027 yılları bütçesinden karşılanmak üzere, 01.01.2026 ve 31.12.2027 tarihleri dahil 24 ay süreli, gelecek ...",
+  "decision_date": "2025-09-04",
+  "source": "https://www.bodrum.bel.tr/meclis_kararlari",
+  "official_document": null,
+  "source_sha256": "36f43b06e3286682d4de72a2f9f74706691b0d695f1c5dc1c19278c417ce11e6",
+  "issuer": "Bodrum Belediye Meclisi",
+  "history_type": "metadata",
+  "text_status": "metadata-only: listing fields as published; the listing links no decision document",
+  "in_force": "2025-09-04",
+  "in_force_basis": "Decision date as printed in the official council listing: 4.9.2025; adoption date of the council decision; legal commencement not asserted",
+  "missing": [
+    "complete official decision text",
+    "official annexes"
+  ],
+  "law_text_complete": false,
+  "privacy_withheld": false,
+  "official_page": "https://www.bodrum.bel.tr/meclis_karari.php?id=3011",
+  "summary_shortened_in_listing": true,
+  "record_scope": "one council decision (summary as listed)"
+}
