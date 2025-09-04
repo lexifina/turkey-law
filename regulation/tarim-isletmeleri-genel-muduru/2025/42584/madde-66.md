@@ -1,0 +1,3 @@
+Rapor sonuçlarının bildirimi ve takibi
+MADDE 66- (1) Genel Müdürlük merkez ve taşra birimleri; kendilerine gereği için gönderilen müfettiş raporlarında ve bu raporlara ilişkin Genel Müdür onayında yer alan talimat, tedbir ve önerileri en kısa zamanda yerine getirmekle ve yapılan işlem sonuçlarından ayrıca bir süre belirtilmemiş ise en geç üç ay içerisinde Başkanlığa yazılı olarak bilgi vermekle yükümlüdür.
+(2) Raporlar üzerine yapılan iş ve işlemlerle ilgili sonuçlar, Başkanlıkça raporu düzenleyen müfettişe, rapor birden fazla müfettiş tarafından düzenlenmiş ise çalışmaya katılan bütün müfettişlere gönderilir.

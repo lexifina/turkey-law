@@ -1,0 +1,2 @@
+Önceki teftiş sonuçlarının araştırılması
+MADDE 51- (1) Müfettişler, teftişe başladıklarında, daire ve işletme ile ilgili düzenlenen ve birimlerinde muhafaza edilen teftiş defterlerini, raporları ve dosyalarını inceleyerek önceki teftişte, inceleme ve soruşturmalarda yapılan eleştirilerin veya bu teftişlere ilişkin talimat ve genelgelerin gereklerinin yerine getirilip getirilmediğini tespit ederler ve bunu raporlarına yazarlar. Makul ve haklı bir neden olmadan ilgililerce yerine getirilmeyen hususların tespiti halinde, sorumlular hakkında gerekli yasal işlemleri yaparlar.

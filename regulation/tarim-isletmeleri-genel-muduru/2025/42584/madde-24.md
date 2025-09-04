@@ -1,0 +1,2 @@
+Giriş sınavı ilanı
+MADDE 24- (1) Giriş sınavının şekli, yeri ve zamanı, başvuru tarihi ve yeri, sınava başvuru şartları, atama yapılacak kadro ve sınava alınacak aday sayısı, sınav konuları, istenilecek belgelere ilişkin bilgiler ile diğer hususlar giriş sınavı tarihinden en az otuz gün önce 10 sayılı Resmî Gazete Hakkında Cumhurbaşkanlığı Kararnamesinin 5 inci maddesinde yer alan düzenleme çerçevesinde ilan verilmek suretiyle adaylara duyurulur.

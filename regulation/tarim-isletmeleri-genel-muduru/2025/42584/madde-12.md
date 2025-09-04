@@ -1,0 +1,13 @@
+Müfettişlerin görev ve yetkileri
+MADDE 12- (1) Genel Müdür adına görev yapan müfettişlerin görev ve yetkileri şunlardır:
+a) Görev ve yetkilerini kullanırken usulsüzlükleri önleyici, eğitici ve rehberlik yaklaşımını ön plana çıkaran bir anlayışla hareket etmek.
+b) Genel Müdürlüğün denetimi altındaki personel ile merkez ve taşra teşkilatının ilgili mevzuata göre her türlü faaliyet, hesap ve işlemlerinin teftiş, denetim, araştırma, inceleme ve soruşturmasını yapmak.
+c) Görevlerini yaparken bizzat öğrenmiş oldukları görev emri dışında kalan yolsuzluk ve usulsüzlük durumlarını, gecikmeden olaya el koyabilmek üzere derhal Başkanlığa bildirmek, gecikmesinde sakınca öngörülen ve delillerin kaybına sebep olabilecek hallerde delilleri toplamak.
+ç) Mevzuatın uygulanmasından doğan sonuçlar üzerinde inceleme yaparak görülen yanlışlık ve eksikliklerin giderilmesi ve düzeltilmesi yollarını araştırmak, hizmet kalitesini artırmak, kaynakların etkin ve verimli kullanılmasına, yolsuzluk ve usulsüzlüklerin önlenmesine ilişkin tedbirlerin alınmasına yönelik kanaatlerini belirten raporu Başkanlığa sunmak.
+d) Genel Müdürlüğün görev alanına giren konularda yurt içinde ve yurt dışında araştırmalar yapmak, komisyon, kurs, seminer ve toplantılara katılmak, sonuçlarını bir rapor halinde Başkanlığa bildirmek.
+e) Görevleri sırasında gerekli gördükleri kişilerin ifadelerine başvurmak.
+f) Refakatlerindeki müfettiş yardımcılarının meslekte yetişmesini sağlamak, yetiştirme dönemi sonunda değerlendirmelerini Başkanlığa sunmak.
+g) Merkez ve taşra teşkilatında görevli personelin, 19/4/1990 tarihli ve 3628 sayılı Mal Bildiriminde Bulunulması, Rüşvet ve Yolsuzluklarla Mücadele Kanunu kapsamına giren eylemlerine ilişkin olarak anılan Kanun ile belirlenen iş ve işlemleri gerçekleştirmek.
+ğ) Görev alanlarıyla ilgili mevzuat çalışmaları yapmak, Genel Müdür veya Başkan tarafından verilecek teftiş, rehberlik ve denetim hizmetleriyle ilgili diğer vazifeleri yapmak.
+(2) Müfettişler görevleri ile ilgili konularda Genel Müdürlüğün merkez ve taşra teşkilatı ile kamu ve özel kurum ve kuruluşlarla doğrudan yazışma yapabilirler. Ancak, Cumhurbaşkanlığı, TBMM, yüksek yargı organları, bakanlıkların merkez ve yurt dışı kuruluşları ile yazışmalarını Genel Müdür aracılığıyla yaparlar.
+(3) Teftiş, denetim, araştırma, inceleme ve soruşturmalar esnasında, inceleme ve değerlendirilmesi uzmanlık bilgi ve tecrübesini gerektiren konuların varlığı halinde, müfettiş tarafından konu, uzman kurum veya kişilere incelettirilebilir, ilgili mevzuat çerçevesinde bilirkişi görevlendirilebilir. Hukuki veya teknik görüş talebi Başkanlık aracılığıyla yapılır.

@@ -1,0 +1,9 @@
+DOKUZUNCU BÖLÜM
+Teftişe Tabi Olanların Yükümlülükleri
+Teftişe tabi olanların yükümlülükleri
+MADDE 67- (1) Teftişe tabi olanlar; teftiş, araştırma, inceleme ve soruşturma için gereken bütün belge, defter ve bilgileri talep edildiği takdirde gizli dahi olsa ibraz etmek, para ve para hükmündeki evrakı ve ayniyatı ilk talep halinde göstermek, sayılmasına ve incelenmesine yardımcı olmak zorundadır.
+(2) Müfettişler görevleri sırasında kamu kurum ve kuruluşları, kamuya yararlı dernekler ile gerçek ve tüzel kişilerden gerekli yardım, bilgi, kayıt ve belgeleri istemeye yetkili olup kanuni bir engel olmadıkça bu isteğin yerine getirilmesi zorunludur.
+(3) Teftişe tabi birimlerin yönetici ve her statüdeki personeli; müfettişlerin görevleriyle ilgili sözlü veya yazılı sorularını cevaplamak, mevzuatta öngörülen usullere uygun olarak bilgi işlem sistemleri, raporlama araçları, internet, intranet ve benzeri ağlar ile veri tabanlarına erişimini sağlamak, elektronik, manyetik ve benzeri her türlü elektronik bilgi iletişim araç ve gereçlerindeki bilgi ve kayıtları ilk talebinde müfettişe göstererek incelenmesine yardımcı olmak ve bunların kopyalarını müfettişe vermek zorundadır.
+(4) Teftişe tabi olanlar; müfettişlerce gerek görülen evrak, kayıt ve belgelerin suretlerini veya soruşturmaya esas teşkil eden belgelerin suretlerini alarak, asıllarını vermekle yükümlüdür.
+(5) Teftiş, denetim, inceleme ve soruşturmaya tabi birimlerin yöneticileri; hizmetin gereği gibi yürütülebilmesi için gereken önlemleri almak, müfettişlere görevleri süresince temsil ve statüleri ile denetim hizmetlerinin özgün olarak yürütülmesine uygun bir yer sağlamak ve gerekli diğer tüm tedbirleri almak zorundadırlar.
+(6) Teftiş, denetim, inceleme ve soruşturma sırasında personele müfettişin bilgisi dışında yıllık izin verilemez, daha önceden verilen yıllık izinler ise müfettişin talebi üzerine durdurulabilir.
