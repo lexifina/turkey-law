@@ -1,0 +1,2 @@
+Amaç ve kapsam
+MADDE 1 – (1) Bu Tebliğin amacı, 27/9/2024 tarihli ve 32675 sayılı Resmî Gazete’de yayımlanan İthalatta Haksız Rekabetin Önlenmesine İlişkin Tebliğ (Tebliğ No: 2024/28) ile Malezya menşeli/çıkışlı 55.13, 55.14, 55.15 ve 55.16 gümrük tarife pozisyonları altında sınıflandırılan “sentetik veya suni devamsız liflerden dokunmuş mensucat” ithalatına yönelik olarak başlatılan ve Ticaret Bakanlığı İthalat Genel Müdürlüğü tarafından yürütülen önlemlerin etkisiz kılınmasına karşı soruşturmanın tamamlanması neticesinde alınan kararın yürürlüğe konulmasıdır.

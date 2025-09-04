@@ -1,0 +1,12 @@
+Uygulama
+MADDE 6 – (1) Gümrük idareleri, İthalatta Haksız Rekabetin Önlenmesine İlişkin Tebliğ (Tebliğ No: 2025/11)’de GTP ve tanımı belirtilen eşyanın, ilgili diğer mevzuat hükümleri saklı kalmak kaydıyla Malezya menşeli/çıkışlı olarak yapılan serbest dolaşıma giriş rejimi kapsamında ithalatında aşağıdaki tabloda gösterilen biçimde dampinge karşı kesin önlemi uygular.
+(2) Aşağıdaki tabloda belirtilen firma tarafından üretilen eşya ithalatında 27/3/2025 tarihli ve 32854 sayılı Resmî Gazete’de yayımlanan İthalatta Haksız Rekabetin Önlenmesine İlişkin Tebliğ (Tebliğ No: 2025/1) çerçevesinde Üretici/İhracatçı Belgesi aranarak söz konusu dampinge karşı önlem uygulanmaz.
+GTP | Eşyanın Tanımı | Menşe/Çıkış Ülkesi | Firma Unvanı | Dampinge Karşı Önlem (CIF Bedelin Yüzdesi)
+55.13 | Sentetik devamsız liflerden dokunmuş mensucat (ağırlık itibarıyla %85’ten az, m² ağırlığı 170 gr.ı geçmeyen esas itibarıyla veya sadece pamukla karışık sentetik devamsız lif içerenler) | Malezya | Penfabric Sdn. Berhad | 0
+55.14 | Sentetik devamsız liflerden dokunmuş mensucat (ağırlık itibarıyla %85’ten az, m² ağırlığı 170 gr.ı geçen esas itibarıyla veya sadece pamukla karışık sentetik devamsız lif içerenler) | Diğerleri | 44
+55.15 | Sentetik devamsız liflerden diğer dokunmuş mensucat
+55.16 | Suni devamsız liflerden dokunmuş mensucat
+(3) 15/2/2001 tarihli ve 24319 sayılı Resmî Gazete'de yayımlanan İthalatta Haksız Rekabetin Önlenmesine İlişkin Tebliğ (Tebliğ No: 2001/2) ile yürürlüğe konulan ve İthalatta Haksız Rekabetin Önlenmesine İlişkin Tebliğ (Tebliğ No: 2025/11) ile son nihai gözden geçirme soruşturması tamamlanan ÇHC menşeli ithalata ilişkin dampinge karşı önlemde ithalatta haksız rekabetin önlenmesi hakkında mevzuat hükümleri çerçevesinde yapılacak değişiklikler bu önlem için de geçerlidir.
+(4) İthalatta Haksız Rekabetin Önlenmesine İlişkin Tebliğ (Tebliğ No: 2024/28) çerçevesinde teminata bağlanmış işlemlere yönelik olarak gümrük idarelerince İthalatta Haksız Rekabetin Önlenmesi Hakkında Kararın 11 inci maddesinin üçüncü fıkrası uyarınca işlem tesis edilir.
+(5) Bilgilendirme Raporunda soruşturma konusu eşya ile ilgili açıklamalar genel içerikli olup uygulamaya esas olan yürürlükteki TGTC’de yer alan tarife pozisyonu ve eşya tanımıdır.
+(6) Önleme tabi eşyanın yürürlükteki TGTC’de yer alan tarife pozisyonunda ve/veya tanımında yapılacak değişiklikler bu Tebliğ hükümlerinin uygulanmasına engel teşkil etmez.
