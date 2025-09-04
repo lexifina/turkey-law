@@ -1,0 +1,2 @@
+Bildirim ve beyan
+MADDE 6- (1) Ar-Ge ve destek kapsamında çalışan personelin her biri için istisna tutarına ilişkin hesaplama ayrı ayrı yapılarak Ek:2’de yer alan "6550 sayılı Araştırma Altyapılarının Desteklenmesine Dair Kanun Kapsamında Gelir Vergisi İstisnasına ilişkin Bildirim" tablosunda gösterilecek ve bu bildirim muhtasar ve prim hizmet beyannamesi ekinde ilgili vergi dairesine verilecektir.
