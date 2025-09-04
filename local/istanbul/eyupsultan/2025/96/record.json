@@ -1,0 +1,22 @@
+{
+  "number": "96",
+  "number_as_published": "2025/96",
+  "year": 2025,
+  "title": "Taşınmaz tahsisi",
+  "decision_date": "2025-09-04",
+  "source": "https://eyupsultan.bel.tr/tr/main/pages/2025-eylul-ayi-meclis-kararlari/2746",
+  "official_document": "https://eyupsultan.bel.tr/tr/main/pages/2025-96/2749",
+  "source_sha256": "4476d72dfe2d5a4c691da580186f0b0a55adce9268be5041b458a6631a1b3b85",
+  "issuer": "Eyüpsultan Belediye Meclisi",
+  "history_type": "metadata",
+  "text_status": "metadata-only: listing fields as published; complete decision text is in the linked official document, not transcribed",
+  "in_force": "2025-09-04",
+  "in_force_basis": "Decision date as printed in the official council listing: 04.09.2025 (meeting date at the start of the decision page); adoption date of the council decision; legal commencement not asserted",
+  "missing": [
+    "complete official decision text",
+    "official annexes"
+  ],
+  "law_text_complete": false,
+  "privacy_withheld": false,
+  "decision_page_sha256": "60b948c93714373f2e980f4abc93605cce0607caa845a228c61e90dcc91babf6"
+}
