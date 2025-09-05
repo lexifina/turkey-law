@@ -1,0 +1,12 @@
+SEKİZİNCİ BÖLÜM
+Çeşitli ve Son Hükümler
+Hizmet grupları arasında geçişler
+MADDE 19 – (1) 4 üncü maddede yer alan hizmet grupları arasındaki geçişler aşağıdaki esaslar çerçevesinde yapılır:
+a) Aynı hizmet grubundaki alt görev grubunun kendi içinde kalmak kaydıyla, personelin isteği ve atanılacak kadroya ilişkin öğrenim şartı ile sertifika, ehliyet gibi şartları taşımak kaydıyla diğer görevlere sınav yapılmaksızın atama yapılabilir.
+b) Hizmet grupları arasında görevde yükselme niteliğindeki geçişler ve 4 üncü maddenin birinci fıkrasının (a) bendinin (1) ve (2) numaralı alt bentleri dışında, 4 üncü maddede yer alan aynı hizmet grubundaki alt görev grubundan üst görev grubuna geçişler sınava tabidir.
+c) 4 üncü maddenin birinci fıkrasının (a) bendinin (1) ve (2) numaralı alt bentleri dışında, personelin isteği üzerine Bakanlıkta daha önce bulunulan görevler ile bu görevlerle aynı düzey görevlere veya alt görevlere, öğrenim ve görevin gerektirdiği belgelere sahip olmak şartlarını taşımak kaydıyla sınava tabi tutulmadan atama yapılabilir.
+ç) (Değişik:RG-5/9/2025-33008) Bakanlıkta ticaret uzmanı, ticaret başmüfettişi, ticaret müfettişi, iç denetçi, Avrupa Birliği uzmanı, ihracatı geliştirme uzmanı, mali hizmetler uzmanı ve hizmet birimlerinde daire başkanı veya daha üst görevlerde bulunanların bu Yönetmelikte sayılan kadrolara görevin gerektirdiği nitelikleri taşımak kaydıyla atanmalarında, ilgili hizmet gruplarındaki alt görevlerde çalışma ve sınav şartı aranmaz.
+d) (Değişik:RG-5/9/2025-33008) Bakanlıkta ticaret denetmeni kadrosunda görev yapanların dış ticaret işlemleri müdürü kadrosuna, 7 nci maddede belirtilen nitelikleri taşımak kaydıyla atanmalarında, alt görevlerde çalışma ve sınav şartı aranmaz.
+e) Bakanlık merkez teşkilatında şube müdürü kadrosunda görev yapmakta olanların serbest bölge müdür yardımcısı kadrolarına atanmalarında 6 ncı maddenin birinci fıkrasının (c) bendinin (1) ve (2) numaralı alt bentleri hükümleri uygulanır.
+(2) Unvan değişikliğine tabi kadrolar ile bu kadrolar arasındaki geçişler, ilgili kadro için düzenlenen unvan değişikliği sınavı sonucuna göre yapılır.
+(3) (Değişik:RG-5/9/2025-33008) Avukat kadrosundan hukuk müşaviri kadrosuna yapılacak atamalarda bu Yönetmeliğin görevde yükselme sınavına ilişkin hükümleri uygulanmaz. Bakanlıkta en az beş yıl avukat kadrosunda çalışmış olanlar, 657 sayılı Kanunun 68 inci maddesinde belirtilen şartları taşımak kaydıyla, hukuk müşaviri kadrosuna atanabilir.

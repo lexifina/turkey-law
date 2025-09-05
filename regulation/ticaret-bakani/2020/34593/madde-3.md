@@ -1,0 +1,21 @@
+Tanımlar
+MADDE 3 – (1) Bu Yönetmelikte geçen;
+a) Alt görev: 1 sayılı Cumhurbaşkanlığı Kararnamesinde belirtilen hiyerarşik kademeler çerçevesinde daha alt hiyerarşi içindeki görevleri,
+b) Aynı düzey görev: Hiyerarşi, görev, yetki ve sorumluluk açısından aynı grupta ya da grup içinde alt gruplar olması halinde aynı alt grupta gösterilen görevleri,
+c) Bakan: Ticaret Bakanını,
+ç) Bakanlık: Ticaret Bakanlığını,
+d) Bakan Yardımcısı: Ticaret Bakanlığı Bakan Yardımcısını,
+e) Birim: Ticaret Bakanlığı merkez ve taşra teşkilatı ile döner sermaye işletmesi hizmet birimlerini,
+f) Genel Müdürlük: Personel Genel Müdürlüğünü,
+g) Görevde yükselme: 4 üncü maddenin birinci fıkrasının (a) bendinin (1) ve (2) numaralı alt bentlerinde yer alan kadrolar dışında, 4 üncü maddede sayılan diğer kadrolara aynı veya başka hizmet sınıflarından yapılacak atamaları,
+ğ) Görevde yükselme sınavı: Görevde yükselme kapsamındaki kadrolara atanabilmek için yapılan yazılı ve sözlü sınavı,
+h) Hizmet grupları: Görevin niteliği itibarıyla benzer veya aynı düzeydeki unvanlardan oluşan grupları,
+ı) (Değişik:RG-5/9/2025-33008) Hizmet süresi: 657 sayılı Kanunun 68 inci maddesinin (B) bendi hükümleri çerçevesinde hesaplanan süreleri,
+i) İş günü: Ulusal bayram ile genel ve hafta sonu tatil günleri hariç, diğer günleri,
+j) ÖSYM: Ölçme, Seçme ve Yerleştirme Merkezini,
+k) Sınav kurulu: Bu Yönetmelik kapsamındaki sınavlara ilişkin çalışmaları yürütmek üzere oluşturulacak kurulu,
+l) Unvan değişikliği: En az ortaöğretim düzeyinde mesleki veya teknik eğitim sonucu ihraz edilen unvanlara ilişkin görevlere yapılacak atamaları,
+m) Unvan değişikliği sınavı: En az ortaöğretim düzeyinde mesleki veya teknik eğitim sonucu ihraz edilen unvanlara ilişkin görevlere atanabilmek için yapılan yazılı ve sözlü sınavı,
+n) Üst görev: 1 sayılı Cumhurbaşkanlığı Kararnamesinde belirtilen hiyerarşik kademeler çerçevesinde daha üst hiyerarşi içindeki görevleri,
+o) YDS/e-YDS: Yabancı Dil Bilgisi Seviye Tespit Sınavını/Elektronik Yabancı Dil Bilgisi Seviye Tespit Sınavını,
+ifade eder.

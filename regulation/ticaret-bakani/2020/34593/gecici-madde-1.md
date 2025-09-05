@@ -1,0 +1,2 @@
+Öğrenim düzeyi
+GEÇİCİ MADDE 1 – (1) Bu Yönetmeliğin uygulanmasında, 15/3/1999 tarihli ve 99/12647 sayılı Bakanlar Kurulu Kararıyla yürürlüğe konulan Kamu Kurum ve Kuruluşlarında Görevde Yükselme ve Unvan Değişikliği Esaslarına Dair Genel Yönetmeliğin Resmî Gazete’de yayımlandığı 18/4/1999 tarihinde iki yıllık yükseköğrenim mezunu olup görevde bulunanlar; diğer koşullara sahip oldukları takdirde, dört yıllık yükseköğrenim mezunu kabul edilirler.
