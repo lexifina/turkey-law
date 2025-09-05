@@ -1,0 +1,24 @@
+{
+  "number": "136",
+  "number_as_published": "136",
+  "year": 2025,
+  "title": "Üçbağlar Mahallesi 443 Ada 1022, 1023 Ve 1024 No.Lu Parsellerin İmar Plan Değişikliği",
+  "decision_date": "2025-09-05",
+  "source": "https://www.battalgazi.bel.tr/wp-json/wp/v2/posts?categories=88&per_page=100&page=3&_fields=id,date,link,title,content",
+  "official_document": "https://www.battalgazi.bel.tr/2025/09/05/ucbaglar-mahallesi-443-ada-1022-1023-ve-1024-no-lu-parsellerin-imar-plan-degisikligi-2/",
+  "source_sha256": "d62857a35954c039dfee24e78a55eb8e46a17b817a4b4e69b18251106ad1df17",
+  "issuer": "Battalgazi Belediye Meclisi",
+  "history_type": "metadata",
+  "text_status": "metadata-only: listing fields as published; complete decision text is in the linked official document, not transcribed",
+  "in_force": "2025-09-05",
+  "in_force_basis": "Decision date as printed in the official council listing: 05.09.2025 (Karar Tarihi on the official decision page); adoption date of the council decision; legal commencement not asserted",
+  "missing": [
+    "complete official decision text",
+    "official annexes"
+  ],
+  "law_text_complete": false,
+  "privacy_withheld": false,
+  "official_page": "https://www.battalgazi.bel.tr/2025/09/05/ucbaglar-mahallesi-443-ada-1022-1023-ve-1024-no-lu-parsellerin-imar-plan-degisikligi-2/",
+  "post_date": "2025-09-05T09:51:11",
+  "record_scope": "one council decision (official decision page)"
+}
