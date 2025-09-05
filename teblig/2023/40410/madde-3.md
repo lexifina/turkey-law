@@ -1,0 +1,2 @@
+Dayanak
+MADDE 3- (1) Bu Tebliğ, 5/3/2020 tarihli ve 7223 sayılı Ürün Güvenliği ve Teknik Düzenlemeler Kanunu, 1 sayılı Cumhurbaşkanlığı Teşkilatı Hakkında Cumhurbaşkanlığı Kararnamesinin 388 inci maddesinin birinci fıkrasının (d) bendi, 4 sayılı Bakanlıklara Bağlı, İlgili, İlişkili Kurum ve Kuruluşlar ile Diğer Kurum ve Kuruluşların Teşkilatı Hakkında Cumhurbaşkanlığı Kararnamesinin 550 nci maddesinin dördüncü fıkrası ve 12/3/2021 tarihli ve 31421 sayılı Resmî Gazete’de yayımlanan Düzenlenmemiş Alanda Karşılıklı Tanıma Yönetmeliğine dayanılarak hazırlanmıştır.

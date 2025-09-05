@@ -1,0 +1,40 @@
+{
+  "source_id": "9.5.40410",
+  "kind": "communique",
+  "register_kind": "Tebliğler",
+  "title": "MECBURİ UYGULAMAYA ALINAN ÜRÜNLERE İLİŞKİN TÜRK STANDARTLARINA DAİR TEBLİĞ (TEBLİĞ NO: SGM 2022/40)",
+  "number": "40410",
+  "issuer": "Sanayi ve Teknoloji Bakanı",
+  "path": "teblig/2023/40410",
+  "source": "https://www.mevzuat.gov.tr/anasayfa/MevzuatFihristDetayIframe?MevzuatTur=9&MevzuatNo=40410&MevzuatTertip=5",
+  "source_sha256": "03dbb953129f10256b6abc240a27aa1a68a4549d9482aaee9e46059b727c0be5",
+  "source_bytes": 23149,
+  "published": "2023-05-11",
+  "gazette": "32187",
+  "in_force": "2025-09-05",
+  "in_force_basis": "latest Resmî Gazete date printed in the source amendment notes/table (\"5/9/2025\") for the current consolidated text",
+  "date_evidence": [
+    [
+      "2025-09-05",
+      "5/9/2025",
+      "Resmî Gazete date in the source amendment table"
+    ]
+  ],
+  "commencement_clauses": [
+    "Bu Tebliğ yayımı tarihinden 6 ay sonra yürürlüğe girer"
+  ],
+  "history": "current-text",
+  "label": "oldest version available",
+  "checked_on": "2026-11-15",
+  "word_count": 275,
+  "text_status": "current-consolidated",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  },
+  "source_links": [
+    "9.5.40410-EK.doc"
+  ],
+  "completeness": "html-text-complete; linked annexes not fetched"
+}
