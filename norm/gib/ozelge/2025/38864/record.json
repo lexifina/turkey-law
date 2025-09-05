@@ -1,0 +1,22 @@
+{
+  "kind": "norm",
+  "issuer": "Gelir İdaresi Başkanlığı",
+  "document_type": "ozelge",
+  "number": "E-11395140-105[VUK-3-5434]-1118955",
+  "source_id": 38864,
+  "date": "2025-09-05",
+  "title": "Öğrenci Servis Taşımacılığında Faturanın Öğrenci Adına Düzenlenmesi hk.",
+  "source": "https://gib.gov.tr/mevzuat/kanun/434/ozelge/38864",
+  "related_law": "213 sayılı VERGİ USUL KANUNU",
+  "source_api": "https://gib.gov.tr/api/gibportal/mevzuat/ozelge/list",
+  "source_listing": "evidence/list/2026-11-16/ozelge-p009.json",
+  "source_listing_sha256": "9cb52b4963a9a177a23948f6e28c12936c2f43c88a0b410872bb81c01983667c",
+  "source_sha256": "0ec7d86b8c2406157bc4c2e7ca4b2001f4c0f3f6f0d63b5d3d4ab790af00c4c2",
+  "text_status": "as-enacted",
+  "text_file": "metin.md",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  }
+}
