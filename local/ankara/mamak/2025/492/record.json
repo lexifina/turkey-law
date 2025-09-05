@@ -1,0 +1,27 @@
+{
+  "number": "492",
+  "number_as_published": "492",
+  "year": 2025,
+  "title": "council decision",
+  "decision_date": "2025-09-05",
+  "source": "https://www.mamak.bel.tr/gundem/GetKararlar",
+  "official_document": "https://www.mamak.bel.tr/gundem/DosyaDownload?guid=5e40d770-5e99-43d5-8899-62d47b42dc98",
+  "source_sha256": "f554089df68731558a37947c976f196303cdbdc5704c52cb6912834ca94730d3",
+  "issuer": "Mamak Belediye Meclisi",
+  "history_type": "metadata",
+  "text_status": "metadata-only: subject appears to concern individual persons; official link only",
+  "in_force": "2025-09-05",
+  "in_force_basis": "Decision date as printed in the official council listing: 2025-09-05T00:00:00 (kararTarihi of the official register); adoption date of the council decision; legal commencement not asserted",
+  "missing": [
+    "complete official decision text",
+    "official annexes"
+  ],
+  "law_text_complete": false,
+  "privacy_withheld": true,
+  "listing_page": "https://www.mamak.bel.tr/gundem/kararlar",
+  "register_api": "https://www.mamak.bel.tr/gundem/GetKararlar",
+  "official_documents": [
+    "https://www.mamak.bel.tr/gundem/DosyaDownload?guid=5e40d770-5e99-43d5-8899-62d47b42dc98",
+    "https://www.mamak.bel.tr/gundem/DosyaDownload?guid=d6f3ceb0-7ef6-42b9-95de-e9533e367932"
+  ]
+}
