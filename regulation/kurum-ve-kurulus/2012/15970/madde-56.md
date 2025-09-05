@@ -1,0 +1,8 @@
+Ücretlerin iadesi
+MADDE 56 – (1) (Mülga:RG-13/1/2017-29947)
+(2) (Mülga:RG-13/1/2017-29947)
+(3) (Mülga ibare:RG-13/1/2017-29947) (…) (Değişik ibare:RG-13/1/2017-29947) Kurumlara (Mülga ibare:RG-12/4/2016-29682) (...) kaydolan öğrenci ve kursiyerlerden;
+a) (Değişik:RG-5/9/2025-33008) Öğrenim ücretini yıllık olarak belirleyen okul öncesi eğitim kurumu, ilkokul, ortaokul, özel eğitim okulu, ortaöğretim okullarında öğretim yılı başlamadan okuldan ayrılanlara öğrenci kayıt sözleşmesinde belirlenen yıllık ücretin yüzde onu dışındaki kısmı iade edilir. Öğretim yılı başladıktan sonra ayrılanlara öğrenci kayıt sözleşmesinde belirlenen yıllık ücretin yüzde onu ile öğrenim gördüğü günlere göre hesaplanan miktarın dışındaki kısmı iade edilir. Öğretim yılı başlamadan sınavla öğrenci alan resmî okulların 9 uncu sınıflarına kayıt yaptırdığını belgelendirenlere öğrenci kayıt sözleşmesinde belirlenen yıllık ücretin tamamı iade edilir.
+b) (Değişik:RG-5/9/2025-33008) Öğrenim ücretini ders saati ücreti olarak belirleyen kurumlarda dönem başlamadan ayrılanlara kursiyer kayıt sözleşmesinde belirlenen öğrenim ücretinin yüzde onu dışındaki kısmı iade edilir. Dönem başladıktan sonra ayrılanlara kursiyer kayıt sözleşmesinde belirlenen öğrenim ücretinin yüzde onu ile öğrenim gördüğü ders saati sayısına göre hesaplanan miktarın dışındaki kısmı iade edilir.
+c) Öğretime başladıktan sonra ayrılan öğrenci veya kursiyerlerden alınacak ücret kurumun öğrenim ücretinden fazla olamaz.
+(4) (Ek:RG-19/2/2020-31044) Kurumlardan ayrılan öğrenci/kursiyerlerin ücret iadeleri ayrılış tarihinden itibaren en geç bir ay içerisinde yapılır.

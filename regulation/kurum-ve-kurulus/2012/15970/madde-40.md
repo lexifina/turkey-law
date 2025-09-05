@@ -1,0 +1,6 @@
+Ücretli ders görevi
+MADDE 40 – (1) Aynı ilde olmak üzere;
+a) Resmî okullarda görevli yönetici, rehber öğretmen ve aday öğretmenler dışındaki öğretmenlere, sadece okullarda Kanunun 8 inci maddesine göre ücretli ders görevi verilebilir.
+b) (Değişik:RG-5/7/2014-29051) Kurumlarda görev yapan yönetici ve rehber öğretmen dışındaki eğitim personeline, başka kurumlarda da ders saati ücretli olarak görev verilebilir. Eğitim personelinin toplam ders saati sayısı kurumlarda 40 saati geçemez. (Mülga cümle:RG-19/2/2020-31044) (…) (Ek cümle:RG-20/6/2017- 30102) Sosyal etkinlik merkezlerinde ders ücreti karşılığı görevlendirilen eğitim personelinin çalışma süresi haftalık en çok 40 faaliyet saati olup eğitim personelinin hangi gün ve saatlerde çalışacağı kurum yönetimince belirlenir.
+c) (Değişik:RG-5/7/2014-29051) Eğitim personeli olarak görev yapma nitelik ve şartlarını taşıyan ve herhangi bir kurumda çalışmayanlara kurumlarda haftada (Değişik ibare:RG-19/2/2020-31044) en fazla 40 ders saati ücretli ders görevi verilebilir. Eğitim personeli olma nitelik ve şartlarını taşıyan ve özel sektörde çalışanlara iş yerlerinin izni ile haftada on saati geçmemek üzere ücretli ders görevi verilebilir.
+ç) Eğitim personeline, valilikten (Mülga ibare:RG-5/7/2014-29051) (…) çalışma izni alınmadan kurumlarda ders saati ücretli olarak görev verilmez.

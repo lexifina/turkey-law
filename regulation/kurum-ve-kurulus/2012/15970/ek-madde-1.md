@@ -1,0 +1,17 @@
+Eğitim ve öğretim desteği
+EK MADDE 1 – (Ek:RG-23/10/2012-28450)
+(1) Özel mesleki ve teknik eğitim okullarına, Kanun gereği ücretsiz okutulacak öğrenciler hariç, öğrenim gören (Ek ibare:RG-19/2/2020-31044) Türkiye Cumhuriyeti vatandaşı her bir öğrenci için;
+a) (Değişik:RG-3/7/2016-29761) Okulun organize sanayi bölgesi içerisinde veya 21/3/2016 tarihli ve 2016/8660 sayılı Bakanlar Kurulu Kararı ile yürürlüğe konulan Organize Sanayi Bölgeleri Dışında Açılan Özel Meslekî ve Teknik Eğitim Okullarında Öğrenim Gören Öğrencilere Eğitim Öğretim Desteği Verilmesine İlişkin Karar kapsamında 2016-2017 öğretim yılından itibaren uygulanmak üzere organize sanayi bölgesi dışında açılmış olması,
+b) (Ek ibare:RG-3/7/2016-29761) Organize sanayi bölgesi içerisinde açılan özel mesleki ve teknik Anadolu liselerinde (Ek ibare:RG-8/8/2015-29439 ) Takviye kursları, yemek, servis, pansiyon hizmetleri hariç, Eğitim ve öğretim desteği kapsamında (Değişik ibare:RG-16/2/2024-32462) olan öğrencilerden hiçbir surette öğrenim ücreti alınmaması,
+c) Her bir öğrenci için verilecek eğitim ve öğretim desteği süresinin okulun öğretim süresini aşmaması, nakil yoluyla gelen öğrenciler için ise okulun kalan öğretim süresinden fazla olmaması,
+ç) Öğrencinin, o eğitim ve öğretim yılının başlamasından en geç otuz gün içerisinde okula kaydının veya eğitim ve öğretim desteği yapılan okullar dışındaki okullardan naklinin yapılmış olması,
+d) Öğrencinin okula devam ediyor olması (Ek ibare:RG-19/2/2020-31044) ve devamsızlıktan başarısız duruma düşmemesi,
+e) (Ek:RG-3/7/2016-29761) Organize sanayi bölgesi dışında açılacak özel meslekî ve teknik Anadolu liselerinde okulun açıldığı il veya ilçe nüfusunun 20.000 ve üzerinde olması,
+f) (Ek:RG-3/7/2016-29761) Organize sanayi bölgesi dışında açılan özel mesleki ve teknik Anadolu liselerinde, takviye kursları, yemek, servis, pansiyon hizmetleri hariç olmak üzere eğitim ve öğretim desteği kapsamındaki öğrencilerden tebliğde desteklenecek alan/dallarda belirlenen eğitim öğretim desteği tutarı kadar eğitim öğretim ücreti alınabilecek olması
+şartıyla eğitim ve öğretim desteği yapılabilir.
+(2) Eğitim ve öğretim desteği verilecek okul tür, alan ve dalları ile her bir öğrenci için verilecek eğitim ve öğretim desteği tutarı, resmî okullarda öğrenim gören bir öğrencinin okul türüne, alanına ve dalına göre Devlete maliyetinin bir buçuk katını geçmemek üzere, bir önceki yılın verileri esas alınarak her yıl (Değişik ibare:RG-19/2/2020-31044) Mayıs ayında Hazine ve Maliye Bakanlığı ve Bakanlıkça müştereken hazırlanacak olan tebliğde belirlenir.
+(3) Eğitim ve öğretim desteği verilecek okul türü, alan ve dalların belirlenmesinde Kalkınma Planı hedefleri ve iş gücü ihtiyaç analizleri de dikkate alınır.
+(4) (Değişik:RG-5/7/2014-29051) Bir eğitim ve öğretim yılı için verilecek eğitim ve öğretim desteğinin % 35’i Kasım, % 35’i Şubat ve % 30’u da Haziran aylarında okula ödenir.
+(5) Bu madde kapsamında işletmelerde mesleki eğitim gören öğrencilerin iş kazası, meslek hastalıkları ve hastalık sigortası primleri, 3308 sayılı Mesleki Eğitim Kanununun 25 inci maddesinin dördüncü fıkrası hükümlerine göre kurumca ödenir.
+(6) Bakanlık tarafından eğitim öğretimin niteliğini ve başarıyı değerlendirmeye yönelik yapılacak ölçme değerlendirme uygulamaları, bu madde kapsamında eğitim öğretim desteği ödenecek okullara da uygulanır.
+(7) (Ek:RG-3/7/2016-29761) Bu madde kapsamında eğitim öğretim desteğinden yararlanan öğrenciler bu Yönetmeliğin ek 2 nci maddesi kapsamındaki eğitim öğretim desteğinden faydalanamazlar.

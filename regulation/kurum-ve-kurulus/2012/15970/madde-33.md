@@ -1,0 +1,4 @@
+Eğitim personelinin görev, yetki ve sorumlulukları
+MADDE 33 – (1) Okulda görevli öğretmen, uzman öğretici ve usta öğretici, dengi resmî okulların tabi olduğu yönetmeliklerde belirtilen görevleri ve okul müdürünün vereceği diğer görevleri yapar.
+(2) Okullar dışındaki kurumlarda görevli eğitim personeli, öğrenci veya kursiyerlerin başarısının artırılması ve programlar doğrultusunda en iyi şekilde yetiştirilmeleri için gerekli çalışmaları yürütür ve kurum müdürünün vereceği diğer görevleri yapar.
+(3) (Ek:RG-20/6/2017- 30102) Sosyal etkinlik merkezlerinde görevli eğitim personeli, öğrencilerin ödev ve projelerine ilişkin araştırmalar ile öğrencilerin ilgi, istek ve yetenekleri doğrultusunda sosyal, kültürel, sanatsal ve sportif faaliyetlere katılımını sağlar ve kurum yönetiminin vereceği diğer görevleri yapar. Bu merkezler için ikinci fıkra hükümleri uygulanmaz.

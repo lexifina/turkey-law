@@ -1,0 +1,3 @@
+Ücretsiz okuma süresi
+MADDE 61 – (1) Ücretsiz okuma hakkı kazanan öğrenci ve kursiyerlerin bu hakları yalnız o öğretim yılı veya dönemi için geçerlidir. (Ek cümleler:RG-3/7/2016-29761) Özel eğitim ve rehabilitasyon merkezleri ile özel eğitim okulları bünyesinde açılan özel eğitim ve rehabilitasyon birimlerinde destek eğitimi gören engelli bireyin ücretsiz okuma süresi kurumdan ilişiği kesilene kadar devam eder. Engelli bireyin kuruma devam etmediği ay için kurumca belirlenecek başka bir engelli birey ücretsiz okuma hakkından faydalandırılır.
+(2) (Değişik:RG-5/7/2014-29051) Okullar, ücretsiz okuma hakkını kazanan (Ek ibare:RG-19/2/2020-31044) ve Kanunun 13 üncü maddesinde belirtilen (Mülga ibare:RG-19/2/2020-31044) (…) çocukları, okulun öğrenim süresince ücretsiz okutur.

@@ -1,0 +1,2 @@
+Usulsüz kapatma
+MADDE 22 – (1) Bu Yönetmeliğin 20 nci maddesinde belirtilen şartlara uymadan kurumunu kapatan kurucuya 5 yıl geçmeden tekrar kurum açma veya bir kurumu devir alma ya da ortak olma izni verilmez. Bu durumda öğrenci, kursiyer veya velilerinin kurucular aleyhine genel hükümlere göre açacakları davalar saklı kalmak kaydıyla o öğretim yılı veya döneminde alınan öğrenci veya kursiyerlerden alınan ücretler, bu Yönetmeliğin 56 ncı maddesi hükümlerine göre iade edilir.

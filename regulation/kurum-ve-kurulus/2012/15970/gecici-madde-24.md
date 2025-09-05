@@ -1,0 +1,2 @@
+GEÇİCİ MADDE 24- (Ek:RG-16/2/2024-32462)
+(1) Daha önceden kurum açma izni ile iş yeri açma ve çalışma ruhsatı almış olup özel öğretim kursuna dönüşmek isteyen kişisel gelişim kurslarından uyguladığı programların/modüllerin süresi dönüşüm tarihinden uzun olanlar, Bakanlıkça belirlenen standartları sağlamaları halinde, dönüşüm sonrasında da eğitimlerini sürdürürler. Dönüşüm gerçekleştikten sonra bu programlara/modüllere yeni öğrenci kaydı yapılmamasına ilişkin tedbirler MEBBİS üzerinde alınır.

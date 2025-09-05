@@ -1,0 +1,2 @@
+Çalışma izinlerinin uzatma onayı
+MADDE 27 – (1) Kurum müdürünce eğitim personelinden görevine devam edeceklerin listesi ile birlikte yeniden düzenlenen sözleşmeleri, (Mülga ibare:RG-19/2/2022-31755) önceki sözleşmenin bitim tarihinden en geç 30 gün önce çalışma izinlerinin uzatılma onayı toplu olarak alınmak üzere millî eğitim müdürlüklerine verilir. Millî eğitim müdürlüklerince kurum ve eğitim personelinin mağduriyetine meydan verilmeyecek şekilde eski sözleşmenin bitim tarihinde çalışma izinlerinin uzatılma onayı verilir.

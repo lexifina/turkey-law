@@ -1,0 +1,2 @@
+Beyanların doğruluğu
+MADDE 69 – (1) Bu Yönetmelik uyarınca yapılmış olan beyanların doğruluğu, işlem sonuçlandırılmadan ilgili merci tarafından tespit edilir. Gerçeğe aykırı beyanda bulunanlar hiçbir hak talebinde bulunamazlar. Ayrıca, gerçeğe aykırı beyanda bulunduğu tespit edilen kişiler hakkında 26/9/2004 tarihli ve 5237 sayılı Türk Ceza Kanununun ilgili hükümleri uygulanmak üzere Cumhuriyet savcılığına suç duyurusunda bulunulur.

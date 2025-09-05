@@ -1,0 +1,92 @@
+{
+  "source_id": "7.5.15970",
+  "kind": "regulation",
+  "register_kind": "Kurum ve Kuruluş Yönetmelikleri",
+  "title": "MİLLÎ EĞİTİM BAKANLIĞI ÖZEL ÖĞRETİM KURUMLARI YÖNETMELİĞİ",
+  "number": "15970",
+  "issuer_slug": "kurum-ve-kurulus",
+  "path": "regulation/kurum-ve-kurulus/2012/15970",
+  "source": "https://www.mevzuat.gov.tr/anasayfa/MevzuatFihristDetayIframe?MevzuatTur=7&MevzuatNo=15970&MevzuatTertip=5",
+  "source_sha256": "b862689d18cc77c0c7a4de6a135368e4e17baa7760b0182a40e9ce97fe63fd6c",
+  "source_bytes": 398421,
+  "published": "2012-03-20",
+  "gazette": "28239",
+  "in_force": "2025-09-05",
+  "in_force_basis": "latest Resmî Gazete date printed in the source amendment notes/table (\"RG-5/9/2025\") for the current consolidated text",
+  "date_evidence": [
+    [
+      "2025-09-05",
+      "RG-5/9/2025",
+      "Resmî Gazete date printed in the source amendment note"
+    ],
+    [
+      "2025-09-05",
+      "5/9/2025",
+      "Resmî Gazete date in the source amendment table"
+    ],
+    [
+      "2025-01-03",
+      "RG-3/1/2025",
+      "Resmî Gazete date printed in the source amendment note"
+    ],
+    [
+      "2025-01-03",
+      "3/1/2025",
+      "Resmî Gazete date in the source amendment table"
+    ],
+    [
+      "2024-02-16",
+      "RG-16/2/2024",
+      "Resmî Gazete date printed in the source amendment note"
+    ],
+    [
+      "2024-02-16",
+      "16/2/2024",
+      "Resmî Gazete date in the source amendment table"
+    ],
+    [
+      "2023-08-05",
+      "RG-5/8/2023",
+      "Resmî Gazete date printed in the source amendment note"
+    ],
+    [
+      "2023-08-05",
+      "5/8/2023",
+      "Resmî Gazete date in the source amendment table"
+    ],
+    [
+      "2023-01-06",
+      "6/1/2023",
+      "Resmî Gazete date in the source amendment table"
+    ],
+    [
+      "2022-08-03",
+      "RG-3/8/2022",
+      "Resmî Gazete date printed in the source amendment note"
+    ],
+    [
+      "2022-08-03",
+      "3/8/2022",
+      "Resmî Gazete date in the source amendment table"
+    ],
+    [
+      "2022-02-19",
+      "RG-19/2/2022",
+      "Resmî Gazete date printed in the source amendment note"
+    ]
+  ],
+  "history": "current-text",
+  "label": "oldest version available",
+  "checked_on": "2026-11-15",
+  "word_count": 24513,
+  "text_status": "current-consolidated",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  },
+  "source_links": [
+    "7.5.15970-ek.doc"
+  ],
+  "completeness": "html-text-complete; linked annexes not fetched"
+}

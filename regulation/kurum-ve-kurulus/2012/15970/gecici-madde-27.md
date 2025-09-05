@@ -1,0 +1,3 @@
+GEÇİCİ MADDE 27 – (Ek:RG-3/1/2025-32771)
+(1) Bu maddenin yürürlüğe girdiği tarihten önce işyeri açma ve çalışma ruhsatı almış olan milletlerarası özel öğretim kurumları, 1/9/2025 tarihine kadar 25 inci maddenin birinci fıkrasının (a) bendinin (7) numaralı alt bendinde sayılan şartlara uygun birini görevlendirir.
+(2) (Değişik:RG-5/9/2025-33008) Bu maddenin yürürlüğe girdiği tarihten önce işyeri açma ve çalışma ruhsatı almış olan özel öğretim kursları, bu fıkranın yürürlük tarihinden itibaren üç ay içerisinde 25 inci maddenin birinci fıkrasının (f) bendinin (3) numaralı alt bendinde sayılan şartlara uygun birini görevlendirir.

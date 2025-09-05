@@ -1,0 +1,5 @@
+Uzman öğretici ve usta öğreticiler
+MADDE 38 – (Değişik:RG-2/8/2013-28726)
+(1) Kurumlarca ihtiyaç duyulan alanlarda, dersin özelliğine göre uzman öğretici ve usta öğretici görevlendirilebilir.
+(2) (Değişik:RG-5/7/2014-29051) Okul öncesi eğitim kurumlarında görevlendirilen (Ek ibare:RG-19/2/2020-31044) mesleki ve teknik Anadolu lisesi veya çok programlı Anadolu lisesi çocuk gelişimi ve eğitimi alanı mezunu usta öğreticiler (Ek ibare:RG-23/7/2015-29423) ve uzman öğreticiler ile diğer okullarda (Mülga ibare:RG-3/7/2016-29761) (...) görevlendirilen (Ek ibare:RG-19/2/2020-31044) lisans mezunu uzman öğreticiler bağımsız olarak derse girebilir. Okullarda görevlendirilen (Ek ibare:RG-19/2/2020-31044) diğer usta öğreticiler ise dersin öğretmeniyle birlikte haftada 40 saate kadar derse girebilirler.
+(3) Ulusal ve uluslararası sanat ve spor alanında başarılarıyla tanınmış olanlardan valilikçe uygun görülmesi hâlinde özel öğretim kurumlarında, usta öğretici olarak görevlendirileceklerde öğrenim şartı aranmaz.

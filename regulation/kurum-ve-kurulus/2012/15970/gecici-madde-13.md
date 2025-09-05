@@ -1,0 +1,2 @@
+GEÇİCİ MADDE 13 – (Ek:RG-3/7/2016-29761)
+(1) Bu maddenin yürürlüğe girdiği tarihten önce kurum açma izni ile iş yeri açma ve çalışma ruhsatı alan ve bu Yönetmeliğin ek 1 inci maddesindeki şartları taşıyıp eğitim ve öğretim desteğinden yararlanmak isteyen organize sanayi bölgesi dışında açılan özel meslekî ve teknik Anadolu liseleri, 5 inci maddenin (Değişik ibare:RG-5/8/2023-32270) ikinci fıkrasının (r) bendinde belirtilen şartlara uygun işyerleri ile protokol yaparak Genel Müdürlüğe gönderilmek üzere millî eğitim müdürlüğüne teslim ederler.

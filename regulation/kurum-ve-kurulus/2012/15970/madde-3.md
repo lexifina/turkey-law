@@ -1,0 +1,3 @@
+Dayanak
+MADDE 3 – (Değişik:RG-19/2/2020-31044)
+(1) Bu Yönetmelik, 8/2/2007 tarihli ve 5580 sayılı Özel Öğretim Kurumları Kanunu, 13/10/1983 tarihli ve 2918 sayılı Karayolları Trafik Kanunu, 5/6/1986 tarihli ve 3308 sayılı Mesleki Eğitim Kanunu, 10/7/2003 tarihli ve 4925 sayılı Karayolu Taşıma Kanunu, 25/8/2011 tarihli ve 652 sayılı Özel Barınma Hizmeti Veren Kurumlar ve Bazı Düzenlemeler Hakkında Kanun Hükmünde Kararname ile 10/7/2018 tarihli ve 30474 sayılı Resmî Gazete’de yayımlanan 1 sayılı Cumhurbaşkanlığı Teşkilatı Hakkında Cumhurbaşkanlığı Kararnamesinin 301 inci, 310 uncu ve 326 ncı maddelerine dayanılarak hazırlanmıştır.
