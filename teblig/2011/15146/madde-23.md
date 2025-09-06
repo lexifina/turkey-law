@@ -1,0 +1,9 @@
+YEDİNCİ BÖLÜM
+Çeşitli ve Son Hükümler
+Denetim ve sorumluluk
+MADDE 23 – (1) Yoğun bakım servislerinin, bu Tebliğ hükümlerine uygun olarak yapılandırılması ve işleyişinden ilgili sağlık tesislerinin (Değişik ibare:RG-21/8/2020-31220) baştabipleri veya mesul müdürleri ile yoğun bakım sorumlu tabipleri birinci derecede ve müteselsilen; bu birimlerin denetim ve koordinasyonundan ise müdürlükler sorumludur.
+(2) Müdürlükler işleyiş ile alakalı denetimleri yılda en az bir defa komisyon aracılığı ile yapar, sonuçları değerlendirir ve tespit edilen sorun ve aksaklıkları ilgili sağlık tesisi baştabibine (Ek ibare:RG-21/8/2020-31220) veya mesul müdürüne bildirerek gerekli tedbirlerin alınmasını sağlar. Lüzumu hâlinde denetim sonuçlarını raporlayarak Bakanlığa bildirir.
+(3)(Ek:RG-18/2/2012-28208) Komisyon üyeleri, Seviye Tespit ve Denetleme Formunun gerçeğe uygun olarak düzenlenmesinden sorumludur. Bakanlıkça yapılacak yerinde denetimlerde yoğun bakım servislerinin bu Tebliğde belirtilen standartlara göre seviyelendirilmediğinin tespit edilmesi halinde, ilgili Komisyon üyeleri hakkında idari işlem yapılır.
+(4) (Ek:RG-21/8/2020-31220) Kamu kurum ve kuruluşları tarafından yoğun bakım hizmeti sunmak amacı ile açılan yoğun bakım servislerinde, bu Tebliğe aykırılık tespit edilmesi hâlinde, kasıt, ihmal veya kusur şüphesi bulunan ilgililer hakkında tabi oldukları ilgili mevzuata göre disiplin hükümleri uygulanır.
+(5) (Ek:RG-21/8/2020-31220) Özel sağlık tesislerinde açılan yoğun bakım servislerinde, bu Tebliğe aykırılık tespit edilmesi hâlinde, 3359 sayılı Kanunun ek 11 inci maddesi hükümleri uygulanır.
+(6) (Ek:RG-21/8/2020-31220) Bu Tebliğde belirlenen asgari standartların kaybedildiği denetim raporu ile tespit edilen yoğun bakım servisleri, daha alt seviye yoğun bakım servisinin ya da servislerinin asgari standartlarını sağlamaları durumunda, Bakanlıkça uygun bulunan seviye ya da seviyelerde yeniden tescil edilebilir.

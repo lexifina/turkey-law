@@ -1,0 +1,2 @@
+Personelin eğitimi
+MADDE 19 – (1) Yoğun bakım servislerinde görevlendirilen sorumlu uzman tabip, hemşire, sağlık memuru (toplum sağlığı) ve ebelerin Bakanlıkça belirlenen usul ve esaslar doğrultusunda yoğun bakım ve resüsitasyon eğitimleri almaları sağlanır. (Ek cümle:RG-22/3/2017-30015) Ancak 17 nci maddenin birinci fıkrasının (a) bendinde belirtilen uzmanlık dallarında ve branş yoğun bakım servislerinde yoğun bakım sorumlusu olarak görevlendirilecek uzman tabipler için bu eğitimlerin alınması şartı aranmaz.

@@ -1,0 +1,14 @@
+Sorumlu uzman tabibin görev, yetki ve sorumlulukları
+MADDE 18 – (1)(Değişik cümle:RG-16/8/2015-29447) Sorumlu uzman tabip, hizmetin koordinasyonu ve organizasyonundan, bir bütün olarak planlanıp yürütülmesinden ve ekibinde görevli tüm personelden ilgili eğitim sorumlusu veya anabilim dalı başkanına, eğitim verilmeyen sağlık tesislerinde ise hastane yöneticisine karşı sorumlu olup görev, yetki ve sorumlulukları şunlardır:
+a) Hizmetlerin, kendisine bağlı personelin görev dağılımını, birbirleriyle olan iletişimlerini, iş akışı ve nöbet hizmetlerini bu Tebliğ hükümlerine ve ilgili sair mevzuata uygun olarak planlar, baştabibin onayına sunar ve ilgililere tebliğ edilmesini sağlar.
+b) Yoğun bakım personeline hizmet ve uygulamalar konusunda hizmet içi eğitim verir veya verilmesini sağlar, periyodik toplantılar düzenler, aksaklık ve noksanlıkları tespit eder ve hizmetin geliştirilmesi, yeni tedavi yöntemleri ile teknolojik gelişmelerin takibi ve uygulanması konusunda kararlar alır ve uygulatır.
+c) Lüzumlu ilaç, tıbbi cihaz, araç, gereç ve tıbbi sarf malzeme ihtiyacının tespiti ve temini, uygun koşullarda muhafazası ve kullanılmasını sağlar.
+ç) Sterilizasyon koşullarının sağlanması ve denetlenmesi, enfeksiyonlardan korunma, tıbbi atıkların toplanması ve depolanması ile ilgili iş ve işlemlerin mevzuatına uygun olarak yürütülmesini sağlar.
+d) Olağan dışı durumlarda birime davet edilecek ilave personeli belirler, uygulama planlarını yapar ve baştabibin onayına sunar.
+e) Yoğun bakım servislerine hastanın yatırılması, takip ve tedavi işlemleri ile konsültasyon hizmetlerinin verilmesi, taburcu edilmesi veya kurum dışına sevk edilmesine, lüzumu halinde ilgili dal uzmanı tabipler ile birlikte değerlendirerek karar verir.
+f) Yoğun bakım hastalarının tedavilerinin etkin bir şekilde verilebilmesi için gerekli görülen branşlardaki uzman tabiplerin yoğun bakım servisine davet edilmesini ve konsültasyonlarının düzenli olarak sürdürülmesini sağlar.
+g) Yoğun bakım servislerine yatışına karar verilen hastaların, ilgili klinikten çıkışı yapılarak yoğun bakım servisine girişinin yapılmasını ve sorumlusu olduğu servisin hastası olarak kayıt altına alınmasını, kliniklere alınacak hastaların yine aynı usûlle çıkış işleminin yapılarak ilgili kliniğe yatış kaydının yapılmasını sağlar.
+ğ) Hasta yatışı, taburculuk veya kurum dışına sevk işlemlerinin yoğun bakım üzerinden doğrudan gerçekleştirilmesini sağlar.
+h) Yoğun bakım hizmetlerinin hasta hakları mevzuatına, tıbbi deontolojiye, etik ilke ve kurallara uygun olarak yürütülmesini sağlar.
+ı) Organ donörü olabilecek hastalar hakkında organ nakli koordinatörünü önceden bilgilendirir. (Ek cümle:RG-29/5/2013-28661) Bu amaçla, Bakanlıkça belirlenen kayıt ve bildirim sistemlerinin kurulmasını ve merkezi sisteme entegrasyonunu sağlar.
+i) Aile hekimliği uygulamasına ilişkin mevzuatta yer alan kendileri ile ilgili görevleri de yapmakla yükümlüdür.
