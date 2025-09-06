@@ -1,0 +1,43 @@
+{
+  "source_id": "7.5.29020",
+  "kind": "regulation",
+  "register_kind": "Kurum ve Kuruluş Yönetmelikleri",
+  "title": "YATIRIM ALANLARININ BELİRLENMESİNE DAİR YÖNETMELİK",
+  "number": "29020",
+  "issuer": "Sanayi ve Teknoloji Bakanı",
+  "issuer_slug": "sanayi-ve-teknoloji-bakani",
+  "path": "regulation/sanayi-ve-teknoloji-bakani/2018/29020",
+  "source": "https://www.mevzuat.gov.tr/anasayfa/MevzuatFihristDetayIframe?MevzuatTur=7&MevzuatNo=29020&MevzuatTertip=5",
+  "source_sha256": "68798516ba6ba36cd8aff37ed305bbd6f0b03628f3c961dfcd74ddb3cccfdf8a",
+  "source_bytes": 40130,
+  "published": "2018-12-01",
+  "gazette": "30612",
+  "in_force": "2025-09-06",
+  "in_force_basis": "latest Resmî Gazete date printed in the source amendment notes/table (\"RG-6/9/2025\") for the current consolidated text",
+  "date_evidence": [
+    [
+      "2025-09-06",
+      "RG-6/9/2025",
+      "Resmî Gazete date printed in the source amendment note"
+    ],
+    [
+      "2025-09-06",
+      "6/9/2025",
+      "Resmî Gazete date in the source amendment table"
+    ]
+  ],
+  "commencement_clauses": [
+    "Bu Yönetmelik yayımı tarihinde yürürlüğe girer"
+  ],
+  "history": "current-text",
+  "label": "oldest version available",
+  "checked_on": "2026-11-15",
+  "word_count": 1364,
+  "text_status": "current-consolidated",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  },
+  "completeness": "html-text-complete"
+}
