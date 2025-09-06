@@ -1,0 +1,51 @@
+{
+  "id": "presidency-regulation-4198",
+  "number": "4198",
+  "kind": "regulation",
+  "issuer": "presidency",
+  "title": "AİLE HEKİMLİĞİ SÖZLEŞME VE ÖDEME YÖNETMELİĞİ",
+  "published": "2021-06-30",
+  "enacted": "2021-06-29",
+  "gazette_number": "31527",
+  "in_force": "2025-09-06",
+  "in_force_basis": "Latest source commencement-table date: 2025-09-06; official source: 5/9/2025 | 10375 | 18, 21 | 1/11/2024 tarihinden geçerli olmak üzere yayımı tarihinde (6/9/2025)",
+  "history": "current-only",
+  "version_label": "oldest version available",
+  "first_law": null,
+  "source": "https://www.mevzuat.gov.tr/anasayfa/MevzuatFihristDetayIframe?MevzuatNo=4198&MevzuatTur=21&MevzuatTertip=5",
+  "source_sha256": "6e9caa7eab369236703a69bbb52ca41b341f310ad2c56cebe984619b401907d7",
+  "source_links": [],
+  "missing_components": [],
+  "date_anomalies": [],
+  "images": {
+    "source": 2,
+    "referenced": 0,
+    "omitted": 2
+  },
+  "images_complete": false,
+  "image_inventory": [],
+  "images_omitted": [
+    {
+      "source_ref": "https://www.mevzuat.gov.tr/anasayfa/21.5.4198_dosyalar/image001.gif",
+      "description": "Official embedded image 1 (source supplies no caption)",
+      "reason": "not extractable",
+      "normative": true,
+      "position": 1,
+      "failure": "Exact source image URL returns an HTML page instead of image bytes",
+      "response_sha256": "d71c4a2e07c25a42607d6478092bc25fbc2225677b06376db61715cd15981bcb",
+      "response_bytes": 64854
+    },
+    {
+      "source_ref": "https://www.mevzuat.gov.tr/anasayfa/21.5.4198_dosyalar/image002.gif",
+      "description": "Official embedded image 2 (source supplies no caption)",
+      "reason": "not extractable",
+      "normative": true,
+      "position": 2,
+      "failure": "Exact source image URL returns an HTML page instead of image bytes",
+      "response_sha256": "97e5f236f623ed77fa43b1dee17154865d66a784cbf3bf0cfab87da70ec697be",
+      "response_bytes": 64854
+    }
+  ],
+  "completeness": "pending-images",
+  "text_layout": "article-files"
+}
