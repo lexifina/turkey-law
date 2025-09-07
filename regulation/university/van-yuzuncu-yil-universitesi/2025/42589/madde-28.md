@@ -1,0 +1,3 @@
+Mezuniyet derecesi
+MADDE 28- (1) Mezuniyet derecesi; derslerin AKTS’leri ile başarı notları çarpımının toplamının, öğrencinin almış olduğu toplam AKTS’ye bölünmesiyle elde edilir. Öğrencinin mezun olabilmesi için kayıtlı olduğu programın bütün derslerini başarması gerekir. Öğrencilerin mezuniyet şartları ve ilgili diğer işlemler, ilgili mevzuat hükümlerine göre yürütülür.
+(2) Mezuniyet şartlarını sağladığı halde, not ortalamasını yükseltmek için öğrenimine ders alarak devam etmek isteyen öğrencilerin, dönem sonu sınavlarının son gününe kadar dilekçe ile birimine başvurması gerekir. Bu öğrenciler yaz okulunda ders alamaz.

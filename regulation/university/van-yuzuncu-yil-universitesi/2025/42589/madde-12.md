@@ -1,0 +1,2 @@
+Yabancı dil
+MADDE 12- (1) Yabancı dil öğretimi ve yabancı dille öğretim; 23/3/2016 tarihli ve 29662 sayılı Resmî Gazete’de yayımlanan Yükseköğretim Kurumlarında Yabancı Dil Öğretimi ve Yabancı Dille Öğretim Yapılmasında Uyulacak Esaslara İlişkin Yönetmelik hükümlerine uygun olarak yürütülür. Yabancı dilde hazırlık eğitimi, 3/8/2015 tarihli ve 29434 sayılı Resmî Gazete’de yayımlanan Yüzüncü Yıl Üniversitesi Yabancı Diller Yüksekokulu Hazırlık Sınıfı Eğitim-Öğretim ve Sınav Yönetmeliği hükümlerine uygun olarak yürütülür.

@@ -1,0 +1,5 @@
+Ön lisans diploması verilmesi ve meslek yüksekokuluna intibak
+MADDE 30- (1) Lisans öğrenimini tamamlamayan veya tamamlayamayan ve ilk iki yılın bütün derslerini başaran öğrencilere, talep etmeleri halinde, önlisans diploması verilir.
+(2) Lisans öğrenimini tamamlayamayan öğrencilerin, başvurmaları halinde, meslek yüksekokullarına intibakları; 18/3/1989 tarihli ve 20112 sayılı Resmî Gazete’de yayımlanan Lisans Öğrenimlerini Tamamlamayan veya Tamamlayamayanların Ön Lisans Diploması Almaları veya Meslek Yüksekokullarına İntibakları Hakkında Yönetmelik hükümlerine göre yapılır.
+(3) İlk iki yılın bütün derslerini başarmış olsalar dahi, lisans öğrenimlerine devam eden öğrenciler ile ilgili mevzuat hükümlerine göre yükseköğretim kurumundan çıkarma cezası alanlara ön lisans diploması verilmez.
+(4) Ön lisans diplomasını alarak lisans programından ilişiği kesilenler, kendilerine tanınacak kanuni bir haktan yararlanarak, öğrenimlerine devam etmek istedikleri takdirde, ön lisans diplomalarını iade etmesi gerekir.

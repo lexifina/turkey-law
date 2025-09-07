@@ -1,0 +1,23 @@
+Tanımlar
+MADDE 3- (1) Bu Yönetmelikte geçen;
+a) AKTS: Öğrencinin iş yüküne dayalı Avrupa Kredi Transfer Sistemini,
+b) Birim: Üniversiteye bağlı fakülte, konservatuvar, yüksekokul, meslek yüksekokulunu,
+c) Danışman: Öğrencilerin eğitim-öğretim ve diğer sorunlarıyla ilgilenmek üzere fakülte dekanı/konservatuvar müdürü/yüksekokul müdürü/meslek yüksekokulu müdürü tarafından önerilen ve ilgili birimin yönetim kurulu tarafından görevlendirilen öğretim elemanını,
+ç) Ders tekrarı: Ders ve/veya uygulamalardan başarısız olunmasını,
+d) Fakülte: Van Yüzüncü Yıl Üniversitesine bağlı fakülteleri,
+e) İkinci öğretim: Yükseköğretim kurumlarında normal örgün öğretimin bitimini takiben yapılan örgün öğretimi,
+f) Konservatuvar: Van Yüzüncü Yıl Üniversitesine bağlı konservatuvarı,
+g) Mazeret sınavı: Haklı ve geçerli nedenlerle ara sınava ve bütünleme sınavına katılamayan öğrenci için açılan sınavı,
+ğ) Meslek yüksekokulu: Van Yüzüncü Yıl Üniversitesine bağlı meslek yüksekokullarını,
+h) Muafiyet sınavı: Senato tarafından belirlenen dersler için açılan sınavı,
+ı) Ortak zorunlu dersler: 2547 sayılı Kanunun 5 inci maddesinin birinci fıkrasının (ı) bendinde yer alan Atatürk İlkeleri ve İnkılap Tarihi, Türk Dili ve yabancı dil derslerini,
+i) Ön koşul ders: Öğrencinin ön koşullu bir derse kayıt yaptırabilmesi için başarmış olması gereken dersi,
+j) Ön koşullu ders: Öğrencinin kayıt yaptırabilmesi için bir veya daha çok ön koşul dersinin başarılmış olmasını gerektiren dersi,
+k) Rektör: Van Yüzüncü Yıl Üniversitesi Rektörünü,
+l) Seçmeli ders: Öğrencinin mezun olabilmesi için önerilenler içinde seçebileceği dersi,
+m) Senato: Van Yüzüncü Yıl Üniversitesi Senatosunu,
+n) TYYÇ: Türkiye Yükseköğretim Yeterlilikler Çerçevesini,
+o) Üniversite: Van Yüzüncü Yıl Üniversitesini,
+ö) Yüksekokul: Van Yüzüncü Yıl Üniversitesine bağlı yüksekokulları,
+p) Zorunlu ders: Öğrencinin kaydolduğu programda almakla yükümlü olduğu dersi,
+ifade eder.

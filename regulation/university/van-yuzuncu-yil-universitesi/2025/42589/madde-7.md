@@ -1,0 +1,6 @@
+Kayıt yenileme
+MADDE 7- (1) Kayıt yenileme ve ders alma işlemleri, eğitim-öğretim yılı veya yarıyılı başında, Senato tarafından belirlenen tarihler arasında yapılır. İlgili mevzuat gereği katkı payı ödemesi gereken öğrencilerin, kayıtlarını yenilemeleri için her yarıyıl belirlenen öğrenim katkı payını ödemesi gerekir. Öğrencinin kaydının silinmesi halinde, alınan öğrenim katkı payı iade edilmez.
+(2) İlan edilen tarihlerde, haklı ve geçerli nedenlerle öğrenim katkı payını ödemeyen veya kaydını yenilemeyen öğrenciler için ders kayıt hakkı, ilgili birimin yönetim kurulu kararının Senato tarafından onaylanması ile belirlenir. Bu durumda olan öğrencilerin, Senato tarafından belirlenen sürenin sonuna kadar ilgili birime başvurması gerekir.
+(3) Öğrenciler, azami ders yükü sınırı içinde kalmak koşuluyla; ilk kez aldıkları dersleri, kayıt yenileme süresi sonunda, Üniversitenin akademik takviminde belirtilen tarihler arasındaki ekle sil döneminde değiştirebilir, silebilir veya yeni ders ekleyebilir.
+(4) Ders kayıt işlemlerinden, birinci derecede öğrenci ve danışmanı sorumludur.
+(5) Belirlenen süreler içinde kaydını yaptırmayan veya yenilemeyen öğrenciler, o yarıyıl veya yılda derslere devam edemez, sınavlara giremez.

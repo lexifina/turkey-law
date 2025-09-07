@@ -1,0 +1,3 @@
+Eğitim-öğretim programları
+MADDE 8- (1) Öğretim programlarındaki derslerin en az % 25’i seçmeli ders olarak planlanır. Bir seçmeli dersin açılabilmesi için o dersi en az on öğrencinin seçmesi gerekir. Aksi takdirde, söz konusu seçmeli ders açılmaz. Ancak, bölüm/program/anabilim/anasanat dalına kayıtlı öğrenci sayısı onun altında kaldığında bu sınırlama geçerli değildir.
+(2) Eğitim-öğretim programları, Senatonun onayından sonra uygulamaya konulur. Zorunlu veya seçmeli bireysel uygulamalı derslerle ilgili, öğrenci sayısına bağlı olarak dersin açılıp açılmamasına ilgili birim kurulu karar verir, bu karar Senato tarafından onaylandığı takdirde uygulanır.

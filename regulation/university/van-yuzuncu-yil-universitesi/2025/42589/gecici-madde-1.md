@@ -1,0 +1,2 @@
+İntibak
+GEÇİCİ MADDE 1- (1) 2011-2012 eğitim-öğretim yılında veya daha önceden kayıt yaptırmış öğrencilerin mezuniyet işlemleri ve genel not ortalaması hesaplamaları, AKTS’ye göre yapılır. Ancak mezuniyet aşamasına geldiği halde, mezuniyet koşulu olan 240 AKTS’yi tamamlayamayan öğrencilerden, aldığı ulusal kredi miktarları mezuniyet için yeterli olanlar, ulusal krediye göre mezun edilebilir. Bu öğrencilerin genel not ortalamaları ulusal krediye göre hesaplanır ve bu öğrenciler için diploma eki düzenlenmez.
