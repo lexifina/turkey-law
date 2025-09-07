@@ -1,0 +1,3 @@
+Hazırlık sınıfı ve kurlar
+MADDE 8- (1) Hazırlık sınıfı okuyacak öğrenciler; başlangıç öncesi (Pre-A1), başlangıç (A1), başlangıç sonrası (A2), orta (B1) ve orta üstü (B2) olmak üzere beş ayrı kura yerleştirilirler. Orta üstü (B2) kurunu tamamlayan öğrenciler, ileri düzey (C1) kuruna ve sonrasında da profesyonel düzey (C2) kuruna devam etmeye hak kazanırlar. Hazırlık sınıfındaki haftalık ders yükleri öğrencilerin dil düzeylerine göre yirmi saatten az olmamak üzere Yabancı Diller Yüksekokulu Müdürlüğü tarafından belirlenir.
+(2) Yabancı Diller Yüksekokulu Müdürlüğü gerekli gördüğü hallerde haftalık ders saatlerinde değişiklik yapabilir ve ek dersler koyabilir.

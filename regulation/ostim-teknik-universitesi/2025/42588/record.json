@@ -1,0 +1,31 @@
+{
+  "source_id": "8.5.42588",
+  "kind": "regulation",
+  "register_kind": "Üniversite Yönetmelikleri",
+  "title": "OSTİM TEKNİK ÜNİVERSİTESİ YABANCI DİLLER YÜKSEKOKULU EĞİTİM ÖĞRETİM VE SINAV YÖNETMELİĞİ",
+  "number": "42588",
+  "issuer": "OSTİM TEKNİK ÜNİVERSİTESİ",
+  "issuer_slug": "ostim-teknik-universitesi",
+  "path": "regulation/ostim-teknik-universitesi/2025/42588",
+  "source": "https://www.mevzuat.gov.tr/anasayfa/MevzuatFihristDetayIframe?MevzuatTur=8&MevzuatNo=42588&MevzuatTertip=5",
+  "source_sha256": "523ae716d105e99f81883a60db3d687c8cde88af4705d2dc2e291fd3187fcfed",
+  "source_bytes": 60491,
+  "published": "2025-09-07",
+  "gazette": "33010",
+  "in_force": "2025-09-07",
+  "in_force_basis": "Resmî Gazete publication date in the official listing (07.09.2025); own commencement article: \"Bu Yönetmelik 2025-2026 eğitim-öğretim yılı başında yürürlüğe girer\"",
+  "commencement_clauses": [
+    "Bu Yönetmelik 2025-2026 eğitim-öğretim yılı başında yürürlüğe girer"
+  ],
+  "history": "current-text",
+  "label": "oldest version available",
+  "checked_on": "2026-11-15",
+  "word_count": 1822,
+  "text_status": "current-consolidated",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  },
+  "completeness": "html-text-complete"
+}

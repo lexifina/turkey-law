@@ -1,0 +1,7 @@
+İKİNCİ BÖLÜM
+Hazırlık Sınıfı Eğitim Öğretimine İlişkin Esaslar
+Öğrenim süresi
+MADDE 5- (1) Hazırlık sınıfında normal eğitim-öğretim süresi bir akademik yıl, azami eğitim-öğretim süresi ise iki akademik yıldır. Hazırlık sınıfını iki akademik yıl içinde başarı ile tamamlayamayan öğrencilerin programdan ilişiği kesilir. İlişiği kesilen öğrencilere talep etmeleri halinde üç yıl içinde kullanacakları üç sınav hakkı verilir. Söz konusu öğrenciler bu sınav hakkını akademik yılın başlangıcındaki yeterlik sınavlarına girmek suretiyle kullanır.
+(2) Bir eğitim-öğretim yılı en az dört modülden oluşur. Akademik takvim, Senato tarafından belirlenir. Senato, gerekli gördüğü hallerde yarıyıl sürelerini uzatabilir, bir yarıyıl on dört haftadan az olmayacak şekilde kısaltabilir veya ilgili mevzuat hükümleri kapsamında Senato kararıyla yaz okulu açabilir. Yaz okulu ile ilgili esaslar Senato tarafından belirlenir.
+(3) Hazırlık sınıfında eğitim-öğretim senelik olarak yürütülür. Öğrenci güz yarıyılı sonunda hazırlık sınıfını tamamlamış olsa dahi kayıtlı olduğu programa geçemez. Bu durumda olan öğrenciler, Temel İngilizce Bölümü tarafından açılacak ileri seviye kurlara veya diğer eğitimlere katılır.
+(4) Kurun yarıyıl devam ederken bitmesi halinde öğrenci, ön lisans ve lisans öğrencilerine yönelik yapılacak ilk yeterlik sınavına kadar Temel İngilizce Bölümü tarafından açılacak ileri seviye kurlara veya diğer eğitimlere katılabilir.

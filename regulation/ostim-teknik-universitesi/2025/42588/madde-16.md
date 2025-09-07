@@ -1,0 +1,2 @@
+İzinli sayılma
+MADDE 16- (1) İngilizce hazırlık sınıfı öğrencileri, Ostim Teknik Üniversitesi Ön Lisans ve Lisans Eğitim-Öğretim ve Sınav Yönetmeliğinde yer alan haklı ve geçerli nedenle bir veya iki yarıyıl için izin isteğinde bulunabilir. İzinli sayılmaya ilişkin olarak Ostim Teknik Üniversitesi Ön Lisans ve Lisans Eğitim-Öğretim ve Sınav Yönetmeliğinde yer alan ve Senato tarafından belirlenen kurallar uygulanır.

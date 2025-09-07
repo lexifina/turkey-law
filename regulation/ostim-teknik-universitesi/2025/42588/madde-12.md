@@ -1,0 +1,4 @@
+Zorunlu ve seçmeli yabancı dil dersleri
+MADDE 12- (1) Üniversitenin fakülte ve yüksekokullarına kayıtlı öğrencilerin, eğitim gördükleri programlarda ve mezuniyet sonrasındaki mesleki yaşamlarında ihtiyaç duyacakları yabancı dil becerilerini kazanmaları ve geliştirmeleri amacıyla, Modern Diller Bölümü tarafından zorunlu ve seçmeli yabancı dil dersleri açılır.
+(2) Açılacak olan derslerin içeriği ve kredileri, derslerin bünyesinde verileceği meslek yüksekokulu/fakülte kurulları ile Modern Diller Bölüm Başkanlığı koordinesinde belirlenir.
+(3) Zorunlu derslerden muafiyetlere ilişkin ölçütler ve esaslar Yabancı Diller Yüksekokulu Yönetim Kurulu kararı ile belirlenip Yabancı Diller Yüksekokulu internet sitesinden ilan edilir ve Öğrenci İşleri Daire Başkanlığı ile ilgili akademik birimlere bilgi verilir.
