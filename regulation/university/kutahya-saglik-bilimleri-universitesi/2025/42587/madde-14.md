@@ -1,0 +1,3 @@
+Danışmanlık
+MADDE 14- (1) Öğrencilerin eğitim-öğretimle ilgili sorunlarının çözümüne yardımcı olmak ve öğrencileri yönlendirmek üzere, öğretim yılı başlamadan önce bölüm öğretim elemanları arasından danışmanlar görevlendirilir. Danışmanlar, ilgili yönerge hükümlerinde belirtilen esaslara göre danışmanlık faaliyetlerini yürütür.
+(2) Danışman; meslek yüksekokullarında müdür veya müdür yardımcıları, fakültelerde ise bölüm başkanları tarafından görevlendirilir. Kayıt süresi içerisinde geçerli bir mazereti nedeniyle görevinde bulunamayacak olan danışman, bu durumu bir yazı ile birim yöneticisine bildirir. Mazereti kabul edilen danışman yerine, bu fıkrada öngörüldüğü şekilde ve geçici olarak bir öğretim elemanı görevlendirilir ve bu görevlendirme ilgili öğrencilere duyurulur.

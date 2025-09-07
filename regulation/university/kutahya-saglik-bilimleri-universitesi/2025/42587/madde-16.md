@@ -1,0 +1,6 @@
+Ders alma
+MADDE 16- (1) Öğrenciler birim yönergelerinde belirtilen koşullara uygun şekilde dersleri almakla yükümlüdür.
+(2) Tıp ve Diş Hekimliği Fakültesi hariç, AGNO’su en az 3,00 olan öğrenciler, üst yarıyıllardan/yıllardan ders alabilir.
+(3) Öğrenciler başarısız oldukları, ancak sonradan programdan çıkarılan dersler yerine, kayıtlı oldukları bölüm tarafından uygun görülen dersleri alırlar.
+(4) Öğrenciler süresi içinde ve usulüne uygun olarak kaydolmadıkları derslere devam edemez ve bu derslerin sınavlarına giremezler. Kaydolmadığı dersin sınavına giren öğrencinin sınavı geçersiz sayılır.
+(5) Öğrenciler, kayıtlı oldukları bölüm başkanlığının teklifi ve ilgili yönetim kurulunun kararı ile ilgili dersin teorik ve pratik AKTS kredilerinin uyumlu olması şartıyla diğer üniversitelerden yaz okullarında ders alabilirler. Farklı bir yükseköğretim kurumunda yaz okulundan ders almak isteyen öğrenciler fakülteye kayıt oldukları eğitim-öğretim dönemi itibarıyla ders almak istediği programın taban puanının (burslu-burssuz olmasına bakılmaksızın programın öğrenci kabul ettiği en düşük puanın) kendi programının taban puanına eşit ve daha yüksek olduğunu dilekçesinde beyan eder. Bu koşul Temel Tıp Bilimleri ve Mesleki Alan dersleri için de geçerlidir.

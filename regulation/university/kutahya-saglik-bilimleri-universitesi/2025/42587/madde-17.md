@@ -1,0 +1,2 @@
+Uygulamalı ders, işletmede mesleki eğitim veya stajlar
+MADDE 17- (1) Uygulamalı ders, işletmede mesleki eğitim veya staj zorunluluğu olan programlarda uygulamalı ders, işletmede mesleki eğitim veya staj, uygulama ve benzeri çalışmalarla ilgili esaslar YÖK tarafından belirlenen düzenlemeler kapsamında akademik birimlerin anabilim dalı kurulları ve bölüm kurullarından gelen öneriler göz önüne alınarak Fakülte Kurulu önerisi ile Senato tarafından kararlaştırılır.

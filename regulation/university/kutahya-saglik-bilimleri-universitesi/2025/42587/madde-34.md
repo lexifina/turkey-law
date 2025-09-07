@@ -1,0 +1,3 @@
+Diploma
+MADDE 34- (1) Diploma bir defa için verilir. Diplomanın kaybedilmesi durumunda, belirlenen harç yatırılarak dilekçe ile başvurulması ve başvurunun incelenmesi sonucu ikinci nüsha belge talebinin uygun bulunması halinde kaybedilen asıl belgeye ait bilgilerin de bulunduğu birim yönetim kurulu kararı ve Rektörlük oluru ile diplomanın ikinci nüshası hazırlanır. Bu şekilde verilen diploma üzerinde ikinci nüsha ibaresi konulur.
+(2) Diploma ile birlikte her öğrenciye tamamlayıcı bir belge olan diploma eki verilir. Diploma ekinde; alınan derece ile ilgili bilgiler, derecenin düzeyi, içeriği ve kullanım alanları, eğitim sistemi ve Üniversitenin eğitim ve değerlendirme sistemi gibi bilgilere yer verilir.

@@ -1,0 +1,6 @@
+Ders kayıtları ve kayıt yenileme
+MADDE 13- (1) Kayıt yenileme ve ders alma işlemleri, eğitim-öğretim yarıyılı/yılı başlamadan akademik takvimde belirtilen tarihler arasında yapılır. Kayıt yenilemek ve ders almak için öğrenci katkı payı veya öğrenim ücreti ödemekle yükümlü öğrencilerin ödemeleri yapmış olması gerekir. Öğrencilerin kaydının silinmesi halinde, alınan öğrenci katkı payı veya öğrenim ücreti iade edilmez. 2547 sayılı Kanunun 46 ncı maddesi uyarınca, öğrenim katkı payını ödemeyenler o dönem için ders kaydı yaptıramaz ve öğrencilik haklarından yararlanamazlar.
+(2) Ders kayıt işlemlerinden öğrenci sorumludur.
+(3) Öğrenci ekle-sil günlerinde ders/şube değişikliği yapabilir. Yenilenen program danışman onayı ile kesinleşir/onaylanır.
+(4) Akademik takvimde belirtilen sürede kayıt yenilemeyen öğrencilerden kaydını yenilemek isteyenler, ilgili yönerge hükümlerine göre mazeret gerekçelerini belirten dilekçe ve belgeleri ile ekle-sil haftasının ilk 3 (üç) günü mesai bitimine kadar ilgili birime başvururlar. Başvurular, ilgili birim yönetim kurulunca geçen sürenin devamsızlıktan sayılması şartıyla karara bağlanır.
+(5) Belirlenen süre içinde kaydını yenilemeyen, haklı ve geçerli sebepleri olmayan öğrenciler, o yarıyıl veya yılda derslere devam edemez ve sınavlara giremezler.

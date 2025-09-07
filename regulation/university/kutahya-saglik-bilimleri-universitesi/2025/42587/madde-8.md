@@ -1,0 +1,4 @@
+Eğitim-öğretim dönemleri
+MADDE 8- (1) Eğitim ve öğretim; yarıyıl veya yıl esasına göre düzenlenir. Eğitim-öğretim dönemleri, yarıyıl uygulayan birimlerde güz ve bahar yarıyıllarından oluşur. Güz ve bahar yarıyıllarına ek olarak staj, yaz kursları ve/veya yaz dönemi açılabilir. Bunların süresi ve uygulama şekli, ilgili kurulların önerisi üzerine Senato tarafından düzenlenir. Bir yarıyıl 70 (yetmiş) günden; bir yıl 140 (yüz kırk) günden az olamaz. Senato gerekli gördüğü hallerde yarıyıl sürelerini uzatabilir.
+(2) Üniversitenin bir sonraki eğitim-öğretim yılına ait akademik takvimi, eğitim-öğretim yılının başlamasından önce Senato tarafından belirlenir ve ilan edilir.
+(3) Müfredatta yer alan dersler gerektiğinde ilgili birim kurullarının teklifi ve Senatonun kararı ile milli ve dini bayramlar dışında cumartesi veya pazar günleri ve mesai saatleri dışında da yapılabilir.

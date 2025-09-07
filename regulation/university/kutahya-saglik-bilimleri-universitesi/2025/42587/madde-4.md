@@ -1,0 +1,23 @@
+Tanımlar
+MADDE 4- (1) Bu Yönetmelikte geçen;
+a) AGNO: Ağırlıklı genel not ortalamasını,
+b) Ara sınav: İlgili eğitim ve öğretim programının öngördüğü derslerden yarıyıl/yıl içinde yapılan sınavı,
+c) Avrupa Kredi Transfer Sistemi (AKTS): Öğrencilerin yurt içinde ve yurt dışında aldıkları ve başarılı oldukları ders kredilerinin bir yükseköğretim kurumundan diğerine transferini sağlayan sistemi,
+ç) AYNO: Ağırlıklı yarıyıl not ortalamasını,
+d) Birim: Kütahya Sağlık Bilimleri Üniversitesine bağlı ilgili fakülte ve meslek yüksekokullarını,
+e) Birim kurulu: Kütahya Sağlık Bilimleri Üniversitesine bağlı fakülte ve meslek yüksekokulu kurullarını,
+f) Birim yöneticisi: Kütahya Sağlık Bilimleri Üniversitesine bağlı birimlerin yöneticilerini,
+g) Birim yönetim kurulu: Kütahya Sağlık Bilimleri Üniversitesine bağlı birimlerin yönetim kurullarını,
+ğ) Bölüm: Amaç, kapsam ve nitelik yönünden bir bütün teşkil eden, birbirini tamamlayan veya birbirine yakın anabilim dallarından oluşan; fakültelerin ve meslek yüksekokullarının eğitim-öğretim, bilimsel araştırma ve uygulama birimini,
+h) Danışman: Öğrencilerin eğitim-öğretim ve diğer sorunlarıyla ilgilenmek üzere görevlendirilen öğretim elemanını,
+ı) Fakülte: Kütahya Sağlık Bilimleri Üniversitesine bağlı fakülteleri,
+i) Lisans: Ortaöğretimden sonra, en az sekiz yarıyıllık veya dört yıllık bir programı kapsayan yükseköğretimi,
+j) Müdür/Müdürlük: Kütahya Sağlık Bilimleri Üniversitesine bağlı meslek yüksekokullarının müdürlerini/müdürlüklerini,
+k) ÖSYM: Ölçme, Seçme ve Yerleştirme Merkezi Başkanlığını,
+l) Rektör: Kütahya Sağlık Bilimleri Üniversitesi Rektörünü,
+m) Senato: Kütahya Sağlık Bilimleri Üniversitesi Senatosunu,
+n) Üniversite: Kütahya Sağlık Bilimleri Üniversitesini,
+o) Üniversite Yönetim Kurulu: Kütahya Sağlık Bilimleri Üniversitesi Yönetim Kurulunu,
+ö) Yarıyıl/yılsonu sınavı: Dersin okutulduğu yarıyıl/yılsonunda akademik takvimde belirlenen tarihler arasında yapılan sınavı,
+p) YÖK: Yükseköğretim Kurulu Başkanlığını,
+ifade eder.

@@ -1,0 +1,7 @@
+Eğitim-öğretim programları
+MADDE 11- (1) Birimlerin eğitim programlarında görev alacak öğretim elemanları ile ders ve uygulama çizelgeleri her yarıyılın/yılın başında ilgili birim kurulları tarafından düzenlenir ve Rektör tarafından onaylanır.
+(2) Dersler zorunlu ve seçmeli olmak üzere iki gruba ayrılır. Zorunlu ve seçmeli dersler teorik ve/veya uygulamalı olarak yapılır. Her öğrenci, kayıtlı olduğu bölümün zorunlu derslerini ve müfredatında belirtilen sayıda seçmeli ders almakla yükümlüdür.
+(3) Eğitim programlarında yer alacak zorunlu ve seçmeli derslerin yarıyıllara dağılımı ve yapılacak değişiklikler, akademik anabilim dalı kurulları ve bölüm kurullarından gelen öneriler göz önüne alınarak ilgili birim kurulu önerisi ile Senatoda kararlaştırılır. Gerekli hallerde öğrenci zorunlu/seçmeli dersi, başka programların seçmeli veya zorunlu dersleri arasından bölüm başkanlığı onayıyla birim kurulu kararı ile seçebilir.
+(4) Her dönem için en az ve en fazla alınabilecek AKTS kredileri birimlerin ilgili yönergelerine göre belirlenir.
+(5) Eğitim-öğretim programı, fakülte veya meslek yüksekokulların niteliklerine göre teorik dersler ve/veya uygulamalar, seminer, laboratuvar, klinik çalışma, staj, intörnlük, bitirme projesi ve benzeri çalışmalardan oluşabilir.
+(6) Teorik ve uygulamalı dersler içinde seminer, uygulama, klinik uygulama, klinik çalışması, laboratuvar çalışması ve inceleme, ödev, bireysel çalışma, mesleksel beceri uygulamaları, hasta başı vizitleri, sınava hazırlanma, alan çalışması, mezuniyet tezi, proje gibi diğer etkinlikler yer alabilir.
