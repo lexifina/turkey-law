@@ -1,0 +1,31 @@
+{
+  "act_path": "regulation/university/yuksek-ihtisas-universitesi/2025/42590",
+  "availability": "text",
+  "checked_on": "2026-11-14",
+  "commencement_clauses": [
+    "MADDE 18- (1) Bu Yönetmelik yayımı tarihinde yürürlüğe girer."
+  ],
+  "date_quote": "MADDE 18- (1) Bu Yönetmelik yayımı tarihinde yürürlüğe girer.",
+  "first_law": null,
+  "gazette": "33011",
+  "history": "as-enacted",
+  "images": {
+    "deferred": 0,
+    "omitted": 0,
+    "referenced": 0,
+    "source": 0
+  },
+  "in_force": "2025-09-08",
+  "in_force_basis": "source commencement clause: effective on Gazette publication",
+  "issuer": "Yüksek İhtisas Üniversitesi",
+  "issuer_slug": "yuksek-ihtisas-universitesi",
+  "kind": "regulation",
+  "published": "2025-09-08",
+  "source": "https://www.mevzuat.gov.tr/anasayfa/MevzuatFihristDetayIframe?MevzuatTur=8&MevzuatNo=42590&MevzuatTertip=5",
+  "source_id": "8.5.42590",
+  "source_sha256": "f20e957fa85dcb827f21e466b86177382c1f3625e748ae9ee0bdd7f4ef4af24a",
+  "title": "YÜKSEK İHTİSAS ÜNİVERSİTESİ SÜREKLİ EĞİTİM UYGULAMA VE ARAŞTIRMA MERKEZİ YÖNETMELİĞİ",
+  "university_id": 463,
+  "version_label": "oldest version available",
+  "word_count": 1399
+}
