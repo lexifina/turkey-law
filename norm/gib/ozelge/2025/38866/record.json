@@ -1,0 +1,22 @@
+{
+  "kind": "norm",
+  "issuer": "Gelir İdaresi Başkanlığı",
+  "document_type": "ozelge",
+  "number": "E-67854564-105[1741-9465]-494221",
+  "source_id": 38866,
+  "date": "2025-09-09",
+  "title": "Enflasyon Düzeltmesinde Amortisman Ayrılmayan veya Eksik Ayrılan ATİK'lerin Sonradan Elden Çıkarılması Hk.",
+  "source": "https://gib.gov.tr/mevzuat/kanun/434/ozelge/38866",
+  "related_law": "213 sayılı VERGİ USUL KANUNU",
+  "source_api": "https://gib.gov.tr/api/gibportal/mevzuat/ozelge/list",
+  "source_listing": "evidence/list/2026-11-16/ozelge-p009.json",
+  "source_listing_sha256": "9cb52b4963a9a177a23948f6e28c12936c2f43c88a0b410872bb81c01983667c",
+  "source_sha256": "6be87024dfaa8d00711574bb68411a4b7677ddc33b04bebbb87af8655382391d",
+  "text_status": "as-enacted",
+  "text_file": "metin.md",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  }
+}
