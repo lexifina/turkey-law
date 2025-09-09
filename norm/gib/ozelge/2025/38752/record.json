@@ -1,0 +1,22 @@
+{
+  "kind": "norm",
+  "issuer": "Gelir İdaresi Başkanlığı",
+  "document_type": "ozelge",
+  "number": "62030549-125-1129645",
+  "source_id": 38752,
+  "date": "2025-09-09",
+  "title": "Kurumlar Vergisi Oranının 1 Puan İndirimli Uygulanması",
+  "source": "https://gib.gov.tr/mevzuat/kanun/435/ozelge/38752",
+  "related_law": "5520 sayılı KURUMLAR VERGİSİ KANUNU",
+  "source_api": "https://gib.gov.tr/api/gibportal/mevzuat/ozelge/list",
+  "source_listing": "evidence/list/2026-11-16/ozelge-p009.json",
+  "source_listing_sha256": "9cb52b4963a9a177a23948f6e28c12936c2f43c88a0b410872bb81c01983667c",
+  "source_sha256": "43e6c087505a84f67dac5659369bb4387eaca17c6cf5c0b4c74c34d586478295",
+  "text_status": "as-enacted",
+  "text_file": "metin.md",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  }
+}
