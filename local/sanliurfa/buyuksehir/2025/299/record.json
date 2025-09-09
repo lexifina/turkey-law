@@ -1,0 +1,24 @@
+{
+  "number": "299",
+  "number_as_published": "299",
+  "year": 2025,
+  "title": "NAZIM VE UYGULAMA İMAR PLANI DEĞİŞİKLİĞİ (EYYÜBİYE - YENİCE)",
+  "decision_date": "2025-09-09",
+  "source": "https://www.sanliurfa.bel.tr/icerik/21396/106/nazim-ve-uygulama-imar-plani-degisikligi-eyyubiye---yenice",
+  "official_document": null,
+  "source_sha256": "24b249d042f0ed7561fe3d35357c413413447f50d9e0c8b0d8ac1d3c67028693",
+  "issuer": "Şanlıurfa Büyükşehir Belediye Meclisi",
+  "history_type": "metadata",
+  "text_status": "metadata-only: decision number, date and subject from the official announcement; the decision text is not published on the page",
+  "in_force": "2025-09-09",
+  "in_force_basis": "Decision date as printed in the official council listing: 09.09.2025 tarih ve 299 sayılı (council decision cited in the official announcement); adoption date of the council decision; legal commencement not asserted",
+  "missing": [
+    "complete official decision text",
+    "official annexes"
+  ],
+  "law_text_complete": false,
+  "privacy_withheld": false,
+  "record_scope": "one council decision, as cited in the municipality's official plan announcement (ilan)",
+  "announcement_date": "2025-09-23",
+  "listing": "https://www.sanliurfa.bel.tr/kategori/82/0/meclis-kararlari?page=1"
+}
