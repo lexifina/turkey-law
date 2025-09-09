@@ -1,0 +1,20 @@
+{
+  "record_type": "gazette-item",
+  "gazette": "Resmî Gazete",
+  "jurisdiction": "TR",
+  "date": "2025-09-09",
+  "issue": "33012",
+  "edition": "regular",
+  "item": 4,
+  "section": "YÜRÜTME VE İDARE BÖLÜMÜ",
+  "heading": "TEBLİĞ",
+  "title": "Mali Suçları Araştırma Kurulu Genel Tebliği (Sıra No: 30)",
+  "official_link": "https://www.resmigazete.gov.tr/eskiler/2025/09/20250909-4.htm",
+  "link_format": "htm",
+  "index_url": "https://www.resmigazete.gov.tr/eskiler/2025/09/20250909.htm",
+  "index_sha256": "e4edfc6c8dea9d659370072a073483e30e041b5589ea2a80484ebd4a9f89671f",
+  "index_header": "9 Eylül 2025 ... 33012 Sayılı Resmî Gazete",
+  "issue_pdf": "https://www.resmigazete.gov.tr/eskiler/2025/09/20250909.pdf",
+  "in_force_basis": "Resmî Gazete publication date; not a commencement reading.",
+  "text_status": "metadata-only; text not yet fetched (follow-up pass adds it as its own commit)"
+}
