@@ -1,0 +1,20 @@
+{
+  "number": "1106",
+  "title": "DEVİR",
+  "decision_date": "2025-09-10",
+  "source": "https://www.tekirdag.bel.tr/meclis_donemleri/meclis_karar_ozetleri/2666",
+  "official_document": "https://www.tekirdag.bel.tr/karar_metin_goruntule/2666/1106",
+  "source_sha256": "a1d7794161fe6f2246a03da468b023712870a1e7a880172ce46ed8fc5e832322",
+  "issuer": "Tekirdağ Büyükşehir Belediye Meclisi",
+  "history_type": "metadata",
+  "text_status": "official decision summary (Karar Özeti) as published in the council catalogue; complete decision text is in the linked official PDF, not transcribed",
+  "in_force": "2025-09-10",
+  "in_force_basis": "Official Birleşim Tarihi: 10.09.2025; adoption date for catalogue metadata; legal commencement not asserted",
+  "session": "1 / Oturum No : 1",
+  "missing": [
+    "complete official decision text",
+    "official annexes, including any normative images"
+  ],
+  "law_text_complete": false,
+  "privacy_withheld": false
+}
