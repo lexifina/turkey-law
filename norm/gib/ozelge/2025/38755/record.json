@@ -1,0 +1,22 @@
+{
+  "kind": "norm",
+  "issuer": "Gelir İdaresi Başkanlığı",
+  "document_type": "ozelge",
+  "number": "11355271-125[5KVK/42022/15-]-73125",
+  "source_id": 38755,
+  "date": "2025-09-10",
+  "title": "Kooperatifin KVK ve KDV Mükellefiyeti",
+  "source": "https://gib.gov.tr/mevzuat/kanun/435/ozelge/38755",
+  "related_law": "5520 sayılı KURUMLAR VERGİSİ KANUNU",
+  "source_api": "https://gib.gov.tr/api/gibportal/mevzuat/ozelge/list",
+  "source_listing": "evidence/list/2026-11-16/ozelge-p009.json",
+  "source_listing_sha256": "9cb52b4963a9a177a23948f6e28c12936c2f43c88a0b410872bb81c01983667c",
+  "source_sha256": "48a28587817a4fa2da4a67ae0b9477fa4aca30c012ae28a44439b2b5cbbd45f5",
+  "text_status": "as-enacted",
+  "text_file": "metin.md",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  }
+}
