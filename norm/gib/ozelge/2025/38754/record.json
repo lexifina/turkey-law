@@ -1,0 +1,22 @@
+{
+  "kind": "norm",
+  "issuer": "Gelir İdaresi Başkanlığı",
+  "document_type": "ozelge",
+  "number": "16432732-130[17-2022-75]-83530",
+  "source_id": 38754,
+  "date": "2025-09-10",
+  "title": "Banka tarafından ipotekli olan şirkete ait arsanın TMSF tarafından satışında kazanç istisnası",
+  "source": "https://gib.gov.tr/mevzuat/kanun/435/ozelge/38754",
+  "related_law": "5520 sayılı KURUMLAR VERGİSİ KANUNU",
+  "source_api": "https://gib.gov.tr/api/gibportal/mevzuat/ozelge/list",
+  "source_listing": "evidence/list/2026-11-16/ozelge-p009.json",
+  "source_listing_sha256": "9cb52b4963a9a177a23948f6e28c12936c2f43c88a0b410872bb81c01983667c",
+  "source_sha256": "fdd3bce1ed6d415926ed53ce9844c532ded666e3709cd9537474ebecf4ff6572",
+  "text_status": "as-enacted",
+  "text_file": "metin.md",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  }
+}
