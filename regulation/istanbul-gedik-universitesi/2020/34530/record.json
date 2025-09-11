@@ -1,0 +1,79 @@
+{
+  "checked_on": "2026-11-14",
+  "commencement_clauses": [
+    "MADDE 12 – (1) Bu Yönetmelik yayımı tarihinde yürürlüğe girer."
+  ],
+  "date_evidence": [
+    [
+      "2020-05-16",
+      "16.05.2020",
+      "original gazette publication date in official listing"
+    ],
+    [
+      "2025-09-11",
+      "RG-11/9/2025-33014",
+      "latest source-printed gazette amendment date for current consolidated text"
+    ],
+    [
+      "2025-09-11",
+      "RG-11/9/2025-33014",
+      "latest source-printed gazette amendment date for current consolidated text"
+    ],
+    [
+      "2025-09-11",
+      "RG-11/9/2025-33014",
+      "latest source-printed gazette amendment date for current consolidated text"
+    ],
+    [
+      "2025-09-11",
+      "RG-11/9/2025-33014",
+      "latest source-printed gazette amendment date for current consolidated text"
+    ],
+    [
+      "2025-09-11",
+      "RG-11/9/2025-33014",
+      "latest source-printed gazette amendment date for current consolidated text"
+    ],
+    [
+      "2025-09-11",
+      "RG-11/9/2025-33014",
+      "latest source-printed gazette amendment date for current consolidated text"
+    ],
+    [
+      "2025-09-11",
+      "RG-11/9/2025-33014",
+      "latest source-printed gazette amendment date for current consolidated text"
+    ],
+    [
+      "2024-09-11",
+      "11/9/2024",
+      "latest gazette date in source amendment table"
+    ]
+  ],
+  "date_quote": "RG-11/9/2025-33014",
+  "first_law": null,
+  "gazette": "31129",
+  "history": "current-text",
+  "images": {
+    "deferred": 0,
+    "omitted": 0,
+    "referenced": 0,
+    "source": 0
+  },
+  "in_force": "2025-09-11",
+  "in_force_basis": "latest source-printed gazette amendment date for current consolidated text",
+  "issuer": "İstanbul Gedik Üniversitesi",
+  "issuer_slug": "istanbul-gedik-universitesi",
+  "kind": "regulation",
+  "label": "oldest version available",
+  "path": "regulation/istanbul-gedik-universitesi/2020/34530",
+  "published": "2020-05-16",
+  "source": "https://www.mevzuat.gov.tr/anasayfa/MevzuatFihristDetayIframe?MevzuatTur=8&MevzuatNo=34530&MevzuatTertip=5",
+  "source_bytes": 26587,
+  "source_id": "8.5.34530",
+  "source_sha256": "9367ce1cacea0c977ee5cc978ea26ea973f72f59e58fe8013e5075387a1ccc18",
+  "text_status": "current-consolidated",
+  "title": "İSTANBUL GEDİK ÜNİVERSİTESİ ATATÜRK İLKELERİ VE İNKILAP TARİHİ UYGULAMA VE ARAŞTIRMA MERKEZİ YÖNETMELİĞİ",
+  "university_id": 369,
+  "word_count": 890
+}
