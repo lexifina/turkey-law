@@ -1,0 +1,23 @@
+{
+  "number": "meeting-09-11",
+  "number_as_published": null,
+  "year": 2025,
+  "title": "11.09.2025 TARİHLİ KARAR ÖZETLERİ",
+  "decision_date": "2025-09-11",
+  "source": "https://www.kocaeli.bel.tr/meclis-karar/11092025-tarihli-karar-ozetleri-864.html",
+  "official_document": "https://www.kocaeli.bel.tr/files/uploads/documents/1758182177_11092025-tarihli-karar-ozeti_ustyazipdf.pdf",
+  "source_sha256": "41c9bd83fdd2c6cee38442cf54445713cf4222768b97fde1ae853132acbb2472",
+  "issuer": "Kocaeli Büyükşehir Belediye Meclisi",
+  "history_type": "metadata",
+  "text_status": "metadata-only: listing fields as published; complete decision text is in the linked official document, not transcribed",
+  "in_force": "2025-09-11",
+  "in_force_basis": "Decision date as printed in the official council listing: 11.09.2025 TARİHLİ (meeting date in the official title); adoption date of the council decision; legal commencement not asserted",
+  "missing": [
+    "complete official decision text",
+    "official annexes"
+  ],
+  "law_text_complete": false,
+  "privacy_withheld": false,
+  "record_scope": "one official PDF of decision summaries per council meeting",
+  "listing": "https://www.kocaeli.bel.tr/meclis-karar-ozetleri.html"
+}
