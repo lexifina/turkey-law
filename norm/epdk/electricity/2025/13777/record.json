@@ -1,0 +1,25 @@
+{
+  "kind": "norm",
+  "issuer": "Enerji Piyasası Düzenleme Kurumu",
+  "market": "electricity",
+  "document_type": "board-decision",
+  "number": "13777",
+  "decision_date": "2025-09-11",
+  "title": "2025 yılında uygulanacak iletim ek ücreti, Türkiye Elektrik İletim Anonim Şirketi’nin iletim tarifesinin %0,5 (binde beş)’i olarak belirlenmiştir.",
+  "resmi_gazete_date": "2025-09-13",
+  "resmi_gazete_number": "33016",
+  "categories": [
+    "TEİAŞ"
+  ],
+  "source": "https://www.epdk.gov.tr/Detay/DownloadDocument?id=3hOCoGU5QlA=",
+  "documents": [
+    "https://www.epdk.gov.tr/Detay/DownloadDocument?id=3hOCoGU5QlA="
+  ],
+  "source_sha256": "48b0582c551f33673ab54c17c0211b5e0469b52be7e42e0042f31778dbce4087",
+  "official_list": "https://www.epdk.gov.tr/Detay/Icerik/3-0-39/kurul-kararlari-",
+  "official_list_leaf": 1520,
+  "text_status": "as-enacted",
+  "text_file": "metin.md",
+  "in_force": "2025-09-11",
+  "law_text_complete": true
+}
