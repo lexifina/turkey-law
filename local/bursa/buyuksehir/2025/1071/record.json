@@ -1,0 +1,18 @@
+{
+  "issuer": "Bursa Büyükşehir Belediye Meclisi",
+  "number": "1071",
+  "decision_date": "2025-09-11",
+  "version_label": "as-enacted",
+  "source_url": "https://www.bursa.bel.tr/storage/medya/meclis_karar_yeni/2025-1071.pdf",
+  "source_sha256": "bbc48818cc8c814c9ebceeb298ce499d29cb1a8d933bdd7f33e932e615a32e32",
+  "normative_images": 0,
+  "source_image_inventory": [
+    {
+      "page": 1,
+      "source_images": 2,
+      "decorative_logos": 2,
+      "normative_images": 0
+    }
+  ],
+  "annex_status": "Only the decision PDF linked by the official register is held; referenced supporting plans or annexes not separately linked are not included."
+}
