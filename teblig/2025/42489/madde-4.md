@@ -1,0 +1,11 @@
+İKİNCİ BÖLÜM
+Programın Uygulanması, Değerlendirme ve Destek Sürecine İlişkin Esaslar
+Program içeriği
+MADDE 4- (1) Yerel ve bölgesel kalkınmayı sağlamak ve bölge içi ve bölgeler arası gelişmişlik farklarını azaltmak temel amaçları doğrultusunda geliştirilen Program, bu Tebliğ çerçevesinde Genel Müdürlük tarafından yürütülür. Program kapsamında desteklenmesi uygun görülen projeler, Karar hükümleri çerçevesinde ilgili desteklerden yararlandırılır.
+(2) Programın tanıtımının yapılması, çağrı duyurusunun yayımlanması, başvuruların alınması, değerlendirme süreçleri ve sonuçların ilanı hususları Portal üzerinden gerçekleştirilir. Programa ilişkin teşvik belgesine yönelik iş ve işlemler ile izleme, raporlama ve tamamlama gibi destek uygulaması süreçleri ise E-TUYS üzerinden yürütülür.
+(3) Bakanlığın ilgili birimleri ile koordineli, bağlı ve ilgili kuruluşları, projelerin hayata geçirilmesini kolaylaştırmak amacıyla yatırımcılara gerekli bilgi, destek ve kolaylığı sağlayabilir.
+(4) (Mülga:RG-12/9/2025-33015)
+(5) Program kapsamında, başvuru sahibi tarafından, Yerel Yatırım Konuları Listesi Tebliğinde yer alan ilgili yatırım konusuna ilişkin tam fizibilite raporu hazırlanır. Destek almaya hak kazanılması hâlinde, söz konusu yatırımın, fizibilite raporunda öngörüldüğü şekilde hayata geçirilmesi esastır.
+(6) Teşvik belgesine bağlanmış veya başka bir kamusal destek programı dahilinde desteklenmekte olan yatırımlar için Programa başvuruda bulunulamaz.
+(7) Program kapsamında bir yatırımcı aynı çağrı döneminde tek başına veya ortak olarak toplamda en fazla 5 farklı başvuru yapabilir.
+(8) Program kapsamında, Komite kararı ile projesi onaylanan yatırımcılar toplam sabit yatırım tutarı üzerinden %2 oranında süresiz ve kesin nitelikte teminat mektubunu, ilgili Ajansa teslim eder. Mezkur teminat mektubunun bir kopyası teşvik belgesi müracaatına eklenir. Söz konusu teminat, teşvik belgesi düzenleme tarihinden itibaren bir yıl içerisinde en az %10 tutarında sabit kıymet harcamasının gerçekleştirilmemesi veya yatırımın tamamlanmaması hâlinde, Ajans adına gelir kaydedilir. Yatırımın usulüne uygun şekilde tamamlanması hâlinde ise teminat yatırımcıya iade edilir. Yatırımın gerçekleşme durumunun ve ilerleme düzeyinin ispatı yatırımcının sorumluluğundadır.
