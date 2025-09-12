@@ -1,0 +1,27 @@
+{
+  "number": "meeting-09-12",
+  "number_as_published": "meeting-09-12",
+  "year": 2025,
+  "title": "12.09.2025 tarihli meclis kararları",
+  "decision_date": "2025-09-12",
+  "source": "https://www.susehri.bel.tr/?s=meclis_kararlari&k=309",
+  "official_document": "https://susehri.bel.tr/belge/MK-2025-09-12.doc",
+  "source_sha256": "28b7ad5c01e9629240c1c85083a415ff42512eda80157ec9609bcb2fbb45f2e4",
+  "issuer": "Suşehri Belediye Meclisi",
+  "history_type": "metadata",
+  "text_status": "metadata-only: listing fields as published; complete decision text is in the linked official document, not transcribed",
+  "in_force": "2025-09-12",
+  "in_force_basis": "Decision date as printed in the official council listing: 12.09.2025; adoption date of the council decision; legal commencement not asserted",
+  "missing": [
+    "complete official decision text",
+    "official annexes"
+  ],
+  "law_text_complete": false,
+  "privacy_withheld": false,
+  "listing_label": "12.09.2025 tarihli meclis kararları",
+  "record_scope": "one official file of council decisions (meeting)",
+  "official_page": "https://www.susehri.bel.tr/?s=meclis_kararlari&k=309",
+  "item_title": "2025 Eylul",
+  "file_label": "MK-2025-09-12",
+  "date_read_from": "official file name (MK-yyyy-mm-dd)"
+}
