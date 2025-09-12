@@ -1,0 +1,5 @@
+Öğretim elemanları
+MADDE 23- (1) Bakan tarafından atanan veya görevlendirilen tetkik hâkimleri arasından meslekte fiilen sekiz yılını tamamlamış hizmet ve meslekteki başarısına göre emsali arasında temayüz etmiş, tercihen eğitim ve ders anlatma tecrübesi olan, lisansüstü eğitim almış, yabancı dil bilen, mesleki ve bilimsel eseri bulunanlar öğretim elemanı olarak görevlendirilebilir.
+(2) Yükseköğretim kurumlarında görevli öğretim üyeleri ve öğretim görevlileri ile araştırma görevlileri Başkanın talebi, üniversite yönetim kurulunun uygun görmesi ve rektörün onayı ile muvafakatleri alınmak suretiyle Akademide öğretim elemanı olarak görevlendirilebilir. Bu kişiler hakkında, Kanun ile 4/11/1981 tarihli ve 2547 sayılı Yükseköğretim Kanunu ve bu Yönetmelik hükümleri uygulanır.
+(3) Bu madde uyarınca atanan veya görevlendirilenlere ihtiyaç duyulması hâlinde eğitici eğitimi programı düzenlenebilir.
+(4) Öğretim elemanları, Akademi tarafından hazırlanan eğitim modüllerine uygun eğitim verirler. Eğitimler sırasında mevzuat, güncel içtihatlar ve kaynaklar kullanılır. Bu amaçla hazırlanan materyallerden faydalanılır.
