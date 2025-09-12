@@ -1,0 +1,4 @@
+Saç ekim birimlerinde çalışacak sağlık meslek mensuplarının durumu
+GEÇİCİ MADDE 1- (Başlığı ile Birlikte Değişik:RG-3/11/2023-32358)
+(1) Saç ekimi birimlerinde çalışmakta olan veya bu birimlerde çalışacak sağlık meslek mensupları (Değişik ibare:RG-12/9/2025-33015) 31/12/2026 tarihine kadar ilgili tabibin gözetiminde ve sorumluluğunda çalışabilecek olup bu tarihten itibaren saç ekimi yardımcı uygulayıcı sertifikası almaları koşuluyla çalışmaya devam edebilirler.
+(2) Saç ekimi birimi bulunan sağlık kuruluşlarında en az iki yıl süre ile adına personel çalışma belgesi düzenlenmiş olan ve aktif olarak saç ekimi biriminde devamlı çalıştığını belgeleyen sağlık meslek mensuplarına 6/5/2024 tarihine kadar Bakanlığa müracaat etmeleri halinde, Bakanlıkça saç ekimi yardımcı uygulayıcı sertifikası düzenlenir.
