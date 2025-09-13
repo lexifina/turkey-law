@@ -1,0 +1,5 @@
+Kayıt yenileme
+MADDE 53- (1) Öğrenciler her yarıyıl başında akademik takvimde belirtilen süreler içinde ders kayıtlarını yenilemek zorundadır.
+(2) Mazereti sebebi ile akademik takvimde ders kayıtlarını yenilemeyen öğrenciler, öğretimin başlangıcından itibaren en geç on gün içinde olmak koşuluyla yazılı gerekçelerini ilgili ana bilim/ana sanat dalı başkanlığına iletir. Gerekçesi kabul edilen öğrencinin kaydı ana bilim/ana sanat dalı başkanlığının önerisi ve Enstitü Yönetim Kurulu kararı ile yapılır.
+(3) Öğrenci katkı payı, öğrenim ücreti gibi yükümlülükleri olan öğrenciler, Senato tarafından belirlenen süre içerisinde ilgili yükümlülüklerini yerine getirerek kayıtlarını yenilerler. Aksi durumda, öğrenciler o dönem kayıt yaptıramazlar ve öğrencilik haklarından yararlanamazlar. Öğrenci tez aşamasında olsa dahi danışmanı ve/veya tez izleme komitesi tarafından o yarıyıl başarısız sayılır. Bu durumda geçen süreler öğrenim süresinden sayılır.
+(4) Öğrencinin, üst üste iki yarıyıl kayıt yenilememesi hâlinde, danışmanın görevi sona erer. Kaydını yenileyen öğrenci için kayıt yenilediği yarıyıl itibarıyla yeniden danışman atanır.

@@ -1,0 +1,20 @@
+Tanımlar
+MADDE 3- (1) Bu Yönetmelikte geçen;
+a) AKTS: Avrupa Kredi Transfer Sistemini,
+b) ALES: Akademik Personel ve Lisansüstü Eğitimi Giriş Sınavını,
+c) Ana bilim/ana sanat dalı: Enstitü için tanımlanan ve Enstitüde eğitim programı bulunan ana bilim/ana sanat dalını,
+ç) Ana bilim/ana sanat dalı başkanı: Enstitüde eğitim programı bulunan ana bilim/ana sanat dalı için tanımlanan başkanı,
+d) Ana bilim/ana sanat dalı kurulu: Sadece bir bilim/sanat dalı bulunan ana bilim/ana sanat dallarında ana bilim/ana sanat dalı başkanının başkanlığında o ana bilim/ana sanat dalında ders veren ve tez danışmanlığı yapan tüm öğretim üyeleri ile öğretim görevlilerinden, birden fazla bilim/sanat dalı bulunan ana bilim/ana sanat dallarında ise ana bilim/ana sanat dalı başkanının başkanlığında bilim/sanat dalı başkanlarından oluşan kurulu,
+e) Bilim/sanat dalı: Ana bilim/ana sanat dalına bağlı olarak Enstitüde lisansüstü programı bulunan bilim/sanat dalını,
+f) Enstitü: Kilis 7 Aralık Üniversitesi Lisansüstü Eğitim Enstitüsünü,
+g) İntihal: Başkalarının fikirlerini, metotlarını, verilerini veya eserlerini bilimsel kurallara uygun biçimde atıf yapmadan kısmen veya tamamen kendi eseri gibi göstermeyi,
+ğ) Muafiyet: Daha önce alınmış ve başarılmış ders/derslerin yerine, kredi/AKTS ve içerik uyumuna göre müfredatta bulunan ders/derslerin denkliğinin kabul edilerek muaf edilmesi durumunu,
+h) ÖBS: Öğrenci Bilgi Sistemini,
+ı) Öğrenci İşleri Dairesi Başkanlığı: Kilis 7 Aralık Üniversitesi Öğrenci İşleri Dairesi Başkanlığını,
+i) ÖSYM: Ölçme, Seçme ve Yerleştirme Merkezi Başkanlığını,
+j) Rektör: Kilis 7 Aralık Üniversitesi Rektörünü,
+k) Senato: Kilis 7 Aralık Üniversitesi Senatosunu,
+l) TUS: Tıpta Uzmanlık Eğitimi Giriş Sınavını,
+m) Üniversite: Kilis 7 Aralık Üniversitesini,
+n) YÖK: Yükseköğretim Kurulunu,
+ifade eder.

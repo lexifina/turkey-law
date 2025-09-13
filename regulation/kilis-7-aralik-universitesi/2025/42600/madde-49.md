@@ -1,0 +1,8 @@
+SEKİZİNCİ BÖLÜM
+Bilimsel Hazırlık Programı, Yatay Geçiş ve Özel Öğrenci Kabulü
+Bilimsel hazırlık programına öğrenci kabulüne ilişkin esaslar
+MADDE 49- (1) Lisans veya yüksek lisans derecesini, kabul edildikleri lisansüstü programlarından farklı alanlarda almış olanlar ile lisans veya yüksek lisans derecesini Üniversite dışındaki yükseköğretim kurumlarından almış olan lisansüstü öğrencileri için ana bilim/ana sanat dalı başkanlığının önerisi ve Enstitü Yönetim Kurulunun onayı ile eksikliklerini gidermek amacıyla bilimsel hazırlık programı uygulanabilir.
+(2) Bilimsel hazırlık programında alınması için önerilen dersler, ilgili lisansüstü programını tamamlamak için gerekli görülen derslerin yerine geçemez ve bu derslerden alınan notlar lisansüstü ağırlık genel not ortalaması hesabına dâhil edilmez. Ancak bilimsel hazırlık programındaki bir öğrenci, bilimsel hazırlık derslerinin yanı sıra ilgili ana bilim/ana sanat dalı başkanlığının önerisi ve Enstitü Yönetim Kurulunun onayı ile lisansüstü programa yönelik dersler de alabilir.
+(3) Yüksek lisans öğrencileri bilimsel hazırlık derslerini lisans derslerinden, doktora ve sanatta yeterlik öğrencileri ise lisans ve/veya yüksek lisans derslerinden alabilir.
+(4) Bilimsel hazırlık programı ile ilgili derse devam, ders sınavları, ders notları, derslerden başarılı sayılma koşulları ve diğer esaslarda öğrencinin ders aldığı programa ilişkin mevzuat hükümleri uygulanır.
+(5) Bilimsel hazırlık programında geçirilecek süre en çok iki yarıyıldır. Yaz öğretimi bu süreye dâhil edilmez. Bu süre dönem izinleri dışında uzatılamaz ve süre sonunda başarılı olamayan öğrencinin Üniversite ile ilişiği kesilir. Bu programda geçirilen süre yüksek lisans veya doktora programı sürelerine dâhil edilmez.

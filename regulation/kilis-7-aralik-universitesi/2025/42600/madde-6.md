@@ -1,0 +1,4 @@
+Değerlendirme, Sınav Jürisi ve Kayıtlar
+Kontenjanların belirlenmesi
+MADDE 6- (1) Enstitüdeki lisansüstü programlara öğrenci alınıp alınmaması, alınacak öğrenci sayısı ve aranan şartlar, ana bilim/ana sanat dalı kurulunun talebi ve önerisi dikkate alınarak Enstitü Yönetim Kurulu kararı ile belirlenir.
+(2) Lisansüstü program kontenjanları, YÖK tarafından belirlenen lisansüstü programlarda görev alabilecek öğretim üyesi sayısı ve mevcut öğretim üyesi başına düşen öğrenci sayısı dikkate alınarak tezli yüksek lisans ve doktora programları için öğretim üyesi başına düşen tez danışmanlığı sayısı 14’ü aşmamak üzere Senato tarafından belirlenir. Tezsiz yüksek lisans programları için tezli yüksek lisans ve doktora programları hariç en fazla on altı öğrenci düşecek şekilde belirlenir. Ancak, YÖK ile yapılan protokol dâhilinde ve Üniversite-sanayi iş birliği çerçevesinde yürütülen lisansüstü programlar için bu kontenjan %50’ye kadar artırılabilir.

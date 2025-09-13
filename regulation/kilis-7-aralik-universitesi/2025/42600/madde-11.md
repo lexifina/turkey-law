@@ -1,0 +1,19 @@
+Başvuru ve kabul
+MADDE 11- (1) Yüksek lisans programlarına başvurabilmek için adayların, lisans diplomasına ve başvurduğu programın puan türünde 55 puandan az olmamak üzere Senato tarafından belirlenecek ALES puanına sahip olmaları gerekir. Ancak; doktora/sanatta yeterlik/tıpta uzmanlık/diş hekimliğinde uzmanlık/veteriner hekimliğinde uzmanlık/eczacılıkta uzmanlık mezunlarının yüksek lisans programlarına başvurularında ALES şartı aranmaz. Bu durumdaki adayların değerlendirme işlemleri için;
+a) Senato tarafından; adayın mezun olduğu lisansüstü programa girişteki puan türü veya uzmanlık alanı dikkate alınmaksızın, 55’ten düşük 75’ten fazla olmamak üzere bir puan belirlenir ve ilgili programın şartlarında ilan edilir.
+b) Bu adaylar daha önceden aldığı puan türü veya doktora/sanatta yeterlik/uzmanlık alanından farklı bir alanda başvuru yapabilir.
+c) İlan edilen puan, puan türüne bakılmaksızın ALES puanı olarak hesaplamalara dahil edilir.
+(2) Yüksek lisans programlarına yalnız ALES puanı ile de öğrenci kabul edebileceği gibi ALES puanına ek olarak lisans not ortalaması, yazılı olarak yapılacak bilimsel değerlendirme ve/veya mülakat gibi öğrenci kabulü ve yerleştirilmesine dair hususlar Senato tarafından belirlenir.
+(3) Tezli yüksek lisans programlarına başvurabilmek için adayların, başvurduğu lisansüstü programın kabul ettiği ilgili puan türünde (sayısal, sözel veya eşit ağırlık) 55 puandan az olmamak üzere ALES puanına sahip olmaları gerekir. GRE, GMAT ve benzeri nitelikte uluslararası düzeyde kabul gören sınavların YÖK tarafından eş değerliği kabul edilen puanları ALES eş değeri olarak kullanılabilir.
+(4) Güzel Sanatlar Fakültesi ve konservatuvarın Enstitüdeki ana bilim/ana sanat dallarındaki tezli yüksek lisans programlarına girişte ALES puan şartı aranmaz. Ancak Senatonun kararı ile ALES puan şartı aranabilir. ALES puanı istenildiği takdirde taban puan Senato tarafından belirlenir.
+(5) Tezsiz yüksek lisans programlarına öğrenci kabulünde ALES puanı aranmayabilir. ALES puanı istenildiği takdirde taban puan Senato tarafından belirlenir.
+(6) Türkçe eğitim-öğretim yapan yüksek lisans programlarına başvuruda yabancı dil şartı aranıp aranmayacağı ve yabancı dil sınav puanı istenildiği takdirde taban puan Senato tarafından belirlenir.
+(7) Bir yabancı dilde eğitim-öğretim yapan veya bilim alanı bir yabancı dil ve edebiyatı olan lisansüstü programlarına öğrenci alımında aranacak yabancı dil şartı ile yabancı dil taban puanı Senato tarafından belirlenir.
+(8) İngilizce eğitim yapan lisans programlarından mezun olanlar için yabancı dil şartı aranmaz.
+(9) Bir yıl yabancı dilde hazırlık eğitimi aldıktan sonra lisans öğrenimlerini Türkçe yapan lisans programlarından mezun olanlardan hazırlık geçme notları en az 60 ve üstü olanlar için yabancı dil şartı aranmaz.
+(10) Konservatuvar programları ile Güzel Sanatlar Fakültesinin sadece özel yetenek sınavı ile öğrenci kabul eden programlarının ana sanat ve ana bilim dallarındaki öğretim dili Türkçe olan programlarına başvurularda Devlet hastanesi veya Devlet üniversitesi hastanesinden alınmış sağlık raporu ile belgelenmesi şartıyla;
+a) Düzeltilmemiş engeli en az %70 veya düzeltilmiş engeli en az %40 ve üzeri olan işitme engelli adaylarda,
+b) Engel düzeyi %50 ve üzeri olmak üzere zihin yetersizliği bulunan engelli adaylarda,
+c) Engel düzeyi %40 ve üzeri ''yaygın gelişimsel bozukluk'' (Otizm spektrum bozukluğu/çocukluk otizmi/atipik otizm, Rett Sendromu, Asperger Sendromu) tanısı bulunan engelli adaylarda,
+başvuru yapabilmeleri için yabancı dil puanı aranmaz. Bu adaylar yabancı dil puanı olarak Üniversite tarafından aranan yabancı dil taban puanı şartını sağlamış sayılır.
+(11) Bir adayın başarılı sayılabilmesi için hesaplanan lisansüstü değerlendirme puanının; tezsiz ve tezli yüksek lisans programları için 100 üzerinden en az 55 puan olması gerekir.

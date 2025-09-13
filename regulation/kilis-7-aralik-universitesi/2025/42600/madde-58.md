@@ -1,0 +1,10 @@
+DOKUZUNCU BÖLÜM
+Çeşitli ve Son Hükümler
+İstisnai durumlar
+MADDE 58- (1) Lisans eğitiminin tamamını yurt dışında tamamlayan Türkiye Cumhuriyeti vatandaşı adayların lisansüstü programlara kabulüne ilişkin usul ve esaslar Enstitü Yönetim Kurulunun talebi üzerine Senato tarafından belirlenir.
+(2) Tıpta ve diş hekimliğinde uzmanlık, doktoraya eş değer düzeyde olup bu uzmanlık eğitimleri 3/9/2022 tarihli ve 31942 sayılı Resmî Gazete’de yayımlanan Tıpta ve Diş Hekimliğinde Uzmanlık Eğitimi Yönetmeliğine göre yürütülür.
+(3) Lisansüstü program kontenjanları, YÖK tarafından belirlenen lisansüstü programlarda görev alabilecek öğretim üyesi sayısı ve mevcut öğretim üyesi başına düşen öğrenci sayısı dikkate alınarak, tezli yüksek lisans ve doktora programları için öğretim üyesi başına düşen tez danışmanlığı en fazla on dört, tezsiz yüksek lisans programları için ise tezli yüksek lisans ve doktora programları hariç en fazla on altı öğrenci düşecek şekilde belirlenir. Ancak, YÖK ile yapılan protokol dâhilinde ve üniversite sanayi iş birliği çerçevesinde yürütülen lisansüstü programlar için bu kontenjan %50’ye kadar artırılabilir. Öğretim üyelerinin danışmanlık sayıları Senato kararıyla sınırlandırılabilir.
+(4) Üniversite kadrosunda olmayan doktor ünvanına sahip uzman ve araştırmacıların lisansüstü programlarda ders verme ve/veya danışmanlık yapma hususları 2547 sayılı Kanunun ek 46 ncı maddesi kapsamında ve 20/4/2016 tarihli ve 29690 sayılı Resmî Gazete’de yayımlanan Lisansüstü Eğitim ve Öğretim Yönetmeliğinin ilgili hükümleri uyarınca Senato tarafından belirlenen kriterler çerçevesinde yürütülür.
+(5) Öğrenci ile birinci derece akrabalık ve sıhri hısımlık bağı olan öğretim üyeleri, öğrenciye danışman ve/veya ortak danışman olarak atanamaz; öğrenci kabulü, doktora yeterlik, tez izleme ve tez savunma sınavlarında görev alamazlar.
+(6) Aralarında akrabalık ve sıhri hısımlık bağı olan öğretim üyeleri, öğrenci kabulü, doktora yeterlik, tez izleme ve tez savunma sınavlarında birlikte görev alamazlar.
+(7) Öğrencinin herhangi bir yarıyıldan sonra programına devam edebilmesi için gerekli ek başarı koşulları Senato tarafından belirlenebilir.

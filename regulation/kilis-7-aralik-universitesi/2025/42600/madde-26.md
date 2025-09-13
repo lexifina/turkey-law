@@ -1,0 +1,5 @@
+Temel tıp bilimlerinde doktora programlarına başvurulara ilişkin ek koşullar
+MADDE 26- (1) Temel tıp bilimlerinde doktora programlarına başvurabilmek için tıp fakültesi mezunlarının lisans diplomasına ve 50 puandan az olmamak koşuluyla TUS’tan alınmış temel tıp puanına veya ALES’in sayısal puan türünde 55 puandan az olmamak üzere ALES puanına sahip olmaları gerekir.
+(2) Tıp fakültesi mezunu olmayanların ise yüksek lisans diplomasına, diş hekimliği ve veteriner fakülteleri mezunlarının lisans derecesine ve ALES’in sayısal puan türünde 55 puandan az olmamak üzere ALES puanına sahip olmaları gerekir.
+(3) Temel tıp puanı, TUS’ta temel tıp bilimleri Testi-1 bölümünden elde edilen standart puanın 0,7 ve klinik tıp bilimleri testinden elde edilen standart puanın 0,3 ile çarpılarak toplanması ile elde edilir.
+(4) Temel tıp bilimlerinde doktora programına öğrenci kabulünde, anadilleri dışında YÖK tarafından kabul edilen merkezî yabancı dil sınavları ile eş değerliği kabul edilen uluslararası yabancı dil sınavlarından en az 55 puan veya ÖSYM tarafından eş değerliği kabul edilen uluslararası yabancı dil sınavlarından bu puan muadili bir puan alınması zorunludur.
