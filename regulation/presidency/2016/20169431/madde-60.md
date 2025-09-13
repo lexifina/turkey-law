@@ -1,0 +1,4 @@
+Kırk yaş ve üstü denizaltıcı, dalgıç ve kurbağa adam özel ihtisaslı personelin periyodik muayeneleri[33]
+MADDE 60- (Değişik: 22/9/2017 - 2017/10844 K.)
+(1) Kırk yaş ve üstü denizaltıcı, dalgıç ve kurbağa adam özel ihtisaslı subay ve astsubaylar dolaşım, solunum, sindirim, göz, kulak burun boğaz ve nörolojik hastalıklar ile ruh sağlığı ve hastalıkları açısından muayene edilir. Yaşa bağlı gelişen fizyolojik değişiklikler göz önüne alınarak mutlak denizaltıdan serbest çıkış veya dalış kontrendikasyonu yaratmayan durumlarda personelin göreve devamı uygun görülebilir.
+Denizaltı, dalgıç (birinci sınıf dalgıç, SAT, SAS, mayın harbi dalgıcı) ve kurbağa adam özel ihtisaslı personel ile dalış tabibi ve basınç odası operatörü personelin periyodik muayeneleri, aday muayeneleri ve itiraz muayenelerinin yapılacağı yerler

@@ -1,0 +1,11 @@
+Yurtdışında yaşayan yükümlülerin sağlık muayeneleri
+MADDE 7- (1) (Değişik: 22/9/2017 - 2017/10844 K.) Yurtdışında yaşayan askerlikle yükümlü vatandaşlardan herhangi bir hastalığı olmayanların sağlık muayeneleri, yükümlünün bulunduğu yabancı ülke sağlık mevzuatına uygun şekilde resmi sağlık kuruluşlarında yaptırılır ve düzenlenecek askerlik yoklaması sağlık muayene belgesi doğrudan yükümlünün nüfusa kayıtlı olduğu askerlik şubesine konsolosluklarca gönderilir. Yurtdışında yoklaması yapılanlar için yükümlülere sınıflandırma bilgi formu düzenlenmez. Ancak, bu yükümlülerden dördüncü fıkranın (d) bendi kapsamına girenler ile haklarında Millî Savunma Bakanlığınca verilen kararlara karşı yapılan itirazlar sonucunda yurtiçindeki Türk Silahlı Kuvvetleri, Jandarma Genel Komutanlığı ve Sahil Güvenlik Komutanlığı sağlık kurulu raporu vermeye yetkili sağlık kuruluşlarına sevki gerekenler için sevkten önce sevki yapan askerlik şubesince yükümlülere sınıflandırma bilgi formu düzenlenir.[6]
+(2) (Değişik:RG-10/10/2024-32688-C.K-9015/4 md.) Askerlik hizmetini yapmakta olanlar ile firar, hava değişimi/izin tecavüzünde veya noksan hizmetli durumunda bulunanların yurt dışında sağlık muayeneleri yapılmaz. Yapılanların bu muayeneleri geçerli kabul edilmez.
+(3) Askerlik yükümlülüğünü fiilen silâhaltına alınmayı gerektirmeyen askerlik hizmet çeşitlerinden biri ile yerine getirecek olanların yoklamaları yaptırılmaz.
+(4) Askerlik hizmetini yerine getirmeye engel sağlık sorunu olduğunu beyan edenlerin sağlık muayeneleri, bulundukları yabancı ülke sağlık mevzuatına uygun şekilde resmi sağlık kuruluşlarında yaptırılır, alacakları muayene ve tetkik sonuçları veya sağlık raporları Türkçe tercümeleri ile birlikte konsolosluklarca Millî Savunma Bakanlığına gönderilir. Bu raporlar incelenir ve aşağıdaki kararlardan biri ile onaylanarak yükümlünün kayıtlı olduğu askerlik şubesinin bağlı olduğu askeralma bölge başkanlığına gönderilir.
+a) Askerliğe Elverişlidir.
+b) Askerliğe Elverişli Değildir.
+c) Ertesi Yıla Bırakma.
+ç) Sevk Geciktirmesi.
+d) Yurtiçinde Rapor Tanzim Etmeye Yetkili Hastanede Muayenesi Uygundur.
+(5) Yükümlülerin sağlık durumlarına ilişkin itirazları Millî Savunma Bakanlığınca yurtiçindeki hastanelerde sonuçlandırılır.

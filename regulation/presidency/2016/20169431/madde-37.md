@@ -1,0 +1,3 @@
+Öğrenciler hakkında yapılacak sağlık işlemleri
+MADDE 37- (1) Öğrencilere sınıflandırılmaları veya branşlarının belirlenmesi sırasında veya okullarının son sınıflarında (eğitim süresi dört yılın üzerinde olan okullarda dördüncü sınıfta) son sağlık durumlarının tespiti maksadıyla sağlık muayenesi yaptırılır. Bu muayenelerde bu Yönetmeliğin 36 ncı maddesinde belirtilen tetkikler yapılır.
+(2) Hava Harp Okulu öğrencileri hakkında başlangıç uçuş eğitimi öncesi ve süresince Hava Kuvvetleri Komutanlığı (1) Numaralı Sınıflandırma Çizelgesindeki kategori-1 hava aracı uçucularının sağlık yetenekleri ile ilgili hükümler uygulanır.

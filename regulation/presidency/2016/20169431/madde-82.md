@@ -1,0 +1,8 @@
+Raporların onayı
+MADDE 82- (Değişik: 22/9/2017 - 2017/10844 K.)
+(1) Sağlık kurulu raporları, düzenleyen hastanelerin baştabiplikleri tarafından onaylanır. Baştabipliklerce onaylanan raporlar, ikinci ve üçüncü fıkralardaki haller hariç olmak üzere kesinlik kazanır.
+(2) Hastane sağlık kurulları tarafından, yoklama ve sevk dönemi ile silâhaltındaki yükümlüler hakkında düzenlenen “Askerliğe Elverişli Değildir” kararlı raporlar, Millî Savunma Bakanlığının onayını müteakip kesinleşir.[41]
+(3) Personel hakkında verilen “…’da Görev Yapamaz”, “Sınıfı/Branşı Görevini Yapamaz” ile “Öğrenciliğe Devam Edemez” kararlı raporlar, Millî Savunma Bakanlığı, Jandarma Genel Komutanlığı ve Sahil Güvenlik Komutanlığı tarafından bu Yönetmeliğe uygunluk açısından incelenir. Bu inceleme sonuçlanmadan raporlar kesinlik kazanmaz.
+(4) İkinci ve üçüncü fıkralarda belirtilen işlemler tamamlanıncaya kadar, sıhhi izinli sayılma hali hariç herhangi bir işlem tesis edilmez.
+(5) (Ek:RG-10/10/2024-32688-C.K-9015/22 md.)[42] Sağlık raporları, Türk Silahlı Kuvvetleri, Jandarma Genel Komutanlığı ve Sahil Güvenlik Komutanlığı Sağlık Kurulu Raporu Vermeye Yetkili Sağlık Kuruluşları Listesinde yer alan Sağlık Bakanlığı hastaneleri tarafından ilgili mevzuat hükümleri kapsamında e-rapor formatında düzenlenir. Düzenlenen e-raporlar elektronik ortamda ilgili onay birimine gönderilir. E-raporlar, ilgili rapor inceleme birimlerince e-imza ile imzalanarak onaylanır. Sağlık Bakanlığı tarafından sistemsel arıza ve hatalar gerekçe gösterilmesi durumunda düzenlenen fiziki raporlar ıslak imza ile onaylanır.
+(6) Bu madde kapsamında yer almayan raporlara ilişkin onay ve inceleme işlemleri yönerge ile düzenlenir.

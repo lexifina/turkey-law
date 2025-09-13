@@ -1,0 +1,11 @@
+MADDE 44- (1) (Değişik:RG-15/4/2020-31100-C.K-2413/11 md.) Görevde bulunan subay ve astsubaylardan komando, paraşüt, özel harekât, özel kuvvetler ve arama kurtarma özel ihtisasları ile kurtarma yüzücülüğüne seçilecekler tam sağlam olmalı veya hastalıkları, Hastalıklar Listesinin (A) diliminde bulunmalıdır. Ancak bunlardan;[26]
+a) Göz hastalıkları: Hastalıklar Listesinin (A) dilimine giren ve 1.00 diyoptiriyi aşan miyopi, hipermetropi ile astigmatizması olanlar ile diskromatopsisi bulunanlar,
+b) Hava yolu hastalıklarını içeren Hastalıklar Listesinin 47 nci madde (A) dilimi kapsamında hastalığı olanlar,
+c) Psikiyatrik hastalığı olanlar,
+ç) Kara Kuvvetleri Komutanlığı ve Hava Kuvvetleri Komutanlığı ile Jandarma Genel Komutanlığı ve Sahil Güvenlik Komutanlığı (1) Numaralı Sınıflandırma ve Branş Belirleme Çizelgelerinde hastalıkları, Hastalıklar Listesinin (A) dilimine girmesine rağmen ilgili kuvvetin piyade sınıfının Jandarma Genel Komutanlığı ve Sahil Güvenlik Komutanlığında Jandarma veya Sahil Güvenlik branşının kendi rütbe sütununda karşılığında (-) eksi veya (x) çarpı işareti bulunanlar,
+bu görevlere seçilemezler. Bu görevlere devam edecekler ise bu fıkraya göre değerlendirilir. Ancak, bunlardan her bir gözde 3.00 diyoptriyi aşan miyopi, hipermetropi ile 2.00 diyoptriyi geçen astigmatizması olanlar bu göreve devam edemezler.
+(2) (Ek: 22/9/2017 - 2017/10844 K.) (Mülga:RG-10/10/2024-32688-C.K-9015/16 md.)
+(3) Yıllık zorunlu tazeleme atlayışlarına katılacak paraşütçü subay ve astsubaylar yönerge ile belirlenen esaslara göre her yıl birliklerinde birlik tabibi tarafından muayene ve kontrol edilir.
+(4) Subay ve astsubaylara üç yılda bir yapılan periyodik muayenelerde, paraşütçü personelin paraşütle atlayıp atlayamayacağına da karar verilir ve bu karar periyodik muayene raporuna yazılır.
+(5) Paraşütçü subay ve astsubaylardan paraşüt atlayışına iki yıl ve daha uzun süre ara vermiş olanlara, hastalık, ameliyat veya kaza geçirenlere ya da birlik tabibinin gerekli gördüğü personele paraşütle atlayışlarından önce yeniden yetkili sağlık kuruluşundan “Paraşütle Atlar” kararlı sağlık kurulu raporu aldırılır. [27][28]
+(6) (Ek: 22/9/2017 - 2017/10844 K.) Kurtarma yüzücüsü subay ve astsubaylar üç yılda bir periyodik muayeneye tabi tutulur.

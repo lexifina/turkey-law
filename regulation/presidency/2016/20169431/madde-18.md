@@ -1,0 +1,2 @@
+Yükümlü, erbaş ve erler hakkında yapılacak diğer işlemler
+MADDE 18- (1) (Değişik: 22/9/2017 - 2017/10844 K.) Geçici hastalıkları olan yükümlü, erbaş ve erler hakkında, hastalıkları geçinceye kadar veya sekel haline gelinceye kadar sevk geciktirmesi, ertesi yıla bırakma veya hava değişimi işlemi yapılır. Ertesi yıla bırakma, sevk geciktirmesi ve hava değişimi süreleri ilk işlem tarihinden itibaren aynı tanı ve kararlı hastalıklar bakımından üç yılı geçemez. Sabitleşmiş hastalıklarda üç yıllık süre beklenmeden Hastalıklar Listesine göre kesin işlem yapılır.

@@ -1,0 +1,9 @@
+Yedek subay ve yedek astsubay sağlık işlemleri
+MADDE 22- (Başlığı ile Birlikte Değişik:RG-15/4/2020-31100-C.K-2413/3 md.)
+(1) Yedek subay aday adayları, yedek subay adayları ve yedek subaylar ile yedek astsubay aday adayları, yedek astsubay adayları ve yedek astsubaylar sağlık yetenekleri bakımından aşağıdaki şekilde gruplandırılır:
+a) Askerliğe elverişli olanlar: Hastalıklar Listesinin (A) dilimlerine girenler hakkında “Askerliğe Elverişlidir” kararı verilir.
+b) Askerliğe elverişli olmayanlar: Hastalıklar Listesinin (B) ve (D) dilimlerinde gösterilen hastalıkları bulunanlar hakkında “Askerliğe Elverişli Değildir” kararı verilir.
+(2) Birinci fıkrada belirtilenlerin sağlık işlemleriyle ilgili diğer hususlarda yükümlülerin tabi olduğu hükümler uygulanır. Ancak yedek subay ve yedek astsubaylardan Hastalıklar Listesinin (C) dilimine girenler hakkında “Hava Değişimi” kararı yerine “İstirahat” kararı verilir.
+(3) Yedek subay ve yedek astsubay adaylarının hastalıkları nedeniyle alacakları hava değişimi, istirahat ve hastanede yatarak geçirdikleri sürelerin toplamı, sınıf okullarında geçirilen sürenin 1/3’ünden fazla olması halinde bunlar hakkında terhis işlemi yapılır. Bir sonraki dönemde hastalıklarının devam etmediği sağlık raporuyla saptananlar yeni dönemin tamamına katılırlar. Devam edilmeyen süre dönemin sonuna rastlar ve aralıksız olursa bir sonraki dönemde yalnız devam edilmeyen süre tamamlatılır. Terhisi gerekenler, hastalıkları kronik değilse istekleri halinde tedavileri sonuna kadar hastanelerinde kalabilir.
+(4) Yedek subay ve yedek astsubay adaylarının komando muayenelerinde erbaş ve erlerin komando seçim kriterleri esas alınır.
+(5) Tankçı yedek subay adayları ve yedek astsubayların seçim ve sağlık kriterlerinde tank sınıfı subay ve astsubayların seçim ve sağlık kriterleri esas alınır.

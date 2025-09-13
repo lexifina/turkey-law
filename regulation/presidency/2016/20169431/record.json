@@ -1,0 +1,111 @@
+{
+  "id": "presidency-regulation-20169431",
+  "number": "20169431",
+  "kind": "regulation",
+  "issuer": "presidency",
+  "title": "TÜRK SİLAHLI KUVVETLERİ, JANDARMA GENEL KOMUTANLIĞI VE SAHİL GÜVENLİK KOMUTANLIĞI SAĞLIK YETENEĞİ YÖNETMELİĞİ",
+  "published": "2016-11-11",
+  "enacted": "2016-10-31",
+  "gazette_number": "29885",
+  "in_force": "2025-09-13",
+  "in_force_basis": "Latest source commencement-table date: 2025-09-13; official source: 12/9/2025 | 10392 | 85, “ EK-C HASTALIKLAR LİSTESİ”nin 16 ncı maddesinin (A) dilimi, “EK-C HASTALIKLAR LİSTESİ”nin 18 inci maddesinin (A) dilimi, “EK-C HASTALIKLAR LİSTESİ”nin 32 nci maddesinin (B) dilimi, “EK-C HASTALIKLAR LİSTESİ”nin 33 üncü maddesinin (B) dilimi, “EK-C HASTALIKLAR LİSTESİ”nin 63 üncü maddesinin (A) dilimi | 13/9/2025",
+  "history": "current-only",
+  "version_label": "oldest version available",
+  "first_law": null,
+  "source": "https://www.mevzuat.gov.tr/anasayfa/MevzuatFihristDetayIframe?MevzuatNo=20169431&MevzuatTur=21&MevzuatTertip=5",
+  "source_sha256": "bb0dee143d1a7e2678e648a107ebebb3716f42ce1a0fac4d0fb328a72fadd1cc",
+  "source_links": [],
+  "missing_components": [],
+  "date_anomalies": [],
+  "images": {
+    "source": 8,
+    "referenced": 0,
+    "omitted": 8
+  },
+  "images_complete": false,
+  "image_inventory": [],
+  "images_omitted": [
+    {
+      "source_ref": "https://www.mevzuat.gov.tr/anasayfa/21.5.20169431_dosyalar/image001.png",
+      "description": "Official embedded image 1 (source supplies no caption)",
+      "reason": "not extractable",
+      "normative": true,
+      "position": 1,
+      "failure": "Exact source image URL returns an HTML page instead of image bytes",
+      "response_sha256": "3c4d1800f4f992449fac47866b1c2217434a4482b197a5254c3312b87a364109",
+      "response_bytes": 64854
+    },
+    {
+      "source_ref": "https://www.mevzuat.gov.tr/anasayfa/21.5.20169431_dosyalar/image002.jpg",
+      "description": "Sayfa 114_AYAK EKLEME",
+      "reason": "not extractable",
+      "normative": true,
+      "position": 2,
+      "failure": "Exact source image URL returns an HTML page instead of image bytes",
+      "response_sha256": "5614baffa9719a030f4e3ae68ab6c57fe4858cef51b27529f91bdcfca4b0149c",
+      "response_bytes": 64854
+    },
+    {
+      "source_ref": "https://www.mevzuat.gov.tr/anasayfa/21.5.20169431_dosyalar/image003.jpg",
+      "description": "Sayfa 115",
+      "reason": "not extractable",
+      "normative": true,
+      "position": 3,
+      "failure": "Exact source image URL returns an HTML page instead of image bytes",
+      "response_sha256": "c7136cfee6e1e3e153d59e84d3b3968f7d0dd19e2b265e1312b66012e1c0442c",
+      "response_bytes": 64854
+    },
+    {
+      "source_ref": "https://www.mevzuat.gov.tr/anasayfa/21.5.20169431_dosyalar/image004.jpg",
+      "description": "Sayfa 116_yeni",
+      "reason": "not extractable",
+      "normative": true,
+      "position": 4,
+      "failure": "Exact source image URL returns an HTML page instead of image bytes",
+      "response_sha256": "00df211e5683432c9d302ca3caa2f370de744bf975782eb335d629eb52813514",
+      "response_bytes": 64854
+    },
+    {
+      "source_ref": "https://www.mevzuat.gov.tr/anasayfa/21.5.20169431_dosyalar/image005.jpg",
+      "description": "Sayfa 117",
+      "reason": "not extractable",
+      "normative": true,
+      "position": 5,
+      "failure": "Exact source image URL returns an HTML page instead of image bytes",
+      "response_sha256": "b33d736532384e31e7e52bfb876027511a63b178857b4625c7cb252899d8dee4",
+      "response_bytes": 64854
+    },
+    {
+      "source_ref": "https://www.mevzuat.gov.tr/anasayfa/21.5.20169431_dosyalar/image006.jpg",
+      "description": "Sayfa 118",
+      "reason": "not extractable",
+      "normative": true,
+      "position": 6,
+      "failure": "Exact source image URL returns an HTML page instead of image bytes",
+      "response_sha256": "5d96964d260f5b26024f0440eba930fdf3f2bfc59c62cb74207f9b35a79cee46",
+      "response_bytes": 64854
+    },
+    {
+      "source_ref": "https://www.mevzuat.gov.tr/anasayfa/21.5.20169431_dosyalar/image007.png",
+      "description": "Resim1",
+      "reason": "not extractable",
+      "normative": true,
+      "position": 7,
+      "failure": "Exact source image URL returns an HTML page instead of image bytes",
+      "response_sha256": "20cb82ba42818fc601818b1159adfdc1d3ff8353d303f0be8ceeb4d16dc9ff6e",
+      "response_bytes": 64854
+    },
+    {
+      "source_ref": "https://www.mevzuat.gov.tr/anasayfa/21.5.20169431_dosyalar/image008.jpg",
+      "description": "Resim_7",
+      "reason": "not extractable",
+      "normative": true,
+      "position": 8,
+      "failure": "Exact source image URL returns an HTML page instead of image bytes",
+      "response_sha256": "bd63a236d473eb451f26d2944db0f2e1d5359589f5090b82cc3cc927915b5bcd",
+      "response_bytes": 64854
+    }
+  ],
+  "completeness": "pending-images",
+  "text_layout": "article-files"
+}

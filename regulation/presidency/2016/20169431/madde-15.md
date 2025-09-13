@@ -1,0 +1,2 @@
+Derhal kesin işlem yapılacak haller
+MADDE 15- (1) Yükümlü erbaş ve erlerde zaman içerisinde ve tedaviyle, Hastalıklar Listesinde yer alan ilgili maddenin (A), (B) veya (D) dilimleri uyarınca değerlendirilmesinde değişiklik ihtimali öngörülmeyen sabitleşmiş hastalık bulunması halinde ertesi yıla bırakma, sevk geciktirmesi veya hava değişimi işlemi yapılmaz. Bunlar hakkında ilk raporları doğrultusunda kesin işlem yapılır.

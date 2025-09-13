@@ -1,0 +1,3 @@
+Yeniden sınıflandırılma ve branş belirleme
+MADDE 45- (1) Hastalıkları nedeniyle sınıfı veya branşı görevini yapamayacağı anlaşılan subay ve astsubaylar sınıflandırma veya branş belirleme çizelgelerine göre diğer sınıflarda veya branşlarda görev yapabilecekleri anlaşıldığı takdirde, 27/7/1967 tarihli ve 926 sayılı Türk Silahlı Kuvvetleri Personel Kanununun ilgili hükümleri gereğince yeniden sınıflandırılır veya ilgili mevzuat gereğince branşları yeniden belirlenir.
+(2) Sınıflandırma veya branş belirleme çizelgelerinde gösterilmeyen ya da yeni teşkil edilen sınıflarda veya branşlarda görev alacak subay ve astsubaylar, yapılacak göreve en yakın sınıfın veya branşın sağlık niteliğine uygun olarak yeniden sınıflandırılır veya bunların branşları yeniden belirlenir.

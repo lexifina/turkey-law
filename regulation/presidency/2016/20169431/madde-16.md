@@ -1,0 +1,2 @@
+Hastalıkların birleşmesi
+MADDE 16- (1) Yükümlü, erbaş ve erlerde tespit edilen ikiden fazla hastalık veya sekelleri ayrı ayrı olarak Hastalıklar Listesinin (A) dilimleri kapsamında “Askerliğe Elverişlidir” kararı gerektirdiği halde, bu hastalıkların birarada bulunması kişinin askerlik görevi yapmasına engel olacak nitelikte ise bu kişi hakkında sağlık kurullarınca “Askerliğe Elverişli Değildir” kararı verilir.

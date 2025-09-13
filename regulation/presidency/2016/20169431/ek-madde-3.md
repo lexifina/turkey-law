@@ -1,0 +1,3 @@
+Hastalıklar Listesinde karşılığı bulunmayan vakalara ilişkin nihai karar yetkisi
+EK MADDE 3- (Ek: 22/9/2017 - 2017/10844 K.)
+(1) Eğitim ve araştırma hastanelerinden sevk edilmek kaydıyla Hastalıklar Listesinde karşılığı bulunmayan vakalar ile bu Yönetmeliğin 47 nci maddesi kapsamında gereken nihai kararları vermek üzere, Sağlık Bakanlığınca yetkilendirilen A-I grubu eğitim ve araştırma hastaneleri bünyesinde komisyonlar oluşturulur. Bu komisyonların çalışma usul ve esasları yönerge ile düzenlenir. Sağlık Bakanlığınca talep edilmesi durumunda bu komisyonlara Millî Savunma Bakanlığı ve İçişleri Bakanlığı tarafından danışman üye görevlendirilebilir.
