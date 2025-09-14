@@ -1,0 +1,54 @@
+{
+  "checked_on": "2026-11-14",
+  "commencement_clauses": [
+    "MADDE 33 – (1) Bu Yönetmelik yayımı tarihinde yürürlüğe girer."
+  ],
+  "date_evidence": [
+    [
+      "2016-10-17",
+      "17.10.2016",
+      "original gazette publication date in official listing"
+    ],
+    [
+      "2025-09-14",
+      "RG-14/9/2025-33017",
+      "latest source-printed gazette amendment date for current consolidated text"
+    ],
+    [
+      "2025-09-14",
+      "RG-14/9/2025-33017",
+      "latest source-printed gazette amendment date for current consolidated text"
+    ],
+    [
+      "2025-09-14",
+      "14/9/2025",
+      "latest gazette date in source amendment table"
+    ]
+  ],
+  "date_quote": "RG-14/9/2025-33017",
+  "first_law": null,
+  "gazette": "29860",
+  "history": "current-text",
+  "images": {
+    "deferred": 0,
+    "omitted": 0,
+    "referenced": 0,
+    "source": 0
+  },
+  "in_force": "2025-09-14",
+  "in_force_basis": "latest source-printed gazette amendment date for current consolidated text",
+  "issuer": "Kafkas Üniversitesi",
+  "issuer_slug": "kafkas-universitesi",
+  "kind": "regulation",
+  "label": "oldest version available",
+  "path": "regulation/kafkas-universitesi/2016/22946",
+  "published": "2016-10-17",
+  "source": "https://www.mevzuat.gov.tr/anasayfa/MevzuatFihristDetayIframe?MevzuatTur=8&MevzuatNo=22946&MevzuatTertip=5",
+  "source_bytes": 68677,
+  "source_id": "8.5.22946",
+  "source_sha256": "fe4272e6611e833f312dce9bfa931bed3e0e7935d152b4dba53029da8864c2bc",
+  "text_status": "current-consolidated",
+  "title": "KAFKAS ÜNİVERSİTESİ ÖNLİSANS VE LİSANS UZAKTAN\r\nEĞİTİM-ÖĞRETİM VE SINAV YÖNETMELİĞİ",
+  "university_id": 206,
+  "word_count": 3032
+}

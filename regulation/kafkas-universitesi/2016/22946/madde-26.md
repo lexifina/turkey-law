@@ -1,0 +1,2 @@
+Tebligat ve adres bildirimi
+MADDE 26 – (1) Her türlü yazılı bildirim, öğrencinin programa kayıt sırasında bildirdiği adrese yazılı olarak yapılmak suretiyle tamamlanmış sayılır. Kayıt olurken bildirdikleri adresleri değiştirdikleri halde, bunu Üniversiteye bildirmemiş veya yanlış ya da eksik adres vermiş olan öğrencilerin mevcut adreslerine bildirim yapılması halinde, kendilerine bildirim yapılmış sayılır.

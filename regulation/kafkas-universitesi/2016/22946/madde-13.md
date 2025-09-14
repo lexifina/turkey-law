@@ -1,0 +1,3 @@
+Danışmanlık
+MADDE 13 – (1) Uzaktan eğitim programlarına kayıtlı öğrencilere, eğitim-öğretim konularında ve uzaktan eğitim platformları ile ilgili karşılaşacakları sorunların çözümünde yardımcı olmak üzere, ders yılı başlamadan önce, bölüm başkanlarının önerisi dikkate alınarak ilgili birim yönetim kurullarınca, ilgili bölümün öğretim üyeleri arasından, öğretim üyesi bulunmayan birimlerde ise öğretim görevlileri arasından danışmanlar görevlendirilir.
+(2) Ders danışmanları, öğrenciyle ilgili birim yönetim kurulunun belirlediği formatlarda internet üzerinden eş zamanlı ve internet üzerinden farklı zamanlarda iletişim kurmakla yükümlüdür.

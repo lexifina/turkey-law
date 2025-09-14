@@ -1,0 +1,2 @@
+Ders yükü
+MADDE 9 – (1) Ders geçme sistemi uygulanan uzaktan eğitim programlarına kaydını yaptıran öğrenciler kayıt oldukları yarıyıla ait tüm dersleri almakla yükümlüdürler. Bir öğrencinin başarılı olamadığı ve öncelikle almak zorunda olduğu derslerle, bulunduğu yarıyıldan alacağı teorik ve uygulamalı derslerin toplamı her yarıyıl için haftada Yükseköğretim Kurulunun belirlediği zorunlu derslerde dâhil 40 ders saatidir. Ancak mezun durumda olan öğrenciler ders kayıtlarında kırk artı iki ders saatini geçmemek üzere ders alabilirler.

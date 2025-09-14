@@ -1,0 +1,10 @@
+ALTINCI BÖLÜM
+Disiplin İşlemleri, Ek Süreler, Mezuniyet ve Diplomalar
+Disipline ilişkin iş ve işlemler
+MADDE 29 – (1) Öğrencilerin disiplin iş ve işlemlerinde; 2547 sayılı Kanun, Yükseköğretim Kurumları Öğrenci Disiplin Yönetmeliği ile ilgili mevzuat hükümleri uygulanır.
+(2) Üniversitenin uzaktan eğitim programlarına kayıtlı öğrenciler, öğrenci bilgi sistemi ve eğitim yönetim sistemine giriş için belirlenen kullanıcı ismini ve şifresini kullanmak ve bunların başkası tarafından kullanılmaması için gerekli tedbirleri almak zorundadır. Kullanıcı adının ve şifresinin başka kişilerce kullanıldığı şüphesinde olan öğrencinin en kısa zamanda sistem yöneticilerine başvurması gerekir. Her iki sistemde gerçekleştirilen tüm işlemler, doğrudan öğrencinin sorumluluğundadır.
+(3) İnternet üzerinden yapılan sınavlarda, sınava katılması gereken öğrencinin yerine başka bir öğrencinin katıldığının tespit edilmesi durumunda ilgili öğrenci hakkında Yükseköğretim Kurumları Öğrenci Disiplin Yönetmeliği ile ilgili mevzuat hükümleri uygulanır.
+(4) Üniversiteden uzaklaştırma cezası alan öğrenciler bu süre içinde eğitim-öğretim ve sosyal faaliyetlere katılamadıkları gibi, Üniversitenin tesislerine ve uzaktan eğitim yönetim sistemlerinin hiç birisine giremezler.
+(5) Üniversitenin uzaktan eğitim platformlarına internet üzerinden öğrenci tarafından gönderilen herhangi bir uygulama ödevi, materyal ve dokümanın içeriğinden ve güvenliğinden yine öğrenci sorumludur.
+(6) Üniversitenin uzaktan eğitim platformlarına yasal olmayan yollardan girmek isteyen, sistemlere zarar verecek dosyalar gönderen veya bu kişilere yardım ettiği tespit edilen öğrenciler hakkında yasal işlem uygulanır.
+(7) Tutuklu bulunan, hakkında gıyabi tutuklama kararı olan veya aranmakta olduğu resmi makamlarca yüksekokul müdürlüğüne bildirilen öğrencilerin sınav hakları saklı tutulmaz. Ancak tutukluluk hali sona ermiş olanların devam edemediği süreler içerisindeki eğitim-öğretim haklarının kullanılma şekli ve usulü yüksekokul yönetim kurulu tarafından kararlaştırılır.

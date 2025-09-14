@@ -1,0 +1,3 @@
+Öğretim dili
+MADDE 8 – (1) Üniversitenin uzaktan eğitim programlarında öğretim dili Türkçe’dir. Ancak, 4/12/2008 tarihli ve 27074 sayılı Resmî Gazete’de yayımlanan Yükseköğretim Kurumlarında Yabancı Dil Öğretimi ve Yabancı Dille Öğretim Yapılmasında Uyulacak Esaslara İlişkin Yönetmeliğin 7 nci maddesi uyarınca, yabancı dilde öğretim yapılması uygun görülen programlarda eğitim-öğretim, ilgili yabancı dilde yapılır.
+(2) Yabancı dilde eğitim-öğretim yapmayan fakat zorunlu veya seçime bağlı yabancı dil hazırlık sınıfı bulunan programlarda, eğitim-öğretimin sürdürüldüğü yıllar içerisinde bazı dersler, yabancı dilde okutulabilir.

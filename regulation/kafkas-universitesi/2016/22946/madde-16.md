@@ -1,0 +1,3 @@
+Stajlar
+MADDE 16 – (1) Staj yapma zorunluluğu olan fakülte/yüksekokul ve meslek yüksekokullarının uzaktan eğitim programına kayıtlı öğrencileri de staj yapmak zorundadır.
+(2) Eğitim-Öğretim programlarına göre staj yapma zorunluluğu olan fakülte ve yüksekokullarda stajlar, Senato tarafından belirlenen hükümlere göre yapılır. Stajların, yasayla belirtilen azami eğitim-öğretim süresi içinde bitirilmesi zorunludur. Diğer ders ve uygulama yükümlülükleri ile birlikte stajını bitirmeyen öğrenciler, stajlar tamamlanıncaya kadar mezun olamazlar ve her kayıt dönemi için kayıtlarını yeniletmek zorundadırlar.

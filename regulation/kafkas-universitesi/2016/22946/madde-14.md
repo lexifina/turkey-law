@@ -1,0 +1,2 @@
+Ders muafiyeti
+MADDE 14 – (1) Herhangi bir yükseköğretim kurumuna kayıtlı iken, Ölçme, Seçme ve Yerleştirme Sınavı sonucu, Kafkas Üniversitesi fakülte ve yüksekokullarına kaydını yaptıran öğrenciler, daha önce kayıtlı bulundukları yükseköğretim kurumundan başarmış oldukları dersler için, öğrenimine başladıkları ilk yarıyılın ikinci haftası sonuna kadar başvurarak, muafiyet talebinde bulunabilirler. Muafiyet işlemlerinde Kafkas Üniversitesi Önlisans ve Lisans Eğitim-Öğretim ve Sınav Yönetmeliği ve Senato kararları geçerlidir.
