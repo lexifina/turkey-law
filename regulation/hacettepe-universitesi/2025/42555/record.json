@@ -1,0 +1,49 @@
+{
+  "checked_on": "2026-11-14",
+  "commencement_clauses": [
+    "MADDE 40- (1) Bu Yönetmelik 2025-2026 eğitim-öğretim yılı başında yürürlüğe girer."
+  ],
+  "date_evidence": [
+    [
+      "2025-07-30",
+      "30.07.2025",
+      "original gazette publication date in official listing"
+    ],
+    [
+      "2025-09-14",
+      "RG-14/9/2025-33017",
+      "latest source-printed gazette amendment date for current consolidated text"
+    ],
+    [
+      "2025-09-14",
+      "14/9/2025",
+      "latest gazette date in source amendment table"
+    ]
+  ],
+  "date_quote": "RG-14/9/2025-33017",
+  "first_law": null,
+  "gazette": "32971",
+  "history": "current-text",
+  "images": {
+    "deferred": 0,
+    "omitted": 0,
+    "referenced": 0,
+    "source": 0
+  },
+  "in_force": "2025-09-14",
+  "in_force_basis": "latest source-printed gazette amendment date for current consolidated text",
+  "issuer": "Hacettepe Üniversitesi",
+  "issuer_slug": "hacettepe-universitesi",
+  "kind": "regulation",
+  "label": "oldest version available",
+  "path": "regulation/hacettepe-universitesi/2025/42555",
+  "published": "2025-07-30",
+  "source": "https://www.mevzuat.gov.tr/anasayfa/MevzuatFihristDetayIframe?MevzuatTur=8&MevzuatNo=42555&MevzuatTertip=5",
+  "source_bytes": 86315,
+  "source_id": "8.5.42555",
+  "source_sha256": "1a7577de78aaad48916d00d41f50d88a66dac15504823d96a3555c61b9592fb9",
+  "text_status": "current-consolidated",
+  "title": "HACETTEPE ÜNİVERSİTESİ ÖN LİSANS VE LİSANS EĞİTİM-ÖĞRETİM\r\nVE SINAV YÖNETMELİĞİ",
+  "university_id": 199,
+  "word_count": 3826
+}

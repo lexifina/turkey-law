@@ -1,0 +1,2 @@
+Dikey geçişler
+MADDE 9- (1) ÖSYM tarafından merkezi olarak yapılan dikey geçiş sınavında başarılı olan meslek yüksekokulu mezunlarının lisans programına kabulleri ve intibakları, 19/2/2002 tarihli ve 24676 sayılı Resmî Gazete’de yayımlanan Meslek Yüksekokulları ve Açıköğretim Ön Lisans Programları Mezunlarının Lisans Öğrenimine Devamları Hakkında Yönetmelik hükümleri ile Yükseköğretim Kurulunun bu konudaki kararlarına uygun olarak, Senato tarafından belirlenen esaslara göre yapılır.

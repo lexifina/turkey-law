@@ -1,0 +1,23 @@
+Tanımlar
+MADDE 4- (1) Bu Yönetmelikte geçen;
+a) AKTS: Öğrencilerin yurt içinde ve yurt dışında aldıkları ve başarılı oldukları ders kredilerinin ve notlarının bir yükseköğretim kurumundan diğerine transferini sağlayan Avrupa Kredi Transfer Sistemini,
+b) BİLSİS: Hacettepe Üniversitesi Öğrenci Bilgi Sistemini,
+c) Danışman: Öğrenciye eğitim-öğretim, ders alma, mezuniyet işlemleri ve benzeri konularda ilgilenmek üzere görevlendirilmiş öğretim elemanını,
+ç) Fakülte: Hacettepe Üniversitesine bağlı fakülteleri,
+d) İlerleme kuralı: Herhangi bir yarıyılda tanımlanan bir zorunlu veya seçmeli dersi alabilmek için, o yarıyıldan önceki yarıyıllarda açılmış olan, başarısız veya hiç alınmamış zorunlu derslerin öncelikle alınmış olması gerekliliğini,
+e) İlgili birim: Öğrencinin bağlı olduğu bölüm, anabilim dalı ya da programı,
+f) İlgili kurul: Hacettepe Üniversitesine bağlı fakültelerde fakülte kurulunu, yüksekokul ve meslek yüksekokullarında yüksekokul kurulunu ve konservatuvar da konservatuvar kurulunu,
+g) İlgili yönetim kurulu: Hacettepe Üniversitesine bağlı fakülte, yüksekokul, meslek yüksekokulu ve konservatuvar yönetim kurulunu,
+ğ) Konservatuvar: Hacettepe Üniversitesi Ankara Devlet Konservatuvarını,
+h) Meslek yüksekokulu: Hacettepe Üniversitesine bağlı meslek yüksekokullarını,
+ı) ÖİDB: Hacettepe Üniversitesi Öğrenci İşleri Daire Başkanlığını,
+i) ÖSYM: Ölçme, Seçme ve Yerleştirme Merkezi Başkanlığını,
+j) Program dışı öğrenimlerin tanınması: Program dışı öğrenmeler sonucunda kazanılan bilgi, beceri ve yetkinliklerinin, Üniversitenin ilgili kurullarınca kabul edilen kurumlardan ya da nitelikli mikro yeterlik sağlayıcılarından elde edilen sertifika, belge (rozet), yayınlar, projeler, araştırma ve destekler; belgelendirilebilen (yurtiçi/yurtdışı) gönüllü çalışmalar, iş yerinde mesleki, staj, klinik çalışma veya saha çalışması deneyimlerinin tanınmasını,
+k) Rektör: Hacettepe Üniversitesi Rektörünü,
+l) Rektörlük: Hacettepe Üniversitesi Rektörlüğünü,
+m) Senato: Hacettepe Üniversitesi Senatosunu,
+n) Üniversite: Hacettepe Üniversitesini,
+o) Üniversite Yönetim Kurulu: Hacettepe Üniversitesi Yönetim Kurulunu,
+ö) YÖK: Yükseköğretim Kurulunu,
+p) Yüksekokul: Hacettepe Üniversitesine bağlı yüksekokulları,
+ifade eder.

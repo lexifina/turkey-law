@@ -1,0 +1,2 @@
+Tebligat ve adres bildirme
+MADDE 36- (1) Öğrenciye her türlü tebligat, öğrencinin resmi kayıtlarda yer alan posta adresine ve/veya ÖİDB sisteminde kayıtlı e-posta adresine gönderilerek yapılır. Öğrenci adres, e-posta değişikliklerini ÖİDB’ye şahsen bildirmekle ve e-posta adresine gönderilen iletileri izlemekle yükümlüdür. Değişiklikler bildirilmediği takdirde kayıtlarda mevcut olan son adrese yapılan tebligat geçerli sayılır.

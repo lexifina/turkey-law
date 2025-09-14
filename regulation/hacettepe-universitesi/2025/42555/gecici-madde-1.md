@@ -1,0 +1,2 @@
+Kayıt yenileme, ders alma
+GEÇİCİ MADDE 1- (1) Ulusal krediye tabi öğrenciler bir yarıyılda 25 kredi ders alabilirler. Ancak; öğrenciler, iki yıllık programlarda üçüncü yarıyıldan, dört yıllık programlarda yedinci yarıyıldan, beş yıllık programlarda dokuzuncu yarıyıldan itibaren 28 krediyi geçmemek üzere ders alabilirler. Mezuniyetine en fazla 56 kredi kalan diğer dönem öğrencileri de ilgili yönetim kurulu kararıyla 28 krediyi geçmemek üzere ders alabilirler.

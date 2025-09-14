@@ -1,0 +1,3 @@
+Ders muafiyetleri
+MADDE 10- (1) Üniversitenin ön lisans/lisans programlarına ilk kez kayıt yaptıran veya bir Üniversiteden ayrıldıktan sonra merkezi yerleştirme sınavı ile Üniversiteye kayıt hakkı elde eden öğrenciler, Üniversite içi ve Üniversiteler arası yatay geçiş, merkezi yerleştirme puanı ile yatay geçiş, lisans tamamlama ve dikey geçişle kabul edilen öğrenciler, daha önce aldıkları ve başarılı oldukları derslerden muaf olmak için Üniversiteye kayıt tarihinden itibaren 5 iş günü içerisinde ilgili birime başvurusunu yapar.
+(2) Öğrencilerin muafiyet işlemleri ile ilgili kurallar Senato tarafından belirlenir.

@@ -1,0 +1,4 @@
+Akademik ortalama
+MADDE 25- (1) Öğrencilerin başarı durumu, yarıyıl akademik ortalaması ve genel akademik ortalamaları hesaplanarak belirlenir.
+(2) Bir dersin kredisi ile o dersten alınan notun katsayısının çarpımı, ilgili dersin ağırlıklı puanını verir. Yarıyıl akademik ortalaması, öğrencinin o yarıyılda programına aldığı bütün derslerin ağırlıklı puanlarının toplamının, bu derslerin kredi toplamına bölünmesiyle bulunur. Genel akademik ortalama ise, öğrencinin öğrenimi süresince programındaki bütün derslerden aldığı son notlar esas alınarak hesaplanan ağırlıklı puanlar toplamının, bu derslerin kredileri toplamına bölünmesiyle bulunur.
+(3) Akademik ortalama hesaplanmasında bölme işlemi, virgülden sonra iki basamak yürütülür. Yan dal ve çift ana dal dersleri öğrencinin tekrar ettiği dersler olması halinde, o derslerden aldığı en son not akademik ortalamalarına katılır.

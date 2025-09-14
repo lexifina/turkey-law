@@ -1,0 +1,3 @@
+Yatay geçişler
+MADDE 8- (1) Üniversiteye bağlı birimlere, Üniversitenin içinden veya dışından yapılacak yatay geçiş işlemleri, 24/4/2010 tarihli ve 27561 sayılı Resmî Gazete’de yayımlanan Yükseköğretim Kurumlarında Önlisans ve Lisans Düzeyindeki Programlar Arasında Geçiş, Çift Anadal, Yan Dal ile Kurumlar Arası Kredi Transferi Yapılması Esaslarına İlişkin Yönetmelik hükümlerine ve Senato tarafından belirlenen esaslara uygun olarak ilgili birim yönetim kurulunca kararlaştırılır. (Değişik cümle:RG-14/9/2025-33017) Üniversite içi ve üniversiteler arası yatay geçişler; lisans programları için sadece güz yarıyılında, ön lisans programları için güz ve bahar yarıyıllarında gerçekleştirilir.
+(2) Merkezi yerleştirme puanı ile yatay geçişler güz yarıyılında yapılır.

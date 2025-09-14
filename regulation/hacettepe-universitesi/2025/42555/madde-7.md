@@ -1,0 +1,8 @@
+Kayıt yenileme, ders alma
+MADDE 7- (1) Öğrenci, her yarıyıl başında akademik takvimde belirtilen süre içinde, yükümlülüğü varsa katkı payını/öğrenim ücretini yatırdıktan sonra ÖİDB’nin internet sayfasından elektronik ortamda ders kaydını yapar. Kayıt danışman onayı ile kesinleşir.
+(2) Öğrenci ekle-sil haftasında ders/şube değişikliği yapabilir. Yenilenen program danışman onayı ile kesinleşir.
+(3) Program kaydını belirlenen sürelerde yenilemeyen öğrenci o yarıyıl/yılda derslere ve sınavlara giremez, öğrencilik hakkından yararlanamaz ve öğrencinin kayıt yenilemediği yarıyıl/yıl öğrenim süresinden sayılır.
+(4) Kayıt veya ekle-sil haftasında programını yenileyen öğrenciler, gerekçeleri ilgili yönetim kurulu kararı ile kabul edildiği takdirde, ekle-sil haftasının bitimini izleyen yedi iş günü içinde, ders yükleme veya üzerinden ders silme işlemi yapabilirler.
+(5) Öğrenciler iki yıllık programlarda birinci ve ikinci, dört ve beş yıllık programlarda birinci, ikinci, üçüncü ve dördüncü yarıyıllarda en fazla 30 AKTS kredili, iki yıllık programlarda üçüncü, diğer programlarda ise beşinci yarıyıldan itibaren en fazla 40 AKTS kredili ders alabilirler. Öğrencilerin başka üniversitelerden aldıkları dersler de bu sınırlamaların içindedir.
+(6) Ders program kayıtlarında, yan dal-çift ana dal dersleri ile yarıyıl dışında alınan staj dersleri ve ulusal kredi ile eğitimine devam eden öğrencilerin programlarındaki ortak zorunlu dersler, ana dal programının yarıyıl kredisine dahil edilmez.
+(7) Ders kayıt işlemleri yapılırken öğrencilerin kayıt oldukları öğretim programlarındaki dönemsel yapı sıralı olarak izlenir, dersler ilerleme kuralına göre alınır.
