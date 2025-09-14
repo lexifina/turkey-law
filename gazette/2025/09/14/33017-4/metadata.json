@@ -1,0 +1,20 @@
+{
+  "record_type": "gazette-item",
+  "gazette": "Resmî Gazete",
+  "jurisdiction": "TR",
+  "date": "2025-09-14",
+  "issue": "33017",
+  "edition": "regular",
+  "item": 4,
+  "section": "YÜRÜTME VE İDARE BÖLÜMÜ",
+  "heading": "YÖNETMELİKLER",
+  "title": "Kafkas Üniversitesi Önlisans ve Lisans Uzaktan Eğitim-Öğretim ve Sınav Yönetmeliği",
+  "official_link": "https://www.resmigazete.gov.tr/eskiler/2025/09/20250914-4.htm",
+  "link_format": "htm",
+  "index_url": "https://www.resmigazete.gov.tr/eskiler/2025/09/20250914.htm",
+  "index_sha256": "83eec6e1aa82a7600e7279119f10c28d1be2634f85f22e23421efe9a9956a711",
+  "index_header": "14 Eylül 2025 ... 33017 Sayılı Resmî Gazete",
+  "issue_pdf": "https://www.resmigazete.gov.tr/eskiler/2025/09/20250914.pdf",
+  "in_force_basis": "Resmî Gazete publication date; not a commencement reading.",
+  "text_status": "metadata-only; text not yet fetched (follow-up pass adds it as its own commit)"
+}
