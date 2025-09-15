@@ -1,0 +1,3 @@
+Hastane Başmüdürü
+Madde 8- (Değişik:RG-15/9/2025-33018)
+Hastane Başmüdürü, görevlerinin kapsamı ile ilgili en az lisans düzeyinde eğitim veren bir yükseköğretim kurumunu bitirmiş olan kişiler arasından seçilir. Sağlık yönetimi konusunda yüksek lisans, doktora yapmış olması ve deneyim kriterleri değerlendirmede göz önünde bulundurulur. Hastane Başmüdürü; Hastane Yönetim Kurulu, Başhekim ve Başhekim Yardımcıları tarafından verilen tüm görevleri yapar. Hastane Başmüdürü, Hastane Kurullarının oy hakkı olmaksızın raportörüdür. Hastane Başmüdürü, hastane müdür ve müdür yardımcıları ile birlikte idari ve mali işler, personel, destek hizmetleri ve benzeri nitelikte görevleri yürütür.
