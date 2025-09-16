@@ -1,0 +1,21 @@
+{
+  "record_type": "parliament-written-question",
+  "term": 28,
+  "legislative_year": 3,
+  "esas_no": "7/33971",
+  "submitted": "2025-09-16",
+  "submitted_as": "Başkanlığa geliş tarihi",
+  "mp": "Ediz ÜN",
+  "province": "Edirne",
+  "summary": "Selimiye Camii Restorasyon Projesi'ne ilişkin",
+  "status": "Süresi Geçtikten Sonra Cevaplandı",
+  "status_as_of": "2026-11-16",
+  "official_record": "https://www.tbmm.gov.tr/Denetim/Yazili-Soru-Onergesi-Detay/37f319e1-8687-49e5-b5e9-0199565cd8e5",
+  "source": "https://tbmm.gov.tr/Denetim/YaziliSoruOnergesiTable",
+  "source_form": "https://tbmm.gov.tr/Denetim/Yazili-Soru-Onergeleri",
+  "source_sha256": "cf67921e6636f738a54f01fa5d3715d11da53324368bf7489da0523132186469",
+  "in_force": "2025-09-16",
+  "in_force_basis": "Date the question reached the Speaker (Başkanlığa geliş tarihi) in the official TBMM written-question record; parliamentary oversight record, not law",
+  "history_type": "metadata",
+  "text_status": "metadata-only: question text, addressee and answers are in the linked official record (PDFs on cdn.tbmm.gov.tr); not transcribed here"
+}
