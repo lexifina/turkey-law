@@ -1,0 +1,20 @@
+{
+  "record_type": "gazette-item",
+  "gazette": "Resmî Gazete",
+  "jurisdiction": "TR",
+  "date": "2025-09-16",
+  "issue": "33019",
+  "edition": "regular",
+  "item": 7,
+  "section": "YÜRÜTME VE İDARE BÖLÜMÜ",
+  "heading": "KARAR",
+  "title": "DÜZELTME: Yargıtay İçtihatları Birleştirme Büyük Genel Kurulunun 13/06/2025 Tarihli ve E: 2023/1, K: 2025/3 Sayılı Kararı ile İlgili",
+  "official_link": "https://www.resmigazete.gov.tr/eskiler/2025/09/20250916-7.htm",
+  "link_format": "htm",
+  "index_url": "https://www.resmigazete.gov.tr/eskiler/2025/09/20250916.htm",
+  "index_sha256": "691b327deedba49c97bcce219f53682862c8416ec27a89a209a4cd6e77209497",
+  "index_header": "16 Eylül 2025 ... 33019 Sayılı Resmî Gazete",
+  "issue_pdf": "https://www.resmigazete.gov.tr/eskiler/2025/09/20250916.pdf",
+  "in_force_basis": "Resmî Gazete publication date; not a commencement reading.",
+  "text_status": "metadata-only; text not yet fetched (follow-up pass adds it as its own commit)"
+}
