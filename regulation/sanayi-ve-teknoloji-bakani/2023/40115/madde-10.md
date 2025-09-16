@@ -1,0 +1,3 @@
+AB aksam tip onayının verilmesi
+MADDE 10- (1) AB/2018/858 Yönetmeliğinin 29 uncu maddesi uyarınca, 9 uncu maddenin birinci fıkrasının (a) bendinde atıfta bulunulan aksamlar için Ek-XIV Kısım 2 Bölüm B,C ve F’ye göre ve 9 uncu maddenin birinci fıkrasının (b) bendinde atıfta bulunulan aksamlar için Ek-XIV Kısım 2 Bölüm F’ye göre teknik özellikler AB/2019/2144 sayılı Yönetmeliğin Ek-II’sinde listelenen ilgili gereklilikler açısından karşılandığında, tip onay kuruluşu, hidrojen aksam tipi için bir AB aksam tip onayı ve AB/2020/683 Yönetmeliğinin Ek-IV’ünde belirtilen yönteme uygun olarak bir tip onayı belge numarası verir.
+(2) 9 uncu maddede atıfta bulunulan aksamlar için AB tip onay belgesi Ek-XIV Kısım 3 Bölüm B uyarınca hazırlanır.

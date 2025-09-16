@@ -1,0 +1,3 @@
+Avrupa Birliği mevzuatına uyum
+MADDE 14- (1) Bu Yönetmelik, (AB) 2019/2144 sayılı Avrupa Parlamentosu ve Konsey Tüzüğünün uygulanmasına ilişkin Araçların ve Bu Araçlara Yönelik Sistemlerin, Bileşenlerin ve Ayrı Teknik Ünitelerin Genel Yapım Özellikleri ve Güvenlikleri Bakımından Tip Onayı için Tek Tip Prosedürler ve Şartlara İlişkin 31/03/2021 tarihli ve (AB) 2021/535 sayılı Komisyon Uygulama Tüzüğü dikkate alınarak Avrupa Birliği mevzuatına uyum çerçevesinde hazırlanmıştır.
+(2) Bu Yönetmelik hükümlerinde herhangi bir tereddüt hasıl olması durumunda, birinci fıkrada belirtilen ve bu Yönetmeliğin esas aldığı (AB) 2021/535 sayılı Avrupa Parlamentosu ve Konsey Tüzüğünün orijinal metni esas alınır.

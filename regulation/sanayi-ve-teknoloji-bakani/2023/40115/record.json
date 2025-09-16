@@ -1,0 +1,46 @@
+{
+  "source_id": "7.5.40115",
+  "kind": "regulation",
+  "register_kind": "Kurum ve Kuruluş Yönetmelikleri",
+  "title": "MOTORLU ARAÇLAR VE RÖMORKLARI İLE BUNLAR İÇİN TASARLANAN AKSAM, SİSTEM VE AYRI TEKNİK ÜNİTELERİN GENEL GÜVENLİĞİ VE YAPIM ÖZELLİKLERİ HAKKINDA YÖNETMELİK (AB/2021/535)",
+  "number": "40115",
+  "issuer": "Sanayi ve Teknoloji Bakanı",
+  "issuer_slug": "sanayi-ve-teknoloji-bakani",
+  "path": "regulation/sanayi-ve-teknoloji-bakani/2023/40115",
+  "source": "https://www.mevzuat.gov.tr/anasayfa/MevzuatFihristDetayIframe?MevzuatTur=7&MevzuatNo=40115&MevzuatTertip=5",
+  "source_sha256": "7fabbbedb0cf25c09513c6f2d2fd702b0a7513700b7647a0128119ecd1f24786",
+  "source_bytes": 102458,
+  "published": "2023-03-16",
+  "gazette": "32134 (Mükerrer)",
+  "in_force": "2025-09-16",
+  "in_force_basis": "latest Resmî Gazete date printed in the source amendment notes/table (\"RG-16/9/2025\") for the current consolidated text",
+  "date_evidence": [
+    [
+      "2025-09-16",
+      "RG-16/9/2025",
+      "Resmî Gazete date printed in the source amendment note"
+    ],
+    [
+      "2025-09-16",
+      "16/9/2025",
+      "Resmî Gazete date in the source amendment table"
+    ]
+  ],
+  "commencement_clauses": [
+    "Bu Yönetmelik yayımı tarihinde yürürlüğe girer"
+  ],
+  "history": "current-text",
+  "label": "oldest version available",
+  "checked_on": "2026-11-15",
+  "word_count": 3375,
+  "text_status": "current-consolidated",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  },
+  "source_links": [
+    "7.5.40115-ek.docx"
+  ],
+  "completeness": "html-text-complete; linked annexes not fetched"
+}

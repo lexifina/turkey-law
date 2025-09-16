@@ -1,0 +1,6 @@
+İKİNCİ BÖLÜM
+BM Regülasyonları Uyarınca Temel Gerekliliklere Uygun Tip Onayı
+Tip onay başvurusu
+MADDE 3- (1) 1 inci maddenin ikinci fıkrasında atıfta bulunulan durumlardan bir veya daha fazlasında, AB/2019/2144 Yönetmeliğinde listelenen BM Regülasyonlarında belirtilen gerekliliklere uygun olarak bir araç, aksam, sistem veya ayrı teknik ünite tipinin onaylanması için başvurular Ek-I Kısım 1’de belirtilen model bilgi dokümanı kullanılarak imalatçılar veya temsilcileri tarafından tip onay kuruluşuna sunulur.
+(2) Bilgi dokümanında tip onay belgesi numara ve işaretlerinin yer aldığı ve ilgili tip onay belgelerinin ekleri ile birlikte tip onay kuruluşuna sunulduğu durumlarda; bir araca montajı yapılan veya ikinci bir aksam veya ayrı teknik üniteye dahil edilen herhangi bir AB veya BM tip onaylı aksam ve ayrı teknik ünitenin, birinci fıkrada atıfta bulunulan bilgi dokümanında özellikleri bakımından tam kapsamlı tanımlama gerekmemektedir.
+(3) AB/2019/2144 Yönetmeliği ve BM Regülasyonları kapsamındaki alanlardaki hükümleri belirleyen ilgili mevzuat uyarınca, BM tip onayı işareti taşıması gereken aksam ve ayrı teknik üniteler yerine uygulandıkları durumlarda, geçerli AB tip onayı işaretine sahip aksam ve ayrı teknik üniteler de kabul edilir.
