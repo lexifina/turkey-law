@@ -1,0 +1,23 @@
+{
+  "number": "655",
+  "number_as_published": "655",
+  "year": 2025,
+  "title": "İmar konuları",
+  "decision_date": "2025-09-16",
+  "source": "https://www.denizli.bel.tr/kurumsal/belgeler/meclis-kararlari (form POST yil=2025&ay=09)",
+  "official_document": null,
+  "source_sha256": "7cad215dc26f6af0988fe3bdf49404a4142c7b9106477334f7b90668a0d58e3c",
+  "issuer": "Denizli Büyükşehir Belediye Meclisi",
+  "history_type": "metadata",
+  "text_status": "metadata-only: the published decision summary appears to name private persons; official link only",
+  "in_force": "2025-09-16",
+  "in_force_basis": "Decision date as printed in the official council listing: 16-09-2025; adoption date of the council decision; legal commencement not asserted",
+  "missing": [
+    "complete official decision text",
+    "official annexes"
+  ],
+  "law_text_complete": false,
+  "privacy_withheld": true,
+  "official_page": "https://www.denizli.bel.tr/kurumsal/belgeler/meclis-kararlari",
+  "subject_heading": "İmar konuları"
+}
