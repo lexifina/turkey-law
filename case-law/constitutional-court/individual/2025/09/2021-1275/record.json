@@ -1,0 +1,20 @@
+{
+  "applicant": "S.N.A.V.",
+  "application_date": "2021-01-11",
+  "application_number": "2021/1275",
+  "deciding_unit": "İkinci Bölüm",
+  "decision_date": "2025-09-17",
+  "id": "f5b46164-8ecd-4020-a89a-1d971fd2e8b9",
+  "in_force": "2025-09-17",
+  "in_force_basis": "official decision date",
+  "kind": "constitutional-court-individual-application",
+  "omitted_images": 0,
+  "outcome": "Esas (İhlal Olmadığı)",
+  "published": null,
+  "referenced_images": 0,
+  "source": "https://kararlarbilgibankasi.anayasa.gov.tr/kbb/pages/search/Tumu?id=a2JiOmY1YjQ2MTY0LThlY2QtNDAyMC1hODlhLTFkOTcxZmQyZThiOQ&type=BireyselBasvuru",
+  "source_api": "https://kararlarbilgibankasi.anayasa.gov.tr/api/core/public/search",
+  "source_images": 0,
+  "source_sha256": "792c6483583f8606712d203a703528bbf2bda14dfc23ade05437c42fd1165997",
+  "version_label": "as-enacted"
+}
