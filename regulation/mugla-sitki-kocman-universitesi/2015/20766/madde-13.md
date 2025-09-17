@@ -1,0 +1,2 @@
+Diğer hususlar
+MADDE 13 ‒ (1) Bu Yönetmelikte hüküm bulunmayan hallerde 27/8/2011 tarihli ve 28038 sayılı Resmî Gazete’de yayımlanan Muğla Sıtkı Koçman Üniversitesi Ön Lisans ve Lisans Eğitim-Öğretim Yönetmeliği, 27/8/2011 tarihli ve 28038 sayılı Resmî Gazete’de yayımlanan Muğla Sıtkı Koçman Üniversitesi Lisansüstü Eğitim-Öğretim Yönetmeliği, Yükseköğretim Kurulunca belirlenen Yükseköğretim Kurumlarında Yürütülen Yaz Okulları Programları Uygulama Esas ve Usulleri ve ilgili diğer mevzuat hükümleri uygulanır.

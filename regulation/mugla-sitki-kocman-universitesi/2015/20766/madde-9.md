@@ -1,0 +1,4 @@
+Sınavlar ve değerlendirme ile ilgili esaslar
+MADDE 9 ‒ (1) (Değişik:RG-17/9/2025-33020) Yaz okulunda açılan derslerde ve yabancı dil hazırlık sınıfında ara sınav ve yarıyıl sonu sınavı yapılır. Yaz okulunda mazeret sınavı ve bütünleme sınavı yapılmaz.
+(2) Yaz okulunda alınan dersler, bunu takip eden güz yarıyılı başında öğrencinin genel not ortalamasında dikkate alınır.
+(3) (Değişik:RG-17/9/2025-33020) Yaz okulunda, öğrencinin başarı durumu; 27/8/2011 tarihli ve 28038 sayılı Resmî Gazete’de yayımlanan Muğla Sıtkı Koçman Üniversitesi Ön Lisans ve Lisans Eğitim-Öğretim Yönetmeliği, 2/9/2025 tarihli ve 33005 sayılı Resmî Gazete’de yayımlanan Muğla Sıtkı Koçman Üniversitesi Yabancı Dil Eğitim-Öğretim ve Sınav Yönetmeliği ile 1/9/2025 tarihli ve 33004 sayılı Resmî Gazete’de yayımlanan Muğla Sıtkı Koçman Üniversitesi Lisansüstü Eğitim-Öğretim Yönetmeliğine göre belirlenir. Yaz okulunda alınan ders ve notlar öğrenci işleri kayıtlarında yaz okulu adı altında tutulur.
