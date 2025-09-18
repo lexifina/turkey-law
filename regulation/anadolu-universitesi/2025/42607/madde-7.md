@@ -1,0 +1,2 @@
+Zorunlu yabancı dil derslerinden muafiyet
+MADDE 7- (1) Öğretim dili Türkçe olan bir yükseköğretim programına ilk kez kayıt yaptıran öğrenci, alınması zorunlu olan yabancı dil derslerinden muaf olmak için, güz ve bahar dönemi başında yapılan muafiyet sınavından 100 tam puan üzerinden 50 ve üstü puan almak zorundadır. Başarı notu, Senato tarafından kabul edilen not dönüşüm tablosuna göre değerlendirilir. CC ve üzerinde not alanlar başarılı kabul edilerek notları transkriptlerine işlenir. CC’nin altındaki notlar ise transkriptlere işlenmez.

@@ -1,0 +1,2 @@
+Öğrencilik haklarından yararlanma
+MADDE 5- (1) Öğrencinin öğrencilik haklarından yararlanabilmesi için ilgili mevzuat hükümleri kapsamında yükümlü olunması halinde katkı payı ve öğrenim ücretlerini ödemesi gerekir. Süresi içinde katkı payı veya öğrenim ücretini ödemeyenler ve varsa mazeretleri öğrencinin kayıtlı olduğu birimin yönetim kurulu tarafından kabul edilmeyenler, o dönem için kayıt yaptıramaz ve öğrencilik haklarından yararlanamaz.
