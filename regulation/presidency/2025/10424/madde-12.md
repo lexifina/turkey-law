@@ -1,0 +1,7 @@
+Telif hakkı ile ilgili hükümler
+MADDE 12- (1) Kuruma dışarıdan başvuru yolu ile gelen eserler için yazar veya çevirmen ile Kurum arasında, eserlerin telif haklarına ve yayın işlerinin bu Yönetmelik hükümleri gereğince yapılmasının kabul edildiğine ilişkin sözleşme düzenlenir ve imza edilir.
+(2) İlgili sözleşmede, gerekli tashihlerin makul süre içinde bizzat ve muntazaman yapılacağı, yayın için teslim edilen eser üzerinde herhangi bir değişiklik yapılamayacağı hususları ile bu hususların ihlali hâlinde zararın ilgiliden tahsil edileceği hükmü yer alır.
+(3) Sözleşmeye konu baskı miktarının bitmesi veya değiştirilerek yeni baskı yapılması ya da sözleşmede yer alan sürenin dolması hâllerinde ilgili Kurum veya yazarın müracaatı üzerine Kurum yeni yayın işlemlerinin bir yıl içinde yapılacağı ya da yapılamayacağı hususunu ilgiliye yazılı olarak üç ay içinde bildirir. Bu durumda eser yayımlanmaz veya yayımlanmasına gerek görülmezse eserin telif hakları yazar, çevirmen veya hazırlayanına geçer.
+(4) Yazar, yayımlanmak üzere Kuruma telif haklarını devrettiği eserini olduğu gibi ya da değiştirerek başka bir yerde yayımlayamaz.
+(5) Kurum tarafından ısmarlanan ya da telif hakları devralınan bir eser iki yıl içinde yayımlanmazsa yazar veya çevirmen bunu kendi hesabına yayımlamakta serbesttir. Bu durumda ödenen avans ilgiliden istenemez.
+(6) Kurum içinde hazırlattırılan eserler için bu hükümler uygulanmaz.

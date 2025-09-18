@@ -1,0 +1,4 @@
+İnceleme ücreti
+MADDE 10- (1) Yayın komisyonunun bir eser veya işlenmeyi incelemek üzere gönderdiği kendi içerisinden veya dışarıdan kişi veya kişilerin rapor ve değerlendirmesi için yayın komisyonu önerisi ile Yönetim Kurulunda onaylandığı takdirde inceleyici/inceleyicilere 8 inci maddenin birinci fıkrası gereğince hesaplanan itibari sayfa sayısı karşılığı telif ücretinin % 10’unu ve ansiklopedi komisyonu üyelerine, yayıma hazırlayana veya redaktörlere % 5’ini geçmemek üzere inceleme ücreti verilebilir.
+(2) Kadrolu uzmanlara görevi gereği yaptığı işlerde inceleme ücreti verilmez. İnceleme ücreti yazara verilecek telif ücretinden kesilmez.
+(3) Tediyeye ilişkin bu hüküm, Kuruma başvuru yolu ile gelen veya Kurum tarafından hazırlattırılan eserlerden yayımlanmamasına karar verilenler için de uygulanır.
