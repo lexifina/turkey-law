@@ -1,0 +1,2 @@
+Mali haklar
+MADDE 23 – (1) Telif ve işlenme ücretleri ile basılı ve basılacak eser inceleme ücretleri, yarışma, ısmarlama eser ücretleri, Yayın Kurulu üyelerine ödenecek ücret ve düzeltme ile koordinatörlük ücretleri gibi hususlara ilişkin usul ve esaslar hakkında 23/8/2006 tarihli ve 2006/10932 sayılı Bakanlar Kurulu Kararıyla yürürlüğe konulan Kamu Kurum ve Kuruluşlarınca Ödenecek Telif ve İşlenme Ücretleri Hakkında Yönetmelik hükümleri uygulanır.
