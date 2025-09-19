@@ -1,0 +1,7 @@
+MADDE 6 – (1) Devlet ormanlarında çıkmış olan yangınlarda kullanılmak üzere, orman yangınlarıyla mücadele gönüllülerine, iki yılda bir Daire Başkanlığı tarafından belirlenecek araç-gereç, malzeme ve kişisel koruyucu donanım verilir ve bunlar ORBİS sistemine kaydedilir. Sahipli ormanlarda çıkmış olan yangınlarda bu ihtiyaçlar orman sahipleri tarafından karşılanır.
+(2) Devlet ormanlarında çıkmış yangının söndürülmesine katılan (Değişik ibare:RG-19/9/2025-33022) orman yangınlarıyla mücadele gönüllülerinin iaşe giderleri yangın söndürme faaliyetleri süresince ilgili orman işletme müdürlüğü tarafından, diğer ormanlarda ise sahipleri tarafından karşılanır.
+(3) (Değişik ibare:RG-19/9/2025-33022) Orman yangınlarıyla mücadele gönüllülerinin ekip içindeki görevleri, gönüllü amiri tarafından görev dağılımı yapılarak belirlenir.
+(4) (Değişik ibare:RG-19/9/2025-33022) Orman yangınlarıyla mücadele gönüllüleri katıldıkları bir orman yangınına ekip halinde ve emir komuta zinciri içinde müdahale ederler.
+(5) (Değişik ibare:RG-19/9/2025-33022) Orman yangınlarıyla mücadele gönüllülerinin çalışmaları bağlı bulundukları orman işletme müdürlüğünce denetlenir ve takip edilir.
+(6) (Değişik ibare:RG-19/9/2025-33022) Orman yangınlarıyla mücadele gönüllüleri, orman yangınlarıyla mücadele eğitimine ilaveten görevlerine uygun olan ve Daire Başkanlığınca uygun görülen diğer eğitim ve tatbikatlara katılırlar.
+(Değişik ibare:RG-19/9/2025-33022) Orman yangınlarıyla mücadele gönüllülerinin görevleri
