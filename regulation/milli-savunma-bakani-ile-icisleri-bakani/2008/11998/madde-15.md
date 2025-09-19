@@ -1,0 +1,3 @@
+Kişisel, çamaşır ve besleme hizmetleri temizlik maddelerinin dağıtımı
+MADDE 15 – (Değişik:RG-22/11/2019-30956)
+(1) Sözleşmeli erbaş ve erler ile erbaş, er, askerî öğrenciler ve kazana dahil olanlar için yemek hazırlama, pişirme ve sonrasında kullanılan araç ve gereçlerin temizliği; sözleşmeli erbaş ve erler ile erbaş, er ve askerî öğrencilerin kişisel temizlikleri ile kullandıkları giyecek ve eşyaların temizliği için gereken temizlik maddelerine ait hususlar için 5668 sayılı Kanun gereği hazırlanan, 1/3/2008 tarihli ve 26803 sayılı Resmî Gazete’de yayımlanan Türk Silahlı Kuvvetleri Besleme Kanunu Temizlik Maddeleri Kullanım Esasları ve Usullerine Dair Yönetmelik hükümleri esas alınır.

@@ -1,0 +1,20 @@
+Tanımlar
+MADDE 4 – (1) Bu Yönetmelikte geçen;
+a) Ara öğün: Günlük üç öğün yemeğin dışında; meyve, çerez, tatlı, ikramlık gibi gerektiğinde soğuk veya sıcak olarak verilen yiyecek ve içecekleri,
+b) (Değişik:RG-8/6/2011-27958) Askerî personel: Subay, astsubay, uzman jandarma, uzman erbaş, sözleşmeli erbaş ve er, askerî öğrenci, sivil memur, işçi, erbaş ve erleri,
+c) Birleştirilmiş günlük besleme bildirim çizelgesi: Birlik ve kurumlar tarafından bildirilen günlük besleme bildirim çizelgelerinin personel birimince birleştirilerek, mal saymanlığına/beslenme hizmetini yürüten birime gönderilen günlük yemek çizelgesinin hazırlanmasına esas belgeyi,
+ç) Birleştirilmiş günlük hayvan besleme bildirim çizelgesi: Birlik ve kurumlar tarafından bildirilen günlük hayvan besleme bildirim çizelgelerinin personel birimlerince birleştirilerek, mal saymanlığına/beslenme hizmetini yürüten birime gönderilen günlük hayvan besleme çizelgesinin hazırlanmasına esas belgeyi,
+d) Günlük besleme bildirim çizelgesi: İnsan beslenebilmesi için düzenlenerek, personel birimine gönderilen belgeyi,
+e) Günlük hayvan besleme bildirim çizelgesi: Hayvan beslenebilmesi için düzenlenerek, personel birimine gönderilen belgeyi,
+f) Günlük hayvan besleme çizelgesi: Beslenecek hayvanlara verilecek yemlerin içeriği, parasal değeri ve miktarı gibi bilgileri içeren denetime bağlı tüketim belgesini,
+g) Günlük yem bedeli: 5668 sayılı Kanun kapsamında hazırlanan Türk Silahlı Kuvvetlerinde Bulunan Hayvanların Beslenmesine Dair Yönetmelikte her tür hayvan için ölçüt olarak kullanılan harcamaya esas paranın üst miktarını,
+ğ) Güçlendirilmiş yemek bedeli: Normal çalışma koşullarından daha yoğun beden hareketini içeren görev ve eğitimlerin yapılması için gerekli kaloriyi sağlamak amacıyla günlük yemek bedelinin %25 artırılmasıyla elde edilen paranın miktarını,
+h) Günlük yemek bedeli: En az üç öğün ve gerektiğinde de ara öğünleri içeren, yemek çizelgesinin hazırlanmasında ölçüt olarak kullanılan harcamaya esas paranın üst miktarını,
+ı) Günlük yemek çizelgesi: Beslenecek personele verilecek yemeklerin öğün bazında dağılımını, yemeklerin içeriklerini, kalorisini, parasal değerini ve kullanılacak yiyecek maddelerinin miktarı gibi bilgileri içeren denetime bağlı tüketim belgesini,
+i) Günlük yemek çizelge özeti: Günlük yemek çizelgesi ile personele verilecek yemeklerin öğün bazında dağılımını, yemeklerin içeriklerini, kalorisini ve kullanılacak yiyecek maddelerinin miktarı gibi bilgileri içeren belgeyi,
+j) Kazandan besleme: Yükümlülük ve zorunluluktan dolayı toplu olarak sıcak veya kumanya olarak bütün giderleri Devlet tarafından karşılanan beslemeyi,
+k) Özel günler için günlük yemek bedeli: Günlük yemek bedelinin yüzde elli fazlasına kadar belirlenebilen yemek bedelini,
+l) Tayın bedeli: Kazandan beslemeye alınamayanlara, 22/6/1978 tarihli ve 2155 sayılı Bazı Kamu Personeline Tayın Bedeli Verilmesi Hakkında Kanun kapsamında ödenen aylık yemek parasını,
+m) (Değişik:RG-22/11/2019-30956) Türk Silahlı Kuvvetleri: Kara, Deniz ve Hava Kuvvetleri Komutanlıklarını,
+n) (Ek:RG-16/4/2015-29328) Bedelen besleme: Tayın bedeli verilerek ve beslemenin oluşturulan heyet marifetiyle yapıldığı beslemeyi,
+ifade eder.
