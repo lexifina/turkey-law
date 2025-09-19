@@ -1,0 +1,23 @@
+Tanımlar
+MADDE 4- (1) Bu Yönetmelikte geçen;
+a) Arama ve kurtarma personeli: Arama ve kurtarma teknikeri ile arama ve kurtarma teknisyeni, afet ve acil durum arama ve kurtarma birlik müdürlüğü ve il ekibi kadro ve pozisyonunda bulunan diğer personeli,
+b) Başkanlık: Afet ve Acil Durum Yönetimi Başkanlığını,
+c) Birim amiri: İl afet ve acil durum müdürlüklerinde arama ve kurtarmaya ilişkin görevleri yerine getirmek için oluşan idari yapının yöneticisini,
+ç) Birim amirliği: İl afet ve acil durum müdürlüklerinde arama ve kurtarmaya ilişkin görevleri yerine getirmek için oluşturulan idari yapıyı,
+d) Birlik müdürü: Afet ve acil durum arama ve kurtarma birlik müdürünü,
+e) Birlik personeli: Afet ve acil durum arama ve kurtarma birlik müdürlüklerinde arama ve kurtarma faaliyetlerinde görev alan personeli,
+f) Branş: Arama ve kurtarma faaliyetlerinin yerine getirilebilmesi amacıyla oluşturulan özel yetenek, teknik bilgi ve beceri gerektiren kentsel arama ve kurtarma, dağda arama ve kurtarma, arazide kayıp arama, suda arama ve kurtarma, köpekli arama ve kurtarma ile KBRN gibi faaliyet alanlarını,
+g) Branş bröve sembolleri: Arama ve kurtarma teknikeri ile arama ve kurtarma teknisyeninin uzmanlaştığı ihtisas branşını gösterir işaretleri,
+ğ) Ekip amiri: İl afet ve acil durum müdürlüklerinde arama ve kurtarmaya ilişkin görevleri ve kolaylaştırıcı diğer görevleri yerine getirmek üzere birim amirine bağlı oluşturulan ekibin yöneticisini,
+h) Ekip amiri yardımcısı: Birlik müdürlükleri veya il ekiplerinde arama ve kurtarmaya ilişkin görevleri ve kolaylaştırıcı diğer görevleri yerine getirmek üzere birim amirine bağlı oluşturulan ekip yöneticisinin yardımcı personelini,
+ı) İl ekibi personeli: Afet ve acil durum arama ve kurtarma birlik müdürlüğü bulunmayan il müdürlüklerinde arama ve kurtarma faaliyetlerinde görev alan personeli,
+i) İl müdürlüğü: İl afet ve acil durum müdürlüğünü,
+j) İl müdürü: İl afet ve acil durum müdürünü,
+k) İl müdür yardımcısı: İl afet ve acil durum müdür yardımcısını,
+l) KBRN: Kimyasal, biyolojik, radyolojik ve nükleeri,
+m) Kıyafet: Bu Yönetmelik ekinde belirtilen, görev niteliğine uygun imal edilmiş resmî üniforma ve aksesuarların tamamını,
+n) Kumaş başörtüsü: Başını örten kadın personel için başı örtecek ancak yüzü örtmeyecek şekilde desensiz kumaşı,
+o) Rütbe işaretleri: Birlik ve il ekibi personelinin kıyafetlerinde kullanılan tanıtıcı işaretleri,
+ö) Şube müdürü: İl ekibinden sorumlu şube müdürünü,
+p) Yönetici personel: İl afet ve acil durum müdürlüklerinde arama ve kurtarma ekiplerinin sevk ve idaresinden sorumlu il müdürü, il müdür yardımcısı, birlik müdürü, şube müdürü, birim amiri, ekip amiri ve ekip amir yardımcısını,
+ifade eder.

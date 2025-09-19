@@ -1,0 +1,2 @@
+Dayanak
+MADDE 3- (1) Bu Yönetmelik, 9/6/1958 tarihli ve 7126 sayılı Sivil Savunma Kanununun 30 uncu maddesine ve 5/6/1964 tarihli ve 6/3150 sayılı Bakanlar Kurulu Kararı ile yürürlüğe konulan Sivil Savunma ile İlgili Şahsi Mükellefiyet, Tahliye ve Seyrekleştirme, Planlama ve Diğer Hizmetler Tüzüğünün 123 üncü maddesi ile 14/9/1991 tarihli ve 91/2268 sayılı Bakanlar Kurulu Kararı ile yürürlüğe konulan Memurlara Yapılacak Giyecek Yardımı Yönetmeliğine dayanılarak hazırlanmıştır.
