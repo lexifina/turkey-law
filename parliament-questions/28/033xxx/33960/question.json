@@ -1,0 +1,21 @@
+{
+  "record_type": "parliament-written-question",
+  "term": 28,
+  "legislative_year": 3,
+  "esas_no": "7/33960",
+  "submitted": "2025-09-19",
+  "submitted_as": "Başkanlığa geliş tarihi",
+  "mp": "Elif ESEN",
+  "province": "İstanbul",
+  "summary": "İstanbul'da bulunan bir KYK yurdunun tadilat sürecinde öğrencilerin barınma hakkının ve özel alan mahremiyetinin ihlal edildiği iddiasına ilişkin",
+  "status": "Cevaplanmadığı Gelen Kağıtlarda İlan Edildi",
+  "status_as_of": "2026-11-16",
+  "official_record": "https://www.tbmm.gov.tr/Denetim/Yazili-Soru-Onergesi-Detay/3e73cd43-a3a8-49e9-aba6-019970cbc1bd",
+  "source": "https://tbmm.gov.tr/Denetim/YaziliSoruOnergesiTable",
+  "source_form": "https://tbmm.gov.tr/Denetim/Yazili-Soru-Onergeleri",
+  "source_sha256": "cf67921e6636f738a54f01fa5d3715d11da53324368bf7489da0523132186469",
+  "in_force": "2025-09-19",
+  "in_force_basis": "Date the question reached the Speaker (Başkanlığa geliş tarihi) in the official TBMM written-question record; parliamentary oversight record, not law",
+  "history_type": "metadata",
+  "text_status": "metadata-only: question text, addressee and answers are in the linked official record (PDFs on cdn.tbmm.gov.tr); not transcribed here"
+}
