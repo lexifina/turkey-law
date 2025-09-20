@@ -1,0 +1,4 @@
+Genel kurul toplantı ve müzakere defteri
+MADDE 8- (1) Genel kurul toplantı tutanağının sureti ve ekleri Kullanıcı tarafından genel kurul toplantı ve müzakere defterine yüklenir. Kanunun 1527 nci maddesi uyarınca Elektronik Toplantı Sistemini kullanan şirketlerde ise tutanağın sureti ve ekleri Bakanlıkça sağlanan entegrasyon aracılığıyla Sisteme aktarılır.
+(2) Kollektif ve komandit şirketlerde yönetimle görevlendirilen ortağın veya ortakların yahut bütün ortakların şirket yönetimi ile ilgili olarak aldığı kararlar hakkında bu Tebliğin genel kurul toplantı ve müzakere defterine ilişkin hükümleri uygulanır.
+(3) Limited şirketlerde, 7 nci maddenin ikinci fıkrası uyarınca ayrı bir müdürler kurulu karar defteri tutulmaması halinde, müdür veya müdürler kurulunun şirket yönetimi ile ilgili olarak aldığı kararlar genel kurul toplantı ve müzakere defterine yüklenir.

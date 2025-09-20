@@ -1,0 +1,7 @@
+ÜÇÜNCÜ BÖLÜM
+Başvuru, Defterlerin Oluşturulması ve Sistemin Kullanılması
+Başvuru ve defterlerin oluşturulması
+MADDE 9- (1) Kuruluşundan itibaren defterlerini elektronik ortamda tutacak şirketlerde defterler, şirketin ticaret siciline tescili ile birlikte eş zamanlı olarak Sistemde oluşturularak aktif hale getirilir.
+(2) Fiziki olarak defter tutmakta iken elektronik ortamda defter tutma yükümlülüğü kapsamına giren şirketler, yükümlülüğün doğduğu tarihten itibaren en geç (Değişik ibare:RG-20/9/2025-33023) altı ay içinde Ek-1’deki örneğe uygun düzenlenen bir kararla birlikte notere başvurarak fiziki defterlerin kapanış onayını yaptırır.
+(3) Defterlerini ihtiyari olarak elektronik ortamda tutmak isteyen şirketler Ek-1’deki örneğe uygun düzenlenen bir kararla, kararın alındığı hesap dönemi içinde notere başvurarak fiziki defterlerin kapanış onayını yaptırır. Kapanış onayının ilgili hesap dönemi içinde yaptırılmaması halinde, sonraki hesap dönemlerinde elektronik deftere geçiş amacıyla kapanış onayının yaptırılabilmesi ancak aynı hesap döneminde alınacak yeni bir kararla mümkün olur.
+(4) Kapanış onayında noter, kapanışın elektronik deftere geçiş amacıyla yapıldığı bilgisiyle işlemin yapıldığı tarih ve sayıyı fiziki deftere şerh olarak işler. Kullanıcı bilgileri ile defter kapanış bilgilerinin noter tarafından Sisteme tanımlanmasıyla birlikte defterler Sistemde oluşturularak aktif hale getirilir.
