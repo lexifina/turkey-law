@@ -1,0 +1,20 @@
+Tanımlar
+MADDE 4- (1) Bu Yönetmelikte geçen;
+a) Akademi: Türkiye Adalet Akademisini,
+b) Akademi personeli: Akademi kadrolarında 657 sayılı Kanuna tabi olarak görev yapan personeli,
+c) Alt görev: 1 sayılı Cumhurbaşkanlığı Teşkilatı Hakkında Cumhurbaşkanlığı Kararnamesinin 509 uncu maddesinde belirtilen hiyerarşik kademeler çerçevesinde daha alt hiyerarşi içindeki görevleri,
+ç) Aynı düzey görev: Hiyerarşi, görev, yetki ve sorumluluk açısından aynı grupta ya da grup içinde alt gruplar olması hâlinde aynı alt grupta gösterilen görevleri,
+d) Başkan: Türkiye Adalet Akademisi Başkanını,
+e) Başkanlık: Türkiye Adalet Akademisi Başkanlığını,
+f) Daire başkanı: Türkiye Adalet Akademisinde görev yapan daire başkanlarını,
+g) Görev grupları: Aynı düzey görevler ile benzer görevlerin yer aldığı grupları,
+ğ) Görevde yükselme: Bu Yönetmelikte belirtilen görevlere aynı veya başka görev gruplarından görevde yükselme suretiyle yapılacak atamaları,
+h) Görevde yükselme sınavı: Görevde yükselme suretiyle atanacak olanların tabi tutulacağı yazılı ve sözlü sınavı,
+ı) Hizmet süresi: 657 sayılı Kanunun 68 inci maddesinin (B) bendi çerçevesinde hesaplanan süreleri,
+i) İş günü: Ulusal bayram ile genel ve hafta sonu tatil günleri hariç diğer günleri,
+j) Sınav kurulu: Görevde yükselme ve ünvan değişikliği sınavlarına ilişkin çalışmaları yürütmek üzere oluşturulan kurulu,
+k) Ünvan değişikliği: En az orta öğretim düzeyindeki mesleki veya teknik eğitim sonucu ihraz edilen ünvanlara ilişkin görevlere yapılan atamaları,
+l) Ünvan değişikliği sınavı: Ünvan değişikliği suretiyle atanacakların tabi tutulacağı yazılı ve sözlü sınavı,
+m) Üst görev: 1 sayılı Cumhurbaşkanlığı Kararnamesinin 509 uncu maddesinde belirtilen hiyerarşik kademeler çerçevesinde daha üst hiyerarşi içindeki görevleri,
+n) YDS/e-YDS: Yabancı Dil Bilgisi Seviye Tespit Sınavını/Elektronik Yabancı Dil Sınavını,
+ifade eder.
