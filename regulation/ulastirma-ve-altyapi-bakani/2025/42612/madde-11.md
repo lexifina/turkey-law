@@ -1,0 +1,5 @@
+Liman devleti denetim görevlilerinin yetkisinin askıya alınması ve yetkinin devamı
+MADDE 11- (1) Liman devleti denetim görevlisinin yetkisinin devamı için, merkez teşkilatında veya liman başkanlıklarında çalışan denetim görevlilerinin bir takvim yılında en az 10 liman devleti denetimi gerçekleştirmesi veya denetime eşlik etmesi ve Bakanlığın düzenleyici işlemleri ile belirlenen yenileme eğitimlerini tamamlamış olması gereklidir.
+(2) Liman başkanlığı, söz konusu denetimlerin yapılması amacıyla, denetim görevlilerini diğer liman başkanlıklarında geçici olarak görevlendirir.
+(3) Birinci fıkra kapsamında denetim sayılarının ve eğitimlerin tamamlanamaması durumunda liman devleti denetim görevlisinin yetkisi askıya alınır. Bakanlık, yetkisi askıya alınan liman devleti denetim görevlisini, diğer liman başkanlıklarında görevlendirmeler de dahil olmak üzere personelin verimli kullanılması için her türlü tedbiri alabilir.
+(4) Yetkisi askıya alınan liman devleti denetim görevlisinin, birinci fıkra kapsamında belirtilen eğitim şartını yerine getirmesi ve belirtilen sayıda denetime gözlemci olarak katılım sağlaması durumunda denetim yetkisi aktif hale getirilir.

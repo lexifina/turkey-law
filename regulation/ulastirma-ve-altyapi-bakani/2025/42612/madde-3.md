@@ -1,0 +1,2 @@
+Dayanak
+MADDE 3- (1) Bu Yönetmelik; 10/6/1946 tarihli ve 4922 sayılı Denizde Can ve Mal Koruma Hakkında Kanun, 1 sayılı Cumhurbaşkanlığı Teşkilatı Hakkında Cumhurbaşkanlığı Kararnamesinin 478 inci ve 490 ıncı maddelerine, 11/7/1997 tarihinde imzalanan Akdeniz Liman Devleti Denetimi Mutabakat Muhtırası ile 7/4/2000 tarihinde imzalanan Karadeniz Liman Devleti Denetimi Mutabakat Muhtırası hükümlerine dayanılarak hazırlanmıştır.

@@ -1,0 +1,3 @@
+Denetim raporu düzenlenmesi
+MADDE 18- (1) Denetimi müteakip liman devleti denetim görevlisinin hazırlayacağı, üye olunan mutabakat muhtıralarına uygun şekilde kaptan tarafından da imzalanmış denetim raporunun bir nüshası gemi kaptanına verilir. Gemi kaptanının düzenlenen rapora imza atmaktan imtina etmesi durumunda, raporun bir nüshası gemiye bırakılır veya geminin yetkili acentesine verilir. Düzenlenen rapora itiraz 20 nci maddede belirtilen usul ve esaslara göre yapılır.
+(2) Denetim raporu düzenlenirken, tespit edilen eksiklik maddelerinin yazımında taraf olunan mutabakat muhtıralarının ilgili dokümanlarında belirtilen eksikliklere ait cümle/kelime kalıpları kullanılır. İdarece düzenlenen eğitimlerde, bu hususa ayrıca yer verilir.
