@@ -1,0 +1,50 @@
+{
+  "annexes": {
+    "links": [
+      {
+        "caption": "Eki için tıklayınız",
+        "official_href": "9.5.42620-Ek.doc",
+        "status": "pending"
+      }
+    ],
+    "official_html": "https://www.mevzuat.gov.tr/anasayfa/MevzuatFihristDetayIframe?MevzuatTur=9&MevzuatNo=42620&MevzuatTertip=5",
+    "status": "pending"
+  },
+  "checked_on": "2026-11-15",
+  "commencement_quote": "Bu Tebliğ yayımı tarihinde yürürlüğe girer",
+  "date_gazette": "33024",
+  "date_quote": "Bu Tebliğ yayımı tarihinde yürürlüğe girer",
+  "first_law": null,
+  "gazette": "33024",
+  "history": "current-text",
+  "images": {
+    "deferred": 0,
+    "omitted": 0,
+    "referenced": 0,
+    "source": 0
+  },
+  "in_force": "2025-09-21",
+  "in_force_basis": "Own commencement clause: Bu Tebliğ yayımı tarihinde yürürlüğe girer",
+  "issuer": "Aile, Çalışma ve Sosyal Hizmetler Bakanlığı",
+  "issuer_catalog_evidence": [
+    {
+      "evidence": "issuer-517-0.json",
+      "id": "517",
+      "label": "Aile, Çalışma ve Sosyal Hizmetler Bakanlığı",
+      "listing_url": "https://www.mevzuat.gov.tr/Anasayfa/MevzuatDatatable?MevzuatTur=Teblig&KurumId=517&start=0&length=100"
+    }
+  ],
+  "issuer_slug": "aile-calisma-ve-sosyal-hizmetler-bakanligi",
+  "kind": "communique",
+  "label": "oldest version available",
+  "notes": [
+    "Linked official annexes are not included in this version; original official links and captions are recorded in annexes."
+  ],
+  "published": "2025-09-21",
+  "source": "https://www.mevzuat.gov.tr/anasayfa/MevzuatFihristDetayIframe?MevzuatTur=9&MevzuatNo=42620&MevzuatTertip=5",
+  "source_bytes": 8582,
+  "source_id": "9.5.42620",
+  "source_sha256": "b1e2e6e7e68d01dd14faab17b5ae3710bc7c361f84fc883b6fe84b9d2b8201b1",
+  "title": "ULUSAL MESLEK STANDARTLARINA DAİR TEBLİĞ (TEBLİĞ NO: 2025/8)",
+  "word_count": 102
+}
