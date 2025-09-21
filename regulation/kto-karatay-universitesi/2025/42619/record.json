@@ -1,0 +1,39 @@
+{
+  "checked_on": "2026-11-14",
+  "commencement_clauses": [
+    "MADDE 16- (1) Bu Yönetmelik yayımı tarihinde yürürlüğe girer."
+  ],
+  "date_evidence": [
+    [
+      "2025-09-21",
+      "21.09.2025",
+      "original gazette publication date in official listing"
+    ]
+  ],
+  "date_quote": "MADDE 16- (1) Bu Yönetmelik yayımı tarihinde yürürlüğe girer.",
+  "first_law": null,
+  "gazette": "33024",
+  "history": "current-text",
+  "images": {
+    "deferred": 0,
+    "omitted": 0,
+    "referenced": 0,
+    "source": 0
+  },
+  "in_force": "2025-09-21",
+  "in_force_basis": "source commencement clause: enters into force on gazette publication",
+  "issuer": "KTO-Karatay Üniversitesi",
+  "issuer_slug": "kto-karatay-universitesi",
+  "kind": "regulation",
+  "label": "oldest version available",
+  "path": "regulation/kto-karatay-universitesi/2025/42619",
+  "published": "2025-09-21",
+  "source": "https://www.mevzuat.gov.tr/anasayfa/MevzuatFihristDetayIframe?MevzuatTur=8&MevzuatNo=42619&MevzuatTertip=5",
+  "source_bytes": 48257,
+  "source_id": "8.5.42619",
+  "source_sha256": "7d89e977ee2971c8c7d86836030f64b32ddda39df151093347f4c380c79f1ded",
+  "text_status": "as-enacted",
+  "title": "KTO-KARATAY ÜNİVERSİTESİ KALKINMA ODAKLI STRATEJİK ARAŞTIRMALAR UYGULAMA VE ARAŞTIRMA MERKEZİ YÖNETMELİĞİ",
+  "university_id": 332,
+  "word_count": 896
+}
