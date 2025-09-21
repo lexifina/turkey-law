@@ -1,0 +1,46 @@
+{
+  "source_id": "9.5.20584",
+  "kind": "communique",
+  "register_kind": "Tebliğler",
+  "title": "ULUSAL MESLEK STANDARTLARINA DAİR TEBLİĞ (TEBLİĞ NO: 2015/2)",
+  "number": "20584",
+  "issuer": "Meslekî Yeterlilik Kurumu Başkanı",
+  "path": "teblig/2015/20584",
+  "source": "https://www.mevzuat.gov.tr/anasayfa/MevzuatFihristDetayIframe?MevzuatTur=9&MevzuatNo=20584&MevzuatTertip=5",
+  "source_sha256": "7b4689ebb660f2c40535da712a2332b6626a7370f8c9204d304ed90bba75deb3",
+  "source_bytes": 16829,
+  "published": "2015-03-06",
+  "gazette": "29287 mükerrer",
+  "in_force": "2025-09-21",
+  "in_force_basis": "latest Resmî Gazete date printed in the source amendment notes/table (\"21/9/2025\") for the current consolidated text",
+  "date_evidence": [
+    [
+      "2025-09-21",
+      "21/9/2025",
+      "Resmî Gazete date in the source amendment table"
+    ]
+  ],
+  "commencement_clauses": [
+    "Bu Tebliğ yayımı tarihinde yürürlüğe girer"
+  ],
+  "history": "current-text",
+  "label": "oldest version available",
+  "checked_on": "2026-11-15",
+  "word_count": 169,
+  "text_status": "current-consolidated",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  },
+  "source_links": [
+    "9.5.20584-Ek-1.pdf",
+    "9.5.20584-Ek-2.docx",
+    "9.5.20584-Ek-3.docx",
+    "9.5.20584-Ek-4.pdf",
+    "9.5.20584-Ek-5.pdf",
+    "9.5.20584-Ek-6.pdf",
+    "9.5.20584-Ek-7.pdf"
+  ],
+  "completeness": "html-text-complete; linked annexes not fetched"
+}
