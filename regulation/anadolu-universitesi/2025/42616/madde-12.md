@@ -1,0 +1,2 @@
+Danışma Kurulu
+MADDE 12- (1) Danışma Kurulu üyeleri; Merkezin amaçları kapsamında araştırma ve eğitim faaliyetlerinde bulunan bilim insanları ve uzmanlar arasından, Müdürün önerisi ve Rektörün onayı ile görevlendirilir. Danışma Kurulu; Müdür, Yönetim Kurulu üyeleri ve çalışma grubu sorumlularının yer aldığı en az 7 en çok 10 üyeden oluşur. Danışma Kurulu, yılda en az bir kez Müdürün çağrısı üzerine toplanır.
