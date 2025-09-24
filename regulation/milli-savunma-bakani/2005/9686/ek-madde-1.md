@@ -1,0 +1,3 @@
+Ek Madde 1 – (Ek:RG-12/11/2014-29173) (Değişik:RG-24/9/2025-33027)
+Bu Yönetmeliğe tabi unvanlara; diğer kamu kurum ve kuruluşlarındaki aynı unvanlardan veya bu unvanlarla aynı düzeyde ya da daha üst düzeydeki diğer unvanlardan, mevzuatta aranan öğrenim şartı ve hizmet süresi gibi şartları taşımak kaydıyla genel hükümlere göre naklen atama yapılabilir.
+Diğer personel kanunlarına tabi olanların bu Yönetmelik kapsamındaki görevlere atanmalarında; ihraz ettikleri unvanlar, aynı unvanın bulunmaması hâlinde öğrenim durumu, ihraz ettikleri unvanla birlikte atanacakları unvan ve ilgili mevzuat hükümleri dikkate alınır.

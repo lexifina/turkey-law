@@ -1,0 +1,2 @@
+Geçici Madde 1 — (Değişik:RG-21/3/2012-28240)
+18/4/1999 tarihinde görevde bulunan ve aynı tarih itibariyle bu Yönetmelikte belirtilen diğer koşulları taşıyan personelden iki ve üç yıllık yüksekokul mezunu olanlar,(Değişik ibare:RG-21/3/2014-28948) unvan değişikliği sınavına tabi kadrolara yapılacak atamalar hariç olmak üzere 7 nci maddenin uygulanması bakımından dört yıllık yükseköğrenim görmüş kabul edilirler.
