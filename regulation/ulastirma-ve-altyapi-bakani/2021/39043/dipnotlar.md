@@ -1,0 +1,1 @@
+[1] 24/9/2025 tarihli ve 33027 sayılı Resmî Gazete’de yayımlanan değişiklik ile Yönetmeliğe 22 nci maddesinin birinci fıkrasının (i) bendinden sonra gelmek üzere (j), (k), (l), (m), (n), (o) bentleri eklenmiş ve diğer bentler buna göre teselsül ettirilmiştir.

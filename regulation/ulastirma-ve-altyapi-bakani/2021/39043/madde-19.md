@@ -1,0 +1,2 @@
+Liman sahasında ve bitişik limanlar arasında tehlikeli yüklerin taşınması
+MADDE 19 – (1) Liman idari sahasında ve bitişik limanlar arasında tehlikeli yükler uygun ambalajlarda, yük taşıma birimlerine yüklenmiş olarak ve taşıyan ile taşıtan tarafından gerekli emniyet tedbirleri alınmak kaydıyla taşınır. Gemilerde bulunacak yolcu sayıları belirlenirken IMDG Kod Kural 7.1.3.1 ve Bölüm 7.5 hükümleri göz önünde bulundurulur. Bu husustaki usul ve esaslar İdarece belirlenir.

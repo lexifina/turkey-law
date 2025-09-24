@@ -1,0 +1,6 @@
+Dolu konteynerlerin tartılması
+MADDE 18 – (1) Denizyoluyla taşınmak üzere gemilere yüklenecek dolu konteynerlerin brüt ağırlıklarının yükleten tarafından tespit edilerek doğrulanması zorunludur.
+(2) Dolu konteynerlerin brüt ağırlıklarını belirleyecek gerçek ve tüzel kişiler İdare tarafından Dolu Konteyner Brüt Ağırlık Tespiti Yetki Belgesi düzenlenerek yetkilendirilir. Yetki belgesi ücreti 56.828 TL’dir.
+(3) DBA Bilgi Sistemini kullanmaları için taşıyan veya temsilcisine verilen Dolu Konteyner Brüt Ağırlık Tespiti Kontrol Yetki Belgesinin ücreti ikinci fıkrada belirtilen, cari yıla ait yetki belgesi ücretinin yarısıdır.
+(4) İdare, ikinci fıkra kapsamında yetkilendirdiği kişilerin doğrulanmış brüt ağırlık tespit hizmeti karşılığında alacağı tartım hizmet bedelinin tavan ücretini KDV hariç olmak üzere belirler ve ilan eder. Yetki sahipleri, doğrulanmış brüt ağırlığı tespit edilen konteyner başına tavan ücretin %7’sini kontrol ücreti olarak Bakanlık Döner Sermaye İşletme Dairesi Başkanlığının hesabına yatırır. Bakanlıkça Yeşil Liman Sertifikası düzenlenerek yetkilendirilen kıyı tesislerine ilişkin hükümler saklıdır.
+(5) Kıyı tesislerinden gemilere yüklenecek olan dolu konteynerlerin brüt ağırlıklarının tespit edilerek doğrulanması, bildirimi, tarafların sorumlulukları ile diğer usul ve esaslar İdarece belirlenir.

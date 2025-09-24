@@ -1,0 +1,50 @@
+{
+  "source_id": "7.5.39043",
+  "kind": "regulation",
+  "register_kind": "Kurum ve Kuruluş Yönetmelikleri",
+  "title": "TEHLİKELİ YÜKLERİN DENİZYOLUYLA TAŞINMASI VE YÜKLEME EMNİYETİ HAKKINDA YÖNETMELİK",
+  "number": "39043",
+  "issuer": "Ulaştırma ve Altyapı Bakanı",
+  "issuer_slug": "ulastirma-ve-altyapi-bakani",
+  "path": "regulation/ulastirma-ve-altyapi-bakani/2021/39043",
+  "source": "https://www.mevzuat.gov.tr/anasayfa/MevzuatFihristDetayIframe?MevzuatTur=7&MevzuatNo=39043&MevzuatTertip=5",
+  "source_sha256": "cf300b6b19ba60aaa7521d3f063a465ad02384b4ffc3bced8d8e69220b675de1",
+  "source_bytes": 103854,
+  "published": "2021-11-14",
+  "gazette": "31659",
+  "in_force": "2025-09-24",
+  "in_force_basis": "latest Resmî Gazete date printed in the source amendment notes/table (\"RG-24/9/2025\") for the current consolidated text",
+  "date_evidence": [
+    [
+      "2025-09-24",
+      "RG-24/9/2025",
+      "Resmî Gazete date printed in the source amendment note"
+    ],
+    [
+      "2025-09-24",
+      "24/9/2025",
+      "Resmî Gazete date in the source amendment table"
+    ],
+    [
+      "2022-11-30",
+      "RG-30/11/2022",
+      "Resmî Gazete date printed in the source amendment note"
+    ],
+    [
+      "2022-11-30",
+      "30/11/2022",
+      "Resmî Gazete date in the source amendment table"
+    ]
+  ],
+  "history": "current-text",
+  "label": "oldest version available",
+  "checked_on": "2026-11-15",
+  "word_count": 6514,
+  "text_status": "current-consolidated",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  },
+  "completeness": "html-text-complete"
+}

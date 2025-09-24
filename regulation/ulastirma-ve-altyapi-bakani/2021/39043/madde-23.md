@@ -1,0 +1,9 @@
+ALTINCI BÖLÜM
+Çeşitli ve Son Hükümler
+Özel izinler
+MADDE 23 – (1) İdare, tehlikeli yüklerin denizyoluyla taşınmasında taraf olduğumuz uluslararası sözleşmelerde belirtilen muafiyet ve istisnaları uygulayabilir.
+(2) İdare, ilgili ve yetkili kamu mercilerinin, kıyı tesislerinin veya yük ilgililerinin talebi üzerine taraf olduğumuz uluslararası sözleşmeler ve bu Yönetmelik kapsamında taşıma sırasında herhangi bir emniyetsiz duruma mahal vermemek şartıyla taşıma şekli ve elleçleme hususları ile tehlikeli yükün yapısı, sınıfı ve miktarı göz önüne alınarak özel izin verebilir. Bunun için başvuruda bulunan kıyı tesisi herhangi bir tehlikeli yüke yönelik TYUB sahibi olmalıdır.
+(3) 17 nci maddenin beşinci fıkrasında belirtilen altyapıya sahip olmadığı için bu madde uyarınca özel izin talep eden kıyı tesislerinin başvuruları, ilgili mevzuat hükümleri ve talep edilen liman bölgesinde, IBC kod kapsamındaki yükleri elleçlemeye yönelik TYUB’ye sahip olan bir kıyı tesisinin mevcudiyeti dikkate alınarak İdare tarafından değerlendirilir. Bu fıkra kapsamında kıyı tesisleri, izin verilen geminin taşıdığı tehlikeli dökme sıvı yük miktarı 2000 tona kadar ise 20.062 TL, 2.001 ton ile 5.000 ton arasında ise 26.749 TL ve 5.000 tondan fazla ise 33.436 TL’yi Bakanlık Döner Sermaye İşletme Dairesi Başkanlığının hesabına yatırır.
+(4) Kıyı tesisi inşaatı ile tamamı veya bir kısmı devlet tarafından yapılan projelerde kullanılacak IMDG Kod Sınıf 1 patlayıcı madde ve Sınıf 7 radyoaktif kaynak elleçleme izinleri, liman başkanlığınca İdare bilgilendirilerek verilir.
+(5) Liman başkanlığınca IMDG Kod Sınıf 1 patlayıcı madde ve Sınıf 7 radyoaktif maddeyi transit olarak taşıyan gemilere verilecek yanaşma izni, kaptan ve kıyı tesisi işleticisi tarafından alınan tedbirlerin uygun bulunması kaydıyla liman başkanlığınca verilir.
+(6) Özel izin verilmesine ilişkin diğer usul ve esaslar İdarece belirlenir.
