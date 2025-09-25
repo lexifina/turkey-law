@@ -1,0 +1,4 @@
+Tezsiz yüksek lisans programında danışman atanması
+MADDE 14- (1) Tezsiz yüksek lisans programında anabilim/anasanat dalı başkanlığı her öğrenci için ders seçimi ve dönem projesinin yürütülmesinde danışmanlık yapacak bir öğretim üyesini veya Senato tarafından belirlenen nitelikleri taşıyan ve doktora derecesine sahip bir öğretim görevlisini en geç birinci yarıyılın sonuna kadar belirleyerek Enstitüye önerir ve Enstitü Yönetim Kurulu kararı ile atanır.
+(2) Gerektiğinde anabilim/anasanat dalı başkanlığının önerisi ve Enstitü Yönetim Kurulu kararı ile bu maddedeki esaslara uygun olarak danışman değiştirilebilir.
+(3) (Ek:RG-28/7/2025-32969) Anabilim/anasanat dalı başkanı, danışmanlıkların öğretim elemanları arasında dengeli dağılımını sağlamakla yükümlüdür. Bu amaçla öğrencilere yönelik rehberlik ve bilgilendirme çalışması yapar.

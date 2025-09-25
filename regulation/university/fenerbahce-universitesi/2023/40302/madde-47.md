@@ -1,0 +1,7 @@
+Derslerin ön koşul ve yan koşulları
+MADDE 47- (1) Ön koşul, bir dersin alınabilmesi için önceden tamamlanmış olması gereken yükümlülüklerdir. Ön koşul olarak daha önce alınıp yüksek lisans düzeyinde en az “CC” ve doktora/sanatta yeterlik düzeyinde ise en az “CB” veya “S” harf notu ile tamamlanmış ders/dersler veya başarılması/tamamlanması gereken kredi ve çalışma gibi yükümlülükler belirlenebilir.
+(2) Ön koşul olan bir dersin tekrarlanması durumunda o dersten alınan en son harf notu geçerlidir.
+(3) Bir dersin alınabilmesi için birlikte alınması koşul olan derse, o dersin yan koşul dersi denir. Birlikte alınması gereken derslerden birini yüksek lisans düzeyinde en az “CC” ve doktora/sanatta yeterlik düzeyinde ise en az “CB” veya “S” harf notu alarak tamamlayan öğrenci, o dersin yan koşulu olan dersi tek başına alabilir.
+(4) Derslerin ön ve yan koşulları, anabilim/anasanat dalı başkanlığının önerisi, Enstitü Kurulu kararı ve Senatonun onayı ile belirlenir.
+(5) Öğrenciler ön ve/veya yan koşulunu sağlamadıkları derslere kayıt olamazlar. Ulusal veya uluslararası değişim programlarına katılan öğrenciler, özel öğrenci olarak Üniversitede ders almak isteyen öğrenciler ile Üniversitede kayıtlı iken diğer yükseköğretim kurumlarından ders almak isteyen öğrenciler için de bu fıkra hükmü uygulanır.
+(6) Muaf olunan bir ders, başka bir dersin ön koşul/yan koşulunu sağlamak için kullanılabilir.

@@ -1,0 +1,2 @@
+Tezsiz yüksek lisans programında süre
+MADDE 13- (1) Tezsiz yüksek lisans programını tamamlama süresi, bilimsel hazırlık süresi hariç, kayıt olunan programa ilişkin derslerin verildiği yarıyıldan başlamak üzere, her yarıyıl için kayıt yaptırılıp yaptırılmadığına bakılmaksızın en az iki, en çok üç yarıyıldır. Bu sürenin sonunda derslerini ve/veya dönem projesini başarıyla tamamlayamayan veya 4,00 üzerinden en az 2,70 GNO’yu sağlayamayan öğrencinin Üniversite ile ilişiği kesilir.

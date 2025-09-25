@@ -1,0 +1,2 @@
+[1] 28/7/2025 tarihli ve 32969 sayılı Resmî Gazete’de yayımlanan değişiklik ile Yönetmeliğin adı “Fenerbahçe Üniversitesi Lisansüstü Eğitim-Öğretim Yönetmeliği” iken metne işlendiği şekilde değiştirilmiştir.
+[2] 28/7/2025 tarihli ve 32969 sayılı Resmî Gazete’de yayımlanan değişiklik ile Yönetmeliğin 10 uncu maddesine birinci fıkrasından sonra gelmek üzere ikinci fıkra eklenmiş ve diğer fıkralar buna göre teselsül ettirilmiştir.

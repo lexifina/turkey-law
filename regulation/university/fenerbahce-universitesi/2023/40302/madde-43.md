@@ -1,0 +1,4 @@
+Yabancı dil hazırlık programı
+MADDE 43- (1) Lisansüstü programlara kesin kayıt yaptıracak adayların Senato tarafından belirlenen asgari yabancı dil koşulunu sağlayamadığı durumda öğrenciye yabancı dil hazırlık programına kayıt yaptırma hakkı verilebilir. Bu koşulla kabul edilen öğrencilerin yabancı dil hazırlık programındaki eğitim-öğretimleri, sınavları, muafiyet koşulları ve öğrenimle ilgili diğer esaslar yönerge ile düzenlenir.
+(2) Lisansüstü öğrenciler için yabancı dil hazırlık programının süresi iki yarıyıldır. Bu süre sonunda belirtilen sınavlarda başarılı olamayan öğrencilere öğrenim ücretini ödemek koşuluyla Enstitü Yönetim Kurulu kararı ile en fazla iki yarıyıl ek süre verilebilir. Bu sürelerin sonunda başarısız olan öğrencinin Üniversite ile ilişiği kesilir.
+(3) Yabancı dil koşulu sağlanmadan önce bilimsel hazırlık programı dersleri veya lisansüstü program kapsamındaki dersler alınamaz, tez çalışması yapılamaz.

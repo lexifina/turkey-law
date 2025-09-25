@@ -1,0 +1,3 @@
+Tezli yüksek lisans programında süre
+MADDE 8- (1) Tezli yüksek lisans programının süresi bilimsel hazırlıkta geçen süre hariç kayıt olunan programa ilişkin derslerin verildiği yarıyıldan başlamak üzere, her yarıyıl için kayıt yaptırılıp yaptırılmadığına bakılmaksızın dört yarıyıl olup, program en çok altı yarıyılda tamamlanır.
+(2) Dört yarıyıl sonunda derslerini başarıyla tamamlayamayan veya 4,00 üzerinden en az 2,70 GNO’yu sağlayamayan, azami süre içinde ise tezinde başarısız olan veya tez savunma sınavına girmeyen veya Enstitünün öngördüğü diğer asgari başarı koşullarını yerine getirmeyen öğrencinin Üniversite ile ilişiği kesilir.

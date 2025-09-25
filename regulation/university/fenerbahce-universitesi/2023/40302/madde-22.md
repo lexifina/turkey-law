@@ -1,0 +1,4 @@
+Tez izleme komitesi
+MADDE 22- (1) Doktora yeterlik sınavında başarılı bulunan öğrenci için anabilim/anasanat dalı başkanlığının önerisi ve Enstitü Yönetim Kurulu kararıyla bir ay içinde tez izleme komitesi oluşturulur.
+(2) Tez izleme komitesi üç öğretim üyesinden oluşur. Tez izleme komitesinde danışmandan başka anabilim/anasanat dalı içinden ve dışından birer üye yer alır. Anabilim/anasanat dalı dışından olan üye Üniversitede farklı bir anabilim dalından olabileceği gibi diğer yükseköğretim kurumlarının aynı veya farklı bir anabilim/anasanat dalından da olabilir. İkinci danışmanın atanması durumunda ikinci danışman da tez izleme komitesi toplantılarına oy hakkı olmaksızın katılabilir.
+(3) Gerektiğinde anabilim/anasanat dalı başkanlığının önerisi ve Enstitü Yönetim Kurulu kararı ile bu maddedeki esaslara uygun olarak tez izleme komitesi üyelerinde değişiklik yapılabilir.

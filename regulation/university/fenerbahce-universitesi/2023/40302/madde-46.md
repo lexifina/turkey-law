@@ -1,0 +1,4 @@
+Dersten çekilme
+MADDE 46- (1) Öğrenciler akademik takvimde belirtilen tarihler içinde danışmanlarının onayını alarak derslerden çekilebilirler. Dersten çekilme süresi sona erdikten sonraki dersten çekilme talepleri Enstitü Yönetim Kurulu tarafından değerlendirilerek karara bağlanır. Yaz okulunda dersten çekilme işlemi yapılmaz.
+(2) Öğrencinin çekildiği ders alınmamış sayılır, transkript belgesinde dersten çekilmiş (W) olarak gösterilir. Öğrenci kayıtlı olunan bir yarıyılda en fazla bir dersten, öğrenim süresince toplamda ise en çok iki dersten çekilebilir. Bir öğrenci daha önce çekildiği bir dersten ikinci kez ve GNO’ya katılmayan dersten/derslerden çekilemez. Tekrar edilen bir dersten çekilme işlemi yapılması durumunda, bu ders için çekilme yapılmadan önce alınmış son harf notu geçerli olur.
+(3) Dersten çekilmelerde herhangi bir ücret iadesi yapılmaz, sonraki ücretlerine mahsup edilmez.
