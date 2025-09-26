@@ -1,0 +1,21 @@
+{
+  "record_type": "parliament-written-question",
+  "term": 28,
+  "legislative_year": 4,
+  "esas_no": "7/35286",
+  "submitted": "2025-09-26",
+  "submitted_as": "Başkanlığa geliş tarihi",
+  "mp": "Hilmi DURGUN",
+  "province": "Antalya",
+  "summary": "Antalya'daki sağlık hizmetleri ile ilgili çeşitli verilere ilişkin",
+  "status": "Cevaplanmadığı Gelen Kağıtlarda İlan Edildi",
+  "status_as_of": "2026-11-16",
+  "official_record": "https://www.tbmm.gov.tr/Denetim/Yazili-Soru-Onergesi-Detay/15e998e6-456f-442c-8985-0199f0d30638",
+  "source": "https://tbmm.gov.tr/Denetim/YaziliSoruOnergesiTable",
+  "source_form": "https://tbmm.gov.tr/Denetim/Yazili-Soru-Onergeleri",
+  "source_sha256": "ed94b26fc5fd4b94856eed18a7c359fcb227668544768eb827f2a2ac300d217b",
+  "in_force": "2025-09-26",
+  "in_force_basis": "Date the question reached the Speaker (Başkanlığa geliş tarihi) in the official TBMM written-question record; parliamentary oversight record, not law",
+  "history_type": "metadata",
+  "text_status": "metadata-only: question text, addressee and answers are in the linked official record (PDFs on cdn.tbmm.gov.tr); not transcribed here"
+}
