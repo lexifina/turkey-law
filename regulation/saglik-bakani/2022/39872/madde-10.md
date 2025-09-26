@@ -1,0 +1,7 @@
+Ulusal Organ Nakli ve Bağışı Koordinasyon Sistemi Uygulama Rehberi
+MADDE 10- (1) Organ dağıtım prensipleri ve genel esasları, Bakanlık tarafından hazırlanan Ulusal Organ Nakli ve Bağışı Koordinasyon Sistemi Uygulama Rehberinde belirlenir ve Bakanlığın resmi internet sitesinde yayınlanır. Ulusal Organ Nakli ve Bağışı Koordinasyon Sistemi Uygulama Rehberi, organ çıkarım, taşıma, dağıtım kriterleri ile bu süreçlerde nakil merkezlerinin uyması gereken kriterlerin ve Ulusal Koordinasyon Sistemi içerisinde bulunan birimlerin çalışma usul ve esaslarının belirlendiği rehberdir.
+(2) Rehber her organ türüne göre adaletli organ dağıtım ilkeleri esas alınarak tıbbi kaideler doğrultusunda Genel Müdürlük bünyesinde oluşturulan komisyon tarafından hazırlanır ve yayınlanır.
+(3) Rehbere ilişkin değişiklikler bilimsel gelişmelere bağlı olarak Bakanlık tarafından Bilimsel Danışma Komisyonlarının önerisi ile yapılır. Rehberde yapılan değişiklikler Genel Müdürün onayı ile yürürlüğe girer ve Bakanlığın resmi internet sitesinde yayınlanır.
+(4) Rehberde UKM personeli, BKM personeli, organ nakli merkezinin faaliyete esas personeli, organ kaynağı merkezi personelinin eğitim, çalışma usul ve esasları belirlenir.
+(5) Rehberde yer alan hususlara aykırı işlem yaptığı tespit edilen merkezler ve kişiler hakkında bu Yönetmelik ve ilgili mevzuat gereği işlem yapılır.
+(6) Rehberde yer almayan olağandışı durumlar ve yazılım sisteminden kaynaklanan aksaklıklar ile ilgili olarak Bilimsel Danışma Komisyonlarının görüşleri doğrultusunda işlem yapılır.

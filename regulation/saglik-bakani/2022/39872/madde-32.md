@@ -1,0 +1,7 @@
+Organ nakli merkezlerinin izlenmesi ve değerlendirilmesi
+MADDE 32- (1) Merkezler, standart ve performans durumu nedeniyle izlenir ve değerlendirilir.
+(2) Merkezler değerlendirilirken bekleme listesinde yer alan hasta sayıları ile nakil sonrası takip edilen hasta sayıları da göz önünde bulundurulur.
+(3) Performans izleminde, bütün merkezlerin nakil sonrası ilk 15 gün, 3 ay, 6 ay, 1 yıl ve 2 yıllık hasta yaşam durumu ve greft fonksiyonu ile nakil sayıları Bakanlık tarafından izlenir. Yapılan izlem sonucunda merkezlerin değerlendirilmesi 30 uncu maddede belirlenen kriterler üzerinden, yazılım sisteminden sağlanan verilerle Bilimsel Danışma Komisyonları tarafından yapılır. Bilimsel danışma komisyonlarının toplantılarında bu veriler aşağıda yer aldığı biçimde değerlendirilir:
+a) Bütün merkezlerin değerlendirilmesi sonucunda 30 uncu ve 33 üncü maddelerde yer alan kriterleri sağlamayan merkezler belirlenir.
+b) Belirlenen nakil merkezleri hakkında belirli hasta dosyalarının istenmesi veya merkezin yerinde izlenmesi ve değerlendirilmesi kararı verilir.
+c) Organ nakli merkezlerinde bu fıkra kapsamında yapılan inceleme sonucunda inceleme ekibi tarafından bir rapor hazırlanır, raporda merkezin faaliyete devam edip etmeyeceğine dair kanaat belirtilir. Bu raporlar ilgili bilimsel danışma komisyonuna sunulur. Komisyon yapılan değerlendirmeler neticesinde merkezin faaliyeti hakkında faaliyetin devamı, uyarı veya 33 üncü maddede yer alan müeyyidelerin uygulanması hususunda Bakanlığa tavsiyede bulunur.

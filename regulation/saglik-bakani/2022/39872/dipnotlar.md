@@ -1,0 +1,1 @@
+[1] 26/9/2025 tarihli ve 33029 sayılı Resmî Gazete’de yayımlanan değişiklikle bu bölüm başlığı “Beyin Ölümü, Organ Dağıtım Hizmetleri ve Esasları, Ölü Vericiden Organ Bağışı ve Nakli, Ulusal Koordinasyon Merkezi ve Bölge Koordinasyon Merkezleri” iken metne işlendiği şekilde değiştirilmiştir.

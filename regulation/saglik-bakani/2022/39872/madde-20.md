@@ -1,0 +1,22 @@
+Ruhsat ve faaliyet izin işlemleri
+MADDE 20- (1) Organ nakli merkezi açmak isteyen hastaneler Bakanlıkça belirlenen standartlara uygun olarak ruhsat ve faaliyet izni için bulundukları ilin müdürlüğü aracılığı ile Bakanlığa başvurur.
+(2) Ruhsat başvurusu ve faaliyetine ilk başlanacak organ nakli türü için faaliyet izin başvurusu birlikte yapılır.
+(3) Organ nakli merkezi ruhsat başvurusu sürecinde hastane tarafından açılması planlanan organ nakli merkezinin idari işlemlerini takip etmek üzere tam zamanlı bir hekim organ nakli merkezi mesul müdürü olarak görevlendirilir.
+(4) Hastane idaresi ruhsat ve faaliyet izni almak üzere Bakanlıkça belirlenen birimlere, donanıma ve personele dair başhekimlik onaylı belgeleri ve mesul müdüre ait iki adet son altı ayda çekilmiş vesikalık fotoğrafı, T.C. kimlik numarası beyanını, diploma ve varsa uzmanlık belgesinin fotokopisi ile sorumlu uzman ve sorumlu uzman yardımcısına ait ek-2 puantaj tablosunda yer alan kriterlere ilişkin belgeleri ve Bakanlıkça istenilen sair bilgi ve belgeleri müdürlük aracılığı ile Bakanlığa gönderir.
+(5) Başvuru dosyasında;
+a) Planlamaya tabi merkezler için hak izni belgesi,
+b) Nakil hizmetleri için ayrılan, girişlerinde organ nakli merkezi ibaresinin bulunduğu bölümlere ait 1/100 ölçekli, her kat için ayrı olmak üzere mimar tarafından düzenlenmiş, yerleşim ve kullanım alanlarını gösterir plan,
+c) Ek-3’te yer alan personelin başhekimlik onaylı diploma ve varsa uzmanlık belgesi fotokopileri ve T.C. kimlik numarası beyanı,
+ç) Özel hastane bünyesinde açılacak merkez için; merkezde görev yapacak personelin tamamı ile yapılan sözleşmeler, çalışma belgeleri ve müdürlük onaylı güncel hekim listesi,
+d) Sorumlu uzman adayının eğitim aldığı merkez sorumlusundan bizzat alınmış, içeriğinde alınan eğitimin içeriği ve hekimin deneyimlerinin açıkça yazılı olduğu imzalı bir tavsiye mektubu,
+yer alır.
+(6) Organ türüne göre sorumlu uzman görevini yürütecek hekim, merkez açılış başvurusundan önceki 5 yıl içerisinde başka bir merkezde aynı nakil türünde sorumlu uzman olarak görev yapmış ise beşinci fıkranın (d) bendinde yer alan referans yazısı istenmez.
+(7) Müdürlük tarafından yapılan inceleme sonucunda durumu mevzuata uygun olmayan başvuru dosyası, gerekçesiyle birlikte 7 iş günü içerisinde başvuru sahibine resmi yazı ile iade edilir. Dosyada eksikliklerin bulunması durumunda başvuru sahibine resmi bir yazı ile eksiklikler bildirilir ve bildirilen eksikliklerin giderilmesi için 10 iş günü süre verilir. Bu durumda dosya eksiklikler tamamlana kadar müdürlükte muhafaza edilir. Gönderilen belgelerde başhekimlik mührü, aslı gibidir onayı ve imzası bulunmak zorundadır. 10 iş günü içerisinde tamamlanmayan başvurular reddedilmiş sayılır ve müdürlük tarafından iade edilir.
+(8) Uygun bulunan başvurulara ait dosyaların bir kopyası müdürlükte muhafaza edilir. Müdürlük tarafından, başvurunun uygun bulunduğuna dair resmi yazı ile birlikte dosya Bakanlığa gönderilir.
+(9) Başvurular, nakil türü bakımından ilgili Bilimsel Danışma Komisyonları ya da Bakanlıkça komisyon üyeleri arasından seçilecek alt komisyonlar tarafından değerlendirilir.
+(10) Değerlendirme sonucunda hazırlanan raporlar, Bakanlığa sunulur. Uygun görülen başvuruya istinaden ilgili Bilimsel Danışma Komisyonlarından seçilecek en az bir üye ve Bakanlıkça görevlendirilen en az bir personelden oluşan heyet tarafından yerinde değerlendirme yapılarak inceleme raporu hazırlanır.
+(11) Heyet tarafından düzenlenen rapor uygun görüldüğü takdirde, hastane adına Organ Nakli Merkezi Ruhsatı, mesul müdür adına Mesul Müdürlük Belgesi ve öngörülecek personel adına Faaliyet İzin Belgesi düzenlenir.
+(12) Düzenlenen belgeler müdürlük aracılığı ile ilgililere teslim edilir. Belgelerin teslim alınması ile birlikte merkez faaliyet göstermeye ve hasta kabulüne başlar aynı zamanda Ulusal Koordinasyon Sistemine dâhil olur.
+(13) Onuncu fıkra kapsamında hazırlanan raporun uygun bulunmaması halinde tespit edilen eksikliklerin giderilmesi için başvuru sahibi hastaneye 3 aylık süre verilir. Bu süre içerisinde;
+a) Merkez eksikliklerin giderildiğini bildirir bir yazı ile müdürlüğe başvurur. Müdürlük tarafından yerinde değerlendirme yapılır ve değerlendirme raporu Bakanlığa gönderilir. Uygun bulunması halinde hastane adına on birinci fıkrada yer alan belgeler düzenlenir.
+b) Eksikliklerini gideremeyen merkeze kabul edilebilir bir mazeret sunması halinde en fazla 3 ay daha ek süre verilebilir. Kabul edilebilir bir mazeret sunmayan merkezin başvurusu reddedilir.

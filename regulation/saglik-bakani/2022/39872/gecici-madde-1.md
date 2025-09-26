@@ -1,0 +1,2 @@
+Uyum zorunluluğu
+GEÇİCİ MADDE 1- (Danıştay Onuncu Dairesinin 20/3/2025 tarihli ve E.:2023/399 sayılı kararı ile yürütmesi durdurulan madde: (1) Bu Yönetmeliğin yayımı tarihinden önce 36 ncı madde ile yürürlükten kaldırılan Organ ve Doku Nakli Hizmetleri Yönetmeliği kapsamında faaliyette bulunmaya devam edenler, bu Yönetmeliğin yayımı tarihinden itibaren 6 ay içerisinde bu Yönetmelik hükümlerine uyum sağlamak zorundadırlar. Aksi halde bunlar faaliyetten men edilirler.)

@@ -1,0 +1,13 @@
+Organ Nakli Değerlendirme Etik Komisyonu kararlarına itiraz ve itirazın çözümü
+MADDE 15- (1) Komisyon kararlarına karşı yapılacak itiraz için alıcı veya verici ya da bunların yasal temsilcileri kararın tebliğini izleyen 15 gün içerisinde müdürlüğe bir dilekçe vermek suretiyle kararın yeniden değerlendirilmesini talep etmek zorundadır. Bu başvuru yapılmadan itiraz yoluna gidilemez.
+(2) Dilekçe komisyon tarafından incelenir. Kararın yeniden değerlendirilmesi başvurusuna istinaden başvuruya konu vaka, başvuru tarihini izleyen tarihten sonraki ilk komisyon toplantısında öncelikli olarak değerlendirilir ve ikinci bir karar tutanağı hazırlanarak ikinci başvuruya ilişkin verilen karar ve gerekçesi ayrıntılı olarak yazılır.
+(3) Başvuru uygun görülürse komisyon kararını değiştirebilir.
+(4) Komisyonun kararın yeniden değerlendirilmesi başvurusu üzerine verdiği kararlarına karşı, kararın tebliğini izleyen 15 gün içerisinde, alıcı veya verici ya da bunların yasal temsilcileri tarafından müdürlük aracılığı ile Ulusal Organ Nakli Etik Kuruluna itiraz edilir. Müdürlük itirazı ve itiraza konu başvuruya ilişkin komisyon tarafından alınan bütün karar tutanaklarını ve sair bilgi ve belgeleri, gizlilik hükümlerine uygun olarak Bakanlığa gönderir.
+(5) Kurul son karar aşamasında nihai kararını vermek üzere gerekirse bilgi ve belge talebinde bulunabilir.
+(6) Kurul itiraz başvurularını dosya üzerinden inceler. Gerekli görüldüğü takdirde alıcı ve vericiyi veyahut ilgili tanıkları toplantıya davet edebilir. İncelemenin yapıldığı toplantı oturumları gizlidir. Toplantı üyeleri haricinde toplantı mekânında üçüncü kişilerin bulunması yasaktır. Toplantı karar tutanakları gizlidir paylaşılamaz, yayınlanamaz ve çoğaltılamaz.
+(7) Kurul itiraz başvurusuna ilişkin komisyon kararlarını inceleyerek onaylar veya iptal edip iade eder veya komisyonun yerine geçip yeniden karar alır.
+(8) Kurul kararlarını gerekçeli olarak verir. Karar gerekçesi ayrıntılı olarak vakayı özetleyecek biçimde hazırlanır.
+(9) Kurulun komisyonun yerine geçip aldığı kararlar müdürlüğe tebliğ edilir. Müdürlük söz konusu kararın icrası için gecikmeksizin gerekli tedbirleri almakla yükümlüdür.
+(10) Kurul tarafından iptal edilen komisyon kararları iptal gerekçesi ile birlikte komisyona iade edilir, komisyon başvuru yeniden yapılmış gibi kurul kararını da göz önünde bulundurarak yeniden karar alır.
+(11) Reddedilen itiraz başvuruları müdürlüğe gönderilir. Müdürlük söz konusu kararları karar gerekçesi hariç ilgililere tebliğ eder.
+(12) Bakanlık itiraz başvurusunun etkin ve etkili bir biçimde yapılmasını ve hızlı karar alınmasını sağlamak amacıyla itiraz başvurularının yapılacağı ve bu başvurulara ilişkin bilgi ve belgelerin elektronik ortamda muhafaza edilebileceği yazılım sistemini kurar.

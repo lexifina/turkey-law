@@ -1,0 +1,17 @@
+Merkezlerin kuruluşu ve planlama
+MADDE 18- (1) Organ nakli merkezleri, kamu kurum ve kuruluşları ile gerçek veya tüzel kişilere ait hastaneler bünyesinde bir ünite biçiminde kurulur.
+(2) Bu Yönetmelikte belirtilen, organ nakli merkezleri ve bu hizmetlere yönelik faaliyet gösterecek diğer hizmet birimleri, Bakanlıkça belirlenen usule uygun olarak başvuru yapıp Bakanlıkça düzenlenecek ruhsat, mesul müdürlük ve faaliyet izin belgesini alarak faaliyet gösterebilir.
+(3) Bakanlık tarafından, illerin demografik yapısı, organ bekleme listelerinde kayıtlı hasta sayıları, hastaların bölgesel dağılımı ve diğer epidemiyolojik özellikler ile merkezlerin kapasite kullanım durumu, bölgelere göre nüfus ve merkez sayıları, nakil yapabilecek hekim sayıları ve bunların ülke genelinde dağılımı gibi kriterler dikkate alınarak organ nakli merkezlerine dair planlama yapılır. Bu Yönetmelikte sayılan istisnalar dışında planlama haricinde organ nakli merkezi açılamaz, ruhsat ve faaliyet izni verilemez. Planlamaya ilişkin esaslar aşağıda belirtilmiştir:
+a) Organ nakli merkezleri Türkiye İstatistik Kurumu tarafından yıllık olarak yayımlanan nüfus verilerine ve BKM nüfus dağılımına göre;
+1) Böbrek nakli merkezi sayısı, 1,5 milyon nüfusa bir merkez,
+2) Karaciğer nakli merkezi sayısı, 2,5 milyon nüfusa bir merkez,
+3) Kalp nakli merkezi sayısı, 5 milyon nüfusa bir merkez,
+4) Akciğer nakli merkezi sayısı, 7 milyon nüfusa bir merkez,
+olacak biçimde planlanır.
+b) Bir hastanede akciğer nakli merkezinin açılabilmesi için aynı zamanda nakil merkezi açılması planlanan sağlık kuruluşunda aktif olarak açık kalp cerrahisi yapılıyor olmalıdır.
+c) Pankreas nakli merkezleri, karaciğer ve böbrek nakli merkezi bulunan hastanelerde açılır. Pankreas nakli merkezi kurulabilmesi için karaciğer ve böbrek nakli merkezlerinde son iki yılda en az 30 böbrek, 15 karaciğer nakli yapılmış olması gerekir. Pankreas nakli sorumlu uzmanı, böbrek nakli ile karaciğer naklinde sorumlu uzman olabilme yetkinliğini haiz ve hepatobilier cerrahi konusunda deneyimli olmalıdır.
+ç) Kalp-akciğer nakli merkezleri, kalp ve akciğer nakli merkezi bulunan hastanelerde açılabilir. Kalp-akciğer nakli olacak hastalar kalp nakli bekleme listesinde olacak şekilde yazılım sistemine kaydedilir. Kalp-akciğer nakli merkezi sorumlu uzmanı, kalp nakli merkezi sorumlu uzmanı olan kalp ve damar cerrahisi uzmanı, sorumlu uzman yardımcısı akciğer nakli merkezi sorumlu uzmanı olan göğüs cerrahisi uzmanı olmalıdır. Merkez konseyinde göğüs hastalıkları uzmanı ve göğüs cerrahisi uzmanı yer almak zorundadır. Bu merkezlerin planlaması bekleme listesinde yer alan hasta yoğunluğuna göre belirlenir.
+(4) Planlama, Bakanlık tarafından önceki dönemlerde yaşanan gelişmeler ve ortaya çıkan ihtiyaçlara göre içinde bulunulan yılın kasım ayında yapılır, aralık ayı içerisinde Bakanlığın resmi internet sitesinde yayınlanır. İhtiyaç duyulmayan dönemlerde planlama yapılmaz.
+(5) Planlamanın ilanından sonra, o yıl içerisinde yeni bir nakil türü veya hizmet bölgesi açılması ihtiyacı ortaya çıkarsa, bu husus planlamaya eklenir ve Bakanlığın resmi internet sitesinden yayınlanır.
+(6) Planlamanın ilanından sonra, organ nakli merkezi açılması planlanan bölgelerde ruhsat ve faaliyet izin başvuruları Bakanlığın belirleyeceği süre içerisinde yapılır. Süresi içerisinde yapılmayan başvurular yapılmamış sayılır.
+(7) Hizmetin sürekliliği, erişilebilirliği, etkin ve etkili sunumu açısından Bakanlığa bağlı eğitim yetkisi bulunan hastaneler ve üniversite hastaneleri planlamadan muaftır.
