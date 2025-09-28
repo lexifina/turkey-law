@@ -1,0 +1,2 @@
+Etkinliklerde görevlendirme
+MADDE 35- (1) Spor karşılaşmaları, kültür ve sanat faaliyetleri ve yarışmalar gibi etkinliklerde görevlendirilen öğrencilerin, bu etkinliklere ve bunların hazırlık çalışmalarına katılmak zorunda olmaları nedeniyle öğrenime devam edemedikleri süreler, devamsızlık sürelerinin hesabında dikkate alınmaz. Bu öğrenciler, anılan süreler içinde giremedikleri sınavlara, ilgili birim yönetim kurulu tarafından belirlenen tarihte girer.

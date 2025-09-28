@@ -1,0 +1,4 @@
+Sınav notlarına itiraz
+MADDE 27- (1) Öğrenciler, sınav sonuçlarının ilan edilmesinden itibaren üç iş günü içinde, ilgili birimin öğrenci işleri bürosuna dilekçe ile veya öğrenci otomasyon sistemi üzerinden başvurmak suretiyle sınav notlarına itiraz edip sınav kâğıdının yeniden incelenmesini talep edebilir. İlgili birim amiri sınav kâğıdının incelenmesi için, biri sınavı yapan öğretim üyesi olmak üzere ilgili öğretim üyeleri veya öğretim görevlileri arasından üç kişilik bir komisyon kurar. Yeterli sayıda ilgili öğretim üyesi veya öğretim görevlisi bulunmaması durumunda komisyonun diğer üyeleri sınava girilen dersin yakın olduğu dersleri veren öğretim üyeleri arasından ilgili birim amiri tarafından görevlendirilir.
+(2) Komisyon, en çok üç iş günü içinde itirazları kesin olarak sonuçlandırır.
+(3) İlan edilen başarı notları üzerinde yapılan değişiklikler, o dersin daha önce yapılmış olan istatistiksel dağılımına yansıtılmaz.

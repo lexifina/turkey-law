@@ -1,0 +1,4 @@
+Öğrenci katkı payı ve/veya öğrenim ücreti
+MADDE 8- (1) 2547 sayılı Kanunun 46 ncı maddesi ve ilgili diğer mevzuat hükümleri uyarınca belirlenen öğrenci katkı payı ve/veya öğrenim ücreti, akademik takvimde belirlenen tarihler arasında ödenir. Mazeretleri ilgili birim yönetim kurulunca kabul edilenler hariç, süresi içinde katkı payı ve/veya öğrenim ücretini ödemeyenler o dönem için kayıt yaptıramaz, yenileyemez ve öğrencilik haklarından yararlanamaz.
+(2) Öğrenci katkı payı ve/veya öğrenim ücretini yatırmış oldukları yarıyılın eğitim ve öğretimi başladıktan sonra herhangi bir nedenle Üniversite ile ilişiği kesilen veya kayıtları dondurulan öğrencilere katkı payı ve/veya öğrenim ücreti geri ödenmez.
+(3) Öğrenci değişim programlarına, uluslararası ortak lisans programlarına ve benzer programlara katılan öğrencilerin katkı payı ve/veya öğrenim ücreti, üniversiteler arasında yapılan ikili anlaşmalarla belirlenir.

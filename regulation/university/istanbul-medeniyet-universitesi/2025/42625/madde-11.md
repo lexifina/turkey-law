@@ -1,0 +1,6 @@
+Ders muafiyetleri
+MADDE 11- (1) Ders muafiyeti, Üniversiteye kayıttan önce aynı düzeydeki eşdeğer diploma programında başarılı olunan eşdeğer dersler için talep edilebilir. Ders muafiyet talepleri, ilk kayıt tarihinin sona ermesinden itibaren on iş günü içinde veya her kayıt yenileme dönemi için belirlenen tarihler arasında yapılır. Ders muafiyet taleplerine, ilgili birim yönetim kurulu karar verir. Olumlu kabul edilen ders muafiyetleri otomasyon sistemine işlenir. Sonuçlar öğrenciye elektronik ortamda bildirilir.
+(2) Muaf olunabilecek derslerin toplam AKTS kredisi, yeni kayıt olunan programdan mezuniyet için alınması gereken toplam AKTS kredisinin en fazla yarısı kadar olabilir.
+(3) Açıköğretim ve uzaktan öğretim programlarından muafiyet taleplerinde sadece 2547 sayılı Kanunun 5 inci maddesinin birinci fıkrasının (ı) bendinde belirtilen ortak zorunlu dersler dikkate alınır.
+(4) Koşullu başarılı dersler hariç muafiyet talebi uygun bulunan dersler için ders alma talebinde bulunulamaz.
+(5) Zorunlu yabancı dil derslerinden muaf olabilmek için Üniversiteye kayıt olduktan sonra akademik takvimde belirlenen tarihte yapılan zorunlu kredili yabancı dil yeterlik sınavından başarılı olmak gerekir.

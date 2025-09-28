@@ -1,0 +1,5 @@
+Eğitim ve öğretim dönemleri
+MADDE 14- (1) Üniversitede eğitim-öğretim, yarıyıl veya yıl esasına göre düzenlenir. Bunlardan hangisinin uygulanacağı ilgili birim kurulunun önerisi üzerine Senato tarafından belirlenir. Eğitimin yarıyıl esasına göre uygulanması halinde bazı dersler yıl, yıl esasına göre uygulanması halinde ise bazı dersler yarıyıl esasına göre düzenlenebilir.
+(2) Eğitim ve öğretim güz ve bahar yarıyıllarından oluşur. Bir yarıyıl, ara sınavlar dahil on dört haftadır.
+(3) Türk dili, yabancı dil, mesleki yabancı dil, güzel sanatlar, beden eğitimi ve formasyon dersleri ile gerektiğinde diğer dersler ilgili birim kurullarının kararı ile mesai saatleri dışında veya ulusal, resmî ve dinî bayramlar dışındaki cumartesi veya pazar günleri de yapılabilir. Bu dersler uzaktan eğitim yöntemi ile verilebilir.
+(4) Güz ve bahar yarıyılları dışında, ilgili birim kurullarının önerisi, Senatonun kararı ve Yükseköğretim Kurulunun onayı ile yaz okulu açılabilir. Yaz okulu uygulaması, ilgili mevzuat hükümleri çerçevesinde yapılır.

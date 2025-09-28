@@ -1,0 +1,6 @@
+Kayıt işlemleri
+MADDE 6- (1) Üniversitenin örgün öğretim programlarına kayıt hakkı kazanan adaylar, ÖSYM tarafından belirlenen ve Rektörlükçe ilan edilen tarihler arasında e-Devlet kapısı veya Üniversitenin otomasyon sistemi üzerinden ya da kayıt için gerekli belgeler ile birlikte ilgili birimlerin öğrenci işleri bürolarına şahsen müracaat etmek suretiyle kayıtlarını yaptırırlar.
+(2) Adaylar, zorunlu hallerde temsilcileri veya vekilleri aracılığıyla da kayıtlarını yaptırabilir.
+(3) Rektörlükçe ilan edilen tarihler arasında kayıtlarını yaptırmayan veya şahsen müracaat halinde kayıt için gerekli belgeleri sunmayan adaylar herhangi bir hak iddia edemezler.
+(4) Akademik takvimde belirtilen tarihlerde, yükümlülüğü bulunan öğrencilerden öğrenci katkı payı ve/veya öğrenim ücretini ödemeyenlerin kayıtları yapılmaz.
+(5) Kayıt için sahte veya tahrif edilmiş belge kullanan veya sahtecilik yaparak Üniversiteye kayıt yaptığı belirlenen kişilerin kaydı, kayıt tarihi itibariyle iptal edilir ve haklarında kanuni işlem başlatılır. Bu kişilere verilen diploma dâhil tüm belgeler iptal edilir. Bu kişilerin ödemiş oldukları öğrenci katkı payı ve/veya öğrenim ücretleri geri ödenmez. Bu şekilde kaydı iptal edilen öğrencilerin durumu ilgili kurum ve kuruluşlara bildirilir.

@@ -1,0 +1,6 @@
+Kayıt yenileme
+MADDE 9- (1) Katkı payı ve/veya öğrenim ücreti ödemesi gerekmeyen öğrencilerin kayıt yenilemeleri akademik takvimde belirlenen tarihler arasında ders alma işlemini tamamlamaları suretiyle gerçekleşir.
+(2) Katkı payı ve/veya öğrenim ücreti ödemesi gereken öğrencilerin kayıt yenilemeleri ise akademik takvimde belirlenen tarihler arasında ders alma işlemini tamamlamaları ve akabinde katkı payı ve/veya öğrenim ücretini ödemeleri suretiyle gerçekleşir.
+(3) Senato gerekli hallerde kayıt yenileme tarihlerinde değişiklik yapabilir.
+(4) Akademik takvimde belirlenen tarihler arasında kaydını yenilemeyen öğrenciler, o yarıyılda veya yılda derslere ve sınavlara giremezler ve öğrencilik haklarından yararlanamazlar. Öğrencinin kayıt yenilemediği yarıyıl veya yıl, 2547 sayılı Kanunda belirlenen öğrenim süresinden sayılır. Belgelenebilir mazerete dayalı olarak akademik takvimde belirlenen tarihler arasında ders alma işlemini tamamlayamayan öğrencilerin ders kayıtlarının yapılıp yapılmamasına ilgili birim yönetim kurulu karar verir. Ders kayıtlarının yapılmasına karar verilen öğrenciler bakımından bu arada geçen süreler devamsızlıktan sayılır.
+(5) Öğrenci değişim programlarına katılan öğrencilerin kayıt yenileme işlemleri ilgili birim yönetim kurulu kararı ile akademik takvimde belirlenen tarihler dışında da yapılabilir.

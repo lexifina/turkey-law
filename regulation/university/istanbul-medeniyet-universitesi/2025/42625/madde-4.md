@@ -1,0 +1,21 @@
+Tanımlar
+MADDE 4- (1) Bu Yönetmelikte geçen;
+a) AGNO: Ağırlıklı genel not ortalamasını,
+b) AKTS: Öğrencilerin yurt içinde ve yurt dışında aldıkları ve başarılı oldukları ders kredilerinin ve notlarının bir yükseköğretim kurumundan diğerine transfer edilmelerini sağlayan Avrupa Kredi Transfer Sistemini,
+c) Birim: İstanbul Üniversitesine bağlı bir fakülte, yüksekokul, konservatuvar ve meslek yüksekokulunu,
+ç) Çift anadal programı: Bir lisans diploma programına kayıtlı öğrencinin öngörülen şartları taşıması kaydıyla aynı yükseköğretim kurumunda ikinci bir diploma programından ders alıp bu program içinde ayrı diploma alabilmesini sağlayan programı,
+d) Danışman: Öğrenciye eğitim ve öğretim, ders alma işlemleri ve benzeri konularda yardımcı olması için görevlendirilen öğretim elemanını,
+e) Diploma programı: Fakülte, yüksekokul, konservatuvar, meslek yüksekokulu veya bölümlerin, belirlenen yeterlilikleri sağlayan öğrencilere, ön lisans veya lisans diploması veren yükseköğretim programını,
+f) İlgili birim kurulu: Üniversiteye bağlı fakültelerde fakülte kurulunu, yüksekokullarda yüksekokul kurulunu, konservatuvarda konservatuvar kurulunu, meslek yüksekokullarında meslek yüksekokulu kurulunu,
+g) İlgili birim yönetim kurulu: Üniversiteye bağlı fakülte, yüksekokul, konservatuvar ve meslek yüksekokulu yönetim kurulunu,
+ğ) Lisans eğitim ve öğretimi: En az sekiz yarıyıllık (dört yıl) programı kapsayan yükseköğretimi,
+h) Müdür: Üniversiteye bağlı bir yüksekokul, konservatuvar veya meslek yüksekokulu müdürünü,
+ı) Ön lisans eğitim ve öğretimi: En az dört yarıyıllık (iki yıl) programı kapsayan, nitelikli insan gücü yetiştirmeyi amaçlayan veya lisans öğretiminin ilk kademesini teşkil eden yükseköğretimi,
+i) ÖSYM: Ölçme, Seçme ve Yerleştirme Merkezini,
+j) Rektör: İstanbul Üniversitesi Rektörünü,
+k) Rektörlük: İstanbul Üniversitesi Rektörlüğünü,
+l) Senato: İstanbul Üniversitesi Senatosunu,
+m) Üniversite: İstanbul Üniversitesini,
+n) Üniversite Yönetim Kurulu: İstanbul Üniversitesi Yönetim Kurulunu,
+o) Yandal programı: Bir lisans diploma programına kayıtlı öğrencilerin öngörülen şartları taşımaları kaydıyla Üniversite içinde başka bir diploma programının belirli derslerini almak suretiyle diploma yerine geçmeyen sertifika alabilmelerini sağlayan programı,
+ifade eder.
