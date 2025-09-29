@@ -1,0 +1,6 @@
+Dersler ve kredi değerleri
+MADDE 12- (1) Lisans programlarındaki dersler zorunlu ve seçmeli olmak üzere iki gruba ayrılır. Zorunlu dersler müfredatta tanımlanmış ve alınması gereken derslerdir. Seçmeli dersler ise 8 inci maddenin üçüncü fıkrası doğrultusunda sayısı ve türü müfredatta tanımlanan ve seçimi öğrenciler tarafından yapılan derslerdir.
+(2) Derslerin adı, kodu, içeriği, kredi değeri/AKTS, kategorisi, ön koşulları, ara sınav ve yarıyıl sonu sınavları ve benzeri özellikleri ile bu özelliklerde yapılacak değişiklikler Senatonun belirlediği esaslar çerçevesinde ilgili bölümün önerisi üzerine ilgili kurul tarafından kararlaştırılır.
+(3) Her yarıyılda açılacak dersler ve bu dersleri yürütecek öğretim elemanları ilgili bölümün önerisi ve fakülte yönetim kurulunun kararı ile belirlenir. Doktora eğitimini başarıyla tamamlamış araştırma görevlilerinin ders yürütebilmeleri araştırma görevlilerinin talebi üzerine Üniversite Yönetim Kurulu tarafından karara bağlanır.
+(4) Bir dersin kredi değeri, o dersin haftalık teorik ders saatlerinin tamamı ile laboratuvar, uygulama, atölye, stüdyo, staj ve benzeri çalışmaların haftalık saatlerinin yarısının toplamından oluşur.
+(5) Kredisiz derslerin haftalık teorik ve uygulamalı saatleri belirlenir ancak bu derslere kredi değeri verilmez.

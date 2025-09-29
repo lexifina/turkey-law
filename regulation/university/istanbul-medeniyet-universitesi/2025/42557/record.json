@@ -1,0 +1,35 @@
+{
+  "act_path": "regulation/university/istanbul-medeniyet-universitesi/2025/42557",
+  "availability": "text",
+  "calendar_date_basis": "Start of the undergraduate autumn teaching semester in the official academic-year calendar",
+  "calendar_date_quote": "Derslerin Başlaması 29 Eylül 2025 (general undergraduate calendar and Law Faculty calendar)",
+  "calendar_source": "https://www.medeniyet.edu.tr/documents/file/dosya/2025/06/2025-2026-egitim-ogretim-yili-akademik-takvimi.pdf",
+  "calendar_source_sha256": "b19fc50854d605926001691240fc8f12b667280e423dd4852546a1e0477420b3",
+  "checked_on": "2026-11-15",
+  "commencement_clauses": [
+    "MADDE 40- (1) Bu Yönetmelik 2025-2026 eğitim-öğretim yılı başında yürürlüğe girer."
+  ],
+  "date_quote": "MADDE 40- (1) Bu Yönetmelik 2025-2026 eğitim-öğretim yılı başında yürürlüğe girer.",
+  "first_law": null,
+  "gazette": "32985",
+  "history": "as-enacted",
+  "images": {
+    "deferred": 0,
+    "omitted": 0,
+    "referenced": 0,
+    "source": 0
+  },
+  "in_force": "2025-09-29",
+  "in_force_basis": "Own commencement article: \"MADDE 40- (1) Bu Yönetmelik 2025-2026 eğitim-öğretim yılı başında yürürlüğe girer.\"; academic-year start identified by official undergraduate autumn calendar: \"Derslerin Başlaması 29 Eylül 2025 (general undergraduate calendar and Law Faculty calendar)\" (https://www.medeniyet.edu.tr/documents/file/dosya/2025/06/2025-2026-egitim-ogretim-yili-akademik-takvimi.pdf)",
+  "issuer": "İstanbul Medeniyet Üniversitesi",
+  "issuer_slug": "istanbul-medeniyet-universitesi",
+  "kind": "regulation",
+  "published": "2025-08-13",
+  "source": "https://www.mevzuat.gov.tr/anasayfa/MevzuatFihristDetayIframe?MevzuatTur=8&MevzuatNo=42557&MevzuatTertip=5",
+  "source_id": "8.5.42557",
+  "source_sha256": "bae8196d77a1c0762d3e4f7832a4ba890651c2c22698c41ff512c61a3a1815b6",
+  "title": "İSTANBUL MEDENİYET ÜNİVERSİTESİ LİSANS EĞİTİM-ÖĞRETİM\r\nVE SINAV YÖNETMELİĞİ",
+  "university_id": 414,
+  "version_label": "oldest version available",
+  "word_count": 3883
+}

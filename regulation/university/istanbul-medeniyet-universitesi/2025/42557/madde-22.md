@@ -1,0 +1,6 @@
+Kayıt dondurma
+MADDE 22- (1) Öğrenciler sağlık, askerlik, yurt içi veya yurt dışı yükseköğretim kurumlarında eğitim, maddi ve ailevi nedenlerle ilgili yönetim kurulu kararıyla her defasında iki yarıyılı aşmamak koşulu ile en fazla dört yarıyıl süre ile kayıt dondurma talebinde bulunabilirler. Yabancı dil hazırlık sınıfı öğrencileri eğitim-öğretim yılı güz yarıyılında başlamak suretiyle her defasında bir yıl süre ile en fazla iki yıl kayıt dondurabilirler. Azamî öğrenim süresi sonunda mezuniyet koşullarını sağlayamayan öğrenciler kayıt dondurma talebinde bulunamazlar.
+(2) Kayıt dondurma talebinde bulunan öğrenciler, mazeretlerini belirten dilekçeleri ve belgeleri ile birlikte ilgili dekanlığa en geç ilgili yarıyılın/yılın ilk iki haftası içinde başvurur. Ancak kayıt dondurma gerekçesinin belirtilen süre bitiminden sonra ortaya çıkması durumunda başvuru için süre kısıtlaması aranmaz.
+(3) İlgili yönetim kurulu kararı ÖİDB’ye iletilir ve ÖİDB tarafından işleme konulur.
+(4) Kayıt dondurma süresinin bitiminden önce öğrenimine dönmek isteyen öğrencilerin bir dilekçe ile ders kayıtları başlamadan önce ilgili dekanlığa başvurmaları gerekir.
+(5) Kayıt dondurma süreleri azami öğrenim süresinden sayılmaz.
