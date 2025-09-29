@@ -1,0 +1,21 @@
+{
+  "record_type": "parliament-written-question",
+  "term": 28,
+  "legislative_year": 3,
+  "esas_no": "7/34676",
+  "submitted": "2025-09-29",
+  "submitted_as": "Başkanlığa geliş tarihi",
+  "mp": "Perihan KOCA DOĞAN",
+  "province": "Mersin",
+  "summary": "Av turizmine ilişkin",
+  "status": "Süresi Geçtikten Sonra Cevaplandı",
+  "status_as_of": "2026-11-16",
+  "official_record": "https://www.tbmm.gov.tr/Denetim/Yazili-Soru-Onergesi-Detay/f51e9e6d-b7b7-4caf-9786-0199996f569a",
+  "source": "https://tbmm.gov.tr/Denetim/YaziliSoruOnergesiTable",
+  "source_form": "https://tbmm.gov.tr/Denetim/Yazili-Soru-Onergeleri",
+  "source_sha256": "0b201c0e6c80ee5b669c62ea8f6fc614e29e14ac162d4c49222c4204ccf2f67e",
+  "in_force": "2025-09-29",
+  "in_force_basis": "Date the question reached the Speaker (Başkanlığa geliş tarihi) in the official TBMM written-question record; parliamentary oversight record, not law",
+  "history_type": "metadata",
+  "text_status": "metadata-only: question text, addressee and answers are in the linked official record (PDFs on cdn.tbmm.gov.tr); not transcribed here"
+}
