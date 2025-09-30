@@ -1,0 +1,30 @@
+{
+  "number": "month-09",
+  "year": 2025,
+  "month": 9,
+  "title": "2025 Yılı Eylül Ayı Meclis Toplantısı Kararları",
+  "decision_date": null,
+  "index_date": "2025-09-30",
+  "date_precision": "month",
+  "period": "Eylül 2025",
+  "source": "https://adilcevaz.bel.tr/wp-json/wp/v2/posts?categories=31&per_page=100&page=1&_fields=id,date,link,title",
+  "official_page": "https://adilcevaz.bel.tr/2025-yili-eylul-ayi-meclis-toplantisi-kararlari/",
+  "official_document": "https://adilcevaz.bel.tr/2025-yili-eylul-ayi-meclis-toplantisi-kararlari/",
+  "source_sha256": "a8a2725d490fee272dc4ba0d8a82b38582fb8b36f4965849486ff9f412430fa9",
+  "issuer": "Adilcevaz Belediye Meclisi",
+  "history_type": "metadata",
+  "text_status": "metadata-only: listing fields as published; the decisions are in the linked official document(s) or page, not transcribed",
+  "in_force": "2025-09-30",
+  "in_force_basis": "The official listing gives only the month of this official file (Eylül 2025); date set to the last day of that month (turkey-law date convention for month-only sources); exact adoption dates are in the linked official document; legal commencement not asserted",
+  "missing": [
+    "decision numbers, dates and subjects",
+    "complete official decision text",
+    "official annexes"
+  ],
+  "law_text_complete": false,
+  "privacy_withheld": false,
+  "listing_label": "2025 Yılı Eylül Ayı Meclis Toplantısı Kararları",
+  "record_scope": "one official file of council decisions (meeting or month)",
+  "post_date": "2025-09-15T12:53:48",
+  "document_note": "the decisions are published on the linked official page; not transcribed here"
+}
