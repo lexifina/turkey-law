@@ -1,0 +1,29 @@
+{
+  "number": "124",
+  "number_as_published": "2025/124",
+  "year": 2025,
+  "month": 9,
+  "title": "Kültür turizminin ekonomik kalkınma ve yerel topluluklar için sunduğu avantajlar nelerdir? Önergesinin; Kültür-Turizm Komisyonu’ na havalesi oy birliği ile kabul edilip karara bağlanmıştır.",
+  "decision_date": null,
+  "index_date": "2025-09-30",
+  "date_precision": "month",
+  "period": "Eylül 2025",
+  "source": "https://www.haliliye.bel.tr/icerik/7603/39/eylul-2025",
+  "official_page": "https://www.haliliye.bel.tr/icerik/7603/39/eylul-2025",
+  "official_document": null,
+  "source_sha256": "f35bb33b32f1a14eb1cfe35ea0776e390e675360d804fe7c71ff17194a70e61f",
+  "issuer": "Haliliye Belediye Meclisi",
+  "history_type": "metadata",
+  "text_status": "metadata-only: number and subject as published in the official listing; complete decision text is in the linked official page/document, not transcribed",
+  "in_force": "2025-09-30",
+  "in_force_basis": "The official listing gives only the month of this decision (Eylül 2025); date set to the last day of that month (turkey-law date convention for month-only sources); exact adoption dates are in the linked official document; legal commencement not asserted",
+  "missing": [
+    "exact decision date",
+    "complete official decision text",
+    "official annexes"
+  ],
+  "law_text_complete": false,
+  "privacy_withheld": false,
+  "listing_item": "EYLÜL 2025",
+  "record_scope": "one council decision summary (Karar Özeti) as published"
+}
