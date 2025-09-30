@@ -1,0 +1,28 @@
+{
+  "number": "month-09",
+  "year": 2025,
+  "month": 9,
+  "title": "2025 Yılı Eylül Ayı Olağan Meclis Karar Özetleri",
+  "decision_date": null,
+  "index_date": "2025-09-30",
+  "date_precision": "month",
+  "period": "Eylül 2025",
+  "source": "https://www.yigilca.bel.tr/detay/330/2025-yili-eylul-ayi-olagan-meclis-karar-ozetleri",
+  "official_page": "https://www.yigilca.bel.tr/detay/330/2025-yili-eylul-ayi-olagan-meclis-karar-ozetleri",
+  "official_document": "https://www.yigilca.bel.tr/resim/upload/sb2082a.pdf",
+  "source_sha256": "7d811933304e1bca8ec460d8d5dd0e5d0357831219ed78e85eeb7e35d3efa2bb",
+  "issuer": "Yığılca Belediye Meclisi",
+  "history_type": "metadata",
+  "text_status": "metadata-only: listing fields as published; the decisions are in the linked official document(s) or page, not transcribed",
+  "in_force": "2025-09-30",
+  "in_force_basis": "The official listing gives only the month of this official file (Eylül 2025); date set to the last day of that month (turkey-law date convention for month-only sources); exact adoption dates are in the linked official document; legal commencement not asserted",
+  "missing": [
+    "decision numbers, dates and subjects",
+    "complete official decision text",
+    "official annexes"
+  ],
+  "law_text_complete": false,
+  "privacy_withheld": false,
+  "listing_label": "2025 Yılı Eylül Ayı Olağan Meclis Karar Özetleri",
+  "record_scope": "one official file of council decisions (meeting or month)"
+}
