@@ -1,0 +1,29 @@
+{
+  "number": "122",
+  "number_as_published": "2025/122",
+  "year": 2025,
+  "month": 9,
+  "title": "İstanbul İli, Fatih İlçesi, Ayvansaray Mahallesi, 2867 Ada 56 ve 57 Parsellere İlişkin TEKLİF-341103676 Plan İşlem Numaralı 1/1000 ölçekli K.A.U.İ.P. Değişikliği",
+  "decision_date": null,
+  "index_date": "2025-09-30",
+  "date_precision": "month",
+  "period": "Eylül 2025",
+  "source": "https://www.fatih.bel.tr/tr/main/meclis_kararlar?yil=2025&ay=9",
+  "official_page": "https://www.fatih.bel.tr/tr/main/meclis_kararlar/2025122/1035",
+  "official_document": null,
+  "source_sha256": "4af80e1801d1a89ec6c0825c2aaba1735ed13e4351d85a8c42e8e6e23e9d933f",
+  "issuer": "Fatih Belediye Meclisi",
+  "history_type": "metadata",
+  "text_status": "metadata-only: number and subject as published in the official listing; complete decision text is in the linked official page/document, not transcribed",
+  "in_force": "2025-09-30",
+  "in_force_basis": "The official listing gives only the month of this decision (Eylül 2025); date set to the last day of that month (turkey-law date convention for month-only sources); exact adoption dates are in the linked official document; legal commencement not asserted",
+  "missing": [
+    "exact decision date",
+    "complete official decision text",
+    "official annexes"
+  ],
+  "law_text_complete": false,
+  "privacy_withheld": false,
+  "record_scope": "one council decision (number and subject as listed)",
+  "listing_month": "2025-09"
+}
