@@ -1,0 +1,22 @@
+{
+  "kind": "norm",
+  "issuer": "Gelir İdaresi Başkanlığı",
+  "document_type": "ozelge",
+  "number": "38418978-120[42-2025]-554375",
+  "source_id": 38763,
+  "date": "2025-10-01",
+  "title": "2863 sayılı Kanun Kapsamında Yapılan Restorasyon İşine İlişkin Yapılacak Hak Ediş Ödemeleri Üzerinden Vergi Kesintisi Yapılıp Yapılmayacağı",
+  "source": "https://gib.gov.tr/mevzuat/kanun/435/ozelge/38763",
+  "related_law": "5520 sayılı KURUMLAR VERGİSİ KANUNU",
+  "source_api": "https://gib.gov.tr/api/gibportal/mevzuat/ozelge/list",
+  "source_listing": "evidence/list/2026-11-16/ozelge-p009.json",
+  "source_listing_sha256": "9cb52b4963a9a177a23948f6e28c12936c2f43c88a0b410872bb81c01983667c",
+  "source_sha256": "ce02474f69374fee6cca37e4868f54e90327fa5464b39147a1ea31c1c66ab3b8",
+  "text_status": "as-enacted",
+  "text_file": "metin.md",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  }
+}
