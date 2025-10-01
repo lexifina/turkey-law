@@ -1,0 +1,2 @@
+İzin İşlemleri
+Madde 27 - Sözleşmeli subay ve astsubay adayları ön sözleşme süresince Türk Silahlı Kuvvetleri Sınıf Okulları Yönetmeliği hükümlerine tabidirler. Sözleşmeli subay ve astsubayların izin işlemleri; 926 sayılı Türk Silahlı Kuvvetleri Personel Kanunu, 211 sayılı Türk Silahlı Kuvvetleri İç Hizmet Kanunu ve Türk Silahlı Kuvvetleri İç Hizmet Yönetmeliği ile Türk Silahlı Kuvvetleri İzin Yönetmeliği hükümlerine tabidir.

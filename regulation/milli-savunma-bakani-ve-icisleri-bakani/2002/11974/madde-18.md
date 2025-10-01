@@ -1,0 +1,2 @@
+Emekli Sandığı ve Ordu Yardımlaşma Kurumu ile İlgilendirme
+Madde 18 - Sözleşmeli subay ve astsubay adayları ile sözleşmeli subay ve astsubaylar; ön sözleşme yapılması ile birlikte 08/06/1949 tarihli ve 5434 sayılı Kanun ile ilgilendirilirler ve bu Kanunun muvazzaf subaylara ve astsubaylara tanıdığı bütün haklardan aynen faydalandırılırlar. Ancak, sözleşmeli subay ve astsubay adaylarının fakülte veya yüksek okullarda geçen süreleri adaylık süresince borçlandırılmaz. Sözleşmeli subaylar ve astsubaylar aynı zamanda Ordu Yardımlaşma Kurumunun daimi üyesidirler.

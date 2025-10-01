@@ -1,0 +1,4 @@
+Tabanca Tahsisi
+Madde 24 - Sözleşmeli subaylara askeri eğitimi müteakip 10/07/1944 tarihli ve 4608 sayılı Kanuna göre, sözleşmeli astsubaylara da askeri eğitimi müteakip 12/08/1976 tarihli ve 1468 sayılı Kanuna göre bir defaya mahsus olmak üzere zati tabanca verilir. Bu hükümler gereğince kendilerine tabanca verilenler, Türk Silahlı Kuvvetlerinden ilişiği kesilmedikçe tabancalarını her ne suretle olursa olsun başkalarına veremez veya devredemezler.
+(Değişik:RG-11/2/2010-27490) Bunlardan; 15 inci maddenin dördüncü fıkrasının (a), (b), (c), (ç), (d), (e), (f), (g) ve (ğ) bentlerinde sayılan nedenlerden herhangi biriyle Türk Silahlı Kuvvetlerinden ilişiği kesilenler ile dokuzuncu fiili hizmet yılından önce ayrılanların, zati tabancaları geri alınır.
+15 inci maddede belirtilen nedenlerden birisi ile Türk Silahlı Kuvvetlerinden ilişiği kesilenlerin veya dokuzuncu fiili hizmet yılından önce ayrılanların bu tabancaları geri alınır.

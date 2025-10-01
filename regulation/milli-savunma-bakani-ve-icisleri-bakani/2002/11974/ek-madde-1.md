@@ -1,0 +1,2 @@
+EK MADDE 1 – (Ek:RG-23/7/2015-29423)
+Kuvvet Komutanlıkları ve Jandarma Genel Komutanlığı tarafından doğrudan Özel Kuvvetler Komutanlığında görev yapmak üzere Türk Silahlı Kuvvetlerine sözleşmeli subay ve astsubay alımı yapılabilir. Bu kapsamda Türk Silahlı Kuvvetlerine alınacak sözleşmeli subay ve astsubay adaylarında aranan bu Yönetmelikteki nitelikler dışındaki diğer nitelikler yönergeler ile belirlenir.

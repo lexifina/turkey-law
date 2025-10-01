@@ -1,0 +1,3 @@
+Sosyal Haklar
+Madde 39 – (Değişik:RG-9/3/2024-32484)
+Sözleşmeli subay ve astsubaylardan sözleşmeleri 4678 sayılı Kanunun 16 ncı maddesinde belirtilen şekilde sona erenler hizmet ettikleri sözleşme süresi kadar, bunlardan ilgisine göre 926 sayılı Kanunun 112 nci maddesinin birinci fıkrasında, 2803 sayılı Kanunun ek 14 üncü maddesinin birinci fıkrasında veya 9/7/1982 tarihli ve 2692 sayılı Sahil Güvenlik Komutanlığı Kanununun ek 10 uncu maddesinin birinci fıkrasında belirtilen yükümlülük süresi kadar görev yapanlar süre sınırı olmaksızın günübirlik olarak ordu evi, özel eğitim merkezi ile diğer tesislerden istifade edebilirler.
