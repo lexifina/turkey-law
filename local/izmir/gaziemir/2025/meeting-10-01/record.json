@@ -1,0 +1,24 @@
+{
+  "number": "meeting-10-01",
+  "number_as_published": "meeting-10-01",
+  "year": 2025,
+  "title": "01.10.2025 KARAR ÖZETİ",
+  "decision_date": "2025-10-01",
+  "source": "https://www.gaziemir.bel.tr/meclis-karar-ve-ozetleri.php?sayfa=6",
+  "official_document": "https://api.gaziemir.bel.tr/01.10.2025-KARAR-OZETI44432714.docx",
+  "source_sha256": "0a0b9d4872900fe8025e7fb2f11ef73f8995375d6f7eb08e08c1b0717634afa6",
+  "issuer": "Gaziemir Belediye Meclisi",
+  "history_type": "metadata",
+  "text_status": "metadata-only: listing fields as published; complete decision text is in the linked official document, not transcribed",
+  "in_force": "2025-10-01",
+  "in_force_basis": "Decision date as printed in the official council listing: 01.10.2025; adoption date of the council decision; legal commencement not asserted",
+  "missing": [
+    "complete official decision text",
+    "official annexes"
+  ],
+  "law_text_complete": false,
+  "privacy_withheld": false,
+  "listing_label": "01.10.2025 KARAR ÖZETİ",
+  "record_scope": "one official file of council decisions (meeting)",
+  "posting_date": "08.10.2025"
+}
