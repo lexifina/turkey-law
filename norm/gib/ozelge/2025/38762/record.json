@@ -1,0 +1,22 @@
+{
+  "kind": "norm",
+  "issuer": "Gelir İdaresi Başkanlığı",
+  "document_type": "ozelge",
+  "number": "25947440-120[2024/58]-37879",
+  "source_id": 38762,
+  "date": "2025-10-01",
+  "title": "Gider Kısıtlaması",
+  "source": "https://gib.gov.tr/mevzuat/kanun/435/ozelge/38762",
+  "related_law": "5520 sayılı KURUMLAR VERGİSİ KANUNU",
+  "source_api": "https://gib.gov.tr/api/gibportal/mevzuat/ozelge/list",
+  "source_listing": "evidence/list/2026-11-16/ozelge-p009.json",
+  "source_listing_sha256": "9cb52b4963a9a177a23948f6e28c12936c2f43c88a0b410872bb81c01983667c",
+  "source_sha256": "338d434fdf7f6c5b9dbc5884a9c534b0f18fd4e5bff1b44dadc5697e089f2e49",
+  "text_status": "as-enacted",
+  "text_file": "metin.md",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  }
+}
