@@ -1,0 +1,21 @@
+{
+  "record_type": "parliament-written-question",
+  "term": 28,
+  "legislative_year": 4,
+  "esas_no": "7/34586",
+  "submitted": "2025-10-02",
+  "submitted_as": "Başkanlığa geliş tarihi",
+  "mp": "Nimet ÖZDEMİR",
+  "province": "İstanbul",
+  "summary": "İşitme cihazı ve şeker ölçüm cihazı temininde yaşanan sorunlara ilişkin",
+  "status": "Cevaplanmadığı Gelen Kağıtlarda İlan Edildi",
+  "status_as_of": "2026-11-16",
+  "official_record": "https://www.tbmm.gov.tr/Denetim/Yazili-Soru-Onergesi-Detay/86e1ba2f-d45d-40fd-97bd-0199a9446273",
+  "source": "https://tbmm.gov.tr/Denetim/YaziliSoruOnergesiTable",
+  "source_form": "https://tbmm.gov.tr/Denetim/Yazili-Soru-Onergeleri",
+  "source_sha256": "84b5717899c530a540e3cb191e8039c79679a9f368089d9ff630b7c330076081",
+  "in_force": "2025-10-02",
+  "in_force_basis": "Date the question reached the Speaker (Başkanlığa geliş tarihi) in the official TBMM written-question record; parliamentary oversight record, not law",
+  "history_type": "metadata",
+  "text_status": "metadata-only: question text, addressee and answers are in the linked official record (PDFs on cdn.tbmm.gov.tr); not transcribed here"
+}
