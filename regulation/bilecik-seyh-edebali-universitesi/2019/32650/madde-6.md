@@ -1,0 +1,3 @@
+Danışmanlık
+MADDE 6 – (1) Kayıt yaptıran her öğrenci için öğretim yılı başında, ilgili bölüm başkanı tarafından öncelikle bölümün öğretim üyeleri arasından veya yeterli sayıda öğretim üyesi bulunmayan bölümlerde, diğer öğretim elemanlarından bir danışman belirlenir. Bir bölümde yeterli sayıda öğretim elemanı yoksa diğer bölümlerden de dekanlık/müdürlük tarafından danışman görevlendirilebilir.
+(2) Danışman, eğitim-öğretim çalışmaları ve Üniversite yaşamı ile ilgili sorunların çözümünde öğrenciye yardımcı olur. Öğrencinin kayıt yenileme, ders ekleme-silme işlemleri, bu Yönetmelik çerçevesinde danışman onayı ile yapılır.

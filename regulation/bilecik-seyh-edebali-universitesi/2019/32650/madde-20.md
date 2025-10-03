@@ -1,0 +1,3 @@
+Sınav sonuçlarına itiraz
+MADDE 20 – (Değişik:RG-25/7/2022-31903)
+(1) Sınavlara itiraz, ilgili öğretim birimi yönetimine, sınav sonuçlarının ilanını izleyen beş iş günü içinde yazılı olarak yapılır. Sınav sonuçlarında, öğretim elemanlarının notları sayısal olarak toplarken yaptığı maddi hataların ya da optik formda öğrencinin kimlik bilgilerinde eksik veya yanlış kodlamadan kaynaklanan hataların düzeltilmesi dışında değişiklik yapılmaz. İtirazlar, yapılacak incelemeden sonra ilgili birimin yönetim kurulu tarafından karara bağlanır ve not değişikliği varsa, ilgili öğretim elemanı tarafından öğrenci bilgi sistemine girilir.

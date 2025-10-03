@@ -1,0 +1,5 @@
+Derslere devam zorunluluğu
+MADDE 17 – (1) Öğrenciler, teorik derslerin %70’ine, uygulama, laboratuvar, atölye ve stüdyo çalışmalarının ise %80’ine katılmak zorundadır. Devamsızlık dışındaki bir nedenle tekrar alınan derslerde; klinik, uygulama ve yarıyıl içi etkinlikleri dâhil devam zorunluluğu aranmaz ve tekrar alınan dersin yarıyıl içi ile yarıyıl sonu çalışma/sınavlarına katılmak zorunludur. Ancak birimin belirlediği uygulamalı derslerde, devam zorunluluğu şartı aranır. Tekrar edilen derslerin daha önceki dönemlerde alınan notları geçersizdir. Öğrencilerin derslere devamları, dersi veren öğretim elemanı tarafından izlenir. Devamsızlıkları nedeniyle sınavlara girme hakkı kazanamayan öğrencilerin durumu, yarıyıl sonu sınav döneminden önce ilgili öğretim elemanı tarafından öğrenci bilgi sistemi üzerinden ilan edilir.
+(2) Ders kaydı yaptırdıktan sonra akademik izinli olan öğrencilerin kayıtlı oldukları derslere İZ notu verilir. Devam koşulu yerine getirilmeyen ders için DZ notu verilir.
+(3) Dönem içerisinde alınan raporlar devamdan sayılmaz.
+(4) Rektörlük/dekanlık/müdürlükçe görevlendirilen öğrenciler görev sürelerince derse devam etmiş sayılırlar.

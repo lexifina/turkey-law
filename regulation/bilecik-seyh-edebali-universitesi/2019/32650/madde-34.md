@@ -1,0 +1,7 @@
+Diploma
+MADDE 34 – (1) Bir öğrencinin kayıtlı olduğu programı bitirebilmesi ve diploma alabilmesi için genel not ortalamasının en az 2,00 olması, tüm derslerden en az DD veya YT notu alması ve zorunlu stajlarını başarması gerekir. Bu şartları, bu Yönetmeliğe göre sekiz yarıyıldan önce sağlayan lisans öğrencisi, daha kısa sürede diploma alabilir.
+(2) Öğrencilerin mezun olabilmeleri için ders planlarındaki zorunlu dersler ile seçmeli gruplardan almaları gereken AKTS miktarı kadar dersleri başarmış olmaları gerekmektedir. Bununla birlikte ön lisans öğrencilerinin en az 120 AKTS, lisans öğrencilerinin en az 240 AKTS dersi başarmış olmaları gerekmektedir.
+(3) Ancak, öğrenci isteği halinde, not ortalamasını yükseltmek amacıyla yaz okulu veya takip eden ilk iki yarıyılda, 30 uncu madde kapsamında ders tekrarı yapabilir.
+(4) Ders tekrarı yapmak isteyen öğrencilerin, mezuniyete hak kazandığı ilgili yarıyılın bütünleme sınavları sonuna kadar ön lisans programlarında meslek yüksekokulu müdürlüklerine, lisans programlarında bölüm başkanlıklarına dilekçe ile başvurmaları gerekir.
+(5) Bir öğrenciye, kayıtlı olduğu lisans programının ilk dört yarıyılında almak zorunda olduğu dersleri başarı ile tamamlamak, belirtilen en az genel not ortalamasını (2,00) sağlamak ve devam ettiği lisans programından kaydını sildirmek koşullarıyla ilgili mevzuat çerçevesinde ön lisans diploması verilebilir.
+(6) Öğrencinin mezuniyeti, ilgili birimin yönetim kurulu kararı ile kesinleşir.

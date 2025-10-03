@@ -1,0 +1,2 @@
+Ders değiştirme, ekleme ve silme
+MADDE 16 – (1) Öğrenciler, danışmanlarının onayı ile yarıyıl derslerinin başlangıcını izleyen ilk hafta içinde, kaydolduğu derslerde değiştirme, ekleme ve silme işlemlerini 15 inci maddede belirlenen kredi sınırları içinde yapabilirler. Öğrenci, süresi içinde usulüne uygun olarak almadığı ya da kayıt yaptırmadığı derslere devam edemez ve bu derslerin sınavına giremez, girse de notu iptal edilir.
