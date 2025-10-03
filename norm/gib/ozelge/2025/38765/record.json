@@ -1,0 +1,22 @@
+{
+  "kind": "norm",
+  "issuer": "Gelir İdaresi Başkanlığı",
+  "document_type": "ozelge",
+  "number": "62030549-120-261680",
+  "source_id": 38765,
+  "date": "2025-10-03",
+  "title": "Spor Kulübünün Kira Ödemesi Üzerinden Tevkifat Yapıp Yapmayacagı",
+  "source": "https://gib.gov.tr/mevzuat/kanun/435/ozelge/38765",
+  "related_law": "5520 sayılı KURUMLAR VERGİSİ KANUNU",
+  "source_api": "https://gib.gov.tr/api/gibportal/mevzuat/ozelge/list",
+  "source_listing": "evidence/list/2026-11-16/ozelge-p009.json",
+  "source_listing_sha256": "9cb52b4963a9a177a23948f6e28c12936c2f43c88a0b410872bb81c01983667c",
+  "source_sha256": "6f310050f3c3ddf6dbf1e57983dcee34b80ef025f19cef97f995dc3e4f0bc87a",
+  "text_status": "as-enacted",
+  "text_file": "metin.md",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  }
+}
