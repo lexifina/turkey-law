@@ -1,0 +1,23 @@
+{
+  "number": "meeting-10-03",
+  "number_as_published": "meeting-10-03",
+  "year": 2025,
+  "title": "03.10.2025 Tarihli Meclis Toplantısı Karar Özetleri",
+  "decision_date": "2025-10-03",
+  "source": "https://www.agli.bel.tr/meclis-karari-listesi.php?sayfa=3",
+  "official_document": "https://www.agli.bel.tr/meclis-karari-detay.php?id=132",
+  "source_sha256": "b89a0289777c9f7753cba6db01dc58c71f9c571c72e4f31defa6f6649c8047e4",
+  "issuer": "Ağlı Belediye Meclisi",
+  "history_type": "metadata",
+  "text_status": "metadata-only: listing fields as published; complete decision text is in the linked official document, not transcribed",
+  "in_force": "2025-10-03",
+  "in_force_basis": "Decision date as printed in the official council listing: 03.10.2025; adoption date of the council decision; legal commencement not asserted",
+  "missing": [
+    "complete official decision text",
+    "official annexes"
+  ],
+  "law_text_complete": false,
+  "privacy_withheld": false,
+  "listing_label": "03.10.2025 Tarihli Meclis Toplantısı Karar Özetleri",
+  "record_scope": "one official file of council decisions (meeting)"
+}
