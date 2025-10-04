@@ -1,0 +1,6 @@
+İhraz edilen unvanlara atanma
+GEÇİCİ MADDE 3- (Ek: 7/11/2016-2016/9507 K.)
+(1) Bu maddenin yürürlüğe girdiği tarihten önce, Başkanlık tarafından Kanunun ek 1 inci maddesi kapsamında atama teklifleri yapılıp göreve başlayan personelin atama teklifinin yapıldığı tarihte öğrenim durumu itibarıyla ihraz ettiği unvanın, 190 sayılı Kanun Hükmünde Kararnamenin eki cetvellerde yer alması halinde, ilgili personel bu unvana ilişkin kadro veya pozisyona kurumu tarafından sınava tabi olmaksızın atanır.
+(2) Birinci fıkra uyarınca yapılacak atama işlemlerinde ilgili kamu kurum veya kuruluşunun 190 sayılı Kanun Hükmünde Kararnamenin veya 22/1/1990 tarihli ve 399 sayılı Kanun Hükmünde Kararnamenin eki cetvellerde yer alan mevcut kadro ve pozisyonları dikkate alınır.
+(3) İhraz etmiş bulundukları unvanların atandıkları kamu kurum ve kuruluşlarının mevcut kadro ve pozisyonlarında olmaması halinde ilgililer, asli memurluğa atandıktan sonra bir defaya mahsus olmak üzere diğer kanunlarda yer alan herhangi bir kontenjan sınırlamasına tabi olmaksızın kamu kurum ve kuruluşlarına naklen atanabilir.
+(4) Kamu kurum ve kuruluşları, ilgililerin Kanunun geçici 15 inci maddesi kapsamında yaptıkları naklen atama başvurularını, atanmak istedikleri unvan için gerekli şartları taşımaları halinde, ivedilikle işleme alarak sonuçlandırır.

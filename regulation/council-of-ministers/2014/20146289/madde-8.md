@@ -1,0 +1,5 @@
+Bakanlığa bildirim
+MADDE 8- (1) Durum belgesi ve istihdam hak sahipliği belgesi ile bunların düzenlenmesine dayanak teşkil eden her türlü belge ve yazılar elektronik ortamda Bakanlık il müdürlükleri tarafından ilgili modül üzerinden Bakanlığa gönderilir.[10]
+(2) Bakanlıkça yapılan inceleme sonucu düzenlenen belgelerde eksiklik veya mevzuata aykırılık bulunması halinde, gerekçeleri açıklanarak kararın düzeltilmesi veya eksikliklerin giderilmesi için belgeler elektronik ortamda ilgili Bakanlık il müdürlüğüne iade edilir. İade gerekçesini ortadan kaldıracak yeni bir bilgi ve belge bulunmadığı takdirde, ilgili İl müdürlüğünce söz konusu karar düzeltilerek ve eksik belgeleri tamamlanarak elektronik ortamda yeniden Bakanlığa gönderilir.
+(3) Bakanlıkça ihtiyaç duyulması halinde, başvurularla ilgili olarak kamu kurum ve kuruluşlarından bilgi, belge veya görüş istenebilir. Kamu kurum ve kuruluşları söz konusu talepleri öncelikle yerine getirmekle yükümlüdür.
+(4) Bu Yönetmelikte öngörülen belge ve formlar Bakanlıkça belirlenir.
