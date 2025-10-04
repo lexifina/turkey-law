@@ -1,0 +1,2 @@
+GEÇİCİ MADDE 5 –(Ek:RG-24/3/2020-31078)
+ESHS’ler kendi imza oluşturma ve doğrulama verilerine ilişkin olarak bu maddeyi ihdas eden Tebliğin 2 nci maddesiyle değiştirilen bu Tebliğin 6 ncı maddesinin birinci fıkrasının (b) bendinin (i) alt bendinde belirlenen şarta, bu maddenin yürürlüğe girdiği tarihten itibaren bir yıl içerisinde uyum sağlar. Bu maddenin yürürlüğe girdiği tarihten önce ve bu tarihten itibaren bir yıl içerisinde oluşturulan nitelikli elektronik sertifikalar geçerlilik süresi sona erene kadar kullanılabilir.
