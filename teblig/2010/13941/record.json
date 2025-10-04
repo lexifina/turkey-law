@@ -1,0 +1,50 @@
+{
+  "source_id": "9.5.13941",
+  "kind": "communique",
+  "register_kind": "Tebliğler",
+  "title": "DOSYAYA GİRİŞ HAKKININ DÜZENLENMESİNE VE TİCARİ SIRLARIN KORUNMASINA İLİŞKİN TEBLİĞ (TEBLİĞ NO: 2010/3)",
+  "number": "13941",
+  "issuer": "Rekabet Kurumu Başkanı",
+  "path": "teblig/2010/13941",
+  "source": "https://www.mevzuat.gov.tr/anasayfa/MevzuatFihristDetayIframe?MevzuatTur=9&MevzuatNo=13941&MevzuatTertip=5",
+  "source_sha256": "baae96d50add665b98b05bc8cfad8d2a80f8998dd2c20f51c16d6d1f1f5828aa",
+  "source_bytes": 41653,
+  "published": "2010-04-18",
+  "gazette": "27556",
+  "in_force": "2025-10-04",
+  "in_force_basis": "latest Resmî Gazete date printed in the source amendment notes/table (\"RG-4/10/2025\") for the current consolidated text",
+  "date_evidence": [
+    [
+      "2025-10-04",
+      "RG-4/10/2025",
+      "Resmî Gazete date printed in the source amendment note"
+    ],
+    [
+      "2025-10-04",
+      "4/10/2025",
+      "Resmî Gazete date in the source amendment table"
+    ],
+    [
+      "2016-01-31",
+      "RG-31/1/2016",
+      "Resmî Gazete date printed in the source amendment note"
+    ]
+  ],
+  "commencement_clauses": [
+    "Bu Tebliğ yayımı tarihinde yürürlüğe girer"
+  ],
+  "history": "current-text",
+  "label": "oldest version available",
+  "checked_on": "2026-11-15",
+  "word_count": 1523,
+  "text_status": "current-consolidated",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  },
+  "source_links": [
+    "9.5.13941-ek.docx"
+  ],
+  "completeness": "html-text-complete; linked annexes not fetched"
+}

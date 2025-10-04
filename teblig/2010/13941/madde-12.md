@@ -1,0 +1,7 @@
+ÜÇÜNCÜ BÖLÜM
+Ticari Sırların Belirlenmesi ve Gizli Tutulması
+Genel esaslar
+MADDE 12 – (1) Ticari sır; teşebbüslerin faaliyet alanları ile ilgili olan ve gizli tutma iradesine sahip oldukları, yalnızca belirli ve kısıtlı bir kesim tarafından bilinen ve elde edilebilen, başta rakipleri olmak üzere üçüncü kişilere ve kamuya açıklanması halinde ilgili teşebbüsün ciddi zarar görme ihtimali bulunan her türlü bilgi ve belgedir.
+(2) Olayın ve teşebbüsün özelliklerine göre, teşebbüslerin iç kuruluş yapısı ve organizasyonu, malî, iktisadî, kredi ve nakit durumu, araştırma ve geliştirme çalışmaları, faaliyet stratejisi, hammadde kaynakları, üretim ve imalata ilişkin teknik bilgiler, fiyatlandırma politikaları, pazarlama taktikleri ve masrafları, pazar payları, toptancı ve perakendeci müşteri potansiyeli ve ağları, izne tâbi veya tâbi olmayan sözleşme bağlantıları gibi bilgi ve belgeler ticari sır olarak kabul edilebilir.
+(3) Açıklanması halinde ilgili teşebbüs veya rakiplerinin zarar görme ihtimali bulunsa bile, rekabet hukuku mevzuatının ihlali niteliğinde olan sözleşme, anlaşma, uzlaşma ve eylemlere ilişkin bilgi ve belgeler ticari sır sayılmaz.
+(4) Yayımlanan, kamuya açıklanan ya da resmi sicil veya bilançolar ile faaliyet raporlarında yer alan bilgiler ile üzerinden beş yıl veya daha fazla zaman geçmesi gibi sebeplerle artık ticari önemini kaybetmiş bilgiler ticari sır olarak değerlendirilmeyebilir.

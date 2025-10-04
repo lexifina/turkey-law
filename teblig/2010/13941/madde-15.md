@@ -1,0 +1,5 @@
+Ticari sırların korunması
+MADDE 15 – (1) Kurum, ticari sırların gizliliğiyle ilgili talepleri kabul ettiği takdirde bunları açıklamaz.
+(2) Kurum, rekabet ihlalinin ispat edilebilmesi için delil olarak kullanılması kaçınılmaz olan bilgi ve belgelere yönelik gizlilik taleplerini dikkate almayabilir. Böyle durumlarda Kurum, ticari sır niteliği bulunan söz konusu bilgi ve belgeleri, kamu menfaati ile özel menfaat dengesini gözeterek ve ölçülülük kriterine uygun olarak açıklayabilir.
+(3) Kurul kararlarında, ihlalin ispatlanması bakımından zorunlu olmayan ticari sırlar, sırf gerekçenin güçlendirilmesi amacıyla açıklanamaz. Fakat bilginin niteliğine göre yaklaşık değerler veya aralıklar verilmesi gibi yöntemler benimsenebilir.
+(4) Kurul üyeleri ve diğer Kurum personeli Kurumla ilgili gizlilik taşıyan bilgileri ve bu Kanunun uygulanması sırasında öğrendikleri teşebbüs ve teşebbüs birliklerinin ticari sırlarını görevlerinden ayrılmış olsalar bile ifşa edemezler, kendilerinin veya başkalarının menfaatine kullanamazlar.
