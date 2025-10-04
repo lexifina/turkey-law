@@ -1,0 +1,13 @@
+YEDİNCİ BÖLÜM
+Dönüşümler
+ED50-TUREF dönüşümü
+MADDE 79- (1) ED50 ile TUREF arasındaki dönüşümler aşağıdaki esaslara göre yapılır.
+a) ED50 ile TUREF arasındaki dönüşümde; B, C1, C2 ve C3 derece ağ noktaları ile Türkiye Ulusal Yatay (Nirengi) Kontrol Ağının I., II. ve dengelenmiş III. derece ağ noktaları, mülga Büyük Ölçekli Haritaların Yapım Yönetmeliğine göre tesis edilmiş III. derece yüzey ağı ve bu noktaların bulunmaması durumunda alım için sıklaştırma noktaları ortak olarak seçilir. En az 200 km2 için bir fazla nokta olarak hesaplanır.
+b) Yerel ağlar ile TUREF arasındaki dönüşümde; B, C1, C2 ve C3 derece ağ noktaları ile yerel ağların yüksek dereceli noktaları ortak nokta olarak seçilir. En az ortak nokta sayısı 4’tür.
+c) Dönüşüm yöntemi olarak; iki veya üç boyutlu benzerlik dönüşüm yöntemleri, polinomlarla dönüşüm, enterpolasyon veya sonlu elemanlarla dönüşüm ve benzeri bilimsel literatürde yer almış yöntemlerden en uygun olanı kullanılır.
+ç) Seçilen ortak noktaların ED50 veya lokal sistemdeki koordinatları ile TUREF koordinatları arasındaki uyuşum bir istatistik test ile araştırılır ve uyuşumsuz noktalar ayıklanır. İstatistik güven aralığı 1-a=0.95 alınmalıdır. Sonuç uyuşum doğruluğu (so) ±9 cm (dahil)’den daha iyi ve en büyük koordinat düzeltmesi ±14 cm (dahil)’den küçük olmalıdır. Aksi durumlarda idarenin görüşüne başvurulur.
+d) Uyuşumlu ortak dönüşüm noktaları, uygun dağılımda ve bu noktaların oluşturduğu dış çerçeve proje alanının en az %60’ını kaplamalıdır.
+e) Bir koordinat sisteminde ifade edilmeden grafik ölçmeler için oluşturulmuş lokal ağların bütünlüğü sağlanabiliyorsa önce bu ağ noktalarının tanımlanacak yerel sistemde koordinatları hesaplanmalı daha sonra dönüşüme tabi tutulmalıdır. Dönüşümden önce nokta uyuşum testi uygulanır ve istatistik güven aralığı 1-a=0.95 alınır. Uyuşumlu ortak nokta yoğunluğu 5 nokta/ha olmalıdır. Uyuşum doğruluğu (so) ±9 cm (dahil)’den daha iyi ve en büyük koordinat düzeltmesi ±14 cm (dahil)’den küçük olmalıdır. Aksi durumlarda idarenin görüşüne başvurulur.
+f) Dönüşümde, uygun ortak noktaların bulunmaması durumunda; ED50 ile TUREF arasındaki dönüşüm için iki sistem arasında Harita Genel Müdürlüğünce sağlanan Türkiye boyutunda yatay konum farklarını (Δφ = φTUREF - φED50 ; Δλ = λTUREF - λED50) içeren dönüşüm dosyasından, noktaların konumuna bağlı olarak hesaplanan düzeltme değerleri, sistemler arası dönüşümler için doğrudan kullanılır.[15]
+g) Dönüşüm parametreleri sadece proje alanı için geçerlidir, ekstrapolasyon uygulanmaz. ED50’den dönüştürülmüş TUREF koordinatları nokta sıklaştırmasında kullanılamaz.
+ğ) Proje alanının aktif fay zonlarında bulunması durumunda TUREF ile ED50 arasındaki dönüşüm işlemi idarenin görüşü alınarak gerçekleştirilir.

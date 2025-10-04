@@ -1,0 +1,2 @@
+Ara nivelman ağı
+MADDE 33- (1) Ara nivelman ağı, başı ve sonu ana nivelman ağı noktalarına bağlı toplam uzunluğu 10 km’yi geçmeyen nivelman geçkileri veya en az iki ana nivelman noktasını içeren ve toplam uzunluğu 10 km’yi geçmeyen luplar biçiminde planlanır. Geçki üzerindeki nokta aralığı en çok 1 km olmalıdır. Seçimi yapılan ana nivelman noktaları bu Yönetmeliğin 32 nci maddesinde belirtilen seçim kanavasında gösterilir. Yeni noktalar, ek-4’te yer alan şekilde tesis edilir ve ek-6’da yer alan biçimde röperlenir.

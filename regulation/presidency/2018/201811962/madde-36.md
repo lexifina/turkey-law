@@ -1,0 +1,2 @@
+Yardımcı nivelman noktaları
+MADDE 36- (1) Proje alanı içinde, her dereceden nivelman noktalarının yoğunluğu yerleşim bölgelerinde ortalama 400-500 m aralıklarla ve diğer bölgelerde ortalama 700-800 m aralıklarla olmalıdır. Bu yoğunluğu yeterince sağlamak için yardımcı nivelman noktaları tesis edilir. Bu noktalar bu Yönetmeliğin 32 nci maddesinde belirtilen seçim kanavasında gösterilir, ek-4’te yer alan şekilde tesis edilir ve ek-6’da yer alan biçimde röperlenir.

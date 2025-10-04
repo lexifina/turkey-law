@@ -1,0 +1,4 @@
+Metrik hava kamerası
+MADDE 56- (1) Hava fotoğrafı çekiminde; çerçeve veya süpürme yöntemi ile görüntü elde eden metrik kameralar kullanılabilir. Süpürme yöntemini kullanan kameralar GNSS-IMU sistemiyle birlikte kullanılmalıdır. Metrik hava kameralarının görüntü yürümesini düzeltici bir sisteme sahip olması gerekir.
+(2) Hava kamerasının radyometrik çözünürlüğü en az 8 bit olmalıdır. Hava kamerasında pankromatik ve renkli bantlar ayrı ayrı çekiliyorsa pankromatik keskinleştirme oranında, renkli bantlı görüntülerin YÖA, pankromatik bandın YÖA’nın en fazla dört katı olmalı ve pankromatik görüntü, üretilecek harita ve ortofoto ölçeğinin gerektirdiği yer örnekleme aralığında olmalıdır.
+(3) Çekilen hava fotoğraflarının yöneltme işlemleri sonucunda, bu Yönetmeliğin 61 inci maddesinde belirtilen doğruluk ölçütleri sağlanamazsa idare tarafından hava kamerasının fabrika düzeyinde bakımı ve kalibrasyon ölçülerinin yaptırılması talep edilebilir.

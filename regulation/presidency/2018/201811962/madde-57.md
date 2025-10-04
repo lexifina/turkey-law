@@ -1,0 +1,3 @@
+Fotoğraf çekimi
+MADDE 57- (1) Uçuş görevi, Nisan ayının başı ile Ekim ayının sonu arasındaki dönemde uçuş planına uygun olarak bulutsuz bir havada, yerel öğle zamanından yaklaşık iki saat önceki ve sonraki zaman aralığında gerçekleştirilir. Bu dönem ve saat aralığı dışında zorunlu hallerde, idarenin onayı alınarak fotoğraf çekimi yapılabilir. Fotoğraf çekimi sırasında güneşin yükseklik açısı 30º’den büyük olmalıdır.
+(2) Hava fotoğrafı çekiminin planlanan biçimde gerçekleştirilmesi için GNSS denetimli uçuş sisteminden de yararlanılır. Fotoğraf çekim noktalarının planlanan durumdan olan farkları fotoğraf ölçeğinde 1 cm’yi geçmemelidir. Kamera ekseninin düşey doğrultudan sapmaları da 5º’yi geçmemelidir.

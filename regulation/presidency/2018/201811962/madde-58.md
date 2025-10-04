@@ -1,0 +1,3 @@
+Fotoğrafların taranması ve görüntü işleme
+MADDE 58- (1) Analog kameradan elde edilen fotoğraflar, fotogrametrik tarayıcı sınıfına giren tarayıcılarla sayısallaştırılır. Tarama işlemi rulo biçimindeki negatif filmlerden ya da diyapozitiflerden yapılır. Taramada kullanılan piksel büyüklüğü 21 mikrometreden daha büyük [1200 dpi (bir inçteki nokta sayısı)’den daha küçük] olmamalıdır.
+(2) Fotoğraflar her bir bant için en az 8 bit (256 gri düzeyi) radyometrik çözünürlüğünde taranmalıdır. Fotogrametrik tarayıcının geometrik doğruluğu ve radyometrik çözünürlüğü, güvenilir bir merkez tarafından denetlenmiş ve bir kalibrasyon raporu ile sonuçlandırılmış olmalıdır. Geometrik doğruluk ±3 mikrometre (dahil)’den daha iyi olmalıdır.

@@ -1,0 +1,4 @@
+Detay ölçmelerinde cephe kontrolü
+MADDE 48- (1) Parsel, ada, bina ve mühendislik tesislerinin asal noktalarının konumları, cephe çekilerek veya cephe çekiminin mümkün olmadığı durumlarda bir başka noktadan yapılacak alımlarla kontrol edilecek biçimde belirlenir. Ölçülerden hesaplanan ile cephelerin ölçüm değeri arasındaki fark d = 0.05 + 0.001S eşitliği ile bulunan miktardan fazla olamaz. Burada S, metre biriminde cephe uzunluğu ve d, metre birimindedir.
+(2) İki bağımsız ölçüden hesaplanan izdüşüm koordinatları arasındaki farklar (dx, dy) ve Helmert ortometrik yükseklikleri arasındaki farklar (dH); |dx|, |dy|, |dH| ≤ 8 cm olmalıdır.
+(3) Takeometrik alımın klasik GZK yöntemiyle yapılması durumunda; detay noktalarının elipsoit yükseklikleri ölçülür. Bu noktalara ait ortometrik yüksekliklerin hesaplanmasında TGyy kullanılır. Detay noktaları en fazla 5 km mesafeden ölçülür ve belirsizlik çözümü için alıcıya standart sapma değeri en fazla ±10 cm girilir.[14]

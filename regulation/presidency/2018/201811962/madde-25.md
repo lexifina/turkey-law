@@ -1,0 +1,10 @@
+C3 derece ağların yersel tekniklerle oluşturulması
+MADDE 25- (1) C3 derece ağlar için oluşturulan sıklaştırma ağları, B, C1, C2 ve GNSS ölçme teknikleriyle oluşturulan C3 noktalarına bağlanarak “karışık kestirme”, “açı kenar ağı”, “dizi nirengi” veya “dizi nirengi ağları” biçiminde oluşturulabilir. Görüş olanaklarının az olduğu yerlerde dış merkez gözlemleri planlanabilir. Kestirme noktalarında, ufka uygun dağılmış en az üç noktadan çıkış sağlanmalıdır.
+(2) Eski noktaların tesisleri aynen korunur. Ancak, yeni C3 noktaları ek-4’te açıklandığı biçimde tesis edilir ve ek-6’da açıklandığı biçimde röperlenir.
+(3) Şeritsel çalışmalarda oluşturulacak dizi nirengilerin en büyük kenar uzunluğu 1.5 km’yi, dizinin toplam uzunluğu ise 7 km’yi geçmemelidir.
+(4) Görüş olanağı sağlayan minare, kule ve yüksek binalar üzerindeki işaretler, yöneltme amaçları için kullanılabilir. Bu durumda bu amaçla seçilen noktalar, röper krokilerinde tanımlanarak uygun dağılmış en az dört noktadan doğrultu gözlemleriyle kestirilir.
+(5) Kenarlar, ölçme doğruluğu ±(3 mm+3 ppm) (dahil)’den daha iyi olan aletlerle karşılıklı olarak iki kez ölçülür. Alet ve işaret yükseklikleri cm duyarlığında ölçülür.
+(6) Kenar ölçüleri, ek-7’de yer alan biçimde GRS80 elipsoidine ve izdüşüm düzlemine indirgenir. İndirgenmiş kenarlar arasındaki farkın kenar uzunluğuna oranı 1/50000’den büyük olamaz.
+(7) Doğrultu gözlemleri; yatay açı ölçme doğruluğu ±6cc (2") (dahil)’den daha iyi olan aletlerle dörder seri yapılır.
+(8) C3 noktalarının koordinatları; bağlantı noktalarının koordinatları sabit alınarak, kenar ve doğrultulara uygun ağırlıklar verilerek, en küçük kareler yöntemiyle tek nokta ya da ağ dengelemesiyle bulunur. Konum doğrulukları bu maddenin dördüncü fıkrasında belirtilen noktalar için ±7 cm (dahil), diğer noktalar için ±5 cm (dahil)’den daha iyi olmalıdır.
+(9) Ana, ara veya yardımcı nivelman ağı içine alınamayan C3 noktalarının Helmert Ortometrik Yükseklikleri (H) karşılıklı trigonometrik veya geometrik nivelman yöntemiyle belirlenir. Daha sonra uygun jeoit yükseklikleri (N) kullanılarak noktaların elipsoit yükseklikleri (h=H+N) elde edilir.

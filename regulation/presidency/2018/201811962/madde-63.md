@@ -1,0 +1,3 @@
+Eş yükseklik eğrisi çizimi
+MADDE 63- (1) Yerleşim yerlerinin dışındaki alanlarda arazinin topoğrafik durumu eş yükseklik eğrileri ile gösterilir. Eş yükseklik eğrileri otomatik, yarı otomatik üretilen yükseklik noktalarından ya da operatör tarafından doğrudan çizilebilir. Otomatik ve yarı otomatik çizimde arazinin morfolojik yapısını belirleyen özellikler dikkate alınır. Eş yükseklik eğrileri ile gösterilemeyen düz arazilerde ve yerleşim yerleri içerisindeki boş alanlarda, yükseklikler kot noktaları ile gösterilir. Eş yükseklik eğrileri çiziminde bu Yönetmeliğin 78 inci maddesinde yer alan esaslar uygulanır.
+(2) Yerleşik alanlar ve yollarda harita üzerinde yaklaşık 2 cm’de bir, çatı ve teraslarda ise uygun köşelere yükseklik değerleri verilir.

@@ -1,0 +1,2 @@
+Yardımcı nivelman noktalarının ölçümü
+MADDE 37- (1) Yardımcı nivelman noktalarının yükseklikleri, ana ve ara nivelman noktalarına bağlı nivelman geçkilerinde gidiş-dönüş nivelmanı ile olabildiğince poligon noktalarından geçilerek belirlenir. Bu nivelmanda, gidiş-dönüş nivelmanıyla yükseklik farkını ±2.5 mm/km (dahil)’den daha iyi doğrulukla belirleyebilen nivo ve miralar kullanılır. Nivelman yolunun uzunluğu bağlantı noktaları arasındaki geometrik uzunluğun iki katını geçemez.

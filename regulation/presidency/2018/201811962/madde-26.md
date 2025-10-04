@@ -1,0 +1,4 @@
+Poligon işleri
+MADDE 26- (1) Detay noktalarının yersel yöntemlerle ölçülmesi için C1, C2 ve C3 noktalarına dayalı poligon dizileri oluşturulur.
+a) Poligon dizilerinin seçimi, ölçülmesi ve değerlendirilmesi; ana, ara ve yardımcı poligon geçkileri olarak planlanabileceği gibi poligon ağları biçiminde de planlanabilir. Toplam ana geçki uzunluğu en çok 1.600 m, ara geçki uzunluğu en çok 1.000 m ve yardımcı geçki uzunluğu en çok 600 m alınır. Zorunlu durumlarda, yerleşim yeri dışında geçki uzunlukları idarenin görüşü alınmak suretiyle geçki uzunluklarının en çok 1.5 katı olabilir. Geçkilerde, en büyük kenar uzunluğu 500 m’yi geçmemelidir. Planlanan poligon dizi veya ağlarındaki noktalar için bir seçim kanavası düzenlenir.
+b) Seçim kanavasının idarece onaylanmasını müteakip, poligon noktaları ek-4’te yer alan şekilde tesis edilir ve ek-6’da yer alan biçimde röperlenir.
