@@ -1,0 +1,4 @@
+Staj
+MADDE 14- (1) Fakülte öğrencilerinin yapacakları stajlar, Senato tarafından alınan esaslar çerçevesinde belirlenir. Bu esasları Fakülte Yönetim Kurulu tarafından görevlendirilen komisyon hazırlar; Fakülte Yönetim Kurulu ve Senato onaylar.
+(2) Fakültenin eğitim-öğretim programında altıncı yarıyılını tamamlayan öğrenciler dokuzuncu yarıyılın başlangıcına kadar, ders ve sınav dönemlerinin dışında, Fakülte içinde, başka bir kurumda veya mesleki çalışma alanlarında toplam 40 işgünü staj yaparlar.
+(3) Öğrenciler staj sonunda hazırlayacakları bir raporu Fakülte Öğrenci İşleri Bürosu aracılığıyla komisyona sunar. Komisyon bu raporları inceler ve yapacakları değerlendirme sonucunda öğrenciyi başarılı (G) veya başarısız (K) olarak değerlendirir. Başarısız olan öğrenciler stajı tekrarlamak ve değerlendirmeyi başarmak zorundadır.

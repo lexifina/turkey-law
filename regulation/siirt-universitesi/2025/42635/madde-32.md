@@ -1,0 +1,2 @@
+Yaz okulu
+MADDE 32- (1) Yaz okulunda diğer yükseköğretim kurumlarından ders almak isteyen öğrencilerin ilgili bölüm başkanlığına başvuru yapması gerekir. Bölüm başkanlığı onayı ve ilgili yönetim kurulu tarafından uygun bulunması halinde açılan derslerden ise en çok üç derse kayıt yaptırabilir. Son sınıf öğrencileri ise en fazla dört derse kayıt yaptırabilir. Yaz okuluna ilişkin diğer konularda Üniversite tarafından kabul edilen ilgili yönerge hükümleri uygulanır.

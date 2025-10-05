@@ -1,0 +1,14 @@
+Kayıt dondurma
+MADDE 11- (1) Kayıt dondurmak isteyen öğrencilerin derslerin başlama tarihini takip eden üçüncü haftanın son işgünü mesai bitimine kadar dilekçe ile müracaatta bulunmaları gerekmekte olup bu tarihten sonraki kayıt dondurma talepleri işleme alınmaz. Kayıt dondurmak isteyen öğrenciler kayıt dondurma talepleri için ilgili akademik birimin öğrenci işlerine başvurur. Talebin uygun görülmesi halinde başvuru tarihi esas alınarak kayıt dondurma işlemi ilgili birimin yönetim kurulu kararı ile öğrenci otomasyon sistemine işlenir.
+(2) Kaydını dondurmak isteyen öğrencinin, haklı ve geçerli mazeretini bildirmesi ve belgelemesi halinde, Fakülte Yönetim Kurulu kararı ile bir defada en çok iki yarıyıl ve öğrenim süresi boyunca toplam dört yarıyıl kayıt dondurabilir. Ancak rahatsızlığı ve tedavi sürecinin devam etmesi nedeniyle kayıt dondurma talebinde bulunan öğrenciler ile hükümlü öğrenciler için mazereti, Fakülte Yönetim Kurulu tarafından değerlendirilerek azami öğretim süresinden sayılmadan dört yarıyıldan fazla kayıt dondurulmasına izin verilebilir.
+(3) Kayıt dondurmuş öğrenci, derslere devam edemez ve öğrencilik haklarından yararlanamaz. İzni biten öğrenci, ayrıldığı yarıyıl başından itibaren öğrenciliğine devam eder. Kayıt dondurulan süre ile ilgili olarak, daha önce katkı payı ödenmiş ise iade edilmez. Öğrencinin kayıt dondurduğu sürede öğrenim ücreti/öğrenci katkı payı ödeyip ödemeyeceği ilgili mevzuat hükümlerine göre belirlenir. Öğrenciler, kayıt dondurma başvurularının sonuçlarını izlemek ve öğrenmekle yükümlüdür.
+(4) Azami öğrenim süresi sonunda olan öğrenciler, kayıt dondurma talebinde bulunamazlar.
+(5) Öğrencinin kaydının dondurabilmesi için haklı ve geçerli nedenlerin bulunması gerekir. Haklı ve geçerli nedenler şunlardır:
+a) Sağlık sorunu nedeniyle öğrenimine ara vermek zorunda kalması ve bunu Üniversite hastaneleri veya diğer sağlık kuruluşlarından alınacak sağlık raporu ile belgelendirmesi.
+b) Mahallin en büyük mülki amirince verilecek bir yazıyla belgelenmiş olması koşuluyla, doğal afetler nedeniyle öğrencinin öğrenimine ara vermek zorunda kalmış olması.
+c) Anne, baba, kardeş, eş veya çocuğunun ölümü ya da ağır hastalığı halinde bakacak başka kimsesinin bulunmaması nedeniyle öğrencinin öğrenimine ara vermek zorunda olduğunu belgelendirmesi ve bu durumun ilgili birim yönetim kurulunca kabul edilebilir olması.
+ç) Ekonomik nedenlerle izin talep eden ve bu durumunu belgeleyen öğrencinin, ilgili yönetim kurulunun izniyle eğitim ve öğretimine ara verilmesi.
+d) Genel hükümlere göre kesinleşmiş bir mahkûmiyet halinin veya 2547 sayılı Kanunun 54 üncü maddesine göre yükseköğretim kurumundan süreli olarak çıkarma cezası dışındaki hallerin bulunması.
+e) Öğrencinin askerlik tecil hakkını kaybetmesi veya tecilinin kaldırılması sureti ile askere alınması.
+f) Öğrencinin tutukluluk hali.
+g) İlgili birim yönetim kurulu tarafından mazeret olarak kabul edilecek diğer hallerin ortaya çıkması.

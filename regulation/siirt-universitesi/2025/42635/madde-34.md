@@ -1,0 +1,5 @@
+Diploma ve diploma eki
+MADDE 34- (1) Bir öğrencinin Fakülteden mezun olabilmesi için eğitim-öğretim programında öngörülen mezuniyeti için gerekli olan dersleri başarmış olması ve stajını tamamlamış olması gerekir. Fakültenin eğitim-öğretim programının ilk iki yılında veya ilk dört yarıyılında öngörülen tüm dersleri başarı ile tamamlayan öğrenciye, Fakülteden ayrılmak istemesi halinde ön lisans diploması verilir. Ön lisans diploması almak için yapılacak başvurular herhangi bir süre ile sınırlı değildir.
+(2) Fakültenin eğitim-öğretim programında öngörülen tüm dersleri bu Yönetmelik hükümlerine göre alarak başarıyla tamamlayan öğrenciler Veteriner Fakültesi Diploması ve diploma eki almaya hak kazanırlar.
+(3) Diplomaların şekli ve üzerinde yer alacak bilgiler Rektörlükçe düzenlenir. Diplomalar, Rektör ve Dekan tarafından elektronik imza ile imzalanır.
+(4) Diploma ve diploma eki verilmesi için Üniversite tarafından belirlenen ilgili yönerge ve ilgili yükseköğretim mevzuatı doğrultusunda işlem tesis edilir.

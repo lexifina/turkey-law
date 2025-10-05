@@ -1,0 +1,9 @@
+ÜÇÜNCÜ BÖLÜM
+Dersler, Sınavlar ve Not Değerlendirmeleri
+Ders türleri
+MADDE 12- (1) Fakültenin eğitim-öğretim programında aşağıda belirtilen dersler okutulur:
+a) Zorunlu dersler; Fakülte Kurulu tarafından belirlenen ve öğrencinin mutlaka almakla yükümlü olduğu derslerdir.
+b) Ortak zorunlu dersler; 2547 sayılı Kanunun 5 inci maddesinde belirtilen Atatürk İlkeleri ve İnkılap Tarihi, Türk Dili ve yabancı dil dersleridir. Bu dersler ile ilgili düzenlemeler ve işlemler Senato kararları doğrultusunda yapılır.
+c) Seçmeli dersler; öğrencinin alan içinden veya dışından isteği doğrultusunda seçerek aldığı derslerdir. Öğrenci bu dersleri, seçmeli ders adı altında açılmış olan dersler arasından seçer. Öğrenci seçmeli dersleri, öğretim planında yer alan sayıda ve derslerin yer aldığı yarıyıllarda almak ve başarmakla yükümlüdür. Anabilim dalları tarafından önerilen seçmeli derslerden hangilerinin açılacağı Fakülte Kurulunda görüşülerek Senato tarafından kararlaştırılır. Seçmeli derslerin en az kaç öğrenci için açılacağı Fakülte Kurulu kararı ile belirlenir. Seçmeli dersler yabancı dilde de açılabilir.
+ç) VEHİP eğitimi; öğrencilerin veteriner hekimlik nosyonu ile ilgili teorik bilgileri tamamlama ve daha fazla uygulama yaparak beceri kazanmalarını sağlamak amacıyla verilen eğitimler olup VEHİP ile ilgili hususlar Senato tarafından belirlenen esaslar çerçevesinde düzenlenir.
+d) Ortak seçmeli dersler; 2547 sayılı Kanunun 5 inci maddesinin birinci fıkrasının (ı) bendinde belirtilen beden eğitimi ve güzel sanat dallarındaki dersler olup öğrenciler bu iki dersten birini seçebilirler. Ortak seçmeli derslerin kayıt işlemleri, hangi sınıfta okutulacağı, öğrencilerin bu derslere devamı, sınavları, başarı durumlarının tespiti ve muafiyet konuları Fakülte Kurulunda görüşülerek Senato tarafından kararlaştırılır.
