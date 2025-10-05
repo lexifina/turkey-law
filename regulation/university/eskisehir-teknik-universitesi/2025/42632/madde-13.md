@@ -1,0 +1,4 @@
+Akademik danışman
+MADDE 13- (1) Her öğrenci için Bölüm Başkanının önerdiği öğretim elemanı, Dekan tarafından akademik danışman olarak görevlendirilir. Akademik danışman, öğrenciyi her yarıyıl başında ders seçimi sürecinde bilgilendirir ve akademik durumunu öğrenciyle birlikte değerlendirdikten sonra seçilen derse/derslere onay verir.
+(2) Akademik danışman, öğrenciyi öğrenimi boyunca izler, üniversite yaşamına uyum, mesleki gelişim, kariyer ve benzeri konularda bilgilendirir ve yönlendirir.
+(3) Akademik danışman, dönem boyunca öğrenciyle görüşme saatlerini ve haftalık ders programını kayıt işlemleri başlamadan önce ilan eder. Ekle-sil tarihlerinde geçerli bir mazereti nedeniyle Üniversitede bulunamayacak olan akademik danışman, durumunu bir yazıyla bölüm başkanlığına bildirir. Bölüm başkanı, bu danışmanın yerine kayıt süresince bir öğretim elemanının geçici akademik danışman olarak Dekanlık tarafından görevlendirilmesini sağlar ve bunu ilgili öğrencilere duyurur.

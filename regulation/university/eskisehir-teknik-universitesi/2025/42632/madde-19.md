@@ -1,0 +1,13 @@
+ÜÇÜNCÜ BÖLÜM
+Sınavlar ve Değerlendirmeye İlişkin Esaslar
+Sınavlar ve değerlendirme
+MADDE 19- (1) Her ders için yazılı olarak en az bir dönem içi sınavı ile dönem sonu sınavı yapılır. Bununla birlikte uygulamalı dersler için sadece dönem sonu sınavı yapılabilir. Birim Yönetim Kurulu, sınavın/sınavların sözlü veya pratik çalışma olarak yapılmasına karar verir. Eğitim El Kitabı kapsamında yürütülen uygulamalı uçuş derslerinin sınavları, ilgili safhaya uygun olarak fiili uçuşta veya uçuş simülasyon eğitim cihazında gerçekleştirilir. Uzaktan öğretim yoluyla verilen derslerde yapılacak ara sınav/sınavlar ilgili mevzuat hükümleri uyarınca gerçekleştirilir.
+(2) Sınav tarihleri, Birim Yönetim Kurulu tarafından belirlenir ve sınavlardan en az on beş gün önce ilan edilir. Eğitim El Kitabı kapsamında yürütülen uygulamalı uçuş derslerinin sınavları; meteorolojik, teknik ve benzeri koşullara göre uygun günlerde ve uçuş planıyla birlikte ilan edilerek yapılır.
+(3) Öğrencinin, bir dersin dönem sonu sınavına girebilmesi için devam koşulunu yerine getirmesi zorunludur.
+(4) Öğrencinin her bir dersten başarısı, dönem içi notuyla/notlarıyla dönem sonu sınavının notu birlikte değerlendirilerek belirlenir. Dönem içi notları; ara sınavı notu/notları ve/veya ödevlere, uygulamalara ve pratik çalışmalara verilen notlardan oluşur.
+(5) Başarı notu; dönem içi ve dönem sonu notlarıyla, notların yüzdelik bilgileri dikkate alınarak hesaplanır.
+(6) Ara sınavlara ve dönem sonu sınavlarına Senatonun belirlediği haklı ve geçerli mazeretleri nedeniyle katılamayan öğrencilere, Birim Yönetim Kurulu kararıyla mazeret sınav hakkı verilir.
+(7) Öğrencinin mazeret sınavına girebilmesi için; ilgili sınavın sona erdiği tarihi izleyen üç iş günü içinde mazeretini gösterir belgeyi, bir dilekçeyle birlikte kayıtlı olduğu birime teslim etmesi gerekir.
+(8) Ortak kodlu ve çok gruplu derslerin sınavları ortak yapılır. Derslerin harf notu aralıkları dersi veren öğretim elemanlarının ortak kararıyla belirlenir.
+(9) Dersten sorumlu öğretim elemanı, sınav notlarını öğrenci bilişim sisteminde onayladıktan sonraki on iş günü içinde sınav belgelerini Öğrenci İşleri Birimine imza karşılığında teslim eder. Sınav belgeleri, sınav tarihinden itibaren en az iki yıl süreyle saklanır.
+(10) Eğitim El Kitabı kapsamında yürütülen uygulamalı bir uçuş dersinin sınavına, Senato tarafından belirlenmiş haklı ve geçerli bir nedenle katılamayan öğrencinin, bulunduğu safhadaki hakkı saklı tutulur. Bu durumdaki öğrencinin mazeret sınavına girebilmesi için ilgili sınavın sona erdiği tarihi izleyen üç iş günü içinde mazeretini gösterir belgeyi, bir dilekçeyle birlikte Dekanlığa teslim etmesi gerekir.

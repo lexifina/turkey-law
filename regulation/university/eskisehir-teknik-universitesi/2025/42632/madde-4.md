@@ -1,0 +1,23 @@
+Tanımlar
+MADDE 4- (1) Bu Yönetmelikte geçen;
+a) AKTS: Avrupa Kredi Transfer Sistemini (ECTS),
+b) Birim: Eskişehir Teknik Üniversitesi Havacılık ve Uzay Bilimleri Fakültesini,
+c) Birim Kurulu: Eskişehir Teknik Üniversitesi Havacılık ve Uzay Bilimleri Fakültesi Kurulunu,
+ç) Birim Yönetim Kurulu: Eskişehir Teknik Üniversitesi Havacılık ve Uzay Bilimleri Fakültesi Yönetim Kurulunu,
+d) Bölüm Başkanı: Eskişehir Teknik Üniversitesi Havacılık ve Uzay Bilimleri Fakültesi Pilotaj Bölümü Başkanını,
+e) Değişim programları: Yükseköğretim kurumlarıyla protokol çerçevesinde yürütülen programları,
+f) Dekan: Eskişehir Teknik Üniversitesi Havacılık ve Uzay Bilimleri Fakültesi Dekanını,
+g) Dekanlık: Eskişehir Teknik Üniversitesi Havacılık ve Uzay Bilimleri Fakültesi Dekanlığını,
+ğ) DNO: Dönem not ortalamasını,
+h) Eğitim El Kitabı: Üniversitenin, Sivil Havacılık Genel Müdürlüğü tarafından pilotaj eğitimi için yetkilendirilmiş Onaylı Eğitim Organizasyonunun eğitim süreçlerine ilişkin el kitabını,
+ı) GNO: Genel not ortalamasını,
+i) Kredili sistem: Başarı notunun bağıl olarak değerlendirildiği sistemi,
+j) Öğrenci İşleri Birimi: Eskişehir Teknik Üniversitesi Havacılık ve Uzay Bilimleri Fakültesi Öğrenci İşleri Birimini,
+k) Program: Eskişehir Teknik Üniversitesi Havacılık ve Uzay Bilimleri Fakültesi Pilotaj lisans programını,
+l) Rektör: Eskişehir Teknik Üniversitesi Rektörünü,
+m) Safha: Pilotaj eğitiminde öğrencinin bilgi, beceri, tutum ve yetkinliklerini kademeli olarak geliştirmek amacıyla yapılandırılmış; teorik ve uygulamalı uçuş eğitim faaliyetlerini kapsayan ve başarı kriterleri tanımlanmış her bir eğitim aşamasını,
+n) Senato: Eskişehir Teknik Üniversitesi Senatosunu,
+o) Sertifika programı: Üniversitede bir uzmanlık alanına yönelik ve bağımsız olarak açılan dersleri,
+ö) Uçuş Kurulu: Eğitim El Kitabında amacı, yapısı ve yetkileri belirtilmiş olan Pilotaj Lisans Programı Uçuş Değerlendirme Kurulunu,
+p) Üniversite: Eskişehir Teknik Üniversitesini,
+ifade eder.
