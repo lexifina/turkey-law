@@ -1,0 +1,4 @@
+Dış sınavlarda İngilizce yeterlik
+MADDE 7- (1) UOLP öğrencilerinin İngilizce dil yeterliğini gösteren uluslararası sınavlar ve minimum puanları karşılıklı protokoller ile belirlenir ve Senato tarafından onaylanması ile yürürlüğe girer. Gerekli görüldüğünde, alınması gereken minimum puanlar üniversitelerle karşılıklı olarak yapılan protokoller ile yeniden belirlenir ve Senato tarafından onaylanması ile yürürlüğe girer.
+(2) Üniversiteye kabul edildikleri eğitim-öğretim yılında, uluslararası sınavlardan birinden başarılı olan UOLP hazırlık öğrencileri, sınav sonuç belgelerini ibraz etmeleri durumunda o dönem içerisinde İngilizce hazırlık öğretimine devam etmeyebilir ve takip eden yarıyılda fakültelerinde öğrenime başlar.
+(3) İbraz edilen sınav sonuçlarının geçerliliği kabul edilmeden önce Üniversite söz konusu sonuçlar hakkında araştırma yapar.

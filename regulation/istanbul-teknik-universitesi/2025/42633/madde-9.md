@@ -1,0 +1,5 @@
+Eğitim-öğretim süresi ve devam zorunluluğu
+MADDE 9- (1) Yüksekokul tarafından yürütülen UOLP İngilizce hazırlık programının azami süresi iki yıldır. Zorunlu ders ve uygulamalar, öğrencilerin Üniversiteye kabulünü takip eden iki yarıyılda verilir.
+(2) UOLP İngilizce hazırlık programı öğrencileri, hazırlık programında yürütülen ders ve uygulamaların en az %85'ine katılmakla yükümlüdür. Bu yükümlülüğü yerine getirmeyen öğrenciler devamsızlıkları nedeniyle başarısız sayılır ve derslere devam hakkını kaybederler.
+(3) Derslere devam edemeyen veya sınavlara giremeyen öğrenciler bu yöndeki mazeretlerini belgelendirmek zorundadırlar. Öğrenci mazeretleri ilgili mevzuat hükümlerine göre değerlendirilir. Bu esaslara göre mazeretleri kabul edilen öğrencilerin mazeretli olarak geçirdikleri süre öğrencinin devamsızlık süresinden düşülür.
+(4) UOLP İngilizce hazırlık programı öğrencilerinin almış oldukları raporların toplam süresi, ikinci fıkrada belirtilen bir yarıyılda katılmakla yükümlü oldukları ders ve uygulamaların toplam süresinin %10’unu geçemez.

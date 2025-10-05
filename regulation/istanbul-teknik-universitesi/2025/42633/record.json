@@ -1,0 +1,39 @@
+{
+  "checked_on": "2026-11-14",
+  "commencement_clauses": [
+    "MADDE 16- (1) Bu Yönetmelik yayımı tarihinde yürürlüğe girer."
+  ],
+  "date_evidence": [
+    [
+      "2025-10-05",
+      "05.10.2025",
+      "original gazette publication date in official listing"
+    ]
+  ],
+  "date_quote": "MADDE 16- (1) Bu Yönetmelik yayımı tarihinde yürürlüğe girer.",
+  "first_law": null,
+  "gazette": "33038",
+  "history": "current-text",
+  "images": {
+    "deferred": 0,
+    "omitted": 0,
+    "referenced": 0,
+    "source": 0
+  },
+  "in_force": "2025-10-05",
+  "in_force_basis": "source commencement clause: enters into force on gazette publication",
+  "issuer": "İstanbul Teknik Üniversitesi",
+  "issuer_slug": "istanbul-teknik-universitesi",
+  "kind": "regulation",
+  "label": "oldest version available",
+  "path": "regulation/istanbul-teknik-universitesi/2025/42633",
+  "published": "2025-10-05",
+  "source": "https://www.mevzuat.gov.tr/anasayfa/MevzuatFihristDetayIframe?MevzuatTur=8&MevzuatNo=42633&MevzuatTertip=5",
+  "source_bytes": 23361,
+  "source_id": "8.5.42633",
+  "source_sha256": "608f04fd4360cbccb4412ffdc42761c5f7bcffcd6a6c5701204b0347453343c3",
+  "text_status": "as-enacted",
+  "title": "İSTANBUL TEKNİK ÜNİVERSİTESİ ÇİFT DİPLOMAYA YÖNELİK\r\nULUSLARARASI ORTAK LİSANS İNGİLİZCE HAZIRLIK PROGRAMI EĞİTİM VE ÖĞRETİM YÖNETMELİĞİ",
+  "university_id": 203,
+  "word_count": 1087
+}
