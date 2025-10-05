@@ -1,0 +1,4 @@
+Dış sınavlarda İngilizce yeterlik
+MADDE 7- (1) Öğrenciler, İngilizce yeterliklerini Senato tarafından eşdeğerliği kabul edilen uluslararası dil sınavlarından biriyle de kanıtlayabilir. Bu sınav sonuçlarına göre İngilizce dil yeterliğini sağlayan öğrenciler, ilgili fakültede/yüksekokulda öğrenime başlar.
+(2) Üniversiteye kabul edildikleri eğitim-öğretim yılında, Senato tarafından eşdeğerliği kabul edilen uluslararası sınavlardan birinden başarılı olan lisans/ön lisans hazırlık öğrencileri, sınav sonuç belgelerini ibraz etmeleri durumunda o dönem içerisinde İngilizce hazırlık programına devam etmeyebilir ve takip eden yarıyılda fakültelerinde/yüksekokullarında öğrenime başlar.
+(3) İbraz edilen sınav sonuçlarının geçerliliği kabul edilmeden önce Üniversite gerektiğinde söz konusu sonuçlar hakkında araştırma yapar.
