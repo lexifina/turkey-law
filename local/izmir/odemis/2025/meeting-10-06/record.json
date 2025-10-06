@@ -1,0 +1,27 @@
+{
+  "number": "meeting-10-06",
+  "number_as_published": "meeting-10-06",
+  "year": 2025,
+  "title": "06.10.2025 Tarihli Ödemiş Belediye Meclisi Toplantı Karar Özetleri",
+  "decision_date": "2025-10-06",
+  "source": "https://www.odemis.bel.tr/mecliskararlari",
+  "official_document": "https://www.odemis.bel.tr/upload/mecliskararlari/k6vC9vF3rVwKVo9.pdf",
+  "source_sha256": "31df6ed9dc84f7303ec41a3f94ef6b4e1c39652db167b8a24b7eff3c8fa4b56d",
+  "issuer": "Ödemiş Belediye Meclisi",
+  "history_type": "metadata",
+  "text_status": "metadata-only: listing fields as published; complete decision text is in the linked official document, not transcribed",
+  "in_force": "2025-10-06",
+  "in_force_basis": "Decision date as printed in the official council listing: 06.10.2025; adoption date of the council decision; legal commencement not asserted",
+  "missing": [
+    "complete official decision text",
+    "official annexes"
+  ],
+  "law_text_complete": false,
+  "privacy_withheld": false,
+  "listing_label": "06.10.2025 Tarihli Ödemiş Belediye Meclisi Toplantı Karar Özetleri",
+  "record_scope": "one official file of council decisions (meeting)",
+  "file_name": "20251006_kararlar.pdf",
+  "list_date": "2025-10-06",
+  "list_number": "101-106",
+  "official_page": "https://www.odemis.bel.tr/mecliskararlari"
+}
