@@ -1,0 +1,21 @@
+{
+  "record_type": "parliament-written-question",
+  "term": 28,
+  "legislative_year": 4,
+  "esas_no": "7/34697",
+  "submitted": "2025-10-06",
+  "submitted_as": "Başkanlığa geliş tarihi",
+  "mp": "Sezai TEMELLİ",
+  "province": "Muş",
+  "summary": "Elazığ 1 Nolu Yüksek Güvenlikli Cezaevi İdare ve Gözlem Kurulunun verdiği kararlara ilişkin",
+  "status": "Süresi Geçtikten Sonra Cevaplandı",
+  "status_as_of": "2026-11-16",
+  "official_record": "https://www.tbmm.gov.tr/Denetim/Yazili-Soru-Onergesi-Detay/36d3dc5e-1d2d-4a11-8183-0199bdb72351",
+  "source": "https://tbmm.gov.tr/Denetim/YaziliSoruOnergesiTable",
+  "source_form": "https://tbmm.gov.tr/Denetim/Yazili-Soru-Onergeleri",
+  "source_sha256": "0b201c0e6c80ee5b669c62ea8f6fc614e29e14ac162d4c49222c4204ccf2f67e",
+  "in_force": "2025-10-06",
+  "in_force_basis": "Date the question reached the Speaker (Başkanlığa geliş tarihi) in the official TBMM written-question record; parliamentary oversight record, not law",
+  "history_type": "metadata",
+  "text_status": "metadata-only: question text, addressee and answers are in the linked official record (PDFs on cdn.tbmm.gov.tr); not transcribed here"
+}
