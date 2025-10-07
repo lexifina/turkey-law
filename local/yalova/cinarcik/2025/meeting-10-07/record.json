@@ -1,0 +1,25 @@
+{
+  "number": "meeting-10-07",
+  "number_as_published": "meeting-10-07",
+  "year": 2025,
+  "title": "07 Eki Ekim 2025 Olağan Meclis Toplantısı 7 Ekim 2025 Salı · 4 karar",
+  "decision_date": "2025-10-07",
+  "source": "https://www.cinarcik.bel.tr/kurumsal/meclis/2025-ekim",
+  "official_document": "https://www.cinarcik.bel.tr/kurumsal/meclis/2025-ekim",
+  "source_sha256": "3ba5a2d01433223a1c9c403349f48c88c10d4373fbf3136aecc11781bfc62a73",
+  "issuer": "Çınarcık Belediye Meclisi",
+  "history_type": "metadata",
+  "text_status": "metadata-only: listing fields as published; complete decision text is in the linked official document, not transcribed",
+  "in_force": "2025-10-07",
+  "in_force_basis": "Decision date as printed in the official council listing: 7 EKİM 2025; adoption date of the council decision; legal commencement not asserted",
+  "missing": [
+    "complete official decision text",
+    "official annexes"
+  ],
+  "law_text_complete": false,
+  "privacy_withheld": false,
+  "listing_label": "07 Eki Ekim 2025 Olağan Meclis Toplantısı 7 Ekim 2025 Salı · 4 karar",
+  "record_scope": "one official file of council decisions (meeting)",
+  "official_page": "https://www.cinarcik.bel.tr/kurumsal/meclis/2025-ekim",
+  "document_note": "the decisions are published as text on the official page itself (no separate file); not transcribed here"
+}
