@@ -1,0 +1,20 @@
+Tanımlar
+MADDE 4- (1) Bu Yönetmelikte geçen;
+a) Ağırlıklı genel not ortalaması (AGNO): Öğrencinin Burdur Mehmet Akif Ersoy Üniversitesi Diş Hekimliği Fakültesinde öğrenime başladığı andan itibaren, tamamlamış olduğu yarıyıl da dahil olmak üzere almış olduğu tüm derslerin katılımıyla elde edilen ve başarısını belirleyen ortalamasını,
+b) AKTS: Ders kredilendirilmesinde ortak parametre olarak kullanılan Avrupa Kredi Transfer Sistemini,
+c) Anabilim dalı: Burdur Mehmet Akif Ersoy Üniversitesi Diş Hekimliği Fakültesi bölümlerine bağlı anabilim dallarını,
+ç) Birim Kalite Komisyonu: Fakülte bünyesinde akademik, idari ve eğitim-öğretim süreçlerinin kalitesini arttırmak amacıyla oluşturulan komisyonu,
+d) Bölüm: Fakülteye bağlı temel bilimler ve klinik bilimler dallarını kapsayan birimi,
+e) Dekan: Burdur Mehmet Akif Ersoy Üniversitesi Diş Hekimliği Fakültesi Dekanını,
+f) Eğitim komisyonu: Dekan veya eğitim-öğretimden sorumlu dekan yardımcısı başkanlığında Fakültede tüm dönemlerin eğitim-öğretim programlarının planlanması, yürütülmesi ve koordinasyonundan sorumlu olmak üzere en az iki sınıf koordinatörlerinden oluşan mezuniyet öncesi eğitim komisyonunu,
+g) Fakülte: Burdur Mehmet Akif Ersoy Üniversitesi Diş Hekimliği Fakültesini,
+ğ) Fakülte Kurulu: Burdur Mehmet Akif Ersoy Üniversitesi Diş Hekimliği Fakülte Kurulunu,
+h) Fakülte Yönetim Kurulu: Burdur Mehmet Akif Ersoy Üniversitesi Diş Hekimliği Fakülte Yönetim Kurulunu,
+ı) Mezuniyet projesi: Öğrencilerin mezun olması için dördüncü sınıfın bahar yarıyılı başlangıcında alınıp beşinci sınıfta sunulan çalışmayı,
+i) Senato: Burdur Mehmet Akif Ersoy Üniversitesi Senatosunu,
+j) Sınıf koordinatörü: Her eğitim-öğretim yılının başında Dekanlık tarafından bir yıl süreyle atanan, sorumlu olduğu sınıfın eğitim-öğretim programlarının planlanması, yürütülmesi ve koordinasyonunda eğitim komisyonu başkanına yardım etmekle sorumlu öğretim üyesini,
+k) Rektör: Burdur Mehmet Akif Ersoy Üniversitesi Rektörünü,
+l) Üniversite: Burdur Mehmet Akif Ersoy Üniversitesini,
+m) YÖK: Yükseköğretim Kurulu Başkanlığını,
+n) Yönetim Kurulu: Burdur Mehmet Akif Ersoy Üniversitesi Yönetim Kurulunu,
+ifade eder.

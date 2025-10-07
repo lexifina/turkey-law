@@ -1,0 +1,5 @@
+Derslere devam ve mazeret durumu
+MADDE 19- (1) Öğrencilerin teorik derslere en az %70, pratik ve klinik uygulamalara ise en az %80 oranında devam etmeleri zorunludur. Devam durumu, Dekanlık tarafından belirlenen usullere uygun şekilde, öğretim elemanlarının yaptığı yoklamalar ile tespit edilir. Devamsızlık, yapılan yoklamalara dayalı olarak ve her imzanın bir ders saati kabul edilmesiyle, dersin ilgili akademik yıldaki toplam saatine göre hesaplanır.
+(2) Teorik derslerin %30’undan; uygulamalı dersler, klinik uygulamalar ve laboratuvarların %20’sinden fazlasına katılmayan öğrenciler devamsız kabul edilir. Bu öğrenciler, ilgili dersin yarıyıl/yıl sonu sınavlarına ve klinik uygulama sonu sınavlarına katılamaz.
+(3) Ortak zorunlu dersler ve seçmeli dersler dışında, tekrarlanan derslerde önceki yıl devam şartı yerine getirilmiş olsa dahi yeniden devam şartı aranır.
+(4) Haklı ve geçerli mazereti olan öğrenciler, durumlarını resmi belgelerle belgelendirdikleri takdirde, devam durumlarına ilişkin karar Fakülte Yönetim Kurulu tarafından alınır.

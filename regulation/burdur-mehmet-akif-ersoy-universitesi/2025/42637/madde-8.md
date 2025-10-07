@@ -1,0 +1,7 @@
+Kayıt yenileme
+MADDE 8- (1) Her öğrenci, Senato tarafından belirlenen veya Fakülte tarafından duyurulan akademik takvime uygun olarak yıl veya yarıyıl başında kaydını yeniler, ders kaydını tamamlar ve sınıf koordinatörüne onaylatır.
+(2) Öğrenciler, akademik takvimde belirtilen süre içinde, sınıf koordinatörünün onayıyla yeni ders ekleyebilir veya seçtikleri dersi bırakabilirler.
+(3) Akademik takvimde belirtilen süreler içinde kaydını yenilemeyen öğrenciler, ilgili yarıyıl veya akademik yıl boyunca öğrencilik haklarından faydalanamaz, derslere katılamaz ve sınavlara giremez. Bu süre, 2547 sayılı Kanunda belirtilen öğrenim süresinden sayılır.
+(4) Haklı ve geçerli bir mazereti nedeniyle kaydını yenileyemeyen öğrenciler, mazeretlerini içeren dilekçeyle akademik takvimde belirtilen mazeretli geç kayıt süresi içinde kayıt yenileme başvurusu yapabilirler. Kayıt yenileme işleminin onayı Fakülte Yönetim Kurulu tarafından verilir. Kayıt yenileme sürecinin tüm aşamalarından öğrenci sorumludur.
+(5) Kaydını yenileyen öğrenci, ilgili yarıyıl veya akademik yıl ders programına kayıt olmuş kabul edilir ve derslere katılma hakkı kazanır. Sınıfta kalarak aynı sınıfa tekrar kayıt yaptıran öğrenciler, yalnızca başarısız oldukları derslere kayıtlı sayılır ve yalnızca bu derslerden sorumlu tutulurlar. Üst sınıflardan ders alamazlar.
+(6) Yabancı uyruklu öğrencilerin kayıt işlemleri, ilgili mevzuat hükümleri ve Senato tarafından belirlenen usul ve şartlara uygun olarak gerçekleştirilir.

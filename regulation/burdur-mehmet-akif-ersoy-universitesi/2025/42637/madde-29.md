@@ -1,0 +1,2 @@
+Mezuniyet başarısının derecelendirilmesi
+MADDE 29- (1) Fakültenin eğitim-öğretim programında yer alan tüm teorik, klinik ve uygulamalı dersleri, bu Yönetmelik hükümleri çerçevesinde başarıyla tamamlayan öğrencilere şu belgeler verilir: AGNO’su 4,00 üzerinden 3,00 ile 3,49 arasında olanlara başarı belgesi, AGNO’su 3,50 ve üzerinde olanlara ise üstün başarı belgesi takdim edilir. Bu durum, öğrencinin diploma ekinde belirtilir.

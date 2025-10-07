@@ -1,0 +1,2 @@
+Değişim programları
+MADDE 9- (1) Üniversite ile yurt içi ve yurt dışındaki üniversitelerle yapılan anlaşmalar kapsamında öğrenci değişim programları uygulayabilir. Bu programlar doğrultusunda öğrenciler, bir yıl süreyle belirlenen yükseköğretim kurumlarına gönderilebilir. Değişim programları; Senato kararları, ikili anlaşmalar, YÖK tarafından belirlenen esaslar ve ilgili mevzuat hükümlerine uygun olarak yürütülür.

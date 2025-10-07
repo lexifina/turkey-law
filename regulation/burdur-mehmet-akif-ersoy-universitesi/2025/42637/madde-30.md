@@ -1,0 +1,5 @@
+Diplomalar
+MADDE 30- (1) Fakültede aşağıdaki diplomalar verilir:
+a) Temel diş hekimliği bilimleri ön lisans diploması: Beş yıllık diş hekimliği eğitim programını başarıyla tamamlamayan veya tamamlayamayan öğrencilere, 18/3/1989 tarihli ve 20112 sayılı Resmî Gazete’de yayımlanan Lisans Öğrenimlerini Tamamlamayan veya Tamamlayamayanların Ön Lisans Diploması Almaları veya Meslek Yüksekokullarına İntibakları Hakkında Yönetmelikte belirtilen şartları sağlamaları halinde, temel diş hekimliği bilimleri ön lisans diploması verilir. Bu diplomayı alan öğrenciler mezun kabul edilir ve lisans öğrenimlerine devam edemezler.
+b) Diş hekimliği diploması: Beş yıllık diş hekimliği eğitim programını başarıyla tamamlayanlara diş hekimliği diploması ile birlikte diş hekimi unvanı verilir. Diploma yalnızca bir kez verilir. Diplomanın kaybolması ya da mahkeme kararına bağlı kimlik bilgisi değişiklikleri, ilgili mevzuat hükümlerine uygun olarak düzenlenir.
+(2) Mezun olmaya hak kazanmış ancak diploması henüz düzenlenmemiş olan öğrenciler, e-Devlet adresi üzerinden mezun belgesi alabilirler. Bu belgede doğrulama kodu (karekod) bulunur.

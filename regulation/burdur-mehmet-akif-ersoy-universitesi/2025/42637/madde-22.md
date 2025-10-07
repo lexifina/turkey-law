@@ -1,0 +1,4 @@
+Sınav sonuçlarının ilanı ve sınav notuna itiraz
+MADDE 22- (1) Her sınavın sonuçları ve ilgili belgeleri, sınav tarihinden itibaren en geç on beş gün içinde Dekanlığa teslim edilir. Sınav sonuçları, Öğrenci Bilgi Sistemi üzerinden duyurulur.
+(2) Öğrenciler, teorik ders sınav sorularına ve sonuçlarına ilişkin itirazlarını, sonuçların ilan edildiği tarihten itibaren üç iş günü içinde yazılı olarak Dekanlığa iletirler. İtirazlar yalnızca maddi hata açısından değerlendirilir. Bölüm başkanlığı, itirazı incelemek üzere sorumlu öğretim üyesine yönlendirir. Sınav sonucunda bir değişiklik olması halinde, Fakülte Yönetim Kurulu tarafından görüşülerek değerlendirme yapılır. Fakülte Yönetim Kurulu, nihai sonucu on beş iş günü içinde Rektörlüğe bildirir.
+(3) Maddi hata gerekçesi dışında, sınav notlarında hiçbir değişiklik yapılamaz.
