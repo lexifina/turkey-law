@@ -1,0 +1,3 @@
+Geçici Belgenin Belgeye dönüştürülmesi
+MADDE 7 – (1) (Değişik:RG-20/6/2013-28683) Organizatörler, geçici belgenin geçerlilik süresi içerisinde 9 uncu maddenin yedinci fıkrasında belirtilen asgari katılımcı şartını sağlayan en az dört Milli Katılım Organizasyonu gerçekleştirmek zorundadır.
+(2) (Değişik:RG-7/3/2012-28226) Geçici belgeye sahip organizatörlerin gerçekleştirdiği fuarların fuar puanının katılımcı sayısına göre ağırlıklandırılmış ortalamasına Bakanlıkça (İhracat Genel Müdürlüğü) 20 üzerinden verilecek puanın ilavesi ile elde edilen organizatör puanı 70 ve üzeri olan organizatörlere B sınıfı belge düzenlenir.

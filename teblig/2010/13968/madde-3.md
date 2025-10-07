@@ -1,0 +1,23 @@
+Tanımlar
+MADDE 3 – (1) (Değişik:RG-7/3/2012-28226) Bu Tebliğde geçen;
+a) (Değişik:RG-7/10/2025-33040) Bakanlık: Ticaret Bakanlığını,
+b) Belge: Bakanlık tarafından bu Tebliğ hükümleri çerçevesinde öngörülen şartları yerine getiren organizatörlere yurt dışında fuar düzenleme yetkisi tanıyan A ve B sınıfı belgeyi,
+c) Fuar Puanı: Organizatörlerin düzenledikleri her bir yurt dışı fuar organizasyonu için katılımcı ve gözlemcilerin değerlendirmeleri sonucunda 80 üzerinden aldıkları puanı,
+ç) Geçici Belge: Bakanlık tarafından bu Tebliğ hükümleri çerçevesinde düzenlenen ve düzenlendiği tarihten sonraki yılın başından itibaren 2 yıl süre ile geçerli olan belgeyi,
+d) Genel Müdürlük: İhracat Genel Müdürlüğünü,
+e) Gözlemci: Bakanlık tarafından yurt dışındaki fuarlarda denetleme ve değerlendirme görevini yerine getirmek üzere görevlendirilen personeli,
+f) İzleme Raporu: Fuarların ziyaretçi ve katılımcı bilgilerini denetleyerek, doğruluğunu kontrol eden, organizatörden bağımsız ve Bakanlıkça (İhracat Genel Müdürlüğü) uygun görülen bir denetim şirketi veya kuruluşu tarafından hazırlanan raporu,
+g) (Değişik:RG-7/10/2025-33040) Katılımcı: Bu Tebliğ kapsamındaki yurt dışı fuar organizasyonlarına katılan 13/11/2011 tarihli ve 6102 sayılı Türk Ticaret Kanunu hükümleri çerçevesinde kurulmuş, İhracatçı Birliğine üye şirket ile Türkiye’de yerleşik üretici/imalatçı kuruluşunu,
+ğ) Kuruluşlar: İhracatçı Birlikleri ve İstanbul Ticaret Odasını,
+h) Milli Katılım: Yurt dışında düzenlenen genel veya sektörel nitelikteki uluslararası fuarlara Türk firmalarının Bakanlık tarafından görevlendirilen organizatör koordinatörlüğünde gerçekleştirdiği toplu katılımları,
+ı) Organizatör: Bakanlık tarafından adına geçici belge veya belge düzenlenmiş, yurt dışında Türk İhraç Ürünleri Fuarı, Sektörel Türk İhraç Ürünleri Fuarı, Yabancı Firma Katılımlı Sektörel Fuar ve Milli Katılım organizasyonu gerçekleştirme yetkisi verilen firma ve kuruluşları,
+i) Organizatör Puanı: Katılımcı sayısına göre ağırlıklandırılmış ortalama fuar puanına Bakanlıkça 20 üzerinden verilen puanın ilavesi ile bir yıllık performansı 100 üzerinden gösteren puanı,
+j) Sektörel Türk İhraç Ürünleri Fuarı: Organizatörlerce yalnızca sektörel Türk ihraç ürünlerinin tanıtımı amacıyla düzenlenen yurt dışı fuarları,
+k) Takvim yılı: Bakanlık tarafından görevlendirilen organizatörlerin yurt dışı fuar organizasyonlarını gerçekleştirdikleri 1 Ocak-31 Aralık tarihleri arasındaki bir yıllık dönemi,
+l) Türk İhraç Ürünleri Fuarı: Organizatörlerce yalnızca Türk ihraç ürünlerinin tanıtımı amacıyla düzenlenen yurt dışı fuarları,
+m) Yabancı Firma Katılımlı Sektörel Fuar: Organizatörlerce düzenlenen ve katılımcıların yanı sıra yabancı katılımcılarla gerçekleştirilen sektörel nitelikli yurt dışı fuarları,
+n) Yabancı Katılımcı: Bir fuarın Türk katılımcıları haricindeki katılımcılarını,
+o) (Değişik:RG-7/10/2025-33040) Yurt Dışı Fuar Organizasyonu: Türk ihraç ürünlerinin tanıtılması ve pazarlanması amacıyla Bakanlık tarafından görevlendirilen yurt dışı fuar organizatörü koordinatörlüğünde yurt dışında düzenlenen Türk İhraç Ürünleri Fuarı, Sektörel Türk İhraç Ürünleri Fuarı, Yabancı Firma Katılımlı Sektörel Fuar ve Milli Katılım organizasyonunu,
+ö) Yurt Dışı Fuarcılık Komitesi: Yurt dışı fuarcılık sektörümüzün verimliliğinin ve uluslararası rekabet gücünün artırılması, fuar düzenlenecek hedef ülkeler ve sektörlere ilişkin stratejilerin belirlenmesi, fuar organizasyonlarına katılan firmalarımızın yurt dışı pazarlama ve tanıtım faaliyetlerine katkı sağlanması ve fuarcılık politikalarının geliştirilmesine yardımcı olunması amacıyla İhracat Genel Müdürü Başkanlığında, Genel Müdürlük temsilcilerinin yanı sıra, Türkiye İhracatçılar Meclisi, Bakanlık (İhracat Genel Müdürlüğü) tarafından uygun görülen İhracatçı Birlikleri ve organizatörlerden birer temsilcinin katılımıyla oluşan komiteyi,
+p) (Ek:RG-20/6/2013-28683) Haksız Ödeme: Destekleme ve Fiyat İstikrar Fonundan ihracata yönelik devlet yardımları kapsamında organizatöre yapıldığı tespit edilen her türlü fazla ve/veya yersiz ödemeyi,
+ifade eder.

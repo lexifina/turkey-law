@@ -1,0 +1,2 @@
+Belge sahibi organizatörlerce asgari yurt dışı fuar organizasyonu düzenlenmesi (Değişik madde başlığı:RG-7/3/2012-28226)
+MADDE 8 – (1) (Değişik:RG-20/6/2013-28683) Belge sahibi organizatörlerden B sınıfı belgeye sahip olanlar bir takvim yılı içerisinde en az beş, A sınıfı belgeye sahip olanlar en az on yurt dışı fuar organizasyonunu düzenlemek zorundadır. 9 uncu maddenin yedinci, sekizinci, dokuzuncu ve onuncu fıkralarında belirtilen asgari katılımcı şartlarını sağlamayan yurt dışı fuar organizasyonları bu kapsamda dikkate alınmaz.

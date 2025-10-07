@@ -1,0 +1,3 @@
+Yurt dışı fuarcılık komitesi
+MADDE 16 – (Değişik:RG-7/3/2012-28226)
+(1) Yurt Dışı Fuarcılık Komitesi, yurt dışı fuarcılık sektörümüzün verimliliğinin ve uluslararası rekabet gücünün artırılması, fuar düzenlenecek hedef ülkeler ve sektörlere ilişkin stratejilerin belirlenmesi, fuar organizasyonlarına katılan firmalarımızın yurtdışı pazarlama ve tanıtım faaliyetlerine katkı sağlanması ve fuarcılık politikalarının geliştirilmesine yardımcı olunması amacıyla, yılda en az bir defa olmak üzere Bakanlık (İhracat Genel Müdürlüğü) tarafından belirlenecek tarihlerde istişari nitelikte görüşmeler yapmak üzere toplantıya çağırılır.

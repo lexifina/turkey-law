@@ -1,0 +1,4 @@
+GEÇİCİ MADDE 1 – (1) Bu Tebliğ’in yayımlandığı tarih itibariyle C sınıfı belgeler B sınıfı belgeye dönüştürülür ve teminatları bu Tebliğ’in 15 inci maddesine göre yeniden düzenlenir. Bu Tebliğ’in yürürlüğe girmesinden önce gerçekleştirilen 2010 yılı fuarları da bu Tebliğ hükümlerince değerlendirilir ve puanları bu Tebliğ çerçevesinde yeniden hesaplanır.
+(2) Bu Tebliğ’in 9 uncu maddesinin 2 nci fıkrasında ifade edilen en az altı ay önceden başvurma şartı, bu Tebliğ’in yürürlüğe girdiği tarihten itibaren üç aylık süre içerisinde, en az dört ay önceden başvurma şartı olarak uygulanır.
+(3) (Mülga:RG-25/4/2014-28982)
+(4) Bu Tebliğ’in 9 uncu maddesinin (Değişik ibare:RG-7/10/2025-33040) yirmi ikinci fıkrasındaki İzleme Raporu şartı bu Tebliğ’in yayımladığı tarihten itibaren dört ay sonra başlayacak fuarlarda uygulanır.

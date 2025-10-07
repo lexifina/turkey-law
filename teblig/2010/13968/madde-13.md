@@ -1,0 +1,5 @@
+Belge sahibi organizatörlere yönelik müeyyideler
+MADDE 13 – (1) (Değişik:RG-7/3/2012-28226) 8 inci maddede belirtilen asgari yurt dışı fuar organizasyonu şartını veya 11 inci maddenin altıncı ve yedinci fıkralarında belirtilen asgari puan şartını yerine getirmeyen veya Bakanlıkça izin verilmemiş yurt dışı fuar organizasyonları için Bakanlık logosunu kullanan organizatörün belgesi bir alt belge sınıfına dönüştürülür.
+(2) (Değişik:RG-7/10/2025-33040) 5 inci maddede aranılan şartları muhafaza etmediğinin veya 4 üncü maddenin birinci fıkrasının (h) bendindeki yükümlülüğünü yerine getirmediğinin Bakanlıkça tespit edilmesi üzerine organizatöre verilecek ek bir aylık sürede eksikliğin tamamlanmaması durumunda, organizatörün belgesi iptal edilir ve iptal tarihinden itibaren bir yıl süreyle geçici belge düzenlenmez. Bir yılın sonunda, 5 inci maddede belirtilen belgelerle Bakanlığa müracaat edilerek geçici belge talebinde bulunabilir.
+(3) (Mülga:RG-7/10/2025-33040)
+(4) (Değişik:RG-7/10/2025-33040) İki defa belgesi veya geçici belgesi iptal edilen organizatörün yeni geçici belge talebi iptalin tebliğinden itibaren beş yıl süre ile değerlendirmeye alınmaz.

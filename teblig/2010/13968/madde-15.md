@@ -1,0 +1,10 @@
+Teminat
+MADDE 15 – (Değişik:RG-7/3/2012-28226)
+(1) (Değişik:RG-20/6/2013-28683) Organizatörlerden;
+a) A sınıfı belge sahibi olanlar 150 bin ABD Doları,
+b) B sınıfı belge sahibi olanlar 250 bin ABD Doları,
+c) Geçici belge müracaatında bulunanlar 500 bin ABD Doları,
+tutarındaki nakit parayı (Değişik ibare:RG-7/10/2025-33040) T.C. Ziraat Bankası A.Ş.’deki ya da Ziraat Katılım Bankası A.Ş.’deki “Muhtelif Borçlar-Bloke Paralar” hesabına teminat olarak yatırmak veya bu tutardaki süresiz kat’i banka teminat mektubunu Bakanlığa teslim etmek zorundadır. Organizatör firmalar, Bakanlıkça teminat mektuplarının yenilenmesinin talep edilmesi durumunda teminat mektubunu yenilemek, Bakanlıkça teminatın 14 üncü madde kapsamında kullanılması durumunda ise kullanılan miktar kadar bedeli aynı hesaba yatırmak veya bu bedel kadar kat’i banka teminat mektubunu Bakanlığa teslim etmek zorundadır. Bildirim yazısının kendilerine gönderildiği tarihten itibaren en geç bir ay içerisinde bu yükümlülüğü yerine getirmeyen organizatörlerin belgeleri iptal edilir.
+(2) Anılan hesap Bakanlıkça izlenir ve belge veya geçici belgenin iptali halinde, katılımcıların mağduriyetinin giderilmesine ilişkin bu Tebliğ’de düzenlenen diğer hükümler saklı kalmak kaydıyla Bakanlığın talimatı üzerine hesapta bloke edilen döviz veya kat’i teminat mektubu organizatör firmaya iade edilir. Bakanlık, gerekli görmesi halinde geçici belgesi veya belgesi iptal edilen organizatörün teminatını 14 üncü madde hükümleri çerçevesinde uygun göreceği süre kadar iade etmemeye yetkilidir.
+(3) Organizatörler, bu Tebliğde yer alan düzenlemeler sonucu sahip oldukları geçici belge veya belge sınıfının değişmesi durumunda, yeni belge sınıfına yönelik Bakanlıkça yapılan tebligatı takip eden bir aylık süre zarfında ilave teminata ilişkin yükümlülüğünü yerine getirmek zorundadırlar. Bu yükümlülüğü yerine getirmeyen organizatörlerin belgeleri iptal edilir. Geçici belgesi B sınıfı belgeye veya B sınıfı belgesi A sınıfına yükselen organizatörlerin teminatları, aradaki fark kadar iade edilir.
+(4) Bu Tebliğde tanımlanan kuruluşlar için bu maddede belirtilen teminat hükümleri uygulanmaz.

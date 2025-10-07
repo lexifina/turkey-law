@@ -1,0 +1,74 @@
+{
+  "source_id": "9.5.13968",
+  "kind": "communique",
+  "register_kind": "Tebliğler",
+  "title": "YURT DIŞINDA FUAR DÜZENLENMESİNE VE DEĞERLENDİRİLMESİNE İLİŞKİN TEBLİĞ (İHRACAT: 2010/5)",
+  "number": "13968",
+  "path": "teblig/2010/13968",
+  "source": "https://www.mevzuat.gov.tr/anasayfa/MevzuatFihristDetayIframe?MevzuatTur=9&MevzuatNo=13968&MevzuatTertip=5",
+  "source_sha256": "a56840ead17938e3e02bf7305c3fd57e6fa75263078ff80f1000f0b2706f3885",
+  "source_bytes": 75812,
+  "published": "2010-05-07",
+  "gazette": "27574",
+  "in_force": "2025-10-07",
+  "in_force_basis": "latest Resmî Gazete date printed in the source amendment notes/table (\"RG-7/10/2025\") for the current consolidated text",
+  "date_evidence": [
+    [
+      "2025-10-07",
+      "RG-7/10/2025",
+      "Resmî Gazete date printed in the source amendment note"
+    ],
+    [
+      "2025-10-07",
+      "7/10/2025",
+      "Resmî Gazete date in the source amendment table"
+    ],
+    [
+      "2014-04-25",
+      "RG-25/4/2014",
+      "Resmî Gazete date printed in the source amendment note"
+    ],
+    [
+      "2014-04-25",
+      "25/4/2014",
+      "Resmî Gazete date in the source amendment table"
+    ],
+    [
+      "2013-06-20",
+      "RG-20/6/2013",
+      "Resmî Gazete date printed in the source amendment note"
+    ],
+    [
+      "2013-06-20",
+      "20/6/2013",
+      "Resmî Gazete date in the source amendment table"
+    ],
+    [
+      "2012-03-07",
+      "RG-7/3/2012",
+      "Resmî Gazete date printed in the source amendment note"
+    ],
+    [
+      "2012-03-07",
+      "7/3/2012",
+      "Resmî Gazete date in the source amendment table"
+    ]
+  ],
+  "commencement_clauses": [
+    "Bu Tebliğ yayımı tarihinde yürürlüğe girer"
+  ],
+  "history": "current-text",
+  "label": "oldest version available",
+  "checked_on": "2026-11-15",
+  "word_count": 3991,
+  "text_status": "current-consolidated",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  },
+  "source_links": [
+    "9.5.13968%20ekler.zip"
+  ],
+  "completeness": "html-text-complete; linked annexes not fetched"
+}
