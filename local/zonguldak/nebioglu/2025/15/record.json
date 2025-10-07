@@ -1,0 +1,26 @@
+{
+  "number": "15",
+  "number_as_published": "2025/15",
+  "year": 2025,
+  "title": "Ekim 15 No lu Meclis Kararı",
+  "decision_date": "2025-10-07",
+  "source": "https://www.nebioglu.bel.tr/meclis-kararlari",
+  "official_document": "https://www.nebioglu.bel.tr/meclis-kararlari/nbg-arc-council-2025-15",
+  "source_sha256": "3ed026a263c2d64f957a06be477d7a9c5dfba245f153554a9066dd9d43255579",
+  "issuer": "Nebioğlu Belediye Meclisi",
+  "history_type": "metadata",
+  "text_status": "metadata-only: listing fields as published; complete decision text is in the linked official document, not transcribed",
+  "in_force": "2025-10-07",
+  "in_force_basis": "Decision date as printed in the official council listing: 7 Ekim 2025; adoption date of the council decision; legal commencement not asserted",
+  "missing": [
+    "complete official decision text",
+    "official annexes"
+  ],
+  "law_text_complete": false,
+  "privacy_withheld": false,
+  "official_page": "https://www.nebioglu.bel.tr/meclis-kararlari/nbg-arc-council-2025-15",
+  "listing_label": "Ekim 15 No lu Meclis Kararı",
+  "record_scope": "one council decision (number, date, subject as published)",
+  "date_read_from": "date printed with the decision on its official page (Meclis kararı · <date>)",
+  "document_note": "the decision text is on the official item page; not transcribed here"
+}
