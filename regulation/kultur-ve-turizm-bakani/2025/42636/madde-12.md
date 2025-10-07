@@ -1,0 +1,2 @@
+Seçimlerin iptali ve yenilenmesi
+MADDE 12- (1) Yönetim Kurulu tarafından; herhangi bir sebeple seçimin durdurulmasına veya seçim sonuçlarını etkileyecek ölçüde bir usulsüzlük veya mevzuata aykırı uygulamanın tespiti sebebiyle seçimlerin iptaline karar verilmesi halinde, durdurulmasına veya iptaline karar verilen seçimin, bir aydan az, iki aydan fazla olmamak üzere yenileneceği tarih tespit edilerek, seçimler yenilenir. Bu durumda mevcut Yönetim Kurulu üyeleri görevlerine devam eder.

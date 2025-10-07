@@ -1,0 +1,4 @@
+Havalimanı ve terminal işletmelerini temsil edecek üyelerin belirlenmesi
+MADDE 6- (1) Ajans tarafından; Devlet Hava Meydanları İşletmesi Genel Müdürlüğü tarafından işletilenler hariç olmak üzere havalimanı ve terminal işletmelerini temsilen en yüksek cirosu olan ilk iki işletme arasından her üç yılda bir sırayla bildirilecek temsilci Yönetim Kurulunda üye olarak görevlendirilir. En yüksek ciroya sahip olsa dahi aynı işletmeden iki dönem üst üste üye görevlendirilemez.
+(2) Türkiye’de birden fazla havalimanı ve/veya terminal işletmesi bulunan gruplar/şirketler için cironun tespitinde; Türkiye’de işlettikleri havalimanı ve/veya terminal işletmelerinin toplam cirosu dikkate alınır.
+(3) Yönetim Kurulunda üye olarak görevlendirilecek havalimanı ve terminal işletmeleri temsilcilerinde 4 üncü maddede belirtilen genel şartlar aranır.
