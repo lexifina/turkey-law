@@ -1,0 +1,24 @@
+{
+  "number": "meeting-10-07",
+  "number_as_published": "meeting-10-07",
+  "year": 2025,
+  "title": "07.10.2025 190-210 2025 Ekim Meclis Karar Özetleri",
+  "decision_date": "2025-10-07",
+  "source": "https://www.soma.bel.tr/karar-detay/2025-ekim-meclis-karar-oezetleri/77",
+  "official_document": "https://www.soma.bel.tr/media/meclis_kararlari/1760942494EkimAyİMeclisKararOzetleri.pdf",
+  "source_sha256": "5e4ea03a421bdad8cff764e3a8b11c27b072ec947ae16ae3f2bc7698b63b5aca",
+  "issuer": "Soma Belediye Meclisi",
+  "history_type": "metadata",
+  "text_status": "metadata-only: listing fields as published; complete decision text is in the linked official document, not transcribed",
+  "in_force": "2025-10-07",
+  "in_force_basis": "Decision date as printed in the official council listing: 07.10.2025; adoption date of the council decision; legal commencement not asserted",
+  "missing": [
+    "complete official decision text",
+    "official annexes"
+  ],
+  "law_text_complete": false,
+  "privacy_withheld": false,
+  "listing_label": "07.10.2025 190-210 2025 Ekim Meclis Karar Özetleri",
+  "record_scope": "one official file of council decisions (meeting)",
+  "official_page": "https://www.soma.bel.tr/karar-detay/2025-ekim-meclis-karar-oezetleri/77"
+}
