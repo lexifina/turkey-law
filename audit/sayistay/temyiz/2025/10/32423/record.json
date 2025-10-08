@@ -1,0 +1,16 @@
+{
+  "kind": "decision",
+  "issuer": "Sayıştay Temyiz Kurulu",
+  "number": "58517",
+  "decision_date": "2025-10-08",
+  "source_id": 32423,
+  "chamber": "7",
+  "file_number": "55211",
+  "public_body_type": "Belediyeler ve Bağlı İdareler",
+  "account_year": "2021",
+  "subject": "Personel Mevzuatı ile İlgili Kararlar",
+  "source": "https://www.sayistay.gov.tr/KararlarTemyiz/Detay/32423/",
+  "source_sha256": "8009af8c861071c16b832a9deb7d0891428d11f990c1be02c6b107fc399c3fdf",
+  "text_status": "metadata-only",
+  "metadata_only_reason": "possible personal name in the official text"
+}
