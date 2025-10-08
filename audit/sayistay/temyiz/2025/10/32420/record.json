@@ -1,0 +1,16 @@
+{
+  "kind": "decision",
+  "issuer": "Sayıştay Temyiz Kurulu",
+  "number": "58514",
+  "decision_date": "2025-10-08",
+  "source_id": 32420,
+  "chamber": "4",
+  "file_number": "53819",
+  "public_body_type": "Yüksek Öğretim Kurumları",
+  "account_year": "2021",
+  "subject": "Personel Mevzuatı ile İlgili Kararlar",
+  "source": "https://www.sayistay.gov.tr/KararlarTemyiz/Detay/32420/",
+  "source_sha256": "fb3366333460abce5845896b64d95c7784b18d30083ec579832971ab6d5e3212",
+  "text_status": "as-enacted",
+  "text_file": "metin.md"
+}
