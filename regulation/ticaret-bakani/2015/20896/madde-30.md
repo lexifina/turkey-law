@@ -1,0 +1,2 @@
+Parçalar halinde ithalat
+MADDE 30 – (1) İthalatçının talebi üzerine ve ithalatçı Taraf ülkenin gümrük idaresince belirlenen şartlara binaen, AS’nin 2(a) Genel Kuralı anlamındaki birleştirilmemiş veya monte edilmemiş halde olan ve AS’nin XVI ve XVII nci bölümlerinde veya 7308 ve 9406 pozisyonlarında yer alan ürünlerin, parçalar halinde ithal edilmesi halinde, bu tür ürünler için tek bir menşe ispat belgesi, ilk parçanın ithalatı sırasında gümrük idaresine ibraz edilir.

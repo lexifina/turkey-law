@@ -1,0 +1,7 @@
+Elektronik sistemde ikinci nüsha Menşe Belgesi düzenlenmesinde yapılacak işlemler
+MADDE 26/A – (Ek:RG-23/6/2018-30457 Mükerrer)(1)
+(1) Menşe Belgesinin çalınması, kaybedilmesi veya hasar görmesi hallerinde ihracatçı veya onun sorumluluğu altında gümrük beyannamesini imzalamaya yetkili kanuni temsilcisi, gümrük idaresi veya Bakanlıkça yetkilendirilen kişi ve kuruluşlara başvurarak belgenin ikinci bir nüshasının düzenlenmesi için elektronik sistem üzerinden başvuruda bulunabilir. Başvuru sahipleri, ikinci nüsha belge düzenlenme talebinin nedenini elektronik sistemde beyan eder.
+(2) İkinci nüsha Menşe Belgesi düzenlenmesi talebi ile elektronik sistem üzerinden gerçekleştirilen başvuru ve yapılan beyan gümrük idaresi veya Bakanlıkça yetkilendirilen kişi ve kuruluşlar tarafından incelenir.
+(3) Gümrük idaresi veya Bakanlıkça yetkilendirilen kişi ve kuruluşlar, ihraç işlemi yapılmış olan eşyaya ait asıl Menşe Belgesine ilişkin bilgilerle birinci fıkrada belirtilen beyanı karşılaştırıp, ikinci nüshaya ilişkin yapılan beyanların doğruluğunu saptadıktan sonra, başvuru onaylanır ve gümrük idaresince vize işlemi gerçekleştirilir.
+(4) Bu şekilde düzenlenen ikinci nüsha Menşe Belgesinin (7) numaralı “Gözlemler” kutusuna İngilizce “DUPLICATE” ibaresi ile ilk dolaşım belgesinin vize tarihi ve seri numarası, elektronik sistem üzerinden kaydedilir.
+(5) Elektronik sistem tarafından asıl Menşe Belgesi, bu belgeye dayanılarak düzenlenen ikinci nüsha Menşe Belgesiyle ilişkilendirilir.

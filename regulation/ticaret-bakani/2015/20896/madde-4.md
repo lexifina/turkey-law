@@ -1,0 +1,23 @@
+Tanımlar
+MADDE 4 – (1) Bu Yönetmelikte yer alan;
+a) Anlaşma: Türkiye Cumhuriyeti ile Malezya arasında mevcut, 2 nci maddede belirtilen Serbest Ticaret Anlaşmasını,
+b) Armonize Sistem (AS): 10/11/1988 tarihli ve 3501 sayılı Uyumu Sağlanmış (Armonize) Mal Tanımı ve Kodlama Sistemi Hakkında Uluslararası Sözleşmeye Katılmamızın Uygun Bulunduğuna Dair Kanunla katılmamız uygun bulunan Uyumu Sağlanmış (Armonize) Mal Tanımı ve Kodlama Sistemi Hakkında Uluslararası Sözleşmede belirtilen şekilde ve Sözleşmenin ekinde yer alan pozisyonları, alt pozisyonları ve bunlara ait sayısal kodları, Bölüm, Fasıl ve Alt Pozisyon Notlarını ve Armonize Sistemin yorumu ile ilgili Genel Kuralları kapsayan Nomanklatürü,
+c) (Değişik:RG-27/12/2024-32765)(3) Bakanlık: Ticaret Bakanlığını,
+ç) Fabrika çıkış fiyatı: Ürün için Türkiye veya Malezya’da nihai işçilik veya işlemin gerçekleştirilmesini üstlenen imalatçıya fabrika çıkışı itibariyle ödenen, kullanılan bütün girdi fiyatlarının dâhil edilmiş olduğu, elde edilmiş ürünün ihracında geri ödenen veya ödenebilecek yurt içi vergilerin tenziliyle bulunan fiyatı,
+d) Genel anlamda kabul edilen muhasebesel ilkeler: Bir Taraf ülkede gelirler, harcamalar, maliyetler, varlıklar ve yükümlülüklerin kayıt altına alınması; bilgilerin açıklanması ve mali beyanların hazırlanmasıyla ilgili olarak geçerliliği kabul edilmiş, üzerinde mutabakata varılmış veya sağlam ve güvenilir bir dayanak olarak kabul edilmiş olan; ayrıntılı standartlar, uygulamalar ve süreçlerin yanı sıra genel uygulamaya dair kapsamlı rehber ilkeleri de içerebilen standartları,
+e) Girdi: Eşyanın üretiminde kullanılan veya tüketilen; ya da başka eşyanın üretimindeki bir sürece tabi tutulan eşyaya fiziksel olarak dâhil edilen ham madde, bileşen, parça ve aksam dâhil olmak üzere her tür madde veya cismi,
+f) Girdilerin kıymeti: Kullanılan menşeli olmayan girdilerin ithalatı esnasındaki gümrük kıymeti, veya bunun bilinmemesi ve tespit edilememesi halinde, Türkiye’de veya Malezya’da menşeli olmayan girdiler için ödendiği tespit edilebilen ilk fiyatı,
+g) Gümrük kıymeti: Gümrük Kıymeti Anlaşmasına göre tespit edilen kıymeti,
+ğ) İmalat: Montaj veya özel işlemler dâhil olmak üzere her türlü işçilik veya işlemi,
+h) Menşeli eşya veya menşeli girdi: Bu Yönetmelik altında menşeli olarak nitelendirilen bir eşya veya girdiyi,
+ı) Menşeli olmayan eşya veya menşeli olmayan girdi: Bu Yönetmelik altında menşeli olarak nitelendirilmeyen bir eşya veya girdiyi,
+i) Menşe ispat belgesi: Menşe Belgesi veya fatura beyanını,
+j) Menşeli girdilerin kıymeti: İthal edilmeleri halinde, kullanılan menşeli girdilerin ithalatı esnasındaki gümrük kıymeti ya da bunun bilinmemesi ve tespit edilememesi halinde, Türkiye’de veya Malezya’da menşeli girdiler için ödendiği tespit edilebilen ilk fiyatı,
+k) Paketleme malzemeleri ve nakliye konteynerleri: Eşyanın perakende satışı amacıyla kullanılan konteynerlerden veya malzemelerden farklı olarak, nakliyatı esnasında eşyayı korumak için kullanılan eşyayı,
+l) Sevkiyat: Ya bir ihracatçıdan bir alıcıya aynı anda gönderilen ya da ihracatçıdan alıcıya sevkinde tek bir sevk evrakı kapsamında yer alan veya böyle bir evrakın olmaması halinde tek bir fatura kapsamına giren ürünleri,
+m) Su ürünleri yetiştiriciliği: Üretimi artırmaya yönelik düzenli stoklama, besleme ya da yırtıcılardan koruma gibi büyütme ve yetiştirme süreçlerine müdahale etmek suretiyle; yumurta, larva, yavru balık ve balık larvası gibi kaynaklardan balıklar, kabuklular, yumuşakçalar, suda yaşayan diğer omurgasızlar ve su bitkileri dâhil olmak üzere, suda yaşayan organizmaların yetiştirilmesini,
+n) Üretim: Bir eşyanın yetiştirilmesi/ekilmesi, madenden çıkartılması, hasat edilmesi, çiftçiliğinin yapılması, büyütülmesi, ıslah edilmesi, topraktan çıkartılması, toplanması, yakalanarak, balıkçılıkla tuzak kurularak elde edilmesi, avlanılması, suda yetiştirilmesi, imal edilmesi, üretilmesi, işlenmesi veya monte edilmesi dâhil olmak üzere elde edilme yöntemlerini,
+o) Ürün: Bilahare başka bir imalat işleminde girdi olarak kullanılması söz konusu olsa bile imal edilmiş ürünü,
+ö) (Değişik:RG-27/12/2024-32765)(3) Yetkili makamlar: Türkiye’de Ticaret Bakanlığını ve Malezya’da Yatırım, Ticaret ve Sanayi Bakanlığını,
+p) (Ek:RG-23/6/2018-30457 Mükerrer)(1) Elektronik sistem: Menşe ispat ve dolaşım belgelerinin düzenlenmesine yönelik başvurunun yapılması, belgelerin düzenlenmesi, kontrol edilmesi, onaylanması ve vize işlemlerinin gerçekleştirilmesini sağlamak üzere Bakanlık ya da Bakanlıkça uygun görülen kişi ve kuruluşlarca elektronik ortamda verilen hizmet ve bu hizmete dair alt yapıyı,
+ifade eder.
