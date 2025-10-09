@@ -1,0 +1,31 @@
+{
+  "source_id": "7.5.42641",
+  "kind": "regulation",
+  "register_kind": "Kurum ve Kuruluş Yönetmelikleri",
+  "title": "NÜKLEER İHRACAT VE NÜKLEER İTHALAT KONTROLÜ YÖNETMELİĞİ",
+  "number": "42641",
+  "issuer": "Nükleer Düzenleme Kurumu Başkanı",
+  "issuer_slug": "nukleer-duzenleme-kurumu-baskani",
+  "path": "regulation/nukleer-duzenleme-kurumu-baskani/2025/42641",
+  "source": "https://www.mevzuat.gov.tr/anasayfa/MevzuatFihristDetayIframe?MevzuatTur=7&MevzuatNo=42641&MevzuatTertip=5",
+  "source_sha256": "b8434bb489606c397fe53dce0a425f60541398a38d8a0820719d90b1a804786d",
+  "source_bytes": 41134,
+  "published": "2025-10-09",
+  "gazette": "33042",
+  "in_force": "2025-10-09",
+  "in_force_basis": "Resmî Gazete publication date in the official listing (09.10.2025); own commencement article: \"Bu Yönetmelik yayımı tarihinde yürürlüğe girer\"",
+  "commencement_clauses": [
+    "Bu Yönetmelik yayımı tarihinde yürürlüğe girer"
+  ],
+  "history": "current-text",
+  "label": "oldest version available",
+  "checked_on": "2026-11-15",
+  "word_count": 2059,
+  "text_status": "current-consolidated",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  },
+  "completeness": "html-text-complete"
+}
