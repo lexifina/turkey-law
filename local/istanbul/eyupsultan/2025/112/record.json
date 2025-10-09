@@ -1,0 +1,22 @@
+{
+  "number": "112",
+  "number_as_published": "2025/112",
+  "year": 2025,
+  "title": "Mithatpaşa Mahallesi bilirkişi seçimi",
+  "decision_date": "2025-10-09",
+  "source": "https://eyupsultan.bel.tr/tr/main/pages/2025-ekim-ayi-meclis-kararlari/2755",
+  "official_document": "https://eyupsultan.bel.tr/tr/main/pages/2025-112/2760",
+  "source_sha256": "a370f12074de004c69792d27ad569c36094f5fc8e6be1cda37c755e9e501e15c",
+  "issuer": "Eyüpsultan Belediye Meclisi",
+  "history_type": "metadata",
+  "text_status": "metadata-only: listing fields as published; complete decision text is in the linked official document, not transcribed",
+  "in_force": "2025-10-09",
+  "in_force_basis": "Decision date as printed in the official council listing: 09.10.2025 (meeting date at the start of the decision page); adoption date of the council decision; legal commencement not asserted",
+  "missing": [
+    "complete official decision text",
+    "official annexes"
+  ],
+  "law_text_complete": false,
+  "privacy_withheld": false,
+  "decision_page_sha256": "9796688765f15b0ae3644610f28c5a9dda644781106954fa50656cbe7a2180e4"
+}
