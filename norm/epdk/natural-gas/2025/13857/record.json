@@ -1,0 +1,25 @@
+{
+  "kind": "norm",
+  "issuer": "Enerji Piyasası Düzenleme Kurumu",
+  "market": "natural-gas",
+  "document_type": "board-decision",
+  "number": "13857",
+  "decision_date": "2025-10-09",
+  "title": "Aksa Sivas Doğal Gaz Dağıtım Anonim Şirketi’nin 2022-2026 yılları arası perakende satış tarifelerine yönelik",
+  "resmi_gazete_date": "2025-10-10",
+  "resmi_gazete_number": "33043",
+  "categories": [
+    "Şirket Bazında Kararlar"
+  ],
+  "source": "https://www.epdk.gov.tr/Detay/DownloadDocument?id=O0oMCeDJF+8=",
+  "documents": [
+    "https://www.epdk.gov.tr/Detay/DownloadDocument?id=O0oMCeDJF+8="
+  ],
+  "source_sha256": "6eba82daa76d6845babedbb5a13e18381def69eef81a6f9da62054ae9cccd547",
+  "official_list": "https://www.epdk.gov.tr/Detay/Icerik/3-0-19/kurul-kararlari",
+  "official_list_leaf": 7236,
+  "text_status": "as-enacted",
+  "text_file": "metin.md",
+  "in_force": "2025-10-09",
+  "law_text_complete": true
+}
