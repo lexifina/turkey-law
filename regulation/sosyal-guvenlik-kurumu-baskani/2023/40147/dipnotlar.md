@@ -1,0 +1,1 @@
+[1] 9/10/2025 tarihli ve 33042 sayılı Resmî Gazete’de yayımlanan değişiklik ile Yönetmeliğin dördüncü bölümünün başlığı “Teminat, Teklif Verme, İhalenin Yapılması ve Raporlar” iken Yönetmeliğe işlendiği şekilde değiştirilmiştir.
