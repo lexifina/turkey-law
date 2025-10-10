@@ -1,0 +1,1 @@
+Madde 1 – Bu Yönetmeliğin amacı; Türkiye'de ikamet eden Türk soylu yabancıların, yurt içinde ihtiyaç duyulan meslek ve sanatları serbestçe yapabilmelerine, Türk Silahlı Kuvvetleri ve Güvenlik Teşkilatı hariç olmak üzere, kamu veya özel kurum, kuruluş veya işyerlerinde çalıştırılabilmelerine ilişkin esas ve usulleri saptamak suretiyle uygulamaya yön vermektir.

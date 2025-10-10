@@ -1,0 +1,3 @@
+Tabi Olacakları Mevzuat:
+Madde 10 – Bu yönetmelik hükümlerine göre kendilerine serbestçe çalışma veya kamu veya özel kurum, kuruluş veya işyerlerinde çalıştırılabilme izni verilenler; personel, sosyal güvenlik, çalışma, çalıştırma, ücret, vergi, izin, sosyal haklar, sağlık kuruluşlarında tedavi ve işyeri statülerine ilişkin diğer konularda, aynı işlerde çalışan Türk vatandaşlarına uygulanan mevzuat hükümlerine tabidirler. Bunlar, Türk vatandaşı olmamaları nedeniyle yukarıda belirtilen konularda farklı bir işleme tabi tutulamazlar.
+506 Sayılı Sosyal Sigortalar Kanununun 3 üncü maddesinin II nci fıkrasının A bendi hükmü saklıdır.

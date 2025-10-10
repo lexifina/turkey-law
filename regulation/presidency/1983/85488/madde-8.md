@@ -1,0 +1,3 @@
+Verilen İznin Sona Ermesi veya Geri Alınması:
+Madde 8 – Verilen izin süresinin, yukarıdaki maddelerde belirtilen esaslar çerçevesinde uzatılması için başvurulmaması nedeniyle sona ermesi veya iznin geri alınması hallerinde, ilgili resmi veya özel kurum veya kuruluşlar, iznin bittiği veya geri alındığı tarihten itibaren ilgilinin işine son verilerek ilişiğini keser ve mahalli emniyet makamlarına derhal bilgi verirler.
+Ancak, ilgili, izninin uzatılması için yetkili makamlara başvurduğunu ve henüz bir sonuç alamadığını belgelendirdiği takdirde, yetkili makamlarca bu istekle ilgili işlem sonuçlandırılıp tebligat yapılıncaya kadar, kişinin çalıştırılmasına devam edilir ve bu durum yazılı olarak ilgili makamlara bildirilir.

@@ -1,0 +1,3 @@
+İzin İçin Başvurma:
+Madde 4 – Bu Yönetmelik uyarınca, kamu ve özel kurum, kuruluş ve işyerlerinde çalışmasına veya meslek ve sanatını serbestçe yapmasına izin verilebilmesi için, oturulan yer mülki idare amirliğine bir dilekçe ile başvurulması ve bu dilekçeye üçüncü maddede gösterilen belgelerden gerekli olanların eklenmiş olması şarttır. Dilekçede yapılacak iş açıkça belirtilir.
+İllerde Emniyet Müdürlükleri, İlçelerde Emniyet Amirlikleri veya Emniyet Komiserliklerince, varsa eksiklikler tamamlattırıldıktan sonra, emniyet noktasından da ilgilinin durumu incelenir ve hazırlanan dosya Valilik görüşünü belirten bir yazı ile İçişleri Bakanlığına gönderilir.

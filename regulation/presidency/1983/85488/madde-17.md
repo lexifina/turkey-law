@@ -1,0 +1,2 @@
+Siyasi Haklarının Olmaması:
+Madde 17 – Bu Yönetmelik uyarınca, Türk vatandaşları gibi, serbest çalışma veya kamu veya özel kurum, kuruluş veya işyerlerinde çalıştırılabilmelerine izin verilen Türk soylu yabancıların siyasi hiç bir hakları yoktur. Bunlar herhangi bir siyasi partiye üye olamazlar. Seçimlerde oy kullanamazlar. Siyasi Partiler lehinde veya aleyhinde propağanda yapamazlar. Bu amaçla yapılan çalışmaların hiç bir kademe ve aşamasında görev alamazlar.

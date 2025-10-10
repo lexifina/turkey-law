@@ -1,0 +1,1 @@
+[1] 10/10/2025 tarihli ve 33043 sayılı Resmî Gazete’de yayımlanan 10476 sayılı Cumhurbaşkanı Kararı ile bu maddenin birinci fıkrasında yer alan “Bakanlar Kurulunca” ibaresi “Cumhurbaşkanınca” şeklinde değiştirilmiştir.
