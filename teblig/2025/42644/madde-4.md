@@ -1,0 +1,4 @@
+Soruşturma konusu ürün
+MADDE 4- (1) Soruşturma konusu ürün, 4011.20.10.00.11, 4011.20.10.00.12 ve 4011.20.10.00.19 GTİP’leri altında sınıflandırılan “otobüs, kamyon için kauçuktan dış lastik; yeni, yükleme endeksi=<121” eşya tanımlı “hafif ticari araç dış lastikleri”; 4011.20.90.00.11, 4011.20.90.00.12 ve 4011.20.90.00.19 GTİP’leri altında sınıflandırılan “kamyon, otobüs için kauçuktan dış lastik; yeni, yükleme endeksi >121” eşya tanımlı “ağır vasıta dış lastikleri” ile 4011.70.00.00.00 GTİP’i altında sınıflandırılan “kauçuktan yeni dış lastikler; tarım ve orman taşıtları ve makinelerinde kullanılan” eşya tanımlı “zirai araç dış lastikleri”dir.
+(2) Bahse konu GTİP’ler yalnızca bilgi amaçlı verilmiş olup bağlayıcı mahiyette değildir.
+(3) Ürünün TGTC’de yer alan tarife pozisyonunda ve/veya eşya tanımında yapılacak değişiklikler bu Tebliğ hükümlerinin uygulanmasına engel teşkil etmez.
