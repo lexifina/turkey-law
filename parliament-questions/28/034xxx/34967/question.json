@@ -1,0 +1,21 @@
+{
+  "record_type": "parliament-written-question",
+  "term": 28,
+  "legislative_year": 4,
+  "esas_no": "7/34967",
+  "submitted": "2025-10-10",
+  "submitted_as": "Başkanlığa geliş tarihi",
+  "mp": "Celal FIRAT",
+  "province": "İstanbul",
+  "summary": "Malatya'nın Doğanşehir ilçesinde imar planı kapsamında yürütülen parselasyon işlemlerine ilişkin",
+  "status": "Süresi Geçtikten Sonra Cevaplandı",
+  "status_as_of": "2026-11-16",
+  "official_record": "https://www.tbmm.gov.tr/Denetim/Yazili-Soru-Onergesi-Detay/ad83d129-d8e7-4373-b320-0199dca02113",
+  "source": "https://tbmm.gov.tr/Denetim/YaziliSoruOnergesiTable",
+  "source_form": "https://tbmm.gov.tr/Denetim/Yazili-Soru-Onergeleri",
+  "source_sha256": "20a38ff3506e29f6535dd71a9c7c9c28ea113ff544473c582bc45cf7606facc9",
+  "in_force": "2025-10-10",
+  "in_force_basis": "Date the question reached the Speaker (Başkanlığa geliş tarihi) in the official TBMM written-question record; parliamentary oversight record, not law",
+  "history_type": "metadata",
+  "text_status": "metadata-only: question text, addressee and answers are in the linked official record (PDFs on cdn.tbmm.gov.tr); not transcribed here"
+}
