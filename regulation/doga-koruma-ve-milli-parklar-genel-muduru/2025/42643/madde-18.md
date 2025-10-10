@@ -1,0 +1,7 @@
+Giriş sınavı duyurusu ve başvuru
+MADDE 18- (1) Giriş sınavı duyurusu aşağıda belirtilen esaslar çerçevesinde Başkanlıkça yapılır:
+a) KPSS’ye göre Başkanlıkça belirlenen asgari puan, alınacak personelde aranacak şartlar ile giriş sınavının tarihi, yapılacağı yer, içeriği, değerlendirme yöntemi, başvuru merci ve son başvuru tarihi ile gerekli görülen diğer hususlar, 10 sayılı Resmî Gazete Hakkında Cumhurbaşkanlığı Kararnamesinin 5 inci maddesinde yer alan düzenleme çerçevesinde ilan verilmek suretiyle adaylara duyurulur. İlan, ilk başvuru tarihinden en az on beş gün önce yapılır.
+b) Giriş sınavına, Başkanlıkça sınav duyurusunda belirtilen fakülteler ve bölümlerden mezun olan ve istenen puan türünden yeterli puanı alan adaylar başvurabilir. Atama yapılacak kadro sayısı farklı fakülteler ve bölümlerden mezun olanlar için ayrı ayrı belirlenebilir. Bu hususa, sınav duyurusunda yer verilir.
+c) Adaylar, Başkanlıkça hazırlanan sınav başvuru formu ile Başkanlığa müracaat ederler. Elektronik ortamdaki veya postadaki gecikmelerden dolayı zamanında ulaşmayan başvurular işleme konulmaz.
+ç) Adayların başvuru ve kayıt süresi, sınavın başlama tarihinden en geç on beş gün önce bitecek şekilde tespit edilir.
+d) Sözlü sınavın tarihi ve yapılacağı yer, sözlü sınavdan en az on beş gün önce, sınava girmeye hak kazanan adayların isimleri ile birlikte Genel Müdürlüğün resmî internet adresinde ilan edilir.

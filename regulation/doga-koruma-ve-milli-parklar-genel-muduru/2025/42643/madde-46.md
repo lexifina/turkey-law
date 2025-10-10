@@ -1,0 +1,5 @@
+Görevlerin süresinde bitirilememesi ve işin devri
+MADDE 46- (1) Müfettişler, kendilerine verilen görevleri ara vermeden Başkanlıkça belirtilen süreler içinde bizzat yapıp bitirirler. Süresinde tamamlanamayacağı anlaşılan görevler hakkında Başkanlığa zamanında bilgi verip alacakları talimata göre hareket ederler.
+(2) Müfettişlere verilen görevin devredilmemesi esastır. Geri bırakma ve devir zorunluluğu doğarsa; Başkanlığın talimatı veya izni ile görev başka bir müfettişe devredilebilir.
+(3) Görevleri esnasında müfettişin vefatı, ağır hastalığa yakalanması ve benzeri mücbir sebeplerle, görevin tamamlanmasının mümkün olmadığı durumlarda Başkanlıkça başka müfettiş görevlendirilir.
+(4) Devir işleminde devredilecek işe ait incelenen bütün belge, defter ve kayıtlar bir dizi pusulasına bağlanarak devir notuyla birlikte imza karşılığı devralan müfettişe teslim edilir. Üç nüsha düzenlenen dizi pusulası ve devir notunun aslı devralan müfettişe verilir. Suretlerden biri iş dosyasına konmak üzere Başkanlıkta kalır. Diğer suret devreden müfettişe verilir.

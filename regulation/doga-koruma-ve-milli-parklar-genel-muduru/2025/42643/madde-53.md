@@ -1,0 +1,5 @@
+Ön inceleme raporu
+MADDE 53- (1) Ön inceleme raporu, 4483 sayılı Kanun hükümlerine göre yapılan inceleme ve araştırmalar sonucu düzenlenen rapordur.
+(2) 4483 sayılı Kanuna göre yapılan ön incelemelerde, inceleme emrinin tarihi ve sayısı ile incelemeye nasıl başlandığı gösterilir. Hakkında ön inceleme yapılanın görevi ve kimliği, incelemeye konu olan olay ve suçlar, incelemenin ne şekilde geliştiği ile elde edilen deliller ve hakkında ön inceleme yapılan şahsın ifadesinin özeti ön inceleme raporuna yazılır.
+(3) Müfettişler, hakkında ön inceleme yapılan Devlet memuru veya diğer kamu görevlisinin ifadesini de almak suretiyle yetkileri dâhilinde bulunan gerekli bilgi ve belgeleri toplayıp, hukuki dayanaklarını da belirtmek suretiyle görüşlerini içeren bir rapor düzenlerler ve izin vermeye yetkili mercie sunmak üzere Başkanlığa teslim ederler. Ön inceleme, birden çok müfettiş tarafından yapılmışsa, farklı görüşler raporda gerekçeleriyle birlikte ayrı ayrı belirtilir.
+(4) Düzenlenen ön inceleme raporlarının aslı ve yeterli sayıda örneği Başkanlığa gönderilir.

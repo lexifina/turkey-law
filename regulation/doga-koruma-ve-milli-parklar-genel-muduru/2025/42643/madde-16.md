@@ -1,0 +1,6 @@
+Teftişe tabi olanların yükümlülükleri
+MADDE 16- (1) Teftişe tabi gerçek ve tüzel kişiler, teftiş için gereken gizli dahi olsa bütün belge, defter ve bilgileri talep edildiği takdirde ibraz etmek, para ve para hükmündeki evrakı ve ayniyatı ilk talep halinde göstermek, sayılmasına ve incelenmesine yardımcı olmak zorundadır.
+(2) İlgililer, müfettişlerin göreviyle ilgili bilgi taleplerini karşılamak ve her türlü yardım ve kolaylığı göstermekle yükümlüdür.
+(3) Teftişe tabi birimlerin yöneticileri, hizmetin gereği gibi yürütülebilmesi için müfettişlere, görevleri süresince uygun bir çalışma yeri sağlamak ve diğer tedbirleri almak zorundadır.
+(4) Teftiş edilen birimlerin her kademedeki yönetici ve personeli; müfettişlerin, sözlü veya yazılı sorularını cevaplamak, müfettişin bilgi işlem sistemleri, raporlama araçları, internet, intranet ve benzeri ağlar ile veri tabanlarına erişimini sağlamak, elektronik, manyetik ve benzeri bilgi işlem ortamlarındaki bilgi ve kayıtları göstermek, talebi halinde bunların kopyalarını müfettişe vermek zorundadır.
+(5) Teftiş, denetim, inceleme, ön inceleme ve soruşturma sırasında personele müfettişin bilgisi dışında yıllık izin verilemez, daha önceden verilen yıllık izinler ise müfettişin talebi üzerine durdurulabilir.

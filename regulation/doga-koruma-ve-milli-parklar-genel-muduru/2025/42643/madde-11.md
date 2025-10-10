@@ -1,0 +1,2 @@
+Başkana vekâlet
+MADDE 11- (1) Başkanın geçici sebeplerle görevinde bulunmadığı durumlarda Başkanlığa, başkan yardımcısı, başkan yardımcısının bulunmadığı durumlarda ise Başkan tarafından uygun görülen bir müfettiş, Genel Müdür onayı ile vekâlet eder. Herhangi bir nedenle Başkanlık kadrosunun boşalması halinde Başkan olarak atanma koşullarını taşıyanlardan biri Genel Müdür onayı ile Başkan vekili olarak görevlendirilebilir.
