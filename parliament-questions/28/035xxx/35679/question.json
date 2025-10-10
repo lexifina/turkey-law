@@ -1,0 +1,21 @@
+{
+  "record_type": "parliament-written-question",
+  "term": 28,
+  "legislative_year": 4,
+  "esas_no": "7/35679",
+  "submitted": "2025-10-10",
+  "submitted_as": "Başkanlığa geliş tarihi",
+  "mp": "Umut AKDOĞAN",
+  "province": "Ankara",
+  "summary": "8 Ekim 2025 tarihinde İstanbul Cumhuriyet Başsavcılığı tarafından yapılan bir uyuşturucu operasyonuna ilişkin",
+  "status": "Süresi Geçtikten Sonra Cevaplandı",
+  "status_as_of": "2026-11-16",
+  "official_record": "https://www.tbmm.gov.tr/Denetim/Yazili-Soru-Onergesi-Detay/6a119d3a-6fe4-4d35-ad48-0199dd459f09",
+  "source": "https://tbmm.gov.tr/Denetim/YaziliSoruOnergesiTable",
+  "source_form": "https://tbmm.gov.tr/Denetim/Yazili-Soru-Onergeleri",
+  "source_sha256": "6f32d9c625c0a2348102236a661b475904d4df0ebb083025b1d7a4ad69a0c9cb",
+  "in_force": "2025-10-10",
+  "in_force_basis": "Date the question reached the Speaker (Başkanlığa geliş tarihi) in the official TBMM written-question record; parliamentary oversight record, not law",
+  "history_type": "metadata",
+  "text_status": "metadata-only: question text, addressee and answers are in the linked official record (PDFs on cdn.tbmm.gov.tr); not transcribed here"
+}
