@@ -1,0 +1,63 @@
+{
+  "source_id": "7.5.16320",
+  "kind": "regulation",
+  "register_kind": "Kurum ve Kuruluş Yönetmelikleri",
+  "title": "ADALET UZMANLIĞI YÖNETMELİĞİ",
+  "number": "16320",
+  "issuer": "Adalet Bakanı",
+  "issuer_slug": "adalet-bakani",
+  "path": "regulation/adalet-bakani/2012/16320",
+  "source": "https://www.mevzuat.gov.tr/anasayfa/MevzuatFihristDetayIframe?MevzuatTur=7&MevzuatNo=16320&MevzuatTertip=5",
+  "source_sha256": "c47c290921415a3265252f6298c013192145644ca14edabb3f5af889c20ea0be",
+  "source_bytes": 51948,
+  "published": "2012-07-04",
+  "gazette": "28343",
+  "in_force": "2025-10-10",
+  "in_force_basis": "latest Resmî Gazete date printed in the source amendment notes/table (\"RG-10/10/2025\") for the current consolidated text",
+  "date_evidence": [
+    [
+      "2025-10-10",
+      "RG-10/10/2025",
+      "Resmî Gazete date printed in the source amendment note"
+    ],
+    [
+      "2025-10-10",
+      "10/10/2025",
+      "Resmî Gazete date in the source amendment table"
+    ],
+    [
+      "2019-01-05",
+      "RG-5/1/2019",
+      "Resmî Gazete date printed in the source amendment note"
+    ],
+    [
+      "2019-01-05",
+      "5/1/2019",
+      "Resmî Gazete date in the source amendment table"
+    ],
+    [
+      "2013-11-23",
+      "RG-23/11/2013",
+      "Resmî Gazete date printed in the source amendment note"
+    ],
+    [
+      "2013-11-23",
+      "23/11/2013",
+      "Resmî Gazete date in the source amendment table"
+    ]
+  ],
+  "commencement_clauses": [
+    "Bu Yönetmelik yayımı tarihinde yürürlüğe girer"
+  ],
+  "history": "current-text",
+  "label": "oldest version available",
+  "checked_on": "2026-11-15",
+  "word_count": 2318,
+  "text_status": "current-consolidated",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  },
+  "completeness": "html-text-complete"
+}

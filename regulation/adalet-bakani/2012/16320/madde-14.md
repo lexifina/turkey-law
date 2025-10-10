@@ -1,0 +1,4 @@
+Uzman yardımcılarının eğitimi ve yetiştirilmeleri
+MADDE 14 – (1) Uzman yardımcıları, Eğitim Dairesi Başkanlığınca hazırlanacak programa göre, uzmanlığın gerektirdiği bilgi, beceri ve etik değerleri ile temsil kabiliyeti kazanmak üzere eğitime tâbi tutulurlar. Bu kapsamda, yurtiçinde ve yurtdışında; kamu kurum ve kuruluşları, üniversiteler, diğer resmî ve özel eğitim-danışmanlık kuruluşları tarafından düzenlenecek kurs, seminer, staj ve konferans gibi eğitim çalışmalarına katılabilir.
+(2) Uzman yardımcılarının, yabancı dillerinin geliştirilmesi amacıyla Eğitim Dairesi Başkanlığı tarafından bir program dâhilinde yabancı dil eğitimi almaları sağlanır.
+(3) Uzman yardımcıları, gerektiğinde Genel Müdürlük tarafından hazırlanacak bir program çerçevesinde, uygun görülen Bakanlık birimlerinde birer aylık rotasyona tâbi tutulabilir.

@@ -1,0 +1,2 @@
+Giriş sınavı duyurusu
+MADDE 5 – (1) Başvuru ve sınav yeri, tarihi, şekli, sınav konuları, öğrenim dalları, giriş sınavına katılacaklarda aranacak merkezi sınav puan türleri ve taban puanları, sınavda alınan başarı derecelerine göre çağrılacak aday sayısı, diğer genel ve özel şartlar ile istenecek belgeler başvuru tarihinin bitiminden en az otuz gün önce Resmî Gazete’de, Türkiye genelinde yayımlanan tirajı en yüksek ilk beş gazetenin en az birinde veya Bakanlığın resmî internet sayfasında ilân edilir.

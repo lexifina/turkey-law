@@ -1,0 +1,4 @@
+Uzman yardımcılığına atanma
+MADDE 13 – (1) 657 sayılı Devlet Memurları Kanununun 48 inci maddesinde belirtilen şartları taşıyan, giriş sınavında başarılı olup atanmaya hak kazananlar, uzman yardımcısı olarak atanır.
+(2) Ataması yapılanlardan geçerli mazereti olmaksızın süresi içerisinde görevine başlamayanların veya atanma hakkından vazgeçenlerin ataması iptal edilir.
+(3) Yedek kazananlar ise; yeniden yapılacak ilk sınavın ilân tarihine kadar ilân edilen kadroların, asil olarak kazananların çeşitli sebeplerle atanamaması, atamalarının iptal edilmesi, memuriyetten çekilmesi ve benzeri nedenlerle boşalması halinde, sadece boşalan kadro sayısı kadar aynı sınav sonucu oluşan nihaî başarı listesindeki sıraya göre atanırlar. Bu şekilde atananlardan arta kalanlar, bir hak iddiasında bulunamazlar.
