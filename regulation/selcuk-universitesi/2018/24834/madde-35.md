@@ -1,0 +1,3 @@
+Danışman atanması ve dönem projesi
+MADDE 35 - (1) Tezsiz yüksek lisans programında EAB/anasanat dalı kurulu, her öğrenci için ders seçiminde ve dönem projesinin yürütülmesinde danışmanlık yapacak bir öğretim üyesi veya Senato tarafından belirlenen niteliklere sahip doktora derecesine sahip bir öğretim görevlisini en geç birinci yarıyılın sonuna kadar belirler.
+(2) Öğrenciler, dönem projelerini enstitünün tez yazım kurallarına uygun biçimde hazırlamak, ilgili EAB/anasanat dalı kurulu tarafından kurulan, danışmanı dâhil üç öğretim elemanı/üyesinden oluşan bir jüri karşısında savunmak ve başarılı olduğu takdirde dönem projesini yazılı olarak EAB/anasanat dalı başkanlığına teslim etmek zorundadır.

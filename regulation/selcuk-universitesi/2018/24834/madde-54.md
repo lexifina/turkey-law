@@ -1,0 +1,5 @@
+YEDİNCİ BÖLÜM Çeşitli ve Son Hükümler
+Programlar, sınavlar ve değerlendirme
+MADDE 54 - (1) Enstitü kurulu tarafından onaylanan dersler içinden hangilerinin öğrencilerin ders programlarında yer alacağına, öğrenci ile birlikte öğrencinin danışmanı karar verir.
+(2) Yeterlik, seviye tespit veya ders başarılarını ölçen tüm sınavlar, kâğıt ortamında ve tüm adaylara eş zamanlı olarak yapılabileceği gibi, alan ve zorluk düzeyine göre tasnif edilerek güvenli biçimde saklanan bir soru bankasından, her bir adaya farklı zamanlarda farklı soru sorulmasına izin verecek şekilde elektronik ortamda da yapılabilir. Sınavlarda sorulacak soruların hazırlanması, soru bankasının oluşturulması ve şifrelenmesi, sınav sorularının kâğıt ortamında veya elektronik ortamda saklanması ile sınav güvenliğinin sağlanmasına ilişkin hususlarda Yükseköğretim Kurulunun belirlediği ilkeler esas alınır.
+(3) Öğrencinin herhangi bir yarıyıldan sonra programına devam edebilmesi için gerekli ek başarı koşulları enstitü kurulunun teklifi ve Senatonun onayı ile belirlenebilir.

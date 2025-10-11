@@ -1,0 +1,5 @@
+Özel öğrenci kabulü
+MADDE 11 - (1) (Değişik:RG-3/4/2020-31088) Bir yüksek lisans, doktora ya da sanatta yeterlik programına kayıtlı olan öğrenciler, diğer yükseköğretim kurumlarındaki lisansüstü derslere kayıtlı olduğu enstitü anabilim/anasanat dalı başkanlığının önerisi ve Enstitü Yönetim Kurulunun onayı ile özel öğrenci olarak kabul edilir. Lisansüstü derslere kabul edilen öğrencilerin özel öğrenci olarak aldığı ve başarılı olduğu derslerin muafiyet işlemleri kayıtlı olduğu enstitü anabilim/anasanat dalı başkanlığı tarafından yürütülür. Bu derslerin intibak işlemlerinde bir ders en fazla 3 kredi olarak değerlendirilir.
+(2) (Değişik:RG-3/4/2020-31088) Lisansüstü programlarından özel öğrenci olarak ders almak isteyen adaylar, en geç akademik takvimin Kayıt Yenileme ve Ders Seçimi süreci içerisinde EAB/anasanat dalına dilekçe ile müracaat ederler. Adayların özel öğrenciliği, ilgili EAB/anasanat dalı kurulu önerisi ve Enstitü Yönetim Kurulu onayı ile kesinleşir.
+(3) (Mülga:RG-3/4/2020-31088)
+(4) (Mülga:RG-3/4/2020-31088)

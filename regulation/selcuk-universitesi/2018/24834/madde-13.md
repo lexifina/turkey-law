@@ -1,0 +1,2 @@
+Yeni kurulan veya gelişmekte olan üniversitelerden öğrenci kabulü
+MADDE 13 - (1) Yeni kurulan veya gelişmekte olan üniversiteler veya yüksek teknoloji enstitüleri adına üniversiteye lisansüstü eğitim yaptırmak amacıyla atanan araştırma görevlileri, Yükseköğretim Kurulunca belirlenen ilkeler ve ilgili mevzuat doğrultusunda yeniden sınav ve değerlendirme yapılmaksızın, lisansüstü eğitim yapmak üzere doğrudan kaydedilirler ve ilgili birimde görevlendirilirler.

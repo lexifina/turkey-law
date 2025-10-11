@@ -1,0 +1,3 @@
+Kayıt
+MADDE 9 - (1) Lisansüstü eğitim ve öğretim hakkını kazanan adayların listeleri, ilgili enstitü müdürlüğü tarafından ilân edilir. Kayıt yaptırmaya hak kazanan adaylar, ilanda yazılı belgeler ile ilânda belirtilen süre içerisinde enstitü müdürlüğüne şahsen veya noter vekâletnamesine sahip vekilleri aracılığı ile kayıt yaptırabilirler.
+(2) Kesin kayıt süresi sonunda kontenjanlarda açık olması durumunda, açık kalan kontenjan sayısı kadar olmak üzere, varsa yedek listeden sıra ile kayıt süresi içerisinde adaylar, enstitü müdürlüğüne şahsen veya noter vekâletnamesine sahip vekilleri aracılığı ile kayıt yaptırabilirler.
