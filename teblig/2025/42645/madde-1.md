@@ -1,0 +1,2 @@
+Amaç ve kapsam
+MADDE 1- (1) Bu Tebliğin amacı, yerli üretici Redon Teknoloji A.Ş. firması tarafından yapılan ve Yena Makine San. Tic. A.Ş. ile Twinmac Makine ve Sanayi ve Tic. A.Ş. tarafından desteklenen başvuruya istinaden Çin Halk Cumhuriyeti menşeli 9018.41, 9018.49 gümrük tarife pozisyonları ve 8479.89.97.90.19 gümrük tarife istatistik pozisyonu altında kayıtlı “dişçilikte kullanılan diş freze/kazıyıcı makineleri”ne yönelik bir damping soruşturması açılması ve açılan soruşturmanın usul ve esaslarının belirlenmesidir.
