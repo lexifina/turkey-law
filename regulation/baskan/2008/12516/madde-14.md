@@ -1,0 +1,3 @@
+Yerli üretim ham petrol fiyatına ilişkin uyuşmazlıklar
+MADDE 14 – (1) Yerli ham petrol üreticileri ile rafinerici lisansı sahipleri arasındaki yerli ham petrol fiyatına ilişkin uyuşmazlıklarla ilgili olarak, başvuru üzerine Kurum tarafından inceleme ve değerlendirme başlatılır. Kurum, gerekli gördüğü her türlü bilgi ve belgeyi taraflardan isteyebilir ve tarafları doğrudan görüşmeye çağırabilir. Uyuşmazlık, inceleme ve değerlendirme sonrasında Kurul Kararı ile en geç otuz gün içerisinde tarafları bağlayacak şekilde sonuçlandırılır.
+(2) Uyuşmazlık sonuçlanana kadar rafinerici lisansı sahipleri, yerli ham petrolü teklif ettiği fiyattan almaya devam eder.

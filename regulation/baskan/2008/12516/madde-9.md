@@ -1,0 +1,7 @@
+Onaya tabi tarife değişiklikleri
+MADDE 9 – (Değişik:RG-11/10/2025-33044)
+(1) Onaya tabi tarifelerin değişiklikleri bir takvim yılında en fazla iki defa lisans sahibinin başvurusu üzerine veya Kurul kararıyla resen yapılır. Değişikliğin yürürlüğe girdiği tarihten itibaren en az doksan gün sonra yeni tarife değişikliği başvurusunda bulunulabilir.
+(2) Tarife değişikliği başvurularının incelenmesi sonucu var ise tespit edilen eksiklikler, başvuru sahibine yazılı olarak bildirilerek eksikliklerin giderilmesi için on iş günü süre verilir. Usulüne uygun olarak hazırlandığı anlaşılan tarife değişikliği başvuruları, Kurum internet sayfasında on iş günü süreyle ilan edilir.
+(3) İlan süresi içerisinde, tesisten hizmet aldığını kanıtlayan kişiler, tarife değişikliğine itiraz edebilir. İtirazlar, lisans sahibine bildirilerek on iş günü içinde lisans sahibinden tarife değişikliği başvurusunu değiştirmesi veya itiraza karşı görüş hazırlaması istenir.
+(4) Tarife değişikliği başvuruları ve varsa itiraz evrakı, ekonomik göstergeler ve emsal tarifeler çerçevesinde değerlendirilir. Tarife değişikliği talebi, Kurul Kararıyla onaylanır veya ret olunur. İtiraz üzerine, 15 inci madde çerçevesinde resen işlem yapılabilir. Gerekçeli ret veya resen değişiklik kararları ilgiliye on iş günü içinde bildirilir.
+(5) Onaya tabi tarife değişiklikleri, onayda belirtilen tarihte uygulamaya girer ve değiştirilinceye veya herhangi bir nedenle durdurulmasına kadar uygulanır.

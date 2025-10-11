@@ -1,0 +1,2 @@
+Piyasaya müdahale
+MADDE 15 – (1) Piyasada faaliyetleri veya rekabeti engelleme, bozma veya kısıtlama amacını taşıyan veya bu etkiyi doğuran veya doğurabilecek nitelikte anlaşma veya eylemlerin piyasa düzenini bozucu etkiler oluşturması halinde, gerekli işlemlerin başlatılmasıyla birlikte, Kurul Kararıyla her seferinde iki ayı aşmamak üzere, faaliyetlerin her aşamasında, bölgesel veya ulusal düzeyde uygulanmak için taban ve/veya tavan fiyat tespit edilebilir. Bu durumda, gerekli tedbirlerin alınmasına ilişkin olarak ilgili mevzuat hükümleri uygulanır.
