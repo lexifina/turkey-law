@@ -1,0 +1,36 @@
+DÖRDÜNCÜ BÖLÜM
+Çeşitli ve Son Hükümler
+Hayvansal gübre yönetimi
+MADDE 10- (1) Nitrata hassas ve hassas olmayan bölgelerde; yılda 1600 kg ve üzeri azot üretme kapasitesine sahip olarak kurulacak hayvancılık işletmeleri ile yıllık ürettikleri azot miktarına bakılmaksızın hibe, destek, teşvik ve düşük faizli kredi kullanılarak kurulacak hayvancılık işletmeleri, çevre dostu tarımsal uygulamalara uyumlu olarak planlanır.
+(2) Kapasite artırımı ve hayvansal gübre yönetimiyle ilgili ekipman alımı için hibe, destek, teşvik ve düşük faizli kredilerden yararlanmak isteyen tüm hayvancılık işletmelerinde; çevre dostu tarımsal uygulamalarına uygun hayvansal gübre deposu bulunması zorunludur.
+(3) İşletmelerde, işletme kapasitesine uygun büyüklükte hayvansal gübre deposu bulunması zorunludur. İşletme kapasitesinden az hayvan varlığı bulunan mevcut işletmelerde, hayvan varlığına uygun büyüklükte hayvansal gübre deposu bulunabilir. Ancak bu işletmelerde hayvan varlığının artması durumunda hayvansal gübre depo kapasitesinin de arttırılması zorunludur.
+(4) Birden fazla işletmenin aynı ahır/ağıl/kümesi kullanması ve nitrata hassas bölgelerde yılda toplam 1600 kg ve üzeri azot, nitrata hassas olmayan bölgelerde ise yılda toplam 3500 kg ve üzeri azot üretilmesi halinde, ahır/ağıl/kümes kapasitesine uygun büyüklükte hayvansal gübre deposu yapılması zorunludur.
+(5) İşletme/işletmelerde hayvansal gübre deposu yapılacak uygun yerin olmaması durumunda; gübrenin, 24/12/2011 tarihli ve 28152 sayılı Resmî Gazete’ de yayımlanan İnsan Tüketimi Amacıyla Kullanılmayan Hayvansal Yan Ürünler Yönetmeliğine uygun olarak taşınması koşuluyla, işletme dışındaki bir alanda, işletme/işletmelerin toplam kapasite büyüklüğü göz önünde bulundurularak sızdırmaz nitelikte hayvansal gübre deposu yapılabilir.
+(6) Göçer özellikteki, yılın belli dönemlerini yaylak, kışlak ve meralarda geçiren, nitrata hassas bölgelerde yılda toplam 1600 kg ve üzeri azot, nitrata hassas olmayan bölgelerde ise yılda toplam 3500 kg ve üzeri azot üreten küçükbaş hayvancılık işletmeleri; il müdürlükleri tarafından bölge koşullarına göre belirlenen yaylak, kışlak ve meralarda geçirilen süre dikkate alınarak işletmedeki ağıl kapasitesine uygun büyüklükte ve sızdırmaz nitelikte hayvansal gübre deposu yapmak zorundadır.
+(7) İşletmede üretilen hayvansal gübrenin, seralarda ve/veya il müdürlüğü tarafından EK-8’de yer alan tüm yıl ürün alınabilen bölgelere ilişkin belge ile belirlenen bölgelerde kullanıldığı belgelenen hayvancılık işletmelerinde;
+a) Üretilen gübrenin tamamının, işletmenin tarım alanlarında kullanılması veya işletme dışına verilmesi durumunda en az iki aylık gübreyi depolayacak kapasitede hayvansal gübre deposu yapılması,
+b) Üretilen gübrenin tamamının, işletmenin tarım alanlarında kullanılmaması veya işletme dışına verilmemesi durumunda;
+1) Hayvansal gübre analizi yapılarak veya ham gübrede %0,4 oranında azot varlığı kabul edilerek işletmede üretilen hayvansal gübrenin azot içeriğinin,
+2) Gübrenin kullanılacağı sera veya tarım alanı ile ilgili ürün deseni, arazi miktarı, toprak analizi ve gübre içeriğine dayalı azot ihtiyacı dikkate alınarak işletme dışına gönderilecek gübre miktarının,
+3) İşletmede kalan gübre miktarının hesaplanarak gerekli gübre depolama kapasitesinin,
+belirlenmesi,
+c) Hayvansal gübrenin değerlendirme şekline ilişkin olarak işletme dışına gönderilecek gübre ile ilgili, hayvancılık işletmesi ile sera/tarım işletmesi arasında EK-9’da yer alan hayvancılık işletmesi ile sera/tarım işletmesi arasında yapılacak sözleşmenin yapılması,
+hususları il müdürlüğü tarafından kontrol edilir.
+(8) Hayvansal gübre yönetim planı kapsamında; hayvancılık işletmesinin ürettiği gübreyi biyometanizasyon, kompost ya da organik gübre üretiminde kullanılmak üzere ilgili tesislere vermesi durumunda;
+a) İşletmede üretilen gübrenin tamamının biyometanizasyon, kompost ya da organik gübre üretim tesisine verilmesi durumunda en az bir aylık kapasiteli hayvansal gübre deposu yapılması,
+b) İşletmede üretilen gübrenin tamamının biyometanizasyon, kompost ya da organik gübre üretim tesisine verilmemesi durumunda;
+1) Biyometanizasyon, kompost ya da organik gübre üretim tesisinin kapasite bilgileri dikkate alınarak işletme dışına gönderilecek gübre miktarının,
+2) Anlaşma yapılan miktar dışında işletmede kalan gübre miktarının hesaplanarak çevre dostu tarımsal uygulamalarda belirtilen kapalı dönem boyunca gerekli gübre depolama kapasitesinin,
+belirlenmesi,
+c) Hayvansal gübrenin değerlendirme şekline ilişkin olarak işletme dışında kullanılacak gübre ile ilgili, hayvancılık işletmesi ile biyometanizasyon, kompost ya da organik gübre üretim tesisi arasında, EK-10’da yer alan hayvancılık işletmesi ile biyometanizasyon /kompost/organik gübre üretim tesisi arasında yapılacak sözleşmenin yapılması,
+hususları il müdürlüğü tarafından kontrol edilir.
+(9) Hayvancılık işletmesi ile sera/tarım, biyometanizasyon, kompost ya da organik gübre üretim tesisi arasında yapılan sözleşme, işletmede beş yıl süre ile muhafaza edilir ve denetimler sırasında ibraz edilir.
+(10) Hayvancılık işletmesinin kendisine ait bir biyometanizasyon, kompost ya da organik gübre üretim tesisinin olduğu durumlarda;
+a) İşletmede üretilen gübrenin tamamını kendi biyometanizasyon, kompost ya da organik gübre üretim tesisinde kullanan işletmelerde, en az bir aylık kapasiteli hayvansal gübre deposu yapılması,
+b) İşletmenin kendi biyometanizasyon, kompost ya da organik gübre üretim tesisinde kullanılmayan hayvansal gübre miktarı hesaplanarak, uygun kapasitede hayvansal gübre deposunun yapılması,
+c) Biyometanizasyon veya kompost tesisinden çıkan fermente ürünü kapalı dönem boyunca depolayacak büyüklükte depo yapılması,
+hususları il müdürlüğü tarafından kontrol edilir.
+(11) Hayvancılık işletmelerinde hayvansal gübre deposunun kapasitesi belirlenirken EK-11’de yer alan hayvansal gübre depo kapasitesi hesaplama tablosu dikkate alınır.
+(12) 10/10/2015 tarihli ve 29498 sayılı Resmî Gazete’de yayımlanan Mekanik Ayırma, Biyokurutma ve Biyometanizasyon Tesisleri ile Fermente Ürün Yönetimi Tebliğinin 13 üncü maddesi kapsamında, biyometanizasyon tesisinden çıkan fermente ürün ve 5/3/2015 tarihli ve 29286 sayılı Resmî Gazete’de yayımlanan Kompost Tebliğinin 13 üncü maddesi kapsamında, kompost tesisinden çıkan kompost ürünün 23/2/2018 tarihli ve 30341 sayılı Resmî Gazete’de yayımlanan Tarımda Kullanılan Organik, Mineral ve Mikrobiyal Kaynaklı Gübrelere Dair Yönetmelik hükümlerine göre lisans alarak tescil edildikten sonra gübre olarak kullanılması durumunda, çevre dostu tarımsal uygulamalarda yer alan hayvansal gübre yönetimine ilişkin esaslara uyulur.
+(13) Biyometanizasyon ve kompost tesislerinden çıkan paketlenmiş ürünün dışında kalan ürünler için; Mekanik Ayırma, Biyokurutma ve Biyometanizasyon Tesisleri ile Fermente Ürün Yönetimi Tebliğine ve Kompost Tebliğine göre ürün deposu teşkil edilir. Organik gübre üretim tesisinden çıkan paketlenmiş ürün dışında kalan organik gübre için uygun büyüklükte ve sızdırmaz nitelikte depo teşkil edilir.
+(14) Hayvancılık işletmelerinde işletmede üretilen, işletmeden çıkan ve işletmeye alınan gübrelere ilişkin kayıtlar EK-12’de yer alan hayvansal gübre kayıt formuna göre tutulur ve denetimler sırasında ibraz edilir.

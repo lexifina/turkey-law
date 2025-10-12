@@ -1,0 +1,6 @@
+Denetim
+MADDE 9- (1) Eylem planındaki tedbirlerin uygulanıp uygulanmadığını kontrol etmek amacıyla ilçe bazında, tedbirleri uygulamakla yükümlü işletmelerin her yıl en az % 1’i denetlenir.
+(2) Denetlenecek işletmeler Bakanlık bilgi sistemlerine kayıtlı işletmelerden rastgele örnekleme yöntemi ile il/ilçe müdürlükleri tarafından belirlenir. Denetimlerde EK-3’te yer alan işletme denetim raporu düzenlenir.
+(3) Denetim sonucunda düzenlenen raporun bir nüshası işletmeye verilir.
+(4) Kişi veya kurumlar tarafından eylem planlarındaki tedbirlerin uygulanmasına ilişkin şikâyetler üzerine ve Çevre Dostu Tarımsal Uygulamalar Uygunluk Belgesi almak isteyen hayvancılık işletmelerinin talebi üzerine de denetim yapılır. Yapılan denetim sonucunda hayvansal gübrenin çevre dostu tarımsal uygulamalara uygun şekilde depolanarak yönetildiği tespit edilen işletmelere il müdürlüğü tarafından EK-2’de yer alan Çevre Dostu Tarımsal Uygulamalar Uygunluk Belgesi verilir.
+(5) Yapılan denetimlerde çevre dostu tarımsal uygulamalara uygun olmadığı tespit edilen hayvancılık işletmelerine, çevre dostu tarımsal uygulamalara uyum sağlamaları için altı ayı geçmemek üzere süre verilir ve bu süre sonunda uyum sağlamayan işletmelerin varsa Çevre Dostu Tarımsal Uygulamalar Uygunluk Belgesi iptal edilir.
