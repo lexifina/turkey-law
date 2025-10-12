@@ -1,0 +1,39 @@
+{
+  "checked_on": "2026-11-14",
+  "commencement_clauses": [
+    "MADDE 18- (1) Bu Yönetmelik yayımı tarihinde yürürlüğe girer."
+  ],
+  "date_evidence": [
+    [
+      "2025-10-12",
+      "12.10.2025",
+      "original gazette publication date in official listing"
+    ]
+  ],
+  "date_quote": "MADDE 18- (1) Bu Yönetmelik yayımı tarihinde yürürlüğe girer.",
+  "first_law": null,
+  "gazette": "33045",
+  "history": "current-text",
+  "images": {
+    "deferred": 0,
+    "omitted": 0,
+    "referenced": 0,
+    "source": 0
+  },
+  "in_force": "2025-10-12",
+  "in_force_basis": "source commencement clause: enters into force on gazette publication",
+  "issuer": "Çukurova Üniversitesi",
+  "issuer_slug": "cukurova-universitesi",
+  "kind": "regulation",
+  "label": "oldest version available",
+  "path": "regulation/cukurova-universitesi/2025/42647",
+  "published": "2025-10-12",
+  "source": "https://www.mevzuat.gov.tr/anasayfa/MevzuatFihristDetayIframe?MevzuatTur=8&MevzuatNo=42647&MevzuatTertip=5",
+  "source_bytes": 52047,
+  "source_id": "8.5.42647",
+  "source_sha256": "3c4c7f4ce361268dee850838f37a2d92dd12e5f5b57e62fec5a4f492a878ccc3",
+  "text_status": "as-enacted",
+  "title": "ÇUKUROVA ÜNİVERSİTESİ ÇOCUK İYİLİK UYGULAMA VE ARAŞTIRMA MERKEZİ YÖNETMELİĞİ",
+  "university_id": 187,
+  "word_count": 1031
+}

@@ -1,0 +1,4 @@
+İKİNCİ BÖLÜM
+Merkezin Amacı ve Faaliyet Alanları
+Merkezin amacı
+MADDE 5- (1) Merkezin amacı; çeşitli nedenlere bağlı olarak başta uzuv kayıpları olmak üzere ciddi yaralanmaları ve hastalıkları olan çocukların ihtiyaç duyduğu kapsamlı ve bütüncül tedavilere tek bir merkezde ulaşabilmelerini sağlayacak bir platform oluşturmak, konuyla ilgili akademik çalışmalar yürüten bilim insanlarının çoklu disiplinli yaklaşımla çocukların fiziksel aktivite, egzersiz, protez-ortez kullanımı ve çocukların büyüme ile olan etkileşimlerinin vücutta yaratacağı etkileri ve psikolojik yönlerini kapsamlı olarak irdeleyerek çok merkezli ve uluslararası çalışmalar yapmak, elde edilen bulguları bilim dünyasına taşıyabilmelerini sağlamak ve doğal afetler konusunda çocuk hastalara yaklaşımla ilgili eğitimler vermek, rehberler geliştirmek, ulusal ve uluslararası düzeyde örnek olabilecek bir merkez modeli oluşturmaktır.
