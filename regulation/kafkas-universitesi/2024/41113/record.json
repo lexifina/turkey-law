@@ -1,0 +1,54 @@
+{
+  "checked_on": "2026-11-14",
+  "commencement_clauses": [
+    "MADDE 23- (1) Bu Yönetmelik 2024-2025 eğitim-öğretim yılı başından geçerli olmak üzere yayımı tarihinde yürürlüğe girer."
+  ],
+  "date_evidence": [
+    [
+      "2024-12-24",
+      "24.12.2024",
+      "original gazette publication date in official listing"
+    ],
+    [
+      "2025-10-12",
+      "RG-12/10/2025-33045",
+      "latest source-printed gazette amendment date for current consolidated text"
+    ],
+    [
+      "2025-10-12",
+      "RG-12/10/2025-33045",
+      "latest source-printed gazette amendment date for current consolidated text"
+    ],
+    [
+      "2025-10-12",
+      "12/10/2025",
+      "latest gazette date in source amendment table"
+    ]
+  ],
+  "date_quote": "RG-12/10/2025-33045",
+  "first_law": null,
+  "gazette": "32762",
+  "history": "current-text",
+  "images": {
+    "deferred": 0,
+    "omitted": 0,
+    "referenced": 0,
+    "source": 0
+  },
+  "in_force": "2025-10-12",
+  "in_force_basis": "latest source-printed gazette amendment date for current consolidated text",
+  "issuer": "Kafkas Üniversitesi",
+  "issuer_slug": "kafkas-universitesi",
+  "kind": "regulation",
+  "label": "oldest version available",
+  "path": "regulation/kafkas-universitesi/2024/41113",
+  "published": "2024-12-24",
+  "source": "https://www.mevzuat.gov.tr/anasayfa/MevzuatFihristDetayIframe?MevzuatTur=8&MevzuatNo=41113&MevzuatTertip=5",
+  "source_bytes": 64488,
+  "source_id": "8.5.41113",
+  "source_sha256": "9a8e9d17b14ecae85243ce353a1d61ecd8f2e2bee5b228c378e7106972b52a2a",
+  "text_status": "current-consolidated",
+  "title": "KAFKAS ÜNİVERSİTESİ DİŞ HEKİMLİĞİ FAKÜLTESİ\r\nEĞİTİM-ÖĞRETİM VE SINAV YÖNETMELİĞİ",
+  "university_id": 206,
+  "word_count": 2983
+}

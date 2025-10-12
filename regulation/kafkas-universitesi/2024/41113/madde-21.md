@@ -1,0 +1,4 @@
+Mezuniyet ve diploma
+MADDE 21- (1) Beş yıllık diş hekimliği eğitimini başarı ile tamamlayan öğrencilere diş hekimliği diploması verilir. Öğrenciye diş hekimliği diplomasının verilebilmesi için öğrencinin programdaki alması gereken ders ve klinik uygulama derslerini, her birinden en az CC harf notu alarak tamamlamış olması ve GANO'nun 2,00 veya üzerinde olması gerekir. Derecelendirme, diş hekimliği eğitim-öğretim süresini beş yılda tamamlamış mezunlar arasından GANO’ya göre yapılır.
+(2) Bulundukları yarıyıl/yıl sonu itibarıyla bütün derslerini almış, başarmış ve disiplin cezası almamış öğrencilerden GANO’su 3,00-3,49 arasında olanlar onur öğrencisi, 3,50-4,00 arasında olanlar yüksek onur öğrencisi sayılır. Bu öğrencilerin listesi her yarıyıl/yıl sonunda Dekanlık tarafından ilan edilir.
+(3) Diplomalar hazırlanıncaya kadar öğrencilere, diplomasını alırken iade edilmek üzere geçici mezuniyet belgesi verilir.

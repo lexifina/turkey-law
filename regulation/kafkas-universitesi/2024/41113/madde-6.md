@@ -1,0 +1,2 @@
+Eğitim-öğretim süresi
+MADDE 6- (1) Fakültede beş yıllık eğitim programı uygulanır. Bu öğrenim süresini başarı ile tamamlayanlara diş hekimliği diploması verilir. Öğrenciler, kayıt olduğu programa ilişkin derslerin verildiği dönemden başlamak üzere, her dönem için kayıt yaptırıp yaptırmadığına bakılmaksızın öğrenim süresi lisans ve yüksek lisans derecesini birlikte veren programları azami sekiz yıl içinde başarı ile tamamlamak zorundadır.

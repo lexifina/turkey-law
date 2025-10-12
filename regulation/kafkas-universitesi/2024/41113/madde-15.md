@@ -1,0 +1,4 @@
+Sınavların değerlendirilmesi
+MADDE 15- (1) Pratik uygulaması olan derslerde tamamlanması gereken iş miktarı ve sınavlara etkisi anabilim dalının önerisi ve Fakülte Kurulunun onayı ile eğitim yılı başında ilan edilir. Bir dersteki başarı durumu; yarıyıl/yıl sonu veya bütünleme sınavı, laboratuvar, pratik ve benzeri uygulamalı çalışmalar ile ara sınavların not ortalamasının birlikte değerlendirilmesi ile belirlenir.
+(2) Sınavlar 100 tam puan üzerinden değerlendirilir. Bir dersin başarı notu, öğrencinin o dersin ara sınavları ile diğer çalışmalarından almış olduğu not ortalamasının %30’u ile yarıyıl/yıl sonu veya bütünleme sınav notunun %70’inin toplanmasıyla elde edilen nottur. Öğrencinin ara sınavı not ortalaması ne olursa olsun başarılı sayılması için yarıyıl/yıl sonu ve bütünleme sınavından en az 60 puan alması gerekir.
+(3) Öğrencilerin bir dersten başarılı sayılması için CC harf notu veya üstü notlardan birini almış olması gerekir.
