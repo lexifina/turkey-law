@@ -1,0 +1,22 @@
+{
+  "kind": "norm",
+  "issuer": "Gelir İdaresi Başkanlığı",
+  "document_type": "ozelge",
+  "number": "E-11395140-105[VUK-3-5738]-1305618",
+  "source_id": 38869,
+  "date": "2025-10-13",
+  "title": "Ortağı olunan adi ortaklığa ilişkin faaliyetlerden dolayı hisseye düşen enflasyon düzeltmesinden kaynaklanan kâr veya zararın geçici 33 üncü madde kapsamında kazancın tespitinde dikkate alınıp alınmayacağı hk.",
+  "source": "https://gib.gov.tr/mevzuat/kanun/434/ozelge/38869",
+  "related_law": "213 sayılı VERGİ USUL KANUNU",
+  "source_api": "https://gib.gov.tr/api/gibportal/mevzuat/ozelge/list",
+  "source_listing": "evidence/list/2026-11-16/ozelge-p009.json",
+  "source_listing_sha256": "9cb52b4963a9a177a23948f6e28c12936c2f43c88a0b410872bb81c01983667c",
+  "source_sha256": "3a6193f04ec2e0df3a103fa8dcd0eb91064d7035c40d63252a39dcbe70696e6e",
+  "text_status": "as-enacted",
+  "text_file": "metin.md",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  }
+}
