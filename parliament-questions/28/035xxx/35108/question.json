@@ -1,0 +1,21 @@
+{
+  "record_type": "parliament-written-question",
+  "term": 28,
+  "legislative_year": 4,
+  "esas_no": "7/35108",
+  "submitted": "2025-10-13",
+  "submitted_as": "Başkanlığa geliş tarihi",
+  "mp": "Aykut KAYA",
+  "province": "Antalya",
+  "summary": "Ukrayna'nın ülkemizden ithal ettiği domates ve salatalık için gümrük vergisi uygulamasına ilişkin",
+  "status": "Cevaplanmadığı Gelen Kağıtlarda İlan Edildi",
+  "status_as_of": "2026-11-16",
+  "official_record": "https://www.tbmm.gov.tr/Denetim/Yazili-Soru-Onergesi-Detay/0ff9e53b-c566-45f5-958a-0199e1eece9a",
+  "source": "https://tbmm.gov.tr/Denetim/YaziliSoruOnergesiTable",
+  "source_form": "https://tbmm.gov.tr/Denetim/Yazili-Soru-Onergeleri",
+  "source_sha256": "7a2075615794d8655d90d67c466e2ab2dc201a8bf2ddd9853b0b9f1b2fc6d3ed",
+  "in_force": "2025-10-13",
+  "in_force_basis": "Date the question reached the Speaker (Başkanlığa geliş tarihi) in the official TBMM written-question record; parliamentary oversight record, not law",
+  "history_type": "metadata",
+  "text_status": "metadata-only: question text, addressee and answers are in the linked official record (PDFs on cdn.tbmm.gov.tr); not transcribed here"
+}
