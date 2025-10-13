@@ -1,0 +1,25 @@
+{
+  "number": "meeting-10-13",
+  "number_as_published": "meeting-10-13",
+  "year": 2025,
+  "title": "13.10.2025 - Meclis Kararları",
+  "decision_date": "2025-10-13",
+  "source": "https://mudanya.bel.tr/meclis-kararlari?page=2",
+  "official_document": "https://mudanya.bel.tr/meclis-kararlari/13-10-2025-meclis-kararlari",
+  "source_sha256": "0cf4e22f75704063e09a7ed8464b119562d7ae8e1b11feeeb6dba11b08518147",
+  "issuer": "Mudanya Belediye Meclisi",
+  "history_type": "metadata",
+  "text_status": "metadata-only: listing fields as published; complete decision text is in the linked official document, not transcribed",
+  "in_force": "2025-10-13",
+  "in_force_basis": "Decision date as printed in the official council listing: 13.10.2025; adoption date of the council decision; legal commencement not asserted",
+  "missing": [
+    "complete official decision text",
+    "official annexes"
+  ],
+  "law_text_complete": false,
+  "privacy_withheld": false,
+  "listing_label": "13.10.2025 - Meclis Kararları",
+  "record_scope": "one official file of council decisions (meeting)",
+  "list_date": "30 . 10 . 2025",
+  "document_note": "the decisions are published on the linked official page; not transcribed here"
+}
