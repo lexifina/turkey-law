@@ -1,0 +1,21 @@
+{
+  "record_type": "parliament-written-question",
+  "term": 28,
+  "legislative_year": 4,
+  "esas_no": "7/35144",
+  "submitted": "2025-10-13",
+  "submitted_as": "Başkanlığa geliş tarihi",
+  "mp": "Öznur BARTİN",
+  "province": "Hakkari",
+  "summary": "Sayıştayın 2024 yılı Denetim Raporu'nda Kırıkkale Üniversitesi ile ilgili yaptığı bazı tespitlere ilişkin",
+  "status": "Süresi Geçtikten Sonra Cevaplandı",
+  "status_as_of": "2026-11-16",
+  "official_record": "https://www.tbmm.gov.tr/Denetim/Yazili-Soru-Onergesi-Detay/dd59572e-04f9-43c5-9d4f-0199e1d4a48c",
+  "source": "https://tbmm.gov.tr/Denetim/YaziliSoruOnergesiTable",
+  "source_form": "https://tbmm.gov.tr/Denetim/Yazili-Soru-Onergeleri",
+  "source_sha256": "7a2075615794d8655d90d67c466e2ab2dc201a8bf2ddd9853b0b9f1b2fc6d3ed",
+  "in_force": "2025-10-13",
+  "in_force_basis": "Date the question reached the Speaker (Başkanlığa geliş tarihi) in the official TBMM written-question record; parliamentary oversight record, not law",
+  "history_type": "metadata",
+  "text_status": "metadata-only: question text, addressee and answers are in the linked official record (PDFs on cdn.tbmm.gov.tr); not transcribed here"
+}
