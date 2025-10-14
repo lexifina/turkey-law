@@ -1,0 +1,24 @@
+{
+  "number": "341",
+  "number_as_published": "341",
+  "year": 2025,
+  "title": "NAZIM VE UYGULAMA İMAR PLANI (HALİLİYE NALÇIKAN)",
+  "decision_date": "2025-10-14",
+  "source": "https://www.sanliurfa.bel.tr/icerik/21677/106/nazim-ve-uygulama-imar-plani-haliliye-nalcikan",
+  "official_document": null,
+  "source_sha256": "f065c7891f7487f12427dfd95e988977cb95d9c96e06c9a5de2f0bdddbbb904a",
+  "issuer": "Şanlıurfa Büyükşehir Belediye Meclisi",
+  "history_type": "metadata",
+  "text_status": "metadata-only: decision number, date and subject from the official announcement; the decision text is not published on the page",
+  "in_force": "2025-10-14",
+  "in_force_basis": "Decision date as printed in the official council listing: 14.10.2025 tarih ve 341 sayılı (council decision cited in the official announcement); adoption date of the council decision; legal commencement not asserted",
+  "missing": [
+    "complete official decision text",
+    "official annexes"
+  ],
+  "law_text_complete": false,
+  "privacy_withheld": false,
+  "record_scope": "one council decision, as cited in the municipality's official plan announcement (ilan)",
+  "announcement_date": "2025-11-03",
+  "listing": "https://www.sanliurfa.bel.tr/kategori/82/0/meclis-kararlari?page=1"
+}
