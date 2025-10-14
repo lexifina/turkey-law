@@ -1,0 +1,4 @@
+Uygulamalı derslerin değerlendirilmesi
+MADDE 26 – (1) Sağlık Yüksekokulu ve sağlık meslek yüksekokullarındaki uygulamalı dersler, belirlenen kurumların mesai saatlerine uyularak, akademik takvimde belirtilen tarihler arasında, öğretim elemanlarının denetiminde yapılır.
+(2) Uygulamalı meslek derslerinin değerlendirilmesinde, her dersin özelliğine göre, geliştirilen değerlendirme formundaki ölçüler esas alınarak, uygulama başarı notu verilir. Uygulama sırasında, öğrencinin bakım verdiği hastalara/ailelere ilişkin, geliştirdikleri bakım süreci raporları, mesleğe özgü davranış nitelikleri dikkate alınır.
+(3) Sağlık Yüksekokulu ve sağlık meslek yüksekokullarındaki uygulamalı öğretim, devlet hastanesinde, yüksekokul ve meslek yüksekokulu yönetim kurullarının onayı ile hasta bakımının en iyi uygulandığı sağlık kurumlarında yapılır.

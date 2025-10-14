@@ -1,0 +1,4 @@
+Not ortalaması
+MADDE 29 – (1) Öğrencilerin başarı durumu her yarıyıl sonunda Öğrenci İşleri Daire Başkanlığı tarafından hesaplanarak belirlenir. Bir öğrencinin bir eğitim-öğretim çalışmasından aldığı toplam kredi, o çalışmanın kredi değeri ile aldığı yarıyıl notu katsayısının çarpımı yoluyla elde edilir.
+(2) Herhangi bir yarıyılın not ortalamasını bulmak için; o yarıyılda öğrencinin bütün eğitim-öğretim çalışmalarından aldığı toplam kredi tutarı, alınan çalışmaların kredi değeri toplamına bölünür. Elde edilen ortalama virgülden sonra iki hane olarak gösterilir.
+(3) Genel not ortalaması, öğrencinin Üniversiteye girişinden itibaren almış olduğu ve kayıtlı bulunduğu programda geçerli olan derslerin ve çalışmaların tümü dikkate alınarak hesaplanır. Gerek yarıyıl ve gerekse genel not ortalamasında AA’dan FF’ye kadar verilen notlar esas alınır. Genel not ortalamasına tekrar edilen derslerden alınan en son not katılır. Bütün notlar öğrencinin not belgesine geçirilir.

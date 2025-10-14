@@ -1,0 +1,4 @@
+Notların verilmesi
+MADDE 25 – (1) Harf notları, öğretim elemanı tarafından, interaktif olarak Öğrenci İşleri Daire Başkanlığına verildiği anda kesinleşir. Bundan sonra notlar interaktif olarak ilan edilir. Sınavların bitimini izleyen haftanın ilk üç günü içerisinde harf notları ile ilgili işlemlerin tamamlanması zorunludur. Harf notları ile ilgili işlemlerin tamamlanmasından sonra iki suret çıktısı alınarak ilgili öğretim elemanı tarafından imzalanır. İmzalı listelerin bir nüshası ilgili bölüm başkanlığı ve yüksekokul müdürlüğünde, diğer nüshası ise Öğrenci İşleri Daire Başkanlığında muhafaza edilir.
+(2) Her yarıyılın sonunda ilgili kurul tarafından ders ve diğer çalışmaların değerlendirilmesi yapılır.
+(3) Öğrencilerin öğrenim durumlarının izlenebilmesi ve kontrolünün sağlanabilmesi amacıyla ilgili birim ve Öğrenci İşleri Daire Başkanlığı tarafından her bir öğrenci için öğrenim durumu kütüğü tutulur ve muhafaza edilir.

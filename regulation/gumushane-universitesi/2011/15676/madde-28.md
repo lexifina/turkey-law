@@ -1,0 +1,3 @@
+Sınav sonuçlarına itiraz
+MADDE 28 – (1) Öğrenciler sınav sonuçlarına, notların ilânından itibaren en geç yedi gün içerisinde dekanlığa veya müdürlüğe yazılı olarak itirazda bulunabilir. İtiraz üzerine ilgili öğretim elemanı tarafından yapılacak inceleme sonucu maddî hata olup olmadığı incelenerek, varsa gerekli düzeltme yapılarak sonuç dekanlığa/müdürlüğe ve öğrenciye bildirilir. Dekanlık veya Müdürlük düzeltme varsa sonucu Öğrenci İşleri Daire Başkanlığına bildirir.
+(2) Yarıyıl sonu sınav notlarında itiraz süresinden sonra herhangi bir maddi hata tespit edilmesi halinde, düzeltme isteği, dersi veren öğretim elemanının talebi üzerine ilgili yönetim kurulunca karara bağlanır. Sonuç Öğrenci İşleri Daire Başkanlığına ve öğrenciye bildirilir.

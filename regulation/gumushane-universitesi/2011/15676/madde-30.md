@@ -1,0 +1,5 @@
+Ders tekrarı ile ilgili esaslar
+MADDE 30 – (1) Öğrenciler; başarısız sayıldıkları veya normal yarıyılında almadıkları dersleri, verildikleri yarıyılda öncelikle tekrar eder. Bu durumda; bu Yönetmeliğin 18 inci, 19 uncu, 20 nci, 21 inci, 22 nci ve 23 üncü maddeleri hükümleri uygulanır.
+(2) Bir dersten yarıyıl sonu sınavına girme şartını bir kere yerine getiren öğrenciden, bu dersi daha sonraki yarıyıllarda tekrarlaması durumunda, sadece teorik derslerden devam şartı aranmaz. Ancak, uygulama, laboratuar ve derse bağlı diğer yarıyıl içi çalışmalara devam şartı aranır.
+(3) Öğrenciler, tekrarlanması gereken seçmeli derslerinin yerine bölüm başkanlığı, yüksekokul veya meslek yüksekokul müdürlüğünce açılan diğer seçmeli dersleri alabilir. Ancak, bu durumda öğrenci otomasyon üzerinden ders kayıt esnasında almış olduğu yeni seçmeli dersi, bırakmak istediği seçmeli derse saydırmak zorundadır. Bu takdirde, önceki ders ve çalışmalar için kullanılmış haklar yeniden kullanılmaz.
+(4) (Mülga:RG-29/9/2013-28780)(2)

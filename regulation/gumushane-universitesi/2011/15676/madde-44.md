@@ -1,0 +1,6 @@
+Mezuniyet, diploma ve öğretmenlik sertifikası verilmesi
+MADDE 44 – (1) Lisans ve önlisans diploması verilebilmesi için, öğrencinin genel not ortalamasının en az 2.00 olması gerekir. Üniversite öğrenciliği süresince uyarma dışında disiplin cezası almamış olmak kaydıyla, bir yarıyıl sonunda en az normal ders yükü ile o yarıyılın not ortalaması 3.00-3.50 olan öğrenciler onur öğrencisi, 3.51-4.00 arasındaki öğrenciler yüksek onur öğrencisi listesine geçerek mezun olur ve durumları diplomalarında belirtilir.
+(2) Diplomanın ön yüzü, Dekan/Müdür ve Rektör, arka yüzü Öğrenci İşleri Daire Başkanı tarafından imzalanır.
+(3) (Değişik:RG-14/10/2025-33047) Sağlık Bakanlığı tarafından belirlenen bölüm ve programlardan mezun olan öğrencilerin diplomaları Sağlık Bakanlığının ilgili birimleri tarafından tescil edilir. Tescil işlemleri çevrimiçi olarak yapılır.
+(4) Milli Eğitim Bakanlığınca öğretmen olarak atanabilecek lisans mezunları ile Üniversitenin lisans öğrencilerine, Yükseköğretim Kurulunun belirlediği esaslar çerçevesinde, öğretmenlik sertifika programları uygulanır.
+(5) Başka bir Üniversiteden nakil yoluyla gelen öğrencilerin lisans diploması alabilmeleri için son iki yarıyılı Üniversitede okumuş olmaları gerekir.

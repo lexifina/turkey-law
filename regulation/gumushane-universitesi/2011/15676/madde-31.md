@@ -1,0 +1,2 @@
+Üst yarıyıldan ders alma
+MADDE 31 – (1) Öğrenci, ancak danışmanının olumlu görüşüyle, üst yarıyıldan ders alabilir. Bunun için, öğrencinin; önceki yarıyıllardan başarısız dersi olmaması ve ağırlıklı genel not ortalamasının 3.20 ve üstünde olması şarttır. Üstten alınacak derslerin kredi tutarı, bulunulan yarıyılın kredi miktarının 1/3’ünü aşamaz. Öğrenci, üst yarıyıldan ders alarak, bu Yönetmeliğin 7 nci maddesinde belirtilen öğrenim süresinden daha kısa sürede mezun olabilir.

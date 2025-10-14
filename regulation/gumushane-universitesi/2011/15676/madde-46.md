@@ -1,0 +1,4 @@
+Yönetmelikte hüküm bulunmayan haller
+MADDE 46 – (1) Bu Yönetmelikte hüküm bulunmayan hallerde; ilgili diğer mevzuat hükümleri ile Yükseköğretim Kurulu, Senato ve birimlerin ilgili kurullarının kararları uygulanır.
+İntibak
+GEÇİCİ MADDE – 1 (1) Erzincan Üniversitesi Rektörlüğüne bağlı iken adı ve bağlantısı değiştirilerek Gümüşhane Üniversitesi Rektörlüğüne bağlanan Kelkit Aydın Doğan Meslek Yüksekokulu bölüm ve programlarına, 2008-2009 eğitim-öğretim yılından önce kayıt olan öğrencilere; sınavlar, başarı notları ve mezuniyet işlemleri ile ilgili olarak adı ve bağlantısı değiştirilmeden önce tabi oldukları Erzincan Üniversitesinin o tarihte yürürlükte olan yönetmelik hükümleri; 2012-2013 eğitim-öğretim yılından itibaren ise söz konusu öğrencilerin başarı notları aynen geçerli sayılarak bu Yönetmelik hükümleri uygulanır.
