@@ -1,0 +1,83 @@
+{
+  "source_id": "7.5.24519",
+  "kind": "regulation",
+  "register_kind": "Kurum ve Kuruluş Yönetmelikleri",
+  "title": "DOÇENTLİK YÖNETMELİĞİ",
+  "number": "24519",
+  "issuer": "Yükseköğretim Kurulu Başkanı",
+  "issuer_slug": "yuksekogretim-kurulu-baskani",
+  "path": "regulation/yuksekogretim-kurulu-baskani/2018/24519",
+  "source": "https://www.mevzuat.gov.tr/anasayfa/MevzuatFihristDetayIframe?MevzuatTur=7&MevzuatNo=24519&MevzuatTertip=5",
+  "source_sha256": "8bac4833427bec22dc3fb3073250b2820be21e8b1b5caeb5d78ba38b5065a045",
+  "source_bytes": 51246,
+  "published": "2018-04-15",
+  "gazette": "30392",
+  "in_force": "2025-10-14",
+  "in_force_basis": "latest Resmî Gazete date printed in the source amendment notes/table (\"RG-14/10/2025\") for the current consolidated text",
+  "date_evidence": [
+    [
+      "2025-10-14",
+      "RG-14/10/2025",
+      "Resmî Gazete date printed in the source amendment note"
+    ],
+    [
+      "2025-10-14",
+      "14/10/2025",
+      "Resmî Gazete date in the source amendment table"
+    ],
+    [
+      "2023-05-10",
+      "10/5/2023",
+      "Resmî Gazete date in the source amendment table"
+    ],
+    [
+      "2021-08-10",
+      "RG-10/8/2021",
+      "Resmî Gazete date printed in the source amendment note"
+    ],
+    [
+      "2021-08-10",
+      "10/8/2021",
+      "Resmî Gazete date in the source amendment table"
+    ],
+    [
+      "2021-04-16",
+      "16/4/2021",
+      "Resmî Gazete date in the source amendment table"
+    ],
+    [
+      "2020-06-12",
+      "RG-12/6/2020",
+      "Resmî Gazete date printed in the source amendment note"
+    ],
+    [
+      "2020-06-12",
+      "12/6/2020",
+      "Resmî Gazete date in the source amendment table"
+    ],
+    [
+      "2019-09-07",
+      "RG-7/9/2019",
+      "Resmî Gazete date printed in the source amendment note"
+    ],
+    [
+      "2019-09-07",
+      "7/9/2019",
+      "Resmî Gazete date in the source amendment table"
+    ]
+  ],
+  "commencement_clauses": [
+    "Bu Yönetmelik yayımı tarihinde yürürlüğe girer"
+  ],
+  "history": "current-text",
+  "label": "oldest version available",
+  "checked_on": "2026-11-15",
+  "word_count": 2455,
+  "text_status": "current-consolidated",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  },
+  "completeness": "html-text-complete"
+}
