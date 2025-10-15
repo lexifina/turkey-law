@@ -1,0 +1,20 @@
+{
+  "applicant": "D.T.",
+  "application_date": "2023-03-28",
+  "application_number": "2023/23828",
+  "deciding_unit": "İkinci Bölüm",
+  "decision_date": "2025-10-15",
+  "id": "c9dd8fc4-4692-4018-9550-ff8b093a88c5",
+  "in_force": "2025-10-15",
+  "in_force_basis": "official decision date",
+  "kind": "constitutional-court-individual-application",
+  "omitted_images": 0,
+  "outcome": "Esas (İhlal)",
+  "published": null,
+  "referenced_images": 0,
+  "source": "https://kararlarbilgibankasi.anayasa.gov.tr/kbb/pages/search/Tumu?id=a2JiOmM5ZGQ4ZmM0LTQ2OTItNDAxOC05NTUwLWZmOGIwOTNhODhjNQ&type=BireyselBasvuru",
+  "source_api": "https://kararlarbilgibankasi.anayasa.gov.tr/api/core/public/search",
+  "source_images": 0,
+  "source_sha256": "c4943721e2e3abb47646fd4c4b6725a98d81777e751e17c64e099e17ed3c6772",
+  "version_label": "as-enacted"
+}
