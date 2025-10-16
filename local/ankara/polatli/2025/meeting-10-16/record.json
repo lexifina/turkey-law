@@ -1,0 +1,25 @@
+{
+  "number": "meeting-10-16",
+  "number_as_published": "meeting-10-16",
+  "year": 2025,
+  "title": "16 EKİM 2025 MECLİS KARARLARI",
+  "decision_date": "2025-10-16",
+  "source": "https://www.polatli.bel.tr/mecliskararlari?page=4",
+  "official_document": "https://www.polatli.bel.tr/upload/mecliskararlari/st2FuaYzMYskHaW.pdf",
+  "source_sha256": "243ab28b7e14d67c1a1fece8d25dd888046c7117e755a2f04e75dc2bc07f9c02",
+  "issuer": "Polatlı Belediye Meclisi",
+  "history_type": "metadata",
+  "text_status": "metadata-only: listing fields as published; complete decision text is in the linked official document, not transcribed",
+  "in_force": "2025-10-16",
+  "in_force_basis": "Decision date as printed in the official council listing: 16 EKİM 2025; adoption date of the council decision; legal commencement not asserted",
+  "missing": [
+    "complete official decision text",
+    "official annexes"
+  ],
+  "law_text_complete": false,
+  "privacy_withheld": false,
+  "listing_label": "16 EKİM 2025 MECLİS KARARLARI",
+  "record_scope": "one official file of council decisions (meeting)",
+  "file_name": "2025-131-2026-yılı-ücret-tarifeleri.pdf",
+  "list_date": "2025-10-16"
+}
