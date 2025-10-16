@@ -1,0 +1,17 @@
+{
+  "kind": "decision",
+  "issuer": "Sayıştay 6. Dairesi",
+  "number": "986",
+  "decision_date": "2025-10-16",
+  "source_id": 40022,
+  "chamber": "6",
+  "ilam_number": "184",
+  "item_number": 28,
+  "public_body_type": "Belediyeler ve Bağlı İdareler",
+  "account_year": 2020,
+  "subject": "Personel Mevzuatı ile İlgili Kararlar",
+  "source": "https://www.sayistay.gov.tr/KararlarDaire/Detay/40022/",
+  "source_sha256": "f688f33b3d64cf89eeecfc1628651a702d8bbc604d2344b1aa70806a778405cf",
+  "text_status": "as-enacted",
+  "text_file": "metin.md"
+}
