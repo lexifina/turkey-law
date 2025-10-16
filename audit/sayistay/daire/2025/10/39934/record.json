@@ -1,0 +1,17 @@
+{
+  "kind": "decision",
+  "issuer": "Sayıştay 6. Dairesi",
+  "number": "987",
+  "decision_date": "2025-10-16",
+  "source_id": 39934,
+  "chamber": "6",
+  "ilam_number": "97",
+  "item_number": 1,
+  "public_body_type": "Belediyeler ve Bağlı İdareler",
+  "account_year": 2022,
+  "subject": "İhale Mevzuatı ile İlgili Kararlar",
+  "source": "https://www.sayistay.gov.tr/KararlarDaire/Detay/39934/",
+  "source_sha256": "d9d88c925f89ebac2c8e1409245b2fe6fa0fe6e26a4a8fa75c916c00e3930c3e",
+  "text_status": "as-enacted",
+  "text_file": "metin.md"
+}
