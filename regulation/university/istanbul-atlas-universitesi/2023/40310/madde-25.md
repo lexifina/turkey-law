@@ -1,0 +1,8 @@
+DÖRDÜNCÜ BÖLÜM
+Bilimsel Hazırlık Programı, Öğrenci Kabulü, Kayıt, Sınavlar ve
+Değerlendirmeye İlişkin Esaslar
+Bilimsel hazırlık programına öğrenci kabulü
+MADDE 25- (1) Yüksek lisans ve doktora programlarına kabul edilen öğrencilerden lisans veya yüksek lisans derecesini kabul edildikleri yüksek lisans veya doktora programından farklı alanlarda almış olanlar ile lisans veya yüksek lisans derecesini kabul edildikleri Üniversite dışındaki yükseköğretim kurumlarından almış olan yüksek lisans veya doktora programı adayları için eksikliklerini gidermek amacıyla bilimsel hazırlık programı uygulanabilir.
+(2) Bilimsel hazırlık programında alınması zorunlu dersler, ilgili lisansüstü programını tamamlamak için gerekli görülen derslerin yerine geçemez. Ancak bilimsel hazırlık programındaki bir öğrenci, bilimsel hazırlık derslerinin yanı sıra anabilim dalı başkanlığının önerisi ve Enstitü Yönetim Kurulunun onayı ile ilgili lisansüstü programından mezuniyet kredisinin %50’sini geçmeyecek kadar ders alabilir.
+(3) Bilimsel hazırlık öğrencilerinin lisansüstü bilimsel hazırlık programında başarılı sayılabilmeleri ve lisansüstü programa başlayabilmeleri için bilimsel hazırlık programının lisans/lisansüstü derslerini en az C+ notu ve en az 2,00 genel not ortalaması ile tamamlamaları gerekir.
+(4) Bilimsel hazırlık programında geçirilecek süre en çok iki yarıyıldır. Yaz öğretimi bu süreye dahil edilmez. Bu süre dönem izinleri dışında uzatılamaz ve süre sonunda başarılı olamayan öğrencinin programdan ilişiği kesilir. Bu programda geçirilen süre yüksek lisans veya doktora programı sürelerine dahil edilmez.

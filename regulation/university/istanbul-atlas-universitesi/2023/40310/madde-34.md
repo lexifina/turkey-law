@@ -1,0 +1,2 @@
+Sınav sonuçlarına itiraz
+MADDE 34- (1) Değerlendirmeye esas olan başarı notlarına itiraz, ilânı takip eden beş iş günü içinde resmî olarak Enstitüye yapılır. Enstitü Müdürü, en az biri sınavı yapan öğretim üyesi olmak üzere ilgili öğretim üyeleri arasından üç kişilik bir komisyon kurar. Komisyon, itirazları beş iş günü içinde inceler, sonuç yazılı ve gerekçeli olarak Enstitü Müdürlüğüne bildirilir. İnceleme sonunda sınav sonucunda değişiklik var ise Enstitü Yönetim Kurulunun kararıyla sonuç değiştirilir.

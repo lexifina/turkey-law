@@ -1,0 +1,2 @@
+Tez konusu ataması
+MADDE 9- (1) Öğrenci danışmanıyla beraber belirlediği tez konusunu en geç ikinci yarıyılın sonuna kadar Enstitüye bildirir. Tez önerisi, anabilim dalı başkanlığınca Enstitüye bildirilir ve Enstitü Yönetim Kurulu kararı ile kesinleşir. Bu süre içerisinde tez önerisini sunmayan öğrencinin durumu, mazeretini bildirerek başvurması halinde Enstitü Yönetim Kurulunda görüşülerek değerlendirilir.
