@@ -1,0 +1,4 @@
+İdari yaptırımlar
+MADDE 21 – (1) Bu Yönetmelik hükümlerine aykırı faaliyette bulunulduğunun tespiti hâlinde bu yerler valilikçe kapatılır.
+(2) Bu Yönetmelik kapsamındaki birimlerin denetimi sonucunda ortaya çıkan ve denetim formuna kaydedilen eksiklik ve usulsüzlüklerle alakalı olarak öncelikle sağlık kurum veya kuruluşunun tabi olduğu mevzuattaki idari yaptırım tatbik edilir.
+(3) Tespit edilen eksiklikle alakalı olarak ilgili mevzuatta açıkça bir yaptırım öngörülmemiş olması hâlinde eksikliğin giderilmesi için bir haftadan az olmamak üzere süre verilir. Sürenin sonunda yerinde denetim yapılır. Denetimde, eksikliğin devam ettiğine karar verilen birimin faaliyeti durdurulur. En fazla üç ay ilave süre verilmesine rağmen süre sonunda eksikliğin giderilmemesi hâlinde açılma izni valilikçe iptal edilir.

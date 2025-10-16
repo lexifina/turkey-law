@@ -1,0 +1,6 @@
+Birim personelinin görevleri
+MADDE 16 – (1) Sorumlu tabip, birimle ilgili yönetim işlerinden sorumludur.
+(2) Tabip, bilimsel geçerliliği olan tedavi protokollerine göre hastalara tedavi uygulamak, hastaları tıbbi yönden izlemek, tedavi seansları ile ilgili hastanın dosyasına gözlem notunu kaydetmek, bu Yönetmeliğe uygun idari ve tıbbi tedbir ve şartları gözetmek, akut komplikasyonlarda ilk müdahaleyi yapmak ile sorumlu tabip tarafından verilen diğer görevleri yerine getirmekle yükümlüdür. Sorumlu tabip de aynı zamanda bu hizmetlere katılır.
+(3) (Değişik ibare:RG-16/10/2025-33049) Sağlık personeli, hastanın her türlü tıbbi bakımını sorumlu tabibin direktiflerine göre yapmak, tabibin talimatları doğrultusunda hastalara eğitim vermek, rutin hasta takiplerini yapmak, tedavilere ilişkin kayıtları tutmak ve ilgili mevzuat ile kendilerine verilen diğer görevleri yerine getirmekle yükümlüdür.
+(4) (Mülga:RG-16/10/2025-33049)
+(5) Psikolog, tabibin gözetim ve denetimi altında mesleki yöntem ve teknikleri uygulayarak hastaların psikolojik sorunlarının çözümlenmesine yardım eder, birimlerde hastaların tabiple iletişim ve işbirliği kurmasında yardımcı olur, hastadan alınan bilgiler ve hastanın birim bünyesinde iken gözlemlenen yaşayış ve davranışlarını izler, bulguları ilgili tabibe bildirir.

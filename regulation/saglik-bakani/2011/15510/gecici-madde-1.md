@@ -1,0 +1,4 @@
+Mevcut birimlerin uyumu
+GEÇİCİ MADDE 1 – (1) Bu Yönetmeliğin yürürlüğe girdiği tarihten önce;
+a) Tütün bağımlılığı tedavisi ve eğitimi yapmakta olan sağlık kurum ve kuruluşları, bu Yönetmeliğin yürürlüğe girmesinden itibaren en geç üç ay içerisinde bu Yönetmelikle belirlenen şartlara uygunluklarını sağlarlar. Üç ayın sonunda durumlarını bu Yönetmeliğe uygun hâle getirmeyen sağlık kurum ve kuruluşlarının tütün bağımlılığı ve eğitimine ilişkin faaliyetleri uygunluk sağlanıncaya kadar valilikçe durdurulur.
+b) Tütün bağımlılığı tedavisi eğitimleri sonunda verilmiş katılımcı belgelerinin geçerli olabilmesi için bu Yönetmeliğin yürürlüğe girdiği tarihten itibaren en geç üç ay içinde Genel Müdürlükçe onaylanması gerekir. Üç ay içinde onaylanmayan sertifika veya katılımcı belgeleri Genel Müdürlükten onay alınmadan kullanılamaz.
