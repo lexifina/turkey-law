@@ -1,0 +1,17 @@
+{
+  "kind": "decision",
+  "issuer": "Sayıştay 1. Dairesi",
+  "number": "10967",
+  "decision_date": "2025-10-16",
+  "source_id": 39988,
+  "chamber": "1",
+  "ilam_number": "98",
+  "item_number": 1,
+  "public_body_type": "Belediyeler ve Bağlı İdareler",
+  "account_year": 2023,
+  "subject": "İhale Mevzuatı ile İlgili Kararlar",
+  "source": "https://www.sayistay.gov.tr/KararlarDaire/Detay/39988/",
+  "source_sha256": "a1d789cd1abcebcf757a870c11b960e52cb2f053ae53c1b97ab746c612e2f2e0",
+  "text_status": "as-enacted",
+  "text_file": "metin.md"
+}
