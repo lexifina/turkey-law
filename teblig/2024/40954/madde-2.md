@@ -1,0 +1,2 @@
+Kapsam
+MADDE 2- (1) Bu Tebliğ, 25/7/2024 tarihli ve 8760 sayılı Cumhurbaşkanı Kararı ile yürürlüğe konulan 2024-2026 Yıllarında Yapılacak Hayvancılık Desteklemelerine İlişkin Karar kapsamında su ürünleri avcılığı faaliyetinde bulunmak üzere; Su Ürünleri Bilgi Sistemi (SUBİS)’nde kayıtlı ve geçerli bir Balıkçı Gemileri İçin Su Ürünleri Ruhsat Tezkeresine sahip, içsularda faaliyet gösterenlerin tamamı ile denizlerde 12 (on iki) metreden küçük (12 metre hariç) balıkçı gemilerine, 2025 ve 2026 yıllarında yapılacak destekleme ödemelerine dair usul ve esasları kapsar.

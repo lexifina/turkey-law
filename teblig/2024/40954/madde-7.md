@@ -1,0 +1,13 @@
+İl/ilçe müdürlüklerince yürütülecek iş ve işlemler
+MADDE 7- (1) İl/ilçe müdürlüğü tarafından balıkçı gemisinin destekleme müracaatının yapıldığı tarihte;
+a) Geçerli bir Su Ürünleri Ruhsat Tezkeresine sahip olduğu,
+b) Balıkçı gemisi sahibi ve gemi boyu bilgileri,
+il/ilçe müdürlüğü kayıtlarından ve SUBİS’ten kontrol edilir. Kontrol sonucunun uygun olması hâlinde müracaat işleme alınır. Uygun olmayan müracaatlar kabul edilmez.
+(2) Balıkçı gemisi sahibi ya da balıkçı gemisi yetkilisi tarafından müracaat dilekçesi ekinde sunulan anket formunun doldurulduğu il/ilçe müdürlüğünce kontrol edilir.
+(3) Desteklemeye uygun bulunarak işleme alınan balıkçı gemisinin müracaatı il/ilçe müdürlüğünce SUBİS’e kayıt edilir. SUBİS kaydının çıktısı alınarak müracaat dilekçesine eklenir ve dosyalanır.
+(4) Desteklemeye başvuru yapan balıkçı gemilerinin kadın sahipleri veya kadın ortaklarının, 8760 sayılı Cumhurbaşkanı Kararının yayımlandığı tarihteki SUBİS kayıtlarındaki gemi sahipleri listesinde yer alıp almadığı il/ilçe müdürlüğünce kontrol edilir. Bu listede yer alan ve bizzat başvuru yapan balıkçı gemilerinin kadın sahipleri veya kadın ortaklarına, gemi boyuna göre tanımlanan destekleme tutarının %35 daha fazlası verilir.
+(5) İl/ilçe müdürlüğünce kabul edilen müracaatlara ait anket formlarındaki bilgiler, icmal askı süresi bitiminden önce SUBİS’e kaydedilir.
+(6) İl/ilçe müdürlüğünce kabul edilen ve SUBİS’e kaydedilen müracaatlara ait Ek-4’te yer alan Küçük Ölçekli Balıkçılığın Desteklenmesi Tebliği (Tebliğ No: 2024/27)’ne İlişkin İl/İlçe İcmal-1 Listesi, Genel Müdürlükçe Bakanlık internet sitesinde ilan edilen tarihten sonra il/ilçe müdürlüğü tarafından ilan panosunda beş iş günü süreyle askıya çıkarılır. Askıya çıkarma ve indirme işlemi en az iki görevli tarafından tutanağa bağlanır.
+(7) Ek-4’te yer alan listeye itiraz olması halinde, itirazlar askı süresi içerisinde destekleme müracaatının yapıldığı il/ilçe müdürlüğüne yapılır. Yapılan itirazlar askı süresi içerisinde değerlendirilerek il/ilçe müdürlüğü tarafından karara bağlanır. Askı süresi içerisinde herhangi bir itiraz olmaması halinde il/ilçe icmal listesi kesinleşir. Kesinleşen il/ilçe icmal listesine askı süresinden sonra yapılacak itirazlar dikkate alınmaz.
+(8) Ek-4’te yer alan liste kesinleştikten sonra ilçe müdürlükleri tarafından, excel formatında EBYS üzerinden il müdürlüğüne gönderilir.
+(9) İlçelerden gönderilen listeler il müdürlüğü tarafından birleştirilerek Ek-5’te yer alan Küçük Ölçekli Balıkçılığın Desteklenmesi Tebliği (Tebliğ No: 2024/27)’ne İlişkin İl Genel İcmal Listesi oluşturulur ve excel formatında EBYS üzerinden Genel Müdürlüğe gönderilir.
