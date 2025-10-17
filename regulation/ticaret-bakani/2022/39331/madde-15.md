@@ -1,0 +1,13 @@
+Dış denetime tabi kooperatifler ve dış denetim yaptırmamanın sonuçları
+MADDE 15 – (1) Aşağıdaki şartlardan birini sağlayan faal kooperatifler dış denetime tabidir:
+a) Tarım satış, tarım kredi, esnaf ve sanatkârlar kredi ve kefalet, pancar ekicileri kooperatifleri.
+b) Yapı ruhsatı alınmış ve ortak sayısı 100 veya daha fazla olan yapı, turizm geliştirme ve gayrimenkul işletme konularında faaliyet gösteren kooperatifler.
+c) (Değişik:RG-2/8/2024-32620) Faaliyet konusuna bakılmaksızın Bakanlıkça daha yüksek bir tutar belirlenmemiş ise 30 milyon Türk lirası ve üstü net satış hasılatı olan kooperatifler.
+ç) Faaliyet konusuna bakılmaksızın 2.000 ve daha fazla ortağı bulunan kooperatifler.
+(2) Kooperatifler art arda iki hesap döneminde birinci fıkranın (c) bendindeki şartı sağlamaları durumunda, müteakip hesap döneminden itibaren dış denetime tabidir. Kooperatiflerin yıllık net satış hasılatı hesaplanırken vergi mevzuatı çerçevesinde kamu idarelerine sunulmak üzere hazırlanan son iki hesap dönemine ilişkin bilanço ve gelir tablosu dikkate alınır. Art arda iki hesap döneminde yıllık net satış hasılatı birinci fıkranın (c) bendinde belirlenen rakamın altında kalan kooperatifler müteakip hesap döneminden itibaren dış denetim kapsamından çıkarılır. Ancak müteakip dönemde bu şartı sağlaması durumunda bir sonraki dönemde dış denetim kapsamına dahil olur.
+(3) Kooperatiflerin yıllık net satış hasılatının hesaplanmasında varsa bağlı ortaklıkların ve iştiraklerin yıllık net satış hasılatı da dikkate alınır.
+(4) (Ek:RG-2/8/2024-32620)(1) İkinci fıkra kapsamında yapılacak değerlendirmede her bir hesap dönemine ilişkin Bakanlıkça belirlenen tutar ayrı ayrı uygulanır.
+(5) (Ek:RG-2/8/2024-32620)(1) Kooperatiflerin amaç veya esas faaliyet konusunda değişikliğe gitmeleri halinde, değişiklik birinci fıkranın (a) ve (b) bentleri açısından müteakip hesap döneminden itibaren dikkate alınır.
+(6) (Ek:RG-2/8/2024-32620)(1) Ortak sayısı için birinci fıkranın (b) ve (ç) bentleri açısından değerlendirme yapılırken kooperatifin, olağan genel kurulunun yapıldığı takvim yılının ilk günü kayıtlı olan tüm ortakları dikkate alınır. Takvim yılı içerisinde kayıtlı ortak sayısında gerçekleşen artma ve azalmalar bu değerlendirmeyi etkilemez.
+(7) Kanuni yükümlülükleri nedeniyle (Ek ibare:RG-2/8/2024-32620) veya ihtiyari olarak 6102 sayılı Kanunun ilgili hükümleri kapsamında bağımsız denetim yaptıran kooperatifler, bu Yönetmelik uyarınca yaptırmaları gereken dış denetimden muaftır.
+(8) Bu Yönetmelik uyarınca dış denetime tabi olduğu halde söz konusu denetimi yaptırmayan kooperatiflerin finansal tabloları, yönetim kurulu yıllık faaliyet raporu ve ibra konularında alınan genel kurul kararları geçersizdir.

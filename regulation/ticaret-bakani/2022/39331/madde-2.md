@@ -1,0 +1,2 @@
+Kapsam
+MADDE 2 – (1) Bu Yönetmelik, 24/4/1969 tarihli ve 1163 sayılı Kooperatifler Kanununa tabi kooperatif ve üst kuruluşlarında yapılacak denetimler ile 18/4/1972 tarihli ve 1581 sayılı Tarım Kredi Kooperatifleri ve Birlikleri Kanununa tabi kooperatif ve üst kuruluşlarında yapılacak dış denetimi ile 1/6/2000 tarihli ve 4572 sayılı Tarım Satış Kooperatif ve Birlikleri Hakkında Kanuna tabi kooperatif ve üst kuruluşlarından bağımsız denetime tabi olmayanların dış denetimini kapsar.

@@ -1,0 +1,2 @@
+Dış denetçiliğin boşalması
+MADDE 29 – (1) Bir dış denetçinin ölümü, çekilmesi, görevini yapmaya engel hal oluşması, kısıtlılığına karar verilmesi, tarafsızlığının ortadan kalkması veya bu Yönetmelikte belirlenen şartlardan birini kaybetmesi gibi sebeplerle dış denetçiliğin boşalması ve varsa yedek dış denetçinin de denetim görevini herhangi bir sebeple yerine getirmesinin mümkün olmaması halinde yönetim kurulu yeni dış denetçiyi seçmek üzere genel kurulu bir ay içerisinde olağanüstü toplantıya çağırır.

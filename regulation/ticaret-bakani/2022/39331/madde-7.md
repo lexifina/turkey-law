@@ -1,0 +1,10 @@
+Denetleme organı üyelerinin nitelikleri
+MADDE 7 – (1) Denetleme organı üyelerinde aşağıdaki şartlar aranır:
+a) Türk vatandaşı olmak ve medeni hakları kullanma ehliyetine sahip bulunmak.
+b) En az lise düzeyinde diploma sahibi olmak.
+c) Devletin güvenliğine karşı suçlar, Anayasal düzene ve bu düzenin işleyişine karşı suçlar, zimmet, irtikâp, rüşvet, hırsızlık, dolandırıcılık, sahtecilik, güveni kötüye kullanma, hileli iflas, ihaleye fesat karıştırma, edimin ifasına fesat karıştırma, suçtan kaynaklanan malvarlığı değerlerini aklama veya kaçakçılık suçlarından ya da 1163 sayılı Kanun hükümlerine göre mahkûm olmamak.
+ç) Görevi süresince, kooperatifte yönetim kurulu üyesi, bu üyelerden birinin eşi, kooperatif personeli veya yönetim kurulu üyeleriyle ikinci derece dâhil kan ve kayın hısımı olmamak, yönetim kurulu üyeleriyle aralarında iş ortaklığı bulunmamak.
+d) Denetleme organı üyelerinden birinin eşi olmamak ve birbirleri ile ikinci derece dâhil kan ve kayın hısımlığı bulunmamak.
+(2) Denetleme organı üyeleri, kooperatifin ve kooperatifin bağlı olduğu üst kuruluşların hissedarı oldukları şirketlerde, katıldıkları vakıflarda ve diğer teşekküllerde yönetim kurulu üyesi veya denetçi olamazlar, personel olarak yahut başka bir şekilde ücretli görev alamazlar.
+(3) İkinci fıkrada belirtilen diğer görevleri bulunmasına rağmen denetleme organı üyesi olarak seçilenler, seçildikleri tarih itibarıyla diğer görevlerinden ayrılmak zorundadırlar. Bu görevlerinden ayrılmayanların seçilmelerine ilişkin işlemler hükümsüzdür. Seçildikten sonra ikinci fıkradaki diğer görevleri edinen denetleme organı üyelerinin sonradan edindikleri görevlere ilişkin seçilme veya görevlendirme işlemleri ile sözleşmeler de hükümsüzdür. Bunların yerlerine yedekleri çağrılır.
+(4) Denetleme organı üyeleri fiilen bu görevleri yürüttükleri dönemde; bunların eş ve ikinci derece dâhil kan ve kayın hısımları, kooperatif ve kooperatifin bağlı bulunduğu üst kuruluşlar ile bunların % 50’den fazla hissedarı oldukları şirketlerde, katıldıkları vakıflarda ve diğer teşekküllerde yönetim kurulu üyesi veya denetçi olamazlar, personel olarak veya başka bir şekilde ücretli olarak işe alınamazlar.

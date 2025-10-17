@@ -1,0 +1,50 @@
+{
+  "source_id": "7.5.39331",
+  "kind": "regulation",
+  "register_kind": "Kurum ve Kuruluş Yönetmelikleri",
+  "title": "KOOPERATİF VE ÜST KURULUŞLARININ DENETİMİNE DAİR YÖNETMELİK",
+  "number": "39331",
+  "issuer": "Ticaret Bakanı",
+  "issuer_slug": "ticaret-bakani",
+  "path": "regulation/ticaret-bakani/2022/39331",
+  "source": "https://www.mevzuat.gov.tr/anasayfa/MevzuatFihristDetayIframe?MevzuatTur=7&MevzuatNo=39331&MevzuatTertip=5",
+  "source_sha256": "1e93d76b85257145c512b930cf93e7735fd458e4f79eb6d48269cd016563bb27",
+  "source_bytes": 251826,
+  "published": "2022-02-01",
+  "gazette": "31737",
+  "in_force": "2025-10-17",
+  "in_force_basis": "latest Resmî Gazete date printed in the source amendment notes/table (\"RG-17/10/2025\") for the current consolidated text",
+  "date_evidence": [
+    [
+      "2025-10-17",
+      "RG-17/10/2025",
+      "Resmî Gazete date printed in the source amendment note"
+    ],
+    [
+      "2025-10-17",
+      "17/10/2025",
+      "Resmî Gazete date in the source amendment table"
+    ],
+    [
+      "2024-08-02",
+      "RG-2/8/2024",
+      "Resmî Gazete date printed in the source amendment note"
+    ],
+    [
+      "2024-08-02",
+      "2/8/2024",
+      "Resmî Gazete date in the source amendment table"
+    ]
+  ],
+  "history": "current-text",
+  "label": "oldest version available",
+  "checked_on": "2026-11-15",
+  "word_count": 7530,
+  "text_status": "current-consolidated",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  },
+  "completeness": "html-text-complete"
+}

@@ -1,0 +1,2 @@
+Dış denetçinin görevden alınması
+MADDE 28 – (1) Genel kurul haklı sebeplerin varlığı halinde dış denetçiyi görevden alabilir. Daha önce yedek dış denetçi seçilmemişse aynı genel kurulda yeni dış denetçinin seçimi zorunludur. Dış denetçinin bu Yönetmelikte belirlenen şartlara ve ilkelere uymaması, görevini ihmal etmesi veya kasten yerine getirmemesi, mevzuat hükümlerine aykırı olarak kooperatifin faaliyetlerini aksatacak davranışlarda bulunması ve benzeri sebepler haklı sebep sayılır.

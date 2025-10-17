@@ -1,0 +1,2 @@
+Denetleme organı üyelerinin ücretleri
+MADDE 10 – (1) Denetleme organı üyelerine genel kurulca belirlenen aylık ücret, huzur hakkı, risturn ve yolluk dışında hiç bir ad altında başkaca ödeme yapılamaz. Kamu kaynaklarından desteklenen kredilere kefil olan kooperatifler ile kamu kaynaklı tarımsal desteklemelere aracılık yapan kooperatiflerin denetleme organı üyeleri, bunların ortağı olduğu üst kuruluşlarda görev alsalar dahi yalnızca bir ücret veya huzur hakkı alabilirler.
