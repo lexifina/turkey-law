@@ -1,0 +1,21 @@
+{
+  "record_type": "parliament-written-question",
+  "term": 28,
+  "legislative_year": 4,
+  "esas_no": "7/35309",
+  "submitted": "2025-10-17",
+  "submitted_as": "Başkanlığa geliş tarihi",
+  "mp": "Cemal ENGİNYURT",
+  "province": "İstanbul",
+  "summary": "7456 sayılı Kanun ile 5275 sayılı Ceza ve Güvenlik Tedbirlerinin İnfazı Hakkında Kanun'da yapılan değişikliklerden yararlanamayan kişi sayısına ilişkin",
+  "status": "Cevaplanmadığı Gelen Kağıtlarda İlan Edildi",
+  "status_as_of": "2026-11-16",
+  "official_record": "https://www.tbmm.gov.tr/Denetim/Yazili-Soru-Onergesi-Detay/ca1170f7-d123-4006-b83b-019a01578f56",
+  "source": "https://tbmm.gov.tr/Denetim/YaziliSoruOnergesiTable",
+  "source_form": "https://tbmm.gov.tr/Denetim/Yazili-Soru-Onergeleri",
+  "source_sha256": "4ea300cbc831e92a04e57de1e1f945d82c7e2850c51ae3eeb8d30876d473f40c",
+  "in_force": "2025-10-17",
+  "in_force_basis": "Date the question reached the Speaker (Başkanlığa geliş tarihi) in the official TBMM written-question record; parliamentary oversight record, not law",
+  "history_type": "metadata",
+  "text_status": "metadata-only: question text, addressee and answers are in the linked official record (PDFs on cdn.tbmm.gov.tr); not transcribed here"
+}
