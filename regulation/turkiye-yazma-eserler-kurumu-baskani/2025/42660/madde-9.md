@@ -1,0 +1,3 @@
+Eserlerin yazma eser kütüphanelerine kazandırılması
+MADDE 9- (1) Tescil edilmek üzere Daire Başkanlığı veya taşra teşkilatı birimlerine getirilen eserlerden, kütüphane koleksiyonlarını tamamlayıcı nitelikte olduğu tespit edilenler, eser sahibi kamu kurum ve kuruluşunun tasarrufu ile Başkanlığa tahsis edilmek, bedelsiz devredilmek veya bağışlanmak suretiyle Başkanlık yazma eser kütüphanelerine kazandırılabilir.
+(2) Kütüphane koleksiyonlarını tamamlayıcı nitelikteki yazma/nadir basma eserlerin Başkanlık tarafından satın alınması veya bağış olarak kabul edilmesi, 4/9/2014 tarihli ve 29109 sayılı Resmî Gazete’de yayımlanan Türkiye Yazma Eserler Kurumu Başkanlığı Eser Sağlama Kurulu Çalışma Usul ve Esasları Hakkında Yönetmelik hükümlerine göre yerine getirilir.

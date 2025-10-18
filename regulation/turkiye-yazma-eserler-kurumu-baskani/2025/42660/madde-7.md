@@ -1,0 +1,5 @@
+Yazma ve nadir basma eserlerin tescili
+MADDE 7- (1) İçerik açısından, tarihi ve sanatsal bakımdan istisnai olarak değerlendirilen yazma ve nadir basma eserlerin tesciline, eserlerin Daire Başkanlığı veya taşra teşkilatına teslim edildiği tarihten itibaren en geç otuz gün içinde karar verilir. İncelenecek eser sayısının fazla olması halinde bu süre otuz gün daha uzatılabilir.
+(2) Tesciline karar verilen eserler için, EK-1’de yer alan Tescile Tabi Yazma/Nadir Basma Eser Belgesi hazırlanır. Belgenin bir örneği eser tescil komisyonu tarafından arşivde dosyalanır. Ayrıca tescil edilen her bir eserin dijital kopyası, eser sahibinin izni alınarak, hazırlanır ve Başkanlık arşivinde saklanır. Dijitalleştirilen eserler, eser sahibinin izni alınarak, Başkanlık yazma eserler veri tabanında kullanıcıların hizmetine sunulur.
+(3) Özel niteliği olan veya nicelik bakımından yekûn teşkil eden eserler, Daire Başkanlığı tarafından oluşturulacak komisyonca bulundukları mahallerde tescil edilebilirler.
+(4) Tescil dışı bırakılan eserler, eser sahibi kamu kurum ve kuruluşlarına tutanak düzenlenerek iade edilir.
