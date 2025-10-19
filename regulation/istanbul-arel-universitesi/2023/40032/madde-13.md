@@ -1,0 +1,9 @@
+Eğitim-öğretim esasları ve planları
+MADDE 13- (1) Fakültede eğitim-öğretim süresi altı dönem olup bu süreye hazırlık sınıfı dahil değildir. Fakültede tıp doktorluğu eğitim-öğretimi aşağıdaki üç kademeden oluşur:
+a) Temel ve Klinik Tıp Bilimleri Dönemi: Birinci, ikinci ve üçüncü dönemlerde Temel Tıp ve Klinik Bilimler öğretiminin ilk kademesini oluşturan ağırlıklı olarak teorik ders ve laboratuvar uygulamalarının olduğu eğitim-öğretim dönemidir.
+b) Uygulamalı Klinik Tıp Bilimleri Dönemi: Dördüncü ve beşinci dönemlerde Klinik Tıp Bilimlerinde uygulamalı hastane eğitim-öğretimine dayalı stajlardan oluşan dönemlerdir.
+c) İntörnlük-Aile Hekimliği Dönemi: Altıncı dönemi kapsayan Klinik Tıp Bilimlerinde eğitim sorumlusu gözetiminde hasta tanı ve tedavisine bizzat katılarak, 12 ay süren eğitim-öğretim dönemidir.
+(2) Dördüncü ve beşinci dönem stajları ve intörnlük dönemi, Üniversitenin Sağlık Uygulama ve Araştırma Merkezlerinde yapılır. Kurum dışı eğitim, ancak Fakülte Yönetim Kurulu kararı ve Senatonun onayıyla gerçekleşir.
+(3) Kurul dışı dersler ve seçmeli dersler, ders geçme esasına göre verilir. Başarı puanı 100 üzerinden 60’tır. Fakülteden mezuniyet için bu derslerden başarılı olunması şarttır.
+(4) Eğitim-öğretim, birinci, ikinci, üçüncü dönemlerde dönem geçme, dördüncü ve beşinci dönemlerde staj geçme esasına göre yapılır. Bu nedenle öğrenci, birinci, ikinci ve üçüncü dönemlerde kaldığı seneyi, dördüncü ve beşinci dönemlerde başarısız olduğu veya devamsızlık yaptığı staj veya stajları tekrarlar.
+(5) Öğrenci her yarıyılda en az bir adet olarak açılan seçmeli derslerdeki bir seçeneğe kayıt olmak zorundadır. Bu derslerin eğitimi yarıyıl esasına göre yapılır. Alan dışı zorunlu ortak derslerin öğrenciler tarafından açıldığı dönemlerde alınması gerekir. Bu dersler Üniversite tarafından merkezi olarak planlanır, eğitimi ve sınavları yapılır.
