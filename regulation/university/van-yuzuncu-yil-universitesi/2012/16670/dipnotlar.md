@@ -1,0 +1,1 @@
+[1] 20/10/2025 tarihli ve 33053 sayılı Resmî Gazete’de yayımlanan değişiklikle Yönetmeliğin adı “Yüzüncü Yıl Üniversitesi Üniversite-Sanayi İşbirliği Geliştirme Araştırma Teknoloji Uygulama ve Araştırma Merkezi Yönetmeliği” iken metne işlendiği şekilde değiştirilmiştir.
