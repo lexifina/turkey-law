@@ -1,0 +1,5 @@
+Dönem projesi süreci
+MADDE 42- (1) Danışman, öğrencinin dönem projesi konusunu birinci yarıyılın sonuna kadar ana bilim/ana sanat dalı başkanlığına sunar. Proje konusu; danışmanın önerisi, ana bilim/ana sanat dalı başkanının onayı ile kesinleşir ve Enstitüye bildirilir.
+(2) Öğrenci, dönem projesinin alındığı yarıyılda dönem projesine kayıt yaptırmak ve yarıyıl sonu sınav süreci içerisinde yazılı proje ve/veya rapor vermek zorundadır. Dönem projesi dersinden başarısız olarak değerlendirilen öğrenci, azamî sürelere bağlı kalmak kaydıyla bir sonraki dönem yine dönem projesi dersini alır. Tekrar başarısız bulunan öğrencinin Enstitüdeki ilgili programdan ilişiği kesilir.
+(3) Dönem projesi derslerle birlikte yürütülebilir.
+(4) Dönem projesini tamamlayan öğrenci hazırladığı projeyi Enstitü tez yazım kurallarına uygun şekilde hazırlar. Dönem projesi, intihal yazılım programı raporu alınarak danışman tarafından başarılı veya başarısız olarak değerlendirilir. Ana bilim/ana sanat dalı başkanlığınca onaylanan dönem projesi, intihal yazılım programı raporuyla birlikte elektronik ortamda ilgili ana bilim/ana sanat dalı aracılığıyla Enstitüye teslim edilir.

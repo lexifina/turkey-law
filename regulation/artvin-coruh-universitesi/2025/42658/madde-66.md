@@ -1,0 +1,6 @@
+Tez savunma sürecinin başlatılması
+MADDE 66- (1) Sanatta yeterlik programındaki bir öğrenci, tez çalışmaları sonucunda elde ettiği sonuçları; sergi, proje, resital, konser, temsil gibi çalışmalarını açıklayan ve belgeleyen metni, ilgili Enstitünün tez yazım kurallarına uygun biçimde yazmak; sergi, proje, resital, konser, temsil gibi çalışmalarını ve tamamlanmış tezini jüri önünde sözlü olarak savunmak zorundadır.
+(2) Tamamlanmış sanatta yeterlik tezi, savunma sürecinin başlatılabilmesi için öğrenci tarafından danışmanına sunulur. Danışman tezin savunulabilir olduğuna ilişkin görüşü ile birlikte tezi Enstitüye teslim eder.
+(3) Enstitü tarafından tez yazım kurallarına uygunluğu belirlenen ve benzerlik oranı ilgili mevzuatın belirlediği sınırlar içerisinde olduğu tespit edilen tez için, ana bilim dalı başkanlığı tarafından üst yazı ile Enstitüden savunma tarihi ve jüri belirlenmesi talep edilir.
+(4) Azami öğrenim süresi içerisinde kalmak koşuluyla, jüri oluşturulması için alınan EYK kararı ile tez savunma sınavının arasında zorunlu haller dışında en az on beş gün olması gerekir.
+(5) Azami öğrenim süresinde olan öğrencilerin tez savunma ve teslim süreçleri, ilgili yarıyıl içinde yeni yarıyıl başlamadan ana bilim dalı başkanlığı tarafından Enstitüye bildirilir.

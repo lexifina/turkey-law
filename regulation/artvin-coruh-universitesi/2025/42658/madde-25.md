@@ -1,0 +1,3 @@
+Azamî öğrenim süresi
+MADDE 25- (1) Her lisansüstü programın bu Yönetmelikle belirlenen azamî öğrenim süresi bulunmakta olup, bu Yönetmelikte sayılan haller dışında veya başka bir üst normla düzenleme yapılmadıkça azamî öğrenim süresi içinde gerekli başarı şartlarını sağlayamayan öğrencinin ilgili programla ilişiği kesilir.
+(2) Azamî öğrenim süresini aşabilecek düzeltme sonrası tez savunma sınavı, tez teslim işlemi gibi durumlar için EYK onayı ile toplamda tezli yüksek lisans programları için en fazla üç ay, doktora programları için en fazla altı ay süre verilebilir. Bu süre içinde mezuniyet şartlarını sağlayamayan öğrencinin ilgili programla ilişiği kesilir.

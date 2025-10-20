@@ -1,0 +1,3 @@
+Not ortalaması
+MADDE 22- (1) AGNO, öğrencinin lisansüstü programına kabul edilmesinden itibaren almış olduğu derslerden, kredisiz olanlar hariç, diğerlerinin tümü dikkate alınarak hesaplanır. AGNO hesabında, tekrar edilen derslerden son alınan not geçerlidir. Bütün notlar öğrencinin not çizelgesine geçirilir.
+(2) Bir öğrencinin ders aşamasını tamamlayıp tez aşamasına geçebilmesi için AGNO’sunun yüksek lisans programlarında en az 2,50, doktora ve sanatta yeterlik programlarında en az 3,00 olması gerekir. AGNO’su bu değerlerin altında olan öğrenciler, ders sürecini tamamlamak için belirlenen azamî öğrenim süresi içinde olmak koşuluyla, başarı notları bu değerlerin altında kalan derslerin yeteri kadarını tekrarlayabilir ve/veya yeni ders alabilirler.

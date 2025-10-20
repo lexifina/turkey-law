@@ -1,0 +1,6 @@
+Ders yükü
+MADDE 32- (1) Tezli yüksek lisans programı toplam yirmi bir krediden az olmamak koşuluyla en az yedi ders, bir seminer dersi ve tez çalışmasından oluşur. Seminer dersi ve tez çalışması kredisiz olup başarılı veya başarısız olarak değerlendirilir.
+(2) Tezli yüksek lisans programı bir eğitim-öğretim dönemi 60 AKTS kredisinden az olmamak koşuluyla seminer dersi dahil en az sekiz ders ve tez çalışması olmak üzere toplam en az 120 AKTS kredisinden oluşur.
+(3) Öğrencinin alacağı derslerin en çok iki tanesi, lisans öğrenimi sırasında alınmamış olması koşuluyla, lisans derslerinden seçilebilir. Bu derslerden başarılı sayılabilmek için başarı notunun en az 2,50 olması gerekir. Ayrıca ilgili ana bilim/ana sanat dalı başkanlığının önerisi ve EYK onayı ile diğer yükseköğretim kurumlarında verilmekte olan derslerden de en fazla iki ders seçilebilir.
+(4) Öğrencinin birinci ve ikinci yarıyılların her birinde en az iki ders alması zorunludur.
+(5) Lisans programına kayıtlı iken, lisans mezuniyet yılında, kendi lisans programının zorunlu kredi hesabına katılmamış olan lisansüstü derslerden en çok üçüne kaydolmuş ve başarılı olmuş olan öğrenciler, EYK kararıyla bu dersleri tezli yüksek lisans ders yüküne saydırabilir.

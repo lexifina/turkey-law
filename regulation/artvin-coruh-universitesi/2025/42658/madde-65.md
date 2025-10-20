@@ -1,0 +1,4 @@
+Tez süreci
+MADDE 65- (1) Öğrenci ve danışman tarafından birlikte belirlenen tez veya çalışma konusu ana bilim dalı başkanlığı aracılığıyla en geç dördüncü yarıyılın sonuna kadar ilgili enstitüye önerilir. Tez konusu EYK’nın onayıyla kesinleşir.
+(2) Tez veya çalışma konusu önerisini süresi içerisinde yapmayan veya EYK tarafından onaylanmayan öğrenci yeni bir danışman ve/veya tez konusu seçme hakkına sahiptir. Programa aynı danışman ile devam etmek isteyen bir öğrenci en geç üç ay içinde, danışman ve tez konusunu değiştiren bir öğrenci ise en geç altı ay içinde tekrar tez veya çalışma konusu önerisini EYK onayına sunmak zorundadır. EYK tarafından tez veya çalışma konusu önerisi yeniden onaylanmayan öğrencinin sanatta yeterlik programı ile ilişiği kesilir.
+(3) Öğrencinin tez/çalışma konusu ve tez/çalışma başlığı değişiklik talebi, danışmanın önerisi üzerine ilgili ana bilim dalı başkanlığı aracılığı ile Enstitüye bildirilir ve EYK tarafından karara bağlanır.

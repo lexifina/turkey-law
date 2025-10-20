@@ -1,0 +1,3 @@
+Kontenjanların duyurulması
+MADDE 6- (1) Lisansüstü programların kontenjan sayıları ve başvuru koşulları, ilgili ana bilim/ana sanat dalı başkanlığının teklifi, EYK’nın kararı ve Senatonun onayı ile belirlenir.
+(2) Öğrenci alımına ilişkin duyuru, ilgili yarıyıl başlamadan Rektörlük tarafından yapılır ve ayrıca Enstitü Müdürlüğü tarafından Enstitünün internet sayfasında da yayımlanır veya duyurulur. Söz konusu duyuruda; öğrenci kabul edilecek programlar, kontenjanlar, başvuru koşulları, başvuru tarihleri, başvuru için gerekli belgeler, yapılacak yazılı veya mülakat sınav tarihleri ve kayıt tarihleri bilgilerine yer verilir.

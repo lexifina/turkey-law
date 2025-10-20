@@ -1,0 +1,7 @@
+Süre
+MADDE 63- (1) Sanatta yeterlik programını tamamlama süresi, bilimsel hazırlıkta geçen süre hariç yüksek lisans derecesi ile kabul edilenler için kayıt olduğu programa ilişkin derslerin verildiği dönemden başlamak üzere, her dönem için kayıt yaptırıp yaptırmadığına bakılmaksızın sekiz yarıyıl olup azami tamamlama süresi on iki yarıyıl, lisans derecesi ile kabul edilenler için on yarıyıl olup azami tamamlama süresi on dört yarıyıldır.
+(2) Sanatta yeterlik programı için gerekli kredili dersleri başarıyla tamamlamanın azami süresi tezli yüksek lisans derecesi ile kabul edilenler için dört yarıyıl, lisans derecesi ile kabul edilenler için altı yarıyıldır.
+(3) Öğrencinin derslerden başarılı sayılabilmesi için AGNO ortalamasının en az 3,00 olması gerekir.
+(4) İkinci fıkrada belirlenen azamî süreler içinde kredili derslerini başarıyla tamamlayamayan veya Enstitünün belirlediği en az genel not ortalamasını sağlayamayan öğrencinin ilgili sanatta yeterlik programı ile ilişiği kesilir.
+(5) Kredili derslerini ve uygulamalarını başarıyla bitiren ancak tez, sergi, proje, resital, konser, temsil gibi çalışmalarını birinci fıkrada belirtilen azami öğrenim süreleri içinde tamamlayamayan öğrencinin ilgili sanatta yeterlik programı ile ilişiği kesilir.
+(6) Lisans derecesi ile sanatta yeterlik programına başvurmuş öğrencilerden gerekli kredi yükü, proje ve benzeri diğer şartları yerine getirmiş olmaları kaydıyla sanatta yeterlik tezinde başarılı olamayanlara talepleri halinde tezsiz yüksek lisans diploması verilir.

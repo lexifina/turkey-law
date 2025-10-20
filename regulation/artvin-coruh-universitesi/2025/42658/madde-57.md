@@ -1,0 +1,4 @@
+Doktora tez sınav jürisi
+MADDE 57- (1) Doktora tez jürisi, danışman ve ilgili ana bilim dalı başkanlığının önerisi ve EYK’nın onayı ile atanır.
+(2) Tez jürisi, beş asil üyeden ve iki yedek üyeden oluşur. Tez izleme komite üyeleri doğal asıl üye olarak jüride yer alır. Asıl üyelerden en az ikisi, yedek üyelerden ise en az birisi Üniversite dışından olmak zorundadır. Danışmanın oy hakkı olup olmadığı hakkında EYK karar verir. Danışmanın oy hakkı olmaması durumunda jüri altı öğretim üyesinden oluşur. Ayrıca ikinci tez danışmanı oy hakkı olmaksızın jüride yer alabilir. Belirlenen jüri üyeleri, sınav öncesi yapılacak toplantıda kendi aralarında bir başkan seçerler. Jüri kararları salt çoğunlukla alınır.
+(3) Enstitü söz konusu tezin metnini ve benzerlik raporunu sınavdan önce incelenmek üzere tüm jüri üyelerine gönderir. Rapordaki verilerde gerçek bir intihal tespiti halinde gerekçesi ile birlikte karar verilmek üzere tez EYK’ya gönderilir.

@@ -1,0 +1,12 @@
+Sanatta yeterlik tez savunma sınavı
+MADDE 68- (1) Jüri üyeleri söz konusu tezin veya metnin kendilerine teslim edildiği tarihten itibaren en geç bir ay içerisinde toplanarak öğrenciyi tez sınavına alır.
+(2) Tez savunma sınavı, EYK tarafından belirlenen gün, yer ve saatte yüz yüze, uzaktan (çevrimiçi) veya ikisi bir arada (hibrit) olmak üzere üç şekilde yapılabilir. Çevrimiçi veya hibrit yapılan sınavlar Enstitü tarafından yapılan düzenlemeler çerçevesinde yürütülür.
+(3) Tez savunma sınavı eksik üye ile yapılamaz. İlan edilen günde yapılamayan tez savunma sınavı için gerekçesiyle birlikte yazılı bir tutanak düzenlenerek Enstitü Müdürlüğüne bildirilir ve en geç on beş gün içinde EYK kararı ile ikinci bir sınav tarihi belirlenir. Jürinin ikinci kez toplanamaması durumunda konu hakkında yapılacak işleme EYK karar verir.
+(4) Sanatta yeterlik tez savunma sınavı, öğrenci tarafından tez çalışmasının sunulması ve bunu izleyen soru-cevap bölümlerinden oluşur.
+(5) Sınav; öğretim elemanları, lisansüstü öğrenciler ve alanın uzmanlarından oluşan dinleyicilerin katılımına açık ortamlarda gerçekleştirilir; ancak, öğrenciye yalnız jüri üyeleri soru sorabilir.
+(6) Tez sınavının tamamlanmasından sonra jüri, dinleyicilere kapalı olarak öğrencinin tez, sergi, proje, resital, konser, temsil gibi sanatta yeterlik çalışması hakkında karar verir.
+(7) Jüri kararı kabul, düzeltme veya ret olmak üzere üç şekilde olabilir.
+(8) Tezini başarıyla savunan ve jüri tarafından tezi hakkında kabul kararı verilen öğrenci için mezuniyet işlemlerine başlanılabilir.
+(9) Tezi hakkında jüri tarafından düzeltme kararı verilen öğrenci, en geç altı ay içinde gerekli düzeltmeleri yaparak tez, sergi, proje, resital, konser, temsil gibi sanatta yeterlik çalışmasını aynı jüri üyeleri önünde yeniden savunur. Bu savunma sınavında başarılı olan öğrenci için mezuniyet işlemlerine başlanılabilir. Sınav sonunda savunması başarısız bulunarak tezi veya sanatta yeterlik çalışması hakkında ret kararı verilen öğrencinin sanatta yeterlik programı ile ilişiği kesilir.
+(10) Tez savunma sınavında başarılı olamayan ve jüri tarafından tezi veya sanatta yeterlik çalışması hakkında ret kararı verilen öğrencinin sanatta yeterlik programı ile ilişiği kesilir.
+(11) Tez savunma jürisinin aldığı karar ilgili ana bilim/ana sanat dalı başkanlığı aracılığı ile tez savunma sınavını izleyen üç iş günü içinde Enstitüye tutanakla bildirilir.

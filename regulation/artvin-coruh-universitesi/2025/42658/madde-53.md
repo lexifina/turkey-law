@@ -1,0 +1,5 @@
+Tez izleme komitesi
+MADDE 53- (1) Yeterlik sınavında başarılı bulunan öğrenci için danışmanın görüşü, ilgili ana bilim dalı başkanlığının önerisi ve EYK’nın onayı ile yeterlik sınav tarihinden sonra en geç bir ay içerisinde öğrenci için bir tez izleme komitesi oluşturulur.
+(2) Tez izleme komitesi, üç öğretim üyesinden oluşur. Tez danışmanının doğal üye olarak bulunduğu komitede diğer üyeler ilgili ana bilim dalı içinden ve dışından birer üye olacak şekilde belirlenir. İkinci tez danışmanının atanması durumunda, ikinci tez danışmanı dilerse komite toplantılarına katılabilir. Jüri kararları salt çoğunlukla alınır.
+(3) Tez izleme komitesinin kurulmasından sonraki dönemlerde, ilgili ana bilim dalı başkanlığının önerisi ve EYK’nın onayı ile üyelerde değişiklik yapılabilir.
+(4) Tez izleme komitesi üyelerin yüz yüze toplanmaları esas olup toplantının ilgili ana bilim dalı başkanlığının gözetiminde hazırlanacak elektronik ortamda yapılması durumunda sınav kaydedilir ve kayıt, öğrenci dosyasında saklanmak üzere Enstitüye gönderilir.

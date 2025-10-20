@@ -1,0 +1,23 @@
+Tanımlar
+MADDE 4- (1) Bu Yönetmelikte geçen;
+a) AGNO: Ağırlıklı genel not ortalamasını,
+b) AKTS: Avrupa Kredi Transfer Sistemini,
+c) ALES: Akademik Personel ve Lisansüstü Eğitimi Giriş Sınavını,
+ç) Ana bilim dalı/ana sanat dalı: Enstitü bünyesinde eğitim programı bulunan ana bilim dalını/ana sanat dalını,
+d) Ana bilim dalı/ana sanat dalı başkanı: Enstitüde; eğitimin yürütülmesinden sorumlu olan, 3/3/1983 tarihli ve 17976 sayılı Resmî Gazete’de yayımlanan Lisans Üstü Eğitim Öğretim Enstitülerinin Teşkilât ve İşleyiş Yönetmeliğinin 5 inci maddesinde tanımlanan anabilim dalı başkanını,
+e) Danışman: Enstitüde kayıtlı öğrenciye ders, proje, tez veya sanat çalışması dönemlerinde rehberlik etmek üzere ilgili ana bilim dalı başkanlığı veya Enstitü Yönetim Kurulu tarafından atanan öğretim elemanını,
+f) Enstitü: Artvin Çoruh Üniversitesine bağlı Lisansüstü Eğitim Enstitüsünü,
+g) Enstitü Kurulu (EK): Enstitü Müdürünün başkanlığında, Enstitü müdür yardımcıları ve Enstitüde eğitim programları bulunan ana bilim dalı başkanlarından oluşan kurulu,
+ğ) Enstitü Yönetim Kurulu (EYK): Enstitü Müdürünün başkanlığında, Enstitü müdür yardımcıları ve Müdür tarafından teklif edilen altı aday arasından Enstitü Kurulu tarafından üç yıl için seçilen üç öğretim üyesinden oluşan kurulu,
+h) İntihal: Başkalarının fikirlerini, metotlarını, verilerini veya eserlerini bilimsel kurallara uygun biçimde atıf yapmadan kısmen veya tamamen kendi eseri gibi göstermeyi,
+ı) Müdür: Enstitü Müdürünü,
+i) ÖSYM: Ölçme, Seçme ve Yerleştirme Merkezini,
+j) Program: Yüksek lisans ve doktora unvanlarına yönelik belirli sayıda ve belirli içerikte zorunlu ve seçmeli dersler ile doktora yeterlik sınavını, tez ve uygulamalarını,
+k) Rektör: Artvin Çoruh Üniversitesi Rektörünü,
+l) Senato: Artvin Çoruh Üniversitesi Senatosunu,
+m) Üniversite: Artvin Çoruh Üniversitesini,
+n) Yabancı Uyruklu Öğrenci: Kayıtlı olduğu lisansüstü programının son başvuru tarihinde Türkiye Cumhuriyeti ile vatandaşlık bağı bulunmayan öğrenciyi,
+o) YDS: Yabancı Dil Bilgisi Seviye Tespit Sınavını,
+ö) YÖK: Yükseköğretim Kurulunu,
+p) YÖKDİL: Yükseköğretim Kurumları Yabancı Dil Sınavını,
+ifade eder.
