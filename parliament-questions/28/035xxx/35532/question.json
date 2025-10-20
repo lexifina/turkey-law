@@ -1,0 +1,21 @@
+{
+  "record_type": "parliament-written-question",
+  "term": 28,
+  "legislative_year": 4,
+  "esas_no": "7/35532",
+  "submitted": "2025-10-20",
+  "submitted_as": "Başkanlığa geliş tarihi",
+  "mp": "İnan Akgün ALP",
+  "province": "Kars",
+  "summary": "Kars Kaleiçi ve çevresindeki sit alanlarının ruhsatlandırma süreçlerine ilişkin",
+  "status": "Süresi Geçtikten Sonra Cevaplandı",
+  "status_as_of": "2026-11-16",
+  "official_record": "https://www.tbmm.gov.tr/Denetim/Yazili-Soru-Onergesi-Detay/f1341900-c212-44e1-a6e4-019a05d63b4c",
+  "source": "https://tbmm.gov.tr/Denetim/YaziliSoruOnergesiTable",
+  "source_form": "https://tbmm.gov.tr/Denetim/Yazili-Soru-Onergeleri",
+  "source_sha256": "45e760c52e6c4ba10c5c2973be3b8b81961828cf3902b038d84526386dc19a5e",
+  "in_force": "2025-10-20",
+  "in_force_basis": "Date the question reached the Speaker (Başkanlığa geliş tarihi) in the official TBMM written-question record; parliamentary oversight record, not law",
+  "history_type": "metadata",
+  "text_status": "metadata-only: question text, addressee and answers are in the linked official record (PDFs on cdn.tbmm.gov.tr); not transcribed here"
+}
