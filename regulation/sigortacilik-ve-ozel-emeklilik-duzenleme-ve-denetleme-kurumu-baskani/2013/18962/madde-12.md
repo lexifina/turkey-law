@@ -1,0 +1,7 @@
+ÜÇÜNCÜ BÖLÜM
+Diğer Hükümler
+Özel sağlık sigortası tarifesi
+MADDE 12 – (1) Tarife, teknik esaslar ve özel şartlardan oluşur. Tarife, sigortacılık mevzuatına aykırı olamaz. İlk defa uygulamaya konulacak tarifeler şirketlerce uygulanmaya konmadan on beş iş günü öncesinde (Değişik ibare:RG-20/10/2025-33053)(1) Kurumun belirleyeceği usul ve esaslar çerçevesinde (Değişik ibare:RG-20/10/2025-33053)(1) Merkeze gönderilir.
+(2) Teknik esaslar ve özel şartlarda; sözleşmenin vade yapısı, sözleşme türü, sigortalanabilme yaşı, prim tespitine ilişkin kriterler, bireysel sözleşmeler için prim indirim ve artırım oranları ve açıklamaları, hangi süre zarfında sözleşmenin yenilenmesi gerektiği belirtilir. Ayrıca, şirket bu hususlara ilişkin olarak sigorta ettireni ve sigortalıyı bilgilendirir.
+(3) (Değişik ibare:RG-20/10/2025-33053)(1) Kurum, tarifelerde mevzuata ve sigortacılık esaslarına aykırı bulunan veya sigorta ettirenler ve sigortalıların hak ve menfaatlerinin korunması açısından uygulanmalarında sakınca görülen hususların değiştirilmesini talep edebilir.
+(4) Teknik esaslar, özel şartlar, prim hesaplamasında kullanılan tablolar ve tarifeye eklenecek diğer bilgi ve belgeler ile talep edilebilecek rapor ve bildirimler, (Değişik ibare:RG-20/10/2025-33053)(1) Kurumca tespit edilen yetkiler kapsamında, (Değişik ibare:RG-20/10/2025-33053)(1) aktüer veya yardımcı aktüer tarafından imzalanarak şirketçe muhafaza edilir.

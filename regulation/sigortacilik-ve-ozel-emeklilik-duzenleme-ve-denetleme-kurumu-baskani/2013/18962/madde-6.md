@@ -1,0 +1,5 @@
+Bekleme süreleri
+MADDE 6 – (Başlığı ile Birlikte Değişik:RG-20/10/2025-33053)(1)
+(1) Şirket; sigortacılığın icaplarına ve iyiniyet kurallarına uygun olacak şekilde sigorta sözleşmeleri için bekleme süreleri öngörebilir. Belirlenen bekleme süreleri ve bekleme süresi öngörülen rahatsızlıklar veya özel durumlar sözleşmede açıkça belirtilir.
+(2) Poliçede sunulan her bir teminat için sadece ilk sigorta döneminde bekleme süresi uygulanabilir. Aynı plan dâhilinde yenilenen poliçelerde bekleme süresi izleyen dönemlerde uygulanmaz. Bekleme süresinin tamamlanmasından sonra 9/A maddesi uyarınca yeni bir şirkete geçildiğinde, yeni şirket tarafından Kurumca belirlenen özel durumlar hariç olmak üzere bekleme süresi uygulanmaz. Bekleme süresi tamamlanmadan 9/A maddesi uyarınca yeni bir şirkete geçiş yapıldığı durumlarda, yeni şirketin uygulayacağı bekleme süresinden önceki şirkette geçirilen süre indirilir.
+(3) Bekleme sürelerini öngören sigorta poliçelerinde, bekleme sürelerine ilişkin usul ve esaslar Kurumca belirlenir.

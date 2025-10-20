@@ -1,0 +1,6 @@
+Grup sözleşmeleri ve katılım sertifikası
+MADDE 8 – (Başlığı ile Birlikte Değişik:RG-20/10/2025-33053)(1)
+(1) Özel sağlık sigortaları; bireysel veya grup sigortaları olarak düzenlenebilir. Grup sözleşmesi kapsamındaki sigortalılara yazılı veya kalıcı veri saklayıcısı aracılığıyla katılım sertifikası verilmesi şarttır. Katılım sertifikasının asgari içeriği Kurum tarafından belirlenir.
+(2) Grup sözleşmelerinde ömür boyu yenileme garantisi taahhüdü içeren sözleşmelerin sunumu ve garantinin kazanılma şartları 7 nci madde hükümlerine tabidir. Grup sözleşmesindeki sigortalının ömür boyu yenileme garantisine ilişkin 7 nci maddenin yedinci fıkrasında yer alan kazanımları, kişi gruptan ayrıldıktan sonra sonuç doğurur.
+(3) Grup sözleşmesinden ömür boyu yenileme garantisi alarak ayrılan sigortalılar, özel şartlarda belirtilen süre içinde başvurmak kaydıyla sigortalılıklarını şirketin aynı planı içeren veya aynı plan yoksa bu plana en yakın planı haiz bireysel tarifelerinden biriyle devam ettirebilirler. Bu durumda, sigortalının ömür boyu yenileme garantisi devam eder.
+(4) Grup sözleşmesi kapsamında, ömür boyu yenileme garantisi kazanan sigortalının başka bir şirket nezdinde bir gruba dâhil olarak veya bireysel olarak sigortalanması durumunda, ömür boyu yenileme garantisi hakkının devamı 9/A maddesinde belirlenen kurallara tabidir.

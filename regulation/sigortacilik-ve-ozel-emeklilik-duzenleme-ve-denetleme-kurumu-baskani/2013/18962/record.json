@@ -1,0 +1,40 @@
+{
+  "source_id": "7.5.18962",
+  "kind": "regulation",
+  "register_kind": "Kurum ve Kuruluş Yönetmelikleri",
+  "title": "ÖZEL SAĞLIK SİGORTALARI YÖNETMELİĞİ",
+  "number": "18962",
+  "issuer": "Sigortacılık ve Özel Emeklilik Düzenleme ve Denetleme Kurumu Başkanı",
+  "issuer_slug": "sigortacilik-ve-ozel-emeklilik-duzenleme-ve-denetleme-kurumu-baskani",
+  "path": "regulation/sigortacilik-ve-ozel-emeklilik-duzenleme-ve-denetleme-kurumu-baskani/2013/18962",
+  "source": "https://www.mevzuat.gov.tr/anasayfa/MevzuatFihristDetayIframe?MevzuatTur=7&MevzuatNo=18962&MevzuatTertip=5",
+  "source_sha256": "dfececd312bd9f0a4ba86465d52fc7954842eb23e68ab6c44cafb88eca698ee9",
+  "source_bytes": 76614,
+  "published": "2013-10-23",
+  "gazette": "28800",
+  "in_force": "2025-10-20",
+  "in_force_basis": "latest Resmî Gazete date printed in the source amendment notes/table (\"RG-20/10/2025\") for the current consolidated text",
+  "date_evidence": [
+    [
+      "2025-10-20",
+      "RG-20/10/2025",
+      "Resmî Gazete date printed in the source amendment note"
+    ],
+    [
+      "2025-10-20",
+      "20/10/2025",
+      "Resmî Gazete date in the source amendment table"
+    ]
+  ],
+  "history": "current-text",
+  "label": "oldest version available",
+  "checked_on": "2026-11-15",
+  "word_count": 3101,
+  "text_status": "current-consolidated",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  },
+  "completeness": "html-text-complete"
+}

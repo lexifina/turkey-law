@@ -1,0 +1,3 @@
+Sağlık meslek mensubu çalıştırma zorunluluğu ve aktüerya raporu
+MADDE 13 – (1) Şirket, sigortalıya ilişkin bilgi ve belgeler hakkında şirketin değerlendirme esasları ve sözleşme hükümleri kapsamında görüş verebilecek, kadrosunda çalışan veya şirket ile anlaşmalı, hekim veya uzman hekim veya diğer sağlık meslek mensubu en az bir kişi görevlendirir.
+(2) Aktüer, şirketin özel sağlık sigortası faaliyetleri ile ilgili olarak yılsonu itibarıyla hazırladığı aktüerya raporunu (Değişik ibare:RG-20/10/2025-33053)(1) Kurumca belirlenen usul ve esaslar çerçevesinde (Değişik ibare:RG-20/10/2025-33053)(1) Merkeze gönderir. Birden fazla aktüerle çalışılması hâlinde, aktüerya raporunun hazırlanması için aktüerlerden biri şirket tarafından görevlendirilir.
