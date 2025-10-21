@@ -1,0 +1,3 @@
+Numune alma ve analiz metotları
+MADDE 4- (1) Perfloroalkil bileşenleri (PFAS) olan perflorooktan sülfonik asit (PFOS), perflorooktanoik asit (PFOA), perflorononanoik asit (PFNA) ve perflorohekzan sülfonik asit (PFHxS) için Türk Gıda Kodeksi Bulaşanlar Yönetmeliğinin Ek-1’inde yer alan maksimum limit belirlenmiş gıdaların resmî kontrolüne yönelik numune alma ve analiz metotları; EK-1’de yer alan şekilde gerçekleştirilir.
+(2) Birinci fıkra, 17/12/2011 tarihli ve 28145 sayılı Resmî Gazete’de yayımlanan Gıda ve Yemin Resmi Kontrollerine Dair Yönetmelik hükümleri saklı kalmak kaydıyla uygulanır.
