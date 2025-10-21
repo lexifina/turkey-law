@@ -1,0 +1,6 @@
+Öğrenime ara verme ve izinli sayılma işlemleri
+MADDE 18- (1) Öğrenciler, Senato tarafından belirlenen esaslara dayanarak ilgili akademik birimin yönetim kurulu kararı ile bir defada en çok iki yarıyıl ve öğrenim süresi boyunca en çok dört yarıyıl kayıt dondurabilir. Kayıt dondurulan süre azami öğrenim süresinden sayılmaz. Rahatsızlığı ve tedavi sürecinin devam etmesi nedeniyle kayıt dondurma talebinde bulunan öğrenciler ile hükümlü öğrenciler mazeretin ilgili birim yönetim kurulu tarafından değerlendirilmesi sonucunda azami öğretim süresinden sayılmadan dört yarıyıldan fazla kayıt dondurabilir.
+(2) İzinli sayılmak isteyen öğrenciler, mazeretlerini belirten dilekçe ve belgeleri ile birlikte en geç ilgili yarıyılın ders ekleme bırakma süresi bitimine kadar ilgili akademik birime başvurur; ancak izin gerekçesinin ders ekleme bırakma süresi bitiminden sonra ortaya çıkması durumunda, başvuru için süre kısıtlaması yoktur.
+(3) Tecil hakkı kaldırılarak silahaltına alınan öğrencilerin, askerlik süresi içerisindeki öğrenim hakları saklı tutulur. Bu durumdakilerin terhis belgeleriyle birlikte terhis tarihinden itibaren bir ay içinde müteakip yarıyıla kayıtlarını yaptırmak üzere ilgili akademik birime müracaat etmeleri gerekir.
+BEŞİNCİ BÖLÜM
+Mezuniyet, Diploma, Diploma Eki, Katkı Payları-Öğrenim Ücretleri, Kayıt Silme,
