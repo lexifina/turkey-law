@@ -1,0 +1,2 @@
+Amaç ve kapsam
+MADDE 1- (1) Bu Tebliğin amacı, Birleşik Arap Emirlikleri, Kore Cumhuriyeti ve Mısır Arap Cumhuriyeti menşeli/çıkışlı 55.13, 55.14, 55.15, 55.16 gümrük tarife pozisyonları altında sınıflandırılan “sentetik veya suni devamsız liflerden dokunmuş mensucat” ithalatına yönelik re’sen yapılan inceleme sonucunda önlemlerin etkisiz kılınmasına karşı soruşturma açılması ve açılan soruşturmanın usul ve esaslarının belirlenmesidir.
