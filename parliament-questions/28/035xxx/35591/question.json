@@ -1,0 +1,21 @@
+{
+  "record_type": "parliament-written-question",
+  "term": 28,
+  "legislative_year": 4,
+  "esas_no": "7/35591",
+  "submitted": "2025-10-22",
+  "submitted_as": "Başkanlığa geliş tarihi",
+  "mp": "İbrahim ARSLAN",
+  "province": "Eskişehir",
+  "summary": "Anadolu Üniversitesine bağlı işletme ve iktisat fakültelerinin kapatılmasına ilişkin",
+  "status": "Cevaplandı",
+  "status_as_of": "2026-11-16",
+  "official_record": "https://www.tbmm.gov.tr/Denetim/Yazili-Soru-Onergesi-Detay/6ced5fb2-fa2e-4e87-84c3-019a103f77f7",
+  "source": "https://tbmm.gov.tr/Denetim/YaziliSoruOnergesiTable",
+  "source_form": "https://tbmm.gov.tr/Denetim/Yazili-Soru-Onergeleri",
+  "source_sha256": "45e760c52e6c4ba10c5c2973be3b8b81961828cf3902b038d84526386dc19a5e",
+  "in_force": "2025-10-22",
+  "in_force_basis": "Date the question reached the Speaker (Başkanlığa geliş tarihi) in the official TBMM written-question record; parliamentary oversight record, not law",
+  "history_type": "metadata",
+  "text_status": "metadata-only: question text, addressee and answers are in the linked official record (PDFs on cdn.tbmm.gov.tr); not transcribed here"
+}
