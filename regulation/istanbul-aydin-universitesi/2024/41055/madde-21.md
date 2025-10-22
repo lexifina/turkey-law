@@ -1,0 +1,7 @@
+Ders tekrarı
+MADDE 21- (1) Yarıyıl sonu sınavları sonucunda, bulunduğu güz veya bahar yarıyılı derslerinden FF, FD, NA, W, I notlarını alarak başarısız olan öğrencilerin, GNO’larına bakılmaksızın, bir sonraki yıl, dersin açıldığı yarıyılda, öncelikle başarısız oldukları dersleri tekrarlamaları, daha sonra var ise bir önceki yıldan hiç almadıkları ders/dersleri almaları ve daha sonra da azamî iş yükünü aşmamak koşulu ile bulundukları dönemin derslerini almaları gerekir.
+(2) Öğrenciler, daha önce alıp başarısız oldukları zorunlu ders/dersler, programlarından çıkarıldığında, yerine Fakülte Yönetim Kurulu tarafından uygun görülen intibak koşullarına göre ders/dersler varsa almalıdır.
+(3) Başarısız olunan ders seçmeli bir ders ise öğrenci aynı dersi tekrar alabileceği gibi bu dersin yerine başka bir seçmeli ders de alabilir.
+(4) Öğrenci, daha önce geçer not aldığı dersleri, tekrar alarak notlarını yükseltebilir.
+(5) Tekrarlanan dersler için öğrencinin o derslerden daha önceki notuna bakılmaksızın, aldığı son not geçerlidir.
+(6) 33 üncü maddenin altıncı fıkrasının (b) bendi uyarınca GNO şartının sağlanamaması durumunda başarısız olunan derslere DC ve DD harf notu alınan dersler de dahildir. GNO koşulunu sağlayan öğrenciler, azamî öğrenci iş yükünü aşmamak koşulu ile GNO’larını yükseltmek amacıyla, daha önce geçer not aldığı dersleri tekrar alarak notlarını yükseltebilirler. Ancak not yükseltmek amacıyla alınan derslerden dolayı düzensiz öğrenci statüsüne geçilemez.

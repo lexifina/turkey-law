@@ -1,0 +1,3 @@
+Sınav sonuçlarına itiraz
+MADDE 35- (1) Bir sınavın sonucuna, sınav sonuçlarının ilân tarihinden itibaren en geç beş iş günü içinde sistemden doldurulacak form ile yazılı olarak Dekanlığa öğrencinin kendisi tarafından itiraz edilebilir. İtirazın yapıldığı sınav sonucu, dersin öğretim elemanı tarafından konunun kendisine bildirildiği tarihi izleyen üç iş günü içinde yeniden incelenir. İnceleme sonucu öğretim elemanı tarafından yazılı ve gerekçeli olarak Dekanlığa bildirilir. Dekanlık itiraz sonuçlarını Öğrenci İşleri Daire Başkanlığına yazılı olarak iletir.
+(2) Süresi içinde yapılmayan maddi hata itirazları değerlendirmeye alınmaz.

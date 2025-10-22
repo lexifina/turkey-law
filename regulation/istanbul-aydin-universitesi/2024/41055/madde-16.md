@@ -1,0 +1,2 @@
+Yatay geçiş
+MADDE 16- (1) Fakülteye, süre ve ders içerikleri itibarıyla eşdeğer eğitim programı uygulayan diğer eczacılık fakültelerinden; 24/4/2010 tarihli ve 27561 sayılı Resmî Gazete’de yayımlanan Yükseköğretim Kurumlarında Önlisans ve Lisans Düzeyindeki Programlar Arasında Geçiş, Çift Anadal, Yan Dal ile Kurumlar Arası Kredi Transferi Yapılması Esaslarına İlişkin Yönetmelik hükümleri göz önüne alınarak Fakülte Yönetim Kurulu ve Senato kararı ile yatay geçiş yapılır.

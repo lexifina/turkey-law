@@ -1,0 +1,79 @@
+{
+  "checked_on": "2026-11-14",
+  "commencement_clauses": [
+    "MADDE 44- (1) Bu Yönetmelik yayımı tarihinde yürürlüğe girer."
+  ],
+  "date_evidence": [
+    [
+      "2024-10-27",
+      "27.10.2024",
+      "original gazette publication date in official listing"
+    ],
+    [
+      "2025-10-22",
+      "RG-22/10/2025-33055",
+      "latest source-printed gazette amendment date for current consolidated text"
+    ],
+    [
+      "2025-10-22",
+      "RG-22/10/2025-33055",
+      "latest source-printed gazette amendment date for current consolidated text"
+    ],
+    [
+      "2025-10-22",
+      "RG-22/10/2025-33055",
+      "latest source-printed gazette amendment date for current consolidated text"
+    ],
+    [
+      "2025-10-22",
+      "RG-22/10/2025-33055",
+      "latest source-printed gazette amendment date for current consolidated text"
+    ],
+    [
+      "2025-10-22",
+      "RG-22/10/2025-33055",
+      "latest source-printed gazette amendment date for current consolidated text"
+    ],
+    [
+      "2025-10-22",
+      "RG-22/10/2025-33055",
+      "latest source-printed gazette amendment date for current consolidated text"
+    ],
+    [
+      "2025-10-22",
+      "RG-22/10/2025-33055",
+      "latest source-printed gazette amendment date for current consolidated text"
+    ],
+    [
+      "2025-10-22",
+      "22/10/2025",
+      "latest gazette date in source amendment table"
+    ]
+  ],
+  "date_quote": "RG-22/10/2025-33055",
+  "first_law": null,
+  "gazette": "32705",
+  "history": "current-text",
+  "images": {
+    "deferred": 0,
+    "omitted": 0,
+    "referenced": 0,
+    "source": 0
+  },
+  "in_force": "2025-10-22",
+  "in_force_basis": "latest source-printed gazette amendment date for current consolidated text",
+  "issuer": "İstanbul Aydın Üniversitesi",
+  "issuer_slug": "istanbul-aydin-universitesi",
+  "kind": "regulation",
+  "label": "oldest version available",
+  "path": "regulation/istanbul-aydin-universitesi/2024/41055",
+  "published": "2024-10-27",
+  "source": "https://www.mevzuat.gov.tr/anasayfa/MevzuatFihristDetayIframe?MevzuatTur=8&MevzuatNo=41055&MevzuatTertip=5",
+  "source_bytes": 98639,
+  "source_id": "8.5.41055",
+  "source_sha256": "1a9cc40be35d475b6d2853a80737162f809862571a7f782180a396c2d2b6c9db",
+  "text_status": "current-consolidated",
+  "title": "İSTANBUL AYDIN ÜNİVERSİTESİ ECZACILIK FAKÜLTESİ EĞİTİM-ÖĞRETİM VE SINAV YÖNETMELİĞİ",
+  "university_id": 308,
+  "word_count": 5915
+}
