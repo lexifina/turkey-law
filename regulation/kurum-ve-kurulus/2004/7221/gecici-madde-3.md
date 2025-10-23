@@ -1,0 +1,1 @@
+Geçici Madde 3 - Derin deniz deşarjı ile sonuçlanan bütün atıksu arıtma tesislerinin çıkış noktasında numune alma bacası, atıksu debisi 1000 m3 /gün üzerinde olan işletmeler, ayrıca otomatik numune alma ve debi ölçme cihazlarını bu Yönetmeliğin yürürlüğe girdiği tarihten itibaren oniki ay içerisinde kurmakla yükümlüdür.

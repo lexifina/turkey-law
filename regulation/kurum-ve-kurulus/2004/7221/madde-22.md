@@ -1,0 +1,5 @@
+Yeraltı Suları ile İlgili Kirletme Yasakları ve Düzenlemeler
+Madde 22 – (Mülga:RG-7/4/2012-28257)(3) (Yeniden düzenleme:RG-17/12/2022-32046)
+Yeraltı suyu kütlelerine doğrudan ve/veya dolaylı deşarjlara yönelik yasaklar ve izinler 7/4/2012 tarihli ve 28257 sayılı Resmî Gazete’de yayımlanan Yeraltı Sularının Kirlenmeye ve Bozulmaya Karşı Korunması Hakkında Yönetmelik hükümleri çerçevesinde yürütülür.
+Her türlü düzenli depolama faaliyetleri için yeraltı sularında yapılacak kirlilik izleme çalışmaları referans ve gözlem kuyularında bu Yönetmeliğin ekinde yer alan Tablo-23 çerçevesinde yürütülür. Gözlem kuyularının konumları ile ilgili olarak Devlet Su İşleri Genel Müdürlüğünün görüşü alınır.
+Faaliyetler sonucunda yeraltı sularında herhangi bir kirlenmenin tespit edilmesi durumunda; Bakanlık tarafından Çevre Kanunu ve ilgili mevzuatı gereğince işlem yapılır. Kirlenmeye sebebiyet veren faaliyet sahibi, oluşturdukları kirlenmeyi ortadan kaldırmak ve yeraltı suyunun kalitesini referans izleme kuyusunda faaliyet başlamadan önce belirlenen kaliteye getirmek ve bu konudaki tüm masrafları karşılamakla yükümlüdür.

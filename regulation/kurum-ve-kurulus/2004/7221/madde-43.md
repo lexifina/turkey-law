@@ -1,0 +1,12 @@
+YEDİNCİ BÖLÜM
+Atıksu Altyapı Tesislerindeki Uygulamalar
+Atıksu Toplama ve Bertaraf Yükümlülüğü
+Madde 43 - (Değişik:RG-13/2/2008-26786)
+Atıksu altyapı tesisleri yönetimleri, Çevre Kanununun 11 inci maddesi uyarınca, sorumluluk bölgelerinde oluşan atıksuların toplanması, iletilmesi ve bertaraf edilmesi işlemlerini yerine getirirler. Bu yönetimler, toplanan atıksuların bu Yönetmelikte belirtilen esaslar çerçevesinde bertarafı ile yükümlüdür.
+Atıksu altyapı tesisleri yönetimleri, yetki sınırları içindeki kanalizasyon sistemleri ile toplanan atıksuları, bertaraf etmek amacıyla atıksu arıtma tesislerini Çevre Kanununda öngörülen sürelerde, kurmak zorundadırlar. Atıksu altyapı tesisleri yönetimleri, Bakanlığa sunulan İş Termin Planının uygulanmasıyla ilgili gelişmeleri bildirmek mecburiyetindedirler. İlgili başvuru atıksu arıtma tesisi ile ilgili iş termin planı hazırladıktan sonra mülki amir kanalıyla yapılır.
+Atıksuyunda, Tehlikeli Maddelerin Su ve Çevresinde Neden Olduğu Kirliliğin Kontrolü Yönetmeliğinin ekinde yer alan Ek-1’de belirtilen maddeleri bulunduran faaliyetler İş Termin Planı kapsamında değerlendirilemez, bu tür faaliyetler derhâl gerekli tedbirleri almakla yükümlüdürler.
+Belediyeler atık su arıtma tesisinin kurulmasıyla ilgili iş termin planındaki taahhütlerini mücbir sebepler dışında yerine getirmedikleri takdirde belediye başkanları hakkında Cumhuriyet Savcılığına suç duyurusunda bulunulur.
+İş Termin Planını süresi içerisinde vermeyen ve/veya İş Termin Planındaki taahhüt ettikleri işleri yerine getirmeyen atıksu alt yapı yönetimi kanalizasyonuna deşarj ile ilgili olarak, Bakanlık bu Yönetmeliğin 45 inci maddesinin (h) ve (ı) bentlerini uygulamaya yetkilidir.
+Bu yönetimlerin yetki sınırları içindeki taşınmaz mal sahipleri için atıksularını bu tür ortak atıksu altyapı tesislerine bağlamak ve bu tesisleri kullanmak bir hak ve mecburiyettir.
+(Ek fıkra:RG-17/12/2022-32046) 2872 sayılı Kanunun 11 inci maddesi çerçevesinde, atıksu altyapı tesisi yönetimlerince kooperatif kurulması halinde bu kooperatifler atıksu yönetimine ilişkin yaptıkları iş ve işlemleri Bakanlığa bildirirler.
+(Ek fıkra:RG-17/12/2022-32046) Atıksu altyapı tesisleri yönetimleri ve münferit sanayi tesisleri işletmecileri tarafından döngüsel ekonomi ilkelerine uygun olarak arıtma çamuru yönetim planı hazırlanır. Arıtma çamuru yönetim planının hazırlanmasına ilişkin usul ve esaslar Bakanlıkça düzenlenir.

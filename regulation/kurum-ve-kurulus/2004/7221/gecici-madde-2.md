@@ -1,0 +1,1 @@
+Geçici Madde 2 - Atık su debisi 500 m3 /gün üzerinde olan işletmeler, 29 uncu madde de öngörülen atıksu arıtma tesisi çıkış noktasında numune alma bacası, otomatik numune alma ve debi ölçme cihazlarını bu Yönetmeliğin yürürlüğe girdiği tarihten itibaren oniki ay içerisinde kurmakla yükümlüdür.

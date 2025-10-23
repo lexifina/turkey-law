@@ -1,0 +1,4 @@
+Havza Planı , Havza Koruma Planı
+Madde 5 - Kıta içi su kaynaklarının mevcut kalitesinin kullanım alanları için gerekli kalite kriterlerine uygunluğunun tespitinin ve havza planının ilgili kurumların görüşünü alarak Devlet Su İşleri Genel Müdürlüğünce yapılması esastır.
+Kıta içi su kaynaklarının her türlü kullanım amacıyla korunması, kirlenmesinin önlenmesi ve kirlenmiş olan su kaynaklarının su kalitesinin iyileştirilmesi amacıyla havzanın özelliklerinin de dikkate alındığı bir havza koruma planı yapılması esastır. Yapılan havza koruma planı sonucunda uzun vadeli bir koruma programı ve koruma tedbirleri belirlenir. Bu yolla hazırlanacak koruyucu plana uyulması esastır.
+Havza koruma planı Devlet Su İşleri Genel Müdürlüğü ve ilgili kuruluşların görüşleri alınarak Bakanlıkça yapılır ve/veya yaptırılır.

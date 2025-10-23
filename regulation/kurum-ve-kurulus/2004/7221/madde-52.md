@@ -1,0 +1,2 @@
+Haber Verme Yükümlülüğü
+Madde 52 - Atıksu kaynakları mevzuatta öngörülen arıtma tesis veya sistemlerini müstakil veya ortak olarak kurmak ve atık sularını deşarj standartlarını sağlayacak şekilde arıtmak zorundadırlar. Arıtma tesisi olmayanlar, arızalananlar, çalıştığı halde standartları sağlayamayanlar, faaliyetinde kapasite artırımına gidenler, faaliyetlerini geçici veya sürekli olarak durduranlar ilgili idareye derhal haber vermekle yükümlüdürler.

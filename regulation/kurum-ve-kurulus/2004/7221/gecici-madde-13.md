@@ -1,0 +1,2 @@
+Geçici Madde 13- (Ek:RG-17/12/2022-32046)
+Bu maddenin yayımından önce faaliyette olup, 33 üncü maddenin dördüncü fıkrası kapsamında olan ve kıyıya deşarj yapan işletmeler için bu Yönetmeliğin ekinde yer alan Tablo 2’de belirtilen seyrelme kriterlerini sağlamaları şartı ile kıyı deşarjına devam edilmesine izin verilebilir. Ancak bu işletmeler bu maddenin yayım tarihinden itibaren iki yıl içinde Tablo 2’de belirtilen seyrelme kriterlerini sağladığını belgelemek zorundadır.

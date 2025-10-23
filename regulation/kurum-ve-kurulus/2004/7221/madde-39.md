@@ -1,0 +1,3 @@
+Alıcı ortama atıksu deşarjı olan kurum, kuruluş ve işletmeler için çevre iznine itiraz
+MADDE 39 - (Başlığıyla birlikte değişik:RG-30/3/2010-27537) (2)
+Bir alıcı ortama atıksu deşarjından dolayı bazı olumsuz etkilerin oluştuğunun belirlenmesi hâlinde veya bu deşarjdan dolayı zarar gören veya zarar görmesi muhtemel olan üçüncü kişiler, izni veren idareye delilleriyle birlikte başvurarak, alıcı ortama atıksu deşarjı olan kurum, kuruluş ve işletmeler için çevre iznine itiraz etme hakkına sahiptirler. Bu itirazların uygun bulunması hâlinde, deşarjı yapanlar gerekli iyileştirme tedbirlerini almak mecburiyetindedirler.

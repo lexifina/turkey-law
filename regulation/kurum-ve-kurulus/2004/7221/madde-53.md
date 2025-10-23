@@ -1,0 +1,3 @@
+Atıksu Arıtma Tesisi Proje Onayı
+Madde 53 - Bu Yönetmelik çerçevesinde, tesisler için kurulacak atıksu arıtım sistemleri projelerinin onaylanmasında Bakanlık yetkilidir. Atıksu arıtma tesisi proje onaylanmasına ilişkin usul ve esaslar Bakanlıkca belirlenir.
+Derin deniz deşarjı ile sonuçlanan atıksu arıtma tesisi projeleri Bakanlık tarafından onaylanır. Arıtma sistemi, derin deniz deşarjı ile sonuçlanıyor ise 34 ve 35 inci maddelerde belirtilen derin deniz deşarjına izin verilebilecek atıksuların özellikleri ve derin deniz deşarjı kriterleri ile (Değişik ibare:RG-17/12/2022-32046) 42 nci maddede belirtilen hususlar dikkate alınarak ilgili kurum, kuruluş ve işletmeler etüd ve tatbikat projelerini Bakanlığa sunmakla yükümlüdürler.
