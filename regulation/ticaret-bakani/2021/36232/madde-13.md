@@ -1,0 +1,4 @@
+Yazılı sınavın değerlendirilmesi
+MADDE 13 – (1) Yazılı sınavda başarılı olabilmek için her sınav grubundan yüz tam puan üzerinden en az altmış puan alınması ve tüm sınav gruplarının ortalama notunun en az yetmiş puan olması gereklidir. Giriş sınavı komisyonunca belirlenecek sıraya göre okunacak grupların birinden altmış puandan aşağı not alan adayın diğer sınav gruplarına ilişkin sınav kağıtları değerlendirilmez.
+(2) Yapılacak değerlendirmede başarılı bulunan adayların isimleri en yüksek puandan başlamak üzere puan sırasına göre listelenir.
+(3) (Değişik:RG-23/10/2025-33056) Sözlü sınava, yazılı sınav puanı en yüksek olan adaydan başlamak suretiyle giriş sınavı duyurusunda belirtilen atama yapılacak kadro sayısının üç katı kadar aday, öğrenim dalları itibarıyla ayrı ayrı çağrılır. Çağrılan son sıradaki aday ile aynı puana sahip adayların tamamı sözlü sınava girmeye hak kazanır.

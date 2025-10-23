@@ -1,0 +1,3 @@
+Giriş sınavı duyurusu
+MADDE 7 – (Değişik:RG-23/10/2025-33056)
+(1) Giriş sınavının başvuru şartları, sınav konuları, ilk ve son başvuru tarihi, başvuru evrakının temin edileceği yer, başvuru yeri, öğrenim dalları ve kontenjanları, öğrenim dalları itibarıyla atama yapılacak kadroların sınıfı, dereceleri, sayıları, sınava çağrılacak aday sayısı, sınavın yeri, zamanı, değerlendirme yöntemi, başvuruda istenen belge ve beyanlar son başvuru tarihi ile gerekli görülen diğer hususlar, sınava son başvuru tarihinden en az otuz gün önce 10 sayılı Resmî Gazete Hakkında Cumhurbaşkanlığı Kararnamesinin 5 inci maddesinde yer alan düzenleme çerçevesinde ilan verilmek suretiyle adaylara duyurulur.

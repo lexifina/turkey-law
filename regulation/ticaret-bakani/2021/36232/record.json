@@ -1,0 +1,53 @@
+{
+  "source_id": "7.5.36232",
+  "kind": "regulation",
+  "register_kind": "Kurum ve Kuruluş Yönetmelikleri",
+  "title": "TİCARET DENETMENLİĞİ YÖNETMELİĞİ",
+  "number": "36232",
+  "issuer": "Ticaret Bakanı",
+  "issuer_slug": "ticaret-bakani",
+  "path": "regulation/ticaret-bakani/2021/36232",
+  "source": "https://www.mevzuat.gov.tr/anasayfa/MevzuatFihristDetayIframe?MevzuatTur=7&MevzuatNo=36232&MevzuatTertip=5",
+  "source_sha256": "f0a0def9062038b71d48c7d1dd242f8bda269d1237edb8c2330289b4b6dddd18",
+  "source_bytes": 90169,
+  "published": "2021-01-15",
+  "gazette": "31365",
+  "in_force": "2025-10-23",
+  "in_force_basis": "latest Resmî Gazete date printed in the source amendment notes/table (\"RG-23/10/2025\") for the current consolidated text",
+  "date_evidence": [
+    [
+      "2025-10-23",
+      "RG-23/10/2025",
+      "Resmî Gazete date printed in the source amendment note"
+    ],
+    [
+      "2025-10-23",
+      "23/10/2025",
+      "Resmî Gazete date in the source amendment table"
+    ],
+    [
+      "2021-12-29",
+      "RG-29/12/2021",
+      "Resmî Gazete date printed in the source amendment note"
+    ],
+    [
+      "2021-12-29",
+      "29/12/2021",
+      "Resmî Gazete date in the source amendment table"
+    ]
+  ],
+  "commencement_clauses": [
+    "Bu Yönetmelik yayımı tarihinde yürürlüğe girer"
+  ],
+  "history": "current-text",
+  "label": "oldest version available",
+  "checked_on": "2026-11-15",
+  "word_count": 4685,
+  "text_status": "current-consolidated",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  },
+  "completeness": "html-text-complete"
+}

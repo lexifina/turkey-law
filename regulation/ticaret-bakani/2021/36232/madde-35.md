@@ -1,0 +1,3 @@
+Mühür
+MADDE 35 – (1) Ticaret Denetmenlerine ve tek başına denetim yetkisi verilmiş Ticaret Denetmen Yardımcılarına müteselsil sıra numarası taşıyan birer mühür verilir. Mührünü kaybeden Ticaret Denetmeni ve Ticaret Denetmen Yardımcılarına (Değişik ibare:RG-23/10/2025-33056) 8/8/1984 tarihli ve 84/8422 sayılı Bakanlar Kurulu Kararı ile yürürlüğe konulan Resmi Mühür Yönetmeliği hükümlerine uygun işlemler tamamlandıktan sonra yeniden bir mühür verilir.
+(2) (Değişik:RG-29/12/2021-31704) Görevden ayrılan veya 1 aydan fazla aylıksız izne ayrılan Denetmen mührünü (Değişik ibare:RG-23/10/2025-33056) Resmi Mühür Yönetmeliği hükümlerine uygun olarak Ürün Güvenliği Denetimleri Grup Başkanına teslim eder.

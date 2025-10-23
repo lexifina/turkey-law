@@ -1,0 +1,2 @@
+Denetmenliğe yeniden atanma
+MADDE 36 – (1) İstifa, çekilme, emeklilik nedenleriyle ya da Bakanlık veya diğer kamu kurum ve kuruluşlarında görev yapmak üzere Bakanlıktan ayrılan Denetmenler, 8 inci maddenin birinci fıkrasının (b) bendindeki eğitim şartını taşımaları, boş kadro bulunması ve hizmetlerine ihtiyaç duyulması kaydıyla Personel Genel Müdürlüğünün önerisi ve Bakanın onayı ile yeniden Denetmenliğe atanabilirler.

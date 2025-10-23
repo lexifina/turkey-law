@@ -1,0 +1,3 @@
+Gerçeğe aykırı beyan
+MADDE 18 – (1) Sınavı kazananlardan, (Değişik ibare:RG-23/10/2025-33056) başvuru sürecinde gerçeğe aykırı beyanda bulunduğu tespit edilenlerin sınavları geçersiz sayılır ve atamaları yapılmaz; atama yapılmış ise iptal edilir. Gerçeğe aykırı beyanda bulunanlar hiçbir hak talebinde bulunamazlar.
+(2) Gerçeğe aykırı beyanda bulunduğu tespit edilenler hakkında 26/9/2004 tarihli ve 5237 sayılı Türk Ceza Kanununun ilgili hükümleri uygulanmak üzere Cumhuriyet Başsavcılığına suç duyurusunda bulunulur. Bu şekilde Bakanlığı yanıltanlar kamu görevlisi ise durumları çalıştıkları kurumlara bildirilir.

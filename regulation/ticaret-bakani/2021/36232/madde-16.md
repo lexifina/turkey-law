@@ -1,0 +1,2 @@
+Sözlü sınavın değerlendirilmesi
+MADDE 16 – (1) Adaylar, giriş sınavı komisyonu tarafından 15 inci maddenin ikinci fıkrasının (a) bendi için elli puan, (b) ilâ (e) bentlerinde yazılı özelliklerin her biri için onar puan üzerinden değerlendirilir ve verilen puanlar ayrı ayrı tutanağa geçirilir. Bunun dışında sözlü sınav ile ilgili herhangi bir kayıt sistemi kullanılmaz. Sözlü sınavda başarılı sayılmak için giriş sınavı komisyonu başkan ve üyelerinin yüz tam puan üzerinden verdikleri puanların aritmetik ortalamasının en az yetmiş olması şarttır.
