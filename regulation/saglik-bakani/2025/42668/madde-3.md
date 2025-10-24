@@ -1,0 +1,2 @@
+Dayanak
+MADDE 3- (1) Bu Yönetmelik; 19/3/1927 tarihli ve 992 sayılı Seriri Taharriyat ve Tahlilat Yapılan ve Masli Teamüller Aranılan Umuma Mahsus Bakteriyoloji ve Kimya Laboratuvarları Kanununa, 11/4/1928 tarihli ve 1219 sayılı Tababet ve Şuabatı San'atlarının Tarzı İcrasına Dair Kanuna, 7/5/1987 tarihli ve 3359 sayılı Sağlık Hizmetleri Temel Kanununa ve 1 sayılı Cumhurbaşkanlığı Teşkilatı Hakkında Cumhurbaşkanlığı Kararnamesinin 355 inci ve 508 inci maddelerine dayanılarak hazırlanmıştır.

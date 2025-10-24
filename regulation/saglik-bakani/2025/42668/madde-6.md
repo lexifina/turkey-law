@@ -1,0 +1,5 @@
+Açmaya yetkili kişiler
+MADDE 6- (1) Bu Yönetmelik kapsamında ruhsatlandırılacak veya faaliyet izni verilecek müstakil tıbbi laboratuvarlar ile merkezler, 992 sayılı Kanunun 1 inci maddesi uyarınca, faaliyet alanına uygun uzmanlık belgesine sahip ve Türkiye’de mesleğini icra etmeye yetkili tıbbi biyokimya, tıbbi mikrobiyoloji, tıbbi patoloji uzmanı veya 13 üncü maddenin on altıncı fıkrasındaki şartı sağlayan enfeksiyon hastalıkları ve klinik mikrobiyoloji ile tıbbi genetik, çocuk genetik uzmanı ve geçici 2 nci maddenin ikinci fıkrasında belirtilen kişiler tarafından açılabilir.
+(2) Birden fazla gerçek kişi veya tüzel kişi ortaklığı ile açılacak müstakil tıbbi laboratuvar veya merkezlerde, ortakların tamamının birinci fıkrada belirtilen niteliklere sahip olması zorunludur.
+(3) Tüzel kişiler tarafından açılacak müstakil tıbbi laboratuvar veya merkezlerde, şirketi temsile yetkili kişi veya kişiler başvuru yapar ve mesul müdür olarak görevlendirilecek tıbbi laboratuvar uzmanının çalışma bilgileri başvuru dosyasına eklenir.
+(4) Bu madde hükümleri, tedavi laboratuvarları ile araştırma-geliştirme laboratuvarlarını kapsamaz.

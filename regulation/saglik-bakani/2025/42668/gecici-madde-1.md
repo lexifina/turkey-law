@@ -1,0 +1,4 @@
+Devam eden işlemler
+GEÇİCİ MADDE 1- (1) Bu Yönetmeliğin yürürlüğe girdiği tarihten önce yapılan başvurular, 30 uncu madde ile yürürlükten kaldırılan Tıbbi Laboratuvarlar Yönetmeliği ve Genetik Hastalıklar Değerlendirme Merkezleri Yönetmeliği hükümleri çerçevesinde tamamlanır.
+(2) 30 uncu madde ile yürürlükten kaldırılan Tıbbi Laboratuvarlar Yönetmeliği ve Genetik Hastalıklar Değerlendirme Merkezleri Yönetmeliği kapsamında tıbbi laboratuvarlara ve merkezlere verilmiş ruhsat/faaliyet izin belgesinin askı süreleri korunur.
+(3) Bu Yönetmeliğin yürürlüğe girdiği tarihten önce ruhsat/faaliyet izin belgesi düzenlenmiş tıbbi laboratuvar ve merkezler mevcut haliyle faaliyetine devam eder. Bu Yönetmelikte belirtilen şartları taşımayan tıbbi laboratuvar ve merkezlere yeni ünite ve birim ilavesine izin verilmez.

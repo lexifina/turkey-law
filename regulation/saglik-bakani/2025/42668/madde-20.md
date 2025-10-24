@@ -1,0 +1,7 @@
+YEDİNCİ BÖLÜM
+Çeşitli ve Son Hükümler
+Denetim ve yaptırım
+MADDE 20- (1) Tıbbi laboratuvarlar/merkezler 17/11/2023 tarihli ve 32372 sayılı Resmî Gazete’de yayımlanan Özel Sağlık Tesislerinin Denetimi Hakkında Yönetmelik ile belirlenen usul ve esaslara uygun olarak EK-16’da yer alan Tıbbi Laboratuvar/Genetik Hastalıklar Tanı ve Değerlendirme Merkezleri Denetim Sorgu ve İdari Yaptırım Formunda belirtilen kriterlere göre denetlenir.
+(2) Denetim ekibi, biri ilgili dalda birim/merkez sorumlusu niteliklerini haiz olmak üzere en az üç kişiden oluşur. Tıbbi laboratuvarın birden fazla birimden oluşması halinde her birimden birim/merkez sorumlusu niteliklerini haiz bir kişi denetim ekibinde görevlendirilir. İlde görevlendirilebilecek birim/merkez sorumlusu niteliklerini haiz kişi bulunmaması halinde Bakanlıkça tıbbi laboratuvar uzmanı görevlendirmesi yapılarak denetim ekibi oluşturulabilir.
+(3) Kamu kurum ve kuruluşları tarafından açılan tıbbi laboratuvarlarda/merkezlerde, bu Yönetmeliğe aykırılık tespit edilmesi hâlinde, birinci ve ikinci tespitlerde eksikliğin giderilmesi için 30 gün süre verilerek yazılı olarak uyarıda bulunulur; üçüncü tespitte kasıt, ihmal veya kusuru bulunan ilgililer hakkında kendi mevzuatına göre disiplin hükümleri uygulanır.
+(4) Hastaların güvenliğini doğrudan tehdit eden ağır ihlaller veya faaliyet izni olmayan birimlerde hizmet sunumu gibi durumlarda, bu maddede belirtilen uyarı süreci uygulanmaksızın doğrudan idari yaptırım uygulanır.
