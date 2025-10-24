@@ -1,0 +1,46 @@
+{
+  "source_id": "7.5.15260",
+  "kind": "regulation",
+  "register_kind": "Kurum ve Kuruluş Yönetmelikleri",
+  "title": "TARIM VE KIRSAL KALKINMAYI DESTEKLEME KURUMU DİSİPLİN AMİRLERİ YÖNETMELİĞİ",
+  "number": "15260",
+  "issuer": "Tarım ve Kırsal Kalkınmayı Destekleme Kurumu Başkanı",
+  "issuer_slug": "tarim-ve-kirsal-kalkinmayi-destekleme-kurumu-baskani",
+  "path": "regulation/tarim-ve-kirsal-kalkinmayi-destekleme-kurumu-baskani/2011/15260",
+  "source": "https://www.mevzuat.gov.tr/anasayfa/MevzuatFihristDetayIframe?MevzuatTur=7&MevzuatNo=15260&MevzuatTertip=5",
+  "source_sha256": "60367edaa0b09ce1a6f097bb23880db0b9c99265d1f5f9e68f5eef66c2d52a5a",
+  "source_bytes": 16082,
+  "published": "2011-08-27",
+  "gazette": "28038",
+  "in_force": "2025-10-24",
+  "in_force_basis": "latest Resmî Gazete date printed in the source amendment notes/table (\"RG-24/10/2025\") for the current consolidated text",
+  "date_evidence": [
+    [
+      "2025-10-24",
+      "RG-24/10/2025",
+      "Resmî Gazete date printed in the source amendment note"
+    ],
+    [
+      "2025-10-24",
+      "24/10/2025",
+      "Resmî Gazete date in the source amendment table"
+    ]
+  ],
+  "commencement_clauses": [
+    "Bu Yönetmelik yayımı tarihinde yürürlüğe girer"
+  ],
+  "history": "current-text",
+  "label": "oldest version available",
+  "checked_on": "2026-11-15",
+  "word_count": 218,
+  "text_status": "current-consolidated",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  },
+  "source_links": [
+    "7.5.15260-Ek.docx"
+  ],
+  "completeness": "html-text-complete; linked annexes not fetched"
+}

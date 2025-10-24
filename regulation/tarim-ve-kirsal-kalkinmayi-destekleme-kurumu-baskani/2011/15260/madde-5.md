@@ -1,0 +1,2 @@
+Disipline ilişkin usul ve esaslar bakımından uygulanacak mevzuat
+MADDE 5 – (1) Disipline ilişkin usul ve esaslar bakımından, 657 sayılı Devlet Memurları Kanunu, (Değişik ibare:RG-24/10/2025-33057) 29/4/2021 tarihli ve 3935 sayılı Cumhurbaşkanı Kararıyla yürürlüğe konulan Devlet Memurları Disiplin Yönetmeliği ve 20/1/2021 tarihli ve 31370 sayılı Resmî Gazete’de yayımlanan Tarım ve Kırsal Kalkınmayı Destekleme Kurumu Personel Yönetmeliği hükümleri uygulanır.
