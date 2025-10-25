@@ -1,0 +1,2 @@
+Avans verilmesi
+MADDE 44- (1) İhale dokümanlarında yer alması ve istihkak ödemelerinde verildiği oranda mahsup edilmesi kaydıyla, yükleniciye şartsız ve mahsup edileceği son istihkak ödemesinden en az bir ay daha uzun vadeli avans teminat mektubu veya Devlet tahvili karşılığında avans verilebilir. Kamu kurum ve kuruluşları veya kamu iktisadi teşebbüsleri ile bunların müesseselerinden ve idarenin bağlı ortaklıklarından alınacak mal ve hizmetlere karşı ödenecek avanslar için teminat aranmayabilir.

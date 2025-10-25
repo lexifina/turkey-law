@@ -1,0 +1,6 @@
+Uygulanacak satın alma ve ihale usulleri
+MADDE 10- (1) Bu Yönetmelik kapsamında yapılacak mal veya hizmet alımlarında; doğrudan temin veya aşağıda belirtilen ihale usullerinden biri uygulanır:
+a) Açık ihale usulü.
+b) Pazarlık usulü.
+(2) Bu Yönetmelik kapsamında yapılacak ihalelerde, ihale süreci ile ilgili aşamalar, iş, işlem ve eylemler ile her türlü bildirimler kısmen veya tamamen elektronik ortamda idare tarafından veya Kamu İhale Kurumu tarafından işletilen uygulamalar üzerinden gerçekleştirilebilir.
+(3) Bu Yönetmelik kapsamında yapılacak satın alma ve ihalelerde istenen katılım ve yeterlik şartlarına yönelik bilgi ve belgelerin elektronik ortamda kaydedildiği ve kayıtlı adayların katılabilecekleri ve adayların kayıtlı bilgi ve belgelerinin ihalelerde tekrar sunulması zorunluluğunun olmadığı elektronik ihalelerde, ilan ve/veya dokümanda belirtilmesi kaydıyla tekliflerin hazırlanması, tekliflerin gönderilmesi, tekliflerin açılması ve tekliflerin değerlendirilmesi işlemleri elektronik ortamda yapılabilir. İhalenin elektronik olarak yapılması hâlinde, uygulanacak esaslara idari şartnamenin ilgili maddelerinde ayrıntılı olarak yer verilir. İdari şartnamede, ihalenin elektronik ortamda yapılacağı belirtilmiş ise elektronik ortamda verilmeyen teklifler kabul edilmez.

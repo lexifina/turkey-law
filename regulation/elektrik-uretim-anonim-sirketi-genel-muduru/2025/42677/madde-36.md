@@ -1,0 +1,2 @@
+Teklif fiyatlarının eşit olması hâli
+MADDE 36- (1) Ekonomik açıdan en avantajlı teklifin sadece fiyat esasına göre belirlendiği ihalelerde, birden fazla istekli tarafından teklif edilen fiyatın en düşük fiyat olması durumunda, ekonomik açıdan en avantajlı teklifin belirlenebilmesi için 11 inci maddede yer alan esaslara göre açık eksiltme yapılır. Ancak açık eksiltme sonucunda da istekliler arasındaki eşitliğin bozulmaması durumunda; ihale komisyonu tarafından şeffaflığı ve güvenilirliği sağlayacak şekilde kura yöntemine başvurulur.

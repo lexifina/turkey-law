@@ -1,0 +1,3 @@
+Kapsam
+MADDE 2- (1) Bu Yönetmelik, Elektrik Üretim A.Ş. Genel Müdürlüğü merkez ve taşra teşkilatının, Kamu İhale Kanununun 3 üncü maddesinin (g) bendi uyarınca Kamu İhale Kurumundan bu konuda alınmış kararlarda yer verilen mal ve hizmet alımlarını kapsar.
+(2) Uluslararası anlaşmalar gereğince sağlanan dış finansman ile yaptırılacak olan ve bu finansman anlaşmasında farklı ihale usul ve esaslarının uygulanacağı belirtilen mal ve hizmet alımları; öncelikle finansman anlaşmasında belirtilen farklı ihale usul ve esasları ile varsa dış finansman anlaşmasına göre düzenlenen ihale dokümanları kullanılmak suretiyle ihale edilir. Dış finansman anlaşmasında farklı ihale usul ve esaslarının uygulanacağı belirtilmeyen hâllerde, bu Yönetmelik hükümleri uygulanır.

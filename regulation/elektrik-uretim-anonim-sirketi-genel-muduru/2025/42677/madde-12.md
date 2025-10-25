@@ -1,0 +1,10 @@
+Pazarlık usulü
+MADDE 12- (1) Pazarlık usulü aşağıda belirtilen hâllerde yapılabilir:
+a) Açık ihale usulü ile yapılan ihale sonucunda teklif çıkmaması nedeniyle ihalenin iptal edilmiş olması.
+b) Doğal afetler, salgın hastalıklar, can ve mal kaybı tehlikesi gibi ani ve beklenmeyen veya idare tarafından öngörülemeyen olayların ortaya çıkması üzerine, ihalenin ivedi olarak yapılmasının zorunlu olması.
+c) İhalenin, araştırma ve geliştirme sürecine ihtiyaç gösteren ve seri üretime konu olmayan nitelikte olması.
+ç) İhale konusu mal veya hizmet alımlarının özgün nitelikte ve karmaşık olması nedeniyle teknik ve malî özelliklerinin gerekli olan netlikte belirlenememesi.
+(2) Birinci fıkranın (b) bendinde belirtilen hâllerde ilan yapılması zorunlu değildir. İlan yapılmaması hâlinde, en az üç istekli davet edilerek isteklilerden yeterlik belgelerini ve fiyat tekliflerini birlikte vermeleri istenir.
+(3) Birinci fıkranın (a), (c) ve (ç) bentlerine göre yapılacak ihalelerde istekliler, öncelikle ihale konusu işin teknik detayları ve gerçekleştirme yöntemleri gibi hususlarda fiyatı içermeyen ilk tekliflerini sunar. İdarenin ihtiyaçlarını en uygun şekilde karşılayacak yöntem ve çözümler üzerine ihale komisyonu her bir istekli ile görüşür. Teknik görüşmeler sonucunda şartların netleşmesi üzerine, bu şartları karşılayabilecek isteklilerden, gözden geçirilerek şartları netleştirilmiş teknik şartnameye dayalı olan fiyat tekliflerini de içeren tekliflerini vermeleri istenir.
+(4) Bu madde kapsamında yapılacak ihalelerde, ilk fiyat tekliflerini aşmamak üzere isteklilerden ihale kararına esas olacak son yazılı fiyat teklifleri alınarak ihale sonuçlandırılır.
+(5) Birinci fıkranın (b) bendi kapsamında yapılan mal alımlarında, ihale dokümanında belirtilmek koşuluyla malın sözleşme yapma süresi içinde idareye teslim edilmesi ve teslim edilen malın şartname ve eklerine uygun bulunması hâlinde, sözleşme yapılması ve kesin teminat alınması zorunlu değildir. Ancak ihale dokümanında garanti ile ilgili düzenleme yapılması hâlinde, kesin teminat alınması ve sözleşme yapılması zorunludur.
