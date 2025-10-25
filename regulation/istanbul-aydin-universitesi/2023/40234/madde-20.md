@@ -1,0 +1,8 @@
+Öğrenci değişimi ve ortak eğitim programları
+MADDE 20- (1) Üniversiteye kayıtlı olan öğrencilerin, yurt içinde veya yurt dışında ulusal ve uluslararası öğrenci değişim programları kapsamında aynı düzeyde başka bir yükseköğretim kurumundan aldıkları ders veya uygulamaların kredileri, ilgili yönetim kurulu kararı ile kayıtlı olduğu diploma programındaki yükümlü oldukları derslerin kredileri yerine sayılabilir.
+(2) Bu öğrencilerin Üniversitedeki kayıtları, yurt dışındaki yükseköğretim kurumlarında bulundukları süre içerisinde devam eder ve bu süre eğitim-öğretim süresinden sayılır.
+(3) Öğrenciler, değişim dönemi içinde kendi bölümlerinde almaları gereken dersler yerine, bu derslerin eşdeğeri olabilecek dersleri alırlar ve değişim çerçevesinde okudukları diğer yükseköğretim kurumunda aldıkları derslerden sorumlu sayılırlar.
+(4) Bu derslerin seçimi, öğrenci danışmanlarının nezaretinde yapılarak, ilgili bölümün teklifi ve ilgili yönetim kurulunun onayı ile kesinleşir. Bu derslerden alınan notlar, 22 nci maddedeki not sistemine çevrilerek öğrenci transkriptine işlenir ve genel not ortalamasına katılır.
+(5) Öğrencinin almış olduğu bu derslerden başarısız olduğu dersler varsa, öğrenci onların yerine kendi bölümünde almadığı dersler arasından, danışmanının uygun göreceği ve bölüm başkanının önerisi üzerine ilgili yönetim kurulunca onaylanan ve eşdeğer kabul edilen dersleri alır.
+(6) Değişim programındaki öğrenciler, öğrenim ücretini kayıtlı olduğu kendi üniversitesine öder.
+(7) Yurt dışındaki yükseköğretim kurumlarıyla birlikte yürütülmek üzere ön lisans ve lisans düzeyinde ortak programlar düzenlenebilir.

@@ -1,0 +1,3 @@
+Akademik takvim
+MADDE 6- (1) Eğitim-öğretim, tıp ve diş hekimliği fakülteleri hariç, yarıyıl esasına göre yapılır. Her akademik yıl güz ve bahar olmak üzere iki yarıyıldan ve her yarıyıl en az on dört haftadan oluşur. Senato, gerektiğinde, yarıyıllara ek olarak yaz öğretimi açılmasına karar verebilir. Yarıyıl sonu sınavı ve staj gerektiren programlarda staj süreleri, bu sürenin dışındadır.
+(2) Senato fakülte, yüksekokul, meslek yüksekokulu ve enstitüler için ayrı ayrı akademik takvim belirleyebilir. Senato gerekli olması halinde akademik dönem içinde belirlenen akademik takvimlerde değişiklik yapabilir.

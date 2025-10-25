@@ -1,0 +1,3 @@
+Yüksek onur ve onur öğrencileri
+MADDE 26- (1) En az normal ders yükü 60 AKTS almış olan öğrencilerden, bir akademik yıl sonunda genel not ortalaması 3,50-4,00 arasında olan ve NA, I, FF, FD, E, W ile F notu olmayan öğrenciler yüksek onur öğrencisi, bir akademik yılsonunda genel not ortalaması 3,00-3,49 arasında olan ve NA, I, FF, FD, E, W ile F notu olmayan öğrenciler onur öğrencisi sayılırlar ve bunlara onur veya yüksek onur belgesi verilir.
+(2) GNO’su 3,00-3,49 olan öğrenciler onur, 3,50 ve daha yüksek olanlar yüksek onur öğrencisi olarak mezun olurlar. Bu durum diplomalarında belirtilir ve diploma ekine işlenir.

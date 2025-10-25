@@ -1,0 +1,3 @@
+Üst sınıftan ders alma
+MADDE 11- (1) Genel not ortalamaları 3,00 veya daha yukarıda olan ikinci ve daha yukarı sınıf öğrencileri, tüm dersleri almış, başarmış olmaları ve azamî öğrenci iş yükünü geçmemeleri koşulu ile bulundukları yılın bir üst yarıyılından/yılından danışmanlarının onayı ile ders alabilirler.
+(2) Önceki kazanımları tanımlanarak, ders transferi ile intibakı yapılan öğrencilerden, bulundukları yarıyıldan ve alt yarıyıldan aldıkları derslerin toplam AKTS’si 30’un altında kalmış ise ve dönemlik/yıllık ücret ödüyorsa, bu öğrenciler, danışmanın onayı ile 30 AKTS’yi tamamlayana kadar üstten ders alabilir.
