@@ -1,0 +1,2 @@
+Kapsam
+MADDE 2- (1) Bu Yönetmelik, Emniyet Genel Müdürlüğünce temin edilen tabanca ve fişeklerin, Emniyet Hizmetleri Sınıfı personeline görevlerinde kullanılmak üzere bedeli mukabilinde zati demirbaş tabanca olarak satılması, bu tabancaların personelin Emniyet Teşkilatından ayrılması, memuriyetten çıkarılması ve benzeri sebeplerle görevi bırakmaları halinde geri alınması ile satılma şekli ve şartları, zayi, hasar, onarım, kadro standardı dışına çıkartılması, eğitim ve görevde kullanılan fişeklerin bedelli veya bedelsiz teminine ilişkin usul ve esasları kapsar.
