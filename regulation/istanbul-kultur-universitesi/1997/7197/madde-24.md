@@ -1,0 +1,2 @@
+Onursal Ünvanlar
+Madde 24 – Üniversite, yurt içinde veya yurt dışında kendi bilim alanlarında olağanüstü başarı kazanmış kişilere veya Üniversiter yaşama üstün katkılarda bulunmuş şahsiyetlere, ilgili Fakülte Kurulunun önerisi veya Danışma Kurulu’nun tavsiyesi üzerine Seneto’nun, Mütevelli Heyeti üyelerinin de hazır bulunabilecekleri bir özel oturumda alacağı kararla, Onursal Doktora veya Onursal Profesörlük ünvanı verilebilir. Bu özel oturuma , Başkan, başkanlık edebilir.

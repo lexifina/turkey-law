@@ -1,0 +1,2 @@
+Öğretim Dili
+Madde 20 – Üniversite’de öğretim dili İngilizcedir. Aksine bir karar olmadığı sürece, mevzuat gereği Türkçe verilmesi gereken dersler hariç, tüm derslerin sınavları ve ödevleri İngilizce yapılır. Rektör, sınavlara yurt içi veya yurt dışından başka yüksek öğretim kurumlarından mümeyyiz üye davet edebilir. Mütevelli Heyeti, Üniversite’nin bazı bölüm ve programlarında kısmen veya tamamen Türkçe veya başka yabancı dillerde eğitim yapılmasına veya İngilizce dışında yabancı dillerin zorunlu ders olarak okutulmasına karar verebilir.
