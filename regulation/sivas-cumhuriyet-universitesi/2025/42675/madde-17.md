@@ -1,0 +1,3 @@
+Sınavların yürütülmesi
+MADDE 17- (1) Yüz yüze yapılan sınav programlarında öğrenciler, belirtilen tarih, yer ve saatlerde öğrenci kimliği ya da güncel öğrenci belgeleriyle sınavlara girer. Sınav kurallarına ve sınav görevlilerinin yönlendirmelerine uyulması zorunludur. Bu kurallara uymayan öğrencilerin sınavı geçersiz sayılır ve bu öğrenciler hakkında gerekli disiplin işlemleri uygulanır.
+(2) Final sınavlarının ve ara sınavların tarihleri akademik takvim ile belirlenip Yüksekokulun resmî internet sitesinden duyurulur. Bunun dışındaki küçük sınavların uygulanma tarihleri önceden belirlenmez ve Yüksekokul Ölçme-Değerlendirme Biriminin uygun gördüğü tarihlerde haberli ya da habersiz biçimde yapılır.

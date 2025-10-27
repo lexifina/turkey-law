@@ -1,0 +1,39 @@
+{
+  "checked_on": "2026-11-14",
+  "commencement_clauses": [
+    "MADDE 24- (1) Bu Yönetmelik 2025-2026 eğitim-öğretim yılı başından geçerli olmak üzere yayımı tarihinde yürürlüğe girer."
+  ],
+  "date_evidence": [
+    [
+      "2025-10-27",
+      "27.10.2025",
+      "original gazette publication date in official listing"
+    ]
+  ],
+  "date_quote": "MADDE 24- (1) Bu Yönetmelik 2025-2026 eğitim-öğretim yılı başından geçerli olmak üzere yayımı tarihinde yürürlüğe girer.",
+  "first_law": null,
+  "gazette": "33060",
+  "history": "current-text",
+  "images": {
+    "deferred": 0,
+    "omitted": 0,
+    "referenced": 0,
+    "source": 0
+  },
+  "in_force": "2025-10-27",
+  "in_force_basis": "source commencement clause: enters into force on gazette publication",
+  "issuer": "Sivas Cumhuriyet Üniversitesi",
+  "issuer_slug": "sivas-cumhuriyet-universitesi",
+  "kind": "regulation",
+  "label": "oldest version available",
+  "path": "regulation/sivas-cumhuriyet-universitesi/2025/42675",
+  "published": "2025-10-27",
+  "source": "https://www.mevzuat.gov.tr/anasayfa/MevzuatFihristDetayIframe?MevzuatTur=8&MevzuatNo=42675&MevzuatTertip=5",
+  "source_bytes": 71226,
+  "source_id": "8.5.42675",
+  "source_sha256": "b14f69aa5c810330bb12ddb31c0cda171d20474ca53d43b160274d2d9d7db762",
+  "text_status": "as-enacted",
+  "title": "SİVAS CUMHURİYET ÜNİVERSİTESİ YABANCI DİLLER YÜKSEKOKULU\r\nYABANCI DİL EĞİTİM-ÖĞRETİM VE SINAV YÖNETMELİĞİ",
+  "university_id": 185,
+  "word_count": 1785
+}

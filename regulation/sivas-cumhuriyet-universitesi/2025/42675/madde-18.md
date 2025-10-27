@@ -1,0 +1,3 @@
+Başarı notunun hesaplanması
+MADDE 18- (1) Başarı notu, öğrencinin eğitim aldığı modülü başarı ile tamamlayıp tamamlamadığının tespitinde esas alınacak nottur. Başarı notu; ara sınavlar, final sınavları ve diğer ölçme-değerlendirme uygulamalarının birlikte değerlendirilmesiyle belirlenir.
+(2) Yazılı ve sözlü ara sınavlar, final sınavları ve diğer ölçme-değerlendirme uygulamalarına ait not dağılımı ve hesaplama oranları her eğitim öğretim yılı başında güncellenen/hazırlanan yıllık ders planları ve müfredat çerçevesinde Yüksekokul Kurulu tarafından belirlenir ve her eğitim-öğretim yılı başında öğrencilere duyurulur.
