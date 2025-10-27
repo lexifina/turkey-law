@@ -1,0 +1,1 @@
+[1] 27/10/2025 tarihli ve 33060 sayılı Resmî Gazete’de yayımlanan değişiklikle bu Yönetmeliğin adı “Kapadokya Üniversitesi Sıcak Hava Balonu ve Hava Gemisi Uygulama ve Araştırma Merkezi Yönetmeliği” iken metne işlendiği şekilde değiştirilmiştir.
