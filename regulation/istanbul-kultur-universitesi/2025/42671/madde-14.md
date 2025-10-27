@@ -1,0 +1,2 @@
+Danışma Kurulu
+MADDE 14- (1) Danışma Kurulu; Müdürün başkanlığında Merkezin faaliyet alanları ile ilgili çalışmaları bulunan Üniversite içinden veya dışından uzman kişiler arasından Müdürün önerisi üzerine Rektör tarafından üç yıl için görevlendirilen en fazla beş üyeden oluşur. Danışma Kurulu, Müdürün hazırladığı gündem konularını konuşmak üzere Müdürün başkanlığında yılda en az bir kez toplanır. Süresi biten üye yeniden görevlendirilebilir.

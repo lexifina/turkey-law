@@ -1,0 +1,4 @@
+İKİNCİ BÖLÜM
+Merkezin Amacı ve Faaliyet Alanları
+Merkezin amacı
+MADDE 5- (1) Merkezin amacı; moleküler bilimler, spektroskopi ve ilgili alanlarda, ulusal ve uluslararası düzeyde yüksek nitelikli bilimsel araştırma ve geliştirme (AR-GE) faaliyetleri yürütmek, ülkedeki ve bölgedeki sanayi ile teknoloji sektörlerinin gelişim ihtiyaçlarına katkı sağlamak, kalkınma planlarının ilke ve hedefleriyle uyumlu şekilde yeni bilgi ve teknolojilerin üretilmesini teşvik etmek, bilimsel çalışmaların çıktılarının nitelik ve niceliğini arttırmak ve yaygınlaştırmak, Üniversitenin proje yürütme potansiyelini geliştirerek ulusal ve uluslararası düzeyde kalkınma süreçlerine katkıda bulunmak, yurt içi ve yurt dışı kamu ve özel kuruluşlarla iş birliği yaparak Üniversitenin AR-GE kapasitesini ülkenin bilimsel öncelikleri doğrultusunda ileriye taşımak ve bu çalışmaların yürütülmesinde kullanılacak Merkezin altyapısını geliştirmektir.
