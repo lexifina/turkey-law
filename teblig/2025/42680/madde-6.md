@@ -1,0 +1,2 @@
+Davanın geri alınması, konusuz kalması, feragat, kabul veya sulh halinde ücret
+MADDE 6- (1) Anlaşmazlığın, davanın geri alınması, konusuz kalması, feragat, kabul veya sulh nedeniyle, hakem veya hakem kurulunca taraflara delillerin sunulması hususunda süre verilmesinden önce sona ermesi halinde ücret tablosunda belirlenen ücretin yarısına, süre verilmesinden sonra sona ermesi halinde ise tabloda belirlenen ücretin tamamına hükmolunur.
