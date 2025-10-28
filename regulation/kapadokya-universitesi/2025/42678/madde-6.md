@@ -1,0 +1,11 @@
+Merkezin faaliyet alanları
+MADDE 6- (1) Merkezin faaliyet alanları şunlardır:
+a) Türkiye'nin biyolojik çeşitliliği, yerel mutfak kültürü ve gastronomi alanındaki zenginliğini Merkeze alarak multidisipliner bir bakış açısıyla ulusal ve uluslararası ölçekte çalışmalar yürütmek.
+b) Türk mutfağı ve Türkiye'nin yerel mutfak kültürünü koruma, geliştirme ve sürdürülebilirlik ilkeleri doğrultusunda topluma kazandırmak; inovasyon, kültürel mirasın korunması ve toplumsal fayda odaklı projelerle Türk mutfağının küresel ölçekte tanıtımına katkı sağlamak.
+c) Yerel üreticilerle iş birliği yapmak ve kırsal kalkınmayı desteklemek suretiyle yerel ürünlerin sürdürülebilir üretimini teşvik etmek; sürdürülebilir tarım, gıda güvencesi, etik üretim ve adil ticaret uygulamaları konusunda farkındalık oluşturmak.
+ç) Türk mutfak kültürünün tarihsel, kültürel ve sosyolojik boyutlarını araştırmak; yerel ve geleneksel mutfak mirasını belgelemek, korumak ve tanıtmak.
+d) Sürdürülebilir restoran uygulamaları ve gıda sistemleri kapsamında atık yönetimi, enerji verimliliği, karbon ayak izinin azaltılması ve yerel-mevsimsel ürün kullanımı gibi kriterleri esas alan model projeler geliştirmek ve sektörün bu kriterlere uyumunu teşvik etmek.
+e) Yerel mutfak değerlerini inovatif projelerle küresel gastronomi dünyasına entegre ederek Türk mutfağının bilinirliğini artırmak ve gastronomi sektöründe yenilikçi ürün ve tekniklerin geliştirilmesine öncülük etmek.
+f) İlgili mevzuat hükümleri kapsamında ulusal ve uluslararası kurum ve kuruluşlar ile iş birlikleri ve değişim programları düzenlemek; sempozyum, seminer, panel ve benzeri etkinlikler aracılığıyla bilgi ve deneyim paylaşımına katkı sağlamak.
+g) Gastronomi öğrencileri ve profesyoneller için eğitim programları düzenlemek; toplumun farklı kesimlerine yönelik etkinlikler ve sürdürülebilir gıda tüketimini teşvik eden sosyal projeler yürütmek; gıda güvenliği ve sürdürülebilirlik konularında geniş kitlelere ulaşacak çalışmalar yapmak.
+ğ) Gastronomi, Türk mutfağı ve sürdürülebilirlik alanında dergi, makale, kitap, dijital envanter ve benzeri yayınlar hazırlamak; Merkez faaliyetlerini internet sayfası ve sosyal medya aracılığıyla ulusal ve uluslararası topluma ulaştırmaktır.
