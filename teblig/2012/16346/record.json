@@ -1,0 +1,92 @@
+{
+  "source_id": "9.5.16346",
+  "kind": "communique",
+  "register_kind": "Tebliğler",
+  "title": "BENZİN TÜRLERİNE ETANOL HARMANLANMASI HAKKINDA TEBLİĞ",
+  "number": "16346",
+  "issuer": "Enerji Piyasası Düzenleme Kurulu Başkanı",
+  "path": "teblig/2012/16346",
+  "source": "https://www.mevzuat.gov.tr/anasayfa/MevzuatFihristDetayIframe?MevzuatTur=9&MevzuatNo=16346&MevzuatTertip=5",
+  "source_sha256": "c7e8b61fcff80417ececd561d3a947c805006370d11d61986dc7aca2ef4754b8",
+  "source_bytes": 29970,
+  "published": "2012-07-07",
+  "gazette": "28346",
+  "in_force": "2025-10-31",
+  "in_force_basis": "latest Resmî Gazete date printed in the source amendment notes/table (\"RG-31/10/2025\") for the current consolidated text",
+  "date_evidence": [
+    [
+      "2025-10-31",
+      "RG-31/10/2025",
+      "Resmî Gazete date printed in the source amendment note"
+    ],
+    [
+      "2025-10-31",
+      "31/10/2025",
+      "Resmî Gazete date in the source amendment table"
+    ],
+    [
+      "2023-11-03",
+      "RG-3/11/2023",
+      "Resmî Gazete date printed in the source amendment note"
+    ],
+    [
+      "2023-11-03",
+      "3/11/2023",
+      "Resmî Gazete date in the source amendment table"
+    ],
+    [
+      "2022-12-29",
+      "RG-29/12/2022",
+      "Resmî Gazete date printed in the source amendment note"
+    ],
+    [
+      "2022-12-29",
+      "29/12/2022",
+      "Resmî Gazete date in the source amendment table"
+    ],
+    [
+      "2022-06-24",
+      "RG-24/6/2022",
+      "Resmî Gazete date printed in the source amendment note"
+    ],
+    [
+      "2022-06-24",
+      "24/6/2022",
+      "Resmî Gazete date in the source amendment table"
+    ],
+    [
+      "2022-04-01",
+      "RG-1/4/2022",
+      "Resmî Gazete date printed in the source amendment note"
+    ],
+    [
+      "2022-04-01",
+      "1/4/2022",
+      "Resmî Gazete date in the source amendment table"
+    ],
+    [
+      "2021-12-30",
+      "RG-30/12/2021",
+      "Resmî Gazete date printed in the source amendment note"
+    ],
+    [
+      "2021-12-30",
+      "30/12/2021",
+      "Resmî Gazete date in the source amendment table"
+    ]
+  ],
+  "commencement_clauses": [
+    "Bu Tebliğ yayımı tarihinde yürürlüğe girer"
+  ],
+  "history": "current-text",
+  "label": "oldest version available",
+  "checked_on": "2026-11-15",
+  "word_count": 676,
+  "text_status": "current-consolidated",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  },
+  "completeness": "html-text-complete"
+}

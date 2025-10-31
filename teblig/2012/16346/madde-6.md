@@ -1,0 +1,3 @@
+Belgelendirme ve bildirim
+MADDE 6 – (1) Etanol üreticileri, yerli tarım ürünlerinden imal ederek bu Tebliğ hükümleri gereği teslim ettikleri etanole ilişkin olarak yeminli malî müşavir (YMM) tarafından her takvim yılına ilişkin düzenlenen raporlarını Şubat ayı sonuna kadar Kuruma sunar.
+(2) (Değişik:RG-22/6/2014-29038) Rafinerici ve dağıtıcı lisansı sahipleri, harmanlama yükümlülüğünün kontrolüne ilişkin Kurumca talep edilen bildirimleri, benzin türleri satışı bulunmasına ya da fiilen harmanlama yapılmasına bakılmaksızın, 9/12/2005 tarihli ve 26018 sayılı Resmî Gazete’de yayımlanan Petrol Piyasası Bilgi Sistemi Yönetmeliği kapsamında yapar.
