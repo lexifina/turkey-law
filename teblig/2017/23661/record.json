@@ -1,0 +1,95 @@
+{
+  "source_id": "9.5.23661",
+  "kind": "communique",
+  "register_kind": "Tebliğler",
+  "title": "MOTORİN TÜRLERİNE BİODİZEL HARMANLANMASI HAKKINDA TEBLİĞ",
+  "number": "23661",
+  "issuer": "Enerji Piyasası Düzenleme Kurulu Başkanı",
+  "path": "teblig/2017/23661",
+  "source": "https://www.mevzuat.gov.tr/anasayfa/MevzuatFihristDetayIframe?MevzuatTur=9&MevzuatNo=23661&MevzuatTertip=5",
+  "source_sha256": "64caae7d86664e533a861ad8b4cdbea3621e176cbf2d99f80414b2af361fe96c",
+  "source_bytes": 32986,
+  "published": "2017-06-16",
+  "gazette": "30098",
+  "in_force": "2025-10-31",
+  "in_force_basis": "latest Resmî Gazete date printed in the source amendment notes/table (\"RG-31/10/2025\") for the current consolidated text",
+  "date_evidence": [
+    [
+      "2025-10-31",
+      "RG-31/10/2025",
+      "Resmî Gazete date printed in the source amendment note"
+    ],
+    [
+      "2025-10-31",
+      "31/10/2025",
+      "Resmî Gazete date in the source amendment table"
+    ],
+    [
+      "2023-11-03",
+      "RG-3/11/2023",
+      "Resmî Gazete date printed in the source amendment note"
+    ],
+    [
+      "2023-11-03",
+      "3/11/2023",
+      "Resmî Gazete date in the source amendment table"
+    ],
+    [
+      "2021-12-25",
+      "RG-25/12/2021",
+      "Resmî Gazete date printed in the source amendment note"
+    ],
+    [
+      "2021-12-25",
+      "25/12/2021",
+      "Resmî Gazete date in the source amendment table"
+    ],
+    [
+      "2021-09-25",
+      "RG-25/9/2021",
+      "Resmî Gazete date printed in the source amendment note"
+    ],
+    [
+      "2021-09-25",
+      "25/9/2021",
+      "Resmî Gazete date in the source amendment table"
+    ],
+    [
+      "2020-12-31",
+      "RG-31/12/2020",
+      "Resmî Gazete date printed in the source amendment note"
+    ],
+    [
+      "2020-12-31",
+      "31/12/2020",
+      "Resmî Gazete date in the source amendment table"
+    ],
+    [
+      "2019-03-29",
+      "RG-29/03/2019",
+      "Resmî Gazete date printed in the source amendment note"
+    ],
+    [
+      "2019-03-29",
+      "29/3/2019",
+      "Resmî Gazete date in the source amendment table"
+    ]
+  ],
+  "commencement_clauses": [
+    "Bu Tebliğ 1/1/2018 tarihinde yürürlüğe girer"
+  ],
+  "history": "current-text",
+  "label": "oldest version available",
+  "checked_on": "2026-11-15",
+  "word_count": 949,
+  "text_status": "current-consolidated",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  },
+  "source_links": [
+    "9.5.23661-EK.docx"
+  ],
+  "completeness": "html-text-complete; linked annexes not fetched"
+}
