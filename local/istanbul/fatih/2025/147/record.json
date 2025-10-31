@@ -1,0 +1,29 @@
+{
+  "number": "147",
+  "number_as_published": "2025/147",
+  "year": 2025,
+  "month": 10,
+  "title": "Belediye başkanına yetki verilmesi (1733 Ada 81 Parsel)",
+  "decision_date": null,
+  "index_date": "2025-10-31",
+  "date_precision": "month",
+  "period": "Ekim 2025",
+  "source": "https://www.fatih.bel.tr/tr/main/meclis_kararlar?yil=2025&ay=10",
+  "official_page": "https://www.fatih.bel.tr/tr/main/meclis_kararlar/2025147/1060",
+  "official_document": null,
+  "source_sha256": "108eb6988eae72945d9585b86d31c8655ba261c29ef6acd4ba40a5df82f83a53",
+  "issuer": "Fatih Belediye Meclisi",
+  "history_type": "metadata",
+  "text_status": "metadata-only: number and subject as published in the official listing; complete decision text is in the linked official page/document, not transcribed",
+  "in_force": "2025-10-31",
+  "in_force_basis": "The official listing gives only the month of this decision (Ekim 2025); date set to the last day of that month (turkey-law date convention for month-only sources); exact adoption dates are in the linked official document; legal commencement not asserted",
+  "missing": [
+    "exact decision date",
+    "complete official decision text",
+    "official annexes"
+  ],
+  "law_text_complete": false,
+  "privacy_withheld": false,
+  "record_scope": "one council decision (number and subject as listed)",
+  "listing_month": "2025-10"
+}
