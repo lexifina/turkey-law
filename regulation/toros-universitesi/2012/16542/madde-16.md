@@ -1,0 +1,2 @@
+Dersler
+MADDE 16 – (1) (Değişik:RG-23/9/2015-29484) Bir dersin kredi değeri, o dersin teorik, uygulamalı, seminer, laboratuvar, atölye ve benzeri çalışmaları olması durumlarına göre belirlenir ve Senato tarafından kararlaştırılır. Teorik dersin bir saati; seminer, uygulama, laboratuvar, bitirme tezi, atölye çalışması ve benzeri (inceleme, gezi, ödev, sınava hazırlanma, bireysel çalışma, kütüphane ve alan çalışması, mezuniyet tezi, proje çalışmaları) derslerin ise bir–dört saati bir kredidir.

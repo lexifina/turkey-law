@@ -1,0 +1,3 @@
+Derslere devam
+MADDE 19 – (1) Derslere ve uygulamalara devam zorunludur. Teorik saatlerin %30’undan, uygulama saatlerinin de %20’sinden fazlasına katılmayan öğrenci o dersin genel sınavına alınmaz ve (NA) notu verilir. Devamsızlıkları nedeniyle sınava girme hakkı kazanamayanların listesi, genel sınav döneminden önce ilgili dersin sorumlu öğretim elemanı tarafından ilan edilir.
+(2) (Değişik:RG-24/10/2016-29867) Tekrarlanan derslerde önceki dönemde devam koşulu yerine getirilmişse, ara sınava girmek koşulu ile devam zorunluluğu aranmaz. Ancak ilgili akademik birimlere bağlı bölümlerde/programlarda uygulama, proje, stüdyo, intörn mühendislik gibi derslerde devam zorunluluğunun olup olmayacağı ilgili birimin yönetim kurulu kararı ile belirlenir.

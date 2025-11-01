@@ -1,0 +1,6 @@
+Değişim programları
+MADDE 22 – (1) Üniversite ile yabancı ülkelerdeki veya yurt içindeki bir yükseköğretim kurumu arasında yapılan anlaşma uyarınca öğrenci değişim programları uygulanabilir. Bu programlar çerçevesinde öğrenciler bir veya iki yarıyıl yurt içi veya yurt dışındaki üniversitelere gönderilebilir.
+(2) Yurt dışı (ERASMUS) ve yurt içi (FARABİ) öğrenci değişimi kapsamında öğrenim görmek üzere gönderilen öğrencilerin alacağı dersler bölüm koordinatörü tarafından belirlenir. Belirlenen bu derslerden, öğrenim gördüğü lisans programı derslerine eşdeğer olan veya yerine saydıracağı ders varsa kendi lisans programındaki eşdeğer dersi veya yerine sayılan dersi ile birlikte, eşdeğer veya yerine sayılan ders yoksa alınan ders seçmeli olarak, kendi kodu, adı ve kredisi (AKTS) ile birlikte transkriptine işlenir.
+(3) İkili anlaşmalar çerçevesinde çift diplomaya yönelik ortak program yürüten bölümlerin öğrencilerinin ilgili üniversitelerden aldıkları dersler olduğu gibi transkriptine işlenir.
+(4) Yurt dışındaki anlaşmalı üniversitelerden Toros Üniversitesine gelen öğrencilere aldıkları dersleri ve başarı durumlarını gösteren bir belge (Mülga ibare:RG-1/11/2025-33064) verilir.
+(5) Değişim programları çerçevesinde öğrenim ücretlerinin nasıl ödeneceği ikili anlaşmalara göre yürütülür.

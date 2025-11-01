@@ -1,0 +1,3 @@
+Yabancı dil hazırlık programı
+MADDE 9 – (1) Yabancı dil hazırlık sınıfı bulunan eğitim-öğretim programı öğrencileri Üniversiteye kayıt yaptırdıktan sonra yabancı dil yeterlik-düzey belirleme sınavına girerler.
+(2) Yeterlik-düzey belirleme sınavını başaranlar ya da belirlenen koşulları sağlayarak yeterli görülenler kayıtlı oldukları eğitim-öğretim programına devam ederler. Yeterlik-düzey belirleme sınavında başarılı olamayanlar ile bu sınava girmeyenler ya da yeterlik koşullarını sağlayamayanlar yabancı dil hazırlık programına devam ederler. Güz yarıyılı yeterlik sınavında başarılı olan ve/veya hazırlık eğitimini güz yarıyıl sonunda tamamlayan öğrenciler isterlerse, bahar yarıyılında kendi lisans programlarına başlayabilirler.

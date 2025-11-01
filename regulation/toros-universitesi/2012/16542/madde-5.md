@@ -1,0 +1,3 @@
+Üniversiteye kayıt
+MADDE 5 – (1) Toros Üniversitesi fakülte ve yüksekokullarında öğrenci olma hakkı kazanan aday, Rektörlükçe belirlenen ve ilan edilen süre içinde istenen belgelerle kesin kaydını yaptırır. Kayıt için istenen belgelerin onaysız sureti kabul edilmez. Ancak aslının getirilmesi suretiyle Üniversite tarafından onaylı örneği kabul edilir. Süresi içinde kesin kaydını yaptırmayan aday hakkını kaybeder.
+(2) Kesin kaydını yaptıran öğrenci 13 üncü maddeye göre akademik takvimde belirtilen süre içinde yeni kaydolduğu birimin öğretim programındaki dersleri alarak işlemlerini tamamlamak zorundadır. Üniversite, gerçeğe aykırı beyanda bulunularak kayıt yaptıran adaylar hakkında gerekli yasal işlemleri yapmaya yetkilidir.

@@ -1,0 +1,3 @@
+İzinler
+MADDE 31 – (1) (Değişik:RG-1/11/2025-33064) Öğrencilere, kanıtlayacakları önemli nedenlerin veya eğitim öğretimlerine katkıda bulunacak Üniversite dışı burs, staj, araştırma ve benzeri olanakların ortaya çıkması halinde ilgili yönetim kurulu kararı ile bir defada en çok iki yarıyıl, öğrenim süresi boyunca toplam olarak en çok dört yarıyıl kayıt dondurabilir. Kayıt dondurulan süre azami öğrenim süresinden sayılmaz. Öğrencinin kayıt dondurabilmesi için yarıyıl başlangıcından önce ilgili dekanlığa veya yüksekokul müdürlüğüne başvurması gerekir.
+(2) Öğrenim ücretleri eğitim-öğretim yılı için belirlendiğinden bir yarıyıl veya farklı eğitim-öğretim yıllarının birbirini izleyen iki yarıyılı için izinli sayılan öğrenciler, öğrenim ücretlerini ödemeye devam ederler.

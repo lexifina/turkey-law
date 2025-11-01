@@ -1,0 +1,3 @@
+Ders başarı notu
+MADDE 25 – (Değişik:RG-8/3/2015-29289)
+(1) Bir dersteki başarı durumu ders başarı notu ile belirlenir. Ders başarı notu; öğrencinin yarıyıldaki ara sınavlar, ödevler, uygulamalı çalışmalar ve genel sınavda gösterdiği başarının birlikte değerlendirmesiyle elde edilir. Yarıyıl içi başarının ve genel sınavın ders başarı notuna etkileri ve öğrencinin başarılı sayılması için genel sınavda alması gereken en az not (100 üzerinden 45) ile dersin uygulama planı, dersin sorumlu öğretim elemanı tarafından yarıyıl başında öğrencilere duyurulur. Genel sınava girmeyen öğrenci o dersten başarısız sayılır. Sınavlardan alınan ham puanlar, 100 (yüz) üzerinden puanlara dönüştürülerek genel başarı notu verilir.

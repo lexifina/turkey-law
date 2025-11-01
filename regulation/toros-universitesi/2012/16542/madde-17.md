@@ -1,0 +1,7 @@
+Ders alma – bırakma ve üst sınıftan ders alma (Değişik başlık:RG-30/5/2016-29727) (1)
+MADDE 17 – (1) Öğrenci her yarıyılın başlamasından önce, akademik takvimde belirtilen süre ve Rektörlükçe belirlenen yöntemle danışmanının denetiminde alacağı dersleri belirler.
+(2) (Değişik:RG-30/5/2016-29727) Öğrenci yarıyıl başında programına öncelikle başarısızlığı nedeniyle tekrarlamak ve almak zorunda olduğu dersleri yazmak zorundadır. Bu şekilde alınan derslerin; ortak zorunlu dersler ile yandal ve çift anadalın öğrencinin lisans anadal dersleri ile ortak olmayan dersleri hariç, kredi toplamı 24 den çok olamaz, bu sınır ilgili yönetim kurulu kararıyla artırılabilir.
+(3) (Ek:RG-30/5/2016-29727) (1) Genel not ortalaması en az 2.50 olan ve alt yarıyıllardan tekrar dersi olmayan öğrenciler kredi sınırları içinde danışman onayıyla ön koşullu dersler hariç üst sınıftan ders alabilir.
+(4) Danışman onayı ile ders alan öğrenci, akademik takvimde belirlenen ders alma-bırakma günlerinde de yine danışman onayı ile yeni dersler alabilir, tekrarlamak ve almak zorunda olduğu dersler hariç diğer dersleri bırakabilir.
+(5) Ders alma-bırakma günlerinden sonra hiçbir şekilde öğrencinin üzerine ders yüklenmesi ve üzerinden ders silinmesi işlemi yapılamaz.
+(6) Öğrenci, süresi içinde usulüne uygun olarak almadığı-kayıt yapmadığı derslere devam edemez ve bu derslerin sınavına giremez, girse de notu iptal edilir.

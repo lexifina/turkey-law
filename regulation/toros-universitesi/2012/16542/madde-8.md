@@ -1,0 +1,3 @@
+Öğrenim ücretleri
+MADDE 8 – (1) Öğrenim ücretleri ve ödeme esasları her akademik yıl öncesinde Mütevelli Heyeti tarafından ilan edilir. Öğrenim ücreti eğitim programının normal işleyişi ve süreleri için belirlenir. Yaz öğretimi ve ek sınav gibi eğitim programının dışında kalan ücretler ayrıca belirlenerek ilan edilir. Öğrenim ücretini ödemeyen öğrencilerin kayıtları yapılamaz ve ders kayıtları yenilenemez.
+(2) (Ek:RG-23/9/2015-29484) Burslu ve kısmi burslu öğrenciler normal öğrenim süresi dışında devam edecekleri döneme ait ders ücretini öderler. Bu ücretler her eğitim-öğretim yılı başında Mütevelli Heyeti tarafından belirlenir.
