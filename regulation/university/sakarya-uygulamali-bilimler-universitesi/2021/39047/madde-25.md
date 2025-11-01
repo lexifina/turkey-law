@@ -1,0 +1,6 @@
+Not ortalamaları
+MADDE 25 – (1) Öğrencinin başarı durumu; her dönem sonunda DNO ve GNO ile belirlenir. Not ortalaması, not ortalamasına katılan her dersin (AA’dan FF’ye kadar, FF dâhil) AKTS değeriyle o dersten alınan harf notunun katsayısı çarpılarak bulunan değerlerin toplamının, bu derslerin toplam kredi değerine bölünmesiyle bulunur. Bu işlem bir dönemde harf notu oluşan dersler için yapılırsa DNO; o zamana kadar harf notu oluşmuş tüm dersler için yapılırsa GNO elde edilir.
+(2) GNO ve DNO hesabında virgülden sonra üç haneli işlem yürütülür ve gösterim iki hane üzerinden yapılır. Yuvarlama işleminde virgülden sonraki üçüncü hane 0-4 ise aşağı, 5-9 ise yukarı yuvarlama kuralı uygulanır.
+(3) GNO ve DNO hesaplanırken, tekrar edilen zorunlu veya seçmeli dersin en son harf notu ve kredisi; seçmeli dersin yerine başka bir dersin alınması durumunda ise en son alınan dersin harf notu ve kredisi esas alınır. Hiç alınmamış dersler ortalama hesabına katılmaz.
+(4) Harf başarı notu YT/YZ olan derslerin kredisi tamamlanan krediye dâhil edilir, ancak bu derslerden alınan not ve kredi ortalama hesabına katılmaz.
+(5) Öğrencinin dersten çekildiğini gösteren W harf başarı notlu derslerin kredisi ortalama hesabına katılmaz.

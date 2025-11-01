@@ -1,0 +1,2 @@
+Önceden kazanılmış yeterliliklerin tanınması (Değişik başlık:RG-1/11/2025-33064)
+MADDE 11 – (1) Üniversite bünyesindeki programlara kabul edilmiş olan öğrencilerin, kabul edilmiş oldukları programın öğrenme kazanımları ile ilişkili olarak yükseköğretim kurumları dışında kazanmış oldukları öğrenme kazanımları, ilgili program kapsamında yer alan derslerin öğrenme kazanımları ve kredileri ile ilişkilendirilebilir. Önceki öğrenmelerin tanınması işlemleri, ilgili mevzuat hükümleri ve Senato tarafından kabul eden yönerge ile yürütülür.

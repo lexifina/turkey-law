@@ -1,0 +1,2 @@
+Sosyal ve akademik gelişim faaliyetlerinin tanınması
+MADDE 13 – (1) Üniversite bünyesindeki programlara kabul edilmiş olan öğrencilerin, sosyal, akademik, kültürel faaliyet, etkinlik katılımları ile güz-bahar yarıyıllarında takip edecekleri yüz yüze ya da çevrimiçi faaliyetler aracılığıyla farklı alanlarda edinecekleri yeterliliklerin kayıt altına alınması işlemleri, ilgili mevzuat hükümleri ve Senato tarafından kabul edilen yönerge hükümleri uyarınca yürütülür.
