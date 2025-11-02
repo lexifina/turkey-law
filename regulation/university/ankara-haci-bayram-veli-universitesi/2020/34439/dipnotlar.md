@@ -1,0 +1,1 @@
+[1] 2/11/2025 tarihli ve 33065 sayılı Resmî Gazete’de yayımlanan değişiklik ile Yönetmeliğin adı “Ankara Hacı Bayram Veli Üniversitesi Türk Kültürü Açısından Hacı Bektaş Veli Araştırmaları Uygulama ve Araştırma Merkezi Yönetmeliği” iken metne işlendiği şekilde değiştirilmiştir.
