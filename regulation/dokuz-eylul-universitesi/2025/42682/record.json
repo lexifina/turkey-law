@@ -1,0 +1,39 @@
+{
+  "checked_on": "2026-11-14",
+  "commencement_clauses": [
+    "MADDE 17- (1) Bu Yönetmelik yayımı tarihinde yürürlüğe girer."
+  ],
+  "date_evidence": [
+    [
+      "2025-11-03",
+      "03.11.2025",
+      "original gazette publication date in official listing"
+    ]
+  ],
+  "date_quote": "MADDE 17- (1) Bu Yönetmelik yayımı tarihinde yürürlüğe girer.",
+  "first_law": null,
+  "gazette": "33066",
+  "history": "current-text",
+  "images": {
+    "deferred": 0,
+    "omitted": 0,
+    "referenced": 0,
+    "source": 0
+  },
+  "in_force": "2025-11-03",
+  "in_force_basis": "source commencement clause: enters into force on gazette publication",
+  "issuer": "Dokuz Eylül Üniversitesi",
+  "issuer_slug": "dokuz-eylul-universitesi",
+  "kind": "regulation",
+  "label": "oldest version available",
+  "path": "regulation/dokuz-eylul-universitesi/2025/42682",
+  "published": "2025-11-03",
+  "source": "https://www.mevzuat.gov.tr/anasayfa/MevzuatFihristDetayIframe?MevzuatTur=8&MevzuatNo=42682&MevzuatTertip=5",
+  "source_bytes": 53285,
+  "source_id": "8.5.42682",
+  "source_sha256": "e546a57df3da2c8907e21320047b481f2460f3901281a2746955e08caebb649f",
+  "text_status": "as-enacted",
+  "title": "DOKUZ EYLÜL ÜNİVERSİTESİ TEKNOLOJİ TRANSFER OFİSİ UYGULAMA VE ARAŞTIRMA MERKEZİ YÖNETMELİĞİ",
+  "university_id": 189,
+  "word_count": 1027
+}
