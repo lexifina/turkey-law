@@ -1,0 +1,2 @@
+Çalışma grupları
+MADDE 15- (1) Merkezin çalışmalarını gerçekleştirmek için Yönetim Kurulu kararıyla her bir birimin altında çalışma grupları oluşturulur. Çalışma gruplarının sayısı, kuruluş ve çalışma konuları ve yöntemleri Yönetim Kurulu tarafından belirlenir. Bu gruplarda tam zamanlı veya gerek duyulduğu zaman ve sürede personel çalıştırılabilir. Bu çalışma gruplarının başkanları ilgili birim başkanının önerisi ve Yönetim Kurulu onayıyla görevlendirilir.

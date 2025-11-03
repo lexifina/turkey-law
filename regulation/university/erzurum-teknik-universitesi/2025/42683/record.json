@@ -1,0 +1,31 @@
+{
+  "act_path": "regulation/university/erzurum-teknik-universitesi/2025/42683",
+  "availability": "text",
+  "checked_on": "2026-11-14",
+  "commencement_clauses": [
+    "MADDE 21- (1) Bu Yönetmelik yayımı tarihinde yürürlüğe girer."
+  ],
+  "date_quote": "MADDE 21- (1) Bu Yönetmelik yayımı tarihinde yürürlüğe girer.",
+  "first_law": null,
+  "gazette": "33066",
+  "history": "as-enacted",
+  "images": {
+    "deferred": 0,
+    "omitted": 0,
+    "referenced": 0,
+    "source": 0
+  },
+  "in_force": "2025-11-03",
+  "in_force_basis": "source commencement clause: effective on Gazette publication",
+  "issuer": "Erzurum Teknik Üniversitesi",
+  "issuer_slug": "erzurum-teknik-universitesi",
+  "kind": "regulation",
+  "published": "2025-11-03",
+  "source": "https://www.mevzuat.gov.tr/anasayfa/MevzuatFihristDetayIframe?MevzuatTur=8&MevzuatNo=42683&MevzuatTertip=5",
+  "source_id": "8.5.42683",
+  "source_sha256": "be439355c1f3f6c2dfcce8b351cbc219185d19665fec80746e1edfd7e8e99117",
+  "title": "ERZURUM TEKNİK ÜNİVERSİTESİ AFET YÖNETİMİ UYGULAMA VE ARAŞTIRMA MERKEZİ YÖNETMELİĞİ",
+  "university_id": 413,
+  "version_label": "oldest version available",
+  "word_count": 2487
+}
