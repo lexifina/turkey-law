@@ -1,0 +1,3 @@
+Sorumluluk ve arşivleme
+MADDE 19- (1) Desteklemeden yararlanmak üzere bu Tebliğ gereği ibraz edilen bilgi ve belgelerin doğruluğundan öncelikle belgeyi ibraz eden ve yetkileri kapsamında onaylayan ve verileri giren kişi ve kurumlar sorumludur. Destekleme ödemesi yapılan belgeler istenildiğinde ibraz edilmek üzere, tarımsal amaçlı örgütler ve/veya ilgili birimler tarafından beş yıl süre ile saklanır.
+(2) Destekleme başvuruları 2024 yılı için bu Tebliğin yayımı tarihinde, diğer yıllar için ilgili Genel Müdürlük tarafından internet sayfasında yayımlanan takvime uymak şartıyla destekleme yılı içerisinde tek tek veya toplu olarak yapılabilir.
