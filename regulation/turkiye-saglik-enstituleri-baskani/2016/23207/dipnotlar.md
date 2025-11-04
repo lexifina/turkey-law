@@ -1,0 +1,1 @@
+[1] 4/11/2025 tarihli ve 33067 sayılı Resmî Gazete’de yayımlanan değişiklikle bu maddenin üçüncü fıkrasında yer alan (e) bendinden sonra gelmek üzere (f), (g), (ğ), (h), (ı), (i) bentleri eklenmiş ve diğer bent buna göre teselsül ettirilmiştir.
