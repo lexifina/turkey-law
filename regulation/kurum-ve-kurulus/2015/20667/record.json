@@ -1,0 +1,45 @@
+{
+  "source_id": "7.5.20667",
+  "kind": "regulation",
+  "register_kind": "Kurum ve Kuruluş Yönetmelikleri",
+  "title": "TÜRK SİLAHLI KUVVETLERİ ÖĞRENCİ DİSİPLİN YÖNETMELİĞİ",
+  "number": "20667",
+  "issuer_slug": "kurum-ve-kurulus",
+  "path": "regulation/kurum-ve-kurulus/2015/20667",
+  "source": "https://www.mevzuat.gov.tr/anasayfa/MevzuatFihristDetayIframe?MevzuatTur=7&MevzuatNo=20667&MevzuatTertip=5",
+  "source_sha256": "193b27f9c50774bf9751d6e010a9582d2b00c5fb3ee45d826772b94cb12b7eaa",
+  "source_bytes": 107148,
+  "published": "2015-04-10",
+  "gazette": "29322",
+  "in_force": "2025-11-04",
+  "in_force_basis": "latest Resmî Gazete date printed in the source amendment notes/table (\"RG-4/11/2025\") for the current consolidated text",
+  "date_evidence": [
+    [
+      "2025-11-04",
+      "RG-4/11/2025",
+      "Resmî Gazete date printed in the source amendment note"
+    ],
+    [
+      "2025-11-04",
+      "4/11/2025",
+      "Resmî Gazete date in the source amendment table"
+    ]
+  ],
+  "commencement_clauses": [
+    "Bu Yönetmelik yayımı tarihinde yürürlüğe girer"
+  ],
+  "history": "current-text",
+  "label": "oldest version available",
+  "checked_on": "2026-11-15",
+  "word_count": 6824,
+  "text_status": "current-consolidated",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  },
+  "source_links": [
+    "7.5.20667-ek.doc"
+  ],
+  "completeness": "html-text-complete; linked annexes not fetched"
+}

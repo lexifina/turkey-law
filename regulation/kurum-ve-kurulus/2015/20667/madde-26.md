@@ -1,0 +1,5 @@
+İtirazın incelenme usulü ve cezanın kesinleşmesi
+MADDE 26 – (1) İtiraz üzerine; cezayı veren öğrenci disiplin kurulu, karar ve dosyayı ceza inceleme kuruluna gönderir.
+(2) Ceza inceleme kurulu, dosyanın kendisine ulaşmasını müteakip en geç otuz gün içinde dosya üzerinden incelemesini tamamlayarak kararını verir. İlave inceleme yapılmasının gerekli olduğu veya kurulun toplanmasına engel halin bulunduğu durumlarda bu süre üç katına kadar uzatılabilir.
+(3) Ceza inceleme kurulu itirazı yerinde görürse yeni kararı kendisi verir. Aksi hâlde itirazı reddeder. Oylar dağılırsa durumu görüşülenin en çok aleyhinde olan oy, çokluk elde edilinceye kadar kendisine daha yakın olan oya tabi olur. İtiraz üzerine verilen kararlar kesindir. (Ek cümle:RG-4/11/2025-33067) İtiraz yoluna sadece öğrenci tarafından gidilmiş olması durumunda, öğrenci disiplin kurulunca verilmiş olan disiplin cezasından daha ağır bir cezaya hükmedilemez.
+(4) Karar, başkan ve üyeler tarafından imzalanır ve öğrenci disiplin kurulu ile disiplin amirine gönderilir. Disiplin amiri kararı öğrenciye tebliğ eder.

@@ -1,0 +1,3 @@
+Disiplin amirlerinin ikaz ve disiplin eğitimine alma yetkisi
+MADDE 13 – (1) Amirlerin; öğrencilere hatalarını göstermesi, öğrencileri tenkit ve muahezesi, sözlü veya yazılı olarak ikazı disiplin cezası sayılmaz. Öğrenciler tarafından bu ikazların saygı ile karşılanması zorunludur.
+(2) Disiplin amirleri, disiplin yönünden eğitilmesine ve ıslah edilmesine katkı sağlamak amacıyla, öğrencilere ilave görev ve sorumluluklar verebilir. Verilecek görev ve sorumluluklar; işlenen fiilin niteliğine ve öğrencilik statüsüne uygun ve ölçülü olur. Bu kapsamda verilen görevler hizmete yönelik emir olarak kabul edilir.

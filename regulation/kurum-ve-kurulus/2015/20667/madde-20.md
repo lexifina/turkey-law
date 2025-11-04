@@ -1,0 +1,10 @@
+Öğrenci disiplin subayı, niteliği ve görevleri
+MADDE 20 – (1) Her öğrenci disiplin kuruluna bir öğrenci disiplin subayı görevlendirilir. İhtiyaç duyulması halinde, bir öğrenci disiplin subayı birden fazla öğrenci disiplin kurulunun işlemlerini yürütmek üzere, nezdinde öğrenci disiplin kurulu kurulan komutan veya (Mülga ibare:RG-4/11/2025-33067) kurum amiri tarafından yetkilendirilebilir.
+(2) (Değişik:RG-4/11/2025-33067) Öğrenci disiplin subayı, hukuk sınıfına mensup subaylar arasından atanır.
+(3) (Değişik:RG-4/11/2025-33067) Hukuk sınıfına mensup subaylar arasından atanacak öğrenci disiplin subayının bulunmaması yahut görevini yapmasını engelleyici sebeplerin bulunması hâlinde, öğrenci disiplin subaylığı görevi 6413 sayılı Kanunun 35 inci maddesi gereği disiplin subayı olarak atanmış veya görevlendirilmiş olan disiplin subayı tarafından yapılabileceği gibi tercihen hukuk fakültesi mezunlarından atama veya görevlendirme suretiyle diğer sınıflara mensup subaylar tarafından da yapılabilir. Atama yapılmaması hâllerinde öğrenci disiplin subayı, nezdinde öğrenci disiplin kurulu kurulan komutan veya kurum amiri tarafından kıtada en az bir yıl hizmet görmüş olan ve taksirli suçlar dışında bir suçtan hükümlü bulunmayan subaylar arasından görevlendirilir.
+(4) İhtiyaç duyulması hâlinde, yeteri kadar subay veya astsubay, öğrenci disiplin subayı yardımcısı olarak görevlendirilebilir veya atanabilir. Ayrıca öğrenci disiplin subaylıklarında ve öğrenci disiplin kurullarında tutanak kâtipliği yapmak ve diğer idari işleri yürütmek üzere yeteri kadar personel görevlendirilir ve bunlara gerekli malzeme ve yer tahsisi yapılır.
+(5) Öğrenci disiplin subayının görevleri aşağıda belirtilmiş olup, öğrenci disiplin subayı bu görevlerinden dolayı nezdinde öğrenci disiplin kurulu kurulan komutana veya (Mülga ibare:RG-4/11/2025-33067) kurum amirine karşı sorumludur:
+a) Adli ve disiplin konularında danışmanlık yapmak.
+b) Öğrenci disiplin kurulunun yapacağı işlemleri koordine etmek.
+c) Adli konular ile ilgili yazışma ve diğer idari işlemleri yürütmek.
+ç) Yönetmeliklerle verilen diğer görevleri yapmak.

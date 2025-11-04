@@ -1,0 +1,4 @@
+Zamanaşımı
+MADDE 39 – (1) Disiplin amirleri tarafından, disiplinsizliğin kendileri tarafından öğrenilmesinden itibaren bir ay ve her halde disiplin cezasını gerektiren fiil ve hallerin işlendiği tarihten itibaren iki yıl geçtikten sonra disiplin cezası verilemez. Fiil inceleme ve araştırma yapmayı gerektirmiş ise, bir ay içerisinde inceleme ve araştırmaya başlanmış olmak ve altı ayı geçmemek kaydıyla, inceleme ve araştırma için geçen süre bir aylık süreye dâhil edilmez.
+(2) Öğrenci disiplin kurullarında yapılan tahkikatlarda, fiilin disiplin amiri tarafından öğrenilmesinden itibaren altı ay ve her halde disiplin cezasını gerektiren fiil ve hallerin işlendiği tarihten itibaren iki yıl geçtikten sonra disiplin cezası verilemez.
+(3) Savunmanın istendiği ve alındığı zaman aralığında geçen süre, zamanaşımı açısından dikkate alınmaz.

@@ -1,0 +1,2 @@
+Okulda bulunmayan öğrencilere tebligat
+MADDE 43 – (1) Öğrencinin çeşitli nedenlerle okulda bulunmaması durumunda zamanaşımına ilişkin esaslar göz önünde bulundurularak öğrencinin okula dönüşü beklenebileceği gibi ifade ve savunma istek yazıları ile ceza kararları dâhil bu Yönetmeliğe göre yapılması gereken her türlü bildirim ve tebligat işlemi 11/2/1959 tarihli ve 7201 sayılı Tebligat Kanununa göre yapılabilir.

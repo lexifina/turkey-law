@@ -1,0 +1,4 @@
+Disiplin soruşturması ve yetkiler
+MADDE 14 – (1) Öğrencinin disiplinsizlik teşkil edebilecek bir fiilini veya öğrencilikle bağdaşmayan tutum ve davranışını herhangi bir şekilde öğrenen disiplin amirleri, olayın araştırılması gerektiğine kanaat getirirse, yazılı olarak görevlendireceği soruşturmacılar vasıtasıyla ya da şahsen disiplin soruşturması yapar.
+(2) Disiplin soruşturmacısı olarak tek bir kişi görevlendirilebileceği gibi en az üç kişiden oluşan bir heyet de görevlendirilebilir.
+(3) Disiplin soruşturmacıları ve heyeti, kendilerini görevlendiren disiplin amiri adına; disiplin soruşturmasıyla ilgili bilgi ve belgeleri toplama, savunma alma, tanık dinleme, bilirkişi görevlendirme, keşif yapma, hâkim veya savcı kararı gerektirmeyen durumlarda kriminal inceleme yaptırma da dâhil olmak üzere her türlü inceleme yapma ve ilgili makamlarla yazışma yetkisini haizdir. Bu kapsamda yapılacak harcamalar, (Değişik ibare:RG-4/11/2025-33067) Bakanlık bütçesinden ödenir.

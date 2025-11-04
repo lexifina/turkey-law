@@ -1,0 +1,2 @@
+Öğrenci disiplin kurulu kararına itiraz
+MADDE 24 – (1) Öğrenci disiplin kurulu tarafından verilen kararlara karşı, kararın tebliğ edilmesinden itibaren (Değişik ibare:RG-4/11/2025-33067) beş iş günü içinde, cezalandırılan öğrenci veya öğrenciyi öğrenci disiplin kuruluna sevk eden amir tarafından, ceza inceleme kuruluna iletilmek üzere öğrenci disiplin subayına itiraz edilebilir. Süresi içinde itiraz edilmez ise ceza kesinleşir.
