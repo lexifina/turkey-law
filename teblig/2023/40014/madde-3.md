@@ -1,0 +1,21 @@
+Tanımlar ve kısaltmalar
+MADDE 3- (1) Bu Tebliğde geçen;
+a) Alıcı: Ticari faaliyeti kapsamında KOBİ ile akdettiği satış sözleşmesi gereği KOBİ’nin sattığı malın veya verdiği hizmetin bedelini ödemekle yükümlü gerçek veya tüzel kişiyi,
+b) Alıcı limiti: Sigortacının herhangi bir alıcı ile ilgili olarak üstlendiği azami sorumluluk tutarını,
+c) Aracı: Sigorta acentesini ve brokerini,
+ç) Bakanlık: Hazine ve Maliye Bakanlığını,
+d) DDAS-Finansman: KOBİ'lere Finansman Sağlanmasına Yönelik Devlet Destekli Ticari Alacak Sigortasını,
+e) DDAS-Ticari: KOBİ'lerin Ticari Faaliyetlerine Yönelik Devlet Destekli Ticari Alacak Sigortasını,
+f) (Değişik:RG-6/12/2023-32391) KOBİ: 24/5/2023 tarihli ve 7297 sayılı Cumhurbaşkanı Kararı ile yürürlüğe konulan Küçük ve Orta Büyüklükteki İşletmeler Yönetmeliğinde belirlenen tanıma uyan işletmeleri,
+g) Kredi kuruluşu: Türkiye’de faaliyet gösteren ve kredi sağlayan banka, finansman şirketi ve benzeri diğer kuruluşları,
+ğ) Kurum: Sigortacılık ve Özel Emeklilik Düzenleme ve Denetleme Kurumunu,
+h) Merkez: 5684 sayılı Kanunun 33/A maddesi çerçevesinde görevlendirilen Özel Riskler Yönetim Merkezini,
+ı) SBM: 5684 sayılı Kanunun 31/B maddesi çerçevesinde kurulan Sigorta Bilgi ve Gözetim Merkezini,
+i) SEGEM: 5684 sayılı Kanunun 31 inci maddesi çerçevesinde kurulan Sigortacılık Eğitim Merkezini,
+j) Sigorta şirketi: 5684 sayılı Kanuna göre Türkiye’de kurulmuş sigorta şirketi ile yurt dışında kurulmuş sigorta şirketinin Türkiye’deki teşkilatını,
+k) Sistem: Küçük ve Orta Ölçekli İşletmelere Yönelik Devlet Destekli Ticari Alacak Sigortası Sistemini,
+l) Teknik İşletici: 5684 sayılı Kanunun 33/A maddesi çerçevesinde Merkezin işletilmesine ilişkin iş ve işlemleri yürütmekle görevlendirilmiş kamu sigorta veya reasürans şirketini,
+m) Teknik personel: Aracılarda pazarlama, bilgilendirme ve satış işlemlerini yapan personeli,
+n) Ticari alacak sigortaları: Sistem kapsamında sunulan ticari alacak sigortası ürünlerini,
+o) (Ek: RG-9/11/2024-32717)(3) Genel Şartlar: Ticari Alacak (Kredi) Sigortası Genel Şartlarını,
+ifade eder.

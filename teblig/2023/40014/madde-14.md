@@ -1,0 +1,3 @@
+Teminat oranı ve muafiyet
+MADDE 14- (1) Sistem kapsamında alıcı skoru 1-5 olan alıcılar için uygulanan teminat oranları Merkez tarafından %70 veya %90 olarak belirlenir. (Ek cümle:RG-6/12/2023-32391)(2) 12 nci maddenin (Değişik ibare: RG-9/11/2024-32717)(3) sekizinci fıkrası çerçevesindeki teminat ise %100 olarak uygulanır. Belirlenen bu teminat oranı poliçede, alıcı ekleme veya alıcı limit güncelleme zeyilnamelerinde belirtilir.
+(2) Sigorta dönemi içerisinde meydana gelen zararlar; zararın 2.500 TL’nin altında kalması durumunda sigortalı tarafından, 2.500 TL’yi aşması durumunda ise birinci fıkrada belirtilen teminat oranları kapsamında Merkez tarafından ödenir.

@@ -1,0 +1,3 @@
+Bilgi güvenliği
+MADDE 11- (1) Merkez, Teknik İşletici ve SBM, Sistem dolayısıyla haiz oldukları bilgi ve belgeleri Sistem kapsamındaki görev ve sorumlulukları dışında kullanamaz, Kurumun izni olmaksızın üçüncü şahıslarla paylaşamaz ve yayımlayamaz. Bu çerçevede, Merkez, Teknik İşletici ve SBM tarafından Sistem işlerinde çalıştırılacak personelle gizlilik sözleşmesi imzalanır.
+(2) Birinci fıkradaki hükümler, Merkeze; danışmanlık, bilişim, donanım, ağ hizmetleri, hasar yönetimi ve çağrı merkezi gibi hizmetleri sağlayan kişi ve kuruluşları da kapsar. Bu hizmetleri sağlayan kişi ve kuruluşlarla da gizlilik sözleşmesi imzalanır.

@@ -1,0 +1,5 @@
+Merkez ve Teknik İşleticisinin görev ve sorumlulukları
+MADDE 5- (1) Sistemin yönetimine ve işleyişine ilişkin bütün iş ve işlemler Teknik İşletici tarafından yürütülür. Teknik İşletici, Sistemin etkin bir biçimde çalışmasını teminen, gerekli tedbirleri almakla ve Sisteme ilişkin yazışma ve belgeleri uygun bir şekilde muhafaza etmekle yükümlüdür.
+(2) Sistem kapsamında, Merkez tarafından üretilen primler, ilgili sigorta şirketlerince Merkeze devredilen primler ile bunların yatırım gelirleri ve Sistemin yönetilmesi kapsamında yapılan giderler Teknik İşletici tarafından özel ve ayrı kayıtlarda takip edilir ve muhasebeleştirilir.
+(3) Teknik İşletici, Sistem kapsamında oluşacak fonu yönetmek üzere, Merkezin Yönetim Kurulunun uygun görüşü alınarak belirlenen bir kuruluşu görevlendirebilir. Fonun aktarımına ve yönetimine ilişkin usul ve esaslar Teknik İşletici ile görevlendirilen kuruluş arasında yapılacak protokol ile belirlenir.
+(4) Kurum tarafından talep edilmesi halinde, Sistem kapsamındaki poliçelere ilişkin hasar dosyaları ve bunlara ilişkin süreçler Merkez tarafından incelenir ve inceleme sonuçlarını içeren rapor Kuruma iletilir.

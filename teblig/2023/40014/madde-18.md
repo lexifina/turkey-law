@@ -1,0 +1,2 @@
+Yürürlükten kaldırılan tebliğler
+MADDE 18- (1) 24/12/2018 tarihli ve 30635 sayılı Resmî Gazete’de yayımlanan Küçük ve Orta Ölçekli İşletmelere Yönelik Ticari Alacak Sigortası Sunulmasını İçeren Devlet Destekli Sistemin Çalışma Usul ve Esaslarına Dair Tebliğ ile 24/12/2018 tarihli ve 30635 sayılı Resmî Gazete’de yayımlanan Küçük ve Orta Ölçekli İşletmelere Yönelik Devlet Destekli Ticari Alacak Sigortası Tarife ve Talimat Tebliği yürürlükten kaldırılmıştır.
