@@ -1,0 +1,5 @@
+Yurt müdürlüğünce beslenme ve ek beslenme yardımına ve ödemelerine ilişkin yapılacak işlemler
+MADDE 8- (1) Beslenme ve ek beslenme yardımına ilişkin işlemlerin elektronik ortamda yapılması esastır.
+(2) Yurt müdürlüğünce beslenme ve ek beslenme yardımı iş ve işlemleriyle ilgili bir personel yazılı olarak görevlendirilir. Görevlendirilen personel, elektronik sistemin düzenli olarak çalışmasını ve arıza olması halinde çözüme yönelik önlemlerin alınmasını sağlar.
+(3) Yurtlarda her ne sebeple olursa olsun elektronik sistemin çalışmadığı durumlarda gerekçesi belirtilerek öğrencilerin imza karşılığında beslenme ve ek beslenme yardımından faydalanması sağlanır.
+(4) İşleticinin ödeme belgelerini tesliminden sonra üç iş günü içerisinde görevlendirilen personel tarafından 31/12/2005 tarihli ve 26040 üçüncü mükerrer sayılı Resmî Gazete’de yayımlanan Merkezi Yönetim Harcama Belgeleri Yönetmeliğine göre ödeme belgeleri hazırlanır. Yurt müdürlüğünce hazırlanan ödeme belgeleri bağlı bulunduğu il müdürlüğüne gönderilir. Ödeme belgelerinin onaylı bir sureti yurt arşivinde bulundurulur.

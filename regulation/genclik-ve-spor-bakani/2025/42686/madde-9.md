@@ -1,0 +1,4 @@
+İl müdürlüğünce beslenme ve ek beslenme yardımına ve ödemelerine ilişkin yapılacak işlemler
+MADDE 9- (1) İl müdürlüğü yurt müdürlüğü tarafından gönderilen ödeme evrakının Merkezi Yönetim Harcama Belgeleri Yönetmeliğine göre kontrolünü yaparak harcama talimatı ve ödeme emri belgesini düzenler ve muhasebe yetkilisine gönderir.
+(2) Muhasebe yetkilisi kendisine gelen evrakın gerekli kontrolünü yapar, ödemeye ilişkin herhangi bir eksiklik yok ise 21/7/1953 tarihli ve 6183 sayılı Amme Alacaklarının Tahsil Usulü Hakkında Kanunun 22/A maddesi kapsamında vadesi geçmiş borç sorgulamasını yaparak ödeme işlemini gerçekleştirir.
+(3) Yurt ücreti ve güvence bedeli alınmadan ve öncelik durumuna göre yurda kayıt yaptıran ancak belgelerini teslim edemediğinden kaydı silinen öğrencilerden, faydalanmış olduğu beslenme ve ek beslenme yardımı miktarları genel hükümlere göre tahsil edilir.
