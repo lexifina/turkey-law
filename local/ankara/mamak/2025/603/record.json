@@ -1,0 +1,30 @@
+{
+  "number": "603",
+  "number_as_published": "603",
+  "year": 2025,
+  "title": "Belediyemizce Aile ve Aile bireylerine yönelik rehberlik ve danışmanlık hizmeti verilebilmesi yönünde yapılan çalışmalara ilişkin, Meclis Kararı",
+  "decision_date": "2025-11-05",
+  "source": "https://www.mamak.bel.tr/gundem/GetKararlar",
+  "official_document": "https://www.mamak.bel.tr/gundem/DosyaDownload?guid=11271618-5d72-4349-990a-4f7fd2c4522f",
+  "source_sha256": "f554089df68731558a37947c976f196303cdbdc5704c52cb6912834ca94730d3",
+  "issuer": "Mamak Belediye Meclisi",
+  "history_type": "metadata",
+  "text_status": "metadata-only: listing fields as published; complete decision text is in the linked official document, not transcribed",
+  "in_force": "2025-11-05",
+  "in_force_basis": "Decision date as printed in the official council listing: 2025-11-05T00:00:00 (kararTarihi of the official register); adoption date of the council decision; legal commencement not asserted",
+  "missing": [
+    "complete official decision text",
+    "official annexes"
+  ],
+  "law_text_complete": false,
+  "privacy_withheld": false,
+  "listing_page": "https://www.mamak.bel.tr/gundem/kararlar",
+  "register_api": "https://www.mamak.bel.tr/gundem/GetKararlar",
+  "official_documents": [
+    "https://www.mamak.bel.tr/gundem/DosyaDownload?guid=11271618-5d72-4349-990a-4f7fd2c4522f",
+    "https://www.mamak.bel.tr/gundem/DosyaDownload?guid=55f426f0-1a4f-422a-b31f-be923980504e",
+    "https://www.mamak.bel.tr/gundem/DosyaDownload?guid=ab51da8c-9143-49f0-8888-6062a2bced19",
+    "https://www.mamak.bel.tr/gundem/DosyaDownload?guid=1662fe8f-5dbb-40b3-a6d6-c1dd7c2c8695",
+    "https://www.mamak.bel.tr/gundem/DosyaDownload?guid=d52bf3cc-a9aa-44b4-95a2-20cae1c97b65"
+  ]
+}
