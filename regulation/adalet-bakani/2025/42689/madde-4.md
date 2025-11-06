@@ -1,0 +1,3 @@
+Noterlerin tatil gün ve saatlerinde çalışması
+MADDE 4- (1) Noterlik nöbeti, resmî tatil günlerine denk gelmemek şartıyla cumartesi ve pazar günleri tutulur. Nöbetçi noterler tarafından yapılacak noterlik işlemlerine, yapıldığı tarihten önceki günden devam eden yevmiye numarası verilir.
+(2) Noterler nöbet hizmetinin verilmediği tatil gün ve saatlerinde, ancak vasiyetname tanzim ve tasdiki veya gecikmesinde zarar doğabilecek noterlik işlemlerini yapabilirler. Bu şekilde tatil gün ve saatlerinde iş yapılma sebebinin evrakta gösterilmesi ve bu işlemin yevmiye defterinin tatilden sonraki ilk numarasına kaydedilmesi zorunludur.
