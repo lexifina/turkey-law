@@ -1,0 +1,25 @@
+{
+  "kind": "norm",
+  "issuer": "Enerji Piyasası Düzenleme Kurumu",
+  "market": "electricity",
+  "document_type": "board-decision",
+  "number": "13922",
+  "decision_date": "2025-11-06",
+  "title": "Elektrik Piyasası Bağlantı ve Sistem Kullanım Yönetmeliğinin 7 inci maddesinin birinci fıkrası ile 14 üncü maddesinin birinci fıkrası ve Enerji ve Tabii Kaynaklar Bakanlığı’nın 24/10/2025 tarihli ve 360122 sayılı yazısı kapsamında",
+  "resmi_gazete_date": "2025-11-11",
+  "resmi_gazete_number": "33074",
+  "categories": [
+    "Bağlantı, Sistem Kullanım ve Enterkonneksiyon Kullanım Anlaşmalarına İlişkin Kurul Kararları"
+  ],
+  "source": "https://www.epdk.gov.tr/Detay/DownloadDocument?id=ew1pl/vEjbY=",
+  "documents": [
+    "https://www.epdk.gov.tr/Detay/DownloadDocument?id=ew1pl/vEjbY="
+  ],
+  "source_sha256": "ad836073d802502efaf187fce69c5b1f9924f4238dd013cff66be726bdcb6d18",
+  "official_list": "https://www.epdk.gov.tr/Detay/Icerik/3-0-39/kurul-kararlari-",
+  "official_list_leaf": 33870,
+  "text_status": "as-enacted",
+  "text_file": "metin.md",
+  "in_force": "2025-11-06",
+  "law_text_complete": true
+}
