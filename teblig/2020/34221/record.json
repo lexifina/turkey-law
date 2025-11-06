@@ -1,0 +1,37 @@
+{
+  "checked_on": "2026-11-15",
+  "commencement_quote": "Bu Tebliğ yayımı tarihinde yürürlüğe girer",
+  "date_gazette": "33069",
+  "date_quote": "RG-6/11/2025-33069",
+  "first_law": null,
+  "gazette": "31019",
+  "history": "current-text",
+  "images": {
+    "deferred": 0,
+    "omitted": 0,
+    "referenced": 0,
+    "source": 0
+  },
+  "in_force": "2025-11-06",
+  "in_force_basis": "Latest source-printed RG amendment date for current text: RG-6/11/2025-33069; own commencement clause: Bu Tebliğ yayımı tarihinde yürürlüğe girer",
+  "issuer": "Tarım ve Orman Bakanlığı",
+  "issuer_catalog_evidence": [
+    {
+      "evidence": "issuer-637-100.json",
+      "id": "637",
+      "label": "Tarım ve Orman Bakanlığı",
+      "listing_url": "https://www.mevzuat.gov.tr/Anasayfa/MevzuatDatatable?MevzuatTur=Teblig&KurumId=637&start=100&length=100"
+    }
+  ],
+  "issuer_slug": "tarim-ve-orman-bakanligi",
+  "kind": "communique",
+  "label": "oldest version available",
+  "notes": [],
+  "published": "2020-01-25",
+  "source": "https://www.mevzuat.gov.tr/anasayfa/MevzuatFihristDetayIframe?MevzuatTur=9&MevzuatNo=34221&MevzuatTertip=5",
+  "source_bytes": 23802,
+  "source_id": "9.5.34221",
+  "source_sha256": "471d0f2ec9f23763e3bb33e42383c441ebd9c2e90390555beacbaf810e9037e5",
+  "title": "ÇİĞ İNEK SÜTÜNÜN SINIFLANDIRILMASINA İLİŞKİN TEBLİĞ\r\n(TEBLİĞ NO: 2019/64)",
+  "word_count": 456
+}
