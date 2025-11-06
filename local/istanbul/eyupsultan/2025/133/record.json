@@ -1,0 +1,22 @@
+{
+  "number": "133",
+  "number_as_published": "2025/133",
+  "year": 2025,
+  "title": "Mimari Estetik Komisyonu Yönetmeliği",
+  "decision_date": "2025-11-06",
+  "source": "https://eyupsultan.bel.tr/tr/main/pages/2025-kasim-ayi-meclis-kararlari/2768",
+  "official_document": "https://eyupsultan.bel.tr/tr/main/pages/2025-133/2775",
+  "source_sha256": "62488d13ea480318ec8eec3808b856604c06934fa96213da43c89d783d2ffce5",
+  "issuer": "Eyüpsultan Belediye Meclisi",
+  "history_type": "metadata",
+  "text_status": "metadata-only: listing fields as published; complete decision text is in the linked official document, not transcribed",
+  "in_force": "2025-11-06",
+  "in_force_basis": "Decision date as printed in the official council listing: 06.11.2025 (meeting date at the start of the decision page); adoption date of the council decision; legal commencement not asserted",
+  "missing": [
+    "complete official decision text",
+    "official annexes"
+  ],
+  "law_text_complete": false,
+  "privacy_withheld": false,
+  "decision_page_sha256": "dc617aeba89e6fb1a166e6a21720910f8668866e294414557ac4c2cc8500130d"
+}
