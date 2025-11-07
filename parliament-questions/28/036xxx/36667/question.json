@@ -1,0 +1,21 @@
+{
+  "record_type": "parliament-written-question",
+  "term": 28,
+  "legislative_year": 4,
+  "esas_no": "7/36667",
+  "submitted": "2025-11-07",
+  "submitted_as": "Başkanlığa geliş tarihi",
+  "mp": "Murat BAKAN",
+  "province": "İzmir",
+  "summary": "Bir siyasi parti ilçe başkanı tarafından bir polisin darp edildiği iddiasına ilişkin",
+  "status": "Süresi Geçtikten Sonra Cevaplandı",
+  "status_as_of": "2026-11-16",
+  "official_record": "https://www.tbmm.gov.tr/Denetim/Yazili-Soru-Onergesi-Detay/694a2f7b-8322-4777-a40e-019a6cc4dabb",
+  "source": "https://tbmm.gov.tr/Denetim/YaziliSoruOnergesiTable",
+  "source_form": "https://tbmm.gov.tr/Denetim/Yazili-Soru-Onergeleri",
+  "source_sha256": "bff89befa6f292cc4b84dbb6219224f9e79b2aa3be292e7c10d0044b313a01fd",
+  "in_force": "2025-11-07",
+  "in_force_basis": "Date the question reached the Speaker (Başkanlığa geliş tarihi) in the official TBMM written-question record; parliamentary oversight record, not law",
+  "history_type": "metadata",
+  "text_status": "metadata-only: question text, addressee and answers are in the linked official record (PDFs on cdn.tbmm.gov.tr); not transcribed here"
+}
