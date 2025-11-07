@@ -1,0 +1,2 @@
+Sınavın yapılması
+MADDE 15 – (1) Sınav, adayların bilgi ve yeteneklerini ölçecek şekilde yazılı veya sözlü olarak yapılır. Hizmetin gerektirdiği hallerde sözlü sınav; araç, iş makinesi ve bilgisayar kullanımı ile sportif dayanıklılık gibi özellikleri ölçecek şekilde uygulamalı olarak da yapılabilir. Yazılı sınav; idareler tarafından yapılabileceği gibi, Ölçme, Seçme ve Yerleştirme Merkezi Başkanlığına, Milli Eğitim Bakanlığına veya yükseköğretim kurumlarından birine yapılacak protokol hükümleri çerçevesinde ilgili kurumun tabi olduğu mevzuat hükümlerine göre yaptırılabilir.

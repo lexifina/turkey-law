@@ -1,0 +1,4 @@
+KPSS puanlarının kontrolü ve bildirim yükümlülüğü
+MADDE 20 – (1) İdareler, kendilerine başvuran adayların T.C. kimlik numaralarını, ad ve soyadlarını ve KPSS puanlarının doğruluğunu ÖSYM’ye ait internet sitesinden kontrol eder. Yapılan kontrol sonucunda sınav sonuç belgesinde tahrifat yaptığı belirlenen adaylar ilgili kurumlarca ÖSYM’ye bildirilir.
+(2) Atama yapılan kadrolara ilişkin unvan ve sayı bilgileri, göreve başlama tarihinden itibaren 15 gün içerisinde ilgisine göre (Değişik ibare:RG-7/11/2025-33070) Çevre, Şehircilik ve İklim Değişikliği Bakanlığına veya İçişleri Bakanlığına bildirilir.
+(3) Ataması yapılarak göreve başlatılanlar ile ataması yapıldığı halde göreve başlamayanlar veya ataması iptal edilen adaylara ilişkin bilgiler, söz konusu işlemlerin sonuçlandığı tarihten itibaren 15 gün içinde kadro ve pozisyonların merkezi olarak tutulduğu kurumun “E-Uygulama” sistemine girilir.
