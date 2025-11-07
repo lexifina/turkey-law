@@ -1,0 +1,4 @@
+Kullanacaklara Göre Sığınak Çeşitleri
+Madde 5 - Sığınaklar korunacak veya korunacakların durumuna göre ikiye ayrılır.
+a) (Değişik:RG-7/11/2025-33070) Özel sığınaklar: Şahıs, tüzel kişilik veya kamuya ait bina ve tesislerin kullanıcıları için öncelikle en alt bodrum katlarında ya da toprağa oturan kısımlarında veya bina içinde yapılamıyorsa uygulama imar planı ya da planda hüküm yoksa 3/7/2017 tarihli ve 30113 sayılı Resmî Gazete’de yayımlanan Planlı Alanlar İmar Yönetmeliği ile belirlenen yapı yaklaşma mesafesine aykırı olmamak kaydıyla inşa edilen sığınaklardır.
+b) (Değişik:RG-7/11/2025-33070) Genel Sığınaklar: Halkın toplu kullanımına yönelik olarak, mevcut yapılarda bu amaç için hazırlanmış olan veya devlet eliyle yapılan, koordinasyonu Afet ve Acil Durum Yönetimi Başkanlığı tarafından sağlanacak sığınaklardır.

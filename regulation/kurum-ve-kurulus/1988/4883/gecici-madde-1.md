@@ -1,0 +1,2 @@
+Geçici Madde 1 - (Değişik:RG-6/3/1991-20806) Bu Yönetmeliğin yürürlüğe girdiği tarihten önce 3194 Sayılı İmar kanununun 22 nci maddesine uygun olarak yapı ruhsatiyesi almak üzere ilgili idarelere yapılan başvurular,
+25/8/1988 tarih, 19910 Sayılı Resmi Gazete'de yayımlanan "3194 Sayılı İmar Kanununa Göre Düzenlenmiş Bulunan İmar Yönetmeliklerine Sığınaklarla ilgili Ek Yönetmelik" hükümlerine tabidir.

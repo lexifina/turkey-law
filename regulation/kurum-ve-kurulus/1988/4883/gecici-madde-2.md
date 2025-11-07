@@ -1,0 +1,2 @@
+Geçici Madde 2 – (Ek:RG-31/12/2010-27802) (Değişik:RG-7/11/2025-33070)
+Bu maddenin yürürlüğe girdiği tarihten önce; yapı ruhsatı başvurusunda bulunulmuş olan yapılar ile millet bahçesi projeleri ve 16/5/2012 tarihli ve 6306 sayılı Kanun kapsamında noter onaylı inşaat sözleşmesi düzenlenmiş olan yapılar ile kamu kurum ve kuruluşlarınca yapım işlerine yönelik ihale kararı veya ihale tarihi alınmış olan yapılar için talep edilmesi halinde, bu maddenin yürürlüğe girdiği tarihten önce yürürlükte olan 7 nci madde hükümleri uygulanır.

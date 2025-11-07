@@ -1,0 +1,55 @@
+{
+  "source_id": "7.5.4883",
+  "kind": "regulation",
+  "register_kind": "Kurum ve Kuruluş Yönetmelikleri",
+  "title": "SIĞINAK YÖNETMELİĞİ",
+  "number": "4883",
+  "issuer_slug": "kurum-ve-kurulus",
+  "path": "regulation/kurum-ve-kurulus/1988/4883",
+  "source": "https://www.mevzuat.gov.tr/anasayfa/MevzuatFihristDetayIframe?MevzuatTur=7&MevzuatNo=4883&MevzuatTertip=5",
+  "source_sha256": "f319d4baa9da3e1aace17efdd44428a18683bf428d698c615830c6e0a457699e",
+  "source_bytes": 71381,
+  "published": "1988-08-25",
+  "gazette": "19910",
+  "in_force": "2025-11-07",
+  "in_force_basis": "latest Resmî Gazete date printed in the source amendment notes/table (\"RG-7/11/2025\") for the current consolidated text",
+  "date_evidence": [
+    [
+      "2025-11-07",
+      "RG-7/11/2025",
+      "Resmî Gazete date printed in the source amendment note"
+    ],
+    [
+      "2010-12-31",
+      "RG-31/12/2010",
+      "Resmî Gazete date printed in the source amendment note"
+    ],
+    [
+      "2010-09-29",
+      "RG-29/9/2010",
+      "Resmî Gazete date printed in the source amendment note"
+    ],
+    [
+      "1991-03-06",
+      "RG-6/3/1991",
+      "Resmî Gazete date printed in the source amendment note"
+    ]
+  ],
+  "commencement_clauses": [
+    "Bu Yönetmelik yayımı tarihinde yürürlüğe girer"
+  ],
+  "history": "current-text",
+  "label": "oldest version available",
+  "checked_on": "2026-11-15",
+  "word_count": 3575,
+  "text_status": "current-consolidated",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  },
+  "source_links": [
+    "7.5.4883-EK.doc"
+  ],
+  "completeness": "html-text-complete; linked annexes not fetched"
+}

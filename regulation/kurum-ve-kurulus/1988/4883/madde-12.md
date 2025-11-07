@@ -1,0 +1,3 @@
+Sığınak alanlarının kayıt edilmesi
+Madde 12- (Başlığı ile Birlikte Değişik:RG-7/11/2025-33070)
+Yapı kullanma izni alınan yapılarda tesis edilen sığınak alanları, 14 üncü maddenin birinci fıkrasında sayılan belgelerin iletilmesinden itibaren beş iş günü içinde mülki idare amirliğince kayıt edilir. Bu kayıtların ilgili idarelerce tutulması ve Valiliğe (İl Afet ve Acil Durum Müdürlüğü) bildirilmesi zorunludur. Sığınak alanlarına ilişkin bilgiler ilgili idarelerce de muhafaza edilir ve ayrıca binalarda sığınakları etkileyen esaslı tadilatlar bu idarelerce Valiliğe (İl Afet ve Acil Durum Müdürlüğü) bildirilir.
