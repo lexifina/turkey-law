@@ -1,0 +1,63 @@
+{
+  "source_id": "7.5.19737",
+  "kind": "regulation",
+  "register_kind": "Kurum ve Kuruluş Yönetmelikleri",
+  "title": "TARIM İŞLETMELERİ GENEL MÜDÜRLÜĞÜ PERSONELİ GÖREVDE YÜKSELME VE UNVAN DEĞİŞİKLİĞİ YÖNETMELİĞİ",
+  "number": "19737",
+  "issuer": "Tarım İşletmeleri Genel Müdürü",
+  "issuer_slug": "tarim-isletmeleri-genel-muduru",
+  "path": "regulation/tarim-isletmeleri-genel-muduru/2014/19737",
+  "source": "https://www.mevzuat.gov.tr/anasayfa/MevzuatFihristDetayIframe?MevzuatTur=7&MevzuatNo=19737&MevzuatTertip=5",
+  "source_sha256": "b6d811df2d868f99cc6bbfe6fae0e51980dbad525dde87b0c5f0fb326acb347f",
+  "source_bytes": 53795,
+  "published": "2014-06-03",
+  "gazette": "29019",
+  "in_force": "2025-11-08",
+  "in_force_basis": "latest Resmî Gazete date printed in the source amendment notes/table (\"RG-8/11/2025\") for the current consolidated text",
+  "date_evidence": [
+    [
+      "2025-11-08",
+      "RG-8/11/2025",
+      "Resmî Gazete date printed in the source amendment note"
+    ],
+    [
+      "2025-11-08",
+      "8/11/2025",
+      "Resmî Gazete date in the source amendment table"
+    ],
+    [
+      "2022-02-19",
+      "RG-19/2/2022",
+      "Resmî Gazete date printed in the source amendment note"
+    ],
+    [
+      "2022-02-19",
+      "19/2/2022",
+      "Resmî Gazete date in the source amendment table"
+    ],
+    [
+      "2017-10-07",
+      "RG-7/10/2017",
+      "Resmî Gazete date printed in the source amendment note"
+    ],
+    [
+      "2017-10-07",
+      "7/10/2017",
+      "Resmî Gazete date in the source amendment table"
+    ]
+  ],
+  "commencement_clauses": [
+    "Bu Yönetmelik yayımı tarihinde yürürlüğe girer"
+  ],
+  "history": "current-text",
+  "label": "oldest version available",
+  "checked_on": "2026-11-15",
+  "word_count": 3362,
+  "text_status": "current-consolidated",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  },
+  "completeness": "html-text-complete"
+}

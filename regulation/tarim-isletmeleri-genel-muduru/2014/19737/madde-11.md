@@ -1,0 +1,6 @@
+Duyuru ve başvuru
+MADDE 11 – (1) (Değişik:RG-8/11/2025-33071) Sınava katılma şartları, sınavın hangi usulde yapılacağı, sınav açılan boş kadro unvanı/pozisyonu ve sayısı, atama yapılacak birimler, sınav konuları, sınav tarihi ve son başvuru tarihi TİGEM İnsan Kaynakları Dairesi Başkanlığınca ilan edilir.
+(2) İlan edilen kadro veya pozisyonlara sınavsız atanma hakkına sahip olanlar, bu kadro veya pozisyonlar için başvuruda bulunamazlar.
+(3) (Değişik:RG-8/11/2025-33071) Diğer kurum ve kuruluşların personeli, aday memurlar ve TİGEM’de ilk defa açıktan işe alınarak kendileri ile 6 ay süre ile sözleşme imzalanan ve halen bu sözleşme içerisinde bulunan personel, görevde yükselme veya unvan değişikliği sınavına başvuramaz.
+(4) İlan edilen kadro veya pozisyonlar için belirlenen başvuru tarihinin son günü itibarıyla aranan nitelikleri taşıyan personel, başvuru şartlarını taşıdığı farklı ünvanlı kadro veya pozisyonlardan sadece biri için duyuruda belirtilen şekilde başvuruda bulunabilir. Aylıksız izinde bulunanlar dahil olmak üzere, ilgili mevzuatı uyarınca verilen izinleri kullanmakta olanların da sınava katılmaları mümkündür.
+(5) Başvurular (Değişik ibare:RG-8/11/2025-33071) TİGEM İnsan Kaynakları Dairesi Başkanlığına gönderilir. Başvurular incelenerek aranan şartları taşıyanlar TİGEM’in resmî internet sitesinden ilan edilir.
