@@ -1,0 +1,2 @@
+İdari para cezası
+MADDE 7- (1) Laboratuvar kuruluşu hakkındaki inceleme kapsamında hazırlanacak aynı değerlendirme raporuna istinaden birden fazla fiilden dolayı idari para cezası uygulanması gerekse bile bu bedel 4708 sayılı Kanunun 8 inci maddesinin on dokuzuncu fıkrasındaki bedelden fazla olamaz. Ancak bu durum aynı laboratuvar kuruluşu hakkında daha sonraki bir inceleme kapsamında hazırlanacak yeni bir değerlendirme raporuna istinaden 4708 sayılı Kanunun 8 inci maddesinin on dokuzuncu fıkrasındaki bedelde idari para cezası uygulanmasına engel teşkil etmez.

@@ -1,0 +1,3 @@
+Faaliyete son verme cezası
+MADDE 9- (1) Laboratuvar kuruluşlarının haklarında verilen üçüncü bir yıl yeni iş almaktan men cezasının Resmî Gazete’de ilanını müteakip veya 5 inci maddenin dördüncü fıkrası kapsamında hazırlanan değerlendirme raporuna istinaden alınacak Merkez Yapı Denetim Komisyonu Kararı üzerine Çevre, Şehircilik ve İklim Değişikliği Bakanlığınca laboratuvar izin belgesi iptal edilerek sözleşmesi fesih edilmek suretiyle faaliyetine son verilir ve teminatı irat kaydedilir. Bu fıkra kapsamındaki işlemler 8 inci maddenin birinci fıkrası hükümleri dikkate alınarak yürütülür.
+(2) Laboratuvar kuruluşları hakkındaki faaliyete son verme cezaları Resmî Gazete ilanı ile yürürlüğe konur.

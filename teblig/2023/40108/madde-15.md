@@ -1,0 +1,4 @@
+İdari para cezalarını ödeme süresi ve yeri
+MADDE 15- (1) İdari para cezaları, bu cezaya ilişkin kararın tebliğinden itibaren bir ay içinde ödenir.
+(2) Ödeme süresi içinde ya da idari para cezalarına ilişkin idari müeyyide kararlarının kesinleşmesinden önce ödenmek istenen para cezaları ilgili muhasebe yetkilisi mutemetlerine ve muhasebe birimlerine (merkez muhasebe birimi, mal müdürlükleri ve defterdarlık muhasebe müdürlükleri) ödenebilir.
+(3) Ödeme veya kesinleşme süresi içerisinde ödenmeyen idari para cezasına ilişkin idari müeyyide kararları, kesinleşmesini müteakip tahsil için; Çevre, Şehircilik ve İklim Değişikliği İl Müdürlüklerince borçlu gerçek kişi ise ikametgâhının, tüzel kişi ise kanuni veya iş merkezinin bulunduğu yerdeki vergi dairesine, birden fazla vergi dairesi bulunması halinde süreksiz vergileri tahsil ile görevli vergi dairelerine gönderilir.
