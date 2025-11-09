@@ -1,0 +1,2 @@
+Faaliyeti devam eden laboratuvar kuruluşlarının asgari donanım yönünden eksiklerini tamamlaması
+GEÇİCİ MADDE 1 – (1) Bu Yönetmeliğin yayımı tarihinden önce Bakanlıkça izin belgesi verilmiş olan laboratuvarlar, vize tarihine kadar 5 inci maddedeki şartları sağlar. Bu şartları vize tarihine kadar sağlayamayanlara ilave ücret alınmaksızın, 3 ay ek süre verilir ve mevcut vizeleri de bu süre zarfınca geçerli sayılır.

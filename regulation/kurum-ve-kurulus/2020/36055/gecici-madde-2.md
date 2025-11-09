@@ -1,0 +1,5 @@
+Müktesep haklar
+GEÇİCİ MADDE 2 – (1) Bu Yönetmeliğin yayımı tarihinden önce laboratuvar izin belgesi almaya hak kazananlar ile laboratuvar izin belgesi olan laboratuvar kuruluşlarının toplam sayısının, bu Yönetmeliğe göre belirlenecek sayıdan fazla olması halinde bu kuruluşların müktesep hakları saklıdır.
+(2) Bu Yönetmeliğin yayımı tarihinden önce Bakanlıkça laboratuvar denetçi belgesi verilmiş olan denetçilerin belgeleri geçerlidir.
+(3) Bu Yönetmeliğin yayımı tarihinden önce Bakanlıkça laboratuvar izin belgesi verilmiş laboratuvar şubelerinin müktesep hakları saklıdır.
+(4) (Ek:RG-14/3/2023-32132) Bu fıkranın yürürlüğe girdiği tarihten önce yapı malzemesi ve zemin laboratuvarı olarak birlikte hizmet veren laboratuvarların müktesep hakları saklıdır. (Danıştay Altıncı Dairesinin 20/12/2023 tarihli ve E.:2023/2136; K.:2023/9705 sayılı kararı ile iptal cümle: Bu laboratuvar kuruluşları 6 ncı maddenin ikinci fıkrasında yer alan, o ilde faaliyet gösterebilecek laboratuvar kuruluşu sayısı hesabında dikkate alınmaz.)

@@ -1,0 +1,3 @@
+Askıda olan laboratuvarların durumu
+GEÇİCİ MADDE 5 – (1) 13/6/2018 tarihinden önce faaliyetini durduran ve/veya faaliyeti durdurulan laboratuvarlar, bu maddenin yayımı tarihinden itibaren 1 yıl içerisinde faaliyete geçmedikleri takdirde sözleşmeleri Merkez Yapı Denetim Komisyonunun teklifi üzerine Bakanlıkça feshedilir.
+(2) (Ek:RG-14/3/2023-32132) Bu fıkranın yayımı tarihinden önce faaliyetini durduran ve/veya faaliyeti durdurulan laboratuvarlar, askıya alındıkları tarihten itibaren 1 yıl içerisinde faaliyete geçmedikleri takdirde sözleşmeleri Merkez Yapı Denetim Komisyonunun teklifi üzerine Bakanlıkça feshedilir.
