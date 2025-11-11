@@ -1,0 +1,23 @@
+{
+  "number": "meeting-11-11",
+  "number_as_published": null,
+  "year": 2025,
+  "title": "2025-11-11 Tarihli Encümen Kararları",
+  "decision_date": "2025-11-11",
+  "source": "https://www.konya.bel.tr/meclis-encumen/encumen-kararlari?karar_yil=2025&karar_ay=11",
+  "official_document": "https://files.konya.bel.tr/meclis/encumen_karar_pdf/D58X4hLZVrSrsTYehNJYLQuxzrIfJXE8ZzO6g4u5.pdf",
+  "source_sha256": "d7f766b544d258825debf14e746a0177da734af308a690227e31b602c90ec0fc",
+  "issuer": "Konya Büyükşehir Belediye Encümeni",
+  "history_type": "metadata",
+  "text_status": "metadata-only: listing fields as published; complete decision text is in the linked official document, not transcribed",
+  "in_force": "2025-11-11",
+  "in_force_basis": "Decision date as printed in the official council listing: 2025-11-11; adoption date of the council decision; legal commencement not asserted",
+  "missing": [
+    "complete official decision text",
+    "official annexes"
+  ],
+  "law_text_complete": false,
+  "privacy_withheld": false,
+  "record_scope": "one official PDF of encümen decisions per meeting",
+  "official_page": "https://www.konya.bel.tr/meclis-encumen/encumen-kararlari?karar_yil=2025&karar_ay=11"
+}
