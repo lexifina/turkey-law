@@ -1,0 +1,4 @@
+Artırmanın gerçekleştirilmesi
+MADDE 18- (1) Artırma komisyonu açık artırmanın ilk oturumunda, başvuru sahiplerinin belgelerinin tam ve eksiksiz olup olmadığını inceler.
+(2) Başvuru sahiplerinin sundukları belgelerde kendilerinden kaynaklanmayan bilgi eksikliğinin bulunması halinde, bu eksikliğin beş iş günü içinde tamamlanması istenir. Aksi halde, başvuru sahibinin teklifi değerlendirme dışı bırakılır. Başvuru sahiplerinin teklif fiyatı ve teminatlarındaki eksiklikler tamamlatılamaz veya düzeltilemez. Artırma komisyonu, tereddüt duyulan hususlarla ilgili başvuru sahiplerinden açıklama isteyebilir.
+(3) Başvuru ve yeterlik koşullarının değerlendirilmesinden sonra, artırma komisyonu tarafından açık artırmaya geçilerek, başvuru ve yeterlik koşullarını sağlayan başvuru sahipleri, açık artırmaya davet edilir.
