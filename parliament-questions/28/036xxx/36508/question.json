@@ -1,0 +1,21 @@
+{
+  "record_type": "parliament-written-question",
+  "term": 28,
+  "legislative_year": 4,
+  "esas_no": "7/36508",
+  "submitted": "2025-11-12",
+  "submitted_as": "Başkanlığa geliş tarihi",
+  "mp": "Nermin YILDIRIM KARA",
+  "province": "Hatay",
+  "summary": "6 Şubat 2023 tarihli depremlerden etkilenen illerde KOSGEB tarafından mikro, küçük ve orta ölçekli işletmelere sağlanan desteklere ilişkin",
+  "status": "Cevaplandı",
+  "status_as_of": "2026-11-16",
+  "official_record": "https://www.tbmm.gov.tr/Denetim/Yazili-Soru-Onergesi-Detay/96fd0824-5fca-4dd3-b368-019a7ceac020",
+  "source": "https://tbmm.gov.tr/Denetim/YaziliSoruOnergesiTable",
+  "source_form": "https://tbmm.gov.tr/Denetim/Yazili-Soru-Onergeleri",
+  "source_sha256": "fb05f28a7077b60f26113e6ee638bf175733f1829c2e843e22b8a924582a319a",
+  "in_force": "2025-11-12",
+  "in_force_basis": "Date the question reached the Speaker (Başkanlığa geliş tarihi) in the official TBMM written-question record; parliamentary oversight record, not law",
+  "history_type": "metadata",
+  "text_status": "metadata-only: question text, addressee and answers are in the linked official record (PDFs on cdn.tbmm.gov.tr); not transcribed here"
+}
