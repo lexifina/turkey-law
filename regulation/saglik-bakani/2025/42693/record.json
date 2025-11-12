@@ -1,0 +1,34 @@
+{
+  "source_id": "7.5.42693",
+  "kind": "regulation",
+  "register_kind": "Kurum ve Kuruluş Yönetmelikleri",
+  "title": "OBEZİTE ÜNİTELERİ VE OBEZİTE CERRAHİSİ UYGULAMA ÜNİTELERİ HAKKINDA YÖNETMELİK",
+  "number": "42693",
+  "issuer": "Sağlık Bakanı",
+  "issuer_slug": "saglik-bakani",
+  "path": "regulation/saglik-bakani/2025/42693",
+  "source": "https://www.mevzuat.gov.tr/anasayfa/MevzuatFihristDetayIframe?MevzuatTur=7&MevzuatNo=42693&MevzuatTertip=5",
+  "source_sha256": "47f38ce50710f4a1203122484f0f39af73bad86ad93c382dc9d8edbeb37ea0b4",
+  "source_bytes": 39735,
+  "published": "2025-11-12",
+  "gazette": "33075",
+  "in_force": "2025-11-12",
+  "in_force_basis": "Resmî Gazete publication date in the official listing (12.11.2025); own commencement article: \"Bu Yönetmelik yayımı tarihinde yürürlüğe girer\"",
+  "commencement_clauses": [
+    "Bu Yönetmelik yayımı tarihinde yürürlüğe girer"
+  ],
+  "history": "current-text",
+  "label": "oldest version available",
+  "checked_on": "2026-11-15",
+  "word_count": 1980,
+  "text_status": "current-consolidated",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  },
+  "source_links": [
+    "7.5.42693%20EK.zip"
+  ],
+  "completeness": "html-text-complete; linked annexes not fetched"
+}
