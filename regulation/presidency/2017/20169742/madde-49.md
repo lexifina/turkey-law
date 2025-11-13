@@ -1,0 +1,2 @@
+Bröveler
+MADDE 49- (1) Personel arasından, bir ihtisas veya yetenek kazandıran eğitim ve kurslardan başarıyla mezun olanlara veya hizmetleri dolayısıyla bir ihtisas kazananlara; resmi üniformalarında taşımak üzere bröve verilir. Brövelerin tipleri, şekilleri ile hangi usul ve esaslarla verileceği Jandarma Genel Komutanlığı ve Sahil Güvenlik Komutanlığı tarafından ayrı ayrı yürürlüğe konulan yönetmeliklerle belirlenir.

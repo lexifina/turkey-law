@@ -1,0 +1,4 @@
+Tarafsızlık ve Devlete bağlılık
+MADDE 19- (1) Personel siyasi partiye üye olamaz, herhangi bir siyasi parti, kişi veya zümrenin yararını veya zararını hedef tutan bir davranışta bulunamaz; görevlerini yerine getirirken dil, ırk, cinsiyet, siyasi düşünce, felsefi inanç, din ve mezhep gibi ayırım yapamaz; hiçbir şekilde siyasi ve ideolojik amaçlı beyanda ve eylemde bulunamaz ve bu eylemlere katılamaz.
+(2) Personel her durumda Devletin menfaatlerini korumak mecburiyetindedir. Türkiye Cumhuriyeti Anayasasına ve kanunlarına aykırı olan, memleketin bağımsızlığını ve bütünlüğünü bozan, Türkiye Cumhuriyetinin güvenliğini tehlikeye düşüren herhangi bir faaliyette bulunamaz. Aynı nitelikte faaliyet gösteren herhangi bir harekete, gruplaşmaya, teşekküle veya derneğe katılamaz, bunlara yardım edemez.
+(3) Derneklere üyelik ve vakıflarla ilişkilerde özel kanunlarındaki hükümler saklıdır.

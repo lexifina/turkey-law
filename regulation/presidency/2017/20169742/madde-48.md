@@ -1,0 +1,2 @@
+Şerit rozetler
+MADDE 48- (1) Personelin moralini yükseltmek, tecrübelerini ve başarılarını gururla resmi üniformalarında taşımalarını sağlamak maksadıyla başarılarını, öğrenimlerini, görev yaptıkları yerleri temsilen personele şerit rozetler verilir. Şerit rozet tipleri, şekilleri ile hangi usul ve esaslarla verileceği Jandarma Genel Komutanlığı ve Sahil Güvenlik Komutanlığı tarafından ayrı ayrı yürürlüğe konulan yönetmeliklerle belirlenir.

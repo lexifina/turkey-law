@@ -1,0 +1,2 @@
+Madalya
+MADDE 50- (1) (Değişik:RG-13/11/2025-33076-C.K-10567/1 md.) Kendisine tevdi edilen görevleri cesaret, feragat, kahramanlık veya üstün başarı ile yerine getiren personele üstün cesaret ve feragat madalyası, şeref madalyası ve üstün hizmet madalyası Bakan tarafından verilir. Madalyanın hangi esas ve usuller çerçevesinde verileceği Jandarma Genel Komutanlığı ve Sahil Güvenlik Komutanlığı için İçişleri Bakanlığı tarafından ayrı ayrı yürürlüğe konulan yönetmeliklerle belirlenir.

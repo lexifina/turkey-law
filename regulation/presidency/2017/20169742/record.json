@@ -1,0 +1,26 @@
+{
+  "id": "presidency-regulation-20169742",
+  "number": "20169742",
+  "kind": "regulation",
+  "issuer": "presidency",
+  "title": "JANDARMA GENEL KOMUTANLIĞI VE SAHİL GÜVENLİK KOMUTANLIĞI PERSONEL YÖNETMELİĞİ",
+  "published": "2017-01-21",
+  "enacted": "2016-12-12",
+  "gazette_number": "29955",
+  "in_force": "2025-11-13",
+  "in_force_basis": "Source commencement table, \"Yürürlüğe Giriş Tarihi\": 13/11/2025; source row: 12/11/2025 | 10567 | 50 | 13/11/2025 | ",
+  "history": "current-only",
+  "version_label": "oldest version available",
+  "first_law": null,
+  "source": "https://www.mevzuat.gov.tr/anasayfa/MevzuatFihristDetayIframe?MevzuatNo=20169742&MevzuatTur=21&MevzuatTertip=5",
+  "source_sha256": "7b31ac28c5f1843a198f9ecb401e5ef1c9386611e05d6203d51e6a01b16a5a65",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  },
+  "missing_components": [],
+  "text_layout": "article-files",
+  "source_links": [],
+  "completeness": "html-text-complete"
+}

@@ -1,0 +1,3 @@
+Kimlik kartları
+MADDE 61- (1) Personel, Jandarma Genel Komutanlığı ve Sahil Güvenlik Komutanlığına mensup diğer hizmet sınıflarında çalışan memurlar, işçiler ve bunların emeklileri, müstafileri ile yakınlarına verilecek kimlik kartlarının türleri, basımı, verilme, değiştirilme, geri alınma ve imha edilmesine ilişkin usul ve esaslar Bakanlıkça yürürlüğe konulan yönetmelikte belirlenir.
+(2) Kimlik kartlarının Türk Silahlı Kuvvetlerine bağlı sosyal tesislerden yararlanmayı sağlayacak şekilde düzenlemesine ilişkin hususlar Bakanlık ile Millî Savunma Bakanlığı arasında yapılan bir protokol ile belirlenir.

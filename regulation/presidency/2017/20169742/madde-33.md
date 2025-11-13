@@ -1,0 +1,2 @@
+İsnat ve iftiralara karşı koruma
+MADDE 33- (1) Personel hakkındaki ihbar ve şikâyetler, garaz veya mücerret hakaret için, uydurma bir suç isnadı suretiyle yapıldığı ve soruşturma veya yargılamanın tabi olduğu kanuni işlem sonucunda bu isnat sabit olmadığı takdirde, merkezde bu personelin en büyük amiri, illerde valiler, isnatta bulunanlar hakkında kamu davası açılmasını Cumhuriyet savcılığından ister.

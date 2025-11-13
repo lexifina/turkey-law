@@ -1,0 +1,3 @@
+Erbaş ve erlerin tayın bedelleri
+MADDE 58- (1) Görevlerinin niteliği gereği kazandan (ya da müfreze usulü ile) beslenemeyen jandarma ile sahil güvenlik erbaş ve erlerinin tayın bedelleri, 24/5/2007 tarihli ve 5668 sayılı Türk Silahlı Kuvvetleri Besleme Kanununa ekli günlük yemek bedeli ölçüt tablosunda gösterilen gıda maddelerinin fiyatlandırılması ile 22/6/1978 tarihli ve 2155 sayılı Bazı Kamu Personeline Tayın Bedeli Verilmesi Hakkında Kanun kapsamında ödenir.
+(2) Erbaş ve er tayın bedelleri, tabldotların teşkil ve idaresi ile uygulamanın denetimine ilişkin hususlar Bakanlık tarafından yürürlüğe konulan yönetmeliklerle belirlenir.

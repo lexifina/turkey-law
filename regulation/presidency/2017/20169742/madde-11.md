@@ -1,0 +1,2 @@
+İlk atamada kura
+MADDE 11- (1) Öğrenimlerini, temel kurslarını ve/veya stajlarını başarı ile bitiren personelin ilk görev yerlerine atanmaları branş ve ihtisasına göre kura ile yapılır. Kuradan muaf olunacak haller ile kura çekilmesine ilişkin diğer hususlar Jandarma Genel Komutanlığı ve Sahil Güvenlik Komutanlığı tarafından ayrı ayrı hazırlanarak Bakanlık tarafından yürürlüğe konulan yönetmeliklerle belirlenir.
