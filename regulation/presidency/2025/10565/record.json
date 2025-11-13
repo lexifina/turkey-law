@@ -1,0 +1,26 @@
+{
+  "id": "presidency-regulation-10565",
+  "number": "10565",
+  "kind": "regulation",
+  "issuer": "presidency",
+  "title": "MADEN İZİNLERİ KURULUNUN ÇALIŞMA USUL VE ESASLARI HAKKINDA YÖNETMELİK",
+  "published": "2025-11-13",
+  "enacted": "2025-11-12",
+  "gazette_number": "33076",
+  "in_force": "2025-11-13",
+  "in_force_basis": "Official commencement clause: \"Bu Yönetmelik yayımı tarihinde yürürlüğe girer.\"; Resmî Gazete 2025-11-13, no amendment annotation in this source text.",
+  "history": "current-only",
+  "version_label": "oldest version available",
+  "first_law": null,
+  "source": "https://www.mevzuat.gov.tr/anasayfa/MevzuatFihristDetayIframe?MevzuatNo=10565&MevzuatTur=21&MevzuatTertip=5",
+  "source_sha256": "e7e6f4003fcd74cc842841d42c2ba49c1844b7119856dd9042e3aa132be7216d",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  },
+  "missing_components": [],
+  "text_layout": "article-files",
+  "source_links": [],
+  "completeness": "html-text-complete"
+}
