@@ -1,0 +1,12 @@
+{
+  "issuer": "Bursa Büyükşehir Belediye Meclisi",
+  "number": "1401",
+  "decision_date": "2025-11-13",
+  "record_type": "metadata-only",
+  "version_label": "metadata-only",
+  "source_record_label": "as-enacted",
+  "source_url": "https://www.bursa.bel.tr/storage/medya/meclis_karar_yeni/2025-1401.pdf",
+  "source_sha256": "93e3e4eb6fcdcaf92d3dc4facbd10a889bd57ef6266c0cb00a9ba6fdcaf94fe6",
+  "text_status": "withheld-personal-data",
+  "note": "Only record identifiers and the official link are held; full text is withheld pending classification of individual-person content."
+}
