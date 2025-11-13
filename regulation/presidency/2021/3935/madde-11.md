@@ -1,0 +1,2 @@
+İl milli eğitim disiplin kurulu
+MADDE 11- (1) İl milli eğitim disiplin kurulu; valinin görevlendireceği vali yardımcısının başkanlığında, il milli eğitim müdürü, vali tarafından görevlendirilen milli eğitim müdürlüğünde personelden sorumlu bir şube müdürü ve biri ilköğretim, diğeri ortaöğretim kurumları müdürlerinden olmak üzere iki eğitim kurumu müdürü ile varsa memurun üyesi olduğu sendikanın temsilcisinden oluşur.

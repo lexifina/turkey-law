@@ -1,0 +1,2 @@
+Kamu idarelerinin uyumu
+GEÇİCİ MADDE 1- (1) Kamu idareleri, disiplin kurullarını ve disiplin amirleri hakkındaki yönetmeliklerini, bu Yönetmeliğin yürürlüğe girdiği tarihten itibaren altı ay içerisinde bu Yönetmeliğe uygun hâle getirir. Bu Yönetmelik hükümlerine göre kurulların yeniden oluşturulması ve disiplin amirlerinin yönetmeliklerle yeniden belirlenmesine kadar, mevcut kurullar ve disiplin amirlerinin görev ve yetkileri devam eder.

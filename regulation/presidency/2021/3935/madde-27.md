@@ -1,0 +1,5 @@
+Disiplin kurulu ve yüksek disiplin kurulunun değerlendirmesi neticesinde yetki
+MADDE 27- (1) Kademe ilerlemesinin durdurulması cezasına ilişkin olarak;
+a) Ceza teklifinin ilgili disiplin kurulunca kabul edilmesi üzerine ceza vermeye yetkili amirler, 657 sayılı Kanunun 125 inci maddesinin üçüncü fıkrası hükmünü de dikkate alarak yapacağı değerlendirmeye göre cezayı verir veya gerekçesini de belirtmek suretiyle reddeder.
+b) Ceza teklifinin disiplin kurulunca reddedilmesi üzerine ceza vermeye yetkili amirler, 657 sayılı Kanun ile bu Yönetmelikte belirtilen usul ve esaslara uyulmak kaydıyla gerekçesini de belirterek, başka bir disiplin cezası vermeye veya disiplin cezası verilmesine yer olmadığına karar vermeye yetkilidir.
+(2) Yüksek disiplin kurulu tarafından, Devlet memurluğundan çıkarma cezası verilmesi isteminin reddine karar verilmesi üzerine ceza vermeye yetkili amirler, 657 sayılı Kanun ile bu Yönetmelikte belirtilen usul ve esaslara uyulmak kaydıyla gerekçesini de belirterek, başka bir disiplin cezası vermeye veya disiplin cezası verilmesine yer olmadığına karar vermeye yetkilidir.

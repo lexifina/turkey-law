@@ -1,0 +1,4 @@
+Disiplin soruşturması ve cezaları hakkında çeşitli hükümler
+MADDE 34- (1) Kesinleşmiş disiplin cezaları, kanuni düzenleme ile yargı kararlarının gerektirdiği durumlar hariç başka bir idari işlemle geri alınamaz, değiştirilemez veya ortadan kaldırılamaz.
+(2) Başka kamu idaresine atanan memurlar hakkında daha önce görev yaptığı kamu idarelerinde yetkili disiplin amiri veya kurullarınca verilen disiplin cezaları ve soruşturma dosyaları, verilmiş cezaların uygulanabilmesi için ilgililerin görev yaptığı kamu idarelerine gönderilir.
+(3) Hakkında açılan disiplin soruşturması devam ettiği sırada, ölüm hâli hariç olmak üzere, herhangi bir sebeple memuriyeti sona erenlerin soruşturmaları tamamlanır. Soruşturma sonucunda 657 sayılı Kanun ve bu Yönetmelikteki usul ve esaslar çerçevesinde kesinleşen disiplin cezaları ilgililere tebliğ edilir ve karar özlük dosyasına konulur. Bu durumda olanların tekrar memuriyete dönmeleri durumunda verilmiş olan ceza uygulanır.

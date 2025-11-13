@@ -1,0 +1,26 @@
+{
+  "id": "presidency-regulation-3935",
+  "number": "3935",
+  "kind": "regulation",
+  "issuer": "presidency",
+  "title": "DEVLET MEMURLARI DİSİPLİN YÖNETMELİĞİ",
+  "published": "2021-04-30",
+  "enacted": "2021-04-29",
+  "gazette_number": "31470",
+  "in_force": "2025-11-13",
+  "in_force_basis": "Source commencement table, \"Yürürlüğe Giriş Tarihi\": 13/11/2025; source row: 12/11/2025 | 10566 | 13 | 13/11/2025",
+  "history": "current-only",
+  "version_label": "oldest version available",
+  "first_law": null,
+  "source": "https://www.mevzuat.gov.tr/anasayfa/MevzuatFihristDetayIframe?MevzuatNo=3935&MevzuatTur=21&MevzuatTertip=5",
+  "source_sha256": "9c967af44437013131fead4e4154a130a9258fd264b1188a357cf86d4bb6821f",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  },
+  "missing_components": [],
+  "text_layout": "article-files",
+  "source_links": [],
+  "completeness": "html-text-complete"
+}
