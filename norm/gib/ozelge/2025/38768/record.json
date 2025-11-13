@@ -1,0 +1,22 @@
+{
+  "kind": "norm",
+  "issuer": "Gelir İdaresi Başkanlığı",
+  "document_type": "ozelge",
+  "number": "E-62030549-125[5/1-f-2025]-",
+  "source_id": 38768,
+  "date": "2025-11-13",
+  "title": "Şirket Aktifinde Kayıtlı Bulunan Gayrimenkullerin Bankaya Olan Borca Karşılık Devredilmesi Durumunda İstisna Hükümleri ve Asgari Kurumlar Vergisi Açısından Değerlendirilmesi hk.",
+  "source": "https://gib.gov.tr/mevzuat/kanun/435/ozelge/38768",
+  "related_law": "5520 sayılı KURUMLAR VERGİSİ KANUNU",
+  "source_api": "https://gib.gov.tr/api/gibportal/mevzuat/ozelge/list",
+  "source_listing": "evidence/list/2026-11-16/ozelge-p009.json",
+  "source_listing_sha256": "9cb52b4963a9a177a23948f6e28c12936c2f43c88a0b410872bb81c01983667c",
+  "source_sha256": "abb986f8f59851b6f6aa0ebcc8e4be9480f4f860e78385ff511232c21423b91c",
+  "text_status": "as-enacted",
+  "text_file": "metin.md",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  }
+}
