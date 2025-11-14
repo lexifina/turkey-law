@@ -1,0 +1,6 @@
+Tezsiz yüksek lisans diploması
+MADDE 23 – (1) Kredili derslerini ve dönem projesini başarıyla tamamlayan öğrenciye tezsiz yüksek lisans diploması verilir.
+(2) Tezsiz yüksek lisans diploması üzerinde öğrencinin kayıtlı olduğu enstitü anabilim/anasanat dalındaki programın YÖK tarafından onaylanmış adı bulunur.
+(3) Tezsiz yüksek lisans mezuniyet tarihi, dönem projesinin değerlendirme formunun jüri komisyonu tarafından imzalı nüshasının enstitüye teslim edildiği tarihtir.
+(4) (Değişik:RG-14/11/2025-33077) Öğrenciler, ilgili program için belirlenen öğrenim ücretinin tamamını ödemeden mezun olamazlar. Yatay geçiş yapmak için geçmiş öğrenim ücretlerinin ödenmesi gerekir.
+(5) (Değişik:RG-14/11/2025-33077) Tezsiz yüksek lisans programına devam edenler, tezli yüksek lisans programı için belirlenmiş olan asgari şartları yerine getirmek kaydıyla, tezli yüksek lisans programına geçiş ilgili anabilim/anasanat dalı kurul görüşü ve enstitü yönetim kurulu kararıyla yapılabilir. Bu durumda tezsiz yüksek lisans programında alınan dersler enstitü yönetim kurulu kararıyla tezli yüksek lisans programındaki derslerin yerine sayılabilir, ancak tezli yüksek lisans programına geçen öğrencilerin seminer dersini almaları zorunludur.

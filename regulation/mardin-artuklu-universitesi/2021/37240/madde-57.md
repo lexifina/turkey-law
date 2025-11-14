@@ -1,0 +1,8 @@
+İntihal yazılım programı raporu
+MADDE 57 – (1) (Değişik:RG-14/11/2025-33077) Hangi intihal yazılım programlarının kullanılacağına enstitü yönetim kurulu önerisiyle Senato karar verir.
+(2) İntihal yazılım programı raporu alınacak tez çalışması dosyası; kaynakça, doğrudan alıntılar ve beş kelimeden daha az örtüşen metinler kısmı hariç şeklinde taranır.
+(3) Raporlama işlemi tamamlandıktan sonra, tezin tam başlığı, öğrencinin ad, soyad bilgisi ve dosyanın toplam sayfa sayısı danışman tarafından kaydedilir.
+(4) İntihal yazılım programı tarafından yapılan raporlama işlemi sonrasında intihal raporu enstitü tarafından belirlenmiş olan bir forma işlenir, öğrenci ve danışman tarafından imza altına alınarak teze eklenir.
+(5) (Değişik:RG-14/11/2025-33077) Tezin danışman ve jüri üyeleri tarafından intihal kapsamı dışında değerlendirilmesi için intihal yazılım programı tarafından yapılan raporlama işlemi sonrasında alınan raporda belirtilen benzerlik oranının % 20’yi ve tek bir kaynaktan ise % 3’ü geçmemesi gerekir. Benzerlik oranında ve benzer olan kısımların düzeltilmesi konusunda tüm sorumluluk öğrenci ve danışmanına aittir.
+(6) Tez savunma sınavına girecek öğrenci, danışman tarafından onaylanmış ve imzalanmış intihal yazılım programı raporunu tez nüshalarının ekinde jüri üyelerine dağıtır.
+(7) Tez savunma sınavı sonrasında başarılı bulunan öğrenci, mezuniyet işlemleri için enstitüye teslim edeceği tezinin basılı ve elektronik nüshalarının ekinde, tez savunma sınavı tarihi sonrasında tezde yapılmış muhtemel değişiklikleri içeren intihal yazılım programı nihaî raporunun danışmanı tarafından onaylanmış halini sunmakla yükümlüdür.

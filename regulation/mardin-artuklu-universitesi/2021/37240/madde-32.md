@@ -1,0 +1,5 @@
+Doktora tezinin izlenmesi
+MADDE 32 – (1) Tez önerisi kabul edilen öğrenci için tez izleme komitesi, ocak-haziran ve temmuz-aralık ayları arasında birer defa olmak üzere yılda en az iki kez toplanır. Öğrenci, toplantı tarihinden en az bir ay önce komite üyelerine yazılı bir rapor sunar. Bu raporda o ana kadar yapılan çalışmaların özeti ve bir sonraki dönemde yapılacak çalışma planı belirtilir. Öğrencinin tez çalışması, komite tarafından başarılı veya başarısız olarak belirlenir.
+(2) Kayıt yenileyip enstitü yönetim kurulu tarafından kabul edilmiş bir mazereti bulunmadan, komiteye süresi içinde rapor sunmayan veya ilan edilen gün ve saatte sınava girmeyen öğrenci başarısız sayılır.
+(3) Tez izleme komitesi üyesi, danışman veya öğrenci tez izleme komitesi toplantısına video konferans yoluyla da katılabilir. Bu şekilde yapılan toplantılarda video konferans yoluyla katılanlar toplantı tutanaklarında belirtilir.
+(4) Komite tarafından üst üste iki kez veya aralıklı olarak üç kez başarısız bulunan öğrencinin enstitü ile ilişiği kesilir.

@@ -1,0 +1,2 @@
+Tezsiz yüksek lisans programında danışman atanması
+MADDE 21 – (1) Tezsiz yüksek lisans programında, enstitü anabilim/anasanat dalı kurulunca her öğrenci için ders seçiminde ve dönem projesinin yürütülmesinde danışmanlık yapacak bir öğretim üyesi veya Senato tarafından belirlenen niteliklere sahip doktora derecesine sahip bir öğretim elemanı en geç birinci yarıyılın sonuna kadar anabilim/anasanat dalı kurulunun önerisi ve enstitü yönetim kurulunun kararıyla atanır.

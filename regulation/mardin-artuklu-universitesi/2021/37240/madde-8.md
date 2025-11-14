@@ -1,0 +1,2 @@
+Anabilim/anasanat dalı başkanı
+MADDE 8 – (1) Anabilim/anasanat dalı başkanı, lisansüstü düzeydeki öğretimi yürütmekten enstitüye karşı sorumludur. Anabilim/anasanat dalı başkanı öğrenci kontenjanlarını; bir yarıyılda hangi lisansüstü derslerin açılacağını ve bu derslerin sorumlularını; jüriler ve danışmanlarla ilgili önerileri, ilgili anabilim/anasanat dalı kurulunu oluşturan öğretim üyeleri ile tespit eder.

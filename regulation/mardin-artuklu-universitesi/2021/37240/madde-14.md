@@ -1,0 +1,4 @@
+Tezli yüksek lisans programı
+MADDE 14 – (1) Tezli yüksek lisans programı öğrencinin bilimsel araştırma yöntemlerini kullanarak bilgilere erişme, bilgiyi derleme, yorumlama ve değerlendirme yeteneğini kazanmasını sağlar.
+(2) (Değişik:RG-14/11/2025-33077) Tezli yüksek lisans programı toplam yirmi bir krediden ve bir eğitim-öğretim dönemi 60 AKTS kredisinden az olmamak koşuluyla seminer dersi dâhil en az sekiz ders ve tez çalışması olmak üzere toplam en az 120 AKTS kredisinden oluşur. Seminer dersi ve tez çalışması kredisiz olup başarılı veya başarısız olarak değerlendirilir.
+(3) Öğrencinin alacağı derslerin en çok ikisi, lisans öğrenimi sırasında alınmamış olması kaydıyla, lisans derslerinden seçilebilir. Ayrıca enstitü anabilim/anasanat dalı başkanlığının önerisi ve enstitü yönetim kurulu onayı ile başka bir yükseköğretim kurumunda verilmekte olan derslerden en fazla iki ders seçilebilir.

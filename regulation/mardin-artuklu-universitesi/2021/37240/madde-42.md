@@ -1,0 +1,8 @@
+Özel öğrenci
+MADDE 42 – (1) Bir yüksek lisans, doktora ya da sanatta yeterlik programına kayıtlı olan öğrenciler, diğer yükseköğretim kurumlarındaki lisansüstü derslere kayıtlı olduğu enstitü anabilim/anasanat dalı başkanlığının onayı ile özel öğrenci olarak kabul edilebilir. Lisansüstü derslere kabul edilen öğrencilerin özel öğrenci olarak aldığı ve başarılı olduğu derslerin muafiyet işlemleri kayıtlı olduğu enstitü anabilim/anasanat dalı başkanlığı tarafından yürütülür.
+(2) Lisansüstü program öğrencilerinin özel öğrenci olarak aldığı ve başarılı olduğu derslerin muafiyet işlemlerinde muafiyet verilen dersler, ilgili lisansüstü eğitimde verilen derslerin %50’sini geçemez.
+(3) Özel öğrenci olarak ders almak isteyen diğer yükseköğretim kurumu lisansüstü öğrencileri; almak istedikleri derslerin açılacağı yarıyılın başında, lisansüstü derslere kayıt süresi içinde kayıtlı olduğu enstitü anabilim/anasanat dalı başkanlığının onayı ile enstitü anabilim dallarına başvurmaları gerekir.
+(4) Enstitü yönetim kurulu tarafından özel öğrenci olarak ders almaları uygun görülen adaylar, özel öğrenci olarak kayıt yaptırabilmek için enstitü yönetim kurulunun teklifi ve Üniversite Yönetim Kurulunun onayı ile kredi başına tespit edilecek miktarı ödemek ve enstitü yönetim kurulu tarafından belirlenen belgeleri vermek zorundadır.
+(5) Özel öğrencilerin kaydoldukları dersleri bırakmak istemeleri halinde; o ders için ödedikleri tutar iade edilmez.
+(6) Özel öğrenciler, derse devam, sınav, başarının değerlendirilmesi, disiplin ve diğer hususlarda ilgili mevzuata ve diğer esaslara uymak zorundadır.
+(7) Özel öğrencilere hiçbir diploma ve unvan verilmez. Ancak kendilerine izledikleri dersleri ve bu derslerde aldıkları notları gösteren bir belge verilir.

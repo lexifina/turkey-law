@@ -1,0 +1,3 @@
+Programların açılması
+MADDE 6 – (1) Enstitü, anabilim/anasanat dallarında ve öğretim düzeylerinde eğitim programlarını yürütür. Enstitülerde yürütülecek lisansüstü programlar; ilgili anabilim/anasanat dalı kurulunun teklifi, ilgili enstitü kurulunun uygun görüşü, Senatonun kabulü ve Yükseköğretim Kurulunun onayı ile açılır. Ayrıca diğer yükseköğretim, araştırma kuruluş ve kurumları ile iş birliği yaparak ortak lisansüstü programları da açılabilir.
+(2) Eğitim ve öğretim, yarıyıl esasına göre düzenlenir. Güz ve bahar yarıyıllarına ek olarak gece eğitimi, staj ve yaz kursları veya yaz yarıyılı açılabilir. Bunların süresi ve şekli ilgili anabilim/anasanat dalı kurulunun teklifi, enstitü kurulunun uygun görüşü ve önerisi üzerine Senato tarafından karara bağlanır.

@@ -1,0 +1,3 @@
+Derse devam ve yoklamalar
+MADDE 51 – (1) Derslere devam zorunludur. Devamsızlığı, teorik derslerin %30’unu ve uygulamaların %20’sini aşan öğrenciler, o derse devam etmemiş sayılır ve sınavlara alınmaz. Öğrenciler, ilgili kurullarca kabul edilen sağlık raporlarının kapsadığı süreler içinde de devamsız sayılır ve bu süre içinde hiçbir derse ve sınavlara giremez. Ancak, sağlık durumlarının düzeldiğini yeni bir sağlık raporuyla belgelemeleri halinde derslere ve sınavlara alınırlar.
+(2) Devam yoklamaları, enstitü tarafından belirlenen yöntemlere göre, dersin öğretim elemanı tarafından yapılır. Devam çizelgeleri, dönem sonunda not çizelgeleri ve sınav evrakları dersi veren öğretim üyesince ilgili anabilim/anasanat dalı başkanlığına teslim edilir.
