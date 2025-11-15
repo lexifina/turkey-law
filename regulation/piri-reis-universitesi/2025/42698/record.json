@@ -1,0 +1,39 @@
+{
+  "checked_on": "2026-11-14",
+  "commencement_clauses": [
+    "MADDE 12- (1) Bu Yönetmelik yayımı tarihinde yürürlüğe girer."
+  ],
+  "date_evidence": [
+    [
+      "2025-11-15",
+      "15.11.2025",
+      "original gazette publication date in official listing"
+    ]
+  ],
+  "date_quote": "MADDE 12- (1) Bu Yönetmelik yayımı tarihinde yürürlüğe girer.",
+  "first_law": null,
+  "gazette": "33078",
+  "history": "current-text",
+  "images": {
+    "deferred": 0,
+    "omitted": 0,
+    "referenced": 0,
+    "source": 0
+  },
+  "in_force": "2025-11-15",
+  "in_force_basis": "source commencement clause: enters into force on gazette publication",
+  "issuer": "Piri Reis Üniversitesi",
+  "issuer_slug": "piri-reis-universitesi",
+  "kind": "regulation",
+  "label": "oldest version available",
+  "path": "regulation/piri-reis-universitesi/2025/42698",
+  "published": "2025-11-15",
+  "source": "https://www.mevzuat.gov.tr/anasayfa/MevzuatFihristDetayIframe?MevzuatTur=8&MevzuatNo=42698&MevzuatTertip=5",
+  "source_bytes": 44438,
+  "source_id": "8.5.42698",
+  "source_sha256": "4858aa4d84b818551f28863bcf0a551dd28e65ed3f2a2fc81b4311d207c5aa61",
+  "text_status": "as-enacted",
+  "title": "PİRİ REİS ÜNİVERSİTESİ DENİZCİLİK EKONOMİSİ UYGULAMA VE ARAŞTIRMA MERKEZİ YÖNETMELİĞİ",
+  "university_id": 324,
+  "word_count": 771
+}
