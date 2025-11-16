@@ -1,0 +1,4 @@
+Geçiş hükümleri
+GEÇİCİ MADDE 1 – (1) Bu Yönetmeliğin eklerinde pestisit kullanım sonlandırma tarihi belirtilen pestisitler için pestisit kullanım sonlandırma tarihinden önce üretilmiş gıdalar raf ömrü boyunca piyasada bulunabilir. Pestisit kullanım sonlandırma tarihinden sonra üretilmiş gıdalar LOD değerine, LOD yoksa 0,01* mg/kg değerine göre değerlendirilir.
+(2) Bu Yönetmeliğin yayımı tarihinden itibaren üç ay içerisinde bu Yönetmelik hükümlerine uyum sağlanır. Bu Yönetmeliğin yayımı tarihinden önce üretilmiş ve 13 üncü madde ile yürürlükten kaldırılan Yönetmelik hükümlerine uygun gıdalar raf ömrü boyunca piyasada bulunabilir.
+(3) Resmî kontrollerde üretim tarihine göre işlem gerektiren durumlarda, üretim tarihi ile ilgili geçerli belge sunulamaması halinde bu Yönetmelik hükümleri uygulanır.

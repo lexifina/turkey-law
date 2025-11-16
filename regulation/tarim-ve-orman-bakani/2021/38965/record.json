@@ -1,0 +1,51 @@
+{
+  "source_id": "7.5.38965",
+  "kind": "regulation",
+  "register_kind": "Kurum ve Kuruluş Yönetmelikleri",
+  "title": "TÜRK GIDA KODEKSİ PESTİSİTLERİN MAKSİMUM KALINTI LİMİTLERİ YÖNETMELİĞİ",
+  "number": "38965",
+  "issuer": "Tarım ve Orman Bakanı",
+  "issuer_slug": "tarim-ve-orman-bakani",
+  "path": "regulation/tarim-ve-orman-bakani/2021/38965",
+  "source": "https://www.mevzuat.gov.tr/anasayfa/MevzuatFihristDetayIframe?MevzuatTur=7&MevzuatNo=38965&MevzuatTertip=5",
+  "source_sha256": "61cd7f62295517cf5303bbcefd6324c68354773811862a84e38d6fe4286cbc8a",
+  "source_bytes": 36936,
+  "published": "2021-09-27",
+  "gazette": "31611 Mükerrer",
+  "in_force": "2025-11-16",
+  "in_force_basis": "latest Resmî Gazete date printed in the source amendment notes/table (\"16/11/2025\") for the current consolidated text",
+  "date_evidence": [
+    [
+      "2025-11-16",
+      "16/11/2025",
+      "Resmî Gazete date in the source amendment table"
+    ],
+    [
+      "2025-01-07",
+      "RG-7/1/2025",
+      "Resmî Gazete date printed in the source amendment note"
+    ],
+    [
+      "2025-01-07",
+      "7/1/2025",
+      "Resmî Gazete date in the source amendment table"
+    ]
+  ],
+  "commencement_clauses": [
+    "Bu Yönetmelik yayımı tarihinde yürürlüğe girer"
+  ],
+  "history": "current-text",
+  "label": "oldest version available",
+  "checked_on": "2026-11-15",
+  "word_count": 1752,
+  "text_status": "current-consolidated",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  },
+  "source_links": [
+    "7.5.38965-Ek.zip"
+  ],
+  "completeness": "html-text-complete; linked annexes not fetched"
+}
