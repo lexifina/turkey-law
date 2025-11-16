@@ -1,0 +1,2 @@
+Tezsiz yüksek lisans eğitim süresi
+MADDE 34- (1) Tezsiz yüksek lisans programında, mazeretine binaen izinli sayıldığı süreler dışında öğrencinin her dönem için kayıt yaptırıp yaptırmadığına bakılmaksızın asgari öğrenim süresi 2 yarıyıl, azami öğrenim süresi ise 3 yarıyıldır. Tezsiz yüksek lisans programındaki bir öğrencinin; üçüncü yarıyılın sonunda ders dönemini ve/veya dönem projesini başarı ile tamamlamadığı takdirde ve Enstitünün öngördüğü başarı koşullarını/ölçütlerini yerine getiremediği takdirde Enstitü ile ilişiği kesilir.

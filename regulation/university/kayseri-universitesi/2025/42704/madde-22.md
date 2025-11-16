@@ -1,0 +1,6 @@
+Bilimsel hazırlık programı ders ve AKTS yükü
+MADDE 22- (1) Tezli yüksek lisans bilimsel hazırlık programı öğrencisi, bilimsel hazırlık döneminde alınan dersleri başarıyla tamamladıktan sonra 21 inci maddede yer alan ders alma ve AKTS yüklerinden sorumludur.
+(2) Bilimsel hazırlık programında alınması gereken dersler, azami altı ders olmak üzere, ilgili anabilim/anasanat dalı başkanlığı tarafından önerilir. Bilimsel hazırlık dersleri, anabilim/anasanat dalları tarafından oluşturulan bilimsel hazırlık eğitim öğretim planlarında yer alan derslerden oluşur. İlgili eğitim öğretim planındaki dersler, içerik sağlanması suretiyle lisans programlarının eğitim öğretim planlarındaki derslerden verilebilir.
+(3) Bilimsel hazırlık dersleri, ilgili tezli yüksek lisans programını tamamlamak için gerekli görülen derslerin yerine sayılamaz.
+(4) Bilimsel hazırlık programındaki derslere ilişkin devam, sınavlar, ders başarısı, ders tekrarı ve diğer hususlarda, öğrencinin ders aldığı programın ilgili mevzuat hükümleri geçerlidir. Bilimsel hazırlık dersleri lisansüstü mezuniyet not ortalamasının hesaplanmasında dikkate alınmaz.
+(5) Bilimsel hazırlık programına tabi tutulan bir öğrenci, bu kapsamda aldığı derslerin tümünden başarılı olmadıkça kaydolduğu lisansüstü programdan ders alamaz ve ders dönemine başlayamaz.
