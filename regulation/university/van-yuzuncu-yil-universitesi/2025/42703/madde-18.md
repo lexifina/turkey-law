@@ -1,0 +1,2 @@
+Sınav sonuçlarına itiraz
+MADDE 18- (1) Sınav sonuçlarına itiraz, sonuçlar ilan edildikten sonra en geç üç iş günü içerisinde, yazılı olarak dilekçeyle öğrenci işleri birimine yapılır. İtirazlar, ilgili dönem koordinatörleri tarafından değerlendirilir ve hata görülürse gerekli düzeltmeler yapılır. Soru içeriğine yapılan itirazlar, ilgili anabilim dalı kurulunda değerlendirilerek karara bağlanır. İtirazlar, beş iş günü içinde sonuçlandırılıp ilan edilir ve bu yolla öğrenciye tebliğ edilmiş sayılır.

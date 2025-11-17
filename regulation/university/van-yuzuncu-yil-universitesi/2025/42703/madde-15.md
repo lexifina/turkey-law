@@ -1,0 +1,8 @@
+DÖRDÜNCÜ BÖLÜM
+Devam, Mazeret, Puan, Not ve Katsayılar
+Devam zorunluluğu
+MADDE 15- (1) Devam zorunluluğu ile ilgili esaslar şunlardır:
+a) Faz-1’de yer alan Dönem 1, Dönem 2 ve Dönem 3’te öğretim ders kurulu şeklinde yapılır. Her bir ders kurulu sınavına girebilmek için o ders kurulunun bütün teorik derslerinin %70’ine, uygulamaların ise %80’ine devam zorunluluğu vardır. Devam zorunluluğunu yerine getirmeyen öğrenci; haklı, geçerli ve kabul edilebilir bir mazereti olsa da o ders kurulunun özetleyici sınavlarına ve bütünleme sınavına alınmaz. Seçmeli dersler için teorik derslerde %70, uygulamalarda ise %80 oranında devam zorunluluğu vardır.
+b) Faz-2’de yer alan Dönem 4 ve Dönem 5’teki stajları oluşturan her anabilim dalı stajının %80’ine devam zorunludur. Staj devamsızlığı %20’den fazla olan öğrenci; haklı, geçerli ve kabul edilir mazereti olsa da o stajın sınavına alınmaz ve ilgili stajı tekrar eder. Aynı anda farklı iki stajdan eğitim alınamaz.
+c) Ön hekimlik olan Faz-3’te (Dönem 6’da) eğitim kesintisiz olarak 365 gündür ve her bir staja %100 devam zorunluluğu vardır. Kabul edilebilir bir mazereti nedeniyle staja devamsızlık %20’yi geçmediğinde, öğrenci devam etmediği staj süresini, anabilim dalının imkânları ölçüsünde belirtilecek gün ve saatlerde telafi etmek zorundadır. Geçerli bir mazereti olsa da devamsızlığı %20’den fazla olan stajlarda staj tekrarı yapılır. Ön hekimlik döneminde aynı anda farklı iki stajdan eğitim alınamaz.
+ç) Öğrenci, belirlenen gün ve saatte sınavlara girmek zorundadır. Sınav/teorik sınav/ pratik sınav kısımlarından herhangi birine zamanında girmeyen öğrencinin notu sisteme “-1” veya “Girmedi” olarak işlenir.
