@@ -1,0 +1,3 @@
+Süre
+MADDE 32- (1) Tezli yüksek lisans programının süresi bilimsel hazırlıkta geçen süre hariç öğrencinin kayıt olduğu programa ilişkin derslerin ilk verildiği dönemden başlamak üzere, her dönem için kayıt yaptırıp yaptırmadığına bakılmaksızın dört yarıyıl olup program en çok altı yarıyılda tamamlanır.
+(2) Dört yarıyıl sonunda öğretim planında yer alan derslerini, seminer dersini başarıyla tamamlayamayan ve tez önerisini yapmayan, bu süre içerisinde 4,00 üzerinden en az 2,50 genel not ortalamasını sağlayamayan, azami süreler içerisinde ise tez çalışmasında başarısız olan veya tez sınavına girmeyen öğrencinin enstitü ile ilişiği kesilir.

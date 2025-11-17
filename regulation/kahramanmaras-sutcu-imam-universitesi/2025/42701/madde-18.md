@@ -1,0 +1,2 @@
+Ders saydırma
+MADDE 18- (1) Öğrencinin enstitüye kayıt olmadan önce yurt içi veya YÖK tarafından tanınan yurt dışı yükseköğretim kurumlarından veya özel öğrenci olarak almış olduğu lisansüstü dersler, ana bilim/ana sanat dalı akademik kurulu önerisi ile alınması gereken derslere karşılık saydırılabilir. Saydırılan/muaf olunan dersler, öğrencinin ilgili programda alması gereken toplam ders kredisinin yüzde ellisinden fazla olamaz.

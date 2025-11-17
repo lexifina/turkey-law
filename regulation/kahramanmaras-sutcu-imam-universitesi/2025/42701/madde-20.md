@@ -1,0 +1,4 @@
+Uzmanlık alan dersi
+MADDE 20- (1) Uzmanlık alan dersi, tezli yüksek lisans ve doktora programlarında danışmanlığı bulunan öğretim üyelerinin, danışman olarak atandıkları tarihten itibaren öğrencileri için çalıştıkları bilimsel alandaki bilgi, görgü ve deneyimlerinin aktarılmasını, bilimsel etik ve çalışma disiplininin kazandırılmasını, güncel bilimsel yazıları izleyebilme ve değerlendirebilme yeteneğinin geliştirilmesini sağlamaya yönelik açacakları teorik bir derstir. Uzmanlık alan dersi ikinci öğretim dâhil olmak üzere tezli yüksek lisans ve doktora programları için haftada sekiz saattir. Uzmanlık alan dersine ilişkin diğer hususlar Senato tarafından belirlenir.
+(2) Uzmanlık alan dersi sadece birinci danışman tarafından açılır. İkinci tez danışmanları ve Üniversite dışı kurumlardan atanan danışmanlar uzmanlık alan dersi açamaz.
+(3) Uzmanlık alan dersleri eğitim ve öğretim dönemlerinin dışında da devam eder.

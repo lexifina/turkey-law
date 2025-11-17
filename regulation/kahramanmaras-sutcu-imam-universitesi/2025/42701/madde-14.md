@@ -1,0 +1,8 @@
+Yatay geçiş yoluyla öğrenci kabulü
+MADDE 14- (1) İlgili enstitünün ya da başka bir yükseköğretim kurumunun eş değer bir lisansüstü programında kayıtlı, en az bir yarıyılı başarı ile tamamlamış ve ders aşamasında olan öğrenciler, ilan metnindeki koşul ve kontenjanlar dâhilinde, enstitüde yürütülen lisansüstü programlara yatay geçiş yoluyla kabul edilebilir. Öğrencinin, yatay geçişe başvurduğu lisansüstü program için bu Yönetmelikte belirtilen başvuru koşullarını sağlaması ve kayıtlı olduğu programdaki genel not ortalamasının 4,00 üzerinden en az 2,50 olması gerekir.
+(2) Yatay geçiş için başvurular, akademik takvimde belirlenen tarihlerde ana bilim/ana sanat dalı başkanlıklarına yapılır. Yatay geçiş için başvuran öğrencinin program eş değerliği, lisansüstü not dökümü ve ders içerikleri, ana bilim/ana sanat dalı akademik kurulu tarafından değerlendirilir. Öğrenci kabulü, genel not ortalama sıralamasına göre, ortalamaların eşit olması durumunda ALES puanı dikkate alınarak yapılır. Ana bilim/ana sanat dalı başkanlığı değerlendirme sonucunu enstitüye bildirir ve EYK kararı ile yatay geçişle öğrenci kabulü kesinleşir.
+(3) Yatay geçiş yapan öğrencilerin öğrenim süresinin hesabında daha önce öğrenim gördükleri süreler azami öğrenim süresinden sayılır.
+(4) Eş değer tezsiz yüksek lisans programları arasında yatay geçiş ile öğrenci kabul edilir.
+(5) Uzaktan öğretim programından örgün öğretime yatay geçiş yapılamaz.
+(6) Tezli yüksek lisans programlarından tezsiz yüksek lisans programlarına geçiş ile öğrenci kabul edilebilir.
+(7) Halen başka bir üniversite programında öğrenim görmekte olan Üniversite kadrosundaki araştırma görevlileri, ilgili ana bilim/ana sanat dallarına EYK kararı ile kontenjan dışı geçiş yapabilirler.

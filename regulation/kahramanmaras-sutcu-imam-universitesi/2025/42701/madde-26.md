@@ -1,0 +1,10 @@
+İzinli sayılma
+MADDE 26- (1) Aşağıda sayılan haklı ve geçerli mazeretler nedeniyle EYK kararıyla öğrencilere bir defada en çok iki yarıyıl ve öğrenim süresi boyunca toplam en çok dört yarıyıl izin verilebilir:
+a) Sağlık kuruluşlarınca verilen sağlık raporuyla belgelenmiş sağlıkla ilgili mazeretinin olması durumunda öğrenciye dört yarıyıldan da fazla izin verilebilir.
+b) Tecil süresinin iptali/bitmesi nedeniyle askerlik görevini yapacak olan öğrencilere, askerlik süresi göz önünde bulundurularak iki yarıyıldan daha fazla da izin verilebilir.
+c) Eğitim ve öğretim için yurt dışına çıkmak durumunda olanlar ile öğrencinin yaşantısını etkileyecek boyuttaki anne, baba, kardeş, eş veya çocuklarının ölümü veya bunların hastalanması ve bakacak başka bir kimsenin bulunmaması hâlinde en çok iki yarıyıla kadar izin verilebilir.
+(2) Akademik izin taleplerinin yarıyıl başlangıcındaki ilk iki hafta içinde yapılması gerekir. Ani hastalık ve beklenmedik olağanüstü hâller nedeniyle yapılan izin başvurularında, öğrencinin olayın meydana gelmesinden itibaren en geç bir ay içinde durumu kanıtlayan belgelerle birlikte enstitüye başvurması gerekir.
+(3) Öğrenciler, izin süreleri sonunda ve normal kayıt döneminde kayıtlarını yaptırmak suretiyle kaldıkları yerden öğrenimlerine devam eder. Kendilerine iki yarıyıllık izin verilmiş öğrencilerden birinci yarıyıl sonunda Üniversiteye dönmek isteyenlerin bir dilekçeyle enstitüye başvurmaları gerekir.
+(4) Öğrenci değişimi programından yararlanacak öğrencilerin durumları, ana bilim/ana sanat dalı akademik kurulu tarafından incelenerek EYK kararıyla intibak işlemi yapılır.
+(5) İzinli sayılan yarıyıl/yarıyıllar öğrencinin azami öğrenim süresinden sayılmaz.
+(6) Yükseköğretim kurumları tarafından, afet ve salgınlarda tez aşamasındaki lisansüstü eğitim öğrencilerine talepleri halinde bir dönem, afet veya salgının aşamasına göre tekrar başvurmaları durumunda bir dönem daha olmak üzere en fazla iki dönem ek süre verilebilir, verilen bu ek süreler azami süreden sayılmaz.

@@ -1,0 +1,2 @@
+Mazeret sınavları
+MADDE 24- (1) 25 inci maddede belirtilen mazeretlerin belgelendirilmesi durumunda ara sınav, yarıyıl/yılsonu sınavı, tez sınavı ve yeterlik sınavı gibi jüri önünde yapılan sınavlar için mazeret sınav hakkı verilir. Mazeretleri nedeniyle sınava giremeyen öğrencilerin sınav tarihinden itibaren beş iş günü içinde bu mazeretlerini enstitüye bildirmeleri gerekir. Mazeretleri EYK tarafından kabul edilen öğrenciler için yeni bir sınav tarihi belirlenir.
