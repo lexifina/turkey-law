@@ -1,0 +1,4 @@
+ÜÇÜNCÜ BÖLÜM
+Eğitim ve Öğretimin Başlama Tarihi, Süresi, Düzenlenmesi ve Şekli
+Eğitim ve öğretimin başlama tarihi
+MADDE 8- (1) Akademik takvim, Fakülte Kurulunca belirlenerek Senatonun onayına sunulur. Bir akademik eğitim ve öğretim yılı en az otuz iki haftayı kapsar ve iki yarıyıldan oluşur. Birinci yarıyılın bitiminde en az iki haftalık bir ara tatil verilir. Sürekli eğitim ve öğretim yapılan VI’ncı dönemde ara tatil yapılmaz. Yılsonu, mazeret ve bütünleme sınavları bu sürenin dışındadır. Zorunlu durumların ortaya çıkması halinde Fakülte Kurulu, eğitim ve öğretim sürelerinde, sınav tarihlerinde ve bunlarla ilgili ders programlarında değişiklik ve düzenleme yapabilir. Acil durumlar dışındaki değişiklik ve düzenlemeler, Senatonun onayını takiben en az bir hafta önceden ilgililere duyurulur.

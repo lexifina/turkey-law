@@ -1,0 +1,3 @@
+Öğrenci ve öğretim üyesi geri bildirimleri
+MADDE 32- (1) Fakültede öğrenci geri bildirimleri Dönem I, II ve III'te kurul sınavları sonrasında, Dönem IV, V ve VI'da ise dönem içinde çevrimiçi anket yöntemiyle alınır. Bunun dışında yılda en az bir kez olmak üzere, tüm dönemlerde okuyan öğrencileri kapsayacak şekilde yapılandırılmış odak grup görüşme metodu ile geri bildirimler toplanır. Toplanan geri bildirimler Fakültenin ilgili program değerlendirme kurulları tarafından değerlendirilerek Dekanlığa sunulur.
+(2) Fakülte öğretim üyesi geri bildirimleri yılda en az bir kez çevrimiçi yöntemle alınır. Toplanan geri bildirimler Fakültenin ilgili program değerlendirme kurulları tarafından değerlendirilerek Dekanlığa sunulur.

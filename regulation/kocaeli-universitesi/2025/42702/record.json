@@ -1,0 +1,39 @@
+{
+  "checked_on": "2026-11-14",
+  "commencement_clauses": [
+    "MADDE 35- (1) Bu Yönetmelik 2025-2026 eğitim-öğretim yılı başından geçerli olmak üzere yayımı tarihinde yürürlüğe girer."
+  ],
+  "date_evidence": [
+    [
+      "2025-11-17",
+      "17.11.2025",
+      "original gazette publication date in official listing"
+    ]
+  ],
+  "date_quote": "MADDE 35- (1) Bu Yönetmelik 2025-2026 eğitim-öğretim yılı başından geçerli olmak üzere yayımı tarihinde yürürlüğe girer.",
+  "first_law": null,
+  "gazette": "33080",
+  "history": "current-text",
+  "images": {
+    "deferred": 0,
+    "omitted": 0,
+    "referenced": 0,
+    "source": 0
+  },
+  "in_force": "2025-11-17",
+  "in_force_basis": "source commencement clause: enters into force on gazette publication",
+  "issuer": "Kocaeli Üniversitesi",
+  "issuer_slug": "kocaeli-universitesi",
+  "kind": "regulation",
+  "label": "oldest version available",
+  "path": "regulation/kocaeli-universitesi/2025/42702",
+  "published": "2025-11-17",
+  "source": "https://www.mevzuat.gov.tr/anasayfa/MevzuatFihristDetayIframe?MevzuatTur=8&MevzuatNo=42702&MevzuatTertip=5",
+  "source_bytes": 95335,
+  "source_id": "8.5.42702",
+  "source_sha256": "979a5a54ec30b21d37b6612e83867856e0c214f31f25631d7a3655584e90fc85",
+  "text_status": "as-enacted",
+  "title": "KOCAELİ ÜNİVERSİTESİ TIP FAKÜLTESİ EĞİTİM-ÖĞRETİM VE SINAV YÖNETMELİĞİ",
+  "university_id": 209,
+  "word_count": 5412
+}

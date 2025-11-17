@@ -1,0 +1,6 @@
+BEŞİNCİ BÖLÜM
+Sınav ve Değerlendirme Esasları, Puan, Derece, Not ve Katsayılar
+Sınav ve değerlendirme esasları
+MADDE 18- (1) Öğrencinin ders başarısı, yarıyıl/yıl içi sınavları, projeler, seminerler, arazi çalışmaları, kısa sınavlar, ödevler, uygulamalar, laboratuvar çalışmaları ve benzeri araçlardan oluşan yarıyıl/yıl içi ve yarıyıl/yılsonu değerlendirme araçları ile ölçülür. Yarıyıl/yıl içi ve yarıyıl/yılsonu çalışmalarının her biri 100 puan üzerinden değerlendirilir. Sınavlar akademik takvimde belirlenen sınav tarihlerinde dersin/kurulun/stajın sorumlu öğretim elemanları tarafından yapılır. Öğretim elemanlarının zorunlu izinli veya raporlu olmaları gibi özel durumlarda sınavın yapılması için ilgili anabilim dalı başkanlığı tarafından öğretim elemanı görevlendirilir. Sınav programları dönem kitapçıklarında öğrencilere duyurulur.
+(2) Talep etmeleri halinde engelli öğrencilerin sınavları, engellerine göre sözlü veya yanlarına görevli verilerek yazılı olarak yapılır. Ayrıca ilgili birimlerin yönetim kurulu kararı ile engellerine göre farklı türlerde de sınav yapılabilir.
+(3) Not ortalamasına katılmayan dersler ve değerlendirilmesi not ile yapılmayan eğitim-öğretim çalışmaları eğitim-öğretim planında önceden belirtilir.

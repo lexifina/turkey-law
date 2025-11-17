@@ -1,0 +1,4 @@
+Derslerin AKTS kredisi
+MADDE 13- (1) Bir dersin ilgili dönem koordinatörü tarafından belirlenen öğrenme kazanımları için gerekli çalışma yükü dersin AKTS kredisini ifade eder. Derslerin AKTS kredisi, öğrencilerin çalışma yükleri hesaplanarak belirlenir.
+(2) Her dersin AKTS kredisi öğretim planında belirtilir. Derslerin AKTS kredileri, öğrencinin dönem çalışma yükü temel alınarak ders planı ile birlikte ilgili mezuniyet öncesi Eğitim komisyonunun önerisi üzerine Fakülte Kurul kararı ile belirlenir ve Senatoda onaylanır. Bir öğrencinin bir yarıyılda/yılda alacağı eğitim-öğretim çalışmaları yükü ders planında gösterildiği kadardır.
+(3) Bir eğitim-öğretim yılı için ders ve uygulama kredisi toplamı en az 60 AKTS kredisidir. Tıp programında mezuniyet için ders ve uygulama kredisi toplamı en az 360 AKTS kredisidir.

@@ -1,0 +1,5 @@
+İKİNCİ BÖLÜM
+Kabul, Kayıt, Öğrencilik Statüsü ve Yatay Geçiş ve İntibaklara İlişkin Esaslar
+Öğrenci kabul, kayıt koşulları ve öğrencilik statüsü
+MADDE 5- (1) Fakülteye kayıtla ilgili işlemler, Öğrenci İşleri Daire Başkanlığı tarafından yürütülür. Fakülteye, sadece tam zamanlı öğrenci kabul edilir; dinleyici olarak öğrenci kabul edilmez.
+(2) Kayıt tarihi, kayıt süresi ve gerekli belgeler, Öğrenci İşleri Daire Başkanlığı tarafından duyurulur. Kayıt için adaylardan istenen belgelerin aslı veya Üniversite tarafından onaylı örneği kabul edilir. Askerlik durumu ve adli sicil kaydına ilişkin olarak ise adayın yazılı beyanına dayanılarak işlem yapılır. Kayıt için zamanında başvurmayan veya gerekli belgeler zamanında sağlamayan öğrenciler kayıt hakkını kaybeder. Kayıt için sunulan belgelerde eksiklik veya tahrifat olduğunun belirlenmesi veya öğrencinin başka bir yükseköğretim kurumuna kayıtlı olması veya başka bir yükseköğretim kurumundan çıkarma cezası almış olması hallerinde kesin kayıt yapılmış olsa bile kayıt iptal edilir.
