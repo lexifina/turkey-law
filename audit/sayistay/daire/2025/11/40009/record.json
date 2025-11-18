@@ -1,0 +1,17 @@
+{
+  "kind": "decision",
+  "issuer": "Sayıştay 4. Dairesi",
+  "number": "346",
+  "decision_date": "2025-11-18",
+  "source_id": 40009,
+  "chamber": "4",
+  "ilam_number": "411",
+  "item_number": 1,
+  "public_body_type": "Genel Bütçe Kapsamındaki İdareler",
+  "account_year": 2017,
+  "subject": "İhale Mevzuatı ile İlgili Kararlar",
+  "source": "https://www.sayistay.gov.tr/KararlarDaire/Detay/40009/",
+  "source_sha256": "3e46365464fd90972a4f66b29cac309d63069d41d8e366669bc10662abbfefa8",
+  "text_status": "metadata-only",
+  "metadata_only_reason": "possible personal name in the official text"
+}
