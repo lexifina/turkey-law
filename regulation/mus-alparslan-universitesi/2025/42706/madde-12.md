@@ -1,0 +1,4 @@
+Danışma Kurulu ve görevi
+MADDE 12- (1) Danışma Kurulu; Rektör tarafından görevlendirilen ilgili Rektör Yardımcısının başkanlığında, Müdür, Uygulamalı Bilimler Fakültesi Dekanı ve Merkezin faaliyet alanları ile ilgili çalışmaları bulunan Üniversite öğretim elemanları ve/veya mensupları, kamu kurum ve kuruluşları ile özel sektör kuruluşlarındaki kişiler arasından Rektör tarafından üç yıllık süre için görevlendirilen iki üye olmak üzere toplam beş üyeden oluşur.
+(2) Danışma Kurulu, Başkanın çağrısı üzerine yılda en az iki kez salt çoğunlukla toplanır ve kararlar oy çokluğu ile alınır. Gerekli durumlarda Başkan, Danışma Kurulunu olağanüstü olarak toplantıya çağırabilir. İlgili Rektör Yardımcısının Danışma Kurulu toplantılarına katılamadığı durumlarda, Danışma Kuruluna Müdür başkanlık eder.
+(3) Danışma Kurulunun görevi; Merkezin faaliyetleri ile ilgili değerlendirmeler yapmak ve önerilerde bulunmaktır.
