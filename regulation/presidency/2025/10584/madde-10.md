@@ -1,0 +1,4 @@
+Kurul başkan yardımcıları
+MADDE 10- (1) Başkana, başkanlığa ilişkin görevlerinde yardımcı olmak üzere; yükseköğrenim sonrası mali piyasalar, ekonomi, maliye, işletme, sermaye piyasaları, bankacılık veya finans alanında veya bu alanlarla ilgili hukuk dallarında en az on yıl deneyim sahibi olan kişiler arasından, Başkanın önerisi ve Kurul kararıyla beş Kurul başkan yardımcısı atanır. Ancak ana hizmet birimlerinin bağlanacağı Kurul başkan yardımcılarının, birinci cümlede belirtilen sürenin en az üç yılında Kurulda görev yapmış olması şarttır.
+(2) Kurul başkan yardımcıları, Başkan tarafından verilen görevleri yapmak, talimatları yerine getirmek, teşkilat kademeleri ve ilgili hizmet birimleri arasında uyum ve iş birliğini, çalışmanın organizasyon ve koordinasyonunu sağlamakla yükümlüdür.
+(3) Kurul başkan yardımcılıklarına bağlı hizmet birimlerini belirlemek Başkanın yetkisindedir.

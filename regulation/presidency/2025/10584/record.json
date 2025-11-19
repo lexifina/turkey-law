@@ -1,0 +1,26 @@
+{
+  "id": "presidency-regulation-10584",
+  "number": "10584",
+  "kind": "regulation",
+  "issuer": "presidency",
+  "title": "SERMAYE PİYASASI KURULU TEŞKİLAT YÖNETMELİĞİ",
+  "published": "2025-11-19",
+  "enacted": "2025-11-18",
+  "gazette_number": "33082",
+  "in_force": "2025-11-19",
+  "in_force_basis": "Official commencement clause: \"Bu Yönetmelik yayımı tarihinde yürürlüğe girer.\"; Resmî Gazete 2025-11-19, no amendment annotation in this source text.",
+  "history": "current-only",
+  "version_label": "oldest version available",
+  "first_law": null,
+  "source": "https://www.mevzuat.gov.tr/anasayfa/MevzuatFihristDetayIframe?MevzuatNo=10584&MevzuatTur=21&MevzuatTertip=5",
+  "source_sha256": "e8ab0142f9c646f2a9098b31ebd26235f400af610c626925779af6f32cec8b9f",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  },
+  "missing_components": [],
+  "text_layout": "article-files",
+  "source_links": [],
+  "completeness": "html-text-complete"
+}

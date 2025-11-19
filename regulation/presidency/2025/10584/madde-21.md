@@ -1,0 +1,11 @@
+Bağımsız Denetim ve Değerleme Faaliyetleri Dairesi Başkanlığı
+MADDE 21- (1) Kurulun ana hizmet birimlerinden olan Bağımsız Denetim ve Değerleme Faaliyetleri Dairesi Başkanlığının görevleri şunlardır:
+a) 6362 sayılı Kanuna tabi ortaklıklar ile sermaye piyasası kurum ve kuruluşlarının finansal raporlamaları ile ilgili düzenleme ve görüş verme çalışmalarını Türkiye Muhasebe/Finansal Raporlama Standartları kapsamında ilgili daireler ile koordinasyon içerisinde yürütmek.
+b) Uluslararası standartlara uyum için uluslararası düzenlemeleri takip ederek, muhasebe ve denetim ile ilgili yurt içi ve yurt dışı kurumlarla iş birliği faaliyetlerini yürütmek ve ihtiyaç duyulan düzenlemeler için öneri geliştirmek.
+c) Vergi düzenlemelerinin Kurula tabi kurum ve ortaklıkların finansal raporlamaları üzerindeki etkilerini değerlendirerek, gerektiğinde bu konuda görüş ve öneri geliştirilmesine katkı sunmak.
+ç) Sermaye piyasasında faaliyette bulunacak bağımsız denetim, değerleme ve derecelendirme kuruluşlarına ilişkin ilgili kurum ve kuruluşlar ile iş birliği içerisinde gerekli düzenleme önerilerini geliştirmek, söz konusu kuruluşların sermaye piyasasında faaliyette bulunmak üzere yetkilendirilme başvurularını incelemek ve sonuçlandırmak, faaliyetlerinin gözetim ve kalite kontrolünü gerçekleştirmek.
+d) Gayrimenkul değerleme faaliyetine ilişkin ilgili meslek örgütünün çalışmalarının gözetimini yapmak ve bu kapsamda meslek örgütünün hazırladığı mesleki ilke ve standartlar ile statü ve diğer düzenleme ve uygulama önerilerine ilişkin görüş vermek ve gerekli hususları Kurulun onayına sunmak, gerekli yaptırım önerilerini oluşturmak.
+e) Kurula tabi ortaklıkların finansal raporlarının bildirim yükümlülüklerini yerine getirip getirmediğini izlemek ve gerekli yaptırım önerilerini oluşturmak.
+f) Bağımsız denetim kuruluşlarının bilgi sistemleri denetimi için yetkilendirilmeleri hususunda ilave şartları belirlemek ve bu kapsamda yapılacak başvuruları değerlendirmek.
+g) Sermaye piyasası alanına ilişkin lisanslama faaliyeti ile ilgili düzenlemeleri yapmak ve bu alanda faaliyet gösteren kuruluş ve kişilere ilişkin gerekli konuları Kurulun onayına sunmak.
+ğ) Başkan ve/veya bağlı olduğu amir tarafından verilen diğer görevleri yapmak.
