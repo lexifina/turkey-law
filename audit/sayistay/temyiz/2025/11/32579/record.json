@@ -1,0 +1,16 @@
+{
+  "kind": "decision",
+  "issuer": "Sayıştay Temyiz Kurulu",
+  "number": "58655",
+  "decision_date": "2025-11-19",
+  "source_id": 32579,
+  "chamber": "7",
+  "file_number": "54894",
+  "public_body_type": "Yüksek Öğretim Kurumları",
+  "account_year": "2015",
+  "subject": "Vergi Resmi Harç ve Diğer Gelirlerle İlgili Kararlar",
+  "source": "https://www.sayistay.gov.tr/KararlarTemyiz/Detay/32579/",
+  "source_sha256": "9b074fcb072f9eb592f9293edac622c6986f0c256b3873430b6d6a40365901e2",
+  "text_status": "as-enacted",
+  "text_file": "metin.md"
+}
