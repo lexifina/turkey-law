@@ -1,0 +1,20 @@
+{
+  "applicant": "S.C.",
+  "application_date": "2022-03-08",
+  "application_number": "2022/27707",
+  "deciding_unit": "İkinci Bölüm",
+  "decision_date": "2025-11-19",
+  "id": "81c5546b-7991-42b8-9134-ff159d56c722",
+  "in_force": "2025-11-19",
+  "in_force_basis": "official decision date",
+  "kind": "constitutional-court-individual-application",
+  "omitted_images": 0,
+  "outcome": "Esas (İhlal Olmadığı)",
+  "published": null,
+  "referenced_images": 0,
+  "source": "https://kararlarbilgibankasi.anayasa.gov.tr/kbb/pages/search/Tumu?id=a2JiOjgxYzU1NDZiLTc5OTEtNDJiOC05MTM0LWZmMTU5ZDU2YzcyMg&type=BireyselBasvuru",
+  "source_api": "https://kararlarbilgibankasi.anayasa.gov.tr/api/core/public/search",
+  "source_images": 0,
+  "source_sha256": "9f485c9d3878c9d6430616a93a090286d5a5cd0ba19c01206a2736d65473388a",
+  "version_label": "as-enacted"
+}
