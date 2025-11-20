@@ -1,0 +1,22 @@
+{
+  "kind": "norm",
+  "issuer": "Gelir İdaresi Başkanlığı",
+  "document_type": "ozelge",
+  "number": "E-84974990-130[KDV5/KDV1/İ/33/2025]-674738",
+  "source_id": 38940,
+  "date": "2025-11-20",
+  "title": "Yurtiçi ve yurtdışı uçuşlarda uçak içi bağlantı ile verilen internet hizmetinin KDV karşısındaki durumu hk.",
+  "source": "https://gib.gov.tr/mevzuat/kanun/436/ozelge/38940",
+  "related_law": "3065 sayılı KATMA DEĞER VERGİSİ KANUNU",
+  "source_api": "https://gib.gov.tr/api/gibportal/mevzuat/ozelge/list",
+  "source_listing": "evidence/list/2026-11-16/ozelge-p009.json",
+  "source_listing_sha256": "9cb52b4963a9a177a23948f6e28c12936c2f43c88a0b410872bb81c01983667c",
+  "source_sha256": "65b5908411242c4b98f32a8da1ba1f5a4106c647725fb6526dd7c8dc193f986c",
+  "text_status": "as-enacted",
+  "text_file": "metin.md",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  }
+}
