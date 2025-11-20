@@ -1,0 +1,21 @@
+{
+  "record_type": "parliament-written-question",
+  "term": 28,
+  "legislative_year": 4,
+  "esas_no": "7/36819",
+  "submitted": "2025-11-20",
+  "submitted_as": "Başkanlığa geliş tarihi",
+  "mp": "Mustafa YENEROĞLU",
+  "province": "İstanbul",
+  "summary": "Pestisit tespit edilmesi sebebiyle ülkemize iade edilen ihracat ürünlerine ilişkin",
+  "status": "Süresi Geçtikten Sonra Cevaplandı",
+  "status_as_of": "2026-11-16",
+  "official_record": "https://www.tbmm.gov.tr/Denetim/Yazili-Soru-Onergesi-Detay/b3fc6ac0-8485-41c3-96c6-019aa655b96f",
+  "source": "https://tbmm.gov.tr/Denetim/YaziliSoruOnergesiTable",
+  "source_form": "https://tbmm.gov.tr/Denetim/Yazili-Soru-Onergeleri",
+  "source_sha256": "79a5ad565948a657f125aad5fade3fed8b74dd5b57b39b066fdfaee0e9da0bda",
+  "in_force": "2025-11-20",
+  "in_force_basis": "Date the question reached the Speaker (Başkanlığa geliş tarihi) in the official TBMM written-question record; parliamentary oversight record, not law",
+  "history_type": "metadata",
+  "text_status": "metadata-only: question text, addressee and answers are in the linked official record (PDFs on cdn.tbmm.gov.tr); not transcribed here"
+}
