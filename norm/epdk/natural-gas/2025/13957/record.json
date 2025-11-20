@@ -1,0 +1,25 @@
+{
+  "kind": "norm",
+  "issuer": "Enerji Piyasası Düzenleme Kurumu",
+  "market": "natural-gas",
+  "document_type": "board-decision",
+  "number": "13957",
+  "decision_date": "2025-11-20",
+  "title": "Aksa Siirt Batman Doğalgaz Dağıtım Anonim Şirketi’nin 2022-2026 yılları arası perakende satış tarifelerine yönelik",
+  "resmi_gazete_date": "2025-11-22",
+  "resmi_gazete_number": "33085",
+  "categories": [
+    "Şirket Bazında Kararlar"
+  ],
+  "source": "https://www.epdk.gov.tr/Detay/DownloadDocument?id=YUlM1UjZrKM=",
+  "documents": [
+    "https://www.epdk.gov.tr/Detay/DownloadDocument?id=YUlM1UjZrKM="
+  ],
+  "source_sha256": "d11c5b46f6e169109cceaf00a0fd26c70aa78e27a8b3733229819c0d072aac19",
+  "official_list": "https://www.epdk.gov.tr/Detay/Icerik/3-0-19/kurul-kararlari",
+  "official_list_leaf": 7236,
+  "text_status": "as-enacted",
+  "text_file": "metin.md",
+  "in_force": "2025-11-20",
+  "law_text_complete": true
+}
