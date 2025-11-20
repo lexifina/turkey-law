@@ -1,0 +1,43 @@
+{
+  "source_id": "7.5.11111",
+  "kind": "regulation",
+  "register_kind": "Kurum ve Kuruluş Yönetmelikleri",
+  "title": "SÖZLEŞMELİ SAĞLIK PERSONELİ DİSİPLİN İLE DİSİPLİN KURULLARI HAKKINDA YÖNETMELİK",
+  "number": "11111",
+  "issuer": "Sağlık Bakanı",
+  "issuer_slug": "saglik-bakani",
+  "path": "regulation/saglik-bakani/2004/11111",
+  "source": "https://www.mevzuat.gov.tr/anasayfa/MevzuatFihristDetayIframe?MevzuatTur=7&MevzuatNo=11111&MevzuatTertip=5",
+  "source_sha256": "000ac49469fe5dfb27a0b9603a786c4655bd125fb1e86319d05fbc6d41790fa6",
+  "source_bytes": 22360,
+  "published": "2004-04-27",
+  "gazette": "25445",
+  "in_force": "2025-11-20",
+  "in_force_basis": "latest Resmî Gazete date printed in the source amendment notes/table (\"RG-20/11/2025\") for the current consolidated text",
+  "date_evidence": [
+    [
+      "2025-11-20",
+      "RG-20/11/2025",
+      "Resmî Gazete date printed in the source amendment note"
+    ],
+    [
+      "2025-11-20",
+      "20/11/2025",
+      "Resmî Gazete date in the source amendment table"
+    ]
+  ],
+  "commencement_clauses": [
+    "Bu Yönetmelik yayımı tarihinde yürürlüğe girer"
+  ],
+  "history": "current-text",
+  "label": "oldest version available",
+  "checked_on": "2026-11-15",
+  "word_count": 558,
+  "text_status": "current-consolidated",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  },
+  "completeness": "html-text-complete"
+}
