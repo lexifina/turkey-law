@@ -1,0 +1,17 @@
+{
+  "kind": "decision",
+  "issuer": "Sayıştay 1. Dairesi",
+  "number": "10970",
+  "decision_date": "2025-11-20",
+  "source_id": 39985,
+  "chamber": "1",
+  "ilam_number": "99",
+  "item_number": 1,
+  "public_body_type": "Yüksek Öğretim Kurumları",
+  "account_year": 2022,
+  "subject": "Personel Mevzuatı ile İlgili Kararlar",
+  "source": "https://www.sayistay.gov.tr/KararlarDaire/Detay/39985/",
+  "source_sha256": "8273b9b7484edf669b4f6580a6c1049d87c0f1aa740c73523635c9c0829c3fcd",
+  "text_status": "as-enacted",
+  "text_file": "metin.md"
+}
