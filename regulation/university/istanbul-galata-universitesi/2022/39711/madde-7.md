@@ -1,0 +1,2 @@
+Yatay geçiş
+MADDE 7- (1) Fakülteye yatay geçiş başvuruları, 24/4/2010 tarihli ve 27561 sayılı Resmî Gazete’de yayımlanan Yükseköğretim Kurumlarında Önlisans ve Lisans Düzeyindeki Programlar Arasında Geçiş, Çift Anadal, Yan Dal ile Kurumlar Arası Kredi Transferi Yapılması Esaslarına İlişkin Yönetmelik ve ilgili diğer mevzuat hükümlerine göre yapılır. Yatay geçişler sadece güz yarıyılı başında gerçekleştirilir. Yatay geçişe ve ders muafiyetine Fakülte Yönetim Kurulu karar verir. Bu öğrencilerin eğitim programına intibakları Fakülte Yönetim Kurulunca yapılır.

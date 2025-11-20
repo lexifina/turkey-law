@@ -1,0 +1,32 @@
+{
+  "checked_on": "2026-11-14",
+  "commencement_quotes": [
+    "Yürürlük\nMADDE 34- (1) Bu Yönetmelik yayımı tarihinde yürürlüğe girer.\n"
+  ],
+  "completeness": "text",
+  "date_quote": "amendment Gazette table: 20/11/2025",
+  "first_law": null,
+  "gazette": "31951",
+  "images": {
+    "deferred": 0,
+    "omitted": 0,
+    "referenced": 0,
+    "source": 0
+  },
+  "in_force": "2025-11-20",
+  "in_force_basis": "latest amendment Gazette date printed by the source for its current consolidated text",
+  "issuer": "İstanbul Galata Üniversitesi",
+  "kind": "regulation",
+  "notes": [],
+  "published": "2022-09-12",
+  "source": "https://www.mevzuat.gov.tr/anasayfa/MevzuatFihristDetayIframe?MevzuatTur=8&MevzuatNo=39711&MevzuatTertip=5",
+  "source_bytes": 128641,
+  "source_id": "8.5.39711",
+  "source_sha256": "97a71bafa8f48e57ddb435b79d2abc72306a3c1e0a8c33e464a62251e30a3dba",
+  "structure": "article-files",
+  "text_status": "current-consolidated",
+  "title": "İSTANBUL GALATA ÜNİVERSİTESİ DİŞ HEKİMLİĞİ FAKÜLTESİ EĞİTİM-ÖĞRETİM VE SINAV YÖNETMELİĞİ",
+  "university_id": 1706,
+  "version_label": "oldest version available",
+  "word_count": 4204
+}
