@@ -1,0 +1,17 @@
+{
+  "kind": "decision",
+  "issuer": "Sayıştay 1. Dairesi",
+  "number": "10968",
+  "decision_date": "2025-11-20",
+  "source_id": 39978,
+  "chamber": "1",
+  "ilam_number": "452",
+  "item_number": 1,
+  "public_body_type": "Yüksek Öğretim Kurumları",
+  "account_year": 2015,
+  "subject": "Personel Mevzuatı ile İlgili Kararlar",
+  "source": "https://www.sayistay.gov.tr/KararlarDaire/Detay/39978/",
+  "source_sha256": "173424b30ff2ee3c7cfacaccb3d9cf9f80d440cd5b4ee7b7f0293474ae94eb17",
+  "text_status": "metadata-only",
+  "metadata_only_reason": "possible personal name in the official text"
+}
