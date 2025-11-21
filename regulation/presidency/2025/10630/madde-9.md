@@ -1,0 +1,12 @@
+Kurum dışında görevlendirme ve sona ermesi
+MADDE 9- (1) Personel, Sistem üzerinden yapacağı başvuru ve talep üzerine; görev ve hizmete ihtiyaç duyan diğer kamu kurum ve kuruluşlarında ya da dernek veya vakıflarda, Cumhurbaşkanlığınca görevlendirilebilir.
+(2) Bu madde kapsamındaki görevlendirmelerde;
+a) Personelin kadro veya pozisyonunun bulunduğu kurumun muvafakati aranmaz.
+b) Görevlendirme süresi bir yılı geçemez.
+c) Personelin yapacağı görev ve hizmetler ile görevlendirme süresi ayrıca belirtilir.
+ç) Otuz günü aşmayan görevlendirmelerin, personelin kadro veya pozisyonunun bulunduğu yerde yapılması esastır.
+(3) Bu madde kapsamında yapılacak görevlendirmeler, ilgililerine Sistem üzerinden bildirilir.
+(4) Kurumu dışında görevlendirilen personelin ayrılış işlemleri, kadro veya pozisyonunun bulunduğu kurum tarafından, görevlendirme tarihini müteakip en geç üç gün içinde gerçekleştirilir. Aynı ilde görevlendirilen personel, ayrılış gününü izleyen iş günü içinde, başka ilde görevlendirilen personel ise ayrılış gününü müteakip en geç on beş gün içinde görevlendirildiği diğer kamu kurum ve kuruluşu ya da dernek veya vakıflarda göreve başlamak zorundadır. İlgili diğer kamu kurum ve kuruluşu ya da dernek veya vakıflar, personelin göreve başladığı tarihi Sistem üzerinden bildirir.
+(5) Bu madde kapsamında görevlendirilen ve görevlendirme süresi sona eren personel, aynı usul ve esaslarla yeniden görevlendirilebilir.
+(6) Bu maddeye göre yapılan görevlendirme süresi sona ermeden önce görevlendirme; personelin veya personelin görevlendirildiği ilgili diğer kamu kurum ve kuruluşu ya da dernek veya vakıfların Sistem üzerinden yapacakları talep üzerine veya resen, Cumhurbaşkanlığınca sona erdirilebilir. Görevlendirmenin sona erdirilmesine ilişkin taleplerde, bunun gerekçesine de yer verilir. Cumhurbaşkanlığınca gerek talep üzerine gerekse resen yapılan görevlendirmenin sona erdirilmesi durumu, ilgililerine Sistem üzerinden bildirilir.
+(7) Görevlendirme süresinin sona ermesi veya altıncı fıkra kapsamında görevlendirmenin herhangi bir şekilde sonlanması hâlinde, görevlendirmenin sona erdiği Sistem üzerinden ilgililerine bildirilir. Bu bildirimin yapıldığı tarihi müteakip üç gün içinde personelin ayrılış işlemleri gerçekleştirilir. Görevlendirilmesi sona eren personel, ayrılış tarihini müteakip dördüncü fıkrada belirtilen süreler içine kadro veya pozisyonunun bulunduğu kuruma döner ve kurumu personelin göreve başladığı tarihi Sistem üzerinden bildirir.

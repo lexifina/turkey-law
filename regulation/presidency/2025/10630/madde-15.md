@@ -1,0 +1,6 @@
+Görevlendirmenin izlenmesi, yönlendirilmesi ve raporlama
+MADDE 15- (1) Personelin 8 inci madde kapsamında kendi kurumu bünyesinde görevlendirilmesi hâlinde;
+a) Personelin yürüttüğü görev ve hizmetler kendi kurumunca izlenir ve gerekli yönlendirmeler yapılır.
+b) Personelin yürüttüğü görev ve hizmetlere ilişkin kurumu tarafından yılda bir rapor düzenlenerek Sistem üzerinden Cumhurbaşkanlığına iletilir.
+(2) Personelin 9 uncu madde kapsamında diğer kamu kurum ve kuruluşları ya da dernek veya vakıflara görevlendirilmesi hâlinde; görevlendirme yapılan kamu kurum ve kuruluşu ya da dernek veya vakıf tarafından, görevlendirilen personele ve görevlendirmeye ilişkin değerlendirmeler raporlaştırılarak, görevlendirmenin devam ettiği süre boyunca en geç altı ayda bir ve her halükârda görevlendirmenin herhangi bir nedenle sonra ermesi hâlinde en geç on gün içinde Sistem üzerinden Cumhurbaşkanlığına iletilir.
+(3) Cumhurbaşkanlığına iletilen raporlar; mevcut görevlendirmelerin durumu, görev süresi sona erenlerin yeniden görevlendirilmeleri, yeni başvuru ve taleplere ilişkin hususlar ile personelin yürüttüğü görev ve hizmetlerden etkili, ekonomik ve verimli bir şekilde yararlanılıp yararlanılamadığına dair hususların tespitinde dikkate alınır.

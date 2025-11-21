@@ -1,0 +1,2 @@
+Sistem üzerinden başvuru ve talep ile görüş verme yetkisi
+MADDE 14- (1) Kamu kurum ve kuruluşları ile dernek ve vakıflar tarafından Sistem üzerinden başvuru ve talepte bulunulması, görüş verilmesi ve varsa diğer hususlara ilişkin değerlendirme yapılmasına dair işlemler; bakanlıklarda bakan, diğer kamu kurum ve kuruluşları ile dernek ve vakıflarda en üst yöneticiler tarafından gerçekleştirilir, bakan veya en üst yönetici bu yetkisini alt kademelere devredebilir.

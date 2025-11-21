@@ -1,0 +1,4 @@
+Sistemin paylaşımı ve Sisteme erişim
+MADDE 6- (1) Sistem, görevlendirmeye ilişkin başvuru ve talepte bulunulması ile sürece ait diğer iş ve işlemlerin takip edilebilmesi amacıyla, kamu kurum ve kuruluşları, dernek ve vakıflar ile personelin erişimine açılabilir ve bunların Sisteme erişim alanları, Sistemde yer alan verilerden hangilerine ulaşabilecekleri, kullanım kriterleri ve benzeri diğer hususlar Cumhurbaşkanlığınca belirlenir.
+(2) Kamu kurum ve kuruluşları, dernek ve vakıflar ile personel ve Sistem üzerinden başvuru yapan ve ilgili verilere erişimi olan kişiler, öğrendikleri kişisel verileri bu Yönetmelik hükümlerine aykırı olarak başkasına açıklayamaz ve amacı dışında kullanamazlar.
+(3) Kamu kurum ve kuruluşları, dernek ve vakıflar ile personel, bu Yönetmelik kapsamında görevlendirmeye ilişkin başvuru ve taleplerini, Sistemle entegrasyonunun sağlanması hâlinde, e-Devlet üzerinden veya diğer yollarla da yapabilir.

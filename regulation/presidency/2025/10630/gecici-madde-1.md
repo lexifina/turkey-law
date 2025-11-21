@@ -1,0 +1,2 @@
+Mevcut personele ilişkin veri girişi
+GEÇİCİ MADDE 1- (1) Bu Yönetmeliğin yürürlüğe girdiği tarih itibarıyla 375 sayılı Kanun Hükmünde Kararnamenin mülga ek 18 inci, ek 35 inci, ek 37 nci ve geçici 33 üncü maddeleri kapsamında atanmış oldukları bakanlık müşaviri, müşavir, danışman, idari uzman ve araştırmacı kadro ve pozisyonunda bulunan personele ilişkin veriler, personelin kadro veya pozisyonunun bulunduğu kurum tarafından, bu Yönetmeliğin yürürlüğe girdiği tarihten itibaren en geç üç ay içinde Sisteme girilir.
