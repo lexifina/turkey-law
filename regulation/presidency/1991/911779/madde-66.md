@@ -1,0 +1,8 @@
+Silah ve cephanenin muhafaza, kullanılması ve bildirilmesi
+Madde 66 – Bu Yönetmelik hükümlerine göre temin edilen silah ve mermiler özel depolarda muhafaza edilir. Muhafaza edilecek silah ve mermi adedi az ise; içleri uygun bir malzeme ile ateşe dayanıklı hale getirilmiş, çelikten yapılmış, özel ve sabit demir kuşaklı ve takviyeli, kilitli çelik dolap veya sandıklar kullanılabilir. Silah ve mermi miktarının çok olması halinde ise, kapı ve pencereleri kolay açılamayacak şekilde, demir parmaklıkla takviye edilmiş depoda muhafaza edilir.
+(Değişik ikinci fıkra:RG-11/9/2021-31595-CK-4503/16 md.) Poligonların, bu Yönetmelikte belirtilen hükümlere uyup uymadıkları ve gerekli güvenlik tedbirlerini alıp almadıkları, Bakanlıkça denetlenir. Denetlemeye ilişkin usul ve esaslar Bakanlıkça belirlenir.
+Atış alanı veya poligonundaki silah ve mermiler aşağıdaki esaslara uygun olarak kullanılır.
+a) İthaline veya iç piyasadan teminine izin verilerek, atış poligonlarında muhafaza altına alınan cephane, bu poligonlarda atış maksadıyla kullanılır.
+b) Kurulan atış poligonlarında, 18 yaşını ikmal etmiş herkes, silah ruhsatı olup olmadığına bakılmaksızın atış yapabilir.
+c) 18 yaşını ikmal etmemiş kişiler, yanlarında veli veya vasileri bulunmak suretiyle atış poligonlarından yararlanabilirler.
+d) (Değişik:RG-11/9/2021-31595-CK-4503/16 md.) Atış poligonlarında atış yapmak üzere gelen kişilere ait silah, ruhsat ve kimlik bilgileri, yapılan atışlarda kullanılan silah ve mühimmat kullanımı ile poligona satın alınan mühimmat miktarı, merkezi kayıt sistemine atış poligonu sahibi ya da yöneticileri veya mesul müdürleri tarafından aynı gün içerisinde kaydedilir. Bu kayıt aynı zamanda bildirim sayılır.

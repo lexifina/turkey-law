@@ -1,0 +1,121 @@
+{
+  "id": "presidency-regulation-911779",
+  "number": "911779",
+  "kind": "regulation",
+  "issuer": "presidency",
+  "title": "ATEŞLİ SİLAHLAR VE BIÇAKLAR İLE DİĞER ALETLER HAKKINDA YÖNETMELİK",
+  "published": "1991-06-01",
+  "enacted": "1991-03-31",
+  "gazette_number": "20888",
+  "in_force": "2025-11-21",
+  "in_force_basis": "Latest source commencement-table date: 2025-11-21; official source: 20/11/2025 | 10629 | 13 | 21/11/2025",
+  "history": "current-only",
+  "version_label": "oldest version available",
+  "first_law": null,
+  "source": "https://www.mevzuat.gov.tr/anasayfa/MevzuatFihristDetayIframe?MevzuatNo=911779&MevzuatTur=21&MevzuatTertip=5",
+  "source_sha256": "f7c5bc6797685645368721b80d0c7415a4413380dccecc3db568a63437be3484",
+  "source_links": [],
+  "missing_components": [],
+  "date_anomalies": [],
+  "images": {
+    "source": 9,
+    "referenced": 0,
+    "omitted": 9
+  },
+  "images_complete": false,
+  "image_inventory": [],
+  "images_omitted": [
+    {
+      "source_ref": "https://www.mevzuat.gov.tr/anasayfa/21.5.911779_dosyalar/image001.jpg",
+      "description": "Official embedded image 1 (source supplies no caption)",
+      "reason": "not extractable",
+      "normative": true,
+      "position": 1,
+      "failure": "Exact source image URL returns an HTML page instead of image bytes",
+      "response_sha256": "f9a2f21d930e95958e256e5817aec444704a544e767eb49791cc168b21182559",
+      "response_bytes": 64854
+    },
+    {
+      "source_ref": "https://www.mevzuat.gov.tr/anasayfa/21.5.911779_dosyalar/image002.jpg",
+      "description": "Official embedded image 2 (source supplies no caption)",
+      "reason": "not extractable",
+      "normative": true,
+      "position": 2,
+      "failure": "Exact source image URL returns an HTML page instead of image bytes",
+      "response_sha256": "8043e01a27bb28a3b2ce7d71b67307cad7a76d205edaa5f37239c326d02e903e",
+      "response_bytes": 64854
+    },
+    {
+      "source_ref": "https://www.mevzuat.gov.tr/anasayfa/21.5.911779_dosyalar/image003.gif",
+      "description": "Yuvarlatılmış Dikdörtgen: Fotoğraf ve \r Mühür\r ",
+      "reason": "not extractable",
+      "normative": true,
+      "position": 3,
+      "failure": "Exact source image URL returns an HTML page instead of image bytes",
+      "response_sha256": "3d91ccb0d84dfa77dd223227c3a56327ad980bc8009d5b3b8a67e4bbec311505",
+      "response_bytes": 64854
+    },
+    {
+      "source_ref": "https://www.mevzuat.gov.tr/anasayfa/21.5.911779_dosyalar/image004.jpg",
+      "description": "Official embedded image 4 (source supplies no caption)",
+      "reason": "not extractable",
+      "normative": true,
+      "position": 4,
+      "failure": "Exact source image URL returns an HTML page instead of image bytes",
+      "response_sha256": "489bd6897086beca110dcf75d246ee9474d68b1697e75bcb94a0f6c422b628a6",
+      "response_bytes": 64854
+    },
+    {
+      "source_ref": "https://www.mevzuat.gov.tr/anasayfa/21.5.911779_dosyalar/image005.jpg",
+      "description": "Official embedded image 5 (source supplies no caption)",
+      "reason": "not extractable",
+      "normative": true,
+      "position": 5,
+      "failure": "Exact source image URL returns an HTML page instead of image bytes",
+      "response_sha256": "7841bbf8de5dbc33ce44ef8041ac675594812990030abdae43d8d8191abe5578",
+      "response_bytes": 64854
+    },
+    {
+      "source_ref": "https://www.mevzuat.gov.tr/anasayfa/21.5.911779_dosyalar/image006.jpg",
+      "description": "Official embedded image 6 (source supplies no caption)",
+      "reason": "not extractable",
+      "normative": true,
+      "position": 6,
+      "failure": "Exact source image URL returns an HTML page instead of image bytes",
+      "response_sha256": "e7bea8da36102873169c48be09edce7502a5542a6f579c0d1d8b151e1db46878",
+      "response_bytes": 64854
+    },
+    {
+      "source_ref": "https://www.mevzuat.gov.tr/anasayfa/21.5.911779_dosyalar/image007.jpg",
+      "description": "Official embedded image 7 (source supplies no caption)",
+      "reason": "not extractable",
+      "normative": true,
+      "position": 7,
+      "failure": "Exact source image URL returns an HTML page instead of image bytes",
+      "response_sha256": "a445cc4dcfceb81572a3d7622858b37181b98dc109573589bf59fce66f3b4f9d",
+      "response_bytes": 64854
+    },
+    {
+      "source_ref": "https://www.mevzuat.gov.tr/anasayfa/21.5.911779_dosyalar/image008.jpg",
+      "description": "Official embedded image 8 (source supplies no caption)",
+      "reason": "not extractable",
+      "normative": true,
+      "position": 8,
+      "failure": "Exact source image URL returns an HTML page instead of image bytes",
+      "response_sha256": "810e037d829db8a6877ff6cc3f8a795a87483cd23f30864ce7b38d8e859194ae",
+      "response_bytes": 64854
+    },
+    {
+      "source_ref": "https://www.mevzuat.gov.tr/anasayfa/21.5.911779_dosyalar/image009.jpg",
+      "description": "Official embedded image 9 (source supplies no caption)",
+      "reason": "not extractable",
+      "normative": true,
+      "position": 9,
+      "failure": "Exact source image URL returns an HTML page instead of image bytes",
+      "response_sha256": "2c376606e8d353163c1b793befd4b08a7a4df353dcf16c353ddc6749efc649f4",
+      "response_bytes": 64854
+    }
+  ],
+  "completeness": "pending-images",
+  "text_layout": "article-files"
+}

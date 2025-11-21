@@ -1,0 +1,4 @@
+Kamu görevlilerine verilecek taşıma ruhsatlarına ilişkin esaslar
+Madde 6 – (Değişik: 13/1/1992 - 92/2635 K.)
+Özel kanunlarına göre her yerde ve her zaman silah taşımalarına izin verilen kamu görevlilerinin edindikleri zati silahlarına, istekleri halinde ayrı ayrı taşıma ruhsatı verilir, bu kişilerden ruhsat harcı alınmaz.
+(Değişik fıkra: 2/12/1999 - 99/13749 K.) Kanunun 7 nci maddesinin birinci fıkrasının (1), (2), (3) ve (4) numaralı bentleri kapsamında olup, kanuni sınırlar içinde her yerde ve her zaman silah taşıma yetkisine sahip bulunanların, mevzuata uygun olarak edindikleri zati silahları kimlik belgesine işlenir. Kimlik belgesinde silah kaydına ait kısım yok ise, zati silahları için harçsız silah taşıma ruhsatı düzenlenir. Üzerine silah kaydı yapılan kimlik belgeleri silah taşıma ruhsatı yerine geçer.

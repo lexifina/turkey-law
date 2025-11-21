@@ -1,0 +1,2 @@
+Geçici Madde 3- (Ek: 17/7/2017 - 2017/10643 K.)
+Bu maddenin yürürlüğe girdiği tarihte kuruluş veya işletme izni almış olan poligonların bir yıl içerisinde 61 inci maddenin birinci fıkrasının (a) bendinin (4) numaralı alt bendinde yer alan projeleri Bakanlığa iletmeleri halinde söz konusu izinleri devam eder. Projesini bir yıl içerisinde iletmeyen poligonların faaliyetleri projesini teslim edinceye kadar durdurulur.

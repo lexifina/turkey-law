@@ -1,0 +1,2 @@
+Spor silahları ve aksamı ile mermileri
+Madde 43 – Gençlik ve Spor Genel Müdürlüğünce düzenlenecek atıcılık yarışmalarına katılmak üzere yurda gelen yabancı sporcuların beraberlerinde getirmek şartıyla, katılacakları atıcılık yarışmasının her branşı için en çok 3 nişan tüfek veya tabancası ile aksamının ve bu silahlara ait olmak kaydı ile her silah için en çok 500 adet merminin yurda geçici olarak sokulmasında ve yurt içinde naklinde 42 nci madde hükümleri uygulanır.

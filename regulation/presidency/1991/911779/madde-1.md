@@ -1,0 +1,6 @@
+BİRİNCİ BÖLÜM
+Amaç, Kapsam ve Tanımlar
+Amaç ve kapsam
+Madde 1 – (Değişik: 2/12/1999 - 99/13749 K.)
+Bu Yönetmeliğin amacı, 6136 sayılı Ateşli Silahlar ve Bıçaklar ile Diğer Aletler Hakkında Kanun kapsamında bulunan her türlü ateşli silahlarla mermilerinin ve bıçaklarla salt saldırı ve savunmada kullanılmak üzere özel olarak yapılmış bulunan diğer aletlerin memlekete sokulması, yapılması, satılması, satın alınması, taşınması veya bulundurulmasına ilişkin usul ve esasları düzenlemektir.
+Bu Yönetmelik, Kanun kapsamındaki silahlarla ilgili ruhsatların düzenlenmesini, yenilenmesini, gerektiğinde geri alınmasını veya iptalini, bağış, satış veya veraseten intikal yolu ile el değiştirmesini, ruhsata bağlanan silahların kayıt ve tescilini, bıçak ve diğer aletler ile benzerlerinin yapım, kullanım ve naklini, armağan, hatıra ve antika silahların neler olduğunu, silah ve mermi edinilmesini, silahların yurdumuza daimi ya da geçici olarak ithal edilmesini, trap-skeet atış alanı ile tabanca ve tüfek atış poligonu açılmasını ve bunların denetlenmesini, ateşli silahlar için tamir yeri açılmasını, yivli ve yivsiz av ve spor silahları ile aksamlarının ve bunlara ait mermilerinin yurda sokulması esaslarını, bunlarla ilgili izin, kayıt ve tescil işlemlerini kapsar.

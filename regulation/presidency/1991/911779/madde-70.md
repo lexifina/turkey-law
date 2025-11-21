@@ -1,0 +1,6 @@
+Silahlarda yapılacak tamir ve değişiklikler
+Madde 70 – (Değişik: 16/11/1992 - 92/3721 K.)
+Ruhsatlı silahlara sahip olanlar, aşağıda belirtilen şartlar çerçevesinde bu silahlarını tamir ettirebilirler.
+a) (Değişik: 2/12/1999 - 99/13749 K.)
+Ruhsata bağlanarak tescil edilmiş tabanca, yivli ve yivsiz tüfekler üzerinde yapılacak basit tamirat, boyama, işleme ve dürbün montajı gibi işlemler izne tabi değildir. Ancak tabanca ve yivli tüfeklerin ana ve balistik önemi haiz parçaları olan namlu, sürgü, çerçeve, çıkarıcı, tırnak ateşleme iğnesi ve mekanizma başı üzerinde yapılması istenilen tamir veya tadilat için, silah tamir yeri açma ruhsatı bulunan tamirci tarafından bu hususla ilgili düzenlenmiş raporla birlikte valiliğe müracaat edilir. Valilik bu müracaatı silahla birlikte ilgili Kriminal Polis/Jandarma Laboratuvarına gönderir. Buradan alınacak rapora istinaden valilikçe tamir veya tadilat izni verilebilir.
+b) (Değişik: 25/10/2000 - 2000/1550 K.) Silahların parça değişikliği gerektiren tamiratlarında yukarıdaki bentte belirtildiği şekilde sözkonusu silahlara ait ana parçaların yurt dışından temini Bakanlığın iznine tabidir. Seri numarasının bulunduğu ana parçalar üzerinde yapılması gerekli görülen değişiklik, kayıtlı bulunan seri numarası değiştirilen yeni parça üzerine ilgili Kriminal Polis Laboratuarında işlenerek kayıtlara geçmesi sağlanır.

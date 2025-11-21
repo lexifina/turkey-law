@@ -1,0 +1,11 @@
+Satın alınabilecek silah ve mermi miktarı
+Madde 24 – (Değişik: 2/12/1999 - 99/13749 K.)
+(Değişik: 1/5/2002 -2002/4158 K.) Valilerce, taşıma veya bulundurma amacıyla ruhsata bağlanmak üzere silah satın alma izni verilen gerçek kişilerle kurum, kuruluş veya işyeri demirbaşına kayıt edilecek her silah için, yıllık en fazla ikiyüz adet mermi satın alınabilir.
+Türkiye Cumhuriyeti Merkez Bankası grup nakli görevlileri ile kurum ve kuruluşların silah taşıması uygun görülen personeli için satın alınacak tabanca ve mermi miktarı Bakanlıkça tespit olunur.
+Silah taşıma ve bulundurma ruhsatına sahip olanların mermi ihtiyaçları, Makina ve Kimya Endüstrisi (MKE) Kurumu'ndan veya usulüne uygun olarak yurt dışında ithal edilmek suretiyle karşılanır.
+(Değişik fıkra: 17/7/2017 - 2017/10643 K.) İhtiyaç sahiplerinin valiliklere yapacakları yazılı başvuru üzerine, taşıma veya bulundurma ruhsatlı ya da kurum, kuruluş veya işyeri demirbaşına kayıtlı silahlar için her yıl en fazla ikiyüz adet mermi satın alma izni verilir. Bu miktar İçişleri Bakanı tarafından beş katına kadar arttırılabilir.
+Yurt dışından ithal edilen mermilerin satışı aşağıdaki şekilde yapılır.
+a) (Değişik: 1/5/2002 -2002/4158 K.) Yetki verilen kamu kurum ve kuruluşa bağlı baş bayii ve bayiiler, ithal edilen mermileri taşıma veye bulundurma ruhsatlı silahlar için her yıl en fazla ikiyüz adet olmak üzere satabilirler.
+b) Bu Yönetmelik hükümlerine uygun olarak kurulan ve işletme izni verilen atışalanı veya atış poligonu sahipleri, işletmelerinin mermi ihtiyaçlarını, 65 inci maddeye göre tespit edilen miktarlarla sınırlı olmak üzere, Makina ve Kimya Endüstrisi Kurumu tarafından üretilen veya Savunma Sanayii Müsteşarlığı tarafından ithal edilen veya bir kamu kuruluşuna ithal ettirilen mermilerden karşılarlar.
+Mermi satın alma izni için (Ek-14)'teki Mermi Satın Alma Belgesi düzenlenir. Hak sahipleri, mermi satışı yapan müesseselere bizzat başvurmak ve taşıma veya bulundurma yetkisini belgeleyen kimlik kartlarını ve belgelerini ibraz etmek zorundadırlar.
+Yetkili kamu kuruluşu adına satış yapan yetkili satıcılar, sattıkları mermi miktarını ve kimlere sattıklarını aylık listeler halinde bağlı oldukları il valiliklerine bildirmek zorundadır. Usulüne uygun şekilde mermi satışı yapmadığı tespit edilen yetkili satıcıların ruhsatları iptal edilir ve bunlara bir daha ruhsat verilmez.

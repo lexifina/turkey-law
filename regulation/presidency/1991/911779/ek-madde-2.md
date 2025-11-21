@@ -1,0 +1,2 @@
+Ek Madde 2 – (Ek: 16/11/1992 - 92/3721 K.; Değişik: 2/12/1999 - 99/13749 K.)
+Valiler, 7 nci ve Ek-1 inci maddelerde belirtilenler hariç olmak üzere, bu Yönetmelik hükümlerine göre haiz oldukları yetkilerini, gerekli gördükleri takdirde, kısmen veya tamamen vali yardımcılarına ya da kaymakamlara yazılı olarak devredebilirler. Yetki devrinde, ilçe polis ve/veya jandarma teşkilatlarının bu hizmetler için yeterli birim veya personele sahip olmaları dikkate alınır.[42]
