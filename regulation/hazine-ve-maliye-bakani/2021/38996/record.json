@@ -1,0 +1,63 @@
+{
+  "source_id": "7.5.38996",
+  "kind": "regulation",
+  "register_kind": "Kurum ve Kuruluş Yönetmelikleri",
+  "title": "1567 SAYILI TÜRK PARASININ KIYMETİNİ KORUMA HAKKINDA KANUN KAPSAMINDA ALINACAK ÜCRETLERE İLİŞKİN YÖNETMELİK",
+  "number": "38996",
+  "issuer": "Hazine ve Maliye Bakanı",
+  "issuer_slug": "hazine-ve-maliye-bakani",
+  "path": "regulation/hazine-ve-maliye-bakani/2021/38996",
+  "source": "https://www.mevzuat.gov.tr/anasayfa/MevzuatFihristDetayIframe?MevzuatTur=7&MevzuatNo=38996&MevzuatTertip=5",
+  "source_sha256": "a1f995f9bc00f3aa1d57ff12c7d6de9b9719b29ea730c097f66ea482d51d064e",
+  "source_bytes": 41637,
+  "published": "2021-10-12",
+  "gazette": "31626",
+  "in_force": "2025-11-22",
+  "in_force_basis": "latest Resmî Gazete date printed in the source amendment notes/table (\"RG-22/11/2025\") for the current consolidated text",
+  "date_evidence": [
+    [
+      "2025-11-22",
+      "RG-22/11/2025",
+      "Resmî Gazete date printed in the source amendment note"
+    ],
+    [
+      "2025-11-22",
+      "22/11/2025",
+      "Resmî Gazete date in the source amendment table"
+    ],
+    [
+      "2024-05-25",
+      "RG-25/5/2024",
+      "Resmî Gazete date printed in the source amendment note"
+    ],
+    [
+      "2024-05-25",
+      "25/5/2024",
+      "Resmî Gazete date in the source amendment table"
+    ],
+    [
+      "2023-02-23",
+      "RG-23/2/2023",
+      "Resmî Gazete date printed in the source amendment note"
+    ],
+    [
+      "2023-02-23",
+      "23/2/2023",
+      "Resmî Gazete date in the source amendment table"
+    ]
+  ],
+  "commencement_clauses": [
+    "Bu Yönetmelik yayımı tarihinde yürürlüğe girer"
+  ],
+  "history": "current-text",
+  "label": "oldest version available",
+  "checked_on": "2026-11-15",
+  "word_count": 2000,
+  "text_status": "current-consolidated",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  },
+  "completeness": "html-text-complete"
+}
