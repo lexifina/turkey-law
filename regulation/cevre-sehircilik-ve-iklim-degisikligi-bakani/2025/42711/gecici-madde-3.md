@@ -1,0 +1,2 @@
+12/12/2024 tarihinden önce riskli yapı şerhi bulunan parsellerdeki plan değişiklikleri
+GEÇİCİ MADDE 3- (1) 12/12/2024 tarihinden önce; üzerinde riskli yapı şerhi bulunan taşınmazlar için plan onama yetkisini haiz idarelere başvuru yapılarak resmî kayıt numarası almış uygulama imar planı değişikliği başvurularında; riskli yapının meri imar planı ve plan notları ile verilmiş emsale esas inşaat alanının bir buçuk katına kadar artan kısmına ilişkin plan değişikliklerinden değer artış payı alınmaz.

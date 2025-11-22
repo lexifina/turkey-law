@@ -1,0 +1,13 @@
+Tanımlar
+MADDE 4- (1) Bu Yönetmelikte geçen;
+a) Bakanlık: Çevre, Şehircilik ve İklim Değişikliği Bakanlığını,
+b) Değer artışı: Plan değişikliğine konu alanın, plan ve plan notlarıyla belirlenen fonksiyon ve yapılaşma koşullarının; uygulama imar planı değişikliği öncesi tespit edilen değeri ile uygulama imar planı değişikliği sonrası tespit edilen değeri arasındaki farkı,
+c) Değer artış payı: Plan değişikliğine konu alanın, plan ve plan notlarıyla belirlenen fonksiyon ve yapılaşma koşullarının; uygulama imar planı değişikliği öncesi tespit edilen değeri ile uygulama imar planı değişikliği sonrası tespit edilen değeri arasındaki artışın %90’ını,
+ç) Değer artış payı (DAP) sistemi: Coğrafi Bilgi Sistemleri Genel Müdürlüğü tarafından kurulan, e-Plan Otomasyon Sistemlerine entegre olarak çalışan, değer artış payına ilişkin süreçlerin yürütüldüğü sistemi,
+d) Değerleme raporu: 6/12/2012 tarihli ve 6362 sayılı Sermaye Piyasası Kanununa göre yetkilendirilmiş lisanslı gayrimenkul değerleme kuruluşu tarafından, değer artış payının tespiti için kullanılmak üzere hazırlanan taşınmaz değerini gösterir raporu,
+e) Değerleme raporu bedeli: Plan değişikliği teklifi sunan taşınmazın malikleri tarafından ödenecek olan 6362 sayılı Kanuna göre yetkilendirilmiş en az iki lisanslı gayrimenkul değerleme kuruluşuna, değer artış payının belirlenmesi için hazırlattırılacak değerleme raporlarına ilişkin Sermaye Piyasası Kurulunca yayımlanan gayrimenkul değerleme asgari ücret tarifesine göre belirlenen bedeli,
+f) İdare: Büyükşehir olan illerde, büyükşehir belediyesi ve ilçe belediyesi, diğer illerde, belediye ve mücavir alan sınırı içerisinde belediyeler, dışında il özel idareleri ve plan onama yetkisine sahip diğer kamu kurum ve kuruluşları,
+g) Kıymet takdir komisyonu: Uygulama imar planı değişikliği sonucunda oluşacak değer artışını tespit etmekle görevli idare bünyesinde oluşturulan komisyonu,
+ğ) Piyasa (pazar) değeri: Türkiye Değerleme Uzmanları Birliği ve Sermaye Piyasaları Birliği tarafından yayımlanan Uluslararası Değerleme Standartlarına göre tespit edilmesi gereken piyasa değeri olup, 4/11/1983 tarihli ve 2942 sayılı Kamulaştırma Kanununun 11 inci maddesine göre taşınmazların değerlemesi için kullanılan değer tespit yöntemlerinden herhangi biri ya da birkaçı kullanılarak tespit edilmiş olan plan değişikliği öncesi ve sonrası taşınmazın piyasa değerini,
+h) Yetkili kuruluş: Sermaye Piyasası Kurulunun yayımlamış olduğu listedeki taşınmaz değerleme hizmetini vermek üzere yetkilendirilmiş, Sermaye Piyasası Kurulu tarafından yetki verilmiş meslek birliği tarafından da değerleme işine engel teşkil edecek nitelikte bir ceza almamış, aktif durumda olan değerleme kuruluşunu,
+ifade eder.

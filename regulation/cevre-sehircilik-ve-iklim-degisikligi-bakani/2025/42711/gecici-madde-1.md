@@ -1,0 +1,2 @@
+3194 sayılı Kanunun ek 8 inci maddesinin yürürlük tarihinden önceki plan başvuruları
+GEÇİCİ MADDE 1- (1) 20/2/2020 tarihinden önce plan yapma ve onama yetkisini haiz idarelere başvuru yapılarak resmî kayıt numarası almış; uygulama imar planı değişiklik teklifleri ile 20/2/2020 tarihinden önce onaylanmış nazım imar planlarına uygun hale getirmek için yapılan uygulama imar planı değişiklik teklifleri, değer artış payına tabi değildir.

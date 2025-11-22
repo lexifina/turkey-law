@@ -1,0 +1,7 @@
+Değer artış payının dağılımı
+MADDE 14- (1) Başvuru sahibi tarafından Hazine ve Maliye Bakanlığınca yetkilendirilen bankalara ve/veya ilgili muhasebe birimine yatırılan değer artış payının;
+a) Büyükşehir belediyesinin olduğu illerde; %25’i büyükşehir belediyesinin ilgili hesabına, %25’i ilgili ilçe belediyesinin ilgili hesabına, %25’i 6306 sayılı Kanun kapsamında oluşturulan dönüşüm projeleri özel hesabına aktarılır, %25’i genel bütçeye gelir kaydedilir.
+b) Büyükşehir belediyesi olmayan illerde ise; %40’ı imar planı değişikliğini onaylayan idarede açılacak ilgili hesaba, %30’u 6306 sayılı Kanun kapsamında oluşturulan dönüşüm projeleri özel hesabına aktarılır, %30’u genel bütçeye gelir kaydedilir.
+c) Bakanlıkça onaylanan imar planı değişikliklerinde; %75’i 6306 sayılı Kanun kapsamında oluşturulan dönüşüm projeleri özel hesabına, kalan değer artış payının; büyükşehir belediyesinin olduğu illerde %15’i büyükşehir belediyesinin ilgili hesabına, %10’u ilgili ilçe belediyesinin ilgili hesabına; büyükşehir belediyesi olmayan yerlerde ise Bakanlık payının dışındaki kalan değer artış payının tamamı plan değişikliğinin yapıldığı yerdeki ilgili idarenin açılacak ilgili hesabına aktarılır.
+ç) İmar planı değişikliğinin diğer genel bütçeli idareler tarafından onaylanması durumunda değer artış payının tamamı genel bütçeye gelir kaydedilir.
+d) (a), (b), (c), (ç) bentlerindeki aktarma ve gelir kaydetme işlemleri ilgili defterdarlıklar tarafından 5 iş günü içerisinde tamamlanır.

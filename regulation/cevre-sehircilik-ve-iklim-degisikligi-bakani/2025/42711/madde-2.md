@@ -1,0 +1,2 @@
+Kapsam
+MADDE 2- (1) Bu Yönetmelik, taşınmaz maliklerinin tamamının talebi üzerine ilgili idarelerce onaylanan uygulama imar planı değişikliği sonucunda oluşacak değer artışının kamuya kazandırılması işlemleri, uygulama imar planı değişikliğine ilişkin başvuru esasları, kıymet takdir komisyonunun teşekkülü, çalışma şekli ve karar alması, yetkili kuruluşlarca hazırlanan değerleme raporu esas alınarak kıymet takdir komisyonunca hazırlanacak raporu, değer artış payının kesinleşmesi, ödenmesi ile bu paya ilişkin diğer iş ve işlemlere yönelik usul ve esasları kapsar.
