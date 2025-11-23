@@ -1,0 +1,3 @@
+Mütevelli heyet toplantıları
+MADDE 6 – (1) Mütevelli Heyeti yılda en az iki defa toplanır. Mütevelli Heyetini olağanüstü toplantıya çağırma yetkisi Başkana aittir. Mütevelli Heyeti kararları usulüne uygun olarak karar defterine yazılır, Başkan ve üyeler tarafından imzalanır.
+(2) Mütevelli Heyetinin toplantı nisabı üye tam sayısının yarısından bir fazlasıdır. Kararlar, toplantıya katılanların salt çoğunluğu ile alınır. Her üye, oyunu kabul veya ret şeklinde kullanmak zorundadır. Çekimser oy kullanılmaz. Üçüncü turda da salt çoğunluk sağlanamazsa dördüncü turda oy çokluğu esası uygulanır. Eşitlik halinde Başkanın oyu yönünde çoğunluk sağlanmış sayılır.

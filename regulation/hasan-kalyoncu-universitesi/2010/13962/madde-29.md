@@ -1,0 +1,5 @@
+Öğretim elemanları ve görevleri
+MADDE 29 – (1) Üniversitenin öğretim elemanları; öğretim üyeleri, öğretim görevlileri, okutmanlar ile öğretim yardımcılarıdır.
+(2) Öğretim elemanlarının seçimi, değerlendirilmesi, seçilenlerin uygun görülen akademik unvanlarla görevlendirilmeleri ve yükseltilmeleri ilgili mevzuat hükümlerine uygun olarak Üniversitenin yetkili organlarınca yapılır. Öğretim elemanlarının atamalarında, Devlet yüksek öğretim kurumlarındaki atamalarda aranan şartlara ilaveten Üniversitenin akademik yönden gerekli gördüğü diğer şartlar da aranabilir. Üniversitede görev alacak akademik ve idari personelin çalışma esasları, 2547 sayılı Kanunda Devlet üniversiteleri için öngörülen hükümlere tabidir. Bu personele aylık ve diğer özlük hakları bakımından ise 22/5/2003 tarihli ve 4857 sayılı İş Kanunu hükümleri uygulanır.
+(3) Öğretim elemanlarının görevlerini yapmaları öncelikle bağlı bulundukları bölüm başkanı ile dekan, enstitü ve yüksekokul müdürleri ve Rektör tarafından izlenir ve denetlenir.
+(4) Öğretim elemanları, 2547 sayılı Kanun ve bu Yönetmelikle verilen görevleri yaparlar.

@@ -1,0 +1,2 @@
+Senato
+MADDE 11 – (1) Senato; Rektörün başkanlığında, rektör yardımcıları, dekanlar ve her fakülteden kendi kurullarınca üç yıl için seçilecek birer öğretim üyesi ile Rektörlüğe bağlı enstitü ve yüksekokul müdürlerinden oluşur. Senato, her eğitim-öğretim yılı başında ve sonunda olmak üzere yılda en az iki kere olağan olarak toplanır. Rektör gerekli gördüğü hallerde Senatoyu olağanüstü toplantıya çağırır.
