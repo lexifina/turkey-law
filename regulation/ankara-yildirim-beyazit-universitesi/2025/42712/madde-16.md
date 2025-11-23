@@ -1,0 +1,3 @@
+Kayıt yenileme
+MADDE 16- (1) Lisansüstü programlara kayıtlı öğrenciler, güz ve bahar yarıyılları başında akademik takvimde belirtilen tarihlerde ilgili mevzuatla belirlenen öğrenci katkı payı veya öğrenim ücretini ödemek ve istenen kayıt yenileme işlemlerini yerine getirmekle yükümlüdürler. Öğrenci katkı payı veya öğrenim ücretini ödeme zorunluluğu olup ödemeyenlerin kaydı yenilenmez; bu kişiler öğrencilik haklarından yararlanamazlar.
+(2) Senato tarafından belirlenen haklı ve geçerli bir nedeni olmadan kaydını yenilemeyen öğrenciler o yarıyıl ders seçemezler. Bu durumlarda geçen süreler azami süreye dâhil edilir.

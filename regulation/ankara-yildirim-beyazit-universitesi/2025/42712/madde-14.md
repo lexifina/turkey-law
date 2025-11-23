@@ -1,0 +1,9 @@
+Kesin kayıt
+MADDE 14- (1) Lisansüstü programlara kayıt hakkını kazanan asıl ve yedek adayların listesi enstitü yönetim kurulu kararı ile kesinleşir. Sonuçlar ilgili enstitü tarafından ilan edilir.
+(2) Kayıtlar, Senato tarafından kabul edilip ilan edilen lisansüstü akademik takviminde belirtilen günlerde enstitü müdürlüklerince yapılır.
+(3) Lisansüstü öğrencilik hakkı kazanan Türk ve uluslararası öğrenci adayları, şahsen veya noter tasdikli vekili ile istenilen belgeleri teslim ederek kesin kayıtlarını yaptırırlar.
+(4) Kesin kayıt hakkını kazanan adaylardan başvuru sırasında aslını veya Üniversite, enstitü veya yetkili merci tarafından onaylı suretlerini teslim etmiş bulunduğu belgeler tekrar istenmez.
+(5) Süresi içinde kesin kaydını yaptırmayan adaylar kayıt haklarını kaybederler. Ana bilim/sanat dalı kurulu tarafından yedek adaylar belirlendiyse bu adayların yerine yedek adaylar başarı sırası esas alınarak kabul edilebilir.
+(6) Gerçeğe aykırı veya yanıltıcı belge ve beyan ile Üniversiteye kayıt hakkı kazanmış olanların belirlenmesi durumunda kayıtları yapılmaz, kesin kayıt yaptıran öğrencilerin bulundukları yarıyıla bakılmaksızın kayıtları iptal edilerek Üniversiteden ilişiği kesilir, varsa kendilerine verilen diploma dâhil tüm belgeler geçersiz sayılır ve haklarında kanuni işlem başlatılır. Bu durumda olanlar öğrencilik statüsü kazanmamış sayılır ve öğrencilikle ilgili hiçbir haktan yararlanamazlar.
+(7) Üniversitenin yaptığı ikili anlaşmalar çerçevesinde veya Yükseköğretim Kurulu kararlarıyla yerleştirilen uluslararası öğrencilerin, Türkçe yeterliği ile ilgili düzenlemeler hariç, doğrudan kayıtları yapılabilir.
+(8) Öğrenim ücreti yatırması gereken adayların kesin kayıtları, akademik takvimde belirlenen güz/bahar dönemi ücret ödeme süresi içinde ilgili döneme ait ücret ödendikten sonra yapılır.

@@ -1,0 +1,8 @@
+Giriş koşullarının belirlenmesi ve ilanı
+MADDE 10- (1) Yüksek lisans ve doktora programlarına hangi lisans ve yüksek lisans programlarından mezun olanların başvurabilecekleri ana bilim/sanat dalı kurulunun önerisi, enstitü yönetim kurulu kararı ve Senato onayı ile belirlenir.
+(2) Lisansüstü programlara başvuruda istenilecek asgari ALES puanı ve puan türü, asgari mezuniyet not ortalaması, mezun durumda olan veya olabilecek adaylar için aranan şartlar, asgari yabancı dil puanı ve türü ve diğer özel şartlar, programı açan ana bilim/sanat dalı kurulunun önerisi üzerine enstitü yönetim kurulunda karara bağlanır ve Senato onayı ile kesinleşir.
+(3) ALES puanı yerine, ALES’e eş değer kabul edilen ve Yükseköğretim Kurulunca ilan edilen eş değer puanlar başvurularda geçerli sayılır. İlgili program alım şartlarında ayrıca belirtilmediği takdirde TUS ve DUS sınavları ALES yerine geçmez.
+(4) Başvuru yapılacak yüksek lisans programında ilan edilen yabancı dil belgesi için lisans eğitiminin tamamını bu yabancı dilde yapmış ve mezun olmuş olanlardan yabancı dil belgesi istenmez. Değerlendirmede belgesi olmayan bu adayların puanları ilgili enstitü ana bilim/sanat dalının istediği en az puan üzerinden değerlendirmeye alınır.
+(5) Tezsiz yüksek lisans programlarına öğrenci alımları ile ilgili başvuru şartları, başvuruların değerlendirmesi ve öğrenci kabulü ana bilim/sanat dalı kurulunun görüşü ve enstitü yönetim kurulunun önerisi üzerine Senato tarafından belirlenir.
+(6) Lisansüstü programlara öğrenci alımı yılda en fazla iki defa yapılır.
+(7) Rektörlük, enstitülerin açtıkları lisansüstü programların adlarını, başvuru için gerekli belgeleri, başvuru tarihlerini, mülakat ve yazılı sınav tarihlerini ve diğer hususları Üniversite internet sayfası üzerinden ilan eder.

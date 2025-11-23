@@ -1,0 +1,3 @@
+Özel öğrenci kabulü
+MADDE 35- (1) Bir yükseköğretim kurumu öğrencisi olup belirli bir konuda bilgi ve uygulama becerilerini artırmak isteyenler, ders sorumlusu ile ana bilim/sanat dalı kurulunun uygun görüşü ve enstitü yönetim kurulunun onayı ile özel öğrenci olarak kabul edilerek belirlenen derslere devam edebilirler. Bu öğrenciler de kayıtlı öğrenciler gibi izledikleri derslerin bütün koşullarına uymak ve derslerin bütün gereklerini yerine getirmek zorundadırlar.
+(2) Diğer üniversitelerin lisansüstü programlarına kayıtlı olan öğrencilerin, Üniversite lisansüstü programlarında özel öğrenci olarak almak istedikleri ders/dersler için ilgili mevzuat hükümleri gereği tahakkuk eden öğrenim ücretini ödemeleri gerekir.

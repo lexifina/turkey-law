@@ -1,0 +1,6 @@
+ALTINCI BÖLÜM
+Tezsiz Yüksek Lisans Programı
+Tezsiz yüksek lisans programının amaç ve kapsamı
+MADDE 26- (1) Tezsiz yüksek lisans programının amacı, öğrenciye mesleki konuda derin bilgi kazandırmak ve mevcut bilginin uygulamada nasıl kullanılacağını göstermektir. Bu program, asgari 60 AKTS kredisi olmak koşuluyla en az on ders ile dönem projesinden oluşur.
+(2) Dönem projesinin kapsamı ve koşulları enstitü yönetim kurulu tarafından belirlenir. Dönem projesi danışman tarafından başarılı veya başarısız olarak değerlendirilir. Öğrenci, dönem projesinin alındığı yarıyılda enstitüye kayıt yaptırmak ve yarıyıl sonunda yazılı proje veya rapor vermek zorundadır. Enstitü ana bilim/sanat dalı kurulunun önerisi üzerine, enstitü yönetim kurulunun kararı ile bir yeterlik sınavı da yapılabilir.
+(3) Öğrencinin alacağı derslerin en çok üçü, lisans öğrenimi sırasında alınmamış olması koşuluyla ilgili ana bilim/sanat dalı kurulunun önerisi ve enstitü yönetim kurulu onayı ile lisans derslerinden seçilebilir. Bu şekilde alınan derslerin AKTS kredileri, ilgili programın derslerindeki asgari AKTS kredisi sayılır. Bu derslerden 100 üzerinden alınan puanlar, 19 uncu maddenin dördüncü fıkrasında yer alan tabloya göre değerlendirilir.

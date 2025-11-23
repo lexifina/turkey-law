@@ -1,0 +1,5 @@
+Akademik başarı not ortalamaları
+MADDE 20- (1) Bir lisansüstü dersin kredi değeri, ilgili enstitü ana bilim/sanat dalı başkanlığının belirlediği AKTS kredisi kadardır.
+(2) Öğrencinin yarıyıl akademik başarı not ortalaması ve genel akademik başarı not ortalaması olmak üzere iki çeşit akademik başarı not ortalaması bulunur.
+(3) Bir öğrencinin bir dersten aldığı ağırlıklı puanı, dersin kredisi ile başarı notu katsayısının çarpımı sonucunda bulunur. Öğrencinin bir yarıyılda aldığı tüm derslerin ağırlıklı puanlarının toplamı 4’lük katsayı üzerinden değerlendirilen tüm derslerin kredi toplamına bölünerek yarıyıl akademik başarı not ortalaması hesaplanır. Elde edilen ortalama, virgülden sonra iki basamak yürütülür ve yuvarlanır.
+(4) Genel akademik başarı not ortalaması, yarıyıl akademik başarı not ortalamasının hesaplanmasındaki yol izlenerek öğrencinin lisansüstü programa kabul edilişinden itibaren almış olduğu 4’lük katsayı üzerinden değerlendirilen derslerin tümü dikkate alınarak hesaplanır. Genel akademik başarı not ortalamasına tekrar edilen derslerden alınan en son not katılır. Bütün notlar öğrenci durum belgesine geçirilir.

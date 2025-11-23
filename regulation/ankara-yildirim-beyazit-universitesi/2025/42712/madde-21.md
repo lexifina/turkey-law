@@ -1,0 +1,3 @@
+Sınav sonuçlarına itiraz
+MADDE 21- (1) Sınav sonuçlarının ÖİBS’de ilanından itibaren beş iş günü içinde sınav sonucuyla ilgili itirazı olan öğrenci ilgili ana bilim/sanat dalı başkanlığına yazılı başvuru ile sınav kâğıdının yeniden incelenmesini isteyebilir. İlgili enstitü ana bilim/sanat dalı başkanlığı, maddi bir hata yapılıp yapılmadığının belirlenmesi için öğrencinin sınav kâğıdının tekrar incelenmesini sağlar. İnceleme sonucu en geç bir hafta içinde enstitü müdürlüğüne yazı ile bildirilir.
+(2) ÖİBS’de açıklanan başarı notlarına ilişkin maddi bir hatanın belirlenmesi hâlinde, güncel not ilgili kurul kararı ile on beş gün içinde öğrenciye bildirilir, ÖİBS’ye ilgili öğretim elemanı tarafından kesin not olarak işlenir.

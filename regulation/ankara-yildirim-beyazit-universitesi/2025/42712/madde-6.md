@@ -1,0 +1,8 @@
+Lisansüstü programların açılması
+MADDE 6- (1) Yeni bir lisansüstü program; ana bilim/sanat dalı kurulunun önerisi, enstitü kurulunun görüşü, Senatonun kararı ve Yükseköğretim Kurulunun onayı ile açılır.
+(2) Lisansüstü programların açılıp yürütülmesinde enstitü ana bilim/ana sanat dalları esas alınır.
+(3) İlgili ana bilim/sanat dalı kurulu önerisi, enstitü kurulunun görüşü, Senatonun onayı ve Yükseköğretim Kurulu kararıyla bir enstitü ana bilim/sanat dalından farklı bir ad taşıyan bir başka lisansüstü program da açılabilir.
+(4) Enstitülerde enstitü kurulunun önerisi, Senatonun onayı ve Yükseköğretim Kurulu kararı ile lisansüstü eğitim yapmak üzere bir fakülte, bölüm veya ana bilim/ana sanat dalı dalından farklı bir ad taşıyan disiplinler arası bir enstitü ana bilim/ana sanat dalı kurulabilir. Bu tür bir enstitü ana bilim/ana sanat dalının başkanı, ilgili dekanlıkların görüşü alınarak enstitü müdürü tarafından üç yıl süre ile atanır ve Rektörlüğe bilgi verilir.
+(5) Ana bilim/sanat dalı kurulunun mevcut programlara ilişkin değişiklik önerileri enstitü kurulu kararı ve Senato onayı ile yürürlüğe girer.
+(6) Ana bilim/sanat dalı kurulunun önerisi ve enstitü kurulunun kararı ile yurt içi ve yurt dışı yükseköğretim/araştırma kurum ve kuruluşları ile iş birliği protokolü yaparak ortak programlar açılabilir. Ortak programlar Senato kararı ve Yükseköğretim Kurulu onayı ile yürürlüğe girer ve ilgili mevzuat hükümlerine göre yürütülür.
+(7) Ana bilim/sanat dalı kurulunun önerisi, enstitü kurulunun teklifi, Senatonun kararı ve Yükseköğretim Kurulunun onayı ile yabancı dilde lisansüstü programlar açılabilir.

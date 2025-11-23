@@ -1,0 +1,2 @@
+Ders ekleme ve bırakma
+MADDE 17- (1) Ders ekleme ve ders bırakma işlemleri, isteyen öğrenciler tarafından lisansüstü akademik takvimde belirlenen süre içerisinde ÖİBS üzerinden yapılır. Ders ekleme ve bırakma işlemi, öğrencinin ders seçme işlemini kesinleştirmesinin akabinde danışmanının onayından sonra tamamlanmış olur. Öğrenci tarafından kesinleştirilmemiş veya danışman tarafından onaylanmamış ders kayıtları tamamlanmamış sayılır. Ders ekle-bırak aşamalarının sonuçlandırılmasından öğrenci sorumludur.
