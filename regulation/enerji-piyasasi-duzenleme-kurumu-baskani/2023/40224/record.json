@@ -1,0 +1,66 @@
+{
+  "source_id": "7.5.40224",
+  "kind": "regulation",
+  "register_kind": "Kurum ve Kuruluş Yönetmelikleri",
+  "title": "ENERJİ SEKTÖRÜNDE SİBER GÜVENLİK YETKİNLİK MODELİ YÖNETMELİĞİ",
+  "number": "40224",
+  "issuer": "Enerji Piyasası Düzenleme Kurumu Başkanı",
+  "issuer_slug": "enerji-piyasasi-duzenleme-kurumu-baskani",
+  "path": "regulation/enerji-piyasasi-duzenleme-kurumu-baskani/2023/40224",
+  "source": "https://www.mevzuat.gov.tr/anasayfa/MevzuatFihristDetayIframe?MevzuatTur=7&MevzuatNo=40224&MevzuatTertip=5",
+  "source_sha256": "8a8cf5556939aa78cfc58bbb3b8519b942806623f29d2923893e09ebeec175f7",
+  "source_bytes": 74801,
+  "published": "2023-06-06",
+  "gazette": "32213",
+  "in_force": "2025-11-25",
+  "in_force_basis": "latest Resmî Gazete date printed in the source amendment notes/table (\"RG-25/11/2025\") for the current consolidated text",
+  "date_evidence": [
+    [
+      "2025-11-25",
+      "RG-25/11/2025",
+      "Resmî Gazete date printed in the source amendment note"
+    ],
+    [
+      "2025-11-25",
+      "25/11/2025",
+      "Resmî Gazete date in the source amendment table"
+    ],
+    [
+      "2024-09-08",
+      "RG-8/9/2024",
+      "Resmî Gazete date printed in the source amendment note"
+    ],
+    [
+      "2024-09-08",
+      "8/9/2024",
+      "Resmî Gazete date in the source amendment table"
+    ],
+    [
+      "2024-01-28",
+      "RG-28/1/2024",
+      "Resmî Gazete date printed in the source amendment note"
+    ],
+    [
+      "2024-01-28",
+      "28/1/2024",
+      "Resmî Gazete date in the source amendment table"
+    ]
+  ],
+  "commencement_clauses": [
+    "Bu Yönetmelik yayımı tarihinde yürürlüğe girer"
+  ],
+  "history": "current-text",
+  "label": "oldest version available",
+  "checked_on": "2026-11-15",
+  "word_count": 2889,
+  "text_status": "current-consolidated",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  },
+  "source_links": [
+    "7.5.40224-Ek.zip"
+  ],
+  "completeness": "html-text-complete; linked annexes not fetched"
+}
