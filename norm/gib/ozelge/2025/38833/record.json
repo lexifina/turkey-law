@@ -1,0 +1,22 @@
+{
+  "kind": "norm",
+  "issuer": "Gelir İdaresi Başkanlığı",
+  "document_type": "ozelge",
+  "number": "97895701-155[2024/213]-1561549",
+  "source_id": 38833,
+  "date": "2025-11-26",
+  "title": "Alacağın temliki sözleşmesine istinaden yapılacak işlemlerin damga vergisi istisna olup olmadığı",
+  "source": "https://gib.gov.tr/mevzuat/kanun/438/ozelge/38833",
+  "related_law": "488 sayılı DAMGA VERGİSİ KANUNU",
+  "source_api": "https://gib.gov.tr/api/gibportal/mevzuat/ozelge/list",
+  "source_listing": "evidence/list/2026-11-16/ozelge-p009.json",
+  "source_listing_sha256": "9cb52b4963a9a177a23948f6e28c12936c2f43c88a0b410872bb81c01983667c",
+  "source_sha256": "4797222b8381edec2a1260cf9e6f3827a8d0ce4e1c6aae86c882f0c6749a5b9c",
+  "text_status": "as-enacted",
+  "text_file": "metin.md",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  }
+}
