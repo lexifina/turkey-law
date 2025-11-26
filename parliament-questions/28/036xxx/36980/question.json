@@ -1,0 +1,21 @@
+{
+  "record_type": "parliament-written-question",
+  "term": 28,
+  "legislative_year": 4,
+  "esas_no": "7/36980",
+  "submitted": "2025-11-26",
+  "submitted_as": "Başkanlığa geliş tarihi",
+  "mp": "Semra ÇAĞLAR GÖKALP",
+  "province": "Bitlis",
+  "summary": "Kadına yönelik şiddet ile mücadeleye ilişkin",
+  "status": "Süresi Geçtikten Sonra Cevaplandı",
+  "status_as_of": "2026-11-16",
+  "official_record": "https://www.tbmm.gov.tr/Denetim/Yazili-Soru-Onergesi-Detay/a78ea38c-9efa-4c45-a303-019ac438f9ad",
+  "source": "https://tbmm.gov.tr/Denetim/YaziliSoruOnergesiTable",
+  "source_form": "https://tbmm.gov.tr/Denetim/Yazili-Soru-Onergeleri",
+  "source_sha256": "a892661b407180fbe16039f0ed10c7e58c95451f44e6e8ee4eec331dc30b21cf",
+  "in_force": "2025-11-26",
+  "in_force_basis": "Date the question reached the Speaker (Başkanlığa geliş tarihi) in the official TBMM written-question record; parliamentary oversight record, not law",
+  "history_type": "metadata",
+  "text_status": "metadata-only: question text, addressee and answers are in the linked official record (PDFs on cdn.tbmm.gov.tr); not transcribed here"
+}
