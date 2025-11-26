@@ -1,0 +1,22 @@
+{
+  "kind": "norm",
+  "issuer": "Gelir İdaresi Başkanlığı",
+  "document_type": "ozelge",
+  "number": "E-38418978-125[4691-24]-…",
+  "source_id": 38773,
+  "date": "2025-11-26",
+  "title": "7263 Sayılı Kanuna İstinaden İstisna Edilen Kazanç Tutarının Kuluçka Merkezinde Faaliyette Bulunan Şirkete Sermaye Artırımına Gidilerek Sermaye Olarak Konulması hk.",
+  "source": "https://gib.gov.tr/mevzuat/kanun/435/ozelge/38773",
+  "related_law": "5520 sayılı KURUMLAR VERGİSİ KANUNU",
+  "source_api": "https://gib.gov.tr/api/gibportal/mevzuat/ozelge/list",
+  "source_listing": "evidence/list/2026-11-16/ozelge-p009.json",
+  "source_listing_sha256": "9cb52b4963a9a177a23948f6e28c12936c2f43c88a0b410872bb81c01983667c",
+  "source_sha256": "7dee9cb13c53c88ffcaf4af17aefabb7d730d624ab30f0b5b805880d3d7e8141",
+  "text_status": "as-enacted",
+  "text_file": "metin.md",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  }
+}
