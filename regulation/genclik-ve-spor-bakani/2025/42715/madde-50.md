@@ -1,0 +1,2 @@
+Defter ve belgelerin elektronik ortamda düzenlenmesi
+MADDE 50- (1) İl müdürlüklerince gerçekleştirilen mali işlemler kapsamında; her türlü defter, belge ve kayıtlar elektronik ortamda oluşturulabilir, kaydedilebilir, muhafaza edilebilir, defter ve belgelerin elektronik ortamda tutulması, düzenlenmesi ve yetkili mercilere verilmesi ile elektronik imzanın kullanımına ilişkin genel düzenlemelere uygun olacak şekilde işlem yapılabilir.

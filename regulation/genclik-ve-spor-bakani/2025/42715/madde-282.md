@@ -1,0 +1,2 @@
+Kaybedilen alındılar için verilecek kayıt örnekleri
+MADDE 282- (1) Muhasebe birimlerince, gerek emanet suretiyle, gerek herhangi bir nedenle ya da mahsuben tahsil olunan paralar ile her ne suretle olursa olsun teslim alınmış her türlü değerlere karşılık verilmiş olan alındıların, ilgilileri tarafından kaybedildiği bir dilekçe ile bildirildiği takdirde, ilgili kayıtları incelendikten sonra varsa hak sahiplerine verilir.

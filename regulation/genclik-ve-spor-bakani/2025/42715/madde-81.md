@@ -1,0 +1,2 @@
+158 Stok değer düşüklüğü karşılığı hesabı (-)
+MADDE 81- (1) Bu hesap, yangın, deprem, su basması gibi doğal afetler ile bozulmak, çürümek, kırılmak, çatlamak, paslanmak, teknolojik gelişmeler ve benzeri değişiklikler nedeniyle stokların fiziki ve ekonomik değerlerinde önemli azalışların ortaya çıkması veya bunların dışında diğer nedenlerle stokların piyasa fiyatlarında düşmelerin meydana gelmesi dolayısıyla, kayıpları karşılamak üzere ayrılan karşılıkların izlenmesi için kullanılır.

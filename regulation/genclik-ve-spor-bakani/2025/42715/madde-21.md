@@ -1,0 +1,7 @@
+Ön malî kontrol
+MADDE 21- (1) Ön malî kontrol, harcama birimlerinde işlemlerin gerçekleştirilmesi aşamasında yapılan kontroller ile mali hizmetler birimi tarafından yapılan kontrolleri kapsar. Ön malî kontrol görevi, yönetim sorumluluğu çerçevesinde, harcama birimleri tarafından yerine getirilir.
+(2) Ön malî kontrol süreci, malî karar ve işlemlerin hazırlanması, yüklenmeye girişilmesi, iş ve işlemlerin gerçekleştirilmesi ve belgelendirilmesinden oluşur.
+(3) Gelir, gider, varlık ve yükümlülüklere ilişkin il müdürlükleri bütçesi üzerindeki malî karar ve işlemler, harcama birimleri tarafından, kullanılabilir ödenek tutarı ve mevzuat hükümlerine uygunluğu yönlerinden kontrol edilir.
+(4) Ödeme emri belgesini düzenlemekle görevlendirilen gerçekleştirme görevlileri, ödeme emri belgesi ve eki belgeler üzerinde ön malî kontrol yaparlar.
+(5) Malî karar ve işlemlerin ön malî kontrole tabi tutulmuş olması, harcama yetkilileri ve gerçekleştirme görevlilerinin sorumluluğunu ortadan kaldırmaz.
+(6) Malî karar ve işlemin uygun görülmemesi hâlinde ise nedenleri açıkça belirtilen bir görüş yazısı yazılarak kontrole tabi karar ve işlem belgeleri eklenmek suretiyle ilgili birimine gönderilir. Mevzuatına uygun olarak giderilebilecek nitelikte eksiklikleri bulunan malî karar ve işlemlerde, bu eksiklikler ve nasıl düzeltilebileceği hususları belirtilmek ve bunların düzeltilmesi kaydıyla işlemin uygun görüldüğü şeklinde yazılı görüş düzenlenebilir.

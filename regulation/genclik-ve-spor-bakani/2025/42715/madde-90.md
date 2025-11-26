@@ -1,0 +1,2 @@
+181 Gelir tahakkukları hesabı
+MADDE 90- (1) Bu hesap, faaliyet alacakları, kurum alacakları ve diğer alacaklar hesap gruplarında izlenmeyen ve tahakkuk etmiş gelirlerden kaynaklanan ancak, gelecek aylarda istenebilir duruma gelecek olan alacaklar ile duran varlıklar ana hesap grubu içindeki gelir tahakkukları hesabında kayıtlı tutarlardan vadesi bir yılın altına inenlerin izlenmesi için kullanılır.

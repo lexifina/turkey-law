@@ -1,0 +1,4 @@
+Bilanço ilkeleri
+MADDE 24- (1) Bilanço ilkelerinin amacı, il müdürlüğünün tasarrufundaki kaynaklar ile bunlarla elde edilen varlıkların muhasebe kayıtlarının yapılması, mali tablolarının hazırlanması ve raporlanması yoluyla, belli bir tarihte il müdürlüklerinin mali durumunun ilgililer için saydam ve gerçeğe uygun olarak yansıtılmasıdır.
+(2) İl müdürlükleri bilançolarını bu Yönetmelikte belirtilen şekil ve esaslara göre hazırlayıp sunar. Bilançolar hesap tipinde hazırlanır. Hesap tipi bilançonun sol tarafında varlıklar, sağ tarafında ise yabancı kaynaklar ve öz kaynaklar yer alır.
+(3) Bütün varlıklar, yabancı kaynaklar ve öz kaynaklar bilançoda gayrisafi değerleriyle gösterilir. Bu ilke, bilançonun net değer esasına göre düzenlenmesine bir engel oluşturmaz. Bu doğrultuda net değer bilanço düzenlenmesinin gereği olarak indirim kalemlerinin ilgili hesapların altında açıkça gösterilmesi esastır.

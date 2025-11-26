@@ -1,0 +1,2 @@
+258 Yapılmakta olan yatırımlar hesabı
+MADDE 115- (1) Bu hesap, yapımı süren maddi duran varlıklar için yapılan her türlü madde ve malzeme ile işçilik ve genel giderlerin; geçici ve kesin kabul usulüne tabi olan hallerde geçici kabulün yapıldığını gösteren tutanağın idarece onaylandığı tarihte, diğer hallerde işin fiilen tamamlandığını gösteren belgenin düzenlendiği tarihte, ilgili maddi duran varlık hesabına aktarılıncaya kadar izlenmesi için kullanılır.

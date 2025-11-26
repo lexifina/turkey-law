@@ -1,0 +1,2 @@
+104 Proje özel hesabı
+MADDE 58- (1) Bu hesap, dış finansman kaynağından dış proje kredisi olarak il müdürlükleri adına Türkiye Cumhuriyet Merkez Bankası veya uygun görülen diğer bankalar nezdindeki özel hesaplara aktarılan paralar ve bunlardan kesin veya ön ödeme şeklinde yapılan kullanımlar ile nakden geri alınan tutarlar ve hesap bakiyesinin değerlemesi sonucunda ortaya çıkan kur farklarının izlenmesi için kullanılır.

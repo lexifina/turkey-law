@@ -1,0 +1,2 @@
+241 Mal ve hizmet üreten kuruluşlara yatırılan sermayeler hesabı
+MADDE 104- (1) Bu hesap, kanuni yetkilere dayanılarak mal ve hizmet üreten kuruluşlara nakden veya ayni olarak verilen sermaye tutarları ile bunların işletilmesinden doğan kâr ve zararlar, bütçeye iade olunan sermaye tutarları ve bu kurumlara ikrazen verilen özel tertip iç borçlanma senetleri bedelinden bu kurumların ödenmemiş sermayelerine mahsup edilenlerin izlenmesi için kullanılır.

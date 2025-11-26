@@ -1,0 +1,6 @@
+Gerçekleştirme görevlileri ve sorumlulukları
+MADDE 18- (1) Gerçekleştirme görevlileri, harcama talimatı üzerine; işin yaptırılması, mal veya hizmetin alınması, teslim almaya ilişkin işlemlerin yapılması, belgelendirilmesi ve ödeme için gerekli belgelerin hazırlanması görevlerini yürütürler.
+(2) Gerçekleştirme görevlileri; il müdürlükleri tarafından tahsil edilecek gelirlerin tahakkuk, tahsil ve takip işlemlerini yürütürler.
+(3) Harcama yetkilisi, kendisine en yakın üst kademe yöneticilerinden birini veya birkaçını ödeme emri belgesini düzenlemek üzere görevlendirir. Görevlendirilen bu kişiler de gerçekleştirme görevlisi olup, harcama birimindeki ön malî kontrol görevini yaparlar.
+(4) Gerçekleştirme görevlileri, kendilerine verilen görevlerin mevzuatına ve usulüne uygun olarak yürütülmesinden, düzenledikleri belgelerin doğruluğundan ve diğer gerçekleştirme görevlileri tarafından düzenlenen belgeler üzerinde yapmaları gereken kontrollerden sorumludurlar.
+(5) Ödeme emri belgesi düzenlemekle görevli gerçekleştirme görevlisi, görevler ayrılığı ilkesi gereği ihale ve muayene kabul komisyonu benzeri komisyonlarda ve diğer süreçlerde görev alamaz. Harcama yetkililiği ile gerçekleştirme görevliliği görevi aynı kişide birleşemez.

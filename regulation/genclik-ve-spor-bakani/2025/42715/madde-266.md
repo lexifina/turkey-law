@@ -1,0 +1,2 @@
+Sayımlarda kullanılacak tutanaklar
+MADDE 266- (1) Muhasebe birimlerinde ve muhasebe yetkilisi mutemetliklerinde yıl sonunda yapılan sayımlarda; paralar için “Kasa Sayımı Tutanağı” ve “Banka Mevcudu Tespit Tutanağı” ile diğer menkul kıymet ve varlıklar ve teminat mektupları sayımında “Menkul Kıymet ve Varlıklar/Teminat Mektupları Sayım Tutanağı” kullanılır. Üçer nüsha düzenlenen bu tutanaklar, muhasebe biriminde muhafaza edilir.

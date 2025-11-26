@@ -1,0 +1,2 @@
+308 Ertelenmiş finansal kiralama borçlanma maliyetleri hesabı (-)
+MADDE 137- (1) Bu hesap, finansal kiralama işlemlerinden kaynaklanan ve vadesi bir yılı geçmeyen henüz ödenmemiş borçlanma maliyetleri ile uzun vadeli yabancı kaynaklar ana hesap grubu içindeki ertelenmiş finansal kiralama borçlanma maliyetleri hesabında kayıtlı tutarlardan faaliyet dönemi sonunda vadesi bir yılın altına inenlerin izlenmesi için kullanılır.

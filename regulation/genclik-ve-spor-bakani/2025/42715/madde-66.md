@@ -1,0 +1,2 @@
+122 Gelirlerden tecilli ve tehirli alacaklar hesabı
+MADDE 66- (1) Bu hesap, mevzuatı gereğince gelirlerden alacaklar hesabı veya gelirlerden takipli alacaklar hesabında kayıtlı tutarlardan bir yıl veya içinde bulunulan faaliyet döneminin sonunu geçmeyen bir süreyle tecil veya tehir edilen tutarlar ve duran varlıklar ana hesap grubu içindeki gelirlerden tecilli ve tehirli alacaklar hesabında kayıtlı tutarlardan dönem sonunda tecil veya tehir süresi bir yılın altına inen tutarlar için kullanılır.

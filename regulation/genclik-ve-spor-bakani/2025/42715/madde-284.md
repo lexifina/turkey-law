@@ -1,0 +1,3 @@
+Denetim defteri ve denetim raporları dosyası
+MADDE 284- (1) Muhasebe birimlerinde, yapılan denetimlere ilişkin olarak “Denetim Defteri” tutulur. Denetimin kapsamı, dönemi, süresi ve denetim sonucunda düzenlenen rapor veya yazının tarih ve sayısını gösteren bu defter, denetim bitiminde ilgili denetim elemanı tarafından sütun başlıklarına göre doldurularak imzalanır ve mühürlü zarflarda muhafaza edilir.
+(2) İl müdürlüğü muhasebe birimlerinde denetim elemanları tarafından yapılan denetimler sonunda düzenlenen ve denetim defterine kaydedilen rapor veya yazılar ile bunlara verilen cevapların ve yapılan tebligatların bir nüshası il müdürlüğünce saklanır.
