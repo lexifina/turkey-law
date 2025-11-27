@@ -1,0 +1,25 @@
+{
+  "kind": "norm",
+  "issuer": "Enerji Piyasası Düzenleme Kurumu",
+  "market": "electricity",
+  "document_type": "board-decision",
+  "number": "13976",
+  "decision_date": "2025-11-27",
+  "title": "Enerji Piyasası Düzenleme Kurulunun 27/11/2025 tarihli toplantısında; “Vadeli Elektrik Piyasası İşletim Gelir Tavanının Karşılanması İçin Uygulanacak Bedel ve Komisyonlar ile Uygulamaya İlişkin Yöntem Bildirimi” ile “Yenilenebilir Enerji Kaynak Garanti Sistemi ve Organize Yek-G Piyasası İşletim Gelir Tavanının Karşılanması İçin Uygulanacak Bedel ve Komisyonlar ile Uygulamaya İlişkin Yöntem Bildirimi”nde ifade edilen ücretlerin belirlenmesine yönelik",
+  "resmi_gazete_date": "2025-11-29",
+  "resmi_gazete_number": "33092",
+  "categories": [
+    "Elektrik Piyasası Tarife Kurul Kararları"
+  ],
+  "source": "https://www.epdk.gov.tr/Detay/DownloadDocument?id=x+NcocLhVX4=",
+  "documents": [
+    "https://www.epdk.gov.tr/Detay/DownloadDocument?id=x+NcocLhVX4="
+  ],
+  "source_sha256": "5fd2b27f820ffa2fc90ea0d1c3a00bd1d4d8fbd945af9b6c9798018618953e17",
+  "official_list": "https://www.epdk.gov.tr/Detay/Icerik/3-0-39/kurul-kararlari-",
+  "official_list_leaf": 14713,
+  "text_status": "as-enacted",
+  "text_file": "metin.md",
+  "in_force": "2025-11-27",
+  "law_text_complete": true
+}
