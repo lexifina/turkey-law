@@ -1,0 +1,25 @@
+{
+  "kind": "norm",
+  "issuer": "Enerji Piyasası Düzenleme Kurumu",
+  "market": "electricity",
+  "document_type": "board-decision",
+  "number": "13979",
+  "decision_date": "2025-11-27",
+  "title": "Emisyon Ticaret Sistemi İşletim Gelir Tavanının Karşılanması İçin Uygulanacak Bedel ve Komisyonlar ile Uygulamaya İlişkin Yöntem Bildirimi",
+  "resmi_gazete_date": "2025-11-29",
+  "resmi_gazete_number": "33092",
+  "categories": [
+    "Elektrik Piyasası Tarife Kurul Kararları"
+  ],
+  "source": "https://www.epdk.gov.tr/Detay/DownloadDocument?id=eGIFyOSsjXs=",
+  "documents": [
+    "https://www.epdk.gov.tr/Detay/DownloadDocument?id=eGIFyOSsjXs="
+  ],
+  "source_sha256": "aee8309bcc84a9642596360c5af1b9f4a7e523abd8f181d9c4e910cf635cfd80",
+  "official_list": "https://www.epdk.gov.tr/Detay/Icerik/3-0-39/kurul-kararlari-",
+  "official_list_leaf": 14713,
+  "text_status": "as-enacted",
+  "text_file": "metin.md",
+  "in_force": "2025-11-27",
+  "law_text_complete": true
+}
