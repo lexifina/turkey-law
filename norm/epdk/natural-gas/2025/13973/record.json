@@ -1,0 +1,25 @@
+{
+  "kind": "norm",
+  "issuer": "Enerji Piyasası Düzenleme Kurumu",
+  "market": "natural-gas",
+  "document_type": "board-decision",
+  "number": "13973",
+  "decision_date": "2025-11-27",
+  "title": "Bursa Şehiriçi Doğal Gaz Dağıtım Ticaret ve Taah. Anonim Şirketi’nin 2022-2026 yılları arası perakende satış tarifelerine yönelik",
+  "resmi_gazete_date": "2025-11-29",
+  "resmi_gazete_number": "33092",
+  "categories": [
+    "Şirket Bazında Kararlar"
+  ],
+  "source": "https://www.epdk.gov.tr/Detay/DownloadDocument?id=cb21GsgUje8=",
+  "documents": [
+    "https://www.epdk.gov.tr/Detay/DownloadDocument?id=cb21GsgUje8="
+  ],
+  "source_sha256": "e78460cfddaddd4f9c2ac0a9165ce3d245bc77b2838910a6c470a37c4efd20ea",
+  "official_list": "https://www.epdk.gov.tr/Detay/Icerik/3-0-19/kurul-kararlari",
+  "official_list_leaf": 7236,
+  "text_status": "as-enacted",
+  "text_file": "metin.md",
+  "in_force": "2025-11-27",
+  "law_text_complete": true
+}
