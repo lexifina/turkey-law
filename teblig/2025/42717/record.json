@@ -1,0 +1,26 @@
+{
+  "source_id": "9.5.42717",
+  "kind": "communique",
+  "register_kind": "Tebliğler",
+  "title": "VERGİ USUL KANUNU GENEL TEBLİĞİ (SIRA NO: 585)",
+  "number": "42717",
+  "path": "teblig/2025/42717",
+  "source": "https://www.mevzuat.gov.tr/anasayfa/MevzuatFihristDetayIframe?MevzuatTur=9&MevzuatNo=42717&MevzuatTertip=5",
+  "source_sha256": "c360eb8b1ad908610b529180daa7ebdca4a2cef012749362277ae3ebad961270",
+  "source_bytes": 6369,
+  "published": "2025-11-27",
+  "gazette": "33090",
+  "in_force": "2025-11-27",
+  "in_force_basis": "Resmî Gazete publication date in the official listing (27.11.2025)",
+  "history": "current-text",
+  "label": "oldest version available",
+  "checked_on": "2026-11-15",
+  "word_count": 100,
+  "text_status": "current-consolidated",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  },
+  "completeness": "html-text-complete"
+}
