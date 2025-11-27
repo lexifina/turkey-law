@@ -1,0 +1,5 @@
+Yabancı uyruklu öğrenciler
+MADDE 60- (1) Lisansüstü programlara yabancı uyruklu öğrenci statüsünde kabul edilen öğrencilerin eğitim dili Türkçe olan programlara kabulünde TÖMER Türkçe yeterlik sınavı C1 belgesi, Yunus Emre Enstitüsü Türkçe yeterlik belgesi veya Üniversite tarafından yapılacak Türkçe yeterlik sınavı başarı belgesi aranır.
+(2) Lisans veya yüksek lisans eğitimini Türkçe eğitim verilen programlardan alanlar ile tamamen yabancı dilde yürütülen programlara başvuracak adaylardan Türkçe yeterlik belgesi istenmez.
+(3) Yabancı uyruklu adayların lisansüstü programlara kabulünde ALES veya eşdeğeri bir sınava girmiş olma şartı aranmayabilir. Program bazında yabancı uyruklu öğrencilerin kabulüne ilişkin usul ve esaslar ilgili anabilim/anasanat dalı başkanlıklarınca düzenlenebilir.
+(4) Yurt dışındaki yükseköğretim kurumlarından mezun olan Türk ve yabancı uyruklu öğrencilerin lisansüstü programlara kabul edilebilmeleri için YÖK’ün getirmiş olduğu tanınırlık ve denklik şartlarını karşılamaları gerekir.

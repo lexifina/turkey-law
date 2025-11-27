@@ -1,0 +1,3 @@
+Sınav sonuçlarına itiraz ve hata düzeltme
+MADDE 46- (1) Maddi hatalar nedeniyle sınav sonuçlarına itiraz sınav sonuçlarının ilanını takip eden beş iş günü içinde ilgili enstitü müdürlüğüne yazılı olarak yapılır. İtiraz dersin sorumlu öğretim elemanı tarafından değerlendirilir. Başvuru üzerine yapılan inceleme neticesinde maddi hata tespit edilirse, konu yazılı olarak enstitü müdürlüğüne iletilir ve gerekli işlemler enstitü yönetim kurulunca gerçekleştirilir. Yapılan değişiklik öğrenciye yazılı olarak duyurulur.
+(2) Maddi hatanın dersin sorumlu öğretim elemanı tarafından tespiti halinde konu yazılı olarak enstitü müdürlüğüne iletilir ve gerekli işlemler enstitü yönetim kurulunca gerçekleştirilir. Yapılan değişiklik öğrenciye yazılı olarak duyurulur.

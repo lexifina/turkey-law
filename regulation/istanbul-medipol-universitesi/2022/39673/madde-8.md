@@ -1,0 +1,3 @@
+Danışman atanması ve değişikliği
+MADDE 8- (1) Enstitü anabilim/anasanat dalı başkanlığı, her öğrenci için ders seçiminde ve dönem projesinin yürütülmesinde danışmanlık yapacak bir öğretim üyesi veya Senato tarafından belirlenen niteliklere ve doktora derecesine sahip öğretim elemanını en geç birinci yarıyılın sonuna kadar belirler.
+(2) Danışman önerisi ilgili enstitü yönetim kurulunun onayı ile kesinleşir. Öğrencilerin gerekçeli danışman değişikliği istemi, ilgili anabilim/anasanat dalı başkanlığının önerisi de dikkate alınarak enstitü yönetim kurulunda karara bağlanır. Danışmanın danışmanlık görevinden çekilme istemi de aynı şekilde karara bağlanır.

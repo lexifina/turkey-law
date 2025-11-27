@@ -1,0 +1,3 @@
+Derslere devam
+MADDE 43- (1) Uzaktan eğitim sistemiyle verilenler hariç derslere, laboratuvarlara ve uygulamalara devam zorunludur. Teorik derslerin %30’undan, uygulama ve laboratuvar saatlerinin %20’sinden fazlasına katılmayan öğrenci o dersin genel sınavına alınmaz. Devamsızlıkları nedeniyle sınava girme hakkı kazanamayanların listesi, genel sınavdan en az bir hafta önce ilgili dersin sorumlu öğretim elemanı tarafından ilan edilerek eğitim bilgi sistemine işlenir ve enstitü yönetimine bilgi verilir.
+(2) Öğrencilerin ders, uygulama, laboratuvar ve benzeri çalışmalara devamları ilgili öğretim elemanı tarafından izlenerek değerlendirilir. Not yükseltmek amacıyla tekrarlanan veya başarısızlık nedeniyle tekrar alınan derslerde devam koşulu aranmaz.

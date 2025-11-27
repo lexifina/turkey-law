@@ -1,0 +1,5 @@
+İzinli sayılma (Kayıt dondurma)
+MADDE 53- (1) Haklı ve geçerli nedenlerin varlığı hâlinde öğrencinin veya vekilinin yazılı başvurusu üzerine, öğrenciye en fazla iki yarıyıl izin verilebilir. Öğrencilerin izin istekleri ve gerekçeleri ilgili yönetim kurulu tarafından değerlendirilir ve sonuç Rektörlüğe bildirilir.
+(2) Öğrenimine katkıda bulunacak yurt dışı burs ve araştırma ortamı gibi olanaklar elde eden öğrenciye danışmanının önerisi, anabilim/anasanat dalı başkanlığının uygun görüşü ve enstitü yönetim kurulunun kararıyla izin verilebilir.
+(3) 14/7/1965 tarihli ve 657 sayılı Devlet Memurları Kanunu ile 22/5/2003 tarihli ve 4857 sayılı İş Kanununda belirtilen mazeret ve hastalık izinleri ile doğum nedeniyle kadın öğrenciye verilen ücretsiz izin ve muvazzaf askerlikte geçen süreler azami öğretim süresine eklenir.
+(4) Bu Yönetmeliğin ilgili maddelerinde belirtilen haklı ve geçerli nedenlerle izinli veya raporlu sayılan öğrencilerin izinli ve raporlu olduğu süreler içinde öğrencilik hak ve yükümlülükleri devam eder.
