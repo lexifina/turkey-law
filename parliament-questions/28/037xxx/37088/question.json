@@ -1,0 +1,21 @@
+{
+  "record_type": "parliament-written-question",
+  "term": 28,
+  "legislative_year": 4,
+  "esas_no": "7/37088",
+  "submitted": "2025-11-27",
+  "submitted_as": "Başkanlığa geliş tarihi",
+  "mp": "Mustafa BİLİCİ",
+  "province": "İzmir",
+  "summary": "2023'ten bu yana yem ve nişasta sanayilerinde kullanılmak üzere ithal edilen mısır miktarına ilişkin",
+  "status": "Süresi Geçtikten Sonra Cevaplandı",
+  "status_as_of": "2026-11-16",
+  "official_record": "https://www.tbmm.gov.tr/Denetim/Yazili-Soru-Onergesi-Detay/27f5e243-50c9-4999-afaa-019aca1bd730",
+  "source": "https://tbmm.gov.tr/Denetim/YaziliSoruOnergesiTable",
+  "source_form": "https://tbmm.gov.tr/Denetim/Yazili-Soru-Onergeleri",
+  "source_sha256": "057f49d4ce836a17a9a172c1480cc1580f612f09fa6714d3a29a009d7c5d4d0f",
+  "in_force": "2025-11-27",
+  "in_force_basis": "Date the question reached the Speaker (Başkanlığa geliş tarihi) in the official TBMM written-question record; parliamentary oversight record, not law",
+  "history_type": "metadata",
+  "text_status": "metadata-only: question text, addressee and answers are in the linked official record (PDFs on cdn.tbmm.gov.tr); not transcribed here"
+}
