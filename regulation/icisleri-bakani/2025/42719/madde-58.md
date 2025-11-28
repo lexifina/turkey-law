@@ -1,0 +1,21 @@
+Disiplin ve Soruşturma Büro Amirliğinin görevleri
+MADDE 58- (1) Disiplin ve Soruşturma Büro Amirliği;
+a) Fakülte ve PAEM hariç Başkanlık personeli hakkında gerekli inceleme, ön inceleme veya disiplin soruşturma onaylarını almak, belirtilen soruşturmalarla ilgili soruşturmacı, ön incelemeci ve incelemeci (araştırmacı) görevlendirme işlemlerini yapmak,
+b) Başkanlık Polis Disiplin Kurulu veya Akademi Yönetim Kurulu tarafından karara bağlanmak üzere intikal eden soruşturma dosyalarının karara bağlanması için gerekli inceleme ve hazırlıkları yapmak,
+c) Soruşturmacılar tarafından ikmal edilen soruşturmaların ilgili mevzuata uygunluğunu incelemek, varsa noksanlıkların giderilmesi için dosyanın muhatabına iadesini sağlamak veya soruşturmanın genişletilmesi talebine ilişkin onayları ilgili makamlardan almak,
+ç) İkmal edilen dosyaların disiplin kurullarında görüşülmesi için kurul gündemini hazırlamak, verilen kurul kararlarını yazarak üyelerce imzalanmasını sağlamak ve karar defterlerini düzenli bir şekilde tutmak,
+d) Disiplin kurullarınca verilen kararların onay makamınca uygun görülmemesi hâlinde soruşturma dosyalarının ilgili mevzuat gereğince tespit edilen kurullara gönderilmesini sağlamak,
+e) Disiplin kurullarının oluşumu ile ilgili onayları hazırlatmak, kurulun toplanması için kurul üyelerine duyuruda bulunmak,
+f) Soruşturması yürütülen personelin son savunmalarının alınması suretiyle dosyaların tekemmülünü temin etmek, soruşturma dosyalarıyla ilgili kayıt işlemlerini yürütmek,
+g) Kesinleşen kararın tasdikli örneğinin ilgiliye tebliği ve gereği yapılmak üzere personelin bağlı olduğu birime intikalini sağlamak,
+ğ) Kararın bir örneğinin, soruşturma dosyası ile birlikte ilgili personelin dosyasına konulmasını ve gerekli kayıtların tutulmasını sağlamak,
+h) Personel hakkında yapılan adli işlemin takibini yapmak,
+ı) Hazırlanan ön inceleme raporunu, fezlekeli soruşturma dosyalarını ilgili makam, komisyon ve disiplin kurullarına intikal ettirmek üzere gerekli işlemleri yapmak,
+i) Resen verilen cezaların onayını hazırlayarak infazını sağlamak,
+j) Yetkili makam veya kurulların verdiği Soruşturma İzni Verilmesine, Soruşturma İzni Verilmemesine, Lüzumu Muhakeme ve Men-i Muhakeme kararlarının ilgili adli ve idari makamlara gönderilmesini sağlamak,
+k) Disiplin kurulu sıfatıyla toplanan Akademi Yönetim Kurulunun sekretarya görevlerini yürütmek,
+l) PMYO, POMEM ve PEM Polis Disiplin Kurullarınca verilen ve Genel Müdürlük Makamının onaylarına sunulması gereken dosyaların, ilgili mevzuata uygun olarak hazırlanıp hazırlanmadığını kontrol etmek ve eksiği görülmeyen dosyalara ilişkin disiplin kurulu kararlarını Genel Müdürün onayına sunmak,
+m) PMYO, POMEM ve PEM Polis Disiplin Kurullarınca verilen ve Genel Müdürlük Makamınca onaylanmayan kararlar ile ilgili dosyaları yetkili disiplin kurulunda görüşülmesi için Genel Müdürlük Hukuk Müşavirliğine göndermek,
+n) Disiplin kurulu kararlarının ilgiliye tebliği ile personelin bağlı olduğu birime bildirilmesini sağlamak,
+o) Mevzuata uygun olarak verilen diğer görevleri yapmak,
+ile görevlidir.

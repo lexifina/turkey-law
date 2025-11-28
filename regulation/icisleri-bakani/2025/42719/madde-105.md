@@ -1,0 +1,22 @@
+Uluslararası İlişkiler ve Eğitim Büro Amirliğinin görevleri
+MADDE 105- (1) Uluslararası İlişkiler ve Eğitim Büro Amirliği;
+a) Başkanlığa gelen yabancı heyet ve temsilcilere rehberlik etmek, ziyaret programı hazırlamak, ziyaret ile ilgili iş ve işlemleri yapmak ve koordine etmek, yabancı heyetler ve temsilcilerle yapılan görüşmelerin protokol esasları çerçevesinde yürütülmesini sağlamak,
+b) Başkanlık görev alanına giren konularda uluslararası eğitim iş birliği anlaşmaları, protokol veya diğer uluslararası nitelikteki hukuki belge taslaklarını hazırlamak ya da hazırlanan taslaklar hakkında ilgili birimlerden alacağı görüşler doğrultusunda görüş bildirmek, uluslararası anlaşma, protokol ve diğer hukuki belgelerin ve ilgili birimlerce hazırlanacak dokümanların; müzakere edilmesini, imzalanmasını sağlamak ve ilgili birimlere göndermek,
+c) İmzalanan çok taraflı hukuki belgelerde vadeye bağlanmış hükümleri tespit edip zamanı geldiğinde, yükümlülüklerin yerine getirilmesi için ilgili birimlerle koordineyi sağlamak,
+ç) Emniyet Teşkilatının yurt dışı hizmet içi eğitimlerle ilgili ihtiyaçlarını ilgili birimler ile koordineli olarak tespit etmek ve eğitim imkânları ile ilgili araştırma ve görüşmeler yapmak/yaptırmak,
+d) Uluslararası eğitim faaliyetlerini ilgili birimlerle koordineli olarak düzenlemek ve/veya düzenlenmesini sağlamak,
+e) Yabancı ülke polislerine veya diğer kolluk görevlilerine yönelik olarak Emniyet Teşkilatı tarafından yurt içi ve yurt dışında gerçekleştirilecek eğitim faaliyetleri ile ilgili birim ve diğer kurum ve kuruluşlar ile müştereken plan-program hazırlamak ve bunları uygulanması için ilgili birimlere göndermek,
+f) Yabancı ülke polislerine veya diğer kolluk görevlilerine yönelik olarak yurt içi ve yurt dışında gerçekleştirilecek eğitim faaliyetleri için sertifika veya katılım belgelerinin ilgili birimlerle koordineli olarak düzenlenmesini sağlamak,
+g) Yabancı ülke polislerine veya diğer kolluk görevlilerine yönelik yapılan eğitim faaliyetlerinde eğitici ve katılımcı bilgilerinin veri girişlerini yapmak ve veri girişlerinin ilgili birimlerce yapılması amacıyla gerekli koordinasyonu sağlamak,
+ğ) Hizmet içi eğitim amacıyla yurt dışına gönderilen personelin düzenledikleri raporları değerlendirmek, eğitim faaliyetlerinde faydalanılmasını sağlamak üzere ilgili birimlere göndermek,
+h) Uluslararası eğitim kataloğu hazırlamak, ihtiyaç duyulan dillerde basımını sağlamak,
+ı) Uluslararası eğitim faaliyetlerini tanıtmak için tanıtıcı yazılı veya görsel materyal hazırlamak,
+i) Yurt dışında eğitim ile ilgili olarak Genel Müdürlüğü temsil etmek,
+j) Akademide düzenlenecek uluslararası toplantı, konferans ve seminer faaliyetlerini ilgili birimlerle koordineli olarak yerine getirmek,
+k) Başkanlık makamının yabancı elçi, temsilci veya heyetlerle yaptığı görüşmelere gerektiğinde katılmak,
+l) Diğer ülkelerin polis eğitim birimlerinin yapılanmaları, çalışma şekilleri ve mevzuatı ile teknolojik gelişmeleri hakkında ihtiyaç duyulması hâlinde bilgi toplamak, gerektiğinde görüşmeler yapmak ve ilgili birimlere aktarmak,
+m) Yurt dışına görevlendirilen Başkanlık personelini görev konusu ile ilgili olarak bilgilendirmek,
+n) Yurt dışı görev hitamı alınan yurt dışı görev dönüş raporlarını incelemek ve değerlendirilmek üzere ilgili birimlere göndermek,
+o) Yurt dışında gerçekleştirilecek gezi, seminer, çalıştay, konferans, sergi, toplantı, görüşme ve eğitim faaliyetlerine ilişkin birimlerle koordine kurarak katılımcıları tespit etmek ve gerekli onayları almak,
+ö) Mevzuata uygun olarak verilen diğer görevleri yapmak,
+ile görevlidir.

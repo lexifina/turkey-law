@@ -1,0 +1,20 @@
+Basın Protokol, Halkla İlişkiler ve Kurullar Büro Amirliğinin görevleri
+MADDE 11- (1) Basın Protokol, Halkla İlişkiler ve Kurullar Büro Amirliği;
+a) Akademinin yazılı ve görsel basın kuruluşları ile halkla ilişkilerine ve protokole ait işlemlerinin etkin, seri ve doğru bir şekilde yürütülmesini sağlamak,
+b) Basın ve diğer kitle iletişim araçlarında yayımlanan yazı ve haberleri, devamlı şekilde izlemek, incelemek ve değerlendirmek, ilgili olanları Başkanlık Makamına sunmak,
+c) Başkanlık Makamına sunulacak yazı ve haberleri verilecek talimat doğrultusunda ilgili birimlere havale ederek sonuçlarını takip etmek,
+ç) Yayımlanan yazı ve haberlerle ilgili olarak gerekli hâllerde açıklama ve tekziplerle ilgili çalışmaları yapmak,
+d) Gerek kurum içinde gerekse diğer kurum ve kuruluşlarla kurumsal iletişimin güçlendirilmesi faaliyetlerini gerçekleştirmek,
+e) Yayımlanan yazı ve haberlerle ilgili yapılan işlem, açıklama ve tekzipler hakkında Genel Müdürlüğe bilgi vermek,
+f) 9/10/2003 tarihli ve 4982 sayılı Bilgi Edinme Hakkı Kanunu kapsamında kişiler tarafından yapılan müracaatları değerlendirmek ve talepleri hakkında bilgi vermek,
+g) Akademinin bulunduğu hizmetlerle ilgili vatandaşların şahsen veya telefonla bildirdikleri istek, şikâyet, görüş ve önerilerinin kayıt altına alınmasını ve ilgili birimlerle koordine kurularak cevaplandırılmasını sağlamak,
+ğ) Medya kuruluşlarınca kamuoyu gündemine getirilen Akademi ile ilgili olumsuz konular ya da şikâyetleri değerlendirmek ve bu konular doğrultusunda yapılan iş ve işlemler hakkında kamuoyunu bilgilendirmek üzere Genel Müdürlüğe bilgi vermek,
+h) Akademiye medya kuruluşları tarafından yönlendirilen soruları, ilgili birimleri koordine ederek Akademi adına cevaplamak,
+ı) Özel ve tüzel kişiler tarafından Genel Müdürlüğün resmî e-posta adresine gönderilen iletilerden 1/11/1984 tarihli ve 3071 sayılı Dilekçe Hakkının Kullanılmasına Dair Kanunda belirtilen şartları taşıyanları ilgili birimlere iletmek, takip etmek ve sonucundan müracaat sahibine ve iletinin gönderildiği tüzel kişilere bilgi vermek,
+i) Akademinin ilgili birimlerince düzenlenen açılış, tören, seminer ve benzeri toplantılarda koordinasyonu sağlamak,
+j) Açılış töreni, mezuniyet ve benzeri programlara katılacak protokolün davetiyelerini hazırlamak ve dağıtmak,
+k) Akademi Yönetim Kurulu, Eğitim ve Öğretim Yüksek Kurulu, Bilimsel Denetleme Kurulu ile Bilimsel Araştırma ve Yayın Etiği Kurulunun toplanma, çalışma şekil ve esaslarıyla ilgili çalışmaları yapmak,
+1) Kurullarda alınan kararların yazılması, korunması ve muhafaza edilmesini sağlamak,
+m) Kurullarda alınan kararların ilgili birimlere iletilmesini sağlamak,
+n) Mevzuata uygun olarak verilen diğer görevleri yapmak,
+ile görevlidir.

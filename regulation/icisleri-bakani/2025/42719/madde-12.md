@@ -1,0 +1,20 @@
+Bilimsel Araştırma ve Projeleri Destekleme Büro Amirliğinin görevleri
+MADDE 12- (1) Bilimsel Araştırma ve Projeleri Destekleme Büro Amirliği;
+a) Öğretim elemanları ile doktora ve yüksek lisans öğrencileri tarafından hazırlanan ve komisyona sunulacak BAP’lara ilişkin işlemleri takip etmek,
+b) BAP ile ilgili gelir ve gidere ilişkin her türlü belge ve defterleri tutmak ve saklamak,
+c) Proje yöneticilerine ve proje ekibine teslim edilen demirbaş malzemelerin kayıtlarının ilgili mevzuatına göre tutulması için ilgili birimlerle gerekli yazışmaları yapmak,
+ç) İlgili birimler tarafından kanuni kesintiler yapıldıktan sonra proje hesabına aktarılan tutarları ilgili mevzuatta belirtilen usullere göre takip etmek,
+d) Projelerle ilgili her türlü komisyonları oluşturmak, buna ilişkin yazışmaları yürütmek,
+e) BAP bütçe hesaplarından doğan Devlet alacaklarının takip ve tahsili için ilgili birimlerle gerekli yazışmaları yapmak,
+f) Hizmet ile ilgili gelir ve giderlerin ilgili mevzuata uygun olmasını sağlamak,
+g) Proje yöneticilerince talep edilen malzeme, araç gereç, demirbaş ve sarf malzemelerinin satın alınması veya temini için ilgili birim ya da birimlerle gerekli yazışmaları yapmak,
+ğ) Proje ödemeleri ile ilgili her türlü ödemeye ait evrakı tanzim ederek hak sahiplerine ödeme yapılmak üzere ilgili birimlerine göndermek,
+h) Proje bütçe işlemlerinin güncel mevzuata göre uygulanması ve yerine getirilmesi için ilgili birimlerle gerekli yazışmaları yapmak,
+ı) Malî yıl içerisinde yapılan harcamaların gelir ve gider işlemlerini ilgili birimlerle koordine kurarak takip etmek,
+i) Yapılan harcamaların ödenek kalemine göre bütçe kayıtlarını düzenlemek,
+j) Proje gelirlerinin ilgili banka hesaplarından gelir takibini yaparak bütçe gelirlerine kayıt edilmek üzere muhasebeleştirme işlemlerini yapmak,
+k) BAP ile ilgili aylık ve yıllık faaliyet raporları hazırlamak ve ilgili birimlere göndermek,
+l) BAP komisyonu ve oluşturulacak diğer komisyonların her türlü sekretarya işlerini yürütmek,
+m) Bütçe imkânlarının en iyi şekilde kullanılması için ilgili birimlerle koordineli şekilde hareket etmek,
+n) Mevzuata uygun olarak verilen diğer görevleri yapmak,
+ile görevlidir.

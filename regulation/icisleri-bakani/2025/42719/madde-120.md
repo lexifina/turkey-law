@@ -1,0 +1,23 @@
+Eğitim ve Öğrenci İşlemleri Büro Amirliğinin görevleri
+MADDE 120- (1) Eğitim ve Öğrenci İşlemleri Büro Amirliği;
+a) Yıllık eğitim-öğretim takvimini hazırlayıp onaya sunmak, intibak eğitimi plan ve programını hazırlamak,
+b) Eğitim ile ilgili gelişmeleri takip etmek ve PMYO ve POMEM’lere görüş bildirmek,
+c) Öğrenci diplomalarının basımını yaptırarak okullara dağıtım işlemlerini yapmak,
+ç) PMYO ve POMEM’lerde, ilgili mevzuat gereği oluşturulacak kurul ve üyelerinin onaylarını almak ve okul kurullarınca bildirilen görüşleri değerlendirmek üzere ilgili birimlere bildirmek,
+d) Açılması veya kapatılması uygun görülen okullarla ilgili işlemleri yürütmek,
+e) PMYO ve POMEM’lere planlanan adayların merkezi soruşturmalarını yaptırmak,
+f) Yaptırılan güvenlik soruşturması ve arşiv araştırması sonucu aykırı durumları tespit edilen adayların dosyalarının işlemden kaldırılarak ilişik kesme işlemlerini yürütmek,
+g) Eğitim-öğretim döneminin başlangıcından sonra kendi isteği ile PMYO ve POMEM’lerden ayrılanların dosyalarını işlemden kaldırma ve ilişik kesme işlemlerini yapmak,
+ğ) PMYO ve POMEM öğrencilerine disiplin kurullarınca verilen disiplin cezaları ile ilgili işlemleri yürütmek,
+h) PMYO ve POMEM öğrencilerinin sosyal ve kültürel faaliyetlerini okullarla koordineli olarak yürütmek,
+ı) PMYO ve POMEM öğrencilerinin eğitim sonu sınavları ile mezuniyet işlemlerini yapmak,
+i) PMYO ve POMEM’lerde öğrenim gören öğrencilerden, girişte aranan nitelikleri taşımadıkları ya da girişte taşıdığı halde sonradan kaybettiği anlaşılan/öğrenilen öğrencilerin ilişik kesme işlemlerini yürütmek,
+j) PMYO ve POMEM müdürlüklerinin öğrencilerle ilgili ortak veri tabanının güncellemelerini sağlayarak, veri tabanını güncel tutmak,
+k) Sınıf tekrarı yapması gereken veya derslerden başarısız olduğu için ilişiği kesilmesi gereken öğrencilerin işlemlerini yapmak,
+l) Öğrencilerden devamsızlık sonucu sınıf tekrarı yapması veya ilişiği kesilmesi gereken öğrencilerin işlemlerini yapmak,
+m) Öğrenci işlemleri ile ilgili PMYO ve POMEM’lere görüş bildirmek,
+n) Eğitim ve Öğrenci İşlemleri Büro Amirliği işlemleri ile ilgili dilekçelere cevap vermek, şikâyet ve ihbar dilekçelerini değerlendirerek sıralı amirlerinden ilgilisine, ilgili Başkan Yardımcısına ya da önemine göre Başkana arz etmek,
+o) Eğitim-öğretime devam eden öğrencilerin askerlik işlemlerini yürütmek,
+ö) Mezuniyet başarı derecesinin belirlenmesinde esas alınacak ders sıralamasını yapmak,
+p) Mevzuata uygun olarak verilen diğer görevleri yapmak,
+ile görevlidir.
