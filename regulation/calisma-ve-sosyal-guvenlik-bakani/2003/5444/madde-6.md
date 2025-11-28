@@ -1,0 +1,2 @@
+Kurulun Çalışma Esasları
+Madde 6- Kurulun toplantı tarihinden önce idari ve mali faaliyet raporları ile toplantı gündemi, toplantıya katılacak temsilcilere toplantı tarihinden en az 15 gün önce gönderilir. Bu raporlarda Eğitim ve Araştırma Merkezinin gelecek çalışma dönemine ait politikalarına ilişkin görüş, proje, program ve teklifler de yer alır. Bu raporlar ve teklifler değerlendirilmek suretiyle gündem hazırlanır.
