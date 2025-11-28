@@ -1,0 +1,6 @@
+Fonun izlenmesi ve denetlenmesi
+MADDE 9- (1) Fon yöneticisi, uygulamanın gidişatı ve fon yatırımları hakkında Bakanlığa güncel durum, yürütülen faaliyetler, ilerlemeler ve riskler hakkında bilgi sunmak amacıyla üç ayda bir raporlama yapar.
+(2) Bakanlık tarafından gerekli görülmesi halinde fonun işleyişi hakkında alınması gereken tedbirler fon yöneticisine bildirilir.
+(3) Her bir hesap dönemi sonunda fon yöneticisi tarafından belirlenecek alternatifler arasından, yatırım komitesi tarafından uygun görülen bağımsız bir denetim şirketi tarafından yıllık denetim raporu hazırlanır.
+(4) Türkiye’de kurulu fonların özel kanunlarda tanımlanan istisnalar saklı kalmak kaydıyla fon hesaplarının defter ve kayıtlarının tutulmasında, 6/12/2012 tarihli ve 6362 sayılı Sermaye Piyasası Kanunu ve ilgili mevzuatı, fon içtüzüğü, 13/1/2011 tarihli ve 6102 sayılı Türk Ticaret Kanunu, vergi mevzuatı ve tek düzen hesap planına uyması zorunludur.
+(5) Fona aktarılan kaynağın usulsüz ve amacı dışında kullanıldığının Bakanlıkça doğrudan veya dolaylı olarak tespiti halinde Bakanlık; bu Yönetmelik ile yatırımcı sözleşmesinde belirtilen yetkiler dahilinde sürecin gerektirdiği; fona kaynak taahhüdünü yerine getirmeme, fonun tasfiye edilmesi gibi tedbirleri alma, ilgili kamu kurum veya kuruluşlarına bildirimde bulunma ve hukukî yollara başvurma hakkına sahiptir.

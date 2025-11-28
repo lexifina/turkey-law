@@ -1,0 +1,6 @@
+İKİNCİ BÖLÜM
+Çağrı ve Başvuru Şartları
+Çağrı ve başvuru şartları
+MADDE 4- (1) Bakanlık, kaynak sağlayacağı fonu belirleme sürecini çağrı ile başlatır. Bakanlıkça kalkınma planı, strateji belgeleri ve benzeri üst politika dokümanlarında belirtilen öncelikler doğrultusunda, çağrı amaçları ve alanları belirlenir. Çağrı duyurusunda, başvuruda talep edilen bilgi ve belgeler, fonun nitelikleri, fonlara sağlanacak kaynağın üst sınırı, 7 nci maddenin dördüncü fıkrasında sayılan masrafların üst limiti, tahsis edilecek kaynağın kullanım amacı ve uygulamaya ilişkin diğer hususlar belirtilir. Bakanlık, yılda bir veya birden fazla çağrıya çıkabilir ve gerekli gördüğü hallerde her bir çağrıya özel başvuru şartları belirlemeye yetkilidir.
+(2) Her bir çağrı sonunda gelen başvurulardan çağrı özel şartlarını sağlayanlar, Fon Değerlendirme Komisyonuna sunulur. Ayrıca 6 ncı maddenin birinci fıkrasında yer alan değerlendirme kriterlerine ilişkin detaylar çağrı duyurusunda belirtilir.
+(3) Bakanlık ilk defa girişim sermayesi fonu kuracaklar için, fonun en az %50’sinin diğer yatırımcılar tarafından taahhüt edilmesi koşuluyla 6 ncı maddenin birinci fıkrasındaki kriterlerin aranmasına gerek olmadığına karar verebilir.
