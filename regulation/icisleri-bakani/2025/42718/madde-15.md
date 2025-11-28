@@ -1,0 +1,20 @@
+Plan Program Büro Amirliğinin görevleri
+MADDE 15- (1) Plan Program Büro Amirliği;
+a) Yıllık uzmanlık eğitimi, kurs ve sertifika programlarına ait takvimi belirlemek ve bu programların yürütülmesine ilişkin işlemleri yürütmek,
+b) Enstitünün öğretim elemanı ihtiyacını karşılamak için gerekli çalışmaları ve yazışmaları yapmak,
+c) Enstitü adına yapılan bilimsel araştırma ve çalışmalar sonucunda, çıkarılacak her türlü akademik yayının yayımını sağlamak,
+ç) Enstitü mevzuatının geliştirilmesine yönelik çalışmalar yapmak, Enstitü görüşünü belirlemek ve ilgili mercilere bildirmek,
+d) Enstitünün eğitim-öğretim takvimini hazırlamak,
+e) Her ders yılı başında ders verecek öğretim elemanları için onay almak,
+f) Haftalık ders programını hazırlayıp ilgililere duyurmak,
+g) Öğretim elemanlarının günlük derslere devam çizelgesini hazırlamak, belirli periyotlar hâlinde Müdüre sunmak,
+ğ) Eğitim-öğretimle ilgili dosya, defter, istatistik ve grafikleri düzenlemek,
+h) Öğretim elemanları ile Enstitü, öğrenciler ile öğretim elemanları arasındaki iletişimi sağlamak,
+ı) Bilimsel sempozyum, konferans, seminer ve panel gibi faaliyetlerle ilgili hazırlıkları ve yazışmaları yapmak,
+i) Kurulların sekretarya işlemlerini yürütmek, gündemini oluşturmak ve bu kurullarda alınan kararların ilgililere duyurulmasını sağlamak,
+j) Yurt içi ve yurt dışı üniversiteler ile diğer kurumlarla yapılacak yazışmaları yürütmek,
+k) Uzmanlık eğitimi, kurs ve sertifika programları düzenlenmesi için çalışmalar yapmak,
+l) Uzmanlık eğitimi, kurs ve sertifika programlarına katılacak öğretim elemanları ile ilgili ders programını planlamak, onaya sunmak ve ilgililere duyurmak,
+m) Göreviyle ilgili konulara ilişkin görüş yazılarına cevabi yazıları hazırlayarak ilgili mercilere bildirmek,
+n) Mevzuata uygun olarak verilen diğer görevleri yerine getirmek,
+ile görevlidir.

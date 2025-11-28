@@ -1,0 +1,2 @@
+Uzmanlık eğitimi, kurs ve sertifika programları
+MADDE 31- (1) Enstitüde, öncelikle Genel Müdürlüğün ihtiyaçları doğrultusunda olmak üzere kamu ve özel sektöre yönelik belirli alanlarda uzmanlık eğitimi, kurs ve sertifika programları açılmasına Enstitü Kurulu tarafından karar verilir. Enstitü Yönetim Kurulu, açılmasına karar verilen kurs ve sertifika programlarının yürütülmesine ilişkin usul ve esasları belirler.
