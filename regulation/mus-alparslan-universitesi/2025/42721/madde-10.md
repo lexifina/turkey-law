@@ -1,0 +1,3 @@
+Yönetim Kurulu
+MADDE 10- (1) Yönetim Kurulu; Dekanın, Dekan olmadığı zamanlarda Müdürün (Başhekimin) başkanlığında, dekan yardımcıları, müdür yardımcıları (başhekim yardımcıları) ve Merkezin faaliyet alanları ile ilgili çalışmaları bulunan Fakültede görev yapan öğretim elemanları arasından Dekanın önerisi üzerine Rektör tarafından üç yıllık süre için görevlendirilen üç üye olmak üzere toplam en fazla dokuz üyeden oluşur.
+(2) Yönetim Kurulu, yılda en az bir kez salt çoğunlukla toplanır ve kararlar oy çokluğu ile alınır. Oyların eşitliği halinde Başkanın kullandığı oy yönünde çoğunluk sağlanmış sayılır.

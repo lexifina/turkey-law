@@ -1,0 +1,4 @@
+Merkezin ünite ve birimleri
+MADDE 18- (1) Merkezde, ilgili mevzuat hükümlerine uygun olarak, ihtiyaç duyulan alanlarda hizmet ve eğitim kalitesini ve verimliliği artırmak amacıyla çalışma grupları, komisyon, komite, ünite ve bağlı birimler kurulabilir. Bunların çalışma usul ve esasları Yönetim Kurulu tarafından belirlenir.
+(2) Merkezde ve ilişkili birimlerde bulunan ameliyathane, yataklı servis, poliklinik veya laboratuvar hizmetleri ile Merkezin idari işlerinde görevli olanlar, Dekan ve Müdüre (Başhekime) karşı sorumludurlar.
+(3) Merkezin faaliyet alanlarında görevli anabilim dalı başkanları, laboratuvar ve klinik sorumluları; sorumluluk alanlarına giren bölgelerde hizmetlerin en verimli ve en iyi şekilde gerçekleştirilmesinden Merkezin yönetimi ile iş birliği ve koordinasyon içinde olmakla yükümlü ve sorumludurlar.
