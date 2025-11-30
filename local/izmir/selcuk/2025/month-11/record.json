@@ -1,0 +1,30 @@
+{
+  "number": "month-11",
+  "year": 2025,
+  "month": 11,
+  "title": "Kasım Ayı Meclis Toplantısı Gündemi 2025",
+  "decision_date": null,
+  "index_date": "2025-11-30",
+  "date_precision": "month",
+  "period": "Kasım 2025",
+  "source": "https://www.selcuk.bel.tr/siteApi/services/meclisGundemVeKararlari.json?month=0&year=2025&type=karar",
+  "official_page": null,
+  "official_document": "https://www.selcuk.bel.tr/fileserver/uploads/3hyqd.pdf",
+  "source_sha256": "3aec775b901179a7e69450c5b49aa0b50e6a75058fb182e217541397877a460d",
+  "issuer": "Selçuk Belediye Meclisi",
+  "history_type": "metadata",
+  "text_status": "metadata-only: listing fields as published; the decisions are in the linked official document(s) or page, not transcribed",
+  "in_force": "2025-11-30",
+  "in_force_basis": "The official listing gives only the month of this official file (Kasım 2025); date set to the last day of that month (turkey-law date convention for month-only sources); exact adoption dates are in the linked official document; legal commencement not asserted",
+  "missing": [
+    "decision numbers, dates and subjects",
+    "complete official decision text",
+    "official annexes"
+  ],
+  "law_text_complete": false,
+  "privacy_withheld": false,
+  "listing_label": "Kasım Ayı Meclis Toplantısı Gündemi 2025",
+  "record_scope": "one official file of council decisions (meeting or month)",
+  "list_date": "31 Ekim 2025",
+  "list_year": 2025
+}
