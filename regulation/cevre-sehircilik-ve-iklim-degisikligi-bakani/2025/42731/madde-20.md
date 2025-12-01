@@ -1,0 +1,3 @@
+Büyük yakma tesisleri için özel hükümler
+MADDE 20- (1) EK-1’de yer alan büyük yakma tesislerinin SYD belgelendirme sürecinde bu Yönetmelik ve Bakanlıkça yapılan düzenlemelerde yer alan esaslar uygulanır.
+(2) (Danıştay Dördüncü Dairesinin 2/2/2026 tarihli ve E.:2025/1841 sayılı kararı ile yürütmesi durdurulan fıkra: Bakanlık, büyük yakma tesisleri için; işletmenin faaliyete geçiş tarihi, kalan işletim ömrü, yerel yakıt özellikleri, bölgesel ısıtma sistemleri ile bağlantısı, uyum maliyetlerinin çevresel kazanımlarla orantısız olması gibi Bakanlıkça yapılan düzenlemelerde yer alan koşul ve durumlarda MET-İES ve ESD’ler için istisna ve muafiyetler getirebilir.)
