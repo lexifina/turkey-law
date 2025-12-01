@@ -1,0 +1,23 @@
+{
+  "number": "meeting-12-01",
+  "number_as_published": "meeting-12-01",
+  "year": 2025,
+  "title": "01.12.2025 MECLİS KARARLARI",
+  "decision_date": "2025-12-01",
+  "source": "https://tekkekoy.bel.tr/dosyalar/6/belediye-meclis-kararlari/?yil=2025",
+  "official_document": "https://tekkekoy.bel.tr/uploads/01.12.2025-MECLİS-KARARLARI.doc",
+  "source_sha256": "5bdf0a7d2e8c4b44fba252043ee9653100ab5c63c6f17301a44286655fea9a9b",
+  "issuer": "Tekkeköy Belediye Meclisi",
+  "history_type": "metadata",
+  "text_status": "metadata-only: listing fields as published; complete decision text is in the linked official document, not transcribed",
+  "in_force": "2025-12-01",
+  "in_force_basis": "Decision date as printed in the official council listing: 01.12.2025; adoption date of the council decision; legal commencement not asserted",
+  "missing": [
+    "complete official decision text",
+    "official annexes"
+  ],
+  "law_text_complete": false,
+  "privacy_withheld": false,
+  "listing_label": "01.12.2025 MECLİS KARARLARI",
+  "record_scope": "one official file of council decisions (meeting)"
+}
