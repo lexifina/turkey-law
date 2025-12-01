@@ -1,0 +1,4 @@
+Sınav sonuçlarına itiraz
+MADDE 14- (1) Sınav sonuçlarına sadece maddi hata yönünden itiraz edilebilir. İtirazlar, sınav tarihini takiben en geç üç iş günü içinde yazılı olarak Bölüm Başkanlığına iletilir. Bölüm Başkanı, ilgili öğretim elemanlarından itirazda bulunan öğrencinin sınav kâğıdını inceleyerek maddi hata olup olmadığını Bölüm Başkanlığına yazılı olarak bildirmesini isteyebilir. İtiraz edilen sınav kağıtları tekrar incelenir ve sonuç ilgili öğrenciye Bölüm Başkanlığınca bildirilir.
+(2) İtiraz sonucunda verilen kararı yeterli görmeyen öğrenci Bölüm Başkanlığı bildiriminden itibaren en geç üç iş günü içinde dilekçe ile Rektörlüğe başvuruda bulunma hakkına sahiptir. Bu durumda kesin karar, kurulacak komisyonun görüşü alınarak Yönetim Kurulunca verilir.
+(3) İYS’ye ait not değişiklikleri Yönetim Kurulu kararı ile geçerlilik kazanır.
