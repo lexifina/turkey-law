@@ -1,0 +1,22 @@
+{
+  "kind": "norm",
+  "issuer": "Gelir İdaresi Başkanlığı",
+  "document_type": "ozelge",
+  "number": "E-66523654-130[ÖZG-42-2025]-149871",
+  "source_id": 38944,
+  "date": "2025-12-01",
+  "title": "Taşıma İşleri Organizatörlüğü Belgesi (TİO) Olmaksızın Alt Yüklenicilere Yaptırılan Taşımalarda Taşımacılık İstisnası Uygulaması Hk.",
+  "source": "https://gib.gov.tr/mevzuat/kanun/436/ozelge/38944",
+  "related_law": "3065 sayılı KATMA DEĞER VERGİSİ KANUNU",
+  "source_api": "https://gib.gov.tr/api/gibportal/mevzuat/ozelge/list",
+  "source_listing": "evidence/list/2026-11-16/ozelge-p009.json",
+  "source_listing_sha256": "9cb52b4963a9a177a23948f6e28c12936c2f43c88a0b410872bb81c01983667c",
+  "source_sha256": "1f0ccc5be5b25d267b7a7f8c6926b13bfdb7bd4b74388c2d98d10844ec2c0f19",
+  "text_status": "as-enacted",
+  "text_file": "metin.md",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  }
+}
