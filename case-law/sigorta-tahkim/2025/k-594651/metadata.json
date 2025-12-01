@@ -1,0 +1,15 @@
+{
+  "number": "K-2025/594651",
+  "award_date": "2025-12-01",
+  "heading_as_published": "01.12.2025 Tarih ve K-2025/594651 Sayılı Hakem Kararı",
+  "issue": "Hakem Karar Dergisi 64 Ekim - Aralık 2025",
+  "source_url": "https://www.sigortatahkim.org/content/CmsFiles/karardrgs64.pdf",
+  "source_sha256": "b5788770ec8130a95a9d5cff7598e075fa9911ebcac373ac389da79d4a2541b5",
+  "text_status": "metadata-only",
+  "metadata_only_reason": "the two text extractions differ in letters/digits",
+  "source_images": 6,
+  "images_status": "issue contains images; award text taken from the text layer only",
+  "missing_components": [
+    "award text (see official issue PDF)"
+  ]
+}
