@@ -1,0 +1,22 @@
+{
+  "kind": "norm",
+  "issuer": "Gelir İdaresi Başkanlığı",
+  "document_type": "ozelge",
+  "number": "64958909-120-126878",
+  "source_id": 38800,
+  "date": "2025-12-02",
+  "title": "Dernek tarafından kira yardımı adı altında yapılan ödemelerinin gelir vergisi tevkifatına ve kira sözleşmelerinin damga vergisine tabi olup olmadığı",
+  "source": "https://gib.gov.tr/mevzuat/kanun/438/ozelge/38800",
+  "related_law": "488 sayılı DAMGA VERGİSİ KANUNU",
+  "source_api": "https://gib.gov.tr/api/gibportal/mevzuat/ozelge/list",
+  "source_listing": "evidence/list/2026-11-16/ozelge-p009.json",
+  "source_listing_sha256": "9cb52b4963a9a177a23948f6e28c12936c2f43c88a0b410872bb81c01983667c",
+  "source_sha256": "0fc5aae3465997a0fb3d1c6e94ab85e2b2d2f11e9fb086d7648d3a20171be0d0",
+  "text_status": "as-enacted",
+  "text_file": "metin.md",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  }
+}
