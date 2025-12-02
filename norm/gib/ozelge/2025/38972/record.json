@@ -1,0 +1,22 @@
+{
+  "kind": "norm",
+  "issuer": "Gelir İdaresi Başkanlığı",
+  "document_type": "ozelge",
+  "number": "E-39044742-130[Özelge]-1593237",
+  "source_id": 38972,
+  "date": "2025-12-02",
+  "title": "İşletmede Kullanmak Üzere Alınan Elektrikli Motorlu Bisiklete İlişkin KDV'nin İndirim Konusu Yapılıp Yapılamayacağı",
+  "source": "https://gib.gov.tr/mevzuat/kanun/436/ozelge/38972",
+  "related_law": "3065 sayılı KATMA DEĞER VERGİSİ KANUNU",
+  "source_api": "https://gib.gov.tr/api/gibportal/mevzuat/ozelge/list",
+  "source_listing": "evidence/list/2026-11-16/ozelge-p009.json",
+  "source_listing_sha256": "9cb52b4963a9a177a23948f6e28c12936c2f43c88a0b410872bb81c01983667c",
+  "source_sha256": "6393c9ff93e9cedc6f9a15bbaca2e00d5a6812d8e3d6c9b6719a0b94dcd049ba",
+  "text_status": "as-enacted",
+  "text_file": "metin.md",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  }
+}
