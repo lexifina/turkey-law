@@ -1,0 +1,24 @@
+{
+  "number": "meeting-12-02",
+  "number_as_published": "meeting-12-02",
+  "year": 2025,
+  "title": "02.12.2025 227-241 2025 Yılı Aralık Ayı Meclis Karar Özetleri",
+  "decision_date": "2025-12-02",
+  "source": "https://www.soma.bel.tr/karar-detay/2025-yili-aralik-ayi-meclis-kara-oezetleri/79",
+  "official_document": "https://www.soma.bel.tr/media/meclis_kararlari/1764936520Aralık Ayı Meclis Karar Ozetleri.pdf",
+  "source_sha256": "c792fb9f786ff23f0d6f0f058b1b0889dd19eddd8cd31d896679c930ce6b9516",
+  "issuer": "Soma Belediye Meclisi",
+  "history_type": "metadata",
+  "text_status": "metadata-only: listing fields as published; complete decision text is in the linked official document, not transcribed",
+  "in_force": "2025-12-02",
+  "in_force_basis": "Decision date as printed in the official council listing: 02.12.2025; adoption date of the council decision; legal commencement not asserted",
+  "missing": [
+    "complete official decision text",
+    "official annexes"
+  ],
+  "law_text_complete": false,
+  "privacy_withheld": false,
+  "listing_label": "02.12.2025 227-241 2025 Yılı Aralık Ayı Meclis Karar Özetleri",
+  "record_scope": "one official file of council decisions (meeting)",
+  "official_page": "https://www.soma.bel.tr/karar-detay/2025-yili-aralik-ayi-meclis-kara-oezetleri/79"
+}
