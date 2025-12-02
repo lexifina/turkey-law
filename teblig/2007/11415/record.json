@@ -1,0 +1,95 @@
+{
+  "source_id": "9.5.11415",
+  "kind": "communique",
+  "register_kind": "Tebliğler",
+  "title": "YAPI İŞLERİ İNŞAAT, MAKİNE VE ELEKTRİK TESİSATI GENEL TEKNİK ŞARTNAMELERİNE DAİR TEBLİĞ (TEBLİĞ NO: YFK- 2007/1)",
+  "number": "11415",
+  "issuer": "Bayındırlık ve İskan Bakanı",
+  "path": "teblig/2007/11415",
+  "source": "https://www.mevzuat.gov.tr/anasayfa/MevzuatFihristDetayIframe?MevzuatTur=9&MevzuatNo=11415&MevzuatTertip=5",
+  "source_sha256": "d699e5191386b19ed82c28a63b66c9c7ba49b1a99a8f012e5b67c8a08571ea47",
+  "source_bytes": 29000,
+  "published": "2007-06-30",
+  "gazette": "26568 Mükerrer",
+  "in_force": "2025-12-02",
+  "in_force_basis": "latest Resmî Gazete date printed in the source amendment notes/table (\"2/12/2025\") for the current consolidated text",
+  "date_evidence": [
+    [
+      "2025-12-02",
+      "2/12/2025",
+      "Resmî Gazete date in the source amendment table"
+    ],
+    [
+      "2024-08-18",
+      "18/8/2024",
+      "Resmî Gazete date in the source amendment table"
+    ],
+    [
+      "2022-06-15",
+      "15/6/2022",
+      "Resmî Gazete date in the source amendment table"
+    ],
+    [
+      "2021-12-16",
+      "16/12/2021",
+      "Resmî Gazete date in the source amendment table"
+    ],
+    [
+      "2021-09-11",
+      "11/9/2021",
+      "Resmî Gazete date in the source amendment table"
+    ],
+    [
+      "2021-07-18",
+      "18/7/2021",
+      "Resmî Gazete date in the source amendment table"
+    ],
+    [
+      "2020-11-25",
+      "25/11/2020",
+      "Resmî Gazete date in the source amendment table"
+    ],
+    [
+      "2020-03-12",
+      "12/3/2020",
+      "Resmî Gazete date in the source amendment table"
+    ],
+    [
+      "2019-12-01",
+      "1/12/2019",
+      "Resmî Gazete date in the source amendment table"
+    ],
+    [
+      "2019-03-06",
+      "6/3/2019",
+      "Resmî Gazete date in the source amendment table"
+    ],
+    [
+      "2019-01-31",
+      "31/1/2019",
+      "Resmî Gazete date in the source amendment table"
+    ],
+    [
+      "2018-11-29",
+      "29/11/2018",
+      "Resmî Gazete date in the source amendment table"
+    ]
+  ],
+  "commencement_clauses": [
+    "Bu Tebliğ, 01/07/2007 tarihinde yürürlüğe girer"
+  ],
+  "history": "current-text",
+  "label": "oldest version available",
+  "checked_on": "2026-11-15",
+  "word_count": 265,
+  "text_status": "current-consolidated",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  },
+  "source_links": [
+    "9.5.11415-Ek.zip"
+  ],
+  "completeness": "html-text-complete; linked annexes not fetched"
+}

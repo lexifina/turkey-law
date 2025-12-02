@@ -1,0 +1,2 @@
+Madde 1 – (Değişik:RG-6/3/2018-30352)(1)
+(1) Bu Tebliğ, 29/6/2011 tarihli ve 644 sayılı Çevre ve Şehircilik Bakanlığının Teşkilat ve Görevleri Hakkında Kanun Hükmünde Kararnamenin 32 nci maddesi kapsamına giren kurum ve kuruluşların uymak ve uygulamak zorunda oldukları yapı işleri inşaat, makine ve elektik tesisatı genel teknik şartnamelerinin belirlenmesi amacıyla, 644 sayılı Kanun Hükmünde Kararnamenin 2 nci maddesinin birinci fıkrasının (k) bendi hükmüne dayanılarak hazırlanmıştır.
