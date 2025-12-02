@@ -1,0 +1,8 @@
+Tanımlar
+MADDE 4- (1) Bu Yönetmelikte geçen;
+a) Aday: Polis eğitim kurumlarındaki öğrenim süresini başarı ile tamamlayan öğrenciler, İç Güvenlik Fakültesinin birinci ve ikinci sınıfını başarıyla tamamladıktan sonra lisans öğrenimini süresi içerisinde tamamlayamayan veya tamamlayamayacağı anlaşılan öğrenciler ve polis meslek yüksekokullarından dikey geçişle İç Güvenlik Fakültesine kaydolanlardan; hazırlık sınıfında başarısız olan ya da hazırlık sınıfı hariç toplam üç yıl veya altı yarıyılda lisans öğrenimini tamamlayamayan veya tamamlayamayacağı anlaşılan öğrencileri,
+b) Başkanlık: Polis Akademisi Başkanlığını,
+c) Mesleki bilgi düzeyi: Adayların polis eğitim kurumunda gördüğü derslerle ilgili bilgi düzeyini,
+ç) Polis eğitim kurumları: Polis Akademisi Başkanlığına bağlı İç Güvenlik Fakültesi, Polis Amirleri Eğitimi Merkezi, polis meslek eğitim merkezleri ve polis meslek yüksekokullarını,
+d) Sınav: Polis eğitim kurumlarında öğrenim gören öğrencilerden öğrenim süresini başarıyla tamamlayanların Emniyet Genel Müdürlüğü kadrolarına polis memuru veya komiser yardımcısı olarak; İç Güvenlik Fakültesinin birinci ve ikinci sınıfını başarıyla tamamladıktan sonra lisans öğrenimini süresi içerisinde tamamlayamayan veya tamamlayamayacağı anlaşılan öğrenciler ile polis meslek yüksekokullarından dikey geçişle İç Güvenlik Fakültesine kaydolanlardan; hazırlık sınıfında başarısız olan ya da hazırlık sınıfı hariç toplam üç yıl veya altı yarıyılda lisans öğrenimini tamamlayamayan veya tamamlayamayacağı anlaşılan öğrencilerin Emniyet Genel Müdürlüğü kadrolarına polis memuru olarak atanmalarından önce yapılan sınavı,
+ifade eder.
