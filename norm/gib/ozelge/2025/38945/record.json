@@ -1,0 +1,22 @@
+{
+  "kind": "norm",
+  "issuer": "Gelir İdaresi Başkanlığı",
+  "document_type": "ozelge",
+  "number": "E-45404237-130[I-23-379]-389645",
+  "source_id": 38945,
+  "date": "2025-12-02",
+  "title": "Sosyal İçerik Üreticiliğinde KDV Oranı Hk.",
+  "source": "https://gib.gov.tr/mevzuat/kanun/436/ozelge/38945",
+  "related_law": "3065 sayılı KATMA DEĞER VERGİSİ KANUNU",
+  "source_api": "https://gib.gov.tr/api/gibportal/mevzuat/ozelge/list",
+  "source_listing": "evidence/list/2026-11-16/ozelge-p009.json",
+  "source_listing_sha256": "9cb52b4963a9a177a23948f6e28c12936c2f43c88a0b410872bb81c01983667c",
+  "source_sha256": "1cb7fa3668098e7c57dfbe6a4b847423eaf443d06b89a7a08e8def8811ed168a",
+  "text_status": "as-enacted",
+  "text_file": "metin.md",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  }
+}
