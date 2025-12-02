@@ -1,0 +1,18 @@
+{
+  "kind": "norm",
+  "issuer": "Bilgi Teknolojileri ve İletişim Kurumu",
+  "document_type": "kurul-karari",
+  "number": "2025/İK-YED/383",
+  "source_id": "2025/İK-YED/383",
+  "date": "2025-12-02",
+  "title": "2026 Yılı Kullanım Hakkı ve Posta Yetki Belgesi Ücretleri",
+  "source": "https://www.btk.gov.tr/s3/web-btk-site/7708c26c-5161-4919-8b3d-daa31d4ac8fb/2026/03/490a350e-1605-45b2-9d2b-0f65a6f536f9.pdf",
+  "source_sha256": "6ce51341c70776cbdcf99597a856a11503edaea49cf95d477677007618e04165",
+  "text_status": "as-enacted",
+  "text_file": "metin.md",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  }
+}
