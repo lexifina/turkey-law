@@ -1,0 +1,20 @@
+{
+  "applicant": "E.F. VE D.A.",
+  "application_date": "2023-02-10",
+  "application_number": "2023/11066",
+  "deciding_unit": "İkinci Bölüm",
+  "decision_date": "2025-12-03",
+  "id": "42377e14-0fbd-4a09-9291-7bfb47d2bc86",
+  "in_force": "2025-12-03",
+  "in_force_basis": "official decision date",
+  "kind": "constitutional-court-individual-application",
+  "omitted_images": 0,
+  "outcome": "Esas (İhlal)",
+  "published": null,
+  "referenced_images": 0,
+  "source": "https://kararlarbilgibankasi.anayasa.gov.tr/kbb/pages/search/Tumu?id=a2JiOjQyMzc3ZTE0LTBmYmQtNGEwOS05MjkxLTdiZmI0N2QyYmM4Ng&type=BireyselBasvuru",
+  "source_api": "https://kararlarbilgibankasi.anayasa.gov.tr/api/core/public/search",
+  "source_images": 0,
+  "source_sha256": "a1ce44b8f07cd59d7f2736c150c1715d343fe40a8b1bf18e4cae45acc2abe1b5",
+  "version_label": "as-enacted"
+}
