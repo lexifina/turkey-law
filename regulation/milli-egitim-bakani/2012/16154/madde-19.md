@@ -1,0 +1,6 @@
+ALTINCI BÖLÜM
+Kayıt Kabul, Ücret, Destek Eğitimi Planlaması ve Denetim(4)
+Özel eğitim okullarına kayıt kabul
+MADDE 19 – (1) (Değişik:RG-4/12/2012-28487) Özel eğitim okullarına öğrenci kayıtları, resmî benzeri okulların tabi olduğu yönetmelik hükümlerinden farklı uygulama yapacak okullarda yaş sınırı şartlarına uymak kaydıyla Bakanlıkça onaylanan kurum yönetmeliğinde yer verilen hükümlere göre yapılır.
+(2) Özel eğitim okulunun özel eğitim ve rehabilitasyon birimine, (Değişik ibare:RG-14/6/2024-32576) özel eğitim ihtiyacı olan birey kayıt kabulünde bu Yönetmeliğin 20 nci maddesinde belirtilen şartlar aranır.
+(3) (Ek:RG-5/7/2018-30469) Özel eğitim okulunda öğrenim gören (Değişik ibare:RG-14/6/2024-32576) özel eğitim ihtiyacı olan bireylerin destek eğitiminden yararlanmak istemeleri durumunda, kayıtlı bulundukları okulun varsa özel eğitim ve rehabilitasyon biriminden yararlanmaları esastır. Özel eğitim ve rehabilitasyon biriminde (Değişik ibare:RG-14/6/2024-32576) özel eğitim ihtiyacı olan bireyin eğitim alması önerilen destek eğitim programının bulunmaması halinde (Değişik ibare:RG-14/6/2024-32576) özel eğitim ihtiyacı olan birey, başka bir özel eğitim okulunun özel eğitim ve rehabilitasyon birimine veya başka bir özel eğitim ve rehabilitasyon merkezine kayıt yaptırabilir.

@@ -1,0 +1,2 @@
+Yürürlükten kaldırılan mevzuat
+MADDE 33 – (1) 22/7/2005 tarihli ve 25883 sayılı Resmî Gazete’de yayımlanan Millî Eğitim Bakanlığı Özel, Özel Eğitim Okulları Çerçeve Yönetmeliği, 9/7/2009 tarihli ve 27283 sayılı Resmî Gazete’de yayımlanan (Değişik ibare:RG-24/5/2013-28656) Engelli Bireylere Uygulanacak Destek Eğitim Programları ve Eğitim Giderlerinin Karşılanmasına Dair Yönetmelik ve 6/1/2011 tarihli ve 27807 sayılı Resmî Gazete’de yayımlanan Millî Eğitim Bakanlığı Özel Eğitim ve Rehabilitasyon Merkezleri Yönetmeliği yürürlükten kaldırılmıştır.

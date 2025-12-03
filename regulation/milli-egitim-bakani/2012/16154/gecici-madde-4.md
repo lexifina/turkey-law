@@ -1,0 +1,3 @@
+Biyometrik kimlik doğrulama sistemine bağlı ödemeler
+GEÇİCİ MADDE 4- (Ek:RG-3/12/2025-33096)
+(1) Biyometrik kimlik doğrulama sistemi 1/1/2026 tarihine kadar Bakanlığın bilişim sisteminde kullanılan biyometrik kimlik doğrulama sistemine entegre edilmiş veya edilecek kurumlara, 1/5/2026 tarihine kadar verilen eğitimler için 30 uncu maddenin ikinci fıkrasına göre ödeme yapılır. Biyometrik kimlik doğrulama sistemi 1/1/2026 tarihinden sonra Bakanlığın bilişim sisteminde kullanılan biyometrik kimlik doğrulama sistemine entegrasyonu yapılan kurumlara, 1/1/2026 tarihinden entegrasyon yapılan tarihe kadar kurumlarında verilen eğitimler için 30 uncu maddenin ikinci fıkrası kapsamında ödeme yapılmaz.

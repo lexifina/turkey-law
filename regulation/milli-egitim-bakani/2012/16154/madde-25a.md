@@ -1,0 +1,7 @@
+Biyometrik kimlik doğrulama sistemi
+MADDE 25/A- (Ek:RG-11/7/2025-32953)(5)
+(1) Bakanlığın bilişim sistemleriyle uyumlu biyometrik kimlik doğrulama sistemine ilişkin standartlar, usul ve esaslar Bakanlık tarafından belirlenir. BKDS’de kullanılacak referans yüz verisi BKDS’ye rehberlik ve araştırma merkezi tarafından eklenir.
+(2) BKDS üzerinde yapılan doğrulamalarda bireyler ve eğitim personeli için kuruma giriş-çıkış günü ve saati kayıt altına alınır. Bireylerin ve eğitim personelinin sistem üzerinden elde edilen tüm verileri kurum ile Bakanlık kayıtlarında tutulur.
+(3) Rehberlik ve araştırma merkezleri ile kurumlar tarafından biyometrik kimlik doğrulama sistemi kapsamında alınacak veriler ve sistem üzerinde gerçekleştirilecek işlemler için bireyler ya da veli/vasileri ile eğitim personeline 24/3/2016 tarihli ve 6698 sayılı Kişisel Verilerin Korunması Kanunu kapsamında gerekli bilgilendirme yapılarak; bu kişilerden anılan Kanun hükümlerine uygun olarak biyometrik kimlik doğrulama sistemi bilgilendirilmiş onam formu alınır.
+(4) BKDS tarafından bireylerin kurumda eğitim aldıkları gün içinde doğrulama yapılamamış olması durumunda; aynı ve/veya takip eden gün içinde sistem üzerinde kurum tarafından doğrulama işlemi ayrıca yapılır. Bu verilerin kontrolü 29 uncu maddenin üçüncü fıkrası kapsamında gerçekleştirilir.
+(Değişik ibare:RG-14/6/2024-32576) Özel eğitim ihtiyacı olan bireyin başarısını değerlendirme(3)
