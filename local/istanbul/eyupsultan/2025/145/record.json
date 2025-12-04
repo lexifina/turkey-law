@@ -1,0 +1,22 @@
+{
+  "number": "145",
+  "number_as_published": "2025/145",
+  "year": 2025,
+  "title": "council decision",
+  "decision_date": "2025-12-04",
+  "source": "https://eyupsultan.bel.tr/tr/main/pages/2025-aralik-ayi-meclis-kararlari/2776",
+  "official_document": "https://eyupsultan.bel.tr/tr/main/pages/2025-145/2781",
+  "source_sha256": "702aa349400472ee27918416504d470599610466721f8a37dde09da44f919c42",
+  "issuer": "Eyüpsultan Belediye Meclisi",
+  "history_type": "metadata",
+  "text_status": "metadata-only: subject appears to concern individual persons; official link only",
+  "in_force": "2025-12-04",
+  "in_force_basis": "Decision date as printed in the official council listing: 04.12.2025 (meeting date at the start of the decision page); adoption date of the council decision; legal commencement not asserted",
+  "missing": [
+    "complete official decision text",
+    "official annexes"
+  ],
+  "law_text_complete": false,
+  "privacy_withheld": true,
+  "decision_page_sha256": "2b5d1e440fb7f28967214e1f150faca376f9977b1774a5c5e9be8f2900c51253"
+}
