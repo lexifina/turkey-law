@@ -1,0 +1,26 @@
+{
+  "number": "177",
+  "number_as_published": "177",
+  "year": 2025,
+  "title": "Izin Olcay ATA",
+  "decision_date": "2025-12-04",
+  "source": "https://www.cankiriozelidare.gov.tr/2025-meclis-kararlari",
+  "official_document": "https://www.cankiriozelidare.gov.tr/kurumlar/cankiriozelidare.gov.tr/genel meclis/meclis kara/2025/177_Izin-Olcay-ATA-04122025.pdf",
+  "source_sha256": "58ad05f3a5f0914b96e2fd1dd4e1f720770f3c02d6a3cbc24fd2133a0c823ebd",
+  "issuer": "Çankırı İl Genel Meclisi",
+  "history_type": "metadata",
+  "text_status": "metadata-only: listing fields as published; complete decision text is in the linked official document, not transcribed",
+  "in_force": "2025-12-04",
+  "in_force_basis": "Decision date as printed in the official council listing: 04122025 (official file name); adoption date of the council decision; legal commencement not asserted",
+  "missing": [
+    "complete official decision text",
+    "official annexes"
+  ],
+  "law_text_complete": false,
+  "privacy_withheld": false,
+  "listing_label": "177_Izin-Olcay-ATA",
+  "record_scope": "one official decision document",
+  "date_read_from": "official file name",
+  "official_page": "https://www.cankiriozelidare.gov.tr/2025-meclis-kararlari",
+  "item_title": "2025 Meclis Kararları"
+}
