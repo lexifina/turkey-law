@@ -1,0 +1,2 @@
+Giderlerin tahakkuku
+MADDE 39 – (1) Giderler, hak sahipleri tarafından verilmesi gereken kanıtlayıcı belgelerin tesliminden itibaren en geç beş işgünü içerisinde tahakkuk ettirilerek, ödeme emri belgesi ve eki belgeler aynı süre içerisinde muhasebe birimine verilir. Muayene ve kabule tabi olan işlemlerde ise bu süre muayene ve kabulün tamamlanmasından itibaren başlar. Muhasebe birimi, evrakları geliş sırasına göre inceleyerek en geç dört iş günü içinde muhasebe kaydına alır.

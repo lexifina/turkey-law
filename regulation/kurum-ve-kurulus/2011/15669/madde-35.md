@@ -1,0 +1,2 @@
+Ertesi yıla geçen yüklenme
+MADDE 35 – (1) Niteliğinden dolayı malî yılla sınırlı tutulamayan, sürekliliği bulunan 10/12/2003 tarihli ve 5018 sayılı Kamu Malî Yönetimi ve Kontrol Kanununun 27 nci maddesinde yazılı iş ve hizmetler için; her iş itibarıyla, bütçelerinde öngörülen ödeneklerin yüzde ellisini, izleyen yılın haziran ayını geçmemek ve yüklenme süresi on iki ayı aşmamak üzere, Üst Yöneticinin onayıyla ertesi yıla geçen yüklenmelere girişilebilir.

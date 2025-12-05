@@ -1,0 +1,92 @@
+{
+  "source_id": "7.5.15669",
+  "kind": "regulation",
+  "register_kind": "Kurum ve Kuruluş Yönetmelikleri",
+  "title": "ÇEVRE, ŞEHİRCİLİK VE İKLİM DEĞİŞİKLİĞİ BAKANLIĞI DÖNER SERMAYE YÖNETMELİĞİ",
+  "number": "15669",
+  "issuer_slug": "kurum-ve-kurulus",
+  "path": "regulation/kurum-ve-kurulus/2011/15669",
+  "source": "https://www.mevzuat.gov.tr/anasayfa/MevzuatFihristDetayIframe?MevzuatTur=7&MevzuatNo=15669&MevzuatTertip=5",
+  "source_sha256": "aeb1f1b8a3fa2f36e66ef0bf68bf1c0334fa4957d9a9042a579a45ecb7fbc5d8",
+  "source_bytes": 116651,
+  "published": "2011-12-28",
+  "gazette": "28156",
+  "in_force": "2025-12-05",
+  "in_force_basis": "latest Resmî Gazete date printed in the source amendment notes/table (\"RG-5/12/2025\") for the current consolidated text",
+  "date_evidence": [
+    [
+      "2025-12-05",
+      "RG-5/12/2025",
+      "Resmî Gazete date printed in the source amendment note"
+    ],
+    [
+      "2025-12-05",
+      "5/12/2025",
+      "Resmî Gazete date in the source amendment table"
+    ],
+    [
+      "2022-04-30",
+      "RG-30/4/2022",
+      "Resmî Gazete date printed in the source amendment note"
+    ],
+    [
+      "2022-04-30",
+      "30/4/2022",
+      "Resmî Gazete date in the source amendment table"
+    ],
+    [
+      "2021-04-09",
+      "RG-9/4/2021",
+      "Resmî Gazete date printed in the source amendment note"
+    ],
+    [
+      "2021-04-09",
+      "9/4/2021",
+      "Resmî Gazete date in the source amendment table"
+    ],
+    [
+      "2018-05-16",
+      "RG-16/5/2018",
+      "Resmî Gazete date printed in the source amendment note"
+    ],
+    [
+      "2018-05-16",
+      "16/5/2018",
+      "Resmî Gazete date in the source amendment table"
+    ],
+    [
+      "2015-11-06",
+      "RG-6/11/2015",
+      "Resmî Gazete date printed in the source amendment note"
+    ],
+    [
+      "2015-11-06",
+      "6/11/2015",
+      "Resmî Gazete date in the source amendment table"
+    ],
+    [
+      "2012-08-15",
+      "RG-15/8/2012",
+      "Resmî Gazete date printed in the source amendment note"
+    ],
+    [
+      "2012-08-15",
+      "15/8/2012",
+      "Resmî Gazete date in the source amendment table"
+    ]
+  ],
+  "commencement_clauses": [
+    "Bu Yönetmelik yayımı tarihinde yürürlüğe girer"
+  ],
+  "history": "current-text",
+  "label": "oldest version available",
+  "checked_on": "2026-11-15",
+  "word_count": 5548,
+  "text_status": "current-consolidated",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  },
+  "completeness": "html-text-complete"
+}

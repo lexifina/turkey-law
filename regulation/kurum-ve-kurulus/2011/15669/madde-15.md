@@ -1,0 +1,4 @@
+İşletme yöneticisi ve harcama yetkilisi
+MADDE 15 – (1) İşletmenin en Üst Yöneticisi İşletme Yöneticisidir.
+(2) İşletme yöneticisi, Bakanlık personeli arasından Bakan tarafından atanır.
+(3) İşletme yöneticisi, harcama yetkilisidir. Harcama yetkilisi, işletme bütçesinde öngörülen ödenek kadar harcama yapmaya yetkilidir. Harcama yetkilisi, yetkilerinin bir kısmını veya tamamını yardımcılarına devredebilir. Harcama yetkilisi, işletmenin taşra teşkilatında gerçekleşecek giderler için harcama yetkisinin bir kısmını veya tamamını Bakanlık il müdürlerine devredebilir. (Ek cümle:RG-6/11/2015-29524) Ayrıca harcama yetkilisi, Bakanlık merkez ve taşra teşkilatının genel bütçedeki ödenek yetersizliği nedeniyle döner sermaye işletmesinden karşılanması Yönetim Kurulu kararı veya Yönetim Kurulu tarafından yetkilendirilen makam tarafından uygun görülen giderlere ilişkin harcama yetkisinin bir kısmını veya tamamını Bakanlık merkez ve taşra teşkilatı yöneticilerine devredebilir.

@@ -1,0 +1,3 @@
+Ön ödeme işlemleri
+MADDE 40 – (1) İşletmece yapılacak ön ödemelerin şekli, devir ve mahsup işlemleri, idareler ve gider türleri itibarıyla tutar ve oranlarının tespiti ile mutemetlerin görevlendirilmesi ve diğer işlemler hakkında, 30/12/2005 tarihli ve 2005/9913 sayılı Bakanlar Kurulu Kararıyla yürürlüğe konulan Ön Ödeme Usul ve Esasları Hakkında Yönetmelik hükümlerine göre işlem yapılır. Ancak, yılları merkezi yönetim bütçe kanununda gider türleri itibarıyla belirlenen avans üst sınırları, işletme için beş katı olarak uygulanır.
+(2) İşletmece yürütülecek proje niteliğindeki işlerle ilgili olarak avans limiti, harcama yetkilisinin onayıyla on katına kadar artırılabilir.
