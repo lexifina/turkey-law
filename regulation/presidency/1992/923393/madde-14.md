@@ -1,0 +1,4 @@
+Mesleğe Yeniden Alınmada Süre ve Atama Şartı
+Madde 14 – İstifa eden veya isteği ile emekli olan personelin yeniden mesleğe alınmalarında, 657 sayılı Devlet Memurları Kanununun 92, 93 ve 94 üncü maddeleri hükümleri uygulanır. Ancak, bu isteklerin kabulü Bakanlığın takdirine bağlıdır.
+Yukarıdaki fıkra uyarınca mesleğe alınanlar, istifa veya emeklilik suretiyle yeniden ayrılırlarsa, tekrar mesleğe kabul edilmezler.
+Birinci fıkraya göre mesleğe alınmış olanlar, istifa ettikleri veya emekliye ayrıldıkları tarihte atanmış oldukları veya görevli bulundukları bölgeye, bunlardan birinci bölgeye atanma durumunda olanlar sicil numarasına göre emsalleri ikinci bölge hizmetini yapmış veya yapmakta ise ikinci bölgeye atanırlar ve bu bölge için tespit olunan hizmet süresi sonuna kadar kalırlar. (Mülga ikinci cümle: 16/2/2016-2016/8539 K.) (…)

@@ -1,0 +1,4 @@
+Kadrosuzluk sebebiyle atama
+Ek Madde 2 – (Ek: 14/6/2010- 2010/591 K.)[44]
+Emniyet Teşkilatı merkez ve taşra birimleri için rütbelere göre belirlenmiş standart kadro sayısının aşılması hâlinde, öncelikle (…)[45] ikinci bölge hizmet sırası gelenler, bulunduğu il veya birimdeki hizmet süresi fazla olanlar, hizmet sürelerinin eşitliği hâlinde son üç (…)45 performans değerlendirme puanı ortalaması düşük olanlardan başlanarak bulundukları yerin hizmet süresini doldurma şartı aranmaksızın öngörülen kadro aşımı sayısı kadar personelin genel atama döneminde başka bir il veya birime atamaları yapılır.
+Bu maddenin uygulamasında değerlendirmeye alınacak hizmet süresinin hesabında, yıl bazı esas alınır. Yıl hesabında, yıl döngüsü olarak genel atama dönemleri esas alınır. Kadrosuzluk sebebiyle yapılacak atamalarda personelin hizmet süresi hesaplanırken, farklı zamanlarda aynı ildeki farklı birimlerde geçirilen sürelerin toplamı değerlendirmeye alınır.

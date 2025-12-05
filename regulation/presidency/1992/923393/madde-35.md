@@ -1,0 +1,3 @@
+Görevden Uzaklaştırılan veya Tutuklananların Yer Değiştirmeleri
+Madde 35 – (Değişik fıkra: 15/2/2002-2002/3814 K.) Görevden uzaklaştırılanlar veya göz altına alınanlarla adli makamlarca tutuklanan veya mahkum edilenlerden serbest bırakılanların yeniden göreve alınmaları halinde aynı kadroda çalışmaları, illerde valinin, merkez ve merkeze doğrudan bağlı birimlerde bizzat birim amirlerinin teklifi ile sakıncalı görüldüğü taktirde başka bir ile atanır.
+Yukarıdaki duruma düşen personelin görev yeri teklife bağlı kalınmaksızın gerekli görüldüğü takdirde atamaya yetkili makamca re'sen değiştirilebilir.

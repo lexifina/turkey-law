@@ -1,0 +1,2 @@
+Standart Kadronun Aşılmaması[5]
+Madde 6 – Genel Müdürlük merkez kuruluşu ve bağlı kurum ve kuruluşlar ile il ve ilçe kuruluşlarının kadrolarına yapılacak atamalarda, bu birimler için hizmet bölümleri ve rütbeleri itibariyle (…)5 tespit olunan standart kadro sayısı herhangi bir sebep veya suretle aşılmaz. Ancak, emniyet ve asayiş hizmetlerinin gerektirdiği hallerde Bakanlık onayı ile geçici süre için yapılan kadro takviyesi ve iller arası kuvvet kaydırma işlemleri bu sınırlamaya tabi değildir.

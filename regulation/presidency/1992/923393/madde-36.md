@@ -1,0 +1,3 @@
+Performans Değerlendirme Puanı Yetersiz Olanların Yer Değiştirmeleri[33]
+Madde 36 – (Değişik: 19/3/2012-2012/2962 K.)
+Bir yıllık performans değerlendirme puanı yetersiz olarak değerlendirilen personelin görev yeri, birim içerisinde değiştirilir. Sonraki bir yıllık performans değerlendirme puanı da yetersiz olarak değerlendirilenler hizmet içi eğitime tabi tutulur. Eğitim sonunda yapılacak sınavda başarısız olanlar ile hizmet içi eğitimde başarılı olmakla birlikte, eğitimi takiben yapılan ilk değerlendirmede yine performans değerlendirme puanı yetersiz olarak değerlendirilenler başka bir birime atanırlar.

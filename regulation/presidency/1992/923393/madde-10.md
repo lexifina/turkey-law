@@ -1,0 +1,6 @@
+Görev Unvanlarına Atamalar[11]
+Madde 10 – (Mülga: 15/2/2002-2002/3814 K.; Yeniden düzenleme: 16/2/2016-2016/8539 K.)
+4/6/1937 tarihli ve 3201 sayılı Emniyet Teşkilât Kanununun 13 üncü maddesinde belirtilen görev unvanlarına yapılacak atamalar, karşılığında gösterilen meslek derecesi ve rütbelere göre yapılır. Ancak ikinci, üçüncü, dördüncü, beşinci ve altıncı meslek derecelerinde bulunan personel ihtiyaç halinde görev unvanlarına bakılmaksızın araştırma, inceleme ve denetleme gibi görevler verilmek üzere atandıkları birim amirinin emrine alınabilirler.
+Birinci meslek derecesinde olup, kendi isteğiyle ikinci meslek derecesinde görevlendirilmek isteyen personel hariç diğer personel, rütbe ve meslek derecesi karşılığı olan görev unvanından daha alt görev unvanlarına atanamaz ve çalıştırılamaz.
+İdare tarafından her rütbe ve meslek derecesi karşısında gösterilen görev unvanları arasında personelin görev yeri değiştirilebilir.
+(Değişik dördüncü fıkra: RG-17/3/2022-31781-CK-5306/5 md.) 3 sayılı Üst Kademe Kamu Yöneticileri ile Kamu Kurum ve Kuruluşlarında Atama Usûllerine Dair Cumhurbaşkanlığı Kararnamesine tabi unvanlar hariç olmak kaydıyla; ikinci sınıf emniyet müdürü rütbesinde en az bekleme süresini tamamlayanlar, terfien birinci sınıf emniyet müdürü rütbesinde ikinci meslek derecesi karşılığı görev unvanlarına atanabilirler.

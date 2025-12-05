@@ -1,0 +1,2 @@
+Geçici Madde 8- (Ek: RG-17/3/2022-31781-CK-5306/38 md.) (Değişik: RG-26/2/2023-32116-CK-6873/29 md.)
+Ekli (1) sayılı cetvelde belirtilen ikinci bölge birimlerde, personelin görev yaptığı yerin o dönemde ikinci bölge olarak belirlenmiş olması şartıyla zorunlu hizmet süresinden daha fazla kesintisiz olarak görev yapmış olanlar, talep etmeleri halinde bu Yönetmeliğin 28 inci maddesinin ikinci fıkrasında belirtilen usule uygun olması durumunda ikinci bölge ikinci görevini tamamlamış sayılır.

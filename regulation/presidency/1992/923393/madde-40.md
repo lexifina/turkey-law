@@ -1,0 +1,3 @@
+Çocukların Öğrenim Durumları Sebebiyle Yer Değiştirme
+Madde 40 – (Değişik: RG-26/2/2023-32116-CK-6873/20 md.)
+Personel, çocuğunun ilköğretimden ortaöğretime geçiş sınavı sonucunda aldığı puan, yüzdelik dilimi ve okul türüne göre görev yaptığı ilde yerleşebileceği okul bulunmaması halinde yer değişikliği talebinde bulunabilir. Ancak personelin bu talebinde; öncelikle görev yaptığı ilden tercihte bulunması, bulunduğu ilde uygun okul bulunmaması halinde ise görev yapmakta olduğu bölgedeki diğer illeri tercih etmesi zorunludur. Ancak bu durum personelin 23 üncü maddede belirtilen ikinci bölgedeki hizmet yükümlülüklerini ortadan kaldırmaz.

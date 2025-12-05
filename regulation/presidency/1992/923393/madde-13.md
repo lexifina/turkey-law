@@ -1,0 +1,9 @@
+İlk Atama[12]
+Madde 13 – (Değişik: 19/3/2012-2012/2962 K.)
+(Değişik birinci fıkra: RG-17/3/2022-31781-CK-5306/8 md.) 7 nci maddede belirtilen hükümler saklı kalmak kaydıyla;
+a) Polis amiri ve polis memuru yetiştiren eğitim kurumlarından mezun olduktan sonra yapılan sınavda başarılı olanların ilk atamalarının öncelikle birinci bölge illere yapılması esastır. Ancak ihtiyaç halinde ikinci bölgeye de atama yapılabilir.
+b) Polis amiri ve polis memuru yetiştiren eğitim kurumlarından mezun olduktan sonra yapılan sınavda başarılı olanların, eğitim kurumlarının mevzuatına göre oluşturulacak sıralamaları esas alınarak, kadro ve hizmet ihtiyacına göre Genel Müdürlükçe tespit olunacak yerlerden seçecekleri birimlere atamaları yapılır. Ancak teknik ve mesleki uzmanlıklarından yararlanılacakların atamaları, birim seçme işlemine tabi tutulmaksızın doğrudan ilgili birimlere yapılır.
+c) Herhangi bir sebeple zamanında mezun olamayanların daha sonra atamaya hak kazanması hâlinde bunların atamaları, birim seçme işlemine tabi tutulmaksızın kadro ve hizmet ihtiyacına göre Genel Müdürlükçe uygun görülen birimlere yapılabilir.
+d) Devlet memurlarıyla evli olanların ilk atamaları, öncesinde dilekçe ile talepleri hâlinde Genel Müdürlükçe eşlerinin görev yaptığı yere de yapılabilir. Tercih listesinden eşinin görev yaptığı yeri seçme imkânı var iken seçmeyenlerin yerleri değiştirilmez ve atamalar yapıldıktan sonra eşinin görevi nedeniyle atama talepleri değerlendirmeye alınmaz.
+Polis memuru yetiştiren eğitim kurumlarından mezun olan polis memurlarının atamaları, asayiş gerekleri ve hizmet branşındaki ihtiyaç, personelin teknik bilgisi ve mesleki uzmanlığından yararlanma mecburiyeti olmadıkça, öncelikle polis merkezleri, çevik kuvvet veya koruma hizmet birimlerine yapılır.
+(Mülga üçüncü fıkra: RG-17/3/2022-31781-CK-5306/8 md.)
