@@ -1,0 +1,2 @@
+Amaç ve kapsam
+MADDE 1- (1) Bu Tebliğin amacı; 5402.31, 5402.32, 5402.45, 5402.51 ve 5402.61 Gümrük Tarife Pozisyonları altında sınıflandırılan eşyaların ithalatında 18/11/2025 tarihli ve 10578 sayılı Cumhurbaşkanı Kararı ile yürürlüğe konulan Naylon veya Diğer Poliamidlerden İpliklerin İthalatında Korunma Önlemi Uygulanmasına İlişkin Karar kapsamında, ek mali yükümlülük şeklinde uygulanan korunma önleminden muafiyet sağlanması amacıyla açılan tarife kontenjanının kullanım usul ve esaslarının düzenlenmesidir.
