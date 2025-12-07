@@ -1,0 +1,39 @@
+{
+  "checked_on": "2026-11-14",
+  "commencement_clauses": [
+    "MADDE 18- (1) Bu Yönetmelik yayımı tarihinde yürürlüğe girer."
+  ],
+  "date_evidence": [
+    [
+      "2025-12-07",
+      "07.12.2025",
+      "original gazette publication date in official listing"
+    ]
+  ],
+  "date_quote": "MADDE 18- (1) Bu Yönetmelik yayımı tarihinde yürürlüğe girer.",
+  "first_law": null,
+  "gazette": "33100",
+  "history": "current-text",
+  "images": {
+    "deferred": 0,
+    "omitted": 0,
+    "referenced": 0,
+    "source": 0
+  },
+  "in_force": "2025-12-07",
+  "in_force_basis": "source commencement clause: enters into force on gazette publication",
+  "issuer": "Karadeniz Teknik Üniversitesi",
+  "issuer_slug": "karadeniz-teknik-universitesi",
+  "kind": "regulation",
+  "label": "oldest version available",
+  "path": "regulation/karadeniz-teknik-universitesi/2025/42744",
+  "published": "2025-12-07",
+  "source": "https://www.mevzuat.gov.tr/anasayfa/MevzuatFihristDetayIframe?MevzuatTur=8&MevzuatNo=42744&MevzuatTertip=5",
+  "source_bytes": 26449,
+  "source_id": "8.5.42744",
+  "source_sha256": "89502b263936e28dcbe5ac7fff67552affcbe79c35e5869444c6ea8f6a776eea",
+  "text_status": "as-enacted",
+  "title": "KARADENİZ TEKNİK ÜNİVERSİTESİ ÇEVRE VE İKLİM DEĞİŞİKLİĞİ\r\nUYGULAMA VE ARAŞTIRMA MERKEZİ YÖNETMELİĞİ",
+  "university_id": 207,
+  "word_count": 1198
+}
