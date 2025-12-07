@@ -1,0 +1,31 @@
+{
+  "act_path": "regulation/university/iskenderun-teknik-universitesi/2021/38282",
+  "availability": "text",
+  "checked_on": "2026-11-14",
+  "commencement_clauses": [
+    "MADDE 19 – (1) Bu Yönetmelik yayımı tarihinde yürürlüğe girer."
+  ],
+  "date_quote": "RG-7/12/2025",
+  "first_law": null,
+  "gazette": "31380",
+  "history": "current-text",
+  "images": {
+    "deferred": 0,
+    "omitted": 0,
+    "referenced": 0,
+    "source": 0
+  },
+  "in_force": "2025-12-07",
+  "in_force_basis": "latest source-printed amendment Gazette date; current consolidated text",
+  "issuer": "İskenderun Teknik Üniversitesi",
+  "issuer_slug": "iskenderun-teknik-universitesi",
+  "kind": "regulation",
+  "published": "2021-01-30",
+  "source": "https://www.mevzuat.gov.tr/anasayfa/MevzuatFihristDetayIframe?MevzuatTur=8&MevzuatNo=38282&MevzuatTertip=5",
+  "source_id": "8.5.38282",
+  "source_sha256": "a3bd8d17852bfd2b1ea6b248cba98d50cc795d378d5ab4628226fbd236ac7e52",
+  "title": "İSKENDERUN TEKNİK ÜNİVERSİTESİ İKLİM DEĞİŞİKLİĞİ VE SÜRDÜRÜLEBİLİRLİK UYGULAMA VE ARAŞTIRMA MERKEZİ YÖNETMELİĞİ",
+  "university_id": 465,
+  "version_label": "oldest version available",
+  "word_count": 1554
+}
