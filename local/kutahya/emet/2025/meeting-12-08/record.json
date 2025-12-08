@@ -1,0 +1,24 @@
+{
+  "number": "meeting-12-08",
+  "number_as_published": "meeting-12-08",
+  "year": 2025,
+  "title": "08.12.2025 / Saat 15:00 Olağanüstü Meclis Toplantısı ve Kararlar",
+  "decision_date": "2025-12-08",
+  "source": "https://www.emet.bel.tr/karar/08122025--saat-1500-olaganustu-meclis-toplantisi-ve-kararlar/96/",
+  "official_document": "https://www.emet.bel.tr/dosya/meclis/dosyalar/olaganustu-aralik-2025-karar-ozetleri.doc",
+  "source_sha256": "33f9761ee3c6ea00912cf4826768f11d6fc6ed4c521f4b01b8cd19718752c226",
+  "issuer": "Emet Belediye Meclisi",
+  "history_type": "metadata",
+  "text_status": "metadata-only: listing fields as published; complete decision text is in the linked official document, not transcribed",
+  "in_force": "2025-12-08",
+  "in_force_basis": "Decision date as printed in the official council listing: 08.12.2025; adoption date of the council decision; legal commencement not asserted",
+  "missing": [
+    "complete official decision text",
+    "official annexes"
+  ],
+  "law_text_complete": false,
+  "privacy_withheld": false,
+  "listing_label": "08.12.2025 / Saat 15:00 Olağanüstü Meclis Toplantısı ve Kararlar",
+  "record_scope": "one official file of council decisions (meeting)",
+  "official_page": "https://www.emet.bel.tr/karar/08122025--saat-1500-olaganustu-meclis-toplantisi-ve-kararlar/96/"
+}
