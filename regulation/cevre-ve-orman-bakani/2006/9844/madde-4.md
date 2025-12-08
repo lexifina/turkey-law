@@ -1,0 +1,27 @@
+Tanımlar
+Madde 4 — Bu Yönetmelikte geçen;
+Alıcı ortam: Atıksuların deşarj edildiği veya dolaylı olarak karıştığı göl, akarsu, kıyı ve deniz suları ile yeraltı suları gibi yakın veya uzak çevreyi,
+Arıtma çamuru: Kentsel atıksu arıtma tesislerinden çıkan ham veya stabilize olmuş çamuru,
+Az hassas su alanı: Morfoloji, hidroloji ya da özel hidrolik şartlara göre atıksu deşarjının çevreyi olumsuz yönde etkilemediği deniz, haliç ve lagün gibi doğal su ortamlarını,
+Bakanlık: Çevre ve Orman Bakanlığını,
+Birincil arıtma: Arıtma tesisine giren atıksuyun BOİ5’inin en az %20 ve askıda katı maddelerin en az %50 oranında gideriminin sağlandığı fiziksel/mekanik ve/veya kimyasal işlem/işlemler ya da diğer işlemlerle arıtılmasını,
+Evsel atıksu: Yaygın olarak yerleşim bölgelerinden ve çoğunlukla evsel faaliyetler ile insanların günlük yaşam faaliyetlerinin yer aldığı okul, hastane, otel gibi hizmet sektörlerinden kaynaklanan atıksuları,
+Endüstriyel atıksu: Herhangi bir ticari ya da endüstriyel faaliyetin yürütüldüğü alanlardan, evsel atıksu ve yağmur suyu dışında deşarj edilen atıksuları,
+Eşdeğer nüfus (E.N.): Ham atıksuyun günlük BOİ5 miktarı 45 gr (gr/kişi/gün) esas alınarak endüstriyel atıksu için dikkate alınan biyokimyasal olarak oksitlenebilen organik madde yükünü,
+Haliç: Bir nehrin ağzındaki tatlı su ile deniz kıyı suyu arasındaki geçiş bölgesini,
+Hassas su alanı: Ötrofik olduğu belirlenen veya gerekli önlemler alınmazsa yakın gelecekte ötrofik hale gelebilecek doğal tatlı su gölleri, diğer tatlı su kaynakları, haliçler ve kıyı suları, önlem alınmaması halinde yüksek nitrat konsantrasyonları içerebilecek içme suyu temini amaçlanan yüzeysel tatlı sular ve daha ileri arıtma gerektiren alanları,
+İdare; bu Yönetmelikte geçen
+a) 2872 sayılı Çevre Kanununun 12 nci maddesi uyarınca atık, artık ve yakıtların arıtılması, uzaklaştırılması, zararsız hale getirilmesi ve ithali ile ilgili hususlarda denetleme ile yetkili kılınan Bakanlığı,
+b) Kurum, kuruluş ve işletmelere işletme ve kullanım izni verilmesi ve denetim görevinin ifasında yetkili olmak üzere; 12/3/1982 tarihli ve 2634 sayılı Turizmi Teşvik Kanununa göre Kültür ve Turizm Bakanlığını, 10/6/1949 tarihli ve 5442 sayılı İl İdaresi Kanunu, 10/7/2004 tarihli ve 5216 sayılı Büyükşehir Belediyesi Kanunu ve 20/11/1981 tarihli ve 2560 sayılı İstanbul Su ve Kanalizasyon İdaresi Genel Müdürlüğü Kuruluş ve Görevleri Hakkında Kanunla kurulan su ve kanalizasyon idareleri, 3/7/2005 tarihli ve 5393 sayılı Belediye Kanununun verdiği yetkiler doğrultusunda mülki amirleri, büyükşehir ve şehir belediye başkanlıklarını,
+c) Atıksu altyapı tesislerinin bulunduğu yörelerde, kanalizasyona bağlantı izni veren, atıksu altyapı tesislerinin inşası, bakımı ve işletilmesinden sorumlu olan, büyük şehirlerde büyükşehir belediyeleri su ve kanalizasyon idarelerini; belediye ve mücavir alan sınırları içinde belediyeleri,
+d) Alıcı su ortamlarına deşarj izni için, mahalli çevre kurullarının alacağı karar ve görüşler doğrultusunda büyükşehir belediye hudutları içerisinde ve dışında mahallin en büyük mülki amirini,
+e) 2872 sayılı Çevre Kanununun 15 ve 16 ncı maddelerinde söz edilen faaliyetlerin durdurulması hallerinde Sağlık Bakanlığını, Bakanlığın ve mahallin en büyük mülki amirlerini,
+f) 2872 sayılı Çevre Kanununun 20, 21, 22 ve 23 üncü maddelerinde belirtilen idari nitelikteki cezaların verilmesinde aynı Kanunun 24 üncü maddesinde yetkili kılınan kamu kurum ve kuruluşlarını,
+İkincil arıtma: Kentsel atıksuların genellikle Tablo 1’deki şartlara uygun olacak şekilde ön çökeltim havuzu da olabilen biyolojik arıtma veya diğer proseslerle arıtılmasını,
+Kanalizasyon sistemi: Kentsel atıksuyu toplayan ve arıtma tesislerine iletmeye yarayan kanallar sistemini,
+Kentsel atıksu: Evsel atıksu ya da evsel atıksuyun endüstriyel atıksu ve/veya yağmur suyu ile karışımını,
+Kıyı suları: Sığ su hattı ya da bir halicin dış sınırlarının dışında kalan suları,
+Ötrofikasyon: Suların, besi maddelerince özellikle azot ve/veya fosfor bileşiklerince, alg ve daha yüksek yapılı bitkilerin üremesini hızlandıracak, böylece sudaki canlıların dengesini bozacak ve su kalitesinde istenmeyen bozulmalara yol açacak şekilde zenginleşmesini,
+Atık su toplama alanı: Kentsel atıksuların toplanması ve bir atıksu arıtma tesisine veya nihai bir deşarj noktasına iletilmesi için, nüfusun ve/veya ekonomik faaliyetlerin yeterli derecede yoğunlaştığı alanı,
+Uygun arıtma: Kentsel atıksuyun bu Yönetmeliğin ve diğer ilgili yönetmeliklerin ilgili hükümleri ile kalite amaçlarını karşılayacak şekilde alıcı ortama deşarjını sağlayacak herhangi bir proses ve/veya bertaraf sistemiyle arıtılmasını,
+ifade eder.

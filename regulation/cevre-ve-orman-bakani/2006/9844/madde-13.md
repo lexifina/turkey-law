@@ -1,0 +1,4 @@
+İstisnai haller ve süre uzatımı
+Madde 13 — İstisnai haller ve süre uzatımı ile ilgili hususlar aşağıda yer almaktadır.
+a) İlgili idare en büyük mülki amir kanalıyla, teknik sorunlar nedeniyle ve coğrafik olarak belirlenmiş nüfus grupları için istisnai hallerde, Bakanlıktan bu Yönetmeliğin 8 inci maddesinde öngörülen hükümlere uyma süresinin daha uzun tutulması için talepte bulunabilir.
+b) Bu Yönetmelik gereklerini öngörülen sürelerde yerine getiremeyen idareler, taleplerinde gerekçeleri ile birlikte yaşanan teknik güçlükleri tanımlayan raporu ve bu Yönetmelik hükümleri çerçevesinde yükümlülüklerini yerine getirecek uygulama takvimine sahip iş termin planını, onay için mahallin en büyük mülki amiri kanalıyla Bakanlığa sunmalıdır. Bakanlık, söz konusu talepleri inceleyerek uygun görmesi halinde ilgili idareye makul bir süre uzatımı verebilir.
