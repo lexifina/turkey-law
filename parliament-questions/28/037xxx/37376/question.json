@@ -1,0 +1,21 @@
+{
+  "record_type": "parliament-written-question",
+  "term": 28,
+  "legislative_year": 4,
+  "esas_no": "7/37376",
+  "submitted": "2025-12-09",
+  "submitted_as": "Başkanlığa geliş tarihi",
+  "mp": "Yüksel Selçuk TÜRKOĞLU",
+  "province": "Bursa",
+  "summary": "Bursa ilindeki bir çimento fabrikasının işletme ruhsatının iptal edilmesine rağmen üretime devam etmesine ilişkin",
+  "status": "Süresi Geçtikten Sonra Cevaplandı",
+  "status_as_of": "2026-11-16",
+  "official_record": "https://www.tbmm.gov.tr/Denetim/Yazili-Soru-Onergesi-Detay/221b5b0d-b36b-4985-ab60-019b08492d40",
+  "source": "https://tbmm.gov.tr/Denetim/YaziliSoruOnergesiTable",
+  "source_form": "https://tbmm.gov.tr/Denetim/Yazili-Soru-Onergeleri",
+  "source_sha256": "50ca390060d796b8d8459fdbdea0305353f7febacc37aee2672c4615ba302582",
+  "in_force": "2025-12-09",
+  "in_force_basis": "Date the question reached the Speaker (Başkanlığa geliş tarihi) in the official TBMM written-question record; parliamentary oversight record, not law",
+  "history_type": "metadata",
+  "text_status": "metadata-only: question text, addressee and answers are in the linked official record (PDFs on cdn.tbmm.gov.tr); not transcribed here"
+}
