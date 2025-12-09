@@ -1,0 +1,21 @@
+Tanımlar
+MADDE 4- (1) Bu Yönetmelikte geçen;
+a) Aday: Uzman yardımcılığı yarışma sınavına başvuran ve sınava katılan kişiyi,
+b) Bakan: Tarım ve Orman Bakanını,
+c) Bakanlık: Tarım ve Orman Bakanlığını,
+ç) Birim amiri: Bakanlık merkez teşkilatındaki hizmet birimlerinin en üst amirlerini,
+d) Genel Müdür: Personel Genel Müdürünü,
+e) Genel Müdürlük: Personel Genel Müdürlüğünü,
+f) Hizmet birimi: Tarım ve orman uzman ve uzman yardımcılarının görev yaptıkları Bakanlık merkez teşkilatında bulunan hizmet birimlerini,
+g) KPSS: Kamu Personel Seçme Sınavını,
+ğ) (Değişik:RG-9/12/2025-33102) ÖSYM: Ölçme, Seçme ve Yerleştirme Merkezi Başkanlığını,
+h) Tez: Tarım ve orman uzmanlık tezini,
+ı) Tez jürisi: Uzman yardımcısı tarafından hazırlanan tezi inceleyen ve değerlendiren jüriyi,
+i) Uzman: Tarım ve orman uzmanını,
+j) Uzman yardımcısı: Tarım ve orman uzman yardımcısını,
+k) Yarışma sınavı: Uzman yardımcılığına giriş için yapılan yarışma sınavını,
+l) Yarışma sınavı komisyonu: Bakanlık tarafından yarışma sınavlarıyla ilgili işlemleri yürütmek amacıyla oluşturulan komisyonu,
+m) YDS/e-YDS: Yabancı Dil Bilgisi Seviye Tespit Sınavını/Elektronik Yabancı Dil Bilgisi Seviye Tespit Sınavını,
+n) Yeterlik sınavı: Tarım ve orman uzmanlığı yeterlik sınavını,
+o) Yeterlik sınav komisyonu: Bakanlık tarafından yeterlik sınavlarıyla ilgili işlemleri yürütmek amacıyla oluşturulan komisyonu,
+ifade eder.

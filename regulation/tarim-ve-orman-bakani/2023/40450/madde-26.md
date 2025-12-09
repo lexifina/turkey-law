@@ -1,0 +1,6 @@
+Yeterlik sınavı ve değerlendirme
+MADDE 26- (1) Aylıksız izin ile toplamda üç ayı aşan hastalık ve refakat izinleri hariç olmak üzere, adaylıkta geçen süre dâhil Bakanlıkta en az üç yıl çalışmış olan ve uzmanlık tezi kabul edilen uzman yardımcısı yeterlik sınavına girmeye hak kazanır.
+(2) (Değişik:RG-9/12/2025-33102) Yeterlik sınavı; tez sonuçlarının ilanından itibaren altı ayı geçmeyecek şekilde, yeterlik sınav komisyonu tarafından, Genel Müdürlüğün belirleyeceği tarihlerde yılda en fazla iki kez yazılı şekilde yapılır. Yazılı sınav klasik veya test usulünde yapılabilir.
+(3) Yeterlik sınavı, Bakanlığın görev alanı ile meslekî konulardan yapılır. Yeterlik sınav konuları yeterlik sınav tarihinden en az bir ay önce ilan edilerek uzman yardımcılarına duyurulur. Yeterlik sınavında yüz tam puan üzerinden en az yetmiş puan alanlar başarılı sayılır.
+(4) Sınav sonuçlarına, ilanı tarihinden itibaren beş iş günü içinde yazılı olarak Genel Müdürlüğe itiraz edilebilir. İtirazlar beş iş günü içinde yeterlik sınav komisyonu tarafından değerlendirilerek sonuçlandırılır ve ilgililere yazılı olarak bildirilir.
+(5) Tezi kabul edildiği hâlde yeterlik sınavında başarılı olamayan veya yeterlik sınavına girmeye hak kazandığı hâlde geçerli mazereti olmaksızın sınav hakkını kullanmayanlara, bir yıl içinde ikinci kez sınav hakkı verilir.

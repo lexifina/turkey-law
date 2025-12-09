@@ -1,0 +1,2 @@
+Başarısızlık hali
+MADDE 28- (1) Verilen ilave süre içinde tezlerini sunmayan veya ikinci defa hazırladıkları tezleri de kabul edilmeyenler, ikinci yeterlik sınavında da başarı gösteremeyen veya sınav hakkını kullanmayanlar ile süresi içinde yabancı dil yeterliliği şartını yerine getirmeyenler, uzman yardımcısı unvanını kaybederler ve (Ek ibare:RG-9/12/2025-33102) Bakanlıkta memur unvanlı kadrolara atanırlar.

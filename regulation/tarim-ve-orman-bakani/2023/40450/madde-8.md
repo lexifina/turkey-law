@@ -1,0 +1,11 @@
+Yarışma sınavına başvuru ve istenilecek belgeler
+MADDE 8- (1) Uzman yardımcılığı yarışma sınavı başvurusu, Bakanlık internet sitesinden temin edilerek doldurulacak başvuru formunun, aşağıda sayılan belgelerle birlikte, sınav ilanında belirtilen tarihe kadar Genel Müdürlüğe şahsen veya posta yoluyla teslim edilmesi suretiyle yapılır:
+a) Kimlik bilgileri.
+b) KPSS sonuç belgesinin aslı veya fotokopisi ya da ÖSYM’nin internet sitesinden alınan çıktısı.
+c) Mezuniyet durumuna ilişkin belgenin Bakanlıkça onaylı örneği veya bunlara denkliği Yükseköğretim Kurulu tarafından kabul edilen yurt dışındaki yükseköğretim kurumlarından mezun olanlar için diploma denklik belgesinin aslı veya onaylı örneği.
+ç) 2 adet biyometrik vesikalık fotoğraf.
+d) Özgeçmiş.
+e) (Ek:RG-9/12/2025-33102) Bakanlıkça gerekli görüldüğü takdirde, son başvuru tarihi itibarıyla son beş yıl içinde giriş sınavı ilanında belirtilen yabancı dillerin birinden YDS/e-YDS’den en az (D) seviyesinde veya dil yeterliği bakımından bunlara denkliği ÖSYM tarafından kabul edilen ve uluslararası geçerliliği bulunan belgenin aslı veya onaylı sureti.
+(2) Yarışma sınav duyurusunda, e-Devlet sistemi üzerinden de müracaat yapılabileceği belirtildiği takdirde, elektronik başvuru formundaki bilgilerin, ilan edilen başvuru süresi içerisinde doldurulması, sisteme gerekli bilgi ve belgelerin girilmesi ya da yüklenmesi ile başvuru işlemi tamamlanmış olur. Birinci fıkrada sayılan belgelerin sisteme girilmesi, doğrulanması veya okunabilir bir dosya olarak yüklenmesi gerekir.
+(3) İkinci fıkra uyarınca elektronik ortamda yapılan başvurularda adaylardan şahsen veya posta yoluyla herhangi bir bilgi veya belge istenmez. Son başvuru tarihinden sonra yapılan başvurular kabul edilmez. Gerçeğe aykırı beyanda bulunduğu, sisteme gerçeğe aykırı olan bilgi veya belge yüklediği tespit edilenlerin başvurusu veya sınavı geçersiz sayılır ve atamaları yapılmaz. Bunların atamaları yapılmış olsa dahi iptal edilir. Bu kişiler hiçbir şekilde hak talep edemez.
+(4) Sınava girme hakkı kazanan adaylara fotoğraflı sınav giriş belgesi Genel Müdürlük tarafından verilir. Sınav giriş belgesinde kimlik bilgileri, sınav yeri ve tarihi yer alır. Fotoğraflı sınav giriş belgesi sınav saatine kadar adaylarca elden veya elektronik ortamda teslim alınır. Sınav giriş belgesi olmayan aday sınava katılamaz.

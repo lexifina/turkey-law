@@ -1,0 +1,7 @@
+Yarışma sınavının değerlendirilmesi
+MADDE 14- (1) Başarı puanı; yazılı ve sözlü sınav yapılması halinde bu sınavlarda alınan puanların aritmetik ortalaması, sadece sözlü sınav yapılması durumunda ise sözlü sınav puanı dikkate alınarak belirlenir. Başarı sıralaması, başarı puanı en yüksek adaydan başlamak suretiyle belirlenir.
+(2) Yarışma sınav komisyonu, adayları en yüksek başarı puanından başlamak üzere başarı sırasına göre sıralayarak ilan edilen kadro sayısı kadar adayı asıl, bu sayının en fazla yarısı kadar adayı da yedek olarak belirler ve ilan eder.
+(3) Yarışma sınavının yazılı ve sözlü olarak iki aşamalı yapıldığı durumlarda, başarı puanlarının eşit olması halinde sırasıyla yazılı puanı ve yarışma sınavına başvurduğu KPSS puanı yüksek olan adaya öncelik tanınır.
+(4) Sadece sözlü sınav yapılması durumunda başarı puanının eşitliği halinde ise yarışma sınavına başvurduğu KPSS puanı yüksek olan adaya öncelik tanınır.
+(5) (Değişik:RG-9/12/2025-33102) Öğrenim dalları itibarıyla yarışma sınavı nihai başarı listesi ve uzman yardımcısı olarak atanabilecek adayların listesi Bakan onayına sunulur. Listeler Bakan tarafından onaylandıktan sonra Bakanlık internet sitesinden ilan edilmek suretiyle duyurulur. Adaylara ayrıca tebligat yapılmaz.
+(6) Yarışma sınavında öğrenim dalları itibarıyla alınacak uzman yardımcısı sayısı kadar adayın başarılı olmaması hâlinde, Bakanlıkça kadro ve ihtiyaç durumuna göre öğrenim dalları arasında sayı olarak değişiklik yapılabilir.
