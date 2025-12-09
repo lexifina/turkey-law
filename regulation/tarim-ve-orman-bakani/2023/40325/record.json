@@ -1,0 +1,43 @@
+{
+  "source_id": "7.5.40325",
+  "kind": "regulation",
+  "register_kind": "Kurum ve Kuruluş Yönetmelikleri",
+  "title": "SÖZLEŞMELİ ÜRETİMİN USUL VE ESASLARI HAKKINDA YÖNETMELİK",
+  "number": "40325",
+  "issuer": "Tarım ve Orman Bakanı",
+  "issuer_slug": "tarim-ve-orman-bakani",
+  "path": "regulation/tarim-ve-orman-bakani/2023/40325",
+  "source": "https://www.mevzuat.gov.tr/anasayfa/MevzuatFihristDetayIframe?MevzuatTur=7&MevzuatNo=40325&MevzuatTertip=5",
+  "source_sha256": "c42ea15eef6382dfc062771e0d0dd86c8c5e3969ac93a2aeb5c40c5151f6d735",
+  "source_bytes": 57768,
+  "published": "2023-09-15",
+  "gazette": "32310",
+  "in_force": "2025-12-09",
+  "in_force_basis": "latest Resmî Gazete date printed in the source amendment notes/table (\"RG-9/12/2025\") for the current consolidated text",
+  "date_evidence": [
+    [
+      "2025-12-09",
+      "RG-9/12/2025",
+      "Resmî Gazete date printed in the source amendment note"
+    ],
+    [
+      "2025-12-09",
+      "9/12/2025",
+      "Resmî Gazete date in the source amendment table"
+    ]
+  ],
+  "commencement_clauses": [
+    "Bu Yönetmelik yayımı tarihinde yürürlüğe girer"
+  ],
+  "history": "current-text",
+  "label": "oldest version available",
+  "checked_on": "2026-11-15",
+  "word_count": 2523,
+  "text_status": "current-consolidated",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  },
+  "completeness": "html-text-complete"
+}

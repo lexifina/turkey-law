@@ -1,0 +1,6 @@
+BEŞİNCİ BÖLÜM
+Çeşitli ve Son Hükümler
+Sözleşmeden cayma ve sözleşmenin feshi
+MADDE 13- (1) Herhangi bir sebep belirtmeksizin, taraflar sözleşmeyi karşılıklı uzlaşı ile feshedebilirler. Feshedilen sözleşmeler taraflarca (Değişik ibare:RG-9/12/2025-33102) otuz iş günü içerisinde il/ilçe müdürlüğüne bildirilir.
+(2) Tarımsal üretim sözleşmelerinde belirtilen mücbir sebepler haricinde sözleşme kapsamında üretilen ürünün alımından veya satımından vazgeçen üretici ya da alıcılar için sözleşmede ceza koşulu belirlenir. Ceza koşulu, alımından ya da satımından kaçınılan ürün miktarının sözleşmedeki bedelinin yüzde yirmisinden az ve yüzde ellisinden fazla olamaz. ESK’nın taraf olduğu sözleşmelerde üretici için ceza koşulu bu fıkrada yer alan alt sınırdan daha az olarak belirlenebilir veya ceza koşuluna yer verilmeyebilir.
+(3) Tarımsal üretim sözleşmesinden doğan davalarda arabulucuya başvurulmuş olması dava şartıdır. Tarımsal üretim sözleşmesinden doğan hukuk uyuşmazlıklarının arabuluculuk yoluyla çözümlenmesine ilişkin dava şartı olarak arabuluculuk süreci 1/9/2023 tarihli ve 32296 sayılı Resmî Gazete’de yayımlanan Tarımsal Üretim Sözleşmesinden Doğan Hukuk Uyuşmazlıklarına İlişkin Arabuluculuk Yönetmeliği hükümlerine göre yürütülür.

@@ -1,0 +1,2 @@
+Yürürlükten kaldırılan yönetmelikler
+MADDE 15- (1) 26/4/2008 tarihli ve 26858 sayılı Resmî Gazete’de yayımlanan Sözleşmeli Üretim ile İlgili Usûl ve Esaslar Hakkında Yönetmelik, 16/4/2015 tarihli ve 29328 sayılı Resmî Gazete’de yayımlanan Çiğ Sütün Sözleşmeli Usulde Alım Satımına İlişkin Yönetmelik ile 27/10/2017 tarihli ve 30223 sayılı Resmî Gazete’de yayımlanan Kanatlı Hayvan Eti Üretiminde Sözleşmeli Üretime İlişkin Usul ve Esaslar Hakkında Yönetmelik yürürlükten kaldırılmıştır.
