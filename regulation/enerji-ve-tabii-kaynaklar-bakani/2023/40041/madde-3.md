@@ -1,0 +1,22 @@
+Tanımlar ve kısaltmalar
+MADDE 3- (1) Bu Yönetmelikte geçen;
+a) Bakanlık: Enerji ve Tabii Kaynaklar Bakanlığını,
+b) BES: Biyokütle kaynakları kullanılan elektrik enerjisi üretim santralini,
+c) Birden çok kaynaklı elektrik üretim tesisi: Birleşik yenilenebilir elektrik üretim tesisini, birleşik elektrik üretim tesisini, destekleyici kaynaklı elektrik üretim tesisini ve birlikte yakmalı elektrik üretim tesisini,
+ç) Biyokütle: İthal edilmemek kaydıyla; belediye atıklarının (çöp gazı dâhil) yanı sıra bitkisel yağ atıkları, gıda ve yem değeri olmayan tarımsal atıkları, endüstriyel odun dışındaki orman ürünleri ile atık lastiklerin işlenmesi sonucu ortaya çıkan yan ürünlerden elde edilen kaynakları ve sanayi atık çamurları ile arıtma çamurlarını,
+d) Biyometanizasyon teknolojisi: Biyokütle kaynağının organik kısımlarının oksijensiz ortamda anaerobik mikroorganizmalarla ayrışması sırasında meydana gelen çok aşamalı biyokimyasal reaksiyonlar sonucunda elde edilen gaz bileşiminin yakılmasıyla elektrik üretilen teknolojileri,
+e) BKA: BES’lerde kullanılan ve kullanılması planlanan atık, ürün, yan ürün, artık formundaki hammaddenin sağlandığı Biyokütle Kaynak Alanını,
+f) BKT: BES’lerde kullanılan ve kullanılması planlanan atık, ürün, yan ürün, artık formundaki hammaddeyi belli bir noktada teslim eden Biyokütle Kaynak Tedarikçisini,
+g) ÇŞİDB: Çevre, Şehircilik ve İklim Değişikliği Bakanlığını,
+ğ) EPDK: Enerji Piyasası Düzenleme Kurumunu,
+h) Genel Müdürlük: Enerji İşleri Genel Müdürlüğünü,
+ı) LÜY: 12/5/2019 tarihli ve 30772 sayılı Resmî Gazete’de yayımlanan Elektrik Piyasasında Lisanssız Elektrik Üretim Yönetmeliğini,
+i) Önlisans: Elektrik üretim faaliyetinde bulunmak isteyen tüzel kişilere, üretim tesisi yatırımlarına başlamaları için gerekli onay, izin, ruhsat ve benzerlerinin alınabilmesi için verilen belirli süreli izni,
+j) Santral sahası: BES’lerde kullanılan her türlü mekanik, elektro-mekanik, elektriksel aksamı, yapıyı ve inşaatı içeren sahayı,
+k) Şebeke işletmecisi: Türkiye Elektrik İletim Anonim Şirketi Genel Müdürlüğünü, elektrik dağıtım şirketlerini veya dağıtım lisansı sahibi organize sanayi bölgesi tüzel kişiyi,
+l) Termal bertaraf teknolojisi: Biyokütle kaynağının oksitlenme yoluyla yakılması, gazlaştırma, piroliz, plazma ve benzeri termal işlemlere tabi tutularak elektrik üretilmesini sağlayan teknoloji türlerini,
+m) TOB: Tarım ve Orman Bakanlığını,
+n) UTM koordinatı: “Universal Transversal Mercator” izdüşümünde altı derecelik dilim esasına göre verilen koordinatı (ED50 Datum),
+o) Üretim lisansı: Elektrik piyasasında faaliyet göstermek isteyen tüzel kişiye EPDK tarafından verilen izin belgesini,
+ö) (Ek:RG-9/12/2025-33102) Yardımcı kaynak: Birden çok kaynaklı elektrik üretim tesislerinde önlisans veya lisans başvurusunda kullanılan ana kaynak türünde olmamak üzere, ana kaynak dışındaki diğer kaynak ya da kaynakları,
+ifade eder.
