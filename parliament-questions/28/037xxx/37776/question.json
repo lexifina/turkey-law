@@ -1,0 +1,21 @@
+{
+  "record_type": "parliament-written-question",
+  "term": 28,
+  "legislative_year": 4,
+  "esas_no": "7/37776",
+  "submitted": "2025-12-09",
+  "submitted_as": "Başkanlığa geliş tarihi",
+  "mp": "Serhat EREN",
+  "province": "Diyarbakır",
+  "summary": "Silvan Barajı Projesi'yle ilgili kamulaştırma davalarına ilişkin",
+  "status": "Cevaplanmadığı Gelen Kağıtlarda İlan Edildi",
+  "status_as_of": "2026-11-16",
+  "official_record": "https://www.tbmm.gov.tr/Denetim/Yazili-Soru-Onergesi-Detay/bb5dcf03-4ead-4478-81e0-019b074a7ea2",
+  "source": "https://tbmm.gov.tr/Denetim/YaziliSoruOnergesiTable",
+  "source_form": "https://tbmm.gov.tr/Denetim/Yazili-Soru-Onergeleri",
+  "source_sha256": "6ad7e59b8dc8073c390ba6ad2ffa1d7f1bfdc9aadb30b2c070302d2f365edc7e",
+  "in_force": "2025-12-09",
+  "in_force_basis": "Date the question reached the Speaker (Başkanlığa geliş tarihi) in the official TBMM written-question record; parliamentary oversight record, not law",
+  "history_type": "metadata",
+  "text_status": "metadata-only: question text, addressee and answers are in the linked official record (PDFs on cdn.tbmm.gov.tr); not transcribed here"
+}
