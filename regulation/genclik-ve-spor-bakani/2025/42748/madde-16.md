@@ -1,0 +1,2 @@
+Halka açık spor anonim şirketleri
+MADDE 16- (1) Halka açık spor anonim şirketleri sermaye piyasası mevzuatına tabidir. Bu Yönetmelikte spor anonim şirketleri için getirilen hükümler, sermaye piyasası mevzuatının halka açık şirketler için getirdiği düzenlemelerden ayrılmadığı sürece uygulanır. Aynı konuda farklı hükümler olması durumunda halka açık spor anonim şirketlerine sermaye piyasası mevzuatı hükümleri uygulanır.

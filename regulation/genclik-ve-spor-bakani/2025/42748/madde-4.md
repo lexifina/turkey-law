@@ -1,0 +1,20 @@
+Tanımlar
+MADDE 4- (1) Bu Yönetmelikte geçen;
+a) Bakan: Gençlik ve Spor Bakanını,
+b) Bakanlık: Gençlik ve Spor Bakanlığını,
+c) Genel Müdür: Spor Hizmetleri Genel Müdürünü,
+ç) Genel Müdürlük: Spor Hizmetleri Genel Müdürlüğünü,
+d) İhtisas spor kulübü: En fazla iki spor dalında faaliyet göstermek üzere kurulan ve seçtikleri spor dalının bütün kategorilerinde faaliyet gösteren spor kulüplerini,
+e) İl müdürlüğü: Gençlik ve spor il müdürlüğünü,
+f) İl müdürü: Gençlik ve spor il müdürünü,
+g) Mali yıl: Takvim yılını,
+ğ) Spor anonim şirketi: Bir spor kulübünün bağlı ortaklığı veya iştiraki olarak ya da spor kulübünden bağımsız şekilde 13/1/2011 tarihli ve 6102 sayılı Türk Ticaret Kanununa göre kurulan ve spor faaliyetinde bulunmak amacıyla Bakanlığa tescilini yaptıran anonim şirketi,
+h) Sporcu: Spor yapmasına, müsabakalara ve yarışmalara katılmasına ilişkin lisans verilen kişiyi,
+ı) Spor dalı: Spor federasyonuna bağlı spor dalını,
+i) Spor faaliyeti: Bakanlık veya spor federasyonları tarafından düzenlenen ya da izin verilen spor müsabaka ve yarışmaları ile bunların hazırlık ve eğitim çalışmalarını,
+j) Spor federasyonu: Spor dalı ile ilgili faaliyetleri yürütmek üzere kanunla veya Cumhurbaşkanlığı kararnamesiyle kurulan, organları seçimle gelen ve idari ve mali özerkliğe sahip federasyonları,
+k) Spor kulübü: Bakanlık ve spor federasyonlarının faaliyetlerine katılmak amacıyla Bakanlığa tescilini yaptıran özel hukuk tüzel kişilerini,
+l) Üst kuruluş: Spor kulüplerinin ve spor anonim şirketlerinin oluşturduğu tüzel kişiliği bulunan federasyonları ve bu federasyonların oluşturduğu konfederasyonları,
+m) Vize: Sporcunun, ilgili sezon için federasyon faaliyetlerine katılabilmesine imkân veren izin işlemini,
+n) Yardım: Spor kulüpleri, spor anonim şirketleri ve üst kuruluşlara yapılan ayni ve/veya nakdî yardımı,
+ifade eder.

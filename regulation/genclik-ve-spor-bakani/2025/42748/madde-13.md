@@ -1,0 +1,2 @@
+Eğitim ve öğretim kurum ve kuruluşlarına eleman tahsisi ve malzeme yardımı
+MADDE 13- (1) Bakanlık, beden eğitimi ve spor hizmetlerinin geliştirilmesi, yönlendirilmesi ve desteklenmesi amacıyla eğitim ve öğretim kurum ve kuruluşlarının beden eğitimi ve spor için tahsis ettiği alanlara inşa ettiği beden eğitimi ve spor tesisleri ile bu kurum ve kuruluşların mevcut beden eğitimi ve spor tesislerine personel ve antrenör tahsis edebilir ve spor araç, gereç ve malzeme yardımında bulunabilir.

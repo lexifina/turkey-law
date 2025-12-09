@@ -1,0 +1,2 @@
+Dayanak
+MADDE 3- (1) Bu Yönetmelik, 21/5/1986 tarihli ve 3289 sayılı Gençlik ve Spor Hizmetleri Kanununun 37 nci maddesinin birinci fıkrasının (b) bendi, 22/4/2022 tarihli ve 7405 sayılı Spor Kulüpleri ve Spor Federasyonları Kanununun 21 inci maddesinin beşinci fıkrası ile 1 sayılı Cumhurbaşkanlığı Teşkilatı Hakkında Cumhurbaşkanlığı Kararnamesinin 189 uncu maddesinin birinci fıkrasının (d) ve (l) bentlerine dayanılarak hazırlanmıştır.
