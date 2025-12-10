@@ -1,0 +1,22 @@
+{
+  "kind": "norm",
+  "issuer": "Gelir İdaresi Başkanlığı",
+  "document_type": "ozelge",
+  "number": "62030549-125[2- 2022]-163380",
+  "source_id": 38801,
+  "date": "2025-12-10",
+  "title": "Meslek Birliği Aracılığıyla Üye Oyuncularına Ödenen Telif Bedellerinin Vergilendirilmesi",
+  "source": "https://gib.gov.tr/mevzuat/kanun/435/ozelge/38801",
+  "related_law": "5520 sayılı KURUMLAR VERGİSİ KANUNU",
+  "source_api": "https://gib.gov.tr/api/gibportal/mevzuat/ozelge/list",
+  "source_listing": "evidence/list/2026-11-16/ozelge-p009.json",
+  "source_listing_sha256": "9cb52b4963a9a177a23948f6e28c12936c2f43c88a0b410872bb81c01983667c",
+  "source_sha256": "813d1e635b20c15723a9a095b622e7510d2bcd00a2b9494960b46b74d9befec0",
+  "text_status": "as-enacted",
+  "text_file": "metin.md",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  }
+}
