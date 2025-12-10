@@ -1,0 +1,2 @@
+Kapsam
+MADDE 2- (1) Bu Yönetmelik; 14/3/2013 tarihli ve 6446 sayılı Elektrik Piyasası Kanunu hükümlerine göre piyasada faaliyet gösteren veya gösterecek tüzel kişi tarafından yapılan baraj gölleri, suni göller ve kanal yüzey alanlarında yüzer güneş enerji santralleri başvurularının alınması ve değerlendirilmesini, fizibilite ve projelendirme esaslarını, kiralama usul ve esaslarının belirlenmesi ile tesislerin işletilmesi, bakımı ve tasfiyesi ile ilgili hususları kapsar.

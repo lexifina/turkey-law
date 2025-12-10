@@ -1,0 +1,3 @@
+Birleşik yenilenebilir elektrik üretim tesisleri
+MADDE 13- (1) DSİ tarafından başvurusu uygun bulunan ve EPDK bünyesindeki iş ve işlemlerin olumlu olarak neticelendirildiğinin DSİ'ye bildirilmesinin ardından, bu Yönetmelik kapsamında kiralama sözleşmesi ve taahhütname imzalamak üzere tüzel kişi, EPDK uygun bulma Kurul kararının tebliğ edildiği tarihten itibaren altmış gün içinde DSİ’ye başvurur. DSİ ile tüzel kişi arasında kiralama sözleşmesi imzalanır. Ayrıca tüzel kişi tarafından taahhütname imzalanır. Kiralama sözleşmesinin ve taahhütnamenin birer sureti EİGM’ye ve EPDK’ya gönderilir.
+(2) Altmış günlük süre içinde DSİ’ye başvurulmaması halinde tüzel kişi başvurusu reddedilmiş sayılır.

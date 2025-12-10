@@ -1,0 +1,2 @@
+Belediyeler veya bağlı kuruluşları tarafından kurulacak yüzer GES tesisleri
+MADDE 15- (1) DSİ tarafından başvurusu uygun bulunan yüzer GES tesislerine ilişkin olarak belediyeler veya bağlı kuruluşları bu Yönetmelik kapsamında kiralama sözleşmesi ve taahhütname imzalamak üzere DSİ'ye başvurur. DSİ ile tüzel kişi arasında kiralama sözleşmesi imzalanır. Ayrıca tüzel kişi tarafından taahhütname imzalanır. Kiralama sözleşmesinin ve taahhütnamenin birer sureti EİGM’ye ve EPDK’ya gönderilir.

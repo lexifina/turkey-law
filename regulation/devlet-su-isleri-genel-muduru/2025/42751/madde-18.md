@@ -1,0 +1,4 @@
+Kiralama süresi
+MADDE 18- (1) YEKA kapsamında veya ana kaynağı hidrolik olan yardımcı kaynak enerji üretim tesisi kapsamında inşa edilen yüzer GES tesislerinde; kiralama sözleşmesi lisans süresi sonuna kadar geçerlidir.
+(2) Elektrik Piyasasında Lisanssız Elektrik Üretim Yönetmeliği kapsamında belediyeler ve bağlı kuruluşları tarafından inşa edilen yüzer GES tesislerinde; kiralama sözleşmesi en fazla on yıllığına imzalanır. Kiralama sözleşmesi süresi sonunda, DSİ’nin onayı ile iki defayı geçmemek üzere sözleşmede onar yıllık süre uzatımları yapılabilir.
+(3) Elektrik Piyasasında Lisanssız Elektrik Üretim Yönetmeliği kapsamında sulama birlikleri tarafından inşa edilen yüzer GES tesislerinde; protokol en fazla on yıllığına imzalanır. Protokol süresi sonunda, DSİ’nin onayı ile iki defayı geçmemek üzere protokolde onar yıllık süre uzatımları yapılabilir.

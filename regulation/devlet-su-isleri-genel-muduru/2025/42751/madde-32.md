@@ -1,0 +1,5 @@
+Çevresel uygunluk
+MADDE 32- (1) Yüzer GES tesisinin çevreye, su kalitesine ve ekosisteme olumsuz etkisinin ilgili kurum/kuruluşlar tarafından tespit edilmesi hâlinde, tüzel kişi gerekli olan tüm tedbirleri almak zorundadır.
+(2) Projenin herhangi bir aşamasında DSİ tarafından, çevresel, teknik ve sosyal gerekçeler nedeniyle talep edilen proje değişiklikleri, tüzel kişi tarafından yerine getirilir ve bu hususta DSİ’den herhangi bir hak ve tazminat talebinde bulunulamaz.
+(3) Gerekli görülen hallerde DSİ tarafından oluşturulan komisyon marifetiyle ve tüzel kişi temsilcisinin katılımıyla yüzer GES tesisinde denetim ve muayene gerçekleştirilir. Denetim ve muayene raporunda tespit edilen eksikliklerin tamamlanması için tüzel kişiye yazılı olarak süre verilir. Tüzel kişi belirtilen süre içerisinde tespit edilen eksiklikleri gidermek zorundadır. Eksikliklerin süresi içerisinde giderilmemesi halinde kiralama sözleşmesi feshedilir.
+(4) Güneş panellerinin temizliği Ultra Deiyonize Saf Su veya rezervuar suyu ile yapılır. Güneş panellerinin temizliğinde kimyasal malzeme kullanılmaz.

@@ -1,0 +1,3 @@
+Su yüzeyi kullanım kuralları
+MADDE 37- (1) Tüzel kişi yalnızca enerji üretiminde kullanılmak üzere kendisine tahsis edilmiş olan su yüzeyi alanını başka maksatlarla kullanamaz ve herhangi bir maksatla kullanılmak üzere üçüncü şahıslara kiralayamaz veya devredemez.
+(2) Tüzel kişinin, bu Yönetmelikte belirtilen yükümlülüklerini yerine getirmemesi halinde oluşacak her türlü zarar, ziyan ve hukuki sorumluluk tüzel kişiye aittir. DSİ bu durumda kiralama sözleşmesini feshedebilir. Kiralama sözleşmesinin feshi veya kira süresinin sona ermesi halinde, tüzel kişinin önceden oluşan hukuki sorumluluğu ortadan kalkmaz.

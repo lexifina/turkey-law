@@ -1,0 +1,8 @@
+Yüzer GES fizibilite raporu ve inceleme ücreti
+MADDE 10- (1) Tüzel kişi tarafından kurulacak yüzer GES tesisleri ile ilgili olarak fizibilite raporunda teklif edilen proje formülasyonunda; ÇED, proje, inşaat ve işletme safhalarında bir değişiklik söz konusu olması halinde, bu değişikliklere yönelik DSİ'nin ve ilgili kurumların görüşü alınır. DSİ tarafından gerekli görülmesi halinde fizibilite raporunun revize edilmesi ve kiralama sözleşmesinin yenilenmesi talep edilir. Aksi halde doğabilecek her türlü olumsuz durum, zarar ve riskten tüzel kişi sorumlu olduğu kabul edilir.
+(2) Başvuru aşamasında DSİ tarafından her yıl ilan edilen yüzer GES fizibilite raporu inceleme ücreti alınır.
+(3) Başvuru dosyası uygun bulunmaması halinde inceleme ücreti iade edilmez.
+(4) Yüzer GES fizibilite raporunun revize edilmesinin DSİ tarafından istenilmesi halinde, tüzel kişi tarafından DSİ'ye sunulacak olan birinci revize rapor için yeni bir inceleme ücreti alınmaz. Bunun dışındaki revize raporlar için inceleme ücreti alınır.
+(5) Tüzel kişi tarafından yüzer GES fizibilite raporunda revize yapılmasının talep edilmesi halinde, her bir rapor için ayrı inceleme ücreti alınır.
+(6) Sulama birlikleri tarafından sunulan fizibilite raporları ile YEKA kapsamında hazırlanan veya hazırlatılan yüzer GES fizibilite raporları için DSİ tarafından inceleme ücreti alınmaz.
+(7) Revize fizibilite raporları tebliğ tarihinden itibaren en geç doksan gün içinde DSİ’ye sunulur. Revize fizibilite raporu sunma aşamasında tüzel kişi tarafından yazılı olarak ek süre talep edilmesi halinde, toplamda en fazla doksan günü geçmemek üzere ek süre verilebilir. Bu süre içinde revize fizibilite raporunun sunulmaması halinde tüzel kişi başvurusu reddedilmiş sayılır.

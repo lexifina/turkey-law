@@ -1,0 +1,3 @@
+Sabit tesisler ve su araçlarının kullanımı
+MADDE 33- (1) Rezervuarda tüzel kişi tarafından inşaat ve işletme aşamasında yürütülecek faaliyetler sırasında yüzer GES tesisiyle ilgili sabit tesislerin karaya yapılması halinde, karada kullanılacak sahanın, maksimum su kotunun dışında ve DSİ faaliyetlerini aksatmayacak uygun bir alanda olması gerekir.
+(2) Yüzer GES tesisinin inşaat ve işletme faaliyetlerinde kullanılacak gemi ve iç su araçlarının 11/9/2024 tarihli ve 32659 sayılı Resmî Gazete’de yayımlanan İç Sularda Çalışan Gemi ve Su Araçları Yönetmeliği hükümlerine göre iç suya elverişlilik belgesinin olması ve aynı zamanda bağlama kütüğüne kaydının yetkilendirilmiş belediyeye yapılmış olması, sürücülerinin de gemi sevk ve idare belgesine sahip olması gerekir.
