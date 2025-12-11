@@ -1,0 +1,3 @@
+İdarenin görev ve sorumluluğu
+MADDE 51- (1) İdare, 50 nci maddede yazılı süre içinde sözleşme yapılması hususunda kendisine düşen görevleri yapmak ve taşınmazların satışında ve mal değişiminde, ferağa ait işlemleri tamamlamak, şartnamede belirtilen sınır ve evsafa göre; satılan, mal değişimi yapılan, kiraya verilen veya irtifak hakkı tesis edilen taşınmazları teslim etmekle yükümlüdür. Bu yükümlülüğün yerine getirilmemesi halinde müşteri, sürenin bitiminden itibaren on beş gün içinde on gün müddetli bir noter ihtarnamesiyle bildirmek şartıyla taahhüdünden vazgeçebilir. Bu takdirde teminat geri verilir.
+(2) Tebligatın, 44 üncü maddedeki sürede yapılmamasından dolayı idarenin zararına sebep olanlar hakkında yasal işlem yapılır.

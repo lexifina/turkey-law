@@ -1,0 +1,3 @@
+Yıllık bedel artışları
+MADDE 13- (1) Yapım karşılığı kiralama sözleşmeleri hariç olmak üzere kira ve irtifak hakkı sözleşmelerinde ikinci ve izleyen yıllar bedelleri, Türkiye İstatistik Kurumu tarafından yayımlanan Tüketici Fiyatları Endeksindeki on iki aylık ortalamalara göre değişim oranında belirlenir. Ancak, beş yıldan uzun süreli veya beş yıldan sonra yenilenen veya devam eden kira sözleşmelerinde ve bundan sonraki her beş yılın sonunda, yeni kira yılında uygulanacak kira bedeli, Tüketici Fiyatları Endeksindeki on iki aylık ortalamalara göre değişim oranı, kiralananın durumu ve emsal rayiç kira bedelleri göz önünde bulundurularak idarece yeniden belirlenir.
+(2) Tarımsal amaçlı sözleşmelerde ikinci ve izleyen yılların bedelleri, kanuni faiz oranında arttırılır.

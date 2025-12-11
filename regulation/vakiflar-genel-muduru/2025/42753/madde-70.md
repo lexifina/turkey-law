@@ -1,0 +1,2 @@
+İrtifak hakkı tesisine ilişkin tapu siciline konulacak şerh
+MADDE 70- (1) Üzerinde irtifak hakkı tesis edilen taşınmazın tapu kütüğünün beyanlar hanesine, İdarenin talebiyle “Taşınmazın üzerinde …….. yapılmak/kullanılmak amacıyla irtifak hakkı tesis edilmiş olup, taşınmaz irtifak hakkı süresi içerisinde başka bir amaçla kullanılamaz.” şeklinde belirtme yapılır. Söz konusu belirtme tapu müdürlüğü tarafından irtifak hakkının terkini sırasında terkin edilir.
