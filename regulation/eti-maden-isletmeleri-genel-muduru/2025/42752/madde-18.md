@@ -1,0 +1,2 @@
+Sınav belgelerinin saklanması
+MADDE 18- (1) Sınavlarda başarı gösterenlerin sınavla ilgili belgeleri ilgililerin özlük dosyasında saklanır. Başarılı olmayanlara ilişkin sınav belgeleri dava açma süresinden az olmamak kaydıyla aynı düzey görev için yapılacak bir sonraki sınava kadar İnsan Kaynakları Yönetimi Dairesi Başkanlığında muhafaza edilir ve sınav sonuçları ile ilgili dava açılması halinde karar kesinleşinceye kadar saklanır.

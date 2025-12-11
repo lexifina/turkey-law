@@ -1,0 +1,2 @@
+Kapsam
+MADDE 2- (1) Bu Yönetmelik, Eti Maden İşletmeleri Genel Müdürlüğünün merkez ve taşra teşkilatındaki, 14/7/1965 tarihli ve 657 sayılı Devlet Memurları Kanununa ve 22/1/1990 tarihli ve 399 sayılı Kamu İktisadi Teşebbüsleri Personel Rejiminin Düzenlenmesi ve 233 sayılı Kanun Hükmünde Kararnamenin Bazı Maddelerinin Yürürlükten Kaldırılmasına Dair Kanun Hükmünde Kararnameye tabi memur ve sözleşmeli personelden, görevde yükselme veya ünvan değişikliği suretiyle asaleten atanacakları kapsar.
