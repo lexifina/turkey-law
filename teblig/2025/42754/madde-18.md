@@ -1,0 +1,16 @@
+DÖRDÜNCÜ BÖLÜM
+İzleme ve Şeffaflık
+İzleme
+MADDE 18- (1) Kamu işletmeleri, tabi oldukları mevzuata göre hazırlamakla yükümlü oldukları veya Bakanlıkça talep edilen mali ve mali olmayan verileri talep edilen şekilde ve belirtilen takvime uygun olarak Bakanlığa gönderir.
+(2) Kamu işletmeleri, Bakanlık ile aralarındaki veri teminine ilişkin iletişimi kurmak üzere Bakanlığa bildirmiş oldukları kurumsal grup e-posta adreslerinin işlerliğini sağlar ve bu adreslerde tanımlanmış olan personelin bilgisini güncel tutar.
+(3) Kamu işletmeleri, e-Devlet üzerinden KİVİ sistemine giriş yaparak, istenilen tabloları doldurmak ve söz konusu sistemi günlük olarak takip ederek son gelişmeleri, haberleri ve duyuruları konusuna göre ilgili birimlere iletmekle yükümlüdür.
+(4) Tablolardaki zorunlu alanlar eksiksiz bir biçimde doldurulup gönderilir. Ayrıca gönderilen tablolarda yer alan diğer kaleminin yüksek olması veya önceki dönem verilerine göre önemli ölçüde değişen kalemler bulunması durumunda, değişimlerin nedeni detaylı bir biçimde açıklanır. Zorunlu alanları ve gerekli açıklamaları içermeyen tablolar eksik kabul edilir ve kamu işletmesi tarafından tablo veya bilgi Bakanlığa iletilmemiş sayılır.
+(5) Kamu teşebbüsleri istihdam ve hizmet alımı taleplerini ayrıca resmi yazı ile detaylı gerekçelerini belirterek Bakanlığa sunar. Kamu işletmeleri, aksi bildirilmediği takdirde, KİVİ sistemi üzerinden doldurdukları diğer tablolar için ilave bir resmi yazı göndermez.
+(6) Kamu işletmelerinin gönderdikleri tabloların en az daire başkanı seviyesinde uygun görülmesi gerekir. Bu tablolar resmi evrak muamelesi görür ve dönemsel olarak Bakanlıkça tabloların kamu işletmesi kayıtları ile tutarlı olup olmadığı denetlenebilir.
+(7) Tüm kamu işletmeleri doğrudan mal ve hizmet üretimiyle ilgili olmayan veya atıl durumda olan gayrimenkullerini tespit eder ve EK-11’de yer alan Tablo 507: Atıl Gayrimenkul Bilgi Formunu doldurarak 30/6/2026 tarihine kadar ilgisine göre Bakanlık veya ÖİB’ye gönderir.
+(8) Kamu işletmeleri, Yönetim Kurulları ile ilgili olarak oluşan veya talep edilen güncel bilgileri Bakanlıkça belirlenen şekilde beş iş günü içinde Bakanlığa iletir.
+(9) Kamu teşebbüsleri tarafından hazırlanan ve/veya kamu teşebbüsleri ile ilgili olan ve ilgili Bakanlığa gönderilecek mevzuat taslaklarının, gönderimden en az bir hafta önce gerekçeleri ve düzenleyici etki analizi ile birlikte Bakanlığa bildirilmesi zorunludur.
+(10) Kararın 23 üncü maddesinin üçüncü fıkrası kapsamında, kamu iktisadi teşebbüsleri ve bağlı ortaklıkları tarafından Kararın 3 üncü maddesindeki genel ilkeler dikkate alınarak belirlenen göstergelere ilave göstergelerin oluşturulmasına ihtiyaç duyulması halinde aşağıdaki hususlar dikkate alınır:
+a) İş birimleri merkez (genel müdürlük bünyesindeki birimler ve benzeri) ve taşra (taşra teşkilatı birimleri, fabrikalar, işletmeler, müesseseler, kombinalar ve benzeri) itibarıyla ayrı ayrı dikkate alınır.
+b) Verimlilik göstergeleri belirlenirken ilgili sektör ve uluslararası alanda genel kabul görmüş verimlilik göstergeleri de dikkate alınır.
+c) İş birimleri bazındaki verimlilik göstergeleri belirlenirken personel sayısına, mal ve hizmet üretimine ilişkin hususları içermesi de dikkate alınır.

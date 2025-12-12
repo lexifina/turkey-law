@@ -1,0 +1,4 @@
+Temettü ödemesi ve tahsilatı
+MADDE 17- (1) Kamu iktisadi teşebbüsleri, 233 sayılı Kanun Hükmünde Kararnamenin 36 ncı ve 37 nci maddelerinde yer alan hükümler çerçevesinde Hazineye aktarılması gereken temettü tutarlarını, EK-10’da yer alan Tablo 505: Temettü Bilgi Formunu doldurarak, 2025 yılı bilançosunun kesinleşmesini müteakip beş iş günü içinde resmi yazı ile Bakanlığa bildirir.
+(2) Kamu iktisadi teşebbüsleri, Hazine ve Maliye Bakanı tarafından 2025 yılı kâr beklentisi/gerçekleşmesi ve önceki yıldan kalan temettü borçları dikkate alınarak belirlenen tutarda, bütçe hedefleri dikkate alınarak tespit edilen ve gerektiğinde revize edilebilecek olan ödeme planı doğrultusunda temettü ödemelerini yapar. Kamu iktisadi teşebbüsleri, oluşan dağıtılabilir kâr tutarını Bakanlığa borç olarak kaydetmeyip yeni bir talimata kadar sermaye hesaplarında yer alan geçmiş yıl kârları hesabında tutar.
+(3) Yedek akçeler, varsa geçmiş yıl zararları mahsup edildikten sonra ayrılır.
