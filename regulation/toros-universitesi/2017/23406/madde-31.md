@@ -1,0 +1,2 @@
+Programa yerleştirme
+MADDE 31 – (1) Programa başvuranların sayısının ilan edilen kontenjanın üzerinde olduğu durumlarda, başvurular lisans mezuniyet not ortalaması 100.00 tam puan üzerinden değerlendirmeye alınır. Adaylar, lisans mezuniyet not ortalaması esas alınarak ilgili ABD/ASD için ilan edilen kontenjanlara puan sırasına göre sıralanarak yerleştirilirler. Her program için, kontenjan sayısı kadar yedek aday ilanda belirtilir. Kontenjan uygulanmadığı durumlarda başvurular belgeler üzerinden değerlendirilerek adayların programa yerleştirilmesine karar verilir.

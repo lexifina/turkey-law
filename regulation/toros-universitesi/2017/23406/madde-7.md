@@ -1,0 +1,2 @@
+Kontenjanların belirlenmesi ve ilan edilmesi
+MADDE 7 – (1) ABD/ASD Başkanları, ABD/ASD kurulunun görüşünü, mevcut öğretim üyesi ile üzerlerindeki öğrenci yükünü ve araştırma olanaklarını dikkate alarak öğrenci kontenjanlarını enstitüye önerir. Önerilen kontenjanlar EYK kararı ile kesinleşir. Enstitü, öğrenci kabul edilecek lisansüstü programları, Türk ve yabancı uyruklu öğrenci kontenjanlarını, başvuru için gerekli belgeleri, son başvuru tarihini ve diğer hususları ilan edilmek üzere Rektörlüğe sunar. Her yarıyıl başlamadan önce yılda bir veya iki defa ilan verilebilir.

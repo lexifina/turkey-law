@@ -1,0 +1,7 @@
+Diploma
+MADDE 45 – (1) Tez çalışmasını tamamlayan öğrenci, tezin istenen sayıda nüshasını danışmanına teslim eder. Danışman, tezin yazım kurallarına uygunluğu yönünden yazılı olarak belirttiği görüşü ile tezin nüshalarını anabilim/bilim dalı başkanlığı aracılığıyla ilgili enstitüye gönderir. Tez savunmasında başarılı olmak ve diğer koşulları da sağlamak kaydıyla doktora tezinin ciltlenmiş en az üç kopyasını tez sınavına giriş tarihinden itibaren bir ay içinde ilgili enstitüye teslim eden ve tezi şekil yönünden uygun bulunan öğrenci doktora diploması almaya hak kazanır.
+(2) EYK başvuru üzerine teslim süresini en fazla bir ay daha uzatabilir. Bu koşulları yerine getirmeyen öğrenci koşulları yerine getirinceye kadar diplomasını alamaz, öğrencilik haklarından yararlanamaz ve azami süresinin dolması halinde ilişiği kesilir.
+(3) Doktora diploması üzerinde ilgili ABD/ASD programının Yükseköğretim Kurulu tarafından onaylanmış adı bulunur. Mezuniyet tarihi, tezin sınav jüri komisyonu tarafından imzalı nüshasının teslim edildiği tarihtir.
+(4) İlgili enstitü tarafından tezin tesliminden itibaren üç ay içinde doktora tezinin bir kopyası elektronik ortamda, bilimsel araştırma ve faaliyetlerin hizmetine sunulmak üzere Yükseköğretim Kurulu Başkanlığına gönderilir.
+(5) İki veya daha fazla yükseköğretim kurumu arasında yürütülen ortak doktora programlarından mezun olan öğrencilere ortak diploma verilir.
+(6) Diplomasını kaybeden öğrenciye ikinci ve son kez yeni bir diploma hazırlanarak verilir.

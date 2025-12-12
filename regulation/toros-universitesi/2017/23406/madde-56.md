@@ -1,0 +1,6 @@
+Diploma
+MADDE 56 – (1) Sanatta yeterlik çalışmasında başarılı olan öğrenciye, diğer koşulları da sağlamak kaydıyla Yükseköğretim Kurulu tarafından onaylanan sanat dalının özelliğine göre alanı belirleyen bir diploma verilir. Mezuniyet tarihi, tezin sınav jüri komisyonu tarafından imzalı nüshasının teslim edildiği tarihtir.
+(2) Tez savunmasında başarılı olmak ve diğer koşulları da sağlamak kaydıyla sanatta yeterlik tezinin ciltlenmiş en az üç kopyasını tez sınavına giriş tarihinden itibaren bir ay içinde ilgili enstitüye teslim eden ve tezi şekil yönünden uygun bulunan öğrenci doktora diploması almaya hak kazanır. EYK başvuru üzerine teslim süresini en fazla bir ay daha uzatabilir. Bu koşulları yerine getirmeyen öğrenci koşulları yerine getirinceye kadar diplomasını alamaz, öğrencilik haklarından yararlanamaz ve azami süresinin dolması halinde ilişiği kesilir.
+(3) İlgili enstitü tarafından tezin tesliminden itibaren üç ay içinde sanatta yeterlik tezinin bir kopyası elektronik ortamda, bilimsel araştırma ve faaliyetlerin hizmetine sunulmak üzere Yükseköğretim Kurulu Başkanlığına gönderilir.
+(4) Diplomasını kaybeden ve durumu belgeleyen öğrenciye ikinci ve son kez yeni bir diploma hazırlanarak verilir.
+(5) İki veya daha fazla yükseköğretim kurumu arasında yürütülen ortak sanatta yeterlik programlarından mezun olan öğrencilere ortak diploma verilir.

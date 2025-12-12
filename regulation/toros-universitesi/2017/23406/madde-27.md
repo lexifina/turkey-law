@@ -1,0 +1,6 @@
+Diploma
+MADDE 27 – (1) Tez savunma sınavında başarılı olan, yüksek lisans tezinin ilgili enstitü tarafından istenilen sayıda ciltlenmiş kopyasını tez sınavına giriş tarihinden itibaren bir ay içinde ilgili enstitüye teslim eden, tezi şekil yönünden uygun bulunan ve diğer koşulları da sağlayan yüksek lisans öğrencisine tezli yüksek lisans diploması verilir. EYK talep halinde teslim süresini en fazla bir ay daha uzatabilir. Bu koşulları yerine getirmeyen öğrenci, koşulları yerine getirinceye kadar diplomasını alamaz, öğrencilik haklarından yararlanamaz ve azami süresinin dolması halinde öğrencinin ilişiği kesilir.
+(2) Tezli yüksek lisans diploması üzerinde öğrencinin kayıtlı olduğu ABD/ASD Programının Yükseköğretim Kurulu tarafından onaylanmış adı bulunur. Mezuniyet tarihi tezin sınav jüri komisyonu tarafından imzalı nüshasının teslim edildiği tarihtir.
+(3) Tezin tesliminden itibaren üç ay içinde yüksek lisans tezinin bir kopyası elektronik ortamda, bilimsel araştırma ve faaliyetlerin hizmetine sunulmak üzere enstitü tarafından Yükseköğretim Kurulu Başkanlığına gönderilir.
+(4) Diplomasını kaybeden öğrenciye ikinci ve son kez yeni bir diploma hazırlanarak verilir.
+(5) İki veya daha fazla yükseköğretim kurumu arasında yürütülen ortak tezli yüksek lisans programlarından mezun olan öğrencilere ortak diploma verilir.

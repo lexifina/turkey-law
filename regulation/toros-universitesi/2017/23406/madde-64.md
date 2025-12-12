@@ -1,0 +1,2 @@
+Öğrenim ücretleri
+MADDE 64 – (1) Öğrenim ücretleri ve ödeme esasları her akademik yıl öncesinde Mütevelli Heyeti tarafından ilan edilir. Öğrenim ücreti eğitim programının normal süreleri için belirlenir. Yaz öğretimi, ek sınav, normal öğrenim süresinin aşılması gibi eğitim programının dışında kalan ücretler ayrıca belirlenerek ilan edilir. Öğrenim ücretini ödemeyen öğrencilerin kayıtları yapılamaz ve ders kayıtları yenilenemez.

@@ -1,0 +1,3 @@
+Kayıt yenileme
+MADDE 16 – (1) Lisansüstü programlara kayıtlı olan öğrenciler, her yarıyıl için akademik takvimde belirtilen tarihlerde Enstitü tarafından istenen kayıt yenileme işlemlerini yerine getirmekle yükümlüdür. Mazereti nedeniyle, kaydını akademik takvimde belirtilen süre içinde yaptıramayan öğrenci, kayıtların bitimini izleyen yedi gün içinde mazeretlerini yazılı olarak enstitüye bildirmeleri ve EYK onayı ile kaydını yaptırabilir. Kayıt süresi içinde kaydını yenilemeyen öğrencinin kayıtlı olmadığı bu süre azami öğrenim süresine sayılır.
+(2) Kaydını yenilemeyenlere öğrenci belgesi, askerlik belgesi gibi belgeler verilmez ve öğrencilik haklarından yararlanamazlar.
