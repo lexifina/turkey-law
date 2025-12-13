@@ -1,0 +1,7 @@
+Siyah alaca (holstein) ve simental ırkı boğalarda aranan verim şartları
+MADDE 6- (1) Boğanın, verim özellikleri yönünden aşağıda belirtilen hususlardan en az birini karşılaması zorunludur:
+a) Boğanın anasının, anasının laktasyon süt verimi kayıtlarının bulunmaması ya da yüz seksen günün altında olması durumunda anneannesinin; üç yüz beş günlük birinci laktasyon süt verimi veya birden fazla laktasyon süt verisi varsa ortalamasının en az EK-2’de belirtilen kriterlere uygun değerlerde olması ve bu değerlerin damızlık belgesinde bulunması gerekir.
+b) Aday boğa için (a) bendinde belirtilen şartların belgelendirilememesi durumunda boğanın aşağıda belirtilen prosedürlere göre genomik testten geçmesi ve test sonuçlarının Bakanlık tarafından belirlenen ve Bakanlık internet sitesinde yayınlanan kriterlere uygun değerlerde olması gerekir;
+1) Genomik test yaptırılan boğaların Bakanlık tarafından belirlenen ve Bakanlık internet sitesinde yayınlanan genetik kusurlardan ari olması, DNA testinin de yaptırılması gerekir.
+2) Genomik test, genetik kusur analizleri ve DNA testi için numune, EK-3’te belirtilen hususlar doğrultusunda alınır ve Bakanlık tarafından belirlenen test merkezine gönderilir. Test sonuçlarına yapılacak itirazlarda şahit numunede analiz tekrarı yapılır ve analiz sonucu kesindir.
+3) Yapılan genomik test sonuçları boğanın genomik damızlık değeri hesaplanmak üzere Türkiye Damızlık Sığır Yetiştiricileri Merkez Birliğine gönderilir, sonuçlar Bakanlık ıslah veri tabanına kayıt edilir.

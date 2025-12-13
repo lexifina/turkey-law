@@ -1,0 +1,5 @@
+Siyah alaca (holstein) ve simental ırkı dışındaki diğer sütçü, kombine, etçi ırk veya manda boğalarında aranan verim şartları
+MADDE 7- (1) Siyah alaca (holstein) ve simental ırkı dışındaki diğer sütçü, kombine ırkı boğaların anasının, anasının laktasyon süt verimi kayıtlarının bulunmaması ya da yüz seksen günün altında olması durumunda anneannesinin; üç yüz beş günlük birinci laktasyon süt verimi veya birden fazla laktasyon süt verisi varsa ortalamasının en az EK-2’de belirtilen değerlerde olması ve bu değerlerin hayvanın damızlık belgesinde bulunması gerekir.
+(2) EK-2’de belirtilen ırkların haricinde izin başvurusu yapılan boğanın anasında; sütçü ırk ise avrupa kırmızısı ırkların, kombine ırk ise simental ırkının laktasyon süt verimi özellikleri aranır.
+(3) Yerli ve etçi ırk boğalarda verim özellikleri aranmaz.
+(4) Manda boğası anasının, anasının süt verim kayıtlarının bulunmaması ya da yüz seksen günün altında olması durumunda anneannesinin; iki yüz yetmiş günlük laktasyon süt verimi ortalamasının en az 1800 kg olması gerekir.
