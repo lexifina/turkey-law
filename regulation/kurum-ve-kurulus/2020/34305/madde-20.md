@@ -1,0 +1,2 @@
+Parselasyon planı paftalarının hazırlanması
+MADDE 20 – (1) Paftalar, uygulama imar planlarına uygun olarak, 30/4/2018 tarihli ve 2018/11962 sayılı Bakanlar Kurulu Kararıyla yürürlüğe konulan Büyük Ölçekli Harita ve Harita Bilgileri Üretim Yönetmeliğine göre açılır ve 1/1000 ölçeğinde çizilir. İmar yollarının dengelemeleri imar planında gösterilen genişliklere göre yapılır. Kesik çizgiler ile gösterilen kadastro parselleri ile imar ada ve parselleri, ada/parsel numaraları, düzenleme sınırı, imar planındaki kullanım kararları, yol genişlikleri gösterilir.

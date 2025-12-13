@@ -1,0 +1,2 @@
+Hisseli arazi ve arsa satışı
+MADDE 36 – (1) Nazım ve uygulama imar plânı olmayan yerlerde, (Mülga ibare:RG-11/9/2025-33014) her türlü yapılaşma amacıyla arsa ve parselleri hisselere ayıracak resmî geçerliliği olmayan özel parselasyon plânları, satış vaadi sözleşmeleri yapılamaz. Veraset yolu ile intikal eden, İmar Kanunu hükümlerine göre hisselendirilen, Kat Mülkiyeti Kanunu uygulanması, tarım ve hayvancılık, turizm, sanayi ve depolama amacı için yapılan hisselendirmeler ile cebri icra yolu ile satılanlar istisnadır.

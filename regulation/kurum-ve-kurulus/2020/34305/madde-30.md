@@ -1,0 +1,3 @@
+Koordinat birliğinin sağlanması
+MADDE 30 – (1) Düzenleme sahasındaki uygulamaya tabi parsellerin, Büyük Ölçekli Harita ve Harita Bilgileri Üretim Yönetmeliğine göre üretilen veya dönüştürülen koordinatları ilgili kadastro müdürlüğünden temin edilir. Kadastro paftası, uygulama imar planı ve parselasyon plânı arasında koordinat birliği bulunmuyorsa; varsa dönüşüm parametreleri ile yoksa arazide ölçüm yaparak dönüşüm parametrelerini elde etmek yoluyla, kadastro ve imar planı koordinatları parselasyon plânı koordinatlarına dönüştürülür.
+(2) Düzenleme sahasında uygulamaya tabi parsellerde düzeltme işlemi yapılması gerekiyorsa, tapu ve kadastro mevzuatına göre düzeltilmiş verilere göre uygulama yapılır.

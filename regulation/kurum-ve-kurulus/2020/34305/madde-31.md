@@ -1,0 +1,4 @@
+Düzenleme sahasına giren parsellerin yüzölçümü kontrolü
+MADDE 31 – (1) Arazi ve arsa düzenlemesi yapılacak alan içerisinde kalan kadastro parsellerinin yüzölçümleri koordinatlarına göre hesaplanır ve tescilli yüzölçümleriyle karşılaştırılır. Yüzölçüm farkı; yanılma sınırları içerisinde ise tescilli yüzölçümleri esas alınarak, yanılma sınırları dışında ise tescile konu harita ve planların kontrolüne ilişkin mevzuatınca düzeltilmiş yüzölçümler esas alınarak uygulama yapılır.
+(2) Düzenleme sahasına kısmen giren parsellerde, düzenlemeye giren kısmının hesaplanan yüzölçümüne göre uygulama yapılır. Kısmen düzenlemeye giren parseldeki yüzölçüm hatası parselin uygulama dışında kalan kısmında bırakılır.
+(3) (Değişik:RG-11/9/2025-33014) Yüzölçümü kontrolünde yanılma sınırları, 27/9/2022 tarihli ve 31966 sayılı Resmî Gazete’de yayımlanan Tapu Planlarında Yanılma Sınırının Belirlenmesi Hakkında Yönetmelik hükümlerine göre hesaplanır.

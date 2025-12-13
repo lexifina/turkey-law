@@ -1,0 +1,3 @@
+Tapu kayıtlarına belirtme yapılması
+MADDE 12 – (1) (Değişik ibare:RG-21/10/2020-31281) Belediye ve mücavir alan içinde belediye encümeni kararı, dışında ise il idare kurulu kararı veya parselasyon planlarını yapan/yaptıran idarenin yazısı ile uygulamaya alınan taşınmaz malların ada ve parsel numaraları ilgili tapu müdürlüğüne gönderilerek, tapu kayıtlarına “3194 sayılı İmar Kanununun 18 inci maddesine istinaden imar uygulamasına alınmıştır” belirtmesinin konulması istenir.
+(2) Tapu müdürlüğünce, düzenleme alanına tamamen veya kısmen giren bütün parsellerin sicillerinde, bunların imar uygulamasına alındığına dair gerekli belirtme yapıldıktan sonra ilgili idarece bu parsellerin ifraz ve tevhidine izin verilmez.

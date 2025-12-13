@@ -1,0 +1,2 @@
+Düzenleme sahasındaki tescil harici alanlar
+MADDE 34 – (1) Düzenlemeye giren tescil harici arazilerin tescili, parselasyon planı ile birlikte aynı anda yapılabilir. İmar planı onayı sürecinde ilgili kurumlardan uygun görüş alınması halinde, kurumlardan tekrar görüş alınmaksızın, parselasyon planıyla birlikte bu arazilerin tescili de Hazine adına gerçekleştirilir. Parselasyon planı ile birlikte tescil harici alanların Hazine adına tescil edilmesi durumunda, parselasyon planının onaylanarak askı işlemlerine başlandığına dair Milli Emlak Genel Müdürlüğüne bilgi verilir.

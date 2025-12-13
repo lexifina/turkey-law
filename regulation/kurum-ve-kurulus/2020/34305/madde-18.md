@@ -1,0 +1,4 @@
+Korunması gereken yapılar ve alanlar
+MADDE 18 – (1) İmar planı ve mevzuatına göre muhafazasında sakınca olmayan yapılar arazide ölçülerek, uygulama sonucunda, asgari parsel büyüklüğünü karşılamak kaydıyla, mümkünse müstakil olarak bir imar parseli içerisinde bırakılır.
+(2) Üzerinde korunacak tescilli yapı bulunan parsel ya da parsellerde; tescilli yapı ve koruma alanı, bir imar parseli içerisinde kalacak şekilde düzenleme ortaklık payı alınır.
+(3) 21/7/1983 tarihli ve 2863 sayılı Kültür ve Tabiat Varlıklarını Koruma Kanunu kapsamında; korunacak alanlarda yapılacak her türlü arazi ve arsa düzenlemesinde, uygulama yapan ya da onaylayan idare tarafından korunan alanlardan sorumlu kurum, kurul ve komisyonların uygun görüşü alınmadan, uygulama dosyası tescil işlemi için tapu müdürlüğüne gönderilmez.
