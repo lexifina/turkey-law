@@ -1,0 +1,34 @@
+{
+  "source_id": "7.5.43926",
+  "kind": "regulation",
+  "register_kind": "Kurum ve Kuruluş Yönetmelikleri",
+  "title": "BİTKİ KORUMA ÜRÜNLERİNİN TOPTAN VE PERAKENDE SATILMASI İLE DEPOLANMASI HAKKINDA YÖNETMELİK",
+  "number": "43926",
+  "issuer": "Tarım ve Orman Bakanı",
+  "issuer_slug": "tarim-ve-orman-bakani",
+  "path": "regulation/tarim-ve-orman-bakani/2025/43926",
+  "source": "https://www.mevzuat.gov.tr/anasayfa/MevzuatFihristDetayIframe?MevzuatTur=7&MevzuatNo=43926&MevzuatTertip=5",
+  "source_sha256": "5635ccb64786beda40042947539c3c6fc1e5f7a3541e0f845c0badf7d9753485",
+  "source_bytes": 181541,
+  "published": "2025-12-13",
+  "gazette": "33106",
+  "in_force": "2025-12-13",
+  "in_force_basis": "Resmî Gazete publication date in the official listing (13.12.2025); own commencement article: \"Bu Yönetmelik yayımı tarihinden otuz gün sonra yürürlüğe girer\"",
+  "commencement_clauses": [
+    "Bu Yönetmelik yayımı tarihinden otuz gün sonra yürürlüğe girer"
+  ],
+  "history": "current-text",
+  "label": "oldest version available",
+  "checked_on": "2026-11-15",
+  "word_count": 13271,
+  "text_status": "current-consolidated",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  },
+  "source_links": [
+    "7.5.43926-Ek.docx"
+  ],
+  "completeness": "html-text-complete; linked annexes not fetched"
+}

@@ -1,0 +1,3 @@
+Kayıt ve güvenlik
+MADDE 38- (1) Bitki koruma ürünlerinin hareket kayıtları karekod, ruhsat sahipleri tarafından yapılan hareket kayıtları Global Lokasyon Numarası, bayi ve toptancılar tarafından yapılan hareket kayıtları ise Bakanlıkça belirlenmiş numaralar üzerinden yapılır. Kayıtlar, bitki koruma ürünleri takip sisteminde saklanır.
+(2) Karekod, GTIN numarası, seri numarası, son kullanma tarihi ve şarj numarasından oluşur. Küresel Ticari Ürün Numarası ve seri numarası ürünü benzersiz yapar. Bitki koruma ürünleri takip sistemi, aynı GTIN numarası ve seri numarasına sahip ürünün sisteme yeniden kaydedilmesine izin vermez.

@@ -1,0 +1,2 @@
+Kapsam
+MADDE 2- (1) Bu Yönetmelik; Bakanlıkça onaylı bitki koruma ürünlerinin toptan veya perakende olarak satışı, depolanması, dağıtımı, reçetesinin düzenlenmesi, kayıtların tutulması, satış yerlerinin özellikleri, bu yerlerin açılması, işletilmesi, yer değişikliği, devri ve kapanması, resmî kontrolü ile bu ürünleri toptan veya perakende satacak, depolayacak ve reçete düzenleyecek kişiler tarafından uyulması gereken usul ve esasları kapsar.

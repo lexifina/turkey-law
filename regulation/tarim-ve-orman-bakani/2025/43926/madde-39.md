@@ -1,0 +1,4 @@
+Dağıtım
+MADDE 39- (1) Her bitki koruma ürününün satışında, dağıtımında ve depolanmasında bu Yönetmelik hükümlerine uyulmalıdır. Ancak, bitki koruma ürünleri iştigal izni sahibi firmalar tarafından Bakanlıktan ihraç amaçlı imal ve dolum izni alınarak ihraç edilmek üzere üretilen ürünlerde, Bakanlıkça talep edilen her türlü kaydı tutmak koşulu ile karekod aranmaz.
+(2) Bitki koruma ürünü ruhsatına sahip firmalar, birden fazla bitki koruma ürününü sevk ederken bu ürünlerin güvenilirliğini sağlamak üzere taşıma ambalajları kullanır. Taşıma ambalajları palet, koli, kutu olarak ve iç içe konulacak şekilde olabilir.
+(3) Taşıma ambalajlarının üstünde, taşıma ambalajını tanımlayan bilgileri içeren bir tanımlayıcı veya taşıma ambalajının içindeki bitki koruma ürünlerinin karekod bilgilerinin tümünü içeren bir tanımlayıcı bulunmalıdır. Taşıma ambalajı üzerine konulacak tanımlayıcılar Bakanlıkça hazırlanacak kılavuzlarda belirlenen şekilde uygulanır.

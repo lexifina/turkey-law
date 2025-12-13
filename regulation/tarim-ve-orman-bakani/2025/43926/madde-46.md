@@ -1,0 +1,2 @@
+Yetki belgelerinin kaybolması ve/veya tahrip olması durumunda yapılacak işlemler
+MADDE 46- (1) Bayi veya toptancı izin belgesi, bitki koruma ürünleri depo izin belgesi ile bitki koruma ürünleri reçete yazma yetki belgesinin herhangi bir nedenle kaybolması veya okunamayacak ve yanlış anlamalara neden olacak şekilde tahrip olması durumunda, yetki sahibi kişi, söz konusu belgenin yenilenmesi talebiyle, faaliyetin yapıldığı ildeki il müdürlüğüne başvuru yapmalıdır. Bu durumda il müdürlüğünce belgeler yeniden düzenlenir.
