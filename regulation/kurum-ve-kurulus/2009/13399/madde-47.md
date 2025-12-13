@@ -1,0 +1,5 @@
+YEDİNCİ BÖLÜM
+Çeşitli ve Son Hükümler
+Vekalet
+MADDE 47 – (1) (Değişik:RG-15/2/2013-28560) Vekaletin fiilen yapılması esastır. Yönetim pozisyonlarında görev yapanların, izin, geçici görev, disiplin cezası uygulaması veya görevden uzaklaştırma nedenleriyle görevlerinde bulunmadıkları sürelerde veya boş bulunan yönetim pozisyonlarında vekaletin bir ast veya eşit unvanda bir personel tarafından yürütülmesi esastır. Bu durumda, vekalet verilecek personel, genel sekreterin onayı ile belirlenir. Genel Sekreter için 3 aya kadar yönetim kurulu başkanı veya yetkilendireceği başkan vekili/yardımcısının onayı, 3 aydan uzun süreli vekalet hallerinde ise yönetim kurulu kararı ve Bakanlık onayı gerekir. Genel Sekreterliğe vekalet edenlere, vekalet görevinde bulunduğu üçüncü aydan itibaren, vekalet ettiği unvanın ücreti ile diğer mali ve sosyal haklar verilir. Ancak bu durum vekalet eden için müktesep hak oluşturmaz.
+(2) Asıl görevinin bulunduğu il dışındaki bir görev için vekalet verilenlere, vekaleti süresince esas görevine ilişkin ücretine ek olarak, harcırah uygulamaları çerçevesinde ödeme yapılır.

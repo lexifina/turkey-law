@@ -1,0 +1,4 @@
+Özlük dosyalarının önemi ve gizliliği
+MADDE 42 – (Başlığı ile birlikte değişik:RG-11/10/2011-28081)
+(1) Personelin, işe başlama, yükselme, yer değiştirme, nakil veya disiplin ile emekliye ayrılma ve ilişiğin kesilmesi işlemlerinde özlük dosyaları başlıca dayanaktır. Bu dosyalara yalnızca söze dayanılarak hiçbir kayıt ya da belge konulamaz. Dosyalarda kazıntı ve silinti yapılamaz. Yanlışlar, kelime ve cümleler okunacak şekilde çizilip, doğrusu üzerine ya da kenarına yazılarak yetkili tarafından imza edilir. Genel Sekreterlikte yeniden görev alan personelin eski ve yeni özlük dosyaları birleştirilir.
+(2) Özlük dosyalarının gizliliği esastır. Disiplin kurulu, soruşturma komisyonu, disiplin amirleri ve Bakanlık denetim birimleri, haklarında soruşturma yapılanların özlük dosyalarını inceleyebilirler.

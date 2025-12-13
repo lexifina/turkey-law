@@ -1,0 +1,2 @@
+Adres ve aile durumu
+MADDE 46 – (1) Personel; bakmakla yükümlü olduğu aile bireylerini, çocuklarının öğrenim durumlarını, ücretlerinden başka gelirlerinin bulunup bulunmadığını ve sürekli oturma adresleri ile istenilen diğer bilgileri, göreve başladıklarında, bu iş için düzenlenen aile durumu formuyla beyan eder. Adresinde, eğitim ve medeni durumunda değişiklik olan personel, durumu insan kaynakları birimine bildirir. Bu bildirim sırasında değişikliğe ilişkin belgeler de eklenir.

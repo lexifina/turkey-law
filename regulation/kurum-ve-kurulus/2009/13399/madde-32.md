@@ -1,0 +1,14 @@
+Ücretsiz izin
+MADDE 32 – (1) Daimi hizmet sözleşmeli (Ek ibare:RG-9/3/2024-32484) ve özel hizmet sözleşmeli personele, belgelenmesi koşuluyla aşağıdaki hallerde:
+a) Bakmakla yükümlü olduğu veya refakat etmediği takdirde hayatı tehlikeye girecek anne, baba, eş ve çocukları ile kardeşlerinden birinin ağır bir kaza geçirmesi veya önemli bir hastalığa tutulmuş olması halinde, belgelemek kaydıyla, istekleri üzerine 3 aya kadar, ücretsiz izin nedeninin devamı halinde ise bu durumlarını sağlık raporuyla belgelemek kaydıyla bu sürenin bitiminden itibaren ilave 3 aya kadar,
+b) Doğum yapan personele, isteği halinde, doğum sonrası ücretli izin süresinin bitim tarihinden itibaren başlamak üzere (Değişik ibare:RG-27/11/2013-28834) iki yıla kadar,
+c) Personelin hizmeti süresince bir defaya mahsus olmak üzere yurt dışında kendi imkanları ile mesleki öğrenim yapacak personele bu durumlarını belgelemek kaydıyla 2 yıla kadar,
+ç) Yetiştirilmek üzere (burslu gidenler dahil) Devlet tarafından yurt dışına gönderilen öğrenci ve memurlarla, yurt içine veya yurt dışına sürekli görevli atanan memurların eşi olan personele, her defasında 1 yıldan az olmamak ve eşlerinin öğrenim veya görev sürelerini geçmemek üzere, en çok 4 yıla kadar (Ancak, yetiştirilmek üzere yurt dışına gönderilen öğrenci ve memurların öğrenim süresinin 1 yıldan az olması halinde, bunların eşi olan personele verilecek ücretsiz izin süresinde “1 yıldan az olmama” şartı aranmayacak ve öğrenim süresini geçmemek üzere ücretsiz izin verilebilecektir.),
+d) En az 5 hizmet yılını dolduran personele, zorunlu hallerin doğması ve bu durumlarını belgelemeleri kaydıyla 6 aya kadar,
+e) Muvazzaf askerlik hizmetini yapmak üzere silah altına alınan personelin kadrosu saklı tutulur ve silah altında bulunduğu sürece ücretsiz izinli sayılır. Bu personel, terhis tarihinden itibaren 30 gün içinde TİM ve birliklere başvurması halinde, askerlik nedeniyle ayrıldığı tarihteki kıdeme ilişkin hakları dikkate alınarak göreve başlatılır. Terhis tarihinden itibaren 30 gün içinde TİM ve birliklere başvurmayan personelin bu madde ile ilgili hakları ortadan kalkar ve TİM ve birlikler ile ilişiği sona erer. Bu çerçevede muvazzaf askerlik hizmetinde geçirilen süreler ile bu sürelere ilgilinin isteği üzerine 30 gün eklenmesi suretiyle,
+ücretsiz izin verilebilir.
+(2) Ücretsiz izin süresi fiili hizmet süresinden sayılmaz.
+(3) Ücretsiz iznin, alınma nedenlerinin dışında kullanıldığının tespiti halinde personelin ilişiği kesilir.
+(4) (Değişik:RG-30/12/2017-30286 Mükerrer) Personelin bu madde çerçevesinde belirlenmiş bulunan yıllık, sosyal, mazeret, hastalık, doğum ve ücretsiz izin sürelerinin bitiminde görevine başlaması zorunludur. İzin süresinin bitiminde görevine başlamayanlar hakkında bu Yönetmeliğin 12 nci maddesinin birinci fıkrası uygulanır.
+BEŞİNCİ BÖLÜM
+(Değişik başlık:RG-11/10/2011-28081)
