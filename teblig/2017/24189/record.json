@@ -1,0 +1,74 @@
+{
+  "source_id": "9.5.24189",
+  "kind": "communique",
+  "register_kind": "Tebliğler",
+  "title": "VERGİ USUL KANUNU GENEL TEBLİĞİ (SIRA NO: 486)",
+  "number": "24189",
+  "path": "teblig/2017/24189",
+  "source": "https://www.mevzuat.gov.tr/anasayfa/MevzuatFihristDetayIframe?MevzuatTur=9&MevzuatNo=24189&MevzuatTertip=5",
+  "source_sha256": "a6c1a06e32feca4d612c7f0e1cc43827d3b2068433ab51a93769b409317d1bad",
+  "source_bytes": 89210,
+  "published": "2017-12-17",
+  "gazette": "30273",
+  "in_force": "2025-12-13",
+  "in_force_basis": "latest Resmî Gazete date printed in the source amendment notes/table (\"RG-13/12/2025\") for the current consolidated text",
+  "date_evidence": [
+    [
+      "2025-12-13",
+      "RG-13/12/2025",
+      "Resmî Gazete date printed in the source amendment note"
+    ],
+    [
+      "2025-12-13",
+      "13/12/2025",
+      "Resmî Gazete date in the source amendment table"
+    ],
+    [
+      "2025-11-27",
+      "RG-27/11/2025",
+      "Resmî Gazete date printed in the source amendment note"
+    ],
+    [
+      "2025-11-27",
+      "27/11/2025",
+      "Resmî Gazete date in the source amendment table"
+    ],
+    [
+      "2021-10-19",
+      "RG-19/10/2021",
+      "Resmî Gazete date printed in the source amendment note"
+    ],
+    [
+      "2021-10-19",
+      "19/10/2021",
+      "Resmî Gazete date in the source amendment table"
+    ],
+    [
+      "2018-05-29",
+      "RG-29/5/2018",
+      "Resmî Gazete date printed in the source amendment note"
+    ],
+    [
+      "2018-05-29",
+      "29/5/2018",
+      "Resmî Gazete date in the source amendment table"
+    ]
+  ],
+  "commencement_clauses": [
+    "Bu Tebliğ yayımı tarihinde yürürlüğe girer"
+  ],
+  "history": "current-text",
+  "label": "oldest version available",
+  "checked_on": "2026-11-15",
+  "word_count": 5355,
+  "text_status": "current-consolidated",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  },
+  "source_links": [
+    "9.5.24189-EK.zip"
+  ],
+  "completeness": "html-text-complete; linked annexes not fetched"
+}
