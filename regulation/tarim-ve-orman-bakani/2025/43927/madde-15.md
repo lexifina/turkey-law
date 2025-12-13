@@ -1,0 +1,9 @@
+Bitki koruma ürünü uygulamaları ile ilgili tutulacak kayıtlar
+MADDE 15- (1) Bitki koruma ürününü uygulayan, yetkilendirilmiş üreticiler EK-8’de yer alan Üretici Kayıt Defteri, profesyonel uygulayıcılar EK-9’da yer alan Bitki Koruma Ürünü Profesyonel Uygulayıcı Kayıt Formu kayıtlarını Bakanlıkça oluşturulan kayıt sistemine süresi içerisinde girişini yaparlar.
+(2) Gıda işletmelerinde yapılacak bitki koruma ürünü uygulamalarında, profesyonel uygulayıcılar EK-9’da yer alan Bitki Koruma Ürünü Profesyonel Uygulayıcı Kayıt Formu kayıtlarını tutar, bu bilgilerin Bakanlıkça oluşturulan kayıt sistemine süresi içerisinde girişini yaparak sistemden alacakları kaydın bir örneğini işletme sahibine verir.
+(3) Uygulamalar, Bakanlık tarafından yapılan düzenlemelere, zirai mücadele teknik talimatlarına, bitki koruma ürünleri veri tabanında yer alan güncel bilgilere, bitki koruma ürününün uygulama zamanı ve etiket bilgilerine uygun olarak yapılır.
+(4) Uygulama, bitki ve bitkisel ürün ile uygulamanın yapılacağı alan ve zararlı organizma göz önünde bulundurularak uygun zirai mücadele alet ve makinesi ile yapılır.
+(5) Bitki koruma ürünü uygulayıcıları, uygulama kayıtlarını varsa meydana gelen kaza ve zehirlenme bilgilerini, EK-8’de yer alan Üretici Kayıt Defteri ve EK-9’da yer alan Bitki Koruma Ürünü Profesyonel Uygulayıcı Kayıt Formuna uygun şekilde Bakanlık tarafından oluşturulan sisteme üç gün içinde girer ve bu bilgiler beş yıl süreyle sistemde muhafaza edilir.
+(6) Sisteme erişimin mümkün olmadığı durumlarda il veya ilçe müdürlüğünün bilgisi dahilinde uygulama kayıtları fiziki olarak tutulur ve sisteme erişim sağlandığı an itibarıyla uygulayıcı tarafından sisteme aktarılır.
+(7) Üretici fiziki olarak tutulmuş kayıtların ürün satışından önce sisteme girilmesinden sorumludur.
+(8) Kayıt sisteminin uygulanmasına yönelik kurallar Bakanlıkça hazırlanacak talimatlarla belirlenir.

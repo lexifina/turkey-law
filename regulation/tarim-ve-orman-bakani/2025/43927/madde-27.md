@@ -1,0 +1,2 @@
+Pilot uygulama
+MADDE 27- (1) Bu Yönetmelik hükümleri kapsamında, bitki ve bitkisel ürünler, bitkisel üretim yerleri, bitki ve bitkisel ürünlerin depolanarak muhafaza edildiği alanlar ile gıda işletmelerinde, zararlı organizmalara karşı kullanılacak bitki koruma ürünlerinin etiket bilgilerine göre uygulanması, uygulayıcılarının yetkilendirilmesi ve uygulamalarının kayıt altına alınması ile denetim esaslarının yürütülmesinde Bakanlık tarafından belirlenen illerde pilot uygulama yapılır.

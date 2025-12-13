@@ -1,0 +1,34 @@
+{
+  "source_id": "7.5.43927",
+  "kind": "regulation",
+  "register_kind": "Kurum ve Kuruluş Yönetmelikleri",
+  "title": "BİTKİ KORUMA ÜRÜNLERİNİN UYGULANMASI VE DENETİMİNE İLİŞKİN YÖNETMELİK",
+  "number": "43927",
+  "issuer": "Tarım ve Orman Bakanı",
+  "issuer_slug": "tarim-ve-orman-bakani",
+  "path": "regulation/tarim-ve-orman-bakani/2025/43927",
+  "source": "https://www.mevzuat.gov.tr/anasayfa/MevzuatFihristDetayIframe?MevzuatTur=7&MevzuatNo=43927&MevzuatTertip=5",
+  "source_sha256": "d04289ae721bf60b4bb1191761bb3dcc373ec8d01d0bf0bea69343eb342a573f",
+  "source_bytes": 83527,
+  "published": "2025-12-13",
+  "gazette": "33106",
+  "in_force": "2025-12-13",
+  "in_force_basis": "Resmî Gazete publication date in the official listing (13.12.2025); own commencement article: \"Bu Yönetmelik yayımı tarihinden otuz gün sonra yürürlüğe girer\"",
+  "commencement_clauses": [
+    "Bu Yönetmelik yayımı tarihinden otuz gün sonra yürürlüğe girer"
+  ],
+  "history": "current-text",
+  "label": "oldest version available",
+  "checked_on": "2026-11-15",
+  "word_count": 5070,
+  "text_status": "current-consolidated",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  },
+  "source_links": [
+    "7.5.43927-Ek.docx"
+  ],
+  "completeness": "html-text-complete; linked annexes not fetched"
+}

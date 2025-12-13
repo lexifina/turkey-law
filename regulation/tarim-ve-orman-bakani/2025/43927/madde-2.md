@@ -1,0 +1,3 @@
+Kapsam
+MADDE 2- (1) Bu Yönetmelik; bitki ve bitkisel ürünler, bitkisel üretim yerleri, bitki ve bitkisel ürünlerin depolanarak muhafaza edildiği alanlar ile gıda işletmelerinde, bitki koruma ürünlerini uygulayacak kişilerin yetkilendirilmesi ve sorumluluklarını, bitki koruma ürünü uygulanması ve kayıtların tutulmasını, üreticilerin, ürün alıcılarının, diğer ilgili kişi, kurum ve kuruluşların görev ve sorumluluklarını, resmî kontrolleri, hasat öncesi pestisit denetimi ile numune alma ve bu numunelerin analizine ilişkin usul ve esasları kapsar.
+(2) Bu Yönetmelik Devlet ormanlarında yapılacak bitki koruma uygulamalarını kapsamaz.

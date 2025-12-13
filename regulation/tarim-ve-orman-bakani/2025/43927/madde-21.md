@@ -1,0 +1,3 @@
+Bitki koruma ürünü uygulaması ve tutulacak kayıtlar ile ilgili resmî kontroller
+MADDE 21- (1) Bu Yönetmelik gereğince bitki koruma ürünü uygulamaları, 14 üncü maddenin birinci fıkrasında belirtilen bitki ve bitkisel ürünlere ait uygulama kayıtları ve uygulama yapan kişilere yönelik resmî kontroller il/ilçe müdürlüklerince yapılır.
+(2) İl müdürlüklerince, üretici kayıt defteri kontrolleri sonucunda her yıl Ocak ve Temmuz aylarında önceki altı aylık süreleri kapsayan EK-13’te yer alan Bitki Koruma Ürünlerinin Uygulanması ve Kayıtların Tutulmasına Dair Denetim Raporu düzenlenerek, Bakanlık tarafından oluşturulan sisteme kaydedilip Bakanlığa bildirilir.
