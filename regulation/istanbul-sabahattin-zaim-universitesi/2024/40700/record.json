@@ -1,0 +1,49 @@
+{
+  "checked_on": "2026-11-14",
+  "commencement_clauses": [
+    "MADDE 14- (1) Bu Yönetmelik yayımı tarihinde yürürlüğe girer."
+  ],
+  "date_evidence": [
+    [
+      "2024-02-25",
+      "25.02.2024",
+      "original gazette publication date in official listing"
+    ],
+    [
+      "2025-12-15",
+      "RG-15/12/2025-33108",
+      "latest source-printed gazette amendment date for current consolidated text"
+    ],
+    [
+      "2025-12-15",
+      "15/12/2025",
+      "latest gazette date in source amendment table"
+    ]
+  ],
+  "date_quote": "RG-15/12/2025-33108",
+  "first_law": null,
+  "gazette": "32471",
+  "history": "current-text",
+  "images": {
+    "deferred": 0,
+    "omitted": 0,
+    "referenced": 0,
+    "source": 0
+  },
+  "in_force": "2025-12-15",
+  "in_force_basis": "latest source-printed gazette amendment date for current consolidated text",
+  "issuer": "İstanbul Sabahattin Zaim Üniversitesi",
+  "issuer_slug": "istanbul-sabahattin-zaim-universitesi",
+  "kind": "regulation",
+  "label": "oldest version available",
+  "path": "regulation/istanbul-sabahattin-zaim-universitesi/2024/40700",
+  "published": "2024-02-25",
+  "source": "https://www.mevzuat.gov.tr/anasayfa/MevzuatFihristDetayIframe?MevzuatTur=8&MevzuatNo=40700&MevzuatTertip=5",
+  "source_bytes": 27425,
+  "source_id": "8.5.40700",
+  "source_sha256": "db6ff5ac0183f9bab0d82f33af1ff0b66c864072a8383f39357fece46c31f7eb",
+  "text_status": "current-consolidated",
+  "title": "İSTANBUL SABAHATTİN ZAİM ÜNİVERSİTESİ TÜRKÇE EĞİTİMİ\r\nVE ÖĞRETİMİ UYGULAMA VE ARAŞTIRMA MERKEZİ YÖNETMELİĞİ",
+  "university_id": 360,
+  "word_count": 967
+}
