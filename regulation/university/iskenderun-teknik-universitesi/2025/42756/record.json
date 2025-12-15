@@ -1,0 +1,31 @@
+{
+  "act_path": "regulation/university/iskenderun-teknik-universitesi/2025/42756",
+  "availability": "text",
+  "checked_on": "2026-11-14",
+  "commencement_clauses": [
+    "MADDE 14- (1) Bu Yönetmelik yayımı tarihinde yürürlüğe girer."
+  ],
+  "date_quote": "MADDE 14- (1) Bu Yönetmelik yayımı tarihinde yürürlüğe girer.",
+  "first_law": null,
+  "gazette": "33108",
+  "history": "as-enacted",
+  "images": {
+    "deferred": 0,
+    "omitted": 0,
+    "referenced": 0,
+    "source": 0
+  },
+  "in_force": "2025-12-15",
+  "in_force_basis": "source commencement clause: effective on Gazette publication",
+  "issuer": "İskenderun Teknik Üniversitesi",
+  "issuer_slug": "iskenderun-teknik-universitesi",
+  "kind": "regulation",
+  "published": "2025-12-15",
+  "source": "https://www.mevzuat.gov.tr/anasayfa/MevzuatFihristDetayIframe?MevzuatTur=8&MevzuatNo=42756&MevzuatTertip=5",
+  "source_id": "8.5.42756",
+  "source_sha256": "bf977ad92ffeb5f455f7b8365d1fdb9a571e629dbebcd43264edcfa3b2564b8f",
+  "title": "İSKENDERUN TEKNİK ÜNİVERSİTESİ TEKNOLOJİ TRANSFER OFİSİ UYGULAMA VE ARAŞTIRMA MERKEZİ YÖNETMELİĞİ",
+  "university_id": 465,
+  "version_label": "oldest version available",
+  "word_count": 1294
+}
