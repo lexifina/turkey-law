@@ -1,0 +1,54 @@
+{
+  "checked_on": "2026-11-14",
+  "commencement_clauses": [
+    "MADDE 46 – (1) Bu Yönetmelik yayımı tarihinde yürürlüğe girer."
+  ],
+  "date_evidence": [
+    [
+      "2020-06-28",
+      "28.06.2020",
+      "original gazette publication date in official listing"
+    ],
+    [
+      "2025-12-15",
+      "RG-15/12/2025-33108",
+      "latest source-printed gazette amendment date for current consolidated text"
+    ],
+    [
+      "2025-12-15",
+      "RG-15/12/2025-33108",
+      "latest source-printed gazette amendment date for current consolidated text"
+    ],
+    [
+      "2025-12-15",
+      "15/12/2025",
+      "latest gazette date in source amendment table"
+    ]
+  ],
+  "date_quote": "RG-15/12/2025-33108",
+  "first_law": null,
+  "gazette": "31169",
+  "history": "current-text",
+  "images": {
+    "deferred": 0,
+    "omitted": 0,
+    "referenced": 0,
+    "source": 0
+  },
+  "in_force": "2025-12-15",
+  "in_force_basis": "latest source-printed gazette amendment date for current consolidated text",
+  "issuer": "İstanbul Gedik Üniversitesi",
+  "issuer_slug": "istanbul-gedik-universitesi",
+  "kind": "regulation",
+  "label": "oldest version available",
+  "path": "regulation/istanbul-gedik-universitesi/2020/34649",
+  "published": "2020-06-28",
+  "source": "https://www.mevzuat.gov.tr/anasayfa/MevzuatFihristDetayIframe?MevzuatTur=8&MevzuatNo=34649&MevzuatTertip=5",
+  "source_bytes": 93241,
+  "source_id": "8.5.34649",
+  "source_sha256": "291e073d223d4ae64825162b2525192a72636a2355538324422aa32d9aaca0e6",
+  "text_status": "current-consolidated",
+  "title": "İSTANBUL GEDİK ÜNİVERSİTESİ İHALE YÖNETMELİĞİ",
+  "university_id": 369,
+  "word_count": 6089
+}
