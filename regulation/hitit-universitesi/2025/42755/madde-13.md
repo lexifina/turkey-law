@@ -1,0 +1,3 @@
+Üstten ders alma
+MADDE 13- (1) Üst yarıyıllardan ders alma, sadece ders geçme esası uygulanan fakülte ve yüksekokullar için geçerlidir.
+(2) GANO’su 3,00 ve üstünde olan öğrenci, danışmanının onayıyla üçüncü yarıyıldan itibaren üst yarıyıldan ders alabilir. Ancak üst yarıyıldan ders alınabilmesi için öğrencinin önceki yarıyıllardan almadığı veya başarısız olduğu dersinin bulunmaması ve alacağı dersin/derslerin haftalık ders programındaki diğer derslerle çakışmaması gerekir. Üst yarıyıldan ders alan öğrencinin alabileceği azami kredi miktarının belirlenmesinde 18 inci maddesinin altıncı fıkrası uygulanır.

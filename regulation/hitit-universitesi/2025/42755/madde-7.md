@@ -1,0 +1,6 @@
+Ders kaydı yenileme
+MADDE 7- (1) Öğrenci, her yarıyıl/yıl akademik takvimde belirtilen süre içinde ders kaydını yenilemek zorundadır. Öğrencinin ders kaydını yenileyebilmesi için ilgili mevzuat hükümlerine göre normal öğretimde öğrenci katkı payını, ikinci öğretim ve uzaktan öğretimde ise öğrenim ücretini ödemiş olması gerekir.
+(2) Ders kaydı yenileme işlemlerinden öğrenci sorumludur.
+(3) Akademik takvimde belirtilen süre içinde mazereti nedeniyle ders kaydını yapmayan öğrenci; bu mazeretinin birden çok programın olduğu birimlerde bölüm kurulu, tek programlı birimlerde ise birim yönetim kurulu tarafından kabul edilmesi durumunda, mazeretli kayıt haftasında ders kaydını yapar.
+(4) Öğrenci ders kaydını yapmadığı dönemdeki ölçme ve değerlendirme kapsamında gerçekleştirilen sınav veya uygulamalara katılamaz. Bu durumdaki kişi, öğrencilik haklarından yararlanamaz. Ancak bu dönem, öğrencinin azami öğrenim süresine dâhil edilir.
+(5) Normal öğrenim süresinde eğitimini tamamlayamayan öğrenci, alamadığı veya tekrara kalmış olduğu derslerin programdan kaldırılmış olması durumunda ilgili birim yönetim kurulu tarafından uygun görülen eşdeğer derslere kaydını yapar. Bu durumdaki öğrencinin mezun olabilmesi için eşdeğer sayılan derslerden başarılı olması gerekir.

@@ -1,0 +1,3 @@
+Dersler, ders kredileri ve saatleri
+MADDE 11- (1) Eğitim-öğretim planındaki derslerin sayı, kredi ve saatleri birim kurullarının teklifiyle Senato tarafından belirlenir. Eğitim-öğretim planındaki dersler, zorunlu ve seçmeli derslerden oluşur. Zorunlu dersler, öğrencinin tercihine bırakılmaksızın almakla yükümlü olduğu derslerdir. Öğrenci zorunlu dersleri kayıtlı olduğu programdan alır. Ancak ihtiyaç halinde öğrencinin kayıtlı olduğu program dışındaki bir programdan da ders alabilmesine ilgili birim yönetim kurulu karar verir. Seçmeli dersler, öğrencinin kendi tercihiyle aldığı derslerdir.
+(2) Her bir dersin kredisi ve saati müfredat programında belirtilir.
