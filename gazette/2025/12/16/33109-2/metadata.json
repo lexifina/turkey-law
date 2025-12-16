@@ -1,0 +1,20 @@
+{
+  "record_type": "gazette-item",
+  "gazette": "Resmî Gazete",
+  "jurisdiction": "TR",
+  "date": "2025-12-16",
+  "issue": "33109",
+  "edition": "regular",
+  "item": 2,
+  "section": "YÜRÜTME VE İDARE BÖLÜMÜ",
+  "heading": "YÖNETMELİKLER",
+  "title": "Radyasyon Onkolojisi Hizmetleri Yönetmeliği",
+  "official_link": "https://www.resmigazete.gov.tr/eskiler/2025/12/20251216-2.htm",
+  "link_format": "htm",
+  "index_url": "https://www.resmigazete.gov.tr/eskiler/2025/12/20251216.htm",
+  "index_sha256": "74716cc885058d776a12e50691f7e096099a968dd7b28f88d8520d9ca969353b",
+  "index_header": "16 Aralık 2025 ... 33109 Sayılı Resmî Gazete",
+  "issue_pdf": "https://www.resmigazete.gov.tr/eskiler/2025/12/20251216.pdf",
+  "in_force_basis": "Resmî Gazete publication date; not a commencement reading.",
+  "text_status": "metadata-only; text not yet fetched (follow-up pass adds it as its own commit)"
+}
