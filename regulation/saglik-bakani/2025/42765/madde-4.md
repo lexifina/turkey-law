@@ -1,0 +1,23 @@
+Tanımlar
+MADDE 4- (1) Bu Yönetmelikte geçen;
+a) Bakanlık: Sağlık Bakanlığını,
+b) Faaliyet izin belgesi: Sağlık tesisleri bünyesinde açılan radyasyon onkolojisi merkezlerine Bakanlık tarafından düzenlenen belgeyi,
+c) Gözetimli alan: Kontrollü (Denetimli) alan olarak değerlendirilmeyen ancak radyasyonla çalışanların radyasyona maruz kalma potansiyelinin bulunması nedeniyle, kişisel doz ölçümünü gerektirmeyen ancak radyasyon seviyelerinin düzenli olarak izlenmesini gerektiren ve radyasyon görevlileri için yıllık doz sınırlarının 1/20’sinin aşılma olasılığı olup, 3/10’unun aşılması beklenmeyen alanları,
+ç) Kontrollü (Denetimli) alan: Radyasyondan korunmayı sağlamak veya radyoaktif kirliliğin yayılmasını önlemek amacı ile özel kuralların uygulandığı, radyasyonla çalışanların kişisel doz izlemelerinin yapıldığı, giriş çıkışların kontrole tabi olduğu ve görevi gereği radyasyon ile çalışan kişilerin ardışık beş yılın ortalama yıllık doz sınırlarının 3/10’undan fazla radyasyon dozuna maruz kalabilecekleri alanları,
+d) Lisans: İyonlaştırıcı radyasyona ilişkin bir faaliyetin yürütülmesi için tüzel kişiye Nükleer Düzenleme Kurumu tarafından verilen yetkiyi,
+e) Merkez sorumlusu: Merkezlerde 12 nci maddenin üçüncü fıkrasında belirtilen görevleri yerine getirmekle sorumlu olan radyasyon onkolojisi uzmanını,
+f) Mesul müdür: Bakanlığa ve üniversitelere ait hastanelerde, hastane başhekimini veya sağlık uygulama ve araştırma merkezi müdürünü; tıp merkezleri ve özel hastanelerde mesul müdürü, mesleğini serbest olarak icra etme yetkisine sahip radyasyon onkolojisi uzmanı tarafından açılan merkezlerde radyasyon onkolojisi uzmanını veya bir hekimi,
+g) Müdürlük: İl sağlık müdürlüklerini,
+ğ) NDK: Nükleer Düzenleme Kurumunu,
+h) Radyasyon alanı: Planlanmış ışınlanmalar nedeniyle halk için belirlenen yıllık doz sınırlarının üzerinde ışınlanma olasılığı olan alanları,
+ı) Radyasyondan korunma sorumlusu: Radyasyon uygulamasının türüne göre NDK tarafından belirlenmiş nitelikleri taşıyan, yetkilendirilen kişi veya yetkilendirilmek üzere başvuran kişi tarafından yükümlülüklerinin yerine getirilmesini teminen görevlendirilen ve NDK tarafından yetkilendirilen kişiye verilen yetki kapsamında uygun görülen kişiyi,
+i) Radyasyonla çalışan: İyonlaştırıcı radyasyon kaynaklarıyla yürütülen faaliyetlerde görevi gereği halk için belirlenen doz sınırlarının üzerinde ışınlanma olasılığı olan kişiyi,
+j) Radyasyon kaynağı: Radyasyon üreten veya yayan cihazlar ile radyoaktif kaynakları,
+k) Radyasyon onkolojisi hizmetleri: İyonlaştırıcı radyasyon kullanarak hastalıkların tedavisini amaçlayan, uygulanacak tedavi yöntemlerini, radyasyonun etkilerini ve tümörlerin davranışlarını inceleyen, görüntüleme işlemleri, radyoterapi, kemoradyoterapi, hormonal tedavi, eş zamanlı hedefe yönelik ilaçlar veya immunoterapi, destek tedaviler, hipertermi, klinik araştırma, kan ve kan ürünleri ışınlamaları kapsamındaki uygulama hizmetlerini,
+l) Radyasyon onkolojisi merkezi (Merkez): Sağlık tesisleri bünyesinde bir radyasyon onkolojisi uzmanının sorumluluğunda veya mesleğini serbest olarak icra etme yetkisine sahip en az %51 hissesi radyasyon onkolojisi uzmanına ait olan özel hukuk tüzel kişileri tarafından 5 inci maddenin birinci fıkrasında yer alan tedavi cihazlarından en az bir tanesini bünyesinde bulundurarak ruhsatlandırılan veya faaliyet izni verilen, radyasyon onkolojisi hizmetleri sunulan merkezi,
+m) Radyoaktif kaynak: İçeriğindeki radyoaktif maddeden faydalanılarak radyasyon uygulamalarında kullanılmak üzere üretilen açık veya kapalı kaynakları,
+n) Radyoaktif madde: Nükleer madde, radyoaktif kaynak ile radyoaktif atıklar da dâhil olmak üzere, çekirdekleri kendiliğinden bozunmaya uğrayarak radyasyon yayan izotop veya izotopları içeren maddeleri,
+o) Ruhsat: Mesleğini serbest olarak icra etmeye yetkili radyasyon onkolojisi uzmanı tarafından açılan radyasyon onkolojisi merkezine Bakanlık tarafından düzenlenen belgeyi,
+ö) Sağlık tesisi: Bu Yönetmelik kapsamında radyasyon onkolojisi hizmeti sunulan Bakanlığa, üniversitelere ve özel hukuk tüzel kişilerine ait sağlık kurum ve kuruluşunu,
+p) Simülasyon: Fiziksel ve geometrik özelliklere sahip tanısal bir X-ışını cihazı olan simülatör aygıtı ile hastanın tedavi öncesi immobilizasyonu ve tedavi amaçlı görüntülemenin yapılması ile tümör lokalizasyonunun yapıldığı işlemi,
+ifade eder.

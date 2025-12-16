@@ -1,0 +1,8 @@
+Başvuru, ruhsat veya faaliyet izin belgesi
+MADDE 7- (1) Merkezler, Bakanlık tarafından düzenlenen faaliyet izin belgesi/ruhsat ile açılır.
+(2) Mesul müdür tarafından, faaliyet izin belgesi/ruhsat düzenlenmesi talebiyle Ek-2’de yer alan başvuru formu ve Ek-3’te yer alan belgeler ile müdürlüğe başvurulur.
+(3) Dosyada eksiklik veya uygunsuzluk olmaması hâlinde, müdürlükçe oluşturulacak ekip tarafından Ek-7’ye göre faaliyet izin belgesi/ruhsata esas yerinde inceleme ve değerlendirme yapılır. İnceleme ve değerlendirmede eksiklik bulunmaması hâlinde, inceleme ve değerlendirme raporu ve başvuru dosyası Bakanlığa gönderilir.
+(4) Bakanlık tarafından incelenen faaliyet izin belgesi/ruhsat başvuru dosyasının uygun bulunması hâlinde, merkez adına Ek-4a’da yer alan radyasyon onkolojisi merkezi faaliyet izin belgesi/ruhsatı ile Ek-4b’de yer alan merkez sorumlusu belgesi düzenlenir ve müdürlüğe gönderilir. Mesleğini serbest olarak icra eden radyasyon onkolojisi uzmanı tarafından açılan merkezler için Ek-5’te yer alan mesul müdür belgesi müdürlükçe düzenlenir.
+(5) Düzenlenen belgelerin bir örneği ve başvuru dosyası müdürlük tarafından muhafaza edilir. Faaliyet izin belgesi/ruhsat, merkez sorumlusu belgesi ve mesul müdür belgesi aslı mesul müdüre imza karşılığında teslim edilir.
+(6) Ruhsatın/faaliyet izin belgesinin tanzim edilmesinden itibaren iki yıl içinde fiilen faaliyete geçmeyen merkezin ruhsatı/faaliyet izin belgesi iptal edilir.
+(7) Doğal afet, genel salgın hastalık, kısmi veya genel seferberlik ilanı durumlarında merkezin faaliyeti en fazla beş yıl süreyle Bakanlığın kararı üzerine Valilikçe askıya alınabilir.
