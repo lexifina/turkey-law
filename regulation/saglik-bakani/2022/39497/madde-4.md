@@ -1,0 +1,27 @@
+Tanımlar ve kısaltmalar
+MADDE 4- (Değişik:RG-25/4/2023-32171)
+(1) Bu Yönetmelikte geçen;
+a) Bakanlık: Sağlık Bakanlığını,
+b) Birim: Radyoloji merkezleri bünyesinde, tıbbi amaçlı görüntü elde etmek ve girişimsel işlemler yapmak amacıyla 5 inci maddede sayılan cihazlardan her bir cihaz veya cihaz grubu için oluşturulan ve ruhsatta veya faaliyet izin belgesinde belirtilen radyoloji birimlerini,
+c) Faaliyet izin belgesi: Sağlık kurum ve kuruluşları bünyesinde açılan radyoloji merkezlerine Bakanlıkça düzenlenen belgeyi,
+ç) Girişimsel radyolojik tetkik/tedavi: Görüntüleme amaçlı elektriksel, sonik veya iyonlaştırıcı/iyonlaştırıcı olmayan radyasyon cihazları kullanılarak gerçekleştirilen tanı ve tedavi amaçlı tıbbi işlemleri,
+d) Gözetimli radyoloji birimi: Bünyesinde radyoloji uzmanı bulunmayan kamu sağlık kurum ve kuruluşlarında, kamuya ait bir radyoloji merkezine bağlı olarak radyoloji hizmeti veren, NDK tarafından uygun görülen radyasyondan korunma sorumlusunun gözetiminde faaliyet gösteren radyoloji birimini,
+e) İyonlaştırıcı radyasyon: Maddesel ortamdan geçerken onunla etkileşerek iyon çiftleri oluşturabilen X ışını, gama ışını gibi elektromanyetik ışınlarla, kinetik enerjileri olan yüklü parçacıklar, ağır iyonlar ve serbest nötronlar gibi tanecik karakterli ışınımları,
+f) İyonlaştırıcı radyasyon kaynağı: İyonlaştırıcı radyasyon üreten veya yayan cihazlar ile radyoaktif kaynakları,
+g) İzin belgesi: Ünitelere ve gözetimli radyoloji birimleri için Müdürlükçe düzenlenen belgeyi,
+ğ) Kontrollü (denetimli) alan: Radyasyondan korunmayı sağlamak veya radyoaktif kirliliğin yayılmasını önlemek amacı ile özel kuralların uygulandığı, radyasyonla çalışanların kişisel doz izlemelerinin yapıldığı, giriş çıkışların kontrole tabi olduğu ve görevi gereği radyasyonla çalışanlar için ardışık beş yılın ortalaması olan yıllık doz sınırlarının 3/10'undan fazla radyasyon dozuna maruz kalabilecekleri alanları,
+h) Lisans: Radyoloji merkezleri, üniteler ve gözetimli radyoloji birimleri bünyesinde iyonlaştırıcı radyasyon kaynakları ile faaliyet yürütmek üzere Nükleer Düzenleme Kurumu tarafından verilen yetkiyi,
+ı) Merkez sorumlusu: Bakanlıkça ruhsatlandırılan veya faaliyet izin belgesi verilen radyoloji merkezlerinde 12 nci maddede belirtilen görevleri yerine getirmekle sorumlu olan radyoloji uzmanını,
+i) Mesul müdür: Bakanlığa ve üniversitelere ait hastanelerde, hastane baştabibini veya sağlık uygulama ve araştırma merkezi baştabibini veya merkezin müdürünü; tıp merkezleri ve özel hastanelerde mesul müdürü; mesleğini serbest olarak icra etme yetkisine sahip radyoloji uzmanı tarafından açılan merkezlerde radyoloji uzmanını veya bir hekimi,
+j) Müdürlük: İl Sağlık Müdürlüklerini,
+k) NDK: Nükleer Düzenleme Kurumunu,
+l) Radyasyon alanı: Planlanmış ışınlanmalar nedeniyle NDK tarafından halk için belirlenen yıllık doz sınırlarının üzerinde ışınlanma olasılığı olan alanları,
+m) Radyasyonla çalışan: İyonlaştırıcı radyasyon kaynaklarıyla yürütülen faaliyetlerde görevi gereği halk için belirlenen doz sınırlarının üzerinde ışınlanma olasılığı olan kişiyi,
+n) Radyasyondan korunma sorumlusu: Sağlık kurum/kuruluşlarında radyasyon uygulamasının türüne göre NDK tarafından belirlenmiş nitelikleri taşıyan, yetkilendirilen kişi veya yetkilendirilmek üzere başvuran kişi tarafından yükümlülüklerinin yerine getirilmesini teminen görevlendirilen ve NDK tarafından yetkilendirilen kişiye verilen yetki kapsamında uygun görülen kişiyi,
+o) Radyoloji hizmetleri: İnsan vücudunun belirli bir kesiminin ya da tümünün tıbbi amaçlı görüntülerinin elektriksel, sonik veya iyonlaştırıcı radyasyon gibi farklı yöntemlerle elde edilmesiyle normal fizyolojik durumlarının veya mevcut hastalıkların ortaya çıkarıldığı belirli durumlarda yapılan girişimsel tıbbi işlemlerle hastalıkların tanı ve tedavisinin yapıldığı hizmetleri,
+ö) Radyoloji merkezi: Sağlık kurum ve kuruluşları bünyesinde bir radyoloji uzmanının sorumluluğunda veya mesleğini serbest olarak icra etme yetkisine sahip radyoloji uzmanı gerçek kişiler veya en az %51 hissesi radyoloji uzmanına ait olan özel hukuk tüzel kişileri tarafından 5 inci maddede sayılan cihazlardan en az bir tanesini bünyesinde bulundurarak ruhsatlandırılan veya faaliyet izni verilen, ruhsat veya faaliyet izin belgesinde belirtilen radyoloji birimi/birimleriyle tetkik, teşhis ve/veya tedavi amaçlı radyoloji hizmeti sunulan merkezi,
+p) Ruhsat: Mesleğini serbest olarak icra etmeye yetkili radyoloji uzmanı tarafından açılan radyoloji merkezine Bakanlıkça düzenlenen belgeyi,
+r) Sağlık izni: 3153 sayılı Kanunun ek 1 inci maddesi ile 657 sayılı Kanunun 103 üncü maddesi kapsamında radyasyonla çalışan personele verilecek izni,
+s) Ünite: Radyoloji uzmanı dışındaki uzman hekimin kendi uzmanlık alanı yetkisindeki iyonlaştırıcı radyasyon kaynağı kullanılarak tetkik, teşhis ve/veya tedavi işlemlerinin yapıldığı üniteyi,
+ş) Ünite sorumlusu: Radyoloji uzmanı dışındaki uzman hekimin kendi uzmanlık alanı yetkisindeki iyonlaştırıcı radyasyon kaynağı kullanılarak tetkik, teşhis ve/veya tedavi işlemlerinin yapıldığı üniteler adına düzenlenen ünite izin belgesinde üniteden sorumlu olarak bildirilen uzman hekimi,
+ifade eder.

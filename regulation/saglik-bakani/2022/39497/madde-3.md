@@ -1,0 +1,2 @@
+Dayanak
+MADDE 3- (1) Bu Yönetmelik; 19/4/1937 tarihli ve 3153 sayılı Radiyoloji, Radiyom ve Elektrikle Tedavi ve Diğer Fizyoterapi Müesseseleri Hakkında Kanunun 10 uncu, 11 inci, 12 nci, 13 üncü ve ek 1 inci maddelerine, 7/5/1987 tarihli ve 3359 sayılı Sağlık Hizmetleri Temel Kanununun 3 üncü, 9 uncu ve ek 11 inci maddelerine, 1 sayılı Cumhurbaşkanlığı Teşkilatı Hakkında Cumhurbaşkanlığı Kararnamesinin 355 inci, 506 ncı ve 508 inci maddelerine dayanılarak hazırlanmıştır.

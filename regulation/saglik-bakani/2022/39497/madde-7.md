@@ -1,0 +1,6 @@
+Radyoloji merkezlerinin planlanması ve ön izin
+MADDE 7- (1) (Değişik:RG-22/5/2024-32553) Radyoloji hizmetlerinin, kaliteli ve verimli şekilde sunulması, sağlık insan gücü ve nitelikleri ile teknoloji yoğunluklu radyoloji merkezi cihazlarının ülke düzeyinde dengeli dağılımının sağlanması, kaynak israfı ve atıl kapasiteye yol açılmaması amacıyla bu Yönetmelik kapsamında faaliyetine ihtiyaç duyulan radyoloji merkezleri Bakanlıkça planlanır ve faaliyetlerini yürütür.
+(2) (Değişik:RG-25/4/2023-32171) Bakanlığa ait sağlık kuruluşları hariç olmak üzere merkez açılmadan önce Bakanlıktan ön izin alınması şarttır. Ön izin başvurusu, özel hastanelerde ve tıp merkezlerinde mesul müdür ve özel hukuk tüzel kişilerinde, tüzel kişiliği temsile yetkili olanlar tarafından yapılır.
+(3) Ön izin başvurusu, Bakanlıkça planlama kapsamında sonuçlandırılarak uygun görülenlere EK-1’de yer alan ön izin belgesi verilir.
+(4) Ön izin belgesi, alındığı tarihten itibaren bir yıl içerisinde ruhsat veya faaliyet izin belgesi alınmaması hâlinde iptal edilir. Ön izin belgesi, ruhsat veya faaliyet izin belgesi yerine geçmez ve devredilemez.
+(5) (Değişik:RG-25/4/2023-32171) Bakanlıktan ön izin belgesi alınmadan NDK’ye yetkilendirme başvurusu yapılamaz.
