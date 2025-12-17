@@ -1,0 +1,2 @@
+Amaç ve kapsam
+MADDE 1- (1) Bu Tebliğin amacı, 25/12/2024 tarihli ve 32763 sayılı Resmî Gazete’de yayımlanan İthalatta Haksız Rekabetin Önlenmesine İlişkin Tebliğ (Tebliğ No: 2024/40) ile Çin Halk Cumhuriyeti menşeli 5501.30.00.00.00 gümrük tarife istatistik pozisyonu altında sınıflandırılan “akrilik veya modakrilik olanlar” eşya tanımlı “akrilik elyaf” ürününe yönelik başlatılan ve Ticaret Bakanlığı İthalat Genel Müdürlüğü tarafından yürütülen damping soruşturmasının tamamlanması neticesinde alınan kararın yürürlüğe konulmasıdır.
