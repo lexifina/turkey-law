@@ -1,0 +1,10 @@
+Hadler ve uygulanma zamanı
+MADDE 3- (1) Yeminli mali müşavir ile yıllık gelir veya kurumlar vergisi beyannameleri ve eklerinin tasdikine ilişkin (tam tasdik) süresinde düzenlenmiş tasdik sözleşmesi bulunmayan mükelleflerin, Katma Değer Vergisi Genel Uygulama Tebliği uyarınca yeminli mali müşavir tasdik raporuna istinaden alabilecekleri katma değer vergisi iadelerine ilişkin azami hadler;
+a) İndirimli orana tabi teslim ve hizmetlerle ilgili katma değer vergisi iadesi işlemlerinde 2.600.000-TL,
+b) Türkiye'de ikamet etmeyenlere özel fatura ile yapılan satışlar ve yolcu beraberi eşya kapsamında yapılan satışlarla ilgili katma değer vergisi iadesi işlemlerinde 350.000-TL (Süresinde düzenlenmiş tam tasdik sözleşmesi bulunması halinde de söz konusu had geçerli olacaktır.),
+c) Katma Değer Vergisi Genel Uygulama Tebliği uyarınca yeminli mali müşavir tasdik raporuna istinaden alınabilecek diğer katma değer vergisi iadesi işlemlerinde 1.300.000-TL,
+olarak belirlenmiştir.
+(2) 13/6/2006 tarihli ve 5520 sayılı Kurumlar Vergisi Kanununun 5 inci maddesinin birinci fıkrasının (e) bendi uyarınca taşınmazlar ve iştirak hisselerinin satışından doğan kazançlara ait istisna ile ilgili işlemlere ilişkin had 663.000-TL olarak belirlenmiştir.
+(3) 35 Sıra No.lu Serbest Muhasebeci Mali Müşavirlik ve Yeminli Mali Müşavirlik Kanunu Genel Tebliğinde düzenlenen yatırım indirimi işlemlerine ilişkin had 1.508.000-TL olarak belirlenmiştir.
+(4) Katma değer vergisi hariç tutarı (Değişik ibare:RG-17/12/2025-33110)[1] 150.000-TL’yi aşmayan belgeler için karşıt inceleme zorunluluğu bulunmamaktadır. Ancak, bir mükelleften bir aylık dönemde yapılan mal ve hizmet alımları toplamının (Değişik ibare:RG-17/12/2025-33110)1 450.000-TL’yi aşması halinde karşıt inceleme yapılması zorunludur. Bu fıkranın uygulanmasında, Bakanlığımızca yayımlanan Serbest Muhasebeci Mali Müşavirlik ve Yeminli Mali Müşavirlik Kanunu Genel Tebliğlerinde belirtilen usul ve esaslar geçerlidir.
+(5) Bakanlığımızca özel bir belirleme yapılmadığı takdirde, bu Genel Tebliğde yer alan işlemlere ilişkin hadler 2023 yılı ve izleyen yıllarda artış olmaksızın devam edecektir.
