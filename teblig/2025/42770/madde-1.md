@@ -1,0 +1,2 @@
+Amaç ve kapsam
+MADDE 1- (1) Bu Tebliğin amacı, yerli üretici Ege Kimya Sanayi ve Ticaret A.Ş. firması tarafından yapılan ve Akpa Organik Peroksit Kimya Sanayi ve Dış Tic. Ltd. Şti. tarafından desteklenen başvuruya istinaden Mısır Arap Cumhuriyeti menşeli 3211.00.00.00.00 gümrük tarife istatistik pozisyonu altında “müstahzar kurutucu maddeler (sikatifler)” eşya tanımlı “sikatifler” ithalatına yönelik bir damping soruşturması açılması ve açılan soruşturmanın usul ve esaslarının belirlenmesidir.
