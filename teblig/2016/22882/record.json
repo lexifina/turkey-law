@@ -1,0 +1,42 @@
+{
+  "source_id": "9.5.22882",
+  "kind": "communique",
+  "register_kind": "Tebliğler",
+  "title": "ANTEPFISTIĞI LİSANSLI DEPO TEBLİĞİ",
+  "number": "22882",
+  "issuer": "Gümrük ve Ticaret Bakanı",
+  "path": "teblig/2016/22882",
+  "source": "https://www.mevzuat.gov.tr/anasayfa/MevzuatFihristDetayIframe?MevzuatTur=9&MevzuatNo=22882&MevzuatTertip=5",
+  "source_sha256": "a07705ad983a35dbb7adb5ce83d35839d5a2ab24aa1eef319209cf81f1064d7d",
+  "source_bytes": 36965,
+  "published": "2016-09-29",
+  "gazette": "29842",
+  "in_force": "2025-12-17",
+  "in_force_basis": "latest Resmî Gazete date printed in the source amendment notes/table (\"RG-17/12/2025\") for the current consolidated text",
+  "date_evidence": [
+    [
+      "2025-12-17",
+      "RG-17/12/2025",
+      "Resmî Gazete date printed in the source amendment note"
+    ],
+    [
+      "2025-12-17",
+      "17/12/2025",
+      "Resmî Gazete date in the source amendment table"
+    ]
+  ],
+  "commencement_clauses": [
+    "Bu Tebliğ yayımı tarihinde yürürlüğe girer"
+  ],
+  "history": "current-text",
+  "label": "oldest version available",
+  "checked_on": "2026-11-15",
+  "word_count": 1704,
+  "text_status": "current-consolidated",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  },
+  "completeness": "html-text-complete"
+}
