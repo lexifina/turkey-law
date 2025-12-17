@@ -1,0 +1,5 @@
+2026 YILI SERBEST MUHASEBECİLİK, SERBEST MUHASEBECİ
+MALİ MÜŞAVİRLİK VE YEMİNLİ MALİ MÜŞAVİRLİK
+ASGARİ ÜCRET TARİFESİ
+Konu
+MADDE 1- (1) 3568 sayılı Serbest Muhasebeci Mali Müşavirlik ve Yeminli Mali Müşavirlik Kanununun 46 ncı maddesi ile 2/1/1990 tarihli ve 20390 sayılı Resmî Gazete’de yayımlanan Serbest Muhasebeci, Serbest Muhasebeci Mali Müşavir ve Yeminli Mali Müşavir Ücretlerinin Esasları Hakkında Yönetmelik hükümleri uyarınca hazırlanan ve 2026 yılında meslek mensuplarınca uygulanacak olan asgari ücret tarifesi ekte yer almaktadır.
