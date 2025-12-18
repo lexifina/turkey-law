@@ -1,0 +1,22 @@
+Tanımlar ve kısaltmalar
+MADDE 3- (1) Bu Yönetmelikte geçen;
+a) Ar-Ge Merkezi: 28/2/2008 tarihli ve 5746 sayılı Araştırma, Geliştirme ve Tasarım Faaliyetlerinin Desteklenmesi Hakkında Kanun kapsamındaki Ar-Ge Merkezlerini,
+b) Ar-Ge projesi: Amacı, kapsamı, genel ve teknik tanımı, süresi, bütçesi, özel şartları, diğer kurum, kuruluş, gerçek ve tüzel kişilerce sağlanacak ayni ve/veya nakdî destek tutarları, sonuçta doğacak fikri mülkiyet haklarının paylaşım esasları tespit edilmiş ve Ar-Ge faaliyetlerinin her safhasını belirleyecek şekilde ve bilimsel esaslar çerçevesinde gerçekleştirilen projeyi,
+c) Bakanlık: Sanayi ve Teknoloji Bakanlığını,
+ç) EKAP: Elektronik Kamu Alımları Platformunu,
+d) Genel Müdürlük: Milli Teknoloji Genel Müdürlüğünü,
+e) İşletme: İlgili mevzuata uygun olarak kurulan, bir veya birden çok gerçek veya tüzel kişiye ait olup ekonomik faaliyette bulunan birimleri veya girişimleri,
+f) Kamu destekli proje: Kamu kaynakları ile desteklenen Ar-Ge ve yenilik projelerini,
+g) Özkaynaklı proje: İşletmenin kendi kaynakları ile bünyelerinde yürüttükleri Ar-Ge ve yenilik projelerini,
+ğ) Piyasaya arz: Ürünün, tedarik veya kullanım amacıyla bedelli veya bedelsiz olarak piyasada ilk kez bulundurulmasını,
+h) Portal: Teknolojik Ürün Deneyim Belgesi ile Teknolojik Ürün Belgesi süreçlerine ilişkin iş ve işlemlerin yürütüldüğü ve Bakanlıkça oluşturulan portalı,
+ı) Proje bitirme belgesi: Kamu destekli projelerde projeyi destekleyen kurum veya kuruluşlardan alınan, özkaynaklı projelerde ise TÜBİTAK tarafından yapılan değerlendirme sonucu verilen; başvuruya konu mal veya hizmetin tamamlanmış bir Ar-Ge ve yenilik projesi sonucunda ortaya çıktığını gösteren belgeyi,
+i) Teknoloji Geliştirme Bölgesi: 26/6/2001 tarihli ve 4691 sayılı Teknoloji Geliştirme Bölgeleri Kanunu kapsamındaki teknoloji geliştirme bölgelerini,
+j) Teknoloji Hazırlık Seviyesi: Geliştirilmekte olan bir teknolojinin olgunluk ve kullanılabilirlik seviyesini ölçmek amacıyla kullanılan endeksi,
+k) Teknolojik ürün: Toplumsal ihtiyaçları karşılamak ve yaşam standardını yükseltmek amacıyla nitelikli iş gücü tarafından bilimsel bilgi ve teknolojik araştırmalar kullanılarak ortaya çıkarılan, var olandan belirgin bir şekilde farklılık gösteren, katma değeri ve rekabet edebilirliği yüksek ürün, yazılım veya hizmetleri,
+l) Teknolojik Ürün Belgesi (TÜR Belgesi): Ar-Ge ve yenilik projeleri kapsamında ortaya çıkan her bir teknolojik ürünü gösteren belgeyi,
+m) Teknolojik Ürün Deneyim Belgesi (TÜR Deneyim Belgesi): 4734 sayılı Kanunun 10 uncu maddesinin birinci fıkrasının (b) bendinin (2) numaralı alt bendi çerçevesinde Bakanlık tarafından düzenlenen iş deneyimini gösteren belgeyi,
+n) TÜBİTAK: Türkiye Bilimsel ve Teknolojik Araştırma Kurumunu,
+o) Yenilik projesi: Bir fikri, satılabilir, yeni ya da geliştirilmiş/iyileştirilmiş bir ürün veya mal ve hizmet üretiminde kullanılan yeni ya da geliştirilmiş bir yöntem haline dönüştürmeyi; renk ya da dekorasyondaki değişiklikler ve benzeri bütünüyle estetik alana yönelik değişiklikler ile ürünün yapı, nitelik ya da performansını teknik açıdan değiştirmeyen görünüm farklılıklarından ibaret basit değişiklikler hariç teknolojik yenilik yapma ya da yaratma süreci, bir dizi bilimsel, teknolojik/teknik, mali ve ticari etkinlikleri kapsayan, başarı ölçütleri ve hedefleri tanımlanmış, belirli bir zaman aralığında gerçekleştirilecek faaliyetler bütününü,
+ö) Yerli Malı Belgesi: 25/1/2025 tarihli ve 32793 sayılı Resmî Gazete’de yayımlanan Yerli Malı Tebliği (SGM-2024/10)’ne göre söz konusu ürünün yerli katkı oranını gösteren belgeyi,
+ifade eder.

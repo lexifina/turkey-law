@@ -1,0 +1,8 @@
+İptal ve sorumluluk
+MADDE 8- (1) TÜR Deneyim Belgesinin ve TÜR Belgesinin geçerli olduğu süre içerisinde belgenin işletmeye verilmesi kararına esas bilgi ve belgelerde gerçeğe aykırılık tespit edilmesi ve bu aykırılığın düzeltilmesinin mümkün olmaması halinde Genel Müdürlük belgeyi resen iptal etmeye yetkilidir.
+(2) TÜR Deneyim Belgesinin ve TÜR Belgesinin düzenlenmesinden sonra belgenin işletmeye verilmesi kararına esas bilgi ve belgelere ilişkin düzeltilebilir aykırılıkların tespit edilmesi halinde ilgili işletme yazılı olarak veya elektronik ortamda bilgilendirilir, işletmeye aykırılığın giderilmesi için üç aya kadar süre verilir ve TÜR Deneyim Belgesi ve/veya TÜR Belgesi askıya alınır. Verilen süre içerisinde aykırılığın giderilmesi halinde askıya alma durumu sona erer. Aykırılığın giderilmemesi halinde ise TÜR Deneyim Belgesi ve/veya TÜR Belgesi Genel Müdürlükçe iptal edilir.
+(3) Askıya alınan veya iptal edilen TÜR Deneyim Belgesinin EKAP’a aktarımı sonlandırılır.
+(4) Sahte belge kullanan veya gerçeğe aykırı beyanda bulunan işletme yetkilileri hakkında ilgili Cumhuriyet başsavcılığına suç duyurusunda bulunulur.
+(5) TÜR Deneyim Belgesi düzenlendikten sonra ilgili teknolojik ürüne ilişkin yerli malı belgesinin iptal edilmesi halinde TÜR Deneyim Belgesi de aynı tarih itibarıyla iptal edilmiş sayılır.
+(6) Belgeyi alan işletmenin bölünmesi, birleşmesi, devredilmesi, ünvan veya tür değiştirmesi durumlarında TÜR Deneyim Belgesinin kullanılmasında kamu ihale mevzuatı hükümleri esas alınır.
+(7) Beşinci ve altıncı fıkralar kapsamındaki değişikliklere ilişkin yetkili birimlere bildirimde bulunmak işletmenin sorumluluğundadır.
