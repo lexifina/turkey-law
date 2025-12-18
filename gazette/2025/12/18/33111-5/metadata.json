@@ -1,0 +1,20 @@
+{
+  "record_type": "gazette-item",
+  "gazette": "Resmî Gazete",
+  "jurisdiction": "TR",
+  "date": "2025-12-18",
+  "issue": "33111",
+  "edition": "regular",
+  "item": 5,
+  "section": "YÜRÜTME VE İDARE BÖLÜMÜ",
+  "heading": "TEBLİĞLER",
+  "title": "Su, Elektrik ve Gaz Sayaçları Tamir ve Ayar Ücret Tarifesi Hakkında Tebliğ (No: MSÜGGM – 2025/1)",
+  "official_link": "https://www.resmigazete.gov.tr/eskiler/2025/12/20251218-5.htm",
+  "link_format": "htm",
+  "index_url": "https://www.resmigazete.gov.tr/eskiler/2025/12/20251218.htm",
+  "index_sha256": "29bda3b773de470fe622f56c47735e91a36a2cf3a51bc49261723dc9d3de7edb",
+  "index_header": "18 Aralık 2025 ... 33111 Sayılı Resmî Gazete",
+  "issue_pdf": "https://www.resmigazete.gov.tr/eskiler/2025/12/20251218.pdf",
+  "in_force_basis": "Resmî Gazete publication date; not a commencement reading.",
+  "text_status": "metadata-only; text not yet fetched (follow-up pass adds it as its own commit)"
+}
