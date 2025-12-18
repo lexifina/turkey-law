@@ -1,0 +1,22 @@
+{
+  "kind": "norm",
+  "issuer": "Gelir İdaresi Başkanlığı",
+  "document_type": "ozelge",
+  "number": "17192610-125[KV-24-25]-411751",
+  "source_id": 38803,
+  "date": "2025-12-18",
+  "title": "İngiltere'de bulunan firmaya pazar ve müşteri araştırması ile ilgili yapılan ödemelerin vergilendirilmesi",
+  "source": "https://gib.gov.tr/mevzuat/kanun/435/ozelge/38803",
+  "related_law": "5520 sayılı KURUMLAR VERGİSİ KANUNU",
+  "source_api": "https://gib.gov.tr/api/gibportal/mevzuat/ozelge/list",
+  "source_listing": "evidence/list/2026-11-16/ozelge-p009.json",
+  "source_listing_sha256": "9cb52b4963a9a177a23948f6e28c12936c2f43c88a0b410872bb81c01983667c",
+  "source_sha256": "ec09ca92bfdf679060dbfa26765893acc5d0b5ea5209a1b9a83c07b68c679e6d",
+  "text_status": "as-enacted",
+  "text_file": "metin.md",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  }
+}
