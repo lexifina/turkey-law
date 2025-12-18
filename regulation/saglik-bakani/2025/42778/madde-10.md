@@ -1,0 +1,4 @@
+Enfeksiyon kontrol hekimi
+MADDE 10- (1) Enfeksiyon kontrol hekimi, enfeksiyon hastalıkları ve klinik mikrobiyoloji uzmanlarından, tercihen epidemiyoloji ve sağlık hizmeti ile ilişkili enfeksiyonların önlenmesi ve kontrolünde deneyimli olanlar arasından seçilir. Yataklı tedavi kurumunun bulunduğu belediye sınırları içinde enfeksiyon hastalıkları ve klinik mikrobiyoloji uzmanı bulunmaması halinde, enfeksiyon kontrol hekimliği görevini tercihen iç hastalıkları uzmanı veya çocuk sağlığı ve hastalıkları uzmanı olmak üzere dahili branşlardan bir uzman hekim yürütür.
+(2) Birinci fıkrada belirtilen şartları taşıyan bir uzman hekim en fazla iki farklı yataklı tedavi kurumunda enfeksiyon kontrol hekimliği hizmeti verebilir.
+(3) Enfeksiyon kontrol komitesinin uygun görmesi durumunda yataklı tedavi kurumunda birden fazla enfeksiyon kontrol hekimi görevlendirilebilir. Bu durumda enfeksiyon kontrol hekimlerinin görev dağılımı, enfeksiyon kontrol komitesince yapılır.
