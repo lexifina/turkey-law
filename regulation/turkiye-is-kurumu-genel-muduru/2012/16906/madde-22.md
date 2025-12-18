@@ -1,0 +1,2 @@
+Yurt dışı mesleki eğitim
+MADDE 22 – (1) Uzman ve uzman yardımcıları, 657 sayılı Devlet Memurları Kanunu ve 21/1/1974 tarihli ve 7/7756 sayılı Bakanlar Kurulu Kararıyla yürürlüğe konulan Yetiştirilmek Amacıyla Yurtdışına Gönderilecek Devlet Memurları Hakkında Yönetmelik hükümleri çerçevesinde araştırma yapmak, mesleki bilgi ve görgülerini artırmak veya yurt dışındaki üniversitelerden kabul belgesi almaları şartıyla akademik çalışma yapmak üzere yurtdışına gönderilebilirler.

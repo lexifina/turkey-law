@@ -1,0 +1,3 @@
+Tezin teslimi
+MADDE 16 – (1) Tez konusunun ilgililere duyurulmasından itibaren on iki ay içerisinde tezin Uzman Yardımcısı tarafından fiilen görevli bulunduğu birimdeki daire başkanına teslimi zorunludur. Tez danışmanları da rehberlik ettikleri tez hakkındaki görüşlerini ve uzman yardımcılarının çalışmasını bir rapor halinde aynı süre içerisinde ilgili daire başkanlığına sunar. Danışman görüşü ve tez, daire başkanınca on ikinci ayın bitiminden itibaren bir hafta içerisinde yeterlik ve tez kuruluna iletilir.
+(2) Geçerli bir mazeret olmaksızın süresi içinde tezlerini sunmayanlara altı ayı aşmamak üzere ek süre verilir.
