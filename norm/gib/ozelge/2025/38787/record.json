@@ -1,0 +1,22 @@
+{
+  "kind": "norm",
+  "issuer": "Gelir İdaresi Başkanlığı",
+  "document_type": "ozelge",
+  "number": "E-49327596-187[DV.ÖZ.2025.111]-388138",
+  "source_id": 38787,
+  "date": "2025-12-18",
+  "title": "Kamp alanları ve karavan parkları faaliyetinde konaklama vergisi ve turizm payı hk.",
+  "source": "https://gib.gov.tr/mevzuat/kanun/445/ozelge/38787",
+  "related_law": "6802 sayılı GİDER VERGİLERİ KANUNU",
+  "source_api": "https://gib.gov.tr/api/gibportal/mevzuat/ozelge/list",
+  "source_listing": "evidence/list/2026-11-16/ozelge-p009.json",
+  "source_listing_sha256": "9cb52b4963a9a177a23948f6e28c12936c2f43c88a0b410872bb81c01983667c",
+  "source_sha256": "325027808c4a078965f824b63811bb919ffc391d2c312716592f9f46977b653a",
+  "text_status": "as-enacted",
+  "text_file": "metin.md",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  }
+}
