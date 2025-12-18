@@ -1,0 +1,25 @@
+{
+  "kind": "norm",
+  "issuer": "Enerji Piyasası Düzenleme Kurumu",
+  "market": "natural-gas",
+  "document_type": "board-decision",
+  "number": "14043",
+  "decision_date": "2025-12-18",
+  "title": "Doğal gaz piyasasında 2026 yılı boyunca uygulanmak üzere, serbest tüketici olma sınırına ilişkin",
+  "resmi_gazete_date": "2025-12-20",
+  "resmi_gazete_number": "33113",
+  "categories": [
+    "Doğal Gaz Piyasası Kurul Kararları"
+  ],
+  "source": "https://www.epdk.gov.tr/Detay/DownloadDocument?id=Z3Xl1sr7fxc=",
+  "documents": [
+    "https://www.epdk.gov.tr/Detay/DownloadDocument?id=Z3Xl1sr7fxc="
+  ],
+  "source_sha256": "5f28975516ef01029c8978e05db0b81ee577bcacf07f1c818e58bcc20c64380f",
+  "official_list": "https://www.epdk.gov.tr/Detay/Icerik/3-0-19/kurul-kararlari",
+  "official_list_leaf": 14708,
+  "text_status": "as-enacted",
+  "text_file": "metin.md",
+  "in_force": "2025-12-18",
+  "law_text_complete": true
+}
