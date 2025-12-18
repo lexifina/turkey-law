@@ -1,0 +1,1 @@
+[1] Danıştay İkinci Dairesinin 18/12/2025 tarihli ve E.:2022/1185; K.:2025/6069 sayılı kararı ile bu maddede “adaylık süresini özel eğitim kurumlarında tamamlamış sayılan ve şu anda resmi eğitim kurumlarında öğretmenlik yapanlar” bakımından oluşan eksik düzenlemenin iptaline karar verilmiştir.
