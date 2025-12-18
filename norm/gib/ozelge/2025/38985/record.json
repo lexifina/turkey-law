@@ -1,0 +1,22 @@
+{
+  "kind": "norm",
+  "issuer": "Gelir İdaresi Başkanlığı",
+  "document_type": "ozelge",
+  "number": "E-21152195-130[1-2025/8873]-738001",
+  "source_id": 38985,
+  "date": "2025-12-18",
+  "title": "Yurtdışında yer alan gayrimenkulden elde edilen kira gelirinin vergilendirilmesi",
+  "source": "https://gib.gov.tr/mevzuat/kanun/436/ozelge/38985",
+  "related_law": "3065 sayılı KATMA DEĞER VERGİSİ KANUNU",
+  "source_api": "https://gib.gov.tr/api/gibportal/mevzuat/ozelge/list",
+  "source_listing": "evidence/list/2026-11-16/ozelge-p009.json",
+  "source_listing_sha256": "9cb52b4963a9a177a23948f6e28c12936c2f43c88a0b410872bb81c01983667c",
+  "source_sha256": "60ff29645eb8af13bb063522f395fa4a98b95ed87b90eff4b31af1648fa69cbb",
+  "text_status": "as-enacted",
+  "text_file": "metin.md",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  }
+}
