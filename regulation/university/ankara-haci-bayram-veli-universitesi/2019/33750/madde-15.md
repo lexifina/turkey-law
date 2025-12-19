@@ -1,0 +1,3 @@
+Derslere devam zorunluluğu
+MADDE 15 – (1) (Değişik:RG-9/9/2024-32657)(1) Öğrencilerin derslere devam zorunluluğu, her yarıyıl/yıl için teorik derslerde en az yüzde yetmiş, uygulamalı derslerde yüzde seksendir. Ders devam durumları dersin sorumlu öğretim elemanı tarafından takip edilir ve devamsızlıktan kalan öğrencilere duyurulur. Ara sınav öncesi devamsızlıktan kalan öğrenci ara sınava ve dönem sonu sınavı öncesi devamsızlıktan kalan öğrenci, dönem sonu sınavına giremez. Sağlık raporu süresi ve diğer mazeretli olarak geçen süreler devamsızlıktan sayılır.
+(2) Önceki yarıyıllarda/yıllarda alınarak devam şartı yerine getirilen ve tekrar alınan teorik derslerde devam şartı aranmaz. Tekrar alınan uygulamalı derslerde devam zorunludur.

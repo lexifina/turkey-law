@@ -1,0 +1,3 @@
+Sınav sonucuna itiraz ve maddi hata
+MADDE 22 – (1) Öğrenci, sınav sonuçlarının ÖİBS’de ilanından itibaren yedi gün içinde ilgili birime dilekçe ile başvurarak sınav kâğıdında maddi hata bulunup bulunmadığının incelenmesini isteyebilir. Süresi içinde yapılmayan itirazlar dikkate alınmaz. Sınav kâğıdı, maddi hata bulunup bulunmadığının belirlenmesi için ilgili birim tarafından belirlenen usule göre on beş gün içinde incelenir. Yapılan incelemenin sonucu öğrenciye bildirilir.
+(2) ÖİBS’de açıklanan sınav sonucuyla ilgili maddi bir hata yapıldığının re’sen veya itiraz üzerine tespit edilmesi halinde sonuç, ilgili birim yönetim kurulu kararıyla ÖİDB’ye bildirilir. Gerekli düzeltmeler ÖİDB tarafından yapılır.

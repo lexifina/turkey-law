@@ -1,0 +1,3 @@
+Yabancı dilde eğitim ve hazırlık sınıfı
+MADDE 11 – (1) Bilim alanı bir yabancı dille ilgili olan eğitim-öğretim programları dışında, eğitim-öğretim dili Türkçedir. İlgili kurulun önerisi, Senatonun kararı ve Yükseköğretim Kurulunun onayı ile bazı programlarda tamamen veya kısmen yabancı dilde eğitim-öğretim yapılabilir.
+(2) Yabancı dille eğitim-öğretim 2547 sayılı Kanunun 49 uncu maddesine ve 23/3/2016 tarihli ve 29662 sayılı Resmî Gazete’de yayımlanan Yükseköğretim Kurumlarında Yabancı Dil Öğretimi ve Yabancı Dille Öğretim Yapılmasında Uyulacak Esaslara İlişkin Yönetmelik hükümlerine uygun olarak yapılır.

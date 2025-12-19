@@ -1,0 +1,6 @@
+Eğitim-öğretim süresi
+MADDE 10 – (1) Öğrenciler, kayıt olduğu programın derslerini aldığı dönemden başlamak üzere, her dönem için kayıt yaptırıp yaptırmadığına bakılmaksızın; öğrenim süresi iki yıl olan ön lisans programlarını azami dört yıl, öğrenim süresi dört yıl olan lisans programlarını azami yedi yıl, öğrenim süresi beş yıl olan lisans programlarını azami sekiz yıl, öğrenim süresi altı yıl olan lisans programlarını azami dokuz yıl içinde tamamlamakla yükümlüdür.
+(2) Azami sürelerin belirlenmesinde yabancı dil hazırlık sınıfında geçirilen süreler dikkate alınmaz.
+(3) (Değişik:RG-9/9/2024-32657)(1) Azami süreler içinde katkı payı veya öğrenim ücretinin ödenmemesi ile kayıt yenilenmemesi nedeniyle öğrencilerin ilişikleri kesilmez. Ancak ilgili yönetim kurulunun kararı ve YÖK’ün onayı ile dört yıl üst üste katkı payı veya öğrenim ücretinin ödenmemesi ya da kayıt yenilenmemesi nedeniyle öğrencilerin ilişikleri kesilebilir.
+(4) Yabancı dil hazırlık eğitim süresi azami iki yıldır. Yabancı dil hazırlık eğitimini iki yıl içinde başarı ile tamamlayamayan öğrencilerin programla ilişiği kesilir.
+(5) Azami sürelerin hesaplanmasında, öğrencilerin ilgili yönetim kurullarınca kabul edilen mazeretleri (Değişik ibare:RG-9/9/2024-32657) nedeni ile geçen süreler dikkate alınmaz. Uzaklaştırma disiplin cezası, azami sürelerin hesabında mazeret nedeni sayılmaz.

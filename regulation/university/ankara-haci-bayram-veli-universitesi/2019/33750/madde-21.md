@@ -1,0 +1,2 @@
+Sınav evrakının saklanması
+MADDE 21 – (1) İlgili öğretim elemanı yürüttüğü derse ait sınav belgelerini, ilgili birimin öğrenci işleri bürosuna tutanakla teslim eder. Birim yönetimi bu belgeleri ayrı bir arşivde beş yıl süreyle muhafaza eder. Beş yılın sonunda (Değişik ibare:RG-19/12/2025-33112) 18/10/2019 tarihli ve 30922 sayılı Resmî Gazete’de yayımlanan Devlet Arşiv Hizmetleri Hakkında Yönetmelik hükümlerine göre işlem yapılır.

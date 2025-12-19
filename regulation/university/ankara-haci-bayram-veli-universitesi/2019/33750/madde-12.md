@@ -1,0 +1,5 @@
+Ders kayıtları ve kayıt yenileme
+MADDE 12 – (1) Kayıt yenileme ve ders alma işlemleri, eğitim-öğretim yarıyılı/yılı başlamadan akademik takvimde belirtilen tarihler arasında ÖİBS üzerinden yapılır. Kayıt yenilemek ve ders almak için öğrenci katkı payının veya öğrenim ücretinin yatırılmış olması gerekir.
+(2) (Değişik:RG-9/9/2024-32657)(1) Akademik takvimde belirtilen süre içinde ders kaydını mazereti nedeni ile yaptıramayan öğrenci, mazeretleri ilgili birim kurul kararı ile kabul edildiği taktirde, varsa katkı payı/öğrenim ücretini yatırmak şartı ile akademik takvimde belirtilen ekle-bırak süresinde ders kaydını yaptırabilir. Bu sürede de ders kaydını gerçekleştirmeyen öğrenci, o yarıyıl/yıl kayıt yaptırmamış sayılır, eğitim-öğretim faaliyetlerine katılamaz ve sınavlara giremez.
+(3) Öğrencinin kayıt yenilemediği yarıyıl/yıl 2547 sayılı Kanunda belirtilen öğrenim süresinden sayılır.
+(4) Ders kaydı ve kayıt yenileme işlemlerinden bizzat öğrenci sorumludur. Öğrenci ders kaydı ve kayıt yenileme işlemi sırasında ihtiyaç halinde danışmanının yardımını talep edebilir.

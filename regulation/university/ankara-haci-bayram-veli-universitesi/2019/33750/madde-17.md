@@ -1,0 +1,3 @@
+Çift anadal, yan dal, yatay geçiş, özel öğrenciler (Değişik başlık:RG-9/9/2024-32657)(1)
+MADDE 17 – (1) Çift anadal ve yan dal programları, ilgili birimin önerisi ve Senatonun onayı ile açılır.
+(2) (Değişik:RG-9/9/2024-32657)(1) Üniversite içinden veya dışından yapılacak yatay geçiş işlemleri, çift anadal ve yan dal öğrenci kabul işlemleri, özel öğrenci olarak ders alma ile ilgili esaslar, 24/4/2010 tarihli ve 27561 sayılı Resmî Gazete’de yayımlanan Yükseköğretim Kurumlarında Önlisans ve Lisans Düzeyindeki Programlar Arasında Geçiş, Çift Anadal, Yan Dal ile Kurumlar Arası Kredi Transferi Yapılması Esaslarına İlişkin Yönetmelik hükümlerine göre Senato tarafından belirlenir.
