@@ -1,0 +1,3 @@
+Geçiş hükümleri
+GEÇİCİ MADDE 1- (1) Bu Tebliğin yayımı tarihinden 31/12/2026 tarihine kadar statü başvurusunda bulunacak anonim şirketler için 4 üncü maddenin birinci fıkrası kapsamında en az 2.000.000 (iki milyon) TL ödenmiş sermayeye sahip olması şartı aranır.
+(2) 11 inci madde ile yürürlükten kaldırılan Dış Ticaret Sermaye Şirketi Statüsüne İlişkin Tebliğ (İhracat: 2004/12) kapsamındaki dış ticaret sermaye şirketlerinin statüleri 2026 yılına ilişkin karar yayımlanıncaya kadar korunur ve bunlar hakkında bu tarihe kadar 11 inci madde ile yürürlükten kaldırılan Dış Ticaret Sermaye Şirketi Statüsüne İlişkin Tebliğ (İhracat: 2004/12) hükümleri uygulanmaya devam olunur.
