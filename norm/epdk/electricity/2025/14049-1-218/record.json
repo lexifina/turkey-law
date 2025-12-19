@@ -1,0 +1,25 @@
+{
+  "kind": "norm",
+  "issuer": "Enerji Piyasası Düzenleme Kurumu",
+  "market": "electricity",
+  "document_type": "board-decision",
+  "number": "14049/1-218",
+  "decision_date": "2025-12-19",
+  "title": "2026 yılı için geçerli OSB Dağıtım Bedelleri",
+  "resmi_gazete_date": "2025-12-28",
+  "resmi_gazete_number": "33121",
+  "categories": [
+    "OSB ve EB Dağıtım Sisteminin Kullanımına İlişkin Bedeller"
+  ],
+  "source": "https://www.epdk.gov.tr/Detay/DownloadDocument?id=+k3x5rsVwCE=",
+  "documents": [
+    "https://www.epdk.gov.tr/Detay/DownloadDocument?id=+k3x5rsVwCE="
+  ],
+  "source_sha256": "6727deba541ef0d1cb765754ae845cea0ad7274be46caee96a97bc96fe8b26bf",
+  "official_list": "https://www.epdk.gov.tr/Detay/Icerik/3-0-39/kurul-kararlari-",
+  "official_list_leaf": 1516,
+  "text_status": "as-enacted",
+  "text_file": "metin.md",
+  "in_force": "2025-12-19",
+  "law_text_complete": true
+}
