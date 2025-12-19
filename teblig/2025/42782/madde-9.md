@@ -1,0 +1,3 @@
+Sorumluluk
+MADDE 9- (1) Sektörel dış ticaret şirketleri, kendi nam ve hesaplarına yurt içinden bizzat satın aldıkları ve tedarik ettikleri malların ihracatında bu malların üretimi, temini ve ihracatı ile ilgili düzenlenen tüm belgelerden idari ve cezai yükümlülükler açısından sorumludurlar.
+(2) Aracılı ihracat sözleşmesine dayanarak imalatçı veya tedarikçi şirketlerin sektörel dış ticaret şirketleri üzerinden gerçekleştirdikleri ihracatta, aracılık sözleşmesinde aksine bir hüküm bulunmadığı takdirde malın üretimi veya tedariki ile ilgili tüm belgeler ve malın ihracatı ile ilgili ihracat, kambiyo, gümrük ve ilgili diğer mevzuat hükümleri kapsamındaki idari ve cezai yükümlülüklerden doğrudan ve münhasıran imalatçı ve tedarikçi şirketler sorumludur.

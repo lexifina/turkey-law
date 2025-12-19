@@ -1,0 +1,12 @@
+Statünün geri alınması ve denetim
+MADDE 12- (1) Sektörel dış ticaret şirketlerinin;
+a) Statü aldıkları takvim yılı hariç, müteakip takvim yılı içinde en az (FOB) 5.000.000 (beş milyon) ABD Doları ihracatı ve takip eden her takvim yılı için ise (FOB) 5.000.000 (beş milyon) ABD Dolarından az olmamak üzere faaliyette bulundukları sektörün toplam ihracat miktarının ABD Doları cinsinden en az %0,1 (binde 1)’ini gerçekleştirememeleri,
+b) Başvuru evraklarında sahte ve yanıltıcı bilgi ve belge kullanılması suretiyle statü aldığının tespiti,
+c) Yapılacak inceleme ve denetlemeler neticesinde, bu Tebliğ hükümleri ile ortakların hak ve menfaatlerine aykırı durumlarının tespit edilmesi,
+ç) Statü aldığı tarihten sonra 213 sayılı Kanunun 359 uncu maddesinde belirtilen, muhteviyatı itibarıyla yanıltıcı belge düzenlendiğinin ve/veya kullanıldığının tespit edilmesi,
+d) Statü aldığı tarihten sonra ortakları ve aracılı ihracat sözleşmesi kapsamında ihracatına aracılık ettiği imalatçı veya tedarikçi şirketler tarafından, 213 sayılı Kanunun 359 uncu maddesinde belirtilen, muhteviyatı itibarıyla yanıltıcı belge düzenlendiğinin ve/veya kullanıldığının tespiti üzerine, anılan şirketler ile arasındaki aracılı ihracat sözleşmesini feshetmemesi,
+halinde Bakanlıkça statüsü geri alınır ve ilgili karar Resmî Gazete’de yayımlanır.
+(2) Birinci fıkranın (b) bendi kapsamında tespitte bulunulması durumunda statü verildiği tarih itibarıyla geri alınır ve bu şirketler statünün sonra erdiği tarihten başlamak üzere iki takvim yılı boyunca tekrar statü başvurusunda bulunamazlar.
+(3) Birinci fıkranın (a), (c), (ç) ve (d) bentleri kapsamında tespitte bulunulması durumunda statü, kararın Resmî Gazete’de yayımı itibarıyla geri alınır ve bu şirketler statünün sonra erdiği tarihten itibaren bir takvim yılı boyunca tekrar statü başvurusunda bulunamazlar.
+(4) Statüye sahip şirketler, statü aldıkları takvim yılı hariç olmak üzere takip eden her takvim yılı için faaliyetlerine yönelik BDK tarafından denetlenir ve denetim raporunu en geç bir sonraki yılın mart ayının son gününe kadar Bakanlığa sunarlar. BDK, söz konusu denetimi Kamu Gözetimi, Muhasebe ve Denetim Standartları Kurumu tarafından yayımlanan İlgili Hizmetler Standardı 4400 (İHS 4400) çerçevesinde gerçekleştirir.
+(5) Statünün geri alınmasını gerektiren eksikliklerin tespit edilmesi durumunda, Bakanlıkça (İhracat Genel Müdürlüğü) ilgili sektörel dış ticaret şirketine bildirimde bulunularak bir ay içerisinde eksiklikleri tamamlaması ve gerekli açıklamaları Bakanlığa iletmesi talep edilir.
