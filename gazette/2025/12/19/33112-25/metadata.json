@@ -1,0 +1,20 @@
+{
+  "record_type": "gazette-item",
+  "gazette": "Resmî Gazete",
+  "jurisdiction": "TR",
+  "date": "2025-12-19",
+  "issue": "33112",
+  "edition": "regular",
+  "item": 25,
+  "section": "YÜRÜTME VE İDARE BÖLÜMÜ",
+  "heading": "TEBLİĞLER",
+  "title": "Katılım Esaslarına Uyum Tebliği",
+  "official_link": "https://www.resmigazete.gov.tr/eskiler/2025/12/20251219-25.htm",
+  "link_format": "htm",
+  "index_url": "https://www.resmigazete.gov.tr/eskiler/2025/12/20251219.htm",
+  "index_sha256": "f3dd77e646e2cc068a11202fea5fb575d373c66eed8e8555b16bcef1424d2f0f",
+  "index_header": "19 Aralık 2025 ... 33112 Sayılı Resmî Gazete",
+  "issue_pdf": "https://www.resmigazete.gov.tr/eskiler/2025/12/20251219.pdf",
+  "in_force_basis": "Resmî Gazete publication date; not a commencement reading.",
+  "text_status": "metadata-only; text not yet fetched (follow-up pass adds it as its own commit)"
+}
