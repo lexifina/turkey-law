@@ -1,0 +1,7 @@
+Yayın hazırlama, çoğaltma ve satın alma esasları
+MADDE 9- (1) Bakanlık birimleri Yayın Kurulunun onayı olmadan eser yayınlayamaz/yayınlatamaz.
+(2) Çıkarılması planlanan bir süreli yayının yayın hayatına başlayabilmesi, hâlihazırda yayınlanan süreli yayının yayından kaldırılması için Yayın Kurulu kararı gerekir. Süreli yayının adı, teması, türü, hakemli olup olmaması, yayın dili gibi yayının ana çerçevesinde yapılacak değişiklikler Yayın Kurulu kararı ile gerçekleşir.
+(3) Yayın Kurulundan alınacak izne bağlı olarak Bakanlık birimlerince yapılacak yayın hazırlama, basım, çoğaltma ve/veya satın almalar yıllık yayın programı çerçevesinde Fikir ve Sanat Eserleri Kanunu, 4/1/2002 tarihli ve 4734 sayılı Kamu İhale Kanunu, Kamu Kurum ve Kuruluşlarınca Ödenecek Telif ve İşlenme Ücretleri Hakkında Yönetmelik hükümlerine göre gerçekleştirilir.
+(4) Yayın Kurulu, sosyal medya mecralarında açılacak hesaplar için kurumsal yaklaşım gereği isim, içerik politikası ve logo kullanımı gibi hususlarda genel bir çerçeve oluşturur.
+(5) Kurumsal sosyal medya hesapları da dâhil olmak üzere birime ait elektronik ortamlarda yapılan yayınları yönlendirmek, gözetim ve kontrolünü sağlamak ilgili birim amirinin sorumluluğundadır.
+(6) Bakanlık birimleri tarafından açılan veya kapatılan sosyal medya hesapları ile ilgili bilgi ve veriler envanteri tutulmak üzere en geç 10 iş günü içinde yazılı olarak Başkanlığa bildirilir.

@@ -1,0 +1,28 @@
+Tanımlar
+MADDE 4- (1) Bu Yönetmelikte geçen;
+a) Bağlı ve ilgili kuruluşlar: Tarım ve Orman Bakanlığına bağlı kuruluşlar ile Bakanlığın ilgili kuruluşlarını,
+b) Bakan: Tarım ve Orman Bakanını,
+c) Bakan Yardımcısı: Tarım ve Orman Bakanlığı Eğitim ve Yayın Dairesi Başkanlığının bağlı olduğu Bakan Yardımcısını,
+ç) Bakanlık: Tarım ve Orman Bakanlığını,
+d) Bakanlık birimleri: Tarım ve Orman Bakanlığının merkez, taşra ve yurt dışı teşkilatı birimlerini,
+e) Bakanlık yayınları arşivi: Bu Yönetmelik kapsamında hazırlanan her türlü yayının ve bu yayınlara ait bilgilerin tutulduğu Tarım ve Orman Bakanlığı Eğitim ve Yayın Dairesi Başkanlığı bünyesinde oluşturulmuş olan yayın arşivini,
+f) Başkanlık: Tarım ve Orman Bakanlığı Eğitim ve Yayın Dairesi Başkanlığını,
+g) Elektronik/dijital yayın: Eserlerin her türlü elektronik ortamda sunulmuş şeklini,
+ğ) Eser: Emek sonucu ortaya konan, yayımlanmaya elverişli, gizlilik derecesi taşımayan, Bakanlığın görev ve faaliyet alanlarıyla ilgili özgün, derleme, tercüme, işlenme eser gibi fikir ve sanat ürününü,
+h) Eser sahibi: Eseri meydana getiren kişi/kişileri,
+ı) İnternet ortamı: Haberleşme ile kişisel veya kurumsal bilgisayar sistemleri dışında kalan ve kamuya açık olan internet üzerinde oluşturulan ortamı,
+i) İşlenme eser: Başka bir eserden veya eserlerden yararlanılarak meydana getirilen ve bu eserlere göre müstakil olmayıp hazırlayanın da katkılarını taşıyan yazılı fikir ve sanat ürünlerini,
+j) Merkez Kütüphanesi (Tarım İhtisas Kütüphanesi): Fiziki ve dijital yayınların arşivlendiği ve diğer kütüphane hizmetlerinin verildiği, Bakanlığın görev, yetki ve faaliyet konularında özel dermeye sahip kütüphaneyi,
+k) Süreli yayın: Bakanlığın belirli aralıklarla yayınladığı almanak, dergi, bülten gibi yayınları,
+l) Tercüme eser: Yazıldığı dilden başka bir dile aynen çevrilen eseri,
+m) Yayım hakkı: Eseri yayımlama ve yayımlatma hakkını,
+n) Yayımlamak: Basılı ve elektronik ortamdaki yayınları çoğaltmayı ve yaymayı veya eserleri radyo, televizyon ve bilişim teknoloji araçları ile geniş bir kitleye iletmeyi veya sunmayı,
+o) Yayın: Yerli ve yabancı her türlü basılı, görsel, sesli, dijital ve bunların karması eserleri,
+ö) Yayın inceleme komisyonu: Eseri incelemek üzere içerik, dil ve anlatım, görsel tasarım yönünden uzman kişilerin katılımıyla oluşturulan komisyonu,
+p) Yayın Kurulu: Bakanlığın yayın işleri ile ilgili her türlü çalışmayı yürütmek üzere Bakanlık merkezinde oluşturulmuş olan Kurulu,
+r) Yayın Kurulu Başkanı: Tarım ve Orman Bakanlığı Yayın Kurulu Başkanını,
+s) Yazar: Yayımlanan veya yayımlanacak her türlü yayının yazarını,
+ş) Yıllık yayın programı: Yayın Kurulunun, bu Yönetmelik tarafından kendisine verilen görev ve yetkiler çerçevesinde yayın işleri alanında faaliyetlerini belirlediği yıllık programı,
+ifade eder.
+İKİNCİ BÖLÜM
+Yayın Kurulunun ve Yayın İnceleme Komisyonlarının Oluşturulması,

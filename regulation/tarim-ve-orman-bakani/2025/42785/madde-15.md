@@ -1,0 +1,3 @@
+Bakanlık yayınlarının kodlanması ve arşivi
+MADDE 15- (1) Bakanlık birimleri bu Yönetmelik kapsamında yayınladıkları bütün eser ve süreli yayınların her birinden en az beş adedini ve basılabilir nitelikteki elektronik kopyalarını, sadece elektronik olarak hazırlanan yayınlarda ise yayının basılabilir nitelikteki elektronik kopyalarını yayımlanma tarihinden itibaren 30 gün içinde resmî yazıyla birlikte Başkanlığa gönderir.
+(2) Başkanlığa gönderilen yayınlar; yayının cinsi, konusu, basım yılı ve kurumsal kaynağına göre kodlanarak Bakanlık yayınları arşivine kaydedilir ve en az üç adedi Merkez Kütüphanesinde muhafaza edilir.
