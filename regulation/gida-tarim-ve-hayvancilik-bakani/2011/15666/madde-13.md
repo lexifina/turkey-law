@@ -1,0 +1,4 @@
+Etiket bilgilerinin sunumu
+MADDE 13 – (1) Zorunlu etiket bilgileri, tüm ambalaj ya da kabın üzerinde veya bunlara iliştirilmiş etiket üzerinde ya da dökme yemlerin beraberindeki belgelerde belirgin olarak yer almalıdır. Etiket bilgileri açık, görünecek şekilde, okunaklı ve silinmeyecek şekilde olmalıdır.
+(2) Zorunlu etiket bilgileri, kolaylıkla ayırt edilebilmeli ve başka bilgiler ile anlaşılması zorlaştırılmamalıdır. Etiket bilgilerinin sunulmasında kullanılan renk, yazı karakteri ve büyüklükleri, uyarıcı açıklamaların gerekli olduğu haller dışında, bazı bilgileri örtecek şekilde ya da önemliymiş gibi gösterecek şekilde olmamalıdır.
+(3) Birinci ve ikinci fıkralarda belirtilen hususlar ile ilgili özel hükümler ile isteğe bağlı etiketlemede sunum ile ilgili özel hükümler 24 üncü maddede belirtilen iyi etiketleme uygulama kılavuzları içerisinde yer alabilir.

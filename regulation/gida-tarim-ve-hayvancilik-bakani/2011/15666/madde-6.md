@@ -1,0 +1,4 @@
+Yem işletmecilerinin sorumlulukları ve yükümlülükleri
+MADDE 6 – (1) Yem işletmecileri, yemlerin izlenebilirliği, piyasadan geri çekme ve hijyen ile ilgili yem mevzuatında belirtilen kurallara uymak ve kontrolleri altındaki üretim, işleme ve dağıtımın her aşamasında mevzuata uygunluğu sağlamakla yükümlüdürler.
+(2) Yemi etiketleyen yem işletmecisi, karma yemde kullanılan yem maddelerinin isimlerini, tam olarak ağırlık oranları dâhil etiketleme bilgilerini, pazara sunulan yemin iddia edilen özelliklerinin veya içeriklerinin doğruluğunun tespiti için Bakanlık tarafından istenen her türlü bilgiyi sağlamakla yükümlüdür.
+(3) İnsan veya hayvan sağlığı veya çevreye ilişkin herhangi bir acil durum ortaya çıkması durumunda, üretici ve alıcıların ilgili kanuni hakları korunarak, Bakanlık uygun gördüğü takdirde ve alıcının talebi halinde, imzalı teminat karşılığında ikinci fıkrada belirtilen bazı bilgileri alıcıya sağlayabilir.

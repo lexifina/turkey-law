@@ -1,0 +1,2 @@
+Kısıtlama ve yasaklar
+MADDE 7 – (1) Hayvan besleme amacıyla piyasaya arz edilen yemler, kullanımı yasaklanan maddeleri içeremez, kısıtlanan maddeleri ise ancak belirlenen sınırlarda içerebilir. Yasaklı maddeler ve kısıtlanan maddeler Ek-2’de belirtilmiştir. Acil önlem alınması gereken durumlarda Ek-2’de yapılacak değişiklik prosedürü tamamlanıncaya kadar, ihtiyati tedbir olarak Bakanlık, bazı yem maddelerinin kullanımını geçici olarak yasaklayabilir veya kısıtlayabilir.

@@ -1,0 +1,3 @@
+Kapsam
+MADDE 2 – (1) Bu Yönetmelik; ilaçlı yemler, yemlerde istenmeyen maddeler, yem katkı maddeleri, insanlar tarafından tüketimi amaçlanmayan hayvansal yan ürünler, genetiği değiştirilmiş yemler, organik ürünler, nakledilebilir süngerimsi beyin hastalığı ile ilgili getirilen özel düzenlemelerdeki hükümler saklı kalmak şartıyla, gıda amaçlı yetiştirilen hayvanlar ile gıda amaçlı olmayan hayvanlar için yemlerin piyasaya arzı ve kullanımı, etiketlenmesi, paketlenmesi ve sunumu ile ilgili hususları kapsar.
+(2) Bu Yönetmelik, hayvanlar tarafından doğrudan veya dolaylı alınan suyu kapsamaz. Ancak suya ilave edilmek üzere hazırlanan yemi kapsar.
