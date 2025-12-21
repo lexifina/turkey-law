@@ -1,0 +1,10 @@
+Merkezin faaliyet alanları
+MADDE 6- (1) Merkezin faaliyet alanları şunlardır:
+a) Moleküler patoloji hastalıkların tanısı, tedavisi ve prognostik parametrelerin ortaya konması sürecinde PCR, Real-time PCR, yeni nesil dizi analizi, pirosekanslama, High resolution melting analizi, SSCP ve benzeri moleküler yöntemler kullanılarak araştırılmasını sağlamak.
+b) Söz konusu yöntemleri kullanarak temel tıp ve klinik tıp alanında moleküler patoloji uygulamalarını gerçekleştirmek, patogenezi aydınlatma, tedaviyi belirleme ve genotipik fenotipik ilişkilerin ortaya konmasını sağlamak.
+c) İlgili mevzuat hükümleri kapsamında yüksek lisans ve doktora programları verilmesine katkı sağlamak ve bu alanda nitelikli bilim insanı, araştırmacı ve öğretim elemanı yetiştirmek.
+ç) Türkiye’de moleküler patoloji alanında multidisipliner yaklaşım ile diğer üniversite ve eğitim kurumları ile bilgi alışverişinde bulunmak ve konu ile ilgili ortak eğitim faaliyetleri düzenlemek.
+d) Moleküler patoloji alanında ulusal ve uluslararası bilimsel araştırma, inceleme ve tedavi kurumları ile kamu kurum ve kuruluşları ile özel kurum ve kuruluşlarla ve ilgili derneklerle iş birliği yapmak.
+e) İlgili mevzuat hükümleri kapsamında moleküler patoloji alanına giren konular ile ilgili temel ve ileri düzeyde uzmanlık kursları, çalıştaylar, kongre, konferans, sempozyum, seminerler düzenlemek ve bu alanda kaydedilen tüm yeni gelişmeleri güncel olarak takip etmek.
+f) Moleküler patoloji yöntemlerinde gelecekte kaydedilecek gelişmelere paralel olarak yeni yaklaşımların yurt dışındaki gelişmeler ile kısa süre zarfında eşgüdümünün sağlanması ve Üniversite bünyesinde faaliyete geçirilmesi için gerekli çalışmalarda bulunmak.
+g) Moleküler patoloji kapsamında halihazırda kullanımda olan, gelecek vaad eden ve gelecekte tasarlanıp kullanımı kabul görecek tüm tanısal kitlerden elde edilecek uygulama deneyimi ve bilimsel araştırma projeleri sonuçları sonrasında rutin kullanımdaki tanısal tıbbi uygulamalara yeni modaliteler kazandırmak, kalite standartları açısından mevcut eşdeğeri ile karşılaştırılabilir kitlerin Ar-Ge çalışmalarını yapmak.
