@@ -1,0 +1,7 @@
+Kontenjanlar ve başvuru
+MADDE 6- (1) Lisansüstü programlara öğrenci alınıp alınmayacağı ve alınacak öğrencide aranan şartlar anabilim dalının önerisi, Enstitü Kurulunun görüşü ve Senatonun kararı ile belirlenir. Öğretim programlarının adları, alınacak öğrencide aranan şartlar ve başvuru tarihi Enstitüler tarafından ilan edilir.
+(2) Yüksek lisans ve doktora programlarına hangi lisans ve yüksek lisans programlarından mezun olanların başvurabileceği Senato tarafından belirlenir.
+(3) Yabancı uyruklu adaylar ile lisans eğitiminin tamamını yurt dışında tamamlayan Türkiye Cumhuriyeti vatandaşı adayların lisansüstü programlara kabulüne ilişkin usul ve esaslar Senato tarafından belirlenir.
+(4) Lisansüstü program kontenjanları, YÖK tarafından belirlenen lisansüstü programlarda görev alabilecek öğretim üyesi sayısı, mevcut öğretim üyesi başına düşen öğrenci sayısı ve tezli yüksek lisans ile doktora programları için öğretim üyesi başına düşen en fazla tez danışmanı sayısı dikkate alınarak anabilim dalının önerisi, Enstitü Yönetim Kurulunun görüşü ve Üniversite Yönetim Kurulunun kararı ile belirlenir.
+(5) YÖK ile yapılan protokol dâhilinde ve Üniversite-sanayi iş birliği çerçevesinde yürütülen lisansüstü programlar için kontenjan %50’ye kadar artırılabilir.
+(6) Tezsiz yüksek lisans programları hariç, bir lisansüstü programa kayıtlı öğrenciler, aynı anda aynı seviyede başka bir lisansüstü programa kayıt yaptıramaz, devam edemez.

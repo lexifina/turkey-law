@@ -1,0 +1,2 @@
+Sınav sonuçlarına itiraz
+MADDE 39- (1) Maddi hatalar için öğrenci, notların ilanından itibaren en geç beş iş günü içinde, sınav sonucu için ilgili anabilim dalı başkanlığına itirazda bulunabilir. Bu itiraz, dersin öğretim elemanı tarafından değerlendirilir, sadece maddi hata tespit edilirse düzeltme yapılır ve Enstitüye bildirilir. Maddi hata yoksa dersin öğretim elemanının verdiği not kesindir. Not düzeltme işlemi Enstitü Yönetim Kurulu kararıyla yapılır.

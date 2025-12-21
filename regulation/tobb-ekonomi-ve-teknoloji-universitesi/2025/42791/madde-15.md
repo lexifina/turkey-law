@@ -1,0 +1,4 @@
+Öğrenim süresi
+MADDE 15- (1) Tezli yüksek lisans programının süresi, varsa bilimsel hazırlıkta geçen süre hariç, öğrencinin kayıt olduğu programa ilişkin derslerin verildiği dönemden başlamak üzere her dönem için kayıt yaptırıp yaptırmadığına bakılmaksızın altı dönemdir (iki yıldır). Program en çok dokuz dönemde (üç yılda) tamamlanır.
+(2) Altı dönem (iki yıl) sonunda, öğretim planında yer alan kredili derslerini ve seminer dersini başarıyla tamamlayamayan veya 3,00 akademik ortalamayı sağlayamayan öğrencinin Üniversite ile ilişiği kesilir.
+(3) Altı dönem (iki yıl) sonunda, kredili derslerini ve seminer dersini başarıyla tamamladığı ve 3,00 akademik ortalamayı sağladığı hâlde azami süreler içerisinde Senatonun öngördüğü başarı koşullarını/ölçütlerini yerine getiremeyen, tez çalışmasında başarısız olan veya tez savunmasına girmeyen öğrencinin Üniversite ile ilişiği kesilir.

@@ -1,0 +1,2 @@
+İzinler
+MADDE 41- (1) Lisansüstü programlara kayıtlı olan öğrencilerin dönem izinleri konusunda 2547 sayılı Kanunun 44 üncü maddesinin (b) fıkrası uyarınca YÖK tarafından belirlenen temel ilkeler çerçevesinde 12/9/2011 tarihli ve 28052 sayılı Resmî Gazete’de yayımlanan TOBB Ekonomi ve Teknoloji Üniversitesi Lisans Eğitim-Öğretim ve Sınav Yönetmeliğinin 11 inci maddesi ve Senato tarafından belirlenen diğer usul ve esaslar uygulanır.
