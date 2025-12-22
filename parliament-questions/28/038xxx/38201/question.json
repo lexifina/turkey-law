@@ -1,0 +1,21 @@
+{
+  "record_type": "parliament-written-question",
+  "term": 28,
+  "legislative_year": 4,
+  "esas_no": "7/38201",
+  "submitted": "2025-12-22",
+  "submitted_as": "Başkanlığa geliş tarihi",
+  "mp": "Şenol SUNAT",
+  "province": "Manisa",
+  "summary": "Karadeniz'de Türk gemilerine yönelik yapılan saldırılara ilişkin",
+  "status": "Süresi Geçtikten Sonra Cevaplandı",
+  "status_as_of": "2026-11-16",
+  "official_record": "https://www.tbmm.gov.tr/Denetim/Yazili-Soru-Onergesi-Detay/d599f0c2-b2b3-407f-8b43-019b463840ca",
+  "source": "https://tbmm.gov.tr/Denetim/YaziliSoruOnergesiTable",
+  "source_form": "https://tbmm.gov.tr/Denetim/Yazili-Soru-Onergeleri",
+  "source_sha256": "d97c35a4f4055fa4121ba152a2a72a64df6a44344191ef8b470fbf2649b5af17",
+  "in_force": "2025-12-22",
+  "in_force_basis": "Date the question reached the Speaker (Başkanlığa geliş tarihi) in the official TBMM written-question record; parliamentary oversight record, not law",
+  "history_type": "metadata",
+  "text_status": "metadata-only: question text, addressee and answers are in the linked official record (PDFs on cdn.tbmm.gov.tr); not transcribed here"
+}
