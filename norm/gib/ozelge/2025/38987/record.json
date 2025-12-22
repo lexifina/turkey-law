@@ -1,0 +1,22 @@
+{
+  "kind": "norm",
+  "issuer": "Gelir İdaresi Başkanlığı",
+  "document_type": "ozelge",
+  "number": "E-39044742-130[Özelge]-1695405",
+  "source_id": 38987,
+  "date": "2025-12-22",
+  "title": "Fibercement duvar paneli teslimlerinin KDV'den istisna olup olmadığı",
+  "source": "https://gib.gov.tr/mevzuat/kanun/436/ozelge/38987",
+  "related_law": "3065 sayılı KATMA DEĞER VERGİSİ KANUNU",
+  "source_api": "https://gib.gov.tr/api/gibportal/mevzuat/ozelge/list",
+  "source_listing": "evidence/list/2026-11-16/ozelge-p009.json",
+  "source_listing_sha256": "9cb52b4963a9a177a23948f6e28c12936c2f43c88a0b410872bb81c01983667c",
+  "source_sha256": "670ef45affa7603e4b5535adfb15a7b086465d6a8f28864381828e24d5220c77",
+  "text_status": "as-enacted",
+  "text_file": "metin.md",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  }
+}
