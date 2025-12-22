@@ -1,0 +1,21 @@
+{
+  "record_type": "parliament-written-question",
+  "term": 28,
+  "legislative_year": 4,
+  "esas_no": "7/38140",
+  "submitted": "2025-12-22",
+  "submitted_as": "Başkanlığa geliş tarihi",
+  "mp": "Ali KARAOBA",
+  "province": "Uşak",
+  "summary": "Bakanlık bünyesinde görev yapan kariyer uzmanlarının mali ve özlük haklarının iyileştirilmesi talebine ilişkin",
+  "status": "Süresi Geçtikten Sonra Cevaplandı",
+  "status_as_of": "2026-11-16",
+  "official_record": "https://www.tbmm.gov.tr/Denetim/Yazili-Soru-Onergesi-Detay/d19f379f-1dfa-4ab8-8d6a-019b4a652e99",
+  "source": "https://tbmm.gov.tr/Denetim/YaziliSoruOnergesiTable",
+  "source_form": "https://tbmm.gov.tr/Denetim/Yazili-Soru-Onergeleri",
+  "source_sha256": "55b6e0ad26d523a1b379b2bef3f9c61da62833d70b23e27d39033db3697b139e",
+  "in_force": "2025-12-22",
+  "in_force_basis": "Date the question reached the Speaker (Başkanlığa geliş tarihi) in the official TBMM written-question record; parliamentary oversight record, not law",
+  "history_type": "metadata",
+  "text_status": "metadata-only: question text, addressee and answers are in the linked official record (PDFs on cdn.tbmm.gov.tr); not transcribed here"
+}
