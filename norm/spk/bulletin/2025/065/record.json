@@ -1,0 +1,31 @@
+{
+  "kind": "norm",
+  "issuer": "Sermaye Piyasası Kurulu",
+  "document_type": "bulletin",
+  "number": "2025/65",
+  "date": "2025-12-23",
+  "title": "SPK Bülteni 2025/65",
+  "source": "https://spk.gov.tr/data/694adec88f95db118cd78200/2025-65.pdf",
+  "source_sha256": "13bcbc3ce9a3c355c8da8504de315fd3f4efbe1142f2d6d2a69cbb4c85b1ef10",
+  "text_status": "as-enacted",
+  "text_file": "metin.md",
+  "personal_data": "sanction/person-naming sections omitted; official link retained in ledger",
+  "omitted_sections": [
+    "C. SUÇ DUYURUSU, İDARİ PARA CEZASI İLE DİĞER YAPTIRIM VE TEDBİRLER"
+  ],
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0,
+    "decorative_or_non_normative": 1
+  },
+  "date_basis": "official decision 66/2366 dated 23/12/2025: Kurul Karar Organı’nın 23/12/2025 tarih ve 66/2366 sayılı Kararı Uyarınca Yapılan Duyuru:",
+  "operative_date_review": {
+    "date_type": "decision-date",
+    "decision_date": "2025-12-23",
+    "source_clauses": [
+      "Kurul Karar Organı’nın 23/12/2025 tarih ve 66/2366 sayılı Kararı Uyarınca Yapılan Duyuru:"
+    ],
+    "deferred_start": "none stated in retained source sections"
+  }
+}
