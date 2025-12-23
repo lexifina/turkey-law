@@ -1,0 +1,17 @@
+Genel kurallar, denetim ve idari yaptırımlar
+MADDE 14/A – (Ek:RG-18/2/2022-31754)
+(1) Periyodik kontrol yapmaya yetkili kişiler ile (Değişik ibare:RG-23/12/2025-33116) ekipman muayene kuruluşları;
+a) (Değişik:RG-23/12/2025-33116) Bakanlık tarafından yayımlanmış iş ekipmanına özgü periyodik kontrol rapor ve kriterleri dokümanlarında belirtilen kriterlere ve bu Yönetmelikte belirtilen usullere uygun gerçekleştirir.
+b) Periyodik kontrol raporunu gerçeğe uygun düzenler.
+c) (Değişik:RG-23/12/2025-33116) Bakanlık tarafından periyodik kontrol rapor ve kriterleri dokümanı yayımlanmamış iş ekipmanlarının periyodik kontrollerini Yönetmelik EK-III’te belirtilen kriterlere ve bu Yönetmelikte belirtilen usullere uygun gerçekleştirir.
+ç) İş ekipmanına uygulanması gereken muayene ve/veya test işlemlerini fiilen gerçekleştirdiğini kayıt altına alarak raporu tanzim eder.
+d) Periyodik kontrol esnasında yapılan muayene ve/veya testte tespit edilen her bir kusuru raporda ayrı ayrı belirtir.
+(2) İş ekipmanının bakımını yapan kişiler, bakımını yaptığı ekipmanın periyodik kontrolünü gerçekleştiremez.
+(3) (Değişik:RG-4/2/2024-32450) 29/12/2012 tarihli ve 28512 sayılı Resmî Gazete’de yayımlanan İş Sağlığı ve Güvenliği Hizmetleri Yönetmeliği kapsamında yetkilendirilmiş olan ortak sağlık ve güvenlik birimleri ile bu birimlerde çalışan kişiler periyodik kontrol hizmeti veremez.
+(4) Birinci, (Değişik ibare:RG-23/12/2025-33116) ikinci veya üçüncü fıkra kapsamında yer alan hükümlere aykırı hareket eden kişilerin yetkisi (Değişik ibare:RG-4/2/2024-32450) bir yıl süreyle askıya alınır. Yetkisi askıya alınan kişiler Bakanlığın internet sitesinde ilân edilir. Askı süresinin sonunda ilgili mevzuat hükümlerine göre yeniden başvuru yapılır. (Mülga cümle:RG-23/12/2025-33116)
+(5) Yetkili olmayan kişilerce yapılmış periyodik kontroller geçersizdir. Bu kişiler Bakanlığın internet sitesinde ilân edilir. Bu kişilerin yetki başvuruları on yıl süreyle askıya alınır. Bu kişiler hakkında adli makamlara suç duyurusunda bulunulur.
+(6) Bu maddede yer alan şartlar 6331 sayılı Kanunun 24 üncü maddesinin birinci veya ikinci fıkrası kapsamında tespit edilir, uygunsuzluklar delilleriyle birlikte İş Sağlığı ve Güvenliği Genel Müdürlüğüne bildirilir. Kamu kurum ve kuruluşları veya kamu kurumu niteliğindeki meslek kuruluşları tarafından tespit edilen periyodik kontrollere ilişkin uygunsuzluklar da delilleriyle birlikte İş Sağlığı ve Güvenliği Genel Müdürlüğüne bildirilir. İş Sağlığı ve Güvenliği Genel Müdürlüğü uygunsuzluklara ilişkin bu madde kapsamında idari yaptırım uygular.
+(7) (Ek:RG-4/2/2024-32450) (Değişik ibare:RG-23/12/2025-33116) Ekipman muayene kuruluşları Genel Müdürlük tarafından istenen bilgi ve belgeleri (Mülga ibare:RG-23/12/2025-33116) göndermekle yükümlüdür.
+(8) (Ek:RG-4/2/2024-32450) (Değişik:RG-23/12/2025-33116) 7 nci maddenin altıncı fıkrasında yer alan hükümler saklı kalmak kaydıyla İSG-KATİP üzerinden sözleşme olmaksızın periyodik kontrol raporu düzenlenemez. Sözleşme olmaksızın düzenlenen periyodik kontrol raporları geçersizdir. Bu hükme aykırı davranan periyodik kontrol yapmaya yetkili kişinin yetkisi bir ay süreyle askıya alınır.
+(9) (Ek:RG-4/2/2024-32450) Genel Müdürlük tarafından gerçekleştirilen kontrol ve denetimler, Genel Müdürlükte görevli çalışma uzmanı ve çalışma uzman yardımcıları, mühendis, fizikçi, kimyager, biyolog ve tabipler tarafından yerine getirilir.
+(10) (Ek:RG-23/12/2025-33116) Bu madde kapsamındaki idari yaptırımlar periyodik kontrol yapmaya yetkili kişi için denetim başına uygulanır.

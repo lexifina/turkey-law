@@ -1,0 +1,25 @@
+Tanımlar
+MADDE 4 – (Değişik:RG-18/2/2022-31754)
+(1) Bu Yönetmelikte geçen;
+a) (Değişik:RG-23/12/2025-33116) Ekipman muayene kuruluşu: İşin yapılmasında kullanılan her türlü makine, alet, ekipman, tesis, teçhizat, cihaz ve koruyucu sistemlerin iş sağlığı ve güvenliği yönünden; mevzuat, ilgili standart ve kontrol kriterlerine uygun kullanımının sağlanması ve sürdürülmesi adına bakım veya muayene, test ve kontrol yapmak üzere Bakanlıkça yetkilendirilen kuruluşları,
+b) Azami basınç: Basınçlı kap ve tesisatın üreticisinin belirlediği ve ekipmanın etiketinde yer verdiği en yüksek çalışma basınç değerini,
+c) Bakanlık: Çalışma ve Sosyal Güvenlik Bakanlığını,
+ç) Bakım: İş ekipmanında ve bileşenlerinde yapılan her türlü revizyon, tamir, değişim, ayar, arıza giderme, temizlik ve kalibrasyon işlemlerinden herhangi birisinin veya birkaçının birlikte uygulandığı işlemi,
+d) (Değişik:RG-23/12/2025-33116) EKİPNET: Periyodik kontroller ile ilgili tüm iş ve işlemlerin Genel Müdürlükçe kayıt, takip ve izlenmesi amacıyla kullanılan, İSG-KATİP’te yer alan modülü,
+e) Gözle muayene: İş ekipmanının herhangi bir alet veya cihaz kullanılmadan basit yöntemlerle gözle görülebilir kusurlarının belirlenmesini,
+f) İş ekipmanı: İşin yapılmasında kullanılan herhangi bir makine, alet, cihaz, teçhizat, tesis ve tesisatı,
+g) İş ekipmanının kullanımı: İş ekipmanının çalıştırılması, durdurulması, kullanılması, taşınması, tamiri, tadili, bakımı, devreye alınması, hizmete sunulması ve temizlenmesi gibi iş ekipmanı ile ilgili her türlü faaliyeti,
+ğ) İşletme basıncı: Azami basınç değerinden daha düşük olmak kaydıyla işletme tarafından ekipmanın kullanıldığı maksimum basınç değerini,
+h) İşletme kapasitesi: Kaldırma kapasitesi değerinden daha düşük olmak kaydıyla işletme tarafından ekipmanın kullanıldığı maksimum yük değerini,
+ı) Kaldırma kapasitesi: Kaldırma ve iletme ekipmanının üreticisinin belirlediği ve ekipmanın etiketinde yer verdiği en yüksek çalışma yükü değerini,
+i) Maruz kişi: Tamamen veya kısmen tehlikeli bölgede bulunan kişiyi,
+j) Muayene: İş ekipmanlarının bir veya birden çok özelliğinin ölçüm, inceleme ve/veya deneme yöntemiyle bu Yönetmeliğin, ürünün ilgili standardının ve/veya imalatçının belirlediği ve/veya risk değerlendirmesi sonucu belirlenmiş teknik kriterlere göre durumunun kontrol edildiği faaliyetleri,
+k) Operatör: İş ekipmanını kullanma konusunda yetkin olan çalışan veya çalışanları,
+l) Özel risk taşıyan iş ekipmanı: Tehlikelerin teknik önlemlerle tam olarak kontrol altına alınamadığı iş ekipmanını,
+m) Periyodik kontrol: İş ekipmanlarının, bu Yönetmelikte öngörülen aralıklarda ve belirtilen yöntemlere uygun olarak yetkili kişilerce yapılan muayene ve/veya test faaliyetlerini,
+n) Periyodik kontrolleri yapmaya yetkili kişi: Bu Yönetmelikte belirtilen iş ekipmanlarının teknik özelliklerinin gerektirdiği ve EK-III’te yer alan istisnalar saklı kalmak kaydıyla EKİPNET’e kayıtlı ilgili branşlardan mühendis, teknik öğretmen, tekniker ve yüksek teknikerleri,
+o) Tehlikeli bölge: İş ekipmanının bünyesinde veya çevresinde yer alan ve kişiler için sağlık ve güvenlik yönünden risklerin bulunduğu bölgeyi,
+ö) Test: İş ekipmanlarının yapısal bütünlüğünün, sağlamlığının ve güvenliğinin doğrulanması amacıyla bu Yönetmeliğin, ürünün ilgili standardının ve/veya imalatçının belirlediği teknik kriterlere göre uygulanan deney ve yöntemleri,
+p) (Ek:RG-4/2/2024-32450) Genel Müdürlük: İş Sağlığı ve Güvenliği Genel Müdürlüğünü,
+r) (Ek:RG-4/2/2024-32450) İSG-KATİP: İş sağlığı ve güvenliği hizmetleri ile ilgili iş ve işlemlerin Genel Müdürlükçe kayıt, takip ve izlenmesi amacıyla kullanılan iş sağlığı ve güvenliği kayıt, takip ve izleme programını,
+ifade eder.

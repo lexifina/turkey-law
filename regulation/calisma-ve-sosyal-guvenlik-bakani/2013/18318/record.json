@@ -1,0 +1,85 @@
+{
+  "source_id": "7.5.18318",
+  "kind": "regulation",
+  "register_kind": "Kurum ve Kuruluş Yönetmelikleri",
+  "title": "İŞ EKİPMANLARININ KULLANIMINDA SAĞLIK VE GÜVENLİK ŞARTLARI YÖNETMELİĞİ",
+  "number": "18318",
+  "issuer": "Çalışma ve Sosyal Güvenlik Bakanı",
+  "issuer_slug": "calisma-ve-sosyal-guvenlik-bakani",
+  "path": "regulation/calisma-ve-sosyal-guvenlik-bakani/2013/18318",
+  "source": "https://www.mevzuat.gov.tr/anasayfa/MevzuatFihristDetayIframe?MevzuatTur=7&MevzuatNo=18318&MevzuatTertip=5",
+  "source_sha256": "7fe5fb0728def2774dee1f1aa7b646238fe2cf2a227ed4c8d41c8d547c2ce9b2",
+  "source_bytes": 307917,
+  "published": "2013-04-25",
+  "gazette": "28628",
+  "in_force": "2025-12-23",
+  "in_force_basis": "latest Resmî Gazete date printed in the source amendment notes/table (\"RG-23/12/2025\") for the current consolidated text",
+  "date_evidence": [
+    [
+      "2025-12-23",
+      "RG-23/12/2025",
+      "Resmî Gazete date printed in the source amendment note"
+    ],
+    [
+      "2025-12-23",
+      "23/12/2025",
+      "Resmî Gazete date in the source amendment table"
+    ],
+    [
+      "2024-02-04",
+      "RG-4/2/2024",
+      "Resmî Gazete date printed in the source amendment note"
+    ],
+    [
+      "2024-02-04",
+      "4/2/2024",
+      "Resmî Gazete date in the source amendment table"
+    ],
+    [
+      "2022-02-18",
+      "RG-18/2/2022",
+      "Resmî Gazete date printed in the source amendment note"
+    ],
+    [
+      "2022-02-18",
+      "18/2/2022",
+      "Resmî Gazete date in the source amendment table"
+    ],
+    [
+      "2017-04-24",
+      "RG-24/4/2017",
+      "Resmî Gazete date printed in the source amendment note"
+    ],
+    [
+      "2017-04-24",
+      "24/4/2017",
+      "Resmî Gazete date in the source amendment table"
+    ],
+    [
+      "2016-07-23",
+      "RG-23/7/2016",
+      "Resmî Gazete date printed in the source amendment note"
+    ],
+    [
+      "2016-07-23",
+      "23/7/2016",
+      "Resmî Gazete date in the source amendment table"
+    ],
+    [
+      "2014-05-02",
+      "2/5/2014",
+      "Resmî Gazete date in the source amendment table"
+    ]
+  ],
+  "history": "current-text",
+  "label": "oldest version available",
+  "checked_on": "2026-11-15",
+  "word_count": 11143,
+  "text_status": "current-consolidated",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  },
+  "completeness": "html-text-complete"
+}
