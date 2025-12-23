@@ -1,0 +1,17 @@
+{
+  "kind": "decision",
+  "issuer": "Sayıştay 4. Dairesi",
+  "number": "350",
+  "decision_date": "2025-12-23",
+  "source_id": 40085,
+  "chamber": "4",
+  "ilam_number": "211",
+  "item_number": 1,
+  "public_body_type": "Belediyeler ve Bağlı İdareler",
+  "account_year": 2021,
+  "subject": "Vergi Resmi Harç ve Diğer Gelirlerle İlgili Kararlar",
+  "source": "https://www.sayistay.gov.tr/KararlarDaire/Detay/40085/",
+  "source_sha256": "8242dfd650e5f49db10fd0d4581e8e24674b6f83d77eae39138aaeff71fe90ab",
+  "text_status": "as-enacted",
+  "text_file": "metin.md"
+}
