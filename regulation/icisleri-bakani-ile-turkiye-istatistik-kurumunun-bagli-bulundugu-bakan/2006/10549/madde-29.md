@@ -1,0 +1,3 @@
+Aynı sokağa açılan tali kapıların numaralanması
+MADDE 29 – (1) Bir binanın aynı sokağa açılan birden fazla kapısı bulunduğu takdirde, bu Yönetmeliğin 27 nci maddesinde belirtilen esaslara göre binaya verilen numara ana giriş kapısına verilerek, diğer kapılara bu numaranın yanına birbirini takip eden harfli numaralar verilir. (Ek-1, Şekil 6/a)
+(2) Bir binanın ana giriş kapısının bir sokak veya caddeye; dükkan, depo ve benzeri gibi tali kapılarının başka bir sokak veya caddeye açılması durumunda ana giriş kapısı, bulunduğu sokak veya caddeden numara alır. Diğer sokak ve caddedeki tali kapılar ise ait oldukları sokak veya caddeden birbirini takip eden harfli numaralar alır. (Ek-1, Şekil 6/b)

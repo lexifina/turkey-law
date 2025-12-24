@@ -1,0 +1,2 @@
+Bulvar, cadde ve sokakların belirlenmesi
+MADDE 18 – (1) Her iki tarafında bina olmayan yollar da gerekli görüldüğü takdirde bulvar, cadde ve sokak olarak kabul edilebilir. Bu yerlerin nereden başlayıp nerede sona ereceği, arazi durumu ve güzergahın şekli göz önünde tutulmak suretiyle yetkili makamlar tarafından belirlenir. Bir cadde veya sokak, çok uzun olsa da, yapay bir şekilde parçalanıp birkaç cadde veya sokak haline getirilemez.

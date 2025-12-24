@@ -1,0 +1,3 @@
+Bir avlu içindeki binaların numaralanması
+MADDE 27 – (1) Bir avlu veya bahçe içinde birden fazla bağımsız bina mevcut olup, bunların tümünün sokağa açılan ortak bir kapıdan faydalandığı durumlarda, ortak sokak kapısından önceki binanın numarasından sonra başlamak üzere, avlu veya bahçe içerisindeki bağımsız binalara birbirini takip edecek şekilde numaralar verilir. Ortak kapıya, avlu veya bahçe içindeki binalara verilen numaralardan en küçüğü ile en büyüğü, aralarına bir "-" işareti konulmak suretiyle yazılır. (Ek-1, Şekil 4)
+(2) Sokağa tek kapı ile açılan bir binaya ait avlu veya bahçe içindeki ahır, samanlık, garaj, depo ve benzeri yerlere, ayrı bağımsız numara verilmez.

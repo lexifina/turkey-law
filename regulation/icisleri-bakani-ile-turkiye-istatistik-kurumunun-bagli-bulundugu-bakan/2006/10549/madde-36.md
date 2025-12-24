@@ -1,0 +1,4 @@
+Harfli numarası bulunan birimlerin, birleşmesi veya bölünmesi durumunda, yeni oluşan birimlerin numaralanması
+MADDE 36 – (1) Ev, apartman, otel ve işhanı gibi binaların, sokak üzerine açılıp harfli numara alan dükkan, mağaza ve benzeri işyerlerinden iki veya daha fazlasının bir işyerine çevrilmesi halinde:
+a) Aynı binaya bağlı ve aynı bağımsız numara ile oluşturulan harfli bir numaraya sahip başka işyeri mevcut değilse, bir işyeri haline getirilen işyerlerinin harfli numaralarından, alfabenin en küçük sıra numaralı harfini içeren harfli numara yeni işyerine kapı numarası olarak verilir (Ek-2, Örnek11).
+b) Birkaç işyerinin birleşmesi ile meydana gelen yeni işyerinden sonra, aynı binaya bağlı harfli numara almış başka işyerleri mevcut ise birleşen iş yerlerine ait kapı numaralarının alfabede ilk geleni ile son geleni arasına "-" işareti konularak oluşan bileşik harfli numara, kapı numarası olarak verilir (Ek-2, Örnek12).

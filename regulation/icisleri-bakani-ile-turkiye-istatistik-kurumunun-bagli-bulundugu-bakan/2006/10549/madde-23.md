@@ -1,0 +1,3 @@
+Numaralama işlerinin takibi ve hizmette sürekliliğin sağlanması (Değişik Başlık:RG-24/12/2025-33117)
+MADDE 23 – (1) Numaralama işlerinin bu Yönetmelik hükümlerine göre yapılıp yapılmadığı, İçişleri Bakanlığı Mahalli İdareler Genel Müdürlüğü koordinasyonunda valilik ve kaymakamlıklar aracılığıyla takip edilir.
+(2) (Ek:RG-24/12/2025-33117) Çevre, Şehircilik ve İklim Değişikliği Bakanlığı, sorumluluk alanlarındaki adres ve numaralama işlemlerini yapıp adresleri ulusal adres veri tabanına işlemeyen yetkili idarelere uyarıda bulunmaya, uyarıya rağmen iki ay içinde yapılmayan adres ve numaralama işlemlerini resen yaparak adresleri ulusal adres veri tabanına işlemeye yetkilidir.

@@ -1,0 +1,4 @@
+Bir arsa üzerine inşa edilen birden fazla binanın numaralanması
+MADDE 33 – (1) İmar planına göre tek parsel görünen ve kendisine bir numara tahsis edilmiş olan arsaya birden fazla bina yapıldığı takdirde:
+a) Aynı sokakta, bu binalardan sonra numara almış başka bir bina mevcut değilse, arsa üzerine inşa edilen binalardan birincisine, arsaya tahsis edilmiş numara ve diğer binalara da bu numarayı takip edecek şekilde bağımsız numaralar verilir. Yapılan binalardan sonraki arsalara daha önce tahsis edilmiş numaralar son verilen numara esas alınarak düzeltilir.
+b) Aynı sokakta bir arsa üzerine inşa edilen binalardan sonra gelen, önceden numara almış binalar mevcut ise, arsaya tahsis edilen numara, üzerine inşa edilen binalardan birincisine verilir. Diğer binalara bu numaradan sonra "/" işareti konularak 1,2,3,… eklenmek suretiyle oluşturulan numaralar verilir (Ek-2, Örnek 9.)

@@ -1,0 +1,2 @@
+Levhaların korunması
+MADDE 22 – (1) Mahalle ve köy muhtarları, sorumluluk alanlarındaki meydan, bulvar, cadde, sokak, küme evler ve bina levhalarının tam ve okunabilir durumda tutulmasından sorumludurlar. Muhtarlıklar, yılda en az iki defa sorumluluk alanlarındaki tüm levhaları kontrol ederek, levhalardaki aksaklık ve eksiklikleri yetkili idareye bildirir. Yetkili idareler muhtarlıklar tarafından kendilerine iletilen aksaklık ve eksiklikleri en geç bir ay içerisinde gidermekle yükümlüdür. Bina sahipleri de, binalarına takılan numara levhalarını korumakla yükümlüdür.
