@@ -1,0 +1,21 @@
+{
+  "record_type": "parliament-written-question",
+  "term": 28,
+  "legislative_year": 4,
+  "esas_no": "7/38308",
+  "submitted": "2025-12-24",
+  "submitted_as": "Başkanlığa geliş tarihi",
+  "mp": "Sümeyye BOZ ÇAKI",
+  "province": "Muş",
+  "summary": "Ağrı Şeker Fabrikası'nın Malazgirtli pancar üreticilerine tahsis edilmesi gereken küspeyi başka kişilere sattığı iddiasına ilişkin",
+  "status": "Süresi Geçtikten Sonra Cevaplandı",
+  "status_as_of": "2026-11-16",
+  "official_record": "https://www.tbmm.gov.tr/Denetim/Yazili-Soru-Onergesi-Detay/c16b60a4-21e8-4de1-810a-019b558310c0",
+  "source": "https://tbmm.gov.tr/Denetim/YaziliSoruOnergesiTable",
+  "source_form": "https://tbmm.gov.tr/Denetim/Yazili-Soru-Onergeleri",
+  "source_sha256": "74783f9cd2fed444856847965d63b0bf1f5684237d10f69077a9181408d52f17",
+  "in_force": "2025-12-24",
+  "in_force_basis": "Date the question reached the Speaker (Başkanlığa geliş tarihi) in the official TBMM written-question record; parliamentary oversight record, not law",
+  "history_type": "metadata",
+  "text_status": "metadata-only: question text, addressee and answers are in the linked official record (PDFs on cdn.tbmm.gov.tr); not transcribed here"
+}
