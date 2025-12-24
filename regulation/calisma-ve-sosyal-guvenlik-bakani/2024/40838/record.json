@@ -1,0 +1,43 @@
+{
+  "source_id": "7.5.40838",
+  "kind": "regulation",
+  "register_kind": "Kurum ve Kuruluş Yönetmelikleri",
+  "title": "ÇALIŞMA VE SOSYAL GÜVENLİK EĞİTİM VE ARAŞTIRMA MERKEZİ DÖNER SERMAYE İŞLETMESİ YÖNETMELİĞİ",
+  "number": "40838",
+  "issuer": "Çalışma ve Sosyal Güvenlik Bakanı",
+  "issuer_slug": "calisma-ve-sosyal-guvenlik-bakani",
+  "path": "regulation/calisma-ve-sosyal-guvenlik-bakani/2024/40838",
+  "source": "https://www.mevzuat.gov.tr/anasayfa/MevzuatFihristDetayIframe?MevzuatTur=7&MevzuatNo=40838&MevzuatTertip=5",
+  "source_sha256": "16c052312b75ef02242a8a80d10833039ff55ff07280cbb4a627f5d27bcf6170",
+  "source_bytes": 40368,
+  "published": "2024-06-12",
+  "gazette": "32574",
+  "in_force": "2025-12-24",
+  "in_force_basis": "latest Resmî Gazete date printed in the source amendment notes/table (\"RG-24/12/2025\") for the current consolidated text",
+  "date_evidence": [
+    [
+      "2025-12-24",
+      "RG-24/12/2025",
+      "Resmî Gazete date printed in the source amendment note"
+    ],
+    [
+      "2025-12-24",
+      "24/12/2025",
+      "Resmî Gazete date in the source amendment table"
+    ]
+  ],
+  "commencement_clauses": [
+    "Bu Yönetmelik yayımı tarihinde yürürlüğe girer"
+  ],
+  "history": "current-text",
+  "label": "oldest version available",
+  "checked_on": "2026-11-15",
+  "word_count": 1548,
+  "text_status": "current-consolidated",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  },
+  "completeness": "html-text-complete"
+}
