@@ -1,0 +1,93 @@
+{
+  "source_id": "7.5.5717",
+  "kind": "regulation",
+  "register_kind": "Kurum ve Kuruluş Yönetmelikleri",
+  "title": "DOĞAL GAZ PİYASASI LİSANS YÖNETMELİĞİ",
+  "number": "5717",
+  "issuer": "Enerji Piyasası Düzenleme Kurulu Başkanı",
+  "issuer_slug": "enerji-piyasasi-duzenleme-kurulu-baskani",
+  "path": "regulation/enerji-piyasasi-duzenleme-kurulu-baskani/2002/5717",
+  "source": "https://www.mevzuat.gov.tr/anasayfa/MevzuatFihristDetayIframe?MevzuatTur=7&MevzuatNo=5717&MevzuatTertip=5",
+  "source_sha256": "56ee9d9775f9f3f5fa83cda0bd1f375e3387781c74849bf8e42f9bbfe7b48e3e",
+  "source_bytes": 316586,
+  "published": "2002-09-07",
+  "gazette": "24869",
+  "in_force": "2025-12-24",
+  "in_force_basis": "latest Resmî Gazete date printed in the source amendment notes/table (\"RG-24/12/2025\") for the current consolidated text",
+  "date_evidence": [
+    [
+      "2025-12-24",
+      "RG-24/12/2025",
+      "Resmî Gazete date printed in the source amendment note"
+    ],
+    [
+      "2023-12-02",
+      "RG-2/12/2023",
+      "Resmî Gazete date printed in the source amendment note"
+    ],
+    [
+      "2022-09-23",
+      "RG-23/9/2022",
+      "Resmî Gazete date printed in the source amendment note"
+    ],
+    [
+      "2021-04-01",
+      "RG-1/4/2021",
+      "Resmî Gazete date printed in the source amendment note"
+    ],
+    [
+      "2019-09-19",
+      "RG-19/9/2019",
+      "Resmî Gazete date printed in the source amendment note"
+    ],
+    [
+      "2019-04-06",
+      "RG-6/4/2019",
+      "Resmî Gazete date printed in the source amendment note"
+    ],
+    [
+      "2018-04-17",
+      "RG-17/4/2018",
+      "Resmî Gazete date printed in the source amendment note"
+    ],
+    [
+      "2017-10-31",
+      "RG-31/10/2017",
+      "Resmî Gazete date printed in the source amendment note"
+    ],
+    [
+      "2017-05-24",
+      "RG-24/5/2017",
+      "Resmî Gazete date printed in the source amendment note"
+    ],
+    [
+      "2017-02-09",
+      "RG-9/2/2017",
+      "Resmî Gazete date printed in the source amendment note"
+    ],
+    [
+      "2017-01-07",
+      "RG-7/1/2017",
+      "Resmî Gazete date printed in the source amendment note"
+    ],
+    [
+      "2016-11-23",
+      "RG-23/11/2016",
+      "Resmî Gazete date printed in the source amendment note"
+    ]
+  ],
+  "commencement_clauses": [
+    "Bu yönetmelik, 2/11/2002 tarihinden geçerli olmak üzere yayımı tarihinde yürürlüğe girer"
+  ],
+  "history": "current-text",
+  "label": "oldest version available",
+  "checked_on": "2026-11-15",
+  "word_count": 18694,
+  "text_status": "current-consolidated",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  },
+  "completeness": "html-text-complete"
+}

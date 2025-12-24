@@ -1,0 +1,2 @@
+GEÇİCİ MADDE 14- (Ek:RG-2/12/2023-32387)
+Dağıtım lisansı sahibi tüzel kişiler ile kamu tüzel kişisi olmayan depolama lisansı sahibi tüzel kişiler bu Yönetmeliğin 31 inci maddesinin birinci fıkrasının (b) bendi hükümlerini ana sözleşmelerine derç ederek ana sözleşme değişikliğini gösterir Türkiye Ticaret Sicili Gazetesinin aslı veya Kurumca onaylı veya Ticaret Sicili Memurluğunca onaylı suretini 30/6/2024 tarihine kadar Kuruma sunmakla yükümlüdür.

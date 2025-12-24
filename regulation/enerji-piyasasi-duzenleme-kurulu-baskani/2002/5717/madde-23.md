@@ -1,0 +1,13 @@
+DÖRDÜNCÜ BÖLÜM
+Depolama Lisansı
+Depolama lisansı sahibi şirketlerin hak ve yükümlülükleri
+Madde 23 - Lisans sahibi, faaliyette bulunacağı yer altı ve yer üstü depolama tesisleri ile LNG tesislerinin ilgili ve diğer mevzuatta belirlenen usul ve esaslar ile öngörülen standartlara göre planlanması, projelendirilmesi, inşa edilmesi ve işletilmesinden sorumludur.
+Sisteme giriş talep eden kullanıcının, tahsis edilecek kapasite olmaması durumunda, fiziki olarak kapasite arttırımı mümkün ise gerekli masrafları yüklenmesi halinde sisteme girişi reddedilemez.
+Depolama şirketine yapılan taleplerin reddedilmesi ve sistem kullanıcısının bu durumdan Kurumu haberdar etmesi halinde, Kurum gerekli incelemeleri ve denetimleri yaparak depolama şirketinin yayımlanan usul ve esaslar ile lisans şartlarını ihlal ettiğini tespit etmesi halinde, depolama şirketini talep edilen hizmeti vermeye icbar edebilir. Yapılan bu ihlal nedeniyle, Kanunda belirtilen cezai müeyyideler uygulanır.
+Depolama hizmeti almak için depolama şirketine başvuran tedarikçilerin taleplerine depolama şirketleri otuz gün içerisinde cevap vermek zorundadır. Talebin reddi halinde red gerekçeleri talep sahibine bildirilir. Talebi reddedilen tedarikçilerin altmış gün içerisinde Kuruma başvurması durumunda Kurulun başvuru tarihinden itibaren durum hakkında en geç üç ay içerisinde vereceği karara uyulması zorunludur.
+Depolama tesislerinin iletim veya dağıtım sistemlerine olan bağlantıları tarafların kendi aralarında yapacakları bağlantı sözleşmelerine göre yapılır.
+Lisans sahibi, kendi mülkiyetinde olan (Ek ibare:RG-24/12/2025-33117) veya işletmesinde bulunan sistemin işleyişinden, bakımından, güvenliğinden, dengelenmesinden ve doğal gaz arz güvenliğinden sorumludur.
+Birbirleriyle kendi içinde doğrudan bağlantısı olmayan ve fiziki bir bütünlük arzetmeyen yerlerdeki depolama tesislerinin her biri için ayrı lisans alınır. Mevcut depolama tesislerinde yapılacak genişletme için lisans tadil edilir.
+Lisans sahipleri, ekonomik, verimli ve güvenli işletmecilik hizmeti verdiklerini Kuruma göstermek zorundadır.
+(Ek fıkra:RG-24/12/2025-33117) Mevcut depolama tesisleri, mevcut tesislerdeki kapasite artışları veya yeni yapılacak tesisler, kullanım oranları ve/veya rekabet koşulları dikkate alınarak ilgili mevzuatta yer alan sisteme erişime ilişkin hükümlerden Bakanlık görüşü alınarak Kurul Kararı ile belirli süre muaf tutulabilirler. Depolama şirketleri verecekleri hizmetlere ilişkin birim bedelleri ve tesis kapasitelerini yayımlamak zorundadır.
+(Ek fıkra:RG-24/12/2025-33117) Yüzen LNG tesislerinin işletilmesi ve yer değişikliği kapsamında Bakanlık görüşü alınarak sağlanacak istisnalar Kurul tarafından yayımlanan ilgili usul ve esaslarda düzenlenir.

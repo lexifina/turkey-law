@@ -1,0 +1,3 @@
+Üretim şirketlerinin depolama faaliyetlerinde bulunması
+Madde 24 - (Değişik:RG-23/9/2022-31962)
+6491 sayılı Kanuna göre, işletme ruhsatına sahip şirketlerin doğal gaz ürettiği yer altı doğal gaz yatağını, depolama amacı ile kullanmak üzere Maden ve Petrol İşleri Genel Müdürlüğünün onayının alınmasını müteakip Kuruma başvurması halinde, Kurul tarafından uygun görüldüğü takdirde, işletme ruhsatının ilgili bölümü depolama lisansına çevrilir. Ancak, üretim şirketinin Kuruma yaptığı başvuruda, depolama lisansı için istenen yeterliliğe sahip olduğunu belgelemesi şarttır. Şirket, depolama faaliyetine başladığı takdirde, depolama faaliyetini, muhasebesini ayrıştırmak suretiyle üretim faaliyetinden ayrı olarak yürütür.

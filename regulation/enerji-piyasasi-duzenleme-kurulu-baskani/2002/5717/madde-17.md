@@ -1,0 +1,6 @@
+Lisansların iptali
+Madde 17 - Lisanslar Kanunun 9 uncu maddesi hükümleri çerçevesinde iptal edilebilir. Bir lisansın iptali halinde, yeni bir lisans verilene kadar verilen hizmetin aksamaması için Kurul gereken önlemleri alır.
+Dağıtım lisansının iptal edilmesinin zorunlu hale gelmesi durumunda;
+a) Lisans iptalinden önce alınacak Kurul kararıyla, tüketicilerin korunması ve hizmetin aksamaması açısından, lisans kapsamındaki faaliyetlerin yürütülmesini ve dağıtım şebekesinin işletilmesini teminen, lisans sahibi tüzel kişinin yönetim kurulu veya tüzel kişiyi idare edenlerin; lisans sahibinin anonim şirket olmaması halinde ise ortaklar genel kurulu ve/veya tüzel kişiliği idare edenlerin bir kısmının veya tamamının; geçici olarak değiştirilmesi suretiyle, Kurum tarafından yerlerine yeni atama yapılabileceğinin,
+b) Kurumun, lisans sahibinin nam ve hesabına yüz yirmi gün içerisinde ilgili şebekenin satışı ve yeni lisans sahibinin belirlenmesi için ihaleye çıkacağı ve bu süreçte, şebekenin yeni lisans sahibine satış bedelinin ve ihaleye ilişkin usul ve esasların Kurul tarafından belirleneceğinin,
+kabul edildiğine ilişkin hükümler dağıtım lisanslarında ve dağıtım lisansı sahibi tüzel kişinin ana sözleşmesinde yer alır.

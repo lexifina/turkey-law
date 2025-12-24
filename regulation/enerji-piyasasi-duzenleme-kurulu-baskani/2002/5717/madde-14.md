@@ -1,0 +1,20 @@
+DÖRDÜNCÜ BÖLÜM
+Lisansların Tadili, Yenilenmesi, Sona Ermesi ve İptali
+Lisansların tadil edilmesi
+Madde 14 - Lisanslar; lisans sahibinin talebi veya ilgili mevzuat kapsamındaki uygulamaların gerektirdiği durumlarda ya da yasal değişiklik hallerinde tadil edilebilir. Buna göre;
+a) Lisans sahibinin talebi ile yapılan tadiller; lisans sahibinin lisansta değişiklik yapılması için öne sürdüğü gerekçelerin uygun bulunması,
+b) (Değişik:RG-25/11/2006-26357) İlgili mevzuat kapsamındaki uygulamaların tadil gerektirmesi,
+c) Yasal değişiklik hallerinde yapılan tadiller; lisans sahibinin uyması gereken mevzuatta gerçekleşen değişiklikler paralelinde lisans hükümlerinde değişiklik yapılmasının zorunlu hale gelmesi,
+durumlarında yapılabilir.
+Lisans sahibinin talebi veya ilgili mevzuat kapsamındaki uygulamaların gerektirdiği durumlarda yapılan lisans tadili serbest rekabet koşullarını bozucu hükümler içeremez. Lisans tadilleri; ilgili tüm lisans sahiplerine eşit taraflar arasında ayrım gözetilmemesi ilkesi doğrultusunda ve aynı koşullarda uygulanır.
+Lisans sahibinin, lisans tadilinden doğacak yeni ve/veya ilave yükümlülükleri yerine getirebilmesi için belirli bir süreye gereksinim duyması halinde, söz konusu süre Kurul kararı ile belirlenir ve tadil edilen lisanslarda yer alır.
+(Ek fıkra:RG-25/11/2006-26357) (Değişik:RG-19/3/2015-29300) (Değişik cümle:RG-17/4/2018-30394) Maddi hatalardan kaynaklanan tadiller, Kurum tarafından resen yapılan tadiller ile dağıtım şirketinde belediye veya belediye şirketine yapılacak hisse devrine ilişkin tadillerden lisans tadil ücreti alınmaz. Ayrıca,
+a) Tüm lisanslar için maddi hatalardan kaynaklanan tadiller,
+b) (Değişik:RG-17/4/2018-30394) CNG satış, OtoCNG ve toptan satış (OtoLNG) lisanslarında tesis adresinde yapılacak değişikliklere ilişkin tadiller hariç CNG, toptan satış, toptan satış (OtoLNG) ve iletim (LNG) lisanslarında yapılacak diğer tüm tadiller,
+c) Tüm lisanslar için; hisse devri, birleşme ve ana sözleşmede yer alan faaliyet konusu değişikliği işlemleri hakkında Kurul onayının alınması sonrasında yapılacak tadiller,
+d) (Ek:RG-23/11/2016-29897) İthalat, depolama ve dağıtım lisansları haricinde diğer lisans sahibi tüzel kişilerin unvan ve nev’i değişikliği ile tüm lisanslar için lisans sahibinin doğrudan ortağı olan tüzel kişilerin unvan ve nev’i değişikliğine ilişkin tadiller,
+e) (Ek:RG-17/4/2018-30394) Dağıtım şirketinde belediye veya belediye şirketine yapılan hisse devrine ilişkin tadiller,
+Doğal Gaz Piyasası Dairesi Başkanlığı tarafından sonuçlandırılır. Daire Başkanlığınca yapılacak olan tadillerde, Kurum tarafından bildirimin yapıldığı tarihten itibaren otuz gün içerisinde lisans tadil ücretinin Kurum hesabına yatırıldığına ilişkin belgenin Kuruma ibraz edilmesi kaydıyla lisans tadil edilir. Bu yükümlülüğün yerine getirilmemesi halinde lisans tadili talebi reddedilmiş sayılır.
+(Değişik fıkra:RG-9/4/2011-27900) Lisans sahibinin talebiyle yapılacak tadillerde, tadil talebinin lisans özel hükümleri hakkında olması durumunda, tadil hakkındaki olumlu kararın yazılı bildirimi tarihinden itibaren otuz gün içerisinde lisans tadil bedelinin Kurum hesabına yatırıldığına ilişkin belgenin Kuruma ibraz edilmesi kaydıyla lisans tadil edilir. Bu yükümlülüğün yerine getirilmemesi halinde lisans tadili talebi reddedilmiş sayılır ve başvuru evrakı iade edilir.
+(Ek fıkra: RG-21/07/2004-25529)(Değişik:RG-23/11/2016-29897) Tüzel kişinin lisansına işlenmiş % 10 ve üzeri pay sahibi gerçek veya tüzel kişi ortaklarının pay oranlarında, 42 nci madde kapsamı dışında kalan hisse devirleri nedeniyle değişiklik olması ve lisans sahibinin lisansına konu tesise ait adres bilgilerinde tesis yeri değişmeksizin diğer mevzuattan kaynaklanan nedenlerle değişiklik olması halinde yapılacak lisans tadilinden, lisans tadil ücreti alınmaz ve bu kapsamdaki lisans tadilleri Doğal Gaz Piyasası Dairesi Başkanlığı tarafından sonuçlandırılır.
+(Ek fıkra:RG-23/11/2016-29897) Aynı başvuru kapsamında farklı konularda tadil talebinde bulunulması halinde, her bir farklı konudaki tadil işlemi için ayrı tadil bedeli ödenir.

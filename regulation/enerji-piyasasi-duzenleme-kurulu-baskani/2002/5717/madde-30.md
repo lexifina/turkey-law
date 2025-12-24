@@ -1,0 +1,11 @@
+SEKİZİNCİ BÖLÜM
+İhracat Lisansı
+İhracat lisansı sahibi şirketlerin hak ve yükümlülükleri
+Madde 30 - İhracatçı şirket, üretim şirketlerinden, toptan satış şirketlerinden veya ithalatçı şirketlerden doğal gaz satın alabilir.
+Üretim ve ithalatçı şirketler, ihracat lisansı almak kaydıyla Kanunun 4 üncü maddesinin (4) numaralı fıkrasının (f) bendindeki hükümlerine göre ihracat yapabilir.
+(Ek fıkra:RG-6/4/2019-30737) İhracat nedeniyle ülke ihtiyacının ve sistemin işleyişinin aksatılmaması esastır. Boru hattı vasıtasıyla yapılacak ihracat faaliyeti, iletim şebekesinin teknik kapasitesi dikkate alınarak, ihracat çıkış noktalarının kullanımına ve diğer hususlara yönelik Kurul tarafından belirlenen usul ve esaslar çerçevesinde gerçekleştirilir.
+(Ek fıkra:RG-23/9/2022-31962) LNG ihracatı yapmak isteyen tüzel kişiler, ihracat lisanslarına derç edilmesi ve yurt içinde teslim faaliyetinde bulunmamaları kaydıyla, LNG taşıma faaliyetinde bulunabilirler. İhracat lisansı sahibinin talebi halinde, yurt içinde teslim faaliyeti yapmamak ve ilgili ve diğer mevzuattan kaynaklanan tüm yükümlülüklere uymak koşuluyla, ihracat lisansının özel hükümlerine LNG taşıma faaliyeti yapılabileceğine dair ibare eklenir. Bu durumda başvuru sahibinden, taşıma vasıtalarının ilgili standartlara ve diğer mevzuattan kaynaklanan yükümlülüklere uygun olarak işletileceğine dair taahhütname alınır. İhracat lisansı sahibine LNG teslimi yapan lisans sahipleri, taşıma araçlarının ilgili ve diğer mevzuat kapsamında gerekli belgelere sahip olduğunu kontrol etmekle yükümlüdür.
+(Ek fıkra:RG-24/12/2025-33117) İhracat faaliyeti yapmak isteyen tüzel kişiler lisans başvurusu sırasında hangi ülkelere ihracat yapacağını Kuruma bildirir ve bu ülkeler lisansa derç edilerek her tüzel kişiye bir ihracat lisansı verilir. Lisansın verildiği yılda geçerli olan ihracat lisansı alma bedeli ile ihracat yapılacak ülke sayısının çarpılmasıyla hesaplanacak toplam bedel başvuru sahibi tarafından Kurum hesabına yatırılır. İhracat lisansı verildikten sonra tadil yoluyla lisansa eklenecek her bir ülke için lisans tadil bedeli olarak ilgili yılda geçerli olan ihracat lisansı alma bedeli uygulanır.
+DOKUZUNCU BÖLÜM
+Sıvılaştırma Lisansı
+(Ek bölüm:RG-24/12/2025-33117)

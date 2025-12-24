@@ -1,0 +1,4 @@
+İhracat lisansı tadil işlemleri
+GEÇİCİ MADDE 15 - (Ek:RG-24/12/2025-33117)
+Bu maddenin yürürlüğe girdiği tarihten itibaren altı ay içerisinde, yürürlükte olan ihracat lisanslarında yer alan yıllık ihracat miktarlarının çıkarılması ve birden fazla ihracat lisansına sahip olan tüzel kişilerin sahip olduğu lisansların tüzel kişinin tercih edeceği bir ihracat lisansı altında birleştirilmesi amacıyla resen lisans tadili işlemleri yapılır.
+İhracat lisansı sahipleri, bu maddenin yürürlüğe girmesinden itibaren 30 gün içerisinde EK-3’ün 10 uncu maddesinin (g) bendinin (ii) numaralı hükmünde yer alan taahhüdü sunarlar. Bu süre içerisinde taahhütlerini Kuruma sunmayan lisans sahipleri söz konusu taahhütlerini yerine getirene kadar ilgili lisans sahipleri ile taşıma, teslim veya depolama hizmet sözleşmesi yapamaz, var ise söz konusu sözleşmeler bu yükümlülük yerine getirilene kadar ilgili lisans sahibi tarafından askıya alınır.

@@ -1,0 +1,13 @@
+İthalat lisans başvurularında sunulacak bilgi ve belgeler ile yapılacak ithalat lisans başvurularına dair usul ve esaslar
+Madde 9/A- (Ek:RG-24/12/2025-33117)
+İthalatçı şirketler lisans başvuruları kapsamında Kanunun 4 üncü maddesinin dördüncü fıkrasının (a) bendinin (2) numaralı alt bendinde belirtilen hususları Kuruma sunar. Ayrıca ithalat sözleşmesinde;
+a) Talep edilen lisans süresi boyunca her takvim yılı için ithal edilecek doğal gaz miktarları,
+b) Sözleşme süreleri ve süre uzatımları,
+c) Öngörülen yıllık ve mevsimlik doğal gaz ithalat miktarları ile teslim ve/veya giriş noktası,
+hususlarını içeren hükümler yer alır.
+İthalat lisans başvurusunun yapıldığı tarihte ithalat sözleşmesinin satıcı taraf ile henüz imzalanmamış olması halinde, lisans başvurusunda bulunan şirket tarafından bu maddenin birinci fıkrasında belirtilen hususları içeren satıcı taraf ile imzalanmış bir ön anlaşma Kuruma sunulur. Bu maddenin birinci fıkrasında belirtilen hususlar kapsamında ön anlaşmada yer alan hükümlere uygun olarak ithalat sözleşmesinin imzalanacağı, ön anlaşmada ayrıca taraflarca taahhüt edilir. İthalat lisansı başvurusu kapsamında ön anlaşma sunan tüzel kişiler, söz konusu ön anlaşmaya uygun olarak imzalanmış ithalat sözleşmesini lisans verilmesi öncesinde Kuruma sunmakla yükümlüdür.
+Bu madde kapsamında Kuruma sunulan ithalat sözleşmeleri ve/veya ön anlaşmalarda imzası bulunan kişilerin ilgili tüzel kişilik adına imza yetkisi bulunduğuna dair yetki belgeleri de Kuruma sunulur. Bu madde kapsamında sunulan belgeler EK-3’ün (1) numaralı notu kapsamında düzenlenir.
+Kuruma yapılacak ithalat lisansı başvurularında Kuruma sunulacak ithalat sözleşmelerinde Türkiye Cumhuriyeti Devletini hukuki ihtilaflarda sorumlu tutacak hükümlere yer verilemez.
+İthalat sözleşmelerinde, yeniden ihracat ve varış yeri serbestisine ilişkin hükümlere ve GRF ile yurtdışı piyasalar arasında oluşabilecek fiyat farkına yönelik riskleri bertaraf edecek hükümlere yer verilmemesi halinde, oluşabilecek ticari kayıpların ve diğer risklerin kendi sorumluluğunda olduğu başvuru sahibi tarafından lisans başvurusu aşamasında taahhüt edilir.
+Boru gazı ithalatına ilişkin Kuruma yapılacak ithalat lisansı başvurularının değerlendirilmesinde, Kanunun Ek Madde 3 hükümleri çerçevesinde ithalat yapılacak ülke ile BOTAŞ’ın doğal gaz ithalat sözleşmesi bulunup bulunmadığı, piyasada rekabet ortamının oluşturulması, sözleşmelerden doğan yükümlülükler ve ihracat bağlantıları dikkate alınır.
+Kuruma yapılan başvurunun inceleme ve değerlendirme sürecine alınmasını müteakip Kanunun ek 2 nci ve ek 3 üncü maddeleri hükümleri çerçevesinde Bakanlıktan görüş talep edilir. Bakanlık görüşü Kurul tarafından lisans başvurusuna ilişkin alınacak kararlarda dikkate alınır.
