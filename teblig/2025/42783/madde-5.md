@@ -1,0 +1,11 @@
+Danışma komitesi
+MADDE 5- (1) Katılım finans kuruluşları ve katılım finans şirketleri, faaliyetlerinin katılım esaslarına uygunluğunu sağlamak amacıyla, bünyelerinde bir danışma komitesi tesis etmekle yükümlüdür. Danışma komitesi, yönetim kuruluna bağlı olarak faaliyet gösterir.
+(2) Danışma komitesi en az üç üyeden oluşur. Üyelerden en az üçte ikisinin yurt içinde yerleşik olması zorunludur. Üyeler, yönetim kurulu tarafından görevlendirilir ve ilk genel kurulun onayına sunulur.
+(3) Danışma komitesi üyelerinin görev süresi üç yıldır. Danışma komitesi üyesinin görevi, görev süresinin sona ermesi, ölüm, ağır hastalık, engellilik nedeniyle iş görememesi, görevlendirilmesi için gerekli şartları kaybetmesi, kendi isteğiyle görevden ayrılması veya yönetim kurulu üyelerinin en az üçte ikisinin aynı yöndeki kararı ile sona erer. Görev süresi sona eren üyeler tekrar görevlendirilebilir.
+(4) Danışma komitesi, bu Tebliğ hükümleri kapsamında verilen görevleri düzenli şekilde yerine getirmek üzere üyeleri arasından bir başkan ve onun bulunmadığı hallerde görev yapmak üzere bir başkan vekili seçer. Komite başkanının ve başkan vekilinin yurt içinde yerleşik olması zorunludur.
+(5) Danışma komitesi faaliyetlerinin etkin bir şekilde yerine getirilmesi için gerekli hizmetleri yürütmek üzere yeterli sayıda personel istihdam edilmek suretiyle danışma komitesine bağlı bir danışma komitesi sekretaryası oluşturulur. Danışma komitesi sekretaryası işlevi, 10 uncu maddenin dördüncü fıkrasında belirtilen birim veya personel tarafından yerine getirilebilir.
+(6) Danışma komitesi sekretaryası asgari olarak aşağıdaki görevleri yerine getirir:
+a) Danışma komitesi toplantılarının gündemini ve zamanını üyelere bildirmek ve gündem konularına ilişkin bilgi ve belgeleri üyelere iletmek.
+b) Danışma komitesi toplantılarının tutanaklarını düzenlemek ve tutanakların danışma komitesi üyeleri tarafından imzalanması sürecini yürütmek.
+c) Danışma komitesi kararları hakkında katılım finans uyum faaliyetleri ile görevli birim veya personele bilgi vermek.
+ç) Gelen başvurular üzerine katılım esasları kapsamına giren konularda danışma komitesi görüşünün oluşturulması ve ilgililere ve katılım finans uyum faaliyetleri ile görevli birim veya personele tebliğ edilmesi sürecini yönetmek.
