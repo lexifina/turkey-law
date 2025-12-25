@@ -1,0 +1,73 @@
+ANAYASA MAHKEMESİ KARARI
+Esas Sayısı : 2024/78 (Siyasi Parti Mali Denetimi)
+Karar Sayısı : 2025/157
+Karar Tarihi : 25/12/2025
+R.G.Tarih-Sayı : 20/4/2026-33230
+I. MALİ DENETİMİN KONUSU
+Doğru Yol Partisinin 2023 yılı kesin hesabının incelenmesidir.
+II. İLK İNCELEME
+1. Anayasa Mahkemesi İçtüzüğü hükümleri uyarınca Kadir ÖZKAYA, Hasan Tahsin GÖKCAN, Basri BAĞCI, Engin YILDIRIM, Rıdvan GÜLEÇ, Recai AKYEL, Yusuf Şevki HAKYEMEZ, Yıldız SEFERİNOĞLU, Selahaddin MENTEŞ, İrfan FİDAN, Kenan YAŞAR, Muhterem İNCE, Yılmaz AKÇİL, Ömer ÇINAR ve Metin KIRATLI’nın katılımlarıyla 27/3/2025 tarihinde yapılan ilk inceleme toplantısında öncelikle suç duyurusunda bulunulup bulunulmayacağı sorunu görüşülmüştür.
+2. Doğru Yol Partisinin 2023 yılı kesin hesap dosyasında, Yargıtay Cumhuriyet Başsavcılığının siyasi parti teşkilat listesinde aktif olarak görünen 68 il teşkilatına ait kesin hesap cetvelinin sunulmadığı tespit edilmiştir.
+3. Siyasi partilerin faaliyetlerini yürüttükleri genel merkez, il, ilçe ve belde başkanlıklarına ait yerler partilerin kendilerine ait olabileceği gibi kiralık olarak da kullanılabilecektir. Şayet parti yetkililerine ait olan veya kendilerinin kullandıkları yerlerde siyasi parti faaliyette bulunuyorsa bu takdirde kira sözleşmesi düzenlenerek kiraya isabet eden tutar partiye bağış olarak kaydedilmelidir.
+4. Ayrıca partilerin genel merkez, il, ilçe ve belde başkanlıklarının hayatın olağan akışı gereği kira, su, elektrik, posta, telefon, kırtasiye, tutulacak defterleri satın almak gibi birtakım genel yönetim giderlerini de yapması gerekir.
+5. 22/4/1983 tarihli ve 2820 sayılı Siyasi Partiler Kanunu’nun 69. maddesinde bir siyasi partinin bütün gelirlerinin o siyasi partinin tüzel kişiliği adına elde edileceği, 70. maddesinde siyasi partilerin giderlerinin amaçlarına aykırı olamayacağı ve bir siyasi partinin bütün giderlerinin o siyasi parti tüzel kişiliği adına yapılacağı, 111. maddesinin birinci fıkrasının (c) bendinde de yapılan inceleme ve araştırmaları engelleyen ve istenen bilgileri vermeyen parti sorumluları hakkında altı aydan bir yıla kadar hapis ve altmış milyon liradan az olmamak üzere ağır para cezası verileceği hüküm altına alınmıştır. Bu hükümlere göre parti yetkililerinin genel yönetim giderlerini kendi imkânlarıyla karşılamaları mümkün değildir. Parti yetkilileri bu şekilde yaptıkları giderlerin bedellerini partiye bağış geliri olarak kaydetmek suretiyle parti tüzel kişiliği adına hesaplara dâhil etmelidir.
+6. Yönetim giderlerinin hesaplarda görülmemesi kayıt dışı gelir ve gider oluşturulmuş olduğunu göstermektedir. Bu durumda 2820 sayılı Kanun’un 69. ve 70. maddelerine aykırı davranılmış olunmaktadır.
+7. Anayasa Mahkemesine bilgilerin istendiği şekliyle verilmemesi, hesap verilebilir şekilde kayıt ve belge düzeninin oluşturulmaması, hesabın dışında gelir ve gider oluşturulması inceleme ve araştırmayı engellemeye yönelik eylemler olduğundan 2820 sayılı Kanun’un 111. maddesinin birinci fıkrasının (c) bendine istinaden gerekli işlemlerin yapılmasını temin için Ankara Cumhuriyet Başsavcılığına suç duyurusunda bulunulması gerekir.
+8. Bu itibarla Doğru Yol Partisinin 2023 yılı kesin hesabının incelenmesi sonucunda;
+- Genel Merkeze ait kesin hesap cetvelinin sunulmasından dolayı işin esasının incelenmesine,
+- Esas incelemenin yapılabilmesi amacıyla Genel Merkez kesin hesabının dayanağını oluşturan gelir gider belgeleri ile bu belgelerin kaydedildiği defterleri Sayıştay Başkanlığına göndermesi için Partiye bu kararın tebliğinden itibaren otuz gün süre verilmesine,
+- Anayasa Mahkemesine istenen bilgilerin istendiği şekliyle verilmemesi, hesap verilebilir şekilde kayıt ve belge düzeninin oluşturulmaması, hesabın dışında gelir ve gider yapılması inceleme ve araştırmayı engellemeye yönelik eylemler olduğundan Parti sorumluları hakkında 2820 sayılı Kanun’un 111. maddesinin birinci fıkrasının (c) bendi uyarınca yasal işlem yapılması için Ankara Cumhuriyet Başsavcılığına suç duyurusunda bulunulmasına,
+OYBİRLİĞİYLE karar verilmiştir.
+III. ESASIN İNCELENMESİ
+9. Doğru Yol Partisinin Anayasa Mahkemesine verdiği 2023 yılı kesin hesap çizelgeleri ile dayanağını oluşturan defter ve belgeler üzerinde yapılan inceleme sonuçlarını içeren ve Sayıştay Başkanlığınca hazırlanıp Raportör Oğuz ÇAKAR tarafından Heyete sunulan esas inceleme raporu, Anayasa’nın ve 30/3/2011 tarihli ve 6216 sayılı Anayasa Mahkemesinin Kuruluşu ve Yargılama Usulleri Hakkında Kanun ile 2820 sayılı Kanun’un ilgili kuralları, bunların gerekçeleri ve diğer yasama belgeleri okunup incelendikten sonra gereği görüşülüp düşünüldü:
+10. Denetimin maddi ögelerini oluşturan defter ve belgelerden Partinin 2023 yılı gelirleri toplamı gelirler toplamının 43.000 TL ve giderleri toplamının 43.000 TL olduğu anlaşılmıştır.
+11. Partinin 2023 yılı kesin hesabının gelir ve gider rakamlarının yukarıda açıklanan tutarlardan oluştuğu, bu hâliyle 2023 yılı kesin hesabının doğru, denk ve 2820 sayılı Kanun’a uygun olduğu sonucuna varılmıştır.
+A. Gelirlerin İncelenmesi
+1. Genel Merkez Gelirleri
+12. Partinin Genel Merkez gelirleri toplamı 14.000 TL olup bu tutarın tamamı bağışlardan oluşmaktadır.
+13. Parti Genel Merkezinin defter kayıtları ve gelir belgeleri üzerinde yapılan inceleme neticesinde gelirlerin 2820 sayılı Kanun’a uygun olarak sağlandığı sonucuna varılmıştır.
+2. İl Örgütleri Gelirleri
+14. Partinin il örgütlerinin gelirleri toplamı 29.000 TL olup bu tutarın 28.500 TL’si bağışlardan, 500 TL’si aidatlardan oluşmaktadır.
+15. Parti il örgütlerinin defter kayıtları ve gelir belgeleri üzerinde yapılan inceleme neticesinde gelirlerin 2820 sayılı Kanun’a uygun olarak gerçekleştirildiği sonucuna varılmıştır.
+B. Giderlerin İncelenmesi
+1. Genel Merkez Giderleri
+16. Partinin Genel Merkez giderleri toplamı 14.000 TL olup bu tutarın tamamı kira giderlerinden oluşmaktadır.
+17. Parti Genel Merkezinin defter kayıtları ve gider belgeleri üzerinde yapılan inceleme neticesinde giderlerin 2820 sayılı Kanun’a uygun olarak gerçekleştirildiği sonucuna varılmıştır.
+2. İl Örgütleri Giderleri
+18. Partinin il örgütlerinin giderleri toplamı 29.000 TL olup bu tutarın 25.000 TL’si kira giderlerinden, 4.000 TL’si haberleşme giderlerinden oluşmaktadır.
+19. Parti il örgütlerinin defter kayıtları ve gider belgeleri üzerinde yapılan inceleme neticesinde giderlerin 2820 sayılı Kanun’a uygun olarak gerçekleştirildiği sonucuna varılmıştır.
+C. Parti Mallarının İncelenmesi
+20. Doğru Yol Partisinin 2023 yılı defter ve belgeleri üzerinde yapılan inceleme neticesinde herhangi bir taşınır ve taşınmaz mal ile menkul kıymet ediniminin olmadığı anlaşılmıştır.
+IV. SONUÇ
+Doğru Yol Partisinin 2023 yılı kesin hesabının incelenmesi sonucunda;
+Partinin 2023 yılı kesin hesabında gösterilen 43.000 TL gelir toplamı ile 43.000 TL gider toplamının eldeki bilgi ve belgelere göre doğru, denk ve 22/4/1983 tarihli ve 2820 sayılı Siyasi Partiler Kanunu’na uygun olduğuna 25/12/2025 tarihinde OYBİRLİĞİYLE karar verildi.
+Başkan
+Kadir ÖZKAYA
+Başkanvekili
+Hasan Tahsin GÖKCAN
+Başkanvekili
+Basri BAĞCI
+Üye
+Engin YILDIRIM
+Üye
+Rıdvan GÜLEÇ
+Üye
+Recai AKYEL
+Üye
+Yusuf Şevki HAKYEMEZ
+Üye
+Yıldız SEFERİNOĞLU
+Üye
+Selahaddin MENTEŞ
+Üye
+İrfan FİDAN
+Üye
+Kenan YAŞAR
+Üye
+Muhterem İNCE
+Üye
+Yılmaz AKÇİL
+Üye
+Ömer ÇINAR
+Üye
+Metin KIRATLI
