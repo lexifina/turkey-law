@@ -1,0 +1,21 @@
+{
+  "record_type": "parliament-written-question",
+  "term": 28,
+  "legislative_year": 4,
+  "esas_no": "7/38349",
+  "submitted": "2025-12-25",
+  "submitted_as": "Başkanlığa geliş tarihi",
+  "mp": "Deniz YAVUZYILMAZ",
+  "province": "Zonguldak",
+  "summary": "Zonguldak'ta daha önce yürütülmüş olan olan Lavuar Alanı Projelerine ilişkin",
+  "status": "Süresi Geçtikten Sonra Cevaplandı",
+  "status_as_of": "2026-11-16",
+  "official_record": "https://www.tbmm.gov.tr/Denetim/Yazili-Soru-Onergesi-Detay/c77942ae-1eed-460c-b4c0-019b5b24278a",
+  "source": "https://tbmm.gov.tr/Denetim/YaziliSoruOnergesiTable",
+  "source_form": "https://tbmm.gov.tr/Denetim/Yazili-Soru-Onergeleri",
+  "source_sha256": "74783f9cd2fed444856847965d63b0bf1f5684237d10f69077a9181408d52f17",
+  "in_force": "2025-12-25",
+  "in_force_basis": "Date the question reached the Speaker (Başkanlığa geliş tarihi) in the official TBMM written-question record; parliamentary oversight record, not law",
+  "history_type": "metadata",
+  "text_status": "metadata-only: question text, addressee and answers are in the linked official record (PDFs on cdn.tbmm.gov.tr); not transcribed here"
+}
