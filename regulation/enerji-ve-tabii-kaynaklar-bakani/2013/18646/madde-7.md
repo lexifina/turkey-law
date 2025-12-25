@@ -1,0 +1,7 @@
+Standart ve dokümanlar
+MADDE 7 – (1) (Değişik:RG-20/4/2018-30397) Genel aydınlatma tesislerinin tasarımı ve projelendirilmesi, yapım ve montajı, test ve kontrolü, kabulü, işletmeye alınması ve işletilmesi, bakım ve onarımı, tesislerde asgari emniyetin sağlanması ve kullanılacak malzemeler ile ilgili olarak TEDAŞ şartname, tip proje, usul ve esas ve bunun gibi düzenlemelerine uyulması gereklidir. TEDAŞ’ın düzenlemesinin bulunmaması durumunda;
+a) Türk Standartları ya da TSE tarafından kabul gören DIN ve benzeri milli standartlar, EN ve benzeri bölgesel standartlar, IEC ile ISO ve benzeri uluslararası standartlar,
+b) IEEE ve benzeri uluslararası kabul gören uygulama kodları ve teknik dokümanlar esas alınır.
+(2) Standartlarda değişiklik olması halinde, değişiklik getiren standart, uygulanan standardın iptal edilmesi veya yürürlükten kaldırılması halinde ise yeni standart geçerli olur. Projelerde, teknik hesap ve raporlarda, testlerde esas alınan standart ve dokümanların referans numaraları ve adları, belge ve tutanaklarda yer alır.
+(3) (Değişik:RG-20/4/2018-30397) Genel aydınlatma tesislerinde hiçbir şekilde, standart dışı malzeme ve ekipman kullanılamaz. Türk Standardı ve TEDAŞ düzenlemesi bulunmayan konularda, ülkemizin şartları ve ilgili uluslararası veya diğer ülkelerin standartları esas alınarak TSE tarafından kabul edilen teknik özelliklere uygunluğunu belirten Kritere Uygunluk Belgesi (TSEK Markası) ya da ürün belgesine sahip olma şartı aranır.
+(4) (Mülga:RG-20/4/2018-30397)

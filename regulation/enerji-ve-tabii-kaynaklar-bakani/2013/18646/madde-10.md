@@ -1,0 +1,4 @@
+Komisyonun çalışması
+MADDE 10 – (1) Aydınlatma komisyonu; komisyonun toplanması, gündemin oluşturulması, komisyonun çalışması ve karar alınmasına ilişkin usul ve esasları yazılı olarak belirler. Komisyon ayda en az bir kez olmak üzere gereken zamanlarda toplanır.
+(2) Komisyon başkanı, genel aydınlatma konularına ilişkin olarak kendisine ulaşan talepleri inceler, uygun bulması halinde gündemi belirleyerek komisyon üyelerini en geç 10 gün içinde toplantıya davet eder. Üyeler, gündeme ilave etmek istedikleri konuları toplantı tarihinden en geç 2 iş günü öncesinde başkana iletirler.
+(3) Kararlar, oy çokluğu ile alınır, eşitlik durumunda başkanın bulunduğu taraf çoğunluk sayılır. Karara ilişkin toplantı tutanağı 2 nüsha hazırlanır; bir nüshası komisyon başkanınca saklanır, diğer nüsha gereği için ilgili taraflara başkan tarafından imzalanan yazı ekinde gönderilir.
