@@ -1,0 +1,25 @@
+{
+  "kind": "norm",
+  "issuer": "Enerji Piyasası Düzenleme Kurumu",
+  "market": "electricity",
+  "document_type": "board-decision",
+  "number": "14165-13",
+  "decision_date": "2025-12-25",
+  "title": "1/1/2026 tarihinden itibaren uygulanan Teknik Kalite Ölçüm Hizmeti Bedelleri",
+  "resmi_gazete_date": "2025-12-30",
+  "resmi_gazete_number": "33123",
+  "categories": [
+    "Teknik Kalite Ölçüm Hizmet Bedeli"
+  ],
+  "source": "https://www.epdk.gov.tr/Detay/DownloadDocument?id=TGYRkF2gQ4w=",
+  "documents": [
+    "https://www.epdk.gov.tr/Detay/DownloadDocument?id=TGYRkF2gQ4w="
+  ],
+  "source_sha256": "bedd7813388c99b69102a5961b3e9766116f39ce4ef0cf0a05a3ad7c8566cf76",
+  "official_list": "https://www.epdk.gov.tr/Detay/Icerik/3-0-39/kurul-kararlari-",
+  "official_list_leaf": 1854,
+  "text_status": "as-enacted",
+  "text_file": "metin.md",
+  "in_force": "2025-12-25",
+  "law_text_complete": true
+}
