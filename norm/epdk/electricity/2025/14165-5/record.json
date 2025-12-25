@@ -1,0 +1,25 @@
+{
+  "kind": "norm",
+  "issuer": "Enerji Piyasası Düzenleme Kurumu",
+  "market": "electricity",
+  "document_type": "board-decision",
+  "number": "14165-5",
+  "decision_date": "2025-12-25",
+  "title": "2026 yılı ilişkin başvuru bedeli",
+  "resmi_gazete_date": "2025-12-30",
+  "resmi_gazete_number": "33123",
+  "categories": [
+    "Lisanssız Elektrik Üretim Yönetmeliği Kapsamındaki Bedeller"
+  ],
+  "source": "https://www.epdk.gov.tr/Detay/DownloadDocument?id=PxrL22jh6gA=",
+  "documents": [
+    "https://www.epdk.gov.tr/Detay/DownloadDocument?id=PxrL22jh6gA="
+  ],
+  "source_sha256": "4ddf0d9c1f4abc9cde0668a1be57f0abca28d56bb0d21cbff9d7c216bc6ce68d",
+  "official_list": "https://www.epdk.gov.tr/Detay/Icerik/3-0-39/kurul-kararlari-",
+  "official_list_leaf": 1853,
+  "text_status": "as-enacted",
+  "text_file": "metin.md",
+  "in_force": "2025-12-25",
+  "law_text_complete": true
+}
