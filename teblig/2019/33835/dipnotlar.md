@@ -1,0 +1,1 @@
+[1] Danıştay Onuncu Dairesinin 17/9/2024 tarihli ve E:2020/647, K:2024/3041 sayılı kararı ile bu madde eksik düzenleme nedeniyle iptal edilmiş olup Danıştay İdari Dava Daireleri Kurulunun 8/10/2025 tarihli E:2024/3051, K:2025/1874 sayılı kararı ile mezkur karar onanmıştır.
