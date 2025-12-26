@@ -1,0 +1,31 @@
+{
+  "act_path": "regulation/university/saglik-bilimleri-universitesi/2025/42808",
+  "availability": "text",
+  "checked_on": "2026-11-14",
+  "commencement_clauses": [
+    "MADDE 18- (1) Bu Yönetmelik yayımı tarihinde yürürlüğe girer."
+  ],
+  "date_quote": "MADDE 18- (1) Bu Yönetmelik yayımı tarihinde yürürlüğe girer.",
+  "first_law": null,
+  "gazette": "33119",
+  "history": "as-enacted",
+  "images": {
+    "deferred": 0,
+    "omitted": 0,
+    "referenced": 0,
+    "source": 0
+  },
+  "in_force": "2025-12-26",
+  "in_force_basis": "source commencement clause: effective on Gazette publication",
+  "issuer": "Sağlık Bilimleri Üniversitesi",
+  "issuer_slug": "saglik-bilimleri-universitesi",
+  "kind": "regulation",
+  "published": "2025-12-26",
+  "source": "https://www.mevzuat.gov.tr/anasayfa/MevzuatFihristDetayIframe?MevzuatTur=8&MevzuatNo=42808&MevzuatTertip=5",
+  "source_id": "8.5.42808",
+  "source_sha256": "b67e161fce843f40087c807bb56da520fe34b9a2a30022cd1e8355a3bcdf8130",
+  "title": "SAĞLIK BİLİMLERİ ÜNİVERSİTESİ BULAŞICI OLMAYAN HASTALIKLAR VE RİSK FAKTÖRLERİNİN ÖNLENMESİ, KONTROLÜ VE YÖNETİMİ UYGULAMA VE ARAŞTIRMA MERKEZİ YÖNETMELİĞİ",
+  "university_id": 454,
+  "version_label": "oldest version available",
+  "word_count": 1411
+}
