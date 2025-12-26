@@ -1,0 +1,29 @@
+{
+  "source_id": "9.5.42809",
+  "kind": "communique",
+  "register_kind": "Tebliğler",
+  "title": "2026 YILI ARABULUCULUK ASGARİ ÜCRET TARİFESİ",
+  "number": "42809",
+  "path": "teblig/2025/42809",
+  "source": "https://www.mevzuat.gov.tr/anasayfa/MevzuatFihristDetayIframe?MevzuatTur=9&MevzuatNo=42809&MevzuatTertip=5",
+  "source_sha256": "3ec607da713000d50df5a4755000539aadccd9ba266e3d9b17536a389e20cff4",
+  "source_bytes": 32326,
+  "published": "2025-12-26",
+  "gazette": "33119",
+  "in_force": "2025-12-26",
+  "in_force_basis": "Resmî Gazete publication date in the official listing (26.12.2025)",
+  "history": "current-text",
+  "label": "oldest version available",
+  "checked_on": "2026-11-15",
+  "word_count": 909,
+  "text_status": "current-consolidated",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  },
+  "source_links": [
+    "9.5.42809-EK.doc"
+  ],
+  "completeness": "html-text-complete; linked annexes not fetched"
+}
