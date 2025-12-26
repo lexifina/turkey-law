@@ -1,0 +1,26 @@
+{
+  "source_id": "9.5.42812",
+  "kind": "communique",
+  "register_kind": "Tebliğler",
+  "title": "2026 YILI TANIKLIK ÜCRET TARİFESİ",
+  "number": "42812",
+  "path": "teblig/2025/42812",
+  "source": "https://www.mevzuat.gov.tr/anasayfa/MevzuatFihristDetayIframe?MevzuatTur=9&MevzuatNo=42812&MevzuatTertip=5",
+  "source_sha256": "633d55de23c69d001c66e288ebe4e81d5c72ac7392315759ff6a46542b177548",
+  "source_bytes": 15324,
+  "published": "2025-12-26",
+  "gazette": "33119",
+  "in_force": "2025-12-26",
+  "in_force_basis": "Resmî Gazete publication date in the official listing (26.12.2025)",
+  "history": "current-text",
+  "label": "oldest version available",
+  "checked_on": "2026-11-15",
+  "word_count": 161,
+  "text_status": "current-consolidated",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  },
+  "completeness": "html-text-complete"
+}
