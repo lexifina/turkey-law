@@ -1,0 +1,23 @@
+{
+  "number": "meeting-12-26",
+  "number_as_published": null,
+  "year": 2025,
+  "title": "26.12.2025 TARİHLİ OLAĞANÜSTÜ MECLİS KARAR ÖZETİ",
+  "decision_date": "2025-12-26",
+  "source": "https://www.kepez-bld.gov.tr/parliament_563_26-12-2025-tarihli-olaganustu-meclis-karar-ozeti",
+  "official_document": "https://www.kepez-bld.gov.tr/file_parliament_2881_26-12-2025-tarihli-olaganustu-meclis-toplantisi-karar-ozeti.pdf",
+  "source_sha256": "d2fdf85d94cd3cd9dc398c0decd037265eb0d13f4fa5c69c8ef596ce6fa62bb1",
+  "issuer": "Kepez Belediye Meclisi",
+  "history_type": "metadata",
+  "text_status": "metadata-only: listing fields as published; complete decision text is in the linked official document, not transcribed",
+  "in_force": "2025-12-26",
+  "in_force_basis": "Decision date as printed in the official council listing: 26.12.2025 TARİHLİ OLAĞANÜSTÜ MECLİS KARAR ÖZETİ (official title); adoption date of the council decision; legal commencement not asserted",
+  "missing": [
+    "complete official decision text",
+    "official annexes"
+  ],
+  "law_text_complete": false,
+  "privacy_withheld": false,
+  "record_scope": "one official PDF of decision summaries per council meeting",
+  "listing": "https://www.kepez-bld.gov.tr/page_53_meclis-kararlari?&page=1"
+}
