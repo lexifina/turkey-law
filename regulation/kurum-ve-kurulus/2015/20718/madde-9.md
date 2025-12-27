@@ -1,0 +1,4 @@
+Kuruculuk hakkının kaybedilmesi
+MADDE 9 – (1) Kurucunun 5 inci maddenin birinci fıkrasında belirtilen kuruculuk şartlarını kaybettiğinin tespit edilmesi hâlinde, en geç bir ay içinde kuruluş başka bir gerçek veya özel hukuk tüzel kişisine devredilir. Devir belirtilen süre içerisinde gerçekleşmez ise kuruluşun Açılış İzin Belgesi iptal edilir.
+(2) Kurucunun ölümü hâlinde, veraset ilamında belirtilen kanuni mirasçıları aralarından seçecekleri uygun şartları taşıyan bir kişiyi noter onaylı vekâletname ile kurucunun ölüm tarihinden itibaren en geç bir ay içinde kurucu olarak belirler. Kurucu teklifinin yapılmaması durumunda kuruluşun Açılış İzin Belgesi iptal edilir.
+(3) Özel hukuk tüzel kişi temsilcisi olan kurucunun, kuruculuk şartlarını kaybetmesi veya ölümü hâlinde, en geç bir aylık süre içinde uygun şartları taşıyan başka bir temsilcinin bildirilmesi gerekir. Başka bir temsilcinin bildirilmemesi durumunda, kuruluşun Açılış İzin Belgesi iptal edilir.

@@ -1,0 +1,2 @@
+Personelin sağlık işlemleri
+MADDE 34 – (1) Kuruluş personeline, 24/4/1930 tarihli ve 1593 sayılı Umumi Hıfzıssıhha Kanunu ve 5/7/2013 tarihli ve 28698 sayılı Resmî Gazete’de yayımlanan Hijyen Eğitimi Yönetmeliği hükümlerine göre hijyen eğitimi verilmesi sağlanır, bu doğrultuda yapılan eğitimler personele ait dosyalarda bulundurulur. Kuruluşlarda işyeri hekimi çalıştırılmasına ilişkin olarak ilgili mevzuat hükümleri uygulanır.

@@ -1,0 +1,5 @@
+Yardımcı personelin nitelikleri
+MADDE 30 – (1) Kuruluşlarda yemek ve temizlik elemanı bulundurulması zorunludur. İş hacmine göre büro, şoför ve diğer hizmetler için yeterli sayıda personel istihdam edilir. Bu personel için, en az kendi döneminin zorunlu eğitiminden mezun olma veya okuryazarlık belgesi almış olma şartı aranır. Personeller yaptıkları iş ve işlemlerden kuruluş müdürüne karşı sorumludur.
+(2) Yemek elemanı, yemeklerin sağlık koşullarına uygun pişirilmesinden ve servisinden sorumludur. Mutfak ve yemek servis bölümünün temizlik koşullarına uygunluğunu sağlar ve yemeklerden numune ayırarak uygun bir ortamda saklar.
+(3) Kuruluş müdürü tarafından, kuruluşun temizlik elemanının yapacağı işleri belirleyen bir iş planı hazırlanır. Bu plan denetimde gösterilmek üzere saklanır. Temizlik elemanı bu iş planı doğrultusunda mutfak, lavabo ve tuvaletleri belli aralıklarla temizler. Grup odalarının temizliğini yapar ve havalandırır. Çocukların odalarında ve diğer odalarda gerekli temizlik koşullarını sağlar. Oyun ve materyallerin düzenli olarak temizliğini yapar.
+(4) Kuruluşta çalışan en az bir personelin, ilk yardım sertifikasına sahip olması zorunludur.

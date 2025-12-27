@@ -1,0 +1,2 @@
+Personel eğitimi
+MADDE 33 – (1) Kuruluş, istihdam ettiği personele göreve başladığı tarihten itibaren ilk üç ay içinde bir kez ve sonrasında da yılda en az bir kez olmak üzere, ilgili kurumların alanındaki uzman kişilerinden destek alarak her defasında en az on saatlik hizmet içi eğitim verir. Bu doğrultuda yapılan eğitimler ek-10’daki belge ile kayıt altına alınır, denetimde gösterilmek üzere saklanır.

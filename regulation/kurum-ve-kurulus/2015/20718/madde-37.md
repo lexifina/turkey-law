@@ -1,0 +1,2 @@
+Çocukların beslenmesi
+MADDE 37 – (1) Kuruluşlar, çocukların yaş ve gelişim özelliklerine göre gıda rasyonlarına uygun olarak, çocuklara öğlen yemeği ile sabah ve ikindi kahvaltısı (Mülga ibare:RG-27/12/2025-33120) verir. Kuruluşun (Değişik ibare:RG-27/12/2025-33120) 0-24 aylık çocuklara yönelik bir beslenme programı bulunmalıdır. Kuruluşta verilen yemek numuneleri uygun saklama ortamında yetmiş iki saat süre ile saklanır.

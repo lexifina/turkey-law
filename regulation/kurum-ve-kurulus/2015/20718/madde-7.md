@@ -1,0 +1,7 @@
+Açılış izni için gerekli işlemler
+MADDE 7 – (1) Bir kuruluşun açılıp faaliyete geçebilmesi, aşağıda belirtilen esaslar çerçevesinde olur:
+a) Başvuru tarihinden itibaren üç ay içinde, kurucu tarafından 6 ncı maddede belirtilen evraklar, ikişer adet dosya halinde hazırlanarak, incelenmek üzere il müdürlüğüne teslim edilir. Bu süre içinde kuruluşa çocuk kabulü yapılmaz. Belirtilen süre içinde açılış izni için gerekli belgeleri tamamlamayan kurucuların dosyaları iade edilir.
+b) Kurucu tarafından teslim edilen tüm belgelerin belirlenen esaslara uygun olması ve il müdürlüğünce düzenlenen bina durum değerlendirme raporu ile inceleme raporunda olumlu kanaat bildirilmesi halinde; il müdürlüğünün teklifi ve valiliğin onayı ile kuruluş hizmete açılır. Tüm belgeleri tasdik edilen dosyalardan biri il müdürlüğünde kalır; diğeri ise ek-3’de bulunan Açılış İzin Belgesi düzenledikten ve imzaladıktan sonra kurucuya imza karşılığında teslim edilir.
+c) Açılış İzin Belgesi düzenlenen kuruluşa çocuk kabulü yapılır.
+ç) Açılış İzin Belgesi verilen ya da devir veya nakil edilen her kuruluşun işveren ve işyerinin ismi ve yaptığı işin çeşidi, bir ay içinde il müdürlüğü tarafından, o yerin bağlı bulunduğu ilin Sosyal Güvenlik Kurumu İl Müdürlüğü ile defterdarlığa veya vergi dairesine bildirilir.
+d) Aynı kurucu tarafından yeni bir şubenin açılması halinde, yeni kuruluş açılışındaki gibi işlem yapılır. Her yeni şube için ayrı kuruluş müdürü ve personel istihdamı zorunludur.

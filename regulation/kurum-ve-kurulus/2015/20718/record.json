@@ -1,0 +1,55 @@
+{
+  "source_id": "7.5.20718",
+  "kind": "regulation",
+  "register_kind": "Kurum ve Kuruluş Yönetmelikleri",
+  "title": "ÖZEL KREŞ VE GÜNDÜZ BAKIMEVLERİNİN KURULUŞ VE İŞLEYİŞ ESASLARI HAKKINDA YÖNETMELİK",
+  "number": "20718",
+  "issuer_slug": "kurum-ve-kurulus",
+  "path": "regulation/kurum-ve-kurulus/2015/20718",
+  "source": "https://www.mevzuat.gov.tr/anasayfa/MevzuatFihristDetayIframe?MevzuatTur=7&MevzuatNo=20718&MevzuatTertip=5",
+  "source_sha256": "b47364597156f285b646974235d126d890950087d5a8dde33d3779385508cc9e",
+  "source_bytes": 138193,
+  "published": "2015-04-30",
+  "gazette": "29342",
+  "in_force": "2025-12-27",
+  "in_force_basis": "latest Resmî Gazete date printed in the source amendment notes/table (\"RG-27/12/2025\") for the current consolidated text",
+  "date_evidence": [
+    [
+      "2025-12-27",
+      "RG-27/12/2025",
+      "Resmî Gazete date printed in the source amendment note"
+    ],
+    [
+      "2025-12-27",
+      "27/12/2025",
+      "Resmî Gazete date in the source amendment table"
+    ],
+    [
+      "2016-09-08",
+      "RG-8/9/2016",
+      "Resmî Gazete date printed in the source amendment note"
+    ],
+    [
+      "2016-09-08",
+      "8/9/2016",
+      "Resmî Gazete date in the source amendment table"
+    ]
+  ],
+  "commencement_clauses": [
+    "Bu Yönetmelik yayımı tarihinde yürürlüğe girer"
+  ],
+  "history": "current-text",
+  "label": "oldest version available",
+  "checked_on": "2026-11-15",
+  "word_count": 8047,
+  "text_status": "current-consolidated",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  },
+  "source_links": [
+    "7.5.20718-Ek.docx"
+  ],
+  "completeness": "html-text-complete; linked annexes not fetched"
+}

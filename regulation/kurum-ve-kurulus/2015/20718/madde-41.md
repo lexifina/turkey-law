@@ -1,0 +1,7 @@
+Kuruluşa çocuk kabulü
+MADDE 41 – (1) Kuruluşa çocuk kabulünde, velinin dilekçesi, çocuğun T.C. kimlik numarasının bulunduğu nüfus cüzdanı, sağlık raporu, çocuğun herhangi bir alerjisi, devam eden bir hastalığı bulunuyorsa bu durumu gösteren belge ve yeteri kadar fotoğraf istenir. Çocuğun kuruluştan ayrılışına ilişkin veliden dilekçe alınır.
+(2) (Mülga:RG-27/12/2025-33120)
+(3) İlgili kuruluşlardan alınmış raporda belirtilmek kaydıyla, ancak hafif derecede zihinsel, görme, işitme, konuşma ve bedensel engeli olan çocuklar kuruluşa kabul edilir. Çocuklara ayrımcılık yapılmaması için gerekli önlemler alınır.
+(4) Çocuklarda davranış ve uyum problemi ile karşılaşılması durumunda, gerekli çalışmalar ek-12’deki belge ile kayıt altına alınır ve denetimde gösterilmek üzere dosyada bulundurulur.
+(5) Hafif zihinsel, görme, işitme, konuşma ve bedensel engelli olan çocukları kabul eden kuruluşlarda özel eğitim öğretmeni veya rehber öğretmen bulundurulur. Söz konusu öğretmenin istihdam edilememesi halinde, kuruluş müdürü ve grup sorumlusunun rehberlik ve araştırma merkezlerinden alacakları plan ve rapora göre çalışmalar yürütülür. Kaynaştırma eğitimine dair ek-13 ile ek-14’teki formlar düzenlenerek denetimde gösterilmek üzere dosyada bulundurulur. Çocukların ihtiyacına göre gerekli araç ve gereçler sağlanır. Gruplarda kaynaştırma eğitimi alacak çocuk sayısı birden fazla olamaz.
+(6) Kuruluş tarafından kayıtları yapılan çocukların bilgileri Mili Eğitim Bakanlığı e-okul sistemine işlenir.

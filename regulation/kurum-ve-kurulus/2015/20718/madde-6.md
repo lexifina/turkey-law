@@ -1,0 +1,21 @@
+Başvuru ve istenecek belgeler
+MADDE 6 – (1) Kuruluş açmak isteyen kişiler tarafından, açılması planlanan kuruluş binasının adresini belirten bir dilekçe ve binaya ait yapı kullanım izin belgesi ile il müdürlüğüne başvurulur. Bina, en az iki sosyal çalışma görevlisi tarafından 15 inci maddeye uygunluk açısından on beş gün içerisinde yerinde incelenir ve binanın uygun şartları taşıyıp taşımadığına karar verilir.
+(2) Binanın uygun görülmesi halinde başvuru sahibinden aşağıdaki belgeler istenir:
+a) T.C. kimlik numarasının bulunduğu nüfus cüzdanı veya pasaport veya sürücü belgesi,
+b) Adli sicil belgesi,
+c) Öğrenim durumunu gösterir belge, yurtdışında öğrenim görüldüğü takdirde yetkili kurumlardan alınacak denklik belgesi,
+ç) Kurucu tüzel kişi ise kuruluş amaçları içinde özel kreş ve gündüz bakımevi (Mülga ibare:RG-27/12/2025-33120) işletmeciliği yapılabileceğine ilişkin ifadenin de yer aldığı ve tüzel kişinin niteliğine göre Türkiye Ticaret Sicili Gazetesinde yayımlanmış ana sözleşme, tüzük ya da vakıf senedinin aslı veya il müdürlüğünce onaylı örneği,
+d) Kurucu temsilcisinin kuruluşu açma, kapatma, devir ve benzeri işlemleri yürütme yetkisine sahip olduğunun belirtildiği yönetim kurulu kararının il müdürlüğünce onaylı örneği.
+(3) Kuruluşun açılacağı bina ile ilgili olarak aşağıdaki belgeler istenir:
+a) Binanın kapasitesinin hesaplanabilmesi için belediyelerin imar ve şehircilik müdürlüklerinden (Ek ibare:RG-8/9/2016-29825) veyahut yetkili serbest proje bürolarından ya da çevre ve şehircilik müdürlüklerinden alınacak odaların büyüklüğü ve ölçümünü gösterir belge ve tasdikli mimari proje,
+b) Bina kurucuya ait ise tapu senedinin il müdürlüğünce onaylı örneği; bina kiralık ise en az bir yıllık kira sözleşmesinin aslı veya il müdürlüğünce onaylı örneği,
+c) Bina ve ortak bahçesinin kullanılacak olması halinde, kat maliklerinin oy birliği ile verdiği karar örneği,
+ç) Binanın, 27/11/2007 tarihli ve 2007/12937 sayılı Bakanlar Kurulu kararı ile yürürlüğe konulan Binaların Yangından Korunması Hakkında Yönetmelik hükümlerine uygun olduğunu gösteren itfaiye raporu,
+d) Binanın trafik emniyetinin olduğuna ve alkollü içki tüketilen ve satılan yerler ve genel ahlâk kurallarına uygun olmayan mekânların varsa bahçe kapıları, yoksa bina kapıları ile arasında, en az 100 metre mesafe bulunduğuna dair, il veya ilçe emniyet müdürlüğünden alınacak rapor,(1)
+e) Binanın ve çevresinin sağlık yönünden uygun olduğuna ilişkin, il veya ilçe toplum sağlığı merkezlerince düzenlenen rapor,
+f) Binanın kat veya katları, odaları, bahçesi için ayrı ayrı üç nüsha 35x50 cm veya A3 ebadında kâğıtlara çizilmiş yerleşim plânı örneği,
+g) Binanın sağlam ve dayanıklı olduğuna ilişkin; çevre ve şehircilik il müdürlükleri, yapının proje müellifleri ya da yetkili serbest proje büroları veya üniversitelerin ilgili bölümlerince düzenlenen teknik rapor (Ek ibare:RG-27/12/2025-33120) ve ekleri (binada ve binanın taşıyıcı sistemlerinde yapılan fiziksel değerlendirmeler (karot analizi) ile laboratuvar testlerinden sonra alınan verilerle hazırlanan proje sonrasında düzenlenen ayrıntılı rapor.),
+ğ) Numarataj belgesi.
+(4) (Değişik:RG-27/12/2025-33120) 18/3/2018 tarihli ve 30364 mükerrer sayılı Resmî Gazete’de yayımlanan Türkiye Bina Deprem Yönetmeliğinin yürürlüğe girdiği tarihten sonra yapı denetim firmalarının denetiminde yapılmış ve yapı inşaat ruhsatı bulunan binalardan sağlam ve dayanıklı olduğuna ilişkin belge istenmez.
+(5) Kurucunun bina ile ilgili belgeleri teslim etmesinden sonra, tüm belgelerin uygun olup olmadığı il müdürlüğünde görevli sosyal çalışma görevlileri tarafından on iş günü içerisinde değerlendirilir. Belgelerin uygun olduğunun tespit edilmesi halinde, kurucudan en geç bir ay içerisinde kuruluşun 17 nci maddeye uygun olarak tefrişinin yapılarak, ek-1’deki Güvenlik Bilgilendirme Formunda belirlenen esaslar çerçevesinde güvenlik önlemlerinin alınması resmi yazı ile istenir.
+(6) Tefriş yapıldıktan sonra il müdürlüğü tarafından yerinde inceleme yapılır ve inceleme sonucunda binanın fiziki şartları ile bulunması gereken araç ve gereçlerin kuruluşa uygunluğunu gösterir ek-2’deki Açılış İnceleme Raporu Formu ile kuruluşun oda ve bölümlerinin bina içindeki yerleri ve kapasite hesaplamasının belirtildiği bina durum değerlendirme raporu düzenlenir.

@@ -1,0 +1,3 @@
+Branş elemanlarının nitelikleri
+MADDE 31 – (1) Kuruluşlar çalışma saat ve düzenleri açısından gerekli gördükleri takdirde, yönetim ve grup sorumluluğu dışında; kendi branşında istihdam edilmek üzere sosyal hizmetler, psikoloji, çocuk gelişimi ve eğitimi, özel eğitim öğretmeni, doktor, diyetisyen, hemşire, müzik, resim, bilgisayar, yabancı dil ve benzeri bölüm mezunu elemanları da görevlendirebilirler.
+(2) Kuruluşlar, söz konusu branş elemanlarının branşlarını ve görevlendirilme şekillerini il müdürlüklerine bildirir. Kuruluşta görev alacaklardan 20 nci maddedeki belgeler istenir ve uygunluğu belirlenir.

@@ -1,0 +1,2 @@
+Sivil savunma planı
+MADDE 18 – (1) Açılış izin belgesinin düzenlenmesinden sonra en geç bir ay içinde, yangın, sabotaj ve depremde uygulanmak üzere hazırlanan ve İl Afet ve Acil Durum Müdürlüğü tarafından onaylanan sivil savunma planı, kuruluşun kolay görülebilen bir iç mekânına asılır. Personel ve çocuklara yönelik yıllık tatbikat yapılır ve yapılan tatbikat çalışmaları sivil savunma dosyasında bulundurulur. Kuruluşun hazırlayacağı dosyada, ek-7’deki belgeler bulunur.
