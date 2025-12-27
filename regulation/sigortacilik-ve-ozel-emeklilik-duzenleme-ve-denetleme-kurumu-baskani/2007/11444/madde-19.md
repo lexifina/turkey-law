@@ -1,0 +1,3 @@
+Primlerin tespiti
+MADDE 19 – (1) Primler, sigorta şirketlerince serbestçe belirlenir ve peşin olarak tahsil edilir. Prim tespitinde sigortalının riskini etkileyen diğer etmenlerle birlikte gözetim işlemi yapan (otoparklar-garajlar) ve alım satım ile uğraşan (oto galerileri) işletmeler için işyerinin araç yeri kapasitesi, onarım ve bakımı üstlenen (tamirhane-servis istasyonu) işletmeler için işyerinde sürekli çalışan personel sayısı esas alınır.
+(2) İşyerinin devri, faaliyetin durması, sona ermesi veya benzeri hallerde sigorta sözleşmesi feshedilebilir. Sigorta şirketinin sigorta sözleşmesinin fesih tarihine kadar hak kazandığı prim gün esasına göre tespit edilir ve fazlası sigorta ettirene geri verilir.

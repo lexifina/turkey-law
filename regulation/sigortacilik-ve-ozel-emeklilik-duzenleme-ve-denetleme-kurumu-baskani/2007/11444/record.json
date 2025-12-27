@@ -1,0 +1,93 @@
+{
+  "source_id": "7.5.11444",
+  "kind": "regulation",
+  "register_kind": "Kurum ve Kuruluş Yönetmelikleri",
+  "title": "KARAYOLLARI MOTORLU ARAÇLAR ZORUNLU MALİ SORUMLULUK SİGORTASINDA TARİFE UYGULAMA ESASLARI HAKKINDA YÖNETMELİK",
+  "number": "11444",
+  "issuer": "Sigortacılık ve Özel Emeklilik Düzenleme ve Denetleme Kurumu Başkanı",
+  "issuer_slug": "sigortacilik-ve-ozel-emeklilik-duzenleme-ve-denetleme-kurumu-baskani",
+  "path": "regulation/sigortacilik-ve-ozel-emeklilik-duzenleme-ve-denetleme-kurumu-baskani/2007/11444",
+  "source": "https://www.mevzuat.gov.tr/anasayfa/MevzuatFihristDetayIframe?MevzuatTur=7&MevzuatNo=11444&MevzuatTertip=5",
+  "source_sha256": "5370b932d5978fd5aeb41193b7677f293616fb220010d6ac742ea6ca81d907de",
+  "source_bytes": 127789,
+  "published": "2007-07-14",
+  "gazette": "26582",
+  "in_force": "2025-12-27",
+  "in_force_basis": "latest Resmî Gazete date printed in the source amendment notes/table (\"RG-27/12/2025\") for the current consolidated text",
+  "date_evidence": [
+    [
+      "2025-12-27",
+      "RG-27/12/2025",
+      "Resmî Gazete date printed in the source amendment note"
+    ],
+    [
+      "2025-12-27",
+      "27/12/2025",
+      "Resmî Gazete date in the source amendment table"
+    ],
+    [
+      "2024-12-26",
+      "RG-26/12/2024",
+      "Resmî Gazete date printed in the source amendment note"
+    ],
+    [
+      "2024-12-26",
+      "26/12/2024",
+      "Resmî Gazete date in the source amendment table"
+    ],
+    [
+      "2024-12-13",
+      "RG-13/12/2024",
+      "Resmî Gazete date printed in the source amendment note"
+    ],
+    [
+      "2024-12-13",
+      "13/12/2024",
+      "Resmî Gazete date in the source amendment table"
+    ],
+    [
+      "2023-12-14",
+      "RG-14/12/2023",
+      "Resmî Gazete date printed in the source amendment note"
+    ],
+    [
+      "2023-12-14",
+      "14/12/2023",
+      "Resmî Gazete date in the source amendment table"
+    ],
+    [
+      "2023-09-19",
+      "19/9/2023",
+      "Resmî Gazete date in the source amendment table"
+    ],
+    [
+      "2023-04-04",
+      "RG-4/4/2023",
+      "Resmî Gazete date printed in the source amendment note"
+    ],
+    [
+      "2023-04-04",
+      "4/4/2023",
+      "Resmî Gazete date in the source amendment table"
+    ],
+    [
+      "2022-12-31",
+      "RG-31/12/2022",
+      "Resmî Gazete date printed in the source amendment note"
+    ]
+  ],
+  "history": "current-text",
+  "label": "oldest version available",
+  "checked_on": "2026-11-15",
+  "word_count": 4154,
+  "text_status": "current-consolidated",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  },
+  "source_links": [
+    "7.5.11444-Ek.docx"
+  ],
+  "completeness": "html-text-complete; linked annexes not fetched"
+}

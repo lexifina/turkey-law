@@ -1,0 +1,5 @@
+Kısa süreli sigortalar
+MADDE 13 – (1) Sigorta süresi bir yıldır. Ancak, geçici plakalı araçlar, 10/7/2003 tarihli ve 4925 sayılı Karayolu Taşıma Kanununa tabi uluslararası eşya ve yolcu taşımacıları ve milletlerarası çok taraflı veya karşılıklı anlaşmalar kapsamına giren yabancı plakalı taşıtların Türkiye’de geçerli milletlerarası veya karşılıklı anlaşmalarla kabul edilmiş sigortaları yoksa, bunlar için trafik sigortası Türkiye sınırlarına girişleri sırasında kısa süreli sigorta olarak yapılabilir. (Ek cümle:RG-26/12/2024-32764) Kurum, 27/8/2024 tarihli ve 32645 sayılı Resmî Gazete’de yayımlanan Motorlu Kara Taşıtlarının Ticareti Hakkında Yönetmelik çerçevesinde ikinci el motorlu kara taşıtı ticareti yetki belgesini haiz işletmelerin işleten sıfatıyla akdedecekleri trafik sigortası sözleşmeleri için sigorta süresini otuz güne kadar indirmeye yetkilidir. Kısa süreli sigorta, bu (Değişik ibare:RG-26/12/2024-32764) durumların dışındaki araçlar için uygulanmaz.
+(2) (Mülga: RG-19/6/2013-28682)(4)
+(3) (Mülga: RG-19/6/2013-28682)(4)
+(4) (Mülga: RG-19/6/2013-28682)(4)

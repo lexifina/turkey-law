@@ -1,0 +1,3 @@
+Takas odası
+MADDE 27 – (1) Birden çok aracın karıştığı bir trafik kazasında zarar gören kişiler, araçların sigortacılarından herhangi birine veya 5684 sayılı Sigortacılık Kanununun 14 üncü maddesinde öngörülen durumlarda güvence hesabına başvurarak zararın giderilmesini isteyebilirler. Giderleri ödeyen sigortacı veya güvence hesabı, ödediği miktarın sorumluluk oranlarına göre paylaşılmasını talep edebilir.
+(2) Bu madde kapsamında yapılacak rücu talepleri 11/4/2007 tarihli ve 26490 sayılı Resmî Gazete’de yayımlanan Trafik Sigortaları Bilgi Merkezi Yönetmeliğinin 5 inci maddesinin ikinci fıkrasının (i) bendinde belirtilen takas odası üzerinden tazmin edilir.
