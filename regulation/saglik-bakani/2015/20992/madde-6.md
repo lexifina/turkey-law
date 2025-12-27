@@ -1,0 +1,5 @@
+Eğitim salonu özellikleri
+MADDE 6 – (1) İlkyardım eğitimi, (Mülga ibare:RG-27/8/2020-31226) (…) katılımcıların tamamının birbirlerini görebilmeleri için masa ve sandalyelerin ‘U’ şeklinde düzenlendiği, orta kısımda uygulamaların yapılabilmesine imkân veren en az 20 metrekarelik eğitim salonu bulunan, idare odası, eğitmen odası, lavabo, tuvalet ve katılımcıların dinlenme alanının bulunduğu, kişi başına asgari 3,5 metre kare kullanım alanı olan mekanlarda verilir.
+(2) Merkezler eğitimlerini, yukarıdaki eğitim salonu özelliklerini taşıması şartı ve Müdürlüğün onayı ile aynı il sınırları içinde diğer uygun yerlerde de verebilirler.
+(3) Genel Müdürlük, müdürlükler, eğitim ve araştırma hastaneleri, üniversitelerin sağlık ile ilgili fakülte ve yüksekokulları, Kızılay Genel Müdürlüğü ve halk eğitim müdürlükleri birinci fıkrada belirtilen eğitim salonu özelliklerini taşıması halinde, asli hizmetlerini verdikleri alanlarda da eğitim düzenleyebilir.
+(4) Bu Yönetmelikte belirtilen eğitim malzemeleri eğitim salonunda hazır bulundurulur.

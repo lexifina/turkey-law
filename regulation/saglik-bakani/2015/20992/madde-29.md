@@ -1,0 +1,4 @@
+Müeyyideler
+MADDE 29 – (1) Merkez sahibi ve mesul müdürüne ulaşılamayan, yetki belgesinde belirtilen adreste bulunmayan veya kapatılmasına dair başvuruda bulunulmadan kapandığı tespit edilen merkezler; on beş gün içerisinde müdürlükçe iki kez denetlenir ve merkezin adreste faaliyet göstermediği tutanak altına alınır. Merkez adına kapatma başvurusu aranmaksızın sürekli kapatma işlemi gerçekleştirilir ve Genel Müdürlüğe bildirilir.
+(2) Yönetmelikte belirlenen usul ve esaslara uymayanlar ile yasaklara aykırı hareket edenlere denetim formunda (Ek-8a) yer alan hükümler uygulanır.
+(3) Bakanlıkça düzenlenen eğitimlere katılarak yetki belgesi almış kamu personeli eğitimcilerinden; müdürlükçe, belge geçerlilik süresince görev yapmayı kabul ettiklerine ilişkin taahhütname alınır. Taahhüt süresinden önce kamudan istifa eden personelden eğitim ücreti alınır.

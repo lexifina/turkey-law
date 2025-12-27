@@ -1,0 +1,5 @@
+OED eğitimi
+GEÇİCİ MADDE 2 – (Ek:RG-27/8/2020-31226)
+(1) Bu maddenin yürürlüğe girdiği tarihten önce OED eğitimi almamış olan ilkyardımcılar veya ilkyardım eğitmenleri bu maddenin yürürlüğe girdiği tarihten itibaren 1 yıl içinde, OED tanıtımı, kullanıldığı durumlar ve OED uygulaması konularını içeren, 2 saat süreli OED eğitimi aldıkları takdirde, OED kullanımı ve eğitim yetkileri mevcut belgelerine işlenir. Eğitim sonunda katılımcıların başarılı sayılmaları için, pratik sınavda 100 tam puan almış olmaları gerekir.
+(2) Bu maddenin yürürlüğe girdiği tarihten önce OED eğitimi yetki belgesi almamış olan ilkyardım eğitim merkezleri ile ilkyardım eğitici eğitim merkezleri, bu maddenin yürürlüğe girdiği tarihten itibaren 1 yıl içinde OED eğitimi yetki belgesi almak zorundadır. OED eğitimi, OED eğitimi yetki belgesi olmayan merkezlerce düzenlenemez.
+(3) OED eğitiminin ücretlendirilmesinde, merkezlerce Ek-9’da yer alan OED eğitimi ücreti esas alınır, sağlık müdürlüklerince ise ücretsiz verilir.
