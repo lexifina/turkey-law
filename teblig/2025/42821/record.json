@@ -1,0 +1,29 @@
+{
+  "source_id": "9.5.42821",
+  "kind": "communique",
+  "register_kind": "Tebliğler",
+  "title": "2872 SAYILI ÇEVRE KANUNUNUN 20 NCİ MADDESİNİN BİRİNCİ FIKRASININ (K) BENDİ UYARINCA VERİLECEK İDARİ PARA CEZALARINA İLİŞKİN TEBLİĞ (TEBLİĞ NO: 2025/41)",
+  "number": "42821",
+  "path": "teblig/2025/42821",
+  "source": "https://www.mevzuat.gov.tr/anasayfa/MevzuatFihristDetayIframe?MevzuatTur=9&MevzuatNo=42821&MevzuatTertip=5",
+  "source_sha256": "80758a59e8199d7c0362dd7431c247027aae979d996294b0503e921962fb68d8",
+  "source_bytes": 10047,
+  "published": "2025-12-27",
+  "gazette": "33120",
+  "in_force": "2025-12-27",
+  "in_force_basis": "Resmî Gazete publication date in the official listing (27.12.2025)",
+  "history": "current-text",
+  "label": "oldest version available",
+  "checked_on": "2026-11-15",
+  "word_count": 181,
+  "text_status": "current-consolidated",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  },
+  "source_links": [
+    "9.5.42821%20Ek.docx"
+  ],
+  "completeness": "html-text-complete; linked annexes not fetched"
+}
