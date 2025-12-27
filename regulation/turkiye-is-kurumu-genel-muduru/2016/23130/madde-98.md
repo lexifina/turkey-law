@@ -1,0 +1,5 @@
+Hesaba ilişkin işlemler
+MADDE 98 – (1) Peşin ödenen giderlerden içinde bulunulan faaliyet dönemini takip eden dönemlerde giderleştirilecek olanlar, ilgili oldukları dönemlerde tahakkuk ettirilmek üzere bu hesapta izlenir.
+(2) Gelecek yıllara ait giderler hesabına kayıt yapılırken yardımcı hesap kodları ile birlikte bütçe sınıflandırmasında yer alan (Değişik ibare:RG-27/12/2025-33120)(8) program, kurumsal ve finansman kodları da kullanılır.
+(3) Dönem sonunda, bu hesapta yer alıp tahakkuk zamanına bir yıldan az bir süre kalan peşin ödenmiş giderler, düzenlenecek muhasebe işlem fişi ile dönen varlıklar ana hesap grubu içindeki gelecek aylara ait giderler hesabına aktarılır.
+(4) Bu hesapta kayıtlı tutarlar Genel Yönetim Muhasebe Yönetmeliği hükümleri çerçevesinde Bakanlıkça belirlenecek esas ve usullere göre enflasyon düzeltmesine tabi tutulur. Düzeltmeye esas tutarlar enflasyon düzeltmesinin yapılacağı yılda düzeltme katsayısı, daha önce düzeltilmiş tutarlar ise taşıma katsayısı ile çarpılmak suretiyle düzeltilir. Enflasyon düzeltmesi neticesinde doğacak değer artışları bu hesaba, karşılıkları enflasyon düzeltmesi hesabına kaydedilir.

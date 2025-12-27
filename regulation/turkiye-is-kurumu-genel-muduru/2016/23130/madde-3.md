@@ -1,0 +1,3 @@
+Dayanak
+MADDE 3 – (Değişik:RG-12/8/2021-31566)
+(1) Bu Yönetmelik; 10/12/2003 tarihli ve 5018 sayılı Kamu Malî Yönetimi ve Kontrol Kanununun 49 uncu maddesine, 25/8/1999 tarihli ve 4447 sayılı İşsizlik Sigortası Kanununun 53 üncü maddesine, 15/7/2018 tarihli ve 30479 sayılı Resmî Gazete’de yayımlanan 4 sayılı Bakanlıklara Bağlı, İlgili, İlişkili Kurum ve Kuruluşlar ile Diğer Kurum ve Kuruluşların Teşkilatı Hakkında Cumhurbaşkanlığı Kararnamesinin 623 üncü maddesinin birinci fıkrasının (ğ) bendinin (1) numaralı alt bendi ve 796 ncı maddesi ile 3/12/2014 tarihli ve 2014/7052 sayılı Bakanlar Kurulu Kararı ile yürürlüğe konulan Genel Yönetim Muhasebe Yönetmeliği hükümlerine dayanılarak hazırlanmıştır.

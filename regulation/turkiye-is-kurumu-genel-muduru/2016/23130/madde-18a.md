@@ -1,0 +1,5 @@
+104 Proje özel hesabı
+Hesabın niteliği
+MADDE 18/A - (Ek:RG-21/10/2017-30217)
+(1) Proje özel hesabı; dış finansman kaynağından, Kurum adına dış proje kredisi olarak Türkiye Cumhuriyet Merkez Bankası veya uygun görülen diğer bankalar nezdinde açılan özel hesaplara aktarılan tutarlar, bu tutarlardan yapılan giderler, verilen avanslar, açtırılan akreditifler ile avans ve akreditiflerden nakden geri alınanların ve hesap bakiyesinin değerlemesi sonucu ortaya çıkan kur farklarının izlenmesi için kullanılır.
+(2) Avrupa Birliği, uluslararası kuruluşlar veya uluslararası konsorsiyumlardan kapsam dâhilindeki kamu idarelerine proje karşılığı aktarılan hibe niteliğindeki tutarların uluslararası anlaşma hükümleri saklı kalmak kaydıyla izlenmesi, harcanması ve muhasebeleştirilmesinde 27/11/2007 tarihli ve 26713 sayılı Resmî Gazete’de yayımlanan Avrupa Birliği ve Uluslararası Kuruluşların Kaynaklarından Kamu İdarelerine Proje Karşılığı Aktarılan Hibe Tutarlarının Harcanması ve Muhasebeleştirilmesine İlişkin Yönetmelik hükümleri uygulanır.

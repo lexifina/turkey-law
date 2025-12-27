@@ -1,0 +1,5 @@
+Hesaba ilişkin işlemler
+MADDE 62 – (1) Gelecek aylara ait olarak peşin ödenen giderler, ilgili oldukları ay sonlarında tahakkuk ettirilmek üzere bu hesapta izlenir.
+(2) Dönem sonunda, duran varlıklar ana hesap grubu içindeki gelecek yıllara ait giderler hesabında yer alıp tahakkuk zamanına bir yıldan az süre kalan peşin ödenmiş giderler bu hesaba aktarılır.
+(3) Bu hesapta kayıtlı tutarlar Genel Yönetim Muhasebe Yönetmeliği hükümleri çerçevesinde Bakanlıkça belirlenecek esas ve usullere göre enflasyon düzeltmesine tabi tutulur. Düzeltmeye esas tutarlar enflasyon düzeltmesinin yapılacağı yılda düzeltme katsayısı, daha önce düzeltilmiş tutarlar ise taşıma katsayısı ile çarpılmak suretiyle düzeltilir. Enflasyon düzeltmesi neticesinde doğacak değer artışları bu hesaba, karşılıkları enflasyon düzeltmesi hesabına kaydedilir.
+(4) Gelecek aylara ait giderler hesabına kayıt yapılırken yardımcı hesap kodları ile birlikte bütçe sınıflandırmasında yer alan (Değişik ibare:RG-27/12/2025-33120)(8) program, kurumsal ve finansman kodları da kullanılır.

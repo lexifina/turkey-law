@@ -1,0 +1,3 @@
+122 Gelirlerden tecilli ve tehirli alacaklar hesabı
+Hesabın niteliği
+MADDE 35 – (1) Gelirlerden tecilli ve tehirli alacaklar hesabı; gelirlerden alacaklar veya gelirlerden takipli alacaklar ya da diğer faaliyet alacakları hesaplarında kayıtlı tutarlardan mevzuatı gereğince, bir yılı veya içinde bulunulan faaliyet dönemi sonunu geçmeyen bir süreyle tecil veya tehir edilen tutarlar ile duran varlıklar ana hesap grubu içindeki gelirlerden tecilli ve tehirli alacaklar hesabında kayıtlı alacaklardan, dönem sonunda tecil ve tehir süresi bir yılın altına inen tutarlar ve bunlardan tahsil edilen, tecil veya tehiri kaldırılanların izlenmesi için kullanılır.

@@ -1,0 +1,3 @@
+41 Uzun vadeli dış malî borçlar
+MADDE 146 – (1) Uzun vadeli dış malî borçlar hesap grubu; Devlet adına Hazine (Değişik ibare:RG-12/8/2021-31566) ve Maliye Bakanlığı tarafından herhangi bir dış finansman kaynağından belirli bir geri ödeme planına göre geri ödenmek üzere sağlanan dış finansman imkânlarından ikraz anlaşmalarıyla Kuruma kullandırılanlar ile bizzat dış finansman kaynağından temin edilen vadesi bir yılı aşan bir süreyle yabancı para üzerinden yapılan dış borçlanma, program ve dış proje kredi kullanımlarına ait anapara tutarlarıyla kur farklarının izlenmesi için kullanılır.
+(2) Uzun vadeli dış malî borçlar, niteliğine göre bu grup içinde açılacak 410-Dış Malî Borçlar Hesabından oluşur.

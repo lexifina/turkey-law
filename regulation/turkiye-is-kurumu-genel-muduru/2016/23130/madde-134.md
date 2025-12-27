@@ -1,0 +1,5 @@
+379 Diğer borç ve gider karşılıkları hesabı
+Hesabın niteliği
+MADDE 134 – (1) Diğer borç ve gider karşılıkları hesabı, kısa vadeli diğer borç ve gider karşılıklarının izlenmesi için kullanılır.
+(2) (Ek:RG-12/8/2021-31566)(4) Kurumun; geçmişteki bir olay sonucunda, kontrolünde olmayan gelecekteki belirsiz olayların gerçekleşmesi ya da gerçekleşmemesi ile teyit edilebilecek olan ve ekonomik bir fayda veya hizmet potansiyeli içeren kaynakların çıkışı güvenilir ve gerçekçi bir şekilde ölçülebilen yükümlülükleri için ayrılan karşılıklardan kısa vadeli olan ve bu Yönetmelikte diğer hesaplarla ilişkilendirilmeyenler bu hesaba kaydedilir. Koşullu yükümlülüklerden, ekonomik bir fayda veya hizmet potansiyeli içeren kaynakların çıkışı güvenilir ve gerçekçi bir şekilde tahmin edilenler için karşılık ayrılır ve nazım hesaplar ana hesap grubunda ihtiyaca göre açılmış hesaplarda kayıtlı koşullu yükümlülük tutarları ilgili hesaplardan çıkarılır.
+(3) Uzun vadeli yabancı kaynaklar ana hesap grubu içindeki diğer borç ve gider karşılıkları hesabında kayıtlı tutarlardan, izleyen dönemde ödeneceği öngörülen borç ve gider karşılıkları dönem sonunda bu hesaba kaydedilir.

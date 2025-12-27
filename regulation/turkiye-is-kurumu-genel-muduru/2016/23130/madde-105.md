@@ -1,0 +1,2 @@
+MADDE 105 – (1) Kısa vadeli yabancı kaynaklar ana hesap grubu, bir yıl veya faaliyet dönemi içinde geri ödenmesi gereken yabancı kaynakları kapsar.
+(2) Kısa vadeli yabancı kaynaklar ana hesap grubu; kısa vadeli iç malî borçlar, kısa vadeli dış malî borçlar, faaliyet borçları, emanet yabancı kaynaklar, alınan avanslar, ödenecek diğer yükümlülükler, borç ve gider karşılıkları, gelecek aylara ait gelirler ve gider tahakkukları ile diğer kısa vadeli yabancı kaynaklar hesap gruplarına ayrılır.

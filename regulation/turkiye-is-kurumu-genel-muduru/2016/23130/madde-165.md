@@ -1,0 +1,6 @@
+Hesaba ilişkin işlemler
+MADDE 165 – (1) Gider olarak tahakkuk ettirilmiş olup, içinde bulunulan faaliyet dönemini takip eden dönemlerde ödenebilir duruma gelecek olan giderlerden kaynaklanan borçlar, ilgili olduğu dönemde ödenmek üzere bu hesapta izlenir.
+(2) Gider tahakkukları hesabına kayıt yapılırken yardımcı hesap kodları ile birlikte bütçe sınıflandırmasında yer alan (Değişik ibare:RG-27/12/2025-33120)(8) program, kurumsal ve finansman kodları da kullanılır.
+(3) Uzun vadeli yabancı kaynaklar ana hesap grubu içindeki hesaplarda yer alan iç ve dış malî borçlar için ay sonlarında hesaplanan ve içinde bulunulan faaliyet dönemini takip eden dönemlerde ödenecek olan işlemiş faiz giderleri bu hesaba kaydedilir. Aralık ayına ait olarak tahakkuk ettirilen faiz gideri borçlarından takip eden faaliyet döneminden sonraki dönemlerde ödenmesi gerekenler geçici mizandan önce bu hesaba kaydedilir.
+(4) Gider tahakkukları hesabında takip edilen döviz cinsinden faiz gideri tahakkukları, faaliyet dönemi içinde ay sonlarında, faaliyet dönemi sonlarında geçici mizandan önce Türkiye Cumhuriyet Merkez Bankası döviz satış kuru ile değerlenir.
+(5) Dönem sonunda, bu hesapta yer alıp ödeme zamanına bir yıldan az süre kalan borçlar, düzenlenecek muhasebe işlem fişi ile kısa vadeli yabancı kaynaklar ana hesap grubu içindeki gider tahakkukları hesabına aktarılır.

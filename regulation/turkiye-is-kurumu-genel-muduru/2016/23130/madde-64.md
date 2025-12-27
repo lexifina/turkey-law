@@ -1,0 +1,6 @@
+Hesaba ilişkin işlemler
+MADDE 64 – (1) Tahakkuk ettirilmiş gelirlerden kaynaklanan ancak içinde bulunulan faaliyet döneminin gelecek aylarında istenebilir duruma gelecek olan alacaklar, ilgili oldukları aylarda tahsil edilmek üzere bu hesapta izlenir.
+(2) Dönen ve duran varlıklar ana hesap grubu içindeki kurum alacakları hesaplarında kayıtlı alacaklara ilişkin olarak ay sonlarında hesaplanan ve içinde bulunulan faaliyet döneminin gelecek aylarında tahsil edilecek olan işlemiş faiz geliri alacakları bu hesaba kaydedilir. Aralık ayına ait olarak tahakkuk ettirilen faiz geliri alacaklarından takip eden faaliyet dönemi içinde tahsili gerekenler geçici mizandan önce bu hesaba kaydedilir.
+(3) Duran varlıklar ana hesap grubu içindeki gelir tahakkukları hesabında yer alıp tahsil zamanına bir yıldan az süre kalan alacaklar dönem sonunda bu hesaba aktarılır.
+(4) Gelir tahakkukları hesabında takip edilen döviz cinsinden faiz geliri tahakkukları, faaliyet dönemi içinde ay sonlarında, faaliyet dönemi sonlarında geçici mizandan önce ve tahsil tarihinde Türkiye Cumhuriyet Merkez Bankası döviz satış kuru ile değerlenir.
+(5) Gelir tahakkukları hesabında yer alan tutarlardan vadesinde tahsil edilemeyenler, takipteki kurum alacakları hesabına aktarılarak takibe alınır.

@@ -1,0 +1,6 @@
+Hesaba ilişkin işlemler
+MADDE 137 – (1) Gelecek aylara ait olarak peşin tahsil edilen gelirler, ilgili oldukları ay sonlarında tahakkuk ettirilmek üzere bu hesapta izlenir.
+(2) (Ek:RG-12/8/2021-31566)(5) Faaliyet dönemi sonuna kadar şart kılınan amaçlar çerçevesinde kullanıldıklarında gelirler hesabına aktarılmak üzere tahsil olunan şartlı bağış ve yardımlar bu hesaba kaydedilir.
+(3) Dönem sonunda, uzun vadeli yabancı kaynaklar ana hesap grubu içindeki gelecek yıllara ait gelirler hesabında yer alıp, tahakkuk zamanına bir yıldan az süre kalan peşin tahsil edilmiş gelirler bu hesaba aktarılır.
+(4) Gelecek aylara ait gelirler hesabında kayıtlı peşin olarak tahsil edilerek bütçeleştirilmiş olan gelirler, ilgili oldukları dönemde düzenlenecek muhasebe işlem fişi ile gelirler hesabına kaydedilir.
+(5) Gelecek aylara ait gelirler hesabında kayıtlı tutarlar Genel Yönetim Muhasebe Yönetmeliği hükümleri çerçevesinde Bakanlıkça belirlenecek esas ve usullere göre enflasyon düzeltmesine tabi tutulur. Düzeltmeye esas tutarlar enflasyon düzeltmesinin yapılacağı yılda düzeltme katsayısı, daha önce düzeltilmiş tutarlar ise taşıma katsayısı ile çarpılmak suretiyle düzeltilir. Enflasyon düzeltmesi neticesinde doğacak değer artışları bu hesaba, karşılıkları enflasyon düzeltmesi hesabına kaydedilir.

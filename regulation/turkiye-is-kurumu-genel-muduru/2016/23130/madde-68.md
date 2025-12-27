@@ -1,0 +1,2 @@
+MADDE 68 – (1) Duran varlıklar ana hesap grubu; bir yıldan daha uzun sürelerle Kurum faaliyetlerinin gerçekleştirilmesi için kullanılmak amacıyla edinilen ve ilke olarak bir yıl içinde paraya çevrilmesi veya tüketilmesi öngörülmeyen varlık ve alacak unsurlarını kapsar.
+(2) Duran varlıklar ana hesap grubu; faaliyet alacakları, kurum alacakları, maddi duran varlıklar, maddi olmayan duran varlıklar, gelecek yıllara ait giderler ve gelir tahakkukları ile diğer duran varlıklar hesap grupları şeklinde bölümlenir.

@@ -1,0 +1,4 @@
+Hesaba ilişkin işlemler
+MADDE 40/C – (Ek:RG-12/8/2021-31566)
+(1) Kaynakları tek hazine kurumlar hesabı kapsamında değerlendirilen Kurum muhasebe birimlerince Hazine hesaplarına aktarılan tutarlar ve ödemelerden iadeler, tek hazine kurumlar hesabından kurum tek idare hesaplarına yapılan aktarımlar ile genel bütçeden transfer niteliğinde aktarım yapılan kamu idarelerine yönelik olarak tahakkuka bağlanan ve Hazine ve Maliye Bakanlığınca ilgili idareye aktarımı onaylanan tutarların ilgili idarece takibi amacıyla bu hesap kullanılır.
+(2) Tek hazine kurumlar hesabı kapsamında gerçekleştirilen işlemler için bu hesabın ilgili yardımcı hesap kodları kullanılır. İlgili idarelerin gelir ve gider bütçelerine yönelik nakit hareketleri ile ilgili mevzuatı uyarınca ilgili idareye verilen yetki doğrultusunda açılan özel hesaplara ilişkin nakit hareketleri farklı yardımcı hesap kodlarında takip edilir.

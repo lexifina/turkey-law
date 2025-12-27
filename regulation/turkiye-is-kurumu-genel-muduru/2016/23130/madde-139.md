@@ -1,0 +1,5 @@
+Hesaba ilişkin işlemler
+MADDE 139 – (1) Uzun veya kısa vadeli yabancı kaynaklar ana hesap grubu içinde yer alan, iç ve dış malî borçlara ilişkin olarak ay sonlarında tahakkuk ettirilen ve gelecek aylarda ya da içinde bulunulan faaliyet dönemini takip eden dönemde ödenecek olan işlemiş faiz tutarı bu hesaba kaydedilir. Aralık ayına ait olarak tahakkuk ettirilen faiz gideri borçlarından takip eden faaliyet dönemi içinde ödenmesi gerekenler geçici mizandan önce bu hesaba kaydedilir.
+(2) Gider tahakkukları hesabına kayıt yapılırken yardımcı hesap kodları ile birlikte bütçe sınıflandırmasında yer alan (Değişik ibare:RG-27/12/2025-33120)(8) program, kurumsal ve finansman kodları da kullanılır.
+(3) Uzun vadeli yabancı kaynaklar ana hesap grubu içindeki gider tahakkukları hesabında yer alıp, ödeme zamanına bir yıldan az süre kalan tutarlar dönem sonlarında bu hesaba aktarılır.
+(4) Gider tahakkukları hesabında takip edilen döviz cinsinden faiz gideri tahakkukları, faaliyet dönemi içinde ay sonlarında, faaliyet dönemi sonunda geçici mizandan önce ve ödeme tarihinde Türkiye Cumhuriyet Merkez Bankası döviz satış kuru ile değerlenir.

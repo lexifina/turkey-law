@@ -1,0 +1,2 @@
+MADDE 143 – (1) Uzun vadeli yabancı kaynaklar ana hesap grubu, vadesi bir yılı aşan uzun vadeli yabancı kaynakları kapsar.
+(2) Uzun vadeli yabancı kaynaklar ana hesap grubu, uzun vadeli iç malî borçlar, uzun vadeli dış malî borçlar, faaliyet borçları, diğer borçlar, alınan avanslar, borç ve gider karşılıkları, gelecek yıllara ait gelirler ve gider tahakkukları ile diğer uzun vadeli yabancı kaynaklar hesap gruplarına ayrılır.

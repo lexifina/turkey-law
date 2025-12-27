@@ -1,0 +1,2 @@
+MADDE 184 – (1) Faaliyet hesapları ana hesap grubu, faaliyet dönemine ilişkin olarak tahakkuk eden her türlü gelir ve giderlerinin ekonomik sınıflandırmaya uygun olarak izlenmesi, enflasyon düzeltmesi sonucu oluşan farkların kaydedilmesi ve faaliyet sonuçlarının üretilmesi için kullanılır.
+(2) Faaliyet hesapları ana hesap grubu; gelir hesapları, gider hesapları (Ek ibare:RG-12/8/2021-31566) , indirim, iade ve iskonto hesapları ve faaliyet sonuçları hesap grupları şeklinde bölümlenir.

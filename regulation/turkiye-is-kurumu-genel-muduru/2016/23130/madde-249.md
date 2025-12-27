@@ -1,0 +1,2 @@
+Sayımlarda kullanılacak tutanaklar
+MADDE 249 – (1) Muhasebe birimlerinde ve muhasebe yetkilisi mutemetliklerinde yıl sonunda yapılan sayımlarda; paralar için “Kasa Sayımı Tutanağı” (Örnek:25/A) ve “Banka Mevcudu Tespit Tutanağı” (Örnek:25/B), alınan çekler için “Alınan Çekler Sayım Tutanağı” (Örnek:25/C), kişilere ait olanlar dâhil menkul kıymet ve varlıklar ve teminat mektupları sayımında “Menkul Kıymet ve Varlıklar/Teminat Mektupları Sayım Tutanağı” (Örnek:25/Ç) kullanılır. Örneğine uygun olarak üçer nüsha düzenlenen bu tutanaklar, muhasebe biriminde muhafaza edilir.

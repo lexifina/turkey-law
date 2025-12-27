@@ -1,0 +1,66 @@
+{
+  "source_id": "7.5.23130",
+  "kind": "regulation",
+  "register_kind": "Kurum ve Kuruluş Yönetmelikleri",
+  "title": "TÜRKİYE İŞ KURUMU MUHASEBE UYGULAMA YÖNETMELİĞİ",
+  "number": "23130",
+  "issuer": "Türkiye İş Kurumu Genel Müdürü",
+  "issuer_slug": "turkiye-is-kurumu-genel-muduru",
+  "path": "regulation/turkiye-is-kurumu-genel-muduru/2016/23130",
+  "source": "https://www.mevzuat.gov.tr/anasayfa/MevzuatFihristDetayIframe?MevzuatTur=7&MevzuatNo=23130&MevzuatTertip=5",
+  "source_sha256": "79d5a0e76da5da1f69468f969dc6749fbae8649a78105b00229f2c07dc0d7485",
+  "source_bytes": 583745,
+  "published": "2016-12-23",
+  "gazette": "29927 Mükerrer",
+  "in_force": "2025-12-27",
+  "in_force_basis": "latest Resmî Gazete date printed in the source amendment notes/table (\"RG-27/12/2025\") for the current consolidated text",
+  "date_evidence": [
+    [
+      "2025-12-27",
+      "RG-27/12/2025",
+      "Resmî Gazete date printed in the source amendment note"
+    ],
+    [
+      "2025-12-27",
+      "27/12/2025",
+      "Resmî Gazete date in the source amendment table"
+    ],
+    [
+      "2021-08-12",
+      "RG-12/8/2021",
+      "Resmî Gazete date printed in the source amendment note"
+    ],
+    [
+      "2021-08-12",
+      "12/8/2021",
+      "Resmî Gazete date in the source amendment table"
+    ],
+    [
+      "2017-10-21",
+      "RG-21/10/2017",
+      "Resmî Gazete date printed in the source amendment note"
+    ],
+    [
+      "2017-10-21",
+      "21/10/2017",
+      "Resmî Gazete date in the source amendment table"
+    ]
+  ],
+  "commencement_clauses": [
+    "Bu Yönetmelik 1/1/2017 tarihinde yürürlüğe girer"
+  ],
+  "history": "current-text",
+  "label": "oldest version available",
+  "checked_on": "2026-11-15",
+  "word_count": 31644,
+  "text_status": "current-consolidated",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  },
+  "source_links": [
+    "7.5.23130-Ek.xlsx"
+  ],
+  "completeness": "html-text-complete; linked annexes not fetched"
+}

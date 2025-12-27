@@ -1,0 +1,2 @@
+Hak sahipleri tarafından kaybedilen çekler
+MADDE 254 – (1) Herhangi bir kimsenin alacağına karşılık verilen çeklerin, ilgilileri tarafından kaybedildiği bir dilekçe ile bildirildiği takdirde, ibrazında ödenmemesi için, kaybedilen çekin gün ve sayısı ile tutarı derhal ilgili bankaya bir yazı ile bildirilir. Gerekli tedbirlerin alındığının banka tarafından muhasebe birimine bildirilmesini müteakip söz konusu tutar ilgilisine ödenir.
