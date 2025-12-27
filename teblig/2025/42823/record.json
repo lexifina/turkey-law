@@ -1,0 +1,30 @@
+{
+  "source_id": "9.5.42823",
+  "kind": "communique",
+  "register_kind": "Tebliğler",
+  "title": "ULUSLARARASI GÖZETİM ŞİRKETİNİN FAALİYETİNİN SÜRELİ DURDURULMASI HAKKINDA TEBLİĞ (ÜRÜN GÜVENLİĞİ VE DENETİMİ: 2025/36)",
+  "number": "42823",
+  "issuer": "Ticaret Bakanı",
+  "path": "teblig/2025/42823",
+  "source": "https://www.mevzuat.gov.tr/anasayfa/MevzuatFihristDetayIframe?MevzuatTur=9&MevzuatNo=42823&MevzuatTertip=5",
+  "source_sha256": "cb91f8050f12854e18a42bd5eb8366e036df470b8d923d6b956b39cba0179e4f",
+  "source_bytes": 12368,
+  "published": "2025-12-27",
+  "gazette": "33120",
+  "in_force": "2025-12-27",
+  "in_force_basis": "Resmî Gazete publication date in the official listing (27.12.2025); own commencement article: \"Bu Tebliğ yayımı tarihinden 15 gün sonra yürürlüğe girer\"",
+  "commencement_clauses": [
+    "Bu Tebliğ yayımı tarihinden 15 gün sonra yürürlüğe girer"
+  ],
+  "history": "current-text",
+  "label": "oldest version available",
+  "checked_on": "2026-11-15",
+  "word_count": 131,
+  "text_status": "current-consolidated",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  },
+  "completeness": "html-text-complete"
+}

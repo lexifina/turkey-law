@@ -1,0 +1,3 @@
+MADDE 1- (1) 31/12/2014 tarihli ve 29222 sayılı Resmî Gazete’de yayımlanan mülga Uluslararası Gözetim Şirketi Statüsüne İlişkin Tebliğ (Ürün Güvenliği ve Denetimi: 2015/24) hükümlerine aykırı davranan, aşağıda ünvanı ve adresi belirtilen şirketin anılan Tebliğ kapsamındaki faaliyetleri; 14/9/2022 tarihli ve 6038 sayılı Cumhurbaşkanı Kararı ile yürürlüğe konulan Teknik Düzenlemeler Rejimi Kararının 13 üncü maddesinin birinci fıkrasının (ç) bendi ve söz konusu Tebliğin 15 inci maddesinin ikinci fıkrasının (b) bendi uyarınca karşısında gösterilen süre ile durdurulmuştur.
+Firma Ünvanı | Adres | Süre
+KRMP LOJ.SAN. VE TİC.LTD.ŞTİ | DEMİRSUBAŞI MAH.İBRAHİM AKIT CAD. AKITLAR İŞ MERKEZİ NO:6 İÇ KAPI NO:402 GEMLİK/BURSA | Bir (1) ay
