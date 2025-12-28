@@ -1,0 +1,3 @@
+Müdür
+MADDE 8- (1) Müdür; Zerzevan Kalesi kazı çalışmalarında yer alan Üniversitenin öğretim elemanları arasından Rektör tarafından üç yıllık süre için görevlendirilir. Görev süresi sona eren Müdür aynı usulle yeniden görevlendirilebilir.
+(2) Müdüre çalışmalarında yardımcı olmak üzere Merkezin faaliyet alanlarıyla ilgili çalışmaları bulunan Üniversitenin öğretim elemanları arasından Müdürün önerisi üzerine en fazla iki kişi Rektör tarafından müdür yardımcısı olarak görevlendirilir. Müdür görevi başında olmadığı zamanlarda müdür yardımcılarından biri Müdüre vekâlet eder. Müdür yardımcılarının görev süresi üç yıldır. Görev süresi sona eren müdür yardımcıları aynı usulle yeniden görevlendirilebilir. Müdürün görevi sona erdiğinde müdür yardımcılarının da görevi sona erer.
