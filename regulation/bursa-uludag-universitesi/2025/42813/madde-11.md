@@ -1,0 +1,4 @@
+Yönetim Kurulu
+MADDE 11- (1) Yönetim Kurulu; Dekanın başkanlığında, bir dekan yardımcısı, Müdür (Başhekim), Klinik Bilimler Bölüm Başkanı ve farklı anabilim dallarında görev yapan öğretim üyeleri arasından Dekanın önerisi üzerine Rektör tarafından üç yıllık süre için görevlendirilen üç öğretim üyesi olmak üzere toplam yedi üyeden oluşur.
+(2) Yönetim Kurulu, üye tam sayısının salt çoğunluğuyla toplanır ve kararlar oy çokluğu ile alınır. Oyların eşitliği durumunda başkanın oyu yönünde karar alınmış sayılır.
+(3) Yönetim Kurulu üyelerinin görev süreleri üç yıldır. Görev süresi biten üye aynı usulle yeniden görevlendirilebilir. Herhangi bir nedenle görevinden ayrılan üyenin yerine kalan süreyi tamamlamak üzere aynı usulle yeni bir üye görevlendirilir. Yönetim Kurulu raportörlüğünü Hastane Müdürü yapar.

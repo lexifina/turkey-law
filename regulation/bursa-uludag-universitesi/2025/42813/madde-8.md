@@ -1,0 +1,4 @@
+Müdür (Başhekim)
+MADDE 8- (1) Müdür (Başhekim); Merkezin faaliyet alanlarıyla ilgili çalışmaları bulunan Fakülte öğretim üyeleri arasından Dekanın önerisi ile Rektör tarafından üç yıllık süre için görevlendirilir. Dekanın görevi sona erdiğinde Müdürün (Başhekimin) de görevi kendiliğinden sona erer. Görev süresi biten Müdür (Başhekim) aynı usulle yeniden görevlendirilebilir veya süresinden önce Rektör tarafından görevden alınabilir.
+(2) Müdür (Başhekim); Merkezin idari, sağlık ve eğitim hizmetlerinin koordineli bir şekilde yürütülmesinden Dekana karşı sorumludur.
+(3) Müdürün (Başhekimin) görevi başında bulunmadığı zamanlarda yerine müdür yardımcılarından biri vekâlet eder. Vekâlet süresi altı ayı geçemez. Vekâletin altı aydan uzun sürmesi halinde yerine aynı usulle yeni Müdür (Başhekim) görevlendirilir.

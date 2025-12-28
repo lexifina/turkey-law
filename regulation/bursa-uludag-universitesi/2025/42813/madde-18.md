@@ -1,0 +1,3 @@
+Sorumlu hemşire (Başhemşire) ve görevleri
+MADDE 18- (1) Sorumlu Hemşire (Başhemşire), ilgili mevzuat hükümlerine uygun olarak hemşirelik lisans mezunu adaylar arasından Müdürün (Başhekimin) önerisi ile Dekanın uygun görüşü üzerine Rektör tarafından görevlendirilir. Sorumlu hemşire (Başhemşire) faaliyetlerinden Müdüre (Başhekime) ve Dekana karşı sorumludur.
+(2) Merkezde görevli hemşireler ve sağlık hizmetlerinde çalışan diğer personel, Sorumlu Hemşire (Başhemşire) sorumluluğunda olup hemşirelik hizmetlerinin yönetimi ve organizasyonu konusunda Merkezin organlarının belirlediği usul ve esaslara göre çalışmak ve Müdür (Başhekim) tarafından verilen diğer görevleri yapmakla yükümlüdür.
