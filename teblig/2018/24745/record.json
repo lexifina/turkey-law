@@ -1,0 +1,50 @@
+{
+  "source_id": "9.5.24745",
+  "kind": "communique",
+  "register_kind": "Tebliğler",
+  "title": "FİLİSTİN DEVLETİ MENŞELİ BAZI ÜRÜNLERİN İTHALATINDA TARİFE KONTENJANI UYGULANMASINA İLİŞKİN TEBLİĞ",
+  "number": "24745",
+  "issuer": "Ekonomi Bakanı",
+  "path": "teblig/2018/24745",
+  "source": "https://www.mevzuat.gov.tr/anasayfa/MevzuatFihristDetayIframe?MevzuatTur=9&MevzuatNo=24745&MevzuatTertip=5",
+  "source_sha256": "930ef0d619b9e0b3704d992fa5375775a72ed7b59ff8a4432a544fe41eb44e04",
+  "source_bytes": 44124,
+  "published": "2018-07-07",
+  "gazette": "30471 Mükerrer",
+  "in_force": "2025-12-29",
+  "in_force_basis": "latest Resmî Gazete date printed in the source amendment notes/table (\"29/12/2025\") for the current consolidated text",
+  "date_evidence": [
+    [
+      "2025-12-29",
+      "29/12/2025",
+      "Resmî Gazete date in the source amendment table"
+    ],
+    [
+      "2024-06-30",
+      "RG-30/6/2024",
+      "Resmî Gazete date printed in the source amendment note"
+    ],
+    [
+      "2024-06-30",
+      "30/6/2024",
+      "Resmî Gazete date in the source amendment table"
+    ]
+  ],
+  "commencement_clauses": [
+    "Bu Tebliğ yayımı tarihinde yürürlüğe girer"
+  ],
+  "history": "current-text",
+  "label": "oldest version available",
+  "checked_on": "2026-11-15",
+  "word_count": 1992,
+  "text_status": "current-consolidated",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  },
+  "source_links": [
+    "9.5.24745-Ek.doc"
+  ],
+  "completeness": "html-text-complete; linked annexes not fetched"
+}

@@ -1,0 +1,1 @@
+[1] 30/6/2024 tarihli ve 32588 sayılı Resmî Gazete’de yayımlanan değişiklik ile Tebliğin Adı “Filistin Ulusal Yönetimi Menşeli Bazı Tarım Ürünleri İthalatında Tarife Kontenjanı Uygulanmasına İlişkin Tebliğ” iken metne işlendiği şekilde değiştirilmiştir.
