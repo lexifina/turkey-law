@@ -1,0 +1,22 @@
+{
+  "kind": "norm",
+  "issuer": "Gelir İdaresi Başkanlığı",
+  "document_type": "ozelge",
+  "number": "16700543-155[25-515-88]-163921",
+  "source_id": 38798,
+  "date": "2025-12-29",
+  "title": "İhracata ilişkin düzenlenen temsilcilik sözleşmesinin damga vergisi istisnası hk.",
+  "source": "https://gib.gov.tr/mevzuat/kanun/438/ozelge/38798",
+  "related_law": "488 sayılı DAMGA VERGİSİ KANUNU",
+  "source_api": "https://gib.gov.tr/api/gibportal/mevzuat/ozelge/list",
+  "source_listing": "evidence/list/2026-11-16/ozelge-p009.json",
+  "source_listing_sha256": "9cb52b4963a9a177a23948f6e28c12936c2f43c88a0b410872bb81c01983667c",
+  "source_sha256": "49a47af5082d1fba3055d7e569a1af65bb3532262f97571982de9a7e362a0574",
+  "text_status": "as-enacted",
+  "text_file": "metin.md",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  }
+}
