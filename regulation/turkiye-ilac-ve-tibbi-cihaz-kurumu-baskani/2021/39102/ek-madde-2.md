@@ -1,0 +1,3 @@
+Bütünleşik tıbbi cihaz içeren beşeri tıbbi ürünler için yapılan çeşitleme başvuruları
+EK MADDE 2- (Ek: RG-3/12/2024-32741)
+(1) Ruhsatlı Beşeri Tıbbi Ürünlerdeki Varyasyonlara Dair Yönetmelik kapsamında çeşitleme başvurusunda bulunulan bir beşeri tıbbi ürünün bütünleşik tıbbi cihaz içermesi halinde, başvuru sahibi tarafından hâlihazırda ruhsatlı beşeri tıbbi ürünün bütünleşik tıbbi cihazında değişiklik/ekleme/çıkarma ya da cihazın performansını etkileyecek bir değişiklik olmadığının beyan edilmesi durumunda çeşitleme başvurusu yapılan beşeri tıbbi ürünün bütünleşik tıbbi cihazına ilişkin CE sertifikası veya onaylanmış kuruluş görüşü aranmaz.

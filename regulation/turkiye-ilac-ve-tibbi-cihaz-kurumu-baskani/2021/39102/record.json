@@ -1,0 +1,93 @@
+{
+  "source_id": "7.5.39102",
+  "kind": "regulation",
+  "register_kind": "Kurum ve Kuruluş Yönetmelikleri",
+  "title": "BEŞERİ TIBBİ ÜRÜNLER RUHSATLANDIRMA YÖNETMELİĞİ",
+  "number": "39102",
+  "issuer": "Türkiye İlaç ve Tıbbi Cihaz Kurumu Başkanı",
+  "issuer_slug": "turkiye-ilac-ve-tibbi-cihaz-kurumu-baskani",
+  "path": "regulation/turkiye-ilac-ve-tibbi-cihaz-kurumu-baskani/2021/39102",
+  "source": "https://www.mevzuat.gov.tr/anasayfa/MevzuatFihristDetayIframe?MevzuatTur=7&MevzuatNo=39102&MevzuatTertip=5",
+  "source_sha256": "c1a655abc80bf793b2e42b4fa4ea9742ae5ef2c5f8d6e5eddc5b2340b7910d1e",
+  "source_bytes": 211108,
+  "published": "2021-12-11",
+  "gazette": "31686",
+  "in_force": "2025-12-30",
+  "in_force_basis": "latest Resmî Gazete date printed in the source amendment notes/table (\"RG-30/12/2025\") for the current consolidated text",
+  "date_evidence": [
+    [
+      "2025-12-30",
+      "RG-30/12/2025",
+      "Resmî Gazete date printed in the source amendment note"
+    ],
+    [
+      "2025-12-30",
+      "30/12/2025",
+      "Resmî Gazete date in the source amendment table"
+    ],
+    [
+      "2025-05-23",
+      "RG-23/5/2025",
+      "Resmî Gazete date printed in the source amendment note"
+    ],
+    [
+      "2025-05-23",
+      "23/5/2025",
+      "Resmî Gazete date in the source amendment table"
+    ],
+    [
+      "2024-12-03",
+      "RG-3/12/2024",
+      "Resmî Gazete date printed in the source amendment note"
+    ],
+    [
+      "2024-12-03",
+      "3/12/2024",
+      "Resmî Gazete date in the source amendment table"
+    ],
+    [
+      "2023-12-26",
+      "RG-26/12/2023",
+      "Resmî Gazete date printed in the source amendment note"
+    ],
+    [
+      "2023-12-26",
+      "26/12/2023",
+      "Resmî Gazete date in the source amendment table"
+    ],
+    [
+      "2023-05-27",
+      "RG-27/5/2023",
+      "Resmî Gazete date printed in the source amendment note"
+    ],
+    [
+      "2023-05-27",
+      "27/5/2023",
+      "Resmî Gazete date in the source amendment table"
+    ],
+    [
+      "2022-12-14",
+      "RG-14/12/2022",
+      "Resmî Gazete date printed in the source amendment note"
+    ],
+    [
+      "2022-12-14",
+      "14/12/2022",
+      "Resmî Gazete date in the source amendment table"
+    ]
+  ],
+  "history": "current-text",
+  "label": "oldest version available",
+  "checked_on": "2026-11-15",
+  "word_count": 13383,
+  "text_status": "current-consolidated",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  },
+  "source_links": [
+    "7.5.39102-Ek.docx"
+  ],
+  "completeness": "html-text-complete; linked annexes not fetched"
+}

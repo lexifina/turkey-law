@@ -1,0 +1,5 @@
+Başvurunun esastan reddinin bildirimi ve itiraz
+MADDE 19 – (1) (Değişik:RG-24/9/2022-31963) Ruhsat başvurusunun esastan reddi halinde karar gerekçeli olarak başvuru sahibine bildirilir veya bildirim yapılamaması halinde Kurum internet sitesinde ilan edilebilir. Başvuru sahibinin karara karşı bildirim veya ilan tarihinden itibaren kırk beş gün içinde Kuruma itiraz etme hakkı vardır. Kırk beş gün içinde itiraz edilmediği takdirde, başvuru belgeleri sahibine iade edilir. Başvuru sahibinin belgeleri iade almaması durumunda; 18/10/2019 tarihli ve 30922 sayılı Resmî Gazete’de yayımlanan Devlet Arşiv Hizmetleri Hakkında Yönetmelik hükümleri uygulanır.
+(2) İtiraz doksan gün içinde Kurum tarafından değerlendirilerek sonucu başvuru sahibine bildirilir. İtirazın değerlendirilmesi sırasında, gerekli görülür ise başvuru sahibine sözlü açıklama ve savunma hakkı verilir.
+(3) İtirazın değerlendirilmesi sonucunda çıkan karar kesin olup mezkur karara ilişkin Kuruma itiraz edilemez.
+(4) Başvurunun esastan reddedilmesi, başvuru sahibinin yeniden bir ruhsat başvurusu yapmasına engel değildir.

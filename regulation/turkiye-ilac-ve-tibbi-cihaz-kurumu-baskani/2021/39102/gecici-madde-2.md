@@ -1,0 +1,4 @@
+Sertifikalı ruhsata geçiş
+GEÇİCİ MADDE 2 – (1) Sertifikalı ruhsatı olmayan beşeri tıbbi ürünler için, Kurum tarafından ilan edilen geçiş takvimi doğrultusunda bu Yönetmeliğin yürürlüğe girdiği tarihten itibaren altmış ay içerisinde Kuruma sertifikalı ruhsata geçiş başvurusu yapılır. Bu kapsamda başvuru yapmak için ruhsat aslı sunulamayan beşeri tıbbi ürünler için zayi ruhsat başvurusu yapılır.
+(2) Birinci fıkrada belirtilen takvimdeki süreler içerisinde sertifikalı ruhsata geçiş başvurusu yapılmayan beşeri tıbbi ürünlere ait Kuruma yapılan varyasyon başvuruları işleme alınmaz.
+(3) Ruhsatı askıya alınan beşeri tıbbi ürünler için sertifikalı ruhsata geçiş başvurusunun yapılması zorunlu değildir. Ruhsatı askıya alınan ve sertifikalı ruhsatı olmayan bir beşeri tıbbi ürün piyasaya sunulmadan önce söz konusu ürün için sertifikalı ruhsatın alınması gereklidir.

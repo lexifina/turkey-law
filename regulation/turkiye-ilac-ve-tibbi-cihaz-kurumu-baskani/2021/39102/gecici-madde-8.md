@@ -1,0 +1,3 @@
+Onaylanmış kuruluş görüşü veya CE belgesi istenilen tıbbi cihazlar
+GEÇİCİ MADDE 8- (Ek:RG-24/9/2022-31963)
+(1) Bu Yönetmeliğe uygun olarak ruhsat başvurusunda bulunulan veya ruhsatlandırılan bütünleşik bir tıbbi cihaz ihtiva eden beşeri tıbbi ürünler için (Değişik ibare: RG-3/12/2024-32741) 2/6/2021 tarihli ve 31499 mükerrer sayılı Resmî Gazete’de yayımlanan Tıbbi Cihaz Yönetmeliğinin geçici 1 inci maddesinin beşinci fıkrasının (b) bendinin (1) ve (2) numaralı alt bentlerinde belirtilen tarihlere uygun olarak Ek-1’de belirtilen şekilde onaylanmış kuruluş görüşü veya CE belgesi sunulması zorunlu olup mezkûr tarihe kadar yapılan ruhsat başvuruları ilgili kılavuz hükümlerine uygun olarak yapılır.
