@@ -1,0 +1,21 @@
+{
+  "record_type": "parliament-written-question",
+  "term": 28,
+  "legislative_year": 4,
+  "esas_no": "7/38802",
+  "submitted": "2025-12-30",
+  "submitted_as": "Başkanlığa geliş tarihi",
+  "mp": "Gülcan KAÇMAZ SAYYİĞİT",
+  "province": "Van",
+  "summary": "VASKİ Genel Müdürlüğünde yaşandığı iddia edilen usulsüzlüklere ilişkin",
+  "status": "Süresi Geçtikten Sonra Cevaplandı",
+  "status_as_of": "2026-11-16",
+  "official_record": "https://www.tbmm.gov.tr/Denetim/Yazili-Soru-Onergesi-Detay/91a0fab6-7ce7-4d08-bef3-019b7e87343f",
+  "source": "https://tbmm.gov.tr/Denetim/YaziliSoruOnergesiTable",
+  "source_form": "https://tbmm.gov.tr/Denetim/Yazili-Soru-Onergeleri",
+  "source_sha256": "af79e9cb6408eccaca55e289076814bf87c0ea18c7c19af6b6a8ef8d78a6c1bf",
+  "in_force": "2025-12-30",
+  "in_force_basis": "Date the question reached the Speaker (Başkanlığa geliş tarihi) in the official TBMM written-question record; parliamentary oversight record, not law",
+  "history_type": "metadata",
+  "text_status": "metadata-only: question text, addressee and answers are in the linked official record (PDFs on cdn.tbmm.gov.tr); not transcribed here"
+}
