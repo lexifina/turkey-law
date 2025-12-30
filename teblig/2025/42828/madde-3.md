@@ -1,0 +1,4 @@
+İKİNCİ BÖLÜM
+Gelir Vergisi İstisna, İndirim ve Uygulamalarına İlişkin Tasdik
+Tasdikin amacı
+MADDE 3- (1) Gelir vergisi istisna, indirim ve uygulamalarına ilişkin yeminli mali müşavirlerce yapılacak tasdikin amacı, mükelleflerin 193 sayılı Kanun ve ilgili diğer mevzuat kapsamında yıllık gelir vergisi beyannamelerinde yer verilen istisna, indirim ve uygulamalardan yararlanabilmeleri için defter kayıtlarına dayanak teşkil eden belgelerin, ilgili mevzuat hükümlerine uygun olarak düzenlenip düzenlenmediği ile gerçek durumu yansıtıp yansıtmadığının, hesaplamaların doğru beyan edilip edilmediğinin, istisna, indirim ve uygulamalara ilişkin belirtilen şartları sağlayıp sağlamadıklarının, hasılat veya kazançların ilgili mevzuatın öngördüğü biçimde ve sürede elde edilip edilmediğinin tespit edilerek istisna, indirim ve uygulama nedeniyle vergi dışı tutulan işlemlerin ve tutarların belirlenmesidir.
