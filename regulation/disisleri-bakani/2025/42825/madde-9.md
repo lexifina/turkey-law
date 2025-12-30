@@ -1,0 +1,21 @@
+Performans değerlendirmesinin yapılması
+MADDE 9- (1) Personelin performans değerlendirmesi, performans değerlendirme formlarına esas ünvan tablosuna uygun şekilde yapılır.
+(2) Performans değerlendirmesinde kullanılan performans değerlendirme ölçeği düzey ve dereceleri ile tanımları aşağıdaki şekildedir:
+YETERSİZ PERFORMANS | GELİŞTİRİLEBİLİR PERFORMANS | ORTALAMA PERFORMANS | BAŞARILI PERFORMANS | ÇOK BAŞARILI PERFORMANS
+ | 1 | 2 | 3 | 1 | 2 | 3 | 1 | 2 | 3 | 1 | 2 | 3
+a) Çok Başarılı Performans: Amaç ve hedeflere ulaşmada; fark yaratılan, istisnai ve yüksek katkı sağlanan, birimin başarılı olmasına yönelik üstün çaba gösterilen ve hedeflerin başarılmasında öncülük edilen, ilgili performans değerlendirme kriterinde ortalamanın üzerinde performansın sürekli gösterildiği düzeyi,
+b) Başarılı Performans: Yönlendirilmeye nadiren ihtiyaç duyulan, amaç ve hedeflere ulaşmada genellikle başarıyla katkı sağlanan, ilgili performans değerlendirme kriterinde ortalamanın üzerinde performansın çoğu zaman gösterildiği düzeyi,
+c) Ortalama Performans: Beklenen performansın zaman zaman yönlendirilmeye ihtiyaç duyularak gösterildiği, amaç ve hedeflere ulaşmada yeterli sonuç üretilen, ilgili performans değerlendirme kriterinde ortalama performansın sergilendiği düzeyi,
+ç) Geliştirilebilir Performans: Beklenen performansın çoğu zaman yönlendirmeyle sağlandığı, geliştirilmeye ihtiyaç duyulan, ilgili performans değerlendirme kriterinde ortalamanın altında bulunan düzeyi,
+d) Yetersiz Performans: Asgari performansın gösterilemediği, sürekli yönlendirmeye ve ikaz edilmeye ihtiyaç duyulan, kabul edilebilir katkı sağlamayan, ilgili performans değerlendirme kriterinde ortalamanın çok altında bulunan düzeyi,
+ifade eder.
+(3) Performans değerlendirme ölçeğinin; “Çok Başarılı Performans”, “Başarılı Performans”, “Ortalama Performans” ve “Geliştirilebilir Performans” düzeyleri üç dereceye ayrılır; bir (1) rakamı o düzeyin alt performans derecesini, iki (2) rakamı o düzeyin orta performans derecesini, üç (3) rakamı o düzeyin üst performans derecesini ifade eder.
+(4) Performans değerlendirmesi aşağıda belirtilen şekilde yapılır:
+a) Performans değerlendirme formu, üst ve alt kriterlerden oluşur. Performans değerlendirmesi, anılan formda yer alan her bir alt kriterin beşli ölçeğe göre ayrı ayrı değerlendirilmesi suretiyle gerçekleştirilir.
+b) Personelin, alt kritere karşılık gelen performansını belirlemek için beş performans değerlendirme ölçeği düzeyinden biri seçilir.
+c) “Çok Başarılı Performans”, “Başarılı Performans”, “Ortalama Performans” veya “Geliştirilebilir Performans” düzeylerinden birisinin seçilmesi durumunda, bunların altında yer alan üç performans derecesinden biri PDP üzerinden işaretlenir.
+ç) Alt kriterler, bağlı bulundukları üst kritere eşit seviyede katkı sağlar.
+d) Nihai performans sonucu, her bir üst kriter için Ek-1’de yer alan formlarda belirlenen oranlar çerçevesinde, alt kriterler için seçilen düzey ve derecelerin sayısal karşılıklarının hesaplanmasıyla oluşur.
+(5) Nihai değerlendirme sonucunun “Çok Başarılı Performans” veya “Yetersiz Performans” olması halinde bu değerlendirmeye esas teşkil edecek somut bilgi, belge veya olaylara dayanan gerekçeler Ek-2’de yer alan “Görüş ve Mütalaa” formunda belirtilir. Nihai değerlendirme sonucunun “Başarılı”, “Ortalama” veya “Geliştirilebilir” olması halinde ise, değerlendirme amirleri, personele ilişkin performans değerlendirmesine esas olan görüş, değerlendirme ve kanaatlerini bu formda belirtebilir.
+(6) Nihai performans sonucu düzeyinin, iş verimlilikleri ve mesleki yetkinlikleri hakkında geri bildirim sağlamak amacıyla ilgili personelin, değerlendirmeyi yapan performans değerlendirme amir/amirleri ile birim amirinin erişimine en geç Nisan ayında açılması esastır.
+(7) Görev ve yetkileri gereği Bakanlık internet ağına ve PDP’ye erişim sağlayamayan ve bu nedenle performans değerlendirme sonuçlarına erişimi bulunmayan personele, altıncı fıkra uyarınca erişime açılma tarihinden itibaren yedi iş günü içerisinde; rapor, izin ve benzeri mazereti olan personele ise yirmi bir iş günü içerisinde performans sonucu yazılı olarak tebliğ edilir. Mücbir nedenlerle tebligatın yapılamayacak olması durumunda ivedilikle Genel Müdürlüğe bilgi verilmesi birim amirinin sorumluluğundadır.

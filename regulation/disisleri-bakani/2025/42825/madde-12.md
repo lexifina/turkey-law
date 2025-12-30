@@ -1,0 +1,3 @@
+Sorumluluk ve gizlilik
+MADDE 12- (1) Performans değerlendirme formlarının doldurulması ve sonuçları ile ilgili her türlü bilgi ve belgenin gizli tutulması esas olup, ilgisi olmayan kişilerle paylaşılamaz. Performans değerlendirme sonuçları, değerlendirilen personel, birim amiri ve değerlendirme amirlerinin erişimine açılır. Performans değerlendirme amirleri belirtilen süreler içerisinde, hukuken kabul edilebilir mazereti olanlar hariç, kontrol ve değerlendirme işlemlerini tamamlamak zorundadırlar.
+(2) Belirtilen süreler dahilinde söz konusu işlemleri gerçekleştirmeyen performans değerlendirme amirleri hakkında 657 sayılı Kanun kapsamında disiplin hükümleri uygulanır.
