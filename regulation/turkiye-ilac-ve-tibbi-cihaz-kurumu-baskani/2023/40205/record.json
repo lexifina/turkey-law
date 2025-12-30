@@ -1,0 +1,46 @@
+{
+  "source_id": "7.5.40205",
+  "kind": "regulation",
+  "register_kind": "Kurum ve Kuruluş Yönetmelikleri",
+  "title": "SAĞLIK HİZMET SUNUMU KAPSAMINDA KULLANILAN TIBBİ CİHAZLARIN TEKNİK SERVİS HİZMETLERİNE DAİR YÖNETMELİK",
+  "number": "40205",
+  "issuer": "Türkiye İlaç ve Tıbbi Cihaz Kurumu Başkanı",
+  "issuer_slug": "turkiye-ilac-ve-tibbi-cihaz-kurumu-baskani",
+  "path": "regulation/turkiye-ilac-ve-tibbi-cihaz-kurumu-baskani/2023/40205",
+  "source": "https://www.mevzuat.gov.tr/anasayfa/MevzuatFihristDetayIframe?MevzuatTur=7&MevzuatNo=40205&MevzuatTertip=5",
+  "source_sha256": "f142df9ea4a39152276eeb685571418db490b2eb0a8f1323af4b0bfae80513a4",
+  "source_bytes": 71229,
+  "published": "2023-05-26",
+  "gazette": "32202",
+  "in_force": "2025-12-30",
+  "in_force_basis": "latest Resmî Gazete date printed in the source amendment notes/table (\"RG-30/12/2025\") for the current consolidated text",
+  "date_evidence": [
+    [
+      "2025-12-30",
+      "RG-30/12/2025",
+      "Resmî Gazete date printed in the source amendment note"
+    ],
+    [
+      "2025-12-30",
+      "30/12/2025",
+      "Resmî Gazete date in the source amendment table"
+    ]
+  ],
+  "commencement_clauses": [
+    "Bu Yönetmelik yayımı tarihinde yürürlüğe girer"
+  ],
+  "history": "current-text",
+  "label": "oldest version available",
+  "checked_on": "2026-11-15",
+  "word_count": 3712,
+  "text_status": "current-consolidated",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  },
+  "source_links": [
+    "7.5.40205%20EK.docx"
+  ],
+  "completeness": "html-text-complete; linked annexes not fetched"
+}
