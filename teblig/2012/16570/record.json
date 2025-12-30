@@ -1,0 +1,81 @@
+{
+  "source_id": "9.5.16570",
+  "kind": "communique",
+  "register_kind": "Tebliğler",
+  "title": "GÜMRÜK GENEL TEBLİĞİ (GÜMRÜK İŞLEMLERİ) (SERİ NO: 97)",
+  "number": "16570",
+  "path": "teblig/2012/16570",
+  "source": "https://www.mevzuat.gov.tr/anasayfa/MevzuatFihristDetayIframe?MevzuatTur=9&MevzuatNo=16570&MevzuatTertip=5",
+  "source_sha256": "f8d8654bd2fd1cd5bf1a274e2b54d26384177c7210fae12e6b9ab78a4a689610",
+  "source_bytes": 33428,
+  "published": "2012-09-04",
+  "gazette": "28401",
+  "in_force": "2025-12-30",
+  "in_force_basis": "latest Resmî Gazete date printed in the source amendment notes/table (\"RG-30/12/2025\") for the current consolidated text",
+  "date_evidence": [
+    [
+      "2025-12-30",
+      "RG-30/12/2025",
+      "Resmî Gazete date printed in the source amendment note"
+    ],
+    [
+      "2025-12-30",
+      "30/12/2025",
+      "Resmî Gazete date in the source amendment table"
+    ],
+    [
+      "2025-04-02",
+      "RG-2/4/2025",
+      "Resmî Gazete date printed in the source amendment note"
+    ],
+    [
+      "2025-04-02",
+      "2/4/2025",
+      "Resmî Gazete date in the source amendment table"
+    ],
+    [
+      "2023-11-22",
+      "RG-22/11/2023",
+      "Resmî Gazete date printed in the source amendment note"
+    ],
+    [
+      "2023-11-22",
+      "22/11/2023",
+      "Resmî Gazete date in the source amendment table"
+    ],
+    [
+      "2022-01-22",
+      "22/1/2022",
+      "Resmî Gazete date in the source amendment table"
+    ],
+    [
+      "2021-12-04",
+      "4/12/2021",
+      "Resmî Gazete date in the source amendment table"
+    ],
+    [
+      "2019-03-20",
+      "20/3/2019",
+      "Resmî Gazete date in the source amendment table"
+    ],
+    [
+      "2015-11-11",
+      "11/11/2015",
+      "Resmî Gazete date in the source amendment table"
+    ]
+  ],
+  "commencement_clauses": [
+    "Bu Tebliğ yayımı tarihinde yürürlüğe girer"
+  ],
+  "history": "current-text",
+  "label": "oldest version available",
+  "checked_on": "2026-11-15",
+  "word_count": 422,
+  "text_status": "current-consolidated",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  },
+  "completeness": "html-text-complete"
+}
