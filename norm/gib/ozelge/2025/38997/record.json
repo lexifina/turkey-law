@@ -1,0 +1,22 @@
+{
+  "kind": "norm",
+  "issuer": "Gelir İdaresi Başkanlığı",
+  "document_type": "ozelge",
+  "number": "E-26696128-130[28-2025/11]-113216",
+  "source_id": 38997,
+  "date": "2025-12-30",
+  "title": "Kamu kurumuna verilen iş sağlığı ile iş güvenliği hizmetlerinde KDV",
+  "source": "https://gib.gov.tr/mevzuat/kanun/436/ozelge/38997",
+  "related_law": "3065 sayılı KATMA DEĞER VERGİSİ KANUNU",
+  "source_api": "https://gib.gov.tr/api/gibportal/mevzuat/ozelge/list",
+  "source_listing": "evidence/list/2026-11-16/ozelge-p009.json",
+  "source_listing_sha256": "9cb52b4963a9a177a23948f6e28c12936c2f43c88a0b410872bb81c01983667c",
+  "source_sha256": "14558770d575126398f89cf9633b25a2a3c8f34b4e93c3bdaf5edaa034caa64c",
+  "text_status": "as-enacted",
+  "text_file": "metin.md",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  }
+}
