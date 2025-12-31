@@ -1,0 +1,3 @@
+Dayanak
+MADDE 2 - (1) 1319 sayılı Kanunun 44 üncü maddesinin dördüncü fıkrasında, 42 nci maddede yer alan tutar ile 44 üncü maddenin ikinci fıkrasında yer alan vergi oranlarına esas mesken nitelikli taşınmaz değerlerinin alt ve üst sınırlarının her yıl bir önceki yıla ilişkin olarak 213 sayılı Vergi Usul Kanunu hükümlerine göre belirlenen yeniden değerleme oranının yarısı nispetinde artırılması suretiyle dikkate alınacağı, bu şekilde hesaplanan tutarların 1.000 Türk lirasına kadar olan kesirlerinin dikkate alınmayacağı hükme bağlanmıştır.
+(2) 27/11/2025 tarihli ve 33090 sayılı Resmî Gazete’de yayımlanan Vergi Usul Kanunu Genel Tebliği (Sıra No: 585) ile 2025 yılı için yeniden değerleme oranı %25,49 (yirmi beş virgül kırk dokuz) olarak tespit ve ilan edilmiştir.
