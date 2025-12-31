@@ -1,0 +1,26 @@
+{
+  "source_id": "9.5.42835",
+  "kind": "communique",
+  "register_kind": "Tebliğler",
+  "title": "2026 YILI UZLAŞTIRMACI ASGARİ ÜCRET TARİFESİ",
+  "number": "42835",
+  "path": "teblig/2025/42835",
+  "source": "https://www.mevzuat.gov.tr/anasayfa/MevzuatFihristDetayIframe?MevzuatTur=9&MevzuatNo=42835&MevzuatTertip=5",
+  "source_sha256": "bf0389f5b0f30b14720b6b75ae4001ed11787f226840c8b1160428ca58b09143",
+  "source_bytes": 22811,
+  "published": "2025-12-31",
+  "gazette": "33124",
+  "in_force": "2025-12-31",
+  "in_force_basis": "Resmî Gazete publication date in the official listing (31.12.2025)",
+  "history": "current-text",
+  "label": "oldest version available",
+  "checked_on": "2026-11-15",
+  "word_count": 374,
+  "text_status": "current-consolidated",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  },
+  "completeness": "html-text-complete"
+}
