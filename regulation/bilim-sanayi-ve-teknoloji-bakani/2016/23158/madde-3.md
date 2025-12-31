@@ -1,0 +1,7 @@
+İKİNCİ BÖLÜM
+Araç Fonksiyonel Güvenliğine İlişkin Şartlar
+Fonksiyonel güvenliğe ilişkin uyum ve ispat şartları
+MADDE 3 – (1) İmalatçılar; tarım ve orman araçlarına, normal kullanım koşulları altında ve imalatçı tarafından tavsiye edilen bakım işlemleri çerçevesinde araçların 5 ila 38 inci maddeler arasında belirtilen ayrıntılı teknik şartlar ve test prosedürlerine uygun olmasına olanak sağlamak amacıyla tasarlanan, imal edilen ve monte edilen ve aynı zamanda fonksiyonel güvenliği etkileyen sistemler, aksamlar ve ayrı teknik üniteleri takar.
+(2) İmalatçılar; fiziksel ispat testlerinden faydalanarak onay kuruluşuna piyasaya arz edilen, tescil edilen veya hizmete giren tarım ve orman araçlarının AB/167/2013 Yönetmeliğinin 17 nci maddesine ve bu Yönetmeliğe ait Ek I’de belirtilen fonksiyonel güvenlik şartlarına ve aynı zamanda bu Yönetmeliğin 5 ila 38 inci maddeleri arasında yer verilen ayrıntılı teknik şartlar ve test prosedürlerine uygun olduğunu gösterir.
+(3) İmalatçılar; piyasaya arz edilen veya hizmete giren yedek parçaların, bu Yönetmelikte belirtilen ayrıntılı teknik şartlar ve test prosedürlerine uygun olduğunu gösterir.
+(4) İmalatçılar; takılmış olması durumunda fonksiyonel güvenliğe ilişkin elektronik kontrol bilgisayarları dâhil olmak üzere aktarma organları yönetim sisteminin tahrif edilmesini veya değiştirilmesini engellemek için alınan tedbirlere ilişkin bir açıklamayı onay kuruluşuna sunar.

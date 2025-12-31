@@ -1,0 +1,2 @@
+İç donanım, koltuk başlıkları, emniyet kemerleri ve araç kapıları dâhil olmak üzere araç kullanıcılarının korunmasına ilişkin şartlar
+MADDE 17 – (1) AB/167/2013 Yönetmeliğinin 17 nci maddesinin ikinci fıkrasının (d) bendinde bahsi geçen ve iç donanım, koltuk başlıkları, emniyet kemerleri ve araç kapıları dâhil olmak üzere kullanıcıların korunması açısından geçerli olan performans şartları ve test prosedürleri, bu Yönetmeliğin EK XIII’ü uyarınca gerçekleştirilip doğrulanır.
