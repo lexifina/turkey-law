@@ -1,0 +1,2 @@
+Bilgi verilmemesi veya hatalı bilgi verilmesi
+MADDE 9– (1) İthalatta Korunma Önlemleri Yönetmeliğinin 4 üncü maddesi uyarınca, soruşturmanın herhangi bir aşamasında Genel Müdürlükçe istenen bilgilerin öngörülen süre içinde temin edilememesi ya da soruşturmanın engellendiğinin anlaşılması halinde soruşturma mevcut veriler üzerinden sonuçlandırılır. Genel Müdürlükçe ilgililer tarafından sağlanan bilgilerin yanlış olduğu tespit edildiği takdirde bu bilgiler dikkate alınmaz.

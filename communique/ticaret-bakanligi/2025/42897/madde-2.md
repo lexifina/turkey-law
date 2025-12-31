@@ -1,0 +1,5 @@
+Karar
+MADDE 2– (1) İthalatta Korunma Önlemlerini Değerlendirme Kurulu inceleme sürecinde varılan tespitler ışığında aşağıda GTİP’i ve tanımı belirtilen eşyanın ithalatında 8/6/2004 tarihli ve 25486 sayılı Resmî Gazete’de yayımlanan İthalatta Korunma Önlemleri Yönetmeliği hükümleri çerçevesinde korunma önlemi soruşturması açılmasına ve azami 200 gün süreyle geçici önlem uygulanmasına, geçici önlemin aşağıdaki tabloda belirtilen şekilde ek mali yükümlülük olarak belirlenmesine, Dünya Ticaret Örgütü Korunma Önlemleri Anlaşmasının 9.1 inci maddesi gereğince gelişmekte olan ülkelere muafiyet tanınmasına ve önlemin istihsali hususunda Cumhurbaşkanlığına öneride bulunulmasına toplantıya katılan üyelerin oy çokluğu ile karar vermiştir.
+GTİP | Eşya Tanımı | Ek Mali Yükümlülük (ABD Doları/ton)
+3907.61.00.00.00 | 78 ml/g veya daha fazla viskozitesi olanlar | 100
+(2) Birinci fıkrada belirtilen önlem, …/…/… tarihli ve … sayılı Cumhurbaşkanı Kararı ile yürürlüğe konulan Pet Resin İthalatında Geçici Korunma Önlemi Uygulanmasına İlişkin Kararın yürürlüğe girmesiyle uygulanmaya başlar.
