@@ -1,0 +1,3 @@
+İhtiyari sigorta
+MADDE 9 – (1) Doğal Afet Sigortaları Kurumu dışındaki kişi ve kuruluşlar Zorunlu Deprem Sigortası yapamaz. Ancak Zorunlu Deprem Sigortası yapılan bağımsız bölüm veya binaların yeniden yapım değerinin 4 üncü maddeye göre hesaplanan sigorta bedelinden yüksek olması durumunda söz konusu sigorta bedelini aşan kısım için Zorunlu Deprem Sigortasının yapılmış olması kaydıyla, sigorta şirketleri tarafından ihtiyari deprem sigortası yapılabilir.
+(2) Deprem teminatı içeren tüm sigorta poliçeleri yapılırken sigorta şirketleri tarafından Zorunlu Deprem Sigortasının varlığı kontrol edilir, yapılmamışsa sigortalıya bilgi verilerek ilgili sigorta şirketi tarafından Zorunlu Deprem Sigortası yapılır.
