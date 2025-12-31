@@ -1,0 +1,28 @@
+{
+  "number": "month-12",
+  "year": 2025,
+  "month": 12,
+  "title": "Aralık 2025 Meclis Karar Özetleri",
+  "decision_date": null,
+  "index_date": "2025-12-31",
+  "date_precision": "month",
+  "period": "Aralık 2025",
+  "source": "https://www.emirdag.bel.tr/karar/aralik-2025-meclis-karar-ozetleri",
+  "official_page": "https://www.emirdag.bel.tr/karar/aralik-2025-meclis-karar-ozetleri",
+  "official_document": "https://www.emirdag.bel.tr/tema/genel/uploads/meclis_kararlari/dosya/Image_263.pdf",
+  "source_sha256": "4a9ead089d61b5c3d4e757aa669c8fb7e762f114c62bfb5ed056f855820ca076",
+  "issuer": "Emirdağ Belediye Meclisi",
+  "history_type": "metadata",
+  "text_status": "metadata-only: listing fields as published; the decisions are in the linked official document(s) or page, not transcribed",
+  "in_force": "2025-12-31",
+  "in_force_basis": "The official listing gives only the month of this official file (Aralık 2025); date set to the last day of that month (turkey-law date convention for month-only sources); exact adoption dates are in the linked official document; legal commencement not asserted",
+  "missing": [
+    "decision numbers, dates and subjects",
+    "complete official decision text",
+    "official annexes"
+  ],
+  "law_text_complete": false,
+  "privacy_withheld": false,
+  "listing_label": "Aralık 2025 Meclis Karar Özetleri",
+  "record_scope": "one official file of council decisions (meeting or month)"
+}
