@@ -1,0 +1,2 @@
+Amaç
+MADDE 1 – (1) Bu Tebliğin amacı, 4/1/1961 tarihli ve 213 sayılı Vergi Usul Kanununun 104, mükerrer 115, 153/A, 177, 232, 252, mükerrer 257, 313, 323, 343, 352 (Kanuna Bağlı 1 Sayılı Cetvel), 353, 353 (Kanuna Bağlı 2 Sayılı Cetvel), 355, mükerrer 355, 370, Ek 1, Ek 11 ve mükerrer 413 üncü maddelerinde yer alıp 2025 yılında uygulanan had ve tutarların yeniden değerleme oranında artırılması suretiyle 1/1/2026 tarihi itibarıyla uygulanacak had ve tutarların belirlenmesine ilişkin hususların açıklanmasıdır.
