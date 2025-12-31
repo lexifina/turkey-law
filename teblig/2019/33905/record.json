@@ -1,0 +1,101 @@
+{
+  "source_id": "9.5.33905",
+  "kind": "communique",
+  "register_kind": "Tebliğler",
+  "title": "VERGİ USUL KANUNU GENEL TEBLİĞİ (SIRA NO: 509)",
+  "number": "33905",
+  "issuer": "Hazine ve Maliye Bakanı",
+  "path": "teblig/2019/33905",
+  "source": "https://www.mevzuat.gov.tr/anasayfa/MevzuatFihristDetayIframe?MevzuatTur=9&MevzuatNo=33905&MevzuatTertip=5",
+  "source_sha256": "9881822be85093b35473f716355d6cd7dc0d0b6761ca6924629ba08e5307d033",
+  "source_bytes": 376992,
+  "published": "2019-10-19",
+  "gazette": "30923",
+  "in_force": "2025-12-31",
+  "in_force_basis": "latest Resmî Gazete date printed in the source amendment notes/table (\"RG-31/12/2025\") for the current consolidated text",
+  "date_evidence": [
+    [
+      "2025-12-31",
+      "RG-31/12/2025",
+      "Resmî Gazete date printed in the source amendment note"
+    ],
+    [
+      "2025-12-31",
+      "31/12/2025",
+      "Resmî Gazete date in the source amendment table"
+    ],
+    [
+      "2024-11-12",
+      "RG-12/11/2024",
+      "Resmî Gazete date printed in the source amendment note"
+    ],
+    [
+      "2024-11-12",
+      "12/11/2024",
+      "Resmî Gazete date in the source amendment table"
+    ],
+    [
+      "2023-10-07",
+      "RG-7/10/2023",
+      "Resmî Gazete date printed in the source amendment note"
+    ],
+    [
+      "2023-10-07",
+      "7/10/2023",
+      "Resmî Gazete date in the source amendment table"
+    ],
+    [
+      "2022-01-22",
+      "RG-22/1/2022",
+      "Resmî Gazete date printed in the source amendment note"
+    ],
+    [
+      "2022-01-22",
+      "22/1/2022",
+      "Resmî Gazete date in the source amendment table"
+    ],
+    [
+      "2021-02-09",
+      "RG-9/2/2021",
+      "Resmî Gazete date printed in the source amendment note"
+    ],
+    [
+      "2021-02-09",
+      "9/2/2021",
+      "Resmî Gazete date in the source amendment table"
+    ],
+    [
+      "2020-01-10",
+      "RG-10/1/2020",
+      "Resmî Gazete date printed in the source amendment note"
+    ],
+    [
+      "2020-01-10",
+      "10/1/2020",
+      "Resmî Gazete date in the source amendment table"
+    ]
+  ],
+  "commencement_clauses": [
+    "Bu Tebliğ yayımı tarihinde yürürlüğe girer",
+    "bu Tebliğin yayımlandığı tarihi izleyen aybaşından itibaren gerçekleştirilen teslim ve hizmetlere uygulanmak üzere yayımı tarihinde yürürlüğe girer"
+  ],
+  "history": "current-text",
+  "label": "oldest version available",
+  "checked_on": "2026-11-15",
+  "word_count": 22799,
+  "text_status": "current-consolidated",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  },
+  "source_links": [
+    "http://www.ebelge.gib.gov.tr/",
+    "http://ebelge.gib.gov.tr/",
+    "http://.ebelge.gib.gov.tr/",
+    "http://www.belge.gib.gov.tr/",
+    "http://www.efatura.gov.tr/",
+    "http://mm.kamusm.gov.tr/"
+  ],
+  "completeness": "html-text-complete; linked annexes not fetched"
+}
