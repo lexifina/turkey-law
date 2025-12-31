@@ -1,0 +1,2 @@
+Kapsam
+MADDE 2- (1) Bu Yönetmelik; afet ve acil durumlarda bütünleşik afet yönetim anlayışı içerisinde olay öncesi, sırası ve sonrasında yürütülecek faaliyetlerin Afet ve Acil Durum Yönetimi Başkanlığı koordinesinde planlaması ve buna ilişkin uygulama tedbirleri ile bakanlıklar, kurum ve kuruluşlar, valilikler, mahalli idareler, özel sektör ve sivil toplum kuruluşları arasında koordinasyon ve iş birliğinin sağlanmasına yönelik iş ve işlemleri kapsar.

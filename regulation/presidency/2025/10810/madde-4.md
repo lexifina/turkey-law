@@ -1,0 +1,20 @@
+Tanımlar ve kısaltmalar
+MADDE 4- (1) Bu Yönetmeliğin uygulanmasında;
+a) Acil durum: Toplumun tamamının veya belli kesimlerinin normal hayat ve faaliyetlerini durduran veya kesintiye uğratan ve acil müdahaleyi gerektiren olayları ve bu olayların oluşturduğu kriz halini,
+b) Afet: Toplumun tamamı veya belli kesimleri için fiziksel, ekonomik ve sosyal kayıplar doğuran, normal hayatı ve insan faaliyetlerini durduran veya kesintiye uğratan, etkilenen toplumun baş etme kapasitesinin yeterli olmadığı doğa, teknoloji veya insan kaynaklı olayları,
+c) Afet grubu: Afet ve acil durumlarda TAMP kapsamında ana çözüm ortağı ve destek çözüm ortaklarının yürüttükleri çalışmaların niteliğine göre oluşturulan grupları,
+ç) Afet ve acil durum yönetim merkezi: Afet ve acil durumlarda müdahalenin koordine edildiği, 24 saat esasına göre çalışan, kesintisiz ve güvenli bilgi işlem ve haberleşme sistemleri ile donatılan merkezi,
+d) Afet Yönetimi ve Karar Destek Sistemi: Coğrafi bilgi sistemleri kullanılarak Afet ve Acil Durum Yönetimi Başkanlığı tarafından geliştirilen, afet ve acil durumlarda tüm kaynakları etkin bir şekilde yönetebilen, karar destek mekanizmalarına sahip internet ağı tabanlı bir uygulamayı içeren afet yönetimi ve karar destek sistemini,
+e) AYDES: Afet ve Acil Durum Yönetimi Başkanlığı tarafından kurulan Afet Yönetim ve Karar Destek Sistemini,
+f) Bakan: İçişleri Bakanını,
+g) Bakanlık: İçişleri Bakanlığını,
+ğ) Bakanlık afet ve acil durum yönetim merkezi: TAMP’a göre sorumluluğu bulunan bakanlıklar ile ana çözüm ortağı kurum ve kuruluşlar bünyesinde, ihtiyaç halinde destek çözüm ortaklarının da katılımıyla oluşan bilişim ve haberleşme sistemleri ile kesintisiz enerji sistemlerine sahip olan merkezi,
+h) Başkan: Afet ve Acil Durum Yönetimi Başkanını,
+ı) Başkanlık: Afet ve Acil Durum Yönetimi Başkanlığını,
+i) Başkanlık Afet ve Acil Durum Yönetim Merkezi: Afet ve Acil Durum Yönetimi Başkanlığında bulunan Afet ve Acil Durum Yönetim Merkezini,
+j) Hazırlık: Afet ve acil durumlara etkin bir müdahale amacıyla önceden yapılan her türlü faaliyetleri,
+k) Müdahale: Afetlerde ve acil durumlarda can ve mal kurtarma, sağlık, iaşe, ibate, güvenlik, mal ve çevre koruma, sosyal ve psikolojik destek hizmetlerinin verilmesine yönelik çalışmaları,
+l) TAMP: Türkiye Afet Müdahale Planını,
+m) Vardiya amiri: Başkanlık Afet Yönetim Merkezi, il afet ve acil durum yönetim merkezi, ilçe afet ve acil durum yönetim merkezi, bakanlık afet ve acil durum yönetim merkezi yöneticileri tarafından her vardiya için ayrı ayrı belirlenen yetkili personeli,
+n) Vardiya personeli: Başkanlık Afet Yönetim Merkezi, il afet ve acil durum yönetim merkezi, ilçe afet ve acil durum yönetim merkezi ve bakanlık afet ve acil durum yönetim merkezi yöneticileri tarafından belirli bir saat aralığı için görevlendirilen personeli,
+ifade eder.

@@ -1,0 +1,10 @@
+Bakanlık ile kamu kurum ve kuruluşları afet ve acil durum yönetim merkezlerinin teşkili, görev ve sorumlulukları ile çalışma usul ve esasları
+MADDE 6- (1) Bakanlık afet ve acil durum yönetim merkezleri; afet ve acil durum hizmetlerini yürütmek üzere, bakanlıklarda bakan yardımcısı başkanlığında kurulur.
+(2) Bağlı ya da ilgili kurum ve kuruluşlarda afet ve acil durum yönetim merkezleri kurmaya, ilgili bakanlığın bakanları yetkilidir.
+(3) Bakanlık afet ve acil durum yönetim merkezlerinde bu Yönetmelik ile verilen görevlerin yerine getirilmesinden ilgili bakan yardımcısı sorumludur.
+(4) Bakanlık ile kamu kurum ve kuruluşları afet ve acil durum yönetim merkezleri ve sivil toplum kuruluşları; hazırlık ve müdahale hizmetleri bakımından TAMP kapsamında kendilerine tevdi edilen görevlerden sorumludur.
+(5) Bakanlık ile bağlı ve ilgili kuruluşlarda kurulan afet ve acil durum yönetim merkezlerinin idaresinden ve faal halde bulundurulmasından sorumlu asgari daire başkanı düzeyinde bir yönetici görevlendirilir ve görevlendirilen yöneticinin güncel iletişim bilgileri Başkanlığa bildirilir.
+(6) Bakanlık ile bağlı ve ilgili kuruluşlar, afet ve acil durum hizmetlerine yönelik kendilerine intikal eden olaylara ilişkin her türlü yazılı, sesli ve görsel bilgi ve verileri, kaynak göstererek Başkanlık Afet ve Acil Durum Yönetim Merkezine bildirir.
+(7) Bakanlık afet ve acil durum yönetim merkezleri, kendilerine verilen görevler doğrultusunda faaliyetlerini düzenli şekilde yapılmasına yönelik görev ve sorumluluk alanlarına ilişkin olaylarda, sorunların çözülmesine ve ihtiyaçların karşılanmasına yönelik çalışmaları yapar.
+(8) Bakanlık afet ve acil durum yönetim merkezleri, Başkanlık Afet ve Acil Durum Yönetim Merkezi ile kesintisiz iletişim halinde, 24 saat esasına göre çalışır.
+(9) Bakanlık afet ve acil durum yönetim merkezleri, olağan durumlarda faaliyetlerini, vardiya amiri ve yeterli sayıda personel ile yürütür. Afet ve acil durum hallerinde afetin seviyesine göre bakan veya bakan yardımcısı başkanlığında TAMP kapsamında çalışmalarını yürütür.

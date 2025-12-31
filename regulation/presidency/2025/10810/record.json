@@ -1,0 +1,26 @@
+{
+  "id": "presidency-regulation-10810",
+  "number": "10810",
+  "kind": "regulation",
+  "issuer": "presidency",
+  "title": "AFET VE ACİL DURUM YÖNETİM MERKEZLERİ YÖNETMELİĞİ",
+  "published": "2025-12-31",
+  "enacted": "2025-12-31",
+  "gazette_number": "33124 (Mükerrer)",
+  "in_force": "2025-12-31",
+  "in_force_basis": "Official commencement clause: \"Bu Yönetmelik yayımı tarihinde yürürlüğe girer.\"; Resmî Gazete 2025-12-31, no amendment annotation in this source text.",
+  "history": "current-only",
+  "version_label": "oldest version available",
+  "first_law": null,
+  "source": "https://www.mevzuat.gov.tr/anasayfa/MevzuatFihristDetayIframe?MevzuatNo=10810&MevzuatTur=21&MevzuatTertip=5",
+  "source_sha256": "46687f8e9424bbee958b46623c96da0af11becfe556d4b11e1c03f03609b854a",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  },
+  "missing_components": [],
+  "text_layout": "article-files",
+  "source_links": [],
+  "completeness": "html-text-complete"
+}
