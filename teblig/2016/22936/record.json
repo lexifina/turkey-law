@@ -1,0 +1,74 @@
+{
+  "source_id": "9.5.22936",
+  "kind": "communique",
+  "register_kind": "Tebliğler",
+  "title": "SIVILAŞTIRILMIŞ PETROL GAZLARI (LPG) TÜPLERİNİN PİYASADA TAKİP EDİLMESİNE İLİŞKİN TEBLİĞ",
+  "number": "22936",
+  "path": "teblig/2016/22936",
+  "source": "https://www.mevzuat.gov.tr/anasayfa/MevzuatFihristDetayIframe?MevzuatTur=9&MevzuatNo=22936&MevzuatTertip=5",
+  "source_sha256": "c9745c646fa833e92b13cfa65f39ce30fd44f7bf3ce2d065a9ff5ba005e29ad1",
+  "source_bytes": 31386,
+  "published": "2016-10-15",
+  "gazette": "29858",
+  "in_force": "2025-12-31",
+  "in_force_basis": "latest Resmî Gazete date printed in the source amendment notes/table (\"RG-31/12/2025\") for the current consolidated text",
+  "date_evidence": [
+    [
+      "2025-12-31",
+      "RG-31/12/2025",
+      "Resmî Gazete date printed in the source amendment note"
+    ],
+    [
+      "2025-12-31",
+      "31/12/2025",
+      "Resmî Gazete date in the source amendment table"
+    ],
+    [
+      "2024-12-14",
+      "RG-14/12/2024",
+      "Resmî Gazete date printed in the source amendment note"
+    ],
+    [
+      "2024-12-14",
+      "14/12/2024",
+      "Resmî Gazete date in the source amendment table"
+    ],
+    [
+      "2024-01-09",
+      "9/1/2024",
+      "Resmî Gazete date in the source amendment table"
+    ],
+    [
+      "2019-12-31",
+      "RG-31/12/2019",
+      "Resmî Gazete date printed in the source amendment note"
+    ],
+    [
+      "2019-12-31",
+      "31/12/2019",
+      "Resmî Gazete date in the source amendment table"
+    ],
+    [
+      "2018-04-12",
+      "12/4/2018",
+      "Resmî Gazete date in the source amendment table"
+    ]
+  ],
+  "commencement_clauses": [
+    "Bu Tebliğ yayımı tarihinde yürürlüğe girer"
+  ],
+  "history": "current-text",
+  "label": "oldest version available",
+  "checked_on": "2026-11-15",
+  "word_count": 1189,
+  "text_status": "current-consolidated",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  },
+  "source_links": [
+    "9.5.22936-Ek.docx"
+  ],
+  "completeness": "html-text-complete; linked annexes not fetched"
+}
