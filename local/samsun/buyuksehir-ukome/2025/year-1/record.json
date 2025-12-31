@@ -1,0 +1,26 @@
+{
+  "number": "year-1",
+  "year": 2025,
+  "title": "2025 UKOME KARARLARI",
+  "decision_date": null,
+  "index_date": "2025-12-31",
+  "date_precision": "year",
+  "period": "2025",
+  "source": "https://samsun.bel.tr/kurumsal/kurumsal-yapi/ukome-kararlari/2025-ukome-kararlari",
+  "official_page": "https://samsun.bel.tr/kurumsal/kurumsal-yapi/ukome-kararlari/2025-ukome-kararlari",
+  "official_document": "https://samsun.bel.tr/uploads/documents/ukome-kararlari/2025-ukome-kararlari.pdf",
+  "source_sha256": "117d9d33125edb33cf7b71704304860d8dfe42102271db8005c89db684cc33bc",
+  "issuer": "Samsun Büyükşehir Belediyesi UKOME",
+  "history_type": "metadata",
+  "text_status": "metadata-only: listing fields as published; the decisions are in the linked official document, not transcribed",
+  "in_force": "2025-12-31",
+  "in_force_basis": "The official listing dates this official file only by its year (2025); date set to 31 December of that year (turkey-law date convention for year-only sources, approved 2026-11-16); exact adoption dates are in the linked official document; legal commencement not asserted",
+  "missing": [
+    "decision numbers, dates and subjects",
+    "complete official decision text",
+    "official annexes"
+  ],
+  "law_text_complete": false,
+  "privacy_withheld": false,
+  "record_scope": "one official PDF of the year's UKOME decisions"
+}
