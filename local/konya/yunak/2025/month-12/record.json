@@ -1,0 +1,28 @@
+{
+  "number": "month-12",
+  "year": 2025,
+  "month": 12,
+  "title": "2025 Yılı Aralık Ayı Olağan Meclis Toplantısı ve Kararlar",
+  "decision_date": null,
+  "index_date": "2025-12-31",
+  "date_precision": "month",
+  "period": "Aralık 2025",
+  "source": "https://www.yunak.bel.tr/karar/2025-yili-aralik-ayi-olagan-meclis-toplantisi-ve-kararlar",
+  "official_page": "https://www.yunak.bel.tr/karar/2025-yili-aralik-ayi-olagan-meclis-toplantisi-ve-kararlar",
+  "official_document": "https://www.yunak.bel.tr/tema/genel/uploads/meclis_kararlari/dosya/Aralık-Ayı-Meclis-Kararları.pdf",
+  "source_sha256": "7e86856b14511a760972d1c75d0c84b34247d5ce10f1ef5ffc304bf923582889",
+  "issuer": "Yunak Belediye Meclisi",
+  "history_type": "metadata",
+  "text_status": "metadata-only: listing fields as published; the decisions are in the linked official document(s) or page, not transcribed",
+  "in_force": "2025-12-31",
+  "in_force_basis": "The official listing gives only the month of this official file (Aralık 2025); date set to the last day of that month (turkey-law date convention for month-only sources); exact adoption dates are in the linked official document; legal commencement not asserted",
+  "missing": [
+    "decision numbers, dates and subjects",
+    "complete official decision text",
+    "official annexes"
+  ],
+  "law_text_complete": false,
+  "privacy_withheld": false,
+  "listing_label": "2025 Yılı Aralık Ayı Olağan Meclis Toplantısı ve Kararlar",
+  "record_scope": "one official file of council decisions (meeting or month)"
+}
