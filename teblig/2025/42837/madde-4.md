@@ -1,0 +1,7 @@
+Valiliklerce yürütülecek iş ve işlemler
+MADDE 4- (1) Belgesiz konaklama işletmeleri ile izin belgesi olmadan kısa süreli kiralamaya konu edilen konutların elektronik ortamda tanıtım, pazarlama ve satışının yapıldığının tespit edildiği ancak idari yaptırım uygulanacak gerçek/tüzel kişilerin tespit edilemediği durumlarda idari yaptırım uygulanacak gerçek/tüzel kişilerin tespit edilebilmesi amacıyla valilikler (İl Kültür ve Turizm Müdürlüğü) koordinasyonunda ilgili belediye başkanlığı ve/veya ilgili kolluk kuvvetleri tarafından yerinde tespit yapılır.
+(2) 7464 sayılı Kanunun 4 üncü maddesi gereği idari yaptırım uygulanması gereken hallerde gerekli görülmesi halinde valilikler (İl Kültür ve Turizm Müdürlüğü) koordinasyonunda ilgili belediye başkanlığı ve/veya ilgili kolluk kuvvetleri tarafından yerinde tespit yapılır.
+(3) İdari yaptırımlar, belgesiz konaklama işletmesi ve/veya izin belgesiz konutun bulunduğu mahallin en büyük mülki idare amiri tarafından tayin edilerek uygulanır ve yapılan işlem konusunda ilgili vergi dairesine bilgi verilir.
+(4) Bu madde kapsamında uygulanacak idari yaptırımlarda ayrıca Bakanlıkla yazışma yapılmadan işlemler yürütülür.
+(5) Birinci fıkra gereğince yapılacak tespitlere ilişkin iş ve işlemler, ilanların yayından kaldırılması amacıyla aracı hizmet sağlayıcılara yirmi dört saatlik süre tanındığı dikkate alınarak, ivedilikle ve etkin bir şekilde yürütülür.
+(6) Valiliklerce idari yaptırımlara ilişkin bilgi ve belgeler, Bakanlıkça istenilmesi halinde ivedilikle gönderilmek üzere muhafaza edilir.
