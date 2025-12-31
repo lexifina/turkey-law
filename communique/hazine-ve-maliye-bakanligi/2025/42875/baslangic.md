@@ -1,0 +1,2 @@
+ÖZEL İLETİŞİM VERGİSİ GENEL TEBLİĞİ
+(SERİ NO: 24)
