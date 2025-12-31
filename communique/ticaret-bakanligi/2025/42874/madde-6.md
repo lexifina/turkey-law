@@ -1,0 +1,5 @@
+Analiz sonuçlarına itiraz
+MADDE 6- (1) Yakıttan alınan numunenin analiz sonucunun uygun bulunmaması durumunda keyfiyetin ithalatçı veya temsilcisine tebliğinden itibaren yedi iş günü içinde, yazılı talep üzerine ve giderleri ithalatçı veya temsilcisi tarafından karşılanmak kaydıyla, Çevre, Şehircilik ve İklim Değişikliği Bakanlığınca belirlenen usul ve esaslar dâhilinde şahit numune/numunelerin analizi yaptırılır ve yakıtın uygunluğuna/uygunsuzluğuna karar verilir:
+a) Analiz sonuçları uygun çıkan yakıt için Çevre, Şehircilik ve İklim Değişikliği İl Müdürlüğünce İthal Katı Yakıt Uygunluk Belgesi düzenlenir ve ilgili gümrük idaresi ile ithalatçı veya temsilcisine bildirilir.
+b) Şahit numune analiz sonucu da uygunsuz çıkan yakıtlar için Çevre, Şehircilik ve İklim Değişikliği İl Müdürlüğünce Uygunsuzluk Yazısı düzenlenir ve ilgili gümrük idaresi ile ithalatçı veya temsilcisine bildirilir.
+c) Numunelerin alınması, torbalanması, gönderilmesi, analize hazırlanması ve muhafazası sırasında oluşan durumlar dışında Çevre, Şehircilik ve İklim Değişikliği Bakanlığı veya Çevre, Şehircilik ve İklim Değişikliği İl Müdürlüğünden yeni numune alınması talebinde bulunulamaz.

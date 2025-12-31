@@ -1,0 +1,3 @@
+Gümrük işlemleri
+MADDE 9- (1) Ek-1’deki listede yer alan yakıtların ithalatında, 8 inci maddenin ikinci fıkrası hükmü hariç olmak üzere, Çevre, Şehircilik ve İklim Değişikliği İl Müdürlüğü tarafından yapılan uygunluk denetimi sonucunda düzenlenen İthal Katı Yakıt Uygunluk Belgesi veya Çevre, Şehircilik ve İklim Değişikliği Bakanlığınca düzenlenen Katı Yakıt Muafiyet Yazısı gümrük beyannamesinin tescili sırasında aranır.
+(2) Çevre, Şehircilik ve İklim Değişikliği İl Müdürlüğünce Uygunsuzluk Yazısı düzenlenen yakıtların ithalatına izin verilmez. Uygun bulunmayan yakıt, giderleri ithalatçı veya temsilcisi tarafından karşılanmak üzere, menşe/yüklemenin yapıldığı ülkeye iade edilir veya üçüncü ülkeye transit edilir.
