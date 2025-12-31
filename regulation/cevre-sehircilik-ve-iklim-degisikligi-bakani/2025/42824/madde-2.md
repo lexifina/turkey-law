@@ -1,0 +1,3 @@
+Kapsam
+MADDE 2- (1) Bu Yönetmelik, yapı ruhsatına tâbi bina yapımı işlerinde çalışan yetki belgeli yapı ustalarını kapsar.
+(2) Bu Yönetmelik, 4/1/2002 tarihli ve 4734 sayılı Kamu İhale Kanunu kapsamındaki işler ile anılan Kanunda istisna tutulan işler, 8/9/1983 tarihli ve 2886 sayılı Devlet İhale Kanunu kapsamındaki mevzuata göre yürütülen yapım işleri ve 6/12/2012 tarihli ve 6362 sayılı Sermaye Piyasası Kanununa tabi olup ortaklarından en az birinin kamu kurum ve kuruluşu niteliğinde tüzel kişi olduğu ve ortaklık sermayesine en az %20 oranında iştirak ettiği kuruluşların yaptırdıkları yapım işlerini kapsamaz.
