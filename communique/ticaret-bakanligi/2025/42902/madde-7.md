@@ -1,0 +1,2 @@
+İthal edilemeyecek ürünler
+MADDE 7- (1) Ek-3’te belirtilen dökme alkollü içkilerin, alkollü içki kökenli karışım içkilerin, alkollü içki üretiminde kullanılabilecek tarımsal kökenli distilatların, tütün veya yeniden tertip edilmiş tütün içeren ürünlerin ve su, gıda alkolü gibi hammadde veya katkı maddeleri ilavesiyle alkollü içki hazırlanmasında kullanılabilecek konsantre içkilerin serbest dolaşımı ve ithali; test, numune, araştırma ve geliştirme amacıyla ithal edilenler ile tütün işleme tesisinde işlenmek üzere olanlar hariç şark tipi tütün ve tütün tozu ithalatı yapılamaz.
