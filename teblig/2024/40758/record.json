@@ -1,0 +1,50 @@
+{
+  "annexes": {
+    "links": [
+      {
+        "caption": "Eki için tıklayınız.",
+        "official_href": "9.5.40758%20Ek.docx",
+        "status": "pending"
+      }
+    ],
+    "official_html": "https://www.mevzuat.gov.tr/anasayfa/MevzuatFihristDetayIframe?MevzuatTur=9&MevzuatNo=40758&MevzuatTertip=5",
+    "status": "pending"
+  },
+  "checked_on": "2026-11-15",
+  "commencement_quote": "Bu Tebliğ yayımı tarihini takip eden otuzuncu gün yürürlüğe girer",
+  "date_gazette": "33124",
+  "date_quote": "RG-31/12/2025-33124",
+  "first_law": null,
+  "gazette": "32496",
+  "history": "current-text",
+  "images": {
+    "deferred": 0,
+    "omitted": 0,
+    "referenced": 0,
+    "source": 0
+  },
+  "in_force": "2025-12-31",
+  "in_force_basis": "Latest source-printed RG amendment date for current text: RG-31/12/2025-33124; own commencement clause: Bu Tebliğ yayımı tarihini takip eden otuzuncu gün yürürlüğe girer",
+  "issuer": "Ticaret Bakanlığı",
+  "issuer_catalog_evidence": [
+    {
+      "evidence": "issuer-504-200.json",
+      "id": "504",
+      "label": "Ticaret Bakanlığı",
+      "listing_url": "https://www.mevzuat.gov.tr/Anasayfa/MevzuatDatatable?MevzuatTur=Teblig&KurumId=504&start=200&length=100"
+    }
+  ],
+  "issuer_slug": "ticaret-bakanligi",
+  "kind": "communique",
+  "label": "oldest version available",
+  "notes": [
+    "Linked official annexes are not included in this version; original official links and captions are recorded in annexes."
+  ],
+  "published": "2024-03-21",
+  "source": "https://www.mevzuat.gov.tr/anasayfa/MevzuatFihristDetayIframe?MevzuatTur=9&MevzuatNo=40758&MevzuatTertip=5",
+  "source_bytes": 30707,
+  "source_id": "9.5.40758",
+  "source_sha256": "8e9f59495a977157cd0d2c7960393f82d16c9610f086bb31502045058c0239a7",
+  "title": "İTHALATTA GÖZETİM UYGULANMASINA İLİŞKİN TEBLİĞ\r\n(TEBLİĞ NO: 2024/2)",
+  "word_count": 657
+}
