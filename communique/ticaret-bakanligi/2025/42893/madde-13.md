@@ -1,0 +1,5 @@
+İthalatçının sorumluluğu
+MADDE 13- (1) İthalatçı, bu Tebliğ kapsamında denetlensin veya denetlenmesin, ithal ettiği ürünlerin her halükârda Atık Pil ve Akümülatörlerin Kontrolü Yönetmeliği dâhil olmak üzere ilgili tüm mevzuata uygun ve güvenli olmasından ve ürünlere eşlik eden belgelerin doğruluğundan, 7223 sayılı Kanun uyarınca sorumludur.
+(2) Ürünün ithaline izin verilmesi veya ürüne dair TAREKS referans numarası oluşturulması, ürünün mevzuata uygun ve/veya güvenli olduğu anlamına gelmez.
+(3) Bu Tebliğ kapsamında, ürünün ithal edilebileceğine dair verilen TAREKS referans numarası o ürünün ithalat işlemi dışında başka bir amaçla veya ürünün güvenli ve mevzuata uygun olduğunun ispatı olarak kullanılamaz.
+(4) İthal edilmiş ürünün GTİP’inin Ek-1’de yer aldığının sonradan yapılan kontrol neticesinde tespit edilmesi halinde, ilgili gümrük idaresi söz konusu tespiti, Sanayi ve Teknoloji Bakanlığına bildirir. İlgili Bakanlık tarafından ürünün güvenli olmadığının belirlenerek gümrük idaresine iletilmesi hâlinde, söz konusu ürünlerin uygunluk değerlendirmesi olumsuz sonuçlanmış addedilir.
