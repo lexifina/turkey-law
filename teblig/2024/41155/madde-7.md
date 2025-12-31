@@ -1,0 +1,4 @@
+Yurt dışına çıkış harcının kontrolü
+MADDE 7- (1) Türkiye Cumhuriyeti vatandaşlarının yurt dışına çıkışlarında, harcın ödenmesine veya muafiyet uygulanmasına ilişkin denetim, çıkış kapılarında görevli emniyet mensuplarınca yapılır.
+(2) Yurt dışına çıkışlarda; vergi dairesi, yetkili bankalar ve PTT veznelerine makbuz karşılığında yapılan ödemeler ile Gelir İdaresi Başkanlığının Dijital Vergi Dairesi ve GİB mobil uygulamaları, yetkili bankaların internet bankacılığı ve mobil bankacılık uygulamaları aracılığıyla yapılan ödemelerde, harcın ödendiği sistem üzerinden kontrol edilir, çıkış yapılması üzerine kontrol edilen harç tutarının kullanıldığı sisteme işlenir.
+(3) Mal müdürlükleri, gümrük saymanlıkları ve defterdarlık muhasebe müdürlüklerine makbuz karşılığında yapılan ödemelerde harç ödemesine ait makbuz, çıkış kapılarında görevli emniyet mensupları tarafından iptal kaşesi uygulanarak kontrol edilir.

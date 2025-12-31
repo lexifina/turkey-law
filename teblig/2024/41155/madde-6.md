@@ -1,0 +1,2 @@
+Ödeme
+MADDE 6- (1) Yurt dışına çıkış harcı, yurt dışına çıkmadan evvel vergi daireleri, mal müdürlükleri, gümrük saymanlıkları, defterdarlık muhasebe müdürlükleri, yetkili bankalar ile Posta ve Telgraf Teşkilatı Anonim Şirketi (PTT) veznelerine makbuz karşılığında ödenir. Ayrıca Gelir İdaresi Başkanlığının Dijital Vergi Dairesi ve GİB mobil uygulamaları ile yetkili bankaların internet bankacılığı ve mobil bankacılık uygulamaları aracılığıyla da yurt dışına çıkış harcı ödenebilir.
