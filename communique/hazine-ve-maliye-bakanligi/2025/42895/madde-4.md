@@ -1,0 +1,6 @@
+Misafirhaneler
+MADDE 4- (1) Misafirhanelerden yararlanan kurum personelinden kişi başına her gece için en az 120,00 TL alınır. İdarelerce, verilen hizmetin özelliği, maliyeti ve standardın üzerinde olması, odadaki yatak sayısı gibi hususlar dikkate alınarak daha yüksek konaklama bedeli tespit edilebilir.
+(2) Misafirhanelerden yararlanacak geçici görevli kamu personelinden alınacak konaklama bedeli, geçici görevlendirmenin ilk 10 günü için gündeliklerinin %60 artırımlı miktarının tamamını, daha sonraki günler için ise artırımsız gündeliklerinin 1/2’sini, geçici görevli denetim elemanlarından alınacak konaklama bedeli ise yurt içi gündeliklerinin %90 artırımlı miktarının tamamını geçemez.
+(3) Misafirhanelerden yararlanan geçici görevli personel hangi kamu kurumunda çalışırsa çalışsın hepsine aynı tarife uygulanır.
+(4) Diğer sosyal tesislerden yararlandırılan geçici görevli kamu personeli ile geçici görevli denetim elemanlarından alınacak konaklama bedeli hakkında da birinci, ikinci ve üçüncü fıkralarda yer alan hükümler uygulanır.
+(5) Her ne ad altında ve sürede olursa olsun (kiralanmış olan yerler dâhil) kurumun tasarrufunda olan yerlerde personelin konaklaması hâlinde (lojman olarak tahsis edilenler hariç), bu yerler de misafirhane kapsamında değerlendirilir.

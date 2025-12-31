@@ -1,0 +1,2 @@
+Kreş ve çocuk bakımevleri ücretleri
+MADDE 5- (1) Kamu kurum ve kuruluşlarına ait kreş ve çocuk bakımevlerine kabul edilecek Devlet memurları ile diğer kamu personelinin her çocuğu için aylık bakım ücreti asgari 1.777,00 TL olarak tespit edilmiştir. Ancak, belirlenen asgari aylık ücretlerin kreş ve çocuk bakımevi hizmetlerinin karşılanmasında yeterli olmadığı durumlarda, kurum ve kuruluşlar belirlenen ücretin üzerinde bedel tespit etmeye yetkilidir.
