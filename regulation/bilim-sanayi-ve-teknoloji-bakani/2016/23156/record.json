@@ -1,0 +1,81 @@
+{
+  "source_id": "7.5.23156",
+  "kind": "regulation",
+  "register_kind": "Kurum ve Kuruluş Yönetmelikleri",
+  "title": "FREN GEREKLİLİKLERİ HAKKINDA TARIM VE ORMAN ARAÇLARININ TİP ONAYI İLE İLGİLİ YÖNETMELİK (AB/2015/68)",
+  "number": "23156",
+  "issuer": "Bilim, Sanayi ve Teknoloji Bakanı",
+  "issuer_slug": "bilim-sanayi-ve-teknoloji-bakani",
+  "path": "regulation/bilim-sanayi-ve-teknoloji-bakani/2016/23156",
+  "source": "https://www.mevzuat.gov.tr/anasayfa/MevzuatFihristDetayIframe?MevzuatTur=7&MevzuatNo=23156&MevzuatTertip=5",
+  "source_sha256": "c522c688605d8a7d1c80fc1951f4d2f4d3b3f787d2094e5e05083197eda3ff73",
+  "source_bytes": 48389,
+  "published": "2016-12-28",
+  "gazette": "29932 (Mükerrer)",
+  "in_force": "2025-12-31",
+  "in_force_basis": "latest Resmî Gazete date printed in the source amendment notes/table (\"RG-31/12/2025\") for the current consolidated text",
+  "date_evidence": [
+    [
+      "2025-12-31",
+      "RG-31/12/2025",
+      "Resmî Gazete date printed in the source amendment note"
+    ],
+    [
+      "2025-12-31",
+      "31/12/2025",
+      "Resmî Gazete date in the source amendment table"
+    ],
+    [
+      "2021-04-01",
+      "RG-1/4/2021",
+      "Resmî Gazete date printed in the source amendment note"
+    ],
+    [
+      "2021-04-01",
+      "1/4/2021",
+      "Resmî Gazete date in the source amendment table"
+    ],
+    [
+      "2020-07-11",
+      "11/7/2020",
+      "Resmî Gazete date in the source amendment table"
+    ],
+    [
+      "2020-04-16",
+      "RG-16/4/2020",
+      "Resmî Gazete date printed in the source amendment note"
+    ],
+    [
+      "2020-04-16",
+      "16/4/2020",
+      "Resmî Gazete date in the source amendment table"
+    ],
+    [
+      "2019-12-28",
+      "RG-28/12/2019",
+      "Resmî Gazete date printed in the source amendment note"
+    ],
+    [
+      "2019-12-28",
+      "28/12/2019",
+      "Resmî Gazete date in the source amendment table"
+    ]
+  ],
+  "commencement_clauses": [
+    "Bu Yönetmelik 1/1/2018 tarihinde yürürlüğe girer"
+  ],
+  "history": "current-text",
+  "label": "oldest version available",
+  "checked_on": "2026-11-15",
+  "word_count": 2540,
+  "text_status": "current-consolidated",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  },
+  "source_links": [
+    "7.5.23156-Ek.docx"
+  ],
+  "completeness": "html-text-complete; linked annexes not fetched"
+}

@@ -1,0 +1,1 @@
+MADDE 15 – (1) Basınçlı havalı fren sistemlerine sahip araçların EBS’sine veya ISO 7638 konektörünün 6 ve 7 pimi aracılığıyla veri iletişimi yapılan araçlara ve bu tür EBS’nin takılı olduğu araçlara ilişkin test prosedürleri ve performans şartları, EK XII’ye uygun olarak gerçekleştirilip doğrulanır.
