@@ -1,0 +1,2 @@
+San Marino Cumhuriyeti ve Andora Prensliği
+MADDE 54 – (1) Türkiye ve San Marino Cumhuriyeti menşeli ürünler ile Armonize Sistemin 25 ila 97. fasıllarında yer alan Andora Prensliği menşeli ürünleri, bu Yönetmelik anlamında Topluluk menşeli ürünler olarak kabul eder. San Marino Cumhuriyeti ve Andora menşeli ürünlerin menşe statüsü, bu Yönetmelik hükümlerinde gerekli uyarlamalar yapıldıktan sonra, uygulanması suretiyle belirlenir.

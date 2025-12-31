@@ -1,0 +1,30 @@
+Tanımlar
+MADDE 4 – (1) Bu Yönetmelikte yer alan;
+a) Anlaşma: Türkiye Cumhuriyeti ile 2 nci maddede yer alan ilgili ülke arasındaki Anlaşmayı,
+b) Pan Avrupa Menşe Kümülasyon Sistemi: Türkiye Cumhuriyeti, Avrupa Topluluğu ve EFTA Devletleri arasında aynı menşe kuralları ile menşeli olmayan girdiler için öngörülen gümrük vergilerinin geri ödenmesi veya muafiyet getirilmesini yasaklayan hükümleri içeren serbest ticaret anlaşmaları kapsamında yapılan tercihli ticarette, sisteme taraf ülkeler menşeli girdilerin diğer taraf ülkelerce serbestçe kullanılmasına ve üretilen eşyanın söz konusu ülkelerin tercihli rejiminden yararlanabilmesine ve bu şekilde mevcut üretim kaynaklarının birleştirilmesine olanak tanıyan ticaret sistemini,
+c) Pan Avrupa-Akdeniz Menşe Kümülasyon Sistemi: Türkiye Cumhuriyeti, Avrupa Topluluğu, EFTA Devletlerinden oluşan Pan Avrupa Menşe Kümülasyon Sistemine dahil ülkeler, Faroe Adaları ile Cezayir, Mısır, İsrail, Lübnan, Ürdün, Fas, Suriye, Tunus, Batı Şeria ve Gazze Şeridi’nden oluşan Akdeniz ülkeleri arasında aynı menşe kuralları ile menşeli olmayan girdiler için öngörülen gümrük vergilerinin geri ödenmesi veya muafiyet getirilmesini yasaklayan hükümleri içeren serbest ticaret anlaşmaları kapsamında yapılan tercihli ticarette, sisteme taraf ülkeler menşeli girdilerin diğer taraf ülkelerce serbestçe kullanılmasına ve üretilen eşyanın söz konusu ülkelerin tercihli rejiminden yararlanabilmesine ve bu şekilde mevcut üretim kaynaklarının birleştirilmesine olanak tanıyan ticaret sistemini;
+ç) Eşya: Hem madde hem de ürünü,
+d) EUR.1 ve EUR-MED dolaşım belgeleri: Menşeli ürünlerin Anlaşma hükümlerinden yararlanabilmesini sağlamak üzere gümrük idareleri veya (Değişik ibare:RG-9/7/2017- 30119) Bakanlıkça yetkilendirilen kişi veya kuruluşlarca usulüne uygun olarak düzenlenip gümrük idarelerince vize edilen, örnekleri Ek III (a) ve Ek III (b)’de yer alan menşe ispat belgelerini,
+e) EUR.1 ve EUR.1 dolaşım belgeleri başvuru formu: İhracatçı veya yetkili kanuni temsilcisi tarafından EUR.1 veya EUR-MED dolaşım belgesi talep edilmek üzere doldurulması gereken, örnekleri Ek III (a) ve Ek III (b)’de yer alan Formları,
+f) Fabrika çıkış fiyatı: Ürün için Taraf ülkelerden birinde, nihai işçilik veya işlemin gerçekleştirilmesini üstlenen imalatçıya fabrika çıkışı itibariyle ödenen, kullanılan bütün maddelerin kıymetlerinin dahil edilmiş olduğu, elde edilmiş ürünün ihracında geri ödenmiş veya ödenecek yurt içi vergilerin tenziliyle bulunan fiyatı,
+g) Fasıllar ve pozisyonlar: Bu Yönetmelikte Armonize Sistem veya AS olarak geçen, Armonize Mal Tanımı ve Kodlama Sistemini oluşturan nomanklatürde kullanılan fasıllar ve pozisyonları (dört haneli kodlar),
+ğ) Fatura beyanı ve EUR-MED fatura beyanı: İhracatçı tarafından fatura, teslimat notu veya herhangi bir ticari belge üzerinde belirtilen, ilgili ürünlerin teşhislerini mümkün kılmayı yeterli ayrıntıda tanımlayan metni Ek IV (a) ve (b)’de yer alan, usulüne uygun olarak yapılan beyanları,
+h) Gümrük idareleri: Türkiye Cumhuriyeti için (Değişik ibare:RG-9/7/2017- 30119) Gümrük ve Ticaret Bakanlığı ve diğer Taraf ülkeler için anılan ülkelerde yetkilendirilmiş idareleri,
+ı) Gümrük kıymeti: Gümrük Tarifeleri ve Ticaret Genel Anlaşmasının VII nci Maddesinin Uygulanmasına Dair Gümrük Kıymetine İlişkin 1994-Dünya Ticaret Örgütü Anlaşmasına göre tespit edilen kıymeti,
+i) İmalat: Montaj veya özel işlemler de dahil olmak üzere her türlü işçilik veya işleme tabi tutmayı,
+j) Karar: 2 nci maddenin (d) bendinde belirtilen, Türkiye Cumhuriyeti ile Topluluk arasında tarım ürünleri ticaret rejimine ilişkin Ortaklık Konseyi Kararını,
+k) Katma değer: Fabrika çıkış fiyatından eşyaya dahil edilen, bu Yönetmeliğin 6 ncı maddesinde sayılan ve kümülasyonun mümkün olduğu diğer ülkeler menşeli her bir maddenin gümrük kıymetinin veya bu kıymetin bilinmemesi veya tespit edilememesi halinde ilgili Tarafta veya Türkiye Cumhuriyeti’nde bu madde için ödenmiş ilk doğrulanabilir fiyatın çıkarılması ile bulunan değeri,
+l) Madde: Ürünün imalatında kullanılan herhangi bir girdi, hammadde, parça veya aksamlar ve benzerini,
+m) Maddelerin kıymeti: Kullanılan menşeli olmayan maddelerin ithalatı esnasındaki gümrük kıymetini, bunun bilinmemesi veya tespit edilememesi halinde ise Taraf ülkelerden birinde maddeler için ödenen tespiti mümkün ilk fiyatı,
+n) Menşe ispat belgesi: EUR.1 dolaşım belgesi, EUR-MED dolaşım belgesi, fatura beyanı veya EUR-MED fatura beyanını,
+o) Menşeli madde kıymeti: (m) bendindeki tanıma uygun olarak, gerekli değişiklikler yapılarak uygulanan, bu tür maddenin gümrük kıymetini,
+ö) (Değişik:RG-9/7/2017- 30119) Bakanlık: Gümrük ve Ticaret Bakanlığını,
+p) Sevkiyat: Bir ihracatçıdan bir alıcıya birlikte gönderilen ya da ihracatçıdan alıcıya sevkinde tek bir sevk evrakı kapsamında yer alan veya böyle bir evrakın olmaması halinde tek bir fatura kapsamına giren ürünleri,
+r) Sınıflandırma: Ürün veya maddelerin belirli bir pozisyon altında sınıflandırılmasını,
+s) Taraf ülkeler: Türkiye Cumhuriyeti ile 2 nci maddede yer alan ülkeleri,
+ş) Topluluk: Avrupa Topluluğunu,
+t) Ülkeler: Karasuları da dahil olmak üzere ülkeleri,
+u) Ürün: Bilahare başka bir imalatta da kullanılması söz konusu olsa bile, imal edilmiş ürünü,
+ü) (Ek:RG-23/6/2018-30457 Mükerrer)(2) Elektronik sistem: Menşe ispat ve dolaşım belgelerinin düzenlenmesine yönelik başvurunun yapılması, belgelerin düzenlenmesi, kontrol edilmesi, onaylanması ve vize işlemlerinin gerçekleştirilmesini sağlamak üzere Bakanlık ya da Bakanlıkça uygun görülen kişi ve kuruluşlarca elektronik ortamda verilen hizmet ve bu hizmete dair alt yapıyı,
+ifade eder.
+(2) Bu Yönetmeliğin birinci, ikinci ve dördüncü maddelerinde geçen Türkiye Cumhuriyeti, bundan sonra Türkiye olarak anılacaktır.

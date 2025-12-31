@@ -1,0 +1,2 @@
+Parçalar halinde ithalat
+MADDE 32 – (1) İthalatçının talebi üzerine ve (Değişik ibare:RG-9/7/2017- 30119) Bakanlıkça belirlenen şartlara binaen, Armonize Sistemin 2(a) Genel Kuralı anlamındaki birleştirilmemiş veya monte edilmemiş halde olan ve Armonize Sistemin XVI ncı ve XVII nci Bölümlerinde ya da 7308 ve 9406 no’lu pozisyonlarında yer alan ürünlerin, parçalar halinde ithal edilmesi halinde, bu tür ürünler için tek bir menşe ispat belgesi, ilk parçanın ithalatı esnasında gümrük idaresine verilecektir.

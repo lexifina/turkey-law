@@ -1,0 +1,11 @@
+Teknik nedenlerle EUR.1 veya EUR-MED dolaşım belgesinin reddi
+MADDE 27 – (1) EUR.1 veya EUR-MED dolaşım belgesi, bu Yönetmelikte öngörülen şekilde düzenlenmemiş ise teknik nedenlerle reddedilebilir. Aşağıda belirtilen;
+a) EUR.1 veya EUR-MED dolaşım belgesinin, ebat veya renk olarak örnekten önemli derecede farklı olması, seri numarası bulunmaması, resmi olarak öngörülen dillerden birinde basılmaması gibi öngörülen form dışında bir form kullanılarak düzenlenmesi,
+b) EUR.1 veya EUR-MED dolaşım belgesinde (4) numaralı kutu gibi doldurulması zorunlu kutulardan birinin doldurulmaması,
+c) (Değişik:RG-9/7/2017- 30119) EUR.1 veya EUR-MED dolaşım belgesinin (11) numaralı kutusunun mühürlenmemesi, kaşelenmemesi veya imzalanmaması,
+ç) EUR.1 veya EUR-MED dolaşım belgesinin yetkili olmayan bir makam tarafından onaylanması,
+d) (Değişik:RG-9/7/2017- 30119) EUR.1 veya EUR-MED dolaşım belgesi vize edilirken kullanılan mührün veya kaşenin 42 nci madde hükümleri uyarınca örneği gönderilmeyen yeni bir mühür veya kaşe olması, e) İbraz edilen EUR.1 veya EUR-MED dolaşım belgesinin orijinal olmayıp fotokopi veya suret olması,
+f) EUR.1 veya EUR-MED dolaşım belgesinin (2) veya (5) numaralı kutusuna Anlaşmaya taraf olmayan ülkelerden birinin yazılması,
+gibi teknik nedenlerle kabul edilmeyen EUR.1 veya EUR-MED dolaşım belgeleri sonradan düzenlenebilir.
+(2) Teknik nedenlerle reddedilen EUR.1 veya EUR-MED dolaşım belgesi üzerine BELGE KABUL EDİLMEMİŞTİR ibaresi yazılarak, hangi nedenlerle kabul edilmediği de belirtilerek sonradan düzenlenen yeni bir EUR.1 veya EUR-MED dolaşım belgesi alması için ithalatçıya iade edilir. Ancak, gümrük idareleri gümrük işlemlerinin tamamlanmasından sonra kontrol amacıyla veya hile yapıldığından şüphe edilmesi halinde reddedilen EUR.1 veya EUR-MED dolaşım belgesinin bir kopyasını saklayabilir.
+(3) (Ek:RG-23/6/2018-30457 Mükerrer) Türkiye’ye yönelik ithalatlarda ibraz edilen menşe ispat belgelerinin teknik nedenlerle reddedilmesi durumunda, eşyaya ilgili Anlaşma kapsamında tercihli rejim uygulanmaz ve kanuni vergi nispetleri üzerinden tahakkuk yapılarak vergiler tahsil edilir. Bu durumda, 4458 sayılı Gümrük Kanununun 234 üncü maddesinin birinci fıkrasının (a) bendi uygulanmaz.

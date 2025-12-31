@@ -1,0 +1,6 @@
+EUR.1 veya EUR-MED dolaşım belgesinin değiştirilmesi
+MADDE 29 – (1) Menşeli ürünler Taraf ülkelerden birinin gümrük idaresinin kontrolü altında iken, ürünün tamamının veya bir bölümünün ürünün bulunduğu ülke veya taraf diğer ülke içinde başka bir yere gönderilmesi gerektiği durumda, gönderilecek kısım için asıl belge yerine geçmek üzere bir veya birden çok müfrez EUR.1 veya EUR-MED dolaşım belgesi düzenlenir ve durum esas EUR.1 veya EUR-MED dolaşım belgesi üzerine işaret edilir.
+(2) Müfrez EUR.1 veya EUR-MED dolaşım belgesi düzenlenme talebi eşyayı kontrol altında bulunduran gümrük idaresine yazılı olarak yapılır. İlgili idare tarafından gerekli her türlü inceleme yapılarak bu Yönetmelik hükümlerine uygun olması halinde talep yerine getirilir.
+(3) Düzenlenen müfrez belge Yönetmelik hükümlerinin uygulanmasında EUR.1 veya EUR-MED dolaşım belgesi olarak kabul edilir.
+(4) Esas EUR.1 veya EUR-MED dolaşım belgesinin tarih ve seri numarası müfrez belgenin veya belgelerin (7) numaralı "Gözlemler" kutusuna yazılır, aslına ve tüm nüshalarına MÜFREZ MENŞE İSPAT BELGESİDİR kaşesi basılır.
+(5) Gümrük idaresi, esas menşe ispat belgesi ile buna dayanılarak düzenlenen yeni belgenin veya belgelerin beyaz nüshasını muhafaza eder.

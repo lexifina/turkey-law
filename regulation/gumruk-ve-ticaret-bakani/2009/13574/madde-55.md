@@ -1,0 +1,3 @@
+Transit haldeki veya antrepodaki eşyaya ilişkin geçici hükümler
+MADDE 55 – (1) Bu Yönetmelik hükümlerine uygun olan ve Anlaşma'nın yürürlüğe girdiği tarihte transit halinde olan ya da Türkiye veya ilgili Taraf ülkede antrepolarda veya serbest bölgelerde geçici depolanan eşyaya, ithalatçı ülkenin gümrük idaresine söz konusu tarihten itibaren dört ay içinde, eşyanın Madde 13 hükümleri çerçevesinde doğrudan nakledilmiş olduğunu gösteren belgelerle beraber ihracatçı ülkenin gümrük idaresince sonradan verilmiş bir EUR.1 veya EUR-MED dolaşım belgesinin sunulması kaydıyla, Anlaşma hükümleri tatbik edilebilir.
+(2) Birinci fıkra hükümleri 2 nci maddenin (g) bendi kapsamı tercihli ticarette uygulanır.
