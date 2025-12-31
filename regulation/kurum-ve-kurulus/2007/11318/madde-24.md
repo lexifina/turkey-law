@@ -1,0 +1,3 @@
+Yetki
+MADDE 24 – (Değişik:RG-21/2/2021-31402)
+(1) Bakanlık bu Yönetmeliğin tatbikatını temin etmek ve tereddütlü durumları gidermek amacıyla gerekli göreceği her türlü tedbiri almaya, mücbir sebep hallerini veya zorunlu halleri değerlendirmeye, tereddütlü hususları gidermeye, kıymetli madenler aracı kuruluşlarının uygulayacakları her türlü ücret, masraf ve komisyona ilişkin azami limitleri belirlemeye, kıymetli madenler aracı kuruluşlarınca gerçekleştirilecek işlenmemiş kıymetli maden ithalatını süre, miktar, kişi ve işlem bazında kısıtlamaya ve Yönetmelikte öngörülen haller dışında kalan özel durumları inceleyip sonuçlandırmaya yetkilidir.

@@ -1,0 +1,95 @@
+{
+  "source_id": "7.5.11318",
+  "kind": "regulation",
+  "register_kind": "Kurum ve Kuruluş Yönetmelikleri",
+  "title": "KIYMETLİ MADENLER BORSASI ARACI KURULUŞLARININ FAALİYET ESASLARI İLE KIYMETLİ MADENLER ARACI KURUMLARININ KURULUŞU HAKKINDA YÖNETMELİK",
+  "number": "11318",
+  "issuer_slug": "kurum-ve-kurulus",
+  "path": "regulation/kurum-ve-kurulus/2007/11318",
+  "source": "https://www.mevzuat.gov.tr/anasayfa/MevzuatFihristDetayIframe?MevzuatTur=7&MevzuatNo=11318&MevzuatTertip=5",
+  "source_sha256": "667f06be2db2176b31b483e2781726b806b60aa4df33343d7b888ad95409e652",
+  "source_bytes": 152346,
+  "published": "2007-05-21",
+  "gazette": "26528",
+  "in_force": "2025-12-31",
+  "in_force_basis": "latest Resmî Gazete date printed in the source amendment notes/table (\"RG-31/12/2025\") for the current consolidated text",
+  "date_evidence": [
+    [
+      "2025-12-31",
+      "RG-31/12/2025",
+      "Resmî Gazete date printed in the source amendment note"
+    ],
+    [
+      "2025-12-31",
+      "31/12/2025",
+      "Resmî Gazete date in the source amendment table"
+    ],
+    [
+      "2023-02-23",
+      "RG-23/2/2023",
+      "Resmî Gazete date printed in the source amendment note"
+    ],
+    [
+      "2023-02-23",
+      "23/2/2023",
+      "Resmî Gazete date in the source amendment table"
+    ],
+    [
+      "2021-02-21",
+      "RG-21/2/2021",
+      "Resmî Gazete date printed in the source amendment note"
+    ],
+    [
+      "2021-02-21",
+      "21/2/2021",
+      "Resmî Gazete date in the source amendment table"
+    ],
+    [
+      "2018-09-11",
+      "RG-11/9/2018",
+      "Resmî Gazete date printed in the source amendment note"
+    ],
+    [
+      "2018-09-11",
+      "11/9/2018",
+      "Resmî Gazete date in the source amendment table"
+    ],
+    [
+      "2013-03-07",
+      "RG-7/3/2013",
+      "Resmî Gazete date printed in the source amendment note"
+    ],
+    [
+      "2013-03-07",
+      "7/3/2013",
+      "Resmî Gazete date in the source amendment table"
+    ],
+    [
+      "2011-09-14",
+      "RG-14/9/2011",
+      "Resmî Gazete date printed in the source amendment note"
+    ],
+    [
+      "2011-09-14",
+      "14/9/2011",
+      "Resmî Gazete date in the source amendment table"
+    ]
+  ],
+  "commencement_clauses": [
+    "Bu Yönetmelik yayımı tarihinde yürürlüğe girer"
+  ],
+  "history": "current-text",
+  "label": "oldest version available",
+  "checked_on": "2026-11-15",
+  "word_count": 8908,
+  "text_status": "current-consolidated",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  },
+  "source_links": [
+    "7.5.11318-EK.doc"
+  ],
+  "completeness": "html-text-complete; linked annexes not fetched"
+}

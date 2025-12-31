@@ -1,0 +1,5 @@
+Geçiş hükümleri
+GEÇİCİ MADDE 3 – (Ek:RG-21/2/2021-31402)
+(1) Bakanlıkça faaliyet izni verilmiş ve bu maddenin yürürlük tarihi itibarıyla faaliyette bulunan kıymetli madenler aracı kuruluşları, durumlarını 1/7/2021 tarihine kadar bu Yönetmelik hükümlerine uygun hale getirmek zorundadır. 4 üncü maddenin birinci fıkrasının (b) bendi ile 9 uncu maddenin üçüncü ve altıncı fıkralarında belirtilen sermaye yükümlülüklerini yerine getirmediği tespit edilen kıymetli madenler aracı kuruluşlarına, bu yükümlülüklerin yerine getirilmesini teminen en fazla 90 günlük ek süre verilir. Belirtilen süreler içerisinde yükümlülüklerini yerine getirmeyen kuruluşların faaliyet izinleri başka bir uyarıya gerek olmaksızın iptal edilir.
+(2) Bu maddenin yürürlük tarihi itibarıyla Bakanlığa yapılmış olan ancak değerlendirmesi tamamlanmamış bulunan ön izin, kuruluş izni ve faaliyet izni başvuruları için bu maddenin yürürlük tarihi itibarıyla yürürlükte bulunan Yönetmelik hükümleri uygulanır.
+(3) Bu Yönetmelikte yer alan 2021 yılını kapsayan Tedarik Zinciri Uyum Raporu ve Bağımsız Güvence Raporu için rapor dönemi 1/7/2021 – 31/12/2021 olarak kabul edilebilir.

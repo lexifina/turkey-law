@@ -1,0 +1,3 @@
+Borsa üyelik belgesinin iptali
+MADDE 22 – (1) (Değişik ibare:RG-11/9/2018-30532) Bakanlıkça faaliyet izni iptal edilen kıymetli madenler aracı kuruluşlarının Borsa Üyelik Belgeleri, Borsa Yönetim Kurulu tarafından iptal edilir ve bu durum Borsa tarafından (Mülga ibare:RG-23/2/2023-32113) (Değişik ibare:RG-21/2/2021-31402) Kamuyu Aydınlatma Platformunda ve ülke çapında yayımlanan en az iki gazetede ilan edilir.
+(2) Kıymetli madenler aracı kuruluşlarının, kendi istekleriyle Borsa üyeliğinden çıkmak için (Değişik ibare:RG-21/2/2021-31402) Borsaya müracaat etmeleri halinde, talepleri hakkında (Değişik ibare:RG-11/9/2018-30532) Bakanlığa da (Ek ibare:RG-23/2/2023-32113) 5 iş günü içerisinde bilgi vermeleri zorunludur.
