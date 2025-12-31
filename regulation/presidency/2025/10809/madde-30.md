@@ -1,0 +1,2 @@
+Bireylerin görev ve yükümlülükleri
+MADDE 30- (1) Afet ve acil durumlarda; asker ve hâkim sınıfından olanlar hariç olmak üzere; 18-65 yaş arasındaki bütün erkek vatandaşlar, vali ve kaymakamlarca afet ve acil durum hizmetleri kapsamında kendilerine verilen görevleri yerine getirmekle yükümlüdür. Bu yükümlüler, yükümlülükleri süresince iş yerlerinden izinli sayılır ve her türlü mali ve sosyal hakları korunur.

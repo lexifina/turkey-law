@@ -1,0 +1,30 @@
+Başkanlığın görev ve sorumlulukları
+MADDE 24- (1) Başkanlık;
+a) Bakanlıkları, kurum ve kuruluşları, üniversiteleri, gönüllüleri ve Dışişleri Bakanlığı ile iş birliği hâlinde yardıma gelen yabancı kuruluşları ulusal düzeyde koordine etmekten, iş bölümü yapmaktan ve yapılan çalışmaları denetlemekten,
+b) Sorumlu olduğu afet grupları için ulusal düzeyde hazırlık yapmaktan, yaptırmaktan, kapasite oluşturmaktan, destek çözüm ortakları ile birlikte afet ve acil durum hâlinin oluştuğu yerlere ihtiyaç duyulan kapasitenin ulaştırılmasını sağlamaktan,
+c) Olayın seviyesine göre müdahaleyi ve uluslararası insani yardım faaliyetlerini takip ve koordine etmekten,
+ç) Görevleri kapsamında yürütülen faaliyetler ve sonuçları hakkında kamuoyunu bilgilendirmekten,
+d) Bu Yönetmelik kapsamında yürütülecek faaliyetlerde, 5902 sayılı Kanunun 23 üncü maddesi ile Afet ve Acil Durum Harcamaları Yönetmeliği kapsamında, özel hesaptan ilgili özel hesaplara aktarma yapmaktan,
+e) Vali ile afet gruplarına destek olmak ve danışmanlık yapmak üzere ihtiyaç hâlinde Başkanlık yetkilisini saha destek personeli olarak görevlendirmekten,
+f) Dışişleri Bakanlığıyla iş birliği içerisinde; yurt dışından teklif edilen yardımlarla ilgili olarak sorumlu afet grupları tarafından bildirilen değerlendirme sonuçlarını ilgili makamlara iletmekten ve diğer devletler ile uluslararası kuruluşların ilgili organlarıyla koordinasyonu sağlamaktan,
+g) Yapılacak yurt içi ve yurt dışı bağışlar için bankalarda yardım hesapları açmaktan, yurt dışında Başkanlık adına hesap açılamadığı hâllerde Dışişleri Bakanlığıyla iş birliği hâlinde Dışişleri Bakanlığının dış teşkilatının banka hesapları aracılığıyla bağış toplayabilmelerine izin vermekten, bu konuda gerekli eş güdümü ve koordinasyonu sağlamaktan,
+ğ) Afet ve acil durumun gelişimine göre önleyici tedbirleri belirlemekten ve ilgili yerlere iletmekten,
+h) Ulusal afet müdahale sisteminin bilişim altyapısının oluşturulmasından,
+ı) Müdahale planlarının uygulanışını gözlemlemekten, geri bildirimlere göre ihtiyaç duyulan düzenlemeleri gerçekleştirmekten,
+görevli ve sorumludur.
+(2) Başkanlık; Afet Arama ve Kurtarma Grubu, Afet Barınma Grubu, Afet Bilgi ve Kaynak Yönetimi Grubu, Afet Ulusal ve Uluslararası Nakdi Bağış Grubu, Afet Uluslararası Destek ve İş Birliği Grubu, Afet Satın Alma ve Kiralama Grubu ana çözüm ortağı olup bu hizmetlerden ulusal düzeyde sorumludur. Başkanlığın yerel düzeyde sorumlu olduğu afet gruplarına ait hizmetler il afet ve acil durum müdürlükleri eliyle yürütülür. Başkanlık ana çözüm ortağı olduğu grupların görev ve sorumlulukları kapsamında;
+a) Afetzedeler ile görevli personelin acil ve geçici barınma alanlarının oluşturulması ve afet gruplarının geçici barınma hizmetlerine yönelik lojistik destek sağlanmasından,
+b) Afet ve acil durumlara ilişkin bilgilerin toplanması, kayıt altına alınması, raporlanması ve afet gruplarının erişim sağlayacağı sistemin oluşturulmasından,
+c) Elde edilen bilgilerin değerlendirilmesi, izlenmesi ve bilgilerin ilgili birimlere iletilmesinden,
+ç) Afet gruplarının barınma hizmetlerine lojistik destek sağlanmasından,
+d) Ülkemize yapılan uluslararası desteğin koordinasyonundan,
+e) İhtiyaç hâlinde ilave personel, teknik uzman, kaynak temininin sağlanması ve izlenmesinden,
+f) Acil yardım harcamaları kapsamında satın alma ve kiralama hizmetleri ile muhasebe, bütçe ve mali raporlama hizmetlerinden,
+g) Ulusal ve uluslararası nakdi bağış hizmetlerinden,
+ğ) Arama ve kurtarma faaliyetleri ile KBRN olaylarına müdahale çalışmalarının yürütülmesinden,
+h) Erken uyarı sistemi olan kurumlar arasında gerekli koordinasyonun sağlanmasından ve ülke çapında Ulusal Bütünleşik Erken Uyarı Sisteminin kurulmasından,
+ı) Başkanlık Afet ve Acil Durum Yönetim Merkezi, il afet ve acil durum yönetim merkezleri ve ilçe afet ve acil durum yönetim merkezlerinin faaliyetlerinin olayın seviyesine göre eş güdümünün sağlanmasından,
+i) Meydana gelen afet ve acil durum sonrası varsa ölü sayısına ait resmi verilerin toplanmasından ve açıklanmasından,
+j) Geçici barınma merkezlerine yerleştirilen vatandaşlara ilişkin sosyodemografik ve dezavantajlılık durumlarına göre kayıt alınmasından,
+k) Ticaret Bakanlığınca belirlenen Afet Zamanlarında Uluslararası Yardımlara İlişkin Gümrüklerde Uygulanacak Usul ve Esaslar kapsamında gümrüklerde oluşturulacak yardım komisyonlarına personel görevlendirmekten,
+sorumludur.

@@ -1,0 +1,3 @@
+Destek iller arası iş birliği
+MADDE 15- (1) İllerde ihtiyaç duyulması hâlinde destek illerin katılımı ile hazırlık, planlama, bilgi paylaşımı, ortak eğitim, tatbikat ve karşılıklı yardımlaşma çalışmaları için valilerin, ana çözüm ortağı kurum ve kuruluş temsilcilerinin, ilgili belediyelerin, valilikçe uygun görülen diğer kurum ve kuruluş temsilcilerinin katılımıyla istişare toplantıları yapılır. Alınan kararlar ilgililerince uygulanır, Başkanlığa bilgi verilir.
+(2) Müdahale hizmetlerinde kullanılacak kapasiteye ilişkin gerekli bilgi ve belge paylaşımına dayalı iş birliği, destek iller arasında sağlanır.

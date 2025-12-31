@@ -1,0 +1,3 @@
+Planların güncellenmesi
+MADDE 11- (1) Bu Yönetmelik kapsamında hazırlanan planlarda değişiklik meydana geldiğinde, planlar ve ekleri plan hazırlama usulüne uygun olarak güncellenir. Ulusal düzey afet grubu planları her yıl 30 Haziran tarihine kadar, il ve ilçe afet müdahale planları ile yerel düzey afet grubu planları her yıl 31 Aralık tarihine kadar onaylanır. Plan değişiklikleri, değişiklik cetveline işlenir. Değişiklikler hakkında ilgilisi tarafından gerekli güncellemeler yapılarak destek çözüm ortağı olan bakanlıklar ile kurum ve kuruluşlara bilgi verilir.
+(2) İlgili afet grubuna ait veriler, Afet Yönetimi ve Karar Destek Sistemine yüklenir ve sürekli güncel tutulur.

@@ -1,0 +1,22 @@
+Yerel düzey hazırlık çalışmaları
+MADDE 14- (1) Afet ve acil durum hazırlıkları illerde valilerin, ilçelerde kaymakamların koordinasyonunda, TAMP kapsamında yapılır.
+(2) İl ve ilçelerde TAMP kapsamında afet grupları oluşturulur.
+(3) Afet grubu yöneticisi, ana çözüm ortağı bakanlıklar ile kurum ve kuruluşların taşra teşkilatlarının veya belediyelerin en üst yöneticisidir. Ana çözüm ortağının taşra teşkilatı bulunmadığı hâllerde afet grubu yöneticisi, destek çözüm ortakları arasından vali tarafından görevlendirilir.
+(4) İllerde afet grubu yöneticilerine bağlı olarak;
+a) Afet grubu sekretaryası,
+b) Operasyon ekipleri,
+c) Lojistik ekipleri,
+oluşturulur.
+(5) Ekiplerin, görev alacakları alanda düzenli eğitimlerle her daim hazır olmaları esastır. Afet grubu yöneticisinin görevi, afet ve acil durumların her aşamasına afet grubunu hazırlamak, müdahale çalışmalarını başlatmak ve yürütmektir.
+(6) Servislerin yönetimi ve koordinasyonu, ilde bulunan mülki idare amirleri arasından vali tarafından belirlenen veya Bakanlık tarafından afet sonrasında belirlenecek mülki idare amirleri tarafından gerçekleştirilir.
+(7) Geçici barınma alanları, Afet Barınma Grubu tarafından belirlenen kriterler dikkate alınarak valiliklerce oluşturulacak komisyon marifeti ile tespit edilir. Bu alanların teknik altyapıları belediyeler ve özel idare teşkilatları tarafından hazırlanır ve denetlenir. Bu alanların erişilebilirlik durumu ve uygunluğu gözetilir. Geçici barınma alanı olarak tespit edilen yerler vasfını kaybedecek şekilde farklı amaçla kullanılamaz.
+(8) Afet ve acil durum toplanma alanları, Afet Tahliye ve Yerleştirme Planlama Grubu tarafından belirlenen kriterler dikkate alınarak belediyeler ve özel idare teşkilatları tarafından belirlenir ve denetlenir. Afet ve acil durum toplanma alanı olarak belirlenen yerler, toplanma alanı vasfını kaybedecek şekilde farklı amaçla kullanılamaz. Belediyeler ve özel idare teşkilatları, afet ve acil durum toplanma alanları hakkında vatandaşın erişilebilir formatlarda bilgilendirilmesi amacıyla toplanma alanlarında erişilebilir şekilde işaretlemeler yapar.
+(9) Belediyeler ve özel idare teşkilatları, içme suyu tesislerinde klorlama çalışmasını yürütür.
+(10) Afetlerde geçici barınma alanı ile afet ve acil durum toplanma alanı olarak kullanılabilecek mevcut pazar yeri, park, bahçe ve yeşil alanların altyapıları belediyeler ve özel idare teşkilatları tarafından kullanılabilir hâle dönüştürülür ve bu alanların erişilebilirliği sağlanır.
+(11) Afet ve acil durumlarda kullanılacak hava araçlarının emniyetli iniş-kalkış yapabileceği yerler belirlenerek bu alanların hava araçlarının iniş-kalkışı için ilgili idarece boş bırakılması sağlanır.
+(12) Afet ve acil durum toplanma alanlarında değişiklik yapılması istenildiğinde valilik, il jandarma komutanlığı ve il afet ve acil durum müdürlüğüne bilgi verilerek muadilinin belirlenmesi ve il valiliğinden uygun görüş alınması suretiyle bu alanlarda değişiklik yapılabilir.
+(13) Belediyeler ve özel idare teşkilatları, doğru konumunda ve güncel hâliyle ulusal adres veri tabanına işlenmesinden sorumlu oldukları yapı stoku envanteri, güncel cadde ve sokak isimleri, toplu kullanım alanları gibi her türlü adres bileşeni verisini Mekansal Adres Kayıt Sisteminde oluşturarak afet ve acil durumlar göz önünde bulundurularak Başkanlığın kullanımına açık olacak şekilde düzenler.
+(14) İhtiyaç duyulacak kapasite geliştirme çalışmalarında en fazla can, mal ve ekonomik zarara neden olabilecek afete göre hazırlanan afet senaryosu dikkate alınır.
+(15) Sanayi bölgelerinde standartlara uygun yeterli alet ve ekipmanla donatılmış arama kurtarma ekipleri kurulur. İl afet ve acil durum müdürlükleri ile koordinasyon hâlinde bu ekiplerin eğitim almaları sağlanır.
+(16) Olmuş veya olması muhtemel afet ve acil durumlarda, can ve mal emniyeti açısından tehlikeli yerlerde yaşayanlar, mülki idare amiri talimatı ile geçici olarak tahliye edilir. Tahliye edileceklerin sevk, iskân, beslenme, sıhhi bakım ve yerlerine iade masrafları ile zorunlu harcamaları 6/3/2011 tarihli ve 27866 sayılı Resmî Gazete’de yayımlanan Afet ve Acil Durum Harcamaları Yönetmeliği hükümlerine göre gerçekleştirilir.
+(17) Düşman saldırıları, KBRN tehdit ve tehlikeleri ile afet ve acil durumlara ilişkin erken uyarı, haber alma ve yayma, ikaz ve alarm sistemleri ilgili kurum ve kuruluşlarla birlikte Başkanlık tarafından, erken uyarı sistemlerine ait gözlem, tespit, teşhis ve benzeri amaçlı tesisler, ilgili kurum ve kuruluşlar tarafından kurulur.

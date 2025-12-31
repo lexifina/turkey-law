@@ -1,0 +1,11 @@
+Ulusal düzey hazırlık çalışmaları
+MADDE 13- (1) Afet ve acil durumlara müdahale ile sorumlu bakanlıklar ile kurum ve kuruluşlar, Başkanlıkla koordineli olarak afet ve acil durum hazırlıklarını eksiksiz bir şekilde yapar, yeterli sayıda personeli görevlendirir, eğitir ve hazır hâlde bulundurur.
+(2) Afet ve acil durum hazırlıkları, bakanlıklarda görevli bir bakan yardımcısı veya görevlendireceği üst yönetici, diğer kurum ve kuruluşlarda ise en üst yönetici tarafından Başkanlıkla koordinasyon hâlinde tüm imkânlar dikkate alınarak yapılır. Belirlenen üst yöneticiye bağlı olarak;
+a) Afet grubu sekretaryası,
+b) Koordinasyon ekipleri,
+c) Saha destek ekipleri,
+afet grubu bünyesinde oluşturulur.
+(3) Bakanlıklar ile kurum ve kuruluşların afet ve acil durum hâllerine yönelik personel, araç, ekipman ve malzeme gibi konularda kapasite geliştirmeleri esastır. İhtiyaç duyulacak kapasite geliştirme çalışmalarında, en fazla can, mal ve ekonomik zararlara neden olabilecek afete göre ulusal düzeyde hazırlanan afet senaryoları dikkate alınır.
+(4) Başkanlık, sorumlu bakanlık ile kurum ve kuruluşlar; gerektiğinde özel sektörle ya da Dışişleri Bakanlığı aracılığı ile diğer ülkelerle yeni tedarik zinciri oluşturmak ve hizmet alımı gerçekleştirmek üzere uyuyan sözleşme yapabilir.
+(5) Halkın can ve mal güvenliğini ilgilendiren düşman hava saldırıları, KBRN tehdit ve tehlikeleri, afet ve acil durumlar, genel hayatı etkileyen kazalar gibi her türlü olaya ilişkin erken uyarı haberi üreten kurum ve kuruluşlar; ürettikleri kıymetlendirilmiş erken uyarı haberlerini Haber Alma ve Yayma Sistemine girer ve/veya Başkanlığa, ilgili bakanlıklara ve valiliğe ya da kaymakamlığa derhal bildirir.
+(6) Türkiye Coğrafi Bilgi Sistemi Kurulu tarafından onaylanan Afet ve Acil Durumlara İlişkin Coğrafi Veri Üretim ve Paylaşımı Usul ve Esasları ile Coğrafi Veri Listesi kapsamında coğrafi bilgi, uzaktan algılama ve karar destek sistemlerinin kurulması veya kurdurulması ve etkin bir şekilde kullanılması ile ilgili çalışmalar Başkanlıkça yürütülür. Tüm kurum ve kuruluşlar, Afet ve Acil Durumlara İlişkin Coğrafi Veri Üretim ve Paylaşımı Usul ve Esasları ekinde yer alan Coğrafi Veri Listesi ile Başkanlık tarafından belirlenen afet ve acil durumlar için gerekli olan kendi çalışma alanlarına ilişkin verileri Başkanlığın belirleyeceği formatta Başkanlığa gönderir.

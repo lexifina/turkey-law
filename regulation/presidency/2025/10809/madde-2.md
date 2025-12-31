@@ -1,0 +1,3 @@
+Kapsam
+MADDE 2- (1) Bu Yönetmelik, afet ve acil durumlarda müdahale hizmetlerini yürütecek bakanlıklar, kamu kurum ve kuruluşları, valilikler, kaymakamlıklar, özel ve özerk kuruluşlar, sivil toplum kuruluşları ile gerçek ve tüzel kişileri, bunların görev ve sorumlulukları ile bunlar arasındaki iş birliği, koordinasyon ve karşılıklı yardımlaşmaya dair iş ve işlemleri kapsar.
+(2) 20/6/2012 tarihli ve 6331 sayılı İş Sağlığı ve Güvenliği Kanunu kapsamında yer alan işyerlerinde; acil durum planlarının hazırlanması, önleme, koruma, tahliye, yangınla mücadele, ilk yardım ve benzeri konularda yapılması gereken çalışmalar ile bu durumların güvenli olarak yönetilmesi ve bu konularda görevlendirilecek çalışanların belirlenmesinde ilgili mevzuat hükümleri uygulanır.
