@@ -1,0 +1,6 @@
+İthalat denetimi ve belgelendirme
+MADDE 4- (1) Ek-1/A, Ek-1/B, Ek-1/C ve Ek-2’de yer alan ürünlerin, karşılarında belirtilen amaçlarla kullanılmak üzere ithal edilmesi halinde, insan sağlığı ve güvenliği yönünden uygunluğu Sağlık Bakanlığına sunulan belgeler esas alınarak Kontrol Belgesi ile belgelenir.
+(2) Bu Tebliğ kapsamı ürünler için ithalatçı veya temsilcisi tarafından Kontrol Belgesi gümrük beyannamesinin tescili sırasında ilgili gümrük idaresine sunulur.
+(3) Kontrol Belgesinin geçerlilik süresi on iki aydır. Kontrol Belgesi sahibinin talebi veya Sağlık Bakanlığının ilgili mevzuatının öngördüğü hallerde Kontrol Belgesi geçerlilik süresinden önce iptal edilebilir.
+(4) Ek-1/A’da yer alan ürünler için yapılan başvuruların Sağlık Bakanlığı (Türkiye İlaç ve Tıbbî Cihaz Kurumu) tarafından incelenmesi sonucunda özel izin alınması gereken ürünler arasında olduğu tespit edilen ürünler için, Sağlık Bakanlığının Özel İznine Tabi Maddelerin İthalat Denetimi Tebliği (Ürün Güvenliği ve Denetimi: 2026/4) hükümleri uygulanır.
+(5) Halk sağlığı hizmetlerinin sürdürülebilmesi için ihtiyaç duyulan, ücretsiz olarak uygulanan ve bu amaçla tedariki sağlanacak aşı, antidot ve serumların yalnızca bitmiş ürünleri için Halk Sağlığı Genel Müdürlüğüne başvuru yapılabilir.
