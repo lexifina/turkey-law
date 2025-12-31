@@ -1,0 +1,2 @@
+Ön inceleme
+MADDE 2 – (1) Söz konusu başvuruya istinaden yapılan ön inceleme esnasında; ithalatın son dönemde nispi ve mutlak olarak artış gösterdiği, ithalatın piyasa payının inceleme konusu dönem boyunca yüksek seyrettiği ve dönemsel olarak arttığı, yerli üreticilerin üretim, yurt içi satışlar, karlılık, verimlilik, kapasite kullanım oranı ve dönem sonu stoklar gibi bazı ekonomik göstergelerinde bozulmalar olduğu tespit edilmiştir.
