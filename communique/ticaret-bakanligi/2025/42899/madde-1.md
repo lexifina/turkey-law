@@ -1,0 +1,2 @@
+Amaç ve kapsam
+MADDE 1 – (1) Bu Tebliğin amacı, Türk Gümrük Tarife Cetveli’nde (TGTC) 2917.36.00.00.11 gümrük tarife istatistik pozisyonunda (GTİP) “Tereftalik Asit” tanımı altında sınıflandırılan eşyanın ithalatında korunma önlemi uygulanması için yerli üretici tarafından yapılan başvuru neticesinde soruşturma açılması ve Ticaret Bakanlığı (Bakanlık) İthalat Genel Müdürlüğü (Genel Müdürlük) tarafından yürütülecek soruşturmanın usul ve esaslarının belirlenmesidir.
