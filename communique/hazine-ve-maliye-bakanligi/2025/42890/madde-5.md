@@ -1,0 +1,2 @@
+Basit usule tabi mükelleflerde gün sonunda toplu belge düzenleme uygulaması
+MADDE 5- (1) Basit usule tabi mükelleflerle ilgili 6/12/1998 tarihli ve 23545 sayılı Resmî Gazete’de yayımlanan Gelir Vergisi Genel Tebliği (Seri No: 215) ile getirilen, belge vermedikleri günlük hasılatları için gün sonunda tek bir fatura düzenlenmesine ilişkin uygulamanın, 31/12/2026 tarihine kadar devam etmesi Vergi Usul Kanununun mükerrer 257 nci maddesinin Bakanlığımıza verdiği yetkiye istinaden uygun görülmüştür.
