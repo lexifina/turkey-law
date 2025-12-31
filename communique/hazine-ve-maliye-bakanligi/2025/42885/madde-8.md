@@ -1,0 +1,3 @@
+Diğer vergi, harç ve diğer mali yükümlülükler bakımından esas alınacak emlak vergi değerleri ve asgari ölçüde arsa ve arazi metrekare birim değerleri
+MADDE 8 – (1) Emlak vergi değerleri veya asgari ölçüde arsa ve arazi metrekare birim değerleri esas alınarak uygulanan vergi, harç ve diğer mali yükümlülükler için de 1319 sayılı Kanunun geçici 23 üncü maddesi hükümlerine göre belirlenen değerler esas alınacaktır.
+Dolayısıyla söz konusu vergi, harç ve diğer mali yükümlülükler bakımından, Kanunun geçici 23 üncü maddesi ve bu Tebliğ dahilinde hesaplanan emlak vergi değerleri veya asgari ölçüde arsa ve arazi metrekare birim değerlerinin ilgili yılda geçerli tutarları dikkate alınacaktır.
