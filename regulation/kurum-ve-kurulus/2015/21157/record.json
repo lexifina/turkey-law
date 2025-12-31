@@ -1,0 +1,72 @@
+{
+  "source_id": "7.5.21157",
+  "kind": "regulation",
+  "register_kind": "Kurum ve Kuruluş Yönetmelikleri",
+  "title": "BELİRLİ CANLI TIRNAKLI HAYVANLARIN İTHALATI VE TRANSİT GEÇİŞİNE İLİŞKİN HAYVAN SAĞLIĞI KURALLARININ BELİRLENMESİNE DAİR YÖNETMELİK",
+  "number": "21157",
+  "issuer_slug": "kurum-ve-kurulus",
+  "path": "regulation/kurum-ve-kurulus/2015/21157",
+  "source": "https://www.mevzuat.gov.tr/anasayfa/MevzuatFihristDetayIframe?MevzuatTur=7&MevzuatNo=21157&MevzuatTertip=5",
+  "source_sha256": "c07dea3a8fa43536c12d81887e8e3f2d927cc1586580013b37a9b36b68b0165f",
+  "source_bytes": 39129,
+  "published": "2015-09-20",
+  "gazette": "29481",
+  "in_force": "2025-12-31",
+  "in_force_basis": "latest Resmî Gazete date printed in the source amendment notes/table (\"RG-31/12/2025\") for the current consolidated text",
+  "date_evidence": [
+    [
+      "2025-12-31",
+      "RG-31/12/2025",
+      "Resmî Gazete date printed in the source amendment note"
+    ],
+    [
+      "2025-12-31",
+      "31/12/2025",
+      "Resmî Gazete date in the source amendment table"
+    ],
+    [
+      "2024-05-22",
+      "RG-22/5/2024",
+      "Resmî Gazete date printed in the source amendment note"
+    ],
+    [
+      "2024-05-22",
+      "22/5/2024",
+      "Resmî Gazete date in the source amendment table"
+    ],
+    [
+      "2022-09-20",
+      "20/9/2022",
+      "Resmî Gazete date in the source amendment table"
+    ],
+    [
+      "2020-11-25",
+      "RG-25/11/2020",
+      "Resmî Gazete date printed in the source amendment note"
+    ],
+    [
+      "2020-11-25",
+      "25/11/2020",
+      "Resmî Gazete date in the source amendment table"
+    ],
+    [
+      "2019-05-07",
+      "7/5/2019",
+      "Resmî Gazete date in the source amendment table"
+    ]
+  ],
+  "history": "current-text",
+  "label": "oldest version available",
+  "checked_on": "2026-11-15",
+  "word_count": 1616,
+  "text_status": "current-consolidated",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  },
+  "source_links": [
+    "7.5.21157-EK.docx"
+  ],
+  "completeness": "html-text-complete; linked annexes not fetched"
+}
