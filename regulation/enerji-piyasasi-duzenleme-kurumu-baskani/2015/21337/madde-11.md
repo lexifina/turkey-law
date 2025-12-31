@@ -1,0 +1,5 @@
+Sayaç uygulamaları
+MADDE 11 – (1) Yüksek kayıplı şirketlerin dağıtım bölgeleri içinde yer alan ve önceki yıl gerçekleşmelerine göre teknik ve teknik olmayan kayıp oranı %30'un üzerinde olan il ve ilçelerde, ilgili dağıtım şirketi tarafından kayıp-kaçak ile mücadele dâhilinde elektrik sayaçlarının tesisi için mevzuatta tanımlanan yerden farklı bir yer belirlenebilir.
+(2) Sayacın konulduğu nokta ile kullanıcının bağlantı noktası arasında ilgili kullanıcı dışında yapılacak müdahaleler dağıtım şirketinin sorumluluğundadır.
+(3) Yüksek kayıplı şirketlerin dağıtım bölgeleri içinde yer alan ve önceki yıl gerçekleşmelerine göre teknik ve teknik olmayan kayıp oranı %30'un üzerinde olan il ve ilçelerde, ilgili dağıtım şirketi tarafından kayıp-kaçak ile mücadele dâhilinde müşteri sayaçları dışında, yatırım planında yer almak kaydıyla, sayaç yatırımları kapsamında, tespit amaçlı olmak üzere, birden fazla müşterinin toplam tüketimini ölçen kontrol sayacı tesis edilebilir.
+(4) Bu madde kapsamındaki maliyetler tarife hesaplamalarında yatırım harcaması olarak dikkate alınır.

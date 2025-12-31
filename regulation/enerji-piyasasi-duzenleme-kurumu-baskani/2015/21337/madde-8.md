@@ -1,0 +1,2 @@
+Hedef kayıp oranları
+MADDE 8 – (1) Yüksek kayıplı şirketlerin hedef kayıp oranları diğer dağıtım şirketlerinden farklı usul ve esaslara göre belirlenebilir. Hedef kayıp oranlarının tarife dönemindeki tüm tarife yılları için dönem öncesinde belirlenmesi durumunda, ilgili tarife uygulama dönemi başlamadan önce kesinleşmiş olan en son yıla ait verilere göre yüksek kayıplı şirket statüsünde bulunan dağıtım şirketleri için ilgili dönemde geçerli olacak hedef kayıp oranlarının tamamı bu şirketlere mahsus usul ve esaslara göre belirlenir.

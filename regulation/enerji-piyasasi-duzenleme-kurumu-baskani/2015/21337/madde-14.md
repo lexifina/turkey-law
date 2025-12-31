@@ -1,0 +1,7 @@
+ALTINCI BÖLÜM
+Kaçak Uygulamalarına İlişkin Hususlar
+Kaçak tespitine ilişkin resmi kurum kayıtları ile teknolojik imkanların kullanılması
+MADDE 14 – (1) Yüksek kayıplı şirketlerde; mevsimsel olarak tarımsal sulama amacıyla elektrik tüketilen ve güvenlik nedeniyle kaçak kontrolü yapılamadığı ilgili kurum tarafından belgelendirilen kullanım yerlerinde, elektrik kullanmadan tarımsal ürün üretilemeyeceği resmi kurum yazıları ve kayıtları, teknolojik uygulamalar ile otomasyon sistemi verileri (Gıda, Tarım ve Hayvancılık Bakanlığına ait Çiftçi Kayıt Sistemi ve benzeri) esas alınarak tespit edilen kullanıcılara, 8/5/2014 tarihli ve 28994 sayılı Resmî Gazete’de yayımlanan Elektrik Piyasası Tüketici Hizmetleri Yönetmeliğindeki yerinde tespit şartı aranmaksızın kaçak elektrik tespit tutanağı düzenlenebilir. Söz konusu tutanağa, güvenlik gerekçesiyle yerinde tespitin yapılamadığına ilişkin ifadenin eklenmesi zorunludur.
+(2) Birinci fıkra çerçevesinde düzenlenen tutanaklara dayalı olarak tahakkuk ettirilen faturalar, kaçak tespit tutanağı ve tutanağa esas belgelerle birlikte kullanıcılara gönderilir.
+(3) Kaçak tespit tutanaklarına yapılacak olan itirazlar Şirket tarafından on beş iş günü içerisinde sonuçlandırılır. Bu süre içerisinde sonuçlandırılmayan tutanaklar iptal edilmiş sayılır.
+(4) Bu madde kapsamında dağıtım şirketi tarafından yapılan her türlü faturalama işlemi, tarımsal sulama uzaktan tespit adı altında muhasebeleştirilir.
