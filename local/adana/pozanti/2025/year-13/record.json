@@ -1,0 +1,27 @@
+{
+  "number": "year-13",
+  "year": 2025,
+  "title": "2025 Yılı Meclis Kararları",
+  "decision_date": null,
+  "index_date": "2025-12-31",
+  "date_precision": "year",
+  "period": "2025",
+  "source": "https://www.pozanti.bel.tr/meclis-kararlari/2025-yili-meclis-kararlari",
+  "official_page": "https://www.pozanti.bel.tr/meclis-kararlari/2025-yili-meclis-kararlari",
+  "official_document": "https://www.pozanti.bel.tr/upload/files/2025-yili-meclis-kararlari/2025-yili-meclis-kararlari_7331.pdf",
+  "source_sha256": "536dc8c56f50a70bd27bd92a8f485ceacf5df8d683e9fb0455c5e7163dd9026f",
+  "issuer": "Pozantı Belediye Meclisi",
+  "history_type": "metadata",
+  "text_status": "metadata-only: listing fields as published; the decisions are in the linked official document, not transcribed",
+  "in_force": "2025-12-31",
+  "in_force_basis": "The official listing dates this official file only by its year (2025); date set to 31 December of that year (turkey-law date convention for year-only sources, approved 2026-11-16); exact adoption dates are in the linked official document; legal commencement not asserted",
+  "missing": [
+    "decision numbers, dates and subjects",
+    "complete official decision text",
+    "official annexes"
+  ],
+  "law_text_complete": false,
+  "privacy_withheld": false,
+  "listing_label": "2025 Yılı Meclis Kararları",
+  "record_scope": "one official file of the year's council decisions"
+}
