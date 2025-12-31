@@ -1,0 +1,5 @@
+İmalatçı temsilcisinin piyasa gözetim ve denetimi ile ilgili yükümlülükleri
+MADDE 10 – (1) Piyasa gözetim ve denetimi için sorumlu imalatçı temsilcisi, imalatçıdan aldığı yetki belgesinde belirtilen görevleri yerine getirir. Bu yetki belgesi, imalatçı temsilcisinin asgari olarak aşağıdakileri yapmasına olanak verir.
+a) İmalatçı temsilcisi; bir araç piyasaya arz edildikten sonra 10 yıl boyunca, bir sistem, aksam veya ayrı teknik ünite piyasaya arz edildikten sonra ise 5 yıl boyunca, 22 nci maddede atıf yapılan tanıtım dosyasını ve 33 üncü maddede atıf yapılan uygunluk belgelerini Bakanlığa sunmak üzere hazırda bulundurmak için erişimini sağlar.
+b) Bakanlığın talebi üzerine, bir araç, sistem, aksam veya ayrı teknik ünitenin imalatının uygunluğunu göstermek için gerekli olan tüm bilgi ve belgelerin sunulmasını sağlar.
+c) Yetkisi kapsamındaki araç, sistem, aksam, ayrı teknik ünite, parça veya donanımların oluşturduğu ciddi riski ortadan kaldırmak için gerçekleştirilecek her türlü faaliyette, Bakanlık ile işbirliği yapılmasına olanak sağlar.

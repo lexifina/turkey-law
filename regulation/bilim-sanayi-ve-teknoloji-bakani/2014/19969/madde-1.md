@@ -1,0 +1,9 @@
+BİRİNCİ BÖLÜM
+Amaç, Kapsam, Dayanak ve Tanımlar
+Amaç ve kapsam
+MADDE 1 – (1) Bu Yönetmeliğin amacı, 13/10/1983 tarihli ve 2918 sayılı Karayolları Trafik Kanunu hükümleri uyarınca, tarım ve orman araçlarının yapım ve kullanım bakımından karayolu yapısına ve trafik güvenliğine uyma zorunluluğunu yerine getirmek üzere; bu Yönetmelik kapsamındaki tüm yeni araç, sistem, aksam ve ayrı teknik ünitelerin tip onayı ile ilgili idari ve teknik şartları belirlemektir.
+(2) Bu Yönetmelik, 4 üncü maddede tanımlanan, bir veya daha fazla aşamada tasarlanan ve üretilen tarım ve orman araçları ve bu araçlar için tasarlanıp üretilen sistem, aksam ve ayrı teknik ünitelerin yanı sıra bunların parça ve donanımlarını kapsar. Bu Yönetmelik özellikle, T ve C kategorileri traktörler, R kategorisi römorklar ve S kategorisi birbiriyle değiştirilebilir çekilen donanımlar için geçerlidir.
+(3) R kategorisi römorklar ve S kategorisi birbiriyle değiştirilebilir çekilen donanım, C kategorisi paletli traktörler, T4.1 ve T4.2 kategorileri özel amaçlı tekerlekli traktörler için imalatçı, bu Yönetmelik kapsamında onay başvurusunda bulunmayı ya da ilgili ulusal şartlara uymayı tercih edebilir.
+(4) Bu Yönetmelik, bağlı olduğu araç karayolunda kullanım halindeyken yerden tamamen kaldırılan veya dikey bir eksen etrafında mafsal bağlantısı oluşturmayan birbiriyle değiştirilebilir (Değişik ibare:RG-16/4/2020-31101) ekipmanları kapsamaz.
+(5) Bu Yönetmelik, münferit araçların onayı için uygulanmaz. Ancak, münferit onay veren Onay Kuruluşu; araç, sistem, aksam ve ayrı teknik üniteler için ilgili ulusal hükümler yerine bu Yönetmelik kapsamında verilen tip onayını kabul eder.
+(6) Bu Yönetmelik, bu Yönetmelik kapsamında onaya tabi olan araç, sistem, aksam ve ayrı teknik ünitelerin ve söz konusu araçların parça ve donanımının piyasa gözetimi ve denetimi ile ilgili şartları belirlemektedir.

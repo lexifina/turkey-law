@@ -1,0 +1,3 @@
+OECD deney raporlarının AB tip onayı için kabulü
+MADDE 50 – (1) Bu Yönetmeliğin diğer şartları saklı kalmak şartıyla, bu Yönetmelikte OECD Kodlarına atıf yapıldığında, bu Yönetmelik veya bu Yönetmelik uyarınca kabul edilen mevzuat kapsamında hazırlanan deney raporlarına alternatif olarak OECD Kodlarına göre düzenlenen eksiksiz deney raporu AB tip onayında kabul edilebilir.
+(2) AB tip onayı bağlamında kabul edilebilir olması için, birinci fıkrada bahsedilen OECD deney raporu, tarım ve orman traktörlerinin deneylerine ilişkin OECD standart kodlarını revize eden Şubat 2012 tarihli OECD Konsey Kararının değişiklik yapılan Ek I’i doğrultusunda onaylanmış olmalıdır.

@@ -1,0 +1,28 @@
+Yürürlükten kaldırılan yönetmelikler
+MADDE 76 – (1) 73 üncü maddenin ikinci fıkrası saklı kalmak şartıyla;
+a) 8/6/2008 tarihli ve 26900 sayılı Resmî Gazete’de yayımlanan Tarım veya Orman Traktörleri, Bunların Römorkları ve Birbiriyle Değiştirilebilir Çekilen Makinaları ile Sistemleri, Aksamları, Ayrı Teknik Üniteleri ile İlgili Tip Onayı Yönetmeliği (2003/37/AT),
+b) 18/1/2002 tarihli ve 24644 sayılı Resmî Gazete’de yayımlanan Tekerlekli Tarım veya Orman Traktörlerinin Fren Tertibatı ile İlgili Tip Onayı Yönetmeliği (76/432/AT),
+c) 26/1/2000 tarihli ve 23945 sayılı Resmî Gazete’de yayımlanan Tekerlekli Tarım veya Orman Traktörlerinin Yolcu Oturakları ile İlgili Tip Onayı Yönetmeliği (76/763/AT),
+ç) 18/4/2003 tarihli ve 25082 sayılı Resmî Gazete’de yayımlanan Tarım veya Orman Traktörlerinde Kullanılan Dizel Motorlardan Çıkan Kirletici Emisyonlara Karşı Alınacak Tedbirler ile İlgili Tip Onayı Yönetmeliği (77/537/AT),
+d) 30/11/2000 tarihli ve 24246 sayılı Resmî Gazete’de yayımlanan Tekerlekli Tarım veya Orman Traktörlerinin Sürücü Koltuğu ile İlgili Tip Onayı Yönetmeliği (78/764/AT),
+e) 4/6/2002 tarihli ve 24775 sayılı Resmî Gazete’de yayımlanan Tekerlekli Tarım veya Orman Traktörlerinin Çalıştırma Alanı Sürüş Konumuna Geçişi, Kapıları ve Pencereleri ile İlgili Tip Onayı Yönetmeliği (80/720/AT),
+f) 2/11/2000 tarihli ve 24218 sayılı Resmî Gazete’de yayımlanan Tekerlekli Tarım veya Orman Traktörlerinin Kuyruk Mili ve Koruyucusu ile İlgili Tip Onayı Yönetmeliği (86/297/AT),
+g) 2/6/2002 tarihli ve 24773 sayılı Resmî Gazete’de yayımlanan Dar İzli Tekerlekli Tarım ve Orman Traktörlerinin Arkaya Monte Edilmiş Devrilmeye Karşı Koruma Çerçevesi ile İlgili Tip Onayı Yönetmeliği (86/298/AT),
+ğ) 15/1/2002 tarihli ve 24641 sayılı Resmî Gazete’de yayımlanan Tekerlekli Tarım veya Orman Traktörlerinin Kumandalarının Takılması, Konumu, Çalışması ve Tanınması ile İlgili Tip Onayı Yönetmeliği (86/415/AT),
+h) 2/8/2001 tarihli ve 24481 sayılı Resmî Gazete’de yayımlanan Dar İzli Tekerlekli Tarım ve Orman Traktörlerinin Sürücü Koltuğu Önüne Monte Edilmiş Devrilmeye Karşı Koruma Çerçevesi ile İlgili Tip Onayı Yönetmeliği (87/402/AT),
+ı) 20/7/2007 tarihli ve 26588 sayılı Resmî Gazete’de yayımlanan Tarım veya Orman Traktörlerini Tahrik Etmek Üzere Tasarlanan Motorlardan Çıkan Gaz Emisyonları ve Parçacık Kirleticilere Karşı Alınacak Tedbirlerle İlgili Tip Onayı Yönetmeliği (2000/25/AT),
+i) 21/12/2012 tarihli ve 28504 (mükerrer) sayılı Resmî Gazete’de yayımlanan Tekerlekli Tarım veya Orman Traktörlerinin Görüş Alanı ve Ön Cam Silecekleri ile İlgili Tip Onayı Yönetmeliği (2008/2/AT),
+j) 21/12/2012 tarihli ve 28504 (mükerrer) sayılı Resmî Gazete’de yayımlanan Tekerlekli Tarım veya Orman Traktörlerinin Devrilmeye Karşı Koruyucu Yapısı İle İlgili Tip Onayı Yönetmeliği (2009/57/AT),
+k) 21/12/2012 tarihli ve 28504 (mükerrer) sayılı Resmî Gazete’de yayımlanan Tekerlekli Tarım veya Orman Traktörlerinin Çeki Kancası ve Geri Hareket Tertibatı İle İlgili Tip Onayı Yönetmeliği (2009/58/AT),
+l) 21/12/2012 tarihli ve 28504 (mükerrer) sayılı Resmî Gazete’de yayımlanan Tekerlekli Tarım veya Orman Traktörlerinin Geri Görüş Aynaları İle İlgili Tip Onayı Yönetmeliği (2009/59/AT),
+m) 21/12/2012 tarihli ve 28504 (mükerrer) sayılı Resmî Gazete’de yayımlanan Tekerlekli Tarım veya Orman Traktörlerinin Azami Tasarım Hızı ve Yük Platformu İle İlgili Tip Onayı Yönetmeliği (2009/60/AT),
+n) 21/12/2012 tarihli ve 28504 (mükerrer) sayılı Resmî Gazete’de yayımlanan Tekerlekli Tarım veya Orman Traktörlerinin Aydınlatma ve Işıklı Sinyal Cihazlarının Yerleştirilmesi İle İlgili Tip Onayı Yönetmeliği (2009/61/AT),
+o) 21/12/2012 tarihli ve 28504 (mükerrer) sayılı Resmî Gazete’de yayımlanan Tekerlekli Tarım veya Orman Traktörlerinin Bazı Parçaları ve Özellikleri İle İlgili Tip Onayı Yönetmeliği (2009/63/AT),
+ö) 21/12/2012 tarihli ve 28504 (mükerrer) sayılı Resmî Gazete’de yayımlanan Tarım veya Orman Traktörlerinin Elektromanyetik Uyumluluğu İle İlgili Tip Onayı Yönetmeliği (2009/64/AT),
+p) 21/12/2012 tarihli ve 28504 (mükerrer) sayılı Resmî Gazete’de yayımlanan Tekerlekli Tarım veya Orman Traktörlerinin Direksiyon Donanımı İle İlgili Tip Onayı Yönetmeliği (2009/66/AT),
+r) 21/12/2012 tarihli ve 28504 (mükerrer) sayılı Resmî Gazete’de yayımlanan Tekerlekli Tarım veya Orman Traktörlerinin Aydınlatma ve Işıklı Sinyal Cihazları İle İlgili Aksam Tip Onayı Yönetmeliği (2009/68/AT),
+s) 21/12/2012 tarihli ve 28504 (mükerrer) sayılı Resmî Gazete’de yayımlanan Tekerlekli Tarım veya Orman Traktörlerinin Devrilmeye Karşı Koruyucu Yapısı İle İlgili Tip Onayı Yönetmeliği (2009/75/AT) (Statik Deney),
+ş) 21/12/2012 tarihli ve 28504 (mükerrer) sayılı Resmî Gazete’de yayımlanan Tekerlekli Tarım veya Orman Traktörlerinin Sürücüsü Tarafından Algılanan Gürültü Seviyesi İle İlgili Tip Onayı Yönetmeliği (2009/76/AT),
+t) 21/12/2012 tarihli ve 28504 (mükerrer) sayılı Resmî Gazete’de yayımlanan Tekerlekli Tarım veya Orman Traktörlerinin Bazı Aksamları ve Karakteristikleri İle İlgili Tip Onayı Yönetmeliği (2009/144/AT),
+yürürlükten kaldırılmıştır.
+(2) Yürürlükten kaldırılan Yönetmeliklere yapılan atıflar, bu Yönetmeliğe yapılmış sayılır ve 2003/37/AT Yönetmeliği için, Ek III’te verilen korelasyon tablosuna uygun olarak okunmalıdır.

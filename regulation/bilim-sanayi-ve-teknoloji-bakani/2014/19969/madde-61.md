@@ -1,0 +1,2 @@
+Teknik servislerin performans standartlarına ve değerlendirilmesine yönelik prosedürler
+MADDE 61 – (1) Teknik servislerin Türkiye veya üye ülkelerde aynı yüksek performans standartlarını karşılaması için, teknik servislerin uyması gereken standartlar ile 62 nci madde uyarınca değerlendirilmesine yönelik prosedür ve 60 ıncı madde uyarınca akreditasyonu ile ilgili olarak, 71 inci maddeye uygun olarak mevzuatı oluşturmak ve kabul etmek üzere Türkiye’de Bakanlık yetkilidir.

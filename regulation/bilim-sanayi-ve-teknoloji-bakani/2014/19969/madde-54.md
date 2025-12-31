@@ -1,0 +1,2 @@
+Birden fazla tip onayı sahibine ilişkin yükümlülükler
+MADDE 54 – (1) Kademeli tip onayı, karma tip onayı ve çok aşamalı tip onayı verileceği durumlarda, ilgili tip onayından sorumlu imalatçı aynı zamanda söz konusu sistem, aksam veya ayrı teknik ünite ya da söz konusu aşama ile ilgili tamir bilgilerini hem son imalatçıya hem de bağımsız operatörlere bildirmek zorundadır. Son imalatçı tam araç ile ilgili bilgileri bağımsız operatörlere vermek ile sorumludur.

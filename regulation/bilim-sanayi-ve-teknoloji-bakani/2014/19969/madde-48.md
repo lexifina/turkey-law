@@ -1,0 +1,3 @@
+Kararların ve mevcut çözüm yollarının bildirilmesi
+MADDE 48 – (1) Bu Yönetmelik uyarınca alınan tüm kararlarda ve AB tip onayının verilmemesine veya geri çekilmesine, tescilin reddine veya herhangi bir aracın piyasaya arz edilmesinin, tescilinin veya hizmete girmesinin yasaklanmasına ya da kısıtlanmasına ilişkin olan veya herhangi bir aracın piyasadan çekilmesini öngören tüm kararlarda kararın gerekçeleri ayrıntılı bir biçimde açıklanmalıdır.
+(2) Bu türden kararlar tüm ilgili taraflara bildirilir. İlgili taraf aynı zamanda, yürürlükte olan mevzuata göre başvurabileceği çözüm yolları ve bu çözüm yollarına başvurabileceği süre sınırları hakkında bilgilendirilir.

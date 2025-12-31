@@ -1,0 +1,6 @@
+ONÜÇÜNCÜ BÖLÜM
+Uluslararası Mevzuat
+AB tip onayı için gereken BM/AEK regülasyonları
+MADDE 49 – (1) Bu Yönetmeliğin Ek I’inde veya bu Yönetmelik uyarınca yayımlanan mevzuatta listelenen ve Türkiye’nin kabul ettiği BM/AEK Regülasyonları veya bunlarda yapılan değişiklikler, bir aracın AB tip onayı şartlarının parçasıdır.
+(2) Onay Kuruluşları, bu Yönetmelik veya bu Yönetmelik uyarınca kabul edilen mevzuat doğrultusunda verilmiş, karşılık gelen onayların ve onay işaretlerinin yerine, birinci fıkrada bahsedilen BM/AEK Regülasyonları doğrultusunda verilen onayları ve uygun olan durumlarda ilgili onay işaretlerini kabul eder.
+(3) AB araç tip onayı için bir BM/AEK Regülasyonunun ya da bu Regülasyonda yapılan bir değişikliğin uygun görülmesi durumunda, ilgili BM/AEK Regülasyonunun veya Regülasyon değişikliğinin zorunlu hale getirilmesi ve bu Yönetmeliğin Ek I’inde ya da bu Yönetmelik uyarınca kabul edilen mevzuatta gerekli değişikliklerin yapılması için 71 inci maddeye uygun olarak mevzuat yayımlanır. Bu mevzuatta, BM/AEK Regülasyonunun veya eklerinin zorunlu uygulama tarihleri belirtilir ve uygun olan durumlarda geçiş hükümlerine yer verilir. BM/AEK Regülasyonlarının zorunlu uygulamasına ilişkin ayrı mevzuat Komisyon tarafından yayımlanmasına müteakip, Bakanlık tarafından iç mevzuata derç edilir.
