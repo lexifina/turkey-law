@@ -1,0 +1,4 @@
+Denetim bilgilerinin gümrüklere beyanı
+MADDE 24- (1) Ürünlerin ihraç veya ithal edilebileceğine dair TAREKS referans numarasının gümrük beyannamesinin 44 numaralı hanesine firma tarafından geçerlik süresi içinde kaydedilmesi zorunludur. Aksi takdirde, ürünlerin ihracatına veya ithalatına izin verilmez.
+(2) Ek-1/C kapsamı ürünler için TAREKS referans numarasının yanı sıra, Tarım ve Orman Bakanlığı tarafından düzenlenen Bitki Sağlık Sertifikasının tarihi ve seri numarasının da gümrük beyannamesinin 44 numaralı hanesine firma tarafından kaydedilmesi zorunludur. Aksi takdirde, ürünlerin ihracatına izin verilmez.
+(3) TAREKS referans numarası kapsamı ürüne ilişkin Gümrük Tarife İstatistik Pozisyonu, firma ünvanı, vergi numarası ve miktarı gibi bilgilerin söz konusu ürünlere ilişkin firma tarafından gümrük beyannamesine kaydedilen bilgilerle aynı olması gerekir.

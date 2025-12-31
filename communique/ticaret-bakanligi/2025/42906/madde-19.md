@@ -1,0 +1,5 @@
+Etiket ve işaretleme
+MADDE 19- (1) Etiketleme ve/veya işaretlemede, ürünün ilgili teknik düzenlemesinde belirtilen hükümler uygulanır. Söz konusu mevzuatta düzenleme bulunmaması halinde etiketleme ve/veya işaretleme işlemi, ürün ambalajı üzerinde olması gereken bilgilerin silinmeyecek ve yeknesak biçimde ambalaj üzerine basılması veya ambalajın ayrılmaz bir parçası halinde etiketlenmesi, ayrıca ambalajın bir kenarında okunaklı ve açık bir şekilde görünmesi; bunun mümkün olmaması halinde ambalajların paletlenmesi ve söz konusu bilgilerin paletin ayrılmaz bir parçası halinde etiketle, açık ve okunur şekilde iliştirilmesi şeklinde yapılır.
+(2) Etiket ve/veya işaretlemede yer alan bilgiler Türkçe veya yabancı dillerde yazılabilir. İngilizce dışındaki yabancı dillerde etiketleme ve/veya işaretleme yapılması halinde, etiket ve/veya işaretlemede yer alan bilgilerin Türkçe tercümesi firma tarafından beyan edilir.
+(3) İthalat denetiminde, etiketleme ve/veya işaretlemeye ilişkin olarak ürünlerin ilgili standardına karşılık gelen uluslararası standart hükümleri uygulanabilir.
+(4) İthalata konu ürünler için parti numarası ve Türk standardı numarası aranmaz.

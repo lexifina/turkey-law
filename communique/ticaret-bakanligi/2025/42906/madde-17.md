@@ -1,0 +1,10 @@
+İthalatta denetim
+MADDE 17- (1) Bu Tebliğ kapsamındaki denetimler 7/10/2009 tarihli ve 27369 mükerrer sayılı Resmî Gazete’de yayımlanan Gümrük Yönetmeliğinin 181 inci maddesinin dördüncü fıkrası çerçevesinde yapılır.
+(2) TAREKS üzerinden gerçekleştirilen başvuru sonrasında, Ek-5’te yer alan Başvuru Formu ve eki belgeler firma adına yetkilendirilen kullanıcı tarafından başvuru tarihini takip eden en geç bir iş günü içinde TAREKS’e elektronik ortamda yüklenir. TAREKS’e elektronik olarak yüklenen bilgi ve belgeler, talep edilmesi halinde ilgili Denetim Birimine sunulur. Firmanın önceden yazılı bildirimde bulunması durumunda, Denetim Birimince ilave süre verilebilir.
+(3) Firmaya tanınan süre içerisinde istenilen belgelerin TAREKS’e elektronik ortamda yüklenmemesi ya da Denetim Birimine iletilmemesi durumunda, denetim başvurusu iptal edilir.
+(4) İthalat denetimine, TAREKS'te belirlenen denetim tarihi ve saatinden itibaren en geç yirmi dört saat içerisinde ilgili gümrük idaresinde başlanır.
+(5) Fiili denetim sonucunda ürünlerin ilgili teknik düzenlemelere uygun olduğunun belirlenmesi durumunda TAREKS referans numarası oluşturulur.
+(6) Bu Tebliğ kapsamındaki ürünlerin Dahilde İşleme Rejimi kapsamında yapılacak ithalatının fiili denetiminde ürünün Dahilde İşleme İzin Belgesinde belirtilen vasıfları esas alınır.
+(7) İhraç edildikten sonra geri gelen ürünün ihraç edilen ürün olduğunun tespiti yeterlidir. Söz konusu tespit için, fiziksel ve/veya kimyasal analiz gerektiren ürünlerden, ilgili teknik düzenlemelerde belirtilen miktarda numune alınır.
+(8) Risk analizi sonucunda fiili denetime tâbi tutulmasına gerek görülmeyen ürünlerin ithal edilebileceğine dair TAREKS referans numarası doğrudan oluşturulur.
+(9) Gümrük idarelerine kapsam dışı olarak beyan edilen ürünlerin ithalatında, 18210099192013012727484 olarak belirlenen 23 haneli TAREKS referans numarası, gümrük beyannamesinin 44 numaralı hanesine ithalatçı tarafından kaydedilir. Kapsam dışı olarak beyan edilen ürünlerin ilgili gümrük idaresince denetime yönlendirilmesi halinde, 11 inci madde çerçevesinde denetim başvurusu yapılır.
