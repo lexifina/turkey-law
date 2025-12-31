@@ -1,0 +1,28 @@
+{
+  "number": "year-file",
+  "year": 2025,
+  "title": "2025 Meclis Kararları",
+  "decision_date": null,
+  "index_date": "2025-12-31",
+  "date_precision": "year",
+  "period": "2025",
+  "source": "https://www.afyonozelidare.gov.tr/2025-meclis-kararlari",
+  "official_page": "https://www.afyonozelidare.gov.tr/2025-meclis-kararlari",
+  "official_document": "https://www.afyonozelidare.gov.tr/kurumlar/afyonozelidare.gov.tr/Dökümanlar/2025-Meclis-ve-Encumen/Meclis-Kararlari-2025-_3_(1).pdf",
+  "source_sha256": "836990b2246de0fe1f884326b23b479f64a3d14ddb901e09a5b7ee88fb8608aa",
+  "issuer": "Afyonkarahisar İl Genel Meclisi",
+  "history_type": "metadata",
+  "text_status": "metadata-only: number/subject as published (official list or file name); complete decision text is in the linked official document, not transcribed",
+  "in_force": "2025-12-31",
+  "in_force_basis": "The official source prints only the year of this file (2025); date set to 31 December of that year (turkey-law date convention for year-only sources, Alan 2026-11-16); exact adoption dates are in the linked official document; legal commencement not asserted",
+  "missing": [
+    "exact decision date",
+    "complete official decision text",
+    "official annexes",
+    "decision numbers and subjects"
+  ],
+  "law_text_complete": false,
+  "privacy_withheld": false,
+  "listing_label": "2025 Meclis Kararları",
+  "item_title": "2025 Meclis Kararları"
+}
