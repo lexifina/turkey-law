@@ -1,0 +1,28 @@
+{
+  "number": "month-12",
+  "year": 2025,
+  "month": 12,
+  "title": "Aralık 2025 – Meclis Kararları",
+  "decision_date": null,
+  "index_date": "2025-12-31",
+  "date_precision": "month",
+  "period": "Aralık 2025",
+  "source": "https://hopa.bel.tr/ova_doc/page/2/",
+  "official_page": null,
+  "official_document": "https://hopa.bel.tr/ova_doc/aralik-2025-meclis-kararlari/",
+  "source_sha256": "ae300326f0be3b7d4acc30e17a1700330773ea4396e32d569a795ed899d9a38b",
+  "issuer": "Hopa Belediye Meclisi",
+  "history_type": "metadata",
+  "text_status": "metadata-only: listing fields as published; the decisions are in the linked official document(s) or page, not transcribed",
+  "in_force": "2025-12-31",
+  "in_force_basis": "The official listing gives only the month of this official file (Aralık 2025); date set to the last day of that month (turkey-law date convention for month-only sources); exact adoption dates are in the linked official document; legal commencement not asserted",
+  "missing": [
+    "decision numbers, dates and subjects",
+    "complete official decision text",
+    "official annexes"
+  ],
+  "law_text_complete": false,
+  "privacy_withheld": false,
+  "listing_label": "Aralık 2025 – Meclis Kararları",
+  "record_scope": "one official file of council decisions (meeting or month)"
+}
