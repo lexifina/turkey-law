@@ -1,0 +1,27 @@
+{
+  "number": "42",
+  "year": 2025,
+  "title": "2025 YILI hacanceli turanli koyu",
+  "decision_date": null,
+  "index_date": "2025-12-31",
+  "date_precision": "year",
+  "period": "2025",
+  "source": "https://www.kilisozelidare.gov.tr/2025-meclis-kararlari",
+  "official_page": "https://www.kilisozelidare.gov.tr/2025-meclis-kararlari",
+  "official_document": "https://www.kilisozelidare.gov.tr/kurumlar/kilisozelidare.gov.tr/Meclis_Karları/2025-meclis-kararlari/KARAR-42-2025-YILI-hacanceli-turanli-koyu.doc",
+  "source_sha256": "29f9b88d90348c15609a3fc4d10e5d08f7696619454e918f7778d76d238fbbf1",
+  "issuer": "Kilis İl Genel Meclisi",
+  "history_type": "metadata",
+  "text_status": "metadata-only: number/subject as published (official list or file name); complete decision text is in the linked official document, not transcribed",
+  "in_force": "2025-12-31",
+  "in_force_basis": "The official source prints only the year of this decision (2025); date set to 31 December of that year (turkey-law date convention for year-only sources, Alan 2026-11-16); exact adoption dates are in the linked official document; legal commencement not asserted",
+  "missing": [
+    "exact decision date",
+    "complete official decision text",
+    "official annexes"
+  ],
+  "law_text_complete": false,
+  "privacy_withheld": false,
+  "listing_label": "KARAR-42-2025-YILI-hacanceli-turanli-koyu",
+  "item_title": "2025 Meclis Kararları"
+}
