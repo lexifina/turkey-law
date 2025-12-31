@@ -1,0 +1,54 @@
+{
+  "source_id": "9.5.21063",
+  "kind": "communique",
+  "register_kind": "Tebliğler",
+  "title": "ÖZEL TÜKETİM VERGİSİ (IV) SAYILI LİSTE UYGULAMA GENEL TEBLİĞİ",
+  "number": "21063",
+  "path": "teblig/2015/21063",
+  "source": "https://www.mevzuat.gov.tr/anasayfa/MevzuatFihristDetayIframe?MevzuatTur=9&MevzuatNo=21063&MevzuatTertip=5",
+  "source_sha256": "3e5f163d51339ba79685a686dca491ab8f343b8934be27a83b60ae0b21c19d36",
+  "source_bytes": 151069,
+  "published": "2015-08-20",
+  "gazette": "29451",
+  "in_force": "2025-12-31",
+  "in_force_basis": "latest Resmî Gazete date printed in the source amendment notes/table (\"RG-31/12/2025\") for the current consolidated text",
+  "date_evidence": [
+    [
+      "2025-12-31",
+      "RG-31/12/2025",
+      "Resmî Gazete date printed in the source amendment note"
+    ],
+    [
+      "2023-12-30",
+      "RG-30/12/2023",
+      "Resmî Gazete date printed in the source amendment note"
+    ],
+    [
+      "2018-07-05",
+      "RG-5/7/2018",
+      "Resmî Gazete date printed in the source amendment note"
+    ],
+    [
+      "2017-12-27",
+      "RG-27/12/2017",
+      "Resmî Gazete date printed in the source amendment note"
+    ]
+  ],
+  "commencement_clauses": [
+    "Bu Tebliğ, yayım tarihini izleyen aybaşından itibaren yürürlüğe girer"
+  ],
+  "history": "current-text",
+  "label": "oldest version available",
+  "checked_on": "2026-11-15",
+  "word_count": 10852,
+  "text_status": "current-consolidated",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  },
+  "source_links": [
+    "9.5.21063-EK.docx"
+  ],
+  "completeness": "html-text-complete; linked annexes not fetched"
+}
