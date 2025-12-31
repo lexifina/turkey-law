@@ -1,0 +1,12 @@
+Otobüs ve kamyonlara ilişkin özel şartlar
+MADDE 9 – (1) Bu Yönetmeliğin ve uygulama mevzuatının M2, M3, N2 ve N3 kategorisi araçlara uygulanabilir olan diğer şartlarına ek olarak, söz konusu kategorideki araçlar ikinci ila beşinci fıkralardaki şartları ve yedinci fıkrada belirtilen uygulama mevzuatındaki teknik şartları sağlar. M2 ve M3 kategorisi araçlar ayrıca altıncı fıkrada belirtilen şartları sağlar.
+(2) M2, M3, N2 ve N3 kategorisi araçlar, yedinci fıkrada belirtilen uygulama mevzuatındaki teknik şartlara uygun şeritten ayrılma uyarı sistemi ve gelişmiş acil frenleme sistemi ile donatılır.
+(3) M2, M3, N2 ve N3 kategorisi araçlar, aracın önüne veya yanına yakın bir mesafede bulunan yayaları ve bisikletlileri algılayabilen ve bu gibi korunmasız karayolu kullanıcıları ile çarpışmayı önleyebilen veya uyarı verebilen gelişmiş sistemler ile donatılır.
+(4) İkinci ve üçüncü fıkralarında belirtilen sistemler, özellikle aşağıdaki şartları sağlar:
+a) Sürücü tarafından gerçekleştirilecek bir dizi hareketle, sistemlerin her seferinde birer birer (ayrı ayrı) kapatılması mümkün olmalıdır.
+b) Araç ana kontrol anahtarının her etkinleştirilmesinde sistemler normal çalışma modunda olmalıdır.
+c) Sesli uyarıları kolayca önlemek mümkün olmalı, ancak böyle bir işlem aynı zamanda sesli uyarılar dışındaki sistem işlevlerini durdurmamalıdır.
+ç) Sürücü, bu sistemleri geçersiz hale getirebilmelidir.
+(5) M2, M3, N2 ve N3 kategorisi araçlar, sürücü koltuğundan korunmasız karayolu kullanıcılarının doğrudan görülebilmesi için, farklı araç kategorilerinin özelliklerini de göz önünde bulundurarak önde ve sürücünün yan tarafında bulunan kör noktaları en aza indirecek şekilde tasarlanır ve imal edilir.
+(6) Sürücüye ilave olarak 22 yolcu kapasitesini aşan ve yolcuların sık sık yapacağı harekete imkân sağlamak üzere ayakta duran yolcular için alanları bulunan M2 ve M3 kategorisi araçlar, tekerlekli sandalye kullanıcıları da dâhil olmak üzere hareket kabiliyeti kısıtlı kişilerce erişilebilecek şekilde tasarlanır ve imal edilir.
+(7) İkinci, üçüncü ve dördüncü fıkralarda belirtilen şartlara göre araçların tip onayına ve üçüncü fıkrada belirtilen sistemlerin ayrı teknik ünite olarak onaylanmasına dair tek tip prosedür ve teknik şartlara ilişkin uygulama mevzuatının AB’de yayımlanmasını müteakip bu mevzuat Bakanlık tarafından yayımlanabilir. Beşinci fıkrada belirtilen şartlara göre araçların tip onayına dair tek tip prosedür ve teknik şartlara ilişkin uygulama mevzuatının AB’de yayımlanmasını müteakip bu mevzuat Bakanlık tarafından yayımlanabilir.

@@ -1,0 +1,5 @@
+Diğer hükümler
+MADDE 14 – (1) Bakanlık, bu Yönetmeliğin uygulaması ile ilgili gerekli alt düzenlemeleri yapmaya yetkilidir.
+(2) 4 üncü maddenin altıncı ve yedinci fıkralarının, 5 inci maddenin dördüncü fıkrasının, 6 ncı maddenin altıncı fıkrasının, 7 nci maddenin altıncı fıkrasının, 8 inci maddenin üçüncü fıkrasının, 9 uncu maddenin yedinci fıkrasının, 10 uncu maddenin üçüncü fıkrasının ve 12 nci maddesinin istisnası olarak; bu Yönetmelik kapsamında ilgili uygulama mevzuatının AB’de yayımlanmış ancak Türkiye’de yayımlanmamış olması durumunda, Ek-II’de belirtilen uygulama tarihleri dikkate alınarak, AB’de yayımlanan ilgili mevzuat bu Yönetmeliğin amaçları bakımından uygulanabilir.
+(3) AB/2018/858 Yönetmeliğinin 82 nci maddesinin dördüncü fıkrası, 86 ncı maddesinin birinci, beşinci, yedinci ve dokuzuncu fıkraları ile 87 nci maddesinin ikinci, üçüncü, dördüncü ve beşinci fıkraları, bu Yönetmeliğin uygulaması kapsamında da geçerlidir.
+(4) Bu Yönetmeliğin 6 ncı ve 11 inci maddelerinin uygulamasında, 6698 sayılı Kişisel Verilerin Korunması Kanunu hükümleri saklıdır.

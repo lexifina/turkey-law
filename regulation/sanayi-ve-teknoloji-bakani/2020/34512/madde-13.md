@@ -1,0 +1,2 @@
+Komite
+MADDE 13 – (1) Bu Yönetmeliğin uygulanması ile ilgili hususlar, 11/1/1997 tarihli ve 22874 sayılı Resmî Gazete'de yayımlanan Tekerlekli Araçlar ile Bu Araçlara Takılan ve/veya Araçlarda Kullanılan Aksam ve Parçalar ile İlgili Teknik Mevzuatın Uygulanmasına Dair Yönetmelik ile oluşturulan Motorlu Araçlar Teknik Komitesi (MARTEK) tarafından görüşülebilir. MARTEK tavsiye niteliğindeki görüşünü Bakanlığa bildirebilir.

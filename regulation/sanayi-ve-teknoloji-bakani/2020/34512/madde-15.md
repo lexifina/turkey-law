@@ -1,0 +1,3 @@
+Avrupa Birliği mevzuatına uyum
+MADDE 15 – (1) Bu Yönetmelik, motorlu araçların ve bunlar için tasarlanan römorklar, sistemler, aksamlar ve ayrı teknik ünitelerin genel güvenliği ve korunmasız karayolu kullanıcılarının ve yolcuların korunması ile ilgili tip onayı hakkındaki (AB)2019/2144 sayılı Avrupa Parlamentosu ve Konsey Regülasyonu dikkate alınarak Avrupa Birliği mevzuatına uyum çerçevesinde hazırlanmıştır.
+(2) Bu Yönetmelik hükümlerinde herhangi bir anlaşmazlık veya yanılgı olması durumunda, birinci fıkrada belirtilen ve bu Yönetmeliğin esas aldığı (AB)2019/2144 sayılı Regülasyonun orijinal metni esas alınır.
