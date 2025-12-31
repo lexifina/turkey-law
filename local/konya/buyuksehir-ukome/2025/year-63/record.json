@@ -1,0 +1,28 @@
+{
+  "number": "year-63",
+  "year": 2025,
+  "title": "2025/14 sayılı Cumhurbaşkanlığı Genelgesine istinaden ilgili bakanlıklarca yapılan \"Karayollarındaki Hız Sınırlama Uygulamalarında Yeksenaklığın Sağlanmasına İlişkin İş Birliği Protokolü\" kapsamında çalışma guruplarınca hazırlanan saha tespit çalışma raporlarının değerlendirilip onaylanması.",
+  "decision_date": null,
+  "index_date": "2025-12-31",
+  "date_precision": "year",
+  "period": "2025",
+  "source": "https://www.konya.bel.tr/ukome-kararlari/oturum?yil=2025&oturum=06",
+  "official_page": "https://www.konya.bel.tr/ukome-kararlari/oturum?yil=2025&oturum=06",
+  "official_document": "https://files.konya.bel.tr/kbb/kbb/dosya/ukome/DIrgcZ4f5XPpCA4EZvxh3vNTHUq8ZrTfyThSICGb.pdf",
+  "source_sha256": "d558ab29006da187ccf14224f95e8c8f392d091f8126fe44856d51b02ff46759",
+  "issuer": "Konya Büyükşehir Belediyesi UKOME",
+  "history_type": "metadata",
+  "text_status": "metadata-only: listing fields as published; the decisions are in the linked official document, not transcribed",
+  "in_force": "2025-12-31",
+  "in_force_basis": "The official listing dates this official file only by its year (2025); date set to 31 December of that year (turkey-law date convention for year-only sources, approved 2026-11-16); exact adoption dates are in the linked official document; legal commencement not asserted",
+  "missing": [
+    "decision numbers, dates and subjects",
+    "complete official decision text",
+    "official annexes"
+  ],
+  "law_text_complete": false,
+  "privacy_withheld": false,
+  "session": "2025/06",
+  "decision_number_in_session": "01",
+  "record_scope": "one UKOME decision (official PDF)"
+}
