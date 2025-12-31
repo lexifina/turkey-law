@@ -1,0 +1,2 @@
+Geçiş süreci
+GEÇİCİ MADDE 1- (1) 1/1/2026 tarihinden önce çıkış ülkesinde ihraç amacıyla Türkiye’ye sevk edilmek üzere taşıma belgesi düzenlenmiş veya Gümrük Mevzuatı uyarınca gümrük idarelerine sunulmuş olan ürünlerin ithalatı, 28/2/2026 tarihine kadar (bu tarih dahil) TAREKS başvurusunun gerçekleştirilmesi ve ithalatçı firmanın talebi halinde, 15 inci maddeyle yürürlükten kaldırılan Araç Parçalarının İthalat Denetimi Tebliği (Ürün Güvenliği ve Denetimi: 2025/25) hükümlerine göre sonuçlandırılır.
