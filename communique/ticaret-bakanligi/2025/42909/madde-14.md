@@ -1,0 +1,9 @@
+Denetim
+MADDE 14– (1) B tipi UGK’lerin merkez ve şubeleri, bu Tebliğde belirtilen esaslar dahilinde yıl içinde en az bir kez ihbarlı şekilde denetlenir. A tipi UGK’lerin merkez ve şubeleri, bu denetimden muaf olmakla birlikte gerekli görüldüğünde Genel Müdürlük tarafından verilecek talimat çerçevesinde denetlenebilir.
+(2) Şubelerin denetimleri, şubelerin yerleşik olduğu ilin bağlı olduğu bölge müdürlüğünce gerçekleştirilir. Denetimler için gerekli bilgi ve belgeler, şirket veya kuruluşun merkezinin yerleşik olduğu ilin bağlı olduğu bölge müdürlüğünden temin edilebilir.
+(3) Denetim; bölge müdürlüğünce oluşturulacak, en az biri ticaret denetmeni olmak üzere en az iki kişilik bir komisyon tarafından gerçekleştirilir. Ancak, ihtiyaç duyulması hâlinde bölge müdürlüklerinde görevli bölge müdür yardımcısı ve Genel Müdürlükte görevli personel de denetime iştirak eder.
+(4) Denetimlerde; Genel Müdürlüğün aksi yönde bir talimatı olmadığı sürece, EK-2’de yer alan Uluslararası Gözetim Kuruluşu Denetim Raporu formunda tadat edilmiş hususlar araştırılır.
+(5) Denetimlerde UGK’ler tarafından gözetim faaliyetleriyle ilgili olarak düzenlenmiş belge ve raporlar incelenir. Gerek görülmesi hâlinde gözetim faaliyeti ile ilgili fatura ve diğer dokümanlar da incelenebilir.
+(6) Denetimi yapılacak UGK’nin kayıtlı adresinde bulunamadığı durumlarda, 11/2/1959 tarihli ve 7201 sayılı Tebligat Kanunu çerçevesinde tebligat yapılarak ikinci kez denetime gidilir.
+(7) Denetim raporları ve raporlardaki tespitlere konu gözetim raporları ile UGK’nin yazılı savunması başta olmak üzere destekleyici belgeler, bölge müdürlüğünün görüş ve değerlendirmeleriyle birlikte Genel Müdürlüğe iletilir.
+(8) Denetim sonucuna göre Genel Müdürlük tarafından uyarı müeyyidesi uygulanmasına karar verilen UGK’ye gerekli duyuru, bölge müdürlüğü tarafından yapılır.

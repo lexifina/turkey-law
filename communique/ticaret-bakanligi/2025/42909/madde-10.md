@@ -1,0 +1,3 @@
+Laboratuvar analizi
+MADDE 10– (1) UGK’ler; faaliyetleriyle ilgili olarak laboratuvar analizine ihtiyaç duymaları durumunda, müşterilerinin aksi yönde yazılı bir talimatı olmadığı sürece, söz konusu analizi, Uygunluk Değerlendirme Kuruluşları ve Onaylanmış Kuruluşlar Yönetmeliğinin 5 inci maddesinin onuncu fıkrası çerçevesinde TS EN ISO/IEC 17025 standardına göre ihtiyaç duyulan hizmet kapsamında kamu laboratuvarlarında veya akredite edilmiş özel laboratuvarlarda yaptırır.
+(2) Laboratuvar analizlerinin kendi laboratuvarları dışındaki laboratuvarlarda yapılması, UGK’lerin laboratuvar analizleri ile ilgili sorumluluğunu ortadan kaldırmaz. Müşterinin aksi yönde yazılı bir talimatı varsa, bu talimatın beş yıl süreyle saklanması zorunludur.

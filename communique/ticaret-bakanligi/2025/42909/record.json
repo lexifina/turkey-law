@@ -1,0 +1,38 @@
+{
+  "checked_on": "2026-11-13",
+  "date_gazette": "33124 4.Mükerrer",
+  "date_quote": "31.12.2025",
+  "first_law": null,
+  "gazette": "33124 4.Mükerrer",
+  "history": "current-text",
+  "images": {
+    "deferred": 2,
+    "omitted": 0,
+    "referenced": 0,
+    "source": 2
+  },
+  "in_force": "2025-12-31",
+  "in_force_basis": "original Resmi Gazete publication date supplied by the official listing",
+  "issuer": "Ticaret Bakanlığı",
+  "issuer_catalog_evidence": [
+    {
+      "evidence": "issuer-504-0.json",
+      "id": "504",
+      "label": "Ticaret Bakanlığı",
+      "listing_url": "https://www.mevzuat.gov.tr/Anasayfa/MevzuatDatatable?MevzuatTur=Teblig&KurumId=504&start=0&length=100"
+    }
+  ],
+  "issuer_slug": "ticaret-bakanligi",
+  "kind": "communique",
+  "label": "oldest version available",
+  "notes": [
+    "Normative images deferred pending shared asset support review."
+  ],
+  "published": "2025-12-31",
+  "source": "https://www.mevzuat.gov.tr/anasayfa/MevzuatFihristDetayIframe?MevzuatTur=9&MevzuatNo=42909&MevzuatTertip=5",
+  "source_bytes": 128966,
+  "source_id": "9.5.42909",
+  "source_sha256": "6234f86b2dd896442adb44485305ec63f5866901c234fa7d44bd401255aaf2f4",
+  "title": "ULUSLARARASI GÖZETİM KURULUŞU STATÜSÜNE İLİŞKİN TEBLİĞ\r\n(ÜRÜN GÜVENLİĞİ VE DENETİMİ: 2026/30)",
+  "word_count": 3658
+}

@@ -1,0 +1,5 @@
+Gözetim raporu düzenleme
+MADDE 9– (1) UGK’ler, bu Tebliğ kapsamında düzenleyecekleri tüm gözetim raporlarını müteselsil sıra numarası ve tarih vermek suretiyle kayda alır.
+(2) Gözetim raporları; gözetim faaliyetlerinin nasıl yapılacağına ilişkin müşteri talimatlarına ve prosedürlere uygun olarak, müşteri ünvanını, gözetim konusu malın cinsini, Türk Gümrük Tarife Cetveli faslını ve ihtiyaç duyulabilecek diğer tüm bilgileri içerecek şekilde eksiksiz, ayrıntılı ve gerçeğe uygun şekilde düzenlenir.
+(3) Gözetim raporlarının aslında ve UGK’lerin muhafaza ettiği nüshasında; gözetim faaliyetini yürüten veya takip eden uzman personelin adı, soyadı, ünvanı ile UGK’yi temsile yetkili kişinin adı, soyadı, ünvanı ve güvenli elektronik imzası veya ıslak imzası yer alır. Gözetim faaliyetinin, ilgili uzman personel takibinde diğer yetkili personel tarafından yürütülmesi halinde bu personelin adı, soyadı ve ünvanına da yer verilir.
+(4) Gözetim raporlarının güvenli elektronik imzalı veya ıslak imzalı nüshalarının UGK tarafından beş yıl süreyle saklanması zorunludur.
