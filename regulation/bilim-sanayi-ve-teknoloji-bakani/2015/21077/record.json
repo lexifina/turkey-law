@@ -1,0 +1,81 @@
+{
+  "source_id": "7.5.21077",
+  "kind": "regulation",
+  "register_kind": "Kurum ve Kuruluş Yönetmelikleri",
+  "title": "İKİ VEYA ÜÇ TEKERLEKLİ MOTORLU ARAÇLARIN VE DÖRT TEKERLEKLİ MOTOSİKLETLERİN TİP ONAYI VE PİYASA GÖZETİMİ VE DENETİMİ HAKKINDA YÖNETMELİK (AB/168/2013)",
+  "number": "21077",
+  "issuer": "Bilim, Sanayi ve Teknoloji Bakanı",
+  "issuer_slug": "bilim-sanayi-ve-teknoloji-bakani",
+  "path": "regulation/bilim-sanayi-ve-teknoloji-bakani/2015/21077",
+  "source": "https://www.mevzuat.gov.tr/anasayfa/MevzuatFihristDetayIframe?MevzuatTur=7&MevzuatNo=21077&MevzuatTertip=5",
+  "source_sha256": "6cea3cee79f9370fbe5180be380fdae51034a5588d80797ae3809499b4135887",
+  "source_bytes": 285252,
+  "published": "2015-08-22",
+  "gazette": "29453",
+  "in_force": "2025-12-31",
+  "in_force_basis": "latest Resmî Gazete date printed in the source amendment notes/table (\"RG-31/12/2025\") for the current consolidated text",
+  "date_evidence": [
+    [
+      "2025-12-31",
+      "RG-31/12/2025",
+      "Resmî Gazete date printed in the source amendment note"
+    ],
+    [
+      "2025-12-31",
+      "31/12/2025",
+      "Resmî Gazete date in the source amendment table"
+    ],
+    [
+      "2025-01-30",
+      "RG-30/1/2025",
+      "Resmî Gazete date printed in the source amendment note"
+    ],
+    [
+      "2025-01-30",
+      "30/1/2025",
+      "Resmî Gazete date in the source amendment table"
+    ],
+    [
+      "2022-12-31",
+      "31/12/2022",
+      "Resmî Gazete date in the source amendment table"
+    ],
+    [
+      "2021-12-30",
+      "RG-30/12/2021",
+      "Resmî Gazete date printed in the source amendment note"
+    ],
+    [
+      "2021-12-30",
+      "30/12/2021",
+      "Resmî Gazete date in the source amendment table"
+    ],
+    [
+      "2016-12-30",
+      "RG-30/12/2016",
+      "Resmî Gazete date printed in the source amendment note"
+    ],
+    [
+      "2016-12-30",
+      "30/12/2016",
+      "Resmî Gazete date in the source amendment table"
+    ]
+  ],
+  "commencement_clauses": [
+    "Bu Yönetmelik (Değişik ibare:RG-30/12/2016-29934) 1/1/2018 tarihinde yürürlüğe girer"
+  ],
+  "history": "current-text",
+  "label": "oldest version available",
+  "checked_on": "2026-11-15",
+  "word_count": 21423,
+  "text_status": "current-consolidated",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  },
+  "source_links": [
+    "7.5.21077-ek.docx"
+  ],
+  "completeness": "html-text-complete; linked annexes not fetched"
+}
