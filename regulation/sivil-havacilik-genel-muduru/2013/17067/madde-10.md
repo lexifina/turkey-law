@@ -1,0 +1,3 @@
+Yeniden değerleme[2]
+MADDE 10 – (1) (Değişik:RG-7/3/2017-30000) Bu Yönetmelikte belirlenen idari para cezaları 5326 sayılı Kanunun 17 nci maddesinin yedinci fıkrasına uygun şekilde yeniden değerleme oranında arttırılarak uygulanır. Yeniden değerleme yapılarak belirlenen idari para cezası sınırlarına ilişkin Tebliğ her yıl Resmî Gazete’de yayımlanır ve Genel Müdürlüğün internet sayfasında duyurulur.
+(2) İdari para cezası karşılıkları yeniden değerlemeye göre 4/1/1961 tarihli ve 213 sayılı Vergi Usul Kanununun mükerrer 298 inci maddesi hükümleri uyarınca tespit ve Maliye Bakanlığınca ilan edilen alt sınırın altında olamaz.

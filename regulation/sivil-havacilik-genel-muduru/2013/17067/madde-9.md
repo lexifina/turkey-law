@@ -1,0 +1,6 @@
+İdari para cezalarının ödeme süresi ve yeri, gelir kaydı ve tahsili
+MADDE 9 – (1) İdari para cezası, idari yaptırım kararının tebliğinden itibaren bir ay içinde Genel Müdürlüğün hesabına ödenir.
+(2) İdari para cezasını, 11 inci maddede belirtilen kanun yoluna başvurmadan önce ödeyen kişiden cezanın dörte üçü tahsil edilir. Peşin ödeme, kişinin bu karara karşı kanun yoluna başvurma hakkını etkilemez.
+(3) İdari para cezasına muhatap olanın ekonomik durumunun müsait olmaması halinde idari para cezasının ilk taksitinin peşin ödenmesi koşuluyla, bir ay içersinde vergi dairesine müracaat edilmesi halinde, bir yıl içinde ve dört eşit taksit halinde ödenebileceğine ilgili vergi dairesince karar verilebilir. Taksitlerin zamanında ve tam olarak ödenmemesi halinde idari para cezasının kalan kısmının tamamı tahsil edilir.
+(4) Kesinleşen idari para cezalarının ödeme süresi içinde ödenmemesi veya taksitlendirilmesi durumunda taksitlerin tam ve zamanında ödenmemesi halinde, ödenmeyen idari para cezaları, 21/7/1953 tarihli ve 6183 sayılı Amme Alacaklarının Tahsil Usulü Hakkında Kanun hükümlerine göre ilgili vergi dairesince takip ve tahsil edilir.
+(5) İdari para cezaları genel bütçeye gelir kaydedilir.
