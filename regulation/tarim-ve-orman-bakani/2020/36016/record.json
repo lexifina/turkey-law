@@ -1,0 +1,58 @@
+{
+  "source_id": "7.5.36016",
+  "kind": "regulation",
+  "register_kind": "Kurum ve Kuruluş Yönetmelikleri",
+  "title": "GÖÇER HAYVANLARIN TANIMLANMASI VE NAKİLLERİ HAKKINDA YÖNETMELİK",
+  "number": "36016",
+  "issuer": "Tarım ve Orman Bakanı",
+  "issuer_slug": "tarim-ve-orman-bakani",
+  "path": "regulation/tarim-ve-orman-bakani/2020/36016",
+  "source": "https://www.mevzuat.gov.tr/anasayfa/MevzuatFihristDetayIframe?MevzuatTur=7&MevzuatNo=36016&MevzuatTertip=5",
+  "source_sha256": "fbeb55f7fac434e9a8560a1688a152fe9b7afe8186ff30f7fba981f0a5173b7c",
+  "source_bytes": 43503,
+  "published": "2020-11-28",
+  "gazette": "31318",
+  "in_force": "2026-01-01",
+  "in_force_basis": "latest Resmî Gazete date printed in the source amendment notes/table (\"1/1/2026\") for the current consolidated text",
+  "date_evidence": [
+    [
+      "2026-01-01",
+      "1/1/2026",
+      "Resmî Gazete date in the source amendment table"
+    ],
+    [
+      "2025-09-05",
+      "RG-5/9/2025",
+      "Resmî Gazete date printed in the source amendment note"
+    ],
+    [
+      "2025-09-05",
+      "5/9/2025",
+      "Resmî Gazete date in the source amendment table"
+    ],
+    [
+      "2023-11-18",
+      "RG-18/11/2023",
+      "Resmî Gazete date printed in the source amendment note"
+    ],
+    [
+      "2023-11-18",
+      "18/11/2023",
+      "Resmî Gazete date in the source amendment table"
+    ]
+  ],
+  "commencement_clauses": [
+    "Bu Yönetmelik yayımı tarihinde yürürlüğe girer"
+  ],
+  "history": "current-text",
+  "label": "oldest version available",
+  "checked_on": "2026-11-15",
+  "word_count": 1985,
+  "text_status": "current-consolidated",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  },
+  "completeness": "html-text-complete"
+}

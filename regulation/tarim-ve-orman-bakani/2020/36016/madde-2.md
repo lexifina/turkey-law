@@ -1,0 +1,2 @@
+Kapsam
+MADDE 2 – (1) Bu Yönetmelik; ülke içindeki göçer hayvan nakillerini, göçer hayvan nakillerinde kullanılacak belgeleri, göçer hayvanların yüklenmesi, boşaltılması ve taşınmasını, göçer hayvan sürülerinin hareketini, göçer hayvanların hastalıklı yerlerden geçirilmesini, göçer hayvanların tanımlanmasını, görevlilerin yükümlülüklerini, belgesiz ve tanımlanmamış göçer hayvanların nakilleri ile ilgili işlemleri kapsar.
