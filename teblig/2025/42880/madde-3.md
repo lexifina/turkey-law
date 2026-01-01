@@ -1,0 +1,3 @@
+Konutlara ait çevre temizlik vergisi
+MADDE 3 – (1) Konutlara ait çevre temizlik vergisi; su tüketim miktarı esas alınmak suretiyle metreküp başına büyükşehir belediyelerinde 4 TL, diğer belediyelerde 3 TL olarak hesaplanacaktır.
+(2) Belediyenin çevre temizlik hizmetlerinden yararlanan ancak, su ihtiyacını belediyece veya büyükşehir belediyelerine bağlı su ve kanalizasyon idarelerince tesis edilmiş su şebekesi haricinden karşılayan konutlara ilişkin çevre temizlik vergisi, aşağıda yer alan ilgili tarifelerin yedinci grubunun belediye meclislerince en son intibak ettirilen derecelere ait tutarlar üzerinden tahakkuk ettirilecektir.
