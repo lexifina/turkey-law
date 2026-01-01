@@ -1,0 +1,4 @@
+İthalatçının sorumluluğu
+MADDE 12- (1) İthalatçı, bu Tebliğ kapsamında denetlensin veya denetlenmesin, ithal ettiği ürünlerin her halükârda Yapı Malzemeleri Yönetmeliği (305/2011/AB) dâhil olmak üzere ilgili tüm mevzuata uygun ve güvenli olmasından ve ürünlere eşlik eden belgelerin doğruluğundan 7223 sayılı Kanun uyarınca sorumludur.
+(2) Ürünün ithaline izin verilmesi veya ürüne dair TAREKS referans numarası oluşturulması, ürünün mevzuata uygun ve/veya güvenli olduğu anlamına gelmez.
+(3) İthal edilmiş ürünün GTİP’inin Ek-1 veya Ek-2’de yer aldığının sonradan yapılan kontrol neticesinde tespit edilmesi halinde, ilgili gümrük idaresi, söz konusu tespiti Çevre, Şehircilik ve İklim Değişikliği Bakanlığına bildirir. İlgili Bakanlık tarafından ürünün güvenli olmadığının belirlenerek gümrük idaresine iletilmesi halinde, söz konusu ürünlerin uygunluk değerlendirmesi olumsuz sonuçlanmış addedilir.
