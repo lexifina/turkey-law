@@ -1,0 +1,8 @@
+Serbest bölgede oluşan atıklar
+MADDE 10- (1) Serbest bölgelerdeki faaliyetler sonucu ortaya çıkan, Ek-1, Ek-2/A ve Ek-2/B’deki listelerde yer alan atıkların toplanması, ayrıştırılması, depolanması, geri kazanılması ve/veya bertarafı amacıyla serbest bölgede atık yönetimi veya geri dönüşüm tesisi bulunmaması veya atık üreticisi firma tarafından atıkların bu tesislere verilmemesi durumunda, atık üreticisi veya serbest bölgede atıkları toplayan, ayrıştıran, depolayan, işleyen veya geri kazanım ve benzeri işleri yapan firmanın talebi üzerine, 10/3/1993 tarihli ve 21520 sayılı Resmî Gazete’de yayımlanan Serbest Bölgeler Uygulama Yönetmeliğinin 37 nci maddesi uyarınca oluşturulan Atık Komisyonuna aşağıdaki belgelerle müracaat edilir:
+a) Atıkların serbest bölge içindeki bir üretim ve/veya tüketim faaliyeti sonucu ortaya çıktığına ilişkin belge.
+b) Atığı oluşturan faaliyetin türü, atığın türü ve miktarı.
+c) Atığın özelliğine göre Çevre, Şehircilik ve İklim Değişikliği Bakanlığınca ilgili yönetmelikler gereğince verilmiş olan belge veya yazılardan biri (Geçici Faaliyet Belgesi, Çevre İzin ve Lisans Belgesi veya Yan Ürün/Alternatif Hammadde Onay Yazısı).
+ç) Atıkların (c) bendinde belirtilen belgelere sahip tesislere gönderileceğine dair sözleşme.
+(2) Atık Komisyonunun uygun görüşünü müteakip, Çevre, Şehircilik ve İklim Değişikliği İl Müdürlüğünden alınacak onaya istinaden bu atıklar bölgeden çıkarılır, çıkarılan atıklar birinci fıkranın (c) bendinde belirtilen belgelere sahip tesislere gönderilir, ayrıca Uygunluk Yazısı aranmaz.
+(3) Serbest Bölge Müdürlükleri, bölgeden çıkartılan atıklara ilişkin bilgileri talep edilmesi durumunda ibraz edilmek üzere saklar.

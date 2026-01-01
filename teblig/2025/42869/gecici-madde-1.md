@@ -1,0 +1,2 @@
+Geçiş süreci
+GEÇİCİ MADDE 1- (1) Bu Tebliğin yürürlüğe girdiği tarihten önce çıkış ülkesinde ihraç amacıyla taşıma belgesi düzenlenmiş veya gümrük mevzuatı uyarınca gümrük idarelerine sunulmuş atıkların ithali, bu Tebliğin yürürlüğe girdiği tarihten itibaren kırk beş gün süreyle 15 inci maddeyle yürürlükten kaldırılan Çevrenin Korunması Yönünden Kontrol Altında Tutulan Atıkların İthalat Denetimi Tebliği (Ürün Güvenliği ve Denetimi: 2025/3) hükümlerine tabidir. Ancak, bu Tebliğin lehteki hükümleri söz konusu işlemlere uygulanır.
