@@ -1,0 +1,21 @@
+{
+  "title": "Vakıf Yükseköğretim Kurumları Kuruluş ve İşleyişine Dair Usul ve Esaslar",
+  "number": "6973748e0a1bb",
+  "issuer": "Yükseköğretim Kurulu",
+  "source": "https://www.yok.gov.tr/documents/documents/6973748e0a1bb.pdf",
+  "source_sha256": "2ee28975e60bda8652a4d434d4220450145d3df2042bcd990abe9015e758a729",
+  "date": "2026-01-01",
+  "in_force": "2026-01-01",
+  "in_force_basis": "Latest current-text amendment: official YÖK notice of 17.03.2026 states the provision was changed (\"şeklinde değiştirilmiştir.\") and the matching thresholds apply \"01.01.2026’dan itibaren\". Original adoption date under Article 16 is not stated.",
+  "kind": "consolidated",
+  "edition": "consolidated",
+  "first_law": null,
+  "original_adoption_date": null,
+  "date_evidence_url": "https://vakif.yok.gov.tr/tr/announcements-detail/266",
+  "note": "Current consolidated text; original adoption date is not supplied. The amendment notice labels the threshold paragraph Article 3, while the current PDF labels it Article 2; both print the same 2026 thresholds. Official PDF text is retained as published.",
+  "source_images": 0,
+  "referenced_images": 0,
+  "omitted_normative_images": 0,
+  "text_file": "text.txt",
+  "date_evidence_sha256": "128dc7af091fc2a36070d9af462bd25fbcea6f6ed8f885f2626ee060ed97c994"
+}
