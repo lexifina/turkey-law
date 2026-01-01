@@ -1,0 +1,18 @@
+{
+  "kind": "norm",
+  "issuer": "Bilgi Teknolojileri ve İletişim Kurumu",
+  "document_type": "kurul-karari",
+  "number": "2025/DK-PGM/403",
+  "source_id": "2025/DK-PGM/403",
+  "date": "2025-12-16",
+  "title": "2026 Yılı PGM Ücretlerinin Belirlenmesi",
+  "source": "https://www.btk.gov.tr/s3/web-btk-site/7708c26c-5161-4919-8b3d-daa31d4ac8fb/2026/03/78754eb5-4f56-47a2-afd3-5c4bb0094f50.pdf",
+  "source_sha256": "1cedb3cc1a78437b0d4a4e2c04049a380da34df505aaef909ecd006012fffa80",
+  "text_status": "as-enacted",
+  "text_file": "metin.md",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  }
+}
