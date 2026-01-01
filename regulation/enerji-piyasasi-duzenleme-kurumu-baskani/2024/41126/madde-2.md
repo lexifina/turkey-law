@@ -1,0 +1,3 @@
+Kapsam
+MADDE 2- (1) Bu Yönetmelik; toplayıcıların ilgili mevzuat kapsamında organize toptan elektrik piyasası ve ikili anlaşma faaliyetlerine katılımlarının belirlenmesi, elektrik piyasasında toplayıcılık faaliyeti kapsamında yürütülecek işlemlere ilişkin tarafların görev, yetki ve sorumluluklarına ilişkin usul ve esasları kapsar.
+(2) 12/5/2019 tarihli ve 30772 sayılı Resmî Gazete’de yayımlanan Elektrik Piyasasında Lisanssız Elektrik Üretim Yönetmeliği kapsamında, on yıl alım garantisini doldurmamış olan lisanssız elektrik üretim tesisleri ile OSB tüzel kişiliğine ait lisanssız elektrik üretim tesisleri ve OSB üretim lisansına sahip tüzel kişiler bu Yönetmeliğin kapsamı dışındadır.

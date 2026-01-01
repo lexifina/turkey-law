@@ -1,0 +1,4 @@
+Piyasa katılım anlaşmaları uyarınca toplayıcıların görev, yetki ve sorumlulukları
+MADDE 13- (1) Piyasa işletmecisi ile yapmış olduğu ilgili piyasa katılım anlaşmaları uyarınca piyasa işlemi yapma hakkına sahip organize toptan piyasa faaliyeti yürütmek isteyen toplayıcılar, Elektrik Piyasası Dengeleme ve Uzlaştırma Yönetmeliği uyarınca ilgili piyasa işlemlerinin gerçekleştirilmesine ilişkin görevleri yürütür.
+(2) TEİAŞ ile yapmış olduğu yan hizmet anlaşmaları uyarınca yan hizmet sağlama yükümlülüğüne sahip toplayıcılar, Elektrik Piyasası Yan Hizmetler Yönetmeliği uyarınca ilgili yan hizmetlerin tedarik edilmesine ilişkin görevleri yürütür.
+(3) Bu Yönetmelik kapsamında piyasa işletmecisi, şebeke işletmecileri ile tedarik şirketlerinin görev, yetki ve sorumlulukları ilgili mevzuat kapsamında yer aldığı şekliyle uygulanır.

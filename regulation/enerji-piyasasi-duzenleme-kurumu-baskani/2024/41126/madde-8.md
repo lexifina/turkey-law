@@ -1,0 +1,8 @@
+Lisanslı elektrik üretim tesislerinin toplayıcılık faaliyetine katılımına ilişkin genel esaslar
+MADDE 8- (1) Toplayıcı, dağıtım veya iletim şebekesine bağlı lisanslı ve işletmedeki elektrik üretim tesisleri ile 9/5/2021 tarihli ve 31479 sayılı Resmî Gazete’de yayımlanan Elektrik Piyasasında Depolama Faaliyetleri Yönetmeliği kapsamındaki elektrik depolama ünitesi ve/veya tesislerini kendi portföyünde toplayabilir.
+(2) Toplayıcı, işletmedeki elektriksel kurulu gücü 100 MW ve altında olan lisanslı elektrik üretim tesislerini portföyüne alabilir.
+(3) Toplayıcı portföyünde yer alan elektrik üretim tesisleri, ilgili mevzuatta yer alan şartları sağlamaları halinde dengeleme birimi ve/veya yan hizmet birimi olarak değerlendirilir.
+(4) Toplayıcı portföyünde aynı dengeleme bölgesinde yer alan ve dengeleme birimi olmayan işletmedeki elektriksel kurulu gücü 100 MW ve altında olan lisanslı elektrik üretim tesisleri, ilgili mevzuatta yer alan şartları sağlamaları halinde dengeleme birimi ve/veya yan hizmet birimi olarak kabul edilir.
+(5) Üretim tesisleri, dağıtım veya iletim şebekesine bağlı olma durumlarına göre ayrı dengeleme birimi ve/veya yan hizmet birimi olarak kaydedilir.
+(6) Bu madde kapsamında lisanslı elektrik üretim tesislerinin dengeleme birimi ve/veya yan hizmet birimi olarak kabul edilebilmeleri için TEİAŞ tarafından ilave kriterler belirlenebilir.
+(7) Toplayıcı tarafından talep edilmesi halinde, portföyünde yer alan lisanslı elektrik üretim tesisleri, ilgili mevzuat kapsamında belirtilen koşulları sağlamak kaydıyla, bu madde kapsamında dengeleme birimi ve/veya yan hizmet birimi olarak kaydedilebilir.

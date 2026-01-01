@@ -1,0 +1,14 @@
+İKİNCİ BÖLÜM
+Toplayıcılık Faaliyeti ile Tüketim ve Elektrik Üretim Tesislerinin
+Toplayıcılık Faaliyetine Katılımlarına İlişkin Genel Esaslar
+Toplayıcılık faaliyetine ilişkin genel esaslar
+MADDE 5- (1) Toplayıcı, toplayıcılık faaliyeti kapsamında yapacağı piyasa faaliyetleri için ilgili şebeke kullanıcıları ile toplayıcılık hizmeti anlaşması imzalar.
+(2) Toplayıcı, organize toptan elektrik piyasası faaliyetlerine, piyasa işletmecisi ile ilgili piyasa katılım anlaşmalarını ve/veya şebeke işletmecisi ile yan hizmet anlaşmalarını yapmak suretiyle katılır.
+(3) Toplayıcılık faaliyeti lisansına derç edilmiş olan tedarik lisansı sahibi tüzel kişiler elektrik tedarik etmek üzere anlaşmalı oldukları ve portföylerinde yer alan şebeke kullanıcıları ile toplayıcılık hizmeti anlaşması yapamazlar.
+(4) Toplayıcı, toplayıcı lisansı veya lisansına dercedilmek kaydıyla tedarik lisansı kapsamındaki toplayıcılık faaliyetine ilişkin toptan satış faaliyetinde bulunamaz. Ancak portföyünü dengelemek amacıyla yapmış olduğu alış ve satışlar bu kapsamda değerlendirilmez. (Ek cümleler:RG-29/12/2025-33122)[1] Toplayıcılar tarafından toptan satış faaliyetinde bulunulup bulunulmadığına yönelik olarak gerekli izleme, Piyasa İşletmecisi tarafından yapılır. Piyasa İşletmecisi izleme sonuçlarını içeren raporunu üç aylık periyotlarla Kuruma iletir.
+(5) Toplayıcı, portföyünde yer alan serbest tüketiciler için elektrik enerjisi tedariki yapabilir. Toplayıcının, tüketim tesislerini portföyüne eklemesi durumunda söz konusu tüketim tesisleri için elektrik enerjisi tedarikinin ilgili toplayıcı tarafından yapılması esastır. Ancak talep tarafı katılımı hizmeti sunan toplayıcı, porföyünde yer alan tüketim tesislerinin elektrik enerjisi ve/veya kapasitesini tedarik etmek istememesi halinde, portföyünde yer alan tüm tüketim tesislerinin tedarikçileri ile mevcut anlaşmaları devam eder.
+(6) Toplayıcı, ilgili şebeke işletmecisine başvuru yapmak suretiyle portföyünde yer alan şebeke kullanıcılarını, uygun donanım ile teçhizat ve altyapıları ile anlık üretim ve/veya tüketim verilerini izleyebilir, analiz ve raporlama yapabilir.
+(7) Toplayıcı, anlaşmalı olduğu kullanıcıların üretim ve/veya tüketim programlarını yönetir. Söz konusu kullanıcılar adına elektrik enerjisi ve/veya kapasitesinin alınıp satılmasına ilişkin piyasa işlemlerini yürütür ve yan hizmetlere ilişkin tedarik süreçlerine katılabilir.
+(8) Toplayıcı, portföyünde yer alan şebeke kullanıcıları adına teminat ve dengesizlik de dahil olmak üzere, piyasa işlemlerine ilişkin ilgili mevzuat kapsamındaki tüm yükümlülüklerin yerine getirilmesinden sorumludur.
+(9) Toplayıcı, portföyünde üretim ve tüketim tesisleri ile elektrik depolama tesislerine ayrı ayrı veya birlikte yer verebilir.
+(10) TEİAŞ, en az iki ay öncesinden piyasa katılımcılarına ve Kuruma bildirmek koşuluyla dengeleme bölgelerini değiştirebilir.

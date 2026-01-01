@@ -1,0 +1,48 @@
+{
+  "source_id": "7.5.41126",
+  "kind": "regulation",
+  "register_kind": "Kurum ve Kuruluş Yönetmelikleri",
+  "title": "ELEKTRİK PİYASASINDA TOPLAYICILIK FAALİYETİ YÖNETMELİĞİ",
+  "number": "41126",
+  "issuer": "Enerji Piyasası Düzenleme Kurumu Başkanı",
+  "issuer_slug": "enerji-piyasasi-duzenleme-kurumu-baskani",
+  "path": "regulation/enerji-piyasasi-duzenleme-kurumu-baskani/2024/41126",
+  "source": "https://www.mevzuat.gov.tr/anasayfa/MevzuatFihristDetayIframe?MevzuatTur=7&MevzuatNo=41126&MevzuatTertip=5",
+  "source_sha256": "78330808d03c34b43d11efa64c99fc15cda63ed4ae7d8c100ab4be1700c4ad5f",
+  "source_bytes": 47668,
+  "published": "2024-12-17",
+  "gazette": "32755",
+  "in_force": "2026-01-01",
+  "in_force_basis": "latest Resmî Gazete date printed in the source amendment notes/table (\"1/1/2026\") for the current consolidated text",
+  "date_evidence": [
+    [
+      "2026-01-01",
+      "1/1/2026",
+      "Resmî Gazete date in the source amendment table"
+    ],
+    [
+      "2025-12-29",
+      "RG-29/12/2025",
+      "Resmî Gazete date printed in the source amendment note"
+    ],
+    [
+      "2025-12-29",
+      "29/12/2025",
+      "Resmî Gazete date in the source amendment table"
+    ]
+  ],
+  "commencement_clauses": [
+    "Bu Yönetmelik 1/1/2025 tarihinde yürürlüğe girer"
+  ],
+  "history": "current-text",
+  "label": "oldest version available",
+  "checked_on": "2026-11-15",
+  "word_count": 2573,
+  "text_status": "current-consolidated",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  },
+  "completeness": "html-text-complete"
+}

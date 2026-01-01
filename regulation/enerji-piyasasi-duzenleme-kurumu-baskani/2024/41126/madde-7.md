@@ -1,0 +1,11 @@
+Tüketim tesislerinin toplayıcılık faaliyetine katılımına ilişkin genel esaslar
+MADDE 7- (1) Toplayıcı, dağıtım veya iletim şebekesine bağlı tüketim tesislerini kendi portföyünde toplayabilir.
+(2) Toplayıcı, talep tarafı katılımı kapsamında portföyüne aldığı tüketim tesislerinin aynı zamanda enerji tedarikini de gerçekleştirir. Toplayıcı, talep tarafı katılımı kapsamında portföyüne aldığı tüketim tesislerinin enerji tedarik faaliyetini yürütmek istememesi halinde, bu hususu Piyasa İşletmecisine PYS üzerinden bildirir. Toplayıcı, söz konusu tüketim tesislerinin;
+a) Enerji tedarikini gerçekleştirirken sonradan bu faaliyeti yürütmek istememesi,
+b) Portföy oluşturma aşamasında veya sonrasındaki bir aşamada enerji tedarik faaliyetini yürütmek istememiş olmasına rağmen sonradan bu faaliyeti gerçekleştirmek istemesi,
+durumunda 14/4/2009 tarihli ve 27200 sayılı Resmî Gazete’de yayımlanan Elektrik Piyasası Dengeleme ve Uzlaştırma Yönetmeliği hükümleri uyarınca Piyasa İşletmecisine PYS üzerinden bildirir.
+(3) Toplayıcıların, talep tarafı katılımı hizmeti kapsamında aldıkları talimat doğrultusunda portföylerinde yer alan tüketim tesislerinde değiştirilen yükten kaynaklı olarak oluşabilecek dengesizlik maliyetleri nedeniyle toplayıcılar ve/veya tüketim tesisleri ile söz konusu tüketim tesisinin tedarikçisi arasında doğan uyuşmazlıklar özel hukuk hükümleri çerçevesinde çözülür.
+(4) Toplayıcı portföyünde aynı dengeleme bölgesinde yer alan tüketim tesisleri, ilgili mevzuatta yer alan şartları sağlaması halinde, dengeleme birimi ve/veya yan hizmet birimi niteliğindedir.
+(5) Tüketim tesisleri, dağıtım ve iletim şebekesine bağlı olma durumlarına ve dengeleme bölgesine göre ayrı dengeleme birimi ve/veya yan hizmet birimi olarak kaydedilir.
+(6) Bu madde kapsamında tüketim tesislerinin dengeleme birimi ve/veya yan hizmet birimi olarak kabul edilebilmeleri için ihtiyaç duyulması halinde TEİAŞ tarafından ilave kriterler belirlenebilir.
+(7) Toplayıcı portföyünde yer alan tüketim tesisleri, toplayıcı tarafından talep edilmesi halinde bu madde ve ilgili mevzuat kapsamında dengeleme birimi ve/veya yan hizmet birimi olarak kaydedilebilir. Ancak enerji tedariki toplayıcı tarafından sağlanmayan tüketim tesisleri, dengeleme birimi olarak kaydedilmezler ve dengeleme güç piyasasına katılamazlar.
