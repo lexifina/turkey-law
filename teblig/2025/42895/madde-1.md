@@ -1,0 +1,2 @@
+Amaç ve kapsam
+MADDE 1- (1) Bu Tebliğin amacı, merkezi yönetim kapsamındaki kamu idareleri, döner sermayeli kuruluşlar, kamu iktisadi teşebbüsleri, kamu bankaları ile diğer kamu kurum ve kuruluşlarının tasarrufunda bulunan eğitim ve dinlenme tesisi, misafirhane, kreş, çocuk bakımevi, spor tesisi ve benzeri sosyal ve destek amaçlı tesislerden dinlenme amacıyla veya diğer amaçlarla yararlanacaklardan alınacak yemek, konaklama ve diğer hizmet bedellerinin tespitinde ve elde edilen gelirlerin kullanımında uyulacak usul ve esasları belirlemektir.
