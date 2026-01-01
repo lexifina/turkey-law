@@ -1,0 +1,44 @@
+{
+  "source_id": "9.5.41201",
+  "kind": "communique",
+  "register_kind": "Tebliğler",
+  "title": "BAZI ELEKTRİKLİ VE HARİCEN ŞARJ EDİLEBİLİR HİBRİT ARAÇLARIN İTHALAT DENETİMİ TEBLİĞİ (ÜRÜN GÜVENLİĞİ VE DENETİMİ: 2026/33)",
+  "number": "41201",
+  "issuer": "Ticaret Bakanı",
+  "path": "teblig/2024/41201",
+  "source": "https://www.mevzuat.gov.tr/anasayfa/MevzuatFihristDetayIframe?MevzuatTur=9&MevzuatNo=41201&MevzuatTertip=5",
+  "source_sha256": "3c8af3b2711ee91be89a84857617730f0cb4c669bd547c374a56c6d0a031a80a",
+  "source_bytes": 30653,
+  "published": "2024-12-31",
+  "gazette": "32769 (3. Mükerrer)",
+  "in_force": "2026-01-01",
+  "in_force_basis": "latest Resmî Gazete date printed in the source amendment notes/table (\"1/1/2026\") for the current consolidated text",
+  "date_evidence": [
+    [
+      "2026-01-01",
+      "1/1/2026",
+      "Resmî Gazete date in the source amendment table"
+    ],
+    [
+      "2025-12-31",
+      "RG-31/12/2025",
+      "Resmî Gazete date printed in the source amendment note"
+    ],
+    [
+      "2025-12-31",
+      "31/12/2025",
+      "Resmî Gazete date in the source amendment table"
+    ]
+  ],
+  "history": "current-text",
+  "label": "oldest version available",
+  "checked_on": "2026-11-15",
+  "word_count": 758,
+  "text_status": "current-consolidated",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  },
+  "completeness": "html-text-complete"
+}
