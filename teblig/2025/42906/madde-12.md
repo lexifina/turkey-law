@@ -1,0 +1,5 @@
+Fiili denetim
+MADDE 12- (1) Başvuru üzerine, TAREKS aracılığıyla gerçekleştirilecek risk analizi sonucunda fiili denetime tâbi tutulmasına karar verilen ürünler, Dış Ticarette Teknik Düzenlemeler Yönetmeliği, 7/2/1967 tarihli ve 6/7677 sayılı Bakanlar Kurulu Kararı ile yürürlüğe konulan Türk Standartlarının Uygulanması Hakkında Tüzük veya ilgili teknik düzenlemeler çerçevesinde denetime tâbi tutulur.
+(2) Fiili denetim; duyusal inceleme, tartma veya ölçme yoluyla muayene ve gerektiğinde fiziksel ve/veya kimyasal analizler yapmak veya yaptırmak suretiyle yerine getirilir.
+(3) Denetimlerde firma hazır bulunur. Ticaret Denetmenleri, ürünleri denetime konu olan firmaya, istenmesini beklemeksizin, kimlik kartlarını gösterir. Firma, denetim hizmetlerinin en iyi şekilde yerine getirilebilmesi için görevlilere gerekli kolaylığı göstermekle ve istenen tüm bilgi ve belgeleri sunmakla yükümlüdür.
+(4) Denetimler, denetlemeye elverişli yere en yakın Denetim Birimine TAREKS ile yapılan başvuru üzerine gerçekleştirilir.
