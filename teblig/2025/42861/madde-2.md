@@ -1,0 +1,2 @@
+Dayanak
+MADDE 2 – (1) Bu Tebliğ, 1 sayılı Cumhurbaşkanlığı Teşkilatı Hakkında Cumhurbaşkanlığı Kararnamesinin 445 inci maddesine, 31/12/2020 tarihli ve 3350 sayılı Cumhurbaşkanı Kararıyla yürürlüğe konulan İthalat Rejimi Kararına ve 2/11/2022 tarihli ve 32001 sayılı Resmî Gazete’de yayımlanan Kur'an-ı Kerim Basım ve Yayım Kriterleri Hakkında Yönetmeliğin 9 uncu maddesine dayanılarak hazırlanmıştır.
