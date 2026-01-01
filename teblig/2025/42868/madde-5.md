@@ -1,0 +1,6 @@
+İthalat Denetim Ön İzni başvurusu
+MADDE 5- (1) Bu Tebliğ kapsamındaki ürünleri ithal etmek isteyen firmaların, İthalat Denetim Ön İzni almış olmaları gerekir.
+(2) İthalat Denetim Ön İzni başvurusu, firma kullanıcısı tarafından Bakanlık internet sayfasındaki “E-İşlemler” kısmında yer alan “Dış Ticarette Risk Esaslı Kontrol Sistemi (TAREKS) Uygulaması” bölümü kullanılarak TAREKS üzerinden yapılır. Başvuru için, firma ekranında “Denetim Başvurusu” başlığı altındaki “Ön İzin” alt başlığından “Yeni Başvuru” kutucuğu altındaki “Ürün Grubu Bazında Başvuru” seçeneği ile birlikte alınmak istenen ön izin belgesinin (İthalat Denetim Ön İzni) işaretlenmesi yeterlidir.
+(3) Başvuruya ilişkin Ek-3’te belirtilen 2, 3, 4, 5 ve 6 numaralı belgeler başvuru esnasında TAREKS’e yüklenir. Bununla beraber aynı Ekte yer alan 2, 3 ve 4 numaralı belgeler ürünün gümrük bölgesine ulaşmasını müteakip denetim birimine iletilir ve başvurular sonuçlandırılır.
+(4) TAREKS’e yüklenen, ancak ilgilisince düzenlenmediği anlaşılan AB Uygunluk Beyanı, Tip Onay Belgesi veya test raporunun tespiti halinde, diğer şartlar uygun olsa dahi İthalat Denetim Ön İzni olumsuz olarak sonuçlandırılır.
+(5) Ek-2’de belirtilen ürünler için her hâlükârda İthalat Denetim Ön İzni başvurusu yapılması zorunludur.
