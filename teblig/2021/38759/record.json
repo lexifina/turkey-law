@@ -1,0 +1,47 @@
+{
+  "source_id": "9.5.38759",
+  "kind": "communique",
+  "register_kind": "Tebliğler",
+  "title": "SEBZE VE MEYVELERİN TOPTAN VE PERAKENDE TİCARETİNDE UYULMASI GEREKEN STANDARTLAR HAKKINDA TEBLİĞ",
+  "number": "38759",
+  "issuer": "Ticaret Bakanı",
+  "path": "teblig/2021/38759",
+  "source": "https://www.mevzuat.gov.tr/anasayfa/MevzuatFihristDetayIframe?MevzuatTur=9&MevzuatNo=38759&MevzuatTertip=5",
+  "source_sha256": "ec9888e02ccf2477580aadee4e229da6a14d95271143e77cec408e6fc219c7ca",
+  "source_bytes": 36763,
+  "published": "2021-06-29",
+  "gazette": "31526",
+  "in_force": "2026-01-01",
+  "in_force_basis": "latest Resmî Gazete date printed in the source amendment notes/table (\"1/1/2026\") for the current consolidated text",
+  "date_evidence": [
+    [
+      "2026-01-01",
+      "1/1/2026",
+      "Resmî Gazete date in the source amendment table"
+    ],
+    [
+      "2025-01-09",
+      "RG-9/1/2025",
+      "Resmî Gazete date printed in the source amendment note"
+    ],
+    [
+      "2025-01-09",
+      "9/1/2025",
+      "Resmî Gazete date in the source amendment table"
+    ]
+  ],
+  "history": "current-text",
+  "label": "oldest version available",
+  "checked_on": "2026-11-15",
+  "word_count": 1276,
+  "text_status": "current-consolidated",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  },
+  "source_links": [
+    "9.5.38759-EK.zip"
+  ],
+  "completeness": "html-text-complete; linked annexes not fetched"
+}
