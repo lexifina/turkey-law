@@ -1,0 +1,10 @@
+[a] Tarım ve Orman Bakanlığının denetimi kapsamındaki ürünler için bu Tebliğ kapsamında ayrıca Sağlık Bakanlığına başvuru yapılmasına gerek bulunmamaktadır.
+[b] Tarım ve Orman Bakanlığının denetimi kapsamındaki ürünler için bu Tebliğ kapsamında ayrıca Sağlık Bakanlığına başvuru yapılmasına gerek bulunmamaktadır.
+[c] Tarım ve Orman Bakanlığının denetimi kapsamındaki ürünler için bu Tebliğ kapsamında ayrıca Sağlık Bakanlığına başvuru yapılmasına gerek bulunmamaktadır.
+[d] Tarım ve Orman Bakanlığının denetimi kapsamındaki ürünler için bu Tebliğ kapsamında ayrıca Sağlık Bakanlığına başvuru yapılmasına gerek bulunmamaktadır.
+[e] Tarım ve Orman Bakanlığının denetimi kapsamındaki ürünler için bu Tebliğ kapsamında ayrıca Sağlık Bakanlığına başvuru yapılmasına gerek bulunmamaktadır.
+[f] Tarım ve Orman Bakanlığının denetimi kapsamındaki ürünler için bu Tebliğ kapsamında ayrıca Sağlık Bakanlığına başvuru yapılmasına gerek bulunmamaktadır.
+[g] Tarım ve Orman Bakanlığının denetimi kapsamındaki ürünler için bu Tebliğ kapsamında ayrıca Sağlık Bakanlığına başvuru yapılmasına gerek bulunmamaktadır.
+[h] Tarım ve Orman Bakanlığının denetimi kapsamındaki ürünler için bu Tebliğ kapsamında ayrıca Sağlık Bakanlığına başvuru yapılmasına gerek bulunmamaktadır.
+[i] Tarım ve Orman Bakanlığının denetimi kapsamındaki ürünler için bu Tebliğ kapsamında ayrıca Sağlık Bakanlığına başvuru yapılmasına gerek bulunmamaktadır.
+[j] Tarım ve Orman Bakanlığının denetimi kapsamındaki ürünler için bu Tebliğ kapsamında ayrıca Sağlık Bakanlığına başvuru yapılmasına gerek bulunmamaktadır.

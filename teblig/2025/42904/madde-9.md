@@ -1,0 +1,2 @@
+Yaptırımlar
+MADDE 9- (1) Bu Tebliğe aykırı hareket edenler ile yanlış veya yanıltıcı beyanda bulunanlar, sahte belge kullanan, ibraz eden veya belgede tahrifat yapanlar hakkında 5/3/2020 tarihli ve 7223 sayılı Ürün Güvenliği ve Teknik Düzenlemeler Kanunu, 27/10/1999 tarihli ve 4458 sayılı Gümrük Kanunu, Teknik Düzenlemeler Rejimi Kararının ilgili hükümleri, Sağlık Bakanlığınca yayımlanan ilgili mevzuat hükümleri ile birlikte ilgili diğer mevzuat uygulanır.
