@@ -1,0 +1,37 @@
+{
+  "checked_on": "2026-11-14",
+  "commencement_quote": "Bu Tebliğ 1/1/2026 tarihinde yürürlüğe girer",
+  "date_gazette": "33118",
+  "date_quote": "Bu Tebliğ 1/1/2026 tarihinde yürürlüğe girer",
+  "first_law": null,
+  "gazette": "33118",
+  "history": "current-text",
+  "images": {
+    "deferred": 0,
+    "omitted": 0,
+    "referenced": 0,
+    "source": 0
+  },
+  "in_force": "2026-01-01",
+  "in_force_basis": "Own commencement clause: Bu Tebliğ 1/1/2026 tarihinde yürürlüğe girer",
+  "issuer": "Enerji ve Tabii Kaynaklar Bakanlığı",
+  "issuer_catalog_evidence": [
+    {
+      "evidence": "issuer-122-0.json",
+      "id": "122",
+      "label": "Enerji ve Tabii Kaynaklar Bakanlığı",
+      "listing_url": "https://www.mevzuat.gov.tr/Anasayfa/MevzuatDatatable?MevzuatTur=Teblig&KurumId=122&start=0&length=100"
+    }
+  ],
+  "issuer_slug": "enerji-ve-tabii-kaynaklar-bakanligi",
+  "kind": "communique",
+  "label": "oldest version available",
+  "notes": [],
+  "published": "2025-12-25",
+  "source": "https://www.mevzuat.gov.tr/anasayfa/MevzuatFihristDetayIframe?MevzuatTur=9&MevzuatNo=42807&MevzuatTertip=5",
+  "source_bytes": 16753,
+  "source_id": "9.5.42807",
+  "source_sha256": "518cb813f2f1f8f35f542ce3d663e13819bad98b0017d4a917feb839dfb7e7cc",
+  "title": "5015 SAYILI PETROL PİYASASI KANUNUNUN 19 UNCU MADDESİ UYARINCA 2026 YILINDA UYGULANACAK İDARİ PARA CEZALARI HAKKINDA TEBLİĞ",
+  "word_count": 391
+}
