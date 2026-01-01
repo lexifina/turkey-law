@@ -1,0 +1,37 @@
+{
+  "checked_on": "2026-11-14",
+  "commencement_quote": "Bu Tebliğ 1/1/2026 tarihinde yürürlüğe girer",
+  "date_gazette": "33123",
+  "date_quote": "Bu Tebliğ 1/1/2026 tarihinde yürürlüğe girer",
+  "first_law": null,
+  "gazette": "33123",
+  "history": "current-text",
+  "images": {
+    "deferred": 0,
+    "omitted": 0,
+    "referenced": 0,
+    "source": 0
+  },
+  "in_force": "2026-01-01",
+  "in_force_basis": "Own commencement clause: Bu Tebliğ 1/1/2026 tarihinde yürürlüğe girer",
+  "issuer": "Tarım ve Orman Bakanlığı",
+  "issuer_catalog_evidence": [
+    {
+      "evidence": "issuer-637-0.json",
+      "id": "637",
+      "label": "Tarım ve Orman Bakanlığı",
+      "listing_url": "https://www.mevzuat.gov.tr/Anasayfa/MevzuatDatatable?MevzuatTur=Teblig&KurumId=637&start=0&length=100"
+    }
+  ],
+  "issuer_slug": "tarim-ve-orman-bakanligi",
+  "kind": "communique",
+  "label": "oldest version available",
+  "notes": [],
+  "published": "2025-12-30",
+  "source": "https://www.mevzuat.gov.tr/anasayfa/MevzuatFihristDetayIframe?MevzuatTur=9&MevzuatNo=42829&MevzuatTertip=5",
+  "source_bytes": 8687,
+  "source_id": "9.5.42829",
+  "source_sha256": "bf0043dabc164c2fd44d8e038479af6de7039888a9114136a8e82105f0f65532",
+  "title": "TÜTÜN MAMULLERİ VE ALKOLLÜ İÇKİLERİN SATIŞINA VE SUNUMUNA\r\nİLİŞKİN USUL VE ESASLAR HAKKINDA YÖNETMELİĞİN 15 İNCİ\r\nMADDESİNİN UYGULANMASI İLE İLGİLİ TEBLİĞ (TEBLİĞ NO: 2025/35)",
+  "word_count": 175
+}
