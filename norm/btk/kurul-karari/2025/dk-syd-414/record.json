@@ -1,0 +1,18 @@
+{
+  "kind": "norm",
+  "issuer": "Bilgi Teknolojileri ve İletişim Kurumu",
+  "document_type": "kurul-karari",
+  "number": "2025/DK-SYD/414",
+  "source_id": "2025/DK-SYD/414",
+  "date": "2025-12-23",
+  "title": "2026 Yılı Telsiz Ücret Tarifesi",
+  "source": "https://www.btk.gov.tr/s3/web-btk-site/7708c26c-5161-4919-8b3d-daa31d4ac8fb/2026/03/fa16c41f-faef-4052-aa77-af53c0b642fd.pdf",
+  "source_sha256": "942fe5381e37502c5b4c30aa3e5b29848fa85e5f905e88b1c6edde089dccf96f",
+  "text_status": "as-enacted",
+  "text_file": "metin.md",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  }
+}
