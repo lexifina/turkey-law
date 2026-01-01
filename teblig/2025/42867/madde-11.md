@@ -1,0 +1,7 @@
+TAREKS referans numarasının gümrüklere beyanı
+MADDE 11- (1) Ürünün ithal edilebileceğine dair TAREKS referans numarasının, gümrük beyannamesinin 44 numaralı hanesine ithalatçı firma tarafından kaydedilmesi zorunludur.
+(2) TAREKS referans numarası verildiği tarihten itibaren 1 yıl süreyle geçerlidir.
+(3) Yatırım teşvik mevzuatı kapsamında yapılan makine ve teçhizat ithalatında 18010099112013019865484, Türk Petrol Kanunu kapsamı ürünlerin ithalatında 18010099122013017554484, Millî Savunma Bakanlığınca yapılan ithalatta 18010099132013016724484 ve AQAP belgeli kurum ve kuruluşlar adına Savunma Sanayii Başkanlığınca yapılan ithalatta 18010099142013012727484 olarak belirlenen 23 haneli TAREKS referans numarası, gümrük beyannamesinin 44 numaralı hanesine kaydedilir.
+(4) GTİP değişikliği sonucunda bu Tebliğin eki listede yer aldığı tespit edilen ürünlerin, gümrük gözetiminde bulunması kaydıyla, ilgili gümrük idaresince denetime yönlendirilmesi halinde, 5 inci madde çerçevesinde TAREKS üzerinden başvuru yapılır.
+(5) 4458 sayılı Gümrük Kanununun Bazı Maddelerinin Uygulanması Hakkındaki Kararın beşinci kısmında belirtilen eşyanın ithalatında, 18010099101115014436576 olarak belirlenen 23 haneli TAREKS referans numarası, gümrük beyannamesinin 44 numaralı hanesine kaydedilir.
+(6) Geri gelen eşyanın ithalatında 24010099901680104513570 olarak belirlenen 23 haneli TAREKS referans numarası, gümrük beyannamesinin 44 numaralı hanesine kaydedilir.
