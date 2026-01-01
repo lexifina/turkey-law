@@ -1,0 +1,3 @@
+Sevk merkezleri ve geçici barınma merkezlerinin güvenliği
+MADDE 40- (1) Sevk merkezleri ile geçici barınma merkezlerinin iç ve dış güvenliği, sorumluluk bölgesine göre ilgili genel kolluk birimi tarafından yürütülür. Bu çerçevede ilgili genel kolluk birimi, sevk merkezleri ile geçici barınma merkezlerinin güvenliğinin sağlanması ile asayişin temini yönünde her tür önlemi alır.
+(2) Valilik tarafından uygun görülmesi halinde sevk merkezleri ile geçici barınma merkezlerinin iç ve dış güvenliği, 10/6/2004 tarihli ve 5188 sayılı Özel Güvenlik Hizmetlerine Dair Kanun hükümlerine göre özel güvenliğe verilebilir.

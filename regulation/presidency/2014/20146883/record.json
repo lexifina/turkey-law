@@ -1,0 +1,26 @@
+{
+  "id": "presidency-regulation-20146883",
+  "number": "20146883",
+  "kind": "regulation",
+  "issuer": "presidency",
+  "title": "GEÇİCİ KORUMA YÖNETMELİĞİ",
+  "published": "2014-10-22",
+  "enacted": "2014-10-13",
+  "gazette_number": "29153",
+  "in_force": "2026-01-01",
+  "in_force_basis": "Source commencement table, \"Yürürlüğe Giriş Tarihi\": 1/1/2026; source row: 28/11/2025 | 10658 | 27 | 1/1/2026 | ",
+  "history": "current-only",
+  "version_label": "oldest version available",
+  "first_law": null,
+  "source": "https://www.mevzuat.gov.tr/anasayfa/MevzuatFihristDetayIframe?MevzuatNo=20146883&MevzuatTur=21&MevzuatTertip=5",
+  "source_sha256": "cc08194b430ac552ac339ed1c6b3f4f05ea79fdd32bec1836959daaafc5aeff1",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  },
+  "missing_components": [],
+  "text_layout": "article-files",
+  "source_links": [],
+  "completeness": "html-text-complete"
+}

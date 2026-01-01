@@ -1,0 +1,2 @@
+Geçici koruması sona erenlerin tekrar gelmesi
+MADDE 13- (1) Geçici koruma uygulamasının devam ettiği süre içinde, geçici koruma kapsamında olduğu halde 12 nci maddeye göre geçici koruması sona eren yabancıların, geçici korumadan faydalanmak üzere tekrar sınırlarımıza gelmesi veya sınırlarımızı geçmesi halinde, geçici koruma hükümlerinin uygulanıp uygulanmayacağına Genel Müdürlük bireysel olarak karar verir. Genel Müdürlük bu yetkisini, kısmen veya tamamen valiliklere devredebilir.

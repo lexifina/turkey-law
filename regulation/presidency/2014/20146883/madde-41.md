@@ -1,0 +1,4 @@
+Sevk merkezleri ile geçici barınma merkezlerinde görevli personel
+MADDE 41- (1) Sevk (…)(1) merkezlerinin bulunduğu illerde bu Yönetmelik kapsamında belirlenen iş ve işlemler ile sağlanacak diğer hizmetleri yürütmek üzere, 10/6/1949 tarihli ve 5442 sayılı İl İdaresi Kanununun 9 uncu maddesi gereğince ilgili kamu kurum ve kuruluşlarından personel görevlendirilebilir. İlde görevlendirilecek yeterli kamu görevlisi bulunmaması halinde ise valilik il dışından personel görevlendirilmesini talep edebilir.
+(2) Sevk merkezleri ve geçici barınma merkezlerinde görev yapacak personelin çalışma koşulları, bu personelin bağlı olduğu kamu kurum ve kuruluşları tarafından ayrıca düzenlenir.
+(3) Sevk merkezlerinde ve geçici barınma merkezlerinde görev yapan personelden kamu görevlisi olmayanların kimlik bilgileri ile gerekli görülmesi halinde biometrik verileri kolluk birimlerince alınır.

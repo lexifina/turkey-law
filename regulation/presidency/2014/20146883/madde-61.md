@@ -1,0 +1,2 @@
+Yürürlükten kaldırılan mevzuat
+MADDE 61- (1) 14/9/1994 tarihli ve 94/6169 sayılı Bakanlar Kurulu Kararı ile yürürlüğe konulan Türkiye’ye İltica Eden veya Başka Bir Ülkeye İltica Etmek Üzere Türkiye’den İkamet İzni Talep Eden Münferit Yabancılar ile Topluca Sığınma Amacıyla Sınırlarımıza Gelen Yabancılara ve Olabilecek Nüfus Hareketlerine Uygulanacak Usul ve Esaslar Hakkında Yönetmelik yürürlükten kaldırılmıştır.

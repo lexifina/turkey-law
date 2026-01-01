@@ -1,0 +1,3 @@
+Kişisel veriler
+MADDE 50- (1) Geçici koruma sağlanması amacıyla ülkemize gelen yabancıların kişisel verileri, Bakanlık tarafından belirlenecek usul ve esaslar çerçevesinde, Genel Müdürlük veya valiliklerce ilgili mevzuata ve taraf olunan uluslararası anlaşmalara uygun olarak alınır, korunur, saklanır ve kullanılır.(1)
+(2) Bu Yönetmelikte belirtilen iş ve işlemlerin yürütülmesi kapsamında Bakanlıkça uygun görülen kişisel veriler, ilgili kamu kurum ve kuruluşları ile üçüncü ülkeye yerleştirme çalışmaları kapsamında üçüncü ülke veya Birleşmiş Milletler Mülteciler Yüksek Komiserliğiyle paylaşılabilir. (1)

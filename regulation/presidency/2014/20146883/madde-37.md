@@ -1,0 +1,4 @@
+Geçici barınma merkezlerinin kurulması, yönetimi ve işletilmesi
+MADDE 37- (1) (Değişik: 8/1/2018-2018/11208 K.) Ülkemize yönelik kitlesel nüfus hareketi olması halinde acil durumun gerektirdiği koşullar ve ihtiyaçlar çerçevesinde geçici barınma merkezleri, ilgili kamu kurum ve kuruluşlarının görüşleri alınarak Genel Müdürlüğün koordinasyonunda AFAD tarafından kurularak Genel Müdürlüğe devredilir. Genel Müdürlük, ilgili diğer kamu kurum ve kuruluşlarının görüşlerini alarak valiliklerle eşgüdüm içinde geçici barınma merkezlerinin kullanımına son verilmesine ya da kapatılmasına karar verir.
+(2) Geçici barınma merkezleri, Genel Müdürlük tarafından işletilir veya işlettirilir.(4)
+(3) Geçici barınma merkezlerinin yönetimi, işletilmesi ve güvenliğinin sağlanması ile geçici barınma merkezlerinde barındırılanların tabi olacağı diğer hükümlere ilişkin usul ve esaslar, ilgili kamu kurum ve kuruluşların görüşleri alınarak Genel Müdürlük (…)(1) tarafından (…)(1) belirlenir.(1)

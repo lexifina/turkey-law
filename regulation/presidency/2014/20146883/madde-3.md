@@ -1,0 +1,26 @@
+Tanımlar
+MADDE 3- (1) Bu Yönetmeliğin uygulanmasında;
+a) AFAD: Afet ve Acil Durum Yönetimi Başkanlığını,
+b) Aile üyeleri: Yabancının eşini, ergin olmayan çocuğu ile bağımlı ergin çocuğunu,
+c) Bakan: İçişleri Bakanını,
+ç) Bakanlık: İçişleri Bakanlığını,
+d) Çocuk: Henüz on sekiz yaşını doldurmamış ve ergin olmamış kişiyi,
+e) (Değişik:RG-25/12/2019-30989-CK-1851/1 md.) Geçici barınma merkezi: Bu Yönetmelik kapsamındaki yabancılar ile Bakanlık tarafından uygun görülen kişilerin toplu olarak barınma ve iaşelerinin sağlanması amacıyla kurulan merkezleri,
+f) Geçici koruma: Ülkesinden ayrılmaya zorlanmış, ayrıldığı ülkeye geri dönemeyen, acil ve geçici koruma bulmak amacıyla kitlesel olarak veya bu kitlesel akın döneminde bireysel olarak sınırlarımıza gelen veya sınırlarımızı geçen ve uluslararası koruma talebi bireysel olarak değerlendirmeye alınamayan yabancılara sağlanan korumayı,
+g) Geçici korunan: Geçici koruma sağlanan yabancıyı,
+6204
+ğ) Genel Müdür: Göç İdaresi Genel Müdürünü,
+h) Genel Müdürlük: Göç İdaresi Genel Müdürlüğünü,
+ı) İkamet adresi: Türkiye’de adres kayıt sisteminde kayıtlı olunan yerleşim yerini,
+i) Kanun: 4/4/2013 tarihli ve 6458 sayılı Yabancılar ve Uluslararası Koruma Kanununu,
+j) Kitlesel akın: Aynı ülkeden veya coğrafi bölgeden kısa bir süre içerisinde ve yüksek sayılarda gerçekleşen ve söz konusu sayılar nedeniyle bireysel olarak uluslararası koruma statüsü belirleme işlemlerinin usulen uygulanabilir olmadığı durumları,
+k) (Değişik:RG-25/12/2019-30989-CK-1851/1 md.) Kurul: 1 sayılı Cumhurbaşkanlığı Teşkilatı Hakkında Cumhurbaşkanlığı Kararnamesinin 521 inci maddesi gereğince kurulan Göç Kurulunu,
+l) Özel ihtiyaç sahibi: Bu Yönetmelik kapsamındaki yabancılardan, refakatsiz çocuk, engelli, yaşlı, hamile, beraberinde çocuğu olan yalnız anne ya da baba veya işkence, cinsel saldırı ya da diğer ciddi psikolojik, bedensel ya da cinsel şiddete maruz kalmış kişiyi,
+m) Refakatsiz çocuk: Sorumlu bir kişinin etkin bakımına alınmadığı sürece, kanunen ya da örf ve adet gereği kendisinden sorumlu bir yetişkinin refakati bulunmaksızın Türkiye’ye gelen veya Türkiye’ye giriş yaptıktan sonra refakatsiz kalan çocuğu,
+n) Sevk merkezi: Geçici koruma amacıyla ülkemize gelen yabancıların, geçici barınma merkezlerine sevk edilinceye veya geçici barınma merkezi dışında kalacaklarsa ikametlerine yönlendirilinceye kadar kayıt ve diğer işlemler için geçici olarak bekletildikleri yerleri,
+o) Seyahat belgesi: Pasaport yerine geçen belgeyi,
+ö) Uluslararası koruma: Mülteci, şartlı mülteci veya ikincil koruma statüsünü,
+p) Yabancı: Türkiye Cumhuriyeti Devleti ile vatandaşlık bağı bulunmayan kişiyi,
+r) (Ek: 8/1/2018-2018/11208 K.) Psikososyal destek: Zorlu yaşam koşullarında ortaya çıkabilecek psikolojik uyumsuzluk ve bozuklukların önlenmesi, birey, grup, aile ve toplum düzeyinde ilişkilerin yeniden kurulması ve geliştirilmesi, etkilenenlerin normal yaşama geri dönmesi sürecinde kendi kapasitelerini fark etmeleri, güçlenmelerinin sağlanması ve savunuculuk etkinliklerini, toplumun başa çıkma, toparlanma ve iyileşme becerilerinin artırılması ile yardım çalışanlarının desteklenmesini içeren multidisipliner hizmetler bütününü,
+s) (Ek:RG-25/12/2019-30989-CK-1851/1 md.) Bakanlık tarafından uygun görülen kişi: Bakanlık onayı ile bu Yönetmeliğin hükümleri kapsamında değerlendirilmesi uygun görülen kişileri,
+ifade eder.
