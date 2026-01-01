@@ -1,0 +1,37 @@
+{
+  "checked_on": "2026-11-14",
+  "commencement_quote": "Bu Tebliğ 1/1/2026 tarihinde yürürlüğe girer",
+  "date_gazette": "33123",
+  "date_quote": "Bu Tebliğ 1/1/2026 tarihinde yürürlüğe girer",
+  "first_law": null,
+  "gazette": "33123",
+  "history": "current-text",
+  "images": {
+    "deferred": 0,
+    "omitted": 0,
+    "referenced": 0,
+    "source": 0
+  },
+  "in_force": "2026-01-01",
+  "in_force_basis": "Own commencement clause: Bu Tebliğ 1/1/2026 tarihinde yürürlüğe girer",
+  "issuer": "Tarım ve Orman Bakanlığı",
+  "issuer_catalog_evidence": [
+    {
+      "evidence": "issuer-637-0.json",
+      "id": "637",
+      "label": "Tarım ve Orman Bakanlığı",
+      "listing_url": "https://www.mevzuat.gov.tr/Anasayfa/MevzuatDatatable?MevzuatTur=Teblig&KurumId=637&start=0&length=100"
+    }
+  ],
+  "issuer_slug": "tarim-ve-orman-bakanligi",
+  "kind": "communique",
+  "label": "oldest version available",
+  "notes": [],
+  "published": "2025-12-30",
+  "source": "https://www.mevzuat.gov.tr/anasayfa/MevzuatFihristDetayIframe?MevzuatTur=9&MevzuatNo=42834&MevzuatTertip=5",
+  "source_bytes": 13345,
+  "source_id": "9.5.42834",
+  "source_sha256": "19d61a21fd4e897931198e310663ac22e1c4bb298c671394594c67fdcec53996",
+  "title": "ALKOL VE ALKOLLÜ İÇKİLERİN İÇ VE DIŞ TİCARETİNE İLİŞKİN USUL VE\r\nESASLAR HAKKINDA YÖNETMELİĞİN 14 ÜNCÜ VE GEÇİCİ 5 İNCİ MADDELERİNİN UYGULANMASINA DAİR TEBLİĞ (TEBLİĞ NO: 2025/39)",
+  "word_count": 373
+}
