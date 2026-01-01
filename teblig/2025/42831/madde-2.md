@@ -1,0 +1,3 @@
+MADDE 2- (1) 31/3/2008 tarihli ve 2008/13482 sayılı Bakanlar Kurulu Kararı ile yürürlüğe konulan Puro ve Sigarillo İthalatı, Fiyatının Belirlenmesi ve Yurt İçinde Pazarlanmasına İlişkin Usul ve Esaslar Hakkında Kararın 6 ncı maddesi gereğince alınması gereken Puro ve Sigarillo İthalatı Yetki Belgesi ile Puro ve Sigarillo İthalatı Yetki Belgesinin yıllık olarak süre uzatımı bedelleri 2026 yılı için aşağıdaki şekilde belirlenmiştir:
+a) Puro ve Sigarillo İthalatı Yetki Belgesi için 1.227.224 TL (birmilyonikiyüzyirmiyedibinikiyüzyirmidört Türk Lirası),
+b) Puro ve Sigarillo İthalatı Yetki Belgesinin yıllık olarak süre uzatımı için 102.964 TL (yüzikibindokuzyüzaltmışdört Türk Lirası).

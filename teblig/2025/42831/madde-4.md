@@ -1,0 +1,6 @@
+MADDE 4- (1) 25/10/2016 tarihli ve 29868 sayılı Resmî Gazete’de yayımlanan Yaprak Sigara Kâğıdı Üretimi ve Ticaretine İlişkin Usul ve Esaslar Hakkında Yönetmeliğin 23 üncü maddesi gereğince alınması gereken Tesis Kurma Uygunluk Belgesi, Proje Tadilatı Uygunluk Belgesi, Piyasaya Arz Uygunluk Belgesi, Yaprak Sigara Kâğıdı İthalatı Uygunluk Belgesi ve Satış Hizmet bedelleri 2026 yılı için aşağıdaki şekilde belirlenmiştir:
+a) Tesis Kurma Uygunluk Belgesi karşılığında bu hizmetler için yaprak sigara kâğıdı üretim tesislerinden her yüz milyon adet yaprak sigara kâğıdı üretim kapasitesi başına 111.015 TL (yüzonbirbinonbeş Türk Lirası),
+b) Proje Tadilatı Uygunluk Belgesi karşılığında bu hizmetler için yaprak sigara kâğıdı üretim tesislerinde her yüz milyon adetlik yaprak sigara kağıdı üretim kapasitesi artışına neden olan proje değişiklikleri için 111.015 TL (yüzonbirbinonbeş Türk Lirası),
+c) Piyasaya Arz Uygunluk Belgesi karşılığında bu hizmetler için her bir Piyasaya Arz Uygunluk Belgesinden 39.618 TL (otuzdokuzbinaltıyüzonsekiz Türk Lirası),
+ç) Yaprak Sigara Kâğıdı İthalatı Uygunluk Belgesi için 39.618 TL (otuzdokuzbinaltıyüzonsekiz Türk Lirası),
+d) Her bin adet yaprak sigara kâğıdı için satış hizmet bedeli olarak 8,14 TL (sekiz Türk Lirası ondört Kuruş).
