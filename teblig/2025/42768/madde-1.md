@@ -1,0 +1,3 @@
+Amaç ve kapsam
+MADDE 1- (1) Bu Tebliğin amacı, 2026 yılı için doğadan toplanarak ihracatı yasak olan çiçek soğanlarının familyalarını, cinslerini ve türlerini; doğa ve üretim olarak kotayla sınırlandırılan çiçek soğanlarının familyalarını, cinslerini ve türlerini; ihracat miktarları ve ticarete konu çevre ölçüleri ile ihracatı üretimden serbest olan çiçek soğanlarının familyalarını, cinslerini ve türlerini belirlemektir.
+(2) Bu Tebliğ; doğadan toplanması yasak veya doğadan toplanması kota ile sınırlandırılan doğal çiçek soğanları ile üretim alanlarında üretilerek elde edilen çiçek soğanları türlerinin soğan, yumru, rizom, korm ve yeşil aksamının yıllık ihracatının düzenlenmesini kapsar.
