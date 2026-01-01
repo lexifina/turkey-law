@@ -1,0 +1,4 @@
+Çevre Uyum İzni başvurusu
+MADDE 5- (1) Bu Tebliğ kapsamındaki ürünleri ithal etmek isteyen firmaların, Çevre Uyum İzni almış olmaları gerekir.
+(2) Çevre Uyum İzni başvurusu, firma kullanıcısı tarafından Bakanlık internet sayfasındaki “E-İşlemler” kısmında yer alan “Dış Ticarette Risk Esaslı Kontrol Sistemi (TAREKS) Uygulaması” bölümü kullanılarak TAREKS üzerinden yapılır. Başvuru için, firma ekranında “Denetim Başvurusu” başlığı altındaki “Ön İzin” alt başlığından “Yeni Başvuru” kutucuğu altındaki “Ürün Grubu Bazında Başvuru” seçeneği ile birlikte alınmak istenen ön izin belgesinin (Çevre Uyum İzni) işaretlenmesi yeterlidir.
+(3) Başvuruya ilişkin Çevre, Şehircilik ve İklim Değişikliği Bakanlığı tarafından istenen belgeler yazılı olarak ayrıca anılan Bakanlığa iletilir ve başvurular anılan Bakanlık tarafından sonuçlandırılır.
