@@ -1,0 +1,81 @@
+{
+  "source_id": "7.5.16136",
+  "kind": "regulation",
+  "register_kind": "Kurum ve Kuruluş Yönetmelikleri",
+  "title": "KARAYOLLARI GENEL MÜDÜRLÜĞÜNÜN SORUMLULUĞU ALTINDA BULUNAN OTOYOLLAR İLE ERİŞME KONTROLÜNÜN UYGULANDIĞIKARAYOLLARINDA GEÇİŞ ÜCRETLERİNİN BELİRLENMESİ VE UYGULANMASINA İLİŞKİN YÖNETMELİK",
+  "number": "16136",
+  "issuer": "Karayolları Genel Müdürü",
+  "issuer_slug": "karayollari-genel-muduru",
+  "path": "regulation/karayollari-genel-muduru/2012/16136",
+  "source": "https://www.mevzuat.gov.tr/anasayfa/MevzuatFihristDetayIframe?MevzuatTur=7&MevzuatNo=16136&MevzuatTertip=5",
+  "source_sha256": "ca0be55878328182e05deae0c284fafec8ae37ba0b0ba12c69c237c5bdd98da4",
+  "source_bytes": 38891,
+  "published": "2012-05-14",
+  "gazette": "28292",
+  "in_force": "2026-01-01",
+  "in_force_basis": "latest Resmî Gazete date printed in the source amendment notes/table (\"1/1/2026\") for the current consolidated text",
+  "date_evidence": [
+    [
+      "2026-01-01",
+      "1/1/2026",
+      "Resmî Gazete date in the source amendment table"
+    ],
+    [
+      "2025-06-05",
+      "RG-5/6/2025",
+      "Resmî Gazete date printed in the source amendment note"
+    ],
+    [
+      "2025-06-05",
+      "5/6/2025",
+      "Resmî Gazete date in the source amendment table"
+    ],
+    [
+      "2024-07-31",
+      "RG-31/7/2024",
+      "Resmî Gazete date printed in the source amendment note"
+    ],
+    [
+      "2024-07-31",
+      "31/7/2024",
+      "Resmî Gazete date in the source amendment table"
+    ],
+    [
+      "2020-05-15",
+      "RG-15/5/2020",
+      "Resmî Gazete date printed in the source amendment note"
+    ],
+    [
+      "2020-05-15",
+      "15/5/2020",
+      "Resmî Gazete date in the source amendment table"
+    ],
+    [
+      "2019-01-15",
+      "RG-15/1/2019",
+      "Resmî Gazete date printed in the source amendment note"
+    ],
+    [
+      "2019-01-15",
+      "15/1/2019",
+      "Resmî Gazete date in the source amendment table"
+    ]
+  ],
+  "commencement_clauses": [
+    "Bu Yönetmelik yayımı tarihinde yürürlüğe girer"
+  ],
+  "history": "current-text",
+  "label": "oldest version available",
+  "checked_on": "2026-11-15",
+  "word_count": 1576,
+  "text_status": "current-consolidated",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  },
+  "source_links": [
+    "7.5.16136-ek.doc"
+  ],
+  "completeness": "html-text-complete; linked annexes not fetched"
+}

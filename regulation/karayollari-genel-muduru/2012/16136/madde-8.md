@@ -1,0 +1,3 @@
+Geçiş ücreti muafiyeti
+MADDE 8 – (1) Ücretli karayolunun bakım ve işletmesinden sorumlu birimler ile trafik denetimi ve karayolundaki asayişten sorumlu birimlerin görev amacıyla ücretli kesime girmelerinde herhangi bir ücret alınmaz. Ücretli karayolunda meydana gelen trafik kazası, yangın ve benzeri olaylara müdahale için görevlendirilen itfaiye araçları, ambulanslar, sivil savunma araçları ve diğer görevli araçlar ücret ödemezler.
+(2) 8/1/2002 tarihli ve 4736 sayılı Kamu Kurum ve Kuruluşlarının Ürettikleri Mal ve Hizmet Tarifeleri ile Bazı Kanunlarda Değişiklik Yapılması Hakkında Kanunun 1 inci maddesine göre (Değişik ibare:RG-31/7/2024-32618) Cumhurbaşkanı Kararı ile geçiş ücreti muafiyeti verilenler hariç, tüm araçlar ücrete tabidir.
