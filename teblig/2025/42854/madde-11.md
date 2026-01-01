@@ -1,0 +1,5 @@
+Gümrük kıymeti ve diğer hususlar
+MADDE 11– (1) Başvuruda birim kıymetlere ilişkin yapılan beyanlar, 27/10/1999 tarihli ve 4458 sayılı Gümrük Kanunu çerçevesinde yapılan birim kıymetlere ilişkin denetim ve kontrollerin yerine geçmez.
+(2) İzin belgesi, Gümrük Kanununun eşyanın gümrük kıymetine ve diğer hususlara (GTİP tespiti dahil) ilişkin hükümlerinin uygulanmasını engellemez. Bu Tebliğde belirtilen kıymetler, Gümrük Kanununun eşyanın gümrük kıymetine ilişkin hükümlerinin uygulanmasına esas teşkil etmez.
+(3) Gümrük beyannamesinin tescili sırasında gümrüklerce tespit ve kabul edilen kıymet veya miktarın, başvuruda kayıtlı kıymet veya miktarı, toplam % 5'ten (% 5 dâhil) daha az bir oranda aşması ithalatın yapılmasını engellemez.
+(4) Bu Tebliğ kapsamında verilen izinler ve uygunluk yazıları, Ürün Güvenliği ve Denetimi mevzuatı ve diğer mevzuat kapsamında alınması gereken izin ve belgelerin yerine geçmez ve ilgili mevzuattan kaynaklanan yükümlülüklerin yerine getirilmesine engel teşkil etmez.

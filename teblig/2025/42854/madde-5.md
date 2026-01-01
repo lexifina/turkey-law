@@ -1,0 +1,9 @@
+Ek-1 liste kapsamı eşyaya ilişkin diğer esaslar
+MADDE 5– (1) 4 üncü maddenin ikinci fıkrası kapsamındaki eşya için aşağıdaki şartlar aranır:
+a) Listede yer alan ve GTİP karşısında “Grup 1-Belirli Eşya” sütununda “X” ile belirtilen kullanılmış veya yenileştirilmiş eşyanın belirlenen yaş kriterine uygun olanları için;
+1) Yatırım teşvik belgesi kapsamında olanlarına, birim kıymetine bakılmaksızın,
+2) Yatırım teşvik belgesi bulunmayanlarına, karşısında birim gümrük kıymeti belirtilmiş ise bu kıymete eşit veya daha fazla (diğer yurt dışı giderler kalemi dâhil) olması halinde, birim gümrük kıymeti belirtilmemiş ise birim kıymetine bakılmaksızın,
+“0970-TPS-İzin Belgesi (Kullanılmış Eşya-Liste)” düzenlenebilir.
+b) Listede yer alan ve GTİP karşısında “Grup 2-Sivil Havacılık Eşyası” sütununda veya “Grup 2-Deniz Taşıtları” sütununda “X” ile belirtilen kullanılmış veya yenileştirilmiş eşyanın “sivil hava taşıtları ve bunlarda kullanılmaya mahsus olanlar” veya “deniz taşıtları” olması halinde, Serbest Dolaşıma Giriş Rejimi kapsamında yapılan ithalatında Ulaştırma ve Altyapı Bakanlığının Uygunluk Yazısı aranır. Uygunluk Yazısı bulunan bu eşyanın ithalatı için birim gümrük kıymetine bakılmaksızın “0970-TPS-İzin Belgesi (Kullanılmış Eşya-Liste)” düzenlenir.
+c) “Grup 2-Sivil Havacılık Eşyası” sütununda belirtilen eşyalar için TPS üzerinden Sivil Havacılık Genel Müdürlüğünce TPS-Ulaştırma ve Altyapı Bakanlığı Uygunluk Yazısı (SHGM) düzenlenir.
+ç) Listede yer alan ve GTİP karşısında “Grup 2-Sivil Havacılık Eşyası” sütununda veya “Grup 2-Deniz Taşıtları” sütununda “X” ile belirtilen eşyanın sivil hava taşıtları ve bunlarda kullanılmaya mahsus eşya veya deniz taşıtları olmaması durumunda, eşya “Grup 1-Belirli Eşya” sütununda “X” ile belirtilmiş ise (a) bendi kapsamında işlem yapılır. Aksi halde, “0970-TPS-İzin Belgesi (Kullanılmış Eşya-Liste)” düzenlenmez.

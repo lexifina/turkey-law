@@ -1,0 +1,8 @@
+Başvuru usul ve esasları
+MADDE 7– (1) İzin Belgesi başvuruları e-Devlet üzerinden veya Bakanlık internet sitesi (www.ticaret.gov.tr) “E-Hizmetler” başlığı altındaki “E-İşlemler” menüsünde yer alan “İthalat Belge İşlemleri” uygulaması takip edilerek e-imza ile yapılır.
+(2) Elektronik imza sahibi kişilerin firmalar adına başvuru yapmak üzere yetkilendirilmesi, İthalat İşlemlerinde Elektronik Başvuru İçin Yetkilendirme Tebliği (İthalat: 2026/19) çerçevesinde yapılır.
+(3) 5 inci madde kapsamında yapılan kullanılmış veya yenileştirilmiş eşya başvurularında, birinci fıkrada belirtilen “İthalat Belge İşlemleri” uygulamasında bulunan “Başvuru İşlemleri” ana başlığı altındaki “Başvuru Girişi” ekranında belge türü olarak “0970-TPS-İzin Belgesi (Kullanılmış Eşya-Liste)”, Tebliğ/Karar olarak bu Tebliğ seçilir.
+(4) 4 üncü maddenin üçüncü fıkrası kapsamında yapılan kullanılmış veya yenileştirilmiş eşya başvurularında, birinci fıkrada belirtilen “İthalat Belge İşlemleri” uygulamasında bulunan “Başvuru İşlemleri” ana başlığı altındaki “Başvuru Girişi” ekranında belge türü olarak “0962-TPS-İzin Belgesi (Kullanılmış Eşya-Liste Dışı)”, Tebliğ/Karar olarak bu Tebliğ seçilir.
+(5) Başvuru Formunun elektronik olarak doldurulup Tebliğde yer alan ekleri ile birlikte belgelerin tam ve eksiksiz bir şekilde sisteme yüklenmesinden sonra elektronik imzalanması suretiyle başvuru tamamlanır.
+(6) Usulüne uygun olarak yapılan başvurular Genel Müdürlükçe değerlendirilerek sonuçlandırılır.
+(7) “0962-TPS-İzin Belgesi (Kullanılmış Eşya-Liste Dışı)” kapsamındaki müracaatların değerlendirilmesinde ithalatçının niteliği, eşyanın miktarı, eşyanın iç piyasadan tedarik şartları, ekonomik ömrü, verimliliği gibi etkenler göz önüne alınır.

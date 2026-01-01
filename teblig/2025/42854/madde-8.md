@@ -1,0 +1,4 @@
+Belgelerin düzenlenmesi, bildirimi ve kullanımı
+MADDE 8– (1) Başvurusu uygun bulunan başvuru sahibi adına İzin Belgesi Genel Müdürlükçe elektronik olarak düzenlenir ve başvuru formunda yer alan e-posta adresine bildirilir. Bildirimde Genel Müdürlükçe elektronik ortamda (TPS) verilen 23 haneli belge numarası ile belge tarihi yer alır. Başvuru sahibine ayrıca yazılı bildirim yapılmaz.
+(2) Bildirimde yer alan belge numarası ve belge tarihi yükümlü tarafından beyannamenin 44 nolu kutusunda “Belge Referans No” ve “Belge Tarihi” alanlarında beyan edilir.
+(3) Başvuru sahibinin gümrük idaresinde kaydının olmaması nedeniyle, İzin Belgesinin TPS’de kaydının onaylanamaması durumunda, başvuru formunda yer alan e-posta adresine Genel Müdürlükçe bildirimde bulunulur. Yapılan bildirim üzerine ithalatçı tarafından beş iş günü içinde gümrük sistemine kayıt yaptırılarak Genel Müdürlüğe bilgi verilir. Aksi takdirde, yapılmış olan başvuru geçersiz sayılır.

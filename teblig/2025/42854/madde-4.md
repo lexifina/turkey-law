@@ -1,0 +1,4 @@
+İthali izne tabi eşya
+MADDE 4– (1) Kullanılmış veya yenileştirilmiş eşyanın ithalatı, Serbest Dolaşıma Giriş Rejimine tabi tutulması halinde, izne tabidir.
+(2) Ek-1’de yer alan liste (liste) kapsamındaki eşyanın Serbest Dolaşıma Giriş Rejimi çerçevesindeki ithalatı Genel Müdürlükçe değerlendirilir. Değerlendirmede; ithalatçının niteliği, eşyanın miktarı, iç piyasadan tedarik şartları, ekonomik ömrü, verimliliği gibi etkenler de göz önüne alınabilir. Bu eşyanın ithalatı esnasında gümrük beyannamesinin tescilinde gümrük idarelerince “0970-TPS-İzin Belgesi (Kullanılmış Eşya-Liste)” aranır.
+(3) Liste dışında kalan veya listede Grup 2 sütununda yer almakla birlikte sivil hava taşıtları ve bunlarda kullanılmaya mahsus eşya veya deniz taşıtları olmaması durumunda eşyanın Serbest Dolaşıma Giriş Rejimine tabi tutulması halinde, gümrük beyannamesinin tescilinde gümrük idarelerince “0962-TPS-İzin Belgesi (Kullanılmış Eşya-Liste Dışı)” aranır.
