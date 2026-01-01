@@ -1,0 +1,3 @@
+Gübre harici eşyanın ithalatı
+MADDE 4- (1) Ek-1 ve Ek-2’de yer alan maddelerden 2832.30.00.20.00, 2832.30.00.90.00, 2834.21, 2834.29.80.11.00, 2834.29.80.12.00, 2834.29.80.19.00, 3002.49.00.00.00, 3824.84.00.00.00, 3824.85.00.00.00, 3824.86.00.00.00, 3824.87.00.00.00, 3824.88.00.00.00, 3824.99.92.00.34, 3824.99.92.00.39, 3824.99.93.00.19, 3824.99.96.90.68 G.T.P.’lerinde yer alanların gübre olarak kullanılmayacak olması halinde, ithalatında uygunluk yazısı aranmaz.
+(2) Birinci fıkrada belirtilen maddelerin dışında kalan Ek-1 ve Ek-2’deki eşyanın gübre olarak kullanılmayacak olması halinde, Uygunluk Yazısı yerine geçerli olan Tarım ve Orman Bakanlığınca düzenlenecek belgeye istinaden işlem yapılır.

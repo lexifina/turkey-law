@@ -1,0 +1,2 @@
+Uygunluk yazısının iadesi
+MADDE 5 - (1) Serbest Dolaşıma Giriş Rejimi, Dâhilde İşleme Rejimi, Gümrük Kontrolü Altında İşleme Rejimi ve Geçici İthalat Rejimi kapsamında ithalatın kısmen ya da tamamen gerçekleşmesini müteakip on beş iş günü içinde gümrük beyannamesinin ilgili gümrük idaresince onaylanmış bir sureti ve her halükarda Uygunluk Yazısının geçerlilik süresinin bitimini müteakip on beş iş günü içinde elektronik olarak düzenlenenler hariç olmak üzere Uygunluk Yazısının aslı, ithalatı gerçekleştiren firmalarca Tarım ve Orman Bakanlığına iade edilir.
