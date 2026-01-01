@@ -1,0 +1,5 @@
+Yaptırımlar
+MADDE 10- (1) Bu Tebliğin hükümlerine aykırı hareket eden ithalatçılara 9/8/1983 tarihli ve 2872 sayılı Çevre Kanunu, 27/10/1999 tarihli ve 4458 sayılı Gümrük Kanunu ve dış ticaret mevzuatının ilgili hükümleri uygulanır.
+(2) Metal Hurda İthalatçı Belgesine sahip olmayan firmalarca ithalat yapıldığının Çevre, Şehircilik ve İklim Değişikliği Bakanlığınca veya Ticaret Bakanlığınca ya da başka bir şekilde sonradan tespiti durumunda birinci fıkra hükmü uygulanır.
+(3) İthalata konu metal hurdanın ithalinin yasak olduğunun gümrük işlemleri sırasında tespiti halinde, her tür cezai hüküm saklı kalmak kaydıyla, Türkiye’nin uluslararası sözleşmelerden kaynaklanan hakları doğrultusunda Çevre, Şehircilik ve İklim Değişikliği Bakanlığının gözetim ve denetiminde gerekli işlemler yapılır.
+(4) 8 inci madde kapsamında serbest dolaşıma giren eşyanın Geçici Faaliyet Belgesi veya Çevre İzin Lisans Belgesine sahip tesislere verilmediğinin tespiti halinde çevre mevzuatında öngörülen yaptırımlar uygulanır.
