@@ -1,0 +1,37 @@
+{
+  "checked_on": "2026-11-14",
+  "commencement_quote": "Bu Tebliğ 1/1/2026 tarihinde yürürlüğe girer",
+  "date_gazette": "33124",
+  "date_quote": "Bu Tebliğ 1/1/2026 tarihinde yürürlüğe girer",
+  "first_law": null,
+  "gazette": "33124",
+  "history": "current-text",
+  "images": {
+    "deferred": 0,
+    "omitted": 0,
+    "referenced": 0,
+    "source": 0
+  },
+  "in_force": "2026-01-01",
+  "in_force_basis": "Own commencement clause: Bu Tebliğ 1/1/2026 tarihinde yürürlüğe girer",
+  "issuer": "Enerji ve Tabii Kaynaklar Bakanlığı",
+  "issuer_catalog_evidence": [
+    {
+      "evidence": "issuer-122-0.json",
+      "id": "122",
+      "label": "Enerji ve Tabii Kaynaklar Bakanlığı",
+      "listing_url": "https://www.mevzuat.gov.tr/Anasayfa/MevzuatDatatable?MevzuatTur=Teblig&KurumId=122&start=0&length=100"
+    }
+  ],
+  "issuer_slug": "enerji-ve-tabii-kaynaklar-bakanligi",
+  "kind": "communique",
+  "label": "oldest version available",
+  "notes": [],
+  "published": "2025-12-31",
+  "source": "https://www.mevzuat.gov.tr/anasayfa/MevzuatFihristDetayIframe?MevzuatTur=9&MevzuatNo=42836&MevzuatTertip=5",
+  "source_bytes": 12208,
+  "source_id": "9.5.42836",
+  "source_sha256": "221cfa62b7a7be68209e4d6d6f18bf7f02d5ac9558d93a3f7cf735e6416d1ca4",
+  "title": "5627 SAYILI ENERJİ VERİMLİLİĞİ KANUNUNUN 10 UNCU MADDESİNE GÖRE 2026 YILINDA UYGULANACAK OLAN İDARİ PARA CEZALARINA İLİŞKİN TEBLİĞ (SIRA NUMARASI: 2026/1)",
+  "word_count": 126
+}
