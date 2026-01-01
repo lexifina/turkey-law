@@ -1,0 +1,5 @@
+İthali izne tabi eşya
+MADDE 4 – (1) Ek-1’de yer alan eşyanın ithali yasaktır. Ancak usulüne uygun yapılan başvurular üzerine, bu listede kayıtlı eşyanın, Ek-4’te belirtilen ülkelerden “sadece araştırma, tıbbi, farmasötik veya koruyucu amaçlarla” yapılacak ithalatına izin verilir. İlgili kuruluşlardan alınacak söz konusu amaçları tevsik eden belgeler başvuruya eklenir. İthaline izin verilen eşyanın tekrar üçüncü bir ülkeye ihracatı yapılamaz.
+(2) Ek-2’de yer alan listede kayıtlı eşyanın ithalatı izne tabidir. Usulüne uygun yapılan başvurular üzerine, bu liste kapsamı eşyanın Ek-4’te belirtilen ülkelerden yapılacak ithalatına izin verilir.
+(3) Ek-3’te yer alan liste kapsamı eşyanın ithalatı izne tabidir. Usulüne uygun yapılan başvurular üzerine, bu liste kapsamı eşyanın tüm ülkelerden yapılacak ithalatına izin verilir.
+(4) Ek-1, Ek-2 ve Ek-3’te yer alan eşyanın Serbest Dolaşıma Giriş Rejimi, Gümrük Antrepo Rejimi, Dâhilde İşleme Rejimi, Hariçte İşleme Rejimi, Gümrük Kontrolü Altında İşleme Rejimi ve Geçici İthalat Rejimine ilişkin gümrük beyannamelerinin tescilinde, gümrük idarelerince İzin Belgesi aranır.
