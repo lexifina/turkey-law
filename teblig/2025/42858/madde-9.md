@@ -1,0 +1,3 @@
+Üçüncü ülkeye sevkiyat
+MADDE 9– (1) İthal Şehadetnamesi ve Nihai Kullanım Sertifikası konusu malların üçüncü bir ülkeye sevk edilmek istenmesi durumunda, ithalatçı tarafından ihracatçı ülke/ihracatçıdan İzin Yazısı/İzin Belgesi temin edilmesi ve bu yazının/belgenin Genel Müdürlüğe gönderilmesi gerekmektedir.
+(2) Serbest dolaşımda bulunan İthal Şehadetnamesi ile Nihai Kullanım Sertifikası konusu malların üçüncü bir ülkeye sevkine yönelik işlemler, 2/12/2003 tarihli ve 25304 sayılı Resmî Gazete’de yayımlanan Çift Kullanımlı ve Hassas Maddelerin İhracatının Kontrolüne İlişkin Tebliğ (Tebliğ No: 2003/12) hükümleri çerçevesinde yürütülür.

@@ -1,0 +1,2 @@
+Amaç ve kapsam
+MADDE 1– (1) Bu Tebliğin amacı, kitle imha silahlarının üretilmesi, geliştirilmesi, işlenmesi, depolanması, taşınması ve yayılmasında kullanılabilecek çift kullanımlı malzeme ve teknolojilerin ihracat kontrolleri kapsamında ülkemize ithal edilmesi için ihracatçı ülke/ihracatçı tarafından ithalatçıdan talep edilen İthal Şehadetnamesi ve Nihai Kullanım Sertifikasının onaylanmasına ilişkin usul ve esasların belirlenmesidir.
