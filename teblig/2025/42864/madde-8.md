@@ -1,0 +1,7 @@
+Başvuruların değerlendirilmesi ve bildirim
+MADDE 8 – (1) Usulüne uygun olarak yapılan başvurular, ithalatın ülke ekonomisi yararına düzenlenmesi amacıyla, Genel Müdürlükçe ithal eşyanın yerli tedarik koşulları da dikkate alınarak sonuçlandırılır.
+(2) Genel Müdürlükçe, ihtiyaç duyulması halinde ilave bilgi ve belge talep edilebilir.
+(3) Uygun bulunan başvurular için İzin Belgesi Genel Müdürlükçe elektronik olarak düzenlenir ve başvuru sahibinin başvuru formunda yer alan e-posta adresine bildirilir. Bildirimde Genel Müdürlükçe elektronik ortamda (TPS) verilen 23 haneli belge numarası ile belge tarihi yer alır.
+(4) Bildirimde yer alan belge numarası ve belge tarihi yükümlü tarafından ithalat esnasında beyannamenin 44 nolu kutusunda “Belge Referans No” ve “Belge Tarihi” alanlarında beyan edilir.
+(5) Başvuru sahibi kurumun gümrük idaresinde kaydının olmaması nedeniyle, ithal izninin TPS’de kaydının onaylanamaması durumunda, başvuru formunda yer alan e-posta adresine Genel Müdürlükçe bildirimde bulunulur. Yapılan bildirim üzerine ithalatçı kurum tarafından beş iş günü içinde gümrük sistemine kayıt yaptırılarak Genel Müdürlüğe bilgi verilir. Bu başvuruyu yapmak ithalatçı kurumun sorumluluğundadır.
+(6) 5 inci maddenin ikinci fıkrasının (ç) bendi çerçevesinde izin verilen kamu kurum ve kuruluşları, ithalat esnasında ilgili gümrük idaresine ithal eşyasının ihale süreçlerinin yabancı menşeli eşya lehine sonuçlandığını yazılı olarak bildirir.

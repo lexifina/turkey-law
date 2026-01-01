@@ -1,0 +1,4 @@
+Başvuru usul ve esasları
+MADDE 7 – (1) İzin Belgesi başvuruları e-Devlet üzerinden veya Bakanlık internet sitesi (www.ticaret.gov.tr) “E-Hizmetler” başlığı altındaki “E-İşlemler” menüsünde yer alan “İthalat Belge İşlemleri” uygulaması takip edilerek e-imza ile yapılır.
+(2) Elektronik imza sahibi kişilerin firmalar adına başvuru yapmak üzere yetkilendirilmesi, İthalat İşlemlerinde Elektronik Başvuru İçin Yetkilendirme Tebliği (İthalat: 2026/19) çerçevesinde yapılır.
+(3) Bu Tebliğ kapsamında yapılan başvurularda, birinci fıkrada belirtilen “İthalat Belge İşlemleri” sayfasında bulunan “Başvuru İşlemleri” ana başlığı altındaki “Başvuru Girişi” ekranında belge türü olarak “TPS-340-İzin Belgesi (Kamu İthalatı)”, Tebliğ/Karar olarak bu Tebliğ seçilir. Başvuru formunun elektronik olarak doldurulup ekleri ile birlikte belgelerin tam ve eksiksiz bir şekilde sisteme yüklenmesinden sonra elektronik olarak imzalanması suretiyle başvuru tamamlanır.
