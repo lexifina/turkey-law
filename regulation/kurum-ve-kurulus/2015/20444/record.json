@@ -1,0 +1,75 @@
+{
+  "source_id": "7.5.20444",
+  "kind": "regulation",
+  "register_kind": "Kurum ve Kuruluş Yönetmelikleri",
+  "title": "İŞ YERİ DIŞINDA KURULAN SÖZLEŞMELER YÖNETMELİĞİ",
+  "number": "20444",
+  "issuer_slug": "kurum-ve-kurulus",
+  "path": "regulation/kurum-ve-kurulus/2015/20444",
+  "source": "https://www.mevzuat.gov.tr/anasayfa/MevzuatFihristDetayIframe?MevzuatTur=7&MevzuatNo=20444&MevzuatTertip=5",
+  "source_sha256": "1caae8c65d9f025ffe177d963b657be4e8e27af4fe5a1bd0ab0e493b0b4a406b",
+  "source_bytes": 53007,
+  "published": "2015-01-14",
+  "gazette": "29236",
+  "in_force": "2026-01-01",
+  "in_force_basis": "latest Resmî Gazete date printed in the source amendment notes/table (\"1/1/2026\") for the current consolidated text",
+  "date_evidence": [
+    [
+      "2026-01-01",
+      "1/1/2026",
+      "Resmî Gazete date in the source amendment table"
+    ],
+    [
+      "2025-12-23",
+      "23/12/2025",
+      "Resmî Gazete date in the source amendment table"
+    ],
+    [
+      "2025-08-08",
+      "RG-8/8/2025",
+      "Resmî Gazete date printed in the source amendment note"
+    ],
+    [
+      "2025-08-08",
+      "8/8/2025",
+      "Resmî Gazete date in the source amendment table"
+    ],
+    [
+      "2025-01-01",
+      "1/1/2025",
+      "Resmî Gazete date in the source amendment table"
+    ],
+    [
+      "2024-08-23",
+      "RG-23/8/2024",
+      "Resmî Gazete date printed in the source amendment note"
+    ],
+    [
+      "2024-08-23",
+      "23/8/2024",
+      "Resmî Gazete date in the source amendment table"
+    ],
+    [
+      "2021-04-10",
+      "10/4/2021",
+      "Resmî Gazete date in the source amendment table"
+    ]
+  ],
+  "commencement_clauses": [
+    "Bu Yönetmelik yayımı tarihinden itibaren üç ay sonra yürürlüğe girer"
+  ],
+  "history": "current-text",
+  "label": "oldest version available",
+  "checked_on": "2026-11-15",
+  "word_count": 2715,
+  "text_status": "current-consolidated",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  },
+  "source_links": [
+    "https://www.resmigazete.gov.tr/eskiler/2025/12/20251223-6-1.htm"
+  ],
+  "completeness": "html-text-complete; linked annexes not fetched"
+}

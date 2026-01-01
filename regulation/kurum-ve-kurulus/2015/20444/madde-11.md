@@ -1,0 +1,3 @@
+Satıcı veya sağlayıcının yükümlülükleri
+MADDE 11 – (1) Satıcı veya sağlayıcı, 14 üncü maddede yer alan sözleşmeler hariç olmak üzere, cayma süresi içerisinde sözleşmeye konu mal veya hizmet karşılığında tüketiciden herhangi bir isim altında ödeme yapmasını veya tüketiciyi borç altına sokan herhangi bir belge vermesini isteyemez. Bu yasağa rağmen tüketiciden herhangi bir bedel alınması durumunda, alınan bedel tüketiciye derhal iade edilir. Ayrıca tüketiciyi borç altına sokan her türlü belge tüketici yönünden geçersizdir.
+(2) (Değişik:RG-23/8/2024-32641)1 Satıcı, cayma bildiriminin kendisine ulaştığı tarihten itibaren on dört gün içinde malı geri almakla yükümlüdür. Bu süre içerisinde malın geri alınmaması durumunda, tüketici malı muhafaza etmekle yükümlü değildir.
