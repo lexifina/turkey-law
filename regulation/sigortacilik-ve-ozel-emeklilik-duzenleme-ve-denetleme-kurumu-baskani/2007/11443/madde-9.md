@@ -1,0 +1,2 @@
+Özsermaye değişim tablosu
+MADDE 9 – (1) Özsermaye değişim tablosu, sermaye kalemlerinin her birinin dönem başı bakiyesini, dönem içinde söz konusu kalemlerde meydana gelen artışları veya azalışları ve dönem sonu kalanını ayrı ayrı gösterecek biçimde düzenlenir. Karşılaştırılabilirliği sağlamak bakımından, cari dönem hareketlerinin yanı sıra önceki dönem hareketleri ayrı bir bölüm şeklinde gösterilir.

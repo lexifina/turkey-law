@@ -1,0 +1,4 @@
+Finansal raporların yetkili kişilerce imzalanması
+MADDE 13 – (Değişik:RG-13/5/2023-32189)
+(1) Şirketlerin yönetim kurulu başkanı, denetim komitesi üyeleri, genel müdürü, mali işlerden sorumlu genel müdür yardımcısı, muhasebe veya mali işlerden sorumlu müdürü veya bu unvanlara eş değer kişiler tarafından ad, soyad ve unvan belirtilmek suretiyle, bağımsız denetim raporu hariç olmak üzere, şekil ve içeriği Kurumca belirlenecek yıl sonu ve ara dönem finansal tablolar ile bunlara ilişkin dipnot ve açıklamaları bu Yönetmelik hükümlerine ve muhasebe kayıtlarına uygun olduğu belirtilerek imza edilir. İlgili branşlarda faaliyet gösteren sigorta şirketlerinde finansal tablolar ilave olarak sorumlu aktüer tarafından onaylanır.
+(2) Türkiye’de şube açmak suretiyle faaliyette bulunan şirketler için birinci fıkra hükümleri kıyasen uygulanır.

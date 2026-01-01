@@ -1,0 +1,3 @@
+Finansal raporlar
+MADDE 11 – (Değişik:RG-13/5/2023-32189)
+(1) Şirketler tarafından bu Yönetmelik ve ilgili tebliğlerde belirtilen şekil ve içerikte hazırlanan yıl sonuna ilişkin finansal tablolar, bunların dipnot ve açıklamaları, bağımsız denetim raporu ve bunların ekinde yer alacak Kurulca açıklanması gerekli görülen ilave bilgiler yıl sonu finansal raporunu; kâr dağıtım tablosu hariç olmak üzere ilgili ara döneme ilişkin finansal tablolar, bunların dipnot ve açıklamaları, bağımsız denetim raporu ve bunların ekinde yer alacak Kurulca açıklanması gerekli görülen ilave bilgiler ara dönem finansal raporunu oluşturur.
