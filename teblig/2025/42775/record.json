@@ -1,0 +1,37 @@
+{
+  "checked_on": "2026-11-15",
+  "commencement_quote": "Bu Tebliğ 1/1/2026 tarihinde yürürlüğe girer",
+  "date_gazette": "33110",
+  "date_quote": "Bu Tebliğ 1/1/2026 tarihinde yürürlüğe girer",
+  "first_law": null,
+  "gazette": "33110",
+  "history": "current-text",
+  "images": {
+    "deferred": 0,
+    "omitted": 0,
+    "referenced": 0,
+    "source": 0
+  },
+  "in_force": "2026-01-01",
+  "in_force_basis": "Own commencement clause: Bu Tebliğ 1/1/2026 tarihinde yürürlüğe girer",
+  "issuer": "Ticaret Bakanlığı",
+  "issuer_catalog_evidence": [
+    {
+      "evidence": "issuer-504-100.json",
+      "id": "504",
+      "label": "Ticaret Bakanlığı",
+      "listing_url": "https://www.mevzuat.gov.tr/Anasayfa/MevzuatDatatable?MevzuatTur=Teblig&KurumId=504&start=100&length=100"
+    }
+  ],
+  "issuer_slug": "ticaret-bakanligi",
+  "kind": "communique",
+  "label": "oldest version available",
+  "notes": [],
+  "published": "2025-12-17",
+  "source": "https://www.mevzuat.gov.tr/anasayfa/MevzuatFihristDetayIframe?MevzuatTur=9&MevzuatNo=42775&MevzuatTertip=5",
+  "source_bytes": 14688,
+  "source_id": "9.5.42775",
+  "source_sha256": "12c3a0c876904940c360d5ae34c2cc71f9f24039de3619549e11bcc2397ca883",
+  "title": "5957 SAYILI SEBZE VE MEYVELER İLE YETERLİ ARZ VE TALEP DERİNLİĞİ\r\nBULUNAN DİĞER MALLARIN TİCARETİNİN DÜZENLENMESİ\r\nHAKKINDA KANUNUN 10 UNCU MADDESİNDE YER ALAN PARASAL SINIRLARIN ARTIRILMASINA İLİŞKİN TEBLİĞ",
+  "word_count": 241
+}
