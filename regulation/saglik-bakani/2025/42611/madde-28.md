@@ -1,0 +1,4 @@
+Organizasyon, personel ve eğitim
+MADDE 28- (1) Merkezlerde yeterli sayıda ve gerçekleştirdikleri faaliyetler için yeterli niteliklere sahip personel bulundurulur. Bu personel ile ilgili olarak;
+a) Merkezin ilgili faaliyetlerini yerine getirmek ve işletmekle sorumlu kişiler de dâhil, idare ve denetleme personelinin görevi iş tanımında belirtilir. Çalışanların hiyerarşik ilişkisi organizasyon şemasında tanımlanır. Organizasyon şeması ve iş tanımları merkezin iç prosedürüne göre onaylanır.
+b) Kalite yönetim planı kapsamında organizasyon içindeki her pozisyon için yapılması gereken eğitimler; temel eğitim, oryantasyon eğitimi, planlı ve plansız teorik ve pratik eğitimleri kapsayan özel eğitim ve sürekli eğitimi (sertifikasyon belgeleri gibi) kapsar. Personel eğitimleri kalite yönetim sistemi, etik ve mevzuat bilgisi ile hijyen eğitimini de içerir.

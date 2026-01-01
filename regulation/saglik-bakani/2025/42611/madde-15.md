@@ -1,0 +1,4 @@
+Doku ve hücre kaynağı merkezlerinin bilgi verme yükümlülüğü
+MADDE 15- (1) Bağışçı adayı, bağışçı ve alıcının isimlerinin açıklanmaması esastır.
+(2) Bağışçı ve alıcının isimleri, kişisel verilerin korunması mevzuatına uygun olarak, zorunluluk durumunda yargı mercilerinin kararı ile kan veya kayın hısımları ile yakınlarına açıklanabilir.
+(3) Bu kişilere ait isim, kimlik numarası, iletişim bilgileri ve benzeri veriler, sadece ilgili merkezin yetkili personeli tarafından erişilebilir olacak şekilde kayıt altına alınır. İlgili tüm personel, bağış ve tedarik sürecine ilişkin edindiği kişisel verilerin gizliliğini korumakla yükümlüdür. Tüm merkezler, bağışçı-alıcı eşleşmesinde kullanılan algoritmalar, eşleştirme bilgileri ve kimlik tanımlayıcı sistemlerin saklanması ve korunması için gerekli dijital güvenlik sistemlerini kurmak ve işletmek zorundadır.

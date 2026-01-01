@@ -1,0 +1,9 @@
+Üçüncü taraflar
+MADDE 40- (1) Merkezler üçüncü taraflara ilişkin aşağıdaki hususlara uyar:
+a) Tedarik, test etme, işleme, depolama ve dağıtım aşamalarından biri için bu Yönetmelikte belirlenen koşullara ve standartlara sahip üçüncü bir tarafa hizmet verdiği veya hizmet aldığı durumlarda, söz konusu faaliyet için üçüncü tarafla yazılı bir sözleşme yapar. Sözleşmede üçüncü tarafların bu Yönetmelik hükümlerine uygun hareket edecekleri ve yetkili mercilerin denetim ve kontrolüne izin vereceklerine dair taahhüde yer verilir.
+b) Üçüncü taraflar ve merkezler arasındaki sözleşmeler tarafların sorumluluklarını ve ayrıntılı prosedürleri içerir. Merkezler, sözleşme yapılmadan üçüncü taraflara hizmet veremez veya üçüncü taraflardan hizmet alamaz.
+c) Sözleşme sona erdiğinde izlenebilirliğin, veri ve hasta kayıtlarının, bilgi gizliliğinin devam etmesi merkezin sorumluluğundadır.
+ç) İnsan doku, hücre ve ürünlerinin kalite ve güvenliğini etkileyebilecek her türlü hizmet, malzeme, danışmanlık, finansal destek, fon desteği, uzman görüşü, cihaz, taşıma, sigorta ve diğer faaliyetlerde bulunan kuruluşlar ve kişiler, bu Yönetmelik, rehber ve kılavuzlar ile diğer alt düzenlemelerde belirlenen şartları yerine getirir.
+d) Üçüncü taraflarla yapılan sözleşmeler, merkezlerin bu Yönetmelikten doğan yükümlülüklerini ortadan kaldırmaz.
+e) Üçüncü taraflarca yürütülecek iş ve işlemler öncesinde, ilgili tarafın yetkinliği ve GMP/GTP gibi uygunluk belgeleri merkez tarafından kontrol edilir. Faaliyet süresince yapılan tüm işlemler prosedürlere, kalite sistemine ve validasyon kurallarına uygun olarak belgelendirilir.
+f) Yetkili merci, gerekli gördüğü durumlarda merkezlerin sözleşme yaptığı üçüncü tarafların tesislerini ve faaliyetlerini yerinde denetleyebilir veya bilgi talep edebilir. Merkez, bu sürece üçüncü tarafın uyumunu sağlamakla yükümlüdür.

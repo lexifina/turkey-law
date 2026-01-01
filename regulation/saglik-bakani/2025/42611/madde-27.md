@@ -1,0 +1,5 @@
+SEKİZİNCİ BÖLÜM
+Kalite Yönetim Sistemi, Cihaz ve Malzeme Standartları ve İzlenebilirlik
+Kalite yönetim sistemi
+MADDE 27- (1) Bu Yönetmelik hükümleri, rehber ve kılavuzlar ile diğer alt düzenlemelerde belirlenmiş standartlara göre merkez sorumlusunun gözetiminde bulunan ve merkez faaliyetlerinin bütün aşamalarına uygulanan güncel bir kalite sistemi kurulur. Bu sistem asgari olarak organizasyon yapısı, sorumluluk tanımları, standart uygulama yöntemleri, talimatlar, rehberler ile eğitim ve kaynakları içerir.
+(2) Kalite yönetim sistemi; personel bilgileri, eğitim ve organizasyon, ortam, teçhizat ve malzeme, dokümantasyon ve kayıt tutma, kalite kontrol, karantina ve serbest bırakma, geri çağırma, validasyon, şikâyet yönetimi, uygunsuzlukların, advers olay ve etkilerin incelenmesi ve raporlanması ve düzeltici önleyici faaliyetler ile iç denetim, dış denetim, risk yönetimi, izlenebilirlik ve üçüncü taraf sözleşmelerini kapsayan ve kalitede sürekliliği sağlayan bir kalite yönetim planlaması ile yürütülür.

@@ -1,0 +1,2 @@
+TÜSEB’in yetkileri
+MADDE 11- (1) TÜSEB, bu Yönetmeliğe göre hazırlanacak alt düzenlemeler ile rehber ve kılavuzlarda belirtilen insan doku ve hücrelerinin planlama kapsamında yurt içinde tedariki ile tedarikini gerçekleştirdiği doku ve hücrelerden elde edilen doku ve hücre ile ileri tedavi tıbbi ürünlerinin dağıtım işlemlerini, bunların stok seviyesinin takibi, kontrolü ile ülkeye giriş ve çıkışlarının merkezi bir otomasyon sistemi aracılığıyla kayıt altına alınması konularında yetkilidir. Bu iş ve işlemlere dair usul ve esaslar TÜSEB tarafından belirlenir.

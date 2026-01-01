@@ -1,0 +1,4 @@
+Klinik deneysel çalışma ve tedavi denemeleri uygulamaları
+MADDE 55- (1) Ruhsatlandırılmamış veya ruhsatlandırılmış ancak daha fazla araştırmaya tabi tutulmak istenen doku ve hücre ürünleri veya ileri tıbbi tedavi ürünleri kullanılarak yapılacak klinik deneysel çalışma ve tedavi denemeleri kapsamının, onay ve izin süreçlerinin, bu uygulamaları gerçekleştirebilecek hastane standartlarının ve bu ürünlerin kullanım alanlarının belirlendiği klinik uygulama rehberi yetkili merci tarafından yayımlanır.
+(2) Klinik araştırmalar; İnsan Gönüllüler Üzerinde Yapılan Tıbbi Araştırmalarda Etik İlkeler Üzerine Dünya Tıp Birliği Helsinki Bildirgesinin ve ilgili uluslararası standartların en güncel sürümü ile aynı doğrultuda tasarlanır, yürütülür, kaydedilir ve raporlanır.
+(3) Bu Yönetmelik kapsamındaki klinik araştırmaların her türlü mali sorumluluğu başvuru dosyasında bildirilen destekleyicilere aittir.

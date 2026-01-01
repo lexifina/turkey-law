@@ -1,0 +1,4 @@
+Ulusal Biyovijilans Sistemi
+MADDE 52- (1) Bildirime yönelik olarak yerel, bölgesel, ulusal veya uluslararası düzeyde bu Yönetmelik kapsamındaki ürünlerin, klinik uygulamasına ilişkin istenmeyen olumsuz etki, istenmeyen olumsuz olay ve gelişmiş veya gelişebilecek komplikasyonlara yönelik gerekli önlemleri almak üzere Bakanlık Ulusal Biyovijilans Sistemini kurar.
+(2) Bakanlık bünyesinde Ulusal Biyovijilans Komisyonu oluşturulur. Ulusal Biyovijilans Komisyonunun başkanlığını Sağlık Hizmetleri Genel Müdürü veya görevlendireceği genel müdür yardımcısı yürütür.
+(3) Ulusal Biyovijilans Sistemine ilişkin Bakanlığın görev ve sorumlulukları, komisyonun oluşması ve görevleri, merkezlerin yükümlülükleri ve diğer usul ve esaslar, Bakanlıkça çıkarılacak rehber ve kılavuzlar ile diğer alt düzenlemelerle belirlenir.
