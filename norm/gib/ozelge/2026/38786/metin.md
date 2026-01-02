@@ -1,0 +1,48 @@
+<p align="center"><strong>T.C.</strong></p>
+<p><strong> </strong></p>
+<p align="center"><strong>GELİR İDARESİ BAŞKANLIĞI</strong></p>
+<p><strong> </strong></p>
+<p align="center"><strong>Ankara Defterdarlığı</strong></p>
+<p><strong>&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;Gelir Kanunları Gelir Vergileri Grup Müdürlüğü</strong></p>
+<p align="left"><strong>Sayı&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; :</strong>E-90792880-187[2024/8]-2117&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;&nbsp;<strong> 02.01.2026</strong></p>
+<p align="left"><strong>Konu&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; :</strong>Devre mülk hakkının kiraya verilmesi durumunda konaklama ve gelir vergisi uygulaması</p>
+<p align="left"><strong>İlgi&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; : </strong>23.07.2024 tarih ve ….. sayılı özelge talep formunuz.</p>
+<p>İlgide kayıtlı özelge talep formunuz ve eklerinin incelenmesinden, yılın belli dönemlerinde kullanım hakkına sahip olduğunuz devre mülk hakkını, peşin ödediğiniz aidat ve ilan giderlerini karşılamak amacıyla kiralamak istediğiniz, kiralama faaliyeti nedeniyle mükellefiyetiniz bulunmadığı ve kiralama faaliyetinizin süreklilik arz etmediği belirtilerek devre mülk hakkınızı kiralamanın gelir ve konaklama vergisi kapsamında değerlendirilip değerlendirilmeyeceği hususunda Defterdarlığımız görüşünün talep edildiği anlaşılmıştır.</p>
+<p align="left"><strong>I-GELİR VERGİSİ YÖNÜNDEN</strong></p>
+<p align="left">193 sayılı Gelir Vergisi Kanununun 70 inci maddesinde; maddede, bentler halinde belirtilen mal ve hakların sahipleri, mutasarrıfları, zilyedleri, irtifak ve intifa hakkı sahipleri veya kiracıları tarafından kiraya verilmesinden elde edilen iratların gayrimenkul sermaye iradı olduğu hüküm altına alınmıştır.</p>
+<p align="left">Anılan Kanunun 72 nci maddesinde de,</p>
+<p align="left">"Gayrimenkul sermaye iratlarında, gayrisafi hasılat, 70'inci maddede yazılı mal ve hakların kiraya verilmesinden bir takvim yılı içinde o yıla veya geçmiş yıllara ait olarak nakden veya aynen tahsil edilen kira bedellerinin tutarıdır.</p>
+<p align="left">..."</p>
+<p align="left">hükmü uyarınca, gayrimenkul sermaye iratlarında tahsil esası benimsenmiştir.</p>
+<p align="left">Diğer taraftan, aynı Kanunun 94 üncü maddesinin birinci fıkrasında, nakden veya hesaben yapacakları ödemeler (avans olarak ödenenler dâhil) üzerinden gelir vergisi tevkifatı yapmak zorunda olanlar sayılmış olup, anılan fıkranın (5) numaralı bendinin (a) alt bendinde ise; 70 inci maddede yazılı mal ve hakların kiralanması karşılığı yapılan ödemelerden istihkak sahiplerinin gelir vergilerine mahsuben (2009/14592 sayılı B.K.K ile %20 Yürürlük; 03.02.2009) gelir vergisi tevkifatı yapılacağı hüküm altına alınmıştır.</p>
+<p align="left">Yine aynı Kanunun 86 ncı maddesinde,</p>
+<p>"Aşağıda belirtilen gelirler için yıllık beyanname verilmez, diğer gelirler için beyanname verilmesi halinde bu gelirler beyannameye dâhil edilmez.</p>
+<p align="left">1.Tam mükellefiyette;</p>
+<p>&nbsp;...</p>
+<p align="left">c)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Vergiye tâbi gelir toplamının [(a) ve (b) bentlerinde belirtilenler hariç] 103 üncü maddede yazılı tarifenin ikinci gelir diliminde yer alan tutarı (2024 takvim yılı gelirleri için: 230.000-TL) aşmaması koşuluyla, Türkiye'de tevkifata tâbi tutulmuş olan; birden fazla işverenden elde edilen ücretler, menkul sermaye iratları ve gayrimenkul sermaye iratları,</p>
+<p align="left">d)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Bir takvim yılı içinde elde edilen ve toplamı 600 milyon lirayı (2024 takvim yılı gelirlerine uygulanmak üzere 13.000-TL) aşmayan, tevkifata ve istisna uygulamasına konu olmayan menkul ve gayrimenkul sermaye iratları.</p>
+<p align="left">..."</p>
+<p align="left">hükmü yer almaktadır.</p>
+<p align="left">Öte yandan; "Devre Mülk Hakkı" 634 sayılı Kat Mülkiyeti Kanununun 57-65 inci maddelerinde düzenlenmiş ve devre mülk hakkının mesken olarak kullanılmaya elverişli bir yapı veya bağımsız bölümün ortak maliklerinden her biri lehine bu yapı ve bağımsız bölümünden yılın belli dönemlerinde istifade hakkı, müşterek mülkiyet payına bağlı bir irtifak hakkı olarak kurulabilen bir hak olduğu belirtilmiştir. Devre mülk hakkı, satışa konu edilebildiği gibi kiralamaya da konu olabilmektedir.</p>
+<p align="left">Devre mülk hakkı nitelik itibariyle gayrimenkul olarak tescil edilen bir hak olduğundan, bu tür hakların kiraya verilmesinden elde edilen gelirler de 193 sayılı Gelir Vergisi Kanununun 70 inci maddesinin birinci fıkrasının (4) numaralı bendine göre gayrimenkul sermaye iradı olarak değerlendirilmektedir.</p>
+<p align="left">Bu hüküm ve açıklamalar çerçevesinde; sahibi bulunduğunuz devre mülk hakkınızın tarafınızca,</p>
+<p align="left">-&nbsp;&nbsp;&nbsp; Gelir Vergisi Kanununun 94 üncü maddesinin birinci fıkrasında sayılan tevkifat sorumlularına kiraya verilmesi durumunda, elde edilecek tevkifata tabi kira gelirinin, mezkûr Kanunun 86 ncı maddesinin birinci fıkrasının (1) numaralı bendinin (c) alt bendi hükmü uyarınca, 2024 takvim yılı gelirleri için 230.000-TL tutarındaki beyan haddini (beyana tabi başkaca gelirlerinizin bulunması durumunda, adı geçen Kanunun 85 ve 86 ncı maddeleri uyarınca ayrıca bir değerlendirme yapılmalıdır.),</p>
+<p align="left">-&nbsp;&nbsp;&nbsp; Gelir Vergisi Kanununun 94 üncü maddesinin birinci fıkrasında sayılan tevkifat sorumluları dışındakilere kiraya verilmesi durumunda ise bu defa da, elde edilecek tevkifata ve istisna uygulamasına konu olmayan kira gelirinin, mezkûr Kanunun 86 ncı maddesinin birinci fıkrasının (1) numaralı bendinin (d) alt bendi hükmü uyarınca, 2024 takvim yılı gelirleri için 13.000-TL tutarındaki beyan haddini</p>
+<p align="left">aşması halinde, tarafınızca gayrimenkul sermaye iradı olarak yıllık gelir vergisi beyannamesi ile beyan edilmesi gerekmektedir.</p>
+<p align="left"><strong>II-KONAKLAMA VERGİSİ YÖNÜNDEN</strong></p>
+<p>6802 sayılı Gider Vergileri Kanununun 34 üncü maddesinin;</p>
+<p align="left">-&nbsp;&nbsp;&nbsp; 1 inci fıkrasında, otel, motel, tatil köyü, pansiyon, apart otel, misafirhane, kamping, dağ evi, yayla evi gibi konaklama tesislerinde verilen geceleme hizmeti ile bu hizmetle birlikte satılmak suretiyle konaklama tesisi bünyesinde sunulan diğer tüm hizmetlerin (yeme, içme, aktivite, eğlence hizmetleri ve havuz, spor, termal ve benzeri alanların kullanımı gibi) konaklama vergisine tabi olduğu,</p>
+<p align="left">-&nbsp;&nbsp;&nbsp; 2 nci fıkrasında, verginin mükellefinin birinci fıkrada belirtilen hizmetleri sunanlar olduğu,</p>
+<p align="left">-&nbsp;&nbsp;&nbsp; 3 üncü fıkrasında, vergiyi doğuran olayın, birinci fıkrada belirtilen hizmetlerin sunulması ile meydana geldiği</p>
+<p align="left">hükme bağlanmıştır.</p>
+<p align="left">Konaklama Vergisi Uygulama Genel Tebliğinin "Verginin Konusu" başlıklı (I) numaralı bölümünde,</p>
+<p align="left">"6802 sayılı Kanunun (bundan sonra Kanun olarak ifade edilecektir) 34 üncü maddesinin birinci fıkrası uyarınca konaklama vergisinin konusunu, otel, motel, tatil köyü, pansiyon, apart otel, misafirhane, kamping, dağ evi, yayla evi gibi konaklama tesislerinde verilen geceleme hizmeti ile bu hizmetle birlikte satılmak suretiyle konaklama tesisi bünyesinde sunulan diğer tüm hizmetler (yeme, içme, aktivite, eğlence hizmetleri ve havuz, spor, termal ve benzeri alanların kullanımı gibi) oluşturur. Geceleme hizmetinin; sağlıklı yaşam tesisleri, eğlence merkezleri gibi tesislerin bünyesinde sunulması, vergilendirmeye etki etmez.</p>
+<p align="left">Mezkûr fıkrada, konaklama tesisleri bakımından bir sınırlandırma bulunmamakta olup, tesisin; türü, sınıfı, niteliği, ilgili mevzuatta yer alan tarif ve tanımlamaları ve ilgili mevzuata göre turizm işletmesi belgesi ve/veya işyeri açma/işletme belgesi olup olmadığına bakılmaksızın, konaklama hizmeti sunan bütün tesislerde verilen yukarıda sayılan hizmetler vergiye tabidir.</p>
+<p>&nbsp;...</p>
+<p align="left">A. Konaklama Tesislerinde Verilen Geceleme Hizmeti</p>
+<p align="left">Konaklama tesislerinde verilen geceleme hizmeti vergiye tabidir. Geceleme hizmeti, konaklama tesislerinde oda veya yer tahsis etmek suretiyle verilen, tesiste günlük yatma, barınma ve kalma hizmetini ifade eder... "</p>
+<p align="left">açıklamalarına yer verilmiştir.</p>
+<p align="left">Buna göre, devre mülk hakkının ticari bir organizasyon olmaksızın hak sahiplerince kiraya verilmesi konaklama vergisinin konusuna girmediğinden, devre mülk hakkınızın tarafınızca kiraya verilmesi dolayısıyla konaklama vergisi yükümlülüğünüz bulunmamaktadır.</p>
+<p align="left">Bilgi edinilmesini rica ederim.</p>
+<p>&nbsp;</p>
+<p>&nbsp;</p>
