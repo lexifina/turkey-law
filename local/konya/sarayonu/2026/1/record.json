@@ -1,0 +1,25 @@
+{
+  "number": "1",
+  "number_as_published": "No: 1 / 2026",
+  "year": 2026,
+  "title": "Zabıta Personeli Maktu Fazla Çalışma Ücretleri",
+  "decision_date": "2026-01-02",
+  "source": "https://www.sarayonu.bel.tr/tr/kurumsal/meclis-kararlari",
+  "official_document": null,
+  "source_sha256": "c4515e3435e9763a75ee71d1191bb706324af17cc1eea470304d5b37daf06fcc",
+  "issuer": "Sarayönü Belediye Meclisi",
+  "history_type": "metadata",
+  "text_status": "metadata-only: listing fields as published; the listing links no decision document",
+  "in_force": "2026-01-02",
+  "in_force_basis": "Decision date as printed in the official council listing: 02.01.2026; adoption date of the council decision; legal commencement not asserted",
+  "missing": [
+    "complete official decision text",
+    "official annexes"
+  ],
+  "law_text_complete": false,
+  "privacy_withheld": false,
+  "official_page": "https://www.sarayonu.bel.tr/tr/kurumsal/sarayonu-bel-meclis-karari-no-1-2026",
+  "listing_title": "Sarayönü Bel. Meclis Kararı - Zabıta Personeli Maktu Fazla Çalışma Ücretleri",
+  "record_scope": "one council decision (listed subject)",
+  "description": "Belediye zabıta hizmetlerinin kesintisiz yürütülmesi amacıyla, personellere aylık 4.045,00 TL maktu fazla mesai ücreti ödenmesine oy birliği ile karar verilmiştir."
+}
