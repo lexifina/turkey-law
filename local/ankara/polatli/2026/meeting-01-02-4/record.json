@@ -1,0 +1,25 @@
+{
+  "number": "meeting-01-02-4",
+  "number_as_published": "meeting-01-02-4",
+  "year": 2026,
+  "title": "02 OCAK 2026 MECLİS KARARLARI",
+  "decision_date": "2026-01-02",
+  "source": "https://www.polatli.bel.tr/mecliskararlari?page=3",
+  "official_document": "https://www.polatli.bel.tr/upload/mecliskararlari/PuzRxEMKTohK5AA.pdf",
+  "source_sha256": "4dcfbd85723921851a1314f97c22c269ab1a1c5e72c3adc0d67ed2512f95d726",
+  "issuer": "Polatlı Belediye Meclisi",
+  "history_type": "metadata",
+  "text_status": "metadata-only: listing fields as published; complete decision text is in the linked official document, not transcribed",
+  "in_force": "2026-01-02",
+  "in_force_basis": "Decision date as printed in the official council listing: 02 OCAK 2026; adoption date of the council decision; legal commencement not asserted",
+  "missing": [
+    "complete official decision text",
+    "official annexes"
+  ],
+  "law_text_complete": false,
+  "privacy_withheld": false,
+  "listing_label": "02 OCAK 2026 MECLİS KARARLARI",
+  "record_scope": "one official file of council decisions (meeting)",
+  "file_name": "2026-03-denetim-komisyon-üye-seçimii.pdf",
+  "list_date": "2026-01-02"
+}
