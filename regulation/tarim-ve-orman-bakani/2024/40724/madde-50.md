@@ -1,0 +1,10 @@
+Komisyonun çalışma usul ve esasları
+MADDE 50- (1) Komisyonun çalışma usul ve esasları aşağıda belirtilmiştir:
+a) Komisyon toplantıları, her ayın ilk haftası ruhsata esas başvuruları değerlendirmek üzere fiziki veya elektronik ortamda düzenlenir. Genel Müdürlükçe belirlenen son evrak kabul tarihinden sonra veya Komisyon devam ederken yapılacak başvurular bir sonraki Komisyon toplantısının gündemine alınır. Zorunlu hallerde toplantı tarihi Genel Müdürlükçe ayrıca belirlenir.
+b) Genel Müdürlük, gerektiğinde Komisyonu olağanüstü toplantıya çağırabilir.
+c) Bitki koruma ürünü ruhsat talebinde bulunan firma temsilcisi, bitki koruma ürünü ile ilgili bilgi ve belgelerin incelenmesi sırasında firmanın talebini içeren yazılı başvurusunu Genel Müdürlüğün uygun bulması halinde, sadece bilgi ve belge sunması amacıyla Komisyon toplantısına belirlenen sürede katılır.
+ç) Komisyon marifetiyle alınacak kararlar, toplantıya katılanların salt çoğunluğu ile alınır. Kararlarda eşitlik olması halinde Komisyona başkanlık yapan üyenin oy kullandığı yönde karar alınmış sayılır. Komisyon üyeleri çekimser oy kullanamaz.
+d) Komisyon kararları tavsiye niteliğindedir. Komisyon kararları bilimsel gerekçelere dayalı, açık ve anlaşılır yazılmak zorundadır.
+e) Komisyon sonrasında Bakanlıkça alınan kararlar Bitki Koruma Ürünleri Veri Tabanında yer alan firma portalında yayımlanır. Başvuru sahipleri başvurularının durumunu takip etmek ile sorumludur.
+f) Firma Komisyon karar yayın tarihinden itibaren bir ay içinde karara itiraz edebilir. İtiraz edilmeyen kararlar kesinleşir. İtirazın değerlendirilmesi sonucunda çıkan karara, bu kararı değiştirebilecek nitelikte yeni bilgi ve belgeler sunulmadıkça itiraz edilemez. Komisyon karar yayın tarihinden itibaren bir aylık süre içerisinde karara itiraz edilmemesi, Komisyon kararının yerine getirilmemesi veya yerine getirileceğinin bildirilmemesi veya yeni bir ek süre talep edilmemesi halinde başvuru dosyaları Komisyon gündeminden kaldırılır.
+g) Komisyon üyeleri, gündeme alınan dosyaları Genel Müdürlükçe belirlenen süreler içerisinde inceler ve sonuçlandırır.

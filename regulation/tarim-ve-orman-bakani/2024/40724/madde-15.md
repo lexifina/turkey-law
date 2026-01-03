@@ -1,0 +1,4 @@
+Birden fazla aktif madde ihtiva eden karışım haldeki bitki koruma ürünlerinin ruhsatlandırılması
+MADDE 15- (1) Birden fazla aktif maddeyi içeren bitki koruma ürünlerinin ruhsatlandırılması amacıyla yapılacak ruhsat başvurularında 12 nci maddenin ikinci ve üçüncü fıkraları ile dördüncü fıkrasının (a), (b), (c), (ç) ve (d) bentlerinde belirtilen bilgi ve belgelere ilave olarak aşağıda belirtilen bilgi ve belgelerin sunulması gerekir:
+a) Karışımı oluşturan aktif maddelerin ruhsatsız olması durumunda 12 nci maddenin dördüncü fıkrasının (e) bendinde belirtilen bilgi ve belgeler.
+b) Karışımı oluşturan aktif maddelerin ruhsatlı olması durumunda ise 12 nci maddenin dördüncü fıkrasının (e) bendine uygun olarak yapılmış bitki koruma ürününe ait akut toksikolojisi ve uygulayıcı maruziyeti çalışmalarına ilişkin bilgi ve belgeler.

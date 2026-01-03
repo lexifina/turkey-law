@@ -1,0 +1,2 @@
+Özel yükümlülük
+MADDE 54- (1) Bitki koruma ürünlerinin kullanılması sırasında insan sağlığı açısından bir sorun yaşanması halinde hızlı ve uygun müdahale yapılabilmesi amacıyla bu Yönetmelik kapsamında sağlık üzerine etkileri ve fizikokimyasal özellikleri nedeniyle zararlı olarak belirlenen ruhsatlı bitki koruma ürünlerinin piyasaya arz edilmeden önce, kimyasal bileşimine ve zararlılık özelliklerine ilişkin ayrıntılı bilgiyi Sağlık Bakanlığı Ulusal Zehir Danışma Merkezine vermekle yükümlüdürler. Söz konusu bilgilerin veriliş usul ve formatı Sağlık Bakanlığınca belirlenir.

@@ -1,0 +1,2 @@
+Etikette kısıtlama bilgileri ve esasları
+MADDE 37- (1) Bakanlık tarafından, bitki koruma ürününün toksikolojik özellikleri ve kalıntısıyla ilgili sorunlar veya direnç gibi nedenlerle, gerek bölgelerin ve gerekse ürünlerin bir veya bir kaçında kullanılması, aynı nedenlerle özel bir kullanım şeklinin belirlenmesi ya da satış zamanının kısıtlanması gibi durumlarda, bu belirleme ve kısıtlamalar Bakanlığın belirlediği şekilde etikete yazılır.

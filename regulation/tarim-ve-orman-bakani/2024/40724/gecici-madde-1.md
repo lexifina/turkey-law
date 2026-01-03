@@ -1,0 +1,2 @@
+Daha önce yapılan ruhsata esas başvurular
+GEÇİCİ MADDE 1- (1) Bu Yönetmeliğin yürürlüğe girdiği tarihten önce Genel Müdürlüğe bitki koruma ürünü ruhsatı almak üzere başvuru yapılmış ve değerlendirmesi devam eden başvurular 56 ncı madde ile yürürlükten kaldırılan 9/11/2017 tarihli ve 30235 sayılı Resmî Gazete’de yayımlanan Bitki Koruma Ürünlerinin Ruhsatlandırılması ve Piyasaya Arzı Hakkında Yönetmelik hükümlerine göre değerlendirilir.

@@ -1,0 +1,8 @@
+Ruhsat başvurusu
+MADDE 11- (1) Ülkemizde piyasaya arz edilmek üzere üretimi veya ithalatı yapılmak istenen bitki koruma ürünleri için Bakanlıktan ruhsat alınması gerekir.
+(2) Firma tarafından yapılacak ruhsat müracaatında, ıslak veya elektronik imzalı bir dilekçe ekinde gerekli bilgi ve belgeler ile Genel Müdürlüğe fiziki veya elektronik ortamda başvuruda bulunulması gerekir. Elektronik başvuruya ilişkin usul ve esaslar Bakanlıkça yayımlanan talimatla ayrıca belirlenir.
+(3) Ruhsat başvurusuna ilişkin fiziki veya elektronik ortamda sunulan bilgi ve belgelerin doğruluğu ve geçerliliğinden iştigal izin sahibi firma sorumludur. Genel Müdürlük tarafından yapılacak ön inceleme ve değerlendirme sonucunda belgelerde eksiklik veya uygunsuzluk tespit edilmesi durumunda, ruhsat başvurusu değerlendirmeye alınmaz ve başvuru dosyası firmaya iade edilir. Uygun bulunan başvurular değerlendirilmeye alınır.
+(4) Firma tarafından Genel Müdürlüğe sunulan ruhsat başvuru dosyaları, ürün bazında olmak şartıyla dosyaların içerdikleri bilgiler sırasıyla; firma bilgileri, fizikokimyasal ve kimyasal veriler, etiket bilgileri, biyolojik etkinlik, yan etki, direnç ve kalıntı çalışmaları, toksikolojik ve ekotoksikolojik veriler ile diğer bilgiler konu başlıkları altında düzenli olarak hazırlanır.
+(5) Bakanlığa sunuldukları tarih itibarıyla güncel ve geçerli olmayan bilgi ve belgeler kullanılarak yapılacak ruhsata esas başvurular değerlendirmeye alınmaz.
+(6) Başvurularda, resmî ve yetkili kurum ve kuruluşlarca elektronik sistemler üzerinden oluşturulan ve kontrolleri sağlanabilen belgeler Bakanlıkça değerlendirmeye alınır.
+(7) Bilgi ve belgeleri Bakanlık tarafından uygun bulunan bitki koruma ürünleri ruhsatlandırılır.

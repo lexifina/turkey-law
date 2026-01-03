@@ -1,0 +1,5 @@
+Komisyon ile ilgili yasaklar ve gizlilik
+MADDE 51- (1) Komisyon üyeleri, görevleri gereği edindikleri gizlilik taşıyan bilgi, belgeleri ve görevleri sırasında öğrendikleri ruhsat sahibi ve ürünlerin ticari, bilimsel ve teknik sırlarını görevlerinden ayrılmış olsalar bile ifşa edemezler; kendilerinin veya üçüncü şahısların lehine veya aleyhine kullanamaz ve kullandıramazlar.
+(2) Komisyon üyeleri, inceleme yaptıkları konularla ilgili başvuru sahibiyle görüşemez ve görüş alışverişinde bulunamazlar.
+(3) Komisyon üyelerinin kendileri, evlilikleri sona ermiş olsa dahi eşleri, birinci veya ikinci derece kan ve kayın hısmı, bitki koruma ürünü imal veya ithalatı yapanlar ile ruhsata esas deneme faaliyeti yürüten firmalar veya kuruluşlarda çalışanlar ya da bu kuruluşlara danışmanlık yapanlar Komisyonlarda görev alamazlar. Bu hükme aykırı yanlış beyanı olanların tespit edilmesi halinde, Komisyon üyeliği düşürülür ve ilgili mevzuat hükümlerine göre gerektiğinde adli ve idari işlemler yapılır ve haklarında Cumhuriyet Başsavcılığına suç duyurusunda bulunulur.
+(4) Komisyon üyeleri göreve başlarken içeriği Genel Müdürlük tarafından belirlenen etik sözleşme imzalar.

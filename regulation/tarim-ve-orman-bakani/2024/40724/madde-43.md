@@ -1,0 +1,2 @@
+Taşıma ve nakliye sırasında kullanılacak dış ambalajların üzerinde bulunması gerekli bilgiler
+MADDE 43- (1) Taşıma ve nakliye sırasında kullanılacak koli, varil gibi dış ambalajların üzerinde, içinde bulundurduğu bitki koruma ürününe ait tehlike özellikleri ve sembolleri, bitki koruma ürünü olduğuna dair bilgiler ile ruhsat sahibi firma adı ve iletişim bilgileri ile karekod zorunluluğu olan bitki koruma ürünlerinde karekod bilgisi yer alır.

@@ -1,0 +1,4 @@
+Mehil süresi
+MADDE 29- (1) Bakanlığın bir bitki koruma ürününün ruhsatını iptal etmesi, ruhsatlı üründe değişiklik yapması veya ruhsatı yenilememesi durumlarında üretim ve ithalat işlemleri durdurulur. Bakanlık mevcut stokların bertaraf edilmesi, depolanması, pazara sunulması ve tüketilmesi için gerekli gördüğü hallerde ek süre tanır.
+(2) Bir bitki koruma ürününün ruhsatının iptal edilmesi, ruhsatlı üründe değişiklik yapılması veya ruhsatın yenilenmemesinin sebeplerinin insan ve hayvan sağlığını veya çevreyi koruma ile ilgili olmaması halinde, tanınacak ek süre, söz konusu bitki koruma ürününün stoklarının satışı ve dağıtımı için azami altı ay ve bertarafı, depolanması ve tüketimi için ise azami bir yıldır.
+(3) Ruhsat geçerlilik süresinin uzatılmaması nedeniyle ruhsatı iptal edilmiş olan bitki koruma ürünlerinin ruhsat iptal tarihinden önce imal veya ithal edilmiş olanlar için son kullanım tarihine kadar piyasada bulunmasına izin verilir.

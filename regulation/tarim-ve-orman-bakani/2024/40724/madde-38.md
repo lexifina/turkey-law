@@ -1,0 +1,2 @@
+Bilgilerin etikette yer alış şekli
+MADDE 38- (1) Bu Yönetmelikte belirtilen esaslara göre verilmesi gereken bilgilerin Ek-2’de yer alan Bitki Koruma Ürünü Etiket Örneğine uygun olarak etikette bulunması zorunludur. Korunma uyarıları ve tedbirleri, bütünlüğü bozulmadan etiketin uygun görülecek başka bölümlerine üst bölümler hariç aktarılabilir. Kullanma ile ilgili hususlar birbirini izleyerek yazılabilir.
