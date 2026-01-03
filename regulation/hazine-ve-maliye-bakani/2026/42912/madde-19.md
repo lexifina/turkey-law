@@ -1,0 +1,4 @@
+Gelir uzmanlarının, gelir uzman yardımcılarının ve diğer memurların görevleri ve sorumlulukları
+MADDE 19- (1) Gelir uzmanları, gelir uzman yardımcıları ve diğer memurlar; kanun, yönetmelik ve ilgili diğer mevzuatta belirtilen iş ve işlemlerden kendilerine verilenleri yapmakla görevlidir.
+(2) Gelir uzmanları, gelir uzman yardımcıları ve diğer memurlar; vergi dairesi müdür yardımcısı ve vergi dairesi müdürü tarafından verilen görev ve işleri belirlenen usul ve esaslar çerçevesinde yerine getirmekle yükümlü olup kendilerine verilen görev ve işleri yerine getirirken ilgisine göre vergi dairesi müdür yardımcısına ve vergi dairesi müdürüne karşı sorumludur.
+(3) Gelir uzmanları, gelir uzman yardımcıları ve diğer memurlar; tarh, tahakkuk ve tahsilata ilişkin işlemlerin zamanında ve doğru olarak yerine getirilmemesinden doğan kamu zararlarından sorumludur.

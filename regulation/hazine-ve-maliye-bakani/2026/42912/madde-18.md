@@ -1,0 +1,4 @@
+Vergi dairesi müdür yardımcılarının görevleri ve sorumlulukları
+MADDE 18- (1) Vergi dairesi müdür yardımcıları, kendilerine bağlı bölümlerin iş ve işlemlerinin ilgili mevzuata uygun olarak ve zamanında yapılması ile görevlidir.
+(2) Vergi dairesi müdür yardımcıları; sahip oldukları veya vergi dairesi müdürü tarafından devredilen yetkileri kullanmamaktan, devredilen yetkilerin kötüye kullanılmasından ve görevlerinin ilgili mevzuata uygun ve zamanında yapılmamasından dolayı ilgililerle birlikte vergi dairesi müdürüne karşı sorumludur.
+(3) Vergi dairesi müdür yardımcıları; tarh, tahakkuk ve tahsilata ilişkin iş ve işlemlerin zamanında ve doğru olarak yerine getirilmemesinden doğan kamu zararlarından, o iş ve işlemi yapan gelir uzmanı, gelir uzman yardımcısı ve diğer memur ile birlikte sorumlu tutulur.

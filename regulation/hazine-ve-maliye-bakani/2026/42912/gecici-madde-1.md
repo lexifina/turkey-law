@@ -1,0 +1,3 @@
+Malmüdürlüğü bünyesinde bulunan bağlı vergi dairelerinin defterdarlığa bağlı vergi dairesine dönüştürülmesi
+GEÇİCİ MADDE 1- (1) Bakanlığa bağlı malmüdürlükleri bünyesinde bulunan bağlı vergi daireleri, Başkanlığın taşra teşkilatı olan defterdarlığa bağlı vergi dairesine dönüştürülünceye kadar 23 üncü madde ile yürürlükten kaldırılan Vergi Daireleri Kuruluş ve Görev Yönetmeliği hükümlerine göre faaliyetlerini sürdürür.
+(2) Bakanlığa bağlı malmüdürlükleri bünyesinde bulunan bağlı vergi daireleri, Başkanlığın taşra teşkilatı olan defterdarlığa bağlı vergi dairesine dönüştürülünceye kadar; bağlı vergi dairesi personeli, doğrudan malmüdürüne bağlı olarak çalışır.
