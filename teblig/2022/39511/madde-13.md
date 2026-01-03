@@ -1,0 +1,5 @@
+Geri gelen eşya ve mahrece iade edilen eşya
+MADDE 13- (1) Basitleştirilmiş gümrük beyannamesi kapsamında ihraç edilmiş eşyanın tamamen veya kısmen geri gelmesi halinde 10 uncu maddenin yedinci fıkrasında bahsi geçen ağırlık ve kıymet sınırlamaları dâhilinde işlem yapılır.
+(2) İhraç edildikten sonra geri gelen eşyanın gümrük vergilerinden muaf olarak serbest dolaşıma girebilmesi için ihracat nedeniyle yararlanılan hak ve menfaat varsa bunların iade edildiğini gösteren belgenin gümrük müdürlüğüne ibrazı gerekir. İhracat nedeniyle katma değer vergisi ve özel tüketim vergisi iadesinden veya istisnasından yararlanan eşyanın katma değer vergisi ve özel tüketim vergisi tahsil edilir.
+(3) Gönderinin yanlışlıkla Türkiye'ye gelmesi halinde yurt dışı edilmesine, mahrece iadesi gereken gönderinin geldiği ülkeye gitmesine operatörün beyanı doğrultusunda izin verilir.
+(4) Mahrece iadesi talep edilen eşyanın serbest dolaşıma girişinde maktu vergi tahsil edilmişse bu eşyanın muayeneye tabi tutulması ve serbest dolaşıma giriş beyannamesindeki ilgili taşıma senedinin iptali gerekir.

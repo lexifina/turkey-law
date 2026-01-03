@@ -1,0 +1,13 @@
+Başvuru koşulları
+MADDE 4- (1) Bu Tebliğ ile verilen yetki kapsamında işlem yapmak isteyen operatörlerin;
+a) Hava yolu ile hızlı kargo taşımacılığı için Ulaştırma ve Altyapı Bakanlığı Sivil Havacılık Genel Müdürlüğünce “hava kargo acentesi” olarak yetkilendirilmiş olması,
+b) Kara yolu ile hızlı kargo taşımacılığı için Ulaştırma ve Altyapı Bakanlığı tarafından, yapacakları faaliyetlere uygun uluslararası kara yolu taşımacılık belgesi ile yetkilendirilmiş olması,
+c) (Değişik:RG-3/1/2026-33126)[1] Bu Tebliğ kapsamındaki işlemlerin ifası, takibi ve sonuçlandırılması için şirket bünyesinde asgari iki gümrük müşaviri istihdam ediyor olması veya asgari iki gümrük müşaviri ile sözleşme yapmış olması ya da asgari iki gümrük müşaviri görevlendirilmek üzere bir gümrük müşavirliği şirketiyle sözleşme yapmış olması,
+ç) Yönetim kurulu üyeleri, sermayesinin yüzde onundan fazlasına sahip gerçek kişiler ile gümrük ve dış ticaret işlemlerinde temsil yetkisini haiz çalışanlarının 7/10/2009 tarihli ve 27369 mükerrer sayılı Resmî Gazete’de yayımlanan Gümrük Yönetmeliğinin 23 üncü maddesinin birinci fıkrasının (a) bendinde belirtilen suçlardan kesinleşmiş cezası veya mahkumiyet kararı bulunmaması,
+d) Kesinleşmiş gümrük vergileri ve ceza borcu bulunmaması,
+e) Bu Tebliğ kapsamındaki eşyanın konulacağı geçici depolama yerlerinde, gönderilerin gümrük müdürlüğünce muayene ve kontrolünü kolaylaştırmak üzere teknik özellikleri Bakanlıkça belirlenecek X-ray cihazı, otomatik barkod okuyucu, 9 uncu maddede belirtilen eşya tasnif işlemini otomatik olarak yapmaya uygun yürüyen bant sistemi ve kamera sistemi bulundurulması ve Bakanlıkça gerekli görülecek diğer altyapının kurulmuş olması,
+f) Yetki kapsamı işlemlere ilişkin olarak, sonradan yapılacak kontroller sonucunda doğabilecek kamu alacağının garanti edilmesi amacıyla, yalnızca hava yolu veya yalnızca kara yolu ile hızlı kargo taşımacılığında yetki kullanılmak istenmesi durumunda (Değişik ibare:RG-1/3/2025-32828) 10.000.000 Türk Lirası, her iki yetkinin birlikte kullanılmak istenmesi durumunda ise (Değişik ibare:RG-1/3/2025-32828) 20.000.000 Türk Lirası tutarında teminat mektubu ibraz edilmesi,
+zorunludur.
+(2) Posta idaresi için birinci fıkranın (Değişik:RG-3/1/2026-33126)1 (c) ve (e) bentleri dışındaki koşullar aranmaz.
+(3) Bu Tebliğ kapsamında yalnızca ihracat rejimine konu eşyanın konulacağı geçici depolama yerlerinde otomatik barkod okuyucu ve eşya tasnif işlemini otomatik olarak yapmaya uygun yürüyen bant sistemi aranmaz.
+(4) (Ek:RG-3/1/2026-33126)1 Birinci fıkranın (c) bendinde belirtilen gümrük müşaviri sayısına ilişkin düzenleme yapmaya Bakanlık yetkilidir.

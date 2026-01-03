@@ -1,0 +1,6 @@
+Müeyyide
+MADDE 17- (1) 4 üncü maddede yer alan koşullardan birinin veya birden fazlasının operatörce kaybedildiğinin anlaşılması halinde, bu koşul veya koşullar yeniden sağlanıncaya kadar operatörün bu Tebliğ kapsamındaki yetkiden faydalanmasına izin verilmez.
+(2) Kararın onuncu kısmına aykırı hareket ettiği tespit edilen operatörler hakkında Kararın 128 inci maddesi uyarınca işlem yapılır.
+(3) Bu Tebliğde düzenlenen hususlara aykırı hareket ettiği tespit edilen operatörler hakkında fiilin daha ağır bir cezai yaptırımı gerektirmemesi halinde, Kanunun 241 inci maddesinin birinci fıkrası uyarınca işlem yapılır.
+(4) Bu maddenin uygulanmasında posta hizmetlerine ilişkin uluslararası yükümlülükler dikkate alınır.
+(5) (Ek:RG-6/11/2025-33069) Üçüncü fıkra kapsamında uygulanacak müeyyide, basitleştirilmiş gümrük beyanı kapsamı her bir taşıma senedi bazında ayrı değerlendirilir. Ancak, Kararın 126 ncı maddesinin birinci fıkrasının (a) ve (c) bentleri kapsamında yapılan beyanda, basitleştirilmiş gümrük beyannamesi içeriği birden fazla taşıma senedinde düzeltmeye konu veri alanının aynı mahiyette olması durumunda, Kanunun 241 inci maddesinin birinci fıkrası yalnızca basitleştirilmiş gümrük beyannamesi için uygulanır.
