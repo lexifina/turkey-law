@@ -1,0 +1,36 @@
+{
+  "checked_on": "2026-11-13",
+  "date_gazette": "33126",
+  "date_quote": "03.01.2026",
+  "first_law": null,
+  "gazette": "33126",
+  "history": "current-text",
+  "images": {
+    "deferred": 0,
+    "omitted": 0,
+    "referenced": 0,
+    "source": 0
+  },
+  "in_force": "2026-01-03",
+  "in_force_basis": "original Resmi Gazete publication date supplied by the official listing",
+  "issuer": "Ticaret Bakanlığı",
+  "issuer_catalog_evidence": [
+    {
+      "evidence": "issuer-504-0.json",
+      "id": "504",
+      "label": "Ticaret Bakanlığı",
+      "listing_url": "https://www.mevzuat.gov.tr/Anasayfa/MevzuatDatatable?MevzuatTur=Teblig&KurumId=504&start=0&length=100"
+    }
+  ],
+  "issuer_slug": "ticaret-bakanligi",
+  "kind": "communique",
+  "label": "oldest version available",
+  "notes": [],
+  "published": "2026-01-03",
+  "source": "https://www.mevzuat.gov.tr/anasayfa/MevzuatFihristDetayIframe?MevzuatTur=9&MevzuatNo=42913&MevzuatTertip=5",
+  "source_bytes": 11844,
+  "source_id": "9.5.42913",
+  "source_sha256": "62a64ead5fcda04edb6acfd1c363da164aac449c822848ebcf9ff64ee83f979c",
+  "title": "2026 YILI HELAL AKREDİTASYON KURUMU İDARİ PARA CEZALARININ YENİDEN DEĞERLEMESİNE İLİŞKİN TEBLİĞ",
+  "word_count": 137
+}
