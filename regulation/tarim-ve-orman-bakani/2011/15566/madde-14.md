@@ -1,0 +1,4 @@
+Laboratuvarların denetimi
+MADDE 14 – (1) İl müdürlüğü koordinasyonunda enstitü müdürlüğü ile beraber, mevzuat hükümlerine uyulduğunu doğrulamak için veteriner teşhis ve analiz laboratuvarları yılda en az bir kez, gerektiğinde süreye bakılmaksızın denetlenir.
+(2) Denetimlerde tespit edilen hususlar denetim defterine kaydedilir ve bu defter laboratuvar sorumlu yöneticisi tarafından muhafaza edilir. (Değişik ikinci cümle:RG-28/11/2025-33091) Denetimde mevzuata uygunsuzluk tespit edildiğinde ilgili faaliyet durdurulur, giderilmesi için kuruluşa üç ayı geçmemek üzere süre verilir ve verilen süre sonunda uygunsuzluğun giderilmemesi halinde, ilgili faaliyetten men edilir.
+(3) Veteriner teşhis ve analiz laboratuvarları, Bakanlıkça gerek görüldüğü ve görevlendirildiği takdirde Bakanlık yetkilisi tarafından da denetlenir.

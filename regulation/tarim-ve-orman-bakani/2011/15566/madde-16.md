@@ -1,0 +1,2 @@
+Bulaşıcı hastalıklar bildirimi
+MADDE 16 – (1) Veteriner teşhis ve analiz için laboratuvara getirilen materyalde, Kanun ve bu Kanuna göre düzenlenmiş alt mevzuat çerçevesinde belirlenen ihbarı mecburi hastalıklardan biri tespit edildiğinde, durum laboratuvar sorumlu yöneticisi tarafından derhal il müdürlüğü ve ilin veteriner hizmetleri yönünden bağlı olduğu enstitü müdürlüğüne en seri vasıta ile bildirilir. Laboratuvar sorumlu yöneticisi bu yükümlülüğün yerine getirilmesinde Bakanlığa karşı sorumludur.

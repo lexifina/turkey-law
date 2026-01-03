@@ -1,0 +1,5 @@
+Akreditasyon ve İLU standartları
+MADDE 12 – (1) (Değişik:RG-28/11/2025-33091) Veteriner teşhis ve analiz laboratuvarlarının akredite olmak için talep ettikleri analizler için yeterliliklerinin, Türk Akreditasyon Kurumu tarafından, uluslararası standartlar esas alınarak değerlendirilmesi, onaylanması ve denetlenmeleri esastır.
+(2) Veteriner teşhis ve analiz laboratuvarlarından 9/3/2010 tarih ve 27516 sayılı Resmî Gazete’de yayımlanan İyi Laboratuvar Uygulamaları Prensipleri, Test Birimlerinin Uyumlaştırılması, İyi Laboratuvar Uygulamalarının ve Çalışmaların Denetlenmesi Hakkında Yönetmelik kapsamına girenlerin söz konusu Yönetmelik çerçevesinde belgelendirilmeleri esastır.
+(3) (Ek:RG-28/11/2025-33091)(3) Veteriner teşhis ve analiz laboratuvarlarının TS EN ISO/IEC 17025 standardına göre akreditasyon işlemlerini yapmaları esastır. Enstitü müdürlükleri referans oldukları hastalıkların teşhisleri ile ilgili olarak Genel Müdürlükçe belirlenen analiz metotlarında akredite olmakla yükümlüdür.
+(4) (Ek:RG-28/11/2025-33091) Enstitü müdürlükleri kapsam değişikliği işlemlerine başlamadan önce Genel Müdürlükten uygun görüş alır.
