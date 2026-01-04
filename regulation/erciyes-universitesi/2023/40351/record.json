@@ -1,0 +1,89 @@
+{
+  "checked_on": "2026-11-14",
+  "commencement_clauses": [
+    "MADDE 36- (1) Bu Yönetmelik yayımı tarihinde yürürlüğe girer."
+  ],
+  "date_evidence": [
+    [
+      "2023-10-08",
+      "08.10.2023",
+      "original gazette publication date in official listing"
+    ],
+    [
+      "2024-07-23",
+      "RG-23/7/2024-32610",
+      "latest source-printed gazette amendment date for current consolidated text"
+    ],
+    [
+      "2024-07-23",
+      "RG-23/7/2024-32610",
+      "latest source-printed gazette amendment date for current consolidated text"
+    ],
+    [
+      "2024-07-23",
+      "RG-23/7/2024-32610",
+      "latest source-printed gazette amendment date for current consolidated text"
+    ],
+    [
+      "2024-07-23",
+      "RG-23/7/2024-32610",
+      "latest source-printed gazette amendment date for current consolidated text"
+    ],
+    [
+      "2024-07-23",
+      "RG-23/7/2024-32610",
+      "latest source-printed gazette amendment date for current consolidated text"
+    ],
+    [
+      "2026-01-04",
+      "RG-4/1/2026-33127",
+      "latest source-printed gazette amendment date for current consolidated text"
+    ],
+    [
+      "2024-10-14",
+      "RG-14/10/2024-32692",
+      "latest source-printed gazette amendment date for current consolidated text"
+    ],
+    [
+      "2024-07-23",
+      "23/7/2024",
+      "latest gazette date in source amendment table"
+    ],
+    [
+      "2024-10-14",
+      "14/10/2024",
+      "latest gazette date in source amendment table"
+    ],
+    [
+      "2026-01-04",
+      "4/1/2026",
+      "latest gazette date in source amendment table"
+    ]
+  ],
+  "date_quote": "RG-4/1/2026-33127",
+  "first_law": null,
+  "gazette": "32333",
+  "history": "current-text",
+  "images": {
+    "deferred": 0,
+    "omitted": 0,
+    "referenced": 0,
+    "source": 0
+  },
+  "in_force": "2026-01-04",
+  "in_force_basis": "latest source-printed gazette amendment date for current consolidated text",
+  "issuer": "Erciyes Üniversitesi",
+  "issuer_slug": "erciyes-universitesi",
+  "kind": "regulation",
+  "label": "oldest version available",
+  "path": "regulation/erciyes-universitesi/2023/40351",
+  "published": "2023-10-08",
+  "source": "https://www.mevzuat.gov.tr/anasayfa/MevzuatFihristDetayIframe?MevzuatTur=8&MevzuatNo=40351&MevzuatTertip=5",
+  "source_bytes": 129358,
+  "source_id": "8.5.40351",
+  "source_sha256": "84ef0635f7173ee0ef48e59fd4ccbc84dc1f7537b03ddb3a22a6efc60ae0b7e6",
+  "text_status": "current-consolidated",
+  "title": "ERCİYES ÜNİVERSİTESİ ÖN LİSANS VE LİSANS EĞİTİM-ÖĞRETİM YÖNETMELİĞİ",
+  "university_id": 192,
+  "word_count": 4197
+}

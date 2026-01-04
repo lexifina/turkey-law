@@ -1,0 +1,2 @@
+Başarılı ve üstün başarılı öğrenciler
+MADDE 22- (1) Kayıt yaptırdığı tüm dersleri geçmiş olmak şartıyla, genel ve dönem ortalaması 2,00 olan öğrenciler başarılı sayılırlar. Öğrencinin başarı sıralaması genel not ortalamasına göre hesaplanır. Bu öğrencilerden bir dönem sonunda en az normal ders yükü ile o dönemin not ortalaması 3,00-3,49 arasında olanlar dönem onur öğrencisi, 3,50-4,00 arasında olanlar ise üstün onur öğrencisi sayılırlar. Bu öğrencilere onur ve üstün onur belgesi verilir.

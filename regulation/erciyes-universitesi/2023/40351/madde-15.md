@@ -1,0 +1,3 @@
+Değerlendirilmesi ve Geçişlere İlişkin Esaslar
+Derse devam ve yoklamalar
+MADDE 15- (1) Öğrenciler derslere, uygulamalara ve sınavlara katılmak zorundadır. Devam zorunluluğunun sınırı, teorik derslerde en az %70, uygulamalı derslerde ise en az %80’dir. Bu şartları yerine getiremeyen öğrenciler dönem veya yıl sonu sınavlarına giremezler. Öğrencilerin devam durumları, ders sorumlularınca izlenir. Öğrencilerin alacakları sağlık raporları, derse devam sürelerinin hesabında dikkate alınmaz. Bir dersin devamını alıp da başarısız olan öğrencilerin, dersi tekrarlamaları durumunda yeniden devam şartı aranmaz, ancak uygulamalı derslerden başarısız olan öğrencilerden yeniden devam şartı aranabilir.
