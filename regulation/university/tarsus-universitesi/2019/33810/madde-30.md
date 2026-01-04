@@ -1,0 +1,2 @@
+Onur öğrencileri
+MADDE 30 – (1) Üniversite öğrenciliği süresince (Mülga:RG-4/1/2026-33127) disiplin cezası almamış olmak ve program süresi içinde olmak kaydıyla, bir yarıyıl sonunda en az normal ders yükü ile o yarıyılın akademik not ortalaması 3,50-4,00 arasında olan öğrenciler yüksek onur öğrencisi, 3,00-3,49 arasında olan öğrenciler onur öğrencisi sayılırlar. Ancak, herhangi bir yarıyılda not belgesinde başarısız dersi bulunan öğrenciler not ortalamalarını tuttursalar bile o yarıyılda onur ve yüksek onur öğrencisi olamazlar.

@@ -1,0 +1,3 @@
+Telafi dersi
+MADDE 39- (Değişik:RG-12/9/2022-31951)
+(1) Sportif, kültürel ve bilimsel faaliyetler gibi alanlarda görevlendirilen, izin verilen veya sağlık mazeretleri nedeniyle derslerini program dâhilinde veremeyen öğretim elemanları, olağanüstü durumlar hariç ilgili ders saatinden önce mazeretleri/izinleri hakkındaki bilgi ve belgeleri dekanlığa/müdürlüğe yazılı olarak vermek ve öğrenciye duyurmak suretiyle birim yönetim kurulu kararı ile telafi dersi yapabilir. Telafi dersi, ilgili dönemde akademik takvimde belirtilen derslerin sona erme tarihine kadar birim yönetim kurulu kararıyla uygun görülen tarih ve saatte yapılır.

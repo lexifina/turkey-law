@@ -1,0 +1,4 @@
+Öğrenci katkı payı/öğrenim ücreti
+MADDE 38 – (1) 2547 sayılı Kanunun 46 ncı maddesi ve diğer ilgili mevzuat hükümleri uyarınca belirlenen katkı payları/öğrenim ücretleri dönem başlarında akademik takvimde belirtilen tarihlerde ödenir. Mazereti ilgili birim yönetim kurulunca kabul edilenler hariç süresi içinde katkı payını/öğrenim ücretini ödemeyen bir öğrenci o dönem için kayıt yaptıramaz/yeniletemez ve öğrencilik haklarından yararlanamaz. Öğrencinin katkı payını veya öğrenim ücretini ödemediği yarıyıllar/yıllar, öğrenim süresinden sayılır.
+(2) Eğitim-öğretim başladıktan sonra katkı payını/öğrenim ücretini yatırmış olan fakat Üniversiteden ayrılan, çıkarılan, kaydı silinen veya mezun olan öğrenciye o yarıyılda ödemiş olduğu katkı payı/öğrenim ücreti iade edilmez.
+(3) (Mülga:RG-4/1/2026-33127)

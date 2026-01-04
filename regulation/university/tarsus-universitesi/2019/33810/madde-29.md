@@ -1,0 +1,5 @@
+Not ortalaması
+MADDE 29 – (1) Öğrencilerin başarı durumu her yarıyıl/yılsonunda Öğrenci İşleri Daire Başkanlığı tarafından, yarıyıl/yılsonu ve GNO’ları hesaplanarak belirlenir. Öğrencinin bir dersten elde ettiği ağırlıklı puan, o dersin kredi değeri ile aldığı harf notu katsayısının çarpımından elde edilir.
+(2) Bir yarıyılın/yılın not ortalaması, o yarıyıl/yılda öğrencinin aldığı derslerin ağırlıklı puanlarının toplamının, alınan derslerin kredi değeri toplamına bölünmesi ile hesaplanır. Elde edilen ortalama, virgülden sonra iki hane olmak üzere gösterilir. Virgülden sonraki ikinci hane, üçüncü hanenin beşten küçük olması durumunda aynen, beş veya daha büyük olması durumunda bir fazlası alınarak tespit edilir.
+(3) Ağırlıklı genel not ortalaması ise öğrencinin, öğrenimi süresince bütün derslerden aldığı son notlar esas alınarak hesaplanacak olan ağırlıklı puanlarının toplamının, alınan derslerin kredi toplamına bölünmesi ile bulunur. Sonuç, virgülden sonra iki hane yürütülür.
+(4) Yarıyıl/yıl not ortalaması ve ağırlıklı genel not ortalamasının hesaplanmasında, (AA) dan (FF) ye kadar verilen notlar esas alınır. Bu sırada (D) notu da (FF) notu işlemi görür.

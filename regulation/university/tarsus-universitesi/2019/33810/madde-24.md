@@ -1,0 +1,2 @@
+Bütünleme sınavı
+MADDE 24 – (1) Öğrenciler yarıyıl/yılsonu sınavında başarısız oldukları, (DC) harf notu ile şartlı başarılı oldukları veya yarıyıl/yılsonu sınavına girmedikleri bütün derslerden bütünleme sınavına girebilirler. Yarıyıl/yılsonu sınavları ile bütünleme sınavları arasında en az beş gün ara verilmek zorundadır. Bütünleme sınavında alınan not yarıyıl/yılsonu sınav notu yerine geçer. Yarıyıl sonu ortalaması ve GNO’nun hesaplanmasında yıllık okutulan derslerin notu dersin alındığı yılın sonundaki yarıyıla katılır.

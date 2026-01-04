@@ -1,0 +1,11 @@
+ALTINCI BÖLÜM
+Çeşitli ve Son Hükümler
+Yükseköğretim kurumları arasında öğrenci değişimi
+MADDE 36 – (1) Öğrenciler, Üniversite ile yurt dışındaki veya yurt içindeki diğer yükseköğretim kurumları arasında yapılmış Erasmus, Farabi, Mevlana ve benzeri anlaşmalara uygun olarak, ilgili diğer yükseköğretim kurumlarında bir veya iki yarıyıl öğrenim görebilirler.
+(2) Değişim programlarına başvuru ve kabul şartları, 18/2/2009 tarihli ve 27145 sayılı Resmî Gazete’de yayımlanan Yükseköğretim Kurumları Arasında Öğrenci ve Öğretim Üyesi Değişim Programına İlişkin Yönetmelik ile 23/8/2011 tarihli ve 28034 sayılı Resmî Gazete’de yayımlanan Mevlana Değişim Programına İlişkin Yönetmelik ve ilgili mevzuat hükümlerine göre belirlenir.
+(3) Öğrencilerin söz konusu yükseköğretim kurumlarında devam edecekleri ders, uygulama, staj ve benzeri faaliyetlerin, öğrencinin kendi öğretim programındaki ders, uygulama, staj ve benzeri faaliyetlere eşdeğerliği, danışmanın ve ilgili bölüm başkanlığının/program danışmanının önerisiyle birim yönetim kurulu kararıyla önceden belirlenir.
+(4) Öğrenciler, diğer yükseköğretim kurumunda geçirdiği yarıyıllarda akademik takvime uygun olarak, kendi kurumuna ait öğrenci katkı payı/öğrenim ücretini ödemek ve kayıt yenilemek zorundadır.
+(5) (Değişik:RG-12/9/2022-31951) İlgili akademik birim yönetim kurulu kararı ile öğrencinin başarılı ve/veya başarısız olduğu derslere ait notların dönüşümü, Senato tarafından belirlenen başarı notu derecelerinin puan ve harf karşılıkları ile not aralıkları esas alınarak gerçekleştirilir. Bu notlar kendi öğretim programındaki eşdeğer derslere ait olarak not belgesinde gösterilir. Not belgesinde yer alacak bilgiler, YÖK tarafından belirlenen usul ve esaslara göre düzenlenir.
+(6) Öğrenci, anlaşmalı diğer yükseköğretim kurumunda alıp başarısız olduğu derslere karşılık olan, kendi öğretim programındaki eşdeğer derslerden de başarısız olmuş sayılır.
+(7) Öğrencinin anlaşmalı diğer yükseköğretim kurumunda geçirdiği yarıyıllar öğrenim süresinden sayılır.
+(8) Aynı mübadele kapsamında, mübadil üniversiteden gelen öğrencilere de Üniversitede okudukları süre içerisinde bu Yönetmelik hükümleri uygulanır ve aldıkları dersler için kendilerine not belgesi verilir.

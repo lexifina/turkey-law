@@ -1,0 +1,10 @@
+DÖRDÜNCÜ BÖLÜM
+Sınavlar, Sınav Uygulama ve Değerlendirme Esasları
+Sınavlar ve sınav uygulama esasları
+MADDE 21 – (1) Öğrenciler her yarıyılda en az bir ara sınav ile yarıyıl sonu sınavına girerler. Ancak ilgili birimlerin kurul kararıyla proje, seminer, arazi çalışmaları, kısa sınav, ödev, staj, laboratuvar ve benzeri yarıyıl içi çalışmalar da yapılabilir. Yarıyıl içi çalışmalar ve yarıyıl sonu sınavı notları 100 puan üzerinden verilir.
+(2) Akademik not ortalamasına katılmayan dersler eğitim-öğretim planında belirtilir. Ara sınav ve/veya yarıyıl sonu sınavı gerektirmeyen eğitim-öğretim çalışmaları ilgili birim kurulunca tespit edilerek eğitim-öğretim planında belirtilir ve bu konuda Öğrenci İşleri Daire Başkanlığına bilgi verilir. Bu durumda öğrencinin harf notu yarıyıl içi çalışmaları değerlendirilerek takdir edilir.
+(3) Alt ve üst yarıyıldan alınan dersler hariç olmak üzere bir yarıyıl/yıl programında yer alan derslerden bir günde en fazla iki dersin ara/yılsonu ve bütünleme sınavı yapılır.
+(4) Bitirme çalışması/projesi/ödevinin değerlendirmesi ilgili bölüm tarafından belirlenen esaslar çerçevesinde yapılır ve bu dersler için bütünleme sınavı yapılmaz.
+(5) Sınav sonuçları, akademik takvimde belirtilen tarihe kadar ilan edilir. Öğretim elemanı, sorumlu olduğu derslere ait sınav evraklarını notların ilan edildiği tarihten itibaren on beş iş günü içerisinde ilgili bölüm başkanlığına teslim eder. Sınavlara ilişkin belge ve tutanaklar en az iki yıl saklanır.
+(6) (Ek:RG-12/9/2022-31951) (Değişik:RG-4/1/2026-33127) 2547 sayılı Kanunun 44 üncü maddesi uyarınca azami süreler sonunda kayıtlı olduğu programdan mezun olabilmek için (kayıtlı olduğu programın son iki yarıyılından herhangi bir ders alan ya da alabilecek durumda olan) son sınıf öğrencilerine, başarısız oldukları bütün dersler için Senatonun belirlediği tarihlerde ek sınav hakkı verilir.
+(7) (Ek:RG-12/9/2022-31951) Engelli öğrencilerin eğitim-öğretimine ilişkin esaslar, Üniversite tarafından çıkarılan yönerge ve ilgili mevzuat hükümleri kapsamında belirlenir.

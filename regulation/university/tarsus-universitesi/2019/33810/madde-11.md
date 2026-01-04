@@ -1,0 +1,7 @@
+Eğitim-öğretim planları
+MADDE 11 – (1) Eğitim-öğretim planı YÖK’ün ilgili program için tespit ettiği eğitim-öğretim çalışmalarını içeren ve Senato tarafından kabul edilen, ortak ilkeler dikkate alınarak, ilgili kurulca kararlaştırılan ve tümüyle başarıldığında diploma almaya hak kazandıran eğitim-öğretim çalışmalarının bütünüdür.
+(2) Eğitim-öğretim programı, ilgili akademik birimlerde, özelliklerine göre teorik dersler ve/veya uygulamalardan, seminer, atölye, laboratuvar, klinik çalışması, bitirme çalışması, arazi uygulaması, inceleme, araştırma gezisi, bireysel çalışma, ödev, staj ve benzeri çalışmalardan oluşur. Bu çalışmaların dönemlere dağılımı, bölümlerin görüşleri alınmak suretiyle ilgili birimlerin kurulları tarafından önerilen ve Senato tarafından onaylanan eğitim-öğretim planına göre yapılır.
+(3) (Değişik:RG-12/9/2022-31951) Birimlerin, işletmede mesleki eğitim, staj, uygulama ve benzeri çalışmalarla ilgili esasları, Üniversite tarafından çıkarılan yönerge ve ilgili mevzuat hükümleri kapsamında belirlenir.
+(4) Bitirme ödevi/çalışması yaptırılan birimlerde başvuru, danışman ataması ve değerlendirme gibi bitirme ödevinin/çalışmasının uygulamasına ilişkin esaslar birim kurulu tarafından belirlenir.
+(5) Birim yönetim kurulu kararı ve Üniversite Yönetim Kurulunun onayıyla uygulamalı dersler Üniversite dışında da yapılabilir. Bu derslerin planlanmasına ilişkin esaslar, ilgili birim kurulunda kararlaştırılır ve Senato tarafından onaylanır.
+(6) Üniversitede öğretim, ders geçme esasına dayalıdır ve kredili sisteme göre yürütülür.

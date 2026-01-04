@@ -1,0 +1,4 @@
+Notlarda maddi hata
+MADDE 31 – (1) Öğrenciler sınav sonuçlarına, notların ilânından itibaren en geç beş iş günü içinde ilgili dekanlığa/müdürlüğe yazılı olarak başvurarak maddi hata itirazında bulunabilir. İlgili öğretim elemanı, itirazı en geç bir hafta içerisinde değerlendirir ve sonucunu ilgili birime yazılı olarak bildirir. Konu, birim yönetim kurulunda görüşülür ve sonuç birim tarafından hem öğrenciye, hem de Öğrenci İşleri Daire Başkanlığına bildirilir.
+(2) Öğrenci tarafından bir itiraz olmaksızın öğretim elemanı tarafından fark edilen maddi hatanın düzeltme işlemi öğretim elemanının başvurusu üzerine ilgili akademik birim yönetim kurulu tarafından karara bağlanarak ilgili öğrenci ile Öğrenci İşleri Daire Başkanlığına bildirilir.
+(3) Maddi hata itirazının tetkik ve değerlendirilmesi, itirazın yapıldığı tarihten itibaren en geç on iş günü içinde sonuçlandırılır.

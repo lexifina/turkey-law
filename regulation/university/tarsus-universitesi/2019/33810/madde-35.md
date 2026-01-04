@@ -1,0 +1,5 @@
+Mezuniyet ve diploma
+MADDE 35 – (1) Öğrencilerin kayıtlı oldukları diploma programının öngördüğü dersleri, uygulamaları, stajları ve benzeri çalışmaları bu Yönetmelik hükümlerine göre başarıyla tamamlamış olmaları şarttır. İki yıllık ön lisans düzeyinde 120 AKTS, dört yıllık lisans programları için 240 AKTS, beş yıllık lisans programları için 300 AKTS, altı yıllık lisans programları için 360 AKTS krediyi başarıyla tamamlayarak en az 2,00 GNO’ya sahip olan bir öğrenci mezun olma hakkını kazanmış sayılır.
+(2) Birinci fıkradaki mezuniyet şartlarını sağlayan öğrencilere o programın lisans veya ön lisans diploması verilir. Diploma hazırlanıncaya kadar, gerektiğinde öğrencilere geçici bir mezuniyet belgesi verilebilir.
+(3) Diplomaların şekli ve üzerinde yer alacak bilgiler Senato tarafından düzenlenir.
+(4) Lisans öğrenimlerini tamamlayamayanların ön lisans diploması almaları veya meslek yüksekokullarına intibakları, 18/3/1989 tarihli ve 20112 sayılı Resmî Gazete’de yayımlanan Lisans Öğrenimlerini Tamamlamayan veya Tamamlayamayanların Ön Lisans Diploması Almaları veya Meslek Yüksekokullarına İntibakları Hakkında Yönetmelik hükümlerine göre yapılır.
