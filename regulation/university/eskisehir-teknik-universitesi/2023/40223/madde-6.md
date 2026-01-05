@@ -1,0 +1,5 @@
+Kontenjanların belirlenmesi ve duyurulması
+MADDE 6- (1) Her akademik yarıyılda öğrenci kabul edilecek lisansüstü programlara, başvuru için gerekli belgelere, başvuru takvimine ve diğer konulara Enstitü Yönetim Kurulunun önerisiyle Senato tarafından karar verilir. Bu karar, Rektörlük tarafından ilan edilir.
+(2) İlgili anabilim/anasanat dalının özelliğine bağlı olarak başvuru alanlarının sınırlandırılmasına ve kontenjanların alanlara göre dağılımına, Enstitü Yönetim Kurulunun önerisiyle Senato tarafından karar verilir.
+(3) Lisansüstü programlara başvuran adayların başarı sıralaması, en yüksek puandan en düşük puana doğru yapılır ve programa kayıt hakkı kazanan adaylar, Enstitü tarafından ilan edilir.
+(4) Diğer yükseköğretim kurumlarının araştırma görevlileri, Enstitünün başvuru ve kabul koşullarını sağlamaları kaydıyla ilgili mevzuat hükümlerine göre lisansüstü programlara kabul edilir. Ayrıca Üniversite araştırma görevlileri, anabilim/anasanat dalı başkanlığının onayı ve Enstitünün başvuru ve kabul koşullarını sağlamaları kaydıyla ilan edilen kontenjandan bağımsız olarak lisansüstü programlara kabul edilir.

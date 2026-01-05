@@ -1,0 +1,4 @@
+Süre
+MADDE 33- (1) Programı tamamlama süresi; bilimsel hazırlıkta geçen süre hariç, kayıtlı olduğu programa ilişkin derslerin verildiği dönemden başlamak üzere, her dönem için öğrencinin kayıt yaptırıp yaptırmadığına bakılmaksızın en az iki yarıyıl, en çok üç yarıyıldır. Bu sürenin sonunda başarısız olan veya programı tamamlayamayan öğrencinin programdan ilişiği kesilir.
+(2) Programda bir öğrencinin başarılı sayılabilmesi için; aldığı derslerden YT ve CC veya bunun üzerinde bir not almış olması, en az 2,50 GNO’yu sağlamış olması ve dönem projesi dersinden YT notu alarak şekil yönünden “Dönem Projesi Yazım Kılavuzu”na uygun yazılmış ve danışmanı tarafından onaylanmış ciltli iki kopya dönem projesini akademik takvimde belirtilen dönem sonu sınavlarının tamamlandığı tarihe kadar Enstitü Müdürlüğüne teslim etmiş olması gerekir.
+(3) (Ek:RG-5/1/2026-33128) Öğrenci, programın mezuniyet koşullarını yerine getirdiği takdirde programın süresinden önce de mezun olabilir.

@@ -1,0 +1,6 @@
+Doktora diploması
+MADDE 44- (1) Tezi kabul edilen öğrenci; tezini tez danışmanına teslim eder. Tez danışmanı; tezin Kılavuz koşullarına uygunluğunu yazılı olarak belirttiği görüşüyle birlikte jüri tarafından onaylanan en son nüshasını Enstitüye teslim eder.
+(2) Tez sınavında başarılı olan, diğer koşulları da sağlayan ve doktora tezinin ciltlenmiş en az bir kopyasını, tez sınavına giriş tarihinden itibaren en geç bir ay içinde Enstitüye teslim eden ve tezi şekil yönünden Kılavuza uygun bulunan öğrenciye; tezinin en son nüshasının Enstitü tarafından oluşturulan intihal yazılım programı raporunun uygun olması koşuluyla doktora diploması verilir. Enstitü Yönetim Kurulu tez teslim süresini en fazla bir ay daha uzatabilir. Bu koşulları yerine getirmeyen öğrenci, koşulları yerine getirinceye kadar diplomasını alamaz, öğrencilik haklarından yararlanamaz ve azami öğrenim süresinin dolması durumunda programdan ilişiği kesilir.
+(3) Diploma üzerinde, öğrencinin kayıtlı olduğu Enstitü anabilim dalındaki programın YÖK tarafından onaylanmış adı bulunur.
+(4) Tezin jüri tarafından imzalanmış nüshasının teslim edildiği tarih, mezuniyet tarihidir.
+(5) Tezin bir kopyası, tesliminden itibaren üç ay içinde elektronik ortamda, Enstitü tarafından YÖK Başkanlığına gönderilir.

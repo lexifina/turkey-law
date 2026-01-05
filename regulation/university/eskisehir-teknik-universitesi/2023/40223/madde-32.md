@@ -1,0 +1,2 @@
+Danışman atanması
+MADDE 32- (1) Anabilim/anasanat dalı başkanlığı, her öğrenci için ders seçiminde ve dönem projesi dersinin yürütülmesinde danışmanlık yapacak bir öğretim üyesini veya doktora derecesine sahip bir öğretim görevlisini, anabilim/anasanat dalında tez danışmanlıklarının dengeli dağılımına dikkat ederek en geç birinci yarıyılın sonuna kadar Enstitüye önerir. Bu öneri, Enstitü Yönetim Kurulunun onayıyla kesinleşir.

@@ -1,0 +1,2 @@
+Başvuru ve kabul
+MADDE 30- (1) Programa başvurabilmek için adayın; 4 üncü maddenin birinci fıkrasında belirtilen koşulları sağlaması gerekir. Tezsiz yüksek lisans programlarına başvurularda ALES koşulu aranmaz. Başvuran adayın başarı notu; lisans mezuniyet GNO’sunun %85’i ile mülakat notunun %15’i esas alınarak hesaplanır. Mülakat yapılmaması durumunda adayın GNO’su, başarı notu olarak değerlendirilir.

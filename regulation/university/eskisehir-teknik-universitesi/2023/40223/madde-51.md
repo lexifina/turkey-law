@@ -1,0 +1,5 @@
+Sanatta yeterlik tez/eser izleme komitesi
+MADDE 51- (1) Yeterlik sınavında başarılı olan öğrenci için Enstitü anasanat dalı başkanlığının önerisi ve Enstitü Yönetim Kurulunun onayıyla bir ay içinde sanatta yeterlik tez/eser izleme komitesi oluşturulur.
+(2) Sanatta yeterlik komitesi üç öğretim üyesinden oluşur. Sanatta yeterlik tez/eser izleme komitesinde; tez/eser danışmanı ile Enstitü anasanat dalı içinden ve dışından birer üye yer alır. Anasanat dalı dışından yer alacak üye, tez konusuna en yakın olmak üzere farklı bir anasanat dalından seçilir. İkinci tez/eser danışmanının olması durumunda, ikinci tez/eser danışmanı tez/eser izleme komitesi üyesi olamaz bununla birlikte oy hakkı olmaksızın komite toplantılarına katılabilir.
+(3) Sanatta yeterlik izleme komitesinin oluşturulmasından sonraki dönemlerde, Enstitü anasanat dalı başkanlığının önerisi ve Enstitü Yönetim Kurulunun onayıyla üyelerde değişiklik yapılabilir.
+(4) Çıkar çatışması/örtüşmesi olan kişiler tez/eser izleme komitesinde yer alamaz.
