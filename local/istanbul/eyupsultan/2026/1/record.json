@@ -1,0 +1,22 @@
+{
+  "number": "1",
+  "number_as_published": "2026/01",
+  "year": 2026,
+  "title": "2026 yılı Çalışma Takvimi",
+  "decision_date": "2026-01-05",
+  "source": "https://eyupsultan.bel.tr/tr/main/pages/2026-ocak-ayi-meclis-kararlari/2784",
+  "official_document": "https://eyupsultan.bel.tr/tr/main/pages/2026-01/2785",
+  "source_sha256": "01228e2f1a914087d4c59305504d55af75872253ff26743f2eb4d70f6de4b8bc",
+  "issuer": "Eyüpsultan Belediye Meclisi",
+  "history_type": "metadata",
+  "text_status": "metadata-only: listing fields as published; complete decision text is in the linked official document, not transcribed",
+  "in_force": "2026-01-05",
+  "in_force_basis": "Decision date as printed in the official council listing: 05.01.2026 (meeting date at the start of the decision page); adoption date of the council decision; legal commencement not asserted",
+  "missing": [
+    "complete official decision text",
+    "official annexes"
+  ],
+  "law_text_complete": false,
+  "privacy_withheld": false,
+  "decision_page_sha256": "b2b4c04993fd51d5c5ae15d32735f5fea872665071bdd4b73cb3811147f3083c"
+}
