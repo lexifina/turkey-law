@@ -1,0 +1,28 @@
+{
+  "number": "12",
+  "number_as_published": "Meclis Kararları 05.01.2026-12",
+  "year": 2026,
+  "title": "Meclis Kararları 05.01.2026-12",
+  "decision_date": "2026-01-05",
+  "source": "https://www.tuzla.bel.tr/api/public/kurumsal/meclis-encumen/meclis-kararlari?page=1&limit=100",
+  "official_document": "https://www.tuzla.bel.tr/uploads/documents/meclis-kararlari/2026012_Park_Isimlendirme_1777301521449_4bha0noyyzi.pdf",
+  "source_sha256": "92fdb2665d79ab4a96b25ee2a5f6283dd5988725356717a6c9826c7247c843e3",
+  "issuer": "Tuzla Belediye Meclisi",
+  "history_type": "metadata",
+  "text_status": "metadata-only: listing fields as published; complete decision text is in the linked official document, not transcribed",
+  "in_force": "2026-01-05",
+  "in_force_basis": "Decision date as printed in the official council listing: Meclis Kararları 05.01.2026-12 (official title); adoption date of the council decision; legal commencement not asserted",
+  "missing": [
+    "complete official decision text",
+    "official annexes"
+  ],
+  "law_text_complete": false,
+  "privacy_withheld": false,
+  "listing_page": "https://www.tuzla.bel.tr/kurumsal/meclis-encumen/meclis-kararlari",
+  "official_documents": [
+    "https://www.tuzla.bel.tr/uploads/documents/meclis-kararlari/2026012_Park_Isimlendirme_1777301521449_4bha0noyyzi.pdf"
+  ],
+  "document_filename": "2026012_Park_Isimlendirme.pdf",
+  "record_scope": "one council decision",
+  "official_page": "https://www.tuzla.bel.tr/kurumsal/meclis-encumen/meclis-kararlari/meclis-kararlari-05012026-12-2026-01-05"
+}
