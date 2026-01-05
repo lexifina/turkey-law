@@ -1,0 +1,22 @@
+{
+  "kind": "norm",
+  "issuer": "Gelir İdaresi Başkanlığı",
+  "document_type": "ozelge",
+  "number": "E-66813766-155[Ek-2-2025/32]-6119",
+  "source_id": 38904,
+  "date": "2026-01-05",
+  "title": "Yurt Dışına Zırhlı Araç Satışında Damga Vergisi hk.",
+  "source": "https://gib.gov.tr/mevzuat/kanun/438/ozelge/38904",
+  "related_law": "488 sayılı DAMGA VERGİSİ KANUNU",
+  "source_api": "https://gib.gov.tr/api/gibportal/mevzuat/ozelge/list",
+  "source_listing": "evidence/list/2026-11-16/ozelge-p009.json",
+  "source_listing_sha256": "9cb52b4963a9a177a23948f6e28c12936c2f43c88a0b410872bb81c01983667c",
+  "source_sha256": "cd82c855813ff0d7b8573b8d6f1a1dad05f25cf79564eb4251fa5d9c4f86f593",
+  "text_status": "as-enacted",
+  "text_file": "metin.md",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  }
+}
