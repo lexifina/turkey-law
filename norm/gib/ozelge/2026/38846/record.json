@@ -1,0 +1,22 @@
+{
+  "kind": "norm",
+  "issuer": "Gelir İdaresi Başkanlığı",
+  "document_type": "ozelge",
+  "number": "E-88033016-010.99[2025]-640",
+  "source_id": 38846,
+  "date": "2026-01-05",
+  "title": "İthal edildikten sonra iade edilen demir-çelik ürünlerinin niteliği değiştirilmeden yapılan teslimlerinde KDV tevkifatı uygulaması hk.",
+  "source": "https://gib.gov.tr/mevzuat/kanun/436/ozelge/38846",
+  "related_law": "3065 sayılı KATMA DEĞER VERGİSİ KANUNU",
+  "source_api": "https://gib.gov.tr/api/gibportal/mevzuat/ozelge/list",
+  "source_listing": "evidence/list/2026-11-16/ozelge-p009.json",
+  "source_listing_sha256": "9cb52b4963a9a177a23948f6e28c12936c2f43c88a0b410872bb81c01983667c",
+  "source_sha256": "75dbab2a08f49399cd9bdc6e4d67259624f9d3bcd8829efe6f87e28676633e3f",
+  "text_status": "as-enacted",
+  "text_file": "metin.md",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  }
+}
