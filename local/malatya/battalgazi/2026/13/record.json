@@ -1,0 +1,24 @@
+{
+  "number": "13",
+  "number_as_published": "13",
+  "year": 2026,
+  "title": "council decision",
+  "decision_date": "2026-01-06",
+  "source": "https://www.battalgazi.bel.tr/wp-json/wp/v2/posts?categories=88&per_page=100&page=2&_fields=id,date,link,title,content",
+  "official_document": "https://www.battalgazi.bel.tr/2026/01/06/agregauretimi-icin-muhtelif-malzeme-alim-isi-icin-iller-bankasi-a-sden-50-000-00000-ellimilyon-tl-kredi-kullanilmasi-ve-kredi-islemleri-icin-belediye-bask/",
+  "source_sha256": "6e1937e9b359bc5e3db8f7019fdb73d3414a104054f36db6963620e3ff512953",
+  "issuer": "Battalgazi Belediye Meclisi",
+  "history_type": "metadata",
+  "text_status": "metadata-only: subject appears to concern individual persons; official link only",
+  "in_force": "2026-01-06",
+  "in_force_basis": "Decision date as printed in the official council listing: 06.01.2026 (Karar Tarihi on the official decision page); adoption date of the council decision; legal commencement not asserted",
+  "missing": [
+    "complete official decision text",
+    "official annexes"
+  ],
+  "law_text_complete": false,
+  "privacy_withheld": true,
+  "official_page": "https://www.battalgazi.bel.tr/2026/01/06/agregauretimi-icin-muhtelif-malzeme-alim-isi-icin-iller-bankasi-a-sden-50-000-00000-ellimilyon-tl-kredi-kullanilmasi-ve-kredi-islemleri-icin-belediye-bask/",
+  "post_date": "2026-01-06T09:32:42",
+  "record_scope": "one council decision (official decision page)"
+}
