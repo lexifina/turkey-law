@@ -1,0 +1,25 @@
+{
+  "number": "3",
+  "number_as_published": "03",
+  "year": 2026,
+  "title": "council decision",
+  "decision_date": "2026-01-06",
+  "source": "https://www.mollakoy.bel.tr/meclis-kararlari/sayfa/2/",
+  "official_document": "https://www.mollakoy.bel.tr/karar/imam-sengul-ile-hasan-simsek-e-ait-dilekcenin-gorusulmesi/102/",
+  "source_sha256": "1fb33e2fd1a67d84742aa4cadcba99befe66b6dd7c53a42db1d6db2c7549d4e0",
+  "issuer": "Mollaköy Belediye Meclisi",
+  "history_type": "metadata",
+  "text_status": "metadata-only: subject appears to concern individual persons; official link only",
+  "in_force": "2026-01-06",
+  "in_force_basis": "Decision date as printed in the official council listing: meclisi 06.01.2026; adoption date of the council decision; legal commencement not asserted",
+  "missing": [
+    "complete official decision text",
+    "official annexes"
+  ],
+  "law_text_complete": false,
+  "privacy_withheld": true,
+  "official_page": "https://www.mollakoy.bel.tr/karar/imam-sengul-ile-hasan-simsek-e-ait-dilekcenin-gorusulmesi/102/",
+  "record_scope": "one council decision (number, date, subject as published)",
+  "date_read_from": "meeting date in the decision text (the item's Karar Tarihi field carries a clock time)",
+  "document_note": "the decision text is on the official item page; not transcribed here"
+}
