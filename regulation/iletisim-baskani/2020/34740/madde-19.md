@@ -1,0 +1,8 @@
+Görev grupları arasında geçişler
+MADDE 19- (1) 5 inci maddede belirtilen hizmet grupları ve unvan değişikliğine tabi kadrolar arasındaki geçişler, aşağıdaki esaslar çerçevesinde yapılır:
+a) Aynı alt grup içinde kalmak, ilgili personelin isteği ve atanacak kadro için aranan öğrenim, belirli belge veya sertifikalara sahip olmak ve toplam hizmet süresi gibi nitelik ve şartlara sahip olmak kaydıyla, diğer görevlere sınavsız atama yapılabilir.
+b) Gruplar arası görevde yükselme niteliğindeki geçişler ve alt gruptan üst gruplara geçişler, görevde yükselme sınavına tabidir. Ancak Başkanlıkta veya diğer kamu kurum ve kuruluşlarında ihraz edilen unvanlar ile bu unvanlarla aynı düzeydeki görevlere veya alt görevlere, öğrenim, belirli belge veya sertifikalara sahip olmak ve toplam hizmet süresi gibi mevzuatta aranan diğer şartları taşımak kaydıyla, ilgili personelin isteği üzerine görevde yükselme sınavına tabi tutulmadan atama yapılabilir.
+c) Unvan değişikliğine tabi kadrolara yapılacak atamalar ile bu kadrolar arasındaki geçişler, ilgili unvan için düzenlenecek unvan değişikliği sınavı sonucuna göre yapılır.
+ç) Doktora öğrenimi yapmış olanlar, öğrenim, belirli belge veya sertifikalara sahip olma ve toplam hizmet süresi gibi mevzuatta aranan diğer şartları taşımak kaydıyla, uzman veya aynı düzeydeki görevlere ya da daha alt görevlere sınavsız atanabilirler.
+d) Avukat kadrosundan hukuk müşaviri unvanlı kadroya yapılacak olan atamalarda sınav şartı aranmaz.
+e) Bu Yönetmelik kapsamındaki personelden doktora öğrenimini bitirmiş olanlar, unvan değişikliği sınavına katılmaksızın öğrenimle ihraz ettikleri görevlere atanabilirler.
