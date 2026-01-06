@@ -1,0 +1,1 @@
+[1] 6/1/2026 tarihli ve 33129 sayılı Resmî Gazete’de yayımlanan değişiklikle bu Yönetmeliğin adı “Kapadokya Üniversitesi Kapadokya Çalışmaları Uygulama ve Araştırma Merkezi Yönetmeliği” iken metne işlendiği şekilde değiştirilmiştir.
