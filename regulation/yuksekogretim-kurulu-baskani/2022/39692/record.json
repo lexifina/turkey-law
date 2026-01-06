@@ -1,0 +1,43 @@
+{
+  "source_id": "7.5.39692",
+  "kind": "regulation",
+  "register_kind": "Kurum ve Kuruluş Yönetmelikleri",
+  "title": "YÜKSEKÖĞRETİM KURUMLARINA AİT BİRİMLERDE GÖREVLİ SAĞLIK ÇALIŞANLARINA KARŞI İŞLENEN SUÇLAR NEDENİYLE YAPILACAK HUKUKİ YARDIMIN USUL VE ESASLARI HAKKINDA YÖNETMELİK",
+  "number": "39692",
+  "issuer": "Yükseköğretim Kurulu Başkanı",
+  "issuer_slug": "yuksekogretim-kurulu-baskani",
+  "path": "regulation/yuksekogretim-kurulu-baskani/2022/39692",
+  "source": "https://www.mevzuat.gov.tr/anasayfa/MevzuatFihristDetayIframe?MevzuatTur=7&MevzuatNo=39692&MevzuatTertip=5",
+  "source_sha256": "fafeee634ea52066cde0500f50ca0d54a63dd8649fdb070a7cc816690f9e7222",
+  "source_bytes": 27901,
+  "published": "2022-08-31",
+  "gazette": "31939",
+  "in_force": "2026-01-06",
+  "in_force_basis": "latest Resmî Gazete date printed in the source amendment notes/table (\"RG-6/1/2026\") for the current consolidated text",
+  "date_evidence": [
+    [
+      "2026-01-06",
+      "RG-6/1/2026",
+      "Resmî Gazete date printed in the source amendment note"
+    ],
+    [
+      "2026-01-06",
+      "6/1/2026",
+      "Resmî Gazete date in the source amendment table"
+    ]
+  ],
+  "commencement_clauses": [
+    "Bu Yönetmelik yayımı tarihinde yürürlüğe girer"
+  ],
+  "history": "current-text",
+  "label": "oldest version available",
+  "checked_on": "2026-11-15",
+  "word_count": 728,
+  "text_status": "current-consolidated",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  },
+  "completeness": "html-text-complete"
+}
