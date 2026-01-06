@@ -1,0 +1,18 @@
+{
+  "kind": "norm",
+  "issuer": "Bilgi Teknolojileri ve İletişim Kurumu",
+  "document_type": "kurul-karari",
+  "number": "2026/İK-YED/04",
+  "source_id": "2026/İK-YED/04",
+  "date": "2026-01-06",
+  "title": "EHSİYY'nin 18. Maddesi Çerçevesinde Kullanım Hakkı Ücretlerinin Ödenmesi",
+  "source": "https://www.btk.gov.tr/s3/web-btk-site/7708c26c-5161-4919-8b3d-daa31d4ac8fb/2026/03/fa821a39-6535-45d2-bc47-be196e58ebe3.pdf",
+  "source_sha256": "68e6091a108e5924d4fee7170185e50ef4c1e25183813d6c47c623a7f58a979b",
+  "text_status": "as-enacted",
+  "text_file": "metin.md",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  }
+}
