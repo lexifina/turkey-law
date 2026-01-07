@@ -1,0 +1,20 @@
+{
+  "record_type": "gazette-item",
+  "gazette": "Resmî Gazete",
+  "jurisdiction": "TR",
+  "date": "2026-01-07",
+  "issue": "33130",
+  "edition": "regular",
+  "item": 5,
+  "section": "YÜRÜTME VE İDARE BÖLÜMÜ",
+  "heading": "YÖNETMELİKLER",
+  "title": "Millî Savunma Üniversitesi Yabancı Diller Yüksekokulu Yönetmeliği",
+  "official_link": "https://www.resmigazete.gov.tr/eskiler/2026/01/20260107-5.htm",
+  "link_format": "htm",
+  "index_url": "https://www.resmigazete.gov.tr/eskiler/2026/01/20260107.htm",
+  "index_sha256": "239acccb2ca1b24315a37c2c269d660f841d9de637a9ba57c676458b7e4adddb",
+  "index_header": "7 Ocak 2026 ... 33130 Sayılı Resmî Gazete",
+  "issue_pdf": "https://www.resmigazete.gov.tr/eskiler/2026/01/20260107.pdf",
+  "in_force_basis": "Resmî Gazete publication date; not a commencement reading.",
+  "text_status": "metadata-only; text not yet fetched (follow-up pass adds it as its own commit)"
+}
