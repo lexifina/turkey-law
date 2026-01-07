@@ -1,0 +1,16 @@
+{
+  "kind": "decision",
+  "issuer": "Sayıştay Temyiz Kurulu",
+  "number": "58720",
+  "decision_date": "2026-01-07",
+  "source_id": 32385,
+  "chamber": "1",
+  "file_number": "53190",
+  "public_body_type": "Diğer Özel Bütçeli İdareler",
+  "account_year": "2019",
+  "subject": "İhale Mevzuatı ile İlgili Kararlar",
+  "source": "https://www.sayistay.gov.tr/KararlarTemyiz/Detay/32385/",
+  "source_sha256": "e5fbf1b15b5727c8849718ae46bf06480216b3d70cdf2750f4c7685977fa9150",
+  "text_status": "metadata-only",
+  "metadata_only_reason": "possible personal name in the official text"
+}
