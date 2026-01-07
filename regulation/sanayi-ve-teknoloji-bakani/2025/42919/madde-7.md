@@ -1,0 +1,2 @@
+Avrupa Birliği mevzuatına uyum
+MADDE 7- (1) Bu Yönetmelik; (AB) 2019/2144 sayılı Tüzüğü tamamlayan, Olay Veri Kaydedicileri ile İlgili Olarak Ağır Hizmet Araçlarının Tip Onayına ve Bu Sistemlerin Ayrı Teknik Üniteler Olarak Tip Onayına ilişkin Özel Test Prosedürleri ve Teknik Gerekliliklere Yönelik Ayrıntılı Kurallar Belirleyen ve (AB) 2019/2144 sayılı Tüzüğün EK II'sini tadil eden 26/7/2024 tarihli ve (AB) 2024/2220 sayılı Yetki Devrine Dayanan Komisyon Tüzüğü dikkate alınarak Avrupa Birliği mevzuatına uyum çerçevesinde hazırlanmıştır.
