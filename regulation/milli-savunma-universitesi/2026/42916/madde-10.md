@@ -1,0 +1,4 @@
+Bilimsel denetim
+MADDE 10- (1) Yabancı Diller Yüksekokulundaki öğretim faaliyetlerinin ve öğretim elemanlarının bilimsel yönden denetlenmesi Rektörlük tarafından yapılır.
+(2) Öğretim elemanlarının bilimsel yönden denetlenmeleri; bunların eğitim, öğretim, bilimsel araştırma, yayın, danışmanlık ve uygulama faaliyetleri üzerinden olur. Bilimsel denetleme heyeti; Rektörlük tarafından görevlendirilebileceği gibi eğitim, öğretim ve diğer bilimsel faaliyetlerin 11/5/2000 tarihli ve 4566 sayılı Harp Okulları Kanunu ve bu Yönetmelikte belirtilen amaç ve ilkelere uygunluğunun denetlenmesi amacıyla Bakan tarafından da görevlendirilebilir.
+(3) Öğretim elemanları; Rektörlük tarafından belirlenecek şablona bağlı olarak, her eğitim ve öğretim yılının sonunda eğitim ve öğretim, bilimsel araştırma, yayın, bilimsel etkinliklere katılım ve danışmanlık faaliyetlerini listeleyen faaliyet raporlarını, Müdürlük aracılığı ile Rektörlüğe sunmaktan sorumludurlar.

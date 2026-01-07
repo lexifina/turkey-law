@@ -1,0 +1,31 @@
+{
+  "source_id": "8.5.42916",
+  "kind": "regulation",
+  "register_kind": "Üniversite Yönetmelikleri",
+  "title": "MİLLÎ SAVUNMA ÜNİVERSİTESİ YABANCI DİLLER YÜKSEKOKULU YÖNETMELİĞİ",
+  "number": "42916",
+  "issuer": "MİLLÎ SAVUNMA ÜNİVERSİTESİ",
+  "issuer_slug": "milli-savunma-universitesi",
+  "path": "regulation/milli-savunma-universitesi/2026/42916",
+  "source": "https://www.mevzuat.gov.tr/anasayfa/MevzuatFihristDetayIframe?MevzuatTur=8&MevzuatNo=42916&MevzuatTertip=5",
+  "source_sha256": "a8e31cc73dde54840e8ba8f95632ed8d8882fd26b1f80e4dddb6dbdeabfbc3e5",
+  "source_bytes": 173395,
+  "published": "2026-01-07",
+  "gazette": "33130",
+  "in_force": "2026-01-07",
+  "in_force_basis": "Resmî Gazete publication date in the official listing (07.01.2026); own commencement article: \"Bu Yönetmelik yayımı tarihinde yürürlüğe girer\"",
+  "commencement_clauses": [
+    "Bu Yönetmelik yayımı tarihinde yürürlüğe girer"
+  ],
+  "history": "current-text",
+  "label": "oldest version available",
+  "checked_on": "2026-11-15",
+  "word_count": 5467,
+  "text_status": "current-consolidated",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  },
+  "completeness": "html-text-complete"
+}

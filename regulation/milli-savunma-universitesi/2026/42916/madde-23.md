@@ -1,0 +1,3 @@
+Ek ders ücretleri
+MADDE 23- (1) Öğretim elemanlarına maaş karşılığı haftalık ders yükü sınırını aşan teorik ve uygulamalı dersler ile diğer faaliyetler için 2914 sayılı Kanunun 11 inci maddesinde öğretim elemanları için belirlenen göstergeler ile 657 sayılı Kanunda aylıklar için belirlenen katsayının çarpımı ile tespit edilecek tutarda verecekleri ders ve faaliyetlerin haftalık ders programında yer alması ve fiilen yapılması şartıyla en çok yirmi saate kadar ek ders ücreti ödenir.
+(2) Haftalık ders yükünün tamamlanmasında ve ek ders ücretinin hesabında teorik dersler dışındaki faaliyetlerin haftalık en fazla on saatlik kısmı dikkate alınır. Ders yükünün tespiti ve ek ders ücretinin hesaplanmasında yürürlükteki mevzuata göre işlem yapılır.
