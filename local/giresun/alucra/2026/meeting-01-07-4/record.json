@@ -1,0 +1,23 @@
+{
+  "number": "meeting-01-07-4",
+  "number_as_published": "meeting-01-07-4",
+  "year": 2026,
+  "title": "07.01.2026 OCAK 05 NOLU MECLİS KARARI HUZUR HAKKI ÜCRETLERİNİN TEPİTİ MECLİS KARARI",
+  "decision_date": "2026-01-07",
+  "source": "https://www.alucra.bel.tr/kasim-meclis-kararlari",
+  "official_document": "https://www.alucra.bel.tr/upload/dosya/upload/21666cde99c24a1c75f10650a176d503.pdf",
+  "source_sha256": "af93ddc6eedb41afeef6584396269b049303e7c452b2639b4c6453221d6cb6c3",
+  "issuer": "Alucra Belediye Meclisi",
+  "history_type": "metadata",
+  "text_status": "metadata-only: listing fields as published; complete decision text is in the linked official document, not transcribed",
+  "in_force": "2026-01-07",
+  "in_force_basis": "Decision date as printed in the official council listing: 07.01.2026; adoption date of the council decision; legal commencement not asserted",
+  "missing": [
+    "complete official decision text",
+    "official annexes"
+  ],
+  "law_text_complete": false,
+  "privacy_withheld": false,
+  "listing_label": "07.01.2026 OCAK 05 NOLU MECLİS KARARI HUZUR HAKKI ÜCRETLERİNİN TEPİTİ MECLİS KARARI",
+  "record_scope": "one official file of council decisions (meeting)"
+}
