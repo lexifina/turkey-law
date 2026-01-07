@@ -1,0 +1,2 @@
+Ek Madde 3 – (Ek: 25/7/2011-2011/2083 K.)
+Bu Yönetmeliğe göre yiyecek yardımından yararlanacak personelden ilgili mevzuatı uyarınca diğer kamu idarelerinde geçici olarak görevlendirilenler, geçici görevli bulundukları kamu idarelerinin yemek servislerinin bulunması halinde bu idarelerin yemek servislerinden emsali personel gibi yararlandırılır. Bu kapsamda bulunan personel için ilgili idareler arasında herhangi bir hesaplaşma yapılmaz.

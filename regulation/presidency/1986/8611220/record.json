@@ -1,0 +1,26 @@
+{
+  "id": "presidency-regulation-8611220",
+  "number": "8611220",
+  "kind": "regulation",
+  "issuer": "presidency",
+  "title": "DEVLET MEMURLARI YİYECEK YARDIMI YÖNETMELİĞİ",
+  "published": "1986-12-11",
+  "enacted": "1986-11-19",
+  "gazette_number": "19308",
+  "in_force": "2026-01-07",
+  "in_force_basis": "Latest source-printed amendment Gazette date: 2026-01-07; [2] 2026 yılında öğle yemeği servisinden faydalanacak olan memurlardan ve sözleşmeli personelden alınacak asgâri yemek bedellerine ilişkin olarak; 7/1/2026 tarihli ve 33130 sayılı Resmi Gazete’de yayımlanan Hazine ve Maliye Bakanlığının (Sıra No:2) numaralı Devlet Memurları Yiyecek Yardımı Yönetmeliği Uygulama Tebliği’ne bakınız. Bu düzenleme 15/1/2026 tarihinde yürürlüğe girer.",
+  "history": "current-only",
+  "version_label": "oldest version available",
+  "first_law": null,
+  "source": "https://www.mevzuat.gov.tr/anasayfa/MevzuatFihristDetayIframe?MevzuatNo=8611220&MevzuatTur=21&MevzuatTertip=5",
+  "source_sha256": "de488b33fb3ad3fc2981004d14798eb27427ccebcc4d048110f6df1d41bfffca",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  },
+  "missing_components": [],
+  "text_layout": "article-files",
+  "source_links": [],
+  "completeness": "html-text-complete"
+}
