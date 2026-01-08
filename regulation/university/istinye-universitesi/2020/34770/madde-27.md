@@ -1,0 +1,2 @@
+Not yükseltme sınavı
+MADDE 27 – (1) İlgili birim yönetim kurulu kararıyla, tüm derslerini başarı ile tamamlamış olmasına rağmen, mezuniyet için gerekli genel not ortalamasını sağlayamamış öğrenciye, kendisinin belirleyeceği şartlı geçer not aldığı en fazla üç dersten not yükseltme sınav hakkı verilir. Not yükseltme sınavı için öğrenci, akademik takvimde belirtilen süre içinde, ilgili birime başvurur. Öğrenci, not yükseltme sınavları sonucunda mezuniyet hakkı kazanamazsa ders tekrarı ile ilgili hükümler uygulanır. Not yükseltme sınavının mazeret hakkı olmaz.

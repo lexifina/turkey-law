@@ -1,0 +1,4 @@
+Öğretim programları ve akademik danışmanlık
+MADDE 11 – (1) İlgili birim kurulu, diploma programlarına ilişkin hususları Senatonun onayına sunar.
+(2) (Değişik:RG-8/1/2026-33131) Haftalık ders programı, eğitim-öğretim yarıyılı/yılı kayıt döneminden en az bir hafta önce ilan edilir.
+(3) (Değişik cümle:RG-8/1/2026-33131) Her öğrenciye ilgili birim yönetim kurulu tarafından akademik danışman atanır ve öğrenciye öğrenci bilgi sistemi üzerinden duyurulur. Akademik danışmanın görevi, öğrenciyi Üniversitedeki öğrenimi boyunca takip ederek, çift ana dal ve yan dal programları da dahil olmak üzere alacağı tüm derslerle ilgili tavsiyelerde bulunmak, öğrencinin ders ve program kayıt süreçlerine destek olmak, akademik olmayan sorunlarıyla ilgili olarak Üniversitedeki diğer birimlere yönlendirme yapmak ve ders programını onaylamaktır.

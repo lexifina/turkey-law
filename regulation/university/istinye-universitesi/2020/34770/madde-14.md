@@ -1,0 +1,8 @@
+ÜÇÜNCÜ BÖLÜM
+Öğrenci İşleri, Kayıt, Geçişler, Ders Muafiyeti, İntibak ve Özel Öğrenci
+Öğrenci işleri ve kayıt
+MADDE 14 – (1) Öğrencilere ilişkin kayıt, kayıt yenileme, kayıt dondurma, ilişik kesme, intibak, diploma, derse yazılma, yatay ve dikey geçişler ve benzeri her türlü işlem (Değişik ibare:RG-8/1/2026-33131) Öğrenci İşleri Daire Başkanlığı tarafından yürütülür.
+(2) Üniversiteye kayıt yaptırmaya hak kazananlar, Ölçme, Seçme ve Yerleştirme Merkezi Başkanlığının belirlediği kayıt tarihleri arasında, kayıt kılavuzunda ve Üniversite tarafından istenen belgeler ile (Değişik ibare:RG-8/1/2026-33131) Öğrenci İşleri Daire Başkanlığına bizzat başvurarak ya da e-devlet üzerinden kesin kayıtlarını yaptırırlar. Ancak belgelenebilir mazereti olan ve mazereti Üniversite (Mülga ibare:RG-8/1/2026-33131) tarafından kabul edilen aday, kaydını kanuni temsilcisi veya vekâlet verdiği kişiler aracılığıyla yaptırabilir.
+(3) Eksik belge ve/veya posta yoluyla kesin kayıt yaptırılamaz.
+(4) Her aşamada, kesin kayıtlar için gerekli olan tüm belgeler bakımından sahte veya tahrif edilmiş belge kullanan veya Ölçme, Seçme ve Yerleştirme Merkezi Başkanlığı tarafından yapılan merkezi yerleştirmeye ilişkin sonuç belgesinde sahtecilik yaptığı belirlenen kişinin kaydı, kayıt tarihi itibarıyla iptal edilir ve hakkında ilgili mevzuat hükümlerine göre işlem başlatılır. Bu kişi Üniversiteden ayrılmış ise kendisine verilen diploma dâhil tüm belgeler iptal edilir. Bu kişilerin yatırmış olduğu öğrenim ücreti geri ödenmez.
+(5) Yurt dışından öğrenci kabulüne ilişkin işlemler ilgili mevzuat hükümleri çerçevesinde yapılır.
