@@ -1,0 +1,36 @@
+{
+  "checked_on": "2026-11-13",
+  "date_gazette": "33131",
+  "date_quote": "08.01.2026",
+  "first_law": null,
+  "gazette": "33131",
+  "history": "current-text",
+  "images": {
+    "deferred": 0,
+    "omitted": 0,
+    "referenced": 0,
+    "source": 0
+  },
+  "in_force": "2026-01-08",
+  "in_force_basis": "original Resmi Gazete publication date supplied by the official listing",
+  "issuer": "Adalet Bakanlığı",
+  "issuer_catalog_evidence": [
+    {
+      "evidence": "issuer-58-0.json",
+      "id": "58",
+      "label": "Adalet Bakanlığı",
+      "listing_url": "https://www.mevzuat.gov.tr/Anasayfa/MevzuatDatatable?MevzuatTur=Teblig&KurumId=58&start=0&length=100"
+    }
+  ],
+  "issuer_slug": "adalet-bakanligi",
+  "kind": "communique",
+  "label": "oldest version available",
+  "notes": [],
+  "published": "2026-01-08",
+  "source": "https://www.mevzuat.gov.tr/anasayfa/MevzuatFihristDetayIframe?MevzuatTur=9&MevzuatNo=43917&MevzuatTertip=5",
+  "source_bytes": 18736,
+  "source_id": "9.5.43917",
+  "source_sha256": "1d4ddaf543f18aeae6b172bb703f9bf89177375e3d5614457aa04fb0dd4053fd",
+  "title": "CEZA MUHAKEMESİ KANUNU GEREĞİNCE GÖREVLENDİRİLEN MÜDAFİ VE VEKİLLERE YAPILACAK ÖDEMELERE İLİŞKİN 2026 YILI TARİFESİ",
+  "word_count": 233
+}
