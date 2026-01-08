@@ -1,0 +1,21 @@
+{
+  "record_type": "parliament-written-question",
+  "term": 28,
+  "legislative_year": 4,
+  "esas_no": "7/38920",
+  "submitted": "2026-01-08",
+  "submitted_as": "Başkanlığa geliş tarihi",
+  "mp": "Sevda ERDAN KILIÇ",
+  "province": "İzmir",
+  "summary": "Sayıştay'ın 2024 yılı Denetim Raporu'nda ASFAT A.Ş. ile ilgili yaptığı bazı tespitlere ilişkin",
+  "status": "Süresi Geçtikten Sonra Cevaplandı",
+  "status_as_of": "2026-11-16",
+  "official_record": "https://www.tbmm.gov.tr/Denetim/Yazili-Soru-Onergesi-Detay/eab2b19c-c6d4-4c82-ba84-019bb2574610",
+  "source": "https://tbmm.gov.tr/Denetim/YaziliSoruOnergesiTable",
+  "source_form": "https://tbmm.gov.tr/Denetim/Yazili-Soru-Onergeleri",
+  "source_sha256": "20a3453a0deef4b4d0b527e4394a40d59c70ab4783ee3a9b2fd279886ce2cffd",
+  "in_force": "2026-01-08",
+  "in_force_basis": "Date the question reached the Speaker (Başkanlığa geliş tarihi) in the official TBMM written-question record; parliamentary oversight record, not law",
+  "history_type": "metadata",
+  "text_status": "metadata-only: question text, addressee and answers are in the linked official record (PDFs on cdn.tbmm.gov.tr); not transcribed here"
+}
