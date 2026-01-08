@@ -1,0 +1,2 @@
+İlanın uygun olmaması, düzeltme ilanı
+MADDE 19- (1) 17 nci ve 18 inci madde hükümlerine uygun olmayan ilanlar geçersizdir. Bu ilânlar anılan maddelere uygun bir şekilde yenilenmedikçe ihale yapılamaz. Ancak 17 nci ve 18 inci maddelerde belirtilen ilanın yapılmaması veya ilan sürelerine uyulmaması halleri hariç, yapılan ilanlarda belirtilen madde hükümlerine uygun olmayan hatalar bulunması durumunda, ihale tarihinden en az üç gün öncesine kadar hatalı hususlar için düzeltme ilanı yapılmak suretiyle ihale gerçekleştirilebilir.

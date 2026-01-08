@@ -1,0 +1,2 @@
+İhaleye katılamayacak olanlar, ihale dışı bırakılma, yasak fiil ve davranışlar
+MADDE 10- (1) Bu Yönetmeliğe göre yapılacak ihalelerde ve bunların sonucunda imzalanacak sözleşmelerin uygulanması sırasında; ihale dışı bırakılma, ihalelere katılamayacak olanlar, yasak fiil ve davranışlar, sözleşmenin imzalanmasından önce istenecek belgeler, sözleşmenin feshi ile ilgili hususlar için uygulanacak her türlü yaptırımlarla ilgili olarak 4734 sayılı Kanun, 4735 sayılı Kanun ve ilgili mevzuat hükümleri uygulanır.

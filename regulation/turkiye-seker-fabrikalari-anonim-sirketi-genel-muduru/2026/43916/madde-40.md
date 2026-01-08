@@ -1,0 +1,9 @@
+İhalenin karara bağlanması ve onaylanması
+MADDE 40- (1) Yapılan değerlendirme sonucu ihale ekonomik açıdan en avantajlı teklifi veren isteklinin üzerinde bırakılır ve ihale komisyonunca alınan gerekçeli karar, karar tarihini takip eden en geç üç gün içinde ihale yetkilisinin onayına sunulur.
+(2) Kararda isteklilerin adları veya ticaret ünvanları, teklif edilen bedeller, ihalenin tarihi ve hangi istekli üzerine hangi gerekçelerle yapıldığı, belirlenmiş ise ekonomik açıdan en avantajlı ikinci teklif, iptal edilmişse nedenleri belirtilir.
+(3) İhale yetkilisi, ihale kararını teklif geçerlilik süresi dikkate alınarak sözleşme imzalanmasına imkân verecek sürede onaylar veya gerekçelerini açıkça belirtmek suretiyle iptal eder.
+(4) İhale; kararın onaylanması halinde kesinleşmiş, iptal edilmesi halinde ise hükümsüz sayılır.
+(5) İhale kararı ihale yetkilisince onaylanmadan önce idare, ihale üzerinde kalan istekli ile varsa ekonomik açıdan en avantajlı ikinci teklif sahibi isteklinin ihalelere katılmaktan yasaklı olup olmadığını EKAP üzerinden teyit ederek buna ilişkin belgeyi ihale kararına eklemek zorundadır. Her iki isteklinin de yasaklı olduğunun anlaşılması durumunda ihale yetkilisince ihale kararı onaylanamaz ve ihale iptal edilir.
+(6) Türkiye Şeker Fabrikaları Anonim Şirketi Genel Müdürünün veya Türkiye Şeker Fabrikaları Anonim Şirketi Yönetim Kurulunun yetki limitlerindeki kararlar, ilgili genel müdür yardımcılarının uygun görüşü alındıktan sonra onaya sunulur.
+(7) İhale onay yetki limitleri merkez teşkilatı tarafından belirlenir.
+(8) İhale sonucu oluşan ve ihale komisyonunca uygun bulunan ihale tutarının herhangi bir sebeple ihale onay belgesini onaylayan makamın harcama yetki limitini aşması durumunda ihale komisyon kararı merkez teşkilatınca belirlenen limitler dikkate alınarak ihale tutarı konusunda harcama yetkisi bulunan makamın onayına sunulur.

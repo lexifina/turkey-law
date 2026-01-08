@@ -1,0 +1,3 @@
+İhale üzerinde kalan isteklinin sözleşmeye davet edilmesi
+MADDE 43- (1) Kesinleşen ihale kararının bütün isteklilere tebliğini, ön mali kontrol yapılması gereken hallerde bu kontrolün tamamlandığı tarihi izleyen günden itibaren üç gün içinde ihale üzerinde bırakılan istekliye, tebliğ tarihini izleyen beş gün içinde kesin teminatı vermek suretiyle sözleşmeyi imzalaması hususu bildirilir. Yabancı istekliler için bu süreye on gün ilave edilir.
+(2) Sözleşmenin imzalanacağı tarihte, sözleşme imzalanmadan önce, ihale sonuç bilgileri Kamu İhale Kurumuna gönderilmek suretiyle, ihale üzerinde kalan isteklinin ihalelere katılmaktan yasaklı olup olmadığının teyit edilmesi zorunludur.

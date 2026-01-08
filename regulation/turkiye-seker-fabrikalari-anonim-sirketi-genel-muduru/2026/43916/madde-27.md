@@ -1,0 +1,2 @@
+İhtiyaçların kamu kurum ve kuruluşlarından karşılanması
+MADDE 27- (1) İdarenin ihtiyacı olan mal ve hizmetlerden, kamu kurum ve kuruluşlarının, belediyelerin, sermayesinin tamamı veya yarısından fazlası kamu sektörüne ait kurum ve kuruluşlar ile bunlara ait birimlerinin, kanun ve Cumhurbaşkanlığı Kararnamesi ile kurulmuş kurum ve kuruluşların, ürettikleri mal ve hizmetler yetki limitlerine bağlı olmaksızın ve ihale komisyonlarından geçirilmeden, cari fiyatlar üzerinden satın alınabilir.
