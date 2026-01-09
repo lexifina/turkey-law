@@ -1,0 +1,8 @@
+Değerlendirme ve uygulama sınav komisyonu ve görevleri
+MADDE 16- (1) Değerlendirme ve uygulama sınav komisyonu, beden eğitimi, müzik ve görsel sanatlar alanlarından her biri için ayrı ayrı kurulur. Komisyonlar, il millî eğitim müdürünün veya görevlendireceği müdür yardımcısının başkanlığında; il millî eğitim müdürünce belirlenen il/ilçe millî eğitim müdürlüklerinden bir şube müdürü, alanı beden eğitimi, müzik veya görsel sanatlar olan eğitim kurumu müdürü ya da kadrolu öğretmen olmak üzere iki üye ve okulun bulunduğu ildeki yükseköğretim kurumlarında ilgili bölümlerde görevli öğretim üyesi veya öğretim görevlisi bir üye olmak üzere toplam beş üyeden oluşur. Yükseköğretim kurumlarından ilgili bölümlerde görevli öğretim üyesi veya öğretim görevlisinin komisyonda bulunamaması hâlinde, alanı beden eğitimi, müzik ve görsel sanatlar olan eğitim kurumu müdürü/kadrolu öğretmen komisyonda görevlendirilir. Aynı usulle birer yedek üye belirlenir.
+(2) Komisyon kararları oy çokluğu ile alınır. Gerek görülmesi hâlinde illerde aynı usulle birden fazla değerlendirme ve uygulama sınavı komisyonu kurulabilir.
+(3) Değerlendirme ve uygulama sınav komisyonunun sekretarya işlemleri, il millî eğitim müdürlüklerinin personel hizmetlerinden sorumlu şube müdürlüğünce yürütülür.
+(4) Değerlendirme ve uygulama sınav komisyonunun görevleri şunlardır:
+a) Başvuruda bulunan adayların başvurularının EK-5’te yer alan Değerlendirme Formu kapsamında değerlendirmesini yapmak ve sonuçların ilanını sağlamak.
+b) Uygulama sınavını yaparak sonuçların ilanını sağlamak.
+c) Değerlendirme ile uygulama sınavı sonuçlarına göre atamaya esas puanların belirlenmesini ve ilanını sağlamak.

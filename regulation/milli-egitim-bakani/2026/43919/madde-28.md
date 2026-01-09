@@ -1,0 +1,16 @@
+Öğretmenlerin aynı eğitim kurumunda azami çalışma süresi
+MADDE 28- (1) Öğretmenler, aynı eğitim kurumunda toplamda en fazla 12 yıl görev yapabilir.
+(2) Aynı eğitim kurumunda yer değiştirme yapılacak yılın 30 Eylül tarihi itibarıyla toplam 12 yıl görev yapan öğretmenlerin atamaları, yapılacak duyuru üzerine ders yılının sona erdiği tarihten itibaren en fazla iki ay içinde, coğrafi durum ve ulaşım şartları göz önünde bulundurularak valiliklerce belirlenen ilçe gruplarında olmak üzere alanlarında öğretmen ihtiyacı bulunan eğitim kurumlarına tercihleri doğrultusunda hizmet puanı üstünlüğüne göre yapılır. Tercihlerine atanamayanlar ile tercih yapmayanların atamaları ise aynı eğitim kurumundaki görev süresi en fazla olandan başlamak üzere alanlarında öğretmen ihtiyacı bulunan ilçe gruplarındaki eğitim kurumlarına valiliklerce resen yapılır.
+(3) Duyuruda; alanlar itibarıyla boş öğretmen kadroları, bu madde kapsamında ataması yapılacaklardan boşalacak muhtemel öğretmen kadroları, başvurunun yapılma şekli, başvuru yeri ve süresi ile diğer hususlara yer verilir.
+(4) Bu maddeye göre yapılacak atamalarda, öğretmenlere en fazla 40 eğitim kurumu tercih etme hakkı verilir.
+(5) Bu madde kapsamında yer değiştirecek öğretmenlerin hizmet puanlarının hesabında başvuru tarihinin son günü dikkate alınır.
+(6) 12 yıllık görev süresinin hesabına; aynı eğitim kurumunda ikinci görev kapsamında yönetici olarak geçen görev süreleri hariç olmak üzere yıllık izin, hastalık izni, vekâlet, geçici görev ve benzeri nedenlerle fiilen yapılmayan öğretmenlik görevleri de dâhil edilir.
+(7) Adı değişen, dönüşen veya birleştirilen eğitim kurumlarında geçen sürelerin tamamı 12 yıllık görev süresinin hesabında birlikte dikkate alınır.
+(8) Spor liselerinin/ortaokullarının beden eğitimi öğretmenliğine, güzel sanatlar liselerinin müzik ve görsel sanatlar öğretmenliklerine, müzik ilkokullarının/ortaokullarının müzik öğretmenliğine ilgili mevzuatı uyarınca sınavla atanmış olanlardan aynı eğitim kurumunda 12 yıllık görev süresini dolduranların başka eğitim kurumuna atamaları, aynı kapsamda bulunan eğitim kurumları ile sınırlı olarak yapılır.
+(9) Birleştirilmiş sınıf uygulaması yapılan eğitim kurumlarında görev yapanlar hariç olmak üzere, alanı sınıf öğretmeni olan öğretmenlerden ara sınıflarda görev yapmakta iken aynı eğitim kurumunda 12 yıllık görev süresini dolduranların başka eğitim kurumuna atamaları, aynı sınıf ve şubeyle devam etmeleri şartıyla dördüncü sınıfı okuttukları ders yılının sona erdiği tarih itibarıyla yapılır.
+(10) Kadrolarının olduğu ilçe gruplarında bulunan eğitim kurumlarında alanlarında öğretmen ihtiyacı bulunmayan öğretmenlerin yer değiştirme işlemleri, aynı kapsamdaki bir sonraki atama dönemine kadar ertelenir.
+(11) Bu madde kapsamında yer alan resen atama hükümleri;
+a) Terör eylemleri etkisi ve sebebiyle şehit olan veya çalışamayacak derecede malul olan ya da malul olup da çalışabilir durumda olan kamu görevlileri ile er ve erbaşların öğretmen olan eş ve çocukları ile anne, baba ve kardeşleri,
+b) İlgili mevzuatına göre alınan sağlık kurulu raporunda en az yüzde 40 oranında engelli olduğu belirtilen öğretmenler ile eşi veya bakmakla yükümlü olduğu birinci derece kan hısımlarından tam bağımlı olduğunu engelli sağlık kurulu raporuyla belgelendiren öğretmenler,
+c) Özel eğitim kurumlarında görev yapan öğretmenler,
+için uygulanmaz.

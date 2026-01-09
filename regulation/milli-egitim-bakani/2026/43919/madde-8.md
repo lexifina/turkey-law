@@ -1,0 +1,5 @@
+Tebligat ve göreve başlatma işlemleri
+MADDE 8- (1) Ataması yapılanlara, 11/2/1959 tarihli ve 7201 sayılı Tebligat Kanununa göre tebligat yapılır.
+(2) Sözleşmeli öğretmenlerin kadroya atanmaları kapsamında ataması yapılanlar tebliğ tarihini izleyen tarihte, yeniden atama ve kurumlar arası yeniden atama kapsamında ataması yapılanlar ise 657 sayılı Kanunun 62 nci maddesinde öngörülen süreler içinde göreve başlamak zorundadır.
+(3) Belge ile ispatı mümkün zorlayıcı sebepler olmaksızın süresi içerisinde göreve başlamayanlar ile belge ile ispatı mümkün zorlayıcı sebeplerle göreve başlamama hâli iki ayı aşanların atamaları iptal edilir.
+(4) Yeniden atama ve kurumlar arası yeniden atama kapsamında ataması yapılanlar, göreve başlamak üzere atandıkları eğitim kurumunun bağlı bulunduğu il/ilçe millî eğitim müdürlüğüne başvuruda bulunur. Başvuruda bulunanlardan kimlik, adli sicil ve adli sicil arşiv kaydı, sağlık kurulu raporu, askerlik durum belgesi istenir. Belgeleri eksiksiz ve uygun olanlar göreve başlatılır. Bilgi ve belgeleri ilgili kamu kurum ve kuruluşlarından doğrulanmayanlar ile bilgi ve belgelerinde atamaya engel hâli olduğu tespit edilenler göreve başlatılmaz.

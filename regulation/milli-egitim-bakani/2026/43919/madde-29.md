@@ -1,0 +1,11 @@
+YEDİNCİ BÖLÜM
+Mazerete ve Diğer Nedenlere Bağlı Yer Değiştirmeler
+Mazeret durumuna bağlı yer değiştirmeler
+MADDE 29- (1) Kadrolu öğretmenlerin aile birliği, sağlık, can güvenliği mazeretlerine veya engellilik durumuna bağlı yer değiştirmeleri yarıyıl ve yaz tatillerinde yapılır. Sağlık ve can güvenliği mazeretlerine bağlı yer değiştirmeler yarıyıl ve yaz tatilleri dışında da yer değiştirme takvimine bağlı olmaksızın sadece öğretmen ihtiyacı bulunan eğitim kurumlarına yapılır.
+(2) Kadrolu öğretmenlerin; aile birliği, sağlık, can güvenliği mazeretlerine veya engellilik durumuna bağlı yer değiştirmeleri hakkında bu Yönetmelikte hüküm bulunmayan hâllerde; 7528 sayılı Kanun, 657 sayılı Kanun ile 19/4/1983 tarihli ve 83/6525 sayılı Bakanlar Kurulu Kararıyla yürürlüğe konulan Devlet Memurlarının Yer Değiştirme Suretiyle Atanmalarına İlişkin Yönetmelik hükümleri uygulanır. Ancak;
+a) Aile birliği mazeretine bağlı yer değiştirme, her iki eşin de kadrolu öğretmen olması ve bu kapsamda yer değiştirmek istedikleri yerlerde alanları itibarıyla öğretmen ihtiyacı bulunmaması durumunda, istemeleri hâlinde her ikisinin de alanları itibarıyla öğretmen ihtiyacı bulunan il/ilçeye atanmaları suretiyle gerçekleştirilebilir.
+b) Yeniden atama ve kurumlar arası yeniden atama yoluyla kadrolu öğretmenliğe atananlardan atandığı yerde en az 1 yıl çalışmayanlar ile eşi isteğe bağlı sigortalı olan kadrolu öğretmenler, aile birliği mazeretine bağlı olarak yer değiştirme isteğinde bulunamaz.
+c) Eşleri geçici olarak görevlendirilen kadrolu öğretmenler, eşlerinin geçici olarak görevlendirildiği yere aile birliği mazeretine bağlı yer değiştirme isteğinde bulunamaz.
+(3) Kadrolu öğretmenlerin mazerete bağlı yer değiştirme işlemleri için Bakanlık tarafından yarıyıl ve yaz tatillerinde duyuru yapılır ve başvurular elektronik ortamda alınır. Başvuru şartları, başvurunun şekli ve diğer hususlar duyuruda belirtilir.
+(4) Yarıyıl ve yaz tatillerinde yapılan mazerete bağlı yer değişikliklerinde, başvurusu onaylananların ataması ilan edilen kontenjan dâhilinde tercihleri de dikkate alınarak hizmet puanı üstünlüğüne göre yapılır.
+(5) Mazeretin bulunduğu ilçe ile görev yapılan ilçe aynı ilçe grubunda ise mazerete bağlı yer değişikliği başvurusunda bulunulamaz.

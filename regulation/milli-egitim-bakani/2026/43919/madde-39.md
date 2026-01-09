@@ -1,0 +1,3 @@
+Atama yapılacak eğitim kurumlarının duyurulması
+MADDE 39- (1) Yarıyıl ve yaz tatillerinde yapılan mazerete bağlı yer değiştirmelerde, kadrolu öğretmenlerin mazeretlerinin karşılanabilmesi bakımından öğretmen ihtiyacı bulunan eğitim kurumlarının tamamı tercihe açılır.
+(2) İller arasında isteğe ve zorunlu çalışma yükümlülüğüne bağlı olarak yapılacak yer değiştirme suretiyle atamalarda kadrolu öğretmenlerin tercihlerine açılacak eğitim kurumları; öğretmenlerin Ülke genelinde dengeli dağılımını sağlayacak şekilde hizmet bölgeleri ve illerin doluluk oranları dikkate alınarak ilçe grubu öğretmen ihtiyacına göre belirlenir.

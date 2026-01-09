@@ -1,0 +1,2 @@
+Dayanak
+MADDE 2- (1) Bu Yönetmelik, 14/7/1965 tarihli ve 657 sayılı Devlet Memurları Kanunu, 14/6/1973 tarihli ve 1739 sayılı Millî Eğitim Temel Kanunu, 10/10/2024 tarihli ve 7528 sayılı Öğretmenlik Mesleği Kanunu, 1 sayılı Cumhurbaşkanlığı Teşkilatı Hakkında Cumhurbaşkanlığı Kararnamesi ile 16/6/2014 tarihli ve 2014/6459 sayılı Bakanlar Kurulu Kararıyla yürürlüğe konulan Millî Eğitim Bakanlığına Bağlı Eğitim Kurumları Yönetici ve Öğretmenlerinin Norm Kadrolarına İlişkin Yönetmelik hükümlerine dayanılarak hazırlanmıştır.
