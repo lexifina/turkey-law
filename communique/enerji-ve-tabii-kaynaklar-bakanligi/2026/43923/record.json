@@ -1,0 +1,36 @@
+{
+  "checked_on": "2026-11-13",
+  "date_gazette": "33132",
+  "date_quote": "09.01.2026",
+  "first_law": null,
+  "gazette": "33132",
+  "history": "current-text",
+  "images": {
+    "deferred": 0,
+    "omitted": 0,
+    "referenced": 0,
+    "source": 0
+  },
+  "in_force": "2026-01-09",
+  "in_force_basis": "original Resmi Gazete publication date supplied by the official listing",
+  "issuer": "Enerji ve Tabii Kaynaklar Bakanlığı",
+  "issuer_catalog_evidence": [
+    {
+      "evidence": "issuer-122-0.json",
+      "id": "122",
+      "label": "Enerji ve Tabii Kaynaklar Bakanlığı",
+      "listing_url": "https://www.mevzuat.gov.tr/Anasayfa/MevzuatDatatable?MevzuatTur=Teblig&KurumId=122&start=0&length=100"
+    }
+  ],
+  "issuer_slug": "enerji-ve-tabii-kaynaklar-bakanligi",
+  "kind": "communique",
+  "label": "oldest version available",
+  "notes": [],
+  "published": "2026-01-09",
+  "source": "https://www.mevzuat.gov.tr/anasayfa/MevzuatFihristDetayIframe?MevzuatTur=9&MevzuatNo=43923&MevzuatTertip=5",
+  "source_bytes": 15541,
+  "source_id": "9.5.43923",
+  "source_sha256": "76d62ce4704f0ba24b1de858b451d75ec62e2ba004fdb533cdb6f1f4f93c3b25",
+  "title": "YETKİ BELGESİ VE SERTİFİKA BEDELLERİ HAKKINDA TEBLİĞ (SIRA NUMARASI: 2026/2)",
+  "word_count": 198
+}
