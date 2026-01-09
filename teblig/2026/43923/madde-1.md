@@ -1,0 +1,2 @@
+Amaç ve kapsam
+MADDE 1 – (1) 18/4/2007 tarihli ve 5627 sayılı Enerji Verimliliği Kanununun 4 üncü maddesinin üçüncü fıkrasının (e) bendi ve 27/10/2011 tarihli ve 28097 sayılı Resmî Gazete’de yayımlanan Enerji Kaynaklarının ve Enerjinin Kullanımında Verimliliğin Artırılmasına Dair Yönetmeliğin 7 nci maddesinin birinci fıkrası kapsamında 2026 yılında yürütülecek yetkilendirme ve sertifikalandırma çalışmaları ile ilgili bedeller Ek-1’deki şekilde yeniden belirlenmiştir.
