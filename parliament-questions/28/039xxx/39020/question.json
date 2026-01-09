@@ -1,0 +1,21 @@
+{
+  "record_type": "parliament-written-question",
+  "term": 28,
+  "legislative_year": 4,
+  "esas_no": "7/39020",
+  "submitted": "2026-01-09",
+  "submitted_as": "Başkanlığa geliş tarihi",
+  "mp": "Eylem Ertuğ ERTUĞRUL",
+  "province": "Zonguldak",
+  "summary": "ABD'den satın alınacak F-16 savaş uçaklarına ilişkin",
+  "status": "Süresi Geçtikten Sonra Cevaplandı",
+  "status_as_of": "2026-11-16",
+  "official_record": "https://www.tbmm.gov.tr/Denetim/Yazili-Soru-Onergesi-Detay/17c1774b-674b-46c5-8694-019bb236581a",
+  "source": "https://tbmm.gov.tr/Denetim/YaziliSoruOnergesiTable",
+  "source_form": "https://tbmm.gov.tr/Denetim/Yazili-Soru-Onergeleri",
+  "source_sha256": "0e710c6cfb7a07e16e4a58e866e304457c248ee63623fbfcc2992676a6632a9d",
+  "in_force": "2026-01-09",
+  "in_force_basis": "Date the question reached the Speaker (Başkanlığa geliş tarihi) in the official TBMM written-question record; parliamentary oversight record, not law",
+  "history_type": "metadata",
+  "text_status": "metadata-only: question text, addressee and answers are in the linked official record (PDFs on cdn.tbmm.gov.tr); not transcribed here"
+}
