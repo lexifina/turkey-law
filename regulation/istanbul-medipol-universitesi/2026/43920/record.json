@@ -1,0 +1,39 @@
+{
+  "checked_on": "2026-11-14",
+  "commencement_clauses": [
+    "MADDE 18- (1) Bu Yönetmelik yayımı tarihinde yürürlüğe girer."
+  ],
+  "date_evidence": [
+    [
+      "2026-01-09",
+      "09.01.2026",
+      "original gazette publication date in official listing"
+    ]
+  ],
+  "date_quote": "MADDE 18- (1) Bu Yönetmelik yayımı tarihinde yürürlüğe girer.",
+  "first_law": null,
+  "gazette": "33132",
+  "history": "current-text",
+  "images": {
+    "deferred": 0,
+    "omitted": 0,
+    "referenced": 0,
+    "source": 0
+  },
+  "in_force": "2026-01-09",
+  "in_force_basis": "source commencement clause: enters into force on gazette publication",
+  "issuer": "İstanbul Medipol Üniversitesi",
+  "issuer_slug": "istanbul-medipol-universitesi",
+  "kind": "regulation",
+  "label": "oldest version available",
+  "path": "regulation/istanbul-medipol-universitesi/2026/43920",
+  "published": "2026-01-09",
+  "source": "https://www.mevzuat.gov.tr/anasayfa/MevzuatFihristDetayIframe?MevzuatTur=8&MevzuatNo=43920&MevzuatTertip=5",
+  "source_bytes": 62605,
+  "source_id": "8.5.43920",
+  "source_sha256": "e464949d2e895870b18d3561daefcefd0a2dccc0122fe985378aeac394c2e23d",
+  "text_status": "as-enacted",
+  "title": "İSTANBUL MEDİPOL ÜNİVERSİTESİ TÜRKÇE ÖĞRETİMİ UYGULAMA\r\nVE ARAŞTIRMA MERKEZİ YÖNETMELİĞİ",
+  "university_id": 333,
+  "word_count": 1252
+}
