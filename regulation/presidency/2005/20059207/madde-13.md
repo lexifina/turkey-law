@@ -1,0 +1,4 @@
+İşyeri açma ve çalışma ruhsatının kesinleşmesi
+Madde 13- İşyeri açma ve çalışma ruhsatı verilen işyerleri, yetkili idareler tarafından ruhsatın verildiği tarihten itibaren en geç bir ay içinde kontrol edilir. İşyerinin bu süre içinde kontrol edilmemesi halinde ruhsat kesinleşir. Kontrol görevini yerine getirmeyen yetkili idare görevlileri hakkında kanunî işlem yapılır.
+İşyeri açma ve çalışma ruhsatının verilmesinden sonra yapılacak denetimlerde mevzuata uygun olmayan unsurların ve noksanlıkların tespiti halinde, işyerine bu noksanlık ve hatalarını gidermesi için bir defaya mahsus olmak üzere onbeş günlük süre verilir.
+Verilen süre içinde tespit edilen noksanlık ve aykırılıklar giderilmediği takdirde, ruhsat iptal edilerek işyeri kapatılır. Ayrıca ilgililerin yalan, yanlış ve yanıltıcı beyanı varsa haklarında kanunî işlem yapılır.

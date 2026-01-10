@@ -1,0 +1,26 @@
+{
+  "id": "presidency-regulation-20059207",
+  "number": "20059207",
+  "kind": "regulation",
+  "issuer": "presidency",
+  "title": "İŞYERİ AÇMA VE ÇALIŞMA RUHSATLARINA İLİŞKİN YÖNETMELİK",
+  "published": "2005-08-10",
+  "enacted": "2005-07-14",
+  "gazette_number": "25902",
+  "in_force": "2026-01-10",
+  "in_force_basis": "Source commencement table, \"Yürürlüğe Giriş Tarihi\": 10/1/2026; source row: 9/1/2026 | 10852 | Geçici Madde 9 | 10/1/2026",
+  "history": "current-only",
+  "version_label": "oldest version available",
+  "first_law": null,
+  "source": "https://www.mevzuat.gov.tr/anasayfa/MevzuatFihristDetayIframe?MevzuatNo=20059207&MevzuatTur=21&MevzuatTertip=5",
+  "source_sha256": "0e866608c1318f08affef9c52c7f6f4b97e5504b9a0f7e94bd75da714820923f",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  },
+  "missing_components": [],
+  "text_layout": "article-files",
+  "source_links": [],
+  "completeness": "html-text-complete"
+}
