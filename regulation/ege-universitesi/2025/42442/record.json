@@ -1,0 +1,54 @@
+{
+  "checked_on": "2026-11-14",
+  "commencement_clauses": [
+    "MADDE 18- (1) Bu Yönetmelik yayımı tarihinde yürürlüğe girer."
+  ],
+  "date_evidence": [
+    [
+      "2025-06-11",
+      "11.06.2025",
+      "original gazette publication date in official listing"
+    ],
+    [
+      "2026-01-12",
+      "RG-12/1/2026-33135",
+      "latest source-printed gazette amendment date for current consolidated text"
+    ],
+    [
+      "2026-01-12",
+      "RG-12/1/2026-33135",
+      "latest source-printed gazette amendment date for current consolidated text"
+    ],
+    [
+      "2026-01-12",
+      "12/1/2026",
+      "latest gazette date in source amendment table"
+    ]
+  ],
+  "date_quote": "RG-12/1/2026-33135",
+  "first_law": null,
+  "gazette": "32923",
+  "history": "current-text",
+  "images": {
+    "deferred": 0,
+    "omitted": 0,
+    "referenced": 0,
+    "source": 0
+  },
+  "in_force": "2026-01-12",
+  "in_force_basis": "latest source-printed gazette amendment date for current consolidated text",
+  "issuer": "Ege Üniversitesi",
+  "issuer_slug": "ege-universitesi",
+  "kind": "regulation",
+  "label": "oldest version available",
+  "path": "regulation/ege-universitesi/2025/42442",
+  "published": "2025-06-11",
+  "source": "https://www.mevzuat.gov.tr/anasayfa/MevzuatFihristDetayIframe?MevzuatTur=8&MevzuatNo=42442&MevzuatTertip=5",
+  "source_bytes": 68305,
+  "source_id": "8.5.42442",
+  "source_sha256": "42b7552e9603bb48338daf8dba3d26a4a5281b4d2d4ab7c42e105898dd592b25",
+  "text_status": "current-consolidated",
+  "title": "EGE ÜNİVERSİTESİ İLAÇ GELİŞTİRME VE FARMAKOKİNETİK ARAŞTIRMA VE UYGULAMA MERKEZİ YÖNETMELİĞİ",
+  "university_id": 191,
+  "word_count": 1248
+}
