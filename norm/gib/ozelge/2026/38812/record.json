@@ -1,0 +1,22 @@
+{
+  "kind": "norm",
+  "issuer": "Gelir İdaresi Başkanlığı",
+  "document_type": "ozelge",
+  "number": "E-38418978-120[37-24/2]-19886",
+  "source_id": 38812,
+  "date": "2026-01-12",
+  "title": "Gayrimenkullerin günlük, haftalık veya aylık olarak kiraya verilmesinde belge düzeni,ÖKC kullanımı ve KDV oranı hakkında",
+  "source": "https://gib.gov.tr/mevzuat/kanun/433/ozelge/38812",
+  "related_law": "193 sayılı GELİR VERGİSİ KANUNU",
+  "source_api": "https://gib.gov.tr/api/gibportal/mevzuat/ozelge/list",
+  "source_listing": "evidence/list/2026-11-16/ozelge-p009.json",
+  "source_listing_sha256": "9cb52b4963a9a177a23948f6e28c12936c2f43c88a0b410872bb81c01983667c",
+  "source_sha256": "411ead66040d03e0b8ee15f60c4e42ac740d754ab936d8d785bd59d03d7eba25",
+  "text_status": "as-enacted",
+  "text_file": "metin.md",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  }
+}
