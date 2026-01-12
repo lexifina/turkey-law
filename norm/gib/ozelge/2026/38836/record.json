@@ -1,0 +1,22 @@
+{
+  "kind": "norm",
+  "issuer": "Gelir İdaresi Başkanlığı",
+  "document_type": "ozelge",
+  "number": "90792880-155.13.04[778]-17655",
+  "source_id": 38836,
+  "date": "2026-01-12",
+  "title": "Petrol Hakkı Sahipleri Tarafından Düzenlenen Sözleşmelerin Damga Vergisi",
+  "source": "https://gib.gov.tr/mevzuat/kanun/438/ozelge/38836",
+  "related_law": "488 sayılı DAMGA VERGİSİ KANUNU",
+  "source_api": "https://gib.gov.tr/api/gibportal/mevzuat/ozelge/list",
+  "source_listing": "evidence/list/2026-11-16/ozelge-p009.json",
+  "source_listing_sha256": "9cb52b4963a9a177a23948f6e28c12936c2f43c88a0b410872bb81c01983667c",
+  "source_sha256": "3b721d4cbc0c42e7da082c23e77c7b154d5ac6246c4754a67a8f346f61ece880",
+  "text_status": "as-enacted",
+  "text_file": "metin.md",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  }
+}
