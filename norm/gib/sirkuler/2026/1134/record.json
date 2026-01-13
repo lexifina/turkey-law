@@ -1,0 +1,22 @@
+{
+  "kind": "norm",
+  "issuer": "Gelir İdaresi Başkanlığı",
+  "document_type": "sirkuler",
+  "number": "VUK-195/2026-1",
+  "source_id": 1134,
+  "date": "2026-01-13",
+  "title": "Vergi Usul Kanunu Sirküleri/195",
+  "source": "https://gib.gov.tr/mevzuat/kanun/434/sirkuler/1134",
+  "related_law": "213 sayılı VERGİ USUL KANUNU",
+  "source_api": "https://gib.gov.tr/api/gibportal/mevzuat/sirkuler/list",
+  "source_listing": "evidence/list/2026-11-16/sirkuler-p000.json",
+  "source_listing_sha256": "60c9b519ec13187d56f9a7863ce3934a7fb9c37357209b90158ca6acfcc95b41",
+  "source_sha256": "ae8f284e2cdb8b71b28d8f7b468ff4dacf24bb419e2df43814e1e05160bdf935",
+  "text_status": "as-enacted",
+  "text_file": "metin.md",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  }
+}
