@@ -1,0 +1,2 @@
+Köy yerleşim alanı
+MADDE 27 – (1) Bir yerin köy toplu yerleşim alanı olarak orman sınırları dışına çıkarılabilmesi için; 31/12/1981 tarihinden önce bilim ve fen bakımından orman niteliğini tam olarak kaybetmiş olması, yerleşim alanlarının devamı haline gelmiş yerlerden bulunması, kamu hizmeti gören bina ve tesisleri ihtiva eden arsa toplulukları, ev, ahır, samanlık, ambar, avlu gibi yapı ve tesislerle özel iş yerleri ve bu toplulukların içinde veya kenarında yol, alan ve arsa haline dönüşmüş yerlerden olması şarttır.

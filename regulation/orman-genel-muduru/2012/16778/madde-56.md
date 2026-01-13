@@ -1,0 +1,3 @@
+Orman kadastro dosyalarının kıymetli eşya ve evraktan sayılması
+MADDE 56 – (1) Orman kadastro dosyası (Mülga ibare:RG-13/1/2026-33136), demirbaş ve kıymetli evraktan sayılır. Şube Müdürlüğü, İşletme Şefliği, kadastro mülkiyet şefliği görev değişikliklerinde devir ve teslim edilir.
+(2) (Ek:RG-13/1/2026-33136) Orman kadastro arşiv dosyası bulunan birimlerde ilgili belde, köy ve mahallenin kadastrosu ve mülkiyeti ile ilgili tüm yazışma, tescil, tahsis, mahkeme kararları, tapu senetleri, müfettiş incelemeleri ve benzeri bilgi ve belgeleri ayrı dosyalar halinde ilgili kadastro klasöründe arşivlenir.

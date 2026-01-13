@@ -1,0 +1,2 @@
+MADDE 32 – (1) Komisyonların bu Yönetmelik hükümlerini uygulamak üzere çalıştığı belde, mahalle ve köylerde hükmî şahsiyeti haiz amme müesseseleri ormanları ile hususî ormanlar sahipleri veya bu işlemleri yapma konusunda yetkilendirilmiş mesul müdür tarafından istendiği ve giderleri karşılandığı takdirde Komisyonlarca 2/B uygulaması yönünden incelemeye tabi tutulur.
+(2) Bu gibi yerlerde orman sınırları dışına çıkarılan yerler sahiplerine intikal eder.

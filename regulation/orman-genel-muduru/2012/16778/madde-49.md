@@ -1,0 +1,5 @@
+ONUNCU BÖLÜM
+Tescil ve Arşivleme
+Mahkeme kararına göre sınır düzeltmesi
+MADDE 49 – (1) (Değişik:RG-13/1/2026-33136) Asliye hukuk ve kadastro mahkemelerince, orman kadastro tutanak ve haritalarında düzeltmeyi gerektiren vasıf ve mülkiyet değişikliği hususunda verilen ve kesinleşen kararlar, işletme müdürlüklerince tapuya tescili sağlandıktan sonra işletme müdürlüklerinin talebi üzerine bölge müdürlüğünden görevlendirilecek bir orman kadastro başmühendisliğince uygulanır. Bölge müdürlüğünde faal orman kadastro başmühendisliği mevcut değil ise orman bölge müdürlüğünce Genel Müdürlükten orman kadastro başmühendisliği görevlendirilmesi talebinde bulunulur.
+(2) Görevli Orman Kadastro Başmühendisliğince uygulama yapılarak sınır değişikliği haritasına işlenir ve yeni duruma göre alanlar cetveli düzenlenir. Yargı kararı uygulama tutanağı orijinal tutanak defterine yazılmak suretiyle düzenlenir. Tutanak suretleri, yeni alanlar cetveli ve haritaları, orman kadastro dosyasının ilânı sonrası verilen birimlere dosyasına eklenmek üzere gönderilir.

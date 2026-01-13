@@ -1,0 +1,2 @@
+Çalışmaların takip ve koordinasyonu
+MADDE 39 – (1) Orman kadastro başmühendisliklerinin arazi ve büro çalışmalarının yıllık plân ve programlara göre gerçekleşme durumu ile çalışmaların mevzuata uygunluğu merkezden görevlendirilecek yetkililerce veya Bölge Müdürlüklerinin Şube Müdürünce yılda en az iki defa olmak üzere yerinde kontrol edilir ve (Değişik ibare:RG-13/1/2026-33136) kontrol sonucu düzenlenen raporlar ORBİS’e girilir.

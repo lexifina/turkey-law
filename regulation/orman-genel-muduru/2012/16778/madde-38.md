@@ -1,0 +1,6 @@
+Sınırlamanın ve 2/B uygulamasının bitirilmesi
+MADDE 38 – (1) Komisyonlar çalıştığı belde, mahalle veya köyün çalışma alanı sınırları içinde;
+a) Arazi, fotoğraf ve haritalar üzerinde yaptığı kontrol sonucu ayrıca bilirkişi beyanına göre sınırlaması yapılacak orman ve 6831 sayılı Kanunun 2 nci maddesinin birinci fıkrasının (B) bendine göre orman sınırları dışına çıkarılacak yer kalmadığına,
+b) Hükmî şahsiyeti haiz amme müesseseleri ormanları ile hususî ormanlara ait daha önce veya çalışmalar sırasında sınırlandırılmış ormanlarda, sahipleri tarafından talep edilmediği veya giderleri karşılanmadığı gerekçesi ile 2/B uygulaması yönünden incelemeye tâbi tutulmadığına,
+c) Muhafaza ormanı, millî park alanları, tabiat parkları, tabiatı koruma alanları (Ek ibare:RG-13/1/2026-33136) , mesire yerleri veya orman parkları, tohum bahçeleri, gen koruma alanları, Orman Genel Müdürlüğü tesislerinin bulunduğu alanlar, içme suyu havzalarının mutlak koruma alanları ve 6831 sayılı Kanunun 3 üncü maddesi ile orman rejimi içine alınan yerlerin bu niteliklerinin devam etmesi nedeni ile, izin ve irtifak hakkı tesis edilen ve yanan orman alanlarının 2/B uygulamasına konu edilmediğine,
+ilişkin tutanak düzenler.

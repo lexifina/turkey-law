@@ -1,0 +1,3 @@
+Kasaba ve şehir yerleşim alanları
+MADDE 28 – (Danıştay Sekizinci Dairesinin 16/1/2019 tarihli ve E.:2013/2802; K.:2019/129 sayılı kararı ile iptal madde; Danıştay İDDK’nın 15/3/2021 tarihli E.:2019/2669, K.:2021/490 sayılı Onama kararı ile mezkûr karar kesinleşmiştir.) (Yeniden Düzenleme:RG-13/1/2026-33136)
+Bir yerin; kasaba ve şehir toplu yerleşim alanı olarak orman sınırları dışına çıkarılabilmesi için, 31/12/1981 tarihinden önce bilim ve fen bakımından orman niteliğini tam olarak kaybetmiş olması, ormancılık faaliyetleri ve ekonomisi yönünden orman kurulmasında yarar olmaması ile birlikte, 3/5/1985 tarihli ve 3194 sayılı İmar Kanununun 5 inci maddesinde tanımlanan yapılardan birden çok yapıyı ihtiva eden yerlerden olması gerekir.

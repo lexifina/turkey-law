@@ -1,0 +1,4 @@
+Makilik sahalarda orman kadastrosu
+MADDE 20 – (1) Komisyonlarca, Yargıtay İçtihadı Birleştirme Büyük Genel Kurulunun 22/3/1996 tarihli ve E: 1993/5 K: 1996/1 sayılı Kararına uygun olarak 1950-1956 yılları arasında maki tefrik komisyonlarınca;
+a) Makiye tefrik edilen fakat tevzii yapılmayan veya tevzii yapılmış olup da tapuya bağlanmayan sahalardaki 6831 sayılı Kanunun 1 inci maddesi (İ) ve (J) istisna bentlerine girmeyen ormanlık alanlar Devlet ormanı olarak sınırlandırılır.
+b) Makiye tefrik edilip, çiftçiyi topraklandırma ve iskân mevzuatına göre tevzii yapılan, temlik kararı verilmiş ve tapuya bağlanmış yerlerde, tapu sınırları esas alınmak kaydıyla yüzölçümü üç hektardan küçük olan ağaçlık alanlar orman sınırları dışarısında bırakılır, tapu sınırları içerisindeki ağaçlık alanın bir bütün olarak yüzölçümü üç hektardan büyük ise (Değişik ibare:RG-27/12/2013-28864) hususi orman olarak sınırlandırılır.

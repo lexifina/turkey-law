@@ -1,0 +1,63 @@
+{
+  "source_id": "7.5.16778",
+  "kind": "regulation",
+  "register_kind": "Kurum ve Kuruluş Yönetmelikleri",
+  "title": "ORMAN KADASTROSU VE 2/B UYGULAMA YÖNETMELİĞİ",
+  "number": "16778",
+  "issuer": "Orman Genel Müdürü",
+  "issuer_slug": "orman-genel-muduru",
+  "path": "regulation/orman-genel-muduru/2012/16778",
+  "source": "https://www.mevzuat.gov.tr/anasayfa/MevzuatFihristDetayIframe?MevzuatTur=7&MevzuatNo=16778&MevzuatTertip=5",
+  "source_sha256": "0bf2117b76b1d92437816978923c6c56b41d42cea336746e3706db2ed249421f",
+  "source_bytes": 207859,
+  "published": "2012-11-20",
+  "gazette": "28473",
+  "in_force": "2026-01-13",
+  "in_force_basis": "latest Resmî Gazete date printed in the source amendment notes/table (\"RG-13/1/2026\") for the current consolidated text",
+  "date_evidence": [
+    [
+      "2026-01-13",
+      "RG-13/1/2026",
+      "Resmî Gazete date printed in the source amendment note"
+    ],
+    [
+      "2026-01-13",
+      "13/1/2026",
+      "Resmî Gazete date in the source amendment table"
+    ],
+    [
+      "2014-03-22",
+      "RG-22/3/2014",
+      "Resmî Gazete date printed in the source amendment note"
+    ],
+    [
+      "2014-03-22",
+      "22/3/2014",
+      "Resmî Gazete date in the source amendment table"
+    ],
+    [
+      "2013-12-27",
+      "RG-27/12/2013",
+      "Resmî Gazete date printed in the source amendment note"
+    ],
+    [
+      "2013-12-27",
+      "27/12/2013",
+      "Resmî Gazete date in the source amendment table"
+    ]
+  ],
+  "commencement_clauses": [
+    "Bu Yönetmelik yayımı tarihinde yürürlüğe girer"
+  ],
+  "history": "current-text",
+  "label": "oldest version available",
+  "checked_on": "2026-11-15",
+  "word_count": 13176,
+  "text_status": "current-consolidated",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  },
+  "completeness": "html-text-complete"
+}
