@@ -1,0 +1,4 @@
+Hizmet Akdi ve Çalışamama
+Madde 44 – (Değişik:RG-14/1/2026-33137)
+Çalışanlar listesine kayıtlı serbest muhasebeci mali müşavirler bu ünvanlarla, çalışanlar listesine kayıtlı yeminli mali müşavirler ise bu ünvan ve tasdik yetkisiyle; Kanunun 2 nci maddesinde yazılı işlerin yürütülmesi amacıyla gerçek ve tüzel kişilere tabi ve onların işyerlerine bağlı olarak hizmet akdi ile çalışamazlar. Hizmet akdi ile olsa dahi meslek mensuplarının ortağı oldukları mesleki şirketlerde veya bağımsız denetim kuruluşlarının denetim ekiplerinde yapacakları çalışmalar, bu yasak kapsamında değerlendirilmez.
+Birinci fıkra hükümlerine uygun olarak bir işyerine bağlı hizmet akdi ile çalışan meslek mensupları, çalıştıkları işletmelere ve bu işletmelerin doğrudan ya da dolaylı hissedarı ya da iştiraki olduğu işletmelere, Kanunun 2 nci maddesi kapsamında hizmet veremezler.

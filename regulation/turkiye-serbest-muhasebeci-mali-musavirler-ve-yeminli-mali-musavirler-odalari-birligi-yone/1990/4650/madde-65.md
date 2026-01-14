@@ -1,0 +1,1 @@
+Madde 65 - Kanunun 2 nci maddesinin (a), (b) ve (c) fıkralarında sayılan işleri, meslek mensubu unvanını kazanmaksızın birden fazla müessese veya kuruluşta yapanların faaliyetleri, Kanunun 3 üncü maddesinde hükme bağlanan meslek unvanlarının haksız kullanılması sayılır.

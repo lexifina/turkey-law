@@ -1,0 +1,15 @@
+Ortaklık Bürosu veya Şirket Kurarak Mesleki Faaliyette Bulunma
+Madde 30 - Birden çok meslek mensubu, ortaklık bürosu veya şirket kurarak mesleki faaliyette bulunabilirler.
+Bu takdirde;
+a) Meslek mensuplarının bu büro veya şirketlerde sürdürdükleri faaliyetler ticari faaliyet sayılmaz.
+b) (Değişik:RG-24/2/2025-32823) Ortaklık bürosu ancak aynı unvana sahip meslek mensupları arasında kurulabilir. Yeminli Mali Müşavirler ve Serbest Muhasebeci Mali Müşavirlerin birlikte şirket kurmaları halinde bu şirketlerde tasdik hizmeti verilemez, 3568 sayılı Kanunun 2 nci maddesinin A fıkrasının (a) bendinde yazılı işler yapılamaz. Bu şirketlerin ortakları, kendi bürolarında ya da ortağı oldukları başka mesleki şirketler aracılığıyla şirketin hizmet verdiği müşterilere defter tutma ve tasdik hizmeti veremezler. Bu şekilde kurulan şirketler, şirket merkezinin bulunduğu yerin bağlı olduğu ilde bulunan ve ortaklık hisselerinin çoğunluğuna sahip olan meslek grubunun odasına kaydedilir. Bu şirketlerin ortakları, şirketin tescilini takip eden 30 gün içerisinde ortaklık durumlarını kayıtlı oldukları odaya bildirirler.
+c) Kanunda belirtilen kendi faaliyet konuları dışında başka işlerle uğraşamazlar.
+d) Şirket veya ortaklık bürosu, mesleğin icrasına taalluk eden işlerde ancak ortak veya ortaklar tarafından temsil edilebilir.
+e) Varislere intikal eden hisselerin en geç bir yıl içinde tasfiye edilmeleri gerekir. Bu müddet içinde mirasçılar meslek mensubu sayılmaz ve mesleki faaliyette bulunamazlar.
+f) Ortaklık bürosu veya şirketlerde yapılan işlerden doğacak cezai sorumluluk işi yapan meslek mensubuna aittir.
+g) Ortaklık bürosu veya şirketlerin unvanında meslek unvanının açık şekilde kullanılması zorunludur. (Ek cümle:RG-24/2/2025-32823) (b) bendi uyarınca kurulan şirketlerin unvanında, şirket ortaklık hisselerinin yarısından fazlasına sahip olan meslek grubunun unvanı kullanılır.
+h) (Mülga:RG-14/1/2026-33137)
+ı) (Ek:RG-22/5/2015-29363) (Danıştay Sekizinci Dairesinin 25/10/2019 tarihli ve E.:2015/7967; K.:2019/9260 sayılı kararı ile iptal bent; Danıştay İDDK’nın 18/10/2021 tarihli E.:2020/1563, K.:2021/1889 sayılı Onama kararı ile mezkûr karar kesinleşmiştir.)
+i) (Ek:RG-22/5/2015-29363) Çalışanlar listesine kayıtlı olmayan veya farklı odanın çalışanlar listesine kayıtlı olan meslek mensupları ortaklık bürosu kuramazlar. Ortaklık büroları şube açamazlar.
+(Ek fıkra:RG-14/1/2026-33137) Mesleki şirketler ve ortaklık büroları, başka mesleki şirket ve ortaklık bürolarına ortak olmazlar.
+(Ek fıkra:RG-14/1/2026-33137) Bir meslek mensubunun çalışmalarını sürdürdüğü bireysel büro faaliyeti var ise bu meslek mensubu aynı zamanda farklı bir adreste mesleki şirket kurarak veya kurulu şirkete ortak olarak bu şirkette de mesleki faaliyette bulunamaz. Aynı adreste şirket kurarak ya da kurulu şirkete ortak olarak mesleki faaliyet icrası mümkündür. Meslek mensupları, kendi bireysel faaliyetlerinin ya da şirket yetkililiklerinin yanı sıra aynı adreste olup olmadığına bakılmaksızın bağımsız denetim amacıyla kurulmuş bir mesleki şirkette de yetki kullanabilirler.

@@ -1,0 +1,2 @@
+Denetimin Planlaması
+Madde 53 - 52 nci maddede belirlenen hususlar bu değerlendirmede dikkate alınarak planlama yapılır. Denetimin zaman sürecini, denetimde görevlendirilecek eleman sayısını ve iş bölümünü, iç kontrol organizasyonundan yararlanıp yararlanılmayacağını, denetimde ağırlık verilecek hususları içeren yazılı bir denetleme programı yetkili meslek mensubu tarafından hazırlanır ve çalışma dosyası açılarak denetime başlanır.

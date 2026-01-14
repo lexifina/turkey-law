@@ -1,0 +1,2 @@
+Sorumluluk
+Madde 41 - Yeminli mali müşavirler, ilgili Kanunlar, yönetmelikler ve tebliğlere göre yaptıkları tasdikin doğruluğundan sorumludurlar. Yaptıkları tasdikin doğru olmaması halinde, tasdikin kapsamı ile sınırlı olmak üzere, ziyaa uğratılan vergilerden ve kesilecek cezalardan mükellefle birlikte müştereken ve müteselsilen sorumlu olurlar. Yeminli mali müşavirler yaptıkları tasdikin kapsamını raporda açıkça belirtirler.

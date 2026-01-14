@@ -1,0 +1,2 @@
+Defter ve Belgelerin Saklanması ve İadesi
+Madde 27 - Meslek mensupları kendilerine tevdi edilen defter ve belgeleri işlerinin gerektirdiği süre içinde iyi niyetle muhafaza etmek ve işin bitiminde iade etmek zorundadırlar. Şu kadar ki, defter ve belgelerin geri alınması, sahibine yazı ile bildirilmiş olduğu hallerde saklama mükellefiyeti bildirme tarihinden itibaren bir ay içinde sona erer. İşin bitiminden itibaren bir ay içinde sahipleri tarafından alınmayan defter ve belgeler bir yazı ile ilgililerin bağlı olduğu vergi dairesine teslim edilir.

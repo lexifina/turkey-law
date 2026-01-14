@@ -1,0 +1,2 @@
+Tasdik Edemeyeceği İşler
+Madde 39 - Yeminli mali müşavirler kendisinin, eşinin (boşanmış dahi olsa) usul ve füruundan birinin ve 3 üncü dereceye kadar (bu derece dahil) kan ve sıhri hısımlarının veya bunların yönetici oldukları veya yönetimde görev alarak ortak oldukları firmaların işlerine bakamazlar. Yukarıda sayılan yakınlıktaki akrabaları olan (Mülga ibare:RG-22/5/2015-29363) (…) serbest muhasebeci mali müşavirlerin baktığı işleri tasdik edemezler.

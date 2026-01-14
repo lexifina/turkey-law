@@ -1,0 +1,3 @@
+İnceleme ve Nakil Talebinin Kabulü
+Madde 33 - (Değişik birinci fıkra:R.G-21/11/2007-26707) Başvurulan oda yönetim kurulu, nakil başvurusu üzerine gerekli incelemeleri yapar. Talebin kabulü hâlinde meslek mensubunu odaya kayıt eder. Kayıt günü, Birliğe ve meslek mensubunun önceden kayıtlı olduğu odaya bildirilir. Eski oda, bu bildiri üzerine meslek mensubunun adını kayıtlardan siler ve dosyasını naklettiği odaya gönderir. Varsa, devam eden disiplin soruşturması eski odaca sürdürülür. Sonuçları ayrıca nakil gittiği odaya bildirilir.
+Başvurulan oda yönetim kurulu nakil talebinin odaya varış tarihinden itibaren 1 ay içinde bir karar vermezse nakil talebi kabul edilmiş sayılır.

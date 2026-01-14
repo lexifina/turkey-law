@@ -1,0 +1,4 @@
+Çalışanlar listesinden silme kararı (Değişik başlık:RG-22/5/2015-29363)
+Madde 36 – (Mülga fıkra:RG-22/5/2015-29363)
+(Değişik ikinci fıkra:RG-14/1/2026-33137) Çalışanlar listesinden silme kararı, gerekçeli olmak zorundadır. Meslek mensubu, 35 inci maddenin birinci fıkrasının (a) bendinde belirtilen tespit ve (b) bendi uyarınca verilen karara karşı kararın tebliği tarihinden itibaren on beş gün içinde Birliğe itirazda bulunabilir. Birlik, bu itirazı on beş gün içinde nihai olarak karara bağlar.
+Meslek mensubu, silme kararı kesinleşinceye kadar mesleğini yapma hakkına sahiptir, ancak, karar kesinleştikten sonra mesleki faaliyette bulunamaz. Şu kadar ki; oda disiplin kurulu, kamu yararı bakımından gerekli gördüğü hallerde, yönetim kurulunun çalışanlar listesinden silme kararı üzerine, meslek mensubunun geçici olarak mesleki faaliyette bulunmasını yasaklayabilir.

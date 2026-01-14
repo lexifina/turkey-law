@@ -1,0 +1,2 @@
+Kanunsuz İşlemleri Bildirim Yükümlülüğü
+Madde 57 - Meslek mensupları; mesleki sorumluluğunun bilincinde, denetim faaliyeti sırasında mevzuat hükümlerine aykırı hatalı ve hileli işlemleri tespit ettikleri takdirde, müşterilerine hata ve hilelerin düzeltilmesini teklif ederler. Bu teklife rağmen, hata ve hilelerin düzeltilmemesi halinde durum Yönetmeliğin 59. maddesinin (c) bendinde belirtilen olumsuz raporla ilgili mali mercilere aksettirilir. Adli yargıya, intikali gerekli olan ve suç teşkil eden hallerin yetkili mercilere duyurulması mecburidir.
