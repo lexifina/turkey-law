@@ -1,0 +1,20 @@
+{
+  "number": "128",
+  "title": "ÜCRETE TABİ İŞLER TARİFESİ",
+  "issuer": "Tekirdağ Büyükşehir Belediye Meclisi",
+  "decision_date": "2026-01-14",
+  "in_force": "2026-01-14",
+  "in_force_basis": "Birleşim Tarihi: 14.01.2026; the PDF states no separate commencement date, so this dates adoption only",
+  "history_type": "as-enacted",
+  "text_status": "official-summary-only; full decision text held",
+  "missing": [
+    "complete decision text from official PDF"
+  ],
+  "source": "https://www.tekirdag.bel.tr/meclis_donemleri/meclis_karar_ozetleri/2746",
+  "source_sha256": "eef51f8eaef120e7a7e1ff8cd1fbc342a5f8ea58481b9072f14e7c67df7f2d2d",
+  "official_document": "https://www.tekirdag.bel.tr/karar_metin_goruntule/2746/128",
+  "official_document_sha256": "555c17b32e4a84911404e33e8616ea2600385f28bf42b7b6a92098195e9fb5e4",
+  "source_images": 0,
+  "referenced_images": 0,
+  "omitted_images": 0
+}
