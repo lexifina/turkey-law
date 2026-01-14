@@ -1,0 +1,5 @@
+Oda Disiplin Kurulu
+Madde 19 – (Değişik madde:RG-25/12/2012-28508)
+Oda Disiplin Kurulu, üye sayısı 50’ye kadar olan odalarda üç, üye sayısı 50’den fazla olan odalarda beş üyeden oluşur. Ayrıca, Disiplin Kurulu üyesi 3 olan Odalarda bir, 5 olan Odalarda 3 yedek üye seçilir. Disiplin Kurulu üyeleri arasında boşalma olursa, yerlerine ilgili seçim kurulu tarafından verilen mazbatada yer alan en çok oy alan yedek üyeler getirilir.
+Disiplin Kurulu üyeleri, kayıtlı olduğu meslek odasında en az üç yıl kıdemli olup serbest veya bir işyerine bağlı olarak Kanun hükümlerine göre fiilen mesleki faaliyette bulunanlar arasından üç yıl için seçilir. Üye sayısı yüzden az olan odalarda üç yıllık süre şartı aranmaz. Süresi dolan üye yeniden seçilebilir. Üyeler kendi aralarında bir başkan seçerler. Disiplin Kurulu en az üç kişinin hazır bulunmasıyla toplanır. Kararlar üye tam sayısının salt çoğunluğu ile verilir. Oylarda eşitlik halinde Başkanın bulunduğu taraf üstün tutulur, Oda Disiplin Kurulunun kararlarına karşı tebliğ tarihinden itibaren otuz gün içinde Birlik Disiplin Kuruluna itiraz edilebilir.
+Başkanın bulunmadığı zamanlarda meslekte en kıdemli üye Kurula başkanlık eder.

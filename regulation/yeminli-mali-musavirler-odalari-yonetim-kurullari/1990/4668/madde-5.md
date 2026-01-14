@@ -1,0 +1,3 @@
+Odanın Kuruluşu
+Madde 5- (Değişik birinci fıkra:RG-25/12/2012-28508) Bölgesi içinde kendi mesleği konusunda en az 250 meslek mensubu bulunan il merkezlerinde ve bölgesi içinde 250 meslek mensubu bulunan ilçelerde (Büyükşehir belediyesi sınırları içindeki ilçeler hariç) bir oda kurulur. Yeminli mali müşavirler odaları, bulundukları ilin veya ilçenin adıyla anılır. Ancak, ilçelerde oda kurulabilmesi için o ilçedeki en az 100 meslek mensubunun yazılı başvurusu aranır.
+Odalar, kuruluşlarını Birlik Yönetim Kurulu aracılığıyla (Değişik ibare:RG-17/09/2007-26646) Maliye Bakanlığı'na bildirmekle tüzel kişilik kazanırlar.
