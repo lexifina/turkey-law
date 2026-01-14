@@ -1,0 +1,63 @@
+{
+  "source_id": "7.5.4649",
+  "kind": "regulation",
+  "register_kind": "Kurum ve Kuruluş Yönetmelikleri",
+  "title": "SERBEST MUHASEBECİ MALİ MÜŞAVİRLER ODALARI YÖNETMELİĞİ",
+  "number": "4649",
+  "issuer": "Serbest Muhasebeci Mali Müşavirler Odaları Yönetim Kurulları",
+  "issuer_slug": "serbest-muhasebeci-mali-musavirler-odalari-yonetim-kurullari",
+  "path": "regulation/serbest-muhasebeci-mali-musavirler-odalari-yonetim-kurullari/1990/4649",
+  "source": "https://www.mevzuat.gov.tr/anasayfa/MevzuatFihristDetayIframe?MevzuatTur=7&MevzuatNo=4649&MevzuatTertip=5",
+  "source_sha256": "7a781a32839416081c286dd4eb36ab2c8b59e5e316166fb02f559a63defdc367",
+  "source_bytes": 86533,
+  "published": "1990-02-21",
+  "gazette": "20440",
+  "in_force": "2026-01-14",
+  "in_force_basis": "latest Resmî Gazete date printed in the source amendment notes/table (\"RG-14/1/2026\") for the current consolidated text",
+  "date_evidence": [
+    [
+      "2026-01-14",
+      "RG-14/1/2026",
+      "Resmî Gazete date printed in the source amendment note"
+    ],
+    [
+      "2025-02-24",
+      "RG-24/2/2025",
+      "Resmî Gazete date printed in the source amendment note"
+    ],
+    [
+      "2015-08-04",
+      "RG-4/8/2015",
+      "Resmî Gazete date printed in the source amendment note"
+    ],
+    [
+      "2012-12-25",
+      "RG-25/12/2012",
+      "Resmî Gazete date printed in the source amendment note"
+    ],
+    [
+      "2007-12-19",
+      "RG-19/12/2007",
+      "Resmî Gazete date printed in the source amendment note"
+    ],
+    [
+      "2007-09-27",
+      "RG-27/09/2007",
+      "Resmî Gazete date printed in the source amendment note"
+    ]
+  ],
+  "commencement_clauses": [
+    "Bu Yönetmelik yayımı tarihinden itibaren yürürlüğe girer"
+  ],
+  "history": "current-text",
+  "label": "oldest version available",
+  "checked_on": "2026-11-15",
+  "word_count": 5211,
+  "text_status": "current-consolidated",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  },
+  "completeness": "html-text-complete"
+}

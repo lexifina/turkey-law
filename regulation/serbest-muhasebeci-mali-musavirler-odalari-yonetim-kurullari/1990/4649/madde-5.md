@@ -1,0 +1,3 @@
+Odanın Kuruluşu
+Madde 5 – (Değişik fıkra :RG-25/12/2012-28508) Bölgesi içinde kendi mesleği konusunda en az 250 meslek mensubu bulunan il merkezlerinde ve bölgesi içinde 250 meslek mensubu bulunan ilçelerde (büyükşehir belediyesi sınırları içindeki ilçeler hariç) bir oda kurulur. Serbest muhasebeci mali müşavirler odaları, bulundukları ilin veya ilçenin adıyla anılır. Ancak, ilçelerde oda kurulabilmesi için o ilçedeki en az 100 meslek mensubunun yazılı başvurusu aranır.
+Odalar, kuruluşlarını Birlik Yönetim Kurulu aracılığıyla (Değişik ibare:RG-27/09/2007-26656) Maliye Bakanlığı'na bildirmekle tüzel kişilik kazanırlar.
