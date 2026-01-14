@@ -1,0 +1,53 @@
+{
+  "source_id": "7.5.24715",
+  "kind": "regulation",
+  "register_kind": "Kurum ve Kuruluş Yönetmelikleri",
+  "title": "TÜRKİYE SERBEST MUHASEBECİ MALİ MÜŞAVİRLER VE YEMİNLİ MALİ MÜŞAVİRLER ODALARI BİRLİĞİ SÜREKLİ MESLEKİ GELİŞTİRME EĞİTİMİ YÖNETMELİĞİ",
+  "number": "24715",
+  "issuer": "TÜRMOB Yönetim Kurulu",
+  "issuer_slug": "turmob-yonetim-kurulu",
+  "path": "regulation/turmob-yonetim-kurulu/2018/24715",
+  "source": "https://www.mevzuat.gov.tr/anasayfa/MevzuatFihristDetayIframe?MevzuatTur=7&MevzuatNo=24715&MevzuatTertip=5",
+  "source_sha256": "16e8e8271af24c7c66834ffe70c02a793a33486b24fa5e507737643cc51e8115",
+  "source_bytes": 55288,
+  "published": "2018-06-23",
+  "gazette": "30457",
+  "in_force": "2026-01-14",
+  "in_force_basis": "latest Resmî Gazete date printed in the source amendment notes/table (\"RG-14/1/2026\") for the current consolidated text",
+  "date_evidence": [
+    [
+      "2026-01-14",
+      "RG-14/1/2026",
+      "Resmî Gazete date printed in the source amendment note"
+    ],
+    [
+      "2026-01-14",
+      "14/1/2026",
+      "Resmî Gazete date in the source amendment table"
+    ],
+    [
+      "2023-03-29",
+      "RG-29/3/2023",
+      "Resmî Gazete date printed in the source amendment note"
+    ],
+    [
+      "2023-03-29",
+      "29/3/2023",
+      "Resmî Gazete date in the source amendment table"
+    ]
+  ],
+  "commencement_clauses": [
+    "Bu Yönetmelik yayımı tarihinde yürürlüğe girer"
+  ],
+  "history": "current-text",
+  "label": "oldest version available",
+  "checked_on": "2026-11-15",
+  "word_count": 2585,
+  "text_status": "current-consolidated",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  },
+  "completeness": "html-text-complete"
+}
