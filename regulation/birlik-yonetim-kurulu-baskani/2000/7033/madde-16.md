@@ -1,0 +1,6 @@
+Oda ve Birlik Kurulu Üyeleri Hakkında Soruşturma
+Madde 16 — (Değişik:RG-14/1/2026-33137)
+Oda yönetim ve denetleme kurulu başkan ve üyeleri hakkında bu görevleri ile ilgili olarak yapılacak şikayetler, şikayet dilekçesinin oda genel kuruluna sunulmasının gerekip gerekmediği yönünden Birlik Yönetim Kurulunca incelenir. Birlik Yönetim Kurulunun şikayet dilekçesinin ilgili oda genel kuruluna sunulmasının gerektiği yönündeki kararları üzerine şikayet dilekçesi genel kurula sunulur. Oda genel kurulunun disiplin soruşturmasına karar vermesi halinde; bu odanın disiplin kurulu, Kanun ve bu Yönetmelik hükümlerine göre gerekli inceleme ve araştırmaları yaparak kararını verir. Birlik Yönetim Kurulunun aksi yöndeki kararları kesindir.
+Birlik yönetim ve denetleme kurullarının başkan ve üyeleri hakkında bu görevleri nedeniyle yapılacak soruşturma ise, Birlik Genel Kurulu’nun kararı üzerine Birlik Disiplin Kurulu’nca yürütülerek karara bağlanır.
+Birlik ve Oda disiplin kurulu başkan ve üyeleri, verdikleri kararlar dolayısıyla disiplin soruşturmasına tabi tutulamazlar.
+Yönetim kurulu başkan ve üyelerinin yönetsel tercihlerinin ve yönetim politikalarının eleştirisi niteliğinde olan ya da yargı makamları önünde de ileri sürülebilecek iddiaları içeren şikayet dilekçeleri işleme konulmaz.

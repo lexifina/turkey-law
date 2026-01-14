@@ -1,0 +1,5 @@
+Kovuşturmaya Yer Olmadığına İlişkin Kararlara İtiraz (Değişik başlık:RG-7/10/2023-32332)
+Madde 21 — İlgili oda (Değişik ibare:RG-7/10/2023-32332) yönetim kurulunun kovuşturmaya yer olmadığına ilişkin kararlarına karşı; bu kararların bildirim tarihinden itibaren 30 gün içinde şikayetçi (Ek ibare:RG-7/10/2023-32332) , ihbarcı veya istemde bulunan tarafından Birlik Disiplin Kuruluna itiraz edilebilir.
+(Mülga fıkra:RG-7/10/2023-32332)
+(Değişik:RG-7/10/2023-32332) Birlik Disiplin Kurulu tarafından dosya üzerinde yapılacak inceleme sonunda ihbar, şikayet veya istem konusu incelemeye değer görülürse, ilgili oda yönetim kurulunun kararı kaldırılarak, disiplin kovuşturması açılması için dosya ilgili oda disiplin kuruluna gönderilir. Birlik Disiplin Kurulu bazı hallerde soruşturmanın derinleştirilip, yeniden Oda Yönetim Kurulunca karar verilmesini isteyebilir. Birlik Disiplin Kurulunun bu kararları kesindir.
+(Ek:RG:8/1/2002-24634) Birlik Disiplin Kurulu tarafından şikayetçinin itirazı red edilirse şikayetçi red kararına karşı idari yargı merciine başvurabilir.

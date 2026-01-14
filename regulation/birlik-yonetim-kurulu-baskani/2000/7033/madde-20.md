@@ -1,0 +1,5 @@
+Disiplin Soruşturması Sonucu Verilecek Karar (Değişik başlık:RG-7/10/2023-32332)
+Madde 20 — İlgili oda yönetim kurulu (Mülga ibare:RG-7/10/2023-32332) dosyayı ve raporu inceleyerek, hakkında şikayet veya ihbarda bulunulan meslek mensubu için disiplin kovuşturması başlatılmasına yer olmadığına ilişkin karar verebilir.
+Bu kararda ihbar veya şikayette bulunanın adı ve adresi, şikayet olunan meslek mensubunun kimliği, atılı olan eylem ve kanıtlar ile gerekçe gösterilir.
+Disiplin kovuşturmasına yer olmadığına ilişkin oda yönetim (Mülga ibare:RG-7/10/2023-32332) kurulu kararı; hakkında soruşturma açılmış meslek mensubuna ve varsa ihbar, şikayet veya istemde bulunana, (Değişik ibare:RG-7/10/2023-32332) soruşturma sonucu verilecek karar tarihinden itibaren en geç 3 ay içerisinde yazılı olarak bildirilir.
+(Ek:RG-7/10/2023-32332) İlgili oda yönetim kurulunun soruşturma geçiren meslek mensubu hakkında vereceği disiplin kovuşturması açılması kararı kesindir. Bu durumda soruşturma dosyası disiplin kovuşturması yapılmak üzere oda disiplin kuruluna gönderilir.

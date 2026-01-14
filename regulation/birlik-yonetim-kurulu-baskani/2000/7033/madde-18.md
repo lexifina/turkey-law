@@ -1,0 +1,3 @@
+İlk İnceleme
+Madde 18 — (Değişik:RG-27/09/2007-26656) İlgili Oda yönetim kurulu, ivedi durumlar hariç olmak üzere, ihbar, şikâyet veya istem konusunun bildirilmesinden itibaren en geç iki ay içinde ihbar, şikâyet veya istem konusunu incelemek zorundadır.
+(Değişik:RG-7/10/2023-32332) İhbar, şikâyet veya istem konusu husus meslek mevzuatından kaynaklanmıyor veya açıkça bu Yönetmelik uyarınca bir yaptırıma bağlanmıyor ise Yönetim Kurulu, gerekçesini de belirtmek suretiyle olay hakkında soruşturma açılmasına yer olmadığı kararı verebilir. Bu karar derhal başvuru sahibine bildirilir. Başvuru sahibinin bu karara karşı tebliğ tarihinden itibaren 30 gün içerisinde Birlik Disiplin Kuruluna itiraz hakkı mevcuttur.

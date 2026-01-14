@@ -1,0 +1,2 @@
+Yeminli Sıfatını Kaldırma Cezası
+Madde 8 — Yeminli Mali Müşavirlerin, mükerrer şekilde, tasdike ilişkin yasal düzenlemelerdeki ilke ve kurallarla, ilan olunmuş norm ve standartlara kasten aykırı davrandıklarının veya tasdik yetkilerini mükerreren kasten gerçeğe aykırı olarak kullandıklarının anlaşılması ve bu durumun mahkeme kararı ile kesinleşmesi halinde, Yeminli sıfatını kaldırma cezası verilir ve mühürü geri alınır.

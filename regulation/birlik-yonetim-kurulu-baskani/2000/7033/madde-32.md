@@ -1,0 +1,2 @@
+Disiplin Kurulu Üyelerinin Reddi ve Çekilme
+Madde 32 — Disiplin kurulu üyeleri; (Değişik ibare:RG-4/8/2015-29435) Ceza Muhakemesi Kanununda yazılı sebeplerle reddedilebilir veya duruşmadan çekilebilirler. Bunların yerine yedek üyeler kurullara katılırlar. Red istemi reddi istenen üyenin dışındaki üyelerin toplanması suretiyle incelenir. Red veya çekilme sebebiyle disiplin kurulunun toplanamaması halinde yetkili disiplin kurulunu Birlik belirler.
