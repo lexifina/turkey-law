@@ -1,0 +1,2 @@
+Hakimin Onayladığı Listenin İlanı
+Madde 44- Hakim, gerektiğinde ilgili kayıt ve belgeleri de getirtip incelemek suretiyle varsa noksanları tamamlattırdıktan sonra seçime katılacak üyeleri belirleyen listeler ile bu Yönetmeliğin yukarıdaki maddede belirtilen diğer hususları onaylar. Onaylanan listeler ile toplantıya ait diğer hususlar Birlik ilan yerlerinde asılmak suretiyle üç gün süre ile ilan edilir.

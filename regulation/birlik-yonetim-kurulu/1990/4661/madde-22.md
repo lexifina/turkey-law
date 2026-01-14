@@ -1,0 +1,2 @@
+Yönetim Kurulu Başkanı, Genel Sekreter ve Muhasip Üye
+Madde 22- Yönetim Kurulu ilk toplantısında kendi üyeleri arasından bir Başkan, bir Başkan Yardımcısı, bir Genel Sekreter ile bir Muhasip Üye seçer. (Değişik ikinci cümle:RG-25/12/2012-28508) Yönetim Kurulu Başkanı, en az beş yıl süreyle yeminli mali müşavirlik yapmış olanlar arasından seçilir. Başkanın bulunmadığı hallerde Başkan Yardımcısı Yönetim Kurulu'na başkanlık eder.
