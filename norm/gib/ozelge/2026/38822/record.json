@@ -1,0 +1,22 @@
+{
+  "kind": "norm",
+  "issuer": "Gelir İdaresi Başkanlığı",
+  "document_type": "ozelge",
+  "number": "E-38418978-120[Mük 20-2025/1]-25669",
+  "source_id": 38822,
+  "date": "2026-01-14",
+  "title": "Youtube ve Kişisel İnternet Sitesi Üzerinden Ürün Tanıtımı Yapılması Sonucu Elde Edilen Kazancın Mükerrer 20/B Kapsamında Değerlendirilip Değerlendirilmeyeceği",
+  "source": "https://gib.gov.tr/mevzuat/kanun/433/ozelge/38822",
+  "related_law": "193 sayılı GELİR VERGİSİ KANUNU",
+  "source_api": "https://gib.gov.tr/api/gibportal/mevzuat/ozelge/list",
+  "source_listing": "evidence/list/2026-11-16/ozelge-p009.json",
+  "source_listing_sha256": "9cb52b4963a9a177a23948f6e28c12936c2f43c88a0b410872bb81c01983667c",
+  "source_sha256": "a6f2ba50cb3b6d83b7c742e51cb87a32624570a0f83bfe9c10fa4631ec545e95",
+  "text_status": "as-enacted",
+  "text_file": "metin.md",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  }
+}
