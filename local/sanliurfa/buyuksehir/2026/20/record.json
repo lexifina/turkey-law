@@ -1,0 +1,24 @@
+{
+  "number": "20",
+  "number_as_published": "20",
+  "year": 2026,
+  "title": "Nazım İmar Planı Değişikliği (Karaköprü - Doğukent)",
+  "decision_date": "2026-01-14",
+  "source": "https://www.sanliurfa.bel.tr/icerik/22203/106/nazim-imar-plani-degisikligi-karakopru---dogukent",
+  "official_document": null,
+  "source_sha256": "8c469dff37e96c508e99d835837a9e41e22d31c02b3bc70c23722904d263df09",
+  "issuer": "Şanlıurfa Büyükşehir Belediye Meclisi",
+  "history_type": "metadata",
+  "text_status": "metadata-only: decision number, date and subject from the official announcement; the decision text is not published on the page",
+  "in_force": "2026-01-14",
+  "in_force_basis": "Decision date as printed in the official council listing: 14.01.2026 tarih ve 20 sayılı (council decision cited in the official announcement); adoption date of the council decision; legal commencement not asserted",
+  "missing": [
+    "complete official decision text",
+    "official annexes"
+  ],
+  "law_text_complete": false,
+  "privacy_withheld": false,
+  "record_scope": "one council decision, as cited in the municipality's official plan announcement (ilan)",
+  "announcement_date": "2026-01-29",
+  "listing": "https://www.sanliurfa.bel.tr/kategori/82/0/meclis-kararlari?page=1"
+}
