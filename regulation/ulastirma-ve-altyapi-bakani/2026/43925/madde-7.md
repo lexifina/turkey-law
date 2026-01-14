@@ -1,0 +1,4 @@
+İhraç amaçlı başlayıp ihraç edilemeyip Türk Bayrağı çekecek olan gemiler
+MADDE 7- (1) İhraç amaçlı inşa veya tadil edilen veya inşasına başlanan gemi ve su araçlarının ihraç edilmeyerek Türk Bayrağı çekmesi durumlarında, ihraç edilmeme sebeplerini gösterir evrak, Türk Bayrağına geçme talebine bulunduğu tarihten itibaren bir ay içerisinde liman başkanlığına sunulur.
+(2) Birinci fıkrada belirtilen gemi ve su araçlarından, Türk Bayrağı çekileceği belirlenen tarihten itibaren tam boyu 12 metre ve üzerinde olanları için, 5 inci maddede yer alan Türk Bayraklı gemi ve su araçları için belirlenmiş kurallar uygulanır.
+(3) Sözleşme veya yazılı beyanlarına dayanarak klassız olarak ihraç amaçlı inşa veya tadil edilen ya da inşasına başlanan gemi ve su araçlarının ihraç edilmeyerek Türk Bayrağı çekilmesi durumlarında 15 inci maddenin ikinci fıkrasında yer alan hükümler uygulanır.
