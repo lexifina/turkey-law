@@ -1,0 +1,10 @@
+Görevde yükselme suretiyle atama işlemleri
+Madde 15 – (Başlığı ile birlikte değişik:RG-7/6/2014-29023)
+Atanmaya hak kazanan personel, başarı listesinin kesinleşmesinden sonra puan sıralamasına göre atanır.
+(Değişik fıkra:RG-24/5/2019-30783) Genel Müdürlükçe tercih alınması durumunda, başarı sıralaması esas alınarak ilgili personelin tercihlerine göre atamaları yapılır. Genel Müdürlükçe hizmet ve ihtiyaç durumu dikkate alınarak, tercihler nedeniyle boş kalan kadrolara, ilgili personelin tercihlerine bağlı kalınmaksızın re’sen atama yapılabilir.
+Duyurulan kadrolardan;
+a) Atama şartlarını taşımaması nedeniyle sınavlarının geçersiz sayılması veya bu sebeple atama işleminin iptal edilmesi, atanılan göreve geçerli bir mazeret olmaksızın süresi içinde başlamaması ya da atanma hakkından vazgeçmesi,
+b) Emeklilik, ölüm, memurluktan çekilme veya çıkarılma, başka unvanlı kadrolara ya da başka bir kuruma naklen atama yapılması,
+sebepleriyle boş kalan veya boşalan kadrolara, başarı sıralamasının ilan edildiği tarihten itibaren altı aylık süreyi aşmamak üzere aynı unvanlı kadrolar için yapılacak müteakip sınava ilişkin duyuruya kadar yedekler arasından başarı sıralamasına göre atama yapılabilir.
+Görevde yükselme sınavına herhangi bir sebeple katılmayanlar ile başarısız olan veya yedeklerden altı aylık süreyi aşmamak üzere müteakip sınava ilişkin duyuruya kadar atanmamış olanlar ya da atanma haklarından herhangi bir sebeple feragat edenler, aynı unvanlı kadrolara yapılacak atamalar için bu Yönetmelikte öngörülen usul ve esaslara tabidir.
+(Değişik fıkra:RG-15/1/2026-33138) Görevde yükselme veya unvan değişikliği suretiyle başka kadrolara atananlar, 10/7/2003 tarihli ve 25164 sayılı Resmî Gazete'de yayımlanan Adalet Bakanlığı Memur Sınav, Atama ve Nakil Yönetmeliğinin 25 inci ve 28 inci maddelerinde sayılan sağlık veya can güvenliği mazeretleri dışında üç yıl süreyle başka yere naklen atanamazlar. Bu kişiler atanma tarihinden önceki mazeretlerine dayanarak naklen atanma talebinde bulunamazlar.

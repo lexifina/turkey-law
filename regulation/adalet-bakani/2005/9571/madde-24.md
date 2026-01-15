@@ -1,0 +1,2 @@
+Naklen Atamalar
+Madde 24 — Aynı unvana veya bu unvanın bulunduğu aynı alt gruptaki diğer unvanlara naklen atama yapılabilir. Diğer personel kanunlarına tâbi olanların 657 sayılı Devlet Memurları Kanununa tâbi görevlere atanmalarında ihraz ettikleri unvanlar aynı unvanın olmaması durumunda öğrenim durumu ve ihraz ettiği unvanla birlikte atanacağı unvan Devlet Personel Başkanlığı’nın olumlu görüşü dikkate alınarak belirlenir.

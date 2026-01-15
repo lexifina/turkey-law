@@ -1,0 +1,1 @@
+Geçici Madde 1 – Bu Yönetmeliğin yürürlüğe girdiği tarihte, ilanları yapılan ve devam eden görevde yükselme eğitimleri için Ceza İnfaz Kurumları ve Tutukevleri Personeli Görevde Yükselme Yönetmeliği hükümleri uygulanır.
