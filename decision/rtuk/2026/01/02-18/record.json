@@ -1,0 +1,15 @@
+{
+  "issuer": "Radyo ve Televizyon Üst Kurulu (RTÜK)",
+  "record_type": "Üst Kurul Kararı",
+  "meeting": "2026/02",
+  "meeting_date": "2026-01-15",
+  "meeting_date_as_published": "15.1.2026",
+  "decision_no": "18",
+  "source_id": 20675,
+  "title": "RTÜK kararı 2026/02-18",
+  "source": "https://www.rtuk.gov.tr/UstKurulKarar/Detay/20675",
+  "source_sha256": "78f3c5895ec626654d8449866377da31d59af27dc76f4da2f9ed7da440f5903f",
+  "text_status": "metadata-only",
+  "metadata_only_reason": "possible private person name(s) in the official text (8 match(es)); full text withheld, official link only",
+  "law_text_complete": false
+}
