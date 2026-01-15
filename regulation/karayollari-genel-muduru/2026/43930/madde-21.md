@@ -1,0 +1,4 @@
+İdarenin görev ve sorumluluğu
+MADDE 21- (1) İdare, 20 nci maddede yazılı süre içinde sözleşme yapılması hususunda kendisine düşen görevleri yapmak ve taşınmazların satışında ve trampasında, ferağa ait işlemleri tamamlamak, şartnamede belirtilen sınır ve evsafa göre; satılan, trampa edilen, kiraya verilen taşınmazları müşteriye teslim etmekle yükümlüdür. Bu yükümlülüğün yerine getirilmemesi hâlinde müşteri, sürenin bitiminden itibaren on beş gün içinde, on gün müddetli bir noter ihtarnamesiyle bildirmek şartıyla taahhüdünden vazgeçebilir. Bu takdirde teminat geri verilir. Müşteri, ihaleye girmek ve teminat vermek için yaptığı masrafları istemeye hak kazanır.
+(2) Tebligatın, 15 inci maddedeki sürede yapılmamasından dolayı idarenin zararına sebep olanlar hakkında kanuni işlem yapılır.
+(3) Tapuda ferağ işleminin idareden kaynaklanmayan sebeplerden dolayı gerçekleşmemesi durumunda herhangi bir hak talebinde bulunulamaz.

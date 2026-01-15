@@ -1,0 +1,2 @@
+İdari yaptırımlar
+MADDE 41- (1) İhale komisyonu başkanı ve üyeleri ile diğer ilgililerin, görevlerini kanuni gereklere göre tarafsızlıkla yapmadıkları veya taraflardan birinin zararına yol açacak ihmal ve kusurlu hareketlerde bulunduklarının tespiti hâlinde, haklarında disiplin cezası uygulanır ve fiil ve davranışlarının özelliğine göre Cumhuriyet savcılıklarına suç duyurusunda da bulunulur. Ayrıca tarafların bu yüzden uğradıkları zarar ve ziyan ilgililere ödettirilir.

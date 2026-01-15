@@ -1,0 +1,2 @@
+Dayanak
+MADDE 2- (1) Bu Yönetmelik, 8/9/1983 tarihli ve 2886 sayılı Devlet İhale Kanunu, 4/11/1983 tarihli ve 2942 sayılı Kamulaştırma Kanunu, 22/11/2001 tarihli ve 4721 sayılı Türk Medeni Kanunu, 25/6/2010 tarihli ve 6001 sayılı Karayolları Genel Müdürlüğünün Hizmetleri Hakkında Kanun, 11/1/2011 tarihli ve 6098 sayılı Türk Borçlar Kanunu ile 4 sayılı Bakanlıklara Bağlı, İlgili, İlişkili Kurum ve Kuruluşlar ile Diğer Kurum ve Kuruluşların Teşkilatı Hakkında Cumhurbaşkanlığı Kararnamesinin 211 inci, 217 nci ve 796 ncı maddelerine dayanılarak hazırlanmıştır.
