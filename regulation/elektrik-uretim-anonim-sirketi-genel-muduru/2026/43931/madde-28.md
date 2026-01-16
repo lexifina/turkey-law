@@ -1,0 +1,2 @@
+Kesin teminat
+MADDE 28- (1) Taahhüdün sözleşme ve ihale dokümanı hükümlerine uygun olarak yerine getirilmesini sağlamak amacıyla, sözleşmenin yapılmasından önce ihale üzerinde kalan istekliden, işin şartnamesinde/sözleşmesinde belirlenmiş olan tutar/oran üzerinden kesin teminat alınır. Kesin teminat mektuplarının süresi, ihale konusu işin bitiş tarihi ve varsa garanti süresi dikkate alınmak suretiyle Teşekkül tarafından belirlenir.

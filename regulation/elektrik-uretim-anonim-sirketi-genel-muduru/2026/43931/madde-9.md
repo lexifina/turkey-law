@@ -1,0 +1,5 @@
+Geçici Teminat ve Ek Teminat
+Tahmini bedel/pay veya oran tespiti
+MADDE 9- (1) Tahmini bedel, pay veya oran, talep birimi tarafından tespit edilir veya ettirilir. Tahmini bedel, pay veya oran KDV hariç olarak belirlenir. İhalede istekliler tarafından teklif edilecek bedel, pay veya oran da KDV hariç olarak teklif edilir. Tahmin edilen bedel, pay veya oranın geçerlilik süresi 6 aydır. Bu süreyi aşan hallerde tahmini bedel, pay veya oran güncellenir.
+(2) Tahmini bedel, pay veya oranın belirlenmesinde; işin ve madenin özelliklerine göre gerektiğinde belediye, ticaret odası, sanayi odası, borsa, MAPEG ya da kamu kurum ve kuruluşları tarafından ilan edilen fiyatlardan ve/veya piyasa araştırması yapılmak suretiyle elde edilen fiyatlardan yararlanılabilir. Tahmini bedel, pay veya oran tespitinde; rezerv, kalorifik ve kimyasal özellikler, jeolojik-hidrojeolojik koşullar, üretim ve pazar koşulları, sosyoekonomik şartlar ve diğer parametreler ve ihale konusu işle ilgili olarak dokümanda istenen genel hususlar, veri olarak kullanılabilir.
+(3) İhale konusu işlerde bedel, pay ve oran tahmini yapılarak ihaleye çıkılması esastır.

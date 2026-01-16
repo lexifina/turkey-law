@@ -1,0 +1,2 @@
+İhale işlem dosyasının düzenlenmesi
+MADDE 10- (1) Bu Yönetmelik kapsamında yapılacak ihaleler için ihale işlem dosyası düzenlenir. Bu dosyada varsa ihale onay belgesi, tahmin edilen bedel, pay veya orana ilişkin hesap tutanağı, şartnameler ve ekleri, varsa projeler, sözleşme tasarısı ve dosyada bulundurulmasında yarar görülen diğer belgeler bulunur. İhale işlem dosyası ihale birimi tarafından hazırlanır. İlandan sonra, ilana ilişkin belgeler ile gazete kupürleri de dosyaya konur. İhale öncesi ve sonrasına ait diğer belgeler, ihale işlem dosyasında muhafaza edilir.

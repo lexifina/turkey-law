@@ -1,0 +1,4 @@
+İtiraz ve Şikâyetler, Sözleşmeye Davet ve Kesin Teminat
+Tekliflerin değerlendirilmesi
+MADDE 22- (1) İhale komisyonu tekliflerin incelenmesi, karşılaştırılması ve değerlendirilmesinde yararlanmak üzere net olmayan hususlarla ilgili, isteklilerden yazılı olarak tekliflerini açıklamalarını isteyebilir. Ancak bu açıklama, hiçbir şekilde teklif fiyatında değişiklik yapılması veya ihale dokümanında yer alan şartlara uygun olmayan tekliflerin uygun hale getirilmesi amacıyla istenilmez ve yapılmaz.
+(2) En son aşamada, isteklilerin teklif mektubu eki cetvellerinde aritmetik hata bulunup bulunmadığı kontrol edilir. Teklif edilen bedel/pay veya oranı gösteren teklif mektubu eki cetvelde toplam bedel/pay veya orana ait değişiklik yaratmayan aritmetik hatalar ihale komisyonu tarafından düzeltilir. Toplam bedel/pay veya oranda değişiklik yaratan aritmetik hata varsa isteklinin teklifi geçersiz sayılır ve geçici teminatı iade edilir.
