@@ -1,0 +1,43 @@
+{
+  "source_id": "7.5.40201",
+  "kind": "regulation",
+  "register_kind": "Kurum ve Kuruluş Yönetmelikleri",
+  "title": "EVDE BAKIM YARDIMI YÖNETMELİĞİ",
+  "number": "40201",
+  "issuer": "Aile ve Sosyal Hizmetler Bakanı ile Hazine ve Maliye Bakanı",
+  "issuer_slug": "aile-ve-sosyal-hizmetler-bakani-ile-hazine-ve-maliye-bakani",
+  "path": "regulation/aile-ve-sosyal-hizmetler-bakani-ile-hazine-ve-maliye-bakani/2023/40201",
+  "source": "https://www.mevzuat.gov.tr/anasayfa/MevzuatFihristDetayIframe?MevzuatTur=7&MevzuatNo=40201&MevzuatTertip=5",
+  "source_sha256": "57f9c0dc0787f10b911a5a7993fe6706504098c7d9ac83893b2cfe5e53af6927",
+  "source_bytes": 136506,
+  "published": "2023-05-26",
+  "gazette": "32202",
+  "in_force": "2026-01-16",
+  "in_force_basis": "latest Resmî Gazete date printed in the source amendment notes/table (\"RG-16/1/2026\") for the current consolidated text",
+  "date_evidence": [
+    [
+      "2026-01-16",
+      "RG-16/1/2026",
+      "Resmî Gazete date printed in the source amendment note"
+    ],
+    [
+      "2026-01-16",
+      "16/1/2026",
+      "Resmî Gazete date in the source amendment table"
+    ]
+  ],
+  "commencement_clauses": [
+    "Bu Yönetmelik yayımı tarihinde yürürlüğe girer"
+  ],
+  "history": "current-text",
+  "label": "oldest version available",
+  "checked_on": "2026-11-15",
+  "word_count": 4506,
+  "text_status": "current-consolidated",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  },
+  "completeness": "html-text-complete"
+}

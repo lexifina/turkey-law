@@ -1,0 +1,1 @@
+[1] 16/1/2026 tarihli ve 33139 sayılı Resmî Gazete’de yayımlanan değişiklik ile Yönetmeliğin 14 üncü maddesinin birinci fıkrasının (a) bendine (7) numaralı alt bendinden sonra gelmek üzere bu alt bent eklenmiş ve diğer alt bentler buna göre teselsül ettirilmiştir.
