@@ -1,0 +1,2 @@
+Amaç ve kapsam
+MADDE 1- (1) Bu Tebliğin amacı, 3907.61.00.00.00 Gümrük Tarife İstatistik Pozisyonunda sınıflandırılan “78 ml/g veya daha fazla viskozitesi olanlar” tanımlı eşyanın ithalatında 31/12/2025 tarihli ve 10806 sayılı Cumhurbaşkanı Kararı ile yürürlüğe konulan PET Resin İthalatında Geçici Korunma Önlemi Uygulanmasına İlişkin Karar kapsamında ek mali yükümlülük şeklinde uygulanan geçici korunma önleminden muafiyet sağlanması amacıyla açılan tarife kontenjanının kullanım usul ve esaslarının düzenlenmesidir.
