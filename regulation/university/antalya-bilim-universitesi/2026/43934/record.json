@@ -1,0 +1,31 @@
+{
+  "act_path": "regulation/university/antalya-bilim-universitesi/2026/43934",
+  "availability": "text",
+  "checked_on": "2026-11-14",
+  "commencement_clauses": [
+    "MADDE 19- (1) Bu Yönetmelik yayımı tarihinde yürürlüğe girer."
+  ],
+  "date_quote": "MADDE 19- (1) Bu Yönetmelik yayımı tarihinde yürürlüğe girer.",
+  "first_law": null,
+  "gazette": "33141",
+  "history": "as-enacted",
+  "images": {
+    "deferred": 0,
+    "omitted": 0,
+    "referenced": 0,
+    "source": 0
+  },
+  "in_force": "2026-01-18",
+  "in_force_basis": "source commencement clause: effective on Gazette publication",
+  "issuer": "Antalya Bilim Üniversitesi",
+  "issuer_slug": "antalya-bilim-universitesi",
+  "kind": "regulation",
+  "published": "2026-01-18",
+  "source": "https://www.mevzuat.gov.tr/anasayfa/MevzuatFihristDetayIframe?MevzuatTur=8&MevzuatNo=43934&MevzuatTertip=5",
+  "source_id": "8.5.43934",
+  "source_sha256": "c5a7ceebb2cd4c50c4c3323314d6b10a527feb311a9c646c950a269581372664",
+  "title": "ANTALYA BİLİM ÜNİVERSİTESİ YABANCI DİLLER YÜKSEKOKULU\r\nİNGİLİZCE HAZIRLIK SINIFI EĞİTİM, ÖĞRETİM VE SINAV YÖNETMELİĞİ",
+  "university_id": 418,
+  "version_label": "oldest version available",
+  "word_count": 1330
+}

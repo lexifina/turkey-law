@@ -1,0 +1,3 @@
+Dış sınavlarla yeterlik
+MADDE 10- (1) İngilizce hazırlık sınıfından muaf olmak için Senato tarafından eşdeğerliği kabul edilen ulusal veya uluslararası İngilizce dil yeterlik sınavlarından birinden, Senato tarafından belirlenen düzeyde başarılı olduğunu belgeleyen öğrenciler, kabul edildikleri programlara başlarlar.
+(2) Sınav sonuçlarının değerlendirmeye alınabilmesi için sınavın yapıldığı tarihten itibaren sınavın kendi geçerlik süresini aşmamak kaydıyla, sınav sonuç belgelerinin asıllarının sunulması şarttır. Yüksekokul, sınav sonuçları hakkında araştırma yapabilir ve araştırma sonucuna göre dış sınav sonuçlarını kabul etmeyebilir.
