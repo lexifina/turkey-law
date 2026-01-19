@@ -1,0 +1,22 @@
+{
+  "kind": "norm",
+  "issuer": "Gelir İdaresi Başkanlığı",
+  "document_type": "ozelge",
+  "number": "E-90792880-155.01[DMG1-1325]-",
+  "source_id": 38885,
+  "date": "2026-01-19",
+  "title": "Hakediş ödemeleri nedeniyle düzenlenen kağıtlara, 2863 sayılı Kültür ve Tabiat Varlıklarını Koruma Kanununun 21 inci maddesi kapsamında damga vergisi istisnası uygulanıp uygulanmayacağı hk.",
+  "source": "https://gib.gov.tr/mevzuat/kanun/438/ozelge/38885",
+  "related_law": "488 sayılı DAMGA VERGİSİ KANUNU",
+  "source_api": "https://gib.gov.tr/api/gibportal/mevzuat/ozelge/list",
+  "source_listing": "evidence/list/2026-11-16/ozelge-p009.json",
+  "source_listing_sha256": "9cb52b4963a9a177a23948f6e28c12936c2f43c88a0b410872bb81c01983667c",
+  "source_sha256": "4f6749fdb29c6229c3ebe8bdeaf668a69b24cb290e7181c2c31818f5c8fbe5f6",
+  "text_status": "as-enacted",
+  "text_file": "metin.md",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  }
+}
