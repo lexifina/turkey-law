@@ -1,0 +1,6 @@
+Konseyin oluşumu
+MADDE 6- (1) Konsey, Bakan veya görevlendireceği bakan yardımcısının başkanlığında aşağıda belirtilen üyelerden oluşur:
+a) Aile ve Sosyal Hizmetler; Çevre, Şehircilik ve İklim Değişikliği; Enerji ve Tabii Kaynaklar; Kültür ve Turizm; Millî Eğitim; Sağlık; Sanayi ve Teknoloji; Tarım ve Orman; Ticaret ile Ulaştırma ve Altyapı Bakanlıklarının ilgili bakan yardımcıları ile Strateji ve Bütçe Başkanlığının ilgili başkan yardımcısı.
+b) Bakanlık İş Sağlığı ve Güvenliği Genel Müdürü, Bakanlık Çalışma Genel Müdürü, Bakanlık Rehberlik ve Teftiş Başkanı ile Sosyal Güvenlik Kurumu Başkanı.
+c) İşçi, işveren ve kamu görevlileri sendikalarından ulusal düzeyde temsil gücünü haiz en fazla üyeye sahip üç konfederasyonun, Türkiye Odalar ve Borsalar Birliğinin, Türkiye Esnaf ve Sanatkârları Konfederasyonunun ve Türkiye Ziraat Odaları Birliğinin başkanları, başkanların katılamaması hâlinde hiyerarşik olarak bir alt kademedeki yöneticiler.
+(2) İlgili kamu kurum ve kuruluşlarının yanı sıra üniversiteler, sivil toplum kuruluşları, meslek birlikleri, kamu kurumu niteliğindeki meslek kuruluşları ile özel sektör temsilcileri Konsey toplantılarına davet edilebilir; alt kurul, danışma ve çalışma gruplarında yer alabilir.
