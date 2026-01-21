@@ -1,0 +1,3 @@
+Kişisel verilerin korunması ve bilişim güvenliği
+MADDE 16- (1) Bu Yönetmelik kapsamında verileri elde eden, veri paylaşımı yapılan kurum ve kuruluşlar ile tüzel kişiler, faaliyetlerin yürütülmesi çerçevesinde herhangi bir şekilde elde ettiği verilere ilişkin olarak, 24/3/2016 tarihli ve 6698 sayılı Kişisel Verilerin Korunması Kanunu ile bu Kanuna dayalı olarak çıkarılan mevzuat kapsamında kişisel verilerin korunmasını sağlayacak önlemleri alır.
+(2) Bu yönetmelik kapsamında oluşturulan tüm sistem ve altyapı, 6/6/2023 tarihli ve 32213 sayılı Resmî Gazete’de yayımlanan Enerji Sektöründe Siber Güvenlik Yetkinlik Modeli Yönetmeliğinden kaynaklanan yükümlülüklere tabidir.

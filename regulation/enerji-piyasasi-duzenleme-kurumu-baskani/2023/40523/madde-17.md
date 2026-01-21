@@ -1,0 +1,3 @@
+Yürürlükten kaldırılan mevzuat
+MADDE 17- (1) 8/8/2015 tarihli ve 29439 sayılı Resmî Gazete’de yayımlanan Otomatik Sayaç Okuma Sistemlerinin Kapsamına ve Sayaç Değerlerinin Belirlenmesine İlişkin Usul ve Esaslar ile 22/3/2003 tarihli ve 25056 sayılı Resmî Gazete’de yayımlanan Elektrik Piyasasında Kullanılacak Sayaçlar Hakkında Tebliğ yürürlükten kaldırılmıştır.
+(2) Birinci fıkra ile yürürlükten kaldırılan Otomatik Sayaç Okuma Sistemlerinin Kapsamına ve Sayaç Değerlerinin Belirlenmesine İlişkin Usul ve Esaslar ile Elektrik Piyasasında Kullanılacak Sayaçlar Hakkında Tebliğe yapılmış atıflar ile ilgili diğer mevzuatta Otomatik Sayaç Okuma Sistemine yapılmış atıflar bu Yönetmeliğe yapılmış sayılır.
