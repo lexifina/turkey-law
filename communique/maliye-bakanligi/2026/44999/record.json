@@ -1,0 +1,36 @@
+{
+  "checked_on": "2026-11-13",
+  "date_gazette": "33145",
+  "date_quote": "22.01.2026",
+  "first_law": null,
+  "gazette": "33145",
+  "history": "current-text",
+  "images": {
+    "deferred": 0,
+    "omitted": 0,
+    "referenced": 0,
+    "source": 0
+  },
+  "in_force": "2026-01-22",
+  "in_force_basis": "original Resmi Gazete publication date supplied by the official listing",
+  "issuer": "Maliye Bakanlığı",
+  "issuer_catalog_evidence": [
+    {
+      "evidence": "issuer-72-0.json",
+      "id": "72",
+      "label": "Maliye Bakanlığı",
+      "listing_url": "https://www.mevzuat.gov.tr/Anasayfa/MevzuatDatatable?MevzuatTur=Teblig&KurumId=72&start=0&length=100"
+    }
+  ],
+  "issuer_slug": "maliye-bakanligi",
+  "kind": "communique",
+  "label": "oldest version available",
+  "notes": [],
+  "published": "2026-01-22",
+  "source": "https://www.mevzuat.gov.tr/anasayfa/MevzuatFihristDetayIframe?MevzuatTur=9&MevzuatNo=44999&MevzuatTertip=5",
+  "source_bytes": 25585,
+  "source_id": "9.5.44999",
+  "source_sha256": "7cc3eb51ab9b7a25f84c4bbd03d2a1528e9c8d6252ff7ecf4e0071f884dd3d61",
+  "title": "KAMU İHALE TEBLİĞİ (TEBLİĞ NO: 2026/1)",
+  "word_count": 449
+}
