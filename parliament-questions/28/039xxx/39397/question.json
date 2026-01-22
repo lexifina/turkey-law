@@ -1,0 +1,21 @@
+{
+  "record_type": "parliament-written-question",
+  "term": 28,
+  "legislative_year": 4,
+  "esas_no": "7/39397",
+  "submitted": "2026-01-22",
+  "submitted_as": "Başkanlığa geliş tarihi",
+  "mp": "Süreyya ÖNEŞ DERİCİ",
+  "province": "Muğla",
+  "summary": "20 Ocak 2026 tarihinde Mardin'in Nusaybin ilçesinde yaşanan olaylara ilişkin",
+  "status": "Süresi Geçtikten Sonra Cevaplandı",
+  "status_as_of": "2026-11-16",
+  "official_record": "https://www.tbmm.gov.tr/Denetim/Yazili-Soru-Onergesi-Detay/0a508b98-5772-4b94-bdfa-019be6f98f5e",
+  "source": "https://tbmm.gov.tr/Denetim/YaziliSoruOnergesiTable",
+  "source_form": "https://tbmm.gov.tr/Denetim/Yazili-Soru-Onergeleri",
+  "source_sha256": "7c6055be13ade293895bb591b92690a58dd7ca96f8615dce5e54de07ca260bae",
+  "in_force": "2026-01-22",
+  "in_force_basis": "Date the question reached the Speaker (Başkanlığa geliş tarihi) in the official TBMM written-question record; parliamentary oversight record, not law",
+  "history_type": "metadata",
+  "text_status": "metadata-only: question text, addressee and answers are in the linked official record (PDFs on cdn.tbmm.gov.tr); not transcribed here"
+}
