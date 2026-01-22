@@ -1,0 +1,1 @@
+GEÇİCİ MADDE 1 – (1) Bu Yönetmeliğin yürürlüğe girmesinden önce onay makamına sunulan veya idare meclisinin gündemine alınan plan teklifleri, bu Yönetmeliğin yürürlüğe girdiği tarihten önceki mevzuat hükümlerine göre sonuçlandırılır. Ancak, bu planlar için de plan işlem numarası alınması zorunludur.

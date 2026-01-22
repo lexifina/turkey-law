@@ -1,0 +1,1 @@
+GEÇİCİ MADDE 4 – (1) İdareler; yürürlükteki mekânsal planlarını bir yıl içinde Bakanlıkça belirlenen veri yapısına uygun olarak coğrafi bilgi sistemi ortamında sayısallaştırılıp Plan İşlem Numarası almak suretiyle Bakanlığa iletir. İdareler tarafından talep edilmesi ve Bakanlıkça uygun görülmesi halinde sayısallaştırma hizmeti Bakanlık tarafından yapılabilir.

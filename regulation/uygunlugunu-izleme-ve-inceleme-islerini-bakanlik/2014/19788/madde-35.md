@@ -1,0 +1,6 @@
+Planların izlenmesi ve incelenmesi
+MADDE 35 – (1) Planların, üst kademe planlara, bu Yönetmeliğe ve imar mevzuatına uygunluğunun sağlanması planı yapan ve onaylayan idarelerin sorumluluğundadır. Belediye ve mücavir alan sınırları içinde belediyelerce, dışında il özel idarelerince onaylanan her tür ve ölçekteki mekânsal planların; üst kademe planlara, 3194 sayılı İmar Kanunu ve bu Yönetmeliğe uygunluğunu izleme ve inceleme işlerini Bakanlık yürütür.
+(2) Belediye ve mücavir alan sınırları içinde belediyelerce, dışında il özel idarelerince onaylanan mekânsal planlar kesinleştikten sonra incelenmek üzere en geç on beş gün içinde İl Müdürlüğüne iletilir.
+(3) Mekânsal planlar ile bu planlara ilişkin revizyon, ilave ve değişiklikleri, plan notları, plan raporu, onaya esas ilgili idare meclisi kararı ile diğer bilgi ve belgelerle birlikte Bakanlıkça belirlenen formatta ve sayısal ortamda iletilir.
+(4) İletilen mekânsal planlar incelenerek gerekli değerlendirmeler yapılır. Bakanlıkça, planlarda; usul, şekil, üst ölçekli planlar ve Bakanlıkça yayımlanan yönetmeliklere aykırılık tespit edilmesi halinde, gerekli düzeltmelerin yapılması ve aykırılığın giderilmesi amacıyla ilgili idare bilgilendirilir.
+(5) Bakanlık, planların incelenmesini resen veya İl Müdürlükleri aracılığı ile yapabilir.

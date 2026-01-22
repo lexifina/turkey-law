@@ -1,0 +1,4 @@
+Eşik analizi
+MADDE 22 – (1) Planların hazırlanması sürecinde yerleşilebilir alanların belirlenmesi amacıyla, kurum ve kuruluşlardan alana ilişkin toplanan doğal ve fiziki bilgilerin, alana özgü yapılan etütler ile diğer tüm veriler birlikte değerlendirilmek suretiyle, gerek duyulan ölçeklerde halihazır haritalar üzerinde üst üste çakıştırılması ile eşik analizi hazırlanır.
+(2) Eşik analizinde; topografik, jeolojik-jeoteknik, hidrojeolojik yapı özellikleri ile arazi kullanımı, tarım ve orman alanları, içme suyu havzaları, sit ve diğer koruma alanları, hassas alanlar, kıyı, altyapı, doğal ve fiziki veriler ile afet tehlikeleri analiz edilerek bir arada değerlendirilir.
+(3) İmar planlarının hazırlanması sürecinde eşik analizinin yapılması zorunlu olup, plan kararlarının oluşturulmasında temel plan altlığı olarak kullanılır.

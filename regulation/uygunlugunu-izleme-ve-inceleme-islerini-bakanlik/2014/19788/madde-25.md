@@ -1,0 +1,3 @@
+İmar planı revizyonu ve ilaveleri
+MADDE 25 – (1) İmar planlarının ihtiyaca cevap vermediği veya uygulamasının mümkün olmadığı durumlar ile üst kademe plan kararlarına uygunluğunun sağlanması amacıyla planın tamamının veya plan ana kararlarını etkileyecek bir kısmının yenilenmesi için bu Yönetmelikte belirtilen ilke, esas ve standartlara uygun olarak imar planlarında revizyon yapılır.
+(2) İmar planlarının ihtiyaca cevap vermediği durumlarda, mevcut plana bitişik ve mevcut planın genel arazi kullanım kararları ile süreklilik, bütünlük ve uyum sağlayacak biçimde, bu Yönetmelikte belirtilen ilke, esas ve standartlara uygun olarak ilave imar planı yapılabilir.

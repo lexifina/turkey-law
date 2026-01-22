@@ -1,0 +1,1 @@
+GEÇİCİ MADDE 3 – (1) Bu Yönetmelikle birlikte yürürlükten kaldırılan gösterimlere karşılık, yürürlüğe giren gösterimlerin mekânsal planlarda ve bu planlara ilişkin revizyon, ilave ve değişikliklerinde kullanılması zorunludur.

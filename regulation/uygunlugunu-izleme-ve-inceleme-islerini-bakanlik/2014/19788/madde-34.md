@@ -1,0 +1,8 @@
+ONİKİNCİ BÖLÜM
+Planların Aleniyeti ve Denetimi
+Planların aleniyeti ve dağıtımı
+MADDE 34 – (1) Bu Yönetmelikte adı geçen her tür ve ölçekteki planlar, plan notları, açıklama raporları ve ekleriyle birlikte alenidir. Bu aleniyeti sağlamak planı onaylayan idarenin görevidir.
+(2) İdareler; mekânsal strateji planları, çevre düzeni planları ve imar planlarının tamamını veya bir kısmını kopyalar veya kitapçıklar halinde ya da sayısal ortamda çoğaltarak, tespit edilecek ücret karşılığında isteyenlere verir. Ayrıca idareler, internet sayfasında sürekli yayımlamak suretiyle de planlara aleniyet sağlayabilir.
+(3) Planların aleniyetini sağlamak ve toplumu bilgilendirmek için, medya ve elektronik haberleşmenin yanı sıra seminerler, konferanslar, sergiler ve toplantılar gibi araçlar da kullanılabilir.
+(4) Kesinleşen planlar idarelerce plan notları, plan raporu, onaya ilişkin karar, askı tutanakları ve jeolojik-jeoteknik veya mikro bölgeleme etütleri ile birlikte en geç on beş gün içerisinde Bakanlık tarafından belirlenen sayısal veri yapısına göre coğrafi bilgi sistemi ortamında kaydedilerek, Ulusal Coğrafi Bilgi Sistemi Portalında yayımlanması için Bakanlığa iletilmek üzere İl Müdürlüklerine gönderilir.
+(5) Bu Yönetmeliğe göre hazırlanıp onaylanan mekânsal planlar ile bu planlara ilişkin revizyon, ilave ve değişikliklerine ilişkin coğrafi veri ve bilgilerin, idarelerce Bakanlar Kurulunca belirlenen usul ve esaslara uygun şekilde ve coğrafi bilgi sistemi ortamında sayısal olarak üretilmesi, elektronik ortamda ilan edilmesi ve Bakanlıkça tesis edilecek elektronik ortam üzerinden paylaşılması, arşivlenmesi ve güncellenmesi zorunludur.
