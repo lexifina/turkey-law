@@ -1,0 +1,2 @@
+Edinilen taşınırların kaydı ve devri
+MADDE 24- (1) Bu Usul ve Esaslar kapsamında yapılan alımlarla edinilen taşınırlar, alımı yapan İdare tarafından 9/10/2024 tarihli ve 9014 sayılı Cumhurbaşkanı Kararı ile yürürlüğe konulan Taşınır Mal Yönetmeliğinde belirtilen hükümlere göre kayıt altına alınır ve bu taşınırlardan İdarede ihtiyaç fazlası olarak kalanlar, söz konusu yönetmelik hükümleri ve ilgili mevzuat çerçevesinde diğer kamu idarelerine bedelsiz devredilebilir.
