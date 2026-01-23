@@ -1,0 +1,25 @@
+{
+  "number": "meeting-01-23",
+  "number_as_published": "meeting-01-23",
+  "year": 2026,
+  "title": "23-Ocak-2026-Olaganustu-IL-GENEL-MECLISI-KARARLARI",
+  "decision_date": "2026-01-23",
+  "source": "https://www.aksarayozelidare.gov.tr/2026-ocak-ayi-meclis-kararlari",
+  "official_document": "https://www.aksarayozelidare.gov.tr/kurumlar/aksarayozelidare.gov.tr/mecliskarar/2026/23-Ocak-2026-Olaganustu-IL-GENEL-MECLISI-KARARLARI.pdf",
+  "source_sha256": "667ac373dcc492eda6f4cb6afcc1d4ca17d0c696a8db39b139a82437f7b380e1",
+  "issuer": "Aksaray İl Genel Meclisi",
+  "history_type": "metadata",
+  "text_status": "metadata-only: listing fields as published; complete decision text is in the linked official document, not transcribed",
+  "in_force": "2026-01-23",
+  "in_force_basis": "Decision date as printed in the official council listing: 23 OCAK 2026; adoption date of the council decision; legal commencement not asserted",
+  "missing": [
+    "complete official decision text",
+    "official annexes"
+  ],
+  "law_text_complete": false,
+  "privacy_withheld": false,
+  "listing_label": "23-Ocak-2026-Olaganustu-IL-GENEL-MECLISI-KARARLARI",
+  "record_scope": "one official file of council decisions (meeting or month)",
+  "official_page": "https://www.aksarayozelidare.gov.tr/2026-ocak-ayi-meclis-kararlari",
+  "item_title": "2026 Ocak Ayı Meclis Kararları"
+}
