@@ -1,0 +1,21 @@
+{
+  "record_type": "parliament-written-question",
+  "term": 28,
+  "legislative_year": 4,
+  "esas_no": "7/39502",
+  "submitted": "2026-01-23",
+  "submitted_as": "Başkanlığa geliş tarihi",
+  "mp": "Hasan ÖZTÜRK",
+  "province": "Bursa",
+  "summary": "Bir özel bankada görevli personelin müşterilere ait kişisel verileri kendi aralarında paylaştıkları iddiasına ilişkin",
+  "status": "Cevaplanmadığı Gelen Kağıtlarda İlan Edildi",
+  "status_as_of": "2026-11-16",
+  "official_record": "https://www.tbmm.gov.tr/Denetim/Yazili-Soru-Onergesi-Detay/1889fd3f-b7e7-4e70-b2c7-019bf98f51d0",
+  "source": "https://tbmm.gov.tr/Denetim/YaziliSoruOnergesiTable",
+  "source_form": "https://tbmm.gov.tr/Denetim/Yazili-Soru-Onergeleri",
+  "source_sha256": "a25a521457502b420d45cbc1e237acba1abe6c8e551f76594a07f20cafaa0ca5",
+  "in_force": "2026-01-23",
+  "in_force_basis": "Date the question reached the Speaker (Başkanlığa geliş tarihi) in the official TBMM written-question record; parliamentary oversight record, not law",
+  "history_type": "metadata",
+  "text_status": "metadata-only: question text, addressee and answers are in the linked official record (PDFs on cdn.tbmm.gov.tr); not transcribed here"
+}
