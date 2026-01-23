@@ -1,0 +1,12 @@
+Hizmetin kapsamı
+MADDE 10- (1) Merkezde, yetkili mercilerce verilen işler kapsamında aşağıda sayılan faaliyetler yürütülür:
+a) 4/12/2004 tarihli ve 5271 sayılı Ceza Muhakemesi Kanununun 74 üncü maddesine göre gözlem altına alınma gerekliliğinin ayaktan adli psikiyatrik değerlendirilmesi ve raporlama hizmetleri ile gözlem gerekenlerin yatırılarak gözlemlerinin yapılması.
+b) 26/9/2004 tarihli ve 5237 sayılı Türk Ceza Kanununun 31 inci, 32 nci, 33 üncü ve 34 üncü maddelerine göre ceza sorumluluğunu kaldıran veya azaltan nedenlerin varlığının ayaktan ya da yatırılarak adli psikiyatrik değerlendirilmesi ve raporlama hizmetleri.
+c) Türkiye Cumhuriyeti Anayasasının 104 üncü maddesinin on altıncı fıkrasına göre Cumhurbaşkanınca verilen, cezanın hafifletilmesi veya kaldırılması kararına esas ayaktan ya da yatırılarak adli psikiyatrik değerlendirme ve raporlama hizmetleri.
+ç) 13/12/2004 tarihli ve 5275 sayılı Ceza ve Güvenlik Tedbirlerinin İnfazı Hakkında Kanunun 16 ncı maddesinin birinci ve altıncı fıkraları, 18 inci maddesi ve 105/A maddesine göre haklarında sağlık raporu istenenlerin ayaktan ya da yatırılarak adli psikiyatrik değerlendirilmesi ve raporlama hizmetleri.
+d) 5237 sayılı Kanunun 31 inci maddesinin ikinci fıkrası ve 3/7/2005 tarihli ve 5395 sayılı Çocuk Koruma Kanununun 11 inci ve 12 nci maddeleri ile 24/12/2006 tarihli ve 26386 sayılı Resmî Gazete’de yayımlanan Çocuk Koruma Kanununa Göre Verilen Koruyucu ve Destekleyici Tedbir Kararlarının Uygulanması Hakkında Yönetmeliğin 16 ncı maddesinin beşinci fıkrasına göre verilen suça sürüklenen çocuk ve ergenlerin koruma ve tedavi hizmetleri.
+e) 5237 sayılı Kanunun 57 nci maddesinin yedinci fıkrası haricindeki diğer fıkraları kapsamındaki kişilerin koruma ve tedavi ile ayaktan tıbbi kontrol ve takipleri.
+f) 5275 sayılı Kanunun 16 ncı maddesinin birinci fıkrasına göre cezasının infazı geriye bırakılarak koruma ve tedavisinin yapılması istenen kişilerin koruma ve tedavi hizmetleri.
+g) Açık ceza infaz kurumlarından gönderilen kişilerin ayaktan ya da yatarak adli psikiyatrik değerlendirme ve raporlama hizmetleri ile kapalı ceza infaz kurumlarından gönderilen kişilerin ayaktan adli psikiyatrik değerlendirme ve raporlama hizmetleri.
+ğ) Adli psikiyatrik değerlendirme ve raporlama ve tedavi hizmetleri sırasında istenen diğer psikiyatrik değerlendirme ve idari rapor düzenleme hizmetleri.
+(2) Birinci fıkra kapsamında düzenlenecek adli psikiyatrik değerlendirme raporları, ilgili mevzuatında belirlendiği şekilde ve merkez bünyesinde hazırlanır.

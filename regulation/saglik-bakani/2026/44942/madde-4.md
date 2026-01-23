@@ -1,0 +1,10 @@
+Tanımlar
+MADDE 4- (1) Bu Yönetmelikte geçen;
+a) Adli psikiyatrik sağlık raporu: Adli psikiyatrik hizmetler kapsamında ve adli merciler tarafından talep edilen konularda, ruh sağlığı ve hastalıkları uzmanlarınca tek hekim veya sağlık kurulu raporu şeklinde düzenlenen raporu,
+b) Bakanlık: Sağlık Bakanlığını,
+c) Hasta: Merkeze adli mercilerce sevk edilmiş, tedavi ve rehabilitasyon kapsamında sağlık hizmeti alan veya adli psikiyatrik değerlendirme ve raporlama hizmeti kapsamında ayaktan ya da yatırılarak değerlendirilen ve sağlık hizmeti alan kişiyi,
+ç) Merkez: Bu Yönetmelik kapsamında polikliniklerde ayaktan ve servislerde yatırılarak adli psikiyatrik sağlık hizmetlerinin sunulduğu; fiziki, idari ve işlevsel yapılanması bulunan; erişkin ile çocuk ve ergen hastalara hizmet veren yüksek güvenlikli adli psikiyatri merkezini,
+d) Multidisipliner ekip: Merkezlerde sağlık hizmeti alan hastaların izlem ve tedavisinde görev alan ruh sağlığı ve hastalıkları uzmanı, çocuk ve ergen ruh sağlığı ve hastalıkları uzmanı, klinik psikolog veya psikolog, hemşire, çocuk gelişimcisi, sosyal çalışmacı/sosyal hizmet uzmanı, ergoterapist, klinik destek elemanı, güvenlik personeli ve sağlık hizmetlerinde görev alan diğer çalışanlardan oluşan ekip yapısını,
+e) Tutuklu hükümlü adli psikiyatri servisi (THAP): Psikiyatrik rahatsızlığı nedeniyle yatarak tedavisine karar verilen tutuklu/hükümlülerin tedavi, rehabilitasyon, adli psikiyatrik değerlendirme ve raporlama süreçlerinin yürütüldüğü; iç güvenliğinin infaz ve koruma memuru, dış güvenliğinin ise jandarma personeli tarafından sağlandığı servisi,
+f) Yüksek güvenlik: Hasta, çalışan ve toplum güvenliğini sağlamak amacıyla; fiziksel yapı, personel sayısı ve organizasyonu, klinik içi kurallar ile teknolojik sistemlerle desteklenen fiziksel, prosedürel ve ilişkisel güvenlik tedbirlerinin en üst düzeyde uygulandığı; ruhsal bozukluğu olan bireylerde, tedavi ve gözlem süresi boyunca klinik içinde kendisine veya çevresine yönelik tehlikeliliğin sistematik ve düzenli biçimde değerlendirildiği ve yönetildiği; hastanın kurumdan izinsiz ayrılmasını önleyici tedbirleri içeren özel nitelikli sağlık hizmeti düzeyini,
+ifade eder.
