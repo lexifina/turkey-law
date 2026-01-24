@@ -1,0 +1,4 @@
+Değerleme günü itibarıyla kurların ilan edilmemesi
+MADDE 4- (1) 20/4/1976 tarihli ve 15565 sayılı Resmî Gazete’de yayımlanan 130 Sıra No.lu Vergi Usul Kanunu Genel Tebliği ve 27/12/1998 tarihli ve 23566 sayılı Resmî Gazete’de yayımlanan 217 Seri No.lu Gelir Vergisi Genel Tebliği gereğince, değerleme günü itibarıyla Hazine ve Maliye Bakanlığınca kurların ilan edilmediği durumlarda T.C. Merkez Bankasınca ilan edilen kurlar esas alınır.
+(2) Bu şekilde yapılacak değerlemelerde efektif cinsinden yabancı paralar için efektif alış kuru (efektif alış kurunun bulunmaması halinde döviz alış kuru), döviz cinsinden yabancı paralar içinse döviz alış kuru uygulanır.
+(3) Vergi uygulamaları açısından bankalarca, 31/12/2025 tarihi itibarıyla yapılacak değerleme sırasında bu Tebliğ ile belirlenen kurlar yerine, T.C. Merkez Bankasınca belirlenen esaslara uygun olarak tespit ettikleri ve fiilen uyguladıkları alış kurları esas alınır.
