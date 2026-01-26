@@ -1,0 +1,4 @@
+Eğitim-öğretim programları
+MADDE 14- (1) Üniversiteye bağlı fakülte, yüksekokul ve meslek yüksekokullarında ders alma ve ders geçme esasına dayalı AKTS kredi sistemi uygulanır. Alınan derslerin AKTS kredi değerleri, öğrencilerin çalışma yükleri hesaplanarak belirlenir. Öğretim programları ilgili birim kurulunun önerisi ile yarıyıl esasına göre düzenlenir ve Senatonun onayı ile kesinleşir. Gerekmesi halinde öğretim programları Senato tarafından belirlenen usul ve esaslara göre güncellenir.
+(2) Bir eğitim-öğretim yılında ön lisans ve lisans programları için ders ve uygulama kredileri toplamı yıllık 60 AKTS kredisi olmak zorundadır.
+(3) Uygulamalı eğitim dersleri, 17/6/2021 tarihli ve 31514 sayılı Resmî Gazete’de yayımlanan Yükseköğretimde Uygulamalı Eğitimler Çerçeve Yönetmeliği hükümlerine ve Senato tarafından belirlenen esaslara göre yürütülür.

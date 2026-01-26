@@ -1,0 +1,14 @@
+BEŞİNCİ BÖLÜM
+Sınavlar ve Değerlendirme
+Sınavlar ve sınav dönemleri
+MADDE 22- (1) Sınavlar, ara sınav, mazeret sınavı, yarıyıl/yıl sonu sınavı, bütünleme sınavı, üç ders sınavı ve tek ders sınavıdır. Bu sınavlar aşağıda belirtilmiştir:
+a) Ara sınav: Derslerin verildiği yarıyıl/yıl içinde yapılan sınav veya sınavlardır.
+b) Mazeret sınavı: Senato tarafından belirlenmiş esaslara göre ilgili yönetim kurulunca kabul edilen haklı ve geçerli bir nedenle ara sınavlara giremeyen öğrencilere bir kez yapılan sınavdır.
+c) Yarıyıl/yıl sonu sınavı: Derslerin verildiği yarıyıl/yıl sonunda yapılan sınavdır. Yarıyıl/yıl sonu sınav programları, ilgili birimler tarafından hazırlanır ve sınavlardan en az iki hafta önce ilan edilir.
+ç) Bütünleme sınavı: Derslerin verildiği yarıyıl sonunda yapılan yarıyıl/yıl sonu sınavlarından sonra başarısız olunan veya sınava girme hakkı olduğu halde girilmeyen dersler için açılan sınavlardır.
+d) Üç ders sınavı: Devam koşulunu yerine getirmiş olmak kaydıyla, mezuniyet koşullarını en çok üç dersin sınavına bağlı olarak sağlayabilecek durumdaki öğrencilere yapılan sınavlardır. Yarıyıl/yıl sonu sınavı uygulamalı olan dersler (tasarım, stüdyo, laboratuvar, bitirme projesi, staj, uygulamalı eğitim ve benzeri) ile yarıyıl/yıl sonu notu proje tabanlı olarak değerlendirilen dersler için bu hak verilmez. Öğrenciler akademik takvimde belirtilen tarihlerde dilekçe vermek şartıyla üç ders sınavına katılabilirler. Bu dersin başarı notunun belirlenmesinde dönem içinde yapılan ara sınav ve benzeri değerlendirmeler dikkate alınmaz.
+e) Tek ders sınavı: Devam koşulunu yerine getirmiş olmak kaydıyla, mezuniyet koşullarını sadece bir dersin sınavına bağlı olarak sağlayabilecek durumdaki öğrencilere yapılan sınavdır. Yarıyıl/yıl sonu sınavı uygulamalı olan dersler (tasarım, stüdyo, laboratuvar, bitirme projesi, staj, uygulamalı eğitim ve benzeri) ile yarıyıl/yıl sonu notu proje tabanlı olarak değerlendirilen dersler için bu hak verilmez. Öğrenciler akademik takvimde belirtilen tarihlerde dilekçe vermek şartıyla tek ders sınavına katılabilirler. Bu dersin başarı notunun belirlenmesinde dönem içinde yapılan ara sınav ve benzeri değerlendirmeler dikkate alınmaz.
+(2) Ara sınav, yarıyıl/yıl sonu sınavı, bütünleme sınavı, üç ders ve tek ders sınav tarihleri akademik takvim ile düzenlenir.
+(3) Staj ve uygulama sonunda sınav yapma zorunluluğu olan birimlerde staj ve uygulama sınavlarının nasıl yapılacağı, ilgili kurullar tarafından belirlenir.
+(4) Sınavlar; yazılı, sözlü, hem yazılı hem sözlü ve/veya uygulamalı olarak yapılabilir. Sınavların nasıl yapılacağı, dersi veren öğretim elemanı tarafından yarıyıl/yıl başında öğrencilere duyurulur.
+(5) Sınavlar, o dersi vermekle görevli öğretim elemanları tarafından yapılır. Görevli öğretim elemanının sınav döneminde Üniversitede bulunmaması halinde sınavın kim tarafından yapılacağı ve değerlendirileceği ilgili birim yönetim kurulunca kararlaştırılır.

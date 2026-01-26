@@ -1,0 +1,2 @@
+Dikey geçişler
+MADDE 7- (1) 19/2/2002 tarihli ve 24676 sayılı Resmî Gazete’de yayımlanan Meslek Yüksekokulları ve Açıköğretim Ön Lisans Programları Mezunlarının Lisans Öğrenimine Devamları Hakkında Yönetmelik hükümlerine göre lisans öğrenimine başlama hakkı elde eden öğrencilerin, ön lisans eğitimi sırasında almış oldukları derslerin eşdeğerliği ve intibakları Senato tarafından belirlenen esaslara göre yürütülür.
