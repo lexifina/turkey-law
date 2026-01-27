@@ -1,0 +1,2 @@
+Karar ve işlemler
+MADDE 8- (1) Yapılan inceleme sonucunda; bir NGGS açılabilmesi için yeterli bilgi, belge ve delillerin bulunduğu anlaşıldığından, İthalatta Haksız Rekabeti Değerlendirme Kurulu kararı ile ÇHC, Çin Tayvanı, Güney Kore, Malezya ve Tayland menşeli, EK’te yer alan GTİP’ler altında sınıflandırılan “sentetik filament iplikten dokunmuş mensucat (giyim için olanlar)” yönelik olarak Yönetmeliğin 35 inci maddesi çerçevesinde bir NGGS açılmasına karar verilmiştir.
