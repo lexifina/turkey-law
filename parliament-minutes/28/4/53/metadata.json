@@ -1,0 +1,17 @@
+{
+  "record_type": "parliament-minutes",
+  "body": "TBMM Genel Kurulu",
+  "term": 28,
+  "legislative_year": 4,
+  "sitting": 53,
+  "sitting_date": "2026-01-28",
+  "listed_date": "28 Ocak 2026 Çarşamba",
+  "status": "Basılmış",
+  "source": "https://cdn.tbmm.gov.tr/TbmmWeb/Tutanak/28/4/53/Tam/dc576d2b-7da1-4498-bbb5-8149f0c73663.html",
+  "sitting_page": "https://www.tbmm.gov.tr/Tutanaklar/Tutanak?Id=545d740b-a252-4c44-8dc9-019c045f951b",
+  "listing_source": "https://www.tbmm.gov.tr/Tutanaklar/DoneminTutanakMetinleri?Donem=28&YasamaYili=4",
+  "source_sha256": "5706d31e7c41d11f4e31bde162697b3c80fc4251eb6cbd8f6c32198d35ec906c",
+  "source_bytes": 9066,
+  "source_encoding": "windows-1254",
+  "text_status": "as-published"
+}
