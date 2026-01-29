@@ -1,0 +1,50 @@
+{
+  "source_id": "9.5.13734",
+  "kind": "communique",
+  "register_kind": "Tebliğler",
+  "title": "ÇEK DEFTERLERİNİN BASKI ŞEKLİNE VE BANKALARIN HAMİLE ÖDEMEKLE YÜKÜMLÜ OLDUĞU MİKTARIN BELİRLENMESİNE İLİŞKİN TEBLİĞ (SAYI: 2010/2)",
+  "number": "13734",
+  "issuer": "Türkiye Cumhuriyet Merkez Bankası Başkanı",
+  "path": "teblig/2010/13734",
+  "source": "https://www.mevzuat.gov.tr/anasayfa/MevzuatFihristDetayIframe?MevzuatTur=9&MevzuatNo=13734&MevzuatTertip=5",
+  "source_sha256": "62a30588be1786da60cb72194a9f6477936414553c773194952e2e9c497c3830",
+  "source_bytes": 32519,
+  "published": "2010-01-20",
+  "gazette": "27468",
+  "in_force": "2026-01-29",
+  "in_force_basis": "latest Resmî Gazete date printed in the source amendment notes/table (\"RG-29/1/2026\") for the current consolidated text",
+  "date_evidence": [
+    [
+      "2026-01-29",
+      "RG-29/1/2026",
+      "Resmî Gazete date printed in the source amendment note"
+    ],
+    [
+      "2016-11-19",
+      "RG-19/11/2016",
+      "Resmî Gazete date printed in the source amendment note"
+    ],
+    [
+      "2012-03-03",
+      "RG-3/3/2012",
+      "Resmî Gazete date printed in the source amendment note"
+    ]
+  ],
+  "commencement_clauses": [
+    "Bu Tebliğ yayımı tarihinde yürürlüğe girer"
+  ],
+  "history": "current-text",
+  "label": "oldest version available",
+  "checked_on": "2026-11-15",
+  "word_count": 1080,
+  "text_status": "current-consolidated",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  },
+  "source_links": [
+    "9.5.13734-ek.pdf"
+  ],
+  "completeness": "html-text-complete; linked annexes not fetched"
+}

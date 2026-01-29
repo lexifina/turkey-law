@@ -1,0 +1,1 @@
+GEÇİCİ MADDE 1 – (1) Mahkemelerce verilmiş çek düzenleme ve çek hesabı açmaya ilişkin yasaklama ve ortadan kaldırma kararlarından kesinleşme tarihi 31/05/2010 tarihine kadar olanlara ilişkin bilgiler mülga 3167 sayılı Kanun uyarınca çıkarılan 2003/1 sayılı Tebliğ esasları çerçevesinde Türkiye Cumhuriyet Merkez Bankasına bildirilmeye devam olunur.
