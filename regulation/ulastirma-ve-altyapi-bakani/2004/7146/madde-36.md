@@ -1,0 +1,3 @@
+Sınavlarda Başarısız Olanların Durumu
+Madde 36- Mesleki Yeterlilik Eğitimi’nden muaf olanlar hariç olmak üzere ; sınav sonucunda başarısız olanlara, takip eden sınav döneminden itibaren eğitim programına devam etmeksizin 3 sınav hakkı daha tanınır. Bu sınavlarda da başarılı olamayanlar, belge almak istemeleri halinde, Mesleki Yeterlilik Eğitim programlarına yeniden katılmak zorundadırlar.
+(Ek:RG-10/10/2007-26669) Müracaat ettiği halde sınava girmeyenlerin sınav ücreti iade edilmez. Bu kişilerin sınav hakları kullanılmış sayılmaz ve eğitim merkezlerinin başarı oranlarının hesaplanmasında dikkate alınmaz.

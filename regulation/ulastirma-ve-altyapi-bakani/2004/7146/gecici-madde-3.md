@@ -1,0 +1,2 @@
+Geçici Madde 3- Bu Yönetmelik yürürlüğe girmeden önce çeşitli kurum/kuruluşlarca düzenlenen mesleki eğitim programlarını bitirdiklerini belgeleyenlere ÜDY türü Mesleki Yeterlilik Belgesi hariç, yapılacak Mesleki Yeterlilik Sınavı’nda başarılı olmaları kaydıyla girdikleri sınavın niteliklerine uygun Mesleki Yeterlilik Belgesi verilir.
+(Değişik ibare:RG-16/08/2006-26261) 31 Aralık 2006 tarihine kadar müracaat etmeyenler bu haklarını kaybederler.

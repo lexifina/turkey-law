@@ -1,0 +1,5 @@
+Yetki Belgelerinin Geri Alınması ve Buna Bağlı İptal
+Madde 17- a) Yetki belgesi sahipleri, gerçek veya tüzel kişiliklerinin son bulması veya herhangi bir sebeple faaliyetlerini bırakmaları halinde, bu hallerin gerçekleştiği tarihten itibaren otuz gün içinde yetki belgelerinin asıllarını Bakanlığa iade etmekle yükümlüdürler.
+b) Yetki belgesi sahibi gerçek kişilerin ölümü halinde, hak sahipleri veya onlar adına yetkili olanlar bu durumu doksan gün içerisinde Bakanlığa bildirmek suretiyle, isterlerse yetki belgesi kapsamındaki faaliyetini ölüm tarihinden başlamak üzere bir yıl süreyle devam ettirebilirler.
+Yetki belgesi sahibinin kanuni mirasçıları, yetki belgesi sahibi sıfatını devam ettirmek isterlerse, durumlarını bu Yönetmelikte belirtilen şartlara bir yıllık süre içerisinde uygun hale getirmek zorundadırlar. Bir yıllık süre içerisinde tüm yükümlülük ve sorumluluklar kanuni mirasçılar tarafından üstlenilmiş sayılır.
+c) Yukarıdaki (a) ve (b) fıkralarında ifade edilen yükümlülük ve sorumlulukların yerine getirilmemesi halinde, Bakanlığın bilgisi olduğu tarihten itibaren yetki belgesi iptal edilir.

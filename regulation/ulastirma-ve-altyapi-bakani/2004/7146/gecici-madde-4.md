@@ -1,0 +1,1 @@
+Geçici Madde 4- Bu Yönetmelikte öngörülen mesleki yeterlilik belgesi şartı 31 Aralık 2005 tarihine kadar aranmaz. Bakanlık, gerektiğinde bu tarihi altışar aylık dönemler halinde ve en çok bir yıl süreyle uzatabilir.

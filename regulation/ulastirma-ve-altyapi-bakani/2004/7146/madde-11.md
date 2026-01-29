@@ -1,0 +1,5 @@
+Mesleki Yeterlilik Eğitimi Yetki Belgelerinin Verilmesi ve Suç Duyurusu
+Madde 11- Mesleki Yeterlilik Eğitimi Yetki Belgesi almak isteyen gerçek ve tüzel kişiler, Bakanlıkça verilecek örneğe uygun ön değerlendirme formunu doldurarak bu Yönetmeliğin 16 ıncı maddesinde belirtilen belgelerle birlikte Bakanlığa müracaat ederler.
+(Değişik birinci cümle:R.G.-16/1/2009-27112) Bakanlıkça başvurunun mevzuata uygun olduğunun tespit edilmesi halinde, gerçek veya tüzel kişiler adına yetki belgesi en geç 60 gün içinde düzenlenerek verilir. Adi ortaklıklara yetki belgesi verilmez.
+Bakanlık tarafından yetki belgesi verildikten sonra, yetki belgesi verilen gerçek veya tüzel kişiler ile bunların başvuru sırasında beyan ettikleri bilgiler ve verdikleri belgeler hakkında, ilgili kurum ve kuruluşlar nezdinde gerekli inceleme ve araştırma yapılır.
+Bakanlıkça yapılacak inceleme ve soruşturma sonunda yanıltıcı bilgi vererek veya belgelerde tahrifat yaparak yetki belgesi almış olanların bu yetki belgeleri iptal edilir ve haklarında Cumhuriyet Savcılıkları nezdinde suç duyurusunda bulunulur.
