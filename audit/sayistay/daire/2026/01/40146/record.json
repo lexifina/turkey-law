@@ -1,0 +1,17 @@
+{
+  "kind": "decision",
+  "issuer": "Sayıştay 6. Dairesi",
+  "number": "988",
+  "decision_date": "2026-01-29",
+  "source_id": 40146,
+  "chamber": "6",
+  "ilam_number": "450",
+  "item_number": 1,
+  "public_body_type": "Belediyeler ve Bağlı İdareler",
+  "account_year": 2013,
+  "subject": "Personel Mevzuatı ile İlgili Kararlar",
+  "source": "https://www.sayistay.gov.tr/KararlarDaire/Detay/40146/",
+  "source_sha256": "e8631f998d0385a2dd31e3666f918553b55e974011daa5a0d6ef9d7eb58cd090",
+  "text_status": "as-enacted",
+  "text_file": "metin.md"
+}
