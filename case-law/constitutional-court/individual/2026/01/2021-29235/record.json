@@ -1,0 +1,20 @@
+{
+  "applicant": "M.B.",
+  "application_date": "2021-07-06",
+  "application_number": "2021/29235",
+  "deciding_unit": "İkinci Bölüm",
+  "decision_date": "2026-01-29",
+  "id": "bf39cf6c-da13-4316-b354-f07e44f74d82",
+  "in_force": "2026-01-29",
+  "in_force_basis": "official decision date",
+  "kind": "constitutional-court-individual-application",
+  "omitted_images": 0,
+  "outcome": "Kabul Edilemezlik vd.",
+  "published": null,
+  "referenced_images": 0,
+  "source": "https://kararlarbilgibankasi.anayasa.gov.tr/kbb/pages/search/Tumu?id=a2JiOmJmMzljZjZjLWRhMTMtNDMxNi1iMzU0LWYwN2U0NGY3NGQ4Mg&type=BireyselBasvuru",
+  "source_api": "https://kararlarbilgibankasi.anayasa.gov.tr/api/core/public/search",
+  "source_images": 0,
+  "source_sha256": "3d562a77d8370b8947d565d72a31729e8514428c1dacbe63b33624115c351d8e",
+  "version_label": "as-enacted"
+}
