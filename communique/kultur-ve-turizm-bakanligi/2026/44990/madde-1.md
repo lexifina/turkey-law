@@ -1,0 +1,2 @@
+Amaç ve kapsam
+MADDE 1- (1) Bu Tebliğin amacı; 15/6/2022 tarihli ve 5738 sayılı Cumhurbaşkanı Kararı ile yürürlüğe konulan Korunması Gerekli Kültür Varlıklarının Onarımları ve Restorasyonları ile Çevre Düzenlemesine İlişkin Mal ve Hizmet Alımlarına Dair Usul ve Esasların 26 ncı maddesi uyarınca mezkûr Usul ve Esaslarda yer alan parasal limitlerin Türkiye İstatistik Kurumu tarafından yayımlanan 2025 yılının Yurt İçi Üretici Fiyat Endeksi (Yİ-ÜFE) oranları esas alınarak güncellenmesidir.
