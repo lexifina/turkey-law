@@ -1,0 +1,1 @@
+[1] 30/1/2026 tarihli ve 33153 sayılı Resmî Gazete’de yayımlanan değişiklik ile Yönetmeliğe 48 inci maddenin birinci fıkrasından sonra gelmek üzere fıkra eklenmiş ve diğer fıkra buna göre teselsül ettirilmiştir.
