@@ -1,0 +1,2 @@
+Amaç ve kapsam
+MADDE 1- (1) Bu Tebliğin amacı, 1/8/2024 tarihli ve 32619 sayılı Resmî Gazete’de yayımlanan İthalatta Haksız Rekabetin Önlenmesine İlişkin Tebliğ (Tebliğ No: 2024/25) ile Hindistan Cumhuriyeti, Çin Tayvanı ve Tayland Krallığı menşeli 5503.20.00.00.00 gümrük tarife istatistik pozisyonu altında kayıtlı “poliesterlerden” (polyester elyaf) ithalatına yönelik olarak başlatılan ve Ticaret Bakanlığı İthalat Genel Müdürlüğü tarafından yürütülen nihai gözden geçirme soruşturmasının tamamlanması neticesinde alınan kararın yürürlüğe konulmasıdır.
