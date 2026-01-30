@@ -1,0 +1,36 @@
+{
+  "checked_on": "2026-11-13",
+  "date_gazette": "33153",
+  "date_quote": "30.01.2026",
+  "first_law": null,
+  "gazette": "33153",
+  "history": "current-text",
+  "images": {
+    "deferred": 0,
+    "omitted": 0,
+    "referenced": 0,
+    "source": 0
+  },
+  "in_force": "2026-01-30",
+  "in_force_basis": "original Resmi Gazete publication date supplied by the official listing",
+  "issuer": "Kültür ve Turizm Bakanlığı",
+  "issuer_catalog_evidence": [
+    {
+      "evidence": "issuer-139-0.json",
+      "id": "139",
+      "label": "Kültür ve Turizm Bakanlığı",
+      "listing_url": "https://www.mevzuat.gov.tr/Anasayfa/MevzuatDatatable?MevzuatTur=Teblig&KurumId=139&start=0&length=100"
+    }
+  ],
+  "issuer_slug": "kultur-ve-turizm-bakanligi",
+  "kind": "communique",
+  "label": "oldest version available",
+  "notes": [],
+  "published": "2026-01-30",
+  "source": "https://www.mevzuat.gov.tr/anasayfa/MevzuatFihristDetayIframe?MevzuatTur=9&MevzuatNo=44991&MevzuatTertip=5",
+  "source_bytes": 13687,
+  "source_id": "9.5.44991",
+  "source_sha256": "f7c24ca1e27d8203f21de89df830be3878bbf3c0bf411b99401eabff1c549aad",
+  "title": "TAŞINMAZ KÜLTÜR VARLIKLARINA YARDIM SAĞLANMASINA DAİR YÖNETMELİK KAPSAMINDAKİ PARASAL LİMİTLERİN GÜNCELLENMESİ HAKKINDA TEBLİĞ (TEBLİĞ NO: 2026/2)",
+  "word_count": 148
+}
