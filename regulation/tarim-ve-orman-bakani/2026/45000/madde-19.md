@@ -1,0 +1,7 @@
+ALTINCI BÖLÜM
+Çeşitli ve Son Hükümler
+Kenevir yetiştiriciliği izin belgesinin iptali
+MADDE 19- (1) Tahsis edilen kotayı aşan miktarda kök sayısı ve ekim alanından fazla miktarda yetiştiricilik yapıldığının ya da bu Yönetmelik hükümlerine aykırı davranıldığının tespit edilmesi halinde durum adli ve ilgili idari birimlere bildirilir ve tıbbi ürünler, sağlık ürünleri, uyuşturucu etkisi olmayacak oranda kişisel bakım ürünleri ve destek ürünleri üretimi amaçlı kenevir yetiştiriciliği izin belgesi iptal edilir.
+(2) TMO ile yetiştiricilik sözleşmesi imzalanmaması ve/veya yetiştiriciliğin herhangi bir aşamasında yetiştiricinin üretimden vazgeçmesi durumunda tahsis edilen kotaları ve kenevir yetiştiriciliği izin belgeleri Kota Tahsis Komisyonuna bilgi verilerek iptal edilir.
+(3) Kenevir yetiştiriciliği izin belgesinin iptal edilmesi halinde kenevir bitkisinin tüm kısımları ve artıkları, tıbbi ürün ve sağlık ürünleri üretimi amaçlı kenevir yetiştiriciliğinde Kontrol Heyeti nezaretinde, diğer üretim amaçlı kenevir yetiştiriciliğinde Teknik Ekip nezaretinde tartılarak Kanun hükümleri doğrultusunda imha edilir.
+(4) Tıbbi ürünler ve sağlık ürünü amaçlı kenevir yetiştiriciliği için kota ve izin verilenler on sekiz ay içinde yetiştiriciliğe başlamak zorundadır. Bu süre içinde yetiştiriciliğe başlamamış olanların ve TMO ile imzalanmış yetiştiricilik sözleşmesine aykırı davrananların durumu Kota Tahsis Komisyonunca görüşülerek gerekirse tahsis edilen kotaları ve kenevir yetiştiriciliği izin belgeleri iptal edilir.
