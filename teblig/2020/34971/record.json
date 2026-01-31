@@ -1,0 +1,37 @@
+{
+  "checked_on": "2026-11-15",
+  "commencement_quote": "Bu Tebliğ yayımı tarihinde yürürlüğe girer",
+  "date_gazette": "33154",
+  "date_quote": "RG-31/1/2026-33154",
+  "first_law": null,
+  "gazette": "31290",
+  "history": "current-text",
+  "images": {
+    "deferred": 0,
+    "omitted": 0,
+    "referenced": 0,
+    "source": 0
+  },
+  "in_force": "2026-01-31",
+  "in_force_basis": "Latest source-printed RG amendment date for current text: RG-31/1/2026-33154; own commencement clause: Bu Tebliğ yayımı tarihinde yürürlüğe girer",
+  "issuer": "Hazine ve Maliye Bakanlığı",
+  "issuer_catalog_evidence": [
+    {
+      "evidence": "issuer-578-200.json",
+      "id": "578",
+      "label": "Hazine ve Maliye Bakanlığı",
+      "listing_url": "https://www.mevzuat.gov.tr/Anasayfa/MevzuatDatatable?MevzuatTur=Teblig&KurumId=578&start=200&length=100"
+    }
+  ],
+  "issuer_slug": "hazine-ve-maliye-bakanligi",
+  "kind": "communique",
+  "label": "oldest version available",
+  "notes": [],
+  "published": "2020-10-31",
+  "source": "https://www.mevzuat.gov.tr/anasayfa/MevzuatFihristDetayIframe?MevzuatTur=9&MevzuatNo=34971&MevzuatTertip=5",
+  "source_bytes": 37541,
+  "source_id": "9.5.34971",
+  "source_sha256": "87d8ae22775ed2f6119aba775309303ee2c505ffd6162f43bd823cb33d8c6f3a",
+  "title": "KREDİ KARTI İŞLEMLERİNDE UYGULANACAK\r\nAZAMİ FAİZ ORANLARI HAKKINDA TEBLİĞ\r\n(SAYI: 2020/16)",
+  "word_count": 1254
+}
