@@ -1,0 +1,4 @@
+Program, metot ve materyaller
+MADDE 8- (1) Kur’an kurslarında, Başkanlıkça hazırlanan eğitim ve öğretim programları uygulanır. Eğitimlerde Başkanlıkça hazırlanan veya belirlenen ders kitapları kullanılır ve uygun görülen ders materyalleri takip edilir.
+(2) Eğitim ve öğretim programlarını ve materyallerini hazırlama/güncelleme amacıyla Eğitim Hizmetleri Genel Müdürünün onayı ile komisyonlar teşekkül ettirilir. Bu komisyonlar tarafından hazırlanan/güncellenen eğitim ve öğretim programları, ilgili Başkan yardımcısı tarafından onaylanmasını müteakip uygulanır.
+(3) Eğitimlerin yüz yüze gerçekleştirilmesi esastır. İhtiyaç hâlinde, öğrencilerin kursta bulunması gerekmeksizin, internet veya diğer iletişim araçları kullanılarak eş zamanlı ya da eş zamanlı olmadan belirli bir plan dâhilinde uzaktan eğitim yöntemi de kullanılabilir.

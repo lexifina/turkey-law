@@ -1,0 +1,7 @@
+Kur’an Eğitim ve Öğretimi Kurulu
+MADDE 17- (1) Yaygın din eğitimi hizmetlerinin temel ilke ve standartlarını belirlemek, ülke genelinde uygulama birliğini sağlamak, değişen ve gelişen şartlar çerçevesinde yeni politika ve stratejiler geliştirmek amacıyla Kur’an Eğitim ve Öğretimi Kurulu oluşturulur.
+(2) Kur’an Eğitim ve Öğretimi Kurulu; Diyanet İşleri Başkanı veya eğitimden sorumlu Başkan yardımcısının başkanlığında, Mushafları İnceleme ve Kıraat Kurulu Başkanı, Diyanet Akademisi Başkanı, Din Hizmetleri Genel Müdürü, Eğitim Hizmetleri Genel Müdürü, Dini Yayınlar Genel Müdürü, İnsan Kaynakları Genel Müdürü, Yönetim Hizmetleri Genel Müdürü, I. Hukuk Müşaviri, Din İşleri Yüksek Kurulundan bir üye ve Türkiye Diyanet Vakfı Genel Müdüründen oluşur.
+(3) Kur’an Eğitim ve Öğretimi Kurulu, her yıl ağustos veya eylül ayında ve ayrıca Eğitim Hizmetleri Genel Müdürlüğünün önerisi üzerine Diyanet İşleri Başkanının uygun göreceği tarihlerde toplanır. Toplantıya yönetici durumunda olanların katılamaması hâlinde vekilleri katılır.
+(4) Kur’an Eğitim ve Öğretimi Kurulu; üye tam sayısının salt çoğunluğu ile toplanır, kararlarını toplantıya katılanların çoğunluğu ile alır, oyların eşit olması hâlinde Kur’an Eğitim ve Öğretimi Kurulu Başkanının oyu yönünde karar alınmış sayılır.
+(5) İhtiyaç hâlinde Başkanlığın birimleri ile diğer kurum ve kuruluşlardan ilgililer Kurul toplantılarına davet edilebilir, bu kişilerin karar alınmasında oy hakları yoktur.
+(6) Kur’an Eğitim ve Öğretimi Kurulunun sekretarya görevi, Eğitim Hizmetleri Genel Müdürlüğünce yürütülür.

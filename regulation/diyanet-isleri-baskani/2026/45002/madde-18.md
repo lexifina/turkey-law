@@ -1,0 +1,2 @@
+İl Eğitim ve Öğretim Kurulu
+MADDE 18- (1) İl genelinde hafızlık ve yaygın din eğitimi faaliyetlerinin mevzuata ve Başkanlığın eğitim ve öğretim anlayışına uygun, etkin ve verimli olarak yürütülmesini sağlamak amacıyla il müftüsünün teklifi ve mülki amirin onayı ile en az 8 üyeden müteşekkil İl Eğitim ve Öğretim Kurulu oluşturulur. İl Eğitim ve Öğretim Kuruluna il müftüsü veya görevlendireceği müftü yardımcısı başkanlık eder.

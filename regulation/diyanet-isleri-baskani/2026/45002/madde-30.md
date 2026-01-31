@@ -1,0 +1,3 @@
+Yurt ve pansiyonun kapatılması
+MADDE 30- (1) Yurt ve pansiyon binasında eğitim ve öğretime gündüzlü olarak devam edilmesine karar verilmesi, yurt olarak kullanılan binanın öğrencilerin barınmasına uygun olmadığının teftiş raporu ile tespit edilmesi ya da öğrencilerin güvenliği için tehlike oluşturduğuna ilişkin teknik bilirkişi raporu bulunması hâlinde yurt ve pansiyon kapatılır.
+(2) Kapatma işlemleri, yurt ve pansiyonlarda kalan öğrencilerin barınmaları konusunda gerekli tedbirler alındıktan sonra, ilgili müftülüğün teklifi ve Başkanlığın onayı ile veya gerekli görülmesi hâlinde doğrudan Başkanlıkça yapılır.

@@ -1,0 +1,2 @@
+Servis çalıştırılması
+MADDE 33- (1) Kur’an kurslarında talep olması hâlinde mülki amir onayı ile servis çalıştırılabilir. Bu takdirde gerçekleştirilecek öğrenci taşıma faaliyetleri, taşıma yapacak gerçek ve tüzel kişilerin yeterlilik ve çalışma şartları ile denetim işlemlerine ilişkin usul ve esaslar, 25/10/2017 tarihli ve 30211 sayılı Resmî Gazete’de yayımlanan Okul Servis Araçları Yönetmeliği hükümlerine tabidir.
