@@ -1,0 +1,30 @@
+{
+  "number": "month-01",
+  "year": 2026,
+  "month": 1,
+  "title": "Ocak 2026 Meclis Kararları",
+  "decision_date": null,
+  "index_date": "2026-01-31",
+  "date_precision": "month",
+  "period": "Ocak 2026",
+  "source": "https://www.uluborlu.bel.tr/meclis-kararlari",
+  "official_page": null,
+  "official_document": "https://www.uluborlu.bel.tr/karar/ocak-2026-meclis-kararlari",
+  "source_sha256": "6188eefbeb010f7421a2171c629a098c22f0e3f11cfe9f9ef4756c5e7b7545ec",
+  "issuer": "Uluborlu Belediye Meclisi",
+  "history_type": "metadata",
+  "text_status": "metadata-only: listing fields as published; the decisions are in the linked official document(s) or page, not transcribed",
+  "in_force": "2026-01-31",
+  "in_force_basis": "The official listing gives only the month of this official file (Ocak 2026); date set to the last day of that month (turkey-law date convention for month-only sources); exact adoption dates are in the linked official document; legal commencement not asserted",
+  "missing": [
+    "decision numbers, dates and subjects",
+    "complete official decision text",
+    "official annexes"
+  ],
+  "law_text_complete": false,
+  "privacy_withheld": false,
+  "listing_label": "Ocak 2026 Meclis Kararları",
+  "record_scope": "one official file of council decisions (meeting or month)",
+  "list_date": "07-01-2026 10:44",
+  "document_note": "the decisions are published on the linked official page; not transcribed here"
+}
