@@ -1,0 +1,95 @@
+{
+  "source_id": "9.5.34265",
+  "kind": "communique",
+  "register_kind": "Tebliğler",
+  "title": "BANKALARCA TİCARİ MÜŞTERİLERDEN ALINABİLECEK ÜCRETLERE İLİŞKİN USUL VE ESASLAR HAKKINDA TEBLİĞ (SAYI: 2020/4)",
+  "number": "34265",
+  "issuer": "Türkiye Cumhuriyet Merkez Bankası Başkanı",
+  "path": "teblig/2020/34265",
+  "source": "https://www.mevzuat.gov.tr/anasayfa/MevzuatFihristDetayIframe?MevzuatTur=9&MevzuatNo=34265&MevzuatTertip=5",
+  "source_sha256": "88800e31e6db218ae4977ea5363bb4fb1fb69c22e9d2ff2d9cde7eefdd92b6fc",
+  "source_bytes": 80552,
+  "published": "2020-02-10",
+  "gazette": "31035",
+  "in_force": "2026-01-31",
+  "in_force_basis": "latest Resmî Gazete date printed in the source amendment notes/table (\"RG-31/1/2026\") for the current consolidated text",
+  "date_evidence": [
+    [
+      "2026-01-31",
+      "RG-31/1/2026",
+      "Resmî Gazete date printed in the source amendment note"
+    ],
+    [
+      "2026-01-31",
+      "31/1/2026",
+      "Resmî Gazete date in the source amendment table"
+    ],
+    [
+      "2025-09-18",
+      "RG-18/9/2025",
+      "Resmî Gazete date printed in the source amendment note"
+    ],
+    [
+      "2025-09-18",
+      "18/9/2025",
+      "Resmî Gazete date in the source amendment table"
+    ],
+    [
+      "2024-06-28",
+      "RG-28/6/2024",
+      "Resmî Gazete date printed in the source amendment note"
+    ],
+    [
+      "2024-06-28",
+      "28/6/2024",
+      "Resmî Gazete date in the source amendment table"
+    ],
+    [
+      "2023-12-22",
+      "RG-22/12/2023",
+      "Resmî Gazete date printed in the source amendment note"
+    ],
+    [
+      "2023-12-22",
+      "22/12/2023",
+      "Resmî Gazete date in the source amendment table"
+    ],
+    [
+      "2023-12-01",
+      "1/12/2023",
+      "Resmî Gazete date in the source amendment table"
+    ],
+    [
+      "2023-11-25",
+      "RG-25/11/2023",
+      "Resmî Gazete date printed in the source amendment note"
+    ],
+    [
+      "2023-06-23",
+      "RG-23/6/2023",
+      "Resmî Gazete date printed in the source amendment note"
+    ],
+    [
+      "2023-06-23",
+      "23/6/2023",
+      "Resmî Gazete date in the source amendment table"
+    ]
+  ],
+  "commencement_clauses": [
+    "Bu Tebliğin, 1 ila 4 üncü, 15 inci, 20 nci ve 22 nci maddeleri 1/3/2020 tarihinde, (Ek ibare:RG-11/3/2020-31065) 11 inci maddesi 11/3/2020 tarihinde, diğer hükümleri ise 1/4/2020 tarihinde yürürlüğe girer"
+  ],
+  "history": "current-text",
+  "label": "oldest version available",
+  "checked_on": "2026-11-15",
+  "word_count": 4150,
+  "text_status": "current-consolidated",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  },
+  "source_links": [
+    "9.5.34265-Ek.docx"
+  ],
+  "completeness": "html-text-complete; linked annexes not fetched"
+}

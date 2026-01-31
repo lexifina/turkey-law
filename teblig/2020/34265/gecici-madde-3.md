@@ -1,0 +1,2 @@
+GEÇİCİ MADDE 3- (Ek:RG-23/6/2023-32230)
+(1) Referans oran, 1/7/2023 tarihinden 31/7/2023 (dahil) tarihine kadar yüzde 1,36 olarak uygulanır. Bu oran, aynı tarihler arasında 31/10/2020 tarihli ve 31290 sayılı Resmî Gazete’de yayımlanan Kredi Kartı İşlemlerinde Uygulanacak Azami Faiz Oranları Hakkında Tebliğ (Sayı:2020/16) ve 10/6/2022 tarihli ve 31862 sayılı Resmî Gazete’de yayımlanan Menkul Kıymet Tesisi Hakkında Tebliğ bakımından da esas alınır.

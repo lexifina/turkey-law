@@ -1,0 +1,5 @@
+Mevduat, katılım fonu ve kıymetli maden depo hesapları (Değişik başlık:RG-29/3/2020-31083)(2)
+MADDE 14 – (1) Ticari müşterilerin açtıkları (Değişik ibare:RG-29/3/2020-31083)(2) mevduat, katılım fonu ve kıymetli maden depo hesaplarının açılış işlemlerinde katlanılan operasyonel süreçler ve hesapların işletimi, hesapların işletime hazır bulundurulması, saklama hizmeti verilmesi ve bilgi işlem sistemi yatırımları kapsamında ücret alınamaz.
+(2) Şube kanalı ile saat 15.30 sonrasında gerçekleştirilen para yatırma işlemleri haricinde, bir ticari müşterinin mevduat ve katılım fonu hesabına kendisi ya da üçüncü bir kişi tarafından para yatırma işlemlerinden para yatırma adı altında ücret alınamaz.
+(3) Ticari müşterinin, hesabının bulunduğu bankaya ait ATM’lerden kendi hesabı için kartla ya da kartsız limit/borç/bakiye sorgulama ve banka ile arasındaki sözleşmede belirlenen limitler dâhilinde para çekme işlemlerinden ücret alınamaz.
+(4) Bankanın kendi bünyesi dışındaki yöntem ve araçlar kullanılarak gerçekleştirilen işlemlerden alınabilecek ücret, diğer kuruluşa işlem karşılığı ödenen tutarın yüzde on beş fazlasını geçemez.

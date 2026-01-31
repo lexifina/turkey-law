@@ -1,0 +1,3 @@
+Belge ve bilgilendirme
+MADDE 18 – (1) Ticari müşterilerce sözleşme, işlem fişi ve benzeri belgelerin bir örneğinin talep edilmesi hâlinde, ilgili belgenin düzenlenme tarihinden sonraki ilk yıl için yalnızca üçüncü kişilere ödenmek durumunda kalınan tutarlar alınabilir. İlgili belgenin düzenlenme tarihinden itibaren bir yılın üzerinde sürenin geçmesi hâlinde, ticari müşteriye bilgi verilmek suretiyle, yapılan işlemle orantılı olacak şekilde makul bir ücret alınabilir.
+(2) Ticari müşterinin basılı ekstre taleplerinden (Değişik ibare:RG-25/11/2023-32380)(6) alınabilecek ücret, bankalar tarafından üçüncü kişilere ödenen tutarı, hizmetin banka bünyesinde sunulması halinde ise hizmetin makul bedelini geçemez.

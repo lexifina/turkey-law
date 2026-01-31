@@ -1,0 +1,4 @@
+Ücretlerin değiştirilmesi
+MADDE 7 – (Değişik:RG-29/3/2020-31083)(2)
+(1) Sözleşme veya eki olan bilgilendirme formunda belirlenen ücretlerde yapılacak artışlar, uygulanmaya başlanmadan en az iki iş günü önce ticari müşteriye yazılı olarak veya kalıcı veri saklayıcısı yoluyla bildirilir. 5 inci maddenin altıncı fıkrasında düzenlenen, belli bir süre boyunca aynı ücretin uygulanacağı bildirilmiş olan standart ürün ve hizmetler karşılığında alınacak ücretlerde yapılacak artışlar, uygun yöntem ve araçlarla ticari müşteriye en az iki iş günü öncesinden bildirilir. Artırımlar geçmiş döneme uygulanmaz.
+(2) (Ek:RG-31/12/2020-31351) (Değişik:RG-22/12/2023-32407)(7) Bu Tebliğde maktu olarak belirlenen parasal sınırlar ve azami ücretler her yıl, Türkiye İstatistik Kurumunca bir önceki yıl sonu itibarıyla açıklanan yıllık tüketici fiyat endeksi artış oranında Merkez Bankasınca artırılarak, bahse konu oranın açıklanmasını takip eden ilk iş günü bankalara bildirilir.

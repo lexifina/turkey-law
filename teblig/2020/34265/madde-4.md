@@ -1,0 +1,20 @@
+Tanımlar
+MADDE 4 – (1) Bu Tebliğin uygulanmasında;
+a) ATM: Otomatik para çekme işleminin yanı sıra diğer bankacılık işlemlerinin tamamının veya bir bölümünün gerçekleştirilmesine imkân veren elektronik işlem cihazlarını,
+b) Banka: 19/10/2005 tarihli ve 5411 sayılı Bankacılık Kanununun 3 üncü maddesinde tanımlanan bankaları,
+c) Birlikler: Türkiye Bankalar Birliği ve Türkiye Katılım Bankaları Birliğini,
+ç) EFT işlemleri: Merkez Bankasının sahibi olduğu Elektronik Fon Transfer Sistemi kullanılarak gerçekleştirilen ödeme işlemlerini,
+d) (Ek:RG-31/12/2020-31351)(4) FAST işlemleri: Merkez Bankasının sahibi olduğu Fonların Anlık ve Sürekli Transferi Sistemi kullanılarak gerçekleştirilen ödeme işlemlerini,
+e) (Ek:RG-13/11/2021-31658)(5) Hesaptan hesaba işyeri ödemeleri: Ticari müşterinin banka ile yaptığı sözleşme kapsamında mal ve hizmet bedelinin FAST işlemleri veya havale ile tahsil edildiği işlemleri,
+f) Kalıcı veri saklayıcısı: Ticari müşterinin gönderdiği veya kendisine gönderilen bilgiyi, bu bilginin amacına uygun olarak makul bir süre incelemesine elverecek şekilde kaydedilmesini ve değiştirilmeden kopyalanmasını sağlayan, bu bilgiye aynen ulaşılmasına imkân veren, kısa mesaj, elektronik posta, internet, disk, CD, DVD, hafıza kartı ve benzeri her türlü araç veya ortamı,
+g) (Değişik:RG-9/8/2021-31563) Mali kuruluş: Bankalar ile 21/11/2012 tarihli ve 6361 sayılı Finansal Kiralama, Faktoring, Finansman ve Tasarruf Finansman Şirketleri Kanununun 3 üncü maddesinde tanımlanan şirketleri,
+ğ) Merkez Bankası: Türkiye Cumhuriyet Merkez Bankası Anonim Şirketini,
+h) POS: Nakit kullanılmaksızın mal ve hizmet bedelinin ödenmesine veya nakit çekimine ilişkin onayın verilmesine aracılık etmek üzere üye işyerleri tarafından kullanılan her türlü donanımı veya yazılımı,
+ı) (Değişik:RG-22/12/2023-32407) Referans oran: 32-45 gün vadeli olarak açılan Türk lirası cinsi tüm mevduat türlerine bankaların uyguladıkları ağırlıklı ortalama akım faiz oranı üzerinden hesaplanan oran ile Merkez Bankasınca belirlenen politika faizinin yüzde on artırılması ile hesaplanan oran arasından düşük olan dikkate alınarak hesaplanan ve bu Tebliğin 20/A maddesinin üçüncü fıkrasında yer alan azami sınırı aşmayacak şekilde ilan edilen oranı,
+i) Ticari banka kartı: Ticari müşterilerin mevduat hesabı veya özel cari hesapların kullanımı dâhil bankacılık hizmetlerinden yararlanmasını sağlayan her türlü kartı veya fiziki varlığı bulunmayan kart numarasını,
+j) Ticari kredi kartı: Ticari müşterilere nakit kullanımı gerekmeksizin mal ve hizmet alımı veya nakit çekme olanağı sağlayan her türlü basılı kartı veya fiziki varlığı bulunmayan kart numarasını,
+k) Ticari kart: Ticari banka kartı ve ticari kredi kartını,
+l) (Değişik:RG-13/11/2021-31658) Ticari müşteri: Bankalar tarafından ürün veya hizmetlerin sunulduğu, 7/3/2020 tarihli ve 31061 sayılı Resmî Gazete’de yayımlanan Finansal Tüketicilerden Alınacak Ücretlere İlişkin Usûl ve Esaslar Hakkında Tebliğ (Sayı: 2020/7)’in 4 üncü maddesinde tanımlanan finansal tüketiciler dışında kalan Türkiye’de yerleşik kişileri,
+m) Ücret: Ticari müşterilerden faiz, kâr payı ile vergi, fon ve benzeri yasal giderler dışında talep edilen ücret, masraf ve komisyonlar dâhil her türlü tutarı ve oranı,
+n) Üye işyeri: 23/2/2006 tarihli ve 5464 sayılı Banka Kartları ve Kredi Kartları Kanununun 3 üncü maddesinde tanımlanan üye işyerlerini,
+ifade eder.
