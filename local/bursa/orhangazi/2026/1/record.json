@@ -1,0 +1,31 @@
+{
+  "number": "1",
+  "number_as_published": "1-nolu-karar.pdf",
+  "year": 2026,
+  "month": 1,
+  "title": "ORHANGAZİ BELEDİYESİ OCAK AYI MECLİS KARARI - 1 nolu karar",
+  "decision_date": null,
+  "index_date": "2026-01-31",
+  "date_precision": "month",
+  "period": "Ocak 2026",
+  "source": "https://orhangazi.bel.tr/mecliskararlari",
+  "official_page": "https://orhangazi.bel.tr/mecliskararlari",
+  "official_document": "https://orhangazi.bel.tr/upload/mecliskararlari/9smcQDT1NXXP6qP.pdf",
+  "source_sha256": "f1b6869fa31126c4742370134e325dc6ce1ab2586d74bdfabbc9461be6617e25",
+  "issuer": "Orhangazi Belediye Meclisi",
+  "history_type": "metadata",
+  "text_status": "metadata-only: number and subject as published in the official listing; complete decision text is in the linked official page/document, not transcribed",
+  "in_force": "2026-01-31",
+  "in_force_basis": "The official listing gives only the month of this decision (Ocak 2026); date set to the last day of that month (turkey-law date convention for month-only sources); exact adoption dates are in the linked official document; legal commencement not asserted",
+  "missing": [
+    "exact decision date",
+    "complete official decision text",
+    "official annexes"
+  ],
+  "law_text_complete": false,
+  "privacy_withheld": false,
+  "file_name": "1-nolu-karar.pdf",
+  "list_date": "2026-01-09",
+  "listing_item": "ORHANGAZİ BELEDİYESİ OCAK AYI MECLİS KARARI",
+  "record_scope": "one council decision (number from the file name)"
+}
