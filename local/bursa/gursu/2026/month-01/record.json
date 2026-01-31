@@ -1,0 +1,28 @@
+{
+  "number": "month-01",
+  "year": 2026,
+  "month": 1,
+  "title": "Ocak Meclis Kararı",
+  "decision_date": null,
+  "index_date": "2026-01-31",
+  "date_precision": "month",
+  "period": "Ocak 2026",
+  "source": "https://www.gursu.bel.tr/meclis-kararlari/2026-meclis-kararlari",
+  "official_page": null,
+  "official_document": "https://www.gursu.bel.tr/upload/files/2026-meclis-kararlari/2026-meclis-kararlari_3986.pdf",
+  "source_sha256": "9a48653426786b27b6b9762e42114dcb5d5fdd2c855784dfa078178faba44f5f",
+  "issuer": "Gürsu Belediye Meclisi",
+  "history_type": "metadata",
+  "text_status": "metadata-only: listing fields as published; the decisions are in the linked official document(s) or page, not transcribed",
+  "in_force": "2026-01-31",
+  "in_force_basis": "The official listing gives only the month of this official file (Ocak 2026); date set to the last day of that month (turkey-law date convention for month-only sources); exact adoption dates are in the linked official document; legal commencement not asserted",
+  "missing": [
+    "decision numbers, dates and subjects",
+    "complete official decision text",
+    "official annexes"
+  ],
+  "law_text_complete": false,
+  "privacy_withheld": false,
+  "listing_label": "Ocak Meclis Kararı",
+  "record_scope": "one official file of council decisions (meeting or month)"
+}
