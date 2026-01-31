@@ -1,0 +1,5 @@
+Yaptırımlar
+MADDE 18- (1) Bu Tebliğde belirtilen kayıtları tutmayan, gerekli bilgi ve belgeyi vermeyen ve denetimde gerekli kolaylığı göstermeyen işletme sahiplerine 5996 sayılı Kanunun 36 ncı maddesinin birinci fıkrasının (ç) bendi gereği yaptırım uygulanır.
+(2) Bu Tebliğde belirtilen biyogüvenlik tedbirlerini almayan işletme sahiplerine 5996 sayılı Kanunun 36 ncı maddesinin birinci fıkrasının (a) bendi gereği yaptırım uygulanır.
+(3) İşletmelerde çıkan bulaşıcı hayvan hastalığı ya da sebebi belli olmayan hayvan ölümlerini bildirmeyen işletme sahiplerine ve sorumlu veteriner hekimlere 5996 sayılı Kanunun 36 ncı maddesinin birinci fıkrasının (c) bendi gereği yaptırım uygulanır. Ayrıca hastalığı bildirmeyen, yanlış ya da eksik beyanda bulunan sorumlu veteriner hekim bağlı bulunduğu veteriner hekimleri odasına bildirilir.
+(4) Kayıtsız olarak faaliyet gösteren işletmelerin tespiti durumunda 5996 sayılı Kanunun 36 ncı maddesinin birinci fıkrasının (e) bendi gereği yaptırım uygulanır. Bu işletmelerdeki ürünler ile hayvanlar, 5996 sayılı Kanunun 32 nci maddesinin birinci fıkrasının (ç) bendi gereği itlaf ve imha edilir.
