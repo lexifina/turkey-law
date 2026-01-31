@@ -1,0 +1,7 @@
+Hasat sonrası kenevir ürünlerinin elektronik takibi
+MADDE 29- (1) Kenevir yetiştiriciliğine izin verilen gerçek veya tüzel kişiler tarafından elde edilen kenevir ürünleri hasat ve nakil işlemlerinden Bakanlık tarafından onaylı üretim yerine teslimi ve üretim sürecine dâhil edilinceye kadar Kurumca belirlenen elektronik takip sistemine kaydedilir.
+(2) Hasat edilen kenevir ürünlerine ilişkin miktar, ambalaj bilgileri, hasat tarihi, kenevir yetiştiriciliği yapılan yerler, teslim alan kişi veya kuruluş bilgileri, Bakanlıkça belirlenen usul ve esaslar çerçevesinde elektronik takip sistemine girilir.
+(3) Hasat sonrası kenevir ürünlerinin kenevir yetiştirilen yerlerden teslim alınması, yalnızca Kurumdan üretim yeri izin belgesi bulunan tesisler tarafından yapılır ve teslim alma işlemleri elektronik takip sistemi üzerinden doğrulanır.
+(4) Hasat sonrası kenevir ürünlerine ilişkin elektronik kayıtlar; Tarım ve Orman Bakanlığı, Kurum ve ilgili diğer yetkili kurumların erişimine açık olacak şekilde tutulur.
+(5) Bu madde kapsamında yürütülecek elektronik takip işlemlerine ilişkin usul ve esaslar Kurum tarafından yayımlanacak kılavuz ile belirlenir.
+(6) Kurumca izin belgesi düzenlenen üretim yeri veya kenevir bileşenleri üretim yeri adresinde, Kenevir Yetiştiriciliği ve Kontrolüne Dair Yönetmelik hükümleri doğrultusunda kenevirin nakli amacıyla mühürlenen sevkiyat aracının mührü üretim yerinin yetkilisi tarafından açılarak kenevir teslim alınır. Teslim alındığı bilgisi tutanak altına alınarak elektronik takip sistemine işlenir.

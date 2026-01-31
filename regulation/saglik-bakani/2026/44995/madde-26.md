@@ -1,0 +1,4 @@
+Kenevirden elde edilen bileşenlerin yurt içi tahsisat işlemleri
+MADDE 26- (1) Kurumdan alınan üretim yeri izin belgesi kapsamında, uluslararası kontrole tabi THC maddesini %0,3 oranından fazla içeren kenevirden elde edilen bileşenlerin yurt içi tahsisat işlemleri için;
+a) Kenevirden elde edilen ürünün ruhsat sahibi tarafından Kuruma başvuru yapılır. Kurum tarafından yapılan değerlendirme sonucu uygun bulunması halinde; yurt içi tahsisat talebi olan ruhsat sahibine, söz konusu ürünün yurt içi tahsisini yapacak olan TMO veya ruhsat sahibine ve yurt içi tahsisat işlemine ilişkin kontrollerin yapılması amacıyla ilgili il sağlık müdürlüğüne yurt içi tahsisata ilişkin yazılar düzenlenir.
+b) Tahsis edilen kenevirden elde edilen bileşenlerin kullanımına ilişkin sarf-stok bilgileri ile ticari ve ticari olmayan tüm hareketleri ruhsat sahipleri tarafından her ay düzenli olarak Kuruma gönderilir.

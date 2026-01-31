@@ -1,0 +1,8 @@
+Başvurunun esastan reddi
+MADDE 15- (1) Ruhsat başvurusunda bulunulan kenevirden elde edilen sağlık ve destek ürünü analize tabi tutulur. İlk analizde uygunsuzluk bulunması hâlinde başvuru sahibinden ıslah edilmiş numune istenerek analiz tekrarlanır. İkinci analizde de uygunsuzluk bulunması hâlinde başvuru sahibi temsilcileri ile analiz yöntemi hakkında değerlendirme toplantısı yapılarak yeni numunenin analiz yöntemi tespit edilir ve analizi gerçekleştirilir. Üçüncü analizde de uygunsuzluk bulunması hâlinde başvuru sahibi temsilcileri ile son değerlendirme toplantısı yapılır, analiz uygunsuzluğu tarif edilir ve yeni analiz yöntemi belirlenerek son defa analiz yapılır. Belirtilen analiz basamakları tamamlandığı halde, kalitatif ve kantitatif formül uygunsuzluğunun ve beyan edilen spesifikasyonlarının kabul edilebilir limitlerin dışında bulunduğunun tespit edilmesi durumlarında ruhsat başvurusu esastan reddedilir.
+(2) Kenevirden elde edilen sağlık veya destek ürününün ruhsatlandırılması için Kuruma yapılan başvurunun değerlendirilmesi sürecinin aşağıda belirtilen her bir durumu için başvuru sahibine en fazla üç yazılı ve iki sözlü cevap hakkı tanınmasından sonra sunulan belge ve bilgilerin değerlendirilmesi sonucunda ürünün;
+a) Normal kullanma şartlarında, potansiyel riskinin yararlı etkisinden fazla olduğunun,
+b) Sağlık ürünleri kullanım kılavuzunda belirtilen sağlık etkisinin yetersiz olduğunun veya yeterli şekilde kanıtlanamadığının,
+c) Geçerli olduğu durumlarda biyoyararlanımının yeterli olmadığının,
+ç) Kalitatif ve kantitatif formülün ve ürünün kalitesine ilişkin verilerin uygunsuzluğunun,
+tespit edilmesi durumlarında ruhsat başvurusu esastan reddedilir.

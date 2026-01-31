@@ -1,0 +1,9 @@
+Ruhsat başvurusunda bulunacak kişiler
+MADDE 7- (1) Kanunun 23 üncü maddesi gereğince kenevirden elde edilen sağlık ve destek ürününü piyasaya sunmak üzere ruhsat almak isteyen;
+a) Gerçek kişilerin; yükseköğretim kurumlarının en az lisans programından mezun olmaları ve Türkiye’de mesleğini icra etme yetkisine sahip olmaları,
+b) Ticaret şirketlerinin; (a) bendinde belirtilen vasıfları taşıyan gerçek kişiyi “yetkili kişi” sıfatıyla istihdam etmeleri,
+gerekir.
+(2) Başvuru sahibi gerçek kişinin veya ticaret şirketleri için şirket yöneticileri ile yetkili kişi sıfatıyla istihdam edilen kişilerin;
+a) 26/9/2004 tarihli ve 5237 sayılı Türk Ceza Kanununun 53 üncü maddesinde belirtilen süreler geçmiş olsa bile; kasten işlenen bir suçtan dolayı bir yıl veya daha fazla süreyle hapis cezasına ya da affa uğramış olsa bile; Devletin güvenliğine karşı suçlar, Anayasal düzene ve bu düzenin işleyişine karşı suçlar, milli savunmaya karşı suçlar, Devlet sırlarına karşı suçlar ve casusluk, zimmet, irtikâp, rüşvet, hırsızlık, dolandırıcılık, sahtecilik, güveni kötüye kullanma, hileli iflas, ihaleye fesat karıştırma, edimin ifasına fesat karıştırma, suçtan kaynaklanan malvarlığı değerlerini aklama veya kaçakçılık suçları ile 21/3/2007 tarihli ve 5607 sayılı Kaçakçılıkla Mücadele Kanunu ve 12/4/1991 tarihli ve 3713 sayılı Terörle Mücadele Kanunu kapsamına giren suçlardan kesinleşmiş bir mahkûmiyetinin bulunmaması,
+b) 5237 sayılı Kanun kapsamındaki uyuşturucu veya uyarıcı madde suçları ile 2313 sayılı Kanun ve 3/6/1986 tarihli ve 3298 sayılı Uyuşturucu Maddelerle İlgili Kanun kapsamındaki suçlardan dolayı hakkında devam eden bir soruşturma veya kovuşturmanın veya bu suçlardan adli sicil kaydının bulunmaması,
+şarttır. Bu fıkrada belirtilen şartların sağlanıp sağlanmadığı, Kurum tarafından ilgili merciler nezdinde araştırılır.

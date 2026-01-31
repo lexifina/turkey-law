@@ -1,0 +1,4 @@
+Dağıtım
+MADDE 30- (1) Ruhsat sahipleri; birden fazla ürünü sevk ederken, bu ürünlerin güvenliğini sağlamak üzere, taşıma ambalajları kullanır. Taşıma ambalajları paket, koli, kutu veya bağ olarak ve iç içe konulacak şekilde olabilir. Taşıma ambalajlarının içerdiği miktarlar, satış esnasından son noktaya kadar açılmadan taşınacak makul seviyelerde belirlenir.
+(2) Taşıma ambalajlarının üzerinde, taşıma ambalajını tanımlayan bilgileri içeren bir tanımlayıcı veya taşıma ambalajının içindeki ürünlerin karekod bilgilerinin tümünü içeren bir tanımlayıcı mutlaka bulunur. Taşıma ambalajı üzerine konulacak tanımlayıcılar ilgili kılavuzda belirlenen şekilde uygulanır. Paydaşlar bu tanımlayıcıları aralarında transfer etmek amacı ile paket transfer sistemini kullanabilirler.
+(3) Ürünün ambalajlarının özelliği sebebiyle karekodlanmasında sorun olan durumlarda birden fazla miktarı birlikte satılabilen ürünlerin taşıma ambalajları bir ürün gibi karekodlanır.

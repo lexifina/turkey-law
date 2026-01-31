@@ -1,0 +1,3 @@
+Ruhsatın ya da ürün dosyalarının zayi olması
+MADDE 20- (1) Kurum tarafından verilmiş olan ruhsat belgesinin zayi olması durumunda ruhsat sahibi tarafından belgenin zayi olduğunu gösterir gazete ilanı ile Kuruma zayi ruhsat belgesi başvurusu yapılır. Bu durumda yeni bir ruhsat belgesi düzenlenir.
+(2) Ruhsat başvurusu yapılmış kenevirden elde edilen sağlık veya destek ürününün ruhsat dosyasının zayi olması hâlinde başvuru sahibi veya ruhsat sahibi tarafından Kuruma, zayi ruhsat dosyası başvurusu yapılır. Kurum tarafından gerekçesi uygun bulunan başvurular için başvuru sahibine dosyanın bir kopyası verilir.

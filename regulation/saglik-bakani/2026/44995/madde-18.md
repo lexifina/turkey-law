@@ -1,0 +1,22 @@
+Ruhsatın askıya alınması
+MADDE 18- (1) Kenevirden elde edilen ruhsatlı bir sağlık ve destek ürünü ile ilgili olarak;
+a) Normal kullanım şartlarında zararlı etkilerinin ortaya çıkması,
+b) Etkisinin olmadığının veya yetersiz olduğunun tespiti,
+c) Ruhsata esas olan formülden farklı bir formül ile üretilmesi,
+ç) Ruhsata esas formül, aktif bileşen miktarı, farmasötik şekil ve ambalaj bilgilerinde Kurumun bilgisi veya onayı dışında değişiklik yapılması,
+d) Ruhsat sahibi tarafından üretim ve kontrol yöntemleri bakımından bilimsel ve teknik ilerlemelerin dikkate alınmaması ve kenevirden elde edilen sağlık veya destek ürününün genel kabul gören bilimsel yöntemlerle üretilmesini ve kontrol edilmesini sağlamak amacıyla gerekli değişikliğin yapılmaması veya değişiklik yapılmışsa Kurumun onayına sunulmaması,
+e) Yapılan piyasa kontrolleri sonucunda hatalı olduğu tespit edilen ürünler için yapılan uyarının dikkate alınmaması ve hatalı üretime devam edilmesi,
+f) 8 inci maddenin birinci fıkrasının (g) ve (i) bentlerinde yer alan üretim metodu ve üretici tarafından kullanılan kontrol metotlarının belirtildiği şekilde uygulanmadığının tespit edilmesi,
+g) Ambalaj bilgileri ile ilgili hükümlere uyulmaması,
+ğ) Kenevirden elde edilen sağlık ürünleri için; kullanma talimatı ile ilgili hükümlere uyulmaması, kullanma talimatında gerekli güncellemelerin yapılmaması veya bildirilmemesi,
+h) Ruhsat sahibi tarafından kenevirden elde edilen sağlık veya destek ürünüyle ilgili olarak Kurum talimatlarına Kurumca belirlenen sürede cevap verilmemesi,
+ı) Bu Yönetmelik hükümlerine göre kenevirden elde edilen sağlık veya destek ürünü için yapılan başvuruda sunulan belgelerde ürünün kalite veya güvenliliğini etkileyecek hata olduğunun tespit edilmesi veya sunulan belgelerin geçerliliğini yitirmesi,
+i) Kurum tarafından uygun bulunması şartıyla, ticari serinin büyüklüğü nedeniyle tek bir ülke piyasası için üretilmediği veya ülkemiz piyasasına sunulamadığı durumlar hariç olmak üzere; kenevirden elde edilen sağlık veya destek ürününün ruhsatlandırıldığı tarihten itibaren ilk otuz ay içinde en az bir ticari serisinin piyasaya sunulmamış olması,
+j) Ülkemizde imal edilen ve daha önce piyasaya sunulmuş olan, karekod uygulaması kapsamındaki kenevirden elde edilen ruhsatlı bir sağlık veya destek ürününün kesintisiz otuz ay boyunca en az bir ticari serisinin yurt içi veya yurt dışı piyasalara sunulduğunu gösteren resmî belgelerin Kuruma sunulmaması veya karekod uygulamasının kapsamı dışındaki kenevirden elde edilen ürünler için piyasaya sunulduğunu gösteren resmî belgelerin Kuruma sunulmaması,
+k) 21 inci maddenin birinci fıkrasının (c) bendinde yer alan taahhütlerin yerine getirilmemesi,
+l) Halk sağlığı açısından erişiminin önem arz ettiği ürünün, Kurum tarafından talep edilmesine rağmen, talep tarihinden itibaren altı ay içinde ruhsat sahibi tarafından piyasaya arz edilmemesi,
+durumlarından en az birine ilişkin uygunsuzluğun tespit edilmesi hâlinde ilgili uygunsuzluğa ilişkin söz konusu ürünün güvenliğini de kapsayan Kurumca yapılacak değerlendirme neticesine göre veya ruhsat sahibi tarafından ürünün ruhsatının iptalinin talep edilmesi halinde kenevirden elde edilen sağlık veya destek ürününe ait ruhsat Kurum tarafından askıya alınır.
+(2) İmal edilmiş olan ürünler Kurum tarafından aksi yönde karar alınmadıkça piyasaya arz edilemez. Piyasada bulunan kenevirden elde edilen sağlık veya destek ürünleri hakkındaki karar, ruhsatın askıya alınma gerekçesi dikkate alınarak Kurum tarafından verilir.
+(3) Kurum, gerektiğinde kullanıma hazır bulunmamaları durumunda ciddi halk sağlığı sorunlarına yol açabilecek veya ülkemiz piyasasında hiç ihtiyaç duyulmayan ancak ihraç edilen kenevirden elde edilen sağlık veya destek ürünleri için birinci fıkranın (i) ve (j) bentlerinin uygulanmasına istisna getirebilir.
+(4) Ruhsatı askıya alınan kenevirden elde edilen sağlık veya destek ürünlerinin listesi Kurumun resmî internet sayfasında ilan edilir.
+(5) Birinci fıkranın (i) veya (j) bentlerinde belirtilen nedenlerle ruhsatı askıya alınan ürünlerin tekrar piyasaya sunulmak istenmesi hâlinde Kurumca belirlenen usullere uygun olarak, ürünü en geç altı ay içinde piyasaya arz etme taahhüdü ile Kuruma ruhsatın askıdan indirilmesi için başvuru yapılır. Kurum tarafından uygun bulunması durumunda ürün ruhsatı askıdan indirilir. Taahhüt edilen süre içerisinde piyasaya arz edilmeyen ürünler için 19 uncu madde doğrultusunda işlem tesis edilir.

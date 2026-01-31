@@ -1,0 +1,2 @@
+Satış kanalı
+MADDE 34- (1) Bu Yönetmelik kapsamında yer alan kenevirden elde edilen tıbbi ürünler, sağlık ürünleri, kişisel bakım ürünleri ve destek ürünleri sadece eczanelerde satılır. Kenevirden elde edilen tıbbi ürünler ve sağlık ürünleri Reçetem Bilgi Sistemi üzerinden oluşturulan reçete karşılığında eczanelerden temin edilebilir, reçetesiz satılamaz. Kenevirden elde edilen ürünleri izinsiz satan veya satmak üzere bulunduranlar hakkında ilgili mevzuat hükümleri uygulanır. Ayrıca bu ürünlere el konularak imha edilmesine karar verilir.
