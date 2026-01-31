@@ -1,0 +1,28 @@
+{
+  "number": "month-01",
+  "year": 2026,
+  "month": 1,
+  "title": "2026 Ocak",
+  "decision_date": null,
+  "index_date": "2026-01-31",
+  "date_precision": "month",
+  "period": "Ocak 2026",
+  "source": "https://www.onikisubat.bel.tr/MeclisKararlari",
+  "official_page": null,
+  "official_document": "https://www.onikisubat.bel.tr/api/Proxy/GetFile?fileUrl=%2Fupload%2Fmecliskararlari%2F20260203113213%2FKarar_o%CC%88zetleri.pdf&fileName=%2Fupload%2Fmecliskararlari%2F20260203113213%2FKarar_o%CC%88zetleri.pdf",
+  "source_sha256": "e17f3ad346b8242ebc70cd2118e2ac000d7a89e660eb72d9c446900f161e4883",
+  "issuer": "Onikişubat Belediye Meclisi",
+  "history_type": "metadata",
+  "text_status": "metadata-only: listing fields as published; the decisions are in the linked official document(s) or page, not transcribed",
+  "in_force": "2026-01-31",
+  "in_force_basis": "The official listing gives only the month of this official file (Ocak 2026); date set to the last day of that month (turkey-law date convention for month-only sources); exact adoption dates are in the linked official document; legal commencement not asserted",
+  "missing": [
+    "decision numbers, dates and subjects",
+    "complete official decision text",
+    "official annexes"
+  ],
+  "law_text_complete": false,
+  "privacy_withheld": false,
+  "listing_label": "2026 Ocak",
+  "record_scope": "one official file of council decisions (meeting or month)"
+}
