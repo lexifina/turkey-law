@@ -1,0 +1,53 @@
+{
+  "source_id": "7.5.15571",
+  "kind": "regulation",
+  "register_kind": "Kurum ve Kuruluş Yönetmelikleri",
+  "title": "BİLGİ TEKNOLOJİLERİ VE İLETİŞİM KURUMUNUN DENETİM ÇALIŞMALARINA İLİŞKİN YÖNETMELİK",
+  "number": "15571",
+  "issuer": "Bilgi Teknolojileri ve İletişim Kurulu Başkanı",
+  "issuer_slug": "bilgi-teknolojileri-ve-iletisim-kurulu-baskani",
+  "path": "regulation/bilgi-teknolojileri-ve-iletisim-kurulu-baskani/2011/15571",
+  "source": "https://www.mevzuat.gov.tr/anasayfa/MevzuatFihristDetayIframe?MevzuatTur=7&MevzuatNo=15571&MevzuatTertip=5",
+  "source_sha256": "c64f92083ca1985ccbad475d230b92450838cfad4d58a3c4308a3c1deb1165fa",
+  "source_bytes": 60622,
+  "published": "2011-12-14",
+  "gazette": "28142",
+  "in_force": "2026-01-31",
+  "in_force_basis": "latest Resmî Gazete date printed in the source amendment notes/table (\"RG-31/1/2026\") for the current consolidated text",
+  "date_evidence": [
+    [
+      "2026-01-31",
+      "RG-31/1/2026",
+      "Resmî Gazete date printed in the source amendment note"
+    ],
+    [
+      "2026-01-31",
+      "31/1/2026",
+      "Resmî Gazete date in the source amendment table"
+    ],
+    [
+      "2016-06-18",
+      "18/6/2016",
+      "Resmî Gazete date in the source amendment table"
+    ],
+    [
+      "2014-09-03",
+      "3/9/2014",
+      "Resmî Gazete date in the source amendment table"
+    ]
+  ],
+  "commencement_clauses": [
+    "Bu Yönetmelik yayımı tarihinde yürürlüğe girer"
+  ],
+  "history": "current-text",
+  "label": "oldest version available",
+  "checked_on": "2026-11-15",
+  "word_count": 1906,
+  "text_status": "current-consolidated",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  },
+  "completeness": "html-text-complete"
+}
