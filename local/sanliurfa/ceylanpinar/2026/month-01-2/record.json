@@ -1,0 +1,28 @@
+{
+  "number": "month-01-2",
+  "year": 2026,
+  "month": 1,
+  "title": "02 - 2026 Yılı Ocak Ayı Olağanüstü Meclis Karar Özetleri",
+  "decision_date": null,
+  "index_date": "2026-01-31",
+  "date_precision": "month",
+  "period": "Ocak 2026",
+  "source": "https://www.ceylanpinar.bel.tr/karar/02-2026-yılı-ocak-ayı-olağanüstü-meclis-karar-özetleri",
+  "official_page": "https://www.ceylanpinar.bel.tr/karar/02-2026-yılı-ocak-ayı-olağanüstü-meclis-karar-özetleri",
+  "official_document": "https://www.ceylanpinar.bel.tr/tema/genel/uploads/meclis_kararlari/dosya/2026_YYlY_Ocak_AyY_OlaYanustu_Meclis_Karar_Ozetleri.doc",
+  "source_sha256": "2ca4b28c61fd4612f902f6774192a19d3d8a2e151a60ee9511e1a506f39654d8",
+  "issuer": "Ceylanpınar Belediye Meclisi",
+  "history_type": "metadata",
+  "text_status": "metadata-only: listing fields as published; the decisions are in the linked official document(s) or page, not transcribed",
+  "in_force": "2026-01-31",
+  "in_force_basis": "The official listing gives only the month of this official file (Ocak 2026); date set to the last day of that month (turkey-law date convention for month-only sources); exact adoption dates are in the linked official document; legal commencement not asserted",
+  "missing": [
+    "decision numbers, dates and subjects",
+    "complete official decision text",
+    "official annexes"
+  ],
+  "law_text_complete": false,
+  "privacy_withheld": false,
+  "listing_label": "02 - 2026 Yılı Ocak Ayı Olağanüstü Meclis Karar Özetleri",
+  "record_scope": "one official file of council decisions (meeting or month)"
+}
