@@ -1,0 +1,4 @@
+Yatay geçiş yoluyla öğrenci kabulü
+MADDE 7- (1) Üniversiteye bağlı öğretim birimlerine kurum içi ve kurumlar arası yatay geçişler; 24/4/2010 tarihli ve 27561 sayılı Resmî Gazete’de yayımlanan Yükseköğretim Kurumlarında Önlisans ve Lisans Düzeyindeki Programlar Arasında Geçiş, Çift Anadal, Yan Dal ile Kurumlar Arası Kredi Transferi Yapılması Esaslarına İlişkin Yönetmelik hükümlerine ve Senato tarafından yapılan düzenlemeler ve belirlenen kriterler çerçevesinde yürütülür.
+(2) Zorunlu hazırlık sınıfı olan bölümlerde hazırlık eğitimi almadan yatay geçişle gelen öğrenciler için öncelikle muafiyet sınavı yapılır. Muafiyet sınavında başarısız olan öğrencinin hazırlık sınıfı okuması zorunludur.
+(3) Yatay geçişlerde katkı payının hesaplanmasında öğrencinin önceki eğitiminde geçen süreler azami sürelerin hesaplanmasına dahil edilir.

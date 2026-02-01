@@ -1,0 +1,6 @@
+Başarının değerlendirilmesine ilişkin esaslar, onur ve yüksek onur başarı notu
+MADDE 47- (1) Öğrenciye lisans veya ön lisans diploması verilebilmesi için, öğrencinin ilgili bölümün öğretim planında öngörülen bütün derslerden başarılı olması ve GNO değerinin en az 2.00 olması gerekir.
+(2) Tüm derslerden başarılı olduğu halde GNO değeri 2.00’den aşağı olan öğrenciler ders kaydı yapmak şartıyla başardıkları dersleri tekrar alıp GNO değerini yükseltmek zorundadırlar.
+(3) GNO değeri 2.00 ve daha yukarı olan öğrenciler de not yükseltmek için isterlerse başardıkları dersleri yeniden alabilirler.
+(4) Öğrenci tekrar aldığı dersin ara sınavına, final ve başarısız olması hâlinde bütünleme sınavlarına girmek zorunda olup aldığı en son not geçerlidir.
+(5) Mezuniyet aşamasına gelmiş ve tüm derslerden başarılı olan, GNO değeri 3.00-3.49 arasındaki öğrenci onur öğrencisi listesinde, 3.50-4.00 arasındaki öğrenci ise yüksek onur öğrencisi listesinde yer alır. Onur belgesi/yüksek onur belgesi, fakülte dekanlığı/yüksekokul müdürlüğü tarafından verilir. Üniversite Yönetim Kurulu kararıyla bu öğrenciler ödüllendirilebilir. Disiplin cezası alan öğrenciler, onur öğrencisi ve yüksek onur öğrencisi sayılmaz ve ilan edilmez.

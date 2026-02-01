@@ -1,0 +1,3 @@
+Ön koşullu dersler
+MADDE 29- (1) Ön koşullu dersler ve koşulları, bu dersleri veren bölüm/ana bilim/ana sanat/bilim dalının önerisi, ilgili kurulun kararı ve Senatonun onayı ile kesinleşir. Ön koşul niteliğindeki ders/dersler başarılmadıkça ön koşullu ders/dersler alınamaz. İlgili akademik birim kurul kararı ile ön şart olarak belirlenen dersin alınması da yeterli sayılabilir.
+(2) Eğitim-öğretim planında ön koşullu ders olarak belirlenen dersin, ön koşul olmaktan çıkarılması halinde, bu koşul aranmaksızın ders alabilir. Ön koşullu dersin eğitim-öğretim planından çıkarılması halinde 25 inci maddenin beşinci fıkrası uygulanır.

@@ -1,0 +1,3 @@
+İntibak
+MADDE 34- (1) Kurumlar arası yatay geçiş kontenjanıyla gelen öğrencilerin kayıtları ilan edildikleri sınıflara yapılır. Yatay geçiş isteği kabul edilen öğrencilerin intibak işlemleri eğitim-öğretim başlamadan önce kesinleştirilir. Merkezi yerleştirme puanı ile yapılan yatay geçişler bakımından intibak işlemi Senato tarafından belirlenen kurallar dâhilinde ilgili yönetim kurulu tarafından belirlenen sınıflara yapılır.
+(2) Dikey geçiş kontenjanıyla gelen öğrencilerin intibak işlemleri Senato tarafından belirlenen kurallar dâhilinde ilgili yönetim kurulu tarafından belirlenen sınıflara yapılır. Dikey geçiş başvurusu kabul edilen öğrencilerin intibak işlemleri kayıtlarının yapılmasından sonraki iki hafta içerisinde yapılır.

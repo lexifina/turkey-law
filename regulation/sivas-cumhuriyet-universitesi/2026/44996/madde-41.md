@@ -1,0 +1,2 @@
+Yeterlik sınavı
+MADDE 41- (1) Senato tarafından belirlenen veya uygun görülen dersler için ilgili birimlerce yeterlik sınavları açılır. Yeterlik sınavlarında başarılı sayılmak için en az 60/100 veya (CC) harf notunun alınması gerekir. Yeterlik sınavında alınan notlar, öğrencinin transkriptine işlenir. Bu sınavlarda alınan notlar akademik ortalamaya dâhil edilir. Bir veya iki yabancı dil eğitimi veren bölümlerde yeterliğin alt sınırı 70 ve eşdeğeri bir puandır.

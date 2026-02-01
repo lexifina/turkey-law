@@ -1,0 +1,4 @@
+Ara sınavlar
+MADDE 36- (1) Her ders için bir yarıyılda en az bir ara sınav yapılır. Bir derse ait uygulamaların ara sınav yerine geçip geçmeyeceği ilgili birim kurulu veya yönetim kurulu kararıyla belirlenir.
+(2) Bitirme çalışması ve seminer için ara sınav yapılmaz. Dersin niteliğine bağlı olarak, ders içerisinde/kapsamında yapılan ödev, proje, küçük sınavlar, gezi ve gözlem çalışmaları, klinik ve laboratuvarda yapılan deneysel çalışmalar, stüdyo ve benzeri çalışmalar ile ödev/proje/ portfolyo, rapor veya sunum gibi öğrenci ürünleri ara sınav yerine veya ara sınava ek olarak kullanılabilir. Bu çalışmaların başarı notunun hesaplanmasındaki ağırlığı ile ara sınav yerine veya ara sınava ek olarak yapılıp yapılamayacağı her yarıyılın/yılın başında ilgili akademik birimin yönetim kurulu tarafından belirlenir.
+(3) Ara sınavların sonucu, yarıyıl/yılsonu sınav döneminden önce ilan edilir.
