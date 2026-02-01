@@ -1,0 +1,8 @@
+Dersler
+MADDE 18 – (1) Dersler; zorunlu, seçmeli, ön koşullu ve ortak zorunlu olarak öğretim programlarında yer alırlar. Fakülte ve yüksekokulların eğitim-öğretim yapılan programlarında yer alan ders, uygulama ve stajlar ilgili birimin önerisi ve Senatonun kararıyla belirlenir. İlgili birimin önerisi üzerine Senato, bir dersin iki yarıyıl (yıllık) verilmesini kararlaştırabilir.
+(2) Zorunlu dersler; öğretim programlarında yer alan ve öğrencinin kayıtlı olduğu programdan mezun olabilmesi için alıp başarılı olması gereken derslerdir.
+(3) Seçmeli dersler; aşağıda belirtilen programa bağlı seçmeli ve isteğe bağlı seçmeli derslerden oluşur:
+a) Programa bağlı seçmeli dersler: Öğrencinin kayıtlı olduğu öğretim programlarında yer alan ve mezun olabilmesi için önerilen belirli dersler veya ders grupları arasından seçerek alması gereken derslerdir.
+b) İsteğe bağlı seçmeli dersler: Öğrencinin kayıtlı olduğu öğretim programında yer almayan ve mezuniyet için gerekli olan krediyi tamamlamak üzere bilgi, görgü ve genel kültürünü artırmak amacıyla kendi isteği ve danışmanının onayıyla aldığı derslerdir. İsteğe bağlı olarak alınan seçmeli dersler, programa bağlı seçmeli derslerin yerine geçmez.
+(4) Ön koşullu dersler; alınabilmeleri için alt yarıyıl veya yıllarda yer alan derslerden bir kısmının veya tamamının başarılmasının ve/veya devam koşulunun yerine getirilmesinin zorunlu olduğu stajlar ile teorik ve uygulamalı derslerdir.
+(5) Ortak zorunlu dersler; 2547 sayılı Kanunun 5 inci maddesinin birinci fıkrasının (ı) bendinde yer alan Atatürk İlkeleri ve İnkılâp Tarihi, Türk Dili, Temel Bilgi Teknolojileri ile yabancı dil hazırlık sınıfı olmayan programlardaki yabancı dil dersleridir.

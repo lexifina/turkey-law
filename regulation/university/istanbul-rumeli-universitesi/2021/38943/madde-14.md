@@ -1,0 +1,2 @@
+Eğitim-öğretim dili
+MADDE 14 – (1) Bilim alanı bir yabancı dil olan eğitim-öğretim programları dışında, Üniversitede öğretim dili Türkçedir. Ancak, ilgili birimin önerisi, Senatonun kararı ve YÖK’ün onayı ile programlarda tamamen veya toplam kredinin yüzde otuzundan az olmamak üzere kısmen yabancı dilde öğretim yapılabilir. Türkçe yapılan derslerde de yabancı dilde kitaplar izlenebilir; ödev, proje ve raporların hazırlanması istenebilir.

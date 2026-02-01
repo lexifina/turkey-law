@@ -1,0 +1,3 @@
+Eğitim-öğretim süresi, ek süreler ve intibak
+MADDE 17 – (1) Öğrenciler, kayıtlı oldukları eğitim-öğretim programlarını 2547 sayılı Kanunda belirlenen sürelerde tamamlamak zorundadırlar. Azami öğrenim süresinin hesaplanmasında Üniversiteden uzaklaştırma cezası alan öğrencilerin cezalı oldukları süreler öğrenim süresinden sayılır.
+(2) Bir lisans programının en az dört yarıyılının bütün derslerinden veya o lisans programının yüzde altmışından başarılı olup da lisans programını tamamlamayan veya tamamlayamayanlar, Üniversite ile ilişiklerinin kesildiği tarihten itibaren altı ay içinde başvurmaları koşuluyla, meslek yüksekokullarının benzer ve uygun programlarına intibak ettirilebilirler.

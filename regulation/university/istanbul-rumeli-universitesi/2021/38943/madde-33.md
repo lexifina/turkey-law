@@ -1,0 +1,2 @@
+Sınav sonuçlarına itiraz
+MADDE 33 – (1) Öğrenci bir dersin sınav sonucuna, başarı notunun ilan edilmesinden itibaren (Değişik ibare:RG-2/11/2023-32357) üç gün içerisinde, dilekçesini çözüm merkezi kanalıyla kayıtlı olduğu programın bağlı olduğu ilgili dekanlık ya da müdürlüğe iletmek üzere itirazda bulunabilir. İtiraz, maddi hata yönünden ilgili öğretim elemanının görüşü alınarak ilgili fakülte/yüksekokul yönetim kurulu tarafından incelenir. Maddi hata tespit edilmesi halinde not değişikliği ancak ilgili yönetim kurulu kararı ile yapılır.

@@ -1,0 +1,31 @@
+{
+  "act_path": "regulation/university/istanbul-rumeli-universitesi/2021/38943",
+  "availability": "text",
+  "checked_on": "2026-11-14",
+  "commencement_clauses": [
+    "MADDE 42 – (1) Bu Yönetmelik yayımı tarihinde yürürlüğe girer."
+  ],
+  "date_quote": "RG-1/2/2026",
+  "first_law": null,
+  "gazette": "31603",
+  "history": "current-text",
+  "images": {
+    "deferred": 0,
+    "omitted": 0,
+    "referenced": 0,
+    "source": 0
+  },
+  "in_force": "2026-02-01",
+  "in_force_basis": "latest source-printed amendment Gazette date; current consolidated text",
+  "issuer": "İstanbul Rumeli Üniversitesi",
+  "issuer_slug": "istanbul-rumeli-universitesi",
+  "kind": "regulation",
+  "published": "2021-09-19",
+  "source": "https://www.mevzuat.gov.tr/anasayfa/MevzuatFihristDetayIframe?MevzuatTur=8&MevzuatNo=38943&MevzuatTertip=5",
+  "source_id": "8.5.38943",
+  "source_sha256": "723a72b3e296df07cfd86fdb2f905ab393be1ac212b15c9cd1e5122b73e3dbb4",
+  "title": "İSTANBUL RUMELİ ÜNİVERSİTESİ ÖN LİSANS VE LİSANS\r\nEĞİTİM-ÖĞRETİM VE SINAV YÖNETMELİĞİ",
+  "university_id": 462,
+  "version_label": "oldest version available",
+  "word_count": 4597
+}

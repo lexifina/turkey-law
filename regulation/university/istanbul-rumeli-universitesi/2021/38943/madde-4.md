@@ -1,0 +1,20 @@
+Tanımlar
+MADDE 4 – (1) Bu Yönetmelikte geçen;
+a) AGNO: Ağırlıklı genel not ortalamasını,
+b) Avrupa Kredi Transfer Sistemi (AKTS): Öğrencinin bir dersi başarı ile tamamlayabilmesi için yapması gereken çalışmaların tümünü ifade eden krediyi,
+c) Akademik birim: İstanbul Rumeli Üniversitesinin fakülte, yüksekokul ve meslek yüksekokullarını,
+ç) Bölüm başkanı: İstanbul Rumeli Üniversitesi bünyesindeki fakülte, yüksekokul ve meslek yüksekokullarının bölüm başkanlarını,
+d) Çözüm Merkezi: Dilekçelerin işleme alındığı merkezi,
+e) Danışman: Öğrencilerin eğitim-öğretim ve diğer sorunları ile ilgilenmek üzere görevlendirilen öğretim elemanını,
+f) Dekan: İstanbul Rumeli Üniversitesi bünyesindeki fakültelerin dekanlarını,
+g) İlgili yönetim kurulu: İstanbul Rumeli Üniversitesi bünyesindeki fakülte, yüksekokul ve meslek yüksekokullarının yönetim kurullarını,
+ğ) Müdür: İstanbul Rumeli Üniversitesi bünyesindeki yüksekokul veya meslek yüksekokulu müdürlerini,
+h) Mütevelli Heyet: İstanbul Rumeli Üniversitesi Mütevelli Heyeti,
+ı) Mütevelli Heyet Başkanı: İstanbul Rumeli Üniversitesi Mütevelli Heyet Başkanını,
+i) Rektör: İstanbul Rumeli Üniversitesi Rektörünü,
+j) Senato: İstanbul Rumeli Üniversitesi Senatosunu,
+k) Üniversite: İstanbul Rumeli Üniversitesini,
+l) YÖK: Yükseköğretim Kurulunu,
+m) Yönetim Kurulu: İstanbul Rumeli Üniversitesi Yönetim Kurulunu,
+n) (Ek:RG-26/2/2024-32472) Öğrenim süresi: Kayıt olunan programa ilişkin derslerin verildiği dönemden başlamak üzere her dönem için kayıt yaptırıp yaptırılmadığına bakılmaksızın; öğrenim süresi iki yıl olan ön lisans programları için dört yarıyılı, öğrenim süresi dört yıl olan lisans programları için sekiz yarıyılı, öğrenim süresi beş yıl olan lisans programları için on yarıyılı, öğrenim süresi altı yıl olan lisans programları için on iki yarıyılı, bunlarla birlikte zorunlu hazırlık eğitimi olan programlar için öğrencinin hazırlık sınıfına devam etmesi durumunda ek olarak bu iki yarıyılı,
+ifade eder.

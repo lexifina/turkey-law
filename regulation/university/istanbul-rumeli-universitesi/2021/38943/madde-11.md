@@ -1,0 +1,2 @@
+Yarıyıl/yıl kayıt yenileme
+MADDE 11 – (1) Kayıtlar, her yarıyıl başında akademik takvimde belirlenen tarihler arasında yenilenir. Kayıt yenileme sırasında öğrencinin o yarıyılda alacağı dersler de belirlenir. Öğrenciler, akademik takvimde belirlenen süreler içinde, o yarıyılda seçeceği derslere ekleme veya çıkarma yapabilirler. Üst üste dört yıl kaydını yenilemeyen öğrencilerin ilişikleri 2547 sayılı Kanunun 44 üncü maddesi hükümleri uyarınca Yönetim Kurulunun kararı ve YÖK’ün onayıyla kesilebilir.

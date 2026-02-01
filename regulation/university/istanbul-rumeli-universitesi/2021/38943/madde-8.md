@@ -1,0 +1,3 @@
+Özel öğrenci kabulü
+MADDE 8 – (1) Yurt içinde veya yurt dışında başka bir yükseköğretim kurumunda ön lisans veya lisans düzeyinde öğretim gören öğrenciler Üniversiteye tam zamanlı öğrenci olarak ders almak için başvurabilirler. Başvurular, ilgili bölüm/program başkanlığınca değerlendirilir ve başvurulan akademik birimin yönetim kurulunca karara bağlanır. Özel öğrencilere, aldıkları dersler ve başarı notlarını belirten bir belge verilir. Özel öğrenci statüsünde yer alan öğrencilere, Yükseköğretim Kurumlarında Ön Lisans ve Lisans Düzeyindeki Programlar Arasında Geçiş, Çift Anadal, Yan Dal ile Kurumlar Arası Kredi Transferi Yapılması Esaslarına İlişkin Yönetmeliğin ilgili hükümleri uygulanır.
+(2) Bu öğrencilerin öğretim ücretleri Mütevelli Heyet tarafından belirlenir.

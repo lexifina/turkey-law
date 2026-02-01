@@ -1,0 +1,2 @@
+Türkçe hazırlık eğitimi
+MADDE 15 – (1) Türkçe yeterlik/seviye belirleme sınavını başaran ya da Senatonun belirlediği koşulları sağlayan yabancı uyruklu öğrenciler kayıtlı oldukları eğitim-öğretim programına başlarlar. (Değişik cümle:RG-2/11/2023-32357) Türkçe yeterlik/seviye belirleme sınavına girip başarısız olan veya bu sınava girmeyen yabancı uyruklu öğrenciler, Üniversitenin Türkçe Öğretimi Uygulama ve Araştırma Merkezi aracılığıyla Türkçe hazırlık sınıfına devam eder.

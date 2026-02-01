@@ -1,0 +1,3 @@
+Ön lisans diploması
+MADDE 35 – (1) Kayıtlı olduğu lisans öğretim programındaki ilk dört yarıyılın bütün dersleri ile Yükseköğretim Kurulu tarafından belirlenen ortak zorunlu dersleri başarmış olup AGNO’sunu en az 2.00’a çıkarmış olan (Değişik ibare:RG-2/11/2023-32357) öğrenciye dilekçe ile ilgili dekanlığa/müdürlüğe müracaatı halinde, 18/3/1989 tarihli ve 20112 sayılı Resmî Gazete’de yayımlanan Lisans Öğrenimlerini Tamamlamayan veya Tamamlayamayanların Ön Lisans Diploması Almaları veya Meslek Yüksekokullarına İntibakları Hakkında Yönetmelik hükümlerine göre ilgili yönetim kurulunun kararı ile ön lisans diploması verilir.
+(2) Bu öğrenciler, 31 inci madde hükümlerine göre mezuniyet sınavı hakkından yararlanabilir.
