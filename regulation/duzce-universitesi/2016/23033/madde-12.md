@@ -1,0 +1,2 @@
+Yatay geçiş ve intibak
+MADDE 12 – (1) Başka bir tıp fakültesinden yatay geçiş yapmak isteyen öğrencilerin Fakülteye kabulü ve intibakı; Yükseköğretim Kurulunca ve Senatoca belirlenen esaslar dahilinde, öğrencinin almış olduğu eğitimin Fakülte eğitim programına uyum ve denkliği hakkında akreditasyon ve eşdeğerlilik komisyonunun görüşü alınarak ve daha önceki yükseköğretim kurumunda geçen süreler 2547 sayılı Kanunun 44 üncü maddesinde belirlenen azami eğitim süresinden düşülerek Yönetim Kurulu kararı ile yapılır.

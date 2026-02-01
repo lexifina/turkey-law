@@ -1,0 +1,4 @@
+Mazeretler
+MADDE 25 – (1) Öğrencilerin her türlü mazereti Yönetim Kurulu tarafından değerlendirilerek kabul veya ret edilir. Mazeretlere ilişkin esaslar aşağıda belirtilmiştir:
+a) İlk beş sınıf öğrencilerinin sınav tarihlerini kapsamayan yedi güne kadar olan kısa süreli raporları, ilgili ders kurulu başkanı veya staj sorumlusu tarafından; yedi günden uzun süreyi kapsayan raporları ve sadece sınav tarihlerini kapsayan raporları ise Yönetim Kurulu tarafından değerlendirilir ve karara bağlanır. Mazereti kabul edilen öğrenciler, mazeretleri süresince derslere devam edemez ve sınavlara alınmaz.
+b) Öğrencilerin; bilimsel, sosyal, kültürel ve sportif etkinlikler ile karşılaşmalar sebebiyle Yönetim Kurulunun kararı ile izinli oldukları süreler devamsızlıktan sayılmaz. Öğrenciler, bu süreler içinde giremedikleri uygulama çalışmalarını telafi ederler ve katılamadıkları sınavlara Yönetim Kurulunca belirlenecek tarihlerde girerler.
