@@ -1,0 +1,23 @@
+{
+  "number": "15",
+  "number_as_published": "15",
+  "year": 2026,
+  "title": "council decision",
+  "decision_date": "2026-02-02",
+  "source": "https://www.bakirkoy.bel.tr/meclis-kararlari/4",
+  "official_document": "https://www.bakirkoy.bel.tr/storage/app/media/meclis%20kararlar%C4%B1/15-yazi-isleri-mudurlugu-dso-avrupa-saglikli-sehirler-agi-2026-2030-uyelik-basvurusu02022026.pdf",
+  "source_sha256": "6a2c533a3679449e8a89fdf42dbd5f775c4672109b0b51e252f7a67b6186978c",
+  "issuer": "Bakırköy Belediye Meclisi",
+  "history_type": "metadata",
+  "text_status": "metadata-only: subject appears to concern individual persons; official link only",
+  "in_force": "2026-02-02",
+  "in_force_basis": "Decision date as printed in the official council listing: 02 Şubat 2026 (Tarih column of the official list); adoption date of the council decision; legal commencement not asserted",
+  "missing": [
+    "complete official decision text",
+    "official annexes"
+  ],
+  "law_text_complete": false,
+  "privacy_withheld": true,
+  "record_scope": "one council decision (number, date and summary as listed; the decision is the linked official PDF)",
+  "official_page": "https://www.bakirkoy.bel.tr/meclis-kararlari"
+}
