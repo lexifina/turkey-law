@@ -1,0 +1,2 @@
+Araştırma görevlileri
+MADDE 30 – (1) Üniversitenin gelişme planı ve programları uyarınca yüksek lisans veya doktora yapan veya yapmakta olan kişilerden Üniversitenin koyduğu şartları sağlayanlar araştırma görevlisi olarak seçilir ve usulüne göre atanırlar. Bunlardan ihtiyaç duyulan alanlarda genel hükümlere göre mecburi hizmet yüklenmek kaydı ile yurt içi ve yurt dışında doktora eğitimi de yaptırılabilir.

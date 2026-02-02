@@ -1,0 +1,2 @@
+Üniversite yönetim kurulu ve oluşumu
+MADDE 14 – (1) Yönetim Kurulu, Üniversitenin idari organıdır. Rektörün başkanlığında dekanlardan, Üniversiteye bağlı değişik birim ve alanları temsil edecek şekilde Senatoca dört yıl için seçilecek üç profesörden oluşur. Rektör, gerektiğinde Yönetim Kurulunu toplantıya çağırır. Rektör yardımcıları, oy hakkı olmaksızın Yönetim Kurulu toplantılarına katılabilirler.
