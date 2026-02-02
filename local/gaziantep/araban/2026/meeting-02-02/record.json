@@ -1,0 +1,24 @@
+{
+  "number": "meeting-02-02",
+  "number_as_published": "meeting-02-02",
+  "year": 2026,
+  "title": "02.02.2026 ve 04.02.2026 Tarihli 12,13,14,15,16 ve 17 Sayılı Meclis Kararları",
+  "decision_date": "2026-02-02",
+  "source": "https://araban.bel.tr/karar/02-02-2026-ve-04-02-2026-tarihli-12-13-14-15-16-ve-17-sayili-meclis-kararlari.html",
+  "official_document": "https://araban.bel.tr/uploads/files/2026%20Y%C4%B1l%C4%B1%20%C5%9Eubat%20Ay%C4%B1%20Meclis%20Kararlar%C4%B1.pdf",
+  "source_sha256": "e17a0b01ce27d6cba8791a398034f46cc00f5e2198bbb1d2c844fb886288ddf7",
+  "issuer": "Araban Belediye Meclisi",
+  "history_type": "metadata",
+  "text_status": "metadata-only: listing fields as published; complete decision text is in the linked official document, not transcribed",
+  "in_force": "2026-02-02",
+  "in_force_basis": "Decision date as printed in the official council listing: 02.02.2026; adoption date of the council decision; legal commencement not asserted",
+  "missing": [
+    "complete official decision text",
+    "official annexes"
+  ],
+  "law_text_complete": false,
+  "privacy_withheld": false,
+  "listing_label": "02.02.2026 ve 04.02.2026 Tarihli 12,13,14,15,16 ve 17 Sayılı Meclis Kararları",
+  "record_scope": "one official file of council decisions (meeting)",
+  "official_page": "https://araban.bel.tr/karar/02-02-2026-ve-04-02-2026-tarihli-12-13-14-15-16-ve-17-sayili-meclis-kararlari.html"
+}
