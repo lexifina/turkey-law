@@ -1,0 +1,27 @@
+{
+  "number": "82",
+  "number_as_published": "82",
+  "year": 2026,
+  "title": "Belediyemizce 2025 yılında yapılan imar planı değişikliklerine ilişkin, Meclis Kararı",
+  "decision_date": "2026-02-03",
+  "source": "https://www.mamak.bel.tr/gundem/GetKararlar",
+  "official_document": "https://www.mamak.bel.tr/gundem/DosyaDownload?guid=c75f9fcf-ae0e-4ee6-8c04-26fbf9c92409",
+  "source_sha256": "f554089df68731558a37947c976f196303cdbdc5704c52cb6912834ca94730d3",
+  "issuer": "Mamak Belediye Meclisi",
+  "history_type": "metadata",
+  "text_status": "metadata-only: listing fields as published; complete decision text is in the linked official document, not transcribed",
+  "in_force": "2026-02-03",
+  "in_force_basis": "Decision date as printed in the official council listing: 2026-02-03T00:00:00 (kararTarihi of the official register); adoption date of the council decision; legal commencement not asserted",
+  "missing": [
+    "complete official decision text",
+    "official annexes"
+  ],
+  "law_text_complete": false,
+  "privacy_withheld": false,
+  "listing_page": "https://www.mamak.bel.tr/gundem/kararlar",
+  "register_api": "https://www.mamak.bel.tr/gundem/GetKararlar",
+  "official_documents": [
+    "https://www.mamak.bel.tr/gundem/DosyaDownload?guid=c75f9fcf-ae0e-4ee6-8c04-26fbf9c92409",
+    "https://www.mamak.bel.tr/gundem/DosyaDownload?guid=034c46be-c5be-4372-9659-b121fc850869"
+  ]
+}
