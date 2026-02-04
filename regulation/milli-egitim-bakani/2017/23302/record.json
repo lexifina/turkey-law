@@ -1,0 +1,73 @@
+{
+  "source_id": "7.5.23302",
+  "kind": "regulation",
+  "register_kind": "Kurum ve Kuruluş Yönetmelikleri",
+  "title": "MİLLÎ EĞİTİM BAKANLIĞI ÖZEL ULAŞTIRMA HİZMETLERİ MESLEKİ EĞİTİM VE GELİŞTİRME KURSLARI YÖNETMELİĞİ",
+  "number": "23302",
+  "issuer": "Millî Eğitim Bakanı",
+  "issuer_slug": "milli-egitim-bakani",
+  "path": "regulation/milli-egitim-bakani/2017/23302",
+  "source": "https://www.mevzuat.gov.tr/anasayfa/MevzuatFihristDetayIframe?MevzuatTur=7&MevzuatNo=23302&MevzuatTertip=5",
+  "source_sha256": "9b149600a183572a97917f9631f717abf4f456ea735fcbd504a7b65529db7e0d",
+  "source_bytes": 82817,
+  "published": "2017-02-01",
+  "gazette": "29966",
+  "in_force": "2026-02-04",
+  "in_force_basis": "latest Resmî Gazete date printed in the source amendment notes/table (\"RG-4/2/2026\") for the current consolidated text",
+  "date_evidence": [
+    [
+      "2026-02-04",
+      "RG-4/2/2026",
+      "Resmî Gazete date printed in the source amendment note"
+    ],
+    [
+      "2026-02-04",
+      "4/2/2026",
+      "Resmî Gazete date in the source amendment table"
+    ],
+    [
+      "2019-03-06",
+      "RG-6/3/2019",
+      "Resmî Gazete date printed in the source amendment note"
+    ],
+    [
+      "2019-03-06",
+      "6/3/2019",
+      "Resmî Gazete date in the source amendment table"
+    ],
+    [
+      "2018-07-01",
+      "RG-1/7/2018",
+      "Resmî Gazete date printed in the source amendment note"
+    ],
+    [
+      "2018-07-01",
+      "1/7/2018",
+      "Resmî Gazete date in the source amendment table"
+    ],
+    [
+      "2017-06-05",
+      "RG-5/6/2017",
+      "Resmî Gazete date printed in the source amendment note"
+    ],
+    [
+      "2017-06-05",
+      "5/6/2017",
+      "Resmî Gazete date in the source amendment table"
+    ]
+  ],
+  "history": "current-text",
+  "label": "oldest version available",
+  "checked_on": "2026-11-15",
+  "word_count": 4678,
+  "text_status": "current-consolidated",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  },
+  "source_links": [
+    "7.5.23302-Ek.docx"
+  ],
+  "completeness": "html-text-complete; linked annexes not fetched"
+}

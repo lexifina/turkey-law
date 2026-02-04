@@ -1,0 +1,3 @@
+Kurs açma işlemi başlatmış olanlar
+GEÇİCİ MADDE 3 – (Ek:RG-1/7/2018-30465) (Başlığı ile Birlikte Değişik:RG-6/3/2019-30706)
+(1) Bu maddenin yürürlüğe girdiği tarihte özel ulaştırma hizmetleri mesleki eğitim ve geliştirme kurslarını açmak için Millî Eğitim Bakanlığı Özel Öğretim Kurumları Yönetmeliğinin 5 inci maddesinin ikinci fıkrasının (l) veya (m) bentlerindeki belgelerden herhangi birini almak üzere başvuru yaptığını belgelendirenler veya millî eğitim müdürlüklerinde kurs açma başvurusu bulunanlar hakkında bu Yönetmeliğin 6 ncı maddesinin ikinci, üçüncü, dördüncü, beşinci, altıncı ve yedinci fıkra hükümleri uygulanmaz.
