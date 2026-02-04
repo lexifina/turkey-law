@@ -1,0 +1,95 @@
+{
+  "source_id": "7.5.16849",
+  "kind": "regulation",
+  "register_kind": "Kurum ve Kuruluş Yönetmelikleri",
+  "title": "6306 SAYILI KANUNUN UYGULAMA YÖNETMELİĞİ",
+  "number": "16849",
+  "issuer_slug": "kurum-ve-kurulus",
+  "path": "regulation/kurum-ve-kurulus/2012/16849",
+  "source": "https://www.mevzuat.gov.tr/anasayfa/MevzuatFihristDetayIframe?MevzuatTur=7&MevzuatNo=16849&MevzuatTertip=5",
+  "source_sha256": "ff13cd8c92ca33a500f01c138714e98c226180996cbd4aac111903e98701907a",
+  "source_bytes": 164956,
+  "published": "2012-12-15",
+  "gazette": "28498",
+  "in_force": "2026-02-04",
+  "in_force_basis": "latest Resmî Gazete date printed in the source amendment notes/table (\"RG-4/2/2026\") for the current consolidated text",
+  "date_evidence": [
+    [
+      "2026-02-04",
+      "RG-4/2/2026",
+      "Resmî Gazete date printed in the source amendment note"
+    ],
+    [
+      "2026-02-04",
+      "4/2/2026",
+      "Resmî Gazete date in the source amendment table"
+    ],
+    [
+      "2024-12-13",
+      "RG-13/12/2024",
+      "Resmî Gazete date printed in the source amendment note"
+    ],
+    [
+      "2024-12-13",
+      "13/12/2024",
+      "Resmî Gazete date in the source amendment table"
+    ],
+    [
+      "2024-05-21",
+      "RG-21/5/2024",
+      "Resmî Gazete date printed in the source amendment note"
+    ],
+    [
+      "2024-05-21",
+      "21/5/2024",
+      "Resmî Gazete date in the source amendment table"
+    ],
+    [
+      "2023-08-24",
+      "24/8/2023",
+      "Resmî Gazete date in the source amendment table"
+    ],
+    [
+      "2023-01-06",
+      "RG-6/1/2023",
+      "Resmî Gazete date printed in the source amendment note"
+    ],
+    [
+      "2023-01-06",
+      "6/1/2023",
+      "Resmî Gazete date in the source amendment table"
+    ],
+    [
+      "2020-06-26",
+      "26/6/2020",
+      "Resmî Gazete date in the source amendment table"
+    ],
+    [
+      "2020-04-24",
+      "24/4/2020",
+      "Resmî Gazete date in the source amendment table"
+    ],
+    [
+      "2019-10-19",
+      "19/10/2019",
+      "Resmî Gazete date in the source amendment table"
+    ]
+  ],
+  "commencement_clauses": [
+    "Bu Yönetmelik yayımı tarihinde yürürlüğe girer"
+  ],
+  "history": "current-text",
+  "label": "oldest version available",
+  "checked_on": "2026-11-15",
+  "word_count": 13309,
+  "text_status": "current-consolidated",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  },
+  "source_links": [
+    "7.5.16849-Ek.zip"
+  ],
+  "completeness": "html-text-complete; linked annexes not fetched"
+}

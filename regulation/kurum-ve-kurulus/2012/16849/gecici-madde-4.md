@@ -1,0 +1,3 @@
+Kira yardımında geçici uygulama
+GEÇİCİ MADDE 4 – (Ek:RG-27/10/2016-29870)(3)
+(1) Diyarbakır İli Sur İlçesinde 22/10/2012 tarihli ve 3900 sayılı Bakanlar Kurulu Kararı ile ilan edilen riskli alan ile Şırnak İli Silopi İlçesinde 16/02/2016 tarihli ve 8538 sayılı Bakanlar Kurulu Kararı ile ilan edilen riskli alanda, 6306 sayılı Kanun kapsamında 21/3/2016 tarihli ve 2016/8663 sayılı Bakanlar Kurulu Kararı ile yürürlüğe konulan Riskli Yapıyı Malik, Kiracı veya Sınırlı Ayni Hak Sahibi Olmaksızın Kullananlara Yardım Yapılmasına Dair Karara göre; gecekondu sahiplerine 16 ncı maddenin ikinci fıkrasının (b) bendinin (3) numaralı alt bendi uyarınca kira yardımı yapılabilir. Kira yardımı süresi yapının tahliye edildiği tarihten itibaren başlatılır.
