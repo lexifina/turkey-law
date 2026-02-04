@@ -1,0 +1,16 @@
+{
+  "kind": "decision",
+  "issuer": "Sayıştay Temyiz Kurulu",
+  "number": "58811",
+  "decision_date": "2026-02-04",
+  "source_id": 32376,
+  "chamber": "5",
+  "file_number": "47367",
+  "public_body_type": "Belediyeler ve Bağlı İdareler",
+  "account_year": "2018",
+  "subject": "İhale Mevzuatı ile İlgili Kararlar",
+  "source": "https://www.sayistay.gov.tr/KararlarTemyiz/Detay/32376/",
+  "source_sha256": "7cf7654bc9af99e4c7d3b3642e9e20d65171d629938981d23c293ace809edf66",
+  "text_status": "as-enacted",
+  "text_file": "metin.md"
+}
