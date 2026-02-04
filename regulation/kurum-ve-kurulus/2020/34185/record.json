@@ -1,0 +1,65 @@
+{
+  "source_id": "7.5.34185",
+  "kind": "regulation",
+  "register_kind": "Kurum ve Kuruluş Yönetmelikleri",
+  "title": "DİP TARAMA MALZEMESİNİN ÇEVRESEL YÖNETİMİ YÖNETMELİĞİ",
+  "number": "34185",
+  "issuer_slug": "kurum-ve-kurulus",
+  "path": "regulation/kurum-ve-kurulus/2020/34185",
+  "source": "https://www.mevzuat.gov.tr/anasayfa/MevzuatFihristDetayIframe?MevzuatTur=7&MevzuatNo=34185&MevzuatTertip=5",
+  "source_sha256": "4a691dbe0e850fcba9bca8cad2859a98df267733635821d277bdf256cd791769",
+  "source_bytes": 55497,
+  "published": "2020-01-14",
+  "gazette": "31008",
+  "in_force": "2026-02-04",
+  "in_force_basis": "latest Resmî Gazete date printed in the source amendment notes/table (\"RG-4/2/2026\") for the current consolidated text",
+  "date_evidence": [
+    [
+      "2026-02-04",
+      "RG-4/2/2026",
+      "Resmî Gazete date printed in the source amendment note"
+    ],
+    [
+      "2026-02-04",
+      "4/2/2026",
+      "Resmî Gazete date in the source amendment table"
+    ],
+    [
+      "2024-08-24",
+      "RG-24/8/2024",
+      "Resmî Gazete date printed in the source amendment note"
+    ],
+    [
+      "2024-08-24",
+      "24/8/2024",
+      "Resmî Gazete date in the source amendment table"
+    ],
+    [
+      "2022-01-22",
+      "RG-22/1/2022",
+      "Resmî Gazete date printed in the source amendment note"
+    ],
+    [
+      "2022-01-22",
+      "22/1/2022",
+      "Resmî Gazete date in the source amendment table"
+    ]
+  ],
+  "commencement_clauses": [
+    "Bu Yönetmelik yayımı tarihinde yürürlüğe girer"
+  ],
+  "history": "current-text",
+  "label": "oldest version available",
+  "checked_on": "2026-11-15",
+  "word_count": 2944,
+  "text_status": "current-consolidated",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  },
+  "source_links": [
+    "7.5.34185-Ek.docx"
+  ],
+  "completeness": "html-text-complete; linked annexes not fetched"
+}

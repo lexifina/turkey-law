@@ -1,0 +1,2 @@
+Kapsam
+MADDE 2 – (1) Bu Yönetmelik, deniz ve kıyı alanları ile nehir ağızlarının kıyı kenar çizgisinin deniz tarafında gerçekleştirilen dip tarama faaliyetleri ile bu faaliyetler sonucunda ortaya çıkan tarama malzemelerinin standartlarını, bu malzemelerin boşaltılacağı deniz alanlarının kriterlerini, boşaltım yöntemlerini, bertaraf ve faydalı kullanım olanaklarını, alınması gereken izinleri, faaliyetin deniz çevresine olan etkilerinin izlenmesine ilişkin hususları ve İdareye yapılacak olan raporlamayı kapsar.

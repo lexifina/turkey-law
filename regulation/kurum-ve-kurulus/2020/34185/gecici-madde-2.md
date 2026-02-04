@@ -1,0 +1,2 @@
+GEÇİCİ MADDE 2 – (Ek:RG-22/1/2022-31727)
+(1) Bu Yönetmeliğin 6 ncı ve 9 uncu maddeleri çerçevesinde analizleri yapılan ve sınır değerlerin altında kalan dip tarama malzemesi yine bu Yönetmelikte belirlenen usul ve esaslar çerçevesinde (Değişik ibare:RG-24/8/2024-32642) 31/12/2029 tarihine kadar Marmara Denizi’nde bu Yönetmeliğin 9 uncu maddesi kapsamında belirlenen boşaltım alanlarına boşaltılabilir.
