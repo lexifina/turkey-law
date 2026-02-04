@@ -1,0 +1,2 @@
+Tarifelerin Bulundurulacağı Yerler
+Madde 9 — Tespit edilen tarifeye ilişkin belge, tabela, levha, pano ve benzerleri bu tarifede ücreti belirlenmiş mal ve hizmetin özelliğine ve tüketiciye sunuluş biçimine göre, mal ve hizmetin sunulduğu iş yerinde veya doğrudan üretilen mal üzerinde, tüketiciler veya ilgililerce rahatlıkla görülebilecek ve okunabilecek biçimde asılır, takılır, bulundurulur veya yapıştırılır.

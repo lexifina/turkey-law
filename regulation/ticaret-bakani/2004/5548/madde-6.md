@@ -1,0 +1,5 @@
+Uzlaşma komisyonu
+Madde 6- (Başlığı ile Birlikte Değişik:RG-4/2/2026-33158)
+Odalarca düzenlenen tarifelere ilişkin itirazları karara bağlamak üzere; ilin en büyük mülki idare amirinin veya görevlendireceği yardımcısının başkanlığında, ticaret il müdürlüğü, defterdarlık, ilgili belediye, tarifeyi düzenleyen oda ve ilgili esnaf ve sanatkârlar odaları birliğinin temsilcilerinden oluşan altı kişilik bir uzlaşma komisyonu oluşturulur. Uzlaşma komisyonuna katılacak belediye temsilcisi, tarifeyi düzenleyen odanın ilde kurulu olması hâlinde büyükşehir belediye veya il belediye başkanlığı, ilçede kurulu olması hâlinde ise odanın bulunduğu yer belediye başkanlığı tarafından görevlendirilir.
+Uzlaşma komisyonu, itirazları başvuru tarihinden itibaren en geç on beş gün içinde karara bağlar.
+Uzlaşma komisyonu, başkanın yazılı çağrısı üzerine üyelerin en az yarısının katılımıyla toplanır. Kararlar toplantıya katılanların oy çokluğuyla ve gerekçeli olarak alınır. Oylarda eşitlik olması hâlinde, başkanın kullandığı oy yönünde çoğunluk sağlanmış sayılır. Toplantılarda çekimser oy kullanılamaz.
