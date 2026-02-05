@@ -1,0 +1,17 @@
+{
+  "kind": "decision",
+  "issuer": "Sayıştay 1. Dairesi",
+  "number": "10979",
+  "decision_date": "2026-02-05",
+  "source_id": 40187,
+  "chamber": "1",
+  "ilam_number": "111",
+  "item_number": 1,
+  "public_body_type": "Yüksek Öğretim Kurumları",
+  "account_year": 2023,
+  "subject": "Personel Mevzuatı ile İlgili Kararlar",
+  "source": "https://www.sayistay.gov.tr/KararlarDaire/Detay/40187/",
+  "source_sha256": "60cc93914d1f7da2e74db0dcc933d7aef69c5d8d20deef48f8a78be491e79f73",
+  "text_status": "as-enacted",
+  "text_file": "metin.md"
+}
