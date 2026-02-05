@@ -1,0 +1,26 @@
+{
+  "number": "meeting-02-05",
+  "number_as_published": "meeting-02-05",
+  "year": 2026,
+  "title": "2026 Yılı Meclis Kararları",
+  "decision_date": "2026-02-05",
+  "source": "https://www.kirsehirozelidare.gov.tr/2026-yili-meclis-kararlari",
+  "official_document": "https://www.kirsehirozelidare.gov.tr/kurumlar/kirsehirozelidare.gov.tr/Dokumanlar/meclis_kararlari/2026/02Subat/IL-GENEL-MECLISININ-05-SUBAT-2026-ZABOZETI.doc",
+  "source_sha256": "91799a57c82cd1d150b5d01b9890ec20dd62a484c55a2b4cafdaf9787567e570",
+  "issuer": "Kırşehir İl Genel Meclisi",
+  "history_type": "metadata",
+  "text_status": "metadata-only: listing fields as published; complete decision text is in the linked official document, not transcribed",
+  "in_force": "2026-02-05",
+  "in_force_basis": "Decision date as printed in the official council listing: 05 SUBAT 2026 (official file name); adoption date of the council decision; legal commencement not asserted",
+  "missing": [
+    "complete official decision text",
+    "official annexes"
+  ],
+  "law_text_complete": false,
+  "privacy_withheld": false,
+  "listing_label": "2026 Yılı Meclis Kararları",
+  "record_scope": "one official file of council decisions (meeting or month)",
+  "date_read_from": "official file name",
+  "official_page": "https://www.kirsehirozelidare.gov.tr/2026-yili-meclis-kararlari",
+  "item_title": "2026 Yılı Meclis Kararları"
+}
