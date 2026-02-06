@@ -1,0 +1,1 @@
+Geçici Madde 2- Bu Yönetmeliğin yürürlüğe girdiği tarihten önce alınan "Faaliyet Ruhsatları"nda yer alan hükümler saklıdır. Yönetmeliğin yürürlüğe girdiği tarihe kadar "Faaliyet Ruhsatı" almış olan Kullanıcılar, talep ettikleri takdirde Yönetmeliğin 11'nci maddesinin 4'üncü ve 5'inci fıkralarındaki haklardan yararlandırılırlar.

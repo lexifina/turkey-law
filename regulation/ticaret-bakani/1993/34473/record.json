@@ -1,0 +1,93 @@
+{
+  "source_id": "7.5.34473",
+  "kind": "regulation",
+  "register_kind": "Kurum ve Kuruluş Yönetmelikleri",
+  "title": "SERBEST BÖLGELER UYGULAMA YÖNETMELİĞİ",
+  "number": "34473",
+  "issuer": "Ticaret Bakanı",
+  "issuer_slug": "ticaret-bakani",
+  "path": "regulation/ticaret-bakani/1993/34473",
+  "source": "https://www.mevzuat.gov.tr/anasayfa/MevzuatFihristDetayIframe?MevzuatTur=7&MevzuatNo=34473&MevzuatTertip=5",
+  "source_sha256": "d198c8dc08b227995d4678aa54cd8ce2754e5965ec2bf139a8974ce47c007c5c",
+  "source_bytes": 225941,
+  "published": "1993-03-10",
+  "gazette": "21520",
+  "in_force": "2026-02-06",
+  "in_force_basis": "latest Resmî Gazete date printed in the source amendment notes/table (\"RG-6/2/2026\") for the current consolidated text",
+  "date_evidence": [
+    [
+      "2026-02-06",
+      "RG-6/2/2026",
+      "Resmî Gazete date printed in the source amendment note"
+    ],
+    [
+      "2023-09-01",
+      "RG-1/9/2023",
+      "Resmî Gazete date printed in the source amendment note"
+    ],
+    [
+      "2023-02-09",
+      "RG-9/2/2023",
+      "Resmî Gazete date printed in the source amendment note"
+    ],
+    [
+      "2022-01-29",
+      "RG-29/1/2022",
+      "Resmî Gazete date printed in the source amendment note"
+    ],
+    [
+      "2021-02-17",
+      "RG-17/2/2021",
+      "Resmî Gazete date printed in the source amendment note"
+    ],
+    [
+      "2020-04-25",
+      "RG-25/4/2020",
+      "Resmî Gazete date printed in the source amendment note"
+    ],
+    [
+      "2010-04-22",
+      "RG-22/4/2010",
+      "Resmî Gazete date printed in the source amendment note"
+    ],
+    [
+      "2007-07-16",
+      "RG-16/07/2007",
+      "Resmî Gazete date printed in the source amendment note"
+    ],
+    [
+      "2007-01-26",
+      "RG-26/01/2007",
+      "Resmî Gazete date printed in the source amendment note"
+    ],
+    [
+      "2005-05-03",
+      "RG-03/05/2005",
+      "Resmî Gazete date printed in the source amendment note"
+    ],
+    [
+      "2003-06-29",
+      "RG-29/06/2003",
+      "Resmî Gazete date printed in the source amendment note"
+    ],
+    [
+      "2002-08-17",
+      "RG-17/08/2002",
+      "Resmî Gazete date printed in the source amendment note"
+    ]
+  ],
+  "commencement_clauses": [
+    "Bu Yönetmelik Resmi Gazete'de yayımlandığı tarihte yürürlüğe girer"
+  ],
+  "history": "current-text",
+  "label": "oldest version available",
+  "checked_on": "2026-11-15",
+  "word_count": 14547,
+  "text_status": "current-consolidated",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  },
+  "completeness": "html-text-complete"
+}

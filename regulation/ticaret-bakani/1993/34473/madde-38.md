@@ -1,0 +1,3 @@
+Terk Edilmiş ve Dağınık Mallar
+Madde 38- Bölgede, hiç bir Kullanıcıya ait olmayan parsellere bırakılmış veya terk edilmiş mallar, Bölge Müdürlüğünün gözetim ve denetimi altında İşletici veya B.K.İ. tarafından toplatılarak, bu konuda tutulacak kayıt defterine işlenir ve (Değişik ibare:RG-9/2/2023-32099) 52 nci maddenin üçüncü fıkrasına göre tasfiye edilir.
+Yükleme, boşaltma, taşıma ve sair işlemler esnasında ambalajlarından dağılmış, dökülmüş ve tekrar ambalajlanmasından sonra arta kalan sahibi belli dağınık mallar, İşletici veya B.K.İ. tarafından, toplama, süpürme ve tekrar ambalajlama masrafları Kullanıcı tarafından ödendiği takdirde, sahiplerine teslim edilir. Aksi halde terk edilmiş mal işlemine tabi tutulur.

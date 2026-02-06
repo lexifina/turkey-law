@@ -1,0 +1,26 @@
+Tanımlar
+Madde 4 – (Başlığı ile Birlikte Değişik:RG-25/4/2020-31109)
+Bu Yönetmelikte geçen;
+a) Açık Alan Kullanma Belgesi: Serbest Bölgede sınırlı süreli açık alan kullanımına izin verme belgesini,
+b) Araç Giriş Kartı: Bölge Müdürlüğünün uygun görüşüne istinaden işletici veya B.K.İ. tarafından, bölgede faaliyet gösteren Kullanıcılar ile Giriş İzin Belgesi veya Görev Kartı olanlar için düzenlenen kartı,
+c) Bağımsız Denetim Kuruluşu: Kamu Gözetimi, Muhasebe ve Denetim Standartları Kurumu tarafından bağımsız denetim yapmakla yetkilendirilen, ortakları yeminli mali müşavirlik ya da serbest muhasebeci mali müşavirlik ruhsatını almış meslek mensuplarından oluşan sermaye şirketlerini,
+ç) Bakan: Ticaret Bakanını,
+d) Bakanlık: Ticaret Bakanlığını,
+e) Bölge: Cumhurbaşkanı Kararı ile yer ve sınırları belirlenen Serbest Bölgeyi,
+f) Bölge Kurucu ve İşleticisi (B.K.İ.): Yeni bir serbest bölge kurulması için gerekli olan yatırımları ya da mevcut bir serbest bölgenin altyapısının yenilenmesi, iyileştirilmesi veya bölgede ihtiyaç duyulan yeni yatırımları, Bakanlık ile akdedilecek sözleşmelerle belirlenecek yatırım taahhütleri kapsamında yapmak ve bu bölgeyi işletmek üzere Cumhurbaşkanınca yetkilendirilen kamu kurum ve kuruluşu, yerli ve yabancı gerçek veya tüzel kişilerini,
+g) Bölge Müdürlüğü: Serbest bölge müdürlüklerini,
+ğ) Döviz: Türkiye Cumhuriyet Merkez Bankası'nca alım-satım konusu yapılan, efektif dâhil yabancı paralar ile ödemeyi sağlayan her nevi hesap, belge ve vasıtaları,
+h) Faaliyet Ruhsatı: Serbest Bölgede faaliyette bulunma ruhsatını,
+ı) Finansal Raporlama Çerçevesi: Başvuru sahibinin, 26/3/2018 tarihli ve 2018/11597 sayılı Bakanlar Kurulu Kararıyla yürürlüğe konulan Bağımsız Denetime Tabi Şirketlerin Belirlenmesine Dair Kararı uyarınca bağımsız denetime tabi olması durumunda; Kamu Gözetimi, Muhasebe ve Denetim Standartları Kurumu düzenlemelerine göre uyguladığı Türkiye Finansal Raporlama Standartlarını (TFRS) veya Büyük ve Orta Boy İşletmeler için Finansal Raporlama Standardını (BOBİ FRS), bunlar dışında kalan ve isteğe bağlı olarak TFRS veya BOBİ FRS uygulamayan başvuru sahipleri için ise ilgili mevzuatında belirlenen hususları,
+i) (Değişik:RG-9/2/2023-32099) Genel Müdür: Serbest Bölgeler Genel Müdürünü,
+j) (Değişik:RG-9/2/2023-32099) Genel Müdürlük: Serbest Bölgeler Genel Müdürlüğünü,
+k) Giriş İzin Belgesi: Faaliyet Ruhsatı ve Depo Kullanma Belgesi alan gerçek veya tüzel kişiler ve bunların temsilcisi, görevlisi ve işçileri ile bölgede her türlü iş veya işlemlerini yürüten kişiler için düzenlenen belgeyi,
+l) Görev Kartı: Bölge Müdürlüğü ile diğer kamu kurumu birimlerinde ve işletici veya B.K.İ. nezdinde çalışan görevliler için düzenlenen belgeyi,
+m) İşletici: Serbest Bölgeyi işleten kamu kurum ve kuruluşunu, yerli ve yabancı gerçek veya tüzel kişileri,
+n) Kanun: 6/6/1985 tarihli ve 3218 sayılı Serbest Bölgeler Kanununu,
+o) Kullanıcı: Faaliyet Ruhsatı alan ve Serbest Bölgede belli bir işyeri bulunan gerçek veya tüzel kişiyi,
+ö) Özel Hesap: Serbest Bölge gelirlerinin toplandığı Türkiye Cumhuriyet Merkez Bankası nezdinde açılan özel hesabı,
+p) Özel İzin Belgesi: Serbest Bölgeye iş görüşmesi, ziyaret ve benzerleri gibi kısa süreli, süreklilik arz etmeyen girişler için verilen belgeyi,
+r) Tarife: Serbest Bölgede faaliyet gösteren gerçek ve tüzel kişilere verilen yer ve hizmet ücretlerini gösterir tarifeyi,
+s) Ziyaretçi Araç Giriş Kartı: Süreklilik arz etmeyen günlük araç giriş ve çıkışlarında kullanılan, Bölge Müdürlüğü tarafından düzenlenen kartı,
+ifade eder.

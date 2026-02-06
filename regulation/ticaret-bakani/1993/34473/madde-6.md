@@ -1,0 +1,3 @@
+Bölgenin Sınırları
+Madde 6- (Değişik fıkra:RG-9/2/2023-32099) Bölgenin sınırları, bölgenin kurulmasına ilişkin Cumhurbaşkanı Kararında belirtilen sınırlardır.
+Bölge ve Bölge dışındaki liman rıhtımlarına yanaşarak veya deniz yoluyla lash ve limbo yapmak suretiyle Bölgeye mal getiren ve götüren gemilerin ve deniz araçlarının, Liman Başkanlığı ve/veya Liman İşletme Müdürlüğünce belirlenen rıhtım veya yerlerde işgal ettikleri deniz alanları ile bu yerlerden malların Bölgeye getirilip götürülmesi için takip edilen yol, gümrük işlemlerinin yapılması açısından, Gümrük İdaresinin gözetiminde olması şartıyla serbest bölge kabul edilir.

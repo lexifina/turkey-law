@@ -1,0 +1,1 @@
+Geçici Madde 3- Bu Yönetmeliğin yürürlüğe girdiği tarihe kadar başlamış işlemlere, ilgili bulundukları Serbest Bölge Yönetmeliğindeki hükümlere göre devam edilir. Bu Yönetmeliğin lehte olan hükümleri, başlamış olan işlemlere de uygulanır.

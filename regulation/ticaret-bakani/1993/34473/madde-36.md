@@ -1,0 +1,3 @@
+Bölgedeki Mallardan Sorumluluk
+Madde 36- Bölgede faaliyette bulunan Kullanıcılar, mallarındaki kayıp ya da sayı, çeşit ve ağırlık bakımından meydana gelen noksanlık ile mal kalitesindeki değişikliklerden dolayı Bölge Müdürlüğüne karşı sorumludurlar. Kullanıcılar, malların tabiatından ileri gelen bir kayıp ve noksanlığın varlığını veya mücbir sebepten dolayı bu farklılığın doğduğunu kanıtlamaları halinde bu sorumluluk ortadan kalkar.
+Bölgedeki mallarda; normal işlemler, tabii aşınma, fire veya benzeri nedenler dışında, bir eksikliğin veya sebebi açıklanamayan bir fazlalığın tesbit edilmesi halinde, ilgili Kullanıcı, İşletici veya B.K.İ. bu durumu Bölge Müdürlüğüne yazılı olarak bildirir ve gerekli yükümlülükleri yerine getirir.
