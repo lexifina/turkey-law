@@ -1,0 +1,4 @@
+Uygulamalı eğitimler komisyonunun görev ve yetkisi
+MADDE 7 – (1) (Değişik:RG-6/2/2026-33160) Yükseköğretim Kurulu ile yükseköğretim kurumlarında, uygulamalı eğitim faaliyetlerinin planlanması, uygulanması ve koordinasyonundan sorumlu Komisyon oluşturulur.
+(2) Komisyon, işletmede mesleki eğitim veya staj sonunda elde edilen kazanımların ölçme ve değerlendirme işlemlerini yapar veya bu işlemi yaptırmak üzere sorumlu öğretim elemanının da yer aldığı alt komisyonlar oluşturabilir.
+(3) Vakıf yükseköğretim kurumlarında rektörün görevlendirmesi ile uygulamalı eğitimlerden sorumlu idari bir birim, bu maddede belirtilen görev ve sorumlulukları yerine getirebilir. Ancak uygulamalı eğitimlere ilişkin ölçme ve değerlendirme işlemleri, dekan veya müdürün görevlendireceği program veya bölümlerdeki ilgili öğretim elemanlarından oluşturulan bir akademik komisyon marifetiyle yapılır.

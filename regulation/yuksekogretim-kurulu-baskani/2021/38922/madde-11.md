@@ -1,0 +1,3 @@
+Öğrencinin sorumlulukları
+MADDE 11 – (1) Uygulamalı eğitim yapan öğrenciler, uygulamalı eğitimler esnasındaki izin veya devamsızlık sürelerine ilişkin işlemlerde öğrencisi oldukları yükseköğretim kurumunun ilgili mevzuatı ile işletmenin resmî çalışma kurallarına tabidir. Bu Yönetmelik hükümlerine veya işletmenin resmî çalışma kurallarına aykırı davranan öğrencilerin uygulamalı eğitimleri başarısız olarak değerlendirilir.
+(2) (Değişik:RG-6/2/2026-33160) Uygulamalı eğitim yapan öğrenciler işletmede bulunduğu sürelerde 4/11/1981 tarihli ve 2547 sayılı Yükseköğretim Kanununun 54 üncü maddesi hükümlerine ve işletmenin çalışma kurallarına tabidir.

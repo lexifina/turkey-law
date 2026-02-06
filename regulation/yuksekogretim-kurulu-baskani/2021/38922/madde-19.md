@@ -1,0 +1,3 @@
+Önceki uygulamalı eğitimlerin tanınması
+MADDE 19 – (1) Yatay ve dikey geçiş yoluyla gelen öğrencilerin önceki eğitim kurumlarında yaptıkları işletmede mesleki eğitim ve stajlarının geçerliliği ilgili intibak komisyonu tarafından değerlendirilerek karara bağlanır.
+(2) Öğrenim gördüğü program ile ilgili bir işte çalışmış veya çalışmakta olan öğrenciler, çalışma sürelerini ve unvanlarını belgelendirmek koşuluyla işletmede mesleki eğitim veya staj uygulaması kapsamında önceki öğrenmelerin tanınması için başvuruda bulunabilir. İlgili intibak komisyonu söz konusu başvuruları inceleyerek karar verir. İntibak komisyonunun hakkında olumlu karar verdiği öğrenciler için bu Yönetmeliğin ilgili hükümleri doğrultusunda sadece ölçme ve değerlendirme işlemleri yürütülür.

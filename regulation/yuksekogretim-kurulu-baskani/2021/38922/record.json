@@ -1,0 +1,43 @@
+{
+  "source_id": "7.5.38922",
+  "kind": "regulation",
+  "register_kind": "Kurum ve Kuruluş Yönetmelikleri",
+  "title": "YÜKSEKÖĞRETİMDE UYGULAMALI EĞİTİMLER ÇERÇEVE YÖNETMELİĞİ",
+  "number": "38922",
+  "issuer": "Yükseköğretim Kurulu Başkanı",
+  "issuer_slug": "yuksekogretim-kurulu-baskani",
+  "path": "regulation/yuksekogretim-kurulu-baskani/2021/38922",
+  "source": "https://www.mevzuat.gov.tr/anasayfa/MevzuatFihristDetayIframe?MevzuatTur=7&MevzuatNo=38922&MevzuatTertip=5",
+  "source_sha256": "056f858bbc1611dc5b3e56dad1db1a96ae36bde840fbe787ee8a9a24009b1fa4",
+  "source_bytes": 94433,
+  "published": "2021-06-17",
+  "gazette": "31514",
+  "in_force": "2026-02-06",
+  "in_force_basis": "latest Resmî Gazete date printed in the source amendment notes/table (\"RG-6/2/2026\") for the current consolidated text",
+  "date_evidence": [
+    [
+      "2026-02-06",
+      "RG-6/2/2026",
+      "Resmî Gazete date printed in the source amendment note"
+    ],
+    [
+      "2026-02-06",
+      "6/2/2026",
+      "Resmî Gazete date in the source amendment table"
+    ]
+  ],
+  "commencement_clauses": [
+    "Bu Yönetmelik 2021-2022 eğitim ve öğretim yılı güz döneminde yürürlüğe girer"
+  ],
+  "history": "current-text",
+  "label": "oldest version available",
+  "checked_on": "2026-11-15",
+  "word_count": 2749,
+  "text_status": "current-consolidated",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  },
+  "completeness": "html-text-complete"
+}

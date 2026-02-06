@@ -1,0 +1,2 @@
+Sorumlu öğretim elemanının görev ve yetkisi
+MADDE 8 – (1) Program veya bölümlerde uygulamalı eğitim faaliyetlerini izlemesi, işletme ile kurum arasında koordinasyonu sağlaması, öğrencilere uygulamalı eğitim süreçlerinde rehber olması ve ölçme ve değerlendirme işlemlerinde yer alması amacıyla işletmede mesleki eğitim veya staj yapacak her bir uygulamalı eğitim grubu için eğitimler süresince bir sorumlu öğretim elemanı görevlendirilir.
