@@ -1,0 +1,21 @@
+{
+  "record_type": "parliament-written-question",
+  "term": 28,
+  "legislative_year": 4,
+  "esas_no": "7/40808",
+  "submitted": "2026-02-06",
+  "submitted_as": "Başkanlığa geliş tarihi",
+  "mp": "Rıdvan UZ",
+  "province": "Çanakkale",
+  "summary": "Depremler sonrasında kaybolan çocukların akıbetine ve ABD'de görülmekte olan bir çocuk istismarı davasına ilişkin",
+  "status": "Süresi Geçtikten Sonra Cevaplandı",
+  "status_as_of": "2026-11-16",
+  "official_record": "https://www.tbmm.gov.tr/Denetim/Yazili-Soru-Onergesi-Detay/10dd8ebf-2034-455a-b6d6-019c46a2e48b",
+  "source": "https://tbmm.gov.tr/Denetim/YaziliSoruOnergesiTable",
+  "source_form": "https://tbmm.gov.tr/Denetim/Yazili-Soru-Onergeleri",
+  "source_sha256": "054cecf4056884ea5befaea7a04f987dc47801de3a4918c987a344c150fd60e7",
+  "in_force": "2026-02-06",
+  "in_force_basis": "Date the question reached the Speaker (Başkanlığa geliş tarihi) in the official TBMM written-question record; parliamentary oversight record, not law",
+  "history_type": "metadata",
+  "text_status": "metadata-only: question text, addressee and answers are in the linked official record (PDFs on cdn.tbmm.gov.tr); not transcribed here"
+}
