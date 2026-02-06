@@ -1,0 +1,4 @@
+Bağlantı başvurusunun yapılması
+MADDE 6- (1) RES’ler için 19/2/2020 tarihli ve 31044 sayılı Resmî Gazete’de yayımlanan Elektrik Üretim ve Elektrik Depolama Tesisleri Kabul Yönetmeliği esaslarına göre Bakanlığa yapılacak kabul başvurusu doğrultusunda, kabule esas olan rüzgâr türbini/türbinleri için RİTM bağlantı belgesi düzenlenir.
+(2) RİTM bağlantı belgesinin düzenlenebilmesi için kullanıcı tarafından öncelikle RİTM-İA’da belirtilen teknik özeliklere göre SCADA alt yapısı aktif hale getirilir. Bakanlığa yapılan kabul başvurusunu müteakip, RES için düzenlenecek santral bilgi formu ve başvuru formu, RİTM-İA’da belirtilen elektronik posta adresine gönderilir.
+(3) Santral bilgi formunda eksik ve/veya hata bulunmaması ve santrale ait SCADA verilerinin RİTM’e sorunsuz bir şekilde ulaştığının anlaşılması durumunda, rüzgâr türbini/türbinleri için RİTM bağlantı belgesi, TEİAŞ tarafından düzenlenerek ilgili kullanıcıya gönderilir.

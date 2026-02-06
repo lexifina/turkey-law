@@ -1,0 +1,2 @@
+Yükümlülüklerin yerine getirilmemesi halinde alınacak tedbirler
+MADDE 11- (1) 10 uncu maddede yer alan yükümlülüklerin yerine getirilmemesi durumunda kullanıcıya söz konusu yükümlülüğün yerine getirilmesi yönünde TEİAŞ tarafından yazılı ihtarda bulunulur. Bu yükümlülüğün ihtarname tarihinden itibaren yedi takvim günü içerisinde yerine getirilmemesi durumunda, Bakanlık bu Yönetmelik ve ilgili diğer mevzuat hükümlerine uygun olarak gerekli tedbirleri alır.
