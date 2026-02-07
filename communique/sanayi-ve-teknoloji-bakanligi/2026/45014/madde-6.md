@@ -1,0 +1,12 @@
+Uygunluk değerlendirmesi
+MADDE 6- (1) Enerji ile İlgili Ürünlerin Çevreye Duyarlı Tasarımına İlişkin Yönetmeliğin 10 uncu maddesinde atıf yapılan uygunluk değerlendirme prosedürü, anılan Yönetmeliğin EK-4’ünde belirtilen iç tasarım kontrol sistemini veya EK-5’inde belirtilen uygunluğun değerlendirilmesine ilişkin yönetim sistemini takip eder.
+(2) Enerji ile İlgili Ürünlerin Çevreye Duyarlı Tasarımına İlişkin Yönetmeliğin 10 uncu maddesi uyarınca uygunluk değerlendirmesi amacıyla teknik dosya, Ek II’nin 2.2 nci maddesindeki parametrelerin beyan edilen değerlerinin bir kopyasını, Ek II’nin 3 üncü maddesindeki test noktalarına ait parametrelerin beyan edilen değerlerinin bir kopyasını, geçerli durumlarda Ek II’nin 2 nci, 3 üncü ve 4 üncü maddeleri uyarınca sunulan ürün bilgilerinin bir kopyasını, Ek III’te belirtilen hesaplamaların ayrıntılarını ve sonuçlarını içerir.
+(3) Belirli bir model için teknik dosyada yer alan bilgilerin aşağıdaki yollardan biriyle elde edildiği durumlarda, teknik dosya; hesaplamanın ayrıntılarını, hesaplamanın doğruluğunu teyit etmek için imalatçı tarafından yapılan değerlendirmeyi ve uygun olduğu durumlarda farklı imalatçıların modelleri arasındaki özdeşlik beyanını içerir:
+a) Sağlanacak teknik bilgilerle aynı teknik özelliklere sahip olan ancak farklı bir imalatçı tarafından üretilen bir modelden.
+b) Aynı veya farklı bir imalatçının başka bir modelinden tasarım ya da ekstrapolasyon temelinde hesaplama yoluyla veya her ikisi birden.
+(4) Teknik dosya, model tanımlayıcıları da dahil olmak üzere tüm eşdeğer modellerin listesini içerir.
+(5) İmalatçının Ek III’ün 2 nci maddesinde belirtilen uygunluk değerlendirme seçeneklerini kullanması halinde, çıkarılan önemsiz elemanlar, model ölçeklendirmesi, test koşulları ve hesaplamaları ve testin gerçekleştirildiği yer teknik dosyada usulüne uygun olarak raporlanır.
+(6) Ek II’nin 3 üncü maddesi uyarınca, farklı hızlarda performans eğrilerinin sağlanmasını gerektirdiği durumlarda, teknik dosyada kullanılan hız kontrol cihazının özellikleri ile söz konusu eğriler için kullanılan hız (doğal hızın yüzdesi olarak) belirtilir.
+(7) VSD’nin eklendiği bir fan, aşağıdaki durumlarda yeni bir uygunluk değerlendirmesi gerektiren yeni bir fan modeli olarak kabul edilmez:
+a) VSD, fiziksel olarak hava akımına müdahale etmeyecek şekilde konumlandırılmışsa.
+b) VSD, fana ve VSD’ye zarar vermeden doğrulama amacıyla fandan çıkarılabiliyorsa.

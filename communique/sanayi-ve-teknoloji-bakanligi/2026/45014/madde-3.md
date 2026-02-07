@@ -1,0 +1,2 @@
+Dayanak
+MADDE 3- (1) Bu Tebliğ, 5/3/2020 tarihli ve 7223 sayılı Ürün Güvenliği ve Teknik Düzenlemeler Kanununun 4 üncü maddesine, 1 sayılı Cumhurbaşkanlığı Teşkilatı Hakkında Cumhurbaşkanlığı Kararnamesinin 388 inci maddesine ve 4/2/2022 tarihli ve 5187 sayılı Cumhurbaşkanı Kararı ile yürürlüğe konulan Enerji ile İlgili Ürünlerin Çevreye Duyarlı Tasarımına İlişkin Yönetmeliğe dayanılarak hazırlanmıştır.

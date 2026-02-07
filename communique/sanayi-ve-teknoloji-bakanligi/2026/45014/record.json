@@ -1,0 +1,36 @@
+{
+  "checked_on": "2026-11-13",
+  "date_gazette": "33161",
+  "date_quote": "07.02.2026",
+  "first_law": null,
+  "gazette": "33161",
+  "history": "current-text",
+  "images": {
+    "deferred": 0,
+    "omitted": 0,
+    "referenced": 0,
+    "source": 0
+  },
+  "in_force": "2026-02-07",
+  "in_force_basis": "original Resmi Gazete publication date supplied by the official listing",
+  "issuer": "Sanayi ve Teknoloji Bakanlığı",
+  "issuer_catalog_evidence": [
+    {
+      "evidence": "issuer-628-0.json",
+      "id": "628",
+      "label": "Sanayi ve Teknoloji Bakanlığı",
+      "listing_url": "https://www.mevzuat.gov.tr/Anasayfa/MevzuatDatatable?MevzuatTur=Teblig&KurumId=628&start=0&length=100"
+    }
+  ],
+  "issuer_slug": "sanayi-ve-teknoloji-bakanligi",
+  "kind": "communique",
+  "label": "oldest version available",
+  "notes": [],
+  "published": "2026-02-07",
+  "source": "https://www.mevzuat.gov.tr/anasayfa/MevzuatFihristDetayIframe?MevzuatTur=9&MevzuatNo=45014&MevzuatTertip=5",
+  "source_bytes": 76512,
+  "source_id": "9.5.45014",
+  "source_sha256": "ee98c34701737fba2d348c55d7298d4f69041f10fc6da8ed05d7820cd924d249",
+  "title": "ELEKTRİK GİRİŞ GÜCÜ 125 W İLE 500 KW ARASINDA OLAN MOTORLARLA TAHRİK EDİLEN FANLARLA İLGİLİ ÇEVREYE DUYARLI TASARIM GEREKLİLİKLERİNE DAİR TEBLİĞ (2024/1834/AB) (SGM-2026/2)",
+  "word_count": 2387
+}

@@ -1,0 +1,2 @@
+AB mevzuatına uyum
+MADDE 10- (1) Bu Tebliğ, Avrupa Parlamentosu ve Konseyinin 2009/125/AT sayılı Direktifini Uygulayan, (AB) 327/2011 sayılı Komisyon Tüzüğünü Yürürlükten Kaldıran, Elektrik Giriş Gücü 125 W ile 500 kW Arasında Olan Motorlarla Tahrik Edilen Fanlarla İlgili Çevreye Duyarlı Tasarım Gerekliliklerine Dair 3/7/2024 tarihli ve (AB) 2024/1834 sayılı Komisyon Tüzüğü ile bu Tüzükte değişiklik yapan (AB) 2025/2481 sayılı Komisyon Tüzüğü esas alınarak Avrupa Birliği mevzuatına uyum çerçevesinde hazırlanmıştır.
