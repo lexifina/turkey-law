@@ -1,0 +1,26 @@
+{
+  "checked_on": "2026-11-13",
+  "date_gazette": "33161",
+  "date_quote": "RG-7/2/2026-33161",
+  "first_law": null,
+  "gazette": "24657",
+  "history": "current-text",
+  "images": {
+    "deferred": 0,
+    "omitted": 0,
+    "referenced": 0,
+    "source": 0
+  },
+  "in_force": "2026-02-07",
+  "in_force_basis": "latest source-printed Resmi Gazete amendment date (current consolidated text)",
+  "kind": "bylaw",
+  "label": "oldest version available",
+  "published": "2002-01-31",
+  "source": "https://www.mevzuat.gov.tr/anasayfa/MevzuatFihristDetayIframe?MevzuatTur=17&MevzuatNo=5&MevzuatTertip=5",
+  "source_bytes": 139147,
+  "source_id": "17.5.5",
+  "source_sha256": "1d78c13cc04eeeaaa52eb250028c54621f259aab96f5911caf20e883891d1a41",
+  "source_type": "İç Tüzük",
+  "title": "DANIŞTAY İÇTÜZÜĞÜ",
+  "word_count": 5068
+}

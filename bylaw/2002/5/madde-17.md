@@ -1,0 +1,3 @@
+Seçimlerde oylama
+Madde 17 - Seçimlerde gizli oy ve açık sayım esastır. Ancak, aksi yönde yasal bir hükmün bulunmaması halinde seçimlerin işaret oyu ile yapılması Genel Kurulca kararlaştırılabilir.
+(Değişik: R.G.06/03/2020-31060) Gizli oyla yapılacak seçimler için Genel Kurul salonunda yeteri kadar oy verme yeri düzenlenir. Oylamaya geçilmeden önce Başkan, oy kullanma yöntemine ilişkin gerekli açıklamalarda bulunur. Oy pusulalarında işaretleme yapılmasının gerekli olduğu durumlarda, oylama, tereddüt yaratmayacak açıklıkta bir işaret konulmak suretiyle yapılır. Seçimlerde Başkanlıkça hazırlanan oy pusulaları kullanılır ve açıkta bulunan oy kutularına atılır.

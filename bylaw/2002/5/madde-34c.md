@@ -1,0 +1,12 @@
+Danıştay Etik Kurulunun oluşumu
+Madde 34/C- (Ek:RG-7/2/2026-33161)
+Danıştayda, meslek mensupları hakkında Danıştay Yargı Etiği İlkeleri, savcılar ve tetkik hâkimleri hakkında 14/3/2019 tarihli ve 30714 sayılı Resmî Gazete’de yayımlanan Türk Yargı Etiği Bildirgesi ile Hâkimler ve Savcılar Kurulunca kabul edilen diğer etik kurallar çerçevesinde, meslek mensupları, savcılar ve tetkik hâkimlerinin davranışları veya muhtemel davranışlarının etik değerlere uygunluğu hakkında tavsiye niteliğinde kararlar almak üzere Danıştay Etik Kurulu kurulur.
+Kurul üyeleri, bağımsız olarak görev yapar; faaliyetlerini şeffaflık ve hesap verilebilirlik ilkeleri doğrultusunda yürütür.
+Kurulun sekretarya hizmetleri, Genel Sekreterin koordinasyonunda yürütülür.
+Danıştay Etik Kurulu, beşi daire başkanı ve/veya üye, biri savcı ve biri tetkik hâkiminden olmak üzere yedi üyeden oluşur; aynı sayıda yedek üye bulunur. Meslek mensuplarıyla ilgili konularda savcı ve tetkik hâkimi üyeler toplantılara katılamaz.
+Kurulun asıl ve yedek meslek mensubu üyeleri Genel Kurul tarafından seçilir.
+Asıl ve yedek savcı üyeler ile asıl ve yedek tetkik hâkimi üyeler Başkanlık Kurulu tarafından Danıştayda fiilen görev yapan birinci sınıf veya birinci sınıfa ayrılmış savcılar ile kıdemli tetkik hâkimi veya tetkik hâkimleri arasından seçilir.
+Kurul başkanlığı görevi, en kıdemli meslek mensubu tarafından yürütülür. Üyelerden biri daire başkanı ise, bu üye Kurula başkanlık eder; birden fazla daire başkanının bulunması hâlinde ise en kıdemli daire başkanı, başkan olarak görev yapar.
+Kurul başkanının bulunmadığı hâllerde, Kurulun başkan vekilliği görevini en kıdemli meslek mensubu üye, üyelerden biri daire başkanı ise, daire başkanı üye, birden fazla daire başkanının bulunması hâlinde ise en kıdemli daire başkanı yürütür.
+Üyelerin görev süresi iki yıldır. Süresi sona eren üyeler yeniden seçilebilir. Görev süresi, tüm üyelerin seçilmesiyle Kurulun ilk kez oluştuğu tarih esas alınarak başlatılır. Üyelerin görevlerinin sona ermesine onbeş gün kala seçim süreci başlatılır. Yeni Kurul üyeleri görevlerine başlayıncaya kadar, mevcut Kurul üyelerinin görevleri devam eder.
+Üyelerin görevi; üye seçilmek için gerekli niteliklerin kaybedilmesi ya da üyenin istifa etmesi hâllerinde sona erer. Üyeliklerde eksilme meydana gelmesi durumunda eksilen üye yerine, aynı usulle seçilecek yeni üye, yerine seçildiği üyenin kalan görev süresini tamamlar.
