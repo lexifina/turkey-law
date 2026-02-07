@@ -1,0 +1,30 @@
+{
+  "source_id": "9.5.45014",
+  "kind": "communique",
+  "register_kind": "Tebliğler",
+  "title": "ELEKTRİK GİRİŞ GÜCÜ 125 W İLE 500 KW ARASINDA OLAN MOTORLARLA TAHRİK EDİLEN FANLARLA İLGİLİ ÇEVREYE DUYARLI TASARIM GEREKLİLİKLERİNE DAİR TEBLİĞ (2024/1834/AB) (SGM-2026/2)",
+  "number": "45014",
+  "issuer": "Sanayi ve Teknoloji Bakanı",
+  "path": "teblig/2026/45014",
+  "source": "https://www.mevzuat.gov.tr/anasayfa/MevzuatFihristDetayIframe?MevzuatTur=9&MevzuatNo=45014&MevzuatTertip=5",
+  "source_sha256": "ee98c34701737fba2d348c55d7298d4f69041f10fc6da8ed05d7820cd924d249",
+  "source_bytes": 76512,
+  "published": "2026-02-07",
+  "gazette": "33161",
+  "in_force": "2026-02-07",
+  "in_force_basis": "Resmî Gazete publication date in the official listing (07.02.2026)",
+  "history": "current-text",
+  "label": "oldest version available",
+  "checked_on": "2026-11-15",
+  "word_count": 2387,
+  "text_status": "current-consolidated",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  },
+  "source_links": [
+    "9.5.45014-Ek.doc"
+  ],
+  "completeness": "html-text-complete; linked annexes not fetched"
+}
