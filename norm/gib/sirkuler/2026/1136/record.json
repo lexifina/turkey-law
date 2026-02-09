@@ -1,0 +1,22 @@
+{
+  "kind": "norm",
+  "issuer": "Gelir İdaresi Başkanlığı",
+  "document_type": "sirkuler",
+  "number": "VUK-196/2026-2",
+  "source_id": 1136,
+  "date": "2026-02-09",
+  "title": "Yapılmakta Olan Yatırımlar Hesabının Enflasyon Düzeltmesi Farklarının İzlendiği Özel Fonlar Hesabındaki Tutarların Vergisel Durumu Hakkında",
+  "source": "https://gib.gov.tr/mevzuat/kanun/434/sirkuler/1136",
+  "related_law": "213 sayılı VERGİ USUL KANUNU",
+  "source_api": "https://gib.gov.tr/api/gibportal/mevzuat/sirkuler/list",
+  "source_listing": "evidence/list/2026-11-16/sirkuler-p000.json",
+  "source_listing_sha256": "60c9b519ec13187d56f9a7863ce3934a7fb9c37357209b90158ca6acfcc95b41",
+  "source_sha256": "46aaf8af13d19f12abf4e2855886458d334adc63d663e42db34de210f27c0a10",
+  "text_status": "as-enacted",
+  "text_file": "metin.md",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  }
+}
