@@ -1,0 +1,3 @@
+Danışma Kurulu
+MADDE 11- (1) Danışma Kurulu; Müdür ve Merkezin faaliyet alanları ve doğa kaynaklı afetler ile ilgili çalışmaları ve birikimi olan öğretim üyeleri ve emekli öğretim üyeleri, kamu ve sivil toplum kuruluşlarının temsilcileri, diğer üniversitelerin ve araştırma merkezlerinin temsilcileri ve özel sektör kuruluşlarının temsilcileri arasından üç yıllık süre için Yönetim Kurulunun önerisi üzerine Rektör tarafından görevlendirilen üyeler ile birlikte toplam en fazla yirmi beş üyeden oluşur. Görev süresi biten üyeler yeniden görevlendirilebilir veya süresinden önce görevden alınabilir.
+(2) Danışma Kurulu, yılda en az bir kez toplanır. Toplantılarda toplantı ve karar nisabı aranmaz.
