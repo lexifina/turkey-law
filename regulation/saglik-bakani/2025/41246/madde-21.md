@@ -1,0 +1,2 @@
+Kıyafet
+MADDE 21- (1) Ambulans hizmetlerinde görevli tüm personel, hizmetlerine uygun tek tip kıyafet giyer. Görev yapan personelin unvanı kıyafetlerin üzerinde yazılı olarak bulunur. Kıyafetlerin üzerinde fosforlu şeritler, ambulans servisinin adı ve amblemi ile çağrı merkezinin iletişim numarası bulundurulur. Seçilen kıyafetler Bakanlık personelinin görev kıyafetlerini çağrıştırır desen ve renkte olamaz.
