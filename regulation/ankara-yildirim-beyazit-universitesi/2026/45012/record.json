@@ -1,0 +1,39 @@
+{
+  "checked_on": "2026-11-14",
+  "commencement_clauses": [
+    "MADDE 17- (1) Bu Yönetmelik yayımı tarihinde yürürlüğe girer."
+  ],
+  "date_evidence": [
+    [
+      "2026-02-09",
+      "09.02.2026",
+      "original gazette publication date in official listing"
+    ]
+  ],
+  "date_quote": "MADDE 17- (1) Bu Yönetmelik yayımı tarihinde yürürlüğe girer.",
+  "first_law": null,
+  "gazette": "33163",
+  "history": "current-text",
+  "images": {
+    "deferred": 0,
+    "omitted": 0,
+    "referenced": 0,
+    "source": 0
+  },
+  "in_force": "2026-02-09",
+  "in_force_basis": "source commencement clause: enters into force on gazette publication",
+  "issuer": "Ankara Yıldırım Beyazıt Üniversitesi",
+  "issuer_slug": "ankara-yildirim-beyazit-universitesi",
+  "kind": "regulation",
+  "label": "oldest version available",
+  "path": "regulation/ankara-yildirim-beyazit-universitesi/2026/45012",
+  "published": "2026-02-09",
+  "source": "https://www.mevzuat.gov.tr/anasayfa/MevzuatFihristDetayIframe?MevzuatTur=8&MevzuatNo=45012&MevzuatTertip=5",
+  "source_bytes": 29548,
+  "source_id": "8.5.45012",
+  "source_sha256": "fc4d91e66601baca29474ec9bce35576ab5b9fa77aee08c9abe96c0be36eb009",
+  "text_status": "as-enacted",
+  "title": "ANKARA YILDIRIM BEYAZIT ÜNİVERSİTESİ ÜÇÜNCÜ NESİL GÜNEŞ HÜCRELERİ UYGULAMA VE ARAŞTIRMA MERKEZİ YÖNETMELİĞİ",
+  "university_id": 371,
+  "word_count": 1408
+}
