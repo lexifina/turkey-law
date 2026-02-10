@@ -1,0 +1,3 @@
+Amortisman, tükenme payı ve değer düşüklüğüne tabi tutulan varlıkların değeri
+MADDE 4- (1) Duran varlıkların amortisman, tükenme payı ve değer düşüklüğüne tabi değerleri maliyet bedelidir. Maliyet bedeli ise bir varlığın satın alınması, üretilmesi veya değerinin artırılması için yapılan harcamalar veya verilen kıymetlerin toplamıdır. Ancak, enflasyon düzeltmesine tabi tutulmuş olan varlıklar için amortisman, tükenme payı ve değer düşüklüğü hesaplamasına esas alınacak değer, enflasyon düzeltmesi sonucu ortaya çıkan değerdir.
+(2) Bir varlık için yapılan harcamaların, kayıtlı değerine ilave edilmesi halinde, amortisman ve değer düşüklüğü hesaplaması varlığın yeni değeri üzerinden yapılır.

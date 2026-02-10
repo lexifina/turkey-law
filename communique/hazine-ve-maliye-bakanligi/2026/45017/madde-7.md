@@ -1,0 +1,3 @@
+Tahsisli taşınmazların amortisman ve değer düşüklüğü işlemleri
+MADDE 7- (1) Kamu idaresinin mülkiyetinde olup diğer kamu idarelerine tahsis edilmeyen taşınmazların amortisman işlemleri maliki kamu idaresinin muhasebe birimi tarafından, diğer kamu idarelerine tahsis edilen taşınmazların amortisman işlemleri ise taşınmazı kullanan kamu idaresinin muhasebe birimi tarafından yapılır.
+(2) Kamu idaresinin mülkiyetinde olup diğer kamu idarelerine tahsis edilmeyen taşınmazların değer düşüklüğü işlemleri maliki kamu idaresinin harcama birimi tarafından, diğer kamu idarelerine tahsis edilen taşınmazların değer düşüklüğü işlemleri ise taşınmazı kullanan kamu idaresinin harcama birimi tarafından yapılarak muhasebeleştirilmek üzere muhasebe birimine iletilir.
