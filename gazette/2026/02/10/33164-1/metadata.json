@@ -1,0 +1,20 @@
+{
+  "record_type": "gazette-item",
+  "gazette": "Resmî Gazete",
+  "jurisdiction": "TR",
+  "date": "2026-02-10",
+  "issue": "33164",
+  "edition": "regular",
+  "item": 1,
+  "section": "YÜRÜTME VE İDARE BÖLÜMÜ",
+  "heading": "YÖNETMELİKLER",
+  "title": "Türkiye Geleneksel ve Tamamlayıcı Tıp Enstitüsünün Yapılanması ve Faaliyetlerinin Yürütülmesine Dair Yönetmelik",
+  "official_link": "https://www.resmigazete.gov.tr/eskiler/2026/02/20260210-1.htm",
+  "link_format": "htm",
+  "index_url": "https://www.resmigazete.gov.tr/eskiler/2026/02/20260210.htm",
+  "index_sha256": "c0717bc456bbf672d16672d7e82b66765cd809fc40056f3601b75ffa03618137",
+  "index_header": "10 Şubat 2026 ... 33164 Sayılı Resmî Gazete",
+  "issue_pdf": "https://www.resmigazete.gov.tr/eskiler/2026/02/20260210.pdf",
+  "in_force_basis": "Resmî Gazete publication date; not a commencement reading.",
+  "text_status": "metadata-only; text not yet fetched (follow-up pass adds it as its own commit)"
+}
