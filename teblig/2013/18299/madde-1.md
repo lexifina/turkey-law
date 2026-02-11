@@ -1,0 +1,2 @@
+Amaç
+MADDE 1 – (1) Bu Tebliğin amacı, 7/12/1994 tarihli ve 4054 sayılı Rekabetin Korunması Hakkında Kanunun 7 nci maddesi ve 27 nci maddesinin birinci fıkrasının (f) bendi uyarınca, Özelleştirme İdaresi Başkanlığı veya diğer kamu kurum veya kuruluşlarınca gerçekleştirilecek devirlerin hukuki geçerlilik kazanabilmeleri için Rekabet Kurumuna yapılacak ön bildirimlerde ve izin başvurularında takip edilecek usul ve esasları belirlemektir.

@@ -1,0 +1,47 @@
+{
+  "source_id": "9.5.18299",
+  "kind": "communique",
+  "register_kind": "Tebliğler",
+  "title": "ÖZELLEŞTİRME YOLUYLA DEVRALMALARIN HUKUKİ GEÇERLİLİK KAZANABİLMELERİ İÇİN REKABET KURUMUNA YAPILACAK ÖN BİLDİRİMLERDE VE İZİN BAŞVURULARINDA TAKİP EDİLECEK USUL VE ESASLAR HAKKINDA TEBLİĞ (TEBLİĞ NO: 2013/2)",
+  "number": "18299",
+  "issuer": "Rekabet Kurumu Başkanı",
+  "path": "teblig/2013/18299",
+  "source": "https://www.mevzuat.gov.tr/anasayfa/MevzuatFihristDetayIframe?MevzuatTur=9&MevzuatNo=18299&MevzuatTertip=5",
+  "source_sha256": "a788e201006449f645aebb77eed2f8174ef780ea64f4481e9ed3527f6b364c44",
+  "source_bytes": 24047,
+  "published": "2013-04-18",
+  "gazette": "28622",
+  "in_force": "2026-02-11",
+  "in_force_basis": "latest Resmî Gazete date printed in the source amendment notes/table (\"RG-11/2/2026\") for the current consolidated text",
+  "date_evidence": [
+    [
+      "2026-02-11",
+      "RG-11/2/2026",
+      "Resmî Gazete date printed in the source amendment note"
+    ],
+    [
+      "2026-02-11",
+      "11/2/2026",
+      "Resmî Gazete date in the source amendment table"
+    ],
+    [
+      "2022-06-18",
+      "18/6/2022",
+      "Resmî Gazete date in the source amendment table"
+    ]
+  ],
+  "commencement_clauses": [
+    "Bu Tebliğ yayımı tarihinde yürürlüğe girer"
+  ],
+  "history": "current-text",
+  "label": "oldest version available",
+  "checked_on": "2026-11-15",
+  "word_count": 993,
+  "text_status": "current-consolidated",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  },
+  "completeness": "html-text-complete"
+}

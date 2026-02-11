@@ -1,0 +1,3 @@
+Diğer hükümler
+MADDE 7 – (1) 4054 sayılı Rekabetin Korunması Hakkında Kanunun 7 nci maddesine dayanılarak çıkarılan ve 7/10/2010 tarihli ve 27722 sayılı Resmî Gazete’de yayımlanan Rekabet Kurulundan İzin Alınması Gereken Birleşme ve Devralmalar Hakkında Tebliğ (Tebliğ No: 2010/4)’in, bu Tebliğe aykırı olmayan hükümlerinin özelleştirme yolu ile devralma işlemlerine uygulanmasına devam edilir.
+(2) Özelleştirme yoluyla devirlerin Özelleştirme İdaresi Başkanlığı dışında diğer kamu kurum veya kuruluşlarınca gerçekleştirilmesi halinde de bu Tebliğ hükümleri uygulanır. Bu takdirde, bu Tebliğde Özelleştirme İdaresi Başkanlığınca yerine getirilmesi öngörülen yükümlülükler, devri gerçekleştirecek kamu kurum veya kuruluşunca yerine getirilir.

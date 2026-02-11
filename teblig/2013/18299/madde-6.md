@@ -1,0 +1,3 @@
+İzin başvurularında takip edilecek usul
+MADDE 6 – (1) Rekabet Kurumuna izin başvurusu, ihale işleminin sonuçlanmasından sonra ve fakat Özelleştirme Yüksek Kurulunun özelleştirilecek teşebbüs ya da mal veya hizmet üretimine yönelik birimin nihai devir işlemine ilişkin kararından önce, Özelleştirme İdaresi Başkanlığının Özelleştirme Yüksek Kuruluna sunacağı Özelleştirme Yüksek Kurulu karar taslağında yer alacak her teklif sahibi için bağımsız dosyalar şeklinde yapılır.
+(2) İzin başvurusuna ilişkin incelemenin süratle ve sağlıklı bir biçimde sonuçlandırılmasını teminen, Özelleştirme İdaresi Başkanlığı, ihale için teklif veren tüm teşebbüs ya da teşebbüs birliklerine ilişkin kendisine ulaşan bilgi ve belgeleri ihalenin sonuçlanmasını beklemeksizin Rekabet Kurumuna iletir.
