@@ -1,0 +1,8 @@
+Birleşme veya devralma sayılan haller
+MADDE 5 – (1) Kontrolde kalıcı değişiklik meydana getirecek şekilde;
+a) İki veya daha fazla teşebbüsün birleşmesi ya da
+b) Bir veya daha fazla teşebbüsün tamamının ya da bir kısmının doğrudan veya dolaylı kontrolünün, hisse ya da mal varlığının satın alınmasıyla, sözleşmeyle veya diğer bir yolla bir ya da daha fazla teşebbüs veya halihazırda en az bir teşebbüsü kontrol eden bir ya da daha fazla kişi tarafından devralınması,
+Kanunun 7 nci maddesi kapsamında birleşme veya devralma işlemi sayılır.
+(2) Bu Tebliğ bakımından kontrol, ayrı ayrı ya da birlikte, fiilen ya da hukuken bir teşebbüs üzerinde belirleyici etki uygulama olanağını sağlayan haklar, sözleşmeler veya başka araçlarla meydana getirilebilir. Bu araçlar özellikle bir teşebbüsün malvarlığının tamamı ya da bir kısmı üzerinde mülkiyet veya işletilmeye müsait bir kullanma hakkı, bir teşebbüsün organlarının oluşumunda ya da kararları üzerinde belirleyici etki sağlayan haklar veya sözleşmelerdir. Kontrol, hak sahipleri ya da bir sözleşmeye göre hakları kullanmaya yetkili kılınmış olan veya böyle bir hak ve yetkisi olmamakla birlikte fiilen bu hakları kullanma gücüne sahip olan kişiler veya teşebbüsler tarafından elde edilebilir.
+(3) Bağımsız bir iktisadi varlığın tüm işlevlerini kalıcı olarak yerine getirecek bir ortak girişimin oluşturulması, bu maddenin birinci fıkrasının (b) bendi kapsamında bir devralma işlemidir. Bu tür işlemlerde, işlem taraflarının herbiri devralan olarak kabul edilir.
+(4) Şartla bağlanan ya da kısa bir zaman dilimi içerisinde menkul kıymetlerle seri bir şekilde gerçekleşen yakın ilişkili işlemler, bu madde kapsamında tek bir işlem olarak kabul edilir.

@@ -1,0 +1,12 @@
+Birleşme ve devralmaların bildirilmesi
+MADDE 10 – (1) Bildirim, taraflarca birlikte ya da taraflardan herhangi biri veya bunların yetkili temsilcileri tarafından yapılabilir. Bildirimde bulunan, diğer ilgili tarafı durumdan haberdar etmek zorundadır.
+(2) (Değişik:RG-30/9/2011-28070) Bildirim, bu Tebliğin ekinde yer alan Bildirim Formuyla yapılır. Ortak bildirimler tek bir formla yapılır. Bildirim Formu ve ekindeki belgeler, ayrıca elektronik ortamda hazırlanarak elden veya posta ile (Ek ibare:RG-4/3/2022-31768)(4) yahut e-Devlet üzerinden Ankara'da bulunan Kurum merkezine iletilir. Evraklar arasında kopyalar varsa, bildirimde bulunanların bunların asıllarına uygunluğunu onaylamaları gerekir.
+(3) Bildirim, istenen tüm bilgi ve belgeleri tam ve doğru olarak içermelidir. Bu bilgilerde Kurul karar verene kadar oluşacak değişiklikler gecikmeksizin Kurula bildirilmelidir. Bildirim Formunda yanlış veya yanıltıcı beyanda bulunanlar hakkında Kanunun 16 ncı maddesi uyarınca idari para cezası uygulanır.
+(4) İzne tabi birleşme veya devralmalara ilişkin olarak yapılan bildirim hakkında Kanunun 10 uncu maddesinin birinci fıkrası çerçevesinde açıkça veya aynı maddenin ikinci fıkrası çerçevesinde zımnen bir karar verilmeden önce birleşme veya devralma hukuken geçerlilik kazanamaz.
+(5) Bildirilmesi zorunlu olan birleşme veya devralma işlemlerinin Kurula bildirilmemesi veya işlem gerçekleştirildikten sonra bildirilmesi halinde Kanunun 11 inci maddesi uygulanır.
+(6) (Ek:RG-24/2/2017-29989)(3) Kontrolün, borsada seri işlemler vasıtasıyla farklı satıcılardan yapılan menkul kıymet alımları sonucunda elde edilmesi durumunda;
+a) İşlemin Kurula gecikme olmaksızın bildirilmesi,
+b) Elde edilen menkul kıymetlere bağlı oy haklarının kullanılmaması ya da sadece yatırımların tam değerinin korunmasını sağlamak amacıyla Kurul kararıyla tanınacak bir istisnaya dayanarak kullanılması,
+koşullarının sağlanması kaydıyla işlem gerçekleştirildikten sonra Kurula bildirilebilir. Kurul istisna kararlarında işlem taraflarına etkin rekabet koşullarını sağlamak amacıyla şart ve yükümlülükler getirebilir.
+(7) İzne tabi birleşme veya devralma işlemlerinin Kurulun izni olmaksızın gerçekleştirilmesi halinde Kanunun 16 ncı maddesi uyarınca idarî para cezası uygulanır. İdarî para cezası birleşme işlemlerinde tarafların herbirine, devralma işlemlerinde ise sadece devralana verilir.
+(8) Birleşme veya devralma işlemlerinde gerçekleştirilme tarihi, kontrolün değiştiği tarihtir.

@@ -1,0 +1,1 @@
+GEÇİCİ MADDE 2 – (1) Bu Tebliğin yürürlüğe girdiği tarihten önce Kurula yapılan bildirimler için, 1997/1 sayılı Rekabet Kurulu’ndan İzin Alınması Gereken Birleşme ve Devralmalar Hakkında Tebliğin ekinde yer alan Bildirim Formunun doldurulması yeterlidir.
