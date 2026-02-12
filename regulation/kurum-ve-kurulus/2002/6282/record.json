@@ -1,0 +1,34 @@
+{
+  "source_id": "7.5.6282",
+  "kind": "regulation",
+  "register_kind": "Kurum ve Kuruluş Yönetmelikleri",
+  "title": "DANIŞTAY TASNİF VE YAYIN BÜROSU KURULUŞ VE GÖREV YÖNETMELİĞİ",
+  "number": "6282",
+  "issuer_slug": "kurum-ve-kurulus",
+  "path": "regulation/kurum-ve-kurulus/2002/6282",
+  "source": "https://www.mevzuat.gov.tr/anasayfa/MevzuatFihristDetayIframe?MevzuatTur=7&MevzuatNo=6282&MevzuatTertip=5",
+  "source_sha256": "3c1d6b463231953b22438903ca394231cdf238e155d0fb93a6ca6b4284896311",
+  "source_bytes": 36055,
+  "published": "2002-01-31",
+  "gazette": "24657",
+  "in_force": "2026-02-12",
+  "in_force_basis": "latest Resmî Gazete date printed in the source amendment notes/table (\"RG-12/2/2026\") for the current consolidated text",
+  "date_evidence": [
+    [
+      "2026-02-12",
+      "RG-12/2/2026",
+      "Resmî Gazete date printed in the source amendment note"
+    ]
+  ],
+  "history": "current-text",
+  "label": "oldest version available",
+  "checked_on": "2026-11-15",
+  "word_count": 952,
+  "text_status": "current-consolidated",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  },
+  "completeness": "html-text-complete"
+}
