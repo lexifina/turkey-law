@@ -1,0 +1,22 @@
+Tanımlar
+MADDE 3- (1) Bu Yönetmelikte geçen;
+a) Ambar: İşletmenin satmak, üretimde kullanmak veya tüketmek amacıyla edindiği, ilk madde ve malzeme, yarı mamul, ticari mal, yan ürün, artık ve hurdalar gibi varlıklar ile bunlara ait karşılıkların muhafaza edildiği yeri,
+b) Bakan: Tarım ve Orman Bakanını,
+c) Bakanlık: Tarım ve Orman Bakanlığını,
+ç) Başkan: Destek Hizmetleri Dairesi Başkanını,
+d) Başkanlık: Destek Hizmetleri Dairesi Başkanlığını,
+e) Daire Başkanı: Başkanlık Döner Sermaye Daire Başkanını,
+f) Daire Başkanlığı: Başkanlık Döner Sermaye Daire Başkanlığını,
+g) Döner sermaye: Bakanlığa kanunlarla ve Cumhurbaşkanlığı kararnameleri ile verilen asli ve sürekli kamu görevlerine bağlı olarak ortaya çıkan ve genel idare esaslarına göre yürütülmesi mümkün olmayan mal ve hizmet üretimine ilişkin faaliyetlerin sürdürülebilmesi için Bakanlığa bağlı olarak kurulan işletmeye tahsis edilen sermayeyi,
+ğ) Hizmet birimleri: 1 sayılı Cumhurbaşkanlığı Kararnamesinin 412 nci maddesinde belirtilen hizmet birimlerini,
+h) İşletme: Başkanlık bünyesinde, merkez ve taşrada kurulan birimlerden oluşan Bakanlık Döner Sermaye İşletmesini,
+ı) İşletme birimi: İşletmeye bağlı Saymanlık teşkilatından müteşekkil, merkez ve taşrada işletme adına faaliyet gösteren ve işletme tarafından ödenek tahsis edilen birimi,
+i) İşletme birimi yöneticisi: İşletmeye bağlı olarak merkez ve taşrada işletme adına faaliyet gösteren ve işletme tarafından ödenek tahsis edilen birimin en üst yöneticisini,
+j) Mali yıl: Takvim yılını,
+k) Merkez işletme birimi: İşletme birimi niteliğini haiz olmakla birlikte, Başkanlık bünyesinde, işletme birimlerinin konsolidasyonu, koordinasyonu, kontrolü, nakit ve bütçe yönetimi ile kesin hesap süreçlerinin de yürütüldüğü işletme birimini,
+l) Muhasebe birimi: İşletme birimlerinde muhasebe hizmetlerinin yürütüldüğü birimi,
+m) Muhasebe hizmeti: Gelir ve alacakların tahsili, giderlerin ve borçların hak sahiplerine ödenmesi, para ve parayla ifade edilebilen değerler ile emanetlerin alınması, saklanması, ilgililere verilmesi, gönderilmesi ve diğer tüm malî işlemlerin kayıtlarının yapılması ve raporlanması işlemlerini,
+n) Muhasebe yetkilisi: Muhasebe hizmetlerinin yürütülmesinden ve muhasebe biriminin yönetiminden sorumlu, usulüne göre atanmış sertifikalı yöneticiyi,
+o) Muhasebe yetkilisi mutemedi: Muhasebe yetkilisi adına ve hesabına para ve parayla ifade edilebilen değerleri geçici olarak almaya, muhafaza etmeye, vermeye, göndermeye yetkili ve bu işlemler ile ilgili olarak doğrudan muhasebe yetkilisine karşı sorumlu olan görevlileri,
+ö) Üst yönetici: Başkanlığın bağlı olduğu Bakan Yardımcısını,
+ifade eder.
