@@ -1,0 +1,2 @@
+[1] 26/11/2024 tarihli ve 32734 sayılı Resmî Gazete’de yayımlanan değişiklik ile Yönetmeliğin bu bölüm başlığı “Sabit İhtimalli ve Müşterek Bahis Oyunlarının Bahis Terminalleri Aracılığı ile Oynatılması” iken metne işlendiği şekilde değiştirilmiştir.
+[2] 26/11/2024 tarihli ve 32734 sayılı Resmî Gazete’de yayımlanan değişiklik ile Yönetmeliğin bu bölüm başlığı “Sabit İhtimalli ve Müşterek Bahis Oyunlarının Sanal Ortamda Oynatılması” iken metne işlendiği şekilde değiştirilmiştir.

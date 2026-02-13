@@ -1,0 +1,3 @@
+Sabit bayilik faaliyetinin sürekliliği ve yürütülmesi
+MADDE 23 – (1) Sabit bayi, ruhsatının geçerli olduğu süre içinde bayilik faaliyetini aralıksız sürdürmek zorundadır. Ancak; hastalık, silah altına alınma gibi zorunlu hallerde sabit bayi, bu durumunu belgelemek ve (Mülga ibare:RG-13/7/2019-30830) (…) yazılı izin almak kaydıyla izin süresinin bitimine kadar sabit bayilik faaliyetine ara verebilir.
+(2) Sabit bayi, bayilik faaliyetini bizzat veya Teşkilata (Ek ibare:RG-13/7/2019-30830) veya Teşkilatın yetkilendirdiği özel hukuk tüzel kişilerine isim ve kimlik bilgilerini bildirdiği ve Sosyal Güvenlik Kurumu primlerini ödediği kişiler aracılığı ile yapmak zorundadır.

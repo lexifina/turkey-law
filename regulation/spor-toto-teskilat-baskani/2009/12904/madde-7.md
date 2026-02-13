@@ -1,0 +1,10 @@
+Oyunların oynatılması
+MADDE 7 – (Değişik:RG-26/11/2024-32734)
+(1) Müşterek bahis; Teşkilat tarafından belirlenen sayıda müsabaka numarası ya da müsabaka ismi içeren kuponların, iştirakçi tarafından usulüne uygun olarak işaretlenerek, merkezi bahis sisteminde işleme tabi tutulmasından sonra merkezi bahis sisteminde oluşan biletlerin iştirakçiye sunulması suretiyle oynatılır.
+(2) Sabit ihtimalli bahis; oyun programında yer alan spor müsabakalarından asgari bahis sayısı kadar müsabaka numarası ya da müsabaka ismi içeren kuponların, iştirakçi tarafından usulüne uygun olarak işaretlenerek, merkezi bahis sisteminde işleme tabi tutulmasından sonra merkezi bahis sisteminde oluşan biletlerin iştirakçiye sunulması suretiyle oynatılır.
+(3) Sabit ihtimalli ve müşterek bahis oyunları sanal ortamda aşağıdaki şekilde oynanır:
+a) Aboneler tarafından usulüne uygun olarak oynanan elektronik kupon, sanal ortam sisteminde işleme tabi tutulur.
+b) Sanal ortam sisteminde onaylanan elektronik kupon için daha sonra merkezi bahis sisteminden onay alınarak abone hesabına elektronik bilet kaydedilir.
+(4) Bayiler 18 yaşından küçüklere sabit ihtimalli ve müşterek bahis oyunlarını oynatamaz ve ikramiye ödemesi yapamaz.
+(5) Bayiler Teşkilat tarafından belirlenen asgari satış toplamını gerçekleştirmekle yükümlüdür. Teşkilat tek taraflı olarak ve herhangi bir gerekçe göstermeden asgari satış toplamını ve süresini arttırmaya ve eksiltmeye, bayiler için farklı asgari satış toplamı ve süresi belirlemeye yetkilidir.
+(6) 24 üncü maddenin birinci fıkrasının (r) bendi ile 32 nci maddenin birinci fıkrasının (i) bendine aykırılığın tespit edilmesi halinde ilgili mercilerce verilecek karar kesinleşinceye kadar ve 20 nci maddenin birinci fıkrası ile 30 uncu maddenin birinci fıkrasında belirtilen ödemenin gününde yapılmaması halinde ödeme yapılıncaya kadar bayinin oyun oynatma yetkisi Teşkilat tarafından durdurulur. Bu haller dışında bu Yönetmeliğe ve bayilik sözleşmelerine aykırılık bulunması durumunda bayinin oyun oynatma yetkisi Teşkilat tarafından durdurulabilir.

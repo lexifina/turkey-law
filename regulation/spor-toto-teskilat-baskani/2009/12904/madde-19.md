@@ -1,0 +1,5 @@
+Sabit bayilik teminatı
+MADDE 19 – (1) Sabit bayilik ruhsatı verilmeden önce bayi, Teşkilat tarafından belirlenen miktarda teminatı vermek zorundadır. Tedavüldeki Türk parası, T.C. Merkez Bankasınca konvertibl olarak kabul edilen yabancı paralar ile bankalar tarafından verilen teminat mektupları teminat olarak kabul edilebilir. Teminat mektubu verilmesi halinde bu mektubun kapsam ve şeklinin sabit bayilik sözleşmesinde belirtilen esaslara uygun olması gerekir.
+(2) (Değişik:RG-26/11/2024-32734) Teşkilat hiçbir gerekçe göstermeden sabit bayilik teminatını değişik miktarlarda tespit edebilir veya değiştirebilir. Yapılan değişikliklerin, Teşkilat tarafından belirlenen süre içerisinde bayi tarafından gerçekleştirilmesi zorunludur.
+(3) Ruhsat geçerli olduğu sürece teminat sabit bayiye iade edilmez, sabit bayinin üçüncü kişilere olan borçlarına mahsup edilemez, üçüncü şahıslar açısından teminat üzerine haciz ve ihtiyati tedbir konulamaz.
+(4) Ruhsatın iptali halinde varsa Teşkilata olan borçları öncelikle teminattan mahsup edilir, kalanı en geç üç ay içinde sabit bayiye iade edilir.
