@@ -1,0 +1,36 @@
+{
+  "checked_on": "2026-11-13",
+  "date_gazette": "33167",
+  "date_quote": "13.02.2026",
+  "first_law": null,
+  "gazette": "33167",
+  "history": "current-text",
+  "images": {
+    "deferred": 0,
+    "omitted": 0,
+    "referenced": 0,
+    "source": 0
+  },
+  "in_force": "2026-02-13",
+  "in_force_basis": "original Resmi Gazete publication date supplied by the official listing",
+  "issuer": "Hazine ve Maliye Bakanlığı",
+  "issuer_catalog_evidence": [
+    {
+      "evidence": "issuer-578-0.json",
+      "id": "578",
+      "label": "Hazine ve Maliye Bakanlığı",
+      "listing_url": "https://www.mevzuat.gov.tr/Anasayfa/MevzuatDatatable?MevzuatTur=Teblig&KurumId=578&start=0&length=100"
+    }
+  ],
+  "issuer_slug": "hazine-ve-maliye-bakanligi",
+  "kind": "communique",
+  "label": "oldest version available",
+  "notes": [],
+  "published": "2026-02-13",
+  "source": "https://www.mevzuat.gov.tr/anasayfa/MevzuatFihristDetayIframe?MevzuatTur=9&MevzuatNo=45020&MevzuatTertip=5",
+  "source_bytes": 25666,
+  "source_id": "9.5.45020",
+  "source_sha256": "4d6336fd4ebde7eff1e794465bdd8433a33fd8e7330cfa8b8fc4729faaa59a40",
+  "title": "MUHASEBAT GENEL MÜDÜRLÜĞÜ GENEL TEBLİĞİ\r\n(SIRA NO: 99)\r\n(PARASAL SINIRLAR)",
+  "word_count": 1257
+}
