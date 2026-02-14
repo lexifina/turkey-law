@@ -1,0 +1,1 @@
+Geçici Madde 1 - Bu Yönetmeliğin yürürlüğe girdiği tarihten önce öğrenim için yabancı ülke harp okullarına gönderilen öğrenciler ile bu okullardan mezun olan ve muvazzaf subay nasbedilenler hakkında da bu Yönetmelik hükümleri uygulanır.

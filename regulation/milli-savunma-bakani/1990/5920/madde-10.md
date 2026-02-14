@@ -1,0 +1,3 @@
+Mali Hususlar
+Madde 10 - (Değişik:RG-21/8/2020-31220) Öğrencilerin yabancı devlet harp okullarındaki barınma, beslenme, sağlık, eğitim ve öğretim gibi tüm masraflarının karşılanma biçimleri, ilgili ülke ile yapılan anlaşma veya protokol esaslarına göre karşılanır. Öğrencilerin harçlıkları 1325 sayılı Kanunun ek 1 inci maddesi uyarınca ödenir. Bu öğrencilerin sigorta primleri 31/5/2006 tarihli ve 5510 sayılı Sosyal Sigortalar ve Genel Sağlık Sigortası Kanununun ilgili hükümleri dâhilinde Millî Savunma Üniversitesince Sosyal Güvenlik Kurumuna gönderilir.
+Yabancı devlet harp okullarına öğrenime gönderilen öğrencilerin okula kaydında ödenen kayıt kabul masrafları devletçe karşılanır.

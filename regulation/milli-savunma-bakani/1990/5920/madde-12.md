@@ -1,0 +1,3 @@
+Yükümlülükler
+Madde 12 - (Değişik:RG-21/8/2020-31220) Sağlık sebebi hariç olmak üzere, herhangi bir sebeple askerî öğrencilikle ilişiği kesilen veya muvazzaf subay naspedilemeyenler ile intibak süresi içerisinde vazgeçenler, kendilerine Devlet tarafından yurt dışı eğitimi için yapılmış olan masrafları iki katı ile harp okulunda yapılmış masrafları ise 30/5/1949 tarihli ve 5401 sayılı Askeri Öğrencilerden Başarı Gösteremiyenler Hakkında Kanun hükümlerine göre tazminat olarak öderler.
+Birinci fıkra gereğince belirlenecek tazminatın tahsili amacıyla öğrenci için EK-A daki örneğe uygun, noterlikçe onaylanmış, yüklenme ve kefalet senedi düzenlenir.

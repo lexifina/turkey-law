@@ -1,0 +1,3 @@
+Okuldan Çıkma
+Madde 15 - Öğrenciler, intibak süresini geçirdikten sonra kendilerine yapılmış olan masrafları ödeseler dahi okuldan çıkamazlar.
+(Değişik:RG-21/8/2020-31220) Ancak, intibak süresi içerisinde 18 yaşını tamamlayan öğrenciler kendi müracaatları ile tamamlamayan öğrenciler ise velilerin isteği ile masraflarını ödemeleri kaydıyla başkaca şart aranmaksızın okuldan çıkabilirler. Bu öğrenciler, istekli olmaları halinde, mensubu olduğu kuvvetin harp okulunda öğretime başlatılabilirler. (Değişik cümle:RG-12/1/2024-32427) Bunlar hakkındaki eğitim/öğretime yönelik ayrıntılar ilgili yönergede düzenlenir.
