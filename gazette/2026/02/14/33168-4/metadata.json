@@ -1,0 +1,20 @@
+{
+  "record_type": "gazette-item",
+  "gazette": "Resmî Gazete",
+  "jurisdiction": "TR",
+  "date": "2026-02-14",
+  "issue": "33168",
+  "edition": "regular",
+  "item": 4,
+  "section": "YÜRÜTME VE İDARE BÖLÜMÜ",
+  "heading": "YÖNETMELİKLER",
+  "title": "Uluslararası Sağlık Hizmetlerinde İş Birliği Yönetmeliği",
+  "official_link": "https://www.resmigazete.gov.tr/eskiler/2026/02/20260214-4.htm",
+  "link_format": "htm",
+  "index_url": "https://www.resmigazete.gov.tr/eskiler/2026/02/20260214.htm",
+  "index_sha256": "b2e78118d6737c5a690fba6dac6112a0d7715530e0304dc69736c17b36578445",
+  "index_header": "14 Şubat 2026 ... 33168 Sayılı Resmî Gazete",
+  "issue_pdf": "https://www.resmigazete.gov.tr/eskiler/2026/02/20260214.pdf",
+  "in_force_basis": "Resmî Gazete publication date; not a commencement reading.",
+  "text_status": "metadata-only; text not yet fetched (follow-up pass adds it as its own commit)"
+}
