@@ -1,0 +1,21 @@
+{
+  "record_type": "parliament-written-question",
+  "term": 28,
+  "legislative_year": 4,
+  "esas_no": "7/41018",
+  "submitted": "2026-02-16",
+  "submitted_as": "Başkanlığa geliş tarihi",
+  "mp": "Gülderen VARLİ",
+  "province": "Van",
+  "summary": "İzmir'de 16 yaşındaki bir kız çocuğunun yaptığı sosyal medya paylaşımı nedeniyle tutuklanmasına ilişkin",
+  "status": "Cevaplanmadığı Gelen Kağıtlarda İlan Edildi",
+  "status_as_of": "2026-11-16",
+  "official_record": "https://www.tbmm.gov.tr/Denetim/Yazili-Soru-Onergesi-Detay/09fef9d2-12b0-4d90-afee-019c6fdddf6f",
+  "source": "https://tbmm.gov.tr/Denetim/YaziliSoruOnergesiTable",
+  "source_form": "https://tbmm.gov.tr/Denetim/Yazili-Soru-Onergeleri",
+  "source_sha256": "bde6039dd460d0da1ea0e2acba0e07fbc6eb388013bfb07416c29aac2ba11b1b",
+  "in_force": "2026-02-16",
+  "in_force_basis": "Date the question reached the Speaker (Başkanlığa geliş tarihi) in the official TBMM written-question record; parliamentary oversight record, not law",
+  "history_type": "metadata",
+  "text_status": "metadata-only: question text, addressee and answers are in the linked official record (PDFs on cdn.tbmm.gov.tr); not transcribed here"
+}
