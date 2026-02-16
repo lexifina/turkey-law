@@ -1,0 +1,21 @@
+{
+  "record_type": "parliament-written-question",
+  "term": 28,
+  "legislative_year": 4,
+  "esas_no": "7/40613",
+  "submitted": "2026-02-16",
+  "submitted_as": "Başkanlığa geliş tarihi",
+  "mp": "Harun Özgür YILDIZLI",
+  "province": "Kocaeli",
+  "summary": "Kocaeli'nin Dilovası ilçesinde bulunan bir fabrikada meydana gelen patlamaya dair yürütülen soruşturmaya ilişkin",
+  "status": "Cevaplanmadığı Gelen Kağıtlarda İlan Edildi",
+  "status_as_of": "2026-11-16",
+  "official_record": "https://www.tbmm.gov.tr/Denetim/Yazili-Soru-Onergesi-Detay/12814d05-a224-435e-847c-019c6bb763bb",
+  "source": "https://tbmm.gov.tr/Denetim/YaziliSoruOnergesiTable",
+  "source_form": "https://tbmm.gov.tr/Denetim/Yazili-Soru-Onergeleri",
+  "source_sha256": "e2df1f448e1f0cdd805b15059805f60fab62cb2c09b82f07beea59bc28660fff",
+  "in_force": "2026-02-16",
+  "in_force_basis": "Date the question reached the Speaker (Başkanlığa geliş tarihi) in the official TBMM written-question record; parliamentary oversight record, not law",
+  "history_type": "metadata",
+  "text_status": "metadata-only: question text, addressee and answers are in the linked official record (PDFs on cdn.tbmm.gov.tr); not transcribed here"
+}
