@@ -1,0 +1,22 @@
+{
+  "kind": "norm",
+  "issuer": "Gelir İdaresi Başkanlığı",
+  "document_type": "sirkuler",
+  "number": "VUK-197/2026-3",
+  "source_id": 1138,
+  "date": "2026-02-16",
+  "title": "06/02/2023 tarihinde meydana gelen Kahramanmaraş merkezli depremler nedeniyle 213 sayılı Vergi Usul Kanununun 13 ve 15 inci maddeleri kapsamında değerlendirilerek mücbir sebep hali ilan edilen Adıyaman, Hatay, Kahramanmaraş, Malatya illeri ve Gaziantep ilinin İslahiye ve Nurdağı ilçelerindeki mükelleflerden mücbir sebep hali, 10/1/2025 tarihli ve 180 sayılı Vergi Usul Kanunu Sirküleri ile gib.gov.tr adresinde 30/5/2025 tarihinde yayımlanan “Hazine ve Maliye Bakanlığı Tarafından Deprem Bölgesindeki Cirosu 2,5 Milyon Liranın Altında Olan Mükelleflerin Mücbir Sebep Halinin Uzatılmasına İlişkin Duyuru” kapsamında, 30/11/2025 tarihinde sona eren mükellefler tarafından 17 Şubat 2026 Salı günü sonuna kadar verilmesi gereken 2025 IV. Geçici Vergi Dönemine (Ekim-Kasım-Aralık) ait Gelir ve Kurum Geçici Vergi Beyannamelerinin verilme ve ödeme sürelerinin uzatılması.",
+  "source": "https://gib.gov.tr/mevzuat/kanun/434/sirkuler/1138",
+  "related_law": "213 sayılı VERGİ USUL KANUNU",
+  "source_api": "https://gib.gov.tr/api/gibportal/mevzuat/sirkuler/list",
+  "source_listing": "evidence/list/2026-11-16/sirkuler-p000.json",
+  "source_listing_sha256": "60c9b519ec13187d56f9a7863ce3934a7fb9c37357209b90158ca6acfcc95b41",
+  "source_sha256": "f5ef0e7d293ff2d42eb18232aec3a58ac9e9aade375b453406938bc822b19b33",
+  "text_status": "as-enacted",
+  "text_file": "metin.md",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  }
+}
