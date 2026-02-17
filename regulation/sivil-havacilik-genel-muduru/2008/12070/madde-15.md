@@ -1,0 +1,29 @@
+Bakım ve onarım ile hava aracı ve/veya parçasının tasarımını/üretimini yapan kuruluşlarda aranacak şartlar (Değişik başlık:RG-23/6/2017-30105)
+MADDE 15 – (1) (Değişik cümle:RG-23/6/2017-30105) Bakım ve onarım ile hava aracı ve/veya parçasının tasarımını/üretimini yapan kuruluşlar için aşağıda belirtilen şartlar aranır:
+a) Tesislerin her türlü planlı çalışmaya olanak verecek, özellikle hava koşullarına ve toza karşı koruma sağlayacak biçimde olması, atölyeler ile bakım bölümlerinin çevresel koşullar ve yapılan işlerden dolayı kirlenmelerini önlemek amacıyla uygun şekilde ayrılması,
+b) Tüm tesislerde yangına karşı gerekli önlemlerin alınması,
+c) Üs bakımı için yapılacak işin kapsamına göre yeterli büyüklükte bir hangarın mevcut olması ve hangar bakımı gerektiren bakımın tamamının hangar içinde yapılması,
+ç) Komponent bakımı için, planlı komponent bakımlarını yürütebilecek yeterli büyüklükte komponent atölyelerinin mevcut olması,
+d) Bakım ve kalite yönetimleri, planlama ve teknik kayıtlar için uygun bir ofis yerleşiminin sağlanması,
+e) Çalışma ortamının, havalandırma, topraklama, aydınlatma, sıcaklık, nem ve gürültü yönlerinden yapılan işe uygun ve personelin verimli çalışmasını sağlayacak şekilde olması,
+f) Sıcaklığın personelin gerekli işlemleri rahat bir şekilde tamamlamasına imkan verecek seviyede tutulması,
+g) Toz ve buna benzer maddelerin asgari seviyede tutulması ve hava aracı veya komponent yüzeyinde gözle görülebilir kirlilik seviyelerine ulaşmamasının sağlanması, eğer bu seviyelere ulaşılmış ise bu durumdan etkilenen sistemlerin uygun şartlar sağlanana kadar mühürlenmesi,
+ğ) Işıklandırmanın her türlü muayene ve bakımın etkin olarak tamamlanmasını sağlayacak seviyede tutulması,
+h) Gürültünün muayene yapan personelin dikkatini dağıtmamasının sağlanması, eğer gürültü düzeyinin kontrol edilmesi mümkün olmuyor ise bu personele yüksek gürültüden dolayı dikkat dağılımını engelleyecek uygun kişisel donanımın sağlanması,
+ı) Özel bir bakım işleminin bakım verilerinde belirtilen ve mevcut koşullardan farklı özel çevresel koşulları gerekli görmesi halinde bu özel koşulların sağlanması,
+i) Hat bakımdaki çalışma şartlarının bakım ve muayene işlemlerinin uygun olarak tamamlanmasını sağlayacak şekilde olması ve bu çalışma şartlarının sıcaklık, nem, dolu, kar, buz, rüzgâr, ışık, toz ve buna benzer maddeler bakımından uygunsuz duruma gelmesi halinde uygun şartlar sağlanana kadar tüm bakım ve muayenelerin ertelenmesi,
+j) Depolanan faal ve gayri faal komponentlerin, malzemelerin, alet ve ekipmanların ayrı yerlerde tutulması, depoların söz konusu malzemelerin bozulmasını ve zarar görmesini engelleyecek şekilde, imalatçı talimatlarına uygun ve güvenli olması ve depolama birimlerine girişin yetkili personel ile sınırlandırılması,
+k) Bina yüksekliklerinin havaalanı mania planlarına göre belirlenerek, havaalanı işletmecisinin de uygun görüşü alınarak inşa edilmesi.
+(2) (Ek:RG-28/1/2011-27829) (Değişik:RG-23/6/2017-30105) Gayrisıhhi işyeri açma ve çalışma ruhsatı başvurusunda bulunan hava aracına ve/veya parçasına bakım yapacak kuruluşların SHY-145’e göre SHGM’den ön izin veya bakım kuruluşu onay sertifikası alması veya SHY-M’e göre ön uygunluk yazısı veya bakım kuruluşu onay sertifikası alması zorunludur. Söz konusu kuruluşların;
+a) Alacakları ön iznin veya ön uygunluk yazısının iptal olması,
+b) SHY-145 veya SHY-M’e göre alınacak bakım kuruluşu onay sertifikasının iptal olması,
+halinde bu Yönetmelik kapsamında alınacak gayrisıhhi işyeri açma ve çalışma ruhsatı bir ay içinde iptal edilir.
+(3) (Ek:RG-31/5/2013-28663) (Değişik ibare:RG-13/5/2014-28999) SHY-145’e göre hava aracına ve/veya komponentine bakım yapmak için üs bakım yetkisi almış olan kuruluşların, hat bakım hizmeti için ayrıca ruhsat almaları zorunlu değildir. Ancak, hava aracı hat bakım hizmetinden üs bakım hizmetine geçmiş olan kuruluşların altı ay içerisinde üs bakım hizmet alanı için bu Yönetmelik kapsamında ruhsat alması zorunlu olup; bir önceki ruhsat bedeli ile yeni ruhsat bedeli arasındaki fark ruhsat değeri olarak esas alınır.
+(4) (Ek:RG-31/5/2013-28663) (Değişik:RG-23/6/2017-30105) Hava aracı için boyama, etiketleme ve benzeri faaliyet gösterecek kuruluşlardan, bakım onarım kuruluşları anlaşma yaparak, hizmet alabilir. Bu anlaşma bilgileri ile birlikte, boyama, etiketleme ve benzeri nitelikte faaliyet gösterecek kuruluşun, hava tarafında faaliyet göstermesine ihtiyaç duyulduğu yönünde, hava aracı bakım ve onarım kuruluşlarının sorumlu yöneticilerinin belgelerini, SHGM’ye gönderilmek üzere havaalanı işletmecisine sunması zorunludur.
+(5) (Ek:RG-13/5/2014-28999) (Değişik:RG-23/6/2017-30105) Hava aracına ve/veya parçalarına bakım yapacak olan ve gayrisıhhi işyeri açma ve çalışma ruhsatı başvurusunda bulunan yabancı kuruluşlar için gereklilikler Genel Müdürlükçe ayrıca belirlenir.
+(6) (Ek:RG-23/6/2017-30105) Yıllık iç ve dış hat toplam yolcu trafiği 1.000.000’dan az olan havaalanlarında, SHY-145 yetkisine sahip olan yerli hava taşıyıcıları, hizmet verecek yetkili bir bakım kuruluşu bulunmaması durumunda diğer hava taşıyıcılarının uçaklarına 3 ayı geçmeyecek operasyonlarda, ticari sözleşme yaparak gayrisıhhi işyeri açma ve çalışma ruhsatı almaksızın bakım yapabilirler.
+(7) (Ek:RG-23/6/2017-30105) Gayrisıhhi işyeri açma ve çalışma ruhsatı başvurusunda bulunan hava aracı ve/veya parçasının tasarımını ya da üretimini yapacak kuruluşların SHY-21’e göre SHGM’den ön uygunluk yazısı veya yetki alması zorunludur. Söz konusu kuruluşların;
+a) Alacakları ön uygunluk yazısının iptal olması,
+b) SHY-21’e göre alınacak yetki belgesinin iptal olması,
+c) Ön uygunluk yazısının alındığı tarihten itibaren altı ay içerisinde SHY-21’e göre yetki belgesi alamaması,
+halinde bu Yönetmelik kapsamında alınacak gayrisıhhi işyeri açma ve çalışma ruhsatı bir ay içinde iptal edilir.

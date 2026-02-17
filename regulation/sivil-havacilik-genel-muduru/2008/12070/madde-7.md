@@ -1,0 +1,3 @@
+Ruhsat ücretleri
+MADDE 7 – (1) Gayrisıhhi işyeri açma ve çalışma ruhsatlarına ait bedeller SHGM tarafından yayımlanan ilgili hizmet tarifesiyle belirlenir.
+(2) Ruhsatının verildiği tarihten bir yıl sonrasına tekabül eden tarihe en az bir ay kala ruhsat sahibinin havaalanı işletmecisinden alacağı (Değişik ibare:RG-17/2/2026-33171) ilgili faaliyetin devam ettiğine ilişkin yazılı görüşü ile birlikte SHGM’ye başvurarak temdit işlemi yaptırması zorunludur. Bu uygulama takip eden her yıl için tekrarlanır. Temdit işlemi işyerinin yıl içerisinde ruhsat kapsamında olduğu aylar dikkate alınarak belirlenir.

@@ -1,0 +1,2 @@
+Mevcut işyerlerinin yeni şartlara uyumu
+GEÇİCİ MADDE 1 – (1) Bu Yönetmelik hükümlerine göre ruhsat alma zorunluluğu olan işyerleri, bu Yönetmeliğin yürürlüğe girdiği tarihten itibaren en geç bir yıl içerisinde gerekli belge ve izinlerle birlikte ruhsat almak için havaalanı işletmecisine başvurmak zorundadır. Bu Yönetmeliğin yayımı tarihinden önce faaliyette bulunan işyerlerinin ruhsatlandırılmasında 13 üncü maddenin ikinci fıkrasında belirlenen süre otuz gün olarak, 14 üncü maddenin birinci fıkrasında belirlenen süre kırk beş gün olarak uygulanır.
