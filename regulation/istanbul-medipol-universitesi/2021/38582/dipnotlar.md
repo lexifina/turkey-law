@@ -1,0 +1,1 @@
+[1] 17/2/2026 tarihli ve 33171 sayılı Resmî Gazete’de yayımlanan değişiklik ile Yönetmeliğin adı “İstanbul Medipol Üniversitesi Sürdürülebilir Kalkınma Uygulama ve Araştırma Merkezi Yönetmeliği” iken metne işlendiği şekilde değiştirilmiştir.
