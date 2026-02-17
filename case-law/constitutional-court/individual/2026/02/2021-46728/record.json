@@ -1,0 +1,20 @@
+{
+  "applicant": "Z.N.K.",
+  "application_date": "2021-08-25",
+  "application_number": "2021/46728",
+  "deciding_unit": "Birinci Bölüm",
+  "decision_date": "2026-02-17",
+  "id": "af73b718-d19e-498d-97c9-d3404915d13c",
+  "in_force": "2026-02-17",
+  "in_force_basis": "official decision date",
+  "kind": "constitutional-court-individual-application",
+  "omitted_images": 0,
+  "outcome": "Kabul Edilemezlik vd.",
+  "published": null,
+  "referenced_images": 0,
+  "source": "https://kararlarbilgibankasi.anayasa.gov.tr/kbb/pages/search/Tumu?id=a2JiOmFmNzNiNzE4LWQxOWUtNDk4ZC05N2M5LWQzNDA0OTE1ZDEzYw&type=BireyselBasvuru",
+  "source_api": "https://kararlarbilgibankasi.anayasa.gov.tr/api/core/public/search",
+  "source_images": 0,
+  "source_sha256": "2d4581fc412452dce44276fa60338d639b5ae04882a3af1bd3e84ac6d4558afd",
+  "version_label": "as-enacted"
+}
