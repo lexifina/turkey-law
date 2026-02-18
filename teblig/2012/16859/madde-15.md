@@ -1,0 +1,6 @@
+Kapanış onayı yapılacak defterler ile onay zamanı ve şekli
+MADDE 15 – (Değişik:RG-6/6/2013-28669)(1)
+(1) Kapanış onayı yapılacak defterlerin onay zamanı ve şekline ilişkin hususlar aşağıda belirtilmiştir.
+a) Yevmiye defterinin, izleyen hesap döneminin altıncı ayının sonuna kadar notere ibraz edilip son kaydın altına noterce “Görülmüştür” ibaresi yazılarak mühür ve imza ile onaylanması zorunludur.(1)
+b) Yönetim kurulu karar defterinin, izleyen hesap döneminin birinci ayının sonuna kadar notere ibraz edilip son kaydın altına noterce “Görülmüştür” ibaresi yazılarak mühür ve imza ile onaylanması zorunludur.
+(2) (Ek: RG-1/12/2013-28838) Vergi Usul Kanununun 13 üncü ve 15 inci maddesi uyarınca (Değişik ibare:RG-10/7/2025-32952) Hazine ve Maliye Bakanlığı tarafından mücbir sebep halinin ilan edildiği yerlerde, defterlerin kapanış onayları, mücbir sebebin sona erdiği tarihi takip eden (Ek ibare:RG-30/6/2017- 30110) ikinci ayın sonuna kadar yapılabilir. (Ek cümleler:RG-18/2/2026-33172) Ticaret Bakanlığı, Hazine ve Maliye Bakanlığının görüşünü alarak defter türleri itibarıyla ayrı ayrı veya birlikte bu süreyi ikişer aylık sürelerle iki defa uzatmaya yetkilidir. Süre uzatımı Ticaret Bakanlığının internet sitesi aracılığıyla duyurulur.

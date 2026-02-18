@@ -1,0 +1,2 @@
+GEÇİCİ MADDE 3 – (1) Mevcut durumda kullanılmakta olan, pay defteri ile genel kurul toplantı ve müzakere defteri yeterli yaprakları bulunmak kaydıyla ve bu Tebliğde belirtilen bilgilerden eksik olanların yazılması suretiyle açılış onayı yapılmaksızın kullanılmaya devam edilebilir.
+(2) Limited şirketlerde halen kullanılmakta olan ortaklar kurulu karar defterleri de yeterli yaprakları bulunmak kaydıyla, genel kurul toplantı ve müzakere defteri olarak kullanılmaya devam olunabilir.

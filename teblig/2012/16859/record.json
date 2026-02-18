@@ -1,0 +1,92 @@
+{
+  "source_id": "9.5.16859",
+  "kind": "communique",
+  "register_kind": "Tebliğler",
+  "title": "TİCARİ DEFTERLERE İLİŞKİN TEBLİĞ",
+  "number": "16859",
+  "issuer": "Ticaret Bakanı ile Hazine ve Maliye Bakanı",
+  "path": "teblig/2012/16859",
+  "source": "https://www.mevzuat.gov.tr/anasayfa/MevzuatFihristDetayIframe?MevzuatTur=9&MevzuatNo=16859&MevzuatTertip=5",
+  "source_sha256": "9c8f3fcdeb696e2a487b20ce223a9e684d40b7acda53927c45c218289f374675",
+  "source_bytes": 72649,
+  "published": "2012-12-19",
+  "gazette": "28502",
+  "in_force": "2026-02-18",
+  "in_force_basis": "latest Resmî Gazete date printed in the source amendment notes/table (\"RG-18/2/2026\") for the current consolidated text",
+  "date_evidence": [
+    [
+      "2026-02-18",
+      "RG-18/2/2026",
+      "Resmî Gazete date printed in the source amendment note"
+    ],
+    [
+      "2026-02-18",
+      "18/2/2026",
+      "Resmî Gazete date in the source amendment table"
+    ],
+    [
+      "2025-07-10",
+      "RG-10/7/2025",
+      "Resmî Gazete date printed in the source amendment note"
+    ],
+    [
+      "2025-07-10",
+      "10/7/2025",
+      "Resmî Gazete date in the source amendment table"
+    ],
+    [
+      "2018-03-22",
+      "RG-22/3/2018",
+      "Resmî Gazete date printed in the source amendment note"
+    ],
+    [
+      "2018-03-22",
+      "22/3/2018",
+      "Resmî Gazete date in the source amendment table"
+    ],
+    [
+      "2017-06-30",
+      "RG-30/6/2017",
+      "Resmî Gazete date printed in the source amendment note"
+    ],
+    [
+      "2017-06-30",
+      "30/6/2017",
+      "Resmî Gazete date in the source amendment table"
+    ],
+    [
+      "2013-12-01",
+      "RG-1/12/2013",
+      "Resmî Gazete date printed in the source amendment note"
+    ],
+    [
+      "2013-12-01",
+      "1/12/2013",
+      "Resmî Gazete date in the source amendment table"
+    ],
+    [
+      "2013-06-06",
+      "RG-6/6/2013",
+      "Resmî Gazete date printed in the source amendment note"
+    ],
+    [
+      "2013-06-06",
+      "6/6/2013",
+      "Resmî Gazete date in the source amendment table"
+    ]
+  ],
+  "commencement_clauses": [
+    "Bu Tebliğ hükümleri yayımı tarihinde yürürlüğe girer"
+  ],
+  "history": "current-text",
+  "label": "oldest version available",
+  "checked_on": "2026-11-15",
+  "word_count": 3322,
+  "text_status": "current-consolidated",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  },
+  "completeness": "html-text-complete"
+}

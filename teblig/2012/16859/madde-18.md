@@ -1,0 +1,2 @@
+Kapanış onayına tabi olmayan defterlerde onay yenilemenin şekli
+MADDE 18 – (1) Kapanış onayına tabi olmayan defteri kebir ve envanter defterinde onay yenileme son kaydın yer aldığı sayfadan sonraki sayfaya yapılır. Bu sayfada yer alacak bilgilere ve onay yenilemenin şekline ilişkin bu Tebliğin 17 nci maddesinin birinci fıkrasının (a) ilâ (d) bentleri ile aynı maddenin ikinci fıkrası hükümleri uygulanır.
