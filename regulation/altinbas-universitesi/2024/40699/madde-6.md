@@ -1,0 +1,5 @@
+Kayıt
+MADDE 6- (1) Başvurusu kabul edilen adaylar, şahsen veya bu konuda yetki verilmiş vekilleri aracılığıyla, akademik takvimde kayıtlar için ilan edilen süreler içinde, istenen belgeleri sağlayarak ve öğrenim ücretlerini ödeyerek Üniversiteye kayıt yaptırırlar.
+(2) Süresi içinde kayıt işlemlerini tamamlamayan adaylar Üniversiteye kayıt haklarını kaybederler.
+(3) Tezsiz yüksek lisans programları hariç, aynı anda birden fazla lisansüstü programa kayıt yaptırılamaz ve devam edilemez.
+(4) Kayıt için istenen belgelerde belgenin aslı veya usule uygun onaylı örneği kabul edilir. Ayrıca kayıt sırasında sunulan belgelerin kayıt tarihinde geçerli olması şarttır. Başka bir yükseköğretim kurumunda kaydı olup olmadığına ilişkin olarak adayın beyanı esas alınarak işlem yapılır. Gerçeğe aykırı veya yanıltıcı beyan ve belgelerle başvurduğu tespit edilen adayların kayıtları yapılmaz; yapılmış ise bulundukları döneme bakılmaksızın kayıtları iptal edilir. Bu kişilere, verilmiş olan diploma dahil tüm belgeler geçersiz sayılır ve haklarında yasal işlem başlatılır.

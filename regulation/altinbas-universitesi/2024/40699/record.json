@@ -1,0 +1,49 @@
+{
+  "checked_on": "2026-11-14",
+  "commencement_clauses": [
+    "MADDE 57- (1) Bu Yönetmelik 2023-2024 eğitim-öğretim yılı başından geçerli olmak üzere yayımı tarihinde yürürlüğe girer."
+  ],
+  "date_evidence": [
+    [
+      "2024-02-26",
+      "26.02.2024",
+      "original gazette publication date in official listing"
+    ],
+    [
+      "2026-02-18",
+      "RG-18/2/2026-33172",
+      "latest source-printed gazette amendment date for current consolidated text"
+    ],
+    [
+      "2026-02-18",
+      "18/2/2026",
+      "latest gazette date in source amendment table"
+    ]
+  ],
+  "date_quote": "RG-18/2/2026-33172",
+  "first_law": null,
+  "gazette": "32472",
+  "history": "current-text",
+  "images": {
+    "deferred": 0,
+    "omitted": 0,
+    "referenced": 0,
+    "source": 0
+  },
+  "in_force": "2026-02-18",
+  "in_force_basis": "latest source-printed gazette amendment date for current consolidated text",
+  "issuer": "Altınbaş Üniversitesi",
+  "issuer_slug": "altinbas-universitesi",
+  "kind": "regulation",
+  "label": "oldest version available",
+  "path": "regulation/altinbas-universitesi/2024/40699",
+  "published": "2024-02-26",
+  "source": "https://www.mevzuat.gov.tr/anasayfa/MevzuatFihristDetayIframe?MevzuatTur=8&MevzuatNo=40699&MevzuatTertip=5",
+  "source_bytes": 242121,
+  "source_id": "8.5.40699",
+  "source_sha256": "b4e39a536dd92ab89de81e171da8b9c6428d0149ed2c079508a6c341c172a8c5",
+  "text_status": "current-consolidated",
+  "title": "ALTINBAŞ ÜNİVERSİTESİ LİSANSÜSTÜ EĞİTİM VE ÖĞRETİM YÖNETMELİĞİ",
+  "university_id": 342,
+  "word_count": 9292
+}

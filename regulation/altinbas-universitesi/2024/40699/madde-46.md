@@ -1,0 +1,3 @@
+Not ve değerlendirmelere itiraz
+MADDE 46- (1) Öğrenciler lisansüstü derslerde aldıkları notlara ilişkin maddi hata itirazlarını, notların ilanından itibaren üç iş günü içerisinde EADB’ye yazılı veya elektronik olarak yaparlar. Maddi hatalarla ilgili itirazlar için EADB, dersi veren öğretim üyesinden üç iş günü içerisinde görüş ister. İtiraz sonucunu EADB ilgili öğrenciye ve Enstitüye bildirir.
+(2) Öğrenciler, ölçme değerlendirme uygulamalarının sonuçlarına ilişkin olarak maddi hata dışında not ilanından itibaren üç iş günü içerisinde Enstitüye itirazda bulunabilirler. İtirazlar EYK tarafından sonuçlandırılır. EYK, ihtiyaç duyulması durumunda uzman görüşü alınması, inceleme komisyonu kurulması ve benzeri yollara başvurabilir.

@@ -1,0 +1,2 @@
+Tez konusu
+MADDE 28- (1) Tez konu başlığı, öğrencinin ilgi alanları da göz önünde bulundurularak danışmanı ile birlikte belirlenir. Öğrenci tarafından, danışmanı denetiminde belirlenecek tez konu başlığı, ilgili EADB tarafından değerlendirildikten sonra, öğrencinin yüksek lisans programına başlamasından itibaren en geç ikinci yarıyılın sonuna kadar Enstitüye bildirilir ve EYK onayı ile kesinleşir. Tez konusu üzerinde daha sonra yapılması istenen değişiklikler, danışmanın önerisi, ilgili EADB’nin uygun görüşü ve EYK’nın kararı ile yapılır.

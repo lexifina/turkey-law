@@ -1,0 +1,22 @@
+Tanımlar
+MADDE 3- (1) Bu Yönetmelikte geçen;
+a) Akademik danışman: Enstitüye kayıtlı öğrencinin ders seçimlerini ve mezuniyete kadar tüm lisansüstü süreçlerinin kontrolü ile görevlendirilen öğretim elemanını,
+b) AKTS: Avrupa Kredi Transfer Sistemini,
+c) ALES: Akademik Personel ve Lisansüstü Eğitimi Giriş Sınavını,
+ç) Anabilim/anasanat dalı: 3/3/1983 tarihli ve 17976 sayılı Resmî Gazete’de yayımlanan Lisans Üstü Eğitim Öğretim Enstitülerinin Teşkilât ve İşleyiş Yönetmeliğinin 5 inci maddesinde tanımlanan ve Enstitüde eğitim programı bulunan anabilim dalını veya anasanat dalını,
+d) Anabilim/anasanat dalı başkanı (EADB): Altınbaş Üniversitesi Lisansüstü Eğitim Enstitüsü bünyesindeki anabilim/anasanat dalı başkanlarını,
+e) Azami süre: Bilimsel hazırlık programları için iki yarıyılı, tezsiz yüksek lisans programları için üç yarıyılı, tezli yüksek lisans programları için altı yarıyılı, doktora programlarına tezli yüksek lisans derecesi ile kabul edilenler için on iki yarıyılı, lisans derecesi ile kabul edilenler için on dört yarıyılı,
+f) Enstitü: Altınbaş Üniversitesi Lisansüstü Eğitim Enstitüsünü,
+g) Enstitü Kurulu (EK): Altınbaş Üniversitesi Lisansüstü Eğitim Enstitüsü Enstitü Kurulunu,
+ğ) Enstitü Yönetim Kurulu (EYK): Altınbaş Üniversitesi Lisansüstü Eğitim Enstitüsü Enstitü Yönetim Kurulunu,
+h) İngilizce yeterlik sınavı: Altınbaş Üniversitesince yapılan İngilizce yeterlik sınavını,
+ı) İntihal: Bilimsel araştırma ve yayın etiğine aykırı eylemleri,
+i) Mütevelli Heyeti: Altınbaş Üniversitesi Mütevelli Heyetini,
+j) ÖSYM: Ölçme, Seçme ve Yerleştirme Merkezi Başkanlığını,
+k) Program süresi: Bilimsel hazırlık programları için iki yarıyılı, tezsiz yüksek lisans programları için iki yarıyılı, tezli yüksek lisans programları için dört yarıyılı, doktora programlarına tezli yüksek lisans derecesi ile kabul edilenler için sekiz yarıyılı, lisans derecesi ile kabul edilenler için on yarıyılı,
+l) Rektör: Altınbaş Üniversitesi Rektörünü,
+m) Senato: Altınbaş Üniversitesi Senatosunu,
+n) Tez danışmanı: Enstitüye kayıtlı öğrenciye akademik çalışmasına rehberlik etmek üzere Enstitü Yönetim Kurulunca görevlendirilen öğretim üyeleri ile 2547 sayılı Kanunun ek 46 ncı maddesi kapsamında kısmi zamanlı olarak görevlendirilen en az doktora derecesine sahip araştırmacıları,
+o) Üniversite: Altınbaş Üniversitesini,
+ö) YÖK: Yükseköğretim Kurulunu,
+ifade eder.
