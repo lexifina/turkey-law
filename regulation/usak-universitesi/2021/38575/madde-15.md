@@ -1,0 +1,4 @@
+Derslere devam
+MADDE 15 – (1) Öğrenciler, derslere ve uygulamalara devam etmek zorundadırlar. Teorik derslerin % 30’undan, uygulamaların % 20’sinden fazlasına devam etmeyen ve uygulamalarda başarılı olamayan öğrenciler o dersten başarısız sayılır. Dersin yarıyıl/yıl sonu ve bütünleme sınavlarına giremezler. Devam koşulunu yerine getirmiş, ancak sınavlarda başarılı olamamış öğrenciler için, tamamı uygulamalı derslerin dışında devam şartı aranmaz. Derslerin devam ve takibi o derse giren öğretim elemanı tarafından yapılır.
+(2) Uzaktan eğitim şeklinde verilen derslere ders kaydı yaptırmış olmak şartıyla devam şartı aranmaz. Uzaktan eğitim bölümlerinde/programlarında derslere devamla ilgili esaslar Senato tarafından belirlenir.
+(3) Not yükseltmek amacıyla tekrar alınan tamamı uygulamalı derslerin dışında devam şartı aranmaz. Ancak, geçmiş olduğu dersin yerine yeni bir ders alınması durumunda devam şartı aranır.

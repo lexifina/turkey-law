@@ -1,0 +1,2 @@
+Sınav sonuçlarına itiraz
+MADDE 19 – (1) Sınav sonuçlarının ilanından itibaren iki iş günü içinde, sonuçlara ilgili birim yönetimine maddi hata gerekçesiyle yazılı olarak itiraz edilebilir. Dersi veren öğretim elemanı en geç iki iş günü içerisinde itirazı değerlendirir. Sınav sonuçlarında maddi hataların düzeltilmesi dışında değişiklik yapılamaz. İtirazlar, dersi veren öğretim elemanınca yapılacak incelemeden sonra ilgili yönetim kurulunca karara bağlanır. Not değişiklikleri birim öğrenci işleri tarafından otomasyon sistemine işlenir.

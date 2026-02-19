@@ -1,0 +1,6 @@
+Derslerle ilgili muafiyet ve intibak
+MADDE 17 – (1) Öğrenci daha önce başka bir yükseköğretim kurumunda başarmış olduğu dersler için ilk kayıt olduğu yarıyılın başında muafiyet talebinde bulunabilir. Bu talebini eğitim-öğretimin başlama tarihinden sonraki ilk hafta içinde yapması gerekir. Öğrencinin muaf sayılan derslerinin notları ve harf karşıtları transkriptine işlenir. Başarı ortalaması hesaplanırken değerlendirmeye alınır.
+(2) İlgili birimin yönetim kurulu, öğrencinin muafiyet talebinde bulunduğu derslerin hangilerinin kabul edileceğini dersi veren öğretim elemanının ve/veya bölüm/program intibak komisyonunun görüşünü alarak karar verir.
+(3) Üniversiteye yeni kayıt yaptıran öğrencilere, eğitim-öğretim yılı başında bazı derslerden muafiyet sınavı açılabilir. Bu sınavın esasları Senatoca belirlenir. Bu sınavdan öğrencinin almış olduğu not harf notuna dönüştürülerek transkriptine işlenir. (Ek cümle:RG-19/2/2026-33173) Bu sınavlardan en az CC notu alan öğrenci başarılı kabul edilir.
+(4) İntibakı yapılan öğrencinin başladığı sınıftan önceki yılları, eğitim-öğretim süresine sayılır.
+(5) Dikey ve yatay geçişle gelen öğrenciler, bu maddenin birinci ve üçüncü fıkrası gereğince muaf sayıldığı derslerden not yükseltmek için yeniden ders almak istediği takdirde, söz konusu dersi ikinci kez alıyor kabul edilir ve en son aldığı not geçerli sayılır.

@@ -1,0 +1,23 @@
+Tanımlar
+MADDE 4 – (1) Bu Yönetmelikte geçen;
+a) Akademik danışman: Öğrencilerin eğitim-öğretim ve diğer sorunlarıyla ilgilenmek üzere ilgili bölüm/program başkanlığının önerisi üzerine dekan veya müdür tarafından görevlendirilen öğretim elemanını,
+b) AKTS (Avrupa Kredi Transfer Sistemi): Bir akademik yılın 60 AKTS kredisine, her yarıyılın da 30 AKTS kredisine veya bir akademik yılda üç yarıyıl eğitim görülmesi halinde bir yarıyılın 20 AKTS kredisine eşit olduğu ilkesiyle bir dersin başarı ile tamamlanabilmesi için öğrencilerin çalışmalarının tümünün değerlendirmeye alınarak, öğretim birimi kurulunca belirlenen ve Senato tarafından kabul edilen ölçü birimini,
+c) Bağıl değerlendirme: Öğrencinin yarıyıl içi değerlendirme notları ve/veya yarıyıl/yılsonu sınav notlarının ağırlıklarına göre belirlenen başarı not ortalamasının, o dersi alan tüm öğrencilerin başarı düzeylerinin yüzdelik sisteme göre belirlenmesini,
+ç) Bologna Eşgüdüm Komisyonu (BEK): Bologna çalışmalarının yeniden yapılandırılmasını ve sürdürülebilir gelişmelerini yönlendirmek üzere oluşturulan komisyonu,
+d) Ders kredisi: Bir yarıyıl içinde haftada bir saatlik teorik ders veya iki saatlik uygulama, laboratuvar, klinik, atölye ve benzeri çalışmayı ifade eden ölçü birimini,
+e) Ortak seçmeli dersler: Fakülte ve yüksekokullarda öğrenim gören öğrencilerin üçüncü, dördüncü, beşinci ve altıncı yarıyılda alması gereken OSD kodlu dersleri,
+f) Ortak zorunlu ders: 2547 sayılı Kanunun 5 inci maddesinin birinci fıkrasının (ı) bendinde belirtilen dersleri,
+g) Öğrenci: Fakülte, yüksekokul, meslek yüksekokuluna kayıtlı öğrenciyi,
+ğ) Öğretim birimi: Uşak Üniversitesine bağlı olarak eğitim-öğretim yapan fakülte, yüksekokul ve meslek yüksekokullarını,
+h) Öğretim birimi kurulu: Fakülte, yüksekokul ve meslek yüksekokulu kurulunu,
+ı) Öğretim birimi yönetimi: Fakültelerde dekanlık, yüksekokul ve meslek yüksekokullarında müdürlüğü,
+i) Öğretim birimi yönetim kurulu: Fakülte/yüksekokul/meslek yüksekokulu yönetim kurulunu,
+j) Ön şart: Bölüm/programda yer alan bir dersin seçilebilmesi için, önceden başarılması gereken dersleri veya sağlanmış olması gereken koşulları,
+k) Rektör: Uşak Üniversitesi Rektörünü,
+l) Rektörlük: Uşak Üniversitesi Rektörlüğünü,
+m) Seçmeli ders: Bölüm/programda yer alan veya başka bölüm/programlardan alınmasına izin verilen ve Senatoca belirlenen şartlarda öğrencinin ilgi alanı göz önünde bulundurularak seçilen danışmanca onaylanan dersleri,
+n) Senato: Uşak Üniversitesi Senatosunu,
+o) Uzaktan eğitim: Bilgi teknolojileri kullanılarak, öğrencinin derslere devamını gerektirmeyen öğretim şeklini,
+ö) Üniversite: Uşak Üniversitesini,
+p) Zorunlu ders: Bölüm/programda yer alan öğrencinin kayıt olup başarmak zorunda olduğu dersleri,
+ifade eder.

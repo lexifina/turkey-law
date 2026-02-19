@@ -1,0 +1,2 @@
+Başarı denetimi
+MADDE 22 – (1) Önlisans öğrencileri ikinci yarıyıl sonunda, lisans öğrencileri ise dördüncü yarıyıl ve üst yarıyılları sonunda 2.00 genel not ortalamasını tutturmak zorundadırlar. 2.00 genel not ortalamasını tutturamayan öğrenci üst yarıyıllardan ders alamaz. Bu durumda olan öğrenciler, öncelikle başarısız oldukları derslerle birlikte kendi istekleri ile danışmanlarının onayını da alarak başardıkları derslere de kayıt yaptırıp genel not ortalamalarını yükseltmek zorundadırlar.

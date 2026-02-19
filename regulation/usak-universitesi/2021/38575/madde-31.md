@@ -1,0 +1,3 @@
+Tebligat
+MADDE 31 – (1) Her türlü tebligat, öğrenci bilgi sistemine ve öğrenci bilgi sistemindeki iletişim bilgilerinden birisine (açık adres, Üniversite tarafından verilen elektronik posta adresi veya telefon) iletilmesi veya üniversite internet adresinden ilan edilmesi durumunda tamamlanmış sayılır.
+(2) Öğrenci bilgi sistemindeki iletişim bilgilerini değiştirdikleri hâlde bunu bağlı oldukları birimlere bildirmemiş veya güncellememiş olanlar veya yanlış ya da eksik bilgi vermiş olan öğrencilerin var olan iletişim bilgilerine bildirimin gönderilmesi durumunda kendilerine tebligat yapılmış sayılır.

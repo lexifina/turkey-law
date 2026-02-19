@@ -1,0 +1,3 @@
+Mezuniyet işlemleri
+MADDE 24 – (1) Kayıtlı oldukları birimin eğitim-öğretim programını başarıyla tamamlayan, başarısız dersi olmayan ve genel not ortalaması en az 2.00 olan lisans ve önlisans öğrencileri mezun olmaya hak kazanır. Öğrencinin durumu, danışmanı ve bölüm başkanı tarafından incelenerek birim yönetim kurulunca mezuniyet kararı alınır.
+(2) Öğrencilerin mezuniyet tarihleri; akademik takvimde belirtilen yarıyıl sonu, bütünleme sınavı sonu, tek ders sınavı sonu ve yaz öğretim notlarının birim yönetim kurullarınca kabulü ile staj kurulunun staj notu verilmesini takip eden ilk iş günü olarak belirlenir.

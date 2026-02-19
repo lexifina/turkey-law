@@ -1,0 +1,2 @@
+Ağırlıklı genel not ortalaması
+MADDE 21 – (1) Ağırlıklı genel not ortalaması (AGNO), her dersten alınan harf başarı notunun karşılığı olan değerin ilgili dersin AKTS kredisi ile çarpımından elde edilen değerlerin toplamının alınan derslerin AKTS kredilerinin toplamına bölünmesiyle elde edilir. Bu hesaplamalar sonucu ortaya çıkan değerler, virgülden sonra iki haneye yuvarlanır. Virgülden sonraki üçüncü hane, beşten küçükse sıfıra; beş veya büyükse, ikinci haneyi bir artıracak şekilde yuvarlanarak hesaplanır.
