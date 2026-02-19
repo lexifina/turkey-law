@@ -1,0 +1,25 @@
+{
+  "kind": "norm",
+  "issuer": "Enerji Piyasası Düzenleme Kurumu",
+  "market": "natural-gas",
+  "document_type": "board-decision",
+  "number": "14344",
+  "decision_date": "2026-02-19",
+  "title": "Boru Hatları ile Petrol Taşıma A.Ş.’nin (BOTAŞ) transit doğal gaz iletimi dâhil, 2026 Yılı Doğal Gaz İletim Şebekesi Yatırım Programının onaylanmasına ilişkin",
+  "resmi_gazete_date": "2026-02-21",
+  "resmi_gazete_number": "33175",
+  "categories": [
+    "Şirket Bazında Kararlar"
+  ],
+  "source": "https://www.epdk.gov.tr/Detay/DownloadDocument?id=Hk0J+/cJ9Xs=",
+  "documents": [
+    "https://www.epdk.gov.tr/Detay/DownloadDocument?id=Hk0J+/cJ9Xs="
+  ],
+  "source_sha256": "4cc90697667c7f6629f5aa32db8725d46a0abd7411316f0657fec342c082700f",
+  "official_list": "https://www.epdk.gov.tr/Detay/Icerik/3-0-19/kurul-kararlari",
+  "official_list_leaf": 7236,
+  "text_status": "as-enacted",
+  "text_file": "metin.md",
+  "in_force": "2026-02-19",
+  "law_text_complete": true
+}
