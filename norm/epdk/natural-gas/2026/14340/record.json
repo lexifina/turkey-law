@@ -1,0 +1,23 @@
+{
+  "kind": "norm",
+  "issuer": "Enerji Piyasası Düzenleme Kurumu",
+  "market": "natural-gas",
+  "document_type": "board-decision",
+  "number": "14340",
+  "decision_date": "2026-02-19",
+  "title": "Bahçeşehir Gaz Dağıtım Anonim Şirketi’nin dağıtım bölgesinde ön ödemeli sayaçların mekanik sayaçlar ile değişimine yönelik",
+  "categories": [
+    "Şirket Bazında Kararlar"
+  ],
+  "source": "https://www.epdk.gov.tr/Detay/DownloadDocument?id=0uJ/uxo+jZQ=",
+  "documents": [
+    "https://www.epdk.gov.tr/Detay/DownloadDocument?id=0uJ/uxo+jZQ="
+  ],
+  "source_sha256": "433fb28b4c209f53c6c9259dcd26f0e8192e989cc91d1b16249ac6c8ef516aff",
+  "official_list": "https://www.epdk.gov.tr/Detay/Icerik/3-0-19/kurul-kararlari",
+  "official_list_leaf": 7236,
+  "text_status": "metadata-only",
+  "metadata_only_reason": "no text layer (image-only PDF; no OCR)",
+  "in_force": "2026-02-19",
+  "law_text_complete": false
+}
