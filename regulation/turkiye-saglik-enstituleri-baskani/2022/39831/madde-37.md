@@ -1,0 +1,2 @@
+Özlük ve sicil dosyası
+MADDE 37- (1) Başkanlıkta göreve başlayan her personel için bir özlük ve sicil dosyası düzenlenir ve personele ait bilgi ve belgeler bu dosyada saklanır. Özlük ve sicil dosyasına, personelin mesleki bilgileri; varsa inceleme, soruşturma, değerlendirme ve denetim raporları, disiplin cezaları ile ödül ve başarı belgesi verilmesine ve diğer hususlara ilişkin bilgi ve belgeler konulur.

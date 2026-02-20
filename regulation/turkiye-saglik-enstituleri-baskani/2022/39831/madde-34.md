@@ -1,0 +1,2 @@
+Hizmet armağanı
+MADDE 34- (1) Görevden ayrılan yönetici personel ve Başkanlıkta en az on yıl, sürekli hizmet görmüş personele ya da aynı süre Başkanlıkta hizmet gördükten sonra vefat eden personelin varsa eşine veya en büyük çocuğuna Başkanlıkça belirlenecek tarihte yapılacak törenle bir defaya mahsus olmak üzere herhangi bir menfaat oluşturmayacak, maddi karşılığı olmayan sembolik nitelikli “Hizmet Armağanı” verilir.

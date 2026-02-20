@@ -1,0 +1,3 @@
+Mazeret izni
+MADDE 21- (1) Personele evlenmesi, ana veya babasının, eşinin, kardeşinin, çocuğunun ölümü hâlinde beş gün; eşinin doğum yapması hâlinde ise altı gün ücretli izin verilir.
+(2) Yönetici tarafından haklı görülen mazereti hâlinde personele bir yıl içinde toptan veya bölümler hâlinde, mazeretleri sebebiyle on gün izin verilebilir. Zaruret hâlinde aynı usulle on gün daha mazeret izni verilebilir. Bu takdirde, ikinci kez verilen bu izin, yıllık ücretli izinden düşülür. Mazeret izinleri sırasında fiili çalışmaya bağlı her türlü ödemeler hariç malî haklar ile sosyal yardımlara dokunulmaz.

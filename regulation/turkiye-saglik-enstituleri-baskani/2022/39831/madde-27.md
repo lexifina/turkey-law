@@ -1,0 +1,2 @@
+Fazla çalışma
+MADDE 27- (1) Başkanlık personeline gerektiğinde fazla çalışma ile fazla süreli çalışma yaptırılır ve bu çalışmalar karşılığı izin verilir veya Başkanlıkta kadrolu olarak çalışanlara 375 sayılı Kanun Hükmünde Kararnamenin ek 28 inci maddesinde belirtilen sınırlar içinde olmak kaydıyla; İş Kanunu hükümleri doğrultusunda aylık brüt ücretinin ilgili ay gününe/saatine bölünerek bulunacak günlük/saatlik ücret üzerinden ödeme yapılır.

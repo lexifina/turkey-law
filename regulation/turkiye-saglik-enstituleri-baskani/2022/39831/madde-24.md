@@ -1,0 +1,8 @@
+BEŞİNCİ BÖLÜM
+Performans Değerlendirmesi, Çalışma Süresi ve İlişik Kesme
+Performans değerlendirmesi
+MADDE 24- (1) A Hizmet Grubu ile iç denetçiler haricindeki personel için Başkanlıkça her bir meslek grubu özelinde belirlenecek performans değerlendirme ölçütleri çerçevesinde yüz puan üzerinden yıl sonu başarı değerlendirmesi, takip eden yılın başında yapılır ve sonucu personele bildirilir.
+(2) Yıl sonu performans başarı puanı yetmişin altında kalan personel yazılı olarak uyarılır. Performans değerlendirme ölçütleri çerçevesinde yapılacak değerlendirme neticesinde performans başarı puanı ortalaması iki yıl üst üste yetmişin altında olan personelin sözleşmesinin belirli süreli ise yenilenip yenilenmeyeceği ya da süresinden önce feshedilip edilmeyeceği; belirsiz süreli ise feshedilip edilmeyeceği hakkındaki nihai değerlendirme Başkan tarafından yapılır. Her durumda son beş yıl içinde üç defa başarı puanı yetmişin altında olan personelin iş sözleşmesi sözleşme süresine bakılmaksızın Başkan tarafından feshedilebilir.
+(3) Performans değerlendirmesi personelin A Hizmet Grubundaki birinci ve ikinci derecedeki amiri tarafından yapılır. Bu değerlendirmeler sonucu başarı notları arasındaki farkın otuzun üzerinde olması ve bu değerlendirmelerin ortalamasının yetmişin altında kalması durumunda personelin sözleşmesi hakkında nihai değerlendirme Başkan tarafından yapılır.
+(4) Deneme süresine tabi personelin performans değerlendirmesi deneme süresi bitmeden yapılır.
+(5) Kasten gerçeğe aykırı değerlendirme yapan değerlendiricilerin cezai ve disiplin sorumluluklarına ilişkin hükümler saklıdır.

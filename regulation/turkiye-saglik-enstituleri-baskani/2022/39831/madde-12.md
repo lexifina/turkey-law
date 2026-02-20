@@ -1,0 +1,6 @@
+Değerlendirme
+MADDE 12- (1) Giriş sınavına çağrılacak aday sayısı, alım yapılacak her bir kadro unvanı için ayrı ayrı olmak üzere ilan edilen kadro sayısının yirmi katından, yalnızca sözlü sınav yapılması hâlinde aday sayısı her bir kadro unvanı için ayrı ayrı olmak üzere ilan edilen kadro sayısının dört katından fazla olamaz.
+(2) Merkezi sınav puanı en yüksek olan adaydan başlamak üzere, sınav ilanında belirtilen taban puan esas alınarak yapılan sıralama sonucunda son sıradaki aday ile eşit puana sahip diğer adaylar da giriş sınavına çağrılır.
+(3) Ar-Ge uzmanı kadrosuna başvuran adaylar, bu kadro için aranılan şartlar dikkate alınarak sınav ilanında belirtilen puanlandırma yöntemine göre bir sıralamaya tabi tutulur. Yapılan sıralama sonucunda son sıradaki aday ile eşit puana sahip diğer adaylar da giriş sınavına çağrılır.
+(4) Başvurular, sınav kurulunca değerlendirildikten sonra sınava katılabileceklerin isimleri Başkanlığın resmî internet sitesinde ilân edilir.
+(5) İsimleri ilân olunan adaylardan, gerçeğe aykırı bilgi verdiği veya belge sunduğu tespit edilenler giriş sınavına alınmaz. Sınava girmiş olanların sınavları geçersiz sayılır. Sözleşme yapılmış olsa dahi sözleşmeleri feshedilir. Bu kişiler, hiçbir hak talep edemezler ve haklarında Cumhuriyet başsavcılığına suç duyurusunda bulunulur.

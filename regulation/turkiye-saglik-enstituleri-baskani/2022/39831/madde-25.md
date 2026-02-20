@@ -1,0 +1,2 @@
+Tarafsızlık beyanı
+MADDE 25- (1) Değerlendiriciler, değerlendirme formunu doldurmadan önce “Değerlendirici sıfatıyla değerlendirmesini yapacağım personel hakkında gizlilik, tarafsızlık, eşitlik ve objektiflik ilkeleriyle hareket edeceğimi, bu ilkelere ve etik kurallara riayet edeceğimi ve Türkiye Sağlık Enstitüleri Başkanlığı İnsan Kaynakları Yönetmeliğinde belirtilen genel esaslara uygun değerlendirme yapacağımı beyan ve taahhüt ederim.” şeklindeki tarafsızlık beyanını onayladıktan sonra değerlendirmesini yapar.
