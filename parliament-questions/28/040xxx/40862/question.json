@@ -1,0 +1,21 @@
+{
+  "record_type": "parliament-written-question",
+  "term": 28,
+  "legislative_year": 4,
+  "esas_no": "7/40862",
+  "submitted": "2026-02-20",
+  "submitted_as": "Başkanlığa geliş tarihi",
+  "mp": "Deniz YAVUZYILMAZ",
+  "province": "Zonguldak",
+  "summary": "Türkiye Varlık Fonunun yönetimine ve denetlenmesine ilişkin",
+  "status": "Süresi Geçtikten Sonra Cevaplandı",
+  "status_as_of": "2026-11-16",
+  "official_record": "https://www.tbmm.gov.tr/Denetim/Yazili-Soru-Onergesi-Detay/ca29e4f4-f939-4146-9bab-019c8a64a519",
+  "source": "https://tbmm.gov.tr/Denetim/YaziliSoruOnergesiTable",
+  "source_form": "https://tbmm.gov.tr/Denetim/Yazili-Soru-Onergeleri",
+  "source_sha256": "054cecf4056884ea5befaea7a04f987dc47801de3a4918c987a344c150fd60e7",
+  "in_force": "2026-02-20",
+  "in_force_basis": "Date the question reached the Speaker (Başkanlığa geliş tarihi) in the official TBMM written-question record; parliamentary oversight record, not law",
+  "history_type": "metadata",
+  "text_status": "metadata-only: question text, addressee and answers are in the linked official record (PDFs on cdn.tbmm.gov.tr); not transcribed here"
+}
