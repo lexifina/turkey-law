@@ -1,0 +1,21 @@
+{
+  "record_type": "parliament-written-question",
+  "term": 28,
+  "legislative_year": 4,
+  "esas_no": "7/40867",
+  "submitted": "2026-02-20",
+  "submitted_as": "Başkanlığa geliş tarihi",
+  "mp": "Nermin YILDIRIM KARA",
+  "province": "Hatay",
+  "summary": "6 Şubat 2023 tarihli depremleri konu alan davalara ilişkin",
+  "status": "Cevaplanmadığı Gelen Kağıtlarda İlan Edildi",
+  "status_as_of": "2026-11-16",
+  "official_record": "https://www.tbmm.gov.tr/Denetim/Yazili-Soru-Onergesi-Detay/8f9933e5-2e55-4eb4-b6c4-019c89f30c13",
+  "source": "https://tbmm.gov.tr/Denetim/YaziliSoruOnergesiTable",
+  "source_form": "https://tbmm.gov.tr/Denetim/Yazili-Soru-Onergeleri",
+  "source_sha256": "054cecf4056884ea5befaea7a04f987dc47801de3a4918c987a344c150fd60e7",
+  "in_force": "2026-02-20",
+  "in_force_basis": "Date the question reached the Speaker (Başkanlığa geliş tarihi) in the official TBMM written-question record; parliamentary oversight record, not law",
+  "history_type": "metadata",
+  "text_status": "metadata-only: question text, addressee and answers are in the linked official record (PDFs on cdn.tbmm.gov.tr); not transcribed here"
+}
