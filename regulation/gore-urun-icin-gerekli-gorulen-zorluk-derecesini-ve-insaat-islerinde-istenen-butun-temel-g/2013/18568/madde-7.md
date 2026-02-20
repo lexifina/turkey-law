@@ -1,0 +1,6 @@
+Performans beyanının düzenlenmesine ilişkin istisnalar
+MADDE 7 – (1) Yapı malzemelerinin kullanım amacına göre temel karakteristiklerinin beyan edilmesini gerekli kılan Avrupa Birliği veya ulusal hükümlerin mevcut olmaması hâlinde ve 6 ncı maddenin birinci fıkrasına istisna olarak, imalâtçı, uyumlaştırılmış bir standart kapsamındaki bir yapı malzemesini piyasaya arz ederken;
+a) Yapı malzemesi, belirli bir yapı işine has ve münferit olarak veya seri üretime tabi olmadan sipariş üzerine üretilerek, ürünün yapı işlerinde güvenli olarak monte edilmesinden sorumlu olan imalâtçı tarafından ve yürürlükteki mevzuat çerçevesinde belirlenmiş yapı sorumlularının mesuliyeti altında belirli bir yapı işi için monte edildiğinde,
+b) Yapı malzemesi, yürürlükteki mevzuata uygun olarak, yapı sorumlularının mesuliyeti altında ilgili yapı işlerinde kullanılmak üzere şantiye mahallinde imal edildiğinde,
+c) Yapı malzemesi, 21/7/1983 tarihli ve 2863 sayılı Kültür ve Tabiat Varlıklarını Koruma Kanunu kapsamında tespit ve tescil edilen ve söz konusu Kanuna uygun olarak kültürel mirasın korunmasına uygun biçimde ve belirli bir çevrenin parçası olarak veya özel mimarî ve tarihî değeri sebebiyle resmî olarak korunan yapı işlerinin yenilenmesi için endüstriyel olmayan süreçte imal edildiğinde,
+performans beyanı düzenlemeyebilir.

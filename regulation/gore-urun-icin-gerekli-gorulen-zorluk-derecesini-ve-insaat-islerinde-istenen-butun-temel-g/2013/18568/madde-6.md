@@ -1,0 +1,4 @@
+Performans beyanı
+MADDE 6 – (1) Yapı malzemesi uyumlaştırılmış bir standart kapsamındaysa veya hakkında hazırlanmış bir Avrupa Teknik Değerlendirmesi varsa, imalâtçı bu malzemeyi piyasaya arz ederken performans beyanı düzenler.
+(2) Yapı malzemesi uyumlaştırılmış bir standart kapsamındaysa veya hakkında hazırlanmış bir Avrupa Teknik Değerlendirmesi varsa, 7 nci maddede belirtilen istisnalar dışında, uyumlaştırılmış teknik şartnamesinde tanımlanan temel karakteristiklerle ilgili performansa ilişkin bilgiler, sadece performans beyanında yer alıyorsa ve beyana dâhil edilmişse verilir.
+(3) İmalâtçı, imal ettiği yapı malzemesinin beyan edilen performansa uygun olduğuna ilişkin sorumluluğu, performans beyanı düzenleyerek üstlenir. Aksi yönde bilgi ve belgeler bulunmadığı müddetçe, imalâtçı tarafından düzenlenen performans beyanının doğru ve güvenilir olduğu kabul edilir.

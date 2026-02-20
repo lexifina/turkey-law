@@ -1,0 +1,2 @@
+Görevlendirmeden sorumlu mercii
+MADDE 38 – (1) Bakanlık, bu Yönetmeliğin amacına uygun olarak; onaylanmış kuruluşların değerlendirilmesi için gerekli usulün belirlenmesi ve yürütülmesinden, uygun görülen kuruluşların görevlendirilmesinden, görevlendirilen kuruluşların Komisyon’a bildiriminden, onaylanmış kuruluşların 41 inci maddeye uygunlukları da dâhil olmak üzere denetiminden ve konuyla ilgili düzenlemelerin yapılmasından sorumludur.

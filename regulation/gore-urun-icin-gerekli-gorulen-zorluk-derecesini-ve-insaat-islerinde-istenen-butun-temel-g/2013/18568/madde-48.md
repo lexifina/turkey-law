@@ -1,0 +1,5 @@
+Onaylanmış kuruluşların yeterliliğinin incelenmesi
+MADDE 48 – (1) Bakanlık, görevlendirdiği onaylanmış kuruluşların gerekli koşulları karşılamaya devam edip etmediğini, sorumluluklarını yerine getirip getirmediğini ve faaliyetlerini bu Yönetmeliğe uygun sürdürüp sürdürmediğini izler ve denetler.
+(2) Bakanlık, talep edildiğinde, görevlendirdiği bir onaylanmış kuruluşun bildirimine esas olan veya yeterliliğinin idamesine ilişkin tüm bilgileri, Komisyona iletir.
+(3) Bakanlık, inceleme sürecinde elde edilen önemli bilgilerin gizlilik içerisinde işleme konulmasını temin eder.
+(4) Komisyon veya Avrupa Birliği üye ülkelerinden birinin Bakanlığın görevlendirdiği bir onaylanmış kuruluşun teknik yeterliliğinin ve ilgili mevzuata uygunluğunun incelenmesini talep etmesi halinde, 1/2006 sayılı Türkiye – Avrupa Birliği Ortaklık Konseyi Kararının 4 üncü maddesinde belirtilen usul takip edilir. Bakanlık, gerekli bilgi ve belgeleri (Değişik ibare:RG-29/4/2022-31824) Ticaret Bakanlığına iletir, ilgili taraflarla gerekli işbirliğini tesis eder ve gerekli tedbirleri alır.

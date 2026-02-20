@@ -1,0 +1,63 @@
+{
+  "source_id": "7.5.18568",
+  "kind": "regulation",
+  "register_kind": "Kurum ve Kuruluş Yönetmelikleri",
+  "title": "YAPI MALZEMELERİ YÖNETMELİĞİ (305/2011/AB)",
+  "number": "18568",
+  "issuer": "göre ürün için gerekli görülen zorluk derecesini ve inşaat işlerinde istenen bütün temel gereklerin yerine getirilmesinde ürünün oynadığı rolü dikkate alarak",
+  "issuer_slug": "gore-urun-icin-gerekli-gorulen-zorluk-derecesini-ve-insaat-islerinde-istenen-butun-temel-g",
+  "path": "regulation/gore-urun-icin-gerekli-gorulen-zorluk-derecesini-ve-insaat-islerinde-istenen-butun-temel-g/2013/18568",
+  "source": "https://www.mevzuat.gov.tr/anasayfa/MevzuatFihristDetayIframe?MevzuatTur=7&MevzuatNo=18568&MevzuatTertip=5",
+  "source_sha256": "7a006d3d6bc85f65b4b7f9e3bf0d6ebc647b7d54c353c832e6882e9d3b400dbf",
+  "source_bytes": 224376,
+  "published": "2013-07-10",
+  "gazette": "28703",
+  "in_force": "2026-02-20",
+  "in_force_basis": "latest Resmî Gazete date printed in the source amendment notes/table (\"RG-20/2/2026\") for the current consolidated text",
+  "date_evidence": [
+    [
+      "2026-02-20",
+      "RG-20/2/2026",
+      "Resmî Gazete date printed in the source amendment note"
+    ],
+    [
+      "2026-02-20",
+      "20/2/2026",
+      "Resmî Gazete date in the source amendment table"
+    ],
+    [
+      "2022-04-29",
+      "RG-29/4/2022",
+      "Resmî Gazete date printed in the source amendment note"
+    ],
+    [
+      "2022-04-29",
+      "29/4/2022",
+      "Resmî Gazete date in the source amendment table"
+    ],
+    [
+      "2014-10-02",
+      "RG-2/10/2014",
+      "Resmî Gazete date printed in the source amendment note"
+    ],
+    [
+      "2014-10-02",
+      "2/10/2014",
+      "Resmî Gazete date in the source amendment table"
+    ]
+  ],
+  "commencement_clauses": [
+    "Bu Yönetmelik 1/7/2013 tarihinden itibaren geçerli olmak üzere, yayımı tarihinde yürürlüğe girer"
+  ],
+  "history": "current-text",
+  "label": "oldest version available",
+  "checked_on": "2026-11-15",
+  "word_count": 11817,
+  "text_status": "current-consolidated",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  },
+  "completeness": "html-text-complete"
+}

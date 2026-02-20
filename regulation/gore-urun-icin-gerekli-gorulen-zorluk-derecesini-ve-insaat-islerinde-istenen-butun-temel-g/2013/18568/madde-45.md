@@ -1,0 +1,3 @@
+Bildirim başvurusu
+MADDE 45 – (1) Performansın değişmezliğinin değerlendirilmesi ve doğrulanması sürecini yürütmek üzere onaylanmış kuruluş olarak görevlendirilmek isteyen Türkiye’deki yerleşik kuruluş, bildirim için Bakanlığa başvuruda bulunur.
+(2) (Değişik:RG-29/4/2022-31824) Başvuruyla birlikte yürütülecek faaliyetlerin tanımı, kuruluşun yetkili olmayı talep ettiği değerlendirme ve/veya doğrulama yöntemleri ve 26/5/2021 tarihli ve 4022 sayılı Cumhurbaşkanı Kararı ile yürürlüğe konulan Uygunluk Değerlendirme Kuruluşları ve Onaylanmış Kuruluşlar Yönetmeliğinin 5 inci maddesinin onuncu ve on ikinci fıkraları çerçevesinde düzenlenen akreditasyon belgesi Bakanlığa teslim edilir.

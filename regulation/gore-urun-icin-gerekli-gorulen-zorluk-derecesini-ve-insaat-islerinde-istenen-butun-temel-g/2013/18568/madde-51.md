@@ -1,0 +1,2 @@
+Onaylanmış kuruluşların koordinasyonu
+MADDE 51 – (1) Bu Yönetmelik kapsamında Bakanlıkça görevlendirilmiş ve onaylanmış kuruluşlar, kendi aralarında gerekli koordinasyon ve işbirliğini sağlamak üzere bir yapılanma oluşturabilirler. Onaylanmış kuruluşlar; Komisyonca oluşturulmuş onaylanmış kuruluşlar grubunun çalışmalarına doğrudan veya yetkili bir temsilcileri vasıtasıyla katılım sağlar ve bu katılım ile ilgili tüm giderleri karşılar. Bu kapsamda yapılan çalışma ve faaliyetlere ilişkin olarak Bakanlığı bilgilendirir.

@@ -1,0 +1,5 @@
+Bildirim usulü ve onaylanmış kuruluş kimlik numarası
+MADDE 46 – (1) Bakanlık, sadece 41 inci maddede sayılan vasıfları haiz kuruluşların bildirimini Komisyona yapar.
+(2) Bildirim, yürütülecek faaliyetlerin her türlü detayını, ilgili uyumlaştırılmış teknik şartname referansını ve Ek-5’te ortaya konan sistem ile ilgili olarak kuruluşun yetkili olduğu temel karakteristikleri ihtiva eder. Ancak, Ek-5’in 3 üncü maddesinde belirtilen durumlarda, uyumlaştırılmış teknik şartname referansına gerek yoktur.
+(3) (Değişik:RG-29/4/2022-31824) Bildirimi yapılan uygunluk değerlendirme kuruluşuna Komisyon tarafından kimlik kayıt numarası tahsis edilir. Kuruluş, kimlik numarası ve başvuru kapsamının Avrupa Birliği’nin Yeni Yaklaşım Onaylanmış ve Atanmış Organizasyonlar Bilgi Sisteminde yayımlanması ile onaylanmış kuruluş statüsü kazanır. Onaylanmış kuruluş birden fazla mevzuat kapsamında bildirilse dahi kuruluş tek bir kimlik numarası alır.
+(4) Bildirim ile ilgili olarak sonradan meydana gelecek her türlü değişiklik Bakanlıkça Komisyona ve Avrupa Birliği üyesi ülkelere bildirilir.

@@ -1,0 +1,5 @@
+Geçici hükümler
+GEÇİCİ MADDE 1 – (1) 1/7/2013 tarihinden önce Yapı Malzemeleri Yönetmeliği (89/106/EEC)’ne veya Yapı Malzemeleri Direktifi (89/106/EEC)’ne uygun olarak piyasaya arz edilmiş yapı malzemeleri bu Yönetmeliğe uygun kabul edilir.
+(2) İmalâtçılar, 1/7/2013 tarihinden önce Yapı Malzemeleri Yönetmeliği (89/106/EEC)’ne veya Yapı Malzemeleri Direktifi (89/106/EEC)’ne uygun biçimde düzenlenen uygunluk belgesi veya uygunluk beyanını esas alarak performans beyanı düzenleyebilir.
+(3) 1/7/2013 tarihinden önce Yapı Malzemeleri Yönetmeliği (89/106/EEC)’ne veya Yapı Malzemeleri Direktifi (89/106/EEC)’ne uygun biçimde yayımlanmış bulunan Avrupa Teknik Onayı Ortak Esasları, Avrupa Değerlendirme Esası olarak kullanılabilir.
+(4) İmalâtçılar ve ithalâtçılar 1/7/2013 tarihinden önce Yapı Malzemeleri Yönetmeliği (89/106/EEC) veya Yapı Malzemeleri Direktifi (89/106/EEC) çerçevesinde hazırlanan Avrupa Teknik Onaylarını, onayların geçerlilik süresi boyunca Avrupa Teknik Değerlendirmesi olarak kullanabilirler.

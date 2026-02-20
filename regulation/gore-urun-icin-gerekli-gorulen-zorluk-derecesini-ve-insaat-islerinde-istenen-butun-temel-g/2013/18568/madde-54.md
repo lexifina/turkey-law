@@ -1,0 +1,2 @@
+Korunma usulü
+MADDE 54 – (1) 53 üncü maddenin üçüncü ve dördüncü fıkralarında belirtilen işlemler sonrasında Avrupa Birliği pazarında başlatılan bir tedbire karşı herhangi bir itiraz olursa ve Komisyon tarafından söz konusu tedbirin haklı bir gerekçeye dayandığına hükmedilirse, Bakanlık uygunsuz ürünün piyasadan çekilmesi için gerekli tedbirleri alır ve Komisyonu konuyla ilgili bilgilendirir. Komisyon tarafından söz konusu tedbirin haklı bir gerekçeye dayanmadığına hükmedilirse, Bakanlık tedbiri yürürlükten kaldırır.

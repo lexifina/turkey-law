@@ -1,0 +1,2 @@
+Kapsam
+MADDE 2 – (1) Bu Yönetmelik; yapı işlerine ilişkin olarak Ek-1’de belirtilen temel gerekler açısından yapı malzemelerine uygulanacak kuralları, performans beyanını, CE işaretlemesini, iktisadi işletmelerin yükümlülüklerini, uyumlaştırılmış teknik şartnamelere ilişkin kuralları, onaylanmış kuruluşların ve teknik değerlendirme kuruluşlarının görevlendirilmesini, denetlenmesi ve değerlendirilmesini, bildirim merciini, onaylanmış kuruluşlar ile ilgili düzenlemeleri, piyasa gözetimi ve denetimine dair usul ve esasları kapsar.

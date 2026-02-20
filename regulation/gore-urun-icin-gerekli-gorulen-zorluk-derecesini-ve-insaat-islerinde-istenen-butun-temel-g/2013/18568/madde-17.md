@@ -1,0 +1,2 @@
+İthalâtçı ve dağıtıcıya, imalâtçının yükümlülüklerinin uygulandığı durumlar
+MADDE 17 – (1) İthalâtçı veya dağıtıcı, herhangi bir yapı malzemesini piyasaya kendi ismi veya ticarî markası ile arz ettiğinde veya piyasaya hâlihazırda arz edilmiş bir yapı malzemesinin performans beyanına uygunluğunu etkileyecek olan bir değişiklik yaptığında, bu Yönetmelik kapsamında imalâtçı olarak değerlendirilir ve 13 üncü maddede belirtilen yükümlülüklere tabi olur.
