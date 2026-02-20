@@ -1,0 +1,9 @@
+MADDE 10- (1) (Değişik ibare:RG-20/2/2026-33174) Uluslararası İlişkiler Daire Başkanlığının görevleri şunlardır:
+a) Başkanlığın tüm birimleri ile yabancı ülkeler ve/veya uluslararası kuruluşlar arasındaki çalışmaları takip ve koordine etmek.
+b) Enstitüler dâhil, Başkanlık faaliyet alanlarına giren konularda Başkanlığın yurt dışında ve yurt içinde katılacağı ve/veya düzenleyeceği (Mülga ibare:RG-20/2/2026-33174) uluslararası etkinlik ve/veya uluslararası katılımlı etkinlikleri koordine etmek, gerekli görülen etkinliklere Başkanlığı temsilen katılım sağlamak.
+c) Başkanlık personelinin görev amaçlı yurt dışı ziyaretleri veya yabancı teknik heyetlerin ve uluslararası kuruluş temsilcilerinin Başkanlığı ziyaretlerine yönelik çalışmaların ilgili taraflar ve Başkanlık birimleri ile koordineli olarak gerçekleştirilmesini sağlamak.
+ç) Yabancı ülkeler ve/veya uluslararası kuruluşların sağladığı hibe/fon kaynaklarını takip etmek ve diğer birimlerden talep olması halinde ihtiyaç duyulan konularda eğitimler organize etmek, fon kaynaklarına başvuru, yürütme ve sonuçlandırma işlemlerinde koordinasyonu sağlamak.
+d) 8/4/1929 tarihli ve 1416 sayılı Ecnebi Memleketlere Gönderilecek Talebe Hakkında Kanun uyarınca Başkanlık adına yurtdışına gönderilenlerin işlemlerini yürütmek.
+e) Yabancı ülkelerle ve/veya uluslararası kuruluşlarla iş birliğinin hukuki zeminini oluşturan ve esas ve usullerini belirleyen ikili ve çok taraflı anlaşma, protokol, sözleşme ve diğer hukuki belgelerin Sağlık Bakanlığı ile koordineli olarak hazırlanması, müzakere edilmesi, imzalanması ve uygulanması hususlarında Sağlık Bakanlığı ile Başkanlık ve/veya ilgili kamu kurumları arasında iç koordinasyonu sağlamak, bilgi toplamak ve paylaşmak.
+f) (Ek:RG-20/2/2026-33174)[1] TÜSEB’in görevleri kapsamındaki uluslararası eğitim ve gelişim programları ile kapasite geliştirici ve tecrübe paylaşımını yaygınlaştırıcı iş birliklerini düzenlemek.
+g) Başkan tarafından verilen diğer görevleri yapmak.
