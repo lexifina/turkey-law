@@ -1,0 +1,5 @@
+Teknik uzman havuzunun oluşturulması
+MADDE 7- (1) Kurum ile vekâlet veya istisna sözleşmesi imzalayan kişilere ilişkin bilgiler ve bu kişiler tarafından başvuru sırasında sunulan belgeler elektronik veri tabanına kaydedilerek teknik uzman havuzu oluşturulur. Söz konusu kişiler anılan veri tabanına kullanıcı olarak kaydedilir.
+(2) Başvuruların alınması, değerlendirilmesi, mülakat komisyonunun oluşturulması ve mülakatların gerçekleştirilmesi, teknik uzman havuzunun oluşturulması ve kişilerin havuza dahil edilmesi ile görevlendirmesine ilişkin hususlar Bakanlığın görüşü alınarak Kurum tarafından çıkarılacak usul ve esaslar ile düzenlenir.
+(3) Teknik uzman havuzuna dahil edilen kişiler 13/4/2005 tarihli ve 25785 sayılı Resmî Gazete’de yayımlanan Kamu Görevlileri Etik Davranış İlkeleri ile Başvuru Usul ve Esasları Hakkında Yönetmelik hükümlerinde belirlenen etik davranış ilkelerine uygun davranacağını taahhüt eder.
+(4) Bir teknik uzmanın görevlendirme süresi bir takvim yılı içerisinde 60 günü geçemez.
