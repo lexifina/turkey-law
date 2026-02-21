@@ -1,0 +1,5 @@
+YEDİNCİ BÖLÜM
+Çeşitli ve Son Hükümler
+Önlemlerin maliyetinin karşılanması
+MADDE 26- (1) Restorasyon maliyetleri de dâhil olmak üzere, istilacı yabancı türlerin biyolojik çeşitlilik, ekonomi ve insan sağlığı üzerindeki olumsuz etkilerini önlemek, asgari düzeye indirmek ya da azaltmak için gerekli önlemlerin maliyetlerinin karşılanması ve oluşan maliyetlerin 2872 sayılı Kanunun 3 üncü maddesinin birinci fıkrasının (g) bendi kapsamında istilacı yabancı türlerin kasıtlı olarak girişine ve yayılmasına sebep olanlara rücu edilmesi esastır.
+(2) Birinci fıkradaki önlemlerin istilacı yabancı türlerin kasıtlı olarak girişine ve yayılmasına sebep olanlar tarafından alınmaması veya bu önlemlerin yetkili makamlarca doğrudan alınması nedeniyle kamu kurum ve kuruluşlarınca yapılan harcamalar, 2872 sayılı Kanunun 3 üncü maddesinin birinci fıkrasının (g) bendi kapsamında 21/7/1953 tarihli ve 6183 sayılı Amme Alacaklarının Tahsil Usulü Hakkında Kanun hükümlerine göre istilacı yabancı türlerin girişine ve yayılmasına sebep olandan tahsil edilir.
