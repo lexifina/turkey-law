@@ -1,0 +1,2 @@
+Eğitim planı
+MADDE 47 – (1) Hizmet içi eğitimden beklenen amaçların gerçekleştirilmesi için izlenecek yolları gösteren eğitim politikasına ilişkin düzenlemeler, Destek Hizmetleri Daire Başkanlığının teklifi üzerine Başkan tarafından tespit edilir. Belirlenen politika çerçevesinde, diğer birimlerin görüşleri ile mevcut verilere göre belirlenecek ihtiyaçlar ve olanaklar göz önünde bulundurulmak suretiyle uzun vadeli eğitim planları yapılır.

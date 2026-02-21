@@ -1,0 +1,2 @@
+Naklen atama
+GEÇİCİ MADDE 1 – (1) Fonun hizmet ihtiyacı çerçevesinde, diğer kamu kurumlarından mesleğe yarışma ve yeterlik sınavıyla girilen kariyer meslek kadrolarında yer alan personelden, durumlarına uygun meslek personeli kadrolarına, kadro derecesi dikkate alınmak suretiyle atama yapılabilir. Ancak bu şekilde atanacak personel sayısı, mesleğe yarışma ve yeterlik sınavıyla atanması gereken meslek personeli kadro sayısının % 15 ini geçemez.

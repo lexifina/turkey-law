@@ -1,0 +1,7 @@
+Yeterlik sınav sonucunun değerlendirilmesi ve atama
+MADDE 26/G- (Ek:RG-21/2/2026-33175)
+(1) Yazılı ve sözlü sınav notlarının aritmetik ortalaması yeterlik sınavı başarı notu olup 100 tam puan üzerinden en az 70 puan ve üzerinde alanlar başarılı sayılır. Yeterlik sınav komisyonu başarılı ve başarısız olanların listesini sözlü sınavın bittiği tarihi takip eden beş iş günü içerisinde Denetim Daire Başkanlığına teslim eder. Denetim Daire Başkanlığı tarafından Destek Hizmetleri Daire Başkanlığına gerekli bildirim yapılır.
+(2) Yeterlik sınavında başarılı olanların ataması başarı sırasına göre yapılır.
+(3) Yeterlik sınavında başarılı bulunan ve yeterlik sınavı tarihinden itibaren en geç iki yıl içinde Yabancı Dil Bilgisi Seviye Tespit Sınavından (YDS/e-YDS) en az (C) düzeyinde veya buna denk kabul edilen uluslararası geçerliliği bulunan yabancı dil puanına ilişkin belgeyi ibraz edenler Fon denetçisi kadrolarına atanır.
+(4) Ataması yapılanlara 5411 sayılı Kanunun 121 inci maddesi uyarınca bir defaya mahsus olmak üzere bir derece yükseltilmesi uygulanır.
+(5) Fon denetçi yardımcıları yeterlik sınavının sonucu ilgililere tebliğ edilir. Tebliğden itibaren yedi iş günü içinde sınav sonuçlarına itiraz edilebilir. İtirazlar bu sürenin bitiminden itibaren sınav komisyonları tarafından en fazla on iş günü içinde incelenerek karara bağlanır ve ilgilisine bildirilir. İtirazlar hakkında verilen kararlar kesindir. Süresi içinde yapılmayan itirazlar dikkate alınmaz.

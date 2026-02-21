@@ -1,0 +1,3 @@
+Fon Avukatlığına Giriş Sınavı ilanı
+MADDE 29- (Başlığı ile Birlikte Değişik:RG-21/2/2026-33175)
+(1) Fon Avukatlığına Giriş Sınavına ilişkin olarak adaylarda aranacak genel ve özel şartlar, sınav yeri ve zamanı, sınav konuları ve alan bilgileri, sınav konularına uygulanacak ağırlık oranları, başvuru evrakının temin edileceği yer, başvuru yeri, ilk ve son başvuru tarihleri, atama yapılacak kadroların sayı, sınıf, unvan ve dereceleri, sınava girebilmek için gereken asgari KPSS puanı, başvuru esnasında istenecek belgeler ve gerekli görülen diğer bilgileri içeren ilan metni sınav tarihinden en az bir ay önce Resmî Gazete’de, Cumhurbaşkanınca belirlenen kurumun internet sitesinde ve Fonun internet sitesinde ilan edilir.

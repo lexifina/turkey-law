@@ -1,0 +1,5 @@
+Giriş sınavına katılma şartları
+MADDE 15 – (1) Giriş sınavına katılabilmek için, bu Yönetmeliğin 7 nci maddesinde yer alan genel şartlara ilave olarak aşağıdaki şartlar aranır.
+a) (Değişik:RG-9/11/2022-32008) Üniversitelerin en az dört yıl süreli eğitim veren siyasal bilgiler, hukuk, iktisadi ve idari bilimler, iktisat ve işletme, bankacılık, bankacılık ve finans fakülteleri ve yüksekokulları ile mühendislik ve fen edebiyat fakültelerinin bilgisayar, yazılım, bilgisayar ve yazılım, endüstri, elektrik, elektronik, elektrik ve elektronik, elektronik ve haberleşme, mekatronik, bilgisayar sistemleri ve teknolojileri, bilgisayar sistemleri ve ağları, istatistik, matematik ve ekonometri bölümlerinden ya da bunlara denkliği Yükseköğretim Kurulu tarafından onaylanmış yurt içindeki veya yurt dışındaki yükseköğretim kurumlarından mezun olmak.
+b) Sınavın yapıldığı yılın Ocak ayının ilk günü itibariyle 35 yaşını doldurmamış olmak.
+c) ÖSYM tarafından yapılan KPSS ye girmiş ve Kurumca ilan edilecek asgari puanı almış olmak.

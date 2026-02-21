@@ -1,0 +1,5 @@
+Sözlü sınav
+MADDE 24/B- (Ek:RG-21/2/2026-33175)
+(1) Fon uzman yardımcıları yazılı sınav sonuçlarının açıklanmasını müteakip bir ay içinde, 24/A maddesinde yer alan konular ile Kurumun görev alanına giren konularda sözlü sınava tabi tutulur. Yazılı sınavda başarısız olanlar sözlü sınava katılamazlar. Sözlü sınavda yazılı sınav konularına ilişkin bilgi düzeyi ile birlikte Fon uzman yardımcılarının uzmanlık yeterliğini taşıyıp taşımadıkları, muhakeme, kavrayış, ikna, ifade ve temsil kabiliyetleri ölçülür.
+(2) Sözlü sınava ilişkin değerlendirme yeterlik sınav komisyonu üyelerince 100 tam puan üzerinden verilen notların aritmetik ortalaması alınarak yapılır ve bir tutanakla tespit edilir. Sözlü sınavda başarılı sayılabilmek için bu puanın en az 70 olması şarttır.
+(3) Belge ile ispatı mümkün geçerli bir mazereti olmaksızın sözlü sınava girmeyenler yeterlik sınavında başarısız olmuş sayılır. Mazereti kabul edilenler mazeret bitiminden itibaren en az bir ay sonra tekrar sınava çağrılır. Sınava mazeretli olarak katılmama hakkı sadece bir kez kullanılabilir.

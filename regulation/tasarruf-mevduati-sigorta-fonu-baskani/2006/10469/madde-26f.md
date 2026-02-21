@@ -1,0 +1,5 @@
+Sözlü sınav
+MADDE 26/F- (Ek:RG-21/2/2026-33175)
+(1) Fon denetçi yardımcıları yazılı sınav sonuçlarının açıklanmasını müteakip bir ay içinde, 26/E maddesinde yer alan konular ile Kurumun görev alanına giren konularda sözlü sınava tabi tutulur. Yazılı sınavda başarısız olanlar sözlü sınava katılamazlar. Sözlü sınavda genel konular ile birlikte Fon denetçi yardımcılarının denetçilik yeterliğini taşıyıp taşımadıkları, muhakeme, kavrayış, ikna, ifade ve temsil kabiliyetleri ölçülür.
+(2) Sözlü sınava ilişkin değerlendirme yeterlik sınav komisyonu üyelerince 100 tam puan üzerinden verilen notların aritmetik ortalaması alınarak yapılır ve bir tutanakla tespit edilir. Sözlü sınavda başarılı sayılabilmek için bu puanın en az 70 olması şarttır.
+(3) Belge ile ispatı mümkün geçerli bir mazereti olmaksızın sözlü sınava girmeyenler yeterlik sınavında başarısız olmuş sayılır. Mazereti kabul edilenler mazeret bitiminden itibaren en az bir ay sonra tekrar sınava çağrılır. Sınava geçerli bir mazereti sebebiyle katılmama hakkı sadece bir kez kullanılabilir.

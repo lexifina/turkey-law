@@ -1,0 +1,5 @@
+Yurt dışı eğitim
+MADDE 49 – (1) Fonda kadro karşılığı sözleşmeli statüde istihdam edilen personel, mesleki bilgilerini geliştirmek amacıyla yurt dışı eğitim ve staj imkanı sağlanır. Yurt dışı eğitim, Fonun görev ve fonksiyonlarının gerektirdiği önceliklere ve ihtiyaçlara göre belirlenir.
+(2) Fonda kadro karşılığı sözleşmeli statüde istihdam edilen personel, Strateji Geliştirme Daire Başkanlığı ve ilgili birimlerin görüşleri doğrultusunda Destek Hizmetleri Daire Başkanlığının Başkana teklifi veya doğrudan Başkanın önerisi üzerine Kurul kararı ile çalışma sürelerine bakılmaksızın eğitim, inceleme ve araştırma yapmak üzere yurt dışına gönderilebilir.
+(3) Fonda kadro karşılığı sözleşmeli statüde istihdam edilen personel, diğer ülkelerin yetiştirme-eğitim merkezlerinde, enstitülerinde, Yükseköğretim Kurulu tarafından kabul edilen üniversitelerinde veya hizmetle ilgili kurumlarında da yetiştirilebilir. Yurt dışında eğitim ve staj yapılabilecek üniversiteler ve kuruluşlar Kurul tarafından belirlenir.
+(4) Yurt dışına göndermelerde, yurt dışından sağlanan burslara ve Fon adına yapılacak lisans üstü eğitim programlarına öncelik verilir.
