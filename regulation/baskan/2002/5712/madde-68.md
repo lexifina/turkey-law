@@ -1,0 +1,3 @@
+Kalibrasyon ve ayarlar
+Madde 68- (Değişik:RG-14/5/2022-31835)
+Dağıtım şirketi, sayaçların muayenesi ile tamir ve ayar işlemlerini, Ölçü Aletleri Mevzuatına göre yapar veya yaptırır. Sayaçların mevzuatta belirtilen periyotlara ve üretici firmaların tavsiyelerine uygun olarak kalibrasyonunu yapar, rapor tutar ve muhafaza eder. Doğal gaz dedektörlerinin, üretici firmaların tavsiyelerine uygun periyotlarda kalibrasyonunun yapılmasını sağlar. Ayrıca ölçüm sisteminde kullanılmakta olan diğer ekipmanın kalibrasyonu da ilgili mevzuat, standartlar, eğer ilgili mevzuat ve standart yok ise üretici tavsiyelerine göre yapılır.

@@ -1,0 +1,4 @@
+Kaçak tespiti ve kontrolü
+Madde 60- (Değişik fıkra:RG-14/5/2022-31835) Dağıtım şirketi, güvenlik açısından olası kaçakların tespiti ve bunun için gerekli tedbirlerin alınması amacıyla asgari yılda iki defa olmak üzere kaçak kontrolü yapar ve sonuçlarını kayıt altına alır. Kaçak tarama sonucunda gereği halinde şebekeye müdahale edilir.
+Kaçak kontrolleri, özel olarak yakınından alçak basınçlı dağıtım hattı geçen altyapı, demiryolu, kanal, kanalet, altyapı tesis kesişmeleri gibi özel geçiş noktaları da dahil, şebekenin tamamında uygun doğal gaz dedektörleri kullanılarak yapılır. Söz konusu kontrollerde uygun ölçekli haritalar ile halihazır projeler kullanılır ve kaçak kontrol kayıtları bu projelerdeki gösterimler dikkate alınarak yapılır.
+Dağıtım şirketi doğal gaz kaçağının giderilmesi için altı saatten fazla çalışma gerekiyorsa hastane ve okul gibi kamu hizmeti veren müşterilerin doğal gaz ihtiyaçlarını karşılamak için gerekli tedbirleri alır.

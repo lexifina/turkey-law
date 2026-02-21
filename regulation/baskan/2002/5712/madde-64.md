@@ -1,0 +1,4 @@
+Doğal gaz alt yapı bilgi sistemi
+Madde 64- Doğal gaz alt yapı bilgi sistemi; dağıtım şebekesi ile ilgili her türlü bilginin, bir bilgisayar programı yardımıyla, bilgisayar ortamına kayıt edilmesiyle oluşturulan ve istenildiğinde bu bilgiler ile ilgili her türlü sorgulamanın tek tek veya birlikte yapılabildiği sistemdir. Dağıtım şirketi, şebeke genişletmesi için gerekli mühendislik ve projelendirme çalışmaları esnasında haritaları güncelleyerek yapılan ölçümleri ulusal koordinat sistemine uyumlu olarak bilgisayar ortamında sayısallaştırır. Uygulama sonrası, şebekeye ait halihazır proje ve bilgiler dağıtım şirketinin kuracağı doğal gaz alt yapı bilgi sistemine kayıt edilir. Doğal gaz alt yapı bilgi sisteminde dağıtım şebekesi ile ilgili bilgiler değiştikçe ve yenilendikçe güncellenerek en az üç ayda bir yedeklemesi yapılır ve saklanır.
+ÜÇÜNCÜ BÖLÜM
+Sevkiyat Kontrol Merkezi, Haberleşme Sistemleri, Akış Kontrolü,

@@ -1,0 +1,2 @@
+Davet bildirimi
+Madde 13- Kurul kararı, Tebligat Kanunu hükümlerine göre teklif veren şirketlere gönderilir ve ihaleyi kazanan şirket lisans almaya davet edilir. Davet bildiriminde, şirketten, lisans alma öncesi yapılması gereken işlemleri, bildirimde belirtilen sürede tamamlayarak, kesin teminat tutarı ile birlikte Kuruma müracaat etmesi istenir. İlgilinin süre uzatımı talebinde bulunması ve bu talebinin Kurum tarafından kabul edilmesi halinde, müracaat süresi uzatılabilir.

@@ -1,0 +1,4 @@
+Eksik veya fazla faturalandırma
+Madde 51 — (Değişik:RG-9/6/2017- 30091)
+Dağıtım şirketi, kendi hatasından kaynaklanan eksik faturalandırma halinde, tüketim bedelini, eksik faturalandırmanın gerçekleştiği aylardaki perakende satış fiyatlarının, düzeltme katsayısının ve üst ısıl değerin ortalaması alınarak bulunan değerler ile hesaplar, eksik faturalandırmanın yapıldığı ay sayısı kadar eşit tutarda taksitlendirir ve bu durumda gecikme cezası uygulanmaz. (Ek cümle:RG-14/5/2022-31835) Bu fıkra için belirlenen süre geriye dönük olarak 1 (bir) yılı aşamaz.
+Fazla faturalandırma halinde ise, tahsil edilen fazla bedel, tespit edildiği tarihten itibaren en geç (Değişik ibare:RG-14/5/2022-31835) 5 (beş) iş günü içinde müşteriye, bu Yönetmeliğin 49 uncu maddesine göre belirlenecek gecikme zammı ile birlikte nakit olarak ödenir veya müşterinin kabul etmesi halinde bir sonraki faturasından mahsup edilir.

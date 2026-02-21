@@ -1,0 +1,3 @@
+Bakım ve onarımda doğal gaz kesintisi
+Madde 58- Doğal gaz şebekesinin genişletilmesi, yenilenmesi, iyileştirilmesi ve onarımı gibi nedenlerle önceden bilinen doğal gaz kesintileri için dağıtım şirketi, alınması gereken önlemleri, kesinti süresini ve tekrar doğal gaz verilecek zamanı mahalli veya diğer yayın araçları ile müşterilere en az üç gün önceden haber vermek suretiyle doğal gaz arzını durdurabilir. Dağıtım şirketi bu tip bakım ve onarımı en kısa sürede tamamlar.
+Ayrıca, müşterinin iç tesisatındaki arıza nedeniyle de doğal gaz kesilebilir. Dağıtım şirketi tarafından acil durumlar dışında önceden haber verilmeden yapılacak doğal gaz kesintisi sonucu oluşacak zarar ve ziyandan dağıtım şirketi sorumludur.

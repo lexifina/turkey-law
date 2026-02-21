@@ -1,0 +1,14 @@
+Güvence Bedeli
+Madde 39 — (Değişik:RG-14/5/2022-31835)
+(Değişik birinci fıkra:RG-21/2/2026-33175) Dağıtım şirketi, alacaklarını garanti altına alabilmek amacıyla, mekanik sayaç kullanan abonelerden, abonelerin tercihlerine göre nakit veya kredi kartına, peşin ya da taksitli olarak bir defaya mahsus olmak üzere güvence bedeli tahsil edebilir. Güvence bedelinin taksitli olmasını talep eden müşterilere tercihlerine göre güvence bedeli ödemesi için vade farksız en az 6 (altı) eşit taksit yapılır. Bu fıkra kapsamındaki bedellerin faturaya yansıtılması yerine kredi kartı kullanılarak ödenmesi halinde, kredi kartlarına ilişkin yürürlükte olan ilgili mevzuat hükümleri uygulanır.
+Güvence bedeli, doğal gazı fiilen kullanmak üzere sözleşme yapan kişilerden veya bunların yetkili temsilcilerinden alınır.
+Güvence bedelleri ile bunların hesaplanmasına ilişkin usul ve esaslar Kurul tarafından belirlenir.
+(Ek fıkra:RG-21/2/2026-33175)(3) Ancak;
+a) Ön ödemeli sayaç kullanan tüketicilerden,
+b) Herhangi bir gerekçe ile abonelik esnasında güvence bedeli alınmamış abonelerden daha sonra aynı adres için yeni sözleşme yapılana kadar,
+c) İbadethanelerden, cemevlerinden ve Diyanet İşleri Başkanlığına bağlı Kur’an eğitim ve öğretimine yönelik kurslardan,
+ç) 10/12/2003 tarihli ve 5018 sayılı Kamu Malî Yönetimi ve Kontrol Kanununa ekli (I) sayılı cetvelde yer alan kamu idarelerinden, bu kamu idarelerinin dinlenme tesisleri, misafirhaneleri ile iktisadi ve ticari amaçla işletilen tesisleri hariç,
+d) 29/5/1986 tarihli ve 3294 sayılı Sosyal Yardımlaşma ve Dayanışmayı Teşvik Kanunu ile 1/7/1976 tarihli ve 2022 sayılı 65 Yaşını Doldurmuş Muhtaç, Güçsüz ve Kimsesiz Türk Vatandaşlarına Aylık Bağlanması Hakkında Kanun kapsamında aylık veya düzenli sosyal yardım almaya ilişkin hak sahipliği verilen haneler için, hak sahibi adına yapılacak müşteri sözleşmesi kapsamında,
+güvence bedeli alınmaz. Bu fıkra kapsamında güvence bedeli alınmamasına ilişkin hükümler, mevcut aboneliğin sona erdirilerek aynı gerçek veya tüzel kişi tarafından yeniden aynı adreste abonelik tesis edilmesi hâlinde uygulanmaz. Bu fıkranın (ç) bendi kapsamındaki kamu kurumlarının kabul etmesi halinde dağıtım şirketi tarafından ön ödemeli sayaç takılabilir.
+Abonelik sözleşmesi sona eren abonenin dağıtım şirketinde bulunan güvence bedeli, tüm borçların ödenmiş olması ve nakit olarak alınan güvence bedellerinin ise ilgili mevzuat çerçevesinde güncelleştirilmesi kaydıyla, abonelik sözleşmesinin sona ermesine ilişkin talep tarihinden itibaren en geç on beş gün içerisinde aboneye veya onun yetkili temsilcisine iade edilir.
+Serbest tüketiciler güvence bedeli olarak nakit yerine banka kesin teminat mektubu da verebilir. Serbest tüketicilerden güvence bedeli alınıp alınmayacağı ve koşulları imzalanacak sözleşmeler kapsamında ilgili mevzuata aykırı olmamak kaydıyla serbestçe belirlenir.

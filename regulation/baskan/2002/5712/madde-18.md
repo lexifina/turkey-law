@@ -1,0 +1,3 @@
+Yatırımın kontrolü, işletmeye alınması ve kabulü
+Madde 18- (Değişik:RG-9/6/2017- 30091)
+Dağıtım şebekesinin projelendirme, yapım ve test aşamalarının her birinin kontrolü ile tamamlanan bölümlerinin işletmeye alınması ve kabulü, söz konusu faaliyetlerin gerçekleştirilmesinde görev almamış sertifika sahipleri tarafından yapılır ve tüm bu işlemler tutanak altına alınır. Dağıtım şirketlerinin hizmet alacağı yapım kontrol firmalarının belirlenmesi, değiştirilmesi, sözleşmelerde yer alacak asgari hükümler ve kontrollük faaliyetlerinin yürütülmesine ilişkin usul ve esaslar Kurul tarafından belirlenir.

@@ -1,0 +1,3 @@
+İzleme raporları
+Madde 28- (Değişik birinci fıkra:RG-24/12/2014-29215) Dağıtım şirketi, dağıtım şebekesinin inşasında gerçekleşen ilerlemeleri içeren özet bilgileri, Enerji Piyasası Bildirim Yönetmeliği hükümleri kapsamında Kuruma bildirir.
+Dağıtım şirketi ayrıca, Kurumun talebi halinde verilmek üzere, kurulan alt yapıya ait teçhizat ve malzemelerin ilgili mevzuata uygunluğunu gösteren, Türk Standartları Enstitüsünden alınmış uygunluk belgelerini, test ve kontrol kayıtlarını, vukuat raporlarını, kamulaştırma, mülkiyetin gayri ayni haklar tesisi ve kiralama kayıtlarını, Kurum tarafından talep edilecek diğer bilgi, belge, kayıt ve raporları tutmakla yükümlüdür.

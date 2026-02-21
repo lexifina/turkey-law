@@ -1,0 +1,2 @@
+Lisans süre uzatımı
+Madde 31- Lisans süresi sona eren dağıtım şirketinin, lisans süresinin tamamlanmasından bir yıl önce, söz konusu şehir içi dağıtım lisansının yenilenmesini Kurumdan talep etmesi halinde Kurul, şirketin ekonomik ve teknik gücünü, hizmet kalitesini, abonelerinin memnuniyetini, ilgili mevzuatta belirtilen diğer hususları dikkate alarak ikinci kez dağıtım lisansı verebilir. Yenilenen lisans süresi boyunca Kurul tarafından belirlenecek olan birim hizmet ve amortisman bedeli ile abone bağlantı bedeli uygulanır.

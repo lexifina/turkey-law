@@ -1,0 +1,2 @@
+İhale dosyasında değişiklik yapılması
+Madde 11- Kurul, tekliflerin verilmesi için tanınan sürenin sona ermesinden önceki herhangi bir tarihte, kendi inisiyatifine bağlı olarak veya şirketlerden herhangi birinin ihale ile ilgili olarak istemiş olduğu açıklama neticesi ortaya çıkan yeni bir durum sebebiyle, ihale dosyasında değişiklik yapabilir. Değişiklikler yazılı olarak, ihale dosyası almış bulunan bütün şirketlere bildirilir ve tüm teklif sahiplerini bağlar.

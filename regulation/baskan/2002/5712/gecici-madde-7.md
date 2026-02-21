@@ -1,0 +1,2 @@
+Geçici Madde 7 — (Ek:RG-06/08/2004-25545)
+4646 Sayılı Kanunun yürürlüğe girdiği tarihten evvel alınmış kanuni bir hak, belge, izin veya yetkilendirmeye müsteniden doğal gaz dağıtım faaliyeti yapan şehir içi doğal gaz dağıtım tüzel kişilerince, 31/12/2003 tarihinden önce bağlantıyı oluşturan unsurlar için her ne ad altında ve tutarda olursa olsun bir bedel alınmış ise aynı bağımsız bölüm, bina veya tesis için bağlantı bedeli alınamaz. Bu hüküm abone bağlantı bedelinin unsurlarından olan sayaç ve sayaç bağlantı elemanları için de uygulanır.
