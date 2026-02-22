@@ -1,0 +1,1 @@
+[1] 22/2/2026 tarihli ve 33176 sayılı Resmî Gazete’de yayımlanan değişiklik ile Yönetmeliğin 15 inci maddesine ikinci fıkradan sonra gelmek üzere üçüncü fıkra eklenmiş; diğer fıkralar buna göre teselsül ettirilmiştir.
