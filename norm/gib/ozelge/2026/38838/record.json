@@ -1,0 +1,22 @@
+{
+  "kind": "norm",
+  "issuer": "Gelir İdaresi Başkanlığı",
+  "document_type": "ozelge",
+  "number": "97895701-140.06.99[2025.229]-260973",
+  "source_id": 38838,
+  "date": "2026-02-23",
+  "title": "Almanya D tipi ulusal vize sahiplerinin yurt dışına çıkış harcından muaf olup olmadıkları hk.",
+  "source": "https://gib.gov.tr/mevzuat/kanun/439/ozelge/38838",
+  "related_law": "492 sayılı HARÇLAR KANUNU",
+  "source_api": "https://gib.gov.tr/api/gibportal/mevzuat/ozelge/list",
+  "source_listing": "evidence/list/2026-11-16/ozelge-p009.json",
+  "source_listing_sha256": "9cb52b4963a9a177a23948f6e28c12936c2f43c88a0b410872bb81c01983667c",
+  "source_sha256": "602ff58d6511037034ded5763aad5cf483c270e75eb8b57ebde96084bbcfb563",
+  "text_status": "as-enacted",
+  "text_file": "metin.md",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  }
+}
