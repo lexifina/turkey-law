@@ -1,0 +1,4 @@
+Yönetici olarak yeniden görevlendirileceklere ilişkin duyuru ve başvuru
+MADDE 24- (1) Yeniden görevlendirme kapsamında görevlendirilecekler için ilk defa görevlendirme yapılmadan önce, boş bulunan eğitim kurumları ile dört ve sekiz ders yılını dolduran yöneticilerden boşalacak eğitim kurumları, il millî eğitim müdürlüklerince elektronik ortamda duyurulur.
+(2) Bulundukları eğitim kurumunda aynı yöneticilik görevinde dört ders yılını dolduran yöneticiler aynı ya da farklı eğitim kurumlarına, bulundukları eğitim kurumunda aynı yöneticilik görevinde sekiz ders yılını dolduran yöneticiler ise farklı eğitim kurumlarına yönetici yetiştirme programını tamamlamış olmak kaydıyla aynı yöneticilik göreviyle yeniden görevlendirilme isteğinde bulunabilirler. Başvurular elektronik ortamda alınır.
+(3) Yeniden görevlendirilmek üzere başvuruda bulunanlara en fazla yirmi eğitim kurumu tercih etme hakkı verilir.

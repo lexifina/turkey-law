@@ -1,0 +1,6 @@
+Müdür olarak ilk defa görevlendirme
+MADDE 22- (1) Yönetici yetiştirme programı sonunda başarılı olan adaylardan müdür olarak ilk defa görevlendirilmek üzere başvuruda bulunanlar tercihleri de dikkate alınarak puan üstünlüğüne göre görevlendirilir.
+(2) Kurucu müdür olarak görev yapmış olanlardan kurucu müdür olarak görev yaptığı eğitim kurumuna müdür normu verildikten sonra yapılacak ilk müdür görevlendirmesinde müdür olarak görevlendirilme isteğinde bulunanlara, söz konusu eğitim kurumları ile sınırlı olmak üzere görevlendirmeye esas puana 5 puan ilave edilir.
+(3) Halk eğitimi merkezi kadrolarında öğretmen veya yönetici olarak görev yapmış olanlardan söz konusu eğitim kurumlarına müdür olarak görevlendirme isteğinde bulunanlara, belirlenen görevlendirmeye esas puana ayrıca 5 puan ilave edilir.
+(4) Adayların puanlarının eşitliği halinde, sırasıyla yöneticilikteki hizmet süresi ve öğretmenlikteki hizmet puanı fazla olan adayın görevlendirmesi yapılır. Eşitliğin devamı hâlinde, görevlendirilecek aday bilgisayar kurası ile belirlenir.
+(5) Müdür olarak ilk defa görevlendirilmeye hak kazanan adaylar, il millî eğitim müdürünün teklifi üzerine valinin onayı ile müdür olarak görevlendirilir.

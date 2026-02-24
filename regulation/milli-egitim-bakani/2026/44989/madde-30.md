@@ -1,0 +1,3 @@
+Yöneticilik görev süresi hesaplanması
+MADDE 30- (1) Yöneticilikte geçen dört ve sekiz ders yılı süresinin hesabında; en son yapılan görevlendirme tarihi itibarıyla içinde bulunduğu ders yılı veya takip eden ilk ders yılından başlamak üzere aynı yöneticilikte geçirilen hizmet sürelerinin toplamı esas alınır.
+(2) Yönetici olarak görev yapmakta iken diğer eğitim kurumlarında veya diğer kurumlarda vekâleten veya geçici olarak görevlendirilenlerin bu görev süreleri ile yıllık izin, hastalık izni, aylıksız izin ve benzeri nedenlerle fiilen yapılmayan yöneticilik görevleri, kadrolarının bulunduğu eğitim kurumlarındaki dört ve sekiz ders yılı süresinin hesabında değerlendirilir.

@@ -1,0 +1,2 @@
+Kurucu müdürlüğe görevlendirme
+MADDE 31- (1) Yeni açılmakta olan eğitim kurumlarını eğitim ve öğretime hazır hale getirmek üzere, eğitim kurumunun eğitim ve öğretime açılıp kuruma müdür norm kadrosu verildiği tarihe kadar geçen süre içerisinde yönetim hizmetlerini yürütmek üzere, müdür görevlendirmesine ilişkin şartları taşıyanlar arasından il millî eğitim müdürünün teklifi üzerine vali onayı ile kurucu müdür görevlendirilir.

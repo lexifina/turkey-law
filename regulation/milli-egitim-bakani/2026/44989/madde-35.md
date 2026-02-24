@@ -1,0 +1,2 @@
+Yöneticilik görevinden alınma
+MADDE 35- (1) Eğitim kurumu yöneticilerinden haklarında yapılan adlî ve idarî soruşturma sonucu hazırlanan raporların yetkili amir ve kurullarca değerlendirilmesi sonucuna göre yöneticilik görevinden alınma teklifi getirilen eğitim kurumu yöneticileri, durumlarına uygun ihtiyaç bulunan eğitim kurumlarına öğretmen olarak atanır. Bu şekilde görevinden alınanlar, aradan dört yıl geçmeden yönetici olarak görevlendirilmek üzere başvuruda bulunamaz.

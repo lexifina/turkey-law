@@ -1,0 +1,46 @@
+{
+  "source_id": "7.5.44989",
+  "kind": "regulation",
+  "register_kind": "Kurum ve Kuruluş Yönetmelikleri",
+  "title": "MİLLÎ EĞİTİM BAKANLIĞI EĞİTİM KURUMLARI YÖNETİCİ GÖREVLENDİRME YÖNETMELİĞİ",
+  "number": "44989",
+  "issuer": "Millî Eğitim Bakanı",
+  "issuer_slug": "milli-egitim-bakani",
+  "path": "regulation/milli-egitim-bakani/2026/44989",
+  "source": "https://www.mevzuat.gov.tr/anasayfa/MevzuatFihristDetayIframe?MevzuatTur=7&MevzuatNo=44989&MevzuatTertip=5",
+  "source_sha256": "b8f154a81e2428b13b6445a74f37615459b59e7dc418fad16dcc104aa2ae9af0",
+  "source_bytes": 118791,
+  "published": "2026-01-30",
+  "gazette": "33153",
+  "in_force": "2026-02-24",
+  "in_force_basis": "latest Resmî Gazete date printed in the source amendment notes/table (\"RG-24/2/2026\") for the current consolidated text",
+  "date_evidence": [
+    [
+      "2026-02-24",
+      "RG-24/2/2026",
+      "Resmî Gazete date printed in the source amendment note"
+    ],
+    [
+      "2026-02-24",
+      "24/2/2026",
+      "Resmî Gazete date in the source amendment table"
+    ]
+  ],
+  "commencement_clauses": [
+    "Bu Yönetmelik yayımı tarihinde yürürlüğe girer"
+  ],
+  "history": "current-text",
+  "label": "oldest version available",
+  "checked_on": "2026-11-15",
+  "word_count": 5198,
+  "text_status": "current-consolidated",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  },
+  "source_links": [
+    "7.5.44989-Ek.xlsx"
+  ],
+  "completeness": "html-text-complete; linked annexes not fetched"
+}

@@ -1,0 +1,21 @@
+Tanımlar
+MADDE 4- (1) Bu Yönetmelikte geçen;
+a) Akademi: Millî Eğitim Akademisini,
+b) Bakan: Millî Eğitim Bakanını,
+c) Bakanlık: Millî Eğitim Bakanlığını,
+ç) Ders yılı: Bakanlığa bağlı resmî eğitim kurumlarında derslerin başladığı günden derslerin kesildiği güne kadar geçen süreyi,
+d) Eğitim kurumu: Bakanlığa bağlı her kademe ve türdeki resmî örgün ve yaygın eğitim faaliyetlerinin yürütüldüğü kurumlar ile bu kurumlarda yürütülen eğitim öğretim etkinlikleri için program hazırlama, eğitim araç ve gereci üretme, inceleme, değerlendirme, öğrenci ve öğrenci adaylarına uygulanacak seçme ve/veya yarışma sınavları için gerekli iş ve işlemleri yürütme, rehberlik ve sosyal hizmetler verme yoluyla yardımcı ve destek olan Bakanlığa bağlı resmî kurumları,
+e) Görevlendirme: Bakanlığa bağlı eğitim kurumlarında müdür ve müdür yardımcısı görevlerini yürütmek üzere, 657 sayılı Kanunun 88 inci ve 7528 sayılı Kanunun 21 inci maddelerine göre verilen ikinci görevi,
+f) İlçe grubu: İllerde coğrafi özellikler ve ulaşım imkânları dikkate alınarak iki veya daha fazla ilçenin bir araya getirilmesiyle oluşturulan grubu,
+g) İlk defa görevlendirme: Müdür veya müdür yardımcısı olarak ilk defa görevlendirilecekleri,
+ğ) Kademe: Eğitim kurumlarının anaokulu, ilkokul, ortaokul ve lise şeklindeki düzeylerini,
+h) Müdür: Bakanlığa bağlı her kademe ve türdeki örgün ve yaygın eğitim kurumlarında müdürlük görevini ikinci görev kapsamında yürütenleri,
+ı) Müdür yardımcısı: Bakanlığa bağlı her kademe ve türdeki örgün ve yaygın eğitim kurumlarında müdür yardımcılığı görevini ikinci görev kapsamında yürütenleri,
+i) Öğretmen: Bakanlığa bağlı eğitim kurumlarında 657 sayılı Kanunun 4 üncü maddesinin (A) ve (B) fıkraları kapsamında öğretmen kadro ve pozisyonlarında görev yapanları,
+j) Tür: Aynı kademedeki eğitim kurumlarında farklı eğitim programı uygulayan eğitim kurumlarını,
+k) Yazılı sınav: Yönetici olarak ilk defa görevlendirilecekleri belirlemek amacıyla Bakanlık Ölçme, Değerlendirme ve Sınav Hizmetleri Genel Müdürlüğünce veya Ölçme, Seçme ve Yerleştirme Merkezi Başkanlığınca yapılan sınavı,
+l) Yeniden görevlendirme: Görev süresini dolduran yöneticilerin yeniden yönetici olarak görevlendirilmesini,
+m) Yönetici: Öğretmen kadro ve pozisyonlarında görev yapanlardan Bakanlığa bağlı resmî eğitim kurumları ile Akademiye bağlı eğitim ve uygulama merkezlerinde müdürlük ve müdür yardımcılığı görevlerini 657 sayılı Kanunun 88 inci ve 7528 sayılı Kanunun 21 inci maddelerine göre ikinci görev kapsamında yürütenleri,
+n) Yönetici yetiştirme programı: Akademi tarafından, yöneticiliğe görevlendirilecekler için düzenlenen programı,
+o) Yöneticilikten ayrılanların yeniden görevlendirilmesi: Daha önce yöneticilik görevinde bulunup hâlen öğretmen olarak görev yapanların yönetici olarak görevlendirilmesini,
+ifade eder.
