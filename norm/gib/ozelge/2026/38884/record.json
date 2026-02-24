@@ -1,0 +1,22 @@
+{
+  "kind": "norm",
+  "issuer": "Gelir İdaresi Başkanlığı",
+  "document_type": "ozelge",
+  "number": "E-90792880-155.01[1275]-",
+  "source_id": 38884,
+  "date": "2026-02-24",
+  "title": "Alt yüklenici sözleşmesinin 2863 sayılı Kanun kapsamında değerlendirilip değerlendirilmeyeceği hk.",
+  "source": "https://gib.gov.tr/mevzuat/kanun/438/ozelge/38884",
+  "related_law": "488 sayılı DAMGA VERGİSİ KANUNU",
+  "source_api": "https://gib.gov.tr/api/gibportal/mevzuat/ozelge/list",
+  "source_listing": "evidence/list/2026-11-16/ozelge-p009.json",
+  "source_listing_sha256": "9cb52b4963a9a177a23948f6e28c12936c2f43c88a0b410872bb81c01983667c",
+  "source_sha256": "84abdb67781e1320f6e4f75a454644ce98b276f7c87002ac162238f3675f2e91",
+  "text_status": "as-enacted",
+  "text_file": "metin.md",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  }
+}
