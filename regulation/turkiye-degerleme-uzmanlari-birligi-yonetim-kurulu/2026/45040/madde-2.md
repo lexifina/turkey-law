@@ -1,0 +1,2 @@
+Dayanak
+MADDE 2- (1) Bu Yönetmelik; 6/12/2012 tarihli ve 6362 sayılı Sermaye Piyasası Kanununun 76 ncı maddesinin dördüncü fıkrası ile 5/2/2014 tarihli ve 2014/5933 sayılı Bakanlar Kurulu Kararı ile yürürlüğe konulan Türkiye Değerleme Uzmanları Birliği Statüsünün 7 nci maddesinin birinci fıkrasının (a) bendine, 17 nci maddesinin birinci fıkrasının (ğ) bendine, 23/A maddesine ve 27 nci maddesinin birinci fıkrasına dayanılarak hazırlanmıştır.

@@ -1,0 +1,31 @@
+{
+  "source_id": "7.5.45040",
+  "kind": "regulation",
+  "register_kind": "Kurum ve Kuruluş Yönetmelikleri",
+  "title": "TÜRKİYE DEĞERLEME UZMANLARI BİRLİĞİ DENETİM YÖNETMELİĞİ",
+  "number": "45040",
+  "issuer": "Türkiye Değerleme Uzmanları Birliği Yönetim Kurulu",
+  "issuer_slug": "turkiye-degerleme-uzmanlari-birligi-yonetim-kurulu",
+  "path": "regulation/turkiye-degerleme-uzmanlari-birligi-yonetim-kurulu/2026/45040",
+  "source": "https://www.mevzuat.gov.tr/anasayfa/MevzuatFihristDetayIframe?MevzuatTur=7&MevzuatNo=45040&MevzuatTertip=5",
+  "source_sha256": "67955e8e10d72e398d581016c8f74d67cecf315c452ba66fbd0628f8c8c09876",
+  "source_bytes": 73990,
+  "published": "2026-02-25",
+  "gazette": "33179",
+  "in_force": "2026-02-25",
+  "in_force_basis": "Resmî Gazete publication date in the official listing (25.02.2026); own commencement article: \"Bu Yönetmelik yayımı tarihinde yürürlüğe girer\"",
+  "commencement_clauses": [
+    "Bu Yönetmelik yayımı tarihinde yürürlüğe girer"
+  ],
+  "history": "current-text",
+  "label": "oldest version available",
+  "checked_on": "2026-11-15",
+  "word_count": 2374,
+  "text_status": "current-consolidated",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  },
+  "completeness": "html-text-complete"
+}
