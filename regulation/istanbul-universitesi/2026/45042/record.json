@@ -1,0 +1,39 @@
+{
+  "checked_on": "2026-11-14",
+  "commencement_clauses": [
+    "MADDE 18- (1) Bu Yönetmelik yayımı tarihinde yürürlüğe girer."
+  ],
+  "date_evidence": [
+    [
+      "2026-02-25",
+      "25.02.2026",
+      "original gazette publication date in official listing"
+    ]
+  ],
+  "date_quote": "MADDE 18- (1) Bu Yönetmelik yayımı tarihinde yürürlüğe girer.",
+  "first_law": null,
+  "gazette": "33179",
+  "history": "current-text",
+  "images": {
+    "deferred": 0,
+    "omitted": 0,
+    "referenced": 0,
+    "source": 0
+  },
+  "in_force": "2026-02-25",
+  "in_force_basis": "source commencement clause: enters into force on gazette publication",
+  "issuer": "İstanbul Üniversitesi",
+  "issuer_slug": "istanbul-universitesi",
+  "kind": "regulation",
+  "label": "oldest version available",
+  "path": "regulation/istanbul-universitesi/2026/45042",
+  "published": "2026-02-25",
+  "source": "https://www.mevzuat.gov.tr/anasayfa/MevzuatFihristDetayIframe?MevzuatTur=8&MevzuatNo=45042&MevzuatTertip=5",
+  "source_bytes": 52299,
+  "source_id": "8.5.45042",
+  "source_sha256": "1dfd1b472905657eabf66f5263c848dfafb212b35e8aaee7097adee939f9b295",
+  "text_status": "as-enacted",
+  "title": "İSTANBUL ÜNİVERSİTESİ TÜRK İKTİSAT VE İÇTİMAİYAT TARİHİ UYGULAMA VE ARAŞTIRMA MERKEZİ YÖNETMELİĞİ",
+  "university_id": 202,
+  "word_count": 1016
+}
