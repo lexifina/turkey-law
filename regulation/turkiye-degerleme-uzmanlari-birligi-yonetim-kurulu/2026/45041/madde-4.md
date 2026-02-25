@@ -1,0 +1,23 @@
+Tanımlar ve kısaltmalar
+MADDE 4- (1) Bu Yönetmelikte geçen;
+a) Birlik: Türkiye Değerleme Uzmanları Birliğini,
+b) Birlik Başkanı: Türkiye Değerleme Uzmanları Birliği Başkanını,
+c) Elektronik Belge Yönetim Sistemi (EBYS): İdarelerin faaliyetlerini yerine getirirken hazırladıkları ve faaliyetlerinin delili olabilecek e-Yazışma Teknik Rehberine uygun belgelerin içerik, üstveri, format ve ilişkisel özelliklerini koruyan, belgelerin ait olduğu fonksiyon veya işlem için delil teşkil eden ve aidiyet zinciri içerisindeki yönetimini elektronik ortamda sağlayan sistemi,
+ç) Etik sözleşme: Birlik tarafından yayımlanan etik sözleşmeyi,
+d) Gayrimenkul değerleme kuruluşu: Sermaye Piyasası Kurulu tarafından sermaye piyasasında değerleme faaliyetinde bulunmak üzere yetkilendirilmiş anonim şirketleri,
+e) Genel Sekreter: Türkiye Değerleme Uzmanları Birliği Genel Sekreterini,
+f) Kanun: 6/12/2012 tarihli ve 6362 sayılı Sermaye Piyasası Kanununu,
+g) Komite: Disiplin komitesini,
+ğ) Komite Başkanı: Disiplin Komitesi Başkanını,
+h) Kurul: Sermaye Piyasası Kurulunu,
+ı) Meslek kuralları: Kurul ve/veya Birlik tarafından yayımlanan yönetmelik, genelge, tebliğ, karar veya standart gibi idari işlemler ile belirlenen kuralları,
+i) MKK Gayrimenkul Bilgi Merkezi A.Ş. (GABİM): Merkezi Kayıt Kuruluşu A.Ş.’nin sahibi olduğu, değerleme faaliyetlerine ilişkin tüm verilerin tutulduğu kuruluşu,
+j) Müşteri: Kendisi için değerleme faaliyeti yürütülen kişi veya kurumları,
+k) Raportör: Komitenin talebi üzerine Yönetim Kurulu ve Komite tarafından yapılan iç görevlendirme ve toplantı planı ile yazışmaların takibi, arşivlenmesi, Birlik Yönetim Kurulu ile iletişimin sağlanması konularında da görev yapan Birlik personelini,
+l) Soruşturmacı: Komite tarafından, soruşturmanın yürütülmesi ile görevlendirilen Komite üyesini,
+m) Statü: 5/2/2014 tarihli ve 2014/5933 sayılı Bakanlar Kurulu Kararı ile yürürlüğe konulan Türkiye Değerleme Uzmanları Birliği Statüsünü,
+n) Üye: Türkiye Değerleme Uzmanları Birliği üyelerini,
+o) Üye Yönetim Sistemi (ÜYS): Birlik üyelerinin elektronik ortamda sicil bilgilerinin kayıt altına alındığı programı,
+ö) Yatırımcı Tazmin Merkezi (YTM): Yatırım kuruluşlarının, yatırım hizmet ve faaliyetinden kaynaklanan nakit ödeme veya sermaye piyasası araçları teslim yükümlülüklerini yerine getirememeleri hâlinde, Kurul tarafından 6362 sayılı Kanun çerçevesinde alınan tazmin kararını yerine getirmek amacıyla kurulmuş olan kamu tüzel kişiliğini haiz kuruluşu,
+p) Yönetim Kurulu: Türkiye Değerleme Uzmanları Birliği Yönetim Kurulunu,
+ifade eder.

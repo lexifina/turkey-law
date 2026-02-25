@@ -1,0 +1,4 @@
+Soruşturma ceza zamanaşımı
+MADDE 24- (1) Bu Yönetmelikte belirtilen disiplin cezası gerektiren fiillerle ilgili olarak bu Yönetmelikte yer alan usuller çerçevesinde soruşturmaya başlanabilmesi için fiillerin işlendiği tarihten itibaren beş yıldan fazla sürenin geçmemiş olması gerekir.
+(2) Disiplin cezası gerektiren fiiller, aynı zamanda ceza kovuşturmasını da gerektiriyorsa ve bu fiiller için ilgili mevzuatlarında bu maddede belirtilenlerden daha uzun bir zamanaşımı süresi belirlenmişse, ceza kovuşturması için belirlenen zamanaşımı süresi, disiplin soruşturmasında da esas alınır.
+(3) Disiplin cezasını gerektiren fiillerle ilgili kesinleşen kararın iki yıl içinde uygulanamaması halinde idari para cezası haricinde verilen ceza zamanaşımına uğrar ve yerine getirilmez. İdari para cezasına ilişkin zamanaşımı süresinde, 5326 sayılı Kanunun 20 nci maddesi uygulanır.
