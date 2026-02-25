@@ -1,0 +1,8 @@
+Disiplin kurulları ile yüksek disiplin kurulunun görüşme usulü, toplantı ve karar yeter sayısı
+MADDE 17- (1) Kurullar salt çoğunlukla toplanır.
+(2) Kurulların başkan ve üyelerinin görev başında bulunamamaları hâlinde kurullara vekilleri katılır.
+(3) Sendikalar tarafından sendika temsilcisinin süresinde bildirilmemesi veya bildirilen sendika temsilcisinin davet edilmesine rağmen toplantıya katılmaması durumunda sendika temsilcisi toplantı yeter sayısının tespitinde göz önünde bulundurulmaz.
+(4) Kurulların başkan ve üyeleri; kendilerine, eşlerine, üçüncü dereceye kadar (bu derece dâhil) kan ve kayın hısımlarına, disiplin cezası verilmesini teklif ettikleri veya disiplin soruşturmasını ya da muhakkikliğini yaptıkları personele ait işlerle ilgili kurul toplantılarına katılamaz.
+(5) Toplantılara, dördüncü fıkrada sayılan sebeplerle katılamayan üyeler, toplantı yeter sayısının tespitinde göz önünde bulundurulmaz. Başkanın bu sebeplerle toplantıya katılamaması hâlinde başkanlık görevi; hiyerarşik olarak en üst görevde bulunan üye, hiyerarşik olarak aynı düzey görevde bulunan üye sayısı birden çok ise bunlar arasından en kıdemli üye tarafından yürütülür.
+(6) Kurullarda raportörün açıklamaları dinlendikten sonra işin görüşülmesine geçilir. Üyeler, toplantılarda soruşturma konusu fiil veya hâl hakkındaki görüşlerini sözlü veya yazılı olarak bildirebilir. Konunun aydınlandığı ve görüşmelerin yeterliği sonucuna varıldığında oylama yapılır. Oylama açık oyla yapılır ve oy çokluğu ile karar verilir. Oylamada çekimser kalınamaz. Başkan oyunu en son kullanır. Oyların eşitliği hâlinde Başkanın bulunduğu tarafın oyu üstün sayılır.
+(7) Oylamanın sonucu Başkan tarafından açıklanır ve Başkan ile üyeler tarafından imzalanan bir tutanakla tespit edilir.

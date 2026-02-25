@@ -1,0 +1,2 @@
+Disiplin amiri veya muhakkikin disiplin suçunun mağduru veya tanığı olması
+MADDE 21- (1) Disiplin amiri veya muhakkik, disipline aykırı fiilin mağduru veya tanığı olması hâlinde disiplin soruşturmasını yürütemez. Fiilin mağduru veya tanığı olduğunu tutanak altına alan disiplin amiri, bu tutanağı gereğini yapmak üzere kendisinin bir derece üzerindeki disiplin amirine gönderir. Fiilin mağduru veya tanığı muhakkik ise durumu gereğini yapması için kendisini görevlendiren disiplin amirine yazılı olarak bildirir.

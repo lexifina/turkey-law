@@ -1,0 +1,5 @@
+Sendika temsilcileri
+MADDE 15- (1) Hakkında disiplin soruşturması yürütülen personelin üyesi olduğu sendikanın temsilcisi de disiplin ve yüksek disiplin kurulunda yer alır.
+(2) Sendikalar tarafından her bir disiplin kurulu ve yüksek disiplin kurulu toplantılarına hangi temsilcinin katılacağı toplantı tarihinden en az bir hafta önce Bakanlığa bildirilir.
+(3) Kurullarda sendika temsilcisinin bulunması ve talep edilmesi halinde; sekretarya hizmetlerini yürüten ilgili personel birimleri, soruşturma dosyasında yer alan ve gizlilik derecesi ihtiva eden bilgileri bilmesi gereken prensibi çerçevesinde belirleyerek, başka bir amaçla kullanılmayacağını ve suretlerinin alınamayacağını yazılı olarak temin etmek suretiyle, soruşturma dosyasını Bakanlık veya ilgili karargâh içerisinde kendisine gösterilen yerde inceleyebilmesi için sendika temsilcisine teslim eder.
+(4) Sendika temsilcisi, kurul toplantılarında soruşturma konusu fiil veya hâl hakkındaki görüşlerini sözlü veya yazılı olarak bildirebilir.

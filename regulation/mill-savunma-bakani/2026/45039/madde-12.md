@@ -1,0 +1,4 @@
+Yüksek disiplin kurulunun oluşturulma esasları
+MADDE 12- (1) Yüksek disiplin kurulu, bir başkan ve dört üye ile varsa personelin üyesi olduğu sendikanın temsilcisinden oluşur. Başkan ve üyeler Bakan onayı ile görevlendirilir ve görev süreleri üç yıldır. Süresi dolanlar aynı usulle yeniden görevlendirilebilir. Bakan onayı Genel Müdürlük tarafından hazırlanır.
+(2) Yüksek disiplin kurulunun başkanlığını, Genel Müdürlüğün bağlı bulunduğu Bakan yardımcısı yapar.
+(3) Yüksek disiplin kurulu üyeliklerine öncelikli olarak personel, hukuk, teftiş veya denetim hizmetlerini yürüten birimlerden görevlendirme yapılır. Millî Savunma Üniversitesi, Genelkurmay Başkanlığı veya kuvvet komutanlıkları bünyesinde istihdam edilen personelin kurula sevki halinde, bu kurumların personel birimlerinden bir üye Bakanlıkta görevli personel adına kurula katılan üye yerine yüksek disiplin kurulunda görevlendirilebilir.

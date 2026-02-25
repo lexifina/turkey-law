@@ -1,0 +1,4 @@
+Kamu görevinden ayrılanların disiplin soruşturmaları
+MADDE 26- (1) Emekliye ayrılan, memuriyetten çekilen veya çekilmiş sayılan, sözleşmesi feshedilen, sözleşmesini fesheden, başka bir eylemi nedeniyle Devlet memurluğundan çıkarma veya sözleşmeli personelin görevine son verme cezası almış olan personel hakkında da ilişiği kesilmeden önce işlediği fiillerle ilgili disiplin soruşturması yapılır. Personel ölmüş ise soruşturma evrakı işlemden kaldırılır, disiplin cezası verilmiş ise uygulanmaz.
+(2) Başka kamu idaresine atanan personel hakkında verilen disiplin cezaları ve soruşturma dosyaları, verilmiş cezaların uygulanabilmesi için ilgililerin görev yaptığı kamu idarelerine gönderilir.
+(3) Soruşturma sonucunda 657 sayılı Kanun ve bu Yönetmelikteki usul ve esaslar çerçevesinde kesinleşen disiplin cezaları ilgililere tebliğ edilir ve karar özlük dosyasına konulur. Bu durumda olanların tekrar kamu görevine dönmeleri durumunda verilmiş olan ceza uygulanır.
