@@ -1,0 +1,20 @@
+{
+  "record_type": "gazette-item",
+  "gazette": "Resmî Gazete",
+  "jurisdiction": "TR",
+  "date": "2026-02-25",
+  "issue": "33179",
+  "edition": "regular",
+  "item": 4,
+  "section": "YÜRÜTME VE İDARE BÖLÜMÜ",
+  "heading": "YÖNETMELİKLER",
+  "title": "Türkiye Değerleme Uzmanları Birliği Disiplin Yönetmeliği",
+  "official_link": "https://www.resmigazete.gov.tr/eskiler/2026/02/20260225-4.htm",
+  "link_format": "htm",
+  "index_url": "https://www.resmigazete.gov.tr/eskiler/2026/02/20260225.htm",
+  "index_sha256": "d62a9890f26d7cac6de93fd8b4e39682034195273cd74434a3dfeb0efa35e05d",
+  "index_header": "25 Şubat 2026 ... 33179 Sayılı Resmî Gazete",
+  "issue_pdf": "https://www.resmigazete.gov.tr/eskiler/2026/02/20260225.pdf",
+  "in_force_basis": "Resmî Gazete publication date; not a commencement reading.",
+  "text_status": "metadata-only; text not yet fetched (follow-up pass adds it as its own commit)"
+}
