@@ -1,0 +1,21 @@
+{
+  "record_type": "parliament-written-question",
+  "term": 28,
+  "legislative_year": 4,
+  "esas_no": "7/41545",
+  "submitted": "2026-02-26",
+  "submitted_as": "Başkanlığa geliş tarihi",
+  "mp": "Öznur BARTİN",
+  "province": "Hakkari",
+  "summary": "Hakkari'de gerçekleşen intihar ve şüpheli ölümlere ilişkin",
+  "status": "Süresi Geçtikten Sonra Cevaplandı",
+  "status_as_of": "2026-11-16",
+  "official_record": "https://www.tbmm.gov.tr/Denetim/Yazili-Soru-Onergesi-Detay/0ac4e17d-0c8a-4a5f-b1cf-019c9e5a992f",
+  "source": "https://tbmm.gov.tr/Denetim/YaziliSoruOnergesiTable",
+  "source_form": "https://tbmm.gov.tr/Denetim/Yazili-Soru-Onergeleri",
+  "source_sha256": "9237dde63126f0b180184521dedc14b16d1f28243482df4848c834e874b9c8ca",
+  "in_force": "2026-02-26",
+  "in_force_basis": "Date the question reached the Speaker (Başkanlığa geliş tarihi) in the official TBMM written-question record; parliamentary oversight record, not law",
+  "history_type": "metadata",
+  "text_status": "metadata-only: question text, addressee and answers are in the linked official record (PDFs on cdn.tbmm.gov.tr); not transcribed here"
+}
