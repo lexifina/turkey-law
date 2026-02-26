@@ -1,0 +1,4 @@
+İşbirliği protokolünün imzalanması, feshi ve diğer uygulama esasları
+MADDE 13 – (1) İşbirliği protokolü, Bakanlığın ve YÖK’ün uygun görüşü alınarak Vali ve Rektör tarafından imzalanarak yürürlüğe girer ve Bakanlığa ve YÖK’e bildirilir. Gerekli görülmesi halinde Bakanlık ve YÖK çerçeve işbirliği protokolü hazırlayabilir.
+(2) Protokolün imzalanmasından itibaren altı ay içerisinde fiilen işbirliğine başlanır. İşbirliğinin fiilen başlama tarihi bir tutanak ile tespit edilerek Bakanlığa ve YÖK’e bildirilir. Bu süre içerisinde fiilen işbirliğine başlanmaması halinde protokol feshedilmiş sayılır. İşbirliği protokolleri, protokol hükümlerinde yer alan sürelerde geçerlidir.
+(3) İşbirliği protokolünün feshi halinde; taşınır mal varlıkları, taşınırın kaydının olduğu tarafa devir tutanağı ile devredilir.

@@ -1,0 +1,4 @@
+Sağlık tesisinin işletilmesi
+MADDE 9 – (1) Birlikte kullanımdaki sağlık tesisi, Bakanlık tarafından bu Yönetmelik hükümleri saklı kalmak kaydıyla, Bakanlığın tabi olduğu mevzuat uyarınca işletilir.
+(2) Sağlık tesisindeki her türlü sağlık ve destek hizmeti, üniversite personelinin sağlık hizmeti sunumu da dâhil olmak üzere Başhekimin sorumluluğundadır. Başhekim, eğitim ve sağlık hizmetlerinin aksamadan ve verimli şekilde yürütülmesi için ilgili mevzuat çerçevesinde her türlü tedbiri almaya yetkilidir ve bu konuda Dekan ile işbirliği içinde çalışır.
+(3) Birlikte kullanılan sağlık tesisleri ve ilgili birimlerde görevli öğretim elemanları ve eğitim görevlileri ile başasistanlar eğitim ve araştırma faaliyetlerinin yanında, ilgili mevzuatında öngörülen nöbetler dâhil, sağlık hizmetlerinin aksatılmadan sürekli bir şekilde yürütülmesine yönelik çalışmaları yerine getirmekle yükümlüdürler.
