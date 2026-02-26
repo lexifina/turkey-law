@@ -1,0 +1,36 @@
+{
+  "checked_on": "2026-11-13",
+  "date_gazette": "33180",
+  "date_quote": "26.02.2026",
+  "first_law": null,
+  "gazette": "33180",
+  "history": "current-text",
+  "images": {
+    "deferred": 0,
+    "omitted": 0,
+    "referenced": 0,
+    "source": 0
+  },
+  "in_force": "2026-02-26",
+  "in_force_basis": "original Resmi Gazete publication date supplied by the official listing",
+  "issuer": "Sanayi ve Teknoloji Bakanlığı",
+  "issuer_catalog_evidence": [
+    {
+      "evidence": "issuer-628-0.json",
+      "id": "628",
+      "label": "Sanayi ve Teknoloji Bakanlığı",
+      "listing_url": "https://www.mevzuat.gov.tr/Anasayfa/MevzuatDatatable?MevzuatTur=Teblig&KurumId=628&start=0&length=100"
+    }
+  ],
+  "issuer_slug": "sanayi-ve-teknoloji-bakanligi",
+  "kind": "communique",
+  "label": "oldest version available",
+  "notes": [],
+  "published": "2026-02-26",
+  "source": "https://www.mevzuat.gov.tr/anasayfa/MevzuatFihristDetayIframe?MevzuatTur=9&MevzuatNo=45044&MevzuatTertip=5",
+  "source_bytes": 19161,
+  "source_id": "9.5.45044",
+  "source_sha256": "20920a2bcf7a2edc4122457f00ba707b6528af959bb7e52b6a908baa896fff79",
+  "title": "MARKA TESCİL BAŞVURULARINA AİT MAL VE HİZMETLERİN\r\nSINIFLANDIRILMASINA İLİŞKİN TEBLİĞ (TÜRKPATENT: 2026/2)",
+  "word_count": 444
+}

@@ -1,0 +1,2 @@
+Amaç
+MADDE 1- (1) Bu Tebliğin amacı, 12/7/1995 tarihli ve 95/7094 sayılı Bakanlar Kurulu Kararı ile taraf olunan Markaların Tescili Amacıyla Mal ve Hizmetlerin Uluslararası Sınıflandırmasına İlişkin Nis Anlaşması hükümlerine göre düzenlenen Nis Sınıflandırmasına uygun olarak, Türk Patent ve Marka Kurumuna (Kurum) yapılan marka tescil başvurularında esas alınacak Mal ve Hizmet Sınıflandırma Listesini (Liste) oluşturmak ve bu listeye ilişkin esasları düzenlemektir.
