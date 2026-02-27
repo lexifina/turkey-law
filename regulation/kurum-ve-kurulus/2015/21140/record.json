@@ -1,0 +1,45 @@
+{
+  "source_id": "7.5.21140",
+  "kind": "regulation",
+  "register_kind": "Kurum ve Kuruluş Yönetmelikleri",
+  "title": "KÜÇÜK MİKTARLARDAKİ YUMURTANIN DOĞRUDAN ARZINA DAİR YÖNETMELİK",
+  "number": "21140",
+  "issuer_slug": "kurum-ve-kurulus",
+  "path": "regulation/kurum-ve-kurulus/2015/21140",
+  "source": "https://www.mevzuat.gov.tr/anasayfa/MevzuatFihristDetayIframe?MevzuatTur=7&MevzuatNo=21140&MevzuatTertip=5",
+  "source_sha256": "7df6397e633317d54f66ff80e0762117cab484bc7f2cf202c54ce72416ec7a76",
+  "source_bytes": 35241,
+  "published": "2015-09-12",
+  "gazette": "29473",
+  "in_force": "2026-02-27",
+  "in_force_basis": "latest Resmî Gazete date printed in the source amendment notes/table (\"RG-27/2/2026\") for the current consolidated text",
+  "date_evidence": [
+    [
+      "2026-02-27",
+      "RG-27/2/2026",
+      "Resmî Gazete date printed in the source amendment note"
+    ],
+    [
+      "2026-02-27",
+      "27/2/2026",
+      "Resmî Gazete date in the source amendment table"
+    ]
+  ],
+  "commencement_clauses": [
+    "Bu Yönetmelik yayımı tarihinde yürürlüğe girer"
+  ],
+  "history": "current-text",
+  "label": "oldest version available",
+  "checked_on": "2026-11-15",
+  "word_count": 1502,
+  "text_status": "current-consolidated",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  },
+  "source_links": [
+    "7.5.21140-EK.docx"
+  ],
+  "completeness": "html-text-complete; linked annexes not fetched"
+}
