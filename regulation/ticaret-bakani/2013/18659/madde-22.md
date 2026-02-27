@@ -1,0 +1,3 @@
+Yükümlülüklerin yerine getirilmesi
+MADDE 22 – (1) Proje sahibi kooperatif, hibe sözleşmesi koşullarına uymadığı takdirde, İl Müdürlüğünün hibe sözleşmesini feshetme hakkı saklıdır. Feshedilen hibe sözleşmeleri İl Müdürlüğünce Bakanlığa ve kooperatife yedi gün içinde bildirilir.
+(2) Kooperatifler; hibe sözleşmesinin feshedilmesi durumunda, feshin tebliğinden itibaren onbeş gün içinde hibe kaynaklarından kendisine yapılmış olan ödemelerin tamamını idareye ödemek zorundadır. Hibe tutarı, ödemenin süresi içinde yapılmaması halinde kooperatif hesabına aktarıldığı tarihten itibaren işleyen kanuni faizi ile birlikte genel hükümlere göre ilgili kooperatiften tahsil edilir.

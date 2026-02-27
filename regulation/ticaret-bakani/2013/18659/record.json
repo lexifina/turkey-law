@@ -1,0 +1,68 @@
+{
+  "source_id": "7.5.18659",
+  "kind": "regulation",
+  "register_kind": "Kurum ve Kuruluş Yönetmelikleri",
+  "title": "KOOPERATİFÇİLİK PROJE DESTEK YÖNETMELİĞİ",
+  "number": "18659",
+  "issuer": "Ticaret Bakanı",
+  "issuer_slug": "ticaret-bakani",
+  "path": "regulation/ticaret-bakani/2013/18659",
+  "source": "https://www.mevzuat.gov.tr/anasayfa/MevzuatFihristDetayIframe?MevzuatTur=7&MevzuatNo=18659&MevzuatTertip=5",
+  "source_sha256": "7411acabf0bcb4a8e520f49b2c6bee43f7755fe3192a7b015b1753894e43aae5",
+  "source_bytes": 57055,
+  "published": "2013-07-30",
+  "gazette": "28723",
+  "in_force": "2026-02-27",
+  "in_force_basis": "latest Resmî Gazete date printed in the source amendment notes/table (\"RG-27/2/2026\") for the current consolidated text",
+  "date_evidence": [
+    [
+      "2026-02-27",
+      "RG-27/2/2026",
+      "Resmî Gazete date printed in the source amendment note"
+    ],
+    [
+      "2026-02-27",
+      "27/2/2026",
+      "Resmî Gazete date in the source amendment table"
+    ],
+    [
+      "2025-01-01",
+      "1/1/2025",
+      "Resmî Gazete date in the source amendment table"
+    ],
+    [
+      "2024-07-20",
+      "RG-20/7/2024",
+      "Resmî Gazete date printed in the source amendment note"
+    ],
+    [
+      "2024-07-20",
+      "20/7/2024",
+      "Resmî Gazete date in the source amendment table"
+    ],
+    [
+      "2020-03-06",
+      "RG-6/3/2020",
+      "Resmî Gazete date printed in the source amendment note"
+    ],
+    [
+      "2020-03-06",
+      "6/3/2020",
+      "Resmî Gazete date in the source amendment table"
+    ]
+  ],
+  "commencement_clauses": [
+    "Bu Yönetmelik yayımı tarihinde yürürlüğe girer"
+  ],
+  "history": "current-text",
+  "label": "oldest version available",
+  "checked_on": "2026-11-15",
+  "word_count": 3650,
+  "text_status": "current-consolidated",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  },
+  "completeness": "html-text-complete"
+}

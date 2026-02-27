@@ -1,0 +1,25 @@
+Tanımlar
+MADDE 4 – (1) Bu Yönetmelikte geçen;
+a) (Değişik:RG-6/3/2020-31060) Bakanlık: Ticaret Bakanlığını,
+b) (Değişik:RG-6/3/2020-31060) Genel Müdürlük: Bakanlık Esnaf, Sanatkârlar ve Kooperatifçilik Genel Müdürlüğünü,
+c) Hibe desteği: Bakanlığın görev alanına giren kooperatiflere bu Yönetmelik hükümleri çerçevesinde geri ödeme olmaksızın verilen nakdi katkıyı,
+ç) Hibeye esas proje tutarı: Hibe sözleşmesine konu edilen projenin her türlü vergi ve sigorta giderleri, asgari geçim indirimi ve harçlar hariç toplam tutarını,
+d) Hibe sözleşmesi: Proje sahibi kooperatif ile İl Müdürü arasında imzalanan ve hibe desteğinden yararlanma esasları ve yükümlülükleri ile tarafların yetki ve sorumluluklarını düzenleyen sözleşmeyi,
+e) (Mülga:RG-27/2/2026-33181)
+f) (Değişik:RG-6/3/2020-31060) İl Müdürlüğü: Ticaret Bakanlığı Ticaret İl Müdürlüğünü,
+g) (Değişik:RG-6/3/2020-31060) İl Müdürü: Ticaret Bakanlığı Ticaret İl Müdürünü,
+ğ) (Değişik:RG-6/3/2020-31060) İl proje komisyonu: Vali veya görevlendireceği vali yardımcısı başkanlığında; İl Müdürü, Sanayi ve Teknoloji İl Müdürü, Tarım ve Orman İl Müdürü, ildeki Kalkınma Ajansı temsilcisi, Ticaret ve Sanayi Odası veya Ticaret Odası temsilcisinin katıldığı en az 5 (beş) kişiden oluşan ve bu Yönetmelik kapsamında hibe başvurularının değerlendirmesini yapan komisyonu,
+h) İl proje yürütme birimi: İl düzeyinde Programın rehberliğinden, projelerin uygulanmasından ve izlenmesinden sorumlu olan, yapılacak iş ve işlemleri İl Müdürlüğü adına yürüten İl Müdürlüğü personeli ile gerektiğinde vali tarafından görevlendirilecek diğer kamu kurumları personelinden oluşan en az üç kişilik birimi,
+ı) İzleme raporu: Proje uygulamalarının kontrolü ve izlenmesi ile ilgili İl proje yürütme birimince hazırlanan raporu,
+i) Kılavuz: Programın uygulanması ve Program kapsamında değerlendirilecek proje konularının, başvuru şartlarının, değerlendirme, uygulama ve denetleme esaslarının belirlendiği bu Yönetmelik doğrultusunda Bakanlıkça hazırlanan Uygulama ve Değerlendirme Kılavuzunu,
+j) Kooperatif: Kuruluş, işleyiş ve denetim işlemlerine ait hizmetleri Bakanlıkça yürütülen kooperatifleri ve bunların üst kuruluşlarını,
+k) Mal alımları: 9 uncu maddede belirtilen mal alımlarını,
+l) Malî bilanço: Bir kooperatifin belirli bir tarihte sahip olduğu varlıklar ile bu varlıkların sağlandığı kaynakları gösteren malî tabloyu,
+m) (Değişik:RG-6/3/2020-31060) Merkez proje komisyonu: İl proje komisyonu tarafından yapılan inceleme ve değerlendirme sonucunda uygun görülen proje başvurularını inceleyip karara bağlayan, Esnaf, Sanatkârlar ve Kooperatifçilik Genel Müdürlüğünden sorumlu Bakan Yardımcısı başkanlığında Esnaf, Sanatkârlar ve Kooperatifçilik Genel Müdürü, ilgili Genel Müdür Yardımcısı ve iki Daire Başkanından oluşan beş kişilik komisyonu,
+n) (Değişik:RG-27/2/2026-33181) Nitelikli personel: 9 uncu maddenin birinci fıkrasının (a) bendine göre hibe desteği verilecek kooperatiflerin projelerine ilişkin olarak istihdam edecekleri en az lisans düzeyinde mezuniyet belgesi bulunan ve Kılavuzda belirtilen nitelik ve koşulları haiz personeli,
+o) Ödeme icmal tablosu: Hibe sözleşmesi imzalayarak projesini tamamlayan kooperatiflerce talep edilen hibe desteği tutarını gösteren ve İl Müdürlüğünce düzenlenen tabloyu,
+ö) Program: Bakanlık tarafından hazırlanan Kooperatiflerin Desteklenmesi Programını,
+p) Proje: Kooperatiflerin Program kapsamında hibe desteğinden yararlanmak için hazırladıkları üretim ve istihdama katkısı olacak yatırım projelerini,
+r) Proje başvuru formu: Hibe desteğinden yararlanmak isteyen kooperatiflerce başvuru amacıyla doldurulan ve Kılavuz ekinde yer alan formu,
+s) Yüklenici: Program kapsamında hibe sözleşmesi akdedilen kooperatif tarafından yapılacak satın alımlara mal ve hizmet sağlayan gerçek ve tüzel kişileri,
+ifade eder.

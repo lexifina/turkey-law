@@ -1,0 +1,4 @@
+Proje harcamalarının kontrolü
+MADDE 26 – (1) Kooperatif, projesini hibe sözleşmesinde belirlenen sürede tamamladıktan sonra ödeme talep formunu ve ekinde mal (Mülga ibare:RG-27/2/2026-33181) alımları için faturayı, nitelikli personel istihdamında ücret tahakkuk bordrosunu, malın teslim alındığına ilişkin teslim tutanağını veya irsaliyeli faturayı ve Kılavuzda belirtilen diğer belgeleri Kılavuzda belirtilen esaslar çerçevesinde İl Müdürlüğüne teslim eder.
+(2) Ödeme ile ilgili asıllarına uygunluğu onaylanmış eklerin bir sureti İl Müdürlüğünce muhafaza edilir. Bakanlık gerekli görmesi halinde ödeme ile ilgili belgeleri incelenmek üzere ister.
+(3) İl Müdürlüğüne teslim edilen ödeme talep formu ve ekindeki ödeme belgeleri proje amaçlarına, hibe sözleşmesi hükümlerine ve ilgili mevzuata uygunluğu açısından onbeş gün içerisinde kontrol edilir ve Kılavuzda belirtilen esaslar çerçevesinde izleme raporu düzenlenir.
