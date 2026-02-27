@@ -1,0 +1,20 @@
+Tanımlar
+MADDE 4- (1) Bu Yönetmelikte geçen;
+a) AKTS: Avrupa Kredi Transfer Sistemini,
+b) Birim: Recep Tayyip Erdoğan Üniversitesine bağlı fakülte, yüksekokul ve meslek yüksekokulunu,
+c) Danışman: Öğrencilere eğitim-öğretim ve benzeri konularda yardımcı olmak üzere görevlendirilen öğretim elemanını,
+ç) Dönem: Eğitim-öğretim yılının her bir yarıyılını,
+d) GANO: Genel akademik not ortalamasını,
+e) İlgili birim kurulu: Fakültelerde fakülte kurulunu, yüksekokullarda yüksekokul kurulunu ve meslek yüksekokullarında meslek yüksekokulu kurulunu,
+f) İlgili birim yönetim kurulu: Fakültelerde fakülte yönetim kurulunu, yüksekokullarda yüksekokul yönetim kurulunu ve meslek yüksekokullarında meslek yüksekokulu yönetim kurulunu,
+g) Kredi: Recep Tayyip Erdoğan Üniversitesine bağlı birimlerde yürütülen her bir dersin ulusal kredi değerini,
+ğ) Muafiyet ve intibak komisyonu: Recep Tayyip Erdoğan Üniversitesine bağlı birimlerdeki muafiyet ve intibak işlemlerini yürüten komisyonu,
+h) ÖSYM: Ölçme, Seçme ve Yerleştirme Merkezini,
+ı) Rektör: Recep Tayyip Erdoğan Üniversitesi Rektörünü,
+i) Senato: Recep Tayyip Erdoğan Üniversitesi Senatosunu,
+j) Üniversite: Recep Tayyip Erdoğan Üniversitesini,
+k) ÜYK: Üniversite Yönetim Kurulunu,
+l) YANO: Yarıyıl akademik not ortalamasını,
+m) Yarıyıl veya yıl süresi: Bir yarıyıla veya yıla ait ders kayıt başlangıç tarihi ile takip eden yarıyıl veya yıl ders kayıt başlangıç tarihi arasındaki süreyi,
+n) YÖK: Yükseköğretim Kurulunu,
+ifade eder.

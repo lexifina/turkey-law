@@ -1,0 +1,4 @@
+Yarıyıl veya yıl sonu sınavı
+MADDE 26- (1) Her dersin yarıyıl veya yıl sonu sınavı, yürütüldüğü yarıyılın veya yılın sonunda yapılır.
+(2) Yarıyıl veya yıl sonu sınavının harf notuna katkısı %60’tır. Yarıyıl veya yıl sonu sınavında 100 puan üzerinden en az 50 puan alınması zorunludur. Yarıyıl veya yıl sonu sınavına girmeyen veya bu sınavdan en az 50 puan alamayan öğrencilere FF harf notu verilir.
+(3) Teorik dersin yarıyıl veya yıl sonu sınavına girebilmek için toplam ders saatinin en az %70’ine devam edilmesi gerekir. Uygulamalı dersin ve uygulaması olan teorik dersin yarıyıl veya yıl sonu sınavına girebilmek için ise toplam ders saatinin en az %80’ine devam edilmesi gerekir. Devam şartını karşılayamayan öğrenci, yarıyıl veya yıl sonu sınavına alınmaz ve bu öğrencilere ilgili ders için D harf notu verilir.

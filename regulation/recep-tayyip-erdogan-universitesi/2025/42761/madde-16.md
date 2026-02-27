@@ -1,0 +1,5 @@
+Ders muafiyeti ve intibak
+MADDE 16- (1) Üniversiteye kesin kayıt yaptıran öğrenciler daha önce aldıkları ve başarılı oldukları dersler için muafiyet başvurusunda bulunabilir. Başvuru, derslerin başlama tarihinden itibaren on iş günü içinde ilgili birime yapılır. Bu sürede muafiyet başvurusunda bulunmayan öğrenci ilgili dönemin tüm derslerinden sorumludur.
+(2) Başvuruların ön değerlendirmesi, en az üç öğretim elemanından oluşan muafiyet ve intibak komisyonunca yapılır. Komisyon öğrencinin muaf tutulmasını uygun gördüğü dersler ile intibak ettirilmesini uygun gördüğü sınıf ve dönemi, ön değerlendirme kapsamında belirler. Ön değerlendirmenin yapıldığı komisyon kararı ilgili birim yönetim kurulunda görüşülerek muafiyet ve intibak işlemlerine karar verilir. Öğrenciler intibaklarının yapıldığı sınıf ve dönem öğrencilerine uygulanan mevzuat hükümlerine tabidir.
+(3) Muafiyet ve intibak komisyonu, bölüm bazlı olarak oluşturulabilir. Ancak sadece bir diploma programının yürütüldüğü birimlerde birim bazlı muafiyet ve intibak komisyonu oluşturulur.
+(4) Ders muafiyeti ve intibakla ilgili diğer hususlar Senato tarafından belirlenen usul ve esaslara göre yürütülür.

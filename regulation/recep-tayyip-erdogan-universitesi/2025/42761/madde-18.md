@@ -1,0 +1,4 @@
+Öğrenci katkı payı ve öğrenim ücreti
+MADDE 18- (1) 2547 sayılı Kanunun 46 ncı maddesi ve diğer ilgili mevzuat hükümleri uyarınca belirlenen katkı payı ve öğrenim ücreti akademik takvimde gösterilen tarih aralığında ödenir. Katkı payı ve öğrenim ücretini ödemeyen öğrenci o dönem için derse kayıt yaptıramaz ve öğrencilik haklarından yararlanamaz. Öğrencinin katkı payı ve öğrenim ücretini ödemediği yarıyıl ve yıl da öğrenim süresinden sayılır.
+(2) Senato tarafından uygun görülmesi hâlinde, birinci ve ikinci öğretim programlarındaki bazı dersler sadece uzaktan öğretim yoluyla yürütülebilir. Ancak bu şekilde yürütülen dersler için öğrencilerden ilave bir ödeme talep edilmez.
+(3) Eğitim-öğretim programındaki derslerini tamamlayan ancak sadece zorunlu stajı kalan öğrencilerden katkı payı ve öğrenim ücreti alınmaz.

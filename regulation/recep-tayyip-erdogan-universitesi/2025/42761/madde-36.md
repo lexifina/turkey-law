@@ -1,0 +1,4 @@
+İlişik kesme
+MADDE 36- (1) Öğrencinin hakkında açılan disiplin soruşturması sonunda yükseköğretim kurumunda çıkarma cezası almış olması, kontenjan sınırlaması olmayan açık öğretim programları hariç aynı anda iki ön lisans ya da lisans programına kayıtlı öğrenci olması veya kesin kayıt işleminin usulüne uygun yapılmadığının ya da kesin kayıt hakkı kazanılmadığının anlaşılması nedeniyle kayıt işleminin iptal edilmesi hâllerinde ilgili birim yönetim kurulu kararı ile öğrencinin Üniversiteden ilişiği kesilir.
+(2) Birim yönetim kurulunun teklifi üzerine ÜYK kararı ve YÖK’ün onayı ile dört yıl üst üste öğrenci katkı payı veya öğrenim ücretinin ödenmemesi ve kayıt yenilenmemesi hâlinde öğrencinin Üniversiteden ilişiği kesilebilir.
+(3) İki yıl üst üste kayıt yenilemeyen veya ücret ödemeyen uluslararası öğrencinin Üniversiteden ilişiği ilgili birim yönetim kurulu kararı ile kesilir. Karar, ilgili öğrenciye ve Öğrenci İşleri Daire Başkanlığına birim tarafından bildirilir.

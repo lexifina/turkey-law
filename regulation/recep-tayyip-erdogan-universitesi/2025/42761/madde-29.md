@@ -1,0 +1,3 @@
+Mazeret sınavı
+MADDE 29- (1) Haklı ve geçerli bir nedenden dolayı ara sınava giremeyen ve mazeretleri ilgili birimin yönetim kurulu tarafından kabul edilen öğrencilere mazeret sınav hakkı verilir. Mazeret sınavı yarıyılın veya yılın son haftasında yapılır. Ancak Hukuk Fakültesinde yürütülen yıllık derslerin mazeret sınavları akademik takvimde gösterilen tarih aralığında yapılır.
+(2) Öğrenci ara sınavların sona erdiği tarihten itibaren en geç on iş günü içinde mazeretini gösterir belgelerle birlikte ilgili birime başvurur. Belirtilen süreden sonra yapılan başvurular kabul edilmez. Mazeret sınavına katılmayan öğrenciler için yeniden sınav yapılmaz.

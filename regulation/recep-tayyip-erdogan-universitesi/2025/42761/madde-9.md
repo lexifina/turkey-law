@@ -1,0 +1,11 @@
+ÜÇÜNCÜ BÖLÜM
+Eğitim-Öğretime İlişkin Esaslar
+Akademik takvim ve eğitim-öğretim yılı
+MADDE 9- (1) Eğitim-öğretim yılı başlangıç ve bitiş tarihleri, sınav tarihleri, kayıt yenileme tarihleri ve benzeri tarihler Senato tarafından belirlenir. Belirlenen tarihler akademik takvimde gösterilerek ilan edilir.
+(2) Eğitim-öğretim planlaması, yarıyıl veya yıl esasına göre düzenlenir. Eğitim-öğretim yılı, güz ve bahar yarıyılı olmak üzere iki yarıyıldan oluşur. Bir yarıyıl on dört ders haftasından, bir eğitim-öğretim yılı ise yirmi sekiz ders haftasından oluşur. Ara sınavlar, yarıyıl ve yıl sonu sınavları ile bütünleme sınavları bu sürelerin dışındadır.
+(3) Yarıyıl esasına göre planlanan eğitim-öğretim programında yıllık derslere yer verilebilir. Bu dersler, güz ve bahar yarıyıllarını kapsar şekilde iki yarıyılda tamamlanır.
+(4) Yıl esasına göre planlanan eğitim-öğretim programında dönemlik derslere yer verilebilir. Bu dersler, güz veya bahar yarıyılında verilebilir.
+(5) Ara sınavlar, akademik takvimde belirtilen tarih aralığında yapılır. Ara sınavların düzenlendiği haftada ders yapılmaz. Ancak Hukuk Fakültesinde yürütülen dönemlik derslerin ara sınavlarının düzenlendiği tarih aralığında yıllık dersler yapılabilir.
+(6) Görevlendirme, rapor ve ilgili mevzuat hükümleri uyarınca mazeret olarak değerlendirilen hâller ile idari izin ve resmî tatil günlerinde yapılamayan ders, dersin sorumlusu öğretim elemanının ve ilgili ders programının uygun olduğu hafta içi günlerinde telafi edilir. Hafta içi telafi dersinin yapılamaması durumunda bu dersin cumartesi günü yapılması esastır. Telafi dersleri için ilgili mevzuat hükümleri uyarınca ek ders ödemesi yapılabilir. Telafi derslerinin uygulanması ve takibine ilişkin işlemler ilgili dekanlık ve müdürlüklerce yürütülür.
+(7) Altıncı fıkra uyarınca yapılacak telafi dersleri için ilgili öğretim elemanı, telafi dersinin yapılması planlanan tarihten en geç yedi iş günü önce ilgili birime başvurur. Telafi dersine ilişkin başvuru ilgili birim yönetim kurulu tarafından telafi dersinin yapılması planlanan tarihten en geç iki iş günü önce görüşülerek karara bağlanır. Karar, ilgili öğretim elemanı ve derse kayıtlı öğrencilere birim tarafından duyurulur.
+(8) Yaz öğretimine ilişkin planlama ve bu öğretimin esasları ilgili mevzuat hükümleri kapsamında Senato tarafından belirlenir.
