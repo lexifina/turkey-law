@@ -1,0 +1,28 @@
+{
+  "number": "month-02",
+  "year": 2026,
+  "month": 2,
+  "title": "Şubat 2026 Olağan Meclis Kararları",
+  "decision_date": null,
+  "index_date": "2026-02-28",
+  "date_precision": "month",
+  "period": "Şubat 2026",
+  "source": "https://www.ladik.bel.tr/dosyalar/11/meclis-kararlari",
+  "official_page": null,
+  "official_document": "https://www.ladik.bel.tr/uploads/Şubat-2026-Olağan-Meclis-Kararları_1.doc",
+  "source_sha256": "725f2d57dfa747c3e0cc275ad09fe5a7da07d7e0d2a6e330bb7b498cb8a698d1",
+  "issuer": "Ladik Belediye Meclisi",
+  "history_type": "metadata",
+  "text_status": "metadata-only: listing fields as published; the decisions are in the linked official document(s) or page, not transcribed",
+  "in_force": "2026-02-28",
+  "in_force_basis": "The official listing gives only the month of this official file (Şubat 2026); date set to the last day of that month (turkey-law date convention for month-only sources); exact adoption dates are in the linked official document; legal commencement not asserted",
+  "missing": [
+    "decision numbers, dates and subjects",
+    "complete official decision text",
+    "official annexes"
+  ],
+  "law_text_complete": false,
+  "privacy_withheld": false,
+  "listing_label": "Şubat 2026 Olağan Meclis Kararları",
+  "record_scope": "one official file of council decisions (meeting or month)"
+}
