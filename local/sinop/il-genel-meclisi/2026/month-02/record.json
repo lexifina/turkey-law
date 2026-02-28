@@ -1,0 +1,29 @@
+{
+  "number": "month-02",
+  "year": 2026,
+  "month": 2,
+  "title": "2026 Şubat Ayı Meclis Kararları",
+  "decision_date": null,
+  "index_date": "2026-02-28",
+  "date_precision": "month",
+  "period": "Şubat 2026",
+  "source": "https://www.sinopozelidare.gov.tr/2026-yili-meclis-kararlari",
+  "official_page": "https://www.sinopozelidare.gov.tr/2026-yili-meclis-kararlari",
+  "official_document": "https://www.sinopozelidare.gov.tr/kurumlar/sinopozelidare.gov.tr/meclis/2026/karar/2026-Yili-Subat-Ayi-Kararlar.docx",
+  "source_sha256": "1dccb5e09d9f031399d63aced1189d2be91c735829a93c86b662f49ec7f5609b",
+  "issuer": "Sinop İl Genel Meclisi",
+  "history_type": "metadata",
+  "text_status": "metadata-only: listing fields as published; the decisions are in the linked official document(s) or page, not transcribed",
+  "in_force": "2026-02-28",
+  "in_force_basis": "The official listing gives only the month of this official file (Şubat 2026); date set to the last day of that month (turkey-law date convention for month-only sources); exact adoption dates are in the linked official document; legal commencement not asserted",
+  "missing": [
+    "decision numbers, dates and subjects",
+    "complete official decision text",
+    "official annexes"
+  ],
+  "law_text_complete": false,
+  "privacy_withheld": false,
+  "listing_label": "2026 Şubat Ayı Meclis Kararları",
+  "record_scope": "one official file of council decisions (meeting or month)",
+  "item_title": "2026 YILI MECLİS KARARLARI"
+}
