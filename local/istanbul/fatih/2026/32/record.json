@@ -1,0 +1,29 @@
+{
+  "number": "32",
+  "number_as_published": "2026/32",
+  "year": 2026,
+  "month": 2,
+  "title": "İstanbul İli, Fatih İlçesi, Hırkai Şerif Mahallesi, 3007 Ada 219 Parselin Bir Kısmına İlişkin TEKLİF-341121382 Plan İşlem Numaralı 1/1000 Ölçekli KAUİP Değişikliği",
+  "decision_date": null,
+  "index_date": "2026-02-28",
+  "date_precision": "month",
+  "period": "Şubat 2026",
+  "source": "https://www.fatih.bel.tr/tr/main/meclis_kararlar?yil=2026&ay=2",
+  "official_page": "https://www.fatih.bel.tr/tr/main/meclis_kararlar/202632/1142",
+  "official_document": null,
+  "source_sha256": "85e8cb0d13a29202f46ed785751b087cede9318a394b940ed7077829b3f5174e",
+  "issuer": "Fatih Belediye Meclisi",
+  "history_type": "metadata",
+  "text_status": "metadata-only: number and subject as published in the official listing; complete decision text is in the linked official page/document, not transcribed",
+  "in_force": "2026-02-28",
+  "in_force_basis": "The official listing gives only the month of this decision (Şubat 2026); date set to the last day of that month (turkey-law date convention for month-only sources); exact adoption dates are in the linked official document; legal commencement not asserted",
+  "missing": [
+    "exact decision date",
+    "complete official decision text",
+    "official annexes"
+  ],
+  "law_text_complete": false,
+  "privacy_withheld": false,
+  "record_scope": "one council decision (number and subject as listed)",
+  "listing_month": "2026-02"
+}
