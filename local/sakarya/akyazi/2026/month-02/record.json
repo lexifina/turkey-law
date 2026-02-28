@@ -1,0 +1,28 @@
+{
+  "number": "month-02",
+  "year": 2026,
+  "month": 2,
+  "title": "AKYAZI BELEDİYESİ ŞUBAT AYI MECLİS TOPLANTISININ 1. BİRLEŞİMİNE AİT 03.021.2026 TARİHLİ KARAR ÖZETİ",
+  "decision_date": null,
+  "index_date": "2026-02-28",
+  "date_precision": "month",
+  "period": "Şubat 2026",
+  "source": "https://www.akyazi.bel.tr/akyazi-belediyesi-subat-ayi-meclis-toplantisinin-1-birlesimine-ait-030212026-tarihli-karar-ozeti",
+  "official_page": "https://www.akyazi.bel.tr/akyazi-belediyesi-subat-ayi-meclis-toplantisinin-1-birlesimine-ait-030212026-tarihli-karar-ozeti",
+  "official_document": "https://www.akyazi.bel.tr/kurumlar/akyazi.bel.tr/Kurumsal/KararOzetleri/2026/02-SUBAT/Karar-Ozeti-03022026.pdf",
+  "source_sha256": "4098d806362aa1042bd747203641e660309394c1d1bc0839f2f6eccaacf520e2",
+  "issuer": "Akyazı Belediye Meclisi",
+  "history_type": "metadata",
+  "text_status": "metadata-only: listing fields as published; the decisions are in the linked official document(s) or page, not transcribed",
+  "in_force": "2026-02-28",
+  "in_force_basis": "The official listing gives only the month of this official file (Şubat 2026); date set to the last day of that month (turkey-law date convention for month-only sources); exact adoption dates are in the linked official document; legal commencement not asserted",
+  "missing": [
+    "decision numbers, dates and subjects",
+    "complete official decision text",
+    "official annexes"
+  ],
+  "law_text_complete": false,
+  "privacy_withheld": false,
+  "listing_label": "AKYAZI BELEDİYESİ ŞUBAT AYI MECLİS TOPLANTISININ 1. BİRLEŞİMİNE AİT 03.021.2026 TARİHLİ KARAR ÖZETİ",
+  "record_scope": "one official file of council decisions (meeting or month)"
+}
