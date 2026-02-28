@@ -1,0 +1,93 @@
+{
+  "source_id": "7.5.24138",
+  "kind": "regulation",
+  "register_kind": "Kurum ve Kuruluş Yönetmelikleri",
+  "title": "YURTDIŞI YÜKSEKÖĞRETİM DİPLOMALARI TANIMA VE DENKLİK YÖNETMELİĞİ",
+  "number": "24138",
+  "issuer": "Yükseköğretim Kurulu Başkanı",
+  "issuer_slug": "yuksekogretim-kurulu-baskani",
+  "path": "regulation/yuksekogretim-kurulu-baskani/2017/24138",
+  "source": "https://www.mevzuat.gov.tr/anasayfa/MevzuatFihristDetayIframe?MevzuatTur=7&MevzuatNo=24138&MevzuatTertip=5",
+  "source_sha256": "26a7f6046351211e054e1353541bd6ec5c21283ce3765705549ff93a89c8b1e0",
+  "source_bytes": 83535,
+  "published": "2017-12-05",
+  "gazette": "30261",
+  "in_force": "2026-02-28",
+  "in_force_basis": "latest Resmî Gazete date printed in the source amendment notes/table (\"RG-28/2/2026\") for the current consolidated text",
+  "date_evidence": [
+    [
+      "2026-02-28",
+      "RG-28/2/2026",
+      "Resmî Gazete date printed in the source amendment note"
+    ],
+    [
+      "2026-02-28",
+      "28/2/2026",
+      "Resmî Gazete date in the source amendment table"
+    ],
+    [
+      "2025-05-14",
+      "14/5/2025",
+      "Resmî Gazete date in the source amendment table"
+    ],
+    [
+      "2024-05-24",
+      "RG-24/5/2024",
+      "Resmî Gazete date printed in the source amendment note"
+    ],
+    [
+      "2024-05-24",
+      "24/5/2024",
+      "Resmî Gazete date in the source amendment table"
+    ],
+    [
+      "2024-03-15",
+      "RG-15/3/2024",
+      "Resmî Gazete date printed in the source amendment note"
+    ],
+    [
+      "2024-03-15",
+      "15/3/2024",
+      "Resmî Gazete date in the source amendment table"
+    ],
+    [
+      "2023-10-20",
+      "RG-20/10/2023",
+      "Resmî Gazete date printed in the source amendment note"
+    ],
+    [
+      "2023-10-20",
+      "20/10/2023",
+      "Resmî Gazete date in the source amendment table"
+    ],
+    [
+      "2023-09-22",
+      "22/09/2023",
+      "Resmî Gazete date in the source amendment table"
+    ],
+    [
+      "2023-08-12",
+      "RG-12/8/2023",
+      "Resmî Gazete date printed in the source amendment note"
+    ],
+    [
+      "2023-08-12",
+      "12/8/2023",
+      "Resmî Gazete date in the source amendment table"
+    ]
+  ],
+  "commencement_clauses": [
+    "Bu Yönetmelik yayımı tarihinde yürürlüğe girer"
+  ],
+  "history": "current-text",
+  "label": "oldest version available",
+  "checked_on": "2026-11-15",
+  "word_count": 4050,
+  "text_status": "current-consolidated",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  },
+  "completeness": "html-text-complete"
+}
