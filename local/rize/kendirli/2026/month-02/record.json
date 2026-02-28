@@ -1,0 +1,28 @@
+{
+  "number": "month-02",
+  "year": 2026,
+  "month": 2,
+  "title": "2026 YILI SUBAT AYI MECLİS KARAR ÖZETİ",
+  "decision_date": null,
+  "index_date": "2026-02-28",
+  "date_precision": "month",
+  "period": "Şubat 2026",
+  "source": "https://www.kendirli.bel.tr/karar/2026-yili-subat-ayi-meclis-karar-ozeti",
+  "official_page": "https://www.kendirli.bel.tr/karar/2026-yili-subat-ayi-meclis-karar-ozeti",
+  "official_document": "http://www.kendirli.bel.tr/uploads/files/221-2026%20%C5%9E%C3%BCbat.pdf",
+  "source_sha256": "c980a2aee011af63cff36c479cec76bbe6615ef636256b2a42252f44c2f89de8",
+  "issuer": "Kendirli Belediye Meclisi",
+  "history_type": "metadata",
+  "text_status": "metadata-only: listing fields as published; the decisions are in the linked official document(s) or page, not transcribed",
+  "in_force": "2026-02-28",
+  "in_force_basis": "The official listing gives only the month of this official file (Şubat 2026); date set to the last day of that month (turkey-law date convention for month-only sources); exact adoption dates are in the linked official document; legal commencement not asserted",
+  "missing": [
+    "decision numbers, dates and subjects",
+    "complete official decision text",
+    "official annexes"
+  ],
+  "law_text_complete": false,
+  "privacy_withheld": false,
+  "listing_label": "2026 YILI SUBAT AYI MECLİS KARAR ÖZETİ",
+  "record_scope": "one official file of council decisions (meeting or month)"
+}
