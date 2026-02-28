@@ -1,0 +1,2 @@
+Giriş çıkış saatleri
+MADDE 15 – (1) Konukevine giriş çıkış saatleri, güvenliği sağlamak amacıyla ve bölgesel koşullar ile kadının durumu dikkate alınarak müdürün teklifi ve ŞÖNİM’in onayı ile belirlenir. Konukevi hizmetlerinden faydalanan kadın yazılı bildirimde bulunmak kaydıyla en çok onbeş gün süre ile konukevinden ayrı bir yerde kalabilir. Bu süre, konukevi hizmetlerinden faydalanma süresinden mahsup edilir.

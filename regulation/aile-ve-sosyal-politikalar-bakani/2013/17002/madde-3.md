@@ -1,0 +1,21 @@
+Tanımlar ve kısaltmalar
+MADDE 3 – (1) Bu Yönetmelikte geçen;
+a) Acil durum plânı: Konukevi çalışanları veya konukevi hizmetinden yararlananların ölüm veya ciddi yaralanmalarına, hizmetin durmasına, faaliyetlerin aksamasına, binanın fiziksel ve çevresel olarak zarar görmesine, yapısının bozulmasına, toplum içindeki itibarının düşmesine neden olabilecek yangın, deprem, su baskını, tehlikeli madde, toplumsal olaylar, saldırı, sabotaj, patlama gibi istem dışı gelişen her türlü olay karşısında yapılacakların yer aldığı plânı,
+b) Bakanlık: Aile ve Sosyal Politikalar Bakanlığını,
+c) Çalışanlar: Konukevi hizmetlerinin sunumunda görev yapanları,
+ç) Değerlendirme komisyonu: Konukevlerinin işleyişi, kadınlar ve çocuklara verilecek hizmetleri tespit ve bu hizmetlerin düzenli olarak yürütülmesini sağlamak amacıyla oluşturulan komisyonu,
+d) Genel Müdürlük: Kadının Statüsü Genel Müdürlüğünü,
+e) İl müdürlüğü: Aile ve Sosyal Politikalar il müdürlüğünü,
+f) İlk kabul birimi: ŞÖNİM’e başvuran kadınlar ve beraberindeki çocukların geçici kabulleri yapılarak ilk gözlemlerinin yapıldığı, tıbbi kontrol ve tedavilerinin sağlandığı, psiko-sosyal ve ekonomik durumlarının incelendiği, iki haftaya kadar kalabilecekleri birimi,
+g) Kadın: Konukevi hizmetlerinden yararlanan kadını,
+ğ) Kanun: 8/3/2012 tarihli ve 6284 sayılı Ailenin Korunması ve Kadına Karşı Şiddetin Önlenmesine Dair Kanunu,
+h) Kodlu kimlik kartı: Kanuna göre barınma tedbiri ile beraber, kimlik bilgileri ve kimliğini ortaya çıkarabilecek bilgileri ve adresleri ile korumanın etkinliği bakımından önem taşıyan diğer bilgilerin tüm resmi kayıtlarda gizli tutulmasına dair tedbir kararı verilen şiddet mağdurlarına ve beraberindeki çocuklarına ŞÖNİM tarafından veri tabanına kaydı yapıldıktan sonra verilen, kodlama suretiyle tanzim edilen ve kamu kurum ve kuruluşlarında yapılacak işlemlerde kadınların konukevinde kaldıklarına dair belge yerine geçmek üzere kullanılan gerektiğinde işlem yapan kurum tarafından ŞÖNİM’den bilgilerinin kontrolünün yapılabileceği, kimlik belgesi olarak kullanılamayan, tedbirin sonlanması ile geri alınan belgeyi,
+ı) Kolluk: Konukevinin sorumluluk bölgesi içinde bulunduğu polis veya jandarma birimini,
+i) Konukevi: Fiziksel, duygusal, cinsel, ekonomik ve sözlü istismara veya şiddete uğrayan kadınların, şiddetten korunması, psiko-sosyal ve ekonomik sorunlarının çözülmesi, güçlendirilmesi ve bu dönemde kadınların varsa çocukları ile birlikte ihtiyaçlarının da karşılanmak suretiyle geçici süreyle kalabilecekleri ve kadın konukevi, sığınmaevi, kadın sığınağı, kadınevi, şefkatevi ve benzeri adlarla açılmış ya da açılacak yatılı sosyal hizmet kuruluşunu,
+j) Müdahale plânı: Kadınların karşılaştığı sorunların çözümü konusunda izlenecek aşamaların belirlenebilmesi amacıyla sorunu ve kişiyi tanıma ve tanımlama, veri toplama, durum saptama, değerlendirme ve sonuçlandırma aşamalarının görülebileceği plânı,
+k) Müdür: Yönetmelik kapsamında açılan konukevlerinin yönetiminden sorumlu kişiyi,
+l) Sivil toplum kuruluşu: Kâr amacı gütmeyen ve kazanç paylaşma amacı dışında kurulmuş dernek ve vakıf gibi özel hukuk tüzel kişilerini,
+m) Sosyal inceleme raporu: Kadın ve varsa beraberindeki çocukları ile gerçekleştirilen görüşme ve gözlem sonrasında, bu kişilere ve sorunlarına ilişkin geçmişinin sosyal, ekonomik ve sağlık durumları, fiziksel, zihinsel, psiko-sosyal özellikleri, aile ve kültür yapılarının değerlendirildiği, sunulacak sosyal hizmetlerin şekil ve niteliğini, sorunun çözümünde uygulanacak müdahale yöntemlerini saptamak amacıyla düzenlenen raporu,
+n) Şiddet: Kişinin fiziksel, cinsel, ekonomik veya psikolojik zarar görmesiyle veya acı çekmesiyle sonuçlanan veya sonuçlanması muhtemel hareketleri, buna yönelik tehdit ve baskıyı ya da özgürlüğünün keyfi engellenmesini de içeren, toplumsal, kamusal veya özel alanda meydana gelen fiziksel, cinsel, ekonomik, psikolojik veya sözlü her türlü tutum ve davranışı,
+o) Şiddet önleme ve izleme merkezi (ŞÖNİM): Şiddetin önlenmesi ile koruyucu ve önleyici tedbirlerin etkin bir biçimde uygulanmasına yönelik güçlendirici ve destekleyici danışmanlık, rehberlik, yönlendirme ve izleme hizmetlerinin verildiği, yeterli ve gerekli personelin görev yaptığı ve tercihen kadın personelin istihdam edildiği, çalışmaların yedi gün yirmi dört saat esasına göre yürütüldüğü merkezleri,
+ifade eder.

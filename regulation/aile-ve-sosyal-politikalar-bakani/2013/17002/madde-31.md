@@ -1,0 +1,4 @@
+Elektronik konukevi sisteminin işleyişi
+MADDE 31 – (1) Bakanlık, belediyeler, il özel idareleri ve sivil toplum kuruluşları tarafından işletilen konukevlerinde kalanlara ait bilgiler ile kapasite ve sayı bilgilerinin her değişiklikle birlikte bulunduğu ilde mevcut ŞÖNİM’e bildirilmesi zorunludur. Veri tabanı oluşturulmasına ve yürütülmesine ilişkin düzenlemeler Bakanlık tarafından yapılır. Bu kapsamda Genel Müdürlük tarafından konukevlerinden istenilen her türlü bilgi ve veri girişi geciktirilmeksizin usulüne uygun olarak sağlanır.
+(2) Elektronik konukevi sisteminde konukevleriyle ilgili olarak elektronik ortamda girilen bilgiler, Genel Müdürlükçe merkezi bir veri tabanında muhafaza edilir.
+(3) Elektronik konukevi sistemine veri girişi konukevi tarafından yapılır, yapılacak işlemlerin takibi için konukevinin bulunduğu ildeki ŞÖNİM’de ve il müdürlüğünde belirlenecek kişilere Genel Müdürlükçe yetki verilir.

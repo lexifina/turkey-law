@@ -1,0 +1,2 @@
+Elektronik konukevi sisteminin kurulması
+MADDE 30 – (1) Konukevleri ve hizmetlerinden yararlananlarla ilgili olarak, Genel Müdürlük bünyesinde tüm kadın konukevlerinin birbirleriyle bağlantısını, doluluk oranının takibini, konukevleri arasındaki sevklerin hızlandırılmasını ve konukevleriyle ilgili güncel analizler yapılabilmesini ve politika üretilmesini sağlamak amacıyla elektronik konukevi sistemi kurulur, veri tabanı ve internet ağı oluşturulur.

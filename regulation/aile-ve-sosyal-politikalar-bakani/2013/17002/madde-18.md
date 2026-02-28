@@ -1,0 +1,3 @@
+Tedbir plânı
+MADDE 18 – (1) Hayati tehlikesi bulunan ve hakkında geçici koruma altına alınmasına dair tedbir kararına hükmedilen şiddet mağduru ve beraberindeki çocukların korunması amacıyla, 11/11/2008 tarihli ve 27051 sayılı Resmî Gazete’de yayımlanan Cumhuriyet Başsavcılıkları ve Mahkemelerce Alınacak Tanık Koruma Tedbirlerine İlişkin Esas ve Usuller Hakkında Yönetmelik hükümleri kapsamında yapılacak işlemlere esas teşkil etmek üzere, kolluk koordinasyonunda, ŞÖNİM veya gerekli görülen hallerde konukevi işbirliği ile bir yıl için hazırlanır.
+(2) Durumun özelliğine göre bu süre bir yıl daha uzatılabilir. ŞÖNİM veya konukevi tarafından uygulanır. Kolluk tarafından, tedbir planı süresince, plan kapsamında yapılan iş ve işlemlerden ŞÖNİM’e bilgi verilir.

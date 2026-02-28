@@ -1,0 +1,2 @@
+Dayanak
+MADDE 2 – (1) Bu Yönetmelik; 22/2/2005 tarihli ve 5302 sayılı İl Özel İdaresi Kanununun 6 ncı, 3/7/2005 tarihli ve 5393 sayılı Belediye Kanununun 14 üncü, 8/3/2012 tarihli ve 6284 sayılı Ailenin Korunması ve Kadına Karşı Şiddetin Önlenmesine Dair Kanunun 22 nci maddeleri ile 3/6/2011 tarihli ve 633 sayılı Aile ve Sosyal Politikalar Bakanlığının Teşkilat ve Görevleri Hakkında Kanun Hükmünde Kararnamenin 2 nci maddesinin birinci fıkrasının (ç) bendine dayanılarak hazırlanmıştır.
