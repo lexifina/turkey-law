@@ -1,0 +1,29 @@
+{
+  "number": "67",
+  "number_as_published": "67",
+  "year": 2026,
+  "month": 2,
+  "title": "Sanayi ve Teknoloji Bakanlığı tarafından düzenlenerek 18.12.2025 tarih ve 33111 sayılı Resmi Gazetede Yayımlanarak Yürürlüğe giren Ölçü ve Ölçü Aletlerinden Alınacak Muayene ve Damgalama Ücret Yönetmeliğinde Değişiklik Yapılmasına Dair Yönetmelik ile; MADDE 1- 8/2/1989 tarihli ve 20074 sayılı Resmi Gazetede yayımlanan Ölçü ve Ölçü Aletlerinden Alınacak Muayene ve Damgalama Ücret Yönetmeliğinin 3’üncü maddesi aşağıda şekilde değiştirilmiştir. MADDE 3-Bu Yönetmelik 3516 sayılı Kanun kapsamındaki ölçü aletlerinin ilk, periyodik ve stok muayeneleri için alınacak ücretler ile elektrik, su ve gaz sayaçları tamir ve ayar istasyonlarında bulunan tamir ve ayar masalarının muayenelerinden alınacak ücretleri kapsar.‘’Birinci fıkrada belirtilen ölçü ve ölçü aletlerinden aşağıda belirlenen ücretler alınır.’’ Hükmü gereğince; 2026 yılı Ölçü Aletlerinden Alınacak Ücretler belirlenmiştir. Bu bağlamda Sanayi ve Teknoloji Bakanlığı tarafından düzenlenip 18.12.2025 tarih ve 33111 sayılı Resmi Gazetede yayımlanarak 01.01.2026 yılında Yürürlüğü giren Yönetmeliğin 1’inci fıkrasında 2026 yılı için belirlenerek alınacak ölçü ve ölçü aletleri ücretlerinin alınmasının uygunluğuna Plan ve Bütçe Komisyonunca oybirliği ile karar verilmiş olup, Belediye Meclisince de komisyon kararının kabulüne oybirliği ile karar verildi",
+  "decision_date": null,
+  "index_date": "2026-02-28",
+  "date_precision": "month",
+  "period": "Şubat 2026",
+  "source": "https://suleymanpasa.bel.tr/meclis-kararlari",
+  "official_page": "https://suleymanpasa.bel.tr/meclis-kararlari",
+  "official_document": null,
+  "source_sha256": "a3d58e794d078cdf2cdbec893458f633a8786bca6293af397d236c0d6fbd00f0",
+  "issuer": "Süleymanpaşa Belediye Meclisi",
+  "history_type": "metadata",
+  "text_status": "metadata-only: number and subject as published in the official listing; complete decision text is in the linked official page/document, not transcribed",
+  "in_force": "2026-02-28",
+  "in_force_basis": "The official listing gives only the month of this decision (Şubat 2026); date set to the last day of that month (turkey-law date convention for month-only sources); exact adoption dates are in the linked official document; legal commencement not asserted",
+  "missing": [
+    "exact decision date",
+    "complete official decision text",
+    "official annexes"
+  ],
+  "law_text_complete": false,
+  "privacy_withheld": false,
+  "record_scope": "one council decision (number and published decision summary)",
+  "sitting": "Birleşim No: 2"
+}
