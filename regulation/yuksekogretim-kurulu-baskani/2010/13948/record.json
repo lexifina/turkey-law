@@ -1,0 +1,90 @@
+{
+  "source_id": "7.5.13948",
+  "kind": "regulation",
+  "register_kind": "Kurum ve Kuruluş Yönetmelikleri",
+  "title": "YÜKSEKÖĞRETİM KURUMLARINDA ÖNLİSANS VE LİSANS DÜZEYİNDEKİ PROGRAMLAR ARASINDA GEÇİŞ, ÇİFT ANADAL, YAN DAL İLE KURUMLAR ARASI KREDİ TRANSFERİ YAPILMASI ESASLARINA İLİŞKİN YÖNETMELİK",
+  "number": "13948",
+  "issuer": "Yükseköğretim Kurulu Başkanı",
+  "issuer_slug": "yuksekogretim-kurulu-baskani",
+  "path": "regulation/yuksekogretim-kurulu-baskani/2010/13948",
+  "source": "https://www.mevzuat.gov.tr/anasayfa/MevzuatFihristDetayIframe?MevzuatTur=7&MevzuatNo=13948&MevzuatTertip=5",
+  "source_sha256": "b9927449902ce468b715899cf03bab8e9e1af6ed68b7aa8ee62618b74ed64dfa",
+  "source_bytes": 111168,
+  "published": "2010-04-24",
+  "gazette": "27561",
+  "in_force": "2026-02-28",
+  "in_force_basis": "latest Resmî Gazete date printed in the source amendment notes/table (\"RG-28/2/2026\") for the current consolidated text",
+  "date_evidence": [
+    [
+      "2026-02-28",
+      "RG-28/2/2026",
+      "Resmî Gazete date printed in the source amendment note"
+    ],
+    [
+      "2026-02-28",
+      "28/2/2026",
+      "Resmî Gazete date in the source amendment table"
+    ],
+    [
+      "2025-07-25",
+      "RG-25/7/2025",
+      "Resmî Gazete date printed in the source amendment note"
+    ],
+    [
+      "2025-07-25",
+      "25/7/2025",
+      "Resmî Gazete date in the source amendment table"
+    ],
+    [
+      "2023-09-26",
+      "RG-26/9/2023",
+      "Resmî Gazete date printed in the source amendment note"
+    ],
+    [
+      "2023-09-26",
+      "26/9/2023",
+      "Resmî Gazete date in the source amendment table"
+    ],
+    [
+      "2023-07-16",
+      "RG-16/7/2023",
+      "Resmî Gazete date printed in the source amendment note"
+    ],
+    [
+      "2023-07-16",
+      "16/7/2023",
+      "Resmî Gazete date in the source amendment table"
+    ],
+    [
+      "2023-01-11",
+      "RG-11/1/2023",
+      "Resmî Gazete date printed in the source amendment note"
+    ],
+    [
+      "2023-01-11",
+      "11/1/2023",
+      "Resmî Gazete date in the source amendment table"
+    ],
+    [
+      "2021-04-17",
+      "RG-17/4/2021",
+      "Resmî Gazete date printed in the source amendment note"
+    ],
+    [
+      "2021-04-17",
+      "17/4/2021",
+      "Resmî Gazete date in the source amendment table"
+    ]
+  ],
+  "history": "current-text",
+  "label": "oldest version available",
+  "checked_on": "2026-11-15",
+  "word_count": 5569,
+  "text_status": "current-consolidated",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  },
+  "completeness": "html-text-complete"
+}

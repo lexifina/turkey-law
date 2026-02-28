@@ -1,0 +1,11 @@
+Değişim programları ve özel öğrenci olarak ders alma
+MADDE 22 – (1) Yurt içinde veya yurt dışında bir yükseköğretim kurumuna kayıtlı olan öğrencinin, ulusal ve uluslararası öğrenci değişim programları kapsamında veya özel öğrenci olarak aynı düzeyde başka bir yükseköğretim kurumundan aldığı ders veya uygulamaların kredileri, ilgili yönetim kurulu kararı ile kayıtlı olduğu diploma programındaki yükümlülüklerinin yerine sayılabilir.
+(2) Öğrencinin özel öğrencilikte ve değişim programında geçirdiği süre, öğretim süresine dahildir.
+(3) (Mülga:RG-2/5/2014-28988)
+(4) (Değişik:RG-26/9/2023-32321)(5) Özel öğrencilik ve değişim programındaki öğrenciler öğrenim ücreti/katkı payını kayıtlı olduğu yükseköğretim kurumuna öder. Ancak, vakıf yükseköğretim kurumlarında kayıtlı öğrencilerin ödemiş olduğu öğrenim ücretinin %80’i kayıtlı olduğu vakıf yükseköğretim kurumu tarafından özel öğrenci olarak öğrenim görmekte olduğu yükseköğretim kurumuna aktarılır.
+(5) Özel öğrenci olarak yaz okullarına katılacak öğrenciler, yaz okulu ücretini dersi aldıkları yükseköğretim kurumuna öderler.
+(6) Öğretim dili Türkçe olan programlarda öğrenim gören öğrencilerin öğretim dili yabancı dil olan programlardan da ders alabilmeleri için yabancı dil düzeylerinin yeterli olduğunu belgelemeleri gerekir.
+(7) (Ek:RG-17/4/2021-31457)(3) Özel öğrencilik imkanından bir program süresince en fazla iki dönem yararlanılır. Bu süre, öğrencinin talebi ve ancak aşağıdaki şartlar çerçevesinde Yükseköğretim Kurulunun kararıyla uzatılabilir:
+a) Öğrencinin, yükseköğretim kurumuna yerleşmesinden sonra eğitimi sebebiyle ikamet edilen ilde tedavisi mümkün olmayan ciddi bir hastalık teşhisi konulduğunun ya da var olan hastalığın ilerlediğinin devlet hastanesi veya devlet üniversitesi hastanesinden alınmış sağlık kurulu raporu ile belgelenmiş olması.
+b) Öğrencinin, maruz kaldığı darp, şiddet gibi fiiller sebebiyle öğrenimini kayıtlı olduğu yükseköğretim kurumunda devam ettirmesinin mümkün olmadığına ilişkin üniversite yönetim kurulunun teklifinin olması.
+(8) (Ek:RG-17/4/2021-31457)(3) Yurt dışındaki yükseköğretim kurumlarında eğitim alan Türk vatandaşı öğrenciler, özel öğrencilik imkanından en fazla iki dönem yararlanabilir.

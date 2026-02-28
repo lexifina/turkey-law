@@ -1,0 +1,4 @@
+Krediler
+MADDE 20 – (1) Yandal programına başvurusu kabul edilen öğrenci, yandal programı kapsamında, senato kararı ile belirlenmiş olan dersleri almak ve bu dersleri başarmak zorundadır. Bu dersler ilgili bölümler arasında kararlaştırılır, ilgili fakülte kurullarının ve üniversite senatosunun onayına sunulur.
+(2) (Değişik:RG-2/5/2014-28988) Yandal programına devam edebilmesi için öğrencinin anadal programındaki not ortalamasının en az 100 üzerinden 60 olması şarttır. Bu şartı sağlayamayan öğrencinin yandal programından kaydı silinir. Öğrencinin başarılı olduğu ve anadal programına sayılmayan dersler, genel not ortalamasına dahil edilmeksizin transkript ve diploma ekinde yer alır.
+(3) (Değişik:RG-18/3/2016-29657) Anadal programından mezuniyet hakkını elde eden ancak yandal programını bitiremeyen öğrencilere ilgili yönetim kurullarının kararı ile en fazla iki yarıyıl ek süre tanınır.

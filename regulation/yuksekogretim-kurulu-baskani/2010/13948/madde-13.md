@@ -1,0 +1,5 @@
+Diğer yükseköğretim kurumlarından yatay geçiş
+MADDE 13 – (1) (Değişik ibare:RG-21/12/2019-30985) Milli Savunma Bakanlığı ve İçişleri Bakanlığına ve bağlı yükseköğretim kurumlarında önlisans ve lisans düzeyinde öğretime devam eden öğrenciler kendi özel kanunlarınca düzenlenen hükümler çerçevesinde ve bu Yönetmeliğin konuyla ilgili hükümlerine uygun olarak diğer yükseköğretim kurumlarına yatay geçiş yapabilirler.
+(2) (Değişik:RG-25/7/2025-32966) (Danıştay Sekizinci Dairesinin 14/5/2026 tarihli ve E.:2025/5218 sayılı kararı ile yürütmesi durdurulan fıkra: Bu kurumlardan 4/11/1981 tarihli ve 2547 sayılı Yükseköğretim Kanununun 54 üncü maddesinin birinci fıkrasının (d) bendinde sayılan fiiller nedeniyle ilişiği kesilenler diğer yükseköğretim kurumlarına yatay geçiş için başvuramazlar. )
+(3) İkinci fıkra kapsamına girmeyen bir gerekçe ile birinci fıkra kapsamındaki yükseköğretim kurumlarından ilişiği kesilen öğrenciler, ilişiklerinin kesildiği tarihten itibaren iki yıl içinde diğer yükseköğretim kurumlarına geçiş için başvurabilir. Bu başvurular kurumlararası yatay geçiş hükümlerine göre değerlendirilir.
+(4) (Ek:RG-16/8/2011-28027) (Mülga:RG-21/12/2019-30985)
