@@ -1,0 +1,2 @@
+Yükümlülük
+MADDE 6- (1) Elektrik ile ilgili fen adamları; ilgili idarelere karşı bu Yönetmelikte belirlenen yetkilerine ve ihtisas ile iştigal konularına göre, aldıkları işlerin yürürlükteki kanuna, yönetmeliğe, imar planına, ruhsat ve eki projelerine, Türk Standardlarına, teknik şartnamelere, iş sağlığı ve güvenliği mevzuatına, ilgili diğer mevzuat hükümlerine, fen, sanat ve sağlık kurallarına uygun olarak tamamlanmasından yükümlü ve sorumludur.
