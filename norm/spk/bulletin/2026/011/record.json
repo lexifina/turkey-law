@@ -1,0 +1,20 @@
+{
+  "kind": "norm",
+  "issuer": "Sermaye Piyasası Kurulu",
+  "document_type": "bulletin",
+  "number": "2026/11",
+  "date": "2026-03-01",
+  "title": "SPK Bülteni 2026/11",
+  "source": "https://spk.gov.tr/data/69a4a3df8f95db22c4ee7981/2026-11.pdf",
+  "source_sha256": "19003798d353781880b7250c7ba3ce72cfe9415081da5925eb7291aeb813a7a0",
+  "text_status": "as-enacted",
+  "text_file": "metin.md",
+  "personal_data": "sanction/person-naming sections omitted; official link retained in ledger",
+  "omitted_sections": [],
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0,
+    "decorative_or_non_normative": 1
+  }
+}
