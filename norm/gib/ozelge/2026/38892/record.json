@@ -1,0 +1,22 @@
+{
+  "kind": "norm",
+  "issuer": "Gelir İdaresi Başkanlığı",
+  "document_type": "ozelge",
+  "number": "E-31435689-120-48570",
+  "source_id": 38892,
+  "date": "2026-03-02",
+  "title": "İnstagram Üzerinden Verilen E-Kitap Tanıtımı ve Zoom Üzerinden Verilen Kişisel Gelişime Yönelik Kursların GVK Mükerrer 20/B Kapsamında Değerlendirilip Değerlendirilmeyeceği",
+  "source": "https://gib.gov.tr/mevzuat/kanun/433/ozelge/38892",
+  "related_law": "193 sayılı GELİR VERGİSİ KANUNU",
+  "source_api": "https://gib.gov.tr/api/gibportal/mevzuat/ozelge/list",
+  "source_listing": "evidence/list/2026-11-16/ozelge-p009.json",
+  "source_listing_sha256": "9cb52b4963a9a177a23948f6e28c12936c2f43c88a0b410872bb81c01983667c",
+  "source_sha256": "f8719b1a69123c242650bed3e6e0277244a248ea066fa85aaafc62ae9f5601be",
+  "text_status": "as-enacted",
+  "text_file": "metin.md",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  }
+}
