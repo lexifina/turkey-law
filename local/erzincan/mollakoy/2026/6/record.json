@@ -1,0 +1,26 @@
+{
+  "number": "6",
+  "number_as_published": "06",
+  "year": 2026,
+  "title": "Belediye Hizmetlerinde kullanmak üzere 1 adet pikap ile 1 adet kepçenin satın alınmasın.",
+  "decision_date": "2026-03-03",
+  "source": "https://www.mollakoy.bel.tr/meclis-kararlari/sayfa/2/",
+  "official_document": "https://www.mollakoy.bel.tr/karar/belediye-hizmetlerinde-kullanmak-uzere-1-adet-pikap-ile-1-adet-kepcenin-satin-alinmasin/105/",
+  "source_sha256": "e15cca963898c4e359bc4da73a0bef889a4b81ebe182643a0661cac29f9fac39",
+  "issuer": "Mollaköy Belediye Meclisi",
+  "history_type": "metadata",
+  "text_status": "metadata-only: listing fields as published; complete decision text is in the linked official document, not transcribed",
+  "in_force": "2026-03-03",
+  "in_force_basis": "Decision date as printed in the official council listing: meclisi 03.03.2026; adoption date of the council decision; legal commencement not asserted",
+  "missing": [
+    "complete official decision text",
+    "official annexes"
+  ],
+  "law_text_complete": false,
+  "privacy_withheld": false,
+  "official_page": "https://www.mollakoy.bel.tr/karar/belediye-hizmetlerinde-kullanmak-uzere-1-adet-pikap-ile-1-adet-kepcenin-satin-alinmasin/105/",
+  "listing_label": "Belediye Hizmetlerinde kullanmak üzere 1 adet pikap ile 1 adet kepçenin satın alınmasın.",
+  "record_scope": "one council decision (number, date, subject as published)",
+  "date_read_from": "meeting date in the decision text (the item's Karar Tarihi field carries a clock time)",
+  "document_note": "the decision text is on the official item page; not transcribed here"
+}
