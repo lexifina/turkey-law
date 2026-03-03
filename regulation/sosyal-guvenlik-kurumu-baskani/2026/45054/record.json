@@ -1,0 +1,31 @@
+{
+  "source_id": "7.5.45054",
+  "kind": "regulation",
+  "register_kind": "Kurum ve Kuruluş Yönetmelikleri",
+  "title": "SOSYAL GÜVENLİK KURUMU KLİNİK ARAŞTIRMALARDA SUNULAN SAĞLIK HİZMETLERİNİN ÖDENMESİNE İLİŞKİN YÖNETMELİK",
+  "number": "45054",
+  "issuer": "Sosyal Güvenlik Kurumu Başkanı",
+  "issuer_slug": "sosyal-guvenlik-kurumu-baskani",
+  "path": "regulation/sosyal-guvenlik-kurumu-baskani/2026/45054",
+  "source": "https://www.mevzuat.gov.tr/anasayfa/MevzuatFihristDetayIframe?MevzuatTur=7&MevzuatNo=45054&MevzuatTertip=5",
+  "source_sha256": "9ce00966ca8b097ca5a7d2c6d75e0368d3d4d0ae752204ae7c37133cf3529a0f",
+  "source_bytes": 20718,
+  "published": "2026-03-03",
+  "gazette": "33185",
+  "in_force": "2026-03-03",
+  "in_force_basis": "Resmî Gazete publication date in the official listing (03.03.2026); own commencement article: \"Bu Yönetmelik yayımı tarihinde yürürlüğe girer\"",
+  "commencement_clauses": [
+    "Bu Yönetmelik yayımı tarihinde yürürlüğe girer"
+  ],
+  "history": "current-text",
+  "label": "oldest version available",
+  "checked_on": "2026-11-15",
+  "word_count": 811,
+  "text_status": "current-consolidated",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  },
+  "completeness": "html-text-complete"
+}
