@@ -1,0 +1,20 @@
+{
+  "record_type": "gazette-item",
+  "gazette": "Resmî Gazete",
+  "jurisdiction": "TR",
+  "date": "2026-03-04",
+  "issue": "33186",
+  "edition": "regular",
+  "item": 2,
+  "section": "YÜRÜTME VE İDARE BÖLÜMÜ",
+  "heading": "TEBLİĞ",
+  "title": "Belediye Gelirleri Kanunu Genel Tebliği (Seri No: 2026/1)",
+  "official_link": "https://www.resmigazete.gov.tr/eskiler/2026/03/20260304-2.htm",
+  "link_format": "htm",
+  "index_url": "https://www.resmigazete.gov.tr/eskiler/2026/03/20260304.htm",
+  "index_sha256": "52d87a56db47ccb3c993f8ae4ddd5d15f3b9b34bedd84000742e83c581438504",
+  "index_header": "4 Mart 2026 ... 33186 Sayılı Resmî Gazete",
+  "issue_pdf": "https://www.resmigazete.gov.tr/eskiler/2026/03/20260304.pdf",
+  "in_force_basis": "Resmî Gazete publication date; not a commencement reading.",
+  "text_status": "metadata-only; text not yet fetched (follow-up pass adds it as its own commit)"
+}
