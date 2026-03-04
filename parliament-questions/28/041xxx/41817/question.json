@@ -1,0 +1,21 @@
+{
+  "record_type": "parliament-written-question",
+  "term": 28,
+  "legislative_year": 4,
+  "esas_no": "7/41817",
+  "submitted": "2026-03-04",
+  "submitted_as": "Başkanlığa geliş tarihi",
+  "mp": "Evrim RIZVANOĞLU EMİR",
+  "province": "İstanbul",
+  "summary": "Muş'un Varto ilçesine bağlı Güzelkent Mahallesi'nde yürütülmesi planlanan jeotermal kaynak arama faaliyetlerine ilişkin",
+  "status": "Cevaplanmadığı Gelen Kağıtlarda İlan Edildi",
+  "status_as_of": "2026-11-16",
+  "official_record": "https://www.tbmm.gov.tr/Denetim/Yazili-Soru-Onergesi-Detay/6ce6759e-99af-4034-a9dc-019cbdc4f285",
+  "source": "https://tbmm.gov.tr/Denetim/YaziliSoruOnergesiTable",
+  "source_form": "https://tbmm.gov.tr/Denetim/Yazili-Soru-Onergeleri",
+  "source_sha256": "a15f2b775298ee6a7fa97f9c0ce870c36e480eb66eef7df60d041c013a4aae78",
+  "in_force": "2026-03-04",
+  "in_force_basis": "Date the question reached the Speaker (Başkanlığa geliş tarihi) in the official TBMM written-question record; parliamentary oversight record, not law",
+  "history_type": "metadata",
+  "text_status": "metadata-only: question text, addressee and answers are in the linked official record (PDFs on cdn.tbmm.gov.tr); not transcribed here"
+}
