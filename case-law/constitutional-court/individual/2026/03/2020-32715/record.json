@@ -1,0 +1,20 @@
+{
+  "applicant": "R.T.M.S.H.",
+  "application_date": "2020-10-22",
+  "application_number": "2020/32715",
+  "deciding_unit": "Birinci Bölüm",
+  "decision_date": "2026-03-04",
+  "id": "358c21e1-658e-4d3f-8e76-1402398072d7",
+  "in_force": "2026-03-04",
+  "in_force_basis": "official decision date",
+  "kind": "constitutional-court-individual-application",
+  "omitted_images": 0,
+  "outcome": "Esas (İhlal Olmadığı)",
+  "published": null,
+  "referenced_images": 0,
+  "source": "https://kararlarbilgibankasi.anayasa.gov.tr/kbb/pages/search/Tumu?id=a2JiOjM1OGMyMWUxLTY1OGUtNGQzZi04ZTc2LTE0MDIzOTgwNzJkNw&type=BireyselBasvuru",
+  "source_api": "https://kararlarbilgibankasi.anayasa.gov.tr/api/core/public/search",
+  "source_images": 0,
+  "source_sha256": "01a89687765a71e89bd52315a8ceca7ec8b16672a09497e376acc7ce9fbac34d",
+  "version_label": "as-enacted"
+}
