@@ -1,0 +1,20 @@
+{
+  "applicant": "S.N.",
+  "application_date": "2022-12-01",
+  "application_number": "2022/102062",
+  "deciding_unit": "Birinci Bölüm",
+  "decision_date": "2026-03-04",
+  "id": "daf8f775-3294-4671-9ae7-c77bc0912d5a",
+  "in_force": "2026-03-04",
+  "in_force_basis": "official decision date",
+  "kind": "constitutional-court-individual-application",
+  "omitted_images": 0,
+  "outcome": "Kabul Edilemezlik vd.",
+  "published": null,
+  "referenced_images": 0,
+  "source": "https://kararlarbilgibankasi.anayasa.gov.tr/kbb/pages/search/Tumu?id=a2JiOmRhZjhmNzc1LTMyOTQtNDY3MS05YWU3LWM3N2JjMDkxMmQ1YQ&type=BireyselBasvuru",
+  "source_api": "https://kararlarbilgibankasi.anayasa.gov.tr/api/core/public/search",
+  "source_images": 0,
+  "source_sha256": "45285ed82a65cc8945b3dce1f46165049f92b2ebbeceb68a17fc098f237ef64c",
+  "version_label": "as-enacted"
+}
