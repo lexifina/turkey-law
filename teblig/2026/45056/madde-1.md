@@ -1,0 +1,1 @@
+MADDE 1- (1) 26/5/1981 tarihli ve 2464 sayılı Belediye Gelirleri Kanununun 95 inci maddesi gereğince, nüfusları ile ekonomik ve sosyal gelişme durumlarına göre hazırlanan belediye grupları ekli listede gösterilmiştir.
