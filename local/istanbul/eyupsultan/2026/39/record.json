@@ -1,0 +1,22 @@
+{
+  "number": "39",
+  "number_as_published": "2026/39",
+  "year": 2026,
+  "title": "Hisseli mülkiyetlerimizin satışı",
+  "decision_date": "2026-03-05",
+  "source": "https://eyupsultan.bel.tr/tr/main/pages/2026-mart-ayi-meclis-kararlari/2807",
+  "official_document": "https://eyupsultan.bel.tr/tr/main/pages/2026-39/2810",
+  "source_sha256": "c0cb8228a83036f72fad4660eee7a1c3bcb29593a0ce0fc493fc6a3ce1dadd78",
+  "issuer": "Eyüpsultan Belediye Meclisi",
+  "history_type": "metadata",
+  "text_status": "metadata-only: listing fields as published; complete decision text is in the linked official document, not transcribed",
+  "in_force": "2026-03-05",
+  "in_force_basis": "Decision date as printed in the official council listing: 05.03.2026 (meeting date at the start of the decision page); adoption date of the council decision; legal commencement not asserted",
+  "missing": [
+    "complete official decision text",
+    "official annexes"
+  ],
+  "law_text_complete": false,
+  "privacy_withheld": false,
+  "decision_page_sha256": "911c474c6aa8f0d6de7c98be3a61064acbade15dabd263273438237d10d2b841"
+}
