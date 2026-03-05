@@ -1,0 +1,24 @@
+{
+  "number": "meeting-03-05",
+  "number_as_published": "meeting-03-05",
+  "year": 2026,
+  "title": "2026 Yılı Mart Ayı Meclis Karar Özetleri 05 Mart 2026 10:00",
+  "decision_date": "2026-03-05",
+  "source": "https://www.ulus.bel.tr/karar/2026-yili-mart-ayi-meclis-karar-ozetleri/107/",
+  "official_document": "https://www.ulus.bel.tr/dosya/meclis/dosyalar/meclis-karar-ozetleri8.pdf",
+  "source_sha256": "1e875792a2fba734c6701dcc9099ad9012e9d40eaddf38c753d3825538d33781",
+  "issuer": "Ulus Belediye Meclisi",
+  "history_type": "metadata",
+  "text_status": "metadata-only: listing fields as published; complete decision text is in the linked official document, not transcribed",
+  "in_force": "2026-03-05",
+  "in_force_basis": "Decision date as printed in the official council listing: 05 MART 2026; adoption date of the council decision; legal commencement not asserted",
+  "missing": [
+    "complete official decision text",
+    "official annexes"
+  ],
+  "law_text_complete": false,
+  "privacy_withheld": false,
+  "listing_label": "2026 Yılı Mart Ayı Meclis Karar Özetleri 05 Mart 2026 10:00",
+  "record_scope": "one official file of council decisions (meeting)",
+  "official_page": "https://www.ulus.bel.tr/karar/2026-yili-mart-ayi-meclis-karar-ozetleri/107/"
+}
