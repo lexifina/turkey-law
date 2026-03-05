@@ -1,0 +1,28 @@
+{
+  "number": "33",
+  "number_as_published": "Meclis Kararları 05.03.2026-33",
+  "year": 2026,
+  "title": "Meclis Kararları 05.03.2026-33",
+  "decision_date": "2026-03-05",
+  "source": "https://www.tuzla.bel.tr/api/public/kurumsal/meclis-encumen/meclis-kararlari?page=1&limit=100",
+  "official_document": "https://www.tuzla.bel.tr/uploads/documents/meclis-kararlari/2026033_Iptal_ve_Ihdas_1777302184155_pdfs6e0s548.pdf",
+  "source_sha256": "92fdb2665d79ab4a96b25ee2a5f6283dd5988725356717a6c9826c7247c843e3",
+  "issuer": "Tuzla Belediye Meclisi",
+  "history_type": "metadata",
+  "text_status": "metadata-only: listing fields as published; complete decision text is in the linked official document, not transcribed",
+  "in_force": "2026-03-05",
+  "in_force_basis": "Decision date as printed in the official council listing: Meclis Kararları 05.03.2026-33 (official title); adoption date of the council decision; legal commencement not asserted",
+  "missing": [
+    "complete official decision text",
+    "official annexes"
+  ],
+  "law_text_complete": false,
+  "privacy_withheld": false,
+  "listing_page": "https://www.tuzla.bel.tr/kurumsal/meclis-encumen/meclis-kararlari",
+  "official_documents": [
+    "https://www.tuzla.bel.tr/uploads/documents/meclis-kararlari/2026033_Iptal_ve_Ihdas_1777302184155_pdfs6e0s548.pdf"
+  ],
+  "document_filename": "2026033_Iptal_ve_Ihdas.pdf",
+  "record_scope": "one council decision",
+  "official_page": "https://www.tuzla.bel.tr/kurumsal/meclis-encumen/meclis-kararlari/meclis-kararlari-05032026-33-2026-03-05"
+}
