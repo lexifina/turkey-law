@@ -1,0 +1,17 @@
+{
+  "kind": "decision",
+  "issuer": "Sayıştay 1. Dairesi",
+  "number": "10982",
+  "decision_date": "2026-03-05",
+  "source_id": 40300,
+  "chamber": "1",
+  "ilam_number": "113",
+  "item_number": 1,
+  "public_body_type": "Yüksek Öğretim Kurumları",
+  "account_year": 2022,
+  "subject": "Personel Mevzuatı ile İlgili Kararlar",
+  "source": "https://www.sayistay.gov.tr/KararlarDaire/Detay/40300/",
+  "source_sha256": "43805ed9f2f9981dcae119d74d900ea591e42038b364ea2aa2b4cfacf71809a8",
+  "text_status": "as-enacted",
+  "text_file": "metin.md"
+}
