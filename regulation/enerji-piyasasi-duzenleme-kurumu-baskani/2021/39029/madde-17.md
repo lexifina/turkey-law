@@ -1,0 +1,3 @@
+Kıymet takdir komisyonu ve bedel tespiti
+MADDE 17 – (1) Tahmini kamulaştırma ve/veya devir bedelini tespit etmek amacıyla Başkan tarafından en az üç kişiden oluşan bir veya birden fazla kıymet takdir komisyonu görevlendirilir.
+(2) Bedel tespitine esas olmak üzere Kurum veya önlisans/lisans sahibi tüzel kişi tarafından değerleme raporu hazırlattırılır. Değerleme raporları, Kanunun 15 inci maddesinde belirtilen niteliklere haiz kişiler tarafından, Kanunun 11 inci ve 12 nci maddelerine uygun olarak düzenlenir. Kıymet takdir komisyonu, değerleme raporlarını ve/veya taşınmazın bedelinin tespitine ilişkin mahkeme kararını esas alarak veya gerekmesi halinde doğrudan, kıymet takdir raporunu düzenler.

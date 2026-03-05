@@ -1,0 +1,3 @@
+Tahsis amacı değişikliği
+MADDE 12 – (1) Bu Yönetmelik kapsamında yapılacak taşınmaz temini işlemlerine konu taşınmazların 25/2/1998 tarihli ve 4342 sayılı Mera Kanunu kapsamında yer alması halinde, tahsis amacı değişikliği talebi, Tarım ve Orman Bakanlığı tarafından belirlenen bilgi ve belgelere uygun olarak hazırlanan dosya ile birlikte Kuruma yapılır. Kurumca uygun görülen talep, hazırlanan dosya ile birlikte 4342 sayılı Kanun gereğince işlem tesis edilmek üzere ilgili valiliğe iletilir.
+(2) Tahsis amacı değişikliği yapılarak Hazine adına tescil edilen taşınmazlar hakkında önlisans/lisans sahibi özel hukuk tüzel kişisinin talebi üzerine, 24 üncü ve 26 ncı maddelere göre işlemler yürütülür.

@@ -1,0 +1,2 @@
+Zeytinlik alanları
+MADDE 11 – (1) Bu Yönetmelik kapsamında yapılacak taşınmaz temini işlemlerine konu zeytinlik alanların amaç dışı kullanım talebi, Tarım ve Orman Bakanlığı tarafından belirlenen bilgi ve belgelere uygun olarak hazırlanan dosya ile birlikte Kuruma yapılır. Talep Kurul/Kurum tarafından değerlendirildikten sonra 26/1/1939 tarihli ve 3573 sayılı Zeytinciliğin Islahı ve Yabanilerinin Aşılattırılması Hakkında Kanununa göre işlem tesis edilmek üzere ilgili valiliğe iletilir.

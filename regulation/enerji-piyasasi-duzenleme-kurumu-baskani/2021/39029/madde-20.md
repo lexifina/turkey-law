@@ -1,0 +1,2 @@
+Bedel tespiti ve tescil davası
+MADDE 20 – (1) Taşınmaz malikinin uzlaşma toplantısına katılmaması, uzlaşmayı kabul etmemesi veya uzlaşma tutanağını imzalamaktan imtina etmesi durumlarında uzlaşmazlık tutanağı düzenlenir. Uzlaşmazlık tutanağı düzenlenen taşınmazlar hakkında Başkan tarafından verilen vekaletname hükümleri çerçevesinde yetkilendirilmiş ve/veya görevlendirilmiş avukat tarafından Kurumca yapılan bildirimden itibaren otuz gün içerisinde Kanunun 10 uncu maddesi çerçevesinde yetkili Asliye Hukuk Mahkemesinde bedel tespiti ve tescil davası açılır.

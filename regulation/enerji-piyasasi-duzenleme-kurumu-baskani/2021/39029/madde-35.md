@@ -1,0 +1,2 @@
+Teminatın iadesi
+MADDE 35 – (1) Taşınmaz temini işlemlerine ilişkin yükümlülüklerin yerine getirildiğinin önlisans/lisans sahibi özel hukuk tüzel kişileri tarafından belgelenmesi ve yine taşınmaz temini işlemleri nedeniyle Kurum aleyhine sonradan ortaya çıkacak bedellerin karşılanacağının taahhüt edilmesi halinde Kuruma sunulan teminat iade edilebilir. Yükümlülüklerin bir kısmının yerine getirildiğinin belgelenmesi halinde ise tamamlanmayan işlemler için Kurum tarafından belirlenecek yeni bir teminatın Kuruma sunulması durumunda daha önce verilen teminat iade edilebilir.

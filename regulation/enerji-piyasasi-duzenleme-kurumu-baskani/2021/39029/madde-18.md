@@ -1,0 +1,3 @@
+Tebligat
+MADDE 18 – (1) Kamulaştırılmasına karar verilen taşınmazı pazarlıkla satın almak için toplantı yeri, tarihi ve saati ile kamulaştırma işlemlerine ilişkin bilgilerin yer aldığı tebligat metni resmi yazı ile taşınmazın her bir malikinin bilinen en son adresine veya adres kayıt sisteminde yer alan adresine 11/2/1959 tarihli ve 7201 sayılı Tebligat Kanunu ile 6/12/2018 tarihli ve 30617 sayılı Resmî Gazete’de yayımlanan Elektronik Tebligat Yönetmeliği hükümlerine göre Kurum tarafından tebliğ edilir.
+(2) Birden fazla taşınmazı kamulaştırılan malike, kamulaştırılan taşınmazlarının tamamı listelenerek tek bir tebligat gönderilebilir. Tebligatlar toplantı tarihinin en az on beş gün öncesinden gönderilir.

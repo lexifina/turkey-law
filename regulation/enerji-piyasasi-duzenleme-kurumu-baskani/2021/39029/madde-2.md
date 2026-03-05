@@ -1,0 +1,2 @@
+Kapsam
+MADDE 2 – (1) Bu Yönetmelik; 18/4/2001 tarihli ve 4646 sayılı Doğal Gaz Piyasası Kanunu, 4/12/2003 tarihli ve 5015 sayılı Petrol Piyasası Kanunu ile 14/3/2013 tarihli ve 6446 sayılı Elektrik Piyasası Kanunu çerçevesinde Kurum tarafından yapılacak taşınmaz temini işlemleri ile Kurumun ve önlisans/lisans sahibi tüzel kişilerin görev, yetki ve sorumluluklarının belirlenmesine ilişkin hükümleri kapsar.

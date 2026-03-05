@@ -1,0 +1,3 @@
+Vekaletin sonlanması
+MADDE 32 – (1) Vekil tayin edilen avukat, Başkan tarafından azledilebilir. Vekaletname ile yetkilendirilen avukat önceden Kuruma yazılı olarak başvurmak şartı ile vekillikten çekilebilir. Vekillikten çekilen avukata azil hükümleri uygulanır. Ölüm, avukatlık yetkisinin kaybedilmesi, avukatlık ruhsatnamesinin iptali durumunda vekalet ilişkisi kendiliğinden sona erer.
+(2) Avukatın azli, istifası veya hak ve yetkisini kaybetmesinden kaynaklanan her türlü sorumluluk ile 19/3/1969 tarihli ve 1136 sayılı Avukatlık Kanunu hükümlerinden ve vekalet ve ücret sözleşmesinden kaynaklı her türlü hak ve alacakların ödenmesi yükümlülüğü önlisans/lisans sahibi özel hukuk tüzel kişisine aittir.

@@ -1,0 +1,3 @@
+Yükümlülüklerin yerine getirilmemesi
+MADDE 42 – (1) Kurum tarafından yapılan bildirime rağmen, taşınmaz teminine ilişkin yükümlülüklerin önlisans/lisans sahibi özel hukuk tüzel kişilerince mücbir sebebe veya haklı nedene dayanmaksızın yerine getirilmemesi durumunda, yapılan işlemler geri alınabilir veya alınan kararlar kısmen veya tamamen iptal edilebilir.
+(2) Bu Yönetmelik kapsamındaki ve kamulaştırma işlemleri ile ilgili ikincil mevzuatta yer alan yükümlülüklerin önlisans/lisans sahibi özel hukuk tüzel kişisi tarafından zamanında yerine getirilmemesi veya Kurum tarafından yapılan bildirim ve talimatlara rağmen eksikliklerin tamamlanmaması halinde tespit edilen eksiklikler, işlem tesis edilmek üzere Denetim Dairesi Başkanlığına bildirilir.

@@ -1,0 +1,3 @@
+Teminatın kullanılması
+MADDE 34 – (1) Taşınmaz temini ve kamulaştırmasız el atma işlemlerinden kaynaklı her türlü bedel ile diğer giderlere konu olan borçların ödenmemesi halinde teminatın kullanılacağı hususu önlisans/lisans sahibi özel hukuk tüzel kişisine bildirilir. Bildirime rağmen ödemenin yapılmaması halinde, Kurul tarafından ödeme için teminatın kullanılmasına karar verilir ve ödemeye ilişkin işlemler Kurum tarafından yürütülür.
+(2) Yukarıda sayılan borçların teminat mektubunun nakde çevrilmesinden veya Kurumca muhafaza edilen nakdi bedelden karşılanmasından sonra varsa arta kalan kısım teminat olarak muhafaza edilir, devam eden riskler açısından eksik kalan tutar kadar ek teminat alınır.

@@ -1,0 +1,4 @@
+Tarım alanlarının izinsiz kullanımı
+MADDE 40 – (1) Tarımsal nitelikli taşınmazların amaç dışı kullanım izni alınmadan taşınmaz üzerinde hiçbir fiili tasarrufta bulunulamaz, bulunulması halinde ortaya çıkacak adli ve idari yaptırımlara ait tüm sorumluluk önlisans/lisans sahibi özel hukuk tüzel kişisine ait olur.
+(2) Tarımsal nitelikli taşınmazın cins değişikliği ancak yetkili kurumlardan alınacak amaç dışı kullanım izni ile sağlanabilir. Taşınmaz hakkında kamulaştırma, devir veya sınırlı ayni hak tesisi kararı alınması veya taşınmazın kamulaştırma veya devir yoluyla Hazine adına tescil edilmesi veya üzerinde sınırlı ayni hak tesis edilmesi amaç dışı kullanım izni için gerekçe oluşturmaz, ilgili idarece yapılacak cezai işlem uygulamasını ortadan kaldırmaz.
+(3) Tarım dışı amaçla kullanım izni alınmamış taşınmazlar için uzlaşma görüşmelerine başlanılamaz.
