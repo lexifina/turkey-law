@@ -1,0 +1,22 @@
+{
+  "kind": "norm",
+  "issuer": "Gelir İdaresi Başkanlığı",
+  "document_type": "ozelge",
+  "number": "E-38418978-120[2025/89/2]-141826",
+  "source_id": 38890,
+  "date": "2026-03-05",
+  "title": "Kira gelirine ilişkin verilecek gelir vergisi beyannamesinden, lens ve lens solüsyonu için yapılan harcamalar ile doktor tarafından reçete edilen çeşitli ilaçların, sağlık harcaması kapsamında indirim konusu yapılıp yapılamayacağı hk.",
+  "source": "https://gib.gov.tr/mevzuat/kanun/433/ozelge/38890",
+  "related_law": "193 sayılı GELİR VERGİSİ KANUNU",
+  "source_api": "https://gib.gov.tr/api/gibportal/mevzuat/ozelge/list",
+  "source_listing": "evidence/list/2026-11-16/ozelge-p009.json",
+  "source_listing_sha256": "9cb52b4963a9a177a23948f6e28c12936c2f43c88a0b410872bb81c01983667c",
+  "source_sha256": "ba587d0147beb031b0ea7779ebf42e4befc9dec056e059e0b0dd0e8018120a30",
+  "text_status": "as-enacted",
+  "text_file": "metin.md",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  }
+}
