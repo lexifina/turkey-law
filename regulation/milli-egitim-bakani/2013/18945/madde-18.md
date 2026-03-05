@@ -1,0 +1,4 @@
+Sınav sonuçlarına itiraz
+MADDE 18 − (Değişik:RG-13/1/2018-30300)
+(1) Yazılı sınav sonuçlarına, sınav sonuçlarının açıklandığı tarihten itibaren duyuruda belirtilen süre içinde ilgililerce görev yaptıkları birimler aracılığıyla yazılı olarak itiraz edilebilir. Bu itirazlar, en geç on iş günü içinde Merkez Sınav Kurulu tarafından incelenir veya sınavı yapan birime/kuruma incelettirilir ve sonucu ilgililere yazılı olarak bildirilir.
+(2) Sözlü sınav sonuçlarına, sınav sonuçlarının açıklandığı tarihten itibaren duyuruda belirtilen süre içinde merkezde Ölçme, Değerlendirme ve Sınav Hizmetleri Genel Müdürlüğüne, illerde il millî eğitim müdürlüklerine itiraz edilebilir. İtirazlar, ilgili sözlü sınav ve değerlendirme komisyonunca en geç on iş günü içinde incelenerek oy çokluğuyla karara bağlanır ve itirazların muhatabı birimlerce itiraz sahiplerine yazılı olarak bildirilir.

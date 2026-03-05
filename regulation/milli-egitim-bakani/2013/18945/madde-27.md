@@ -1,0 +1,2 @@
+Hizmet bölgeleri
+MADDE 27 – (1) Kalkınma Bakanlığının yayınlamış olduğu İllerin ve Bölgelerin Sosyo –Ekonomik Gelişmişlik Sıralaması Araştırması ile İlçelerin Sosyo –Ekonomik Gelişmişlik Sıralaması Araştırması verileri esas alınarak, kurumsal kapasite ve hizmet gerekleri bakımından oluşturulan hizmet bölgeleri ve bu bölgeler için öngörülen hizmet puanları Ek −3 Hizmet Bölgeleri Çizelgesinde gösterilmiştir.

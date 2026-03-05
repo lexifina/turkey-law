@@ -1,0 +1,2 @@
+Yazılı sınavın duyurulması
+MADDE 10 − (1) Yazılı sınav, sınavın Bakanlıkça yapılması hâlinde, (Değişik ibare:RG-18/7/2020-31189) Personel Genel Müdürlüğünce sınav tarihinden en az bir ay önce duyurulur. Duyuruda; atama yapılacak kadroların sınıfı, unvanı, derecesi ve sayısı ile başvuru tarihi, süresi ve yeri belirtilir. Duyuruda, atama yapılacak kadrolara ilişkin sınav konularının başlıklarına ve sınavdaki ağırlıklarına da yer verilir.

@@ -1,0 +1,6 @@
+İller arası isteğe bağlı yer değiştirmeler
+MADDE 33 – (1) Bölge hizmetine bağlı yer değiştirme yükümlülüğü bulunanlar hariç, bu Yönetmelik kapsamında bulunan personelden bulundukları ilde Bakanlık teşkilatı kadrolarında (Değişik ibare:RG-13/1/2018-30300) 30 Eylül tarihi itibarıyla (Değişik ibare:RG-13/1/2018-30300) kesintisiz en az üç yıl (Değişik ibare:RG-10/12/2014-29201) görev yapanlar, iller arasında, yer değiştirmek üzere başvuruda bulunabilirler.
+(2) Başvurular Haziran ayında alınır. Başvuruda bulunan personel Bakanlıkça belirlenen ve durumlarına uygun kurumlar arasından en fazla yirmi kuruma atanmak üzere tercihte bulunulabilir. Bakanlık veya diğer kamu kurum ve kuruluşlarında geçici görevli olanlar ile aylıksız izinli olanlar, iller arası isteğe bağlı yer değiştirme başvurusunda bulunabilirler.
+(3) İller arası isteğe bağlı yer değiştirme talebinde bulunan personelin atamaları, Temmuz ayında tercihleri de dikkate alınarak hizmet süresi üstünlüğüne göre Bakanlıkça yapılır. Hizmet süresinin eşit olması hâlinde halen bulunduğu kadrodaki hizmet süresi fazla olana öncelik verilir, eşitliğin bozulmaması durumunda kura yoluna başvurulur.
+(4) Bu madde kapsamında yapılan atamalar Bakanlıkça duyurulur.
+(5) İller arası isteğe bağlı yer değiştirme kapsamında bulunan personelin mazerete bağlı yer değiştirme talepleri 30 uncu madde kapsamında değerlendirilir.

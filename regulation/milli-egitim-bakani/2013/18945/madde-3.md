@@ -1,0 +1,3 @@
+Dayanak
+MADDE 3 – (Değişik:RG-25/8/2021-31579)
+(1) Bu Yönetmelik, 14/7/1965 tarihli ve 657 sayılı Devlet Memurları Kanunu, 25/8/2011 tarihli ve 652 sayılı Özel Barınma Hizmeti Veren Kurumlar ve Bazı Düzenlemeler Hakkında Kanun Hükmünde Kararname, 10/7/2018 tarihli ve 30474 sayılı Resmî Gazete’de yayımlanan 1 sayılı Cumhurbaşkanlığı Teşkilatı Hakkında Cumhurbaşkanlığı Kararnamesi, 15/3/1999 tarihli ve 99/12647 sayılı Bakanlar Kurulu Kararı ile yürürlüğe konulan Kamu Kurum ve Kuruluşlarında Görevde Yükselme ve Unvan Değişikliği Esaslarına Dair Genel Yönetmelik, 19/4/1983 tarihli ve 83/6525 sayılı Bakanlar Kurulu Kararı ile yürürlüğe konulan Devlet Memurlarının Yer Değiştirme Suretiyle Atanmalarına İlişkin Yönetmelik hükümlerine dayanılarak hazırlanmıştır.

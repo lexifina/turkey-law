@@ -1,0 +1,2 @@
+Yürürlükten kaldırılan yönetmelikler
+MADDE 36 – (1) Bu Yönetmeliğin yürürlüğe girdiği tarih itibarıyla, 4/3/2006 tarihli ve 26098 sayılı Resmî Gazetede yayımlanan Millî Eğitim Bakanlığı Personeli Görevde Yükselme ve Unvan Değişikliği Yönetmeliği ile 4/7/2013 tarihli ve 28697 sayılı Resmî Gazetede yayımlan Millî Eğitim Bakanlığı Taşra Teşkilatı Yöneticilerinin Yer Değiştirme Suretiyle Atanmaları Hakkında Yönetmelik yürürlükten kaldırılmıştır.
