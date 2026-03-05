@@ -1,0 +1,21 @@
+{
+  "record_type": "parliament-written-question",
+  "term": 28,
+  "legislative_year": 4,
+  "esas_no": "7/41753",
+  "submitted": "2026-03-05",
+  "submitted_as": "Başkanlığa geliş tarihi",
+  "mp": "Nermin YILDIRIM KARA",
+  "province": "Hatay",
+  "summary": "6 Şubat 2023 tarihli depremlerden zarar gören ve Payas Belediyesine ait olan kültür merkezinin akıbetine ilişkin",
+  "status": "Süresi Geçtikten Sonra Cevaplandı",
+  "status_as_of": "2026-11-16",
+  "official_record": "https://www.tbmm.gov.tr/Denetim/Yazili-Soru-Onergesi-Detay/e49a1663-3fda-4a12-a7e9-019cd6a28230",
+  "source": "https://tbmm.gov.tr/Denetim/YaziliSoruOnergesiTable",
+  "source_form": "https://tbmm.gov.tr/Denetim/Yazili-Soru-Onergeleri",
+  "source_sha256": "f09b456f6e6e30afa7e81ca268c78badc4db10e16550b412ca8691ba60767133",
+  "in_force": "2026-03-05",
+  "in_force_basis": "Date the question reached the Speaker (Başkanlığa geliş tarihi) in the official TBMM written-question record; parliamentary oversight record, not law",
+  "history_type": "metadata",
+  "text_status": "metadata-only: question text, addressee and answers are in the linked official record (PDFs on cdn.tbmm.gov.tr); not transcribed here"
+}
