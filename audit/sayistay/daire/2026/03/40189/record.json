@@ -1,0 +1,17 @@
+{
+  "kind": "decision",
+  "issuer": "Sayıştay 6. Dairesi",
+  "number": "992",
+  "decision_date": "2026-03-05",
+  "source_id": 40189,
+  "chamber": "6",
+  "ilam_number": "112",
+  "item_number": 1,
+  "public_body_type": "Yüksek Öğretim Kurumları",
+  "account_year": 2023,
+  "subject": "İhale Mevzuatı ile İlgili Kararlar",
+  "source": "https://www.sayistay.gov.tr/KararlarDaire/Detay/40189/",
+  "source_sha256": "44cf73150f239f14eecd9b237ef153a22d3500a5ba8b5f143b8c3535e6f07da4",
+  "text_status": "as-enacted",
+  "text_file": "metin.md"
+}
