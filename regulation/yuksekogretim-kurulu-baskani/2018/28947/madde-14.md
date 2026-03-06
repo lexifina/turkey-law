@@ -1,0 +1,5 @@
+ÜÇÜNCÜ BÖLÜM
+Çeşitli ve Son Hükümler
+Muafiyet
+MADDE 14 – (1) Doktora veya tıpta, diş hekimliğinde, eczacılıkta ve veteriner hekimlikte uzmanlık ya da sanatta yeterlik eğitimini tamamlamış olanlarda, (Değişik ibare:RG-3/3/2022-31767) 7 nci maddenin dördüncü ve beşinci fıkraları kapsamındaki öğretim görevlisi kadrolarına atanacak olanlarda, yükseköğretim kurumlarında öğretim elemanı kadrolarında çalışmış veya çalışmakta olanlarda (Ek ibare:RG-7/1/2023-32066) uluslararası anlaşmalarla kurulan üniversitelerde Almanca ve Fransızca öğretimi için istihdam edilecek Yükseköğretim Kurumlarında Yabancı Dil Öğretimi ve Yabancı Dille Öğretim Yapılmasında Uyulacak Esaslara İlişkin Yönetmeliğin 8 inci maddesinin yedinci fıkrasındaki şartlardan aşağı olmamak kaydıyla Senato tarafından belirlenecek ilgili yabancı dili öğretme bilgi ve yetkinliğine sahip öğretim görevlisi adaylarında merkezi sınav şartı aranmaz.
+(2) Meslek yüksekokullarının, bu Yönetmeliğin 6 ncı maddesinin dördüncü fıkrası kapsamındaki öğretim görevlisi kadroları haricindeki öğretim elemanı kadrolarına yapılacak başvurularda yabancı dil şartı aranmaz.
