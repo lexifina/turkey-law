@@ -1,0 +1,7 @@
+BEŞİNCİ BÖLÜM
+Çeşitli ve Son Hükümler
+Bilimsel hazırlık programına öğrenci kabulü
+MADDE 30 – (1) Yüksek lisans ve doktora programlarına kabul edilen öğrencilerden lisans veya yüksek lisans derecesini kabul edildikleri yüksek lisans veya doktora programından farklı alanlarda almış olanlar ile lisans veya yüksek lisans derecesini kabul edildikleri yükseköğretim kurumu dışındaki yükseköğretim kurumlarından almış olan yüksek lisans veya doktora programı adayları için eksikliklerini gidermek amacıyla bilimsel hazırlık programı uygulanabilir.
+(2) Bilimsel hazırlık programında alınması zorunlu dersler, ilgili lisansüstü programını tamamlamak için gerekli görülen derslerin yerine geçemez. Ancak bilimsel hazırlık programındaki bir öğrenci, bilimsel hazırlık derslerinin yanı sıra ilgili enstitü anabilim/anasanat dalı başkanlığının önerisi ve enstitü yönetim kurulunun onayı ile lisansüstü programa yönelik dersler de alabilir.
+(3) Bilimsel hazırlık programı ile ilgili devam, ders sınavları, ders notları, derslerden başarılı sayılma koşulları, ders tekrarı, kayıt silme ve diğer esaslar senato tarafından kabul edilen yönetmelikle belirlenir.
+(4) Bilimsel hazırlık programında geçirilecek süre en çok iki yarıyıldır. Yaz öğretimi bu süreye dahil edilmez. Bu süre dönem izinleri dışında uzatılamaz ve süre sonunda başarılı olamayan öğrencinin ilişiği kesilir. Bu programda geçirilen süre yüksek lisans veya doktora programı sürelerine dahil edilmez.

@@ -1,0 +1,2 @@
+Yatay geçiş yoluyla öğrenci kabulü
+MADDE 32 – (1) Yükseköğretim kurumu içindeki başka bir enstitü anabilim/anasanat dalında veya başka bir yükseköğretim kurumunun lisansüstü programında en az bir yarıyılı tamamlamış olan başarılı öğrenci, (Değişik ibare:RG-15/1/2026-33138) eşdeğer diploma programına yatay geçiş yoluyla kabul edilebilir. Yatay geçiş yoluyla kabul edilme koşulları ilgili senato tarafından kabul edilen yönetmelikle belirlenir.

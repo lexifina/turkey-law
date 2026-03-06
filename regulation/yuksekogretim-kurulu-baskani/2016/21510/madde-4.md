@@ -1,0 +1,5 @@
+İKİNCİ BÖLÜM
+Yüksek Lisans Programları
+Genel esaslar
+MADDE 4 – (1) Yüksek lisans programı, tezli ve tezsiz olmak üzere iki şekilde yürütülebilir. Bu programların hangi enstitü anabilim/anasanat dallarında ve nasıl yürütüleceği ile yükseköğretim kurumlarının yetkisinde olan tezli ve tezsiz yüksek lisans programları arasında geçişe izin hususları senatolar tarafından çıkarılan yönetmelikle düzenlenir.
+(2) Yükseköğretim Kurulu kararı üzerine yükseköğretim kurumlarında; öğretim elemanı ve öğrencilerin aynı mekânda bulunma zorunluluğu olmaksızın, bilgi ve iletişim teknolojilerine dayalı olarak öğretim faaliyetlerinin planlandığı ve yürütüldüğü lisansüstü uzaktan öğretim programları açılabilir. Uzaktan öğretim programlarının açılabileceği alanlar, uzaktan öğretim yoluyla verilecek dersler ve kredi ile AKTS kredi miktarları, ders materyallerinin hazırlanması, sınavlarının yapılma şekli, yükseköğretim kurumları arasında bu amaçla yapılacak protokoller ile uzaktan öğretime ilişkin diğer hususlar Yükseköğretim Kurulu tarafından belirlenir.
