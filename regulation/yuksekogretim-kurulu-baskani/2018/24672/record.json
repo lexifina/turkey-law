@@ -1,0 +1,53 @@
+{
+  "source_id": "7.5.24672",
+  "kind": "regulation",
+  "register_kind": "Kurum ve Kuruluş Yönetmelikleri",
+  "title": "ÖĞRETİM ÜYELİĞİNE YÜKSELTİLME VE ATANMA YÖNETMELİĞİ",
+  "number": "24672",
+  "issuer": "Yükseköğretim Kurulu Başkanı",
+  "issuer_slug": "yuksekogretim-kurulu-baskani",
+  "path": "regulation/yuksekogretim-kurulu-baskani/2018/24672",
+  "source": "https://www.mevzuat.gov.tr/anasayfa/MevzuatFihristDetayIframe?MevzuatTur=7&MevzuatNo=24672&MevzuatTertip=5",
+  "source_sha256": "a28abb695947699f3c9897eb76342f7598cedc4c660bf78019cf446a727517e3",
+  "source_bytes": 39329,
+  "published": "2018-06-12",
+  "gazette": "30449",
+  "in_force": "2026-03-06",
+  "in_force_basis": "latest Resmî Gazete date printed in the source amendment notes/table (\"RG-6/3/2026\") for the current consolidated text",
+  "date_evidence": [
+    [
+      "2026-03-06",
+      "RG-6/3/2026",
+      "Resmî Gazete date printed in the source amendment note"
+    ],
+    [
+      "2026-03-06",
+      "6/3/2026",
+      "Resmî Gazete date in the source amendment table"
+    ],
+    [
+      "2021-03-09",
+      "RG-9/3/2021",
+      "Resmî Gazete date printed in the source amendment note"
+    ],
+    [
+      "2021-03-09",
+      "9/3/2021",
+      "Resmî Gazete date in the source amendment table"
+    ]
+  ],
+  "commencement_clauses": [
+    "Bu Yönetmelik yayımı tarihinde yürürlüğe girer"
+  ],
+  "history": "current-text",
+  "label": "oldest version available",
+  "checked_on": "2026-11-15",
+  "word_count": 1722,
+  "text_status": "current-consolidated",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  },
+  "completeness": "html-text-complete"
+}
