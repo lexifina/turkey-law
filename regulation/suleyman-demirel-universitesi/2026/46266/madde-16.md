@@ -1,0 +1,9 @@
+Eğitim-öğretim programlarının düzenlenmesi
+MADDE 16- (1) Birimlerde zorunlu ve seçmeli dersler teorik, uygulamalı veya hem teorik hem uygulamalı olarak yapılır.
+(2) Derslerin kodu, adı, içeriği, türü, ders saati, AKTS kredi değeri, ön koşulları ve öğretim programları ilgili kurullar tarafından belirlenir ve Senato tarafından karara bağlanır.
+(3) Öğretim programlarında yer alacak teorik, uygulamalı veya hem teorik hem uygulamalı derslerin dönemlere göre dağılımı, içerik ve AKTS kredilerinde yapılacak değişiklikler ilgili kurulların önerisi üzerine Senato onayı ile kesinleşir.
+(4) Bir eğitim-öğretim programında teorik, uygulamalı veya hem teorik hem uygulamalı derslerin toplamı bir yarıyılda en az 30, bir yılda en az 60 AKTS kredisi olacak şekilde ilgili kurullar tarafından belirlenir ve Senato tarafından karara bağlanır.
+(5) İki yıl süreli ön lisans programları en az 120 AKTS kredisi, dört yıl süreli lisans programları en az 240 AKTS kredisi, beş yıl süreli lisans programları en az 300 AKTS kredisi, altı yıl süreli lisans programları ise en az 360 AKTS kredisi olarak planlanır. Bir dersin AKTS kredisinin nasıl hesaplanacağına ilişkin esaslar Senato tarafından belirlenir.
+(6) Dersler içinde; seminer, uygulama, klinik uygulama, klinik çalışması, atölye çalışması, laboratuvar çalışması ve inceleme, araştırma gezisi, ödev, bireysel çalışma, mesleksel beceri uygulamaları, probleme dayalı öğretim, kanıta dayalı uygulamalar, iletişim becerileri, hasta başı vizitleri, sınava hazırlanma, alan çalışması, kütüphane çalışmaları, mezuniyet tezi, proje ve benzeri diğer etkinlikler yer alabilir.
+(7) Senato, birden fazla örgün eğitim programında yer alan derslerin uzaktan öğretim yolu ile yürütülmesine ilgili kurulların önerisi ile karar verebilir.
+(8) Haftalık ders programları, en geç kayıt yenileme tarihlerinden bir hafta önce birimler tarafından ilan edilir.

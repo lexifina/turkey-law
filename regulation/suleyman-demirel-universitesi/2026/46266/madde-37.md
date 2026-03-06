@@ -1,0 +1,5 @@
+Azami öğrenim süresi sonundaki ek sınavlar
+MADDE 37- (1) Azami öğrenim süresi sonunda mezuniyet koşullarını sağlayamayan öğrencilere ilgili mevzuat hükümleri çerçevesinde ek sınav hakkı tanınır.
+(2) Öğrencilere daha önce alıp başarısız oldukları bütün dersler için iş planında ilan edilen tarihlerde iki ek sınav hakkı verilir.
+(3) Ek sınav hakkı, dönem sonu ve bütünleme sınav dönemlerini izleyen, eğitim-öğretim dönemi başlamadan birinci ek sınav ve ikinci ek sınav şeklinde tüm dersler için kullandırılır. Sınavda alınan not tek başına değerlendirilir ve harf notuna çevrilir. Dönem içinde alınan notlar hesaba katılmaz.
+(4) Ek sınavları almadan kayıtlı olduğu programdan hiç almadığı, alamadığı ya da alıp da devam şartını sağlayamadığı dersler dâhil başarısız ders sayısını toplamda beş derse kadar düşürenlere dört dönem ek süre verilir. Ek süre verilen öğrenciler bu süre içinde derslerin açıldığı dönemdeki sınavlara girerler. Ek süre hakkı kazanan öğrenciler, öğrenci katkı payı veya öğrenim ücreti yükümlülüklerini yerine getirerek ilgili döneme kayıtlarını yaptırmak zorundadır.

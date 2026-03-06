@@ -1,0 +1,31 @@
+{
+  "source_id": "8.5.46266",
+  "kind": "regulation",
+  "register_kind": "Üniversite Yönetmelikleri",
+  "title": "SÜLEYMAN DEMİREL ÜNİVERSİTESİ ÖN LİSANS VE LİSANS EĞİTİM-ÖĞRETİM VE SINAV YÖNETMELİĞİ",
+  "number": "46266",
+  "issuer": "SÜLEYMAN DEMİREL ÜNİVERSİTESİ",
+  "issuer_slug": "suleyman-demirel-universitesi",
+  "path": "regulation/suleyman-demirel-universitesi/2026/46266",
+  "source": "https://www.mevzuat.gov.tr/anasayfa/MevzuatFihristDetayIframe?MevzuatTur=8&MevzuatNo=46266&MevzuatTertip=5",
+  "source_sha256": "13397c5683e3734df67f6a4bf9221ae68a539b47bf72c898bedc9a71fdb30e34",
+  "source_bytes": 115309,
+  "published": "2026-03-06",
+  "gazette": "33188",
+  "in_force": "2026-03-06",
+  "in_force_basis": "Resmî Gazete publication date in the official listing (06.03.2026); own commencement article: \"Bu Yönetmelik 2026-2027 eğitim-öğretim yılı başında yürürlüğe girer\"",
+  "commencement_clauses": [
+    "Bu Yönetmelik 2026-2027 eğitim-öğretim yılı başında yürürlüğe girer"
+  ],
+  "history": "current-text",
+  "label": "oldest version available",
+  "checked_on": "2026-11-15",
+  "word_count": 5766,
+  "text_status": "current-consolidated",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  },
+  "completeness": "html-text-complete"
+}

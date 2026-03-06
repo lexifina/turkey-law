@@ -1,0 +1,23 @@
+Tanımlar
+MADDE 4- (1) Bu Yönetmelikte geçen;
+a) Akademik danışman: Öğrencilere, eğitim, öğrenim ve benzeri konularda yardımcı olmak üzere kayıtlı bulundukları birim, bölüm, ana bilim, ana sanat, bilim dalı veya programın önerisi ile ilgili yönetim kurulu tarafından görevlendirilen öğretim elemanını,
+b) AKTS: Avrupa Kredi Transfer Sistemini,
+c) Ders: Teorik, uygulamalı veya hem teorik hem uygulamalı olarak yürütülen dersleri,
+ç) Dönem: İki yarıyıl esaslı yürütülen diploma programlarında güz veya bahar yarıyıllarını, yıl esaslı yürütülen diploma programlarında bir akademik yılı,
+d) DNO: Öğrencinin kayıtlı olduğu dönemin ağırlıklı not ortalamasını,
+e) GNO: Genel not ortalamasını,
+f) İlgili birim: Üniversiteye bağlı fakülte, yüksekokul veya meslek yüksekokullarını,
+g) İlgili kurul: Üniversiteye bağlı fakültelerde fakülte kurulunu, yüksekokullarda yüksekokul kurulunu, devlet konservatuvarında konservatuvar kurulunu veya meslek yüksekokullarında meslek yüksekokulu kurulunu,
+ğ) İlgili yönetim kurulu: Üniversiteye bağlı fakülte, yüksekokul, konservatuvar veya meslek yüksekokulu yönetim kurullarını,
+h) OBS: Öğrenci bilgi sistemini,
+ı) Öğrenme yönetim sistemi: Öğretim faaliyetlerinin bilgi ve iletişim teknolojilerine dayalı olarak planlandığı ve yürütüldüğü, öğrenci ile öğretim elemanı ve öğrencilerin kendi aralarında karşılıklı etkileşimine dayalı olarak derslerin bizzat öğretim elemanı tarafından aynı mekânda bulunma zorunluluğu olmaksızın eş zamanlı veya eş zamansız biçimde verildiği öğretimin tüm bileşenleri ile yürütülmesini sağlayan sistemi,
+i) ÖSYM: Ölçme, Seçme ve Yerleştirme Merkezi Başkanlığını,
+j) PD: Program dışı dersleri,
+k) Rektör: Süleyman Demirel Üniversitesi Rektörünü,
+l) Rektörlük: Süleyman Demirel Üniversitesi Rektörlüğünü,
+m) Senato: Süleyman Demirel Üniversitesi Senatosunu,
+n) Staj: Programa özgü olarak belirlenmiş teorik ve uygulamalı dersler dışında, öğrencilerin öğretim programlarıyla kazandırılması öngörülen mesleki bilgi, beceri, tutum ve davranışlarını geliştirmeleri, sektörü tanımaları, iş hayatına uyum sağlamaları, tecrübe edinmeleri ve gerçek üretim ve hizmet ortamında yetişmeleri amacıyla işletmelerde yapılan mesleki çalışmayı,
+o) Üniversite: Süleyman Demirel Üniversitesini,
+ö) Yazılı sınav: Yazılı olarak uygulanan açık uçlu veya seçmeli yanıt gerektiren sorulardan oluşan ölçme ve değerlendirme yöntemini,
+p) YÖK: Yükseköğretim Kurulunu,
+ifade eder.

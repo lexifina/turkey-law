@@ -1,0 +1,3 @@
+Değerlendirme sonuçlarının ilanı, itirazlar ve düzeltme
+MADDE 40- (1) Bir dersin değerlendirme sonuçları, belirlenen süreler içinde sorumlu öğretim elemanı tarafından OBS’ye girilir.
+(2) Öğrenciler dersin değerlendirme sonucuna olan itirazlarını, ilgili dönem içi çalışmalarının, dönem sonu ve bütünleme sınav sonucunun ilan edildiği tarihten itibaren üç iş günü içinde bölüm veya program başkanlığına yazılı olarak iletir. Dersin sorumlu öğretim elemanı konunun kendisine bildirilmesinden itibaren en geç üç iş günü içinde değerlendirme yaparak gerekçeli kararı ilgili birime yazılı olarak bildirir. Not değişikliği ancak birim yönetim kurulunun kararı ile gerçekleştirilir ve öğrenciye duyurulur.

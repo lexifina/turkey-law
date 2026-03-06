@@ -1,0 +1,13 @@
+İlk kayıt
+MADDE 6- (1) Üniversiteye bağlı birimlere kayıt için aşağıdaki koşullar aranır:
+a) Türkiye’de bir lise veya Milli Eğitim Bakanlığı tarafından lise dengi olarak kabul edilen yurt içi veya yurt dışındaki bir okuldan mezun olduğunu gösteren belgeye sahip olmak.
+b) ÖSYM tarafından yapılan merkezî sınavlar sonucunda, ilgili eğitim-öğretim yılında Üniversitenin birimlerine kayıt hakkı kazanmış olmak.
+c) Ön kayıt ve yetenek sınavı ile öğrenci alınacak birimlerde, ilgili kurulun önerisi üzerine ilgili mevzuat hükümleri uyarınca Senatonun belirlediği geçerli puan ve koşullara sahip olmak.
+ç) Açık öğretim fakülteleri hariç başka bir yükseköğretim kurumunun örgün aynı düzey programında kayıtlı olmamak.
+(2) Yabancı uyruklu öğrenciler ile ortaöğretiminin tamamını yurt dışında tamamlayan öğrencilerin, kesin kayıt işlemlerini yapabilmesi için YÖK ve Senato tarafından belirlenen esaslarda yer alan koşulları taşıması ve başka bir yükseköğretim kurumunun örgün aynı düzey programında kayıtlı olmaması gerekir.
+(3) Üniversiteye kayıt hakkı kazanan adaylar ilan edilen tarihlerde e-Devlet kapısı üzerinden veya Üniversiteye şahsen başvurarak kayıtlarını yaparlar. E-Devlet kapısı üzerinden kayıtlarını ilan edilen tarihlerde yapamayan adaylar, şahsen kayıt tarihleri içerisinde kanuni temsilcileri, noter veya yurt dışı temsilcilikler yoluyla tayin ettikleri vekil aracılığıyla kayıtlarını yaptırabilirler. Posta ile yapılan başvurular kabul edilmez.
+(4) Kayıt işlemlerini e-Devlet üzerinden gerçekleştiren adaylardan, gerekli olan haller dışında, belge istenmez. Üniversiteye şahsen başvuru ile kayıt yaptıracak adaylardan ise kayıt işlemleri için istenen belgelerin aslı veya yetkili makamlar tarafından onaylanmış örnekleri kabul edilir.
+(5) Yurt dışı öğrenci kabul kontenjanları kapsamında yerleşen adaylar kayıt esnasında istenen belgelerin aslını ve onaylı çevirilerini ilgili birime teslim ederler.
+(6) Üniversitenin başka bir yükseköğretim kurumuyla uluslararası ortak yürüttüğü programlara kayıt yaptıracak adayların kayıt işlemleri, 6/10/2016 tarihli ve 29849 sayılı Resmî Gazete’de yayımlanan Yükseköğretim Kurumlarının Yurt Dışı Yükseköğretim Kurumlarıyla Ortak Eğitim-Öğretim Programlarına Dair Yönetmelik ile diğer mevzuat hükümleri ve Senato kararları uyarınca yapılır.
+(7) Eksik belge ile kayıt yapılamaz. Kayıt işlemlerini süresi içinde tamamlamayan adaylar, Üniversite öğrencisi olma hakkından vazgeçmiş sayılır ve herhangi bir hak iddia edemezler.
+(8) Gerçeğe aykırı, yanıltıcı beyan veya belgelerle Üniversiteye kayıt hakkı kazanmış olanların belirlenmesi durumunda kayıtları yapılmaz.
