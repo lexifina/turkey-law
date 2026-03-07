@@ -1,0 +1,3 @@
+Müdür
+MADDE 8- (1) Müdür, fizyoterapi ve rehabilitasyon alanında çalışmaları bulunan Üniversitenin tam zamanlı öğretim elemanları arasından Rektör tarafından üç yıllık süre için görevlendirilir. Süresi biten Müdür yeniden görevlendirilebilir.
+(2) Müdüre çalışmalarında yardımcı olmak üzere Yönetim Kurulu üyeleri arasından bir kişi Rektör tarafından müdür yardımcısı olarak görevlendirilir. Müdürün görevi başında bulunmadığı zamanlarda müdür yardımcısı, müdür yardımcısının da bulunmadığı zamanlarda Yönetim Kurulu üyelerinden birisi Müdüre vekâlet eder. Vekâlet altı aydan fazla sürerse yeni Müdür görevlendirilir.
