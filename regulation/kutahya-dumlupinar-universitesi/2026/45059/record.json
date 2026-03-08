@@ -1,0 +1,39 @@
+{
+  "checked_on": "2026-11-14",
+  "commencement_clauses": [
+    "MADDE 19- (1) Bu Yönetmelik yayımı tarihinde yürürlüğe girer."
+  ],
+  "date_evidence": [
+    [
+      "2026-03-08",
+      "08.03.2026",
+      "original gazette publication date in official listing"
+    ]
+  ],
+  "date_quote": "MADDE 19- (1) Bu Yönetmelik yayımı tarihinde yürürlüğe girer.",
+  "first_law": null,
+  "gazette": "33190",
+  "history": "current-text",
+  "images": {
+    "deferred": 0,
+    "omitted": 0,
+    "referenced": 0,
+    "source": 0
+  },
+  "in_force": "2026-03-08",
+  "in_force_basis": "source commencement clause: enters into force on gazette publication",
+  "issuer": "Kütahya Dumlupınar Üniversitesi",
+  "issuer_slug": "kutahya-dumlupinar-universitesi",
+  "kind": "regulation",
+  "label": "oldest version available",
+  "path": "regulation/kutahya-dumlupinar-universitesi/2026/45059",
+  "published": "2026-03-08",
+  "source": "https://www.mevzuat.gov.tr/anasayfa/MevzuatFihristDetayIframe?MevzuatTur=8&MevzuatNo=45059&MevzuatTertip=5",
+  "source_bytes": 29385,
+  "source_id": "8.5.45059",
+  "source_sha256": "21cfc43c16cacc7df39991b747aaf22f01d732ed4b680b1790778795390ee6c2",
+  "text_status": "as-enacted",
+  "title": "KÜTAHYA DUMLUPINAR ÜNİVERSİTESİ İLAHİYAT FAKÜLTESİ ZORUNLU\r\nARAPÇA HAZIRLIK EĞİTİM ÖĞRETİM YÖNETMELİĞİ",
+  "university_id": 190,
+  "word_count": 1519
+}

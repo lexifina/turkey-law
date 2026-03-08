@@ -1,0 +1,5 @@
+Mazeret sınavları
+MADDE 14- (1) Öğrencinin mazereti nedeniyle katılmadığı yarıyıl içi ve yarıyıl sonu sınavlarını telafi etmek üzere mazeret sınavları yapılır. Öğrencinin, mazeret tarihleri içinde ya da en geç mazeretinin bitimini takip eden üç iş günü içinde mazeretini gösterir belge ile mazeret başvurusunu yazılı olarak Dekanlığa bildirmesi gerekir. Mazeretlerini belgelendirmeyen öğrenciler, ilgili sınavdan başarısız kabul edilir.
+(2) Öğrencinin mazereti Birim Yönetim Kurulunda Senato tarafından kabul edilen haklı ve geçerli nedenler çerçevesinde değerlendirilir.
+(3) Mazeretleri Birim Yönetim Kurulunda kabul edilen öğrencilere mazeret sınav hakkı verilir. Mazeret sınavları, akademik takvim çerçevesinde yapılır. Ancak, öğrencinin mazeretinin zorunlu nedenlerle uzaması ve gerekçesinin Birim Yönetim Kurulu tarafından kabul edilmesi durumunda mazeret sınavı, Birim Yönetim Kurulunun belirleyeceği tarihte yapılır.
+(4) Ara sınavlara, yıl sonu genel sınavına ve eğitim öğretim yılı başında yapılan AYS’ye katılmayan öğrencilere mazeret sınav hakkı verilmez.
