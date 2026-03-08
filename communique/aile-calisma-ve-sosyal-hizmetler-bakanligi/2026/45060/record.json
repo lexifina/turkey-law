@@ -1,0 +1,36 @@
+{
+  "checked_on": "2026-11-13",
+  "date_gazette": "33190",
+  "date_quote": "08.03.2026",
+  "first_law": null,
+  "gazette": "33190",
+  "history": "current-text",
+  "images": {
+    "deferred": 0,
+    "omitted": 0,
+    "referenced": 0,
+    "source": 0
+  },
+  "in_force": "2026-03-08",
+  "in_force_basis": "original Resmi Gazete publication date supplied by the official listing",
+  "issuer": "Aile, Çalışma ve Sosyal Hizmetler Bakanlığı",
+  "issuer_catalog_evidence": [
+    {
+      "evidence": "issuer-517-0.json",
+      "id": "517",
+      "label": "Aile, Çalışma ve Sosyal Hizmetler Bakanlığı",
+      "listing_url": "https://www.mevzuat.gov.tr/Anasayfa/MevzuatDatatable?MevzuatTur=Teblig&KurumId=517&start=0&length=100"
+    }
+  ],
+  "issuer_slug": "aile-calisma-ve-sosyal-hizmetler-bakanligi",
+  "kind": "communique",
+  "label": "oldest version available",
+  "notes": [],
+  "published": "2026-03-08",
+  "source": "https://www.mevzuat.gov.tr/anasayfa/MevzuatFihristDetayIframe?MevzuatTur=9&MevzuatNo=45060&MevzuatTertip=5",
+  "source_bytes": 7478,
+  "source_id": "9.5.45060",
+  "source_sha256": "a55a3b0746429b6c9959dcb98c0cbd977bbf95c72b7a835985ca408a290f7287",
+  "title": "ULUSAL MESLEK STANDARTLARINA DAİR TEBLİĞ (TEBLİĞ NO: 2026/1)",
+  "word_count": 102
+}
