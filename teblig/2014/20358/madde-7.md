@@ -1,0 +1,3 @@
+Kurumsal ihtiyaçlara göre açılabilecek yardımcı hesaplar ve uygun görüş alınması
+MADDE 7 - (1) Kamu idareleri muhasebe düzenlemeleri çerçevesinde oluşturdukları hesap planında yer alan ilgili hesapların detaylarında; bu Tebliğ ekinde belirtilen ortak yardımcı hesaplar ile bütçe gelirleri ve bütçe giderleri hesaplarında kurum bütçelerinde yer alan ekonomik sınıflandırmaya yer vermek kaydıyla, kurumsal ihtiyaçlarına göre ve detaylı hesap planının sınıflandırma mantığına uygun olarak detaylı hesap planlarına istedikleri düzeyde yardımcı hesapları açabileceklerdir.
+(2) Kamu idareleri bu Tebliğ hükümlerini göz önünde bulundurmak suretiyle hazırlayacakları detaylı hesap planlarını Bakanlığın uygun görüşüne göndereceklerdir.
