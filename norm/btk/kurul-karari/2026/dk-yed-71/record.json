@@ -1,0 +1,18 @@
+{
+  "kind": "norm",
+  "issuer": "Bilgi Teknolojileri ve İletişim Kurumu",
+  "document_type": "kurul-karari",
+  "number": "2026/DK-YED/71",
+  "source_id": "2026/DK-YED/71",
+  "date": "2026-03-10",
+  "title": "Yetkilendirme Mevzuatı ve Şebeke ve Bilgi Güvenliğine İlişkin Düzenlemeler",
+  "source": "https://www.btk.gov.tr/s3/web-btk-site/7708c26c-5161-4919-8b3d-daa31d4ac8fb/2026/03/af26a6a3-a505-406c-9785-67c08abccbc3.pdf",
+  "source_sha256": "eb14e3d94198b9fc0520198037175740d0fb1ce1345f494199d06fcab9b132d3",
+  "text_status": "as-enacted",
+  "text_file": "metin.md",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  }
+}
