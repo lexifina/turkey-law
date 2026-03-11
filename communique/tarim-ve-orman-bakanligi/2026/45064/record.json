@@ -1,0 +1,36 @@
+{
+  "checked_on": "2026-11-13",
+  "date_gazette": "33193",
+  "date_quote": "11.03.2026",
+  "first_law": null,
+  "gazette": "33193",
+  "history": "current-text",
+  "images": {
+    "deferred": 0,
+    "omitted": 0,
+    "referenced": 0,
+    "source": 0
+  },
+  "in_force": "2026-03-11",
+  "in_force_basis": "original Resmi Gazete publication date supplied by the official listing",
+  "issuer": "Tarım ve Orman Bakanlığı",
+  "issuer_catalog_evidence": [
+    {
+      "evidence": "issuer-637-0.json",
+      "id": "637",
+      "label": "Tarım ve Orman Bakanlığı",
+      "listing_url": "https://www.mevzuat.gov.tr/Anasayfa/MevzuatDatatable?MevzuatTur=Teblig&KurumId=637&start=0&length=100"
+    }
+  ],
+  "issuer_slug": "tarim-ve-orman-bakanligi",
+  "kind": "communique",
+  "label": "oldest version available",
+  "notes": [],
+  "published": "2026-03-11",
+  "source": "https://www.mevzuat.gov.tr/anasayfa/MevzuatFihristDetayIframe?MevzuatTur=9&MevzuatNo=45064&MevzuatTertip=5",
+  "source_bytes": 30150,
+  "source_id": "9.5.45064",
+  "source_sha256": "d019bae41173974122c3ef36cfc63d9579b527bc9ee196962f1dc7e0d75cd9f2",
+  "title": "TÜRK GIDA KODEKSİ GIDALARIN AİT OLDUĞU PARTİYİ TANIMLAYAN İŞARETLER VEYA NUMARALAR HAKKINDA TEBLİĞ (TEBLİĞ NO: 2026/11)",
+  "word_count": 733
+}
