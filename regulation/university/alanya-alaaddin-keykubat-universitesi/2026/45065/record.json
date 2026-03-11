@@ -1,0 +1,31 @@
+{
+  "act_path": "regulation/university/alanya-alaaddin-keykubat-universitesi/2026/45065",
+  "availability": "text",
+  "checked_on": "2026-11-14",
+  "commencement_clauses": [
+    "MADDE 17- (1) Bu Yönetmelik yayımı tarihinde yürürlüğe girer."
+  ],
+  "date_quote": "MADDE 17- (1) Bu Yönetmelik yayımı tarihinde yürürlüğe girer.",
+  "first_law": null,
+  "gazette": "33193",
+  "history": "as-enacted",
+  "images": {
+    "deferred": 0,
+    "omitted": 0,
+    "referenced": 0,
+    "source": 0
+  },
+  "in_force": "2026-03-11",
+  "in_force_basis": "source commencement clause: effective on Gazette publication",
+  "issuer": "Alanya Alaaddin Keykubat Üniversitesi",
+  "issuer_slug": "alanya-alaaddin-keykubat-universitesi",
+  "kind": "regulation",
+  "published": "2026-03-11",
+  "source": "https://www.mevzuat.gov.tr/anasayfa/MevzuatFihristDetayIframe?MevzuatTur=8&MevzuatNo=45065&MevzuatTertip=5",
+  "source_id": "8.5.45065",
+  "source_sha256": "fd0d259a7386244da9730bdb362384b98ac506f9104c63361411cb61899f74db",
+  "title": "ALANYA ALAADDİN KEYKUBAT ÜNİVERSİTESİ PSİKOLOJİK DANIŞMA VE\r\nREHBERLİK UYGULAMA VE ARAŞTIRMA MERKEZİ YÖNETMELİĞİ",
+  "university_id": 457,
+  "version_label": "oldest version available",
+  "word_count": 1256
+}

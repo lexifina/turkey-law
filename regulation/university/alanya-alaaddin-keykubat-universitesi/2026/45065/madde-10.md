@@ -1,0 +1,3 @@
+Yönetim Kurulu
+MADDE 10- (1) Yönetim Kurulu, Müdürün başkanlığında, Müdürün önerisi üzerine Üniversite Rehberlik ve Psikolojik Danışmanlık Anabilim Dalı öğretim üyeleri veya Merkezin faaliyet alanları ile ilgili çalışmaları bulunan Üniversitenin öğretim üyeleri arasından Rektör tarafından üç yıl süreyle görevlendirilen dört üye olmak üzere toplam beş üyeden oluşur. Süresi dolan üyeler aynı usulle yeniden görevlendirilebilir. Görev süresi dolmadan ayrılan üyelerin yerine kalan süreyi tamamlamak üzere aynı usulle yeni üye görevlendirilebilir.
+(2) Yönetim Kurulu iki ayda bir olmak üzere salt çoğunluk ile toplanır ve kararlarını oy çokluğu ile alır. Oyların eşitliği hâlinde Müdürün oyu yönünde çoğunluk sağlanmış sayılır.
