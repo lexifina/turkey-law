@@ -1,0 +1,21 @@
+{
+  "record_type": "parliament-written-question",
+  "term": 28,
+  "legislative_year": 4,
+  "esas_no": "7/41978",
+  "submitted": "2026-03-11",
+  "submitted_as": "Başkanlığa geliş tarihi",
+  "mp": "İbrahim AKIN",
+  "province": "İzmir",
+  "summary": "Küre Dağları Milli Parkı ve çevresinde orman sınırları dışına çıkarılan alanlara ilişkin",
+  "status": "Süresi Geçtikten Sonra Cevaplandı",
+  "status_as_of": "2026-11-16",
+  "official_record": "https://www.tbmm.gov.tr/Denetim/Yazili-Soru-Onergesi-Detay/7098f563-db9f-4520-ad84-019ce243b33d",
+  "source": "https://tbmm.gov.tr/Denetim/YaziliSoruOnergesiTable",
+  "source_form": "https://tbmm.gov.tr/Denetim/Yazili-Soru-Onergeleri",
+  "source_sha256": "1e109ef0fa4675414536c97d13d9415946c6ac8855ae7fbce80f3e9beac1b9cf",
+  "in_force": "2026-03-11",
+  "in_force_basis": "Date the question reached the Speaker (Başkanlığa geliş tarihi) in the official TBMM written-question record; parliamentary oversight record, not law",
+  "history_type": "metadata",
+  "text_status": "metadata-only: question text, addressee and answers are in the linked official record (PDFs on cdn.tbmm.gov.tr); not transcribed here"
+}
