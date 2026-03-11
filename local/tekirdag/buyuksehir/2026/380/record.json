@@ -2,17 +2,26 @@
   "number": "380",
   "title": "İTİRAZ",
   "decision_date": "2026-03-11",
-  "source": "https://www.tekirdag.bel.tr/meclis_donemleri/meclis_karar_ozetleri/2786",
+  "source": "https://www.tekirdag.bel.tr/karar_metin_goruntule/2786/380",
   "official_document": "https://www.tekirdag.bel.tr/karar_metin_goruntule/2786/380",
-  "source_sha256": "ff514ccba125fdefc6c5bfbae5c3b1f9eb7585ed2b5b6d163f5f0bfe96a848bd",
+  "source_sha256": "be28aa72e9becc5da4004c1d835d0213c48fd4999ddde3dc3d957ac6cfaf781f",
   "issuer": "Tekirdağ Büyükşehir Belediye Meclisi",
-  "history_type": "metadata",
-  "text_status": "metadata-only; official decision text and annexes not transcribed",
+  "history_type": "as-enacted",
+  "text_status": "complete official decision PDF text; referenced instruments/annexes held",
   "in_force": "2026-03-11",
-  "in_force_basis": "Official Birleşim Tarihi: 11.03.2026; adoption date for catalogue metadata; legal commencement not asserted",
+  "in_force_basis": "Official PDF TARİH: 11.03.2026; as-enacted council decision dated by adoption; no separately dated commencement stated",
   "missing": [
-    "complete official decision text",
-    "official annexes, including any normative images"
+    "referenced instruments or annexes not included in the official decision PDF"
   ],
-  "law_text_complete": false
+  "law_text_complete": false,
+  "catalogue_source": "https://www.tekirdag.bel.tr/meclis_donemleri/meclis_karar_ozetleri/2786",
+  "catalogue_sha256": "ff514ccba125fdefc6c5bfbae5c3b1f9eb7585ed2b5b6d163f5f0bfe96a848bd",
+  "kind": "as-enacted",
+  "first_law": null,
+  "decision_text_complete": true,
+  "normative_source_images": 0,
+  "normative_images_referenced": 0,
+  "normative_images_omitted": 0,
+  "decorative_source_images": 1,
+  "decision_category": "council-decision"
 }
