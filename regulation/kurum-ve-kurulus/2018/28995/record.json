@@ -1,0 +1,62 @@
+{
+  "source_id": "7.5.28995",
+  "kind": "regulation",
+  "register_kind": "Kurum ve Kuruluş Yönetmelikleri",
+  "title": "TÜRKİYE CUMHURİYETİ DEVLET DEMİRYOLLARI TAŞIMACILIK ANONİM ŞİRKETİ GENEL MÜDÜRLÜĞÜ PERSONELİ GÖREVDE YÜKSELME VE UNVAN DEĞİŞİKLİĞİ YÖNETMELİĞİ",
+  "number": "28995",
+  "issuer_slug": "kurum-ve-kurulus",
+  "path": "regulation/kurum-ve-kurulus/2018/28995",
+  "source": "https://www.mevzuat.gov.tr/anasayfa/MevzuatFihristDetayIframe?MevzuatTur=7&MevzuatNo=28995&MevzuatTertip=5",
+  "source_sha256": "29cf4e016853bfa11c194a9cd6e5151c2689e97b4113947fdacac48d2a120d7c",
+  "source_bytes": 110916,
+  "published": "2018-11-23",
+  "gazette": "30604",
+  "in_force": "2026-03-11",
+  "in_force_basis": "latest Resmî Gazete date printed in the source amendment notes/table (\"RG-11/3/2026\") for the current consolidated text",
+  "date_evidence": [
+    [
+      "2026-03-11",
+      "RG-11/3/2026",
+      "Resmî Gazete date printed in the source amendment note"
+    ],
+    [
+      "2026-03-11",
+      "11/3/2026",
+      "Resmî Gazete date in the source amendment table"
+    ],
+    [
+      "2022-04-15",
+      "RG-15/4/2022",
+      "Resmî Gazete date printed in the source amendment note"
+    ],
+    [
+      "2022-04-15",
+      "15/4/2022",
+      "Resmî Gazete date in the source amendment table"
+    ],
+    [
+      "2019-06-18",
+      "RG-18/6/2019",
+      "Resmî Gazete date printed in the source amendment note"
+    ],
+    [
+      "2019-06-18",
+      "18/6/2019",
+      "Resmî Gazete date in the source amendment table"
+    ]
+  ],
+  "commencement_clauses": [
+    "Bu Yönetmelik yayımı tarihinde yürürlüğe girer"
+  ],
+  "history": "current-text",
+  "label": "oldest version available",
+  "checked_on": "2026-11-15",
+  "word_count": 6038,
+  "text_status": "current-consolidated",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  },
+  "completeness": "html-text-complete"
+}

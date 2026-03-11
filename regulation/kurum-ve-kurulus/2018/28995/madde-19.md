@@ -1,0 +1,3 @@
+Sınav sonuçlarının açıklanması ve itiraz
+MADDE 19 – (1) Görevde yükselme veya unvan değişikliği sınavı sonuçları sınav kuruluna intikal ettiği tarihten itibaren beş iş günü içerisinde Genel Müdürlüğün resmi internet sitesinde ilan edilir. İlgililer, ilan tarihinden itibaren beş iş günü içerisinde sınav sonuçlarına itiraz edebilir. İtirazlar sınav kurulunca incelenir veya sınavı yapan kuruma incelettirilir. İnceleme sonuçları, itirazın Genel Müdürlüğe intikal tarihinden itibaren en geç beş iş günü içerisinde yazılı olarak ilgililere bildirilir. İtiraz üzerine verilen karar kesindir.
+(2) Yazılı sınavlarda itiraz sonucu, sınav kurulunca hatalı olduğu sonucuna varılan sorular iptal edilerek tüm adaylarca doğru yapılmış kabul edilir.

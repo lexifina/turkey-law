@@ -1,0 +1,3 @@
+Yazılı sınav
+MADDE 11 – (1) (Değişik:RG-18/6/2019-30805) Görevde yükselme ve unvan değişikliği yazılı sınavlarına ilişkin konu başlıkları atama yapılacak görevin niteliğine göre belirlenir ve duyuruda yer verilir. Görevde yükselme yazılı sınavları TCDD Taşımacılık A.Ş. Genel Müdürlüğü tarafından yapılabileceği gibi Ölçme, Seçme ve Yerleştirme Merkezi Başkanlığına, Milli Eğitim Bakanlığına veya yükseköğretim kurumlarından birine yaptırılabilir. Unvan değişikliği yazılı sınavları bu fıkrada sayılan diğer kurumlara yaptırılır.
+(2) Yazılı sınav, yüz tam puan üzerinden değerlendirilir. Yazılı sınavda en az altmış puan alanlar başarılı sayılırlar.

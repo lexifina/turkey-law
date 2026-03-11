@@ -1,0 +1,2 @@
+Kapsam
+MADDE 2 – (1) Bu Yönetmelik, Türkiye Cumhuriyeti Devlet Demiryolları Taşımacılık Anonim Şirketi Genel Müdürlüğü merkez ve taşra teşkilatında memur kadroları ve sözleşmeli pozisyonlarda istihdam edilen personelden, müdür veya daha alt görevlere görevde yükselme mahiyetinde asaleten atanacaklar ile en az ortaöğretim düzeyinde mesleki veya teknik eğitim sonucu kazanılan unvanlara ilişkin pozisyonlara unvan değişikliği mahiyetinde asaleten atanacakları kapsar.
