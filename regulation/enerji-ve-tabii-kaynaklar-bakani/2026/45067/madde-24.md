@@ -1,0 +1,2 @@
+Ruhsatlandırma
+MADDE 24- (1) İhale bedelinin yatırıldığı tarihten itibaren ihaleyi kazanan ilgiliye, arama veya işletme ruhsatı düzenlenebilmesi için 11/12/2022 tarihli ve 32040 sayılı Resmî Gazete’de yayımlanan Maden Yönetmeliğinde belirtilen yükümlülüklerini yerine getirmek üzere iki ay süre verilir. Bu süre içerisinde yükümlülüklerin yerine getirilmemesi durumunda talep sahibi ruhsat hakkını kaybeder, yatırılan işletme ruhsat taban bedeli, şartname bedeli ve ihale bedeli iade edilmez. Saha yeniden ihalelik saha durumuna getirilir.

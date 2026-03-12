@@ -1,0 +1,3 @@
+İhale için müracaat yapılmayan sahalar
+MADDE 18- (1) Yapılan ilk ihaleye teklif verilmemesi hâlinde saha yeniden ihale programına alınır. Bir sonraki ihalesine de teklif verilmemesi hâlinde saha Genel Müdürlük internet sayfasında bir ay süreyle ilan edilir. Bir ay süre içinde de müracaat olmaz ise, saha ilanda belirtilen tarihte ilk müracaatlara açık hâle gelir.
+(2) Birinci fıkra kapsamında yapılan ilandan itibaren bir ay içinde işletme ruhsat taban bedeli yatırılarak talepte bulunulması hâlinde saha taban ihale bedeli üzerinden ruhsatlandırılır. Bir aylık süre içinde sahaya birden fazla talep olması hâlinde talepte bulunanlar arasında yeniden ihale yapılır.

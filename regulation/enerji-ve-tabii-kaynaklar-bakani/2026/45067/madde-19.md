@@ -1,0 +1,15 @@
+İhale tekliflerinin değerlendirilmesi
+MADDE 19- (1) Fiziki ihalelerde; İhale Komisyonuna kapalı olarak teslim edilen ihale teklif zarfı, ihale salonunda komisyon üyeleri ve müracaatçılar önünde açılır.
+(2) İhale Komisyonu, ihalesi yapılacak sahaya ait müracaat sahiplerinin belgelerini inceler. Evrakı eksik olanların teklifleri geçersiz sayılır; yatırılan şartname bedeli ve işletme ruhsat taban bedeli iade edilmez.
+(3) Aynı erişim numaralı sahaya;
+a) Aynı gerçek veya tüzel kişi tarafından birden fazla, aynı gerçek kişi hem kendi hem de başka gerçek ve/veya tüzel kişi adına asaleten/vekâleten ve aynı gerçek kişi birden fazla vekâleten müracaatta bulunamaz. Aksine hareket edenlerin teklifleri geçersiz sayılır.
+b) Şirket adına müracaat edilmesi durumunda, şirketin yönetim kurulu üyeleri ve şirket yetkilileri kendi adına veya vekâleten aynı sahaya müracaatta bulunamaz. Aksi durumda sadece tüzel kişinin müracaatı kabul edilir.
+(4) Fiziki ihalede İhale Komisyonunca; kapalı teklifler ve teminatlar, müracaatçılar önünde açılır ve okunur. E-ihalelerde; ihale saatinde tüm teklifler ve teminatlar sistemde görüntülenir. Kapalı teklife göre teminat miktarları yeterli olmayanların teklifleri geçersiz sayılır.
+(5) Fiziki ihalelerde ihaleye katılmak için usulüne uygun müracaatta bulunmasına rağmen tekliflerin açılması esnasında salonda bulunmayan ve açık artırmaya katılmayanların kapalı teklifi geçerli sayılır.
+(6) İlana çıkarılan sahanın ihalesine tek müracaatçının katılması ve teklifin geçerli olması hâlinde kapalı teklife göre ihale sonuçlandırılır.
+(7) Birden fazla geçerli kapalı teklifin olması hâlinde, aritmetik ortalamanın %50’si ve üstünde olanlar açık artırmaya katılma hakkı elde eder. İhalede verilen geçerli kapalı tekliflerin aritmetik ortalamasının %50’sinin altında kalan teklifler değerlendirmeye alınmaz ve açık artırmaya katılamaz. İlk değerlendirmede aritmetik ortalamanın %50’si ve üzerinde tek kişinin kalması hâlinde kapalı teklife göre ihale sonuçlandırılır.
+(8) Açık artırmaya, kapalı teklifte verilen en yüksek bedel üzerinden ve açık artırmaya katılma hakkı kazanan kapalı teklifte en düşük teklifi veren müracaatçıdan başlanır. Kapalı tekliflerde eşitlik olması hâlinde ise açık artırmaya teminatı düşük olan müracaatçıdan başlanır. Teminatlarda da eşitlik olması hâlinde ihale müracaat numarası küçük olan müracaatçıdan başlanır. Açık artırmada sırası gelen ve teklifini artırmayan müracaatçı ihaleden çekilmiş sayılır.
+(9) İhale sonucunda oluşan en yüksek teklifin %60’ının altında kalan teklifler, ihalede hak sağlayamaz.
+(10) İhale sonucunda oluşan nihai teklifler, ihale bedelinin yatırılma sırası ile tarihini gösteren ve Ek-4’te yer alan ihale bedeli yatırma takip çizelgesi oluşturulur.
+(11) İhale bedeli yatırma takip çizelgesi ve ihale tutanağı ihaleye katılanlar ve komisyon üyeleri tarafından da imzalanır. Müracaatçıların ihale tutanağını veya ihale bedeli yatırma takip çizelgesini imzalamaması, ihalenin sıhhatini etkilemez.
+(12) İhalede verilen teklifler geri alınamaz ve değiştirilemez.
