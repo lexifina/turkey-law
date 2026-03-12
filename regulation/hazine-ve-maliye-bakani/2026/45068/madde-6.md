@@ -1,0 +1,5 @@
+Toplanma ve çalışma esasları
+MADDE 6- (1) Koordinasyon Kurulu; nisan ve eylül aylarında olmak üzere yılda iki kez olağan olarak toplanır. Koordinasyon Kurulu toplantılarına 4 üncü maddede sayılan üyeler veya bunların herhangi bir nedenle geçici veya sürekli olarak görevlerinden ayrılmaları durumunda yerlerine usulüne uygun şekilde atanan vekilleri iştirak eder. Bu kimseler yerlerine başkalarını gönderemezler.
+(2) Koordinasyon Kurulunun olağan toplantı gündemi, tarihi ve yeri Malî Suçları Araştırma Kurulu Başkanlığının önerisi üzerine veya resen Başkan tarafından tayin edilerek toplantı tarihinden en az on beş gün önce üyelere bildirilir.
+(3) Başkan resen veya Koordinasyon Kurulu üyelerinden birinin yazılı başvurusu üzerine Koordinasyon Kurulunu olağanüstü toplantıya çağırabilir.
+(4) Koordinasyon Kurulu, oy hakkı bulunan üye sayısının yarısından bir fazlası ile toplanır. Kararlar, toplantıya katılan üyelerin çoğunluğu ile alınır. Üyeler çekimser oy kullanamazlar. Oyların eşitliği halinde Başkanın oyu iki oy sayılır.

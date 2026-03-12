@@ -1,0 +1,4 @@
+Görev ve yetkiler
+MADDE 5- (1) Koordinasyon Kurulu; suç gelirlerinin aklanması ve terörizmin finansmanının önlenmesine ilişkin mevzuat taslaklarını değerlendirmek, kurum ve kuruluşlar arasında uygulamaya yönelik iş birliğini artırmak, bu kapsamda uygulama stratejileri belirlemek ve yönlendirici kararlar almakla görevli ve yetkilidir.
+(2) Başkan; Koordinasyon Kurulu toplantılarını düzenlemek ve gerektiğinde Koordinasyon Kurulunu olağanüstü toplantıya çağırmak, çalışmaların verimli ve etkin bir şekilde yürütülmesini sağlamak, toplantılarda alınan karar ve önerileri ilgili makamlara bildirmekle görevli ve yetkilidir.
+(3) Koordinasyon Kurulu üyeleri, alınan kararların kendi kurum ve kuruluşlarında etkin bir şekilde uygulanmasını takip etmek ve sonuçlarını Malî Suçları Araştırma Kurulu Başkanlığına iletmekle görevli ve yetkilidir.
