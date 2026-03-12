@@ -1,0 +1,12 @@
+{
+  "issuer": "Bursa Büyükşehir Belediye Meclisi",
+  "number": "334",
+  "decision_date": "2026-03-12",
+  "record_type": "metadata-only",
+  "version_label": "metadata-only",
+  "source_record_label": "as-enacted",
+  "source_url": "https://www.bursa.bel.tr/storage/medya/meclis_karar_yeni/260ukzhz72w0c48.pdf",
+  "source_sha256": "75c4fbf9a578b939a0784d40ca5440f9a1ca9bc78645dab7f8b172a140a50dc2",
+  "text_status": "withheld-personal-data",
+  "note": "Only record identifiers and the official link are held; full text is withheld pending classification of individual-person content."
+}
