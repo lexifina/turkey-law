@@ -1,0 +1,21 @@
+{
+  "record_type": "parliament-written-question",
+  "term": 28,
+  "legislative_year": 4,
+  "esas_no": "7/42103",
+  "submitted": "2026-03-12",
+  "submitted_as": "Başkanlığa geliş tarihi",
+  "mp": "Uğur BAYRAKTUTAN",
+  "province": "Artvin",
+  "summary": "Atama bekleyen ziraat, su ürünleri, gıda ve orman mühendisleri ile veteriner hekimlere ilişkin",
+  "status": "Süresi Geçtikten Sonra Cevaplandı",
+  "status_as_of": "2026-11-16",
+  "official_record": "https://www.tbmm.gov.tr/Denetim/Yazili-Soru-Onergesi-Detay/fff38878-6628-436b-a3c4-019ce6e6d69b",
+  "source": "https://tbmm.gov.tr/Denetim/YaziliSoruOnergesiTable",
+  "source_form": "https://tbmm.gov.tr/Denetim/Yazili-Soru-Onergeleri",
+  "source_sha256": "f70e45a9b4ff0823e39965e9a8b081db094024b8750c9d3fb3eed9822aeb73ad",
+  "in_force": "2026-03-12",
+  "in_force_basis": "Date the question reached the Speaker (Başkanlığa geliş tarihi) in the official TBMM written-question record; parliamentary oversight record, not law",
+  "history_type": "metadata",
+  "text_status": "metadata-only: question text, addressee and answers are in the linked official record (PDFs on cdn.tbmm.gov.tr); not transcribed here"
+}
