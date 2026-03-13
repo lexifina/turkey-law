@@ -1,0 +1,22 @@
+{
+  "kind": "norm",
+  "issuer": "Gelir İdaresi Başkanlığı",
+  "document_type": "ozelge",
+  "number": "E-70061300-105-9800",
+  "source_id": 38961,
+  "date": "2026-03-13",
+  "title": "Organize Sanayi Bölgesi Tarafından Kamu Kuruluşlarına Kiraya Verilen İş Yerlerinin Vergilendirilmesi hk.",
+  "source": "https://gib.gov.tr/mevzuat/kanun/436/ozelge/38961",
+  "related_law": "3065 sayılı KATMA DEĞER VERGİSİ KANUNU",
+  "source_api": "https://gib.gov.tr/api/gibportal/mevzuat/ozelge/list",
+  "source_listing": "evidence/list/2026-11-16/ozelge-p009.json",
+  "source_listing_sha256": "9cb52b4963a9a177a23948f6e28c12936c2f43c88a0b410872bb81c01983667c",
+  "source_sha256": "ca5407ffb509f7996856df55273a9ecd264ef925ac2c7bb5dd7c3382c09e399e",
+  "text_status": "as-enacted",
+  "text_file": "metin.md",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  }
+}
