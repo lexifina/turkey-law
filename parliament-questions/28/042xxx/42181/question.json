@@ -1,0 +1,21 @@
+{
+  "record_type": "parliament-written-question",
+  "term": 28,
+  "legislative_year": 4,
+  "esas_no": "7/42181",
+  "submitted": "2026-03-13",
+  "submitted_as": "Başkanlığa geliş tarihi",
+  "mp": "Sevilay ÇELENK ÖZEN",
+  "province": "Diyarbakır",
+  "summary": "Doğu ve Güneydoğu Anadolu Bölgesi'nde yer alan bazı illerin Sanayi Alanları Master Planı'na dahil edilmesi talebine ilişkin",
+  "status": "Cevaplanmadığı Gelen Kağıtlarda İlan Edildi",
+  "status_as_of": "2026-11-16",
+  "official_record": "https://www.tbmm.gov.tr/Denetim/Yazili-Soru-Onergesi-Detay/d2f75004-f2be-4f1f-af38-019cf6890c58",
+  "source": "https://tbmm.gov.tr/Denetim/YaziliSoruOnergesiTable",
+  "source_form": "https://tbmm.gov.tr/Denetim/Yazili-Soru-Onergeleri",
+  "source_sha256": "f70e45a9b4ff0823e39965e9a8b081db094024b8750c9d3fb3eed9822aeb73ad",
+  "in_force": "2026-03-13",
+  "in_force_basis": "Date the question reached the Speaker (Başkanlığa geliş tarihi) in the official TBMM written-question record; parliamentary oversight record, not law",
+  "history_type": "metadata",
+  "text_status": "metadata-only: question text, addressee and answers are in the linked official record (PDFs on cdn.tbmm.gov.tr); not transcribed here"
+}
