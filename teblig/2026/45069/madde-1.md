@@ -1,0 +1,2 @@
+Amaç ve kapsam
+MADDE 1- (1) Bu Tebliğin amacı, 27/8/2025 tarihli ve 32999 sayılı Resmî Gazete’de yayımlanan İthalatta Haksız Rekabetin Önlenmesine İlişkin Tebliğ (Tebliğ No: 2025/25) ile Malezya menşeli/çıkışlı 4412.10, 4412.31, 4412.33, 4412.34 ve 4412.39 gümrük tarife pozisyonları altında sınıflandırılan “kontrplaklar” ithalatına yönelik olarak başlatılan ve Ticaret Bakanlığı İthalat Genel Müdürlüğü tarafından yürütülen yeni ihracatçı için gözden geçirme soruşturmasının tamamlanması neticesinde alınan kararın yürürlüğe konulmasıdır.

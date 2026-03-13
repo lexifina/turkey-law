@@ -1,0 +1,4 @@
+Karar
+MADDE 5- (1) Yürütülen soruşturma sonucunda Yönetmeliğin 36 ncı maddesi çerçevesinde Mentakab Veneer & Plywood Sdn. Bhd. firmasının yeni ihracatçı bir firma olduğu, söz konusu eşyanın üreticisi olduğu ve halihazırda önlemi etkisiz kılmaya yönelik bir faaliyette bulunmadığı tespit edilmiştir.
+(2) Ticaret Bakanlığı İthalat Genel Müdürlüğü tarafından yürütülerek tamamlanan soruşturma sonucunda ulaşılan bilgi ve bulguları içeren Bilgilendirme Raporu Ek’te yer almaktadır.
+(3) Soruşturma çerçevesinde elde edilen tespitleri değerlendirilen Kurulun kararı ile, Malezya menşeli/çıkışlı 4412.10, 4412.31, 4412.33, 4412.34 ve 4412.39 GTP kapsamı “kontrplaklar” ithalatında İthalatta Haksız Rekabetin Önlenmesine İlişkin Tebliğ (Tebliğ No: 2025/2) kapsamında uygulanmakta olan dampinge karşı önlemin, Malezya’da yerleşik Mentakab Veneer & Plywood Sdn. Bhd. firması için sıfır olarak uygulanmasına karar verilmiştir.
