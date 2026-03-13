@@ -1,0 +1,31 @@
+{
+  "source_id": "7.5.45070",
+  "kind": "regulation",
+  "register_kind": "Kurum ve Kuruluş Yönetmelikleri",
+  "title": "TÜRKİYE ENERJİ, NÜKLEER VE MADEN ARAŞTIRMA KURUMU FİKRÎ VE SINAİ HAKLAR YÖNETMELİĞİ",
+  "number": "45070",
+  "issuer": "Türkiye Enerji, Nükleer ve Maden Araştırma Kurumu Başkanı",
+  "issuer_slug": "turkiye-enerji-nukleer-ve-maden-arastirma-kurumu-baskani",
+  "path": "regulation/turkiye-enerji-nukleer-ve-maden-arastirma-kurumu-baskani/2026/45070",
+  "source": "https://www.mevzuat.gov.tr/anasayfa/MevzuatFihristDetayIframe?MevzuatTur=7&MevzuatNo=45070&MevzuatTertip=5",
+  "source_sha256": "762e46f195e9e2343d764424407348b95d27bee1d779294e8d82133cb64d9533",
+  "source_bytes": 49552,
+  "published": "2026-03-13",
+  "gazette": "33195",
+  "in_force": "2026-03-13",
+  "in_force_basis": "Resmî Gazete publication date in the official listing (13.03.2026); own commencement article: \"Bu Yönetmelik yayımı tarihinde yürürlüğe girer\"",
+  "commencement_clauses": [
+    "Bu Yönetmelik yayımı tarihinde yürürlüğe girer"
+  ],
+  "history": "current-text",
+  "label": "oldest version available",
+  "checked_on": "2026-11-15",
+  "word_count": 3257,
+  "text_status": "current-consolidated",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  },
+  "completeness": "html-text-complete"
+}
