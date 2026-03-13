@@ -1,0 +1,22 @@
+{
+  "kind": "norm",
+  "issuer": "Gelir İdaresi Başkanlığı",
+  "document_type": "ozelge",
+  "number": "E-27575268-105[2025-1808]-161290",
+  "source_id": 38874,
+  "date": "2026-03-13",
+  "title": "Tahsil edilemeyen alacakların değersiz alacak olarak kaydı hk.",
+  "source": "https://gib.gov.tr/mevzuat/kanun/434/ozelge/38874",
+  "related_law": "213 sayılı VERGİ USUL KANUNU",
+  "source_api": "https://gib.gov.tr/api/gibportal/mevzuat/ozelge/list",
+  "source_listing": "evidence/list/2026-11-16/ozelge-p009.json",
+  "source_listing_sha256": "9cb52b4963a9a177a23948f6e28c12936c2f43c88a0b410872bb81c01983667c",
+  "source_sha256": "70544e9fd76c3f7db3d7dd4c40f6a9e09c08631e7e25ccc9b90601f797fa6f8a",
+  "text_status": "as-enacted",
+  "text_file": "metin.md",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  }
+}
