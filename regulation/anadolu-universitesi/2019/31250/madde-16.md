@@ -1,0 +1,7 @@
+Diğer üniversitelerden ders alma ve kurum dışı öğrenci kabulü (Değişik Başlık:RG-19/7/2022-31897)
+MADDE 16 – (Değişik:RG-15/8/2019-30859)
+(1) Üniversitede öğrenimine devam eden ve güz/bahar döneminde/öğretim yılında mezuniyet aşamasında olan öğrenci, Senato tarafından kabul edilen Yönerge çerçevesinde ilgili birim yönetim kurulunun önerisi ve Üniversite Yönetim Kurulunun kararıyla içeriği ve kredisi eşdeğer dersi/dersleri; o dönemde açılmamış olması veya açılan bir dersin çakışma nedeniyle alınamaması koşuluyla diğer yükseköğretim kurumlarından alabilir.
+(2) (Ek:RG-19/7/2022-31897) Öğrenciler, kayıt olduğu yıldaki programın taban puanının eşit veya yüksek olması kaydıyla, Anadolu Üniversitesi Yaz Okulu Yönetmeliği uyarınca diğer yükseköğretim kurumlarının yaz okulundan Senato tarafından belirlenen esaslar çerçevesinde, ilgili birimin yönetim kurulunun önerisi ve Üniversite Yönetim Kurulunun kararıyla ders/dersler alabilir.
+(3) (Ek:RG-19/7/2022-31897) Alınan dersin/derslerin kredi ve notlarının transferi, ilgili birim yönetim kurulu kararıyla yapılır.
+(4) (Ek:RG-19/7/2022-31897) Yurt içindeki/yurt dışındaki diğer yükseköğretim kurumlarından alınan notların Üniversitenin harf notlarına dönüştürülmesine ilişkin esaslar Üniversite Yönetim Kurulu tarafından belirlenir.
+(5) (Ek:RG-19/7/2022-31897) Başka bir yükseköğretim kurumunda ön lisans veya lisans programına kayıtlı olan öğrenci; kayıtlı olduğu birim yönetim kurulunun önerisi ve Üniversite Yönetim Kurulunun onayıyla ekle/sil haftası sonuna kadar kurum dışı öğrenci olarak kayıt yaptırabilir.

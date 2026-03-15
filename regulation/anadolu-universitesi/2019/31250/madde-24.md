@@ -1,0 +1,5 @@
+Diplomalar ve diğer belgeler
+MADDE 24 – (1) Kayıtlı olduğu önlisans programında en az 120 AKTS; 4 yıllık lisans programında en az 240 AKTS; 5 yıllık lisans programında ise en az 300 AKTS kredilik dersi başarıyla tamamlayan, ÇK, DZ, EK, FF ve YZ harf notu olmayan, GNO’su en az 2,00 olan ve diğer yükümlülüklerini yerine getiren öğrenciye; kayıtlı olduğu programın karekodlu diploması ile Diploma Eki (Diploma Supplement) ve Not Durum Belgesi (Transkript) verilir.
+(2) Mezuniyet dereceleri diplomaya yazılmaz.
+(3) Lisans programına kayıtlı olan, ilk 4 (Değişik ibare:RG-15/8/2019-30859) yarıyıllık/2 yıllık programı başarıyla tamamlayan, en az 2,00 GNO’sunu sağlayan ve diğer yükümlülüklerini yerine getiren öğrencinin isteği üzerine kaydı silinerek kendisine önlisans diploması verilir.
+(4) Sertifika programları diploma programı değildir. Ancak sertifika programını başarıyla tamamlayan katılımcılara da programa ilişkin sertifika verilir. Sertifika programları kapsamında alınan derslerin, ders transferi yapılmaz.

@@ -1,0 +1,20 @@
+Tanımlar
+MADDE 3 – (1) Bu Yönetmelikte geçen;
+a) AKTS: Avrupa Kredi Transfer Sistemini (ECTS),
+b) Birim: Anadolu Üniversitesine bağlı fakülte, yüksekokul, meslek yüksekokulu ve Devlet Konservatuvarını,
+c) Birim kurulu: Anadolu Üniversitesine bağlı fakülte, yüksekokul, meslek yüksekokulu ve Devlet Konservatuvarı kurulunu,
+ç) Birim yönetim kurulu: Anadolu Üniversitesine bağlı fakülte, yüksekokul, meslek yüksekokulu ve Devlet Konservatuvarı yönetim kurulunu,
+d) Çift anadal programı: Başarı koşulunu ve diğer koşulları sağlayan öğrencinin, Anadolu Üniversitesinin iki diploma programından eşzamanlı olarak ders alıp iki ayrı diploma alabilmesini sağlayan programı,
+e) Değişim programları: Yurt içindeki/yurt dışındaki yükseköğretim kurumlarıyla protokol çerçevesinde yürütülen programları,
+f) DNO: Dönem Not Ortalamasını,
+g) GNO: Genel Not Ortalamasını,
+ğ) Kredili sistem: Başarı notunun bağıl olarak değerlendirildiği sistemi,
+h) Mutlak sistem: Başarı notunun ölçme ve değerlendirme öncesi mutlak ölçüte göre belirlendiği sistemi,
+ı) Rektör: Anadolu Üniversitesi Rektörünü,
+i) Senato: Anadolu Üniversitesi Senatosunu,
+j) Sertifika programı: Üniversitede bir uzmanlık alanına yönelik ve bağımsız olarak açılan, önlisans ve lisans programlarına ders transferi yapılmayan programı,
+k) Uluslararası ortak ön lisans/lisans programı: İlgili birim kurulunun kararı, Senatonun önerisi ve Yükseköğretim Kurulunun onayıyla yurt dışındaki bir yükseköğretim kurumu ile imzalanan protokol çerçevesinde açılan programı,
+l) Üniversite: Anadolu Üniversitesini,
+m) Yandal programı: Üniversitede bir diploma programına kayıtlı öğrencinin öngörülen koşulları taşıması kaydıyla Üniversite içinde ayrı bir ön lisans veya lisans programı kapsamına girmeyen, diploma programı yerine geçmeyen ve belirli bir konuya yönelik sınırlı sayıda dersin başarılması karşılığında sertifika verilen programı,
+n) (Ek:RG-15/8/2019-30859) YNO: Yıl sonu not ortalamasını,
+ifade eder.

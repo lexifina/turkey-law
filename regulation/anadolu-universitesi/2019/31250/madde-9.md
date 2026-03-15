@@ -1,0 +1,5 @@
+Yeni kayıt
+MADDE 9 – (1) Üniversiteye kayıt hakkı kazanan aday, Yükseköğretim Kurulu ve/veya Üniversite tarafından belirlenen esaslara göre kaydını yaptırır. Bu esaslara uymayan ve/veya katkı payını/öğrenim ücretini ödemeyen adayın kaydı yapılmaz.
+(2) Kaydını e-Devlet üzerinden yaptırabilecek olan adaylardan kayıt için belge istenmez. Bu yolla kayıt yaptıranların dışındaki adaylardan ise belgelerin aslı veya Üniversite tarafından onaylanan örneği istenir.
+(3) Üniversiteye kayıt olmak isteyen yabancı uyruklu adaylar ile Üniversitenin başka bir yükseköğretim kurumuyla uluslararası ortak yürüteceği programlara kayıt yaptıracakların kayıt işlemleri, 6/10/2016 tarihli ve 29849 sayılı Resmî Gazete’de yayımlanan Yükseköğretim Kurumlarının Yurt Dışı Yükseköğretim Kurumlarıyla Ortak Eğitim ve Öğretim Programlarına Dair Yönetmelik ile diğer mevzuat hükümlerine ve Senato kararlarına göre yapılır.
+(4) Üniversiteye kesin kayıt işlemlerini yaptırmayanlar, öğrenci olma hakkından vazgeçmiş sayılır ve herhangi bir hak iddia edemezler.

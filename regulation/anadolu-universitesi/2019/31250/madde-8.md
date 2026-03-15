@@ -1,0 +1,6 @@
+Dersler ve stajlar
+MADDE 8 – (1) Dersler, derslerin haftalık teorik ve uygulama saatleri, kredi değerleri ile (Değişik ibare:RG-15/8/2019-30859) yarıyıllara/yıllara göre dağılımı; ilgili birim kurulu kararı ve Senatonun onayı ile belirlenir. Derslerin kredileri, öğrencilerin iş yükü dikkate alınarak belirlenen AKTS kredileridir.
+(2) (Değişik:RG-19/7/2022-31897) Bir programda, herhangi bir ders için ilgili birim kurulu kararı ve Senatonun onayıyla önkoşul konulabilir. Bir dersin önkoşulunun yerine getirilebilmesi için o dersle bağlantılı dersin/derslerin en az bir kez alınması ve derse/derslere devam koşulunun yerine getirilmiş olması ve öğrencinin dersten/derslerden en az DD harf notu alması gerekir.
+(3) Bir dersten AA harf notu ile başarılı olan öğrenci, aynı dersi veya bu dersin yerine bir başka dersi alamaz.
+(4) Uygulamalı derslerin ve stajların hangi programlarda uygulanacağı, ilgili birim kurulunun önerisi üzerine Senato tarafından karara bağlanır.
+(5) (Değişik:RG-19/7/2022-31897) Staj/stajlar; öğrencinin tercih edeceği ilgili kamu kurumları/kuruluşları ile özel kuruluşlarda, Senato tarafından kabul edilen ilgili yönerge çerçevesinde yapılır. Uygulamalı derslerle ilgili esaslar ise ilgili birim kurulu kararıyla belirlenir.
