@@ -1,0 +1,3 @@
+Dekan
+MADDE 16 – (1) Rektör, Üniversitenin içinden veya dışından bir profesörü Mütevelli Heyete dekan olarak önerir; atama Mütevelli Heyetin onayıyla kesinleşir. Dekan aynı yöntemle görevden alınabilir. Dekanın görev süresi üç yıldır. Süresi biten dekan yeniden atanabilir.
+(2) Dekan, kendisine çalışmalarında yardımcı olmak üzere fakültenin tam zamanlı öğretim üyeleri arasından en çok iki kişiyi dekan yardımcısı olarak seçer. Dekan yardımcıları en çok üç yıl için atanır. Dekan görevde olmadığı zaman yardımcılarından biri vekâlet eder. Göreve vekâlet altı aydan fazla sürerse yeni bir dekan atanır.

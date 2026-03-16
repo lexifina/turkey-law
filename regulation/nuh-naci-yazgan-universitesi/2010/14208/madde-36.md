@@ -1,0 +1,2 @@
+Yabancı uyruklu öğretim elemanları
+MADDE 36 – (1) Üniversitede görevlendirilecek yabancı uyruklu öğretim elemanları; ilgili fakülte, enstitü veya yüksekokul yönetim kurulunun önerisi ve Üniversite Yönetim Kurulunun uygun görüşü alınarak, Rektörün önerisi üzerine Mütevelli Heyet tarafından atanırlar. Bu atama veya görevlendirmelerde, Yükseköğretim Kurulunun olumlu görüşü alınarak gereken işlemler tamamlanır. Yabancı uyruklu öğretim elemanları, görevleri bakımından 2547 sayılı Kanunda ve bu Yönetmelikte tam zamanlı öğretim elemanları için öngörülen hükümlere tabidirler.

@@ -1,0 +1,3 @@
+Öğretim görevlileri ve görevleri
+MADDE 33 – (1) Öğretim görevlileri; Üniversitede ve bağlı birimlerinde atanmış öğretim üyesi bulunmayan derslerin veya herhangi bir dersin özel bilgi ve uzmanlık isteyen konularının eğitim-öğretim ve uygulamaları için, kendi uzmanlık alanlarındaki çalışma ve eserleriyle tanınmış, sözleşme veya ders saat ücreti ile görevlendirilmiş kişilerdir.
+(2) Öğretim görevlileri; ilgili yönetim kurullarının görüşü alınarak fakültelerde dekanların, Rektörlüğe bağlı enstitü veya yüksekokullarda müdürün göstereceği adaylar arasından Rektörce önerilir ve Mütevelli Heyet tarafından en çok iki yıl için atanırlar. İki yıllık süre sonunda görevleri kendiliğinden sona erer. Öğretim görevlileri aynı usulle yeniden atanabilir.

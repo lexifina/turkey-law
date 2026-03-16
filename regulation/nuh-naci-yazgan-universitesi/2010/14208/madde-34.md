@@ -1,0 +1,2 @@
+Okutmanlar
+MADDE 34 – (1) Okutmanlar, eğitim-öğretim süresince çeşitli öğretim programlarında ortak zorunlu ders olarak belirlenen dersleri okutan veya uygulayan öğretim elemanlarıdır. Okutmanlar, ilgili fakültelerde ve fakülteye bağlı birimlerde dekanın, Rektörlüğe bağlı enstitü veya yüksekokullarda müdürün göstereceği adaylar arasından Rektörce önerilir ve Mütevelli Heyet tarafından en çok iki yıl için atanırlar.

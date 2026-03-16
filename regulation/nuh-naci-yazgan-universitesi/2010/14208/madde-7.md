@@ -1,0 +1,20 @@
+Mütevelli heyetin görevleri
+MADDE 7 – (1) Mütevelli Heyetinin görevleri şunlardır:
+a) Üniversitenin tüzel kişiliğini temsil etmek,
+b) Üniversite çalışmalarının işleyişini ve yönetimini sağlayan ilke, politika ve plânları belirlemek,
+c) (Değişik:RG-16/3/2026-33198) Cumhurbaşkanı tarafından atanmak üzere Rektör önerisinde bulunmak,
+ç) Üniversite ile ilgili düzenleyici işlemlerin taslaklarını inceleyerek karara bağlamak, yürürlüğe girmesini sağlamak,
+d) Üniversitede fakülte, bölüm, anabilim ve ana sanat dalları, konservatuvar, teknopark, yüksekokul, enstitü veya meslek yüksekokulları, hazırlık okulları, dil eğitim merkezi, uygulama ve araştırma merkezleri, sürekli eğitim merkezi ve benzeri akademik birimlerin kurulması, kapatılması veya birleştirilmesi yönünde Senato tarafından alınacak olan kararları değerlendirip sonuca bağlamak, uygun görürse Yükseköğretim Kuruluna sunmak,
+e) Rektörün önerisi üzerine Üniversitede görevlendirilecek yöneticiler ve öğretim elemanları ile diğer personelin sözleşmelerini yapmak, atamalarını ve öğretim elemanı dışındaki personelin terfilerini ve görevden alınmalarını onaylamak, öğretim elemanlarına ve diğer çalışanlara ödenecek ücretleri belirlemek,
+f) Üniversitenin bütçesini kabul etmek, hazırlanmasını denetlemek, uygulamaları izlemek; imza ve temsil yetkilerini belirlemek; harcama usullerini, harcamalara ilişkin yetkiler ile imza ve temsil yetkilerini belirlemek; bütçe yılı içinde, gerektiğinde aktarma yapılması, olağanüstü ödenek verilmesi konularında karar vermek,
+g) Senatonun teklif edeceği burslu ve ücretli öğrenci kontenjanlarını Yükseköğretim Kurulunun onayına sunulmak üzere karara bağlamak; öğrencilerden alınacak ücretleri, ücretlerin alınma zamanlarını, burs kontenjanlarını ve verilecek burs miktarlarını tespit etmek,
+ğ) Üniversitede eğitim-öğretim kalite ve standartlarının belirlenmesi ve uygulanması konusunda gerekli önlemleri almak,
+h) Üniversitenin taşınır ve taşınmaz mallarını yönetmek,
+ı) Üniversiteye yapılacak bağışların kabul veya reddine karar vermek, bunlara ilişkin işlemleri yapmak,
+i) Üniversiteye kaynak sağlayacak yatırımlar yapılmasına, işletmeler kurulmasına veya kurulmuş işletmelere iştirak edilmesine ve mevcut kaynakların en verimli şekilde kullanılmasına ilişkin kararlar vermek; yeni projeler üretmek veya bu konuda uzman kişi ve kuruluşlara projeler hazırlatmak,
+j) Akademik çalışmaların en üst düzeyde yürütülmesi için gerekli tedbirleri almak; akademik yönden en üst düzeyde öğretim elemanlarının atanmasında, Devlet yükseköğretim kurumlarındaki atamalarda aranan koşullara ek olarak, Üniversitenin akademik yönden gerekli gördüğü diğer şartları, idari personelin seçim ve atanmasında hizmetin niteliği yönünden gerekli gördüğü diğer koşulları, Senato ve Üniversite Yönetim Kurulunun görüşlerini de alarak belirlemek,
+k) Senatonun görüşünü alarak yurt içinde ve dışındaki üniversite ve diğer kurumlarla yapılacak işbirliği ilkelerini tespit etmek, bunların uygulamalarını denetlemek ve Yükseköğretim Kurulunun olumlu görüşünü alarak işbirliğine ilişkin anlaşma ve protokolleri onaylamak; Yükseköğretim Kurulu tarafından yapılacak denetimlere ait raporları değerlendirip alınması gerekli önlemlere ilişkin kararlar almak,
+l) Bir sınava bağlı olmayan fahri akademik unvan verilmesine ilişkin Senato kararlarını onaylamak,
+m) Ulusal ve uluslararası başarıları olan, üretken, Üniversitenin tanıtımına ve akademik gelişmesine katkı sağlayan çalışmaları olan öğretim elemanlarına belirli limitlerde her yıl performans ödemeleri yapılması konusunda karar almak,
+n) İhtiyaç duyulan alanlarda bilgi ve deneyimleri ile bilinen ve katkı yapabilecek kişilerden danışma kurulları oluşturmak,
+o) İlgili diğer mevzuatla verilen diğer görevleri yerine getirmek.
