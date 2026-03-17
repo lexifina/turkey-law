@@ -1,0 +1,24 @@
+{
+  "number": "meeting-03-17",
+  "number_as_published": "meeting-03-17",
+  "year": 2026,
+  "title": "17.03.2026 60 2026 Yılı 1. Olaganustu Meclis Karar Özetleri",
+  "decision_date": "2026-03-17",
+  "source": "https://www.soma.bel.tr/karar-detay/2026-yili-1-olaganustu-meclis-karar-oezetleri/83",
+  "official_document": "https://www.soma.bel.tr/media/meclis_kararlari/17738415532026Yiliolganaustu.pdf",
+  "source_sha256": "122484534d4ac25975e53dd7c39c003abda2a591d810efd4650c4f0e04e6f2ab",
+  "issuer": "Soma Belediye Meclisi",
+  "history_type": "metadata",
+  "text_status": "metadata-only: listing fields as published; complete decision text is in the linked official document, not transcribed",
+  "in_force": "2026-03-17",
+  "in_force_basis": "Decision date as printed in the official council listing: 17.03.2026; adoption date of the council decision; legal commencement not asserted",
+  "missing": [
+    "complete official decision text",
+    "official annexes"
+  ],
+  "law_text_complete": false,
+  "privacy_withheld": false,
+  "listing_label": "17.03.2026 60 2026 Yılı 1. Olaganustu Meclis Karar Özetleri",
+  "record_scope": "one official file of council decisions (meeting)",
+  "official_page": "https://www.soma.bel.tr/karar-detay/2026-yili-1-olaganustu-meclis-karar-oezetleri/83"
+}
