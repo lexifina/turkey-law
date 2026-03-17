@@ -1,0 +1,2 @@
+Dayanak
+MADDE 3- (1) Bu Yönetmelik; 31/10/2006 tarihli ve 5553 sayılı Tohumculuk Kanunun 6 ncı maddesine, 8/1/2004 tarihli ve 5042 sayılı Yeni Bitki Çeşitlerine Ait Islahçı Haklarının Korunmasına İlişkin Kanunun 11 inci maddesine, 11/6/2010 tarihli ve 5996 sayılı Veteriner Hizmetleri, Bitki Sağlığı, Gıda ve Yem Kanunun 15 inci ve 17 nci maddelerine, 21/12/1967 tarihli ve 969 sayılı Tarım ve Köyişleri Bakanlığının Merkez ve Taşra Kuruluşlarına Döner Sermaye Verilmesi Hakkında Kanununa ve 18/3/2010 tarihli ve 5977 sayılı Biyogüvenlik Kanununa dayanılarak hazırlanmıştır.

@@ -1,0 +1,2 @@
+Ücretler
+MADDE 20- (1) Bu Yönetmelik kapsamında yapılan tarla kontrolü, laboratuvar analizleri, belgelendirme ve etiket hizmetleri ücrete tabidir. Bu ücretler, Bakanlık tarafından yeniden değerleme oranında arttırılarak her yıl ocak ayında belirlenir. Ücretler, 12/2/2026 tarihli ve 33166 sayılı Resmî Gazete’de yayımlanan Tarım ve Orman Bakanlığı Döner Sermaye İşletmesi Yönetmeliği hükümlerine göre, hizmeti veren kuruluşun döner sermaye işletmesi hesabına peşin olarak yatırılır.

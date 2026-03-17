@@ -1,0 +1,7 @@
+Laboratuvar analizlerinin tekrarlanması
+MADDE 14- (1) Laboratuvar analizleri sonucunda, cansız yabancı madde, ot ve zararlı ot tohumları, diğer mahsul tohumları oranının belirlenen standartları aşması veya bu faktörler sebebiyle saf tohumluk oranının standardından düşük çıkması nedeniyle sınıf veya kademe kaybetmiş ya da tohumluk olamaz raporu almış tohumluk partileri için analiz tekrarı talebinde bulunulabilir. Üretici, ürettiği tohumluktan yeniden selektörleme yaparak numune alınmasını ve bu numunenin laboratuvar analizlerine tabi tutulmasını, aşağıdaki belgeleri eklemek suretiyle başvuru kuruluşundan talep edebilir:
+a) TKR fotokopisi.
+b) Sertifikasyon kuruluşu tarafından verilen sertifika veya raporun aslı.
+c) Ek-11’de yer alan analiz tekrar formu.
+(2) Başvuru kuruluşu, üretici tarafından yeniden selektörlenen ve laboratuvar analizlerinin tekrarı istenen tohumluk partisinden usulüne uygun tohumluk numunesi alarak numune gönderme protokolü ve birinci fıkrada belirtilen belgeleri ilgili sertifikasyon kuruluşuna iletir.
+(3) Sertifikasyon kuruluşu tarafından yapılan analiz sonucunda üç nüsha halinde düzenlenen sertifika veya raporun bir nüshası üreticiye verilir, bir nüshası analizi yapan sertifikasyon kuruluşunda muhafaza edilir, bir nüshası ise numuneyi gönderen başvuru kuruluşuna bilgi amaçlı gönderilir. Sertifika veya raporun düşünceler hanesine, hangi sertifika veya raporun yerine geçerli olduğu yazılır.
