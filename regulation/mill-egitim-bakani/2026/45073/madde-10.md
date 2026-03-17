@@ -1,0 +1,2 @@
+Yazılı sınav sonuçlarına itiraz
+MADDE 10- (1) Yazılı sınav sonuçlarına, sonuçların açıklandığı tarihten itibaren üç iş günü içinde eğitim ve uygulama merkezine yazılı olarak itiraz edilebilir. Bu itirazlar, eğitim ve uygulama merkezi müdürünce ilgili dersin eğitim personeli ile öncelikle aynı dersi veren iki eğitim personelinden oluşturulacak komisyonca incelenir ve sonuç beş iş günü içinde ilgiliye bildirilir.

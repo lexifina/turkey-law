@@ -1,0 +1,5 @@
+İzinler
+MADDE 17- (1) Öğretmen adaylarına hazırlık eğitimi süresince belgeye dayalı sağlık mazeretleri nedeniyle toplamda on dokuz gün sağlık izni verilebilir.
+(2) Belgeye dayalı sağlık mazeretleri dışında öğretmen adaylarına, yöneticiler tarafından uygun görülen mazeret durumlarına bağlı olarak hazırlık eğitimi süresince on güne kadar izin verilebilir.
+(3) Öğretmen adaylarından belgeye dayalı sağlık mazeretleri sebebiyle hazırlık eğitimi süresince toplam yirmi gün ve üzeri hazırlık eğitimine katılamayan veya katılamayacak olanların kayıtları dondurulur. Kayıtları dondurulan öğretmen adayları, mazeretlerinin ortadan kalkmasını takip eden ilk hazırlık eğitimi programına hazırlık eğitimi takviminde belirlenen kayıt tarihleri içerisinde yapacakları başvuruları doğrultusunda tekrar alınır. Süresi içinde başvuruda bulunmayanlar, hazırlık eğitimine alınma haklarını kaybetmiş sayılır.
+(4) Bu maddede belirtilen izinler dışındaki devamsızlıklarda 7528 sayılı Kanunun 12 nci ve 13 üncü maddelerinde yer alan hükümler doğrultusunda işlem yapılır.

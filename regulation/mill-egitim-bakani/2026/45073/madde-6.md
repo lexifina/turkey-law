@@ -1,0 +1,20 @@
+İKİNCİ BÖLÜM
+Eğitim ve Uygulama Merkezlerine Yerleştirme ile Hazırlık Eğitimi Programının
+Uygulanması ve Değerlendirilmesi
+Öğretmen adaylarının eğitim ve uygulama merkezlerine yerleştirilmesi
+MADDE 6- (1) Eğitim ve uygulama merkezlerinde hazırlık eğitimi verilecek alanlar; eğitim ve uygulama merkezinin bulunduğu yerdeki tür ve kademelerine göre eğitim kurumu sayısı, uygulama derslerinde görevlendirilebilecek öğretmen sayısı ile eğitim ve uygulama merkezlerinin fiziki yapısı gibi ölçütler gözetilerek Akademi tarafından belirlenir.
+(2) 16/1/2025 tarihli ve 32784 sayılı Resmî Gazete’de yayımlanan Millî Eğitim Bakanlığı Sözleşmeli Öğretmen İstihdamına İlişkin Yönetmelik hükümleri çerçevesinde hazırlık eğitimine alınmak üzere başvuruda bulunan adaylar, birden fazla eğitim ve uygulama merkezinde hazırlık eğitimi verilecek alanlar için başvuru sırasında hazırlık eğitimine alınmak istedikleri eğitim ve uygulama merkezlerini tercih eder.
+(3) Millî Eğitim Bakanlığı Sözleşmeli Öğretmen İstihdamına İlişkin Yönetmeliğin 9 uncu maddesine göre hazırlık eğitimine alınmak üzere belirlenenlerden;
+a) Birden fazla eğitim ve uygulama merkezinde hazırlık eğitimi verilecek alanlar için başvuruda bulunanların eğitim ve uygulama merkezlerine yerleştirilmeleri sırasıyla;
+1) EKPSS puanı ile başvuruda bulunanlar,
+2) 24/5/1983 tarihli ve 2828 sayılı Sosyal Hizmetler Kanunu kapsamında başvuruda bulunanlar,
+3) 12/4/1991 tarihli ve 3713 sayılı Terörle Mücadele Kanunu kapsamında başvuruda bulunanlar,
+4) Millî sporcular,
+5) Başvuruda bulunulan alan için hesaplanan MEB-AGS puanı yüksek olandan başlamak kaydıyla tespit edilen adaylar,
+olmak üzere alanlara göre eğitim ve uygulama merkezleri için belirlenen kontenjan sınırlılığında tercihleri doğrultusunda yapılır. MEB-AGS puanı eşit olan adayların yerleştirilmeleri bilgisayar kurası ile yapılır. Tercihlerine yerleşemeyenler, Bakanlık tarafından resen eğitim ve uygulama merkezlerine yerleştirilir.
+b) Yalnızca bir eğitim ve uygulama merkezinde hazırlık eğitimi verilecek alanlara başvuruda bulunanlar ise ilgili eğitim ve uygulama merkezine yerleştirilir.
+(4) Hazırlık eğitimine başvuruda bulunan adayların üçüncü fıkraya göre yerleştirildikleri eğitim ve uygulama merkezleri, Bakanlık tarafından ilan edilir.
+(5) Hazırlık eğitimine başvuruda bulunan adaylardan alan bazlı kontenjana girenler ile bu kontenjanın boş kalmaması amacıyla Millî Eğitim Bakanlığı Sözleşmeli Öğretmen İstihdamına İlişkin Yönetmeliğin 9 uncu maddesi çerçevesinde yapılan alan bazlı sıralamaya göre kontenjanın %10’u fazlası adaya, 7/4/2021 tarihli ve 7315 sayılı Güvenlik Soruşturması ve Arşiv Araştırması Kanununa göre güvenlik soruşturması ve arşiv araştırması yapılır.
+(6) 7315 sayılı Kanuna göre güvenlik soruşturması ve arşiv araştırması tamamlananlardan hazırlık eğitimine kayıt hakkı kazananlar, hazırlık eğitimi takviminde belirlenen süre içerisinde duyuruda belirtilen belgelerle birlikte yerleştirildikleri eğitim ve uygulama merkezine kayıt için başvuruda bulunur. Belgeleri eksiksiz olanların kayıtları yapılır. Belirlenen süre içerisinde başvuruda bulunmayanlar ile başvuru belgelerinde eksiklik bulunanlar, kayıt hakkı kazandıkları hazırlık eğitimine alınma haklarını kaybetmiş sayılır.
+(7) Farklı illerdeki eğitim ve uygulama merkezlerine yerleştirilen evli adaylar; her iki eşin de hazırlık eğitimine alınacak olması ve alanları itibarıyla aynı ilde hazırlık eğitimi almalarının mümkün olması hâlinde aynı ilde hazırlık eğitimine alınmak için gerekli belgelerle birlikte Akademiye başvuruda bulunabilir. Başvuruda bulunanlara, Akademi tarafından eğitim ve uygulama merkezlerinin kapasitesi dikkate alınarak yapılan değerlendirme sonucunda eşlerin yerleştirildiği illerden birine veya istemeleri hâlinde hazırlık eğitimine alınabilecekleri başka bir ile bir defaya mahsus olmak üzere yer değiştirme hakkı verilebilir.
+(8) Alan bazlı kontenjandan boş kalan kontenjanlara hazırlık eğitimine başvuruda bulunanlardan Millî Eğitim Bakanlığı Sözleşmeli Öğretmen İstihdamına İlişkin Yönetmeliğin 9 uncu maddesine göre belirlenen sıradaki adaylar, üçüncü fıkraya göre yerleştirilir.

@@ -1,0 +1,2 @@
+Uygulamalı derslerde başarı
+MADDE 14- (1) Her bir uygulama dersinin başarı puanı; birinci değerlendirme puanının yüzde yirmisi, ikinci değerlendirme puanının yüzde otuzu, üçüncü değerlendirme puanının yüzde ellisi alınarak belirlenir. Öğretmen adaylarından uygulamalı ders başarı puanı yüz üzerinden yetmiş ve üzerinde olanlar başarılı sayılır. Uygulamalı derslerde başarısız olanlara ek değerlendirme hakkı tanınmaz ve bu kişilerin Akademiyle ilişiği kesilir.
