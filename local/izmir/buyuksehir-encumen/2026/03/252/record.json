@@ -1,0 +1,22 @@
+{
+  "number": "252",
+  "number_as_published": "252",
+  "year": 2026,
+  "title": "Encümen kararı 2026/252",
+  "decision_date": "2026-03-18",
+  "source": "https://www.izmir.bel.tr/tr/Encumen/TariheGoreKararGetir?draw=1&start=1000&length=500&yil=2026&ay=&gun=&txtSozcuk=",
+  "official_document": null,
+  "source_sha256": "0f373a95e90e4a22914cc8fc4f04b52878a74f13a5bf100748583009bec344c8",
+  "issuer": "İzmir Büyükşehir Belediye Encümeni",
+  "history_type": "metadata",
+  "text_status": "metadata-only: the published decision summary appears to name private persons; official link only",
+  "in_force": "2026-03-18",
+  "in_force_basis": "Decision date as printed in the official council listing: 18/03/2026; adoption date of the council decision; legal commencement not asserted",
+  "missing": [
+    "complete official decision text",
+    "official annexes"
+  ],
+  "law_text_complete": false,
+  "privacy_withheld": true,
+  "official_page": "https://www.izmir.bel.tr/tr/EncumenKararlari/50"
+}
