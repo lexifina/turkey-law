@@ -1,0 +1,2 @@
+GEÇİCİ MADDE 12- (Ek:RG-2/7/2024-32590-CK-8705/1 md.)
+(1) Türkiye Hudut ve Sahiller Sağlık Genel Müdürlüğünde, transit gemi sağlık hizmetlerini yerine getirmek üzere denizde görev yapan personelden ilgili mevzuatı gereğince gemiadamı olma şartlarını taşıyanlar, bu maddenin yürürlüğe girdiği tarihten itibaren 30 gün içerisinde başvurmaları kaydıyla, anılan Genel Müdürlük adına ihdas edilmiş olan “gemiadamı” unvanlı sürekli işçi kadrolarına atanabilirler.

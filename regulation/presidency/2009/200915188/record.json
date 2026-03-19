@@ -1,0 +1,42 @@
+{
+  "id": "presidency-regulation-200915188",
+  "number": "200915188",
+  "kind": "regulation",
+  "issuer": "presidency",
+  "title": "KAMU KURUM VE KURULUŞLARINA İŞÇİ ALINMASINDA UYGULANACAK USUL VE ESASLAR HAKKINDA YÖNETMELİK",
+  "published": "2009-08-09",
+  "enacted": "2009-06-29",
+  "gazette_number": "27314",
+  "in_force": "2026-03-19",
+  "in_force_basis": "Latest source commencement-table date: 2026-03-19; official source: 18/3/2026 | 11104 | 2 | 19/3/2026",
+  "history": "current-only",
+  "version_label": "oldest version available",
+  "first_law": null,
+  "source": "https://www.mevzuat.gov.tr/anasayfa/MevzuatFihristDetayIframe?MevzuatNo=200915188&MevzuatTur=21&MevzuatTertip=5",
+  "source_sha256": "2b9f8eab278a038f8d939bf3181a8bfe9fc68c9e3714137e9f50ee5cf829d133",
+  "source_links": [],
+  "missing_components": [],
+  "date_anomalies": [
+    {
+      "table": 0,
+      "row": 18,
+      "reason": "date-bearing row lacks an explicit commencement date",
+      "cells": [
+        "3/3/2021",
+        "3586",
+        "Geçici Madde 8",
+        "31413"
+      ]
+    }
+  ],
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  },
+  "images_complete": true,
+  "image_inventory": [],
+  "images_omitted": [],
+  "completeness": "html-text-complete",
+  "text_layout": "article-files"
+}

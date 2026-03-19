@@ -1,0 +1,3 @@
+GEÇİCİ MADDE 8- (Ek:RG-4/3/2021-31413-C.K.-3586/1 md.)
+Faaliyet izni kaldırılan İstanbul Şehir Üniversitesinde 30/6/2020 tarihi itibarıyla 2 sayılı Genel Kadro ve Usulü Hakkında Cumhurbaşkanlığı Kararnamesinin 8 inci maddesinin birinci fıkrasının (a) bendinde sayılan hizmetleri yürütmekte olan personelden, bu maddenin yürürlüğe girdiği tarihte herhangi bir sosyal güvenlik kurumundan emeklilik, yaşlılık veya malullük aylığı almaya hak kazanmamış olanlar, bu maddenin yürürlüğe girdiği tarihten itibaren 30 gün içerisinde başvurmaları ve Marmara Üniversitesi tarafından yapılacak mülakatta başarılı olmaları kaydıyla Marmara Üniversitesine ait boş sürekli işçi kadrolarına atanabilirler.
+5602-1

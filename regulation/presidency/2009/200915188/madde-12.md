@@ -1,0 +1,16 @@
+Kura usulüne tabi taleplerle ilgili aday listelerinin belirlenmesi
+MADDE 12 – (1) (Değişik:RG-9/11/2018-30590-C.K.-322/8 md.) Kamu kurum ve kuruluşlarınca, ortaöğretim ve daha alt eğitim düzeyinde istihdam edilecek işçilerle, temizlik hizmetlerinde, güvenlik ve koruma hizmetlerinde, bakım ve onarım hizmetlerinde, eğitim şartı aranmaksızın kömür ve maden işletmelerinin yeraltı işlerinde çalıştırılacak işçilerle ilgili listeler, başvuranlar arasından çekilecek kura ile belirlenir. Kura çekimi, talebi veren kamu kurum ve kuruluşu tarafından iş ilanında belirtilen gün, saat ve adreste noter huzurunda yapılır. Adaylar, istemeleri hâlinde kura çekimini izleyebilir.
+(2) Kamu kurum ve kuruluşlarınca, sınava alınacak asıl adayların listesi;
+a) Kurumun gönderdiği ve talep şartlarına uyan başvuru sahiplerinin tamamının yer aldığı listeler esas alınmak suretiyle, açık iş sayısının dört katı,(4)
+b) Kurumun gönderdiği ve talep şartlarına uyan öncelik hakkına sahip olarak başvuranların tamamının yer aldığı listeler esas alınmak suretiyle, açık iş sayısının dört katı,(4)
+olarak kura çekimi sonucu belirlenir. Kura ile ayrıca, aynı sayıda yedek adayın isimlerini kapsayan bir liste oluşturulur. 5 inci maddenin birinci fıkrasının (c) bendinde belirtilenlerden talep şartlarına uygun adaylardan başvuranların tamamı öncelik hakkı sahiplerine ilişkin listelere dahil edilir.
+(3) (Ek: 3/4/2015-2015/7525 K.) Ancak kamu kurum ve kuruluşlarının kuraya tabi işgücü taleplerinde, işe alınacak işçiler sadece noter kurasıyla da belirlenebilir. Bu durumda, öncelikliler de dahil olmak üzere talep şartlarına uygun tüm başvuru sahipleri arasından açık iş sayısı kadar asıl ve ihtiyaç duyulacak sayıda yedek, doğrudan kurayla belirlenir.(2)(5)(6)
+(4) Kuraya tabi engelli taleplerine eğitim durumlarına bakılmaksızın zihinsel engelliler de istemeleri hâlinde başvurabilir.(2)(3)
+–––––––––––––––––
+(1) 5/5/2014 tarihli ve 2014/6304 sayılı Bakanlar Kurulu Kararı Eki Yönetmeliğin 6 ncı maddesiyle, bu fıkrada yer alan “KPSS’de” ibaresinden sonra gelmek üzere “veya EKPSS’de” ibaresi eklenmiştir.
+(2) 3/4/2015 tarihli ve 2015/7525 sayılı Bakanlar Kurulu Kararı Eki Yönetmeliğin 4 üncü maddesiyle, ikinci fıkradan sonra gelmek üçüncü fıkra eklenmiş ve mevcut üçüncü fıkra buna göre teselsül ettirilmiştir.
+(3) 5/5/2014 tarihli ve 2014/6304 sayılı Bakanlar Kurulu Kararı Eki Yönetmeliğin 5 inci maddesiyle, bu fıkrada yer alan “özürlü” ve “özürlüler” ibareleri sırasıyla “engelli” ve “engelliler” şeklinde değiştirilmiştir.
+(4) 9/11/2018 tarihli ve 30590 sayılı Resmi Gazete’de yayımlanan 322 sayılı Cumhurbaşkanı Kararıyla bu bentlerde yer alan “üç” ibaresi “dört” şeklinde değiştirilmiştir.
+(5) 9/11/2018 tarihli ve 30590 sayılı Resmi Gazete’de yayımlanan 322 sayılı Cumhurbaşkanı Kararının 8 inci maddesiyle bu fıkraya“Ancak” ibaresinden sonra gelmek üzere “temizlik hizmetleri, güvenlik ve koruma hizmetleri ile bakım ve onarım hizmetleri için yapılacak alımlar hariç olmak üzere” ibaresi eklenmiştir.
+(6) 26/1/2023 tarihli ve 32085 sayılı Resmi Gazete’de yayımlanan 6743 sayılı Cumhurbaşkanı Kararının 1 inci maddesiyle bu fıkrada yer alan “temizlik hizmetleri, güvenlik ve koruma hizmetleri ile bakım ve onarım hizmetleri için yapılacak alımlar hariç olmak üzere” ibaresi yürürlükten kaldırılmıştır.
+5599

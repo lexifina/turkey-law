@@ -1,0 +1,2 @@
+Yönetmelik hükümlerine uyum
+GEÇİCİ MADDE 1 – (1) Kamu kurum ve kuruluşlarınca, bu Yönetmelik kapsamına giren işçi alımlarına ilişkin olarak yürürlüğe konulan düzenlemeler, bu Yönetmeliğin yürürlüğe girdiği tarihten itibaren üç ay içinde bu Yönetmeliğe uygun hâle getirilir. Anılan düzenlemeler yürürlüğe girinceye kadar mevcut düzenlemelerin bu Yönetmeliğe aykırı olmayan hükümlerinin uygulanmasına devam edilir.
