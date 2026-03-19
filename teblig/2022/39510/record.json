@@ -1,0 +1,37 @@
+{
+  "checked_on": "2026-11-15",
+  "commencement_quote": "Bu Tebliğ 1/5/2022 tarihinde yürürlüğe girer",
+  "date_gazette": "33201",
+  "date_quote": "RG-19/3/2026-33201",
+  "first_law": null,
+  "gazette": "31811",
+  "history": "current-text",
+  "images": {
+    "deferred": 0,
+    "omitted": 0,
+    "referenced": 0,
+    "source": 0
+  },
+  "in_force": "2026-03-19",
+  "in_force_basis": "Latest source-printed RG amendment date for current text: RG-19/3/2026-33201; own commencement clause: Bu Tebliğ 1/5/2022 tarihinde yürürlüğe girer",
+  "issuer": "Hazine ve Maliye Bakanlığı",
+  "issuer_catalog_evidence": [
+    {
+      "evidence": "issuer-578-100.json",
+      "id": "578",
+      "label": "Hazine ve Maliye Bakanlığı",
+      "listing_url": "https://www.mevzuat.gov.tr/Anasayfa/MevzuatDatatable?MevzuatTur=Teblig&KurumId=578&start=100&length=100"
+    }
+  ],
+  "issuer_slug": "hazine-ve-maliye-bakanligi",
+  "kind": "communique",
+  "label": "oldest version available",
+  "notes": [],
+  "published": "2022-04-16",
+  "source": "https://www.mevzuat.gov.tr/anasayfa/MevzuatFihristDetayIframe?MevzuatTur=9&MevzuatNo=39510&MevzuatTertip=5",
+  "source_bytes": 17940,
+  "source_id": "9.5.39510",
+  "source_sha256": "533d5ee4502d09d252ed34ecd0d375c1ad00d944345f2eb29f60f2893bd30f24",
+  "title": "SİGORTACILIK KANUNUNUN 30 UNCU MADDESİNİN ON İKİNCİ VE ON BEŞİNCİ FIKRALARINDA YER ALAN PARASAL SINIRLARIN\r\nARTIRILMASINA İLİŞKİN TEBLİĞ",
+  "word_count": 267
+}
