@@ -1,0 +1,9 @@
+İKİNCİ BÖLÜM
+Eğitimlerin Hedef, İlke ve Esasları
+Eğitimlerin genel hedef, ilke ve esasları
+MADDE 5- (1) Aday ve asli Devlet memuru olarak atananlara verilecek eğitimlerin amacı; Türkiye Cumhuriyeti Anayasasına, Anayasada ifadesi bulunan Atatürk milliyetçiliği, ilke ve inkılapları ile medeniyetçiliğine sadakatle bağlı kalacak, Türkiye Cumhuriyeti Kanunlarını millete hizmet edecek şekilde tarafsızlık ve eşitlik ilkelerine bağlı kalarak uygulayacak, vatan ve millet sevgisi ile dolu, güler yüzlü, saygılı, yol gösterici, sorumluluk bilincine sahip, vatandaş odaklı hizmet anlayışını haiz, disiplinli, yetkin ve bilgili memurlar yetiştirmektir.
+(2) Verilecek eğitimlerin; memurların, kamu hizmetlerinin gerektirdiği bilgi ve beceriler kazandırılarak yetiştirilmelerine, yaptıkları hizmetlerin zaman ve kaynak israfına meydan vermeden en verimli şekilde yerine getirilmesine ve bunun sürekliliğinin sağlanmasına yönelik olması esastır.
+(3) Memurlara; bilimsel ve teknolojik gelişmelere, mevzuat değişikliklerine ve yeniliklere uyum sağlayacak şekilde eğitim verilmesi esastır.
+(4) Memurlara; mesleki gelişim ve yetkinliklerinin artırılmasını sağlayacak, kurum kültürünün gelişimine katkıda bulunmak amacıyla kurumsal aidiyet duygusunu güçlendirecek, kişisel ve sosyal gelişimlerine yardımcı olacak şekilde eğitim verilmesi esastır.
+(5) İlk defa Devlet memuru olarak atananların göreve başladıkları ilk üç yıl içinde birim amirlerinin veya bu amirlerce görevlendirilen deneyimli bir memurun refakatinde görev alanına ilişkin iş ve işlemlerin uygulamalı olarak öğrenilmesi, iş tutumunun geliştirilmesi ve usta çırak ilişkisi içerisinde mesleki bilgi ve becerilerinin artırılmasına yönelik işbaşında yetiştirilmesi esastır.
+(6) Memurlara; liyakat, kariyer ve öğrenim durumu esasları çerçevesinde görevlerinde yükselmelerine yönelik olarak gerekli bilgi, deneyim, davranış, beceri ve teknikleri kazanmalarını sağlayacak şekilde eğitim verilmesi esastır.

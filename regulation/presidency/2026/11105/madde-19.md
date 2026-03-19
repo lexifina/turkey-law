@@ -1,0 +1,5 @@
+Aday memurların sınavlarının değerlendirilmesi
+MADDE 19- (1) Temel eğitim ve hazırlayıcı eğitimler sonunda yapılan sınavlarda, sınav kâğıtları eğitim ve sınav yürütme komisyonları tarafından değerlendirilir.
+(2) Değerlendirme 100 tam puan üzerinden yapılarak 60 ve daha yukarı puan alanlar başarılı sayılır. Buçuklu puanlar bir üst tam puana tamamlanır. Başarısız olan aday memurların kâğıtları, eğitim ve sınav yürütme komisyonunca bir daha okunarak değerlendirmeye tabi tutulur. Klasik yazılı ve uygulamalı sınavların kesin puanı, sınavları yapmakla görevli eğitim ve sınav yürütme komisyonu üyelerinin verdikleri puanların aritmetik ortalaması alınarak bulunur.
+(3) Aday memurlardan staja katılanlar, ilgili kurum veya kuruluşlar tarafından, staj değerlendirme belgesi ile ya da yazılı veya uygulamalı sınava tabi tutularak değerlendirilirler. Staj dönemi sonunda yazılı veya uygulamalı sınav yapılması hâlinde bu sınavlar, ikinci fıkra esaslarına göre değerlendirilir.
+(4) Staj değerlendirme belgesinin şekli ve içeriği Merkez Eğitim Kurulu tarafından belirlenerek kurum veya kuruluşlara duyurulur.

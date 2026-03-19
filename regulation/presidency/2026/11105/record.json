@@ -1,0 +1,26 @@
+{
+  "id": "presidency-regulation-11105",
+  "number": "11105",
+  "kind": "regulation",
+  "issuer": "presidency",
+  "title": "MEMURLARIN YETİŞTİRİLMELERİ VE EĞİTİMLERİ HAKKINDA GENEL YÖNETMELİK",
+  "published": "2026-03-19",
+  "enacted": "2026-03-18",
+  "gazette_number": "33201",
+  "in_force": "2026-03-19",
+  "in_force_basis": "Official commencement clause: \"Bu Yönetmelik yayımı tarihinde yürürlüğe girer.\"; Resmî Gazete 2026-03-19, no amendment annotation in this source text.",
+  "history": "current-only",
+  "version_label": "oldest version available",
+  "first_law": null,
+  "source": "https://www.mevzuat.gov.tr/anasayfa/MevzuatFihristDetayIframe?MevzuatNo=11105&MevzuatTur=21&MevzuatTertip=5",
+  "source_sha256": "893baf92a35168eb6069d9c94826d9fe22f91b61bc6d9e1d3b54297655cf3d64",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  },
+  "missing_components": [],
+  "text_layout": "article-files",
+  "source_links": [],
+  "completeness": "html-text-complete"
+}

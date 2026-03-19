@@ -1,0 +1,7 @@
+Hizmet içi eğitim planlarının hazırlanması, iş birliği ve bildirim
+MADDE 28- (1) Memurların hizmet içi eğitim planları, 27 nci maddenin birinci fıkrasında belirtilen konuları kapsayacak şekilde kurum veya kuruluşlarca hazırlanır.
+(2) Eğitim planlarında hizmet içi eğitim programlarının; konusu ve yöntemi, yeri ve tarihi, süresi ve öngörülen maliyeti, eğitim verilecekler, eğitici bilgileri ve gerekli görülen diğer hususlara yer verilir.
+(3) Eğitim planları hazırlanırken, eğitim verileceklerin beceri ve tutum kazanımlarına yönelik kişi, ihtiyaç ve görev analizleri yapılarak kurumsal ihtiyaçlar esas alınır.
+(4) Etik eğitimine ilişkin eğitim programlarının hazırlanması ve gerçekleştirilmesi süreçlerinde Kamu Görevlileri Etik Kurulu ile iş birliği yapılabilir.
+(5) Kurum veya kuruluşun görev ve hizmet alanı ile kurumsal fonksiyonları çerçevesinde, ulusal veya uluslararası kuruluşlar ve diğer ülkelerin ilgili kurum ve kuruluşları ile yapılan protokol, çalışma planı, eylem planı, mutabakat veya sözleşme kapsamında hizmet içi eğitim programı düzenlenebilir.
+(6) Kurum veya kuruluşlarca bir sonraki yıl için hazırlanan hizmet içi eğitim planları, her yılın Kasım ayı sonuna kadar Kamu Personeli Bilgi Sistemi aracılığıyla Genel Müdürlüğe bildirilir. Bildirilen hizmet içi eğitim planlarında değişiklik olması hâlinde değişikliğin meydana geldiği tarihten itibaren en geç bir ay içinde güncelleme yapılır.

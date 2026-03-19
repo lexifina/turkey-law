@@ -1,0 +1,3 @@
+Aday memurların sınav sonuçlarının bildirilmesi ve itiraz
+MADDE 20- (1) Sınav sonuçları, sınavların yapıldığı günü takip eden günden itibaren en geç beş iş günü içinde ilan edilir.
+(2) Sınavlarda başarısız olan aday memurlara sınav sonuçları, yazılı olarak tebliğ edilir. Başarısız sayılan aday memurlar sınav sonuçlarına, tebliğden itibaren en geç üç iş günü içinde sınavı yapan eğitim ve sınav yürütme komisyonuna dilekçe vermek suretiyle itiraz edebilirler. İtirazlar, en geç on iş günü içinde eğitim ve sınav yürütme komisyonu tarafından incelenerek kesin olarak karara bağlanır. Sınavlara itiraz edenlerin itirazları neticelendirilinceye kadar aday memurlar müteakip eğitime devam ettirilirler.

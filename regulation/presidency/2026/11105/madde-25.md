@@ -1,0 +1,3 @@
+Asli Devlet memurluğuna alınmama ve göreve son verilmesi
+MADDE 25- (1) Temel eğitim, hazırlayıcı eğitim ve staj dönemlerinin herhangi birinde başarısız olan ve bu sebeple görevlerine son verilen aday memurlar üç yıl süreyle Devlet memurluğuna alınmazlar. Sağlık sebebiyle kurumları ile ilişikleri kesilenler için bu şart aranmaz. Üç yıllık sürenin tespitinde Kamu Personeli Bilgi Sisteminde tutulan kayıtlar esas alınır.
+(2) Görevlerine son verilen aday memurlar, ilgili kurum veya kuruluş tarafından en geç bir ay içinde Kamu Personeli Bilgi Sistemi aracılığıyla Genel Müdürlüğe bildirilir. Bu durumdaki aday memurların kayıtları Kamu Personeli Bilgi Sisteminde tutulur.

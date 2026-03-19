@@ -1,0 +1,4 @@
+Aday memurların sınav sorularının hazırlanması
+MADDE 17- (1) Aday memurlara verilecek temel eğitim sonunda yapılacak sınavlarda sorulacak sorular, Merkez Eğitim Kurulu tarafından, 14 üncü maddenin birinci fıkrasında belirtilen konuları kapsayacak şekilde ve eğitim programlarında her konu için tespit edilecek zamanlarla orantılı olacak şekilde en az 100 adet hazırlanır veya hazırlatılır. Kurum ve kuruluşlar temel eğitimle ilgili sınav sorularını, eğitim programları ile birlikte Genel Müdürlükten temin ederler.
+(2) Temel eğitim sonunda yapılacak sınavların soruları, Merkez Eğitim Kurulunca belirlenen sorular arasından konuların eğitim programındaki ağırlıkları dikkate alınarak, her konu için ayrı ayrı olmak üzere ilgili kurum ve kuruluşlarca tespit edilir.
+(3) Aday memurlara yönelik hazırlayıcı eğitim ve stajla ilgili sınav soruları, ilgili kurum veya kuruluşlarca hazırlanır.
