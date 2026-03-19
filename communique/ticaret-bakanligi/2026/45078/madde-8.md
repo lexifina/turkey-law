@@ -1,0 +1,2 @@
+Karar ve işlemler
+MADDE 8- (1) Yapılan inceleme sonucunda, bir NGGS açılabilmesi için yeterli bilgi, belge ve delillerin bulunduğu anlaşıldığından, İthalatta Haksız Rekabeti Değerlendirme Kurulu Kararı ile ÇHC menşeli 8208.30.00.00.00 GTİP’i altında kayıtlı “yalnız 8509.40 gümrük tarife pozisyonlu, gıda maddelerini öğütücülere, karıştırıcılara ve meyve veya sebze preslerine mahsus bıçak ve kesici ağızlar” ürününe yönelik olarak Yönetmeliğin 35 inci maddesi çerçevesinde bir NGGS açılmasına karar verilmiştir.
