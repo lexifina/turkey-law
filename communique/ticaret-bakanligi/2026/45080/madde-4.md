@@ -1,0 +1,4 @@
+Soruşturma konusu ürün
+MADDE 4- (1) Soruşturma konusu ürün, 8301.40.11.00.00 GTİP’i altında kayıtlı “silindirli kapı kilitleri (elektromekanik, elektromanyetik, tam elektronik olanlar hariç)”, 8301.40.19.00.11 GTİP’i altında kayıtlı “soğuk hava deposuna mahsus olanlar elektromekanik, elektromanyetik, tam elektronik olanlar hariç)”, 8301.40.19.00.19 GTİP’i altında kayıtlı “diğerleri (elektromekanik, elektromanyetik, tam elektronik olanlar hariç)”, 8301.60.00.00.11 GTİP’i altında kayıtlı “kapı kilidi silindirleri (barel)” ve 8301.60.00.00.19 GTİP’i altında kayıtlı “yalnız kapı kilitleri için kilit kasası”dır.
+(2) Bahse konu GTİP’ler, yalnızca bilgi amaçlı verilmiş olup bağlayıcı mahiyette değildir.
+(3) Soruşturma konusu ürünün TGTC’de yer alan tarife pozisyonunda ve/veya eşya tanımında yapılacak değişiklikler, bu Tebliğ hükümlerinin uygulanmasına engel teşkil etmez.
