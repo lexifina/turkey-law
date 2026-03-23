@@ -1,0 +1,36 @@
+{
+  "checked_on": "2026-11-13",
+  "date_gazette": "33202",
+  "date_quote": "23.03.2026",
+  "first_law": null,
+  "gazette": "33202",
+  "history": "current-text",
+  "images": {
+    "deferred": 0,
+    "omitted": 0,
+    "referenced": 0,
+    "source": 0
+  },
+  "in_force": "2026-03-23",
+  "in_force_basis": "original Resmi Gazete publication date supplied by the official listing",
+  "issuer": "Çalışma ve Sosyal Güvenlik Bakanlığı",
+  "issuer_catalog_evidence": [
+    {
+      "evidence": "issuer-105-0.json",
+      "id": "105",
+      "label": "Çalışma ve Sosyal Güvenlik Bakanlığı",
+      "listing_url": "https://www.mevzuat.gov.tr/Anasayfa/MevzuatDatatable?MevzuatTur=Teblig&KurumId=105&start=0&length=100"
+    }
+  ],
+  "issuer_slug": "calisma-ve-sosyal-guvenlik-bakanligi",
+  "kind": "communique",
+  "label": "oldest version available",
+  "notes": [],
+  "published": "2026-03-23",
+  "source": "https://www.mevzuat.gov.tr/anasayfa/MevzuatFihristDetayIframe?MevzuatTur=9&MevzuatNo=45079&MevzuatTertip=5",
+  "source_bytes": 9491,
+  "source_id": "9.5.45079",
+  "source_sha256": "38e648527fd25d99bdef7a9c453166c8f5bcb38e035059f4eaa2c0d3033a7df3",
+  "title": "MESLEKÎ YETERLİLİK KURUMU MESLEKÎ YETERLİLİK BELGESİ ZORUNLULUĞU GETİRİLEN MESLEKLERE İLİŞKİN TEBLİĞ (SIRA NO: 2026/1)",
+  "word_count": 260
+}
