@@ -1,0 +1,2 @@
+Genel Kurulda Karar Alma
+Madde 24 — Genel Kurul, kararlarını oy çokluğu ile alır. Oylarda eşitlik olursa Divan Başkanının kullandığı oy yönünde çoğunluk sağlanmış olur. Ancak bu Yönetmelikte değişiklik yapılabilmesi için, Genel Kurul toplantısının ilk açılışında toplantıya katılan delege sayısının en az üçte ikisi tarafından olumlu oy verilmesi gerekir. Genel Kurula katılan delege sayısı, giriş kartı alınması sırasında imzalanan listeler incelenerek Başkanlık Divanınca saptanır.

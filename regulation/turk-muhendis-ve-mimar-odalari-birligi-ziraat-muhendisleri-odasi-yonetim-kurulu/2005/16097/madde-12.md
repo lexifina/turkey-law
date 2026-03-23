@@ -1,0 +1,2 @@
+Oda Üyeliğini Sürdürme Zorunluluğu
+Madde 12 — Diploma veya mezuniyet belgesi almak suretiyle Türkiye’de mesleklerini uygulayacak duruma gelmiş olan mühendis ve yüksek mühendisler kamu görevlisi olmamaları halinde, Odaya başvurmak, kayıt olmak ve bir kimlik belgesi almak zorundadırlar. Oda kimlik belgesi almayanlar, üyelik görev ve yükümlülüklerini yerine getirmeyenler veya başka bir nedenle kimlik belgesi yenilenmemiş veya onaylanmamış olanların mesleklerini uygulamaları yasaklanır.

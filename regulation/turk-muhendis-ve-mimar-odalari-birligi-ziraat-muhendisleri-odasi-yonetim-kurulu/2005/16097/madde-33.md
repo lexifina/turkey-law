@@ -1,0 +1,2 @@
+Yürütme Kurulunun Görev ve Yetkileri
+Madde 33 — Yürütme Kurulu, Başkan veya İkinci Başkan ile Yazman Üye ve Sayman Üyeden oluşur. Yürütme Kurulu, Yönetim Kurulunun kararları çerçevesinde ve onun toplanmadığı zamanlar Yönetim Kurulu adına yürütme yetkisine sahip olarak Oda işlerini yürütmekle yükümlüdür. Yürütme Kurulunun görev ve yetkileri çalışma dönemi başlangıcında Yönetim Kurulu tarafından belirlenir.

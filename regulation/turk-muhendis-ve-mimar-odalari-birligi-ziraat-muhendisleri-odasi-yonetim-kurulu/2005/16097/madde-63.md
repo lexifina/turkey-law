@@ -1,0 +1,2 @@
+Oy Verme
+Madde 63 — Oy verme işlemi, gizli oy açık sayım esaslarına göre yapılır. Listede adı yazılı bulunmayan üye oy kullanamaz. Oy verme işlemi, oy verenin kimliğinin oda kimliği veya T.C. nüfus cüzdanı veya sürücü belgesi veya pasaport ile kanıtlanmasından ve listedeki isminin karşısındaki yerin imzalanmasından sonra gerçekleşir. Oylar, üzerinde İlçe Seçim Kurulu mührü bulunan ve oy verme sırasında Sandık Kurulu Başkanı tarafından her seçim için ayrı ayrı verilecek kağıtlara yazılmak ve mühürlü zarflara konulmak suretiyle kullanılır.
