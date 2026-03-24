@@ -1,0 +1,3 @@
+Danışma Kurulu
+MADDE 13- (1) Danışma Kurulu; Müdür, müdür yardımcıları, Müdür tarafından önerilen Yönetim Kurulu tarafından uygun görülen, bilimsel ve teknolojik araştırma ve uygulamalarla doğrudan ilgisi olan ve sahip olduğu birikim ve deneyimlerinden yararlanılabilecek Üniversite içindeki ve dışındaki kişiler arasından Rektör tarafından üç yıl için görevlendirilen kişilerle birlikte en az on, en çok otuz kişiden oluşur. Görev süresi sona eren üye yeniden aynı usulle görevlendirilebilir. Üyeliğin herhangi bir nedenle boşalması halinde kalan süreyi tamamlamak üzere yeni üye görevlendirilir.
+(2) Danışma Kurulu, Müdürün başkanlığında yılda en az bir kez toplanır. Toplantılarda toplantı ve karar nisabı aranmaz.
