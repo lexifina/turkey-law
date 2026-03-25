@@ -1,0 +1,21 @@
+{
+  "record_type": "parliament-written-question",
+  "term": 28,
+  "legislative_year": 4,
+  "esas_no": "7/42361",
+  "submitted": "2026-03-25",
+  "submitted_as": "Başkanlığa geliş tarihi",
+  "mp": "Tahsin OCAKLI",
+  "province": "Rize",
+  "summary": "Rize'nin Çayeli ilçesinde faaliyet gösteren bir bakır madeni işletmesinin denetlenmesi talebine ilişkin",
+  "status": "Süresi Geçtikten Sonra Cevaplandı",
+  "status_as_of": "2026-11-16",
+  "official_record": "https://www.tbmm.gov.tr/Denetim/Yazili-Soru-Onergesi-Detay/ccb2c3cd-0af6-4986-b71b-019d26432822",
+  "source": "https://tbmm.gov.tr/Denetim/YaziliSoruOnergesiTable",
+  "source_form": "https://tbmm.gov.tr/Denetim/Yazili-Soru-Onergeleri",
+  "source_sha256": "43b02e0890c06d3d224e19816634a8381ffb3b5b4cb10b537ac796b93f70a413",
+  "in_force": "2026-03-25",
+  "in_force_basis": "Date the question reached the Speaker (Başkanlığa geliş tarihi) in the official TBMM written-question record; parliamentary oversight record, not law",
+  "history_type": "metadata",
+  "text_status": "metadata-only: question text, addressee and answers are in the linked official record (PDFs on cdn.tbmm.gov.tr); not transcribed here"
+}
