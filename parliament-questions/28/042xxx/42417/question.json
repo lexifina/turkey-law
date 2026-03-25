@@ -1,0 +1,21 @@
+{
+  "record_type": "parliament-written-question",
+  "term": 28,
+  "legislative_year": 4,
+  "esas_no": "7/42417",
+  "submitted": "2026-03-25",
+  "submitted_as": "Başkanlığa geliş tarihi",
+  "mp": "Ömer Fethi GÜRER",
+  "province": "Niğde",
+  "summary": "Son üç yılda gerçekleşen intihar vakalarına ilişkin",
+  "status": "Cevaplanmadığı Gelen Kağıtlarda İlan Edildi",
+  "status_as_of": "2026-11-16",
+  "official_record": "https://www.tbmm.gov.tr/Denetim/Yazili-Soru-Onergesi-Detay/d1f3d2e9-7dfb-45a0-b5a8-019d260d7f49",
+  "source": "https://tbmm.gov.tr/Denetim/YaziliSoruOnergesiTable",
+  "source_form": "https://tbmm.gov.tr/Denetim/Yazili-Soru-Onergeleri",
+  "source_sha256": "55e82a6441939bf34b004d9ec40055ff40179f029ee2d6dca8624e0b83f157f2",
+  "in_force": "2026-03-25",
+  "in_force_basis": "Date the question reached the Speaker (Başkanlığa geliş tarihi) in the official TBMM written-question record; parliamentary oversight record, not law",
+  "history_type": "metadata",
+  "text_status": "metadata-only: question text, addressee and answers are in the linked official record (PDFs on cdn.tbmm.gov.tr); not transcribed here"
+}
