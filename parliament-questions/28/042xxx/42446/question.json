@@ -1,0 +1,21 @@
+{
+  "record_type": "parliament-written-question",
+  "term": 28,
+  "legislative_year": 4,
+  "esas_no": "7/42446",
+  "submitted": "2026-03-25",
+  "submitted_as": "Başkanlığa geliş tarihi",
+  "mp": "İzzet AKBULUT",
+  "province": "Burdur",
+  "summary": "Burdur'da bulunan Ağlasun Kavşağı'nda son beş yılda meydana gelen trafik kazalarına ilişkin",
+  "status": "Süresi Geçtikten Sonra Cevaplandı",
+  "status_as_of": "2026-11-16",
+  "official_record": "https://www.tbmm.gov.tr/Denetim/Yazili-Soru-Onergesi-Detay/dec58241-d939-4b94-92fe-019d2a7c7ee1",
+  "source": "https://tbmm.gov.tr/Denetim/YaziliSoruOnergesiTable",
+  "source_form": "https://tbmm.gov.tr/Denetim/Yazili-Soru-Onergeleri",
+  "source_sha256": "55e82a6441939bf34b004d9ec40055ff40179f029ee2d6dca8624e0b83f157f2",
+  "in_force": "2026-03-25",
+  "in_force_basis": "Date the question reached the Speaker (Başkanlığa geliş tarihi) in the official TBMM written-question record; parliamentary oversight record, not law",
+  "history_type": "metadata",
+  "text_status": "metadata-only: question text, addressee and answers are in the linked official record (PDFs on cdn.tbmm.gov.tr); not transcribed here"
+}
