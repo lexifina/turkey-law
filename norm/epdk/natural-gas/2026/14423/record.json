@@ -1,0 +1,26 @@
+{
+  "kind": "norm",
+  "issuer": "Enerji Piyasası Düzenleme Kurumu",
+  "market": "natural-gas",
+  "document_type": "board-decision",
+  "number": "14423",
+  "decision_date": "2026-03-26",
+  "title": "İgdaş İstanbul Gaz Dağıtım Sanayi ve Ticaret Anonim Şirketi’nin üçüncü tarife uygulama dönemi perakende satış tarifelerine yönelik",
+  "resmi_gazete_date": "2026-03-29",
+  "resmi_gazete_number": "33208",
+  "categories": [
+    "Şirket Bazında Kararlar"
+  ],
+  "source": "https://www.epdk.gov.tr/Detay/DownloadDocument?id=IxKyzdhwSzU=",
+  "documents": [
+    "https://www.epdk.gov.tr/Detay/DownloadDocument?id=IxKyzdhwSzU=",
+    "https://www.epdk.gov.tr/Detay/DownloadDocument?id=j+aBWMoMBcA="
+  ],
+  "source_sha256": "93e9f389f2c0f607c2291a146615c96d7f278f4e4be53d4ff63fe7e63d10684e",
+  "official_list": "https://www.epdk.gov.tr/Detay/Icerik/3-0-19/kurul-kararlari",
+  "official_list_leaf": 7236,
+  "text_status": "as-enacted",
+  "text_file": "metin.md",
+  "in_force": "2026-03-26",
+  "law_text_complete": true
+}
