@@ -1,0 +1,2 @@
+Spor ve kültürel etkinlikler
+MADDE 34 – (1) Milli takım ve üniversitelerarası spor karşılaşmalarında veya kültürel etkinliklerde Üniversite yönetimi tarafından görevlendirilen sporcu ve öğrencilerin, bu etkinliklere ve bunların hazırlık çalışmalarına katılmak zorunda olmaları nedeniyle öğrenime devam edemedikleri süreler, devam süresinin hesabında dikkate alınmaz; bu süreler içinde giremedikleri sınavlara, ilgili yükseköğretim kurumlarınca belirlenecek tarihlerde girerler.

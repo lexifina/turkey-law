@@ -1,0 +1,2 @@
+Ön lisans diploması
+MADDE 31 – (1) Ön lisans öğretimi yapılan meslek yüksekokullarında öğrenim görülen program da belirtilmek suretiyle ön lisans diploması verilir. Lisans öğrenimlerini tamamlamayan veya tamamlayamayan öğrencilere; 18/3/1989 tarihli ve 20112 sayılı Resmî Gazete’de yayımlanan, Lisans Öğrenimlerini Tamamlamayan veya Tamamlayamayanların Önlisans Diploması Almaları veya Meslek Yüksekokullarına İntibakları Hakkında Yönetmelik uyarınca ön lisans diploması verilir.

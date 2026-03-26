@@ -1,0 +1,2 @@
+Derse devam zorunluluğu
+MADDE 20 – (1) Öğrenci ilk kez yazıldığı veya devamsızlığı nedeniyle tekrarlayacağı teorik derslerin en az % 70’ine, teorik ders dışındaki her türlü uygulama çalışmasının en az % 80’ine devam etmek zorundadır. (Ek cümleler:RG-22/4/2024-32525) Mazeretli ya da mazeretsiz olarak bu sınırların altında kalan öğrencilerin yarıyıl sonu sınavı ve bitirme telafi sınavına girme hakkı yoktur, o dersi tekrar etmeleri gerekir. Devamsız olmadığı halde başarısız olan öğrencilerde teorik dersler için devam mecburiyeti aranmaz.

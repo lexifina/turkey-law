@@ -1,0 +1,1 @@
+GEÇİCİ MADDE 1 – (1) 2006-2007 eğitim-öğretim yılından önce Kadir Has Üniversitesinde öğrenimine başlamış ve İstanbul Bilim Üniversitesine devir olan öğrenciler 2/10/2002 tarihli ve 24894 sayılı Resmî Gazete’de yayımlanan Kadir Has Üniversitesi Lisans ve Ön Lisans Eğitim ve Öğretim Yönetmeliğine tabidir.

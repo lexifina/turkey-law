@@ -1,0 +1,2 @@
+Eğitim-öğretim ücreti
+MADDE 7 – (1) Üniversitede eğitim-öğretim ücretleri her akademik yıl itibariyle Mütevelli Heyeti tarafından tespit edilir. Eğitim-öğretim ücretini yatırmayan öğrencilerin kayıt işlemleri yapılmaz. (Değişik üçüncü cümle:RG-24/9/2010-27709) Eğitim-öğretim yılına ait yatırılan eğitim-öğretim ücreti iade edilmez. (Ek cümle:14/8/2025-32986) Öğrenci, öğrenim ücretini yıllık olarak öder, üst yarıyıldan ders alamayan öğrenciler, tekrar edecekleri derslerin AKTS kredisine göre yeni eğitim-öğretim yılı ücreti üzerinden öğrenim ücreti öder.
