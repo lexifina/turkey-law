@@ -1,0 +1,21 @@
+{
+  "record_type": "parliament-written-question",
+  "term": 28,
+  "legislative_year": 4,
+  "esas_no": "7/42490",
+  "submitted": "2026-03-26",
+  "submitted_as": "Başkanlığa geliş tarihi",
+  "mp": "İbrahim AKIN",
+  "province": "İzmir",
+  "summary": "İzmir'in Menemen ilçesindeki Çavuşköy ve Eski Gediz mevkilerinde bulunan tarım alanlarına kaçak olarak moloz ve hafriyat döküldüğü iddiasına ilişkin",
+  "status": "Süresi Geçtikten Sonra Cevaplandı",
+  "status_as_of": "2026-11-16",
+  "official_record": "https://www.tbmm.gov.tr/Denetim/Yazili-Soru-Onergesi-Detay/b4870570-29ea-4b00-8b52-019d2f0a8e43",
+  "source": "https://tbmm.gov.tr/Denetim/YaziliSoruOnergesiTable",
+  "source_form": "https://tbmm.gov.tr/Denetim/Yazili-Soru-Onergeleri",
+  "source_sha256": "55e82a6441939bf34b004d9ec40055ff40179f029ee2d6dca8624e0b83f157f2",
+  "in_force": "2026-03-26",
+  "in_force_basis": "Date the question reached the Speaker (Başkanlığa geliş tarihi) in the official TBMM written-question record; parliamentary oversight record, not law",
+  "history_type": "metadata",
+  "text_status": "metadata-only: question text, addressee and answers are in the linked official record (PDFs on cdn.tbmm.gov.tr); not transcribed here"
+}
