@@ -1,0 +1,26 @@
+{
+  "kind": "norm",
+  "issuer": "Enerji Piyasası Düzenleme Kurumu",
+  "market": "natural-gas",
+  "document_type": "board-decision",
+  "number": "14422",
+  "decision_date": "2026-03-26",
+  "title": "Enerya Kapadokya Gaz Dağıtım Anonim Şirketi’nin üçüncü tarife uygulama dönemi perakende satış tarifelerine yönelik",
+  "resmi_gazete_date": "2026-03-29",
+  "resmi_gazete_number": "33208",
+  "categories": [
+    "Şirket Bazında Kararlar"
+  ],
+  "source": "https://www.epdk.gov.tr/Detay/DownloadDocument?id=7bi+grbFI2I=",
+  "documents": [
+    "https://www.epdk.gov.tr/Detay/DownloadDocument?id=7bi+grbFI2I=",
+    "https://www.epdk.gov.tr/Detay/DownloadDocument?id=p6k8GKjmXvI="
+  ],
+  "source_sha256": "4f8632dcabe15f937de89cce17c496ac59efaab65844a9417cd808ae147820d0",
+  "official_list": "https://www.epdk.gov.tr/Detay/Icerik/3-0-19/kurul-kararlari",
+  "official_list_leaf": 7236,
+  "text_status": "as-enacted",
+  "text_file": "metin.md",
+  "in_force": "2026-03-26",
+  "law_text_complete": true
+}
