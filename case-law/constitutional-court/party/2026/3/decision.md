@@ -1,0 +1,77 @@
+ANAYASA MAHKEMESİ KARARI
+Esas Sayısı : 2025/10 (Değişik İş)
+Karar Sayısı : 2026/3
+Karar Tarihi: 26/3/2026
+R.G. Tarih - Sayı : 30/6/2026-33296
+TALEPTE BULUNAN: Cumhuriyet Halk Partisi
+TALEBİN KONUSU: Cumhuriyetçi Milletin Partisinin isminin ve ambleminin 22/4/1983 tarihli ve 2820 sayılı Siyasi Partiler Kanunu’nun 96. maddesine aykırılığı ileri sürülerek 104. maddesi gereğince hükümsüzlüğüne ve siyasi parti sicilinden terkinine karar verilmesi talebidir.
+I. TALEBİN GEREKÇESİ
+Cumhuriyet Halk Partisinin başvuru dilekçesinde özetle; “Cumhuriyetçi Milletin Partisi” isminin kelime dizilişi ve çağrışım gücünün ortalama seçmen algısında Cumhuriyet Halk Partisi ile bağ kurulmaya ve karıştırılmaya uygun olduğu, Cumhuriyetçi Milletin Partisinin ambleminde altı ok simgesinin kullanılması suretiyle de Cumhuriyet Halk Partisi amblemi izlenimi verildiği, Cumhuriyetçi Milletin Partisi isim ve ambleminin gerek anlamsal gerekse fonetik olarak kendi partilerinin isim ve amblemiyle iltibasa mahal verecek şekilde benzer olduğu belirtilerek anılan Partinin kullandığı isim ve amblemin hükümsüzlüğüne ve siyasi parti sicilinden terkinine karar verilmesi talep edilmiştir.
+II. YARGITAY CUMHURİYET BAŞSAVCILIĞININ GÖRÜŞÜ
+Yargıtay Cumhuriyet Başsavcılığının görüşünde özetle; 2820 sayılı Kanun’un 8. maddesinde “kuruluş bildirisinde siyasi parti adının yazılması”, 96. maddesinde “partiler tarafından isim, amblem, bayrak, rozet ve rumuzun hangi sınırlar içerisinde kullanılmasının mümkün olduğu” hususu, 10/6/1983 tarihli ve 2839 sayılı Milletvekili Seçimi Kanunu’nun 26. maddesi ile 26/4/1961 tarihli ve 298 sayılı Seçimlerin Temel Hükümleri ve Seçmen Kütükleri Hakkında Kanun’un 78. maddesinde “seçimlerde kullanılan birleşik oy pusulalarında seçime katılan partilerin özel işaretleri, rumuzları ve tam yazı halinde isimlerinin yer alacağı” hükümleri ile siyasi partiler hakkında uygulanabilecek diğer kanunların 2820 sayılı Kanun’a aykırı olmayan hükümleri birlikte değerlendirildiğinde Cumhuriyet Halk Partisi ile Cumhuriyetçi Milletin Partisinin isim ve amblemlerinin iltibasa mahal verecek şekilde benzerlik taşımadığı, amblemlerinin farklı figürler ihtiva ettiği anlaşıldığından Cumhuriyetçi Milletin Partisinin isim ve ambleminin hükümsüzlüğüne ve siyasi parti sicilinden terkinine karar verilmesi talebinin reddine karar verilmesi gerektiğinin düşünüldüğü belirtilmiştir.
+III. PARTİNİN SAVUNMASI
+Cumhuriyetçi Milletin Partisinin savunmasında öncelikle Partinin ismine ilişkin değerlendirmede bulunulmuş ve “millet” kavramının geçmişte bir arada yaşamış, şimdi bir arada yaşayan, gelecekte de bir arada yaşama inancında ve kararında olan, aynı vatana sahip çıkan, aralarında dil, kültür ve duygu birliği olan insan topluluğu olduğu, dolayısıyla bir partinin adında “halk” kavramının kullanılmasının başka partilerin adlarında “millet” veya “ulus” kelimelerinin kullanmasına kesin surette engel teşkil etmeyeceği, Partinin adında “Milletin Partisi” ibaresinin tercih edilmesindeki amacın Türkiye Cumhuriyeti'ne vatandaşlık bağı ile bağlı olan yurttaşların partisi olduğunu vurgulamak olduğu belirtilmiştir. Ayrıca bir siyasi partinin Anayasa’da güvence altına alındığı üzere devletin şeklinin Cumhuriyet olduğunu vurgulaması ve bu hususu savunmasının hiçbir şekilde bir başka siyasi partiyle karışıklığa yol açmayacağı; hâlihazırda var olan Cumhuriyetçi Sol Parti, Cumhuriyetçi Aydınlık Partisi, Cumhuriyet ve İstiklal Partisi, Cumhuriyet ve Adalet Partisi gibi partilerin “Cumhuriyet” ve “Cumhuriyetçi” kavramlarının bir partinin uhdesine bırakılamayacağının en büyük örnekleri olduğu ifade edilmiştir.
+Partinin amblemine yönelik olarak da Türk siyasal hayatında ok sembolünün çeşitli partiler tarafından tarih boyunca kullanıldığı, örneğin Cumhuriyet Halk Partisi ve Sosyal Demokrat Halkçı Partinin altı ok bulunan amblemleriyle 1994 seçimlerine katıldıkları, bu sembolün Mustafa Kemal Atatürk’ün Anayasa’nın başlangıç hükmüne koyduğu altı ilkeyi işaret ettiği, bu itibarla altı okun hiçbir partinin tekelinde olamayacağı ve münhasıran Cumhuriyet Halk Partisinin kullanımına bırakılamayacağı; okların yönü, boyutu ve uzunluğu, amblemlerdeki hilal, Türkiye haritası gibi diğer ögelerle olan görsel bütünlük, düzenlenme şekli ve yazı unsurları bakımından partinin ambleminin oy verme ehliyetine sahip vatandaşlar tarafından başka bir partininkiyle karıştırılmasının imkânsız olduğu belirtilerek talebin reddine karar verilmesi gerektiği belirtilmiştir.
+IV. İNCELEME
+1. Cumhuriyet Halk Partisinin başvurusu, Yargıtay Cumhuriyet Başsavcılığının görüşü, Cumhuriyetçi Milletin Partisinin savunması, Raportör Oğuz ÇAKAR tarafından hazırlanan rapor, ilgili Anayasa ve kanun kuralları ile bunların gerekçeleri ve diğer belgeler okunup incelendikten sonra gereği görüşülüp düşünüldü:
+1. Genel Açıklama
+2. Anayasa’nın 68. maddesinin üçüncü fıkrasında “Siyasî partiler önceden izin almadan kurulurlar ve Anayasa ve kanun hükümleri içerisinde faaliyetlerini sürdürürler.” hükmüne yer verilmiş, 69. maddesinin son fıkrasında da siyasi partilerin kuruluş ve çalışmalarının anılan maddedeki esaslar çerçevesinde kanunla düzenleneceği belirtilmiştir.
+3. Siyasi partilerle ilgili esasların düzenlendiği 2820 sayılı Kanun’un “Kullanılamayacak parti adları ve işaretler:” başlıklı 96. maddesinin birinci fıkrasında “…siyasî parti siciline kayıtlı bulunan siyasî partilerin isimleri, amblemleri, rumuzları, rozetleri ve benzeri işaretleri[nin] aynen veya iltibasa mahal verecek şekilde başka bir siyasi partice kullanılmayacağı…” belirtilmiştir.
+4. Öte yandan 2820 sayılı Kanun’un “Diğer sebeplerle başvuru” başlıklı 104. maddesinin üçüncü fıkrasında “…siyasi parti siciline kayıtlı bulunan siyasi partilerin isimleri, amblemleri ve rumuzlarını aynen veya iltibasa mahal verecek şekilde kabul eden veya kullanan siyasi parti aleyhine Anayasa Mahkemesine, Cumhuriyet Başsavcılığınca resen veya ilgili siyasi parti tarafından doğrudan yazı ile başvurulur. Anayasa Mahkemesi başvuru tarihinden itibaren en geç otuz gün içinde isim, amblem ve rumuzlarla ilgili olarak siyasi parti siciline kayıt önceliğine göre yapacağı incelemede bu Kanunun 96 ncı maddesinin birinci fıkrasına aykırılık görürse, aykırılık teşkil eden isim, amblem ve rumuzların hükümsüzlüğüne ve siyasi parti sicilinden terkinine karar verir.” hükmüne yer verilmiştir.
+5. Anılan düzenlemelerle, bir partinin siyasi parti siciline kayıtlı bir başka partinin isim ve amblemini aynen veya iltibasa yol açacak şekilde kullanması yasaklanmıştır. Söz konusu düzenleme “cumhuriyet”, “millet”, “adalet”, “demokrasi”, “özgürlük”, “millî” ve “hak” gibi toplumun ortak değerlerini ifade eden kelimelerin birden çok parti tarafından parti isminde kullanılabilmesine ve siyasi parti siciline kayıtlı bir partinin ambleminde yer alan bir şekil veya figürün karışıklığa yol açılmaması şartıyla başka bir parti tarafından kullanılmasına engel oluşturmamaktadır.
+2. İsim Yönünden
+6. Talepte bulunan Cumhuriyet Halk Partisi 9/9/1992 tarihinde; isminin ve ambleminin hükümsüzlüğüne ve siyasi parti sicilinden terkinine karar verilmesi istenen Cumhuriyetçi Milletin Partisi ise 20/10/2025 tarihinde kuruluşuna dair bildirge ve eklerinin İçişleri Bakanlığına verilmesi suretiyle tüzel kişilik kazanmıştır.
+7. Siyasi partilerin seçmenlere verecekleri mesajları daha anlamlı kılmak ve hitap ettikleri seçmen kitlesinin önemsediği değerlere sahip çıktıklarını göstermek için “cumhuriyet”, “millet”, “adalet”, “demokrasi”, “özgürlük”, “millî” ve “hak” gibi kelimeleri, söz konusu kelimeler siyasi parti siciline kayıtlı bir başka siyasi parti isminde yer alsa dahi parti isimlerinde -karışıklığa yol açmamak kaydıyla- kullanabilmeleri mümkündür (AYM, E.2025/1, (Değişik İş) K.2025/1, 27/03/2025, § 7).
+8. Belirtilen ilkeler çerçevesinde Türkçe Sözlük’te “Milletin, egemenliği kendi elinde tuttuğu ve bunu belirli süreler için seçtiği milletvekilleri aracılığıyla kullandığı yönetim biçimi” şeklinde tanımlanan “Cumhuriyet” kelimesinin birden çok parti tarafından kullanılmasının mümkün olduğu ve davalı Partinin “Milletin” kelimesine isminde yer vermek suretiyle ismini Cumhuriyet Halk Partisinin isminden belirgin bir şekilde farklılaştırdığı dikkate alındığında söz konusu parti isminin “Cumhuriyet Halk Partisi” ismi ile iltibasa mahal verecek nitelikte benzer olduğunun söylenmesi mümkün değildir.
+9. Açıklanan nedenlerle “Cumhuriyetçi Milletin” ibaresinin parti isminde yer almasının 2820 sayılı Kanun’un 96. maddesine aykırılık oluşturmadığı anlaşıldığından Cumhuriyetçi Milletin Partisinin isminin hükümsüzlüğüne ve siyasi parti sicilinden terkinine karar verilmesi talebinin reddi gerekir.
+3. Amblem Yönünden
+10. Siyasi partilerin seçmenlere vereceği mesajları daha anlaşılabilir kılması ve hitap ettikleri seçmen kitlesinin önem atfettiği değerleri sahiplendiklerini ifade etmesi bakımından hedeflediği idealleri yansıtan ve gösteren şekil veya figürleri amblemlerinde kullanmaları son derece doğaldır. Ancak bu şekil veya figürler, siyasi parti siciline daha önceden kayıtlı olan partilerin amblemleriyle iltibasa mahal vermeyecek şekilde kullanılmalıdır. Siyasi partilerin isim ve rumuzları gibi amblemleri de kişilerin bir siyasi partiyi başka bir siyasi parti ile karıştırmasına yol açmamalı, bir başka deyişle bir partinin ambleminin yanılgıya ve duraksamaya neden olmayacak şekilde diğer partinin ambleminden ayırt edilmesi mümkün olmalıdır.
+11. Talepte bulunan Cumhuriyet Halk Partisinin amblemi incelendiğinde; kırmızı zemin üzerinde beyaz renkli soldan sağa doğru uzanan altı ok ve alt tarafında yine beyaz renkli “CHP” yazısının bulunduğu görülmektedir. Cumhuriyetçi Milletin Partisi tarafından kullanılan amblemde ise beyaz zeminli çemberin içinde yukarıdan aşağıya sırasıyla kırmızı renkli “Cumhuriyetçi Milletin Partisi” yazısı, aşağıya doğru hilal işareti, Türkiye haritası, aşağıya doğru altı ok ve “CMP” yazısı bulunmaktadır. Cumhuriyetçi Milletin Partisinin ambleminde diğerinden farklı olarak altı okun yönünün alta doğru ve beyaz renkte olmasına, ayrıca “Cumhuriyetçi Milletin Partisi” yazısına, aşağıya doğru hilal işaretine ve Türkiye haritasına yer verilmesine rağmen baskın figürün altı ok olduğu açıktır. Söz konusu partilerin amblemlerinin ilk bakışta görülen ve ayırt edici özelliğini altı ok figürü oluşturduğundan bu husus seçmenin yanılmasına sebep olabilecek nitelik taşımaktadır (benzer yönde değerlendirme için bkz. AYM, E.2023/5, (Değişik İş) K.2023/3, 22/6/2023, § 10; AYM, E.2025/8, (Değişik İş) K.2025/10, 11/12/2025, § 8). Ayrıca her iki amblemde yer alan altı okun altında yazılı olan “CHP” ve “CMP” rumuzları da seçmenin yanılmasına sebep olabilecek şekilde benzerlik göstermektedir.
+12. Bu tespitler çerçevesinde Cumhuriyet Halk Partisi ile Cumhuriyetçi Milletin Partisi tarafından kullanılan amblemler birlikte değerlendirildiğinde Cumhuriyetçi Milletin Partisi ambleminin Cumhuriyet Halk Partisi amblemiyle iltibas yaratacak şekilde benzer olduğu, yanılgıya ve duraksamaya neden olmayacak şekilde ayırt edilmesinin mümkün olmadığı sonucuna varılmıştır.
+13. Açıklanan nedenlerle Cumhuriyetçi Milletin Partisi tarafından kullanılmakta olan amblemin 2820 sayılı Kanun’un 96. maddesine aykırı olduğu anlaşıldığından anılan Partinin ambleminin hükümsüzlüğü ve siyasi parti sicilinden terkini talebinin kabulü gerekir.
+Engin YILDIRIM, Muhterem İNCE ve Ömer ÇINAR bu görüşe katılmamıştır.
+V. HÜKÜM
+Cumhuriyetçi Milletin Partisinin;
+A. İsminin 22/4/1983 tarihli ve 2820 sayılı Siyasi Partiler Kanunu'nun 96. maddesine aykırı olduğu ileri sürülerek anılan Kanun’un 104. maddesinin üçüncü fıkrası gereğince hükümsüzlüğüne ve siyasi partiler sicilinden terkinine karar verilmesi talebinin REDDİNE OYBİRLİĞİYLE,
+B. Ambleminin iltibasa mahal verecek şekilde Cumhuriyet Halk Partisinin amblemi ile benzer olması sebebiyle 2820 sayılı Kanun'un 104. maddesinin üçüncü fıkrası gereğince hükümsüzlüğüne ve siyasi parti sicilinden terkinine, Engin YILDIRIM, Muhterem İNCE ile Ömer ÇINAR’ın karşıoyları ve OYÇOKLUĞUYLA,
+26/3/2026 tarihinde karar verildi.
+Başkan
+Kadir ÖZKAYA
+Başkanvekili
+Basri BAĞCI
+Başkanvekili
+İrfan FİDAN
+Üye
+Engin YILDIRIM
+Üye
+Rıdvan GÜLEÇ
+Üye
+Recai AKYEL
+Üye
+Yusuf Şevki HAKYEMEZ
+Üye
+Yıldız SEFERİNOĞLU
+Üye
+Selahaddin MENTEŞ
+Üye
+Kenan YAŞAR
+Üye
+Muhterem İNCE
+Üye
+Yılmaz AKÇİL
+Üye
+Ömer ÇINAR
+Üye
+Metin KIRATLI
+KARŞIOY
+Mahkememiz çoğunluğu tarafından Cumhuriyetçi Milletin Partisinin ambleminin iltibasa mahal verecek şekilde CHP’nin amblemi ile benzer olması sebebiyle 22.04.1983 tarihli ve 2820 sayılı Siyasi partiler Kanunu’nun 104. maddesinin 3. fıkrası gereğince hükümsüzlüğüne ve siyasi parti sicilinden terkinine karar verilmiştir. Aşağıda belirttiğimiz gerekçeler ile çoğunluk görüşüne katılmıyoruz.
+2820 sayılı Kanun'un "Kullanılamayacak Parti Adları ve İşaretler" başlıklı 96. maddesinin birinci fikrasında, siyasi parti siciline kayıtlı bulunan siyasî partilerin isimleri, amblemleri, rumuzları, rozetleri ve benzeri işaretlerinin aynen veya iltibasa mahal verecek şekilde başka bir siyasi partice kullanılmayacağı belirtilmiştir. Aynı Kanun’un 104. maddesinin üçüncü fikrasında ise, siyasi parti siciline kayıtlı bulunan siyasi partilerin isimleri, amblemleri ve rumuzlarının aynen veya iltibasa mahal verecek şekilde kabul eden veya kullanan siyasi parti aleyhine Anayasa Mahkemesine, Cumhuriyet Başsavcılığınca resen veya ilgili siyasi parti tarafindan doğrudan yazı ile başvurulacağı, Anayasa Mahkemesi’nin başvuru tarihinden itibaren en geç otuz gün içinde isim, amblem ve rumuzlarla ilgili olarak siyasi parti siciline kayıt önceliğine göre yapacağı incelemede 2820 sayılı Kanunun 96. maddesinin birinci fıkrasına aykırılık görmesi halinde, aykırılık teşkil eden isim, amblem ve rumuzların hükümsüzlüğüne ve siyasi parti sicilinden terkinine karar vereceği düzenlenmiştir.
+Cumhuriyetçi Milletin Partisi savunmasında, siyasal hayatta "ok" sembolünün çeşitli partiler tarafından tarih boyunca kullanıldığı, örneğin CHP ve Sosyal Demokrat Halkçı Partinin altı ok bulunan amblemleriyle 1994 seçimlerine katıldıkları, bu sembolün Mustafa Kemal Atatürk'ün Anayasa'nın başlangıç hükmüne koyduğu altı ilkeyi işaret ettiği bu itibarla altı okun hiçbir partinin tekelinde olamayacağı ve münhasıran CHP'nin kullanımına bırakılamayacağı, okların yönü, boyutu ve uzünluğu, amblemlerdeki Hilal, Türkiye Haritası gibi diğer öğelerle olan görsel bütünlük, düzenleme şekli ve yazı unsurları bakımından oy verme ehliyetine sahip vatandaşlar tarafından başka bir partiyle karıştırılmasının imkânsız olduğunu belirtmiştir.
+Gerçekten her iki partinin amblemleri karşılaştırıldığında CHP’nin amleminde kırmızı zemin üzerinde farklı büyüklüklerde beyaz renkli altı ok ve altta CHP yazısı mevcut iken, Cumhuriyetçi Milletin Partisi’nin amleminde daire içinde partinin isminin yazdığı ve büyük bir hilal içinde Türkiye haritası ve bu haritanın alt tarafında farklı büyüklüklerde altı okun yer aldığı, baskın figürün oktan ziyade parti ismi, hilal ve harita olduğu, yani amblemlerin farklı figürler ihtiva ettiği görülmektedir. Hal böyle olunca, Cumhuriyetçi Milletin Partisi’nin ambleminin CHP ile aynı ya da iltibasa mahal vercek şekilde benzer olduğu söylenemez.
+Açıklanan nedenlerle, 2820 sayılı Kanun’un 96. maddesine aykırılık söz konusu olmadığından, Cumhuriyetçi Milletin Partisi’nin ambleminin hükümsüzlüğü ve siyasi parti sicilinden terkini taleplerinin reddi gerektiği kanaatinde olduğumuzdan, aksi yöndeki çoğunluk görüşüne katılmıyoruz.
+Üye
+Engin YILDIRIM
+Üye
+Muhterem İNCE
+Üye
+Ömer ÇINAR
