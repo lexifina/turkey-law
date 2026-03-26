@@ -1,0 +1,70 @@
+ANAYASA MAHKEMESİ KARARI
+Esas Sayısı : 2023/1 (Siyasi Parti Mali Denetimi)
+Karar Sayısı : 2026/58
+Karar Tarihi : 26/3/2026
+R.G.Tarih-Sayı : 16/10/2026-33402
+I. MALİ DENETİMİN KONUSU
+Güç Birliği Partisinin 2021 yılı kesin hesabının incelenmesidir.
+II. İLK İNCELEME
+1. Anayasa Mahkemesi İçtüzüğü hükümleri uyarınca Zühtü ARSLAN, Hasan Tahsin GÖKCAN, Kadir ÖZKAYA, Engin YILDIRIM, M. Emin KUZ, Rıdvan GÜLEÇ, Recai AKYEL, Yusuf Şevki HAKYEMEZ, Yıldız SEFERİNOĞLU, Selahaddin MENTEŞ, Basri BAĞCI, İrfan FİDAN, Kenan YAŞAR, Muhterem İNCE ve Yılmaz AKÇİL’in katılımıyla 7/3/2024 tarihinde yapılan ilk inceleme toplantısında öncelikle suç duyurusunda ve mülki amire bildirimde bulunulup bulunulmayacağı sorunu görüşülmüştür.
+2. 22/4/1983 tarihli ve 2820 sayılı Siyasi Partiler Kanunu’nun 73. maddesinin üçüncü fıkrasının ikinci cümlesinde “İller teşkilatından gönderilenler ve parti merkezine ait olan kesin hesaplar, merkez karar ve yönetim kurulunca incelenerek karara bağlanır ve birleştirilir.” denilmiş ve aynı Kanun’un 74. maddesinin ikinci fıkrasında da “Siyasi partilerin genel başkanları, karara bağlanarak birleştirilmiş bulunan kesin hesap ile parti merkez ve bağlı ilçeleri de kapsayan iller teşkilatının kesin hesaplarının onaylı birer örneğini Haziran ayı sonuna kadar Anayasa Mahkemesine ve bilgi için Yargıtay Cumhuriyet Başsavcılığına vermek zorundadırlar. Bu belgelere, ilgili siyasi partinin aynı hesap döneminde edindiği taşınmaz ve değeri binbeşyüz lirayı aşan taşınır malların, menkul kıymetlerin ve her türlü hakların değerleri ile edinim tarihlerini ve şekillerini de belirten listeleri eklenir” denilerek il örgütlerinden gönderilen kesin hesaplar ile parti genel merkezine ilişkin kesin hesabın merkez karar ve yönetim kurulunca incelenerek karara bağlanacağı, birleştirileceği ve birleştirilmiş kesin hesap cetvellerinin Anayasa Mahkemesine sunulacağı, bu belgelere taşınmaz ve değeri bin beş yüz lirayı aşan taşınır malların, menkul kıymetlerin ve her türlü hakkın değerleri ile edinim tarihlerini ve şekillerini de belirten listelerinin ekleneceği hükme bağlanmıştır.
+3. Diğer taraftan Anayasa Mahkemesi İçtüzüğü’nün 51. maddesinin (1) numaralı fıkrasının (a) bendinde siyasi partilerin “Merkez karar ve yönetim kurullarınca (parti tüzüğünde kesin hesapları onaylama görevi verilen yetkili organlarınca alınmış parti genel merkezi ve iller örgütleri kesin hesaplarının incelenip kabul edildiğine ve birleştirildiğine ilişkin kararın onaylı örneğini”, (b) bendinde “Karara bağlanmış ve birleştirilmiş bulunan bir yıllık kesin hesabın onaylı örneğini”, (c) bendinde “Parti genel merkez kesin hesabının onaylı örneğini,”, (ç) bendinde “Bağlı ilçeleri de kapsayan ve il sorumluları tarafından imzalanmış olan iller teşkilatı kesin hesaplarının onaylı örnekleri ile genel merkez tarafından düzenlenecek olan il teşkilatları kesin hesaplarının icmal listesini,”, (d) bendinde “Parti genel merkez ve il teşkilatlarının aynı hesap döneminde edindiği taşınmaz ve değeri yüz lirayı aşan taşınır malların, menkul kıymetlerin ve her türlü hakların değerleri ile edinim tarihlerini ve şekillerini belirten listeleri,”, (e) bendinde ise “Parti genel sekreteri ve genel saymanının imzasını taşıyan yıl sonu kasa mevcudunu gösteren kasa sayım tutanağı ile banka hesaplarına ilişkin olarak banka yetkililerince onaylanmış mutabakat yazılarını” hesap yılını takip eden yılın haziran ayı sonuna kadar Anayasa Mahkemesine sunacakları belirtilmektedir.
+4. Güç Birliği Partisinin 2021 yılı kesin hesabını 9/1/2023 tarihinde Anayasa Mahkemesine sunduğu tespit edilmiştir.
+5. 2820 sayılı Kanun’un 111. maddesinin birinci fıkrasının (b) bendinde Kanun’un 74. madde hükümlerine aykırı hareket eden sorumlular hakkında üç aydan altı aya kadar hafif hapis ve on beş milyon liradan otuz milyon liraya kadar hafif para cezası verileceği hüküm altına alınmıştır.
+6. 4/11/2004 tarihli ve 5252 sayılı Türk Ceza Kanununun Yürürlük ve Uygulama Şekli Hakkında Kanun’un “Hafif hapis ve hafif para cezalarının idari para cezasına dönüştürülmesi” başlıklı 7. maddesinde kanunlarda hafif hapis cezası ve hafif para cezası olarak öngörülen yaptırımların idari para cezasına dönüştürüldüğü, idari para cezasına karar vermeye ise mülki idare amirinin yetkili olduğu belirtilmiştir.
+7. Bununla birlikte Güç Birliği Partisinin 2021 yılı kesin hesap dosyasında, Yargıtay Cumhuriyet Başsavcılığının siyasi parti teşkilat listesinde aktif görünen 56 il teşkilatına ait kesin hesap cetvellerinin sunulmadığı tespit edilmiştir.
+8. Siyasi partilerin faaliyetlerini yürüttükleri genel merkez, il, ilçe ve belde başkanlıklarına ait yerler partilerin kendilerine ait olabileceği gibi kiralık olarak da kullanılabilecektir. Parti yetkililerine ait olan veya kendilerinin kullandıkları yerlerde siyasi parti faaliyette bulunuyor ise bu takdirde kira sözleşmesi düzenlenerek kiraya isabet eden tutar partiye bağış olarak kaydedilmelidir.
+9. Ayrıca partilerin genel merkez, il, ilçe ve belde başkanlıklarının hayatın olağan akışı gereği kira, su, elektrik, posta, telefon, kırtasiye, tutulacak defterleri satın almak vb. birtakım genel yönetim giderlerini de yapması gerekir.
+10. 2820 sayılı Kanun’un 69. maddesinde bir siyasi partinin bütün gelirlerinin o siyasi partinin tüzel kişiliği adına elde edileceği, 70. maddesinde siyasi partilerin giderlerinin amaçlarına aykırı olamayacağı ve bir siyasi partinin bütün giderlerinin o siyasi parti tüzel kişiliği adına yapılacağı, 111. maddesinin birinci fıkrasının (c) bendinde de yapılan inceleme ve araştırmaları engelleyen ve istenen bilgileri vermeyen parti sorumluları hakkında altı aydan bir yıla kadar hapis ve altmış milyon liradan az olmamak üzere ağır para cezası verileceği hüküm altına alınmıştır. Bu hükümlere göre parti yetkililerinin genel yönetim giderlerini kendi imkânlarıyla karşılamaları mümkün değildir. Parti yetkilileri, bu şekilde yaptıkları giderlerin bedellerini partiye bağış geliri olarak kaydetmek suretiyle parti tüzel kişiliği adına hesaplara dâhil etmelidir.
+11. Yönetim giderlerinin hesaplarda görülmemesi kayıt dışı gelir ve gider oluşturulduğunu göstermektedir. Bu durumda 2820 sayılı Kanun’un 69. ve 70. maddelerine aykırı davranılmış olmaktadır.
+12. Öte yandan siyasi partilerin Anayasa Mahkemesi İçtüzüğü’nün 51. maddesinin (1) numaralı fıkrasının (e) bendi gereğince “Parti genel sekreteri ve genel saymanının imzasını taşıyan yıl sonu kasa mevcudunu gösteren kasa sayım tutanağı ile banka hesaplarına ilişkin olarak banka yetkililerince onaylanmış mutabakat yazılarını” haziran ayı sonuna kadar Anayasa Mahkemesine sunması gerekmekte olup söz konusu belgeler arasında yer alan banka mutabakat yazısının Parti tarafından Anayasa Mahkemesine sunulmadığı tespit edilmiştir.
+13. Anayasa Mahkemesine bilgilerin istendiği şekliyle verilmemesi, hesap verilebilir şekilde kayıt ve belge düzeninin oluşturulmaması, hesabın dışında gelir ve gider oluşturulması inceleme ve araştırmayı engellemeye yönelik eylemler olduğundan 2820 sayılı Kanun’un 111. maddesinin birinci fıkrasının (c) bendine istinaden gerekli işlemlerin yapılmasının temini için Ankara Cumhuriyet Başsavcılığına suç duyurusunda bulunulması gerekir.
+14. Bu itibarla Güç Birliği Partisinin 2021 yılı kesin hesabının incelenmesi sonucunda;
+A. Genel Merkeze ait kesin hesap cetvelinin sunulmasından dolayı işin esasının incelenmesine,
+B. Esas incelemenin yapılabilmesi amacıyla Genel Merkez kesin hesabının dayanağını oluşturan gelir gider belgeleri ile bu belgelerin kaydedildiği defterleri Sayıştay Başkanlığına göndermesi için Partiye bu kararın tebliğinden itibaren otuz gün süre verilmesine,
+C. Anayasa Mahkemesine Parti kesin hesabını haziran ayı sonuna kadar vermeyerek 2820 sayılı Kanun’un 74. maddesi hükmüne aykırı hareket eden Parti sorumluları hakkında anılan Kanun’un 111. maddesinin birinci fıkrasının (b) bendi ve 5252 sayılı Kanun’un 7. maddesi gereğince gerekli işlemlerin yapılması için konunun Ankara Valiliğine bildirilmesine,
+Ç. Anayasa Mahkemesine istenen bilgilerin istendiği şekliyle verilmemesi, hesap verilebilir şekilde kayıt ve belge düzeninin oluşturulmaması, hesabın dışında gelir ve gider yapılması inceleme ve araştırmayı engellemeye yönelik eylemler olduğundan Parti sorumluları hakkında 2820 sayılı Kanun’un 111. maddesinin birinci fıkrasının (c) bendi uyarınca yasal işlem yapılması için Ankara Cumhuriyet Başsavcılığına suç duyurusunda bulunulmasına,
+OYBİRLİĞİYLE karar verilmiştir.
+III. ESASIN İNCELENMESİ
+15. Güç Birliği Partisinin Anayasa Mahkemesine verdiği 2021 yılı kesin hesap çizelgeleri ile dayanağını oluşturan defter ve belgeler üzerinde yapılan inceleme sonuçlarını içeren ve Sayıştay Başkanlığınca hazırlanıp Raportör Oğuz ÇAKAR tarafından Heyete sunulan esas inceleme raporu, Anayasa’nın ve 30/3/2011 tarihli ve 6216 sayılı Anayasa Mahkemesinin Kuruluşu ve Yargılama Usulleri Hakkında Kanun ile 2820 sayılı Kanun’un ilgili kuralları, bunların gerekçeleri ve diğer yasama belgeleri okunup incelendikten sonra gereği görüşülüp düşünüldü:
+16. Denetimin maddi ögelerini oluşturan defter ve belgelerden Partinin 2021 yılı gelirleri toplamı 221.423,43 TL, geçen yıldan devreden gelir tutarı 5.605 TL olmak üzere gelirler genel toplamının 227.028,43 TL; giderleri toplamı 223.622 TL, gelecek yıla devreden nakit toplamı 3.406,43 TL olmak üzere gider genel toplamının 227.028,43 TL olduğu anlaşılmıştır.
+17. Anayasa Mahkemesinin 7/3/2024 tarihli ilk inceleme kararıyla Partinin 2021 yılı Genel Merkez kesin hesabının dayanağını oluşturan gelir gider belgeleri ile bu belgelerin kaydedildiği defterlerini Sayıştay Başkanlığına göndermesi için bu kararın tebliğinden itibaren otuz gün süre verilmesine karar verilmiştir. Partinin anılan gelir gider belgeleri ile bu belgelerin kaydedildiği defterleri belirtilen süre içinde göndermemesi üzerine Sayıştay Başkanlığı tarafından Partiye gönderilen 14/2/2025 tarihli ve E-93995552-175.01-25009451 sayılı yazıyla 2021 yılı esas incelemesinin yapılabilmesi için Genel Merkeze ait gelir gider belgeleri ile bu belgelerin kaydedildiği defterlerin gönderilmesi gerektiği tekrar bildirilmiştir. Ancak Parti tarafından Sayıştay Başkanlığına herhangi bir cevap sunulmamış olup bilgi, belge ve bu belgelerin kaydedildiği defterler gönderilmemiştir.
+18. 2820 sayılı Kanun’un 69. maddesinde bir siyasi partinin bütün gelirlerinin o siyasi partinin tüzel kişiliği adına elde edileceği, siyasi partilerin genel merkezlerinin ve teşkilat kademelerinin gelirlerinin parti merkez karar ve yönetim kurulunca bastırılan makbuzlar karşılığında alınacağı, sağlanan gelirin türü ve miktarıyla gelirin sağlandığı kimsenin adı, soyadı ve adresi, makbuzu düzenleyenin sıfatı, adı, soyadı ve imzasının makbuzda ve dip koçanlarında yer alacağı belirtilmiştir. Anılan Kanun’un 75. maddesinin dördüncü fıkrasında da “Anayasa Mahkemesi denetimi sonunda, o siyasi partinin gelir ve giderlerinin doğruluğuna ve kanuna uygunluğuna veya kanuna uygun olmayan gelirler ile giderler dolayısıyla da bunların Hazineye gelir kaydedilmesine karar verir.” 76. maddesinin üçüncü fıkrasında ise “Bu Kanunun 69 uncu maddesinde belirtilen esaslara aykırı olarak bir siyasi partinin tevsik edilmeyen kaynaklardan gelir sağladığı anlaşılırsa, Anayasa Mahkemesi kararıyla bu gelir Hazineye irat kaydedilir.” hükümleri yer almaktadır.
+19. Kanun’un 70. maddesinin üçüncü fıkrası uyarınca beş milyon liraya kadar olan harcamaların makbuz veya fatura gibi bir belge ile tevsik edilmesi zorunlu olmadığından bu miktarı geçen harcamaların geçerli ve kanıtlayıcı bir belgeye dayanması gerekmektedir. Kanun’un 76. maddesinin dördüncü fıkrasında ise belgelendirilmesi gerektiği hâlde belgelendirilmeyen parti giderleri miktarınca parti mal varlığının Anayasa Mahkemesi kararıyla Hazineye irat kaydedileceği hükmü bulunmaktadır.
+20. Anılan hükümlere göre siyasi partilerin kesin hesaplarının dayanağını oluşturan gelir gider belgelerini Anayasa Mahkemesine sunması gerektiğinden Partinin Genel Merkez kesin hesabında gösterdiği hâlde belgelendirmediği gelir gider rakamı kadar Parti mal varlığının Hazineye irat kaydedilmesi gerekir.
+21. Ayrıca Partinin kesin hesabının dayanağını oluşturan gelir gider belgeleri ve defter kayıtlarını Sayıştay Başkanlığına göndermemesi dolayısıyla 2820 sayılı Kanun’un 75. maddesi gereğince yapılan araştırma ve incelemeleri engellediği, aynı madde gereğince istenen bilgi ve belgeleri vermediği tespit edilmiştir.
+22. Kanun’un 75. maddesi hükmüne aykırı olarak Parti Genel Merkezinin gelir gider belgeleri ile defter kayıtlarını göndermeyerek inceleme ve araştırmayı engelleyen Parti sorumluları hakkında Kanun’un 111. maddesinin birinci fıkrasının (c) bendi uyarınca gerekli işlemlerin yapılmasını temin için suç duyurusunda bulunulması gerekir.
+IV. SONUÇ
+Güç Birliği Partisinin 2021 yılı kesin hesabının incelenmesi sonucunda;
+A. Kesin hesabının dayanağını oluşturan gelir ve giderlerini belgelendirmeyen Partinin 2021 yılı hesabının 2820 sayılı Kanun uyarınca kabul edilmesinin mümkün olmadığına,
+B. 22/4/1983 tarihli ve 2820 sayılı Siyasi Partiler Kanunu’nun 75. ve 76. maddelerine göre Genel Merkez kesin hesabının dayanağını oluşturan gelir gider belgeleri ve defter kayıtlarını Anayasa Mahkemesine sunmayan ve gelir ve giderlerini belgelendirmeyen Partinin kesin hesabında gösterdiği 221.423,43 TL gelir tutarı ve 227.028,43 TL gider tutarı olmak üzere toplam 448.451,86 TL karşılığı Parti mal varlığının Hazineye irat kaydedilmesine,
+C. Partinin kesin hesabının dayanağını oluşturan gelir gider belgeleri ile bu belgelerin kaydedildiği defterlerin gönderilmemesinden dolayı Parti sorumluları hakkında 2820 sayılı Kanun’un 111. maddesinin birinci fıkrasının (c) bendine istinaden gerekli işlemlerin yapılabilmesi için Ankara Cumhuriyet Başsavcılığına suç duyurusunda bulunulmasına,
+26/3/2026 tarihinde OYBİRLİĞİYLE karar verildi.
+Başkan
+Kadir ÖZKAYA
+Başkanvekili
+Basri BAĞCI
+Başkanvekili
+İrfan FİDAN
+Üye
+Engin YILDIRIM
+Üye
+Rıdvan GÜLEÇ
+Üye
+Recai AKYEL
+Üye
+Yusuf Şevki HAKYEMEZ
+Üye
+Yıldız SEFERİNOĞLU
+Üye
+Selahaddin MENTEŞ
+Üye
+Kenan YAŞAR
+Üye
+Muhterem İNCE
+Üye
+Yılmaz AKÇİL
+Üye
+Ömer ÇINAR
+Üye
+Metin KIRATLI
