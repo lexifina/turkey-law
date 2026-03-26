@@ -1,0 +1,4 @@
+MİLLETLERARASI TAHKİM ÜCRET TARİFESİ HAKKINDA TEBLİĞ
+Konu ve kapsam
+MADDE 1- (1) 21/6/2001 tarihli ve 4686 sayılı Milletlerarası Tahkim Kanunu uyarınca, taraflarla hakem veya hakem kurulu arasında ücretin belirlenmesi konusunda anlaşmaya varılamaz veya tahkim anlaşmasında ücretin belirlenmesine ilişkin herhangi bir hüküm bulunmazsa ya da taraflarca bu konuda yerleşmiş milletlerarası kurallara veya kurumsal tahkim kurallarına yollama yapılmamışsa, hakem veya hakem kurulunun alacağı ücret hususunda bu Tebliğ hükümleri uygulanır.
+(2) Hakemlerden birinin, bu Tebliğde düzenlenmeyen herhangi bir nedenle görevinin sona ermesi ile hukukî veya fiilî sebeplerle görevini zamanında yerine getirememesi nedeniyle çekilmesi veya tarafların bu yönde anlaşmaları ile hakemlik yetkisinin sona ermesi durumunda ve konusu para ile değerlendirilemeyen işlerde bu Tebliğ hükümleri uygulanmaz.
