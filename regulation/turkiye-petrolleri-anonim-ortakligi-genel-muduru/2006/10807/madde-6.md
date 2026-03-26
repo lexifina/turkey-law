@@ -1,0 +1,5 @@
+Tayin, nakil, terfi, geçici görevlendirme, devir ve iş sözleşmesinin feshi yetkisi
+MADDE 6 – (1) Ortaklığın genel müdür, genel müdür yardımcısı ve yönetim kurulu üyelerinin (seçimle gelenler hariç) atanmalarında 2477 sayılı Kanun hükümleri uygulanır. Görev derecesi 1 olan personelin tazminatsız olarak iş sözleşmesinin feshi hariç, tayin, nakil, terfi, bağlı Ortaklık ve iştirakleri arasında devri ve her türlü iş sözleşmesinin feshi işlemleri Genel Müdürün teklifi üzerine yönetim kurulu kararı ile yapılır.
+(2) Görev derecesi 1 olan personel de dahil tüm personel ihtiyaç halinde mevcut mali haklarıyla birlikte eğitim ve deneyimlerine uygun ünitelerde mevcut unvanlarını koruyarak Genel Müdürlük oluru ile geçici olarak görevlendirilebilir.
+(3) Birinci fıkrada sayılanlar dışında kalan diğer personelin tayin, nakil, terfi devir ve her türlü sözleşme feshi işlemlerinde Genel Müdür ya da yetki vereceği amir yetkilidir.
+(4) İhtiyaç olması ve gerek duyulması halinde personel, çalışmakta olduğu işyerinden Ortaklığa ait başka bir işyerine naklen tayin edilebilir. Bu işyeri çalışmakta olduğu mahalden başka bir mahalde olsa dahi, personelin muvafakatinin alınması gerekmez.

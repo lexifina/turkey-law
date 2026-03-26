@@ -1,0 +1,2 @@
+Dayanak
+MADDE 2 – (1) Bu Yönetmelik, 8/6/1984 tarihli ve 233 sayılı Kamu İktisadi Teşebbüsleri Hakkında Kanun Hükmünde Kararname, 22/1/1990 tarihli ve 399 sayılı Kamu İktisadi Teşebbüsleri Personel Rejiminin Düzenlenmesi ve 233 sayılı Kanun Hükmünde Kararnamenin Bazı Maddelerinin Yürürlükten Kaldırılmasına Dair Kanun Hükmünde Kararname ve 22/5/2003 tarihli ve 4857 sayılı İş Kanunu hükümlerine dayanılarak hazırlanmıştır.

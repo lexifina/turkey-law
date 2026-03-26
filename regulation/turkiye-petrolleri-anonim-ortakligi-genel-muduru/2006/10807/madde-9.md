@@ -1,0 +1,4 @@
+Çalışma süresi
+MADDE 9 – (1) Personel için çalışma süresi; haftada 5 gün çalışma, 2 gün tatil esasına göre düzenlenir. Normal çalışma süresi günde 8 saat olmak üzere haftada 40 saattir.
+(2) Çalışma saatleri işyerlerinin ve ünitelerin özellikleri dikkate alınarak, Genel Müdürlükçe tespit edilir.
+(3) (Değişik:RG-11/12/2024-32749) Barınma ve yemek imkânı sağlanmak suretiyle 24 saat süre devamlı olarak işyerinde bulunulan; Sondaj ve Workover kulelerinde kesintisiz ve sürekli olarak karalarda 20, denizlerde ise 14 gün ve üzerinde kulede ya da jeofizik operasyonlar kara ekipleri ile sismik arama gemilerinde kalan personele, bulunduğu sürenin 1/2’si kadar (yolda geçen süre dahil) izin verilmesi ve bu izni kullanması sağlanır. Bu izinler birleştirilemez. Ancak, bu şekilde verilen ve kullandırılan izin süresi hiçbir şekilde 14 takvim gününü geçemez.

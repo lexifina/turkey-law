@@ -1,0 +1,6 @@
+Tabii afet ve hastalık avansı
+MADDE 49 – (1) Personele, aşağıda belirtilen esaslarda tabiî afet ve hastalık avansı ödenir:
+a) Personelin kendisine, eşine veya velâyeti altındaki çocuklarına ait ev veya eşyalarının; deprem, toprak kayması, sel ve yangın gibi tabiî afetlere uğraması halinde, durumun ilgili makamlardan alınan belgelerle kanıtlanması kaydıyla, personele 5 aylık çıplak ücreti tutarını geçmemek üzere tabiî afet avansı verilir. İki aylık ücret tutarındaki avanslar 12 eşit taksitte, iki aydan fazla verilen avanslar ise 24 eşit taksitte personelin aylık ücretlerinden kesilir.
+b) Personelin kendisinin veya eş, çocuk ve bakmakla yükümlü olduğu ana-babasından oluşan aile bireylerinin ağır ve ciddi bir hastalığa yakalandığının sağlık kurulu raporu ile belgelendirilmesi, hastalığın ağır ve ciddi nitelikte olduğu hususunun işyeri hekimince belirlenmesi halinde; personele en çok 4 aylık çıplak ücreti tutarında hastalık avansı verilir. Bu avans 12 eşit taksitte geri alınır.
+(2) Avansın, kendi hastalığı nedeniyle verilmesi halinde taksitler personelin işbaşı yaptığı tarihi takibeden aybaşından itibaren başlar.
+(3) Yukarıda belirtilen taksit süreleri sona ermeden ve alınan avans tamamen ödenmeden ikinci bir avans verilemez.

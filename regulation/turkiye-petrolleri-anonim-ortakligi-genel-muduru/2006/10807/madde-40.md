@@ -1,0 +1,3 @@
+Yemek yardımı
+MADDE 40 – (1) Personele; toplu iş sözleşmesi kapsamında çalışanlara ödenen tutarı geçmeyecek şekilde yönetim kurulunca uygun görülecek miktarda ve her ay peşin olarak ödenmek üzere günlük yemek yardımı yapılır veya karşılığında dengeli beslenme esaslarına uygun doyurucu yemek verilir. Yemek yardımından aynî olarak yararlanacak personele, verilecek yemeğin kazan maliyet bedelinin; nakdî olarak tespit edilen miktarı aşması halinde, aradaki fark Ortaklıkça karşılanır. Yemek yardımı miktarı yönetim kurulunca 6 ayda bir gözden geçirilir.
+(2) Personele ücretli izinli ya da bir başka yerde görevli bulunduğu süreler için de yemek yardımı ödenmesine devam edilir.

@@ -1,0 +1,2 @@
+GEÇİCİ MADDE 2- (Ek:RG-11/12/2024-32749)
+(1) Sondaj ve Workover kuleleri, jeofizik operasyonlar kara ekipleri ile sismik gemilerinde çalışmayıp açıktan atama yoluyla atananlar hariç, Şırnak Bölge Müdürlüğü’ne naklen veya geçici görevlendirme ile atanan tüm kapsam dışı (Değişik ibare:RG-26/3/2026-33205)(2) personel, 31/12/2026 tarihine kadar 9 uncu maddenin üçüncü fıkrası hükümlerine göre (Değişik ibare:RG-26/3/2026-33205)(2) çalıştırılabilir.

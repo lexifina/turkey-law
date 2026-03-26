@@ -1,0 +1,13 @@
+Kıdemler
+MADDE 25 – (1) İtibarî hizmet süresinin tespitinde dikkate alınacak kıdemler aşağıda gösterilmiştir:
+a) İç Hizmet Kıdemi: Ortaklıkta geçmiş bulunan hizmetlerin toplamıdır. Ancak, Ortaklıkta çalışmakta iken 8/4/1929 tarihli 1416 sayılı Ecnebi Memleketlere Gönderilecek Talebe Hakkında Kanun gereği açılan sınavı kazanarak Ortaklık adına eğitim yapmak amacıyla yurt dışına gönderilen personelin yurt dışında geçen eğitim döneminin, resmî burslu statüde geçen süresi, Ortaklık içi hizmet olarak dikkate alınır. Sermayesinin en az % 15’i Ortaklığa ait olan şirketlerde geçen çalışma süreleri ücret intibakında ve bir üst göreve terfide, iç hizmet olarak kabul edilir.
+b) Dış Hizmet Kıdemi: Ortaklık dışında geçmiş hizmetlerdir. Bunların kıdemden sayılabilmesi için:
+1) En az 4 yıllık yüksek öğrenim mezunu olarak çalışılmış bulunulmasının,
+2) Ortaklıkta çalışacağı meslek ve/veya uzmanlığı ile ilgili işlerde fiilen görev yapılmış olmasının,
+3) Hizmet; yurt içinde ve/veya yurt dışında özel nitelikli işyerinde, geçmiş ise ilgili sosyal güvenlik kurumuna prim ödenmiş olmasının,
+belgelendirilmesi gerekir.
+c) Hizmet Kıdemi: Batman ve Adıyaman Bölge Müdürlükleri emrinde geçen her tam 4 yıl, bunların dışında kalan işyerlerinde geçen her tam 5 yıla karşılık 1 ilâve yıl hizmet kıdemi olarak kabul edilir. Belirtilen çalışma sürelerinden 4 veya 5 yıllık zaman diliminin farklı kategorideki işyerlerinde geçmiş olması halinde 5 yıllık dilim esas alınır.
+ç) Yüksek Lisans veya Master Kıdemi: Yüksek lisans veya master derecesi almış olan personele verilen kıdemdir. Ortaklığın hizmet alanlarından herhangi birinde yüksek lisans veya master derecesi almış olanlara 2 kademe verilir. İkinci yüksek lisans veya master derecesini alanlara, Ortaklığın hizmet alanlarıyla ilgili olmak ve Genel Müdürlükçe uygun görülmek kaydıyla ilâve bir kademe daha verilebilir.
+d) Doktora Kıdemi: Ortaklığın hizmet alanları ile ilgili olarak yapılan doktora çalışması için verilen kıdemdir. Bu durumda olanlara 3 kademe verilir.
+e) İşe başladıktan sonra ibraz edilecek olan dış hizmetler ile çalışmakta iken tahsil durumunda meydana gelebilecek değişiklikler dolayısıyla verilecek kademeler, konuya ilişkin belgelerin (Değişik ibare:RG-18/2/2009-27145) İnsan Kaynakları Dairesi Başkanlığına yazılı olarak intikâl ettirildiği tarihi takip eden ay başında yürürlüğe girer.
+(2) Kamuda geçen hizmet sürelerinin tamamı iç hizmet kıdeminin hesabında göz önünde bulundurulur. Ancak özel nitelikli işyerinde geçmiş ve ilgili sosyal güvenlik kurumuna prim ödenmiş olan hizmet sürelerinin değerlendirilmesindeki süre 10 yılı geçemez. Ayrıca muvazzaf askerlikte geçen fiili süre de dış hizmete tam olarak ilâve edilir.

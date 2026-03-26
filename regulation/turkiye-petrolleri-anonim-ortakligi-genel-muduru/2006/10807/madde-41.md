@@ -1,0 +1,2 @@
+Sosyal yardım
+MADDE 41 – (1) Personele; çocuk, aile, öğrenim, kira yardımları karşılanmak üzere, toplu iş sözleşmesi kapsamında çalışanlara ödenen tutarı geçmeyecek şekilde yönetim kurulunca uygun görülecek miktarda ve her ay peşin olarak sosyal yardım ödemesi yapılır. Sosyal yardım miktarı yönetim kurulunca 6 ayda bir gözden geçirilir. Bu yardım, 10 uncu maddede yer alan, çalışılmış gibi sayılan sürelerde de ödenmeye devam olunur. Yapılacak sosyal yardım miktarı uygulanmakta olan toplu iş sözleşmesi ile ödenen miktarlardan fazla olamaz.

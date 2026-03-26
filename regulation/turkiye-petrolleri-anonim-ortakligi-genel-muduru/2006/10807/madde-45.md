@@ -1,0 +1,2 @@
+Yolluklar
+MADDE 45 – (1) Personele seyahatleri halinde yönetim kurulunca kabul edilmiş olan yolluk yönergesine göre yolluk ödenir. Ödenecek yurt içi yolluk ödemeleri, 4/7/2001 tarihli 631 sayılı Memurlar ve Diğer Kamu Görevlilerinin Mali ve Sosyal Haklarında Düzenlemeler ile Bazı Kanun ve Kanun Hükmünde Kararnamelerde Değişiklik Yapılması Hakkında Kanun Hükmünde Kararnamenin 14/A maddesinde belirtilen oranları aşamaz.

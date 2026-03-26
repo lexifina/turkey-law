@@ -1,0 +1,3 @@
+Hizmete alma
+MADDE 5 – (1) Hizmete alınacak kişilerde; 18/5/1983 tarihli ve 83/6750 sayılı Bakanlar Kurulu Kararıyla yürürlüğe konulan Kamu Kurum ve Kuruluşlarının Daimi Kadrolarına İlk Defa İşçi Olarak Alınacaklar Hakkında Uygulanacak Sınav Yönetmeliği ile 18/3/2002 tarihli ve 2992/3975 sayılı Bakanlar Kurulu Kararıyla yürürlüğe konulan Kamu Görevlerine İlk Defa Atanacaklar İçin Yapılacak Sınavlar Hakkında Genel Yönetmelik hükümlerine göre yapılan sınavda başarılı olma şartı aranır.
+(2) Ortaklığın bağlı kuruluşlarından Ortaklığa alınacak personel hakkında da ilk defa hizmete alınacak personelde olması gereken şartlar aranacaktır.

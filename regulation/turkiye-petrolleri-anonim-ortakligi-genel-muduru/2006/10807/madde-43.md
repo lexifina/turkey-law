@@ -1,0 +1,4 @@
+Malûliyet yardımı
+MADDE 43 – (1) İş kazası ya da meslek hastalığı sonucu, meslekte kazanma gücünü % 10’dan az kaybetmiş olanlara, resmi sağlık kurumlarınca verilen rapor ile belgelendirmek kaydıyla, kaybedilen her bir % 1 birim için üç yevmiye ödenir.
+(2) Bu yardım miktarını gerektiğinde bir katına kadar artırmaya, Genel Müdür yetkilidir.
+(3) İş kazası veya meslek hastalığı sonucu; hizmet akdi devam ederken resmi sağlık kurumunca çalışamaz raporu verilenlere, çalışma gücünü en az 2/3 ya da meslekte kazanma gücünü en az % 60 oranlarında kaybettikleri bu kurum tarafından tespit edilenlere, 6 aylık çıplak ücretleri tutarında malûliyet yardımı ödenir. Hizmet akdi devam ederken iş kazası ya da meslek hastalığı dışında herhangi bir sebeple, 506 sayılı Sosyal Sigortalar Kanununa göre malûl sayılanlara, 4 aylık çıplak ücretleri tutarında malûliyet yardımı yapılır.
