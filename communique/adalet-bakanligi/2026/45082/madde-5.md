@@ -1,0 +1,2 @@
+Davanın konusuz kalması, feragat ve sulhte ücret
+MADDE 5- (1) Anlaşmazlığın, davanın konusuz kalması, feragat veya sulh nedeniyle, hakem veya hakem kurulunca taraflara delillerin sunulması hususunda Milletlerarası Tahkim Kanununun 12 nci maddesinin (B) fıkrası uyarınca süre verilmesinden önce sona ermesi halinde Ücret Tablosunda belirlenen ücretin yarısına, süre verilmesinden sonra sona ermesi halinde ise tabloda belirlenen ücretin tamamına hükmolunur.

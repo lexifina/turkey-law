@@ -1,0 +1,2 @@
+İptal davası sonucunda hakemin davaya yeniden bakması
+MADDE 7- (1) İptal davasının kabulü halinde, kabul kararı temyiz edilmezse veya Milletlerarası Tahkim Kanununun 15 inci maddesinin (A) fıkrasının (1) numaralı bendinin (b), (d), (e), (f), (g) alt bentleri ile (2) numaralı bendinin (b) alt bendindeki hallerin varlığı sebebiyle kabulü halinde, eski hakemlerden birinin yeniden tayin edilmesi durumunda, Ücret Tablosunda yazılı ücretin dörtte birine hükmedilir.
