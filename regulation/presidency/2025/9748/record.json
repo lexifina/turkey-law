@@ -1,0 +1,26 @@
+{
+  "id": "presidency-regulation-9748",
+  "number": "9748",
+  "kind": "regulation",
+  "issuer": "presidency",
+  "title": "REKABET KURUMU TEŞKİLAT YÖNETMELİĞİ",
+  "published": "2025-04-18",
+  "enacted": "2025-04-17",
+  "gazette_number": "32874",
+  "in_force": "2026-03-27",
+  "in_force_basis": "Source commencement table, \"Yürürlüğe Giriş Tarihi\": 27/3/2026; source row: 26/3/2026 | 11124 | 27 | 27/3/2026 | ",
+  "history": "current-only",
+  "version_label": "oldest version available",
+  "first_law": null,
+  "source": "https://www.mevzuat.gov.tr/anasayfa/MevzuatFihristDetayIframe?MevzuatNo=9748&MevzuatTur=21&MevzuatTertip=5",
+  "source_sha256": "9dfff5de04e00f35db2a49dfc4290562664726af0e1e2c8db279fb747346cdf4",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  },
+  "missing_components": [],
+  "text_layout": "article-files",
+  "source_links": [],
+  "completeness": "html-text-complete"
+}
