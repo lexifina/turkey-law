@@ -1,0 +1,2 @@
+Uzlaşma komisyonlarının uzlaşma konusu yapabilecekleri vergi ziyaı, usulsüzlük ve özel usulsüzlük cezalarına ilişkin yetki sınırı
+MADDE 5- (1) Uzlaşma komisyonlarının uzlaşma konusu yapabilecekleri vergi ziyaı, usulsüzlük ve özel usulsüzlük cezalarının tutarları, uzlaşma görüşmelerinin mahallinde hızlı bir şekilde sonuçlandırılması amacıyla ve gerekli görülen diğer hallerde iller veya il grupları itibarıyla Gelir İdaresi Başkanlığı tarafından belirlenir.
