@@ -1,0 +1,23 @@
+Tanımlar
+MADDE 4 – (1) Bu Yönetmelikte geçen;
+a) Ağırlıklı Genel Not Ortalaması (AGNO): Her bir dersten elde edilen başarı notu katsayısının AKTS kredisi ile çarpılmasından bulunan sonucun toplam AKTS kredisine bölünmesi yolu ile bulunacak değeri,
+b) Akademik danışman: Öğrenciye eğitim-öğretim, ders alma işlemleri ve benzeri konularda yardımcı olması için görevlendirilmiş öğretim elemanını,
+c) Anabilim dalı: Biruni Üniversitesi Diş Hekimliği Fakültesine bağlı anabilim dallarını,
+ç) Anabilim dalı kurulu: Biruni Üniversitesi Diş Hekimliği Fakültesinin ilgili anabilim dalı kurulunu,
+d) Avrupa Kredi Transfer Sistemi (AKTS): Öğrencilerin yurt içinde ve yurt dışında aldıkları ve başarılı oldukları ders kredilerinin ve notlarının bir yükseköğretim kurumundan diğerine transferini sağlayan iş yüküne dayalı sistemi,
+e) Birim: Üniversiteye bağlı fakülte ve meslek yüksekokulunu,
+f) Bütünleme sınavı: Öğrencilerin dönem sonunda başarısız oldukları dersler için tanınan bir sınav hakkını,
+g) Dekan: Biruni Üniversitesi Diş Hekimliği Fakültesi Dekanını,
+ğ) Ders yılı/Dönem: Bir eğitim-öğretim yılını,
+h) Fakülte: Biruni Üniversitesi Diş Hekimliği Fakültesini,
+ı) Fakülte Kurulu: Biruni Üniversitesi Diş Hekimliği Fakülte Kurulunu,
+i) Fakülte Yönetim Kurulu: Biruni Üniversitesi Diş Hekimliği Fakülte Yönetim Kurulunu,
+j) Final sınavı: Derslere devam eden klinik/pratik uygulamaları başarı ile tamamlayan öğrenciler için dönem sonunda yapılan sınavı,
+k) Mütevelli Heyeti: Biruni Üniversitesi Mütevelli Heyetini,
+l) Öğrenci İşleri Direktörlüğü: Biruni Üniversitesi Öğrenci İşleri Direktörlüğünü,
+m) ÖSYM: Ölçme, Seçme ve Yerleştirme Merkezini,
+n) Rektör: Biruni Üniversitesi Rektörünü,
+o) Senato: Biruni Üniversitesi Senatosunu,
+ö) Üniversite: Biruni Üniversitesini,
+p) YÖK: Yükseköğretim Kurulunu,
+ifade eder.

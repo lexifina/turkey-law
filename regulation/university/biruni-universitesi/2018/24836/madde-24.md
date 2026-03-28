@@ -1,0 +1,5 @@
+Derslere devam
+MADDE 24 – (1) Pre-klinik laboratuvar çalışmaları, tartışma, seminer, alan ve klinik çalışmaları ve teorik derslere devam zorunludur. Mazeretler de dahil olmak üzere kuramsal saatlerin %30’undan, klinik/pratik uygulama saatlerinin %20’sinden fazlasına katılmayan öğrenci o dersten devamsızlıktan kalmış olur ve ilgili dersin final ve bütünleme sınavına alınmaz.
+(2) Derse devam durumları ilgili ders sorumlusu tarafından takip edilir ve devamsızlıkları nedeniyle sınava giremeyecek öğrencilerin listesi, final sınavından önce ilgili dersin sorumlu öğretim elemanı tarafından ilan edilir.
+(3) Mazereti veya sağlık sorunu nedeni ile devamsızlık yapılması durumunda heyet raporları fakülte yönetim kurulunca uygun görülmesi halinde geçerli kabul edilir. Öğrencinin raporlu ve diğer devamsızlık günlerinin toplamı, yıllık/dönemlik toplam ders saatinin yarısını aşması durumunda devamsızlıktan kalmış sayılır. Öğrenciler, rapor süresince derslere devam edemezler ve sınavlara giremezler.
+(4) Derslere Devam Akademik Takvim başlangıç ve bitiş tarihleri arasında zorunludur. Geç kayıt yapılması durumunda devam durumu öğrencinin sorumluluğundadır.

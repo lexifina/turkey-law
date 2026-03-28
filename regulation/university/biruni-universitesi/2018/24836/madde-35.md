@@ -1,0 +1,2 @@
+Diploma ve unvanlar
+MADDE 35 – (1) Fakülteye kayıtlı olan öğrencilerin ilk iki yıldaki bütün derslerini ve sınavlarını başararak AGNO’larının 2,00 olması gerekir. İlk iki yıldan sonra öğrenimlerine devam etmeyenlere istekleri halinde, temel bilimlerde ön lisans diploması; beş yıllık diş hekimliği eğitim programını başarı ile tamamlayanlara ise diş hekimliği yüksek lisans diploması ile Diş Hekimi unvanı verilir.

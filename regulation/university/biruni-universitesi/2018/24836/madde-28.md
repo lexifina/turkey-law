@@ -1,0 +1,3 @@
+Beşinci sınıf klinik/pratik uygulamalı derslerin tekrarı
+MADDE 28 – (1) Yıl içindeki klinik derslere devam eden ancak klinik uygulamalarını tamamlayamayan öğrenciler klinik/pratik uygulama sonu sınavına giremez. Klinik ders süresi içinde ana bilim dalları tarafından belirlenen klinik uygulamaların %70 oranını tamamlayan öğrenciler, eksik işlerini verilen sürede tamamlamak şartı ile bütünleme sınavına girebilir, başarısız olunması durumunda klinik/pratik uygulama tekrarına kalırlar.
+(2) Klinik/pratik uygulama tekrarında başarısız olanlar, akademik takvimde belirtilen tarihte başlayarak ikinci klinik/pratik uygulama tekrarını yaparlar.

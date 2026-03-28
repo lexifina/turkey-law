@@ -1,0 +1,4 @@
+Yabancı dil seviye tespit sınavı ve zorunlu yabancı dil hazırlık sınıfı
+MADDE 15 – (1) Yabancı dille eğitim-öğretim yapılan diploma programına kayıt yaptıran öğrenciler, kayıt yaptırdıkları diploma programının öğretim diline ilişkin yabancı dil seviye tespit sınavına tabi tutulurlar.
+(2) Yabancı dil seviye tespit sınavının sonucuna göre; yabancı dil seviyesi yeterli bulunanlar ile sınavdan muaf tutulanlar, doğrudan birinci sınıfa başlar. Yabancı dil seviye tespit sınavına katılmayan veya bu sınavın sonucuna göre yabancı dil düzeyi yeterli bulunmayanlar zorunlu yabancı dil hazırlık sınıfına devam eder.
+(3) Yabancı dil seviye tespit sınavından muaf olma şartları, sınavın niteliği ve uygulanma şekli, başarı ölçütleri ile yabancı dil öğretimine ilişkin diğer konular Yükseköğretim Kurumlarında Yabancı Dil Öğretimi ve Yabancı Dille Öğretim Yapılmasında Uyulacak Esaslara İlişkin Yönetmelik hükümlerine uygun olarak Senato tarafından belirlenir.

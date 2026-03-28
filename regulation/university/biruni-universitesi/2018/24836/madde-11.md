@@ -1,0 +1,3 @@
+Ders muafiyetleri
+MADDE 11 – (1) Öğrenciler, daha önce öğrenim gördükleri yükseköğrenim kurumlarından veya denkliği kabul edilmiş bir kuruluştan almış ve başarmış oldukları derslerini aktarmak için akademik takvimde belirlenen tarihte başvuruda bulunabilirler. Eşdeğer sayılacak dersler, ilgili dersi veren öğretim elemanının içinde yer aldığı komisyonun önerisi Fakülte Yönetim Kuruluna sunulur ve uygun bulunması halinde öğrencinin ders sorumluluğu kaldırılır. Sorumluluk kaldırılıncaya kadar öğrenci ilgili derse devam eder.
+(2) Öğrencinin muaf sayıldığı derslerden aldığı not ve harf notları, not karşılığı harf notu yoksa 29 uncu maddede belirtilen harf notlarına uygun olarak başarı durum belgelerinde gösterilir ve AGNO’ya dahil edilir.

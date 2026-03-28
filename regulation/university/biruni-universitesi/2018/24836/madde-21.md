@@ -1,0 +1,7 @@
+Derslerin kredi değerleri ve eğitim-öğretim planları
+MADDE 21 – (1) Bir dersin kredisi, öğrencilerin, o ders için belirlenmiş olan öğrenme kazanımları için gerekli çalışma yükünü ifade eder. Öğrencinin her tür eğitim- öğretim faaliyeti kredilendirilerek derslerin AKTS değerleri belirlenir.
+(2) Fakültede ders yükü, başarı değerlendirmesi ve benzeri hesaplamalarda derslerin AKTS’si kullanılır.
+(3) Öğrenim süresi boyunca izlenecek ders planı ve derslerin yarıyıllara göre dağılımı, Fakülte kurulu tarafından belirlenir ve Senatonun onayı ile kesinleşir.
+(4) Eğitim-öğretim planlarında fakülteden mezun olmak için gerekli toplam kredi yükü ile öngörülen zorunlu ve seçmeli dersler, bu derslerin haftalık, teorik, uygulama ve laboratuvar saatleri ve kredileri ile varsa önkoşulları belirtilir. Ders ve uygulamaların toplam AKTS’si, her bir yıl için 60 olacak şekilde belirlenir.
+(5) Eğitim-öğretim planlarında ve derslerde yapılacak değişiklikler, öğrencilerin bu değişiklikten nasıl etkilenecekleri de göz önünde bulundurularak, akademik takvimde belirtilen tarihlerde, fakülte kurulunun önerisi üzerine Senato kararıyla yapılır. Değişikliklerden etkilenen öğrencilerin yeni eğitim-öğretim planına denklik ve intibaklarının ne şekilde yapılacağı fakülte kurulu kararında belirtilir. Değişiklikler Senato kararını takip eden ilk yarıyılın başından itibaren uygulamaya alınır.
+(6) (Değişik:RG-6/10/2024-32684) Program değerlendirilmesine ve iyileştirilmesine yönelik yönerge ile düzenlemeler yapılabilir.

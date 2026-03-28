@@ -1,0 +1,4 @@
+Klinik dersler
+MADDE 26 – (1) Fakültede dördüncü ve beşinci sınıflar klinik ders yılıdır. Klinik derslerde ara sınav, final ve bütünleme sınavı uygulanır. Sınavlar uygulama ve/veya teorik olarak yapılır.
+(2) Klinik derse devam eden ancak final sınavında başarılı olamayan veya ana bilim dalları tarafından belirlenen klinik iş sayısını tamamlayamadığı için final sınavına giremeyen ancak eksik işlerini telafi süresinde tamamlayan klinik sınıf öğrencileri bütünleme sınavına alınır.
+(3) Fakültede teorik ve klinik/pratik bütünlük bulunduğundan Erasmus ve değişim programları hariç Fakülte dışında herhangi bir kurumda klinik/pratik uygulamalı ders ve klinik ders (staj) yapılması kabul edilmez. Erasmus ve değişim programları hariç klinik ders veya staj için dışarıdan öğrenci başvuruları kabul edilmez.
