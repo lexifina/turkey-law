@@ -1,0 +1,51 @@
+{
+  "source_id": "9.5.42687",
+  "kind": "communique",
+  "register_kind": "Tebliğler",
+  "title": "AVUKATLIK ASGARİ ÜCRET TARİFESİ",
+  "number": "42687",
+  "path": "teblig/2025/42687",
+  "source": "https://www.mevzuat.gov.tr/anasayfa/MevzuatFihristDetayIframe?MevzuatTur=9&MevzuatNo=42687&MevzuatTertip=5",
+  "source_sha256": "d7a51b8fb2715016db3c6a04715698f983d4e1292a261efcaec5772a8bc3ee28",
+  "source_bytes": 41305,
+  "published": "2025-11-04",
+  "gazette": "33067",
+  "in_force": "2026-03-28",
+  "in_force_basis": "latest Resmî Gazete date printed in the source amendment notes/table (\"RG-28/3/2026\") for the current consolidated text",
+  "date_evidence": [
+    [
+      "2026-03-28",
+      "RG-28/3/2026",
+      "Resmî Gazete date printed in the source amendment note"
+    ],
+    [
+      "2026-03-28",
+      "28/3/2026",
+      "Resmî Gazete date in the source amendment table"
+    ],
+    [
+      "2026-01-08",
+      "RG-8/1/2026",
+      "Resmî Gazete date printed in the source amendment note"
+    ],
+    [
+      "2026-01-08",
+      "8/1/2026",
+      "Resmî Gazete date in the source amendment table"
+    ]
+  ],
+  "history": "current-text",
+  "label": "oldest version available",
+  "checked_on": "2026-11-15",
+  "word_count": 2457,
+  "text_status": "current-consolidated",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  },
+  "source_links": [
+    "9.5.42687-Ek.doc"
+  ],
+  "completeness": "html-text-complete; linked annexes not fetched"
+}

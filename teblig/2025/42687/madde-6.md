@@ -1,0 +1,2 @@
+Davanın konusuz kalması, feragat, kabul ve sulhte ücret
+MADDE 6- (1) Anlaşmazlık, davanın konusuz kalması, feragat, kabul, sulh veya herhangi bir nedenle; ön inceleme tutanağı imzalanıncaya kadar giderilirse, bu Tarife hükümleriyle belirlenen ücretlerin yarısına, ön inceleme tutanağı imzalandıktan sonra giderilirse tamamına hükmolunur. Bu madde yargı mercileri tarafından hesaplanan akdi avukatlık ücreti sözleşmelerinde uygulanmaz.
