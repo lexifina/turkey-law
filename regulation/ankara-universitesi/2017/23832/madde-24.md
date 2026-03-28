@@ -1,0 +1,3 @@
+Alınan dersi transfer etme
+MADDE 24 – (1) Öğrenciler; birimlerden önceden izin almak koşuluyla, Üniversitenin diğer birimlerinden, yurt içindeki yükseköğretim kurumlarından, YÖK tarafından denkliği kabul edilen ya da öğrenci değişim programlarına dâhil olan yurt dışındaki yükseköğretim kurumlarından ders alabilir ve bu derslerin kredilerini transfer ettirebilirler. Ders transferlerinde, diğer üniversitelerden alınan derslerin notları, Senato tarafından onaylanan not dönüşüm tablosuna göre ilgili kurulların kararı ile öğrenci durum belgesine işlenir.
+(2) Öğrencilerin almış olduğu dersler ve kayıtlı olduğu programda yer alan karşılıkları öğrenci durum belgesinde belirtilir. Öğrenci durum belgesinde dersin kredisi olarak kayıtlı olunan programdaki dersin kredisi yer alır.

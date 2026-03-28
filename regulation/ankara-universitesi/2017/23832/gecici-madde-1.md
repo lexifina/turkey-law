@@ -1,0 +1,3 @@
+İntibak
+GEÇİCİ MADDE 1 – (1) Bu Yönetmelikte belirtilen azami öğrenim süreleri, 26/11/2014 tarihinden önce Üniversitede kayıtlı olan öğrenciler için 2014-2015 eğitim-öğretim yılı güz yarıyılından itibaren hesaplanır ve bu tarihten önceki öğrenim süreleri, azami öğrenim sürelerinin hesaplanmasında dikkate alınmaz.
+(2) (Değişik:RG-9/4/2018-30386)(1) 2017-2018 eğitim-öğretim yılı güz ve/veya bahar yarıyılından itibaren mezuniyet aşamasında olan öğrenciler için (2017-2018 eğitim-öğretim yılı ve sonrası girişli öğrenciler hariç) 23 üncü maddenin üçüncü fıkrasında belirtilen koşullar aranmaz. Bu öğrenciler bir yarıyılda 39, bir yılda 78 saat ders alabilirler.
