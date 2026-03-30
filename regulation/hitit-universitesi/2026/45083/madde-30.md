@@ -1,0 +1,3 @@
+Sanatta yeterlik diploması
+MADDE 30- (1) Tez savunmasında başarılı olmak ve diğer koşulları da sağlamak kaydıyla sanatta yeterlik tezinin bir kopyasını tez sınavına giriş tarihinden itibaren bir ay içinde Enstitüye teslim eden ve tezi şekil yönünden uygun bulunan öğrenci sanatta yeterlik diploması almaya hak kazanır. Enstitü Yönetim Kurulu başvuru üzerine teslim süresini en fazla bir ay daha uzatabilir. Bu koşulları yerine getirmeyen öğrenci, koşulları yerine getirinceye kadar diplomasını alamaz, öğrencilik haklarından yararlanamaz ve tez teslimi için belirlenen azami sürenin dolması halinde ilişiği kesilir.
+(2) Mezuniyet tarihi, tezin sınav jüri komisyonu tarafından imzalı nüshasının teslim edildiği tarihtir.

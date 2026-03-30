@@ -1,0 +1,3 @@
+Danışman atanması
+MADDE 28- (1) Sanatta yeterlik programında, ilgili ana sanat dalı başkanlığı her öğrenci için Senato tarafından belirlenen niteliklere sahip Üniversite kadrosunda bulunan bir tez danışmanını en geç birinci yarıyılın sonuna kadar Enstitüye önerir.
+(2) Sanatta yeterlik danışmanı, Enstitü Yönetim Kurulu onayı ile kesinleşir. Sanatta yeterlik çalışmasının niteliğine göre; tez danışmanının gerekçeli bir şekilde talep etmesi halinde, ana sanat dalı başkanlığının önerisi ve Enstitü Yönetim Kurulu kararıyla Üniversite dışından da doktora/sanatta yeterlik derecesine sahip kişiler ikinci danışman olarak atanabilir.

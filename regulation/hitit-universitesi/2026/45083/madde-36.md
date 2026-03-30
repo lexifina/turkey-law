@@ -1,0 +1,3 @@
+Ders görevlendirmeleri, sınavlar ve değerlendirme
+MADDE 36- (1) Bir yarıyılda hangi lisansüstü derslerin açılacağı ve bu derslerin doktora veya eşdeğeri lisansüstü eğitim mezunu hangi öğretim elemanları ile 2547 sayılı Kanunun ek 46 ncı maddesi uyarınca görevlendirilen araştırmacılar tarafından verileceği, Senato tarafından belirlenen esaslar çerçevesinde Enstitü ana bilim/ana sanat dalı başkanlarının önerisi üzerine Enstitü Yönetim Kurulu tarafından belirlenir.
+(2) Lisansüstü programlarla ilgili devam, sınavlar, ders notları, derslerden başarılı sayılma koşulları, ders tekrarı ve diğer hususlar Senato tarafından belirlenir.

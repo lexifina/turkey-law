@@ -1,0 +1,4 @@
+Doktora diploması
+MADDE 24- (1) Tez savunma sınavında başarılı bulunan öğrenciye, Senato tarafından belirlenen şartlara uygun olarak hazırlanmış tezini Enstitüye teslim etmesi halinde doktora diploması verilir.
+(2) Tez savunmasında başarılı olmak ve diğer koşulları da sağlamak kaydıyla doktora tezinin en az bir kopyasını tez sınavına giriş tarihinden itibaren bir ay içinde Enstitüye teslim eden ve tezi şekil yönünden uygun bulunan öğrenci, doktora diploması almaya hak kazanır. Enstitü Yönetim Kurulu başvuru üzerine teslim süresini en fazla bir ay daha uzatabilir. Bu koşulları yerine getirmeyen öğrenci, koşulları yerine getirinceye kadar diplomasını alamaz, öğrencilik haklarından yararlanamaz ve tez teslimi için belirlenen azami sürenin dolması halinde ilişiği kesilir.
+(3) Mezuniyet tarihi, tezin sınav jürisi tarafından imzalı nüshasının teslim edildiği tarihtir.

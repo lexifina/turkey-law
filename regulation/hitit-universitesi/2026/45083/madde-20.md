@@ -1,0 +1,7 @@
+Yeterlik sınavı
+MADDE 20- (1) Yeterlik sınavı, derslerini ve seminerini başarıyla tamamlayan öğrencinin alanındaki temel konular ve kavramlar ile doktora çalışmasıyla ilgili bilimsel araştırma derinliğine sahip olup olmadığının ölçülmesidir.
+(2) Yeterlik sınavı takvimi Senato tarafından belirlenir. Ancak yüksek lisans derecesi ile kabul edilenler en geç beşinci yarıyılın, lisans derecesi ile kabul edilenler ise en geç yedinci yarıyılın sonuna kadar yeterlik sınavına girmek zorundadır. Bir öğrenci bir yılda en fazla iki kez yeterlik sınavına girer.
+(3) Yeterlik sınavları, ana bilim/ana sanat dalı başkanlığı tarafından önerilen ve Enstitü Yönetim Kurulu tarafından onaylanan beş kişilik doktora yeterlik komitesi tarafından düzenlenir ve yürütülür. Komite, farklı alanlardaki sınavları hazırlamak, uygulamak ve değerlendirmek amacıyla ilgili alanlara uygun sınav jürileri belirler.
+(4) Sınav jürisi en az ikisi Üniversite dışından olmak üzere danışman dahil beş öğretim üyesinden oluşur. Danışmanın oy hakkı olup olmadığı hususunda Enstitü Yönetim Kurulu karar verir. Danışmanın oy hakkı olmaması durumunda jüri altı öğretim üyesinden oluşur.
+(5) Yeterlik sınavı toplantısı öğretim elemanları, lisansüstü öğrenciler ve alanın uzmanlarından oluşan dinleyicilerin katılımına açık olarak yapılır.
+(6) Yeterlik sınavı yazılı ve sözlü olarak iki bölüm halinde yapılır. Yazılı sınavda başarılı olan öğrenci, sözlü sınava alınır.
