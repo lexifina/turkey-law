@@ -1,0 +1,22 @@
+{
+  "kind": "norm",
+  "issuer": "Gelir İdaresi Başkanlığı",
+  "document_type": "ozelge",
+  "number": "E-31435689-170-70134",
+  "source_id": 38845,
+  "date": "2026-03-31",
+  "title": "Öğretmenevi ve Akşam Sanat Okulu Müdürlüğü adına kayıtlı araçlarda Motorlu Taşıtlar Vergisi istisnası hk.",
+  "source": "https://gib.gov.tr/mevzuat/kanun/441/ozelge/38845",
+  "related_law": "197 sayılı MOTORLU TAŞITLAR VERGİSİ KANUNU",
+  "source_api": "https://gib.gov.tr/api/gibportal/mevzuat/ozelge/list",
+  "source_listing": "evidence/list/2026-11-16/ozelge-p009.json",
+  "source_listing_sha256": "9cb52b4963a9a177a23948f6e28c12936c2f43c88a0b410872bb81c01983667c",
+  "source_sha256": "fa3efcc3ec954a76d61c69c013224c35bf0698d7296f01b850815b01150894f1",
+  "text_status": "as-enacted",
+  "text_file": "metin.md",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  }
+}
