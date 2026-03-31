@@ -1,0 +1,10 @@
+Etüt, Proje ve Çevre Dairesi Başkanlığı
+MADDE 10 – (1) Etüt, Proje ve Çevre Dairesi Başkanlığının görevleri şunlardır:
+a) Yapımı planlanan otoyol, devlet ve il yollarının istikşafını yapmak, belirlenen alternatifler üzerinde mühendislik ve fizibilite çalışmaları yaparak kesinleşen güzergâh koridorunda arazi etüdü ve büro çalışmalarını yapmak veya yaptırmak, kurum içi birimlerden gerekli bilgileri temin etmek, diğer kamu kurum ve kuruluşlarından görüş almak, bu bilgiler ve görüşler doğrultusunda ön ve kesin projeleri, metraj bilgilerini hazırlamak/hazırlatmak ve onaylamak, yapım çalışmaları devam eden veya biten işlerin projesine uygunluğunu izleyerek görüş ve önerilerde bulunmak.
+b) Devlet ve il yollarına ait projeleri trafik güvenliği yönünden ilgili Daire Başkanlığı ile koordine ederek kontrol edip onaylamak.
+c) Hidrolik ve drenaj etütlerini yapmak veya yaptırmak.
+ç) Proje çalışmalarında, imar planlarının güzergâhtan ve tesislerden etkilenmesi durumunda ilgili kurum ve kuruluşlar ile iş birliği içinde çalışmak ve kurum görüşünü bildirmek, gerektiğinde imar mevzuatı kapsamında çalışma yapmak veya yaptırmak.
+d) İlgili kuruluşlarla eşgüdüm içinde, haritası yapılacak alanların yapısı ve teknolojik gelişmeleri de göz önünde bulundurarak en uygun harita üretim yöntemlerini belirleyip sayısal haritaların üretimini yapmak veya yaptırmak.
+e) Otoyol, devlet ve il yolları, malzeme ocakları ve karayolu tesislerinin çevreye olabilecek etkilerinin belirlenmesi açısından 25/11/2014 tarihli ve 29186 sayılı Resmî Gazete’de yayımlanan Çevresel Etki Değerlendirmesi Yönetmeliği gereğince ilgili raporları hazırlamak veya hazırlatmak.
+f) 4/6/2010 tarihli ve 27601 sayılı Resmî Gazete’de yayımlanan Çevresel Gürültünün Değerlendirilmesi ve Yönetimi Yönetmeliği gereğince; belirlenen kesimlerde gürültü haritaları hazırlamak/hazırlatmak ve gerekli çalışmaları yürütmek.
+g) Diğer kurum ve kuruluşların faaliyetleri ile ilgili çevresel etki değerlendirmesi mevzuatı gereğince hazırlayacakları çevresel etki değerlendirmesi raporlarına, kuruluşumuz sorumluluk alanları kapsamında görüş bildirmek.

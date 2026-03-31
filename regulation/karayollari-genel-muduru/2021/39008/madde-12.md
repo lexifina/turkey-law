@@ -1,0 +1,13 @@
+Yol Yapım Dairesi Başkanlığı
+MADDE 12 – (1) Yol Yapım Dairesi Başkanlığının görevleri şunlardır:
+a) Plan ve programlarla yapımı kararlaştırılmış olan devlet yolu, il yolu ve ilgili Bakanlık tarafından finansmanı karşılanan turistik yollar ile tarım ve enerji projeleri gereği relokasyon yolları ile benzeri yolların, proje bütünlüğünü sağlayacak büyük sanat yapıları ve sanat yapıları dâhil olmak üzere ilgili birimlerle koordine sağlayarak yapmak veya yaptırmak.
+b) (Mülga:RG-25/3/2025-32852)
+c) Birim görev alanıyla ilgili, kamu kurum ve kuruluşlarının görev alanına ilişkin hizmet talepleri ile gerçek veya tüzel kişilerin konaklama tesisleri, akaryakıt satış istasyonları ve benzeri tesislerin karayoluna giriş ve çıkışlarının düzenlenmesine dair taleplerini kendi çalışma programını da dikkate alarak yapılacak protokoller çerçevesinde ve ücreti mukabilinde yapmak.
+ç) Yolların ıslahını ve üst yapı takviyesini, bitümlü sıcak karışım, beton yol, parke ve benzeri kaplama işlerini yapmak veya yaptırmak.
+d) Dış kredilerin temini ve kullanımı hususlarında, ilgili kamu kurum ve kuruluşları, dış finansman kuruluşları ile Genel Müdürlük birimleri arasında iş birliği ve koordinasyonu sağlamak.
+e) İhalesi yapılmış yolların yapımı ile ilgili olarak bölgelerde kontrol teşkilatının ihtiyaçlarının karşılanması için gerekli izinleri vermek.
+f) Trafik altında yapımı devam eden yollarda, çalışma zaman dilimlerini mevsim ve trafik şartlarına göre düzenlemek, trafik emniyetini belirlenen standartlara göre sağlayacak şekilde trafik işaretleme esaslarını taşra teşkilatına bildirmek.
+g) Karayollarının yapımı aşamasında, onaylanmış karayolu projeleri uyarınca karayolu sınır çizgisi içerisinde kaldığı tespit edilen su, kanalizasyon, doğalgaz ve petrol boru hatları ile elektrik, haberleşme, fiber kablo hatları ve ilgili tesislerin karayolu yapımını engellemeyecek şekilde yeniden düzenlenmesine ilişkin iş ve işlemleri ilgili kurum ve kuruluşlarla da koordine ederek, kurulumu için verilecek izinlere ilişkin her türlü iş ve işlemleri takip etmek, yaptırmak, denetlemek veya gerçekleştirmek.
+ğ) Daire Başkanlığınca yürütülen yol yapım çalışmaları ile ilgili danışmanlık hizmetlerini ihale etmek ve sözleşmelerinin yürütülmesini sağlamak.
+h) Daire Başkanlığınca yürütülen yapım çalışmaları kapsamında projenin güncel ihtiyaçlar nedeniyle ve zorunlu olarak ortaya çıkabilecek proje değişiklikleri ile ilgili gerekli koordinasyonu sağlamak ve proje değişikliği ile ilgili işlemleri takip etmek.
+ı) Daire Başkanlığı bünyesinde bulunan teknik personelin değişen ihtiyaçlara ve gelişen teknoloji ile birlikte yapım teknikleri göz önünde bulundurularak eğitim faaliyetlerini sağlamak.

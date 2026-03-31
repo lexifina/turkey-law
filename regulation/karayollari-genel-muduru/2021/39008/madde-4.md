@@ -1,0 +1,21 @@
+Tanımlar
+MADDE 4 – (1) Bu Yönetmelikte geçen;
+a) Akıllı ulaşım sistemleri: Ulaşım sistemlerinin sürdürülebilirliğini daha güvenli, daha akıllı ve çevreye daha duyarlı bir şekilde geliştiren çeşitli teknolojilerin bir araya getirilmesini,
+b) Bakan: Ulaştırma ve Altyapı Bakanını,
+c) Bakanlık: Ulaştırma ve Altyapı Bakanlığını,
+ç) Birim amiri: Bu Yönetmelikte geçen hizmet birimlerinin en üst yöneticisini,
+d) Büyük sanat yapıları: Proje ve yapım metodu özellik arz eden; tünel, köprü, viyadük ve benzeri yapıları,
+e) Devlet yolları: Belediyeler veya diğer kurumların sorumluluğunda bulunan yollar dışında kalan ve transit trafiği, illere, limanlara, tersanelere, hava alanlarına, demiryolu istasyonlarına, sınır kapılarına kesintisiz olarak ulaştıran ana karayollarını,
+f) Genel Müdür: Karayolları Genel Müdürünü,
+g) Genel Müdürlük: Karayolları Genel Müdürlüğünü,
+ğ) Genel Müdürlük Makamı: Genel Müdür ve genel müdür yardımcılarını,
+h) Hizmet birimi: Genel Müdürlüğün hizmet ve görev alanlarına giren faaliyetlerini yürüten birimleri,
+ı) İl yolları: Belediyeler veya diğer kurumların sorumluluğunda bulunan yollar dışında kalan, illeri birbirine, devlet yollarına, limanlara, tersanelere, demiryolu istasyonlarına, hava alanlarına ve kamu ihtiyacının gerektirdiği diğer yerlere bağlayan ve bir il sınırı içinde başlayıp biten karayollarını,
+i) Karayolu: Trafik akışına imkân sağlamak üzere kamunun yararlanmasına açık olan arazi şeritleri, köprüler, tüneller, her türlü sanat yapıları, koruma yapıları ve diğer alanları,
+j) Karayolu sınır çizgisi: Kamulaştırılmış, kamuya terk veya tahsis edilmiş karayolunda mülk ile olan sınır çizgisini; diğer karayollarında, yarmada şevden sonra hendek varsa hendek dış kenarı, hendek yoksa şev üstü kenarı, dolguda şev etek çizgisini; yaya yolu ile ayrılmış karayolunda yaya yolunun mülkle birleştiği çizgiyi,
+k) Kamu özel iş birliği: Yap-İşlet-Devret usulü de dahil olmak üzere, Genel Müdürlük görev alanına giren karayolları ve bunların bağlantı yolları ile bunlar üzerindeki köprü, viyadük, tünel gibi tüm yapılar ile hizmet tesisleri, sosyal tesisler, dinlenme tesisleri ve benzerlerinin, projesinin tasarlanması, finansman, yapım ve işletilmesi ile mevcut yatırımların yenilenmesi, geliştirilmesi, bakım ve onarımının yapılması ve işletilmesinde özel sektörün dahil edildiği yöntemleri,
+l) Otoyol: Yüksek standartlara sahip, trafik seyrinde asgari hız sınırlaması uygulanan, seyahat hızı yüksek ve üzerinde erişme kontrolünün uygulandığı karayolunu,
+m) Sanat yapıları: Köprü, tünel, viyadük, dayanma yapıları, kazı destek sistemleri, menfez, drenaj maksatlı yapılar gibi yapıları,
+n) Trafik: Yayaların, hayvanların ve araçların karayolu üzerindeki hal ve hareketlerini,
+o) Trafik işaretleri: Trafiği düzenleme amacıyla kullanılan işaret levhaları, yer işaretlemeleri, ışıklı ve sesli işaretler ile trafik zabıtası veya diğer yetkililerin trafiği yönetmek için yaptıkları hareketleri,
+ifade eder.

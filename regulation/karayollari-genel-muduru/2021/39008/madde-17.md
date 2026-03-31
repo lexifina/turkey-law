@@ -1,0 +1,16 @@
+Sanat Yapıları Dairesi Başkanlığı
+MADDE 17 – (1) Sanat Yapıları Dairesi Başkanlığının görevleri şunlardır:
+a) (Değişik:RG-25/3/2025-32852) Yapılması planlanan her türlü köprünün, tünelin ve tip menfez abakları dışında kalan menfezlerin projelendirme kriterlerini belirlemek ve teknik şartnamelerini hazırlamak veya hazırlatmak.
+b) (Değişik:RG-25/3/2025-32852) Yapılması planlanan her türlü köprünün, tünelin ve tip menfez abakları dışında kalan menfezlerin projelerini ve metrajlarını hazırlamak veya hazırlatmak.
+c) (Değişik:RG-25/3/2025-32852) Projesi tamamlanmış olan her türlü köprüyü, tüneli yapmak veya yaptırmak.
+ç) Köprü ve tünellerin yaklaşımlarında bulunan ve bu yapılarla bağlantılı betonarme dayanma yapılarının standartlarını belirlemek, bunlara ait projeleri geliştirip yayımlamak, gerektiğinde tip projeleri, çığ ve teressübat geçiş yapıları projelerini hazırlamak veya hazırlatmak.
+d) Tarihi köprülerin tespit, envanter, belgeleme çalışmalarını ve restorasyon projeleri ile restorasyon çalışmalarını yapmak veya yaptırmak.
+e) Yapılan protokoller kapsamında yurt dışındaki tarihi köprülerin (Osmanlı, Selçuklu Dönemi) restorasyon projeleri ile uygulamalarını yapmak veya yaptırmak.
+f) Yapımı Başkanlığın sorumluluğunda bulunan tüneller ve teknolojik köprülerle ilgili yapısal güvenlik izleme sistemlerini kurmak veya kurdurmak.
+g) Ağırlık ve/veya boyutları yasal sınırların üzerinde olan ve başka ulaşım türleri ile taşınması mümkün olmayan, bölünemeyen, taşınması zorunlu olan özel yük ve araçların taşınmasına ilişkin sanat yapıları açısından görüş vermek.
+ğ) (Değişik:RG-25/3/2025-32852) Devlet ve il yolları üzerinde bulunan her türlü köprünün ihtiyaç duyulanlarında, sismik projelendirme ve güçlendirme işlerini yapmak veya yaptırmak.
+h) (Değişik:RG-25/3/2025-32852) Genel Müdürlük görev alanına giren devlet ve il yolları üzerinde bulunan, geçişi ücretli olmayan köprülerin (teknolojik köprüler dahil) bakıma esas incelemesini (muayenesini) periyodik olarak en az üç yılda bir yapmak veya yaptırmak; bu incelemeleri veri tabanında kaydedip, bakımı, onarımı ve işletmesini yapmak veya yaptırmak; köprülerin bakım onarım projeleri ile metrajlarını hazırlamak veya hazırlatmak, bakım onarım işleri uygulamalarını yapmak veya yaptırmak.
+ı) Yapımı Başkanlığın sorumluluğunda bulunan tünellerin ikincil işler ile ilgili projelendirme kriterlerini belirlemek, avan ve detay projeleri ile teknik şartname ve metrajlarını hazırlamak veya hazırlatmak, uygulama imalatlarını yapmak veya yaptırmak.
+i) Görev alanı ile ilgili şartname, rehber, teknik yayın birim fiyat gibi dokümanları hazırlamak veya hazırlatmak.
+j) (Ek:RG-25/3/2025-32852) Kamu kurum ve kuruluşları ile gerçek ve tüzel kişilerden gelecek, devlet ve il yollarında köprünün altından, üstünden ve yanından geçirilecek her türlü tesisat geçiş izni usul, esas ve şartlarını belirlemek, belirlenen usul, esas ve şartlar dahilinde gerekli tüm işlemleri tesis, takip ve koordine etmek.
+k) (Ek:RG-25/3/2025-32852) Genel Müdürlük sorumluluk alanındaki devlet ve il yollarıyla ilgili her türlü köprü bilgilerinin, proje ve fiziki özellikleri ile fotoğraflarının, coğrafi bilgi teknolojilerini de kullanarak ilgili birimlerle koordinasyon ve iş birliği içinde envanter kayıtlarına geçirerek arşivlenmesini sağlamak.

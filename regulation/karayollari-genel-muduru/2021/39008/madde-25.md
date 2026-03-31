@@ -1,0 +1,12 @@
+Bilgi Teknolojileri Dairesi Başkanlığı
+MADDE 25 – (1) Bilgi Teknolojileri Dairesi Başkanlığının görevleri şunlardır:
+a) Bilgi ve iletişim teknolojilerindeki gelişmelere bağlı olarak Genel Müdürlüğün çalışmalarıyla ilgili bilgi/bilişim ve iletişim politikalarını belirlemek ve kurumsal verimliliği, kaliteyi artıracak önlemler almak, verilerin ve bilgilerin toplanması, kaydedilmesi, işlenmesi, iletilmesine ilişkin plan ve programları hazırlamak, en uygun donanım, yazılım ve diğer unsurları belirleyerek ulusal ve uluslararası standartlara uygun şekilde geliştirmek ve etkin kullanımını sağlamak.
+b) Genel Müdürlüğün ihtiyaç duyduğu her türlü bilgi/bilişim, karar destek ve yönetim sistemlerinin, coğrafi bilgi teknolojilerini de kullanarak ilgili birimlerle koordinasyon ve iş birliği içinde kurulmasını, işletilmesini, sürekliliğini sağlamak.
+c) Ulusal veya uluslararası yönetim bilgi/bilişim sistemlerini araştırmak, uygun ve gerekli olanlarını veya benzerlerini Genel Müdürlük için kurmak.
+ç) Yeterli ve etkin bilişim ağ sistemlerini tesis etmek, her an çalışır halde tutulması için bunların yedeklemelerini ve arşiv mekanizmalarını kurmak, yedek işletim sistemleri ile her koşulda hizmetleri devam ettirmek.
+d) e-Devlet kapısından ve diğer kanallardan elektronik hizmet vermeye yönelik altyapıları, telematik sistemleri kurmak ve bunlar için gerekli uygulamaları geliştirmek, yaygınlaştırmak, işletmek.
+e) Genel Müdürlüğün paydaş olduğu e-Devlet projelerinde, diğer kurum ve kuruluşlarla koordinasyon dâhilinde yapılması gereken kurumsal, ulusal ve uluslararası çalışmalarda görev almak.
+f) Genel Müdürlüğün görev alanına giren konularda ulusal ve uluslararası kapsamda, sistemler arası çevrim içi ve çevrim dışı veri akışını, paylaşımını ve koordinasyonu sağlamak ve buna ilişkin usul ve esasları belirlemek.
+g) Merkez ve taşra teşkilatının internet erişimini, veri, ses, görüntü iletişimini sağlamak için gerekli iletişim ağı ve sistemleri ile söz konusu sistemlerde gelişen teknolojinin gerektirdiği değişikliklerin yapılmasını sağlamak.
+ğ) Genel Müdürlüğün görev alanındaki karayolları ağında hizmetin gerektirdiği haberleşme altyapısını kurmak ve ilgili birimlerle koordineli olarak akıllı ulaşım sistemleri kurulması ve kullandırılmasına yönelik çalışmalar yapmak.
+h) Genel Müdürlük internet sitesinin kesintisiz hizmet vermesini ve diğer birimlerle koordineli olarak içerik yönetimini sağlamak.

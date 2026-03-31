@@ -1,0 +1,17 @@
+Strateji Geliştirme Dairesi Başkanlığı
+MADDE 22 – (1) Strateji Geliştirme Dairesi Başkanlığının görevleri şunlardır:
+a) Ulaştırma ana planı, kalkınma planları ve diğer üst politika belgeleri ile uyumlu şekilde kurumun stratejik planının hazırlanmasını koordine etmek, kısa, orta ve uzun vadeli planları hazırlayarak karayolu yatırım politikalarının belirlenmesine esas olmak üzere koridor ve altyapı ihtiyaç analizleri ile daha ekonomik yeni finansman kaynak araştırmaları yapmak veya yaptırmak.
+b) Karayolu yatırım projelerinin ekonomik ve finansal fizibilite etütleri ile mevcut veya planlanan karayolu ve karayolu elemanlarının kapasite analizlerini yapmak veya yaptırmak, bu kapsamda geometrik ve fiziki standartların belirlenmesine yönelik değerlendirme ve çözüm önerilerinde bulunmak.
+c) Genel Müdürlük görev ve sorumluluk alanındaki bölge sınır değişikliği, yol ağına alma, çıkarma, değiştirme ve düzeltme işlemleri ile ilgili gerekli koordinasyonu sağlayarak süreci tamamlamak.
+ç) Genel Müdürlük görev ve sorumluluk alanı ile ilgili konularda Avrupa Birliği, ikili, bölgesel, çok taraflı uluslararası kuruluşlar ve ülkelerle idari ve teknik iş birliği çalışmalarında, kurumumuzun uluslararası ve kurumlar arası dış ilişkilerini gerçekleştirmek, bu konularda kurumsal koordinasyonu sağlamak.
+d) İç kontrol sisteminin kurulması, standartlarının uygulanması ve geliştirilmesi konularında çalışmalar yapmak.
+e) Genel Müdürlüğün gelir, gider, varlık ve yükümlülüklerine ilişkin malî karar ve işlemlerinin; idarenin bütçesi, bütçe tertibi, kullanılabilir ödenek tutarı, harcama programı, finansman programı, merkezi yönetim bütçe kanunu ve diğer malî mevzuat hükümlerine uygunluğu ve kaynakların etkili, ekonomik ve verimli bir şekilde kullanılması yönlerinden ön mali kontrolünü yapmak.
+f) Yürürlükteki mevzuat hükümlerine göre; kurumun muhasebe hizmetlerini yürütmek, kurum kesin hesabını hazırlamak ve kamu idaresi hesaplarının Sayıştay’a verilmesi görevlerini yapmak.
+g) Üçüncü şahıs haciz ihbarnameleri, temlik işlemlerinin takibi ile gereğini yapmak.
+ğ) Genel Müdürlüğün yaptığı işler ve ürettiği hizmetlere ilişkin gerçekleşen maliyetleri tespit etmek amaçlı maliyet etütlerini ve analizlerini yapmak, maliyetleri tespit ederek yayınlamak.
+h) Genel Müdürlüğün yaptığı işler ve ürettiği hizmetlere ilişkin verimlilik etütlerini ve analizlerini yapmak, verimsiz çalışma alanlarını belirleyerek geliştirme amaçlı önerilerde bulunmak.
+ı) Genel Müdürlüğün performans programının hazırlanmasını koordine etmek ve sonuçlarının konsolide edilmesi çalışmalarını yürütmek. Harcama birimleri tarafından hazırlanan birim faaliyet raporlarını da esas alarak İdarenin faaliyet raporunu hazırlamak.
+i) Genel Müdürlüğün izleyen iki yılın bütçe tahminlerini de içeren idare bütçesini, stratejik plan ve yıllık performans programına uygun olarak hazırlamak, mevzuatı uyarınca belirlenecek bütçe ilke ve esasları çerçevesinde, ayrıntılı harcama ve finansman programlarını hazırlamak.
+j) Genel Müdürlük yatırım programının hazırlanmasını koordine etmek, uygulama sonuçlarını izlemek ve yıllık yatırım değerlendirme raporunu hazırlamak.
+k) Genel Müdürlük yatırımı ve uygulamaları ile ilgili soru ve talepleri birimlerle koordine ederek cevaplamak, kurum faaliyetleri ve yatırım bilgileri ile ilgili veri ve istatistiki bilgileri toplamak, raporlamak, kurum çalışmaları hakkında diğer hizmet birimleri ile koordineli olarak dokümantasyon ve bilgilendirme işlerini yapmak.
+l) Genel Müdürlük faaliyetleri için her türlü çalışma haritalarını hazırlamak ve bastırmak.

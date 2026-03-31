@@ -1,0 +1,53 @@
+{
+  "source_id": "7.5.39008",
+  "kind": "regulation",
+  "register_kind": "Kurum ve Kuruluş Yönetmelikleri",
+  "title": "KARAYOLLARI GENEL MÜDÜRLÜĞÜ GÖREV, YETKİ VE SORUMLULUK YÖNETMELİĞİ",
+  "number": "39008",
+  "issuer": "Karayolları Genel Müdürü",
+  "issuer_slug": "karayollari-genel-muduru",
+  "path": "regulation/karayollari-genel-muduru/2021/39008",
+  "source": "https://www.mevzuat.gov.tr/anasayfa/MevzuatFihristDetayIframe?MevzuatTur=7&MevzuatNo=39008&MevzuatTertip=5",
+  "source_sha256": "2383f5aaa4b209285ab46ecb80f42b9b13cd545e825692d02792bba848020243",
+  "source_bytes": 151481,
+  "published": "2021-10-22",
+  "gazette": "31636",
+  "in_force": "2026-03-31",
+  "in_force_basis": "latest Resmî Gazete date printed in the source amendment notes/table (\"RG-31/3/2026\") for the current consolidated text",
+  "date_evidence": [
+    [
+      "2026-03-31",
+      "RG-31/3/2026",
+      "Resmî Gazete date printed in the source amendment note"
+    ],
+    [
+      "2026-03-31",
+      "31/3/2026",
+      "Resmî Gazete date in the source amendment table"
+    ],
+    [
+      "2025-03-25",
+      "RG-25/3/2025",
+      "Resmî Gazete date printed in the source amendment note"
+    ],
+    [
+      "2025-03-25",
+      "25/3/2025",
+      "Resmî Gazete date in the source amendment table"
+    ]
+  ],
+  "commencement_clauses": [
+    "Bu Yönetmelik yayımı tarihinde yürürlüğe girer"
+  ],
+  "history": "current-text",
+  "label": "oldest version available",
+  "checked_on": "2026-11-15",
+  "word_count": 7542,
+  "text_status": "current-consolidated",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  },
+  "completeness": "html-text-complete"
+}

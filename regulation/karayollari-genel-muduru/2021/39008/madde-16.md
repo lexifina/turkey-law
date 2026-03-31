@@ -1,0 +1,14 @@
+Makine ve İkmal Dairesi Başkanlığı
+MADDE 16 – (1) Makine ve İkmal Dairesi Başkanlığının görevleri şunlardır:
+a) Yıllık programlar göz önünde tutularak Genel Müdürlük makine parkının eksikliklerini belirlemek ve gidermek, işletilmesi ve dağıtımına ilişkin iş ve işlemleri yapmak.
+b) Makinelerin bakım ve onarımları için gerekli atölyeleri, makine yedek parça ve malzeme ambarları ile depoları, servis ve akaryakıt tesislerini, alıcı-verici telsiz istasyonları ve şebekelerini kurmak, işletmek veya işlettirmek.
+c) İhtiyaç duyulan ve satın alınması mümkün veya ekonomik olmayan makine, teçhizat ve yedek parçaların imali için gerekli etüt, inceleme ve piyasa araştırması yapmak, imal etmek veya ettirmek.
+ç) Her tür malzeme, makine, taşıt, araç-gereç ve yedek parça, akaryakıt ve madeni yağların en az ve en çok stok seviyeleri ile bunların yıllık tüketim miktarını, işletme giderlerini izlemek, kayıt ve sicillerini tutmak ve bunları takip etmek.
+d) İhtiyaç duyulan makine, taşıt, araç-gereç, tezgâh, yedek parça, akaryakıt ve madeni yağları temin etmek, kabul ve muayene işlemlerini yapmak, kayıtlarını tutmak, depo etmek, ikmali ve dağıtımı için gerekli iş ve işlemleri yapmak.
+e) Ekonomik ömrünü doldurmuş olan makine ekipman, teçhizat, tezgah ve bunlara ait malzemeleri kullanım dışına çıkartmak, hibe, satış ve benzeri iş ve işlemleri yapmak.
+f) Makine parkının yenilenmesi, ihtiyaçların belirlenmesi ve karşılanması için bilimsel ve teknik gelişmeleri izlemek, araştırma, geliştirme faaliyetleri içinde bulunmak, bu amaçla gerektiğinde yurt içindeki veya yurt dışındaki üniversite ve üretim tesisleri ile iletişim kurarak gerekli incelemelerde bulunmak.
+g) Kurumda, İş Sağlığı ve Güvenliği hizmetleri ile ilgili mevzuat ve uygulamaları takip etmek, işlerin uygulama birliği içerisinde yerine getirilmesi için rehberlik ve koordinasyonu sağlamak.
+ğ) Eğitim hizmetleri ile ilgili Başkanlıkla koordineli olarak, teknik ve sanat sınıfı personele, teknik tanıtım, makine kullanımı, onarımı, bakımı, yeni teknoloji ve uygulamalara adaptasyonları ve bilgi-beceri düzeylerinin yükseltilmesi için kurum içinde veya dışında eğitimleri planlamak, eğitimlerin yapılması için gerekli iş ve işlemleri yapmak. Eğitimle ilgili gerekli kitap, katalog, bülten ve benzeri dokümanları hazırlamak/hazırlatmak.
+h) Merkez ve taşra teşkilatlarının ihtiyacı olan panel, pikap, servis araçları ve benzeri hizmet alımı ile edinilmesi işleri için; tip teknik şartnameler hazırlamak, yıllık taşıt tavan sayılarının belirlenmesi, ihalelerin takip edilmesi, gerekli izinlerin alınması gibi mevzuatın gerektirdiği iş ve işlemleri yapmak.
+ı) Genel Müdürlük merkezde, ihtiyaç duyulan binek, servis araçları ve benzeri hizmet alımı ile temin etmek, resmi/kiralık servis ve taşıt havuzunu işletmek, planlı toplantı ve organizasyonlar için araç temin etmek.
+i) Atölye Müdürlüğü ve İkmal Müdürlüğü çalışmalarını sevk ve koordine etmek.
