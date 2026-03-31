@@ -1,0 +1,29 @@
+{
+  "number": "month-03-15",
+  "year": 2026,
+  "month": 3,
+  "title": "Mart 2026 Meclis Toplantı Kararları 25 belge: 09.03.2026 — Karar 30",
+  "decision_date": null,
+  "index_date": "2026-03-31",
+  "date_precision": "month",
+  "period": "Mart 2026",
+  "source": "https://surmene.bel.tr/belediye-meclis-kararlari",
+  "official_page": "https://surmene.bel.tr/belediye-meclis-kararlari",
+  "official_document": "https://surmene.bel.tr/assets/uploads/2026/03/09.03.2026-3-30.pdf",
+  "source_sha256": "ecd30043b969188f80eeb8d4725770989de8780a40df82ddbb11b210111e6ba2",
+  "issuer": "Sürmene Belediye Meclisi",
+  "history_type": "metadata",
+  "text_status": "metadata-only: listing fields as published; the decisions are in the linked official document(s) or page, not transcribed",
+  "in_force": "2026-03-31",
+  "in_force_basis": "The official listing gives only the month of this official file (Mart 2026); date set to the last day of that month (turkey-law date convention for month-only sources); exact adoption dates are in the linked official document; legal commencement not asserted",
+  "missing": [
+    "decision numbers, dates and subjects",
+    "complete official decision text",
+    "official annexes"
+  ],
+  "law_text_complete": false,
+  "privacy_withheld": false,
+  "section": "Mart 2026 Meclis Toplantı Kararları 25 belge",
+  "listing_label": "09.03.2026 — Karar 30",
+  "record_scope": "one council decision document (listed without number/date)"
+}
