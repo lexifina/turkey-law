@@ -1,0 +1,24 @@
+{
+  "number": "75",
+  "number_as_published": "2026/02/75",
+  "year": 2026,
+  "title": "T.C. Çivril İlçe Kaymakamlığının 05.02.2026 tarihli ve 9662 sayılı yazısında belirtilen Çivril - İmrallı hattında ticari yolcu taşımacılığı faaliyeti yürüten yetki belgeli bir aracın bulunmaması nedeniyle, minibüslerin İmrallı Mahallesine giriş yapması talebi.",
+  "decision_date": "2026-03-31",
+  "source": "https://adres.denizli.bel.tr/ukome/DBBWEBSITE_UkomeKararlari.ashx?tarih=03.2026",
+  "official_document": null,
+  "source_sha256": "d845f8b367f7937fc0e7d9fb5b45b593e82f15a809bde927d5cea59269ae2f64",
+  "issuer": "Denizli Büyükşehir Belediyesi UKOME",
+  "history_type": "metadata",
+  "text_status": "metadata-only: listing fields as published; the listing links no decision document",
+  "in_force": "2026-03-31",
+  "in_force_basis": "Decision date as printed in the official council listing: 31.03.2026; adoption date of the council decision; legal commencement not asserted",
+  "missing": [
+    "complete official decision text",
+    "official annexes"
+  ],
+  "law_text_complete": false,
+  "privacy_withheld": false,
+  "official_page": "https://www.denizli.bel.tr/hizli-erisim/ukome-kararlari",
+  "meeting": "02",
+  "listed_subjects": 1
+}
