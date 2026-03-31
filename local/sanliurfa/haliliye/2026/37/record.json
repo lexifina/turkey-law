@@ -1,0 +1,29 @@
+{
+  "number": "37",
+  "number_as_published": "2026/37",
+  "year": 2026,
+  "month": 3,
+  "title": "council decision",
+  "decision_date": null,
+  "index_date": "2026-03-31",
+  "date_precision": "month",
+  "period": "Mart 2026",
+  "source": "https://www.haliliye.bel.tr/icerik/7773/39/mart-2026",
+  "official_page": "https://www.haliliye.bel.tr/icerik/7773/39/mart-2026",
+  "official_document": null,
+  "source_sha256": "8f0d4e45338d84af23b81f73caa0afe680793cdb1034f923da5bd5570dfbcb94",
+  "issuer": "Haliliye Belediye Meclisi",
+  "history_type": "metadata",
+  "text_status": "metadata-only: summary appears to concern individual persons; official page only",
+  "in_force": "2026-03-31",
+  "in_force_basis": "The official listing gives only the month of this decision (Mart 2026); date set to the last day of that month (turkey-law date convention for month-only sources); exact adoption dates are in the linked official document; legal commencement not asserted",
+  "missing": [
+    "exact decision date",
+    "complete official decision text",
+    "official annexes"
+  ],
+  "law_text_complete": false,
+  "privacy_withheld": true,
+  "listing_item": "MART 2026",
+  "record_scope": "one council decision summary (Karar Özeti) as published"
+}
