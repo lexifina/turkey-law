@@ -1,0 +1,24 @@
+{
+  "number": "meeting-04-01",
+  "number_as_published": "meeting-04-01",
+  "year": 2026,
+  "title": "01.04.2026 Tarihli 26,27,28,29,30,31,32,33,34 ve 35 Sayılı Meclis Kararları",
+  "decision_date": "2026-04-01",
+  "source": "https://araban.bel.tr/karar/01-04-2026-tarihli-26-27-28-29-30-31-32-33-34-ve-35-sayili-meclis-kararlari.html",
+  "official_document": "https://araban.bel.tr/uploads/files/2026%20Y%C4%B1l%C4%B1%20Nisan%20Ay%C4%B1%20Meclis%20Kararlar%C4%B1.pdf",
+  "source_sha256": "8555dc32087ca3e8e9e0348f4eae1ca2b1cdeb1fe957fc27bbc305a3bea2be0b",
+  "issuer": "Araban Belediye Meclisi",
+  "history_type": "metadata",
+  "text_status": "metadata-only: listing fields as published; complete decision text is in the linked official document, not transcribed",
+  "in_force": "2026-04-01",
+  "in_force_basis": "Decision date as printed in the official council listing: 01.04.2026; adoption date of the council decision; legal commencement not asserted",
+  "missing": [
+    "complete official decision text",
+    "official annexes"
+  ],
+  "law_text_complete": false,
+  "privacy_withheld": false,
+  "listing_label": "01.04.2026 Tarihli 26,27,28,29,30,31,32,33,34 ve 35 Sayılı Meclis Kararları",
+  "record_scope": "one official file of council decisions (meeting)",
+  "official_page": "https://araban.bel.tr/karar/01-04-2026-tarihli-26-27-28-29-30-31-32-33-34-ve-35-sayili-meclis-kararlari.html"
+}
