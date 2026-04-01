@@ -1,0 +1,3 @@
+Atama kriterleri ve liste
+MADDE 9- (1) Bu Yönetmelik kapsamında yapılacak sıralı eksper atamaları, eksper hakkında yapılacak performans değerlendirmesi ile İcra Komitesi ve TSB görüşü alınarak Kurumca belirlenecek coğrafi sınıflandırma, branş, alt uzmanlık, iş dağılımı gibi objektif kriterler dikkate alınarak yapılır.
+(2) İcra Komitesi tarafından, sigorta eksperleri arasından Kanunun 3 üncü maddesinin ikinci fıkrasının (a) bendinin (4) numaralı alt bendinde belirtilen suçlar yönünden şüpheli veya sanık olanlar hariç tutularak atama kriterleri çerçevesinde talebe istinaden liste oluşturulur ve Merkeze bildirilir. Listeye ilişkin usul ve esaslar Kurumca belirlenir.

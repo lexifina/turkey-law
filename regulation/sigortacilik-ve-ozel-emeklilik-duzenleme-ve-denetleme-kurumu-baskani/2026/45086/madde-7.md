@@ -1,0 +1,2 @@
+Motorlu araç sigortaları dışındaki sigortalarda atama
+MADDE 7- (1) Sigorta şirketi, ilgili dosya için eksper atanıp atanmayacağına ilişkin bilgiyi 4 üncü maddenin ikinci fıkrasında belirtilen süre içerisinde Merkeze iletir ve varsa eksper atama bilgisini hasar dosyasında gönderir. Söz konusu sigortalara ilişkin sıralı atama da dahil olmak üzere eksper atama süreci ve kriterleri, iş kabulü, rapor şablonu gibi hususlara dair usul ve esaslar Kurumca belirlenir.

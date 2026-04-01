@@ -1,0 +1,6 @@
+Motorlu araç sigortalarında atama
+MADDE 6- (1) Trafik sigortasında eksper atanacak ise ilgili atama EKSİST üzerinden sıralı olarak yapılır.
+(2) Trafik sigortasında, ilgili dosyaya ilişkin muallak hasar tutarının veya yapılacak ilk inceleme ve hasar sürecinde sonraki incelemeler sonucunda belirlenecek toplam hasar tutarının, asgari maddi teminat tutarının 1/10’unu aşması durumunda hasar tespitinin eksper tarafından yapılması zorunludur. Bu oranı sıfıra kadar indirmeye veya iki katına kadar artırmaya Kurum yetkilidir.
+(3) Birinci ve ikinci fıkralar kapsamında atanan eksper tarafından değer kaybı tazminatı da gerçek zarar ilkesi gözetilerek ve detaylara yer verilerek aynı raporda hesaplanır.
+(4) Değer kaybına ilişkin eksper atama süreci, kriterleri ve iş kabulü gibi hususlara dair usul ve esaslar Kurumca belirlenir.
+(5) Kara araçları kasko sigortasında, ilgili dosyaya ilişkin muallak hasar tutarının veya yapılacak ilk inceleme ve hasar sürecinde sonraki incelemeler sonucunda belirlenecek tutarın, ağır hasar ve tam hasar kararını gerektirmesi halinde tespitin EKSİST üzerinden sıralı olarak atanacak eksper tarafından yapılması zorunludur. Ağır hasar ve tam hasar dışındaki eksper atama süreci ve kriterleri, iş kabulü, rapor şablonu gibi hususlara dair usul ve esaslar Kurumca belirlenir.
