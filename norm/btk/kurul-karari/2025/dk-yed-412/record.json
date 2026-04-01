@@ -1,0 +1,18 @@
+{
+  "kind": "norm",
+  "issuer": "Bilgi Teknolojileri ve İletişim Kurumu",
+  "document_type": "kurul-karari",
+  "number": "2025/DK-YED/412",
+  "source_id": "2025/DK-YED/412",
+  "date": "2025-12-23",
+  "title": "İşletmeciler veya Adına İşlem Yapanlar Tarafından Gerçekleştirilen İstenmeye Aramaların Önlenmesine Yönelik Tedbirler",
+  "source": "https://www.btk.gov.tr/s3/web-btk-site/7708c26c-5161-4919-8b3d-daa31d4ac8fb/2026/03/60694323-facd-4073-961d-be9633163f8e.pdf",
+  "source_sha256": "150c5d69a3850526ae42714358209ed25bbba798080065c9d3fe0f02617151d1",
+  "text_status": "as-enacted",
+  "text_file": "metin.md",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  }
+}
