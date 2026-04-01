@@ -1,0 +1,19 @@
+Notlar ve ders muafiyeti
+MADDE 26 – (1) Ders başarı notları, aşağıdaki tabloda gösterilen harfler ve bunlara karşılık gelen 0.00 ile 4.00 arasında verilen katsayılar ile belirlenir.
+(Değişik tablo:RG-1/3/2020-31055)
+Ders Başarı Notu A A- B+ B B- C+ C C- D+ D F NA
+Katsayı Karşılığı 4,00 3,67 3,33 3,00 2,67 2,33 2,00 1,67 1,33 1,00 0,00 0,00
+(2) Öğrenci not belgesinde aşağıdaki harfler kullanılır:
+a) (I) Eksik: Tez, proje gibi çalışmalarını zorunlu nedenlerle tamamlayamamış öğrencilere verilir. Bu durumdaki öğrencilerin başarı notları, takip eden yarıyılın/yılın ders kayıtları başlamadan önce veya final sınavlarının bitiminden itibaren en geç on beş gün içerisinde verilir. Bu şartlardan hangisi önce gelirse o uygulanır. Bu süre içerisinde not bildiriminde bulunulmamış I notları F notuna dönüşür.
+b) (S) Yeterli: Not ortalamasına katılmayan ve kredi yükü olmayan derslerden başarılı olan öğrencilere verilir.
+c) (U) Yetersiz: Not ortalamasına katılmayan ve kredi yükü olmayan derslerden başarısız olan öğrencilere verilir.
+ç) (PR) Gelişmekte: Süresi bir yarıyıldan uzun süren derslerini başarıyla sürdürmekte olan öğrencilere verilir.
+d) (EX) Muaf: Ders başarı notu, katsayı karşılığı olmayan dersler için verilen muafiyet notudur ve bu notlar ortalamaya katılmaz.
+e) (NA) Devamsız : Devam koşullarını yerine getirmeyen öğrencilere verilir. Bir dersten devamsız olan öğrenci o dersin yarıyıl/yılsonu sınavına giremez ve verilen başka sınav haklarından yararlanamaz. NA notu ortalama hesaplamalarında sıfır katsayı karşılığı ile işlem görür.
+f) (W) Dersten Çekilmiş: Çekilme işlemi yapılan derse verilen nottur, ortalamaya etkisi yoktur.
+g) (NI) Ortalamaya Katılmayan Ders İşareti: Ortalamalarına katılmamak koşuluyla öğrencinin kendi isteği ile aldığı dersler için verilir. Bu dersler, (Değişik ibare:RG-28/3/2021-31437) 18 inci maddede tanımlanan ders yükü kapsamında alınır. NI statüsünde alınan dersler tekrarlanmaz ve başka bir ders yerine sayılamaz.
+ğ) (Ek:RG-16/4/2024-32519) (T) Geçici: Pilotaj programındaki uçuş derslerinin notlandırılmasında kullanılır. İlgili dersin uçuş koşulunu henüz tamamlamayan öğrencilere verilir.
+(3) Başka bir yükseköğretim kurumundan yatay, dikey geçiş veya ÖSYM sınavı ile Üniversiteye kaydolan öğrencilerin geldikleri kurumdan aldıkları ve başarılı veya koşullu başarılı sayılan derslerden ilgili akademik birimin yönetim kurulu tarafından muafiyeti uygun bulunanların Üniversitedeki karşılıkları, öğrencilerin not belgesine harf notu olarak işlenir ve not ortalaması hesaplamasına katılır. Muafiyeti uygun bulunan tüm derslerin ağırlıklı not ortalaması 1.80/4.00’ten az olamaz. Bu derslerin transfer dersi olduğu not belgelerinde belirtilir.
+(4) Üniversite içerisindeki bir ön lisans ve lisans programından başka bir programa yatay veya dikey geçiş yaparak ya da ÖSYM sınavı sonucu ile yeniden kaydolan öğrencilerin geldikleri programdan aldıkları başarılı veya koşullu başarılı derslerden ilgili akademik birimin yönetim kurulu tarafından muafiyeti uygun bulunan derslerin notları ile birlikte yeni programına transfer edilir.
+(5) Üniversitenin programlarına ilk defa ders kaydı yaptıran öğrencilere, programlarına kayıt oldukları ilk akademik yarıyıl başında, programlarındaki dersler için ilgili akademik birimlerin Senato tarafından onaylanmış yönergelerinde belirtilen dersler için bir defaya mahsus olmak üzere muafiyet sınavları açılır. Bu öğrencilerin başarılı olduğu derslerin başarı notları ilgili yönergede belirtildiği şekilde not belgesine işlenir ve not ortalamalarına katılır. Öğrencinin muaf olduğu derslerin kredileri o dönem alabileceği kredi toplamına dahil edilmez.
+(6) Yükseköğretim kurumları arasındaki ders intibak işlemlerinde 4’lük ve 100’lük not sistemleri arasındaki dönüşüm için Yükseköğretim Kurulu (YÖK) tarafından hazırlanan dönüşüm tablosu kullanılır.

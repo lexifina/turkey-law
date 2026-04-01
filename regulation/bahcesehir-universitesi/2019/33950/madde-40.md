@@ -1,0 +1,3 @@
+Tebligat
+MADDE 40 – (1) Öğrenciye yapılacak her türlü yazılı tebligat; öğrencinin Üniversiteye ilk kayıt sırasında bildirdiği ya da daha sonra öğrenci bilgi sisteminde güncellediği posta adresine yapılmak, öğrenci adına Üniversite tarafından açılan e-posta adresine gönderilmek veya ilgili fakülte/müdürlük tarafından ilan edilmek suretiyle tamamlanmış sayılır.
+(2) Öğrenci; kullanıcı adıyla tanımlı e-posta adresini aktif durumda tutmak, sürekli e-postalarını takip etmek ve Üniversiteye kayıt sırasında bildirdiği haberleşme adresini değiştirdiği takdirde yeni haberleşme adresini 15 gün içerisinde öğrenci bilgi sistemi üzerinden güncellemekle yükümlüdür.

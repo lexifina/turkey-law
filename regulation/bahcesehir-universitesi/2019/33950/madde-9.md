@@ -1,0 +1,5 @@
+İlk kayıt işlemleri
+MADDE 9 – (1) Üniversiteye kesin kayıt hakkı kazananların ilk kayıt işlemleri uygun görülen usullerle, Rektörlükçe ilan edilen tarihlerde ve istenilen belgelerle yapılır. Öğrenci adayından kayıt sırasında, kayıt için istenilen belgelerin aslı veya Üniversite tarafından onaylı bir örneği alınır.
+(2) Belgelerinde eksiklik ya da tahrifat olanlar Üniversiteye kayıt yaptıramazlar. Yanlış beyan ve sahte belge ile kayıt yaptırmış olanların durumu ortaya çıktığında kayıtları ve bu kayıt nedeniyle kazanmış oldukları tüm hakları iptal edilir ve haklarında yasal işlem başlatılır.
+(3) Kayıt için zamanında başvurmayan ve gerekli belgeleri sağlamayan öğrenciler kayıt haklarını kaybederler. Ancak, mazeretleri sebebiyle süresi içerisinde kayıt yaptıramayanların mazeretlerinin kabulüne ve kayıtlarının yapılıp yapılamayacağına Rektörlük tarafından karar verilir.
+(4) Kayıt tarihinden sonra YÖK tarafından kendisine kayıt hakkı verilenlerin kayıtları, yukarıdaki fıkralarda açıklanan koşullarda yapılır.

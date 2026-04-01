@@ -1,0 +1,2 @@
+Çift anadal ve yan dal programları
+MADDE 35 – (1) Bir ön lisans/lisans programında başarılı olan öğrencilere aynı düzeydeki ikinci bir programda devam hakkı verilebilir. Bir öğrencinin kayıtlı olduğu anadal programı dışında devam etme hakkı verilen ikinci bir programa, çift anadal veya yandal programı denir. Çift anadal ve yandal programlarına ait uygulama esasları ilgili yönetmelikler ve Senato tarafından belirlenir.
