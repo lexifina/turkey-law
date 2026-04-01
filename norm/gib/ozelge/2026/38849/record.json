@@ -1,0 +1,22 @@
+{
+  "kind": "norm",
+  "issuer": "Gelir İdaresi Başkanlığı",
+  "document_type": "ozelge",
+  "number": "E-40247694-130-15524",
+  "source_id": 38849,
+  "date": "2026-04-01",
+  "title": "Sağlık Meslek Hizmet Birimi Ruhsat Belgesine istinaden fizyoterapist unvanı ile ifa edilen hizmetlerde uygulanması gereken KDV oranı",
+  "source": "https://gib.gov.tr/mevzuat/kanun/436/ozelge/38849",
+  "related_law": "3065 sayılı KATMA DEĞER VERGİSİ KANUNU",
+  "source_api": "https://gib.gov.tr/api/gibportal/mevzuat/ozelge/list",
+  "source_listing": "evidence/list/2026-11-16/ozelge-p009.json",
+  "source_listing_sha256": "9cb52b4963a9a177a23948f6e28c12936c2f43c88a0b410872bb81c01983667c",
+  "source_sha256": "f2dec312d5beea3f836f53f12cfddd5b42abedf6961c09e4b1ec0df2314c1f9d",
+  "text_status": "as-enacted",
+  "text_file": "metin.md",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  }
+}
