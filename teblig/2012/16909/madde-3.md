@@ -1,0 +1,5 @@
+MADDE 3 – (1) İşyeri tehlike sınıfına yapılan itirazlar Çalışma ve Sosyal Güvenlik Bakanlığınca değerlendirilir. Değerlendirme, Bakanlık tescil kayıtları üzerinden ve işyerinin tesciline esas alınan asıl iş dikkate alınarak sonuçlandırılır.
+(2) Gerekli görülmedikçe işyerlerinde yapılan asıl işe ilişkin inceleme yapılmaz.
+(3) Bakanlıkça yapılan denetim ve incelemelerde işyerinde yapılan asıl işin tescil kayıtlarından farklı olması halinde, denetim ve incelemeye ilişkin kayıtlar dikkate alınarak işyeri tehlike sınıfı yeniden belirlenebilir.
+(4) Alınan karar işyerine tebliğ edilir. Kararın işyerinin tehlike sınıfı değişikliğine neden olması halinde tehlike sınıfının gerektirdiği iş ve işlemleri, işverenler 90 gün içinde yerine getirmek ve İş Sağlığı ve Güvenliği Genel Müdürlüğüne bildirmek zorundadır.
+(5) İşyeri Tehlike Sınıfları Listesindeki faaliyet kodunun tehlike sınıfına ait itirazlardan, İş Sağlığı ve Güvenliği Genel Müdürlüğü tarafından oluşturulacak Komisyonda alınacak karar sonucunda, itiraza ilişkin faaliyet kodunun tehlike sınıfının değişmesi halinde bu Tebliğde gerekli değişiklik yapılır.

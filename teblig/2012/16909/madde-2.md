@@ -1,0 +1,3 @@
+MADDE 2 – (1) Tehlike sınıfının tespitinde bir işyerinde yürütülen asıl işin tehlike sınıfı dikkate alınır.
+(2) İşveren asıl iş faaliyet değişikliğini en geç bir ay içerisinde Çalışma ve Sosyal Güvenlik Bakanlığına bildirir.
+(3) Asıl işin tayininde tereddüde düşülmesi halinde işyerinin kuruluş amacına bakılır. İşyerinde birden fazla asıl iş tanımına uygun faaliyetin yürütülmesi halinde, bu işlerden tehlike sınıfı yüksek olan iş esas alınır. 6331 sayılı Kanunun işyeri tanımına giren işyerlerinde yapılan asıl işin yanında veya devamı niteliğinde faaliyet alanının genişletilmesi halinde o işyerinde bu fıkrada esas alınan kurala göre belirlenir.

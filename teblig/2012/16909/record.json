@@ -1,0 +1,95 @@
+{
+  "source_id": "9.5.16909",
+  "kind": "communique",
+  "register_kind": "Tebliğler",
+  "title": "İŞ SAĞLIĞI VE GÜVENLİĞİNE İLİŞKİN İŞYERİ TEHLİKE SINIFLARI TEBLİĞİ",
+  "number": "16909",
+  "issuer": "Çalışma ve Sosyal Güvenlik Bakanı",
+  "path": "teblig/2012/16909",
+  "source": "https://www.mevzuat.gov.tr/anasayfa/MevzuatFihristDetayIframe?MevzuatTur=9&MevzuatNo=16909&MevzuatTertip=5",
+  "source_sha256": "729db1789897ce41c45f301708c94cf25a8cf88647d2965c3967481fe415eafb",
+  "source_bytes": 31098,
+  "published": "2012-12-26",
+  "gazette": "28509",
+  "in_force": "2026-04-01",
+  "in_force_basis": "latest Resmî Gazete date printed in the source amendment notes/table (\"1/4/2026\") for the current consolidated text",
+  "date_evidence": [
+    [
+      "2026-04-01",
+      "1/4/2026",
+      "Resmî Gazete date in the source amendment table"
+    ],
+    [
+      "2025-05-21",
+      "21/5/2025",
+      "Resmî Gazete date in the source amendment table"
+    ],
+    [
+      "2025-03-13",
+      "13/3/2025",
+      "Resmî Gazete date in the source amendment table"
+    ],
+    [
+      "2024-03-05",
+      "5/3/2024",
+      "Resmî Gazete date in the source amendment table"
+    ],
+    [
+      "2023-08-11",
+      "11/8/2023",
+      "Resmî Gazete date in the source amendment table"
+    ],
+    [
+      "2022-03-18",
+      "18/3/2022",
+      "Resmî Gazete date in the source amendment table"
+    ],
+    [
+      "2021-02-24",
+      "24/2/2021",
+      "Resmî Gazete date in the source amendment table"
+    ],
+    [
+      "2020-03-08",
+      "8/3/2020",
+      "Resmî Gazete date in the source amendment table"
+    ],
+    [
+      "2019-03-12",
+      "12/3/2019",
+      "Resmî Gazete date in the source amendment table"
+    ],
+    [
+      "2018-01-31",
+      "31/1/2018",
+      "Resmî Gazete date in the source amendment table"
+    ],
+    [
+      "2017-02-27",
+      "27/2/2017",
+      "Resmî Gazete date in the source amendment table"
+    ],
+    [
+      "2016-02-20",
+      "20/2/2016",
+      "Resmî Gazete date in the source amendment table"
+    ]
+  ],
+  "commencement_clauses": [
+    "Bu Tebliğ yayımı tarihinde yürürlüğe girer"
+  ],
+  "history": "current-text",
+  "label": "oldest version available",
+  "checked_on": "2026-11-15",
+  "word_count": 459,
+  "text_status": "current-consolidated",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  },
+  "source_links": [
+    "9.5.16909-Ek.xlsx"
+  ],
+  "completeness": "html-text-complete; linked annexes not fetched"
+}
