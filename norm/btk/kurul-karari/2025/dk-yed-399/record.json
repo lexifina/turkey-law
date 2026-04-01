@@ -1,0 +1,18 @@
+{
+  "kind": "norm",
+  "issuer": "Bilgi Teknolojileri ve İletişim Kurumu",
+  "document_type": "kurul-karari",
+  "number": "2025/DK-YED/399",
+  "source_id": "2025/DK-YED/399",
+  "date": "2025-12-16",
+  "title": "SMS Hizmeti Sunumu ile ilgili Düzenlemeler",
+  "source": "https://www.btk.gov.tr/s3/web-btk-site/7708c26c-5161-4919-8b3d-daa31d4ac8fb/2026/03/dd7bd5f7-d3ee-468d-8547-54de44e57ef0.pdf",
+  "source_sha256": "dfbf855cfd4ad4665e9a4bcbb7de847cd66b1af2e140f91a51559867f92c7380",
+  "text_status": "as-enacted",
+  "text_file": "metin.md",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  }
+}
