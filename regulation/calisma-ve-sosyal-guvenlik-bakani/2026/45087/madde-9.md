@@ -1,0 +1,7 @@
+Temel eğitimin konuları
+MADDE 9- (1) Temel eğitim, Ek-1’de yer alan konuları asgari olarak içerir.
+(2) Eğitim konularının içeriği; katılımcıların eğitim seviyelerine uygun, çalışanların görev yaptıkları alandaki iş ve çalışma ortamı ögeleri kullanılarak hazırlanır.
+(3) Ek-1’deki konuların anlatımında eğitime katılacakların ihtiyacı olan, işyerinin faaliyet alanında yer alan ve sektöre özgü hususlar göz önünde bulundurulur.
+(4) Ek-1’de yer alan dördüncü konu başlığının içeriği tehlikeli ve çok tehlikeli sınıfta yer alan işyerleri için; işyerinin risk değerlendirmesi dokümanı, acil durum planı, bulunması hâlinde patlamadan korunma dokümanı ve iş sağlığı ve güvenliği mevzuatı kapsamında hazırlanan diğer dokümanlar dikkate alınarak işe ve işyerine özgü hazırlanır.
+(5) Az tehlikeli sınıftaki işyerleri için Ek-1’de yer alan dördüncü konu başlığının içeriği faaliyetin genel tehlike ve risklerini (yüksekte çalışma, yüksekten düşme, kapalı ortamda çalışma, yangın, özel risk taşıyan ekipmanla çalışma gibi) içerecek şekilde hazırlanır. Bu durumda işverenin işyerinde karşılaşılabilecek sağlık ve güvenlik riskleri, koruyucu ve önleyici tedbirlere ilişkin bilgilendirme yapma yükümlülüğü saklıdır.
+(6) Ek-1’de yer alan konu başlıkları ve içeriklere ilave olması hâlinde 13 üncü maddenin birinci fıkrasında belirtilen eğitim süresi, ilave edilen konuların kapsamı ve niteliği doğrultusunda işveren tarafından makul ölçüde artırılır.
