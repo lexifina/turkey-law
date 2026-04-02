@@ -1,0 +1,46 @@
+{
+  "source_id": "7.5.32693",
+  "kind": "regulation",
+  "register_kind": "Kurum ve Kuruluş Yönetmelikleri",
+  "title": "TERAPÖTİK AFEREZ MERKEZLERİ VE ÜNİTELERİ HAKKINDA YÖNETMELİK",
+  "number": "32693",
+  "issuer": "Sağlık Bakanı",
+  "issuer_slug": "saglik-bakani",
+  "path": "regulation/saglik-bakani/2019/32693",
+  "source": "https://www.mevzuat.gov.tr/anasayfa/MevzuatFihristDetayIframe?MevzuatTur=7&MevzuatNo=32693&MevzuatTertip=5",
+  "source_sha256": "7eef811f92c8dd97fd3e4e020621bb97df9dd1dd3483d988d4dceb4e86e65ad2",
+  "source_bytes": 67112,
+  "published": "2019-07-31",
+  "gazette": "30848",
+  "in_force": "2026-04-02",
+  "in_force_basis": "latest Resmî Gazete date printed in the source amendment notes/table (\"RG-2/4/2026\") for the current consolidated text",
+  "date_evidence": [
+    [
+      "2026-04-02",
+      "RG-2/4/2026",
+      "Resmî Gazete date printed in the source amendment note"
+    ],
+    [
+      "2026-04-02",
+      "2/4/2026",
+      "Resmî Gazete date in the source amendment table"
+    ]
+  ],
+  "commencement_clauses": [
+    "Bu Yönetmelik yayımı tarihinde yürürlüğe girer"
+  ],
+  "history": "current-text",
+  "label": "oldest version available",
+  "checked_on": "2026-11-15",
+  "word_count": 3140,
+  "text_status": "current-consolidated",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  },
+  "source_links": [
+    "7.5.32693-EK.docx"
+  ],
+  "completeness": "html-text-complete; linked annexes not fetched"
+}
