@@ -1,0 +1,21 @@
+{
+  "record_type": "parliament-written-question",
+  "term": 28,
+  "legislative_year": 4,
+  "esas_no": "7/42831",
+  "submitted": "2026-04-02",
+  "submitted_as": "Başkanlığa geliş tarihi",
+  "mp": "Ömer Fethi GÜRER",
+  "province": "Niğde",
+  "summary": "ABD ve İsrail'in İran'a yönelik saldırıları karşısında tarımsal üretimin desteklenmesi için yapılan çalışmalara ilişkin",
+  "status": "Süresi Geçtikten Sonra Cevaplandı",
+  "status_as_of": "2026-11-16",
+  "official_record": "https://www.tbmm.gov.tr/Denetim/Yazili-Soru-Onergesi-Detay/f652bd4b-fd1f-467b-ac15-019d53bc5c30",
+  "source": "https://tbmm.gov.tr/Denetim/YaziliSoruOnergesiTable",
+  "source_form": "https://tbmm.gov.tr/Denetim/Yazili-Soru-Onergeleri",
+  "source_sha256": "8d80f4ffdd7436c70a67e87c2db4cabb9f78b45c38401d69c219f833eafa115c",
+  "in_force": "2026-04-02",
+  "in_force_basis": "Date the question reached the Speaker (Başkanlığa geliş tarihi) in the official TBMM written-question record; parliamentary oversight record, not law",
+  "history_type": "metadata",
+  "text_status": "metadata-only: question text, addressee and answers are in the linked official record (PDFs on cdn.tbmm.gov.tr); not transcribed here"
+}
