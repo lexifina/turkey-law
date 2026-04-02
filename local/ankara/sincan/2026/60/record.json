@@ -1,0 +1,22 @@
+{
+  "number": "60",
+  "number_as_published": "60",
+  "year": 2026,
+  "title": "ALAGÖZ MAH. 613 ADA 1 PARSEL U.İ.P.D.",
+  "decision_date": "2026-04-02",
+  "source": "https://www.sincan.bel.tr/mecliskararlari",
+  "official_document": "https://www.sincan.bel.tr/upload/mecliskararlari/PXI8px17EwWFAtX.docx",
+  "source_sha256": "b415f62ea17c4060f9082a51ec5aa38666e4afb816b854305461d3b951680349",
+  "issuer": "Sincan Belediye Meclisi",
+  "history_type": "metadata",
+  "text_status": "metadata-only: listing fields as published; complete decision text is in the linked official document, not transcribed",
+  "in_force": "2026-04-02",
+  "in_force_basis": "Decision date as printed in the official council listing: TARİH:2026-04-02; adoption date of the council decision; legal commencement not asserted",
+  "missing": [
+    "complete official decision text",
+    "official annexes"
+  ],
+  "law_text_complete": false,
+  "privacy_withheld": false,
+  "official_page": "https://www.sincan.bel.tr/mecliskararlari"
+}
