@@ -1,0 +1,22 @@
+{
+  "kind": "norm",
+  "issuer": "Gelir İdaresi Başkanlığı",
+  "document_type": "ozelge",
+  "number": "E-71877763-125[2025/Yeni ]-",
+  "source_id": 38877,
+  "date": "2026-04-02",
+  "title": "Asgari Kurumlar Vergisi Uygulamaları Hk",
+  "source": "https://gib.gov.tr/mevzuat/kanun/433/ozelge/38877",
+  "related_law": "193 sayılı GELİR VERGİSİ KANUNU",
+  "source_api": "https://gib.gov.tr/api/gibportal/mevzuat/ozelge/list",
+  "source_listing": "evidence/list/2026-11-16/ozelge-p009.json",
+  "source_listing_sha256": "9cb52b4963a9a177a23948f6e28c12936c2f43c88a0b410872bb81c01983667c",
+  "source_sha256": "71c31a947b1aacd653befd38d872a7b4cf40ea3eb11429559e2e975e7fe387db",
+  "text_status": "as-enacted",
+  "text_file": "metin.md",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  }
+}
