@@ -1,0 +1,26 @@
+{
+  "kind": "norm",
+  "issuer": "Enerji Piyasası Düzenleme Kurumu",
+  "market": "electricity",
+  "document_type": "board-decision",
+  "number": "14461",
+  "decision_date": "2026-04-02",
+  "title": "4/4/2026' dan itibaren geçerli olacak elektrik tarifeleri tabloları hakkında",
+  "resmi_gazete_date": "2026-04-04",
+  "resmi_gazete_number": "33214",
+  "categories": [
+    "Elektrik Faturalarına Esas Tarife Tabloları"
+  ],
+  "source": "https://www.epdk.gov.tr/Detay/DownloadDocument?id=hDZgaY7BFKo=",
+  "documents": [
+    "https://www.epdk.gov.tr/Detay/DownloadDocument?id=hDZgaY7BFKo=",
+    "https://www.epdk.gov.tr/Detay/DownloadDocument?id=pI+XZjfJIU0="
+  ],
+  "source_sha256": "a746b8e814d0ab7299bfc7958cb4289e0848885009fe2a770352c9c407c72804",
+  "official_list": "https://www.epdk.gov.tr/Detay/Icerik/3-0-39/kurul-kararlari-",
+  "official_list_leaf": 1327,
+  "text_status": "as-enacted",
+  "text_file": "metin.md",
+  "in_force": "2026-04-02",
+  "law_text_complete": true
+}
