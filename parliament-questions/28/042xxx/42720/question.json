@@ -1,0 +1,21 @@
+{
+  "record_type": "parliament-written-question",
+  "term": 28,
+  "legislative_year": 4,
+  "esas_no": "7/42720",
+  "submitted": "2026-04-02",
+  "submitted_as": "Başkanlığa geliş tarihi",
+  "mp": "Aliye COŞAR",
+  "province": "Antalya",
+  "summary": "Antalya'nın Kaş ilçesinde yapılması planlanan bir mermer ocağı projesinin çevresel etkilerine ilişkin",
+  "status": "Süresi Geçtikten Sonra Cevaplandı",
+  "status_as_of": "2026-11-16",
+  "official_record": "https://www.tbmm.gov.tr/Denetim/Yazili-Soru-Onergesi-Detay/aa6f915e-3cd3-413d-96c2-019d52ae0deb",
+  "source": "https://tbmm.gov.tr/Denetim/YaziliSoruOnergesiTable",
+  "source_form": "https://tbmm.gov.tr/Denetim/Yazili-Soru-Onergeleri",
+  "source_sha256": "af3f287eca11d80f26d35becccdaecdcf05a8b6c11c4ae96be190ed666f3ba81",
+  "in_force": "2026-04-02",
+  "in_force_basis": "Date the question reached the Speaker (Başkanlığa geliş tarihi) in the official TBMM written-question record; parliamentary oversight record, not law",
+  "history_type": "metadata",
+  "text_status": "metadata-only: question text, addressee and answers are in the linked official record (PDFs on cdn.tbmm.gov.tr); not transcribed here"
+}
