@@ -1,0 +1,26 @@
+{
+  "kind": "norm",
+  "issuer": "Enerji Piyasası Düzenleme Kurumu",
+  "market": "natural-gas",
+  "document_type": "board-decision",
+  "number": "14450",
+  "decision_date": "2026-04-02",
+  "title": "Boru Hatları ile Petrol Taşıma Anonim Şirketi’ne ait Tuz Gölü Doğal Gaz Yer Altı Depolama Tesisi’nin (BOTAŞ Tuz Gölü Depolama Tesisi) 2026-2027 tarife uygulama dönemine ilişkin",
+  "resmi_gazete_date": "2026-04-04",
+  "resmi_gazete_number": "33214",
+  "categories": [
+    "Depolama"
+  ],
+  "source": "https://www.epdk.gov.tr/Detay/DownloadDocument?id=pYxI18vvIWc=",
+  "documents": [
+    "https://www.epdk.gov.tr/Detay/DownloadDocument?id=pYxI18vvIWc=",
+    "https://www.epdk.gov.tr/Detay/DownloadDocument?id=bD01MtK9uyQ="
+  ],
+  "source_sha256": "d4408e74fe2b1955dba9d433b94350821a20231964408206c23973bb591643b5",
+  "official_list": "https://www.epdk.gov.tr/Detay/Icerik/3-0-19/kurul-kararlari",
+  "official_list_leaf": 7229,
+  "text_status": "as-enacted",
+  "text_file": "metin.md",
+  "in_force": "2026-04-02",
+  "law_text_complete": true
+}
