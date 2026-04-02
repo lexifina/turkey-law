@@ -1,0 +1,25 @@
+{
+  "kind": "norm",
+  "issuer": "Enerji Piyasası Düzenleme Kurumu",
+  "market": "natural-gas",
+  "document_type": "board-decision",
+  "number": "14451",
+  "decision_date": "2026-04-02",
+  "title": "Boru Hatları ile Petrol Taşıma Anonim Şirketi’ne ait yer altı depolama lisanslı Tuz Gölü Doğal Gaz Yer Altı Depolama Tesisi’nin ve yer altı depolama lisanslı Silivri Yer Altı Doğal Gaz Depolama Tesisi’nin 2026-2027 tarife uygulama dönemine ilişkin",
+  "resmi_gazete_date": "2026-04-04",
+  "resmi_gazete_number": "33214",
+  "categories": [
+    "Depolama"
+  ],
+  "source": "https://www.epdk.gov.tr/Detay/DownloadDocument?id=mC/+lcaYoMQ=",
+  "documents": [
+    "https://www.epdk.gov.tr/Detay/DownloadDocument?id=mC/+lcaYoMQ="
+  ],
+  "source_sha256": "a36ae16e5ff5bd40e11068d2c14c85108f5c41de9d993ff58cb504bffcd639e3",
+  "official_list": "https://www.epdk.gov.tr/Detay/Icerik/3-0-19/kurul-kararlari",
+  "official_list_leaf": 7229,
+  "text_status": "as-enacted",
+  "text_file": "metin.md",
+  "in_force": "2026-04-02",
+  "law_text_complete": true
+}
