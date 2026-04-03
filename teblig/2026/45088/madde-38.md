@@ -1,0 +1,18 @@
+Hibe sözleşmesinin feshedilme nedenleri
+MADDE 38- (1) Faydalanıcıların bu Tebliğ, uygulama rehberi ve hibe sözleşmesi hükümlerine aykırı hareket ettiklerinin ve kendilerine yapılan ihtar ile verilecek süre sonunda da proje uygulamalarının uygun yürütülmediğinin tespiti durumunda hibe sözleşmesi feshedilerek teminat Hazineye irat kaydedilir ve yapılan hibe ödemeleri, ödeme tarihinden itibaren 6183 sayılı Kanunun 51 inci maddesinde belirtilen gecikme zammı oranları dikkate alınarak hesaplanan faizi ile birlikte anılan Kanun hükümlerine göre geri alınır.
+(2) Ayrıca faydalanıcının aşağıda belirtilen fiil veya durumlarla karşı karşıya olması halinde Bakanlık önceden tebliğ etmeksizin hibe sözleşmesini feshedebilir:
+a) Projenin, bu Tebliğde belirtilen proje tamamlanma süresi içerisinde tamamlanmaması.
+b) Hibe başvurusunun reddedilme nedenlerinden herhangi birinin hibe sözleşmesi sonrası tespit edilmesi.
+c) Projenin son tamamlanma tarihi itibarıyla nihai rapor ve eklerinin tam ve uygun olarak teslim edilmemesi.
+ç) Satın almalarla ilgili fatura ve ödeme dekontu tarihinin, hibe sözleşmesi imza tarihinden önceki bir tarih olması ve/veya verilecek ek süreler hariç bu Tebliğde belirtilen proje tamamlanma süresini aşması ve/veya ödeme talebinin süresi içinde yapılmaması.
+d) Ayni katkının son ödeme talebinden önce gerçekleştirilmemiş olması.
+e) Faydalanıcılar arasında ortak ekonomik ilişki/çıkar çatışması olduğunun tespit edilmesi.
+f) Faydalanıcının; iflas etmesi veya tasfiye halinde olması, işlerinin mahkemelerce idare ediliyor olması, alacaklılarla herhangi bir düzenlemeye girmiş olması, haciz veya icra işlemlerine tabi tutulması, iş veya faaliyetlerini askıya almış olması, bu meselelerle ilgili bir dava veya takip konusu olması veya ulusal mevzuat ve düzenlemelerde yeri olan bir prosedür dolayısı ile bunlara benzer bir durumda olması.
+g) Faydalanıcının; kamu haklarından mahrum olması veya hırsızlık, dolandırıcılık, güveni kötüye kullanma, görevi kötüye kullanma, rüşvet, irtikap, nitelikli zimmet, sahtecilik, ihaleye fesat karıştırma, hileli iflas suçlarının birinden veya 3713 sayılı Kanun kapsamına giren suçlardan ve organize veya örgütlü suçlardan dolayı hüküm giymiş bulunması, millî güvenliğe tehdit oluşturduğu tespit edilen terör örgütlerine aidiyeti, iltisakı veya irtibatı olması veya tutuklu bulunması veya 5237 sayılı Kanunun 102 nci, 103 üncü ve 104 üncü maddelerinde düzenlenen suçlardan adli sicil kaydı olması veya 5237 sayılı Kanunun Millete ve Devlete Karşı Suçlar ve Son Hükümler başlıklı Dördüncü Kısmının üçüncü, dördüncü, beşinci, altıncı ve yedinci bölümlerinde yer alan suçların birinden veya ülkenin mali çıkarlarına zarar verici herhangi bir suçtan dolayı hakkında kesinleşmiş mahkûmiyet kararı olması.
+ğ) Hibe sözleşmesi vasıtasıyla sağlanan hibeyi kullanmak için yanlış veya eksik beyanlarda bulunulması ya da gerçeği yansıtmayan raporlar sunulması.
+h) Hibe sözleşmesi ile sağlanan hibeyi kullanmak için sahte veya içeriği itibarıyla gerçek dışı belge düzenlenmesi ve kullanılması.
+ı) Bakanlıktan yazılı izin alınmadan tüzel kişilik sermaye payı oranı değişikliği yapılması ve/veya yapılan isim değişikliğinin Bakanlığa bildirilmemiş olması.
+i) İzleme süresi boyunca, hibe sözleşmesi imzalanan tüzel kişi ortaklarından en az birinin sermaye pay oranının toplamda en az %51 olmaması.
+j) Faydalanıcının hibe sözleşmesi sonrasında kendisine hibe ödemesi yapılıp yapılmadığına bakılmaksızın projeyi uygulamaktan vazgeçmesi.
+k) Faydalanıcının üçüncü taraflara Bakanlıktan alacağı ödemelere ve bu ödemelerle alımı yapılacak makine, ekipman ve inşaat işlerine karşılık temlik vermesi.
+l) Proje kapsamında alımı yapılan/yapılacak makine, ekipman ve inşaat işlerinin farklı bir projenin unsuru olarak gösterilmesi.
