@@ -8,8 +8,9 @@
   "omitted_images": 0,
   "published": "2026-04-03",
   "referenced_images": 0,
-  "source": "https://normkararlarbilgibankasi.anayasa.gov.tr/api/core/public/merge-html/d11f4308-cf03-6503-eb39-8ad30aa9eadf",
+  "source": "https://normkararlarbilgibankasi.anayasa.gov.tr/ND/2026/13",
+  "source_api": "https://normkararlarbilgibankasi.anayasa.gov.tr/api/core/public/search",
   "source_images": 0,
-  "source_sha256": "312a7b4a71323953382907df43f62a2dd4d55eab1ef8cc1ae5b0f4e86e098bf7",
+  "source_sha256": "440f56328d4c0ebcc518880e7a45549d4e001e902113e0cc6024a4bc7edc1fa1",
   "version_label": "as-enacted"
 }
