@@ -1,0 +1,2 @@
+Programdan sağlanan malların mülkiyeti
+MADDE 25- (1) Faydalanıcı, hibe sözleşmesi kapsamında sağlanmış tasarruflu tarımsal sulama sisteminin mülkiyetini, yerini ve amacını ödemenin yapıldığı tarihten itibaren beş yıl boyunca değiştiremez. Bu amaçla, il müdürlükleri yatırımları 5488 sayılı Kanun ve 5403 sayılı Kanun hükümlerine göre beş yıl boyunca yılda en az bir kere olmak üzere sulama sezonunda yerinde kontrol eder ve bu kontrolü tutanağa bağlar.

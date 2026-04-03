@@ -1,0 +1,2 @@
+Proje tamamlanma süresi
+MADDE 9- (1) Kabul edilen başvurulara ilişkin olarak başvuru sahibi ile il müdürlüğü arasında hibe sözleşmesinin imzalanmasından sonra, alımı yapılan makine, ekipman ve malzemelerin yetmiş beş gün içerisinde tarlada montajının tamamlanmış olması gerekir. Süresi içerisinde başvuru dosyasında yer alan projeye uygun olarak alımı ve tarlada montajı yapılan tasarruflu tarımsal sulama sistemlerinin yerinde tespit işlemleri yapılır ve faydalanıcının ödeme talebi tarihinden itibaren otuz gün içerisinde il proje yürütme birimince tutanağa bağlanır.
