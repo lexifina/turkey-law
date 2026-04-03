@@ -1,0 +1,26 @@
+{
+  "id": "presidency-regulation-20046801",
+  "number": "20046801",
+  "kind": "regulation",
+  "issuer": "presidency",
+  "title": "KAMU KURUM VE KURULUŞLARI PERSONEL SERVİS HİZMET YÖNETMELİĞİ",
+  "published": "2004-02-25",
+  "enacted": "2004-02-06",
+  "gazette_number": "25384",
+  "in_force": "2026-04-03",
+  "in_force_basis": "Source commencement table, \"Yürürlüğe Giriş Tarihi\": 3/4/2026; source row: 2/4/2026 | 33213 | 11 | 3/4/2026",
+  "history": "current-only",
+  "version_label": "oldest version available",
+  "first_law": null,
+  "source": "https://www.mevzuat.gov.tr/anasayfa/MevzuatFihristDetayIframe?MevzuatNo=20046801&MevzuatTur=21&MevzuatTertip=5",
+  "source_sha256": "011876c8175e7f0ba2022b2a6df4e42f44b1223e7cc20c25a1b5a23933c84060",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  },
+  "missing_components": [],
+  "text_layout": "article-files",
+  "source_links": [],
+  "completeness": "html-text-complete"
+}

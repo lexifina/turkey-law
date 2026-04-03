@@ -1,0 +1,2 @@
+Geçici Madde 2- (Ek: RG-7/5/2021-31477-C.K-3948/9 md.)
+Dünya Sağlık Örgütü tarafından pandemi ilan edilen Covid-19 salgını nedeniyle, personel servis aracı olarak kullanılacak taşıtların, 12 nci maddenin birinci fıkrasının (a) bendinde belirtilen, fabrikasından imal edildiği tarihten sonra gelen ilk takvim yılı esas alınmak kaydıyla ondokuz yaşından küçük olması zorunluluğu, bu maddeyi ihdas eden Yönetmelik değişikliğinin yürürlüğe girdiği tarihten 31/12/2024 tarihine kadar yirmibir yaşından küçük olması şeklinde uygulanır.[8]

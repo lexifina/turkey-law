@@ -1,0 +1,1 @@
+Geçici Madde 1 - Yürürlükten kaldırılan Yönetmelik hükümlerine göre; kamu kurum ve kuruluşlarınca satın alınarak devam eden veya satın alma süreci başlamış personel servis hizmet alımları, sözleşme sürelerinin bitimine kadar geçerlidir.
