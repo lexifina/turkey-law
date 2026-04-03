@@ -1,0 +1,24 @@
+{
+  "number": "44",
+  "number_as_published": "2026/44",
+  "year": 2026,
+  "title": "council decision",
+  "decision_date": "2026-04-03",
+  "source": "https://www.pamukkale.bel.tr/y-952-2026-yili-nisan-ayi-meclis-karar-ozetleri",
+  "official_document": null,
+  "source_sha256": "21108bfc6077def71c624d619dc99d150d9c9a9bbba47b1755d7093b6f1ea810",
+  "issuer": "Pamukkale Belediye Meclisi",
+  "history_type": "metadata",
+  "text_status": "metadata-only: subject appears to concern individual persons; official link only",
+  "in_force": "2026-04-03",
+  "in_force_basis": "Decision date as printed in the official council listing: 03.04.2026; adoption date of the council decision; legal commencement not asserted",
+  "missing": [
+    "complete official decision text",
+    "official annexes"
+  ],
+  "law_text_complete": false,
+  "privacy_withheld": true,
+  "official_page": "https://www.pamukkale.bel.tr/y-952-2026-yili-nisan-ayi-meclis-karar-ozetleri",
+  "listing_label": "2026 YILI NİSAN AYI MECLİS KARAR ÖZETLERİ",
+  "record_scope": "one council decision (published decision summary)"
+}
