@@ -1,0 +1,3 @@
+Hibenin nihai tutarı
+MADDE 32- (1) Hibe tutarı, hibe sözleşmesinde belirtilir ve bu tutar üst limit niteliğindedir. Hibeye esas proje tutarını oluşturan gider kalemlerinin her biri için talep edilen tutar, o kalem için belirlenen referans fiyatı geçemez. Satın almadan sonra fatura tutarının hibe sözleşmesinde belirtilen hibeye esas proje tutarının altında olması durumunda faturada belirtilen tutar için hibe sözleşmesinde belirtilen oranda hibe ödemesi yapılır. Fatura tutarının hibeye esas proje tutarının üzerinde olması durumunda ise aradaki fark faydalanıcı tarafından ayni katkı ile karşılanır. Hibenin nihai tutarı, fiili gerçekleşmeler ve tahakkuklar sonrasında ortaya çıkar.
+(2) Hibe miktarı, bu Tebliğde belirtilen tutar ve oranı kesinlikle aşamaz.

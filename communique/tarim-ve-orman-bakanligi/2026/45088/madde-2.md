@@ -1,0 +1,2 @@
+Kapsam
+MADDE 2- (1) Bu Tebliğ, Kırsal Kalkınma Yatırım Programı çerçevesinde tarımsal amaçlı örgütler, kadın ve genç girişimciler öncelikli olmak üzere gerçek ve tüzel kişilerin tarıma dayalı faaliyetlerine yönelik uygulayacakları yatırımlar ve dijitalleşme, yapay zekâ tabanlı karar destek sistemleri, sensör sistemleri, akıllı tarım teknolojileri ve tarımsal platform çözümleri gibi konularda yapılacak yatırımlar için yapılacak hibe ödemelerine ilişkin hususları kapsar.
