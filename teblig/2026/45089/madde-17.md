@@ -1,0 +1,3 @@
+Başvuruların teknik inceleme ve değerlendirilmesi
+MADDE 17- (1) İl proje yürütme birimi tarafından, başvuru ekinde yer alan ve formatı uygulama rehberinde bulunan projenin teknik açıdan incelenmesi ve değerlendirilmesinde; başvuru sahibi tarafından alımı talep edilen tasarruflu tarımsal sulama sisteminin su kaynağı, arazi koşulları ve tarımsal üretim planlanması ile üretim desenine uygunluğu ve teknik özellikleri incelenir.
+(2) Başvuru belgelerinin teknik açıdan incelenmesi ve değerlendirilmesinde uygunluk kriterlerini sağlamayan hususlar ve eksik başvurular bir tutanağa bağlanarak başvuru reddedilir.

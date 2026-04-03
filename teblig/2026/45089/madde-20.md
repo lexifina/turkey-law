@@ -1,0 +1,8 @@
+ALTINCI BÖLÜM
+Hibe Sözleşmesi, Uygulama ve Hibe Desteği Ödemesi
+Hibe sözleşmesi
+MADDE 20- (1) Başvuruları kabul edilen başvuru sahipleri, değerlendirme sonuçları il müdürlüğü internet sitesinde ve duyuru panolarında yayımlandıktan sonra, il müdürlüğü ile on gün içerisinde hibe sözleşmesi imzalamak zorundadır. Hibe sözleşmesinin imzalanacağı son günün tatil gününe denk gelmesi halinde, takip eden ilk iş günü mesai bitimine kadar hibe sözleşmesi imzalanabilir. Hibe sözleşmesi, il müdürlüğü ile başvuru sahipleri veya noterden vekâlet verdiği kişi arasında akdedilir. Hibe sözleşmesi içerik ve şekli, Genel Müdürlük tarafından bu Tebliğ çerçevesinde hazırlanan uygulama rehberinde belirtilir.
+(2) Yedek listeden belirlenen başvuru sahipleri, yedek liste değerlendirme sonuçlarının yayımlanmasından itibaren on gün içerisinde il müdürlüğü ile hibe sözleşmesi imzalamak zorundadır. Hibe sözleşmesinin imzalanacağı son günün tatil gününe denk gelmesi halinde, takip eden ilk iş günü mesai bitimine kadar hibe sözleşmesi imzalanabilir.
+(3) Hibe sözleşmesi, il müdürlüğü ile faydalanıcı arasında iki adet olarak akdedilir. Taraflarca imzalanmış hibe sözleşmesinin bir adedi il müdürlüğü, bir adedi de faydalanıcı tarafından muhafaza edilir.
+(4) Süresi içerisinde hibe sözleşmesi imzalamayan başvuru sahipleri hibe desteğinden yararlandırılmazlar.
+(5) Gerçek kişilerin başvurularında başvuru sahibinin, hibe sözleşmesini imzalamadan önce veya sözleşme imzalandıktan sonra vefat etmesi ve yasal mirasçılarının talep etmesi halinde, başvuruda aranan koşulları sağlaması şartıyla hibe başvurusu veya hibe sözleşmesi tadil edilerek uygulamalara devam edilir.
