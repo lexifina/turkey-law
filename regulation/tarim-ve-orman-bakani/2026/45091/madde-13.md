@@ -1,0 +1,5 @@
+Büyük ovalarda tarımsal arazi kullanımı ve uygulamalar
+MADDE 13- (1) Büyük ovalardaki koruma ve geliştirme amaçlı tarımsal altyapı projeleri ve tarımsal arazi kullanım planları, kurul veya kurulların görüşleri dikkate alınarak, Bakanlık veya valilikler tarafından öncelikle hazırlanır/hazırlattırılır. Bu ovalarda, ilgili bakanlıkların plan ve projeleri Bakanlığa bildirilir ve diğer ilgili projelerle bütünlüğü sağlanarak uygulanır.
+(2) Büyük ova koruma alanı ilan edilen ve ova sınırları içinde kalan parsellerin, tapu kütüğü sayfalarının beyanlar hanesine büyük ova alanına girdiğine dair şerh konulması valilikler tarafından ilgili tapu müdürlüklerinden talep edilir.
+(3) Büyük ova koruma alanında kalan yerlerde 4342 sayılı Kanun, 6831 sayılı Kanun, 3573 sayılı Kanun, 22/3/1971 tarihli ve 1380 sayılı Su Ürünleri Kanunu, 2873 sayılı Kanun ve diğer özel kanunların kapsamında olan yerler ilgili mevzuatınca değerlendirilir.
+(4) Büyük ovaların korunması, geliştirilmesi ve çiftçilerin desteklenmesi için Bakanlık gerekli tedbirleri alabilir.

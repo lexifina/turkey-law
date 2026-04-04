@@ -1,0 +1,2 @@
+Kapsam
+MADDE 2- (1) Bu Yönetmelik; toprakların ve arazi kullanımlarının bilimsel esaslara uygun olarak sınıflandırılması, toprak ve su potansiyeli ile arazi özelliklerinin belirlenmesi, arazi kullanım planlarının yapılmasına ilişkin ilke ve kuralların açıklanması, kullanılacak yetkilerin tanımlanması, arazi kullanım taleplerinin belirlenerek uygun arazi kullanım biçimlerinin saptanması ve planlama sürecine dair görev, yetki ve sorumluluklara ilişkin usul ve esasları kapsar.
