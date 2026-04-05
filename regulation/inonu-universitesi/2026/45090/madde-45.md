@@ -1,0 +1,2 @@
+Sınav sonuçlarına itiraz
+MADDE 45- (1) Derslerin sınav sonuçlarına sadece maddi hataya ilişkin itirazda bulunulabilir. İtirazlar, sınav sonuçlarının ilanından itibaren bir hafta içinde ilgili enstitü müdürlüğüne yazılı olarak yapılır. Enstitü müdürü, sınav sonucu ile ilgili maddi hatanın bulunup bulunmadığını değerlendirmek üzere itirazı dersin öğretim üyesine bildirir. İlgili öğretim üyesi değerlendirme sonucunu enstitü yönetim kuruluna on beş gün içerisinde sunar. Değişikliği enstitü yönetim kurulu karara bağlar.

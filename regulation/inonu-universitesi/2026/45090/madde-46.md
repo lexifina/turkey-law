@@ -1,0 +1,2 @@
+Mazeret sınavı
+MADDE 46- (1) Doğum raporu veya hastalık için herhangi bir resmî yataklı tedavi kurumundan alınacak bir kurul raporu, doğal afet ve kaza nedeniyle mahallin mülki amirinden alınacak resmî ve gerekçeli bir yazıyla durumunu belgelendiren öğrenciye, giremediği ara sınavlar için ilgili enstitü yönetim kurulunca mazeret sınavı hakkı verilir. Bunun dışındaki durumların geçerli bir mazeret kabul edilip edilmeyeceğine enstitü yönetim kurulu karar verir.

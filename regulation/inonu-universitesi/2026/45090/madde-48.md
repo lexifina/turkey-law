@@ -1,0 +1,2 @@
+Öğrenci değişimi
+MADDE 48- (1) Yurt içi ve yurt dışı öğrenci değişimi programları çerçevesinde, öğrencilerin talebi ve ilgili kurulların kararı ile yurt içi ve yurt dışındaki üniversitelere bir veya iki yarıyıl süreyle öğrenci gönderilir. Bu öğrencilerin kayıtları, bu süre içerisinde ilgili enstitüde devam eder ve bu süre eğitim-öğretim süresinden sayılır. Öğrencilerin tez danışmanlarının nezaretinde uygulanacak öğrenci değişimi programı, ilgili anabilim/anasanat dalının teklifi ve enstitü yönetim kurulunun onayı ile kesinleşir.

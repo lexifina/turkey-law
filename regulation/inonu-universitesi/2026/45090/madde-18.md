@@ -1,0 +1,3 @@
+Danışman atanması
+MADDE 18- (1) Tezsiz yüksek lisans programında ilgili anabilim/anasanat dalı başkanlığı her öğrenci için ders seçiminde ve dönem projesinin yürütülmesinde danışmanlık yapacak bir öğretim üyesi veya doktora derecesine sahip bir öğretim görevlisini en geç birinci yarıyılın sonuna kadar belirler.
+(2) Her yarıyılda, kayıt yenilemeyen öğrencinin durumu anabilim/anasanat dalına bildirilir. Öğrencinin, üst üste iki yarıyıl kayıt yenilememesi halinde, danışmanın görevi sona erer. Öğrencinin kaydını yenilemesi halinde kayıt yenilediği yarıyıl itibarıyla bu maddede belirtilen hükümler doğrultusunda yeniden danışman atanır.

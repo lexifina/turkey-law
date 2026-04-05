@@ -1,0 +1,4 @@
+Dönem projesi
+MADDE 17- (1) Kredisiz olan dönem projesine ikinci yarıyılın başında kayıt yaptırılır ve ilgili yarıyılda proje hakkında bir rapor verilir.
+(2) Rapor, biri danışman olmak üzere anabilim/anasanat dalı başkanlığınca görevlendirilecek üç öğretim üyesi tarafından incelenerek salt çoğunlukla kabul, ret veya düzeltme kararı verilir. Bu karar ve dönem projesinin kabul edilmesi halinde ilgili enstitünün dönem projesi hazırlama kılavuzuna göre hazırlanmış dönem projesi anabilim/anasanat dalı başkanlığınca üç gün içerisinde enstitüye bir tutanakla bildirilir.
+(3) Dönem projesi reddedilen öğrenci, yeni bir dönem projesi ile devam eder. Dönem projesi hakkında düzeltme kararı verilen öğrenci en geç bir ay içinde gerekli düzeltmeleri yapar ve rapor ilgili jüri tarafından incelenerek karara bağlanır.
