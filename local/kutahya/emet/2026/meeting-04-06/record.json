@@ -1,0 +1,24 @@
+{
+  "number": "meeting-04-06",
+  "number_as_published": "meeting-04-06",
+  "year": 2026,
+  "title": "06.04.2026 / Saat 15:00 Meclis Toplantısı ve Kararlar",
+  "decision_date": "2026-04-06",
+  "source": "https://www.emet.bel.tr/karar/06042026--saat-1500-meclis-toplantisi-ve-kararlar/101/",
+  "official_document": "https://www.emet.bel.tr/dosya/meclis/dosyalar/nisan-2026-karar-ozetleri.doc",
+  "source_sha256": "8b23a5091d5de19ca14fb816c88fbfcd340b8b00209970db6f04f334752e83c6",
+  "issuer": "Emet Belediye Meclisi",
+  "history_type": "metadata",
+  "text_status": "metadata-only: listing fields as published; complete decision text is in the linked official document, not transcribed",
+  "in_force": "2026-04-06",
+  "in_force_basis": "Decision date as printed in the official council listing: 06.04.2026; adoption date of the council decision; legal commencement not asserted",
+  "missing": [
+    "complete official decision text",
+    "official annexes"
+  ],
+  "law_text_complete": false,
+  "privacy_withheld": false,
+  "listing_label": "06.04.2026 / Saat 15:00 Meclis Toplantısı ve Kararlar",
+  "record_scope": "one official file of council decisions (meeting)",
+  "official_page": "https://www.emet.bel.tr/karar/06042026--saat-1500-meclis-toplantisi-ve-kararlar/101/"
+}
