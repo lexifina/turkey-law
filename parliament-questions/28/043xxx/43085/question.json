@@ -1,0 +1,21 @@
+{
+  "record_type": "parliament-written-question",
+  "term": 28,
+  "legislative_year": 4,
+  "esas_no": "7/43085",
+  "submitted": "2026-04-06",
+  "submitted_as": "Başkanlığa geliş tarihi",
+  "mp": "Nevroz UYSAL ASLAN",
+  "province": "Şırnak",
+  "summary": "tutuklanan bir avukata ilişkin",
+  "status": "Cevaplanmadığı Gelen Kağıtlarda İlan Edildi",
+  "status_as_of": "2026-11-16",
+  "official_record": "https://www.tbmm.gov.tr/Denetim/Yazili-Soru-Onergesi-Detay/d930d435-c885-4842-af62-019d6710c2b0",
+  "source": "https://tbmm.gov.tr/Denetim/YaziliSoruOnergesiTable",
+  "source_form": "https://tbmm.gov.tr/Denetim/Yazili-Soru-Onergeleri",
+  "source_sha256": "ee2dac6f535abfd7636a03c14fb890fc5be7c090028fa68769090ce9c40d8732",
+  "in_force": "2026-04-06",
+  "in_force_basis": "Date the question reached the Speaker (Başkanlığa geliş tarihi) in the official TBMM written-question record; parliamentary oversight record, not law",
+  "history_type": "metadata",
+  "text_status": "metadata-only: question text, addressee and answers are in the linked official record (PDFs on cdn.tbmm.gov.tr); not transcribed here"
+}
