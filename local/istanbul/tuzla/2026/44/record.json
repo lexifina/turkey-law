@@ -1,0 +1,27 @@
+{
+  "number": "44",
+  "number_as_published": "Meclis Kararları 06.04.2026-44",
+  "year": 2026,
+  "title": "council decision",
+  "decision_date": "2026-04-06",
+  "source": "https://www.tuzla.bel.tr/api/public/kurumsal/meclis-encumen/meclis-kararlari?page=1&limit=100",
+  "official_document": "https://www.tuzla.bel.tr/uploads/documents/meclis-kararlari/2026044_Meclis_1_inci_ve_2_nci_Ba_kan_Vekili_ye_Se_imi_1777448736933_0f3mgynb5gu7.pdf",
+  "source_sha256": "92fdb2665d79ab4a96b25ee2a5f6283dd5988725356717a6c9826c7247c843e3",
+  "issuer": "Tuzla Belediye Meclisi",
+  "history_type": "metadata",
+  "text_status": "metadata-only: subject appears to concern individual persons; official link only",
+  "in_force": "2026-04-06",
+  "in_force_basis": "Decision date as printed in the official council listing: Meclis Kararları 06.04.2026-44 (official title); adoption date of the council decision; legal commencement not asserted",
+  "missing": [
+    "complete official decision text",
+    "official annexes"
+  ],
+  "law_text_complete": false,
+  "privacy_withheld": true,
+  "listing_page": "https://www.tuzla.bel.tr/kurumsal/meclis-encumen/meclis-kararlari",
+  "official_documents": [
+    "https://www.tuzla.bel.tr/uploads/documents/meclis-kararlari/2026044_Meclis_1_inci_ve_2_nci_Ba_kan_Vekili_ye_Se_imi_1777448736933_0f3mgynb5gu7.pdf"
+  ],
+  "record_scope": "one council decision",
+  "official_page": "https://www.tuzla.bel.tr/kurumsal/meclis-encumen/meclis-kararlari/meclis-kararlari-06042026-44-2026-04-29"
+}
