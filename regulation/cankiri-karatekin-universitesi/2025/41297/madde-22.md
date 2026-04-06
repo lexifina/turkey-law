@@ -1,0 +1,4 @@
+Danışman atanması ve değişikliği
+MADDE 22- (1) (Değişik:RG-6/4/2026-33216) Enstitüye kayıt yaptıran her öğrenci için ders seçiminde ve dönem projesinin yürütülmesinde danışmanlık yapacak bir öğretim üyesi veya Senato tarafından belirlenen niteliklere sahip doktora derecesine sahip bir öğretim elemanı EABDAK/EASDAK’nın önerisi ve EYK’nın kararıyla en geç birinci yarıyılın sonuna kadar atanır.
+(2) Öğrencinin veya danışmanın gerekçeli yazılı talebi üzerine, ders veya proje aşamasında ilgili EABDAK/EASDAK'nin teklifi ve EYK’nin kararı ile danışman değişikliği yapılabilir. Ancak danışman atamasını takip eden altı ay içerisinde ve akademik takvimde yer alan ders ekleme/bırakma döneminden sonra danışman değişikliği yapılamaz.
+(3) (Değişik:RG-6/4/2026-33216) Kurum değiştiren ve emekliye ayrılan öğretim üyelerinin başlamış olan danışmanlıkları, danışmanın en geç bir ay içerisinde Enstitüye yazılı talebi ve EYK’nın onaylaması halinde süreç tamamlanıncaya kadar devam eder.

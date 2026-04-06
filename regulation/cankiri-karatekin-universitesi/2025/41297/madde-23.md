@@ -1,0 +1,2 @@
+Dönem projesinin sonuçlanması
+MADDE 23- (1) Öğrenci, dönem projesinin alındığı yarıyılda dönem projesi dersine kayıt yaptırmak zorundadır. Tezsiz yüksek lisans programı kapsamında hazırlanan dönem projesinin sonuçlandırılması için gerekli olan koşullar ilgili EABDAK/EASDAK tarafından belirlenir. EABDAK/EASDAK, değerlendirme sonucunda öğrencinin dönem projesinden başarılı veya başarısız olduğuna ya da düzeltme gerektiğine salt çoğunlukla karar verir. Sonuç, EABDAK/EASDAK tarafından üç iş günü içinde Enstitüye bir tutanakla bildirilir.

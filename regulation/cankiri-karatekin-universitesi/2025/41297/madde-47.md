@@ -1,0 +1,2 @@
+Özel öğrenci kabulü
+MADDE 47- (1) Bir lisansüstü programa kayıtlı öğrenciler, diğer yükseköğretim kurumlarındaki lisansüstü derslere, kayıtlı oldukları EABD/EASD başkanlığının onayı ile özel öğrenci olarak kabul edilebilir. Özel öğrenci olarak alınan ve başarılı olunan derslerin kredi transferi işlemleri, kayıtlı oldukları EABD/EASD başkanlığı tarafından yürütülür. Özel öğrenci kabul koşulları ve bu konudaki diğer hükümler, EYK’nin önerisi ile Senato tarafından belirlenir.

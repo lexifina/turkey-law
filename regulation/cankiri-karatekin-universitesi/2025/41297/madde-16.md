@@ -1,0 +1,6 @@
+Not değerlendirme esasları
+MADDE 16- (1) Bir dersin ağırlıklı başarı puanı, AKTS kredisi ile başarı notu katsayısının çarpımı sonucunda elde edilir.
+(2) Yarıyıl sonu akademik başarı not ortalaması (YABNO); öğrencinin o yarıyılda aldığı bütün derslerin ağırlıklı puanlarının toplamının alınan derslerin AKTS kredi toplamına bölünmesiyle bulunur. Elde edilen ortalama, virgülden sonra iki basamak şeklinde yürütülür.
+(3) Genel akademik başarı not ortalaması (GABNO); öğrencinin lisansüstü programa kabul edilişinden itibaren almış olduğu tüm derslerden elde ettiği her bir notun katsayısı ile o derslerin AKTS kredi değerlerinin çarpımından oluşan toplam sayı bulunup bütün derslerden elde edilen bu sayı, derslerin AKTS kredi değerleri toplamına bölünerek elde edilir. Elde edilen ortalama virgülden sonra iki basamak şeklinde yürütülür.
+(4) YABNO ve GABNO’nun hesaplanmasında A’dan F1, F2, FF1, FF2 ve FF3’e kadar tüm puanlar değerlendirmeye tabi tutulur.
+(5) Mezuniyet için GABNO’nun, tezli yüksek lisans ve tezsiz yüksek lisans programlarında en az 2,50/4,00, doktora/sanatta yeterlik programında ise en az 3,00/4,00 olması gerekir. Toplam AKTS kredisini tamamladığı halde GABNO şartını sağlayamamış olan öğrencilerin yeni dersler alarak bu şartı sağlaması gerekir.

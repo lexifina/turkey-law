@@ -1,0 +1,6 @@
+Ders açılması ve ders sorumluları
+MADDE 10- (1) Lisansüstü programlarda öğretim programına eklenecek veya öğretim programından kaldırılacak dersler ile bunların AKTS kredileri, statüsü (zorunlu veya seçmeli), haftalık ders saati (teorik ve uygulama), okutulacağı yarıyıllar EABDAK/EASDAK’nin önerisi, EK’nin kararı ve Senatonun onayı ile belirlenir.
+(2) Her yarıyılın başında açılacak dersler, varsa bu derslerin şubeleri ve ders sorumluları, EABDAK/EASDAK'nin önerisi doğrultusunda EYK’nin kararı ile belirlenir. Belirlenen dersler, EABD/EASD başkanı tarafından akademik takvimde belirtilen tarihlerde öğrenci bilgi sistemine işlenir.
+(3) Lisansüstü programda verilecek derslerin sorumluları, YÖK tarafından belirlenen ilkelerde belirtilen özelliklere sahip öğretim elemanları arasından önerilir.
+(4) Lisansüstü eğitim programları yarıyıl esasına göre düzenlenir. Bir öğretim elemanı, uzmanlık alan dersi, seminer dersi ve zorunlu dersler dışında, bir yarıyılda her bir program türünde (yüksek lisans ve doktora/sanatta yeterlik) en fazla üç ders açabilir. (Mülga cümle:RG-6/4/2026-33216)
+(5) EYK’nin önerisi ile EK, disiplinler arası nitelikte zorunlu veya seçmeli nitelikte birbirini tamamlayan dersler açılmasına karar verebilir.

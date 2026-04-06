@@ -1,0 +1,4 @@
+Lisansüstü programlara kayıt
+MADDE 8- (1) Lisansüstü programlara kayıt hakkı kazanan adayların listesi asıl ve yedek olarak EYK kararı ile kesinleşir ve Enstitü Müdürlüğü tarafından ilan edilir. Kesin kayıt işlemleri Enstitü tarafından duyurulan süre içerisinde ve belirlenen esaslara uygun olarak yapılır. Akademik takvimde belirtilen süre içerisinde kesin kaydını yaptırmayan adaylar öğrenci olma hakkını kaybederler. Bu adayların yerine genel başarı değerlendirme sırası esas alınarak yedek listedeki adaylara kayıt hakkı tanınır.
+(2) Kesin kayıt için istenilecek belgeler Enstitü Müdürlüğü tarafından ilan edilir. Eksik belge ile kesin kayıt yapılmaz. Kayıt için sahte veya tahrif edilmiş belge kullanan veya giriş sınavlarında sahtecilik yaptığı belirlenen adayların kayıt işlemleri iptal edilir ve gerekli işlemler yapılır.
+(3) Tezsiz yüksek lisans programları hariç, aynı anda birden fazla lisansüstü programa kayıt yaptırılamaz ve devam edilemez.

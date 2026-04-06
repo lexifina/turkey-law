@@ -1,0 +1,6 @@
+Tez izleme komitesi
+MADDE 41- (1) Yeterlik sınavında başarılı bulunan öğrenci için danışmanın önerisi, EABDAK/EASDAK’nin teklifi ve EYK’nin kararı ile bir ay içinde bir tez izleme komitesi (TİK) oluşturulur.
+(2) (Değişik:RG-6/4/2026-33216) TİK, biri danışman olmak üzere üç öğretim üyesinden oluşur. Kalan iki üyenin biri ilgili EABD/EASD içinden, diğeri ise öncelikli olarak bir başka yükseköğretim kurumundan veya Üniversite içindeki başka bir EABD/EASD’den seçilir. TİK üyelerinin uzmanlık alanlarının tez konusu ile uyumlu olmasına dikkat edilir. Birinci, ikinci, üçüncü ve dördüncü derece kan ve kayın hısımlar tez izleme komitesinde görev alamaz.
+(3) TİK’in kurulmasından sonraki yarıyıllarda, EABDAK/EASDAK’nin gerekçeli önerisi ve EYK’nin kararı ile üyelerde değişiklik yapılabilir.
+(4) İkinci tez danışmanının olması durumunda ikinci tez danışmanı dilerse oy hakkı olmaksızın komite toplantılarına katılabilir.
+(5) Yurt dışı ile yürütülen ortak programlarda danışman veya ikinci danışman TİK raporuna esas teşkil edecek bir raporu komite toplantısından önce ilgili EABD/EASD başkanlığına iletir. Teslim edilen bu raporun komiteye gönderilmesinden EABD/EASD başkanlığı sorumludur. TİK, gönderilen raporu değerlendirerek kendi raporuna ekler.
