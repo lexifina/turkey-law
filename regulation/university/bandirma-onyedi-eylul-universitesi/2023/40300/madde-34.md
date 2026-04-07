@@ -1,0 +1,3 @@
+Hüküm bulunmayan haller
+MADDE 34- (1) Bu Yönetmelikte hüküm bulunmayan hallerde, Yükseköğretim Kurulunun ilgili diğer mevzuat hükümleri ile Üniversite Yönetim Kurulu, Senato, Fakülte Kurulu veya Yönetim Kurulu kararları uygulanır.
+(2) Savaş, terör, deprem, salgın hastalık, seferberlik ve benzeri mücbir sebep olarak kabul edilebilecek olağandışı durumlarda ve bu durumların etkisinin devam ettiği süreçlerde; eğitim-öğretimin aksamadan sürdürülmesinin sağlanabilmesi ve öğrenci mağduriyetlerinin önlenebilmesi amacıyla, eğitim-öğretime ilişkin esaslarda, yöntemlerde ve takvimde değişiklik yapmaya, yeni kararlar almaya Senato yetkilidir.

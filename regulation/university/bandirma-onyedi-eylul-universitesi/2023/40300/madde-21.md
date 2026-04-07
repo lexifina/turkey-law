@@ -1,0 +1,6 @@
+Fakülte dışında eğitim
+MADDE 21- (1) Yurt içi ve yurt dışı öğrenci değişim programları çerçevesinde Fakülte dışında eğitim alacak öğrenciler, ilgili değişim programı ilgili mevzuat hükümlerine tabidirler.
+(2) Birinci sınıf öğrencileri yurt içi ve yurt dışı öğrenci değişim programlarından yararlanamazlar.
+(3) Katkı payını/öğrenim ücretini yatırmış ve kaydını yenilemiş olmaları koşuluyla öğrencilere; öğrenimlerine katkıda bulunacak, bilgi ve görgülerini artıracak imkanların doğması durumunda yurt içi veya yurt dışı öğrenci değişim programı ya da Üniversite veya Fakülte Yönetim Kurulu kararıyla gerçekleştirilen ikili anlaşmalar kapsamında yurt içi veya yurt dışındaki tıp fakültelerinde kurul veya staj eğitimi almaları için kabul edildiklerini belgelendirmeleri şartıyla Yönetim Kurulu tarafından karar alınarak özel izin verilebilir.
+(4) Bu öğrenciler yurt dışındaki tıp fakültesinden almış oldukları kurul veya stajlardan başarılı olmalarına, başarı notlarının değerlendirilmesine Senato tarafından belirlenen esaslara göre ilgili bölüm görüşü üzerine Yönetim Kurulu karar verir. Not ortalaması hesabında denklik gözetilerek bu kurumlardan aldıkları not ve krediler esas alınır.
+(5) Öğrenciler, bu programlardan en fazla iki yarıyıl yararlanabilirler ve bu süre kanuni öğrenim süresi içindedir.

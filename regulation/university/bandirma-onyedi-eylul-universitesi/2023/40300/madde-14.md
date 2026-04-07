@@ -1,0 +1,2 @@
+Türkçe hazırlık programı
+MADDE 14- (1) Yabancı uyruklu öğrenciler Türkçe yeterlik seviye tespit sınavında başarılı olduktan sonra eğitim-öğretim programına başlar. Sınava girip başarısız olan veya bu sınava girmeyen yabancı uyruklu öğrenciler Türkçe hazırlık sınıfına devam ederler. Bu öğrencilere ilişkin hususlarda, ilgili mevzuat ve Dekanlık önerisi üzerine Senato tarafından alınan kararlar uygulanır.
