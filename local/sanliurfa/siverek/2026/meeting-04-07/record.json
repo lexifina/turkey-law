@@ -1,0 +1,26 @@
+{
+  "number": "meeting-04-07",
+  "number_as_published": "meeting-04-07",
+  "year": 2026,
+  "title": "07.04.2026 Tarihli Meclis Kararına buradan ulaşabilirsiniz.",
+  "decision_date": "2026-04-07",
+  "source": "https://www.siverek.bel.tr/meclis-kararlari-ve-komisyon-raporlari",
+  "official_document": "https://www.siverek.bel.tr/uploads/69f1034d0b5f1.jpg",
+  "source_sha256": "afecf063b85361ca68f3ab5f12e74d1423f737904e5908873927617341104b9d",
+  "issuer": "Siverek Belediye Meclisi",
+  "history_type": "metadata",
+  "text_status": "metadata-only: listing fields as published; complete decision text is in the linked official document, not transcribed",
+  "in_force": "2026-04-07",
+  "in_force_basis": "Decision date as printed in the official council listing: 07/04/2026; adoption date of the council decision; legal commencement not asserted",
+  "missing": [
+    "complete official decision text",
+    "official annexes"
+  ],
+  "law_text_complete": false,
+  "privacy_withheld": false,
+  "listing_label": "07.04.2026 Tarihli Meclis Kararına buradan ulaşabilirsiniz.",
+  "record_scope": "one official file of council decisions (meeting)",
+  "date_read_from": "date printed with the file in the official listing",
+  "detail_page": "https://www.siverek.bel.tr/meclis-karar/67",
+  "official_page": "https://www.siverek.bel.tr/meclis-kararlari-ve-komisyon-raporlari"
+}
