@@ -1,0 +1,25 @@
+{
+  "number": "9",
+  "number_as_published": "09",
+  "year": 2026,
+  "title": "council decision",
+  "decision_date": "2026-04-07",
+  "source": "https://www.mollakoy.bel.tr/meclis-kararlari/",
+  "official_document": "https://www.mollakoy.bel.tr/karar/meclis-baskan-vekilinin-belirlenmesi/108/",
+  "source_sha256": "1c1f27dcb082524c7c66bbbfe6be73cb81b51f9f618307b01fa44bd9bc88e8f8",
+  "issuer": "Mollaköy Belediye Meclisi",
+  "history_type": "metadata",
+  "text_status": "metadata-only: subject appears to concern individual persons; official link only",
+  "in_force": "2026-04-07",
+  "in_force_basis": "Decision date as printed in the official council listing: meclisi 07.04.2026; adoption date of the council decision; legal commencement not asserted",
+  "missing": [
+    "complete official decision text",
+    "official annexes"
+  ],
+  "law_text_complete": false,
+  "privacy_withheld": true,
+  "official_page": "https://www.mollakoy.bel.tr/karar/meclis-baskan-vekilinin-belirlenmesi/108/",
+  "record_scope": "one council decision (number, date, subject as published)",
+  "date_read_from": "meeting date in the decision text (the item's Karar Tarihi field carries a clock time)",
+  "document_note": "the decision text is on the official item page; not transcribed here"
+}
