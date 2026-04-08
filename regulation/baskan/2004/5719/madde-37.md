@@ -1,0 +1,7 @@
+ONBİRİNCİ BÖLÜM
+Bayilik Lisansı
+Bayilik Lisansı Kapsamında Yürütülebilecek Faaliyetler
+Madde 37- Bayilik lisansı sahipleri piyasada, lisanslarında düzenlenen alt başlığa göre akaryakıt bayisi, ihrakiye bayisi; kategoriye göre ise istasyonlu bayi ve istasyonsuz bayi olarak bayisi olduğu dağıtıcıdan temin ettiği akaryakıt veya ihrakiyenin kullanıcılara satışı faaliyetinde bulunabilir. (Ek cümle:RG-4/11/2011-28105) Aynı kişiye ve/veya aynı adrese farklı kategoriden bayilik lisansı verilemez.
+(Değişik fıkra:RG-28/09/2006-26303) İstasyonlu akaryakıt bayileri, lisansları kapsamındaki akaryakıt istasyonları yoluyla, lisansına işlenmek ve gerekli tedbirleri almak kaydıyla, tarım sektörünün ihtiyaçları için tanker ve köy pompası (Ek ibare:RG-2/12/2021-31677) , demiryolu araçlarının ve demiryolu altyapı işletmecisinin faaliyetleri gereği kullanması gereken araçların akaryakıt ihtiyaçları için ise demiryolu pompaları vasıtasıyla LPG hariç akaryakıt satışı yapabilir.
+(Mülga fıkra:RG-12/8/2008-26965)
+(Değişik:RG-4/11/2011-28105) Bayiler, bayisi oldukları dağıtıcının lisansının iptal edilmesi halinde, sözleşmenin feshini beklemeksizin başka bir dağıtıcı ile sözleşme imzalayarak lisans tadil başvurusunda bulunurlar. Bayiler, bayisi oldukları dağıtıcının faaliyetinin geçici olarak durdurulması halinde ise, dağıtıcının yeniden faaliyete geçmesini beklemeksizin, faaliyetinin geçici olarak durdurulduğu süre ile sınırlı olmak ve lisanslarını tadil ettirmek kaydıyla başka bir dağıtıcıdan akaryakıt temin edebilir.

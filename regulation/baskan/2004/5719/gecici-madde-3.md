@@ -1,0 +1,1 @@
+Geçici Madde 3- Rafinerici, dağıtıcı ve ihrakiye teslim lisansı sahipleri, 2005 yılı için Ocak-Nisan dönemine ilişkin pazarlama projeksiyonlarını hazırlayarak, lisans başvurusu kapsamında Kuruma verir.

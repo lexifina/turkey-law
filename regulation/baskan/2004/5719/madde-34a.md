@@ -1,0 +1,10 @@
+Bayilik teşkilatı kurulması
+Madde 34/A – (Ek:RG-9/7/2019-30826)
+Dağıtıcı lisansı sahipleri lisansının yürürlüğe girdiği tarihten itibaren üç ay içinde en az on, altı ay içinde en az yirmi beş ve bir yıl içinde en az elli istasyonlu bayinin bulunduğu bayilik teşkilatını oluşturur. (Ek cümle:RG-24/4/2021-31464) Lisansına işli olarak veya münferiden aynı unvanlı depolama lisansında asgari 4.000 metreküp depolama kapasitesine sahip dağıtım şirketleri için bu fıkrada belirtilen on, yirmi beş ve elli bayi sayısı şartı sırasıyla beş, on üç ve yirmi beş olarak uygulanır.
+(Değişik fıkra:RG-28/7/2020-31199) Dağıtıcı lisansı sahipleri bayilik teşkilatını korumakla yükümlüdür. Bayilik teşkilatının oluşturulamaması veya oluşturulduktan sonra korunamaması durumunda, dağıtıcı lisansı sahibinin bildirime gerek olmaksızın, otuz gün içerisinde gerekli bayi sayısına ulaşması zorunludur. Bu süre sonunda gerekli sayıda bayisi bulunmayan dağıtıcı lisansı sahipleri bayilik teşkilatını oluşturamamış veya koruyamamış olarak kabul edilir ve Yönetmeliğin 17 nci maddesine göre işlem gerçekleştirilir.
+(Ek fıkra:RG-28/7/2020-31199)(14) Bayilik teşkilatının oluşturulmasına ilişkin süreler, Kurum tarafından geçici olarak faaliyeti durdurulan lisanslar için durur. Sona erdirilen veya iptal edilen lisansların mahkeme kararı ile tekrar yürürlüğe girmesi durumunda, bu maddenin birinci fıkrasının uygulanması bakımından, yeni lisans alınmış gibi kabul edilir.
+Dağıtıcı lisansı sahiplerinin ulusal marker taleplerinin değerlendirmeye alınabilmesi için lisans sahibinin lisans aldığı tarihten itibaren;
+a) İlk altı ay içerisinde en az on,
+b) Yedinci aydan birinci yılın sonuna kadar en az yirmi beş,
+c) Birinci yıldan sonra en az elli,
+istasyonlu bayiden oluşan bayilik teşkilatına sahip olması gereklidir. Bu fıkranın yürürlüğe girdiği tarihte dağıtıcı lisansı bulunan kişiler, ulusal marker taleplerinin değerlendirilmesi kapsamında, fıkranın yürürlüğe girdiği tarih itibarıyla yeni lisans almış olarak kabul edilir.

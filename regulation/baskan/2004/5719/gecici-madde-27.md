@@ -1,0 +1,3 @@
+GEÇİCİ MADDE 27 – (Ek:RG-7/2/2020-31032)
+(Değişik:RG-28/7/2020-31199) 1/1/2020 tarihinden önce lisans alanlar; 31/12/2019 tarihinde yürürlükte olan ilgili mevzuatla belirlenen asgari ödenmiş sermayesini korumak ve (Değişik ibare:RG-24/4/2021-31464)(15) 1/4/2022 tarihine kadar 7 nci maddenin yedinci fıkrasının (a) bendinde belirtilen asgari ödenmiş sermayeyi sağlamakla yükümlüdürler. Bu yükümlülüğün yerine getirilmediğinin tespiti halinde ilgilinin lisansı sona erdirilir.
+(Ek:RG-28/7/2020-31199) 1/1/2020 tarihinden önce lisans alanlar, bu yükümlülüğün sağlandığını gösterir Yeminli Mali Müşavir raporunu (Değişik ibare:RG-24/4/2021-31464)(15) 1/5/2022 tarihine kadar Kuruma iletmekle yükümlüdürler.

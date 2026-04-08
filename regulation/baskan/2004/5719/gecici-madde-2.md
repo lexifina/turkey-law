@@ -1,0 +1,1 @@
+Geçici Madde 2- Bu Yönetmeliğin yürürlüğe girdiği tarihte piyasada faaliyet gösteren ve 6326 sayılı Petrol Kanununa göre düzenlenmiş belge sahibi olup, faaliyetleri lisans almasını gerektiren kişilerle, akaryakıt dağıtım ve pazarlama kuruluşu olarak faaliyet gösterenler esas faaliyetlerinde kullandıkları tip sözleşme örneklerini, 20 Temmuz 2004 tarihine kadar Kuruma bildirir.
