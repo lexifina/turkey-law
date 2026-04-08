@@ -1,0 +1,96 @@
+{
+  "source_id": "7.5.9433",
+  "kind": "regulation",
+  "register_kind": "Kurum ve Kuruluş Yönetmelikleri",
+  "title": "SIVILAŞTIRILMIŞ PETROL GAZLARI (LPG) PİYASASI LİSANS YÖNETMELİĞİ",
+  "number": "9433",
+  "issuer": "Enerji Piyasası Düzenleme Kurulu Başkanı",
+  "issuer_slug": "enerji-piyasasi-duzenleme-kurulu-baskani",
+  "path": "regulation/enerji-piyasasi-duzenleme-kurulu-baskani/2005/9433",
+  "source": "https://www.mevzuat.gov.tr/anasayfa/MevzuatFihristDetayIframe?MevzuatTur=7&MevzuatNo=9433&MevzuatTertip=5",
+  "source_sha256": "80a966a2c7e4c3f8e391a42f5b77c77288bdf71b98cef2fce00494b50cb664a1",
+  "source_bytes": 159709,
+  "published": "2005-09-16",
+  "gazette": "25938",
+  "in_force": "2026-04-08",
+  "in_force_basis": "latest Resmî Gazete date printed in the source amendment notes/table (\"RG-8/4/2026\") for the current consolidated text",
+  "date_evidence": [
+    [
+      "2026-04-08",
+      "RG-8/4/2026",
+      "Resmî Gazete date printed in the source amendment note"
+    ],
+    [
+      "2026-04-08",
+      "8/4/2026",
+      "Resmî Gazete date in the source amendment table"
+    ],
+    [
+      "2025-10-08",
+      "RG-8/10/2025",
+      "Resmî Gazete date printed in the source amendment note"
+    ],
+    [
+      "2025-10-08",
+      "8/10/2025",
+      "Resmî Gazete date in the source amendment table"
+    ],
+    [
+      "2024-11-23",
+      "RG-23/11/2024",
+      "Resmî Gazete date printed in the source amendment note"
+    ],
+    [
+      "2024-11-23",
+      "23/11/2024",
+      "Resmî Gazete date in the source amendment table"
+    ],
+    [
+      "2022-11-08",
+      "RG-8/11/2022",
+      "Resmî Gazete date printed in the source amendment note"
+    ],
+    [
+      "2022-11-08",
+      "8/11/2022",
+      "Resmî Gazete date in the source amendment table"
+    ],
+    [
+      "2022-09-20",
+      "RG-20/9/2022",
+      "Resmî Gazete date printed in the source amendment note"
+    ],
+    [
+      "2022-09-20",
+      "20/9/2022",
+      "Resmî Gazete date in the source amendment table"
+    ],
+    [
+      "2022-07-28",
+      "RG-28/7/2022",
+      "Resmî Gazete date printed in the source amendment note"
+    ],
+    [
+      "2022-07-28",
+      "28/7/2022",
+      "Resmî Gazete date in the source amendment table"
+    ]
+  ],
+  "commencement_clauses": [
+    "Bu Yönetmelik yayımı tarihinde yürürlüğe girer"
+  ],
+  "history": "current-text",
+  "label": "oldest version available",
+  "checked_on": "2026-11-15",
+  "word_count": 7700,
+  "text_status": "current-consolidated",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  },
+  "source_links": [
+    "7.5.9433-ek.doc"
+  ],
+  "completeness": "html-text-complete; linked annexes not fetched"
+}

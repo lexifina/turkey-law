@@ -1,0 +1,1 @@
+GEÇİCİ MADDE 2 — Bu Yönetmeliğin yürürlüğe girdiği tarihte piyasada faaliyet gösteren ve belge sahibi olup, faaliyetleri lisans almasını gerektiren kişilerle, LPG dağıtım ve pazarlama şirketi olarak faaliyet gösterenler esas faaliyetlerinde kullandıkları Tip Bayilik Sözleşme örneklerini, 31/10/2005 tarihine kadar Kuruma bildirirler.
