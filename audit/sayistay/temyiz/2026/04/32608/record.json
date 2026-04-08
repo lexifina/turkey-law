@@ -1,0 +1,16 @@
+{
+  "kind": "decision",
+  "issuer": "Sayıştay Temyiz Kurulu",
+  "number": "59171",
+  "decision_date": "2026-04-08",
+  "source_id": 32608,
+  "chamber": "4",
+  "file_number": "56198",
+  "public_body_type": "Belediyeler ve Bağlı İdareler",
+  "account_year": "2023",
+  "subject": "İhale Mevzuatı ile İlgili Kararlar",
+  "source": "https://www.sayistay.gov.tr/KararlarTemyiz/Detay/32608/",
+  "source_sha256": "99e1c8ee634dad3ee36890d2a7f19089c575d4b10b19aa1260f7668b5b57df59",
+  "text_status": "as-enacted",
+  "text_file": "metin.md"
+}
