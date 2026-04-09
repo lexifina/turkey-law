@@ -1,0 +1,10 @@
+İtirazen şikayet başvuru bedelinin iadesi
+MADDE 18/A- (Ek:RG-9/4/2026-33219)
+(1) İtirazen şikayet başvuru bedelinin, itirazen şikayet başvuru dilekçesinde yer verilen iddialar dikkate alınarak belirlenecek haklılık oranına karşılık gelen kısmının başvuru sahibinin talebi halinde Kurul kararı ile iadesine karar verilir. Ancak Kurum tarafından Kanunun 54 üncü maddesinin on birinci fıkrasının (c) bendi uyarınca başvurunun reddine veya eşit muamele ilkesi yönünden yapılan inceleme sonucunda Kanunun 54 üncü maddesinin on birinci fıkrasının (a) ve (b) bentleri uyarınca ihalenin iptaline veya düzeltici işlem belirlenmesine karar verilmesi halinde başvuru bedeli iade edilmez.
+(2) İtirazen şikayet başvuru bedelinin iadesinde esas alınacak haklılık oranı ile bu orana göre iade edilecek başvuru bedeli aşağıdaki şekilde belirlenir:
+a) Haklılık oranı; Kurul kararında başvuru sahibinin haklı olduğu tespit edilen iddia sayısının, 18 inci maddenin altıncı fıkrasına göre belirlenen toplam iddia sayısına oranlanması suretiyle bulunur. Bu oran virgülden sonra en yakın iki ondalık basamaklı sayıya yuvarlanır. Bir iddia kapsamında aynı hususa ilişkin birden fazla aykırılık sebebine yer verilmesi ve bu sebeplerin herhangi birinde haklı bulunulması halinde, başvuru sahibinin bu iddiasında haklı olduğu kabul edilir.
+b) İade edilecek başvuru bedeli; (a) bendine göre belirlenen haklılık oranı ile itirazen şikayet başvuru bedelinin çarpımı sonucunda bulunan tutarın virgülden sonra en yakın iki ondalık basamaklı sayıya yuvarlanması suretiyle bulunur.
+(3) Kısmi teklife açık ihalelerde tekliflerin sunulması, değerlendirilmesi ve sonuçlandırılmasına yönelik başvurularda iade edilecek başvuru bedeli;
+a) Başvuruya konu kısmın yaklaşık maliyetine göre fazla yatırıldığı tespit edilen tutarla,
+b) İkinci fıkranın (a) bendine göre belirlenen haklılık oranı ile başvuruya konu kısmın/kısımların yaklaşık maliyetine karşılık gelen itirazen şikayet başvuru bedelinin çarpımı sonucunda bulunan tutarın virgülden sonra en yakın iki ondalık basamaklı sayıya yuvarlanması suretiyle bulunan tutar,
+toplanarak tespit edilir.

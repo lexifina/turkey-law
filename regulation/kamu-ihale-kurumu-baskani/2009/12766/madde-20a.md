@@ -1,0 +1,5 @@
+BEŞİNCİ BÖLÜM
+Çerçeve Anlaşma ve Münferit Sözleşme İhaleleri
+Ehliyet
+MADDE 20/A – (1) Çerçeve anlaşma ihalelerinde istekliler; tekliflerin sunulması, değerlendirilmesi ve ihalenin sonuçlandırılmasına ilişkin idari işlem veya eylemler hakkında, kendisiyle çerçeve anlaşma imzalanan istekliler on iki ayda bir yapılacak yeterlik değerlendirilmesine ilişkin idari işlem veya eylemler hakkında şikayet ve itirazen şikayet başvurusunda bulunabilir.
+(2) Kendisiyle çerçeve anlaşma imzalanan istekliler ayrıca, münferit sözleşmeye davet, tekliflerin değerlendirilmesi, ekonomik açıdan en avantajlı teklifin belirlenmesi ve münferit sözleşmenin imzalanmasına ilişkin idari işlem veya eylemler hakkında doğrudan Kuruma itirazen şikayet başvurusunda bulunabilir. Ancak, münferit sözleşmeye davet edildiği halde teklif vermeyen istekliler, ihale dokümanında yer verilen düzenlemeler ve/veya bu düzenlemeler ile idari uygulamalar arasındaki uyumsuzluklar hariç, son teklif verme tarih ve saatinden sonra gerçekleştirilen idari işlem veya eylemler hakkında başvuruda bulunamazlar.

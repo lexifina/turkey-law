@@ -1,0 +1,12 @@
+YEDİNCİ BÖLÜM
+Bildirim ve Tebligat Esasları
+Tebligat esasları (Değişik Başlık:RG-18/5/2024-32550)(9)
+MADDE 24 – (1) (Değişik:RG-16/12/2010-27787) Kurul tarafından başvurular üzerine verilen bütün nihai kararlar ile nihai kararlara karşı açılan davalar sonucundaki mahkeme kararlarının uygulanması için Kurul tarafından alınan kararlar, karar tarihini izleyen beş iş günü içinde taraflara bildirime çıkarılır ve bu tarihi izleyen beş gün içinde Kurumun internet sayfasında yayımlanır.
+(2) Kurumun internet sayfasında yayımlanan Kurul kararlarına erişim ücretsizdir.
+(3) (Değişik:RG-7/6/2014-29023)(3) İtirazen şikayet başvurusu üzerine alınan kararlar ile bu kararlara karşı açılan davalar sonucu mahkemelerce verilen kararların uygulanmasını teminen Kurul tarafından alınan kararların bildirimi, Kurum tarafından EKAP üzerinden (Değişik ibare:RG-18/5/2024-32550)(9) yapılır.
+(4) (Değişik:RG-7/6/2014-29023)(3) İdareler tarafından şikayet başvurusu üzerine alınan kararların bildirimi (Değişik ibare:RG-30/9/2020-31260) EKAP üzerinden yapılır.
+(5) (Değişik:RG-18/5/2024-32550)(9) EKAP üzerinden tebligat, Kamu Alımlarının Elektronik Ortamda Yapılmasına İlişkin Uygulama Yönetmeliğinde belirtilen esas ve usuller çerçevesinde gerçekleştirilir.
+(6) (Değişik:RG-7/6/2014-29023)(3) Tebligatın haklı veya zorunlu nedenlerle üçüncü ve dördüncü fıkralarda belirtilen yöntemler kullanılarak yapılamaması halinde, (Ek ibare:RG-18/5/2024-32550)(9) imza karşılığı elden tebligat yapılması yöntemine öncelik tanınarak Kanunun 65 inci maddesinin birinci fıkrasının (a) bendinde sayılan diğer yöntemlere başvurulur.
+(7) (Değişik:RG-7/6/2014-29023)(3) İadeli taahhütlü mektupla yapılan tebligatta, mektubun teslim edildiği tarih tebliğ tarihi sayılır.
+(8) (Ek:RG-7/6/2014-29023)(3) Faks ile yapılan tebligatta, bildirim tarihi tebliğ tarihi sayılır. Bu şekilde yapılan tebligatın aynı gün idare tarafından teyit edilmesi zorunludur. Teyit işleminin gerçekleşmiş kabul edilebilmesi için tebligatın iadeli taahhütlü mektupla bildirime çıkarılmış olması yeterlidir. Tebligatın, teyit işlemi ile bildirim tarihini kapsayacak şekilde ayrıca belgelendirilmesi gerekmektedir. Aksi takdirde tebligat usulsüz yapılmış sayılır ve 11/2/1959 tarihli ve 7201 sayılı Tebligat Kanununun usule aykırı tebliğe ilişkin hükümleri uygulanır.
+(9) (Ek:RG-7/6/2014-29023)(3) İdare tarafından ortak girişimlere yapılacak bildirim ve tebligat, belirtilen esaslar çerçevesinde pilot veya koordinatör ortağa yapılır. (Mülga ikinci cümle:RG-18/5/2024-32550)(9)

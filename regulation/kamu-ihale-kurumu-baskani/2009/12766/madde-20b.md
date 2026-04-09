@@ -1,0 +1,4 @@
+Süre
+MADDE 20/B – (1) Çerçeve anlaşmanın imzalanması dahil, ihale sürecindeki idari işlem veya eylemler ile on iki ayda bir yapılacak yeterlik değerlendirmesine ilişkin idari işlem veya eylemlere karşı yapılacak şikayet ve itirazen şikayet başvurularında süre, İkinci Bölümde yer alan usul ve esaslara göre hesaplanır ve uygulanır.
+(2) Münferit sözleşme sürecindeki idari işlem veya eylemlere karşı yapılacak itirazen şikayet başvuru süresi, idari işlem veya eylemin farkına varıldığı veya farkına varılmış olması gerektiği tarihi izleyen günden itibaren üç iş günüdür.
+(3) Münferit sözleşme sürecindeki idari işlem veya eylemlere karşı yapılan başvurularda süre, münferit sözleşme için teklif vermeye davet yazısının istekliye bildirildiği veya bildirilmiş olması gerektiği tarihi, davet yapılmaması halinde ise bu durumun farkına varıldığı veya varılmış olması gerektiği tarihi izleyen günden itibaren başlar.
