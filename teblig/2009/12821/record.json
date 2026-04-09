@@ -1,0 +1,92 @@
+{
+  "source_id": "9.5.12821",
+  "kind": "communique",
+  "register_kind": "Tebliğler",
+  "title": "İHALELERE YÖNELİK BAŞVURULAR HAKKINDA TEBLİĞ",
+  "number": "12821",
+  "issuer": "Kamu İhale Kurumu Başkanı",
+  "path": "teblig/2009/12821",
+  "source": "https://www.mevzuat.gov.tr/anasayfa/MevzuatFihristDetayIframe?MevzuatTur=9&MevzuatNo=12821&MevzuatTertip=5",
+  "source_sha256": "01308af7d74901522cd75875a35c87584c2b2d1663cfd8b77ce3536a9800c904",
+  "source_bytes": 122816,
+  "published": "2009-01-28",
+  "gazette": "27124",
+  "in_force": "2026-04-09",
+  "in_force_basis": "latest Resmî Gazete date printed in the source amendment notes/table (\"RG-9/4/2026\") for the current consolidated text",
+  "date_evidence": [
+    [
+      "2026-04-09",
+      "RG-9/4/2026",
+      "Resmî Gazete date printed in the source amendment note"
+    ],
+    [
+      "2026-04-09",
+      "9/4/2026",
+      "Resmî Gazete date in the source amendment table"
+    ],
+    [
+      "2025-08-01",
+      "1/8/2025",
+      "Resmî Gazete date in the source amendment table"
+    ],
+    [
+      "2024-05-18",
+      "RG-18/5/2024",
+      "Resmî Gazete date printed in the source amendment note"
+    ],
+    [
+      "2024-05-18",
+      "18/5/2024",
+      "Resmî Gazete date in the source amendment table"
+    ],
+    [
+      "2023-04-01",
+      "RG-1/4/2023",
+      "Resmî Gazete date printed in the source amendment note"
+    ],
+    [
+      "2023-04-01",
+      "1/4/2023",
+      "Resmî Gazete date in the source amendment table"
+    ],
+    [
+      "2021-11-30",
+      "30/11/2021",
+      "Resmî Gazete date in the source amendment table"
+    ],
+    [
+      "2021-06-20",
+      "RG-20/6/2021",
+      "Resmî Gazete date printed in the source amendment note"
+    ],
+    [
+      "2021-06-20",
+      "20/6/2021",
+      "Resmî Gazete date in the source amendment table"
+    ],
+    [
+      "2020-09-30",
+      "RG-30/9/2020",
+      "Resmî Gazete date printed in the source amendment note"
+    ],
+    [
+      "2020-09-30",
+      "30/9/2020",
+      "Resmî Gazete date in the source amendment table"
+    ]
+  ],
+  "commencement_clauses": [
+    "Bu Tebliğ yayımı tarihinde yürürlüğe girer"
+  ],
+  "history": "current-text",
+  "label": "oldest version available",
+  "checked_on": "2026-11-15",
+  "word_count": 7028,
+  "text_status": "current-consolidated",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  },
+  "completeness": "html-text-complete"
+}
