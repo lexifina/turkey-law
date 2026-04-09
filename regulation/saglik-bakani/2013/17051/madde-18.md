@@ -1,0 +1,2 @@
+Naklen atama
+MADDE 18 – (1) Aile hekimi olarak sözleşme imzalayan personel, sözleşmeli olarak görev yaptığı il dışında başka bir ilde ilan edilmiş münhal aile hekimliği pozisyonlarına 15 inci maddedeki usul ve esaslar çerçevesinde başvurarak yerleşebilir. (Değişik ikinci cümle:RG-9/4/2026-33219) Bu durumda, 26/3/2013 tarihli ve 28599 sayılı Resmî Gazete’de yayımlanan Sağlık Bakanlığı Atama ve Yer Değiştirme Yönetmeliğinin 16 ncı maddesinin ikinci fıkrasının (e) bendi hükümlerine göre işlem tesis edilir. (Mülga üçüncü ve dördüncü cümle:RG-9/4/2026-33219)

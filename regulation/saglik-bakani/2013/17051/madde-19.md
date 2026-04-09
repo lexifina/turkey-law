@@ -1,0 +1,4 @@
+Atama ve nakillere ilişkin sair hususlar
+MADDE 19 – (1) Aile hekimi veya (Değişik ibare:RG-21/2/2025-32820) aile sağlığı çalışanının bu Yönetmelikte düzenlenen hükümler dışında özür durumu gibi farklı nedenlerle naklen ataması yapılamaz. Bu konumdaki personel memur olarak görev yaparken sözleşmeli statüye geçmiş ise, memuriyete tekrar dönmeden tayin talebinde bulunabilir veya bu Yönetmelikteki düzenlemeye göre sıralamaya girebilir.
+(2) Sözleşmeli aile hekimlerinin ve (Değişik ibare:RG-21/2/2025-32820) aile sağlığı çalışanlarının kadroları ile ilişkisi devam ettirilerek her yıl düzenli olarak kadro ve derece ilerlemeleri ile intibakları yapılarak kayıtlara işlenir.
+(3) Aile hekimliği uygulaması kapsamındaki atama ve nakillerle ilgili olarak bu Yönetmelikte hüküm bulunmayan hallerde (Değişik ibare:RG-9/4/2026-33219) Sağlık Bakanlığı Atama ve Yer Değiştirme Yönetmeliği hükümlerinin uygulanmasına devam edilir.

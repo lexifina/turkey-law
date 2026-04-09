@@ -1,0 +1,2 @@
+Kayıtların devri
+MADDE 32 – (1) Bulunduğu bölgeden ayrılacak olan aile hekimi kendisine kayıtlı kişilerin verilerini sorumlu olacak aile hekimine devreder. Devir teslimin yapılamadığı durumlarda ayrılacak olan aile hekimi bu verileri bölgesindeki toplum sağlığı merkezine teslim eder. Ayrılan aile hekiminin hiçbir şekilde verileri devredemediği hallerde toplum sağlığı merkezi gerekli verileri temin ederek sorumlu olacak aile hekimine verir ve devir teslimi yapmayan aile hekimi ile ilgili tutanak tutarak müdürlüğe bildirir.

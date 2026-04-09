@@ -1,0 +1,2 @@
+Tetkik ve tahlil işlemleri
+MADDE 27 – (1) Teşhis ve takip için gerekli görülen basit görüntüleme ya da laboratuvar tetkikleri aile sağlığı merkezlerinde yapılabilir. Aile hekimlerinin istediği laboratuvar tetkikleri öncelikle halk sağlığı laboratuvarı olmak üzere müdürlüğün uygun gördüğü bir laboratuvarda yaptırılır. Bu laboratuvarların seçiminde iç ve dış kalite kontrol programlarının uygulanıyor olması dikkate alınır.
