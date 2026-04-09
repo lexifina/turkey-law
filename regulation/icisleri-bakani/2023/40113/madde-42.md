@@ -1,0 +1,4 @@
+Sınav sonuçlarının ilanı ve itiraz
+MADDE 42- (1) Sınav sonuçları, çalışma takviminde belirtilen tarihte ilan edilir. Eğitim süresince yapılan sınav sonuçları, aday çarşı ve mahalle bekçisi tarafından herhangi bir tebligata gerek kalmaksızın takip edilmek zorundadır.
+(2) Sınav sonuçlarına sadece maddi hata yönünden itirazda bulunulabilir. Bu şekilde yapılacak itirazlar sınav sonucunun ilan tarihinden itibaren en geç yirmi dört saat içinde ilgisine göre Eğitim Kurumuna veya Eğitim Merkezine yapılır. İtirazlar, en geç yirmi dört saat içerisinde karara bağlanır. Bu incelemeden sonra verilen puan kesindir. Sözlü ve uygulamalı sınav sonuçlarına itiraz edilemez.
+(3) Sınav kağıtları, eğitimin yapıldığı birim tarafından sınav döneminden itibaren bir yıl süreyle, dava konusu olmuşsa davanın kesin karara bağlanmasına kadar saklanır ve bu sürenin bitiminde imha edilir.

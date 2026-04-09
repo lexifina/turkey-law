@@ -1,0 +1,2 @@
+Duyuru
+MADDE 6- (1) Emniyet ve jandarma teşkilatları bünyesinde istihdam edilmek üzere illere göre alımı yapılacak çarşı ve mahalle bekçisi sayısı, istihdam edilecekleri teşkilat, başvuru, sınav tarihleri ve sınava ilişkin diğer hususlar Başkanlık ile JSGA Başkanlığı tarafından hazırlanan Sınav Başvuru Kılavuzları Resmî Gazete’de, Cumhurbaşkanınca belirlenen kurumların internet sitesinde ilan edilir.

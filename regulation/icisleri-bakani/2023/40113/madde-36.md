@@ -1,0 +1,2 @@
+Haftalık ve günlük eğitim süresi
+MADDE 36- (1) Aday çarşı ve mahalle bekçilerine temel ve hazırlayıcı eğitim süresince haftada en az yirmi beş saat ders verilir. Ders saatleri günlere eşit olarak dağıtılır. Ancak, derslerin günlük dağılımı ihtiyaçlar doğrultusunda gece, gündüz, hafta sonu ve resmi tatiller de dahil olmak üzere Yönetim Kurulunca/Eğitim Merkezlerince belirlenebilir. Ders süresi kırk beş dakika olup, her ders arasında on beş dakika dinlenme arası verilir, ancak öğretim elemanlarınca dersler iki ders saatini geçmemek üzere birleştirilerek de yapılabilir.

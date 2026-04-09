@@ -1,0 +1,4 @@
+Yazılı sınava itiraz ve başarı listesi
+MADDE 14- (1) Sınav sonuçlarının ilanını takip eden iki iş günü içerisinde aday tarafından Başkanlığa yazılı olarak itiraz edilebilir. İtirazlar, itiraz süresi dolduktan sonra yazılı sınav değerlendirme komisyonu tarafından en geç dört iş günü içerisinde incelenir. Sonuçlar Başkanlık internet sayfasında duyurulur.
+(2) Başkanlığa her ne sebeple olursa olsun süresinde ulaşmayan itirazlar değerlendirmeye alınmaz.
+(3) Yazılı sınav sonucuna göre; belirlenen başarı puanını aşmak koşuluyla, en yüksek puandan başlamak üzere her il/ilçe için belirlenen kontenjan sayısının on katı kadar aday başarılı sayılır. Puanların eşitliği halinde yazılı sınavda doğru cevabı daha fazla olan aday başarılı sayılır. Eşitliğin yine bozulmaması halinde başarı listesinde son sıradaki adayla aynı puanı alan adaylar da başarılı sayılır.
