@@ -1,0 +1,22 @@
+{
+  "number": "53",
+  "number_as_published": "2026/053",
+  "year": 2026,
+  "title": "09.04.2026 tarihli ve 2026/053 sayılı karar",
+  "decision_date": "2026-04-09",
+  "source": "https://www.atasehir.bel.tr/kurumsal/liste/meclis-kararlari?page=3",
+  "official_document": "https://www.atasehir.bel.tr/upload/files/09042026-tarihli-ve-2026053-sayili-karar-7c7d5ef0-d72c-4b33-a32f-83ab238ec13d.pdf",
+  "source_sha256": "7070c6f629ff7b02d8884ad5c54dfdc413744a13f909b81cb3817b1c03e3d64e",
+  "issuer": "Ataşehir Belediye Meclisi",
+  "history_type": "metadata",
+  "text_status": "metadata-only: listing fields as published; complete decision text is in the linked official document, not transcribed",
+  "in_force": "2026-04-09",
+  "in_force_basis": "Decision date as printed in the official council listing: 09.04.2026; adoption date of the council decision; legal commencement not asserted",
+  "missing": [
+    "complete official decision text",
+    "official annexes"
+  ],
+  "law_text_complete": false,
+  "privacy_withheld": false,
+  "decision_page": "https://www.atasehir.bel.tr/kurumsal/meclis-kararlari/09042026-tarihli-ve-2026053-sayili-karar"
+}
