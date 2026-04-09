@@ -1,0 +1,23 @@
+ALTINCI BÖLÜM
+İş Deneyimini Gösteren Belgelerin Değerlendirilmesi
+Değerlendirmeye ilişkin esaslar
+MADDE 48 – (1) Aday ve isteklilerin ihale konusu iş veya benzer işlerle ilgili iş deneyimlerinin değerlendirilmesinde; tek sözleşmeye ilişkin deneyimini gösteren belgeler dikkate alınır. Birden fazla iş deneyimi toplanarak değerlendirilemez.
+(2) İş deneyimini gösteren belgelerde yer alan ancak, ihale konusu iş veya benzer iş kapsamında bulunmayan işlerin tutarları iş deneyiminde değerlendirmeye alınmaz.
+(3) (Değişik:16/07/2011-27996 R.G./9 md.) İş ortaklığı tarafından gerçekleştirilen işlerde ortakların iş deneyim tutarı, iş ortaklığındaki hisse oranı esas alınarak belirlenir. Ancak ihaleye katılan iş ortaklığının ortakları tarafından ortaklık oranları ve yapısı aynı olmak kaydıyla daha önce kurulmuş olan iş ortaklığının gerçekleştirdiği bir işten elde edilen iş deneyimini gösteren belgelerin sunulması halinde, iş ortaklığının iş deneyim tutarı, ortakların hisse oranlarına bakılmaksızın belge tutarı esas alınarak hesaplanır.
+(4) Konsorsiyum tarafından gerçekleştirilen işlerde, her bir ortak tarafından gerçekleştirilen iş kısmına ilişkin tutar iş deneyim tutarı olarak değerlendirilir.
+(5) İş deneyim belgelerinin değerlendirilmesinde;
+a) İş bitirme belgelerinde, belgeye konu işin kabul tarihinin ilk ilan veya davet tarihinden geriye doğru danışmalık hizmet alımlarında son beş yıl, yapımla ilgili danışmanlık hizmet alımlarında ise son onbeş yıl içinde olması,
+b) Yapımla ilgili danışmanlık hizmet alımlarına ilişkin iş durum belgelerinde, belgeye konu işin gerçekleşme oranının toplam sözleşme bedelinin en az % 80'ine ulaştığı tarihin, ihalenin ilk ilan veya davet tarihinden geriye doğru son onbeş yıl içinde olması ve ilk sözleşme bedelinin tamamlanması,
+c) Yapımla ilgili danışmanlık hizmet alımlarına ilişkin iş denetleme ve iş yönetme belgelerinde,
+1) Belgeye konu işin kabul tarihinin ilk ilan veya davet tarihinden geriye doğru son on beş yıl içinde olması kaydıyla, ilk sözleşme bedelinin en az yüzde seksenlik bölümünde fiilen denetleme veya yönetme faaliyetinde bulunulmuş olması,
+2) Gerçekleşme oranının toplam sözleşme bedelinin en az % 80'ine ulaştığı tarihin, ihalenin ilk ilan veya davet tarihinden geriye doğru son onbeş yıl içinde olduğu ve ilk sözleşme bedelinin tamamlandığı işlerde; ilk sözleşme bedelinin en az yüzde seksenlik bölümünde fiilen denetleme veya yönetme faaliyetinde bulunulmuş olması
+şartı aranır ve kabul tarihi veya gerçekleşme oranının toplam sözleşme bedelinin en az % 80'ine ulaştığı tarihin, ihale ilk ilan veya davet tarihi ile ihale veya son başvuru tarihi arasında olduğu işler de bu kapsamda değerlendirilir.
+(6) (Değişik:16/07/2011-27996 R.G./9 md.; Değişik:07/06/2014-29023 R.G./7 md. Yürürlük:19/8/2014) İş deneyim belge tutarlarının değerlendirilmesinde;
+a) İş bitirme ve iş durum belge tutarları tam olarak,
+b) Denetim veya yönetim faaliyetleri nedeniyle alınan belge tutarları beşte bir oranında,
+dikkate alınır.
+(7) (Ek:16/07/2011-27996 R.G./9 md.; Mülga fıkra:07/06/2014-29023 R.G./7 md. Yürürlük:19/8/2014)
+(8) (Değişik:16/07/2011-27996 R.G./9 md.; Değişik:07/06/2014-29023 R.G./7 md. Yürürlük:19/8/2014) Yapım işi kontrollüğü ve yapı denetimine ilişkin danışmanlık hizmet alımı ihalelerinde, gerçek kişilerce denetim ve yönetim faaliyetleri nedeniyle yapım işlerinden alınan iş deneyim belge tutarları 1/50 oranında dikkate alınır.
+(9) İş deneyimi olarak, bu Yönetmeliğin yürürlüğe girdiği tarihten önce düzenlenmiş iş durum belgesi sunulması halinde, belgeyi düzenleyen idarenin, belgeye konu işte iş artışı varsa iş artışı tutarı, yazının tanzim edildiği tarih itibari ile toplam sözleşme bedelinin % 80’inin tamamlanıp tamamlanmadığı, tamamlanmış ise tamamlandığı tarihi belirtir yazısının başvuru veya teklif kapsamında sunulması kaydıyla iş deneyimi olarak değerlendirilir.
+(10) İş deneyimi olarak, bu Yönetmeliğin yürürlüğe girdiği tarihten önce düzenlenmiş ve kabulü yapılmamış bir işe ait iş denetleme veya iş yönetme belgesinin sunulması halinde; belgeyi düzenleyen idarenin, belgeye konu işin kabulünün yapılıp yapılmadığı, yapılmışsa kabul tarihi, belgeye konu işte iş artışı varsa iş artışı tutarı, yazının tanzim edildiği tarih itibari ile toplam sözleşme bedelinin % 80’inin tamamlanıp tamamlanmadığı, tamamlanmış ise tamamlandığı tarihi belirtir yazısının başvuru veya teklif kapsamında sunulması kaydıyla iş deneyimi olarak değerlendirilir.
+Kanun kapsamındaki idarelere taahhüt edilenler dışında yurt dışında gerçekleştirilen işler için düzenlenen belgeler (Ek madde: 13.06.2019-30716 R.G/9.md.; yürürlük:23.06.2019)

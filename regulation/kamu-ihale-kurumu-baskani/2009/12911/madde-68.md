@@ -1,0 +1,7 @@
+İhalenin karara bağlanması ve onaylanması
+MADDE 68 – (1) Yapılan değerlendirme sonucu ihale toplam puanı en yüksek olan isteklinin üzerinde bırakılır ve ihale komisyonunca alınan gerekçeli karar ihale yetkilisinin onayına sunulur.
+(2) İhale kararı ihale yetkilisince onaylanmadan önce idare, ihale üzerinde kalan istekli ile varsa ikinci en yüksek toplam puana sahip isteklinin ihalelere katılmaktan yasaklı olup olmadığını Kurumdan teyit ederek buna ilişkin belgeyi ihale kararına eklemek zorundadır. Her iki isteklinin de yasaklı olduğunun anlaşılması durumunda ihale yetkilisince ihale kararı onaylanamaz ve ihale iptal edilir.
+(3) İhale yetkilisi, karar tarihini izleyen en geç beş iş günü içinde ihale kararını onaylar veya gerekçesini açıkça belirtmek suretiyle iptal eder.
+(4) İhale; kararın onaylanması halinde geçerli, iptal edilmesi halinde ise hükümsüz sayılır.
+(5) Geçici teminat hariç aday ve isteklilerce verilen teklif ve başvuru belgeleri ihale sonuçlandıktan sonra iade edilmez. Ancak, teklif veya başvuru kapsamında idareye verilen asıl belgeler ile noter onaylı suret belgeler, aday veya isteklinin talebi halinde kendisine iade edilir. Bu durumda, iade edilen asıl veya noter onaylı suret belgelerin idarece onaylı bir suretinin ihale işlem dosyasında muhafazası zorunludur.
+(6) Türk Lirası dışındaki geçici teminat olarak kabul edilen değerlerin isteklilere iadesi sırasında teminat değerlerine ilişkin belgenin aslına uygunluğu idarece onaylı bir sureti ihale işlem dosyasında muhafaza edilir.

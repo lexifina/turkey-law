@@ -1,0 +1,2 @@
+Bazı hizmet alımlarında yeterlik kriterleri
+GEÇİCİ MADDE 3 – (1) 29/6/2006 tarihli ve 5531 sayılı Orman Mühendisliği, Orman Endüstri Mühendisliği ve Ağaç İşleri Endüstri Mühendisliği Hakkında Kanunun 4 üncü maddesinde sayılan ormancılık, orman endüstrisi ve ağaç işleri endüstrisi işlerine ait mesleki konularda, danışmanlık hizmet alımlarına ilişkin olarak ilanı veya duyurusu 1/1/2011 tarihinden önce yapılacak ihalelerde, adaylardan ve isteklilerden iş deneyimini gösteren belgeler istenmez.

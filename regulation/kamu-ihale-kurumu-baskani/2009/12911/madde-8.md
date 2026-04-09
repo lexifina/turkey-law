@@ -1,0 +1,9 @@
+Tebligat esasları (Değişik Başlık:RG-18/5/2024-32550)(6)
+MADDE 8 – (Değişik: 16/03/2011-27876 R.G./3 md.; Değişik: 24/09/2013–28775 R.G/1. md.; Değişik: 07/06/2014-29023 R.G./2. md., Yürürlük: 01/01/2015)
+(1) İdareler tarafından aday, istekli ve istekli olabileceklere tebligat (Mülga ibare:RG-18/5/2024-32550)(6) EKAP üzerinden (Mülga ibare:RG-18/5/2024-32550)(6) yapılır.
+(2) EKAP üzerinden tebligat, (Değişik ibare:RG-18/5/2024-32550)(6) EKAP Yönetmeliğinde belirtilen esas ve usuller çerçevesinde gerçekleştirilir.
+(3) Tebligatın haklı veya zorunlu nedenlerle (Değişik ibare:RG-18/5/2024-32550)(6) EKAP üzerinden yapılamaması halinde (Ek ibare:RG-18/5/2024-32550)(6) imza karşılığı elden tebligat yapılması yöntemine öncelik tanınarak Kanunun 65 inci maddesinin birinci fıkrasının (a) bendinde sayılan diğer yöntemlere başvurulur.
+(4) İadeli taahhütlü mektupla yapılan tebligatta, mektubun teslim edildiği tarih tebliğ tarihi sayılır.
+(5) Faks ile yapılan tebligatta, bildirim tarihi tebliğ tarihi sayılır. Bu şekilde yapılan tebligatın aynı gün idare tarafından teyit edilmesi zorunludur. Teyit işleminin gerçekleşmiş kabul edilebilmesi için tebligatın iadeli taahhütlü mektupla bildirime çıkarılmış olması yeterlidir. Tebligatın, teyit işlemi ile bildirim tarihini kapsayacak şekilde ayrıca belgelendirilmesi gerekmektedir. Aksi takdirde tebligat usulsüz yapılmış sayılır ve Tebligat Kanununun usule aykırı tebliğe ilişkin hükümleri uygulanır.
+(6) (Değişik:RG-18/5/2024-32550)(6) İdare tarafından ortak girişimlere tebligat, pilot veya koordinatör ortağa yapılır.
+(7) Aday, istekli ve istekli olabilecekler tarafından idare ile yapılacak yazışmalarda, (Ek ibare:16.03.2019-30716 RG/2. md.; yürürlük:01.06.2019) EKAP dışında elektronik ortam ve faks kullanılamaz. (Mülga cümle:16.03.2019-30716 RG/2. md.; yürürlük:01.06.2019)

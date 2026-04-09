@@ -1,0 +1,3 @@
+Bütün tekliflerin reddedilmesi ve ihalenin iptali
+MADDE 67 – (1) İhale komisyonu kararı üzerine idare, verilmiş olan bütün teklifleri reddederek ihaleyi iptal etmekte serbesttir. İhalenin iptal edilmesi halinde bu durum gerekçeleriyle birlikte bütün isteklilere derhal bildirilir. İdare bütün tekliflerin reddedilmesi nedeniyle herhangi bir yükümlülük altına girmez.
+(2) Teklif veren istekli sayısının üçten az olması halinde ihale iptal edilir. Ancak, idare tarafından ihale dokümanı gözden geçirilerek varsa hatalar ve eksiklikler giderilmek suretiyle, kısa listede yer alan bütün adaylar tekrar davet edilerek ihale sonuçlandırılabilir.

@@ -1,0 +1,14 @@
+DÖRDÜNCÜ BÖLÜM
+Teknik Yeteneğe İlişkin Belgeler
+Aday veya isteklinin mesleki faaliyetini sürdürdüğünü ve teklif vermeye yetkili olduğunu gösteren belgeler
+MADDE 37 – (1) İhalelerde aday ve isteklilerden;
+a) Gerçek kişi olması halinde, kayıtlı olduğu ilgili meslek odasından ya da ticaret ve/veya sanayi odasından, ilk ilan tarihinin veya ihale veya son başvuru tarihinin içinde bulunduğu yılda alınmış, odaya kayıtlı olduğunu gösterir belgenin,
+b) Tüzel kişi olması halinde, ilgili mevzuatı gereği kayıtlı olduğu ticaret ve/veya sanayi odasından, ilk ilan tarihinin ya da ihale veya son başvuru tarihinin içinde bulunduğu yılda alınmış, tüzel kişiliğin odaya kayıtlı olduğunu gösterir belgenin,
+c) Gerçek kişi olması halinde, noter tasdikli imza beyannamesinin,
+ç) (Değişik:RG-20/6/2021-31517)(3) Tüzel kişi olması halinde, başvuru ya da teklif mektubunu imzalayanın noter tasdikli imza beyannamesinin,
+d) Gerçek kişi olması halinde, kayıtlı olduğu ilgili meslek odasından ya da ticaret ve/veya sanayi odasından alınmış ticaret siciline tescil veya ilgili meslek odasına kayıt tarihini gösterir belgenin,
+e) Tüzel kişi olması halinde, ticaret ve/veya sanayi odasından alınmış ticaret siciline tescil tarihini gösterir belgenin
+istenilmesi zorunludur. (Ek cümle:RG-20/6/2021-31517)(3) Tüzel kişilerde; aday veya isteklilerin yönetimindeki görevliler ile ilgisine göre, ortaklar ve ortaklık oranlarına (halka arz edilen hisseler hariç)/üyelerine/kurucularına ilişkin bilgiler idarece EKAP’tan alınır. (Değişik ibare:RG-18/5/2024-32550)(6) Yabancı aday/istekliler tarafından ise, ilgili ülke mevzuatı dikkate alınarak, belirtilen hususlara ilişkin gerekli belgeler ihalede sunulur.
+(2) Vekaleten ihaleye katılma halinde; vekil adına düzenlenmiş, ihaleye katılmaya ilişkin noter onaylı vekaletname ile vekilin noter tasdikli imza beyannamesinin sunulması zorunludur.
+(3) İş ortaklığında, iş ortaklığı beyannamesinin ve iş ortaklığını oluşturan gerçek veya tüzel kişilerin her birinin ilgisine göre birinci fıkranın (a), (b), (c) ve (ç) bentlerindeki belgeleri ayrı ayrı vermesi zorunludur. Konsorsiyumda ise konsorsiyum beyannamesinin ve konsorsiyumu oluşturan gerçek veya tüzel kişilerin her biri tarafından ilgisine göre birinci fıkranın (a), (b), (c) ve (ç) bentlerindeki belgelerin ayrı ayrı verilmesi zorunludur. Birinci fıkranın (d) ve (e) bentlerindeki belgeleri iş ortaklığında pilot ortak, konsorsiyumda ise koordinatör ortak tarafından verilmesi zorunludur.
+(4) İhale konusu işin yerine getirilmesi için alınması zorunlu olan ve ilgili mevzuatında o iş için özel olarak düzenlenen sicil, izin, ruhsat vb. belgelerin adaylar veya istekliler tarafından sunulmasına ilişkin hükümlere, ilan ve ön yeterlik şartnamesi veya idari şartnamede yer verilir. İş ortaklarının her birinin söz konusu belgeleri ayrı ayrı sunması, konsorsiyumda ise her bir ortağın kendi kısmına ilişkin belgeleri sunması zorunludur.
