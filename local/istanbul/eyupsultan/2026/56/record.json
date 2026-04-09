@@ -1,0 +1,22 @@
+{
+  "number": "56",
+  "number_as_published": "2026/56",
+  "year": 2026,
+  "title": "Sokak adı silinmesi",
+  "decision_date": "2026-04-09",
+  "source": "https://eyupsultan.bel.tr/tr/main/pages/2026-nisan-ayi-meclis-kararlari/2821",
+  "official_document": "https://eyupsultan.bel.tr/tr/main/pages/2026-56/2848",
+  "source_sha256": "1f603e77ee40437ca2db25f83dee953a8bf668a9ea87082a9ec9517075008047",
+  "issuer": "Eyüpsultan Belediye Meclisi",
+  "history_type": "metadata",
+  "text_status": "metadata-only: listing fields as published; complete decision text is in the linked official document, not transcribed",
+  "in_force": "2026-04-09",
+  "in_force_basis": "Decision date as printed in the official council listing: 09.04.2026 (meeting date at the start of the decision page); adoption date of the council decision; legal commencement not asserted",
+  "missing": [
+    "complete official decision text",
+    "official annexes"
+  ],
+  "law_text_complete": false,
+  "privacy_withheld": false,
+  "decision_page_sha256": "a372ae633a9d1c5ca1164d21dc2e5fedd9561cb3ba040a279e98f95b72d372a9"
+}
