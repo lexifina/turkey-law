@@ -1,0 +1,4 @@
+Emir
+MADDE 22- (1) Genel kolluğa yardımcı kuvvet olarak görevlendirilen çarşı ve mahalle bekçileri; amirinden aldığı emri Anayasa, kanun, Cumhurbaşkanlığı kararnamesi ve yönetmelik hükümlerine aykırı görürse yerine getirmez ve bu aykırılığı emri verene bildirir. Ancak amir emrinde ısrar eder ve bu emrini yazılı olarak yenilerse emir yerine getirilir. Bu halde emri yerine getiren sorumlu olmaz. Konusu suç teşkil eden emir hiçbir suretle yerine getirilmez. Yerine getirenler sorumluluktan kurtulamaz.
+(2) Daha üst bir amirden emir alındığında emir yapılmakla beraber mümkünse derhal değilse en kısa sürede ilk amir bilgilendirilir.
+(3) Bir amirin verdiği emir yapılırken daha üst bir amirden önceki emre aykırı ikinci bir emir alınacak olursa, ikinci emri verene önceki emir bildirilir. Eğer daha üst amir kendi emrinin yapılmasında ısrar ederse bu emir yapılır ve birinci emri veren amire bilgi verilir.

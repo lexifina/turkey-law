@@ -1,0 +1,17 @@
+Göreve Hazır Olma, Devriye Usulleri, Yardım İsteme
+Kıyafet ve teçhizat
+MADDE 8- (1) Çarşı ve mahalle bekçilerinin görevde iken üzerinde bulunması gereken teçhizat şunlardır:
+a) Teçhizat kemeri; bel kemerinin üzerine haricen takılan ve üzerinde silah, kelepçe, gaz spreyi gibi teçhizatın taşınmasına imkan sağlayan, kaliteli malzemeden üretilen kemerdir.
+b) Tabanca kılıfı; tabanca gövdesi dışarıdan görülmeyecek şekilde yapılmış kılıftır.
+c) Zati demirbaş tabanca ve yedek şarjörü; 17/3/1989 tarihli ve 20111 sayılı Resmî Gazete’de yayımlanan Emniyet Hizmetleri Sınıfı Personeline Görevlerinde Kullanılmak Üzere Bedeli Mukabili Zati Demirbaş Tabanca Satışına Dair Yönetmelik ile 3/9/2020 tarihli ve 31233 sayılı Resmî Gazete’de yayımlanan Jandarma Genel Komutanlığı ve Sahil Güvenlik Komutanlığı Personeline Görevlerinde Kullanılmak Üzere Bedeli Mukabili Zatî Demirbaş Tabanca Satışına Dair Yönetmelik hükümleri gereği verilen tabanca ve yedek şarjörüdür.
+ç) Kelepçe; uluslararası standartlara göre üretilen, zor kullanmanın gereklerine uygun yapıda ve dayanıklılıkta imal edilen, kişileri denetim altına alma aracıdır.
+d) Gaz spreyi; kıyafet üzerinde taşınması için uygun büyüklükte üretilen, bireysel kullanım amaçlı, kullanımı pratik nitelikte, ülkemizin taraf olduğu uluslararası düzenlemelere uygun özellikte imal edilen savunma ve zor kullanma aracıdır.
+e) Cop veya teleskopik cop; cop, emniyet ve asayiş hizmetlerinde kullanılan ve Genel Müdürlük ile Genel Komutanlık tarafından özellikleri belirlenen savunma ve zor kullanma aracıdır. Teleskopik cop ise emniyet ve asayiş hizmetlerinde kullanılan ve Genel Müdürlük ile Genel Komutanlık tarafından özellikleri belirlenen, açılıp kapanabilir nitelikte olan, metal ve benzeri sert malzemeden yapılan savunma ve zor kullanma aracıdır.
+f) Çok kullanımlı çakı; tornavida, pense, bıçak gibi özellikleri bünyesinde barındıran araçtır.
+g) El feneri; kıyafet üzerinde taşınması için uygun büyüklükte imal edilen aydınlatma aracıdır.
+ğ) Düdük; ses bildirim veya uyarı amacıyla kullanılan araçtır.
+(2) Günün koşul ve ihtiyaçlarına göre birinci fıkrada belirtilen teçhizat, Genel Müdürlükte Strateji Geliştirme Dairesi Başkanlığının uygun görüşü alınarak Genel Müdür, Genel Komutanlıkta Lojistik Başkanlığının uygun görüşü alınarak Genel Komutanın onayı ile artırılabilir. Ancak; acil veya zorunlu durumlarda veya ifa edilecek görevin niteliğine göre gerektiğinde, öngörülen uygun görüş ve onay işlemi aranmaksızın ilgili personele ilave teçhizat yetkili amirince verilebilir.
+(3) Çarşı ve mahalle bekçilerine birinci fıkrada belirtilen teçhizatının yanı sıra, görevde sürat ve kolaylığı sağlamak, daha tesirli ve verimli kılmak ve kolay haberleşme için telsiz ve lüzumu halinde diğer ateşli silah ve teçhizat verilebilir. Bu silah ve teçhizatlar görev bitiminde geri alınır.
+(4) Çarşı ve mahalle bekçilerine zati demirbaş tabanca verilinceye kadar zimmet karşılığı envanterdeki tabancalardan verilir.
+(5) Çarşı ve mahalle bekçilerinin görevde iken bu madde kapsamında kendisine verilen teçhizatı taşımaları zorunludur. Görev dışında zati demirbaş tabanca hariç diğer teçhizat taşınmayabilir.
+(6) Çarşı ve mahalle bekçileri, 15/8/2007 tarihli ve 26614 sayılı Resmî Gazete’de yayımlanan Emniyet Hizmetleri Sınıfı Mensupları Kıyafet Yönetmeliğinde belirlenmiş kıyafetler ile görev yaparlar. Arma, kokart ve üniformada kullanılacak semboller ile benzeri diğer hususlar istihdam edildikleri teşkilatın ilgili mevzuatına göre belirlenir.

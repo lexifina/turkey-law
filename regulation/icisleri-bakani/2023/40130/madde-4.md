@@ -1,0 +1,4 @@
+İstihdam
+MADDE 4- (1) 7245 sayılı Kanun uyarınca genel kolluk kuvvetlerine yardımcı olmak üzere, emniyet ve jandarma teşkilatları bünyesinde silahlı bir kolluk olarak çarşı ve mahalle bekçileri istihdam edilir.
+(2) Polis memuru ve üstü rütbelerde bulunan personel, Genel Müdürlük bünyesinde istihdam edilen çarşı ve mahalle bekçilerinin rütbece üstü, kadro ve kuruluş yönünden bağlı oldukları ve amir olarak yetkilendirilmiş olan diğer personel ise amiridir.
+(3) Subay, astsubay ve uzman jandarma çavuşlar Genel Komutanlık bünyesinde istihdam edilen çarşı ve mahalle bekçilerinin rütbece üstü, kadro ve kuruluş yönünden bağlı oldukları ve amir olarak yetkilendirilmiş olan diğer personel ise amiridir. Jandarma uzman erbaşlar, sözleşmeli erbaş ve erler, erbaş ve erler, jandarma hizmetleri sınıfı dışındaki memurlar ile çarşı ve mahalle bekçileri arasında astlık ve üstlük münasebeti yoktur.
