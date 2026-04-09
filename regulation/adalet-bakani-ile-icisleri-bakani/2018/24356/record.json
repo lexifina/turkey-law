@@ -1,0 +1,71 @@
+{
+  "source_id": "7.5.24356",
+  "kind": "regulation",
+  "register_kind": "Kurum ve Kuruluş Yönetmelikleri",
+  "title": "ARAÇLARIN SATIŞ, DEVİR VE TESCİL HİZMETLERİNİN YÜRÜTÜLMESİ HAKKINDA YÖNETMELİK",
+  "number": "24356",
+  "issuer": "Adalet Bakanı ile İçişleri Bakanı",
+  "issuer_slug": "adalet-bakani-ile-icisleri-bakani",
+  "path": "regulation/adalet-bakani-ile-icisleri-bakani/2018/24356",
+  "source": "https://www.mevzuat.gov.tr/anasayfa/MevzuatFihristDetayIframe?MevzuatTur=7&MevzuatNo=24356&MevzuatTertip=5",
+  "source_sha256": "fecedd6e3f17030e434e1b20959ac8849e56e1779ce25802b39ade4e53560d4e",
+  "source_bytes": 243739,
+  "published": "2018-01-31",
+  "gazette": "30318",
+  "in_force": "2026-04-09",
+  "in_force_basis": "latest Resmî Gazete date printed in the source amendment notes/table (\"RG-9/4/2026\") for the current consolidated text",
+  "date_evidence": [
+    [
+      "2026-04-09",
+      "RG-9/4/2026",
+      "Resmî Gazete date printed in the source amendment note"
+    ],
+    [
+      "2026-04-09",
+      "9/4/2026",
+      "Resmî Gazete date in the source amendment table"
+    ],
+    [
+      "2024-12-04",
+      "RG-4/12/2024",
+      "Resmî Gazete date printed in the source amendment note"
+    ],
+    [
+      "2024-12-04",
+      "4/12/2024",
+      "Resmî Gazete date in the source amendment table"
+    ],
+    [
+      "2022-12-29",
+      "RG-29/12/2022",
+      "Resmî Gazete date printed in the source amendment note"
+    ],
+    [
+      "2022-12-29",
+      "29/12/2022",
+      "Resmî Gazete date in the source amendment table"
+    ],
+    [
+      "2020-03-18",
+      "18/3/2020",
+      "Resmî Gazete date in the source amendment table"
+    ]
+  ],
+  "commencement_clauses": [
+    "Bu Yönetmelik yayımı tarihinde yürürlüğe girer"
+  ],
+  "history": "current-text",
+  "label": "oldest version available",
+  "checked_on": "2026-11-15",
+  "word_count": 16307,
+  "text_status": "current-consolidated",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  },
+  "source_links": [
+    "7.5.24356-Ek.doc"
+  ],
+  "completeness": "html-text-complete; linked annexes not fetched"
+}
