@@ -1,0 +1,96 @@
+{
+  "source_id": "7.5.12918",
+  "kind": "regulation",
+  "register_kind": "Kurum ve Kuruluş Yönetmelikleri",
+  "title": "HİZMET ALIMI İHALELERİ UYGULAMA YÖNETMELİĞİ",
+  "number": "12918",
+  "issuer": "Kamu İhale Kurumu Başkanı",
+  "issuer_slug": "kamu-ihale-kurumu-baskani",
+  "path": "regulation/kamu-ihale-kurumu-baskani/2009/12918",
+  "source": "https://www.mevzuat.gov.tr/anasayfa/MevzuatFihristDetayIframe?MevzuatTur=7&MevzuatNo=12918&MevzuatTertip=5",
+  "source_sha256": "2f752076f766f31835cd9c2a9a09092b6346125bc3afaaf827a9e38cc33c52e8",
+  "source_bytes": 328700,
+  "published": "2009-03-04",
+  "gazette": "27159 Mükerrer",
+  "in_force": "2026-04-09",
+  "in_force_basis": "latest Resmî Gazete date printed in the source amendment notes/table (\"RG-9/4/2026\") for the current consolidated text",
+  "date_evidence": [
+    [
+      "2026-04-09",
+      "RG-9/4/2026",
+      "Resmî Gazete date printed in the source amendment note"
+    ],
+    [
+      "2026-04-09",
+      "9/4/2026",
+      "Resmî Gazete date in the source amendment table"
+    ],
+    [
+      "2025-09-01",
+      "1/9/2025",
+      "Resmî Gazete date in the source amendment table"
+    ],
+    [
+      "2025-08-01",
+      "1/8/2025",
+      "Resmî Gazete date in the source amendment table"
+    ],
+    [
+      "2025-07-30",
+      "RG-30/7/2025",
+      "Resmî Gazete date printed in the source amendment note"
+    ],
+    [
+      "2025-07-30",
+      "30/7/2025",
+      "Resmî Gazete date in the source amendment table"
+    ],
+    [
+      "2024-05-18",
+      "RG-18/5/2024",
+      "Resmî Gazete date printed in the source amendment note"
+    ],
+    [
+      "2024-05-18",
+      "18/5/2024",
+      "Resmî Gazete date in the source amendment table"
+    ],
+    [
+      "2023-10-27",
+      "27/10/2023",
+      "Resmî Gazete date in the source amendment table"
+    ],
+    [
+      "2023-01-17",
+      "17/1/2023",
+      "Resmî Gazete date in the source amendment table"
+    ],
+    [
+      "2022-12-29",
+      "29/12/2022",
+      "Resmî Gazete date in the source amendment table"
+    ],
+    [
+      "2022-05-18",
+      "18/5/2022",
+      "Resmî Gazete date in the source amendment table"
+    ]
+  ],
+  "commencement_clauses": [
+    "Bu Yönetmelik 5/3/2009 tarihinde yürürlüğe girer"
+  ],
+  "history": "current-text",
+  "label": "oldest version available",
+  "checked_on": "2026-11-15",
+  "word_count": 21605,
+  "text_status": "current-consolidated",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  },
+  "source_links": [
+    "7.5.12918-Ek.zip"
+  ],
+  "completeness": "html-text-complete; linked annexes not fetched"
+}

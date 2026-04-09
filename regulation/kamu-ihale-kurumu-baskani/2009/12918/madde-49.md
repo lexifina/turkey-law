@@ -1,0 +1,7 @@
+İş deneyim tutarının güncellenmesi
+MADDE 49 – (Değişik: RG-13/8/2018-30508)
+(1) İş deneyimini gösteren belgelerde yazılı tutarlar aşağıdaki şekilde güncellenir:
+a) 4734 sayılı Kanun kapsamında ihale edilmiş işlere ilişkin iş deneyimini gösteren belgeler, belgeye konu işin ihale tarihinin içinde bulunduğu aydan bir önceki aya ait endeksin, ilk ilan veya davet tarihinin içinde bulunduğu aydan bir önceki aya ait endekse oranlanması suretiyle bulunan katsayı üzerinden güncellenir.
+b) (a) bendi dışında kalan işlere ilişkin iş deneyimini gösteren belgeler, belgeye konu işin sözleşmesinin yapıldığı aydan bir önceki aya ait endeksin, ilk ilan veya davet tarihinin içinde bulunduğu aydan bir önceki aya ait endekse oranlanması suretiyle bulunan katsayı üzerinden güncellenir.
+c) Alt yüklenici iş bitirme belgeleri, yüklenici ile alt yüklenici arasında imzalanan sözleşmenin tarihi esas alınarak güncellenir.
+(2) Yabancı para birimi cinsinden sözleşmeye bağlanan işlere ilişkin olarak; 4734 sayılı Kanun kapsamında ihale edilmiş işlere ilişkin iş deneyimini gösteren belgeler, belgeye konu işin ihale tarihinde; alt yüklenici iş bitirme belgeleri dahil diğer belgeler ise belgeye konu işin sözleşme tarihinde Resmî Gazete’de yayımlanan Türkiye Cumhuriyet Merkez Bankası döviz alış kuru üzerinden Türk Lirasına çevrilir. Bulunan bu tutar; 4734 sayılı Kanun kapsamında ihale edilerek yabancı para birimi cinsinden sözleşmeye bağlanan işlerde birinci fıkranın (a) bendine göre, bu kapsama girmeyen işlerde ise, birinci fıkranın (b) bendine göre güncellenir.

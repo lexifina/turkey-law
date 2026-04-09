@@ -1,0 +1,2 @@
+Geçiş hükümleri (Ek madde: 7/6/2014–29023 R.G./ 45. md.)
+GEÇİCİ MADDE 12 – (1) Bu maddenin yürürlüğe girdiği tarihten önce ilanı veya yazılı olarak duyurusu yapılmış olan ihaleler, ilanın veya duyurunun yapıldığı tarihte yürürlükte olan yönetmelik hükümlerine göre sonuçlandırılır. Ancak, bu maddeyi yürürlüğe koyan Yönetmeliğin 9, 13, 20, 21, 32 nci maddelerinde yer alan hükümler ilan veya duyuru tarihlerine bakılmaksızın bu maddenin yürürlüğe girdiği tarihten itibaren uygulanır.

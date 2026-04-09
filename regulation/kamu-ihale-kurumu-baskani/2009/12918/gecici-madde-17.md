@@ -1,0 +1,2 @@
+Başlamış olan ihaleler (Ek madde: 19/06/2018-30453/m RG/ 30. md.)
+GEÇİCİ MADDE 17 – (1) Bu maddeyi yürürlüğe koyan Yönetmeliğin yürürlüğe girdiği tarihten önce ilanı veya duyurusu yapılmış olan ihaleler, ilanın veya duyurunun yapıldığı tarihte yürürlükte olan yönetmelik hükümlerine göre sonuçlandırılır. Ancak, bu maddeyi yürürlüğe koyan Yönetmeliğin 4 ve 8 inci maddelerinde yer alan hükümler ilan veya duyuru tarihlerine bakılmaksızın ilgili maddenin yürürlüğe girdiği tarihten itibaren uygulanır.

@@ -1,0 +1,2 @@
+Uygulanmaya başlama süresi (Ek madde: 30/09/2020-31260 R.G/9. md., yürürlük: 20/10/2020; Değişik madde: 26/01/2021-31376 R.G/2. md.)
+GEÇİCİ MADDE 23 – (1) 30/9/2020 tarihli ve 31260 sayılı Resmî Gazete’de yayımlanan Hizmet Alımı İhaleleri Uygulama Yönetmeliğinde Değişiklik Yapılmasına Dair Yönetmeliğin 6 ncı maddesi ile 59/A maddesinde yapılan değişiklikler; söz konusu değişikliklere ilişkin gerekli teknik altyapının tamamlandığının tespitine yönelik Kurul tarafından alınacak kararın 15 gün sonrasına kadar uygulanmaz.
