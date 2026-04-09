@@ -1,0 +1,2 @@
+Erasmus öğrencisi
+MADDE 22 – (1) Öğrencilere Erasmus Programı veya benzeri uluslar arası eğitim-öğretim programlarından yararlanabilmeleri veya araştırma yapmaları ve tez hazırlamaları için gerekli yurtiçi ve yurtdışı izinler verilir. Gelen Erasmus öğrencilerinin veya Akademinin katıldığı benzer uluslararası eğitim-öğretim programları veya yapılan ikili anlaşmalar gereği yüksekokula gelen öğrencilerin iaşe ve ibateleri yüksekokul müdürlüğünce sağlanır.

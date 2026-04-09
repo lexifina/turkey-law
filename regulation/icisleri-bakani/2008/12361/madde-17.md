@@ -1,0 +1,5 @@
+Sınav sonuçlarının ilanı ve itiraz
+MADDE 17 – (Değişik:RG-23/1/2025-32791)
+(1) Dersi okutan öğretim elemanları tarafından yapılan sınav sonuçları, yüksekokul çalışma takviminde belirtilen tarihte, ortak sınav yöntemi ile yapılan sınav sonuçları ise Başkanlığın belirlediği tarihte eş zamanlı olarak ilan edilir. Sınav sonuçları, öğrenci tarafından herhangi bir tebligata gerek kalmaksızın takip edilmek zorundadır.
+(2) Sınav sonuçlarına sadece maddi hata yönünden yapılacak itirazlar, sınav sonucunun ilanından itibaren en geç yirmi dört saat içinde yüksekokul müdürlüğüne yapılır ve içerisinde o dersi veren öğretim elemanının da bulunduğu en az üç öğretim elemanından oluşan komisyon tarafından en geç üç gün içinde karara bağlanır. Sözlü ve uygulamalı sınav sonuçlarına itiraz edilemez.
+(3) Sınav evrakı, ilişik kesme veya mezuniyetten itibaren bir yıl süreyle, dava konusu olması durumunda ise davanın kesin karara bağlanmasına kadar ilgili birimde muhafaza edilir ve bu sürenin bitiminde tutanakla imha edilir.

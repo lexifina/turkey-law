@@ -1,0 +1,2 @@
+Eğitim-öğretime ara verme zamanları
+MADDE 9 – (1) Yüksekokullarda eğitim-öğretimin yapılmasını önemli ölçüde etkileyecek olağanüstü durumlarda yönetim kurulunun teklifi ve Başkanın onayı ile eğitim-öğretime ara verilebilir. Bu şekilde ara verme, bir haftada üç gün veya daha fazla olacak olursa ara verilen süre yarıyıla eklenir. Bu durumda eğitim-öğretimine ara verilen yüksekokulun çalışma takvimi yeniden düzenlenir.

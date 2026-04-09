@@ -1,0 +1,3 @@
+Diploma derecesinin ve mezuniyet derecesinin hesaplanması
+MADDE 20 – (1) Diploma derecesinin ve mezuniyet sıralamasının hesaplanması ile ilgili diğer hususlar, not dökümü verilmesi ve Avrupa Kredi Transfer Sistemi kredilerine karşılık gelen diploma ekine ilişkin esaslar Başkanlıkça çıkartılacak bir Yönerge ile belirlenir.
+(2) (Değişik:RG-13/7/2015-29415) Yapılacak eğitim sonu sınavında başarılı olan öğrencilerin atamaya esas mezuniyet sıralaması birinci fıkrada belirtilen hususlara göre yapılır. Genel Müdürlük kadrolarına aday memur olarak atanmaları için 6/8/1992 tarihli ve 92/3393 sayılı Bakanlar Kurulu Kararı ile yürürlüğe giren Emniyet Hizmetleri Sınıfı Mensupları Atama ve Yer Değiştirme Yönetmeliğinin ilgili hükümleri uygulanır.

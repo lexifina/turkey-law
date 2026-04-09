@@ -1,0 +1,3 @@
+Haftalık ve günlük eğitim-öğretim süresi
+MADDE 8 – (1)(Değişik:RG-13/7/2015-29415) Yüksekokullarda haftada en çok yirmi sekiz saat ders yapılır. Ders süresi kırk beş dakika olup, her ders arasında on beş dakika dinlenme arası verilir, ancak öğretim elemanlarınca dersler iki ders saatini geçmemek üzere birleştirilerek de yapılabilir. Günlük zaman çizelgesi yüksekokul müdürünün onayı ile yürütülür. Ders dışı zamanlar, öğrencilerin ihtiyaçları doğrultusunda, günübirlik izin, araştırma, inceleme gezileri, konferans, seminer veya diğer eğitici çalışmalara ayrılır.
+(2) Ders saatlerinden ayrı olarak Cuma ve Cumartesi dışındaki günlerde akşamları en az bir ders saati etüt yapılır. Tatil günleri ve ertesi gün ders yapılmayacaksa etüt yapılmaz.

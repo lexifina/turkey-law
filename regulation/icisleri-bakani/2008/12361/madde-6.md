@@ -1,0 +1,4 @@
+Eğitim-öğretim şekli ve süresi
+MADDE 6 – (1) (Değişik:RG-23/1/2025-32791) Yüksekokullarda eğitim-öğretim sınıf geçmeye dayalı yarıyıl esasına göre yapılır. Eğitim-öğretim süresi dört yarıyıl olmak üzere iki yıl olup, öğrenimlerini bu süre içinde tamamlayamayanlara iki yarıyıl olmak üzere bir yıl ek süre tanınır. Öğrenimlerini toplam altı yarıyıl olmak üzere üç yıl içerisinde tamamlayamayacağı anlaşılan öğrencilerin bulundukları sınıfa bakılmaksızın yüksekokuldan ilişikleri kesilir.
+(2) (Değişik:RG-23/1/2025-32791) Eğitim-öğretim yılı, sınavlarda verilen süre hariç en az 14’er haftalık güz ve bahar yarıyıllarından oluşur. İki yarıyıl arasında en az iki hafta süre ile eğitim-öğretime ara verilir.
+(3) Birinci sınıfı bitiren yüksekokul öğrencileri yaz tatilinde en az bir ay süre ile İl Emniyet Müdürlükleri bünyesinde uygulamalı eğitime (staj) tabi tutulurlar.

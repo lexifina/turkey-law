@@ -1,0 +1,2 @@
+Mazeret sınavları
+MADDE 16 – (1) Yüksekokul müdürlüğünce kabul edilebilir bir mazereti sebebiyle ara, yarıyıl sonu, (Mülga ibare:RG-23/1/2025-32791) bütünleme veya ek sınavına giremeyen öğrenciler mazeretlerinin ortadan kalkmasını müteakip mazeret sınavına alınırlar. Mazeretsiz katılmama veya mazeretin yüksekokul müdürlüğünce kabul edilmemesi halinde mazeret sınavı yapılmaz. Bu durumdaki öğrenci sıfır not almış sayılır.

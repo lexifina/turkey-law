@@ -1,0 +1,4 @@
+Diploma
+MADDE 19 – (1) Yüksekokuldaki eğitim-öğretimi başarı ile bitiren öğrencilere, Akademi tarafından tespit edilerek yüksekokul müdürlüğü tarafından tanzim edilen Polis Meslek Yüksekokulu Ön Lisans Diploması verilir. Diplomada, yüksekokul müdürü ile Başkanın imzaları bulunur.
+(2) (Değişik:RG-19/3/2014-28946) Diplomasını kaybedenlere, istekleri halinde mezun oldukları yüksekokul müdürlüğünce mezuniyet belgesi verilir. Mezuniyet belgesinin kaybedilmesi durumunda yeniden belge verilmez. Ancak durumları yazı ile ilgili kurum veya kuruluşa bildirilir.
+(3)(Ek:RG-19/3/2014-28946)(Değişik:RG-13/7/2015-29415) Öğrencilere eğitim öğretim dönemi içinde ve mezuniyette not dökümü (transkript), mezuniyet belgesi ve diploma eki belgeleri birer defa ücretsiz olarak verilir. Daha sonraki taleplerde Başkanlık Yönetim Kurulu tarafından tespit edilecek ücretler, Başkanlık Döner Sermaye İşletmesi Müdürlüğü hesabına yatırılır.

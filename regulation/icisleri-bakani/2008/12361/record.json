@@ -1,0 +1,83 @@
+{
+  "source_id": "7.5.12361",
+  "kind": "regulation",
+  "register_kind": "Kurum ve Kuruluş Yönetmelikleri",
+  "title": "POLİS MESLEK YÜKSEKOKULLARI EĞİTİM-ÖĞRETİM YÖNETMELİĞİ",
+  "number": "12361",
+  "issuer": "İçişleri Bakanı",
+  "issuer_slug": "icisleri-bakani",
+  "path": "regulation/icisleri-bakani/2008/12361",
+  "source": "https://www.mevzuat.gov.tr/anasayfa/MevzuatFihristDetayIframe?MevzuatTur=7&MevzuatNo=12361&MevzuatTertip=5",
+  "source_sha256": "f66f10d621772c73d3c3f7807d5c887068430c51c0897d64c91a47fdc619911a",
+  "source_bytes": 83335,
+  "published": "2008-08-17",
+  "gazette": "26970",
+  "in_force": "2026-04-09",
+  "in_force_basis": "latest Resmî Gazete date printed in the source amendment notes/table (\"RG-9/4/2026\") for the current consolidated text",
+  "date_evidence": [
+    [
+      "2026-04-09",
+      "RG-9/4/2026",
+      "Resmî Gazete date printed in the source amendment note"
+    ],
+    [
+      "2026-04-09",
+      "9/4/2026",
+      "Resmî Gazete date in the source amendment table"
+    ],
+    [
+      "2025-01-23",
+      "RG-23/1/2025",
+      "Resmî Gazete date printed in the source amendment note"
+    ],
+    [
+      "2025-01-23",
+      "23/1/2025",
+      "Resmî Gazete date in the source amendment table"
+    ],
+    [
+      "2022-03-19",
+      "RG-19/3/2022",
+      "Resmî Gazete date printed in the source amendment note"
+    ],
+    [
+      "2022-03-19",
+      "19/3/2022",
+      "Resmî Gazete date in the source amendment table"
+    ],
+    [
+      "2015-07-13",
+      "RG-13/7/2015",
+      "Resmî Gazete date printed in the source amendment note"
+    ],
+    [
+      "2015-07-13",
+      "13/7/2015",
+      "Resmî Gazete date in the source amendment table"
+    ],
+    [
+      "2014-03-19",
+      "RG-19/3/2014",
+      "Resmî Gazete date printed in the source amendment note"
+    ],
+    [
+      "2014-03-19",
+      "19/3/2014",
+      "Resmî Gazete date in the source amendment table"
+    ]
+  ],
+  "commencement_clauses": [
+    "Bu Yönetmelik yayımı tarihinde yürürlüğe girer"
+  ],
+  "history": "current-text",
+  "label": "oldest version available",
+  "checked_on": "2026-11-15",
+  "word_count": 3739,
+  "text_status": "current-consolidated",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  },
+  "completeness": "html-text-complete"
+}

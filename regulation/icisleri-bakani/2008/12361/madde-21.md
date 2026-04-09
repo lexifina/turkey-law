@@ -1,0 +1,3 @@
+Mecburi hizmet ve yapılan masrafların geri alınması
+MADDE 21 – (1) (Değişik:RG-13/7/2015-29415) Bu Yönetmeliğin 20 nci maddesi ikinci fıkrası hükümlerine göre atananlar altı yıl süre ile mecburi hizmet ile yükümlüdürler.
+(2) Yüksekokuldan mezun olup olmadığına bakılmaksızın mecburi hizmetle yükümlü olduğu süre içinde, istifa edenler veya ilişiğinin kesilmesini gerektiren bir suç işleyenler, ölüm ya da sağlık sebebi hariç başka herhangi bir sebeple ayrılanlar, yükümlülük sürelerinin eksik kısmı ile orantılı olarak kendilerine yapılmış olan öğretim masraflarını Polis Akademisi Tazminat Yönetmeliği hükümlerine göre ödemek zorundadırlar. Eğitim-öğretimin başladığı ilk günden itibaren çıkan veya çıkarılan öğrencilerden tazminat talep edilir.

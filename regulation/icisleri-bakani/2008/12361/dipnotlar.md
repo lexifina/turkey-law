@@ -1,0 +1,1 @@
+[1] 23/1/2025 tarihli ve 32791 sayılı Resmî Gazete’de yayımlanan değişiklik ile bu Yönetmeliğin birinci bölümünün başlığı “Amaç, Kapsam, Dayanak ve Tanımlar” iken metne işlendiği şekilde değiştirilmiştir.

@@ -1,0 +1,30 @@
+Tanımlar
+MADDE 4 – (1) Bu Yönetmeliğin uygulanmasında;
+a) Akademi: Polis Akademisi Başkanlığını,
+b) Akademisyen: Kadrolu Emniyet Hizmetleri sınıfı dışındaki kadrolu öğretim elemanlarını,
+c) AKTS: Avrupa Kredi Transfer Sistemini,
+ç) Bakan: İçişleri Bakanını,
+d) Başkan: Polis Akademisi Başkanını,
+e) Başkanlık: Polis Akademisi Başkanlığını,
+f) (Değişik:RG-23/1/2025-32791) Başarı harfleri: Derslerde notlara karşılık gelen harfleri,
+g) Çalışma takvimi: Polis Meslek Yüksekokulları eğitim-öğretim çalışma takvimini,
+ğ) Dönem: Eğitim-öğretim yarıyılını,
+h) (Değişik:RG-23/1/2025-32791) Eğitim ve Öğretim Yüksek Kurulu: Polis Akademisi Eğitim ve Öğretim Yüksek Kurulunu,
+ı) Eğitim-Öğretim Kurulu: Polis Meslek Yüksekokulu Eğitim-Öğretim Kurulunu,
+i) Erasmus öğrencisi: Avrupa Birliği Gençlik ve Eğitim Programları kapsamında yer alan Erasmus Programı çerçevesinde Yüksekokula gelen veya Yüksekokuldan giden öğrenciyi,
+j) Erasmus Programı: Avrupa Birliği Gençlik ve Eğitim Programları kapsamında yer alan öğrenci ve öğretim elemanı değişim programını,
+k) Genel Müdür: Emniyet Genel Müdürünü,
+l) Genel Müdürlük: Emniyet Genel Müdürlüğünü,
+m) Giriş yönetmeliği: 17/5/2008 tarihli ve 26879 sayılı Resmî Gazete’de yayımlanan Polis Meslek Yüksek Okulları Giriş Yönetmeliğini,
+n) (Değişik:RG-23/1/2025-32791) Katsayı: Derslerin ağırlık değerini,
+o) Kredi: Yüksekokullarda okutulan dersler için belirlenen değeri,
+ö) (Mülga:RG-23/1/2025-32791)
+p) (Mülga:RG-23/1/2025-32791)
+r) Kopya: Sınavda izin verilen kaynaklar dışında kaynak kullanmayı ve başka öğrencilerden faydalanmayı,
+s) Öğrenci: Polis Meslek Yüksekokul Öğrencilerini,
+ş) Yarıyıl: Eğitim-öğretim yarıyılını,
+t) Yüksekokul Müdürü: Polis Meslek Yüksekokulu Müdürünü,
+u) Yüksekokul Müdürlüğü: Polis Meslek Yüksekokulu Müdürlüğünü,
+ü) Yönetim Kurulu: Polis Meslek Yüksekokulu Yönetim Kurulunu,
+v) (Ek:RG-23/1/2025-32791) Ortak sınav: Başkanlık tarafından yüksekokul müdürlüklerinde eş zamanlı yapılan sınavları,
+ifade eder.

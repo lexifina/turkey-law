@@ -1,0 +1,4 @@
+Okutulacak dersler
+MADDE 18 – (1) (Değişik:RG-23/1/2025-32791) Derslerin kredi değerleri Eğitim ve Öğretim Yüksek Kurulu tarafından belirlenir.
+(2) Okutulan dersler, Erasmus programı veya benzeri uluslararası eğitim-öğretim programları veya ikili anlaşmalar gereği İngilizce de verilebilir. Yüksekokul öğrencilerinden dil seviyeleri yeterli görülenler bu dersleri alabilirler. Erasmus öğrencileri veya benzeri uluslar arası eğitim-öğretim programları veya ikili anlaşmalar gereği yüksekokula gelen öğrenciler ihtiyaç duydukları kredilere karşılık gelen dersleri her sınıftan alabilirler.
+(3) Yüksekokullarda okutulacak dersler, mesleki ihtiyaç ve gelişmelere göre hazırlanıp, Eğitim-Öğretim Yüksek Kurulunun kararı, Başkanın teklifi, Genel Müdürün onayı ile yürürlüğe girer. Derslerin müfredatı ise Eğitim-Öğretim Yüksek Kurulunun kararıyla belirlenir.

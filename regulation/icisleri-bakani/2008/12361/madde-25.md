@@ -1,0 +1,3 @@
+Uygulamalı mesleki eğitim
+MADDE 25 – (1) Yüksekokulların birinci sınıfını bitiren öğrenciler görmüş oldukları eğitimlerin uygulamalarını ve yapılan işlemleri öğrenmek ve memurluk vasıflarını kazanmalarını sağlamak maksadıyla Başkanın teklifi ile Genel Müdürün onaylayacağı illerdeki uygun görülen birimlerde, ilgili mevzuat hükümleri çerçevesinde, uygulamalı mesleki eğitim (staj) yaparlar.
+(2) Uygulamalı eğitim yapan öğrencilerden geçerli mazeretleri nedeniyle uygulamalı eğitime katılmayan ya da uygulamalı eğitimi tamamlamayan öğrenciler mazeretlerinin sona ermesinden itibaren uygulamalı eğitimine devam ederler. Ancak eğitim-öğretimin başlaması durumunda ise hafta sonu ya da yarıyıl tatilinde bu eğitimler yüksekokul müdürlüğünce tamamlattırılır.
