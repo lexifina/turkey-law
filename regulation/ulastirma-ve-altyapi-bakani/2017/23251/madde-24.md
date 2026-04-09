@@ -1,0 +1,9 @@
+Yetkilerin Kısıtlanması veya Askıya Alınması ve Yetkinin İptali
+Bakanlığa ödenecek ücretler
+MADDE 24 – (1) YK, yetkilendirme protokolü kapsamında vermiş olduğu hizmetlerle ilgili olarak, uluslararası sefer yapan Türk bayraklı gemilerden yasal sertifika düzenlediği gemiler için stabilite kitapçığı ile her bir sertifika başına 300 TL tutarındaki miktarı Bakanlık Döner Sermaye İşletme Dairesi Başkanlığı hesabına öder.
+(2) YK, birinci fıkrada belirtilen sertifikaların yıllık, ara, periyodik onayları ile gemide bulundurulması zorunlu plan, el kitabı ve diğer doküman onayları ve bunlara gelen düzeltmeler nedeniyle yapılan onaylar için belge ve işlem başına 200 TL tutarındaki miktarı Bakanlık Döner Sermaye İşletme Dairesi Başkanlığı hesabına öder.
+(3) SYK’ler tarafından, liman devleti denetimine tabi olmayan uluslararası sefer yapan gemiler, 12 ve daha az yolcu taşıyan uluslararası sefer yapan ticari yatlar ile ulusal sefer yapan gemiler için birinci ve ikinci fıkrada belirtilen iş ve işlemlerde Bakanlık Döner Sermaye İşletme Dairesi Başkanlığı hesabına ödenecek ücretler 50 TL ile 500 TL arasında olmak üzere Bakanlık Tebliği ile belirlenir.
+(4) Bu madde kapsamında belirtilen ücretlere esas yapılan iş ve işlemler üç aylık periyotlar halinde YK’lerin bölge ofisleri/SYK’ler tarafından İdareye bildirilir.
+(5) Bu madde kapsamında belirtilen ücretler, Bakanlık Döner Sermaye İşletme Dairesi Başkanlığı hesabına YK’lerin bölge ofisleri/SYK’ler tarafından Ocak, Nisan, Temmuz ve Ekim aylarının son iş gününe kadar ödenir.
+(6) Bu madde kapsamında belirtilen ücretler gemi donatanı/işletmecisinden YK/SYK tarafından tahsil edilmez. Söz konusu ücretlerin gemi donatanı/işletmecisinden YK/SYK tarafından tahsil edildiğinin tespit edilmesi halinde uygunsuzluk olarak işlem yapılır.
+(7) Bu madde kapsamında belirtilen ücretler her yıl 213 sayılı Kanun hükümleri uyarınca tespit ve ilan olunan yeniden değerleme oranında artırılır.

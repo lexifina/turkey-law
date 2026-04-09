@@ -1,0 +1,7 @@
+İdare tarafından belgelendirilen gemiler
+GEÇİCİ MADDE 3 – (Değişik:RG-24/3/2020-31078)
+(1) Bu maddenin yürürlüğe girdiği tarihten önce, Denizde Can Emniyeti Uluslararası Sözleşmesinin (SOLAS) İdarelerin korunaklı alanlarda yapılacak seferlerde en yakın kıyıdan 20 milden fazla açılmamak koşulu ile muafiyetler tanıyabilmesine ilişkin kuralına uygun olarak, yakın sefer olarak Denize Elverişlilik Belgesi düzenlenmiş Ege Denizi’ndeki adalara sefer yapan Türk Bayraklı yolcu gemilerinden YK tarafından düzenlenen klas sertifikasına sahip olma şartı aranmaz. (Değişik cümle:RG-14/4/2023-32163) Bu yolcu gemileri arasında YK tarafından düzenlenmiş klas sertifikasına sahip olmayanlardan İdare tarafından talep edilen ilave gereklerin tamamlanmış olma şartı istenir.
+(2) (Mülga:RG-14/4/2023-32163)
+(3) Ege Denizi’ndeki adalara yapılacak seferlerde bu maddenin yürürlüğe girdiği tarih ve sonrasında yakın sefer olarak Denize Elverişlilik Belgesi düzenlenmiş veya düzenlenecek yolcu gemilerinden ise YK tarafından düzenlenen klas sertifikasına sahip olma şartı aranır ve bu gemiler klaslı olarak çalışmaya devam eder.
+(4) Ege Denizi’ndeki adalara sefer yapan yolcu gemilerinin belgelendirmeleri talep halinde İdare tarafından yapılır.
+(5) Liman devleti denetimine tabi olmayan uluslararası sefer yapan gemiler, 12 ve daha az yolcu taşıyan uluslararası sefer yapan ticari yatlar ile ulusal sefer yapan gemiler, yetkilendirme protokolü yapılana kadar İdare veya YK’ler tarafından belgelendirme işlemlerine devam edilir.

@@ -1,0 +1,3 @@
+Değerlendirme
+MADDE 6 – (1) İdare tarafından yapılacak ilk inceleme neticesinde, gerekli görülmesi halinde talep edilecek ilave bilgi ve belgelerin, talepte bulunan kuruluşlar tarafından İdareye verilmesi zorunludur.
+(2) Talepte bulunan kuruluşa İdare koordinesinde İnceleme, Tespit ve Denetim Komisyonu (İTDK) tarafından denetim yapılır. Denetim, öncelikle dosya muhteviyatı üzerinden, daha sonra merkez ve/veya bölge ofisi yeterliliğine esas olacak şekilde yapılır. İTDK, İdarenin ilgili Daire Başkanı başkanlığında, en az bir üyesi Tersaneler ve Kıyı Yapıları Genel Müdürlüğünden olmak üzere en az üç kişiden oluşur. İTDK’nin Yönetmelik gereklerinin sağlandığını belirten raporu İdare tarafından karar komisyonuna sunulur.

@@ -1,0 +1,5 @@
+Genel bildirim yükümlülüğü
+MADDE 11 – (1) YK’ler, yetkileri dâhilinde olan ve kayıt altına aldıkları Türk bayraklı gemilerle ilgili filo bilgileri ile bu bilgilerdeki değişiklikleri elektronik ortamda kolay erişilebilir şekilde İdarenin kullanımına açmakla yükümlüdürler.
+(2) YK, merkez ve bölge ofisinde adres, organizasyon yapısı ve hizmet sunduğu faaliyetlerinde herhangi bir değişiklik olması durumunda bir ay içerisinde İdareye bildirir. Bu bildirim tüzel kişilik ve bölge ofisindeki kadrolu sörveyörlerine esas değişikliği de içerir.
+(3) YK’ler yetkisinden çıkmış/çıkarılmış veya askıya alınmış gemilere ait bilgilerle, zamanı geçmiş sörveyler ile kusur ve eksikliklere ilişkin bilgileri ve bu durumlarda yapılan işlemlere ait gerekçeli raporu derhal İdareye sunmak ve elektronik ortamda kolay erişilebilir şekilde İdarenin kullanımına açmakla yükümlüdürler.
+(4) (Ek:RG-14/4/2023-32163) YK’ler, 2/7/1964 tarihli ve 492 sayılı Harçlar Kanunu uyarınca harca tabi olan belgelerin harç tahsilatlarının yapıldığına yönelik listeleri düzenleyip aylık periyotlarla İdareye bildirmekle yükümlüdürler.

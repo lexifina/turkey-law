@@ -1,0 +1,3 @@
+Dayanak
+MADDE 3 – (Değişik:RG-17/11/2018-30598)
+(1) Bu Yönetmelik, (Ek ibare:RG-14/4/2023-32163) 26/9/2011 tarihli ve 655 sayılı Ulaştırma ve Altyapı Alanına İlişkin Bazı Düzenlemeler Hakkında Kanun Hükmünde Kararnamenin 28 inci maddesinin birinci fıkrasının (b) bendine ve 10/7/2018 tarihli ve 30474 sayılı Resmî Gazete’de yayımlanan 1 sayılı Cumhurbaşkanlığı Teşkilatı Hakkında Cumhurbaşkanlığı Kararnamesinin 474 üncü maddesinin birinci fıkrasının (ç) ve (d) bentleri, 479 uncu maddesinin birinci fıkrasının (g), (ğ), (h), (ı) ve (i) bentleri, 482 nci maddesinin birinci fıkrasının (ç), (d), (f) ve (g) bentleri, 490 ıncı maddesinin birinci fıkrasının (b) ve (c) bentleri ile 497 nci maddesine dayanılarak hazırlanmıştır.

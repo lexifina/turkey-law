@@ -1,0 +1,3 @@
+Program dışı denetimler
+MADDE 15 – (Değişik:RG-14/4/2023-32163)
+(1) İdare, YK’lerden kayıtları altında olan veya Uluslararası Emniyet Yönetimi Kodu (ISM), Uluslararası Gemi ve Liman Tesisi Güvenlik Kodu (ISPS) ve Uluslararası Denizcilik İş Sözleşmesi (MLC) kapsamında sertifika düzenledikleri Türk Bayraklı gemiler veya gemileri işleten şirketler için, liman devleti/bayrak devleti denetimlerinde geminin alıkonulması veya gemi ya da gemiyi işleten şirketin performansında düşüş olduğunun tespit edilmesi hallerinde program dışı denetim yapılmasını ve bu denetime ilişkin rapor ve dokümanları talep edebilir.

@@ -1,0 +1,3 @@
+Yetkilendirme protokolü
+MADDE 8 – (1) (Değişik:RG-17/11/2018-30598) Bu Yönetmelikte bulunan şartları sağladığı tespit edilen ve talebi uygun değerlendirilen YK ile Bakanlık arasında yetkilendirme protokolü YK’nin temsilcisi ve ilgili Bakan Yardımcısı tarafından karşılıklı imzalanır. Yetkilendirme protokolünün süresi en fazla on yıldır.
+(2) Yetkilendirme protokolü, IMO Deniz Emniyeti Komitesi ve Deniz Çevresini Koruma Komitesi MSC/Circ. 710 ve MEPC/Circ. 307 numaralı Denizcilik İdareleri Adına Hareket Edecek Tanınmış Kuruluşların Yetkilendirilmesi İçin Model Anlaşma hükümlerine ve TK Kod gerekliliklerine uygun olmak kaydıyla, Yönetmelik hükümlerine göre hazırlanır.
