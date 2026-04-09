@@ -1,0 +1,22 @@
+{
+  "number": "53",
+  "number_as_published": "2026/53",
+  "year": 2026,
+  "title": "GSM baz istasyonu yerlerinin kiralanması",
+  "decision_date": "2026-04-09",
+  "source": "https://eyupsultan.bel.tr/tr/main/pages/2026-nisan-ayi-meclis-kararlari/2821",
+  "official_document": "https://eyupsultan.bel.tr/tr/main/pages/2026-53/2845",
+  "source_sha256": "1f603e77ee40437ca2db25f83dee953a8bf668a9ea87082a9ec9517075008047",
+  "issuer": "Eyüpsultan Belediye Meclisi",
+  "history_type": "metadata",
+  "text_status": "metadata-only: listing fields as published; complete decision text is in the linked official document, not transcribed",
+  "in_force": "2026-04-09",
+  "in_force_basis": "Decision date as printed in the official council listing: 09.04.2026 (meeting date at the start of the decision page); adoption date of the council decision; legal commencement not asserted",
+  "missing": [
+    "complete official decision text",
+    "official annexes"
+  ],
+  "law_text_complete": false,
+  "privacy_withheld": false,
+  "decision_page_sha256": "4a4707570b42cd5b0ac1e89f0fc30948e53f2fcd02b9e57bc837ebc5580b595b"
+}
