@@ -1,0 +1,2 @@
+Başvuruların değerlendirilmesi
+MADDE 56 – (1) Belli istekliler arasında ihale usulünde ön yeterlik başvuru belgeleri ile Kanunun 21 inci maddesinin (a), (d) ve (e) bentlerine göre yapılan ihalelerde yeterlik başvuru belgeleri; Kanun, bu Yönetmelik, (Ek ibare:16.03.2019-30716 R.G/10. md., yürürlük: 26.03.2019) (Değişik ibare:RG-18/5/2024-32550)(12) EKAP Yönetmeliği ve tip şartnamelerde belirtilen esaslar çerçevesinde (Değişik ibare:RG-18/5/2024-32550)(12) e-formlar kullanılarak değerlendirilir.

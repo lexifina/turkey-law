@@ -1,0 +1,18 @@
+Tanımlar ve kısaltmalar (Değişik başlık: RG-18/5/2024-32550)(12)
+MADDE 3 – (1) Bu Yönetmeliğin uygulanmasında 4734 sayılı Kanunun 4 üncü maddesindeki tanımlar (Ek ibare: RG-18/5/2024-32550)(12) ile Kamu Alımlarının Elektronik Ortamda Yapılmasına İlişkin Uygulama Yönetmeliğinin 3 üncü maddesindeki tanım ve kısaltmaların yanında;
+a) Alternatif teklif: İhale dokümanında hüküm bulunması halinde, bir ihalede aynı aday veya istekli tarafından ihale konusu malın teknik şartnamesinde belirlenen asgari özellik ve şartları sağlamakla birlikte birbirinden farklı teknik özelliklere sahip ürünlerin, asıl teklifin yanı sıra alternatif olarak sunulmasını,
+b) Benzer iş: İhale konusu alım veya alımın bölümleriyle nitelik ve büyüklük bakımından benzerlik gösteren, aynı veya benzer üretim usul ve tekniğiyle üretilen, teçhizat, ekipman, mali güç ve uzmanlık ile personel ve organizasyon gerekleri bakımından benzer özellik taşıyan işleri,
+c) (Değişik:16/03/2011-27876 R.G./1 md.) Eşik değer: 4734 sayılı Kanunun 13 üncü maddesinde düzenlenen ilan ve davet ile ihalelere sadece yerli isteklilerin katılmasına ilişkin hükümlerin uygulanmasında kullanılmak üzere mal alımları için Kanunun 8 inci maddesinin birinci fıkrasının (a) ve (b) bendinde belirlenen ve aynı Kanunun 67 nci maddesi uyarınca güncellenen parasal limitleri,
+ç) İş bitirme belgesi: Adayın veya isteklinin ihale konusu mal veya benzer işlerdeki deneyimini gösteren ve yetkili kurum ve kuruluşlar tarafından düzenlenen, verilen ve değerlendirilen iş deneyimini gösteren belgeyi,
+d) (Değişik:16/08/2014-29090 R.G./1.md.) İş deneyimini gösteren belgeler: İş bitirme belgesi ve teknolojik ürün deneyim belgesi ile gerçek kişilere veya iş bitirme belgesi düzenlemeye yetkili olmayan her türlü kurum ve kuruluşa gerçekleştirilen işlere ilişkin olarak bu Yönetmeliğin 46 ncı maddesinde belirtilen belgeleri,
+e) Kanun: 4734 sayılı Kamu İhale Kanununu,
+f) Kısmi teklif: Birim fiyat üzerinden teklif alınan ihalelerde; alımın birden fazla kalemden oluşması halinde, alımın niteliğine uygun olarak belirlenen bir veya birden fazla kısmına; ihale konusu alımın tek bir mala ilişkin olması durumunda ise aynı malın miktarlar itibarıyla belirlenen bir veya birden fazla kısmına verilen teklifi,
+g) Özel imalat: Piyasada hazır halde alınıp satılmayan, projelendirme veya bir talep üzerine üretimi yapılacak olan, özel ihtisas ve üretim tekniği gerektiren işleri,
+ğ) Yaklaşık maliyet: İhale onay belgesi düzenlenmeden önce idarece her türlü fiyat araştırması yapılarak, Katma Değer Vergisi (KDV) hariç olmak üzere hesaplanan ve dayanakları ile birlikte bir hesap cetvelinde gösterilen, ihale konusu alımın öngörülen bedelini,
+h) (Ek:16/03/2011-27876 R.G./1 md.) (Mülga: RG-18/5/2024-32550)(12)
+ı) (Ek:16/03/2011-27876 R.G./1 md.) (Mülga: RG-18/5/2024-32550)(12)
+i) (Ek:07/06/2014-29023 R.G./1. md., Geçerlilik:01/02/2014) (Değişik:RG-30/7/2025-32971)(13) Endeks: Türkiye İstatistik Kurumu tarafından yayımlanan Yurt İçi Üretici Fiyat Genel Endeksini,
+j) (Ek:16/08/2014-29090 R.G./1.md.) Teknolojik ürün deneyim belgesi: Kanunun 10 uncu maddesinin birinci fıkrasının (b) bendinin (2) numaralı alt bendi çerçevesinde Bilim, Sanayi ve Teknoloji Bakanlığı tarafından düzenlenen iş deneyimini gösteren belgeyi,
+k) (Ek: RG-18/5/2024-32550)(12) EKAP Yönetmeliği: Kamu Alımlarının Elektronik Ortamda Yapılmasına İlişkin Uygulama Yönetmeliğini,
+l) (Ek:RG-30/7/2025-32971)(13) (Değişik:RG-9/4/2026-33219) Alt endeks: Türkiye İstatistik Kurumu tarafından aylık yayımlanan endekslerden Yurt İçi Üretici Fiyat Endeksi (2003=100) CPA 2008 kısım, bölüm ve gruplarına göre tarihsel seri tablosu ile Yurt İçi Üretici Fiyat Endeksi 2003=100, CPA 2008 seçilmiş sınıflar tablosunun alt sektörler itibarıyla ilgili endeksi,
+İfade eder.

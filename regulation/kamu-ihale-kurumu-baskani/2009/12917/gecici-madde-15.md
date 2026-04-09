@@ -1,0 +1,3 @@
+Başlamış olan ihaleler
+GEÇİCİ MADDE 15 – (Ek: 16.03.2019-30716 RG/17. md.)
+(1) Bu maddeyi yürürlüğe koyan Yönetmeliğin yürürlüğe girdiği tarihten önce ilanı veya yazılı olarak duyurusu yapılmış olan ihaleler, ilanın veya duyurunun yapıldığı tarihte yürürlükte olan Yönetmelik hükümlerine göre sonuçlandırılır. Ancak, bu maddeyi yürürlüğe koyan Yönetmeliğin 7, 8, 29, 35, 36, 37, 50, 51, 52, 72, 73, 74, 82, 83, 84 ve 87 nci maddeleri, ilanı veya duyurusu 18/3/2020 tarihi ve sonrasında yapılmış olan ihalelerde, 1, 9, 10, 11, 14, 15, 16 ve 28 inci maddeleri ise ilan veya duyuru tarihlerine bakılmaksızın ilgili maddelerin yürürlüğe girdiği tarihten itibaren uygulanır.
