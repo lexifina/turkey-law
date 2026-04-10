@@ -1,0 +1,1 @@
+Madde 122 — Oda’nın her türlü mali işlemleri, TMMOB Kanunu, TMMOB ve Odalar Mali İşler Yönetmeliği, mali kanunlar, genel muhasebe kuralları ve bu Yönetmelik hükümleri esas alınarak hazırlanacak yönetmeliklere göre yürütülür.

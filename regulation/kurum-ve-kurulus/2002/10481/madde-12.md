@@ -1,0 +1,1 @@
+Madde 12 — Üyelikten çıkarılan veya ayrılan üyenin yeniden başvurması üzerine, durumu incelenir. Sonuç olumlu ise Oda’ya kaydı yeni bir üye gibi yapılır. Ancak çıkarılan üye için, Oda Onur Kurulunun olumlu görüşü gereklidir. Kayıt ve kayıt yenileme koşulları ayrı bir yönetmelikle düzenlenir.

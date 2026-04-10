@@ -1,0 +1,1 @@
+Madde 107 — İl/İlçe Temsilciliği Yürütme Kurulu bir (1) Temsilci ve iki (2) Temsilci Yardımcısı olmak üzere üç (3) üyeden oluşur. (Ek ikinci cümle:RG-17/7/2010-27644) Ancak gerekli hallerde Oda Yönetim Kurulu kararı ile bu sayı değiştirilebilir. Şube merkezinin bulunduğu ilde, İl Temsilciliği kurulamaz.

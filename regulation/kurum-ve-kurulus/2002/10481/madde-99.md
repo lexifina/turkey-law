@@ -1,0 +1,1 @@
+Madde 99 — Şube Yönetim Kurulu, ayda en az iki (2) kez ve çoğunlukla toplanır. Toplantıları Başkan; yokluğunda, bulunma sırasına göre İkinci Başkan veya Yazman Üye yönetir. Yönetim Kurulu kararlarını oy çokluğu ile alır, oylarda eşitlik olursa, toplantı başkanının bulunduğu taraf çoğunlukta sayılır.

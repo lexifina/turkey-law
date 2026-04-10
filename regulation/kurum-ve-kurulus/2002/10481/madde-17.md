@@ -1,0 +1,1 @@
+Madde 17 — Oda Genel Kurulu, iki (2) yılda bir Mart ayı içinde, Oda Yönetim Kurulunca belirlenen gün, saat ve yerde toplanır. Toplantı tarihinin, görüşmeler Cumartesi akşamına kadar tamamlanacak ve Pazar günü 9.00-17.00 saatleri arasında seçimler yapılacak şekilde saptanması zorunludur.

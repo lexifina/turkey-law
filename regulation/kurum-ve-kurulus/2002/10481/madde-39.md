@@ -1,0 +1,1 @@
+Madde 39 — Oda Yönetim Kurulu, gerekli gördüğü hallerde, Oda organlarını ve Şubeleri temsilen, gerekli sayıda kişinin toplantılara katılmasını isteyebilir. Bu kişiler, yazılı olarak toplantıya davet edilir, adları karar tutanaklarına yazılır; toplantılarda temsil ettikleri organlarla ilgili görüşmelere katılabilir; ancak oy kullanamazlar.

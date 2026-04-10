@@ -1,0 +1,3 @@
+Oda Yürütme Kurulu
+Madde 50 — Oda Yürütme Kurulu, Oda Yönetim Kurulunun Başkan, İkinci Başkan, Yazman ve Sayman üyelerinden oluşur. Yönetim Kurulunun kararları çerçevesinde ve toplanamadığı zamanlarda, Oda Yönetim Kurulu adına yürütme yetkisine sahip olarak, Oda işlerini yürütmekle sorumludur. Yürütme Kurulunun görev ve yetkileri, çalışma dönemi başında Oda Yönetim Kurulunca belirlenir.
+Oda Yürütme Kurulu üyelerine, Oda Yönetim Kurulunca gerekli görülen miktarlarda harcama yetkisi verilebilir. Yapılacak her türlü ödemede, Yürütme Kurulu üyelerinden ikisinin imzasının, birlikte bulunması zorunludur.

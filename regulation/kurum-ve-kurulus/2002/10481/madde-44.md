@@ -1,0 +1,1 @@
+Madde 44 — İkinci Başkan; Başkanın yokluğunda, Başkanın yetkilerini kullanır ve görevlerini yerine getirir. (Ek cümle:RG-31/12/2023-32416 5.Mükerrer) Ayrıca, Oda ve Şube Yönetim Kurulu tarafından yapılan iş bölümü çerçevesinde belirlenen iş ve işlemleri yürütür.

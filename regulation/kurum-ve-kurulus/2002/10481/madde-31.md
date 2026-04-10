@@ -1,0 +1,1 @@
+Madde 31 — Oda Yönetim Kurulunu oluşturan üyelerin tümünün ve yedek üyelerden en az birinin birlikte çekilmesi durumunda Oda Genel Kurulu, yeni Yönetim Kurulunu seçmek üzere bir (1) ay içinde, Birlik Yönetim Kurulunca olağanüstü toplantıya çağrılır.

@@ -1,0 +1,1 @@
+Madde 121 — Oda Yönetim, Onur, Denetleme Kurullarının üyeleri, Oda Danışma Kuruluna katılan üyeler ile Oda komisyonları ve çalışma gruplarında görev alan üyelerin yolluk ve diğer giderleri, Oda Genel Kurul kararı ile ödenir.

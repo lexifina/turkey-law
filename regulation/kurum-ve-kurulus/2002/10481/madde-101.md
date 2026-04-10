@@ -1,0 +1,1 @@
+Madde 101 — Şube Yönetim Kurulu gerek duyduğunda, kendi görev bölümünü yenileyebilir; ayrıca Şube Yönetim Kurulu üyelerinin yarısından fazlasının birlikte veya Başkan, İkinci Başkan, Yazman üyeden herhangi birinin çekilmesi durumunda, yedek üyeler sırasıyla görev alır ve ilk toplantıda Yönetim Kurulu görev bölümü yenilenir.

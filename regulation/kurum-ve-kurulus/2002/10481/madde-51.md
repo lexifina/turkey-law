@@ -1,0 +1,2 @@
+Uzmanlık Komisyonları
+Madde 51 — Oda/Şube Yönetim Kurulları Oda amaçlarının gerçekleşmesi için, üyelerinden oluşan ve gerektiğinde, üyeler dışındaki uzmanların da katılabileceği, uzmanlık komisyonları kurarak, ilgili üyelerini görevlendirir. Komisyonların kurulması, görev ve yetkileri, Oda Yönetim Kurulunca çıkarılacak yönetmelikle (Ek ibare:RG-31/12/2023-32416 5.Mükerrer) veya yönerge ile saptanır.

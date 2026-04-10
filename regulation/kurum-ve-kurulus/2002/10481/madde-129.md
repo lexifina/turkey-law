@@ -1,0 +1,3 @@
+Madde 129 — (Değişik:RG-08/07/2006-26222)
+Bir üye; Oda Yönetim, Onur, Denetleme ve Şube Yönetim Kurulu, İl/İlçe Temsilciliği Yürütme Kurulu üyeliklerinden yalnız ve ancak bir göreve seçilebilir veya atanabilir. Bu görevlerden birine seçilen veya atananlar, Birlik organlarına seçilebilirler. Ancak, Oda Yönetim ve Onur Kurulu üyeliğine aday olan bir üye, Yüksek Onur Kurulu üyeliğine aday gösterilemez.
+Odadan ihraç ve süreli meslekten men cezası alanlar Oda Organlarında görev alamazlar. Diğer cezaları almış üyelerin adaylık başvurularında, 10/7/2002 tarihli ve 24811 sayılı Resmî Gazete’de yayımlanan Türk Mühendis ve Mimar Odaları Birliği Disiplin Yönetmeliğinde belirtilen cezaların silinmesine yönelik hükümler esas alınır.

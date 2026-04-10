@@ -1,0 +1,8 @@
+İKİNCİ BÖLÜM
+Üyeler
+Üyelik
+Madde 6 — Oda üyeleri;
+a) Asıl üyeler: Türkiye Cumhuriyeti uyruğunda olup, Türkiye sınırları içinde jeoloji (Ek ibare:RG-31/12/2023-32416 5.Mükerrer) ve hidrojeoloji mühendisliği veya yüksek mühendisliği mesleğini yürütmeye yasal olarak yetkili bulunanlardan Oda’ya başvuranlar, Oda’nın asıl üyeleridir. Oda kayıtlarında ve mesleği yürütmede lisans eğitimi esastır. Oda’ya, lisansüstü eğitimi ile alınan unvana dayalı olarak kayıt yapılamaz.
+b) Geçici üyeler: Türkiye’de mesleklerini uygulamalarına kanunlar gereğince izin verilen yabancı uyruklu mühendislerden, jeoloji (Ek ibare:RG-31/12/2023-32416 5.Mükerrer) veya hidrojeoloji mühendisliği eğitimi almış veya denkliği kabul edilmiş olanlar, Oda’ya geçici üye olarak kaydolurlar. Geçici üyelik, çalışma izni süresi ile sınırlıdır. Geçici üyeler, Oda organlarında görev alamazlar; ancak, Oda asıl üyelerinin bütün hak, yetki ve sorumluluklarını taşırlar.
+c) Onur üyeleri: Jeoloji (Ek ibare:RG-31/12/2023-32416 5.Mükerrer) veya hidrojeoloji mühendisliği mesleğine özel katkıları bulunanlarla, Oda’nın amaçlarına uygun olarak, yurt içinde veya dışında çalışma ve yardımları görülen ve Oda’nın çalışmalarına katılmak isteyen kişilere, Oda Yönetim Kurulunun önerisi ve Oda Genel Kurulu kararı ile Onur üyeliği verilebilir. Bu üyelik, Oda Onur Kurulunun görüşü alınarak, Oda Genel Kurulunca geri alınabilir.
+d) Öğrenci üyeler: Jeoloji (Ek ibare:RG-31/12/2023-32416 5.Mükerrer) ve hidrojeoloji mühendisliği bölümü öğrencilerine, öğrenci üyelik statüsü verilebilir. Öğrenci üyelerin ödenti zorunlulukları yoktur. Oda Genel Kuruluna katılabilirler, ancak oy, seçme ve seçilme hakları yoktur.

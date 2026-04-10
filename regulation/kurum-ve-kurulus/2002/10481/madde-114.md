@@ -1,0 +1,2 @@
+Madde 114 — Oda Yönetim Kurulu, ihtiyaç durumunda, bütçenin gider bölümleri ya da maddeleri arasında ödenek aktarması yapabilir. Aktarılan ödeneğin, hangi maddeler için olduğu da Yönetim Kurulu kararıyla belirlenir.
+Bölümler arasında aktarma yapılmakla birlikte ihtiyaç giderilemediği takdirde, bütçe tasarrufundan karşılanmak üzere, o bölüm için gerekli harcama yapılır. Bu fazla harcama, ilk Oda Genel Kurulunun onayına sunulur.

@@ -1,0 +1,2 @@
+Madde 70 — Oda Denetleme Kurulu, Oda Yönetim Kurulunun ilk toplantısından sonraki yedi (7) gün içinde, üye tam sayısı ile toplanarak, en yaşlı üyenin başkanlığında ilk toplantısını yapar. Aralarından bir Başkan ve bir Yazmanı çoğunlukla seçerek göreve başlar. Kararlar, katılanların oy çokluğu ile alınır. Oylarda eşitlik olması durumunda, başkanın bulunduğu taraf çoğunlukta sayılır.
+Oda Denetleme Kurulu, TMMOB ve Odalar Denetim Yönetmeliği ile Oda Yönetim Kurulunca hazırlanan Oda Denetleme Kurulu Yönetmeliği esaslarına göre çalışır.

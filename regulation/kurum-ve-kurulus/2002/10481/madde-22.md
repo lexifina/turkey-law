@@ -1,0 +1,1 @@
+Madde 22 — Oda Genel Kurulu, Oda Yönetim Kurulunun Başkan, İkinci Başkan, Yazman Üye veya kendi içinde belirleyeceği bir üyesi tarafından, Birlik Gözlemcisinin toplantıda hazır bulunmasıyla açılır ve gündemin birinci maddesi gereğince Başkanlık Divanı oluşturulur.

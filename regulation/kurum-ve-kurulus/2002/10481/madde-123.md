@@ -1,0 +1,1 @@
+Madde 123 — Her yıl bütçe giderler cetvelinde, Birliğe ödenmek üzere, “Birlik Hissesi” adı altında bir ödenek konur. Bu ödenek, TMMOB ve Odalar Mali İşler Yönetmeliği ile TMMOB Dönem Bütçe Uygulama Yönetmeliğinde belirtilen esaslar çerçevesinde ödenir.

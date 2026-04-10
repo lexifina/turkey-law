@@ -1,0 +1,1 @@
+Madde 29 — Oda Genel Kurul Başkanlık Divanı, Genel Kurulda alınmış önemli kararları Oda Genel Kurul Karar Defterine yazar ve Karar Defteri, Başkanlık Divanı üyeleri tarafından imzalanır, Oda Yönetim Kurulunca saklanır.

@@ -1,0 +1,1 @@
+Madde 40 — Nedeni ne olursa olsun, üç (3) ay süre ile toplantılara katılmayan veya katılamayacağını bildiren veya kabul edilebilir bir özrü olmaksızın, yıl içindeki olağan toplantıların dörtte biri (1/4)’ne katılmayan Oda Yönetim Kurulu üyesi çekilmiş sayılır ve yerine, sıradaki yedek üye geçer.

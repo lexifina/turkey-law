@@ -1,0 +1,2 @@
+Madde 74 — Oda Danışma Kurulu, Oda Yönetim Kurulunun çağrısı ile yılda en az bir (1) kez toplanır. Danışma Kurulu toplantısının yer, tarih, saat ve gündemi Oda Yönetim Kurulunca belirlenerek, Şube Yönetim Kurulları, merkeze bağlı İl Temsilcilikleri ile toplantıya katılması istenen diğer Kurul üyelerine, toplantıdan en az onbeş (15) gün önce bildirilir.
+Oda Yönetim Kurulu, Danışma Kurulunu toplamaya olanak bulamadığı ivedi durumlarda, gerekli konuları danışmak için Şube Başkanlarını ve gerektiğinde Şube Yazman ve/veya Sayman üyelerini toplantıya çağırabilir.

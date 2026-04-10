@@ -1,0 +1,1 @@
+Madde 62 — Oda Onur Kurulu, üç (3) ay içinde karar veremezse, sürenin bitiminden önce ilgililerin haberdar edilebilmesi için durumu, gerekçeleri ile birlikte Oda Yönetim Kuruluna ileterek, ilgili konunun sonuçlanabileceği tarihi belirtir.

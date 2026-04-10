@@ -1,0 +1,1 @@
+Madde 41 — Oda Yönetim Kurulu, gerek duyduğunda kendi görev bölümünü yenileyebilir; ayrıca üyelerinden yarısından çoğunun birlikte veya Başkan, İkinci Başkan, Yazman Üyeden herhangi birinin çekilmesi durumunda, yedek üyeler sırasıyla görev alır ve ilk toplantıda Yönetim Kurulu görev bölümü yenilenir.

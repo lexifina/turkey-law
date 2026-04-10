@@ -1,0 +1,1 @@
+Madde 32 — Olağanüstü Genel Kurul toplantısı, Olağan Genel Kurul toplantısı gibi yapılır. Ancak, yalnız önceden duyurulan gündem maddeleri görüşülüp karara bağlanır; gündeme madde eklenemez ya da çıkarılamaz.

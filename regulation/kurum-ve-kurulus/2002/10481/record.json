@@ -1,0 +1,72 @@
+{
+  "source_id": "7.5.10481",
+  "kind": "regulation",
+  "register_kind": "Kurum ve Kuruluş Yönetmelikleri",
+  "title": "TÜRK MÜHENDİS VE MİMAR ODALARI BİRLİĞİ JEOLOJİ MÜHENDİSLERİ ODASI ANA YÖNETMELİĞİ",
+  "number": "10481",
+  "issuer_slug": "kurum-ve-kurulus",
+  "path": "regulation/kurum-ve-kurulus/2002/10481",
+  "source": "https://www.mevzuat.gov.tr/anasayfa/MevzuatFihristDetayIframe?MevzuatTur=7&MevzuatNo=10481&MevzuatTertip=5",
+  "source_sha256": "40fd95064ea198cfa75b99d19b255037fb92c5e0062bb37f9a9ac7bbfcd56c05",
+  "source_bytes": 184702,
+  "published": "2002-08-02",
+  "gazette": "24834",
+  "in_force": "2026-04-10",
+  "in_force_basis": "latest Resmî Gazete date printed in the source amendment notes/table (\"RG-10/4/2026\") for the current consolidated text",
+  "date_evidence": [
+    [
+      "2026-04-10",
+      "RG-10/4/2026",
+      "Resmî Gazete date printed in the source amendment note"
+    ],
+    [
+      "2026-04-10",
+      "10/4/2026",
+      "Resmî Gazete date in the source amendment table"
+    ],
+    [
+      "2023-12-31",
+      "RG-31/12/2023",
+      "Resmî Gazete date printed in the source amendment note"
+    ],
+    [
+      "2023-12-31",
+      "31/12/2023",
+      "Resmî Gazete date in the source amendment table"
+    ],
+    [
+      "2016-11-11",
+      "RG-11/11/2016",
+      "Resmî Gazete date printed in the source amendment note"
+    ],
+    [
+      "2012-05-13",
+      "RG-13/5/2012",
+      "Resmî Gazete date printed in the source amendment note"
+    ],
+    [
+      "2010-07-17",
+      "RG-17/7/2010",
+      "Resmî Gazete date printed in the source amendment note"
+    ],
+    [
+      "2006-07-08",
+      "RG-08/07/2006",
+      "Resmî Gazete date printed in the source amendment note"
+    ]
+  ],
+  "commencement_clauses": [
+    "Bu Yönetmelik, yayımı tarihinde yürürlüğe girer"
+  ],
+  "history": "current-text",
+  "label": "oldest version available",
+  "checked_on": "2026-11-15",
+  "word_count": 11317,
+  "text_status": "current-consolidated",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  },
+  "completeness": "html-text-complete"
+}

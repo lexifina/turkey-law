@@ -1,0 +1,1 @@
+Madde 24 — Oda Genel Kurulu görüşmeleri, Oda Yönetim Kurulu’nca hazırlanıp ilan edilmiş gündem maddeleri içinde yapılır. Ancak, toplantıya katılan delegelerin yazılı önergesi ve Genel Kurul kararı ile gündeme madde eklenebilir. Gündemde bulunması zorunlu maddelerin dışında, gündemden madde çıkarılabilir veya maddelerin görüşme sıraları değiştirilebilir.

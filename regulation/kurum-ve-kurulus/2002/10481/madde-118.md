@@ -1,0 +1,1 @@
+Madde 118 — Yıl içinde ödenmemiş ya da önceki yıllara ait üye ödentileri, borcun ödendiği tarihteki ödenti miktarı üzerinden alınır. (Değişik ikinci cümle:RG-17/7/2010-27644) Ödenti borcu olan üyeler, borçlarını ödeyinceye kadar Oda ve şube organlarına aday olamazlar ve bunlara bağlı birimlerde görev alamazlar.

@@ -1,0 +1,1 @@
+Madde 78 — Üyeler, iş ve ev adreslerini etkinlik alanında bulundukları Şube’ye bildirmek zorundadırlar. Şube etkinlik alanından ayrılan üye; yeni adresinin ilgili olduğu Şube’ye veya Oda’ya, kaydının aktarılması için, ayrılış tarihinden başlayarak bir (1) ay içinde başvurur.

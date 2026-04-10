@@ -1,0 +1,1 @@
+Madde 38 — Oda Yönetim Kurulu ayda en az iki (2) kez ve çoğunlukla toplanır. Toplantıları Başkan; yokluğunda, bulunma sırasına göre İkinci Başkan veya Yazman Üye yönetir. Yönetim Kurulu, kararlarını toplantı çoğunluğuyla alır; oylarda eşitlik olması durumunda, o toplantı başkanının bulunduğu taraf çoğunluk sayılır.

@@ -1,0 +1,2 @@
+Madde 68 — Üyeler ya da üye olmayan meslek mensuplarından, mesleğini uygulamaktan geçici olarak uzaklaştırılanlar, bu süre içinde hiçbir biçimde mesleki etkinlikte bulunamazlar. Mesleklerinin uygulanması için imza kullanamazlar. Aksine davranırlarsa, uygulanan ceza iki (2) katı ile yeniden verilir. Bu tür davranmakta ısrar edenler ile ilgili olarak, üyelikten çıkarma ya da meslekten men cezası uygulanır.
+Verilen kararlar, uygun bir biçimde duyurulur ve uygulanmasını sağlamak üzere ilgililere bildirilir. Kesinleşen cezalar üyenin siciline işlenir.

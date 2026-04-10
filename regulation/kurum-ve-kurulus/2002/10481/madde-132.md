@@ -1,0 +1,1 @@
+Madde 132 — İşyeri Temsilcisi ve Temsilci Yardımcısı adayları, söz konusu işyerinde çalışan üyelerce belirlenir, Şube Yönetim Kuruluna önerilir. Şube Yönetim Kurulu, İşyeri Temsilci ve Temsilci Yardımcısını, bu önerileri dikkate alarak; aday öner€meyen işyerlerinde ise doğrudan atar. Şube etkinlik alanları dışındaki il ve ilçelerde bu işlem, Oda Yönetim Kurulunca yürütülür.

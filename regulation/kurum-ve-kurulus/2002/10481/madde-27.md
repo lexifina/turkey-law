@@ -1,0 +1,1 @@
+Madde 27 — Oda Genel Kurulu kararlarını çoğunlukla alır. Oylarda eşitlik olursa, Divan Başkanının bulunduğu taraf çoğunluk sayılır. Ancak, Oda Ana Yönetmeliğinde değişiklik yapılabilmesi için görüşmelere katılanların üçte ikisi (2/3)’nin olumlu oyu gerekir.

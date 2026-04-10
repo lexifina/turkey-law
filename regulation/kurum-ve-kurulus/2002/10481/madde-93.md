@@ -1,0 +1,1 @@
+Madde 93 — Şube Yönetim Kurulunu oluşturan üyelerin tümünün ve yedeklerden en az birinin birlikte çekilmesi, ayrılan üyelerin yerine geçecek yedek kalmaması veya Şube Yönetim Kurulunun herhangi bir nedenle, yapılması gereken Olağanüstü Genel Kurulu yapmaması durumunda; toplantı, Oda Yönetim Kurulunca yapılır.

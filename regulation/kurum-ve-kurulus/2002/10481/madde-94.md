@@ -1,0 +1,1 @@
+Madde 94 — Olağanüstü Şube Genel Kurul toplantısı, Olağan Genel Kurul toplantısı gibi yapılır; ancak yalnız toplantı gündemini oluşturan konu üzerinde görüşülüp karar alınır. Gündeme madde eklenemez ve çıkarılamaz.

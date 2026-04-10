@@ -1,0 +1,1 @@
+Madde 139 — Bu Yönetmelikte hüküm bulunmayan, açıklığı yeterince anlaşılamayan ya da çelişkili durumların ortaya çıktığı konularda Birlik Tüzüğü hükümleri geçerlidir. Birlik Tüzüğünde de ilgili hükümlerin olmadığı durumlarda, Oda Yönetim Kurulu karar alabilir ve konuyu bir sonraki Oda Genel Kurulu’na taşır.

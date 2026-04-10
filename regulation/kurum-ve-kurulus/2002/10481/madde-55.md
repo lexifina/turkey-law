@@ -1,0 +1,1 @@
+Madde 55 — Oda Onur Kurulu asıl üyelerinden gelmeyenlerin yerine, hazır bulunan yedeklerden Kurulun üye sayısı tamamlanır ve aralarından bir (1) Başkan ve bir (1) Yazman seçilir. Toplantıya katılan yedek üyeler, toplantı konusu karara bağlanıncaya değin asıl üye olarak görev yaparlar.

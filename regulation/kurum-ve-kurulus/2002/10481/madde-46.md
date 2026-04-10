@@ -1,0 +1,1 @@
+Madde 46 — Sayman Üye; ilgili kanunlar, Oda Ana ve Mali İşler Yönetmelikleri hükümlerine uygun olarak, Oda’nın mali işlerini yürütür, Oda bütçesinin uygulanmasını Oda Yönetim Kurulu kararları gereğince sağlar, gerekli mali önlemleri alır ve önerilerde bulunur, Oda Genel Kuruluna sunulacak bütçeyi hazırlar ve Oda Yönetim Kurulunun onayına sunar.

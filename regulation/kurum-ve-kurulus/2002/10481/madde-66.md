@@ -1,0 +1,2 @@
+Madde 66 — Oda Onur Kurulunca verilen cezalardan 65 inci maddenin (a) ve (b) bentlerinde yazılı olanlar, kesindir. 65 inci maddenin (c), (d) ve € bentlerinde yazılı cezalara karşı ise, kararın bildirilmesi tarihinden itibaren onbeş (15) gün içinde Yüksek Onur Kuruluna, Oda Yönetim Kurulu yoluyla ya da doğrudan itiraz edilebilir. Cezaların uygulanabilmesi için kesinleşmesi gerekir.
+Oda Yönetim Kurulu, Onur Kurulu’nun aklanma veya takipsizlik kararlarına karşı, Yüksek Onur Kuruluna itirazda bulunabilir.
