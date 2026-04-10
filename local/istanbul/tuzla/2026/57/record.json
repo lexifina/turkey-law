@@ -1,0 +1,27 @@
+{
+  "number": "57",
+  "number_as_published": "Meclis Kararları 10.04.2026-57",
+  "year": 2026,
+  "title": "council decision",
+  "decision_date": "2026-04-10",
+  "source": "https://www.tuzla.bel.tr/api/public/kurumsal/meclis-encumen/meclis-kararlari?page=1&limit=100",
+  "official_document": "https://www.tuzla.bel.tr/uploads/documents/meclis-kararlari/2026057_Merkez_Mahallesi_1329_Parsel_Kuzeybat_s_nda_Bulunan_Ta_nmaz_n_Tahsisi_1777449205638_5oe0b8k8dc6.pdf",
+  "source_sha256": "92fdb2665d79ab4a96b25ee2a5f6283dd5988725356717a6c9826c7247c843e3",
+  "issuer": "Tuzla Belediye Meclisi",
+  "history_type": "metadata",
+  "text_status": "metadata-only: subject appears to concern individual persons; official link only",
+  "in_force": "2026-04-10",
+  "in_force_basis": "Decision date as printed in the official council listing: Meclis Kararları 10.04.2026-57 (official title); adoption date of the council decision; legal commencement not asserted",
+  "missing": [
+    "complete official decision text",
+    "official annexes"
+  ],
+  "law_text_complete": false,
+  "privacy_withheld": true,
+  "listing_page": "https://www.tuzla.bel.tr/kurumsal/meclis-encumen/meclis-kararlari",
+  "official_documents": [
+    "https://www.tuzla.bel.tr/uploads/documents/meclis-kararlari/2026057_Merkez_Mahallesi_1329_Parsel_Kuzeybat_s_nda_Bulunan_Ta_nmaz_n_Tahsisi_1777449205638_5oe0b8k8dc6.pdf"
+  ],
+  "record_scope": "one council decision",
+  "official_page": "https://www.tuzla.bel.tr/kurumsal/meclis-encumen/meclis-kararlari/meclis-kararlari-10042026-57-2026-04-29"
+}
