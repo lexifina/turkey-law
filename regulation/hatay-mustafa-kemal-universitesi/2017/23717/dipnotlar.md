@@ -1,0 +1,1 @@
+[1] 10/4/2026 tarihli ve 33220 sayılı Resmî Gazete’de yayımlanan değişiklik ile bu Yönetmeliğin Adı “Mustafa Kemal Üniversitesi Alternatif Enerji Kaynakları ve Teknoloji Uygulama ve Araştırma Merkezi Yönetmeliği” iken metne işlendiği şekilde değiştirilmiştir.
