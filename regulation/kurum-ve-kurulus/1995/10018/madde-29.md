@@ -1,0 +1,1 @@
+Madde 29- Denetleme Kurulu ve denetçiler görevlerinin ifası sırasında Sandığın yönetim işlerine ait olmak üzere öğrendikleri noksanlık ve yolsuzluklar ile kanun ve bu Anastatü'ye aykırı gördükleri hususları Genel Müdür'e, Yönetim Kurulu Başkanı'na ve gerekirse Temsilciler kuruluna bildirmek ile mükelleftir.

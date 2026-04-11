@@ -1,0 +1,5 @@
+Bilgi İsteme - İptal İsteme Hakkı:
+Madde 36- (Değişik cümle:RG-27/8/2017-30167) İlgili kanun hükümlerine göre;
+a) (Değişik:RG-7/7/2018-30471) Sandığın gelir tablosu ve bilançosu, yıllık rapor ile birlikte Temsilciler Kurulunun olağan toplantısından en az 15 gün önce Sandık merkezinde üyelerden talep edenlerin incelemesine hazır bulundurulur.
+b) Temsilciler Kurulu Üyeleri şüpheli gördükleri hususlara denetçilerin dikkatlerini çekmeye ve bu hususta gerekli açıklamayı istemeye yetkilidirler.
+c) Kanun veya Anastatü hükümlerine ve bilhassa objektif hüsnüniyet kurallarına aykırı olan Temsilciler Kurulu kararları ile toplantıya davetin usulünce yapılmadığı ve gündemin gereği gibi ilan ve tebliğ edilmediği şeklindeki iddialar ile ilgili Temsilciler Kurulunca alınan kararlar aleyhine toplantıda hazır bulunanlardan muhalif oy kullanan üyeler ile usulsüzlük iddiasında bulunan üyeler ve Yönetim Kurulu tarafından kararın iptali yolunda bir ay içinde sandık merkezinin bulunduğu yer mahkemesinde dava açabilirler.

@@ -1,0 +1,79 @@
+{
+  "source_id": "7.5.10018",
+  "kind": "regulation",
+  "register_kind": "Kurum ve Kuruluş Yönetmelikleri",
+  "title": "İLKOKUL ÖĞRETMENLERİ SAĞLIK VE SOSYAL YARDIM SANDIĞI ANASTATÜSÜ",
+  "number": "10018",
+  "issuer_slug": "kurum-ve-kurulus",
+  "path": "regulation/kurum-ve-kurulus/1995/10018",
+  "source": "https://www.mevzuat.gov.tr/anasayfa/MevzuatFihristDetayIframe?MevzuatTur=7&MevzuatNo=10018&MevzuatTertip=5",
+  "source_sha256": "163eb9fe6d526d0754ac9e7efb8ba015935f97002741afdb61f0bac0a3ce483f",
+  "source_bytes": 112677,
+  "published": "1995-03-22",
+  "gazette": "22235",
+  "in_force": "2026-04-11",
+  "in_force_basis": "latest Resmî Gazete date printed in the source amendment notes/table (\"RG-11/4/2026\") for the current consolidated text",
+  "date_evidence": [
+    [
+      "2026-04-11",
+      "RG-11/4/2026",
+      "Resmî Gazete date printed in the source amendment note"
+    ],
+    [
+      "2021-03-23",
+      "RG-23/3/2021",
+      "Resmî Gazete date printed in the source amendment note"
+    ],
+    [
+      "2019-06-01",
+      "RG-1/6/2019",
+      "Resmî Gazete date printed in the source amendment note"
+    ],
+    [
+      "2018-07-07",
+      "RG-7/7/2018",
+      "Resmî Gazete date printed in the source amendment note"
+    ],
+    [
+      "2017-08-27",
+      "RG-27/8/2017",
+      "Resmî Gazete date printed in the source amendment note"
+    ],
+    [
+      "2017-03-02",
+      "RG-2/3/2017",
+      "Resmî Gazete date printed in the source amendment note"
+    ],
+    [
+      "2010-02-05",
+      "RG-5/2/2010",
+      "Resmî Gazete date printed in the source amendment note"
+    ],
+    [
+      "2007-12-28",
+      "RG-28/12/2007",
+      "Resmî Gazete date printed in the source amendment note"
+    ],
+    [
+      "2006-03-14",
+      "RG-14/03/2006",
+      "Resmî Gazete date printed in the source amendment note"
+    ],
+    [
+      "2001-03-16",
+      "RG-16/3/2001",
+      "Resmî Gazete date printed in the source amendment note"
+    ]
+  ],
+  "history": "current-text",
+  "label": "oldest version available",
+  "checked_on": "2026-11-15",
+  "word_count": 4981,
+  "text_status": "current-consolidated",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  },
+  "completeness": "html-text-complete"
+}

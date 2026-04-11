@@ -1,0 +1,2 @@
+Genel Müdürlük İşlerinden Yönetimin Sorumluğu:
+Madde 38- Yönetim Kurulu üyeleri, Genel Müdür ve müdürlerin, Yönetim Kurulu kararlarına dayalı olarak verdikleri zararlardan dolayı hep birlikte, yetkili Yönetim Kurulu üyesinin verdiği talimat sonucu Genel Müdür ve Müdürlerin eylem ve işlemlerinden doğan zararlardan ise talimat veren Yönetim kurulu üyesi,Genel Müdür ve ilgili müdürlerle birlikte sorumlu olur.

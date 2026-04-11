@@ -1,0 +1,4 @@
+İLKOKUL ÖĞRETMENLERİ SAĞLIK VE SOSYAL YARDIM SANDIĞI ANASTATÜSÜ
+BİRİNCİ KISIM
+Amaç, Kapsam. Dayanak, Tanımlar
+Amaç:

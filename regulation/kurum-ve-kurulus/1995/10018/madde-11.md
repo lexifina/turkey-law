@@ -1,0 +1,12 @@
+Görevleri:
+Madde 11- (Değişik:RG-1/6/2019-30791)
+(1) Denetleme Kurulunun görevleri şunlardır:
+a) Sandığın bütün gelir ve gider hesapları ile bu hesapların kaydedildiği defterler ve kayıtların mutabık olup olmadıklarını incelemek, hesaplar ve kayıtların sonuçlarını ihtiva eden mali tabloları kontrol etmek, Sandığın mali iş ve işlemlerini bu Ana Statü ve ilgili yönetmeliklere göre denetlemek.
+b) Temsilciler Kurulunca alınan kararlara ilişkin olarak Yönetim Kurulunca yapılması gereken işlemlerin yapılıp yapılmadığını kontrol etmek.
+c) Sandık Yönetim Kurulunca alınan kararlar ve bu kararlara ilişkin yönetim süreçlerinin Kanun, bu Ana Statü, yönetmeliklere ve genel hükümlere uygun olup olmadığını denetlemek.
+ç) Sandık varlıklarının korunması, alacaklarının tahsili ve borçlarının ödenmesine müteallik takiplerin yapılıp yapılmadığını kontrol etmek.
+d) Kurulun gerek görmesi halinde 13/1/2011 tarihli ve 6102 sayılı Türk Ticaret Kanunu ve kamu gözetimi, muhasebe ve denetim standartları mevzuatı çerçevesinde Sandığın ve Sandığa bağlı ortaklıklar, işletmeler veya iştiraklerin mali iş ve işlemlerini yetkili bağımsız denetçilere denetlettirmek.
+e) Kurul tarafından yapılan ve/veya bağımsız denetçilere yaptırılan denetim neticesinde; Sandığın faaliyetleri kapsamında tespiti yapılan ve niteliği itibariyle telafisi imkânsız zararlı sonuçlar doğuracağı kanaati hâsıl olan durumlar ve/veya Sandığın ayni ve nakdi sermayesi bakımından amacını yerine getiremeyecek derecede acze düştüğünün belirlenmesi hallerinde, keyfiyeti gerekçeli bir yazı ile Yönetim Kuruluna bildirerek Temsilciler Kurulunun olağanüstü toplantıya davet edilmesini istemek, Yönetim Kuruluna yapılan tebliği takip eden bir hafta içinde olağanüstü toplantı kararı alınmadığı takdirde Bakanlık makamının muvafakati ile Temsilciler Kurulunu olağanüstü toplantıya çağırmak.
+f) Üç aydan fazla ara vermemek şartıyla geçici bilanço ve geçici gelir tabloları almak suretiyle Sandığın mali durumuna ilişkin keyfiyeti izlemek ve kontrol etmek.
+g) Her mali yılın sonunda bir denetim raporu hazırlamak ve bu denetim sonucunda varılan kanaatleri içeren sonucu gösterir raporu Temsilciler Kuruluna sunulmak üzere Yönetim Kuruluna tevdi etmek, denetim raporunu da ihtiva eden yıllık faaliyet raporunu Bakanlık makamına sunmak.
+(2) Denetleme Kurulunca bağımsız denetim kuruluşlarına denetim yaptırılmış olması, Denetleme Kurulunun yükümlülüğünü ortadan kaldırmaz.
