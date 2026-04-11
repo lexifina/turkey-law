@@ -1,0 +1,2 @@
+Sınav sonuçlarına itiraz
+MADDE 18- (1) Adaylar sınav sonuçlarının ilanı tarihinden itibaren beş gün içinde sınav sonuçlarına yazılı olarak yarışma sınavı komisyonuna iletilmek üzere Personel Dairesi Başkanlığına itiraz edebilir. İtirazlar, itiraz süresinin bitimi tarihinden itibaren on beş gün içinde yarışma sınavı komisyonu tarafından değerlendirilerek sonuçlandırılır ve ilgililere yazılı olarak bildirilir.

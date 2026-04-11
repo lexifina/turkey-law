@@ -1,0 +1,6 @@
+Tez jürisi
+MADDE 27- (1) Tez jürisi, uzman yardımcısının görevlendirildiği birim, uzmanlık tezinin konusu ve mezun olduğu bölüm gözetilerek Personel Dairesi Başkanlığının teklifi ve Genel Müdürün onayı ile Genel Müdür, birim amirleri ve uzmanlar arasından belirlenecek, başkan dâhil beş asıl üyeden oluşur. Aynı usulle beş kişi de tez jürisi yedek üyesi olarak belirlenir. Gerek görüldüğünde başkan, en çok iki üyeyi yükseköğretim kurumları öğretim üyeleri arasından seçebilir.
+(2) Tez jürisi, tez ve tezin elektronik ortamdaki kopyasının teslim edildiği tarihten itibaren en geç on iş günü içinde oluşturulur.
+(3) Tez jürisi, üye tam sayısı ile toplanır; oy çokluğu ile karar alır. Asıl üye mazeretini belgelendirerek toplantıya katılmadığı takdirde yerine yedek üyeler tespit sırasına göre jüride yer alır.
+(4) Tez jürisi başkanı ve üyeleri; kendilerinin, boşanmış olsalar dahi eşlerinin, birinci ve ikinci derece kan ve kayın hısımlarının veya evlatlıklarının katıldıkları tez savunmalarında görev alamazlar. Bunların yerine yedek üyeler katılır. Tez danışmanı, danışmanı olduğu tez ile ilgili olarak tez jürisinde bulunamaz. Tez danışmanı, danışmanı olduğu tezin savunmasına katılabilir ancak oy kullanma hakkı bulunmamaktadır.
+(5) Tez jürisinin sekretarya hizmetleri Personel Dairesi Başkanlığı tarafından yürütülür.

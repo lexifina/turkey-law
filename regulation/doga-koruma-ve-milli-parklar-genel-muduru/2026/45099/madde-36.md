@@ -1,0 +1,3 @@
+Uzman ve uzman yardımcılarının eğitimleri
+MADDE 36- (1) Uzman yardımcılarına göreve başlamalarından itibaren bir yıl içinde bir aydan az üç aydan çok olmayacak şekilde hizmet içi eğitim verilir. Genel Müdürlüğün görev alanıyla ilgili verilecek eğitimin içeriği, genel müdür yardımcısının başkanlığında birim amirlerinden müteşekkil bir komisyon tarafından belirlenir. Bu komisyon Genel Müdür Oluru ile kurulur.
+(2) Uzman ve uzman yardımcıları Genel Müdürlükçe uygun görülen kurum dışı kurs ve sertifika programı niteliğindeki eğitimler ile Genel Müdürlük tarafından hazırlanan bir program dâhilinde yabancı dil eğitiminden yararlandırılabilirler.

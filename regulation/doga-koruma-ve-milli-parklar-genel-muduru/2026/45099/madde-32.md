@@ -1,0 +1,2 @@
+Başarısızlık hali
+MADDE 32- (1) Verilen ilave süre içinde tezlerini sunmayan veya ikinci defa hazırladıkları tezleri de kabul edilmeyenler, ikinci yeterlik sınavında da başarı gösteremeyen veya sınav hakkını kullanmayanlar ile süresi içinde yabancı dil yeterliliği şartını yerine getirmeyenler, uzman yardımcısı unvanını kaybederler ve Genel Müdürlükte durumlarına uygun memur unvanlı kadrolara atanırlar.

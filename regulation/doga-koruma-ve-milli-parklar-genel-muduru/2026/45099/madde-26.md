@@ -1,0 +1,5 @@
+Uzmanlık tezi hazırlanmasına ilişkin esaslar
+MADDE 26- (1) Tez konusunun başka bir kurum ve kuruluşta uzmanlık, yüksek lisans, doktora tezi veya başka bir ad altında aynı şekilde incelenip savunulmamış olması zorunludur. Uzman yardımcısının hazırlayacağı tezin kendi görüş ve değerlendirmeleri ile önerilerini içermesi ve bilimsel çalışma etiğine uygun olması gerekir.
+(2) Uzman yardımcısı, uzmanlık tezini tez danışmanının rehberliğinde bilimsel esaslara uygun olarak hazırlar. Tezde savunulan fikir ve görüşlerin özgünlüğü ile sorumluluğu tezi hazırlayan uzman yardımcısına aittir. Bunlar, Genel Müdürlüğün kurumsal görüşünü yansıtmaz.
+(3) Uzmanlık tezinde intihal yapıldığı tez jürisi tarafından tespit edilen uzman yardımcısının tezi reddedilir. Bu durum aynı zamanda disiplin suçu teşkil eder ve ilgililer hakkında 657 sayılı Kanunun disiplin hükümleri uygulanır.
+(4) Tez hazırlama, yazım, değerlendirme, etik kurallar, intihal denetimi ve danışmanlık süreçlerine ilişkin usul ve esaslar Genel Müdürlükçe çıkarılacak yönerge ile belirlenir.

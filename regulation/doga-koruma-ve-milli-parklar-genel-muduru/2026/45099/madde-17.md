@@ -1,0 +1,5 @@
+Yarışma sınavının değerlendirilmesi
+MADDE 17- (1) Başarı puanı, yazılı sınav ile sözlü sınav notlarının aritmetik ortalaması alınarak tespit edilir. Başarı sıralaması, başarı puanı en yüksek adaydan başlamak suretiyle belirlenir.
+(2) Yarışma sınavı komisyonu, adayları en yüksek başarı puanından başlamak üzere başarı sırasına göre sıralayarak ilan edilen kadro sayısı kadar adayı asıl, bu sayının en fazla yarısı kadar adayı da yedek olarak belirler ve ilan eder.
+(3) Adayların başarı puanlarının aynı olması halinde sırasıyla yazılı puanı, yarışma sınavına başvurduğu KPSS puanı ve yabancı dil puanı yüksek olan adaya öncelik tanınır.
+(4) Öğrenim dalları itibarıyla yarışma sınavı nihai başarı listesi ve uzman yardımcısı olarak atanabilecek adayların listesi Genel Müdür onayına sunulur. Listeler Genel Müdür tarafından onaylandıktan sonra Genel Müdürlük internet sitesinden ilan edilir. Listede yer alan asıl ve yedek adaylara, atanmaya ilişkin bildirim 11/2/1959 tarihli ve 7201 sayılı Tebligat Kanunu ve ilgili mevzuat hükümlerine göre yapılır.
