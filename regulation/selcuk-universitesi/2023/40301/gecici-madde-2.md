@@ -1,0 +1,2 @@
+GEÇİCİ MADDE 2- (Ek:RG-11/4/2026-33221)
+(1) 2024-2025 eğitim-öğretim yılından önce Fakülteye kayıt yaptıran öğrenciler hakkında; başarı notunun tespiti ve başarı denetimine ilişkin olarak, kayıt tarihinde yürürlükte bulunan 13/1/2016 tarihli ve 29592 sayılı Resmî Gazete’de yayımlanan mülga Selçuk Üniversitesi Ön Lisans ve Lisans Eğitim-Öğretim ve Sınav Yönetmeliğinin 13 üncü ve 15 inci maddeleri uygulanmaya devam edilir. Ancak, 2024-2025 eğitim-öğretim yılı için merkezi yerleştirme ile kayıt yaptıran öğrenciler hakkında bu madde hükümleri uygulanmaz.

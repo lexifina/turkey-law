@@ -1,0 +1,3 @@
+Mezuniyet
+MADDE 20- (1) Bir öğrencinin kayıtlı olduğu programdan mezun olabilmesi için 7 nci maddenin dördüncü fıkrasındaki asgari AKTS kredisi şartlarını sağlayarak gerekli olan dersleri alması, başarması ve mezuniyet ağırlıklı not ortalamasının en az 2,00 olması gerekir.
+(2) (Değişik:RG-4/8/2025-32976) Öğrencinin mezuniyet tarihi, o sınav dönemindeki sınavın son günüdür. Ancak, bu tarihe kadar üç ders sebebiyle mezun olamayan öğrenciler; üç ders sınavında başarılı olduğu tarihte mezun olur. Mezuniyetleri bir sonraki eğitim-öğretim yılına kalan öğrenciler ise o yılın da katkı payını veya öğrenim ücretini öder. Ancak üç ders sınavında başarılı olan öğrenciden ilgili eğitim-öğretim yılının katkı payı veya öğrenim ücreti alınmaz.
