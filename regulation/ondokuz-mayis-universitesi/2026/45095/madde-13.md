@@ -1,0 +1,4 @@
+Özel öğrenci kabulü
+MADDE 13- (1) Yüksek lisans, doktora ya da sanatta yeterlik programına kayıtlı olan öğrenciler, kayıtlı oldukları yükseköğretim kurumunun ilgili ana bilim/ana sanat dalının uygun görüşü ve enstitü yönetim kurulu onayıyla özel öğrenci olarak kabul edilebilirler.
+(2) Özel öğrenci statüsündeki öğrencilerin başarı durumlarının değerlendirilmesinde 18 inci ve 23 üncü maddeler uygulanır. Özel öğrenci statüsündeki öğrenciler, aldıkları dersleri daha sonraki dönemlerde kredili dersler olarak saydırabilirler. Özel öğrenciler, kredi/saat başına enstitü yönetim kurulu tarafından belirlenen ve Üniversite yönetim kurulunca onaylanan katkı payını öderler.
+(3) Özel öğrenciler, asıl öğrenciler gibi, Üniversiteye karşı yükümlülüklerini yerine getirmek, aldıkları derslerle ilgili bütün koşullara ve diğer hükümlere uymak zorundadırlar.

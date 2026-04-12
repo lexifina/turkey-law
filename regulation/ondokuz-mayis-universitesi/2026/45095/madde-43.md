@@ -1,0 +1,6 @@
+Sanatta yeterlik tez konusu/çalışması belirlenmesi ve izlenmesi
+MADDE 43- (1) Yeterlik sınavında başarılı olan öğrencinin en geç bir ay içerisinde;
+a) Tez konusu, kendisi ve danışmanı tarafından belirlenir, ana sanat dalı kurul kararı alınarak enstitüye önerilir ve enstitü yönetim kurulu kararıyla kesinleşir.
+b) Sanatta yeterlik tezi/çalışması izleme komitesinin; danışman görüşü, ana sanat dalı başkanlığının önerisi ve enstitü yönetim kurulu kararı ile oluşturulur.
+(2) Sanatta yeterlik tezi/çalışması izleme komitesi üç öğretim üyesinden oluşur. Komitede tez danışmanından başka enstitü ana sanat dalı içinden ve dışından birer üye yer alır. Ana bilim/ana sanat dalı dışından seçilecek komite üyesi başka bir yükseköğretim kurumundan da olabilir. Sanatta yeterlik tezi/çalışması izleme komitesi üyelerinin uzmanlık alanlarının tez konusu ile uyumlu olmasına ve özellikle disiplinler arası tez çalışmalarında ilgili disiplinin öğretim üyelerinin görev almasına dikkat edilir. İkinci tez danışmanı, komite toplantılarına katılabilir; ancak oy kullanamaz.
+(3) Sanatta yeterlik tezi/çalışması izleme komitesinin kurulmasından sonraki dönemlerde danışmanın görüşü, ilgili ana sanat dalı başkanlığının gerekçeli önerisi üzerine ve enstitü yönetim kurulunun onayı ile komite üyeliklerinde değişiklik yapılabilir.

@@ -1,0 +1,3 @@
+Ders tekrarı
+MADDE 21- (1) Lisansüstü öğrenci, başarısız olduğu dersleri tekrar alarak başarmak zorundadır. Devam koşulunun yerine getirilmediği tekrar derslerine devam etmek esastır. Devam mecburiyeti olmayan öğrenciler ise yarıyıl içi değerlendirmelerine katılmak zorundadır. Eğitim programının özelliği gerektirdiğinde, ana bilim/ana sanat dallarının devam koşulunu sağlayıp başarısız olmuş öğrencilerin derse devam etmelerini istemeleri hâlinde bu uygulama enstitü kurulunun kararı ile gerçekleştirilir.
+(2) Başarısız olunan dersin zorunlu dersler hariç, takip eden yarıyılda açılmaması veya programdan kaldırılmış olması hâlinde danışmanın önerisi ve ilgili ana bilim/ana sanat dalı başkanlığının uygun görüşü ile bu dersin yerine başka bir ders alınabilir.

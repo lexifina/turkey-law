@@ -1,0 +1,6 @@
+Dönem projesi
+MADDE 27- (1) Dönem projesi, öğrencinin tezsiz yüksek lisans eğitimi sırasında bilimsel ölçülere uygun olarak araştırma veya inceleme yoluyla gerçekleştirilen ve bilimsel rapor ölçülerine uygun biçimde hazırlanan bir çalışma olup, yüksek lisans ders programında edindiği bilgilerin etkin olarak kullanılmasına yöneliktir.
+(2) Danışman, öğrencinin dönem projesi konusunu birinci yarıyılın sonuna kadar ana bilim/ana sanat dalı başkanlığına sunar. Proje konusu, ana bilim/ana sanat dalı kurulu kararıyla kesinleşir.
+(3) Dönem projesi dersi kredisiz olup başarılı/başarısız olarak değerlendirilir. Öğrenci, dönem projesinin alındığı yarıyılda dönem projesine kayıt yaptırmak ve yarıyıl sonunda yazılı proje ve/veya rapor vermek zorundadır.
+(4) Dönem projesi, derslerle birlikte yürütülebilir.
+(5) Dönem projesini tamamlayan öğrenci, raporunu enstitü tez yazım kurallarına uygun şekilde hazırlar. Dönem projesi, intihal yazılım programı raporu alınarak danışman tarafından başarılı/başarısız olarak değerlendirilir. Toplam 30 kredi ve 60 AKTS’den az olmamak koşulu ile derslerinde başarılı olan öğrencinin ana bilim/ana sanat dalı kurulunca değerlendirilerek onaylanan dönem projesi, intihal yazılım programı raporuyla birlikte elektronik ortamda ilgili ana bilim/ana sanat dalı aracılığıyla enstitüye teslim edilir.
