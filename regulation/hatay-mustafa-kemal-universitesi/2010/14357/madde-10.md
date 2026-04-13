@@ -1,0 +1,4 @@
+Yönetim kurulu
+MADDE 10 – (1) Yönetim Kurulu; Müdür ve iki müdür yardımcısı ile Üniversitenin Veteriner Fakültesi Cerrahi, İç Hastalıkları, Doğum-Jinekoloji Anabilim Dalları öğretim üyeleri arasından belirlenen dört öğretim üyesi olmak üzere toplam yedi üyeden oluşur. Yönetim Kurulu üyeleri, Müdürün önerisi üzerine Rektör tarafından görevlendirilir.
+(2) Yönetim Kurulu üyelerinin görev süreleri üç yıldır. Herhangi bir nedenle ayrılan üyenin yerine, aynı usulle yenisi görevlendirilir. Görev süresi biten üyeler aynı usulle yeniden görevlendirilebilir.
+(3) Yönetim Kuruluna Müdür başkanlık eder. Yönetim Kurulu, Müdürün çağrısı üzerine, salt çoğunlukla toplanır. Kararlar toplantıya katılanların oy çokluğu ile alınır. Oyların eşitliği halinde başkanın oyu yönünde çoğunluk sağlanmış sayılır. (Değişik cümle:RG-13/4/2026-33223) Yönetim Kurulu, Müdürün gerekli gördüğü durumlarda ve Merkezin faaliyetlerini değerlendirmek üzere yılda en az iki defa toplanır.
