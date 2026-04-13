@@ -1,0 +1,3 @@
+Danışma Kurulu ve görevleri
+MADDE 12 – (1) Danışma Kurulu üyeleri; Yönetim Kurulu tarafından belirlenir. Danışma Kurulu, Merkezin faaliyetleri ile ilgili alanlarda bilgi ve deneyime sahip Üniversite öğretim elemanlarından beş ve kamu ve özel sektör kurum ve kuruluşlarını temsil edecek iki kişi olmak üzere toplam dokuz kişiden oluşur. Danışma Kurulu üyeleri üç yıl için görevlendirilir. Danışma Kurulu, Müdürün başkanlığında yazılı davet üzerine üye sayısının salt çoğunluğu ile toplanır ve katılanların oy çokluğu ile karar alınır.
+(2) Danışma Kurulu, Merkezin çalışma programının hazırlanmasına katkı sağlar ve çalışma önceliklerinin belirlenmesinde Yönetim Kuruluna tavsiyelerde bulunur.

@@ -1,0 +1,3 @@
+Müdür
+MADDE 8 – (1) Müdür; Merkezin faaliyet alanı ile ilgili teknik konularda çalışmalarda bulunan Ziraat Fakültesi Bitki Koruma Bölümü öğretim üyeleri arasından, Rektör tarafından üç yıl süre ile görevlendirilir. Süresi sona eren Müdür yeniden görevlendirilebilir. Müdürün altı aydan fazla süre ile görev başında bulunamaması durumunda görevi sona erer.
+(2) Müdür, çalışmalarında kendisine yardımcı olmak üzere, ilgili bölümde kadrolu öğretim elemanları arasından en fazla üç kişiyi müdür yardımcısı olarak üç yıl için görevlendirmek üzere Rektörün onayına sunar ve onay ile müdür yardımcıları görevlendirilir. Müdür, görevi başında bulunmadığı zamanlarda müdür yardımcılarından birine vekâlet bırakır. Vekâletin süresi altı ayı geçemez.
