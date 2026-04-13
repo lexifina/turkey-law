@@ -1,0 +1,32 @@
+{
+  "checked_on": "2026-11-14",
+  "commencement_quotes": [
+    "Yürürlük\nMADDE 39- (1) Bu Yönetmelik yayımı tarihinde yürürlüğe girer.\n"
+  ],
+  "completeness": "text",
+  "date_quote": "amendment Gazette table: 13/4/2026",
+  "first_law": null,
+  "gazette": "31937",
+  "images": {
+    "deferred": 0,
+    "omitted": 0,
+    "referenced": 0,
+    "source": 0
+  },
+  "in_force": "2026-04-13",
+  "in_force_basis": "latest amendment Gazette date printed by the source for its current consolidated text",
+  "issuer": "İstanbul Ayvansaray Üniversitesi",
+  "kind": "regulation",
+  "notes": [],
+  "published": "2022-08-28",
+  "source": "https://www.mevzuat.gov.tr/anasayfa/MevzuatFihristDetayIframe?MevzuatTur=8&MevzuatNo=39687&MevzuatTertip=5",
+  "source_bytes": 188827,
+  "source_id": "8.5.39687",
+  "source_sha256": "63f9fecab1a8fbeb4aa3851584405cb68a9bc67cef190780bc0299acd35869f7",
+  "structure": "article-files",
+  "text_status": "current-consolidated",
+  "title": "İSTANBUL TOPKAPI ÜNİVERSİTESİ LİSANSÜSTÜ EĞİTİM VE ÖĞRETİM YÖNETMELİĞİ",
+  "university_id": 474,
+  "version_label": "oldest version available",
+  "word_count": 9318
+}
