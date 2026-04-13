@@ -1,0 +1,7 @@
+İKİNCİ BÖLÜM
+Programların Açılması, Kontenjanların Belirlenmesi ve İlanı
+Programların açılması
+MADDE 5- (1) Programların açılması veya değişiklik önerileri, bilim/sanat dalı ve/veya ana bilim/ana sanat dalı kurulunun talebi, enstitü kurulunun olumlu görüşü, Senatonun kararı ve YÖK’ün onayı ile gerçekleşir.
+(2) Program açma teklifleri; YÖK’ün belirlediği esaslar çerçevesinde, yeni açılacak programda yarıyıllar itibarıyla okutulacak dersler, kredileri, zorunlu veya seçmeli statüleri, içerikleri ve dersleri verecek öğretim elemanlarının öz geçmişleri ve yayın listeleri ile birlikte yapılır.
+(3) Bir enstitüdeki disiplinler arası programların açılması teklifi programda görev alacak öğretim üyeleri tarafından birden fazla enstitüyü ilgilendiren disiplinler arası programların açılması teklifi ise ilgili enstitü müdürleri tarafından birlikte yapılır. Bu programların açılması enstitü kurullarının olumlu görüşü, Senato kararları ve YÖK’ün onayı ile gerçekleşir.
+(4) Açılan programlar enstitü ana bilim/ana sanat dalları ile aynı adları taşır. Ancak, Rektörlüğün önerisi ve YÖK’ün kararı ile bir enstitü ana bilim/ana sanat dalında, o enstitü ana bilim/ana sanat dalından farklı bir ad taşıyan lisansüstü program açılabileceği gibi disiplinler arası lisansüstü programlar da açılabilir. Aynı usulle yurt içindeki ve yurt dışındaki yükseköğretim kurumlarıyla ortak lisansüstü eğitim ve öğretim programları da açılabilir.

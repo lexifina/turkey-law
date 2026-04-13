@@ -1,0 +1,3 @@
+Başvuruların değerlendirilmesi
+MADDE 11- (1) Enstitü yönetim kurulu, yüksek lisans ve doktora/sanatta yeterlik başvurularını değerlendirmek, yazılı olarak yapılacak bilimsel değerlendirme ve/veya mülakat sınavı yapmak için, bilim/sanat dalı ve/veya ana bilim/ana sanat dalı kurulunca önerilen öğretim üyeleri arasından en az üç asıl, iki yedek üye olmak üzere bir sınav jürisi oluşturur.
+(2) Başvuruların değerlendirilmesinde ALES puanına ek olarak lisans, yüksek lisans not ortalaması, yabancı dil, yazılı ve/veya mülakat sınavının yapılıp yapılamayacağı ve değerlendirme ağırlıkları ile diğer hususlar, Senato tarafından kabul edilen usul ve esaslara göre yürütülür.

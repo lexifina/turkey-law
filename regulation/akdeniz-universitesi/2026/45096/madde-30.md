@@ -1,0 +1,2 @@
+Süre
+MADDE 30- (1) Tezsiz yüksek lisans programını tamamlama süresi; kayıt olduğu programa ilişkin derslerin verildiği dönemden başlamak üzere, her dönem için kayıt yaptırıp yaptırmadığına bakılmaksızın üç yarıyıldır. Bu sürenin sonunda başarısız olan veya programı tamamlayamayan öğrencinin enstitü ile ilişiği kesilir. Ancak Üniversiteden ilişiği kesildikten sonra aynı programa tekrar kayıt yaptırıp daha önce alıp başarmış olduğu dersler ile birlikte izlediği programın ders yükünü ve kredisini tamamlayan öğrenci en erken birinci yarıyılın sonunda programı tamamlayabilir.

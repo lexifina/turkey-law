@@ -1,0 +1,11 @@
+ÜÇÜNCÜ BÖLÜM
+Programlara Başvuru, Eş Değerlikler, Kesin Kayıt ve
+Öğrenci Kabulüne İlişkin Esaslar
+Başvuruda ortak hükümler
+MADDE 7- (1) Lisansüstü programlara başvuruda aranan ortak hükümler şunlardır:
+a) Adayların, ilgili bilim/sanat dalı ve/veya ana bilim/ana sanat dalı kurulu tarafından önerilen ve enstitü yönetim kurulunca onaylanan bir bilim/sanat dalında lisans ve/veya yüksek lisans derecesine sahip olmaları ya da mezuniyet aşamasında olmaları gerekir.
+b) Lisansüstü programlara başvuru yapacak adayların Senato tarafından belirlenen ALES standart puanına sahip olmaları gerekir. Ancak, konservatuvar programları ve güzel sanatlar fakültelerinin sadece özel yetenek sınavı ile öğrenci kabul eden programlarında ALES puanı aranmaz. Güzel sanatlar enstitüsündeki çok disiplinli ve disiplinler arası ana sanat/ana bilim dallarına öğrenci kabulünde özel yetenek sınavı dışında öğrenci kabul edilen programlarda ise en az 55 ALES sözel puan şartı aranır.
+c) Lisansüstü programlarda; tezli yüksek lisans programı için yabancı dil sınavının puan kriteri, ana bilim dalı kurulunun önerisi doğrultusunda enstitü yönetim kurulunun teklifi üzerine Senatonun onayı ile belirlenir. Doktora/sanatta yeterlik programları için en az 55 yabancı dil puanına sahip olma şartı aranır. Doktora/sanatta yeterlik programına giriş için kullanılan yabancı dil sınavlarında asgari taban puan değerleri ana bilim/ana sanat dalı kurulunun önerisi doğrultusunda enstitü yönetim kurulunun teklifi üzerine Senatonun onayı ile arttırılabilir.
+ç) Başvurularda, YÖK tarafından ALES taban puanına karşılık gösterilen GMAT veya GRE, ÖSYM tarafından yabancı dil sınavı yerine eş değerliği kabul edilen ulusal ya da uluslararası bir sınavdan eş değer bir sınav sonucu da kabul edilir.
+d) Sanatta yeterlik çalışmasına başvuracak adaylar için, güzel sanatlar fakülteleri ve konservatuvar mezunları ile diğer fakültelerin eş değer programlarından mezun olanlar haricinde başvuran adaylardan ALES sözel puanı aranır.
+e) Lisansüstü programlara başvuru koşullarını sağlayan adaylar, akademik takvimde belirtilen süre içinde, Senato tarafından belirlenen belgelerle birlikte lisansüstü eğitim yapmak istedikleri programa çevrimiçi başvuru yaparlar.

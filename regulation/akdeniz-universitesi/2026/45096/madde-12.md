@@ -1,0 +1,5 @@
+Kesin kayıt
+MADDE 12- (1) Lisansüstü öğrencilik hakkı kazanan adayların, akademik takvimde belirtilen tarihlerde Senato tarafından belirlenen belgeleri teslim ederek kesin kayıtlarını yaptırmaları gerekir. Süresi içerisinde kesin kayıt yaptırmayan adaylar kayıt hakkından vazgeçmiş sayılır. Başvuru ve kayıt için istenen belgelerin aslı veya Üniversite tarafından onaylı örneği kabul edilir. Eksik veya yeterli olmayan belgelerle kayıt yapılmaz. Askerlik durumu ve adli sicil kaydına ilişkin olarak ise adayın beyanına dayanılarak işlem yapılır. Kayıt sırasında öğrencinin yazılı olarak beyan ettiği adres, tebligat adresidir.
+(2) Lisansüstü programlara çevrimiçi başvuru yapıp kesin kayıt hakkı kazananlardan belgelerin asılları istenir.
+(3) Kayıt için sahte veya tahrif edilmiş belge kullanan veya giriş sınavlarında sahtecilik yaptığı belirlenen adayların kayıt işlemleri iptal edilir ve gerekli kanuni işlem yapılır.
+(4) Tezsiz yüksek lisans programları hariç, aynı anda birden fazla lisansüstü programa kayıt yaptırılamaz ve devam edilemez.
