@@ -1,0 +1,2 @@
+Yönetim kurulu
+MADDE 10 – (1) Yönetim Kurulu; Rektör veya ilgili Rektör Yardımcısı başkanlığında, Müdür, Ziraat Fakültesi Dekanı ile Ziraat Fakültesinin Bahçe Bitkileri, Tarla Bitkileri ve Zootekni bölümlerinden birer ve diğer bölümlerden iki üye olmak üzere toplam sekiz üyeden oluşur. Ziraat Fakültesi Dekanı haricindeki üyeler, Rektör tarafından üç yıllığına görevlendirilir. Süresi biten Yönetim Kurulu üyeleri yeniden görevlendirilebilir. Yönetim Kurulu, salt çoğunlukla toplanır ve katılanların oy çokluğu ile karar alır.
