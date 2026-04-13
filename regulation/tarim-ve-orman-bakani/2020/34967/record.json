@@ -1,0 +1,58 @@
+{
+  "source_id": "7.5.34967",
+  "kind": "regulation",
+  "register_kind": "Kurum ve Kuruluş Yönetmelikleri",
+  "title": "SU ÜRÜNLERİ ÜRETİMİNDE KİRALAMA YÖNETMELİĞİ",
+  "number": "34967",
+  "issuer": "Tarım ve Orman Bakanı",
+  "issuer_slug": "tarim-ve-orman-bakani",
+  "path": "regulation/tarim-ve-orman-bakani/2020/34967",
+  "source": "https://www.mevzuat.gov.tr/anasayfa/MevzuatFihristDetayIframe?MevzuatTur=7&MevzuatNo=34967&MevzuatTertip=5",
+  "source_sha256": "6a398e50cb86fccd5d7f06c4a5977df54d438d431308df2b800608fa4a47b8da",
+  "source_bytes": 72215,
+  "published": "2020-10-31",
+  "gazette": "31290",
+  "in_force": "2026-04-13",
+  "in_force_basis": "latest Resmî Gazete date printed in the source amendment notes/table (\"13/4/2026\") for the current consolidated text",
+  "date_evidence": [
+    [
+      "2026-04-13",
+      "13/4/2026",
+      "Resmî Gazete date in the source amendment table"
+    ],
+    [
+      "2025-09-10",
+      "10/9/2025",
+      "Resmî Gazete date in the source amendment table"
+    ],
+    [
+      "2024-09-25",
+      "25/9/2024",
+      "Resmî Gazete date in the source amendment table"
+    ],
+    [
+      "2023-02-11",
+      "RG-11/2/2023",
+      "Resmî Gazete date printed in the source amendment note"
+    ],
+    [
+      "2023-02-11",
+      "11/2/2023",
+      "Resmî Gazete date in the source amendment table"
+    ]
+  ],
+  "commencement_clauses": [
+    "Bu Yönetmelik yayımı tarihinde yürürlüğe girer"
+  ],
+  "history": "current-text",
+  "label": "oldest version available",
+  "checked_on": "2026-11-15",
+  "word_count": 4162,
+  "text_status": "current-consolidated",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  },
+  "completeness": "html-text-complete"
+}
