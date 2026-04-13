@@ -1,0 +1,1 @@
+[1] 13/4/2026 tarihli ve 33223 sayılı Resmî Gazete’de yayımlanan değişiklik ile bu Yönetmeliğin Adı “Mustafa Kemal Üniversitesi Üniversite Sanayi İşbirliği ve Teknoloji Transfer Ofisi Uygulama ve Araştırma Merkezi Yönetmeliği” iken metne işlendiği şekilde değiştirilmiştir.
