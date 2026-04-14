@@ -1,0 +1,3 @@
+Merkez danışma kurulu ve görevleri
+MADDE 12 – (1) Merkez Danışma Kurulu; Merkez Müdürü ile bu Yönetmeliğin 6 ncı maddesinde belirtilen faaliyet alanlarında bilgi, tecrübe ve eser sahibi uzman bilim insanları ve bu alanda çalışmalarda bulunan kurumların temsilcilerinden altı kişi olmak üzere en az yedi üyeden oluşur. Merkez Danışma Kurulu üyeleri, Rektör tarafından üç yıl süre ile görevlendirilir. Aynı usulle üyelerin üyeliklerine son verilebilir.
+(2) Merkez Danışma Kurulu; Merkez Müdürünün başkanlığında ve yazılı daveti üzerine, yılda en az bir defa toplanır ve salt çoğunluk aranmadan Merkezin faaliyetleriyle ilgili konularda tavsiye niteliğinde görüş ve önerilerde bulunur.
