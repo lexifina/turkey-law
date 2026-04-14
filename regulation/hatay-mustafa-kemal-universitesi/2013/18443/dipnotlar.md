@@ -1,0 +1,1 @@
+[1] 14/4/2026 tarihli ve 33224 sayılı Resmî Gazete’de yayımlanan değişiklik ile Yönetmeliğin adı “Mustafa Kemal Üniversitesi Uzaktan Eğitim Uygulama ve Araştırma Merkezi Yönetmeliği” iken metne işlendiği şekilde değiştirilmiştir.
