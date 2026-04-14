@@ -1,0 +1,23 @@
+{
+  "number": "meeting-04-14",
+  "number_as_published": "meeting-04-14",
+  "year": 2026,
+  "title": "2026 Yılı Nisan Ayı Meclis Kararları 14 Nisan 2026",
+  "decision_date": "2026-04-14",
+  "source": "https://datca.bel.tr/belgeler/meclis_karari",
+  "official_document": "https://datca.bel.tr/storage/documents/meclis_karari/20260811-7jfWPrW0.pdf",
+  "source_sha256": "b35d3bb830810b32390e5db715bbf2d343aba492b4fd9e3570ba54deb81cbea3",
+  "issuer": "Datça Belediye Meclisi",
+  "history_type": "metadata",
+  "text_status": "metadata-only: listing fields as published; complete decision text is in the linked official document, not transcribed",
+  "in_force": "2026-04-14",
+  "in_force_basis": "Decision date as printed in the official council listing: 14 NİSAN 2026; adoption date of the council decision; legal commencement not asserted",
+  "missing": [
+    "complete official decision text",
+    "official annexes"
+  ],
+  "law_text_complete": false,
+  "privacy_withheld": false,
+  "listing_label": "2026 Yılı Nisan Ayı Meclis Kararları 14 Nisan 2026",
+  "record_scope": "one official file of council decisions (meeting)"
+}
