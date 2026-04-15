@@ -1,0 +1,21 @@
+{
+  "record_type": "parliament-written-question",
+  "term": 28,
+  "legislative_year": 4,
+  "esas_no": "7/43368",
+  "submitted": "2026-04-15",
+  "submitted_as": "Başkanlığa geliş tarihi",
+  "mp": "Ayten KORDU",
+  "province": "Tunceli",
+  "summary": "Tunceli'nin Nazımiye ilçesindeki bazı TOKİ konutlarında yaşanan mülkiyet sorununa ilişkin",
+  "status": "Süresi Geçtikten Sonra Cevaplandı",
+  "status_as_of": "2026-11-16",
+  "official_record": "https://www.tbmm.gov.tr/Denetim/Yazili-Soru-Onergesi-Detay/4a1aec98-acac-494b-a3de-019d96b78568",
+  "source": "https://tbmm.gov.tr/Denetim/YaziliSoruOnergesiTable",
+  "source_form": "https://tbmm.gov.tr/Denetim/Yazili-Soru-Onergeleri",
+  "source_sha256": "84d1f1954126c9cf024bf2708035b7d8214bd66d02962ad45c99d584a4fd27ab",
+  "in_force": "2026-04-15",
+  "in_force_basis": "Date the question reached the Speaker (Başkanlığa geliş tarihi) in the official TBMM written-question record; parliamentary oversight record, not law",
+  "history_type": "metadata",
+  "text_status": "metadata-only: question text, addressee and answers are in the linked official record (PDFs on cdn.tbmm.gov.tr); not transcribed here"
+}
