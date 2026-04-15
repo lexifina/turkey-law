@@ -1,0 +1,2 @@
+SANAYİ SİCİL TEBLİĞİ
+(SGM 2026/4)
