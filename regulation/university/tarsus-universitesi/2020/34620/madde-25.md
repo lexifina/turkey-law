@@ -1,0 +1,3 @@
+Yatay geçiş yoluyla öğrenci kabulü
+MADDE 25 – (Değişik:RG-22/9/2024-32670)
+(1) Üniversitedeki veya diğer bir yükseköğretim kurumundaki bir lisansüstü programda en az bir yarıyılını başarı ile tamamlamış öğrenciler, (Değişik ibare:RG-15/4/2026-33225) eşdeğer diploma programına yatay geçiş yoluyla kabul edilebilir. Yatay geçiş için başvuran öğrencinin not belgesi ve ders içerikleri, ilgili ABD başkanlığı tarafından değerlendirilir. ABD başkanlığı, ilgili öğrencinin başvurduğu programa intibakı için ek dersler almasını önerebilir. Yatay geçiş değerlendirmesi, ABD başkanlığının önerisi ve EYK'nin kararı ile kesinleşir.
