@@ -1,0 +1,2 @@
+Amaç ve kapsam
+MADDE 1 – (1) Bu Tebliğin amacı, 5/4/2024 tarihli ve 32511 sayılı Resmî Gazete’de yayımlanan İthalatta Haksız Rekabetin Önlenmesine İlişkin Tebliğ (Tebliğ No: 2024/13) ile Çin Halk Cumhuriyeti, İtalyan Cumhuriyeti ve Sırbistan Cumhuriyeti menşeli “diğerleri” eşya tanımlı “termosifon-elektrikli, depolu su ısıtıcısı” ürünü ithalatına yönelik başlatılan ve Ticaret Bakanlığı İthalat Genel Müdürlüğü tarafından yürütülen nihai gözden geçirme soruşturmasının tamamlanması neticesinde alınan kararın yürürlüğe konulmasıdır.
