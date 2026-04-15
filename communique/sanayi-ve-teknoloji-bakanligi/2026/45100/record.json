@@ -1,0 +1,36 @@
+{
+  "checked_on": "2026-11-13",
+  "date_gazette": "33225",
+  "date_quote": "15.04.2026",
+  "first_law": null,
+  "gazette": "33225",
+  "history": "current-text",
+  "images": {
+    "deferred": 0,
+    "omitted": 0,
+    "referenced": 0,
+    "source": 0
+  },
+  "in_force": "2026-04-15",
+  "in_force_basis": "original Resmi Gazete publication date supplied by the official listing",
+  "issuer": "Sanayi ve Teknoloji Bakanlığı",
+  "issuer_catalog_evidence": [
+    {
+      "evidence": "issuer-628-0.json",
+      "id": "628",
+      "label": "Sanayi ve Teknoloji Bakanlığı",
+      "listing_url": "https://www.mevzuat.gov.tr/Anasayfa/MevzuatDatatable?MevzuatTur=Teblig&KurumId=628&start=0&length=100"
+    }
+  ],
+  "issuer_slug": "sanayi-ve-teknoloji-bakanligi",
+  "kind": "communique",
+  "label": "oldest version available",
+  "notes": [],
+  "published": "2026-04-15",
+  "source": "https://www.mevzuat.gov.tr/anasayfa/MevzuatFihristDetayIframe?MevzuatTur=9&MevzuatNo=45100&MevzuatTertip=5",
+  "source_bytes": 20606,
+  "source_id": "9.5.45100",
+  "source_sha256": "59b4a49d12f3e4e7d0654e80f0b5fa6ed92667aaedeb4be5533319ab53081bc9",
+  "title": "ELEKTRİKLİ SKUTERLERİN ÜRETİMİNDEKİ YERLİLİK ESASLARI HAKKINDA TEBLİĞ (SGM-2026/5)",
+  "word_count": 859
+}
