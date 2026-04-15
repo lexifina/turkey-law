@@ -1,0 +1,21 @@
+{
+  "record_type": "parliament-written-question",
+  "term": 28,
+  "legislative_year": 4,
+  "esas_no": "7/43435",
+  "submitted": "2026-04-15",
+  "submitted_as": "Başkanlığa geliş tarihi",
+  "mp": "Selçuk ÖZDAĞ",
+  "province": "Muğla",
+  "summary": "Muğla'nın Milas ilçesine bağlı Ören Mahallesi'nde sağlık merkezi kurulması talebine ilişkin",
+  "status": "Cevaplanmadığı Gelen Kağıtlarda İlan Edildi",
+  "status_as_of": "2026-11-16",
+  "official_record": "https://www.tbmm.gov.tr/Denetim/Yazili-Soru-Onergesi-Detay/275b7c5b-73b9-48bf-ac1f-019d9b6f8680",
+  "source": "https://tbmm.gov.tr/Denetim/YaziliSoruOnergesiTable",
+  "source_form": "https://tbmm.gov.tr/Denetim/Yazili-Soru-Onergeleri",
+  "source_sha256": "31c65e43a69bc1f3ee1afe5315bc6dad27d3316e03ae68cae61d2d22b7a18d4a",
+  "in_force": "2026-04-15",
+  "in_force_basis": "Date the question reached the Speaker (Başkanlığa geliş tarihi) in the official TBMM written-question record; parliamentary oversight record, not law",
+  "history_type": "metadata",
+  "text_status": "metadata-only: question text, addressee and answers are in the linked official record (PDFs on cdn.tbmm.gov.tr); not transcribed here"
+}
