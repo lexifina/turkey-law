@@ -1,0 +1,22 @@
+{
+  "kind": "norm",
+  "issuer": "Gelir İdaresi Başkanlığı",
+  "document_type": "ozelge",
+  "number": "E-84098128-120[89-2024/12]-283257",
+  "source_id": 38901,
+  "date": "2026-04-15",
+  "title": "Yurt dışında, yurt dışı mukim şirkete verilen ürün testi ile veri analizi hizmetinden elde edilen kazancın Gelir Vergisi Kanununun 89 uncu maddesine göre indirim konusu yapılıp yapılmayacağı",
+  "source": "https://gib.gov.tr/mevzuat/kanun/433/ozelge/38901",
+  "related_law": "193 sayılı GELİR VERGİSİ KANUNU",
+  "source_api": "https://gib.gov.tr/api/gibportal/mevzuat/ozelge/list",
+  "source_listing": "evidence/list/2026-11-16/ozelge-p009.json",
+  "source_listing_sha256": "9cb52b4963a9a177a23948f6e28c12936c2f43c88a0b410872bb81c01983667c",
+  "source_sha256": "f710512392ea33699a1d1b895fd7955b35aa80a2da4644ba472f3e98aa4dc5ec",
+  "text_status": "as-enacted",
+  "text_file": "metin.md",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  }
+}
