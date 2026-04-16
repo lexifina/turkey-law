@@ -1,0 +1,2 @@
+Müdür yardımcıları
+MADDE 10- (1) Müdüre çalışmalarında yardımcı olmak üzere, Müdürün önerisiyle Rektör tarafından Üniversite öğretim elemanları arasından iki kişi üç yıllık süre için müdür yardımcısı olarak görevlendirilir. Müdürün görev süresinin dolması veya herhangi bir sebeple görevinden ayrılması halinde müdür yardımcılarının da görevi sona erer. Müdüre görevi başında bulunmadığı zamanlarda müdür yardımcılarından biri vekâlet eder.

@@ -1,0 +1,12 @@
+Müdürün görevleri
+MADDE 9- (1) Müdürün görevleri şunlardır:
+a) Merkezi temsil etmek ve Merkezin çalışmalarının yürütülmesini sağlamak.
+b) Yönetim Kurulunun ve Danışma Kurulunun toplantılarına başkanlık etmek; Yönetim Kurulunun gözetim ve denetimi altında ve Danışma Kurulunun görüş ve önerilerinde Merkezin işlerini yürütmek.
+c) Merkezin kısa, orta ve uzun vadeli stratejik planını hazırlamak ve Danışma Kurulunun görüş ve önerilerini, Yönetim Kurulunun olurunu ve Rektör onayını aldıktan sonra uygulamak.
+ç) Merkezin yıllık faaliyet raporunu ve bir yıl sonraki çalışma programını her yılın ocak ayı sonuna kadar Yönetim Kurulunun görüşünü aldıktan sonra Rektöre sunmak.
+d) Müdür yardımcılarını görevlendirmesi için Rektöre önermek.
+e) Merkezin sistem, donanım ve test departmanı gibi teknik altyapı ve Ar-Ge destek yapıları kısımlarının oluşturulması ve bunların idarecilerinin ihtiyaçları ve benzeri konuları gerekçeleriyle birlikte hazırlamak, bu konuda Yönetim Kurulu ile birlikte karar almak, görev alacak akademik ve idari personel ihtiyaçlarını Yönetim Kurulunun görüşünü de alarak Rektörün onayına sunmak.
+f) Merkez birimlerinin Üniversite personeli tarafından kullanımı ve çalışma prensipleri ile ilgili birimlerin çalışma yönergesi ve ihtiyaç duyulacak diğer yönergeleri ilgili mevzuat hükümleri kapsamında hazırlamak.
+g) Merkez birimlerinin faaliyetlerini düzenlemek, yürütmek ve denetlemek.
+ğ) Yönetim Kurulunu ve Danışma Kurulunu toplantıya çağırmak ve bu toplantıların gündemini hazırlamak.
+h) Rektör tarafından verilecek diğer görevleri yapmak.
