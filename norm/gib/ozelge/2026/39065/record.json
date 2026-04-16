@@ -1,0 +1,22 @@
+{
+  "kind": "norm",
+  "issuer": "Gelir İdaresi Başkanlığı",
+  "document_type": "ozelge",
+  "number": "E-45404237-130[25/452]-152713",
+  "source_id": 39065,
+  "date": "2026-04-16",
+  "title": "Çiğ köfte satışında uygulanması gereken KDV oranı hk.",
+  "source": "https://gib.gov.tr/mevzuat/kanun/436/ozelge/39065",
+  "related_law": "3065 sayılı KATMA DEĞER VERGİSİ KANUNU",
+  "source_api": "https://gib.gov.tr/api/gibportal/mevzuat/ozelge/list",
+  "source_listing": "evidence/list/2026-11-16/ozelge-p009.json",
+  "source_listing_sha256": "9cb52b4963a9a177a23948f6e28c12936c2f43c88a0b410872bb81c01983667c",
+  "source_sha256": "e758dc5208a2643f1f3910cad8957876cb14f8ac9eddb229de05aa6c39bf1d8a",
+  "text_status": "as-enacted",
+  "text_file": "metin.md",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  }
+}
