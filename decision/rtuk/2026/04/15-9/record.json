@@ -1,0 +1,15 @@
+{
+  "issuer": "Radyo ve Televizyon Üst Kurulu (RTÜK)",
+  "record_type": "Üst Kurul Kararı",
+  "meeting": "2026/15",
+  "meeting_date": "2026-04-16",
+  "meeting_date_as_published": "16.4.2026",
+  "decision_no": "9",
+  "source_id": 20739,
+  "title": "RTÜK kararı 2026/15-9",
+  "source": "https://www.rtuk.gov.tr/UstKurulKarar/Detay/20739",
+  "source_sha256": "e493b4e8acf6d7325024c1e713b660fc0bd5ded442048988c0011ee7e1fc0d2d",
+  "text_status": "metadata-only",
+  "metadata_only_reason": "possible private person name(s) in the official text (5 match(es)); full text withheld, official link only",
+  "law_text_complete": false
+}
