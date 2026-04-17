@@ -1,0 +1,2 @@
+Göl ve nehir aracı sürücüsü yeterlik belgeleri
+GEÇİCİ MADDE 2- (1) Bu Yönetmeliğin yürürlüğe girdiği tarihten önce 23 üncü madde ile yürürlükten kaldırılan Köyceğiz Gölü ve Dalyan Kanallarında Çalışacak Taşıma Araçları Yönetmeliği kapsamında düzenlenmiş göl ve nehir aracı sürücüsü yeterlik belgeleri, gemi sevk ve idare belgesi yerine geçer ve talep edilmesi halinde ayrıca gemi sevk ve idare belgesi düzenlenir.

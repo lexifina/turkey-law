@@ -1,0 +1,2 @@
+Kapsam
+MADDE 2- (1) Bu Yönetmelik; Köyceğiz Gölü ve Köyceğiz Gölü’nü Akdeniz’e bağlayan Dalyan Kanalları ve bu kanallara bağlantılı tüm göl ve göletlerde kullanılan ve bu sulara denizden giriş ve çıkış yapan teknelerin kullanma, nitelik, teknik donanım esasları ve trafiği ile ilgili kurallar ve bu kuralları uygulayacak Köyceğiz Gölü ve Dalyan Kanalları İdare Kurulu ile Tekne Denetim Komisyonunun görev, yetki ve sorumluluklarına ilişkin hükümleri kapsar.
