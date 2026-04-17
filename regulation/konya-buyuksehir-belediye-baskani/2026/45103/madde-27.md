@@ -1,0 +1,19 @@
+BEŞİNCİ BÖLÜM
+Yapılara İlişkin Hükümler
+Yapı ünite fonksiyonlarına göre yapılaşma koşulları
+MADDE 27- (1) Yapıda aşağıdaki kullanımların bulunması zorunludur:
+a) İlgili mevzuatında öngörülen ölçülerde enerji odası, haberleşme sistem odası ve bacası,
+b) Merkezi ısıtma sistemli binalarda ısıtma merkezi klima sistemi veya ısı pompası gibi sistemlerle sağlanmıyor ise kazan dairesi veya kaskat sistemi veya teshin merkezi,
+c) Katı yakıt kullanan sobalı binaların bodrum veya zemin katlarında veya bodrum katı bulunmayan binaların ortak alan niteliğini haiz olmak ve eklenti ihdas etmemek kaydıyla bahçelerinde her daire için en az 5.00 m2, en fazla 10.00 m2 odunluk, kömürlük veya depolama yeri,
+ç) Binaların Yangından Korunması Hakkında Yönetmelik, 25/8/1988 tarihli ve 19910 sayılı Resmî Gazete’de yayımlanan Sığınak Yönetmeliği, 22/2/2018 tarihli ve 30340 sayılı Resmî Gazete’de yayımlanan Otopark Yönetmeliği, 5/12/2008 tarihli ve 27075 sayılı Resmî Gazete’de yayımlanan Binalarda Enerji Performansı Yönetmeliği ve 18/3/2018 tarihli ve 30364 mükerrer sayılı Resmî Gazete’de yayımlanan Türkiye Bina Deprem Yönetmeliğinde binada zorunlu olarak bulunması gereken birimler,
+asgari ölçülerde yapılır.
+(2) Paratonerler, uyarı lambaları, antenler ve zorunlu tesisatlar ile ilgili hükümler şunlardır:
+a) İçinde patlayıcı madde bulundurulan yerlerle, sivri veya yüksek bina ve tesislere Binaların Yangından Korunması Hakkında Yönetmelik gereği, TSE standardlarına uygun paratoner konması mecburidir.
+b) Antenler merkezi olarak binaların görüntü kirliliğine neden olmayacak şekilde çatıya yerleştirilir.
+c) Çok yüksek yapılar ile havaalanı uçuş koridoru üzerinde olan yapılara ilgili belediyesince ve yetkili kamu kuruluşlarınca uygun görülecek yerlerde uyarı lambası tesis edilir.
+ç) Enerji odası bulunan yapıların bina girişinde müdahale ekiplerinin, yangın ve deprem ve benzeri tehlike anında dışarıdan kolay ulaşabileceği konumda acil durdurma butonu yapılması zorunludur.
+(3) Binaların enerji ihtiyacı için gerekmesi durumunda çevre sağlığı yönünden gerekli koruyucu tedbirler alınarak trafo yeri tesis edilebilir. Trafo mekânları, gerekli güvenlik önlemleri alınarak ve müstakil giriş çıkış sağlanarak mimari proje vaziyet planında gösterilir. Trafonun parseldeki konumu ve parseldeki diğer yapılar ile arasındaki mesafesi, ilgili idaresi mimari estetik komisyonu ve elektrik dağıtım şirketinin uygun görüşü ile trafik güvenliğini tehlikeye düşürmeyecek şekilde belirlenir ve çevresinde tel çit ve benzeri güvenlik önlemleri alınarak parselinde tertip edilir.
+(4) İlgili mevzuatına uygun olması şartıyla yapının ihtiyacı için yapılan zorunlu tesisat üniteleri bina kütlesi içerisinde veya yangın güvenliğine ilişkin önlemlerin alınması şartı ile bina cephelerine 3.00 metreden fazla yaklaşmaması şartı ile teras çatılarda düzenlenebilir.
+(5) İlgili mevzuatına uygun olmak şartıyla bodrum katı bulunmayan tek katlı ve tek bağımsız bölümden oluşan konutlar hariç, birden fazla bağımsız bölümden oluşan konutlarda bodrum kat dışında diğer katlarda yapılan tesisat şaft ve odaları, asgari ölçüleri sağlaması şartı ile katta bulunan her bağımsız bölüm için en fazla 1.50 m² yapılabilmesinde ilgili idaresi yetkilidir.
+(6) İlgili mevzuatına uygun olmak şartıyla bodrum katta ortak alan bulunan ve en az 8 bağımsız bölümü bulunan konut veya ticari yapılarda en az 6.00 m² büyüklüğünde elektronik haberleşme sistem odası ve üst katlarında ortak kat holü bulunan binalarda, 0.30 m² şaft bacası yapılmasında ilgili idaresi yetkilidir.
+(7) İlgili mevzuatına uygun olmak şartıyla çok yüksek yapılarda veya merkezi klima sistemi ile ısıtma ve soğutma yapılan umumi binalarda, tesisat katı veya mekanik tesisat proje ve hesaplarına uygun olarak mekanik tesisatının gereksinimini karşılayacak tesisat alanı ayrılmasında ilgili idaresi yetkilidir.

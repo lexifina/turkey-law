@@ -1,0 +1,4 @@
+Saçaklar
+MADDE 42- (1) Uygulama imar planında belirlenmemiş ise parsel sınırına 2.00 metreden fazla yaklaşmamak şartı ile 1.50 metreyi geçmeyen saçak yapılabilir. Ancak saçakların şekli ve genişliği, parsel sınırına 2.00 metreden fazla yaklaşmamak şartı ile yörenin mimari karakterine ve yapılacak yapıların özelliğine göre mimari estetik komisyonu kararı alınarak ilgili idarece tayin edilebilir.
+(2) Saçaklar parsel sınırlarını aşamaz.
+(3) Hiçbir şekilde parsel sınırlarını aşmamak şartı ile kamu hizmeti için kullanılan resmi binalarla, ibadet yerleri, resmi veya özel eğitim tesisleri, sağlık ve spor tesisleri, sinema, tiyatro, müze, kütüphane, konferans salonu, kültür merkezi, otel ve alışveriş merkezi yapılarında yapılacak saçakların genişliği ve yüksekliğinin, yörenin mimari karakterine ve yapılacak yapıların özelliğine göre mimari estetik komisyonu görüşü alınarak ilgili idaresince belirlenir.
