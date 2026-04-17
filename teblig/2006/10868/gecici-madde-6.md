@@ -1,0 +1,2 @@
+GEÇİCİ MADDE 6 – (Ek:RG-30/5/2008-26891)
+(1) Belge süresi sona ermiş ancak henüz ihracat taahhüdü kapatılmamış dahilde işleme izin belgesinin orijinal süresinin uzatılmış olması halinde, belge süresi sonundan itibaren belge orijinal süresinin uzatılmasına ilişkin işlemin yapıldığı tarihe kadar gerçekleştirilen ihracata ilişkin gümrük beyannamesi, üzerinde belge sahibi firmanın unvanının veya belge sayısının yer alması ve belge ihracat taahhüdüne saydırılmasına ilişkin diğer şartların saklı kalması kaydıyla ilgili belge ihracat taahhüdünün kapatılmasında kullanılabilir.

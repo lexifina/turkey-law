@@ -1,0 +1,3 @@
+Dahilde işleme izin belgeleri/dahilde işleme izinlerine ilişkin ek süre başvuruları
+GEÇİCİ MADDE 33 – (Ek:RG-22/1/2019-30663)
+(1) Bu maddenin yürürlüğe girdiği tarihten önce düzenlenmiş ihracat taahhüt hesabı henüz kapatılmamış dahilde işleme izin belgeleri/dahilde işleme izinleri ile ihracat taahhüt hesabı müeyyideli olarak kapatılmış ancak müeyyidesi kısmen de olsa tahsil edilmemiş olan dahilde işleme izin belgelerine/dahilde işleme izinlerine, bu maddenin yürürlüğe girdiği tarihten itibaren 3 ay içerisinde Bakanlığa müracaatta bulunulması kaydıyla, bu müracaatın uygun görüldüğü tarihten itibaren belge/izin orijinal süresinin yarısını geçmemek üzere ilave süre verilir.

@@ -1,0 +1,2 @@
+GEÇİCİ MADDE 15 – (Ek:RG-6/8/2009-27311)
+(1) Dahilde işleme izin belgesi kapsamında 1/4/2008-31/12/2008 tarihleri arasında ithal edilen Gümrük Tarife Cetvelinin 72 ila 79 uncu fasıllarında yer alan eşyanın değerinin belge kapsamındaki toplam ithalat değerinin % 35'inden fazla olması halinde, ithaline izin verilen eşyanın belge ihracat taahhüdünde yer alan işlem görmüş ürünün üretiminde kullanılıp belge süresi içerisinde ihraç edildiğinin tevsiki kaydıyla, ilgili belgelerin ihracat taahhüdü döviz kullanım oranı aranmaksızın kapatılır.

@@ -1,0 +1,3 @@
+Dahilde işleme izin belgeleri/dahilde işleme izinlerine ilişkin ek süre başvuruları
+GEÇİCİ MADDE 30 – (Ek:RG-10/6/2017- 30092)
+(1) Bu maddenin yürürlük tarihinden önce düzenlenmiş ve ihracat taahhüt hesabı henüz kapatılmamış olan dahilde işleme izin belgelerine/dahilde işleme izinlerine bu Tebliğ ile sağlanan ek sürelerden faydalanmak amacıyla, bu Tebliğde belirtilen süreler içinde başvuruda bulunamamış veya başvuruda bulunmakla birlikte başvuruları reddedilmiş olan firmaların, bu maddenin yürürlüğe girdiği tarihten itibaren 3 (üç) ay içinde elektronik ortamda Bakanlığa/Gümrük ve Ticaret Bakanlığına başvurmaları kaydıyla bu Tebliğ kapsamında belirtilen ek sürelere ilişkin talepleri değerlendirmeye alınır.

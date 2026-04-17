@@ -1,0 +1,3 @@
+Bazı özel şartların yerine getirilememesi durumuna ilişkin geçici uygulama
+GEÇİCİ MADDE 27 – (Ek:RG-20/6/2015-29392)
+(1) Bu maddenin yürürlüğe girdiği tarihten önce düzenlenen dahilde işleme izin belgelerinde (taahhüt hesapları kapatılan ancak müeyyideleri tahsil edilmeyen belgeler dahil) ayniyet ve/veya ekspertiz raporu aranmasına, dönemsel ithalat kısıtlaması uygulanmasına ya da önceden ihracata tekabül eden miktarı aşmamak üzere ithalat yapılabilmesine ilişkin özel şartların bu maddenin yürürlük tarihinden önce yerine getirilememiş olması durumunda; belge kapsamında ithal edilen eşyanın ihraç edilen işlem görmüş ürünün bünyesinde kullanıldığının yeminli mali müşavir raporu ile tevsik edilmesi kaydıyla, söz konusu özel şartların yerine geldiği kabul edilebilir.

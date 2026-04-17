@@ -1,0 +1,1 @@
+GEÇİCİ MADDE 3 – (1) Bu Tebliğin yayımı tarihinden önce düzenlenen dahilde işleme izin belgelerinin/dahilde işleme izinlerinin düzenlendikleri tarihte yürürlükte bulunan Tebliğ hükümleri; münhasıran anılan dahilde işleme izin belgelerine/dahilde işleme izinlerine uygulanır.

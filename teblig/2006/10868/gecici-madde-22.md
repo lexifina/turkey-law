@@ -1,0 +1,2 @@
+GEÇİCİ MADDE 22 – (Ek:RG-17/5/2011-27937)
+(1) Bu maddenin yayımı tarihinden önce düzenlenmiş ve henüz ihracat taahhüt hesabı kapatılmamış dahilde işleme izin belgelerine, bu Tebliğin 17 nci maddesinin dokuzuncu fıkrası ile 45 inci maddesinin birinci fıkrasının (ç) bendinin uygulanması bakımından, bu maddenin yayımı tarihi öncesi uygulanan Dahilde İşleme Rejimi mevzuatının lehe olan hükümleri uygulanır.

@@ -1,0 +1,4 @@
+Gözetim ve korunma önlemlerine tabi eşya
+MADDE 32 – (1) Dahilde işleme izin belgesi/dahilde işleme izni kapsamında ithali gözetim ve korunma önlemlerine tabi eşyanın serbest dolaşıma girebilmesi için, firmaların (yan sanayici veya aracı ihracatçı dahil) ithal tarihi itibarıyla yürürlükte bulunan gözetim ve korunma önlemleri çerçevesinde ithal lisanslarının (kota) ve/veya gözetim belgelerinin bulunması zorunludur.
+(2) Aksi takdirde, bu eşyadan elde edilen işlem görmüş ürünün, üçüncü ülkelere ihracı ya da gümrük idaresi gözetiminde imhası gerekir.
+(3) Ancak, belge/izin kapsamında A.TR dolaşım belgesi eşliğinde Avrupa Topluluğuna üye ülkelere ihraç edilen işlem görmüş ürünün elde edilmesinde kullanılan eşyanın bu ülkelerde gözetim ve korunma önlemlerine tabi olmaması halinde, bu eşya ile ilgili olarak gözetim ve korunma önlemleri çerçevesinde ithal lisansları (kota) ve/veya gözetim belgeleri aranmaz.

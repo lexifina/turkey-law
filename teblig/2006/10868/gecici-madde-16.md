@@ -1,0 +1,2 @@
+GEÇİCİ MADDE 16 – (Ek:RG-6/8/2009-27311)
+(1) Elektronik ortamda düzenlenmemiş olan dahilde işleme izin belgesi kapsamında elektrik enerjisi ihracat taahhüdü bulunması halinde, bu ihracata ilişkin gümrük beyannamesi üzerinde ilgili imalatçı firma unvanının veya ilgili belge sayısının yer alması kaydıyla ilgili belge ihracat taahhüt hesabı, TEİAŞ bünyesindeki Piyasa Mali Uzlaştırma Merkezi'nden teyidi alınan fatura bilgileri esas alınarak kapatılabilir.

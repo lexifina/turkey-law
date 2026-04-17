@@ -1,0 +1,3 @@
+Türkiye gümrük bölgesi dışında veya serbest bölgelerde yapılacak işleme faaliyeti
+MADDE 10 – (1) Şartlı muafiyet sistemi çerçevesinde, dahilde işleme izin belgesi kapsamında işlem görmüş ürünün veya değişmemiş eşyanın tamamı ya da bir kısmı, hariçte işleme rejimi hükümleri çerçevesinde daha ileri düzeyde işlenmek üzere Türkiye Gümrük Bölgesi dışına veya serbest bölgelere geçici olarak ihraç edilebilir.
+(2) Birinci fıkra hükmü çerçevesindeki işlem görmüş ürünün ithaline, bu ürünlerin ithalat vergileri tutarından, geçici ihracat eşyasının en son işleme faaliyetine tabi tutulduğu Türkiye Gümrük Bölgesi dışı veya serbest bölgeden aynı tarihte ithal edilmesi halinde uygulanacak vergi tutarının indirilmesi suretiyle hesaplanan tutar kadar teminat alınarak izin verilir.

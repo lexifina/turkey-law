@@ -1,0 +1,4 @@
+I-Şartlı muafiyet sistemi
+Şartlı muafiyetin kapsamı
+MADDE 5 – (1) Şartlı muafiyet sistemi; dahilde işleme izin belgesi/dahilde işleme izni kapsamında ihracı taahhüt edilen işlem görmüş ürünün elde edilmesinde kullanılan (belge/izin sahibi firma ve/veya yan sanayici firma tarafından) ve serbest dolaşımda bulunmayan hammadde, yardımcı madde (katalizör olarak kullanılanlar dahil), yarı mamul, mamul ile değişmemiş eşya, ambalaj ve işletme malzemesinin, Türkiye Gümrük Bölgesinde (serbest bölgeler hariç) yerleşik firmalarca, ticaret politikası önlemlerine tabi tutulmaksızın, vergisi teminata bağlanmak suretiyle bedelli ve/veya bedelsiz ithal edilmesi ve ihracat taahhüdünün gerçekleşmesini müteakip, alınan teminatın iade edilmesidir.
+(2) Ancak, belge/izin kapsamında yapılacak işletme malzemesi ithalatında, katma değer vergisi ve özel tüketim vergisi tahsil edilir ve ticaret politikası önlemleri uygulanır.

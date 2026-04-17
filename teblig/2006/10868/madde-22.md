@@ -1,0 +1,6 @@
+Ek süre müracaatının değerlendirilmesi
+MADDE 22 – (1) (Değişik:RG-1/10/2014-29136) Dahilde işleme izin belgesi kapsamında ilk ithalatın yapıldığı tarih esas alınmak suretiyle belge süresi azami 3 (üç) ay uzatılır. Belge kapsamında hiç ithalat yapılmaması halinde de belge süresi azami 3 (üç) ay uzatılır.
+(2) (Değişik fıkra:RG-9/10/2013-28790) Dahilde işleme izin belgesi kapsamında gerçekleştirilen ihracat değerinin belge ihracat taahhüdü değerine oranının en az % 25 olması halinde (komple tesis veya gemi inşasına ilişkin düzenlenen belgelerde üretimin % 25’inin tamamlandığının belgelenmesi halinde) dahilde işleme izin belgesine belge orijinal süresinin yarısı kadar ek süre verilebilir.
+(3) Şartlı muafiyet sistemi çerçevesinde belge kapsamında serbest bölgeye yapılan ihracatın ikinci fıkra kapsamında değerlendirilmesi için ihracatın, bu Tebliğin 28 inci maddesinin ikinci fıkrası çerçevesinde gerçekleştirildiğinin tevsiki aranır.
+(4) Geri ödeme sistemi çerçevesinde belge kapsamında serbest bölgeye yapılan ihracatın ikinci fıkra kapsamında değerlendirilmesi için bu ihracatın, bu Tebliğin 28 inci maddesinin üçüncü fıkrası çerçevesinde gerçekleştirildiğinin tevsiki aranır.
+(5) Gemi inşaa, komple tesis v.b. ile savunma sanayi alanına giren ürünlerin ihracına ilişkin düzenlenen belgeye/izne proje sürecine göre ek süre verilebilir.

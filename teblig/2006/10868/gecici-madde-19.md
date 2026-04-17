@@ -1,0 +1,2 @@
+GEÇİCİ MADDE 19 – (Ek:RG-15/10/2010-27730)
+(1) 22/8/2010 tarihinden önce düzenlenen ve henüz ihracat taahhüt hesabı kapatılmamış ikincil işlem görmüş tarım ürünü taahhüdü içeren dahilde işleme izin belgelerine bu Tebliğin 3 üncü maddesinin birinci fıkrasının (h) bendi ile 38 inci maddesinin dördüncü fıkrasının uygulanması bakımından, 22/8/2010 tarihinde yapılan değişiklik öncesi uygulanan Dahilde İşleme Rejimi mevzuatının lehe olan hükümleri uygulanır.
