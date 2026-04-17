@@ -1,0 +1,22 @@
+{
+  "kind": "norm",
+  "issuer": "Gelir İdaresi Başkanlığı",
+  "document_type": "ozelge",
+  "number": "E-64597866-130-528691",
+  "source_id": 38964,
+  "date": "2026-04-17",
+  "title": "Güneş Enerjisi Santrali (GES)'nden üretilen elektriğin tüketilen elektrikten mahsuplaşması ve beyanı hk.",
+  "source": "https://gib.gov.tr/mevzuat/kanun/436/ozelge/38964",
+  "related_law": "3065 sayılı KATMA DEĞER VERGİSİ KANUNU",
+  "source_api": "https://gib.gov.tr/api/gibportal/mevzuat/ozelge/list",
+  "source_listing": "evidence/list/2026-11-16/ozelge-p009.json",
+  "source_listing_sha256": "9cb52b4963a9a177a23948f6e28c12936c2f43c88a0b410872bb81c01983667c",
+  "source_sha256": "377feb84bc331c9094dc5a497022c38eb68287c30833974eddf353eda8aaea98",
+  "text_status": "as-enacted",
+  "text_file": "metin.md",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  }
+}
