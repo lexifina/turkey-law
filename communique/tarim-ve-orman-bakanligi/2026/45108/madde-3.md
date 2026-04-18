@@ -1,0 +1,2 @@
+Dayanak
+MADDE 3- (1) Bu Tebliğ, 21/12/1967 tarihli ve 969 sayılı Tarım ve Köyişleri Bakanlığının Merkez ve Taşra Kuruluşlarına Döner Sermaye Verilmesi Hakkında Kanuna, 25/7/2024 tarihli ve 8760 sayılı Cumhurbaşkanı Kararı ile yürürlüğe konulan 2024-2026 Yıllarında Yapılacak Hayvancılık Desteklemelerine İlişkin Karara, 22/12/2011 tarihli ve 28150 sayılı Resmî Gazete’de yayımlanan Hayvanların Tanımlanması ile Veteriner Biyolojik Ürünlerin Uygulama Ücretleri Yönetmeliğine dayanılarak hazırlanmıştır.

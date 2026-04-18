@@ -1,0 +1,36 @@
+{
+  "checked_on": "2026-11-13",
+  "date_gazette": "33228",
+  "date_quote": "18.04.2026",
+  "first_law": null,
+  "gazette": "33228",
+  "history": "current-text",
+  "images": {
+    "deferred": 0,
+    "omitted": 0,
+    "referenced": 0,
+    "source": 0
+  },
+  "in_force": "2026-04-18",
+  "in_force_basis": "original Resmi Gazete publication date supplied by the official listing",
+  "issuer": "Tarım ve Orman Bakanlığı",
+  "issuer_catalog_evidence": [
+    {
+      "evidence": "issuer-637-0.json",
+      "id": "637",
+      "label": "Tarım ve Orman Bakanlığı",
+      "listing_url": "https://www.mevzuat.gov.tr/Anasayfa/MevzuatDatatable?MevzuatTur=Teblig&KurumId=637&start=0&length=100"
+    }
+  ],
+  "issuer_slug": "tarim-ve-orman-bakanligi",
+  "kind": "communique",
+  "label": "oldest version available",
+  "notes": [],
+  "published": "2026-04-18",
+  "source": "https://www.mevzuat.gov.tr/anasayfa/MevzuatFihristDetayIframe?MevzuatTur=9&MevzuatNo=45108&MevzuatTertip=5",
+  "source_bytes": 93979,
+  "source_id": "9.5.45108",
+  "source_sha256": "f3dfca85818822493e22110fc229ca548b378004ab9e94af8e78ef0bd173a598",
+  "title": "VETERİNER BİYOLOJİK ÜRÜN VE HAYVAN TANIMLAMA ARAÇLARININ BEDELLERİ İLE UYGULAMA ÜCRETLERİNİN TAHSİLİNE İLİŞKİN\r\nUSUL VE ESASLAR HAKKINDA TEBLİĞ (TEBLİĞ NO: 2026/2)",
+  "word_count": 3484
+}

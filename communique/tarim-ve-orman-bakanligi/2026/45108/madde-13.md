@@ -1,0 +1,5 @@
+Mahsuplaşma uygulamasından yararlanamayacak olanlar
+MADDE 13- (1) Kamu kurum ve kuruluşları, kamu iktisadi teşebbüsleri ile kamu tüzel kişiliği bünyesinde bulunan hayvancılık işletmeleri mahsuplaşma uygulamasından yararlandırılmaz.
+(2) Bu Tebliğ kapsamında istenen bilgi ve belgeleri zamanında ibraz etmeyenler ile Bakanlıkça yerine getirilmesi istenen iş ve işlemleri yerine getirmeyenler mahsuplaşma uygulamasından yararlandırılmaz.
+(3) 17/12/2011 tarihli ve 28145 sayılı Resmî Gazete’de yayımlanan Yurt İçinde Canlı Hayvan ve Hayvansal Ürünlerin Nakilleri Hakkında Yönetmelik hükümlerine aykırı olarak hayvan nakli yaptıkları yol kontrolleri sırasında tespit edilen ve bu fiil nedeniyle haklarında idari yaptırım uygulanarak hayvanlarına ürün uygulaması yapılan hayvan sahipleri bu uygulamalar için mahsuplaşma uygulamasından yararlandırılmaz.
+(4) Düşen kulak küpesi bildirimi nedeniyle özgün numaralı kulak küpesi üretimi yapılmış olan ancak çeşitli nedenlerle söz konusu kulak küpelerinin hayvanlara fiilen uygulanamadığı durumlarda, hayvancılık işletmeleri bu kulak küpeleri için mahsuplaşma uygulamasından yararlandırılmaz.
