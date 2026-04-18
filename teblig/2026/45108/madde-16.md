@@ -1,0 +1,3 @@
+Mahsuplaşma onayı vermeyenlerden tahsilatın yapılamadığı durumlar
+MADDE 16- (1) Mahsuplaşma onayı verilmeyen uygulamalara dair yasal süresi içerisinde ödemesi yapılmayan ürün bedellerinin hayvan sahiplerinden tahsilatı, ilgili mevzuat hükümleri çerçevesinde il müdürlükleri döner sermaye birimleri tarafından sağlanır.
+(2) Mahsuplaşma onayı verilmeyen uygulamalara dair ödenmeyen uygulama ücretleri ilgili il ve ilçe müdürlüğünce yazılı olarak hayvan sahiplerine tebliğ edildikten sonra döner sermaye birimleri banka hesaplarına ve veznelerine ödenir. Tebligata istinaden hayvan sahiplerince döner sermaye işletme birimlerine ödenen uygulama ücretleri, uygulayıcılara ödenmek üzere döner sermaye işletme birimlerince ilgili emanet hesaplarına kaydedilir.
