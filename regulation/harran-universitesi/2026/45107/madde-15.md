@@ -1,0 +1,2 @@
+Seminer, dönem projesi ve tez içeriklerinin hazırlanması
+MADDE 15- (1) Lisansüstü programlarda hazırlanacak seminer, dönem projesi, yüksek lisans ve doktora tezlerine ilişkin içerik, yazım kuralları ve şablonlar ile bu çalışmaların hazırlanması, sunulması ve izlenmesine ilişkin hususlar ilgili mevzuat hükümleri çerçevesinde yürütülür. Bu süreçlerin ilgili usul ve esaslar çerçevesinde öğrenci, danışman ve Enstitü tarafından dijital platform üzerinden yürütülmesi ve takip edilmesi zorunludur.

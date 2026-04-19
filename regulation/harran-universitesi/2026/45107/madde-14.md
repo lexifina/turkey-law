@@ -1,0 +1,6 @@
+Sınavlar ve sınavların değerlendirilmesi
+MADDE 14- (1) Tezsiz yüksek lisans, tezli yüksek lisans ve doktora/sanatta yeterlik programlarına kayıtlı öğrenciler için bütünleme sınavı yapılmaz.
+(2) Lisansüstü derslere ait ara sınav ve yarıyıl sonu sınavı soruları ve yanıtlarının dijital platforma yüklenmesi zorunludur.
+(3) Ortak Dersler Koordinatörlüğü tarafından yürütülen dersler hariç olmak üzere, akreditasyon ölçütleri doğrultusunda farklı ve çoklu ölçme-değerlendirme yöntemleri uygulanabilir. Yarıyıl süresince öğrencilere yaptırılan ödev, laboratuvar, atölye ve benzeri çalışmalar, dersin yürütücü öğretim elemanı tarafından öğretim yönetim sistemine yüklenmek şartıyla ara sınav veya yarıyıl sonu sınavı yerine sayılabilir. Dönem içerisinde ara sınav haricinde yapılan kısa sınavlar ile diğer ölçme araçları da aynı esaslar çerçevesinde değerlendirmeye dâhil edilebilir.
+(4) Lisansüstü programlarda mezuniyet, yeterlik sınavı veya tez dönemine geçiş için gerekli derslerden yalnızca tek veya çift dersi kalan öğrencilere, enstitü yönetim kurulu kararı ve ilgili mevzuat hükümleri çerçevesinde Enstitü tarafından ilan edilen tarihlerde tek/çift ders sınavı hakkı verilebilir.
+(5) Lisansüstü öğrencilere ait sınavlar ve sınavlara ilişkin ders başarı notlarının belirlenmesi ve değiştirilmesine ilişkin hususlar ilgili mevzuat hükümleri çerçevesinde yürütülür.
