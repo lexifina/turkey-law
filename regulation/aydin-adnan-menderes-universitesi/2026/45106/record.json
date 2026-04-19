@@ -1,0 +1,39 @@
+{
+  "checked_on": "2026-11-14",
+  "commencement_clauses": [
+    "MADDE 15- (1) Bu Yönetmelik yayımı tarihinde yürürlüğe girer."
+  ],
+  "date_evidence": [
+    [
+      "2026-04-19",
+      "19.04.2026",
+      "original gazette publication date in official listing"
+    ]
+  ],
+  "date_quote": "MADDE 15- (1) Bu Yönetmelik yayımı tarihinde yürürlüğe girer.",
+  "first_law": null,
+  "gazette": "33229",
+  "history": "current-text",
+  "images": {
+    "deferred": 0,
+    "omitted": 0,
+    "referenced": 0,
+    "source": 0
+  },
+  "in_force": "2026-04-19",
+  "in_force_basis": "source commencement clause: enters into force on gazette publication",
+  "issuer": "Aydın Adnan Menderes Üniversitesi",
+  "issuer_slug": "aydin-adnan-menderes-universitesi",
+  "kind": "regulation",
+  "label": "oldest version available",
+  "path": "regulation/aydin-adnan-menderes-universitesi/2026/45106",
+  "published": "2026-04-19",
+  "source": "https://www.mevzuat.gov.tr/anasayfa/MevzuatFihristDetayIframe?MevzuatTur=8&MevzuatNo=45106&MevzuatTertip=5",
+  "source_bytes": 22561,
+  "source_id": "8.5.45106",
+  "source_sha256": "350ac37210d6426f9a88740ac62480e53433f9979479e73218e204f80adbce31",
+  "text_status": "as-enacted",
+  "title": "AYDIN ADNAN MENDERES ÜNİVERSİTESİ SU KAYNAKLARI GELİŞTİRME,\r\nARAŞTIRMA VE UYGULAMA MERKEZİ YÖNETMELİĞİ",
+  "university_id": 176,
+  "word_count": 1006
+}
