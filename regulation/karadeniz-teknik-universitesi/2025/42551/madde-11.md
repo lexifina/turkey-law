@@ -1,0 +1,6 @@
+Tezsiz yüksek lisans programı
+MADDE 11- (1) Tezsiz yüksek lisans programı, öğrenciye mesleki konularda bilgi kazandırarak mevcut bilginin uygulamada nasıl kullanılacağını gösterir.
+(2) Tezsiz yüksek lisans programı toplam otuz krediden ve 60 AKTS’den az olmamak kaydıyla en az on ders ile dönem projesi dersinden oluşur. Öğrenci, dönem projesi dersinin alındığı yarıyılda dönem projesi dersine kayıt yaptırmak ve yarıyıl sonunda yazılı proje ve/veya rapor vermek zorundadır. Dönem projesi dersi kredisiz olup başarılı veya başarısız olarak değerlendirilir.
+(3) Öğrencinin alacağı derslerin en çok ikisi, lisans öğrenimi sırasında alınmamış olması kaydıyla, lisans derslerinden seçilebilir.
+(4) Tezsiz yüksek lisans programının sonunda yeterlik sınavı uygulanabilir. Yeterlik sınavının uygulanması durumunda öğrenci, asgari AKTS yükünü ve dönem projesini tamamlamasından sonra anabilim dalı başkanlığının önerisi ve enstitü yönetim kurulunun onayı ile belirlenen üç kişilik jüri tarafından yeterlik sınavına alınır. Bu sınavda öğrenciye aldığı dersler ve dönem projesi ile ilgili sorular sorulur. Sözlü olan bu sınav sonucunda jüri, başarı durumunu değerlendirerek öğrencinin başarılı veya başarısız olduğuna salt çoğunlukla karar verir.
+(5) Tezsiz yüksek lisans programları, ikinci öğretim ve/veya uzaktan öğretim programı olarak da yürütülebilir.

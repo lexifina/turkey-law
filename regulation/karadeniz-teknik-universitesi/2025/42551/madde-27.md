@@ -1,0 +1,3 @@
+Lisansüstü programlara kayıt
+MADDE 27- (1) Lisansüstü programlara kabul edilen öğrencilerin kayıtları enstitü yönetim kurulunun onayı ile kesinleşir. Süresi içinde kaydını yaptırmayan adaylar bu haklarını kullanmamış sayılır ve herhangi bir hak iddia edemezler.
+(2) Bilimsel hazırlık programı öğrencileri ve özel öğrenci olarak kabul edilenler elden, diğer öğrenciler ise çevrimiçi başvuru sistemi üzerinden ders kayıtlarını yaparlar. Ders onayları İngilizce hazırlık, bilimsel hazırlık ve birinci ders döneminde anabilim dalı başkanlığınca, diğer dönemlerde ise enstitü yönetim kurulunca atanmış danışman tarafından yapılır. Ders kayıtları, ders onayları ve ders yazılımlarına itiraz akademik takvimde belirtilen süreler içerisinde yapılır.

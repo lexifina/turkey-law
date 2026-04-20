@@ -1,0 +1,64 @@
+{
+  "checked_on": "2026-11-14",
+  "commencement_clauses": [
+    "MADDE 39- (1) Bu Yönetmelik 2025-2026 eğitim-öğretim yılı başında yürürlüğe girer."
+  ],
+  "date_evidence": [
+    [
+      "2025-08-25",
+      "25.08.2025",
+      "original gazette publication date in official listing"
+    ],
+    [
+      "2025-11-24",
+      "RG-24/11/2025-33087",
+      "latest source-printed gazette amendment date for current consolidated text"
+    ],
+    [
+      "2026-04-20",
+      "RG-20/4/2026-33230",
+      "latest source-printed gazette amendment date for current consolidated text"
+    ],
+    [
+      "2025-11-24",
+      "RG-24/11/2025-33087",
+      "latest source-printed gazette amendment date for current consolidated text"
+    ],
+    [
+      "2025-11-24",
+      "24/11/2025",
+      "latest gazette date in source amendment table"
+    ],
+    [
+      "2026-04-20",
+      "20/4/2026",
+      "latest gazette date in source amendment table"
+    ]
+  ],
+  "date_quote": "RG-20/4/2026-33230",
+  "first_law": null,
+  "gazette": "32997",
+  "history": "current-text",
+  "images": {
+    "deferred": 0,
+    "omitted": 0,
+    "referenced": 0,
+    "source": 0
+  },
+  "in_force": "2026-04-20",
+  "in_force_basis": "latest source-printed gazette amendment date for current consolidated text",
+  "issuer": "Karadeniz Teknik Üniversitesi",
+  "issuer_slug": "karadeniz-teknik-universitesi",
+  "kind": "regulation",
+  "label": "oldest version available",
+  "path": "regulation/karadeniz-teknik-universitesi/2025/42551",
+  "published": "2025-08-25",
+  "source": "https://www.mevzuat.gov.tr/anasayfa/MevzuatFihristDetayIframe?MevzuatTur=8&MevzuatNo=42551&MevzuatTertip=5",
+  "source_bytes": 116695,
+  "source_id": "8.5.42551",
+  "source_sha256": "779e1e8973634219cecea54a5aca25682af131f88d00d3b83a11ffa18bc2c616",
+  "text_status": "current-consolidated",
+  "title": "KARADENİZ TEKNİK ÜNİVERSİTESİ LİSANSÜSTÜ EĞİTİM-ÖĞRETİM YÖNETMELİĞİ",
+  "university_id": 207,
+  "word_count": 6872
+}

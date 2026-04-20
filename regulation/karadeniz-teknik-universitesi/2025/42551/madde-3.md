@@ -1,0 +1,21 @@
+Tanımlar
+MADDE 3- (1) Bu Yönetmelikte geçen;
+a) AKTS: Avrupa Kredi Transfer Sistemini,
+b) ALES: Akademik Personel ve Lisansüstü Eğitimi Giriş Sınavını,
+c) Anabilim/anasanat dalı: Karadeniz Teknik Üniversitesine bağlı eğitim-öğretim yapan enstitülerin ilgili anabilim/anasanat dalını,
+ç) Enstitü: Karadeniz Teknik Üniversitesine bağlı lisansüstü eğitim-öğretim yapan enstitüleri,
+d) e-YDS: Elektronik Yabancı Dil Sınavını,
+e) GMAT: Yükseköğretim Kurulu Başkanlığınca ALES’e eşdeğer sayılan ve uluslararası düzeyde kabul gören Graduate Management Admission Test sınavını,
+f) GRE: Yükseköğretim Kurulu Başkanlığınca ALES’e eşdeğer sayılan ve uluslararası düzeyde kabul gören Graduate Record Examinations sınavını,
+g) İntihal: Başkalarının fikirlerini, metotlarını, verilerini veya eserlerini bilimsel kurallara uygun biçimde atıf yapmadan kısmen veya tamamen kendi eseri gibi göstermeyi,
+ğ) ÖSYM: Ölçme, Seçme ve Yerleştirme Merkezi Başkanlığını,
+h) Rektör: Karadeniz Teknik Üniversitesi Rektörünü,
+ı) Senato: Karadeniz Teknik Üniversitesi Senatosunu,
+i) TOEFL: Test of English as a Foreign Language sınavını,
+j) ÜAK: Üniversitelerarası Kurulu,
+k) Üniversite: Karadeniz Teknik Üniversitesini,
+l) Yabancı dil eşdeğeri puan: YDS, YÖKDİL ve e-YDS dışında Üniversitelerarası Kurul tarafından kabul edilen bir sınavdan alınan eşdeğeri bir puanı,
+m) YDS: Yabancı Dil Bilgisi Seviye Tespit Sınavını,
+n) YÖK: Yükseköğretim Kurulunu,
+o) YÖKDİL: Yükseköğretim Kurumları Yabancı Dil Sınavını,
+ifade eder.
