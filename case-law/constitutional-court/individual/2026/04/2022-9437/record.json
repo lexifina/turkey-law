@@ -1,0 +1,20 @@
+{
+  "applicant": "S.G.",
+  "application_date": "2022-02-04",
+  "application_number": "2022/9437",
+  "deciding_unit": "Birinci Bölüm",
+  "decision_date": "2026-04-21",
+  "id": "57795dd1-97a0-44c8-9e16-5173d2578c3b",
+  "in_force": "2026-04-21",
+  "in_force_basis": "official decision date",
+  "kind": "constitutional-court-individual-application",
+  "omitted_images": 0,
+  "outcome": "Esas (İhlal)",
+  "published": null,
+  "referenced_images": 0,
+  "source": "https://kararlarbilgibankasi.anayasa.gov.tr/kbb/pages/search/Tumu?id=a2JiOjU3Nzk1ZGQxLTk3YTAtNDRjOC05ZTE2LTUxNzNkMjU3OGMzYg&type=BireyselBasvuru",
+  "source_api": "https://kararlarbilgibankasi.anayasa.gov.tr/api/core/public/search",
+  "source_images": 0,
+  "source_sha256": "61ee7a088692e32f834804b58b7bb2f0c401326fe9f1e74ac10469392427edbd",
+  "version_label": "as-enacted"
+}
