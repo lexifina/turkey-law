@@ -1,0 +1,3 @@
+Müdür
+MADDE 8- (1) Müdür; Merkezin faaliyet alanlarıyla ilgili konularda çalışmaları bulunan Üniversitenin Rehberlik ve Psikolojik Danışmanlık, Psikoloji, Ruh Sağlığı ve Hastalıkları, Çocuk ve Ergen Ruh Sağlığı ve Hastalıkları bilim dallarında görevli öğretim üyeleri arasından Rektör tarafından üç yıllık süre için görevlendirilir. Süresi biten Müdür aynı usulle yeniden görevlendirilebilir.
+(2) Müdüre çalışmalarında yardımcı olmak üzere, Üniversitede görevli öğretim elemanları arasından en fazla iki kişi üç yıllık süre için Müdürün önerisi üzerine Rektör tarafından müdür yardımcısı olarak görevlendirilir. Süresi biten müdür yardımcıları yeniden görevlendirilebilir. Müdürün görevi sona erdiğinde yardımcılarının da görevi kendiliğinden sona erer.
