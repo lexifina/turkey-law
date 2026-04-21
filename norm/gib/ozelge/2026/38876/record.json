@@ -1,0 +1,22 @@
+{
+  "kind": "norm",
+  "issuer": "Gelir İdaresi Başkanlığı",
+  "document_type": "ozelge",
+  "number": "E-62030549-125[6-2025/]-",
+  "source_id": 38876,
+  "date": "2026-04-21",
+  "title": "Şirketin Bağlı Ortaklık/İştiraklerinin İştirakler/Bağlı Ortaklıklar Hesaplarından Çıkarılan Enflasyon Düzeltmesi Sonucu Oluşanlar Dahil Maliyet Bedeli/Kayıtlı Değerinin Kazancın Tespitinde İndirimi hk.",
+  "source": "https://gib.gov.tr/mevzuat/kanun/433/ozelge/38876",
+  "related_law": "193 sayılı GELİR VERGİSİ KANUNU",
+  "source_api": "https://gib.gov.tr/api/gibportal/mevzuat/ozelge/list",
+  "source_listing": "evidence/list/2026-11-16/ozelge-p009.json",
+  "source_listing_sha256": "9cb52b4963a9a177a23948f6e28c12936c2f43c88a0b410872bb81c01983667c",
+  "source_sha256": "7a50ec77c2ad03c38eb4f29716fcafe6e417df5a590614f93ceabe3b967c55d9",
+  "text_status": "as-enacted",
+  "text_file": "metin.md",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  }
+}
