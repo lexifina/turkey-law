@@ -1,0 +1,1 @@
+[1] 21/4/2026 tarihli ve 33231 sayılı Resmî Gazete’de yayımlanan değişiklikle Yönetmeliğin adı “Aksaray Üniversitesi Sosyal Bilgiler ve Değerler Eğitimi Uygulama Ve Araştırma Merkezi Yönetmeliği” iken metne işlendiği şekilde değiştirilmiştir.
