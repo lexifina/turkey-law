@@ -1,0 +1,2 @@
+ÜNİP kontenjanlarından lisansüstü programlara öğrenci kabulü
+MADDE 10 – (1) ÜNİP kontenjanından başvuran adayların, ilgili programlara ilişkin genel kontenjanlar için belirlenen asgari şartları sağlamaları gerekir. ÜNİP kontenjanından yararlanmak isteyen adaylar dilekçelerini ve asgari koşulları sağladıklarını gösteren belgeleri kendi üniversitelerine verirler. Kendi rektörlüklerince Üniversiteye gönderilen başvurular, Rektörlüğümüz tarafından yanıtlanır.

@@ -1,0 +1,3 @@
+Özel öğrenci kabulü
+MADDE 16 – (Değişik:RG-25/7/2022-31903)
+(1) Bir yüksek lisans, doktora ya da sanatta yeterlik programına kayıtlı olan öğrenciler, diğer yükseköğretim kurumlarındaki lisansüstü derslere kayıtlı oldukları enstitü anabilim/anasanat dalı başkanlığının onayı ile ilgili dönemin eğitim-öğretime başlama haftası içerisinde başvurmaları koşuluyla Üniversiteye özel öğrenci olarak kabul edilebilir. Lisansüstü derslere kabul edilen öğrencilerin, özel öğrenci olarak aldıkları ve başarılı oldukları derslerin muafiyet işlemleri kayıtlı oldukları enstitü anabilim/anasanat dalı başkanlığı tarafından yürütülür. Özel öğrenci kabul koşulları ve bu konudaki diğer hükümler Senato tarafından belirlenir.

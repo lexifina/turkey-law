@@ -1,0 +1,2 @@
+Tebligat
+MADDE 22 – (1) Öğrenciye imza karşılığında elden teslim edilen bilgi ve belgeler dışında her türlü tebligat, muhatabın adres kayıt sisteminde bulunan adresine gönderilmek suretiyle yapılır. Ayrıca, gerek Üniversitenin ve ilgili Enstitünün internet sayfasında, gerekse öğrenci bilgi sistemi üzerinden danışmanlar ve kullanıcılar tarafından eğitim ve öğretim süresince yapılan ilan ve duyurular, öğrencinin şahsına yapılmış sayılır.

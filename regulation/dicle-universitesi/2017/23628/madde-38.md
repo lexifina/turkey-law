@@ -1,0 +1,3 @@
+Öğrenim süresi
+MADDE 38 – (1) Tezli yüksek lisans programının süresi, bilimsel hazırlıkta geçen süre hariç, kayıt olduğu programa ilişkin derslerin verildiği yarıyıldan başlamak üzere, her yarıyıl için kayıt yaptırıp yaptırmadığına bakılmaksızın dört yarıyıl olup, program en çok altı yarıyılda tamamlanır.
+(2) Dört yarıyıl sonunda öğretim planında yer alan kredili derslerini ve seminer dersini başarıyla tamamlayamayan veya bu süre içerisinde yükseköğretim kurumunun öngördüğü başarı koşullarını/ölçütlerini yerine getiremeyen; azami süreler içerisinde ise tez çalışmasında başarısız olan veya tez savunmasına girmeyen öğrencinin Üniversite ile ilişiği kesilir.

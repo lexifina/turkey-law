@@ -1,0 +1,4 @@
+Tez konusu önerisi
+MADDE 41 – (1) Tez konusu, danışman denetiminde öğrenci tarafından ilgili enstitüce oluşturulan tez önerisi formuna uygun olarak hazırlanır, anabilim/anasanat dalı başkanlığı aracılığıyla en geç ikinci yarıyılın sonuna kadar, ders döneminin uzaması halinde derslerin tamamlandığı dönemin sonunda enstitüye gönderilir. Tez konusunun uygun görülmemesi halinde, ilgili enstitü yönetim kurulu değişiklik talep eder. Değişiklik işlemi bir sonraki dönem başlamadan tamamlanmalıdır.
+(2) Tez konusu önerisi ve tez başlığı enstitü yönetim kurulu onayı ile kesinleşir.
+(3) Danışmanın önerisi, ilgili anabilim/anasanat dalı başkanlığının uygun görüşü ve Enstitü Yönetim Kurulu kararı ile azami süreler dikkate alınarak tez konusu değişikliği yapılabilir. Tez konusu değişikliği yapılması durumunda tez süreci yeniden başlatılır.
