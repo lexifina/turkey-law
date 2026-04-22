@@ -1,0 +1,26 @@
+{
+  "kind": "norm",
+  "issuer": "Enerji Piyasası Düzenleme Kurumu",
+  "market": "natural-gas",
+  "document_type": "board-decision",
+  "number": "14519",
+  "decision_date": "2026-04-22",
+  "title": "Aksa Sakarya Doğal Gaz Dağıtım Anonim Şirketi’nin üçüncü tarife uygulama dönemi perakende satış tarifelerine yönelik",
+  "resmi_gazete_date": "2026-05-01",
+  "resmi_gazete_number": "33240",
+  "categories": [
+    "Şirket Bazında Kararlar"
+  ],
+  "source": "https://www.epdk.gov.tr/Detay/DownloadDocument?id=66cQRD7DJwk=",
+  "documents": [
+    "https://www.epdk.gov.tr/Detay/DownloadDocument?id=66cQRD7DJwk=",
+    "https://www.epdk.gov.tr/Detay/DownloadDocument?id=HDSz2+BDwEI="
+  ],
+  "source_sha256": "7cdbf3f3ecac573751034b93e23c756a1c45131dd79ff6b4c06cab949fa3e8b3",
+  "official_list": "https://www.epdk.gov.tr/Detay/Icerik/3-0-19/kurul-kararlari",
+  "official_list_leaf": 7236,
+  "text_status": "as-enacted",
+  "text_file": "metin.md",
+  "in_force": "2026-04-22",
+  "law_text_complete": true
+}
