@@ -1,0 +1,74 @@
+{
+  "checked_on": "2026-11-14",
+  "commencement_clauses": [
+    "MADDE 59- (1) Bu Yönetmelik yayımı tarihinde yürürlüğe girer."
+  ],
+  "date_evidence": [
+    [
+      "2024-08-12",
+      "12.08.2024",
+      "original gazette publication date in official listing"
+    ],
+    [
+      "2026-04-22",
+      "RG-22/4/2026-33232",
+      "latest source-printed gazette amendment date for current consolidated text"
+    ],
+    [
+      "2026-04-22",
+      "RG-22/4/2026-33232",
+      "latest source-printed gazette amendment date for current consolidated text"
+    ],
+    [
+      "2025-09-02",
+      "RG-2/9/2025-33005",
+      "latest source-printed gazette amendment date for current consolidated text"
+    ],
+    [
+      "2025-09-02",
+      "RG-2/9/2025-33005",
+      "latest source-printed gazette amendment date for current consolidated text"
+    ],
+    [
+      "2025-09-02",
+      "RG-2/9/2025-33005",
+      "latest source-printed gazette amendment date for current consolidated text"
+    ],
+    [
+      "2025-09-02",
+      "2/9/2025",
+      "latest gazette date in source amendment table"
+    ],
+    [
+      "2026-04-22",
+      "22/4/2026",
+      "latest gazette date in source amendment table"
+    ]
+  ],
+  "date_quote": "RG-22/4/2026-33232",
+  "first_law": null,
+  "gazette": "32630",
+  "history": "current-text",
+  "images": {
+    "deferred": 0,
+    "omitted": 0,
+    "referenced": 0,
+    "source": 0
+  },
+  "in_force": "2026-04-22",
+  "in_force_basis": "latest source-printed gazette amendment date for current consolidated text",
+  "issuer": "Marmara Üniversitesi",
+  "issuer_slug": "marmara-universitesi",
+  "kind": "regulation",
+  "label": "oldest version available",
+  "path": "regulation/marmara-universitesi/2024/40913",
+  "published": "2024-08-12",
+  "source": "https://www.mevzuat.gov.tr/anasayfa/MevzuatFihristDetayIframe?MevzuatTur=8&MevzuatNo=40913&MevzuatTertip=5",
+  "source_bytes": 193922,
+  "source_id": "8.5.40913",
+  "source_sha256": "9a389776e4d47dcb1258c381be0788e5459331bb2c004e8d3c088d3f094d1136",
+  "text_status": "current-consolidated",
+  "title": "MARMARA ÜNİVERSİTESİ LİSANSÜSTÜ EĞİTİM VE ÖĞRETİM YÖNETMELİĞİ",
+  "university_id": 210,
+  "word_count": 11144
+}

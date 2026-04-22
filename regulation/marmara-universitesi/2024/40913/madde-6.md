@@ -1,0 +1,6 @@
+Lisansüstü programların açılması
+MADDE 6- (1) Yeni bir lisansüstü program; anabilim/anasanat dalı başkanlığının önerisi, Enstitü Kurulunun uygun görüşü, Senatonun kararı ve YÖK’ün onayı ile açılır.
+(2) Anabilim/anasanat dalının lisansüstü eğitim programlarında, eğitim hedefleri, programlara giriş ve mezuniyet koşulları, programların içerdiği zorunlu ve seçmeli dersler, bunların kredileri ve benzeri konulara ilişkin esaslar, anabilim/anasanat dalı başkanlığının önerisi, Enstitü Kurulunun onayı ve Senatonun kararı ile belirlenir.
+(3) Anabilim/anasanat dalı başkanlığının mevcut programlara ilişkin değişiklik önerileri, Enstitü Kurulunca onaylandıktan sonra Senato tarafından karara bağlanır.
+(4) Anabilim/anasanat dalı başkanlığının önerisi ve ilgili Enstitü Yönetim Kurulunun kararı ile diğer yurt içi/yurt dışı yükseköğretim/araştırma kurum ve kuruluşları ile iş birliği yapılarak ortak programlar açılabilir. Bu uygulama, Senato kararı ve YÖK onayı ile yürürlüğe girer. Yurt dışı ortak programlar, ilgili mevzuat hükümleri kapsamında yürütülür.
+(5) Eğitim ve öğretim, yarıyıl esasına göre, güz ve bahar yarıyılı olarak düzenlenir. Yaz okulu döneminde de dersler açılabilir. Bunların süresi ve planlaması, ilgili Enstitü Kurulunun önerisi üzerine Senato tarafından karara bağlanır.

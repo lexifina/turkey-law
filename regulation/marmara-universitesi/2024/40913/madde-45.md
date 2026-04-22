@@ -1,0 +1,3 @@
+Kredi transferi
+MADDE 45- (1) Bir öğrencinin özel/misafir öğrenci statüsünde aldığı lisansüstü dersler dâhil olmak üzere, Enstitüye kaydolmadan önceki son beş yıl içinde yurt içi/yurt dışı yükseköğretim kurumlarından almış olduğu lisansüstü dersler, anabilim/anasanat dalı başkanlığının önerisi ve ilgili Enstitü Yönetim Kurulunun kararıyla öğrencinin kayıtlı olduğu programa transfer edilebilir.
+(2) Yabancı dilde eğitim yapılan programlara kredi transferi yapmak isteyen adaylar, muaf olmak istedikleri dersleri daha önce başka bir dilde almışlar ise bu derslerden muafiyet verilip verilmeyeceğine, derslerin içeriği ve öğrencinin bilgi düzeyi dikkate alınarak anabilim/anasanat dalı başkanlığının uygun görüşü ve Enstitü yönetim kurulunun onayı ile karar verilir.

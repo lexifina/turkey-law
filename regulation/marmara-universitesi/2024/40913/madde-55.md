@@ -1,0 +1,4 @@
+Çift diploma, protokol ve değişim programları
+MADDE 55- (1) Çift diploma, protokol ve değişim programlarına ilişkin uygulamalar ve süreçler, Senato tarafından belirlenir.
+(2) Kurum/kuruluşların uzman kadrolarını oluşturmaya yönelik olarak, ilgili kurum/kuruluş ve Üniversite arasında eğitim/iş birliği protokolü imzalanması hâlinde, kurum/kuruluşta çalışan lisans diplomasına sahip adayların lisansüstü programlara kabulünde eğitim ve akademik iş birliği protokollerinde belirlenen koşullar geçerlidir.
+(3) Türkiye Cumhuriyeti ile imzalanmış protokol, ikili anlaşma, Avrupa Birliği Uyum Programı, Avrupa Birliği Projeleri, öğrenci değişim programları ve benzeri anlaşmalar ile gelen yabancı uyruklu hükümet burslusu ve anlaşmalı öğrenciler, 46 ncı maddede belirtilen hükümlere bakılmaksızın programa kabul edilebilirler.

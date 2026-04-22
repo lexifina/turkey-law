@@ -1,0 +1,5 @@
+Süre
+MADDE 14- (1) Tezli yüksek lisans programlarının tamamlanma süresi, bilimsel hazırlıkta geçen süre hariç, kayıtlı olunan programda derslerin verildiği dönemden başlamak üzere, her dönem için kayıt yaptırılıp yaptırılmadığına bakılmaksızın dört yarıyıl olup program en çok altı yarıyılda tamamlanır.
+(2) Yüksek lisanstan mezuniyet için; ağırlıklı genel not ortalamasının en az 2,50 olması, seminer dersi ve tez/eser çalışmasının başarıyla tamamlanması gerekir. GANO’su 2,50 nin altında olan öğrenci, GANO’sunu en az 2,50 seviyesine yükseltene kadar daha önce aldığı dersleri bu dört yarıyıllık süre zarfında kısmen veya tamamen tekrar alır.
+(3) Derslerini, seminer dersini ve tez/eser çalışmasını başarı ile tamamlamış öğrenciler, tezli yüksek lisans programından en erken üç yarıyıl sonunda mezun olabilirler.
+(4) Dört yarıyıl sonunda kredili derslerini ve semineri başarıyla tamamlayamayan veya bu süre içerisinde Senato tarafından belirlenen başarı koşullarını/ölçütlerini yerine getiremeyen; azami süreler içerisinde tez/eser çalışmasında başarısız olan veya tez/eser çalışması savunmasına girmeyen öğrencinin Üniversite ile ilişiği kesilir.

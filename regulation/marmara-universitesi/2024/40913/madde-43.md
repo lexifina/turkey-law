@@ -1,0 +1,2 @@
+Özel öğrenci
+MADDE 43- (1) Bir yüksek lisans, doktora ya da sanatta yeterlik programına kayıtlı olan öğrenciler, diğer yükseköğretim kurumlarındaki lisansüstü derslere, kayıtlı olduğu Enstitü anabilim/anasanat dalı başkanlığının onayı ve Enstitü Yönetim Kurulunun kararı ile öğrenci olarak kabul edilebilirler. Lisansüstü derslere kabul edilen öğrencilerin özel öğrenci olarak aldığı ve başarılı olduğu derslerin muafiyet işlemleri, kayıtlı olduğu Enstitü anabilim/anasanat dalı başkanlığı tarafından yürütülür.
