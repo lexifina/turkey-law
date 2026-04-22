@@ -1,0 +1,37 @@
+{
+  "checked_on": "2026-11-15",
+  "commencement_quote": "Bu Tebliğ yayımı tarihinde yürürlüğe girer",
+  "date_gazette": "33232",
+  "date_quote": "RG-22/4/2026-33232",
+  "first_law": null,
+  "gazette": "32155",
+  "history": "current-text",
+  "images": {
+    "deferred": 0,
+    "omitted": 0,
+    "referenced": 0,
+    "source": 0
+  },
+  "in_force": "2026-04-22",
+  "in_force_basis": "Latest source-printed RG amendment date for current text: RG-22/4/2026-33232; own commencement clause: Bu Tebliğ yayımı tarihinde yürürlüğe girer",
+  "issuer": "Sağlık Bakanlığı",
+  "issuer_catalog_evidence": [
+    {
+      "evidence": "issuer-87-0.json",
+      "id": "87",
+      "label": "Sağlık Bakanlığı",
+      "listing_url": "https://www.mevzuat.gov.tr/Anasayfa/MevzuatDatatable?MevzuatTur=Teblig&KurumId=87&start=0&length=100"
+    }
+  ],
+  "issuer_slug": "saglik-bakanligi",
+  "kind": "communique",
+  "label": "oldest version available",
+  "notes": [],
+  "published": "2023-04-06",
+  "source": "https://www.mevzuat.gov.tr/anasayfa/MevzuatFihristDetayIframe?MevzuatTur=9&MevzuatNo=40132&MevzuatTertip=5",
+  "source_bytes": 45215,
+  "source_id": "9.5.40132",
+  "source_sha256": "1ff5fe159f22546fbb1f5450fd214602d81aef9d815f0d6494c0f981394bdd6b",
+  "title": "TIBBİ CİHAZLARIN ELEKTRONİK KULLANIM\r\nTALİMATLARINA İLİŞKİN TEBLİĞ",
+  "word_count": 1762
+}
