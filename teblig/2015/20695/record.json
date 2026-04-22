@@ -1,0 +1,94 @@
+{
+  "source_id": "9.5.20695",
+  "kind": "communique",
+  "register_kind": "Tebliğler",
+  "title": "ÖZEL TÜKETİM VERGİSİ (II) SAYILI LİSTE UYGULAMA GENEL TEBLİĞİ",
+  "number": "20695",
+  "path": "teblig/2015/20695",
+  "source": "https://www.mevzuat.gov.tr/anasayfa/MevzuatFihristDetayIframe?MevzuatTur=9&MevzuatNo=20695&MevzuatTertip=5",
+  "source_sha256": "399919cb79e03cc532b52ec02be243922cc3324b3f48350d7a98f39c09e98754",
+  "source_bytes": 392150,
+  "published": "2015-04-18",
+  "gazette": "29330",
+  "in_force": "2026-04-22",
+  "in_force_basis": "latest Resmî Gazete date printed in the source amendment notes/table (\"RG-22/4/2026\") for the current consolidated text",
+  "date_evidence": [
+    [
+      "2026-04-22",
+      "RG-22/4/2026",
+      "Resmî Gazete date printed in the source amendment note"
+    ],
+    [
+      "2026-04-22",
+      "22/4/2026",
+      "Resmî Gazete date in the source amendment table"
+    ],
+    [
+      "2025-12-31",
+      "RG-31/12/2025",
+      "Resmî Gazete date printed in the source amendment note"
+    ],
+    [
+      "2025-12-31",
+      "31/12/2025",
+      "Resmî Gazete date in the source amendment table"
+    ],
+    [
+      "2025-09-04",
+      "RG-4/9/2025",
+      "Resmî Gazete date printed in the source amendment note"
+    ],
+    [
+      "2025-09-04",
+      "4/9/2025",
+      "Resmî Gazete date in the source amendment table"
+    ],
+    [
+      "2025-01-15",
+      "RG-15/1/2025",
+      "Resmî Gazete date printed in the source amendment note"
+    ],
+    [
+      "2025-01-15",
+      "15/1/2025",
+      "Resmî Gazete date in the source amendment table"
+    ],
+    [
+      "2024-12-30",
+      "30/12/2024",
+      "Resmî Gazete date in the source amendment table"
+    ],
+    [
+      "2023-12-30",
+      "30/12/2023",
+      "Resmî Gazete date in the source amendment table"
+    ],
+    [
+      "2022-12-30",
+      "RG-30/12/2022",
+      "Resmî Gazete date printed in the source amendment note"
+    ],
+    [
+      "2022-12-30",
+      "30/12/2022",
+      "Resmî Gazete date in the source amendment table"
+    ]
+  ],
+  "commencement_clauses": [
+    "Bu Tebliğ, yayım tarihini izleyen aybaşından itibaren yürürlüğe girer"
+  ],
+  "history": "current-text",
+  "label": "oldest version available",
+  "checked_on": "2026-11-15",
+  "word_count": 33215,
+  "text_status": "current-consolidated",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  },
+  "source_links": [
+    "9.5.20695-Ek.zip"
+  ],
+  "completeness": "html-text-complete; linked annexes not fetched"
+}
