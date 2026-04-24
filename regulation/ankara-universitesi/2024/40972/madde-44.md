@@ -1,0 +1,2 @@
+Sınav sonuçlarına itiraz
+MADDE 44- (1) Öğrenciler, derslerin sınav sonuçları açıklandıktan sonraki en geç beş iş günü içinde ilgili enstitü müdürlüklerine yazılı olarak itirazda bulunabilirler. Enstitü yönetim kurulunca gerektiğinde dersin sorumlu öğretim elemanı/elemanlarının görüşü alınarak sınav kâğıtlarında ve sınav not çizelgelerinde maddi bir hata belirlenirse on gün içinde düzeltilerek öğrenciye bildirilir.

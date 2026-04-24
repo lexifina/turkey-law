@@ -1,0 +1,10 @@
+BEŞİNCİ BÖLÜM
+Sanatta Yeterlik Programı
+Genel esaslar
+MADDE 30- (1) Sanatta yeterlik çalışması, özgün bir sanat eserinin ortaya konulmasını, müzik ve sahne sanatlarında ise üstün bir uygulama ve yaratıcılığı amaçlayan doktora eşdeğeri bir yükseköğretim programıdır.
+(2) (Değişik:RG-30/7/2025-32971)1 Sanatta yeterlik programı, tezli yüksek lisans derecesi ile kabul edilmiş öğrenci için toplam 21 ulusal krediden ve 70 AKTS kredisinden az olmamak şartıyla en az yedi ders, uzmanlık alan dersi, uygulamalar ile sanatta yeterlik tezi, sergi, proje, resital, konser, temsil gibi özgün çalışmalar olmak üzere toplam en az 240 AKTS kredisinden oluşur. Bu programda öğrencinin alabileceği derslere ait azami ulusal kredi ve AKTS kredisi birimin enstitü kurulunda karara bağlanabilir. Anabilim/anasanat dalı kurulunun önerisi ve enstitü yönetim kurulunun onayı ile öğrenciye bilimsel hazırlık programı uygulanabilir. Bilimsel hazırlık programında alınacak derslerin kredileri sanatta yeterlik programına dâhil edilmez. Sanatta yeterlik programından mezun olmak için 27 nci maddenin ikinci fıkrasında belirtilen şartları taşıyan yayın/yayınlar yapmak gerekir.
+(3) Lisans derecesi ile kabul edilmiş öğrenci için en az 42 ulusal kredilik on dört ders, uygulamalar ile sanatta yeterlik tezi, sergi, proje, resital, konser, temsil gibi özgün çalışmalar olmak üzere toplam en az 300 AKTS kredisinden oluşur. Sanatta yeterlik programından mezun olmak için 27 nci maddenin ikinci fıkrasında belirtilen şartları taşıyan yayın/yayınlar yapmak gerekir.
+(4) İlgili enstitü anabilim/anasanat dalı akademik kurulunun önerisi ve enstitü yönetim kurulunun onayı ile diğer yükseköğretim kurumlarında verilmekte olan derslerden, yüksek lisans derecesi ile kabul edilmiş öğrenci en fazla iki, lisans derecesiyle kabul edilmiş öğrenci en fazla dört ders seçebilir.
+(5) Sanatta yeterlik programları ikinci öğretim olarak açılamaz.
+(6) Lisans dersleri, ders yüküne ve sanatta yeterlik programı kredisine sayılmaz.
+(7) Öğrenci, tez danışmanı atanmasını izleyen dönemden itibaren her yarıyıl için uzmanlık alan dersine ve tez çalışmasına kayıt yaptırmak zorundadır.

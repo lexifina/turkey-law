@@ -1,0 +1,3 @@
+Yatay geçiş yoluyla öğrenci kabulü
+MADDE 51- (1) Üniversite içindeki başka bir enstitü anabilim/anasanat dalında veya başka bir üniversitenin lisansüstü programında en az bir yarıyılı tamamlamış olan başarılı öğrenci, lisansüstü programlara yatay geçiş yoluyla kabul edilebilir. Öğrencinin yatay geçiş yapacağı programın kayıt kabul şartlarını sağladığına ilişkin belgeleri sunması gerekir. Başvuru şartlarını sağlayan öğrencinin programa kabulü, ilgili anabilim/anasanat akademik kurulunun önerisi ve enstitü yönetim kurulu kararı ile kesinleşir.
+(2) Öğrenci, yüksek lisans programında ders aşaması tamamlanana kadar, doktora programında yeterlik/sanatta yeterlik sınavına kadar yatay geçiş yapabilir.

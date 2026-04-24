@@ -1,0 +1,3 @@
+Başvuruların değerlendirilmesi
+MADDE 21- (1) Doktora başvurularını değerlendirmek ve yazılı ve/veya mülakat olarak yapılacak bilimsel değerlendirme sınavını gerçekleştirmek üzere, enstitü yönetim kurulu, enstitü anabilim/anasanat dalı akademik kurulunca önerilen öğretim üyeleri arasından en az üç asıl üye, iki yedek üyeden oluşan bir jüri belirler. Jüri, adayları 20 nci maddenin üçüncü fıkrasını dikkate alarak sıralar, kontenjana göre hangi adayların doktora programına kabul edilebileceğini enstitüye bildirir ve enstitü yönetim kurulunun kararıyla öğrenci kabulü kesinleşir.
+(2) Kayıt hakkı kazanan asıl ve yedek adaylar enstitü müdürlüğü tarafından ilan edilir.

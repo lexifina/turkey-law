@@ -1,0 +1,6 @@
+Örgün tezsiz yüksek lisans programından tezli yüksek lisans programına geçiş
+MADDE 10- (1) Örgün tezsiz yüksek lisans programından tezli yüksek lisans programına geçiş, en geç ikinci yarıyılın sonuna kadar yapılabilir. Tezli yüksek lisans programına geçmek için yabancı dil ve ALES şartının yerine getirilmesi gerekir.
+(2) Örgün tezsiz yüksek lisans programına devam edenlerin ve başvurdukları tezli yüksek lisans programı için belirlenmiş olan asgari şartları yerine getirenlerin tezsiz yüksek lisans programında aldıkları dersler, ilgili anabilim/anasanat dalı akademik kurulunun önerisi ve enstitü yönetim kurulunun kararıyla tezli yüksek lisans programındaki derslerin yerine sayılabilir. Tezli yüksek lisans programına geçiş yapan öğrenci, program kapsamındaki zorunlu ders/dersler şartını sağlamakla yükümlüdür.
+(3) Örgün tezsiz yüksek lisans programından tezli yüksek lisans programına geçen öğrenci, programı tamamlamak için tezli yüksek lisans programında verilen azami süreyi aşamaz.
+(4) Örgün tezsiz yüksek lisans programından tezli yüksek lisans programına geçebilmek için, anabilim/anasanat dalının önerisi ve enstitü yönetim kurulunun onayı ile not ortalaması barajı da konulabilir.
+(5) Örgün tezsiz yüksek lisans programından tezli yüksek lisans programına geçiş bir kez yapılabilir.

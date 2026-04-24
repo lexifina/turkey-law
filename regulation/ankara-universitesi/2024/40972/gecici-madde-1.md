@@ -1,0 +1,3 @@
+Geçiş hükümleri
+GEÇİCİ MADDE 1- (1) 6/2/2013 tarihinden önce tezsiz yüksek lisans programlarına kayıtlı olan veya mezun olan öğrenciler doktora programlarına başvurabilir.
+(2) 2024-2025 eğitim-öğretim yılı öncesinde kayıt yaptırmış olan doktora öğrencilerinin mezun olabilmeleri için, alanlarıyla ilgili tek ya da çok isimli ulusal ya da uluslararası hakemli bir dergide yayımlanan bir makale ya da DOI numarası alınmış elektronik ortamda basılmış makale ya da kitap veya kitap bölümü yayımlamaları gerekir. Söz konusu öğrencilerin anılan yayınları, 27 nci maddenin ikinci fıkrasında belirtilen diğer şartlara tabi değildir.

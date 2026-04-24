@@ -1,0 +1,3 @@
+Başvuruların değerlendirilmesi
+MADDE 6- (1) Tezsiz yüksek lisans başvurularını değerlendirmek ve yazılı ve/veya mülakat olarak bilimsel değerlendirme sınavı yapmak üzere, enstitü anabilim/anasanat dalı akademik kurulunca önerilen öğretim üyeleri arasından enstitü yönetim kurulu en az üç asıl üye, iki yedek üyeden oluşan bir jüri belirler. Jüri, adayları 5 inci maddeyi dikkate alarak sıralar, kontenjana göre hangi adayların lisansüstü programa kabul edilebileceğini enstitüye bildirir ve enstitü yönetim kurulunun kararıyla öğrenci kabulü kesinleşir.
+(2) Kayıt hakkı kazanan asıl ve yedek adaylar enstitü müdürlüğü tarafından ilan edilir.

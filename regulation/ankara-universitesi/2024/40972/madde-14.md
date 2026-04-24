@@ -1,0 +1,4 @@
+Süre
+MADDE 14- (1) Tezli yüksek lisans programının süresi, bilimsel hazırlıkta geçen süre hariç, kayıtlı olduğu programa ilişkin derslerin verildiği dönemden başlamak üzere, her dönem için kayıt yaptırıp yaptırmadığına bakılmaksızın dört yarıyıl olup, program en çok altı yarıyılda tamamlanır. Kayıtlı olduğu programın tüm yükümlülüklerini yerine getiren öğrencinin süresinden önce mezun olmasına, ilgili enstitü yönetim kurulu karar verir.
+(2) Dört yarıyıl sonunda öğretim planında yer alan kredili derslerini ve seminerini başarıyla tamamlayamayan, azami süreler içerisinde tez çalışmasında başarısız olan veya tez savunmasına girmeyen öğrencinin Üniversite ile ilişiği kesilir.
+(3) (Ek:RG-24/4/2026-33233) Tezli yüksek lisans programında kayıtlı olan ve doğum yapan kadın öğrencilere talepleri halinde doğum sonrası enstitü yönetim kurulu kararı ile iki dönem ek süre verilebilir. Verilen bu ek süreler azami süreden sayılmaz.

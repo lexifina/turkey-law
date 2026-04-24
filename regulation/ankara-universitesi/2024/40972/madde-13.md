@@ -1,0 +1,3 @@
+Başvuruların değerlendirilmesi
+MADDE 13- (1) Tezli yüksek lisans başvurularını değerlendirmek ve yazılı ve/veya mülakat olarak yapılacak bilimsel değerlendirme sınavını gerçekleştirmek üzere, enstitü yönetim kurulu, enstitü anabilim/anasanat dalı akademik kurulunca önerilen öğretim üyeleri arasından en az üç asıl üye, iki yedek üyeden oluşan bir jüri belirler. Jüri, adayları 12 nci maddeyi dikkate alarak sıralar, kontenjana göre hangi adayların lisansüstü programa kabul edilebileceğini enstitüye bildirir ve enstitü yönetim kurulunun kararıyla öğrenci kabulü kesinleşir.
+(2) Kayıt hakkı kazanan asıl ve yedek adaylar, enstitü müdürlüğü tarafından ilan edilir.

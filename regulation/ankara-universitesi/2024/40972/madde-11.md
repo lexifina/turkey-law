@@ -1,0 +1,11 @@
+ÜÇÜNCÜ BÖLÜM
+Tezli Yüksek Lisans Programı
+Genel esaslar
+MADDE 11- (1) Tezli yüksek lisans programı, öğrencinin bilimsel araştırma yöntemlerini kullanarak bilgilere erişme, bilgiyi derleme, yorumlama ve değerlendirme yeteneğini kazanmasını sağlar.
+(2) Tezli yüksek lisans programları; enstitülerin anabilim/anasanat dalları esas alınarak açılır ve yürütülür.
+(3) Tezli yüksek lisans programının hangi enstitü/anabilim dallarında açılacağı, anabilim/anasanat dalının önerisi, enstitü kurulunun kararı ve Senatonun onayı ile belirlenir.
+(4) (Değişik:RG-30/7/2025-32971)1 Tezli yüksek lisans programı, toplam 21 ulusal krediden ve 60 AKTS kredisinden az olmamak şartıyla en az yedi ders, seminer, uzmanlık alan dersi ve tez çalışması olmak üzere en az 120 AKTS kredisinden oluşur. Seminer, uzmanlık alan dersi ve tez çalışmasının ulusal kredisi yoktur; seminer, uzmanlık alan dersi ve tez çalışması, başarılı veya başarısız olarak değerlendirilir. Anabilim/anasanat dalı kurulunun önerisi ve enstitü yönetim kurulunun onayı ile öğrenciye bilimsel hazırlık programı uygulanabilir. Bilimsel hazırlık programında alınacak derslerin kredileri tezli yüksek lisans programına dâhil edilmez.
+(5) (Değişik:RG-30/7/2025-32971)1 Öğrencinin tezli yüksek lisans programı kapsamında alacağı derslerin en çok ikisi, lisans öğrenimi sırasında alınmamış olması kaydıyla, lisans derslerinden seçilebilir. Ayrıca enstitü anabilim/anasanat dalı başkanlığının önerisi ve enstitü yönetim kurulunun onayı ile Üniversitedeki diğer lisansüstü programlar ya da diğer yükseköğretim kuramlarında verilmekte olan derslerden en fazla iki ders seçilebilir. Diğer yükseköğretim kurumlarından alınan bu dersler seçmeli ders kapsamında değerlendirilir.
+(6) Yabancı dilde lisansüstü programlar, Yükseköğretim Kurulunun belirlediği esaslar çerçevesinde enstitü kurulunun önerisi, Senatonun onayı ve Yükseköğretim Kurulunun kararıyla açılabilir.
+(7) (Değişik:RG-30/7/2025-32971)1 Öğrenci, tez danışmanı atanmasını izleyen dönemden itibaren her yarıyıl için uzmanlık alan dersine ve tez önerisinin kabulünden sonra her yarıyıl için tez çalışmasına kayıt yaptırmak zorundadır.
+(8) Tezli yüksek lisans programı, ikinci öğretim programı olarak yürütülebilir.

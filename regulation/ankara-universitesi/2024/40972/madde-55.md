@@ -1,0 +1,4 @@
+Kayıt yenileme
+MADDE 55- (1) Lisansüstü programlara kayıtlı öğrenciler, güz ve bahar yarıyılları başında, akademik takvimde belirtilen tarihlerde, ilgili mevzuat uyarınca belirlenen katkı payı/öğrenim ücretini ödemek ve ilgili enstitü müdürlüğünce istenen kayıt yenileme işlemlerini yerine getirmekle yükümlüdürler. Katkı payı/öğrenim ücretini ödemeyen öğrencilerin kaydı yenilenmez ve bu öğrenciler, öğrencilere tanınan haklardan yararlandırılmaz.
+(2) Dönem projesi/tez aşamasındaki her öğrenci kayıt yenilemek zorundadır.
+(3) Senato tarafından belirlenen haklı ve geçerli bir nedeni olmadan bir yarıyıl kaydını yenilemeyen öğrenciler, o yarıyıl ders seçemezler. Tez aşamasında ise tez danışmanı/tez izleme komitesi tarafından o yarıyıl değerlendirme dışı bırakılarak başarısız sayılırlar. Bu durumlarda geçen süreler, programın içinde değerlendirilir.
