@@ -1,0 +1,3 @@
+Kesin teminat ve ek kesin teminatların geri verilmesi
+MADDE 39- (1) Bu Usul ve Esaslar kapsamındaki beşerî tıbbi ürün alımları ve bunlara ilişkin hizmet alımlarında taahhüdün, sözleşme ve ihale dokümanı hükümlerine uygun olarak yerine getirildiği ve yüklenicinin bu işten dolayı İdareye herhangi bir borcunun olmadığı tespit edildikten sonra alınmış olan kesin teminat ve varsa ek kesin teminatlar iade edilir.
+(2) Alımı gerçekleştirilecek beşerî tıbbi ürün ve bunlara ilişkin hizmetlerin nitelikleri göz önünde bulundurularak kesin ve varsa ek kesin teminatın iade edileceği süre ve şartlar ihale dokümanında belirtilir.

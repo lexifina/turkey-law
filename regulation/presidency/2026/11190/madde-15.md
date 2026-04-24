@@ -1,0 +1,6 @@
+Pazarlık usulü
+MADDE 15- (1) Pazarlık usulü, ilan yapılmaksızın İdare tarafından davet edilen isteklilerin teklif verebildiği usuldür. Bu usul aşağıda belirtilen hâllerde kullanılabilir:
+a) Doğal afetler, salgın hastalıklar, can veya mal kaybı tehlikesi gibi ani ve beklenmeyen veya İdare tarafından önceden öngörülemeyen olayların ortaya çıkması üzerine ihalenin ivedi olarak yapılmasının zorunlu olması.
+b) Yurt dışından temin edilecek beşerî tıbbi ürünlerin kargo ve gümrük müşavirliği hizmetleri.
+c) Yaklaşık maliyeti, 4734 sayılı Kanunun 21 inci maddesinin birinci fıkrasının (f) bendinde belirlenen parasal limitin beş katına kadar olan beşerî tıbbi ürün ve hizmet alımları.
+(2) İdare tarafından belirlenen en az üç istekli davet edilerek, yeterlik belgelerini ve ilk fiyat tekliflerini birlikte vermeleri istenir. Ancak zorunlu hâller veya işin niteliğinin gerekli kıldığı durumlarda, davet edilecek istekli sayısı üçten az olarak belirlenebilir. Tekliflerin değerlendirilmesini müteakip Komisyon tarafından geçerli teklif sahibi isteklilerden ilk fiyat tekliflerini aşmamak kaydıyla ikinci yazılı fiyat teklifleri alınır. Ardından ikinci fiyat tekliflerini geçmemek üzere her bir istekli ile fiyat üzerinde görüşme yapılarak ihale sonuçlandırılır.

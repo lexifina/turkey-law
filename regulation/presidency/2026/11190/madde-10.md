@@ -1,0 +1,3 @@
+Genel piyasa araştırması
+MADDE 10- (1) EK-4/C Listesinde bulunmayan beşerî tıbbi ürünler ile bu listede bulunan beşerî tıbbi ürünlere alternatif olan ürünlerin tespit edilmesi amacıyla veya Genel Müdürlük tarafından gerekli görülecek hâllerde piyasa araştırması yapılabilir.
+(2) Piyasa araştırması amacıyla, ilaç temin kaynağı listesine kayıtlı istekli olabileceklerin yanı sıra piyasada faaliyet gösteren diğer firmalardan da fiyat bilgisi alınabilir. Genel piyasa araştırması çerçevesinde fiyat bilgisi alınanlar, 11 inci maddede yer alan kriterleri sağlamaları ve başvuruda bulunmaları hâlinde ilaç temin kaynağı listesine kaydedilebilir.

@@ -1,0 +1,9 @@
+Genel esaslar
+MADDE 6- (1) Bu Usul ve Esaslar kapsamında gerçekleştirilecek beşerî tıbbi ürün ve bunlara ilişkin hizmet alımları birlikte veya kısımlar hâlinde yapılabilir.
+(2) İlaç temin kaynağı listesinin oluşturulmasında ve beşerî tıbbi ürün temin süreçlerinde kullanılacak elektronik alt yapı hazırlanana kadar geçecek sürede veya elektronik altyapının herhangi bir sebeple kullanılamadığı durumlarda, söz konusu süreçlere ilişkin iş ve işlemler elektronik ortam dışında da gerçekleştirilebilir.
+(3) Elektronik ortamda yapılacak ihaleler kısmen veya tamamen EKAP üzerinden gerçekleştirilebilir.
+(4) Bu Usul ve Esaslar kapsamında gerçekleştirilecek alımlarda, yabancı para birimleri üzerinden teklif alınabilir. Tekliflerin hangi para birimi üzerinden alınacağı ihale dokümanında belirtilir.
+(5) Bir alım sürecinde, beşerî tıbbi ürünlere ilişkin teklif edilen tüm birim fiyatların EK-4/C listesinde ilgili eşdeğer grubundaki en düşük birim fiyatın üzerinde olması hâlinde, bu teklifler Sağlık Hizmetleri Fiyatlandırma Komisyonu kararları doğrultusunda değerlendirilir.
+(6) Yurt dışından temin edilen beşerî tıbbi ürünlerin temini ve genel sağlık sigortasından yararlandırılan kişilere ulaştırılması için gerekli olan farmakovijilans, sekonder ambalajlama ve bunlara benzer nitelikteki diğer hizmetler, bu Usul ve Esaslar kapsamında hizmet alımı yoluyla yaptırılabileceği gibi söz konusu hizmetler beşerî tıbbi ürün alımı ile birlikte aynı yükleniciye de yaptırılabilir.
+(7) Yurt dışından temin edilecek beşerî tıbbi ürünlerin kargo ve gümrük müşavirliği hizmetleri bir arada ihale edilebilir.
+(8) Bu Usul ve Esaslar kapsamında yapılacak alımlardan, 4 sayılı Bakanlıklara Bağlı, İlgili, İlişkili Kurum ve Kuruluşlar ile Diğer Kurum ve Kuruluşların Teşkilatı Hakkında Cumhurbaşkanlığı Kararnamesinin 409 uncu ve 411 inci maddelerinde yer alan limitleri aşanlar, ilgisine göre Başkan veya Yönetim Kurulu tarafından karara bağlanır.

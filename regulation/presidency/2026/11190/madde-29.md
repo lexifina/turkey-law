@@ -1,0 +1,2 @@
+Elektronik eksiltme
+MADDE 29- (1) İhale veya münferit alım dokümanında belirtilmesi kaydıyla, bu Usul ve Esaslar kapsamında gerçekleştirilecek ihalelerde veya dinamik alım sistemi üzerinden gerçekleştirilecek münferit alımlarda, elektronik eksiltme uygulanabilir. Elektronik eksiltmeye ilişkin iş ve işlemler Kamu İhale Kurumu tarafından yapılan düzenlemeler esas alınarak EKAP üzerinden gerçekleştirilebilir.

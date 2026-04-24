@@ -1,0 +1,2 @@
+Sözleşmeye davet
+MADDE 32- (1) 31 inci maddede belirtilen sürelerin bitimini, ön mali kontrol yapılması gereken hâllerde ise bu kontrolün tamamlandığı tarihi izleyen günden itibaren beş iş günü içinde ihale üzerinde kalan istekliye, tebliğ tarihini izleyen on gün içinde kesin teminatı vermek suretiyle sözleşmeyi imzalaması hususu bildirilir. Yabancı istekliler için bu süreye on gün ilave edilebilir. Sözleşmenin imzalanacağı tarihte, ihale üzerinde kalan isteklinin ihalelere katılmaktan yasaklı olup olmadığının teyit edilmesi zorunludur.

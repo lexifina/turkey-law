@@ -1,0 +1,28 @@
+Tanımlar ve kısaltmalar
+MADDE 4- (1) Bu Usul ve Esasların uygulanmasında;
+a) Aday: Dinamik alım sistemine ön yeterlik için başvuran gerçek veya tüzel kişileri,
+b) Başkan: Sosyal Güvenlik Kurumu Başkanını,
+c) Birim fiyat: Bir ilacın fiyatının ambalaj miktarına bölünmesiyle oluşan fiyatını,
+ç) EK-4/C Listesi: Sosyal Güvenlik Kurumu Sağlık Uygulama Tebliği eki Yurt Dışı İlaç Fiyat Listesini,
+d) EKAP: Elektronik Kamu Alımları Platformunu,
+e) Genel Müdür: Sosyal Güvenlik Kurumu Genel Sağlık Sigortası Genel Müdürünü,
+f) Genel Müdürlük: Sosyal Güvenlik Kurumu Genel Sağlık Sigortası Genel Müdürlüğünü,
+g) Genel Müdür Yardımcısı: Sosyal Güvenlik Kurumu Genel Sağlık Sigortası Genel Müdürlüğünün ilgili Genel Müdür Yardımcısını,
+ğ) Hizmet: Sosyal Güvenlik Kurumu tarafından yurt dışından temin edilecek beşerî tıbbi ürünlerin temini ve dağıtımı gibi süreçlerde gerek duyulacak hizmetleri,
+h) İdare: Sosyal Güvenlik Kurumunu,
+ı) İhale: Bu Usul ve Esaslarda yazılı usul ve şartlarla beşerî tıbbi ürün alımları ve bunlara ilişkin hizmet alımlarının istekliler arasından seçilecek birisi üzerinde bırakıldığını gösteren ve ihale yetkilisinin onayı ile tamamlanan işlemleri,
+i) İhale dokümanı: İhale konusu beşerî tıbbi ürün alımları ve bunlara ilişkin hizmet alımlarında, idari şartnameler ile teknik şartnameler ve sözleşme tasarısı ile gerekli diğer belge ve bilgileri,
+j) İhale yetkilisi: İdarenin, ihale ve harcama yapma yetki ve sorumluluğuna sahip kişi veya kurulları ile usulüne uygun olarak yetki devri yapılmış görevlilerini,
+k) İlaç/beşerî tıbbi ürün: İnsanlardaki hastalığı tedavi edici veya önleyici özelliklere sahip olarak sunulan veya farmakolojik, immünolojik veya metabolik etki göstererek fizyolojik fonksiyonları düzeltmek, iyileştirmek, değiştirmek veya tıbbi teşhis amacıyla insanlarda kullanılan veya insana uygulanan, madde veya maddeler kombinasyonunu,
+l) İlaç temin kaynağı listesi: İstekli olabileceklerin beşerî tıbbi ürün bazında kaydedildiği listeyi,
+m) İstekli: İhaleye veya Dinamik alım sistemi üzerinden münferit alım sürecine teklif veren gerçek veya tüzel kişiyi,
+n) İstekli olabilecek: İlaç temin kaynağı listesine kaydedilen gerçek veya tüzel kişiyi,
+o) Komisyon: Yurt Dışı İlaç Alım Komisyonunu,
+ö) Münferit alım: Dinamik alım sistemi üzerinden gerçekleştirilen her bir beşerî tıbbi ürün alımını,
+p) Münferit sözleşme: Dinamik alım sistemi üzerinden gerçekleştirilen münferit alımlarda istekliler ile İdare arasında imzalanan yazılı sözleşmeyi,
+r) Ön yeterlik dokümanı: Adayların ön yeterlik değerlendirmesi amacıyla hazırlanan ön yeterlik şartnamesi ile gerekli diğer belge ve bilgileri,
+s) Sözleşme: Beşerî tıbbi ürün alımları ve bunlara ilişkin hizmet alımlarında İdare ile yüklenici arasında yapılan yazılı anlaşmayı,
+ş) Yönetim Kurulu: Sosyal Güvenlik Kurumu Yönetim Kurulunu,
+t) Yüklenici: Üzerine ihale bırakılan ve taahhütname alınan/sözleşme yapılan istekliyi,
+ifade eder.
+(2) Bu Usul ve Esaslarda tanımı bulunmayan hususlar hakkında, 4734 sayılı Kanun, 3/2/2023 tarihli ve 32093 sayılı Resmî Gazete’de yayımlanan Yurt Dışından İlaç Temini Yönetmeliği ve Sosyal Güvenlik Kurumu Sağlık Uygulama Tebliği ile ilgili diğer mevzuatta yer alan tanımlar esas alınır.

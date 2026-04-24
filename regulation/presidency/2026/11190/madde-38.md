@@ -1,0 +1,3 @@
+Kesin teminat ve ek kesin teminat
+MADDE 38- (1) Taahhüdün sözleşme ve ihale dokümanı hükümlerine uygun olarak yerine getirilmesini sağlamak amacıyla, sözleşmenin yapılmasından önce ihale üzerinde kalan istekliden ihale bedeli üzerinden hesaplanmak suretiyle % 6 oranında kesin teminat alınır.
+(2) Fiyat farkı ödenmesi öngörülen sözleşmelerde fiyat farkı olarak ödenecek bedelin, sözleşme bedelinde artış meydana getirmesi hâlinde bu artış tutarının % 6’sı oranında teminat olarak kabul edilen değerler üzerinden ek kesin teminat alınır. Fiyat farkı olarak ödenecek bedel üzerinden hesaplanan ek kesin teminat, hak edişlerden kesinti yapılmak suretiyle de karşılanabilir.

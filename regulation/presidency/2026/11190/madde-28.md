@@ -1,0 +1,3 @@
+Aşırı düşük teklifler
+MADDE 28- (1) Komisyon verilen teklifleri değerlendirdikten sonra, diğer tekliflere veya İdarenin tespit ettiği yaklaşık maliyete göre teklif fiyatı aşırı düşük olanları tespit eder. Bu teklifleri reddetmeden önce, belirlediği süre içinde teklif sahiplerinden teklifte önemli olduğunu tespit ettiği bileşenler ile ilgili ayrıntıları yazılı olarak ister. Komisyon, yapılan yazılı açıklamaları dikkate alarak, aşırı düşük teklifleri değerlendirir. Bu değerlendirme sonucunda, açıklamaları yeterli görülmeyen veya yazılı açıklamada bulunmayan isteklilerin teklifleri reddedilir.
+(2) Aşırı düşük tekliflerin tespitinde ve değerlendirilmesinde, Kamu İhale Kurumu tarafından belirlenen yönteme göre tespit edilen sınır değerler ve yöntemler esas alınabilir.
