@@ -1,0 +1,1 @@
+Madde 14- Astsubayların ihtisasları ile ilgili hizmetlerde (Değişik ibare:RG-24/9/2021-31608) görevlendirilmeleri esastır. Ancak zorunlu sebeplerle kendilerine ihtisasları dışında özel ve ek görevde verilebilir.

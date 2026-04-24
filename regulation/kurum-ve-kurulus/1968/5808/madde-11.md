@@ -1,0 +1,12 @@
+İKİNCİ BÖLÜM
+Meslek içi eğitimin devreleri
+Madde 11- (Değişik:RG-24/9/2021-31608)
+Astsubay meslek içi eğitimi genel olarak üç devreye ayrılır.
+a. Temel mesleki gelişme devresi:
+(Değişik cümle:RG-24/4/2026-33233) Astsubay çavuş ile astsubay üstçavuş rütbesinin ilk üç yılı arasını kapsar. Bu devrede astsubaylar sınıflarına ait temel askeri mesleki ve teknik bilgiler ile tecrübe, ameli ehliyet ve asli ihtisas kazanır. Uygun görülenler Türk Silahlı Kuvvetlerinin ihtiyaç duyacağı ikinci bir ihtisas dalında yetiştirilmeye başlanır. Astsubaylar bütün meslek hayatına tesir edecek vasıfları, davranışları ile görev anlayışını bu devrede kazanmaya başlar ve geliştirirler. Bu devrede muharip sınıf astsubayların hepsi, yardımcı sınıf astsubaylar imkan nispetinde, sınıf ve ihtisasları ile ilgili kıt'a görevlerine, kıt'a görev yeri yeterli olmayanlar ihtisasları ile ilgili esas görevlere atanırlar. Görevbaşı eğitimi ve diğer lüzumlu kurslara ve 926 sayılı Kanun esaslarına göre astsubaylıktan subaylığa geçiş kapsamında seçim işlemlerine tabi tutulurlar.
+b. İleri mesleki gelişme devresi:
+(Değişik cümle:RG-24/4/2026-33233) Astsubay üstçavuş rütbesinin 4 üncü yılı ile astsubay başçavuş rütbesinin ilk üç yılı arasını kapsar. Bu devrenin gayesi, astsubayların belirlenmiş ihtisaslarında mesleki gelişmelerini azami seviyeye çıkarmalarını sağlamak, yönetici, öğretmen yardımcısı, öğretmen ve öğretim görevlisi olabilecek nitelikte olanları tespit etmektir.
+Bu maksatla tekamül veya oryantasyon ve benzeri kurslar ile uygun görülenler yönetim ve mesleki gelişim planı kapsamında öğretmenlik görevine yönelik kurslara tabi tutulurlar. Ayrıca seçilen astsubaylara karargâh astsubayı niteliklerini geliştirmek ve müştereklik kültürü kazandırmak maksadıyla eğitimler verilebilir.
+Bu devrede astsubaylar, ihtisasları ile ilgili mümkün olduğu ölçüde kıt'a görevlerine atanırlar.
+c. Son devre:
+(Değişik cümle:RG-24/4/2026-33233) Astsubay başçavuşluğun 4 üncü yılı ile astsubay kıdemli başçavuş rütbesini kapsar. Gayesi, yönetici veya öğretmen yardımcısı, öğretmen ve öğretim görevlisi olarak tespit edilenleri yetiştirmek ve kazandıkları ihtisaslardan azami surette faydalanmaktır. Bu devrede astsubaylar, rütbe ve ihtisasları ile ilgili karargâh ve kurumlarda idari ve teknik görevlere, seçilenler yöneticilik ve öğretmen yardımcılığı görevlerine atanıp, lüzumlu kurslara tabi tutulurlar. Ayrıca seçilen astsubaylara karargâh astsubayı niteliklerini geliştirmek ve müştereklik kültürü kazandırmak maksadıyla eğitimler verilebilir.

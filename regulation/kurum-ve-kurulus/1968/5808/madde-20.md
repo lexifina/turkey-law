@@ -1,0 +1,2 @@
+Madde 20 – (Değişik birinci fıkra:RG-24/9/2021-31608) Öğrenim; kuvvet komutanlıklarının lüzum görmesi halinde ihtiyaç duyulan konularda yetiştirilmek üzere 28/1/1991 tarihli ve 20769 sayılı Resmî Gazete’de yayımlanan Türk Silahlı Kuvvetleri İzin Yönetmeliği ve ilgili mevzuat esaslarına göre seçilen astsubaylar öğrenime gönderilebilirler.
+Başçavuşlar ve daha üst rütbeli astsubaylardan birinci fıkrada belirtilen esaslara göre seçilenler, mesleki bilgi ve görgülerini artırmak üzere yurtdışına bir yıla kadar eğitime gönderilirler.

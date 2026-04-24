@@ -1,0 +1,1 @@
+Geçici Madde 3- (Ek:RG–30/11/1986-19297) Bu Yönetmeliğin yürürlük tarihinden önce izinli olarak yurtiçinde veya yurtdışında her çeşit öğrenim ve kurslara gönderilen astsubaylar hakkında bu Yönetmeliğin 21 nci maddesinin değişiklikten önceki hükümleri uygulanır.

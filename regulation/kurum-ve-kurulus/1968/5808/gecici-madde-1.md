@@ -1,0 +1,1 @@
+Geçici Madde 1 - Bu Yönetmelik hükümlerine tabi olmadan yetişen astsubaylar, bu yönetmeliğin yürürlüğe girdiği tarihte rütbelerinin karşılığına giren devrelere dahil edilerek yönetmelik hükümlerine göre yetiştirilirler.

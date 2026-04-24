@@ -1,0 +1,7 @@
+Madde 21 – (Değişik:RG-24/9/2021-31608)
+Mesleki Bilgi ve Görgü Artırma Eğitimi:
+Mesleki bilgi ve görgü artırma eğitimi amacıyla yurt içinde veya yurt dışında öğrenim ve kursa gönderilen astsubaylar, öğrenim veya kursları aşağıda belirtilen sürelerde bitirmek zorundadırlar:
+a) Üç aydan fazla süreli kurslarda, iç ve dış kurs planlarında gösterilen süreler içinde.
+b) Mesleki görgü ve bilgilerini artırmak veya ihtiyaç duyulan konularda yetiştirilmek üzere yurt içinde veya yurt dışında eğitim ve öğretime tabi tutulan astsubaylar gönderme onay emirlerinde belirtilen süreler içinde.
+Yukarıdaki fıkrada açıklanan süreler sonunda öğrenim ve kursları başarı ile bitirenler ilgili öğrenim kurumlarından aldıkları belgeleri kuvvet komutanlıklarına ibraz ederler. Bakanlık kadro ve kuruluşunda yer alan kurumlarda öğrenim görenlerin belgeleri ilgili birimlerce kuvvet komutanlıklarına gönderilir. Şayet sınav yapılmıyor ise öğrenimleri sonunda veya yurda dönüşlerinde gönderilme gayelerine uygun yeterli bilgiyi edinip edinmediklerinin tespiti için kuvvet komutanlığınca sınava tabi tutulabilirler. Bu şekilde yapılan sınavda alınan netice şahsi özlük dosyalarında muhafaza edilir. Bu sınavlara ilişkin usul ve esaslar, meslek programları yönergesinde gösterilir.
+Yukarıda belirtilen süreler içinde öğrenimlerini bitiremeyenler hakkında 926 sayılı Kanunun 83 üncü, yabancı uyruklu kişilerle evlenenler hakkında 112 nci, yükümlülükleri hakkında 113 üncü madde hükümleri uygulanır.
