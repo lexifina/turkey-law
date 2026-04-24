@@ -1,0 +1,21 @@
+{
+  "record_type": "parliament-written-question",
+  "term": 28,
+  "legislative_year": 4,
+  "esas_no": "7/43715",
+  "submitted": "2026-04-24",
+  "submitted_as": "Başkanlığa geliş tarihi",
+  "mp": "Elif ESEN",
+  "province": "İstanbul",
+  "summary": "Schengen vizesi randevu sistemlerinde manipülasyon yapıldığı iddiasına ilişkin",
+  "status": "Cevaplanmadığı Gelen Kağıtlarda İlan Edildi",
+  "status_as_of": "2026-11-16",
+  "official_record": "https://www.tbmm.gov.tr/Denetim/Yazili-Soru-Onergesi-Detay/53f4f76c-2848-435c-a0c8-019dd47fea8a",
+  "source": "https://tbmm.gov.tr/Denetim/YaziliSoruOnergesiTable",
+  "source_form": "https://tbmm.gov.tr/Denetim/Yazili-Soru-Onergeleri",
+  "source_sha256": "1274070da146c29f9326c21a93ec8f9565e2f0f8e80aa68ccd2ad8e96042c471",
+  "in_force": "2026-04-24",
+  "in_force_basis": "Date the question reached the Speaker (Başkanlığa geliş tarihi) in the official TBMM written-question record; parliamentary oversight record, not law",
+  "history_type": "metadata",
+  "text_status": "metadata-only: question text, addressee and answers are in the linked official record (PDFs on cdn.tbmm.gov.tr); not transcribed here"
+}
