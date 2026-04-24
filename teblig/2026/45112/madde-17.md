@@ -1,0 +1,3 @@
+Belediye ve İl Özel İdarelerin yükümlülükleri
+MADDE 17- (1) Kurban Bayramı öncesi ve Kurban Bayramı süresince belediyeler ve il özel idareleri kurban satışı ve kurban kesimi yapılacak yerlerde 15 inci maddede belirtilen çevre kirliliğine neden olunmaması için dikkat edilmesi gereken hususlar ile denetim esaslarına ilişkin hazırlanan 14 üncü maddede belirtilen yönetim planı çerçevesinde yeterli sayıda temizlik ekiplerini, araçlarıyla birlikte düzenli olarak çalışır hâlde tutar. Kurban Bayramı süresince temizlik elemanı ve atık toplama aracı sayısı arttırılır.
+(2) Satış ve kesim yerlerinden kaçan büyükbaş hayvanların yakalanması için yakalama ekipleri oluşturulur.

@@ -1,0 +1,2 @@
+Dayanak
+MADDE 3- (1) Bu Tebliğ, 22/6/1965 tarihli ve 633 sayılı Diyanet İşleri Başkanlığı Kuruluş ve Görevleri Hakkında Kanunun 7 nci maddesi ile 24/10/2001 tarihli ve 2001/3214 sayılı Bakanlar Kurulu Kararı ile yürürlüğe konulan Kurban Hizmetlerinin Diyanet İşleri Başkanlığınca Yürütülmesine Dair Karara ve 18/8/2002 tarihli ve 24850 sayılı Resmî Gazete’de yayımlanan Kurban Hizmetlerinin Diyanet İşleri Başkanlığınca Yürütülmesine Dair Yönetmelik hükümlerine dayanılarak hazırlanmıştır.
