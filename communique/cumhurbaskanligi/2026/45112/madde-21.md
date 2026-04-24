@@ -1,0 +1,7 @@
+Diğer hususlar
+MADDE 21- (1) Komisyonlar tarafından düzenlenecek eğitim kurslarına Komisyon üyesi kurum ve kuruluşlar tarafından gerekli destek sağlanır.
+(2) Komisyonlarca gerekli görülen il ve ilçelerde Kurban Bayramı öncesinde ve süresince İl Tarım ve Orman Müdürlerinin sorumluluğunda ve Hayvan Sağlığı, Yetiştiriciliği ve Su Ürünleri Şube Müdürlerinin koordinasyonunda yeterli sayıda araç ile nöbetçi veteriner hekim görevlendirilir. Satılamayan hayvanların geri dönüşlerinde Veteriner Sağlık Raporu düzenlenebilmesi amacıyla İl/İlçe Tarım ve Orman Müdürlüklerince yeterli sayıda veteriner hekim görevlendirilir.
+(3) Bu Tebliğin üçüncü bölümünde yer alan hususların yerine getirilmesi ve ilgili tüm kurum ve kuruluşlarla gerekli işbirliği ve koordinasyonun sağlanması için il ve ilçelerde Hayvan Sağlık Zabıtası Komisyonları acilen toplanır ve bu Tebliğ hükümlerinin işlerliğini artırmaya yönelik gerekli karar ve önlemler alınır.
+(4) Belediyeler, İl Özel İdareleri, İl, İlçe Sağlık Müdürlükleri/Toplum Sağlığı Merkezleri tarafından kurban kesim günlerinde kesim yerlerinden gelecek çağrılara seri bir şekilde ulaşılabilmesi için gerekli tedbirler alınır ve bu hususta bilgilendirme çalışmaları yapılır.
+(5) Başkanlıkça, TRT ve özel radyo ve televizyon kuruluşları ile işbirliği yapılarak Kurban Bayramı öncesi kamuoyunun bilgilendirilmesi sağlanır.
+(6) Bulaşıcı hastalıklar sebebiyle 24/4/1930 tarihli ve 1593 sayılı Umumi Hıfzıssıhha Kanunu gereğince alınacak ek tedbirler saklıdır.
