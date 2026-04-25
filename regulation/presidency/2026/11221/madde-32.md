@@ -1,0 +1,5 @@
+Diğer hususlar
+MADDE 32- (1) Bu Usul ve Esaslar kapsamındaki mal ve hizmeti alımlarına ilişkin ihale ve alımlarda, sözleşme yapılmasında isteklinin ve Başkanlığın görev ve sorumluluğu, ihalenin veya alımın sözleşmeye bağlanması ve sözleşmede bulunacak hususlar, sözleşme değişikliği, sözleşmenin feshi, ek sözleşme düzenlenmesi, denetim, muayene ve kabul işlemlerine ilişkin hususlar ihale dokümanında belirlenir.
+(2) Bu Usul ve Esaslara aykırı olmamak üzere, yapılacak alımlarla ilgili gerekli olan standart ihale dokümanları ve tip sözleşmeler Başkanlıkça hazırlanır.
+(3) 4734 sayılı Kanunun 53 üncü maddesinin birinci fıkrasının (j) bendinin (1) numaralı bendinde yer alan Kamu İhale Kurumuna ödenecek bedel, bu Usul ve Esaslara göre yapılan ihale ve alımlarda alınmaz.
+(4) Bu Usul ve Esaslar kapsamında yapılacak olan ihale veya alımlar, kısmen veya tamamen elektronik ortamda veya Elektronik Kamu Alımları Platformu (EKAP) üzerinden gerçekleştirilebilir.
