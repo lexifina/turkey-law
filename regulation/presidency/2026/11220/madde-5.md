@@ -1,0 +1,4 @@
+Temel ilkeler
+MADDE 5- (1) Bu Usul ve Esaslar kapsamındaki mal ve hizmet alımları ile yapım işleri ve yapım işine konu hizmet alımlarında, 4734 sayılı Kanunun 5 inci maddesinde belirtilen temel ilkelerin yanı sıra ulusal menfaat, savunma, güvenlik ve gizliliğin gerektirdiği hususlar, standardizasyonun korunması, modernizasyonun sağlanması ve acil ihtiyaç ile süratle hareket ilkeleri de dikkate alınır.
+(2) Bu Usul ve Esaslar kapsamında yapılan alımlar birlikte veya kısımlar hâlinde yapılabilir.
+(3) Uyuyan sözleşmelerinin süresi, sözleşmede belirtilir. Uyuyan sözleşmelerinin yapılmış olması Başkanlığa alım yapma yükümlülüğü getirmez. Uyuyan sözleşme ihalesine çıkılabilmesi için ödeneğin bulunması şartı aranmaz. Münferit sözleşme aşamasında ise ödeneğin bulunması zorunludur. Ödenek, ihtiyaç konusu mal veya hizmet için teklif edilen en yüksek teklif bedeli dikkate alınarak belirlenebilir.

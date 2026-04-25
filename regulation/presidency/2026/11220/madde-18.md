@@ -1,0 +1,10 @@
+İhalenin karara bağlanması, onaylanması, kararın bildirimi ve sözleşmeye bağlanması
+MADDE 18- (1) İhale komisyonu, yapacağı değerlendirme neticesinde gerekçeli kararını belirleyerek, ihale yetkilisinin onayına sunar. Kararda isteklilerin adları veya ticaret unvanları, teklif edilen bedeller, ihalenin tarihi ve hangi istekli üzerine hangi gerekçelerle yapıldığı, ihale yapılmamış ise nedenleri belirtilir.
+(2) Komisyon kararları ihale yetkilisince onaylanmadan önce, ihale üzerinde kalan istekli ile varsa ekonomik açıdan en avantajlı ikinci teklif sahibi isteklinin ihalelere katılmaktan yasaklı olup olmadığını teyit ettirilerek buna ilişkin belgeyi karara eklemek zorundadır. İsteklilerin yasaklı çıkması durumunda ihale iptal edilir.
+(3) İhale yetkilisi, karar tarihini izleyen en geç beş iş günü içinde ihale kararını onaylar veya gerekçesini açıkça belirtmek suretiyle ihaleyi iptal eder.
+(4) İhale sonucu, ihale kararının ihale yetkilisi tarafından onaylandığı günü izleyen en geç beş iş günü içinde, ihale üzerinde bırakılan dâhil olmak üzere, ihaleye teklif veren bütün isteklilere bildirilir. İhale sonucunun bildiriminde, tekliflerin değerlendirmeye alınmama veya uygun bulunmama gerekçelerine de yer verilir.
+(5) Mal ve hizmet alımları ile yapım işlerinde, isteklilerin sözleşmeye davet edilmesi, sözleşme yapılıp yapılmaması ve sözleşme yapılacak ise sözleşmenin türü ve sözleşmede yer alması zorunlu hususlara ihale dokümanında yer verilir.
+(6) Alımın niteliği sebebiyle sözleşme süresindeki miktarın belirlenemediği alımlarla sınırlı olmak üzere toplam sözleşme tutarı bulunmayan birim fiyatların yer aldığı sözleşmeler yapılabilir.
+(7) Bu Usul ve Esaslar kapsamındaki Başkanlık ihtiyaçlarının karşılanması ile ilgili sözleşmeler, noter tasdikine tabi değildir.
+(8) Bu Usul ve Esaslar kapsamında ihale edilen işler sözleşmeye bağlanır. Sözleşmeler Başkanlıkça hazırlanır ve ihale yetkilisi ile yüklenici tarafından imzalanır. Düzenlenecek sözleşmelerde, 4735 sayılı Kanunun 7 nci maddesinde yer alan hususlardan ilgili olanlar belirtilir.
+(9) İhale dokümanında belirtilen şartlara aykırı sözleşme düzenlenemez.
