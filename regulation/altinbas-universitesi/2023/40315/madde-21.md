@@ -1,0 +1,3 @@
+Akademik danışmanlık
+MADDE 21- (1) Kayıtlı olduğu bölümde/programda eğitim-öğretime başlayan her bir öğrenci için ilgili anabilim dalı/bölüm başkanı tarafından önerilen ve bölüm/programda görev yapan öğretim üyeleri/görevlileri arasından bir danışman atanır ve sisteme tanımlanır.
+(2) Akademik danışman, kayıttan mezuniyete kadar öğrencilerin Üniversite yaşamına uyum sağlamasına yardım ve rehberlik eder. Öğrencinin ders durumunu öğrenciyle birlikte izler ve değerlendirir. Eğitim-öğretim süreçlerini planlamaları konusunda yardımcı olur. Ders seçimi sürecinde öneri yapar ve eksiksiz bir şekilde ders kaydı yapılmasını sağlar. Seçtiği dersleri onaylar. Öğrencinin akademik, sosyal, kültürel, bilişsel yönleri ile kişiliğinin gelişimine katkı sağlar.

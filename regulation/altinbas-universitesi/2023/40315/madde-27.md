@@ -1,0 +1,2 @@
+Ders tekrarı
+MADDE 27- (1) Kayıt yaptırdığı derslerden yarıyıl/yıl sonu sınavları sonucunda; FF, NA ve U başarısız harf notlarını alarak başarısız olan öğrenciler, genel not ortalamalarına bakılmaksızın, dersin açıldığı yarıyılda, öncelikle başarısız oldukları dersleri tekrarlamaları, sonra var ise alt yarıyıl/yıldan hiç almadıkları ders/dersleri almaları ve daha sonra da azamî öğrenci iş yükünü aşmamak koşulu ile bulundukları dönemin derslerini almaları gerekir.

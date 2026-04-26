@@ -1,0 +1,10 @@
+Kayıt silme ve ilişik kesme
+MADDE 32- (1) Kendi isteği ile kaydını sildirmek isteyen öğrenciler, Öğrenci İşleri Daire Başkanlığına yazılı olarak başvururlar. Kayıt sildirme işlemleri ilgili birimlerden onay alındıktan sonra tamamlanır. Kendi isteği ile Üniversiteden kaydını sildiren öğrencilerin öğrencilik hakkı sona erer.
+(2) Uluslararası ortak lisans programlarında yükseköğretim kurumlarından birinden ilişiği kesilen öğrencinin diğer yükseköğretim kurumundan da ilişiği kesilir.
+(3) ÖSYM tarafından merkezi yerleştirme ile yapılan yeni kayıtlar, yatay geçiş kayıtları ve uluslararası öğrenci kayıtlarından sonra kayıt silinmesinin talep edilmesi durumunda, Senato tarafından belirlenen mali yükümlülüklerin yerine getirilmesi koşulu ile kayıt sildirme işlemi gerçekleştirilebilir.
+(4) 2547 sayılı Kanunun 54 üncü maddesinde yer alan hükümler çerçevesinde Üniversiteden çıkarılma cezası alan öğrencinin kaydı silinir.
+(5) Başka bir yükseköğretim kurumuna yatay geçiş yapan öğrencinin, geçiş yaptığı yükseköğretim kurumundan resmî yazı gelmesi üzerine kaydı silinir.
+(6) 2547 sayılı Kanunun 44 üncü maddesi uyarınca azami süreler içinde katkı payı veya öğrenim ücretinin ödenmemesi ile kayıt yenilenmemesi nedeniyle öğrencilerin ilişikleri kesilmez. Ancak Üniversite Yönetim Kurulu kararı ve YÖK’ün onayı ile dört yıl üst üste öğrenim ücretinin ödenmemesi ile kayıt yenilenmemesi durumunda öğrencilerin ilişikleri kesilebilir.
+(7) 2547 sayılı Kanunun 44 üncü maddesinde yer alan öğretim dili tamamen veya kısmen yabancı dil olan programların hazırlık sınıfını iki yıl içinde başarı ile tamamlayamayan öğrencilerin programdan ilişiği kesilir. Öğretim dili tamamen veya kısmen yabancı dil olan programların hazırlık sınıfından ilişiği kesilen öğrenciler kendi yükseköğretim kurumlarında öğretim dili Türkçe olan eşdeğer bir programa kayıt yaptırabilirler.
+(8) Üniversiteye sahte belgelerle kayıt yaptırdığı kanıtlanan öğrencinin ilişiği kesilir.
+(9) Üniversiteden mezun olan öğrenciler, geçici mezuniyet belgesi veya diploma almadan önce ilgili birimlerden onay alarak ilişik kesme işlemlerini tamamlarlar.
