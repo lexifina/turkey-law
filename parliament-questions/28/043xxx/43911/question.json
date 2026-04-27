@@ -1,0 +1,21 @@
+{
+  "record_type": "parliament-written-question",
+  "term": 28,
+  "legislative_year": 4,
+  "esas_no": "7/43911",
+  "submitted": "2026-04-27",
+  "submitted_as": "Başkanlığa geliş tarihi",
+  "mp": "Engin ALTAY",
+  "province": "İstanbul",
+  "summary": "Bakanlık ile Bakanlığa bağlı, ilgili ve ilişkili kurum ve kuruluşlar tarafından kiralanan ve kiraya verilen gayrimenkullere ilişkin",
+  "status": "Cevaplandı",
+  "status_as_of": "2026-11-16",
+  "official_record": "https://www.tbmm.gov.tr/Denetim/Yazili-Soru-Onergesi-Detay/931ed817-9e22-417b-a5ea-019dd2fa6022",
+  "source": "https://tbmm.gov.tr/Denetim/YaziliSoruOnergesiTable",
+  "source_form": "https://tbmm.gov.tr/Denetim/Yazili-Soru-Onergeleri",
+  "source_sha256": "737b6b1b6d203377c3669d8a25b468a687fe4d1c3248bd0023bb8a429289ea09",
+  "in_force": "2026-04-27",
+  "in_force_basis": "Date the question reached the Speaker (Başkanlığa geliş tarihi) in the official TBMM written-question record; parliamentary oversight record, not law",
+  "history_type": "metadata",
+  "text_status": "metadata-only: question text, addressee and answers are in the linked official record (PDFs on cdn.tbmm.gov.tr); not transcribed here"
+}
