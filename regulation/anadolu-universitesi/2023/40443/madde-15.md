@@ -1,0 +1,3 @@
+Devam zorunluluğu
+MADDE 15- (1) Örgün programlarda teorik ve uygulamalı derslere devam zorunluluğu en az %70’tir. Uygulamalara devam esasları, Enstitü Yönetim Kurulu tarafından belirlenir. Bir dersten Senato tarafından belirlenmiş haklı ve geçerli nedenlerden kaynaklı olsa dahi devam koşulunu yerine getirmeyen ve/veya uygulamalardan başarılı olamayan öğrenci, o dersin dönem sonu sınavına giremez. Ancak Enstitü Yönetim Kurulu tarafından Üniversiteyi veya Türkiye’yi temsilen görevlendirilen bir öğrenci, Rektörlük onayından sonra bu süreler içinde izinli sayılır.
+(2) Uzaktan öğretim programlarına kayıtlı öğrencilerin derslere devam koşulları, ilgili anabilim/anasanat dalı başkanlığının önerisi ve Enstitü Yönetim Kurulu kararıyla belirlenir.

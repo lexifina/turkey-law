@@ -1,0 +1,12 @@
+ALTINCI BÖLÜM
+Doktora Programı
+Doktora programının amacı ve ders yükü
+MADDE 31- (1) Doktora çalışması sonunda hazırlanacak tezin; bilime yenilik getirme, yeni bir bilimsel yöntem geliştirme ve bilinen bir yöntemi yeni bir alana uygulama niteliklerinden en az birini yerine getirmesi gerekir.
+(2) Doktora programı; tezli yüksek lisans derecesine sahip öğrenci için toplam 60 AKTS kredisinden az olmamak koşuluyla en az yedi ders, seminer dersi, yeterlik sınavı ile 180 AKTS kredisinden az olmamak koşuluyla tez önerisi, uzmanlık alan dersi ve tez çalışmasından oluşur. Lisans derecesi ile kabul edilmiş öğrenci için ise toplam 120 AKTS kredisinden az olmamak koşuluyla en az on dört ders, seminer dersi, yeterlik sınavı ile 180 AKTS kredisinden az olmamak koşuluyla tez önerisi, uzmanlık alan dersi ve tez çalışmasından oluşur.
+(3) Doktora programında bir yarıyılda 60 AKTS’den fazla ders alınamaz.
+(4) Bilimsel araştırma teknikleri ile araştırma ve yayın etiği konularını içeren en az bir dersin lisansüstü eğitim sırasında alınması zorunludur.
+(5) Doktora öğrencisi seminer dersini, doktora tez danışmanından ikinci yarıyıldan itibaren alır. Doktora tez danışmanının tüm öğrencileri aynı seminer dersine kayıt yaptırır. Seminer dersini alan her öğrenci için öğrencinin danışmanıyla birlikte belirlediği seminer konusu anabilim dalı başkanlığı aracılığıyla Enstitüye bildirilir ve Enstitü tarafından ilan edilir. Seminer dersinde başarısız bulunan öğrenci, bir sonraki yarıyılda seminer dersini tekrar eder. Tekrar durumunda, doktora tez danışmanının uygun görmesi ve Enstitü Yönetim Kurulunun onayıyla seminer konusu değiştirilebilir.
+(6) Doktora programında anabilim dalı başkanlığının önerisi ve Enstitü Yönetim Kurulunun onayıyla diğer yükseköğretim kurumlarında verilmekte olan derslerden; yüksek lisans derecesiyle kabul edilmiş öğrenci en fazla iki, lisans derecesiyle kabul edilmiş öğrenci ise en fazla dört ders alabilir.
+(7) Lisans dersleri, ders yüküne ve doktora kredilerine sayılmaz. Ancak, yüksek lisans düzeyinden daha önceden alınmamış olması koşuluyla (bilimsel araştırma teknikleri ile araştırma ve yayın etiği konularını içeren ders veya bilim etiği dersi hariç) en fazla iki ders alınabilir.
+(8) Doktora programları ikinci öğretim olarak açılamaz.
+(9) (Ek:RG-27/4/2026-33236) Tezli yüksek lisans programına kayıtlı öğrenci doktora programından ders alabilir. Bu uygulamaya ilişkin usul ve esaslar Senato tarafından belirlenir.

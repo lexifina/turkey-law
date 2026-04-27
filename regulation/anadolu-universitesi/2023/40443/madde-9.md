@@ -1,0 +1,13 @@
+Yatay geçiş yoluyla öğrenci kabulü
+MADDE 9- (1) (Değişik:RG-27/4/2026-33236) Üniversitenin lisansüstü programları arasında veya başka bir yükseköğretim kurumunun lisansüstü programlarından, eşdeğer diploma programları kapsamında ve mevzuat hükümleri çerçevesinde Üniversitenin ilgili lisansüstü programına yatay geçiş yoluyla öğrenci kabul edilebilir. Yatay geçiş talebinde bulunan bilimsel hazırlık aşamasındaki öğrencilerin başvuruları ile transkriptlerinde CD, DC, DD, FF, DZ veya YZ harf notu olan öğrencilerin başvuruları değerlendirmeye alınmaz. Tezsiz yüksek lisans programından tezli yüksek lisans programına yatay geçiş başvurusu yalnızca bir kez yapılabilir. Yatay geçiş için;
+a) Öğrencinin en az bir yarıyılını tamamlamış,
+b) Tezli yüksek lisans programı öğrencisinin tez aşamasına geçmemiş,
+c) Tezsiz yüksek lisans programı öğrencisinin ikinci yarıyıla başlamamış,
+ç) Lisansa dayalı doktora/sanatta yeterlik programı öğrencisinin doktora yeterlik sınavına girmemiş olması ve beşinci yarıyıla geçmemiş,
+d) Yüksek lisansa dayalı doktora/sanatta yeterlik programı öğrencisinin doktora yeterlik sınavına girmemiş olması ve üçüncü yarıyıla geçmemiş,
+e) Öğrencinin disiplin cezası almamış, ayrılacağı lisansüstü programındaki geçiş yapacağı yarıyıla kadar olan derslerinin tümünü normal süresi içinde başarmış ve ilgili programın asgari başvuru koşullarını sağlamış,
+olması gerekir.
+(2) Yüksek lisans düzeyinde yatay geçiş başvurusu için öğrencinin 4,00 üzerinden en az 3,00 GNO’ya veya Senato tarafından eşdeğerliği kabul edilen GNO’ya sahip olması gerekir. Doktora ve sanatta yeterlik düzeyinde ise 4,00 üzerinden en az 3,20 GNO’ya veya Senato tarafından eşdeğerliği kabul edilen GNO’ya sahip olması ve CC harf notunun altında harf notunun olmaması gerekir. Ayrıca yatay geçiş için ilgili anabilim/anasanat dalı başkanlığının olumlu görüşü ve Enstitü Yönetim Kurulunun onayı gerekir.
+(3) Yatay geçişle bir programa kaydolan öğrencinin önceki programında geçirdiği süre, geçtiği programın program süresinden sayılır.
+(4) Öğrencinin önceden almış olduğu derslere ait kredi ve not transfer talebi, ilgili anabilim/anasanat dalı başkanlığının önerisiyle Enstitü Yönetim Kurulu tarafından karara bağlanır.
+(5) Öğrencinin; tezsiz yüksek lisans programından tezli yüksek lisans programına yatay geçiş yapabilmesi için tezsiz yüksek lisans programına kaydolduğu yarıyıldaki tezli yüksek lisans programına kabul edilen en düşük başarı puanlı öğrencinin puanı kadar puanı olması gerekir. Ancak söz konusu yarıyılda ilgili tezli yüksek lisans programına öğrenci alınmamışsa programa en son öğrenci alınan yarıyıldaki en düşük başarı puanı dikkate alınır.

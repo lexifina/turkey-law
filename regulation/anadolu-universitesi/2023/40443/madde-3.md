@@ -1,0 +1,22 @@
+Tanımlar
+MADDE 3- (1) Bu Yönetmelikte geçen;
+a) AKTS: Avrupa Kredi Transfer Sistemini,
+b) ALES: Akademik Personel ve Lisansüstü Eğitimi Giriş Sınavını,
+c) Anabilim/anasanat dalı: Anadolu Üniversitesi Lisansüstü Eğitim Enstitüsü bünyesinde yer alan anabilim ve anasanat dallarını,
+ç) DNO: Dönem not ortalamasını,
+d) Enstitü: Anadolu Üniversitesi Lisansüstü Eğitim Enstitüsünü,
+e) Enstitü Kurulu: Anadolu Üniversitesi Lisansüstü Eğitim Enstitüsü bünyesinde yer alan anabilim ve anasanat dalı başkanlarından oluşan kurulu,
+f) Enstitü Yönetim Kurulu: Anadolu Üniversitesi Lisansüstü Eğitim Enstitüsü Yönetim Kurulunu,
+g) GNO: Genel not ortalamasını,
+ğ) İntihal: Başkalarının fikirlerini, yöntemlerini, verilerini ve/veya eserlerini bilimsel kurallara uygun biçimde atıf yapmadan kısmen veya tamamen kendi eseri gibi göstermeyi,
+h) Kılavuz: Anadolu Üniversitesi Lisansüstü Tez Yazım Kılavuzunu,
+ı) Müdür: Anadolu Üniversitesi Lisansüstü Eğitim Enstitüsü Müdürünü,
+i) Rektör: Anadolu Üniversitesi Rektörünü,
+j) Senato: Anadolu Üniversitesi Senatosunu,
+k) Tez danışmanı: Enstitüde kayıtlı öğrenciye; ders, yüksek lisans tezi, doktora tezi ve sanatta yeterlik tezi dönemlerinde rehberlik etmek üzere, 20/4/2016 tarihli ve 29690 sayılı Resmî Gazete’de yayımlanan Lisansüstü Eğitim ve Öğretim Yönetmeliğinde belirtilen esaslara göre atanan danışmanı,
+l) Üniversite: Anadolu Üniversitesini,
+m) Yeterlik Komitesi: Doktora ve Sanatta yeterlik komitesini,
+n) YÖK: Yükseköğretim Kurulunu,
+o) Yönetim Kurulu: Anadolu Üniversitesi Yönetim Kurulunu,
+ö) (Ek:RG-27/4/2026-33236) Eşdeğer diploma programı: İsimleri aynı olan veya Enstitü Yönetim Kurulu tarafından içeriklerinin en az %80’inin aynı olduğu tespit edilen diploma programlarını,
+ifade eder.

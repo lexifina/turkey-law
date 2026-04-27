@@ -1,0 +1,2 @@
+Öğrenim haklarının saklı tutulması
+MADDE 16- (1) Senato tarafından belirlenmiş haklı ve geçerli nedenlerden birine dayalı olarak öğrencinin, öğrencilik hakları saklı tutulabilir. Öğrenci, mazeretini belirten belgeleri Enstitü Müdürlüğüne teslim eder ve talep, Enstitü Yönetim Kurulu tarafından karara bağlanır. Öğrencinin saklı tutulan öğrenim süresi, bu Yönetmelikte belirlenen azami öğrenim süresinden sayılmaz.

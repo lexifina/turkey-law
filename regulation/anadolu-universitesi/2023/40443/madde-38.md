@@ -1,0 +1,6 @@
+Doktora diploması
+MADDE 38- (1) Doktora tezi ve çalışması kabul edilen öğrenci; tezini, tez danışmanına teslim eder. Tez danışmanı; tezin, Kılavuz koşullarına uygunluğu yönünden yazılı olarak belirttiği görüşü ile bir kopyasını anabilim dalı başkanlığı aracılığıyla Enstitüye gönderir.
+(2) Tez sınavında başarılı olmak ve diğer koşulları da sağlamak kaydıyla doktora tezinin ciltlenmiş bir kopyasını tez sınavına giriş tarihinden itibaren en geç bir ay içinde Enstitüye teslim eden ve tezi şekil yönünden Kılavuza uygun bulunan öğrenciye; doktora diploması verilir. Enstitü Yönetim Kurulu tez teslim süresini en fazla bir ay daha uzatabilir. Bu koşulları yerine getirmeyen öğrenci, koşulları yerine getirinceye kadar diplomasını alamaz, öğrencilik haklarından yararlanamaz ve azami süresinin dolması durumunda programdan ilişiği kesilir.
+(3) Doktora diploması üzerinde, öğrencinin kayıtlı olduğu Enstitünün ve anabilim dalındaki programın YÖK tarafından onaylanmış adı bulunur.
+(4) Doktora programında; tezin jüri tarafından imzalanmış nüshasının Enstitüye teslim edildiği tarih, mezuniyet tarihidir.
+(5) Doktora tezinin bir kopyası tezin tesliminden itibaren üç ay içinde elektronik ortamda, Enstitü tarafından Yükseköğretim Kurulu Başkanlığına gönderilir.
