@@ -1,0 +1,2 @@
+Ücretler
+MADDE 17- (1) Bu Yönetmelik kapsamındaki sertifikasyon ve kontrol hizmetleri 5553 sayılı Kanunun 9 uncu maddesi hükümlerince ücrete tabidir. Bu ücretler, Bakanlık tarafından her yıl Ocak ayında belirlenir. Ücretler, 12/2/2026 tarihli ve 33166 sayılı Resmî Gazete’de yayımlanan Tarım ve Orman Bakanlığı Döner Sermaye İşletmesi Yönetmeliği hükümlerine göre, hizmeti veren kuruluşun döner sermaye işletmesi hesabına peşin olarak yatırılır.
