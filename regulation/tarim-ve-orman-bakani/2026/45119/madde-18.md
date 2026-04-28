@@ -1,0 +1,4 @@
+Başvuru alma
+MADDE 18- (1) Bu Yönetmelik kapsamında yapılacak başvurular, ıslak veya elektronik imza ile imzalanarak doldurulan bilgi, belge ve formlardan oluşan eklerle, fiziki olarak veya elektronik ortamda yapılır.
+(2) Bakanlık tarafından elektronik sistem üzerinden alınan başvuru belgeleri asılları ile eşdeğer kabul edilir. Başvuru sonrasında tespit edilen eksiklikler ile elektronik ortamdan temin edilemeyen bilgi ve belgeler, yurt dışı kuruluşlardan alınması gereken asıl belgeler ile gerekli görülmesi halinde başvuru belgelerinin asılları veya yetkili otoritelerce onaylanmış suretlerinin ıslak imzalı nüshaları başvuruda bulunan kuruluştan veya başvuru sahibinden istenir.
+(3) Bu Yönetmelik kapsamında yapılacak bildirimler ve davet yazıları, varsa alıcının elektronik belge yönetim sistemi veya kayıtlı elektronik posta adresi üzerinden, elektronik olarak, yoksa fiziki belge olarak gönderilir.
