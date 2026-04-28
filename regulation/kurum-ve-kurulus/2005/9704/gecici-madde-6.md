@@ -1,0 +1,1 @@
+Geçici Madde 6 - Bu Yönetmeliğin yayımlandığı tarihten itibaren 4 ay içerisinde Kuvvet Komutanlıkları, Jandarma Genel Komutanlığı ve Sahil Güvenlik Komutanlığı kendi Atama Yönergelerini hazırlayarak Genelkurmay Başkanlığına gönderir.

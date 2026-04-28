@@ -1,0 +1,4 @@
+Tutuklu, hükümlü, geçici olarak görevden uzaklaştırılanlar veya açığa alınanlar
+Madde 32- (Başlığı ile Birlikte Değişik:RG-28/4/2026-33237)
+Herhangi bir sebeple geçici olarak görevden uzaklaştırılanlar, açığa alınanlar veya Türk Silahlı Kuvvetlerinden ayırma kararı nedeniyle ilişiği kesildikten sonra mahkeme kararıyla göreve iade edilenler ile tutuklananların itibari yüz yirmi güne kadar (dahil) süresi bağlı bulundukları garnizon hizmetinden sayılır.
+Bir defada yüz yirmi gün (dahil) ve daha fazla süreyle hapis cezası alıp da infazda bulunanlar ile geçici olarak görevden uzaklaştırılmış, açıkta, tutuklulukta, firarda veya izin tecavüzünde bulunanlardan, bu durumlarının devamı sebebiyle hizmetin aksamasına yol açacaklar, öncelikle atamalı bulundukları komutanlık emrine, bunun mümkün olmaması veya lüzum görülmesi halinde aynı yerin askerlik şubesi emrine atandırılırlar.

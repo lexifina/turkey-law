@@ -1,0 +1,3 @@
+Başarısızlık veya disiplin sorunları nedeniyle yapılacak atama teklifleri
+Madde 21 - Görevini gerektiği düzeyde yerine getiremeyecek şekilde başarısız veya disiplinsiz olan personelin atamasının teklif edilebilmesi için; amirlerince uyarılmalı, düzelme sağlanamadığında idari ve yasal tedbirler alınmalı ve yürürlükteki mevzuat usullerine göre belgelenmelidir. Bu tedbirler alınmadan atama teklifinde bulunulamaz.
+Görevine devam etmesi hizmet açısından önemli sakıncalar doğuracak personel için atama dönemine bağlı kalınmaksızın görevden alınma teklifinde bulunulduğunda, bu teklifin gerekçesi atamaya yetkili makama yazılı olarak bildirilir.

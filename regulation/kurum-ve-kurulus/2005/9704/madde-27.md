@@ -1,0 +1,8 @@
+Yeni göreve katılma
+Madde 27 – (Değişik:RG-21/10/2014-29152)
+Subay ve astsubayların atanmalarında atama emrinde aksi emredilmedikçe;
+a) Aynı belediye/büyükşehir belediye hudutları içine atananlar veya garnizon içi atamaya tabi tutulanlar, atanma emrinde aksi belirtilmedikçe ilişik kestikleri günü takiben 24 saat içinde, bu süre resmî tatil gününe rastlıyorsa hizmetin başladığı gün mesai saati içinde,
+b) Belediye/büyükşehir belediye hudutları dışında garnizonlar arası atamaya tabi tutulanlar, ilişik kestikleri günden itibaren yollukları hakkındaki özel kanunda belirtilen seyahat süresi dışında 15 gün içinde,
+atandıkları göreve katılmak zorundadırlar.
+Bu süreler dahilinde mazeretsiz göreve katılmayanlar hakkında özel kanunlar gereğince işlem yapılır.
+(Değişik üçüncü fıkra:RG-28/4/2026-33237) Atamaya tabi tutulan personelin izinli, raporlu, tutuklu, açıkta, geçici olarak görevden uzaklaştırma, firarda ve izin tecavüzünde olması veya hastanede yatması tebligata engel olmaz. Ancak, birinci fıkranın (a) ve (b) bentlerindeki süreler, tebligata engel olmayan hallerin bitiminde başlar. Ataması yapılmasına rağmen bu sebeplerden dolayı ilişik kesemeyen personel birlik komutanlığınca birlik emrine görevlendirilir. Bu personelin ilişik kesme işlemleri, Kuvvet Komutanlıklarınca uygun görülmesi durumunda, personelin atamalı bulundukları kıta komutanlıkları, karargâh, kurum veya birim amirliklerince gıyaplarında evrak üzerinden yapılır ve ilişik kesme belgeleri yeni birliğine gönderilir. Bunların yeni görevlerine katılışları da gıyaplarında evrak üzerinden yapılır ve özlük hakları yeni birlikleri tarafından yürütülür.

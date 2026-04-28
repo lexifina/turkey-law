@@ -1,0 +1,7 @@
+Muharip/Kurmay subay atamaları
+Madde 37 – (Değişik:RG-28/4/2026-33237)
+Teğmen, üsteğmen, yüzbaşı rütbelerindeki subaylar, 926 sayılı Kanun, 8/8/1968 tarihli ve 12971 sayılı Resmî Gazete'de yayımlanan Subay Meslek Programları Yönetmeliği, 27/12/1998 tarihli ve 23566 sayılı Resmî Gazete'de yayımlanan Subay Sicil Yönetmeliği ve Kıta Görevleri Yönergesi esaslarına göre sekiz yıldan az olmamak üzere, mümkün olabilen azami süre kıta görevi yapabilecek şekilde atandırılırlar.
+Yabancı ülke askerî akademilerine öğrenime gönderilecek kurmay subayların; Kuvvet Harp Enstitülerinden mezuniyetlerini müteakip, söz konusu enstitülerde geçirilen eğitim süresi kadar görev yapmış olmaları esas alınır.
+Kara Harp Enstitüsünü bitiren kurmay subayların mezuniyetlerini müteakip başta Tugay/Tümen Karargâhları olmak üzere ve o sene Tugay/Tümen Karargâhlarında boşalacak kadro sayısının yetersiz olması durumunda ise, diğer kıta görevleri ile Kolordu Karargâhlarına atandırılmalarına öncelik verilir.
+Deniz Harp Enstitüsünü ve Hava Harp Enstitüsünü bitiren kurmay subaylar, mezuniyetlerini müteakip mesleki gelişim paterni de dikkate alınarak, kıta ve karargâhlara atandırılırlar.
+Üst düzey komutanlık görevlerine hazırlanmaları maksadıyla, nitelikleri uygun ve sağlık durumu elverişli Kara Kuvvetleri Komutanlığı mensubu muharip sınıf kurmay subaylara iki yıl tabur/alay komutanlığı yaptırılır. Ancak Bakanlık tarafından, uygun görülecek tabur/alay komutanlıklarının süresi değiştirilebilir.

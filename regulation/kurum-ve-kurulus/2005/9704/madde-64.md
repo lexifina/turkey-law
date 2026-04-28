@@ -1,0 +1,5 @@
+Atama yerleri ve bu yerlere ait esaslar
+Madde 64 - Atamalar, hizmetin aksatılmadan yürütülmesi, kadro yerleri ve personelin sınıfı/branşı ile hizmet safahatı esas olmak üzere mesleki gelişim paternine uygun olarak kara ve yüzer birlikler arasında/dahilinde yapılır.
+Kara birliklerindeki hizmetlerde, 23 ve 24 üncü maddelerde belirtilen mecburiyetler olmadıkça personelin asgari seviyede garnizon değiştirmesi esas alınır.
+(Değişik üçüncü fıkra:RG-28/4/2026-33237) Kıta mecburiyeti ve sair sebepler aranmaksızın zaruri hallerde veya fiili deniz hizmet süreleri emsallerinin gerisinde kalan personelin kara birliklerindeki garnizon hizmet safahatı ile deniz hizmeti veya fiili deniz hizmet süreleri safahatı da dikkate alınmak suretiyle yüzer birliklere ataması yapılabilir.
+(Ek fıkra:RG-28/4/2026-33237) Garnizonda açığa alınma, geçici olarak görevden uzaklaştırılma, tutukluluk, hava değişimi, istirahat, kurs, geçici görev, sıhhi izin ve benzeri sebeplerle görevden ayrı kalınan sürelerin toplam yüz yirmi günü fiili deniz hizmet süresinden sayılır. Hükümlülük, izin tecavüzü ve firarda geçen süreler fiili deniz hizmet süresinden sayılmaz.

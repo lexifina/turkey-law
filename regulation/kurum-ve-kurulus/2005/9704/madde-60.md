@@ -1,0 +1,2 @@
+İdari sebeplerle garnizon hizmet süresini bitirmeden sıralı hizmet garnizonuna atama/erteleme
+Madde 60 - 24 üncü maddenin ikinci fıkrasına göre 1, 2 ve 3 üncü derecedeki garnizonlarda görev yapan personelden, idari sebeplerle bulunduğu garnizon hizmet süresini bitirmeden diğer garnizona atandırılan subay ve astsubaylardan, hemen ertesi yıl sıralı hizmet garnizonu sırası gelenlerin atanmaları 1 yıl için ertelenir. Ancak (Değişik ibare:RG-28/4/2026-33237) güvenliğin gerekli kıldığı durumlarda sıralı hizmet garnizonlarına atanması gerekenlerin atanmaları ertelenmeyebilir.

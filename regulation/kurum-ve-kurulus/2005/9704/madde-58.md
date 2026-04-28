@@ -1,0 +1,3 @@
+Sıralı hizmet garnizonu sıralı hizmet süresinin hesabı
+Madde 58 – (Değişik:RG-28/4/2026-33237)
+30 Eylül tarihine kadar sıralı hizmet garnizonuna katılmış olanlardan, geçici olarak görevden uzaklaştırması sona erenler, Türk Silahlı Kuvvetlerinden ayırma kararı nedeniyle ilişiği kesildikten sonra mahkeme kararıyla göreve iade edilenler, açıkta veya tutuklulukta kalanlardan beraat edenler ile kurs veya geçici görev nedeniyle sıralı hizmet garnizonu hizmet süresinin sona erme tarihi değişenler, hizmet sürelerini 31 Aralık tarihine kadar tamamlamaları durumunda o yılın atama planına dahil edilirler.

@@ -1,0 +1,4 @@
+Subay ve astsubaylardan eşleri muvazzaf/sözleşmeli askerî personel olan ya da devlet kuruluşunda görevli olanların atamaları
+Madde 43 - Eşleri muvazzaf/sözleşmeli Türk Silahlı Kuvvetleri mensubu askerî personel olan subay ve astsubaylar istekli olmaları durumunda hizmet ve kadro imkânları nispetinde eşleri ile aynı garnizona atanmaları dikkate alınır.
+Eşleri Devlet kuruluşlarında görevli subay ve astsubayların atanmalarında eşlerinin memuriyet görevi göz önünde tutulur. Talep ettikleri garnizonlara atanmaları muvazene, kadro ve ihtiyaç durumu ile safahatı ve sıralı hizmet garnizonu hizmet sırası dikkate alınarak öncelikle yapılabilir.
+Atama durumuna girmiş personelin çocuklarının yüksek öğretim, özel ve yatılı okullar hariç olmak üzere eğitim ve okul durumlarına bağlı istekleri, emsallerine nazaran avantaj sağlamamak kaydıyla imkânlar nispetinde karşılanabilir.

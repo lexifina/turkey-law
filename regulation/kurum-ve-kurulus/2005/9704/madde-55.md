@@ -1,0 +1,20 @@
+Sıralı hizmet garnizonuna atama ve çıkarılma esasları
+Madde 55 - Sıralı hizmet garnizonlarına atanacaklar ve bu garnizonlardan çıkarılacaklar için aşağıdaki hususlar göz önünde bulundurulur.
+a) Sıralı hizmet garnizonlarına ilk defa gidecekler :
+Öğrenim, askerî eğitim, kurs ve stajlarını başarı ile bitiren muvazzaf/sözleşmeli subay ve astsubayların sıralı hizmet garnizonlarına atanmalarında; sıralı hizmet garnizonları için kura çekmeye esas rütbedeki personelin atanabileceği kadro sayısı aynı nitelikteki genel kadro sayısına bölünür. Elde edilen katsayının, kura çekecek mevcut ile çarpımı sonucunda bulunan sayıdaki personel kura ile sıralı hizmet garnizonlarına gönderilir.
+Kura cetvellerinde sıralı hizmet garnizonlarına ait olan kadrolara, baştan itibaren numaralandırılarak mevcuda uygun boş kadrolar sıralandırılır.
+(Değişik:RG-7/5/2016-29705) Aynı sınıf (Mülga ibare:RG-28/4/2026-33237) ve rütbedeki personelden sıralı hizmet garnizonuna ilk defa gönderileceklerin nasıplarına göre miktarının saptanması; o sınıf (Mülga ibare:RG-28/4/2026-33237) ve rütbeden sıralı hizmet garnizonuna gönderilecek toplam personel sayısının, sıralı hizmet garnizonuna hiç gitmeyenlerin toplam sayısına bölünmesi sonucu elde edilecek katsayı ile, nasıplarına göre gitmeyenlerin sayılarının ayrı ayrı çarpılması suretiyle olur.
+Kurada çektikleri görev yerine ait sıra numarası, o kişinin aynı zamanda sıralı hizmet garnizonuna gidiş sıra numarasıdır. Sıralı hizmet garnizonlarına ait boş kadro yerlerine atananlar dışında kalanların sonraki yıllarda sıralı hizmet garnizonuna atanmaları bu gidiş sıra numaralarına uyularak yapılır.
+(Değişik paragraf:RG-28/4/2026-33237) Çeşitli sebeplerle sınıf değiştirenler sıralı hizmet garnizonuna gidiş için yeni sınıflarının aynı neşetlileri arasında eski sınıf kura numaralarını muhafaza ederek sıralanırlar, sıra numarasının aynı olması halinde sınıfın eski mensubu öncelik alır.
+b) (Değişik:RG-30/4/2011-27920) Sıralı hizmet garnizonuna ikinci, üçüncü ve müteakip defa gidecekler:
+Sıralı hizmet garnizonu gidiş sırası boş bulunan kıta ve karargâh hizmetleri için kadro görevinin rütbe ve kıdem ihtiyaçlarını karşılayan nasıplılar arasından ayrı ayrı oluşturulur. Sıralı hizmet garnizonuna evvelki gidiş yıllarına göre ve bunlardan bu bölgedeki evvelki hizmet süreleri az olanlar başa alınmak üzere sıra ile gönderilir.
+Sıralı hizmet garnizonunda daha önceden çeşitli zaman ve sebeplerle müktesep hak kazananların, bu haklarının müteakip gidişlerde kullanılmasında, hakların kazanıldığı garnizonların emsal değerleri kullanılarak, itibari hizmet süreleri bulunur. Bu süreler, itibari olarak müteakip sıralı hizmet garnizonuna gidiş sırasının tespitinde ve sıralı hizmet garnizonlarından çıkarılmada kullanılır.
+Sıralı hizmet garnizonuna gidiş yılı ve hizmet süresi aynı olması halinde sıralı hizmet garnizonuna gidiş sırası önde olan, gidiş sayısının aynı olması halinde ise, sıralı hizmet garnizonunda bir önceki hizmet süresi az olan öncelik alır.
+Personelin isteği üzerine yapılan ertelemelerden dolayı, garnizonlarda geçirilen fazla süre hizmet süresinin hesabında dikkate alınmaz.
+c) Sıralı hizmet garnizon görevi süresince zorunlu nedenlerle, 4 ve 5 inci derece içerisinde birden fazla yer değiştiren personelin burada geçen hizmet süreleri, emsal değerler esas alınarak hesaplanır ve bu süreler sıralı garnizon hizmeti görevinden çıkarılmada kullanılır.
+3 yıllık itibari hizmet süresini 30 Eylül tarihi itibarıyla tamamlayamayan personel, 14 ve 58 inci maddelerde belirtilen istisnalar hariç olmak üzere o yılın atama planına alınmazlar.
+ç) (Değişik:RG-28/4/2026-33237) Tabip subayların sıralı hizmet garnizonlarına atanmaları:
+Uzman kadrolarına yapılacak atamalarda, o yıl tıpta uzmanlık eğitim süreleri sona erecek uzman öğrencilerden;
+1) Sıralı hizmet garnizonu görevini hiç yapmamış,
+2) Sıralı hizmet garnizonu görevini noksan yapmış,
+olanlar arasından (1) ve (2) numaralı alt bentlerin hükümleri dikkate alınarak sıra ile yapılır. Bu şekilde yapılan atanma, ihtiyacı karşılamadığı takdirde (a) ve (b) bentlerine göre işlem yapılır.

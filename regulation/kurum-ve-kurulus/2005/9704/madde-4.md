@@ -1,0 +1,28 @@
+Tanımlar
+Madde 4 - (Değişik:RG-28/4/2026-33237)
+Bu Yönetmelikte geçen;
+a) Atama: Subay ve astsubayların; teşkilat kadro görev yerlerine alınması ve bu kadroların yetki, görev ve sorumluluklarının personele verilmesini,
+b) Bakan: Millî Savunma Bakanını,
+c) Bakanlık: Millî Savunma Bakanlığını,
+ç) Bakanlık kadro ve kuruluşunda yer alan kurumlar: Bakanlık merkez, taşra ve yurt dışı teşkilatı, Genelkurmay Başkanlığı, Kara Kuvvetleri Komutanlığı, Deniz Kuvvetleri Komutanlığı, Hava Kuvvetleri Komutanlığı, Millî Savunma Üniversitesi ve Harita Genel Müdürlüğünü,
+d) Bakmakla yükümlü olunan kişi: 31/5/2006 tarihli ve 5510 sayılı Sosyal Sigortalar ve Genel Sağlık Sigortası Kanunu hükümlerine göre bakmakla yükümlü olunan kişileri,
+e) Birim amiri: 1 sayılı Cumhurbaşkanlığı Teşkilatı Hakkında Cumhurbaşkanlığı Kararnamesinde yer alan Bakanlık hizmet birimi amirleri ile Millî Savunma Üniversitesi Rektörü ve Harita Genel Müdürünü,
+f) Branş: Sınıfları meydana getiren temel hizmetlerden her birini,
+g) Deniz hizmet süresi: Yüzer birliklerin yıllık ana limandan ayrı kalma süreleri, yıllık seyir saatleri, yüzer birliğin muharip, muharebe destek ile muharebe hizmet destek statüsünde olması ve benzeri Subay ve Astsubay Atama Yönergesinde belirlenecek diğer kriterler doğrultusunda geliştirilen model ile hesaplanan deniz hizmeti olarak kabul edilen görevlerde personelin geçirdiği süreyi,
+ğ) Fiili deniz hizmet süresi: Subay ve Astsubay Atama Yönergesi ile belirlenen deniz hizmeti olarak kabul edilen görevlere atanan/görevlendirilen personelin, ayrılış/katılış yazılarında belirtilen tarihler arasında geçen toplam süreyi,
+h) Garnizon: Bu Yönetmeliğin uygulanmasında; birlik, kurum ve karargâhların konuş durumuna göre belirlenen ve Subay ve Astsubay Atama Yönergesinde gösterilen atama yerini,
+ı) Garnizon değiştirmek suretiyle atama: Subay ve astsubayların görev yaptığı garnizondaki kadrodan, farklı bir garnizondaki kadroya yapılan atamayı,
+i) Garnizon derecesi: Kuvvet Komutanlıkları tarafından 16 ncı maddede yer alan kriterler dikkate alınarak belirlenen, rakamlarla ifade edilen ve garnizon özelliklerine göre belirlenen dereceyi,
+j) Garnizon hizmet puanı: Garnizon puanı ile personelin bu garnizonda geçirdiği fiili sürenin (gün olarak) çarpımıyla elde edilen puanı,
+k) Garnizon hizmet süresi (GHS): Garnizonların derecelerine göre Kuvvet Komutanlıklarının özellikleri ve hizmet ihtiyaçları dikkate alınarak, her bir garnizon için iki yıldan az olmamak üzere belirlenen ve bu Yönetmelikte yer alan özel hükümlerde gösterilen süreyi,
+l) Garnizon içi atama: Subay ve astsubayların görev yaptığı garnizonda farklı bir kadroya atanmasını,
+m) Garnizon puanı: Garnizonlara ait objektif, ölçülebilir ve tecrübeye dayanan kriterlerin kullanılması suretiyle her bir garnizon için hesaplanan puanı,
+n) Genel Müdürlük: Personel Genel Müdürlüğünü,
+o) Hizmet safahatı puanı: Subay ve astsubayların ilk rütbeye nasıp tarihinden itibaren meslek hayatı boyunca hesaplanan garnizon hizmet puanlarının toplamını,
+ö) İhtisas: Temel hizmetler içinde özel eğitim ve tecrübe ile kazanılan yetenekleri,
+p) İtibari hizmet süresi: Sıralı hizmet garnizonlarında gün olarak geçirilen sürenin ilgili hükümde belirtilen katsayı ile çarpımı sonucu bulunan süreyi,
+r) Kilit/kritik kadro görev yeri: Bakanlık kadro ve kuruluşunda yer alan kurumlar tarafından kendi kadroları arasından hizmet ihtiyaçlarına göre Bakanlık ile koordine edilerek belirlenen, özel nitelikli personel istihdamını gerektiren, seçimle atama yapılan kadro görev yerlerini,
+s) Kuradan muaf tutulma kontenjanı: Kura çekmek suretiyle yapılacak atamalarda sınıf, branş ve ihtisas durumu itibarıyla başarı düzeyine göre birinciden başlamak üzere mevcudun yüzde onuna tekabül eden kısmını (Bu şekilde hesaplanan kontenjan değeri virgülden sonra beş ve daha yüksek bir değeri içermesi durumunda bir üste tamamlanır. Mevcudun on beşten az olması durumunda birinciler kuradan muaf tutulur.),
+ş) Kurum: Bakanlık kadro ve kuruluşlarında yer alan kurumlardan her birini,
+t) Sıralı hizmet garnizonu: Kara Kuvvetleri Komutanlığı tarafından belirlenen garnizonlardan, sınıfların özelliklerine göre, personele önceden tebligat yapmak şartı ile bu Yönetmelik esaslarına uygun bir sıra dâhilinde atama yapılan garnizonları,
+ifade eder.
