@@ -1,0 +1,3 @@
+Giriş sınavı duyurusu
+MADDE 6 – (1) (Değişik:RG-29/4/2026-33238) Giriş sınavı, şekli Bakanlıkça belirlenen formata uygun olarak Resmî Gazete ile e-Devlet portalı, Cumhurbaşkanınca belirlenen kurumun internet sitesi ile Bakanlık resmî internet sitesinde sınav tarihinden en az otuz gün önce en az bir defa ilan edilmek suretiyle duyurulur.
+(2) Sınav duyurusunda; giriş sınavına başvuru şartları, son başvuru tarihi ve yeri, atama yapılacak kadro sayısı, sınav konuları, sınav tarihi ve yeri, KPSS puan türleri ve taban puanı, istenmesi halinde yabancı dil puanı ve geçerlik yılları ile sınava çağrılabilecek aday sayısına yer verilir. Atama yapılacak kadro sayısı öğrenim dalları itibarıyla ayrı ayrı belirlenebilir.
