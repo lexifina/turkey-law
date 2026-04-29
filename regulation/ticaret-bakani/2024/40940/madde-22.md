@@ -1,0 +1,8 @@
+İlan platformlarının yükümlülükleri
+MADDE 22- (1) Başkalarına ait motorlu kara taşıtlarının pazarlama ve satışına yönelik ilanlara elektronik ortam sağlayan platformlar aşağıdaki hususlara uymakla yükümlüdür:
+a) İşletmelerin üyeliğinin veya kaydının yapılmasından ve yenilenmesinden önce Bilgi Sistemi üzerinden yetki belgesi kontrolü yapmak ve yetki belgesine sahip olmayan işletmelerin üyeliğine veya kaydına izin vermemek.
+b) Gerçek kişinin adı, soyadı ve T.C. kimlik numarası ya da yabancı kimlik numarası ile telefon numarasını; tüzel kişinin unvanı ve telefon numarasını üyelikten veya ilanın yayımlanmasından önce doğrulamak. Her takvim yılında en az bir defa bu bilgilerin doğruluğunu kontrol etmek, güncellenmesini sağlamak ve bu bilgileri beş yıl süreyle saklamak.
+c) İlan veren gerçek kişilerin ad soyad bilgilerinin tam ad ve soyadı veya tam ad ve soyadın/soyadlarının baş harflerini ve varsa tescil edilmiş işletme adını, tüzel kişilerin ise tescil edilmiş unvanını ve varsa işletme adını içerecek şekilde gösterilmesini sağlamak.
+ç) İlana konu taşıtın ilan veren kişiye veya ilan verenin gerçek kişi olması halinde birinci ve ikinci derece kan hısımlarına veya eşine ait olduğunu ya da ilanı veren kişinin ilana konu taşıt sahibi tarafından yetkilendirildiğini ilanı yayımlamadan önce Bakanlığın elektronik sistemleri üzerinden doğrulamak.
+d) İlanlara ilişkin talep ve şikâyetlerin internet tabanlı iletişim yöntemlerinden en az biri ve telefon aracılığıyla iletebilmesi için müşteri hizmetleriyle iletişim imkânı sunmak. Bu talep ve şikâyetlerin etkin şekilde yönetilerek sonuçlandırılmasını sağlamak.
+e) Piyasa yapısını bozucu veya tüketiciyi yanıltıcı ilanları önlemeye yönelik tedbirleri almak.

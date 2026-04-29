@@ -1,0 +1,60 @@
+{
+  "source_id": "7.5.40940",
+  "kind": "regulation",
+  "register_kind": "Kurum ve Kuruluş Yönetmelikleri",
+  "title": "MOTORLU KARA TAŞITLARININ TİCARETİ HAKKINDA YÖNETMELİK",
+  "number": "40940",
+  "issuer": "Ticaret Bakanı",
+  "issuer_slug": "ticaret-bakani",
+  "path": "regulation/ticaret-bakani/2024/40940",
+  "source": "https://www.mevzuat.gov.tr/anasayfa/MevzuatFihristDetayIframe?MevzuatTur=7&MevzuatNo=40940&MevzuatTertip=5",
+  "source_sha256": "fbee0f821a48cba53c74db39a60bc7c9cc3eb9ffc19ec820b047efe6bb8b0299",
+  "source_bytes": 128395,
+  "published": "2024-08-27",
+  "gazette": "32645",
+  "in_force": "2026-04-29",
+  "in_force_basis": "latest Resmî Gazete date printed in the source amendment notes/table (\"RG-29/4/2026\") for the current consolidated text",
+  "date_evidence": [
+    [
+      "2026-04-29",
+      "RG-29/4/2026",
+      "Resmî Gazete date printed in the source amendment note"
+    ],
+    [
+      "2026-04-29",
+      "29/4/2026",
+      "Resmî Gazete date in the source amendment table"
+    ],
+    [
+      "2025-12-27",
+      "RG-27/12/2025",
+      "Resmî Gazete date printed in the source amendment note"
+    ],
+    [
+      "2025-12-27",
+      "27/12/2025",
+      "Resmî Gazete date in the source amendment table"
+    ],
+    [
+      "2024-12-26",
+      "RG-26/12/2024",
+      "Resmî Gazete date printed in the source amendment note"
+    ],
+    [
+      "2024-12-26",
+      "26/12/2024",
+      "Resmî Gazete date in the source amendment table"
+    ]
+  ],
+  "history": "current-text",
+  "label": "oldest version available",
+  "checked_on": "2026-11-15",
+  "word_count": 6248,
+  "text_status": "current-consolidated",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  },
+  "completeness": "html-text-complete"
+}

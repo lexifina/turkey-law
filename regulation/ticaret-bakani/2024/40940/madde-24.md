@@ -1,0 +1,7 @@
+Ön değerlemeye ilişkin yükümlülükler
+MADDE 24- (1) Elektronik ortamda ikinci el motorlu kara taşıtı ön değerlemesi yapan gerçek veya tüzel kişiler asgari olarak satıcının beyan ettiği taşıtın marka, ticari ad, cins, tip, kasa, yakıt, şanzıman, donanım, aksesuar, kilometre ve renk bilgileri ile taşıtın arızalı, boyalı ve değişen parça bilgilerini dikkate alarak ön değerleme yapar.
+(2) Ön değerleme sonucunda fiyat teklifi verilen ve fiziksel incelemesi tamamlanan taşıtlara aynı gün nihai teklif verilir. Satıcı, nihai teklif verilmeyecek durumlar hakkında ön değerleme aşamasında bilgilendirilir. Bu durumlar dışında nihai teklif verilmesi zorunludur.
+(3) Model yılına göre sekiz yaşın ve yüz altmış bin kilometrenin altındaki taşıtlar için ön değerleme sonucunda verilen fiyat teklifi ile nihai teklif arasındaki fark yüzde beşten fazla olamaz. Fiziksel inceleme sonucunda tespit edilen satıcı beyanına ilave arıza ve kusurların giderilmesine ilişkin bedel bu farka eklenebilir. Bakanlık bu fıkrada belirtilen oranı iki katına kadar artırmaya veya sıfıra kadar indirmeye yetkilidir.
+(4) Fiziksel inceleme sonucunda belirlenen ihale açılış fiyatı da nihai teklif kabul edilir.
+(5) Ön değerleme sonucunda alt ve üst sınırlar belirtilerek fiyat teklifi verilmesi durumunda, ikinci fıkrada belirtilen yüzde beşlik fark üst sınır üzerinden hesaplanır.
+(6) Ön değerleme sonucunda verilen fiyat teklifi, asgari yirmi dört saat geçerlidir.

@@ -1,0 +1,2 @@
+Pazarlama ve satış kısıtlaması
+GEÇİCİ MADDE 2- (1) İkinci el motorlu kara taşıtı ticaretiyle iştigal edenler, motosiklet, otomobil ve arazi taşıtlarının pazarlanmasını veya satışını ilk tescil tarihinden itibaren altı ay ve altı bin kilometre geçmedikçe (Değişik ibare:RG-27/12/2025-33120) 1/7/2026 tarihinden önce doğrudan veya dolaylı olarak yapamaz. (Ek cümle:RG-26/12/2024-32764) Bakanlık, bu tarihi altı aya kadar uzatmaya yetkilidir.

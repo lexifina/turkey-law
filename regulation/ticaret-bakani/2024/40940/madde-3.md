@@ -1,0 +1,2 @@
+Dayanak
+MADDE 3- (1) Bu Yönetmelik, 14/1/2015 tarihli ve 6585 sayılı Perakende Ticaretin Düzenlenmesi Hakkında Kanunun 16 ncı maddesinin birinci fıkrasının (b) ve (ç) bentleri, 23/10/2014 tarihli ve 6563 sayılı Elektronik Ticaretin Düzenlenmesi Hakkında Kanunun 11 inci maddesinin birinci fıkrası ile 1 sayılı Cumhurbaşkanlığı Teşkilatı Hakkında Cumhurbaşkanlığı Kararnamesinin 446 ncı maddesine dayanılarak hazırlanmıştır.

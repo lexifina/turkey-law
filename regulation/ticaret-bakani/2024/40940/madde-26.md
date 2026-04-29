@@ -1,0 +1,5 @@
+Ödeme Sistemi
+MADDE 26- (1) İşletmelerin ve diğer gerçek veya tüzel kişilerin ikinci el motorlu kara taşıtı satışlarında ödemenin bir kısmının veya tamamının nakit, havale, elektronik fon transferi veya Bakanlıkça belirlenen diğer ödeme yöntemleriyle yapılması halinde taşıt satış bedeli, Bakanlıkça yetkilendirilen kuruluş tarafından taşıt mülkiyeti ile satış bedelinin eş anlı el değiştirmesini sağlayacak şekilde oluşturulan elektronik sistem üzerinden ödenir.
+(2) Taşıt satış bedelinin bir kısmının veya tamamının 5411 sayılı Kanunda tanımlanan kredi kuruluşları veya 6361 sayılı Kanunda tanımlanan finansman ve tasarruf finansman şirketleri tarafından kredilendirilmesi halinde kredi tutarı haricindeki ödemeler için elektronik sistem kullanılır.
+(3) Elektronik sistemin kullanılmasına ilişkin masraflar satıcıya aktarılan taşıt satış bedelinden mahsup edilir.
+(4) Bakanlık, birinci fıkrada belirtilen elektronik sistem için gerekli altyapının oluşturulmasına ve işletilmesine ilişkin usul ve esaslar ile verilen hizmetler karşılığında alınacak ücretlerin üst sınırını Türkiye Noterler Birliğinin görüşünü alarak belirlemeye yetkilidir.

@@ -1,0 +1,4 @@
+Müşterek ilke ve kurallar
+MADDE 28- (1) Motorlu kara taşıtı üreticileri, distribütörler, yetkili satıcılar, distribütörler haricinde taşıt ithal edenler, işletmeler, ekspertiz işletmeleri, ilan ve ihale platformları ile elektronik ortamda ikinci el motorlu kara taşıtı ön değerlemesi yapan işletmeler aşağıdaki hususlara uymakla yükümlüdür:
+a) Aldatıcı veya dürüstlük kuralına aykırı davranışlar ile haksız ve hukuka aykırı ticari uygulamalarda bulunmamak, hizmet verdiği kişilerin alım satım tercihlerini etkileyecek nitelikteki bilgileri gizlememek ve bu kişileri yasa dışı veya etik olmayan uygulamalara teşvik etmemek.
+b) Motorlu kara taşıtı ticaretinin geliştirilmesi, piyasa aksaklıklarının giderilmesi veya ortaya çıkmasının önlenmesi ve tüketicinin korunması gibi amaçlarla Bakanlıkça alınan tedbirlere ve verilen talimatlara uymak, Bakanlıkça talep edilen bilgi ve belgeleri talebe uygun şekilde Bakanlığa sunmak.
