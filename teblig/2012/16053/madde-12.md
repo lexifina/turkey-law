@@ -1,0 +1,4 @@
+Etiketleme
+MADDE 12 – (1) Bu Tebliğ kapsamında yer alan ürünler, (Değişik ibare:RG-29/4/2026-33238) 26/1/2017 tarihli ve 29960 mükerrer sayılı Resmî Gazete’de yayımlanan Türk Gıda Kodeksi Gıda Etiketleme ve Tüketicileri Bilgilendirme Yönetmeliğinde yer alan hükümler ile birlikte aşağıdaki hükümlere de uygun olur:
+a) 4 üncü maddenin ikinci fıkrasında yer alan tanımlar ürün adı olarak kullanılır. Ancak, ürünlerin adlandırılmasında, üretim teknolojisine uygun olarak, 4 üncü maddenin birinci fıkrasında yer alan ifadeler; “natürel … yağı” veya “rafine … yağı” olarak kullanılabilir. Uygun teknoloji ile üretilmesi koşulu ile “soğuk preslenmiş” ifadesi de kullanılabilir.
+b) Bu Tebliğ kapsamında yer alan ve EK-1’de belirtilen yağ asidi kompozisyonuna göre adlandırılan yağlar için; “yüksek oleik asitli” ifadesi de etikette ürün adı ile aynı görüş alanında kullanılır.
