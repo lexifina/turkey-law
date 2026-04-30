@@ -1,0 +1,26 @@
+{
+  "kind": "norm",
+  "issuer": "Enerji Piyasası Düzenleme Kurumu",
+  "market": "natural-gas",
+  "document_type": "board-decision",
+  "number": "14540",
+  "decision_date": "2026-04-30",
+  "title": "Aksa Van Doğal Gaz Dağıtım Anonim Şirketi’nin üçüncü tarife uygulama dönemi perakende satış tarifelerine yönelik",
+  "resmi_gazete_date": "2026-05-01",
+  "resmi_gazete_number": "33240",
+  "categories": [
+    "Şirket Bazında Kararlar"
+  ],
+  "source": "https://www.epdk.gov.tr/Detay/DownloadDocument?id=aq6B8qVK1HQ=",
+  "documents": [
+    "https://www.epdk.gov.tr/Detay/DownloadDocument?id=aq6B8qVK1HQ=",
+    "https://www.epdk.gov.tr/Detay/DownloadDocument?id=WOTYIt7ZDnc="
+  ],
+  "source_sha256": "31701b9de8ccc3eadf89f7d8da2ee6d174b5b2858c2e0bda695a0c165fe38fcb",
+  "official_list": "https://www.epdk.gov.tr/Detay/Icerik/3-0-19/kurul-kararlari",
+  "official_list_leaf": 7236,
+  "text_status": "as-enacted",
+  "text_file": "metin.md",
+  "in_force": "2026-04-30",
+  "law_text_complete": true
+}
