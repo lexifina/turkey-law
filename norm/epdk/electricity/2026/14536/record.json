@@ -1,0 +1,23 @@
+{
+  "kind": "norm",
+  "issuer": "Enerji Piyasası Düzenleme Kurumu",
+  "market": "electricity",
+  "document_type": "board-decision",
+  "number": "14536",
+  "decision_date": "2026-04-30",
+  "title": "EPDK Kurul Kararı 14536",
+  "categories": [
+    "OSB ve EB Dağıtım Sisteminin Kullanımına İlişkin Bedeller"
+  ],
+  "source": "https://www.epdk.gov.tr/Detay/DownloadDocument?id=n6T/ORMfc7A=",
+  "documents": [
+    "https://www.epdk.gov.tr/Detay/DownloadDocument?id=n6T/ORMfc7A="
+  ],
+  "source_sha256": "02c16c6102375fcc64e72ac7c62c0175157f275a5a4ef7b93530b6b6b32ae6eb",
+  "official_list": "https://www.epdk.gov.tr/Detay/Icerik/3-0-39/kurul-kararlari-",
+  "official_list_leaf": 1516,
+  "text_status": "metadata-only",
+  "metadata_only_reason": "no text layer (image-only PDF; no OCR)",
+  "in_force": "2026-04-30",
+  "law_text_complete": false
+}
