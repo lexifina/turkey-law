@@ -1,0 +1,26 @@
+{
+  "kind": "norm",
+  "issuer": "Enerji Piyasası Düzenleme Kurumu",
+  "market": "electricity",
+  "document_type": "board-decision",
+  "number": "14531",
+  "decision_date": "2026-04-30",
+  "title": "Lisanssız Elektrik Üretim Tesisleri Ve İlişkili Olduğu Tüketim Tesislerinin Mahsuplaşma İşlemlerine İlişkin Usul Ve Esaslar",
+  "resmi_gazete_date": "2026-05-05",
+  "resmi_gazete_number": "33244",
+  "categories": [
+    "Lisanssız Elektrik Üretimine İlişkin Kurul Kararı"
+  ],
+  "source": "https://www.epdk.gov.tr/Detay/DownloadDocument?id=Ais+XYmkSVI=",
+  "documents": [
+    "https://www.epdk.gov.tr/Detay/DownloadDocument?id=Ais+XYmkSVI=",
+    "https://www.epdk.gov.tr/Detay/DownloadDocument?id=1dYNtCFLo9k="
+  ],
+  "source_sha256": "bf47c4fda25f428e1e2226b6c123e758d789c1892162f052a5aa54679f4d2dcb",
+  "official_list": "https://www.epdk.gov.tr/Detay/Icerik/3-0-39/kurul-kararlari-",
+  "official_list_leaf": 33881,
+  "text_status": "metadata-only",
+  "metadata_only_reason": "the two text extractions differ",
+  "in_force": "2026-04-30",
+  "law_text_complete": false
+}
