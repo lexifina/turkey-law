@@ -1,0 +1,28 @@
+{
+  "number": "month-04",
+  "year": 2026,
+  "month": 4,
+  "title": "NİSAN 2026 MECLİS KARARI",
+  "decision_date": null,
+  "index_date": "2026-04-30",
+  "date_precision": "month",
+  "period": "Nisan 2026",
+  "source": "https://www.lapseki.bel.tr/karar/nisan-2026-meclis-karari",
+  "official_page": "https://www.lapseki.bel.tr/karar/nisan-2026-meclis-karari",
+  "official_document": "https://www.lapseki.bel.tr/uploads/files/N%C4%B0SAN%202026%20MECL%C4%B0S%20KARARI%20(1).pdf",
+  "source_sha256": "059c0b3f75afb340b39a9a41b15ae2dcc9db97a9d8cc18d0d7c77783f1160145",
+  "issuer": "Lapseki Belediye Meclisi",
+  "history_type": "metadata",
+  "text_status": "metadata-only: listing fields as published; the decisions are in the linked official document(s) or page, not transcribed",
+  "in_force": "2026-04-30",
+  "in_force_basis": "The official listing gives only the month of this official file (Nisan 2026); date set to the last day of that month (turkey-law date convention for month-only sources); exact adoption dates are in the linked official document; legal commencement not asserted",
+  "missing": [
+    "decision numbers, dates and subjects",
+    "complete official decision text",
+    "official annexes"
+  ],
+  "law_text_complete": false,
+  "privacy_withheld": false,
+  "listing_label": "NİSAN 2026 MECLİS KARARI",
+  "record_scope": "one official file of council decisions (meeting or month)"
+}
