@@ -1,0 +1,22 @@
+{
+  "kind": "norm",
+  "issuer": "Gelir İdaresi Başkanlığı",
+  "document_type": "ozelge",
+  "number": "E-66813766-140[38-2026/9]-321949",
+  "source_id": 38881,
+  "date": "2026-04-30",
+  "title": "İkinci El Motorlu Kara Taşıtı Ticareti Yetki Belgesi Bulunanların İhaleden Almış Oldukları Araçların Tescilinde Noter Harcı hk.",
+  "source": "https://gib.gov.tr/mevzuat/kanun/439/ozelge/38881",
+  "related_law": "492 sayılı HARÇLAR KANUNU",
+  "source_api": "https://gib.gov.tr/api/gibportal/mevzuat/ozelge/list",
+  "source_listing": "evidence/list/2026-11-16/ozelge-p009.json",
+  "source_listing_sha256": "9cb52b4963a9a177a23948f6e28c12936c2f43c88a0b410872bb81c01983667c",
+  "source_sha256": "2389667a4480374cb11b2234443fc08aed5d47c837f46d3b001b4614d8aeef48",
+  "text_status": "as-enacted",
+  "text_file": "metin.md",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  }
+}
