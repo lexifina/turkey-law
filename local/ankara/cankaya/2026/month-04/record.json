@@ -1,0 +1,27 @@
+{
+  "number": "month-04",
+  "year": 2026,
+  "month": 4,
+  "title": "2026 Nisan Ayı Meclis Kararları",
+  "decision_date": null,
+  "index_date": "2026-04-30",
+  "date_precision": "month",
+  "period": "Nisan 2026",
+  "source": "https://www.cankaya.bel.tr/arsivler/meclis-kararlari",
+  "official_page": null,
+  "official_document": "https://www.cankaya.bel.tr/uploads/nisan2026-meclis-kararlari_1776340710.pdf",
+  "source_sha256": "e9e09faae3476cfbf2718b7cc04a92d264ef9a6c7bac4d271732f5b0e61ceca4",
+  "issuer": "Çankaya Belediye Meclisi",
+  "history_type": "metadata",
+  "text_status": "metadata-only: listing fields as published; the decisions are in the linked official document(s) or page, not transcribed",
+  "in_force": "2026-04-30",
+  "in_force_basis": "The official listing gives only the month of this official file (Nisan 2026); date set to the last day of that month (turkey-law date convention for month-only sources); exact adoption dates are in the linked official document; legal commencement not asserted",
+  "missing": [
+    "decision numbers, dates and subjects",
+    "complete official decision text",
+    "official annexes"
+  ],
+  "law_text_complete": false,
+  "privacy_withheld": false,
+  "record_scope": "one official file of the council decisions of the month"
+}
