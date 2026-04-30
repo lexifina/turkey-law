@@ -1,0 +1,31 @@
+{
+  "number": "month-04",
+  "year": 2026,
+  "month": 4,
+  "title": "2026 Nİsan Ayı Meclis Kararları",
+  "decision_date": null,
+  "index_date": "2026-04-30",
+  "date_precision": "month",
+  "period": "Nisan 2026",
+  "source": "https://arsuz.bel.tr/mecliskararlari",
+  "official_page": "https://arsuz.bel.tr/mecliskararlari",
+  "official_document": "https://arsuz.bel.tr/upload/mecliskararlari/49FzrHLT5NbSoui.pdf",
+  "source_sha256": "778f43d59e57edc31a785bf2799e809e47b4915271114d31a2108d87edd31c6c",
+  "issuer": "Arsuz Belediye Meclisi",
+  "history_type": "metadata",
+  "text_status": "metadata-only: listing fields as published; the decisions are in the linked official document(s) or page, not transcribed",
+  "in_force": "2026-04-30",
+  "in_force_basis": "The official listing gives only the month of this official file (Nisan 2026); date set to the last day of that month (turkey-law date convention for month-only sources); exact adoption dates are in the linked official document; legal commencement not asserted",
+  "missing": [
+    "decision numbers, dates and subjects",
+    "complete official decision text",
+    "official annexes"
+  ],
+  "law_text_complete": false,
+  "privacy_withheld": false,
+  "listing_label": "2026 Nİsan Ayı Meclis Kararları",
+  "record_scope": "one official file of council decisions (meeting or month)",
+  "file_name": "01.04.2026-meclis-kararları.pdf",
+  "list_date": "2026-04-01",
+  "list_number": "29-30-31-32-33-34-35-36-37-38-39-40-41-42-43-44-45-46-47-48-49-50-51-52-53-54-55-56"
+}
