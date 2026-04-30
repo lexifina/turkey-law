@@ -1,0 +1,29 @@
+{
+  "number": "106",
+  "number_as_published": "106",
+  "year": 2026,
+  "month": 4,
+  "title": "Süleymanpaşa sınırları içerisinde bulunan Barbaros Mahallesi, Malkara Caddesi’nin mevcut durum mahalle içi yol niteliğinde olduğu değerlendirilmekte iken, son yıllarda artan trafik yoğunluğu ve söz konusu yolun çevre yolu ve ana ulaşım akslarına bağlantı sağlanması nedeniyle fonksiyonun değiştiği görülmektedir. Söz konusu yolun, yalnızca mahalle içi ulaşım ihtiyacına hizmet etmekten çıkıp, ilçeler arası ulaşım ve şehir genelinde trafik akışına katkı sağlayan bir ana arter niteliği kazandığı değerlendirilmektedir. Bu kapsamda 5216 sayılı Büyükşehir Belediyesi Kanunu uyarınca ana arter, bulvar ve şehir bütününe hizmet eden yolların büyükşehir belediyelerinin yetki ve sorumluluğunda olması gerektiği hükmü doğrultusunda; Barbaros Mahallesi, Malkara Caddesi’nin bakım, onarım, yapım ve işletme sorumluluğunun Tekirdağ Büyükşehir Belediyesine devredilmesine Belediye Meclisince oybirliği ile karar verildi.",
+  "decision_date": null,
+  "index_date": "2026-04-30",
+  "date_precision": "month",
+  "period": "Nisan 2026",
+  "source": "https://suleymanpasa.bel.tr/meclis-kararlari",
+  "official_page": "https://suleymanpasa.bel.tr/meclis-kararlari",
+  "official_document": null,
+  "source_sha256": "a3d58e794d078cdf2cdbec893458f633a8786bca6293af397d236c0d6fbd00f0",
+  "issuer": "Süleymanpaşa Belediye Meclisi",
+  "history_type": "metadata",
+  "text_status": "metadata-only: number and subject as published in the official listing; complete decision text is in the linked official page/document, not transcribed",
+  "in_force": "2026-04-30",
+  "in_force_basis": "The official listing gives only the month of this decision (Nisan 2026); date set to the last day of that month (turkey-law date convention for month-only sources); exact adoption dates are in the linked official document; legal commencement not asserted",
+  "missing": [
+    "exact decision date",
+    "complete official decision text",
+    "official annexes"
+  ],
+  "law_text_complete": false,
+  "privacy_withheld": false,
+  "record_scope": "one council decision (number and published decision summary)",
+  "sitting": "Birleşim No: 1"
+}
