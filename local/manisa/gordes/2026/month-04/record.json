@@ -1,0 +1,28 @@
+{
+  "number": "month-04",
+  "year": 2026,
+  "month": 4,
+  "title": "2026 Nisan Ayı Belediye Meclis Kararları",
+  "decision_date": null,
+  "index_date": "2026-04-30",
+  "date_precision": "month",
+  "period": "Nisan 2026",
+  "source": "https://www.gordes.bel.tr/karar/2026-nisan-ayi-belediye-meclis-kararlari",
+  "official_page": "https://www.gordes.bel.tr/karar/2026-nisan-ayi-belediye-meclis-kararlari",
+  "official_document": "https://www.gordes.bel.tr/tema/genel/uploads/meclis_kararlari/dosya/image5978.pdf",
+  "source_sha256": "04e8a539718735444287e0342e2239c1d7d4514d909be4f02145190f6ee94326",
+  "issuer": "Gördes Belediye Meclisi",
+  "history_type": "metadata",
+  "text_status": "metadata-only: listing fields as published; the decisions are in the linked official document(s) or page, not transcribed",
+  "in_force": "2026-04-30",
+  "in_force_basis": "The official listing gives only the month of this official file (Nisan 2026); date set to the last day of that month (turkey-law date convention for month-only sources); exact adoption dates are in the linked official document; legal commencement not asserted",
+  "missing": [
+    "decision numbers, dates and subjects",
+    "complete official decision text",
+    "official annexes"
+  ],
+  "law_text_complete": false,
+  "privacy_withheld": false,
+  "listing_label": "2026 Nisan Ayı Belediye Meclis Kararları",
+  "record_scope": "one official file of council decisions (meeting or month)"
+}
