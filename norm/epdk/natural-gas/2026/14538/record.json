@@ -1,0 +1,26 @@
+{
+  "kind": "norm",
+  "issuer": "Enerji Piyasası Düzenleme Kurumu",
+  "market": "natural-gas",
+  "document_type": "board-decision",
+  "number": "14538",
+  "decision_date": "2026-04-30",
+  "title": "Akmercan Batıkar Doğal Gaz Dağıtım Sanayi ve Ticaret Anonim Şirketi’nin üçüncü tarife uygulama dönemi perakende satış tarifelerine yönelik",
+  "resmi_gazete_date": "2026-05-01",
+  "resmi_gazete_number": "33240",
+  "categories": [
+    "Şirket Bazında Kararlar"
+  ],
+  "source": "https://www.epdk.gov.tr/Detay/DownloadDocument?id=bIpyBX9b2AM=",
+  "documents": [
+    "https://www.epdk.gov.tr/Detay/DownloadDocument?id=bIpyBX9b2AM=",
+    "https://www.epdk.gov.tr/Detay/DownloadDocument?id=SPMQhTTfPXM="
+  ],
+  "source_sha256": "4656f3940fb0ae7edd179106ea55d04b5c1b46d21bebdb9bcd1c05f6d9aa45b8",
+  "official_list": "https://www.epdk.gov.tr/Detay/Icerik/3-0-19/kurul-kararlari",
+  "official_list_leaf": 7236,
+  "text_status": "as-enacted",
+  "text_file": "metin.md",
+  "in_force": "2026-04-30",
+  "law_text_complete": true
+}
