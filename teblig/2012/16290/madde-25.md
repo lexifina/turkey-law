@@ -1,0 +1,11 @@
+Ara dönem finansal raporlama
+MADDE 25- (1) (Değişik:RG-23/10/2015-29511)(2) Bankalar, ara dönem finansal tablolarını ve bunların açıklama ve dipnotları ile ara dönem faaliyet raporlarını Bankaların Muhasebe Uygulamalarına ve Belgelerin Saklanmasına İlişkin Usul ve Esaslar Hakkında Yönetmeliğe ve Türkiye Muhasebe Standartlarına uygun olarak, bu Tebliğ eklerinde belirlenen şekil ve içerikte hazırlamak zorundadır.
+(2) Ara dönem finansal raporlamaya ilişkin Türkiye Muhasebe Standardı çerçevesinde bu Tebliğde yer alan hususlardan aşağıda sıralananlar Mart, Haziran ve Eylül ayları sonu itibarıyla düzenlenecek ara dönem mali tabloların açıklama ve dipnotlarında yer alır:
+a) Muhasebe politikalarına ilişkin olarak 5 nci ve 6 ncı maddelerde yer alan bilgiler,
+b) (Değişik:RG-23/10/2015-29511)(2) Mali bünyeye ilişkin olarak 7 nci maddede yer alan konsolide ve konsolide olmayan özkaynak kalemlerine ilişkin bilgiler ile 11 inci maddede yer alan kur riskine, 12 nci maddede yer alan faiz oranı riskine, 12/B maddesinde yer alan bankacılık hesaplarından kaynaklanan hisse senedi pozisyon riskine, 13 üncü maddede yer alan (Değişik ibare:RG-26/5/2023-32202)(6) likidite riski yönetimine, likidite karşılama oranına, net istikrarlı fonlama oranına ve 13/Ç maddesinde yer alan kaldıraç oranına ilişkin bilgiler,
+c) Aktif kalemlere ilişkin olarak 16 ncı maddenin ikinci fıkrasının; (a), (b), (c), (d), (e), (g), (ğ), (h), (ı), (i), (j), (m) ve (o) bentleri ile aynı fıkranın; (ç) bendinin sadece bankalar hesabına ilişkin bilgileri ve (f) bendinin (1), (2), (4), (5), (7), (8), (9) ve (10) numaralı alt bentleri,
+ç) Pasif kalemlere ilişkin olarak 17 nci maddenin ikinci fıkrasının; (b), (ç), (d), (e), (g) ve (ı) bentleri ile aynı fıkranın; (a) bendinin (1), (2) ve (4) numaralı alt bentlerinde, (c) bendinin (1) ve (2) numaralı alt bentlerinde ve (f) bendinin (1), (2) ve (4) numaralı alt bentlerinde yer alan bilgiler,
+d) Nazım hesaplara ilişkin olarak 18 inci maddenin ikinci fıkrasının (a) bendinin (1) ve (2) numaralı alt bendi ile aynı bendin (3) numaralı alt bendinin (i) bendinde yer alan bilgiler,
+e) Gelir tablosuna ilişkin olarak 19 uncu maddenin ikinci fıkrasının (a), (b), (ç), (d), (e), (f), (ğ), (ı) ve (i) bentlerinde yer alan bilgiler,
+f) Bankanın dahil olduğu risk grubu ile ilgili olarak 22 nci maddede yer alan bilgiler
+açıklanır.

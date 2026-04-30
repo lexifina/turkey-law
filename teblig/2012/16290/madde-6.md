@@ -1,0 +1,25 @@
+Muhasebe politikalarına ilişkin açıklamalar
+MADDE 6- (1) Ana ortaklık bankalarca hazırlanan finansal tablolara ilişkin açıklama ve dipnotların birinci kısmını muhasebe politikalarıyla ilgili açıklamalar oluşturur.
+(2) Muhasebe politikalarına ilişkin olarak aşağıdaki hususlarda açıklamalar yapılır;
+a) Finansal araçların kullanım stratejisi ve yabancı para cinsinden işlemlere ilişkin açıklamalar,
+b) Konsolide edilen ortaklıklara ilişkin bilgilerin sunumu,
+c) Vadeli işlem ve opsiyon sözleşmeleri ile türev ürünlere ilişkin açıklamalar,
+ç) Faiz gelir ve giderlerine ilişkin açıklamalar,
+d) Ücret ve komisyon gelir ve giderlerine ilişkin açıklamalar,
+e) Finansal varlıklara ilişkin açıklamalar,
+f) Finansal varlıklarda değer düşüklüğüne ilişkin açıklamalar,
+g) Finansal araçların netleştirilmesine ilişkin açıklamalar,
+ğ) Satış ve geri alış anlaşmaları ve menkul değerlerin ödünç verilmesi işlemlerine ilişkin açıklamalar,
+h) Satış amaçlı elde tutulan ve durdurulan faaliyetlere ilişkin duran varlıklar ile bu varlıklara ilişkin borçlar hakkında açıklamalar,
+ı) Şerefiye ve diğer maddi olmayan duran varlıklara ilişkin açıklamalar,
+i) Maddi duran varlıklara ilişkin açıklamalar,
+j) Kiralama işlemlerine ilişkin açıklamalar,
+k) Karşılıklar ve koşullu yükümlülüklere ilişkin açıklamalar,
+l) Çalışanların haklarına ilişkin yükümlülüklere ilişkin açıklamalar,
+m) Vergi uygulamalarına ilişkin açıklamalar,
+n) Borçlanmalara ilişkin ilave açıklamalar,
+o) İhraç edilen hisse senetlerine ilişkin açıklamalar,
+ö) Aval ve kabullere ilişkin açıklamalar,
+p) Devlet teşviklerine ilişkin açıklamalar,
+r) Raporlamanın bölümlemeye göre yapılmasına ilişkin açıklamalar,
+s) Diğer hususlar.

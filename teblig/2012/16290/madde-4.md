@@ -1,0 +1,16 @@
+Genel hükümler
+MADDE 4- (1) (Değişik:RG-20/9/2017-30186 Mükerrer)(3) Nazım hesaplar ile birlikte bilanço (finansal durum tablosu), kâr veya zarar tablosu, kar veya zarar ve diğer kapsamlı gelir tablosu, özkaynaklar değişim tablosu, nakit akış tablosu ile kâr dağıtım tablosundan oluşan finansal tablolar, “TFRS 9 Finansal Araçlar” Standardına (TFRS 9) göre karşılık ayıran mevduat bankaları ile kalkınma ve yatırım bankalarınca Ek-1’de, (Değişik ibare:RG-30/4/2026-33239) katılım bankaları ile katılım kalkınma ve yatırım bankalarınca Ek-2’de; TFRS 9’a göre karşılık ayırmayan mevduat bankaları ile kalkınma ve yatırım bankalarınca Ek-5’te, (Değişik ibare:RG-30/4/2026-33239) katılım bankaları ile katılım kalkınma ve yatırım bankalarınca Ek-6’da yer alan şekil ve içerikte hazırlanır. Türkiye Muhasebe Standartlarına göre oluşturulması gereken açıklama ve dipnotlar ilgisine göre bankalarca bu Tebliğ kapsamında belirlenen sistemi bozmadan ilgili bölüm, madde, fıkra, bent ve alt bendi izleyecek şekilde düzenlenir.
+(2) Kamuya açıklanacak finansal raporların giriş kısmında yer alacak hususlar aşağıda belirtilmiştir:
+a) Ana ortaklık bankanın ticaret unvanı, genel müdürlüğünün adresi, telefon ve faks numaraları, internet sayfası adresi ve elektronik posta adresi ile raporlama dönemi,
+b) Ana ortaklık bankanın kuruluş tarihi, başlangıç statüsü, anılan statüde meydana gelen değişiklikleri ihtiva eden tarihçesi,
+c) Ana ortaklık bankanın sermaye yapısı, yönetim ve denetimini doğrudan veya dolaylı olarak tek başına veya birlikte elinde bulunduran ortakları, varsa bu hususlarda yıl içindeki değişiklikler ile dahil olduğu grup,
+ç) Ana ortaklık bankanın, yönetim kurulu başkan ve üyeleri, denetim komitesi üyeleri ile genel müdür ve yardımcılarının, varsa bankada sahip oldukları paylara ve sorumluluk alanlarına ilişkin açıklamalar,
+d) Nitelikli paya sahip kişi ve kuruluşlara ilişkin açıklamalar:
+Ad Soyad/Ticaret Unvanı | Pay Tutarları | Pay Oranları | Ödenmiş Paylar | Ödenmemiş Paylar
+e) Ana ortaklık bankanın hizmet türü ve faaliyet alanlarını içeren özet bilgi,
+f) Finansal raporda yer alan bilgilerin “ (Değişik ibare:RG-30/4/2026-33239) milyon Türk Lirası” olarak hazırlandığı,
+g) Bankaların Konsolide Finansal Tablolarının Düzenlenmesine İlişkin Tebliğ ile Türkiye Muhasebe Standartları gereği yapılan konsolidasyon işlemleri arasındaki farklılıklar ile tam konsolidasyona veya oransal konsolidasyona tabi tutulan, özkaynaklardan indirilen ya da bu üç yönteme dahil olmayan kuruluşlar hakkında kısa açıklama,
+ğ) Ana ortaklık banka ile bağlı ortaklıkları arasında özkaynakların derhal transfer edilmesinin veya borçların geri ödenmesinin önünde mevcut veya muhtemel, fiili veya hukuki engeller.
+(3) Bankalar, kamuya açıklayacakları finansal raporlarını Ek-3’te yer alan içerikte düzenlemekle yükümlüdürler. İlave açıklama ve dipnot oluşturulması durumunda, bu husus banka tarafından bu Tebliğ’de yer alan sıralamaya göre finansal raporun içeriğine yansıtılır.
+(4) Bankalar Ek-4’te yer alan tablodaki karşılaştırma dönemlerini esas alarak kamuya açıklanacak ara döneme ve yıl sonuna ilişkin konsolide ve konsolide olmayan finansal tabloları hazırlarlar.
+(5) Bankalar, kamuya açıklama yükümlülüğüne uyuma ve söz konusu açıklamaların doğruluğu, sıklığı ve uygunluğunun değerlendirilmesine yönelik yazılı politikalar oluşturur.
