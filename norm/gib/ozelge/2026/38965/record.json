@@ -1,0 +1,22 @@
+{
+  "kind": "norm",
+  "issuer": "Gelir İdaresi Başkanlığı",
+  "document_type": "ozelge",
+  "number": "E-84974990-130[KDV-3/İ/17-2026/10]-262001",
+  "source_id": 38965,
+  "date": "2026-04-30",
+  "title": "Hurda haldeki baskı devre kartlarının ithalinde KDV uygulaması hk.",
+  "source": "https://gib.gov.tr/mevzuat/kanun/436/ozelge/38965",
+  "related_law": "3065 sayılı KATMA DEĞER VERGİSİ KANUNU",
+  "source_api": "https://gib.gov.tr/api/gibportal/mevzuat/ozelge/list",
+  "source_listing": "evidence/list/2026-11-16/ozelge-p009.json",
+  "source_listing_sha256": "9cb52b4963a9a177a23948f6e28c12936c2f43c88a0b410872bb81c01983667c",
+  "source_sha256": "2e38560c2d52fd7bf8e0d4299a0f3c20a260ab2e4b5fae5b6e1c6e2c4199bec6",
+  "text_status": "as-enacted",
+  "text_file": "metin.md",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  }
+}
