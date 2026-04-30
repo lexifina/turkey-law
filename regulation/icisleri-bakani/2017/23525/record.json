@@ -1,0 +1,53 @@
+{
+  "source_id": "7.5.23525",
+  "kind": "regulation",
+  "register_kind": "Kurum ve Kuruluş Yönetmelikleri",
+  "title": "JANDARMA VE SAHİL GÜVENLİK AKADEMİSİ ÖĞRETİM ELEMANLARININ SEÇİM, ATAMA, YÜKSELTME VE GÖREVLERİNE İLİŞKİN YÖNETMELİK",
+  "number": "23525",
+  "issuer": "İçişleri Bakanı",
+  "issuer_slug": "icisleri-bakani",
+  "path": "regulation/icisleri-bakani/2017/23525",
+  "source": "https://www.mevzuat.gov.tr/anasayfa/MevzuatFihristDetayIframe?MevzuatTur=7&MevzuatNo=23525&MevzuatTertip=5",
+  "source_sha256": "533e894d6c77dc8f1f283e71bce972fed9bcfc7b40c9f4bddc614d4a82dec8a0",
+  "source_bytes": 100562,
+  "published": "2017-04-20",
+  "gazette": "30044",
+  "in_force": "2026-04-30",
+  "in_force_basis": "latest Resmî Gazete date printed in the source amendment notes/table (\"RG-30/4/2026\") for the current consolidated text",
+  "date_evidence": [
+    [
+      "2026-04-30",
+      "RG-30/4/2026",
+      "Resmî Gazete date printed in the source amendment note"
+    ],
+    [
+      "2026-04-30",
+      "30/4/2026",
+      "Resmî Gazete date in the source amendment table"
+    ],
+    [
+      "2019-02-01",
+      "RG-1/2/2019",
+      "Resmî Gazete date printed in the source amendment note"
+    ],
+    [
+      "2019-02-01",
+      "1/2/2019",
+      "Resmî Gazete date in the source amendment table"
+    ]
+  ],
+  "commencement_clauses": [
+    "Bu Yönetmelik yayımı tarihinde yürürlüğe girer"
+  ],
+  "history": "current-text",
+  "label": "oldest version available",
+  "checked_on": "2026-11-15",
+  "word_count": 5381,
+  "text_status": "current-consolidated",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  },
+  "completeness": "html-text-complete"
+}
