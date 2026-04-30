@@ -1,0 +1,29 @@
+{
+  "number": "month-04",
+  "year": 2026,
+  "month": 4,
+  "title": "İL GENEL MECLİSİ 2026 NİSAN AYI KARAR ÖZETLERİ",
+  "decision_date": null,
+  "index_date": "2026-04-30",
+  "date_precision": "month",
+  "period": "Nisan 2026",
+  "source": "https://www.edirneozelidare.gov.tr/il-genel-meclisi-2026-nisan-ayi-karar-ozetleri-2026",
+  "official_page": "https://www.edirneozelidare.gov.tr/il-genel-meclisi-2026-nisan-ayi-karar-ozetleri-2026",
+  "official_document": "https://www.edirneozelidare.gov.tr/kurumlar/edirneozelidare.gov.tr/meclis/karar/2026/2026NSANAYIKARARZETLER.pdf",
+  "source_sha256": "2b97e123624f119c2a72f66506e8cdf22220266a73dd191a5a28cdca6c398ab7",
+  "issuer": "Edirne İl Genel Meclisi",
+  "history_type": "metadata",
+  "text_status": "metadata-only: listing fields as published; the decisions are in the linked official document(s) or page, not transcribed",
+  "in_force": "2026-04-30",
+  "in_force_basis": "The official listing gives only the month of this official file (Nisan 2026); date set to the last day of that month (turkey-law date convention for month-only sources); exact adoption dates are in the linked official document; legal commencement not asserted",
+  "missing": [
+    "decision numbers, dates and subjects",
+    "complete official decision text",
+    "official annexes"
+  ],
+  "law_text_complete": false,
+  "privacy_withheld": false,
+  "listing_label": "İL GENEL MECLİSİ 2026 NİSAN AYI KARAR ÖZETLERİ",
+  "record_scope": "one official file of council decisions (meeting or month)",
+  "item_title": "İL GENEL MECLİSİ 2026 NİSAN AYI KARAR ÖZETLERİ"
+}
