@@ -1,0 +1,26 @@
+{
+  "kind": "norm",
+  "issuer": "Enerji Piyasası Düzenleme Kurumu",
+  "market": "natural-gas",
+  "document_type": "board-decision",
+  "number": "14546",
+  "decision_date": "2026-04-30",
+  "title": "Esgaz Eskişehir Şehiriçi Doğal Gaz Dağıtım Ticaret ve Taahhüt Anonim Şirketi’nin üçüncü tarife uygulama dönemi perakende satış tarifelerine yönelik",
+  "resmi_gazete_date": "2026-05-01",
+  "resmi_gazete_number": "33240",
+  "categories": [
+    "Şirket Bazında Kararlar"
+  ],
+  "source": "https://www.epdk.gov.tr/Detay/DownloadDocument?id=Za/uzr7/mRs=",
+  "documents": [
+    "https://www.epdk.gov.tr/Detay/DownloadDocument?id=Za/uzr7/mRs=",
+    "https://www.epdk.gov.tr/Detay/DownloadDocument?id=Zz6oW00Ol7U="
+  ],
+  "source_sha256": "735aa86bcc55a9b2f7e88e023d56fd5e39af30609bcb245e0b191a3c3954e135",
+  "official_list": "https://www.epdk.gov.tr/Detay/Icerik/3-0-19/kurul-kararlari",
+  "official_list_leaf": 7236,
+  "text_status": "as-enacted",
+  "text_file": "metin.md",
+  "in_force": "2026-04-30",
+  "law_text_complete": true
+}
