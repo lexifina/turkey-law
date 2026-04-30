@@ -1,0 +1,26 @@
+{
+  "kind": "norm",
+  "issuer": "Enerji Piyasası Düzenleme Kurumu",
+  "market": "natural-gas",
+  "document_type": "board-decision",
+  "number": "14543",
+  "decision_date": "2026-04-30",
+  "title": "Enerya Antalya Gaz Dağıtım Anonim Şirketi’nin üçüncü tarife uygulama dönemi perakende satış tarifelerine yönelik",
+  "resmi_gazete_date": "2026-05-01",
+  "resmi_gazete_number": "33240",
+  "categories": [
+    "Şirket Bazında Kararlar"
+  ],
+  "source": "https://www.epdk.gov.tr/Detay/DownloadDocument?id=gxJ4JvvtlTw=",
+  "documents": [
+    "https://www.epdk.gov.tr/Detay/DownloadDocument?id=gxJ4JvvtlTw=",
+    "https://www.epdk.gov.tr/Detay/DownloadDocument?id=/uZHY0KQCFo="
+  ],
+  "source_sha256": "5cbc3915fcda2ed1f7ae261ab254842a549dfcd6f33785c76be97e7efb5559f5",
+  "official_list": "https://www.epdk.gov.tr/Detay/Icerik/3-0-19/kurul-kararlari",
+  "official_list_leaf": 7236,
+  "text_status": "as-enacted",
+  "text_file": "metin.md",
+  "in_force": "2026-04-30",
+  "law_text_complete": true
+}
