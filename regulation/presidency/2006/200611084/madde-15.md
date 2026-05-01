@@ -1,0 +1,3 @@
+İtiraz
+MADDE 15 – (1) Karar ve eki listede ismi olmayanlar, kararın Resmî Gazete’de yayımı tarihinden itibaren otuz gün içerisinde yazılı olarak itiraz ederek durumlarının bir daha görüşülmesini isteyebilirler. Bakanlık, itiraz başvurularını, itiraz süresinin bitiminden itibaren altmış gün içerisinde sonuçlandırır. İtiraz sonunda Birinci Sınıf Mülki İdare Amirliğine yükseltilmelerine karar verilenlerin isimleri Resmî Gazete’de yayımlanır ve karar kendilerine tebliğ edilir. Bunların birinci sınıfa yükseltilme tarihi, emsallerinin yükseltilme tarihidir.[9]
+(2) İtirazı reddedilenlere ilişkin karar gerekçesi ile birlikte kendilerine tebliğ edilir. İtiraz üzerine verilen kararlar kesindir.

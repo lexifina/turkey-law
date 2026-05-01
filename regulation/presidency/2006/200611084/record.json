@@ -1,0 +1,26 @@
+{
+  "id": "presidency-regulation-200611084",
+  "number": "200611084",
+  "kind": "regulation",
+  "issuer": "presidency",
+  "title": "BİRİNCİ SINIF MÜLKİ İDARE AMİRLİĞİNE YÜKSELTİLME USUL VE ESASLARINA DAİR YÖNETMELİK",
+  "published": "2006-10-28",
+  "enacted": "2006-10-16",
+  "gazette_number": "26330",
+  "in_force": "2026-05-01",
+  "in_force_basis": "Source commencement table, \"Yürürlüğe Giriş Tarihi\": 1/5/2026; source row: Cumhurbaşkanı Kararı | 30/4/2026 | 11275 | 1, 3, 4, 5, 7, 8, 9, 10, 12, 13, 14, 15,16, 17, 18 | 1/5/2026",
+  "history": "current-only",
+  "version_label": "oldest version available",
+  "first_law": null,
+  "source": "https://www.mevzuat.gov.tr/anasayfa/MevzuatFihristDetayIframe?MevzuatNo=200611084&MevzuatTur=21&MevzuatTertip=5",
+  "source_sha256": "9fc2f101bc20a93ee65f55787b51128adf2f757599cdb4090bb62349de7933e9",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  },
+  "missing_components": [],
+  "text_layout": "article-files",
+  "source_links": [],
+  "completeness": "html-text-complete"
+}

@@ -1,0 +1,2 @@
+Kanunun yürürlük tarihinden sonra meslekten ayrılanların durumu
+GEÇİCİ MADDE 2 – (1) 1700 sayılı Kanunda değişiklik yapan 5540 sayılı Kanunun yürürlüğe girdiği 5/7/2006 tarihinden itibaren Birinci Sınıf Mülki İdare Amirliği statüsüne yükseltmeye ilişkin ilk Encümen kararı verilinceye kadar geçen süre içinde; emeklilik, ölüm, çekilme veya kurum değiştirme ve benzeri nedenlerle meslekten ayrılanlar hakkında da bu Yönetmelik hükümleri uygulanır. Bunların durumları Encümen tarafından yapılacak ilk değerlendirmede ele alınarak karara bağlanır.
