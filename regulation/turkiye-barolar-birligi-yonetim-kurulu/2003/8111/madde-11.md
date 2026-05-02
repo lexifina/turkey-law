@@ -1,0 +1,2 @@
+Yükümlülükler
+Madde 11 — Bu Yönetmelik kapsamında olanlar; salt ün kazanmaya (Ek ibare:RG-9/8/2024-32627) , kendilerini meslektaşlarının önüne geçirmeye, reklam yoluyla iş elde etmeye yönelik her tür girişim ve eylemlerden kaçınmak, iş elde etmek için reklam sayılabilecek her hangi bir girişim ve eylemde bulunmamak, üçüncü kişilerin kendileri için reklam sayılabilecek bu tür eylem ve davranışlarına izin vermemek, engel olmak için gerekli önlemleri almakla yükümlüdürler.
