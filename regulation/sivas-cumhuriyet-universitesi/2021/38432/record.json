@@ -1,0 +1,54 @@
+{
+  "checked_on": "2026-11-14",
+  "commencement_clauses": [
+    "MADDE 15 – (1) Bu Yönetmelik yayımı tarihinde yürürlüğe girer."
+  ],
+  "date_evidence": [
+    [
+      "2021-03-21",
+      "21.03.2021",
+      "original gazette publication date in official listing"
+    ],
+    [
+      "2026-05-02",
+      "RG-2/5/2026-33241",
+      "latest source-printed gazette amendment date for current consolidated text"
+    ],
+    [
+      "2026-05-02",
+      "RG-2/5/2026-33241",
+      "latest source-printed gazette amendment date for current consolidated text"
+    ],
+    [
+      "2026-05-02",
+      "2/5/2026",
+      "latest gazette date in source amendment table"
+    ]
+  ],
+  "date_quote": "RG-2/5/2026-33241",
+  "first_law": null,
+  "gazette": "31430",
+  "history": "current-text",
+  "images": {
+    "deferred": 0,
+    "omitted": 0,
+    "referenced": 0,
+    "source": 0
+  },
+  "in_force": "2026-05-02",
+  "in_force_basis": "latest source-printed gazette amendment date for current consolidated text",
+  "issuer": "Sivas Cumhuriyet Üniversitesi",
+  "issuer_slug": "sivas-cumhuriyet-universitesi",
+  "kind": "regulation",
+  "label": "oldest version available",
+  "path": "regulation/sivas-cumhuriyet-universitesi/2021/38432",
+  "published": "2021-03-21",
+  "source": "https://www.mevzuat.gov.tr/anasayfa/MevzuatFihristDetayIframe?MevzuatTur=8&MevzuatNo=38432&MevzuatTertip=5",
+  "source_bytes": 34958,
+  "source_id": "8.5.38432",
+  "source_sha256": "ab7878fa28d126aa41e6d2f5812d9e14938c50a9d5b24a3b4e51f38554550876",
+  "text_status": "current-consolidated",
+  "title": "SİVAS CUMHURİYET ÜNİVERSİTESİ KANSER ÇALIŞMALARI UYGULAMA VE\r\nARAŞTIRMA MERKEZİ YÖNETMELİĞİ",
+  "university_id": 185,
+  "word_count": 1412
+}
