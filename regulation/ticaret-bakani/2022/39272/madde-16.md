@@ -1,0 +1,7 @@
+Kontrol şube müdürlüğünün görevleri
+MADDE 16 – (1) Kontrol şube müdürlüğünün görevleri şunlardır:
+a) İşlem gören gümrük beyannamelerinin gümrük tarife istatistik pozisyonu ve vergi nispetlerinin 14/5/1964 tarihli ve 474 sayılı Gümrük Giriş Tarife Cetveli Hakkında Kanun, kıymetin GATT Kıymet Anlaşması, matrah unsurları, vergi oran ve tutarlarının 25/10/1984 tarihli ve 3065 sayılı Katma Değer Vergisi Kanunu ve 6/6/2002 tarihli ve 4760 sayılı Özel Tüketim Vergisi Kanunu ile diğer eş etkili vergiler ve mali yüklerin gümrük mevzuatı ve diğer mevzuat hükümleri bakımından risk analizine dayalı kontrole tabi tutularak sonuca göre gerekli görülenleri belge veya fiziki muayene yoluyla kontrol etmek ya da kontrol edilmesini sağlamak.
+b) Yapılan analiz ve değerlendirme sonucunda eksik alındığı veya hiç alınmadığı tespit edilen vergilerin, 27/10/1999 tarihli ve 4458 sayılı Gümrük Kanununda belirtilen zamanaşımı süresi içerisinde ilgili bağlı birimler vasıtasıyla yükümlüsünden istenilmesini sağlamak.
+c) Yükümlüsüne tebliğ edilen tahakkukların tahsil sürecinin takibi için işlem dosyasını tahsilat, taksitlendirme ve geri verme şube müdürlüğüne intikal ettirmek.
+ç) Gümrüklerce tahsilat ve/veya kontrolü yapılan vergi, fon, mali yükler ile diğer yükümlülükler yönünden gerçek ve tüzel kişilere ilişkin her türlü bilgi ve belgenin gerektiğinde incelemesini yapmak.
+d) Bölge müdürü tarafından verilen benzeri görevleri yapmak.
