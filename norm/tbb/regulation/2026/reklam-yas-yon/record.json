@@ -1,0 +1,15 @@
+{
+  "kind": "regulation",
+  "issuer": "Türkiye Barolar Birliği",
+  "title": "TÜRKİYE BAROLAR BİRLİĞİ REKLAM YASAĞI YÖNETMELİĞİ",
+  "date": "2026-05-02",
+  "date_source": "official-amendment-annotation",
+  "in_force_basis": "Latest amendment annotation printed in the official TBB PDF: RG-2/5/2026-33241.",
+  "commit_kind": "consolidated",
+  "source": "http://d.barobirlik.org.tr/mevzuat/avukata_ozel/yonetmelikler/2011/reklam_yas_yon.pdf",
+  "source_sha256": "50caa3f2bfd54bf5ed8f8cad203ca08ab9baea9d685d5c29728eaf231ad99cc0",
+  "text_status": "current-text",
+  "version_label": "oldest version available",
+  "text_file": "text.txt",
+  "personal_data": "general professional rule; no case-party publication in this record"
+}
