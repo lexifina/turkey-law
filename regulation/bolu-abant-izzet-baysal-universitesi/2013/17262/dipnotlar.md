@@ -1,0 +1,1 @@
+[1] 3/5/2026 Tarihli Ve 33242 Sayılı Resmî Gazete’de yayımlanan değişiklikle Yönetmeliğin adı “Abant İzzet Baysal Üniversitesi Sağlık Araştırma ve Uygulama Merkezi Yönetmeliği” iken metne işlendiği şekilde değiştirilmiştir
