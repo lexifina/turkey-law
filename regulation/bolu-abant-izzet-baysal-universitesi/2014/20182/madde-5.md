@@ -1,0 +1,4 @@
+İKİNCİ BÖLÜM
+Merkezin Amaçları ve Faaliyet Alanları
+Merkezin amaçları
+MADDE 5 – (1) Merkezin amaçları ; Üniversite ile sanayi kuruluşları arasında var olan işbirliğini izlemek, değerlendirmek, yaygınlaşmasını sağlayacak çalışmalar yapmak, yeni işbirliği modelleri geliştirmek, Üniversite birimleri ile sanayi kuruluşları arasında işbirliği konusunda koordinasyonu sağlamak, Ar-Ge faaliyetlerini Üniversite-sanayi işbirliğini geliştirecek şekilde teşvik ederek nitelik ve nicelik yönünden artırmak, Üniversitede üretilen bilgileri sanayinin kullanımına sunarak bu bilgilerin ticarileşmesini sağlamak, Üniversite-sanayi işbirliği çerçevesindeki proje desteklerine dair danışmanlık hizmeti sunmak, fikri ve sınai mülkiyet haklarının yönetilmesi ve özellikle bölgesel düzeyde inovasyona dayalı bir ekosistemin oluşmasına yönelik çalışmalar yürüterek ekonomik ve toplumsal gelişmeye katkıda bulunmaktır.

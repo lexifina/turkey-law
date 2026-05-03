@@ -1,0 +1,84 @@
+{
+  "checked_on": "2026-11-14",
+  "commencement_clauses": [
+    "MADDE 13 – (1) Bu Yönetmelik yayımı tarihinde yürürlüğe girer."
+  ],
+  "date_evidence": [
+    [
+      "2014-11-03",
+      "03.11.2014",
+      "original gazette publication date in official listing"
+    ],
+    [
+      "2026-05-03",
+      "RG-3/5/2026-33242",
+      "latest source-printed gazette amendment date for current consolidated text"
+    ],
+    [
+      "2026-05-03",
+      "RG-3/5/2026-33242",
+      "latest source-printed gazette amendment date for current consolidated text"
+    ],
+    [
+      "2026-05-03",
+      "RG-3/5/2026-33242",
+      "latest source-printed gazette amendment date for current consolidated text"
+    ],
+    [
+      "2026-05-03",
+      "RG-3/5/2026-33242",
+      "latest source-printed gazette amendment date for current consolidated text"
+    ],
+    [
+      "2026-05-03",
+      "RG-3/5/2026-33242",
+      "latest source-printed gazette amendment date for current consolidated text"
+    ],
+    [
+      "2026-05-03",
+      "RG-3/5/2026-33242",
+      "latest source-printed gazette amendment date for current consolidated text"
+    ],
+    [
+      "2026-05-03",
+      "RG-3/5/2026-33242",
+      "latest source-printed gazette amendment date for current consolidated text"
+    ],
+    [
+      "2026-05-03",
+      "RG-3/5/2026-33242",
+      "latest source-printed gazette amendment date for current consolidated text"
+    ],
+    [
+      "2026-05-03",
+      "3/5/2026",
+      "latest gazette date in source amendment table"
+    ]
+  ],
+  "date_quote": "RG-3/5/2026-33242",
+  "first_law": null,
+  "gazette": "29164",
+  "history": "current-text",
+  "images": {
+    "deferred": 0,
+    "omitted": 0,
+    "referenced": 0,
+    "source": 0
+  },
+  "in_force": "2026-05-03",
+  "in_force_basis": "latest source-printed gazette amendment date for current consolidated text",
+  "issuer": "Bolu Abant İzzet Baysal Üniversitesi",
+  "issuer_slug": "bolu-abant-izzet-baysal-universitesi",
+  "kind": "regulation",
+  "label": "oldest version available",
+  "path": "regulation/bolu-abant-izzet-baysal-universitesi/2014/20182",
+  "published": "2014-11-03",
+  "source": "https://www.mevzuat.gov.tr/anasayfa/MevzuatFihristDetayIframe?MevzuatTur=8&MevzuatNo=20182&MevzuatTertip=5",
+  "source_bytes": 33302,
+  "source_id": "8.5.20182",
+  "source_sha256": "dc0970f51f43a10f86b41ba37c6265240e6cf55a5faa22d5e4668d157eee3441",
+  "text_status": "current-consolidated",
+  "title": "BOLU ABANT İZZET BAYSAL ÜNİVERSİTESİ TEKNOLOJİ TRANSFERİ UYGULAMA VE ARAŞTIRMA MERKEZİ YÖNETMELİĞİ",
+  "university_id": 175,
+  "word_count": 1203
+}
