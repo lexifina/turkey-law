@@ -1,0 +1,54 @@
+{
+  "checked_on": "2026-11-14",
+  "commencement_clauses": [
+    "MADDE 17 – (1) Bu Yönetmelik yayımı tarihinde yürürlüğe girer."
+  ],
+  "date_evidence": [
+    [
+      "2020-03-15",
+      "15.03.2020",
+      "original gazette publication date in official listing"
+    ],
+    [
+      "2026-05-03",
+      "RG-3/5/2026-33242",
+      "latest source-printed gazette amendment date for current consolidated text"
+    ],
+    [
+      "2026-05-03",
+      "RG-3/5/2026-33242",
+      "latest source-printed gazette amendment date for current consolidated text"
+    ],
+    [
+      "2026-05-03",
+      "3/5/2026",
+      "latest gazette date in source amendment table"
+    ]
+  ],
+  "date_quote": "RG-3/5/2026-33242",
+  "first_law": null,
+  "gazette": "31069",
+  "history": "current-text",
+  "images": {
+    "deferred": 0,
+    "omitted": 0,
+    "referenced": 0,
+    "source": 0
+  },
+  "in_force": "2026-05-03",
+  "in_force_basis": "latest source-printed gazette amendment date for current consolidated text",
+  "issuer": "Bolu Abant İzzet Baysal Üniversitesi",
+  "issuer_slug": "bolu-abant-izzet-baysal-universitesi",
+  "kind": "regulation",
+  "label": "oldest version available",
+  "path": "regulation/bolu-abant-izzet-baysal-universitesi/2020/34362",
+  "published": "2020-03-15",
+  "source": "https://www.mevzuat.gov.tr/anasayfa/MevzuatFihristDetayIframe?MevzuatTur=8&MevzuatNo=34362&MevzuatTertip=5",
+  "source_bytes": 37858,
+  "source_id": "8.5.34362",
+  "source_sha256": "7d48afa4fb70a0812f0ad2952677ef26825f85da66a38038d1a4e273e9496770",
+  "text_status": "current-consolidated",
+  "title": "BOLU ABANT İZZET BAYSAL ÜNİVERSİTESİ KADIN, AİLE VE\r\nTOPLUM HİZMETLERİ UYGULAMA VE ARAŞTIRMA\r\nMERKEZİ YÖNETMELİĞİ",
+  "university_id": 175,
+  "word_count": 1797
+}
