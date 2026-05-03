@@ -1,0 +1,49 @@
+{
+  "checked_on": "2026-11-14",
+  "commencement_clauses": [
+    "MADDE 18- (1) Bu Yönetmelik yayımı tarihinde yürürlüğe girer."
+  ],
+  "date_evidence": [
+    [
+      "2022-04-24",
+      "24.04.2022",
+      "original gazette publication date in official listing"
+    ],
+    [
+      "2026-05-03",
+      "RG-3/5/2026-33242",
+      "latest source-printed gazette amendment date for current consolidated text"
+    ],
+    [
+      "2026-05-03",
+      "3/5/2026",
+      "latest gazette date in source amendment table"
+    ]
+  ],
+  "date_quote": "RG-3/5/2026-33242",
+  "first_law": null,
+  "gazette": "31819",
+  "history": "current-text",
+  "images": {
+    "deferred": 0,
+    "omitted": 0,
+    "referenced": 0,
+    "source": 0
+  },
+  "in_force": "2026-05-03",
+  "in_force_basis": "latest source-printed gazette amendment date for current consolidated text",
+  "issuer": "Bolu Abant İzzet Baysal Üniversitesi",
+  "issuer_slug": "bolu-abant-izzet-baysal-universitesi",
+  "kind": "regulation",
+  "label": "oldest version available",
+  "path": "regulation/bolu-abant-izzet-baysal-universitesi/2022/39495",
+  "published": "2022-04-24",
+  "source": "https://www.mevzuat.gov.tr/anasayfa/MevzuatFihristDetayIframe?MevzuatTur=8&MevzuatNo=39495&MevzuatTertip=5",
+  "source_bytes": 39502,
+  "source_id": "8.5.39495",
+  "source_sha256": "b553d6ae1f8b942003fb5a6f3d47bc42551ee648bd0e6b6c9d0a0f198e737f42",
+  "text_status": "current-consolidated",
+  "title": "BOLU ABANT İZZET BAYSAL ÜNİVERSİTESİ BAĞIMLILIKLA MÜCADELE UYGULAMA VE ARAŞTIRMA MERKEZİ YÖNETMELİĞİ",
+  "university_id": 175,
+  "word_count": 1242
+}
