@@ -1,0 +1,1 @@
+[1] 3/5/2026 tarihli ve 33242 sayılı Resmî Gazete’de yayımlanan değişiklik ile Yönetmeliğin Adı “Abant İzzet Baysal Üniversitesi Yaban Hayatı Çalışmaları Uygulama ve Araştırma Merkezi Yönetmeliği” iken metne işlendiği şekilde değiştirilmiştir.
