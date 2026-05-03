@@ -1,0 +1,1 @@
+[1] 3/5/2026 tarihli ve 33242 sayılı Resmî Gazete’de yayımlanan değişiklikle Yönetmeliğin adı “Abant İzzet Baysal Üniversitesi Bilimsel, Endüstriyel ve Teknolojik Uygulama Ve Araştırma Merkezi Yönetmeliği” iken metne işlendiği şekilde değiştirilmiştir.
