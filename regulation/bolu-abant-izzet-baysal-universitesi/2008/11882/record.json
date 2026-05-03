@@ -1,0 +1,84 @@
+{
+  "checked_on": "2026-11-14",
+  "commencement_clauses": [
+    "MADDE 14 – (1) Bu Yönetmelik yayımı tarihinde yürürlüğe girer."
+  ],
+  "date_evidence": [
+    [
+      "2008-01-08",
+      "08.01.2008",
+      "original gazette publication date in official listing"
+    ],
+    [
+      "2025-10-06",
+      "RG-6/10/2025-33039",
+      "latest source-printed gazette amendment date for current consolidated text"
+    ],
+    [
+      "2025-10-06",
+      "RG-6/10/2025-33039",
+      "latest source-printed gazette amendment date for current consolidated text"
+    ],
+    [
+      "2025-10-06",
+      "RG-6/10/2025-33039",
+      "latest source-printed gazette amendment date for current consolidated text"
+    ],
+    [
+      "2025-10-06",
+      "RG-6/10/2025-33039",
+      "latest source-printed gazette amendment date for current consolidated text"
+    ],
+    [
+      "2026-05-03",
+      "RG-3/5/2026-33242",
+      "latest source-printed gazette amendment date for current consolidated text"
+    ],
+    [
+      "2025-10-06",
+      "RG-6/10/2025-33039",
+      "latest source-printed gazette amendment date for current consolidated text"
+    ],
+    [
+      "2025-10-06",
+      "RG-6/10/2025-33039",
+      "latest source-printed gazette amendment date for current consolidated text"
+    ],
+    [
+      "2025-10-06",
+      "6/10/2025",
+      "latest gazette date in source amendment table"
+    ],
+    [
+      "2026-05-03",
+      "3/5/2026",
+      "latest gazette date in source amendment table"
+    ]
+  ],
+  "date_quote": "RG-3/5/2026-33242",
+  "first_law": null,
+  "gazette": "26750",
+  "history": "current-text",
+  "images": {
+    "deferred": 0,
+    "omitted": 0,
+    "referenced": 0,
+    "source": 0
+  },
+  "in_force": "2026-05-03",
+  "in_force_basis": "latest source-printed gazette amendment date for current consolidated text",
+  "issuer": "Bolu Abant İzzet Baysal Üniversitesi",
+  "issuer_slug": "bolu-abant-izzet-baysal-universitesi",
+  "kind": "regulation",
+  "label": "oldest version available",
+  "path": "regulation/bolu-abant-izzet-baysal-universitesi/2008/11882",
+  "published": "2008-01-08",
+  "source": "https://www.mevzuat.gov.tr/anasayfa/MevzuatFihristDetayIframe?MevzuatTur=8&MevzuatNo=11882&MevzuatTertip=5",
+  "source_bytes": 31894,
+  "source_id": "8.5.11882",
+  "source_sha256": "ed6f7ce1b04f0ce431575a8035ca49b43e3581f310bfef43b3b26b478f5b361c",
+  "text_status": "current-consolidated",
+  "title": "BOLU ABANT İZZET BAYSAL ÜNİVERSİTESİ BOLU HALK KÜLTÜRÜNÜ UYGULAMA VE ARAŞTIRMA MERKEZİ YÖNETMELİĞİ",
+  "university_id": 175,
+  "word_count": 949
+}

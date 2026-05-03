@@ -1,0 +1,1 @@
+[1] 6/10/2025 tarihli ve 33039 sayılı Resmî Gazete’de yayımlanan değişiklik ile Yönetmeliğin adı “Abant İzzet Baysal Üniversitesi Bolu Halk Kültürünü Araştırma ve Uygulama Merkezi Yönetmeliği” iken metne işlendiği şekilde değiştirilmiştir.
