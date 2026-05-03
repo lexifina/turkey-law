@@ -1,0 +1,3 @@
+Yönetim kurulu ve görevleri
+MADDE 8 – (Değişik:RG-31/5/2014-29016 mükerrer)
+(1) Yönetim Kurulu; Merkez Müdürü, Rektör tarafından okul öncesi eğitim konularında araştırma ve uygulama çalışmaları olan Üniversite öğretim elemanları arasından görevlendirilecek üç üye ve istekleri halinde Merkez faaliyetleriyle ilgili kamu veya özel kurum ve kuruluşlar tarafından önerilen ve Rektör tarafından görevlendirilen üç üye olmak üzere toplam yedi üyeden oluşur. Yönetim Kurulu üyelerinin görev süresi üç yıldır. Süresi dolan üye aynı usulle yeniden görevlendirilebilir. Görev süresi sona ermeden görevinden ayrılan Yönetim Kurulu üyesinin yerine, kalan süreyi tamamlamak üzere aynı usulle yeni üye görevlendirilir.
