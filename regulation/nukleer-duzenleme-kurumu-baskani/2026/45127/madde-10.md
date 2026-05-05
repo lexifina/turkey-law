@@ -1,0 +1,7 @@
+Siber güvenlik önlemlerinin uygulanması
+MADDE 10- (1) Kuruluş, risk yönetimi kapsamında sistemlerin kritikliklerine göre siber güvenlik seviyeleri oluşturur, her bir dijital varlığı bağlı olduğu sistemin kritiklik derecesine uygun siber güvenlik seviyesine atar ve her seviyeye uygun siber güvenlik gereklerini uygular. Kritiklik derecelerine göre siber güvenlik seviyelerine yerleştirilen dijital varlıkları, işlevlerini göz önünde bulundurarak siber güvenlik bölgelerine ayırır ve bu doğrultuda tesiste siber güvenlik mimarisini oluşturur.
+(2) Kuruluş, siber güvenlik bölgeleri içerisinde yer alan kritik dijital varlıklardan herhangi biri için belirlenen en yüksek siber güvenlik seviyesindeki önlemleri uygular.
+(3) Siber güvenlik önlemleri birbirini destekleyecek ve birinin etkisiz hâle gelmesi durumunda diğerlerinin işlevini etkilemeyecek şekilde belirlenir.
+(4) Kuruluş, tesis içinde veya dışında paylaşılan kritik dijital varlıkların korunması için gerekli siber güvenlik önlemlerini uygular.
+(5) Kuruluş, dijital varlıklar için tüm erişimleri, işlemleri, hareketleri ve sistem olaylarını eksiksiz şekilde kayıt altına alır, söz konusu kayıtlara yetkisiz erişimi ve bu kayıtlarda değişiklik yapılmasını engeller ve tüm kayıtları en az iki yıl muhafaza eder.
+(6) Kuruluş, kritik dijital varlıkların kaybı ve zarar görmesi durumlarına karşın yedekleme mekanizmalarını kurar, periyodik olarak yedekleme işlemlerini gerçekleştirir ve alınan yedeklerin gizliliğini, bütünlüğünü ve erişilebilirliğini koruyucu önlemleri uygular.

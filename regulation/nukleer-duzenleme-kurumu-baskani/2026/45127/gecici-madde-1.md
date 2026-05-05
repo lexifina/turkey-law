@@ -1,0 +1,2 @@
+Geçiş hükümleri
+GEÇİCİ MADDE 1- (1) Bu Yönetmeliğin yürürlüğe girdiği tarihten önce yetkilendirilen veya yetkilendirilmek üzere Kuruma başvuruda bulunan Kuruluş, bir takvim çerçevesinde bu Yönetmelik hükümlerine uyumu sağlayacak olan eylem planını bu Yönetmeliğin yürürlük tarihinden itibaren altı ay içerisinde Kuruma sunar ve Kurumun uygun görüşü sonrasında uygular. Kuruluş tarafından gerekçelendirilmesi ve gerekçenin Kurum tarafından uygun bulunması hâlinde bu süre bir yıla kadar uzatılabilir.
