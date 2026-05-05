@@ -1,0 +1,93 @@
+{
+  "source_id": "7.5.22794",
+  "kind": "regulation",
+  "register_kind": "Kurum ve Kuruluş Yönetmelikleri",
+  "title": "HAVALİMANLARI/HAVAALANLARI YER HİZMETLERİ YÖNETMELİĞİ (SHY-22)",
+  "number": "22794",
+  "issuer": "Sivil Havacılık Genel Müdürü",
+  "issuer_slug": "sivil-havacilik-genel-muduru",
+  "path": "regulation/sivil-havacilik-genel-muduru/2016/22794",
+  "source": "https://www.mevzuat.gov.tr/anasayfa/MevzuatFihristDetayIframe?MevzuatTur=7&MevzuatNo=22794&MevzuatTertip=5",
+  "source_sha256": "829f9285887ff1de9b5fccf836b7604c46b3e0be92c01e513ebc946fdd51caa9",
+  "source_bytes": 152589,
+  "published": "2016-08-23",
+  "gazette": "29810",
+  "in_force": "2026-05-05",
+  "in_force_basis": "latest Resmî Gazete date printed in the source amendment notes/table (\"RG-5/5/2026\") for the current consolidated text",
+  "date_evidence": [
+    [
+      "2026-05-05",
+      "RG-5/5/2026",
+      "Resmî Gazete date printed in the source amendment note"
+    ],
+    [
+      "2026-05-05",
+      "5/5/2026",
+      "Resmî Gazete date in the source amendment table"
+    ],
+    [
+      "2025-12-09",
+      "RG-9/12/2025",
+      "Resmî Gazete date printed in the source amendment note"
+    ],
+    [
+      "2025-12-09",
+      "9/12/2025",
+      "Resmî Gazete date in the source amendment table"
+    ],
+    [
+      "2023-04-25",
+      "RG-25/4/2023",
+      "Resmî Gazete date printed in the source amendment note"
+    ],
+    [
+      "2023-04-25",
+      "25/4/2023",
+      "Resmî Gazete date in the source amendment table"
+    ],
+    [
+      "2022-08-23",
+      "RG-23/8/2022",
+      "Resmî Gazete date printed in the source amendment note"
+    ],
+    [
+      "2022-08-23",
+      "23/8/2022",
+      "Resmî Gazete date in the source amendment table"
+    ],
+    [
+      "2022-06-14",
+      "RG-14/6/2022",
+      "Resmî Gazete date printed in the source amendment note"
+    ],
+    [
+      "2022-06-14",
+      "14/6/2022",
+      "Resmî Gazete date in the source amendment table"
+    ],
+    [
+      "2022-04-17",
+      "RG-17/4/2022",
+      "Resmî Gazete date printed in the source amendment note"
+    ],
+    [
+      "2022-04-17",
+      "17/4/2022",
+      "Resmî Gazete date in the source amendment table"
+    ]
+  ],
+  "commencement_clauses": [
+    "Bu Yönetmelik yayımı tarihinde yürürlüğe girer"
+  ],
+  "history": "current-text",
+  "label": "oldest version available",
+  "checked_on": "2026-11-15",
+  "word_count": 9465,
+  "text_status": "current-consolidated",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  },
+  "completeness": "html-text-complete"
+}
