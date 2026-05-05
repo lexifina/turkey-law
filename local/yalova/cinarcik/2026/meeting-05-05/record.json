@@ -1,0 +1,25 @@
+{
+  "number": "meeting-05-05",
+  "number_as_published": "meeting-05-05",
+  "year": 2026,
+  "title": "05 May Mayıs 2026 Olağan Meclis Toplantısı 5 Mayıs 2026 Salı · 10 karar",
+  "decision_date": "2026-05-05",
+  "source": "https://www.cinarcik.bel.tr/kurumsal/meclis/2026-mayis",
+  "official_document": "https://www.cinarcik.bel.tr/kurumsal/meclis/2026-mayis",
+  "source_sha256": "c9b0eb554874bcc12832b6cafb9a22cb45aa9d840d19e4baac4522f3660bda90",
+  "issuer": "Çınarcık Belediye Meclisi",
+  "history_type": "metadata",
+  "text_status": "metadata-only: listing fields as published; complete decision text is in the linked official document, not transcribed",
+  "in_force": "2026-05-05",
+  "in_force_basis": "Decision date as printed in the official council listing: 5 MAYIS 2026; adoption date of the council decision; legal commencement not asserted",
+  "missing": [
+    "complete official decision text",
+    "official annexes"
+  ],
+  "law_text_complete": false,
+  "privacy_withheld": false,
+  "listing_label": "05 May Mayıs 2026 Olağan Meclis Toplantısı 5 Mayıs 2026 Salı · 10 karar",
+  "record_scope": "one official file of council decisions (meeting)",
+  "official_page": "https://www.cinarcik.bel.tr/kurumsal/meclis/2026-mayis",
+  "document_note": "the decisions are published as text on the official page itself (no separate file); not transcribed here"
+}
