@@ -1,0 +1,480 @@
+5 Mayıs 2026 SALI
+Resmî Gazete
+Sayı : 33244
+YÖNETMELİK
+Nükleer Düzenleme Kurumundan:
+NÜKLEER TESİSLERDE
+SİBER GÜVENLİĞE İLİŞKİN YÖNETMELİK
+BİRİNCİ BÖLÜM
+Başlangıç
+Hükümleri
+Amaç
+MADDE 1- (1) Bu Yönetmeliğin amacı, nükleer tesislere
+yönelik düzenleyici kontrole tabi faaliyetlerin yürütülmesi sırasında siber
+güvenliğin sağlanmasına ilişkin usul ve esasları belirlemektir.
+Kapsam
+MADDE 2- (1) Bu Yönetmelik, nükleer tesislerin siber
+güvenliğini kapsar.
+Dayanak
+MADDE 3- (1) Bu Yönetmelik, 95 sayılı Nükleer Düzenleme
+Kurumunun Teşkilat ve Görevleri Hakkında Cumhurbaşkanlığı Kararnamesinin 4
+üncü maddesinin birinci fıkrasının (b) bendine ve 5 inci maddesinin birinci
+fıkrasının (b) bendine dayanılarak hazırlanmıştır.
+Tanımlar
+MADDE 4- (1) Bu Yönetmelikte geçen;
+a) Dereceli yaklaşım: Dijital varlıkların siber
+güvenliğinin sağlanmasına yönelik teknik, fiziksel ve idari önlemlerin;
+güvenlik, emniyet ve nükleer güvence işlevlerine ilişkin risklerin
+büyüklüğüyle orantılı olarak planlanması, uygulanması ve yönetilmesini,
+b) Derinliğine savunma: Siber güvenliği zafiyete
+uğratacak herhangi bir teşebbüse karşı hiyerarşik yapıda, birbirini
+destekleyen ve çeşitli uygulamalardan oluşan fiziksel, teknik ve idari
+kontrollerin birbiriyle uyumlu, katmanlı ve bütüncül bir yapıda
+uygulanmasını,
+c) Dijital varlık: Siber uzayda yer alan veri ve
+bilgiler ile bunları oluşturmak, depolamak, işlemek, kontrol etmek veya
+aktarmak için kullanılan donanım, yazılım, sistem ve aktif veya pasif
+durumda bulunan tüm diğer bileşenleri,
+ç) Düzenleyici Belgeler Listesi (DBL): Nükleer
+tesise ilişkin faaliyetlerin gerçekleştirilmesine yönelik radyasyondan
+korunma, güvenlik, emniyet ve nükleer güvenceye ilişkin gerekleri içeren
+düzenleyici belgelerin listesini,
+d) Kritik dijital varlık: Gizliliğinin,
+bütünlüğünün veya erişilebilirliğinin tehlikeye girmesi hâlinde güvenlik,
+emniyet ve nükleer güvence işlevlerini doğrudan veya dolaylı olarak olumsuz
+etkileyebilecek dijital varlıkları,
+e) Kuruluş: Bir nükleer tesis kurmak, işletmek veya
+işletmeden çıkarmak için Kuruma niyet bildiriminde bulunan, onay almak veya
+yetkilendirilmek üzere başvuran ya da yetkilendirilen ve düzenleyici
+kontrol kapsamında bulunan Türkiye Cumhuriyeti mevzuatına göre kurulmuş
+tüzel kişiyi,
+f) Kurum: Nükleer Düzenleme Kurumunu,
+g) Siber güvenlik: Güvenlik,
+emniyet ve nükleer güvenceye ilişkin sistemlerdeki dijital varlıkların
+saldırılardan korunmasını, bu varlıkların gizliliğinin, bütünlüğünün ve
+erişilebilirliğinin sağlanmasını, saldırıların ve siber olayların tespit
+edilmesini, bu tespitlere karşı tepki ve alarm mekanizmalarının devreye alınmasını
+ve yaşanabilecek bir siber olay sonrasında etkilenen dijital varlıkların
+işlevlerini yerine getirebilecek duruma geri döndürülmesini kapsayan
+faaliyetler bütününü,
+ğ) Siber güvenlik bölgesi: Siber güvenlik
+önlemlerinin yönetimine, etkileşimine ve uygulanmasına yönelik ortak bir
+siber güvenlik seviyesine atanan, ortak fiziksel veya mantıksal sınırlara
+sahip ve gerekirse ek gerekler uygulanarak düzenlenmiş sistemler grubunu,
+h) Siber güvenlik mimarisi: Tesiste güvenlik,
+emniyet ve nükleer güvenceyle doğrudan veya dolaylı alakaya sahip işlevleri
+yerine getiren ve tesis düzeyinde belirlenen siber güvenlik seviyelerine
+atanmış dijital varlıkların siber güvenliğini sağlamak amacıyla;
+derinliğine savunma ilkesi doğrultusunda önlemlerin tanımlanmasını, uygulanmasını,
+izlenmesini ve sürekli iyileştirilmesini kapsayan bütünleşik yapı ve
+süreçler bütününü,
+ı) Siber güvenlik planı: Biçim ve içeriği Kurum
+tarafından belirlenen nükleer tesiste siber güvenliğin sağlanmasına yönelik
+faaliyetleri açıklayan belgeyi,
+i) Siber güvenlik seviyesi: Güvenlik, emniyet,
+nükleer güvence veya bunlara ilişkin kritik bilgilerin yönetimiyle ilgili
+işlevlere yönelik siber güvenlik gereklerini karşılamak için gerekli olan
+koruma seviyesini,
+j) Siber olay: Dijital varlıkların gizliliğinin,
+bütünlüğünün veya erişilebilirliğinin ihlal edilmesini,
+k) Siber olaylara müdahale planı: Siber güvenlik
+planının; siber olaylara karşı hazırlık ile siber olayların tanımlanması,
+müdahale edilmesi ve siber olayların etkilediği dijital varlıkların kurtarılması
+faaliyetlerine yönelik talimatları içeren kısmını,
+l) Siber saldırı: Dijital varlıkların gizliliğini,
+bütünlüğünü veya erişilebilirliğini ortadan kaldırmak amacıyla, siber
+uzayın herhangi bir yerindeki kişi veya bilişim sistemlerine yönelik olarak
+kasıtlı yapılan işlemleri,
+m) Siber uzay: Doğrudan ya da dolaylı olarak
+internete, elektronik haberleşme veya bilgisayar ağlarına bağlı olan tüm
+bilişim sistemlerini ve bunları birbirine bağlayan ağlardan oluşan ortamı,
+n) Tedarikçi: Güvenlik, emniyet ve nükleer
+güvenceye etki edebilecek yapı, sistem ve ekipmanlara
+ilişkin bir faaliyeti Kuruluş adına yürüten, organize eden ya da yaptıran
+veya Kuruluşa güvenlik, emniyet ve nükleer güvenceye etki edebilecek yapı,
+sistem ve ekipmanlara ilişkin bağımsız gözetim hizmeti dışında hizmet veya
+mal sağlayan kişiyi,
+o) Tedarik zinciri: Kuruluşun güvenlik, emniyet ve
+nükleer güvenceye etki edebilecek yapı, sistem ve ekipmana
+ilişkin ihtiyaç duyduğu mal veya hizmetlerin sağlanması sürecinde yer alan
+teknoloji, faaliyet, kaynak ve kişilerden oluşan bütünü,
+ö) TET Belgesi: Fiziksel koruma sisteminin
+tasarımına ve değerlendirilmesine temel teşkil eden, nükleer tesisleri ve
+nükleer maddeleri hedef alan hırsızlıkla, sabotajla, yetkisiz erişimle ve
+diğer kötü niyetli girişimlerle sonuçlanabilecek tehdidi içeren “Gizli”
+gizlilik derecesini haiz belgeyi,
+p) Zafiyet: Dijital varlıkların potansiyel bir
+siber tehdit tarafından istismar edilebilecek zayıflık ve siber güvenlik
+açıklarını,
+ifade eder.
+İKİNCİ BÖLÜM
+Genel İlkeler ve Kuruluşun Yükümlülükleri
+Genel
+ilkeler
+MADDE 5- (1) Nükleer tesislerin siber güvenliğinin
+sağlanmasında asıl sorumluluk Kuruluşa aittir.
+(2) Nükleer tesislerin siber güvenliğinin
+sağlanmasına ilişkin Kurum tarafından yürütülen düzenleyici kontrol
+faaliyetlerinde dereceli yaklaşım esas alınır.
+(3) Nükleer tesislerde siber güvenlik önlemlerinin
+belirlenmesinde ve uygulanmasında derinliğine savunma ilkesi esas alınır.
+(4) Siber güvenlik önlemleri güvenlik, emniyet ve
+nükleer güvenceye yönelik sistemlerin işleyişini performans, verimlilik,
+güvenilirlik veya işletme açısından engellemeyecek ve destekleyecek şekilde
+bütüncül olarak uygulanır.
+(5) Bilgi güvenliği yönetim sistemi kapsamındaki
+kritik dijital varlıklara ve bilgilere erişim, bilmesi gereken ilkesine
+göre sınırlandırılır. Kritik dijital varlıklara ve ilgili bilgilere yönelik
+gerçekleştirilecek faaliyetler, ilgili kişilerin görev tanımları ve
+yetkileri doğrultusunda yürütülür.
+Kuruluşun
+yükümlülükleri
+MADDE 6- (1) Kuruluş, siber güvenliğin sağlanmasına ilişkin
+olarak;
+a) Nükleer tesis ve sahanın düzenleyici kontrolden
+çıkarılmasına kadar nükleer tesisin ve dijital varlıkların siber
+saldırılara karşı korunmasını, siber saldırıların önlenmesini, tespit
+edilmesini, siber saldırılara müdahale edilmesini, siber saldırıların
+etkilerinin azaltılmasını ve siber saldırılardan etkilenen dijital
+varlıkların kurtarılmasını sağlayacak faaliyetleri yürütmekle,
+b) Nükleer tesisteki tüm dijital varlıkların siber
+güvenliğinden sorumlu bir yönetici atamakla ve bunu organizasyon yapısına
+dâhil etmekle,
+c) Siber güvenlik politikasını içeren bilgi
+güvenliği yönetim sistemini güncel ulusal ve uluslararası standartlara
+uygun olarak kurmak, uygulamak, sürdürmek ve değerlendirmekle,
+ç) Bütün dijital varlıklarda siber güvenlik
+önlemlerini dijital varlığın güvenlik, emniyet ve nükleer güvenceye
+etkisini ve olası sonuçları göz önünde bulundurup dereceli yaklaşımı ve
+derinliğine savunmayı esas alarak uygulamakla,
+d) Siber güvenlik mimarisini, derinliğine savunmayı
+esas alarak dijital varlıkların siber saldırılara karşı korunmasına yönelik
+gerekleri sağlayacak şekilde oluşturmakla,
+e) Siber güvenlik önlemlerini dijital varlıkları
+içeren sistemlerin tasarımı aşamasında nükleer tesisin tasarımına mümkün
+olan en üst düzeyde dâhil etmekle,
+f) Siber olaylara hazırlanmak, siber olayları
+tespit etmek, siber olaylara etkin bir şekilde müdahale etmek, siber
+olayların etkilerini azaltmak, siber olaylardan etkilenen dijital
+varlıkları kurtarmak, ilgili kurum veya kuruluşları siber olaylar hakkında
+en kısa sürede bilgilendirmek ve Kuruma rapor sunmak için siber olaylara
+müdahale planını oluşturmak, uygulamak ve geliştirmekle,
+g) Siber güvenliğin sağlanmasına yönelik
+faaliyetleri gerçekleştirmek için gerekli personel yeterliğini ve yetkinliğini
+sağlamakla,
+ğ) Siber güvenliğe ilişkin testler ve dış
+tetkikleri ilgili mevzuat uyarınca sertifikasyona sahip, yetkilendirilmiş
+veya belgelendirilmiş kuruluşlara yaptırmakla,
+yükümlüdür.
+ÜÇÜNCÜ BÖLÜM
+Siber Güvenliğin Planlanması, Uygulanması ve Yönetimi
+Siber
+güvenlik planı
+MADDE 7- (1) Kuruluş, siber güvenlik planını;
+a) Nükleer santrallerde saha hazırlama izni
+başvurusunda sunulacak olan inşaat emniyet planı kapsamında ve inşaat izni
+başvurusundan itibaren dereceli yaklaşım esas alınarak her yetkilendirme
+başvurusunda,
+b) Araştırma reaktörlerinde saha hazırlama izni
+başvurusunda sunulacak olan inşaat emniyet planı kapsamında ve inşaat izni
+başvurusunda sunulacak olan nükleer emniyet planı kapsamında,
+c) (a) ve (b) bentleri kapsamı dışında kalan diğer
+nükleer tesislerde 17/3/2023 tarihli ve 32135
+sayılı Resmî Gazete’de yayımlanan Nükleer Tesislere İlişkin
+Yetkilendirmeler Yönetmeliğinde yer alan ilgili yetkilendirme başvurularında
+sunulacak olan emniyet planları kapsamında,
+Kuruma sunar.
+(2) Kuruluş, siber güvenliğin uygulanmasına esas
+teşkil eden mevzuat ve standartlar ile DBL’de
+belirtilen belgeleri siber güvenlik planında belirtir.
+(3) Kuruluş, siber güvenlik planının yılda en az
+bir kez gözden geçirilmesini ve aşağıdaki durumlardan birinin gerçekleşmesi
+durumunda güncellenmesini sağlar:
+a) Riskin değişmesi.
+b) DBL’de yer alan,
+nükleer tesislerde siber güvenliği ilgilendirebilecek belgelerin değişmesi.
+c) Kuruluşun siber güvenliğinden sorumlu veya bağlı
+olduğu üst birimleri içeren organizasyon yapısının değişmesi.
+ç) TET Belgesinin güncellenmesi.
+(4) Kuruluş, siber güvenlik planının gözden
+geçirilmesi sonucunda yapılması öngörülen değişiklikler ile bunların
+gerekçelerini Kuruma sunar. Sunulan değişikliklerin Kurum tarafından uygun
+bulunması hâlinde Kuruluş değişiklikleri uygular. Siber güvenlik planında
+yapılan değişikliklerin Kurum tarafından uygun bulunması, Kuruluşun siber
+güvenliğin sağlanmasına ilişkin sorumluluklarını azaltmaz veya ortadan
+kaldırmaz.
+Dijital
+varlıkların yönetimi
+MADDE 8- (1) Kuruluş, nükleer tesisteki tüm dijital
+varlıkları tanımlar ve bunların olası arayüzleri
+de dâhil olmak üzere güvenlik, emniyet ve nükleer güvenceye ilişkin
+işlevlerini belirler.
+(2) Kuruluş; gizlilik, bütünlük ve erişilebilirlik
+açısından her bir dijital varlık için güvenlik, emniyet ve nükleer güvence
+üzerindeki en kötü olası sonuçları belirleyerek kritiklik derecelerini
+atar.
+(3) Kuruluş, her bir dijital varlık için uygun
+siber güvenlik seviyesini belirler.
+(4) Kuruluş, sorumlularını dokümante
+ederek kritik dijital varlıkların ve bunların işlevlerini destekleyen diğer
+dijital varlıkların güncel envanterini tutar.
+Kritik dijital varlıkların envanteri asgari
+olarak; varlığın adı, tipi, yeri, yedekleme bilgisi, kritiklik derecesi ve
+varlık sorumlusu bilgilerini içerir.
+Siber
+güvenlik risk yönetimi
+MADDE 9- (1) Kuruluş, riskleri yönetmek için siber güvenlik
+risk yönetimi sürecini yönetir, uygular ve sürdürür.
+(2) Kuruluş, reaktör içeren tesisler için yılda en
+az bir, diğer tesisler için en az üç yılda bir olacak şekilde planlı risk
+değerlendirmeleri gerçekleştirir. Aşağıdaki durumlardan birinin
+gerçekleşmesi durumunda Kuruluş tarafından ivedilikle ilave risk
+değerlendirmeleri yapılır:
+a) Kritik dijital varlıklarda değişiklik olması.
+b) Tehdit bilgilerinde değişiklik olması.
+c) Yeni zafiyetlerin tanımlanması.
+(3) Siber güvenlik risk yönetimi; siber güvenlik
+testleri, iç denetimler, değerlendirmeler ve benzeri doğrulama
+faaliyetlerinden elde edilen çıktılar kullanılarak Kuruluş tarafından
+bütünleşik bir şekilde yürütülür.
+(4) Kuruluş, siber güvenlik risk analizi ve
+değerlendirmesi sonucu ortaya çıkan riskleri gidermek için her bir riske
+uygun olarak gerekli teknik, idari ve fiziksel önlemleri planlar ve
+uygular.
+(5) Kuruluş; dijital varlıkların zafiyetlerinin
+belirlenmesi, değerlendirilmesi, derecelendirilmesi, etkilerinin
+azaltılması veya ortadan kaldırılması ve gözetimiyle ilgili zafiyet
+yönetimi faaliyetlerini gerçekleştirir.
+(6) Kuruluş, zafiyet yönetimi faaliyetleri
+kapsamında zafiyet analizi için uygun araç ve teknikleri kullanır. Zafiyet
+analizi için kullanılan araç ve teknikler güvenlik, emniyet ve nükleer
+güvence işlevlerinin yerine getirilmesini engellemez.
+(7) Kuruluş, siber güvenlik zafiyetlerine ilişkin
+bilgileri sürekli olarak güncel tutar; ilgili yazılım ve donanım
+üreticileri, ulusal ve uluslararası ilgili veri tabanları ve ulusal veya
+uluslararası kurum ve kuruluşlardan edinilen bildirimler doğrultusunda yeni
+zafiyetleri düzenli olarak izler, değerlendirir ve gerekli önlemleri alır.
+(8) Kuruluş, sistemlerin işleyişine yönelik zararı
+daha yüksek olabilecek zafiyetlerin azaltılmasına ve ortadan kaldırılmasına
+öncelik verir.
+(9) Zafiyetleri bilinen dijital varlıklara ilişkin
+siber güvenlik önlemlerinin uygulanmasında değişiklik olması durumunda, bu
+zafiyetler yeniden değerlendirilir ve derecelendirilir.
+Siber
+güvenlik önlemlerinin uygulanması
+MADDE 10-
+(1) Kuruluş, risk yönetimi
+kapsamında sistemlerin kritikliklerine göre siber güvenlik seviyeleri
+oluşturur, her bir dijital varlığı bağlı olduğu sistemin kritiklik
+derecesine uygun siber güvenlik seviyesine atar ve her seviyeye uygun siber
+güvenlik gereklerini uygular. Kritiklik derecelerine göre siber güvenlik
+seviyelerine yerleştirilen dijital varlıkları, işlevlerini göz önünde
+bulundurarak siber güvenlik bölgelerine ayırır ve bu doğrultuda tesiste
+siber güvenlik mimarisini oluşturur.
+(2) Kuruluş, siber güvenlik bölgeleri içerisinde
+yer alan kritik dijital varlıklardan herhangi biri için belirlenen en yüksek
+siber güvenlik seviyesindeki önlemleri uygular.
+(3) Siber güvenlik önlemleri birbirini
+destekleyecek ve birinin etkisiz hâle gelmesi durumunda diğerlerinin işlevini
+etkilemeyecek şekilde belirlenir.
+(4) Kuruluş, tesis içinde veya dışında paylaşılan kritik
+dijital varlıkların korunması için gerekli siber güvenlik önlemlerini
+uygular.
+(5) Kuruluş, dijital varlıklar için tüm erişimleri,
+işlemleri, hareketleri ve sistem olaylarını eksiksiz şekilde kayıt altına
+alır, söz konusu kayıtlara yetkisiz erişimi ve bu kayıtlarda değişiklik
+yapılmasını engeller ve tüm kayıtları en az iki yıl muhafaza eder.
+(6) Kuruluş, kritik dijital varlıkların kaybı ve
+zarar görmesi durumlarına karşın yedekleme mekanizmalarını kurar, periyodik
+olarak yedekleme işlemlerini gerçekleştirir ve alınan yedeklerin
+gizliliğini, bütünlüğünü ve erişilebilirliğini koruyucu önlemleri uygular.
+Konfigürasyon
+yönetimi
+MADDE 11-
+(1) Kuruluş, her bir kritik
+dijital varlığı ve bu varlıklarla bağlantılı diğer dijital varlıkları kapsayacak
+şekilde konfigürasyon yönetimini geliştirir,
+uygular ve sürdürür.
+(2) Kuruluş, kritik dijital varlıkların konfigürasyonunda yapılan değişikliklerin kritik dijital
+varlıkların işlevselliğine zarar vermemesini sağlar.
+(3) Kuruluş, konfigürasyon
+yönetimine dijital varlıklara yönelik yedekleme ve kurtarma faaliyetlerini
+dâhil eder. Bununla birlikte Kuruluş yedek yapılandırmaları ve konfigürasyon geçmişini ilgili prosedürlerinde
+belirlediği süreler boyunca muhafaza eder.
+(4) Kuruluş tarafından yönetilen dijital varlıkların
+mevcut konfigürasyonlarında yapılması planlanan
+herhangi bir değişikliğin uygulanmasından önce Kuruluş tarafından asgari
+olarak aşağıdaki eylemler gerçekleştirilir:
+a) Kritik dijital varlıklarda yapılacak
+değişikliklerin etkisinin değerlendirmesi, doğrulanması ve belgelenmesi.
+b) Kritik dijital varlıklar ve bu varlıklarla
+bağlantılı diğer dijital varlıklardaki değişikliklerin siber güvenliğin
+mevcut etkinliğini azaltmadığının, yeni bir güvenlik açığı oluşturmadığının
+veya siber güvenlik önlemlerinin uygulanmasında bir engel oluşturmadığının
+doğrulanması ve belgelenmesi, bu gereğin sağlanamadığı durumlarda telafi
+edici önlemlerin alınması.
+c) Personel değişikliklerinin siber güvenlik
+önlemleri üzerindeki etkisinin değerlendirilmesi.
+ç) Değişiklik taleplerinin belgelenmesi.
+(5) Kuruluş, konfigürasyon
+yönetimine ilişkin faaliyetleri yılda en az bir kez gözden geçirir ve
+gerektiğinde günceller.
+Tedarik
+zinciri yönetimi
+MADDE 12-
+(1) Kuruluş, tedarikçilerin uyması
+zorunlu olan ve DBL’de yer alan siber güvenlik gereklerini
+belirler ve tedarikçiler tarafından bu gereklere uyulmasını sağlayacak
+tedbirleri alır.
+(2) Kuruluş, siber güvenliği etkileyen mal ve
+hizmetlerin tedarikinin belirlenmesi, gözetimi ve yönetimi için tedarik
+zincirine yönelik etkin bir risk yönetimi geliştirir, uygular ve sürdürür.
+(3) Kuruluş, tedarik zincirindeki tüm
+tedarikçilerin, malların ve hizmetlerin güvenilirliğini doğrular. Doğrulama
+DBL’deki ilgili belgelerde yer alan yöntemlere
+göre gerçekleştirilir.
+(4) Kuruluş, siber güvenlik önlemlerinin
+uygulandığını doğrulamak için tedarikçilere yönelik gözetimin yapılmasını
+ve siber güvenliği etkileyen mal ve hizmetlerin doğrulanmış olmasını
+sağlar.
+Siber
+olaylara müdahale yönetimi
+MADDE 13-
+(1) Kuruluş, siber olaylara
+müdahale sürecinde faaliyet gösterecek iç ve dış paydaşların görev ve
+sorumluluklarını içeren siber olaylara müdahale planını hazırlar.
+(2) Kuruluş; güvenlik, emniyet veya nükleer
+güvenceye zarar veren veya zarar verme olasılığı olan siber olayları ve
+siber tehditleri derhâl Kuruma ve Siber Güvenlik Başkanlığına bildirir.
+Siber olayların bildirilme şekli ve bildirileceği adresler Kurum tarafından
+belirlenir.
+(3) Kuruluş, Kurum ve Siber Güvenlik Başkanlığı ile
+koordinasyon ve iş birliği içinde siber olaylara müdahale planında
+belirtilen müdahale eylemlerini uygular.
+(4) Kuruluş, siber olaya yönelik raporu olayın
+tespit edilmesini takip eden beş iş günü içerisinde Kuruma sunar. Rapor
+aşağıdaki hususları içerir:
+a) Siber olayın nedenleri ve etkileri.
+b) Yürütülen müdahale faaliyetleri.
+c) Olaydan çıkarılan dersler.
+ç) Düzeltici ve önleyici faaliyetler ve süreleri.
+(5) Kuruluş; siber olaylara müdahale planının
+yeterliliğini test etmek ve doğrulamak için yılda en az bir kez kritik dijital
+varlıkları ele alan bir senaryoyla bir siber olay tatbikatı gerçekleştirir.
+Bu tatbikatlar en az iki yılda bir güvenlik ve emniyete yönelik
+senaryolarla birleştirilerek hibrit olarak
+gerçekleştirilir.
+(6) Kuruluş; gerçekleştirilecek siber olay tatbikatının
+tarihini, kapsamını ve senaryosunu içeren bilgileri “Hizmete Özel” gizlilik
+derecesiyle tatbikat tarihinden en az on iş günü önce Kuruma bildirir.
+(7) Kuruluş; siber olay tatbikatının sonucuna
+ilişkin raporu “Hizmete Özel” gizlilik derecesiyle en geç on beş iş günü
+içinde Kuruma sunar. Rapor aşağıdaki hususları içerir:
+a) Tatbikat sırasında yürütülen faaliyetler.
+b) Siber olay müdahalesinde yetersiz olarak
+değerlendirilen hususlar.
+c) Düzeltici ve önleyici faaliyetler ve süreleri.
+(8) Kuruluş; felaket, arıza veya siber saldırı
+durumunda kritik dijital varlıkların ve elektronik haberleşme hizmetlerinin
+sürekliliğini ve zamanında kurtarılmasını sağlamak amacıyla, ana
+sistemlerin yer aldığı alandan etkilenmeyecek uzaklıkta bir felaket
+kurtarma merkezi kurulmasını sağlar.
+Personel
+yönetimi
+MADDE 14-
+(1) Kuruluş, siber güvenlik
+planının uygulanması için gerekli yeterlik, yetkinlik ve güvenilirliğin
+sağlanmasına yönelik faaliyetleri içeren personel yönetimini geliştirir,
+uygular ve sürdürür.
+(2) Kuruluş, tesis personelinin tamamına yönelik
+siber güvenlik eğitim ve farkındalık programları
+ile siber güvenlik personeline yönelik özel eğitim programlarını yılda en
+az bir kez uygulanacak şekilde yürütür.
+(3) Kuruluş, siber güvenliğin emniyet kültürüne entegre edilerek geliştirilmesini ve tüm
+organizasyonunda siber güvenliğin uygulanmasını sağlar.
+(4) Kuruluş, bir personelin işlemlerinde meydana
+gelen hataların başka bir personel tarafından tespit edilip düzeltilmesini
+temin etmek amacıyla tesis organizasyonunun çeşitli bölümlerine birbirini
+tamamlayıcı görevler ve sorumluluklar tahsis ederek etkin bir görev
+dağılımı sağlar.
+(5) Kuruluş, personelin yetkilerini belgeye dayalı
+uzmanlık seviyelerine göre belirleyip her personele yetkisi doğrultusunda
+sadece görevini ilgilendiren sistemlere erişim hakkını verir ve kontrolünü
+sağlar.
+Yıllık
+rapor ve bilgi sağlama
+MADDE 15-
+(1) Kuruluş, siber güvenlik planı
+uyarınca gerçekleştireceği siber güvenlik uygulamasının bir takvim yılı
+performansına ilişkin bilgileri, takip eden yılın şubat ayının sonuna kadar
+aşağıdaki hususları kapsayacak şekilde rapor hâlinde sunar:
+a) Olası ve tespit edilmiş siber güvenlik
+zafiyetlerini azaltmak veya ortadan kaldırmak için uygulanacak ilave siber
+güvenlik önlemleri ile düzeltici ve önleyici faaliyetlerin listesi ve
+takvimi de dâhil olmak üzere siber güvenlik testleri, iç denetimler,
+değerlendirmeler gibi doğrulama faaliyetlerinin sonuçları.
+b) Siber güvenlik eğitim ve farkındalık
+programlarının sonuçları, programların içeriği, eğitimi veren kişi ve kurum
+bilgisi.
+c) Gelecek yıl için planlanan siber güvenlik eğitim
+ve farkındalık programları ile siber güvenlik
+test ve değerlendirme faaliyetleri ve siber olay tatbikatları.
+(2) Kurumun raporlara ilişkin ilave bilgi ve belge
+talep etmesi durumunda Kuruluş, talep edilen bilgi ve belgeleri Kurum
+tarafından belirlenecek süre içerisinde Kuruma sunar.
+Testler
+MADDE 16-
+(1) Kuruluş, siber güvenlik
+gereklerinin karşılandığından emin olmak amacıyla tedarik edilen mal ve
+hizmetler üzerinde fabrika kabul testleri ve saha kabul testleri de dâhil
+olmak üzere doğrulama ve onaylama testlerini uygular ve sürdürür.
+(2) Kuruluş, periyodik olarak siber güvenlik
+testlerini uygular.
+İç ve dış
+tetkik
+MADDE 17-
+(1) Kuruluş, yılda en az bir kez siber
+güvenlik değerlendirmesi için tetkik yapar veya yaptırır. Tetkike ilişkin
+tarih, kapsam ve içerik tetkikin gerçekleştirilmesinden önce Kuruluş
+tarafından Kuruma bildirilir.
+(2) Kuruluş, tetkikler sonucunda tespit edilen
+eksiklikleri ve bunların giderilmesine yönelik düzeltici ve önleyici
+faaliyet planını tetkikin bitiminden sonra on beş iş günü içerisinde Kuruma
+sunar.
+DÖRDÜNCÜ BÖLÜM
+Çeşitli ve Son Hükümler
+Denetim
+ve yaptırım
+MADDE 18-
+(1) Kuruluşun bu Yönetmelik kapsamındaki
+faaliyetleri Kurumun denetimine tabidir. Denetime ilişkin hususlarda ilgili
+yönetmelikte yer alan hükümler uygulanır.
+(2) İlgili mevzuat veya yetki koşullarına, Kurum
+kararlarına ve talimatlarına aykırı hareket edildiğinin tespit edilmesi
+hâlinde idari yaptırım uygulanır. İdari yaptırımlara ilişkin hususlarda
+ilgili yönetmelikte yer alan hükümler uygulanır.
+Öngörülemeyen
+durumlar
+MADDE 19-
+(1) Bu Yönetmeliğin uygulanmasında
+öngörülmeyen durumların oluşması hâlinde, sürecin nasıl ve hangi koşullarda
+devam edebileceğine Kurum tarafından karar verilir.
+Geçiş
+hükümleri
+GEÇİCİ
+MADDE 1- (1) Bu Yönetmeliğin
+yürürlüğe girdiği tarihten önce yetkilendirilen veya yetkilendirilmek üzere
+Kuruma başvuruda bulunan Kuruluş, bir takvim çerçevesinde bu Yönetmelik
+hükümlerine uyumu sağlayacak olan eylem planını bu Yönetmeliğin yürürlük
+tarihinden itibaren altı ay içerisinde Kuruma sunar ve Kurumun uygun görüşü
+sonrasında uygular. Kuruluş tarafından gerekçelendirilmesi ve gerekçenin
+Kurum tarafından uygun bulunması hâlinde bu süre bir yıla kadar
+uzatılabilir.
+Yürürlük
+MADDE 20-
+(1) Bu Yönetmelik yayımı tarihinde
+yürürlüğe girer.
+Yürütme
+MADDE 21-
+(1) Bu Yönetmelik hükümlerini
+Nükleer Düzenleme Kurumu Başkanı yürütür.
