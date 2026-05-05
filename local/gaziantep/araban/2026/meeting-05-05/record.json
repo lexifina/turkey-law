@@ -1,0 +1,24 @@
+{
+  "number": "meeting-05-05",
+  "number_as_published": "meeting-05-05",
+  "year": 2026,
+  "title": "05.05.2026 ve 07.05.2026 Tarihli 36,37,38,39,40,41 ve 42 Sayılı Meclis Kararları",
+  "decision_date": "2026-05-05",
+  "source": "https://araban.bel.tr/karar/05-05-2026-ve-07-05-2026-tarihli-36-37-38-39-40-41-ve-42-sayili-meclis-kararlari.html",
+  "official_document": "https://araban.bel.tr/uploads/files/2026%20May%C4%B1s%20Ay%C4%B1%20Meclis%20Kararlar%C4%B1.pdf",
+  "source_sha256": "662443c3a26fa3cd70447f2c91b2d85f701ac4bdedc5df90b615438bd3e5b70f",
+  "issuer": "Araban Belediye Meclisi",
+  "history_type": "metadata",
+  "text_status": "metadata-only: listing fields as published; complete decision text is in the linked official document, not transcribed",
+  "in_force": "2026-05-05",
+  "in_force_basis": "Decision date as printed in the official council listing: 05.05.2026; adoption date of the council decision; legal commencement not asserted",
+  "missing": [
+    "complete official decision text",
+    "official annexes"
+  ],
+  "law_text_complete": false,
+  "privacy_withheld": false,
+  "listing_label": "05.05.2026 ve 07.05.2026 Tarihli 36,37,38,39,40,41 ve 42 Sayılı Meclis Kararları",
+  "record_scope": "one official file of council decisions (meeting)",
+  "official_page": "https://araban.bel.tr/karar/05-05-2026-ve-07-05-2026-tarihli-36-37-38-39-40-41-ve-42-sayili-meclis-kararlari.html"
+}
