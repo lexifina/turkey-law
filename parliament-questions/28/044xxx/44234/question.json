@@ -1,0 +1,21 @@
+{
+  "record_type": "parliament-written-question",
+  "term": 28,
+  "legislative_year": 4,
+  "esas_no": "7/44234",
+  "submitted": "2026-05-05",
+  "submitted_as": "Başkanlığa geliş tarihi",
+  "mp": "Seda KÂYA ÖSEN",
+  "province": "İzmir",
+  "summary": "Küre Dağları'nda yer alan sit alanları çevresinde yürütülen madencilik projelerine ilişkin",
+  "status": "Süresi Geçtikten Sonra Cevaplandı",
+  "status_as_of": "2026-11-16",
+  "official_record": "https://www.tbmm.gov.tr/Denetim/Yazili-Soru-Onergesi-Detay/2981aa06-c410-437b-8c77-019dfc7201d6",
+  "source": "https://tbmm.gov.tr/Denetim/YaziliSoruOnergesiTable",
+  "source_form": "https://tbmm.gov.tr/Denetim/Yazili-Soru-Onergeleri",
+  "source_sha256": "f0afe95c4ab0d99861790fc450529699ff63b4e34a18ab08afafd6df17b7e380",
+  "in_force": "2026-05-05",
+  "in_force_basis": "Date the question reached the Speaker (Başkanlığa geliş tarihi) in the official TBMM written-question record; parliamentary oversight record, not law",
+  "history_type": "metadata",
+  "text_status": "metadata-only: question text, addressee and answers are in the linked official record (PDFs on cdn.tbmm.gov.tr); not transcribed here"
+}
