@@ -1,0 +1,5 @@
+Tereke odası veya tereke dolabı
+MADDE 19- (1) Yaşlının vefatı, kuruluşu terk etmesi veya eşyasını unutması hâlinde, tutanak altına alınan kişisel eşyalarının mahkemeye teslim edileceği zamana veya tereke davası sonuçlanıncaya kadar saklandığı, amaca uygun şekilde düzenlenmiş odayı ifade eder.
+(2) Bu oda, gerekli güvenlik önlemleri alınarak korunur ve 24 saat kayıt yapabilen bir güvenlik kamerası ile izlenir. Bu fıkra kapsamındaki güvenlik kamera kayıtları otuz gün süreyle saklanır; adli veya idari soruşturma hâlinde ilgili mercilerin talebi üzerine saklama süresi uzatılabilir.
+(3) Kuruluşta tereke odasına gerek duyulmaması halinde bu ihtiyacı karşılamak için para, mücevher, değerli evrak, kağıt ve eşyalar için emanet kasası, değersiz eşyalar için kilitli dolap kullanılabilir.
+(4) Kuruluşun fiziki kapasitesinin sınırlı olması ve kullanım ihtiyacının düşük olması hâlinde, emanet deposu ile tereke odası aynı mekân içerisinde fiziksel olarak ayrılmış bölümler şeklinde düzenlenebilir. Bu düzenlemede; tereke bölümünün güvenlik ve kamera izleme şartları korunur.

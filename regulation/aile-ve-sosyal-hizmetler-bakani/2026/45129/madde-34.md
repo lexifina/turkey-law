@@ -1,0 +1,11 @@
+Disiplin kurulu
+MADDE 34- (1) Kuruluşta, rehabilitasyon, terapi, mesleki çalışmalar ile vaka tartışma ve değerlendirme süreçlerinde durumu çözümlenemeyen yaşlılarla ilgili disiplin işlemlerini yürütmek üzere; müdür veya vekilinin başkanlığında, sosyal çalışmacı, psikolog, tabip veya sağlık personeli ile yaşlı temsilcisinden oluşan beş kişilik bir disiplin kurulu oluşturulur. Bu ünvanlara sahip personelden birinin bulunmaması durumunda, yerine idare tarafından uygun görülen meslek elemanı görevlendirilebilir.
+(2) Kurula müdür başkanlık eder.
+(3) Kurul, gerekli hâllerde müdürün davetiyle toplanır. Kararlar oy çokluğu ile alınır. Oyların eşit olması halinde, başkanın oy verdiği taraf çoğunluğu sağlamış olur. Karara katılmayan üye/üyeler muhalefet şerhi düşebilir.
+(4) Disiplin kurulunun görevleri şunlardır:
+a) Kuruluşta yaşlılar arasında bireysel hak ve özgürlüklerin korunması amacıyla kuruluş müdürlüğünce belirlenen kurallara uyum sağlayamayan, kuruluşta hizmet alan diğer yaşlılara veya kuruluş personeline sözlü ya da fiili hakarette bulunan, kuruluş hizmetlerinin yürütülmesini güçleştiren, huzur, sükûn ya da çalışma düzenini bozan fiil ve hâlleri işlediği tutanakla tespit edilen yaşlı hakkında bu Yönetmeliğin ilgili disiplin hükümlerinin uygulanabilmesi için gerekli gündemi oluşturmak.
+b) Disiplin süreci başlatılan yaşlıya yedi gün içinde yazılı savunma yapabilmesi için süre tanımak; yaşlının talep etmesi hâlinde sözlü savunmasını almak ve tutanağa bağlamak; savunma için tanınan süre ile süresi içinde savunma yapılmaması durumunda işlemlerin mevcut bilgi ve belgeler üzerinden yürütüleceğini yaşlıya yazılı olarak bildirmek.
+c) Mevcut durum ve olayla ilgili gerekli görülmesi hâlinde personel ve/veya diğer yaşlıların görüşüne başvurmak ve varsa kamera kayıtlarını incelemek.
+ç) Yaşlı hakkında hazırlanan durum değerlendirme raporu ile vaka tanıtma ve değerlendirme raporunu incelemek.
+d) Raporlar, bilgi ve belgeler ile yaşlıdan alınan savunma doğrultusunda oluşturulan olay dosyasını değerlendirerek disiplin sürecini karara bağlamak.
+(5) Toplantıda alınan kararlar raportör tarafından tutanağa bağlanarak kurul üyeleri tarafından imzalanır ve yaşlının dosyasında muhafaza edilmek üzere ilgili sosyal servis görevlisine tebliğ edilir.

@@ -1,0 +1,5 @@
+Geçiş hükmü
+GEÇİCİ MADDE 1- (1) Bu Yönetmeliğin yayımı tarihinden önce kurum bakımı hizmeti alan, kurum bakımından yararlanmak için başvuruda bulunan ve kurum bakımına alınmak üzere sırada bekleyen yaşlılar için 70 yaşını doldurmuş olma veya 60 yaşını doldurmuş olup kısmi veya tam bağımlı olma şartı aranmaz.
+(2) Devir, takas, trampa, tahsis, bağış ve benzeri sebeplerle devredilen hizmet binaları ile bu Yönetmeliğin yayımı tarihinden önce yapımına başlanan veya yapımı tamamlanan hizmet binalarının kullanımında Bu Yönetmelikte kuruluş için düzenlenen fiziki şartlar aranmaz.
+(3) Bu Yönetmeliğin yayımı tarihinde 92 nci maddeyle yürürlükten kaldırılan Huzurevleri ile Huzurevi Yaşlı Bakım ve Rehabilitasyon Merkezleri Yönetmeliğinin 62 nci maddesinin ikinci fıkrasının (c) bendi kapsamında kuruluştan hizmet alanlar aynı kapsamda hizmet almaya devam ederler.
+(4) 3/6/2011 tarihli ve 633 sayılı Sosyal Hizmetler Alanında Bazı Düzenlemeler Hakkında Kanun Hükmünde Kararnamenin mülga geçici 10 uncu maddesi kapsamında Bakanlığa devredilen kuruluşlar hakkında bu Yönetmelik hükümleri uygulanır.

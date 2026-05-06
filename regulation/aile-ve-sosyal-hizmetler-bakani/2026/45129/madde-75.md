@@ -1,0 +1,8 @@
+Yaşlıların para, mücevher ve değerli kâğıtlarının güvencesi
+MADDE 75- (1) Yaşlıların tasarruf ve değerli eşyalarının güvencesi aşağıda belirtilen esaslar uyarınca sağlanır:
+a) Yaşlıların para, mücevher ve değerli kâğıtları, müdür yardımcısı, sosyal servis görevlisi, ayniyat saymanı ya da mutemet arasından seçilecek üç görevlinin huzurunda tespit yapılıp iki nüshalı tutanak düzenlenerek müdürün onayına sunulur. Yaşlının mücevher, altın, değerli kağıt ve paralarının komisyon tarafından teslim alınabilmesi için orijinalliğe dair kanıtlayıcı belge olması zorunludur. Tutanağın biri yaşlıya verilir, diğeri de sosyal servisteki dosyasında saklanır. Bu tür emanetler emanet kasasında saklanır.
+b) Emanet kasa, müdürün odasında sosyal servisin ve sosyal servisten sorumlu müdür yardımcısının kontrolünde muhafaza edilir.
+c) Yaşlının emanetteki para miktarının, bu Yönetmelikte belirlenen kasada tutulabilecek üst sınırdan bağımsız olarak, en düşük Devlet memuru maaşını aşması durumunda, müdürün görevlendireceği iki kişi tarafından bir kamu bankasında yaşlının adına hesap açtırılır.
+ç) Yaşlıların tasarruflarının bankada saklanmasına ilişkin kuruluş müdürlüğünce en yakın kamu bankası şubesi ile protokol yapılması durumunda, ilgili şube görevlisince ödeme kuruluşta yaşlıya bizzat yapılır.
+d) Yaşlının ihtiyacı için memur maaş taban aylığı katsayısının 5.000 sayısı ile çarpılması sonucu ortaya çıkan tutardan fazla para kasada tutulmaz. Bu tutarı aşan miktarlar, yaşlının adına açılmış banka hesabında tutulur.
+e) Acil durumlar dışında emanet kasaya para yatırmak veya çekmek için kuruluş tarafından haftanın bir günü belirlenir.

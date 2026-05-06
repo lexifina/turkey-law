@@ -1,0 +1,6 @@
+Kuruluş bölüm ve birimleri
+MADDE 6- (1) Kuruluşun bölüm ve birimleri, yaşlıların güncel ihtiyaçları, hizmet türü ve bu Yönetmelikte belirtilen genel esaslar doğrultusunda Bakanlık tarafından hazırlanacak ihtiyaç programına göre belirlenir. Kuruluşta yaşlı odaları, yaşlı mutfağı, kat banyosu, kat tuvaleti, çamaşır ve ütü odası, kuruluş mutfağı, yemekhane, çamaşırhane, sağlık ünitesi, gözlem odası, emanet deposu, tereke odası ve yaşlıya yönelik diğer bölüm ve birimlerin oluşturulmasına özen gösterilir. Bu bölüm ve birimler; kuruluşun kapasitesi, yaşlıların ihtiyaçları ve binanın fiziksel koşulları ve personel durumu da dikkate alınarak kurulabilir, kaldırılabilir veya birleştirilebilir. Özellikle düşük kapasiteli kuruluşlarda hizmet binasının verimli ve etkin şekilde kullanılmasına dikkat edilir.
+(2) Kuruluşta;
+a) 27/11/2007 tarihli ve 2007/12937 sayılı Bakanlar Kurulu Kararı ile yürürlüğe konulan Binaların Yangından Korunması Hakkında Yönetmelik hükümlerine uygun yangın merdiveni, yangın algılama ve alarm sistemi bulundurulur.
+b) 18/3/2018 tarihli ve 30364 mükerrer sayılı Resmî Gazete’de yayımlanan Türkiye Bina Deprem Yönetmeliği hükümlerine uygun yapısal ve yapısal olmayan deprem güvenliği tedbirleri alınır.
+c) 25/8/1988 tarihli ve 19910 sayılı Resmî Gazete’de yayımlanan Sığınak Yönetmeliği hükümlerine uygun sığınak bulundurulur.

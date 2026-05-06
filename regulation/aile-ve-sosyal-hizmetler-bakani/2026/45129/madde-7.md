@@ -1,0 +1,10 @@
+Yaşlı odaları
+MADDE 7- (1) Tüm odalar, erişilebilirlik standartlarına uygun şekilde düzenlenir.
+(2) Huzurevi odaları, yaşlıların sağlık durumu dikkate alınarak ev ortamı oluşturacak şekilde düzenlenir. Odalarda kalacak yaşlı sayısı kadar yatak, komodin, gardırop, sandalye, koltuk ve benzeri eşya bulundurulur.
+(3) Huzurevi ve rehabilitasyon merkezlerinin odalarında yaşlıların kolaylıkla ulaşabileceği mesafede çağrı bulunur.
+(4) Huzurevi ve rehabilitasyon merkezlerindeki yaşlı odalarında banyo ve tuvalet bulunması esastır; ancak binanın mevcut fiziki koşulları nedeniyle mümkün olmaması hâlinde kat banyosu ve kat tuvaleti düzenlemesi yapılabilir. Odalarda bulunan banyo ve tuvaletlerin kolay temizlenebilir malzemeden yapılması, zeminlerinin kaydırmaz özellikte malzeme ile kaplanması gerekir. Banyo ve tuvaletlerde yatay ve düşey tutunma barları bulunmalı; sifonlar yaşlıların kolayca kullanabileceği özellikte olmalı; yaşlı ergonomisine uygun yükseklikte lavabo yer almalı ve ayna, sabunluk ile havluluk sabit şekilde monte edilmelidir.
+(5) Rehabilitasyon odaları, yaşlıların sağlık durumu dikkate alınarak düzenlenir. Odalarda; kalacak yaşlının ihtiyacına göre yatak, hasta başı komodin, gardırop, sandalye ve hasta önü yemek masası bulundurulur. İki veya daha fazla yaşlının kaldığı odalarda yataklar arasında mahremiyet perdesi bulunur.
+(6) Oda donanımlarının temizlenebilir nitelikte malzemeden olmasına dikkat edilir. İmkanlar ölçüsünde zemin, anti-statik ve anti-bakteriyel malzeme ile döşenir.
+(7) Tüm odaların giriş, banyo ve tuvalet kapılarının, erişilebilirlik standartlarına uygun olarak tekerlekli sandalye ve sedyelerin rahat hareket edebileceği genişlikte olması gerekir. Deprem anında devrilerek yaşlılara zarar verebilecek veya kaçış yollarını kapatabilecek eşyaların duvara veya zemine sabitlenmesi için yapısal olmayan tehlikelerin azaltılması kapsamında düzenleme yapılır.
+(8) Tüm odaların giriş kısımlarında fotoselli aydınlatma bulunur.
+(9) Tüm yataklarda sıvı geçirmez alez kullanılması zorunludur.
