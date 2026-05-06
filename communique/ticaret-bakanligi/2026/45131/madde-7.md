@@ -1,0 +1,4 @@
+Karar ve işlemler
+MADDE 7- (1) Yapılan incelemeler sonucunda İthalatta Haksız Rekabeti Değerlendirme Kurulunca Kosova menşeli/çıkışlı GTİP’leri Ek-1’de yer alan 54.07 GTP altında kayıtlı “sentetik filament iplikten dokunmuş mensucat (giyim için olanlar)” ithalatına ilişkin olarak Yönetmeliğin 38 inci maddesi çerçevesinde önlemlerin etkisiz kılınmasına karşı soruşturma açılmasına karar verilmiştir.
+(2) İthalatta Haksız Rekabeti Değerlendirme Kurulunca, Kararın 11 inci maddesi çerçevesinde, Kosova menşeli/çıkışlı GTİP’leri Ek-1’de yer alan 54.07 GTP altında kayıtlı “sentetik filament iplikten dokunmuş mensucat (giyim için olanlar)” ithalatının İthalatta Haksız Rekabetin Önlenmesine İlişkin Tebliğ (Tebliğ No: 2021/3) çerçevesinde ÇHC menşeli ithalatta uygulanan dampinge karşı önlem tutarında teminata bağlanmasına karar verilmiştir.
+(3) Soruşturma, Genel Müdürlük tarafından yürütülecektir.
