@@ -1,0 +1,21 @@
+{
+  "record_type": "parliament-written-question",
+  "term": 28,
+  "legislative_year": 4,
+  "esas_no": "7/44307",
+  "submitted": "2026-05-06",
+  "submitted_as": "Başkanlığa geliş tarihi",
+  "mp": "Reşat KARAGÖZ",
+  "province": "Amasya",
+  "summary": "Amasya'nın Suluova ilçesindeki İlk Evim, İlk Arsam Projesi'nde yaşanan bazı sorunlara ilişkin",
+  "status": "Cevaplanmadığı Gelen Kağıtlarda İlan Edildi",
+  "status_as_of": "2026-11-16",
+  "official_record": "https://www.tbmm.gov.tr/Denetim/Yazili-Soru-Onergesi-Detay/6382f914-a6bc-489a-9ea5-019e0246663d",
+  "source": "https://tbmm.gov.tr/Denetim/YaziliSoruOnergesiTable",
+  "source_form": "https://tbmm.gov.tr/Denetim/Yazili-Soru-Onergeleri",
+  "source_sha256": "44117859e96b91b62370f6f7fa4172d792b115c07b27c531335113f5555218bf",
+  "in_force": "2026-05-06",
+  "in_force_basis": "Date the question reached the Speaker (Başkanlığa geliş tarihi) in the official TBMM written-question record; parliamentary oversight record, not law",
+  "history_type": "metadata",
+  "text_status": "metadata-only: question text, addressee and answers are in the linked official record (PDFs on cdn.tbmm.gov.tr); not transcribed here"
+}
