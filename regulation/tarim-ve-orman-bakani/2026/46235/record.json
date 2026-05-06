@@ -1,0 +1,34 @@
+{
+  "source_id": "7.5.46235",
+  "kind": "regulation",
+  "register_kind": "Kurum ve Kuruluş Yönetmelikleri",
+  "title": "BİTKİ KARANTİNASI YÖNETMELİĞİ",
+  "number": "46235",
+  "issuer": "Tarım ve Orman Bakanı",
+  "issuer_slug": "tarim-ve-orman-bakani",
+  "path": "regulation/tarim-ve-orman-bakani/2026/46235",
+  "source": "https://www.mevzuat.gov.tr/anasayfa/MevzuatFihristDetayIframe?MevzuatTur=7&MevzuatNo=46235&MevzuatTertip=5",
+  "source_sha256": "722c1dfd87df866cb446620d0bd7a278d1cebcdca6d9369e4e0b0016971ec7b7",
+  "source_bytes": 177158,
+  "published": "2026-05-06",
+  "gazette": "33245",
+  "in_force": "2026-05-06",
+  "in_force_basis": "Resmî Gazete publication date in the official listing (06.05.2026); own commencement article: \"Bu Yönetmelik yayımı tarihinden doksan gün sonra yürürlüğe girer\"",
+  "commencement_clauses": [
+    "Bu Yönetmelik yayımı tarihinden doksan gün sonra yürürlüğe girer"
+  ],
+  "history": "current-text",
+  "label": "oldest version available",
+  "checked_on": "2026-11-15",
+  "word_count": 12323,
+  "text_status": "current-consolidated",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  },
+  "source_links": [
+    "7.5.46235-EK.doc"
+  ],
+  "completeness": "html-text-complete; linked annexes not fetched"
+}

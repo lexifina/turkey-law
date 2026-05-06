@@ -1,0 +1,4 @@
+Bilimsel materyal ile zararlı organizmaların ülkeye girişi ve/veya ülke içinde dolaşımı
+MADDE 18- (1) Bu Yönetmeliğin eklerinde yer alan listelerde bulunan veya bulunmayan organizmalar ile bitki, bitkisel ürün ve diğer maddelerin bilimsel çalışma, deneme ve çeşit ıslahı amacıyla ülkeye girişi ve/veya ülke içinde dolaşımı, Bakanlık ile belirlenir.
+(2) Bilimsel çalışma, deneme ve çeşit ıslahı amacıyla açık alanda gerçekleştirilecek faaliyetler için giriş yapacak tohumluklar, birinci fıkra kapsamında yer almaz.
+(3) Birinci fıkra kapsamında Bakanlıkça yayımlanacak tebliğ dışında kalan, ülkemizde varlığı tespit edilmiş zararlı organizmaların girişi, Bakanlığın belirleyeceği esaslar dahilinde yapılır. EK-1’de yer almayan, ülkemizde varlığı tespit edilmemiş zararlı organizmaların girişi için Bakanlıkça zararlı risk analizi yapılır. Zararlı risk analizinin değerlendirilmesi sonucunda Bakanlığın belirleyeceği esaslar dahilinde işlemler yürütülür.

@@ -1,0 +1,3 @@
+Yüksek riskli bitkiler, bitki ürünleri ve diğer maddelerin girişine ilişkin kısıtlamalar
+MADDE 15- (1) Bakanlıkça hazırlanan yüksek riskli bitki, bitkisel ürün ve diğer maddeler listesinde yer alan ürünler için Bakanlıkça kurulacak komisyon tarafından risk değerlendirmesi yapılır. Risk değerlendirmesi sürecinde uygulanacak kurallar ve bu Yönetmelik kapsamındaki konularla ilgili yürütülecek işlemler, Bakanlıkça hazırlanan talimatla belirlenir.
+(2) Yüksek riskli bitki, bitkisel ürün ve diğer maddeler ile ilgili risk değerlendirme süreci sonunda tespit edilen riskler ve alınması gereken bitki sağlığı önlemleri, Bakanlıkça belirlenir ve ülkelere bildirilir.
