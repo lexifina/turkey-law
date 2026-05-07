@@ -1,0 +1,27 @@
+{
+  "number": "65",
+  "number_as_published": "Meclis Kararları 07.05.2026-65",
+  "year": 2026,
+  "title": "council decision",
+  "decision_date": "2026-05-07",
+  "source": "https://www.tuzla.bel.tr/api/public/kurumsal/meclis-encumen/meclis-kararlari?page=1&limit=100",
+  "official_document": "https://www.tuzla.bel.tr/uploads/documents/meclis-kararlari/2026065_BB_Hibe_Yard_m__1779101999518_wpmdtadz4o.pdf",
+  "source_sha256": "92fdb2665d79ab4a96b25ee2a5f6283dd5988725356717a6c9826c7247c843e3",
+  "issuer": "Tuzla Belediye Meclisi",
+  "history_type": "metadata",
+  "text_status": "metadata-only: subject appears to concern individual persons; official link only",
+  "in_force": "2026-05-07",
+  "in_force_basis": "Decision date as printed in the official council listing: Meclis Kararları 07.05.2026-65 (official title); adoption date of the council decision; legal commencement not asserted",
+  "missing": [
+    "complete official decision text",
+    "official annexes"
+  ],
+  "law_text_complete": false,
+  "privacy_withheld": true,
+  "listing_page": "https://www.tuzla.bel.tr/kurumsal/meclis-encumen/meclis-kararlari",
+  "official_documents": [
+    "https://www.tuzla.bel.tr/uploads/documents/meclis-kararlari/2026065_BB_Hibe_Yard_m__1779101999518_wpmdtadz4o.pdf"
+  ],
+  "record_scope": "one council decision",
+  "official_page": "https://www.tuzla.bel.tr/kurumsal/meclis-encumen/meclis-kararlari/meclis-kararlari-07052026-65-2026-05-18"
+}
