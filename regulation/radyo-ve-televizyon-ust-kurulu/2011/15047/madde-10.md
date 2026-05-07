@@ -1,0 +1,6 @@
+Uydu yayın lisansının iptali, idari ve adli yaptırımlar
+MADDE 10 – (1) Yayın lisansı verilmesi için Kanunda aranan şartlardan birinin kaybedilmesi (Ek ibare:RG-13/1/2024-32428) ile Kanunun 6 ncı maddesinin beşinci fıkrasında düzenlenen yükümlülüklerin yerine getirilmemesi halinde, ilgili medya hizmet sağlayıcı kuruluşa gerekli şartları yerine getirmesi için otuz günlük süre verilir. Verilen süreye rağmen istenen şartları yerine getirmeyen kuruluşun yayınları üç ay süreyle durdurulur. Bu süre zarfında şartın yerine getirilmemesi halinde ise, ilgili kuruluşun uydu yayın lisansı iptal edilir.
+(2) Uydu yayın lisansının verilmesi için gerekli şartlara uygunluğunu hile ile elde ettiği tespit edilen kuruluşun uydu yayın lisansı iptal edilir.
+(3) Mücbir sebeplerle veya Üst Kurulca kabul edilecek nedenlerle uydudan yayın hizmetini yerine getiremeyen kuruluşların talepleri halinde uydu yayın lisansı iptal edilir.
+(4) Uydu yayın lisansı olmadan veya iptal edilmesine rağmen yayınlarına devam eden kuruluşlar hakkında, Kanunun 33 üncü maddesi hükmü uygulanır.
+(5) Uydu yayın lisansı olmasına rağmen, lisans tipi dışında yayın yapan ve izinsiz karasal verici tesis eden medya hizmet sağlayıcılar Üst Kurulca uyarılır, yapılan uyarıya rağmen izinsiz yayına devam edenler hakkında, Kanunun 33 üncü maddesi hükmü uygulanır.

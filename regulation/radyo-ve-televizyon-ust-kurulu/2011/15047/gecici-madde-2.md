@@ -1,0 +1,4 @@
+Kazanılmış haklar
+GEÇİCİ MADDE 2 – (1) Kanunun yürürlüğe girdiği tarihten önce uydu ortamından yayın yapmak üzere yayın lisansı almış olan kuruluşların hakları beş yıllık lisans süresi sonuna kadar geçerlidir. Uydu yayın lisans süresinin sona ermesini müteakip, uydu yayın lisansının yenilenmesi 9 uncu madde hükmü çerçevesinde yapılır.
+(2) Bu Yönetmeliğin yayımı tarihinden önce 2011 yılı için Uydu Platform İşletmecilerinden alınan ücret 2011 yılı yayın iletim yetkilendirme ücretinden mahsup edilir.
+(3) Bu Yönetmeliğin yayımı tarihinden önce uydu ortamından yayın yapmak üzere uydu yayın lisansı almış olup Kanunun yürürlüğe girdiği tarihten bu Yönetmeliğin yayımlandığı tarihe kadar olan süre içerisinde, uydu yayın lisansı sona eren kuruluşların, Üst Kurula talepte bulunmuş olmaları ve Üst Kurula karşı yükümlülüklerini yerine getirmeleri kaydıyla, lisans süresinin sona erdiği tarihten geçerli olmak üzere uydu yayın lisansları 9 uncu madde hükmü çerçevesinde yenilenir.

@@ -1,0 +1,4 @@
+Farklı yayın tekniği ile yayın yapılması
+GEÇİCİ MADDE 3 –(Ek:RG-26/6/2015-29398)
+(1) Bu maddenin yürürlüğe girdiği tarihte uydu yayın lisansı (U-TV) olan ve sadece bir yayın tekniğiyle yayın yapan kuruluşlar, yayın tekniğini bir ay içerisinde Üst Kurula bildirmek zorunda olup, lisans belgeleri Üst Kurulca buna göre düzenlenir.
+(2) Bu maddenin yürürlüğe girdiği tarihte, uydu yayın lisansı (U-TV) olan ve farklı iki yayın tekniğiyle yayın yapan kuruluşların mevcut lisansları U-TV SD olarak düzenlenir ve kuruluşlar diğer yayın tekniği için bu Yönetmeliğin 7 nci maddesine göre ikinci yayın lisansı almak üzere bir ay içerisinde Üst Kurula başvurmak zorundadır. Belirtilen sürede başvuran kuruluşlara, ikinci lisans belgesi verilir. Belirtilen sürede Üst Kurula başvurmayan kuruluşların farklı yayın tekniği ile iletilen ikinci yayınları durdurulur.
