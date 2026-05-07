@@ -1,0 +1,24 @@
+{
+  "number": "meeting-05-07",
+  "number_as_published": "meeting-05-07",
+  "year": 2026,
+  "title": "07 MAYIS 2026 AYI 2.BİRLEŞİM MECLİS KARAR ÖZETİ.",
+  "decision_date": "2026-05-07",
+  "source": "https://www.beykoy.bel.tr/karar/07-mayis-2026-ayi-2-birlesim-meclis-karar-ozeti",
+  "official_document": "https://www.beykoy.bel.tr/tema/genel/uploads/meclis_kararlari/dosya/MAYIS-2.BİRLEŞİM-WEB_1.docx",
+  "source_sha256": "e5a2672296c54a0a1592942e022098eb91ca09f44db97645fe205ae350dbcb92",
+  "issuer": "Beyköy Belediye Meclisi",
+  "history_type": "metadata",
+  "text_status": "metadata-only: listing fields as published; complete decision text is in the linked official document, not transcribed",
+  "in_force": "2026-05-07",
+  "in_force_basis": "Decision date as printed in the official council listing: 07 MAYIS 2026; adoption date of the council decision; legal commencement not asserted",
+  "missing": [
+    "complete official decision text",
+    "official annexes"
+  ],
+  "law_text_complete": false,
+  "privacy_withheld": false,
+  "listing_label": "07 MAYIS 2026 AYI 2.BİRLEŞİM MECLİS KARAR ÖZETİ.",
+  "record_scope": "one official file of council decisions (meeting)",
+  "official_page": "https://www.beykoy.bel.tr/karar/07-mayis-2026-ayi-2-birlesim-meclis-karar-ozeti"
+}
