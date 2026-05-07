@@ -1,0 +1,28 @@
+{
+  "number": "254",
+  "number_as_published": "254",
+  "year": 2026,
+  "title": "Belediyemizce vatandaşlardan gelen talepler doğrultusunda haşere ve larva oluşumuna karşı yapılan çalışmalara ilişkin, Meclis Kararı",
+  "decision_date": "2026-05-07",
+  "source": "https://www.mamak.bel.tr/gundem/GetKararlar",
+  "official_document": "https://www.mamak.bel.tr/gundem/DosyaDownload?guid=d716b96e-bd23-4111-9746-b0c6bc901234",
+  "source_sha256": "f554089df68731558a37947c976f196303cdbdc5704c52cb6912834ca94730d3",
+  "issuer": "Mamak Belediye Meclisi",
+  "history_type": "metadata",
+  "text_status": "metadata-only: listing fields as published; complete decision text is in the linked official document, not transcribed",
+  "in_force": "2026-05-07",
+  "in_force_basis": "Decision date as printed in the official council listing: 2026-05-07T00:00:00 (kararTarihi of the official register); adoption date of the council decision; legal commencement not asserted",
+  "missing": [
+    "complete official decision text",
+    "official annexes"
+  ],
+  "law_text_complete": false,
+  "privacy_withheld": false,
+  "listing_page": "https://www.mamak.bel.tr/gundem/kararlar",
+  "register_api": "https://www.mamak.bel.tr/gundem/GetKararlar",
+  "official_documents": [
+    "https://www.mamak.bel.tr/gundem/DosyaDownload?guid=d716b96e-bd23-4111-9746-b0c6bc901234",
+    "https://www.mamak.bel.tr/gundem/DosyaDownload?guid=ad6ee753-ea92-4e47-aed7-05233f1bbc4e",
+    "https://www.mamak.bel.tr/gundem/DosyaDownload?guid=75510313-d056-40b3-b9c5-bb4b16651f72"
+  ]
+}
