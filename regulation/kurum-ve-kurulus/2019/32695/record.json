@@ -1,0 +1,79 @@
+{
+  "source_id": "7.5.32695",
+  "kind": "regulation",
+  "register_kind": "Kurum ve Kuruluş Yönetmelikleri",
+  "title": "RADYO, TELEVİZYON VE İSTEĞE BAĞLI YAYINLARIN İNTERNET ORTAMINDAN SUNUMU HAKKINDA YÖNETMELİK",
+  "number": "32695",
+  "issuer_slug": "kurum-ve-kurulus",
+  "path": "regulation/kurum-ve-kurulus/2019/32695",
+  "source": "https://www.mevzuat.gov.tr/anasayfa/MevzuatFihristDetayIframe?MevzuatTur=7&MevzuatNo=32695&MevzuatTertip=5",
+  "source_sha256": "3cdb2d6dce295da359181ba2af442ee1c6b390065796578a783a4e6ea29df475",
+  "source_bytes": 94259,
+  "published": "2019-08-01",
+  "gazette": "30849",
+  "in_force": "2026-05-07",
+  "in_force_basis": "latest Resmî Gazete date printed in the source amendment notes/table (\"RG-7/5/2026\") for the current consolidated text",
+  "date_evidence": [
+    [
+      "2026-05-07",
+      "RG-7/5/2026",
+      "Resmî Gazete date printed in the source amendment note"
+    ],
+    [
+      "2026-05-07",
+      "7/5/2026",
+      "Resmî Gazete date in the source amendment table"
+    ],
+    [
+      "2024-06-05",
+      "RG-5/6/2024",
+      "Resmî Gazete date printed in the source amendment note"
+    ],
+    [
+      "2024-06-05",
+      "5/6/2024",
+      "Resmî Gazete date in the source amendment table"
+    ],
+    [
+      "2024-01-13",
+      "RG-13/1/2024",
+      "Resmî Gazete date printed in the source amendment note"
+    ],
+    [
+      "2024-01-13",
+      "13/1/2024",
+      "Resmî Gazete date in the source amendment table"
+    ],
+    [
+      "2021-05-18",
+      "RG-18/5/2021",
+      "Resmî Gazete date printed in the source amendment note"
+    ],
+    [
+      "2021-05-18",
+      "18/5/2021",
+      "Resmî Gazete date in the source amendment table"
+    ],
+    [
+      "2021-04-10",
+      "RG-10/4/2021",
+      "Resmî Gazete date printed in the source amendment note"
+    ],
+    [
+      "2021-04-10",
+      "10/4/2021",
+      "Resmî Gazete date in the source amendment table"
+    ]
+  ],
+  "history": "current-text",
+  "label": "oldest version available",
+  "checked_on": "2026-11-15",
+  "word_count": 5746,
+  "text_status": "current-consolidated",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  },
+  "completeness": "html-text-complete"
+}
