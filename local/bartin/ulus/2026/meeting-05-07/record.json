@@ -1,0 +1,24 @@
+{
+  "number": "meeting-05-07",
+  "number_as_published": "meeting-05-07",
+  "year": 2026,
+  "title": "2026 Yılı Mayıs Ayı Meclis Karar Özetleri 07 Mayıs 2026 10:00",
+  "decision_date": "2026-05-07",
+  "source": "https://www.ulus.bel.tr/karar/2026-yili-mayis-ayi-meclis-karar-ozetleri/111/",
+  "official_document": "https://www.ulus.bel.tr/dosya/meclis/dosyalar/meclis-karar-ozetleri12.pdf",
+  "source_sha256": "196f9e7da726587a8f04031a45cc804b8e8b75552495d47f63534d503612b91c",
+  "issuer": "Ulus Belediye Meclisi",
+  "history_type": "metadata",
+  "text_status": "metadata-only: listing fields as published; complete decision text is in the linked official document, not transcribed",
+  "in_force": "2026-05-07",
+  "in_force_basis": "Decision date as printed in the official council listing: 07 MAYIS 2026; adoption date of the council decision; legal commencement not asserted",
+  "missing": [
+    "complete official decision text",
+    "official annexes"
+  ],
+  "law_text_complete": false,
+  "privacy_withheld": false,
+  "listing_label": "2026 Yılı Mayıs Ayı Meclis Karar Özetleri 07 Mayıs 2026 10:00",
+  "record_scope": "one official file of council decisions (meeting)",
+  "official_page": "https://www.ulus.bel.tr/karar/2026-yili-mayis-ayi-meclis-karar-ozetleri/111/"
+}
