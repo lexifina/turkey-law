@@ -1,0 +1,21 @@
+{
+  "record_type": "parliament-written-question",
+  "term": 28,
+  "legislative_year": 4,
+  "esas_no": "7/44566",
+  "submitted": "2026-05-07",
+  "submitted_as": "Başkanlığa geliş tarihi",
+  "mp": "Sevda ERDAN KILIÇ",
+  "province": "İzmir",
+  "summary": "TRT'nin radyo kanalının yayın politikasına ilişkin",
+  "status": "Süresi Geçtikten Sonra Cevaplandı",
+  "status_as_of": "2026-11-16",
+  "official_record": "https://www.tbmm.gov.tr/Denetim/Yazili-Soru-Onergesi-Detay/441a96cf-94c4-46f9-96dc-019e07aacd36",
+  "source": "https://tbmm.gov.tr/Denetim/YaziliSoruOnergesiTable",
+  "source_form": "https://tbmm.gov.tr/Denetim/Yazili-Soru-Onergeleri",
+  "source_sha256": "d3ecd7f3861d0fc1d4f330ae049acfd93b22e4ddfdd3ef89dff9c8cf09bd41ac",
+  "in_force": "2026-05-07",
+  "in_force_basis": "Date the question reached the Speaker (Başkanlığa geliş tarihi) in the official TBMM written-question record; parliamentary oversight record, not law",
+  "history_type": "metadata",
+  "text_status": "metadata-only: question text, addressee and answers are in the linked official record (PDFs on cdn.tbmm.gov.tr); not transcribed here"
+}
