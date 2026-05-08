@@ -1,0 +1,23 @@
+{
+  "number": "36",
+  "number_as_published": "36",
+  "year": 2026,
+  "title": "İstanbul Büyükşehir Belediye Meclisi kararı doğrultusunda Belediye Başkanlığımıza şartlı hibe yapılması",
+  "decision_date": "2026-05-08",
+  "source": "https://www.bakirkoy.bel.tr/meclis-kararlari/3",
+  "official_document": "https://www.bakirkoy.bel.tr/storage/app/media/MECL%C4%B0S%202026/36-fen-isleri-mudurlugu-istanbul-buyuksehir-belediye-meclisi-karari-dogrultusunda-belediye-baskanligimiza-sartli-hibe-yapilmasi-08052026.pdf",
+  "source_sha256": "f63aae9a724ed8165f00f9c5308bc09e5fcd1d73be160d270de19939af45c780",
+  "issuer": "Bakırköy Belediye Meclisi",
+  "history_type": "metadata",
+  "text_status": "metadata-only: listing fields as published; complete decision text is in the linked official document, not transcribed",
+  "in_force": "2026-05-08",
+  "in_force_basis": "Decision date as printed in the official council listing: 08 Mayıs 2026 (Tarih column of the official list); adoption date of the council decision; legal commencement not asserted",
+  "missing": [
+    "complete official decision text",
+    "official annexes"
+  ],
+  "law_text_complete": false,
+  "privacy_withheld": false,
+  "record_scope": "one council decision (number, date and summary as listed; the decision is the linked official PDF)",
+  "official_page": "https://www.bakirkoy.bel.tr/meclis-kararlari"
+}
