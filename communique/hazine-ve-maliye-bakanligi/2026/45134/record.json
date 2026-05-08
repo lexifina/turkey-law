@@ -1,0 +1,36 @@
+{
+  "checked_on": "2026-11-13",
+  "date_gazette": "33247",
+  "date_quote": "08.05.2026",
+  "first_law": null,
+  "gazette": "33247",
+  "history": "current-text",
+  "images": {
+    "deferred": 0,
+    "omitted": 0,
+    "referenced": 0,
+    "source": 0
+  },
+  "in_force": "2026-05-08",
+  "in_force_basis": "original Resmi Gazete publication date supplied by the official listing",
+  "issuer": "Hazine ve Maliye Bakanlığı",
+  "issuer_catalog_evidence": [
+    {
+      "evidence": "issuer-578-0.json",
+      "id": "578",
+      "label": "Hazine ve Maliye Bakanlığı",
+      "listing_url": "https://www.mevzuat.gov.tr/Anasayfa/MevzuatDatatable?MevzuatTur=Teblig&KurumId=578&start=0&length=100"
+    }
+  ],
+  "issuer_slug": "hazine-ve-maliye-bakanligi",
+  "kind": "communique",
+  "label": "oldest version available",
+  "notes": [],
+  "published": "2026-05-08",
+  "source": "https://www.mevzuat.gov.tr/anasayfa/MevzuatFihristDetayIframe?MevzuatTur=9&MevzuatNo=45134&MevzuatTertip=5",
+  "source_bytes": 39208,
+  "source_id": "9.5.45134",
+  "source_sha256": "a5a6a09f6fc9381cc00a935101f72715840fb0be00bdf82f3c0689f66705d4f1",
+  "title": "VERGİ USUL KANUNU GENEL TEBLİĞİ (SIRA NO: 593)",
+  "word_count": 1315
+}
