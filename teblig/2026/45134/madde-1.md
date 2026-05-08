@@ -1,0 +1,2 @@
+Giriş ve konu
+MADDE 1- (1) Kayıtlı ekonominin desteklenmesi, elektronik belge uygulamalarının yaygınlaştırılması, iş süreçlerinin kolaylaştırılması, düzenlenmesi zorunlu olan elektronik belgelerin tahsilat bilgilerini içerecek şekilde bütünleşik olarak düzenlenmesi ile vergiye uyum düzeyinin artırılması amacıyla yeni nesil ödeme kaydedici cihazlardan elektronik belgelerin düzenlenebilmesine ilişkin usul ve esasların belirlenmesi bu Tebliğin konusunu oluşturmaktadır.
