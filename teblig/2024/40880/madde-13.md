@@ -1,0 +1,4 @@
+Revizyon
+MADDE 13- (Değişik:RG-8/5/2026-33247)
+(1) Program kapsamında düzenlenmiş olan Yatırım Teşvik Belgesine yönelik revizyon talepleri E-TUYS üzerinden yapılır ve sistem aracılığıyla program portaline aktarılır. Genel Müdürlük tarafından yatırımcının belirlemiş olduğu proje hedefleri ile bu hedeflere ulaşmak için gerçekleştirmeyi öngördüğü yeşil dönüşüm uygulamalarına etki edecek mahiyette olmadığı değerlendirilen revizyon talepleri Karar hükümleri doğrultusunda işlem yapmak üzere TUYSGM’ye iletilir.
+(2) Proje hedefleri ve yeşil dönüşüm uygulamalarına etki edecek mahiyette olduğu değerlendirilen revizyon taleplerine ilişkin olarak Genel Müdürlükçe belirlenen değerlendiriciden görüş alınır. Değerlendirici, revizyon taleplerine ilişkin görüşlerini Genel Müdürlük tarafından kendisine verilen süre içerisinde program portali üzerinden iletir.

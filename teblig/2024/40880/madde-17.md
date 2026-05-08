@@ -1,0 +1,2 @@
+Gizlilik
+MADDE 17- (1) Program sürecinde görev alan kişiler, kurum ve kuruluşlar, görevlerini yerine getirmeleri sırasında edindikleri, kamuya, ilgililere ve üçüncü kişilere ait gizlilik taşıyan bilgileri, kişisel verileri, ticarî sırları ve bunlara ait belgeleri, bu konuda ilgili mevzuat hükümleri çerçevesinde yetkili kılınan mercilerden başkasına açıklayamaz, kendilerinin veya üçüncü kişilerin yararına kullanamaz. Bu yükümlülük, görevleri sona erse de devam eder.

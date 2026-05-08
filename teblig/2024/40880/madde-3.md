@@ -1,0 +1,26 @@
+Tanımlar ve kısaltmalar
+MADDE 3- (Değişik:RG-8/5/2026-33247)
+(1) Bu Tebliğde geçen;
+a) Bakanlık: Sanayi ve Teknoloji Bakanlığını,
+b) Başvuru Değerlendirme Raporu: Proje hedefleri ile yeşil dönüşüm uygulamaları arasındaki uygunluk ile yatırım unsurlarının proje hedeflerine katkısının değerlendirilmesini içeren ve değerlendirici tarafından program portali üzerinden oluşturulan raporu,
+c) Çağrı: Bakanlık tarafından belirlenen plan çerçevesinde çağrı koşullarını, başvuru ve değerlendirme süreçlerine ilişkin bilgileri ve çağrı takvimini içeren duyuruyu,
+ç) Değerlendirici: Değerlendirici Listesinden, projeye ilişkin değerlendirme, izleme, revizyon ve nihai durum ölçümü aşamalarında görevlendirilen kurumu,
+d) Değerlendirici Listesi: Yeşil dönüşüm uygulamalarında yetkin, akredite veya yetkilendirilmiş kurumlar ile TÜBİTAK MAM ve TSE arasından seçilmek üzere değerlendirici olarak görevlendirilebilecek kurumların yer aldığı, Genel Müdürlükçe oluşturularak program portalinde yayımlanan listeyi,
+e) E-TUYS: Elektronik Teşvik Uygulama ve Yabancı Sermaye Bilgi Sistemini,
+f) Gelişme raporu: Projenin ilerleme durumunun izlenmesinde kullanılmak üzere yatırımcı tarafından Genel Müdürlüğün belirleyeceği formatta hazırlanacak raporu,
+g) Genel Müdürlük: Stratejik Araştırmalar ve Verimlilik Genel Müdürlüğünü,
+ğ) Karar: 29/5/2025 tarihli ve 9903 sayılı Cumhurbaşkanı Kararıyla yürürlüğe konulan Yatırımlarda Devlet Yardımları Hakkında Kararı,
+h) Kullanıcı: Yatırımcı tarafından Yatırım Teşvik Belgesi işlemlerinin elektronik ortamda yürütülmesine ilişkin mevzuat hükümleri çerçevesinde yetkilendirilmiş gerçek kişiyi,
+ı) Program: Yeşil Dönüşüm Programını,
+i) Program portali: Programa ilişkin tüm süreçlerin yürütülmesi ile bilgilendirme ve raporlamaların yapılmasını sağlamak amacıyla Bakanlık tarafından geliştirilen internet tabanlı uygulamayı,
+j) Proje: İmalat sanayinde faaliyet gösteren üretim tesisi ve yardımcı birimlerle sınırlı kalmak kaydıyla, belirlenen proje hedeflerine ulaşmak üzere yeşil dönüşüm yol haritasında yer verilen beş yıllık yeşil dönüşüm uygulamalarını içeren projeyi,
+k) TSE: Türk Standardları Enstitüsünü,
+l) TUYSGM: Teşvik Uygulama ve Yabancı Sermaye Genel Müdürlüğünü,
+m) TÜBİTAK MAM: Türkiye Bilimsel ve Teknolojik Araştırma Kurumu Marmara Araştırma Merkezini,
+n) Yatırım Teşvik Belgesi: Karar kapsamında verilen teşvik belgesini,
+o) Yatırımcı: Programa başvuran Türkiye’de yerleşik sermaye şirketini,
+ö) Yeşil dönüşüm ekibi: Yeşil dönüşüm yol haritasının hazırlanması, uygulanması ve izlenmesi süreçlerinde rol almak üzere yatırımcı tarafından oluşturulan en az üç kişiden oluşan ekibi,
+p) Yeşil dönüşüm lideri: Yeşil dönüşüm ekibinin süreçlerini koordine edecek ve tesis bünyesinde yeşil dönüşüm kültürünün yerleşmesini sağlayacak, yatırımcının bordrolu çalışanı, ortağı veya Yönetim Kurulu üyesi olan ve yatırımcı tarafından yetkilendirilen gerçek kişiyi,
+r) Yeşil Dönüşüm Merkezi Belgesi: Program kapsamında proje başvurusu uygun bulunarak Yatırım Teşvik Belgesi düzenlenen tesislere yeşil dönüşüm yol haritası süresince geçerli olmak üzere Bakanlık tarafından verilen belgeyi,
+s) Yeşil dönüşüm uygulamaları: Belirlenen proje hedefine ulaşmaya yönelik olarak yatırımcı tarafından gerçekleştirilen uygulamaları,
+ifade eder.

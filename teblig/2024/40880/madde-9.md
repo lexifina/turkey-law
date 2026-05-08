@@ -1,0 +1,20 @@
+Değerlendirme
+MADDE 9- (Değişik:RG-8/5/2026-33247)
+(1) Desteklenecek projelerde; program amaçlarına hizmet etme, ölçülebilir proje hedefleri içerme, yeşil dönüşüm uygulamalarından oluşma ve çağrıda yer alan şartları karşılama koşulu aranır.
+(2) Proje başvurusunun Genel Müdürlük tarafından şekil yönünden incelenmesi neticesinde, şayet varsa projede tespit edilen eksikliklerin giderilmesi için yatırımcıya program portali üzerinden bilgilendirme yapılarak beş iş gününden az ve yirmi iş gününden fazla olmamak kaydıyla düzeltme süresi verilir. Eksiklikleri bildirilen süre içerisinde tamamlanmayan başvurular, program portali aracılığıyla değerlendirme dışı bırakılır.
+(3) Düzeltme süresi içerisinde tamamlanan başvurularda şekil yönünden eksiklikler olduğu tespit edilmişse yeniden düzeltme verilebilir. Yapılan inceleme sonucunda halen programın koşullarına uygun olmadığı tespit edilen projeler program portali aracılığıyla değerlendirme dışı bırakılır.
+(4) Program portali üzerinden başvurusu onaylanan projeler için Genel Müdürlükçe belirlenen değerlendirici tarafından program portali üzerinden Başvuru Değerlendirme Raporu hazırlanır. Değerlendirici, kendisine proje atandığı tarihten itibaren yirmi iş günü içerisinde Başvuru Değerlendirme Raporunu tamamlar.
+(5) Değerlendirme, aşağıdaki kriterler doğrultusunda yapılır:
+a) Proje kapsamında gerçekleştirilecek yeşil dönüşüm uygulamalarının bu alandaki ulusal ve uluslararası mevzuat ile iyi uygulamalar dikkate alınarak oluşturulması.
+b) Projenin sektördeki öncelikler, yenilikçi uygulama örnekleri ve yeni geliştirilmiş teknolojileri içermesi.
+c) Proje hedeflerinin, ilgili alanda gerçekleştirilebilecek potansiyel iyileştirme alanları dikkate alındığında belirgin, ölçülebilir, kıyaslanabilir ve gerçekçi olarak belirlenmiş olması.
+ç) Proje hedeflerinin, gerçekleştirilmesi öngörülen yeşil dönüşüm uygulamaları ve destek kapsamına alınması talep edilen yatırım unsurlarıyla uyumu.
+d) Proje hedeflerine ulaşmak üzere gerçekleştirilen yeşil dönüşüm uygulamalarının diğer performans göstergelerinde olumsuz etkiye neden olmaması.
+e) Yatırımcı tarafından belirtilen performans göstergelerine yönelik ölçümün yöntemi ve raporlamasına ilişkin unsurların doğruluk ve yeterlilik düzeyi.
+(6) Genel Müdürlük, Başvuru Değerlendirme Raporunu göz önünde bulundurarak projelere ilişkin değerlendirme kararını oluşturur ve program portali üzerinden yatırımcıya iletir. Revizyon yönünde değerlendirme yapılan başvurulara ilişkin yatırımcıya, bildirilen eksiklik ya da uygunsuzlukların giderilmesi için yirmi iş günü süre verilir. Bildirim tarihinden itibaren Genel Müdürlük tarafından verilen süre içerisinde revizyonu gerçekleştirmeyen yatırımcının başvurusu reddedilir.
+(7) Revizyon yönünde değerlendirme yapılan başvurular, Başvuru Değerlendirme Raporunu hazırlayan değerlendiricilere yönlendirilir. Değerlendirici, projenin kendisine atandığı tarihten itibaren on iş günü içerisinde program portali üzerinden değerlendirmesini tamamlar.
+(8) Reddedilen projeler için programa aynı içerikle bir yıl içinde tekrar başvuru yapılamaz.
+(9) Projesi reddedilen başvuru sahipleri, kararın kendilerine tebliğinden itibaren on beş iş günü içerisinde Genel Müdürlüğe itirazda bulunabilir. Bu kapsamda yapılan itirazlar, Genel Müdürlük tarafından yirmi iş günü içerisinde değerlendirilerek karara bağlanır.
+(10) Genel Müdürlük tarafından uygun bulunan proje başvuruları Yatırım Teşvik Mevzuatı kapsamında değerlendirilmek üzere TUYSGM’ye iletilir.
+(11) TUYSGM tarafından Yatırım Teşvik Belgesi düzenlenen tesislere, Belgenin düzenlendiği tarihten itibaren beş yıl süreyle geçerli olmak üzere, program portali üzerinden Yeşil Dönüşüm Merkezi Belgesi verilir.
+(12) Yatırım Teşvik Belgesi alan projeler için başlangıç tarihi, yatırımcının program portali üzerinden başvuru yaptığı tarihtir. Başvuru tarihi ile Yatırım Teşvik Belgesinin düzenlenme tarihi arasında geçen süre, beş yıllık yeşil dönüşüm yol haritası süresine ilave edilerek Yatırım Teşvik Belgesinin süresi belirlenir.
