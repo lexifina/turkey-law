@@ -1,0 +1,53 @@
+T.C.
+
+ANKARA BÜYÜKŞEHİR
+
+BELEDİYE MECLİSİ
+
+Karar No: 672 09.05.2026
+
+K A R A R
+
+Çamlıdere İlçesi Osmansin Mahallesi Benli Yaylasında uygun görülecek bir alana köy konağı yapılmasına ilişkin Çevre İlçeleri Yatırım İzleme Komisyonunun 29.04.2026 tarihli ve 02 sayılı Raporu Büyükşehir Belediye Meclisinin 09.05.2026 tarihli toplantısında okundu.
+
+Konu üzerinde yapılan görüşmelerde; Çamlıdere İlçesi Osmansin Mahallesi Benli Yaylasında uygun görülecek bir alana köy konağı yapılması için gerekli çalışmaların başlatılmasına ilişkin Çevre İlçeleri Yatırım İzleme Komisyonu Raporu oylanarak oybirliği ile kabul edildi.
+
+Ertan IŞIK
+
+Meclis 1. Başkan V.
+
+Ece YILMAZ
+
+Divan Katibi
+
+Selçuk DAĞDELENER
+
+Divan Katibi
+
+T.C.
+
+ANKARA BÜYÜKŞEHİR BELEDİYE MECLİSİ
+
+Çevre İlçeleri Yatırım İzleme Komisyonu Raporu
+
+Rapor No: 02 29.04.2026
+
+BÜYÜKŞEHİR BELEDİYE MECLİSİ BAŞKANLIĞINA
+
+Çamlıdere İlçesi Osmansin Mahallesi Benli Yaylasında uygun görülecek bir alana köy konağı yapılmasına ilişkin Üye Mustafa ESKİ tarafından verilen önerge Büyükşehir Belediye Meclisinin 08.04.2026 tarihli ve 42. gündem maddesi olarak komisyonumuza havale edilen dosya incelendi.
+
+Komisyonumuzca yapılan incelemeler neticesinde; Çamlıdere İlçesi Osmansin Mahallesi Benli Yaylasında uygun görülecek bir alana köy konağı yapılması için gerekli çalışmaların başlatılması komisyonumuzca uygun görülmüştür.
+
+Raporumuz Büyükşehir Belediye Meclisinin onayına arz olunur.
+
+Ünal UÇAN
+
+Komisyon Başkanı
+
+Hakan KESKİN
+
+Başkan Vekili
+
+Fethi YAŞAR
+
+Üye
