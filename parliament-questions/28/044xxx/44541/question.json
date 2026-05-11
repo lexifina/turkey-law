@@ -1,0 +1,21 @@
+{
+  "record_type": "parliament-written-question",
+  "term": 28,
+  "legislative_year": 4,
+  "esas_no": "7/44541",
+  "submitted": "2026-05-11",
+  "submitted_as": "Başkanlığa geliş tarihi",
+  "mp": "Mahmut TANAL",
+  "province": "Şanlıurfa",
+  "summary": "3 Mayıs 2026 tarihinde meydana gelen fırtına nedeniyle Şanlıurfa ve Gaziantep'te zarar gören enerji altyapısına ilişkin",
+  "status": "Süresi Geçtikten Sonra Cevaplandı",
+  "status_as_of": "2026-11-16",
+  "official_record": "https://www.tbmm.gov.tr/Denetim/Yazili-Soru-Onergesi-Detay/aba79d9a-c9b5-4a28-a3cc-019e1b359fb9",
+  "source": "https://tbmm.gov.tr/Denetim/YaziliSoruOnergesiTable",
+  "source_form": "https://tbmm.gov.tr/Denetim/Yazili-Soru-Onergeleri",
+  "source_sha256": "d3ecd7f3861d0fc1d4f330ae049acfd93b22e4ddfdd3ef89dff9c8cf09bd41ac",
+  "in_force": "2026-05-11",
+  "in_force_basis": "Date the question reached the Speaker (Başkanlığa geliş tarihi) in the official TBMM written-question record; parliamentary oversight record, not law",
+  "history_type": "metadata",
+  "text_status": "metadata-only: question text, addressee and answers are in the linked official record (PDFs on cdn.tbmm.gov.tr); not transcribed here"
+}
