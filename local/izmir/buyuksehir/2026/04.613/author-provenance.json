@@ -1,0 +1,12 @@
+{
+  "official_id": "36456",
+  "number": "04.613",
+  "decision_date": "2026-05-11",
+  "author_display_name": "İzmir Büyükşehir Belediyesi",
+  "author_email": "izmir-register@izmir-bel-tr.invalid",
+  "corrects_commit": "5d48b52903fe98f0f53500ebb8b545f09025903a",
+  "correction_scope": "institution attribution only; published decision text is unchanged",
+  "reason": "The original commit author display name contains literal question marks caused by character encoding loss.",
+  "source_url": "https://www.izmir.bel.tr/IBB-IZMIRBB-C1/Paylasim/MeclisKararOzetleri/01062026_022231_KararOzet_04.613.pdf",
+  "source_sha256": "92ed7679ad9d578d528af397151d3020e364bb98212f1b71528f74c11e1d72e8"
+}
