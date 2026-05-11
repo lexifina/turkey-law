@@ -1,0 +1,21 @@
+{
+  "record_type": "parliament-written-question",
+  "term": 28,
+  "legislative_year": 4,
+  "esas_no": "7/44766",
+  "submitted": "2026-05-11",
+  "submitted_as": "Başkanlığa geliş tarihi",
+  "mp": "Özgül SAKİ",
+  "province": "İstanbul",
+  "summary": "Ülke genelinde engelli bireyler için erişilebilirlik standartlarına uymadığı tespit edilen çevre düzenlemelerine ilişkin",
+  "status": "Süresi Geçtikten Sonra Cevaplandı",
+  "status_as_of": "2026-11-16",
+  "official_record": "https://www.tbmm.gov.tr/Denetim/Yazili-Soru-Onergesi-Detay/a7049b14-2ae9-49d3-87b1-019e1bf4e0be",
+  "source": "https://tbmm.gov.tr/Denetim/YaziliSoruOnergesiTable",
+  "source_form": "https://tbmm.gov.tr/Denetim/Yazili-Soru-Onergeleri",
+  "source_sha256": "e2c56d25f0808b7b4ebf3ed4bb588f89fd757bc471665ec0f727f63cee5ea612",
+  "in_force": "2026-05-11",
+  "in_force_basis": "Date the question reached the Speaker (Başkanlığa geliş tarihi) in the official TBMM written-question record; parliamentary oversight record, not law",
+  "history_type": "metadata",
+  "text_status": "metadata-only: question text, addressee and answers are in the linked official record (PDFs on cdn.tbmm.gov.tr); not transcribed here"
+}
