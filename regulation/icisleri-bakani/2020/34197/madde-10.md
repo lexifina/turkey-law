@@ -1,0 +1,14 @@
+ÜÇÜNCÜ BÖLÜM
+Ortak Esaslar
+Sınavların duyurusu ve başvuru
+MADDE 10 – (1) Görevde yükselme sınavı ile unvan değişikliği sınavı valilikler ve/veya birimlerin talepleri, Personel Genel Müdürlüğünün teklifi üzerine Bakan Onayı ile yapılır. Ayrıca Bakanlığın ihtiyaçları doğrultusunda valilikler ve/veya birimlerden herhangi bir talep olmaksızın da Bakanlık, görevde yükselme sınavını veya unvan değişikliği sınavının yapılmasına karar verebilir.
+(2) Görevde yükselme sınavının veya unvan değişikliği sınavının yapılabilmesi amacıyla Personel Genel Müdürlüğünce boş bulunan unvanlı kadrolar tespit edilerek ilan hazırlanır.
+(3) (Değişik:RG-13/5/2026-33252) Görevde yükselme sınavı ve/veya unvan değişikliği sınavı için hazırlanan ilanda; bu sınavlara ilişkin konu başlıkları, boş kadroların sınıfı, unvanı, derecesi, boş kadro sayısı, yürütülen hizmetin gereği mezun olunan okul veya bölümler, başvuru yeri ve tarihleri yer alır.
+(4) Görevde yükselme ve/veya unvan değişikliği sınavı için hazırlanan ilan; Bakanlık merkez ve taşra teşkilatı personeline sınav tarihinden en az iki ay önce bildirilir.
+(5) (Değişik:RG-13/5/2026-33252) İlan edilen kadrolar için belirlenen başvuru süresinin son günü itibarıyla aranan nitelikleri taşıyan personelin başvuruları kabul edilir. Bu kadrolar için başvurular, ataması Bakanlığa ait olan unvanlar için Personel Genel Müdürlüğüne, taşra teşkilatında ilgili valiliklere yapılır.
+(6) Aylıksız izinde bulunan personel de dahil olmak üzere ilgili mevzuatı uyarınca verilmesi zorunlu izinleri kullanmakta olan personelin görevde yükselme veya unvan değişikliği sınavına katılmaları mümkündür.
+(7) Bakanlık ile sınavı gerçekleştirecek kurum arasında protokol yapmak ve bu çerçevede görevde yükselme ve/veya unvan değişikliği sınavının gerçekleştirilmesini sağlamak, gerekli bilgi ve dokümanları vermek, sınav kurullarının aynı usul ve esaslara göre işlemesini sağlamak, ilgili mevzuata göre sınavlarda sorulacak soruların konu başlıklarını belirlemek veya hazırlatılmasını sağlayarak Eğitim Dairesi Başkanlığı aracılığı ile valiliklere bildirilmesini sağlamak gibi benzeri iş ve işlemler Personel Genel Müdürlüğünce yürütülür.
+(8) Bakanlıkça belirlenmeyen unvanlı kadrolar için sınav açılamaz. Her ne sebeple olursa olsun unvanlı boş kadrolar ile kadro sayıları ilan edildikten sonra değiştirilemez.
+(9) Bakanlıkça görevde yükselme ve unvan değişikliği sınavının süreci ile ilgili sınav takvimi bildirilmesi durumunda; Bakanlık merkez birimleri ile valiliklerin sınav takvim sürecine göre iş ve işlemlerini gerçekleştirmeleri zorunludur.
+(10) Görevde yükselme ve/veya unvan değişikliği yazılı ve sözlü sınavları ile ilgili duyurular ve diğer hususlar Bakanlığın ve/veya valiliklerin resmi internet sitelerinde ilan edilir.
+(11) Resmi internet sitesi üzerinden yapılan duyurular tebligat hükmünde olup, ilgili adaylara ayrıca yazı ile bildirimde bulunulmaz.

@@ -1,0 +1,7 @@
+İtiraz
+MADDE 19 – (1) Bakanlık merkez teşkilatında Personel Genel Müdürlüğüne, valiliklerde ise il yazı işleri müdürlüğüne; görevde yükselme ve/veya unvan değişikliği sınavına ilişkin iş ve işlemler ile sınav sonuçlarına yazılı itirazda bulunulabilir.
+(2) (Değişik:RG-13/5/2026-33252) Durumu uygun olmayan adaylara, itiraz başvurularının reddedildiği SMS veya e-posta ile bildirilir.
+(3) (Değişik:RG-13/5/2026-33252) Görevde yükselme ve/veya unvan değişikliği sınavına katılacakların tespitine ilişkin itirazlarda; başvuruların incelenmesi sonucunda şartları taşımayan adaylara durumunun uygun olmadığı SMS ve/veya e-posta ile bildirilir. Adaylar bildirim tarihinden itibaren en geç iki iş günü içinde dilekçe ile itiraz edebilir. İtirazlar en geç üç iş günü içinde değerlendirilir ve sonucu SMS ve/veya e-posta ile ilgili aday/adaylara bildirilir.
+(4) Görevde yükselme ve/veya unvan değişikliği yazılı sınav sonuçlarına yapılacak itirazlar ise sonuçların ilan edildiği tarihten itibaren beş iş günü içinde Bakanlığa yapılır. Görevde yükselme ve/veya unvan değişikliği yazılı sınav sonucuna ilişkin itirazlar, sınavı yapan kurumla görüşülerek en geç yirmi gün içinde sonuçlandırılır.
+(5) Görevde yükselme ve/veya unvan değişikliği sözlü sınav sonuçlarına itirazlar; sonuçların ilan edildiği tarihten itibaren en geç iki iş günü içinde yapılır ve en geç beş iş günü içinde sonuçlandırılarak ilgililere yazılı olarak bildirilir.
+(6) İtiraz üzerine yapılan değerlendirme sonucunda verilen kararlar kesin olup ikinci kez itirazda bulunulamaz.
