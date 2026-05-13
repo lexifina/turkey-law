@@ -1,0 +1,11 @@
+İş deneyim tutarının güncellenmesi
+MADDE 49 – (Değişik: RG-13/8/2018-30508)
+(1) İş deneyimini gösteren belgelerde yazılı tutarlar aşağıdaki şekilde güncellenir:
+a) (Değişik:RG-13/5/2026-33252) Keşfindeki birim fiyatlar üzerinden ihale indirimi yapılmak suretiyle sözleşmeye bağlanan işlere ilişkin iş deneyimini gösteren belgeler;
+1) Birim fiyatların yıl içerisinde birden fazla kez yayımlandığı ve/veya güncellendiği durumlarda, sözleşme birim fiyatlarına esas alınan aydan bir önceki aya ait endeksin, ilk ilan veya davet tarihinin içinde bulunduğu aydan bir önceki aya ait endekse,
+2) Birim fiyatların yıl içerisinde bir kez yayımlandığı durumda, sözleşme birim fiyatlarına esas alınan yıldan bir önceki yılın Aralık ayına ait endeksin, ilk ilan veya davet tarihinin içinde bulunduğu aydan bir önceki aya ait endekse,
+oranlanması suretiyle bulunan katsayı üzerinden güncellenir.
+b) 4734 sayılı Kanun kapsamında ihale edilmiş işlere ilişkin iş deneyimini gösteren belgeler, belgeye konu işin ihale tarihinin içinde bulunduğu aydan bir önceki aya ait endeksin, ilk ilan veya davet tarihinin içinde bulunduğu aydan bir önceki aya ait endekse oranlanması suretiyle bulunan katsayı üzerinden güncellenir.
+c) (a) ve (b) bendi dışında kalan işlere ilişkin iş deneyimini gösteren belgeler, belgeye konu işin sözleşmesinin yapıldığı aydan bir önceki aya ait endeksin, ilk ilan veya davet tarihinin içinde bulunduğu aydan bir önceki aya ait endekse oranlanması suretiyle bulunan katsayı üzerinden güncellenir.
+d) Alt yüklenici iş bitirme belgeleri, yüklenici ile alt yüklenici arasında imzalanan sözleşmenin tarihi esas alınarak güncellenir.
+(2) Yabancı para birimi cinsinden sözleşmeye bağlanan işlere ilişkin olarak; 4734 sayılı Kanun kapsamında ihale edilmiş işlere ilişkin iş deneyimini gösteren belgeler, belgeye konu işin ihale tarihinde; alt yüklenici iş bitirme belgeleri dahil diğer belgeler ise belgeye konu işin sözleşme tarihinde Resmî Gazete’de yayımlanan Türkiye Cumhuriyet Merkez Bankası döviz alış kuru üzerinden Türk Lirasına çevrilir. Bulunan bu tutar; 4734 sayılı Kanun kapsamında ihale edilerek yabancı para birimi cinsinden sözleşmeye bağlanan işlerde birinci fıkranın (b) bendine göre, bu kapsama girmeyen işlerde ise, birinci fıkranın (c) bendine göre güncellenir.

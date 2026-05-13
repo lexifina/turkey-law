@@ -1,0 +1,12 @@
+Yaklaşık maliyet hesabına esas fiyat ve rayiçlerin tespiti
+MADDE 10 – (1) İdarelerce, ihale konusu işin yaklaşık maliyetine ilişkin fiyat ve rayiçlerin tespitinde;
+a) İhaleyi yapan idarenin daha önce gerçekleştirdiği, ihale konusu işe benzer nitelikteki işlerin sözleşmelerinde ortaya çıkan fiyatlar,
+b) Kamu kurum ve kuruluşlarınca belirlenerek yayımlanmış birim fiyat ve rayiçler,
+c) İlgili meslek odaları, üniversiteler veya benzeri kuruluşlarca belirlenerek yayımlanmış fiyat ve rayiçler,
+ç) Yüklenici veya alt yüklenici olarak faaliyet gösteren, konusunda deneyimli kişi ve kuruluşlardan alınacak, ihale konusu işe benzer nitelikteki işlere ilişkin maliyetler,
+d) İdarenin piyasa araştırmasına dayalı rayiç ve fiyat tespitleri,
+esas alınır.
+(2) İdareler, yaklaşık maliyete ilişkin fiyat ve rayiçlerin tespitinde (a), (b), (c), (ç) ve (d) bentlerinde belirtilen fiyat ve rayiçlerin birini, birkaçını veya tamamını herhangi bir öncelik sırası olmaksızın kullanabilirler.
+(3) İşin bütünü, iş grubu, iş kalemi ve malzeme rayici bazında yapılacak piyasa araştırmasına dayalı fiyat tespitlerinde; iş, imalat ve/veya malzemenin yapımcılarından, üreticilerinden, ana bayilerinden, toptancılarından, yetkili satıcılarından ve satıcılarından fiyatlar veya proforma faturalar alınmak ve gerekli karşılaştırmalar yapılmak suretiyle uygun fiyatlar belirlenir. Tereddüt edilen fiyatların gerçek piyasa rayiçlerine uygun olup olmadığı hususu Ticaret ve/veya Sanayi Odalarından alınacak yazılı rayiçlerle netleştirilir.
+(4) Fiyat araştırması için yapılan çalışmalarda fiyat sorulacak kişi ve kuruluşlara yazılan yazıda fiyatı tespit edilecek iş grubu, iş kalemi veya malzemenin ayrıntılı özellikleri ve standardına yer verilir, fiyat istenecek kişi ve kuruluşlara aynı koşulları taşıyan yazılarla başvurulur ve fiyatlar Katma Değer Vergisi hariç istenir. İstenen özellikleri taşımayan fiyat bildirimleri ve proforma faturaları dikkate alınmaz.
+(5) (Ek:RG-30/7/2025-32971)(11) Yaklaşık maliyet tespit edilirken kamu kurum ve kuruluşlarınca belirlenerek yayımlanmış birim fiyat ve rayiçlerin esas alınması halinde, güncelliğini kaybeden birim fiyat ve/veya rayiçler, ilgili alt endeks veya endeksle güncellenir. Güncelleme, yaklaşık maliyetin belirlendiği tarihin içinde bulunduğu aydan bir önceki aya ait alt endeks veya endeksin, kamu kurum ve kuruluşlarınca belirlenerek yayımlanmış birim fiyat ve rayiçlerin yürürlüğe konulduğu tarihin içinde bulunduğu aydan bir önceki aya ait alt endeks veya endekse bölünmesi suretiyle bulunan katsayı üzerinden yapılır.

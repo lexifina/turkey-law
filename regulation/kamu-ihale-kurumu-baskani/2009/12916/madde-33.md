@@ -1,0 +1,5 @@
+Konsorsiyum
+MADDE 33 – (1) İdare, konsorsiyumların ihaleye katılıp katılamayacağını, katılabilecekleri ihalelerde ise işin farklı uzmanlık gerektiren kısımlarını ön yeterlik şartnamesinde veya idari şartnamede belirtir.
+(2) Konsorsiyum, başvuru veya teklifiyle birlikte koordinatör ortağın belirlendiği Konsorsiyum Beyannamesini vermek zorundadır. (Ek cümle:RG-18/5/2024-32550)(9) Kanunun 21 inci maddesinin (b) ve (c) bentlerine göre yapılan ihalelerde, davet edilmiş olan gerçek ya da tüzel kişinin koordinatör ortak olarak belirlenmesi zorunludur.
+(3) Konsorsiyumların ihaleye katılabilmek için sunacakları belgelerin belirlenmesinde ve yeterlik kriterlerine ilişkin değerlendirmede bu Yönetmeliğin İkinci Kısmında yapılan düzenlemeler esas alınır.
+(4) İhalenin konsorsiyum üzerinde kalması halinde, konsorsiyum tarafından sözleşme imzalanmadan önce noter onaylı konsorsiyum sözleşmesinin idareye verilmesi zorunludur. Bu sözleşmede, konsorsiyumu oluşturan gerçek veya tüzel kişilerin işin hangi kısmını taahhüt ettikleri ve işin yerine getirilmesinde, koordinatör ortak aracılığıyla aralarında koordinasyonu sağlayacakları belirtilir.

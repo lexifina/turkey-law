@@ -1,0 +1,3 @@
+İlanın uygun olmaması
+MADDE 25 – (1) Kanunun 13, 24 ve 25 inci maddelerinde belirtilen hükümlere uygun olmayan ilanlar geçersizdir.
+(2) İlanın, Kanunun 24 ve 25 inci maddelerindeki hükümlere uygun olmadığının anlaşılması durumunda; Kanunun 13 üncü maddesine göre yirmibeş ve kırk günlük ilan süresi bulunan ihalelerde, ilanın yayımlanmasını takip eden onbeş gün, diğer ihalelerde ise on gün içinde hatalı hususlar için düzeltme ilanı yapılarak ihale veya ön yeterlik gerçekleştirilebilir. Bu durumda düzeltme ilanı, (Değişik ibare:RG- 18/5/2024-32550)(10) ilgili e-form kullanılarak ilanın hatalı yayımlandığı yayın organında ve aynı şekilde yayımlanır.
