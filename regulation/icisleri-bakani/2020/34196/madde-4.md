@@ -1,0 +1,20 @@
+Tanımlar
+MADDE 4 – (1) Bu Yönetmelikte geçen;
+a) Alt bölge: Bulunulan hizmet bölgesinin altındaki bölgeleri,
+b) Aynı düzeyde görev: Hiyerarşi, görev, yetki ve sorumluluk açısından aynı grupta ya da aynı grup içinde gösterilen aynı alt görev gruplarında ve aynı düzeyde yer alan kadro unvanlarını,
+c) Bakan: İçişleri Bakanını,
+ç) Bakanlık: İçişleri Bakanlığını,
+d) Genel Yönetmelik: Devlet Memurlarının Yer Değiştirme Suretiyle Atanmalarına İlişkin Yönetmeliği,
+e) Görev grupları: Benzer veya eşit düzeydeki unvanların yer aldığı grupları,
+f) Hizmet alanı: Hizmet bölgelerindeki görevin yapıldığı yeri,
+g) Hizmet bölgesi: Bu Yönetmeliğin ekinde yer alan Ek-1 sayılı Hizmet Bölgeleri Cetvelinde gösterilen illerin gruplarını,
+ğ) İçişleri personeli: İçişleri Bakanlığının merkez ve taşra teşkilatında 657 sayılı Kanuna tabi olarak görev yapan personeli,
+h) Kurum: İçişleri Bakanlığı merkez ve taşra teşkilatını,
+ı) Kurum içi personel: 2 nci maddede belirtilen İçişleri personelini,
+i) Kurum dışı personel: Diğer Bakanlıklar ve kamu kurum ve kuruluşları personelini,
+j) Üst bölge: Bulunulan hizmet bölgesinin üstündeki bölgeleri,
+k) Yer Değiştirme Suretiyle Atanma: Bu Yönetmeliğe tabi personelin, bu Yönetmelikle tespit edilen hizmet bölgelerine, 657 sayılı Kanunun 72 nci ve 76 ncı maddelerindeki esaslar çerçevesinde atanmasını,
+l) Zorunlu çalışma süresi: Her hizmet bölgesinde zorunlu çalışılması gereken süreyi,
+m) Görev grupları: Benzer veya eşit düzeydeki unvanların yer aldığı grupları,
+n) Üst görev: 1 sayılı Cumhurbaşkanlığı Teşkilatı Hakkında Cumhurbaşkanlığı Kararnamesinin 509 uncu maddesinde belirtilen hiyerarşik kademeler çerçevesinde daha üst hiyerarşi, içindeki görevleri,
+ifade eder.

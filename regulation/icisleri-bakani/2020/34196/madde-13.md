@@ -1,0 +1,2 @@
+Naklen atama yapılmayacak haller
+MADDE 13 – (1) Görevde yükselme ve/veya unvan değişikliği sınav duyurusunda her unvan için ayrı olmak üzere yedek aday belirleneceği duyurulan unvanlar için; ilan edilen kadro sayısının iki katından fazla olan kadrolar ile yedek aday belirlenmeyen unvanlar için ilan edilen kadro sayısından fazla olan kadrolar hariç olmak üzere başarı listelerindeki başarı puan sıralamasına göre sınavı kazanan adayların atamaları tamamlanmadan Bakanlık içinden veya dışından naklen atama yapılamaz.
