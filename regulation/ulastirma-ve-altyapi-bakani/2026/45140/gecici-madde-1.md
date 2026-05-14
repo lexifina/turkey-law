@@ -1,0 +1,6 @@
+Geçiş hükümleri
+GEÇİCİ MADDE 1- (1) Bu Yönetmeliğin yürürlük tarihi itibarı ile 6 ay içinde yetki belgesi süresi biten acentelerin yetki belgesi herhangi bir işleme gerek kalmaksızın bu süre sonuna kadar uzatılır.
+(2) Bu Yönetmeliğin yürürlük tarihi itibarı ile belge süresi 6 aydan fazla kalan acentelerin yetki belgeleri süresi bitiş tarihine kadar geçerlidir ancak bu süre hiçbir zaman yürürlük tarihinden itibaren bir yılı geçemez. Yeni düzenlenecek yetki belgesi beş yıllık düzenlenecek olup varsa mevcut yetki belgesindeki kalan süre beş yıllık süreden düşülerek yeniden düzenlenecek yetki belgesi için ödenecek ücret belirlenir. Bu sürenin hesaplanmasında aylar tam yıla tamamlanır. Dördüncü fıkra hükmü dikkate alınarak bu Yönetmelik hükümlerine göre yenileme başvurusu yapılır.
+(3) Bu madde hükümleri kapsamında yapılacak belge yenilemeleri için belge süreleri dolmasından en az bir ay önce İdareye başvuru yapılır.
+(4) Mevcut acentelerin tümü geçiş döneminde belgelerini yenileyene kadar öngörülen süre zarfında yetkili oldukları bölgede mevcut yetkilerini haizdir.
+(5) Bu fıkranın yayımı tarihi ile bu Yönetmeliğin diğer hükümlerinin yürürlüğe gireceği tarih arasında yeni başvuru alınmaz.

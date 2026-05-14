@@ -1,0 +1,6 @@
+Eğitim programı
+MADDE 17- (1) Eğitim programları; acente personeli olmak isteyen adaylara ilk başvuruda verilen belgelendirme eğitimi ve acente personeli tanıtım belgesine sahip olanlara verilen yenileme eğitiminden oluşur.
+(2) Acente personeli olmak isteyen adayların, belgelendirme eğitimlerine katılmaları ve bu eğitim sonunda yapılacak sınavda başarılı olmaları gerekir.
+(3) Belgelendirme eğitim sınavında başarılı olmuş ancak sınav tarihinden itibaren 6 ay içerisinde belge düzenlenmesi için İdareye başvurmayan kişilerin belgelendirme eğitimine tekrar katılması ve yapılacak sınavda başarılı olması gerekir.
+(4) Gemi acentesi tanıtım belgesi süresinin uzatılması için her personelin belge süresinin beşinci yılında yenileme eğitimine katılması gerekir. Yenilenen belge mevcut belgenin süresinin bitiminden itibaren geçerli olur. Yenileme eğitimlerine katılmayanların tanıtım belgeleri süresi sonunda iptal edilir. Tanıtım belgesinin süresinin bitiminden itibaren 1 yıl içerisinde yenileme eğitimine katılıp tanıtım belgesi düzenletmeyenler bu Yönetmeliğin ilk defa tanıtım belgesi düzenlenmesine ilişkin hükümlerine tabi olur.
+(5) Fiziki olarak verilen belgelendirme ve yenileme eğitimleri bu Yönetmelik yürürlüğe girdikten itibaren çevrimiçi olarak GABS üzerinden düzenlenebilir. Çevrimiçi eğitimlere yönelik eğitim programı GAEK tarafından belirlenir.

@@ -1,0 +1,5 @@
+Yeniden faaliyet
+MADDE 22- (1) 21 inci maddenin birinci fıkrasının (a) bendinde belirtilen durumlardan dolayı yetki belgesi iptal edilen acenteye yeniden yetki belgesi düzenlenmez.
+(2) 21 inci maddenin birinci fıkrasının (ç) ve (d) bentlerinde belirtilen durumlardan dolayı veya GADK tarafından yetki belgesi iptal edilen acenteye, bir yıl boyunca yeniden yetki belgesi düzenlenmez. Bir yılın sonunda yeniden yetki belgesi almak isteyenlere, ilk defa yetki belgesi alınmasına ilişkin hükümler uygulanır.
+(3) 21 inci maddenin birinci fıkrasının (c), (e), (f) ve (ğ) bentlerinde belirtilen durumlardan dolayı yetki belgesi iptal edilen acentelerden yeniden yetki belgesi almak isteyenlere, ilk defa yetki belgesi alınmasına ilişkin hükümler uygulanır.
+(4) 13 üncü maddenin üçüncü fıkrasının (a) ve (b) bentleri, 14 üncü maddenin dördüncü fıkrasının (a) ve (c) bentleri ile 21 inci maddenin üçüncü fıkrasında belirtilen durumlardan dolayı İdare tarafından tanıtım belgesi iptal edilen acente personeline bir yıl süreyle yeniden tanıtım belgesi düzenlenmez.

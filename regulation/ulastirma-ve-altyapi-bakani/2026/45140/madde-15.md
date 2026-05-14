@@ -1,0 +1,5 @@
+Denetim
+MADDE 15- (1) İdare ve/veya liman başkanlıkları, acentelerin bu Yönetmelik hükümlerine veya taahhütlerine uygun hareket edip etmedikleri hususunda meri mevzuat kapsamında her zaman acenteleri denetleyebilir.
+(2) Acenteler denetimin yerine getirilebilmesini teminen tüm kolaylığı göstermek, denetçilerin çalışmalarına elverişli mekân sağlamak, talep edilmesi halinde teknik cihazları sağlamak ve yardımcı personel vermek, denetim konusuyla ilgili acente uhdesinde bulunan sözleşme, fatura ve talep edilen diğer her türlü belge ve bilgiyi sağlamakla yükümlüdür. Gerek görülmesi durumunda, acente sorumlularından yazılı veya sözlü bilgi alınabilir.
+(3) Denetlenen acenteler; denetlenen hususlara ilişkin olarak, teknik imkânsızlık, gizlilik, sır saklama gibi gerekçeleri ileri sürerek bilgi ve belge vermekten kaçınamaz. Denetime esas belgeler, mücbir sebebin varlığı nedeniyle temin edilemiyorsa, bu sebebin ispat edilmesi gerekir.
+(4) Denetimler sonucunda, bu Yönetmelik hükümlerine aykırı fiilleri tespit edilen acente ve personel hakkında 20 nci madde hükümleri uygulanır.

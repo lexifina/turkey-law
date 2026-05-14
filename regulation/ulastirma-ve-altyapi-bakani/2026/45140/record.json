@@ -1,0 +1,31 @@
+{
+  "source_id": "7.5.45140",
+  "kind": "regulation",
+  "register_kind": "Kurum ve Kuruluş Yönetmelikleri",
+  "title": "GEMİ ACENTELERİ YÖNETMELİĞİ",
+  "number": "45140",
+  "issuer": "Ulaştırma ve Altyapı Bakanı",
+  "issuer_slug": "ulastirma-ve-altyapi-bakani",
+  "path": "regulation/ulastirma-ve-altyapi-bakani/2026/45140",
+  "source": "https://www.mevzuat.gov.tr/anasayfa/MevzuatFihristDetayIframe?MevzuatTur=7&MevzuatNo=45140&MevzuatTertip=5",
+  "source_sha256": "38d3db5e3e1a6bf70ede5582784ff679d4783a6d6aeb622164380edf65d8c5c4",
+  "source_bytes": 130194,
+  "published": "2026-05-14",
+  "gazette": "33253",
+  "in_force": "2026-05-14",
+  "in_force_basis": "Resmî Gazete publication date in the official listing (14.05.2026)",
+  "history": "current-text",
+  "label": "oldest version available",
+  "checked_on": "2026-11-15",
+  "word_count": 5559,
+  "text_status": "current-consolidated",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  },
+  "source_links": [
+    "7.5.45140-Ek.docx"
+  ],
+  "completeness": "html-text-complete; linked annexes not fetched"
+}
