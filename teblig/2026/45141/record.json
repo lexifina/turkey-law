@@ -1,0 +1,33 @@
+{
+  "source_id": "9.5.45141",
+  "kind": "communique",
+  "register_kind": "Tebliğler",
+  "title": "İTHALATTA HAKSIZ REKABETİN ÖNLENMESİNE İLİŞKİN TEBLİĞ (TEBLİĞ NO: 2026/11)",
+  "number": "45141",
+  "issuer": "Ticaret Bakanı",
+  "path": "teblig/2026/45141",
+  "source": "https://www.mevzuat.gov.tr/anasayfa/MevzuatFihristDetayIframe?MevzuatTur=9&MevzuatNo=45141&MevzuatTertip=5",
+  "source_sha256": "9600ae1f62bfe5f6db3604ecae2a6910de7bafe471f7d72f58b3771fe4911359",
+  "source_bytes": 20469,
+  "published": "2026-05-14",
+  "gazette": "33253",
+  "in_force": "2026-05-14",
+  "in_force_basis": "Resmî Gazete publication date in the official listing (14.05.2026); own commencement article: \"Bu Tebliğ yayımı tarihinde yürürlüğe girer\"",
+  "commencement_clauses": [
+    "Bu Tebliğ yayımı tarihinde yürürlüğe girer"
+  ],
+  "history": "current-text",
+  "label": "oldest version available",
+  "checked_on": "2026-11-15",
+  "word_count": 477,
+  "text_status": "current-consolidated",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  },
+  "source_links": [
+    "9.5.45141-Ek.docx"
+  ],
+  "completeness": "html-text-complete; linked annexes not fetched"
+}
