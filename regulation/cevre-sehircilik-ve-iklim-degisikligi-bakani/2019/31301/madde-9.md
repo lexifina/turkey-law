@@ -1,0 +1,7 @@
+İl Müteahhitlik Yetki Belge Komisyonu
+MADDE 9 – (1) (Değişik:RG-5/8/2021-31559) Müdürlüklerde; yetki belge numarası verilmesi, belge grubunun belirlenmesi, yenilenmesi ve iptaline dair işlemler ile bu işlemlerle ilgili ilave bilgi, belge ve açıklama istenmesi, şikayet başvurularının incelenmesi yönünde kararlar alarak değerlendirmekle ve itirazen şikayet başvurularına karşı alınan itiraz komisyonu kararlarını yerine getirmekle görevli yeterli sayıda İl Müteahhitlik Yetki Belge Komisyonu kurulur.
+(2) Müdürlük, birisi başkan olmak üzere, en az üç asıl ve tek sayıda kişiden oluşan bir veya daha fazla sayıdaki yetki belgesi komisyonunu, yedek üyeler de dâhil olmak üzere görevlendirir.
+(3) Belge komisyonu üyelerinin en az biri mimar veya mühendis unvanlı teknik personel, birisi de muhasebe veya malî işlerden sorumlu personel arasından seçilir.
+(4) Belge komisyonu üyeleri iki yıllığına görev yapar. Komisyon üyelerinin görev süresini tamamlaması esastır. Görevden alma nedeniyle veya süresi dolmadan herhangi bir sebeple boşalan komisyon üyeliklerine derhal yeniden görevlendirme yapılır.
+(5) Belge komisyonları eksiksiz toplanır, kararlar çoğunlukla alınır. Çekimser oy kullanılamaz. Karşı oy kullanan komisyon üyeleri, gerekçesini komisyon kararına yazmak ve imzalamak zorundadır.
+(6) Belge komisyonunca alınan kararlar ve düzenlenen tutanaklar, komisyon başkan ve üyelerinin adları, soyadları ve görev unvanları belirtilerek imzalanır.

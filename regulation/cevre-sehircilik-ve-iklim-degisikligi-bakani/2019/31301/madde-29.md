@@ -1,0 +1,2 @@
+Yürürlükten kaldırılan mevzuat
+MADDE 29 – (1) 16/12/2010 tarihli ve 27787 sayılı Resmî Gazete’de yayımlanan Yapı Müteahhitlerinin Kayıtları ile Şantiye Şefleri ve Yetki Belgeli Ustalar Hakkında Yönetmelik ve 27/12/2014 tarihli ve 29218 sayılı Resmî Gazete’de yayımlanan Yapı Müteahhitlerinin Yetki Belgesi Numaralarının İptal Edilmesi ile Şantiye Şefleri Hakkında Yapılacak İşlemlere İlişkin Usul ve Esaslara Dair Tebliğ yürürlükten kaldırılmıştır.

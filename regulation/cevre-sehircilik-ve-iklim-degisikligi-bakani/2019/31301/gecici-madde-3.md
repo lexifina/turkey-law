@@ -1,0 +1,3 @@
+Bazı iş deneyimlerin değerlendirilmesi
+GEÇİCİ MADDE 3 – (Ek:RG-5/8/2021-31559)
+(1) Özel sektöre gerçekleştirilen ve yapı kullanma izni alınmış işlerde 16 ncı maddenin beşinci ve sekizinci fıkralarında tarif edilen usule göre hesaplanan tutarın yarısı, işin müteahhidi ile yapılmış noter onaylı sözleşme ve sözleşmeye ilişkin fatura örnekleri ile doğrulanması kaydıyla yapı yaklaşık maliyetinin en az % 80’i oranındaki kısmını kusursuz şekilde gerçekleştiren gerçek ve tüzel kişiler adına iş deneyimi olarak değerlendirmeye alınır. Bu fıkra hükmü 31/12/2021 (bu tarih dâhil) tarihine kadar uygulanır, ancak fıkranın yürürlük tarihinden sonra yapı ruhsatı alınmış işler için uygulanmaz.

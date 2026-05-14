@@ -1,0 +1,6 @@
+Yapı müteahhitliği
+MADDE 6 – (1) Yapı müteahhidi; yapıyı, tesisatı ve malzemeleriyle birlikte ilgili mevzuata, uygulama imar planına, ruhsata, ruhsat eki etüt ve projelere, standartlara ve teknik şartnamelere uygun olarak inşa etmek, neden olduğu mevzuata aykırılığı gidermek mecburiyetindedir. Yapı müteahhidi, ilgili fenni mesullerin denetimi olmaksızın inşaat ve tesisatlarına ilişkin yapım işlerini sürdüremez, inşaat ve tesisat işlerinde yetki belgesi olmayan usta çalıştıramaz.
+(2) Yapı müteahhidi, yapım işinin ruhsata ve ruhsat eki etüt ve projelere uygun olarak gerçekleştirilebilmesi için gerekli olan inşaat ve iş organizasyonunu sağlamak, mevzuatın öngördüğü her türlü tedbiri almak, uygulamak ve uygulatmaktan sorumludur.
+(3) Yapı müteahhidi, 20/6/2012 tarihli ve 6331 sayılı İş Sağlığı ve Güvenliği Kanununda öngörülen iş sağlığı ve güvenliğinin sağlanması için gerekli her türlü tedbiri almaktan sorumludur.
+(4) Yapı müteahhidi, inşaat ve tesisat işlerinde şantiye şefi ve yetki belgeli usta çalıştırmak ve belgelerinin bir örneğini şantiye dosyasında bulundurmak zorundadır.
+(5) Yapı müteahhidi, yapı sahibi ile yapım sözleşmesi yapmakla yükümlüdür. Yapı sahibinin aynı zamanda yapı müteahhidi olma koşullarını taşıdığı hallerde, başka bir yapı müteahhidi ile sözleşme şartı aranmaz.

@@ -1,0 +1,93 @@
+{
+  "source_id": "7.5.31301",
+  "kind": "regulation",
+  "register_kind": "Kurum ve Kuruluş Yönetmelikleri",
+  "title": "YAPI MÜTEAHHİTLERİNİN SINIFLANDIRILMASI VE KAYITLARININ TUTULMASI HAKKINDA YÖNETMELİK",
+  "number": "31301",
+  "issuer": "Çevre, Şehircilik ve İklim Değişikliği Bakanı",
+  "issuer_slug": "cevre-sehircilik-ve-iklim-degisikligi-bakani",
+  "path": "regulation/cevre-sehircilik-ve-iklim-degisikligi-bakani/2019/31301",
+  "source": "https://www.mevzuat.gov.tr/anasayfa/MevzuatFihristDetayIframe?MevzuatTur=7&MevzuatNo=31301&MevzuatTertip=5",
+  "source_sha256": "6403559230506e218fbd3bdb6b00c2a86db030b7658178d35d93e712d13b113a",
+  "source_bytes": 142064,
+  "published": "2019-03-02",
+  "gazette": "30702",
+  "in_force": "2026-05-14",
+  "in_force_basis": "latest Resmî Gazete date printed in the source amendment notes/table (\"RG-14/5/2026\") for the current consolidated text",
+  "date_evidence": [
+    [
+      "2026-05-14",
+      "RG-14/5/2026",
+      "Resmî Gazete date printed in the source amendment note"
+    ],
+    [
+      "2026-05-14",
+      "14/5/2026",
+      "Resmî Gazete date in the source amendment table"
+    ],
+    [
+      "2026-01-27",
+      "RG-27/1/2026",
+      "Resmî Gazete date printed in the source amendment note"
+    ],
+    [
+      "2026-01-27",
+      "27/1/2026",
+      "Resmî Gazete date in the source amendment table"
+    ],
+    [
+      "2025-09-16",
+      "RG-16/9/2025",
+      "Resmî Gazete date printed in the source amendment note"
+    ],
+    [
+      "2025-09-16",
+      "16/9/2025",
+      "Resmî Gazete date in the source amendment table"
+    ],
+    [
+      "2024-12-26",
+      "RG-26/12/2024",
+      "Resmî Gazete date printed in the source amendment note"
+    ],
+    [
+      "2024-12-26",
+      "RG- 26/12/2024",
+      "Resmî Gazete date printed in the source amendment note"
+    ],
+    [
+      "2024-12-26",
+      "26/12/2024",
+      "Resmî Gazete date in the source amendment table"
+    ],
+    [
+      "2024-01-18",
+      "RG-18/1/2024",
+      "Resmî Gazete date printed in the source amendment note"
+    ],
+    [
+      "2024-01-18",
+      "18/1/2024",
+      "Resmî Gazete date in the source amendment table"
+    ],
+    [
+      "2023-11-14",
+      "RG14/11/2023",
+      "Resmî Gazete date printed in the source amendment note"
+    ]
+  ],
+  "history": "current-text",
+  "label": "oldest version available",
+  "checked_on": "2026-11-15",
+  "word_count": 9154,
+  "text_status": "current-consolidated",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  },
+  "source_links": [
+    "7.5.31301-Ek.docx"
+  ],
+  "completeness": "html-text-complete; linked annexes not fetched"
+}
