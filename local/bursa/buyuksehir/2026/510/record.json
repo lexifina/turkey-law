@@ -1,0 +1,24 @@
+{
+  "issuer": "Bursa Büyükşehir Belediye Meclisi",
+  "number": "510",
+  "decision_date": "2026-05-14",
+  "version_label": "as-enacted",
+  "source_url": "https://www.bursa.bel.tr/storage/medya/meclis_karar_yeni/6fgwpz514000wgo.pdf",
+  "source_sha256": "0d1b104fb8691af6b8cc46b5e9d1a00c36048fdfcb7f55ba3f6a8e5f590137cd",
+  "normative_images": 0,
+  "source_image_inventory": [
+    {
+      "page": 1,
+      "source_images": 2,
+      "decorative_logos": 2,
+      "normative_images": 0
+    },
+    {
+      "page": 2,
+      "source_images": 2,
+      "decorative_logos": 2,
+      "normative_images": 0
+    }
+  ],
+  "annex_status": "Only the decision PDF linked by the official register is held; referenced supporting plans or annexes not separately linked are not included."
+}
