@@ -1,0 +1,22 @@
+{
+  "kind": "norm",
+  "issuer": "Gelir İdaresi Başkanlığı",
+  "document_type": "sirkuler",
+  "number": "VUK-199/2026-5",
+  "source_id": 1141,
+  "date": "2026-05-15",
+  "title": "26 Mayıs 2026 günü sonuna kadar verilmesi gereken Muhtasar ve Prim Hizmet, Konaklama Vergisi ve Damga Vergisi Beyannameleri ile 1 Haziran 2026 günü sonuna kadar verilmesi gereken Katma Değer Vergisi Beyannamelerinin verilme süreleri ve bu beyannameler üzerine tahakkuk eden vergilerin ödeme sürelerinin uzatılması.",
+  "source": "https://gib.gov.tr/mevzuat/kanun/434/sirkuler/1141",
+  "related_law": "213 sayılı VERGİ USUL KANUNU",
+  "source_api": "https://gib.gov.tr/api/gibportal/mevzuat/sirkuler/list",
+  "source_listing": "evidence/list/2026-11-16/sirkuler-p000.json",
+  "source_listing_sha256": "60c9b519ec13187d56f9a7863ce3934a7fb9c37357209b90158ca6acfcc95b41",
+  "source_sha256": "57bc7b8ffa6f938785d0009c8674f79862d78910832a03f1dde09053470993a7",
+  "text_status": "as-enacted",
+  "text_file": "metin.md",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  }
+}
