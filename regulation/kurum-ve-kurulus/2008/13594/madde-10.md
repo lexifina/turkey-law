@@ -1,0 +1,12 @@
+Isı yalıtım projesi zorunluluğu
+MADDE 10 – (1) Bu Yönetmelik hükümleri uyarınca TS 825 standardında belirtilen hesap metoduna göre, yetkili makina mühendisi tarafından hazırlanan "ısı yalıtımı projesi" imara ilişkin mevzuat gereğince yapı ruhsatı verilmesi safhasında tesisat projesi ile birlikte ilgili idarelerce istenir.
+(2) Isı yalıtım projesinde;
+a) Isı kayıpları, ısı kazançları, kazanç/kayıp oranı, kazanç kullanım faktörü ve aylık ve yıllık ısıtma enerjisi ihtiyacının büyüklüklerinin, TS 825 standardında verilen “Binanın Özgül Isı Kaybı” ve “Yıllık Isıtma Enerjisi İhtiyacı” çizelgelerindeki örneklerde olduğu gibi çizelgeler halinde verilmesi ve hesaplanan yıllık ısıtma enerjisi ihtiyacının (Q), TS 825 standardında verilen yıllık ısıtma enerjisi (Qı) formülünden elde edilecek olan sınır değerden büyük olmadığının gösterilmesi,
+b) Konutlar dışında farklı amaçlarla kullanılan binalarda yapılacak hesaplamalarda, binadaki farklı bölümler arasındaki sıcaklık farkı 4 °C’den daha fazla ise ve bu binada birden fazla bölüm için yıllık ısıtma enerjisi ihtiyacı hesabı yapılacaksa, bu bölümlerin sınırlarının şematik olarak çizilmesi, sınırların ölçüleri ve bölümlerin sıcaklık değerleri üzerinde gösterilmesi,
+c) Binanın ısı kaybeden yüzeylerindeki dış duvar, tavan ve taban/döşemelerde kullanılan malzemeler, bu malzemelerin eleman içindeki sıralanışı ve kalınlıkları, duvar, tavan ve taban/döşeme elemanlarının alanları ve “U” değerlerinin belirtilmesi,
+ç) Pencere sistemlerinde kullanılan cam ve çerçevenin tipinin, bütün yönler için ayrı ayrı pencere alanlarının ve “U” değerlerinin belirtilmesi,
+d) Havalandırma tipinin belirtilmesi, mekanik havalandırma söz konusu ise, hesaplamalar ve sonuçlarının proje raporunda belirtilmesi,
+e) Isı yalıtım projesinde, binanın ısı kaybeden yüzeylerinde oluşabilecek yoğuşmanın TS 825 standardında belirtildiği şekilde tahkik edilmesi, gerekli çizim ve hesaplamaların proje raporunda verilmesi,
+f) Mevcut binaların tamamında veya bağımsız bölümlerinde yapılacak olan esaslı tamir, tadil ve eklemelerdeki uygulama yapılacak olan bölümler için, TS 825 standardında ısıtma derece gün bölgelerine göre tanımlanmış tavsiye edilen ısıl geçirgenlik katsayılarına eşit veya daha küçük olduğunun gösterilmesi,
+g) Mevcut binalarda yapılacak olan esaslı tamir, tadil ve eklemelerde, uygulamanın yapılacağı yüzeylerde oluşabilecek yoğuşmanın TS 825 standardında belirtildiği şekilde tahkik edilmesi, gerekli çizim ve hesaplamaların raporlanması
+hususunda bilgiler bulunmalıdır.

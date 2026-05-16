@@ -1,0 +1,95 @@
+{
+  "source_id": "7.5.13594",
+  "kind": "regulation",
+  "register_kind": "Kurum ve Kuruluş Yönetmelikleri",
+  "title": "BİNALARDA ENERJİ PERFORMANSI YÖNETMELİĞİ",
+  "number": "13594",
+  "issuer_slug": "kurum-ve-kurulus",
+  "path": "regulation/kurum-ve-kurulus/2008/13594",
+  "source": "https://www.mevzuat.gov.tr/anasayfa/MevzuatFihristDetayIframe?MevzuatTur=7&MevzuatNo=13594&MevzuatTertip=5",
+  "source_sha256": "be09a00351e4a96ee92296427d0efd675b1e0e61324c619f1e444439880dfa0e",
+  "source_bytes": 167208,
+  "published": "2008-12-05",
+  "gazette": "27075",
+  "in_force": "2026-05-16",
+  "in_force_basis": "latest Resmî Gazete date printed in the source amendment notes/table (\"RG-16/5/2026\") for the current consolidated text",
+  "date_evidence": [
+    [
+      "2026-05-16",
+      "RG-16/5/2026",
+      "Resmî Gazete date printed in the source amendment note"
+    ],
+    [
+      "2026-05-16",
+      "16/5/2026",
+      "Resmî Gazete date in the source amendment table"
+    ],
+    [
+      "2025-06-24",
+      "RG-24/6/2025",
+      "Resmî Gazete date printed in the source amendment note"
+    ],
+    [
+      "2025-06-24",
+      "24/6/2025",
+      "Resmî Gazete date in the source amendment table"
+    ],
+    [
+      "2022-02-19",
+      "RG-19/2/2022",
+      "Resmî Gazete date printed in the source amendment note"
+    ],
+    [
+      "2022-02-19",
+      "19/2/2022",
+      "Resmî Gazete date in the source amendment table"
+    ],
+    [
+      "2017-04-28",
+      "RG-28/4/2017",
+      "Resmî Gazete date printed in the source amendment note"
+    ],
+    [
+      "2017-04-28",
+      "28/4/2017",
+      "Resmî Gazete date in the source amendment table"
+    ],
+    [
+      "2011-04-20",
+      "R.G-20/4/2011",
+      "Resmî Gazete date printed in the source amendment note"
+    ],
+    [
+      "2011-04-20",
+      "20/4/2011",
+      "Resmî Gazete date in the source amendment table"
+    ],
+    [
+      "2011-02-19",
+      "19/2/2011",
+      "Resmî Gazete date in the source amendment table"
+    ],
+    [
+      "2010-06-30",
+      "RG-30/6/2010",
+      "Resmî Gazete date printed in the source amendment note"
+    ]
+  ],
+  "commencement_clauses": [
+    "Bu Yönetmelik yayımlandığı tarihten bir yıl sonra yürürlüğe girer"
+  ],
+  "history": "current-text",
+  "label": "oldest version available",
+  "checked_on": "2026-11-15",
+  "word_count": 7985,
+  "text_status": "current-consolidated",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  },
+  "source_links": [
+    "7.5.13594-Ek.doc"
+  ],
+  "completeness": "html-text-complete; linked annexes not fetched"
+}
