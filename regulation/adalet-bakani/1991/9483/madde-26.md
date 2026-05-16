@@ -1,0 +1,3 @@
+Mazeret sebebi ile uygulama sınavına ve sözlü sınava katılamayanlar
+Madde 26 – (Değişik:RG-14/9/2022-31953)
+Geçerli bir mazereti nedeniyle uygulama veya sözlü sınava katılamayanların, katılmadıkları uygulama veya sözlü sınav tarihinden itibaren en geç yedi gün içinde mazeretlerine ilişkin belgeleri de sunmak suretiyle ilgili sınav kuruluna veya sınav birimine mazeretlerini bildirmeleri gerekir. Bu süre içinde mazeretini bildirmeyenler sınava katılmamış sayılır. Geçerli mazeretleri sebebi ile sözlü veya uygulama sınavına katılamayanlardan sınav kurulu veya sınav birimince mazeretlerinin kabulüne karar verilenler için başka bir sınav günü tespit edilerek kendilerine bildirilir.

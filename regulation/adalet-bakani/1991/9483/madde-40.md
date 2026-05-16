@@ -1,0 +1,4 @@
+Sağlık mazeretine bağlı naklen atama
+Madde 40 – (Başlığıyla Birlikte Değişik:RG-18/11/2015-29536)
+Kendisi, eşi, annesi, babası, bakmakla yükümlü olduğu çocukları ve vasi tayin edildiği kardeşinin hastalığının görev yaptığı yerde veya yakın mahalde tedavisinin mümkün olmadığını veya mevcut görev yerinin söz konusu kişilerin sağlık durumunu tehlikeye düşüreceğini eğitim ve araştırma hastanesi veya üniversite hastanesinden alınacak sağlık kurulu raporu ile belgelendirenler sağlık mazeretine bağlı olarak naklen tayin talebinde bulunabilir. Bu şartları taşımayan raporlar dikkate alınmaz.
+Sağlık mazeretine dayalı olarak yapılacak yer değiştirmeler öncelikle mazeretin karşılanabileceği aynı bölge seviyesinde başka bir yere atamak suretiyle yapılır. Aynı bölge seviyesinde mazeretin karşılanamaması halinde mazeretin karşılanabileceği ve Bakanlıkça ihtiyaç duyulan başka bir bölgeye de atama yapılabilir.

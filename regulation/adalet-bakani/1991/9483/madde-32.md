@@ -1,0 +1,8 @@
+Atama (Değişik madde başlığı:RG-19/11/2013-28826)
+Madde 32 — (Başlığıyla birlikte değişik:RG-26/11/2005-26005)
+(Değişik fıkra:RG-19/11/2013-28826) İcra müdür ve yardımcısı ile icra kâtibi ihtiyacı öncelikle sınavları asıl olarak kazananların atanması suretiyle karşılanır.
+Haklarında atama şartlarının kaybedilmesini gerektirecek nitelikteki eylemlerinden dolayı adlî veya idarî bir kovuşturma veya soruşturma bulunanlar, sınavda başarılı sayılsalar bile atamaları kovuşturma ve soruşturma sonuçlanıncaya kadar (Değişik ibare:RG-14/9/2022-31953) bekletilebilir.
+(Değişik fıkra:RG-19/11/2013-28826) Sınava girip başarılı olanların atanma şartlarını taşımadıklarının sonradan anlaşıldığı durumlarda sınavları geçersiz sayılarak atamaları yapılmaz. Atamaları yapılmış olsa bile iptal edilir.
+Ataması yapılanlardan geçerli mazereti olmaksızın süresi içerisinde görevine başlamayanların veya atanma hakkından vazgeçenlerin ataması iptal edilir.
+Yedek kazananlar ise; yeniden yapılacak ilk sınavın ilân tarihine kadar ilân edilen kadroların, asîl olarak kazananların çeşitli sebeplerle atanamaması, atamalarının iptal edilmesi, memuriyetten çekilmesi ve benzeri nedenlerle boşalması halinde, sadece boşalan kadro sayısı kadar aynı sınav sonucu oluşan nihaî başarı listesindeki sıraya göre atanırlar. Bu şekilde atananlardan arta kalanlar, bir hak iddiasında bulunamazlar.
+(Ek fıkra:RG-19/11/2013-28826) (Değişik ibare:RG-14/9/2022-31953) İcra başmüdürü, icra müdürü ve icra müdür yardımcıları ile icra kâtiplerinin başka kuruma naklen atanabilmeleri için muvafakat talep edilmesi halinde; Bakanlığın personel ihtiyacı, ilgililerin bu görevlerde bulundukları süre ve atanmak istedikleri kadroların üst unvanlı olup olmaması ve niteliğine göre değerlendirme yapılır.

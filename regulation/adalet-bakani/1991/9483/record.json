@@ -1,0 +1,76 @@
+{
+  "source_id": "7.5.9483",
+  "kind": "regulation",
+  "register_kind": "Kurum ve Kuruluş Yönetmelikleri",
+  "title": "ADALET BAKANLIĞI İCRA PERSONELİNİN SINAV, ATAMA, NAKİL, GÖREVDE YÜKSELME VE UNVAN DEĞİŞİKLİĞİ YÖNETMELİĞİ",
+  "number": "9483",
+  "issuer": "Adalet Bakanı",
+  "issuer_slug": "adalet-bakani",
+  "path": "regulation/adalet-bakani/1991/9483",
+  "source": "https://www.mevzuat.gov.tr/anasayfa/MevzuatFihristDetayIframe?MevzuatTur=7&MevzuatNo=9483&MevzuatTertip=5",
+  "source_sha256": "c5e68ace06bfea4637e738377b57ecc4bc734b9802fc8cc247b958bffe697884",
+  "source_bytes": 121767,
+  "published": "1991-09-07",
+  "gazette": "20984",
+  "in_force": "2026-05-16",
+  "in_force_basis": "latest Resmî Gazete date printed in the source amendment notes/table (\"RG-16/5/2026\") for the current consolidated text",
+  "date_evidence": [
+    [
+      "2026-05-16",
+      "RG-16/5/2026",
+      "Resmî Gazete date printed in the source amendment note"
+    ],
+    [
+      "2022-09-14",
+      "RG-14/9/2022",
+      "Resmî Gazete date printed in the source amendment note"
+    ],
+    [
+      "2018-08-11",
+      "RG-11/8/2018",
+      "Resmî Gazete date printed in the source amendment note"
+    ],
+    [
+      "2015-11-18",
+      "RG-18/11/2015",
+      "Resmî Gazete date printed in the source amendment note"
+    ],
+    [
+      "2013-11-19",
+      "RG-19/11/2013",
+      "Resmî Gazete date printed in the source amendment note"
+    ],
+    [
+      "2009-08-02",
+      "RG-2/8/2009",
+      "Resmî Gazete date printed in the source amendment note"
+    ],
+    [
+      "2008-07-01",
+      "RG-1/7/2008",
+      "Resmî Gazete date printed in the source amendment note"
+    ],
+    [
+      "2005-11-26",
+      "RG-26/11/2005",
+      "Resmî Gazete date printed in the source amendment note"
+    ]
+  ],
+  "commencement_clauses": [
+    "Bu Yönetmelik Resmi Gazetede yayımı tarihinde yürürlüğe girer"
+  ],
+  "history": "current-text",
+  "label": "oldest version available",
+  "checked_on": "2026-11-15",
+  "word_count": 5709,
+  "text_status": "current-consolidated",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  },
+  "source_links": [
+    "7.5.9483%20ek.zip"
+  ],
+  "completeness": "html-text-complete; linked annexes not fetched"
+}
