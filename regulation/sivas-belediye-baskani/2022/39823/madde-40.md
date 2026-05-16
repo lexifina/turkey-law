@@ -1,0 +1,32 @@
+Çatılar
+MADDE 40- (1) Çatıların, civarındaki cadde ve sokakların mimari karakterine, yapılacak binanın nitelik ve ihtiyacına uygun olması şarttır.
+(2) Çatı eğimleri, kullanılacak çatı malzemesi ile yörenin mimari özelliği ve iklim şartları dikkate alınarak ilgili idarenin tasvibi ile tayin edilir. Çatı eğimi içinde kalmak ve silüeti etkilememek kaydıyla çatı örtüsü olarak fotovoltaik paneller de kullanılabilir.
+(3) Çatı eğimi saçak ucundan hesaplanır. Çatılar parapet üzerine oturtulamaz.
+(4) (Değişik:RG-16/5/2026-33255) Mahya yüksekliği 4.00 metreyi geçmemek kaydıyla; ayrık binalarda kırma, ikili blok binalarda bloğu ile müşterek kırma, iki taraftan da bitişik binalarda ise ön ve arka cepheye akıntılı beşik çatı kurulacağı varsayılarak belirlenir.
+(5) Çatı düzenleme esasları şunlardır:
+a) Çatı arasında ortak alana veya herhangi bir bağımsız bölüme ait teras uygulaması yapılmayacaktır.
+b) Bir yapıda aynı kotta tek bir çatı tipi kullanılacak olup; birden fazla çatı tipi kullanımına izin verilmeyecektir (Bir kısmı beşik çatı, bir kısmı teras çatı gibi).
+c) Çatı arası piyes yapılmak istenmesi durumunda, çatı eğimi içinde kalmak, statik ve yangın güvenlik tedbirlerinin alınması, çatı performansının ve yapı kalitesinin yükseltilmesi açısından çatı taşıyıcı sistemi ve çatı kaplamaları yanmaz malzemeden yapılacaktır.
+ç) Çatı arası piyes tavanı, kolon ve kirişlerle çerçeve oluşturacak şekilde eğimli betonarme olarak yapılacaktır. Cepheye en yakın ikinci kolonlarla çerçeve oluşturulması kaydıyla en fazla 1.50 metre çıkma yapılabilir.
+d) Çatı arasında son katla içten bağlantılı piyeslerin aydınlatılması amacıyla çatı yüzeyine paralel pencereler veya kalkan duvar oluşturmayan kuşgözü üçgen pencereler yapılabilir.
+e) Çatı pencerelerinin yapım esasları aşağıdaki gibidir:
+1) Kuşgözü üçgen pencere ölçüleri (en çok): 150 cm-150 cm.
+2) Çatı yüzeyine paralel pencere ölçüleri (en çok): 1.20 mX1.50 m (en/boy).
+3) Pencereler; bina cephe hatlarına 1 m’den ve birbirilerine 2 m’den fazla yaklaşamaz, mahyaları kesemez.
+f) (Mülga:RG-16/5/2026-33255)
+g) Çatılarda, mahya yüksekliği 4.00 m’yi geçmemek kaydıyla çatı yüzeyi en fazla % 40 eğimle yapılabilir.
+ğ) Çatılar, ön ve arka cepheye olmak üzere en az iki yöne eğimli olmalıdır. Ancak bina derinliği çıkmalar dahil 11.50 m ve daha az olan binalarda, tek yöne eğimli çatı yapılabilir. Köşe başı parsellerde ve köşe başından başka iki yola cephesi bulunan parsellerde bina derinliğine bakılmaksızın çatı eğimleri yol cephelerine doğru verilecektir.
+h) 2 katlı tek bağımsız bölümlerde; mahya yüksekliği 4.00 m’yi geçmemek kaydı ile çatı şekli, eğimi serbesttir.
+ı) Bina yüksekliği 30.50 m üzerinde olan yapılarda çatı formu serbesttir.
+i) Otel, yurt gibi konaklama tesislerinin, resmi kurumların, sosyal ve kültürel tesislerin teras çatılarında emsal alanına dahil edilmek kaydıyla yemek ve kahvaltı salonu ihtiyacını karşılamak amacı ile yukarıdaki hükümlerine aykırı olmaması, yol cephelerine 3.00 m’den, bitişik olmayan diğer cephelere 2.00 m’den fazla yaklaşmaması kaydıyla kapalı mekan oluşturulabilir. Makine dairesinin mahya üst kotunu geçmemesi kaydıyla asansör bu alana kadar çıkartılabilir.
+j) Konut kullanımı bulunan yapılarda tonoz çatı uygulamaları yapılamaz. Komşu parseldeki binaya bitişik olan parsellerde fonksiyonuna bakılmaksızın tonoz çatı uygulaması yapılamaz. Bunlar haricinde yapılacak olan tonoz çatılar, idarenin değerlendirmesine sunulacaktır.
+k) Binalardaki antenlerin merkezi olarak yapılması zorunludur.
+(6) Merdiven evleri, ışıklıklar, hava bacaları, alın ve kalkan duvarları, dördüncü fıkraya göre belirlenen çatı örtüsü düzlemlerini en fazla 0.60 metre aşabilir. Ayrıca zorunlu olan tesisatla ilgili hacimlerin, fotovoltaik panellerin (PV), güneş enerjili su ısıtıcılarının ve çatı pencerelerinin çatı örtüsünü aşmasına ilgili idarece teknik gereklere göre uygun görülecek ölçü ve şekilde izin verilebilir. Asansörlü binalarda TSE standartlarına göre projelendirilecek asansör kulelerinin ve bu bölümlerle birlikte düzenlenen merdiven evlerinin en az ölçülerdeki bölümlerinin ve çatı pencereleri haricinde çatı örtüsü üzerinde girinti-çıkıntı yapılamaz.
+(7) Teras çatılarda 1.10 metre parapet yapılabilir. Teras çatının kullanıma açık olması durumunda 1.10 metre yüksekliğinde parapet veya korkuluk yapılması zorunludur.
+(8) Çatı aralarına bağımsız bölüm yapılmaz. Bu kısımlarda ancak su deposu, asansör kulesi, iklimlendirme ve kaskat sistemleri de içerebilen tesisat odası ve son kattaki bağımsız bölümlerle irtibatlı piyesler yapılabilir.
+(9) Çatı arasındaki mekânlarda, çatı eğimi içerisinde kalmak ve fonksiyonunu sağlamak şartıyla asgari yükseklik şartı aranmaz. Ancak, üst kat tavan döşemesi ile çatı örtüsü arasında kalan hacimler, uygulama imar planında aksine bir hüküm yoksa ilave kat döşemeleri yapılmak suretiyle bölünemezler.
+(10) Yangın güvenliğine ilişkin tedbirler alınmak şartıyla ve konutlar hariç olmak üzere binaların çatı araları; sergi salonu, toplantı salonu, yemekhane, spor salonu gibi fonksiyonlarda ortak alan olarak kullanılabilir.
+(11) Tescilli yapılar, anıtlar ve kamu yararlı yapılar ile dini yapıların çatı örtüleri ve bunların yapılacak ya da tamir ve tadil edilecek çatı örtüleri bu kayıtlara tabi değildir.
+(12) Belediye meclis kararıyla mahallin ve çevrenin özelliklerine göre yapılar arasında uyum sağlamak, güzel bir görünüm elde etmek amacı ile dış cephe boya ve kaplamaları ile çatının malzemesini ve rengini tayin etmeye yetkilidir. Bu yetki, bu Yönetmeliğin yürürlüğe girmesinden önce yapılmış olan yapılar için de kullanılabilir.
+(13) Çatı arasının son kat bağımsız bölümü ile birlikte kullanılması amacıyla son kat tavan döşemesi kısmen veya tamamen yapılmayabilir.
+(14) Teras çatılarda çatı bahçesi olarak düzenleme yapılabilir. Bahçe düzenlemesi yapılabilmesi için gerekli olan 0.50 metre toprak dolgu, parapet yüksekliğine dâhil edilmez. Ortak alan olarak kullanılan teras çatılarda; bahçe düzenlemesi yapılması halinde merdiven evi yanında, bina sakinleri tarafından kullanılmak üzere, tuvalet, lavabo, çay ocağı, bahçe düzenlemesinde kullanılacak malzemeleri depolamak için merdiven evine bitişik, toplam teras alanının %10’unu ve 20 m²’yi geçmeyen ve en fazla 3.00 metre yüksekliğinde kapalı mekân oluşturulabilir. Kapalı mekân bina ön cephesine 3.00 metreden fazla yaklaşamaz. Ayrıca rezidans, otel, apart otel gibi konaklama tesislerinin teras çatılarında bina cephelerine 3.00 metreden fazla yaklaşmamak, en fazla 1.50 metre derinliğinde olmak ve parapet kotunu aşmamak koşuluyla açık havuz yapılabilir.

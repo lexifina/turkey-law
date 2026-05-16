@@ -1,0 +1,14 @@
+Kat yükseklikleri
+MADDE 28- (1) Kat yükseklikleri uygulama imar planında daha fazla belirlenmemiş ise döşeme üst kotundan döşeme üst kotuna olmak üzere en fazla;
+a) Ticaret bölgelerinde; zemin katlarda 5.00 metre, asma katlı zemin katlarda 6.50 metre; diğer katlarda 4.00 metre,
+b) (Değişik:RG-16/5/2026-33255) Ticaretin de yapılabildiği karma alanlarda; içerisinde konut yer alan binaların zemin katlarında konut dışı fonksiyonların yapılabilmesi için; bu fonksiyonların yer aldığı zemin kat yüksekliğinin 4.50 metre, konut kullanımı olmayan binaların 5.00 metre, asma katlı zemin katlarda 6.50 metre; diğer katlar konut ise 3.60 metre, konut harici ise 4.00 metre,
+c) (Değişik:RG-16/5/2026-33255) Konut bölgelerinde zemin ve normal katlarda 3.60 metre, bodrum hariç 3 katı geçmeyen binalarda ise 4.00 metre,
+ç) (Değişik:RG-16/5/2026-33255) Zemin katında ticaret yapılabilen konut bölgelerinde ise zemin katlarda 4.50 metre, diğer katlarda 3.60 metre,
+d) Konut bölgelerinde; geleneksel mimari öğeler barındıran ve taşıyıcı sistemi kesme taş yığma bina olarak tasarlanan zemin dâhil 3 katı geçmeyen binalarda zemin ve normal katlarda 4.50 metre,
+kabul edilerek uygulama yapılabilir.
+(2) Bu maddede belirtilen kat yükseklikleri dikkate alınmadan bina yüksekliği verilen planlarda birinci fıkraya göre değerlendirme yapılıp bina yüksekliği yeniden değerlendirilinceye kadar uygulamalar birinci fıkrada belirtilen kat yükseklikleri ile plandaki veya planda belirlenmemişse bu Yönetmelikle belirlenen kat adedinin çarpılması sonucu bulunan bina yüksekliğine göre gerçekleştirilebilir. Ancak bir adada bulunan parsellerin en az dörtte üçünün yürürlükteki planın kat adedine göre yapılaşmış olması halinde mevcut teşekkülün kat yükseklikleri dikkate alınır.
+(3) Tesisat katının yüksekliği normal kat yüksekliğini aşamaz. Özelliği gereği tesisat katı zorunluluğu olan 60.50 metreyi aşan binalarda tesisat katının 2.00 metresi bina yüksekliğinden ve yapının kat adedinden sayılmaz.
+(4) İskân edilen katların iç yüksekliği, asma katlar hariç 2.60 metreden az olamaz. Ancak hava maniası olup planla kat adedi belirlenen parsellerde bu yükseklik 2.40 metreye düşürülebilir.
+(5) Yıkanma yeri, banyo, duş, lavabo yeri, tuvalet, kiler, merdiven altı, her türlü iç ve dış geçitler ve iskân edilmeyen bodrum katları ile müştemilât binalarında, iç yükseklik 2.20 metreye kadar düşürülebilir.
+(6) Garaj, kalorifer dairesi, odunluk, kömürlük, bodrum katlarda yer alan otoparklar ve benzeri özellik arz eden yerlerin yükseklikleri bu maddede yer alan hükümlere tabi olmayıp, hizmetin gerektirdiği şekilde 2.20 metrenin altında olmamak kaydıyla idaresince tespit ve tayin olunur.
+(7) Eğitim, sağlık, sanayi yapıları ile sinema, tiyatro ve konferans salonları, katlı otoparklar, düğün salonu, resmi kurum ve kuruşlara ait binalar ve spor salonları gibi özellik arz eden yapılarda iç yükseklikler, teknolojik ve mimari gereklere göre mimari estetik komisyon kararı ile belirlenir.
