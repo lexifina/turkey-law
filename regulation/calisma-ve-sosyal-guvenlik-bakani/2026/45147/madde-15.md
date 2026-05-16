@@ -1,0 +1,2 @@
+Muhasebe yetkilisi mutemetleri
+MADDE 15- (1) Muhasebe yetkilisi adına ve hesabına para ve parayla ifade edilebilen değerleri geçici olarak almaya, vermeye ve göndermeye yetkili olanlar, muhasebe yetkilisi mutemedidir. Muhasebe yetkilisi mutemetleri, bu işlemlerle ilgili olarak doğrudan muhasebe yetkilisine karşı sorumludur. Muhasebe yetkilisinin muvafakati alınarak seçilecek personel, harcama yetkilisi tarafından muhasebe yetkilisi mutemedi olarak görevlendirilir.
