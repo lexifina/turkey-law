@@ -1,0 +1,6 @@
+ÜÇÜNCÜ BÖLÜM
+Sigortalı Hizmet Kayıtları
+Sigortalı hizmet kayıtlarının oluşturulması
+MADDE 20 – (1) Kısa ve uzun vadeli sigorta kolları ile genel sağlık sigortası kapsamında bulunan sigortalı veya hak sahiplerine yapılacak ödemeler ile bağlanacak gelir ve aylıklardan, genel sağlık sigortası yardımlarından yararlanma şartlarının oluşup oluşmadığı, bu ödemeler ile gelir ve aylık miktarları, bilgisayar ortamında her bir sigortalı için oluşturulan hizmet kütüğündeki kayıtlar kullanılarak belirlenir. (Mülga cümle:RG-17/4/2012-28267) (…)
+(2) (Değişik:RG-25/8/2016-29812)(17) Hizmet kayıtları, sigortalıların zorunlu sigorta kapsamındaki çalışmaları, yurt içi ve yurt dışı hizmet borçlanmaları, primini kendi ödeyen sigortalılara ait giriş ve çıkış tarihleri, prim ödeme gün sayıları, prime esas kazançlar ve diğer bilgileri kapsar.
+(3) Sigortalı hizmet kayıtları, Kanunun 4 üncü maddesi birinci fıkrasının (a) ve (c) bendi kapsamındaki sigortalılar için aylık prim ve hizmet belgesinde yer alan bilgilerin, Kanunun 4 üncü maddesi birinci fıkrasının (b) bendi kapsamındaki sigortalıların sigortalılığa esas kayıtlarının, hizmet borçlanması yapan veya (Değişik ibare:RG-25/8/2016-29812)(17) primini kendi ödeyen sigortalılar için ise prim tahsilat bilgilerinin, bilgi işlem ortamına aktarılması suretiyle oluşturulur.

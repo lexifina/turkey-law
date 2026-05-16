@@ -1,0 +1,16 @@
+ÜÇÜNCÜ BÖLÜM
+Ölüm Sigortası
+Hak sahiplerinin ölüm aylığından yararlanma şartları
+MADDE 60 – (1) Ölüm aylığı, Kanunun 32 nci maddesinin ikinci fıkrasında belirtilen durumda iken ölen sigortalının;
+a) Ölüm tarihinde sigortalı ile yasal evlilik bağı bulunan eşine,
+b) Kanunun 5 inci maddesinin birinci fıkrasının (a), (b) ve (e) bentlerine tabi olarak iş kazası ve meslek hastalığı, hastalık ve analık sigortasına göre çalışmaları hariç Kanun kapsamında veya yabancı bir ülke mevzuatı kapsamında çalışmayan veya kendi sigortalılığı nedeniyle gelir veya aylık bağlanmamış çocuklardan;
+1) 18 yaşını, ortaöğrenim görmesi hâlinde 20 yaşını, yüksek öğrenim görmesi hâlinde 25 yaşını doldurmayan erkek çocuklarına,
+2) Evli olup olmadığına bakılmaksızın, Kurum Sağlık Kurulu kararı ile çalışma gücünü en az %60 oranında yitirdiği tespit edilen çocuklarına,
+3) Yaşları ne olursa olsun evli olmayan, evli olmakla beraber sonradan boşanan veya dul kalan kız çocuklarına,
+c) Aylıkta hak sahibi eş ve çocuklardan;
+1) Artan hissenin bulunması hâlinde, her türlü kazanç ve irattan elde etmiş olduğu gelirinin asgari ücretin net tutarından daha az olması ve diğer çocuklarından hak kazanılan gelir ve aylıklar hariç olmak üzere gelir ve/veya aylık bağlanmamış olması şartıyla ana ve babasına,
+2) Artan hisseye bakılmaksızın, bu bendin bir numaralı alt bendindeki şartları taşıyan ve 65 yaşın üstünde olan ana ve babasına,
+Kanunun 34 üncü maddesindeki esaslar dâhilinde ölüm aylığı bağlanır. (Ek cümle:RG-18/8/2021-31572)(27) Ancak, hak sahibi çocuklardan 18 yaşını, lise ve dengi öğrenim görmesi halinde 20 yaşını, yükseköğrenim görmesi halinde 25 yaşını doldurmayanların Kanunun 4 üncü maddesinin birinci fıkrasının (a) bendi kapsamında sigortalı sayılmaları, bunlara aylık bağlanmasına engel oluşturmaz.
+(2) Kanunun 4 üncü maddesinin birinci fıkrasının (b) bendine göre sigortalı sayılanların hak sahiplerine ölüm aylığı bağlanabilmesi için ölen sigortalının genel sağlık sigortası primi dahil, prim ve prime ilişkin her türlü borçlarının ödenmiş olması zorunludur. (Mülga cümle:RG-5/12/2017-30261) (...)
+(3) Kanunun 4 üncü maddesinin birinci fıkrasının (a), (b) ve (c) bentlerinden birden fazlasına tabi olarak çalışmış olan sigortalıların hak sahiplerinin aylıkları, sigortalının en son tabi olduğu sigortalılık hâli esas alınarak bağlanır. Son sigortalılık hâline göre ölüm aylığı bağlanamaması durumunda diğer sigortalılık hâllerindeki hizmetlerine göre ayrı ayrı değerlendirme yapılarak, aylığa hak kazanacağı sigortalılık hâli esas alınarak aylık bağlanır.
+(4) (Değişik:RG-25/8/2016-29812)(17) (Değişik:RG-18/8/2021-31572)(28) 5434 sayılı Kanunun 56 ncı maddesi ile mülga 45 inci ve 64 üncü maddeleri, Kanunun 47 nci maddesi ve 2330 sayılı Kanun veya 2330 sayılı Kanun hükümleri uygulanarak aylık bağlanmış ya da bağlanmasına hak kazanmış olanlardan ölenlerin anne ve babalarına, Kanunun 56 ncı maddesi ile 5434 sayılı Kanunun mülga 77 nci maddesinin (a) ve (b) fıkraları ile mülga 92 nci maddesinde sayılan haller hariç olmak kaydıyla herhangi bir şart aranmaksızın aylık bağlanır. Bağlanacak bu aylık, diğer hak sahiplerine bağlanacak aylığın oranını etkilemez ve bu kapsamda bağlanan aylıklar en geç ödemenin yapıldığı tarihi takip eden iki ay içinde Hazineden tahsil edilir.

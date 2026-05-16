@@ -1,0 +1,5 @@
+Ödeme dönemi ve ödeme tarihleri
+MADDE 69 – (1) Sigortalıya ve hak sahiplerine bağlanan gelir ve aylıklar, Kurumca belirlenen dönem ve tarihlerde her ay peşin olarak ödenir. (Mülga cümle:RG-18/8/2021-31572)(35)
+(2) (Değişik:RG-18/8/2021-31572)(35) Ödeme günlerinden herhangi birinin dini bayramlara rastlaması hâlinde, ödemelerin hangi tarihlerde yapılacağı, Kurumca belirlenerek ilan edilir.
+(3) Daha önce belirlenen ödeme dönem ve tarihlerinin Kurumca yeniden düzenlenmesi hâlinde, ödeme tarihleri öne alınanların gelir ve aylıklarından bir kesinti yapılmaz. Ancak, ikinci fıkra hariç olmak üzere, ödeme tarihleri ileri alınanlara bir ayı aşan gün karşılığı kadar fark ödenir.
+(4) Bu maddenin birinci ve ikinci fıkralarında belirtilen nedenlerle ödeme günü öne alınanlar ile durum değişikliği veya ölüm hâlinde sigortalı ve hak sahiplerine durum değişikliği veya ölüm tarihine ait Kanunda belirtilen ödeme döneminde peşin ödenen gelir ve aylıklar (Ek ibare:RG-18/8/2021-31572)(35) ile bayram ikramiyeleri geri alınmaz.

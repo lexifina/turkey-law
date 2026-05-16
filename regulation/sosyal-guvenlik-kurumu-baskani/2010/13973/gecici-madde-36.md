@@ -1,0 +1,3 @@
+Sürekli iş göremezlik derecesi % 50’nin altında olup ölüm geliri bağlanamayanlar
+GEÇİCİ MADDE 36 - (Ek:RG-5/12/2017-30261)
+(1) İş kazası veya meslek hastalığı sonucu meslekte kazanma gücünü % 50 oranının altında kaybetmesi nedeniyle sürekli iş göremezlik geliri bağlanmış iken, Kanunun yürürlük tarihinden önce ölen ve ölümün iş kazası veya meslek hastalığına bağlı olmaması nedeniyle hak sahiplerine ölüm geliri bağlanmamış sigortalıların almakta olduğu sürekli iş göremezlik gelirinin, Kanunun yürürlük tarihine kadar aylık artışlarıyla güncellenmiş tutarı, Kanunun 34 üncü ve 97 nci maddesi hükümlerine göre hak sahiplerine gelir olarak bağlanır.

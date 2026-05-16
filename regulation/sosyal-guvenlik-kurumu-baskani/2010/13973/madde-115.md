@@ -1,0 +1,2 @@
+Kamu idarelerinin denetim elemanları tarafından yapılacak tespitler
+MADDE 115 – (1) Kamu idarelerinin denetim elemanları, kendi mevzuatları gereğince işyerlerinde yapacakları her türlü soruşturma, denetim ve incelemeler sırasında, çalışanların ilgili mevzuat gereği sigortalı olup olmadığını tespit ederek, sigortasız çalışanları ve sigortalıların prime esas kazançlarını veya sigortalı gün sayılarının eksik bildirilmesine ilişkin tespitlerini, tespit tutanağıyla Kuruma gönderilmek üzere bağlı bulundukları kamu idaresine bildirirler.

@@ -1,0 +1,3 @@
+Belgenin dayanağı
+MADDE 104 – (1) İşverenlerin tutmak zorunda oldukları defterlerle dayanağı belgeler, aylık prim ve hizmet belgesinin, aylık fiilî hizmet süresi zammı prim belgesinin, yıllık fiili hizmet süresi zammı prim belgesinin ve yıllık itibari hizmet süresi prim belgesinin dayanağı belgeler niteliğinde sayılır.
+(2) Kanunun 102 nci maddesinin birinci fıkrasının (e) bendinin (4) numaralı alt bendinde belirtilen şekilde tutulmuş defterler geçerli sayılmaz ve anılan alt bentteki geçersizlik hâllerinin gerçekleştiği her bir takvim ayı için, ibraz edilmemesi durumunda uygulanması gereken miktarı aşmamak kaydıyla idarî para cezası uygulanır.

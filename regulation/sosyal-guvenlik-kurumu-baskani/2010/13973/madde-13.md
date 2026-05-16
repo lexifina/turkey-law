@@ -1,0 +1,3 @@
+Sigortalıların kamu idareleri ile bankalarca bildirilmesi
+MADDE 13 – (1) Kamu idareleri ile 5411 sayılı Kanun kapsamındaki kuruluşlar, Kurumca sağlanacak elektronik altyapıdan yararlanmak suretiyle, Kurumca belirlenecek işlemlerde, işlem yaptığı kişilerin sigortalılık bakımından tescilli olup olmadığını kontrol etmek ve sigortasız olduğunu tespit ettiği kişileri, Kuruma bildirmekle yükümlüdürler. (Ek cümle:RG-21/8/2013-28742) Söz konusu elektronik altyapı oluşturuluncaya kadar Kurumca gerekli görülmesi hâlinde, sigortalılık kontrolleri manuel yaptırılabilir ya da sigortalılık kontrollerine esas ilgili bilgi ve belgelerin Kuruma gönderilmesi istenebilir.
+(2) Bu maddenin uygulamasına ilişkin usul ve esaslar tebliğ ile düzenlenir.

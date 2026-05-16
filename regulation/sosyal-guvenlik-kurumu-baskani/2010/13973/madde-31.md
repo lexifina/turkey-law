@@ -1,0 +1,3 @@
+Alt işveren ve sigortalıyı geçici olarak devir alanın yükümlülüğü
+MADDE 31 – (1) Alt işveren, mevzuattan doğan yükümlülüklerini asıl işverene ait işyeri sicil numarasına ilave olarak verilecek üç haneli alt işveren numarası ile asıl işverenin işyeri dosyası üzerinden yerine getirir. Alt işveren adına işyeri dosyası açılmaz.
+(2) Sigortalıyı geçici iş ilişkisi çerçevesinde devralan işveren, müştereken ve müteselsilen sorumlu olduğu yükümlülüklerini sigortalıyı devir aldığı işverenle yapmış olduğu sözleşmeyi Kuruma ibraz etmesi kaydıyla kendisine verilecek üç haneli numara ile sigortalıyı devir aldığı işverene ait işyeri dosyası üzerinden yerine getirebilir. Sigortalıyı geçici iş ilişkisi çerçevesinde devralan işveren adına işyeri dosyası açılmaz.

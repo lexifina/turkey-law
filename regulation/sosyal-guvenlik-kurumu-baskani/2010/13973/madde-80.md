@@ -1,0 +1,3 @@
+Kanunî temsilcilerce veya vekillerce yapılan başvurular (Değişik başlık:RG-5/12/2017-30261)
+MADDE 80 – (1) (Değişik:RG-5/12/2017-30261) Kanunun öngördüğü her türlü gelir, aylık, ödeme ve ödenekler ile borçlanma ve benzeri taleplerin, aylık bağlama öncesi taleplerin yapılabilmesi için; sigortalı ve hak sahiplerinden ergin ve mümeyyiz olmayanların kanunî temsilcilerinin yazılı istekte bulunmaları şarttır.
+(2) Sigortalı veya hak sahiplerinin vekilleri tarafından yapılacak yazılı taleplerde, Kurumca verilecek ödenekler ile bağlanacak gelirler veya aylıklar için başvurma yetkisi bulunduğunu açıkça belirten ve noterlikçe onaylanmış vekaletnamenin de ibraz edilmesi gerekir.

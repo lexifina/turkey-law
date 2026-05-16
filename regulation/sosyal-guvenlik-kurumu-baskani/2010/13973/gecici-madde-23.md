@@ -1,0 +1,2 @@
+Hakedilen ücretler ile prim, ikramiye ve bu nitelikteki ödemelerin ayrı ayrı gösterilmesi
+GEÇİCİ MADDE 23 – (1) Kanunun 4 üncü maddesinin birinci fıkrasının (a) bendi kapsamında sigortalı sayılanların sigorta primine esas kazanç bildirimleri yönünden, bu Yönetmeliğin 102 nci maddesinin birinci fıkrası uyarınca yapılması gereken ‘hakedilen ücret’ ve ‘prim, ikramiye ve bu nitelikteki ödemelerin’ ayrı ayrı gösterilmesi uygulaması, bu Yönetmeliğin yayımı tarihinden itibaren verilme süresi dolacak üç aya ait aylık prim ve hizmet belgeleri için uygulanmaz.

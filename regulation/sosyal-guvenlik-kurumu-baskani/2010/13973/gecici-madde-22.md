@@ -1,0 +1,2 @@
+Kurumca istenilen bazı belgelerin kâğıt ortamında alınmasına devam edilmesi
+GEÇİCİ MADDE 22 – (1) Ölüm gelir/aylığı ve ölüm toptan ödemesi için, 18 yaşını doldurmayanlar hariç, ortaöğrenim görmesi hâlinde 20 yaşını, yüksek öğrenim görmesi hâlinde 25 yaşını doldurmayan hak sahibi erkek çocukların ilgili öğretim kurumundan alacakları öğrenci belgesi Kurumca ilgili Kurumlardan elektronik ortamda alınıncaya kadar talep dilekçesine eklenir.

@@ -1,0 +1,7 @@
+Malûllük aylığı başvurusu ve istenecek belgeler
+MADDE 53 – (1) Kanunun 25 inci maddesinin birinci fıkrasına göre malûl sayılan sigortalının Kanunun 4 üncü maddesinin birinci fıkrasının;
+a) (a) bendi kapsamında bulunması hâlinde, çalıştığı işten ayrıldıktan sonra,
+b) (b) bendi kapsamında bulunanların, iş yerini kapattıktan veya devrettikten sonra,
+c) (c) bendi kapsamında sigortalı olup, çalışmaya devam edenlerin, çalıştıkları kurumlarına müracaatları ile kurumlarınca alınacak emekliye sevk onayının ilgili üniteye gönderilmesi, görevinden ayrıldıktan sonra başka bir sigortalılık hâline tabi olarak çalışmamış olanların ise örneği Kurumca hazırlanacak tahsis talep dilekçesi ile ilgili üniteye başvurması şarttır.
+(2) Tahsis talep dilekçesine, (Mülga ibare:RG-17/4/2012-28267) (…) Kanunun 4 üncü maddesinin birinci fıkrasının (a) bendi kapsamındaki sigortalılardan ilgili döneme ait aylık prim ve hizmet belgesi henüz Kuruma verilmemiş olanlar için sigortalı işten ayrılış bildirgesi eklenir.
+(3) (Değişik:RG-18/8/2021-31572) Malûllük durumunu gösteren sağlık kurulu raporu alınmadan doğrudan malûllük aylığı bağlanması talebinde bulunan sigortalılardan, varsa talep tarihinden önceki 6 ay içerisinde Kurumca yetkilendirilmiş hastanelerce düzenlenmiş durum bildirir sağlık kurulu raporu kabul edilir, yoksa Kurumca yetkilendirilen sağlık hizmeti sunucusuna sevk edilerek, malûllük durumunun tespitine esas sağlık kurulu raporunun temini yoluna gidilir.

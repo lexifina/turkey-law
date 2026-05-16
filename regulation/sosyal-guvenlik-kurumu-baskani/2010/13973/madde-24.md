@@ -1,0 +1,7 @@
+Hizmet kayıtlarının düzeltilmesi
+MADDE 24 – (1) Kurumca hizmet kayıtları;
+a) Kurumun denetim ve kontrolle görevli memurlarınca veya kamu idarelerinin denetim elemanlarınca düzenlenen raporlarda gerçeğe aykırı hizmet kazandırıldığının veya hatalı ve eksik kayıt bulunduğunun tespit edilmesi,
+b) Sigortalının prime esas kazançları, gün sayıları ve prim tahsilatına ilişkin bilgilerin hatalı veya eksik aktarıldığının tespit edilmesi,
+c) Kesinleşen yargı kararları ile sigortalıya hizmet kazandırılması veya Kurum kayıtlarında var olan hizmet veya prime esas kazançların yeniden belirlenmesi,
+hallerinde düzeltilir, iptal edilir veya yeni kayıt oluşturulur.
+(2) Birinci fıkra gereğince, hizmet kayıtlarında yapılacak güncelleme, iptal ve yeni kayıt oluşturma işlemleri, ünite amirinden alınacak olur üzerine, konu ile ilgili bilgisayara giriş yetkisi verilen ünite personelince yerine getirilir. Bu şekilde güncellenen bilgisayar kayıtları, her gün alınacak çalışma listeleri ile karşılaştırılarak mutabakatı sağlandıktan sonra, eski ve yeni kayıtlara ait hizmet dökümlerinin onaylı birer örneği sigortalıların dosyalarında muhafaza edilir. Ancak birinci fıkra (b) bendi gereğince hizmet kayıtlarında yapılacak iptal ve yeni kayıt oluşturma işlemleri, üyeleri Kurumca belirlenecek komisyon kararına göre yapılır. (Ek cümle:RG-25/8/2016-29812)(17) Sigortalı ve hak sahiplerine gelir veya aylık bağlanmadan önce hizmet kayıtları güncellenir.

@@ -1,0 +1,8 @@
+Ölüm aylığının başlangıcı ve kesilmesi
+MADDE 62 – (1) Ölüm sigortasından sigortalının hak sahiplerine bağlanacak aylıklar;
+a) Sigortalının ölüm tarihini,
+b) Hak sahibi olma niteliğinin ölüm tarihinden sonra kazanılması hâlinde, bu niteliğin kazanıldığı tarihi,
+c) Ölüm aylığının kesilmesine yol açan sebebin ortadan kalkması hâlinde, talep tarihini,
+takip eden ay başından itibaren başlatılır. (Değişik cümle:RG-5/12/2017-30261) Ancak Kanunun 4 üncü maddesinin birinci fıkrasının (b) bendi kapsamında veya bu kapsamda geçen hizmetlerle birlikte Kanunun 4 üncü maddesinin birinci fıkrasının (a) ve (c) bentleri kapsamındaki sigortalıların hak sahiplerine aylık bağlanacağı durumlarda, Kanunun 4 üncü maddesinin birinci fıkrasının (b) bendi kapsamında geçen hizmetlere ait prim ve prime ilişkin her türlü borçların ödenmesi zorunludur. (Ek cümle:RG-5/12/2017-30261) Hak sahiplerine bağlanacak aylığın başlangıç tarihi, bu fıkra hükümlerine göre tespit olunur.
+(2) Kanunun 4 üncü maddesinin birinci fıkrasının (b) bendine göre sigortalı sayılanlardan kendi sigortalılığı nedeniyle genel sağlık sigortası primi dâhil, prim ve prime ilişkin her türlü borcu olanlardan ölüm tarihindeki borçları, Yılı Merkezi Yönetim Bütçe Kanunu ile belirlenen, muhasebe kayıtlarından çıkarılacak tutarlar ve tahsil edilmeyecek alacaklara ilişkin miktar ve bu miktarın altında olanların aylıkları talep tarihini takip eden aybaşından başlar ve borçları ilk aylıklarından kesilerek tahsil edilir.
+(3) Hak sahiplerine bağlanan aylıklar bu Yönetmeliğin 60 ıncı maddesinde belirtilen şartların ortadan kalktığı tarihi takip eden ödeme dönemi başından itibaren kesilir.

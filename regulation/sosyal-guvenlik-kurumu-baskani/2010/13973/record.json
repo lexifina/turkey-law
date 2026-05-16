@@ -1,0 +1,97 @@
+{
+  "source_id": "7.5.13973",
+  "kind": "regulation",
+  "register_kind": "Kurum ve Kuruluş Yönetmelikleri",
+  "title": "SOSYAL SİGORTA İŞLEMLERİ YÖNETMELİĞİ",
+  "number": "13973",
+  "issuer": "Sosyal Güvenlik Kurumu Başkanı",
+  "issuer_slug": "sosyal-guvenlik-kurumu-baskani",
+  "path": "regulation/sosyal-guvenlik-kurumu-baskani/2010/13973",
+  "source": "https://www.mevzuat.gov.tr/anasayfa/MevzuatFihristDetayIframe?MevzuatTur=7&MevzuatNo=13973&MevzuatTertip=5",
+  "source_sha256": "5a2d93167656546c263682df8bb111f499da6cb160d32c636a0fd75a68b80c80",
+  "source_bytes": 839298,
+  "published": "2010-05-12",
+  "gazette": "27579",
+  "in_force": "2026-05-16",
+  "in_force_basis": "latest Resmî Gazete date printed in the source amendment notes/table (\"RG-16/5/2026\") for the current consolidated text",
+  "date_evidence": [
+    [
+      "2026-05-16",
+      "RG-16/5/2026",
+      "Resmî Gazete date printed in the source amendment note"
+    ],
+    [
+      "2026-05-16",
+      "16/5/2026",
+      "Resmî Gazete date in the source amendment table"
+    ],
+    [
+      "2026-04-18",
+      "RG-18/4/2026",
+      "Resmî Gazete date printed in the source amendment note"
+    ],
+    [
+      "2026-04-18",
+      "18/4/2026",
+      "Resmî Gazete date in the source amendment table"
+    ],
+    [
+      "2026-04-17",
+      "17/4/2026",
+      "Resmî Gazete date in the source amendment table"
+    ],
+    [
+      "2024-12-02",
+      "2/12/2024",
+      "Resmî Gazete date in the source amendment table"
+    ],
+    [
+      "2024-10-01",
+      "RG-1/10/2024",
+      "Resmî Gazete date printed in the source amendment note"
+    ],
+    [
+      "2024-10-01",
+      "1/10/2024",
+      "Resmî Gazete date in the source amendment table"
+    ],
+    [
+      "2023-03-15",
+      "15/3/2023",
+      "Resmî Gazete date in the source amendment table"
+    ],
+    [
+      "2022-11-11",
+      "RG-11/11/2022",
+      "Resmî Gazete date printed in the source amendment note"
+    ],
+    [
+      "2022-11-11",
+      "11/11/2022",
+      "Resmî Gazete date in the source amendment table"
+    ],
+    [
+      "2022-06-02",
+      "2/6/2022",
+      "Resmî Gazete date in the source amendment table"
+    ]
+  ],
+  "commencement_clauses": [
+    "Bu Yönetmelik hükümleri yayımı tarihinde yürürlüğe girer"
+  ],
+  "history": "current-text",
+  "label": "oldest version available",
+  "checked_on": "2026-11-15",
+  "word_count": 53917,
+  "text_status": "current-consolidated",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  },
+  "source_links": [
+    "https://hitap.sgk.gov.tr/HitapWeb/",
+    "7.5.13973-Ek.zip"
+  ],
+  "completeness": "html-text-complete; linked annexes not fetched"
+}

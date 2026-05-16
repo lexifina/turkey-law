@@ -1,0 +1,3 @@
+Uzman ve usta öğretici borçlanma süreleri
+GEÇİCİ MADDE 27 − (Ek:RG-16/6/2011-27966)(5)
+(1) Milli Eğitim Bakanlığına bağlı her derece ve türdeki örgün ve yaygın eğitim kurumlarında ek ders ücreti karşılığında ilgili mevzuatı çerçevesinde uzman ve usta öğretici olarak çalıştırılanlar, bu durumlarını milli eğitim il veya ilçe müdürlüklerinden alınacak belgelerle bu çalışmalarını belgelemeleri kaydıyla, 25/2/2011 tarihinden önceki bu kapsamdaki çalışmalarından dolayı ay içerisinde otuz günden eksik kalan sürelerini 41 inci madde esaslarına göre kendileri veya hak sahipleri tarafından borçlanabilirler. Borçlanılan bu süreler 4 üncü maddenin birinci fıkrasının (a) bendi kapsamında sigortalılık süresi sayılır.

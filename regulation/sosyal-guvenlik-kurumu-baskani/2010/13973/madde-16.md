@@ -1,0 +1,3 @@
+Sigortalı tescili ve sosyal güvenlik sicil numarası
+MADDE 16 – (1) Sigortalılar, Kuruma verilen ilk veya tekrar sigortalı işe giriş bildirgelerine göre Türkiye Cumhuriyeti kimlik numaraları ile bilgisayar ortamında tutulan tescil kütüğüne kayıt edilir. Türkiye Cumhuriyeti kimlik numarası, aynı zamanda sigortalıların sosyal güvenlik sicil numarasını oluşturur. Sigortalıların tescil, hizmet ve her türlü bilgisayar kayıtları ile diğer sosyal sigorta işlemleri, sosyal güvenlik sicil numarası altında tutulur.
+(2) Yabancı uyruklulara Nüfus ve Vatandaşlık İşleri Genel Müdürlüğünce verilecek kimlik numaraları aynı zamanda bunlar için sosyal güvenlik sicil numarası olarak kullanılır.

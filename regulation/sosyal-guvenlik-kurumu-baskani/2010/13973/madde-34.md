@@ -1,0 +1,4 @@
+İşyeri dosyalarının işlemden kaldırılması
+MADDE 34 – (1) İşyerinin yanlış veya yersiz olarak tescil edildiğinin tespiti hâlinde, ünitece tescil işleminin iptali yapılır.
+(2) Aynı iş veya işyerine birden fazla sicil numarası verilmiş olduğunun anlaşılması hâlinde, sonradan verilen numaralar ünitece re’sen iptal edilir. İptal edilen numaralar başka işyerine verilmez. Ancak işlemler sonradan verilen numaradan yürütülmüşse geriye dönük işlem yapmamak için diğer numaralar, işlem gören işyeri dosyasının numarasında birleştirilir.
+(3) Özel nitelikteki inşaat işyerleri ile ihale konusu işyerleri hariç olmak üzere, kapanma, terk veya tasfiye olmadığı hâlde, işyerinde en az iki yıl süre ile sigortalı çalıştırılmadığı, işverenler tarafından bildirilen veya Kurumca tespit edilen işyeri dosyaları, sigortalı çalıştırılmaya son verilen tarih itibarıyla ünitece Kanun kapsamından çıkarılır.

@@ -1,0 +1,2 @@
+Yabancı uyrukluların başvuruları
+MADDE 81 – (1) Yabancı uyruklu sigortalılarla, bunların hak sahipleri için nüfus cüzdanının fotokopisi yerine, bunların hüviyetlerini gösteren ve 24/4/2006 tarihli ve 5490 sayılı Nüfus Hizmetleri Kanununa göre yetkili makamlar tarafından düzenlenerek verilen yabancılara ait ikamet tezkeresi, Kuruma ibraz edilir. Hak sahibi yabancılar, hak sahibi olduklarını Kurumca istenecek belgelerle ispatlar.

@@ -1,0 +1,3 @@
+Ücret tediye bordrosunun ayrı ayrı düzenlenmesi ve belgenin işyeri kayıtları ile mutabakatı
+MADDE 106 – (1) Tehlike sınıfları farklı olan işyerlerinde çalışan sigortalıların aylık ücret tediye bordroları işverence ayrı ayrı düzenlenir.
+(2) Aynı işverene ait iş veya işyerleri ile ilgili defter veya kayıtların müştereken tutulmuş olması ve bu defter veya kayıtların, her iş veya işyeri için ayrı ayrı verilmiş olan aylık prim ve hizmet belgesinde yazılı kazançlar toplamı ile uyumlu olması hâlinde, iş veya işyeri kayıtlarının verilen bu belgelerde yazılı olanları doğrulayıcı nitelikte olduğu kabul edilir.

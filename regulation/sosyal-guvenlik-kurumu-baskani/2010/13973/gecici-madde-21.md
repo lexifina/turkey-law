@@ -1,0 +1,3 @@
+506 sayılı Kanunun geçici 20 nci maddesi kapsamındaki sandıklarca kuruma yapılacak bildirimler
+GEÇİCİ MADDE 21 – (1) 506 sayılı Kanunun geçici 20 nci maddesi kapsamındaki sandıklar Kuruma devir tarihine kadar, 1/8/2009 tarihinden sonra işe başlayan ve işten ayrılan iştirakçilerinin, sandıkla ilgilerinin başlamasına ilişkin bildirimlerini Ek-4, sandıkla ilgilerinin sona ermesine ilişkin bildirimlerini ise Ek-5 ile, işe başlama ve işten ayrılma tarihinden itibaren en geç on gün içinde Kuruma yaparlar.
+(2) Sigortalı işe giriş ve işten ayrılış bildirgesinin elektronik ortamda verilme usulü hakkında bu Yönetmeliğin 5 inci maddesi gereğince işlem yapılır.

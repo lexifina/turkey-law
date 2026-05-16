@@ -1,0 +1,5 @@
+Belirli yerde yapılmayan ve belirli bir merkezden sevk ve idare edilen işlerin tescili
+MADDE 30 – (1) İşyeri bildirgesi, sigortalı çalıştırılmaya başlanılan, devir alınan veya başka bir işverene intikal eden işin, belirli bir yerde yapılmaması hâlinde işverenin ikametgâhının bulunduğu; bir ‘il’den diğer bir ‘il’e geçmesi ve devam etmesi hâlinde ise işin başladığı yeri çevresine alan; üniteye verilir.
+(2) Büro, yazıhane gibi belli bir merkezden sevk veya idare edilmeyen ve faaliyeti belirli bir yere bağlı olmayan işler, belirli yerde yapılmayan işler olarak kabul olunur.
+(3) Belirli bir yerde yapılmayan işlerde işverenin ikametgâhı ile işin görüldüğü yerler Kuruma ait ayrı ünite bölgelerinde bulunuyorsa, sigorta işlemlerinin işverenin yazılı başvurması üzerine, işin yapıldığı yeri çevresine alan ünite veya ünitelerinden biri tarafından yürütülmesine, Kurumca izin verilebilir.
+(4) Faaliyeti belirli bir yere bağlı olmamakla beraber, büro, yazıhane gibi belirli bir merkezden sevk ve idare edilen işler, belirli bir yerde yapılmış sayılır ve işyeri bildirgesi, işin sevk ve idare edildiği yeri çevresine alan üniteye verilir.

@@ -1,0 +1,2 @@
+Kurumca hazırlanacak belgeler
+MADDE 83 – (1) Kanunda belirtilen ödeneklerin verilmesi, gelir veya aylıkların bağlanması için yapılan başvurular ile bunların ödenmesi ve yoklanması sırasında, bu Yönetmelik gereğince Kuruma veya diğer ilgili kişi ve kuruluşlara verilmesi gereken belgelerin hazırlanmasına, değiştirilmesine, bir belgede yer alan bilgilerin birden fazla belge olarak ya da farklı belgelerin birleştirilerek bir belge olarak düzenlenmesine Kurum yetkilidir.

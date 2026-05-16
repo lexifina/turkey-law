@@ -1,0 +1,6 @@
+Aylık ve gelirlerin birleşmesi
+GEÇİCİ MADDE 31 – (Ek:RG-17/4/2012-28267)
+(1) İştirakçiliği Kanunun yürürlük tarihinden önce başlayan, Kanunun 4 üncü maddesinin birinci fıkrasının (c) bendi kapsamındaki sigortalılar hariç olmak üzere, sigortalı veya hak sahiplerinin Kanunun yürürlük tarihinden önce;
+a) Bir dosyadan gelir veya aylık almakta iken Kanunun yürürlük tarihinden sonra yeni bir dosyadan gelir veya aylığa hak kazanması halinde; eski ve yeni sigortalılık halinin aynı olması durumunda Kanunun 54 üncü maddesi, farklı olması durumunda ise Kanunun yürürlük tarihinden önceki kanunların mülga hükümleri uygulanır.
+b) Birden fazla dosyadan gelir ve aylık almakta iken Kanunun yürürlük tarihinden sonra yeni bir dosyadan gelir ve aylığa hak kazanması halinde, yeni bağlanacak dosyadaki gelir ve aylık miktarı da dahil olmak üzere (a) bendinde belirtilen şekilde mukayese işlemi yapılarak en düşük miktarlı dosya kapsamdan çıkarılır.
+(2) (a) ve (b) bentlerine göre yapılan değerlendirme sonucunda, tercih durumları hariç olmak üzere sigortalı ve hak sahiplerine ödenecek gelir ve aylıklara ilişkin dosya sayısı ile gelir ve aylık miktarı, Kanunun yürürlük tarihinden önceki dosya sayısı ile gelir ve aylık miktarının altında olamaz.
