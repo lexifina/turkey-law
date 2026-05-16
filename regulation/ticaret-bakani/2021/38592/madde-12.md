@@ -1,0 +1,3 @@
+Görevde yükselme suretiyle atanma
+MADDE 12 – (1) 10/6/2020 tarihli ve 31151 sayılı Resmî Gazete’de yayımlanan Ticaret Bakanlığı Personeli Görevde Yükselme ve Unvan Değişikliği Yönetmeliği çerçevesinde taşra teşkilatında yer değiştirme suretiyle atamaya tabi kadrolar arasında bulunan bir üst göreve veya eşdeğer bir başka idari göreve atanmaya hak kazananlar, Ek-1’de yer alan cetveldeki 2 nci veya 3 üncü hizmet bölgelerinden birine atanır.
+(2) Birinci fıkra kapsamındaki personelin Ek-1’de yer alan cetveldeki 2 nci ve 3 üncü hizmet bölgelerindeki çalışma sürelerini tamamlamış olması veya bu bölgelerde hizmetlerine ihtiyaç duyulmaması halinde, bu personelin yer değiştirme suretiyle atanmaları, hizmet ihtiyacına göre yapılır.

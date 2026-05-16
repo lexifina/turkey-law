@@ -1,0 +1,9 @@
+Yer Değiştirme Kurulunun görevleri
+MADDE 18 – (1) Kurul, kontenjanı ve standart kadro sayısını belirler. Ayrıca Kurul, personelin disiplin durumunu, daha önce görev yaptığı hizmet bölgelerini ve birimlerini, yer değiştirme suretiyle atanmak istediği yerleri ve varsa mazeretine ilişkin belgeleri inceleyerek;
+a) 10 uncu maddede belirtilen mazeret durumlarına ilişkin başvuruları değerlendirir ve karara bağlar.
+b) 11, 12, 13 ve 14 üncü maddeler ile 9 uncu maddenin ikinci fıkrasının (c), (ç), (d) ve (e) bentlerinde sayılan personelin durumlarını karara bağlar.
+c) 6 ncı maddenin birinci fıkrasının (a) ve (b) bentlerinde sayılan personelden bölge amiri, müdür yardımcısı ve üstü unvanlarda görev yapanlar ile 6 ncı maddenin birinci fıkrasının (c), (ç) ve (d) bentlerinde sayılan personel ve 14/2/2000 tarihli ve 2000/284 sayılı Bakanlar Kurulu Kararıyla yürürlüğe konulan Güvenlik Soruşturması ve Arşiv Araştırması Yönetmeliğinin 15 inci maddesi kapsamında değerlendirilen personelin görev yerlerini, hizmet birimlerinin ihtiyacı ve tercihlere göre belirler.
+ç) E-atama işlemleri, kurulun gözetim ve denetiminde gerçekleştirilir.
+(2) 6 ncı maddenin birinci fıkrasının (a) ve (b) bentlerinde sayılan personelden, (Değişik ibare:RG-14/4/2023-32163) 1 inci hizmet bölgesinde aynı hizmet biriminde toplam hizmet süresi on beş yıl ve üstü olanların görev yapacakları hizmet birimlerini, standart kadro sayısı ve Bakanlığın hizmet ihtiyacı çerçevesinde üç yılda bir değerlendirilerek karara bağlar.
+(3) 6 ncı maddenin birinci fıkrasının (a) ve (b) bentlerinde sayılan personelden bölge amiri, müdür yardımcısı ve üstü unvanlarda, atandığı yerde beş yıl ve üzeri görev yapanların görev yerleri Kurul tarafından değiştirilebilir.
+(4) Atamaya yetkili amirin onayına sunulmak üzere, kararlarını Genel Müdürlüğe iletir.

@@ -1,0 +1,2 @@
+Önceki yönetmeliklerde engelli kapsamına alınmış personel
+GEÇİCİ MADDE 5 – (1) 25 inci madde ile yürürlükten kaldırılan; Ekonomi Bakanlığı Taşra Teşkilatı Personelinin Yer Değiştirme Suretiyle Atanmasına Dair Yönetmelik ile Gümrük ve Ticaret Bakanlığı Yer Değiştirme Yönetmeliği kapsamında engelli birey olarak yer değiştirme suretiyle atanma veya yerinde kalma talebi yerine getirilen personelin, engelli raporlarını yenileyerek 2021 yılı yer değiştirme dönemine kadar Genel Müdürlüğe ibraz etmesi ve Yer Değiştirme Kurulunca yeniden karar alınması gerekir.

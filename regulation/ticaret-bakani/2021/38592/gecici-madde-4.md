@@ -1,0 +1,3 @@
+İlk defa yer değiştirme suretiyle atamaya tabi tutulacak personel
+GEÇİCİ MADDE 4 – (1) 10/7/2018 tarihli ve 30474 sayılı Resmî Gazete’de yayımlanan 1 Sayılı Cumhurbaşkanlığı Teşkilatı Hakkında Cumhurbaşkanlığı Kararnamesinin yürürlüğe girmesinden önce ticaret il müdürlüklerinde görev yapan ticaret denetmenleri ile ticaret denetmen yardımcıları, 2022 yılı yer değiştirme dönemine kadar zorunlu yer değiştirme suretiyle atamaya tabi tutulmaz.
+(2) Mülga Ekonomi Bakanlığı taşra teşkilatı bölge müdürlüklerinde görev yapan şube müdürü, şef, memur, veri hazırlama ve kontrol işletmeni ile bilgisayar işletmeni unvanlı personel, 2023 yılı yer değiştirme dönemine kadar zorunlu yer değiştirme suretiyle atamaya tabi tutulmaz.
