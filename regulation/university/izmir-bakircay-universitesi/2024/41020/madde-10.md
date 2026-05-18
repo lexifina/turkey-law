@@ -1,0 +1,3 @@
+Müdür yardımcısı
+MADDE 10- (1) (Değişik:RG-18/5/2026-33257) Müdüre çalışmalarında yardımcı olmak üzere, Üniversite Psikoloji bölümü öğretim üyeleri arasından bir kişi, Müdürün önerisi üzerine Rektör tarafından üç yıllık süre için müdür yardımcısı olarak görevlendirilir. Rektör gerektiğinde aynı usulle müdür yardımcısını değiştirebilir. Müdürün görev süresi sona erdiğinde müdür yardımcısının da görevi sona erer.
+(2) Müdür yardımcıları Merkezin faaliyetleri ile ilgili olarak Müdürün kendilerine verdiği görevleri yerine getirirler. Müdür, görevi başında bulunmadığı zamanlarda yardımcılarından birini vekil olarak bırakır.
