@@ -1,0 +1,22 @@
+{
+  "number": "89",
+  "number_as_published": "2026/89",
+  "year": 2026,
+  "title": "council decision",
+  "decision_date": "2026-05-18",
+  "source": "https://eyupsultan.bel.tr/tr/main/pages/2026-yili-1olaganustu-meclis-kararlari/2857",
+  "official_document": "https://eyupsultan.bel.tr/tr/main/pages/2026-89/2856",
+  "source_sha256": "3ee792efbc5b5ce516f318a9dcdb982307be72842c675f3079733177ad4bc6c1",
+  "issuer": "Eyüpsultan Belediye Meclisi",
+  "history_type": "metadata",
+  "text_status": "metadata-only: subject appears to concern individual persons; official link only",
+  "in_force": "2026-05-18",
+  "in_force_basis": "Decision date as printed in the official council listing: 18.05.2026 (meeting date at the start of the decision page); adoption date of the council decision; legal commencement not asserted",
+  "missing": [
+    "complete official decision text",
+    "official annexes"
+  ],
+  "law_text_complete": false,
+  "privacy_withheld": true,
+  "decision_page_sha256": "1f18278a3ac41bed54e0500d26201c601dab345c02258e32ac68ce793a30040e"
+}
