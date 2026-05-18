@@ -1,0 +1,32 @@
+{
+  "checked_on": "2026-11-14",
+  "commencement_quotes": [
+    "Yürürlük\nMADDE 19- (1) Bu Yönetmelik yayımı tarihinde yürürlüğe girer.\n"
+  ],
+  "completeness": "text",
+  "date_quote": "amendment Gazette table: 18/5/2026",
+  "first_law": null,
+  "gazette": "32630",
+  "images": {
+    "deferred": 0,
+    "omitted": 0,
+    "referenced": 0,
+    "source": 0
+  },
+  "in_force": "2026-05-18",
+  "in_force_basis": "latest amendment Gazette date printed by the source for its current consolidated text",
+  "issuer": "İzmir Bakırçay Üniversitesi",
+  "kind": "regulation",
+  "notes": [],
+  "published": "2024-08-12",
+  "source": "https://www.mevzuat.gov.tr/anasayfa/MevzuatFihristDetayIframe?MevzuatTur=8&MevzuatNo=40916&MevzuatTertip=5",
+  "source_bytes": 31815,
+  "source_id": "8.5.40916",
+  "source_sha256": "08e4cd8617045539bc14a803ac69c7460878ac0d82c7d1b9bece06b257baf6b9",
+  "structure": "article-files",
+  "text_status": "current-consolidated",
+  "title": "İZMİR BAKIRÇAY ÜNİVERSİTESİ FİZYOTERAPİ VE REHABİLİTASYON UYGULAMA VE ARAŞTIRMA MERKEZİ YÖNETMELİĞİ",
+  "university_id": 470,
+  "version_label": "oldest version available",
+  "word_count": 968
+}
