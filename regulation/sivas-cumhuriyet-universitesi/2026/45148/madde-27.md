@@ -1,0 +1,6 @@
+Tez izleme komitesi
+MADDE 27- (1) Yeterlik sınavında başarılı bulunan öğrenci için ilgili enstitü ana bilim/ana sanat dalı kurulunun önerisi ve EYK onayı ile bir ay içinde tez izleme komitesi (TİK) oluşturulur.
+(2) TİK, üç öğretim üyesinden oluşur. Komitede tez danışmanından başka enstitü ana bilim/ana sanat dalı içinden ve dışından birer üye yer alır. TİK üyelerinin uzmanlık alanlarının belirlenmiş olan tez konusu ile uyumlu olmasına özellikle disiplinler arası tez çalışmalarında TİK üyelerinin farklı disiplinlerden olmasına ve ilgili disiplinin öğretim üyelerinin de görev almasına dikkat edilir. İkinci tez danışmanının olması durumunda ikinci tez danışmanı komite toplantılarına katılabilir.
+(3) TİK’in kurulmasından sonraki dönemlerde, enstitü ana bilim/ana sanat dalı başkanlığının önerisi ve EYK onayı ile üyelerde değişiklik yapılabilir.
+(4) Emekli olan öğretim üyeleri tez izleme komitesinde üye olarak devam edebilir.
+(5) Tez izleme komitesinde yer alan üyelerden herhangi birinin tez izleme komitesinden ayrılması için ayrılmak isteyen komite üyesinin ve tez danışmanının, ayrılmanın gerekçesini belirttiği dilekçeleri ile ana bilim/ana sanat dalı kuruluna başvurması ve ana bilim/ana sanat dalı kurulu tarafından uygun görülmesi durumunda kurul kararı ile birlikte enstitüye sunulması gerekmektedir.

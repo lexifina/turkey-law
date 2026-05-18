@@ -1,0 +1,2 @@
+Öğretim dili
+MADDE 40- (1) Enstitülerde öğretim dili Türkçedir. Ancak, EK’nin önerisi ve Senato kararı ile belirli programlarda bütün dersler veya bazı dersler gerekli olduğu dönemlerde yabancı dilde verilebilir. Tezler ve sanatta yeterlik çalışmaları öğretim dilinde yazılır. Lisansüstü eğitim öğretimin tamamının bir yabancı dilde yapıldığı programlarda dersler, yeterlik raporu, tez, sanatta yeterlik çalışması ve savunma sınavları/raporları öğretim dilinde yapılır.

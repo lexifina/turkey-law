@@ -1,0 +1,4 @@
+Lisansüstü programlara kayıt
+MADDE 49- (1) Kayıt yapma ve kayıt yenileme için, başvuru şartlarını yerine getiren ve kesin kayıt hakkını kazanan adaylar ilgili EYK tarafından belirlenen belgeleri süresi içerisinde enstitüye teslim ederler. Kazanan adayların süresi içinde kayıt yaptırmaması durumunda, gerekli başarı puanını sağlamış, ancak kontenjan nedeniyle kayıt yaptıramamış olan yedek listedeki adaylar puan sırasına göre EYK tarafından belirlenen süre içinde kayıt yaptırabilir.
+(2) Öğrenciler, her yarıyıl başında kayıtlarını yenilemekle yükümlüdürler. Öğrencinin kayıt yaptırmadığı dönem, öğrenim süresinden sayılır. Kayıt yenilemeyen öğrenciler ilgili dönemdeki öğrencilik haklarından yararlanamaz.
+(3) Tezsiz yüksek lisans programları hariç aynı anda birden fazla lisansüstü programa kayıt yaptırılamaz.

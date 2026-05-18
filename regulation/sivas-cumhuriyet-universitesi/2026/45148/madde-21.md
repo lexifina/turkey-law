@@ -1,0 +1,20 @@
+Başvuru
+MADDE 21- (1) Doktora programına başvurabilmek için adayların;
+a) Tezli yüksek lisans derecesi ile doktora programına başvuranların tezli yüksek lisans diplomasına ve doktora programında başvurdukları alanın puan türündeki ALES sınavından en az 60 puana sahip olmaları gerekir.
+b) Tıp, Diş Hekimliği, Veteriner ve Eczacılık fakülteleri ile hazırlık sınıfları hariç en az on yarıyıl süreli lisans diplomasına veya Sağlık Bakanlığınca düzenlenen esaslara göre bir laboratuvar dalında kazanılmış uzmanlık yetkisine sahip olmaları ve doktora programında başvurdukları alanın puan türündeki ALES’ten en az 60 puana sahip olmaları gerekir.
+c) Lisans derecesiyle doktora programına başvuranların doktora programında başvurdukları puan türünden ALES’te ilgili puan türünden en az 80 puana sahip olmaları gerekir.
+ç) Lisans derecesiyle doktora programına başvuranların lisans mezuniyet not ortalamalarının 4’lük sistemde en az üç veya YÖK dönüşüm tablosuna göre muadili bir puana sahip olmaları, hazırlık sınıfı hariç en az on yarıyıl süreli Tıp, Diş Hekimliği, Veteriner ve Eczacılık fakülteleri mezunlarının ise en az 4 üzerinden 2,5 veya YÖK dönüşüm tablosuna göre muadili bir puana sahip olmaları gerekir.
+(2) Hazırlık sınıfları hariç, on yarıyıl süreli lisans eğitimi alanlar yüksek lisans derecesine sahip sayılırlar.
+(3) Doktora/sanatta yeterlik/tıpta uzmanlık/diş hekimliğinde uzmanlık/veteriner hekimliğinde uzmanlık/eczacılıkta uzmanlık mezunlarının doktora programlarına başvurularında ALES şartı aranmaz ve bu adayların değerlendirme işlemleri için;
+a) Mezun olduğu lisansüstü programa girişteki puan türü veya uzmanlık alanı dikkate alınmaksızın, ALES puanı 65 olarak kabul edilerek hesaplamalara dâhil edilir ve ilgili programın şartlarında ilan edilir.
+b) Bu adaylar daha önceden aldıkları puan türünden veya doktora/sanatta yeterlik/uzmanlık alanından, farklı bir alanda başvuru yapabilir.
+(4) Konservatuvar programları ile güzel sanatlar fakültelerinin özel yetenek sınavı ile öğrenci kabul eden programlarının enstitülerdeki ana sanat/ana bilim dallarına öğrenci kabulünde ALES puanı şartı aranmaz.
+(5) Temel tıp bilimlerinde doktora programlarına başvurabilmek için;
+a) Tıp fakültesi mezunlarının lisans diplomasına ve TUS’tan alınmış en az 50 temel tıp puanına veya ALES’in sayısal puan türünde en az 60 puana,
+b) Tıp fakültesi mezunu olmayanların yüksek lisans diplomasına (Diş Hekimliği, Eczacılık ve Veteriner fakülteleri mezunlarının lisans derecesine) ve ALES’in sayısal puan türünde en az 60 puana,
+sahip olmaları gerekir.
+c) Temel tıp puanı, TUS’ta Temel Tıp Bilimleri Testi-1 bölümünden elde edilen standart puanın 0,7; Klinik Tıp Bilimleri testinden elde edilen standart puanın 0,3 ile çarpılarak toplanması ile elde edilir. Bu hesaplama DUS, VUS, EUS ve muadili sınavlar için de geçerlidir.
+(6) Doktora programlarına öğrenci kabulünde YÖK tarafından kabul edilen merkezî yabancı dil sınavlarından en az 55 puan veya eşdeğerliği kabul edilen uluslararası yabancı dil sınavlarından bu puan muadili bir puan alınması zorunludur. Yabancı dilde eğitim yapılan programlarda doktoraya başvuracak adayların;
+a) Öğretim dili yabancı bir dil olan lisansüstü programlarda öğrenim göreceklerin ilgili yabancı dilde YDS, YÖKDİL sınavı veya ÖSYM tarafından eşdeğer kabul edilen uluslararası yabancı dil sınavlarının birinden ana bilim/ana sanat dalı tarafından belirlenen ve EYK tarafından onaylanan asgari puan almaları gerekir.
+b) Öğretim dili dışında farklı bir dilden ise YÖK tarafından kabul edilen merkezî yabancı dil sınavlarından en az 55 puan veya eşdeğerliği kabul edilen uluslararası yabancı dil sınavlarından muadili bir puan almış olmaları gerekir.
+(7) Adayların başvurularının değerlendirilmesi ve/veya bilimsel değerlendirme sınavının yapılması amacıyla, ilgili ana bilim/ana sanat dalı kurulunun önerisi üzerine EYK tarafından her program için o döneme ait bir değerlendirme jürisi oluşturulur. Değerlendirme jürisi, Üniversite kadrosunda görev yapan öğretim üyeleri arasından seçilen üç veya beş asıl üye ile iki yedek üyeden oluşur.

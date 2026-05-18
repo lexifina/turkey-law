@@ -1,0 +1,5 @@
+Süre
+MADDE 9- (1) Tezli yüksek lisans programının süresi bilimsel hazırlıkta geçen süre hariç kayıt yaptırdığı programa ilişkin derslerin verildiği yarıyıldan başlamak üzere, her yarıyıl için kayıt yaptırılıp yaptırılmadığına bakılmaksızın dört yarıyıl olup, program en fazla altı yarıyılda tamamlanır. Tez düzeltmesi ve tez teslimi için verilen süre azami süreye dâhil değildir.
+(2) Dört yarıyıl sonunda öğretim planında yer alan kredili dersleri ile bilimsel araştırma teknikleri ile araştırma ve yayın etiği konularını içeren dersi ve seminer dersini başarıyla tamamlayamayan öğrencinin ders yarıyılı sonunda; azami süre içerisinde tez çalışmasında başarısız olan veya tez savunmasına girmeyen öğrencinin öğretim yılı sonunda ilgili lisansüstü program ile ilişiği kesilir.
+(3) Derslerini, seminer dersini ve tez çalışmasını başarı ile tamamlamış olan öğrenciler, en erken üçüncü yarıyılın sonunda mezun olabilirler.
+(4) Daha önce bir lisansüstü programına kayıtlı olup tez döneminde ilişiği kesilen öğrenciler herhangi bir nedenle yeniden kayıt hakkı kazanmaları durumunda kayıt yaptırdıkları yarıyılı takip eden yarıyılda tez savunma sınavına girebilir.

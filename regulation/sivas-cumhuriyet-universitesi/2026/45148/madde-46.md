@@ -1,0 +1,2 @@
+Tezsiz yüksek lisans programları arası geçiş
+MADDE 46- (1) Tezsiz programlar arası geçiş başvuruları, en geç üçüncü yarıyıl başına kadar yapılır. Programlar arası geçiş yapacak öğrencinin kayıtlı bulunduğu enstitüde almış olduğu derslerin tümünü başarmış olması ve aldığı derslerden genel not ortalamasının 100 puan üzerinden en az 75 olması gerekir. Programlar arası geçiş şartlarını sağlayanların sayısı ilan edilen kontenjandan fazla ise genel not ortalaması daha yüksek olanlar öncelik kazanır.

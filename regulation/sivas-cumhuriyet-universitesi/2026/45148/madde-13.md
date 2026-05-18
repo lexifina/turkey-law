@@ -1,0 +1,4 @@
+Tezsiz yüksek lisans programına başvuru ve kabul
+MADDE 13- (1) Tezsiz yüksek lisans programlarına başvurabilmek için adayların lisans diplomasına veya YÖK’ten lisans için verilmiş denklik belgesine sahip olmaları gerekir. Hangi lisans mezunlarının hangi programlara başvurabileceği ana bilim/ana sanat dalı kurulunun önerisi ve EYK kararı ile belirlenir.
+(2) Tezsiz yüksek lisans programına başvurmak için adayların bir lisans programından mezun veya mezun olabilecek durumda olmaları gerekir. Bu programlara öğrenci kabulünde ALES veya eşdeğeri sayılan uluslararası sınav puanı zorunlu değildir.
+(3) Başvuru tarihinde mezun olabilecek adaylar için mevcut not durum belgeleri (transkript) ortalaması esas alınır. Öğrenci kesin kayıt süresinin bitimine kadar mezuniyet belgesini ibraz etmek zorundadır.

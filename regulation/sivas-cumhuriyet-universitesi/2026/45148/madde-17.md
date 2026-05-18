@@ -1,0 +1,3 @@
+Danışman atanması
+MADDE 17- (1) Tezsiz yüksek lisans programında, ana bilim/ana sanat dalı kurulunun önerisi ve EYK’nin kararıyla her öğrenci için ders seçiminde ve dönem projesinin yürütülmesinde danışmanlık yapacak bir öğretim üyesi veya doktora derecesine sahip bir öğretim görevlisi en geç birinci yarıyılın sonuna kadar belirlenir ve atanır. Proje danışmanı atamalarında, öğretim elemanlarının danışmanlık yükleri dikkate alınır. Bir öğrencinin danışmanı, öğrencinin ve/veya danışmanın yazılı talebi, ana bilim/ana sanat dalı kurulunun gerekçeli önerisi ve EYK kararıyla değiştirilebilir.
+(2) Proje danışmanı olarak önerilecek öğretim üyesi/elemanı başına düşen öğrenci danışmanlık sayısının üst sınırı on altıdır.
