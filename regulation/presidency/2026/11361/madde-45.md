@@ -1,0 +1,2 @@
+Kimlik tespiti
+MADDE 45- (1) Adli vakalarda muayene edilmek üzere getirilen kişinin resmî evrakta belirtilen kişi olup olmadığı kontrol edilir. Kişinin kimliği konusunda şüpheye düşülmesi hâlinde durum derhal Cumhuriyet başsavcılığına bildirilir. Kişinin kimlik kontrolünde, yasal olarak geçerli bir kimlik belgesi ibrazı esastır. Böyle bir belge ibraz edilememesi hâlinde, durum raporda belirtilir ve tıbbi kimlik bilgileri yazılır.

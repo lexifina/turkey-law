@@ -1,0 +1,2 @@
+Kulak burun boğaz muayenesine ilişkin esaslar
+MADDE 19- (1) Yivli silah ruhsatına yönelik sağlık kurulu kulak burun boğaz muayenesinde; kişinin etraftan gelen sesleri ve uyarıları duyup duymadığı, sesin geldiği yönü tayin edip edemediği, güvenli bir atış yapabilmesi için işitme ve yön tayini kabiliyetinin olup olmadığı değerlendirilir. Bunlara sahip olmayanlara olumlu sağlık kurulu raporu verilmez.

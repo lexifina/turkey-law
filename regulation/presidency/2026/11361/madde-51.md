@@ -1,0 +1,7 @@
+Ölü kimliğini belirleme, otopsi ve ölü muayenesi
+MADDE 51- (1) Hekimler, adli hekimlik hizmeti kapsamında, Cumhuriyet savcılarınca ölü kimliğini belirlemek ve adli muayene yapmak, otopsi yapmak, yeni doğanın cesedinin adli muayenesini veya otopsisini yapmak, zehirlenme şüphesi üzerine inceleme yapmak üzere görevlendirilebilir. Bu durumlarda 5271 sayılı Kanunun ilgili maddeleri ile meslekî ve adli hekimlik bilgilerine göre işlem yapılır.
+(2) Ölü muayenesi ve defin ruhsatı düzenlenmesinde aşağıdaki kurallara uyulur:
+a) Ölünün muayenesi ve defin ruhsatı düzenleme işlemi, belediye hekiminin bulunduğu yerleşim yerlerinde, varsa bu hekimlerce yapılır. Belediye hekiminin olmadığı yerlerde bu işlem, o yerleşim biriminde otopsi hizmeti vermek üzere görevlendirilmiş hekimlerce yerine getirilir. Vatandaşların bu konuda mağdur edilmemesi için adli hekimlik hizmetleri kapsamında il sağlık müdürlüklerince gerekli önlemler alınır.
+b) Ölüm esnasında ölüme sebep olan hastalığı tedavi eden hekim tarafından ve ölüm olayı hastanede meydana gelmişse bu kurum tarafından da defin ruhsatı düzenlenebilir.
+c) Ölüm olayının adli yönü olduğu veya bir bulaşıcı hastalık sonucu meydana geldiği düşünülüyorsa, ilgili adli makamlar veya il sağlık müdürlüğü bilgilendirilir.
+(3) Adli makamlarca sağlık hizmet sunucularına gönderilen ölü muayenesi ve otopsi işlemlerine ilişkin bedeller, ilgili Cumhuriyet Başsavcılığı tarafından karşılanır.

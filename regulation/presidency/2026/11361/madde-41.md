@@ -1,0 +1,4 @@
+Muayene yapmaya ve rapor tanzimine yetkili kişiler
+MADDE 41- (1) Adli vakaların muayenesi ve rapor tanzimi işlemi, mutlaka hekimlik yapma yetkisine sahip kişilerce, muayeneyi yapanın çalıştığı kurumun bu işe uygun bir mekânında yapılır. Kadının muayenesi, istemi hâlinde ve olanaklar elverdiğinde bir kadın hekim tarafından yapılır. Muayene edilecek kadının talebine rağmen bir kadın hekimin bulunmasına olanakların elvermediği durumlarda, muayene sırasında hekim ile birlikte bir başka kadın sağlık mesleği personelinin bulundurulmasına özen gösterilir.
+(2) Fizik kimliğinin tespiti açısından, kişinin ağzındaki dişlerin incelenmesi ve diş izlerinin alınması diş hekimi tarafından yapılır.
+(3) Kişilerin dış beden muayenesi kapsamında değerlendirilebilecek tıbbi görüntüleme, laboratuvar tetkikleri ve benzeri işlemler, hekim gözetiminde sağlık mesleği mensubu diğer yetkili bir kişi tarafından da yapılabilir.

@@ -1,0 +1,2 @@
+Dayanak
+MADDE 3- (1) Bu Yönetmelik, 11/4/1928 tarihli ve 1219 sayılı Tababet ve Şuabatı San’atlarının Tarzı İcrasına Dair Kanunun 13 üncü maddesi, 7/5/1987 tarihli ve 3359 sayılı Sağlık Hizmetleri Temel Kanunu hükümleri ve 24/11/2004 tarihli ve 5258 sayılı Aile Hekimliği Kanununun 5 inci maddesi ile 1 sayılı Cumhurbaşkanlığı Teşkilatı Hakkında Cumhurbaşkanlığı Kararnamesinin 355 inci ve 537 nci maddelerine dayanılarak hazırlanmıştır.

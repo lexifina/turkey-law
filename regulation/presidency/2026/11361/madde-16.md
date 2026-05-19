@@ -1,0 +1,2 @@
+Ortopedi muayenesine ilişkin esaslar
+MADDE 16- (1) Yivli silah ruhsatına yönelik sağlık kurulu ortopedi muayenesinde; kişinin silahın güvenli bir şekilde kullanıma hazır hâle getirilmesi, güvenli olarak kullanılması, atış esnasında etrafa zarar verilmemesi ve silahın tam olarak kavranabilmesi yetenekleri tespit edilir. Gazi unvanına sahip olanlar hariç olmak üzere baskın kullanılan ekstremite ayrımı olmaksızın her iki üst ekstremitede yukarıda belirtilen kavrama, güç ve hareket kabiliyeti olmayanlara olumlu sağlık kurulu raporu verilmez.

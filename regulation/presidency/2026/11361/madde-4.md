@@ -1,0 +1,21 @@
+Tanımlar
+MADDE 4- (1) Bu Yönetmeliğin uygulanmasında;
+a) Bakanlık: Sağlık Bakanlığını,
+b) Çalışan sağlığı merkezi (ÇASMER): Sağlık Bakanlığına bağlı, iş yerlerine iş sağlığı ve güvenliği hizmetleri sunmak üzere 20/06/2012 tarihli ve 6331 sayılı İş Sağlığı ve Güvenliği Kanunu kapsamında Çalışma ve Sosyal Güvenlik Bakanlığınca yetkilendirilen, gerekli donanım ve çalışanlara sahip birimi,
+c) Durum bildirir tek hekim sağlık raporu: Kişilerin sağlık durumları hakkında karar verilen ve tek hekim tarafından düzenlenen sağlık raporunu,
+ç) e-Rapor: Sağlık raporlarının elektronik olarak düzenlenebildiği, e-İmza ile onaylanabildiği, Sağlık Bakanlığı tarafından kurulan elektronik sistemi,
+d) Fenne ve usule aykırı sağlık raporu: Tıp biliminin genel kabul görmüş uygulamaları ile ilgili mevzuatında ve bu Yönetmelikte tespit edilen usul ve esaslara uyulmaksızın düzenlenen raporu,
+e) ICD Tanı kodu: Uluslararası hastalık sınıflaması tanı kodunu,
+f) Kişisel sağlık bilgi formu: Formatı Sağlık Bakanlığı tarafından belirlenen ve kişisel sağlık durumu hakkında kişinin beyanını içeren, sağlık raporu başvurusu öncesinde doldurulan belgeyi,
+g) Kontrol muayenesi sağlık raporu: Kurumlarca ilgili mevzuat gereğince verilen hizmetin sürdürülmesini teminen kişinin sağlık durumunun yeniden değerlendirilmesi amacıyla istenen muayene sonucu düzenlenen raporu,
+ğ) Kurul sekretaryası: İkinci ve üçüncü basamak sağlık hizmet sunucularında sağlık raporu işlemlerinin başlatıldığı, takip edildiği, sonuçlandırıldığı birimleri,
+h) Kurum: İlgili mevzuat gereği kişiden sağlık raporu talep eden kamu ve/veya özel kurum ve kuruluşları,
+ı) MEDULA e-Rapor: 31/5/2006 tarihli ve 5510 sayılı Sosyal Sigortalar ve Genel Sağlık Sigortası Kanunu gereği maluliyet tespit işlemlerine esas olmak üzere MEDULA uygulamasında düzenlenen elektronik raporu,
+i) Sağlık durum belgesi: Kişilerin genel sağlık geçmişi hakkında bilgi veren, Sağlık Bakanlığı sistemlerinde oluşturulan belgeyi,
+j) Sağlık hizmeti sunucusu: Sağlık hizmeti sunan ve/veya üreten gerçek kişiler ile kamu tüzel kişileri veya özel hukuk tüzel kişilerini ve bunların tüzel kişiliği bulunmayan şubelerini,
+k) Sağlık kurulu: Tek hekimin yetkisi dışında kalan hususlarda veya mevzuatta sağlık kurulu raporunun öngörüldüğü hâllerde, kişilerin sağlık durumları hakkında karar vermeye yetkili organları,
+l) Sağlık kurulu raporu: Tek hekimin yetkisi dışında kalan hususlarda kişilerin sağlık durumları hakkında karar verilen, üç veya daha fazla uzman hekim tarafından düzenlenen sağlık raporunu,
+m) Sağlık raporu: Düzenlendiği tarihte kişinin beden ve ruh sağlığının belirli bir amaca uygun olup olmadığının veya genel sağlık durumunun, bir veya birden çok hekim tarafından yapılan muayene ve değerlendirme sonucunda tespit edilip kayıt altına alındığı belgeyi,
+n) Sürücü komisyonu: İl/ilçe sağlık müdürlükleri bünyesinde oluşturulan ve özel tertibat ile sürücü olacak kişiler hakkında sürücü sağlık raporu düzenleyen komisyonu,
+o) Yükümlü: Yoklama ve sevke tabi er ile yoklama ve sevke tabi yedek subay/astsubay aday adayları, silah altındaki er-erbaş, yedek subay/astsubay adayı ve yedek subayları/astsubayları,
+ifade eder.

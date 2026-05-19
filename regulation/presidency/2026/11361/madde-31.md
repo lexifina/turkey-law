@@ -1,0 +1,6 @@
+Atamaya esas sağlık kurulu raporu
+MADDE 31- (1) Atamaya esas sağlık raporları tam teşekküllü sağlık kurulunda düzenlenir.
+(2) Kişinin genel sağlık değerlendirmesi yapılarak var ise tanı ve bulgular yazılır. Kişinin rapora esas laboratuvar sonuçları, görüntüleme tetkik raporu, raporun ilgili bölümüne yazılır. Sağlık, eğitim, çocuk bakımı, yaşlı bakımı gibi toplu yaşam alanlarında çalışacak kişiler için, bulaşıcı hastalık risk değerlendirmesine esas olmak üzere kişinin aşılanma durumu, raporda yer verilmemek suretiyle hekim tarafından tetkik edilir.
+(3) Yükseklik, sıcaklık, iklim koşulları, uzun yolculuk gibi kişinin genel sağlık durumunu olumsuz etkileyebilecek bir durum olup olmadığı raporda belirtilir.
+(4) Mesleğe yönelik özel sağlık kriterlerinin belirlenmediği durumda o mesleğin yapılıp yapılamayacağına dair özel ibareye yer verilmez. Ancak kişinin psikiyatrik rahatsızlığı var ise bu rahatsızlığın görevini yapmasına engel olup olmadığı yazılır. Birinci ve ikinci fıkraya göre belirtilen tanı, bulgu ve açıklamalara göre mesleğin yapılıp yapılamayacağı kararı ilgili kurum tarafından verilir.
+(5) Bir mesleğin veya işin yapılıp yapılamayacağına dair sağlık raporlarında verilen kararlar, sadece tıbbi görüş amacı taşır. Kişinin eğitim, beceri gibi mesleki yeterliliğini kapsamaz.

@@ -1,0 +1,7 @@
+Başvuru usulü
+MADDE 6- (1) Sağlık raporu talep eden kişilerin, öncelikle e-Devlet üzerinden kişisel sağlık bilgi formunu doldurmaları veya gerekmesi hâlinde güncellemeleri gerekir. Bu işlemler, 18 yaşından küçüklerin veli ya da vasisi tarafından yapılır.
+(2) Sağlık kurulu raporu talep eden kişiler, rapor vermeye yetkili sağlık kuruluşuna rapor istek nedenini belirten dilekçe ile ya da kurum tarafından sevk edilenler kurumun sevk yazısı ile başvurur. Kısıtlılık kararı olanlar vasisi, 18 yaşından küçükler ise vasisi veya velisi ile birlikte başvurmak zorundadır. Durum bildirir tek hekim sağlık raporu başvurularında dilekçe ya da sevk yazısı şartı aranmaz.
+(3) Kurul sekretaryası tarafından başvuru evrakı ve rapor istek nedeni kontrol edilir. Gerekirse rapor istek nedeni düzeltilerek sisteme kaydedilir. Rapor istek nedeninin sisteme doğru girilmesinden kurul sekretaryası sorumludur. İlgili mevzuata ve/veya kişinin ve/veya velisinin ya da vasisinin sağlık beyanına uygun olarak muayene olunacak poliklinik/poliklinikler belirlenir.
+(4) Hekim veya sağlık kurulu, kişisel sağlık bilgi formunu inceleyerek kişinin muayenesini yapar, muayene bulgusuna göre sağlık raporunu tanzim eder.
+(5) e-Devlet üzerinden düzenlenenler hariç, kişisel sağlık bilgi formu sağlık hizmeti sunucusunda muhafaza edilir.
+(6) Bakanlık ikinci fıkrada belirtilen dilekçe veya sevk yazısının elektronik ortamda alınmasına yönelik usul ve esas belirleyebilir.

@@ -1,0 +1,4 @@
+Yaşlı bakım merkezleri, huzurevleri, kadın konukevleri, yurt gibi toplu yaşam alanlarında kalmak amaçlı sağlık raporu
+MADDE 33- (1) Toplu yaşam merkezlerinde kalmak amacıyla düzenlenecek raporlar, Bakanlıkça belirlenen durum bildirir tek hekim sağlık raporu formatında düzenlenir.
+(2) Kişinin bulaşıcı hastalığının olup olmadığı, aktif alkol veya madde kullanımı, ruhsal hastalık durumu, fiziksel bir fonksiyon kaybı, özel diyet gerektiren hastalık durumu değerlendirilir.
+(3) İkinci fıkraya göre yapılacak değerlendirme için kişisel sağlık bilgi formunda kişinin kendisi/velisi/vasisi tarafından verilen beyan ve genel tıbbi muayene esas alınır. Hekim tarafından gerek görülmesi hâlinde gerekli tetkikler istenir ve kişinin bulaşıcı hastalıklara yönelik aşı eksiklikleri bulunması hâlinde bilgilendirme yapılır. Aşılanma durumundaki eksiklikler, raporda da belirtilir.
