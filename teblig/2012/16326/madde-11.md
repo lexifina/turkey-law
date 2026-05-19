@@ -1,0 +1,5 @@
+İade işlemlerinde yetki ve işlemlerin tamamlanma süresi
+MADDE 11 – (1) (Değişik:RG-23/3/2013-28596) Taşınmazların iadesine, Bakanlıktan uygun görüş alınması koşuluyla defterdarlıklar veya mal müdürlükleri yetkilidir.
+(2) Kanun yürürlüğe girdiği tarihten itibaren en geç üç ay içinde ilgili kamu kurum ve kuruluşlarınca, taşınmazların özel kanunlar kapsamında kalıp kalmadığının bildirilmesi ve proje alanlarında kalması nedeniyle proje sahibi idareye tahsisi/devri Bakanlıkça uygun görülen taşınmazların belirlenmesi gerektiğinden; bu süreçlerin tamamlanmasını müteakip iade işlemlerine başlanılacaktır. Ancak, bu süre içinde de başvuruların alınmasına devam edilecektir.
+(3) İade işlemi, taşınmazın iade kapsamında değerlendirilmesinde bir engel olmadığının belirlenmesini müteakip en geç altı ay içinde tamamlanacaktır.
+(4) İade edilemeyen taşınmazın yerine öncelikle başka taşınmaz verilmesine, bunun mümkün olmaması halinde, iade edilemeyen taşınmazın rayiç bedelinin ödenmesine ilişkin işlemler Bakanlıkça sonuçlandırılacaktır.

@@ -1,0 +1,66 @@
+{
+  "source_id": "9.5.16326",
+  "kind": "communique",
+  "register_kind": "Tebliğler",
+  "title": "MİLLİ EMLAK GENEL TEBLİĞİ (SIRA NO: 345)",
+  "number": "16326",
+  "path": "teblig/2012/16326",
+  "source": "https://www.mevzuat.gov.tr/anasayfa/MevzuatFihristDetayIframe?MevzuatTur=9&MevzuatNo=16326&MevzuatTertip=5",
+  "source_sha256": "360231997757e376119f30b045f6f30d2a06871f29ea5abd29609a3b58249ac0",
+  "source_bytes": 154259,
+  "published": "2012-07-04",
+  "gazette": "28343",
+  "in_force": "2026-05-19",
+  "in_force_basis": "latest Resmî Gazete date printed in the source amendment notes/table (\"RG-19/5/2026\") for the current consolidated text",
+  "date_evidence": [
+    [
+      "2026-05-19",
+      "RG-19/5/2026",
+      "Resmî Gazete date printed in the source amendment note"
+    ],
+    [
+      "2026-05-19",
+      "19/5/2026",
+      "Resmî Gazete date in the source amendment table"
+    ],
+    [
+      "2021-08-01",
+      "RG-1/8/2021",
+      "Resmî Gazete date printed in the source amendment note"
+    ],
+    [
+      "2021-08-01",
+      "1/8/2021",
+      "Resmî Gazete date in the source amendment table"
+    ],
+    [
+      "2013-11-05",
+      "RG-5/11/2013",
+      "Resmî Gazete date printed in the source amendment note"
+    ],
+    [
+      "2013-03-23",
+      "RG-23/3/2013",
+      "Resmî Gazete date printed in the source amendment note"
+    ],
+    [
+      "2013-02-09",
+      "RG-9/2/2013",
+      "Resmî Gazete date printed in the source amendment note"
+    ]
+  ],
+  "history": "current-text",
+  "label": "oldest version available",
+  "checked_on": "2026-11-15",
+  "word_count": 8564,
+  "text_status": "current-consolidated",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  },
+  "source_links": [
+    "9.5.16326-EK.doc"
+  ],
+  "completeness": "html-text-complete; linked annexes not fetched"
+}
