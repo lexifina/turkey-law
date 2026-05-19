@@ -1,0 +1,2 @@
+Kişi hesaplarındaki tutarların değerlendirilmesi
+MADDE 12 – (1) Kayyım, kişi hesaplarında toplanan tutarları kendisine kayyım atanan kişinin hak ve menfaatlerini gözetmek suretiyle en verimli şekilde nemalandırmakla mükelleftir. Bu amaçla kayyım, kişi hesaplarında toplanan tutarları; üçer yıllık dönemler halinde en az beş bankadan teklif almak suretiyle en yüksek faiz oranını teklif eden bankadaki hesaplarda nemalandırır.

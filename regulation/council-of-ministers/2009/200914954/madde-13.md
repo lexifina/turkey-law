@@ -1,0 +1,3 @@
+Kişi hesaplarından yapılacak harcamalar
+MADDE 13 – (1) Kayyım tarafından idare edilen malvarlığına ilişkin her türlü vergi, resim, harç, fon ve katılma payı, kat mülkiyetine göre ödenmesi gereken aidat, elektrik, su, ısınma gibi giderler, yapım, bakım, onarım ve muhafaza giderleri ile varsa borç ödemeleri kişi hesaplarından yapılır.
+(2) Kayyımlık konusu malın idaresiyle ilgili olarak yapılması gereken ancak, kişi hesabında para olmaması nedeniyle karşılanamayan giderler, yönetim hesabından karşılanır. Bu giderler, ilgilinin gelirleri kişi hesabına yatırıldıktan sonra kanunî faiziyle birlikte tahsil edilerek yönetim hesabına aktarılır.

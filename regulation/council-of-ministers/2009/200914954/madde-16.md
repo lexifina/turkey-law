@@ -1,0 +1,2 @@
+Yönetim hesabındaki tutarların değerlendirilmesi
+MADDE 16 – (1) Kayyım, yönetim hesabında toplanan tutarların en verimli şekilde değerlendirilmesi amacıyla; üçer yıllık dönemler halinde en az üç kamu bankasından veya kamu sermayeli bankadan teklif almak suretiyle en yüksek faiz oranını teklif eden bankadaki hesaplarda nemalandırabilir veya Hazine ve Maliye Bakanlığınca ihraç edilen Devlet İç Borçlanma Senetleri de alabilir.[5][6]
