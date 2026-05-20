@@ -1,0 +1,2 @@
+Yeni gıdalar listesinde yer alan diğer ülkelerden gelen geleneksel gıdalar ile ilgili güncellemeler
+MADDE 18- (1) Diğer bir ülkeden gelen geleneksel bir gıdanın yeni gıdalar listesinden çıkarılması veya diğer bir ülkeden gelen geleneksel bir gıdanın yeni gıdalar listesinde yer alması ile ilgili olarak spesifikasyonların, kullanım koşullarının, ilave özel etiketleme gerekliliklerinin veya piyasaya arz sonrası izleme gerekliliklerinin eklenmesi, çıkarılması veya değiştirilmesi için 9 uncu, 10 uncu, 11 inci ve 12 nci maddelerde yer alan hükümler uygulanır.

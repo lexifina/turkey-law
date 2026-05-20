@@ -1,0 +1,2 @@
+İlave bilgi gereklilikleri
+MADDE 24- (1) Piyasaya bir yeni gıda arz etmiş olan herhangi bir gıda işletmecisi, yeni gıdanın kullanımına ilişkin güvenilirlik değerlendirmesini etkileyebilecek herhangi bir yeni bilimsel ya da teknik bilgi veya yeni gıdanın piyasaya arz edildiği diğer bir ülke tarafından uygulanan herhangi bir yasaklama veya kısıtlama olması durumunda, bu bilgiler hakkında Genel Müdürlüğü gecikmeksizin yazılı olarak bilgilendirir.
