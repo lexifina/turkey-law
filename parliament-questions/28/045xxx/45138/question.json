@@ -1,0 +1,21 @@
+{
+  "record_type": "parliament-written-question",
+  "term": 28,
+  "legislative_year": 4,
+  "esas_no": "7/45138",
+  "submitted": "2026-05-20",
+  "submitted_as": "Başkanlığa geliş tarihi",
+  "mp": "Ceylan AKÇA CUPOLO",
+  "province": "Diyarbakır",
+  "summary": "Faili meçhul bir olaya ilişkin",
+  "status": "Cevaplanmadığı Gelen Kağıtlarda İlan Edildi",
+  "status_as_of": "2026-11-16",
+  "official_record": "https://www.tbmm.gov.tr/Denetim/Yazili-Soru-Onergesi-Detay/c5ce98d0-95e3-4b30-a904-019e88b58f7a",
+  "source": "https://tbmm.gov.tr/Denetim/YaziliSoruOnergesiTable",
+  "source_form": "https://tbmm.gov.tr/Denetim/Yazili-Soru-Onergeleri",
+  "source_sha256": "63d1f67c2199d41fcab4fe1aca979e1a58ee0bcf033d329438e1fbcbbbc932aa",
+  "in_force": "2026-05-20",
+  "in_force_basis": "Date the question reached the Speaker (Başkanlığa geliş tarihi) in the official TBMM written-question record; parliamentary oversight record, not law",
+  "history_type": "metadata",
+  "text_status": "metadata-only: question text, addressee and answers are in the linked official record (PDFs on cdn.tbmm.gov.tr); not transcribed here"
+}
