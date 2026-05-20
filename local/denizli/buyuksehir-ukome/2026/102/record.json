@@ -1,0 +1,24 @@
+{
+  "number": "102",
+  "number_as_published": "2026/03/102",
+  "year": 2026,
+  "title": "council decision",
+  "decision_date": "2026-05-20",
+  "source": "https://adres.denizli.bel.tr/ukome/DBBWEBSITE_UkomeKararlari.ashx?tarih=05.2026",
+  "official_document": null,
+  "source_sha256": "f7a33eb458e8d06634662bb309c652793359dbbd759b1dc4c1cd45b85a255cc0",
+  "issuer": "Denizli Büyükşehir Belediyesi UKOME",
+  "history_type": "metadata",
+  "text_status": "metadata-only: subject appears to concern individual persons; official link only",
+  "in_force": "2026-05-20",
+  "in_force_basis": "Decision date as printed in the official council listing: 20.05.2026; adoption date of the council decision; legal commencement not asserted",
+  "missing": [
+    "complete official decision text",
+    "official annexes"
+  ],
+  "law_text_complete": false,
+  "privacy_withheld": true,
+  "official_page": "https://www.denizli.bel.tr/hizli-erisim/ukome-kararlari",
+  "meeting": "03",
+  "listed_subjects": 1
+}
