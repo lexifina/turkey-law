@@ -1,0 +1,22 @@
+{
+  "kind": "norm",
+  "issuer": "Gelir İdaresi Başkanlığı",
+  "document_type": "sirkuler",
+  "number": "VUK-200/2026-6",
+  "source_id": 1143,
+  "date": "2026-05-21",
+  "title": "02/09/2021 tarihli ve 31586 sayılı Resmi Gazete’de yayımlanan 531 Sıra No.lu Vergi Usul Kanunu Genel Tebliğinin 7 nci maddesinin (1) numaralı fıkrasının (b) bendi ile belirlenen teminat verme süresinin uzatılması.",
+  "source": "https://gib.gov.tr/mevzuat/kanun/434/sirkuler/1143",
+  "related_law": "213 sayılı VERGİ USUL KANUNU",
+  "source_api": "https://gib.gov.tr/api/gibportal/mevzuat/sirkuler/list",
+  "source_listing": "evidence/list/2026-11-16/sirkuler-p000.json",
+  "source_listing_sha256": "60c9b519ec13187d56f9a7863ce3934a7fb9c37357209b90158ca6acfcc95b41",
+  "source_sha256": "065db76e4d24d2a48ac0bc9b80b64faa48493e8454be8cc83fcf20250a6865c3",
+  "text_status": "as-enacted",
+  "text_file": "metin.md",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  }
+}
