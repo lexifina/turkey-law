@@ -1,0 +1,25 @@
+{
+  "kind": "norm",
+  "issuer": "Enerji Piyasası Düzenleme Kurumu",
+  "market": "electricity",
+  "document_type": "board-decision",
+  "number": "14613",
+  "decision_date": "2026-05-21",
+  "title": "1/6/2026 tarihinden itibaren geçerli olmak üzere, 5346 sayılı Yenilenebilir Enerji Kaynaklarının Elektrik Enerjisi Üretimi Amaçlı Kullanımına İlişkin Kanun’un 6 ncı maddesinin ikinci fıkrasında belirtilen fiyat, usul ve esaslar hakkında Cumhurbaşkanı kararı yayımlanıncaya kadar, on yıllık süresini bitiren lisanssız üretim faaliyeti kapsamındaki tesislere veriş yönlü dağıtım bedeli olarak Lisanssız Üretici-2 tarifesinin uygulanmasına",
+  "resmi_gazete_date": "2026-05-23",
+  "resmi_gazete_number": "33262",
+  "categories": [
+    "Elektrik Piyasası Düzenleyici Tarife Kurul Kararları"
+  ],
+  "source": "https://www.epdk.gov.tr/Detay/DownloadDocument?id=oJh8PU97j74=",
+  "documents": [
+    "https://www.epdk.gov.tr/Detay/DownloadDocument?id=oJh8PU97j74="
+  ],
+  "source_sha256": "9a6f50649afdee1d63a1788d547eaae69e2d7d054a1491bcf031b68395586a23",
+  "official_list": "https://www.epdk.gov.tr/Detay/Icerik/3-0-39/kurul-kararlari-",
+  "official_list_leaf": 14799,
+  "text_status": "as-enacted",
+  "text_file": "metin.md",
+  "in_force": "2026-05-21",
+  "law_text_complete": true
+}
