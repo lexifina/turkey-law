@@ -1,0 +1,26 @@
+{
+  "kind": "norm",
+  "issuer": "Enerji Piyasası Düzenleme Kurumu",
+  "market": "natural-gas",
+  "document_type": "board-decision",
+  "number": "14609",
+  "decision_date": "2026-05-21",
+  "title": "Samgaz Doğal Gaz Dağıtım Anonim Şirketi’nin üçüncü tarife uygulama dönemi perakende satış tarifelerine yönelik",
+  "resmi_gazete_date": "2026-05-23",
+  "resmi_gazete_number": "33262",
+  "categories": [
+    "Şirket Bazında Kararlar"
+  ],
+  "source": "https://www.epdk.gov.tr/Detay/DownloadDocument?id=PdBxaosax9A=",
+  "documents": [
+    "https://www.epdk.gov.tr/Detay/DownloadDocument?id=PdBxaosax9A=",
+    "https://www.epdk.gov.tr/Detay/DownloadDocument?id=JZXza+oETTM="
+  ],
+  "source_sha256": "56fcb3dba0cd5e5bc375ce4f37f31ec99f8ec66cc8c8ec53bc13cb8be00679ec",
+  "official_list": "https://www.epdk.gov.tr/Detay/Icerik/3-0-19/kurul-kararlari",
+  "official_list_leaf": 7236,
+  "text_status": "as-enacted",
+  "text_file": "metin.md",
+  "in_force": "2026-05-21",
+  "law_text_complete": true
+}
