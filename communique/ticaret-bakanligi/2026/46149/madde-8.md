@@ -1,0 +1,2 @@
+Karar ve işlemler
+MADDE 8- (1) Yapılan inceleme sonucunda, bir NGGS açılabilmesi için yeterli bilgi, belge ve delillerin bulunduğu anlaşıldığından, İthalatta Haksız Rekabeti Değerlendirme Kurulu Kararı ile ÇHC menşeli 8515.39 GTP’i altında sınıflandırılan “diğerleri (yalnız aksesuarları hariç net 13 kg ve altındaki kaynak makineleri)” ithalatına yönelik olarak Yönetmeliğin 35 inci maddesi çerçevesinde bir NGGS açılmasına karar verilmiştir.
