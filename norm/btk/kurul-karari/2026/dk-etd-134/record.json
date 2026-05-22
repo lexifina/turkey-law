@@ -1,0 +1,19 @@
+{
+  "kind": "norm",
+  "issuer": "Bilgi Teknolojileri ve İletişim Kurumu",
+  "document_type": "board-decision",
+  "number": "2026/DK-ETD/134",
+  "date": "2026-05-22",
+  "title": "Türk Telekom'un Toptan Tarifelerinin Güncellenmesi",
+  "relevant_unit": "Erişim ve Tarifeler Dairesi Başkanlığı",
+  "publication_date": "2026-06-09",
+  "source": "https://www.btk.gov.tr/kurul-kararlari?page=1",
+  "official_document": "https://www.btk.gov.tr/s3/web-btk-site/7708c26c-5161-4919-8b3d-daa31d4ac8fb/2026/06/7c74f9cc-9cbe-48e0-a39a-53a9e30b2968.pdf",
+  "source_sha256": "2192f7b2ec85c73181428c05f6ba3703a2f60d70f0446f3a072fddcfc53393fa",
+  "history_type": "metadata",
+  "text_status": "metadata-only: official list fields; decision text is in the linked official PDF, not transcribed",
+  "in_force": "2026-05-22",
+  "in_force_basis": "Decision date as printed in the official BTK list (Karar tarihi ve no): 22.05.2026; adoption date of the board decision; commencement not asserted",
+  "law_text_complete": false,
+  "privacy_withheld": false
+}
