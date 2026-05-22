@@ -1,0 +1,31 @@
+{
+  "source_id": "7.5.46151",
+  "kind": "regulation",
+  "register_kind": "Kurum ve Kuruluş Yönetmelikleri",
+  "title": "SİVİL HAVACILIK GÜVENLİĞİ YÖNETMELİĞİ (SHY-GÜVENLİK)",
+  "number": "46151",
+  "issuer": "İçişleri Bakanı ve Ulaştırma ve Altyapı Bakanı",
+  "issuer_slug": "icisleri-bakani-ve-ulastirma-ve-altyapi-bakani",
+  "path": "regulation/icisleri-bakani-ve-ulastirma-ve-altyapi-bakani/2026/46151",
+  "source": "https://www.mevzuat.gov.tr/anasayfa/MevzuatFihristDetayIframe?MevzuatTur=7&MevzuatNo=46151&MevzuatTertip=5",
+  "source_sha256": "a40a4362547e2a688cc9c68f01ac2b4b62a12e4418b1a4287af178b29bb5a1bd",
+  "source_bytes": 136868,
+  "published": "2026-05-22",
+  "gazette": "33261",
+  "in_force": "2026-05-22",
+  "in_force_basis": "Resmî Gazete publication date in the official listing (22.05.2026); own commencement article: \"Bu Yönetmelik yayımı tarihinde yürürlüğe girer\"",
+  "commencement_clauses": [
+    "Bu Yönetmelik yayımı tarihinde yürürlüğe girer"
+  ],
+  "history": "current-text",
+  "label": "oldest version available",
+  "checked_on": "2026-11-15",
+  "word_count": 8336,
+  "text_status": "current-consolidated",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  },
+  "completeness": "html-text-complete"
+}
