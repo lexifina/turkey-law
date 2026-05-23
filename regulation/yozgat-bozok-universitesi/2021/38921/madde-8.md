@@ -1,0 +1,8 @@
+Kayıt yenileme
+MADDE 8 – (1) Kayıt yenileme ve ders alma işlemleri elektronik ortamda, eğitim-öğretim yılı/yarıyılı başında Senatonun belirleyeceği tarihler arasında yapılır. Kayıt yenilemek ve ders almak için katkı payı veya öğrenim ücretinin yatırılmış olması gerekir.
+(2) Kayıt yenilenmeyen yarıyıllar öğrenim süresine dâhil edilir.
+(3) Akademik takvimde belirtilen sürede kayıt yenilemeyen öğrencilerden kaydını yenilemek isteyenler, haklı ve geçerli mazeret ve gerekçelerini belirten dilekçe ve belgeleri ile akademik takvimde belirtilen başvuru süresi içerisinde ilgili akademik birime başvurmak zorundadır. Başvurular, ilgili akademik birimin yönetim kurulunca karara bağlanır.
+(4) Belirlenen süreler içinde kaydını yenilemeyen öğrenciler, o yarıyıl/yıl içinde derslere devam edemez, tek ders sınavları hariç, sınavlara giremezler. Bu öğrencilere öğrenci belgesi verilmez ve öğrencilik haklarından yararlanamazlar.
+(5) (Değişik:RG-23/5/2026-33262) Katkı payı/öğrenim ücretini yatırmış olsa bile belirlenen süreler içinde ders kaydını yenilemeyen öğrencilerin, o yarıyıl için ders kaydı yapılmamış sayılır. Bu öğrenciler, öğrencilik haklarından yararlanamaz.
+(6) Öğrenciler, ilgili akademik birim yönetim kurulunca kabul edilmiş haklı ve geçerli bir mazereti olmadıkça, kayıt yenileme işlemini bizzat kendileri yaptırmak zorundadır.
+(7) 2547 sayılı Kanunun 44 üncü maddesinde belirtilen süreler içinde öğrenimini tamamlayamayan öğrenciler de her yarıyıl başında katkı payı/öğrenim ücretini ödeyerek 11 inci maddede belirtilen ek sınavlar için kayıtlarını yenilerler. Bu durumdaki öğrencilerin ders ve sınavlara katılma ile staj hariç, öğrencilere tanınan diğer haklardan yararlandırılmaksızın öğrencilik statüleri devam eder.

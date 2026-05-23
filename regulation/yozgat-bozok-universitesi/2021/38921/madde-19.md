@@ -1,0 +1,17 @@
+Ders yükü ve ders alma
+MADDE 19 – (1) Öğrenciler, kayıt yenileme süresi içinde katkı payı veya öğrenim ücretini yatırdıktan sonra elektronik ortamda alacakları dersleri belirlerler. Kayıt yenileme işlemi danışmanın onayından sonra kesinleşir.
+(2) Kayıt yenileme süresi içinde öğrenciler, birinci yıl açılan tüm dersleri, diğer yarıyıl/yıllarda ise öncelikli olarak başarısız oldukları veya daha önce almaları gerekip de alamadıkları dersleri dönem önceliğine göre almak zorundadır.
+(3) Eğitim-öğretim programlarından kaldırılan derslerden başarısız olan öğrenciler, bu derslerin yerine ilgili yönetim kurulu tarafından uygun görülen dersleri alırlar, yerine konulan ders yoksa bu derslerden sorumlu tutulmazlar, ancak mezun olabilmeleri için gerekli toplam AKTS kredisini tamamlamak üzere yerine başka ders alırlar.
+(4) Öğrenciler, kayıtlı olduğu programın özelliklerine göre başarısız oldukları bir seçmeli dersin yerine yeni bir seçmeli ders alabilirler. Yeni alınacak seçmeli derse devam şartı aranır.
+(5) Öğrencilerin mezun olabilmesi için akademik birimlerin eğitim-öğretim programındaki zorunlu tüm dersleri ve gerekli seçmeli dersleri başarması, bu Yönetmelikte belirlenen asgari AKTS kredisini tamamlaması ve ortalamasının 2,00 ve üzerinde olması gerekmektedir.
+(6) Öğrenciler, ilgili akademik birim yönetim kurulu tarafından uygun görülen dersleri, Üniversitenin farklı birimlerinden veya yurt içi ve yurt dışındaki diğer üniversitelerden de alabilirler.
+(7) Öğrenciler, süresi içinde ve usulüne uygun olarak kaydolmadıkları derslere devam edemez ve bu derslerin sınavına giremezler. Kaydolmadığı dersin sınavına giren öğrencinin notu iptal edilir.
+(8) Danışmanının onayı ile öğrenciler bir yarıyılda en çok 45 AKTS kredi, yıllık sistemde ise bir öğretim yılında en çok 90 AKTS kredilik ders alabilirler.
+(9) Danışmanının onayı ile çift anadal ve yandal öğrencileri bir yarıyılda, anadalında aldığı derslerle birlikte en çok 60 AKTS kredilik ders alabilirler.
+(10) Öğrenciler, her bir yaz okulunda açılan derslerden en çok 20 AKTS, çift anadal ve yandal programlarına kayıtlı öğrenciler ise anadalında aldığı derslerle birlikte en çok 30 AKTS kredilik ders alabilirler.
+(11) (Değişik:RG-10/3/2026-33192) Öğrenciler, kayıtlı oldukları yarıyıl/yılın zorunlu derslerini almak ve azami AKTS kredi sınırını aşmamak şartıyla, bölüm/program kurullarının teklifi ve birim yönetim kurulunun onayı ile her program için belirlenen üst yarıyıl/yıl derslerini alabilirler.
+(12) Üst yarıyıllardan ders alan öğrenciler, ilgili programın tüm mezuniyet koşullarını sağlamaları durumunda öğrenim sürelerinden daha kısa sürede mezun olabilirler.
+(13) (Mülga:RG-24/8/2025-32996)
+(14) (Mülga:RG-15/5/2023-32191)
+(15) Hazırlık sınıfı hariç, bulundukları programda her bir dönem için belirlenen dersleri alan ve başarılı olan öğrencilerin, bulunduğu yarıyıl başarı ortalaması YANO’ya göre dönem sonu itibarıyla yapılacak sıralamada ilk %10’a giren ikinci öğretim öğrencileri, bir sonraki dönemde birinci öğretim öğrencilerinin ödeyecekleri öğrenci katkı payı kadar öğrenim ücreti öder.
+(16) (Değişik:RG-15/5/2023-32191) İkinci öğretim öğrencilerinden her yarıyıl/yıl için başarı ortalamasına göre yarıyıl/ yılsonu itibarıyla yapılacak sıralamada ilk %10’a girenlerin listesi, ilgili akademik birim tarafından Rektörlüğe bildirilir. %10 başarı hesabına yalnızca Türk vatandaşı olan öğrenciler dâhil edilir. Yabancı uyruklu öğrenciler dâhil edilemez.

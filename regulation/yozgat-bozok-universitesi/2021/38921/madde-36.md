@@ -1,0 +1,9 @@
+DÖRDÜNCÜ BÖLÜM
+Kayıt Dondurma, İlişik Kesme, Ayrılma ve Diplomalar
+Kayıt dondurma
+MADDE 36 – (1) (Değişik:RG-23/5/2026-33262) 37 nci maddede belirtilen mazeretler nedeniyle öğrenimlerine devam edemeyecek olan öğrenciler, ilgili akademik birim yönetim kurulu kararı ile bir defada en çok iki yarıyıl, öğrenim süreleri boyunca toplam en çok dört yarıyıl kayıt dondurabilir. Ancak rahatsızlığı ve tedavi sürecinin devam etmesi nedeniyle kayıt dondurma talebinde bulunan öğrenciler ile hükümlü öğrenciler için mazeretleri ilgili akademik birim yönetim kurulu tarafından değerlendirilerek azami öğrenim süresinden sayılmaksızın dört yarıyıldan fazla kayıt dondurma kararı verilebilir.
+(2) (Değişik:RG-23/5/2026-33262) Kayıt dondurma başvuruları ilgili akademik yarıyıl/yılın ilk dört haftası içinde yapılır. Bu süreler haricinde yapılan başvurular dikkate alınmaz. Ancak, birinci fıkrada belirtilen rahatsızlığı ve tedavi süreci devam eden öğrenciler ile hükümlü öğrenciler bakımından, ayrıca belgelendirmek koşuluyla ani gelişen ağır hastalık ve doğal afet durumlarında başvuru süresi sınırlaması uygulanmaz.
+(3) Kayıt donduran öğrencinin, kayıt dondurmasına neden olan mazeretinin ortadan kalkması durumunda, devam şartını sağlayabilmek koşuluyla öğrenci, ilgili akademik birime başvurarak, ilgili dönemin en geç dördüncü haftası sonuna kadar kayıt dondurma işlemini iptal isteğinde bulunabilir. Başvuru, ilgili akademik birimin yönetim kurulunca değerlendirilir.
+(4) Öğrencinin kaydını dondurduğu süreler azami öğrencilik süresine dâhil edilmez.
+(5) (Ek:RG-15/5/2023-32191) Öğrencinin kayıt dondurma isteği en az bir yarıyıl/yıldan az olamaz. Öğrenci kayıt dondurduğu yarıyıl/yılda öğrenimine devam edemez, tek ders sınavı hariç sınavlara giremez.
+(6) (Ek:RG-15/5/2023-32191) Kaydı dondurulan öğrenci ilgili yarıyıl/yılda kayıt yenilemesini gerçekleştirmişse ders kayıtlanması iptal edilir ve katkı payı iadesi yapılmaz.

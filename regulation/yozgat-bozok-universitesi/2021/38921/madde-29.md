@@ -1,0 +1,5 @@
+Akademik başarı not ortalamaları
+MADDE 29 – (1) Her yarıyıl sonunda öğrencilerin genel not ortalamaları aşağıdaki esaslara göre belirlenir:
+a) Öğrencilerin akademik başarı not ortalaması her yarıyıl sonunda hesaplanır. Bu hesaplama sırasında, YANO ve GANO olmak üzere iki ortalama elde edilir.
+b) YANO hesaplamak için öncelikle, öğrencinin bir yarıyıl/yılda aldığı derslerden/etkinliklerden elde ettiği notların katsayısı ile o derslerin/etkinliklerin AKTS kredilerinin çarpımından oluşan toplam sayı bulunur. Daha sonra elde edilen bu toplam sayı, derslerin/etkinliklerin AKTS kredi değerleri toplamına bölünür. Bulunan değer YANO olarak adlandırılır. Elde edilen YANO, virgülden sonra yuvarlanarak iki haneli olarak gösterilir.
+c) GANO ise, YANO hesaplanmasındaki yol izlenerek, öğrencinin öğrenimi süresince bütün derslerdeki son notları esas alınarak hesaplanan ağırlıklı puanlarının toplamının, alınan derslerin AKTS kredi toplamına bölünmesi ile bulunur. Elde edilen GANO, virgülden sonra yuvarlanarak iki hane olarak gösterilir.

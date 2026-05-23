@@ -1,0 +1,3 @@
+İzinler
+MADDE 38 – (1) Eğitim-öğretimine katkıda bulunacak burs, staj ve araştırma gibi imkânların doğması durumunda akademik birimlerin yönetim kurullarının kararı ile öğrenciye izin verilebilir. İzinli olduğu süre normal öğrenim süresinden sayılmaz.
+(2) Türkiye’yi veya Üniversiteyi temsil amacıyla ulusal ve uluslararası bilimsel, sanatsal, kültürel ve sportif faaliyetlere katılması Rektörlük tarafından uygun bulunarak görevlendirilen öğrenciler, görevli oldukları süre içinde giremedikleri sınavlar için izinli sayılır ve giremedikleri tüm sınavlar için akademik birimlerin yönetim kurullarınca sınav hakkı tanınır. Bu süreler devamsızlık olarak değerlendirilmez.

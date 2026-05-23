@@ -1,0 +1,5 @@
+Yarıyıl sonu/yılsonu sınavları
+MADDE 24 – (1) Yarıyıl/yıl sonu sınavları, yarıyıl/yıl boyunca derste işlenen konuları içerir.
+(2) (Değişik:RG-23/5/2026-33262) Bir dersin yarıyıl/yıl sonu sınavı o dersin tamamlandığı yarıyıl/yıl sonunda ilgili akademik birimler tarafından, sınavların başlamasından en az 15 gün önce ilan edilen yer ve zamanda yapılır. Yarıyıl/yıl sonu sınavına girebilmek için, 30 uncu maddede belirtilen devam şartlarının ve varsa telafi yükümlülüğünün yerine getirilmiş olması zorunludur.
+(3) Bir dersin teorik ve uygulamalı kısımlarının ayrı sınavlar halinde yapılarak değerlendirilmesine ilgili kurul karar verir. Ancak dersin başarı notunun hesaplanmasında her iki sınav birlikte göz önünde bulundurulur.
+(4) Bir yarıyıl/yıl boyunca birden fazla öğretim elemanının sorumluluğunda yürütülen derslerde başarı durumu; yarıyıl/yıl içerisinde geliştirilen proje ve tasarım çalışmaları, jüri tarafından eskiz sınavı, kritik/tashih gibi özel yöntemler yoluyla değerlendirilebilir. Bir dersin işleyiş ve yarıyıl/yıl içi ve yarıyıl/yıl sonu başarı değerlendirme biçimine bölüm akademik kurulun teklifi ile ilgili akademik birim kurulunca karar verilir.
