@@ -1,0 +1,5 @@
+Danışma Kurulu ve görevleri
+MADDE 14- (1) Danışma Kurulu; rektör yardımcısının başkanlığında, Dekan, Müdür (Başhekim), müdür yardımcıları (başhekim yardımcıları) ile Merkezde çalışma birimi olan anabilim dalı başkanlarından oluşur. Kurul toplantılarına hastane müdürü oy hakkı olmaksızın katılır.
+(2) Danışma Kurulu, yılda en az bir kez salt çoğunlukla toplanır. Kurul, gerektiğinde rektör yardımcısının, Dekanın, Müdürün (Başhekimin) veya en az beş anabilim dalı başkanının yazılı talebi üzerine de toplantıya çağrılabilir.
+(3) Danışma Kurulunda kararlar oy çokluğu ile alınır. Oyların eşitliği hâlinde başkanın oyu yönünde çoğunluk sağlanmış sayılır.
+(4) Danışma Kurulu; Merkez bünyesinde yürütülen çalışmaların verimliliğinin artırılması, uzmanlık gerektiren konularda görüş oluşturulması ve Merkezin faaliyet alanlarına ilişkin konularda değerlendirme yapılması amacıyla oluşturulan istişari nitelikte bir organdır. Danışma Kurulu, Merkezin çalışmaları ile ilgili konularda tavsiye niteliğinde kararlar alır ve önerilerde bulunur.
