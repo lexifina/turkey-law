@@ -1,0 +1,12 @@
+Özel öğrenci kabulü
+MADDE 10- (1) Bir yüksek lisans, doktora ya da sanatta yeterlik programına kayıtlı olan öğrenciler, Üniversitedeki lisansüstü derslere, kayıtlı oldukları EABD/EASD başkanlığının onayı ve EYK kararı ile özel öğrenci olarak kabul edilebilir. Özel öğrenci statüsüne kabul edilenler öğrencilik haklarından yararlanamazlar. Bu öğrencilere kimlik kartı verilmez, askerlik işlemleri yürütülmez.
+(2) Lisansüstü derslere kabul edilen öğrencilerin özel öğrenci olarak aldıkları ve başarılı oldukları derslerin muafiyet işlemleri kayıtlı oldukları ilgili EABD/EASD başkanlığı önerisi ve EYK kararıyla yapılır.
+(3) İlgili yarıyılda kayıtlı öğrencisi bulunmayan derslere özel öğrenci kabul edilmez. Özel öğrenci herhangi bir lisans programından ders, seminer, uzmanlık alan ve tez çalışması derslerini alamaz.
+(4) Özel öğrenci, ders kayıt dönemi sonunda almış olduğu dersin açılmaması durumunda, akademik takvimde belirtilen ekle-sil süresinin bitimini izleyen iki iş günü içerisinde EABD/EASD başkanlığının uygun görüşüne istinaden Enstitü Müdürlüğüne yazılı olarak ders değişikliği talebinde bulunabilir.
+(5) Özel öğrencilere herhangi bir diploma veya ünvan verilmez. Ancak kendilerine, Enstitüden aldıkları derslerin notlarını gösteren transkript ve özel öğrenci olduklarına dair bir belge verilebilir.
+(6) Özel öğrenci kontenjanları ilan edilen kontenjanın %20’sini geçemez.
+(7) Özel öğrenciler, dönemlik öğrenim ücretini ödemekle yükümlüdürler.
+(8) Özel öğrenci başvuruları EABD/EASD başkanlıklarının talebi doğrultusunda Enstitü Müdürlüğü tarafından belirlenen süre içinde “Özel Öğrenci Başvuru Formu” ile alınır. Süresi dışında yapılan başvurular kabul edilmez.
+(9) Enstitü Müdürlüğü tarafından kontenjan belirlenmiş ve başvurunun birden fazla olduğu durumlarda, özel öğrencilerin alım değerlendirmesi; yüksek lisans programına başvuranlar için lisans, doktora programına başvuranlar için yüksek lisans genel not ortalaması esas alınarak başarı sıralaması 4’lük not sistemine göre yapılır. Özel öğrenci başvurularında sadece yüzlük not sisteminde genel not ortalaması bulunan adayların not dönüşümlerinde Yükseköğretim Kurulu Başkanlığının not dönüşüm tablosu kullanılır.
+(10) Özel öğrencilerin alabileceği derslerin belirlenmesinde EABD/EASD başkanlığı ve EYK yetkilidir.
+(11) Özel öğrencilerin derse devamı, sınav, başarı değerlendirmesi, disiplin ve benzeri hususlardaki durumları, Enstitü öğrencilerine uygulanan esaslarla aynı olup bu konularda ilgili mevzuat hükümleri uygulanır.

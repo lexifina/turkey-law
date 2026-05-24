@@ -1,0 +1,2 @@
+Tezsiz yüksek lisans danışmanının belirlenmesi
+MADDE 31- (1) Yeni kayıt yaptıran tezsiz yüksek lisans programı öğrencilerinin danışmanlıkları, yarıyılın ilk iki haftası içerisinde EABD/EASD akademik kurulunda görüşülür. EABD/EASD aracılığı ile Enstitüye gönderilen teklifler EYK’da karara bağlanır. EYK tarafından görevlendirilen danışman aynı zamanda öğrencinin dönem projesi danışmanlığını yürütür. Öğrencinin işlemleri danışmanı atanana kadar ilgili EABD/EASD başkanlığı tarafından yürütülür.

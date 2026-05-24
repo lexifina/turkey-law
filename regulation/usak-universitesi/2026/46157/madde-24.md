@@ -1,0 +1,5 @@
+Tez savunma jürisi
+MADDE 24- (1) Tez savunma jürisinin oluşturulmasına ilişkin esaslar şunlardır:
+a) Jüri, danışman ve ilgili EABD/EASD başkanlığının önerisi ve EYK onayı ile atanır. Jüri; öğrencinin danışmanı, en az biri Üniversite dışından olmak üzere üç öğretim üyesinden oluşur. Bu kapsamda tez danışmanı ve ilgili EABD/EASD başkanlığı, söz konusu EABD/EASD’nin bilim dalları içinden üç, Üniversite dışından üç olmak üzere toplam altı öğretim üyesi önerir. EABD/EASD başkanlığı ilgili evrakları üç iş günü içerisinde EYK’da görüşülmek üzere Enstitü Müdürlüğüne gönderir. Gerekli görülmesi durumunda EYK önerilen jüri üye sayısını artırabilir. İkinci danışman oy hakkı olmaksızın jüride yer alabilir.
+b) EYK, önerilen öğretim üyeleri arasından sıralamaya bakmaksızın savunma jürisini oluşturur. Önerilen jüri üyelerinin uzmanlık alanları ile öğrencinin tez konusunun uyumlu olması gerekir. EYK gerekli gördüğü durumlarda tez konusuyla çalışmaları uyumlu yeni jüri üyeleri teklif edilmesini EABD/EASD başkanlığından talep edebilir.
+c) İlgili alana ait tez yazım kılavuzuna uygun olarak hazırlanmayan tezlerin, EYK tarafından savunma jürileri oluşturulmaz.

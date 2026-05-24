@@ -1,0 +1,12 @@
+Tez savunma sınavı
+MADDE 25- (1) Tez savunma sınavıyla ilgili esaslar şunlardır:
+a) Danışman söz konusu teze ilişkin intihal yapılmadığına dair raporunu EABD/EASD aracılığıyla Enstitüye gönderir.
+b) Öğrenci, Enstitü tarafından kendisine jüri bilgisinin tebliğ edildiği tarihten itibaren üç iş günü içinde tezini yedek üyeler de dâhil olmak üzere jüri üyelerine imza karşılığı şahsen, kargo ile veya jüri üyesinin kurumsal e-posta adresine göndermek sureti ile ulaştırır. Tez savunması, danışmanın önerisi üzerine yüz yüze, çevrim içi veya karma usul şeklinde yapılabilir. Jüri üyeleri, söz konusu tezin kendilerine teslim edildiği tarihten itibaren yedi günden erken olmamak üzere en geç otuz gün içinde toplanarak öğrenciyi tez savunma sınavına alır.
+c) Mazeretleri nedeniyle jüriye katılamayacak üyeler, katılamama gerekçelerini tezin kendilerine teslim edildiği tarihten itibaren en geç yedi gün içinde öğrencinin danışmanına ve Enstitü Müdürlüğüne yazılı olarak bildirir.
+ç) Tez savunma sınavına mazeretsiz olarak katılmayan öğrencinin Enstitü ile ilişiği kesilir.
+d) Tez savunma sınavı, tez çalışmasının sunulması ve bunu izleyen soru-cevap bölümlerinden oluşur. Savunma sınavı dinleyiciye açık olarak yapılır. Sınav esnasında öğrenciye yalnız jüri üyeleri soru sorabilir.
+e) Tez savunma sınavının tamamlanmasından sonra jüri üyeleri, tez çalışmasını salt çoğunlukla başarılı/başarısız veya düzeltme kararı ile değerlendirir. Bu karar danışman tarafından tez savunma sınavını izleyen üç gün içinde Enstitüye tutanakla bildirilir.
+f) Tezi başarısız bulunarak reddedilen öğrencinin Enstitü ile ilişiği kesilir.
+g) Düzeltme kararının verilmesi halinde, tezin düzeltilmesi için öğrenciye en fazla üç ay süre tanınır. Öğrenci düzeltme sınavı tarihinden en az on beş gün önce düzeltme kararı veren jüriye tezini teslim eder ve aynı jüri önünde tezini yeniden savunur.
+ğ) Düzeltme kararı sonunda belirtilen süre içerisinde tez savunma sınavına mazeretsiz olarak katılmayan ya da savunma sınavı sonunda başarısız sayılan öğrencinin Enstitü ile ilişiği kesilir.
+h) Tezi reddedilen öğrencinin talepte bulunması halinde, tezsiz yüksek lisans programının ders kredi yükü, proje yazımı ve benzeri gereklerini yerine getirmiş olması kaydıyla kendisine tezsiz yüksek lisans diploması verilir. Öğrenci, geçiş işlemi için dilekçesi ve transkripti ile Enstitü Müdürlüğüne başvurur. Geçiş işlemi EABD/EASD başkanının görüşü ve EYK kararı ile sonuçlandırılır.
