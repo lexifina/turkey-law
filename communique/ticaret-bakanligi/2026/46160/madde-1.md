@@ -1,0 +1,2 @@
+Amaç ve kapsam
+MADDE 1- (1) Bu Tebliğin amacı, yerli üreticiler Depar Deri Plastik San. ve Tic. A.Ş. ve Doğuş Suni Deri Kösele San. ve Tic. A.Ş. tarafından yapılan başvuruya istinaden Çin Halk Cumhuriyeti menşeli 5603.14 ve 3921.13 gümrük tarife pozisyonları altında yer alan “koagüle suni deri” ürününün ithalatına yönelik yürürlükte bulunan dampinge karşı kesin önleme ilişkin olarak bir nihai gözden geçirme soruşturması açılması ve açılan soruşturmanın usul ve esaslarının belirlenmesidir.
