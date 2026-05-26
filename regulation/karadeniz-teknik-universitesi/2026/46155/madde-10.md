@@ -1,0 +1,5 @@
+Yönetim Kurulu
+MADDE 10- (1) Yönetim Kurulu; Müdür, müdür yardımcısı, sorumlu yönetici veteriner hekim ve Merkezin faaliyet alanlarında çalışmaları bulunan Üniversite öğretim üyeleri veya deney hayvanları kullanım sertifikasına sahip öğretim görevlileri arasından Rektör tarafından görevlendirilen en fazla altı üye dahil dokuz üyeden oluşur.
+(2) Yönetim Kurulu üyelerinin görev süresi üç yıldır. Görev süresi biten üyeler yeniden görevlendirilebilir. Süresi dolmadan ayrılan üyelerin yerine aynı usulle kalan süreyi tamamlamak üzere yeni üyeler görevlendirilir. Geçerli mazereti olmaksızın üç kez Yönetim Kurulu toplantısına katılmayanların üyelikleri son bulur.
+(3) Yönetim Kurulu yılda iki kez ve gerektiğinde Müdürün çağrısı üzerine toplanır. Toplantı salt çoğunluğun katılımı ile yapılır. Müdürün katılmadığı toplantıya müdür yardımcısı başkanlık eder. Yönetim Kurulunda tüm kararlar oy çokluğu ile alınır. Oylamada eşitlik çıkması halinde, Müdürün oyu yönünde çoğunluk sağlanmış kabul edilir.
+(4) Yönetim Kurulu toplantılarında alınan kararlar ve tavsiyeleri içeren rapor Rektörün bilgisine sunulur.

@@ -1,0 +1,2 @@
+Müdür yardımcısı
+MADDE 9- (1) Müdüre çalışmalarında yardımcı olmak üzere Üniversite Tıp Fakültesinde tam gün görev yapan öğretim üyeleri arasından, Müdürün önerisi üzerine Rektör tarafından üç yıl süre ile bir müdür yardımcısı görevlendirilir. Süresi dolmadan görevinden ayrılan müdür yardımcısının yerine kalan süreyi tamamlamak üzere aynı usul ile yeni müdür yardımcısı görevlendirilir. Müdürün görevi sona erdiğinde müdür yardımcısının da görevi sona erer.

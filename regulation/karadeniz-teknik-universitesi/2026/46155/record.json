@@ -1,0 +1,39 @@
+{
+  "checked_on": "2026-11-14",
+  "commencement_clauses": [
+    "MADDE 18- (1) Bu Yönetmelik yayımı tarihinde yürürlüğe girer."
+  ],
+  "date_evidence": [
+    [
+      "2026-05-26",
+      "26.05.2026",
+      "original gazette publication date in official listing"
+    ]
+  ],
+  "date_quote": "MADDE 18- (1) Bu Yönetmelik yayımı tarihinde yürürlüğe girer.",
+  "first_law": null,
+  "gazette": "33265",
+  "history": "current-text",
+  "images": {
+    "deferred": 0,
+    "omitted": 0,
+    "referenced": 0,
+    "source": 0
+  },
+  "in_force": "2026-05-26",
+  "in_force_basis": "source commencement clause: enters into force on gazette publication",
+  "issuer": "Karadeniz Teknik Üniversitesi",
+  "issuer_slug": "karadeniz-teknik-universitesi",
+  "kind": "regulation",
+  "label": "oldest version available",
+  "path": "regulation/karadeniz-teknik-universitesi/2026/46155",
+  "published": "2026-05-26",
+  "source": "https://www.mevzuat.gov.tr/anasayfa/MevzuatFihristDetayIframe?MevzuatTur=8&MevzuatNo=46155&MevzuatTertip=5",
+  "source_bytes": 32274,
+  "source_id": "8.5.46155",
+  "source_sha256": "54133b4f4f0abab8975d886b38ca25e79f6378315daa114b40b7facb6b57539c",
+  "text_status": "as-enacted",
+  "title": "KARADENİZ TEKNİK ÜNİVERSİTESİ DENEY HAYVANLARI UYGULAMA VE ARAŞTIRMA MERKEZİ YÖNETMELİĞİ",
+  "university_id": 207,
+  "word_count": 1611
+}
