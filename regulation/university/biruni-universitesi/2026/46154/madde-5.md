@@ -1,0 +1,16 @@
+İKİNCİ BÖLÜM
+Merkezin Amaçları ve Faaliyet Alanları
+Merkezin amaçları
+MADDE 5- (1) Merkezin amaçları şunlardır:
+a) Bilim ve ileri teknolojideki güncel gelişmeleri incelemek, ulusal ve uluslararası bilimsel iş birlikleriyle araştırmaların nitel ve nicel verimliliğini artırmak, Merkezin amacına yönelik faaliyet gösteren yurt içi ve yurt dışı kamu kurum ve özel sektör kuruluşları, uygulama ve araştırma merkezleri ile iş birliği yapmak ve ilgili alanlarda lisansüstü programların geliştirilmesine katkıda bulunmak.
+b) Hastalıkların tanı ve tedavisinde yeni ve özgün bilimsel veriler elde etmek ve tedavi ürünleri geliştirmek amacıyla tıp, temel bilimler, eczacılık, sağlık bilimleri ve mühendislik bilimlerinden araştırmacıların birlikte çalışabilecekleri klinik aktarımlı çalışmalar yapmak ve projeler üretmek.
+c) Temel bilimler, mühendislik bilimleri, tıp ve sağlık bilimleri alanlarında ileri ve yenilikçi teknolojiye dayalı yeni nesil ilaç, ürün, yöntem, sistem, ilaç taşıma sistemleri gibi hastalıkların tanı ve tedavisinde kullanılacak yeni ve özgün moleküller geliştirmek.
+ç) Türkiye’de halen belirli merkezlerde birbirinden bağımsız olarak yürütülen yaşam bilimleri, sağlık (tıp, eczacılık, moleküler biyoloji ve benzeri), mikro-nanoteknoloji, biyoteknoloji, malzeme teknolojileri, bilişim-yazılım, yapay zekâ, beşeri bilimler ve benzeri konulardaki Ar-Ge çalışmalarını ileri teknolojiler kapsamı altında bir araya getirmek ve ortak projeler üretmek.
+d) Temel bilimler, mühendislik bilimleri, tıp ve sağlık bilimleri alanlarında araştırmalar yürüten Üniversite içindeki ve diğer üniversitelerdeki farklı bilim dalları ile sanayi kuruluşlarının ortak projeler yürütmesini sağlamak.
+e) Yerli ve yabancı sanayi ve endüstriyel ürünlerin nitelik, nicelik ve etkinlik durumları ile insan ve çevre sağlığı üzerindeki etkileri konusunda test ve analiz yapmak.
+f) Moleküler biyoloji, biyoteknoloji, nanoteknoloji, doku mühendisliği, biyomühendislik, mikroteknoloji, farmakoloji, farmakodinamik, farmakokinetik, kimya ve malzeme mühendisliği, ilaç keşfi gibi konularda klinik aktarımlı ve interdisipliner özelliklerde proje, tez çalışması veya bilimsel araştırmalar, yeni bir molekül geliştirip bunun ön çalışmalarını yaparak patent almak isteyen farklı branşlardan bilim insanlarına çalışmaları sırasında gerekli temel altyapı desteği vermek ve danışmanlık hizmeti sunmak.
+g) İleri teknolojiler konusunda ürüne yönelik çalışmalar yaparak prototip ve faydalı modeller geliştirmek, iş birliği yapılan kamu kurum ve özel sektör kuruluşlarının temsilcileri aracılığı ile bu prototip ve faydalı modellerin üretimini gerçekleştirmek.
+ğ) İnterdisipliner ve klinik aktarımlı çalışmalar yapmak isteyen akademisyenlere araştırma imkânları sunmak ve bu konuda ihtiyaç duyulan yetişmiş eleman ihtiyacını karşılamak üzere lisansüstü eğitim programları düzenlemek.
+h) İleri ve yenilikçi teknolojiler ile ilgili uluslararası organizasyonlara katılmak ve diğer üye ülkelerle koordinasyon içerisinde çalışmalar yürütmek.
+ı) Öğrencilere akademik eğitim vermek, bilimsel ve teknolojik çalışmalar yapmalarını sağlayarak ülkemize nitelikli bilim insanları kazandırmak.
+i) İleri teknoloji alanında yapılan çalışmalarda ürüne yönelik kullanılan yöntem ve sonuçları patente dönüştürmek.
