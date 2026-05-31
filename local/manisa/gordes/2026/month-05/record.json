@@ -1,0 +1,28 @@
+{
+  "number": "month-05",
+  "year": 2026,
+  "month": 5,
+  "title": "Gördes Belediyesi 2026 Yılı Mayıs Ayı Belediye Meclis Toplantısı",
+  "decision_date": null,
+  "index_date": "2026-05-31",
+  "date_precision": "month",
+  "period": "Mayıs 2026",
+  "source": "https://www.gordes.bel.tr/karar/gordes-belediyesi-2026-yili-mayis-ayi-belediye-meclis-toplantisi",
+  "official_page": "https://www.gordes.bel.tr/karar/gordes-belediyesi-2026-yili-mayis-ayi-belediye-meclis-toplantisi",
+  "official_document": "https://www.gordes.bel.tr/tema/genel/uploads/meclis_kararlari/dosya/Mayıs-Ayı-Meclis-Kararları.pdf",
+  "source_sha256": "03be0902dbf0c635132671b0a9be238695874b63fca5a89d60c753e907e70a11",
+  "issuer": "Gördes Belediye Meclisi",
+  "history_type": "metadata",
+  "text_status": "metadata-only: listing fields as published; the decisions are in the linked official document(s) or page, not transcribed",
+  "in_force": "2026-05-31",
+  "in_force_basis": "The official listing gives only the month of this official file (Mayıs 2026); date set to the last day of that month (turkey-law date convention for month-only sources); exact adoption dates are in the linked official document; legal commencement not asserted",
+  "missing": [
+    "decision numbers, dates and subjects",
+    "complete official decision text",
+    "official annexes"
+  ],
+  "law_text_complete": false,
+  "privacy_withheld": false,
+  "listing_label": "Gördes Belediyesi 2026 Yılı Mayıs Ayı Belediye Meclis Toplantısı",
+  "record_scope": "one official file of council decisions (meeting or month)"
+}
