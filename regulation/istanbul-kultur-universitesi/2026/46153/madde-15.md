@@ -1,0 +1,4 @@
+Yatay geçiş yoluyla öğrenci kabulü
+MADDE 15- (1) Bir yükseköğretim kurumunun lisansüstü programında en az bir yarıyılını tamamlamış olan başarılı öğrenci, aşağıdaki hükümler çerçevesinde Üniversitede açılmış bulunan bir eşdeğer diploma programına yatay geçiş yoluyla kabul edilebilir:
+a) Yatay geçişin kabul edileceği programda, o program için ayrılmış kontenjanın dörtte birini aşmamak üzere kontenjan ayrılabilir. Hangi programdan geçiş yapılabileceği, ayrılacak kontenjan ve aranacak özel koşullar, ilgili enstitü anabilim/anasanat dalı başkanlığının önerisi üzerine Enstitü Yönetim Kurulunca kararlaştırılır ve 5 inci maddeye göre yapılacak ilanda belirtilir.
+b) Yatay geçişi kabul edilen adayın kalan ders yükümlülüğü, bu Yönetmelik hükümleri dikkate alınarak, tanınacak süre ve diğer hususlar, Enstitü Yönetim Kurulunca belirlenir.

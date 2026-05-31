@@ -1,0 +1,2 @@
+Yeniden kayıtta muafiyet
+MADDE 23- (1) Daha önce herhangi bir lisansüstü programında başarmış olduğu ders veya derslerden, yeni kaydolduğu programda muaf olmak isteyen öğrenci, ilk kayıttan itibaren en geç on beş gün içinde Enstitü Müdürlüğüne yazılı olarak başvurduğu takdirde, ilgili enstitü anabilim/anasanat dalı başkanlığı bu talebi değerlendirir. Enstitü Yönetim Kurulu, bu değerlendirme ışığında, muafiyet talebini tamamen veya kısmen kabul veya reddeder.

@@ -1,0 +1,18 @@
+Başvuruların değerlendirilmesi
+MADDE 8- (1) Tezli yüksek lisans, doktora ve sanatta yeterlik programına başvuran adayların değerlendirilmesine ilişkin esaslar şunlardır:
+a) Adayların değerlendirilmesi jüriler tarafından yapılır. Jüriler anabilim/anasanat dalları tarafından belirlenen en az üç öğretim üyesinden oluşur. Bir anabilim/anasanat dalında yürütülen farklı lisansüstü programlar için ayrı jüriler kurulabilir.
+b) Lisansüstü bir programa başvuran adayın başarı durumu, 100 tam puan üzerinden hesaplanan toplam puanı ile belirlenir. Başvuru koşullarını sağlayan adaylar bir lisansüstü programa yalnızca ALES puanına göre alınabileceği gibi; %50’den az olmamak koşuluyla ALES puanına ek olarak yabancı dil puanı, lisans/yüksek lisans genel not ortalaması, yazılı ve/veya mülakat bilimsel değerlendirme sınavı yapılması durumunda değerlendirme sonucu da dikkate alınarak, toplamı %100 olacak şekilde, Enstitü anabilim/anasanat dalı başkanlığının önerisi ve Enstitü Kurulunun kararı ile Senato tarafından onaylanan usul ve esaslara uygun olarak hesaplanan puana göre sıralanır. Toplam puanı 100 tam puan üzerinden en az 55 olan adaylar, kontenjan dikkate alınarak, en yüksek puan alan adaydan başlanılarak asıl ve yedek liste halinde sıralanır. Toplam puanları eşit olan adayların sıralaması için lisans/yüksek lisans genel not ortalaması dikkate alınır.
+c) Anabilim/anasanat dalı yaptığı sıralamayı bir liste halinde Enstitü Müdürlüğüne bir tutanak ile teslim eder.
+ç) Enstitü Yönetim Kurulu, gerekli koşulları sağlayan adayları ilgili programın kontenjanına göre asil ve yedek liste halinde belirleyerek karara bağlar.
+d) Farklı alanlarda lisans yapmış adayların yüksek lisans programına doğrudan kabulüne veya bilimsel hazırlık programına yönlendirilmelerine, ilgili anabilim/anasanat dalı başkanlığının görüşü alınarak Enstitü Yönetim Kurulu karar verir.
+e) Yabancı dilde eğitim yapan programlarda yabancı dil puanını anabilim/anasanat dalı başkanlığının önerisi üzerine Enstitü Yönetim Kurulu belirler.
+f) Yabancı uyruklu adaylar ve lisans eğitiminin tamamını yurt dışında tamamlayan Türkiye Cumhuriyeti vatandaşı adayların başvuruları ilgili anabilim/anasanat dalı başkanlığı görüşü alınarak Enstitü Yönetim Kurulunca on beş gün içerisinde değerlendirilir.
+g) 6 ncı maddenin birinci fıkrasının (a) ve (b) bentleri kapsamında, doktora/sanatta yeterlik/tıpta uzmanlık/diş hekimliğinde uzmanlık/veteriner hekimliğinde uzmanlık/eczacılıkta uzmanlık mezunu adayların değerlendirme işlemleri aşağıdaki şekildedir:
+1) Mezun olduğu lisansüstü programa girişteki puan türü veya uzmanlık alanı dikkate alınmaksızın, ALES puanı 70 kabul edilerek hesaplamalara dâhil edilir ve ilgili programın şartlarında ilan edilir.
+2) Bu adaylar daha önceden aldığı puan türü veya doktora/sanatta yeterlik/uzmanlık alanından farklı bir alanda başvuru yapabilir.
+(2) Tezsiz yüksek lisans programına başvuran adayların değerlendirilmesine ilişkin esaslar şunlardır:
+a) Adayların değerlendirilmesi Enstitü Müdürlüğü tarafından yapılır.
+b) Tezsiz yüksek lisans programına başvuran adayın başarı durumu lisans genel not ortalamasına göre yapılır. Adayın toplam puanının 100 tam puan üzerinden en az 55 puan olması gerekir.
+c) Enstitü Yönetim Kurulu, gerekli koşulları sağlayan adayların kesin kayıtlarını ilgili programların kontenjanına göre belirleyerek karara bağlar.
+ç) Farklı alanlarda lisans yapmış adayların bilimsel hazırlık programına yönlendirilmelerine ilgili anabilim/anasanat dalı başkanlığının görüşü alınarak Enstitü Yönetim Kurulu tarafından karar verilir.
+d) Yabancı dilde eğitim yapan programlarda yabancı dil puanını anabilim/anasanat dalı başkanlığının önerisi üzerine Enstitü Yönetim Kurulu belirler.

@@ -1,0 +1,4 @@
+Derslere devam
+MADDE 18- (1) Öğrencilerin dönem sonu sınavlarına girebilmeleri için, teorik derslerin %70’ine, uygulamaların ise %80’ine devam etmiş olmaları gerekir. Öğrencilerin devamı, ilgili enstitü anabilim/anasanat dalı başkanlığınca izlenir ve denetlenir. Her öğretim elemanı, yarıyıl sonunda devam şartını yerine getirmemiş öğrencileri ilgili enstitü anabilim/anasanat dalı başkanlığına bildirir.
+(2) Devam şartı yerine getirilmiş ders ve uygulamaların tekrarı halinde yeniden devam şartının aranıp aranmayacağı, ilgili enstitü anabilim/anasanat dalı başkanlığınca belirlenir.
+(3) Devam koşulunu yerine getirmeyen öğrenci, dönem sonu sınavlarına alınmaz. Başarı notu FD olarak işlenir. İlgili öğrencinin, dersin veya tanımlanan muadil dersin ilk açıldığı yarıyıl devam zorunluluğu koşuluna tabi olarak dersi alması gerekir.

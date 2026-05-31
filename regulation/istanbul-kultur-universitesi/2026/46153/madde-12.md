@@ -1,0 +1,2 @@
+Öğrenci katkı payları
+MADDE 12- (1) Üniversitede lisansüstü programlara devam edebilmek için ödenecek öğrenci katkı payları, her bir program için ayrı olarak, Üniversite Yönetim Kurulunun önerisi üzerine, Mütevelli Heyet tarafından belirlenir. Katkı paylarını Rektörlükçe belirlenen süre içerisinde ödemeyen öğrencilerin o dönem için kayıtları yapılmaz, yenilenmez. Bilimsel hazırlık programına katılması öngörülen öğrenciler için, bilimsel hazırlık programı katkı payları, her yıl Mütevelli Heyet tarafından ayrıca belirlenir.

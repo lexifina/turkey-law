@@ -1,0 +1,2 @@
+Tebligat
+MADDE 24- (1) Eğitim-öğretim, sınavlar, disiplin ve benzeri konularda Enstitüde ve internet sitelerinde yapılan ilanlar, öğrencinin şahsına yapılmış tebligat hükmündedir. Öğrenci hakkındaki kişisel işlemler, ilk kayıtta öğrenci tarafından yazılı olarak beyan edilen veya daha sonra yazılı bildirimle değiştirilen adresine; 11/2/1959 tarihli ve 7201 sayılı Tebligat Kanununun ilgili hükümleri uyarınca gönderilerek tebliğ edilir.
