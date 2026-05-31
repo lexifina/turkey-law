@@ -1,0 +1,29 @@
+{
+  "number": "63",
+  "number_as_published": "Mec-2026-5-",
+  "year": 2026,
+  "month": 5,
+  "title": "Mec-2026-5- 63- 1987 Model 07 Lk 916 Plakalı Aracın Ant.büy.belediyesine devredilmesi.",
+  "decision_date": null,
+  "index_date": "2026-05-31",
+  "date_precision": "month",
+  "period": "Mayıs 2026",
+  "source": "https://www.manavgat.bel.tr/meclis-kararlari/yili-mayis-ayi-meclis-kararlari-2026",
+  "official_page": "https://www.manavgat.bel.tr/meclis-kararlari/yili-mayis-ayi-meclis-kararlari-2026",
+  "official_document": "https://d25tea7qfcsjlw.cloudfront.net/14370/kicerik/274998/ee68.pdf",
+  "source_sha256": "c62bba0ce3f112e865bd1743508943fe3347d556432d02463ee569e5944584e9",
+  "issuer": "Manavgat Belediye Meclisi",
+  "history_type": "metadata",
+  "text_status": "metadata-only: number and subject as published in the official listing; complete decision text is in the linked official page/document, not transcribed",
+  "in_force": "2026-05-31",
+  "in_force_basis": "The official listing gives only the month of this decision (Mayıs 2026); date set to the last day of that month (turkey-law date convention for month-only sources); exact adoption dates are in the linked official document; legal commencement not asserted",
+  "missing": [
+    "exact decision date",
+    "complete official decision text",
+    "official annexes"
+  ],
+  "law_text_complete": false,
+  "privacy_withheld": false,
+  "listing_item": "2026 YILI MAYIS AYI MECLİS KARARLARI",
+  "record_scope": "one council decision (official code MEC-year-month-number)"
+}
