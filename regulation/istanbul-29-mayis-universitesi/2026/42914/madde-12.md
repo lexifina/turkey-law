@@ -1,0 +1,6 @@
+Ön lisans ve lisans programlarında derslerin yürütülmesi
+MADDE 12- (1) Ön lisans ve lisans programlarında eğitim ve öğretim; teorik dersler ve pratik çalışma, laboratuvar çalışması, atölye çalışması, bitirme projesi, bitirme ödevi, seminer, tez ve staj gibi uygulamalardan oluşur.
+(2) Ön lisans ve lisans programında yer alacak teorik derslerin ve uygulamaların isimleri, zorunlu veya seçimlik (program/üniversite) oldukları, saat sayıları, kredileri, AKTS ölçütlerine göre kredi değerleri, bölüm kurulunun önerisi üzerine ilgili kurul tarafından belirlenir ve Senatonun onayı ile kesinlik kazanır.
+(3) Bitirme projesi, bitirme ödevi, tez ve staj gibi eğitim ve öğretim faaliyetlerinin yürütülme ve değerlendirilmesine ilişkin esaslar bölüm kurulunun önerisi üzerine ilgili kurul tarafından belirlenir ve Senatonun onayı ile kesinlik kazanır.
+(4) Her yarıyıl hangi derslerin açılacağı ve hangi öğretim elemanları tarafından okutulacağı ilgili bölüm kurulunun önerisi üzerine ilgili yönetim kurulu tarafından belirlenir ve Üniversite Yönetim Kurulunun onayı ile kesinlik kazanır.
+(5) Ön lisans ve lisans programında yer alacak dersler yarıyıl esasına göre belirlenir. Ancak ilgili fakülte kurulunun önerisi ve Senatonun onayı ile bazı dersler programa yıllık olarak konabilir.

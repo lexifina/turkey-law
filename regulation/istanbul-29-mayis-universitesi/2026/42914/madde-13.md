@@ -1,0 +1,11 @@
+Derslere kayıt
+MADDE 13- (1) Ders yükü hesaplarında derslerin kredi değerleri esas alınır.
+(2) Ders kayıtlarında aşağıdaki esaslara uyulur:
+a) Öğrencinin her yarıyıldaki ders yükü, kayıtlı bulunduğu programın ders programında ilgili yarıyıl için gösterilen ders AKTS ve kredi yüküdür. Birinci ve ikinci yarıyıl öğrencileri kayıtlı bulundukları programın ders programında ilgili yarıyıl için gösterilen ders AKTS ve kredi yükü kadar ders alabilirler.
+b) Öğrencinin bir yarıyılda alacağı derslerin kredi yükü bulunduğu yarıyılın kredi yükünün bir buçuk katından fazla olamaz. Yıllık ders sistemi uygulanan programda ders tekrarı yapan öğrencinin ders yükü danışmanın onayı ile tekrar edeceği yıllık dersin kredisinin yarısı kadar daha arttırılabilir.
+c) Öğrenci öncelikle alt yarıyıllardan başarısız olduğu ve daha önce almadığı derslere kaydolmak zorundadır. Bu derslere kayıt sırasında da alt yarıyıl sıralamasına uyulur. Öğretim programından çıkartılan ve açılmayan derslerin yerine belirlenen başka dersler alınır.
+ç) Seçimlik bir dersin tekrarı halinde, izleyen yarıyıllarda kayıt yenileme sırasında yerine aynı seçimlik gruptan başka bir ders alınabilir. Bu işlem danışman onayıyla kesinleşir.
+d) Lisans programında alt yarıyıllardaki bütün derslerini başarmış olmak kaydıyla GNO’su 3.00 ve üzerinde olan öğrenci üçüncü yarıyıl başından itibaren danışmanın onayı ile bir üst yıldan bir, GNO’su 3.50 ve üzerinde olan öğrenci iki ders alabilir.
+e) Öğretim programındaki bazı derslerden muaf olma, ön şart dersini/derslerini başaramamış olma, yarıyıl izni kullanmış olma, üniversitelerarası değişim programlarına katılma gibi nedenlerle normal ders yükünü tamamlayamayan öğrenciye ilgili yönetim kurulu kararı ile normal ders kredi yükünü geçmemek koşuluyla üst iki yarıyıldan ders verilebilir.
+f) Öğrenci, danışmanının onayıyla her yarıyılın ilk iki haftası içerisinde bir veya daha fazla dersi bırakabilir veya başka derslere kaydını yaptırabilir. Ancak, alt yarıyıllara ait daha önce hiç almadığı veya alıp başarısız olduğu zorunlu bir dersi bırakamaz. Birinci ve ikinci yarıyıl öğrencileri ise ders ekleme ve bırakma işlemi yapamaz.
+g) Öğrencinin ders kaydı akademik danışman onayından sonra kesinlik kazanır.

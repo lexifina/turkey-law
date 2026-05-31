@@ -1,0 +1,4 @@
+Kayıt silme
+MADDE 29- (1) Kendi isteği ile Üniversitedeki kaydını sildirmek isteyen öğrenci ilgili dekanlığa/müdürlüğe yazılı olarak başvurur ve içinde bulunduğu yarıyıl ücretinin tamamını ödediğine dair belgeyi ibraz ettiği takdirde ilgili yönetim kurulu kararıyla kaydı silinir. İlgili birimlerden alınan ilişik kesme belgelerinin Öğrenci İşleri Daire Başkanlığına teslim edilmesi halinde öğrencinin Üniversite ile ilişiği kesilir, dosyasındaki diploma ve diğer belgeler kendisine geri verilir.
+(2) Başka bir öğretim kurumuna yatay geçiş yapan öğrencinin ilgili yönetim kurulu kararıyla kaydı silinir, Üniversite ile ilişiği kesilir, dosyasındaki diploma ve diğer belgeler ilgili yükseköğretim kurumuna gönderilir.
+(3) Üniversiteden çıkarılma cezası alan öğrencinin 2547 sayılı Kanun hükümlerine göre, ilgili yönetim kurulu kararı ile kaydı silinir, Üniversite ile ilişiği kesilir, dosyasındaki diploma ve diğer belgeleri geri verilir.

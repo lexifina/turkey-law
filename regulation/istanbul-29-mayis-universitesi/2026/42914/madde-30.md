@@ -1,0 +1,3 @@
+Programlar arasında geçiş
+MADDE 30- (1) Kurum içi ve kurumlar arası yatay geçiş, özel öğrenci kabulü, çift anadal ve yan dal programları ile ulusal ve uluslararası öğrenci değişim programları konularında 24/4/2010 tarihli ve 27561 sayılı Resmî Gazete’de yayımlanan Yükseköğretim Kurumlarında Önlisans ve Lisans Düzeyindeki Programlar Arasında Geçiş, Çift Anadal, Yan Dal ile Kurumlar Arası Kredi Transferi Yapılması Esaslarına İlişkin Yönetmelik hükümleri ile Senato kararları uygulanır.
+(2) Dikey geçişler hakkında, 19/2/2002 tarihli ve 24676 sayılı Resmî Gazete’de yayımlanan Meslek Yüksekokulları ve Açıköğretim Ön Lisans Programları Mezunlarının Lisans Öğrenimine Devamları Hakkında Yönetmelik hükümleri uygulanır.

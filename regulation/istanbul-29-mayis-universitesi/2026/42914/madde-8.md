@@ -1,0 +1,2 @@
+Danışmanlık
+MADDE 8- (1) Her öğrenci için ilgili bölüm başkanı tarafından bir öğretim elemanı akademik danışman olarak atanır. Akademik danışman, öğrenciyi öğrenimi boyunca izler, derslere kayıt ile diğer akademik konularda öğrenciye rehberlik eder ve yönlendirmelerde bulunur. Kayıt yenileme işlemlerinden öğrenci sorumludur. Öğrencinin derslere yazılma, ders ekleme, bırakma işlemleri danışman onayı ile yapılır.

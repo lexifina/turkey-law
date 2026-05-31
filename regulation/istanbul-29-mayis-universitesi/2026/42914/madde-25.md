@@ -1,0 +1,2 @@
+Ders muafiyeti
+MADDE 25- (1) Üniversiteye kaydını yaptıran öğrenci kesin kaydını yaptırdığı akademik yılın başlangıcındaki ders alma ve bırakma süresi sonuna kadar gerekli belgelerle ilgili dekanlığa/müdürlüğe başvurarak önceki yükseköğrenimi sırasında başarılı olduğu derslerden muaf tutulmasını isteyebilir ve bu talep ilgili yönetim kurulu tarafından ilgili yönerge hükümlerine göre değerlendirilerek karara bağlanır. Sonraki yarıyıl/yıllarda yapılacak muafiyet talepleri kabul edilmez.
