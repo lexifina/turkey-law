@@ -1,0 +1,29 @@
+{
+  "number": "170",
+  "number_as_published": "170",
+  "year": 2026,
+  "month": 5,
+  "title": "Tekirdağ ili, Süleymanpaşa ilçesi, Hürriyet Mahallesi 241 ada 8 parselde yer alan taşınmaz Kentsel Sit Etkileme Geçiş Alanında kalmakta olup onaylı Tekirdağ Merkez Kentsel Sit ve Etkileme Geçiş Alanı 1/1000 Ölçekli Koruma Amaçlı Uygulama İmar Planı Notları C.2.6. Turizm Tesis Alanları maddesi &quot;Turizm alanında bölgesel kalkınmaya, fiziksel ve ekonomik gelişmeye, sosyal açıdan canlılık getirici konaklama tesisleri, tesise hizmet veren açık ve kapalı spor salonları, su oyunları eğlence parkları ile tesise ve çevresine hizmet verebilecek bazı ticari birimler yer alabilir. 1/1000 ölçekli koruma amaçlı imar planlarına aykırı olmamak şartıyla hazırlanacak olan mimari projeler, Edirne K. ve T. V. Koruma Bölge Kurulu uygun kararı alınmak koşuluyla Tekirdağ Belediye Meclisi’ne onaylatılması ve yapı ruhsatlarının Tekirdağ Belediyesi’nce verilmesinden sonra uygulama yapılacaktır.&quot; Hükmü kapsamında hazırlanan mimari proje Edirne Kültür Varlıklarını Koruma Kurulunda görüşülerek 28/04/2026 tarih ve 11733 sayılı karar ile onaylanmıştır. Plan notu gereği hazırlanan mimari projenin onaylanmasına Belediye Meclisince oybirliği ile karar verildi.",
+  "decision_date": null,
+  "index_date": "2026-05-31",
+  "date_precision": "month",
+  "period": "Mayıs 2026",
+  "source": "https://suleymanpasa.bel.tr/meclis-kararlari",
+  "official_page": "https://suleymanpasa.bel.tr/meclis-kararlari",
+  "official_document": null,
+  "source_sha256": "a3d58e794d078cdf2cdbec893458f633a8786bca6293af397d236c0d6fbd00f0",
+  "issuer": "Süleymanpaşa Belediye Meclisi",
+  "history_type": "metadata",
+  "text_status": "metadata-only: number and subject as published in the official listing; complete decision text is in the linked official page/document, not transcribed",
+  "in_force": "2026-05-31",
+  "in_force_basis": "The official listing gives only the month of this decision (Mayıs 2026); date set to the last day of that month (turkey-law date convention for month-only sources); exact adoption dates are in the linked official document; legal commencement not asserted",
+  "missing": [
+    "exact decision date",
+    "complete official decision text",
+    "official annexes"
+  ],
+  "law_text_complete": false,
+  "privacy_withheld": false,
+  "record_scope": "one council decision (number and published decision summary)",
+  "sitting": "Birleşim No: 1"
+}
