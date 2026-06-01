@@ -1,0 +1,1 @@
+[1] 1/6/2026 tarihli ve 33267 sayılı Resmî Gazete’de yayımlanan değişiklik ile Yönetmeliğin Adı “Haliç Üniversitesi İslam Mimarisi ve Sanatları Uygulama ve Araştırma Merkezi Yönetmeliği” iken metne işlendiği şekilde değiştirilmiştir.
