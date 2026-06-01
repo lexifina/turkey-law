@@ -1,0 +1,3 @@
+Ders saydırma
+MADDE 13- (1) Öğrencilerin özel öğrencilik, daha önceki lisansüstü programından ders saydırma, bir veya daha fazla dersten muaf olma ve buna bağlı olarak intibak koşulları, danışmanının önerisi ve anabilim/anasanat dalı kurul/akademik kurul kararı ile ders yüküne sayılmak üzere enstitü yönetim kurulu tarafından karara bağlanır. Ders saydırma işlemleri öğrencinin enstitüde ders kaydı yaptırdığı yarıyılın ilk dört haftası içinde yapılır.
+(2) Ulusal ve uluslararası lisansüstü değişim programları olan Erasmus, Mevlana, Farabi ve benzeri programlardan faydalanmak için Üniversite tarafından belirlenen kurallar uygulanır.
