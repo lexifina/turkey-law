@@ -1,0 +1,31 @@
+{
+  "act_path": "regulation/university/saglik-bilimleri-universitesi/2026/46165",
+  "availability": "text",
+  "checked_on": "2026-11-14",
+  "commencement_clauses": [
+    "MADDE 17- (1) Bu Yönetmelik yayımı tarihinde yürürlüğe girer."
+  ],
+  "date_quote": "MADDE 17- (1) Bu Yönetmelik yayımı tarihinde yürürlüğe girer.",
+  "first_law": null,
+  "gazette": "33269",
+  "history": "as-enacted",
+  "images": {
+    "deferred": 0,
+    "omitted": 0,
+    "referenced": 0,
+    "source": 0
+  },
+  "in_force": "2026-06-03",
+  "in_force_basis": "source commencement clause: effective on Gazette publication",
+  "issuer": "Sağlık Bilimleri Üniversitesi",
+  "issuer_slug": "saglik-bilimleri-universitesi",
+  "kind": "regulation",
+  "published": "2026-06-03",
+  "source": "https://www.mevzuat.gov.tr/anasayfa/MevzuatFihristDetayIframe?MevzuatTur=8&MevzuatNo=46165&MevzuatTertip=5",
+  "source_id": "8.5.46165",
+  "source_sha256": "2ddfb6089f54b9ba98c1e0d2005733ee0f264c9628cfd08c04f01bfdd3c068d7",
+  "title": "SAKARYA ÜNİVERSİTESİ AFRİKA ÇALIŞMALARI UYGULAMA VE ARAŞTIRMA MERKEZİ YÖNETMELİĞİ",
+  "university_id": 454,
+  "version_label": "oldest version available",
+  "word_count": 809
+}
