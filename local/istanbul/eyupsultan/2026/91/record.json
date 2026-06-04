@@ -1,0 +1,22 @@
+{
+  "number": "91",
+  "number_as_published": "2026/91",
+  "year": 2026,
+  "title": "Akşemsettin Mahallesi 100 ada 174, 38, 181, 182, 183, 48 ve 49 parsellerin ortasında kalan alana yönelik Uygulama İmar Planı değişikliği",
+  "decision_date": "2026-06-04",
+  "source": "https://eyupsultan.bel.tr/tr/main/pages/2026-haziran-ayi-meclis-kararlari/2865",
+  "official_document": "https://eyupsultan.bel.tr/tr/main/pages/2026-91/2867",
+  "source_sha256": "44bace8475de9f47c121715044997b3a9fb32401915bb91a1e0dda7adcfe8a57",
+  "issuer": "Eyüpsultan Belediye Meclisi",
+  "history_type": "metadata",
+  "text_status": "metadata-only: listing fields as published; complete decision text is in the linked official document, not transcribed",
+  "in_force": "2026-06-04",
+  "in_force_basis": "Decision date as printed in the official council listing: 04.06.2026 (meeting date at the start of the decision page); adoption date of the council decision; legal commencement not asserted",
+  "missing": [
+    "complete official decision text",
+    "official annexes"
+  ],
+  "law_text_complete": false,
+  "privacy_withheld": false,
+  "decision_page_sha256": "4058f93e25c3abda8570627d3c14b77bc905164d47925ed232b084b9844f969f"
+}
