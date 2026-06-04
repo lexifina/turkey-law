@@ -1,0 +1,22 @@
+{
+  "number": "90",
+  "number_as_published": "2026/90",
+  "year": 2026,
+  "title": "Göktürk Mahallesi 1/1000 ölçekli Uygulama İmar Planı, plan onama sınırı değişikliği",
+  "decision_date": "2026-06-04",
+  "source": "https://eyupsultan.bel.tr/tr/main/pages/2026-haziran-ayi-meclis-kararlari/2865",
+  "official_document": "https://eyupsultan.bel.tr/tr/main/pages/2026-90/2866",
+  "source_sha256": "44bace8475de9f47c121715044997b3a9fb32401915bb91a1e0dda7adcfe8a57",
+  "issuer": "Eyüpsultan Belediye Meclisi",
+  "history_type": "metadata",
+  "text_status": "metadata-only: listing fields as published; complete decision text is in the linked official document, not transcribed",
+  "in_force": "2026-06-04",
+  "in_force_basis": "Decision date as printed in the official council listing: 04.06.2026 (meeting date at the start of the decision page); adoption date of the council decision; legal commencement not asserted",
+  "missing": [
+    "complete official decision text",
+    "official annexes"
+  ],
+  "law_text_complete": false,
+  "privacy_withheld": false,
+  "decision_page_sha256": "03a441da288443b9aa7afa0ebb76c2fb439cd46faf38f215950f5860dc03ac26"
+}
