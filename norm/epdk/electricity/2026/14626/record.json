@@ -1,0 +1,25 @@
+{
+  "kind": "norm",
+  "issuer": "Enerji Piyasası Düzenleme Kurumu",
+  "market": "electricity",
+  "document_type": "board-decision",
+  "number": "14626",
+  "decision_date": "2026-06-04",
+  "title": "Bir üretim lisansı sahibi tüzel kişinin; Kanunun 7 nci maddesinin üçüncü fıkrası kapsamındaki tüketim tesisi/tesislerinin ihtiyacını karşılamak için yapılan alımlar hariç olmak üzere, tedarik etmekle yükümlendiği elektrik enerjisini veya kapasitesini teminen",
+  "resmi_gazete_date": "2026-06-06",
+  "resmi_gazete_number": "33272",
+  "categories": [
+    "Üretim Şirketinin Piyasalardan Satın Alabileceği Toplam Elektrik Enerjisi Miktarına İlişkin Kurul Kararı"
+  ],
+  "source": "https://www.epdk.gov.tr/Detay/DownloadDocument?id=x/yBjRnKaJQ=",
+  "documents": [
+    "https://www.epdk.gov.tr/Detay/DownloadDocument?id=x/yBjRnKaJQ="
+  ],
+  "source_sha256": "5484b2cc80c4709429708ce5228589080b5d77fbf5a3e8a28ec7e71fb779ca24",
+  "official_list": "https://www.epdk.gov.tr/Detay/Icerik/3-0-39/kurul-kararlari-",
+  "official_list_leaf": 33879,
+  "text_status": "metadata-only",
+  "metadata_only_reason": "the two text extractions differ",
+  "in_force": "2026-06-04",
+  "law_text_complete": false
+}
