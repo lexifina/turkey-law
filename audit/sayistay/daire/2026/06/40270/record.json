@@ -1,0 +1,17 @@
+{
+  "kind": "decision",
+  "issuer": "Sayıştay 4. Dairesi",
+  "number": "355",
+  "decision_date": "2026-06-04",
+  "source_id": 40270,
+  "chamber": "4",
+  "ilam_number": "188",
+  "item_number": 1,
+  "public_body_type": "Belediyeler ve Bağlı İdareler",
+  "account_year": 2020,
+  "subject": "İhale Mevzuatı ile İlgili Kararlar",
+  "source": "https://www.sayistay.gov.tr/KararlarDaire/Detay/40270/",
+  "source_sha256": "d191517e07ee5dd14ab899cd028b45aaf585c175177feb15ca706ab40403a836",
+  "text_status": "metadata-only",
+  "metadata_only_reason": "possible personal name in the official text"
+}
