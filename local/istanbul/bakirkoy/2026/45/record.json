@@ -1,0 +1,23 @@
+{
+  "number": "45",
+  "number_as_published": "45",
+  "year": 2026,
+  "title": "Sahipsiz hayvanların kısırlaştırılmasına ilişkin mali destek iş birliği protokolü",
+  "decision_date": "2026-06-05",
+  "source": "https://www.bakirkoy.bel.tr/meclis-kararlari/2",
+  "official_document": "https://www.bakirkoy.bel.tr/storage/app/media/MECL%C4%B0S%202026/45-veteriner-isleri-mud-sahipsiz-hayvanlarin-kisirlastirilmasina-iliskin-is-birligi-protokolu-05062026.pdf",
+  "source_sha256": "2c930471105bff55c3d56e4bcde8b75995f61e07d4efc043db6ec3ec8165d4ca",
+  "issuer": "Bakırköy Belediye Meclisi",
+  "history_type": "metadata",
+  "text_status": "metadata-only: listing fields as published; complete decision text is in the linked official document, not transcribed",
+  "in_force": "2026-06-05",
+  "in_force_basis": "Decision date as printed in the official council listing: 05 Haziran 2026 (Tarih column of the official list); adoption date of the council decision; legal commencement not asserted",
+  "missing": [
+    "complete official decision text",
+    "official annexes"
+  ],
+  "law_text_complete": false,
+  "privacy_withheld": false,
+  "record_scope": "one council decision (number, date and summary as listed; the decision is the linked official PDF)",
+  "official_page": "https://www.bakirkoy.bel.tr/meclis-kararlari"
+}
