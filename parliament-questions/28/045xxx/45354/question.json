@@ -1,0 +1,21 @@
+{
+  "record_type": "parliament-written-question",
+  "term": 28,
+  "legislative_year": 4,
+  "esas_no": "7/45354",
+  "submitted": "2026-06-05",
+  "submitted_as": "Başkanlığa geliş tarihi",
+  "mp": "Meral DANIŞ BEŞTAŞ",
+  "province": "Erzurum",
+  "summary": "Erzurum Resim ve Heykel Müzesinden Ankara'ya taşınacağı iddia edilen eserlere ilişkin",
+  "status": "Süresi Geçtikten Sonra Cevaplandı",
+  "status_as_of": "2026-11-16",
+  "official_record": "https://www.tbmm.gov.tr/Denetim/Yazili-Soru-Onergesi-Detay/7cef8f46-8789-4fa5-9609-019ea6479e99",
+  "source": "https://tbmm.gov.tr/Denetim/YaziliSoruOnergesiTable",
+  "source_form": "https://tbmm.gov.tr/Denetim/Yazili-Soru-Onergeleri",
+  "source_sha256": "2a24ab771a5407f23bc6a61603c212d32f53a9665e48bb171519d6215ad0553a",
+  "in_force": "2026-06-05",
+  "in_force_basis": "Date the question reached the Speaker (Başkanlığa geliş tarihi) in the official TBMM written-question record; parliamentary oversight record, not law",
+  "history_type": "metadata",
+  "text_status": "metadata-only: question text, addressee and answers are in the linked official record (PDFs on cdn.tbmm.gov.tr); not transcribed here"
+}
