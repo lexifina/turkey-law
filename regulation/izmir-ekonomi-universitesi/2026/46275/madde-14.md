@@ -1,0 +1,6 @@
+Eğitim-öğretim programları
+MADDE 14- (1) Eğitim-öğretim programı; teorik dersler, uygulamalı dersler, seminer, stüdyo, atölye, proje, laboratuvar, saha uygulamaları ile işletmede mesleki eğitim ve staj ve benzeri uygulamalardan oluşur. Hangi dersler için uygulama yapılacağı veya hangi uygulamaların ders sayılacağı ve değerlendirmesine ilişkin esaslar Senato tarafından belirlenir.
+(2) Öğretim programları, her bir diploma programının diplomayı almayı hak eden kişiye kazandıracağı bilgi, beceri ve yetkinlikleri sağlayacak şekilde iş yükü esas alınarak hazırlanır ve ilgili bölümlerin önerileri üzerine ilgili kurulun kararı ve Senatonun onayı ile kesinleşir. Öğretim programları her dönem en az 25 AKTS olacak şekilde, ön lisans programları için toplam en az 120 AKTS kredisi, dört yıllık lisans programları için toplam en az 240 AKTS kredisi olacak şekilde düzenlenir.
+(3) Öğretim programlarında haftalık ders, uygulama/laboratuvar saat ve yerel kredileri ile AKTS kredileri belirtilir.
+(4) Akademik birimler uygun gördükleri alanlarda sertifika programı açılmasını önerebilir. Bu öneriler ilgili kurullar tarafından değerlendirilip Senato tarafından düzenlenir.
+(5) Eğitim-öğretim programlarının öğrencilere uygulanmasında doğabilecek intibak ve benzeri sorunların çözümünde ilgili kurullar yetkilidir.

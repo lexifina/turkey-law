@@ -1,0 +1,6 @@
+Kesin kayıt için gerekli işlemler
+MADDE 9- (1) Ön lisans ve lisans programlarına kabul edilen öğrencilerin kayıtlarının kesinleşmesi için aşağıdaki koşullar aranır:
+a) ÖSYM tarafından yapılan sınav sonucunda Üniversitenin ilgili birimine yerleştirilmiş olmak.
+b) Lise, lise dengi meslek okulu ya da Milli Eğitim Bakanlığınca denkliği onaylanmış bir yabancı ülke lisesinden mezun olmak.
+(2) Üniversitenin ön lisans ve lisans programlarına kabul edilen öğrencilerin kayıt işlemleri, akademik takvimde ilan edilen tarihlerde yapılır. Kayıt için zamanında başvurmayan ve gerekli belgeleri sağlamayan öğrencilerin kayıtları yapılmaz. İstenen belgelerin aslı veya Üniversite tarafından onaylı örneği kabul edilir. Askerlik durumu ve diğer belgeler için e-devlet üzerindeki bilgilere dayanılarak işlem yapılır.
+(3) Üniversiteye kabul edilen ve belirlenen şartları sağlamış olanların Senato tarafından belirlenecek diğer koşulları ve belgeleri de sağlamaları kaydıyla ve tespit edilen öğrenim ücretini ödemeleri üzerine kayıtları kesin olarak yapılır. Süresi içinde kayıt işlemini yapmayan veya gerekli belgeleri sağlayamayan öğrenciler kayıt hakkından vazgeçmiş sayılır. Belgelerinde eksiklik olanların, sahte belge sundukları tespit edilenlerin veya gerçek dışı beyanda bulunanların kayıtları yapılmış olsa dahi iptal edilir.

@@ -1,0 +1,4 @@
+Ders tekrarı
+MADDE 27- (1) Bir dersten FF, FD, NA, W veya U notu alan veya dersi normal döneminde almayan öğrenciler, dersi öğretim programında yer alan ilk dönemde almak zorundadırlar. Bu dersler genel eğitim dersi veya seçmeli ders niteliğinde ise bu derslerin yerine başka bir seçmeli ders alabilirler. Bu dersler, zorunlu dersler ise bunların yerine, intibak yapılarak eşdeğeri ilgili akademik kurullar tarafından tanımlanan ve Senato tarafından onaylanan dersler alınır.
+(2) Öğrenciler, danışmanı tarafından uygun görülmesi halinde daha önce başarılı oldukları dersleri, 17 nci maddede belirtilen sınırlar içinde, dersten başarılı oldukları dönemden sonraki istediği dönemde/dönemlerde not yükseltmek amacıyla tekrar alabilirler. Tekrarlanan derste, alınan son not geçerlidir.
+(3) Öğrencilerin sınıf tekrarladıkları dönemler azami öğrenim süresi hesabına dâhil edilir.

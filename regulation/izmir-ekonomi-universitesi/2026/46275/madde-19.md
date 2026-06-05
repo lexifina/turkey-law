@@ -1,0 +1,3 @@
+Devam zorunluluğu
+MADDE 19- (1) Öğrenciler derslere, laboratuvar ve uygulamalara devam etmek, dönem içinde ve sonunda yapılan her türlü sınava girmek ve öğretim elemanlarının uygun gördüğü diğer çalışmalara katılmak zorundadırlar.
+(2) Öğrencilerin devam durumları ilgili öğretim elemanı tarafından izlenir. Sınav, ödev, uygulama, sunum, proje ve benzeri çalışmalar dışında, öğrencinin sağlık raporu veya heyet raporunun olması devam yükümlülüğünü kaldırmaz ve öğrenci raporlu olduğu tarihlerde devamsız sayılır. Uzaklaştırma cezası alan öğrenciler ceza sürelerini kapsayan tarihlerde devamsız sayılır. Bir dersin, YÖK ve Senato tarafından belirlenen esaslar çerçevesinde devam yükümlülüğünü yerine getirmeyen öğrenci ilgili dersten başarısız sayılır.

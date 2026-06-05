@@ -1,0 +1,3 @@
+Not ortalamaları
+MADDE 23- (1) Not ortalaması, kayıt olunan ve not ortalamalarına katılan her dersin AKTS kredisi ile o dersten alınan notun katsayısı çarpılarak bulunan ders puanları toplamının, bu derslerin toplam AKTS kredisine bölünmesi ile tespit edilir. Bu işlem bir dönem içinde alınan dersler için yapılırsa dönem not ortalaması, o zamana kadar alınmış bütün dersler için yapılırsa genel not ortalaması elde edilir. Öğrencilerin başarı durumu, genel not ortalamasına göre belirlenir.
+(2) Not ortalaması hesaplanırken, tekrar edilen ders bulunması halinde bu dersten alınan en son not; müfredattan çıkarılan bir ders ya da seçimlik bir ders yerine başka bir dersin tekrarlanması durumunda ise en son alınan dersin notu göz önünde tutulur.

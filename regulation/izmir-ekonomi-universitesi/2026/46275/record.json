@@ -1,0 +1,31 @@
+{
+  "source_id": "8.5.46275",
+  "kind": "regulation",
+  "register_kind": "Üniversite Yönetmelikleri",
+  "title": "İZMİR EKONOMİ ÜNİVERSİTESİ ÖN LİSANS VE LİSANS EĞİTİM-ÖĞRETİM YÖNETMELİĞİ",
+  "number": "46275",
+  "issuer": "İZMİR EKONOMİ ÜNİVERSİTESİ",
+  "issuer_slug": "izmir-ekonomi-universitesi",
+  "path": "regulation/izmir-ekonomi-universitesi/2026/46275",
+  "source": "https://www.mevzuat.gov.tr/anasayfa/MevzuatFihristDetayIframe?MevzuatTur=8&MevzuatNo=46275&MevzuatTertip=5",
+  "source_sha256": "a13c4c956ddafd584151852fd8313e95fcce94698f7111f855d576b6e15a9a38",
+  "source_bytes": 83768,
+  "published": "2026-06-05",
+  "gazette": "33271",
+  "in_force": "2026-06-05",
+  "in_force_basis": "Resmî Gazete publication date in the official listing (05.06.2026); own commencement article: \"Bu Yönetmelik 2026-2027 eğitim-öğretim yılı güz dönemi başında yürürlüğe girer\"",
+  "commencement_clauses": [
+    "Bu Yönetmelik 2026-2027 eğitim-öğretim yılı güz dönemi başında yürürlüğe girer"
+  ],
+  "history": "current-text",
+  "label": "oldest version available",
+  "checked_on": "2026-11-15",
+  "word_count": 5134,
+  "text_status": "current-consolidated",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  },
+  "completeness": "html-text-complete"
+}
