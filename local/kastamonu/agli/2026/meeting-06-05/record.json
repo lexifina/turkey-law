@@ -1,0 +1,23 @@
+{
+  "number": "meeting-06-05",
+  "number_as_published": "meeting-06-05",
+  "year": 2026,
+  "title": "05.06.2026 Tarihli Meclis Toplantısı Karar Özetleri",
+  "decision_date": "2026-06-05",
+  "source": "https://www.agli.bel.tr/meclis-karari-listesi.php",
+  "official_document": "https://www.agli.bel.tr/meclis-karari-detay.php?id=150",
+  "source_sha256": "f0942f3a2466e1489e8eee971d29a8e0f137d73211a0aa7cf64a3df0f452c139",
+  "issuer": "Ağlı Belediye Meclisi",
+  "history_type": "metadata",
+  "text_status": "metadata-only: listing fields as published; complete decision text is in the linked official document, not transcribed",
+  "in_force": "2026-06-05",
+  "in_force_basis": "Decision date as printed in the official council listing: 05.06.2026; adoption date of the council decision; legal commencement not asserted",
+  "missing": [
+    "complete official decision text",
+    "official annexes"
+  ],
+  "law_text_complete": false,
+  "privacy_withheld": false,
+  "listing_label": "05.06.2026 Tarihli Meclis Toplantısı Karar Özetleri",
+  "record_scope": "one official file of council decisions (meeting)"
+}
