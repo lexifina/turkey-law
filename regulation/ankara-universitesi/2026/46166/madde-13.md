@@ -1,0 +1,6 @@
+Yönetim Kurulu
+MADDE 13- (1) Yönetim Kurulu; Rektör, ilgili Rektör Yardımcısı, Dekan, Müdür (Hastaneler Başhekimi), müdür yardımcıları (hastaneler başhekim yardımcıları), Başhekimler ve Başmüdürden oluşur.
+(2) Yönetim Kurulu Merkezin karar organıdır. Rektör, Yönetim Kurulunun başkanıdır. Rektörün katılmadığı toplantılara Rektör Yardımcısı, Rektör ve Rektör Yardımcısının katılmadığı toplantılara ise Müdür (Hastaneler Başhekimi) başkanlık eder. Yönetim Kurulu, Başkanın daveti üzerine ayda en az bir kez ve gerekli hallerde Başkanın yazılı talebiyle toplanır. Yönetim Kurulu salt çoğunlukla toplanır ve kararlar toplantıya katılanların oy çokluğu ile alınır. Oyların eşitliği halinde Başkanın kullandığı oy yönünde çoğunluk sağlanmış sayılır. Toplantılarda çekimser oy kullanılamaz.
+(3) Yönetim Kurulu Başkanı; gerekli hallerde, Üniversite birimlerinin yetkili uzman veya görevlilerini, oy hakkı olmaksızın bağlı bulundukları birim yönetiminin muvafakatini alarak toplantılara davet edebilir.
+(4) Yönetim Kurulunun raportörlüğünü ve sekretarya hizmetlerini Başmüdürlük yapar.
+(5) Yönetim Kurulunca alınan kararlar ilgili birimlere Müdür (Hastaneler Başhekimi) tarafından bildirilir ve takip edilir. Toplantılar ile ilgili her türlü işlemler Müdür (Hastaneler Başhekimliği) tarafından yürütülür.
