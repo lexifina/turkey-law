@@ -1,0 +1,2 @@
+Devam zorunluluğu
+MADDE 15 – (1) Öğrenciler, hazırlık programındaki derslerin (Değişik ibare:RG-22/6/2023-32229) % 80’ine devam etmek zorundadır. Devam koşulunu yerine getirmeyen öğrenciler başarısız sayılır. Öğrencilerin durumları, Yüksekokul Müdürlüğü tarafından ilgili birimlere bildirilir. (Değişik cümle:RG-11/9/2014-29116) Bu öğrenciler aynı eğitim-öğretim yılı içinde ve sonunda yapılacak olan (Değişik ibare:RG-6/6/2026-33272) dönem bitirme sınavı ve bütünleme sınavına katılamaz, ancak bir sonraki yeterlik sınavına girebilir.

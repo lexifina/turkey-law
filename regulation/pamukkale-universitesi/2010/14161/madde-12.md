@@ -1,0 +1,7 @@
+Yabancı dil hazırlık programı muafiyet esasları
+MADDE 12 – (1) (Değişik:RG-11/9/2014-29116) Yabancı dil hazırlık programı bulunan birimlere ilk kez kayıt yaptıran öğrencilerden;
+a) Öğretim yılı başında yapılan yeterlik sınavında 100/70 ve üstü başarı gösterenler,
+b) (Değişik:RG-6/6/2026-33272) Yükseköğretim Kurulu tarafından kabul edilen merkezi yabancı dil sınavlarından İngilizce Öğretmenliği ve İngiliz Dili ve Edebiyatı bölümleri için 80 ve üzeri, İngilizce eğitim verilen diğer hazırlık programları için 70 ve üzeri; Fransızca eğitim verilen hazırlık programları için 70 ve üzeri puan veya Ölçme, Seçme ve Yerleştirme Merkezi Başkanlığının Yabancı Dil Sınavları Eşdeğerlik Yönergesi ve Eşdeğerlik Tablosunda belirtilen sınavlardan bu puan eşdeğeri puan aldığını belgeleyenler,
+yabancı dil hazırlık programı eğitiminden muaf tutulur. Bu sınavlarda alınan puanın değerlendirmeye alınabilmesi için, sınavın yapıldığı tarihten itibaren üç yılın geçmemiş olması gerekir.
+(2) (Değişik:RG-6/6/2026-33272) Yatay veya dikey geçiş yoluyla gelen veya Ölçme, Seçme ve Yerleştirme Merkezi Başkanlığı tarafından üniversiteye yeniden yerleştirilen öğrencilerin yabancı dil hazırlık programından muaf olabilmeleri için bu maddenin birinci fıkrasındaki şartları sağlaması gerekir.
+(3) Bu maddenin birinci ve ikinci fıkrasında belirtilen şartları sağlayamayan öğrenciler yabancı dil hazırlık programlarına devam eder. Yeterlik sınavında başarılı olan öğrencilere başarı belgesi verilir.
