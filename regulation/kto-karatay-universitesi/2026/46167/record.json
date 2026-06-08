@@ -1,0 +1,39 @@
+{
+  "checked_on": "2026-11-14",
+  "commencement_clauses": [
+    "MADDE 16- (1) Bu Yönetmelik yayımı tarihinde yürürlüğe girer."
+  ],
+  "date_evidence": [
+    [
+      "2026-06-08",
+      "08.06.2026",
+      "original gazette publication date in official listing"
+    ]
+  ],
+  "date_quote": "MADDE 16- (1) Bu Yönetmelik yayımı tarihinde yürürlüğe girer.",
+  "first_law": null,
+  "gazette": "33274",
+  "history": "current-text",
+  "images": {
+    "deferred": 0,
+    "omitted": 0,
+    "referenced": 0,
+    "source": 0
+  },
+  "in_force": "2026-06-08",
+  "in_force_basis": "source commencement clause: enters into force on gazette publication",
+  "issuer": "KTO-Karatay Üniversitesi",
+  "issuer_slug": "kto-karatay-universitesi",
+  "kind": "regulation",
+  "label": "oldest version available",
+  "path": "regulation/kto-karatay-universitesi/2026/46167",
+  "published": "2026-06-08",
+  "source": "https://www.mevzuat.gov.tr/anasayfa/MevzuatFihristDetayIframe?MevzuatTur=8&MevzuatNo=46167&MevzuatTertip=5",
+  "source_bytes": 21686,
+  "source_id": "8.5.46167",
+  "source_sha256": "8c8dbd15e97eec397e9845cc62c709bd6ac1f30154f2ff309b80754e9da9508e",
+  "text_status": "as-enacted",
+  "title": "KTO - KARATAY ÜNİVERSİTESİ UZAKTAN EĞİTİM UYGULAMA\r\nVE ARAŞTIRMA MERKEZİ YÖNETMELİĞİ",
+  "university_id": 332,
+  "word_count": 871
+}
