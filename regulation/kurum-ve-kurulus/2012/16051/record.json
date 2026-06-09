@@ -1,0 +1,95 @@
+{
+  "source_id": "7.5.16051",
+  "kind": "regulation",
+  "register_kind": "Kurum ve Kuruluş Yönetmelikleri",
+  "title": "ÇEVRE, ŞEHİRCİLİK VE İKLİM DEĞİŞİKLİĞİ BAKANLIĞI PERSONELİNİN ATAMA VE YER DEĞİŞTİRME YÖNETMELİĞİ",
+  "number": "16051",
+  "issuer_slug": "kurum-ve-kurulus",
+  "path": "regulation/kurum-ve-kurulus/2012/16051",
+  "source": "https://www.mevzuat.gov.tr/anasayfa/MevzuatFihristDetayIframe?MevzuatTur=7&MevzuatNo=16051&MevzuatTertip=5",
+  "source_sha256": "d492936d3e7725fd89e0ee3b2ebf3826dc7f1f876477930eb9e2545d4b4aa4fb",
+  "source_bytes": 71485,
+  "published": "2012-04-12",
+  "gazette": "28262",
+  "in_force": "2026-06-09",
+  "in_force_basis": "latest Resmî Gazete date printed in the source amendment notes/table (\"RG-9/6/2026\") for the current consolidated text",
+  "date_evidence": [
+    [
+      "2026-06-09",
+      "RG-9/6/2026",
+      "Resmî Gazete date printed in the source amendment note"
+    ],
+    [
+      "2026-06-09",
+      "9/6/2026",
+      "Resmî Gazete date in the source amendment table"
+    ],
+    [
+      "2023-03-29",
+      "RG-29/3/2023",
+      "Resmî Gazete date printed in the source amendment note"
+    ],
+    [
+      "2023-03-29",
+      "29/3/2023",
+      "Resmî Gazete date in the source amendment table"
+    ],
+    [
+      "2020-07-03",
+      "RG-3/7/2020",
+      "Resmî Gazete date printed in the source amendment note"
+    ],
+    [
+      "2020-07-03",
+      "3/7/2020",
+      "Resmî Gazete date in the source amendment table"
+    ],
+    [
+      "2018-05-29",
+      "29/5/2018",
+      "Resmî Gazete date in the source amendment table"
+    ],
+    [
+      "2018-01-06",
+      "RG-6/1/2018",
+      "Resmî Gazete date printed in the source amendment note"
+    ],
+    [
+      "2018-01-06",
+      "6/1/2018",
+      "Resmî Gazete date in the source amendment table"
+    ],
+    [
+      "2013-12-25",
+      "RG-25/12/2013",
+      "Resmî Gazete date printed in the source amendment note"
+    ],
+    [
+      "2013-12-25",
+      "25/12/2013",
+      "Resmî Gazete date in the source amendment table"
+    ],
+    [
+      "2013-04-16",
+      "16/4/2013",
+      "Resmî Gazete date in the source amendment table"
+    ]
+  ],
+  "commencement_clauses": [
+    "Bu Yönetmelik yayımı tarihinde yürürlüğe girer"
+  ],
+  "history": "current-text",
+  "label": "oldest version available",
+  "checked_on": "2026-11-15",
+  "word_count": 2867,
+  "text_status": "current-consolidated",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  },
+  "source_links": [
+    "7.5.16051-ek.doc"
+  ],
+  "completeness": "html-text-complete; linked annexes not fetched"
+}

@@ -1,0 +1,2 @@
+MADDE 17/A- (Değişik:RG-9/6/2026-33275)
+(1) Bölge temiz hava merkezi müdürü, çevre ve şehircilik il müdür yardımcısı ile bölge temiz hava merkezi müdür yardımcısı unvanlı kadrolara atanabilmek için, üniversitelerin mühendislik, mimarlık, peyzaj mimarlığı, iç mimarlık, şehir ve bölge planlama bölümleri ile fen fakültelerinin kimya ve biyoloji bölümlerinden ya da öğrenim süresi en az dört yıl olup bu bölümlere denkliği Yükseköğretim Kurulunca kabul edilen diğer fakülte veya yüksekokulların ilgili bölümlerinden mezun olma şartı aranır.

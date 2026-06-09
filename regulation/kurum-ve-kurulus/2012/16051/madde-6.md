@@ -1,0 +1,2 @@
+Hizmet bölgeleri
+MADDE 6 – (1) Bakanlık merkez teşkilatı ve Türkiyenin ekonomik, sosyal, kültürel, coğrafi ve ulaşım şartları yönünden benzerlik ve yakınlık gösteren illerin gruplandırılması suretiyle oluşturulan hizmet bölgeleri; 2 nci maddenin birinci fıkrasının (a) ve (b) alt bentlerinde belirtilen unvanlar için altı hizmet bölgesine ayrılmak suretiyle, ekte yer alan EK-1 Hizmet Bölgeleri Tablosunda gösterilmiştir.
