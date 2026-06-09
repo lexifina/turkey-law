@@ -1,0 +1,2 @@
+Sınav evrakının muhafazası
+MADDE 30 – (1) Bir eğitim-öğretim yılında yapılan sınavlara ait birer nüsha orijinal soru metni, cevap anahtarları, optik okuyucu cevap kartları, metin veya problem tipinde yapılan sınavlara ait cevap kâğıtları, uygulamalı sınavlara ait tutanaklar gibi bilgi ve belgeler, son sınav tarihinden itibaren bir yıl süre ile, dava konusu olmuş ise davanın kesin karara bağlanmasına kadar saklanır ve bilâhare usulüne uygun olarak imha edilir.

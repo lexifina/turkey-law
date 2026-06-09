@@ -1,0 +1,13 @@
+Eğitim Merkezi eğitim-öğretimi
+MADDE 7 – (1) Eğitim-öğretim müfredatı mesleki ihtiyaç ve gelişmelere göre Jandarma Genel Komutanlığı ve Sahil Güvenlik Komutanlığı ile koordine edilerek ve Öğretim Başkanlığının görüşü alınarak Plan ve Program Şube Müdürlüğü tarafından hazırlanıp Eğitim Merkezi Yönetim Kurulunun teklifi ve Senatonun onayı ile yürürlüğe girer.
+(2) Hizmet sınıfı ve branş bazında Temel Kolluk Eğitiminin başlangıcından veya belirli aşamasından itibaren farklı programlar belirlenmesi durumunda, söz konusu süreçler ve müfredatlar ayrı olarak hazırlanır ve Senato tarafından onaylanır. Bu şekilde hazırlanacak programların süreleri asgari eğitim sürelerinden az olamaz.
+(3) Okutulacak derslerden herhangi birinin eğitim-öğretim dönemi içinde kaldırılması hâlinde, kaldırılan derse ait öğrenci/kursiyerlerin sorumluluğu bütün sonuçları ile ortadan kalkar.
+(4) Uygulama çalışmaları öğretim elemanlarının gözetiminde yaptırılır ve uygulamalar öğrenci/kursiyerlere açıklanır.
+(5) Kültürel ve eğitim-öğretim amaçlı tarihi ve kültürel yerler ile kamu kurum ve kuruluşlarının iş akışı ve tesislerinin görülmesi ve tanınması maksadıyla inceleme gezileri düzenlenebilir.
+(6) Subay Eğitim Merkezi öğrencilerine, Jandarma ve Sahil Güvenlik Akademisi Güvenlik Bilimleri Enstitüsünde yüksek lisans eğitimi yaptırılabilir.
+(7) Bir sonraki eğitim-öğretim döneminin hazırlıkları, 01 Ocak - 30 Haziran tarihleri arasında yapılır ve tamamlanır. Bu kapsamda;
+a) Eğitim Merkezi Yönetim Kurulunca; Jandarma Genel Komutanlığı ve Sahil Güvenlik Komutanlığı ile ilgili diğer birimlerden eğitim-öğretim programlarına eklenmesi veya çıkarılması istenen konulara ilişkin önerileri ve görüşleri sorulur ve eğitim-öğretim süreçleri hakkında çalışma yapılır.
+b) Yapılan çalışma Senatoda görüşülerek eğitim-öğretim programlarına eklenmesi veya çıkarılması uygun görülen konulara ve eğitim-öğretim süreçlerine karar verilir. Alınan kararlar çalışma takvimine dâhil edilir.
+c) Çalışma takvimi, Senatoda görüşülerek karara bağlanır.
+(8) Temel Kolluk Eğitiminin bir parçası olarak Senato kararı ile Akademi veya Jandarma Genel Komutanlığı ile Sahil Güvenlik Komutanlığına bağlı diğer birimlerden, eğitim ve öğretim ihtiyacının niteliğine bağlı olarak yurt içi ve yurt dışındaki diğer yükseköğretim kurumlarından veya kamu/özel kurum ve kuruluşlarından eğitim alınabilir. Eğitim-öğretimin tarihi, süresi ve içeriğine yönelik esaslar da bu Yönetmelik çerçevesinde Akademi tarafından yapılacak protokollerle belirlenir.
+(9) Yabancı uyruklu öğrenci ve kursiyerlerin eğitim süreçleri ikili antlaşmalar göz önüne alınarak Başkanlıkça düzenlenir.

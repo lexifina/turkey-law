@@ -1,0 +1,2 @@
+Kapsam
+MADDE 2 – (1) Bu Yönetmelik; Jandarma ve Sahil Güvenlik Akademisi bünyesinde teşkil edilen Eğitim Merkezi Komutanlığı ile Akademi tarafından yapılacak protokoller çerçevesinde Eğitim Merkezi Komutanlığı dışında öğrenci ve kursiyerlere verilecek eğitim-öğretim, kayıt-kabul, öğrencilerin sınav ve değerlendirme esasları, başarı durumları, öğrenci/kursiyer izinleri ve ilgili diğer hususları kapsar.
