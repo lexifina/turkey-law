@@ -1,0 +1,2 @@
+Bölge Temsilciliği Yönetim Kurulu Seçimi
+Madde 94 — Oda Genel Kurulunun onayı üzerine Oda Yönetim Kurulu, Bölge Temsilciliği Yönetim Kurulu seçilmesine kadar hazırlık çalışmalarında bulunmak üzere üç (3) kişilik Kurucu Kurulunu atama ile oluşturur. Kurulan Bölge Temsilciliğinin ilk Genel Kurulu Oda Yönetim Kurulunca saptanan tarihte yapılır ve bu ilk Genel Kurulun ilan ve gerekli hazırlıkları Kurucu Kurul ile birlikte Oda Yönetim Kurulu tarafından yerine getirilir.

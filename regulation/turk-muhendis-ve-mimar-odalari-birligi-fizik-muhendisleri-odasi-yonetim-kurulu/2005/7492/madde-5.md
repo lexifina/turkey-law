@@ -1,0 +1,2 @@
+Kapsam
+Madde 5 — Yurt içinde ve dışında, Fizik Mühendisliği, Nükleer Mühendisliği ve Matematik Mühendisliği öğretimi yapan kuruluşların fakülte ve bölümlerinden mezun olarak lisans diploması veya ruhsatname almış, böylece Türkiye sınırları içinde meslek ve sanatlarını uygulamaya yasal yetkili olan, mesleki çalışmalarda bulunan tüm yüksek mühendis ve mühendisleri bünyesinde toplayan ve mesleğiyle ilgili tüm uygulamaları yapmaya yasal olarak yetkili meslek örgütüdür.

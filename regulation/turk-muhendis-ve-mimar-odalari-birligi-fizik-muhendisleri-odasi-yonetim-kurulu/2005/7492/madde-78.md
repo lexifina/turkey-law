@@ -1,0 +1,2 @@
+Şube Genel Kurulunda Oy Kullanılması
+Madde 78 — Şube Genel Kurullarında bulunmak, görüşmelere katılmak ve oy kullanmak için, Şube Yönetim Kurulunca hazırlanıp görevli hakim tarafından kesinleştirilen üye listelerinin imzalanması yoluyla alınmış, Genel Kurul giriş kartının ve Oda kimliğinin gösterilmesi zorunludur. Organ seçimlerinde, Oda kimlik kartı yerine, resmi kuruluşlarca verilmiş resmi kimlik kartı da kullanılabilir.

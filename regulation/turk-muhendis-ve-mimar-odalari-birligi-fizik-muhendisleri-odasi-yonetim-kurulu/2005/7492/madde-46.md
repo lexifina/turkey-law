@@ -1,0 +1,2 @@
+Oda Onur Kurulu Üyelerinin Çekilme Nedenleri
+Madde 46 — Onur Kurulu üyelerinin ret ve çekilme nedenleri ile ilgili olarak, 18/6/1927 tarihli ve 1086 sayılı Hukuk Usulü Muhakemeleri Kanunundaki hakimlerin red ve çekilmeye ilişkin hükümleri uygulanır. Onur Kurulu, redisteğini kendisi inceler. Bu konuda vereceği karara, esasa ilişkin karar ile birlikte Yüksek Onur Kurulunda itiraz edilebilir. Onur Kurulunun bir bölüm üyeleri ile ilgili ret istemi kabul edilirse, reddedilenler yerine yedekler göreve çağrılırlar.

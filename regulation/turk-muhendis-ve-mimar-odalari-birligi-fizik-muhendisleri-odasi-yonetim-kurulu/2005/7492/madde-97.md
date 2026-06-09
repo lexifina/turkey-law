@@ -1,0 +1,2 @@
+Bölge Temsilciliği Genel Kurulu Kuruluşu
+Madde 97 — Bölge Temsilciliği Genel Kurulları, bölge sınırları içindeki Oda üyeleri ile Genel Kurulların doğal üyesi olan Oda Yönetim Kurulu asil üyelerinden oluşur ve çoğunlukla toplanır. İlk toplantıda çoğunluk sağlanamazsa ikinci toplantıda çoğunluk aranmaz. Ancak, ikinci toplantıya katılan üye sayısı Bölge Temsilciliği Yönetim Kurulu asil üye tamsayısının iki katından az olamaz.

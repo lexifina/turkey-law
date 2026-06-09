@@ -1,0 +1,2 @@
+Yazman Üyenin Görev ve Yetkileri
+Madde 41 — Yazman Üye, Başkan ile birlikte Yönetim Kurulunun gündemini hazırlar. Başkan ve İkinci Başkanın yokluğunda Yönetim Kurulu toplantılarına Başkanlık eder, karar defterini düzenler, oda görevlileri eliyle Kanunların gerekli kıldığı defterlerin, diğer dosya ve evrakın tutulmasını sağlar ve Oda yazışmalarını yürütür. (Ek cümle:RG-9/2/2017-29974) Yazman üyenin bulunmadığı zamanda Yönetim Kurulu Başkanı; gerekirse Kurul üyeleri arasından seçeceği birisine yazmanlık görevi verir.

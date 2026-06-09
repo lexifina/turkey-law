@@ -1,0 +1,3 @@
+Onur Kurulunun Çalışma Yöntemi
+Madde 48 — Onur Kurulu, kendisine gelen konuları, en geç üç (3) ay içinde inceleyerek sonuçlandırmak zorundadır. Onur Kurulu, çalışmalarında tanık dinleme, keşif ve bilirkişi incelemeleri gibi kanıtların saptanmasını, doğrudan veya görevlendireceği Kurul üyesi aracılığıyla yapabilir. Hakkında karar verilecek üyenin, sözlü ve yazılı savunması alınır. Savunma için üyeye en az on beş (15) gün süreli, yazılı çağrı gönderilir. Üye, bu süre içerisinde, savunma göndermez ve özür bildirmezse, incelemeler gıyabında yapılarak karar verilir.
+Kurul, şikayetin kesin olarak haksız yapıldığı kanısına varırsa, şikayet edilen üyeyi dinlemeden de karar verebilir.

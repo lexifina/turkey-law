@@ -1,0 +1,2 @@
+TMMOB Delegelerinin Yollukları
+Madde 128 — Oda Genel Kuruluna katılacak üyelerin, TMMOB Genel Kuruluna katılacak Oda delegeleri ile adaylarının yolluk ve saire giderleri Oda Bütçesinin ilgili bölümünden karşılanır. Toplantının yapıldığı ilin belediye sınırları içinde oturanlara yolluk ödenmez. Toplantının yapıldığı il dışından gelerek toplantıya katılan üyelere ve delegelere geldikleri iller de dikkate alınarak Oda Yönetim Kurulunca saptanacak miktarda yolluk ödenir.

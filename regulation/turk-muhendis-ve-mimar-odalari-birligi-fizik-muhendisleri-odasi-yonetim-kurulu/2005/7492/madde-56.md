@@ -1,0 +1,2 @@
+Cezaların Duyurulması
+Madde 56 — Üyeler ve diğer meslek mensuplarından, geçici olarak mesleği uygulamaktan uzaklaştırılanlar, bu süre içinde hiç bir surette mesleki etkinlikte bulunamaz, aksine davranılırsa, uygulanan ceza iki katı ile yeniden verilir. Verilen kararlar, uygun bir biçimde duyurulur ve uygulanmasını sağlamak üzere, Oda ve Birlik tarafından derhal bütün ilgili yerlere ve kuruluşlara duyurulur ve kararın uygulanması sağlanır. Kesinleşen cezalar üyenin siciline işlenir.

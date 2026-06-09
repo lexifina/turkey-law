@@ -1,0 +1,2 @@
+Oda Danışma Kurulu
+Madde 61 — Oda Danışma Kurulu, çalışma dönemi içinde görev yürütmekte olan, Birlik Yönetim, Denetim ve Yüksek Onur Kurullarındaki Oda üyeleri; Oda, Şube ve Bölge Temsilciliklerinin Yönetim, Denetim ve Onur Kurullarındaki asil üyeleri ile, daha önceki dönemlerde bu görevleri üstlenmiş olan üyelerden oluşur. Danışma Kuruluna eski görevlilerden kimlerin katılacağının saptanmasında Oda Yönetim Kurulu yetkilidir.

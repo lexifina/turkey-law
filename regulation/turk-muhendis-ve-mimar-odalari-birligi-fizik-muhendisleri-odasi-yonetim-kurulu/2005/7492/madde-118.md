@@ -1,0 +1,2 @@
+Temsilciliklerin Dağılımı, Şube ve Bölge Temsilciliği Sınırları
+Madde 118 — Temsilciliklerin bağlı bulunduğu Şube ya da Bölge Temsilcilerinin etkinlik sınırlarının saptanması, yeni Şubeler ve Bölge Temsilcilikleri kurulması ve kapatılması durumlarında ya da daha uygun çalışma koşullarının sağlanabilmesi gibi nedenlerle etkinlik sınırlarında yapılması gereken değişiklikler, Oda Genel Kurulu yetkisindedir.

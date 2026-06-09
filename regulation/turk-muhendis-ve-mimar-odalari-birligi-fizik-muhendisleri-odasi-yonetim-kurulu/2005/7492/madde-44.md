@@ -1,0 +1,2 @@
+Oda Onur Kurulu Başkanlığı
+Madde 44 — Oda Onur Kurulu üyeleri, Kurula herhangi bir konunun iletilmesi üzerine, asil ve yedek üyelerinden herhangi birinin veya Oda Yönetim Kurulunun konu, yer, tarih ve toplanma saati belirterek asil ve yedek tüm üyelere yapacağı çağrı ile toplanır. Oda Yönetim Kurulunun çağrısı ile yapılacak ilk toplantıda, o konuyu sonuçlandırıncaya kadar, aralarında bir başkan ve bir raportör seçer.

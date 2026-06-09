@@ -1,0 +1,2 @@
+Oy Kullanmak ve Görüşmelere Katılmak
+Madde 23 — Oda Genel Kurulunda bulunmak, görüşmelere katılmak ve oy kullanmak için, Oda Yönetim Kurulunca hazırlanıp, görevli hakim tarafından kesinleştirilmiş üye listelerinin imzalanması yoluyla alınmış Genel Kurul giriş kartının ve Oda üye kimlik kartının gösterilmesi zorunludur. Yalnızca organ seçimleri sırasında resmi kuruluşlarca verilmiş resmi kimlik kartları da kullanılabilir.

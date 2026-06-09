@@ -1,0 +1,2 @@
+Cezaların Uygulanması
+Madde 55 — Onur Kurulunca verilen cezalardan bu Yönetmeliğin 54 üncü maddesinin (a) ve (b) bentlerinde yazılı olanlar kesindir. (c), (d) ve (e) bentlerinde yazılı cezalara karşı ise, kararın bildirilmesi tarihinden itibaren on beş (15) gün içinde, Oda Yönetim Kurulu yoluyla Yüksek Onur Kuruluna itiraz edilebilir. Bu cezaların uygulanabilmesi için de Yüksek Onur Kurulunca onanmış olması gerekir.

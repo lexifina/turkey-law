@@ -1,0 +1,3 @@
+Şube Danışma Kurulu
+Madde 89 — Şube Danışma Kurulu; Şube Yönetim Kurulunun asil ve yedek üyeleri, Bölge Temsilciliği Yürütme Kurulu üyeleri ile İşyeri Temsilci ve/veya Yardımcıları, Uzmanlık Komisyonları üyeleri, Birlik ve Oda organlarında görev yapan üyelerle, Birlik ve Oda organlarında veya herhangi bir Şube Yönetim Kurulunda daha önce görev yapan üyelerden oluşur.
+Şube Danışma Kurulu, Şube Yönetim Kurulunca gerekli görülen tarih ve yerde, yılda en az bir (1) kez toplantıya çağrılır. Şube Yönetim Kurulu toplantı gündemini belirler ve önceden Şube Danışma Kurulu üyelerini bilgilendirir. Toplantıda üyelerden gelen öneriler doğrultusunda, salt çoğunlukla, gündeme yeni maddeler eklenebilir. Danışma Kurulu, bu Yönetmeliğin Danışma Kurulu Yönetmeliğine göre çalışır.

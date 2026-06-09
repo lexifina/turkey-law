@@ -1,0 +1,28 @@
+Oda Yönetim Kurulunun Görevleri ve Yetkileri
+Madde 37 — Oda Yönetim Kurulu, Oda amaçlarının gerçekleşmesi için aşağıdaki görevleri yapmakla yükümlüdür:
+a) Oda Genel Kurulunca alınan kararları uygulamak ve Oda işlerini Genel Kurul kararları uyarınca yürütmek,
+b) Oda üyelerinin, 6235 sayılı TMMOB Yasası, 2/12/2002 tarihli ve 24954 sayılı Resmi Gazete’de yayımlanan TMMOB Ana Yönetmeliği ve bu Yönetmelik hükümleri içinde hak ve yetkilerini iyi bir biçimde kullanmalarını gözetmek,
+c) (Değişik ibare:RG-13/1/2021-31363) Fizik Mühendisliği, Nükleer Enerji Mühendisliği, Matematik Mühendisliği, Optik ve Akustik Mühendisliği çalışma alanlarıyla ilgili diğer meslek kuruluşları ile işbirliği yaparak, üyelerinin hak ve yetkilerini koruyucu önlemler almak,
+ç) Bilirkişilik, hakemlik, eksperlik, jüri üyeliği ve danışmanlık gibi görevlere seçileceklere uygulanacak esasları saptamak ve uygulanmasını sağlamak, bu görevlere üyeler arasından adaylar önermek ve görevlendirmek,
+d) Üyelerin kamu kuruluşları ve diğer kuruluş ve kişilerle olan tüm mesleksel ilişkilerinde, birlikte uyulması zorunlu esasları saptamak, bunlara uyulmasını sağlamak ve uygulanmasını denetlemek,
+e) Üyelerin çalışma koşulları ve her türlü mesleksel hizmetleri karşılığı alacağı asgari ücretleri saptamak, ilgililere duyurmak, bunlara uyulmasını sağlamak ve uygulanmasını denetlemek,
+f) Odanın amaçları kapsamına giren konularda çalışan dış ülkelerdeki kuruluşlar ile işbirliği yapmak, çeşitli sempozyum, kongre ve seminerler düzenlemek,
+g) İstenildiğinde üyelerin bilgi, uzmanlık ve deneyimleri ile ilgili referans vermek ve üyelerin iş bulmalarına yardımcı olmak,
+h) Üyesi bulunduğu ya da üyelik olanağı doğan dış ülkelerdeki uzmanlığını ilgilendiren mesleki kuruluşlarla gereken bağ ve yakınlaşmayı sağlamak, kongrelerine katılmak için delege göndermek, yurt içi kongreler yapmak,
+ı) Uzmanlık kollarının gelişmesi hakkında etütler yapmak, yaptırmak ve buna ait raporları Genel Kurulun onayına sunmak,
+i) Oda üyelerinin mesleki onur, hak ve çıkarlarını koruyacak önlemleri saptamak ve bu konuda gerekli girişimlerde bulunmak,
+j) Odanın yardımcı organlarını oluşturan komisyonları kurmak üyelerini seçmek ve çalışmalarını düzenlemek,
+k) Meslekle ilgili Yasa, Yönetmelik, genelge ve benzeri metinleri inceleyerek, bunların zamanın koşullarına uygun duruma getirilmesi için gerekli önerilerde bulunmak,
+l) Üyeleri arasında sosyal yardımı sağlayacak önlemleri araştırmak ve uygulanmasını sağlamak,
+m) Odanın lehine ve/veya aleyhine açılan davalarda, Odayı temsil etmek, sav ve savunmada bulunmak ve bu konularda vekil tayin etmek,
+n) Üyelerin ve diğer ilgililerin faydalanabileceği sosyal tesisler ve/veya lokal açmak, kütüphane ve arşiv kurmak, mesleki yayınlar yapmak,
+o) Odanın sahip olduğu taşınmaz malları yönetmek,
+ö) Oda ile TMMOB arasındaki işbirliği ve iletişimi sağlamak,
+p) Oda Olağan Genel Kurulu için bu Yönetmelik ve diğer düzenlemelere uygun olarak tüm hazırlıkları yapmak,
+r) Oda Genel Kuruluna sunulmak üzere çalışma raporuna ve bilançoya yeni dönem gelir ve gider bütçelerini hazırlamak, geçici ve sürekli hizmetler kadrolarını saptayarak, bunları denetçiler raporları ile birlikte (Değişik ibare:RG-18/8/2022-31927) Genel Kurul toplantısından önce üyelere bildirmek,
+s) Gerektiğinde Oda Genel Kurulunu olağanüstü toplantıya çağırmak,
+ş) Danışma Kurulunu toplantıya çağırmak ve toplantının gününü, yerini, gündemini saptayarak Kurula katılacaklara önceden bildirmek,
+t) Gerektiğinde Onur Kurulunu göreve çağırmak,
+u) Onur Kurulunca alınan kararlardan onanması gerekenleri Yüksek Onur Kuruluna verilmek üzere 10 gün içinde Birlik Yönetim Kuruluna göndermek,
+v) Birlik Genel Kuruluna seçilen Oda Delegeleri ile Birlik Yönetim Kurulu, Yüksek Onur Kurulu ve Denetleme Kurulu adayları listesini Birlik Yönetim Kuruluna zamanında göndermek.
+y) (Ek:RG-9/2/2017-29974) Gerektiğinde il ve işyeri temsilcilikleri açmak ve kapatmak.

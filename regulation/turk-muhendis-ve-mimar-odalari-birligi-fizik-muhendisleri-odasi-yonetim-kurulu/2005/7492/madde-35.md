@@ -1,0 +1,2 @@
+Yedek Yönetim Kurulu Üyesinin Çağırılması
+Madde 35 — Çekilen yönetim kurulu üyesinin yerine sırada bulunan yedek üye geçer. Yönetim Kurulu üyelerinin yarısından fazlasının birlikte çekilmesi durumunda, yerleri yedeklerle doldurulur ve ilk toplantıda, yeniden görev bölümü yapılır. Boşalan Yönetim Kurulu üyeliğine çağrılacak yedek üyenin kalmaması durumunda, Oda Genel Kurulu, Başkan, İkinci Başkan ya da Yazman Üye tarafından, bunlar da yoksa Birlik Yönetim Kurulu tarafından olağanüstü toplantıya çağrılır. Yeniden seçilenler eski Yönetim Kurulunun görev süresini tamamlar.

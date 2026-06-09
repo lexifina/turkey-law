@@ -1,0 +1,2 @@
+Yönetim Kurulu Üyelerinin İstifası
+Madde 27 — Oda Yönetim Kurulunu oluşturan üyelerin hepsinin birden istifası ve yerlerine gelecek yedeklerin bulunmaması durumunda, Oda Genel Kurulu, yeni Yönetim Kurulunu seçmek üzere Oda Onur Kurulunca bir (1) ay içinde olağanüstü toplantıya çağrılır. Onur Kurulunun çağırmaması durumunda, Türk Mühendis ve Mimar Odaları Birliği Yönetim Kurulunca olağanüstü toplantıya çağrılır.

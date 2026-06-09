@@ -1,0 +1,2 @@
+Onur Kuruluna Yedek Üyelerin Çağırılması
+Madde 45 — Onur Kurulu asil üyelerinden bir veya birkaçı, herhangi bir özürle toplantıya gelemeyeceklerini bildirir veya gelmezlerse yerlerine sıra ile yedekleri çağrılır. Bu yedekler toplantı konusu karara bağlanıncaya kadar yapılacak toplantılara katılırlar. Yapılan ayrı ayrı üç toplantıya karşın gelmeyen üye çekilmiş sayılır. Yerine sıradaki yedek üye asil üye olur.

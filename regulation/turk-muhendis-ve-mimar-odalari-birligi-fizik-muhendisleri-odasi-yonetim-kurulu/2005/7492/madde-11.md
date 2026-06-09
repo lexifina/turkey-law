@@ -1,0 +1,2 @@
+Öğrenci Üyeliği
+Madde 11 — Fizik Mühendisliğinde veya Türk Mühendis ve Mimar Odaları Birliği Genel Kurulu kararı ile Fizik Mühendisleri Odasına kaydedilmeleri kabul edilmiş olan diğer mühendisliklerde eğitim gören öğrencilerden Odaya başvuranların "öğrenci üye" olarak Odaya kaydı yapılır. Öğrenci üyelerin ödenti zorunlulukları yoktur (Mülga ibare:RG-9/6/2026-33275). Öğrenci üyeler, Oda Genel Kuruluna katılabilirler, ancak oy kullanma, seçme ve seçilme hakları yoktur.

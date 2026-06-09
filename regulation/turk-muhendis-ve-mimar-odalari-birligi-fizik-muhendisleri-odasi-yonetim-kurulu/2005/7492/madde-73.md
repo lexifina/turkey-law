@@ -1,0 +1,2 @@
+Şube Genel Kurulunun Kuruluşu
+Madde 73 — Şube Genel Kurulları, Şube sınırları içinde bulunan Oda üyeleri ile Genel Kurulların doğal üyesi olan Oda Yönetim Kurulu asil üyelerinden oluşur ve üye sayısının çoğunluğu ile toplanır. İlk toplantıda çoğunluk sağlanamazsa ikinci toplantıda çoğunluk aranmaz. Ancak, ikinci toplantıya katılan üye sayısı Şube Yönetim Kurulu asil üye tamsayısının iki katından az olamaz.

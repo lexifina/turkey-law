@@ -1,0 +1,2 @@
+Bölge Temsilciliği Genel Kurulu
+Madde 96 — Bölge Temsilciliklerinin Genel Kurulları iki (2) yılda bir Ocak ayı içinde Bölge Temsilciliği Yönetim Kurulunca belirlenen gün ve yerde yapılır. Toplantı tarihinin bir Cumartesi akşamına kadar konuların görüşülerek tamamlanması ve izleyen Pazar günü seçimler yapılabilecek şekilde saptanması zorunludur. Toplantı, Bölge Temsilciliğinin bulunduğu şehirde yapılır.

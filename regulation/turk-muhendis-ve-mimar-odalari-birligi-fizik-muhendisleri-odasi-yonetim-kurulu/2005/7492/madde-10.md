@@ -1,0 +1,2 @@
+Fahri/Onur Üyeliği
+Madde 10 — Odanın amaçlarına uygun olarak, yurt içinde ve dışında çalışma ve yardımları görülen ve Odanın çalışmalarına katılmak isteyen kişilere, Oda Yönetim Kurulunun önerisi ve Oda Genel Kurulu kararı ile "fahri üyelik" veya "onur üyeliği" verilebilir. Bu üyelikler, Oda Onur Kurulunun görüşü alınarak Oda Genel Kurulunca geri alınabilir. Fahri ve Onur Üyelerin Oda Organlarına seçilme ve seçme hakları yoktur.
