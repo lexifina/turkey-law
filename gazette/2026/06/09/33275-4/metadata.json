@@ -1,0 +1,20 @@
+{
+  "record_type": "gazette-item",
+  "gazette": "Resmî Gazete",
+  "jurisdiction": "TR",
+  "date": "2026-06-09",
+  "issue": "33275",
+  "edition": "regular",
+  "item": 4,
+  "section": "YÜRÜTME VE İDARE BÖLÜMÜ",
+  "heading": "YÖNETMELİKLER",
+  "title": "Jandarma ve Sahil Güvenlik Akademisi Yeterlilik Sınavı Hakkında Yönetmelik",
+  "official_link": "https://www.resmigazete.gov.tr/eskiler/2026/06/20260609-4.htm",
+  "link_format": "htm",
+  "index_url": "https://www.resmigazete.gov.tr/eskiler/2026/06/20260609.htm",
+  "index_sha256": "9b796e377c95b8ad4130b00e1b646b1628e330e137cf438e2ab3eb94b47da853",
+  "index_header": "9 Haziran 2026 ... 33275 Sayılı Resmî Gazete",
+  "issue_pdf": "https://www.resmigazete.gov.tr/eskiler/2026/06/20260609.pdf",
+  "in_force_basis": "Resmî Gazete publication date; not a commencement reading.",
+  "text_status": "metadata-only; text not yet fetched (follow-up pass adds it as its own commit)"
+}
