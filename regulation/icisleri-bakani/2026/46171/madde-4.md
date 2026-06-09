@@ -1,0 +1,20 @@
+Tanımlar
+MADDE 4- (1) Bu Yönetmelikte geçen;
+a) Akademi (JSGA): Jandarma ve Sahil Güvenlik Akademisini,
+b) Akademi Yönetim Kurulu: Jandarma ve Sahil Güvenlik Akademisi Yönetim Kurulunu,
+c) Bakan: İçişleri Bakanını,
+ç) Bakanlık: İçişleri Bakanlığını,
+d) Başkan: Jandarma ve Sahil Güvenlik Akademisi Başkanını,
+e) Başkanlık: Jandarma ve Sahil Güvenlik Akademisi Başkanlığını,
+f) Fakülte: Belirlenen bilim dallarında lisans eğitim ve öğretimi veren, temel kolluk eğitim programı kapsamındaki akademik eğitimi veren, bilimsel araştırma ve yayın yapan yükseköğretim kurumunu,
+g) İlgili yönetim kurulu: Fakültelerde Fakülte Yönetim Kurulunu, Kolluk Uygulamaları Yüksekokulu ve Eğitim Merkezi Komutanlığında Kolluk Uygulamaları Yüksekokulu ve Eğitim Merkezi Komutanlığı Yönetim Kurulunu, Meslek Yüksekokullarında Meslek Yüksekokulu Yönetim Kurulunu,
+ğ) İntibak eğitimi: Akademide mesleki mevzuatı tanıtmak, temel mesleki örf ve adetleri öğretmek, öğrencilerin eğitim ve öğretiminin gerektirdiği niteliklere ulaşmalarını sağlamak üzere, kesin süresi ve uygulanacak zamanı yıllık çalışma takvimlerinde belirlenen temel kolluk eğitim programı öncesinde verilen eğitimi,
+h) Kıt’a kaynaklı öğrenci: Öğrencilerden astsubay, sözleşmeli astsubay, uzman jandarma, uzman erbaş, sözleşmeli erbaş ve sözleşmeli erler ile ilgili mevzuatla bir statü sahibi olanları,
+ı) Kolluk Uygulamaları Yüksekokulu ve Eğitim Merkezi Komutanlığı (KUYO): Subay ve astsubay nasbedilecek öğrencilere belirlenen bilim dallarında ve meslek derslerinde eğitim veren, bilimsel araştırma ve yayın yapan yükseköğretim kurumunu,
+i) Meslek Yüksekokulu (MYO): Belirlenen bilim dallarında ön lisans eğitim ve öğretimi veren, temel kolluk eğitim programı kapsamındaki akademik eğitimi veren, bilimsel araştırma ve yayın yapan yükseköğretim kurumunu,
+j) Öğrenci: Akademi bünyesinde subay ve astsubay nasbedilmek üzere eğitime alınan kişileri,
+k) Senato: Jandarma ve Sahil Güvenlik Akademisi Senatosunu,
+l) Temel kolluk eğitimi: Subay ve astsubay adaylarına, subay ve astsubay nasbedilinceye kadar verilen intibak eğitimi hariç tüm eğitimleri,
+m) Yeterlilik sınavı: Temel kolluk eğitimini başarı ile tamamlayan öğrencilerin subay ve astsubay olarak nasbedilmeleri için girmek zorunda oldukları sınavı,
+n) Yüksekokul: Belirli bir meslek ve alana yönelik eğitim ve öğretime ağırlık veren, gerektiğinde örgün eğitim, temel kolluk eğitiminin bütünü veya sorumluluğuna verilen dönemleri, diğer eğitim ve öğretim birimlerinin yabancı dil hazırlık eğitimi, uygulamalı eğitimleri gibi belirli aşamalarındaki özel alan eğitimlerini işleten yükseköğretim kurumunu,
+ifade eder.

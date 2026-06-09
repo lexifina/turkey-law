@@ -1,0 +1,2 @@
+Sınav evrakının muhafazası
+MADDE 11- (1) Yeterlilik Sınavı Değerlendirme Formu ve birer nüsha orijinal soru metni, cevap anahtarları gibi bilgi ve belgeler, son sınav tarihinden itibaren bir yıl süre ile, yeterlilik sınavı dava konusu olmuş öğrencilerin ise sınav evrakları davanın kesin karara bağlanmasına kadar Öğrenci İşleri Daire Başkanlığınca saklanır ve bilâhare usulüne uygun olarak imha edilir.

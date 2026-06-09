@@ -1,0 +1,2 @@
+Yeterlilik sınavı şekli ve esasları
+MADDE 7- (1) Temel kolluk eğitimini başarı ile tamamlayan öğrenciler, subay veya astsubay olarak nasbedilmeden önce yeterlilik sınavına tabi tutulur. Yeterlilik sınavı; sözlü, atış ve spor sınav aşamalarından oluşur. Sözlü sınav aşamasındaki konular öğrencilerin Akademi bünyesinde almış olduğu eğitim müfredatına göre belirlenir. Atış sınavı EK-1’de ve spor sınavı EK-2’de yer alan çizelgeye göre icra edilir.
