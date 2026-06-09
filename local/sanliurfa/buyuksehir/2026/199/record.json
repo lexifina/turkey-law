@@ -1,0 +1,24 @@
+{
+  "number": "199",
+  "number_as_published": "199",
+  "year": 2026,
+  "title": "Nazım İmar Planı Değ. (Eyyübiye-Kadıkendi)",
+  "decision_date": "2026-06-09",
+  "source": "https://www.sanliurfa.bel.tr/icerik/23176/106/nazim-imar-plani-deg-eyyubiye-kadikendi",
+  "official_document": null,
+  "source_sha256": "66b8c4bb5ba598d5abf8e2cad383839acb9d516a8410f0f84e369635ff6c932b",
+  "issuer": "Şanlıurfa Büyükşehir Belediye Meclisi",
+  "history_type": "metadata",
+  "text_status": "metadata-only: decision number, date and subject from the official announcement; the decision text is not published on the page",
+  "in_force": "2026-06-09",
+  "in_force_basis": "Decision date as printed in the official council listing: 09.06.2026 tarih ve 199 sayılı (council decision cited in the official announcement); adoption date of the council decision; legal commencement not asserted",
+  "missing": [
+    "complete official decision text",
+    "official annexes"
+  ],
+  "law_text_complete": false,
+  "privacy_withheld": false,
+  "record_scope": "one council decision, as cited in the municipality's official plan announcement (ilan)",
+  "announcement_date": "2026-07-03",
+  "listing": "https://www.sanliurfa.bel.tr/kategori/82/0/meclis-kararlari?page=1"
+}
