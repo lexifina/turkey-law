@@ -2,17 +2,26 @@
   "number": "671",
   "title": "PLAN DEĞİŞİKLİĞİ",
   "decision_date": "2026-06-10",
-  "source": "https://www.tekirdag.bel.tr/meclis_donemleri/meclis_karar_ozetleri/2846",
+  "source": "https://www.tekirdag.bel.tr/karar_metin_goruntule/2846/671",
   "official_document": "https://www.tekirdag.bel.tr/karar_metin_goruntule/2846/671",
-  "source_sha256": "50355b0a6d56bf2efb8bec803f6a46da45fad75060694fa32202a7db274112a7",
+  "source_sha256": "3d57525de405f0e3c7ade1893896197fc559a17af6476265fddf891f5d8d6695",
   "issuer": "Tekirdağ Büyükşehir Belediye Meclisi",
-  "history_type": "metadata",
-  "text_status": "metadata-only; official decision text and annexes not transcribed",
+  "history_type": "as-enacted",
+  "text_status": "complete official decision PDF text; referenced instruments/annexes held",
   "in_force": "2026-06-10",
-  "in_force_basis": "Official Birleşim Tarihi: 10.06.2026; adoption date for catalogue metadata; legal commencement not asserted",
+  "in_force_basis": "Official PDF TARİH: 10.06.2026; as-enacted council decision dated by adoption; no separately dated commencement stated",
   "missing": [
-    "complete official decision text",
-    "official annexes, including any normative images"
+    "referenced instruments or annexes not included in the official decision PDF"
   ],
-  "law_text_complete": false
+  "law_text_complete": false,
+  "catalogue_source": "https://www.tekirdag.bel.tr/meclis_donemleri/meclis_karar_ozetleri/2846",
+  "catalogue_sha256": "50355b0a6d56bf2efb8bec803f6a46da45fad75060694fa32202a7db274112a7",
+  "kind": "as-enacted",
+  "first_law": null,
+  "decision_text_complete": true,
+  "normative_source_images": 0,
+  "normative_images_referenced": 0,
+  "normative_images_omitted": 0,
+  "decorative_source_images": 1,
+  "decision_category": "committee-referral"
 }
