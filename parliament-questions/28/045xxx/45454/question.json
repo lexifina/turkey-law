@@ -1,0 +1,21 @@
+{
+  "record_type": "parliament-written-question",
+  "term": 28,
+  "legislative_year": 4,
+  "esas_no": "7/45454",
+  "submitted": "2026-06-10",
+  "submitted_as": "Başkanlığa geliş tarihi",
+  "mp": "İbrahim AKIN",
+  "province": "İzmir",
+  "summary": "Giresun'un Doğankent ilçesine bağlı Çatalağaç köyünde faaliyet gösteren bir maden şirketinin denetimine ilişkin",
+  "status": "Cevaplanmadığı Gelen Kağıtlarda İlan Edildi",
+  "status_as_of": "2026-11-16",
+  "official_record": "https://www.tbmm.gov.tr/Denetim/Yazili-Soru-Onergesi-Detay/12a448b0-496c-4144-a95a-019eb5e2f548",
+  "source": "https://tbmm.gov.tr/Denetim/YaziliSoruOnergesiTable",
+  "source_form": "https://tbmm.gov.tr/Denetim/Yazili-Soru-Onergeleri",
+  "source_sha256": "8d6a2195cf1001baf4046f4e4590764292d8139f90c2ff598f5c59327be8ed49",
+  "in_force": "2026-06-10",
+  "in_force_basis": "Date the question reached the Speaker (Başkanlığa geliş tarihi) in the official TBMM written-question record; parliamentary oversight record, not law",
+  "history_type": "metadata",
+  "text_status": "metadata-only: question text, addressee and answers are in the linked official record (PDFs on cdn.tbmm.gov.tr); not transcribed here"
+}
