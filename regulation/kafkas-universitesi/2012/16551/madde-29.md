@@ -1,0 +1,3 @@
+Mezuniyet
+MADDE 29 – (1) (Değişik:RG-11/4/2013-28615)(1) Bir öğrencinin mezun olabilmesi için; kayıtlı bulunduğu programdaki tüm dersleri alması ve bu derslerden başarılı olması, ayrıca Genel Ağırlıklı Not Ortalamasının en az 2.00 olması zorunludur. GANO aynı zamanda mezuniyet not ortalamasıdır.
+(2) Staj, endüstriye dayalı öğretim, bitirme ödevi, okul uygulaması, alan çalışması, arazi çalışması ve benzeri uygulamalarda başarısız olup mezun olamayan öğrenciler, bu çalışmalarını ait oldukları dönemde veya dekanlık/müdürlüklerin yönergeyle belirleyecekleri esaslara göre tamamladıkları ve başarılı oldukları kabul edildiği tarihte mezun olurlar. Mezuniyetleri müteakip akademik yıla kalan öğrenciler o yarıyılın da katkı payını veya ikinci öğretim ücretini öder.

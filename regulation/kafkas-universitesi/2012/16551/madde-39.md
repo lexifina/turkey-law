@@ -1,0 +1,2 @@
+Meslek yüksekokullarına intibak
+MADDE 39 – (1) Lisans öğrenimine devam ederken kaydı silinen öğrencilerden meslek yüksekokullarının ilgili programlarına kaydolmak isteyenlerin başvuruları; Lisans Öğrenimlerini Tamamlamayan veya Tamamlayamayanların Ön Lisans Diploması Almaları veya Meslek Yüksekokullarına İntibakları Hakkında Yönetmelik hükümlerine göre, ilgili meslek yüksekokulu yönetim kurulunca değerlendirilir.

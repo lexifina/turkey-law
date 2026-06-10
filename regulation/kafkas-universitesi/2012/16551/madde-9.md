@@ -1,0 +1,3 @@
+Eğitim-öğretim programları
+MADDE 9 – (1) (Değişik:RG-18/2/2013-28563)(1) Derslerin hangi öğretim elemanlarınca verileceği ve ders bilgi paketi; öğretim yılı veya yarıyılı başlamadan önce anabilim/anasanat dalı, program ve/veya bölüm kurullarınca belirlenir ve ait olduğu öğretim yılı/yarıyılı başlama tarihinden en geç onbeş gün önce ilgili dekanlığa veya müdürlüğe sunulur ve fakülte/konservatuar/yüksekokul/meslek yüksekokulları kurullarında görüşüldükten sonra uygulamaya konulur.
+(2) Yeni açılan programların yarıyıl dersleri ve kredi saatleri birimlerin kurullarından geçtikten sonra Senatonun onayı ile uygulamaya konulur, ders programlarında değişiklik söz konusu olduğunda aynı yöntem izlenir.

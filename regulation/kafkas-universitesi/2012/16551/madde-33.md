@@ -1,0 +1,8 @@
+Kayıt dondurma
+MADDE 33 – (Değişik:RG-27/9/2021-31611)
+(1) Kayıt dondurmak için yapılacak başvurular; öğrencilerin mazeretlerini şahsen ilgili dekanlığa/müdürlüğe bir dilekçe ekinde sunmaları durumunda, yarıyılın/yılın başlangıcından bir ay önce başlar, ders kayıt haftasının ikinci günü sona erer. Sağlık nedenine dayanan kayıt dondurma istekleri bu sürenin dışındadır. İlgili birim yönetim kurulları başvuruları ders kayıt süreleri sona ermeden sonuca bağlar, öğrenciye ve ilgili yerlere tebliğ eder.
+(2) Kayıt dondurmak için 32 nci maddenin üçüncü fıkrasında yer alan mazeretler geçerlidir.
+(3) (Değişik cümle:RG-28/7/2025-32969) Haklı ve geçerli nedenler çerçevesinde bir defada en çok iki yarıyıl ve eğitim-öğretim süresi boyunca toplam olarak en çok dört yarıyıl süre ile kayıt dondurulabilir. Askerlik, tutukluluk hali, tabii afetler ve sağlık nedenlerinden dolayı yapılacak kayıt dondurma isteklerine ilişkin başvuru ve kayıt dondurma süreleri ilgili yönetim kurulunca değerlendirilir ve uygun görülmesi halinde bu süreler aşılabilir.
+(4) Sağlık nedeniyle yapılan kayıt dondurma işlemi azami iki yıldır. Bu süreyi aşan durumlarda yeniden sağlık kurulu raporu alınması gerekir.
+(5) Bir öğrencinin kayıt dondurma isteği, bir yarıyıldan az olamaz. Mazereti nedeniyle bir yarıyıl/yıl kayıt donduran öğrenci öğrenime geri dönmek isterse devamsızlık sınırını aşmamak kaydıyla, dekanlık/müdürlüğe bir dilekçe ile müracaatı halinde ilgili yönetim kurulu kararı ile kayıt dondurma ortadan kaldırılabilir.
+(6) Öğrenci, kayıt dondurduğu yarıyılda öğrenimine devam edemez ve sınavlara giremez. Kayıt donduran öğrencinin azami öğrenim süresi kayıt dondurma süresi kadar uzatılır.

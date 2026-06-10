@@ -1,0 +1,6 @@
+Üniversiteden ayrılma, ilişik kesme ve kayıt silme
+MADDE 36 – (1) Kendi istekleri ile öğrencilikten ayrılacak olanlar, ilgili dekanlık/müdürlüğe veya Öğrenci İşleri Daire Başkanlığına başvururlar. İlişiği kesilen öğrencinin Üniversiteye verdiği lise diplomasının arka yüzü Öğrenci İşleri Daire Başkanlığınca onaylanır. Bu yolla ayrılan öğrencinin yeniden kaydı yapılmaz.
+(2) Aşağıdaki durumlarda ilgili fakülte/konservatuvar/yüksekokul/meslek yüksekokulu yönetim kurulu kararı ile öğrencinin kaydı silinir;
+a) Açıköğretim sistemi ile yürütülmekte olan ve kontenjan sınırlaması olmayan bölümlerin, öğrencinin öğrenim gördüğü programdan farklı olan programları hariç, öğrencinin aynı yarıyılda başka bir yükseköğretim kurumunda kayıtlı bulunması,
+b) (Değişik:RG-16/7/2024-32603) 2547 sayılı Kanunun 54 üncü maddesinde yer alan hükümlere göre Üniversiteden çıkarma cezası almış olması,
+c) Basit şizofreni, paranoid şizofreni, dissosiyatif sendrom, borderline gibi ruhsal bozukluk nedeniyle tüm öğrenim süresi içinde devamsızlığı iki yılı aşan öğrencilerden yeniden sağlık raporu almak ve incelenmek suretiyle, öğrenimlerine devam edemeyeceklerine ilgili birimlerin yönetim kurulunca karar verilmiş olması.
