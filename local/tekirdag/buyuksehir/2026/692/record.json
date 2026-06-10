@@ -1,0 +1,18 @@
+{
+  "number": "692",
+  "title": "YOL AĞINA ALINMASI",
+  "decision_date": "2026-06-10",
+  "source": "https://www.tekirdag.bel.tr/meclis_donemleri/meclis_karar_ozetleri/2846",
+  "official_document": "https://www.tekirdag.bel.tr/karar_metin_goruntule/2846/692",
+  "source_sha256": "50355b0a6d56bf2efb8bec803f6a46da45fad75060694fa32202a7db274112a7",
+  "issuer": "Tekirdağ Büyükşehir Belediye Meclisi",
+  "history_type": "metadata",
+  "text_status": "metadata-only; official decision text and annexes not transcribed",
+  "in_force": "2026-06-10",
+  "in_force_basis": "Official Birleşim Tarihi: 10.06.2026; adoption date for catalogue metadata; legal commencement not asserted",
+  "missing": [
+    "complete official decision text",
+    "official annexes, including any normative images"
+  ],
+  "law_text_complete": false
+}
