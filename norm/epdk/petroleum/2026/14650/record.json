@@ -1,0 +1,26 @@
+{
+  "kind": "norm",
+  "issuer": "Enerji Piyasası Düzenleme Kurumu",
+  "market": "petroleum",
+  "document_type": "board-decision",
+  "number": "14650",
+  "decision_date": "2026-06-11",
+  "title": "Ergaz Sanayi ve Ticaret Anonim Şirketi’nin; LPG-DPO/2127/09185 sayılı LPG Depolama Lisansı kapsamında faaliyette bulunan Kocaeli Depolama Tesisine ilişkin LPG depolama tarifesine ilişkin",
+  "resmi_gazete_date": "2026-06-13",
+  "resmi_gazete_number": "33279",
+  "categories": [
+    "Depolama Tarifesi"
+  ],
+  "source": "https://www.epdk.gov.tr/Detay/DownloadDocument?id=MXnlw5Y0JLU=",
+  "documents": [
+    "https://www.epdk.gov.tr/Detay/DownloadDocument?id=MXnlw5Y0JLU=",
+    "https://www.epdk.gov.tr/Detay/DownloadDocument?id=OOMgPZDhsSo="
+  ],
+  "source_sha256": "40862efb934944710c2e52a9cc3b941aec44d2d0512b6d7dc2ba636424c0adea",
+  "official_list": "https://www.epdk.gov.tr/Detay/Icerik/3-0-100/kurul-kararlari",
+  "official_list_leaf": 5140,
+  "text_status": "as-enacted",
+  "text_file": "metin.md",
+  "in_force": "2026-06-11",
+  "law_text_complete": true
+}
