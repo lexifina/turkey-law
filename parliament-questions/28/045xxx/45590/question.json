@@ -1,0 +1,21 @@
+{
+  "record_type": "parliament-written-question",
+  "term": 28,
+  "legislative_year": 4,
+  "esas_no": "7/45590",
+  "submitted": "2026-06-11",
+  "submitted_as": "Başkanlığa geliş tarihi",
+  "mp": "Melih MERİÇ",
+  "province": "Gaziantep",
+  "summary": "Bakanlık ve bir vakıf arasında imzalanan protokol kapsamında Sakarya'da yapılan bir etkinliğe ilişkin",
+  "status": "Süresi Geçtikten Sonra Cevaplandı",
+  "status_as_of": "2026-11-16",
+  "official_record": "https://www.tbmm.gov.tr/Denetim/Yazili-Soru-Onergesi-Detay/ec4532fa-dca2-49cd-971f-019ebb0e047f",
+  "source": "https://tbmm.gov.tr/Denetim/YaziliSoruOnergesiTable",
+  "source_form": "https://tbmm.gov.tr/Denetim/Yazili-Soru-Onergeleri",
+  "source_sha256": "cd14b54eb59509761289abe680b5d068ac6152ddb2531933997651f3d07c719e",
+  "in_force": "2026-06-11",
+  "in_force_basis": "Date the question reached the Speaker (Başkanlığa geliş tarihi) in the official TBMM written-question record; parliamentary oversight record, not law",
+  "history_type": "metadata",
+  "text_status": "metadata-only: question text, addressee and answers are in the linked official record (PDFs on cdn.tbmm.gov.tr); not transcribed here"
+}
