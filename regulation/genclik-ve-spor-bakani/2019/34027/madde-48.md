@@ -1,0 +1,2 @@
+Yabancı dil eğitimi
+MADDE 48 – (1) Müfettiş ve müfettiş yardımcılarının uluslararası toplantılarda etkinliğinin artırılabilmesi, denetime tabi kurum ve kuruluşların görev alanındaki yabancı yayınları izleme ve inceleme olanağına kavuşabilmelerinin temin edilebilmesi amacıyla, yabancı dil öğrenimi için dil kurslarından yararlanmaları halinde eğitim masraflarının Bakanlık bütçesinden karşılanacak olan kısmı genel hükümlere göre tespit edilir. Yabancı dil kurslarına katılacak olanlar Başkanlığın teklifi üzerine Bakan onayı ile belirlenir.

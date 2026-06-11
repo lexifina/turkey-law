@@ -1,0 +1,2 @@
+Lisansüstü öğrenim ve uzmanlık eğitimi
+MADDE 47 – (1) Yurt dışında lisansüstü öğrenim yapmak isteyen müfettiş ve müfettiş yardımcıları hakkında Yetiştirilmek Amacıyla Yurt Dışına Gönderilecek Devlet Memurları Hakkında Yönetmelik hükümleri uygulanır. Yurt içindeki yükseköğretim kurumlarında yüksek lisans, doktora öğrenimi veya uzmanlık eğitimi programlarına mesai saatlerinde devam etmek isteyen müfettiş ve müfettiş yardımcılarının ise Başkanlıktan izin almaları şarttır.

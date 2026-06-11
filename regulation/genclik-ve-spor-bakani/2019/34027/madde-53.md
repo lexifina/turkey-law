@@ -1,0 +1,3 @@
+Genel teftiş raporlarının cevaplandırılması
+MADDE 53 – (1) Genel teftiş raporlarında eleştiri ve öneri konusu yapılan hususlar, raporun teslim tarihinden itibaren müfettiş tarafından on günden az otuz günden fazla olmamak üzere verilecek süre içinde cevaplandırılarak Başkanlığa bildirilir. Gerekli görüldüğünde, genel teftiş raporları cevaplandırılmak üzere ilgili birimlere Başkanlık aracılığıyla gönderilebilir.
+(2) Müfettişlerce düzenlenen raporların denetime tabi kurum ve kuruluşlar tarafından değerlendirilmesi, takibi, açıklık ve işlerlik kazandırılması ve sonuçlandırılması hususları alt düzenleyici işlem ile düzenlenebilir.

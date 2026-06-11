@@ -1,0 +1,2 @@
+Ön inceleme raporu
+MADDE 62 – (1) Ön inceleme raporları, 2/12/1999 tarihli ve 4483 sayılı Memurlar ve Diğer Kamu Görevlilerinin Yargılanması Hakkında Kanun kapsamına giren memur ve diğer kamu görevlileri için, yetkili merci tarafından verilecek izin üzerine, bu Kanun kapsamına giren eylem ve işlemleri hakkında yapılan inceleme ve araştırma çalışmaları sonucunda soruşturma izni verilmesi veya verilmemesi kararlarına dayanak teşkil etmek amacıyla düzenlenen raporlardır.

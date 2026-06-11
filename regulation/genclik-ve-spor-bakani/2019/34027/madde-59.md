@@ -1,0 +1,2 @@
+İnceleme raporu
+MADDE 59 – (1) İnceleme raporları; şikâyet ve ihbarlar üzerine yapılan inceleme sonucunda cezai takibatı gerektirir hal görülmediği takdirde yapılacak işleme esas görüşlerin, yürürlükteki mevzuatın uygulanmasında görülen noksanlıklar ve bunların düzeltilme yolları ile yeniden konulması gereken hüküm ve usuller hakkında görüş ve tekliflerin bildirilmesi maksadıyla düzenlenir. Müfettişler, bu raporları verilen görev gereği olarak düzenlerler.

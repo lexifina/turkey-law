@@ -1,0 +1,6 @@
+Giriş sınavı
+MADDE 16 – (1) Müfettiş yardımcılığı giriş sınavı, kadro ve ihtiyaç durumlarına göre Bakanlıkça uygun görülecek zamanlarda yazılı ve sözlü olmak üzere iki aşamalı olarak yapılır.
+(2) Giriş sınavına başvuracak adaylar 15 inci maddenin birinci fıkrasının (b) bendinde aranan mezuniyet alanları itibarıyla farklı gruplara ayrılabilir.
+(3) Her bir gruptan ne kadar müfettiş yardımcısı alınacağı sınav duyurusunda ilan edilir.
+(4) Giriş sınavına; her bir gruptan ilan edilen kadro sayısının yirmi katından fazla olmamak, ilanda yer alan KPSS puan türlerine göre en yüksek puandan başlamak üzere KPSS puan sıralaması esas alınmak kaydıyla ilanda belirtilen sayı kadar aday sınava girmeye hak kazanır. Her bir grup için sınava girmeye hak kazanan sonuncu aday ile aynı puana sahip diğer adaylar da giriş sınavına alınır.
+(5) Yazılı sınav, yapılacak protokol çerçevesinde Ölçme, Seçme ve Yerleştirme Merkezine, Milli Eğitim Bakanlığına veya yükseköğretim kurumlarından birine yaptırılabilir. Bu durumda sınavın usulü, ilanı, başvuruların kabul edilmesi, soruların hazırlanması, cevapların değerlendirilmesi ve sınav sonuçlarının adaylara duyurulması ile sınav kâğıtlarının saklanması işlemleri, protokolde belirtilen usul ve esaslara göre yapılır.

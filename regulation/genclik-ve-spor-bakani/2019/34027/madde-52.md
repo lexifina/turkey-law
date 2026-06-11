@@ -1,0 +1,4 @@
+Teftişe ilişkin diğer hususlar
+MADDE 52 – (1) Müfettişler, teftiş sırasında öncelikle teftiş defterini ve dosyalarını incelemek suretiyle, bir önceki teftişte ilgili birimlerce yerine getirilmesi istenen hususların yerine getirilip getirilmediğini tespit eder ve bunu raporlarında belirtirler. Makul ve haklı bir neden olmadan ilgililerce yerine getirilmeyen hususların tespiti halinde sorumlular hakkında gerekli işlemleri başlatırlar.
+(2) Müfettişler, teftişte gerekli görmeleri halinde ilgililerle toplantı düzenleyebilir ve bilgi alabilirler.
+(3) Teftişlerde; görevlilerin muhafazasına verilmiş olan ayni, nakdi, menkul ve gayrimenkul her türlü varlıklara ilişkin sayımlar bizzat müfettiş tarafından yapılabileceği gibi gerektiğinde müfettiş tarafından görevlendirilecek bir komisyon marifetiyle de yapılabilir.

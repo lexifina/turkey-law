@@ -1,0 +1,2 @@
+Suç duyurusu raporu
+MADDE 64 – (1) Türk Ceza Kanununa veya özel kanunlara göre suç sayılan ve 4483 sayılı Kanun kapsamında soruşturulamayan eylemlerle ilgili olarak yetkili yargı mercilerine gönderilmek üzere düzenlenir. Bakanlık dışındaki kurum ve kuruluşların görev alanına giren konuların bildirilmesi veya personeli hakkında gerekli işlemlerin yapılması amacıyla da suç duyurusu raporu düzenlenir.

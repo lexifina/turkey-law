@@ -1,0 +1,3 @@
+Teftiş defteri
+MADDE 57 – (1) Denetime tabi kurum ve kuruluşlarda sayfaları numaralandırılmış, mühürlenmiş ve son sayfasına defterin kaç sayfadan ibaret olduğu yazılarak ilgili birimin en üst amirince tasdik edilmiş bir teftiş defteri bulundurulur.
+(2) Müfettişler, teftişin başlayış ve bitiş tarihlerini, hangi işleri denetlediklerini, düzenledikleri raporun tarih ve sayısını, denetlenenin adını, soyadını ve görevini deftere yazmak suretiyle imzalarlar. Teftiş ile ilgili olarak Bakanlıktan gönderilen emir ve genelgelerin tarih ve sayıları ile özetleri, denetlenen memurlarca defterin ilgili bölümüne yazılarak imzalanır.
