@@ -1,0 +1,15 @@
+{
+  "issuer": "Radyo ve Televizyon Üst Kurulu (RTÜK)",
+  "record_type": "Üst Kurul Kararı",
+  "meeting": "2026/22",
+  "meeting_date": "2026-06-11",
+  "meeting_date_as_published": "11.6.2026",
+  "decision_no": "11",
+  "source_id": 20761,
+  "title": "RTÜK kararı 2026/22-11",
+  "source": "https://www.rtuk.gov.tr/UstKurulKarar/Detay/20761",
+  "source_sha256": "81cf1de02876e6400a7a9397796e42f8d630418a7a9bfb35cb529b730e232f46",
+  "text_status": "metadata-only",
+  "metadata_only_reason": "possible private person name(s) in the official text (16 match(es)); full text withheld, official link only",
+  "law_text_complete": false
+}
