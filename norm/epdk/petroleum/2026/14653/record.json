@@ -1,0 +1,26 @@
+{
+  "kind": "norm",
+  "issuer": "Enerji Piyasası Düzenleme Kurumu",
+  "market": "petroleum",
+  "document_type": "board-decision",
+  "number": "14653",
+  "decision_date": "2026-06-11",
+  "title": "Shell Company of Türkiye Limited Merkezi Londra Türkiye Şubesi’ne ait PİL/3889-9.1/31181 numaralı iletim lisansı kapsamında faaliyette bulunan Derince Terminaline ilişkin iletim tarifesi hakkında",
+  "resmi_gazete_date": "2026-06-13",
+  "resmi_gazete_number": "33279",
+  "categories": [
+    "İletim Tarifesi"
+  ],
+  "source": "https://www.epdk.gov.tr/Detay/DownloadDocument?id=WxylhaljZkk=",
+  "documents": [
+    "https://www.epdk.gov.tr/Detay/DownloadDocument?id=WxylhaljZkk=",
+    "https://www.epdk.gov.tr/Detay/DownloadDocument?id=GVCalM1YZpM="
+  ],
+  "source_sha256": "4ef210c7abb1752ec3791cb2ab9c10d32a09f98c4af5f27bed6b03cd8e00ede7",
+  "official_list": "https://www.epdk.gov.tr/Detay/Icerik/3-0-100/kurul-kararlari",
+  "official_list_leaf": 5334,
+  "text_status": "as-enacted",
+  "text_file": "metin.md",
+  "in_force": "2026-06-11",
+  "law_text_complete": true
+}
