@@ -1,0 +1,21 @@
+{
+  "record_type": "parliament-written-question",
+  "term": 28,
+  "legislative_year": 4,
+  "esas_no": "7/45593",
+  "submitted": "2026-06-11",
+  "submitted_as": "Başkanlığa geliş tarihi",
+  "mp": "Serkan RAMANLI",
+  "province": "Batman",
+  "summary": "Milli Eğitim Akademisi uygulaması sebebiyle yaşanan mağduriyete ilişkin",
+  "status": "Süresi Geçtikten Sonra Cevaplandı",
+  "status_as_of": "2026-11-16",
+  "official_record": "https://www.tbmm.gov.tr/Denetim/Yazili-Soru-Onergesi-Detay/10cd218d-8350-4d03-aeea-019eca5ed5b4",
+  "source": "https://tbmm.gov.tr/Denetim/YaziliSoruOnergesiTable",
+  "source_form": "https://tbmm.gov.tr/Denetim/Yazili-Soru-Onergeleri",
+  "source_sha256": "cd14b54eb59509761289abe680b5d068ac6152ddb2531933997651f3d07c719e",
+  "in_force": "2026-06-11",
+  "in_force_basis": "Date the question reached the Speaker (Başkanlığa geliş tarihi) in the official TBMM written-question record; parliamentary oversight record, not law",
+  "history_type": "metadata",
+  "text_status": "metadata-only: question text, addressee and answers are in the linked official record (PDFs on cdn.tbmm.gov.tr); not transcribed here"
+}
