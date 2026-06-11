@@ -1,0 +1,53 @@
+{
+  "source_id": "7.5.24039",
+  "kind": "regulation",
+  "register_kind": "Kurum ve Kuruluş Yönetmelikleri",
+  "title": "ELEKTRONİK HABERLEŞME SEKTÖRÜNE İLİŞKİN TÜKETİCİ HAKLARI YÖNETMELİĞİ",
+  "number": "24039",
+  "issuer": "Bilgi Teknolojileri ve İletişim Kurulu Başkanı",
+  "issuer_slug": "bilgi-teknolojileri-ve-iletisim-kurulu-baskani",
+  "path": "regulation/bilgi-teknolojileri-ve-iletisim-kurulu-baskani/2017/24039",
+  "source": "https://www.mevzuat.gov.tr/anasayfa/MevzuatFihristDetayIframe?MevzuatTur=7&MevzuatNo=24039&MevzuatTertip=5",
+  "source_sha256": "1d097d1e2c50c8867a85b91801ea63a4fa0fd54568d8664b94911a542b7084bc",
+  "source_bytes": 116445,
+  "published": "2017-10-28",
+  "gazette": "30224",
+  "in_force": "2026-06-11",
+  "in_force_basis": "latest Resmî Gazete date printed in the source amendment notes/table (\"RG-11/6/2026\") for the current consolidated text",
+  "date_evidence": [
+    [
+      "2026-06-11",
+      "RG-11/6/2026",
+      "Resmî Gazete date printed in the source amendment note"
+    ],
+    [
+      "2026-06-11",
+      "11/6/2026",
+      "Resmî Gazete date in the source amendment table"
+    ],
+    [
+      "2022-01-18",
+      "RG-18/1/2022",
+      "Resmî Gazete date printed in the source amendment note"
+    ],
+    [
+      "2022-01-18",
+      "18/1/2022",
+      "Resmî Gazete date in the source amendment table"
+    ]
+  ],
+  "history": "current-text",
+  "label": "oldest version available",
+  "checked_on": "2026-11-15",
+  "word_count": 6788,
+  "text_status": "current-consolidated",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  },
+  "source_links": [
+    "7.5.24039-Ek.docx"
+  ],
+  "completeness": "html-text-complete; linked annexes not fetched"
+}
