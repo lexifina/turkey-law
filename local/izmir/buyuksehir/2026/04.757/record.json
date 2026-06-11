@@ -1,0 +1,41 @@
+{
+  "issuer": "İzmir Büyükşehir Belediye Meclisi",
+  "number": "04.757",
+  "decision_date": "2026-06-11",
+  "title": "Plan ve Bütçe",
+  "version_label": "official-summary",
+  "source_url": "https://www.izmir.bel.tr/IBB-IZMIRBB-C1/Paylasim/MeclisKararOzetleri/16062026_115402_KararOzet_04.757%20Plan%20ve%20B%C3%BCt%C3%A7e.pdf",
+  "source_sha256": "8f2b7a581c12fa87422e319923ea198228882a3a3ca650d058ffcb570357d6e8",
+  "source_listing_url": "https://www.izmir.bel.tr/tr/IbbMeclisi/TariheGoreKararGetirJS?yil=2026&ay=&gun=&txtSozcuk=&draw=1&start=0&length=1000&txtKararNo=",
+  "official_id": "36634",
+  "text_status": "official decision summary text; full adopted text not separately supplied by this register",
+  "privacy_flags": [],
+  "normative_images": 0,
+  "source_image_inventory": [
+    {
+      "page": 1,
+      "source_images": 0,
+      "decorative_logos": 0,
+      "normative_images": 0
+    },
+    {
+      "page": 2,
+      "source_images": 0,
+      "decorative_logos": 0,
+      "normative_images": 0
+    },
+    {
+      "page": 3,
+      "source_images": 0,
+      "decorative_logos": 0,
+      "normative_images": 0
+    },
+    {
+      "page": 4,
+      "source_images": 0,
+      "decorative_logos": 0,
+      "normative_images": 0
+    }
+  ],
+  "annex_status": "The register supplies this decision-summary PDF; the full adopted decision and any separate supporting annexes are not supplied here."
+}
