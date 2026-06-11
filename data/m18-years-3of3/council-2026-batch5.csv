@@ -1,2 +1,3 @@
 official_id,number,decision_date,title,source_url,source_sha256,bytes,text_chars,status,privacy_flags
 36613,04.729,2026-06-11,Izmir council decision summary 04.729,https://www.izmir.bel.tr/IBB-IZMIRBB-C1/Paylasim/MeclisKararOzetleri/15062026_045322_KararOzet_04.729%20imar.pdf,dd065a8935e392a75acaccdcb4d06978c709aef10fbcb67849067ac46ab42f2a,379070,2599,metadata-only,possible named private person in decision context
+36614,04.730,2026-06-11,Izmir council decision summary 04.730,https://www.izmir.bel.tr/IBB-IZMIRBB-C1/Paylasim/MeclisKararOzetleri/15062026_045412_KararOzet_04.730%20imar.pdf,29410492e8e4d43592b69ff9b523c59f755272b5fbf2b25e799c38044c14bddc,379771,2718,metadata-only,possible named private person in decision context
