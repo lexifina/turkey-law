@@ -1,0 +1,31 @@
+{
+  "source_id": "8.5.46276",
+  "kind": "regulation",
+  "register_kind": "Üniversite Yönetmelikleri",
+  "title": "KTO - KARATAY ÜNİVERSİTESİ YABANCI DİLLER YÜKSEKOKULU YABANCI DİLLER BÖLÜMÜ HAZIRLIK PROGRAMLARI EĞİTİM-ÖĞRETİM VE SINAV YÖNETMELİĞİ",
+  "number": "46276",
+  "issuer": "KTO - KARATAY ÜNİVERSİTESİ",
+  "issuer_slug": "kto-karatay-universitesi",
+  "path": "regulation/kto-karatay-universitesi/2026/46276",
+  "source": "https://www.mevzuat.gov.tr/anasayfa/MevzuatFihristDetayIframe?MevzuatTur=8&MevzuatNo=46276&MevzuatTertip=5",
+  "source_sha256": "35e5e7567ed8bf2589cd9be3b6385dd316dfff524e7dff3a8a241cda37fb0e9e",
+  "source_bytes": 41644,
+  "published": "2026-06-12",
+  "gazette": "33278",
+  "in_force": "2026-06-12",
+  "in_force_basis": "Resmî Gazete publication date in the official listing (12.06.2026); own commencement article: \"Bu Yönetmelik 2026-2027 eğitim-öğretim yılı başında yürürlüğe girer\"",
+  "commencement_clauses": [
+    "Bu Yönetmelik 2026-2027 eğitim-öğretim yılı başında yürürlüğe girer"
+  ],
+  "history": "current-text",
+  "label": "oldest version available",
+  "checked_on": "2026-11-15",
+  "word_count": 2036,
+  "text_status": "current-consolidated",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  },
+  "completeness": "html-text-complete"
+}

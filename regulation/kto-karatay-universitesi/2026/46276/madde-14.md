@@ -1,0 +1,6 @@
+Devam durumu
+MADDE 14- (1) Yabancı dil hazırlık programlarında derse devam zorunludur. Öğrenciler derslerin en az %80’ine katılmakla yükümlüdür. İngilizce hazırlık programı ve isteğe bağlı yabancı dil hazırlık programı devam ve devamsızlık süreleri modül bazlı, Arapça hazırlık programı devam ve devamsızlık süreleri bir eğitim-öğretim yılı üzerinden değerlendirilir. Yabancı dil hazırlık programını başarısızlık nedeniyle tekrar eden öğrencilerin devam zorunluluğu yeni kayıt yaptırmış öğrenciler ile aynıdır. Devamsızlık ile ilgili uygulanacak hususlara akademik yıl başında Yüksekokul Yönetim Kurulu karar verir.
+(2) Derse devam öğretim elemanı tarafından öğrenci bilgi sistemine kaydedilir ve bu kayıt esas alınır.
+(3) İngilizce hazırlık programı ve isteğe bağlı yabancı dil hazırlık programı devamsızlık sınırını, sağlık dahil herhangi bir nedenle aşan öğrenciler ilgili modülden başarısız sayılır ve modülü tekrar ederler.
+(4) Arapça hazırlık programı devamsızlık sınırını, sağlık dahil herhangi bir nedenle aşan öğrenciler devamsızlık nedeniyle başarısız olmuş sayılır.
+(5) Rektörlüğün onayı ile Üniversiteyi veya ülkesini temsilen toplantı, spor, sanat ve benzeri faaliyetlere katılan öğrencilerin bu faaliyet günlerinde ilgili öğrenciler izinli sayılır. Ancak uygulamalı derslerde program yeterlilikleri için gerekli şartların sağlanması gerekmektedir.
