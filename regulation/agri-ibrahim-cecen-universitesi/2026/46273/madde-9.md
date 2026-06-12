@@ -1,0 +1,6 @@
+Zorunlu yabancı dil hazırlık sınıfı sınavları
+MADDE 9- (1) Zorunlu yabancı dil hazırlık sınıfı süresince yapılacak olan kısa süreli sınav, ödev ve ders dışı ilave çalışma türleri, tarihleri, içerikleri, ağırlık yüzdeleri ve sayıları Müdürlük tarafından belirlenir ve ilan edilir.
+(2) Kısa süreli sınav (quiz); sınıf içi çalışmaları günü gününe takip etmeyi teşvik edici nitelikte ve izlemeye yönelik olarak yapılabilir.
+(3) Kur sonu sınavı; öğrencilerin sınıf içi çalışmalarla edindikleri bilgi ve becerilerini ölçmeye yönelik olarak çok oturumlu, yazılı ve sözlü olarak uygulanabilir.
+(4) Ödev ve ders dışı ilave çalışmalar; öğrencilerin sınıf ortamında edindikleri bilgi ve becerileri, sosyal ve akademik ortamlarda kullanabilme ve geliştirebilmelerini teşvik edici nitelikteki çalışmalardan oluşur. Ödev ve portföy gibi çalışmalar, Müdürlük tarafından belirlenen usul ve esaslara göre kısmen veya tamamen bilgisayar destekli ve/veya uzaktan öğretim ile yapılabilir.
+(5) Zorunlu yabancı dil hazırlık eğitiminde bir üst kura geçebilmek için öğrencilerin devam ettikleri kurda 100 üzerinden en az 70 başarı notu alması gerekmektedir. Başarısız olan öğrenciler, bulundukları kuru tekrar ederler. Bu öğrenciler, açılan uygun kur sınıflarına alınır.
