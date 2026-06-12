@@ -1,0 +1,21 @@
+{
+  "record_type": "parliament-written-question",
+  "term": 28,
+  "legislative_year": 4,
+  "esas_no": "7/45532",
+  "submitted": "2026-06-12",
+  "submitted_as": "Başkanlığa geliş tarihi",
+  "mp": "Mustafa YENEROĞLU",
+  "province": "İstanbul",
+  "summary": "28 Mayıs 2026 tarihinde Konya'da hayatını kaybeden yabancı uyruklu bir üniversite öğrencisiyle ilgili yürütülen soruşturmaya ilişkin",
+  "status": "Cevaplanmadığı Gelen Kağıtlarda İlan Edildi",
+  "status_as_of": "2026-11-16",
+  "official_record": "https://www.tbmm.gov.tr/Denetim/Yazili-Soru-Onergesi-Detay/609fb548-13fa-4a5b-b31a-019eca55aab7",
+  "source": "https://tbmm.gov.tr/Denetim/YaziliSoruOnergesiTable",
+  "source_form": "https://tbmm.gov.tr/Denetim/Yazili-Soru-Onergeleri",
+  "source_sha256": "cd14b54eb59509761289abe680b5d068ac6152ddb2531933997651f3d07c719e",
+  "in_force": "2026-06-12",
+  "in_force_basis": "Date the question reached the Speaker (Başkanlığa geliş tarihi) in the official TBMM written-question record; parliamentary oversight record, not law",
+  "history_type": "metadata",
+  "text_status": "metadata-only: question text, addressee and answers are in the linked official record (PDFs on cdn.tbmm.gov.tr); not transcribed here"
+}
