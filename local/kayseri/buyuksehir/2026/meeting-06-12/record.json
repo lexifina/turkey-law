@@ -1,0 +1,23 @@
+{
+  "number": "meeting-06-12",
+  "number_as_published": null,
+  "year": 2026,
+  "title": "12 Haziran 2026 Tarihli Meclis Karar Özetleri",
+  "decision_date": "2026-06-12",
+  "source": "https://www.kayseri.bel.tr/karar-ozetleri/12-haziran-2026-tarihli-meclis-karar-ozetleri",
+  "official_document": "https://www.kayseri.bel.tr/uploads//karar-ozet/report12-22-06-2026-16-32.PDF",
+  "source_sha256": "c20b01618745c92779dc35f1bec49798f93ac31e4941a6e40fe65dc4de8d9f27",
+  "issuer": "Kayseri Büyükşehir Belediye Meclisi",
+  "history_type": "metadata",
+  "text_status": "metadata-only: listing fields as published; complete decision text is in the linked official document, not transcribed",
+  "in_force": "2026-06-12",
+  "in_force_basis": "Decision date as printed in the official council listing: 12 Haziran 2026; adoption date of the council decision; legal commencement not asserted",
+  "missing": [
+    "complete official decision text",
+    "official annexes"
+  ],
+  "law_text_complete": false,
+  "privacy_withheld": false,
+  "record_scope": "one official PDF of decision summaries per council meeting",
+  "listing": "https://www.kayseri.bel.tr/karar-ozetleri?page=1"
+}
