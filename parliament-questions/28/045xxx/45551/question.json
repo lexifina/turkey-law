@@ -1,0 +1,21 @@
+{
+  "record_type": "parliament-written-question",
+  "term": 28,
+  "legislative_year": 4,
+  "esas_no": "7/45551",
+  "submitted": "2026-06-12",
+  "submitted_as": "Başkanlığa geliş tarihi",
+  "mp": "Mehmet Emin EKMEN",
+  "province": "Mersin",
+  "summary": "Sıfır Atık Projesi kapsamında yapılan harcamalara ilişkin",
+  "status": "Süresi Geçtikten Sonra Cevaplandı",
+  "status_as_of": "2026-11-16",
+  "official_record": "https://www.tbmm.gov.tr/Denetim/Yazili-Soru-Onergesi-Detay/71bb9108-5130-45cb-b5df-019eca5a6b80",
+  "source": "https://tbmm.gov.tr/Denetim/YaziliSoruOnergesiTable",
+  "source_form": "https://tbmm.gov.tr/Denetim/Yazili-Soru-Onergeleri",
+  "source_sha256": "cd14b54eb59509761289abe680b5d068ac6152ddb2531933997651f3d07c719e",
+  "in_force": "2026-06-12",
+  "in_force_basis": "Date the question reached the Speaker (Başkanlığa geliş tarihi) in the official TBMM written-question record; parliamentary oversight record, not law",
+  "history_type": "metadata",
+  "text_status": "metadata-only: question text, addressee and answers are in the linked official record (PDFs on cdn.tbmm.gov.tr); not transcribed here"
+}
