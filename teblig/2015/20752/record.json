@@ -1,0 +1,56 @@
+{
+  "source_id": "9.5.20752",
+  "kind": "communique",
+  "register_kind": "Tebliğler",
+  "title": "KARAYOLLARI MOTORLU ARAÇLAR ZORUNLU MALİ SORUMLULUK SİGORTASI GENEL ŞARTLARI",
+  "number": "20752",
+  "path": "teblig/2015/20752",
+  "source": "https://www.mevzuat.gov.tr/anasayfa/MevzuatFihristDetayIframe?MevzuatTur=9&MevzuatNo=20752&MevzuatTertip=5",
+  "source_sha256": "0f4b1c20bb7166187b261dcff9b093313913f47d267a99be5c9e8703ebe7a885",
+  "source_bytes": 63569,
+  "published": "2015-05-14",
+  "gazette": "29355",
+  "in_force": "2026-06-12",
+  "in_force_basis": "latest Resmî Gazete date printed in the source amendment notes/table (\"RG-12/6/2026\") for the current consolidated text",
+  "date_evidence": [
+    [
+      "2026-06-12",
+      "RG-12/6/2026",
+      "Resmî Gazete date printed in the source amendment note"
+    ],
+    [
+      "2021-12-04",
+      "RG-4/12/2021",
+      "Resmî Gazete date printed in the source amendment note"
+    ],
+    [
+      "2020-03-20",
+      "RG-20/3/2020",
+      "Resmî Gazete date printed in the source amendment note"
+    ],
+    [
+      "2016-08-02",
+      "RG-2/8/2016",
+      "Resmî Gazete date printed in the source amendment note"
+    ],
+    [
+      "2016-02-02",
+      "RG-2/2/2016",
+      "Resmî Gazete date printed in the source amendment note"
+    ]
+  ],
+  "history": "current-text",
+  "label": "oldest version available",
+  "checked_on": "2026-11-15",
+  "word_count": 4269,
+  "text_status": "current-consolidated",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  },
+  "source_links": [
+    "9.5.20752-Ek.zip"
+  ],
+  "completeness": "html-text-complete; linked annexes not fetched"
+}
