@@ -1,0 +1,6 @@
+Merkez Müdürü (Başhekim) ve yardımcıları (Başhekim yardımcıları)
+MADDE 8 – (1) (Değişik:RG-13/7/2020-31184) Merkez Müdürü (Başhekim), Tıp Fakültesinde devamlı statüde çalışan, branşında Tıpta Uzmanlık unvanını almış, tercihen profesörler arasından, Rektör tarafından üç yıl süre ile görevlendirilir. Süresi biten Merkez Müdürü yeniden görevlendirilebilir veya süresinden önce görevine son verilebilir.
+(2) (Değişik:RG-24/10/2017-30220) Merkez Müdürü devamlı statüde çalışan öğretim üyeleri arasından birinci fıkrada belirtilen özellikleri haiz en az iki en çok yedi öğretim üyesini Merkez Müdür Yardımcısı (Başhekim Yardımcısı) olarak Rektörün onayına sunar. Merkez Müdürünün görevi sona erdiğinde, yardımcılarının görevi de kendiliğinden sona erer. Görev süresi biten Merkez Müdür Yardımcıları aynı usulle yeniden görevlendirilebilir veya süresinden önce aynı usulle görevden alınabilir.
+(3) Merkez Müdürü veya Yardımcılarından biri Merkezin işleyişindeki koordinasyonun temini açısından Merkezin satın alma komisyon başkanı olarak Rektör tarafından görevlendirilir. Merkez Müdürü veya Yardımcılarından birisi Dekan Yardımcısı olabilir.
+(4) Merkez Müdür Yardımcıları, görevlendirildiği konularda Merkez hizmetlerinin yürütülmesinde Merkez Müdürüne yardımcı olurlar.
+(5) Merkez Müdürünün görevi başında bulunmadığı zamanlarda yardımcılardan biri, Merkez Müdürüne vekalet eder.

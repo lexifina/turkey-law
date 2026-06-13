@@ -1,0 +1,4 @@
+Başhemşire (hemşirelik hizmetleri koordinatörü) ve yardımcıları
+MADDE 18 – (1) Başhemşire, hemşirelik lisans mezunu ya da hemşirelik yönetimi konusunda lisansüstü eğitim yapmış ve/veya en az 10 yıl hemşirelik hizmeti olan ve ilgili mevzuat şartlarına uygun adaylar arasından Merkez Müdürünün teklifi ile Rektör tarafından görevlendirilir. Başhemşire, en az sekiz yıl hizmeti olan, ilgili mevzuatta belirtilen şartlara uygun en az iki kişiyi yardımcı ve bir hemşireyi eğitim hemşiresi olarak görevlendirilmek üzere Merkez Müdürüne teklif eder. Merkez Müdürü bu öneriyi görüşü ile birlikte Rektörün onayına sunar.
+(2) Başhemşire, hemşirelik ve ebelik hizmetlerine yönelik yönetim ve eğitim çalışmalarını Hastane Başmüdürü ile koordinasyon halinde yürütür. Merkez Müdürüne karşı sorumludur.
+(3) Başhemşirenin görevde bulunmadığı veya izinli olduğu durumlarda, başhemşire yardımcılarından birisi vekalet eder.

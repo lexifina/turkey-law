@@ -1,0 +1,21 @@
+Tanımlar
+MADDE 4 – (1) Bu Yönetmelikte geçen;
+a) Başhemşire: Merkezin hemşirelik hizmetleri idari sorumluluğunu yürütmek üzere görevlendirilen kişiyi,
+b) Başhemşire yardımcıları: Başhemşireye bağlı olarak Merkezde görevlendirilen kişileri,
+c) Çalışma Kurulu: Merkezin Çalışma Kurulunu,
+ç) Danışma Kurulu: Merkezin Danışma Kurulunu,
+d) Dekan: Erciyes Üniversitesi Tıp Fakültesi Dekanını,
+e) Hastane Başmüdürü: İdari hizmetler koordinatörü olarak idari, mali ve teknik hizmet sorumluluğunu yürütmek üzere Merkezde görevlendirilen kişiyi,
+f) Hastane Müdürü: Rektörlüğün Hastane Müdürü kadrosunda olan ve Hastane Başmüdürüne bağlı olarak Merkezde görevlendirilen kişiyi,
+g) Hastane müdür yardımcıları: Hastane müdür yardımcısı olarak Merkezde görevlendirilen kişileri,
+ğ) Laboratuvar birimi: Laboratuvar merkezi bünyesindeki her bir laboratuvarı,
+h) Laboratuvar merkezi: Birden fazla uzmanlık dalında kurulan laboratuvarı,
+ı) Merkez (Hastane): Tıp Fakültesi Hastaneleri ve ilişkili tanı, tedavi merkez ve ünitelerini,
+i) Merkez Müdürü (Başhekim): Erciyes Üniversitesi Sağlık Uygulama ve Araştırma Merkezi Müdürünü,
+j) Merkez müdür yardımcıları (Başhekim yardımcıları): Erciyes Üniversitesi Sağlık Uygulama ve Araştırma Merkezi müdür yardımcılarını,
+k) Ünite sorumlusu: Anabilim dalı, klinik, laboratuvar gibi ünitelerin hekimlik hizmeti dışındaki faaliyetlerinden sorumlu idari personeli,
+l) Ünite: Merkezin idari ve tıbbi bütünlüğü içerisinde yer alan alt birimleri,
+m) Üniversite: Erciyes Üniversitesini,
+n) Rektör: Erciyes Üniversitesi Rektörünü,
+o) Yönetim Kurulu: Merkezin Yönetim Kurulunu,
+ifade eder.
