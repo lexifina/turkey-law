@@ -1,0 +1,20 @@
+{
+  "record_type": "gazette-item",
+  "gazette": "Resmî Gazete",
+  "jurisdiction": "TR",
+  "date": "2026-06-14",
+  "issue": "33280",
+  "edition": "regular",
+  "item": 6,
+  "section": "YÜRÜTME VE İDARE BÖLÜMÜ",
+  "heading": "TEBLİĞ",
+  "title": "Ulusal Meslek Standartlarına Dair Tebliğ (No: 2026/6)",
+  "official_link": "https://www.resmigazete.gov.tr/eskiler/2026/06/20260614-6.htm",
+  "link_format": "htm",
+  "index_url": "https://www.resmigazete.gov.tr/eskiler/2026/06/20260614.htm",
+  "index_sha256": "fb5746499fbaab4b304f5b7fb8308e516e923238c5c8c8764a5816bb705a81ef",
+  "index_header": "14 Haziran 2026 ... 33280 Sayılı Resmî Gazete",
+  "issue_pdf": "https://www.resmigazete.gov.tr/eskiler/2026/06/20260614.pdf",
+  "in_force_basis": "Resmî Gazete publication date; not a commencement reading.",
+  "text_status": "metadata-only; text not yet fetched (follow-up pass adds it as its own commit)"
+}
