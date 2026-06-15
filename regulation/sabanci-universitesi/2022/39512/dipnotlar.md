@@ -1,0 +1,1 @@
+[1] 15/6/2026 tarihli ve 33281 sayılı Resmî Gazete’de yayımlanan değişiklik ile bu bölüm başlığı “Mütevelli Heyet, Başkan, Başkanlık Divanı ve Görevleri” iken metne işlendiği şekilde değiştirilmiştir.

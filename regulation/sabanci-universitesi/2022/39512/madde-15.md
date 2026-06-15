@@ -1,0 +1,3 @@
+Dekan
+MADDE 15- (1) Dekan, profesör unvanına sahip öğretim üyeleri arasından Rektörün Mütevelli Heyetine önerisi ve Mütevelli Heyetin teklifi ile Yükseköğretim Kurulu tarafından üç yıl süre ile atanır. Süresi biten dekan aynı usulle yeniden atanabilir.
+(2) Dekan; fakültenin ve bağlı birimlerinin öğretim kapasitesinin etkin ve verimli bir şekilde kullanılmasında ve geliştirilmesinde, gerektiği zaman güvenlik önlemlerinin alınmasında, öğrencilere sosyal hizmetlerin sağlanmasında, eğitim-öğretim, bilimsel araştırma ve yayın faaliyetlerinin düzenli bir şekilde yürütülmesinde, bütün faaliyetlerin gözetim ve denetiminin yapılmasında, takip ve kontrol edilmesinde ve sonuçlarının alınmasında Rektöre karşı birinci derecede sorumludur.
