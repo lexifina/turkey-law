@@ -1,0 +1,18 @@
+{
+  "kind": "norm",
+  "issuer": "Bilgi Teknolojileri ve İletişim Kurumu",
+  "document_type": "kurul-karari",
+  "number": "2026/İK-THD/125",
+  "source_id": "2026/İK-THD/125",
+  "date": "2026-05-11",
+  "title": "7571 sayılı Kanun (EHK 50- (8), (9), (10) ve Geçici 8 inci Madde) Kapsamında İkincil Düzenleme Tadili",
+  "source": "https://www.btk.gov.tr/s3/web-btk-site/7708c26c-5161-4919-8b3d-daa31d4ac8fb/2026/06/fe7097fa-2600-4624-b761-e87dc5ffdbdd.pdf",
+  "source_sha256": "945949a319f9cf305047ae1e4d1cb69cf28d20a0eea11e9e1cde293d976a4bde",
+  "text_status": "as-enacted",
+  "text_file": "metin.md",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  }
+}
