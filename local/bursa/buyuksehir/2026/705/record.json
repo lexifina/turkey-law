@@ -1,0 +1,12 @@
+{
+  "issuer": "Bursa Büyükşehir Belediye Meclisi",
+  "number": "705",
+  "decision_date": "2026-06-16",
+  "record_type": "metadata-only",
+  "version_label": "metadata-only",
+  "source_record_label": "as-enacted",
+  "source_url": "https://www.bursa.bel.tr/storage/medya/meclis_karar_yeni/1rlw94vft5s0s8w.pdf",
+  "source_sha256": "17a69717299dc4445ec3b03de88c75a1205038f40e7b97aa3cb5d42cd2f5fa60",
+  "text_status": "withheld-personal-data",
+  "note": "Only record identifiers and the official link are held; full text is withheld pending classification of individual-person content."
+}
