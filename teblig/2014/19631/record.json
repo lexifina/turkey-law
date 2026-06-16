@@ -1,0 +1,89 @@
+{
+  "source_id": "9.5.19631",
+  "kind": "communique",
+  "register_kind": "Tebliğler",
+  "title": "KATMA DEĞER VERGİSİ GENEL UYGULAMA TEBLİĞİ",
+  "number": "19631",
+  "path": "teblig/2014/19631",
+  "source": "https://www.mevzuat.gov.tr/anasayfa/MevzuatFihristDetayIframe?MevzuatTur=9&MevzuatNo=19631&MevzuatTertip=5",
+  "source_sha256": "f9513cfd4244198e22c548e132efb785b8b00c97a474d264088c305f0a6ed4d7",
+  "source_bytes": 4740228,
+  "published": "2014-04-26",
+  "gazette": "28983",
+  "in_force": "2026-06-16",
+  "in_force_basis": "latest Resmî Gazete date printed in the source amendment notes/table (\"RG-16/6/2026\") for the current consolidated text",
+  "date_evidence": [
+    [
+      "2026-06-16",
+      "RG-16/6/2026",
+      "Resmî Gazete date printed in the source amendment note"
+    ],
+    [
+      "2026-01-31",
+      "RG-31/1/2026",
+      "Resmî Gazete date printed in the source amendment note"
+    ],
+    [
+      "2025-12-31",
+      "RG-31/12/2025",
+      "Resmî Gazete date printed in the source amendment note"
+    ],
+    [
+      "2025-09-04",
+      "RG-4/9/2025",
+      "Resmî Gazete date printed in the source amendment note"
+    ],
+    [
+      "2025-02-27",
+      "RG-27/2/2025",
+      "Resmî Gazete date printed in the source amendment note"
+    ],
+    [
+      "2024-12-30",
+      "RG-30/12/2024",
+      "Resmî Gazete date printed in the source amendment note"
+    ],
+    [
+      "2024-10-31",
+      "RG-31/10/2024",
+      "Resmî Gazete date printed in the source amendment note"
+    ],
+    [
+      "2024-04-27",
+      "RG-27/4/2024",
+      "Resmî Gazete date printed in the source amendment note"
+    ],
+    [
+      "2024-02-10",
+      "RG-10/2/2024",
+      "Resmî Gazete date printed in the source amendment note"
+    ],
+    [
+      "2024-01-18",
+      "RG-18/1/2024",
+      "Resmî Gazete date printed in the source amendment note"
+    ],
+    [
+      "2023-12-30",
+      "RG-30/12/2023",
+      "Resmî Gazete date printed in the source amendment note"
+    ]
+  ],
+  "commencement_clauses": [
+    "Bu Tebliğ, yayım tarihini izleyen aybaşından itibaren yürürlüğe girer"
+  ],
+  "history": "current-text",
+  "label": "oldest version available",
+  "checked_on": "2026-11-15",
+  "word_count": 181248,
+  "text_status": "current-consolidated",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  },
+  "source_links": [
+    "http://www.gib.gov.tr/fileadmin/mevzuatek/eski/kdvteb84ek.html"
+  ],
+  "completeness": "html-text-complete; linked annexes not fetched"
+}
