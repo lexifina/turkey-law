@@ -1,0 +1,4 @@
+Soruşturma konusu ürün
+MADDE 4- (1) Soruşturma konusu ürün, ÇHC menşeli 5902.10.10.00.00 GTİP’i altında sınıflandırılan “naylon veya diğer poliamidlerden elde edilen yüksek mukavemetli iplikten her nevi nakil vasıtası iç ve dış lastiği için kauçuk emdirilmiş mensucat (kord bezi)” eşya tanımlı naylon kord bezi; ÇHC ve Vietnam menşeli 5902.20.10.00.00 GTİP’i altında sınıflandırılan “poliesterlerden elde edilen yüksek mukavemetli iplikten her nevi nakil vasıtası iç ve dış lastiği için kauçuk emdirilmiş mensucat (kord bezi)” eşya tanımlı poliesterlerden kord bezidir.
+(2) Bahse konu GTİP’ler yalnızca bilgi amaçlı verilmiş olup bağlayıcı mahiyette değildir.
+(3) Ürünün TGTC’de yer alan tarife pozisyonunda ve/veya eşya tanımında yapılacak değişiklikler bu Tebliğ hükümlerinin uygulanmasına engel teşkil etmez.
