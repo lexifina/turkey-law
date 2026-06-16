@@ -1,0 +1,2 @@
+Karar ve işlemler
+MADDE 8- (1) Yapılan inceleme sonucunda, damping soruşturması açılabilmesi için yeterli bilgi, belge ve delillerin bulunduğu anlaşıldığından, İthalatta Haksız Rekabeti Değerlendirme Kurulunun kararı ile ÇHC menşeli naylon kord bezi ürünü ile ÇHC ve Vietnam menşeli poliesterlerden kord bezi ürününe yönelik olarak Yönetmeliğin 20 nci maddesi çerçevesinde bir damping soruşturması açılmasına karar verilmiştir.
