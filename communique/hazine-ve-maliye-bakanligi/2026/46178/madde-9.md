@@ -1,0 +1,4 @@
+Tecil yetkisi ve ödeme planı
+MADDE 9- (1) Bu Tebliğ kapsamında yapılacak tecil başvuruları, borç tutarına bakılmaksızın vergi dairesi müdürleri tarafından değerlendirilerek bu Tebliğde yapılan açıklamalara göre sonuçlandırılacaktır. Ancak, tutarı 10 milyon TL’yi geçmeyen amme alacakları için yapılacak tecil taleplerine yönelik işlemler Gelir İdaresi Başkanlığı bilgi işlem sistemleri üzerinden doğrudan yapılabilecektir.
+(2) Tecil edilen borçlar için borçlulara, ödenecek taksit tutarlarını, tecil faizi tutarlarını ve taksitlerin vade tarihlerini gösteren ödeme planı verilecektir.
+Borçlular, ödeme planlarını bağlı bulundukları vergi dairelerinden alabilecekleri gibi müracaat edecekleri herhangi bir vergi dairesinden imza karşılığında elden, gerekli şartların bulunması koşuluyla Gelir İdaresi Başkanlığının internet adresi veya dijital vergi dairesi üzerinden de alabileceklerdir.

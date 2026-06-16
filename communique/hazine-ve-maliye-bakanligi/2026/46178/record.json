@@ -1,0 +1,36 @@
+{
+  "checked_on": "2026-11-13",
+  "date_gazette": "33282",
+  "date_quote": "16.06.2026",
+  "first_law": null,
+  "gazette": "33282",
+  "history": "current-text",
+  "images": {
+    "deferred": 0,
+    "omitted": 0,
+    "referenced": 0,
+    "source": 0
+  },
+  "in_force": "2026-06-16",
+  "in_force_basis": "original Resmi Gazete publication date supplied by the official listing",
+  "issuer": "Hazine ve Maliye Bakanlığı",
+  "issuer_catalog_evidence": [
+    {
+      "evidence": "issuer-578-0.json",
+      "id": "578",
+      "label": "Hazine ve Maliye Bakanlığı",
+      "listing_url": "https://www.mevzuat.gov.tr/Anasayfa/MevzuatDatatable?MevzuatTur=Teblig&KurumId=578&start=0&length=100"
+    }
+  ],
+  "issuer_slug": "hazine-ve-maliye-bakanligi",
+  "kind": "communique",
+  "label": "oldest version available",
+  "notes": [],
+  "published": "2026-06-16",
+  "source": "https://www.mevzuat.gov.tr/anasayfa/MevzuatFihristDetayIframe?MevzuatTur=9&MevzuatNo=46178&MevzuatTertip=5",
+  "source_bytes": 32400,
+  "source_id": "9.5.46178",
+  "source_sha256": "94e0cb533f893d15923fc6a0a2780034ee680b47865c2ba7865ae9aa2644ec0d",
+  "title": "TAHSİLAT GENEL TEBLİĞİ (SERİ:B SIRA NO:20)",
+  "word_count": 2046
+}
