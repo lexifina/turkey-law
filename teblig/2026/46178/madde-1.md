@@ -1,0 +1,2 @@
+Amaç ve kapsam
+MADDE 1- (1) Bu Tebliğin amacı, 21/7/1953 tarihli ve 6183 sayılı Amme Alacaklarının Tahsil Usulü Hakkında Kanunun 48 inci maddesinde düzenlenen tecil ve taksitlendirme müessesesi kapsamında borçluların belirli bir süre içinde yapacakları müracaat üzerine, cari tecil faiz oranından daha düşük oranda faiz alınması suretiyle vergi dairesine olan borçlarının taksitlendirilerek ödenmesine imkan sağlanmasına yönelik usul ve esasları belirlemektir.
