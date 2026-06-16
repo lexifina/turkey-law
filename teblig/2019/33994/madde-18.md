@@ -1,0 +1,3 @@
+Belge ve plakete ilişkin esaslar
+MADDE 18 – (1) Üzerinde tesisin adı, türü ve varsa sınıfı ile (Değişik ibare:RG-16/6/2026-33282) sınıfının Bakanlıkça belirlendiğine dair bilgiler bulunan ve Bakanlıkça hazırlanarak soğuk damga ile işaretlenmiş plaket, belgeli turizm işletmelerince tesis girişine asılır. Tesise ait turizm belgesi, müşterinin kolayca görüp okuyabileceği bir mahalde bulundurulur. Belge ve plaket ücretleri Bakanlıkça belirlenir.
+(2) Belgeli tesislerin belge ve/veya plaketlerinin yeniden düzenlenmesi veya belge iptali durumunda eski/iptal edilen belge ve/veya plaket tesisin bulunduğu ilin il kültür ve turizm müdürlüğü tarafından teslim alınır.

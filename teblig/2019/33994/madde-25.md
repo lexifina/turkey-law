@@ -1,0 +1,6 @@
+Yönetmelikten önce belgelendirilen tesisler
+MADDE 25 – (1) Yönetmeliğin yürürlüğe girdiği tarihten önce Bakanlıkça belgelendirilmiş olan tesislerde;
+a) Tür değişikliği veya sınıf yükselmesi durumunda Yönetmelik hükümleri uygulanır.
+b) Kapasite değişikliği dâhil diğer her durumda, müşteri asansörü, servis asansörü, servis merdiveni, oda sayısı, metrik limitler, erişilebilirlik düzenlemeleri ve yatak başucunda merkezi aydınlatma düğmesine ilişkin olarak belgelendirilmesinde esas alınan Yönetmelikte belirtilen nitelikler ve koşullar aranır. Bu nitelik ve koşullara ilişkin Turizm Tesislerinin Niteliklerine İlişkin Yönetmelikte tesisin lehine düzenleme olması durumunda bu Yönetmelik hükümleri uygulanır.
+c) Sınıfı olan turizm yatırımı belgeli tesislerin turizm işletmesi veya kısmi turizm işletmesi belgesine geçiş işlemlerinde bu maddede belirtilen hükümler doğrultusunda değerlendirme formu uygulanarak belgelendirme denetimi gerçekleştirilir.
+ç) Yapılan denetimde belge kapasitesinde yer alan mahallerin kaldırıldığının veya fonksiyonlarının değiştirildiğinin tespiti halinde, bu değişikliklerin tesisin tür ve sınıfı için belirlenmiş asgari puanı etkileyecek nitelikte olması durumunda tesis sınıflandırma programına alınır ve sınıflandırma çalışması sonucunda belirlenecek sınıfı esas alınarak belgelendirme işlemleri sonuçlandırılır.

@@ -1,0 +1,9 @@
+İKİNCİ BÖLÜM
+Başvuru ve Belgelere İlişkin Esaslar
+Başvuru
+MADDE 4 – (1) Başvuruya ilişkin bilgilerin yer aldığı başvuru formu ve/veya tesis tanıtım formu doldurulmak suretiyle turizm belgesi taleplerinde başvurular; Yönetmelikte ve bu Tebliğde istenilen belgeler ile e-Devlet sistemi üzerinden Bakanlığa yapılır.
+(2) Müşterek imza ile temsil yetkisinin bulunduğu durumlarda, kişilerden birinin e-Devlet sistemi üzerinden başvuru yapması yeterlidir, ancak bu durumda tüm yetkililerin ortak imzasını taşıyan başvuru dilekçesi de başvuruya eklenir.
+(3) Birden fazla gerçek veya tüzel kişinin, tüzel kişiliği haiz olmayan bir ortaklık yapısı ile yapılan belge taleplerinde; her bir ortağa ilişkin gerekli belgeler ile birlikte Bakanlık nezdinde temsil ve ilzama yetkili ve Bakanlığa karşı sorumlu olan ortağın/ortakların belirtildiği sözleşme de başvuruya eklenir.
+(4) Şirketin şubesi adına başvuru yapılması halinde, işlemler şirket adına yürütülür.
+(5) (Ek:RG-8/6/2023-32215)(1) Bakanlıkça başvurularda, Bakanlıkça belirlenen tesisler için Kanun kapsamında alınması zorunlu tutulan sertifika ile Bakanlıkça zorunlu tutulan belgeler istenilebilir. (Değişik cümle:RG-16/6/2026-33282) Ayrıca, tesislerin genel mahallerinde müzik kullanılması halinde, 5/12/1951 tarihli ve 5846 sayılı Fikir ve Sanat Eserleri Kanunu kapsamında faaliyet gösteren ilgili federasyonlardan müzik lisans belgesinin alındığını gösterir belge de başvuruya eklenir, yetkili federasyonlar ve belgenin alınmasına ilişkin hususlar Bakanlıkça belirlenir.
+(6) Başvuru sahibi, sunduğu belgelerin aslına uygun olduğunu ve gerçeği yansıttığını, verilen bilgilerin doğru olduğunu beyan eder. Başvuruda gerçeğe aykırı belge sunulduğunun belirlenmesi durumunda başvuru reddedilir, tesis belgelendirilmiş ise belgesi iptal edilir ve bu belgeleri sunanlar hakkında 26/9/2004 tarihli ve 5237 sayılı Türk Ceza Kanunu uyarınca suç duyurusunda bulunulur.
