@@ -1,0 +1,41 @@
+{
+  "id": "presidency-regulation-8610782",
+  "number": "8610782",
+  "kind": "regulation",
+  "issuer": "presidency",
+  "title": "MÜLKİ İDARE AMİRLERİ ATAMA, DEĞERLENDİRME VE YERDEĞİŞTİRME YÖNETMELİĞİ",
+  "published": "1986-07-16",
+  "enacted": "1986-06-24",
+  "gazette_number": "19166",
+  "in_force": "2026-06-17",
+  "in_force_basis": "Latest source-printed amendment/correction Gazette date: 2026-06-17; official source: [31] 17/6/2026 tarihli ve 33283 sayılı Resmi Gazete’de yayımlanan “Mülki İdare Amirleri Atama, Değerlendirme ve Yerdeğiştirme Yönetmeliğinin Eki Cetvellerde Değişiklik Yapılması Hakkında Tebliğ (Tebliğ No: 2026/1)”in 1 inci maddesiyle, Aydın ilinin “Didim” ilçesinin sınıfı 2 iken 1 şeklinde değiştirilmiştir.",
+  "history": "current-only",
+  "version_label": "oldest version available",
+  "first_law": null,
+  "source": "https://www.mevzuat.gov.tr/anasayfa/MevzuatFihristDetayIframe?MevzuatNo=8610782&MevzuatTur=21&MevzuatTertip=5",
+  "source_sha256": "8fb91bee41833e9600e26b67cf93f7eb5d3583eef779dbfaf63e9b73eaf8f18d",
+  "source_links": [],
+  "missing_components": [],
+  "date_anomalies": [],
+  "images": {
+    "source": 1,
+    "referenced": 0,
+    "omitted": 1
+  },
+  "images_complete": false,
+  "image_inventory": [],
+  "images_omitted": [
+    {
+      "source_ref": "https://www.mevzuat.gov.tr/anasayfa/21.5.8610782_dosyalar/image001.gif",
+      "description": "Official embedded image 1 (source supplies no caption)",
+      "reason": "not extractable",
+      "normative": true,
+      "position": 1,
+      "failure": "Exact source image URL returns an HTML page instead of image bytes",
+      "response_sha256": "012a3bea621affb0713a0ff5b86cc67264fc1db3c86e0b8b15b572b259179068",
+      "response_bytes": 64854
+    }
+  ],
+  "completeness": "pending-images",
+  "text_layout": "article-files"
+}
