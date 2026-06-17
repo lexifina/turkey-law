@@ -1,0 +1,6 @@
+Sanatta yeterlik diploması
+MADDE 33 – (1) AGNO’nun en az 3.00 olması koşulu ile sanatta yeterlik çalışmasında başarılı olan öğrenciye, diğer koşulları da sağlamak kaydıyla Yükseköğretim Kurulu tarafından onaylanan sanat dalının özelliğine göre alanı belirleyen bir diploma verilir. Mezuniyet tarihi, tez sınavı sonrasında yapılan ve başarılı bulunan uygulamalı sınav tarihidir.
+(2) Tez savunmasında başarılı olmak ve diğer koşulları da sağlamak kaydıyla sanatta yeterlik tezinin ciltlenmiş en az üç ve dijital ortamda iki kopyasını tez sınavına giriş tarihinden itibaren bir ay içinde ilgili enstitüye teslim eden ve tezi şekil yönünden uygun bulunan öğrenci sanatta yeterlik diploması almaya hak kazanır. Enstitü yönetim kurulu başvuru üzerine teslim süresini en fazla bir ay daha uzatabilir. Bu koşulları yerine getirmeyen öğrenci koşulları yerine getirinceye kadar diplomasını alamaz, öğrencilik haklarından yararlanamaz ve azami süresinin dolması halinde Üniversite ile ilişiği kesilir.
+(3) İlgili enstitü tarafından tezin tesliminden itibaren üç ay içinde sanatta yeterlik tezinin bir kopyası elektronik ortamda, bilimsel araştırma ve faaliyetlerin hizmetine sunulmak üzere Yükseköğretim Kurulu Başkanlığına gönderilir.
+ALTINCI BÖLÜM
+Öğrenim Ücreti, Kayıt Yenileme, Eğitim-Öğretim, Ders Kayıtları,

@@ -1,0 +1,3 @@
+Tezsiz yüksek lisans öğrencileri için danışman atanması
+MADDE 17 – (Değişik:RG-4/3/2024-32479)
+(1) Tezsiz yüksek lisans programında enstitü anabilim/anasanat dalı başkanlığı her öğrenci için ders seçiminde ve dönem projesinin yürütülmesinde danışmanlık yapacak bir öğretim üyesi veya anabilim/anasanat dalları tarafından belirlenen nitelikleri taşıyan doktora derecesine sahip bir öğretim üyesi en geç birinci yarıyılın sonuna kadar öğrenci danışmanı olarak belirler. Danışman atanıncaya kadar öğrenciye anabilim/anasanat dalı başkanı danışmanlık yapar. Tezsiz yüksek lisans programında sunulan tezde intihal oranı %20’yi geçemez.

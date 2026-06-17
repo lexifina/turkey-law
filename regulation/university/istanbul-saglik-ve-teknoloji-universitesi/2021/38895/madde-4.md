@@ -1,0 +1,23 @@
+Tanımlar
+MADDE 4 – (1) Bu Yönetmelikte geçen;
+a) AGNO: Ağırlıklı genel not ortalamasını,
+b) AKTS: Avrupa Kredi ve Transfer Sistemini,
+c) ALES: Akademik Personel ve Lisansüstü Eğitimi Giriş Sınavını,
+ç) Anabilim/anasanat dalı: 3/3/1983 tarihli ve 17976 sayılı Resmî Gazete’de yayımlanan Lisans Üstü Eğitim Öğretim Enstitülerinin Teşkilât ve İşleyiş Yönetmeliğinin 5 inci maddesinde Enstitü için tanımlanan ve Enstitüde eğitim programı bulunan anabilim/anasanat dalını,
+d) Enstitü anabilim/anasanat dalı başkanı: Lisans Üstü Eğitim Öğretim Enstitülerinin Teşkilât ve İşleyiş Yönetmeliğinin 5 inci maddesinde tanımlanan ve Enstitüde eğitim programı bulunan anabilim dalının başkanını,
+e) Enstitü Kurulu: Enstitü bünyesindeki anabilim/anasanat dalı program koordinatörlerinden oluşan kurulu,
+f) Enstitü müdürü: İlgili enstitü müdürünü,
+g) İntihal: Başkalarının fikirlerini, metotlarını, verilerini veya eserlerini bilimsel kurallara uygun biçimde atıf yapmadan kısmen veya tamamen kendi eseri gibi göstermeyi,
+ğ) Mütevelli Heyet: İstanbul Sağlık ve Teknoloji Üniversitesi Mütevelli Heyetini,
+h) ÖSYM: Ölçme, Seçme ve Yerleştirme Merkezi Başkanlığını,
+ı) Program Koordinatörü: Üniversitenin lisansüstü programlarını yürütmek üzere enstitü müdürü tarafından enstitü anabilim/anasanat dalı başkanının görevlerini yürütmek üzere atanan lisansüstü programlarla ilgili tüm akademik işlerden sorumlu ve yetkili kişiyi,
+i) Rektör: İstanbul Sağlık ve Teknoloji Üniversitesi Rektörünü,
+j) Senato: İstanbul Sağlık ve Teknoloji Üniversitesi Senatosunu,
+k) Temel tıp puanı: Tıpta Uzmanlık Eğitimi Giriş Sınavında temel tıp bilimleri Testi-1 bölümünden elde edilen standart puanın 0,7; klinik tıp bilimleri testinden elde edilen standart puanın 0,3 ile çarpılarak toplanması ile elde edilen puanı,
+l) Tez izleme komitesi: Doktora programında kayıtlı öğrencinin tez çalışmasını izleyen komiteyi,
+m) TUS: Tıpta Uzmanlık Eğitimi Giriş Sınavını,
+n) Üniversite: İstanbul Sağlık ve Teknoloji Üniversitesini,
+o) Yabancı Dil Sınavı: Yükseköğretim Kurulu tarafından kabul edilen merkezî yabancı dil sınavları ile bu sınavlarla eşdeğerliği kabul edilen uluslararası yabancı dil sınavlarını,
+ö) YÖK: Yükseköğretim Kurulunu,
+p) Yönetim Kurulu: İlgili enstitü yönetim kurulunu,
+ifade eder.

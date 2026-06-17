@@ -1,0 +1,6 @@
+Sınavlar ve Değerlendirme
+Bilimsel hazırlık programına öğrenci kabulü
+MADDE 34 – (1) Yüksek lisans ve doktora programlarına kabul edilen öğrencilerden lisans veya yüksek lisans derecesini kabul edildikleri yüksek lisans veya doktora programından farklı alanlarda almış olanlar ile lisans veya yüksek lisans derecesini Üniversite dışındaki bir yükseköğretim kurumundan almış olan yüksek lisans veya doktora programı adayları için eksikliklerini gidermek amacıyla bilimsel hazırlık programı uygulanabilir.
+(2) Bilimsel hazırlık programında alınması zorunlu dersler, ilgili lisansüstü programını tamamlamak için gerekli görülen derslerin yerine geçemez. Ancak bilimsel hazırlık programındaki bir öğrenci, bilimsel hazırlık derslerinin yanı sıra ilgili enstitü anabilim/anasanat dalı başkanlığının önerisi ve enstitü yönetim kurulunun onayı ile lisansüstü programa yönelik dersler de alabilir.
+(3) Bilimsel hazırlık programında danışman öğretim üyesi onayı ile en az iki ders alınabilir; öğrenci bu derslere devam etmek ve başarılı olmak zorundadır.
+(4) Bilimsel hazırlık programında geçirilecek süre en çok iki yarıyıldır. Yaz öğretimi bu süreye dâhil edilmez. Bu süre dönem izinleri dışında uzatılamaz ve süre sonunda başarılı olamayan öğrencinin ilişiği kesilir. Bu programda geçirilen süre yüksek lisans veya doktora programı sürelerine dâhil edilmez.

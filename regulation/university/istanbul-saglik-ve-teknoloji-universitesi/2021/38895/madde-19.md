@@ -1,0 +1,12 @@
+DÖRDÜNCÜ BÖLÜM
+Doktora Programı
+Genel esaslar
+MADDE 19 – (1) Doktora programı, öğrenciye bağımsız araştırma yapma, bilimsel problemleri, verileri geniş ve derin bir bakış açısı ile irdeleyerek yorum yapma, analiz etme ve yeni sentezlere ulaşmak için gerekli becerileri kazandırır.
+(2) Doktora programlarına lisans öğretimine veya tezli yüksek lisans öğretimine dayalı olarak iki statüde öğrenci kabul edilir. Lisans öğretimine dayalı doktora programına bütünleşik doktora programı denir.
+(3) Doktora programı, tezli yüksek lisans derecesi ile kabul edilmiş öğrenciler için toplam yirmi bir krediden ve bir eğitim-öğretim dönemi, güz ve bahar yarıyıllarını kapsayan iki dönem için 60 AKTS olmak koşuluyla en az yedi ders, seminer, yeterlik sınavı, tez önerisi ve tez çalışması olmak üzere en az 240 AKTS kredisinden oluşur. Lisans derecesi ile kabul edilmiş öğrenciler için de en az 42 kredilik 14 ders, seminer, yeterlik sınavı, tez önerisi ve tez çalışması olmak üzere toplam en az 300 AKTS kredisinden oluşur.
+(4) Doktora programlarında ilgili enstitü anabilim/anasanat dalı koordinatörünün önerisi ve enstitü yönetim kurulu onayı ile diğer yükseköğretim kurumlarında verilmekte olan derslerden yüksek lisans derecesi ile kabul edilmiş öğrenciler için en fazla iki, lisans derecesiyle kabul edilmiş öğrenciler için en fazla dört ders seçilebilir.
+(5) Lisans dersleri ders yüküne ve doktora kredisine sayılmaz.
+(6) Üniversitenin ilgili programda ikinci öğretim eğitimi olsa dahi doktora programları ikinci öğretim lisansüstü programı olarak açılamaz.
+(7) Doktora çalışması sonunda hazırlanacak tezin, bilime yenilik getirme, yeni bir bilimsel yöntem geliştirme, bilinen bir yöntemi yeni bir alana uygulama niteliklerinden en az birini yerine getirmesi gerekir.
+(8) (Ek:RG-25/10/2025-33058) Lisans diplomasıyla doktora programına gelenler için (tıp, diş, eczacılık, veterinerlik ve benzeri) giriş notunun belirlenmesinde; ALES puanının %50’si, lisans not ortalamasının %25’i, yabancı dil puanının %10’u, mülakat notunun %15’i toplanır. Programa kabul edilebilmek için giriş notunun en az 75 olması gerekir.
+(9) (Ek:RG-25/10/2025-33058) Yüksek lisans diplomasıyla doktora programına gelenler için giriş notunun belirlenmesinde; ALES puanının %50’si, lisans not ortalamasının %15’i, yüksek lisans not ortalamasının %10’u, yabancı dil puanının %10’u, mülakat notunun %15’i toplanır. Programa kabul edilebilmek için giriş notunun en az 75 olması gerekir.

@@ -1,0 +1,5 @@
+ÜÇÜNCÜ BÖLÜM
+Yüksek Lisans Programları
+Yüksek lisans programları
+MADDE 8 – (1) Yüksek lisans programı, tezli ve tezsiz olmak üzere iki şekilde yürütülebilir. Öğrencilerin Üniversite tezli ve tezsiz yüksek lisans programları arasında geçiş yapmaları bu Yönetmelik ve ilgili mevzuatta belirlenen yatay geçiş kuralları çerçevesinde yapılır.
+(2) Öğretim elemanı ve öğrencilerin aynı mekânda bulunma zorunluluğu olmaksızın, bilgi ve iletişim teknolojilerine dayalı olarak öğretim faaliyetlerinin planlandığı ve yürütüldüğü lisansüstü uzaktan öğretim programları açılabilir. Uzaktan öğretim programlarının açılabileceği alanlar, uzaktan öğretim yoluyla verilecek dersler ve kredi ile AKTS kredi miktarları, ders materyallerinin hazırlanması, sınavlarının yapılma şekli, başka yükseköğretim kurumları arasında yapılacak protokoller ile uzaktan öğretime ilişkin diğer hususlarda 20/4/2016 tarihli ve 29690 sayılı Resmî Gazete’de yayımlanan Lisansüstü Eğitim ve Öğretim Yönetmeliğinin 4 üncü maddesinin ikinci fıkrası hükümleri uygulanır.
