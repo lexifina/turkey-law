@@ -1,0 +1,20 @@
+{
+  "applicant": "A.M.",
+  "application_date": "2026-04-24",
+  "application_number": "2026/18596",
+  "deciding_unit": "İkinci Bölüm",
+  "decision_date": "2026-06-18",
+  "id": "15172650-07d1-40ae-8c56-229c2d60cfdc",
+  "in_force": "2026-06-18",
+  "in_force_basis": "official decision date",
+  "kind": "constitutional-court-individual-application",
+  "omitted_images": 0,
+  "outcome": "Esas (İhlal)",
+  "published": null,
+  "referenced_images": 0,
+  "source": "https://kararlarbilgibankasi.anayasa.gov.tr/kbb/pages/search/Tumu?id=a2JiOjE1MTcyNjUwLTA3ZDEtNDBhZS04YzU2LTIyOWMyZDYwY2ZkYw&type=BireyselBasvuru",
+  "source_api": "https://kararlarbilgibankasi.anayasa.gov.tr/api/core/public/search",
+  "source_images": 0,
+  "source_sha256": "59fd4aa6c9b6bd6ce2e0711e02f4d4c2fcbb0de0ba8473f94d4866d88622d1c8",
+  "version_label": "as-enacted"
+}
