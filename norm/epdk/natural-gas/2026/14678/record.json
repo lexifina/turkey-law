@@ -1,0 +1,25 @@
+{
+  "kind": "norm",
+  "issuer": "Enerji Piyasası Düzenleme Kurumu",
+  "market": "natural-gas",
+  "document_type": "board-decision",
+  "number": "14678",
+  "decision_date": "2026-06-18",
+  "title": "Aksa Şanlıurfa Doğal Gaz Dağıtım Anonim Şirketi’nin 2022-2026 yılları arası perakende satış tarifelerine yönelik",
+  "resmi_gazete_date": "2026-06-20",
+  "resmi_gazete_number": "33286",
+  "categories": [
+    "Şirket Bazında Kararlar"
+  ],
+  "source": "https://www.epdk.gov.tr/Detay/DownloadDocument?id=Hx3KZ3B3qpk=",
+  "documents": [
+    "https://www.epdk.gov.tr/Detay/DownloadDocument?id=Hx3KZ3B3qpk="
+  ],
+  "source_sha256": "f7329e92c864e52dde584ddbea4b64f91542144e3aa7491d902e83a401068e27",
+  "official_list": "https://www.epdk.gov.tr/Detay/Icerik/3-0-19/kurul-kararlari",
+  "official_list_leaf": 7236,
+  "text_status": "as-enacted",
+  "text_file": "metin.md",
+  "in_force": "2026-06-18",
+  "law_text_complete": true
+}
