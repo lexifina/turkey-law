@@ -1,0 +1,4 @@
+Süre uzatımı
+GEÇİCİ MADDE 2 – (Ek:RG-3/10/2020-31263)
+(1) Bu maddenin yayımı tarihinden önce 2017 ve 2018 yılları içerisinde ilk filmini gerçekleştirecek yönetmen ve uzun metrajlı kurgu film yapım türlerinde desteklenen projelerin teslim, sinema salonu gösterim ve geri ödeme süreleri imzalanan destek sözleşmelerinde belirtilen tarihten itibaren on sekiz ay uzatılmıştır.
+(2) (Ek:RG-17/11/2023-32372) Bu fıkranın yayımı tarihinden önce 2019, 2020 ve 2021 yılları içerisinde ilk uzun metrajlı kurgu film yapım, uzun metrajlı sinema film yapım, ortak yapım ve çekim sonrası desteği türlerinde destek alanlardan mücbir sebep kaynaklı olarak bu Yönetmelikte belirtilen yükümlülüklerini süresinde yerine getiremeyenlerin başvurmaları halinde, Destekleme Kurulu tarafından yükümlülük sürelerinin yirmi dört ayı aşmayacak şekilde uzatılmasına karar verilebilir.

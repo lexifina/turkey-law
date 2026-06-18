@@ -1,0 +1,7 @@
+BEŞİNCİ BÖLÜM
+Etkinlik ve Projeler ile Sinema Sanatçılarının Desteklenmesi
+Etkinlik ve proje, sinema sanatçısı ve sinema donanım desteği
+MADDE 26 – (1) (Değişik:RG-19/6/2025-32931) Etkinlik ve proje desteği; sinema alanındaki film festivallerine, film günlerine, arşiv çalışmalarına, sempozyumlara, sinema sektöründe film yapım, yönetim, dağıtım ve gösterime ilişkin eğitim programlarına, etkinlik, proje ve faaliyetlere, bu alanda verilecek ödüllere, uluslararası festivallere ve yarışmalara katılım ile bunlara ilişkin tanıtım faaliyetlerine verilen destektir.
+(2) Sinema sanatçısı desteği; sinema alanında faaliyet gösteren meslek örgütlerinden bu alanda çalıştığını belgeleyen ihtiyaç sahibi sinema sanatçılarına veya sinema sektörü çalışanlarına sağlık, bakım ve rehabilitasyon giderlerinin karşılanması için verilen destektir.
+(3) Sinema donanım desteği; kamu kurum, kuruluş ve kamu tüzel kişilerine, yapımı tamamlanmış en az yüz koltuk kapasiteli sinema salonlarında düzenli gösterim yapılması kaydıyla sinema projektörü, ses sistemi, sinema perdesi ve Genel Müdürlükçe uygun görülen diğer ekipmanların temini için verilen destektir. (Ek cümle:RG-19/6/2025-32931) Bu fıkra kapsamında destek alanlar, Genel Müdürlük tarafından kurulan sinema bilet sistemine kayıt yaptırarak film gösterimine ilişkin verilerin girişini düzenli olarak yapmakla yükümlüdür.
+(4) Başvurular, Bakanlıkça belirlenen başvuru formu ve belgelerin Genel Müdürlüğe iletilmesi suretiyle yapılır.

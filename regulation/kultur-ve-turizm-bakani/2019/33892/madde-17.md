@@ -1,0 +1,6 @@
+Senaryo ve diyalog yazım desteği
+MADDE 17 – (1) Başvuruda belirtilen toplam bütçenin tamamı desteklenebilir.
+(2) Destek tutarının %50’si destek sözleşmesinin imzalanmasından sonra ödenir. Kalan %50’si projenin tamamlanarak teslimi ve inceleme ve kabul komisyonunca kabul edilmesi ile destek alınan tutar kadar fatura ya da fatura veya fatura yerine geçen belgeleri düzenlemek zorunda olmayanlarca düzenlenen harcama pusulasının tesliminden sonra ödenir.
+(3) Destek alanın yeni bir destek başvurusunda bulunabilmesi için tüm yükümlülüklerini yerine getirmiş olması gerekir.
+(4) İki defa senaryo ve diyalog yazım desteği alanların aynı destek türünde tekrar başvuruda bulunabilmeleri için destek alan projelerden en az birinin filme çekilmiş olması gerekir.
+(5) Destek alan, projesi ile ilgili tüm yükümlülüklerini sözleşme imzalanma tarihinden itibaren yirmi dört ay içerisinde yerine getirir.

@@ -1,0 +1,2 @@
+Geçiş hükmü
+GEÇİCİ MADDE 1 – (1) 5224 sayılı Kanunu değiştiren 18/1/2019 tarihli ve 7163 sayılı Sinema Filmlerinin Değerlendirilmesi ve Sınıflandırılması ile Desteklenmesi Hakkında Kanunda Değişiklik Yapılmasına Dair Kanunun yayımı tarihinden sonra ve bu Yönetmeliğin yayımı tarihinden önce Kurul tarafından desteklenen projelere bu Yönetmeliğin 11 inci maddesinin birinci fıkrası hariç olmak üzere ilgili hükümleri uygulanır.

@@ -1,0 +1,4 @@
+Desteğin ödenmesi
+MADDE 12 – (1) Destek tutarı, her destek türü için bu Yönetmelikte belirtilen ödeme dilimleri esas alınarak ödenir. Bakanlıkça uygun görülmesi halinde ödeme dilimlerinde değişiklik yapılabilir.
+(2) (Değişik: RG-7/2/2025-32806) Uzun metrajlı sinema film yapım destek türünde destek almış olanların aynı türde yeni bir proje için yaptığı başvurunun Kurul tarafından uygun görülmesi halinde yeni proje destek tutarının ilk dilimi ancak önceki projesinin gösterim yükümlülüğünün gerçekleştirilmesi halinde ödenir.
+(3) (Ek :RG-28/1/2021-31378) (Değişik:RG-19/6/2025-32931) Bu Yönetmelikte yer alan destek türlerinde, destek tutarının tamamının tek seferde ödenebilmesi için 6183 sayılı Kanunun 10 uncu maddesinin birinci fıkrasının (2) numaralı bendine uygun ve destek tutarı kadar teminat gösterilmesi gereklidir.
