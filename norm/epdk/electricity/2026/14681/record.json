@@ -1,0 +1,25 @@
+{
+  "kind": "norm",
+  "issuer": "Enerji Piyasası Düzenleme Kurumu",
+  "market": "electricity",
+  "document_type": "board-decision",
+  "number": "14681",
+  "decision_date": "2026-06-18",
+  "title": "12/6/2026 tarihli ve 11415 sayılı Cumhurbaşkanı Kararı kapsamındaki yenilenebilir enerji kaynaklarına dayalı lisanssız üretim faaliyetine devam eden elektrik üretim tesislerine ilişkin",
+  "resmi_gazete_date": "2026-06-20",
+  "resmi_gazete_number": "33286",
+  "categories": [
+    "Lisanssız Elektrik Üretimine İlişkin Kurul Kararı"
+  ],
+  "source": "https://www.epdk.gov.tr/Detay/DownloadDocument?id=KJfUMgpWXW0=",
+  "documents": [
+    "https://www.epdk.gov.tr/Detay/DownloadDocument?id=KJfUMgpWXW0="
+  ],
+  "source_sha256": "55190a4939d66e7ae259e6e43cdd087536aa99e739cae3c8c6cab15df3ee8902",
+  "official_list": "https://www.epdk.gov.tr/Detay/Icerik/3-0-39/kurul-kararlari-",
+  "official_list_leaf": 33881,
+  "text_status": "as-enacted",
+  "text_file": "metin.md",
+  "in_force": "2026-06-18",
+  "law_text_complete": true
+}
