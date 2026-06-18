@@ -1,0 +1,4 @@
+Değerlendirme ve Sınıflandırma Kurulu
+MADDE 7– (1) Değerlendirme ve Sınıflandırma Kurulu; Bakanlık ile İçişleri ve Milli Eğitim Bakanlıklarından birer üye, ilgili alan meslek birliklerince önerilen uzman kişiler arasından Bakanlıkça seçilecek üç üye ile Bakanlık tarafından belirlenecek, alanında doktora derecesi bulunan bir sosyolog, bir psikolog ve bir çocuk gelişimi uzmanı olmak üzere toplam dokuz üyeden oluşur. Üye sayısı kadar yedek üye belirlenir.
+(2) Değerlendirme ve Sınıflandırma Kurulu üyelerinin görev süresi iki yıldır. Meslek birlikleri temsilcileri iki dönem üst üste seçilemezler.
+(3) Bakanlık temsilcisi Değerlendirme ve Sınıflandırma Kurulunun başkanıdır. Değerlendirme ve Sınıflandırma Kurulu, en az altı üyenin katılımıyla toplanır ve en az beş üyenin aynı yöndeki oyuyla karar alır.

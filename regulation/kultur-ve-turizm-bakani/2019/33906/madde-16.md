@@ -1,0 +1,26 @@
+Sinema biletleri
+MADDE 16 – (1) Sinema salonu işletmecileri ya da sinema bileti satan diğer gerçek veya tüzel kişiler indirimli bilet fiyatlandırmaları hariç olmak üzere sinema biletini içeren abonelik, promosyon, kampanya ve toplu satış faaliyetleri gerçekleştiremez. Yapımcı veya dağıtımcıdan yazılı onay almak kaydıyla (Değişik ibare:RG-20/10/2021-31634) kamu kurum ve kuruluşları ile kamu tüzel kişileri tarafından satın alınan biletler toplu satış, kampanya ve promosyon olarak değerlendirilmez. Bilet satış bedelini etkilemeyen, ücretsiz giriş hakkı sağlamayan üyelik kartı uygulamaları abonelik olarak değerlendirilmez.
+(2) İndirimli bilet türleri aşağıda yer almaktadır:
+a) Belirli yaş ve üzeri bileti: Sinema salonu işletmecileri ile filmin yapımcısı veya dağıtımcısı arasında yapılan sözleşmelerde belirlenen yaş ve üzerindeki izleyiciler için satılan bilettir.
+b) Engelli bileti: 19/7/2008 tarihli ve 26941 sayılı Resmî Gazete’de yayımlanan Özürlüler Veri Tabanı Oluşturulmasına ve Özürlülere Kimlik Kartı Verilmesine Dair Yönetmelik kapsamında kart sahibi olan engelliler için satılan bilettir.
+c) Şehit yakını ve gazi bileti: 4/3/2014 tarihli ve 28931 sayılı Resmî Gazete’de yayımlanan Ücretsiz veya İndirimli Seyahat Kartları Yönetmeliğinin 4 üncü maddesinin birinci fıkrasının (a), (b) ve (c) bentleri uyarınca kart sahibi olan şehit yakınları ve gaziler için satılan bilettir.
+ç) Halk günü bileti: Sinema salonu işletmecileri tarafından haftada en fazla iki gün olmak üzere belirlenen günlerde satılan bilettir.
+d) İnternet bileti: İnternet üzerinden çevrimiçi olarak satılan bilettir.
+e) Kamu meslek grubu bileti: Sinema salonu işletmecileri ile kamu kurumları arasında yapılan protokoller ile belirlenen kamu personeli için satılan bilettir.
+f) Öğrenci bileti: Temel eğitim, ortaöğretim ve yükseköğretim kurumlarında eğitim gören öğrencilere satılan bilettir.
+g) Sabah seansı bileti: Gösterimi saat 12:30 ve öncesinde başlayan seanslar için satılan bilettir.
+ğ) (Ek:RG-15/2/2024-32461) Kurum bileti: Bakanlığın belirleyeceği sinema salonu işletmecisi derneklerinin ve yapımcı meslek birliklerinin yetkilendireceği gerçek veya tüzel kişiler ile diğer gerçek veya tüzel kişiler arasında yapılan sözleşmeler çerçevesinde satılan bilettir.
+h) (Ek:RG-15/2/2024-32461) İzleyici özel bileti: Sinema salonu işletmecisi tarafından belirlenen sayıda biletin alınması kaydıyla satılan bilet ile Bakanlığın belirleyeceği sinema salonu işletmecisi dernekleri tarafından belirlenen ve Bakanlıkça uygun bulunan özel günlerde satılan bilettir.
+ı) (Ek:RG-18/6/2026-33284) Film özel bileti: Film yapımcısı ile diğer gerçek veya tüzel kişiler arasında yapılan sözleşmeler çerçevesinde ilgili film için satılan bilettir.
+(3) (Değişik:RG-18/6/2026-33284) İndirimli bilet türlerinden;
+a) Belirli yaş üzeri, kamu meslek grubu, halk günü ve öğrenci bileti; sinema salonu işletmecileri tarafından belirlenen tam bilet fiyatının %40’ına kadar indirim uygulanarak,
+b) Engelli bileti, şehit yakınları ve gazi bileti, sabah seansı bileti, kurum bileti ve izleyici özel bileti; sinema salonu işletmecileri tarafından belirlenen tam bilet fiyatının %50’sine kadar indirim uygulanarak,
+c) İnternet bileti; sinema salonu işletmecileri tarafından belirlenen tam bilet fiyatı üzerinden yapılan diğer indirimlere ek olarak %10’una kadar indirim uygulanarak,
+ç) Film özel bileti; sinema salonu işletmecileri tarafından belirlenen tam bilet fiyatı üzerinden %70’i aşmayan oranda indirim uygulanarak sabit bir fiyattan,
+satılabilir. İndirim oranları ve sabit fiyatlar, sinema salonu işletmecisi ile filmin yapımcısı veya dağıtımcısı arasında yapılacak sözleşme ile belirlenir.
+(4) Sinema salonu işletmecileri, yapımcılar ve dağıtımcılar satılan yıllık toplam bilet sayısının ve her bir film için satılan toplam bilet sayısının %2’sini geçmemek üzere ücretsiz ağırlama yapabilir.
+(5) Sinema salonu işletmecileri ya da sinema filmi bileti satan diğer gerçek veya tüzel kişiler, sinema filmi bileti ile birlikte başka bir ürünün satışını aynı anda yapamaz, sinema biletini başka bir ürün veya hizmetin satın alınması şartına bağlayamaz.
+(6) Beşinci fıkra haricindeki hükümler, film festivalleri için gerçekleştirilecek bilet satışlarında uygulanmaz.
+(7) (Ek:RG-15/2/2024-32461) Bu maddenin ikinci fıkrasının (ğ) bendi kapsamında yapılan sözleşmelerde belirtilen tutarın bilete dönüşmeyen kısmının yarısı, ilgili sözleşme kapsamında satılan kurum biletlerinden elde edilen izlenme oranları esas alınarak kurum bileti kesilen filmlerin yapımcıları arasında, diğer yarısı ilgili sözleşme kapsamında satılan kurum biletlerinden elde edilen izlenme oranları esas alınarak bu filmlerin gösterildiği sinema salonu işletmecileri arasında paylaşılır. Paylaşımda Bakanlık tarafından derlenen izleyici verileri esas alınır.
+(8) (Ek:RG-18/6/2026-33284) Bu maddenin ikinci fıkrasının (ı) bendi kapsamındaki biletlerin bilgileri, Bakanlığın belirleyeceği sinema salonu işletmecisi derneklerinin ve yapımcı meslek birliklerinin yetkilendireceği gerçek veya tüzel kişiler tarafından sağlanan altyapı üzerinden Bakanlığa bildirilir.
+(9) (Ek:RG-18/6/2026-33284) Bu maddenin ikinci fıkrasının (ğ) ve (ı) bentlerinde yer alan bilet türleri için yapılacak indirimler ülke genelinde faaliyet gösteren ve katılım sağlayan sinema salonu işletmelerinde geçerli olacak şekilde uygulanır.

@@ -1,0 +1,2 @@
+Kültürel ve sanatsal etkinlikler kapsamında gösterilecek filmler
+MADDE 13 – (1) Değerlendirme ve sınıflandırması yapılmamış olan sinema filmleri; festival, özel gösterim ve benzeri kültürel ve sanatsal etkinliklerde 18+ yaş işareti ile gösterilir. Daha önce Bakanlıkça değerlendirme ve sınıflandırması yapılan filmler, ilgili etkinliklerde aldıkları işaret ve ibarelere uygun olarak gösterilir. Söz konusu etkinliklerde gösterimi yapılacak olan filmlerin taşımaları gereken işaret ve ibarelerin film öncesinde ve her türlü tanıtım ve gösterim alanında kullanılması zorunludur.

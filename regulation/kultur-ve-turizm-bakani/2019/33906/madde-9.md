@@ -1,0 +1,2 @@
+Alt kurul ve Değerlendirme ve Sınıflandırma Kurulu üyelerine yapılacak ödemeler
+MADDE 9 – (1) Değerlendirme ve Sınıflandırma Kurulu üyelerine, yılda on iki toplantıdan fazla olmamak üzere her toplantı için (3000), alt kurulda görev yapan üyelere ise ayda yirmi toplantıdan fazla olmamak üzere her toplantı günü için (1000) gösterge rakamının memur aylık katsayısı ile çarpımı sonucu bulunacak tutar üzerinden toplantı ücreti ödenir.
