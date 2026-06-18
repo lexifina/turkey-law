@@ -1,0 +1,13 @@
+İKİNCİ BÖLÜM
+Yayın Projeleri Değerlendirme Kurulları, Eserlerin
+İncelenmesi ve Değerlendirilmesi
+Yayın Projeleri Değerlendirme Kurullarının oluşturulması
+MADDE 4- (1) Birimlere yayımlanmak üzere başvurusu yapılan eserler ile birimlerce hazırlanan yayım projelerini değerlendirmek ve karara bağlamak, yayım sürecine ilişkin ilke kararları almak üzere birimlerin teklifi ve Bakan Oluru ile birimler tarafından kendi görev alanlarıyla ilgili Yayın Projeleri Değerlendirme Kurulları oluşturulur ve üyeleri belirlenir.
+(2) Yayın Projeleri Değerlendirme Kurulları üyeleri, birimlerin görev ve faaliyet alanları ile ilgili Bakanlık dışından uzmanlardan seçilir. Genel Müdür/Başkan ve birimlerin yayımlardan sorumlu daire başkanı kurulun daimî üyesidir. Yayın Projeleri Değerlendirme Kurulları, Bakanlık dışından uzmanlardan seçilen beş üye ile daimî üyeler dahil toplam yedi üyeden oluşur. Genel Müdür/Başkan, Kurula başkanlık eder.
+(3) Kurul üyeleri, birimlerin teklifi ve Bakan Oluru ile üç yıl için görevlendirilir. Kurul üyeleri tekrar görevlendirilebilir. Kurulun Bakanlık dışından seçilen üyelerinin herhangi bir nedenle üyeliğinin düşmesi hâlinde yerine yeni üye görevlendirilir. Yeni üye yerine seçildiği üyenin görev süresini tamamlar. Daimî üyelerin asli görevleri sona erdiğinde Kurul üyelikleri de kendiliğinden sona erer.
+(4) Yayın Projeleri Değerlendirme Kurulları, birimlerin yayımlardan sorumlu daire başkanlığının hazırlayacağı gündem ve takvimle üye tam sayısının salt çoğunluğu ile toplanır. Kararlarını toplantıya katılan üye sayısının salt çoğunluğu ile alır. Oyların eşitliği hâlinde Kurul Başkanının oyu yönünde karar alınır.
+(5) Kurulun sekretarya ve raportörlük görevi, birimlerin yayımlardan sorumlu daire başkanlığınca yürütülür.
+(6) Yayın Projeleri Değerlendirme Kurulları yılda bir defa ve gerekli görülen hâllerde en fazla üç defa olmak üzere toplanabilir.
+(7) Yayın Projeleri Değerlendirme Kurulları aşağıdaki kurullardan teşekkül eder:
+a) Bakanlığın “Millî kültürümüzün yazılı belgelerini, fikir, sanat ve edebi eserler ile turizm ve tanıtım amaçlı yayınlar hazırlatarak yayımlamak ve yayımlatmak” görevi kapsamında, Bakanlığın yayın projelerini ve Kütüphaneler ve Yayımlar Genel Müdürlüğüne yapılan yayın başvurularını değerlendirmek üzere teşkil edilen Kütüphaneler ve Yayımlar Genel Müdürlüğü Yayın Projeleri Değerlendirme Kurulu.
+b) Alevi-Bektaşiliğin tüm yönleriyle, sosyal ve beşerî bilimler bütünlüğü içinde ele alınmasına yönelik Alevi-Bektaşi Kültür ve Cemevi Başkanlığı yayın projelerini ve Alevi-Bektaşi Kültür ve Cemevi Başkanlığına yapılan yayın başvurularını değerlendirmek üzere teşkil edilen Alevi-Bektaşi Kültür ve Cemevi Başkanlığı Yayın Projeleri Değerlendirme Kurulu.
