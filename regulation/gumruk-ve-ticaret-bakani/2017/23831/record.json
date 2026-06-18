@@ -1,0 +1,71 @@
+{
+  "source_id": "7.5.23831",
+  "kind": "regulation",
+  "register_kind": "Kurum ve Kuruluş Yönetmelikleri",
+  "title": "GÜMRÜKSÜZ SATIŞ MAĞAZALARI YÖNETMELİĞİ",
+  "number": "23831",
+  "issuer": "Gümrük ve Ticaret Bakanı",
+  "issuer_slug": "gumruk-ve-ticaret-bakani",
+  "path": "regulation/gumruk-ve-ticaret-bakani/2017/23831",
+  "source": "https://www.mevzuat.gov.tr/anasayfa/MevzuatFihristDetayIframe?MevzuatTur=7&MevzuatNo=23831&MevzuatTertip=5",
+  "source_sha256": "ba4732eb8fd8a189efd3be929d4ac0bc430ffa762a06b0ad593eecd1e0e47b33",
+  "source_bytes": 131824,
+  "published": "2017-08-08",
+  "gazette": "30148",
+  "in_force": "2026-06-18",
+  "in_force_basis": "latest Resmî Gazete date printed in the source amendment notes/table (\"RG-18/6/2026\") for the current consolidated text",
+  "date_evidence": [
+    [
+      "2026-06-18",
+      "RG-18/6/2026",
+      "Resmî Gazete date printed in the source amendment note"
+    ],
+    [
+      "2026-06-18",
+      "18/6/2026",
+      "Resmî Gazete date in the source amendment table"
+    ],
+    [
+      "2023-04-20",
+      "RG-20/4/2023",
+      "Resmî Gazete date printed in the source amendment note"
+    ],
+    [
+      "2023-04-20",
+      "20/4/2023",
+      "Resmî Gazete date in the source amendment table"
+    ],
+    [
+      "2021-06-19",
+      "19/6/2021",
+      "Resmî Gazete date in the source amendment table"
+    ],
+    [
+      "2018-02-14",
+      "RG-14/2/2018",
+      "Resmî Gazete date printed in the source amendment note"
+    ],
+    [
+      "2018-02-14",
+      "14/2/2018",
+      "Resmî Gazete date in the source amendment table"
+    ]
+  ],
+  "commencement_clauses": [
+    "Bu Yönetmelik yayımlandıktan 30 gün sonra yürürlüğe girer"
+  ],
+  "history": "current-text",
+  "label": "oldest version available",
+  "checked_on": "2026-11-15",
+  "word_count": 7836,
+  "text_status": "current-consolidated",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  },
+  "source_links": [
+    "7.5.23831-Ek.docx"
+  ],
+  "completeness": "html-text-complete; linked annexes not fetched"
+}
