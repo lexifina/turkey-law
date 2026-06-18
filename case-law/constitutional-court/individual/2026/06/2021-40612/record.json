@@ -1,0 +1,20 @@
+{
+  "applicant": "L.D.",
+  "application_date": "2021-09-10",
+  "application_number": "2021/40612",
+  "deciding_unit": "İkinci Bölüm",
+  "decision_date": "2026-06-18",
+  "id": "c33a0416-6552-4a0a-9b79-d184dce91810",
+  "in_force": "2026-06-18",
+  "in_force_basis": "official decision date",
+  "kind": "constitutional-court-individual-application",
+  "omitted_images": 0,
+  "outcome": "Esas (İhlal Olmadığı)",
+  "published": null,
+  "referenced_images": 0,
+  "source": "https://kararlarbilgibankasi.anayasa.gov.tr/kbb/pages/search/Tumu?id=a2JiOmMzM2EwNDE2LTY1NTItNGEwYS05Yjc5LWQxODRkY2U5MTgxMA&type=BireyselBasvuru",
+  "source_api": "https://kararlarbilgibankasi.anayasa.gov.tr/api/core/public/search",
+  "source_images": 0,
+  "source_sha256": "a608ac2b3390e15689b9a00f45e9f4bb7d762df8fab0ede2de5ebb4da9160686",
+  "version_label": "as-enacted"
+}
