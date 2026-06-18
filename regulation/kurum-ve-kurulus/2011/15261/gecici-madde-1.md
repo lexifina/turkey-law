@@ -1,0 +1,6 @@
+Geçiş hükümleri
+GEÇİCİ MADDE 1 – (Ek:RG-20/8/2013-28741)
+(1) 28/3/2013 tarihli ve 6455 sayılı Gümrük Kanunu ile Bazı Kanun ve Kanun Hükmünde Kararnamelerde Değişiklik Yapılmasına Dair Kanun ile Kaçakçılıkla Mücadele Kanununda yer alan kabahat ve diğer bazı fiillerin Kanuna aktarılması nedeniyle, adli makamlarca gereği yapılmak üzere gümrük idaresine gönderilen dosyalarla ilgili olarak;
+a) Yükümlü tarafından Kanunun 242 nci maddesi kapsamında itiraz yoluna başvurulmamış olması şartıyla, gümrük idaresinin söz konusu dosyalarla ilgili Kanun kapsamında önceden karar vermiş olduğu durumlarda iki dosya beraber değerlendirilerek her iki dosyayı kapsayacak yeni bir karar,
+b) Gümrük idaresinin daha önce Kanuna göre herhangi bir karar vermediği durumlarda bu dosya üzerinden karar,
+verilir. Bu durumda, yükümlü, Kanunun 242 nci maddesine göre itiraz veya 13/2/2011 tarihli ve 6111 sayılı Bazı Alacakların Yeniden Yapılandırılması ile Soyal Sigortalar ve Genel Sağlık Sigortası Kanunu ve Diğer Bazı Kanun ve Kanun Hükmünde Kararnamelerde Değişiklik Yapılması Hakkında Kanunun 137 nci maddesi uyarınca oluşturulan gümrük uzlaşma müessesesinin yürürlüğe girdiği tarih itibariyle geçerli olmak üzere Kanunun 244 üncü maddesine göre uzlaşma hakkından yararlanabilir.

@@ -1,0 +1,85 @@
+{
+  "source_id": "7.5.15261",
+  "kind": "regulation",
+  "register_kind": "Kurum ve Kuruluş Yönetmelikleri",
+  "title": "GÜMRÜK UZLAŞMA YÖNETMELİĞİ",
+  "number": "15261",
+  "issuer_slug": "kurum-ve-kurulus",
+  "path": "regulation/kurum-ve-kurulus/2011/15261",
+  "source": "https://www.mevzuat.gov.tr/anasayfa/MevzuatFihristDetayIframe?MevzuatTur=7&MevzuatNo=15261&MevzuatTertip=5",
+  "source_sha256": "6266fbe3171fbe8857177028622642bc0f480be6affd8abcfc72adb037874d3d",
+  "source_bytes": 79652,
+  "published": "2011-08-27",
+  "gazette": "28038",
+  "in_force": "2026-06-18",
+  "in_force_basis": "latest Resmî Gazete date printed in the source amendment notes/table (\"RG-18/6/2026\") for the current consolidated text",
+  "date_evidence": [
+    [
+      "2026-06-18",
+      "RG-18/6/2026",
+      "Resmî Gazete date printed in the source amendment note"
+    ],
+    [
+      "2026-06-18",
+      "18/6/2026",
+      "Resmî Gazete date in the source amendment table"
+    ],
+    [
+      "2023-12-02",
+      "RG-2/12/2023",
+      "Resmî Gazete date printed in the source amendment note"
+    ],
+    [
+      "2023-12-02",
+      "2/12/2023",
+      "Resmî Gazete date in the source amendment table"
+    ],
+    [
+      "2020-01-14",
+      "RG-14/1/2020",
+      "Resmî Gazete date printed in the source amendment note"
+    ],
+    [
+      "2020-01-14",
+      "14/1/2020",
+      "Resmî Gazete date in the source amendment table"
+    ],
+    [
+      "2013-08-20",
+      "RG-20/8/2013",
+      "Resmî Gazete date printed in the source amendment note"
+    ],
+    [
+      "2013-08-20",
+      "20/8/2013",
+      "Resmî Gazete date in the source amendment table"
+    ],
+    [
+      "2012-09-01",
+      "RG-1/9/2012",
+      "Resmî Gazete date printed in the source amendment note"
+    ],
+    [
+      "2012-09-01",
+      "1/9/2012",
+      "Resmî Gazete date in the source amendment table"
+    ]
+  ],
+  "commencement_clauses": [
+    "Bu Yönetmelik 31/8/2011 tarihinde yürürlüğe girer"
+  ],
+  "history": "current-text",
+  "label": "oldest version available",
+  "checked_on": "2026-11-15",
+  "word_count": 3654,
+  "text_status": "current-consolidated",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  },
+  "source_links": [
+    "7.5.15261-ek.doc"
+  ],
+  "completeness": "html-text-complete; linked annexes not fetched"
+}

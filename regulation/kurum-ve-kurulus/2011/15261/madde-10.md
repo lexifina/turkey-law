@@ -1,0 +1,7 @@
+ÜÇÜNCÜ BÖLÜM
+Başvurunun Şekli, Süresi ve Usul Yönünden İncelenmesi
+Başvurunun şekli
+MADDE 10 – (1) (Değişik:RG-14/1/2020-31008) Uzlaşma talepleri 12 nci maddede belirtilen kişiler tarafından, BİLGE şifresi kullanılarak, kurumsal internet sayfası üzerinden yapılır. Ancak BİLGE şifresinin temin edilemediği durumlarda, EK-3’te yer alan form ile başvuruda bulunulabilir. Her durumda başvurunun, 11 inci maddenin birinci fıkrası kapsamında süre açısından değerlendirilmesinde EK-3’te yer alan formun, ekleri ile birlikte ilgili merciin evrak kaydına girdiği veya taahhütlü olarak postaya verildiği tarih esas alınır.
+(2) İştirak sebebiyle ceza tatbik edilenlerin her biri uzlaşma talebinde bulunabilir. Bu fıkra kapsamında uzlaşma talebinde bulunulması ve uzlaşmanın vaki olması durumunda; uzlaşma, sadece başvuruda bulunanlar için hüküm ifade eder.
+(3) Uzlaşma başvurusunun yetkili komisyonlar dışındaki gümrük idarelerine yapılmış olması halinde, talep derhal yetkili uzlaşma komisyonuna iletilir.
+(4) Aynı nitelikteki alacakların birden fazla gümrük müdürlüğünde veya (Değişik ibare:RG-1/9/2012-28398) bölge müdürlüğü bağlantılarında yapılan işlemlere ilişkin olması halinde söz konusu alacakların toplamı tek bir uzlaşmaya konu olabilir. Bu durumda yükümlü tarafından yetkili uzlaşma komisyonuna başvurulması esas olmakla birlikte, uzlaşmaya konu alacaklara ilişkin detaylı bilgilerin verilmesi şartıyla, işlemin yapıldığı gümrük idarelerinden herhangi birine de başvurulabilir.

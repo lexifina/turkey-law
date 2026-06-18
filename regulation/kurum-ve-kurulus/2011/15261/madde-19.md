@@ -1,0 +1,3 @@
+Uzlaşmanın sonuçları
+MADDE 19 – (1) (Değişik:RG-14/1/2020-31008) Uzlaşma görüşmesinin sonucu ilgili gümrük müdürlüğüne bildirilir.
+(2) (Değişik:RG-20/8/2013-28741) Para cezalarının uzlaşmaya konu olması ve uzlaşmanın vaki olması halinde, uzlaşmaya konu cezalar, 7/10/2009 tarihli ve 27369 mükerrer sayılı Resmî Gazete’de yayımlanan Gümrük Yönetmeliğinin 23 üncü maddesinin birinci fıkrasının (b), (c) ve (ç) bentleri ve 529 uncu maddesinin birinci fıkrasının (a), (b) ve (c) bentleri ile 10/1/2013 tarihli ve 28534 sayılı Resmî Gazete’de yayımlanan Gümrük İşlemlerinin Kolaylaştırılması Yönetmeliğinin 5 inci maddesinin (c), (ç) ve (d) bentlerinin uygulanmasında dikkate alınmaz.
