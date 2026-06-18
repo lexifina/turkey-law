@@ -1,0 +1,25 @@
+{
+  "kind": "norm",
+  "issuer": "Enerji Piyasası Düzenleme Kurumu",
+  "market": "electricity",
+  "document_type": "board-decision",
+  "number": "14671",
+  "decision_date": "2026-06-18",
+  "title": "On yıllık lisanssız üretim süresi dolan ve tüketim tesisi ile farklı ölçüm noktasında bulunan lisanssız elektrik üretim tesislerine ilişkin",
+  "resmi_gazete_date": "2026-06-20",
+  "resmi_gazete_number": "33286",
+  "categories": [
+    "Lisanssız Elektrik Üretimine İlişkin Kurul Kararı"
+  ],
+  "source": "https://www.epdk.gov.tr/Detay/DownloadDocument?id=4JjKUrlh4vY=",
+  "documents": [
+    "https://www.epdk.gov.tr/Detay/DownloadDocument?id=4JjKUrlh4vY="
+  ],
+  "source_sha256": "4624fb0472c301da06b4f617f1606532c4b65f77c71471a4ea4bda8636ea39d5",
+  "official_list": "https://www.epdk.gov.tr/Detay/Icerik/3-0-39/kurul-kararlari-",
+  "official_list_leaf": 33881,
+  "text_status": "as-enacted",
+  "text_file": "metin.md",
+  "in_force": "2026-06-18",
+  "law_text_complete": true
+}
