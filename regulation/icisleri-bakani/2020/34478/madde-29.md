@@ -1,0 +1,2 @@
+Devir ve teslim işlemleri
+MADDE 29 – (1) Muhasebe yetkilisi, veznedar, taşınır mal sorumlusu gibi para ve mal işleri ile görevli memurlar arasındaki devir-teslim işlemlerinde, Döner Sermayeli İşletmeler Bütçe ve Muhasebe Yönetmeliği, devir-teslim süreleri yönünden de 12/11/1974 tarihli ve 7/9044 sayılı Bakanlar Kurulu Kararıyla yürürlüğe konulan Devlet Memurlarının Çekilmelerinde Devir ve Teslim Süreleri Hakkında Yönetmelik hükümleri uygulanır.

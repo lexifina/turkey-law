@@ -1,0 +1,2 @@
+Ücret tarifesinin tespiti
+MADDE 9 – (1) İşletmede üretilen mal ve hizmetlerin ücret tarifesinin tespitinde, maliyet fiyatlarının altında olmamak kaydıyla piyasa fiyatları göz önünde tutulur. Ancak, sosyal içerikli hizmetlerin fiyatlandırılmasında piyasa fiyatları yanında özellikle kamu yararı dikkate alınır. Mal ve hizmetlerin fiyatları, ilgili birim yöneticilerinin teklifi alınarak Yönetim Kurulunca tespit edilir.

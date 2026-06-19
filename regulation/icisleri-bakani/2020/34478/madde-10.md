@@ -1,0 +1,7 @@
+ÜÇÜNCÜ BÖLÜM
+Yönetim
+Yönetim
+MADDE 10 – (1) İşletme hizmetleri; Yönetim Kurulu, Yürütme Kurulu, harcama yetkilisi, işletme müdürü, gerçekleştirme görevlisi, muhasebe yetkilisi, veznedar, taşınır mal hesap sorumlusu, taşınır mal sorumlusu, muhasebe yetkilisi mutemedi ve İşletme bünyesinde görevli personel tarafından yürütülür.
+(2) İşletmenin Yönetim Kurulu, Akademi Yönetim Kuruludur. Yönetim Kurulu, sahip olduğu yetkileri uygun gördüğü ölçüde Yürütme Kuruluna devredebilir.
+(3) Yürütme Kurulu, Yönetim Kurulunun belirleyeceği bir başkan yardımcısının başkanlığında ve dört öğretim elemanı olmak üzere beş kişiden oluşur. Kurul, başkan dâhil en az üye tam sayısının salt çoğunluğu ile toplanır. Çoğunluk sağlanamaması sebebiyle ertelenen kurul en geç on beş gün içinde yeniden toplantıya çağrılır. Kararlar açık oyla ve oy çokluğu ile alınır. Oylamada çekimser kalınamaz. Başkan oyunu bütün üyelerden sonra kullanır. Oylamada eşitlik olması halinde Başkanın katıldığı tarafın oyu üstün sayılır.
+(4) İşletmenin harcama yetkilisi Başkandır. Başkan, bu yetkisini uygun gördüğü ölçüde yardımcılarına, PAEM Müdürüne, enstitü müdürlerine, Polis Meslek Eğitim Merkezi ve Polis Meslek Yüksekokulu Müdürleri ile diğer birim yöneticilerine devredebilir. İşletme tarafından tahsil edilen gelirlerden Özel Güvenlik Denetleme Başkanlığı için ayrılan payların harcanmasında ise harcama yetkilisi Özel Güvenlik Denetleme Başkanıdır. Özel Güvenlik Denetleme Başkanı bu yetkisini uygun gördüğü ölçüde birim yöneticilerine devredebilir.

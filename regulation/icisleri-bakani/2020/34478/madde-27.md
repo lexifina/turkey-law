@@ -1,0 +1,2 @@
+Taşınır mal depo sayımı
+MADDE 27 – (1) İşletmenin deposu, her malî yılın sonunda harcama yetkilisi tarafından görevlendirilecek bir komisyon tarafından sayıma tabi tutularak sayım sonuçları cetvellere yazılır. Depo noksanı, normal fireler dikkate alınarak saptanır. Depo fazlası gelir kaydedilir. Taşınır mal hesap sorumlusu ve taşınır mal sorumluları, depo ve depo işlemlerinden dolayı müteselsilen sorumludurlar.
