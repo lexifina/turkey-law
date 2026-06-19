@@ -1,0 +1,43 @@
+{
+  "source_id": "7.5.40894",
+  "kind": "regulation",
+  "register_kind": "Kurum ve Kuruluş Yönetmelikleri",
+  "title": "NÜKLEER TESİSLERDE VE RADYOAKTİF ATIK TESİSLERİNDE BAĞIMSIZ GÖZETİM FAALİYETLERİNE İLİŞKİN YÖNETMELİK",
+  "number": "40894",
+  "issuer": "Nükleer Düzenleme Kurumu Başkanı",
+  "issuer_slug": "nukleer-duzenleme-kurumu-baskani",
+  "path": "regulation/nukleer-duzenleme-kurumu-baskani/2024/40894",
+  "source": "https://www.mevzuat.gov.tr/anasayfa/MevzuatFihristDetayIframe?MevzuatTur=7&MevzuatNo=40894&MevzuatTertip=5",
+  "source_sha256": "967ad82773bf501160e8c585f7213d28e61625b7b9c022a0bc67cf4473a4a97a",
+  "source_bytes": 92970,
+  "published": "2024-08-01",
+  "gazette": "32619",
+  "in_force": "2026-06-19",
+  "in_force_basis": "latest Resmî Gazete date printed in the source amendment notes/table (\"RG-19/6/2026\") for the current consolidated text",
+  "date_evidence": [
+    [
+      "2026-06-19",
+      "RG-19/6/2026",
+      "Resmî Gazete date printed in the source amendment note"
+    ],
+    [
+      "2026-06-19",
+      "19/6/2026",
+      "Resmî Gazete date in the source amendment table"
+    ]
+  ],
+  "commencement_clauses": [
+    "Bu Yönetmelik yayımı tarihinde yürürlüğe girer"
+  ],
+  "history": "current-text",
+  "label": "oldest version available",
+  "checked_on": "2026-11-15",
+  "word_count": 4736,
+  "text_status": "current-consolidated",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  },
+  "completeness": "html-text-complete"
+}
