@@ -1,0 +1,6 @@
+Zarar ve nedensellik iddiası
+MADDE 7- (1) Yönetmeliğin 17 nci maddesi çerçevesinde zarar iddiası 1/1/2022-30/9/2025 dönemi için incelenmiştir.
+(2) ÇHC, Malezya ve Vietnam menşeli başvuru konusu ürün ithalatı 1/1/2022-30/9/2025 döneminde mutlak olarak, ÇHC ve Vietnam menşeli başvuru konusu ürün ithalatı 1/1/2022-30/9/2025 döneminde mutlak ve nispi olarak artış göstermiştir.
+(3) ÇHC, Malezya ve Vietnam menşeli başvuru konusu ürün ithalatının, 1/1/2022-30/9/2025 döneminde yerli üretim dalının yurt içi birim satış fiyatlarını kırdığı ve baskıladığı görülmüştür.
+(4) Solar cam ürününde yerli üretim dalı tarafından zarara ilişkin olarak sunulan bilgi, belge ve deliller kullanılarak yapılan değerlendirmede, yerli üretim dalının üretim, yurt içi satış miktarı, ürün nakit akışı, kapasite kullanım oranı, verimlilik ve pazar payı gibi temel ekonomik göstergelerinde 1/1/2022-30/9/2025 döneminde bozulmalar yaşandığı tespit edilmiştir.
+(5) Başvuru aşamasında sunulan deliller ve ithalata ilişkin Bakanlık istatistik veri tabanında yer alan veriler esas alınarak yapılan tespitler ışığında, dampingli olduğu iddia edilen solar cam ürününde, ÇHC, Malezya ve Vietnam menşeli ithalatın yerli üretim dalının ekonomik göstergelerinde maddi zarara yol açtığı değerlendirilmiştir.
