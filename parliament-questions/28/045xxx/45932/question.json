@@ -1,0 +1,21 @@
+{
+  "record_type": "parliament-written-question",
+  "term": 28,
+  "legislative_year": 4,
+  "esas_no": "7/45932",
+  "submitted": "2026-06-19",
+  "submitted_as": "Başkanlığa geliş tarihi",
+  "mp": "Ayyüce TÜRKEŞ TAŞ",
+  "province": "Adana",
+  "summary": "Elazığ'ın Maden ilçesinde faaliyet gösteren bir maden işletmesinin çevresel etkilerine ilişkin",
+  "status": "Cevaplanmadığı Gelen Kağıtlarda İlan Edildi",
+  "status_as_of": "2026-11-16",
+  "official_record": "https://www.tbmm.gov.tr/Denetim/Yazili-Soru-Onergesi-Detay/69f1e96a-be2d-4675-a563-019eee7526c7",
+  "source": "https://tbmm.gov.tr/Denetim/YaziliSoruOnergesiTable",
+  "source_form": "https://tbmm.gov.tr/Denetim/Yazili-Soru-Onergeleri",
+  "source_sha256": "52231d852cb9c6b60e3d8a05907cbf4d2b80debf63737e6483181af25e2e88d9",
+  "in_force": "2026-06-19",
+  "in_force_basis": "Date the question reached the Speaker (Başkanlığa geliş tarihi) in the official TBMM written-question record; parliamentary oversight record, not law",
+  "history_type": "metadata",
+  "text_status": "metadata-only: question text, addressee and answers are in the linked official record (PDFs on cdn.tbmm.gov.tr); not transcribed here"
+}
