@@ -1,0 +1,36 @@
+{
+  "checked_on": "2026-11-13",
+  "date_gazette": "33285",
+  "date_quote": "19.06.2026",
+  "first_law": null,
+  "gazette": "33285",
+  "history": "current-text",
+  "images": {
+    "deferred": 0,
+    "omitted": 0,
+    "referenced": 0,
+    "source": 0
+  },
+  "in_force": "2026-06-19",
+  "in_force_basis": "original Resmi Gazete publication date supplied by the official listing",
+  "issuer": "Ticaret Bakanlığı",
+  "issuer_catalog_evidence": [
+    {
+      "evidence": "issuer-504-0.json",
+      "id": "504",
+      "label": "Ticaret Bakanlığı",
+      "listing_url": "https://www.mevzuat.gov.tr/Anasayfa/MevzuatDatatable?MevzuatTur=Teblig&KurumId=504&start=0&length=100"
+    }
+  ],
+  "issuer_slug": "ticaret-bakanligi",
+  "kind": "communique",
+  "label": "oldest version available",
+  "notes": [],
+  "published": "2026-06-19",
+  "source": "https://www.mevzuat.gov.tr/anasayfa/MevzuatFihristDetayIframe?MevzuatTur=9&MevzuatNo=46181&MevzuatTertip=5",
+  "source_bytes": 54347,
+  "source_id": "9.5.46181",
+  "source_sha256": "d08fd856f5bacea31fe63dd37c8b2f34955411d5648d2764154811a9ea133d9a",
+  "title": "İTHALATTA HAKSIZ REKABETİN ÖNLENMESİNE İLİŞKİN TEBLİĞ (TEBLİĞ NO: 2026/22)",
+  "word_count": 1570
+}
