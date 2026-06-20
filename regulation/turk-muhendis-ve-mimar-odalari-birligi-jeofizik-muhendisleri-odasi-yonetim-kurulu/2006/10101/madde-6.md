@@ -1,0 +1,3 @@
+Serbest jeofizik mühendisliği hizmetlerinin yürütülmesi
+MADDE 6 – (1) Bu Yönetmeliğin 5 inci maddesinde sayılan Jeofizik Mühendisliği hizmetleri, SMM Belgesi ile Büro Tescil Belgesine tabi serbest jeofizik mühendisliği hizmetleridir. Bu hizmetler; anılan belgelere sahip olmayan ya da bu Yönetmelikte belirtilen istisna koşullarını taşımayan jeofizik mühendislerince yürütülemez.
+(2) (Ek:RG-12/4/2014-28970) 5 inci maddede sayılan Jeofizik Mühendisliği hizmetleri kapsamında SMM Belgesi ile Büro Tescil Belgesi sahibi (Mülga ibare:RG-11/12/2017-30267) (…) kuruluşlardan serbest jeofizik mühendisliği hizmetlerinde kullanılacak her türlü ekipman, teçhizat, donanım ve yazılımın kaydı Odaya tebliğ edilir.

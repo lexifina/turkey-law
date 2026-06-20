@@ -1,0 +1,11 @@
+SMMH ve büro tescil denetimi
+MADDE 12 – (1) SMMH'nin yürütülmesinde SMM ve tescilli bürolar aşağıda belirtilen kurallara uyarlar.
+a) Oda, JFMH’nin yürütülmesinde, meslek mensupları arasında haksız rekabeti önlemek, üretilen hizmetlerin üstün nitelikte, şartname ve standartlara uygun olmasını sağlamak amacıyla gerekli gördüğü önlemleri alır.
+b) Oda yetkilileri, JFMH uygulamalarını ve ürünlerini incelemeye, meslekî denetim yaparak yapılan işleri yerinde denetlemeye ve onaylamaya yetkilidir. Odanın yetkililerini ve çalışma koşullarını Yönetim Kurulu belirler.
+c) SMM Belgesi veya Büro Tescil Belgesi bulunmayan, belgesini yenilemeyen, belgesi Oda tarafından süreli veya süresiz olarak iptal edilen kişi ve kuruluşlar, bu belgelere dayanarak hizmet yapamazlar.
+ç) SMM ve tescilli büro, bu Yönetmelik kapsamına giren tüm işlerinde ve yapacağı hizmet sözleşmesinde meslekî esaslar, meslektaş yararları, ilgili konularda Oda tarafından yürürlüğe konmuş şartname, norm ve standartlar ve Oda tarafından belirlenmiş en az ücret tarifelerine uyarlar.
+d) (Değişik:RG-16/7/2009-27290) SMM ve tescilli bürolar, bu Yönetmelik kapsamına giren tüm hizmetlerini, ilgili işveren idare veya onay makamınca istensin ya da istenmesin Odanın meslekî denetiminden geçirirler ve onaylatırlar. Yetkilendirme belgesine sahip olmayan SMM’lerin hazırladıkları raporlar Oda yetkilileri tarafından onaylanmaz.
+e) (Mülga ibare:RG-11/12/2017-30267) (…) tescilli büroların ücretli veya sözleşmeli statüde çalıştırdıkları JFM’lere ödeyecekleri ücretler, Odanın belirlediği asgarî ücretten daha az olamaz.
+f) (Mülga ibare:RG-11/12/2017-30267) (…) tescilli bürolar hizmetlerini denetim için Oda Genel Merkezi ya da şube, bölge veya il/ilçe temsilciliklerine sunarken aşağıdaki belgeleri ve hizmetin türü göz önüne alınarak Yönetim Kurulunca istenilen diğer dokümanları vermek zorundadırlar.
+1) Hizmetini belirten veya hizmet ürünü dokümanlar (proje, rapor, sözleşme gibi),
+2) (Değişik:RG-11/12/2017-30267) Hizmete ilişkin en az Oda tarafından belirlenmiş asgari ücretler üzerinden kesilmiş fatura, JFM üyenin imzası, SMM veya tescilli büro numaraları, üye sicil numarası, bağlı bulunduğu vergi dairesinin adı ve vergi numarası, büro adresi, işverenin adı ve adresi.

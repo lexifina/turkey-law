@@ -1,0 +1,2 @@
+Meslekî denetim ücreti
+MADDE 17 – (1) Bu Yönetmeliğin 12 nci maddesinde belirlenen koşulları taşıyan SMM’nin yaptığı projenin, bu Yönetmelik çerçevesinde hazırlanan meslekî denetim yönergesi uyarınca asgarî ücret tarifesi, teknik ve yasal standartlara ve Oda yönetmeliklerine uygun olarak yapılıp yapılmadığının belirlenmesi hizmeti karşılığında Oda tarafından belirlenen meslekî denetim ücreti alınır.

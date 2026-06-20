@@ -1,0 +1,2 @@
+Belge iptali
+MADDE 13 – (1) Tescil ve yenileme sürecinde yazılı ya da sözlü olarak gerçeğe aykırı beyanda bulunduğu tespit edilen veya belgelerinde izinsiz değişiklik veyahut tahrifat yaptıkları anlaşılan ya da tescile esas koşullarda meydana gelen değişiklikleri değişikliğin gerçekleştiği tarihten itibaren bir ay içinde Odaya bildirmeyen kişi ve kuruluşların belgeleri iptal edilir, ilgili sicillerden kayıtları silinir ve ilgili mühendis hakkında işlem yapılması için durum Oda Onur Kuruluna intikal ettirilir. Ayrıca Cumhuriyet Savcılığına suç duyurusunda da bulunulur.

@@ -1,0 +1,8 @@
+Soruşturma usulü ve yaptırımların uygulanması
+MADDE 23 – (Başlığı ile birlikte değişik:RG-16/7/2009-27290)
+(1) Soruşturma ve yaptırımların uygulanma şekli aşağıda belirtilmiştir:
+a) Oda Yönetim Kurulu, kendisine gelen bir şikâyet veya bu Yönetmelik hükümlerinin ihlalinin Oda tarafından tespit edilmesi halinde soruşturma başlatır.
+b) Tescilli SMMH bürolarına bu Yönetmeliğin 22 nci maddesinin birinci fıkrasında belirtilen cezalardan biri verilmeden önce; Yönetim Kurulu, tescilli SMMH bürosuna onbeş gün süre vererek bilgi ve savunmasını ister. Yönetim Kurulu, verilen savunmaya göre Yönetmelik hükümlerinin ihlal edilmiş olduğuna karar verirse, olayın içeriği ve sonuçlarına göre bu Yönetmeliğin 22 nci maddesinin birinci fıkrasında belirtilen yaptırımlardan biri uygulanır. (Ek cümle:RG-11/12/2017-30267) Yönetmelik hükümlerinin ihlalinin tekrarlanması durumunda, olayın içeriği ve sonuçlarına göre bu Yönetmeliğin 22 nci maddesinin birinci fıkrasında belirtilen yaptırımlardan bir üst yaptırım uygulanır.
+c) Tebliğ tarihinden itibaren onbeş gün içinde bilgi ve savunma gönderilmemesi halinde Oda Yönetim Kurulu, dosyayı inceleyerek Yönetmelik hükümlerinin ihlalini tespit etmişse, tescilli SMMH bürosu hakkında bu Yönetmeliğin 22 nci maddesinin birinci fıkrasında belirtilen cezalardan birini resen verir.
+ç) Oda Yönetim Kurulu, tescilli SMMH bürosuna tanınan onbeş günlük sürenin bitimi tarihini takiben otuz gün içerisinde yaptırım kararını vermek zorundadır. Bu süre içinde Oda Yönetim Kurulunca bir karar verilmemesi halinde tescilli SMMH bürosu hakkında yaptırıma gerek olmadığı kararı alınmış sayılır.
+d) Tescil belgesi süreli veya süresiz askıya alınan SJFMMB’ler, Oda Yönetim Kuruluna onbeş gün içinde itiraz edebilir. İtiraz uygulamayı durdurmaz.

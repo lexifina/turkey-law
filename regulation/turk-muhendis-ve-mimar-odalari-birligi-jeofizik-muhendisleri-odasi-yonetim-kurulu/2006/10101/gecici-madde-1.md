@@ -1,0 +1,2 @@
+Önceden belge alanların durumu
+GEÇİCİ MADDE 1 – (1) Bu Yönetmeliğin yürürlüğe girdiği tarihten önce belge almış veya almak için başvuruda bulunmuş olanlar, bu Yönetmeliğin yayımı tarihinden itibaren altı ay içinde bu Yönetmelikte öngörülen koşulları yerine getirerek durumlarını Odaya belgelemek zorundadırlar. Gerekli şartlara haiz olduğunu belgeleyemeyenlere yeni belge verilmez ve verilmiş olan belgeler ise iptal edilir.

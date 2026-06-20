@@ -1,0 +1,4 @@
+BİRİNCİ BÖLÜM
+Amaç, Kapsam, Dayanak, Tanımlar ve Kısaltmalar
+Amaç
+MADDE 1 – (1) Bu Yönetmeliğin amacı; serbest jeofizik mühendisliği hizmetleri üreten kişi ve kuruluşların meslekî etkinliklerinin TMMOB Jeofizik Mühendisleri Odası tarafından denetlenmesi, üretilen mühendislik hizmetlerinin TMMOB’nin ve Jeofizik Mühendisleri Odasının standartlarına, yönetmeliklerine ve diğer ilgili mevzuata uygunluğunun sağlanması, serbest müşavirlik mühendislik hizmeti yapan kişi ve kuruluşların, meslekî denetim, kapasite ve yeterlilik açısından değerlendirilmelerine esas olacak kayıtların tutulması, Jeofizik Mühendisleri Odası tarafından belirlenen, jeofizik mühendisliği hizmetleri asgarî ücret tarifesinin uygulanması suretiyle meslektaşlar arasında haksız rekabetin önlenmesi, jeofizik mühendislik hizmetlerinin meslekî, bilimsel ve teknik esaslar, ülke ve meslektaş yararları yönünden gelişmesiyle ilgili usul ve esasları düzenlemektir.
