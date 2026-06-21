@@ -1,0 +1,31 @@
+{
+  "source_id": "8.5.46277",
+  "kind": "regulation",
+  "register_kind": "Üniversite Yönetmelikleri",
+  "title": "ORTA DOĞU TEKNİK ÜNİVERSİTESİ LİSANS EĞİTİM ÖĞRETİM YÖNETMELİĞİ",
+  "number": "46277",
+  "issuer": "ORTA DOĞU TEKNİK ÜNİVERSİTESİ",
+  "issuer_slug": "orta-dogu-teknik-universitesi",
+  "path": "regulation/orta-dogu-teknik-universitesi/2026/46277",
+  "source": "https://www.mevzuat.gov.tr/anasayfa/MevzuatFihristDetayIframe?MevzuatTur=8&MevzuatNo=46277&MevzuatTertip=5",
+  "source_sha256": "6a5daddb6521e667c7f5304bc7940247717d40f23cee7a0ee318a80a3da08146",
+  "source_bytes": 84297,
+  "published": "2026-06-21",
+  "gazette": "33287",
+  "in_force": "2026-06-21",
+  "in_force_basis": "Resmî Gazete publication date in the official listing (21.06.2026); own commencement article: \"Bu Yönetmelik 2026-2027 eğitim-öğretim yılı başında yürürlüğe girer\"",
+  "commencement_clauses": [
+    "Bu Yönetmelik 2026-2027 eğitim-öğretim yılı başında yürürlüğe girer"
+  ],
+  "history": "current-text",
+  "label": "oldest version available",
+  "checked_on": "2026-11-15",
+  "word_count": 4898,
+  "text_status": "current-consolidated",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  },
+  "completeness": "html-text-complete"
+}

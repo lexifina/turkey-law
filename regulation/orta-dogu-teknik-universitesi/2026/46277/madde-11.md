@@ -1,0 +1,2 @@
+Yan dal programı
+MADDE 11- (1) Üniversitede bir lisans programına kayıtlı olan öğrenciler, ek olarak Üniversitede diğer bir lisans programının belirli sayıda dersinden veya belirli sayıda disiplinler arası dersten oluşan bir yan dal programına kayıt yaptırabilir. Yan dal programı bir lisans programı değildir. Bu programı tamamlayan öğrencilere bir sertifika verilir. Yan dal programlarına ilişkin esaslar Senato tarafından belirlenir.

@@ -1,0 +1,2 @@
+Çift ana dal programı
+MADDE 10- (1) Üniversitede bir lisans programına kayıtlı olan öğrenciler, bu lisans programına ek olarak Üniversitede başka bir lisans programına da eş zamanlı kayıt yaptırabilir. Bu ikinci lisans programına çift ana dal lisans programı denir. Bu programı tamamlayan öğrencilere, kayıtlı oldukları lisans programı diplomasına ek olarak çift ana dal lisans diploması verilir. Çift ana dal programlarına ilişkin esaslar Senato tarafından belirlenir.

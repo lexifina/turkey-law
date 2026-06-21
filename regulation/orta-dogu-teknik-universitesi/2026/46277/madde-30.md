@@ -1,0 +1,5 @@
+Başarılı öğrenciler
+MADDE 30- (1) Genel ve yarıyıl not ortalaması en az 2,00 olan ve ilgili yarıyılda FF, FD, NA veya U notu olmayan öğrenciler yarıyıl not ortalamalarına göre aşağıdaki şekilde tanımlanır:
+a) Azami eğitim-öğretim süresi içinde olan ve ilgili yarıyılda en az üç adet kredili ders almış olan öğrencilerden yarıyıl not ortalaması 3,50-4,00 arasında olanlar yüksek şeref (high honor), 3,00-3,49 arasında olanlar şeref (honor) öğrencisi olarak tanımlanır. Not ortalaması koşulunu sağlayan ancak üç adet kredili ders koşulunu sağlamayanlar başarılı (satisfactory) öğrenci olarak tanımlanır.
+b) Azami eğitim-öğretim süresi içinde yarıyıl not ortalaması 2,00-2,99 arasında olan veya azami eğitim-öğretim süresi dışında olup yarıyıl not ortalaması en az 2,00 olanlar başarılı (satisfactory) öğrenci olarak tanımlanır.
+(2) Genel ve yarıyıl not ortalaması en az 2,00 olan ancak ilgili yarıyılda herhangi bir dersten FF, FD, NA veya U notu olan öğrenciler yeterli (sufficient) öğrenci olarak tanımlanır.

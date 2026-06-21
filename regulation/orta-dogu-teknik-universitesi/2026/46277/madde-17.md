@@ -1,0 +1,3 @@
+Akademik danışmanlık
+MADDE 17- (1) Bölüm başkanlıkları, lisans programına kaydolan her öğrenciye tam zamanlı öğretim elemanları arasından bir akademik danışman atar.
+(2) Akademik danışman; danışmanlığını yaptığı her öğrenci ile dönemde en az bir kere görüşür. Akademik danışman, öğrencinin her yarıyılda alacağı derslerin seçiminde gerekli bilgilendirmeyi ve yönlendirmeyi yapar. Ayrıca üniversite yaşamına uyum, mesleki gelişim ve kariyer konularında öğrenciyi bilgilendirir ve yönlendirir. İlgili fakülte kurulu tarafından belirlenen akademik değerlendirme gerektiren durumlarda öğrenci ile görüşerek gerekli değerlendirme ve yönlendirmeleri yapar ve kayıt onayı verir.
