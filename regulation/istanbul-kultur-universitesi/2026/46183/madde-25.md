@@ -1,0 +1,15 @@
+Kayıt dondurma ve kayıt açtırma
+MADDE 25- (1) Öğrencilerin kayıt dondurabilmesi için ilgili yarıyıla ait kayıt işlemlerini tamamlamış ve öğrenim ücretini ödemiş olmaları gerekir. Kayıt dondurma işlemi akademik takvimde ilan edilen süreler içinde ÖBYS üzerinden yapılır. Bu başvurular, ilgili yönetim kurulu tarafından karara bağlanır. Kayıt dondurma işlemi akademik takvimde ilan edilen süreler içinde yapılır. Kayıt dondurma işlemlerinde ilgili yarıyıl için varsa ders kayıtları iptal edilir. Aynı eğitim-öğretim yılı içinde kayıt açtırmak isteyen öğrenciler başvurularını ÖİDB’ye yaparlar.
+(2) Öğrencilerin bir seferde iki yarıyıl, tüm öğrenim sürelerinde toplam dört yarıyıl kayıt dondurma hakkı vardır. Yabancı dil hazırlık sınıfında kayıtlı öğrencilerin bir dönem kayıt dondurma talepleri ilgili yönetim kurulu tarafından değerlendirilir. Askerlik, tedavi süreci, tutukluluk ve mahkûmiyet durumlarında ise bir seferde tüm kayıt dondurma hakkı kullanılabilir. Ayrıca rahatsızlığı ve tedavi sürecinin devam etmesi nedeniyle kayıt dondurma talebinde bulunan öğrenciler ile hükümlü öğrenciler için mazereti ilgili yönetim kurulu tarafından değerlendirilerek dört yarıyıldan fazla kayıt dondurabilmesine karar verilebilir. Bu süreler, öğrenim süreleri dışında tutulur. Öğrenci, kaydını dondurduğu süre içinde yapılan sınavlara giremez, girdiği takdirde aldığı not geçersiz sayılır.
+(3) Kaydı dondurulan öğrenciler, bu süre içinde izinli sayılırlar.
+(4) Kayıt dondurma durumunda, ödenen öğrenim ücreti iade edilmez. Kayıt açtırılan eğitim-öğretim yılının öğrenim ücretinden mahsup edilir.
+(5) Öğrencilerin kayıtları, aşağıda belirtilen haklı ve geçerli nedenlerin varlığı halinde dondurulabilir:
+a) Öğrencinin, bir sağlık kurumundan alacağı sağlık raporuyla belgelenmiş, sağlıkla ilgili mazeretinin olması.
+b) Mahallin en büyük mülkî amiri tarafından verilecek bir belge ile belgelenmiş olması şartıyla, doğal afetler nedeniyle öğrencinin öğrenimine ara vermek zorunda kalması.
+c) Öğrencinin, tecil hakkını kaybetmesi veya tecilinin kaldırılması suretiyle askere alınması.
+ç) Öğrencinin, yabancı dil öğrenmek amacıyla yurt dışına gideceğini beyan etmesi.
+d) Yükseköğretim kurumundan süreli uzaklaştırma veya çıkarma cezası alan öğrenciler dışında, öğrencinin tutukluluk ve mahkûmiyet hâli.
+e) İlgili yönetim kurulunca haklı ve geçerli kabul edilen ekonomik, ailevi ve benzeri nedenlerin ortaya çıkması.
+(6) Kayıtları dondurulmuş öğrenciler, sürenin bitiminde yarıyıl kayıtlarını yenileyerek öğrenimlerine kaldıkları yerden devam ederler. Sağlık nedeni ile kayıtlarını dondurmuş olan öğrenciler, süresinden önce ya da süresinin sonunda kayıt açtırmak isterlerse, sağlık durumlarının düzeldiğini sağlık raporu ile belgelendirmek zorundadırlar.
+(7) İki yarıyıl kayıt dondurmuş olan öğrenciler, kayıtlarının dondurulmuş olduğu ilk yarıyılın sonunda, öğrenimlerine devam etmek istedikleri takdirde, ÖİDB’ye dilekçe ile başvurarak kayıt açtırabilirler.
+(8) Kayıt dondurulduğunda, öğrencilerin Üniversiteye girişte verdiği belgeler geri verilmez.

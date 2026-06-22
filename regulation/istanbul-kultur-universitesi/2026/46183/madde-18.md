@@ -1,0 +1,6 @@
+Notların açıklanması
+MADDE 18- (1) Başarı notları, akademik takvimde belirtilen sürelerde ÖBYS üzerinden ilgili öğretim elemanının onayı ile kesinleşir.
+(2) Öğrencilerin başarı notları, GNO’ları ve toplam kredi güncellemeleri akademik takvimde belirtilen tarihte ÖBYS’de ilan edilir.
+(3) Notlarda bir değerlendirme hatası olup olmadığının belirlenmesini isteyen öğrenci, akademik takvimde belirtilen sürelere göre, iki iş günü içinde ÖBYS üzerinden ilgili dekanlığa/müdürlüğe başvuruda bulunur. Başvurular, ilgili bölüm/program başkanlığı tarafından kurulan ve en az üç öğretim üyesinden/öğretim görevlisinden oluşan bir komisyonca, başvuruların bitiş süresinden itibaren üç iş günü içinde değerlendirilir. Sonuç, dekanlık/müdürlük veya Rektörlük kanalıyla ÖİDB’ye bildirilir.
+(4) Başarı notlarında herhangi bir hata olması halinde, ilgili öğretim elemanının hatayı gerekçeli bir yazıyla öğrencinin kayıtlı olduğu dekanlık ya da müdürlüğe en geç ilgili yarıyılın yarıyıl sonu bütünleme sınav tarihlerine kadar bildirmesi gerekir. Sonuç, ilgili dekanlık ya da müdürlük tarafından ÖİDB’ye bildirilir.
+(5) Her türlü öğrenci sınav evrakı ve ders başarı listeleri, sınava giriş tarihinden itibaren ilgili mevzuat hükümleri kapsamında, sınav evrakı teslim ve saklama usullerine uygun olarak saklanır.

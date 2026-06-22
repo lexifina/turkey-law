@@ -1,0 +1,4 @@
+Ders tekrarı
+MADDE 20- (1) Başarılı ve başarısız öğrenciler, F, FD, Z ve V notu aldıkları zorunlu dersleri, bağlı bulundukları eğitim-öğretim programında dersin ait olduğu yarıyıl esas alınarak ilgili dersin açıldığı güz veya bahar yarıyılında almak zorundadır. Bu derslerin AKTS kredi toplamı (stajlar hariç), ilgili yarıyılın normal ders yükünü aşıyorsa, öğrenci stajlar hariç olmak üzere yalnızca normal ders yükü kadarını alabilir. Ayrıca varsa 19 uncu maddede belirtilen fazla kredi hakkını, bu dersleri açıldıkları ilk yarıyılda tekrar almak için kullanmakla yükümlüdür.
+(2) Başarı sağlanamayan veya V notu alınan SA veya SAD ders yerine, programda yer alan başka bir SA veya SAD ders alınabilir.
+(3) Öğrenciler, GNO’larını yükseltmek amacıyla, ders yükü ile ilgili hükümler saklı kalmak koşuluyla, C-, D+, D ve D- notu aldıkları dersleri tekrarlayabilirler. 22 nci maddede belirtilen mezuniyet koşullarını sağlayan öğrenciler bu haktan yararlanamazlar.
