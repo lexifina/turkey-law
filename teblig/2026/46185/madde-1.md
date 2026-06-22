@@ -1,0 +1,2 @@
+Amaç ve kapsam
+MADDE 1- (1) Bu Tebliğin amacı, 2915.31.00.00.00 Gümrük Tarife İstatistik Pozisyonlu ve “etil asetat” tanımlı eşyanın ithalatında 22/5/2025 tarihli ve 9873 sayılı Cumhurbaşkanı Kararı ile yürürlüğe konulan Etil Asetat İthalatında Korunma Önlemi Uygulanmasına İlişkin Karar kapsamında ek mali yükümlülük şeklinde uygulanan korunma önleminden muafiyet sağlanması amacıyla açılan genel tarife kontenjanının kullanım usul ve esaslarının düzenlenmesidir.
