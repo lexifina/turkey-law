@@ -1,0 +1,21 @@
+{
+  "record_type": "parliament-written-question",
+  "term": 28,
+  "legislative_year": 4,
+  "esas_no": "7/46072",
+  "submitted": "2026-06-22",
+  "submitted_as": "Başkanlığa geliş tarihi",
+  "mp": "Celal FIRAT",
+  "province": "İstanbul",
+  "summary": "Tokat'ın Zile ilçesinde bulunan bir yolun bakım ve onarımına ilişkin",
+  "status": "Süresi Geçtikten Sonra Cevaplandı",
+  "status_as_of": "2026-11-16",
+  "official_record": "https://www.tbmm.gov.tr/Denetim/Yazili-Soru-Onergesi-Detay/6c3ed704-f687-48f1-a96b-019ef363e977",
+  "source": "https://tbmm.gov.tr/Denetim/YaziliSoruOnergesiTable",
+  "source_form": "https://tbmm.gov.tr/Denetim/Yazili-Soru-Onergeleri",
+  "source_sha256": "73df84ccd982c5c1ecdd96e101aba56cf35b519b98867955e8e3bfaf9a0d4035",
+  "in_force": "2026-06-22",
+  "in_force_basis": "Date the question reached the Speaker (Başkanlığa geliş tarihi) in the official TBMM written-question record; parliamentary oversight record, not law",
+  "history_type": "metadata",
+  "text_status": "metadata-only: question text, addressee and answers are in the linked official record (PDFs on cdn.tbmm.gov.tr); not transcribed here"
+}
