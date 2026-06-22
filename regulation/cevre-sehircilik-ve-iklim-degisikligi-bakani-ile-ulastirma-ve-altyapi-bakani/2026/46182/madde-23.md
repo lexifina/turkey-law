@@ -1,0 +1,12 @@
+Tesis yetki belgesinin askıya alınması, iptal edilmesi ve geçerliliğini yitirmesi
+MADDE 23- (1) Gemi geri dönüşüm yetki belgesi; belirtilen koşulların gerçekleşmesi hâlinde geçerliliğini yitirir, askıya alınır veya iptal edilir.
+(2) Geçerlilik süresi sona eren gemi geri dönüşüm yetki belgesi geçerliliğini yitirir.
+(3) İlgili kurum veya kuruluş tarafından faaliyeti geçici olarak durdurulan veya faaliyet göstermesine ilişkin belgesi askıya alınan tesisin gemi geri dönüşüm yetki belgesi, askıya alınır.
+(4) İlgili kurum veya kuruluş tarafından faaliyetten men edilen tesisin gemi geri dönüşüm yetki belgesi iptal edilir.
+(5) Gemi geri dönüşüm yetki belgesi, tesisin bulunduğu taşınmazın hak lehtarlığı tesis yetkilisi adına son bulduğunda geçerliliğini yitirir.
+(6) Gemi geri dönüşüm yetki belgesi verilen tarihteki ortaklık yapısına göre şirket hisselerinin yüzde ellisinden fazlasının devrinin gerçekleşmesi halinde gemi geri dönüşüm yetki belgesi, geçerliliğini yitirir.
+(7) 22 nci maddenin on ikinci fıkrasında belirtilen durum ve eksiklikler haricinde bu Yönetmelikte tesisler için belirlenmiş şartlar ile gerekliliklerin karşılanmadığına yönelik tespit edilen uygunsuzlukların giderilmesi için üç aydan fazla olmamak üzere süre verilebilir. Tespit edilen uygunsuzlukların giderildiği tesis yetkilisi tarafından Bakanlığa bildirilir ve Bakanlık tarafından yapılacak değerlendirme neticesinde tesis faaliyetine devam eder. Bu süre içinde uygunsuzlukların giderilmemesi hâlinde gemi geri dönüşüm yetki belgesi iptal edilir.
+(8) Gemi geri dönüşüm yetki belgesi askıya alınan tesise, bu işlemin uygulandığı tarihten önce demirde beklemeye alınmış gemi hariç olmak üzere yeni bir geminin yanaştırılmasına müsaade edilmez.
+(9) Tesisin kapasitesini veya kara alanını en az yüzde yirmi oranında etkileyebilecek değişimlerde gemi geri dönüşüm yetki belgesi, geçerliliğini yitirir.
+(10) Tesisteki faaliyetler, tesisin yetki şartlarını yerine getirmediği sonucunu ortaya koymakta ise tesis yetkilisi durumu Bakanlığa bildirir. Bakanlık bu madde ile 22 nci maddeye uygun şekilde işlem tesis eder.
+(11) Gemi geri dönüşüm yetki belgesinin geçerliliğin yitirmesi veya iptal edilmesi hâlinde bu Yönetmelik kapsamında gemi geri dönüşüm yetki belgesi başvurusu yapılır. Gemi geri dönüşüm yetki belgesinin askıya alındığı hâllerde tesis yetkilisi tarafından bu durumun dayanağının ortadan kalkması sonrasında Bakanlık bilgilendirilir ve Bakanlık tarafından değerlendirme yapılarak uygun bulunması hâlinde askıya alma işlemi sonlandırılır.

@@ -1,0 +1,3 @@
+Bitişin bildirilmesi
+MADDE 20- (1) Geri dönüştürülmekte olan geminin tüm atıkları ile malzemelerinin, tesisin sızıntı önleyici tedbirlerle donatılmış sızdırmaz zeminine taşınmış ve tesiste belirlenmiş uygun alanlara taşınmış olması durumunda, geminin geri dönüşümü tamamlanmış kabul edilir.
+(2) Bir geminin kısmen veya tamamen geri dönüşümü tamamlandığında tamamlama beyanı tesis yetkilisi tarafından on dört gün içinde hazırlanır ve Bakanlığa iletilir. Bakanlık tarafından geri dönüşüm tamamlama beyanı örneği gemiye Uluslararası Geri Dönüşüme Hazır Sertifikasını düzenlemiş olan idareye gönderilir. Bu beyan, Sözleşmede belirtildiği şekilde düzenlenir ve eğer var ise insan sağlığı ve/veya çevreye zarar veren olayları ve kazaları kapsayan bir raporu içerir.

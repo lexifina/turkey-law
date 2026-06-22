@@ -1,0 +1,2 @@
+Tesis organizasyonu ve yerleşim planı
+MADDE 7- (1) Tesis yetkilisi, tesis organizasyonu ve yerleşim planını Genel Müdürlüğün belirlediği usul ve esaslara uygun şekilde hazırlar ve tesisteki faaliyetlere ve tesisin fiili durumuna uyumsuz olduğu hâllerde günceller. Tesis organizasyonu ve yerleşim planında yapılan değişiklik sonrası, yeni planın sayısal örneği ile değişikliğe ilişkin açıklayıcı bilgi Genel Müdürlüğe sunulur.

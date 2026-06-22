@@ -1,0 +1,4 @@
+Tesis güvenliği
+MADDE 11- (1) Tesis yetkilisi; çalışan, araç ve iş makinelerinin tesise giriş ve çıkışının kontrol altında tutulabilmesi için tesis sınır güvenliğine yönelik altyapıyı sağlar. Bu altyapı tesiste ve mümkün mertebe geri dönüştürülen gemilerde bulunan çalışanlar ve misafirler dahil tüm kişilerin sayısının belirli bir anda sorgulanabilmesine imkân sağlar.
+(2) Tesiste; çalışanların ve araçların giriş-çıkış yaptığı alanlar, güvenliği sağlayıcı ve giriş-çıkış kayıtlarının tutulabileceği şekilde düzenlenir. Giriş-çıkış kayıtları en az üç ay süreyle tesis yetkilisince saklanır.
+(3) Tesis, sınır ve çalışma alanlarının görüntülenebildiği kapalı devre kamera sistemi ile kontrol edilir. Görüntü kayıtları en az iki ay veya bir geminin tesiste geri dönüştürülme süresinden hangisi uzun ise o süreyle tesis yetkilisi tarafından saklanır.

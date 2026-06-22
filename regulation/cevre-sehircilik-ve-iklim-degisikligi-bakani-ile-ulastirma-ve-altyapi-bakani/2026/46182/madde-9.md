@@ -1,0 +1,5 @@
+Gemi geri dönüşüm yetki belgesi düzenlenmesi
+MADDE 9- (1) Bakanlık ve Çevre, Şehircilik ve İklim Değişikliği Bakanlığınca bu Yönetmelik hükümlerine uygunluğuna kanaat getirilen tesise Bakanlık tarafından beş yıla kadar geçerli gemi geri dönüşüm yetki belgesi düzenlenir.
+(2) Tesis yetkilisi, gemi geri dönüşüm yetki belgesi geçerlilik süresi dolmadan en az altmış gün öncesinde bu belgenin yenilenmesi için Bakanlığa başvuru yapar. Bu süreden önce Genel Müdürlüğe talepte bulunmayan ve talebe yönelik incelemesi belge geçerlilik tarihinden önce neticelenmeyen tesisin gemi geri dönüşüm yetki belgesi geçerliliğini yitirir. Bu süreden önce başvuru yapılmışsa Bakanlığın değerlendirmesi sonuçlanıncaya kadar tesis faaliyete devam eder.
+(3) Gemi geri dönüşüm yetki belgesi ücretinin yatırıldığına dair makbuz, gemi geri dönüşüm yetki belgesi verilmeden önce Bakanlığa ibraz edilir.
+(4) Gemi geri dönüşüm yetki belgesi, belgenin düzenlendiği tesis dışında başka bir gerçek ve tüzel kişi veya tesis tarafından kullanılamaz veya devredilemez.

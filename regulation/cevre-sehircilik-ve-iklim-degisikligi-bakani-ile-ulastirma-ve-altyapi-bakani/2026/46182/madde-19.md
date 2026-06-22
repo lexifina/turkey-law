@@ -1,0 +1,4 @@
+Gemilerin tesise yanaştırılması
+MADDE 19- (1) Geminin tesise yanaştırılması sırasında veya sonrasında emniyet, güvenlik ve çevre kirliliği ile ilgili risklerin oluşacağının değerlendirilmesi durumunda liman başkanlığı tarafından geminin tesise yanaştırma operasyonuna izin verilmez.
+(2) Tesise, geri dönüştürülmek amacıyla gemi yanaştırılırken tesis yetkilisi, geminin, tesisin ve üçüncü tarafların faaliyetten olumsuz etkilenmemesi için gerekli emniyet, güvenlik ve çevre kirliliğini önleme ile ilgili tedbirleri alır ve liman başkanlığı tarafından verilecek talimatlara uyar.
+(3) Tesise yanaştırılmış geminin deniz tarafına başka bir gemi yanaştırılamaz. Zorunlu nedenlerle gemilerin üst üste bağlanması, komşu parsellerin faaliyetlerine engel olmamak kaydı ve komşu tesislerden alınan muvafakatname ile liman başkanlığının uygun görüşüne tabidir.

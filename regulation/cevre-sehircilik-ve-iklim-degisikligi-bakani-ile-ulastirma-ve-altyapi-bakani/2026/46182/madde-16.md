@@ -1,0 +1,5 @@
+İnceleme ve denetim
+MADDE 16- (1) Gemi geri dönüşüm yetki belgesine sahip bir tesisin faaliyetine devam edebilmesi için Sözleşme, rehberler ve bu Yönetmelikte belirlenmiş koşulların sağlandığının teyidine yönelik incelemeler gemi geri dönüşüm yetki belgesi geçerlilik süresince gerek görülen zamanlarda Bakanlık tarafından yapılabilir. Yetki belgesi süresinin yaklaşık olarak ortasına gelen bir zamanda en az bir defa olmak kaydıyla bir denetim gerçekleştirilir.
+(2) Bakanlık; tesislerin bu Yönetmeliğe, Sözleşmeye ve rehberlere uygun hareket edip etmediklerini her zaman denetleme yetkisine sahiptir. Bu kapsamda İTDK marifetiyle, tesise bildirim yapılmadan ve bir takvime bağlanmadan program dışı denetimler gerçekleştirilebilir.
+(3) Bakanlık, aynı bölgede faaliyet gösteren tesislerin denetim ve incelemelerini eş zamanlı yapabilmek için gemi geri dönüşüm yetki belgelerinin geçerlilik tarihlerinden en fazla iki ay önceki veya sonraki bir tarihte denetim yapabilir.
+(4) Denetim sonucuna ilişkin uygulamanın, belge geçerlilik tarihinden erken veya geç yapılması durumunda; bir sonraki belge geçerlilik tarihi, belgenin ilk yayımlandığı tarih dikkate alınarak hesaplanır.
