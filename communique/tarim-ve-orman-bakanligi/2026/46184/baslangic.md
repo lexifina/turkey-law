@@ -1,0 +1,2 @@
+EMBRİYO ÜRETİMİNE DAİR TEBLİĞ
+(TEBLİĞ NO: 2026/8)
