@@ -1,0 +1,6 @@
+Üyelerin bilgi verme yükümlülüğü
+MADDE 23 – (1) (Değişik:RG-23/6/2026-33289)(2) Üye sigorta şirketleri ile özellikli kuruluşlar, Merkez tarafından kendilerinden istenen tüm bilgileri, doğru ve eksiksiz olarak belirlenen şekilde ve sürelerde Merkeze iletmekle yükümlüdür. Kurum, gerek görmesi halinde verilerin şekli ve içeriğine ilişkin sınırlamalar getirebilir.
+(2) (Değişik:RG-23/6/2026-33289)(2) Üye sigorta şirketleri, sigorta sözleşmelerine ilişkin üretim verilerini eş zamanlı olarak Merkeze iletmekle yükümlüdür.
+(3) (Değişik:RG-23/6/2026-33289)(2) Üye sigorta şirketleri, güncel muallak tazminat verilerini gün sonuna kadar, diğer hasar verilerini eş zamanlı olarak Merkeze iletmek ve gereken hallerde güncellemekle yükümlüdür. Yargı mercilerinde verilen kararlar doğrultusunda hasar verilerinin değişmesi halinde veri tabanında gerekli güncellemeler üye sigorta şirketi tarafından yapılır.
+(4) Üye sigorta şirketleri, Merkez tarafından, hatalı olarak gönderildiği tespit edilen bilgileri gecikmeksizin düzeltmek ve düzeltme kayıtlarını en çok bir günlük gecikmeyle Merkeze iletmek zorundadır.
+(5) Üye sigorta şirketlerinin bilgi verme yükümlülüklerini yerine getirmemesi durumunda (Değişik ibare:RG-23/6/2026-33289)(2) Kurum gerekli tedbirleri alır.

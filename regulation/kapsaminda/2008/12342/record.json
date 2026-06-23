@@ -1,0 +1,90 @@
+{
+  "source_id": "7.5.12342",
+  "kind": "regulation",
+  "register_kind": "Kurum ve Kuruluş Yönetmelikleri",
+  "title": "SİGORTA BİLGİ VE GÖZETİM MERKEZİ YÖNETMELİĞİ",
+  "number": "12342",
+  "issuer": "kapsamında",
+  "issuer_slug": "kapsaminda",
+  "path": "regulation/kapsaminda/2008/12342",
+  "source": "https://www.mevzuat.gov.tr/anasayfa/MevzuatFihristDetayIframe?MevzuatTur=7&MevzuatNo=12342&MevzuatTertip=5",
+  "source_sha256": "da4799bf4e31e51510182bef14c6be03cc9f06d8130c259f12983bc42126ff6c",
+  "source_bytes": 90258,
+  "published": "2008-08-09",
+  "gazette": "26962",
+  "in_force": "2026-06-23",
+  "in_force_basis": "latest Resmî Gazete date printed in the source amendment notes/table (\"RG-23/6/2026\") for the current consolidated text",
+  "date_evidence": [
+    [
+      "2026-06-23",
+      "RG-23/6/2026",
+      "Resmî Gazete date printed in the source amendment note"
+    ],
+    [
+      "2026-06-23",
+      "23/6/2026",
+      "Resmî Gazete date in the source amendment table"
+    ],
+    [
+      "2018-06-22",
+      "RG-22/6/2018",
+      "Resmî Gazete date printed in the source amendment note"
+    ],
+    [
+      "2018-06-22",
+      "22/6/2018",
+      "Resmî Gazete date in the source amendment table"
+    ],
+    [
+      "2015-03-07",
+      "RG-7/3/2015",
+      "Resmî Gazete date printed in the source amendment note"
+    ],
+    [
+      "2015-03-07",
+      "7/3/2015",
+      "Resmî Gazete date in the source amendment table"
+    ],
+    [
+      "2013-03-05",
+      "RG-5/3/2013",
+      "Resmî Gazete date printed in the source amendment note"
+    ],
+    [
+      "2013-03-05",
+      "5/3/2013",
+      "Resmî Gazete date in the source amendment table"
+    ],
+    [
+      "2012-05-02",
+      "RG-2/5/2012",
+      "Resmî Gazete date printed in the source amendment note"
+    ],
+    [
+      "2012-05-02",
+      "2/5/2012",
+      "Resmî Gazete date in the source amendment table"
+    ],
+    [
+      "2011-12-03",
+      "RG-3/12/2011",
+      "Resmî Gazete date printed in the source amendment note"
+    ],
+    [
+      "2011-12-03",
+      "3/12/2011",
+      "Resmî Gazete date in the source amendment table"
+    ]
+  ],
+  "history": "current-text",
+  "label": "oldest version available",
+  "checked_on": "2026-11-15",
+  "word_count": 4103,
+  "text_status": "current-consolidated",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  },
+  "completeness": "html-text-complete"
+}

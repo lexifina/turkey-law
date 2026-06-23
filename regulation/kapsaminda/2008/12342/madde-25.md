@@ -1,0 +1,3 @@
+Denetim ve gizlilik (Değişik başlık:RG-3/12/2011-28131)
+MADDE 25 – (1) Merkez faaliyetleri (Değişik ibare:RG-23/6/2026-33289) Kurum tarafından denetlenir.
+(2) (Ek:RG-3/12/2011-28131) Yönetim Komitesi üyeleri, Merkez Müdürü, Alt Bilgi Merkezleri Yöneticileri ile Merkez personeli bu görevleri süresince ve görevleri sonunda Merkeze iletilen kamuya açık olmayan bilgileri hiç bir şekilde kendileri veya başkaları veya diğer sektör paydaşlarına nazaran haksız rekabete yol açacak şekilde kullanamaz, hiç bir kişiyle paylaşamaz. Merkez tarafından, bu madde kapsamında olup uhdesinde kamu görevi bulunmayan kişilerden (Değişik ibare:RG-23/6/2026-33289) Kurumun uygun göreceği bir gizlilik taahhütnamesi alınır.
