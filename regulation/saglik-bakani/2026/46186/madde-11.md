@@ -1,0 +1,10 @@
+ESH araçlarının tahsisi
+MADDE 11- (1) ESH’de kullanılacak ulaşım araçları; kamu hastaneleri hizmetleri başkanlığı hizmet bölgesi esas alınarak, hizmet ihtiyacı, evde sağlık hastası sayısı, coğrafi dağılım, ulaşım süreleri ve hizmet sürekliliği kriterleri dikkate alınmak suretiyle müdürlükler tarafından planlanır ve tahsis edilir. Araç tahsisi, merkezî ve uydu ESH birimleri için bütüncül olarak yapılır ve illerin ihtiyaçlarına göre diğer hizmet araçlarından ayrı şekilde planlanır.
+(2) ESH birimlerinin araç ihtiyacının mevcut kapasite ile karşılanamaması hâlinde, durum ESKOM tarafından gerekçelendirilerek müdürlüğe bildirilir. Müdürlükçe yapılacak değerlendirme sonucunda, gerekli görülmesi hâlinde Bakanlıkça ilgili komisyonlarda değerlendirme yapılır ve tedbirler alınır.
+(3) ESH sunumunda görev alan personelin hastanın bulunduğu mekâna ulaşımını, hastanın evden sağlık tesisine ya da sağlık tesisinden eve naklini ve hizmet sunumunda kullanılacak her tür malzemenin taşınmasını sağlar.
+(4) ESH sunumu esnasında, ekip tarafından hastanın acil sağlık hizmetine gereksinimi olduğunun tespit edilmesi hâlinde; hasta için 112 acil sağlık hizmetlerinden yararlanılması sağlanır. Bu durumda, ambulans ekibi gelinceye kadar 112 komuta kontrol merkezinin yönlendirmeleri doğrultusunda hareket edilir ve hasta teslim tutanağı düzenlenerek 112 ekiplerine teslim edildikten sonra ziyaret sonlandırılır.
+(5) Acil durumlarda hasta, sağlık tesisinin kendi ambulansı veya 112 acil sağlık hizmetleri ambulansı ile nakledilir.
+(6) ESH araçları üzerinde Bakanlık logosu, ESH’ye ilişkin tanıtıcı ibareler ve ESHİM’e ait iletişim bilgileri bulunur. Araçlar hizmete özgü şekilde giydirilir, adres bulmayı ve hizmet planlamasını kolaylaştırmak amacıyla uydu konumlandırma ve araç takip sistemleri kullanılabilir.
+(7) ESH araçlarının bakım, onarım, sigorta ve benzeri idari işlemleri; birimin konuşlandırıldığı kamu sağlık tesisinin sorumlu idarecisi tarafından, ESKOM ve müdürlük koordinasyonunda yürütülür.
+DÖRDÜNCÜ BÖLÜM
+Evde Sağlık Hizmetleri Personel Görevlendirmeleri,

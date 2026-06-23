@@ -1,0 +1,9 @@
+Yoğun bakım servisleri ve palyatif bakım servisleri arasında geçiş süreci
+MADDE 25- (1) Yoğun bakım servisinde tedavi görmekte olan ve mevcut tıbbi durumu itibarıyla iyileştirici tedavi ile anlamlı klinik düzelme olması beklenmeyen hastalar için, ilgili hekim tarafından palyatif bakım ve ESH koordinasyon biriminden konsültasyon istenir. Konsültasyon sonucunda palyatif bakım ihtiyacı bulunduğunun belirlenmesi hâlinde hasta, aynı sağlık tesisi bünyesinde bulunan palyatif bakım veya palyatif kritik bakım servisine devredilir.
+(2) Hastanın palyatif bakım ihtiyacının olduğu ancak aynı sağlık tesisinde palyatif bakım servisi bulunmadığı durumlarda, palyatif ve ESH koordinasyon birimi sorumlu tabibi tarafından ESKOM’a bildirilerek uygun yatak bulunan sağlık tesisine nakli sağlanır.
+(3) Yoğun bakım servisinden çıkan hastanın palyatif ve ESH koordinasyon birimi tarafından yapılan klinik değerlendirmesi sonucunda; yatışı gerekli görülmeyerek, ESH kapsamında izlenmesine, aile hekimi takibine alınmasına ya da uzaktan sağlık hizmetleri ile desteklenmesine karar verilebilir ve elektronik kayıt sistemine işlenir.
+(4) Hasta için oluşturulan bireyselleştirilmiş bakım planı; ESH birimi, hastanın kayıtlı olduğu aile hekimliği birimi ve gerekli hâllerde ilgili yataklı sağlık hizmeti sunucuları ile elektronik ortamda paylaşılır.
+(5) Palyatif bakım servislerinden ileri yaşam desteği ve tedavi gereksinimi ile yoğun bakım servislerine geçecek olan hastalar yoğun bakım sorumlu hekimiyle konsültasyon yapılarak kararlaştırılır. Aynı sağlık tesisinde uygun yoğun bakım servisi varsa devredilir.
+(6) Palyatif bakım servisinde yatarken yoğun bakım ihtiyacı olan hastalar için aynı sağlık tesisinde uygun yoğun bakım servisi/yatağı bulunamadığı durumlarda; palyatif ve ESH koordinasyon birimi sorumlu tabibi tarafından ASOS üzerinden uygun yatak bulunarak 112 Acil Sağlık Hizmetleri aracılığı ile hastanın nakli yapılır.
+DOKUZUNCU BÖLÜM
+Kayıt Raporlama, Kalite Performans İzleme,
