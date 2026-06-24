@@ -1,0 +1,3 @@
+Kapsam
+MADDE 2 – (1) Bu Yönetmelik, gerçek veya tüzel kişi tacirler ile esnaf ve sanatkârların kuyum ticareti faaliyetlerini, yetki belgesinin verilmesi, (Ek ibare:RG-29/4/2026-33238) tadili, yenilenmesi ve iptaline ilişkin usul ve esaslar ile kuyum ticaretine ilişkin ilke, kural ve yükümlülükleri, Bakanlık, yetkili idare ve ilgili diğer kurum ve kuruluşların kuyum ticaretine ilişkin görev, yetki ve sorumluluklarını kapsar.
+(2) 27/10/1999 tarihli ve 4458 sayılı Gümrük Kanunu ile 21/3/2007 tarihli ve 5607 sayılı Kaçakçılıkla Mücadele Kanunu çerçevesinde yapılan satışlar bu Yönetmelik kapsamı dışındadır.

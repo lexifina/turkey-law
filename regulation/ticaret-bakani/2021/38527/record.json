@@ -1,0 +1,73 @@
+{
+  "source_id": "7.5.38527",
+  "kind": "regulation",
+  "register_kind": "Kurum ve Kuruluş Yönetmelikleri",
+  "title": "KUYUM TİCARETİ HAKKINDA YÖNETMELİK",
+  "number": "38527",
+  "issuer": "Ticaret Bakanı",
+  "issuer_slug": "ticaret-bakani",
+  "path": "regulation/ticaret-bakani/2021/38527",
+  "source": "https://www.mevzuat.gov.tr/anasayfa/MevzuatFihristDetayIframe?MevzuatTur=7&MevzuatNo=38527&MevzuatTertip=5",
+  "source_sha256": "f847bdbf803aadb00aac257173eedf636683cc158032b9048a91367c27e7ae84",
+  "source_bytes": 53178,
+  "published": "2021-04-14",
+  "gazette": "31454",
+  "in_force": "2026-06-24",
+  "in_force_basis": "latest Resmî Gazete date printed in the source amendment notes/table (\"RG-24/6/2026\") for the current consolidated text",
+  "date_evidence": [
+    [
+      "2026-06-24",
+      "RG-24/6/2026",
+      "Resmî Gazete date printed in the source amendment note"
+    ],
+    [
+      "2026-06-24",
+      "24/6/2026",
+      "Resmî Gazete date in the source amendment table"
+    ],
+    [
+      "2026-04-29",
+      "RG-29/4/2026",
+      "Resmî Gazete date printed in the source amendment note"
+    ],
+    [
+      "2026-04-29",
+      "29/4/2026",
+      "Resmî Gazete date in the source amendment table"
+    ],
+    [
+      "2022-03-19",
+      "RG-19/3/2022",
+      "Resmî Gazete date printed in the source amendment note"
+    ],
+    [
+      "2022-03-19",
+      "19/3/2022",
+      "Resmî Gazete date in the source amendment table"
+    ],
+    [
+      "2021-12-24",
+      "RG-24/12/2021",
+      "Resmî Gazete date printed in the source amendment note"
+    ],
+    [
+      "2021-12-24",
+      "24/12/2021",
+      "Resmî Gazete date in the source amendment table"
+    ]
+  ],
+  "commencement_clauses": [
+    "Bu Yönetmelik yayımı tarihinde yürürlüğe girer"
+  ],
+  "history": "current-text",
+  "label": "oldest version available",
+  "checked_on": "2026-11-15",
+  "word_count": 1846,
+  "text_status": "current-consolidated",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  },
+  "completeness": "html-text-complete"
+}
