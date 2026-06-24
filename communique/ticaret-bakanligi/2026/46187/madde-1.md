@@ -1,0 +1,2 @@
+Amaç ve kapsam
+MADDE 1- (1) Bu Tebliğin amacı, 25/5/2025 tarihli ve 32910 sayılı Resmî Gazete’de yayımlanan İthalatta Haksız Rekabetin Önlenmesine İlişkin Tebliğ (Tebliğ No: 2025/10) ile Çin Halk Cumhuriyeti menşeli 8541.90.00.00.11 gümrük tarife istatistik pozisyonu altında sınıflandırılan “fotovoltaik paneller için alüminyum çerçeveler” ürününe yönelik başlatılan ve Ticaret Bakanlığı İthalat Genel Müdürlüğü tarafından yürütülen damping soruşturmasının tamamlanması neticesinde alınan kararın yürürlüğe konulmasıdır.
