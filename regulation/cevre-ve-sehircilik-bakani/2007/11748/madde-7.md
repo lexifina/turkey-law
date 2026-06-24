@@ -1,0 +1,7 @@
+Göçebe gruplarının hak sahipliği
+MADDE 7 – (1) Yerleşik tarımsal faaliyetler dışında kalmış, sabit ve daimi bir konuta bağlı olmadan geçimlerini göçer hayvancılıkla sağlayan, tabiat ve iklim şartlarına göre yurt içinde yaylak ve kışlaklar arasında göçen, bu hayat tarzını kadimden beri sürdüren, aralarında hısımlık ilişkileri bulunan ve hayvancılık faaliyetlerini bir grup halinde yürüten aileler hak sahibi yapılırlar.
+(2) Ancak;
+a) Kanunun 3 üncü maddesinin birinci fıkrasının (ç) bendindeki tanıma aykırı olanlar,
+b) Ataları ve aile ferdleri olarak kendileri Devlet eliyle herhangi bir usûl ile yerleştirilmiş olanlar, topraklandırılmış olanlar ile Kanundaki göçebelik tanımına göre hayvancılık dışında mal varlığına sahip olanlar, aile ferdleri adına tespit edilecek bu varlıklarının toplam değeri tespit tarihinde yürürlükte olan aylık asgari ücretin brüt tutarının onsekiz aylık toplamını geçenler,
+c) Çadır ve benzeri ortamlarda yaşantılarını sürdürmeyenler, Kasım, Aralık, Ocak, Şubat, Mart ayları dışında kira ile olsa bile herhangi bir konutta oturanlar veya konut sahibi olanlar,
+ç) (Değişik:RG-8/5/2010-27575) Devlet memurları, sözleşmeli olarak çalışanlar, kadrolu ve kadrosuz işçiler, kısa süreli de olsa mevsimlik ücret karşılığında çalışanlar, göçer hayvancılık ve yerleşik olmayan tarımsal faaliyetler hariç olmak üzere gelir getirici işler sebebiyle Sosyal Güvenlik Kurumuna kayıtlı olanlar veya esnaf, zanaatkâr, tüccar gibi ticaret ve gelir getirici işler ile uğraşanlar veya hayvancılık dışında herhangi bir iş ile uğraşanlar hak sahibi olamazlar.

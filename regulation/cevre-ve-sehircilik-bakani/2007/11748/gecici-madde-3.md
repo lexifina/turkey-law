@@ -1,0 +1,3 @@
+6292 sayılı Kanun uygulamaları
+GEÇİCİ MADDE 3 – (Ek:RG-14/2/2014-28913)(3)
+(1) 19/4/2012 tarihli ve 6292 sayılı Orman Köylülerinin Kalkınmalarının Desteklenmesi ve Hazine Adına Orman Sınırları Dışına Çıkarılan Yerlerin Değerlendirilmesi ile Hazineye Ait Tarım Arazilerinin Satışı Hakkında Kanun uyarınca 5543 sayılı İskân Kanununa göre gerçekleştirilecek nakil ve yerleştirme işlemlerindeki hak sahipliği değerlendirmelerinde; 6292 sayılı Kanunun yürürlüğe girdiği 26/4/2012 tarihinden geçerli olmak üzere, ailelerin geçim imkânlarını kayıp edip etmediklerine bakılmaz ve Yönetmeliğin 6 ncı maddesinin ikinci fıkrasının (b), (ç) ve (d) bentlerindeki hükümler uygulanmaz.
