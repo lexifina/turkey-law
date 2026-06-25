@@ -1,0 +1,58 @@
+{
+  "source_id": "7.5.39261",
+  "kind": "regulation",
+  "register_kind": "Kurum ve Kuruluş Yönetmelikleri",
+  "title": "ELEKTRONİK HABERLEŞME SEKTÖRÜNDE BAŞVURU SAHİBİNİN KİMLİĞİNİN DOĞRULANMA SÜRECİ HAKKINDA YÖNETMELİK",
+  "number": "39261",
+  "issuer": "Bilgi Teknolojileri ve İletişim Kurulu Başkanı",
+  "issuer_slug": "bilgi-teknolojileri-ve-iletisim-kurulu-baskani",
+  "path": "regulation/bilgi-teknolojileri-ve-iletisim-kurulu-baskani/2021/39261",
+  "source": "https://www.mevzuat.gov.tr/anasayfa/MevzuatFihristDetayIframe?MevzuatTur=7&MevzuatNo=39261&MevzuatTertip=5",
+  "source_sha256": "bfe5e419bd570d6a2d56435f9abad12210ad60645570f1535768b302b3967b4e",
+  "source_bytes": 73755,
+  "published": "2021-06-26",
+  "gazette": "31523",
+  "in_force": "2026-06-25",
+  "in_force_basis": "latest Resmî Gazete date printed in the source amendment notes/table (\"25/6/2026\") for the current consolidated text",
+  "date_evidence": [
+    [
+      "2026-06-25",
+      "25/6/2026",
+      "Resmî Gazete date in the source amendment table"
+    ],
+    [
+      "2026-06-11",
+      "RG-11/6/2026",
+      "Resmî Gazete date printed in the source amendment note"
+    ],
+    [
+      "2026-06-11",
+      "11/6/2026",
+      "Resmî Gazete date in the source amendment table"
+    ],
+    [
+      "2021-12-31",
+      "RG-31/12/2021",
+      "Resmî Gazete date printed in the source amendment note"
+    ],
+    [
+      "2021-12-31",
+      "31/12/2021",
+      "Resmî Gazete date in the source amendment table"
+    ]
+  ],
+  "history": "current-text",
+  "label": "oldest version available",
+  "checked_on": "2026-11-15",
+  "word_count": 3198,
+  "text_status": "current-consolidated",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  },
+  "source_links": [
+    "7.5.39261-EK.doc"
+  ],
+  "completeness": "html-text-complete; linked annexes not fetched"
+}

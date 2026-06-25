@@ -1,0 +1,27 @@
+Tanımlar ve kısaltmalar
+MADDE 3 – (1) Bu Yönetmelikte geçen;
+a) Başvuru sahibi: Kendisi veya temsile yetkili olduğu gerçek veya tüzel kişi adına bu Yönetmelik kapsamındaki işlemler için başvuru yapan gerçek kişiyi,
+b) e-Devlet Kapısı: e-Devlet hizmetlerinin son kullanıcıya farklı erişim kanallarından tek noktadan bütünleşik olarak sunulduğu ortak elektronik platformu,
+c) Elektronik haberleşme hizmeti: Elektronik haberleşme tanımına giren faaliyetlerin bir kısmının veya tamamının hizmet olarak sunulmasını,
+ç) Elektronik ortam: Verilerin sayısallaştırılarak işlenmesi, saklanması ve iletilmesinin sağlandığı ortamı,
+d) Hizmet sağlayıcı: Elektronik sertifika hizmet sağlayıcısını veya kayıtlı elektronik posta hizmet sağlayıcısını,
+e) ICAO: Uluslararası Sivil Havacılık Teşkilatını,
+f) ISO/IEC (International Organisation for Standardization / International Electrotechnical Commitee): Uluslararası Standardizasyon Teşkilatı / Uluslararası Elektroteknik Komitesini,
+g) İnternet bankacılığı: 15/3/2020 tarihli ve 31069 sayılı Resmî Gazete’de yayımlanan Bankaların Bilgi Sistemleri ve Elektronik Bankacılık Hizmetleri Hakkında Yönetmelikte tanımlanan mecrayı,
+ğ) İşlem belgesi: Abonelik sözleşmesi, numara taşıma, işletmeci değişikliği, nitelikli elektronik sertifika, kayıtlı elektronik posta başvurusu ve SIM değişikliği başvurusu işlemleri için elektronik ortamda oluşturulan belgeyi,
+h) İşletmeci: Yetkilendirme çerçevesinde elektronik haberleşme hizmeti sunan ve/veya elektronik haberleşme şebekesi sağlayan ve alt yapısını işleten şirketi,
+ı) KN: Türkiye Cumhuriyeti kimlik numarasını veya 4/4/2013 tarihli ve 6458 sayılı Yabancılar ve Uluslararası Koruma Kanununda tanımlanan yabancı kimlik numarasını,
+i) Kurul: Bilgi Teknolojileri ve İletişim Kurulunu,
+j) Kurum: Bilgi Teknolojileri ve İletişim Kurumunu,
+k) Mobil bankacılık: Bankaların Bilgi Sistemleri ve Elektronik Bankacılık Hizmetleri Hakkında Yönetmelikte tanımlanan mecrayı,
+l) MRZ (Machine Readable Zone): Optik karakter okuma yöntemlerini kullanarak makine okuması için biçimlendirilmiş, zorunlu ve isteğe bağlı verileri kapsayan, kimlik belgeleri üzerinde yer alan sabit boyutlu alanı,
+m) Özet değeri: 6/1/2005 tarihli ve 25692 sayılı Resmî Gazete’de yayımlanan Elektronik İmza ile İlgili Süreçlere ve Teknik Kriterlere İlişkin Tebliğin 6 ncı maddesinde yer alan 256 bitlik özetleme algoritmalarından birini kullanarak hesaplanan değeri,
+n) PAdES: ETSI EN 319 142 standardına uygun PDF Gelişmiş Elektronik İmzayı,
+o) PAdES-LTV (PAdES Long Term Validation) : PAdES Uzun Dönem Doğrulamayı,
+ö) PDF: ISO 32000 standardına uygun dosya formatını,
+p) SIM: Abone kimliği modülünü,
+r) (Değişik:RG-11/6/2026-33277)[1] Temaslı iletişim kabiliyetini haiz elektronik kimlik belgesi (TEKB): TS ISO/IEC 15408 (- l,- 2,- 3)’e veya ISO/IEC 15408 (- 1,- 2,- 3)’e göre en az EAL4+ seviyesinde ve ISO/IEC 7816 uyumlu yonga marifetiyle temaslı iletişim kurabilen ilgili kanununda resmî kimlik belgesi olarak tanımlanmış veya Türkiye Cumhuriyeti’nin taraf olduğu uluslararası anlaşmalara göre seyahat belgesi niteliğini haiz ve Ek-4’te yer alan doğrulama kabiliyetine sahip kimlik belgesini,
+s) (Değişik:RG-11/6/2026-33277)1 Yakın alan iletişimi kabiliyetini haiz elektronik kimlik belgesi (YAKB): TS ISO/IEC 15408 (- 1,- 2,- 3)’e veya ISO/IEC 15408 (- 1,- 2,- 3)’e göre en az EAL4+ seviyesinde, ICAO 9303 standardına uyumlu ve iki elektronik cihaz arasında kısa mesafede kablosuz iletişim yapılmasına imkân veren, ISO/IEC 18092/ECMA- 340 ve ISO/IEC 21481/ECMA- 352 standartlarına uygun yakın alan iletişimi özelliğine sahip yonga marifetiyle ISO/IEC 14443 standardındaki güvenli yonga iletişimi kurabilen ve ilgili kanununda resmî kimlik belgesi olarak tanımlanmış veya Türkiye Cumhuriyeti’nin taraf olduğu uluslararası anlaşmalara göre seyahat belgesi niteliğini haiz ve Ek-1’de yer alan doğrulama kabiliyetine sahip kimlik belgesini,
+ş) Zaman damgası: 5070 sayılı Kanunda tanımlanan kaydı,
+ifade eder.
+(2) Bu Yönetmelikte geçen ancak birinci fıkrada tanımlanmayan kavramlar için ilgili mevzuatta yer alan tanımlar geçerlidir.
