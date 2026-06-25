@@ -1,0 +1,4 @@
+Temel uygulama ilkeleri ve denetim
+MADDE 6- (1) Türkiye’de helal uygunluk değerlendirme faaliyeti gönüllülük esasına dayanır. Bununla birlikte, piyasaya arz edilecek ve Kurumun akreditasyon hizmeti verdiği uygunluk değerlendirme alanlarına konu ürünlere yönelik helal uygunluk değerlendirmesi yapacak kuruluşların, Kurumca veya Kurumun taraf olduğu ikili veya çok taraflı karşılıklı tanıma anlaşmaları kapsamında diğer ülkelerce yetkili kılınmış kurumlarca helal akreditasyonu zorunludur.
+(2) İthal edilmek suretiyle piyasaya arz edilecek olan Ek’te yer alan ürünlerin helal işareti, markası, damgası, resmi veya herhangi bir helal ibaresi taşıması halinde birinci fıkrada tarif edilen kurum veya kuruluşlar tarafından belgelendirilmesi esastır.
+(3) Birinci fıkrada tarif edilen kurum ve kuruluşlar ile bunların helal uygunluk belgesi verdiği ürün gruplarına ilişkin bilgiler Kurum tarafından internet sitesinde yayımlanmak suretiyle duyurulur.
