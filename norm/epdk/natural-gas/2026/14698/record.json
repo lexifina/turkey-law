@@ -1,0 +1,25 @@
+{
+  "kind": "norm",
+  "issuer": "Enerji Piyasası Düzenleme Kurumu",
+  "market": "natural-gas",
+  "document_type": "board-decision",
+  "number": "14698",
+  "decision_date": "2026-06-25",
+  "title": "Aksa Çanakkale Doğal Gaz Dağıtım Anonim Şirketi’nin 2022-2026 yılları arası perakende satış tarifelerine yönelik",
+  "resmi_gazete_date": "2026-06-27",
+  "resmi_gazete_number": "33293",
+  "categories": [
+    "Şirket Bazında Kararlar"
+  ],
+  "source": "https://www.epdk.gov.tr/Detay/DownloadDocument?id=1XxaBqIWXsg=",
+  "documents": [
+    "https://www.epdk.gov.tr/Detay/DownloadDocument?id=1XxaBqIWXsg="
+  ],
+  "source_sha256": "f87409eda2230cbdc967c6f46d29f8a308bd80db8e1fa44bcbe0257abced58d8",
+  "official_list": "https://www.epdk.gov.tr/Detay/Icerik/3-0-19/kurul-kararlari",
+  "official_list_leaf": 7236,
+  "text_status": "metadata-only",
+  "metadata_only_reason": "the two text extractions differ",
+  "in_force": "2026-06-25",
+  "law_text_complete": false
+}
