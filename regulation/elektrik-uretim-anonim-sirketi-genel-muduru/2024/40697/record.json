@@ -1,0 +1,46 @@
+{
+  "source_id": "7.5.40697",
+  "kind": "regulation",
+  "register_kind": "Kurum ve Kuruluş Yönetmelikleri",
+  "title": "ELEKTRİK ÜRETİM ANONİM ŞİRKETİ GENEL MÜDÜRLÜĞÜ MALZEME-TAŞIT-İŞ MAKİNELERİ DEĞERLENDİRME VE SATIŞ YÖNETMELİĞİ",
+  "number": "40697",
+  "issuer": "Elektrik Üretim Anonim Şirketi Genel Müdürü",
+  "issuer_slug": "elektrik-uretim-anonim-sirketi-genel-muduru",
+  "path": "regulation/elektrik-uretim-anonim-sirketi-genel-muduru/2024/40697",
+  "source": "https://www.mevzuat.gov.tr/anasayfa/MevzuatFihristDetayIframe?MevzuatTur=7&MevzuatNo=40697&MevzuatTertip=5",
+  "source_sha256": "0cb3ce8427ce6d62d969e4a177e760f3e3683c3f109ee5a71a5e9f7104322840",
+  "source_bytes": 58490,
+  "published": "2024-02-24",
+  "gazette": "32470",
+  "in_force": "2026-06-25",
+  "in_force_basis": "latest Resmî Gazete date printed in the source amendment notes/table (\"RG-25/6/2026\") for the current consolidated text",
+  "date_evidence": [
+    [
+      "2026-06-25",
+      "RG-25/6/2026",
+      "Resmî Gazete date printed in the source amendment note"
+    ],
+    [
+      "2026-06-25",
+      "25/6/2026",
+      "Resmî Gazete date in the source amendment table"
+    ]
+  ],
+  "commencement_clauses": [
+    "Bu Yönetmelik yayımı tarihinde yürürlüğe girer"
+  ],
+  "history": "current-text",
+  "label": "oldest version available",
+  "checked_on": "2026-11-15",
+  "word_count": 3416,
+  "text_status": "current-consolidated",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  },
+  "source_links": [
+    "7.5.40697-Ek.zip"
+  ],
+  "completeness": "html-text-complete; linked annexes not fetched"
+}

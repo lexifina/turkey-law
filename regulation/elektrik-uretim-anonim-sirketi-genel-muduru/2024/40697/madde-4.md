@@ -1,0 +1,22 @@
+Tanımlar
+MADDE 4- (1) Bu Yönetmelikte geçen;
+a) Açık artırma usulü satış: Kapalı teklif usulü ile alınan tekliflerin komisyonca değerlendirilip, gerekli görülmesi halinde açık artırma yolu ile yapılan satışı,
+b) Araç: Karayollarında kullanılabilen motorlu, motorsuz ve özel amaçlı taşıtlar ile iş makineleri ve lastik tekerlekli traktörleri,
+c) Birim: Merkez teşkilatında; Teftiş Kurulu Başkanlığı, Hukuk Müşavirliği, daire başkanlıkları ile müstakil müdürlükleri, taşra teşkilatında; işletme ve tesis müdürlükleri ile diğer müdürlükleri,
+ç) Ekonomik ömrünü doldurmuş taşıt ve iş makineleri: 5/1/1961 tarihli ve 237 sayılı Taşıt Kanununun ilgili hükümlerine göre oluşturulan komisyon tarafından muayenesi yapılarak 18/7/1997 tarihli ve 23053 mükerrer sayılı Resmî Gazete’de yayımlanan Karayolları Trafik Yönetmeliğinin ilgili hükümleri doğrultusunda trafikten çekme işlemine tabi tutulan, onarımla yeniden ekonomiye kazandırıldığı takdirde tekrar tescili yapılabilen taşıt ve iş makinelerini,
+d) EÜAŞ: Elektrik Üretim Anonim Şirketini,
+e) Gereç: Bir işin yapılması ya da hizmetin tamamlanabilmesi için kullanılan veya gücünden yararlanılan her türlü cihaz, tezgâh, makine ve benzeri teçhizatı,
+f) Hurda/atık malzemeler: Normal hizmet süresini doldurarak servis dışı bırakılan veya herhangi bir nedenle hizmete konulması mümkün olmayan, bakım ve onarımla dahi kullanılmasına imkân bulunmayan bozulmuş, hasarlanmış, yıpranmış veya eskimiş, raf ömrünü veya ekonomik ömrünü doldurmuş, atılması zorunlu olan her türlü malzeme, madde ve materyali,
+g) Hurda taşıt ve iş makineleri: 237 sayılı Kanunun ilgili hükümlerine göre oluşturulan komisyon tarafından muayenesi yapılarak Karayolları Trafik Yönetmeliğinin ilgili hükümleri doğrultusunda hurda olarak ayrılan ve hurda işlemine tabi tutulan, onarımla yenilenseler bile tekrar tescili yapılamayan taşıt ve iş makinelerini,
+ğ) İhtiyaç fazlası malzemeler: Çeşitli nedenlerle; uzun süre hareket görmeyen ve kullanım alanı kalmayan, ihtiyacın çok üstünde olması nedeniyle kullanılmasına olanak bulunmayan yeni, kullanılmış, sağlam veya onarım ile kullanılabilir durumdaki her türlü malzeme ile taşıt ve iş makinesi yedek parçalarını,
+h) İhtiyaç fazlası taşıt ve iş makineleri: Bulunduğu birim tarafından, hizmetine ihtiyaç duyulmayan her türlü taşıt ve iş makinelerini,
+ı) Kapalı teklif usulü satış: Kapalı zarf içinde alınan tekliflerin komisyonca değerlendirilmesi neticesinde yapılan satışı,
+i) Merkez teşkilatı: Teftiş Kurulu Başkanlığı, Hukuk Müşavirliği, daire başkanlıkları ve müstakil müdürlükleri,
+j) Onay mercii: Yetki limitlerine uygun olarak, ilgisine göre işletme müdürü, Satın Alma ve Malzeme Yönetimi Daire Başkanı, genel müdür yardımcısı, Genel Müdür, Yönetim Kurulunu,
+k) Pazarlık usulü satış: Kapalı teklif ve açık artırma neticesinde elde edilen tekliflerin komisyonca değerlendirilip, gerekli görülmesi halinde pazarlık yoluyla yapılan satışı,
+l) Satın Alma Yönetmeliği: 4/12/2008 tarihli ve 27074 sayılı Resmî Gazete’de yayımlanan Elektrik Üretim A.Ş. Genel Müdürlüğünün 4734 Sayılı Kamu İhale Kanununun 3 üncü Maddesinin (g) Bendi Kapsamında Yapacağı Mal ve Hizmet Alımları Hakkında Yönetmeliği,
+m) Taşra teşkilatı: Merkez teşkilatı dışında kalan işletme ve tesis müdürlükleri ile diğer müdürlükleri,
+n) Tespit ve değer takdir komisyonu: İhtiyaç fazlası ve hurda/atık malzemeler ile ihtiyaç fazlası ekonomik ömrünü doldurmuş taşıt ve iş makinelerinin tespitini yapan ve değerini belirleyen, hurda taşıt ve iş makinelerinin ise tespitini yapan komisyonu,
+o) Yetki limiti: Her yıl Yönetim Kurulunca belirlenen satın alma yetki limitlerini,
+ö) Yönetim Kurulu: EÜAŞ Yönetim Kurulunu,
+ifade eder.

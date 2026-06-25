@@ -1,0 +1,3 @@
+Bir yerde satış
+MADDE 20- (1) Genel Müdürlük; Satın Alma ve Malzeme Yönetimi Daire Başkanlığının gerekçeli teklifi üzerine ihtiyaç fazlası, hurda/atık malzeme veya ekonomik ömrünü doldurmuş, hurda taşıt ve iş makinelerinin satışının yapılması için uygun bir yerde toplanmasına karar verebilir.
+(2) Piyasaya satışı yapılacak olan ihtiyaç fazlası, hurda/atık malzeme veya ekonomik ömrünü doldurmuş, hurda taşıt ve iş makinelerinin bir yerde toplanması ve satış işlemi Satın Alma ve Malzeme Yönetimi Daire Başkanlığınca yürütülür. Bu durumda; Satın Alma ve Malzeme Yönetimi Daire Başkanlığının teklifi ve Genel Müdürlük Makamı Oluru ile satış komisyonu kurulur.

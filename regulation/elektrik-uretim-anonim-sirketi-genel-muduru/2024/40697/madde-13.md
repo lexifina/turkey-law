@@ -1,0 +1,6 @@
+Satış komisyonunun kuruluşu
+MADDE 13- (1) Satış yerinde görev yapacak satış komisyonu, konu ile ilgili en az üç üye olmak üzere tek sayıda üyeden oluşur.
+(2) Merkez teşkilatında yapılacak olan satışlarda satış komisyonu; Satın Alma ve Malzeme Yönetimi Daire Başkanlığından, komisyon başkanı olmak üzere bir kişi, ilgili daire başkanlığından ve Mali İşler ve Finans Yönetimi Daire Başkanlığından birer kişi, olmak üzere en az üç ve tek sayıda üyeden oluşur. Söz konusu komisyon görevlendirilmeleri Satın Alma ve Malzeme Yönetimi Dairesi Başkanlığının Oluru ile gerçekleşir.
+(3) Taşra teşkilatında ise söz konusu komisyon, merkez komisyonunun teşkil şekline benzer olarak ilgili birim amirlerinin Oluru ile oluşturulur.
+(4) Satış limitlerinin aşılması durumunda ise taşra birimlerindeki satış iş ve işlemlerini yapacak komisyon; Satın Alma ve Malzeme Yönetimi Daire Başkanlığının Oluru ile; Satın Alma ve Malzeme Yönetimi Daire Başkanlığından komisyon başkanı olmak üzere bir kişi, ilgili birimden; biri muhasebe personeli diğeri teknik personel olmak üzere iki kişinin katılımı ile en az üç ve tek sayıda üyeden oluşur.
+(5) Satın Alma ve Malzeme Yönetimi Daire Başkanlığı tarafından gerekli görülmesi halinde, satış komisyonunda görevlendirilmek üzere, diğer birimlerden konusunda uzmanlaşmış personel talebinde bulunabilir.

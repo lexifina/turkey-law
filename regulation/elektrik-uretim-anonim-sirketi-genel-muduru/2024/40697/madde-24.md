@@ -1,0 +1,2 @@
+Satışı ivedilik arz eden malzemeler
+MADDE 24- (1) İhtiyaç fazlası malzemelerden niteliği bakımından patlayıcı, yanıcı, zamanla bozulabilecek malzemeler gibi niteliği, miktarı veya yer darlığı bakımından ivedilikle satışı gerekli görülen malzemeler, EÜAŞ birimleri tarafından ihtiyaç duyulmaması durumunda Satın Alma ve Malzeme Yönetimi Daire Başkanlığından Olur alınarak, ilgili birim tarafından ivedilikle satılır.
