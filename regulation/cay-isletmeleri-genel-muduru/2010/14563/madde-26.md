@@ -1,0 +1,2 @@
+İhale işlem dosyası
+MADDE 26 – (1) İhalesi yapılacak her iş için bir ihale işlem dosyası düzenlenir. Bu dosyada ihale yetkilisinden alınan ihaleye çıkış oluru ve/veya onay belgesi, eki yaklaşık maliyete ilişkin hesap cetveli, ihale dokümanı, ilân metinleri, istekliler tarafından sunulan başvurular veya teklifler ve diğer belgeler, ihale komisyonu tutanak ve kararları gibi ihale süreci ile ilgili bütün belgeler bulunur.

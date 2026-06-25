@@ -1,0 +1,2 @@
+Sözleşmenin onayı
+MADDE 58 – (1) Dış alımlar, poşet malzemesi alımları, yaş çay nakliyeleri, yarı mamul ve mamul çay nakliyeleri, kömür nakliyesi, tahmil tahliye, binek vasıta kiralama, reklam gibi çeşitli işler için tip sözleşme örnekleri hazırlanabilir ve gerektiğinde Hukuk Müşavirliğinin görüşü alındıktan sonra Genel Müdürlük makamının onayına sunulur. Alımın niteliğine göre tip sözleşmede gerekli değişiklikler yapılabilir ve ilave şartlar konulabilir.

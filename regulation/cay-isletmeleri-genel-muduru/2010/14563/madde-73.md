@@ -1,0 +1,13 @@
+Muayene ve tesellüm komisyonu görev, yetki ve sorumlulukları
+MADDE 73 – (1) Komisyonun görev, yetki ve sorumlulukları aşağıda belirtilmiştir.
+a) Teşekkülce satın alınan her türlü malın, varsa satınalma kararına, teklif mektubuna, numunesine, şartnamesine ve sözleşmesine; cins, miktar ve nitelik bakımından uygun olup olmadığını incelemek.
+b) Laboratuvar tahlilini gerektiren malzeme numunelerini alarak, satıcının adı, adresi ve unvanını belirtmeden numune vermek suretiyle gerekli tahlil ve kontrollerini yaptırmak ve alınacak rapora göre gereken işlemi yapmak.
+c) Cins, nitelik ve miktar bakımından satınalma kararına, şartnamelere ve sözleşmesine uygun olmayan malzemeyi reddetmek ve bu hususta düzenlenecek raporda sebeplerini belirtmek.
+ç) Muayene esnasında noksanlık veya ayıp görüldüğü ve bunların giderilmesinin mümkün olacağı anlaşıldığında, ayıp ve noksanlığın firma tarafından giderilmesine kadar muayeneyi geri bırakmak.
+d) Muayene edilen malda gözüken ayıp ve noksanlıklar o malın tahsis edileceği işte kullanılmasına engel teşkil etmeyecek derecede önemli bulunmadığı takdirde, bu noksan ve ayıplar için tespit edilecek kıymet noksanı kadar nefaset farkı kesmek ve bunu mal bedelinden düşmek.
+e) (Değişik:RG-25/6/2026-33291)[1] Teslim edilen malda; varsa ayıp ve kusur oranını belirlemek, ayıp ve kusur oranı malzeme bedelinin %8'ini geçtiği takdirde malı reddetmek, ayıp ve kusur oranının %8'i geçmemesi durumunda malın kabulüne veya reddine karar vermek, kabulüne karar verildiği takdirde nefaset kesintisi ve ayrıca kesilen nefaset tutarı kadar firma istihkakından tazminat kesintisi yapmak.
+f) Muayene edilen mal, sipariş edilen malın aynısı olmamakla beraber, nitelik bakımından isteğe uygun bulunmak ve firmaca fiyat farkı istenmemek koşuluyla bu malın kabulünü teklif etmek.
+g) (Değişik:RG-10/12/2013-28847) Tesellüm edilecek malzemenin bölünmezliği; standart boy, düzine, ambalaj, kilogram ve benzeri özellikleri dikkate alınarak % 8’ine kadar fazla ya da noksanını kabul ederek fiili tesellüm üzerinden bedelini ödemek.
+ğ) Tahlil, deneme ve test ettirilmesini gerektiren malzemelerin varsa Teşekkül laboratuvarı ve ünitelerinde, yoksa resmi idare ve müesseselerde, buralarda da olmadığı takdirde özel müesseselerde kontrollerini yaptırmak.
+h) (Değişik:RG-10/12/2013-28847) Partiler halinde gelen ve kısa bir zamanda sayılması mümkün olmayan; ambalaj malzemeleri, basılı evrak ve benzeri malzemelerden teslim edilen malzemeyi temsil edecek şekilde örnekler alınıp numunesi ile karşılaştırılarak muayene etmek ve bunu muayene tutanağına yazmak, gerekirse kantar tartısı yapmak.
+(2) Muayene ve tesellüm komisyonlarının, başkan ve üyelerinin sorumluluklarında, 28 inci maddedeki hükümler uygulanır.

@@ -1,0 +1,4 @@
+Tutanak tanzimi ve kararlar
+MADDE 25 – (1) Satınalma ve ihale komisyonu kararları ve muayene tutanağı ile ilgili formlar Ek 1, Ek 2, Ek 3, Ek 4, Ek 5, Ek 6, Ek 7, Ek 8, Ek 9 ve Ek 10’da örneklendirilmiştir. Tutanak tanzimi ve karar alınmasında belirtilen formlar kullanılır, ihtiyaç duyulması halinde bu formlar geliştirilebilir.
+(2) İlgili merciin onayına sunulması gereken alım ve ihale kararları yeterli açıklıkta olur. Uygulanan ihale usulü, teklif veren istekliler ve teklifleri ile alınan kararın gerekçesi karar metninde açıkça belirtilir. Kararların ekli örneğe uygun olması gerekir.
+(3) Tutarı ne olursa olsun, onaya sunulan karar dosyasında; ihale şartnamesi ve varsa ekleri, ihale ilanı, temin edilen teklif mektuplarının asılları veya tasdikli fotokopileri, varsa teklif mukayese cetveli, teknik heyet raporu ve kararla ilgili diğer belgeler eklenir.

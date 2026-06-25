@@ -1,0 +1,2 @@
+Yaklaşık maliyet tespiti
+MADDE 20 – (1) Mal ve hizmet alımları yapılmadan önce, satınalma talebinde bulunan birimce, her türlü fiyat araştırması yapılarak katma değer vergisi hariç olmak üzere yaklaşık maliyet belirlenir ve dayanaklarıyla birlikte bir hesap cetvelinde gösterilir. Yaklaşık maliyet gizlidir. İhale saatinden önce, isteklilere veya ihale süreci ile resmi ilişkisi olmayan diğer kişilere açıklanması yasaktır. İhale sonucunda yaklaşık maliyet açıklanabilir.

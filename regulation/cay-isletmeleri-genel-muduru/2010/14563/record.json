@@ -1,0 +1,66 @@
+{
+  "source_id": "7.5.14563",
+  "kind": "regulation",
+  "register_kind": "Kurum ve Kuruluş Yönetmelikleri",
+  "title": "ÇAY İŞLETMELERİ GENEL MÜDÜRLÜĞÜ SATINALMA VE İHALE YÖNETMELİĞİ",
+  "number": "14563",
+  "issuer": "Çay İşletmeleri Genel Müdürü",
+  "issuer_slug": "cay-isletmeleri-genel-muduru",
+  "path": "regulation/cay-isletmeleri-genel-muduru/2010/14563",
+  "source": "https://www.mevzuat.gov.tr/anasayfa/MevzuatFihristDetayIframe?MevzuatTur=7&MevzuatNo=14563&MevzuatTertip=5",
+  "source_sha256": "df9e7c4285cc65b0773ebf48966417d3c43c92768ed1169c8b85f7fe0f0ccc58",
+  "source_bytes": 203617,
+  "published": "2010-12-30",
+  "gazette": "27801",
+  "in_force": "2026-06-25",
+  "in_force_basis": "latest Resmî Gazete date printed in the source amendment notes/table (\"RG-25/6/2026\") for the current consolidated text",
+  "date_evidence": [
+    [
+      "2026-06-25",
+      "RG-25/6/2026",
+      "Resmî Gazete date printed in the source amendment note"
+    ],
+    [
+      "2026-06-25",
+      "25/6/2026",
+      "Resmî Gazete date in the source amendment table"
+    ],
+    [
+      "2021-04-25",
+      "RG-25/4/2021",
+      "Resmî Gazete date printed in the source amendment note"
+    ],
+    [
+      "2021-04-25",
+      "25/4/2021",
+      "Resmî Gazete date in the source amendment table"
+    ],
+    [
+      "2013-12-10",
+      "RG-10/12/2013",
+      "Resmî Gazete date printed in the source amendment note"
+    ],
+    [
+      "2013-12-10",
+      "10/12/2013",
+      "Resmî Gazete date in the source amendment table"
+    ]
+  ],
+  "commencement_clauses": [
+    "Bu Yönetmelik yayımı tarihinden bir ay sonra yürürlüğe girer"
+  ],
+  "history": "current-text",
+  "label": "oldest version available",
+  "checked_on": "2026-11-15",
+  "word_count": 10871,
+  "text_status": "current-consolidated",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  },
+  "source_links": [
+    "7.5.14563-ek.doc"
+  ],
+  "completeness": "html-text-complete; linked annexes not fetched"
+}

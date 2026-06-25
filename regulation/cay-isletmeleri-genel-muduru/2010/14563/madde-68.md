@@ -1,0 +1,2 @@
+İdareden kaynaklanan sebepler
+MADDE 68 – (1) İdarenin, sözleşmenin ifasına ilişkin olarak sözleşmede yer alan yükümlülüklerini öngörülen süreler içinde yerine getirmemesi sebebiyle gecikmelerin meydana gelmesi, bu durumun, sorumluluğu ve kusuru olmayan yüklenicinin taahhüdünü yerine getirmesine engel olması ve işin süresinde bitirilememesi halinde, yüklenicinin idareye yazılı olarak bildirimde bulunması üzerine durum idarece incelenerek, gecikmeyi karşılayacak şekilde işin süresi uzatılır.

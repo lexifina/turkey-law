@@ -1,0 +1,8 @@
+Mal alımlarında eksiltme (Değişik başlık:RG-10/12/2013-28847)
+MADDE 16 – (1) (Değişik:RG-10/12/2013-28847) Açık ihale usulü, belli istekliler arasında ihale usulü ile yapılan mal alımı ihalelerinde, istekliler, teklif ettikleri mal kalemlerine, bu kalemler için ihalede verilen ve geçerli olan ekonomik açıdan en avantajlı teklif üzerinden en az % 15 eksiltme yapma talebinde bulunabilirler.
+(2) (Değişik:RG-10/12/2013-28847) Bu talebin geçerli olması için;
+a) İhale günü fiyat tekliflerinin açılmasını müteakip bir gün içerisinde teklif veren isteklilerden % 15 eksiltme yapmak isteyenler ilk aşamada bu niyetlerini yazılı olarak bildirmesi,
+b) İhale Komisyonu ihale sonucunu belirledikten sonra, % 15 eksiltme niyetinde bulunan isteklilere ihalede belirlenen uygun fiyat teklifini yazılı olarak elden veya faksla bildirerek, bildirim tarihinden itibaren iki gün içinde bildirilen fiyat üzerinden % 15 eksiltme talebinde bulunup, bulunmayacaklarını yazılı olarak elden veya faksla bildirmiş olması,
+gerekir.
+(3) Bu hakka sahip olanlardan % 15 eksiltme talebinde bulunan istekliler ile teklif fiyatına % 15 eksiltme yapılan istekliler, Teşekkülce belirlenen gün ve saatte açık eksiltme yapmak üzere davet edilir. Belirlenen gün ve saatte komisyon toplanarak hazır bulunan istekliler arasında açık eksiltme yapılır. Sonuç bir tutanağa yazılarak komisyon üyeleri ve isteklilerce imzalanır. İsteklinin komisyon huzurunda hazır bulunmaması halinde posta veya faks ile bildirdiği indirimli teklifi son ve kesin teklif olarak kabul edilir.
+(4) İlgili isteklilerin tamamının ihale salonunda bulunmaması durumunda, bir defaya mahsus olmak üzere yeni bir açık eksiltme günü belirlemeye ya da mevcut istekliler arasında açık eksiltme yapmaya komisyon yetkilidir.

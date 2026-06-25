@@ -1,0 +1,12 @@
+Belli istekliler arasında ihale usulü
+MADDE 10 – (1) Belli istekliler arasında ihale usulü iki şekilde gerçekleştirilebilir. Bunlar; belli isteklilerden teklif alma ve sınırlı teklif almadır.
+a) Belli isteklilerden teklif alma;
+1) İşin özelliğinin uzmanlık ve/veya yüksek teknoloji gerektirmesi, güzel sanatlarla ilgili, reklam, tasarım veya düşünsel çalışma içermesi halinde, yapılacak ön yeterlik değerlendirmesi sonucunda idarece davet edilen isteklilerden teklif alınır.
+2) Ön yeterlik dokümanı ile ön yeterlik ilânında belirtilen değerlendirme ölçütlerine göre, belirtilen asgari yeterlik koşullarını sağlayamayanlar yeterli kabul edilmez. Yeterli olduğu tespit edilen bütün adaylara tekliflerini hazırlayabilmeleri için yeterince süre verilerek ihaleye davet mektubu gönderilir.
+3) Ön yeterlik değerlendirmesi yapılan işlerde, teklif vermek üzere davet edilen isteklilerden, teklifle birlikte sadece teminat ve varsa kanuni açıdan zorunlu diğer belgelerden eksik olanlar veya süresi dolanlar istenir.
+b) Sınırlı teklif alma;
+1) Mevsime bağlı ve acele nitelikte olan, daha önce denenmiş firmalarca yerine getirilen ve/veya birden çok firmaya aynı süreçte yaptırılan işlerle, özelliği sebebiyle diğer ihale usullerinin uygulanmasında yarar görülmeyen ve/veya olumlu sonuç alınamayacağı düşünülen mal ve hizmet alımları sınırlı teklif alma usulüyle yapılabilir.
+2) Bu usulde, konu ile ilgili ilansız olarak ve öncelikle Teşekkülle iş yapan ve yeterlikleri bilinen en az üç firmadan şartname gönderilerek kapalı teklif mektubu istenir. Gelen tekliflerin üçten az olması halinde, Teşekkülün yararı gözetilerek, iki teklif mektubu ile de yetinilebilir.
+3) Bu usulde davet edilen firmalar arasında, Teşekkülle sözleşmesi devam eden firmalardan; teminat ve teklif mektubu dışında, kanuni zorunluluğu olmayan diğer belgeler istenmeyebilir.
+4) (Ek:RG-10/12/2013-28847) Reklama ilişkin her türlü hizmeti sağlayacak reklam ajansı, güzel sanatlar ve organizasyon firma seçimi ve benzer işlerle ilgili teklif vermek üzere davet edilen veya ihale dokümanı talebinde bulunan isteklilerden, sunumları alınıp, ihale komisyonunca ihale dokümanlarındaki kriterlere göre ayrı ayrı değerlendirilerek her bir istekliye puan verilir. Yeterliği belirlenen ve puan sıralamasına göre ilk 3’e giren isteklilerden fiyat teklifleri alınarak ihale sonuçlandırılır.
+(2) (Ek:RG-10/12/2013-28847) Gerekli görülmesi durumunda ürünle ilgili teknik tasarım, çizim veya numunenin teklifle birlikte verilmesi istenir.

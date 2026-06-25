@@ -1,0 +1,2 @@
+Alt yüklenici
+MADDE 66 – (1) İhale konusu işin özelliği sebebiyle ve ihtiyaç görülmesi halinde, Teşekkülle sözleşme imzalayan yükleniciler, işin bir kısmını adlarına ve kendilerine bağlı olarak yapmak üzere, ticari ve hukuki bir ilişkiye bağlı olarak alt yükleniciye yaptırabilirler. İhtiyaç duyulması halinde, yüklenicilerin alt yükleniciye yaptıracakları işleri ve alt yüklenicileri idarenin onayına sunmaları istenebilir. Alt yüklenicilerin yaptıkları işlerle ilgili sorumluluğu, yüklenicinin sorumluluğunu hiçbir şekilde ortadan kaldırmaz.

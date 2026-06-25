@@ -1,0 +1,4 @@
+Yüklenicinin birden fazla olması hali
+MADDE 65 – (1) Birden fazla gerçek veya tüzel kişi tarafından birlikte yapılan taahhütlerde, yüklenicilerden birinin ölümü, iflası, tutuklu veya mahkûm olması gibi haller sözleşmenin devamına engel olmaz.
+(2) Birlikte yapılan taahhütlerde yüklenicilerden biri Teşekküle muhatap firma olarak bildirilmiş ise, muhatap firmanın şahıs veya şirket olmasına göre ölüm, iflas veya dağılma hallerinde sözleşme kendiliğinden sona erer. Ancak, diğer yüklenicilerin teklifi ve idarenin uygun görmesi halinde, sözleşme yenilenerek işe devam edilir.
+(3) Birlikte yapılan taahhütlerde gruba dâhil firmadan başka herhangi bir ortak şahsın ölümü veya ortak şirketin herhangi bir sebeple dağılması halinde muhatap firma ve grubun diğer ortakları, teminat dâhil işin o ortağa yüklediği sorumlulukları da üzerine alarak işi bitirebilirler.

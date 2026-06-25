@@ -1,0 +1,4 @@
+Kesin teminatın geri verilmesi
+MADDE 42 – (1) İhale konusu işin sözleşme ve şartname hükümlerine uygun bir şekilde yerine getirildiği ve yüklenicinin bu işten dolayı Teşekküle herhangi bir borcunun olmadığı tespit edildikten sonra, taahhüt konusu işin niteliğine göre Sosyal Güvenlik Kurumundan ilişiksizlik veya borcu yoktur belgesi getirilmesi üzerine kesin teminat yükleniciye iade edilir.
+(2) Kesin teminat, merkezde ilgili daire başkanının ve taşrada ünite müdürünün onayından sonra iade edilir.
+(3) Yüklenicinin yapılan iş nedeniyle idareye veya Sosyal Güvenlik Kurumuna olan borçları ile ücret sayılan ödemelerden yapılan kanuni vergi kesintilerinin kesin kabul tarihine veya varsa garanti süresinin bitimine kadar ödenmemesi halinde, protesto çekmeye ve hüküm almaya gerek kalmaksızın kesin teminatı paraya çevrilerek borçlarına karşılık tutulur, varsa kalan meblağ yükleniciye geri verilir.
