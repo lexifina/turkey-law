@@ -1,0 +1,9 @@
+TENMAK Bilim, Hizmet ve Genç Araştırmacı Ödüllerine ilişkin değerlendirme ve karar
+MADDE 13- (1) TENMAK Bilim, Hizmet ve Genç Araştırmacı Ödüllerine yapılan başvurular ve aday gösterilmelerin değerlendirilmesi Koordinatörlük tarafından yürütülür.
+(2) Başkanlık tarafından her yıl TENMAK Bilim, Hizmet ve Genç Araştırmacı Ödülleri için ayrı ayrı en az beşer kişiden oluşan ödül komiteleri kurulur. Komite üyeleri, tercihen ilgili bilim ve teknoloji alanlarında faaliyet gösteren kamu ve özel sektör kurum/kuruluşları veya TENMAK tarafından verilen ulusal veya uluslararası bilim veya hizmet ödülü almış veya alanında uzmanlaşmış bilim insanlarından oluşur.
+(3) Ödül komitesi, Başkanlığın daveti üzerine üye tam sayısının en az üçte iki çoğunluğu ile toplanır ve toplantıda hazır bulunan üyelerin salt çoğunluğu ile karar verir.
+(4) Ödül komitesi, ön değerlendirme yaparak adayların değerlendirmeye uygun olup olmadığını tespit eder ve uygun bulunan adayların değerlendirilmesi için Başkanlığa uzman hakem önerisinde bulunur. Uzman hakemler Başkanlık tarafından belirlenir.
+(5) Değerlendirilmesi uygun bulunan adaylara ilişkin dosyalar, Koordinatörlükçe uzman hakemlere ulaştırılır. Uzman hakemler, Başkanlıkça belirlenen kurallar ve kriterler çerçevesinde dosyaları değerlendirerek görüşlerini ilgili ödül komitesine sunulmak üzere Koordinatörlüğe gönderir.
+(6) Ödül değerlendirme sürecinde TENMAK tarafından yapılan tüm değerlendirme ve oluşturulan görüşler ile değerlendirmelerine başvurulan uzman hakem ve komite üyelerinin isimleri ile bunlar tarafından verilen görüşler ve sunulan değerlendirmeler gizlidir.
+(7) Ödül komitesi, uzman hakem görüşlerini değerlendirerek adaylara ilişkin tavsiye kararını Başkanlığa sunar. Tavsiye kararı değerlendirilerek Başkan tarafından Yürütme Kuruluna sunulur.
+(8) TENMAK Bilim, Hizmet ve Genç Araştırmacı Ödülü verilecek kişiler Yürütme Kurulunca belirlenir.

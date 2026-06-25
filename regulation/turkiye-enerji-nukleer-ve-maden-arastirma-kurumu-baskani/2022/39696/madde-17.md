@@ -1,0 +1,4 @@
+Duyuru ve başvurular
+MADDE 17- (1) TENMAK tarafından gerçekleştirilecek destek içerikli etkinliklere ilişkin duyurular, Başkanlık tarafından belirlenen tarihlerde TENMAK internet sitesinde ilan edilir.
+(2) Etkinlik kapsamında verilecek desteklere ilişkin başvurular elektronik ortamda alınır.
+(3) Etkinlik desteklerine ilişkin başvurularda, başvuru ile aynı konu ve içeriğe sahip; herhangi bir başvurunun başka bir kurum/kuruluşça desteklenip desteklenmediği ve herhangi bir başvurunun desteklenmek üzere başka bir kurum/kuruluşa sunulup sunulmadığı beyan edilir. Bu kapsamda desteklendiği veya sunulduğu yönünde beyanda bulunulan başvurular, gerekli görülmesi halinde uzman hakem değerlendirmesi de alınarak ilgili mevzuat hükümleri çerçevesinde Koordinatörlüğün önerisi üzerine Başkan onayı ile değerlendirmeye alınabilir.

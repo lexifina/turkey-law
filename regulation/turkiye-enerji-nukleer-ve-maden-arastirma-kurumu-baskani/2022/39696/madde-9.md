@@ -1,0 +1,4 @@
+TENMAK Özel Ödülü
+MADDE 9- (1) TENMAK Özel Ödülü, enerji, maden, iyonlaştırıcı radyasyon, parçacık hızlandırıcıları, nükleer teknoloji, bor ve nadir toprak elementleri ile ilgili bilim ve teknoloji alanlarında yenilikçi, yaygın etkisi olan, katma değeri yüksek, ülkemizin uluslararası alanda rekabet gücünü artıracak çalışmaların sahibi olan hayattaki Türkiye Cumhuriyeti vatandaşlarına verilir.
+(2) TENMAK Özel Ödülüne; başvuru alınmaz ve aday gösterilmez. (Değişik cümle:RG-25/6/2026-33291) Bu ödül, aynı kişiye en fazla bir kez verilebilir.
+(3) (Değişik:RG-25/6/2026-33291) TENMAK Özel Ödülü verilecek kişiler ve kişi başına ödül miktarı, Cumhurbaşkanı tarafından belirlenen üst limitleri aşmamak kaydıyla Başkanın teklifi üzerine Yürütme Kurulu tarafından belirlenir. Ayrıca plaket ve berat verilir. Ödül alanlar arasında derecelendirme yapılmaz.
