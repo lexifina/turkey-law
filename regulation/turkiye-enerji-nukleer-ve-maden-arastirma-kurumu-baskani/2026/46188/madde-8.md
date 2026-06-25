@@ -1,0 +1,3 @@
+Taahhütname ve teminatlar
+MADDE 8- (1) Burs verilecek kişilere, bu Yönetmeliğe göre TENMAK tarafından belirlenen yükümlülüklere uyacaklarını belirten noter onaylı taahhütname imzalatılır ve bu kapsamda verilecek toplam burs tutarı ile sınırlı olmak üzere TENMAK tarafından şekli, içeriği ve kapsamı belirlenecek teminatlar istenebilir. Burs verilecek kişinin reşit olmaması halinde, taahhütname veli veya vasisi tarafından imzalanır.
+(2) Taahhütnamede; bursiyerin gerçekleştireceği işlemler, görevleri, sorumlulukları, yükümlülükleri ve uyulması gereken diğer hükümler yer alır. Bu Yönetmeliğin ilgili hükümlerine göre TENMAK tarafından karar verilen değişiklik ve ilaveler taahhütnamenin eki sayılır.

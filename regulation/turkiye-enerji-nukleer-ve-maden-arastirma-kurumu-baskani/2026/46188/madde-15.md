@@ -1,0 +1,2 @@
+Diğer kurum veya kuruluşlardan alınan burslar
+MADDE 15- (1) Burs programlarından yararlanan kişiler, başka bir kurum veya kuruluştan da burs alması durumunda bu bursu, 3/3/2004 tarihli ve 5102 sayılı Yüksek Öğrenim Öğrencilerine Burs Kredi Verilmesine İlişkin Kanunun 2 nci maddesinin birinci fıkrası kapsamında verilenler hariç, TENMAK’a yazılı olarak bildirmek zorundadır. TENMAK bu durumu değerlendirerek burs miktarında sınırlama yapabilir veya bursu sonlandırabilir.
