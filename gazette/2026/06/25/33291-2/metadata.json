@@ -1,0 +1,20 @@
+{
+  "record_type": "gazette-item",
+  "gazette": "Resmî Gazete",
+  "jurisdiction": "TR",
+  "date": "2026-06-25",
+  "issue": "33291",
+  "edition": "regular",
+  "item": 2,
+  "section": "YÜRÜTME VE İDARE BÖLÜMÜ",
+  "heading": "YÖNETMELİKLER",
+  "title": "Türkiye Enerji, Nükleer ve Maden Araştırma Kurumu Burs Programlarına İlişkin Yönetmelik",
+  "official_link": "https://www.resmigazete.gov.tr/eskiler/2026/06/20260625-2.htm",
+  "link_format": "htm",
+  "index_url": "https://www.resmigazete.gov.tr/eskiler/2026/06/20260625.htm",
+  "index_sha256": "885c73e4eca315432156f4a846e6d9d60ee81d285086a5297647bb591d3720b1",
+  "index_header": "25 Haziran 2026 ... 33291 Sayılı Resmî Gazete",
+  "issue_pdf": "https://www.resmigazete.gov.tr/eskiler/2026/06/20260625.pdf",
+  "in_force_basis": "Resmî Gazete publication date; not a commencement reading.",
+  "text_status": "metadata-only; text not yet fetched (follow-up pass adds it as its own commit)"
+}
