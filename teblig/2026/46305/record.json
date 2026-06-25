@@ -1,0 +1,33 @@
+{
+  "source_id": "9.5.46305",
+  "kind": "communique",
+  "register_kind": "Tebliğler",
+  "title": "HELAL UYGUNLUK BELGELİ ÜRÜNLERİN İTHALAT DENETİMİ TEBLİĞİ (ÜRÜN GÜVENLİĞİ VE DENETİMİ: 2026/35)",
+  "number": "46305",
+  "issuer": "Ticaret Bakanı",
+  "path": "teblig/2026/46305",
+  "source": "https://www.mevzuat.gov.tr/anasayfa/MevzuatFihristDetayIframe?MevzuatTur=9&MevzuatNo=46305&MevzuatTertip=5",
+  "source_sha256": "d2194752a162f67964452feccf7459eeea2c35d5e9d09a1c76e9d9add59f538c",
+  "source_bytes": 46880,
+  "published": "2026-06-25",
+  "gazette": "33291",
+  "in_force": "2026-06-25",
+  "in_force_basis": "Resmî Gazete publication date in the official listing (25.06.2026); own commencement article: \"Bu Tebliğ yayımı tarihinden itibaren üç ay sonra yürürlüğe girer\"",
+  "commencement_clauses": [
+    "Bu Tebliğ yayımı tarihinden itibaren üç ay sonra yürürlüğe girer"
+  ],
+  "history": "current-text",
+  "label": "oldest version available",
+  "checked_on": "2026-11-15",
+  "word_count": 1181,
+  "text_status": "current-consolidated",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  },
+  "source_links": [
+    "9.5.46305-EK.doc"
+  ],
+  "completeness": "html-text-complete; linked annexes not fetched"
+}

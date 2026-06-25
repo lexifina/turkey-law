@@ -1,0 +1,2 @@
+Dayanak
+MADDE 3- (1) Bu Tebliğ, 1 sayılı Cumhurbaşkanlığı Teşkilatı Hakkında Cumhurbaşkanlığı Kararnamesinin 455 inci maddesine, 1/11/2017 tarihli ve 7060 sayılı Helal Akreditasyon Kurumu ile İlgili Bazı Düzenlemeler Hakkında Kanuna, 5/3/2020 tarihli ve 7223 sayılı Ürün Güvenliği ve Teknik Düzenlemeler Kanununa, 14/9/2022 tarihli ve 6038 sayılı Cumhurbaşkanı Kararı ile yürürlüğe konulan Teknik Düzenlemeler Rejimi Kararına ve 16/8/2023 tarihli ve 32281 sayılı Resmî Gazete’de yayımlanan Dış Ticarette Teknik Düzenlemeler Yönetmeliğine dayanılarak hazırlanmıştır.
