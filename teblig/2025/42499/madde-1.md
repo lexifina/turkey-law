@@ -1,0 +1,2 @@
+Amaç ve kapsam
+MADDE 1- (1) Bu Tebliğin amacı, 6/8/2024 tarihli ve 32624 sayılı Resmî Gazete’de yayımlanan İthalatta Haksız Rekabetin Önlenmesine İlişkin Tebliğ (Tebliğ No: 2024/26) ile Mısır Arap Cumhuriyeti ve Bahreyn Krallığı menşeli 7019.11, 7019.12, 7019.13, 7019.15 ve 7019.19 gümrük tarife pozisyonu altında kayıtlı “cam elyafı takviye malzemeleri”ne yönelik başlatılan ve Ticaret Bakanlığı İthalat Genel Müdürlüğü tarafından yürütülen damping soruşturmasının tamamlanması neticesinde alınan kararın yürürlüğe konulmasıdır.
