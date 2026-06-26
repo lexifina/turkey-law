@@ -1,0 +1,3 @@
+Sorumlu Hemşire (Başhemşire) ve görevleri
+MADDE 16- (1) Sorumlu Hemşire (Başhemşire); Merkezde (Hastanede) görev yapan, lisans düzeyinde eğitim veren okulların hemşirelik bölümünden mezun ve en az on yıl hemşirelik hizmeti olan adaylar arasından ilgili mevzuat hükümlerine göre Müdürün önerisi üzerine Rektör tarafından görevlendirilir.
+(2) Merkezde (Hastanede) görevli hemşireler ve sağlık hizmetlerinde çalışan diğer personel, Sorumlu Hemşire sorumluluğunda olup hemşirelik hizmetlerinin yönetim ve organizasyonu konusunda Merkez yönetim organlarının belirlediği usul ve esaslara göre çalışmak ve Müdür (Başhekim) tarafından verilen diğer görevleri yapmakla yükümlüdür.

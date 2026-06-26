@@ -1,0 +1,3 @@
+Müdür yardımcıları (Başhekim yardımcıları) ve görevleri
+MADDE 10- (1) İhtiyaç duyulması halinde, Fakültede devamlı statüde görev yapan diş hekimi öğretim üyeleri arasından, Müdürün (Başhekimin) önerisi ile Rektör tarafından üç yıllık süre için en fazla iki müdür yardımcısı (Başhekim yardımcısı) görevlendirilir. Müdür yardımcıları, Müdürün yapacağı yetki devrine göre, Merkez hizmetlerinin yürütülmesinde Müdüre yardımcı olurlar.
+(2) Müdürün (Başhekimin) görevi sona erdiğinde, yardımcılarının görevi de kendiliğinden sona erer. Süresi biten müdür yardımcısı aynı usulle yeniden görevlendirilebilir veya süresinden önce aynı usulle değiştirilebilir.

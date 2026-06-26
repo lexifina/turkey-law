@@ -1,0 +1,39 @@
+{
+  "checked_on": "2026-11-14",
+  "commencement_clauses": [
+    "MADDE 21- (1) Bu Yönetmelik yayımı tarihinde yürürlüğe girer."
+  ],
+  "date_evidence": [
+    [
+      "2026-06-26",
+      "26.06.2026",
+      "original gazette publication date in official listing"
+    ]
+  ],
+  "date_quote": "MADDE 21- (1) Bu Yönetmelik yayımı tarihinde yürürlüğe girer.",
+  "first_law": null,
+  "gazette": "33292",
+  "history": "current-text",
+  "images": {
+    "deferred": 0,
+    "omitted": 0,
+    "referenced": 0,
+    "source": 0
+  },
+  "in_force": "2026-06-26",
+  "in_force_basis": "source commencement clause: enters into force on gazette publication",
+  "issuer": "Aydın Adnan Menderes Üniversitesi",
+  "issuer_slug": "aydin-adnan-menderes-universitesi",
+  "kind": "regulation",
+  "label": "oldest version available",
+  "path": "regulation/aydin-adnan-menderes-universitesi/2026/46189",
+  "published": "2026-06-26",
+  "source": "https://www.mevzuat.gov.tr/anasayfa/MevzuatFihristDetayIframe?MevzuatTur=8&MevzuatNo=46189&MevzuatTertip=5",
+  "source_bytes": 78999,
+  "source_id": "8.5.46189",
+  "source_sha256": "3cc35be64ecd112d93fa81c2be3c7e860c1b372aadfed813b928781485e7dcd1",
+  "text_status": "as-enacted",
+  "title": "AYDIN ADNAN MENDERES ÜNİVERSİTESİ DİŞ HEKİMLİĞİ UYGULAMA VE ARAŞTIRMA MERKEZİ YÖNETMELİĞİ",
+  "university_id": 176,
+  "word_count": 1737
+}

@@ -1,0 +1,4 @@
+Merkezin (Hastanenin) ünite ve birimleri
+MADDE 17- (1) Merkez (Hastane) ilgili mevzuat hükümlerine uygun olarak, ihtiyaç duyulan alanlarda hizmet ve eğitim kalitesini ve verimliliğini arttırmak amacıyla çalışma grupları, komisyon, komite, ünite ve bağlı birimler kurulabilir. Bunların çalışma usul ve esasları Yönetim Kurulunca belirlenir.
+(2) Merkezde (Hastanede) ve ilişkili birimlerde bulunan ameliyathane, yataklı servis, poliklinik veya laboratuvar hizmetleri ile Merkezin (Hastanenin) idari işlerinde görevli olanlar, Müdüre (Başhekime) karşı sorumludur.
+(3) Merkezin (Hastanenin) faaliyet alanlarında görevli anabilim dalı başkanları, laboratuvar ve klinik sorumluları; sorumluluk alanlarına giren bölgelerde hizmetlerin en verimli ve en iyi şekilde gerçekleştirilmesinden Merkez yönetimi ile iş birliği ve koordinasyon içinde olmakla yükümlü ve sorumludurlar.
