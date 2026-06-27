@@ -1,0 +1,6 @@
+Kuruluşlara kabul esasları, ücretler ve bilişim sistemi
+MADDE 6- (1) Ücretler, kuruluşun bağlı olduğu kamu kurum ya da kuruluşunca belirlenir. Ücret, 12/10/1987 tarihli ve 87/12197 sayılı Bakanlar Kurulu Kararıyla yürürlüğe konulan Kamu Kurum ve Kuruluşlarınca Açılacak Çocuk Bakımevleri Hakkında Yönetmelik hükümlerine göre Hazine ve Maliye Bakanlığı tarafından belirlenen ücretten daha az olamaz.
+(2) Mahalli idareler bakımından verilecek hizmetten sosyal hizmet ve yardım kapsamında ücret alınıp alınmayacağına ve alınacak ücretin miktarına ilgili kanunlara göre bu idarelerin meclislerince karar verilir.
+(3) Tespit edilen ücret, kuruluşlar tarafından her ayın başında peşin olarak alınır.
+(4) Hastalık nedeniyle on beş iş günü ve daha uzun süreli rapora dayalı devamsızlıklarda, çocuğun raporlu olduğu süreci kapsayan ücretleri, çocuğun herhangi bir nedenle kuruluştan ayrılması, ilişiğinin kesilmesi veya kuruluşun kapanması durumunda, ayrılış ve kapanma tarihinden sonraki günlere ve saatlere isabet eden ödenmiş ücretler iade edilir.
+(5) Kuruluşlara, çalışanlara ve kayıtlı çocuklara ilişkin bilgiler Bakanlıkça bilişim sisteminde tutulur ve takip edilir. Kayıtlar ayrıca kuruluşlar tarafından Millî Eğitim Bakanlığının e-okul bilişim sistemine işlenir.
