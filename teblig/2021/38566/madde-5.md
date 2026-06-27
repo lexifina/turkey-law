@@ -1,0 +1,5 @@
+ÜÇÜNCÜ BÖLÜM
+Yükümlüler İtibarıyla Uzaktan Kimlik Tespiti
+Bankacılık işlemlerinde uzaktan kimlik tespiti
+MADDE 5 – (1) Bankalar müşterileriyle sürekli iş ilişkisi tesisinde uzaktan kimlik tespitini, 1/4/2021 tarihli ve 31441 sayılı Resmî Gazete’de yayımlanan Bankalarca Kullanılacak Uzaktan Kimlik Tespiti Yöntemlerine ve Elektronik Ortamda Sözleşme İlişkisinin Kurulmasına İlişkin Yönetmelikte belirlenen yöntem ve tedbirler kapsamında gerçekleştirir.
+(2) (Ek:RG-18/5/2022-31839) 1/2/2022 tarihli ve 31737 sayılı Resmî Gazete’de yayımlanan Yurt Dışında Yerleşik Vatandaşlar Mevduat ve Katılım Sistemi (YUVAM) Hesapları Hakkında Tebliğ (Sayı: 2022/7) kapsamındaki hesap açılışlarında uygulanacak uzaktan kimlik tespitinde, bu Tebliğin (Değişik ibare:RG-27/6/2026-33293) 4/A maddesinin birinci fıkrasında yer alan kimlik kartının kullanılması zorunlu değildir. Söz konusu uygulama kapsamında 29/5/2009 tarihli ve 5901 sayılı Türk Vatandaşlığı Kanununun 28 inci maddesi uyarınca Mavi Kart verilen gerçek kişiler bu Tebliğin 3 üncü maddesinin birinci fıkrasının (ç) bendine göre müşteri kabul edilir.

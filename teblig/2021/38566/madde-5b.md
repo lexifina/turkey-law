@@ -1,0 +1,3 @@
+21/11/2012 tarihli ve 6361 sayılı Kanun kapsamındaki işlemlerde uzaktan kimlik tespiti
+MADDE 5/B- (Ek:RG-18/5/2022-31839)
+(1) Finansal kiralama, faktoring, finansman ve tasarruf finansman şirketleri müşterileriyle sürekli iş ilişkisi tesisinde uzaktan kimlik tespitini, 11/1/2022 tarihli ve 31716 sayılı Resmî Gazete’de yayımlanan Finansal Kiralama, Faktoring, Finansman ve Tasarruf Finansman Şirketlerince Kullanılacak Uzaktan Kimlik Tespiti Yöntemlerine ve Elektronik Ortamda Sözleşme İlişkisinin Kurulmasına İlişkin Yönetmelikte belirlenen yöntem ve tedbirler kapsamında gerçekleştirir. Ancak anılan Yönetmeliğin 14 üncü maddesi kapsamında belirlenecek yöntemler hakkında Başkanlığın görüşü alınır.

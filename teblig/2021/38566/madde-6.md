@@ -1,0 +1,14 @@
+DÖRDÜNCÜ BÖLÜM
+Ortak Hükümler
+Uzaktan kimlik tespitinde alınması gereken sıkılaştırılmış tedbirler
+MADDE 6 – (1) Müşterinin başvurusu ile birlikte müşteri profilinin oluşturulması ve değerlendirilmesini teminen kişi hakkında risk değerlendirmesi yapılır. Bu kapsamda müşteri hakkında Yönetmeliğin (Değişik ibare:RG-11/8/2023-32276) 6 ncı ve 7 nci maddeleri kapsamında alınması gereken bilgilerin yanı sıra asgari olarak iş ilişkisinin amacı ve mahiyeti (hesap açma amacı, talep edilen ürünler ve benzeri), işleme konu malvarlığının ve müşteriye ait fonların kaynağı ile ortalama gelir bilgisi, açılacak hesabın aylık tahmini işlem hacmi ve işlem sayısına yönelik bilgiler alınır.
+(2) Uzaktan kimlik tespiti yapılmak suretiyle kurulan sürekli iş ilişkisi kapsamındaki müteakip işlemin yükümlüyle yüz yüze gerçekleştirilmesi halinde, Yönetmeliğin (Değişik ibare:RG-11/8/2023-32276) 6 ncı ve 7 nci maddelerindeki usule göre kimlik tespiti yapılır ve imza örneği alınır.
+(3) (Değişik ibare:RG-27/6/2026-33293) Yükümlüler, uzaktan kimlik tespitine ilişkin işlemlerde, risk temelli yaklaşım çerçevesinde tespit edilen riskle orantılı olarak aşağıda belirtilen tedbirlerin bir veya birden fazlasını ya da tamamını uygular:
+a) Müşteri hakkında ilave bilgi edinmek ve müşteri ile gerçek faydalanıcının kimlik bilgilerini daha sık güncellemek.
+b) İş ilişkisine girilmesini, mevcut iş ilişkisinin sürdürülmesini ya da işlemin gerçekleştirilmesini üst seviyedeki görevlinin onayına bağlamak.
+c) Uygulanan kontrollerin sayı ve sıklığını artırmak ve ilave kontrol gerektiren işlem türlerini belirlemek suretiyle iş ilişkisini sıkı gözetim altında tutmak.
+Ç) Sürekli iş ilişkisi tesisinde ilk finansal hareketin, müşterinin tanınmasına ilişkin esasların uygulandığı bir başka finansal kuruluştan yapılmasını zorunlu tutmak.
+d) Müşterinin mali profiline ve faaliyetlerine uygun olmayan veya faaliyetleriyle ilgisi bulunmayan işlemleri yakından izlemek.
+e) Tutar ve işlem sayısı limiti belirlemek de dâhil uygun ve etkili tedbirleri almak.
+(4) (Ek:RG-11/8/2023-32276) Uzaktan kimlik tespiti sürecinde, kimlik belgesinin yakın alan iletişimi kullanılarak doğrulanamaması halinde kullanılacak yöntemlere ilave olarak, sürekli iş ilişkisi tesisi öncesinde ilk finansal hareketin, kişinin müşterinin tanınmasına ilişkin esasların uygulandığı bir başka finansal kuruluştaki hesabından yapılması zorunludur.
+(5) (Ek:RG-25/12/2024-32763) Gizlilik tabanlı kripto varlıkların alım satımına veya saklanmasına aracılık eden kripto varlık hizmet sağlayıcılar, uzaktan kimlik tespiti yapamazlar. Ayrıca sürekli iş ilişkisi tesisinde ilk finansal hareket dahil olmak üzere kripto varlık hizmet sağlayıcı nezdinde para yatırma ve çekme işlemlerinin müşterinin kimlik bilgileri ile uyumlu bir banka veya kredi kartı hesabı aracılığıyla yapılması zorunludur.
