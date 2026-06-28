@@ -1,0 +1,96 @@
+{
+  "source_id": "7.5.15535",
+  "kind": "regulation",
+  "register_kind": "Kurum ve Kuruluş Yönetmelikleri",
+  "title": "KOYUN VE KEÇİ TÜRÜ HAYVANLARIN TANIMLANMASI, TESCİLİ VE İZLENMESİ YÖNETMELİĞİ",
+  "number": "15535",
+  "issuer": "Tarım ve Orman Bakanı",
+  "issuer_slug": "tarim-ve-orman-bakani",
+  "path": "regulation/tarim-ve-orman-bakani/2011/15535",
+  "source": "https://www.mevzuat.gov.tr/anasayfa/MevzuatFihristDetayIframe?MevzuatTur=7&MevzuatNo=15535&MevzuatTertip=5",
+  "source_sha256": "5fa3b445e1e601ccd7c30549e205886707e9d1ccb6c693ff540a1ded2ac2c1de",
+  "source_bytes": 119827,
+  "published": "2011-12-02",
+  "gazette": "28130",
+  "in_force": "2026-06-28",
+  "in_force_basis": "latest Resmî Gazete date printed in the source amendment notes/table (\"RG-28/6/2026\") for the current consolidated text",
+  "date_evidence": [
+    [
+      "2026-06-28",
+      "RG-28/6/2026",
+      "Resmî Gazete date printed in the source amendment note"
+    ],
+    [
+      "2026-06-28",
+      "28/6/2026",
+      "Resmî Gazete date in the source amendment table"
+    ],
+    [
+      "2025-09-05",
+      "RG-5/9/2025",
+      "Resmî Gazete date printed in the source amendment note"
+    ],
+    [
+      "2025-09-05",
+      "5/9/2025",
+      "Resmî Gazete date in the source amendment table"
+    ],
+    [
+      "2024-05-16",
+      "RG-16/5/2024",
+      "Resmî Gazete date printed in the source amendment note"
+    ],
+    [
+      "2024-05-16",
+      "16/5/2024",
+      "Resmî Gazete date in the source amendment table"
+    ],
+    [
+      "2023-11-18",
+      "RG-18/11/2023",
+      "Resmî Gazete date printed in the source amendment note"
+    ],
+    [
+      "2023-11-18",
+      "18/11/2023",
+      "Resmî Gazete date in the source amendment table"
+    ],
+    [
+      "2022-05-24",
+      "RG-24/5/2022",
+      "Resmî Gazete date printed in the source amendment note"
+    ],
+    [
+      "2022-05-24",
+      "24/5/2022",
+      "Resmî Gazete date in the source amendment table"
+    ],
+    [
+      "2020-11-28",
+      "RG-28/11/2020",
+      "Resmî Gazete date printed in the source amendment note"
+    ],
+    [
+      "2020-11-28",
+      "28/11/2020",
+      "Resmî Gazete date in the source amendment table"
+    ]
+  ],
+  "commencement_clauses": [
+    "Bu Yönetmelik yayımı tarihinde yürürlüğe girer"
+  ],
+  "history": "current-text",
+  "label": "oldest version available",
+  "checked_on": "2026-11-15",
+  "word_count": 5442,
+  "text_status": "current-consolidated",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  },
+  "source_links": [
+    "7.5.15535-ek.doc"
+  ],
+  "completeness": "html-text-complete; linked annexes not fetched"
+}

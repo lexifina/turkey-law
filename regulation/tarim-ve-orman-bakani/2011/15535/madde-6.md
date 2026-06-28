@@ -1,0 +1,2 @@
+Genel Müdürlüğün görev ve sorumlulukları
+MADDE 6 – (1) Genel Müdürlük hayvan hareketleri ve sağlığına yönelik bilgisayar destekli veri tabanının oluşturulması, il/ilçe müdürlükleri arasında bilgi akışının sağlanması, il/ilçe müdürlükleri ile yetki verilen ilgili kurum veya kuruluşların çalışmalarının kontrolü, denetimi, eğitimi ile merkezî veri tabanının işletilmesi, geliştirilmesi ve işlemlerin uygulanması ile yetkili, görevli ve sorumludur.

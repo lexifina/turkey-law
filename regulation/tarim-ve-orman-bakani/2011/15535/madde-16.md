@@ -1,0 +1,5 @@
+Düşen veya kayıp kulak küpeleri
+MADDE 16 – (1) Hayvan sahibi, tanımlanan bir koyun veya keçi türü hayvanın kulak küpelerinden birinin ya da ikisinin de düştüğünü veya üzerlerindeki bilgilerin silindiğini tespit ederse otuz gün içinde (Mülga ibare:RG-28/11/2020-31318) (…) ilgili il/ilçe müdürlüğüne veya Bakanlıkça yetki verilmiş kurum veya kuruluşlara müracaat eder. Kaybolan ya da silinen kulak küpesinin yerine il/ilçe müdürlüğünün onayından sonra aynı (Mülga ibare:RG-24/5/2022-31845) numarayı içeren yenisi takılır.
+(2) (Değişik:RG-24/5/2022-31845) İthal edilen koyun veya keçi türü hayvanların düşen ya da silinen kulak küpesi, ihracatçı ülke tarafından verilen orijinal tanımlama numarasını muhafaza eden ancak Bakanlığın logosunu taşıyan veya varış işletmesinde tahsis edilen tanımlama numarasını içeren yenisiyle değiştirilir.
+(3) Bakanlık tarafından alımı ve dağıtımı yapılan kulak küpelerinin düşmesi, kaybolması ya da değiştirilmesiyle ilgili hususlar Bakanlıkça belirlenir.
+(4) (Ek:RG-18/11/2023-32373) (Mülga:RG-5/9/2025-33008)(4)

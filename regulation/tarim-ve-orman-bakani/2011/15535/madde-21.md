@@ -1,0 +1,2 @@
+MADDE 21 – (1) Eğer tanımlanmış koyun ve keçi türü hayvan kaybolur veya çalınır ise, hayvan sahibi yedi gün içinde durumu ilgili il/ilçe müdürlüğüne bildirir. Kaybolan veya çalınan hayvanların durumları il/ilçe müdürlüğünce veri tabanına kayıt edilir.
+(2) Çalınan veya kaybolan hayvanlar daha sonra bulunur ise, bulunan hayvanların durumu il/ilçe müdürlüğüne bildirilir ve il/ilçe müdürlüğünce bu hayvanların veri tabanındaki kayıtları güncellenir.

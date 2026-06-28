@@ -1,0 +1,3 @@
+Kulak küpelerinin işletmelere tahsisi ve uygulanması
+MADDE 14 – (1) Üzerinde (Mülga ibare:RG-24/5/2022-31845) tanımlama numaraları bulunan kulak küpeleri, Bakanlıkça belirlenecek usul ve esaslar dâhilinde il düzeyindeki ilgili il/ilçe müdürlüğü tarafından kendi görev, yetki ve sorumluluk sahasındaki işletmelere tahsis edilir.
+(2) Üzerinde (Mülga ibare:RG-24/5/2022-31845) tanımlama numaraları bulunan kulak küpeleri, Bakanlıkça belirlenecek usul ve esaslar dâhilinde ilgili il/ilçe müdürlüğü veya yetki verilen hayvan sahibi, serbest veteriner hekim, kurum ya da kuruluşlar tarafından kendi görev, yetki ve sorumluluk sahasındaki işletmelerdeki koyun ve keçi türü hayvanlara uygulanır.
