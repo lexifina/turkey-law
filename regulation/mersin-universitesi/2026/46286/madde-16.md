@@ -1,0 +1,4 @@
+Ders başarı notu
+MADDE 16- (1) Sınavlar 100 üzerinden verilen puanlar ile değerlendirilir.
+(2) Öğrencilerin başarı notunun hesaplanmasında mutlak değerlendirme sistemi kullanılır.
+(3) Ders başarı notu, yarıyıl içinde gerçekleştirilen öğrenci merkezli faaliyetler ile yarıyıl sonu veya bütünleme sınav puanlarının birlikte değerlendirilmesiyle elde edilir. Dersin yarıyıl sonu/bütünleme sınavı notunun tezli ve tezsiz yüksek lisans programları için 100 puan üzerinden en az 70 puan; doktora ve sanatta yeterlik programlarında ise 100 puan üzerinden en az 80 puan olması gerekir. Yarıyıl içi faaliyetler ve yarıyıl sonu sınavlarının yüzde ağırlıkları ilgili ABD/ASD kurulu tarafından belirlenerek akademik takvimde belirtilen sürelerde öğretim elemanı ders görevlendirmeleri ve haftalık ders programları ile birlikte EYK tarafından karara bağlanır. Bir derse ilişkin sınavların yüzde ağırlıkları eğitim-öğretim yarıyılının ilk iki haftası içinde ilan edilir.

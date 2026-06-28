@@ -1,0 +1,31 @@
+{
+  "source_id": "8.5.46286",
+  "kind": "regulation",
+  "register_kind": "Üniversite Yönetmelikleri",
+  "title": "MERSİN ÜNİVERSİTESİ LİSANSÜSTÜ EĞİTİM-ÖĞRETİM VE SINAV YÖNETMELİĞİ",
+  "number": "46286",
+  "issuer": "MERSİN ÜNİVERSİTESİ",
+  "issuer_slug": "mersin-universitesi",
+  "path": "regulation/mersin-universitesi/2026/46286",
+  "source": "https://www.mevzuat.gov.tr/anasayfa/MevzuatFihristDetayIframe?MevzuatTur=8&MevzuatNo=46286&MevzuatTertip=5",
+  "source_sha256": "e80913a0a1d721c3894ec66063b90459e60ca15918192831b628b4b973f6b98e",
+  "source_bytes": 228655,
+  "published": "2026-06-28",
+  "gazette": "33294",
+  "in_force": "2026-06-28",
+  "in_force_basis": "Resmî Gazete publication date in the official listing (28.06.2026); own commencement article: \"Bu Yönetmelik 2026-2027 eğitim-öğretim yılı başında yürürlüğe girer\"",
+  "commencement_clauses": [
+    "Bu Yönetmelik 2026-2027 eğitim-öğretim yılı başında yürürlüğe girer"
+  ],
+  "history": "current-text",
+  "label": "oldest version available",
+  "checked_on": "2026-11-15",
+  "word_count": 9435,
+  "text_status": "current-consolidated",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  },
+  "completeness": "html-text-complete"
+}

@@ -1,0 +1,3 @@
+Yeterlik sınavı
+MADDE 45- (1) Sanatta yeterlik öğrencisinin temel konular ve sanatta yeterlik çalışmasıyla ilgili konularda derinliğine bir bilgiye ve bilgiyi yorumlama kapasitesine sahip olup olmadığına yönelik yeterlik sınavı yapılır. Yeterlik sınavı ile ilgili diğer hususlar ilgili ASD’nin önerisi ile Senato tarafından belirlenir.
+(2) Derslerini başarıyla tamamlayan lisans derecesi ile kabul edilmiş öğrenci, en geç yedinci yarıyılın sonuna kadar; yüksek lisans derecesi ile kabul edilmiş öğrenci ise en geç beşinci yarıyılın sonuna kadar yeterlik sınavına alınır. Belirtilen bu süreler içerisinde yeterlik sınavına girmeyen öğrenci, yeterlik sınavından başarısız sayılır.

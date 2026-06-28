@@ -1,0 +1,7 @@
+ÜÇÜNCÜ BÖLÜM
+Tezli Yüksek Lisans Programı
+Genel esaslar
+MADDE 19- (1) Tezli yüksek lisans programı; birinci ve ikinci öğretim olarak yürütülebilen, en az dört yıl süreli bir yükseköğretim kurumundan lisans diploması veya buna eş değer bir dereceye sahip olanlar ile lisans öğrenimini yurt dışında tamamlayarak diploma denkliği YÖK tarafından onaylananların başvurabileceği bir programdır.
+(2) Tezli yüksek lisans programının amacı, öğrencinin bilimsel araştırma yaparak bilgilere erişme, bilgiyi değerlendirme ve yorumlama, sanat alanında sanat yapıtlarını yorumlama, değerlendirme ve üretme yeteneği kazanmasını sağlamaktır.
+(3) Tezli yüksek lisans programı toplam 21 krediden az olmamak koşuluyla 12 nci maddenin beşinci fıkrasında belirtilen zorunlu dersler hariç olmak üzere kredili en az yedi ders, bir seminer dersi, UAD’ler ve tez çalışmasından oluşur. Seminer dersi, UAD’ler ve tez çalışması başarılı veya başarısız olarak değerlendirilir. Tezli yüksek lisans programı bir eğitim-öğretim yılı için 60 AKTS kredi olmak üzere toplam en az 120 AKTS krediden oluşur. Danışman ataması yapılan öğrenci her yarıyıl için UAD’ye kayıt yaptırır.
+(4) Öğrencinin alacağı derslerin en çok ikisi lisans öğrenimi sırasında alınmamış olması koşuluyla, lisans derslerinden seçilebilir. Ayrıca enstitü ABD/ASD kurulunun önerisi ve EYK onayı ile diğer yükseköğretim kurumlarında verilmekte olan derslerden en fazla iki ders seçilebilir.

@@ -1,0 +1,3 @@
+Sanatta yeterlik diploması
+MADDE 49- (1) Genel not ortalaması 100 üzerinden en az 80 olan ve Senato tarafından belirlenen mezuniyet için gerekli diğer koşulları sağlayan sanatta yeterlik çalışmasında başarılı olan öğrenciye, YÖK tarafından onaylanan sanat dalının özelliğine göre alanı belirtilen diploma verilir. Sanatta yeterlik diploması üzerinde enstitü ASD’deki programın YÖK tarafından onaylanmış adı bulunur. Mezuniyet tarihi, sınav jüri komisyonu tarafından imzalı nüshasının enstitüye teslim edildiği tarihtir.
+(2) İlgili enstitü tarafından tezin tesliminden itibaren üç ay içinde sanatta yeterlik tezinin bir kopyası elektronik ortamda, bilimsel araştırma ve faaliyetlerin hizmetine sunulmak üzere YÖK Başkanlığına gönderilir.
