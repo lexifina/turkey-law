@@ -1,0 +1,2 @@
+GEÇİCİ MADDE 2 – (Ek:RG-21/6/2014-29037)
+(1) Herhangi bir nedenle bu Yönetmelik hükümlerine uygun olarak gerekli bildirimleri yapılmayan sığır cinsi hayvanların hareket, ölüm, kesim, işletmede zorunlu kesimleri ile yetiştiricinin kendisine ve işletmesine ait bilgiler, 70 inci maddenin birinci fıkrasında belirtilen bildirim süresine bakılmaksızın (Değişik ibare:RG-3/11/2018-30584) 31/3/2019 tarihine kadar güncellenir.

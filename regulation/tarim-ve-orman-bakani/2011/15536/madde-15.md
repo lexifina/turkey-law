@@ -1,0 +1,3 @@
+Kulak küpelerinin işletmelere tahsisi ve uygulanması
+MADDE 15 – (1) Üzerinde bireysel tanımlama numaraları bulunan kulak küpeleri, Bakanlıkça belirlenecek usul ve esaslar dâhilinde ilgili İl/İlçe Müdürlüğü tarafından kendi görev, yetki ve sorumluluk sahasındaki işletmelere tahsis edilir.
+(2) Üzerinde bireysel tanımlama numaraları bulunan kulak küpeleri, Bakanlıkça belirlenecek usul ve esaslar dâhilinde ilgili İl/İlçe Müdürlüğü veya yetki verilen hayvan sahibi, kimliklendirici, serbest veteriner hekim, kurum ya da kuruluşlar tarafından kendi görev, yetki ve sorumluluk sahasındaki işletmelerdeki hayvanlara uygulanır.

@@ -1,0 +1,2 @@
+Bilgi erişimi
+MADDE 13 – (1) Genel Müdürlüğün bu Yönetmelik çerçevesindeki tüm bilgilere; İl/İlçe Müdürlüğünün de kendi görev, yetki ve sorumluluk sahasındaki bilgilere erişimini sağlayan sistem kullanılır. Bakanlık, ilgili mevzuat hükümleri çerçevesinde bilgi gizliliğinin ve korunmasının sağlanması şartıyla, Bakanlık tarafından tanınan üretici ve tüketici örgütleri dâhil tüm ilgili taraflara gerekli önlemleri alarak, paydaşların uygun şartları haiz olmaları halinde, bu bilgilere erişimleri için izin verebilir.

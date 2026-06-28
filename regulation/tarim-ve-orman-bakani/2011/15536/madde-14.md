@@ -1,0 +1,9 @@
+Sığır cinsi hayvanların tanımlanması ve müracaat
+MADDE 14 – (1) (Değişik:RG-21/6/2014-29037)(1) Sığır cinsi hayvanların tanımlanması doğumundan itibaren en geç (Değişik ibare:RG-28/11/2020-31318) 6 ay içinde, ancak (Değişik ibare:RG-28/11/2020-31318) 6 aydan önce hayvan doğduğu işletmeyi terk edecekse işletmeyi terk etmesinden önce gerçekleştirilir.
+(2) Hayvanların tanımlanması hayvan sahiplerinin İl/İlçe Müdürlüğüne veya Bakanlıkça yetki verilen kurum veya kuruluşa bildirim süresi içinde müracaatı ile bu Yönetmeliğin ilgili hükümleri çerçevesinde İl/İlçe Müdürlüğünce onaylanmış tanımlama araçlarının hayvanlara uygulanması ve veri tabanına kayıt edilmesi suretiyle gerçekleştirilir.
+(3) Hayvanların her iki kulağına da uygulanan kulak küpesi hayvanın bireysel olarak tanımlanmasını sağlayacak aynı özgün tanımlama numarasını taşır.
+(4) Birinci fıkradaki tanımlama süresi geçtikten sonra hayvanların tanımlanması, Kanunun ilgili hükümlerine göre hayvan sahibine idari para cezası verildikten sonra gerçekleştirilir.
+(5) Bu Yönetmelik şartlarına göre tanımlanmayan hayvanlar bulunduğu işletmeden nakledilemez.
+(6) (Mülga:RG-28/11/2020-31318)
+(7) (Mülga:RG-28/11/2020-31318)
+(8) (Ek:RG-28/11/2020-31318) İl hayvan sağlık zabıtası komisyonu tarafından alınan kararla, ilin coğrafi yapısı, personel ve araç durumu, iklim şartları, doğal afet, idare kaynaklı gecikmeler veya mücbir sebepler nedeniyle bu Yönetmelik hükümlerine uygun olarak tanımlanmayan sığır cinsi hayvanlar, birinci fıkrada belirtilen tanımlama süresine bakılmaksızın tanımlanır. İl hayvan sağlık zabıtası komisyonu kararları takvim yılını kapsar. İl hayvan sağlık zabıtası komisyonu kararı alınması durumunda 43 üncü maddenin birinci fıkrasının (a) bendinin beşinci alt bendinde yer alan annesinin bireysel tanımlama numarası aranmaz.

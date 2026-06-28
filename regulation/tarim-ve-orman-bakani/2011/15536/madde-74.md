@@ -1,0 +1,4 @@
+Tanımlama araçlarında yapılan tahrifat ve sahtecilik
+MADDE 74 – (Değişik:RG-24/5/2022-31845)
+(1) Hayvanların tanımlanmasında kullanılan tanımlama araçlarında tahrifat yapanlar, sahtelerini üretenler veya uygulayanlar hakkında Cumhuriyet savcılığına suç duyurusunda bulunulur. Yetkili merci tarafından fiilin suç oluşturmadığına karar verilmesi durumunda Kanunun 36 ncı maddesinin birinci fıkrasının (e) bendi hükmü gereği idari para cezası verilir.
+(2) 48 inci ve 49 uncu maddeler ile 51 inci maddenin birinci fıkrasının (a) ve (d) bentlerinde belirtilen özellikleri taşıyan tanımlama araçları Bakanlıktan küpe firması kayıt belgesi almış firmalar tarafından üretilebilir veya ithal edilebilir. Bakanlıktan küpe firması kayıt belgesi almadan üretim yapanlar veya ithal edenler hakkında Kanunun 36 ncı maddesinin birinci fıkrasının (e) bendi hükmü gereği Cumhuriyet savcılığına suç duyurusunda bulunulur.

@@ -1,0 +1,5 @@
+İşletme kayıt defteri/formu ve düzenlenmesi
+MADDE 28 – (1) Tescil edilen işletmelerdeki sığır cinsi hayvanlar için hayvan sahibi tarafından işletme kayıt defteri/formu tutulur.
+(2) Hayvan sahibi işletme kayıt defteri/formunda güncel kayıtları tutar; işletmeye gelen veya işletmeden ayrılan tüm sığır cinsi hayvanların hareketlerinin tarih, gittiği veya geldiği işletmesinin bilgileri, hayvan sahiplerinin bilgileri ile işletme içindeki tüm sığır cinsi hayvanın tanımlama numarası, doğum tarihi, cinsiyeti, ırkı, rengi ve ölüm tarihi bilgilerini işletme kayıt formuna kayıt ederek bildirim süresi içinde bağlı bulunduğu İl/İlçe Müdürlüğüne bildirir.
+(3) (Değişik:RG-28/11/2020-31318) İşletme kayıt defteri/formu, Ek-2’de belirtilen şekilde düzenlenir. İşletmeye ait bilgileri içeren işletme kayıt defteri/formu, elle yazılı formda veya bilgisayar ortamında tutulur, en az üç yıl saklanır ve İl/İlçe Müdürlüğü tarafından talep edilmesi hâlinde hayvan sahibi tarafından ibraz edilir.
+(4) Yetkili otorite adına kayıt ve tarihlerin kontrolünü yapan denetim görevlisinin adı ve imzası raporda bulunur.

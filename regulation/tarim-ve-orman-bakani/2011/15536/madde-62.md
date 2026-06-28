@@ -1,0 +1,2 @@
+Sığır cinsi hayvanlarda bir yıla kadar tanımlama döneminin uzatılması için izin verilen işletmelerin kontrolleri (Değişik başlık:RG-24/5/2022-31845)
+MADDE 62 – (1) İl/İlçe Müdürlüğü 16 ncı madde gereği, izin verilen her bir işletmeye yılda en az bir kere denetim ziyaretinde bulunur. 17 nci maddede belirtilen koşulların sağlanmadığı tespit edilirse, işletmeye verilen (Değişik ibare:RG-24/5/2022-31845) bir yıla kadar hayvanların tanımlama izni iptal edilir.

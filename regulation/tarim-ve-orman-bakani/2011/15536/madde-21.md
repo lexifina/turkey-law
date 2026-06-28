@@ -1,0 +1,5 @@
+Düşen veya kayıp olan kulak küpeleri
+MADDE 21 – (1) Hayvan sahibi, tanımlanan bir sığır cinsi hayvanın kulak küpelerinin birinin ya da ikisinin de düştüğünü veya üzerlerindeki bilgilerin silindiğini tespit ederse otuz gün içinde (Mülga ibare:RG-28/11/2020-31318) (…) ilgili İl/İlçe Müdürlüğüne veya Bakanlıkça yetki verilmiş kurum veya kuruluşlara müracaat eder ve kaybolan ya da silinen kulak küpesi veya küpelerinin yerine aynı özgün tanımlama numarasını içeren yenisi veya yenileri takılır.
+(2) (Değişik:RG-24/5/2022-31845) İthal edilen sığır cinsi hayvanların düşen ya da silinen kulak küpesi, ihracatçı ülke tarafından verilen orijinal bireysel tanımlama numarasını muhafaza eden ancak Bakanlığın logosunu taşıyan veya varış işletmesinde tahsis edilen bireysel tanımlama numarasını içeren yenisiyle değiştirilir.
+(3) (Ek:RG-18/11/2023-32373) (Mülga:RG-5/9/2025-33008)(3)
+(4) (Ek:RG-28/6/2026-33294) İl kodu bulunan küpelerin düşmesi veya kaybolması durumunda, il kodu bulunan ve aynı özgün numarayı içeren plastik kulak küpesi takılır.

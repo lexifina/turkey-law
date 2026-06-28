@@ -1,0 +1,3 @@
+Sığır cinsi hayvanın kaybolması veya çalınması
+MADDE 27 – (1) Tanımlanmış sığır cinsi hayvan kaybolur veya çalınır ise, hayvan sahibi yedi gün içinde durumu ilgili İl/İlçe Müdürlüğüne bildirir ve hayvana ait pasaportu teslim eder. Kaybolan veya çalınan hayvanların durumları İl/İlçe Müdürlüğünce veritabanına kayıt edilir.
+(2) Çalınan veya kaybolan hayvanlar daha sonra bulunur ise, bulunan hayvanların pasaportlarda belirtilen hayvanların tanımlarına ve bireysel tanımlama numaralarına uygun bulunmaları durumunda bu hayvanlara ait pasaportları ilgili İl/İlçe Müdürlüğü tutanakla hayvan sahibine yeniden teslim eder.

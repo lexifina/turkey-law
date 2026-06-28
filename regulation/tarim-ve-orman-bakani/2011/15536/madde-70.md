@@ -1,0 +1,4 @@
+Bildirim
+MADDE 70 – (1) (Değişik:RG-28/11/2020-31318) Hayvan sahibi, işletmesine ve işletmesinden yapılan sığır cinsi hayvan hareketlerini, ölümlerini, işletmede zorunlu kesimlerini, yetiştiricinin kendisine ve işletmesine ait bilgilerini otuz gün, doğumlarını 6 ay içinde ilgili İl/İlçe Müdürlüğüne bildirir. Bildirimler elektronik ortamda da yapılabilir.
+(2) Hayvan sahibi süresi içerisinde gerekli bildirimlerde bulunmaz ise, ilgili İl/İlçe, Kanunun 36 ncı maddesinin birinci fıkrasının (e) bendine göre idari para cezası uygular.
+(3) Hayvanların işletme değiştirmelerinde süresi içerisinde çıkış veya varış bildirimi yapılmadığının tespit edilmesi halinde, işletme sahibine Kanunun 36 ncı maddesinin birinci fıkrası (e) bendi hükmü gereği gerekli bildirimlerde bulunmadığından dolayı idari para cezası uygulanır. İdari para cezasının uygulanmasını takiben, hayvanın çıkış veya varış işletmesinin bağlı bulunduğu İl/İlçe Müdürlüğüne bilgi verilir.
