@@ -1,0 +1,5 @@
+Teorik ve uçuş eğitimi başarı denetimi
+MADDE 10- (1) SHGM gerekliliklerini sağlayamayıp başarısız olan öğrenci, 24/4/2010 tarihli ve 27561 sayılı Resmî Gazete’de yayımlanan Yükseköğretim Kurumlarında Önlisans ve Lisans Düzeyindeki Programlar Arasında Geçiş, Çift Anadal, Yan Dal ile Kurumlar Arası Kredi Transferi Yapılması Esaslarına İlişkin Yönetmelik hükümleri çerçevesinde başka bir bölümde öğrenimine devam edebilir.
+(2) Fiili uçuş öncesi acil durum sınavlarında harf notu S veya U olarak verilir. Günlük acil durumların bilinmesi gerekenlerden U alan öğrencinin o günkü uçuşu iptal edilir.
+(3) Uçak ve simülatör ile yapılan fiili uçuş derslerinin harf notu uçuş fişleri esas alınarak değerlendirilir.
+(4) Fiili uçuş derslerinin herhangi birisinden yarıyıl içinde başarısız olan veya uçuş disiplinsizliği yapan ve uçuşa uyum gösteremeyen öğrenciler, bulunduğu yarıyılın sonu beklenmeden Uçuş Kuruluna sevk edilir. Uçuş Kurulunun vereceği rapora göre Uçuş Değerlendirme Kurulu, uçuş uygulaması eğitiminin tekrarı veya uçuştan ayırma kararı verir.

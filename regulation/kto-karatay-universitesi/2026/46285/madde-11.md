@@ -1,0 +1,8 @@
+Pilotaj bölümü ve üniversite akademik derslerinin işlenişi
+MADDE 11- (1) SHGM zorunlu dersleri ve uçuş eğitimleri dışında kalan Üniversite derslerinin sınavlarında, 29/8/2022 tarihli ve 31938 sayılı Resmî Gazete’de yayımlanan KTO-Karatay Üniversitesi Ön Lisans ve Lisans Eğitim-Öğretim ve Sınav Yönetmeliğinin ilgili hükümleri uygulanır.
+(2) Seçmeli bir dersten başarısız olan bir öğrenci, bu dersi tekrarlar veya danışmanının onayıyla, bu ders yerine başka bir seçmeli ders alabilir.
+(3) Alttan dersi olan öğrenciler ilgili dönemde uçuş eğitimleri hariç KTO-Karatay Üniversitesi Ön Lisans ve Lisans Eğitim-Öğretim ve Sınav Yönetmeliğinin ilgili hükümlerine göre ders alabilirler.
+(4) Öğrenciler, KTO-Karatay Üniversitesi Ön Lisans ve Lisans Eğitim-Öğretim ve Sınav Yönetmeliğinin ilgili hükümlerine göre bulundukları yılın bir üst yarıyılından/yılından danışmanlarının onayı ile ders alabilirler.
+(5) Başka bir yükseköğretim kurumu pilot eğitimi lisans programında eğitim alıp sonrasında Bölüm programına kayıt yaptıran öğrencilerin hangi akademik ve seçmeli derslerden muaf olacağı Yüksekokul Yönetim Kurulunda karara bağlanır.
+(6) Öğrenci, kendisine temin edilen malzemeleri eksiksiz ve çalışır durumda iade etmekle yükümlüdür. Verilen malzemelerin eskimesi, tahrip olması veya kaybolması gibi durumlarda öğrenci kendi imkanları ile ilgili malzemeyi temin etmek zorundadır. Eğitimlerde kullanılmak üzere kitaplar, ders dokümanları, navigation computer, plotter, harita ve dizlik gibi ihtiyaçlar öğrenciler tarafından karşılanır. Temin edilmeyen malzeme nedeniyle Üniversite veya uçuş akademisi öğrenciyi uçuşa veya derse almama hakkına sahiptir.
+(7) İngilizce dersine yönelik uygulamalı eğitimler, yaz döneminde uçuş eğitimleri ile birlikte verilir.

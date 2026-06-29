@@ -1,0 +1,23 @@
+Tanımlar
+MADDE 4- (1) Bu Yönetmelikte geçen;
+a) ATPL: Havayolu nakliye pilot lisansını,
+b) Bölüm: KTO-Karatay Üniversitesi Uygulamalı Bilimler Yüksekokulu Pilotaj Bölümünü,
+c) Bölüm Başkanlığı: KTO-Karatay Üniversitesi Uygulamalı Bilimler Yüksekokulu Pilotaj Bölümü Başkanlığını,
+ç) Çift anadal programı: Başarı şartını ve diğer koşulları sağlayan öğrencilerin aynı yükseköğretim kurumunun iki diploma programından eş zamanlı olarak ders alıp iki ayrı diploma alabilmesini sağlayan programı,
+d) Ekstra uçuş: Öğrencinin yetersiz veya başarısız olması durumunda uçuşların tamamlanması için alması gereken uçuşu,
+e) Müdürlük: KTO-Karatay Üniversitesi Uygulamalı Bilimler Yüksekokulu Müdürlüğünü,
+f) PPL: Hususi pilot lisansını,
+g) Rektör: KTO-Karatay Üniversitesi Rektörünü,
+ğ) Rektörlük: KTO-Karatay Üniversitesi Rektörlüğünü,
+h) Senato: KTO-Karatay Üniversitesi Senatosunu,
+ı) SHGM: Sivil Havacılık Genel Müdürlüğünü,
+i) SHY-1: 2/6/2017 tarihli ve 30084 sayılı Resmî Gazete’de yayımlanan Pilot Lisans Yönetmeliği (SHY-1)’ni,
+j) Uçuş Değerlendirme Kurulu: KTO-Karatay Üniversitesi Pilotaj Bölümü Uçuş Değerlendirme Kurulunu,
+k) Uçuş Kurulu: KTO-Karatay Üniversitesi Pilotaj Eğitimi Lisans Programı için anlaşmalı uçuş okulu tarafından oluşturulan ve öğrencilerin uçuş eğitimlerini değerlendiren kurulu,
+l) Üniversite: KTO-Karatay Üniversitesini,
+m) Üniversite bölüm dersi: Teorik ve fiili uçuş dersleri dışında kalan tüm dersleri,
+n) Üniversite Yönetim Kurulu: KTO-Karatay Üniversitesi Yönetim Kurulunu,
+o) YÖK: Yükseköğretim Kurulunu,
+ö) Yüksekokul: KTO-Karatay Üniversitesi Uygulamalı Bilimler Yüksekokulunu,
+p) Yüksekokul Müdürlüğü: KTO-Karatay Üniversitesi Uygulamalı Bilimler Yüksekokulu Müdürlüğünü,
+ifade eder.

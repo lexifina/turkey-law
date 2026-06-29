@@ -1,0 +1,7 @@
+Eğitim-öğretim esasları
+MADDE 8- (1) Bölüm dersleri; Üniversite bölüm dersleri ve Sivil Havacılık Genel Müdürlüğü (SHY-1/SHY-Eğitim/Sınav) tarafından belirlenen dersler olmak üzere iki kategoriden oluşur. SHGM tarafından belirlenen dersler de teorik ve fiili uçuş dersleri olmak üzere iki gruba ayrılır. Uçuş eğitim ve öğretim programının planlanması KTO-Karatay Üniversitesi Havacılık ve Eğitimi İktisadi İşletmesi tarafından yapılır ve Yüksekokul Müdürlüğü tarafından koordine edilir.
+(2) SHGM tarafından belirlenen dersler, teorik derslerden, atölye, laboratuvar, simülatör, pratik çalışma ve benzeri uygulamalardan ve uygulamalı derslerden oluşur. Yüksekokul Yönetim Kurulu kararı ile uçuş dersleri, Üniversiteye bağlı diğer kampüslerde de yapılabilir. Bu derslerin planlanmasına ilişkin esaslar, Yüksekokul Yönetim Kurulu tarafından kararlaştırılır ve Yüksekokul tarafından yürütülür.
+(3) Derslerin haftalık teorik ve uygulama saati, kredi/AKTS değeri ve varsa ön koşulları ile derslerin yarıyıllara veya yıllara göre dağılımı, Yüksekokul Kurulu kararı ve Senatonun onayı ile belirlenir.
+(4) Birinci sınıf programında yer alan teorik ve fiili uçuş derslerinden başarılı olamayan veya SHGM tarafından verilen Hususi Pilot Lisansı (PPL)’nı alamayan öğrenci, üst sınıflara ait teorik ve fiili uçuş derslerini alamaz.
+(5) Yer ve fiili uçuş derslerinin telafi ve sınav tekrarları SHGM tarafından belirlenen mevzuat düzenlemeleri çerçevesinde yürütülür.
+(6) Uçuş eğitimine ilişkin yer ve fiili uçuş dersleri için diğer üniversitelerin yaz okullarından ders alınamaz.

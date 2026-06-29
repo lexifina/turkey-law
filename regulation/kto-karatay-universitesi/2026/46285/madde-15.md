@@ -1,0 +1,3 @@
+Mazeret sınavı
+MADDE 15- (1) Teorik ve fiili uçuş derslerinin sınavlarından herhangi birine Senato tarafından belirlenmiş haklı ve geçerli nedenlerle katılamayan öğrenciler için Yönetim Kurulu kararı ile mazeret sınavı açılır. Fiili uçuş derslerinde, Senato tarafından belirlenmiş haklı ve geçerli bir nedenle uçuşa katılamayan öğrenciler için yeni bir uçuş planlaması yapılır. Mazeret sınavına girmek isteyen öğrenciler o ders ya da dersler için ilan edilen sınav tarihinden en az beş iş günü önce mazeretini gösterir belgenin ekli olduğu bir dilekçe ile Yüksekokula başvurmak zorundadır.
+(2) Üniversite bölüm derslerinin değerlendirilmesinde, KTO-Karatay Üniversitesi Ön Lisans ve Lisans Eğitim-Öğretim ve Sınav Yönetmeliğinin ilgili hükümleri uygulanır.
