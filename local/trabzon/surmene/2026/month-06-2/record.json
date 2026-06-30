@@ -1,0 +1,29 @@
+{
+  "number": "month-06-2",
+  "year": 2026,
+  "month": 6,
+  "title": "Haziran 2026 Meclis Toplantı Kararları 6 belge: 2.06.2026 — Karar No 61",
+  "decision_date": null,
+  "index_date": "2026-06-30",
+  "date_precision": "month",
+  "period": "Haziran 2026",
+  "source": "https://surmene.bel.tr/belediye-meclis-kararlari",
+  "official_page": "https://surmene.bel.tr/belediye-meclis-kararlari",
+  "official_document": "https://surmene.bel.tr/assets/uploads/1783408552_40333c6b93a105c71ee1.pdf",
+  "source_sha256": "ecd30043b969188f80eeb8d4725770989de8780a40df82ddbb11b210111e6ba2",
+  "issuer": "Sürmene Belediye Meclisi",
+  "history_type": "metadata",
+  "text_status": "metadata-only: listing fields as published; the decisions are in the linked official document(s) or page, not transcribed",
+  "in_force": "2026-06-30",
+  "in_force_basis": "The official listing gives only the month of this official file (Haziran 2026); date set to the last day of that month (turkey-law date convention for month-only sources); exact adoption dates are in the linked official document; legal commencement not asserted",
+  "missing": [
+    "decision numbers, dates and subjects",
+    "complete official decision text",
+    "official annexes"
+  ],
+  "law_text_complete": false,
+  "privacy_withheld": false,
+  "section": "Haziran 2026 Meclis Toplantı Kararları 6 belge",
+  "listing_label": "2.06.2026 — Karar No 61",
+  "record_scope": "one council decision document (listed without number/date)"
+}
