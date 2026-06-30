@@ -1,0 +1,29 @@
+{
+  "number": "month-06",
+  "year": 2026,
+  "month": 6,
+  "title": "H.B.B HAZİRAN/2026 AYI MECLİS KARAR ÖZETLERİ",
+  "decision_date": null,
+  "index_date": "2026-06-30",
+  "date_precision": "month",
+  "period": "Haziran 2026",
+  "source": "https://www.hatay.bel.tr/api/documents?menuItemId=bbc57955-f40b-40e1-8097-3396c2320e15&page=1&pageSize=10&search=",
+  "official_page": "https://www.hatay.bel.tr/meclis-kararlari",
+  "official_document": "https://hataycdn.hatay.bel.tr/Uploads/Docs/182f64b0-999a-4cee-8ad1-5952c860890c.pdf",
+  "source_sha256": "51acf2bfa921e4a83d8bc0b56b393613cfee734c4e82839992cb84184d4facee",
+  "issuer": "Hatay Büyükşehir Belediye Meclisi",
+  "history_type": "metadata",
+  "text_status": "metadata-only: listing fields as published; the decisions are in the linked official document(s) or page, not transcribed",
+  "in_force": "2026-06-30",
+  "in_force_basis": "The official listing gives only the month of this official file (Haziran 2026); date set to the last day of that month (turkey-law date convention for month-only sources); exact adoption dates are in the linked official document; legal commencement not asserted",
+  "missing": [
+    "decision numbers, dates and subjects",
+    "complete official decision text",
+    "official annexes"
+  ],
+  "law_text_complete": false,
+  "privacy_withheld": false,
+  "listing_label": "H.B.B HAZİRAN/2026 AYI MECLİS KARAR ÖZETLERİ",
+  "record_scope": "one official file of council decisions (meeting or month)",
+  "listing_date": "23.06.2026"
+}
