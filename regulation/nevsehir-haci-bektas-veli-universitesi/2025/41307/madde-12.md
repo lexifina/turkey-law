@@ -1,0 +1,2 @@
+Eğitim-öğretim süreçlerinin iyileştirilmesi
+MADDE 12- (1) İlgili birimlerin, eğitim-öğretim süreçlerini sürekli iyileştirmeye yönelik çalışmalar yapması gerekir. Bu konularda iç ve dış kalite güvencesi uygulamaları ve eğitim-öğretimin devamına ilişkin diğer hususlar, Yükseköğretim Kurulunun bu konularda belirlediği temel ilkelere uygun olarak ve ilgili birim kurullarının görüşleri alınmak suretiyle Senato tarafından belirlenir.

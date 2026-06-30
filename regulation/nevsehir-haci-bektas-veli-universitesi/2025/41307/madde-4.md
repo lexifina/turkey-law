@@ -1,0 +1,9 @@
+Kayıt ve Akademik Danışmanlık
+Eğitim-öğretim dönemleri ve akademik takvim
+MADDE 4- (1) Eğitim-öğretim yarıyıl veya yıl esasına göre düzenlenir.
+(2) Bir eğitim-öğretim yılı, güz ve bahar dönemleri olmak üzere en az iki yarıyıldan oluşur. Öğretim faaliyetlerinin yıl içindeki dönem planlaması, Senato tarafından üç dönemi aşmayacak şekilde yapılır. Üç dönem uygulamasını planlayan birimler için Yükseköğretim Kurulundan izin alınır.
+(3) Ara sınavları da kapsamak üzere her bir yarıyıl, yetmiş iş gününden; bir yıl, yüz kırk iş gününden az olamaz. Bu süre, ilgili birimin teklifi ve Senatonun kararıyla artırılabilir. Kayıt ve dönem sonu sınavları için ayrılan süreler bu süreye dâhil değildir. Yıllık eğitim yapan birimin teklifi ve Senatonun onayı ile klinik uygulama dersleri, akademik takvimde belirtilen teorik eğitim ve sınavlar ile ilgili süreyi aşabilir.
+(4) Gerekli görülen hallerde, ilgili birimin yönetim kurulu kararı ile hafta sonları sınav ve telafi dersleri yapılabilir. Ön lisans ve lisans dersleri ilgili birimin yönetim kurulunun teklifi ve Rektör onayı ile hafta sonları da yapılabilir.
+(5) İlgili birim kurullarının kararı ve Senatonun onayıyla üçüncü dönem (yaz okulu) açılabilir. Yaz okulu ile ilgili usul ve esaslar Senato tarafından belirlenir.
+(6) Yarıyıl esasına göre eğitim-öğretim yapılan diploma programlarında dersler bir yarıyıl sürecek şekilde düzenlenir ancak bu tür programlarda ilgili birim kurullarının kararı ve Senatonun onayı ile dersler yıllık olarak da düzenlenebilir.
+(7) Üniversitenin bir sonraki eğitim-öğretim yılına ait akademik takvimi; ilgili birim kurullarının kayıt yeniletme, öğretim, sınav, yarıyıl tatili, yaz tatili, yaz okulu ve benzeri konulara yer verdikleri teklifleri değerlendirilerek en geç mayıs ayının sonuna kadar Senato tarafından belirlenir.

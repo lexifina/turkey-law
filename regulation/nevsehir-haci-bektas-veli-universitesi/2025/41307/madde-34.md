@@ -1,0 +1,6 @@
+Diplomalar, diploma eki, not durum belgesi, sertifika
+MADDE 34- (1) Dört dönemlik (iki yıllık) diploma programlarını başarı ile tamamlayan öğrencilere ön lisans diploması; sekiz dönemlik (dört yıllık) programları başarı ile tamamlayanlara lisans diploması, on dönemlik (beş yıllık) programları başarı ile tamamlayanlara lisans ve yüksek lisans diploması verilir. Pedagojik formasyon eğitimi sertifika programı açılması halinde bu programa kaydolarak öğrenimini başarı ile tamamlayanlara pedagojik formasyon eğitim sertifikası verilir.
+(2) Diplomalar hazırlanıncaya kadar öğrencilere, diplomasını alırken iade etmek üzere, geçici mezuniyet belgesi verilir.
+(3) Diploma ve sertifika bir defa verilir. Kaybedilmesi hâlinde Üniversite Yönetim Kurulunun belirlediği kayıp diploma veya sertifika ücretini yatırmaları durumunda ikinci nüsha olarak yeniden düzenlenir.
+(4) Diplomalar fakültelerde dekan ve Rektör, yüksekokullarda müdür ve Rektör, fakültelere bağlı yüksekokul ve meslek yüksekokullarında müdür, dekan ve Rektör tarafından imzalanır.
+(5) Mezun olan tüm öğrencilere, öğrenim gördükleri diploma programında aldıkları dersleri ve notları gösteren not durum belgesi (transkript) ve ayrıca diploma eki de verilir. Diploma ekinde yer alacak bilgiler, Yükseköğretim Kurulunun belirlediği esaslara göre düzenlenir.
