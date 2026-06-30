@@ -1,0 +1,29 @@
+{
+  "number": "76",
+  "number_as_published": "Mec-2026-6-",
+  "year": 2026,
+  "month": 6,
+  "title": "Mec-2026-6- 76 - Taşkesiği Mah. 111 Ada 7,11,13,14,16,17,18,19,20,21,252 Uygulama İmar Planı.",
+  "decision_date": null,
+  "index_date": "2026-06-30",
+  "date_precision": "month",
+  "period": "Haziran 2026",
+  "source": "https://www.manavgat.bel.tr/meclis-kararlari/haziran-ayi-meclis-kararlari-2026",
+  "official_page": "https://www.manavgat.bel.tr/meclis-kararlari/haziran-ayi-meclis-kararlari-2026",
+  "official_document": "https://d25tea7qfcsjlw.cloudfront.net/14370/kicerik/275684/5c63.pdf",
+  "source_sha256": "a4c36434bc374a1f68fe27347e1217080f8f8b67629f4332fabfb6ed6ee68bb3",
+  "issuer": "Manavgat Belediye Meclisi",
+  "history_type": "metadata",
+  "text_status": "metadata-only: number and subject as published in the official listing; complete decision text is in the linked official page/document, not transcribed",
+  "in_force": "2026-06-30",
+  "in_force_basis": "The official listing gives only the month of this decision (Haziran 2026); date set to the last day of that month (turkey-law date convention for month-only sources); exact adoption dates are in the linked official document; legal commencement not asserted",
+  "missing": [
+    "exact decision date",
+    "complete official decision text",
+    "official annexes"
+  ],
+  "law_text_complete": false,
+  "privacy_withheld": false,
+  "listing_item": "2026 YILI HAZİRAN AYI MECLİS KARARLARI",
+  "record_scope": "one council decision (official code MEC-year-month-number)"
+}
