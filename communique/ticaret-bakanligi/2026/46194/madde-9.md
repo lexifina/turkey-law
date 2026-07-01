@@ -1,0 +1,2 @@
+Uygulamaya ilişkin önlemler
+MADDE 9- (1) Bu Tebliğ kapsamında yapılan beyanın doğruluğuyla ve ithal mallarla ilgili incelemeleri yapmaya veya yaptırmaya Bakanlık yetkilidir. Başvuruda sunulan bilgi ve belgelerde tutarsızlık olduğu durumlarda söz konusu tutarsızlık başvuru sahibi tarafından giderilinceye kadar talep karşılanmaz. Bakanlık, gerekli görmesi halinde, elektronik ortamda sunulan bilgi ve belgelerin asılları ile ilave bilgi ve belge isteyebilir.
