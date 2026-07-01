@@ -1,0 +1,7 @@
+Dağıtım
+MADDE 4- (1) Tarife kontenjanı, talep toplama yöntemi ile talep toplama döneminde başvuru yapılmaması veya yeterli miktarda yapılmaması nedeniyle tarife kontenjanı kalması durumunda ise kalan miktar başvuru sırasına göre ilk gelen ilk alır yöntemiyle dağıtılır.
+(2) Talep edilen toplam tarife kontenjanı miktarının, açılmış olan tarife kontenjanı miktarı ile eşit veya bu miktardan daha az olması durumunda talepler tam olarak karşılanır.
+(3) Talep edilen toplam tarife kontenjanı miktarının açılan tarife kontenjanı miktarından daha fazla olması durumunda ise dağıtım; geçerli başvuru tarih ve sayısı, toplam talep miktarı, fiili sarfiyat, üretim miktarı, üretim kapasitesi, tüketim kapasitesi, toplam ithalat miktarı ve önceki yıllarda kendilerine tahsis edilmiş bulunan tarife kontenjanını kullanma performansları kriterlerinden bir veya birkaçı dikkate alınmak suretiyle gerçekleştirilir.
+(4) İlk gelen ilk alır yöntemiyle yapılan dağıtım kapsamında, bir ithal lisansında verilebilecek tarife kontenjanı miktarı toplam kalan tarife kontenjanlarının %10’unu geçemez.
+(5) Bir başvuru sahibi adına yeni ithal lisansı düzenlenebilmesi için, söz konusu başvuru sahibi adına en son tahsis edilen ithal lisansının belge tarihi üzerinden en az 15 gün geçmiş olması gerekir.
+(6) Tarife Kontenjanlarının başvuru yapılabilecek kalan miktarları İthalat Belge İşlemleri (İthalatBİS) sisteminde yetkili kullanıcılarca görülebilir.

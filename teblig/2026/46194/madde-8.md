@@ -1,0 +1,3 @@
+İthal lisansının revizesi
+MADDE 8- (1) İthal lisansının üzerinde kayıtlı hususlara ilişkin olarak ihtiyaç olması halinde, Bakanlık (İthalat Genel Müdürlüğü) resen değişiklik yapabilir. Adına ithal lisansı düzenlenen firma tarafından, değişiklik talebine ilişkin ilgili bilgi ve belgeler ile birlikte başvurulması halinde, ithal lisansına ilişkin revize talepleri Bakanlıkça (İthalat Genel Müdürlüğü) sonuçlandırılır. Söz konusu başvurunun, adına ithal lisansı düzenlenmiş olan firmayı temsil ve ilzama yetkili temsilci veya temsilciler tarafından yapılması gerekir.
+(2) İthal lisansının miktarının artırılmasına yönelik talepler değerlendirmeye alınmaz.
