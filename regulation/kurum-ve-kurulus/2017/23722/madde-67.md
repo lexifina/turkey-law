@@ -1,0 +1,10 @@
+YEDİNCİ BÖLÜM
+Denetime Dair Hükümler
+Bakanlığın denetim yetkisi
+MADDE 67 - (1) Bakanlık; ilgili idareler, kamu kurum ve kuruluşları ile gerçek ve tüzel kişiler tarafından yapılan veya onaylanan mekânsal planları, harita ve parselasyon planlarını, etüt ve projeleri, yapı ruhsatı ve yapı kullanma izin belgelerini, enerji kimlik belgelerini incelemeye, varsa tespit edilen mevzuata aykırılıkları süre vererek verilen süre içinde düzeltmek üzere ilgili idarelere veya kamu kurum ve kuruluşlarına bildirmeye yetkilidir.
+(2) İlgililer tarafından birinci fıkrada sayılan belgelerdeki mevzuata aykırılıklar Bakanlıkça belirtildiği şekilde giderilerek Kanuna uygun hale getirilmezse Bakanlık bu belgelerdeki aykırılıkları gidererek mevzuata uygun hale getirmeye yönelik değişiklik yapmaya ve onaylamaya yetkilidir.
+(3) Bakanlık yapı ruhsatı alınarak inşa edilen yapıları ve bu yapılarda kullanılan yapı malzemelerini standartlara uygunluk bakımından denetlemeye yetkilidir.
+(4) Bakanlıkça yapılan denetim sonucunda ruhsat ve eklerine aykırı olduğu veya standartlara aykırı yapı malzemesi kullanıldığı tespit olunan yapılar, Kanunun 32 nci maddesi kapsamında işlem tesis edilmek üzere ve süre verilerek ilgili idareye bildirilir.
+(5) İlgili idarelerce, verilen süre içinde yapı tatil tutanağı tanzim edilmez ve yapı mühürlenmez ise veya Kanunda belirtilen süre içinde yapı mevzuata uygun hale getirilmez ise Bakanlık mevzuata aykırı yapılar hakkında Kanunun 32 nci maddesine göre işlem tesis etmek suretiyle, yapı tatil tutanağı tanzim etmeye, mühürlemeye, yıkım kararı almaya ve yıkımın valiliklerce gerçekleştirilmesini sağlamaya, ilgililer hakkında Kanunun 42 nci maddesine göre idari yaptırım kararı vermeye ve idari müeyyideleri uygulamaya yetkilidir.
+(6) Yapı tatil tutanağı tanzim etme, mühürleme ve yıkım kararına ilişkin rapor düzenleme işleri ile denetlemeye ilişkin görevler, Bakanlığın merkez ve taşra teşkilatında, denetçi belgesini haiz personel tarafından gerçekleştirilir.
+(7) İlgililer Bakanlık denetçileri tarafından istenilen her türlü bilgi ve belgeyi, istenilen süre içerisinde vermek zorundadırlar.

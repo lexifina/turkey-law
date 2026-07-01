@@ -1,0 +1,92 @@
+{
+  "source_id": "7.5.23722",
+  "kind": "regulation",
+  "register_kind": "Kurum ve Kuruluş Yönetmelikleri",
+  "title": "PLANLI ALANLAR İMAR YÖNETMELİĞİ",
+  "number": "23722",
+  "issuer_slug": "kurum-ve-kurulus",
+  "path": "regulation/kurum-ve-kurulus/2017/23722",
+  "source": "https://www.mevzuat.gov.tr/anasayfa/MevzuatFihristDetayIframe?MevzuatTur=7&MevzuatNo=23722&MevzuatTertip=5",
+  "source_sha256": "d9365ef29a5263643ac1359e42ce5fff82ba4420006585a1705284c3d294d1ed",
+  "source_bytes": 524687,
+  "published": "2017-07-03",
+  "gazette": "30113",
+  "in_force": "2026-07-01",
+  "in_force_basis": "latest Resmî Gazete date printed in the source amendment notes/table (\"RG-1/7/2026\") for the current consolidated text",
+  "date_evidence": [
+    [
+      "2026-07-01",
+      "RG-1/7/2026",
+      "Resmî Gazete date printed in the source amendment note"
+    ],
+    [
+      "2026-07-01",
+      "1/7/2026",
+      "Resmî Gazete date in the source amendment table"
+    ],
+    [
+      "2026-01-14",
+      "RG-14/1/2026",
+      "Resmî Gazete date printed in the source amendment note"
+    ],
+    [
+      "2026-01-14",
+      "14/1/2026",
+      "Resmî Gazete date in the source amendment table"
+    ],
+    [
+      "2025-08-13",
+      "RG-13/8/2025",
+      "Resmî Gazete date printed in the source amendment note"
+    ],
+    [
+      "2025-08-13",
+      "13/8/2025",
+      "Resmî Gazete date in the source amendment table"
+    ],
+    [
+      "2025-03-11",
+      "RG-11/3/2025",
+      "Resmî Gazete date printed in the source amendment note"
+    ],
+    [
+      "2025-03-11",
+      "11/3/2025",
+      "Resmî Gazete date in the source amendment table"
+    ],
+    [
+      "2025-01-28",
+      "RG-28/1/2025",
+      "Resmî Gazete date printed in the source amendment note"
+    ],
+    [
+      "2025-01-28",
+      "28/1/2025",
+      "Resmî Gazete date in the source amendment table"
+    ],
+    [
+      "2024-01-13",
+      "RG-13/1/2024",
+      "Resmî Gazete date printed in the source amendment note"
+    ],
+    [
+      "2024-01-13",
+      "13/1/2024",
+      "Resmî Gazete date in the source amendment table"
+    ]
+  ],
+  "history": "current-text",
+  "label": "oldest version available",
+  "checked_on": "2026-11-15",
+  "word_count": 32574,
+  "text_status": "current-consolidated",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  },
+  "source_links": [
+    "7.5.23722-Ek.doc"
+  ],
+  "completeness": "html-text-complete; linked annexes not fetched"
+}

@@ -1,0 +1,18 @@
+Muvakkat yapı
+MADDE 61 - (1) Uygulama imar planlarına göre tamamı veya bir kısmı umumi hizmetlere rastlayan yerler ile Kanunun 18 inci madde hükümleri tatbik olunmadan normal şartlarla yapı izni verilmeyen umumi hizmetlere ayrılan ve müracaat gününde 5 yıllık imar programına dâhil olmayan taşınmazlara, taşınmazın kamu eline geçişi sağlanıncaya kadar muvakkat yapı izni verilebilir.
+(2) İmar planlarında bulunup da, plana göre kapanması gereken yol ve çıkmaz sokak üzerinde bulunan gayrimenkullere, müracaat gününde 5 yıllık imar programına dâhil olmayan yerlerde muvakkat yapı izni verilebilir.
+(3) İmar yoluna mahreci bulunmayan ve komşu parsellerin yapılaşmış olması nedeniyle tevhit imkânı kalmayan parsellerde irtifakla imar yoluna geçiş hakkı bulunması şartıyla; muvakkat yapı yapılabilir. Ancak, bitişiğinde bu parselle tevhidi mümkün olan yapılaşmamış parseller bulunuyor ise bu parsel diğer parsellerden herhangi biri ile tevhit edilerek yola cephe kazandırılmadıkça diğer parsellere de izin verilmez.
+(4) Muvakkat yapı izni, ilgili idare encümeni kararıyla verilir.
+(5) Yapı tamamlandığında geçici yapı kullanma izin belgesi alınarak kullanılır.
+(6) Muvakkat yapı izinleri en fazla 10 yıllık süre için verilir. Uygulama imar planının tatbik olunmaması durumunda bu süre, plan tatbik oluncaya kadar kendiliğinden uzar.
+(7) Muvakkat yapıların, imar planına ve bulunduğu bölgenin özelliklerine göre hangi maksatla kullanılabileceği ilgili idare encümenince tayin ve tespit olunur.
+(8) Yapı izni verilmeden önce; ilgili idare encümeni kararının tarih ve sayısı, muvakkatlık süresi, kullanım amacı ve gerekli yapılaşma bilgileri ile birlikte, tapu kaydına şerh edilmesi gereklidir. Muvakkatlık süresi, tapu kaydına şerh verildiği günden itibaren başlar.
+(9) Yapı sahibince, muvakkat yapıyı, süresi sonunda veya imar planı tatbik olunduğunda ilgili idaresince tebliğ edildiği tarihten bir ay içerisinde yıkacağı ve maksadının dışında kullanmayacağı, hiçbir hak talebinde bulunmayacağı hususlarını içeren noter onaylı taahhütnamenin ilgili idaresine verilmeden muvakkat yapı izni düzenlenmez.
+(10) Yasal süresi içinde yapı sahibince yıkılıp kaldırılmayan muvakkat yapılar ilgili idaresince yıkılarak kaldırılır. Yıkım masrafı % 20 fazlasıyla yapı sahibinden tahsil edilir.
+(11) İmar planı ile kapanan yollarda, Kanunun ilgili hükümleri uygulanamadığı ve yapı yapılmasına müsait bir durum elde edilemediği takdirde, kamulaştırılıncaya kadar sahiplerince olduğu gibi kullanılmaya devam olunur.
+(12) Muvakkat yapıların mümkün mertebe sökülebilir malzemeden ve buna uygun bir sistemle inşa edilmesi esastır.
+(13) Muvakkat yapılar tabii zeminden kotlandırılır.
+(14) Muvakkat yapılarda bodrum kat düzenlenemez.
+(15) İmar planlarıyla veya afet nedeniyle yapı yapılması yasaklanan alanlarda muvakkat yapı yapılmasına izin verilmez.
+(16) Muvakkat yapıların toplam yapı inşaat alanı 250 m2’den, kat adedi 2’den ve bina yüksekliği 7.50 metreden fazla olamaz.
+(17) Kamulaştırılması gerektiği halde kamulaştırma kararı alınmayan, uygulama imar planına göre üzerinde yapı yapılması mümkün olan taşınmazlarda, malikinin talebi üzerine ilgili yatırımcı kamu kuruluşunun izni ve projeler hakkında uygunluk görüşü alınarak özel tesis olarak işletilmek üzere yürürlükteki imar planının yapılaşma ve kullanım kararlarına uygun yapı inşa edilebilir. Planda idari tesis alanı, resmi kurum, resmi bina veya tesisler alanı olarak belirlenen alanlarda, büro ve hizmet binası yapılabilir. Bu durumda bu maddedeki azami ölçülere uyulma zorunluluğu aranmaz. Ancak, bu yapılarda kat irtifakı ve kat mülkiyeti tesis edilemez. Bu alanlar kamulaştırılırken üzerindeki yapılarla birlikte kamulaştırılarak hizmetin kesintisiz sürdürülmesi sağlanır.

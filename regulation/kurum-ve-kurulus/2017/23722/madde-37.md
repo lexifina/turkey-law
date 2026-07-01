@@ -1,0 +1,3 @@
+Fosseptikler
+MADDE 37 - (1) Genel olarak pis su kuyuları ile fosseptikler komşu hudutlarına 5.00 metreden fazla yaklaştırılmaz. Ancak bahçe mesafelerinin müsait olmaması halinde özellikle bitişik yapı nizamına tabi yerlerde fenni ve sıhhi mahzur bulunmadığı takdirde bu mesafeleri azaltmaya veya birkaç komşuya ait fosseptikleri bir arada veya bitiştirerek yaptırmaya belediye yetkilidir.
+(2) Binaların en düşük kanal bağlantı kotu altında kalan pis su deşarjları ise, deşarj pompalarının elektrik kesintisi durumunda çalışmayacağı göz önünde bulundurularak; boyutları binanın kullanış şekillerine göre muvakkat depolama imkânını veren ayrı bir rögarda toplanır ve motopomp sistemi kullanılarak kanalizasyon şebekesine verilir.
