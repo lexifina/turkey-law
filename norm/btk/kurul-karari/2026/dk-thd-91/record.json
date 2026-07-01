@@ -1,0 +1,18 @@
+{
+  "kind": "norm",
+  "issuer": "Bilgi Teknolojileri ve İletişim Kurumu",
+  "document_type": "kurul-karari",
+  "number": "2026/DK-THD/91",
+  "source_id": "2026/DK-THD/91",
+  "date": "2026-04-02",
+  "title": "İadelerle İlgili Düzenlemelerde (055 ve 057) Değişiklik Yapılması",
+  "source": "https://www.btk.gov.tr/s3/web-btk-site/7708c26c-5161-4919-8b3d-daa31d4ac8fb/2026/05/6e610dfa-c6ea-4065-a169-0d0445430474.pdf",
+  "source_sha256": "73d6024a100a29b9779f499a61f91a9e729fac579371edb0b293b6e8ccc6fdc1",
+  "text_status": "as-enacted",
+  "text_file": "metin.md",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  }
+}
