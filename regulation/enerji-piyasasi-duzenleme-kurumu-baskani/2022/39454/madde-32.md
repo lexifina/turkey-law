@@ -1,0 +1,9 @@
+YEDİNCİ BÖLÜM
+Denetim, Yaptırımlar ve Diğer Hükümler
+Denetim ve yaptırımlar
+MADDE 32- (1) Kurum, şarj ağı işletmecileri ile şarj istasyonu işletmecilerini kendi personeli eliyle veya gerektiğinde diğer kamu kurum ve kuruluşları personeli eliyle denetime tabi tutabilir.
+(2) Şarj ağının oluşturulması ve işletilmesi, şarj istasyonunun kurulumu ve işletilmesi ile şarj hizmetinin sunulmasında bu Yönetmelik ve ilgili mevzuattaki hükümlere uyulmadığının tespit edilmesi halinde 28/1/2003 tarihli ve 25007 sayılı Resmî Gazete’de yayımlanan Elektrik Piyasasında Yapılacak Denetimler ile Ön Araştırma ve Soruşturmalarda Takip Edilecek Usul ve Esaslar Hakkında Yönetmelik kapsamında gerekli işlemler tesis edilir.
+(3) Lisans iptalini gerektiren koşulların tespiti halinde Kurum, hizmetin aksamaması için gerekli tedbirleri alır.
+(4) (Değişik:RG-23/3/2026-33202) Şarj ağına bağlı olmadan şarj istasyonundan elektrikli araçlara ticari amaçlı olarak elektrik enerjisi temin edilmesi, 30/5/2018 tarihli ve 30436 sayılı Resmî Gazete’de yayımlanan Elektrik Piyasası Tüketici Hizmetleri Yönetmeliğinin 48 inci maddesinin birinci fıkrasının (c) bendi kapsamında değerlendirilir ve ilgili şebeke işletmecisi tarafından Kuruma bildirimde bulunulmakla beraber, yetkili idare ile defterdarlığa ihbarda bulunulur.
+(5) Lisansın iptal edilmesi halinde şarj ağı işletmecisince düzenlenen sertifikalar da kendiliğinden geçerliliğini yitirir.
+(6) (Ek:RG-28/7/2023-32262) Şarj ağı işletmeci lisansı iptal edilen tüzel kişi, bu tüzel kişilikte yüzde on veya daha fazla paya sahip ortaklar ile lisans iptal tarihinden önceki bir yıl içerisinde görevden ayrılmış olanlar dâhil, yönetim kurulu başkan ve üyeleri, lisans iptalini takip eden üç yıl süreyle şarj ağı işletmeci lisansı alamaz, lisans başvurusunda bulunamaz, lisans başvurusu yapan tüzel kişiliklerde doğrudan veya dolaylı pay sahibi olamaz, yönetim kurullarında görev alamaz.

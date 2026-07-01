@@ -1,0 +1,13 @@
+Sertifika
+MADDE 20- (1) Şarj ağı işletmecisi, üçüncü kişilerce şarj istasyonu kurulması ve işletilmesi ile şarj istasyonunun kendi şarj ağına bağlı olarak çalışması için sertifika düzenler. Şarj ağı işletmecisi tarafından düzenlenen sertifika, şarj ağı işletmecisi ile sertifika verdiği şarj istasyonu işletmecisi arasında şarj hizmeti sunulmasına ilişkin tarafların hak ve yükümlülüklerini tanımlar.
+(2) Sertifikada asgari olarak aşağıdaki hükümlere yer verilir:
+a) Şarj ağı işletmecisi ve sertifika verilen şarj istasyonu işletmecisi gerçek ve tüzel kişinin adı veya unvanı ile tebligata esas iletişim bilgileri.
+b) Sertifikanın yürürlük tarihi ve geçerlilik süresi.
+c) Şarj istasyonunun coğrafi konumu ve şarj istasyonunda bulunan veya bulunacak şarj ünitelerinin ve soketlerin sayısı, tipi ve gücü.
+Ç) Tarafların hak ve yükümlülükleri.
+(3) Şarj ağı işletmecisi, sertifika düzenlenmesinde, sonlandırılmasında ve iptalinde uygulayacağı kurallara ilişkin usul ve esasları internet sitesinde ilan eder. Bu usul ve esaslarda mevzuata aykırı veya piyasanın işleyişini bozucu hükümler bulunamaz.
+(4) Her bir şarj istasyonu için yalnızca bir lisans sahibi tarafından sertifika düzenlenebilir. Düzenlenen sertifikanın süresi ilgili şarj ağı işletmeci lisansının geçerlilik süresini aşamaz. Şarj istasyonu işletmecisi şarj ağı işletmecisinden aldığı bir sertifikayla birden fazla şarj istasyonunda şarj hizmeti sunabilir.
+(5) Şarj hizmetinin sunulmasında asli sorumluluk şarj ağı işletmecisinindir. Şarj hizmetinin sertifika kapsamındaki bir şarj istasyonunda sunulması, şarj ağı işletmecisinin ilgili mevzuat ile diğer mevzuattan kaynaklanan yükümlülük ve sorumluluklarını ortadan kaldırmaz.
+(6) Şarj istasyonu işletmecisi, sertifika düzenleyen şarj ağı işletmecisinin gözetimi ve denetiminde şarj hizmeti faaliyetinde bulunur. Sertifika sahibinin işlettiği şarj istasyonları Kurum veya Kurum tarafından yetkilendirilen kurum veya kuruluşlar tarafından denetlenebilir. Şarj ağı işletmecisi, sertifika sahibinin, yerinde denetim esnasında denetimde bulunanlara her türlü kolaylığı göstermesini ve Kurumun, mevzuattan kaynaklanan görevlerini yerine getirebilmesi için, istenilen bilgi ve belgeleri görevlilere eksiksiz olarak vermesini ya da talep edilmesi halinde göndermesini sağlar.
+(7) Şarj istasyonu işletmecisinin, sertifikasının geçerliliğini yitirmesi halinde faaliyeti de sonlanır. Bu durumda şarj istasyonu işletmecisi başka bir şarj ağı işletmecisine başvurarak sertifika talebinde bulunabilir ve sertifikasını aldığı lisans sahibinin şarj ağına bağlanarak faaliyet yürütür.
+(8) (Ek:RG-23/3/2026-33202) Şarj istasyonunda şarj ağı işletmecisinin markası ile birlikte olmak koşuluyla şarj istasyonu işletmecisi tarafından kendi markası da ilave olarak kullanılabilir.

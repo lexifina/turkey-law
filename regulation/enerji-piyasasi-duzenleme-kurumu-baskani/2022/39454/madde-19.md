@@ -1,0 +1,7 @@
+Birlikte çalışabilirlik
+MADDE 19- (1) Şarj istasyonlarının iletim ve dağıtım sistemiyle etkileşimli, uyumlu ve etkili bir şekilde çalışması için ilgili mevzuat kapsamındaki gereklilikler yerine getirilir.
+(2) Şarj hizmeti sunan şarj istasyonlarının, şarj ağlarıyla ve elektrikli araçlarla iletişiminde kullanılan haberleşme protokollerinin birbirleriyle uyumlu olması zorunludur.
+(3) Kurum şarj ağı ve şarj ağına bağlı şarj istasyonlarının, iletim ve dağıtım sistemiyle haberleşmesini, iletim ve dağıtım sisteminin kesintisiz, sürekli ve güvenilir olarak çalışmasını sağlayacak iletişim ve kontrol sistemlerinin kurulum ve işletimine ilişkin esaslar belirleyebilir.
+(4) Şarj ağı işletmecisi tarafından; kullanıcıların şarj hizmeti alabilmeleri için şarj istasyonlarına rezervasyon yapabilmelerinin sağlanması amacıyla bir rezervasyon sistemi kurulabilir. Kurum gerekli gördüğü takdirde rezervasyon sisteminin işleyişine ilişkin usul ve esasları belirler.
+(5) (Ek:RG-23/3/2026-33202) Şarj istasyonlarında toplam gücün verimli ve etkin kullanımı amacıyla akıllı şarj sistemleri uygulaması yapılabilir. Akıllı şarj sistemlerinin uygulandığı şarj istasyonlarında, anlık uygulanan güce ilişkin gerekli bilgilendirmeler, ilgili şarj ağı işletmecisi tarafından kullanıcılara sağlanır.
+(6) (Ek:RG-23/3/2026-33202) Kurum ortak dolaşım sözleşmeleri kapsamında yürütülen faaliyetlere ilişkin usul ve esaslar ile gerekli protokolleri belirleyebilir.

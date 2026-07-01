@@ -1,0 +1,11 @@
+DÖRDÜNCÜ BÖLÜM
+Şarj İstasyonları, Kurulumu ve İşletilmesi
+Şarj istasyonu
+MADDE 21- (1) Şarj istasyonu, yürürlükteki mevzuat ve standartlara uygun olarak tasarlanır, kurulur, işletmeye alınır, işletilir, işletmeden çıkarılır ve denetlenir. Hiçbir gerçek veya tüzel kişi yürürlükteki mevzuat veya standartlara aykırı olarak şarj istasyonunda elektrikli aracın şarj edilmesi için elektrik enerjisi sağlayamaz veya şarj ekipmanının kullanımına izin veremez.
+(2) Bu Yönetmelik hükümleri saklı kalmak kaydıyla şarj istasyonu, ilgili mevzuatta iletim veya dağıtım sistemine bağlı tüketim tesisleri için tanımlanan kurallara tabidir.
+(3) (Değişik:RG-23/3/2026-33202) Şarj hizmeti, Kanun kapsamında elektrik tedarik faaliyeti olarak değerlendirilmez.
+(4) Şarj istasyonu bir veya birden fazla şarj ünitesinden oluşabilir. Şarj istasyonunda şarj hizmeti ancak bir şarj ağına bağlı olarak yürütülür.
+(5) (Değişik:RG-23/3/2026-33202) Şarj istasyonlarının elektrik tüketiminin ölçülmesi için kullanılacak sayaçlar, 28/12/2023 tarihli ve 32413 sayılı Resmî Gazete’de yayımlanan Elektrik Piyasası Ölçüm Sistemleri Yönetmeliği hükümleri kapsamında tesis edilir.
+(6) Şarj hizmeti sunulan halka açık şarj istasyonlarında tüm kullanıcıların şarj hizmeti satın alabilmesini sağlayacak ödeme sistemlerinden en az bir tanesinin bulundurulması zorunludur. Bu ödeme yönteminin nasıl kullanılacağına ilişkin bilgilendirmelere şarj istasyonunda ve şarj ağı işletmecilerinin dijital mecralarında yer verilir. Bu ödeme metotları serbest erişim platformunda yer alır.
+(7) Şarj hizmeti sunulan şarj ünitelerinde elektrikli araçlara aktarılan elektrik enerjisi miktarının ölçülmesi ve kullanıcı tarafından görülebilmesi için 11/1/1989 tarihli ve 3516 sayılı Ölçüler ve Ayar Kanununa uygun ölçüm aletleri kullanılır.
+(8) (Ek:RG-23/3/2026-33202)[1] Karayolları Genel Müdürlüğünün sorumluluğu altında bulunan otoyollarda şarj ağına yeni eklenen şarj istasyonlarında bulunan DC 50 kW ve üzeri güçteki şarj ünitelerinden en az bir tanesi için banka/kredi kartı okuyucuları veya temassız ödeme yapılabilen dijital cihazlar aracılığıyla doğrudan ödeme imkanı sağlanır. Bu ödeme yöntemleri için kullanıcıdan ilave bedel, komisyon veya fark talep edilemez.
