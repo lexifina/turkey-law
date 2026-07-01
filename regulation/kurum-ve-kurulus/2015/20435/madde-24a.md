@@ -1,0 +1,5 @@
+Aşırı tüketimi tavsiye edilmeyen gıdalara ilişkin reklamlar
+MADDE 24/A – (Ek:RG-28/12/2018-30639)(2)
+(1) Çocuklara yönelik radyo ve televizyon programlarının başında, sonunda veya program esnasında ve münhasıran çocuklara yönelik tasarlanan diğer her türlü mecrada, Sağlık Bakanlığınca hazırlanan gıda ve içecekler listesinin kırmızı kategorisinde yer alan aşırı tüketimi tavsiye edilmeyen gıda ve içeceklerin reklamı yapılamaz.
+(2) Birinci fıkra kapsamı dışında bu ürünlerin reklamının yapılması halinde; televizyonda ekranın alt kısmında izleyiciler tarafından rahatça okunabilir akar bant şeklinde, diğer mecralarda ise mecranın yapısına uygun bir şekilde ve içerisinde düzenli ve dengeli beslenmeyi teşvik eden ifadelere yer veren yazılı veya sözlü uyarılarla birlikte yapılır. Hangi ürün gruplarında hangi ifadelerin kullanılacağı Sağlık Bakanlığı tarafından belirlenir.
+(3) (Değişik:RG-12/10/2019-30916) Aşırı tüketimi tavsiye edilmeyen gıdaların satışını artırmaya yönelik uygulamalar kapsamında, çocuklar hedef alınarak, asıl ürünün dışında çocukların ilgi alanlarına ve beğenilerine yönelik ürünler, ürünle birlikte ayrıca hediye olarak verilemez.

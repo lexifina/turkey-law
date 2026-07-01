@@ -1,0 +1,7 @@
+ÜÇÜNCÜ KISIM
+Haksız Ticari Uygulamalar
+Haksız ticari uygulama yasağı
+MADDE 28 – (1) Tüketiciye yönelik bir ticari uygulamanın; mesleki özenin gereklerine uymaması ve ulaştığı ortalama tüketicinin ya da yöneldiği grubun ortalama üyesinin, bir mal veya hizmete ilişkin ekonomik davranış biçimini önemli ölçüde bozması veya bozma ihtimalinin olması durumunda haksız olduğu kabul edilir. Bir mal veya hizmete ilişkin tüketici işleminden önce, işlem sırasında veya işlem sonrasında haksız ticari uygulama yapılamaz.
+(2) Tüketiciye yönelik ticari uygulamaların, ortalama tüketicinin bilinçli olarak karar verme yeteneğini azaltarak normal şartlar altında taraf olmayacağı bir tüketici işlemine taraf olmasına yol açması halinde, tüketicilerin ekonomik davranış biçimini önemli ölçüde bozduğu kabul edilir.
+(3) Zihinsel veya fiziksel zaafları, yaşları ya da tecrübesizlikleri nedeniyle belirli mal veya hizmetlere ve bunlara ilişkin ticari uygulamalara karşı özellikle korunması gereken tüketici gruplarının ekonomik davranış biçimlerinin önemli ölçüde etkilenme olasılığının olup olmadığı bu grubun ortalama bir üyesi esas alınarak belirlenir.
+(4) 29 uncu maddede yer alan aldatıcı eylemler, 30 uncu maddede yer alan aldatıcı ihmaller ve 31 inci maddede yer alan saldırgan ticari uygulamalar ile Ek’te yer alan aldatıcı ticari uygulamalar ve saldırgan ticari uygulamalar her hâlükârda haksız ticari uygulama olarak kabul edilir.
