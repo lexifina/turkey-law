@@ -1,0 +1,2 @@
+Diğer kamu kuruluşlarınca verilen izinler
+GEÇİCİ MADDE 1 – (1) Kültür ve turizm koruma ve gelişim bölgeleri, kültür ve turizm gelişim bölgeleri alt bölgeleri ve turizm merkezleri ile bunların dışındaki alanlarda bulunan taşınmazlar hakkında diğer kamu kuruluşlarınca verilen izinler ile yapılan kiralama, tahsis, irtifak hakkı ve kullanma haklarına ilişkin işlemler tahsisi yapan kurum tarafından yürütülür. (Mülga cümle:RG-14/5/2022-31835)

@@ -1,0 +1,2 @@
+Tahsis Yapılamayacak Olanlar
+MADDE 28 – (1) Başvuru ile ön izin süresi arasında geçen zamanda 8/9/1983 tarihli ve 2886 sayılı Devlet İhale Kanunu ile 4/1/2002 tarihli ve 4734 sayılı Kamu İhale Kanunu uyarınca ihalelere katılmaktan yasaklananlara bu Yönetmelik uyarınca ön izin verilemez. Bakanlık, başvurular sona erdikten sonra ve ön izin verilmeden önce başvuru sahiplerinin yasaklı olup olmadığını kontrol eder.

@@ -1,0 +1,3 @@
+Orman Genel Müdürlüğü sabit kıymetlerindeki tesisler
+EK MADDE 6 – (Ek:RG-24/7/2020-31195)
+(1) 6831 sayılı Orman Kanununun 17 nci maddesinin üçüncü fıkrası uyarınca Orman Genel Müdürlüğü sabit kıymetlerindeki konaklama amaçlı tesislerin yıkılıp yeniden yapılması halinde bu yapılar için tespit edilecek olan enkaz bedelinin yıkım masrafından artan kısmı bir defaya mahsus olmak üzere tahsis yapılmadan önce yatırımcı tarafından Orman Genel Müdürlüğünce bildirilen hesaba yatırılır. Bu yapı ve tesislerin tüm yıkım işleri yatırımcı tarafından gerçekleştirilir. Yatırımcı tarafından bu işlemler sebebiyle Bakanlıktan herhangi bir hak, bedel ve tazminat talep edilemez.

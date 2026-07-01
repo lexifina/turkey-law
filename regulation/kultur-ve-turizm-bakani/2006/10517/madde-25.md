@@ -1,0 +1,5 @@
+Tahsis süresinin sona ermesi
+MADDE 25 – (Değişik: RG-16/03/2007-26464)
+(1) Kesin tahsisi iptal edilen veya kesin tahsis süresi sona eren kamu taşınmazları üzerinde bulunan yapı ve tesisler, müştemilatı ile birlikte sağlam ve işler halde ve herhangi bir bedel ödenmeden Hazineye intikal eder. Yatırımcılar, bunlar için herhangi bir hak ve bedel talep edemez.
+(2) Kesin tahsis süresi sona eren kamu taşınmazları, amacına uygun kullanımın devamı şartıyla, bu Yönetmeliğin 22 nci maddesinde belirtilen kullanım bedeli ve hasılat payı üzerinden, en fazla kırk dokuzyıla kadar ilansız olarak aynı yatırımcıya Bakanlıkça yeniden tahsis edilebilir.
+(3) Kesin tahsisi iptal edilen kamu taşınmazları ile kesin tahsis süresi sona erip bu maddenin ikinci fıkrasına göre aynı yatırımcıya yeniden tahsis edilmeyen kamu taşınmazları üzerinde bulunan ve Hazineye intikal eden yapı ve tesisler, müştemilatı ile birlikte Bakanlıkça, bu Yönetmeliğin 22 nci maddesinde belirtilen kullanım bedeli ve hasılat payı üzerinden, en fazla kırk dokuz yıla kadar, yeni girişimcilere tahsis edilebilir.

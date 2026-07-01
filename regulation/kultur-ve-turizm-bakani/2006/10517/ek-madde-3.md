@@ -1,0 +1,4 @@
+Hazineye bağışlanan taşınmazların tahsisine ilişkin işlemler
+EK MADDE 3 – (Ek:RG-25/9/2018-30546)
+(1) Bakanlık tarafından yatırımcı adına kesin tahsisi yapılan, lehine üst hakkı tesis edilen ve yargı kararıyla bir bölümü üçüncü kişiler adına tescil edilmesi nedeniyle kesin tahsisi iptal edilen taşınmazın, yatırımcı tarafından edinilerek Hazineye bağışlanması halinde; tahsis bütünlüğünün sağlanması amacıyla, başkaca yasal engelin olmaması, Bakanlıkça belirlenecek sosyal ve teknik altyapıya katılım payının ödeneceğinin ve diğer koşulların yerine getirileceğinin kabul edilmesi kaydıyla kesin tahsisi ihya edilebilir.
+(2) Birinci fıkra uyarınca tahsisin ihya edilmesi halinde Hazineye bağışlanan taşınmaz için alınacak kullanım bedeli, toplam yatırım maliyetinin Hazineye bağışlanan taşınmaza isabet eden kısmının on binde beşidir.

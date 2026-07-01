@@ -1,0 +1,12 @@
+Mekanik tesis hattı ve kayak pisti tahsisi
+MADDE 13 – (Başlığı ile birlikte değişik:RG-23/5/2012-28301)
+(1) Faaliyetlerinin tamamlayıcısı olarak hizmet vermesi amacıyla, bölgede
+a) Bakanlıkça belgelendirilmiş tek bir turizm tesisi olması halinde bu tesise,
+b) (Değişik:RG-30/12/2016-29934) Bakanlıkça belgelendirilmiş birden fazla turizm tesisi olması halinde bunların yatak kapasiteleri oranında hissedar olarak kuracakları anonim şirketlere, eşit koşullarda yararlanmak şartıyla,
+c) (Değişik:RG-30/12/2016-29934) Turizm yatırımı ve işletmeciliği ile görevlendirilmiş, turizm tesislerinin yatak kapasiteleri oranında hissedar olarak kurulacak altyapı birliklerine,
+ç) (Ek:RG-30/12/2016-29934) Kamu kurum ve kuruluşlarına,
+bu Yönetmeliğin 9 uncu maddesindeki duyuru şartı aranmaksızın, imar planına uygun mekanik tesis hattı ve zorunlu hallerde kayak pisti yapılmak ve birlikte kullanılmak üzere bedeli karşılığında arazi tahsis edilebilir.
+(2) (Değişik:RG-30/12/2016-29934) Birinci fıkranın (a) bendi uyarınca tahsis yapılan alanda ileride Bakanlıkça belgelendirilmiş başka turizm tesislerinin olması halinde, yeni yapılacak mekanik tesis hattı ve zorunlu hallerde kayak pisti tahsisleri bölgede aynı fıkranın (b) veya (c) bentlerine göre kurulacak anonim şirkete ya da birliğe yapılır.
+(3) (Ek:RG-30/12/2016-29934)(1) Birinci fıkranın (b) ve (c) bentleri uyarınca kurulan anonim şirket ya da altyapı birliğine tahsis yapılan alanda ileride Bakanlıkça belgelendirilmiş başka turizm tesisi tahsisi yapılması halinde, adına ön izin verilen yatırımcının ön izin dönemi içerisinde, bahsi geçen anonim şirkete ya da altyapı birliğine ortak olması zorunludur.
+(4) (Değişik:RG-24/7/2020-31195) Birinci fıkranın (ç) bendi uyarınca tahsis edilen taşınmazlar üzerinde 49 yıla kadar bağımsız ve sürekli nitelikli olmayan ve tapu kütüğünün ayrı bir sayfasına taşınmaz olarak kaydedilmeyen, sadece taşınmazın tapu kütüğünün irtifak hakları ve gayrimenkul mükellefiyetleri sütununa kaydedilen süreli (normal) irtifak hakkı tesis edilir.
+(5) (Ek:RG-14/5/2022-31835) Faaliyetlerinin tamamlayıcısı olarak hizmet vermesi amacıyla, Bakanlıktan tahsisli ve turizm işletmesi belgeli tesislere, sınırları vaziyet planında belirlenen ve uzunluğu 200 metreyi geçmeyen yürüyen bant alanı ilansız olarak tahsis edilebilir. Bu şekilde yapılacak tahsislerde tahsis süresi beş yılı geçemez ve bu tahsisler kiralama şeklinde yapılır. Tahsis süresi sona eren bu alanlar, aynı yatırımcıya aynı usulle yeniden tahsis edilebilir.
