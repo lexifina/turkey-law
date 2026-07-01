@@ -1,0 +1,2 @@
+Tarife kontenjanı tahsisat yöntemi
+MADDE 3- (1) Bazı Sanayi Ürünlerinin İthalatında Tarife Kontenjanı Uygulanması Hakkında Karar uyarınca, Ek-1’deki tabloda yer alan eşyanın ithalatında karşılarında gösterilen miktarlarda açılan tarife kontenjanlarının firmalara dağıtımı, ithalatı gerçekleştirilecek eşyaya dair gümrük beyannamesi tescil numarası sırası esas alınarak beyanname sırasına göre tahsis yöntemi ile yapılır.
