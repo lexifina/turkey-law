@@ -1,0 +1,24 @@
+{
+  "number": "meeting-07-01",
+  "number_as_published": "meeting-07-01",
+  "year": 2026,
+  "title": "01.07.2026 ve 03.07.2026 Tarihli 46,47,48 ve 49 Sayılı Meclis Kararları",
+  "decision_date": "2026-07-01",
+  "source": "https://araban.bel.tr/karar/01-07-2026-ve-03-07-2026-tarihli-46-47-48-ve-49-sayili-meclis-kararlari.html",
+  "official_document": "https://araban.bel.tr/uploads/files/Temmuz%202026%20Meclis%20Kararlar%C4%B1.pdf",
+  "source_sha256": "d07a5b211c2b4161014442d06404da0888928faa89ec145dc7c3f84a7d354e8d",
+  "issuer": "Araban Belediye Meclisi",
+  "history_type": "metadata",
+  "text_status": "metadata-only: listing fields as published; complete decision text is in the linked official document, not transcribed",
+  "in_force": "2026-07-01",
+  "in_force_basis": "Decision date as printed in the official council listing: 01.07.2026; adoption date of the council decision; legal commencement not asserted",
+  "missing": [
+    "complete official decision text",
+    "official annexes"
+  ],
+  "law_text_complete": false,
+  "privacy_withheld": false,
+  "listing_label": "01.07.2026 ve 03.07.2026 Tarihli 46,47,48 ve 49 Sayılı Meclis Kararları",
+  "record_scope": "one official file of council decisions (meeting)",
+  "official_page": "https://araban.bel.tr/karar/01-07-2026-ve-03-07-2026-tarihli-46-47-48-ve-49-sayili-meclis-kararlari.html"
+}
