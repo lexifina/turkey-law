@@ -1,0 +1,25 @@
+{
+  "number": "94",
+  "number_as_published": "94",
+  "year": 2026,
+  "title": "Belediye Başkanına Yetki Verilmesi",
+  "decision_date": "2026-07-01",
+  "source": "https://ebelediye.inegol.bel.tr/MeclisEncumenKararlari/Index/?tur=MECLIS",
+  "official_document": null,
+  "source_sha256": "ac534713497e3ac93445eccf2be09d116b2243737352bb698c71db122ffdc2b8",
+  "issuer": "İnegöl Belediye Meclisi",
+  "history_type": "metadata",
+  "text_status": "metadata-only: the published decision summary appears to name private persons; official link only",
+  "in_force": "2026-07-01",
+  "in_force_basis": "Decision date as printed in the official council listing: 01.07.2026; adoption date of the council decision; legal commencement not asserted",
+  "missing": [
+    "complete official decision text",
+    "official annexes"
+  ],
+  "law_text_complete": false,
+  "privacy_withheld": true,
+  "official_page": "https://ebelediye.inegol.bel.tr/MeclisEncumenKararlari/Index/?tur=MECLIS",
+  "official_search": "Karar Türü MECLIS, Yıl 2026 (the page's own search form)",
+  "record_scope": "one council decision (number, date, subject as listed)",
+  "text_note": "summary.txt, when present, is the decision text exactly as shown in the platform's result table (column 'Karar')"
+}
