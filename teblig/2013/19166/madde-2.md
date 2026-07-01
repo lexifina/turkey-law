@@ -1,0 +1,3 @@
+Kapsam
+MADDE 2 – (1) Serbest bölgelerde faaliyette bulunanlar dâhil Türkiye’de kurulmuş veya şube açmak suretiyle Türkiye’de faaliyet gösteren bankalar ile finansman şirketleri bu Tebliğ hükümlerine tabidir.
+(2) Münhasıran kıyı bankacılığı yapan bankalar, İller Bankası, Türkiye Kalkınma Bankası A.Ş. ve Türkiye İhracat Kredi Bankası A.Ş. ile 19/10/2005 tarihli ve 5411 sayılı Bankacılık Kanunu gereğince iradi tasfiyeye giden bankalar tasfiyenin ilân edildiği tarihten itibaren, temettü hariç ortaklık hakları ile yönetim ve denetimi Tasarruf Mevduatı Sigorta Fonuna devredilen kredi kuruluşları devir tarihinden itibaren bu Tebliğ hükümlerine tabi değildir.

@@ -1,0 +1,3 @@
+Kredi büyümesine göre farklılaşma uygulamasında selektif sektörlere kullandırılan kredilerin dikkate alınmasına ilişkin geçici uygulama
+GEÇİCİ MADDE 9 – (Ek:RG-7/3/2020-31061) (37)
+(1) Ek-1’de yer alan selektif sektörlere kullandırılan 2 yıldan uzun vadeli kredilerdeki değişimin hesaplanmasında, 27/11/2020 yükümlülük tarihine kadar içinde bulunulan zorunlu karşılık dönemine ilişkin üç aylık ortalama ile 6/9/2019 – 15/11/2019 yükümlülük tarihleri arasındaki üç aylık ortalama dikkate alınır. 27/11/2020 yükümlülük tarihinden itibaren ise bu Tebliğin 10/A maddesi çerçevesinde yıllık değişim hesaplanır.

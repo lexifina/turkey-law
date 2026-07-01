@@ -1,0 +1,2 @@
+Kapsam dışına çıkarılan yükümlülüklere uygulanmayacak hükümler
+GEÇİCİ MADDE 4 – (1) Bu Tebliğ ile yürürlükten kaldırılan 16/11/2005 tarihli ve 25995 sayılı Resmî Gazete’de yayımlanan Zorunlu Karşılıklar Hakkında Tebliğ (Sayı: 2005/1)’e ilişkin zorunlu karşılığa tabi yükümlülüklerden bu Tebliğ ile yükümlülük kapsamı dışına çıkarılanlar hakkında bu Tebliğin yürürlük tarihinden itibaren yapılacak denetim ve incelemelerde ortaya çıkan tespitler için 11 inci maddenin birinci fıkrasının (b) bendi hükümleri uygulanmaz.

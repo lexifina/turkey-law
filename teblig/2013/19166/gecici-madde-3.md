@@ -1,0 +1,2 @@
+Finansman şirketlerinin önceki yükümlülüklerine ilişkin istisna
+GEÇİCİ MADDE 3 – (1) 4/10/2013 tarihli ve 28785 sayılı Resmî Gazete’de yayımlanan Zorunlu Karşılıklar Hakkında Tebliğ (Sayı: 2005/1)’de Değişiklik Yapılmasına Dair Tebliğ (Sayı: 2013/13) ile zorunlu karşılığa tabi tutulan finansman şirketlerinin 4/10/2013 tarihi itibarıyla mevcut olan yurt dışından kullanılan kredileri, ihraç edilen menkul kıymetleri ve özkaynak hesabında dikkate alınmayan sermaye benzeri borçları vadeleri sonuna kadar zorunlu karşılığa tabi yükümlülükler arasına dâhil edilmez.

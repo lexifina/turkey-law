@@ -1,0 +1,7 @@
+Kredili mevduat hesabı limit büyümesine dayalı geçici uygulama
+GEÇİCİ MADDE 17- (Ek:RG-31/1/2026-33154)
+(1) Bankalarca tüketicilere tahsis edilen kredili mevduat hesabı limitlerinden usul ve esasları Merkez Bankasınca belirlenenler için büyüme oranının 27/3/2026 hesaplama tarihinden 31/12/2026 (dahil) hesaplama tarihine kadar bir önceki hesaplama tarihine göre (Değişik ibare:RG-23/5/2026-33262) yüzde 1’in üzerinde olması halinde bu oranı aşan limit tutarı kadar Türk lirası cinsinden zorunlu karşılık bloke olarak tesis edilir. Ancak Merkez Bankasınca belirlenen usul ve esaslara göre, bir sonraki döneme ilişkin büyüme oranı hesaplamasında dikkate alınmak koşuluyla, aşan limit tutarının Merkez Bankasınca belirlenen kısmı için zorunlu karşılık tesis edilmez.
+(2) Bu madde kapsamında yer alan büyüme oranları usul ve esasları Merkez Bankasınca belirlenen hesaplama yöntemine göre sekiz haftada bir Cuma günleri itibarıyla hesaplanır.
+(3) Tesis, hesaplama tarihini takip eden iki hafta sonraki Cuma günü başlar, tesis başlangıcını takip eden elli ikinci haftanın Perşembe günü sona erer.
+(4) Merkez Bankasınca belirlenen usul ve esaslara göre bankaların limit büyüklükleri veya buna bağlı bir gösterge çerçevesinde belirlenen seviyenin altında olan bankalara bu madde hükümleri uygulanmaz.
+(5) Bu madde kapsamında tesis edilmesi gereken zorunlu karşılık tutarına usul ve esasları Merkez Bankasınca belirlenen indirim uygulanabilir.

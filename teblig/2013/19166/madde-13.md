@@ -1,0 +1,2 @@
+Mevduat veya katılım fonlarından olağanüstü çekilişler
+MADDE 13 – (1) Mevduat veya katılım fonları olağanüstü çekilmekte olan bankaların eksiliş tutarını, eksilişe konu teşkil eden mevduat veya katılım fonunun vade ve türü ile eksilişin başladığı tarihi Merkez Bankasına yazılı olarak bildirmeleri halinde, tesis etmeleri gereken zorunlu karşılık tutarı olağanüstü eksilişe tekabül eden mevduat veya katılım fonları göz önüne alınarak yeniden hesaplanabilir.

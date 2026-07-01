@@ -1,0 +1,5 @@
+Zorunlu karşılığa tabi yabancı para yükümlülükler için geçici uygulama
+GEÇİCİ MADDE 14- (Ek:RG-15/1/2023-32074)
+(1) Tebliğin 4 üncü maddesinin birinci fıkrasında sayılan (Ek ibare:RG-19/12/2024-32757)(63) mevduat/katılım fonu (yurt dışı bankalara ait olanlar hariç) dışında kalan yükümlülüklerden Merkez Bankasınca belirlenen yabancı para cinsinden yurt dışından sağlanan (Değişik ibare:RG-19/12/2024-32757)(63) 1 yıldan uzun vadeli olanların 6/1/2023 tarihine göre artış tutarına Tebliğin 6 ncı maddesinin (Değişik ibare:RG-2/11/2023-32357) ikinci ve dördüncü fıkralarında yer alan zorunlu karşılık oranları (Değişik ibare:RG-19/12/2024-32757)(63) 19/12/2025 (dâhil) hesaplama tarihine kadar yüzde 0 olarak uygulanır.
+(2) Bu maddenin uygulanmasına ilişkin usul ve esaslar Merkez Bankasınca belirlenir.
+(3) (Ek:RG-19/12/2024-32757)(63) Bu fıkrayı ihdas eden Tebliğ ile bu madde kapsamı dışına çıkarılan yükümlülükler vadeleri sonuna kadar Merkez Bankasınca belirlenecek hesaplama yöntemine göre bu uygulama kapsamında dikkate alınmaya devam edilir.
