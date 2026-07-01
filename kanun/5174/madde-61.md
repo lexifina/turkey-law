@@ -6,5 +6,5 @@ Ayrıca, odalar ve borsalar, seçimin yapıldığı yıl hariç son dört yılda
 Seçilen delege sayısı kadar da yedek delege seçilir.
 Delegelerin oda ve borsalardan çıkması, çıkarılması, ölümleri, istifaları veya meclis üyeliklerinden ayrılmaları hallerinde yerlerine yedek üyeler, aldıkları oy sayısına göre Genel Kurula katılırlar.
 Delegelerin Genel Kurula katılma masrafları temsil ettikleri oda veya borsa tarafından karşılanır.
-Genel Kurul, her yıl mayıs ayı içinde toplanır.
+(Değişik sekizinci fıkra:24/6/2026-7587/22 md.) Genel Kurul, her yılın mayıs ayının sonuna kadar toplanır. Genel Kurul toplantısının yeri, günü, saati ve gündemi en az otuz gün öncesinden Türkiye Ticaret Sicili Gazetesinde ilan edilir ve Genel Kurul toplantısı tarihine kadar yayımda kalacak şekilde Birlik resmî internet sitesinde duyurulur.
 Oda ve borsa meclislerinin görevlerine son verilerek yerlerine yeniden seçim yapılması durumunda, Genel Kurula gönderilecek delegeler yeniden seçilir.
