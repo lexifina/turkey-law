@@ -1,0 +1,21 @@
+{
+  "record_type": "parliament-written-question",
+  "term": 28,
+  "legislative_year": 4,
+  "esas_no": "7/46307",
+  "submitted": "2026-07-01",
+  "submitted_as": "Başkanlığa geliş tarihi",
+  "mp": "Süreyya ÖNEŞ DERİCİ",
+  "province": "Muğla",
+  "summary": "Muğla'nın Menteşe ve Yatağan ilçelerinde bulunan bazı taşınmazlar hakkında alınan acele kamulaştırma kararına ilişkin",
+  "status": "Cevaplanmadığı Gelen Kağıtlarda İlan Edildi",
+  "status_as_of": "2026-11-16",
+  "official_record": "https://www.tbmm.gov.tr/Denetim/Yazili-Soru-Onergesi-Detay/c6b05938-93a5-406f-8e9e-019f1dfd7bd1",
+  "source": "https://tbmm.gov.tr/Denetim/YaziliSoruOnergesiTable",
+  "source_form": "https://tbmm.gov.tr/Denetim/Yazili-Soru-Onergeleri",
+  "source_sha256": "ad625a3166f4f7e9a59cc3fd8d74ef822e36d4601d1b5b8e173f3ea02160704e",
+  "in_force": "2026-07-01",
+  "in_force_basis": "Date the question reached the Speaker (Başkanlığa geliş tarihi) in the official TBMM written-question record; parliamentary oversight record, not law",
+  "history_type": "metadata",
+  "text_status": "metadata-only: question text, addressee and answers are in the linked official record (PDFs on cdn.tbmm.gov.tr); not transcribed here"
+}
