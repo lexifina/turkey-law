@@ -1,0 +1,4 @@
+GEÇİCİ MADDE 1- (Ek:RG-12/10/2023-32337)(3)
+(1) Kurumun MCKS’sinde kayıtlı iken elektronik haberleşme şebekelerinden kesintisiz yedi yıl süreyle hizmet almadığı tespit edilerek siyah listeye alınan cihazın tekrar kullanıma açılmasına ilişkin başvuru, cihazın son kullanıcısı tarafından e-Devlet kapısı üzerinden yapılabilir.
+(2) Bu madde kapsamında siyah listeye alınan bir cihazın son kullanıcısının Kurum kayıtlarıyla uyuşmaması halinde, ilgili cihaza ait IMEI numarasının tekrar kayıtlı hale getirilmesi talebi cihazın ithalatçısı veya imalatçısı aracılığıyla MCKS üzerinden yapılabilir. Cihazın ithalatçısı veya imalatçısının tasfiye halinde veya terkin edilmiş olması durumunda Elektronik Kimlik Bilgisini Haiz Cihazların Kayıt Altına Alınmasına Dair Tebliğde belirtilen bilgi ve belgeler tamamlanarak Kuruma başvuru yapılabilir.
+(3) Başvurunun Kurum tarafından yapılan kontrollerden geçmesi halinde ilgili IMEI numarası tekrar kayıtlı hale getirilir.
