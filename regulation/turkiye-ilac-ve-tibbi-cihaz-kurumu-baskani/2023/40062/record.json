@@ -1,0 +1,53 @@
+{
+  "source_id": "7.5.40062",
+  "kind": "regulation",
+  "register_kind": "Kurum ve Kuruluş Yönetmelikleri",
+  "title": "GELENEKSEL BİTKİSEL TIBBİ ÜRÜNLER RUHSATLANDIRMA YÖNETMELİĞİ",
+  "number": "40062",
+  "issuer": "Türkiye İlaç ve Tıbbî Cihaz Kurumu Başkanı",
+  "issuer_slug": "turkiye-ilac-ve-tibbi-cihaz-kurumu-baskani",
+  "path": "regulation/turkiye-ilac-ve-tibbi-cihaz-kurumu-baskani/2023/40062",
+  "source": "https://www.mevzuat.gov.tr/anasayfa/MevzuatFihristDetayIframe?MevzuatTur=7&MevzuatNo=40062&MevzuatTertip=5",
+  "source_sha256": "6de915cca5bc85ca5ec8ec41153facec1a5b3fe5479e3fb36f06964175d80df8",
+  "source_bytes": 146959,
+  "published": "2023-02-03",
+  "gazette": "32093",
+  "in_force": "2026-07-02",
+  "in_force_basis": "latest Resmî Gazete date printed in the source amendment notes/table (\"RG-2/7/2026\") for the current consolidated text",
+  "date_evidence": [
+    [
+      "2026-07-02",
+      "RG-2/7/2026",
+      "Resmî Gazete date printed in the source amendment note"
+    ],
+    [
+      "2026-07-02",
+      "2/7/2026",
+      "Resmî Gazete date in the source amendment table"
+    ],
+    [
+      "2024-12-03",
+      "RG-3/12/2024",
+      "Resmî Gazete date printed in the source amendment note"
+    ],
+    [
+      "2024-12-03",
+      "3/12/2024",
+      "Resmî Gazete date in the source amendment table"
+    ]
+  ],
+  "commencement_clauses": [
+    "Bu Yönetmelik yayımı tarihinde yürürlüğe girer"
+  ],
+  "history": "current-text",
+  "label": "oldest version available",
+  "checked_on": "2026-11-15",
+  "word_count": 9418,
+  "text_status": "current-consolidated",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  },
+  "completeness": "html-text-complete"
+}
