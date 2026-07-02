@@ -1,0 +1,9 @@
+Ruhsat iptali
+MADDE 27- (1) Aşağıda belirtilen durumlardan birinin mevcudiyeti halinde tıbbi bitki çayı için verilmiş olan ruhsat iptal edilir:
+a) 26 ncı maddenin birinci fıkrasında sayılan hallerden biri veya birkaçı sebebiyle ruhsatı askıya alınan ürünler hakkında ruhsat sahibi tarafından ruhsatı askıya alındığı tarihten itibaren en geç altı ay içinde askıya alınma gerekçesinin aksini ispatlayan belgelerin sunulmaması veya durumu açıklayan belgelerin Kurum tarafından uygun bulunmaması.
+b) Ruhsat üzerinde Kuruma tebliğ edilmiş haciz veya tedbir kararı bulunmaması koşuluyla, ruhsat sahibinin talebi ve Kurumun uygun görmesi.
+c) 26 ncı maddenin beşinci fıkrası uyarınca taahhüt edilen süre içerisinde ürünlerin piyasaya arz edilmemesi.
+ç) Halk sağlığı ve kamu maliyesi açısından önem arz eden tıbbi bitki çayının, Kurum tarafından talep edilmesine rağmen, talep tarihinden itibaren altı ay içinde ruhsat sahibi tarafından piyasaya arz edilmemesi.
+(2) Ruhsatı iptal edilen bir tıbbi bitki çayının üretimi veya ithalatı durdurulur. Hâlihazırda piyasada bulunan mevcut ürünler hakkındaki karar, ruhsatın iptal gerekçesi dikkate alınarak Kurum tarafından verilir.
+(3) Birinci fıkranın (b) bendine göre iptaline karar verilen ruhsat; ürünün piyasada bulunabilirliğini sağlamak için ruhsat iptali öncesinde altı ay süreyle Kurumun resmî internet sitesinde ilan edilir. Bu durumdaki ruhsat belgeleri; talep halinde, ürünü piyasaya verme taahhüdünde bulunan ve bu Yönetmelikte tanımlanan ruhsat başvurusunda bulunma şartlarını haiz gerçek kişilere veya ticaret şirketlerine, bunların talepleri ve ruhsat sahibinin rızası bulunması halinde, ruhsat devri başvuru şartlarının sağlanması koşuluyla devredilir. Devir başvurusu yapılan ruhsatın iptali işlemine devam edilmez.
+(4) Kurum tarafından ruhsatı iptal edilen tıbbi bitki çaylarının listesi Kurumun resmî internet sitesinde ilan edilir.

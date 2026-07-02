@@ -1,0 +1,32 @@
+Ruhsat başvurusunda sunulması gereken bilgi ve belgeler
+MADDE 9- (1) Endüstriyel olarak veya eczanelerde hazırlanmak istenen tıbbi bitki çayının içeriği ve kullanım amacı Kurum tarafından belirlenir.
+(2) Bir tıbbi bitki çayına ruhsat almak isteyen gerçek kişiler ve ticaret şirketleri bu Yönetmeliğe uygun olarak hazırlanmış olan aşağıda sıralanan hususların yer aldığı belgelerle birlikte Kuruma başvuruda bulunur:
+a) Yurt dışından temin edilen tüm resmî belgelerin Türkçe olarak sunulması esastır. Kurum tarafından uygun bulunan kısımları İngilizce olarak sunulabilir. Ancak bu diller dışındaki dillerde hazırlanmış olanların yeminli Türkçe tercümesi ile birlikte sunulması şarttır. Yeminli tercümenin ülkemizde yapılamadığı durumlarda başka bir ülkede Türkçeye veya İngilizceye çevrilmiş olan yeminli tercüme belgesi kabul edilebilir.
+b) Başvuru sahibinin 7 nci maddede belirtilen eğitim programından mezun olduğunu gösteren diploması veya noter onaylı sureti veya Yükseköğretim Kurulundan alınan mezuniyet belgesi.
+c) Başvuru sahibinin ticaret şirketi olması durumunda başvuruyu yapmaya yetkili olduğunu gösteren noter onaylı belge.
+ç) Başvuru sahibinin ticaret şirketi olması durumunda, şirketin ortaklarını ve sorumlu kişilerin görev ve ünvanlarını belirten Türkiye Ticaret Sicili Gazetesi.
+d) Başvuru sahibinin adı veya firma adı, daimi adresi, kayıtlı elektronik posta (KEP) adresi, telefon ve faks numarası, e-posta adresi.
+e) Üretim yerinin adı, daimi adresi, telefon ve faks numarası, e-posta adresi.
+f) İç-dış ambalajlama, seri serbest bırakma ve seri kontrol analizleri ile diğer analizlerin yapıldığı yerlerin adı, adresi, telefon ve faks numarası.
+g) Türkiye’de imal edilecek tıbbi bitki çaylarının başvuru sahibinin üretici olmaması durumunda, Kurumca düzenlenen üretim yeri izin belgesi ile birlikte tıbbi bitki çayı elde etmek için kullanılan bitkinin Avrupa Farmakopesi/Türk Farmakopesi uygunluk sertifikasına sahip bir üretici ile yaptığı fason üretim sözleşmesi.
+ğ) Kurumca düzenlenen üretim yeri izin belgesi ile birlikte tıbbi çay elde etmek için kullanılan bitkinin Avrupa Farmakopesi/Türk Farmakopesi uygunluk sertifikası.
+h) Yurt dışında yerleşik tıbbi bitki çayı üretim tesisleri Kurumun denetim hakkı saklı kalmak kaydı ile denetim kapsamına alınmaz. Bu tesisler için Avustralya İlaç Otoritesi, İngiltere İlaç Otoritesi, Uluslararası Harmonizasyon Komitesi kurucu veya daimi üyesi yetkili otoriteleri tarafından iyi imalat uygulamaları kılavuzlarına uygun üretim yapıldığını gösteren belge.
+ı) Tıbbi bitki çayının lisans altında üretilmesi durumunda, lisansör firma tarafından düzenlenmiş, üretimi yapan gerçek kişiler ve ticaret şirketlerinin söz konusu ürünün Türkiye’de ruhsat alması, üretimi ve satışı konusunda yetkili tek temsilci olduğunu gösteren belge.
+i) Başvurusu yapılan lisanslı üretilen tıbbi bitki çayları için, ruhsat başvurusu yapılmış diğer ülke/ülkelerin listesi ile Türkiye’de ruhsat düzenlenmeden önce listedeki ülkelerden birinin sağlık otoritesince onaylanmış ruhsat örneği veya ürünün ilgili otorite tarafından ruhsatın onaylandığını gösteren ve Kurumca kabul edilen bilgi ve belge.
+j) Söz konusu tıbbi bitki çayının çevre için yarattığı potansiyel riskler de göz önünde bulundurularak tıbbi bitki çayının saklanması, hastalara uygulanması, 2/4/2015 tarihli ve 29314 sayılı Resmî Gazete’de yayımlanan Atık Yönetimi Yönetmeliği hükümlerine uygun olarak atık ürünlerin imha edilmesi ile ilgili alınacak tedbir ve güvenlik önlemleri.
+k) Kurum tarafından yayımlanan tıbbi bitki çayları ile ilgili vijilans kılavuzu doğrultusunda ruhsat başvurusu sırasında sunulması gereken vijilans ve alerji testi ile ilgili belgeler.
+l) Türkiye’de imal edilen veya edilecek tıbbi bitki çayının ortak pazarlamaya konu edilmesi halinde, ortak pazarlama yapacak gerçek kişilerin veya ticaret şirketlerinin ortak pazarlama konusundaki yazılı onayları.
+m) Ortak pazarlanan tıbbi bitki çayının başvurularında, ortak pazarlamaya konu tıbbi bitki çayının birebir aynı olduğuna, tüm varyasyon başvurularının eş zamanlı yapılacağına ve ortak pazarlamaya konu olan ürünün üretim yerinin birden fazla olması durumunda, ortak pazarlamaya konu tıbbi bitki çayının hepsinin bu üretim yerlerinden sadece birinde üretiminin yapılacağına ilişkin taahhüt.
+n) Başvurusu yapılan tıbbi bitki çayının; ruhsat başvurusu, diğer ülkelerin yetkili otoritesi tarafından reddedilmiş veya başvuru sahibi tarafından geri çekilmiş ise veya ruhsatlı ürün geri çekilmiş veya ruhsatı askıya alınmış ise bu ülkelerin listesinin, ürünün söz konusu ülkedeki adı, yapılan işlemlerin tarihi ve gerekçesi ile birlikte belirtilmesi.
+o) 11 inci, 12 nci ve 13 üncü maddelere uygun olarak hazırlanan kullanma talimatı veya benzeri belgenin ve ürüne ait piyasaya sunulacak boyut ve tasarımda ambalaj örnekleri ile ürünün ithalatı veya lisanslı üretimi durumunda ürünün piyasaya sunulduğu diğer ülke veya ülkelerin yetkili otoriteleri tarafından onaylanmış ve onay tarihini gösteren, ürüne ait güncel orijinal kullanma talimatı veya benzeri belge ve ambalaj örnekleri.
+ö) Ürünün ithalatı veya lisanslı üretimi durumunda tıbbi bitki çayının yetkili otorite tarafından onaylanan ambalaj örneği, kullanma talimatının yeminli Türkçe tercümesi. Yeminli tercümenin ülkemizde yapılamadığı durumlarda başka bir ülkede Türkçe veya İngilizceye çevrilmiş olan yeminli tercüme belgesi.
+p) Tıbbi bitki çayının elde edildiği bitki/bitkilerin Latince adı ve orijinini belirten üretici beyanı.
+r) Tıbbi bitki çay ruhsatının verilmesine müteakip ürüne ait ruhsatın Ticaret Bakanlığının Tek Pencere Sistemine bildirileceğine dair beyan.
+(3) Bu maddede yer alan bilgilerden güncellenenler için Kurum tarafından yayımlanan ilgili kılavuzda belirtilen usul ve esaslar ile belirlenen süreler içerisinde Kuruma başvuru yapılması zorunludur.
+(4) Türkiye florasında yer alan ve/veya Türkiye’ye özgü endemik bitki türlerinden elde edilen drogların kullanılması durumunda;
+a) Bitkinin Türkiye florasındaki taksonomik kaydının,
+b) Endemik statüsüne ilişkin bilginin,
+c) Doğal popülasyonların korunmasına yönelik sürdürülebilir temin planının,
+ç) İlgili mevzuatına uygun üretim veya kültüre alma belgesinin,
+d) Nesli tehlike altında olan türlerde, 27/9/1994 tarihli ve 4041 sayılı Kanunla onaylanması uygun bulunan Nesli Tehlike Altında Olan Yabani Hayvan ve Bitki Türlerinin Uluslararası Ticaretine İlişkin Sözleşme (CITES) ve ilgili koruma mevzuatına uygunluk beyanının,
+başvuru dosyasında sunulması zorunludur.

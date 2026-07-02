@@ -1,0 +1,4 @@
+Ambalajlara dair diğer şartlar
+MADDE 15- (1) Tıbbi bitki çayı, kullanma talimatı ile iç veya dış ambalajla birlikte sunulur. Dış ambalajın üzerinde veya içerisinde kullanma talimatı bulunabilir.
+(2) Ürünün piyasaya arz edilmesi için ambalaj bilgileri ve kullanma talimatına ait bilgilerin Türkçe olması zorunludur. Ancak gerekli hallerde ve istenilen durumlarda ambalaj bilgileri ve kullanma talimatında Türkçe yanında, Avrupa Birliğine üye ülkelerin resmî dillerinden birisi, kullanılan bütün dillerde aynı hususların yer alması koşuluyla ve Kurum onayı ile kullanılabilir. Avrupa Birliği dillerinden birisi ve Türkçenin bilgi ve kullanım talimatının ambalaj üzerinde olması şartıyla, diğer diller de Kurum onayı ile ambalaj üzerinde kullanılabilir.
+(3) 12 nci ve 14 üncü maddelerin birinci fıkraları ile 13 üncü maddenin birinci ve ikinci fıkralarında belirtilen bilgiler kolaylıkla okunabilir, açıkça anlaşılır ve silinemez olmak zorundadır.
