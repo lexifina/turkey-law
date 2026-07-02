@@ -1,0 +1,48 @@
+{
+  "source_id": "7.5.40241",
+  "kind": "regulation",
+  "register_kind": "Kurum ve Kuruluş Yönetmelikleri",
+  "title": "ÖZEL TIBBİ AMAÇLI GIDALAR RUHSATLANDIRMA YÖNETMELİĞİ",
+  "number": "40241",
+  "issuer": "Türkiye İlaç ve Tıbbî Cihaz Kurumu Başkanı",
+  "issuer_slug": "turkiye-ilac-ve-tibbi-cihaz-kurumu-baskani",
+  "path": "regulation/turkiye-ilac-ve-tibbi-cihaz-kurumu-baskani/2023/40241",
+  "source": "https://www.mevzuat.gov.tr/anasayfa/MevzuatFihristDetayIframe?MevzuatTur=7&MevzuatNo=40241&MevzuatTertip=5",
+  "source_sha256": "ea061d762151a93d52fad837a978fdc6ce5b1326ca4caded36115fc33129c922",
+  "source_bytes": 111406,
+  "published": "2023-01-28",
+  "gazette": "32087",
+  "in_force": "2026-07-02",
+  "in_force_basis": "latest Resmî Gazete date printed in the source amendment notes/table (\"RG-2/7/2026\") for the current consolidated text",
+  "date_evidence": [
+    [
+      "2026-07-02",
+      "RG-2/7/2026",
+      "Resmî Gazete date printed in the source amendment note"
+    ],
+    [
+      "2026-07-02",
+      "2/7/2026",
+      "Resmî Gazete date in the source amendment table"
+    ],
+    [
+      "2026-01-08",
+      "8/1/2026",
+      "Resmî Gazete date in the source amendment table"
+    ]
+  ],
+  "commencement_clauses": [
+    "Bu Yönetmelik 1/7/2023 tarihinde yürürlüğe girer"
+  ],
+  "history": "current-text",
+  "label": "oldest version available",
+  "checked_on": "2026-11-15",
+  "word_count": 6833,
+  "text_status": "current-consolidated",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  },
+  "completeness": "html-text-complete"
+}
