@@ -1,0 +1,9 @@
+MADDE 14/A-(Başlığı ile Birlikte Değişik:RG-12/10/2023-32337)(2)
+(1) Kurumun MCKS’sinde kayıtlı iken son sinyal almasından itibaren kesintisiz bir yıl süreyle veya 1/1/2024 tarihinden önce kesintisiz yedi yıl süreyle elektronik haberleşme şebekelerinden hizmet almadığı gerekçesiyle IMEI numarası siyah listeye alınan cihazın son kullanıcısının Kurum kayıtlarıyla uyuşmaması ve cihazın ithalatçısının/imalatçısının tasfiye halinde veya terkin edilmiş olması durumunda cihazın kullanıcısı, aşağıda belirtilen bilgi ve belgelerle cihazın tekrar kayıtlı hale getirilmesi amacıyla Kuruma başvurabilir:
+a) İthalatçı/imalatçının tasfiye halinde veya terkin edilmiş olduğuna dair bilgi veya belge.
+b) Tekrar kayıtlı hale getirilmesi talep edilen IMEI numaraları.
+c) Talebe ilişkin tesis edilecek işlemler hakkında doğabilecek hukuki, cezai, idari ve mali sorumluluğun kabul, beyan ve taahhüt edildiğine ilişkin taahhütname.
+ç) Başvuru sahibinin şirket olması halinde sicil tasdiknamesi veya şirketi temsile yetkili olduğunu gösterir belgeler.
+d) Kurum tarafından istenebilecek diğer bilgi ve belgeler.
+(2) 5/4/1983 tarihli ve 2813 sayılı Bilgi Teknolojileri ve İletişim Kurumunun Kuruluşuna İlişkin Kanunun mülga geçici 6 ncı maddesi kapsamında kayıt altına alınması nedeniyle MCKS nezdinde ithalatçısı/imalatçısı bulunmayan; ancak Kurumun MCKS’sinde kayıtlı iken son sinyal almasından itibaren kesintisiz bir yıl süreyle veya 1/1/2024 tarihinden önce kesintisiz yedi yıl süreyle elektronik haberleşme şebekelerinden hizmet almadığı gerekçesiyle IMEI numarası siyah listeye alınan cihaz kullanıcısı birinci fıkranın (a) bendi dışında sayılan bilgi ve belgelerle Kuruma başvurabilir.
+(3) Başvurunun Kurum tarafından yapılan kontrollerden geçmesi halinde ilgili IMEI numarası tekrar kayıtlı hale getirilerek eşleştirilmiş beyaz listeye/beyaz listeye alınır.
