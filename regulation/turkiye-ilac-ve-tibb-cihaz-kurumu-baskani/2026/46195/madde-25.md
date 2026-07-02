@@ -1,0 +1,3 @@
+Ruhsatın geçerlilik süresi
+MADDE 25- (1) Kurum, ürünlerin monografları ile ilgili değişiklik yapabilir. Üretici tarafından bu hususların yerine getirilmesi ruhsat sahibinin sorumluluğundadır. Bu sorumluluk yerine getirildiği sürece ruhsat geçerliliğini korur.
+(2) Kurumca terkibi ve kullanım amacı kabul edilen ruhsatlı ürünler için bilimsel literatür doğrultusunda ürünün etkililiği, kalitesi ve güvenliliği etkileyen bir güncel gelişme olması durumunda bu bilimsel gelişme gerekliliğinin yerine getirilmesi ruhsat sahibinin sorumluluğundadır. Bu sorumluluk yerine getirildiği sürece ruhsat geçerliliğini korur.

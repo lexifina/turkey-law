@@ -1,0 +1,3 @@
+Semboller ve diğer bilgiler
+MADDE 14- (1) Dış ambalaja ilgili bitkinin veya drogun resmi konulabilir. Ambalajlar, 12 nci ve 13 üncü maddelerin birinci fıkralarında belirtilen bilgileri açıklayan semboller ve resimli diyagramlar ile kullanıcılar için yararlı olan bilgileri içerebilir.
+(2) Birinci fıkrada belirtilen semboller, resimli diyagramlar ve bilgilere dair ayrıntılı hususlar, ilgili kılavuzda düzenlenir.

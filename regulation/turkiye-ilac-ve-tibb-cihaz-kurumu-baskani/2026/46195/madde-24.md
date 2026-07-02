@@ -1,0 +1,4 @@
+Ruhsat sonrası varyasyonlar
+MADDE 24- (1) 30 uncu madde istisna olmak üzere, aromaterapötik ürün ruhsatı verildikten sonra bu ürüne ilişkin tüm değişiklikler için ilgili kılavuza göre ruhsat sahibi tarafından Kuruma başvuru yapılır.
+(2) Kurum, başvuru olması halinde fiyat tarifesinde yer alan bir ücrete tabi olmak kaydı ile aromaterapötik ürün ruhsatı verildikten sonra başvuru sahibine bilimsel tavsiye verebilir.
+(3) Birinci fıkraya göre yapılan varyasyon başvurusu için Kurum tarafından talep edilen bilgi ve belgelerin veya sunulacağı tarih bilgisi ile birlikte bu bilgi ve belgelerin sunulamadığına ilişkin gerekli açıklamaların en geç otuz gün içinde Kuruma sunulmaması durumunda, varyasyon başvurusu geçerliliğini yitirir. Varyasyonun uygulanamamasının ilgili aromaterapötik ürün için kalite, etkililik ve güvenlilik sorunları oluşturduğu durumlarda 26 ncı madde doğrultusunda işlem başlatılır.
