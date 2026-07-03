@@ -1,0 +1,3 @@
+Mevcut satış merkezlerinin durumu
+GEÇİCİ MADDE 1 – (1) Bu Yönetmeliğin yayımı tarihinden önce açılmış mevcut satış merkezleri, bu Yönetmeliğin yayımlandığı tarihten itibaren on sekiz ay içerisinde 14 üncü maddenin ikinci fıkrası hariç diğer hükümlerine göre yetki belgesi almak kaydıyla faaliyetlerine devam ederler. Belirtilen süre içerisinde yetki belgesi almayan işyerlerinin faaliyetlerine bu süre sonunda müdürlükçe son verilir.
+(2) (Ek:RG-26/5/2023-32202) Kurumun kayıt ve bilgi yönetim sisteminde satış merkezi yetki belgesi olmaksızın kayıtlı olan imalatçı veya ithalatçılar için 33 üncü maddenin ikinci fıkrası kapsamında yetki belgesine sahip olma zorunluluğu, bu hükmün yürürlüğe girdiği tarihten itibaren bir yıl içinde yerine getirilir.

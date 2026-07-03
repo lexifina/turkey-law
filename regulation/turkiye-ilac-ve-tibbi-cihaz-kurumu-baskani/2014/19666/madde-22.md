@@ -1,0 +1,2 @@
+Teşvik
+MADDE 22 – (1) Yapılan tanıtımlarda, cihazın reçete edilmesi, kullanılması, alınması veya önerilmesi için para veya hediye vererek, herhangi bir maddî kazanç sağlayarak veya bir fayda veya ödül sözü vererek sağlık meslek mensupları ya da sağlık kurum ve kuruluşlarının bünyesinde tıbbi cihaz alanında çalışan teknik elemanlar teşvik edilemez, sağlık meslek mensupları veya sağlık kurum ve kuruluşlarının bünyesinde tıbbi cihaz alanında çalışan teknik elemanlar tarafından teşvik talep ve kabul edilemez.

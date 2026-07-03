@@ -1,0 +1,9 @@
+Satış merkezlerinin nakli ve devri
+MADDE 32 – (1) Satış merkezlerinin aynı il içerisinde başka bir adrese nakli hâlinde, işletici veya sorumlu müdür tarafından, nakil edilecek adres için ilgili merciden alınacak, iş yeri açma ve çalıştırma ruhsatı ve nakil talep dilekçesi ile müdürlüğe başvurulur. Başvuruyu müteakip 6 ncı ve 7 nci maddelere uygun olarak gerekli işlemler yürütülür.
+(2) Satış merkezinin devri hâlinde, devir sözleşmesinin bir örneği ve yetki belgesi için başvuruda belirtilen belgeler ile devralan satış merkezi tarafından müdürlüğe başvurulur. Başvuruyu müteakip 6 ncı ve 7 nci maddelere uygun olarak gerekli işlemler yürütülür.
+(3) (Değişik:RG-2/9/2020-31232) Bildirimsiz devir ve nakil işlemi yaptığı tespit edilen satış merkezlerinin ilgili adrese yönelik düzenlenmiş yetki belgesi iptal edilir. Yetki belgesi bu şekilde iptal edilen gerçek ve tüzel kişiler, bu Yönetmelik hükümlerini karşılamak kaydıyla tıbbi cihaz satış merkezi yetki belgesi için yeniden müracaatta bulunabilir.
+(4) Satış merkezinin devredilmesi hâlinde devralanlar, devredenin sorumluluklarını da almış sayılır. Satış merkezinin faaliyetinin durdurulması hâlinde de devralan, faaliyet durdurma süresinin tamamlanmasını beklemek zorundadır.
+(5) Satış merkezinin işleteni tarafından kapatılmak istenmesi durumunda;
+a) En az bir ay önceden yazılı olarak satış merkezini kapatma isteği müdürlüğe bildirilir.
+b) Müdürlüğe kapatma başvurusundan itibaren en az on beş iş günü faaliyete devam edilir ve bu süre boyunca kapanma süreci hakkında satış merkezinin girişinde ve muhtelif yerlerinde bilgilendirme ilanı asılır.
+c) Satış merkezinin işleteni, fiili kapanma tarihinden itibaren üç iş günü içerisinde yetki belgesini ve bu Yönetmelik kapsamında düzenlenen çalışma belgeleri ve kimlik kartlarını müdürlüğe teslim eder.

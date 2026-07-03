@@ -1,0 +1,13 @@
+Satış ve tanıtım elemanı
+MADDE 11 – (1) Satış merkezlerinde en az bir tane olmak üzere faaliyetlerin gerektirdiği kadar satış ve tanıtım elemanı bulundurulur. Müdürlük tarafından çalışma belgesi ile kimlik kartı düzenlenmiş satış ve tanıtım elemanları Kurumun elektronik sistemine kaydedilir.
+(2) Satış ve tanıtım elemanının en az ön lisans seviyesinde meslekî eğitim ve öğretim veren yüksekokullardan mezun veya bu konuda yurt dışındaki bir eğitim ve öğretim kurumundan mezun olup diplomalarının denkliği yetkili mercilerce kabul edilmiş olması gerekir.
+(3) Satış ve tanıtım elemanlarının bu Yönetmelik kapsamındaki faaliyetlerinden satış ve tanıtım elemanı ile sorumlu müdür birlikte sorumludur.
+(4) Satış ve tanıtım elemanları;
+a) Sağlık hizmet sunucularına sadece bağlı oldukları satış merkezine ait cihazların satış ve tanıtımını yapabilirler.
+b) Satış ve tanıtımı yapılan cihazla ilgili tanıtım malzemelerini, sağlık meslek mensupları, sağlık kurum ve kuruluşlarının bünyesinde tıbbi cihaz alanında çalışan teknik elemanlar ve satış merkezi çalışanları dışındaki kişilere veremezler.
+c) Satış ve tanıtım esnasında cihaz ile ilgili kendilerine rapor edilen olumsuz olayları derhal sorumlu müdüre iletir.
+(5) Satış ve tanıtım elemanlarının çalışma saatleri içinde sağlık kurum ve kuruluşlarında satış ve tanıtım yapabilmeleri aşağıdaki kurallara tâbidir:
+a) Satış ve tanıtım elemanları, ziyaretin başında hangi satış merkezini temsil ettiklerini açıklar ve satış ve tanıtım elemanı kimlik kartlarını gösterir.
+b) Sağlık hizmet sunucuları tarafından gerekli görülmesi hâlinde; ilgili idarî amir, çalışma düzenlerini gözeterek satış ve tanıtım elemanları ile ilgili çalışma saati düzenleyebilir.
+c) Acil servislerde ve hasta kabul saatleri sırasında polikliniklerde cihaz tanıtımı yapılamaz.
+(6) (Değişik:RG-2/9/2020-31232) Satış merkezinde satış ve tanıtım elemanı olarak bir kişi görev yapmaktayken bu satış ve tanıtım elemanının görevine son verilmesi, istifası, satış ve tanıtım elemanı olarak görev yapmayı haiz şartları herhangi bir şekilde kaybetmesi durumunda, böyle bir durumunun ortaya çıkmasından itibaren on iş günü, kişinin vefatı halinde ise yirmi iş günü içerisinde satış merkezinin müdürlüğe bildirimde bulunması gerekir. Söz konusu durumun tespitinden itibaren en geç altmış iş günü içerisinde de yeni bir satış ve tanıtım elemanının görevlendirilmesi zorunludur. Bu süre içerisinde satış merkezinin yeni bir satış tanıtım elemanı görevlendirmemesi halinde, yeni bir satış tanıtım elemanı görevlendirilinceye kadar söz konusu merkezin tıbbi cihaz satış faaliyeti geçici olarak durdurulur.
