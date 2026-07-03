@@ -1,0 +1,12 @@
+Kullanılacak milliyet ve tescil işaretleri
+MADDE 6 – (Değişik:RG-15/9/2023-32310)
+(1) Ek-1'de yer alan tabloda açıklanan hava araçlarına, Tescil Milliyeti ile başlayan ve kısa çizgi (-) işaretinden sonra herhangi üç karakter ile devam eden tescil işareti verilir.
+(2) Kullanılacak tescil işareti için Genel Müdürlükten tescil işareti rezervi onayı alınır. Tescil işareti rezervleri bir yıl süre ile muhafaza edilir.
+(3) İnsansız hava araçlarının tescil işaretlerinde harf ile birlikte rakam kombinasyonu kullanılır.
+(4) Uluslararası Telekomünikasyon Birliğince tescil ülkesine tahsis edilmiş telsiz çağrı işaretlerinde yer alan Türkiye'nin milliyet işareti TC'dir.
+(5) Türk sivil hava araçları için tescil işareti; Ç, Ğ, İ, Ö, Ş, Ü harfleri dışında kalan Türk alfabesindeki harf, rakam veya bunların kombinasyonlarından oluşur. Tescil işareti olarak milliyet işaretinden sonra Ek-1'de yer alan hava aracı sınıflarına göre, çok hafif hava araçları için U, balon için B, helikopter için H, zirai amaçlı hava araçları için Z ve planörler için P harfi ile başlayan üçlü karakter kombinasyonları kullanılır. Belirtilen hava araçları için tahsis edilen bu harflerin dışında kalan diğer harfler genel hava aracı sınıfları için kullanılır. İstisnai durumlar Genel Müdürlükçe değerlendirilir.
+(6) Azami kalkış ağırlığı 500 gram ve üzeri olan insansız hava araçları, insansız hava aracı satan şirketlerin sorumlu işleticileri ve sorumlu yöneticileri tarafından Genel Müdürlük İHA Kayıt Sistemine usulüne uygun şekilde kaydedilir. Söz konusu sistemde, bu maddenin birinci fıkrasına istisna teşkil etmek üzere İHA'lar için tescil/kayıt işareti (I) harfi ile başlayıp sıralı rakam ile devam eder. Tip sertifikasına sahip İHA'lar için genel hava aracı sınıfları usulü uygulanır.
+(7) Maksimum kalkış ağırlığı 750 kg ve altında olup üretici firma tarafından "Çok Hafif Hava Aracı" olarak tanımlanmamış hava araçlarına, isteğe bağlı olarak "U" harfi ile başlayan tescil işareti verilir.
+(8) Tescil işaretinde, Uluslararası Sinyal Kodları Bölüm II'de kullanılan beş harfli kombinasyonlarla; PAN, TTT ve SOS gibi acil durum sinyalleri ile karıştırılacak kombinasyonlar kullanılmaz.
+(9) Sicilden terkin edilen balonlara ait tescil işaretleri iki yıl, diğer hava araçlarına ait tescil işaretleri beş yıl süre ile tekrar kullandırılmaz. Bu hüküm, kamu kurum ve kuruluşları hakkında uygulanmaz.
+(10) Sicile kayıtlı hava araçlarının tescil işareti değişikliği, bu madde hükümleri gerekliliklerinin karşılanması ve makul gerekçeler olması koşuluyla Genel Müdürlükçe değerlendirilir.

@@ -1,0 +1,27 @@
+Tanımlar ve kısaltmalar
+MADDE 4 – (Değişik:RG-15/9/2023-32310)
+(1) Bu Yönetmelikte geçen;
+a) Balon: Havadan hafif motorsuz hava aracını,
+b) Çok hafif hava aracı-Döner kanat (Gyroplane): Havanın büyük ölçüde dikey eksenler üzerinde serbestçe dönen bir veya daha fazla rotor üzerindeki reaksiyonlarıyla uçuş sırasında desteklenen havadan ağır hava aracını,
+c) Çok hafif hava aracı-Esnek kanat (Microlight): Motor teçhizatına sahip, hareketli ağırlık merkezi ile iki eksende kumanda edilebilen azami kalkış ağırlığı 500 kg ve altında olan esnek kanatlı havadan ağır hava aracını,
+ç) Çok hafif hava aracı-Sabit kanat (Ultralight): Motor teçhizatına sahip, azami kalkış ağırlığı 750 kg ve altında olan sabit kanatlı havadan ağır hava aracını,
+d) Deneysel hava aracı: Bir tip sertifikasına sahip olmayan veya kalıcı ya da bir modifikasyona istinaden geçici olarak mevcut tip sertifikasına uyumunu kaybetmiş veya yalnızca araştırma ve geliştirme faaliyetleri için tasarlanıp üretilmiş ve emniyetli operasyon yapabilmek için gerekli özellik ve niteliklere sahip olduğu gösterilebilen hava aracını,
+e) Döner kanatlı hava aracı-Rotorkraft: Kaldırma kuvvetini havanın bir veya daha fazla rotordaki tepkisinden alan havadan ağır hava aracını,
+f) Genel Müdürlük: Sivil Havacılık Genel Müdürlüğünü,
+g) Hafif hava aracı 1: Motor teçhizatına sahip, azami kalkış ağırlığı 1200 kg ve altında olan çok hafif hava aracı kapsamına girmeyen havadan ağır hava araçlarını,
+ğ) Hafif hava aracı 2: Motor teçhizatına sahip, azami kalkış ağırlığı 1200 kg üzerinde ve 2000 kg ve altında olan havadan ağır hava araçlarını,
+h) Hava aracı: Havalanabilen ve havada seyredebilme kabiliyetine sahip her türlü hava aracını,
+ı) Hava gemisi: Havadan hafif motorlu hava aracını,
+i) Havadan ağır hava aracı: Uçuş sırasındaki kaldırma kuvvetini başlıca aerodinamik güçlerden alan herhangi bir hava aracını,
+j) Havadan hafif hava aracı: Uçuş sırasındaki tutunma gücünü, başlıca havada süzülebilme kabiliyetinden alan herhangi bir hava aracını,
+k) Helikopter: Kaldırma kuvvetini büyük ölçüde havanın yatay eksen etrafında dönen bir veya daha fazla motorlu rotorla tepkisinden alan havadan ağır hava aracını,
+l) ICAO: Uluslararası Sivil Havacılık Teşkilatını,
+m) İnsansız hava aracı: Uzak bir pilot istasyonundan yönetilen insansız hava aracını,
+n) Kimlik plakası: Hava aracının asgari olarak uyruğu ile birlikte tescil işaretinin yazılı olduğu yanmaz materyalden oluşan plakayı,
+o) Ornitopter: Kaldırma kuvvetini büyük ölçüde havanın kanat çırpma hareketi yapan kanatlarla tepkisinden alan havadan ağır hava aracını,
+ö) Planör: Kaldırma kuvvetini büyük ölçüde verilen uçuş şartlarında sabit kalan yüzeylerdeki aerodinamik tepkilerden alan havadan ağır motorsuz hava aracını,
+p) Tescil ülkesi: Hava aracının siciline kayıt edildiği ülkeyi,
+r) Türk sivil hava aracı: Devlet hava araçları tanımı dışında kalan ve mülkiyeti Türk Devletine veya kamu tüzel kişilerine veya Türk vatandaşlarına ait araçları,
+s) Uçak: Uçuş sırasındaki kaldırma kuvvetini, büyük ölçüde verilen uçuş durumlarında sabit kalan yüzeylerdeki aerodinamik tepkilerden alan havadan ağır motorlu hava aracını,
+ş) Yanmaz materyal: Isıya dayanıklılığı çelik kadar veya daha iyi olan, her iki durumdaki boyutları özel amaca uygun olan materyali,
+ifade eder.

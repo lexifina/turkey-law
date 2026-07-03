@@ -1,0 +1,3 @@
+Kapsam
+MADDE 2 – (1) (Değişik:RG-15/9/2023-32310) Bu Yönetmelik; Uluslararası Sivil Havacılık Teşkilatı (ICAO) tarafından yayımlanan Uluslararası Sivil Havacılık Konvansiyonunun Hava Aracı Milliyeti ve Tescil İşaretleri isimli 7 numaralı Ek (Ek-7)'i gereklilikleri esas alınarak, 500 gram altında azami kalkış ağırlığı olan insansız hava araçları ve meteorolojik amaçla kullanılan meteoroloji balonları hariç olmak üzere Sivil Havacılık Genel Müdürlüğü tarafından hava aracı siciline kaydedilmiş ve kaydedilecek hava araçlarını kapsar.
+(2) Ülkemizde üretilen hava araçları, ilgili mevzuat hükümleri saklı kalmak kaydıyla, ülkemizde ya da yurt dışında tescil edilene kadar sicile geçici olarak tescil olunabilir.
