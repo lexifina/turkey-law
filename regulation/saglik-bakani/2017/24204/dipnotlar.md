@@ -1,0 +1,3 @@
+[1] 3/7/2026 tarihli ve 33299 sayılı Resmî Gazete’de yayımlanan değişiklikle bu bende (12) numaralı alt bendinden sonra gelmek üzere alt bentler eklenmiş ve diğer alt bent buna göre teselsül ettirilmiştir.
+[2] 3/7/2026 tarihli ve 33299 sayılı Resmî Gazete’de yayımlanan değişiklikle bu bende (12) numaralı alt bendinden sonra gelmek üzere alt bentler eklenmiş ve diğer alt bent buna göre teselsül ettirilmiştir.
+[3] 3/7/2026 tarihli ve 33299 sayılı Resmî Gazete’de yayımlanan değişiklikle bu bende (13) numaralı alt bendinden sonra gelmek üzere alt bentler eklenmiş ve diğer alt bent buna göre teselsül ettirilmiştir.
