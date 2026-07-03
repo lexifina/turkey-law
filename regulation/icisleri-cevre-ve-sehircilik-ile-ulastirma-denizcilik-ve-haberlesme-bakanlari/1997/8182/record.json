@@ -1,0 +1,97 @@
+{
+  "source_id": "7.5.8182",
+  "kind": "regulation",
+  "register_kind": "Kurum ve Kuruluş Yönetmelikleri",
+  "title": "KARAYOLLARI TRAFİK YÖNETMELİĞİ",
+  "number": "8182",
+  "issuer": "İçişleri, Çevre ve Şehircilik ile Ulaştırma, Denizcilik ve Haberleşme Bakanları",
+  "issuer_slug": "icisleri-cevre-ve-sehircilik-ile-ulastirma-denizcilik-ve-haberlesme-bakanlari",
+  "path": "regulation/icisleri-cevre-ve-sehircilik-ile-ulastirma-denizcilik-ve-haberlesme-bakanlari/1997/8182",
+  "source": "https://www.mevzuat.gov.tr/anasayfa/MevzuatFihristDetayIframe?MevzuatTur=7&MevzuatNo=8182&MevzuatTertip=5",
+  "source_sha256": "bdb3f4175d81a047642c1ca8214c66675a281a2ee1cf61e9515cf5183d61610f",
+  "source_bytes": 940405,
+  "published": "1997-07-18",
+  "gazette": "23053 mükerrer",
+  "in_force": "2026-07-03",
+  "in_force_basis": "latest Resmî Gazete date printed in the source amendment notes/table (\"RG-3/7/2026\") for the current consolidated text",
+  "date_evidence": [
+    [
+      "2026-07-03",
+      "RG-3/7/2026",
+      "Resmî Gazete date printed in the source amendment note"
+    ],
+    [
+      "2026-07-03",
+      "3/7/2026",
+      "Resmî Gazete date in the source amendment table"
+    ],
+    [
+      "2025-11-04",
+      "RG-4/11/2025",
+      "Resmî Gazete date printed in the source amendment note"
+    ],
+    [
+      "2025-11-04",
+      "4/11/2025",
+      "Resmî Gazete date in the source amendment table"
+    ],
+    [
+      "2025-08-19",
+      "RG-19/8/2025",
+      "Resmî Gazete date printed in the source amendment note"
+    ],
+    [
+      "2025-08-19",
+      "19/8/2025",
+      "Resmî Gazete date in the source amendment table"
+    ],
+    [
+      "2025-02-27",
+      "27/2/2025",
+      "Resmî Gazete date in the source amendment table"
+    ],
+    [
+      "2024-11-29",
+      "RG-29/11/2024",
+      "Resmî Gazete date printed in the source amendment note"
+    ],
+    [
+      "2024-11-29",
+      "29/11/2024",
+      "Resmî Gazete date in the source amendment table"
+    ],
+    [
+      "2024-02-10",
+      "RG-10/2/2024",
+      "Resmî Gazete date printed in the source amendment note"
+    ],
+    [
+      "2024-02-10",
+      "10/2/2024",
+      "Resmî Gazete date in the source amendment table"
+    ],
+    [
+      "2022-08-16",
+      "RG-16/8/2022",
+      "Resmî Gazete date printed in the source amendment note"
+    ]
+  ],
+  "commencement_clauses": [
+    "Bu Yönetmelik yayımı tarihinde yürürlüğe girer",
+    "Bu Yönetmelik 1/1/2021 tarihinden geçerli olmak üzere yayımı tarihinde yürürlüğe girer"
+  ],
+  "history": "current-text",
+  "label": "oldest version available",
+  "checked_on": "2026-11-15",
+  "word_count": 42859,
+  "text_status": "current-consolidated",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  },
+  "source_links": [
+    "7.5.8182-EKLER.doc"
+  ],
+  "completeness": "html-text-complete; linked annexes not fetched"
+}
