@@ -1,0 +1,8 @@
+Olay ve iz kayıtları
+MADDE 17- (1) SBYS hizmeti sağlayıcısı, herhangi bir bilgi güvenliği ihlal olayı oluştuğunda geriye dönük inceleme yapılmasını sağlamak üzere SBYS’lerde, SBYS verilerinin saklandığı veri tabanı ortamlarında ve SBYS’lerin sözleşme kapsamında sunulan hizmetlere ilişkin sorumluluk alanında bulunan yazılım ve donanım bileşenlerinde üretilen olay ve iz kayıtlarını saklamak üzere gerekli tedbirleri alır. SBYS hizmeti alıcısı, SAMİLOG kayıtlarını en az beş yıl, diğer kayıtları ise en az iki yıl süre ile kendi sunucularında saklar. AHBS’lerin SAMİLOG kayıtları ise AHBS üzerinden değiştirilemez şekilde veri tabanında saklanır.
+(2) Olay ve iz kayıtları asgari olarak aşağıdaki hususları içerir:
+a) SAMİLOG gereği oluşturulan kayıtları.
+b) Veri tabanı seviyesindeki kullanıcılar tarafından yapılan veri ekleme, veri silme, veri güncelleme ve veri tabanı nesneleri üzerinde yapılan tüm değişiklikleri.
+(3) SBYS hizmeti alıcısı tarafından sistemde kullanılan yazılım ve donanımların imkân ve kabiliyetleri doğrultusunda daha kapsamlı olay ve iz kaydı tutulmasının talep edilmesi halinde, bu maksatla ihtiyaç duyulan kaynaklar SBYS hizmeti alıcısı tarafından sağlanır.
+(4) Olay ve iz kaydı üreten tüm sistemler, sistem genelinde tutarlı bir zaman bilgisi oluşturulması maksadıyla SBYS hizmeti alıcısı tarafından sağlanacak bir zaman sunucusu aracılığı ile senkronize edilir.
+(5) Olay ve iz kayıtları; yetkisiz erişim, silinme ve değiştirmeye karşı korunur. Üretilen olay ve iz kayıtları, Türkiye’de yerleşik nitelikli elektronik sertifika hizmet sağlayıcıları tarafından veya Genel Müdürlük tarafından sunulan nitelikli zaman damgası ile imzalanmak suretiyle saklanır.

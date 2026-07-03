@@ -1,0 +1,8 @@
+Sistemden silinme
+MADDE 8- (1) Pasif listeye alınmasını takip eden üç ay içinde aktif listeye geçemeyen SBYS hizmeti sağlayıcısı ile son bir yıl içerisinde üç defa pasif listeye alınan SBYS hizmeti sağlayıcısı KTS’den silinir.
+(2) Gerçeğe aykırı bilgi ve belge sunan, veri gönderimlerine veya standartlara uyum konusunda yanıltıcı işlem yapan ya da yazılım erişim kodunu üçüncü kişilerle haksız fayda sağlamak amacıyla paylaştığı tespit edilen SBYS hizmeti sağlayıcısı, herhangi bir uyarıya gerek kalmaksızın KTS’den silinir (Mülga ibare:RG-3/7/2026-33299) .
+(3) 16 ncı ve 17 nci maddelerde yer alan hükümlere aykırılığın tespiti hâlinde ilgili SBYS hizmeti sağlayıcısı KTS’den silinir.
+(4) KTS’den silinme tarihinden itibaren SBYS hizmeti sağlayıcısının yazılım erişim kodu en geç üç ay içerisinde kullanıma kapatılır. İlgili sağlık tesisinin resmî olarak talebi halinde yeni SBYS hizmeti alım süreci de göz önünde bulundurularak bu süre altı aya kadar Bakanlıkça uzatılabilir. Ancak SBYS hizmet sağlayıcısı KTS’de aktif listeye geçinceye kadar yeni bir sağlık hizmeti sunucusunda hizmet veremez.
+(5) KTS’den silinen SBYS hizmeti sağlayıcısının KTS’ye yeniden kaydına ilişkin işlemler, 6 ncı maddede öngörülen hükümlere uygun olarak yürütülür.
+(6) SBYS hizmeti sağlayıcısının KTS’de pasif listeye alınması veya KTS’den silinmesi hâlinde faaliyet göstermekte olduğu sağlık hizmeti sunucularının bağlı bulunduğu il sağlık müdürlüklerine Genel Müdürlük tarafından bildirim yapılır.
+(7) (Ek:RG-3/7/2026-33299) KTS’den kaydı silinen SBYS hizmet sağlayıcısının yeniden kayıt başvurusu, kayıt silme tarihinden itibaren bir yıl süreyle işleme alınmaz.

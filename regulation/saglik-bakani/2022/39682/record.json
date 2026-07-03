@@ -1,0 +1,40 @@
+{
+  "source_id": "7.5.39682",
+  "kind": "regulation",
+  "register_kind": "Kurum ve Kuruluş Yönetmelikleri",
+  "title": "SAĞLIK BİLGİ YÖNETİM SİSTEMLERİ HAKKINDA YÖNETMELİK",
+  "number": "39682",
+  "issuer": "Sağlık Bakanı",
+  "issuer_slug": "saglik-bakani",
+  "path": "regulation/saglik-bakani/2022/39682",
+  "source": "https://www.mevzuat.gov.tr/anasayfa/MevzuatFihristDetayIframe?MevzuatTur=7&MevzuatNo=39682&MevzuatTertip=5",
+  "source_sha256": "458188cb73674d796f7043822a7fcaeddadb537875a2411832e9f92a96954296",
+  "source_bytes": 92492,
+  "published": "2022-08-25",
+  "gazette": "31934",
+  "in_force": "2026-07-03",
+  "in_force_basis": "latest Resmî Gazete date printed in the source amendment notes/table (\"RG-3/7/2026\") for the current consolidated text",
+  "date_evidence": [
+    [
+      "2026-07-03",
+      "RG-3/7/2026",
+      "Resmî Gazete date printed in the source amendment note"
+    ],
+    [
+      "2026-07-03",
+      "3/7/2026",
+      "Resmî Gazete date in the source amendment table"
+    ]
+  ],
+  "history": "current-text",
+  "label": "oldest version available",
+  "checked_on": "2026-11-15",
+  "word_count": 4616,
+  "text_status": "current-consolidated",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  },
+  "completeness": "html-text-complete"
+}

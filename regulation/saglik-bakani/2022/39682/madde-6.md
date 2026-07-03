@@ -1,0 +1,8 @@
+Sisteme kayıt ve aktif liste
+MADDE 6- (1) SBYS hizmeti sağlayıcılarının kayıt süreçleri, Genel Müdürlük tarafından geliştirilen Kayıt Tescil Sistemi üzerinden yürütülür. KTS’ye kayıt için gerekli olan belgeler Genel Müdürlüğün internet sitesinde yayımlanır.
+(2) KTS’ye kayıt için gerekli olan belgeler Genel Müdürlüğe resmî yazı ile iletilir, kayıtlı elektronik posta (KEP) ile Bakanlığa gönderilir ya da e-Devlet üzerinden KTS’ye yüklenir.
+(3) (Mülga:RG-3/7/2026-33299)
+(4) Belgelerini eksiksiz teslim eden SBYS hizmeti sağlayıcılarının SBYS’leri, Genel Müdürlük veya yetkilendirdiği bir kuruluş tarafından denetlenir ve denetimden başarıyla geçenler KTS’ye kaydedilir. SBYS hizmeti sağlayıcılarına, gizlilik sözleşmesi imzalandıktan sonra gerçek ortamda veri gönderebilmeleri için yazılım erişim kodu teslim edilir. Yazılım erişim kodunun muhafazasından SBYS yetkilisi sorumludur.
+(5) KTS’ye kayıtlı SBYS hizmeti sağlayıcıları; SBYS’lerini, sürümlerini ve mimarilerini KTS portali üzerinden günceller. Kaydedilen bilgi ve belgelerde herhangi bir değişiklik olması halinde bu değişiklikler en geç on iş günü içerisinde KTS’ye işlenir.
+(6) Kayıt ve denetim süreçleri başarı ile tamamlanan SBYS hizmeti sağlayıcıları aktif listeye alınarak Genel Müdürlüğün internet sitesinde ilan edilir.
+(7) Genel Müdürlük, oluşan ihtiyaçlar doğrultusunda yeni SBYS türlerinin de KTS’ye tescil edilmesine karar verebilir. Yeni SBYS türünün KTS’ye tescil edilmesini müteakip ilgili SBYS hizmeti sağlayıcılarının KTS’ye kayıt olmaları ve (Değişik ibare:RG-3/7/2026-33299) birinci fıkrada istenilen belgeleri ibraz etmeleri için (Değişik ibare:RG-3/7/2026-33299) gereken süre Genel Müdürlük tarafından ilan edilir.

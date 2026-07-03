@@ -1,0 +1,10 @@
+Veri Yedekleme ve Arşivleme
+Standartlar ve entegrasyon
+MADDE 12- (1) Genel Müdürlük tarafından kullanımına karar verilen bilişim standartları ve veri gönderiminde dikkat edilecek hususlar Genel Müdürlüğün internet sitesinde yayımlanır ve gerektiğinde güncellenir.
+(2) SBYS’ler, sağlık hizmeti sunucularının entegrasyona uygun cihazlarına, sistemlerine ve Bakanlıkça geliştirilen diğer sistemlere uyum sağlar.
+(3) İdare, SBYS hizmeti alımı dokümanlarında veya sözleşmelerinde entegre edilecek sistem ve cihazların listesini tanımlar. Hizmet alımına ilişkin dokümanlarda veya sözleşmelerde önceden tanımlanmayan sistem ve cihazlar hariç olmak üzere Bakanlıkça geliştirilen sistemlere entegrasyon için İdareden bedel talep edilemez. Kamu özel iş birliği modeli ile işletilen hastanelerde faaliyet gösteren SBYS hizmeti sağlayıcıları, sözleşmede aksi belirtilmedikçe İdareden sistem ve cihaz entegrasyonları için ücret talep edemez.
+(4) Entegrasyon yapılacak sistemler ile cihazlara ait puantaj tablosu Genel Müdürlüğün internet sitesinde yayımlanır ve her altı ayda bir güncellenir. Sistem ve cihaz entegrasyon ücreti, puantaj tablosunda belirtilen puan ile katsayının çarpımı sonucunda bulunan tutarı geçemez.
+(5) Cihaz entegrasyon katsayısı Genel Müdürlükçe belirlenir ve Genel Müdürlüğün internet sitesinde yayımlanır.
+(6) Entegrasyonlar sağlık hizmeti sunumunu aksatmayacak şekilde yapılır. Sağlık hizmeti sunumunu aksatacak olmasına rağmen yapılması zorunluluk arz eden değişiklik ve entegrasyon işleri ise SBYS hizmeti alıcısının bilgisi ve yönetiminde gerçekleştirilir.
+(7) SBYS hizmeti sağlayıcılarının sağlık hizmeti sunucularına ait cihazlara ve Bakanlığın veri merkezlerine erişiminin ne şekilde olacağına dair kurallar Genel Müdürlük tarafından belirlenir.
+(8) Entegre edilecek cihaz veya sistemlere ait entegrasyon dokümanları İdare tarafından SBYS hizmeti sağlayıcısına teslim edilir. Entegrasyon dokümanları teslim edilmeyen ve entegrasyon kabiliyeti bulunmayan cihaz veya sistemlerin entegrasyonu SBYS hizmeti sağlayıcısından talep edilmez.
