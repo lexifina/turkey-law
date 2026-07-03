@@ -1,0 +1,92 @@
+{
+  "source_id": "7.5.8176",
+  "kind": "regulation",
+  "register_kind": "Kurum ve Kuruluş Yönetmelikleri",
+  "title": "KAMU GÖREVLİLERİ SENDİKALARI VE TOPLU SÖZLEŞME KANUNU KAPSAMINA GİREN KURUM VE KURULUŞLARIN GİRDİKLERİ HİZMET KOLLARININ BELİRLENMESİNE İLİŞKİN YÖNETMELİK",
+  "number": "8176",
+  "issuer_slug": "kurum-ve-kurulus",
+  "path": "regulation/kurum-ve-kurulus/2001/8176",
+  "source": "https://www.mevzuat.gov.tr/anasayfa/MevzuatFihristDetayIframe?MevzuatTur=7&MevzuatNo=8176&MevzuatTertip=5",
+  "source_sha256": "179164a47e753fe777ad870bd5c0144144cd62c41706918852b56cc1d1ba5075",
+  "source_bytes": 184599,
+  "published": "2001-09-07",
+  "gazette": "24516",
+  "in_force": "2026-07-03",
+  "in_force_basis": "latest Resmî Gazete date printed in the source amendment notes/table (\"RG-3/7/2026\") for the current consolidated text",
+  "date_evidence": [
+    [
+      "2026-07-03",
+      "RG-3/7/2026",
+      "Resmî Gazete date printed in the source amendment note"
+    ],
+    [
+      "2026-07-03",
+      "3/7/2026",
+      "Resmî Gazete date in the source amendment table"
+    ],
+    [
+      "2022-05-07",
+      "RG-7/5/2022",
+      "Resmî Gazete date printed in the source amendment note"
+    ],
+    [
+      "2022-05-07",
+      "7/5/2022",
+      "Resmî Gazete date in the source amendment table"
+    ],
+    [
+      "2021-06-12",
+      "RG-12/6/2021",
+      "Resmî Gazete date printed in the source amendment note"
+    ],
+    [
+      "2021-06-12",
+      "12/6/2021",
+      "Resmî Gazete date in the source amendment table"
+    ],
+    [
+      "2021-05-12",
+      "RG-12/5/2021",
+      "Resmî Gazete date printed in the source amendment note"
+    ],
+    [
+      "2021-05-12",
+      "12/5/2021",
+      "Resmî Gazete date in the source amendment table"
+    ],
+    [
+      "2020-02-22",
+      "RG-22/2/2020",
+      "Resmî Gazete date printed in the source amendment note"
+    ],
+    [
+      "2020-02-22",
+      "22/2/2020",
+      "Resmî Gazete date in the source amendment table"
+    ],
+    [
+      "2018-05-08",
+      "8/5/2018",
+      "Resmî Gazete date in the source amendment table"
+    ],
+    [
+      "2016-12-23",
+      "23/12/2016",
+      "Resmî Gazete date in the source amendment table"
+    ]
+  ],
+  "commencement_clauses": [
+    "Bu yönetmelik yayımı tarihinde yürürlüğe girer"
+  ],
+  "history": "current-text",
+  "label": "oldest version available",
+  "checked_on": "2026-11-15",
+  "word_count": 1362,
+  "text_status": "current-consolidated",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  },
+  "completeness": "html-text-complete"
+}
