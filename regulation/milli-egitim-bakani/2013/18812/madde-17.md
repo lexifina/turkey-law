@@ -1,0 +1,2 @@
+Zararlı alışkanlıklardan korunma
+MADDE 17- (1) Ortaöğretim kurumlarında güvenli ortamın sağlanmasına yönelik koruyucu ve önleyici tedbirlerin alınması, zararlı alışkanlıkların önlenmesi ve öğrencilerin şiddetten korunması amacıyla rehberlik (Mülga ibare:RG-1/7/2015-29403) hizmetleri kapsamında okul merkezli, temel önleme çalışmaları yürütülür. Bu konuda, okul yönetimi öğretmen, veli, çevre ile işbirliği yaparak gerekli önlemleri alır.

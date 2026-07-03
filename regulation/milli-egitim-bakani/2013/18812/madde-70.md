@@ -1,0 +1,3 @@
+Telafi eğitimi veya tamamlayıcı eğitim sonrası diploma düzenlenmesi
+MADDE 70 – (Başlığı ile birlikte değişik:RG-26/3/2017-30019)
+(1) Mesleki ve teknik ortaöğretim kurumlarında tamamlayıcı eğitimi, telafi eğitimini ve stajını başarıyla tamamlayan ortaöğretim kurumu mezunlarına, ilgili alana dala ait mesleki ve teknik ortaöğretim diploması, ortaöğrenimini tamamlayamayan kalfa ve ustalara ise mesleki eğitimi tamamlama belgesi düzenlenir. İşletmelerde beceri eğitimi gören öğrencilerle kalfa ve ustalar, stajını tamamlamış sayılır. Mesleki eğitimi tamamlama belgesi verilen kalfa ve ustalar, Mesleki Açık Öğretim Lisesi yoluyla ortak dersleri tamamladıkları takdirde, alanlarında diploma almaya hak kazanırlar.

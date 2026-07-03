@@ -1,0 +1,2 @@
+Okul öğrenci ödül ve disiplin kurulunun kurulamaması veya karar verememesi
+MADDE 198- (1) Okul öğrenci ödül ve disiplin kurulunun kurulamadığı veya kurulduğu hâlde herhangi bir nedenle bir disiplin olayına bakmaktan çekinip karar veremediği durumlarda müdür, görevlendireceği (Mülga ibare:RG-22/2/2025-32821) müdür yardımcısı veya bir öğretmen tarafından hazırlanan ilk soruşturma dosyasına, görüşünü de ekleyerek karar verilmek üzere ilçe öğrenci disiplin kuruluna gönderir.

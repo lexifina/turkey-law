@@ -1,0 +1,3 @@
+Kapatılan veya iptal edilen atölye ve/veya laboratuvar şeflikleri
+GEÇİCİ MADDE 10 –(Ek:RG-1/9/2018-30522)
+(1) Bu Yönetmeliğin yürürlüğe girdiği tarih itibarıyla mevcut atölye ve/veya laboratuvar şeflikleri bu Yönetmeliğin 84 üncü maddesinin beşinci fıkrasına göre kurulan komisyonca üç ay içerisinde aynı maddenin altıncı fıkrası kapsamında yeniden değerlendirilerek birleştirilmesine karar verilen şeflikler için mevcut şef görevlendirmesi iptal edilir ve Yönetmelik hükümlerine göre yeniden görevlendirme yapılır. Şeflik görevlendirmesine ihtiyaç olmadığı tespit edilen atölye ve laboratuvar şeflerinin görevlendirmeleri iptal edilir.

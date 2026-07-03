@@ -1,0 +1,2 @@
+Staj yapacak öğrencilerin belirlenmesi
+MADDE 130- (1) Alan zümre öğretmenleri, her yıl mayıs ayının son haftasında toplanır. Öğrencilerin mesleki başarı ve gelişmelerini değerlendirerek Değişik ibare:RG-13/9/2014-29118) stajlarını okulda ve işletmelerde yapacakların listesini ayrı ayrı hazırlayarak müdürün onayına sunar. Onaylanan listeler haziran ayının ilk haftasında öğrencilere duyurulur. Alan/bölüm şefleri, öğrencileri belirlenen kontenjana göre yerleştirir.

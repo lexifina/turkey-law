@@ -1,0 +1,2 @@
+GEÇİCİ MADDE 4 – (Ek:RG-21/6/2014-29037)
+(1) (Değişik:RG-1/7/2015-29403) Anadolu liselerinde, Anadolu imam hatip liselerinde, mesleki ve teknik Anadolu liselerinde, çok programlı Anadolu liseleri ile mesleki ve teknik eğitim merkezlerinde öğrenci sayısının fazla, derslik sayısının yetersiz olduğu durumlarda, öğrenci kontenjanı veya bir şubedeki öğrenci sayısı en fazla 4 yıl için Bakanlıkça artırılabilir. Sınıf tekrarına kalan öğrenciler bu sayıya dâhil edilmez.

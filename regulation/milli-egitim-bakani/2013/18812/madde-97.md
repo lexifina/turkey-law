@@ -1,0 +1,3 @@
+Derslikler ve öğrenme ortamları (Değişik başlık:RG-5/9/2019-30879)
+MADDE 97- (1) Derslikler, derslerin özelliklerine ve içeriğine göre düzenlenebilir. Derslik donatımları; öğrenci sayısı, yaş ve gelişim durumları ile (Değişik ibare:RG-22/2/2025-32821) özel eğitim ihtiyacı olan bireylerin özel durumları dikkate alınarak yapılır. Derslikler hiçbir şekilde yönetim ve hizmet odasına dönüştürülemez.
+(2) (Ek:RG-5/9/2019-30879) Eğitim ve öğretimin daha etkili (Mülga ibare:RG-22/2/2025-32821) olması için; doğal, tarihî ve kültürel mekânlar ile bilim merkezleri, sanat merkezleri ve müzeler gibi okul dışı öğrenme ortamları, öğretim programlarında yer alan kazanımlar doğrultusunda kullanılabilir.

@@ -1,0 +1,3 @@
+Toplantı ve karar alma
+MADDE 191- (1) Okul öğrenci ödül ve disiplin kurulu, üyelerin salt çoğunluğuyla toplanır ve oy çoğunluğuyla karar alır. Okul öğrenci ödül ve disiplin kurulu, kurula iletilen disiplin olaylarını görüşmek ve karara bağlamak zorundadır. Üyeler, çekimser oy kullanamaz, üyelerin dışında toplantıya çağrılanlar da oy kullanamazlar.
+(2) Okul müdürünce kabul edilebilir bir özrü bulunmadıkça, okul öğrenci ödül ve disiplin kurulu üyeleri kurula katılmaktan kaçınamazlar. Disiplin konusu davranıştan şikâyetçi olan veya zarar gören üye kurula katılamaz. Kurula katılmayan üyenin yerine yedek üye toplantıya çağrılır.

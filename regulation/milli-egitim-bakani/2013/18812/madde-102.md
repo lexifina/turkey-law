@@ -1,0 +1,1 @@
+MADDE 102- (1) Okullarda (Değişik ibare:RG-16/9/2017-30182) görsel sanatlar ve müzik odası veya derslikleri oluşturulabilir. Bu oda veya dersliklerde resim ve müzikle ilgili kitap, araç, gereç, doküman ve malzeme bulundurulur.

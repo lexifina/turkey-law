@@ -1,0 +1,2 @@
+İfadelerin alınması ve delillerin toplanması
+MADDE 193- (1) Okul öğrenci ödül ve disiplin kuruluna sevk edilen öğrencilerin ve olayla ilgili tanıkların, önce okul öğrenci ödül ve disiplin kurulu başkanı tarafından yazılı ifadeleri alınır. Olay, sınıfta veya topluluğun bulunduğu yerlerde cereyan etmişse bu topluluğun çoğunluğunun ifadesine başvurulur. Olayla ilgili bilgi ve belgeler toplanıp bir dosya düzenlenerek okul öğrenci ödül ve disiplin kuruluna sunulur.

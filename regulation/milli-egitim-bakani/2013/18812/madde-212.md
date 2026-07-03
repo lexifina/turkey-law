@@ -1,0 +1,5 @@
+İşbirliği ve protokoller
+MADDE 212- (Değişik:RG-22/2/2025-32821)
+(1) Okullarda; öğretim programlarının geliştirilmesi, öğretmenlerin hizmetiçi eğitimleri, eğitim ortamlarının iyileştirilmesi, üretimin artırılması, seminer ve projelerin nitelik yönünden geliştirilmesi ve benzeri çalışmalara katkıda bulunmak amacıyla yükseköğretim kurumları, il müdürlükleri, belediyeler, işletmeler, sivil toplum kuruluşları, spor kulüpleri ile diğer kamu ve özel kurum veya kuruluşlarla işbirliği yapılarak her türlü araç-gereç, öğretim elemanı ve diğer imkânlardan yararlanılması için gerekli tedbirler alınır. Bununla ilgili çalışmalar için ilgili kurum, kuruluş ve diğer paydaşlarla il/ilçe millî eğitim müdürlüğünün bilgisi ve onayı dâhilinde protokol düzenlenebilir.
+(2) Birinci fıkra kapsamında yapılacak iş birliği ve protokoller, il/ilçe millî eğitim müdürü ve okul müdürünün imzası olacak şekilde düzenlenir. İlgili genel müdürlüğe konu ile ilgili bilgi verilir.
+(3) Kültürler arası öğrenci değişim programları kapsamında Bakanlığın ilgili birimleri dışında farklı isimler altında iş birliği protokolü düzenlenemez.

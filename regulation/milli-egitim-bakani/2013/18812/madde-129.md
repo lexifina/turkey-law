@@ -1,0 +1,3 @@
+Staj (Mülga ibare:RG-13/9/2014-29118)(1) (…) kontenjanlarının belirlenmesi
+MADDE 129-(1)(Değişik:RG-13/9/2014-29118) Okul müdürlüğünce alınan kararlar doğrultusunda nisan ayının son haftasında işletmeyle yazışma yapılarak hangi işletmede, hangi alanlarda/dallarda, kaç dönemde, ne kadar öğrencinin staj yapabileceği belirlenir. Mayıs ayının ikinci haftasında ilgili alan/bölüm şeflerine kontenjan listeleri bildirilir. Sağlık alanı öğrencilerinin stajlarının hangi sağlık işletmelerinde yaptırılacağı sağlık işletmelerini belirleme komisyonu tarafından belirlenir.
+(2) Okul dışında staj yapacak öğrencilerin sayısı, belirlenen kontenjanların dışında başvuru olması ve alan/bölüm şefinin uygun görmesi durumunda artırılabilir.

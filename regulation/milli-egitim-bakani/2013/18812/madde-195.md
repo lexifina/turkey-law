@@ -1,0 +1,2 @@
+İfade ve savunma vermek istemeyenler
+MADDE 195- (1) İfade vermeyen, savunmada bulunmayan veya çağrıldığı hâlde gelmeyen öğrencilerin durumu bir tutanakla tespit edilir. Bunlardan okul öğrenci ödül ve disiplin kuruluna sevk edilenler hakkında bu Yönetmeliğin 194 üncü maddesinin üçüncü fıkrası uygulanır. Tanık olduğu tespit edilip çağırıldığı hâlde özürsüz olarak gelmeyenler hakkında da ayrıca disiplin soruşturması yapılır.

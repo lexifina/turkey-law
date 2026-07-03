@@ -1,0 +1,10 @@
+Değişim programları ve bu kapsamdaki öğrencilerin kayıt ve nakilleri
+MADDE 28- (Başlığı ile Birlikte Değişik:RG-22/2/2025-32821)
+(1) Kültürlerarası öğrenci değişim programlarına ilişkin esaslar şunlardır:
+a) Türkiye’den yurt dışına gidecek öğrenciler, ortaöğretim süresi boyunca, bir eğitim ve öğretim yılını geçmemek şartıyla eğitim, konaklama, ulaşım ve benzeri tüm sorumlulukları velisine ait olmak üzere eğitim amaçlı olarak yurt dışına çıkabilirler.
+b) Öğrencilerin, taleplerini kayıtlı bulunduğu okula gerekçeleri ve belgeleriyle birlikte yurt dışına çıkış tarihinden en az bir ay önce bildirmesi gerekir.
+c) Öğrencinin bilgileri, yurt dışına çıkış tarihten itibaren beş iş günü içinde okul müdürlüğünce e-okulda ilgili bölüme işlenir.
+ç) Öğrencilerin yurt dışına gidiş ve dönüş durumlarına yönelik okul/ilçe/il millî eğitim müdürlüğünce izleme ve değerlendirme işlemleri yapılır.
+(2) Kültürler arası öğrenci değişim programları kapsamında yurt dışında öğrenim görmek için okuldan ayrılan öğrencilerin kayıtları okullarında saklı tutulur ve bunların durumları boş kontenjan olarak değerlendirilmez, yerlerine naklen öğrenci alınmaz. Bu öğrenciler yurda döndüklerinde yurt dışına çıktıklarında bulundukları sınıf seviyesinin bir üst sınıfına devam ederler. Bu kapsamda yurt dışında alınan öğrenim belgeleri, 9/7/2024 tarihli ve 32597 sayılı Resmî Gazete’de yayımlanan Millî Eğitim Bakanlığı Denklik Yönetmeliği hükümlerine göre değerlendirilerek öğrenci başarısına yansıtılır. 12 nci sınıfta yurt dışına çıkarak eğitimini tamamlayıp gelen öğrenciler için düzenlenen denklik belgesine dayalı olarak kayıtlı olduğu okul müdürlüğünce ortaöğretim diploması düzenlenir.
+(3) Kültürlerarası öğrenci değişim programları çerçevesinde Bakanlıkça uygun görülerek Türkiye’ye gelenler belirlenen okullara misafir öğrenci olarak kabul edilirler. Bu öğrencilere öğrenim süresini kapsayan öğrenim durum belgesi düzenlenir.
+(4) Ülke içindeki ortaöğretim kurumları arasında öğrenci değişim programlarına ilişkin usul ve esaslar Bakanlıkça hazırlanan kılavuzla belirlenir.

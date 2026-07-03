@@ -1,0 +1,16 @@
+Öğretmenlere nöbet görevi verilmesinin esasları
+MADDE 91- (1) Öğretmenler, nöbet görevini nöbet çizelgesine göre yerine getirirler.
+(2) Nöbetlerde aşağıdaki esaslara uyulur:
+a) Öğretmenlere, dersinin en az bulunduğu gün veya günlerde nöbet görevi verilir.
+b) Birden fazla okulda ders görevi bulunan öğretmenlere kadrosunun bulunduğu okulda, kadrosunun bulunduğu okulda dersi yoksa en çok ders okuttuğu okulda nöbet görevi verilir.
+c) (Değişik:RG-5/9/2019-30879) Nöbet görevi, ilk dersten 30 dakika önce başlar, son ders bitiminden 30 dakika sonra biter. Ancak bu süre, okulun özelliğine göre öğretmenler kurulu kararıyla 15 dakikadan az olmamak kaydıyla kısaltılabilir. İkili öğretimin yapıldığı okullarda öğretmenler tek devrede nöbet tutarlar.
+ç) (Değişik:RG-8/9/2023-32303) Hamile öğretmenlere, hamileliğin yirmi dördüncü haftasından itibaren doğum sonrası analık izni süresinin bitimini takip eden iki yıllık sürenin sonuna kadar istememesi halinde nöbet görevi verilmez.
+d) (Değişik:RG-28/10/2016-29871) İstekleri hâlinde hizmet yılı 20 yıldan fazla olan kadın öğretmenler, 25 yıldan fazla olan erkek öğretmenler nöbet görevinden muaf tutulabilirler. Ancak bu kapsamdaki öğretmen sayısının fazla olması nedeniyle nöbet görevinin aksaması durumunda bu öğretmenlere de nöbet görevi verilir.
+e) (Değişik:RG-5/9/2019-30879) Nöbetlerde uyulması gereken esaslar öğretmenler kurulunda görüşülür, kararlaştırılır ve okul müdürünün onayından sonra öğretmenlere yazılı olarak duyurulur.
+f) Nöbet görevine özürsüz olarak gelmeyen öğretmen hakkında derse özürsüz olarak gelmeyen öğretmen gibi işlem yapılır.
+g) (Ek:RG-28/10/2016-29871) (Değişik:RG-22/2/2025-32821) Öğretmenlerden; engelli olanlar, özel eğitim ihtiyacı olan çocuğu bulunanlar ve bakmakla yükümlü olduğu engelli birey bulunanlara nöbet görevi verilmez. Ancak bu durumdaki öğretmenlere istemeleri hâlinde, gün tercihlerine öncelik verilerek nöbet görevi verilir.
+ğ) (Ek:RG-28/10/2016-29871) (Değişik:RG-5/9/2019-30879) Özel eğitim sınıflarında görev yapan özel eğitim öğretmenleri nöbet görevini Özel Eğitim Hizmetleri Yönetmeliğinin ilgili hükümlerine göre yerine getirirler.
+h) (Ek:RG-16/9/2017-30182) (Değişik:RG-5/9/2019-30879) Çeşitli nedenlerden dolayı öğretmeni bulunmayan sınıfın düzeni ve öğrencilerin etüt çalışması, o saatte dersi bulunmayan nöbetçi öğretmen tarafından sağlanır. Nöbetçi öğretmenlerin hepsinin dersinin bulunması durumunda ise nöbetçi müdür yardımcısı gerekli tedbirleri alır.
+ı) (Ek:RG-5/9/2019-30879) Ortaöğretim kurumlarında çocuk gelişimi ve eğitimi alanına ait uygulama ana sınıflarında görev yapan okul öncesi öğretmenleri, nöbetçi oldukları gün ilk dersten 15 dakika önce, son ders bitiminden 15 dakika sonrasına kadar okulda bulunmak kaydıyla, okul öncesi öğrencilerinin bulunduğu alanlarda, kendi devrelerinde ve etkinlik saatleri dışındaki zamanlarda nöbet tutarlar.
+i) (Ek:RG-5/9/2019-30879) (Değişik:RG-8/9/2023-32303) Tekli eğitim yapılan okullarda öğle arasında yapılan nöbet görevi, nöbetçi müdür yardımcısı ve öğretmenlerin temel ihtiyaçları göz önünde bulundurularak okul müdürü tarafından dönüşümlü ve dengeli şekilde düzenlenir.
+j) (Ek: RG-22/2/2025-32821) Öğrenci taşıma uygulaması yapan okullardaki nöbetçi öğretmenler Millî Eğitim Bakanlığı Taşıma Yoluyla Eğitime Erişim Yönetmeliğinde yer alan nöbete ilişkin görevleri de yerine getirir.

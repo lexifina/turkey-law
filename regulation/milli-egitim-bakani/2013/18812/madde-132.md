@@ -1,0 +1,2 @@
+Stajda uygulama takvimi
+MADDE 132- (1) Stajın okul müdürlüğünce planlanması, yarıyıl ve yaz tatillerinde yaptırılması esastır. Ancak, stajı eksik olduğu için okuldan mezun olamayan ve okula devam etmeyenler stajını ders yılı içinde de yapabilir. Okul dışında staj (Mülga ibare:RG-13/9/2014-29118)(1) (…) yapan öğrencilerin dosyası, uygulamanın bitimini izleyen ilk hafta içinde okul müdürlüğüne teslim edilir.

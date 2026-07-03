@@ -1,0 +1,5 @@
+Mesleki ve teknik ortaöğretim kurumlarında yarım yatılılık
+MADDE 217- (1) Sınıf rehber öğretmenlerince ekonomik durumlarının yetersiz olduğu belirlenen öğrencilere yardımcı olmak amacıyla genel bütçeden karşılanan ödenekle yarım yatılı kadrosundan öğle yemeği verilir.
+(2) (Değişik:RG-13/9/2014-29118) Kurumun yönetici, öğretmen ve diğer personeli, isteyen öğrenciler, maarif müfettişleri, Bakanlıkça görevlendirilenlerle diğer eğitim kurumlarından gelen öğretmen ve öğrenci grupları, günlük yarım yatılı öğrenci tabela ücretini ödemek şartıyla öğle yemeğinden yararlanabilirler.
+(3) Yemek ücretleri her ayın başında peşin alınır. Yemek ücreti vermiş olanlara, yenilmeyen öğünler için paraları geri verilmez veya ertesi aya devredilmez. Ancak kurum, bir hafta veya daha fazla süreyle tatil edilirse bu günlere ait alınan ücret bir sonraki ayın hesabına aktarılır.
+(4) Pansiyonu bulunan kurumlarda yarım yatılılık ödeneklerinden alınan malzeme, pansiyon ambarına devredilir ve bir ambar defteri tutulur.

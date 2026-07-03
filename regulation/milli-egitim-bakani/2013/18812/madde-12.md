@@ -1,0 +1,7 @@
+Haftalık ders programı
+MADDE 12- (1) (Değişik:RG-1/9/2018-30522) Haftalık ders programı, öğretmenler kurulunda görüşülür ve okul müdürünün onayına bağlı olarak uygulamaya konulur. Bu programda yönetici ve öğretmenlerin okutacakları derslerin gün ve saatlere göre dağılımı yapılır ve ilgililere yazılı olarak imza karşılığı duyurulur.
+(2) Haftalık ders programı düzenlenirken:
+a) (Değişik:RG-22/2/2025-32821) Okulların eğitim ortamı, öğretmen durumu, engelli öğretmenler, özel eğitim ihtiyacı olan çocuğu bulunanlar, süt izni kullananlar, fizikî şartlar ve pedagojik esaslar göz önünde bulundurulur. Bu bağlamda; engelli öğretmenlerin, hukuken bakmakla yükümlü olduğu engelli yakını olan öğretmenlerin ve 36 ayını doldurmamış çocuğu olan öğretmenlerin tercihleri dikkate alınarak haftalık ders programı, gün ve saatleri okulun genel işleyişini bozmayacak şekilde hazırlanır.
+b) Dersler, özelliklerine göre üst üste veya haftanın belirli günlerine dengeli olarak dağıtılır. Bayrak törenleri dikkate alınarak beden eğitimi ve müzik derslerinin haftanın ilk ve son iş gününe konulmasına özen gösterilir.
+c) (Değişik:RG-2/9/2020-31232) Uygulamalı meslek dersleri, imkânlar ölçüsünde ders bütünlüğü bozulmadan ders saatleri birbirini izleyecek şekilde planlanır.
+ç) Programda teorik ve uygulamalı derslere aynı günde yer verilmesi durumunda, teorik derslere öğleden önce, uygulamalı derslere ise öğleden sonraki saatlerde yer verilmesine özen gösterilir.

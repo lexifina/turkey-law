@@ -1,0 +1,2 @@
+Müdürün karara itirazı ve ilçe öğrenci disiplin kuruluna göndermesi
+MADDE 197- (1) Müdür, kararı uygun bulmazsa bir defa daha görüşülmek üzere dosyayı gerekçeleriyle birlikte kurula iade eder. Okul öğrenci ödül ve disiplin kurulu kararında ısrar ederse müdür görüş ve tekliflerini de ekleyerek dosyayı görüşülmek ve karara bağlanmak üzere en geç beş iş günü içinde ilçe öğrenci disiplin kuruluna gönderir.

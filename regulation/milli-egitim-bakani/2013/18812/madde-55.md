@@ -1,0 +1,4 @@
+Yılsonu başarı puanı
+MADDE 55- (1) Öğrencinin yılsonu başarı puanı, derslerin ağırlıklı puanları toplamının bu derslerin haftalık ders saatleri toplamına bölümüyle elde edilen puandır. Naklen gelen öğrencilerin yılsonu başarı puanı hesaplanırken yeni oluşacak haftalık ders saati sayısı toplamı esas alınır. Yılsonu başarı puanı hesaplanırken bölme işlemi, virgülden sonra (Değişik ibare:RG-5/9/2019-30879) dört basamak yürütülür.
+(2) Yılsonu başarı puanı, mezuniyet puanının hesaplanmasında esas alınır.
+(3) (Ek:RG-28/10/2016-29871) (Değişik:RG-16/9/2017-30182) Evde veya hastanede eğitim hizmeti verilen öğrencilerin başarı durumlarının değerlendirilmesi, sorumlu olduğu eğitim programının uygulandığı okullardaki değerlendirme ölçütlerine göre yapılır. Okutulan derslerin puanları e-Okul sistemine işlenir. Öğrenci okutulmayan derslerden muaf tutulur.

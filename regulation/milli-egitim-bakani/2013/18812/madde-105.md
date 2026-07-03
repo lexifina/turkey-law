@@ -1,0 +1,2 @@
+Kantin
+MADDE 105- (1) (Değişik:RG-5/9/2019-30879) Kantinin kurulması, işletilmesi ve denetimle ilgili iş ve işlemler; Millî Eğitim Bakanlığı Okul-Aile Birliği Yönetmeliği, 11/6/2010 tarihli ve 5996 sayılı Veteriner Hizmetleri, Bitki Sağlığı, Gıda ve Yem Kanunu, 5/2/2013 tarihli ve 28550 sayılı Resmî Gazete’de yayımlanan Okul Kantinlerine Dair Özel Hijyen Kuralları Yönetmeliği, 05/07/2013 tarihli ve 28698 sayılı Resmî Gazete’de yayımlanan Hijyen Eğitimi Yönetmeliği ile yürürlükteki diğer ilgili mevzuat hükümlerine göre yürütülür.

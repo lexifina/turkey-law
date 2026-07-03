@@ -1,0 +1,1 @@
+GEÇİCİ MADDE 2- (1) Bu Yönetmeliğin 225’nci maddesinin birinci fıkrasının (d) bendi ile yürürlükten kaldırılan Mesleki ve Teknik Eğitim Yönetmeliğinin mesleki eğitim merkezleri, olgunlaşma enstitüleri ve turizm eğitim merkezlerinin işleyişi ile yaygın eğitim uygulamalarına dair hükümleri, bunlara ilişkin Yönetmelik yürürlüğe konuluncaya kadar yürürlükte kalır.

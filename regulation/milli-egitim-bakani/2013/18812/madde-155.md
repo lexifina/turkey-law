@@ -1,0 +1,5 @@
+Tam gün tam yıl eğitim uygulaması kapsamına alınma
+MADDE 155- (1) Okul müdürlüğünce, çevrenin eğitim ihtiyacı, fiziki kapasite, öğrenci-kursiyer potansiyeli, çevre şartları, öğretmen durumu, araç-gereç ve donatım girdileriyle bu kapsamda yapılacak faaliyetin içeriği gibi hususlar dikkate alınarak, okulun tam gün tam yıl eğitim uygulaması kapsamına alınması isteği ders kesiminden eylül ayının son iş gününe kadar millî eğitim müdürlüğüne bildirilir.
+(2) Okul müdürlüğünce hazırlanan etkinlik planının uygun bulunması hâlinde il millî eğitim müdürlüğünün teklifi üzerine valilik oluruyla tam gün tam yıl eğitim uygulaması kapsamına alınma kararı verilir. (Ek cümle:RG-5/9/2019-30879) Bakanlık veya valiliklerce il/illerde yeni uygulamaya konulan proje ve protokoller çerçevesinde ders yılı başladıktan sonra da valilik onayı ile okul ve kurumlar tam gün tam yıl eğitim uygulaması kapsamına alınabilir.
+(3) Okulun tam gün tam yıl eğitim uygulanması kapsamına alınması kararı planlanan faaliyetin fiilen yapıldığı sürece yürürlükte kalır.
+(4) Uygulama kapsamında yapılacak etkinlikler her yıl okulun yıllık çalışma planında gösterilir.

@@ -1,0 +1,22 @@
+BEŞİNCİ BÖLÜM
+İşletmelerin ve Öğrencilerin Görev ve Sorumluluklar
+İşletmelerin mesleki eğitimle ilgili görev ve sorumlulukları
+MADDE 144- (1) (Değişik ibare:RG-26/3/2017-30019) Mesleki eğitim, staj ve tamamlayıcı eğitim yaptıracak işletmeler:
+a) (Değişik:RG-26/3/2017-30019) Öğrencilerin işletmede yapacakları mesleki eğitim, staj ve tamamlayıcı eğitim, bu eğitime katılacak öğrenci sayısı ve eğitimin uygulanışıyla ilgili esasları düzenleyen tutanağı işletme belirleme komisyonuyla birlikte imzalar ve eğitimi, çalışma takvimine uygun olarak yaptırır.
+b) Mesleki eğitimin, ilgili meslek alan/dalları öğretim programlarına uygun olarak işletme belirleme komisyonu tarafından belirlenecek yerde yapılmasını sağlar.
+c) (Değişik:RG-16/9/2017-30182) İşletmede mesleki eğitim, staj ve tamamlayıcı eğitim yapılacak alan/dalların her biri için öğrencilerin beceri eğitiminden sorumlu olmak üzere ustalık veya mesleki yeterliğe sahip ve iş pedagojisi eğitimi görmüş yeterli sayıda ve nitelikte usta öğretici veya eğitici personel görevlendirir. Özel eğitim ihtiyacı olan öğrenciler için okulla işbirliği yaparak gerekli tedbirleri alır.
+ç) Yeterli sayıda ve nitelikte usta öğretici veya eğitici personel bulunmaması durumunda, okul müdürlükleriyle koordineli olarak açılacak iş pedagojisi kurslarına ilgili personelin katılımını sağlar.
+d) Mesleki eğitim için gerekli olan temrin malzemesiyle araç-gereci temin eder.
+e) (Değişik:RG-26/3/2017-30019) İşletmede mesleki eğitim, staj ve tamamlayıcı eğitim gören öğrenciye, 3308 sayılı Kanunun 25 inci maddesinde belirtilen miktardan az olmamak üzere ödenecek ücret tutarı, ücret artışı ve diğer olanakları kapsayan eğitim sözleşmesini, öğrenci veya velisi okul müdürüyle birlikte imzalar.
+f) Öğrencilerin devam durumlarını izleyerek devamsızlıklarını ve hastalık izinlerini iki iş günü içinde elektronik ortamda veya yazılı olarak ilgili okul müdürlüğüne bildirir.
+g) Öğrencilerin ilgili döneme ait puan çizelgelerini, dönem sonundan beş gün önce kapalı zarf içinde ilgili okul müdürlüğüne teslim eder.
+Ğ) Öğrenciler tarafından tutulan iş dosyasını, istenmesi durumunda veya beceri sınavından önce puan çizelgesiyle birlikte ilgili okul müdürlüğüne teslim eder.
+h) Öğrencilerin iş kazaları ve meslek hastalıklarından korunması, teşhis ve tedavileri için 6331 sayılı Kanun ve ilgili diğer mevzuat kapsamında gerekli önlemleri alır.
+ı) Öğrencilere telafi eğitimi süresince ve okulda yapılacak sınavlar için belirtilen günlerde ücretli izin verir.
+i) Öğrencilere (Ek ibare:RG-12/7/2019-30829) ara tatil, yarıyıl ve yaz tatili süresince toplam bir ay ücretli izin verir.
+j) Öğrencilere bir ders yılı içinde devamsızlıktan sayılmak ve en çok devamsızlık süresini geçmemek üzere, ilgili okul müdürlüğünün de görüşünü alarak ücretsiz mazeret izni verir.
+k) Mesleki eğitim başladıktan sonra personel sayısının azalması durumunda da eğitime alınmış olan öğrencileri, mezun oluncaya kadar işletmede eğitime devam ettirir.
+l) Eğitimi yapılan meslek alan/dallarının öğretim programlarında bulunduğu hâlde işletmedeki olanaksızlıklar nedeniyle işlenemeyen konuların öğretimi için okul müdürlüğüyle işbirliği yapar.
+m) (Değişik:RG-26/3/2017-30019) İşletmelerde yapılan mesleki eğitim, staj ve tamamlayıcı eğitimin planlı bir şekilde yürütülmesi, programa uygunluğunun izlenmesi, ortaya çıkabilecek aksaklıkların ve eksikliklerin giderilmesi, öğrencilerin başarı, devamsızlık ve disiplin durumlarının izlenmesi ve rehberlikte bulunulması amacıyla görevlendirilen koordinatör öğretmene ve işletmelerde ders görevi verilen öğretmene gerekli kolaylığı sağlar.
+n) Koordinatör olarak görevlendirilen öğretmenlerin görevlerini yerine getirmesinde gerekli kolaylığı sağlar, belirlenen tarihte görevine gelmeyen veya görevini usulüne göre yürütmeyen öğretmenleri okul müdürlüğüne bildirir.
+(2) (Değişik:RG-26/3/2017-30019) Öğrenciler, günde sekiz saatten fazla, meslekleri dışındaki işlerle bağımsız olarak 6/4/2004 tarihli ve 25425 sayılı Resmî Gazete’de yayımlanan Çocuk ve Genç İşçilerin Çalıştırılma Usul ve Esasları Hakkında Yönetmelik hükümlerine aykırı işlerde çalıştırılamaz. Bunlar, personele sunulan ulaşım, yemek, il dışında mesleki eğitim, staj ve tamamlayıcı eğitim görenler için barınma gibi sosyal hizmetlerden yararlandırılırlar. Öğrenci ve öğretmenler personele sunulan ulaşım, yemek, il dışında mesleki eğitim, staj ve tamamlayıcı eğitim görenler için barınma gibi sosyal hizmetlerden yararlandırılırlar.

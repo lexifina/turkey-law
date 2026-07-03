@@ -1,0 +1,12 @@
+SEKİZİNCİ KISIM
+Okulda ve İşletmelerde Mesleki Eğitim
+BİRİNCİ BÖLÜM
+Eğitim Uygulaması
+İşletmelerde mesleki eğitim
+MADDE 121- (1) (Değişik:RG-22/2/2025-32821) Mesleki Eğitim Kurulunca 3308 sayılı Kanun kapsamına alınan meslek alan/dallarında öğrenim gören öğrencilerin 12 nci sınıfta işletmelerde mesleki eğitim görmeleri esastır. Sektörün özelliği, çalışma ve kapasite durumuyla okul ve iklim şartları da dikkate alınarak yılın belli zamanlarında faal olan meslek alan/dallarında yapılacak yoğunlaştırılmış eğitim 63 üncü madde hükümlerine göre yapılır. Mesleki eğitim merkezlerinde kayıtlı öğrencilerin işletmelerde mesleki eğitimi, 9 uncu sınıfta işletme ile sözleşmenin imzalanmasıyla başlar.
+(2) (Değişik:RG-22/2/2025-32821) İl istihdam ve mesleki eğitim kurulu tarafından belirlenen okulun ilgili alan/dallarında 11 inci sınıf öğrencilerine de işletmelerde mesleki eğitim dersi uygulanır.
+(3) Bakanlıkla kamu ve özel kurum ve kuruluşları arasında yapılan protokollere veya işbirliği proje anlaşmalarına göre eğitim yapan okul ve alanlardaki/dallardaki öğrencilerin, işletmelerde gerçekleştirilecek uygulamalı mesleki eğitimleri, bu protokol veya proje anlaşmalarına dayalı olarak düzenlenen uygulama yönergesindeki hükümlere göre yürütülür.
+(4) Her öğrenci, alan/dalın öğretim programındaki ilgili sınıfa ait temrin, iş, proje, deney veya hizmetin en az % 80 ini yapmak ve uygulamalardan başarılı olmak zorundadır.
+(5) Öğrencilerin mesleki eğitimlerini aynı işyerinde sürdürmeleri esastır. Ancak, ilgili sınıfa ait uygulamaların bir kısmının işletmelerde yapılamaması durumunda, eksik kalan uygulamalar, işletmeyle okul müdürlüğünün anlaşmasıyla ders yılı içinde başka işletmelerde veya okulda telafi eğitimi programına göre tamamlanır.
+(6) Programlarında öngörülen uygulamalardan bir kısmının ders yılı içerisinde yapılamaması durumunda, ikinci dönemin son beş haftası içinde eksik kalan uygulamaların okulda tamamlatılması amacıyla yoğunlaştırılmış telafi eğitim programı düzenlenir. Bu program süresince alınacak puanlar da ikinci dönem puanının belirlenmesinde dikkate alınır.
+(7) (Ek:RG-28/10/2016-29871) Anadolu teknik programı ile işletme kapasitesi yeterli olmadığından mesleki eğitim için işletmeye gönderilemeyen Anadolu meslek programı öğrencileri uygulamalı eğitimlerini okul/kurumun atölye ve laboratuvarlarında, okul/kurumda yeterli donanıma sahip atölye ve laboratuvar bulunmaması hâlinde işletmelerle imzalanacak protokole göre işletmenin eğitim biriminde (Ek ibare:RG-22/2/2025-32821) yüz yüze eğitim kapsamında sürdürür.

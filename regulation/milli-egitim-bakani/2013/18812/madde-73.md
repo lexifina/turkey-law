@@ -1,0 +1,5 @@
+Öğrenim durum belgesi düzenlenmesi
+MADDE 73- (1) Öğrencilerin yazılı başvuruları üzerine;
+a) Kimlik bilgilerini, varsa alanını/dalını, öğrenimi süresince okuduğu bütün dersleri, haftalık ders saatlerini, aldığı puanları ve diploma bilgilerini gösteren öğrenim durum belgesi düzenlenir.
+b) (Değişik:RG-22/2/2025-32821) 69 uncu maddenin üçüncü fıkrasının (h) bendi, 71 inci maddenin birinci fıkrası ile 71/A maddesinin üçüncü fıkrasına göre aldıkları diploma, işyeri açma, sertifika veya öğrenim durum belgesini kaybedenlere bir defaya mahsus olmak üzere öğrenim durum belgesi verilir. Belgesini ikinci defa talep edenlere bu belge verilmez. Ancak durumları yazıyla ilgili kurum veya kuruluşa bildirilir.
+(2) (Değişik:RG-16/9/2017-30182) Mesleki ve teknik ortaöğretim programlarından mezun olanlardan isteyenlere Türkiye Yeterlilik Çerçevesi kapsamında, öğrenim süresince kazandıkları temel yeterlilikler hakkında bilgiler içeren Europass sertifika/diploma ekiyle alınan ve başarılan dersleri, modülleri, kredilerini ve mesleki eğitim gördüğü/stajını yaptığı işletmenin adını gösterir belge düzenlenir.
