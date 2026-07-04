@@ -1,0 +1,5 @@
+BİRİNCİ BÖLÜM
+Amaç ve Kapsam
+Amaç ve kapsam
+MADDE 1- (1) Bu Tebliğin amacı; 28/7/2024 tarihli ve 7524 sayılı Vergi Kanunları ile Bazı Kanunlarda ve 375 sayılı Kanun Hükmünde Kararnamede Değişiklik Yapılmasına Dair Kanunun 2 nci ve 3 üncü maddeleriyle 31/12/1960 tarihli ve 193 sayılı Gelir Vergisi Kanununda yeniden düzenlenen 17 nci ve 69 uncu maddelerin uygulanmasına ilişkin usul ve esasların açıklanmasıdır.
+(2) Hizmet erbabına bedelsiz veya indirimli olarak pay senedi verilmek suretiyle sağlanan menfaatlerde ücret istisnası uygulaması ile ticari veya mesleki faaliyetlerde bulunan gerçek kişi mükellefler ve kurumlar vergisi mükelleflerinin 4/1/1961 tarihli ve 213 sayılı Vergi Usul Kanununun 127 nci maddesi uyarınca tespit edilecek günlük hasılatlardan yola çıkarak hesaplanacak olması gereken hasılat tutarları ile beyan ettikleri hasılat tutarları arasındaki farkın %20’den fazla olması durumunda bahsi geçen mükelleflerin 213 sayılı Kanunun 370 inci maddesi uyarınca izaha davet edilmesi ve izahın değerlendirilmesinin mezkûr madde uyarınca yapılmasına ilişkin açıklamalar bu Tebliğin kapsamını oluşturmaktadır.
