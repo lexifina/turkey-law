@@ -1,0 +1,2 @@
+GELİR VERGİSİ GENEL TEBLİĞİ
+(SERİ NO: 333)
