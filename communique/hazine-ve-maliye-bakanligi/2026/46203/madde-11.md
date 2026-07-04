@@ -1,0 +1,3 @@
+Gelir ve gider uygulaması
+MADDE 11- (1) Bildirim konusu yapılarak kanuni defter kayıtlarına intikal ettirilen varlıkların daha sonra elden çıkarılmasından doğan zararlar, gelir veya kurumlar vergisi uygulaması bakımından gelirin veya kurum kazancının tespitinde gider veya indirim olarak kabul edilmeyecektir. Söz konusu varlıkların elde tutulması ve elden çıkarılmasından doğan kazanç ve iratlar ise genel esaslar çerçevesinde gelirin veya kurum kazancının tespitinde dikkate alınacaktır.
+(2) Bildirilen varlıklar nedeniyle ödenen vergiler, hiçbir suretle gider yazılamayacak ve başka bir vergiden mahsup edilemeyecektir.
