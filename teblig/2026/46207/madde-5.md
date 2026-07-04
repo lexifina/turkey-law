@@ -1,0 +1,2 @@
+Başvurunun temsil niteliği
+MADDE 5- (1) Başvuru aşamasında sunulan delillerden, Yönetmeliğin 18 inci maddesi çerçevesinde yerli üretim dalını temsil niteliğini haiz olduğu anlaşılan yerli üretici Pensan Kalem ve Kağıt San. ve Tic. A.Ş. tarafından yapılan başvurunun Yönetmeliğin 20 nci maddesi uyarınca yerli üretim dalı adına yapıldığı anlaşılmıştır. Bu kapsamda, söz konusu firma bu Tebliğin ilgili bölümlerinde “yerli üretim dalı” olarak anılacaktır.
