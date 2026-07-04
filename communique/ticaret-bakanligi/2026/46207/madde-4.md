@@ -1,0 +1,4 @@
+Soruşturma konusu ürün
+MADDE 4- (1) Soruşturma konusu ürün, ÇHC menşeli 9608.10.10.10.00 GTİP’i altında yer alan “plastik maddelerden olan sıvı mürekkepli bilyalı kalemler”, 9608.10.99.00.00 GTİP’i altında yer alan “diğerleri (yalnız plastik maddelerden olan jel mürekkepli bilyalı kalemler)” ile 9608.50.00.10.00 GTİP’i altında yer alan “plastik maddelerden olanlar (takımın içindeki 9608.10.10.10.00 gümrük tarife istatistik pozisyonlu eşya veya 9608.10.99.00.00 gümrük tarife istatistik pozisyonlu plastik maddelerden olan jel mürekkepli bilyalı kalemler için)”dır.
+(2) Bahse konu GTİP’ler, yalnızca bilgi amaçlı verilmiş olup bağlayıcı mahiyette değildir.
+(3) Soruşturma konusu ürünün TGTC’de yer alan tarife pozisyonunda ve/veya eşya tanımında yapılacak değişiklikler, bu Tebliğ hükümlerinin uygulanmasına engel teşkil etmez.
