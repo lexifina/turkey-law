@@ -1,0 +1,4 @@
+Kişisel sağlık verilerinin aktarılması
+MADDE 15 – (1) Kişisel sağlık verilerinin yurtiçinde aktarımında Kanunun 8 inci maddesine, yurtdışına aktarımında ise Kanunun 9 uncu maddesine riayet edilir.
+(2) Kişisel sağlık verilerinin, Kanunun 8 inci maddesinin ikinci fıkrasının (b) bendi ile üçüncü fıkrası ve 28 inci maddesi kapsamında kamu kurum ve kuruluşlarına aktarılması için protokol düzenlenir. Düzenlenen protokolde, kişisel veri koruma mevzuatının genel ilkeleri ile veri güvenliğine ilişkin hükümlere ve protokol kapsamında hangi verilerin aktarılacağına yer verilir. Verilerin aktarımı, teknik altyapının uygun olması hâlinde KamuNET üzerinden gerçekleştirilir.
+(3) Kişisel sağlık verilerinin aktarımı talepleri, talep edilen sağlık verilerinin ilgili olduğu Bakanlık birimi tarafından Kanun ve ilgili diğer mevzuat açısından değerlendirilir, değerlendirme sonucuna göre Genel Müdürlükçe işlem tesis edilir.

@@ -1,0 +1,53 @@
+{
+  "source_id": "7.5.32610",
+  "kind": "regulation",
+  "register_kind": "Kurum ve Kuruluş Yönetmelikleri",
+  "title": "KİŞİSEL SAĞLIK VERİLERİ HAKKINDA YÖNETMELİK",
+  "number": "32610",
+  "issuer": "Sağlık Bakanı",
+  "issuer_slug": "saglik-bakani",
+  "path": "regulation/saglik-bakani/2019/32610",
+  "source": "https://www.mevzuat.gov.tr/anasayfa/MevzuatFihristDetayIframe?MevzuatTur=7&MevzuatNo=32610&MevzuatTertip=5",
+  "source_sha256": "905a7564a16d5acb5ec2d8dea6912a9866b4662d8f31d8b04bd6581728fb2833",
+  "source_bytes": 51024,
+  "published": "2019-06-21",
+  "gazette": "30808",
+  "in_force": "2026-07-04",
+  "in_force_basis": "latest Resmî Gazete date printed in the source amendment notes/table (\"RG-4/7/2026\") for the current consolidated text",
+  "date_evidence": [
+    [
+      "2026-07-04",
+      "RG-4/7/2026",
+      "Resmî Gazete date printed in the source amendment note"
+    ],
+    [
+      "2026-07-04",
+      "4/7/2026",
+      "Resmî Gazete date in the source amendment table"
+    ],
+    [
+      "2025-12-03",
+      "RG-3/12/2025",
+      "Resmî Gazete date printed in the source amendment note"
+    ],
+    [
+      "2025-12-03",
+      "3/12/2025",
+      "Resmî Gazete date in the source amendment table"
+    ]
+  ],
+  "commencement_clauses": [
+    "Bu Yönetmelik yayımı tarihinde yürürlüğe girer"
+  ],
+  "history": "current-text",
+  "label": "oldest version available",
+  "checked_on": "2026-11-15",
+  "word_count": 2761,
+  "text_status": "current-consolidated",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  },
+  "completeness": "html-text-complete"
+}

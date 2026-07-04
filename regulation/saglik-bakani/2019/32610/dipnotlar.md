@@ -1,0 +1,1 @@
+[1] 4/7/2026 tarihli ve 33300 sayılı Resmî Gazete’de yayımlanan değişiklik ile bu bölüm başlığı “Kişisel Sağlık Verilerinin Gizlenmesi, Düzeltilmesi, İmha Edilmesi ve Aktarılması” iken metne işlendiği şekilde değiştirilmiştir.

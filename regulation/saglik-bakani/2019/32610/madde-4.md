@@ -1,0 +1,28 @@
+Tanımlar
+MADDE 4 – (1) Bu Yönetmelikte geçen;
+a) Açık veri: Ücretsiz olarak veya hazırlanma maliyetini geçmeyecek şekilde internet üzerinden herkesin erişimine sunulan, üzerinde herhangi bir fikri mülkiyet hakkı bulunmayan ve herhangi bir amaçla serbestçe kullanılabilen, makineler tarafından okunabilen ve böylelikle diğer veriler ve sistemlerle birlikte çalışabilen, anonim hale getirilmiş veriyi,
+b) Açık sağlık verisi: Açık veri haline getirilen sağlık verisini,
+c) Anonim hale getirme: Kişisel verilerin, başka verilerle eşleştirilerek dahi hiçbir surette kimliği belirli veya belirlenebilir bir gerçek kişiyle ilişkilendirilemeyecek hâle getirilmesini,
+ç) Bakanlık: Sağlık Bakanlığını,
+d) e-Nabız: İlgili kişilerin sağlık verilerine kendilerinin, hekimlerin veya yetki verdikleri üçüncü kişilerin erişimini sağlayan, e-Devlet uygulamalarına uygun olarak Bakanlıkça kurulan sistemi,
+e) Genel Müdürlük: Sağlık Bilgi Sistemleri Genel Müdürlüğünü,
+f) İlgili kişi: Kişisel verisi işlenen gerçek kişiyi,
+g) İlgili kullanıcı: Verilerin teknik olarak depolanması, korunması ve yedeklenmesinden sorumlu olan kişi ya da birim hariç olmak üzere veri sorumlusu organizasyonu içerisinde veya veri sorumlusundan aldığı yetki ve talimat doğrultusunda kişisel verileri işleyen kişileri,
+ğ) KamuNET: Kamu kurum ve kuruluşları arasındaki veri iletişiminin sağlanması, bu veri iletişiminin internete kapalı, fiziksel ve siber saldırılara karşı daha güvenli sanal bir ağ üzerinden yapılması, siber güvenlik risklerinin minimize edilmesi, mevcut ve kurulacak olan güvenli kapalı devre çözümlere standart sağlanması, ortak uygulamalar için uygun alt yapının tesis edilmesi amaçlarıyla Ulaştırma ve Altyapı Bakanlığı tarafından geliştirilen projeyi,
+h) Kanun: 24/3/2016 tarihli ve 6698 sayılı Kişisel Verilerin Korunması Kanununu,
+ı) Kimliksizleştirme: Kişisel verilerin; kimliği belirli veya belirlenebilir gerçek kişiyle ilişkilendirilememesi için teknik ve idari tedbirlerin alınması şartıyla ve farklı bir ortamda muhafaza edilen diğer verilerle bir araya getirilmeksizin ilgili kişiyle ilişkilendirilemeyecek şekilde işlenmesini,
+i) Kişisel veri: Kimliği belirli veya belirlenebilir gerçek kişiye ilişkin her türlü bilgiyi,
+j) Kişisel sağlık verisi: Kimliği belirli ya da belirlenebilir gerçek kişinin fiziksel ve ruhsal sağlığına ilişkin her türlü bilgi ile kişiye sunulan sağlık hizmetiyle ilgili bilgileri,
+k) Kişisel verilerin imha edilmesi: Kişisel verilerin silinmesi, yok edilmesi veya anonim hale getirilmesini,
+l) Kişisel verilerin işlenmesi: Kişisel verilerin tamamen veya kısmen otomatik olan ya da herhangi bir veri kayıt sisteminin parçası olmak kaydıyla otomatik olmayan yollarla elde edilmesi, kaydedilmesi, depolanması, muhafaza edilmesi, değiştirilmesi, yeniden düzenlenmesi, açıklanması, aktarılması, devralınması, elde edilebilir hale getirilmesi, sınıflandırılması ya da kullanılmasının engellenmesi gibi sağlık verileri üzerinde gerçekleştirilen her türlü işlemi,
+m) Kişisel verilerin silinmesi: Kişisel verilerin ilgili kullanıcılar için hiçbir şekilde erişilemez ve tekrar kullanılamaz hâle getirilmesi işlemini,
+n) Kişisel verilerin yok edilmesi: Kişisel verilerin hiç kimse tarafından hiçbir şekilde erişilemez, geri getirilemez ve tekrar kullanılamaz hâle getirilmesi işlemini,
+o) Kurul: Kişisel Verileri Koruma Kurulunu,
+ö) Kurum: Kişisel Verileri Koruma Kurumunu,
+p) Maskeleme: Kişisel verilerin belirli alanlarının, kimliği belirli veya belirlenebilir bir gerçek kişiyle ilişkilendirilemeyecek şekilde silinmesi, üstlerinin çizilmesi, boyanması ve yıldızlanması gibi işlemleri,
+r) Merkezi sağlık veri sistemi: Bakanlık tarafından oluşturulan kişisel sağlık verilerinin toplandığı veri sistemini,
+s) Sağlık hizmeti sunucusu: Sağlık hizmetini sunan veya üreten gerçek kişiler ile kamu hukuku ve özel hukuk tüzel kişilerini,
+ş) Veri sorumlusu: Kişisel sağlık verilerinin işlenme amaçlarını ve vasıtalarını belirleyen, veri kayıt sisteminin kurulmasından ve yönetilmesinden sorumlu olan gerçek veya tüzel kişiyi,
+t) (Ek:RG-3/12/2025-33096) Bakım veren kişi: Çocuğun velisi veya vasisi ya da bakım ve gözetiminden sorumlu olarak yetkilendirilmiş gerçek ya da tüzel kişileri,
+ifade eder.
+(2) Bu Yönetmelikte yer almayan tanımlar için Kanundaki tanımlar ile Kurum tarafından yapılan ikincil düzenlemelerde yer verilen tanımlar geçerlidir.

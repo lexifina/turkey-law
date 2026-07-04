@@ -1,0 +1,5 @@
+Çocukların sağlık verilerine erişim
+MADDE 8 – (1) Ebeveynler, çocuklarına ilişkin sağlık kayıtlarına herhangi bir onaya ihtiyaç duyulmaksızın e-Nabız üzerinden erişebilir. Ayırt etme gücüne sahip çocuklar, sağlık geçmişlerine ebeveynlerinin erişimini e-Nabız üzerinden izne tabi tutabilir.
+(2) (Değişik:RG-3/12/2025-33096) Boşanma davası devam ederken velâyet hakkı tedbiren üzerine bırakılan taraf çocuğun sağlık verilerine erişebilir.
+(3) (Ek:RG-3/12/2025-33096) Boşanmanın gerçekleşmesi durumunda velâyet hakkı üzerine bırakılan taraf çocuğun sağlık verilerine erişebilir.
+(4) (Ek:RG-3/12/2025-33096) Velâyet hakkı üzerinde bırakılmayan anne veya babanın çocuğuyla ilgili sağlık verilerine ilişkin Genel Müdürlüğe başvurması halinde bu başvuru Genel Müdürlükçe değerlendirilir. Başvurunun olumlu sonuçlanması halinde; velâyet hakkı üzerinde bırakılan tarafa veya çocuğa ilişkin lokasyon, adres veya iletişim bilgileri gibi verilerden arındırılmış olan ve yalnızca çocuğun sağlığına ilişkin çıkarımlar yapılabilecek veriler talep sahibi anne veya baba ile paylaşılabilir.
