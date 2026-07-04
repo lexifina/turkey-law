@@ -1,0 +1,2 @@
+Vergi Daireleri tarafından yapılacak işlemler
+MADDE 4- (1) Başvuruda bulunan mükelleflerin Türkiye’de yerleşmiş sayılmasından önceki son üç takvim yılında Türkiye’de ikametgahlarının ve vergi mükellefiyetlerinin bulunup bulunmadığı ile Türkiye’de yerleşmiş sayılıp sayılmadığı kontrol edilecek, ikametgahlarının ve vergi mükellefiyetlerinin bulunmadığının, Türkiye’de yerleşmiş sayıldığının ve süresinde başvuru yapıldığının tespitini müteakip başvuru sahiplerine istisna belgesi verilecektir.
