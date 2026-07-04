@@ -1,0 +1,3 @@
+Taşıtların tartılması ile ağırlık ve boyut kontrolü
+MADDE 65 - (1) Ülkemize giren veya ülkemizden çıkan taşıtlar, dolu veya boş olduklarına bakılmaksızın, giriş ve çıkış gümrük idareleri tarafından tartılır.
+(2) Ağırlık ve boyutları itibariyle, 2918 sayılı Karayolları Trafik Kanununda belirlenen limitleri aştığı tespit edilen taşıtların yurda girişlerinde (Değişik ibare:RG-4/7/2026-33300) Ulaştırma ve Altyapı Bakanlığı (Karayolları Genel Müdürlüğü) tarafından düzenlenmiş özel yük taşıma izin belgesi aranır. İlgili mevzuatında belirlenen ağırlık ve boyutları aştığı tespit edilen ancak özel yük taşıma izin belgesi bulunmayan taşıtların ülkemize girişlerine izin verilmez.

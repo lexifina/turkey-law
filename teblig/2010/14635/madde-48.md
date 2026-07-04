@@ -1,0 +1,2 @@
+Serbest bölgelerde işlem görecek TIR karnelerinde rejim türü
+MADDE 48 - (1) Bir serbest bölge gümrük idaresine sevk edilecek eşyaya ilişkin TIR karnesi “transit” kaydıyla işlem görür ve TIR/Transit Takip Programına rejim türü olarak “transit” girilir. Bir serbest bölge gümrük idaresinde boşaltma yapıldıktan sonra parsiyel boşaltma yapılmak üzere bir gümrük idaresine sevk edilecek eşyaya ilişkin TIR karnesi, bu gümrük idaresinde tabi tutulacağı rejim türüne göre “transit” veya “ithalat” olarak sevk edilir ve TIR/Transit Takip Programına bu rejim türü girilir.

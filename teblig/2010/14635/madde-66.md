@@ -1,0 +1,2 @@
+TIR karnesi hata düzeltme işlemleri
+MADDE 66 – (1) Varış veya çıkış gümrük idareleri tarafından TIR karnesinin Volet-2 yaprağının tescili aşamasında, TIR karnesinin Volet-1 yaprağı bilgilerinin giriş gümrük idaresi tarafından hatalı girildiğinin tespit edilmesi ve bunun yanlışlıkla yapıldığının anlaşılması halinde, giriş gümrük idaresinden (Değişik ibare:RG-11/2/2017-29976) yazı beklenmeksizin doğru veriler üzerinden Volet-2 tescili yapılır. Ayrıca, hatalı verinin düzeltilmesi için giriş gümrük idaresine bildirimde bulunulur.

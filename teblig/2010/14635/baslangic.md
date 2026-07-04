@@ -1,0 +1,2 @@
+GÜMRÜK GENEL TEBLİĞİ (TIR İŞLEMLERİ)
+(SERİ NO: 1)

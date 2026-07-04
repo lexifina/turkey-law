@@ -1,0 +1,4 @@
+Yeterli sayıda yaprağı bulunmayan TIR karneleri
+MADDE 37 - (1) TIR karnesi yapraklarının tamamının bitmesi durumunda, gümrük idaresi tarafından bu TIR karnesi sonlandırılarak, TIR taşımasının geri kalan bölümü için kullanılmak üzere yeteri kadar yaprağı bulunan yeni bir TIR karnesi kabul edilir. Her iki TIR karnesine de bu durumu belirten meşruhat düşülür.
+(2) Yeni açılan TIR karnesine, taşıt ve eşyaya ilişkin bilgiler yazılır. TIR/Transit Takip Programında sonlandırılan TIR karnesinin Volet-2 ekranı açılır, eski TIR karnesi numarası silinir ve yeni TIR karnesinin numarası ile Volet-1 yaprağındaki bilgiler girilerek taşıt sevk edilir.
+(3) Ancak, TIR karnesinde varış gümrük idaresine kadar kullanılmak üzere yeterli sayıda yaprak bulunmamakla birlikte, ülkemizdeki çıkış gümrük idaresinden sonra hala kullanılabilir yaprak bulunması halinde, yeni bir TIR karnesinin açılmasına izin verilmez.

@@ -1,0 +1,2 @@
+TIR denetleme ve konaklama noktaları
+GEÇİCİ MADDE 1 – (1) Mülga 5/3/1993 tarihli Karayolu ile Uluslararası Eşya Taşıyan Araçların Seyir, Konaklama, Denetleme, Güvenlik ve Gümrük İşlemlerine Ait Yönetmeliğe dayanılarak TIR denetleme ve konaklama noktaları olarak faaliyetlerine izin verilen ve halihazırda faaliyette bulunan yerler ruhsat sürelerinin bitimine kadar TIR konaklama yeri olarak faaliyetlerini sürdürebilirler.

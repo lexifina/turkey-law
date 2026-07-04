@@ -1,0 +1,2 @@
+Ağır veya havaleli eşya taşınması
+MADDE 63 - (1) Ağır veya havaleli eşya taşınması için, kefil kuruluştan kapağı ve bütün yaprakları üzerinde büyük harflerle İngilizce olarak “HEAVY OR BULKY GOODS” veya Fransızca olarak “MARCHANDISES PONDÉREUSES OU VOLUMINEUSES” ibaresinin bulunduğu TIR karnesi alınır. Ayrıca ağır veya havaleli eşya taşınmasında kullanılacak taşıtlar için (Değişik ibare:RG-4/7/2026-33300) Ulaştırma ve Altyapı Bakanlığından veya diğer yetkili kurumlardan "özel yük taşıma belgesi" alınır.

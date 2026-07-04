@@ -1,0 +1,4 @@
+Tütün ve alkol taşımacılığı
+MADDE 61 - (1) Ek-10’da yer alan içki, sigara ile bunların türevlerinin miktarı ne olursa olsun normal TIR karneleri (Model 1) kapsamında taşınmasına izin verilmez.
+(2) Ek-10’da yer alan içki, sigara ile bunların türevlerinin, TIR Sözleşmesi gereğince, Tütün – Alkol TIR karneleri (Model 2) kapsamında taşınması gerekmekle birlikte, uluslararası kefil kuruluş tarafından bu eşyalara ilişkin kefalet halihazırda kabul edilmediğinden bu eşyaların, Tütün – Alkol TIR karneleri kapsamında da taşınmasına izin verilmez. Bu eşyalara ilişkin kefaletin uluslararası kefil kuruluş tarafından kabulü halinde bu durum Genel Müdürlükçe duyurulur.
+(3) Birinci ve ikinci fıkrada belirtilen alkol ve tütün ile bunların türevleri dışında kalan eşyanın (ham tütün, bira ve şarap) normal TIR karneleri ile taşınması mümkündür.

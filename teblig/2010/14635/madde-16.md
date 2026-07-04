@@ -1,0 +1,7 @@
+Geçerlilik süresi biten taşıt onay belgeleri
+MADDE 16 – (Değişik:RG-11/2/2017-29976)
+(1) Taşıt onay belgesi süresinin yurtdışında sona ermesi halinde, taşıt onay belgesini düzenleyen gümrük idaresine yazılı olarak başvurulur. Gümrük idaresi tarafından firma dosyası incelenerek bir defaya mahsus olmak üzere ETOBS üzerinden otuz gün ek süre verilir ve işlemler 15 inci maddenin beşinci fıkrasına göre tamamlanır.
+(2) Bir TIR taşıması sırasında geçerlilik süresi biten taşıt onay belgesi, bu taşımanın sonuna kadar geçerli kabul edilir.
+(3) Taşıt onay belgesinin yenilenmesi için geçerlilik süresinin bitimine en fazla otuz gün kala, taşıt onay belgesini düzenleyen gümrük idaresine başvurulur. Gümrük idaresince 15 inci maddenin üçüncü fıkrası uyarınca şartların sağlandığının tespit edilmesi ve yapılan incelemede yenilenmesi talep edilen taşıt onay belgesi ve eki belge ve fotoğraflardan bir farklılığın olmadığının anlaşılması durumunda, 15 inci maddenin beşinci fıkrasına göre işlem yapılarak taşıt onay belgesi firmaya verilir. Farklılık tespit edilmesi durumunda ise belge yenileme talebi reddedilir ve belge iptal edilerek 15 inci maddede yer alan yeni belge düzenlemeye ilişkin hükümler çerçevesinde talep değerlendirilir.
+(4) Taşıt onay belgesi en fazla üç defa yenilenebilir.
+(5) Geçerlilik süresi dolan taşıt onay belgesi için belgenin düzenlendiği gümrük idaresinden farklı bir gümrük idaresine başvurulması halinde, başvurulan gümrük idaresine bir önceki belge ibraz edilerek 15 inci maddeye göre yeni taşıt onay belgesi düzenlenir.

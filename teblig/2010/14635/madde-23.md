@@ -1,0 +1,6 @@
+Diğer hususlar
+MADDE 23 - (1) TIR Sözleşmesine taraf ve Sözleşmeyi uygulayan ülkeler ile bu ülkelerde TIR karnesi vermeye yetkili kefil kuruluşların listesi ve bu kuruluşlar tarafından verilen TIR karnelerinin kapak sayfasının 4 üncü satırına basılan kaşe veya mühür ile atılan imza örnekleri Genel Müdürlükçe gümrük idarelerine bildirilir.
+(2) Bu kefil kuruluşlardan başka kuruluşlar tarafından verilen karneler kabul edilmez.
+(3) TIR karnesinin veri girişi sırasında, kayıp, çalıntı, yok olma veya firmanın ihraç edilmesi nedenleri ile "TIR karnesi kaydında tahdit var" uyarısı alınması halinde veri girişine devam edilmez (Mülga ibare:RG-11/2/2017-29976) (...).
+(4) Serbest Bölgeler de dahil olmak üzere, Türkiye Gümrük Bölgesindeki bir gümrük idaresinden başlayıp yine bu Bölge içindeki bir gümrük idaresinde sona eren taşımalar için TIR karnesi kullanılamaz.
+(5) (Ek:RG-11/2/2017-29976) Gümrük Yönetmeliğinin 33 no.lu ekinde yer alan, kaçakçılık yapılacağına dair ihbar, istihbarat, kuvvetli şüphe bulunan, gümrük idarelerinde risk verileri mevcut olan veya ATS cihazı takılan eşyanın sevkinde taşımaya ilişkin bilgiler, hareket veya giriş gümrük idaresinde işlemlerin tamamlanmasını müteakip bu idarelerce çıkış veya varış gümrük idaresine gecikmeksizin bildirilir.

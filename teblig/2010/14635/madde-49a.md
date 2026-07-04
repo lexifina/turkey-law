@@ -1,0 +1,4 @@
+Adli işleme konu olan TIR karneleri
+MADDE 49/A – (Ek:RG-11/2/2017-29976)
+(1) Eşya ve araç ile ilgili olarak adli makamlara intikal ettirilen usulsüzlüğe konu TIR karnesine ilişkin vergi takibini gerektiren bir durum bulunmaması halinde, TIR karnesi sonlandırılır ve TIR karnesi Volet-2 yaprağı ve dipkoçanına sonlandırma gerekçesine ilişkin gerekli meşruhat düşülür. TIR karnesinin “onaylı rapor” sayfası doldurulur. TIR/Transit Takip Programında Volet-2 kaydına ilişkin işlemler tamamlanarak sonlandırma gerekçesine ilişkin açıklama yapılır. Vergi takibini gerektiren bir durum bulunması halinde ise takibat ve buna bağlı mahkeme sonucuna göre işlem yapılır.
+(2) TIR karnesine gümrük idaresince el konulması halinde, gümrük idaresi tarafından karne cildinin arka kapağındaki kopartılabilir bölüm mühürlenir, imzalanır ve kopartılarak sürücüye verilir.
