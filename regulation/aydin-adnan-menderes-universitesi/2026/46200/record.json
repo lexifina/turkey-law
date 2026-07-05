@@ -1,0 +1,39 @@
+{
+  "checked_on": "2026-11-14",
+  "commencement_clauses": [
+    "MADDE 18- (1) Bu Yönetmelik yayımı tarihinde yürürlüğe girer."
+  ],
+  "date_evidence": [
+    [
+      "2026-07-05",
+      "05.07.2026",
+      "original gazette publication date in official listing"
+    ]
+  ],
+  "date_quote": "MADDE 18- (1) Bu Yönetmelik yayımı tarihinde yürürlüğe girer.",
+  "first_law": null,
+  "gazette": "33301",
+  "history": "current-text",
+  "images": {
+    "deferred": 0,
+    "omitted": 0,
+    "referenced": 0,
+    "source": 0
+  },
+  "in_force": "2026-07-05",
+  "in_force_basis": "source commencement clause: enters into force on gazette publication",
+  "issuer": "Aydın Adnan Menderes Üniversitesi",
+  "issuer_slug": "aydin-adnan-menderes-universitesi",
+  "kind": "regulation",
+  "label": "oldest version available",
+  "path": "regulation/aydin-adnan-menderes-universitesi/2026/46200",
+  "published": "2026-07-05",
+  "source": "https://www.mevzuat.gov.tr/anasayfa/MevzuatFihristDetayIframe?MevzuatTur=8&MevzuatNo=46200&MevzuatTertip=5",
+  "source_bytes": 28881,
+  "source_id": "8.5.46200",
+  "source_sha256": "503e972548916f22422d262f5d1524d0ea503e4d46bbf679d9d888f6e4e528b7",
+  "text_status": "as-enacted",
+  "title": "AYDIN ADNAN MENDERES ÜNİVERSİTESİ TARIMSAL BİYOTEKNOLOJİ VE GIDA GÜVENLİĞİ UYGULAMA VE ARAŞTIRMA",
+  "university_id": 176,
+  "word_count": 1353
+}
