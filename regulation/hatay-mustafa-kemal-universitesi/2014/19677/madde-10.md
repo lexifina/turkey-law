@@ -1,0 +1,3 @@
+Merkez Yönetim Kurulu
+MADDE 10 – (1) Merkez Yönetim Kurulu, Merkez Müdürü dahil beş kişiden oluşur. Diğer üyeler Merkezin çalışma alanları ile ilgili, tam gün çalışan, Merkez Müdürünün önereceği iki katı öğretim elemanı aday arasından Rektör tarafından seçilerek üç yıl için görevlendirilir. Süresi dolan üyeler yeniden görevlendirilebilir. Süresi bitmeden üyelikten ayrılanların veya altı aydan fazla Üniversite dışında görevlendirilenlerin yerine, süreyi doldurmak üzere yenileri görevlendirilir.
+(2) Merkez Yönetim Kurulu olağan olarak ayda en az bir, gerektiğinde de Merkez Müdürünün çağrısı üzerine çoğunluk sağlanarak toplanır. Kararlar, toplantıya katılanların salt çoğunluğu ile alınır.
