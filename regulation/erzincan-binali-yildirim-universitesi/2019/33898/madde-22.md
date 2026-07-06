@@ -1,0 +1,4 @@
+Ders yılı akademik başarı not ortalaması ve genel akademik not ortalaması hesaplama
+MADDE 22 – (1) Öğrencilerin akademik başarı not ortalamaları, yılsonunda öğrenci işleri tarafından hesaplanır. Bu hesaplama sırasında; öğrenci için ders yılı akademik başarı not ortalaması (DANO) ve genel akademik başarı not ortalaması (GANO) olmak üzere iki ortalama elde edilir. DANO hesabında ilgili dönemin ders kurulu veya klinik staj notları toplanarak kurul sayısına veya staj sayısına bölünür. GANO hesabında ise öğrencinin okul kayıt tarihinden itibaren aldığı tüm DANO’ların toplamı DANO sayısına bölünür, ayrıca başarı notlarının ağırlık katsayıları ve toplam ders kredisine oranları da hesaplamada dikkate alınır. Usulüne uygun hesaplamalar yapılarak elde edilen sayı, virgülden sonra iki hane olacak şekilde yuvarlatılır.
+ALTINCI BÖLÜM
+Devam Zorunluluğu, Sınavlar, Sınavlarda Usulsüzlük, Sınav Sonuçlarına İtiraz,

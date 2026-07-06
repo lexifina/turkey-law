@@ -1,0 +1,7 @@
+Ders kurulu başarısı ve ders yılı başarısı
+MADDE 32 – (1) Dönem I-II-III’te ders kurulu sonu sınavları ve yılsonu genel sınavı veya bütünleme sınavlarından alınan notlar başarı notunu belirler.
+(2) Her türlü sınav ve etkinlik 100 (yüz) tam puan üzerinden değerlendirilir. Sınavlarda başarılı olmak için 100 (yüz) tam puan üzerinden en az 60 (altmış) puan alınması gerekir (0.5 ve üzerindeki kesirli sayılar bir üst rakama yuvarlanır).
+(3) Kurul sonu sınavları ve yılsonu sınavlarında farklı derslerin sınav notu üzerine etki etme dereceleri belirlenirken ilgili dersin kurul sonu sınavı için o ders kurulu içindeki ve yılsonu final ve bütünleme sınavları için tüm eğitim-öğretim yılı boyunca anlattığı pratik ve teorik ders saati yükleri temel alınır.
+(4) (Değişik:23/10/2022-31992) Yılsonu geçme notu; dönem içinde yapılan ders kurulu sonu sınavı (ara sınav/vize) notlarının ortalamasının %60’ı ile yılsonu genel sınavı (final) notu ya da bütünleme sınavı notunun %40’ının toplamı ile bulunur. Yılsonu geçme notu 60 ve üzerinde olanlar ilgili ders yılını başarı ile tamamlamış sayılır.
+(5) (Değişik:23/10/2022-31992) Devam zorunluluğunu yerine getirerek yılsonu final sınavına girme hakkı kazandığı halde sınava girmeyen veya yılsonu geçme notu 60 puanın altında olan (dönem içi kurul sonu sınavı ortalaması ve final sınavı notları kullanılarak hesaplanan) öğrenci başarısız kabul edilir ve aynı yıl içerisinde yapılan bütünleme sınavına alınır.
+(6) (Mülga:23/10/2022-31992)

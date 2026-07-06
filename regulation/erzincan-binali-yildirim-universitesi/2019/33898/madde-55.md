@@ -1,0 +1,2 @@
+Dışarıdan ders izleme
+MADDE 55 – (1) Belirli konularda bilgilerini arttırmak amacıyla Fakülte Yönetim Kurulunca uygun görülenler Üniversite Yönetim Kurulunun belirlediği ilkeler çerçevesinde açılan dersleri izleyebilirler. Bu kişiler kayıt yaptırdıkları dersler için belirlenen bütün kurallara uymak zorundadırlar. Bu statüdekilere diploma verilmez ancak istendiğinde devam ve başarı durumlarını belirten bir belge verilir.

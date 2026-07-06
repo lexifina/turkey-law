@@ -1,0 +1,5 @@
+Ders kurulu notu hesaplama
+MADDE 31 – (1) Ders kurulu notu hesaplama ile ilgili esaslar aşağıdaki gibidir:
+a) (Değişik:23/10/2022-31992) Bir ders kurulu içindeki ders ağırlığı, kurul toplam ders yükünün % 5’inden fazla olan dersler baraja tabi olur. Öğrenci baraja tabi derslerin her birine ait toplam puanın en az %50’sini almak zorundadır, aksi halde puan düşürme işlemi yapılır. Bir ders kurulundaki derslerin bir veya daha fazlasından %50’den az not alan öğrencinin, o dersten aldığı not ile o dersin toplam notunun %50’si arasında kalan fark, ders kurulu sınavı toplam notundan düşülür. Baraj uygulaması yılsonu genel sınavı ve bütünleme sınavları için uygulanmaz.
+b) (Değişik:23/10/2022-31992) Ders kurulu notu; dönem I-II-III’te her kurul için yapılan ders kurulu sonu teorik sınav notu ve pratik sınav notunun toplamı ile bulunur. Ders kurulundaki farklı derslerin kurul sonu sınav notuna etki oranı, kurul içindeki ders saati yüklerine göre (teorik ve pratik toplam ders saatine göre) hesaplanır.
+c) Fakülte Yönetim Kurulu kararı ile ders kurulu başında ilan edilmek üzere ders kurulu notu hesaplanmasında farklı sınav tiplerinin ağırlıkları değiştirilebilir.
