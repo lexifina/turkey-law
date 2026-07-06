@@ -1,0 +1,1 @@
+[1] 6/7/2026 tarihli ve 33302 sayılı Resmî Gazete’de yayımlanan değişiklikle Yönetmeliğin adı “Mustafa Kemal Üniversitesi Ortadoğu Uygulama ve Araştırma Merkezi Yönetmeliği” iken metne işlendiği şekilde değiştirilmiştir.
