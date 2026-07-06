@@ -1,0 +1,25 @@
+{
+  "number": "17",
+  "number_as_published": "17",
+  "year": 2026,
+  "title": "council decision",
+  "decision_date": "2026-07-06",
+  "source": "https://www.mollakoy.bel.tr/meclis-kararlari/",
+  "official_document": "https://www.mollakoy.bel.tr/karar/cop-konteynerlerinin-satin-alinmasi-icin-cevre-sehircilik-ve-iklim-degisikligi-bakanligindan-yardim-talebinde-bulunulmasi-hk/114/",
+  "source_sha256": "b3d80d8f228b30e12b6430741c87425f5bc38615e37da11017047447f05cdc64",
+  "issuer": "Mollaköy Belediye Meclisi",
+  "history_type": "metadata",
+  "text_status": "metadata-only: subject appears to concern individual persons; official link only",
+  "in_force": "2026-07-06",
+  "in_force_basis": "Decision date as printed in the official council listing: 06 Temmuz 2026 00:00; adoption date of the council decision; legal commencement not asserted",
+  "missing": [
+    "complete official decision text",
+    "official annexes"
+  ],
+  "law_text_complete": false,
+  "privacy_withheld": true,
+  "official_page": "https://www.mollakoy.bel.tr/karar/cop-konteynerlerinin-satin-alinmasi-icin-cevre-sehircilik-ve-iklim-degisikligi-bakanligindan-yardim-talebinde-bulunulmasi-hk/114/",
+  "record_scope": "one council decision (number, date, subject as published)",
+  "date_read_from": "Karar Tarihi printed on the item page",
+  "document_note": "the decision text is on the official item page; not transcribed here"
+}
