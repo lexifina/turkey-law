@@ -1,0 +1,23 @@
+{
+  "number": "meeting-07-06",
+  "number_as_published": "meeting-07-06",
+  "year": 2026,
+  "title": "06.07.2026-TARIHLI-MECLIS-TOPLANTISI-KARAR-OZETLERI.pdf",
+  "decision_date": "2026-07-06",
+  "source": "https://bunyan.bel.tr/karar-ozetleri/",
+  "official_document": "https://bunyan.bel.tr/wp-content/uploads/2026/10/06.07.2026-TARIHLI-MECLIS-TOPLANTISI-KARAR-OZETLERI.pdf",
+  "source_sha256": "06c7b7e9e180d8e415e4734ef76ff80f1ba5999537479a574963e274923dbcaf",
+  "issuer": "Bünyan Belediye Meclisi",
+  "history_type": "metadata",
+  "text_status": "metadata-only: listing fields as published; complete decision text is in the linked official document, not transcribed",
+  "in_force": "2026-07-06",
+  "in_force_basis": "Decision date as printed in the official council listing: 06.07.2026; adoption date of the council decision; legal commencement not asserted",
+  "missing": [
+    "complete official decision text",
+    "official annexes"
+  ],
+  "law_text_complete": false,
+  "privacy_withheld": false,
+  "listing_label": "06.07.2026-TARIHLI-MECLIS-TOPLANTISI-KARAR-OZETLERI.pdf",
+  "record_scope": "one official file of council decisions (meeting)"
+}
