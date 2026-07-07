@@ -1,0 +1,24 @@
+{
+  "number": "meeting-07-07",
+  "number_as_published": "meeting-07-07",
+  "year": 2026,
+  "title": "07.07.2026 114 - 134 2026 Temmuz Ayı Meclis Karar Özetleri",
+  "decision_date": "2026-07-07",
+  "source": "https://www.soma.bel.tr/karar-detay/2026-tammuz-ayi-meclis-karar-oezetleri/87",
+  "official_document": "https://www.soma.bel.tr/media/meclis_kararlari/17839311812026TemmuzAyıMeclisKararOzetleri.pdf",
+  "source_sha256": "eddab26a23e71baccc2caea82bd67f1ddcca9c3a7ca5e32aaf1d25a6dd0d98a5",
+  "issuer": "Soma Belediye Meclisi",
+  "history_type": "metadata",
+  "text_status": "metadata-only: listing fields as published; complete decision text is in the linked official document, not transcribed",
+  "in_force": "2026-07-07",
+  "in_force_basis": "Decision date as printed in the official council listing: 07.07.2026; adoption date of the council decision; legal commencement not asserted",
+  "missing": [
+    "complete official decision text",
+    "official annexes"
+  ],
+  "law_text_complete": false,
+  "privacy_withheld": false,
+  "listing_label": "07.07.2026 114 - 134 2026 Temmuz Ayı Meclis Karar Özetleri",
+  "record_scope": "one official file of council decisions (meeting)",
+  "official_page": "https://www.soma.bel.tr/karar-detay/2026-tammuz-ayi-meclis-karar-oezetleri/87"
+}
