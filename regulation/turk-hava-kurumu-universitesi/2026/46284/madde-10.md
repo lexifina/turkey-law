@@ -1,0 +1,2 @@
+Yeterlik belirleme sınavı (YBS)
+MADDE 10- (1) YBS; güz dönemi başı, sonu ve bahar dönemi sonu olmak üzere akademik takvimde belirtilen tarihlerde yapılır. Güz dönemi başında yapılan sınava; STS’de başarılı olan öğrenciler ile hazırlık programında başarısız olmuş öğrenciler girme hakkına sahiptir. Güz ve bahar dönemleri sonunda yapılan sınava ise; en az charlie kurunu başarı ile tamamlamış öğrenciler girme hakkına sahiptir. YBS değerlendirme ve notlandırma kriterleri Senato tarafından belirlenir.
