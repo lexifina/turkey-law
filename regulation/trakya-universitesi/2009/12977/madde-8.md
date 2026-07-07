@@ -1,0 +1,2 @@
+Hazırlık sınıfı yaz okulu
+MADDE 8 – (1) Hazırlık sınıfında başarısız olan öğrenciler için Yüksekokul Kurulunun teklifi ve Senatonun onayı ile hazırlık sınıfı yaz okulu açılabilir. Hazırlık sınıfında yaz okulu zorunlu değildir. Hazırlık sınıfı yaz okulunda eğitim, 11/1/2007 tarihli ve 26400 sayılı Resmî Gazete’de yayımlanan Trakya Üniversitesi Yaz Okulu Eğitim-Öğretim Yönetmeliği hükümlerine ve Senato kararlarına göre yürütülür.

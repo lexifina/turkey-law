@@ -1,0 +1,4 @@
+Sınavlar ve değerlendirilmesi
+MADDE 12 – (Değişik:RG-9/10/2025-33042)(3)
+(1) Hazırlık sınıfında ölçme ve değerlendirme yeterlik ve seviye tespit sınavından hariç olmak üzere güz ve bahar yarıyıllarında birer ara sınav, birer kısa süreli sınav yapılarak ve birer performans görevi notu verilerek gerçekleştirilir. Sınav programları Yüksekokul Yönetim Kurulu tarafından belirlenir ve sınavların başlangıcından en az on beş gün önce Müdürlükçe ilan edilir.
+(2) Öğrencilerin ara sınav, kısa süreli sınav ve performans görevi uygulamalarına katılmaları gerekir. Ancak, Yüksekokul Yönetim Kurulu tarafından kabul edilen bir mazereti nedeni ile ara sınava katılmayan öğrencilere mazeretlerinin bitiminden itibaren yedi gün içinde başvurdukları takdirde mazeret sınavı açılır. Kısa süreli sınavların ve performans görevi değerlendirmelerinin mazeret sınavı yoktur.
