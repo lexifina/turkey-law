@@ -1,0 +1,3 @@
+Akademik danışmanlık
+MADDE 23- (1) Lisans/ön lisans diploma programlarında öğrenim gören her öğrenciye, öğrencinin akademik durumunu izlemek ve akademik konularda rehberlik etmek amacıyla ilgili birim tarafından programa başlayacağı ilk dönem ders kayıtları öncesinde Üniversite öğretim elemanları arasından biri akademik danışman olarak atanır.
+(2) Akademik danışman, öğrencinin akademik durumunu öğrenimi süresince izler, haftalık ders programının düzenlenmesi ve diğer akademik ve kariyer planlaması ile ilgili konularda öğrenciye rehberlik eder. Öğrencilerin, ders seçme, ders ekleme-bırakma, dersten çekilme işlemleri danışman onayı ile yapılır.

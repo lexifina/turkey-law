@@ -1,0 +1,8 @@
+Özel öğrenciler
+MADDE 8- (1) Özel öğrenci kabulü, YÖK’ün konuya ilişkin mevzuatı ve kararları doğrultusunda yapılır.
+(2) Üniversitenin herhangi bir diploma programında kayıtlı olmayan kişiler, başka bir yükseköğretim kurumu öğrencisi olma ve kayıtlı olduğu üniversitenin ders alması için öğrenciye izin vermiş olması koşuluyla, ilgili fakülte/yüksekokul yönetim kurulu kararı ile açılan derslere özel öğrenci statüsünde katılabilirler. Başvuru ve kayıt en geç akademik takvimde ilan edilen ders ekleme-bırakma dönemi içinde yapılır. (Mülga cümle:RG-8/7/2026-33304)
+(3) Öğrencilere, özel öğrenci statüsünde en fazla iki dönem izin verilir. (Değişik cümle:RG-8/7/2026-33304) Yaz okulunda alınan dersler izin verilen dönem hesabında dikkate alınmaz.
+(4) Özel öğrenci statüsünde ve değişim öğrencisi olarak ders alınan dönemler, öğrenim süresinden sayılır.
+(5) Özel öğrenciler, bu Yönetmelikte yer alan normal ders yükü kadar ders alabilirler ve katıldıkları derslerin kredilerine göre belirlenen öğrenim ücretini öderler.
+(6) Özel öğrenciler, Üniversite öğrencisi sayılmazlar ve öğrencilik haklarından yararlanamazlar. Ancak, diğer hususlarda Üniversite öğrencilerinin tabi olduğu mevzuat hükümlerine uymaları gerekir. Bu öğrencilere diploma veya unvan verilmez, istekleri üzerine Üniversitede aldıkları dersleri ve notları gösteren bir belge verilir.
+(7) Öğretim dili Türkçe olan programlarda öğrenim gören öğrencilerin öğretim dili yabancı dil olan programlardan da ders alabilmeleri için yabancı dil düzeylerinin yeterli olduğunu belgelemeleri gerekir. İlgili belgelerin geçerliliği Senato tarafından değerlendirilir.

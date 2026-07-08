@@ -1,0 +1,3 @@
+Yabancı dil hazırlık sınıfı
+MADDE 21- (1) Zorunlu yabancı dil hazırlık sınıfı yabancı dil seviye tespit sınavının sonucuna göre; yabancı dil seviyesi yeterli bulunanlar ile sınavdan muaf tutulanlar doğrudan birinci sınıfa başlarlar. Yabancı dil seviye tespit sınavına katılmayan veya bu sınavın sonucuna göre yabancı dil düzeyi yeterli bulunmayanlar zorunlu yabancı dil hazırlık sınıfına devam ederler.
+(2) (Değişik:RG-8/7/2026-33304) Üniversitede isteğe bağlı hazırlık sınıfı olan bölüm/programlara kayıt yaptıran öğrenciler isteğe bağlı olarak bir yıl süreli İngilizce hazırlık sınıfına devam edebilirler. İsteğe bağlı İngilizce hazırlık okumak isteyen öğrencilerin de yabancı dil seviye tespit sınavına katılmaları gerekir. İsteğe bağlı hazırlık ücrete tabidir.

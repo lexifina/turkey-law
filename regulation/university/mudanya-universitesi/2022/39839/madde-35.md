@@ -1,0 +1,6 @@
+Sınav sonuçlarının ilanı ve itiraz
+MADDE 35- (1) Ara sınavlar ile dönem sonu ve bütünleme sınav sonuçları akademik takvimde yer alan süreler içerisinde öğretim elemanınca ilan edilir.
+(2) Öğrenciler, ilan edilen sınav sonuçlarının ilanından itibaren en geç üç iş günü içinde kayıtlı oldukları dekanlığa/yüksekokul müdürlüğüne bir dilekçe vererek sınav kâğıdının tekrar incelenmesini isteyebilirler.
+(3) İtiraz üzerine sınav kâğıdı, dersin öğretim elemanı tarafından, itiraz süresinin bitiminden itibaren en geç beş iş günü içinde incelenir, sonuç yazılı ve gerekçeli olarak ilgili dekanlığa/yüksekokul müdürlüğüne bildirilir.
+(4) Bir dersin ilan edilmiş olan dönem sonu başarı notunda yer alabilecek maddi hatanın düzeltilmesi, ilgili öğretim elemanının bildirimi üzerine ilgili birim yönetim kurulu kararı ile yapılır.
+(5) Notlarda yer alabilecek maddi hatalara yönelik düzeltmelerin, akademik takvimde yer alan eksik notların teslimi için belirtilen son güne kadar yapılması gerekir. Bu tarihten sonra yapılacak düzeltmeler, en geç söz konusu notun verildiği dönemin dönem sonu sınavlarının bitimini izleyen onuncu haftanın sonuna kadar olmak koşuluyla fakülte/meslek yüksekokul yönetim kurulu kararıyla olur.

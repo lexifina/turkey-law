@@ -1,0 +1,32 @@
+{
+  "checked_on": "2026-11-14",
+  "commencement_quotes": [
+    "Yürürlük\nMADDE 43- (1) Bu Yönetmelik yayımı tarihinde yürürlüğe girer.\n"
+  ],
+  "completeness": "text",
+  "date_quote": "amendment Gazette table: 8/7/2026",
+  "first_law": null,
+  "gazette": "32019",
+  "images": {
+    "deferred": 0,
+    "omitted": 0,
+    "referenced": 0,
+    "source": 0
+  },
+  "in_force": "2026-07-08",
+  "in_force_basis": "latest amendment Gazette date printed by the source for its current consolidated text",
+  "issuer": "Mudanya Üniversitesi",
+  "kind": "regulation",
+  "notes": [],
+  "published": "2022-11-20",
+  "source": "https://www.mevzuat.gov.tr/anasayfa/MevzuatFihristDetayIframe?MevzuatTur=8&MevzuatNo=39839&MevzuatTertip=5",
+  "source_bytes": 190623,
+  "source_id": "8.5.39839",
+  "source_sha256": "228bb1dce038dca812f536c1866f9e414a2c1cf3a9702dc44f37dbe67b1a367f",
+  "structure": "article-files",
+  "text_status": "current-consolidated",
+  "title": "MUDANYA ÜNİVERSİTESİ ÖN LİSANS VE LİSANS EĞİTİM-ÖĞRETİM VE SINAV YÖNETMELİĞİ",
+  "university_id": 1716,
+  "version_label": "oldest version available",
+  "word_count": 6454
+}

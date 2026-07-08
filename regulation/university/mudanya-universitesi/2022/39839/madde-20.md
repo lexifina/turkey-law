@@ -1,0 +1,4 @@
+İngilizce yeterlik
+MADDE 20- (1) Üniversitenin öğretim dili İngilizce olan programlarına başlayabilmek için öğrencilerin İngilizce yeterliklerini belgelemeleri zorunludur. İngilizce yeterliklerini hazırlık birimi tarafından düzenlenen İngilizce sınavlarıyla belgelendiren veya YÖK veya Senato tarafından eşdeğerliği kabul edilen ve geçerlilik süresi belirlenen ulusal veya uluslararası sınavlarda, yine Senato tarafından belirlenen düzeyde alınmış sınav sonuç belgeleri ile başarılı olduklarını belgelendirenler doğrudan ilgili programlarına başlar. Adaylar geçerli İngilizce yeterlik belgesini başvuru veya kayıt sırasında sunmak zorundadırlar.
+(2) İngilizce dil yeterliğinin belirlenmesine yönelik yapılan sınavlar, bu sınavlardan muafiyet koşulları ve İngilizce hazırlık programı öğrenimi Üniversite tarafından belirlenen esaslara göre yürütülür.
+(3) Bu madde hükümleri yatay veya dikey geçişle kayıt yaptıran öğrenciler hakkında da uygulanır.
