@@ -1,0 +1,18 @@
+{
+  "number": "767",
+  "title": "PLAN DEĞİŞİKLİĞİ",
+  "decision_date": "2026-07-08",
+  "source": "https://www.tekirdag.bel.tr/meclis_donemleri/meclis_karar_ozetleri/2866",
+  "official_document": "https://www.tekirdag.bel.tr/karar_metin_goruntule/2866/767",
+  "source_sha256": "8d8be2b8031ce9064d76a7d715ff8377f10a992b6471f4842e27de91451a1f70",
+  "issuer": "Tekirdağ Büyükşehir Belediye Meclisi",
+  "history_type": "metadata",
+  "text_status": "metadata-only; official decision text and annexes not transcribed",
+  "in_force": "2026-07-08",
+  "in_force_basis": "Official Birleşim Tarihi: 08.07.2026; adoption date for catalogue metadata; legal commencement not asserted",
+  "missing": [
+    "complete official decision text",
+    "official annexes, including any normative images"
+  ],
+  "law_text_complete": false
+}
