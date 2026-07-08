@@ -1,0 +1,6 @@
+Diğer hükümler
+MADDE 30 – (1) (Değişik:RG-4/5/2023-32180) Üniversitenin lisansüstü programlarına başvuran adaylardan ALES puanı olmayanlar, GRE ya da GMAT puanları ile başvurabilir. Hangi sınavın hangi puanla kabul edileceği Senato tarafından belirlenir. Yabancı uyruklu adaylar ile lisans eğitiminin tamamını yurt dışında tamamlayan T.C. vatandaşı adayların lisansüstü programlara kabulünde ALES veya eşdeğer sınav ve puanların aranıp aranmayacağı enstitü kurulu önerisi ile Senato tarafından belirlenir.
+(2) Yüksek lisans ve doktora programları ile sanatta yeterlik çalışmasına, hangi lisans ve yüksek lisans programlarından mezun olanların başvurabileceği, Senato tarafından belirlenmekle birlikte varsa Yükseköğretim Kurulunun ilgili kararı ile de belirlenir.
+(3) Üniversite; öğrenci kabul edecek lisansüstü programların adlarını, başvurma koşullarını, son başvuru tarihini, istenilen belgeleri ve diğer hususları ilan eder. Söz konusu ilan her yarıyıl başında öğrenci almak üzere verilir.
+(4) Tezsiz yüksek lisans programları hariç, aynı anda birden fazla lisansüstü programa kayıt yaptırılamaz ve devam edilemez.
+(5) (Ek:RG-8/7/2026-33304) Doğum yapan lisansüstü kadın öğrencilere talepleri halinde doğum sonrası iki dönem ek süre verilebilir, verilen bu ek süreler azami süreden sayılmaz.
