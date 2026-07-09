@@ -1,0 +1,22 @@
+{
+  "number": "100",
+  "number_as_published": "2026/100",
+  "year": 2026,
+  "title": "Mali Hizmetler Müdürlüğünün ekli Destek Hizmetleri Müdürlüğü ile Sosyal Hizmetler Müdürlüğünün 2026 Yılı Tarife Teklifi.",
+  "decision_date": "2026-07-09",
+  "source": "https://eyupsultan.bel.tr/tr/main/pages/2026-temmuz-ayi-meclis-kararlari/2878",
+  "official_document": "https://eyupsultan.bel.tr/tr/main/pages/2026-100/2884",
+  "source_sha256": "07609e0ce16be7692ac46326ac5e7a645c908a923dd32d80831ee4fc57e157ad",
+  "issuer": "Eyüpsultan Belediye Meclisi",
+  "history_type": "metadata",
+  "text_status": "metadata-only: listing fields as published; complete decision text is in the linked official document, not transcribed",
+  "in_force": "2026-07-09",
+  "in_force_basis": "Decision date as printed in the official council listing: 09.07.2026 (meeting date at the start of the decision page); adoption date of the council decision; legal commencement not asserted",
+  "missing": [
+    "complete official decision text",
+    "official annexes"
+  ],
+  "law_text_complete": false,
+  "privacy_withheld": false,
+  "decision_page_sha256": "3db94b645e97350cf740d2c5e8c7d503dc8ad2b7f1dec4ff07f9b2b347757207"
+}
