@@ -1,0 +1,5 @@
+Öğretim esasları
+MADDE 16- (Değişik:RG-9/7/2026-33305)
+(1) Üniversitede öğretim, ders geçme esasına dayalıdır ve kredili sisteme göre yürütülür. Ders planında yer alacak dersler, çıkarılacak dersler ve bunların yerine intibakı yapılacak dersler birim kurulunun önerisiyle Senato tarafından karara bağlanır.
+(2) Ders planları; Üniversitenin kurumsal öğrenme çıktıları, programların özellikleri ve öğrenci merkezli öğrenim yaklaşımı esas alınarak, ön lisans programları için Türkiye Yüksek Öğrenim Yeterlilikler Çerçevesi beşinci, lisans programları için altıncı düzey yeterlilik tanımları ile Temel Alan Yeterlilik tanımları ve kredi aralıkları göz önünde bulundurularak, öğrencilerin ilgili programı başarı ile tamamladıkları zaman kazanmış olmaları beklenen bilgi, beceri ve yetkinlik düzeyleri açık bir şekilde belirtilerek tasarlanır ve güncellenir.
+(3) Örgün eğitim-öğretim programlarında yer alan ve Senato tarafından uygun görülen dersler, YÖK’ün belirlediği esaslar çerçevesinde, Senatoca belirlenen esaslara göre tamamen veya kısmen uzaktan öğretim yoluyla verilebilir.

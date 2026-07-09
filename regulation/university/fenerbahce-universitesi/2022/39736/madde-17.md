@@ -1,0 +1,5 @@
+Öğretim yılı, yaz okulu ve akademik takvim
+MADDE 17- (1) (Değişik:RG-25/3/2024-32500) Bir öğretim yılı, sınavlar hariç olmak üzere, her biri en az (Ek ibare:RG-9/7/2026-33305) on dört hafta olan 70 iş gününü kapsayan güz ve bahar yarıyıllarından oluşur.
+(2) Senatonun kararı ile yaz okulu açılabilir. Yaz okulu ders dönemi ve bunu takip eden sınav döneminden oluşur. Yaz okulunda açılan bir dersin toplam saati, o dersin ilgili yarıyıldaki toplam saatine eşittir. Yaz okulunun süresi ders ve sınav dönemi olmak üzere azami sekiz haftadır. Yaz okulundan ders almak zorunlu değildir. Yaz okulu, normal öğrenim süresinin hesaplanmasında dikkate alınmaz.
+(3) Bir öğretim yılındaki kayıt, ders, sınav ve benzeri faaliyetlerin süre ve tarihleri akademik takvimde gösterilir. Akademik takvim Rektörün teklifi ve Senatonun onayı ile kesinlik kazanır. Senato, sınırlarını açıkça belirlemek kaydıyla acil durumlarda akademik takvimde kısmi değişiklikler yapma konusunda Rektöre yetki devrinde bulunabilir.
+(4) (Mülga:RG-2/2/2026-33156)

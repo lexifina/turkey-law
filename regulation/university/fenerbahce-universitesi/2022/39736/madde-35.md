@@ -1,0 +1,4 @@
+İlişik kesme
+MADDE 35- (1) (Mülga:RG-9/7/2026-33305)
+(2) Öğrencinin kayıt, kayıt yenileme ve ders ekleme-bırakma süreleri içinde Üniversiteden ilişiğinin kesilmesi durumunda, ilgili yarıyılda kayıtlı olduğu dersler, kayıtlarından düşürülür. Bu sürenin bitiminden sonra Üniversiteden ilişiği kesilen öğrencilerin, yarıyıl sonu başarı notu oluşmamış olan dersleri için dersten çekilme işlemi yapılır. Yarıyıl sonu başarı notu oluşmuş ise dersler, notlarıyla birlikte kayıtlarına geçirilir.
+(3) Herhangi bir sebeple Üniversite ile ilişiği kesilen öğrencinin Üniversiteye karşı herhangi bir yükümlülüğünün olmaması, ilişiğinin kesildiği yarıyıl/yıl dahil önceki tüm mali sorumlulukları yerine getirmesi ve kendisine kullanım için Üniversite tarafından sağlanan eşya ve teçhizatı hasarsız olarak iade etmesi gerekir.
