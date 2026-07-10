@@ -1,0 +1,5 @@
+Yeni kayıt ve kayıt yenileme
+MADDE 7- (1) Yeni kayıt ve kayıt yenileme tarihleri, süreleri, usulleri, kayıtta istenecek belgeler ve kayıt koşulları; Üniversite Yönetim Kurulunun belirleyeceği genel ilkeler çerçevesinde, Fakülte Yönetim Kurulu tarafından belirlenir. Öğrenci, kayıt yaptırmak için belirlenen bu koşullara uymak ve ilgili mevzuat hükümleri ile Üniversite Yönetim Kurulunca belirlenen bedelleri süresi içinde ödemek zorundadır.
+(2) Yeni kayıtta, kayıt koşullarını yerine getirmeyen ve kaydını süresi içinde yaptırmayan öğrenci kayıt hakkını kaybeder.
+(3) Anadolu Üniversitesi Açıköğretim Fakültesine yeni kayıt yaptıracak öğrenci, varsa bu fakültedeki önceki kaydını sildirmekle yükümlüdür. Bu yükümlülüğünü yerine getirmeyen öğrencinin eski kaydı, tespit edildiği tarihte silinir ve yeni kayıt ile öğrenciliği devam eder. Bu durumdaki öğrencinin önceki kaydına ilişkin hakları sona erer.
+(4) Açıköğretim fakültesine kayıtlı öğrenci, öğrenimine devam etmek istediği dönemin başında, kayıt yenileme tarihleri arasında kaydını yenilemek zorundadır. Kaydını yenilemeyen öğrenci, o dönemde sınavlara giremez ve öğrencilik haklarından yararlanamaz.

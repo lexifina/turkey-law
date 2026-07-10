@@ -1,0 +1,5 @@
+Dersler
+MADDE 6- (1) (Değişik cümle:RG-10/7/2026-33306)[1] Dersler zorunlu/seçmeli olmak üzere teorik derslerden ve atölye, laboratuvar, pratik çalışma, staj gibi uygulamalardan oluşur. Açıköğretim, uzaktan öğretim ve yüz yüze öğretim yöntemleriyle dersler yapılabilir. Derslerin hangi yarıyılda açılacağı, Fakülte Kurulunun kararı ve Senatonun onayıyla belirlenir.
+(2) Bölüm ve programlardaki derslerin kredileri ile haftalık saatleri, varsa ön koşulları, derslerin yarıyıllara göre dağılımı ile laboratuvar, pratik çalışma, staj gibi uygulama dersleri; bu uygulama derslerinden hangilerinin yüz yüze verileceği, yüz yüze verilecek derslerin devam koşulları ve örgün öğretim öğrencilerinin alabileceği dersler, Fakülte Kurulunun kararı ve Senatonun onayı ile belirlenir.
+(3) Derslerin kredileri, öğrencilerin iş yükü dikkate alınarak belirlenen AKTS kredileridir.
+(4) Fakülte Kurulu tarafından belirlenecek dersler için akademik danışmanlık hizmeti; uygun bulunan yer ve zamanlarda, yüz yüze, internet ortamında eş zamanlı veya eş zamansız ya da video konferans yoluyla sunulabilir.

@@ -1,0 +1,2 @@
+Örgün öğrencinin ders alması
+MADDE 9- (1) Yükseköğretim kurumlarının örgün eğitim-öğretim programlarından birine kayıtlı öğrenci, Açıköğretim fakültesinden; toplam kredisinin %25’ini geçmemek koşuluyla, Senatonun belirlediği esaslara göre ders alabilir. Öğrencinin aldığı derslerden, mevcut notlarının kayıtlı olduğu yükseköğretim kurumuna transferi veya bu süreçle ilgili herhangi bir olumsuzluk veya hak kaybından dolayı Üniversite sorumlu tutulamaz.

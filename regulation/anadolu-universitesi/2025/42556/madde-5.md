@@ -1,0 +1,2 @@
+Eğitim-öğretim süresi
+MADDE 5- (1) Öğrencilere, öğrenimlerini tamamlamaları için tanınan program süresi; ön lisans programlarında dört yarıyıl, lisans programlarında ise sekiz yarıyıldır. Azami süreler ise öğrencinin ilk kayıt yaptırdığı dönemden başlamak üzere; ön lisans programları için sekiz yarıyıl, lisans programları için on dört yarıyıldır. Öğrenci, azami süreler boyunca öğrencilik haklarından yararlanır ancak kayıt yenilemediği dönemlerde bu haklardan yararlanamaz. Öğrencinin kayıt yenilemediği dönemler de azami eğitim-öğretim süresinden sayılır.
