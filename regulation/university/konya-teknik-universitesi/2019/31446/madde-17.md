@@ -1,0 +1,10 @@
+DÖRDÜNCÜ BÖLÜM
+Eğitim-Öğretim Süreleri, Öğrenimi Bitirme ve Diplomalar
+Eğitim-öğretim süresi ve ek süreler
+MADDE 17 – (1) Öğrenci, bir yıl süreli yabancı dil hazırlık sınıfı hariç, kayıtlı olduğu programa ilişkin derslerin verildiği yarıyıldan başlamak üzere her yarıyıl için kayıt yaptırıp yaptırmadığına bakılmaksızın öğrenim süresi iki yıl olan önlisans programlarını azami dört yıl, öğrenim süresi dört yıl olan lisans programlarını azami yedi yılda tamamlamak zorundadır. Hazırlık eğitim süresi azami iki yıldır. Ancak bu süreler sonunda kayıtlı olduğu programdan mezun olabilmek için son sınıf öğrencilerine başarısız oldukları bütün dersler için iki ek sınav hakkı verilir.
+(2) Azami öğrencilik süresinin sonunda başarısız olduğu ders sayısını ek sınav hakkını kullanmadan en fazla beş derse kadar indiren öğrenciye dört yarıyıl öğrencilik hakkı verilir.
+(3) Ek sınavlar sonunda;
+a) Başarısız olduğu ders sayısını beş derse kadar indiren öğrenciye bu dersler için üç yarıyıl öğrencilik hakkı verilir.
+b) Sadece bir dersten başarısız olan öğrenciye, öğrencilik hakkından yararlanmaksızın, başarısız olduğu ders için sınırsız sınav hakkı verilir.
+(4) Kayıtlı oldukları programdan mezun olmak için gerekli bütün derslerden geçer not aldıkları hâlde bu Yönetmelikte başarılı sayılabilmeleri için öngörülen not ortalamalarını sağlayamamaları sebebiyle ilişikleri kesilme durumuna gelen son dönem öğrencilerine not ortalamalarını yükseltmek üzere diledikleri derslerden sınırsız sınav hakkı tanınır. Bunlardan uygulamalı, uygulaması olan ve daha önce alınmamış dersler dışındaki derslere devam şartı aranmaz. Açılacak sınavlara, üst üste veya aralıklı olarak toplam üç eğitim-öğretim yılı hiç girmeyen öğrenci, sınırsız sınav hakkından vazgeçmiş sayılır ve bu haktan yararlanamaz. Sınırsız hak kullanma durumunda olan öğrenciler sınava girdiği ders başına öğrenci katkı payını/öğrenim ücretini ödemeye devam ederler. Ancak bu öğrenciler, sınav hakkı dışındaki diğer öğrencilik haklarından yararlanamazlar.
+(5) Üniversiteden süreli uzaklaştırma cezası olan öğrencilerin ceza süreleri eğitim-öğretim süresinden sayılır.

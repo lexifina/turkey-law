@@ -1,0 +1,5 @@
+Eğitim-öğretim planları, uygulama ve stajlar
+MADDE 10 – (1) Bir sonraki akademik yıla ait eğitim-öğretim planı, ilgili bölüm kurulunun önerisi üzerine ilgili kurullarca karara bağlanarak en geç Mayıs ayı sonuna kadar Rektörlüğe sunulur ve Senatonun onayı ile kesinleşir.
+(2) Eğitim-öğretim planı, teorik ve/veya uygulamalı derslerin yer aldığı listedir. Ön şartlı dersler ve eğitim-öğretim planındaki değişikliklerden kaynaklanan ders intibakları, ilgili bölüm kurulunun önerisi üzerine ilgili kurullarca karara bağlanarak Senatonun onayı ile kesinleşir.
+(3) Bir programdaki toplam AKTS kredisi, Yükseköğretim Kurulu Başkanlığınca ilgili programın yer aldığı diploma düzeyi ve alan için yükseköğretim yeterlilikler çerçevesine göre belirlenen kredi aralığına göre, her yarıyıl 30 olmak üzere, önlisans programları için 120 ve lisans programları için 240’tır.
+(4) Birimlerin/programların staj, uygulama ve benzeri çalışmalarla ilgili esasları ilgili kurulların teklifi ile (Değişik ibare:RG-10/7/2026-33306) Senato tarafından belirlenir.

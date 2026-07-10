@@ -1,0 +1,2 @@
+Sınav sonucuna itiraz
+MADDE 14 – (1) Öğrenci, sınav sonuçlarının ilânından itibaren en geç beş iş günü içinde maddi hata gerekçesiyle ilgili müdürlüğe/dekanlığa yazılı olarak başvurmak suretiyle sınav sonuçlarına itiraz edebilir. İtiraz üzerine idarece yapılacak inceleme sonucu maddî hata tespit edilirse, gerekli düzeltmeler ilgili yönetim kurulu kararı ile kesinlik kazanır. Sonuç öğrenciye ve dersin sorumlu öğretim elemanına bildirilir.

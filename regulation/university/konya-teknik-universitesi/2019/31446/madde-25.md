@@ -1,0 +1,5 @@
+Tebligat ve adres bildirme
+MADDE 25 – (1) Her türlü tebligat öğrencinin Üniversiteye kayıt sırasında bildirdiği veya daha sonra öğrenci bilgi sisteminde güncellediği posta adresine taahhütlü olarak yapılmak veya Üniversite tarafından verilen resmi kullanıcı adına tanımlanmış e-posta adresine gönderilmek veya ilgili meslek yüksekokulunda/fakültede ilan edilmek suretiyle tamamlanmış sayılır.
+(2) Öğrenci Üniversite tarafından verilen resmi e-posta adresini aktif durumda tutmak, sürekli e-postalarını takip etmek ve Üniversiteye kayıt sırasında bildirdiği adresi değiştirdiği takdirde yeni adresini öğrenci bilgi sistemi üzerinden güncellemek zorundadır.
+(3) Öğrencinin takip etmemesi nedeniyle veya e-postanın gönderildiği resmi e-posta adresinin aktif olmaması nedeniyle okunmamış tebligatlar ile yanlış veya eksik beyan edilmiş adrese yapılmış tebligatlar öğrenciye tebliğ edilmiş sayılır.
+(4) Öğrencilerin genelini ilgilendiren yönetmelik, yönerge, senato esasları, akademik işlemler ve değişiklikler ile sair işlemlere ilişkin düzenlemeler Üniversitenin resmi internet sitesinde yayımlanır. Öğrenci bu ilan ve duyuruları takip etmekle yükümlüdür.

@@ -1,0 +1,18 @@
+Sınavlar
+MADDE 13 – (1) Sınavlar; ara sınav, mazeret ara sınavı, genel sınav, tek ders sınavı, muafiyet sınavı, bütünleme sınavı ve ek sınavdır.
+a) Ara sınav: Eğitim-öğretim dönemi içerisinde yapılan sınavdır. Ara sınavların hangi tarihte ve nerede yapılacağı, sınav tarihinden en az iki hafta önce ilgili birimlerce tespit ve ilân edilir.
+b) Mazeret ara sınavı: Mazereti nedeniyle ara sınavlara giremeyen öğrenciler için düzenlenen sınavdır. Ara sınavlara girme hakkı olduğu halde bu sınavlara giremeyen öğrencilerden haklı ve geçerli mazeretleri ilgili yönetim kurullarınca kabul edilenler, ara sınav haklarını aynı yarıyıl içinde, ilgili birimce tespit ve ilân edilen gün, saat ve yerde kullanırlar. Mazeret ara sınavları için ikinci bir mazeret ara sınav hakkı verilmez.
+c) Genel sınav: Eğitim-öğretim dönemi sonunda yapılan ve dönem boyunca işlenen bütün konular ile yapılan çalışmaları kapsayan sınavdır. Bir dersin genel sınavı, o dersin tamamlandığı yarıyıl sonunda yapılır. Genel sınava, derse devam zorunluluğunu yerine getiren, ödev, çalışma ve benzeri etkinliklerdeki yükümlülüklerinden ve uygulamalı derslerin uygulamalarından başarılı olan öğrenci girebilir.
+ç) Bütünleme sınavı: Bir dersin bütünleme sınavı, o dersin genel sınavının bitiminden sonra akademik takvimde belirtilen tarihler arasında yapılan sınavdır. Bu sınava, genel sınava girme hakkına sahip olup da sınava girmeyen veya girdiği halde başarı notu en fazla DC olan öğrenciler girebilir.
+d) Tek ders sınavı: Mezuniyetleri için tek dersi kalan öğrenciler veya mezuniyetleri için tek dersi ve stajı kalan öğrenciler için yapılan sınavdır. Öğrenci dilekçe ile başvurması halinde bütünleme/yaz öğretimi sınav takviminin sona ermesini takip eden bir ay içerisinde birimlerce açılacak tek ders sınavına girebilir. Tek ders sınavında ara sınav şartı aranmaz. Tek ders sınavına aşağıdaki öğrenciler giremez:
+1) Dersi daha önce hiç almayan öğrenciler.
+2) Devamsızlıktan kalan öğrenciler.
+3) Dersin devamını daha önce almakla birlikte dersin uygulamasından başarısız olduğu için dersin devamını yeniden almak zorunda olan öğrenciler.
+4) Bitirme ödevi/bitirme tasarım projesi niteliğindeki derslerden başarısız olan öğrenciler.
+e) (Değişik:RG-10/7/2026-33306) Muafiyet sınavı: Üniversiteye yeni kayıt yaptıran öğrenciler için zorunlu yabancı dil dersi veya yabancı dil hazırlık sınıfından muaf olmak için ilgili dil dersinden yarıyıl başında açılan sınavdır. Bu sınavlara ilişkin usul ve esaslar Senato tarafından belirlenir.
+f) Ek sınav: Azami öğrenim sürelerini tamamlayanlardan, 12 nci madde hükümleri çerçevesinde, devam etme zorunluluğunun olmadığı ve başarısız olduğu bütün dersler için yapılan sınavdır.
+(2) Aynı yarıyılda yer alan derslerden bir günde en fazla iki dersin ara sınavı, genel sınavı ve bütünleme sınavı yapılabilir. Bu hüküm birinci fıkrada belirtilen diğer sınavlar için uygulanmaz.
+(3) Sınavlar yazılı, sözlü, yazılı-sözlü veya uygulamalı olarak yapılabilir. Sınavların sözlü veya uygulamalı olarak yapılmalarına ve uygulama, staj, tez, proje ve benzeri çalışmaların değerlendirilme esaslarına ilgili bölüm kurulu karar verir ve en geç yarıyıl başında öğrencilere duyurulur.
+(4) Öğrenci, öğrenci kimliği ile sınava ilân edilen gün, saat ve yerde girmek zorundadır. Gerekli görülen hallerde ilgili yönetim kurulu kararı ile cumartesi ve pazar günlerinde de sınav yapılabilir.
+(5) Öğretim elemanı, sınav sonuçlarını ilgili birimin ilan ettiği tarihe kadar otomasyon sistemine girmek ve sınav evrakını ilgili birime teslim etmek zorundadır.
+(6) Sınavlara ilişkin belge ve tutanaklar ilgili birimler tarafından en az iki yıl saklanır.
