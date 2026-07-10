@@ -1,0 +1,2 @@
+Ders yükü
+MADDE 24 – (1) Tezli yüksek lisans programı, toplam yirmi bir krediden az olmamak şartı ile en az yedi ders ile seminer, uzmanlık alan dersleri, tez önerisi ve tez çalışmasından oluşur. Seminer, uzmanlık alan dersi, tez önerisi ve tez çalışması başarılı veya başarısız olarak değerlendirilir. Tezli yüksek lisans programı eğitim ve öğretim planı, her bir eğitim ve öğretim yarıyılında 30 AKTS kredisinden az olmamak şartıyla dört yarıyılda toplam en az 120 AKTS kredisinden oluşur.

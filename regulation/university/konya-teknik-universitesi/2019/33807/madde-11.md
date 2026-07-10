@@ -1,0 +1,2 @@
+Yeni kurulan veya gelişmekte olan üniversitelerden öğrenci kabulü
+MADDE 11 – (1) Diğer üniversiteler ve yüksek teknoloji enstitülerinden, yürürlükteki mevzuat çerçevesinde Üniversiteye lisansüstü eğitim ve öğretim görmek için gönderilen araştırma görevlisi, Yükseköğretim Kurulunca belirlenen ilkeler ve ilgili mevzuat doğrultusunda sınav ve değerlendirme yapılmaksızın başvurdukları lisansüstü programa kaydedilir ve o programın EABD’sinde görevlendirilir.

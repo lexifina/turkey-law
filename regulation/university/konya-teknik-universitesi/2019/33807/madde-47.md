@@ -1,0 +1,7 @@
+Diğer hükümler
+MADDE 47 – (1) Bir öğrenci birden fazla tezli lisansüstü programına aynı anda kayıtlı olamaz. Ancak biri tezli yüksek lisans veya doktora programı ile biri tezsiz yüksek lisans programı olmak üzere (Ek ibare:RG-21/9/2023-32316) Enstitüde aynı anda en fazla iki farklı lisansüstü programına kayıtlı olabilir.
+(2) Öğrenciler ile aralarında üçüncü dereceye kadar akrabalık veya menfaat/husumet ilişkisi gibi kanaati etkileyecek bir durumu bulunan öğretim elemanları, danışman, jüri üyesi ve tez izleme komitesi üyesi olarak teklif edilemezler ve atanamazlar.
+(3) Enstitünün bir lisansüstü programına yatay geçiş veya diğer yollarla gelen öğrencinin azami öğrenim süresi, geldiği lisansüstü programda geçirdiği süre de dikkate alınarak belirlenir.
+(4) Lisansüstü öğrencileri, disiplin iş ve işlemlerinde 18/8/2012 tarihli ve 28388 sayılı Resmî Gazete’de yayımlanan Yükseköğretim Kurumları Öğrenci Disiplin Yönetmeliği hükümlerine tabidir. Öğrencinin, üniversiteden çıkarma cezasını gerektirecek yargı süreci içerisinde olması durumunda, öğrenci veya personel için tehdit oluşturması muhtemel durumların engellenmesi için disiplin kurulu gerekli tedbirleri alır.
+(5) İhtilaflı durumlarda karar almaya yetkili merci Enstitü Yönetim Kuruludur.
+(6) (Ek:RG-21/9/2023-32316) Afet ve salgınlarda tez aşamasındaki lisansüstü eğitim öğrencilerine talepleri halinde bir dönem, afet veya salgının aşamasına göre tekrar başvurmaları durumunda bir dönem daha olmak üzere en fazla iki dönem ek süre verilebilir, verilen bu ek süreler azami süreden sayılmaz.

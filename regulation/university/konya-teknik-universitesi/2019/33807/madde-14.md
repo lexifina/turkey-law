@@ -1,0 +1,3 @@
+Kayıt dondurma
+MADDE 14 – (1) Eğitim ve öğretime devam edemeyecek olan ve mazeretini kanıtlayan belge ile Enstitü Müdürlüğüne başvuran öğrencinin mazereti yerinde görüldüğü takdirde Enstitü Yönetim Kurulu kararıyla öğrencinin kaydı (Değişik ibare:RG-21/9/2023-32316) mazeretin süresi de dikkate alınarak dönem esasına göre dondurulabilir. Kayıt dondurma süresi, azami öğrenim süresinin hesabında dikkate alınmaz.
+(2) Kayıt dondurma işleminin yapılabilmesi için hastalık ve doğum raporlarının resmi/özel yataklı sağlık kurum ve kuruluşlarından alınması; doğal afet ve benzeri durumların ise yerel mülki idari amirinin gerekçeli resmi yazısı ile belgelendirilmesi ve bunların Enstitü Yönetim Kurulu tarafından yerinde bulunması gerekir.

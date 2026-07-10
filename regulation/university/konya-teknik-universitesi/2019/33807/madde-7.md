@@ -1,0 +1,3 @@
+Kayıt
+MADDE 7 – (1) Lisansüstü programa kayıt hakkı kazanan adayların listesi, Enstitü Müdürlüğü tarafından ilan edilir. Aday kayıt işlemleri, Enstitü Müdürlüğü tarafından belirlenen takvime göre yapılır. Kayıt hakkı kazanan aday, ilanda yazılı belgeler ile ilanda belirtilen süre içerisinde başvurduğu programa şahsen veya noter vekaletnamesine sahip vekili aracılığıyla kayıt yaptırabilir.
+(2) Kesin kayıt süresi sonunda kontenjanlarda açık olması durumunda, açık kalan kontenjan sayısı kadar olmak üzere, varsa yedek listeden sıra ile kayıt süresi içerisinde adaylar, Enstitü Müdürlüğüne şahsen veya noter vekâletnamesine sahip vekiller aracılığı ile kayıt yaptırabilirler.
