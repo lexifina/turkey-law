@@ -1,0 +1,9 @@
+ÜÇÜNCÜ BÖLÜM
+Derse Devam, Ders Başarısı ve Değerlendirilmesi ile Koordinasyon Kurulu
+Derse devam, ders başarısı ve değerlendirilmesi
+MADDE 11 – (Değişik:RG-24/6/2018-30458)
+(1) (Değişik:RG-1/9/2025-33004) Yaz öğretiminde 13/4/2017 tarihli ve 30037 sayılı Resmî Gazete’de yayımlanan İstanbul Beykent Üniversitesi Ön Lisans ve Lisans Eğitim-Öğretim Yönetmeliği hükümleri uygulanır.
+(2) Yaz öğretiminde alınan derslerin başarı notu Ağırlıklı Genel Not Ortalamasına (AGNO) katılır. Yaz öğretiminde başarı notları, transkriptlerde yaz döneminde alındığı belirtilecek şekilde gösterilir.
+(3) Yaz döneminde başarı notunu yükseltmek amacıyla alınan derslerde son alınan not geçerlidir.
+(4) Yaz öğretimine diğer bir üniversitede öğrenci olduğunu belgeleyerek kaydolan öğrencilere yaz öğretiminde aldıkları derslerin adını, kodunu, ulusal kredisini, AKTS kredisini ve başarı notunu gösteren bir belge verilir.
+(5) Kayıtlı olunan programın cari ders planındaki derslerden daha önce Üniversitede alınmış ve devam koşulu sağlanmış ancak cari öğrenim yılı yaz öğreniminde Üniversitede açılmayan derslere karşılık olmak üzere ve eşdeğerliliği ilgili fakülte/yüksekokul yönetim kurullarınca kabul edilmek koşuluyla, bu Yönetmelikte belirlenen ders alma koşulları kapsamında olmak şartıyla, Üniversite dışından başka üniversitelerin yaz okullarından da ders alınabilir. Diğer üniversitelerden alınan derslerin başarı notları, fakülte/yüksekokul yönetim kurullarınca belirlenen öğrencinin kayıtlı olduğu program ders planındaki eşdeğer dersin kodu ve adı ile öğrencinin transkriptine işlenir. Diğer üniversitelerden alınan yaz okulu derslerinin başarı notları en geç devam eden akademik yılın güz dönemi sonuna kadar öğrencinin kayıtlı bulunduğu fakülteye, ilgili üniversitenin orijinal belgesi ibraz edilmek suretiyle bildirilir. Güz dönemi tamamlandıktan sonra getirilen yaz okulu notları dikkate alınmaz ve işlem yapılmaz.
