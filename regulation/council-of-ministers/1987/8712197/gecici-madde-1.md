@@ -1,0 +1,1 @@
+Geçici Madde 1 – Bu Yönetmeliğin yürürlüğe girmesinden önce kamu kurum ve kuruluşları bünyesinde kreş, gündüz bakımevi, çocuk bakımevi olarak faaliyet gösteren teşekküller mevcut yapılarını 6 ay içinde bu Yönetmelik hükümlerine uydurmak zorundadırlar.

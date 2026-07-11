@@ -1,0 +1,1 @@
+Geçici Madde 2 – 657 sayılı Kanuna 1327 sayılı Kanunla eklenen ek geçici 9, 12, 13 üncü maddeler ile 2802 sayılı Kanun kapsamına giren kurum personelinin çocukları için bu Yönetmelik hükümlerine göre çocuk bakımevleri açılabilir.
