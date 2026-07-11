@@ -1,0 +1,6 @@
+Karar
+MADDE 3- (1) İthalatta Korunma Önlemlerini Değerlendirme Kurulu, soruşturma sürecinde varılan tespitler ışığında Türk Gümrük Tarife Cetvelinde 3907.61.00.00.00 Gümrük Tarife İstatistik Pozisyonunda (GTİP) “78 ml/g veya daha fazla viskozitesi olanlar” tanımlı eşyanın ithalatında 3 (üç) yıl süreyle ek mali yükümlülük uygulanmasına, ek mali yükümlülüğün aşağıdaki tabloda belirtilen şekilde belirlenmesine, Dünya Ticaret Örgütü Korunma Önlemleri Anlaşmasının 12.3 üncü maddesi gereğince soruşturma konusu eşyanın ihracatçıları olarak önemli bir menfaati olan Dünya Ticaret Örgütü üyeleri ile talep olması halinde istişarelerde bulunulmasına, Korunma Önlemleri Anlaşmasının 9.1 inci maddesi gereğince gelişmekte olan ülkelere muafiyet tanınmasına ve önlemin istihsali hususunda Cumhurbaşkanlığına öneride bulunulmasına toplantıya katılan üyelerin oy çokluğu ile karar vermiştir.
+GTİP | EŞYA TANIMI | EK MALİ YÜKÜMLÜLÜK
+1. Dönem (19.7.2026-30.12.2026) | 2. Dönem (31.12.2026-30.12.2027) | 3. Dönem (31.12.2027-30.12.2028)
+3907.61.00.00.00 | 78 ml/g veya daha fazla viskozitesi olanlar | 120 ABD Doları /Ton | 115 ABD Doları/Ton | 110 ABD Doları /Ton
+(2) Birinci fıkrada belirtilen önlem, ilgili Cumhurbaşkanı Kararının yürürlüğe girmesiyle uygulanmaya başlar.
