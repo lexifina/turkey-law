@@ -1,0 +1,3 @@
+Alıma katılamayacak olanlar
+MADDE 9- (1) Alımı yapan İdare bünyesinde bulunan veya İdare ile ilgili her ne amaçla kurulmuş olursa olsun vakıf, dernek, birlik, sandık gibi kuruluşlar ile bu kuruluşların ortak oldukları şirketler hariç, 4734 sayılı Kanunun 11 inci maddesinde belirtilenler doğrudan veya dolaylı veya alt yüklenici olarak, kendileri veya başkaları adına hiçbir şekilde alımlara katılamazlar.
+(2) Bu yasaklara rağmen alıma katılan istekliler ile bu durumun tekliflerin değerlendirmesi aşamasında tespit edilememesi nedeniyle, kendisinden alım yapılmasına karar verilen istekliler hakkında 4734 sayılı Kanunun 11 inci maddesi hükümleri uygulanır.[3]

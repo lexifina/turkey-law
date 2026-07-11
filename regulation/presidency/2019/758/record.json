@@ -1,0 +1,26 @@
+{
+  "id": "presidency-regulation-758",
+  "number": "758",
+  "kind": "regulation",
+  "issuer": "presidency",
+  "title": "İÇİŞLERİ BAKANLIĞI TARAFINDAN, 4734 SAYILI KAMU İHALE KANUNUNUN 3 ÜNCÜ MADDESİNİN (B) BENDİ KAPSAMINDA YAPILACAK ALIMLARA İLİŞKİN USUL VE ESASLAR",
+  "published": "2019-02-14",
+  "enacted": "2019-02-13",
+  "gazette_number": "30686",
+  "in_force": "2026-07-11",
+  "in_force_basis": "Source commencement table, \"Yürürlüğe Giriş Tarihi\": 11/7/2026; source row: 10/7/2026 | 11527 | 2, 4, 8, 9, 13, 14, 15, 15/A, Geçici Madde 5 | 11/7/2026 | ",
+  "history": "current-only",
+  "version_label": "oldest version available",
+  "first_law": null,
+  "source": "https://www.mevzuat.gov.tr/anasayfa/MevzuatFihristDetayIframe?MevzuatNo=758&MevzuatTur=21&MevzuatTertip=5",
+  "source_sha256": "379bdea2f8dcb637fa0b6e4d363b6d0a53d14e4fe4ce81761d4c2e68158ba78c",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  },
+  "missing_components": [],
+  "text_layout": "article-files",
+  "source_links": [],
+  "completeness": "html-text-complete"
+}

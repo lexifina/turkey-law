@@ -1,0 +1,9 @@
+Kapsam
+MADDE 2- (1) Bu Usul ve Esaslar, Bakanlık ve Bakanlıkça yetki verilen diğer kurumlar ile Jandarma Genel Komutanlığı, Sahil Güvenlik Komutanlığı, Göç İdaresi Başkanlığı ve Emniyet Genel Müdürlüğü ile bunların nam ve hesabına alım yapan ya da yaptıran diğer kamu kurum ve kuruluşlarının ceza ve yasaklama hükümleri hariç 4734 sayılı Kanun hükümleri dışında kalarak yapacakları;[1]
+a) Savunma, güvenlik veya istihbarat alanları ile ilişkili olduğuna veya gizlilik içinde yürütülmesi gerektiğine Cumhurbaşkanı veya Bakanlık tarafından karar verilen veya mevzuatı uyarınca sözleşmenin yürütülmesi sırasında özel güvenlik tedbirleri alınması gereken veya devlet güvenliğine ilişkin temel menfaatlerin korunmasını gerektiren hallerle ilgili olan mal ve hizmet alımları ile yapım işlerini,
+b) Savunma, asayiş, kamu düzeni ve güvenlik ile ilgili silah, mühimmat, araç-gereç, makine, teçhizat ve bunların yapımı/imalatı, bakımı, onarımı, yenileştirmesi ve nakli kapsamındaki her türlü alımları,
+c) Beslenme (ambalajlanmış içme suyu dâhil), malzemeli veya malzemesiz yemek hazırlama ve dağıtım hizmeti, her türlü arama kurtarma ve operasyon malzemesi, asayiş ve güvenliğe yönelik canlı hayvan alımları, yakacak, giyim, kuşam (melbusat, teçhizat dâhil), ibate (27/6/1989 tarihli ve 375 sayılı Kanun Hükmünde Kararnamenin 28 inci maddesinin (A) fıkrası uyarınca terörle mücadeleye yönelik ek ve ilâve tazminat verilen 1 inci ve 2 nci derece kritik illerde konuşlu birlik vardiya yatakhanelerinin her türlü alımları dâhil), personel ve malzeme nakli ve personel servis taşıma hizmeti ihtiyaçlarına ilişkin alımları,
+ç) Akaryakıt ve akaryakıt ürünlerine ilişkin alımları,
+d) Konuşlanma yeri ve uygulama noktaları ile ilgili güvenlik ihtiyaçlarına ilişkin alımları
+kapsar.
+(2) Uluslararası anlaşmalar gereğince sağlanan dış finansman ile yaptırılacak olan ve finansman anlaşmasında farklı alım usul ve esasları uygulanacağı belirtilmeyen alımlarda bu esaslar uygulanır.

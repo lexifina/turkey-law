@@ -1,0 +1,3 @@
+Tekliflerin geçerlilik süresi
+MADDE 22- (1) Tekliflerin geçerlilik süresi alım dokümanında belirtilir. İdarece ihtiyaç duyulması halinde bu süre, teklif ve alım koşulları değiştirilmemek ve isteklinin kabulü kaydıyla uzatılabilir. Tekliflerin geçerlilik süresinin uzatılması halinde geçici teminat mektuplarının geçerlilik süresi bu süreye uygun olarak uzatılır. Bu konudaki istek ve cevaplar yazılı olacaktır.
+(2) Kesinleşen alım kararı bildirildikten sonra idareye başvuruda bulunulması, dava açılması veya kurumlardan talep edilen ancak belirli bir süre gerektiren bilgi ve belgelerin alınamaması vb. durumlar nedeniyle alım sürecinin uzaması sonucunda, teklif geçerlilik süresi isteklinin kabulü kaydıyla, idarece dokümanda öngörülen süre kadar uzatılabilir.

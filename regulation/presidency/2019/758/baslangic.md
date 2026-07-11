@@ -1,0 +1,3 @@
+İÇİŞLERİ BAKANLIĞI TARAFINDAN, 4734 SAYILI KAMU İHALE KANUNUNUN 3 ÜNCÜ MADDESİNİN (B) BENDİ KAPSAMINDA YAPILACAK ALIMLARA İLİŞKİN USUL VE ESASLAR
+Cumhurbaşkanı Kararının Tarihi : 13/2/2019 Sayısı : 758
+Yayımlandığı Resmî Gazetenin Tarihi : 14/2/2019 Sayısı : 30686

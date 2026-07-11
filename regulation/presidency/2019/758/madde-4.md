@@ -1,0 +1,26 @@
+Tanımlar
+MADDE 4- (1) Bu Usul ve Esasların uygulanmasında;
+a) Acil harekât ihtiyacı: Jandarma Genel Komutanlığı, Sahil Güvenlik Komutanlığı ve Emniyet Genel Müdürlüğünün; barışta, gerginlikte, iç güvenlik/asayişin sağlanmasında, olağanüstü hallerde ortaya çıkan veya önceden öngörülemeyen, kısa sürede karşılanması gereken, karşılanamaması durumunda ulusal ve/veya uluslararası görev ve/veya sorumluluklarının yerine getirilmesi ile iç güvenlik/asayişin sağlanmasını engelleyen doğrudan ya da dolaylı ihtiyaçları,
+b) Alım: Bu Usul ve Esaslarda tanımlanan ihale usulleri veya doğrudan temin yöntemi ile yapılan her türlü mal, hizmet ve yapım işi alımlarını,
+c) Araştırma-geliştirme (AR-GE): Araştırma ve geliştirme, kültür ve toplumun bilgisinden oluşan bilgi dağarcığının artırılması ve bunun yeni süreç, sistem ve uygulamalar tasarlanmak üzere kullanılması için sistematik bir temelde yürütülen yaratıcı çalışmaları, çevre uyumlu ürün tasarımı veya yazılım faaliyetleri ile alanında bilimsel ve teknolojik bir belirsizliğe odaklanan, çıktıları özgün, deneysel, bilimsel ve teknik içerik taşıyan faaliyetleri,
+ç) Bakan: İçişleri Bakanını,
+d) Bakanlık: İçişleri Bakanlığını,
+e) Bakan Yardımcısı: İçişleri Bakan Yardımcısını,
+f) Çerçeve anlaşma: Bir veya birden fazla idare ile ikiden fazla istekli arasında, belirli bir zaman aralığında gerçekleştirilecek alımların özellikle fiyat ve mümkün olan hallerde öngörülen miktarlarının tespitine ilişkin şartları belirleyen anlaşmayı,
+g) Dinamik alım sistemi: Piyasada mamul olarak bulunan malların tedarikine yönelik, tekliflerin değerlendirilmesi aşamasından sonra kullanılmak üzere tamamen elektronik ortamda gerçekleştirilen alım sürecini,
+ğ) Doküman: Alım konusuna ilişkin isteklilere talimatları da içeren idari şartname, sözleşme tasarısı, teknik şartname, katalog, alıma esas numune, stok numarası, proje ve alım süreci ile ilgili diğer belgelerden bir veya birkaçını,
+h) Elektronik eksiltme: Tekliflerin değerlendirilmesinin ardından elektronik ortamda eksiltme şeklinde sunulan yeni fiyatların veya belirli teklif unsurlarına ilişkin yeni değerlerin bir elektronik araç marifetiyle otomatik değerlendirme metotları kullanılarak yeniden değerlendirilmesi ve sıralandırılması şeklinde tekrar eden işlemleri,
+ı) Elektronik ortam: Dijital veri sıkıştırması dâhil, verilerin işlenmesi ve muhafazası için elektronik cihazların kullanılması suretiyle bilgilerin kablo, radyo, optik cihazlar veya diğer elektromanyetik usullerle iletilmesi, nakledilmesi veya alınmasını,
+i) Genel Müdürlük: Emniyet Genel Müdürlüğünü,
+j) Gizlilik ve güvenlik gerektiren işler: Ülkenin istihbarat, asayiş ve güvenlik hizmetlerinin etkin bir şekilde sürdürülmesi için, güvenlik veya gizlilik içinde yürütülmesi gerektiğine Bakan tarafından karar verilen işleri,
+k) İdare: İhale/alım yapan birimi,
+l) İhale yetkilisi: Bütçe ile ödenek tahsis edilen harcama biriminin en üst yöneticisini,
+m) İnterpol: Uluslararası Polis Teşkilatını,
+n) Komutanlık: Jandarma Genel Komutanlığı veya Sahil Güvenlik Komutanlığını,
+o) Münferit sözleşme: Çerçeve anlaşma kapsamında yapılan alımlarda istekliler ile idare arasında imzalanan yazılı sözleşmeyi,
+ö) NSPA: NATO Destek ve Tedarik Ajansını,
+p) Sözleşme: Mal ve hizmet alımları ile yapım işlerinde idare ile yüklenici arasında yapılan yazılı anlaşmayı,
+r) Standardizasyon: İşletme-idame maliyetlerinin asgari düzeye indirilmesi veya envanterde bulunan sistemlerle uyumun sağlanması amacıyla kalite, marka, model veya üretici firma birliğinin sağlanması işlemini,
+s) (Ek:RG-11/7/2026-33307-C.K-11527/2 md.) Genel sipariş sözleşmesi/anlaşması: İdare ile bir veya birden fazla istekli arasında, belirli bir zaman aralığında gerçekleştirilecek alımların, özellikle fiyat ve mümkün olan hallerde öngörülen miktarının tespitine ilişkin şartları belirleyen sözleşmeyi/anlaşmayı,
+ifade eder.
+(2) Bu Usul ve Esaslarda tanımı bulunmayan hususlar hakkında, kamu ihale mevzuatında yer alan tanımlar esas alınır.

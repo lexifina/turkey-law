@@ -1,0 +1,8 @@
+Diğer hususlar
+MADDE 37- (1) Sözleşmenin uygulanması sırasında sözleşme konusu alımın niteliğinde, işlevlerinde ve kullanım amaçlarında iyileştirme yapılmasının sözleşmenin devamı için zorunlu olması, maddi ve hukuki sebeplerle kamu menfaatinin bulunduğunun tespit edilmesi veya idarenin hizmet ve ihtiyaçları bakımından zorunlu diğer hallerin mevcut olması durumunda; gerekçelerin belirtilmesi, yüklenici tarafından kabul edilmesi ve işin esasından ayrılmamak kaydıyla sözleşme ve eklerinde ek sözleşme ile değişiklik yapılabilir.
+(2) 4734 sayılı Kanunun 53 üncü maddesinde yer alan Kamu İhale Kurumu geliri bu Usul ve Esaslara göre yapılan ihalelerde alınmaz.
+(3) Bu Usul ve Esaslar kapsamında yapılacak yapım işi ihalelerinde kamulaştırma, mülkiyet, arsa temini, imar işlemleri ve uygulama projesine ilişkin şartlar aranmaksızın alıma çıkılabilir.
+(4) Sözleşmenin devri, sözleşmenin feshi ve ortak girişimlere ilişkin işlemlerde, 4734 sayılı Kanun ile 4735 sayılı Kanunda belirtilen hükümler uygulanır.
+(5) Sürelerin hesaplanmasında, bu Usul ve Esaslarda hüküm bulunmayan hallerde 11/1/2011 tarihli ve 6098 sayılı Türk Borçlar Kanunu hükümleri uygulanır.
+(6) Aday ve isteklilere yapılacak her türlü bildirim ve tebligat, dokümanda farklı bir düzenleme yapılmadığı takdirde, 4734 sayılı Kanunun 65 inci maddesi ile 6/12/2018 tarihli ve 30617 sayılı Resmî Gazetede yayımlanan Elektronik Tebligat Yönetmeliği hükümlerine göre yapılır.
+(7) Bu Usul ve Esaslarda yer alan düzenlemelerin uygulanmasına veya bu Usul ve Esaslarda yer almayan diğer hususların belirlenmesine yönelik olarak ilave düzenlemeler Bakanlıkça yapılır. İlave düzenlemeler yapılıncaya kadar varsa ihtiyaç duyulan düzenlemeler alınacak Bakan onaylarında belirtilir.
