@@ -1,0 +1,55 @@
+{
+  "source_id": "9.5.24517",
+  "kind": "communique",
+  "register_kind": "Tebliğler",
+  "title": "İTHALATTA GÖZETİM UYGULANMASINA İLİŞKİN TEBLİĞ (TEBLİĞ NO: 2018/5)",
+  "number": "24517",
+  "issuer": "Ekonomi Bakanı",
+  "path": "teblig/2018/24517",
+  "source": "https://www.mevzuat.gov.tr/anasayfa/MevzuatFihristDetayIframe?MevzuatTur=9&MevzuatNo=24517&MevzuatTertip=5",
+  "source_sha256": "25821589eee6b1d77f717202a9dd0962bf01b8dc2984c54fa40e74add870caa4",
+  "source_bytes": 32952,
+  "published": "2018-04-16",
+  "gazette": "30393",
+  "in_force": "2026-07-11",
+  "in_force_basis": "latest Resmî Gazete date printed in the source amendment notes/table (\"RG-11/7/2026\") for the current consolidated text",
+  "date_evidence": [
+    [
+      "2026-07-11",
+      "RG-11/7/2026",
+      "Resmî Gazete date printed in the source amendment note"
+    ],
+    [
+      "2026-07-11",
+      "11/7/2026",
+      "Resmî Gazete date in the source amendment table"
+    ],
+    [
+      "2025-12-31",
+      "31/12/2025",
+      "Resmî Gazete date in the source amendment table"
+    ],
+    [
+      "2023-06-23",
+      "23/6/2023",
+      "Resmî Gazete date in the source amendment table"
+    ]
+  ],
+  "commencement_clauses": [
+    "Bu Tebliğ yayımı tarihinde yürürlüğe girer"
+  ],
+  "history": "current-text",
+  "label": "oldest version available",
+  "checked_on": "2026-11-15",
+  "word_count": 624,
+  "text_status": "current-consolidated",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  },
+  "source_links": [
+    "9.5.24517-Ek.docx"
+  ],
+  "completeness": "html-text-complete; linked annexes not fetched"
+}
