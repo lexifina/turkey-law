@@ -1,0 +1,36 @@
+{
+  "checked_on": "2026-11-13",
+  "date_gazette": "33307",
+  "date_quote": "RG-11/7/2026-33307",
+  "first_law": null,
+  "gazette": "33124",
+  "history": "current-text",
+  "images": {
+    "deferred": 0,
+    "omitted": 0,
+    "referenced": 0,
+    "source": 0
+  },
+  "in_force": "2026-07-11",
+  "in_force_basis": "latest source-printed Resmi Gazete amendment date (current consolidated text)",
+  "issuer": "Ticaret Bakanlığı",
+  "issuer_catalog_evidence": [
+    {
+      "evidence": "issuer-504-0.json",
+      "id": "504",
+      "label": "Ticaret Bakanlığı",
+      "listing_url": "https://www.mevzuat.gov.tr/Anasayfa/MevzuatDatatable?MevzuatTur=Teblig&KurumId=504&start=0&length=100"
+    }
+  ],
+  "issuer_slug": "ticaret-bakanligi",
+  "kind": "communique",
+  "label": "oldest version available",
+  "notes": [],
+  "published": "2025-12-31",
+  "source": "https://www.mevzuat.gov.tr/anasayfa/MevzuatFihristDetayIframe?MevzuatTur=9&MevzuatNo=42911&MevzuatTertip=5",
+  "source_bytes": 538481,
+  "source_id": "9.5.42911",
+  "source_sha256": "0efdcace55c304cc30b050f776911eafcb7cc738479513c7eed8010bae4a7bc5",
+  "title": "MAKİNALARIN İTHALAT DENETİMİ TEBLİĞİ (ÜRÜN GÜVENLİĞİ VE DENETİMİ: 2026/32)",
+  "word_count": 4964
+}
