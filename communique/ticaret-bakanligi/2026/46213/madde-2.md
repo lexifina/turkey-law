@@ -1,0 +1,2 @@
+Ön inceleme
+MADDE 2- (1) Söz konusu başvuruya istinaden yapılan ön inceleme esnasında; mevcut korunma önleminin uygulanmaya başlaması sonrasında ithalatın önemli ölçüde azaldığı ancak son dönemde mutlak ve nispi olarak arttığı, yerli üretim dalının bazı ekonomik göstergelerinde önlem uygulanan dönemde toparlanma görülmekle beraber son dönemde, kârlılık ve istihdam göstergelerinde bozulmalar olduğu tespit edilmiştir.
