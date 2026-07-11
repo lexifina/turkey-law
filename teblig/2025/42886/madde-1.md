@@ -1,0 +1,4 @@
+Amaç ve kapsam
+MADDE 1- (1) Bu Tebliğin amacı, Ek-1’de yer alan ürünlerin, ithalatta 23/6/2017 tarihli ve 30105 mükerrer sayılı Resmî Gazete’de yayımlanan Kimyasalların Kaydı, Değerlendirilmesi, İzni ve Kısıtlanması Hakkında Yönetmeliğe, teknik düzenlemenin bulunmadığı veya insan sağlığı ve güvenliğine ilişkin hükümler içermediği durumlarda 11/3/2021 tarihli ve 31420 sayılı Resmî Gazete’de yayımlanan Genel Ürün Güvenliği Yönetmeliğine ve 31/12/2009 tarihli ve 27449 dördüncü mükerrer sayılı Resmî Gazete’de yayımlanan Biyosidal Ürünler Yönetmeliği ile 3/5/2016 tarihli ve 29701 sayılı Resmî Gazete’de yayımlanan Bazı Tüketici Ürünlerinde Uygunluk Denetimi Tebliğine uygunluğunun denetimine ilişkin usul ve esasları düzenlemektir.
+(2) Bu Tebliğ Serbest Dolaşıma Giriş Rejimine tabi tutulacak ürünleri kapsar.
+(3) Bu Tebliğ Hariçte İşleme Rejimi uyarınca ihraç edilip geri gelen eşyaları kapsamaz.
