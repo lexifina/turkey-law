@@ -1,0 +1,1 @@
+[1] 11/7/2026 tarihli ve 33307 sayılı Resmî Gazete’de yayımlanan değişiklik ile bu tabloya 238 sıra numaralı satırdan sonra gelmek üzere “8536.50.80.00.10 - Hareket algılama özelliği olanlar – LVD” satırı eklenmiş ve diğer satırlar buna göre teselsül ettirilmiştir.
