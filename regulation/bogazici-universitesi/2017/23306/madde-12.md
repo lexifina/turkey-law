@@ -1,0 +1,13 @@
+Lisansüstü programlara kabul
+MADDE 12 – (1) Lisansüstü programlara kabul için;
+a) Lisans diploması ile yüksek lisans veya doktora programına başvuran adayların lisans öğrenimini başarıyla tamamlamaları,
+b) Tezli yüksek lisans diploması ile doktora programına başvuran adayların tezli yüksek lisans öğrenimini başarıyla tamamlamaları,
+c) Senato tarafından kabul edilen ve son iki yıl içinde alınmış bir İngilizce dil sınavında başarılı olmaları veya bu Yönetmelik hükümlerine göre bu sınavdan muaf sayılmaları ya da hazırlık sınıfına kabul edilme şartlarını sağlamaları,
+ç) (Değişik:RG-29/12/2025-33122) Başvurdukları programın puan türünde Yükseköğretim Kurulu tarafından ilan edilen ALES taban puanından az olmamak koşuluyla anabilim dallarının tespit etmiş olduğu ve başvurunun yapıldığı tarihte sınavın açıklandığı tarihten itibaren ilgili sınavı yapan kurumun belirlediği geçerlilik süresi dolmamış ALES puanına sahip olmaları,
+d) Yükseköğretim Kurulu tarafından ALES taban puanına karşılık gösterilen GMAT veya GRE puanından az olmamak koşuluyla ve süresi beş yıldan fazla olmamak üzere ilgili anabilim dalları tarafından geçerlilik süresi ve seviyesi belirlenen GMAT veya GRE puanına sahip olmaları,
+e) Doktora programına lisans diploması ile başvuracak olan adayların 4,00 üzerinden en az 3,00 veya Üniversite Yönetim Kurulu tarafından belirlenen eşdeğer bir mezuniyet not ortalamasına sahip olmaları,
+f) Doktora programına öğrenci kabulünde anadilleri dışında Yükseköğretim Kurulu tarafından kabul edilen merkezi yabancı dil sınavlarından ÖSYM tarafından belirlenen minimum puan veya ÖSYM tarafından eşdeğerliği kabul edilen uluslararası yabancı dil sınavlarından bu puan muadili bir puan almış olmaları,
+g) (Değişik:RG-12/7/2026-33308) İlgili anabilim dalı tarafından ilgili bilim alanında adayların yeterlilik düzeylerinin değerlendirilmesi için, ilgili anabilim dalının önerdiği öğretim üyeleri arasından üç asıl üye, iki yedek üyeden oluşan ve ilgili enstitü yönetim kurulu tarafından onaylanan kabul komisyonunca yapılan yazılı/sözlü sınavda başarılı olmaları ve belirlenen bilimsel değerlendirme koşullarını sağlamaları,
+ğ) Anabilim dalları tarafından belirlenen, ilgili enstitü yönetim kurulu ve Üniversite Yönetim Kurulu tarafından onaylanan ve ilan edilen tüm ek koşulları sağlamaları,
+gerekir.
+(2) (Değişik:RG-29/12/2025-33122) Üniversitenin lisansüstü programlarına yapılan başvurular, ilgili anabilim dalı tarafından değerlendirilerek kontenjan dâhilinde kabul listesi oluşturulur ve ilgili enstitü yönetim kuruluna önerilir. Önerilen kabul listesi ilgili enstitü yönetim kurulunda değerlendirilerek karara bağlanır ve ilan edilir.

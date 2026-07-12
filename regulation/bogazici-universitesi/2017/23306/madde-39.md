@@ -1,0 +1,3 @@
+Doktora tez danışmanı görevlendirilmesi
+MADDE 39 – (Değişik:RG-13/7/2023-32247)
+(1) İlgili anabilim dalının önerisi ile ilgili enstitü yönetim kurulu tarafından her öğrenciye, Üniversitenin kadrosunda bulunan ve başarıyla tamamlanmış en az bir lisansüstü tez yönetmiş tam zamanlı bir öğretim üyesi tez danışmanı olarak görevlendirilir. Tez danışmanı ve tez önerisi enstitü yönetim kurulu kararıyla kesinleşir. Tez danışmanının en geç ikinci yarıyılın sonuna kadar atanması zorunludur. Tez çalışmasının niteliğinin birden fazla tez danışmanı gerektirdiği durumlarda atanacak ikinci tez danışmanı, Üniversite kadrosu dışından da en az doktora derecesine sahip kişilerden olabilir.

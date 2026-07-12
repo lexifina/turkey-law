@@ -1,0 +1,3 @@
+Yüksek lisans tez danışmanı görevlendirilmesi
+MADDE 30 – (Değişik:RG-12/3/2023-32130)
+(1) İlgili anabilim dalının önerisi ile ilgili enstitü yönetim kurulu tarafından her öğrenciye en geç birinci yarıyılın sonuna kadar Üniversitenin kadrosunda bulunan tam zamanlı bir öğretim üyesi tez danışmanı olarak görevlendirilir. Tez çalışmasının niteliğinin birden fazla tez danışmanı gerektirdiği durumlarda doktora derecesine sahip ikinci bir tez danışmanı eş danışman olarak görevlendirilebilir. İlgili anabilim dalı, öğrencinin tez danışmanıyla beraber belirlediği tez konusunu en geç ikinci yarıyılın sonuna kadar enstitüye önerir. Tez danışmanı ve tez konusu enstitü yönetim kurulu onayı ile kesinleşir.
