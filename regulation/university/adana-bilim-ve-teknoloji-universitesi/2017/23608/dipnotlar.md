@@ -1,0 +1,1 @@
+[1] 12/7/2026 tarihli ve 33308 sayılı Resmî Gazete’de yayımlanan değişiklik ile bu Yönetmeliğin adı “Adana Alparslan Türkeş Bilim ve Teknoloji Üniversitesi Kadın Çalışmaları Uygulama ve Araştırma Merkezi Yönetmeliği” iken metne işlendiği şekilde değiştirilmiştir.
