@@ -1,0 +1,21 @@
+{
+  "record_type": "parliament-written-question",
+  "term": 28,
+  "legislative_year": 4,
+  "esas_no": "7/46565",
+  "submitted": "2026-07-13",
+  "submitted_as": "Başkanlığa geliş tarihi",
+  "mp": "Sibel SUİÇMEZ",
+  "province": "Trabzon",
+  "summary": "Fındık üreticisinin sorunlarına ve üreticiye sağlanan desteklere ilişkin",
+  "status": "Süresi Geçtikten Sonra Cevaplandı",
+  "status_as_of": "2026-11-16",
+  "official_record": "https://www.tbmm.gov.tr/Denetim/Yazili-Soru-Onergesi-Detay/fa77ebaf-3f92-4e99-9f78-019f60105947",
+  "source": "https://tbmm.gov.tr/Denetim/YaziliSoruOnergesiTable",
+  "source_form": "https://tbmm.gov.tr/Denetim/Yazili-Soru-Onergeleri",
+  "source_sha256": "1549586939d06274a72dbf6e930a8cb4ff1acbd94f97335173aaf3b6bbae33b7",
+  "in_force": "2026-07-13",
+  "in_force_basis": "Date the question reached the Speaker (Başkanlığa geliş tarihi) in the official TBMM written-question record; parliamentary oversight record, not law",
+  "history_type": "metadata",
+  "text_status": "metadata-only: question text, addressee and answers are in the linked official record (PDFs on cdn.tbmm.gov.tr); not transcribed here"
+}
