@@ -1,0 +1,23 @@
+{
+  "issuer": "İzmir Büyükşehir Belediye Meclisi",
+  "number": "04.822",
+  "decision_date": "2026-07-13",
+  "title": "imar – deprem – kentsel",
+  "version_label": "official-summary",
+  "source_url": "https://www.izmir.bel.tr/IBB-IZMIRBB-C1/Paylasim/MeclisKararOzetleri/17072026_045159_KararOzet_04.822%20imar%20%E2%80%93%20deprem%20%E2%80%93%20kentsel.pdf",
+  "source_sha256": "268c2bf261e38e71ade1c912ac4540d2e03a96a85b72cf45370ffa2cb98da4fb",
+  "source_listing_url": "https://www.izmir.bel.tr/tr/IbbMeclisi/TariheGoreKararGetirJS?yil=2026&ay=&gun=&txtSozcuk=&draw=1&start=0&length=1000&txtKararNo=",
+  "official_id": "36669",
+  "text_status": "official decision summary text; full adopted text not separately supplied by this register",
+  "privacy_flags": [],
+  "normative_images": 0,
+  "source_image_inventory": [
+    {
+      "page": 1,
+      "source_images": 0,
+      "decorative_logos": 0,
+      "normative_images": 0
+    }
+  ],
+  "annex_status": "The register supplies this decision-summary PDF; the full adopted decision and any separate supporting annexes are not supplied here."
+}
