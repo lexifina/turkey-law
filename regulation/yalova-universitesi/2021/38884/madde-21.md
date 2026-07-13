@@ -1,0 +1,5 @@
+Öğrenci değişimi
+MADDE 21 – (1) Üniversite ile yurt içi veya yurt dışı yükseköğretim kurumları arasında karşılıklı anlaşmalar çerçevesinde Erasmus, Farabi, Mevlana gibi değişim programları düzenlenebilir. Değişim programları, ilgili mevzuat, YÖK kararları, ikili anlaşmalar ve Senato kararlarına göre yürütülür.
+(2) Değişim programları çerçevesinde, yurt içindeki ve yurt dışındaki üniversitelere bir veya iki yarıyıl süreyle öğrenci gönderilebilir ve bu süre programın öğrenim süresinden sayılır.
+(3) Öğrencilerin değişim programları kapsamında diğer yükseköğretim kurumlarında tamamladığı ders ve diğer öğretim faaliyetlerinin, programındaki derslere eşdeğerliği EABD/EASD’nin uygun görüşü ve EYK’nın kararı ile belirlenir. Değişim programlarında alınan notların Üniversite not sistemine çevrilmesinde Senato tarafından kabul edilen not dönüşüm tablosu esas alınır. Öğrenci bu süre içinde uzmanlık alan dersinden muaf tutulur.
+(4) Değişim programı kapsamında başka üniversitelerden gelen öğrencilere de Üniversitede eğitim aldıkları süre içerisinde bu Yönetmelik hükümleri uygulanır.

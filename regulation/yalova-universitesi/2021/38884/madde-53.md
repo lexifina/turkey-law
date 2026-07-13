@@ -1,0 +1,6 @@
+Dönem projesinin sonuçlanması
+MADDE 53 – (1) Öğrenci dönem projesini hazırlayarak en erken ikinci yarıyıl sonunda danışmanına teslim eder. Danışman projeye ilişkin intihal raporunu Üniversitenin kabul ettiği intihal tespit programını kullanarak alır. İntihalin tespit edilmemesi halinde danışman, bir adet projeyi, danışmanın onayını içeren formu, projenin yazım kurallarına uygunluğuna ilişkin yazılı görüşü ve intihal raporunu güz veya bahar yarıyılında olmak kaydıyla akademik takvimde belirtilen sürede EABD/EASD başkanlığı aracılığıyla Enstitüye gönderir.
+(2) Projenin bilimsel yeterliliği ve ilgili yazım kılavuzuna uygunluğundan danışman birinci derecede sorumludur.
+(3) İntihal raporundaki verilerde gerçek bir intihalin tespiti halinde rapor, gerekçesi ile birlikte EYK tarafından karar verilmek üzere Enstitüye gönderilir.
+(4) İntihal raporunda, kaynakça hariç en fazla %25 benzerlik oranına izin verilir.
+(5) (Değişik:RG-13/7/2026-33309) Tezsiz yüksek lisans proje sınav jürisi, tez danışmanı ve ilgili EABD/EASD başkanlığının önerisi ve EYK onayı ile atanır. Jüri, biri öğrencinin proje danışmanı ve diğerleri de Üniversite içinden olmak üzere üç öğretim üyesi veya doktora/sanatta yeterlik derecesine sahip öğretim görevlisinden oluşur.

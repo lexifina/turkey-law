@@ -1,0 +1,3 @@
+Mazeretler
+MADDE 25 – (1) Ara sınav, yarıyıl sonu sınavı, yarıyıl içindeki kısa sınav/sınavlar ve uygulama gibi tüm sınavlara katılamayan öğrenci, ilgili sınavın yapıldığı tarihten itibaren en geç beş iş günü içinde mazeretini belgeleyerek bir dilekçe ekinde dersin öğretim üyesine yazılı olarak bildirir. Öğretim üyesi tarafından öğrencinin mazereti değerlendirilir ve uygun görüldüğü takdirde mazeret sınavı yapılır.
+(2) Yurt dışı görevlendirilme, hastalık, jüri üyelerinin çekilmesi gibi zorunlu haller ve EYK’nın uygun göreceği diğer mazeret halleri nedeniyle zamanında gerçekleştirilemeyen yeterlik, tez öneri, tez izleme ve tez/proje savunma sınavları, EYK’nın belirleyeceği tarihlerde gerçekleştirilir.

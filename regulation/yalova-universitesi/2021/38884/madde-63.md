@@ -1,0 +1,6 @@
+Doktora/sanatta yeterlik diploması
+MADDE 63 – (1) (Değişik:RG-13/7/2026-33309) Tez savunma sınavında başarılı olan öğrenci; danışmanının yazım kurallarına uygunluk onayını içeren yazılı görüşüyle birlikte tezin bir dijital ve ciltlenmiş bir basılı kopyasını sınav tarihinden itibaren bir ay içinde Enstitüye teslim eder.
+(2) Birinci fıkrada belirtilen yükümlülükleri zamanında yerine getiren ve doktora/sanatta yeterlik programı için belirtilen tüm koşulları sağlayan öğrenci doktora/sanatta yeterlik diploması almaya hak kazanır.
+(3) EYK, başvuru üzerine tezin teslim süresini en fazla bir ay daha uzatabilir. Bu koşulları yerine getirmeyen öğrenci koşulları yerine getirinceye kadar diplomasını alamaz, öğrencilik haklarından yararlanamaz ve azami süresinin dolması halinde Üniversite ile ilişiği kesilir.
+(4) Doktora/sanatta yeterlik diploması üzerinde EABD/EASD’deki programın YÖK tarafından onaylanmış adı bulunur. Mezuniyet tarihi tezin sınav jüri komisyonu tarafından imzalı nüshasının Enstitüye teslim edildiği tarihtir.
+(5) Enstitü tarafından tezin tesliminden itibaren üç ay içinde doktora/sanatta yeterlik tezinin bir kopyası elektronik ortamda, bilimsel araştırma ve faaliyetlerin hizmetine sunulmak üzere YÖK’e gönderilir.

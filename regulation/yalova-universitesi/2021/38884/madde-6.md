@@ -1,0 +1,3 @@
+Programların açılması
+MADDE 6 – (1) Bir EABD/EASD bünyesinde tezli, tezsiz, uzaktan öğretim ve yabancı dilde yüksek lisans programı ile doktora/sanatta yeterlik programı, ilgili EABD/EASD başkanlığının teklifi, EK’nın uygun görüşü, Senatonun kararı ve YÖK’ün onayı ile açılır. Doktora/sanatta yeterlik programları haricindeki diğer programlar ikinci öğretimde de açılabilir.
+(2) Ortak lisansüstü programlar, mevzuatta öngörülen usulle yurt içindeki ve yurt dışındaki diğer yükseköğretim kurumlarıyla birlikte açılabilir. Yurt dışı ortak lisansüstü programlar EYK’nın teklifi, EK’nın uygun görüşü, Senatonun kararı ve YÖK’ün onayı ile açılır. Bu programların uygulama usul ve esasları EK’nın önerisiyle Senato tarafından belirlenir.
