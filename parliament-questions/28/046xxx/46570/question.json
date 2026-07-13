@@ -1,0 +1,21 @@
+{
+  "record_type": "parliament-written-question",
+  "term": 28,
+  "legislative_year": 4,
+  "esas_no": "7/46570",
+  "submitted": "2026-07-13",
+  "submitted_as": "Başkanlığa geliş tarihi",
+  "mp": "Yüksel Selçuk TÜRKOĞLU",
+  "province": "Bursa",
+  "summary": "Bursa Batı Bölgesi Entegre Katı Atık Geri Kazanım ve Bertaraf Tesisine ulaşımda kullanılan güzergaha ilişkin",
+  "status": "Süresi Geçtikten Sonra Cevaplandı",
+  "status_as_of": "2026-11-16",
+  "official_record": "https://www.tbmm.gov.tr/Denetim/Yazili-Soru-Onergesi-Detay/a339677c-f21a-4379-b80d-019f5fd9e09d",
+  "source": "https://tbmm.gov.tr/Denetim/YaziliSoruOnergesiTable",
+  "source_form": "https://tbmm.gov.tr/Denetim/Yazili-Soru-Onergeleri",
+  "source_sha256": "1549586939d06274a72dbf6e930a8cb4ff1acbd94f97335173aaf3b6bbae33b7",
+  "in_force": "2026-07-13",
+  "in_force_basis": "Date the question reached the Speaker (Başkanlığa geliş tarihi) in the official TBMM written-question record; parliamentary oversight record, not law",
+  "history_type": "metadata",
+  "text_status": "metadata-only: question text, addressee and answers are in the linked official record (PDFs on cdn.tbmm.gov.tr); not transcribed here"
+}
