@@ -1,0 +1,31 @@
+{
+  "act_path": "regulation/university/ibn-haldun-universitesi/2026/46215",
+  "availability": "text",
+  "checked_on": "2026-11-14",
+  "commencement_clauses": [
+    "MADDE 18- (1) Bu Yönetmelik yayımı tarihinde yürürlüğe girer."
+  ],
+  "date_quote": "MADDE 18- (1) Bu Yönetmelik yayımı tarihinde yürürlüğe girer.",
+  "first_law": null,
+  "gazette": "33310",
+  "history": "as-enacted",
+  "images": {
+    "deferred": 0,
+    "omitted": 0,
+    "referenced": 0,
+    "source": 0
+  },
+  "in_force": "2026-07-14",
+  "in_force_basis": "source commencement clause: effective on Gazette publication",
+  "issuer": "İbn Haldun Üniversitesi",
+  "issuer_slug": "ibn-haldun-universitesi",
+  "kind": "regulation",
+  "published": "2026-07-14",
+  "source": "https://www.mevzuat.gov.tr/anasayfa/MevzuatFihristDetayIframe?MevzuatTur=8&MevzuatNo=46215&MevzuatTertip=5",
+  "source_id": "8.5.46215",
+  "source_sha256": "759d40351896ec9d493b005f47dc1c632574f8926593d1f07b8a845b9321e0cf",
+  "title": "İBN HALDUN ÜNİVERSİTESİ KÖRFEZ ÇALIŞMALARI VE KÜRESEL\r\nPOLİTİKALAR UYGULAMA VE ARAŞTIRMA MERKEZİ YÖNETMELİĞİ",
+  "university_id": 460,
+  "version_label": "oldest version available",
+  "word_count": 1225
+}
