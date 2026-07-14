@@ -1,0 +1,24 @@
+{
+  "number": "219",
+  "number_as_published": "219",
+  "year": 2026,
+  "title": "Nazım İmar Planı Değişikliği(Haliliye - Paşabağı - 4097/1 - 4096/1)",
+  "decision_date": "2026-07-14",
+  "source": "https://www.sanliurfa.bel.tr/icerik/23360/106/nazim-imar-plani-degisikligihaliliye---pasabagi---4097-1---4096-1",
+  "official_document": null,
+  "source_sha256": "35be71c731d2fae134bbd4045f478f3f67c9bec63dbafd0b2d9b419a4564dde2",
+  "issuer": "Şanlıurfa Büyükşehir Belediye Meclisi",
+  "history_type": "metadata",
+  "text_status": "metadata-only: decision number, date and subject from the official announcement; the decision text is not published on the page",
+  "in_force": "2026-07-14",
+  "in_force_basis": "Decision date as printed in the official council listing: 14.07.2026 tarih ve 219 sayılı (council decision cited in the official announcement); adoption date of the council decision; legal commencement not asserted",
+  "missing": [
+    "complete official decision text",
+    "official annexes"
+  ],
+  "law_text_complete": false,
+  "privacy_withheld": false,
+  "record_scope": "one council decision, as cited in the municipality's official plan announcement (ilan)",
+  "announcement_date": "2026-07-30",
+  "listing": "https://www.sanliurfa.bel.tr/kategori/82/0/meclis-kararlari?page=1"
+}
