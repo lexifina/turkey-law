@@ -1,0 +1,21 @@
+{
+  "record_type": "parliament-written-question",
+  "term": 28,
+  "legislative_year": 4,
+  "esas_no": "7/47022",
+  "submitted": "2026-07-16",
+  "submitted_as": "Başkanlığa geliş tarihi",
+  "mp": "Melih MERİÇ",
+  "province": "Gaziantep",
+  "summary": "Kamu bankalarının reklam ve ilan harcamalarına ilişkin",
+  "status": "Cevaplandı",
+  "status_as_of": "2026-11-16",
+  "official_record": "https://www.tbmm.gov.tr/Denetim/Yazili-Soru-Onergesi-Detay/15e471f8-74b0-4711-8f5b-019f70830eda",
+  "source": "https://tbmm.gov.tr/Denetim/YaziliSoruOnergesiTable",
+  "source_form": "https://tbmm.gov.tr/Denetim/Yazili-Soru-Onergeleri",
+  "source_sha256": "8e9020aee359c5ceafd6bfd4130f42eeac07a7752ba94de49249ac873725c528",
+  "in_force": "2026-07-16",
+  "in_force_basis": "Date the question reached the Speaker (Başkanlığa geliş tarihi) in the official TBMM written-question record; parliamentary oversight record, not law",
+  "history_type": "metadata",
+  "text_status": "metadata-only: question text, addressee and answers are in the linked official record (PDFs on cdn.tbmm.gov.tr); not transcribed here"
+}
