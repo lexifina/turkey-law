@@ -1,0 +1,4 @@
+Aidat yükümlülüğüne ilişkin esaslar
+MADDE 23 – (1) Süresi içerisinde ödenmeyen aidatlar ile yerine getirilen aidat yükümlülüğünün ilave aidat yükümlülüğü doğuracak şekilde farklı olduğunun tespit edilmesi halinde, doğacak aidat farkları, aidat için belirlenen son ödeme gününden itibaren 21/7/1953 tarihli ve 6183 sayılı Amme Alacaklarının Tahsil Usulü Hakkında Kanuna göre hesaplanacak gecikme zammı oranında uygulanacak faiz oranı ile birlikte 9/6/1932 tarihli ve 2004 sayılı İcra ve İflas Kanunu hükümlerine göre YTM tarafından tahsil edilir.
+(2) Fazla yatırıldığı tespit edilen aidat tutarları, YTM’nin belirleyeceği usul ve esaslar çerçevesinde faizsiz olarak ilgili yatırım kuruluşuna iade edilir.
+(3) Aidat yükümlülüklerinin süresi içerisinde yerine getirilmediğinin veya aidat hesaplamasında esas alınan verilerin gerçeğe uygun olmadığının tespit edilmesi halinde ilgili yatırım kuruluşları YTM tarafından Kurul’a ve Birlik’e bildirilir.

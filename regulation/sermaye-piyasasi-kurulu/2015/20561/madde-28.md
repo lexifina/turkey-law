@@ -1,0 +1,4 @@
+Zamanaşımına uğrayan varlıkların iadesi
+MADDE 28- (Başlığı ile Birlikte Değişik:RG-16/7/2026-33311)
+(1) 24 üncü maddenin birinci fıkrası kapsamında YTM’ye devredilen emanet ve alacakların hak sahiplerinin başvurması halinde, sermaye piyasası araçları Takasbank ve MKK nezdindeki hesaplarda bulunan bakiyeler üzerinden; nakitler ise 27 nci maddenin üçüncü fıkrası uyarınca dağıtılan nema tutarı ile birlikte, başvuran hak sahiplerine iade edilir.
+(2) Bu madde kapsamında iade başvurularının e-Devlet üzerinden elektronik ortamda yapılması esastır. Elektronik ortamda yapılamayan başvurulara ilişkin Kurulca belirlenecek esaslar Kurul Bülteni’nde ve YTM’nin kurumsal internet sitesinde; elektronik ortamda yapılacak başvurulara ilişkin uygulama rehberi ise YTM’nin kurumsal internet sitesinde ilan edilir.

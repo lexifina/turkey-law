@@ -1,0 +1,2 @@
+Personelde aranacak şartlar
+MADDE 7 – (1) YTM’de işçi statüsünde istihdam edilecek personelde Bakanlar Kurulunun 29/6/2009 tarihli ve 2009/15188 sayılı Kararı ile yürürlüğe konulan Kamu Kurum ve Kuruluşlarına İşçi Alınmasında Uygulanacak Usul ve Esaslar Hakkında Yönetmelik’in 4 üncü maddesinde belirtilen genel şartlar aranır. Sözleşmeli olarak istihdam edilecek personelde işin niteliğine göre özel şartlar da aranabilir.

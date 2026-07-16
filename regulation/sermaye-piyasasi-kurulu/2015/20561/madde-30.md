@@ -1,0 +1,3 @@
+Bütçe, mali tablo ve raporlar
+MADDE 30 – (1) YTM bütçesi ve kesin hesabı, Yönetim Kurulu tarafından onaylanır. Bütçe YTM’nin bütçe yılı içindeki gelir ve gider tahminlerini gösterir. Bütçe yılı takvim yılıdır. YTM gelirlerinin yeterli olması halinde, yıl içerisindeki ilave ödenek ihtiyacı için mevcut veya yeni açılacak tertiplere Yönetim Kurulu tarafından ödenek eklenebilir. Bütçe içi ödenek aktarması yapmaya Başkan yetkilidir.
+(2) YTM, yıllık mali tabloları ile hesap dönemine ilişkin faaliyetlerini ve sonraki dönem hakkında görüş ve önerileri ile alınması gereken önlemleri içeren bir faaliyet raporunu düzenleyerek takip eden yılın mart ayı sonuna kadar Kurula gönderir.

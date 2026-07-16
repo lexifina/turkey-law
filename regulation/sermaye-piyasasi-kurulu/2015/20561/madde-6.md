@@ -1,0 +1,6 @@
+YTM’nin personeli
+MADDE 6 – (1) YTM tarafından yürütülecek iş ve işlemlerin Kurul personeli ve bu iş için istihdam edilecek personel tarafından yerine getirilmesi esastır. YTM’nin hizmet gerekleri göz önüne alınarak, Kurul Başkanının onayı ile YTM faaliyetlerinin yerine getirilmesi amacıyla, yeter sayıda Kurul personeli görevlendirilir.
+(2) YTM faaliyetlerinin, etkin ve verimli bir şekilde yerine getirilmesini sağlamak amacıyla giderleri YTM bütçesinden karşılanmak üzere 22/5/2003 tarihli ve 4857 sayılı İş Kanunu hükümlerine göre hizmet sözleşmesi ile işçi statüsünde personel istihdam edilebilir.
+(3) Gerekli görülen durumlarda, koşulları Yönetim Kurulu tarafından belirlenmek üzere, YTM işleri için dışarıdan avukatlık hizmeti ve diğer hizmetler temin edilebilir.
+(4) YTM, Kanunun kendisine verdiği görevlerle sınırlı olmak üzere BİAŞ, MKK, Takasbank ve Birlik’ten geçici personel talebinde bulunabilir. Bu kişilere YTM tarafından ayrıca ücret ödenmez.
+(5) YTM personeli, görevleri sırasında öğrendikleri sırları bu Yönetmelik, Kanun ve özel kanunlarına göre yetkili olanlardan başkasına açıklayamaz ve kendilerinin veya başkalarının yararına kullanamazlar. YTM’nin dışarıdan destek hizmeti aldığı kişi ve kuruluşlar ile bunların çalışanları da bu hükme tabidir. Bu yükümlülük görevden ayrıldıktan sonra da devam eder.

@@ -1,0 +1,75 @@
+{
+  "source_id": "7.5.20561",
+  "kind": "regulation",
+  "register_kind": "Kurum ve Kuruluş Yönetmelikleri",
+  "title": "YATIRIMCI TAZMİN MERKEZİ YÖNETMELİĞİ",
+  "number": "20561",
+  "issuer": "Sermaye Piyasası Kurulu",
+  "issuer_slug": "sermaye-piyasasi-kurulu",
+  "path": "regulation/sermaye-piyasasi-kurulu/2015/20561",
+  "source": "https://www.mevzuat.gov.tr/anasayfa/MevzuatFihristDetayIframe?MevzuatTur=7&MevzuatNo=20561&MevzuatTertip=5",
+  "source_sha256": "29b614fdf69e15dbc03a6d92f6bc9e64187c9f2204dbed2070fa14ffc39ca3df",
+  "source_bytes": 90905,
+  "published": "2015-02-27",
+  "gazette": "29280",
+  "in_force": "2026-07-16",
+  "in_force_basis": "latest Resmî Gazete date printed in the source amendment notes/table (\"RG-16/7/2026\") for the current consolidated text",
+  "date_evidence": [
+    [
+      "2026-07-16",
+      "RG-16/7/2026",
+      "Resmî Gazete date printed in the source amendment note"
+    ],
+    [
+      "2026-07-16",
+      "16/7/2026",
+      "Resmî Gazete date in the source amendment table"
+    ],
+    [
+      "2024-04-30",
+      "RG-30/4/2024",
+      "Resmî Gazete date printed in the source amendment note"
+    ],
+    [
+      "2024-04-30",
+      "30/4/2024",
+      "Resmî Gazete date in the source amendment table"
+    ],
+    [
+      "2022-06-28",
+      "RG-28/6/2022",
+      "Resmî Gazete date printed in the source amendment note"
+    ],
+    [
+      "2022-06-28",
+      "28/6/2022",
+      "Resmî Gazete date in the source amendment table"
+    ],
+    [
+      "2021-08-26",
+      "RG-26/8/2021",
+      "Resmî Gazete date printed in the source amendment note"
+    ],
+    [
+      "2021-08-26",
+      "26/8/2021",
+      "Resmî Gazete date in the source amendment table"
+    ],
+    [
+      "2020-03-20",
+      "20/3/2020",
+      "Resmî Gazete date in the source amendment table"
+    ]
+  ],
+  "history": "current-text",
+  "label": "oldest version available",
+  "checked_on": "2026-11-15",
+  "word_count": 5933,
+  "text_status": "current-consolidated",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  },
+  "completeness": "html-text-complete"
+}

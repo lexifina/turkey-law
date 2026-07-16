@@ -1,0 +1,3 @@
+22/4/2021-31/12/2021 tarih aralığındaki zamanaşımı devirlerinin yerine getirilmesi
+GEÇİCİ MADDE 8 – (Ek:RG-26/8/2021-31580)
+(1) 22/4/2021 ila 31/12/2021 tarihleri arasında zamanaşımına uğrayan emanet ve alacaklarla ilgili olarak 26 ncı madde kapsamındaki devirler ile 27 nci madde kapsamındaki hesapların tanımlanması işlemleri 31/12/2021 tarihine kadar yapılır. Anılan devirlerin yapılması ve hesapların tanımlanması işlemleri tamamlanana kadar, yatırım kuruluşlarının hesaplarında izlenen zamanaşımına uğramış emanet ve alacaklar, zamanaşımı tarihinden itibaren 27 nci maddenin üçüncü fıkrası hükmü kapsamında yatırım kuruluşlarınca nemalandırılır.
