@@ -1,0 +1,25 @@
+{
+  "issuer": "İzmir Büyükşehir Belediye Meclisi",
+  "number": "04.861",
+  "decision_date": "2026-07-16",
+  "title": "Izmir council decision summary 04.861",
+  "version_label": "metadata-only",
+  "source_url": "https://www.izmir.bel.tr/IBB-IZMIRBB-C1/Paylasim/MeclisKararOzetleri/22072026_111151_KararOzet_04.861%20imar%20ve%20bay%C4%B1nd%C4%B1rl%C4%B1k-%C3%A7evre%20ve%20sa%C4%9Fl%C4%B1k-s%C3%BCrd%C3%BCr%C3%BClebilir%20enerji%20ve%20iklim%20de%C4%9Fi%C5%9Fikli%C4%9Fi.pdf",
+  "source_sha256": "1df24af2874461a2af76fe48d073c3128ba0c4b05548a043431e452a763162d8",
+  "source_listing_url": "https://www.izmir.bel.tr/tr/IbbMeclisi/TariheGoreKararGetirJS?yil=2026&ay=&gun=&txtSozcuk=&draw=1&start=0&length=1000&txtKararNo=",
+  "official_id": "36743",
+  "text_status": "metadata-only; possible private-person name or personal-data marker found; official link retained",
+  "privacy_flags": [
+    "possible named private person in decision context"
+  ],
+  "normative_images": 0,
+  "source_image_inventory": [
+    {
+      "page": 1,
+      "source_images": 0,
+      "decorative_logos": 0,
+      "normative_images": 0
+    }
+  ],
+  "annex_status": "The register supplies this decision-summary PDF; the full adopted decision and any separate supporting annexes are not supplied here."
+}
